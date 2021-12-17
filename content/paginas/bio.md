@@ -13,9 +13,6 @@ menu:
 
 {{< figure src="/wp-uploads/2010/05/carlos-gil-bellosta.png" alt="Carlos J. Gil Bellosta" >}}
 
-[![carlos-gil-bellosta](/wp-uploads/2010/05/carlos-gil-bellosta.png)
-](http://www.datanalytics.com/wp-uploads/2010/05/carlos-gil-bellosta.png)
-
 Carlos J. Gil Bellosta es ex-eBay, ex-BBVA, ex-everis, ex-Barclays, exmatemático, ex-casi todo. No obstante, estadístico diletante, científico de datos, entusiasta de R y bloguero en los ratos libres de los días de hacer.
 
 Aunque radicado en Madrid, estudió matemáticas y estadística en la Universidad de Zaragoza y Washington University en San Luis, EE.UU.
