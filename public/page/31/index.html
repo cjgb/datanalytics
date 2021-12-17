@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta name="generator" content="Hugo 0.81.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="asdf">
+		<meta property="og:title" content="datanalytics" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/05/07/elecciones-e-indice-supernaif-de-shapley/" rel="bookmark">
+			Elecciones e índice (supernaíf) de Shapley
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-05-07T09:13:34Z">2019-5-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Aprovechando que el paquete [GameTheoryAllocation](https://cran.r-project.org/package=GameTheoryAllocation) ha emergido de mi FIFO de pendientes a los pocos días de conocerse los resultados de las [adjetivo superlativizado omitidísimo] elecciones generales, voy a calcular de la manera más naíf que se me ocurre el índice de Shapley de los distintos partidos. Que es:
+Al menos, de acuerdo con el siguiente código:
+&lt;code&gt;library(GameTheoryAllocation) partidos &lt;- c(123, 66, 57, 35, 24, 15, 7, 7, 6, 4, 2, 2, 1, 1) names(partidos) &lt;- c(&quot;psoe&quot;, &quot;pp&quot;, &quot;cs&quot;, &quot;iu&quot;, &quot;vox&quot;, &quot;erc&quot;, &quot;epc&quot;, &quot;ciu&quot;, &quot;pnv&quot;, &quot;hb&quot;, &quot;cc&quot;, &quot;na&quot;, &quot;compr&quot;, &quot;prc&quot;) coaliciones &lt;- coalitions(length(partidos)) tmp &lt;- coaliciones$Binary profit &lt;- tmp %*% partidos profit &lt;- 1 * (profit &gt; 175) res &lt;- Shapley_value(profit, game = &quot;profit&quot;) res &lt;- as.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/05/06/elecciones-mapas-y-mi-favorito/" rel="bookmark">
+			Elecciones, mapas... y mi favorito
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-05-06T09:13:37Z">2019-5-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		De entre lo bueno que pudan haber traído las últimas elecciones generales (las españolas de abril de 2019, para quien requiera mayor precisión) puede contarse una pequeña revolución en la cartografía electoral.
+Debemos agradecérselo al equipo de Kiko Llaneras en El País, que nos han regalado esto. Prueba de que las cosas han cambiado es que ha sido replicado en otros sitios, como este.
+[Nota: no sé si estoy cometiendo injusticias en el párrafo anterior por omisión o confusión en las prelaciones; si alguien dispone de más o mejor información sobre la intrahistoria de esas publicaciones, que me avise.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/25/yo-no-elaboro-programas-electorales-pero-si-propuestas-de-proyectos/" rel="bookmark">
+			Yo no elaboro programas electorales pero sí propuestas de proyectos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-25T09:13:18Z">2019-4-25</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Yo elaboro propuestas de proyectos. Sé lo que pasa cuando los ganas (y también cuando no). Así que pienso en un proyecto
+ de cuatro años de duración, * compartido con otras empresas de intereses variopintos y sujeto a negociaciones con ellas, * con una cuota de responsabilidad desconocida a priori y * en un contexto cambiante y sujeto a circunstancias extrañas y fuera de control (y si no sabéis a qué me refiero, un nombre: Zapatero)  y me da la risa pensar que alguien pueda tomarse en serio algo llamado programa (electoral, por si alguien no se había percatado de a lo que me refiero).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/22/ml-y-estadistica-cosas-distintas/" rel="bookmark">
+			ML y estadística, ¿cosas distintas?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-22T09:13:08Z">2019-4-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Recomiendo, sin comentarlo, un artículo muy desasosegador en el que se leen cosas como:
+Todo interesante y nada que tomarse a la ligera. Es No, Machine Learning is not just glorified Statistics.
+Nota: coméntalo si quieres; yo igual vuelvo sobre él pronto.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/" rel="bookmark">
+			Sobre el error de generalización (porque a veces se  nos olvida)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-16T09:13:23Z">2019-4-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Al construir modelos, queremos minimizar
+$latex l(\theta) = \int L(y, f_\theta(x)) , dP(x,y),$
+donde $L$ es una determinada función de pérdida (y no, no me refiero exclusivamente a la que tiene un numerilo 2). Pero como de $latex P(x,y)$ solo conocemos una muestra $latex (x_i, y_i)$ (dejadme aprovechar la ocasión para utilizar una de mis palabras favoritas: $latex P(x,y)$ es incognoscible), hacemos uso de la aproximación
+$latex \int f(x) , dP(x) \approx \frac{1}{N} \sum f(x_i)$
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/15/las-altas-dimensiones-son-campo-minado-para-la-intuicion/" rel="bookmark">
+			Las altas dimensiones son campo minado para la intuición
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-15T09:13:16Z">2019-4-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Las dimensiones altas son un campo minado para la intuición. Hace poco (y he perdido la referencia) leí a un matemático que trabajaba en problemas en dimensiones altas decir que le gustaba representar y pensar en las bolas (regiones del espacio a distancia &lt;1 de 0) en esos espacios usando figuras cóncavas, como las que aparecen a la izquierda de
+precisamente porque una de las propiedades más fructíferas de las bolas en altas dimensiones es que apenas tienen interior.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/10/un-resultado-contraintuitivo/" rel="bookmark">
+			Un resultado contraintuitivo
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-10T09:13:23Z">2019-4-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Esta entrada recoge la pregunta y la duda que motivó una conversación con Javier Nogales en Twitter hace unos días.]
+Citaba (él) un resultado de Theobald de 1974 (¿tanto lleva ridge entre nosotros? ¡habría jurado que menos!) que viene a decir que siempre existe un peso $latex \lambda$ para el que ridge es mejor que OLS.
+Ves el álgebra y piensas: verdad será.
+Pero te fías de tu propia intuición y piensas: ¡vaya un resultado contraintuitivo si no contradictorio!
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/" rel="bookmark">
+			Gestión del riesgo: una perífrasis con hitos aprovechables
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-09T09:13:50Z">2019-4-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Traigo a la consideración de mis lectores Sobre la Sostenibilidad Fiscal de España (II), un artículo de hace un tiempo que es una larga perífrasis alrededor de principios cualitativos muy contrastados sobre la gestión de riesgo (bajo incertidumbre, si se me tolera el pleonasmo). La conclusión es bien sabida pero el camino recorre una serie de hitos que mucho tienen que ver con lo que suelo escribir por aquí. Arranca con una afirmación desconcertante:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/08/demasiada-gente-conozco-que-todavia-no-sabe-de-gpt-2/" rel="bookmark">
+			Demasiada gente conozco que todavía no sabe de GPT-2
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-08T09:13:10Z">2019-4-8</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Así que si eres uno de ellos, lee esto. Todo. Completo. Incluidos los motivos por los que no se va a liberar tal cual.
+Si te quedas con ganas de más, lee esto (un divertimento) o, más en serio, esto otro, donde se da cuenta de uno de los logros de GPT-2 que, a primera vista, pasa desapercibido: que ha logrado adquirir determinadas habilidades sin haber sido entrenado específicamente para ello.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/05/simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados/" rel="bookmark">
+			Simulación de procesos de Poisson no homogéneos y autoexcitados
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-05T09:13:37Z">2019-4-5</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/consultor%C3%ADa/" rel="category">consultoría</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Fueron mis modelos favoritos un tiempo, cuando modelaba visitas y revisitas de usuarios a cierto malhadado portal.
+Si las visitas fuesen aleatorias (en cierto sentido), tendrían un aspecto no muy distinto del que se obtiene haciendo
+library(IHSEP) suppressWarnings(set.seed(exp(pi * complex(imaginary = 1)))) tms &lt;- simPois(int = function(x) .1, cens = 1000) hist(tms, breaks = 100, main = &quot;Proceso homogéneo de Poisson&quot;, xlab = &quot;&quot;, ylab = &quot;frecuencia&quot;)  Es decir,
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/04/el-dia-de-la-oximoron/" rel="bookmark">
+			El día del oxímoron
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-04T09:13:18Z">2019-4-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Han aparecido dos artículos publicados en prensa hoy, en el mismo día:
+ Indra deja desiertos 800 puestos en España por falta de mano de obra cualificada_ _ * El sistema me ha expulsado por no publicar, que trata de cómo _Cristina Gil-Lamaignere trabajó con un Nobel y ahora cursa un grado de FP porque no ha podido acreditar su labor científica_  Tengo más comentarios que hacer que tiempo para escribirlos, así que dejo que cada cual saque su propia conclusión.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/" rel="bookmark">
+			Incertidumbre en ránkings (o cómo la varianza es la mayor enemiga de la meritocracia)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-03T19:27:36Z">2019-4-3</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/art%C3%ADculos/" rel="category">artículos</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Tengo por ahí leído y encolado el artículo League Tables and Their Limitations: Statistical Issues in Comparisons of Institutional Performance del perínclito Spiegelhalter que toma una serie de ránkings (de colegios, de hospitales) y trata de medir cuánto tienen de sustancia y cuánto de ruido.
+Hace cosas muy similares a las que escribí aquí. Mi entrada, además, cuenta con la ventaja (que lo será solo para algunos) de usar la sintaxis y código de [lme4](https://cran.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/04/02/vale-realmente-el-bootstrap-para-comparar-modelos/" rel="bookmark">
+			¿Vale realmente el &#34;bootstrap&#34; para comparar modelos?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-04-02T09:13:36Z">2019-4-2</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Es una pregunta legítima —en el sentido de que ignoro la respuesta— que tengo. Para plantearla en sus debidos términos:
+Contexto:
+Tenemos modelos y queremos compararlos. Queremos que funcionen en el universo, pero solo disponemos de él una muestra.
+Acto 1:
+Para desatascar el nudo lógico, recurrimos a técnicas como:
+ Entrenamiento y validación,j * jackknife y sobre todo, * su popular evolución, la validación cruzada.  Todas ellas bien sabidas y discutidas en todos los manuales.
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/page/30/">«</a>
+	<span class="pagination__item pagination__item--current">31/161</span>
+	<a class="pagination__item pagination__item--next btn" href="/page/32/">»</a>
+</div>
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

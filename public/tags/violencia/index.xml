@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>violencia on datanalytics</title>
+    <link>/tags/violencia/</link>
+    <description>Recent content in violencia on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 May 2019 09:13:15 +0000</lastBuildDate><atom:link href="/tags/violencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matematización oscurantista</title>
+      <link>/2019/05/23/matematizacion-oscurantista/</link>
+      <pubDate>Thu, 23 May 2019 09:13:15 +0000</pubDate>
+      
+      <guid>/2019/05/23/matematizacion-oscurantista/</guid>
+      <description>Hoy he participado en una discusión en Twitter acerca del artículo Eficacia predictiva de la valoración policial del riesgo de la violencia de género que sus autores resumen así:
+En el artículo aprendemos que el protocolo VPR es una especie de modelo que asigna a cada caso una valoración de riesgo de agresión en una escala de 5 niveles: «no se da», «baja», «media», «alta» y «extrema».
+Para evaluarlo se han tomado 407 casos que se han seguido en el tiempo, al cabo del cual se han registrado 20 denuncias.</description>
+    </item>
+    
+  </channel>
+</rss>

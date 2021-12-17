@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tezanos on datanalytics</title>
+    <link>/tags/tezanos/</link>
+    <description>Recent content in tezanos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 06 Feb 2019 08:13:06 +0000</lastBuildDate><atom:link href="/tags/tezanos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Cocinas electorales&#34; con encuestas muy sesgadas</title>
+      <link>/2019/02/06/cocinas-electorales-con-encuestas-muy-sesgadas/</link>
+      <pubDate>Wed, 06 Feb 2019 08:13:06 +0000</pubDate>
+      
+      <guid>/2019/02/06/cocinas-electorales-con-encuestas-muy-sesgadas/</guid>
+      <description>Muchos hablan de las cocinas de la que salen los resultados de las encuestas electorales pero pocos las han visto. ¿Qué ocurre en ellas y qué problemas tratan de resolver? Lee Forecasting elections with non-representative polls y lo verás (bien hecho, no a lo Tezanos el Metodólogo).</description>
+    </item>
+    
+  </channel>
+</rss>

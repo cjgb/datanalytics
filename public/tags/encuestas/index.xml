@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encuestas on datanalytics</title>
+    <link>/tags/encuestas/</link>
+    <description>Recent content in encuestas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 02 Dec 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/encuestas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</title>
+      <link>/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/</link>
+      <pubDate>Thu, 02 Dec 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/</guid>
+      <description>Me refiero a los mostrados en el siguiente gráfico (del que he sido una microcausa):
+Siguiendo recomendaciones, he decidido visualizar los datos sobre la gravedad de casos de COVID-19 según estado de vacunación que hizo públicos el Ministerio de Sanidad antes de ayer.
+Este gráfico permite visualizar la tasa por grupos y la diferencia entre ellas al mismo tiempo. pic.twitter.com/t3zcSsQUKD
+&amp;mdash; 📊⛏ Picanúmeros (@Picanumeros) November 25, 2021  En él se ve, por ejemplo, como la probabilidad de acabar en la UCI para la gente entre 60 y 80 años es hasta 23 veces mayor entre los no vacunados que entre los vacunados.</description>
+    </item>
+    
+    <item>
+      <title>Nuevo vídeo en YouTube. Esta vez, sobre encuestas.</title>
+      <link>/2021/04/04/nuevo-video-en-youtube-esta-vez-sobre-encuestas/</link>
+      <pubDate>Sun, 04 Apr 2021 14:35:45 +0000</pubDate>
+      
+      <guid>/2021/04/04/nuevo-video-en-youtube-esta-vez-sobre-encuestas/</guid>
+      <description>Después de superado el último pico de trabajo y una afonía galopante, vuelvo a la carga con un viejo tema: el de la fiabilidad de las encuestas.
+https://www.youtube.com/watch?v=G--BwF3dUF8</description>
+    </item>
+    
+    <item>
+      <title>La &#34;cocina&#34;, para anumeristas y conspiranoicos</title>
+      <link>/2020/11/18/la-cocina-para-anumeristas-y-conspiranoicos/</link>
+      <pubDate>Wed, 18 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/18/la-cocina-para-anumeristas-y-conspiranoicos/</guid>
+      <description>El otro día —no importa dónde— presencié los denodados y desencaminados esfuerzos de alguien —tampoco importa quién— por explicar primero y convencer después de los beneficios de la llamada cocina de las encuestas electorales. Constantado la inoperancia de los argumentos técnicos, estuve pensando un buen rato en buscar símiles cotidianos. Di con este, que es el que comparto por referencia para mí y puede que para otros.
+Tienes ese amigo que dizque va a llegar en 30 minutos y lo hace al cabo de una hora.</description>
+    </item>
+    
+    <item>
+      <title>Encuesta de Estructura Salarial y R: propedéutica</title>
+      <link>/2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/</link>
+      <pubDate>Thu, 21 Mar 2019 08:13:41 +0000</pubDate>
+      
+      <guid>/2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/</guid>
+      <description>La nota de prensa que acompaña a los resultados definitivos de la EES de 2014 reza:
+Para poder replicar esa cifra y poder comparar manzanas con manzanas hay que preprocesar los datos crudos de la EES así:
+&amp;lt;code&amp;gt;library(MicroDatosEs) dat &amp;lt;- ees2010(&amp;quot;md_EES_2014.txt&amp;quot;) # Días año dat$DIASRELABA &amp;lt;- dat$DRELABAM * 30.42 + dat$DRELABAD dat$DIASRELABA[dat$DIASRELABA &amp;gt; 365]&amp;lt;- 365 dat$DIASANO &amp;lt;- dat$DIASRELABA - dat$DSIESPA2 - dat$DSIESPA4 # Salario bruto anual dat$SALANUAL = (365/dat$DIASANO)*(dat$SALBRUTO + dat$VESP)&amp;lt;/code&amp;gt;  Ahora sí que se puede definir, por ejemplo,</description>
+    </item>
+    
+    <item>
+      <title>Encuesta Social Europea: un cociente</title>
+      <link>/2018/10/31/encuesta-social-europea-un-cociente/</link>
+      <pubDate>Wed, 31 Oct 2018 08:13:59 +0000</pubDate>
+      
+      <guid>/2018/10/31/encuesta-social-europea-un-cociente/</guid>
+      <description>Leo (fuente):
+ [&amp;hellip;] en su comparecencia del año pasado comentó algo sobre un pago al exterior de 174 000 euros, correspondiente a la cuota del consorcio de infraestructuras científicas, ERIC, que, como bien sabe, es el consorcio internacional que se encarga de realizar la encuesta social europea. El año pasado dijo que le preocupaba que 2017 fuese el último año en el que España formase parte de esa encuesta social europea porque teníamos cuota de país invitado y no de socio de la infraestructura, algo que nos parece preocupante.</description>
+    </item>
+    
+    <item>
+      <title>Enlaces parasociológicos</title>
+      <link>/2018/10/29/enlaces-parasociologicos/</link>
+      <pubDate>Mon, 29 Oct 2018 08:13:21 +0000</pubDate>
+      
+      <guid>/2018/10/29/enlaces-parasociologicos/</guid>
+      <description>Tenía tan bien guardados en el disco duro una serie de enlaces de interés parasociológico que no había forma humana de dar con ellos.
+Para que no me vuelva a pasar y por su potencial interés para otros, los cuelgo aquí.
+El primero de ellos (que no sé por qué lo guardé) son las diapositivas de una charla acerca de cómo transformar porcentajes de votos en escaños en España.
+Los otros tres se refieren a la metodología que utiliza la gente de electionforecast.</description>
+    </item>
+    
+    <item>
+      <title>Acerca del CIS y la cocina</title>
+      <link>/2018/10/01/acerca-del-cis-y-la-cocina/</link>
+      <pubDate>Mon, 01 Oct 2018 08:13:44 +0000</pubDate>
+      
+      <guid>/2018/10/01/acerca-del-cis-y-la-cocina/</guid>
+      <description>Escribo hoy acerca del CIS y la cocina de la intención de voto. Lo hago desde la ignorancia informada en esos temas y sin pretensión alguna de ser o parecer más listo que otros.
+El CIS realiza unas encuestas (con un muestreo amplio y bien diseñado, cuentan), de las que obtiene, entre otras cosas, una serie de datos, $latex x$ que incluyen simpatía, recuerdo de voto, etc. Existe por otra parte un valor enteléquico, $latex y$, no siempre observable, que conocemos por resultados electorales si se votase hoy o algo parecido.</description>
+    </item>
+    
+    <item>
+      <title>No os creáis esta encuesta: ¡n = 10!</title>
+      <link>/2018/01/22/no-os-creais-esta-encuesta-n-10/</link>
+      <pubDate>Mon, 22 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/22/no-os-creais-esta-encuesta-n-10/</guid>
+      <description>(Por referencia, el enlace).</description>
+    </item>
+    
+    <item>
+      <title>Sobre el problema de las martingalas: ¿cuántos sabíais la respuesta?</title>
+      <link>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</link>
+      <pubDate>Tue, 19 Dec 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</guid>
+      <description>Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefirió dejarse llevar por la intuición y errar. Pero volvamos a los hechos. Dado
+En un país hipotético, las familias tienen críos hasta que nace el primer varón. En un año, en promedio, nacen:
+&amp;mdash; Carlos Gil Bellosta (@gilbellosta) December 10, 2017  la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?</description>
+    </item>
+    
+    <item>
+      <title>Predecir a los predictores por incordiar</title>
+      <link>/2017/09/05/predecir-a-los-predictores-por-incordiar/</link>
+      <pubDate>Tue, 05 Sep 2017 08:13:18 +0000</pubDate>
+      
+      <guid>/2017/09/05/predecir-a-los-predictores-por-incordiar/</guid>
+      <description>Sirve esta entrada para hacer saber lo fundamental del trabajo de fin de master (TFM en lo que sigue) de Susana Huedo (que busca trabajo y es una chica muy sabida, aplicada y espabilada) en el CIFF. Los TFM que propongo y acabo supervisando jamás tienen vocación de criogénesis anaquélica. A Susana le sugerí un tema muy punk y con recorrido: [tratar de] predecir a los predictores. Fundamentalmente, para joder.</description>
+    </item>
+    
+    <item>
+      <title>Me encanta la confianza torera en las encuestas</title>
+      <link>/2017/07/03/me-encanta-la-confianza-torera-en-las-encuestas/</link>
+      <pubDate>Mon, 03 Jul 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/07/03/me-encanta-la-confianza-torera-en-las-encuestas/</guid>
+      <description>Me encanta la confianza torera en las encuestas. Ayer domingo se publicaron, que yo sepa, dos sobre lo mismo:
+ * _[El PSOE se atasca tras las primeras decisiones de Pedro Sánchez](http://politica.elpais.com/politica/2017/07/01/actualidad/1498927428_222042.html)_ * _[Sánchez impulsa al PSOE (25%) al mejor resultado desde la irrupción de Podemos](http://www.elconfidencial.com/espana/2017-07-02/sondeo-encuesta-dym-rajoy-psoe-sanchez-iglesias-rivera_1408025/)_  Los comentarios, a la discreción del lector.</description>
+    </item>
+    
+    <item>
+      <title>Cosas de Twitter (y encuestas)</title>
+      <link>/2017/05/11/cosas-de-twitter-y-encuestas/</link>
+      <pubDate>Thu, 11 May 2017 08:13:05 +0000</pubDate>
+      
+      <guid>/2017/05/11/cosas-de-twitter-y-encuestas/</guid>
+      <description>Hoy (día en que escribo, no en que lees) se han publicado los resultados de intención electoral del CIS (los de los barómetros), de cuya cocina ha salido
+Esos números han producido una avalancha de comentarios en Twitter sobre la ecuanimidad del CIS. Sobre todo en el sentido de que hincha los resultados de los partidos de la derecha. Nada nuevo bajo el sol.
+Los datos son de la primera semana de abril, del 1 al 8.</description>
+    </item>
+    
+    <item>
+      <title>¿Es Vd. de izquierdas o de derechas?</title>
+      <link>/2017/05/10/es-vd-de-izquierdas-o-de-derechas/</link>
+      <pubDate>Wed, 10 May 2017 08:13:23 +0000</pubDate>
+      
+      <guid>/2017/05/10/es-vd-de-izquierdas-o-de-derechas/</guid>
+      <description>En una escala (de enteros) del 1 al 10, ¿cuál es el punto medio? ¿Cuál indicaría indiferencia entre ambas opciones? No, no es 5; es 5.5.
+Cuando el CIS, en sus barómetros, como el de abril, pregunta
+obtiene las respuestas en las que se aprecian fenómenos sesgantes como, por ejemplo:
+ * Toda esa gente que se define ni fú ni fá (véase el pico en el 5), va a elegir 5 pero ¿por qué no 6?</description>
+    </item>
+    
+    <item>
+      <title>¿Dónde dejar de leer? Un caso práctico</title>
+      <link>/2017/04/28/donde-dejar-de-leer-un-caso-practico/</link>
+      <pubDate>Fri, 28 Apr 2017 08:13:54 +0000</pubDate>
+      
+      <guid>/2017/04/28/donde-dejar-de-leer-un-caso-practico/</guid>
+      <description>Hay mucho por leer. El tiempo es finito y valioso. Es imperativo contar con criterios para dejar de leer. Identificar señales tempranas que indiquen que no merece la pena seguir. Generalmente, porque te están tratando de vender una moto.
+En una de las primeras diapositivas de la VIII Encuesta de Percepción de la Ciencia realizado por la Fundación Española para la Ciencia y la Tecnología (Fecyt) se muestran las respuestas a la siguiente pregunta:</description>
+    </item>
+    
+    <item>
+      <title>La tierra gira alrededor del sol, sí, pero... ¿cuánta gente lo sabe?</title>
+      <link>/2017/04/20/la-tierra-gira-alrededor-del-sol-si-pero-cuanta-gente-lo-sabe/</link>
+      <pubDate>Thu, 20 Apr 2017 08:13:17 +0000</pubDate>
+      
+      <guid>/2017/04/20/la-tierra-gira-alrededor-del-sol-si-pero-cuanta-gente-lo-sabe/</guid>
+      <description>Pues según la VIII Encuesta de Percepción de la Ciencia realizado por la Fundación Española para la Ciencia y la Tecnología (Fecyt), el 88.3% de los españoles (mayores de cierta edad y tal, supongo).
+Así lo recogen los medios que podéis consultar al respecto.
+Pero, ¿de acuerdo con los muy escépticos y bien informados lectores de esta página? No, a este selecto grupúsculo de irreductibles carpetovetones no nos van a engañar con unas sumitas de Excel.</description>
+    </item>
+    
+    <item>
+      <title>Tres grandes problemas que ocupan pero, según el CIS, no preocupan</title>
+      <link>/2017/04/03/tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupan/</link>
+      <pubDate>Mon, 03 Apr 2017 08:13:33 +0000</pubDate>
+      
+      <guid>/2017/04/03/tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupan/</guid>
+      <description>Plañe el periodista porque dizque hay tres graves problemas que, a pesar de lo que ocupan (en los medios), a la hora del CIS, no preocupan.
+Aggiorno una vieja entrada para ver, por ejemplo, cómo ha variado en los últimos años la preocupación de los encuestados por el CIS acerca de uno de los tres graves problemas:
+De hecho, el porcentaje que se muestra indica la proporción de los encuestados que mencionaron el asunto como uno de los tres principales problemas de España.</description>
+    </item>
+    
+    <item>
+      <title>Escribid a ley de Stamp en un papelito y pegadla en el espejo</title>
+      <link>/2017/01/11/escribid-a-ley-de-stamp-en-un-papelito-pegadla-en-el-espejo/</link>
+      <pubDate>Wed, 11 Jan 2017 08:13:39 +0000</pubDate>
+      
+      <guid>/2017/01/11/escribid-a-ley-de-stamp-en-un-papelito-pegadla-en-el-espejo/</guid>
+      <description>Esta página me conduce a esta otra en la que, aparte de revelar su la autoría, nos informa de que la cita
+se conoce a veces como ley de Stamp.</description>
+    </item>
+    
+    <item>
+      <title>Pesadumbre e incertidumbre desencadenadas</title>
+      <link>/2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/</link>
+      <pubDate>Thu, 10 Nov 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/</guid>
+      <description>Hoy escribo afectado por un derrame de pesadumbre. Pero esa es solo una opinión que igual no importa nadie.
+Estas del 8 de noviembre han sido las elecciones en que menos y que más caso he hecho de las encuestas electorales. Cansado del cada vez más monótono ciclo de que
+ * se publican encuestas electorales * llegan las elecciones y el resultado no se parece en nada a lo dibujado por ellas y * se reitera el mismo blablablá (en latín se dice _excusatio non petita_) que unos meses antes  he decidido esta vez dejar de prestar atención a algo que, se ha visto, no ha sido sino ruido.</description>
+    </item>
+    
+    <item>
+      <title>¿Os acordáis del rumano de la &#34;fragoneta&#34;? Pues se ha mudado a Chicago</title>
+      <link>/2016/10/18/os-acordais-del-rumano-de-la-fragoneta-pues-se-ha-mudado-a-chicago/</link>
+      <pubDate>Tue, 18 Oct 2016 08:13:50 +0000</pubDate>
+      
+      <guid>/2016/10/18/os-acordais-del-rumano-de-la-fragoneta-pues-se-ha-mudado-a-chicago/</guid>
+      <description>Del rumano de la fragoneta hablé en una charla del 2013 que fue después glosada por Daniel Mediavilla en un par de medios.
+Y, ¿sabéis qué? ¡Se ha ido a vivir a Illinois!</description>
+    </item>
+    
+    <item>
+      <title>Encuestas electorales: una propuesta</title>
+      <link>/2016/09/26/encuestas-electorales-una-propuesta/</link>
+      <pubDate>Mon, 26 Sep 2016 08:13:19 +0000</pubDate>
+      
+      <guid>/2016/09/26/encuestas-electorales-una-propuesta/</guid>
+      <description>No estoy muy al tanto de la regulación que afecta a la confección de encuestas electorales. Me consta la existencia de algunas normas, como la prohibición de publicarlas durante los últimos días de la campaña. No sé si fiarme de mi memoria a la hora de añadir alguna relativa a cuestiones técnicas, como la de que vayan acompañadas de una ficha metodológica.
+Pero, y aunque sea alérgico a la regulación en general, me atrevo a apuntar una modificación que podría tener sus méritos.</description>
+    </item>
+    
+    <item>
+      <title>Gestión de la mendacidad encuestoelectoral: los números</title>
+      <link>/2016/07/04/gestion-de-la-mendacidad-encuestoelectoral-los-numeros/</link>
+      <pubDate>Mon, 04 Jul 2016 08:13:31 +0000</pubDate>
+      
+      <guid>/2016/07/04/gestion-de-la-mendacidad-encuestoelectoral-los-numeros/</guid>
+      <description>Continuando con la entrada anterior, ahora, números.
+Primero, el planteamiento (cuatro partidos, etc.):
+probs &amp;lt;- c(4, 3, 2, 1) probs &amp;lt;- probs / sum(probs) partidos &amp;lt;- letters[1:length(probs)]  Nos hará falta más adelante
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) library(rstan) library(ggplot2) library(reshape2)  Sigo con el proceso de muestreo. Reitero: cada encuestador enseña al encuestado una tarjeta al azar donde aparece el nombre de dos partidos y le pregunta si ha votado (o piensa votar) a alguno de ellos.</description>
+    </item>
+    
+    <item>
+      <title>Gestión de la mendacidad encuestoelectoral</title>
+      <link>/2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/</link>
+      <pubDate>Thu, 30 Jun 2016 08:13:41 +0000</pubDate>
+      
+      <guid>/2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/</guid>
+      <description>Lo de que la gente que miente al ser encuestada se ha esgrimido frecuentemente en los últimos días. Inspirado en esto, se me ha ocurrido (posiblemente reocurrido: es fácil que la idea sea conocida, sobre todo si resulta ser buena) el siguiente procedimiento para la realización de encuestas electorales.
+ * El encuestador va provisto de una colección de cartulinas en las que aparecen parejas de nombres de partidos políticos. * El encuestador muestra al encuestado una cartulina al azar dentro de su colección.</description>
+    </item>
+    
+    <item>
+      <title>Por una vez, accedo a hablar de algo de lo que no sé</title>
+      <link>/2016/06/29/por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se/</link>
+      <pubDate>Wed, 29 Jun 2016 08:13:32 +0000</pubDate>
+      
+      <guid>/2016/06/29/por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se/</guid>
+      <description>Me piden que opine sobre lo de las encuestas electorales y su error. Vaya por delante mi confesión de que de eso sé poco. Soy matemático, no estadístico, y uno de los mayores huecos (¿simas?) de mi formación estadística tiene que ver con todo lo relativo al muestreo. Así que, con la valentía que aporta la ignorancia, procedo.
+El primer gran problema con las encuestas electorales es que confunden países con urnas y gente con bolas de colores.</description>
+    </item>
+    
+    <item>
+      <title>¿Alguien podría identificar tirios y troyanos?</title>
+      <link>/2016/06/01/alguien-podria-identificar-tirios-y-troyanos/</link>
+      <pubDate>Wed, 01 Jun 2016 09:13:44 +0000</pubDate>
+      
+      <guid>/2016/06/01/alguien-podria-identificar-tirios-y-troyanos/</guid>
+      <description>Con los datos
+pcts &amp;lt;- cbind( c(35.7, 19.6, 6.6, 16.6, 9.6), c(0.3, 0.2, 0.2, 0.3, 0.8), c(25.0, 14.9, 10.7, 32.7, 12.9), c(1.6, 8.0, 8.5, 6.5, 7.9), c(11.0, 18.7, 7.9, 12.7, 8.0), c(3.2, 21.5, 52.9, 16.7, 47.9) ) totales &amp;lt;- c(1102, 975, 596, 638,	174) tabla &amp;lt;- round(t(pcts * totales / 100))  y el concurso de
+library(MASS) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/biplot&amp;quot;&amp;gt;biplot(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/MASS/corresp&amp;quot;&amp;gt;corresp(tabla, nf = 2))  genero
+que a lo mejor no resulta demasiado interesante si no añado que las columnas se refieren a partidos políticos y las filas a cadenas en las que, según el CIS, sus votantes prefieren para seguir la actualidad política.</description>
+    </item>
+    
+    <item>
+      <title>Encuestas electorales: medios y sesgos (II)</title>
+      <link>/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/</link>
+      <pubDate>Mon, 09 May 2016 08:13:27 +0000</pubDate>
+      
+      <guid>/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/</guid>
+      <description>Aquí quedó pendiente hablar de datos y métodos. Los primeros proceden de El Mundo. Solicité a Marta Ley, una coautora, los datos pero, antes de que contestase que sí (¡gracias!), me di cuenta de que podía obtenerlos solito: basta con capturar la llamada que el javascript local hace al servidor.
+¿Métodos? Mejorables: se suaviza la intención de voto (con loess) y se estima la diferencia con un modelo de efectos mixtos, i.</description>
+    </item>
+    
+    <item>
+      <title>Encuestas electorales: medios y sesgos (I)</title>
+      <link>/2016/05/05/encuestas-electorales-medios-y-sesgos-i/</link>
+      <pubDate>Thu, 05 May 2016 08:13:07 +0000</pubDate>
+      
+      <guid>/2016/05/05/encuestas-electorales-medios-y-sesgos-i/</guid>
+      <description>Existen las encuestas electorales. Las publican medios. Algunos, se dice, tienen sesgos. Lo he estudiado y a continuación muestro resultados.
+Para el PP:
+Para el PSOE:
+Para Podemos y cía:
+Para Ciudadanos:
+Para IU:
+En otra entrada, datos y métodos. Hoy solo adelanto que el eje horizontal mide puntos porcentuales y que las encuestas se remontan a enero de 2015.</description>
+    </item>
+    
+    <item>
+      <title>Análisis estadístico de respuestas ocultas en encuestas</title>
+      <link>/2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/</link>
+      <pubDate>Fri, 22 Jan 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/</guid>
+      <description>A veces se hacen encuestas sobre temas sobre los que los encuestados son reticentes a revelar la verdad (p.e., ¿es Vd. un zombi?). Un procedimiento conocido para recabar tal tipo de información es el siguiente:
+ * Se le invita al encuestado a tirar al aire una _moneda_ con las caras etiquetadas con _sí_ y _no_; la _moneda_ no es una moneda porque tiene una probabidad conocida (y distinta del 50%) de caer en _sí_.</description>
+    </item>
+    
+    <item>
+      <title>¿A cuántos zombis conoces?</title>
+      <link>/2016/01/21/a-cuantos-zombis-conoces/</link>
+      <pubDate>Thu, 21 Jan 2016 08:13:04 +0000</pubDate>
+      
+      <guid>/2016/01/21/a-cuantos-zombis-conoces/</guid>
+      <description>El artículo cuya lectura propongo hoy comienza así:
+¿Quién va a dejar de leer el resto? Además, son apenas tres páginas. Que, medio en broma, medio en serio, explican eso de las network surveys y cómo pueden utilizarse para estimar el tamaño y la distribución de subpoblaciones difícilmente accesibles (según el artículo, además de zombies, alienígenas, fantasmas y ángeles; aunque también, más en serio, población reclusa, gente que padece determinadas enfermedades, etc.</description>
+    </item>
+    
+    <item>
+      <title>La funesta manía de querer acertar</title>
+      <link>/2015/09/29/la-funesta-mania-de-querer-acertar/</link>
+      <pubDate>Tue, 29 Sep 2015 08:13:51 +0000</pubDate>
+      
+      <guid>/2015/09/29/la-funesta-mania-de-querer-acertar/</guid>
+      <description>Vayan dos cosas por delante:
+ * Que la de pretender acertar es una perniciosa manía. Más loable es la de tratar de evitar un fallo catastrófico. * Que recomiendo muy mucho seguir las cosas que hace [Kiko Llaneras](https://twitter.com/kikollan).  Dicho lo cual&amp;hellip;
+Kiko Llaneras ha estado elaborando predicciones del resultado de las elecciones en Cataluña durante la precampaña. Pueden verse aquí. El documento enlazado incluye una discusión de la metodología.</description>
+    </item>
+    
+    <item>
+      <title>Así no (o los sesgos de las encuestas de respuesta voluntaria)</title>
+      <link>/2015/09/16/asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria/</link>
+      <pubDate>Wed, 16 Sep 2015 08:13:13 +0000</pubDate>
+      
+      <guid>/2015/09/16/asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria/</guid>
+      <description>Suscribo enteramente unas declaraciones de la alcaldesa de Madrid en las que se mostraba perpleja ante el hecho de que en la motivación de las sucesivas reformas del código penal se hablase de cómo el anterior no había funcionado o cómo el actual venía a subsanar deficiencias del anterior pero que no se acompañasen de una memoria bien fundada en la que se detallasen y cuantificasen esos problemas.
+Suscribo enteramente declaraciones suyas en las que reclama un seguimiento de las leyes para ver en qué medida son eficaces en su ámbito de aplicación.</description>
+    </item>
+    
+    <item>
+      <title>NMF: una técnica mergente de análisis no supervisado</title>
+      <link>/2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/</link>
+      <pubDate>Mon, 14 Sep 2015 08:13:50 +0000</pubDate>
+      
+      <guid>/2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/</guid>
+      <description>[N]NMF (se encuentra con una o dos enes) es una técnica de análisis no supervisado emergente. Se cuenta entre mis favoritas.
+[N]NMF significa non negative matrix factorization y, como SVD, descompone una matriz M como UDV&#39;. Solo que, en este caso, las entradas de M son todas positivas. Y la descomposición es UV&#39;, donde las entradas de ambas matrices son también positivas.
+¿Qué tipo de matrices tienen entradas estrictamente positivas?</description>
+    </item>
+    
+    <item>
+      <title>Una paradoja que no me parece paradójica, la de Bertrand, y una pregunta</title>
+      <link>/2015/08/07/una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta/</link>
+      <pubDate>Fri, 07 Aug 2015 08:13:27 +0000</pubDate>
+      
+      <guid>/2015/08/07/una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta/</guid>
+      <description>La paradoja de Bertrand se formula así: tómense una cuerda al azar en una circunferencia; ¿cuál es la probabilidad de que sea más larga que el lado del triángulo equilátero inscrito?
+
+Bertrand resolvió el problema de tres maneras distintas obteniendo tres resultados distintos: 1/2, 1/3 y 1/4. ¿Es eso una paradoja?
+La paradoja es consecuencia de que no existe una definición única de cuerda al azar, algunas de las cuales acaban dando más peso a cuerdas más largas y otras menos.</description>
+    </item>
+    
+    <item>
+      <title>Pocos de los encuestados...</title>
+      <link>/2015/05/11/pocos-de-los-encuestados/</link>
+      <pubDate>Mon, 11 May 2015 08:13:39 +0000</pubDate>
+      
+      <guid>/2015/05/11/pocos-de-los-encuestados/</guid>
+      <description>Como aragonés, a veces me interesa el estado de ese idioma que algunos quieren convencerme de que me es propio. En la Wikipedia hay un mapa que indica la presunta distribución de las distintas lenguas en Aragón y tienen marcado de rojo zonas que no conozco mal y en las que jamás he oído hablar en tal cosa.
+Fuera de los mapas que se colorean ateniéndose a criterios poco transparentes, ¿qué nos dicen los estudios serios que puedan haberse hecho sobre los hablantes de esa lengua?</description>
+    </item>
+    
+    <item>
+      <title>¿13.100 más/menos cuántos parados menos?</title>
+      <link>/2015/04/24/el-sujeto-numero-82694/</link>
+      <pubDate>Fri, 24 Apr 2015 08:13:42 +0000</pubDate>
+      
+      <guid>/2015/04/24/el-sujeto-numero-82694/</guid>
+      <description>¿Cuál es la cifra de variación del número de parados de la que hablan la última EPA y los medios? 13100.
+¿Más menos cuánto? Según el INE, el error de muestreo relativo, $latex \sqrt{V(\hat{\sigma}}$ a nivel nacional en términos porcentuales es
+
+Es decir, el intervalo de confianza para la cifra de parados tendría una anchura como de 100k sujetos. Obviamente, eso impide calcular variaciones de un orden de magnitud menor.</description>
+    </item>
+    
+    <item>
+      <title>Sí, señor ministro... y encuestas</title>
+      <link>/2014/12/04/si-senor-ministro-y-encuestas/</link>
+      <pubDate>Thu, 04 Dec 2014 07:13:40 +0000</pubDate>
+      
+      <guid>/2014/12/04/si-senor-ministro-y-encuestas/</guid>
+      <description>Cayó en mis manos
+
+que son los resultados de una encuesta en la que la misma pregunta (en puridad, una pregunta sobre una cuestión global y otra sobre un asunto particular de la anterior) reciben respuestas manifiestamente contrarias y contradictorias por parte de una muestra del ostentador de la soberanía.
+Lo cual me recordó que hacía tiempo había dado con https://www.youtube.com/watch?v=G0ZZJXw4MTA extraído de Yes, Minister y que en inglés no subtitulado ilustra muy amenamente los efectos que sobre el público tiene la manera en que se plantean las cuestiones.</description>
+    </item>
+    
+    <item>
+      <title>Cómo no restar números fuzzy</title>
+      <link>/2014/01/24/como-no-restar-numeros-fuzzy/</link>
+      <pubDate>Fri, 24 Jan 2014 08:06:40 +0000</pubDate>
+      
+      <guid>/2014/01/24/como-no-restar-numeros-fuzzy/</guid>
+      <description>Esta entrada viene motivada por varios asuntos relacionados que me han sucedido en los últimos tiempos. El primero es un colega que me preguntó sobre si el paro había subido o bajado comparando datos de un par de trimestres.
+La respuesta prima facie es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error.</description>
+    </item>
+    
+    <item>
+      <title>Una macro para generar titulares sobre resultados de encuestas</title>
+      <link>/2013/07/22/una-macro-para-generar-titulares-sobre-resultados-de-encuestas/</link>
+      <pubDate>Mon, 22 Jul 2013 07:28:00 +0000</pubDate>
+      
+      <guid>/2013/07/22/una-macro-para-generar-titulares-sobre-resultados-de-encuestas/</guid>
+      <description>Tropecé el otro día con un artículo en el NYT del que reproduzco (incluido el enlace) un párrafo:
+Me parece un ejemplo magnífico de cómo deberían resumirse en prensa los resultados de una encuesta por los siguientes motivos:
+ * Ni oculta ni relega a un pie de foto con letras minúsculas la información técnica relevante de la encuesta. Dicho de otra manera, no le falta el respeto al lector, lo considera un individuo medianamente inteligente y le hace saber que se trata de una entrevista telefónica, realizada a 1000 adultos y con margen de error dado.</description>
+    </item>
+    
+    <item>
+      <title>El error en las encuestas: cuentas en una servilleta</title>
+      <link>/2013/05/16/el-error-en-las-encuestas-cuentas-en-una-servilleta/</link>
+      <pubDate>Thu, 16 May 2013 07:31:52 +0000</pubDate>
+      
+      <guid>/2013/05/16/el-error-en-las-encuestas-cuentas-en-una-servilleta/</guid>
+      <description>Bien escondidita en las encuestas que se publican, puede encontrarse a veces una ficha técnica. Y esta suele contener una frase de esta guisa: Partiendo de los criterios del muestreo aleatorio simple, para un nivel de confianza del 95 % (que es el habitualmente adoptado) y en la hipótesis más desfavorable de máxima indeterminación (p=q=0.5), el margen de error de los datos referidos al total de la muestra es de 3.</description>
+    </item>
+    
+    <item>
+      <title>Demanda y uso de gobierno abierto en España</title>
+      <link>/2013/04/22/demanda-y-uso-de-gobierno-abierto-en-espana/</link>
+      <pubDate>Mon, 22 Apr 2013 07:58:41 +0000</pubDate>
+      
+      <guid>/2013/04/22/demanda-y-uso-de-gobierno-abierto-en-espana/</guid>
+      <description>Traigo a la consideración de mis lectores el Estudio de demanda y uso de gobierno abierto en España que con fecha de primeros de este año ha realizado el Observatorio Nacional de las Telecomunicaciones y otros asuntos afines.
+Aborda, dice, las siguientes cuestiones que copio:
+ * La visión de la ciudadanía sobre la Administración Pública * La valoración que hace de los servicios públicos. * El uso de la Administración Electrónica.</description>
+    </item>
+    
+    <item>
+      <title>Errores de las encuestas electorales en Cataluña: una hipótesis sugerente</title>
+      <link>/2012/11/29/errores-de-las-encuestas-electorales-en-cataluna-una-hipotesis-sugerente/</link>
+      <pubDate>Thu, 29 Nov 2012 07:53:47 +0000</pubDate>
+      
+      <guid>/2012/11/29/errores-de-las-encuestas-electorales-en-cataluna-una-hipotesis-sugerente/</guid>
+      <description>Pedro Concejero sugirió ayer en la reunión del grupo de usuarios de R de Madrid una hipótesis muy sugerente para explicar parte del error cometido por las encuestas electorales publicadas en Cataluña. Voy a elaborarla en esta entrada pero subrayando antes de todo que desconozco el detalle del funcionamiento de recogida de datos y que lo que voy a contar aquí no pasa de ser una hipótesis que correspondería a otros tratar de verificar.</description>
+    </item>
+    
+    <item>
+      <title>Capicúa</title>
+      <link>/2012/11/15/capicua/</link>
+      <pubDate>Thu, 15 Nov 2012 07:03:40 +0000</pubDate>
+      
+      <guid>/2012/11/15/capicua/</guid>
+      <description>Capicúa es una de las trescientas cincuenta y pico palabras españolas que tienen su origen en el idioma catalán. Significa _cabeza _y cola. Y viene muy bien para etiquetar las dos entradas que, con esta, he realizado sobre las elecciones en Cataluña.
+La que hice en su día, la cola, criticaba los métodos y ponía en cuestión los resultados de una encuesta electoral realizada por El Periódico (para más información, véase este enlace).</description>
+    </item>
+    
+    <item>
+      <title>Las cosquillas de los sondeos electorales</title>
+      <link>/2012/10/08/las-cosquillas-de-los-sondeos-electorales/</link>
+      <pubDate>Mon, 08 Oct 2012 07:26:14 +0000</pubDate>
+      
+      <guid>/2012/10/08/las-cosquillas-de-los-sondeos-electorales/</guid>
+      <description>El ministro Wert parece un tipo majo y con sentido del humor que nos cae mal a todos porque lo hemos conocido en el sitio y el momento equivocados. Pero tiene un par de artículos (No le contéis a mi madre que hago encuestas políticas. Ella cree aún que soy pianista en un burdel y Mucho mejor que no haya encuestas) la mar de amenos y cuya lectura recomiendo encarecidamente sobre el tema que hoy nos ocupa.</description>
+    </item>
+    
+    <item>
+      <title>¿Creer o no creer?</title>
+      <link>/2012/04/02/%c2%bfcreer-o-no-creer/</link>
+      <pubDate>Mon, 02 Apr 2012 08:12:25 +0000</pubDate>
+      
+      <guid>/2012/04/02/%c2%bfcreer-o-no-creer/</guid>
+      <description>El otro día me llegó por correo el Informe sobre el Uso del Software Libre en los Hogares Españoles 2011. Lo realiza el CENATIC, Centro Nacional de Referencia de Aplicación de las Tecnologías de Información y la Comunicación basadas en Fuentes Abiertas, por lo que uno espera, de antemano, cierto sesgo.
+Una de las tablas de resultados es:
+
+Entiendo que los porcentajes de uso se refieren al universo de la población española, extrapolados mediante un [&amp;hellip;] muestreo por cuotas, donde se incluyen cuotas con afijación proporcional al peso real de la población objeto, obteniendo estos datos del Instituto Nacional de Estadística, en el período más actualizado.</description>
+    </item>
+    
+  </channel>
+</rss>

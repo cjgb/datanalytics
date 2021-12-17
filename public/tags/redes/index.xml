@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redes on datanalytics</title>
+    <link>/tags/redes/</link>
+    <description>Recent content in redes on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 20 Dec 2017 08:13:16 +0000</lastBuildDate><atom:link href="/tags/redes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redes sin neutralidad de red que funcionan tan ricamente</title>
+      <link>/2017/12/20/redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente/</link>
+      <pubDate>Wed, 20 Dec 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/12/20/redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente/</guid>
+      <description>Existen muchas redes de distribución. La red vial es una de ellas. La de pan, leche y huevos, otra. La de electricidad. La telefónica. Y la de paquetes de datos internet.
+Prácticamente ninguna se rige por principios de neutralidad de red. En la viaria, no es solo que los vehículos no puedan circular por donde y cuando quieran, sino que existen restricciones como el carril bus, el Bus Vao, lo que se perpetra diariamente en la Gran Vía de Madrid durante el periodo navideño, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

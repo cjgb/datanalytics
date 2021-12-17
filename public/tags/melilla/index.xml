@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>melilla on datanalytics</title>
+    <link>/tags/melilla/</link>
+    <description>Recent content in melilla on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 20 Sep 2017 08:13:04 +0000</lastBuildDate><atom:link href="/tags/melilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>17 no es estadística</title>
+      <link>/2017/09/20/17-no-es-estadistica/</link>
+      <pubDate>Wed, 20 Sep 2017 08:13:04 +0000</pubDate>
+      
+      <guid>/2017/09/20/17-no-es-estadistica/</guid>
+      <description>Me llama la atención El problema de la mortalidad infantil en Melilla que ningún científico logra resolver. Porque la tasa de mortalidad infantil sea alta (alrededor de 11 por cada 1000 nacimientos). Y porque ningún científico, parece, sea capaz de resolver el misterio.
+Igual es porque no han llamado al científico adecuado. Porque con 17 neonatos fallecidos al año, basta con repasar uno a uno los casos y poco más para averiguar por qué.</description>
+    </item>
+    
+  </channel>
+</rss>

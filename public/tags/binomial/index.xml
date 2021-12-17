@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>binomial on datanalytics</title>
+    <link>/tags/binomial/</link>
+    <description>Recent content in binomial on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 24 Oct 2018 08:13:19 +0000</lastBuildDate><atom:link href="/tags/binomial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABC (2)</title>
+      <link>/2018/10/24/abc-2-2/</link>
+      <pubDate>Wed, 24 Oct 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/10/24/abc-2-2/</guid>
+      <description>Más sobre lo de ayer. O más bien, una justificación por analogía.
+Con monedas.
+Tiras una moneda 100 veces y obtienes 60 caras. Tienes una priori $latex B(a,b)$ (beta). Tomas una muestra de valores $latex p_i$ con esa distribución y para cada una de ellas repites el experimento, es decir, obtienes lo que en R se expresaría de la forma
+rbinom(1, 100, p[i])  Si te quedas los valores $p_i$ tales que esa simulación es 60, enhorabuena, tienes una muestra de la distribución a posteriori.</description>
+    </item>
+    
+    <item>
+      <title>Sobre el problema de las martingalas: ¿cuántos sabíais la respuesta?</title>
+      <link>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</link>
+      <pubDate>Tue, 19 Dec 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</guid>
+      <description>Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefirió dejarse llevar por la intuición y errar. Pero volvamos a los hechos. Dado
+En un país hipotético, las familias tienen críos hasta que nace el primer varón. En un año, en promedio, nacen:
+&amp;mdash; Carlos Gil Bellosta (@gilbellosta) December 10, 2017  la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?</description>
+    </item>
+    
+    <item>
+      <title>Las prioris no informativas están manifiestamente sobrevaloradas</title>
+      <link>/2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/</link>
+      <pubDate>Mon, 04 Jan 2016 08:13:05 +0000</pubDate>
+      
+      <guid>/2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/</guid>
+      <description>La estadística bayesiana se enseña en cursos de estadística (y, frecuentemente, envuelto en un aparataje matemático tan ofuscante como innecesario). Lo malo es que en los cursos y textos de estadística no existe información previa. La información previa sobre los fenómenos en los que se utilizaría la estadística bayesiana están en las aplicaciones, extramuros del muy agnóstico mundo de la estadística y la matemática.
+Por eso, a los autores de los libros de estadística bayesiana y quienes enseñan cursos sobre lo mismo, enfrentados al problema de llenar de sentido la problemática distribución a priori, no se les ocurre nada mejor que discutir muy sesudamente la excepción (la priori no informativa) en lugar de la regla (la priori informativa).</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué el empate de la CUP es más raro de lo que parece (y de lo que yo mismo digo)?</title>
+      <link>/2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/</link>
+      <pubDate>Wed, 30 Dec 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/</guid>
+      <description>Menos el de un presunto profesor,
+todos los análisis que he visto al respecto (1, 2, 3), incluido el mío, coinciden en señalar que la probabilidad de empate en el muy manido acto asambleario de la CUP es relativamente alta: alrededor del 1,5%. Y más todavía si se tienen en cuenta los resultados de las votaciones previas.
+Es pequeña, cierto, pero menor es aún la probabilidad de que jamás ocurra algo poco probable.</description>
+    </item>
+    
+  </channel>
+</rss>

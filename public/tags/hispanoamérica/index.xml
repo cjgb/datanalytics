@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hispanoamérica on datanalytics</title>
+    <link>/tags/hispanoam%C3%A9rica/</link>
+    <description>Recent content in hispanoamérica on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 23 Feb 2018 08:13:39 +0000</lastBuildDate><atom:link href="/tags/hispanoam%C3%A9rica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Con tiempo: encuentro de usuarios de R de Latinoamérica en enero de 2019</title>
+      <link>/2018/02/23/con-tiempo-encuentro-de-usuarios-de-r-de-latinoamerica-en-enero-de-2019/</link>
+      <pubDate>Fri, 23 Feb 2018 08:13:39 +0000</pubDate>
+      
+      <guid>/2018/02/23/con-tiempo-encuentro-de-usuarios-de-r-de-latinoamerica-en-enero-de-2019/</guid>
+      <description>Pues sí, acabo de enterarme de que se organiza la tal cosa. Toda la información, escasa de momento, aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

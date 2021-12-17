@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redes bayesianas on datanalytics</title>
+    <link>/tags/redes-bayesianas/</link>
+    <description>Recent content in redes bayesianas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 12 Jun 2019 09:13:26 +0000</lastBuildDate><atom:link href="/tags/redes-bayesianas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La &#34;paradoja&#34; de Berkson</title>
+      <link>/2019/06/12/la-paradoja-de-berkson-2/</link>
+      <pubDate>Wed, 12 Jun 2019 09:13:26 +0000</pubDate>
+      
+      <guid>/2019/06/12/la-paradoja-de-berkson-2/</guid>
+      <description> a: eres listo * b: has estudiao * c: la nota del examen  Se supone que a y b son independientes. Pero conocido c, dejan de serlo (saber que eres listo y que has suspendido nos dice que&amp;hellip;).
+Bergson:
+ a y b son eventos independientes * c es a $latex \cup$ b  </description>
+    </item>
+    
+    <item>
+      <title>Decisiones bajo incertidumbre (I)</title>
+      <link>/2016/11/02/decisiones-bajo-incertidumbre-i/</link>
+      <pubDate>Wed, 02 Nov 2016 08:13:16 +0000</pubDate>
+      
+      <guid>/2016/11/02/decisiones-bajo-incertidumbre-i/</guid>
+      <description>Frecuentemente nos interesan unos efectos (E), tales como:
+ * Si un sujeto cumplirá con los términos de una hipoteca. * Si un paciente responderá a un tratamiento. * Si un adlátere circunstancial en el tren nos regalará una conversación amena. * Si un transeúnte podrá o no darnos fuego para prender un cigarro. * Si un individuo es o no un criminal. * Si un candidato será o no un trabajador productivo en una empresa.</description>
+    </item>
+    
+    <item>
+      <title>Naive Bayes como red bayesiana</title>
+      <link>/2014/08/06/naive-bayes-como-red-bayesiana/</link>
+      <pubDate>Wed, 06 Aug 2014 07:13:12 +0000</pubDate>
+      
+      <guid>/2014/08/06/naive-bayes-como-red-bayesiana/</guid>
+      <description>Una red bayesiana es algo de lo que ya hablé (y que me está volviendo a interesar mucho últimamente). En esencia, es un modelo probabilístico construido sobre un grafo dirigido acíclico.
+Que, a su vez, es algo parecido a
+
+que es un grafo (obviamente), dirigido (tiene flechas) y acíclico porque siguiéndolas no se llega nunca al punto de partida. Se puede construir modelos probabilísticos sobre ellos. Basta con definir para cada nodo $latex x$ la probabilidad condicional $latex P(x|A(x))$, donde $latex A(x)$ son sus padres directos.</description>
+    </item>
+    
+    <item>
+      <title>La red Asia</title>
+      <link>/2013/11/19/la-red-asia/</link>
+      <pubDate>Tue, 19 Nov 2013 07:33:28 +0000</pubDate>
+      
+      <guid>/2013/11/19/la-red-asia/</guid>
+      <description>La red Asia es esto:
+
+Es decir, una red bayesiana. Una red bayesiana clásica sobre la que los interesados podrán saber más leyendo lo que Lauritzen y Spiegelhalter dejaron escrito sobre ella en 1988.
+Pero la idea básica es la siguiente:
+ * Los nodos superiores (visita a Asia, fumador) son variables observables sobre el comportamiento de unos pacientes. * Los nodos inferiores (rayos X, [disnea](http://es.wikipedia.org/wiki/Disnea)) son variables también observables, síntomas de esos pacientes.</description>
+    </item>
+    
+  </channel>
+</rss>

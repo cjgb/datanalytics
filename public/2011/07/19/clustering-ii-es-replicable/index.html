@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Clústering (II): ¿es replicable? - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Clústering (II): ¿es replicable?" />
+<meta property="og:description" content="Sólo conozco un estudio ?y lo digo bona fide; si alguno de mis lectores conoce otro, le ruego que me lo indique? en el que las técnicas de clústering hayan sido rectamente aplicadas. Se trata del artículo Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring de cuyo resumen extraigo y traduzco lo siguiente:
+ Un procedimiento de detección de clases automáticamente descubrió la distinción entre la leucemia mieloide aguda (AML) y la leucemia linfoblástica aguda (ALL) sin conocimiento previo de las clases." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2011/07/19/clustering-ii-es-replicable/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-07-19T07:00:56&#43;00:00" />
+<meta property="article:modified_time" content="2011-07-19T07:00:56&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Clústering (II): ¿es replicable?</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-07-19T07:00:56Z">2011-7-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/consultor%C3%ADa/" rel="category">consultoría</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Sólo conozco un estudio ?y lo digo <em>bona fide</em>; si alguno de mis lectores conoce otro, le ruego que me lo indique? en el que las técnicas de <em>clústering</em> hayan sido rectamente aplicadas. Se trata del artículo <a href="http://www.sciencemag.org/content/286/5439/531.short"><em>Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring</em></a> de cuyo resumen extraigo y traduzco lo siguiente:</p>
+<blockquote>
+<p>Un procedimiento de detección de clases automáticamente descubrió la distinción entre la leucemia mieloide aguda (AML) y la leucemia linfoblástica aguda (ALL) sin conocimiento previo de las clases. Después se construyó un predictor de clases&hellip;</p>
+</blockquote>
+<p>En esencia, los autores tomaron (dicen) unos datos, aplicaron técnicas de <em>clústering</em> y encontraron dos clases. Supongo que validarían el experimento fehacientemente hasta tener cierta seguridad de que, efectivamente, había motivos para creer que los datos estaban escindidos en dos partes claramente diferenciadas. Y, posteriormente, fueron capaces de sustentar dichas diferencias utilizando información externa: efectivamente, los miembros de los grupos respondían a cuadros clínicos distintos.</p>
+<p>Incluso en este caso, si los autores no sabían que en sus datos existían dos clases muy distintas, fue por que no preguntaron: la etiqueta se conocía desde el momento de la recopilación de los datos y las diferencias entre la leucemia mieloide y la linfoblástica son tan notorias (para un experto) como las que distinguen el día de la noche.</p>
+<p>En todas las demás situaciones en las que he visto utilizar este tipo de métodos la situación ha sido muy distinta. (Salvo en los libros, claro. En los libros hacen trampa. En los libros plantean problemas <em>de laboratorio</em> absolutamente irreales: bidimensionales, con variables sin ningún tipo de problema, con grupos que se ven perfectamente a ojo, etc. ¡Ni los mencionaré en esta serie!)</p>
+<p>En todas las demás situaciones de las que tengo noticia, incluso en las que he participado y llevan mi firma, por las que, en algunos casos, y por las que se han pagado decenas de miles de euros, el análisis no ha sido en absoluto riguroso. Quiero subrayar en esta serie de entradas tres características sospechosas que definen este tipo de estudios:</p>
+<ol>
+<li>No replicabilidad</li>
+<li>Dependencia de las hipótesis de partida y del preprocesamiento de los datos</li>
+<li>Falta de rigor a la hora de analizar la validez de las clases obtenidas</li>
+</ol>
+<p>En la entrada de hoy trataré la primera de ellas. Las dos preguntas que me sugiere el problema son las que dan título a las dos secciones siguientes de esta entrada.</p>
+<h3 id="si-los-datos-no-tienen-clases-definidas-las-_encontramos_-aun-así">Si los datos no tienen clases definidas, ¿las <em>encontramos</em> aun así?</h3>
+<p>Mala será la replicabilidad del método cuando uno es capaz de encontrar clases aun cuando no existen. Tomemos el siguiente pedazo de código, que crea un conjunto de datos con <code>n.obs</code> observaciones en un espacio de dimensión <code>n.dim</code> y busca <code>n.clus</code> clases en él:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">library</span>( cluster )
+n.dim  <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">5</span>
+n.obs  <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">200</span>
+n.clus <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">4</span>
+my.dat <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">matrix</span>( <span style="color:#a6e22e">rnorm</span>( n.dim <span style="color:#f92672">*</span> n.obs ), n.obs )
+res <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">pam</span>( my.dat, n.clus )</code></pre></td></tr></table>
+</div>
+</div>
+<p>¿Encuentra clases? ¿Se parecen a las que se obtienen al crear otro conjunto de datos con exactamente la misma distribución de partida?</p>
+<p>Cierto que el paquete <code>cluster</code> proporciona herramientas para verificar hasta qué punto son <em>buenas</em> las clases obtenidas. Pero si habéis trabajado en el negocio, ¿las habéis utilizado alguna vez? ¿Habéis advertido a vuestros superiores (o clientes) de que vuestro <em>clústering</em> es sospechoso? En caso afirmativo, ¿qué os han respondido?</p>
+<h3 id="si-los-datos-tienen-clases-definidas-las-encuentra-el-algoritmo">Si los datos tienen clases definidas, ¿las encuentra el algoritmo?</h3>
+<p>De nuevo, podemos hacer otro experimento con el siguiente trozo de código, que es una versión del anterior.</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">    <span style="color:#a6e22e">library</span>( cluster )
+    n.dim  <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">5</span>
+    n.obs  <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">200</span>
+    n.clus <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">4</span>
+    sigma <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">0.3</span>
+    centers <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">matrix</span>( <span style="color:#a6e22e">rnorm</span>( n.dim <span style="color:#f92672">*</span> n.clus, <span style="color:#ae81ff">0</span>, sigma ), n.clus )
+    cluster.index <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">sample</span>( n.clus, n.obs, replace <span style="color:#f92672">=</span> T )
+    my.dat <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">matrix</span>( <span style="color:#a6e22e">rnorm</span>( n.dim <span style="color:#f92672">*</span> n.obs ), n.obs )
+    my.dat <span style="color:#f92672">&lt;-</span> my.dat <span style="color:#f92672">+</span> centers[ cluster.index, ]
+    res <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">pam</span>( my.dat, n.clus )</code></pre></td></tr></table>
+</div>
+</div>
+<p>Esta vez hemos fabricado <code>n.clus</code> clases distintas que serán más o menos distintas en función del parámetro <code>sigma</code>. Aun conociendo de antemano el número de clases en vuestro conjunto de datos, ¿sois capaces de recuperar las clases iniciales? ¿Se parecen en algo los centros de las clases obtenidas a los preespecificados? ¿Cómo de grande tiene que ser <code>sigma</code> para obtener resultados razonables y consistentes? ¿Seríais capaces de deducir el valor del parámetro crítico <code>n.clus</code> si no supiéseis su valor al crear los datos?</p>
+<h3 id="resumen">Resumen</h3>
+<p>Los dos experimentos propuestos en esta entrada hacen referencia a dos <em>elemenos de sospecha</em> que me obligan a replantearme ?y entiendo que muchos otros compañeros de faena les ocurrirá igual? la validez de los métodos de <em>clústering</em> tal cual se usan en muchas aplicaciones: los resultados no son repetibles, incluso con los mismos (o una muestra de los mismos) datos.</p>
+<p>Los resultados de un estudio de <em>clústering</em> tienen que ser (y temo repetirme):</p>
+<ul>
+<li>Replicables bajo condiciones, submuestras e hipótesis diferentes.</li>
+<li>Tiene que ser posible encontrar una causa extra-algorítmica del motivo por el que los sujetos se arraciman de esa manera y no de otra.</li>
+</ul>
+<p>Y si no hay replicabilidad, si no se cumplen las dos condiciones anteriores, no hay ciencia. A lo más, charlatanismo.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/cl%C3%BAstering/" rel="tag">clústering</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/consultor%C3%ADa/" rel="tag">consultoría</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/m%C3%A1rketing/" rel="tag">márketing</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/ciencia-de-datos/" rel="tag">ciencia de datos</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2011/07/18/competicion-de-estadistica-con-r-en-las-iii-jornadas-de-usuarios-de-r/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Competición de estadística con R en las III Jornadas de Usuarios de R</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2011/07/20/y-kenia-que-eh/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Y Kenia qué, ¿eh?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

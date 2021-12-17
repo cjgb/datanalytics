@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>roi on datanalytics</title>
+    <link>/tags/roi/</link>
+    <description>Recent content in roi on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 20 Oct 2014 07:13:12 +0000</lastBuildDate><atom:link href="/tags/roi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ROI de ida y vuelta</title>
+      <link>/2014/10/20/roi-de-ida-y-vuelta/</link>
+      <pubDate>Mon, 20 Oct 2014 07:13:12 +0000</pubDate>
+      
+      <guid>/2014/10/20/roi-de-ida-y-vuelta/</guid>
+      <description>Hace años, allá por el 2004, trabajaba en SAS. Íbamos a hacer una propuesta para la detección del fraude en una empresa de telefonía móvil de las de entoces. Habían medido el importe anual del fraude en X miles de euros. Nosotros íbamos a implantar un sistema que ayudase a prevenir un determinado porcentaje de él. El quid de la cuestión era cuál: alrededor de esa cuestión gravitaban los números en negrita de la propuesta que estábamos por elaborar.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onodo on datanalytics</title>
+    <link>/tags/onodo/</link>
+    <description>Recent content in onodo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Jul 2016 17:13:42 +0000</lastBuildDate><atom:link href="/tags/onodo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Onodo: redes para contar historias</title>
+      <link>/2016/07/28/onodo-redes-para-contar-historias/</link>
+      <pubDate>Thu, 28 Jul 2016 17:13:42 +0000</pubDate>
+      
+      <guid>/2016/07/28/onodo-redes-para-contar-historias/</guid>
+      <description>CartoDB (ahora Carto a secas) lo hizo con mapas. Onodo lo quiere hacer con grafos.
+Onodo acaba de salir a la luz de mano de Civio y quiere convertirse en una herramienta para crear muy fácilmente visualizaciones interactivas de redes y nodos, y poder contar historias con ellas. Viene a ser un Gephi digamos que al alcance de (casi) todos, sin el aparataje matemático y orientado a la publicación en la web.</description>
+    </item>
+    
+  </channel>
+</rss>

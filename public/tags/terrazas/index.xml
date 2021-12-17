@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terrazas on datanalytics</title>
+    <link>/tags/terrazas/</link>
+    <description>Recent content in terrazas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 02 Mar 2017 08:13:23 +0000</lastBuildDate><atom:link href="/tags/terrazas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Todas&#34; las terrazas de Madrid</title>
+      <link>/2017/03/02/todas-las-terrazas-de-madrid/</link>
+      <pubDate>Thu, 02 Mar 2017 08:13:23 +0000</pubDate>
+      
+      <guid>/2017/03/02/todas-las-terrazas-de-madrid/</guid>
+      <description>es un mapa en el que, en rojo, figuran todas (véase la coda) las terrazas de Madrid. Los datos están extraídos del censo de locales, sus actividades y terrazas de hostelería y restauración del ayuntamiento y están procesados con
+terrazas &amp;lt;- fread(&amp;quot;http://datos.madrid.es/egob/catalogo/200085-17-censo-locales.txt&amp;quot;) terrazas$coordenada_x_local &amp;lt;- as.numeric(gsub(&amp;quot;,&amp;quot;, &amp;quot;.&amp;quot;, terrazas$coordenada_x_local)) terrazas$coordenada_y_local &amp;lt;- as.numeric(gsub(&amp;quot;,&amp;quot;, &amp;quot;.&amp;quot;, terrazas$coordenada_y_local)) tmp &amp;lt;- terrazas[terrazas$coordenada_x_local &amp;gt; 1000, ] tmp &amp;lt;- terrazas[terrazas$coordenada_y_local &amp;gt; 3e6,] # UTM a siglo XXI library(rgdal) terrazas.utm &amp;lt;- SpatialPoints(cbind(tmp$coordenada_x_local, tmp$coordenada_y_local), proj4string=CRS(&amp;quot;+proj=utm +zone=30&amp;quot;)) terrazas.</description>
+    </item>
+    
+  </channel>
+</rss>

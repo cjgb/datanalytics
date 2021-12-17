@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jupyter on datanalytics</title>
+    <link>/tags/jupyter/</link>
+    <description>Recent content in jupyter on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 19 Sep 2016 08:13:31 +0000</lastBuildDate><atom:link href="/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un curso de 15 horas de introducción a la programación</title>
+      <link>/2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/</link>
+      <pubDate>Mon, 19 Sep 2016 08:13:31 +0000</pubDate>
+      
+      <guid>/2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/</guid>
+      <description>Hoy comienzo a enseñar un curso de introducción a la programación para recién graduados que comenzarán un máster de matemáticas aplicadas con incursiones en la llamada ciencia de datos. Serán 4 sesiones con el siguiente contenido:
+ * Sesión 1, programación imperativa: variables, condicionales y bucles. * Sesión 2, programación orientada a objetos. * Sesión 3, colecciones: listas, tuplas, conjuntos, diccionarios, etc. * Sesión 4, programación funcional: _map_, _reduce_, _fold_, _foldLeft_, _scan_, _filter_, etc.</description>
+    </item>
+    
+    <item>
+      <title>¿Jupyter? Me quedo con Rodeo, creo</title>
+      <link>/2016/03/17/jupyter-me-quedo-con-rodeo-creo/</link>
+      <pubDate>Thu, 17 Mar 2016 09:13:06 +0000</pubDate>
+      
+      <guid>/2016/03/17/jupyter-me-quedo-con-rodeo-creo/</guid>
+      <description>Ayer, después de mucho tiempo, perdí horas de sueño enredando con Jupyter. Y mi sensación fue la misma que hace un año: está bien para presentaciones, cursos y en definitiva, contenido cerrado y estructurado que para el cacharreo diario. ¡Echo en falta un lugar en el que equivocarme reiteradamente!
+En RStudio, al menos, dispongo de la consola y de algún programa que uso como espacio de borrador. En Jupyter me siento como obligado a comportarme como esos niños repelentes que tomaban apuntes directamente a limpio.</description>
+    </item>
+    
+  </channel>
+</rss>

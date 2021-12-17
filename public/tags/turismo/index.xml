@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>turismo on datanalytics</title>
+    <link>/tags/turismo/</link>
+    <description>Recent content in turismo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 08 Oct 2019 09:13:31 +0000</lastBuildDate><atom:link href="/tags/turismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voy a demostrar (con la ayuda del INE) que Airbnb no existe</title>
+      <link>/2019/10/08/voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe/</link>
+      <pubDate>Tue, 08 Oct 2019 09:13:31 +0000</pubDate>
+      
+      <guid>/2019/10/08/voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe/</guid>
+      <description>Tan vasto es el fenómeno Airbnb que malo será no haya dejado traza en las estadísticas oficiales. Que como oficiales, son verdad.
+No podemos hacer caso a las estadísticas de ocupación hotelera del INE porque son de lo de que dicen: hoteles (y asimilados). Airbnb tiene que dejarse notar en otra parte.
+¿Cuál? Frontur, la estadística de movimientos turísticos en frontera del INE. (Sin enlace: los enlaces del INE van y vienen).</description>
+    </item>
+    
+  </channel>
+</rss>

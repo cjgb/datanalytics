@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Puedes probar cualquier cosa (con paciencia) - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Puedes probar cualquier cosa (con paciencia)" />
+<meta property="og:description" content="Puedes _probar _prácticamente cualquier cosa. Con paciencia, claro. Por ejemplo, coge una moneda de tu bolsillo. Puedes probar que tiene un sesgo: salen más caras (o cruces, da igual) de lo que cabría esperar.
+No lo vas a probar como los gañanes, no. Lo vas a probar usando los mismos métodos con los que se aprueban los medicamentos u otras verdades relevantísimas: mostrando al mundo un p-valor pequeñajo, por debajo de 0." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2011/10/04/puedes-probar-cualquier-cosa-con-paciencia/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-10-04T07:10:42&#43;00:00" />
+<meta property="article:modified_time" content="2011-10-04T07:10:42&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Puedes probar cualquier cosa (con paciencia)</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-10-04T07:10:42Z">2011-10-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Puedes _probar _prácticamente cualquier cosa. Con paciencia, claro. Por ejemplo, coge una moneda de tu bolsillo. Puedes <em>probar</em> que tiene un sesgo: salen más caras (o cruces, da igual) de lo que cabría esperar.</p>
+<p>No lo vas a probar como los gañanes, no. Lo vas a probar usando los mismos métodos con los que se aprueban los medicamentos u otras verdades relevantísimas: mostrando al mundo un p-valor pequeñajo, por debajo de 0.05. Veamos cómo.</p>
+<p>El truco se llama <em>parada condicional</em>: puedes hacer prueba tras prueba hasta que salga lo que buscas. Y entonces decir ¡eureka! La probabilidad de que puedas hacerlo (en algún momento) es, dicen que decía W. Feller, 1.</p>
+<p>Pero vamos a ver si es cierto. Comenzamos seleccionando un número mínimo de pruebas, <code>n.min</code> y, para no caer en bucles infinitos un número máximo, <code>n.max</code>. Luego, usando el código</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">n.max <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">1000000</span>
+n.min <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">100</span>
+
+prop <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">qbinom</span>( <span style="color:#ae81ff">0.05</span>, n.min<span style="color:#f92672">:</span>n.max, lower.tail <span style="color:#f92672">=</span> F, <span style="color:#ae81ff">0.5</span> )
+prop <span style="color:#f92672">&lt;-</span> prop <span style="color:#f92672">/</span> n.min<span style="color:#f92672">:</span>n.max
+prop <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">100</span> <span style="color:#f92672">*</span> ( prop <span style="color:#f92672">-</span> <span style="color:#ae81ff">0.5</span> )
+
+<span style="color:#a6e22e">plot</span>( <span style="color:#a6e22e">log</span>( prop ), type <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;l&#34;</span>, lwd <span style="color:#f92672">=</span> <span style="color:#ae81ff">2</span>,
+      xlab <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;número de pruebas&#34;</span>, ylab <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;log delta&#34;</span>,
+      main <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;% de desviación vs. número de pruebas&#34;</span>)</code></pre></td></tr></table>
+</div>
+</div>
+<p>obtendremos para cada valor entre <code>n.min</code> y <code>n.max</code> la desviación (positiva) con respecto al 50% esperado bajo la hipótesis nula —la moneda no está sesgada— suficiente como para que se encienda la luz roja del p-valor:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2011/09/optimal_stopping.png"><img src="http://www.datanalytics.com/wp-uploads/2011/09/optimal_stopping.png" alt="">
+</a></p>
+<p>Por ejemplo, como <code>prop[900]</code> es 2.55, bastaría con que en la prueba número 1000 (= 900 + 100) obtuviésemos una proporción del 52.55% de caras como para poder rechazar la hipótesis de que la moneda no está sesgada al límite usual de confianza.</p>
+<p>Ahora podemos comenzar a hacer experimentos:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">foo <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( ){
+  x <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">100</span> <span style="color:#f92672">*</span> ( ( <span style="color:#a6e22e">cumsum</span>( <span style="color:#a6e22e">rbinom</span>( n.max, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">0.5</span> ) ) <span style="color:#f92672">/</span> <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span>n.max )[ n.min<span style="color:#f92672">:</span>n.max ] <span style="color:#f92672">-</span> <span style="color:#ae81ff">0.5</span> )
+  <span style="color:#a6e22e">min</span>( <span style="color:#a6e22e">which</span>( x <span style="color:#f92672">&gt;</span> prop ) )
+}
+
+res <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">replicate</span>( <span style="color:#ae81ff">1000</span>, <span style="color:#a6e22e">foo</span>() )</code></pre></td></tr></table>
+</div>
+</div>
+<p>Tras 1000 de ellos, la variable <code>res</code> contiene el número de pruebas que hay que hacer para conseguir rebasar el porcentaje crítico. En mis pruebas, es necesario hacer más de <code>n.max</code> ensayos 428 veces. Pero en más de la mitad de las ocasiones, el resto, es necesario realizar un número menor de ensayos antes de llegar al momento feliz de la <em>prueba irrefutable</em>.</p>
+<p>La distribución del número de ensayos que es necesario realizar antes de alcanzar un p-valor suficiente tiene una cola muy gruesa, más, por ejemplo, que la distribución de Cauchy (que es una distribución sin media). Es decir, la paciencia necesaria para probar algo que casi seguro que no es cierto es sustancial.</p>
+<p>Pero no deja de ser cierto que hay <a href="http://ejp.org.uk/index.php?page=Current%20Issue">gente con infinita paciencia</a> que no se cansarán nunca de probar, probar y probar desoyendo las admoniciones de Feller y el eco que de ellas hago en estas páginas.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/probabilidad/" rel="tag">probabilidad</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Gestión avanzada de memoria en R: tracemem</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2011/10/05/calculo-mental-alzheimer-anumerismo-y-20n/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Cálculo mental, alzheimer, anumerismo y 20N</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

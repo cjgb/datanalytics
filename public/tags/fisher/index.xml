@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fisher on datanalytics</title>
+    <link>/tags/fisher/</link>
+    <description>Recent content in fisher on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 03 Nov 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/fisher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre aquel concepto estadístico que aconsejé desaprender: la suficiencia</title>
+      <link>/2021/11/03/mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia/</link>
+      <pubDate>Wed, 03 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/11/03/mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia/</guid>
+      <description>En esta entrada abundo en una que escribí hace ocho años: Conceptos estadísticos que desaprender: la suficiencia. Lo hago porque casualmente he tropezado con su origen y justificación primera, el afamado artículo On the Mathematical Foundations of Theoretical Statistics del nunca suficientemente encarecido R.A. Fisher.
+Criticaba en su día lo inútil del concepto. Al menos, en la práctica moderna de la estadística: para ninguno de los conjuntos de datos para los que trabajo existe un estadístico suficiente que no sea la totalidad de los datos.</description>
+    </item>
+    
+    <item>
+      <title>¿Una nueva afición para los próximos 10-15 años?</title>
+      <link>/2021/10/14/una-nueva-aficion-para-los-proximos-10-15-anos/</link>
+      <pubDate>Thu, 14 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/10/14/una-nueva-aficion-para-los-proximos-10-15-anos/</guid>
+      <description>Ayer estuve disfrutando como un enano leyendo On the Mathematical Foundations of Theoretical Statistics del nunca suficientemente encarecido Sir Ronald Fisher. Y me fijé que fue publicado en 1922. En él se cita —y nada elogiosamente, hay que decirlo— el A Treatise on Probability de Keynes, que fue, a su vez, publicado en 1921.
+Aquellas cosas que constituyen el temario de las oposiciones al INE se estaban escribiendo hace cien años.</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué es tan enrevesada la definición de intervalo de confianza?</title>
+      <link>/2021/04/01/por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza/</link>
+      <pubDate>Thu, 01 Apr 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/04/01/por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza/</guid>
+      <description>En esta entrada voy a tratar de reconstruir históricamente el concepto de intervalo de confianza (IC) para tratar de explicar por qué el concepto ha llegado a tener una definición e interpretación tan precisa como confusa (e inútil). La interpretación de lo que realmente son los IC son el coco —el que se lleva a los diletantes que saben poco— con el que amenazar a quienes tienen inseguridades metodológicas y una marca de erudición incontestable para quienes son capaces de enunciarla sin que se les trabe la lengua.</description>
+    </item>
+    
+    <item>
+      <title>Inferencia fiduciaria: una ocurrencia, afortunadamente, muerta</title>
+      <link>/2018/02/08/inferencia-fiduciaria-una-ocurrencia-afortunadamente-muerta/</link>
+      <pubDate>Thu, 08 Feb 2018 08:12:06 +0000</pubDate>
+      
+      <guid>/2018/02/08/inferencia-fiduciaria-una-ocurrencia-afortunadamente-muerta/</guid>
+      <description>Hay ocurrencias la mar de extravagantes que sobreviven el paso del tiempo (p.e., la homeopatía o el marxismo). Otras mueren. Como requetemuertas que están, no somos conscientes de que alguna vez existieron.
+Una de ellas es la inferencia fiduciaria, un inventillo del mismo Fisher que no lo convenció enteramente ni a él mismo. La Wikipedia lo cita escribiendo que lo tenía not clear in the head (¡ah!, la misma sensación que tuve yo al enfrentarme a los p-valores, a la estadística bajo la perspectiva econométrica (OLS por doquier, etc.</description>
+    </item>
+    
+    <item>
+      <title>Las tres (o cuatro) eras de la estadística</title>
+      <link>/2017/01/24/las-tres-o-cuatro-eras-de-la-estadistica/</link>
+      <pubDate>Tue, 24 Jan 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/01/24/las-tres-o-cuatro-eras-de-la-estadistica/</guid>
+      <description>Las cosas, frecuentemente, son como son y no de otra manera, especulativamente, mejor por razones históricas. Es lo que hay. La respuesta a muchas preguntas es &amp;ldquo;porque A llegó antes que B&amp;rdquo;.
+La estadística (y particularmente, la que se enseña) es como es y no de otra manera, especulativamente, mejor, también por razones históricas. Por eso siempre pierdo algo de tiempo hablando (¡es uno de mis personajes favoritos del XIX!) de Quetelet y los suyos; luego, de Fisher y compañía; finalmente, de Efron y los demás.</description>
+    </item>
+    
+    <item>
+      <title>Una pregunta sobre pruebas de hipótesis</title>
+      <link>/2016/12/09/una-pregunta-sobre-pruebas-de-hipotesis/</link>
+      <pubDate>Fri, 09 Dec 2016 08:13:47 +0000</pubDate>
+      
+      <guid>/2016/12/09/una-pregunta-sobre-pruebas-de-hipotesis/</guid>
+      <description>Más que pregunta, debería haberlo planteado como encuesta: no estoy preguntando sino preguntándote qué es lo que haces tú (habitualmente).
+Va de pruebas de hipótesis (a la Fisher). La teoría dice que hay que plantear una hipótesis nula y para poder estudiar lo anómalos que son los datos obtenidos experimentalmente bajo dicha hipótesis. Es decir, calculas $latex P(X ; | ; H_0)$.
+Alternativamente (en muchos contextos, no en todos: no sabría cómo hacerlo, p.</description>
+    </item>
+    
+  </channel>
+</rss>

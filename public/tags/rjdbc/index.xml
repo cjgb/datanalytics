@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rjdbc on datanalytics</title>
+    <link>/tags/rjdbc/</link>
+    <description>Recent content in rjdbc on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 27 May 2014 07:27:54 +0000</lastBuildDate><atom:link href="/tags/rjdbc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inserción eficiente (?) de datos vía RJDBC</title>
+      <link>/2014/05/27/insercion-eficiente-de-datos-via-rjdbc/</link>
+      <pubDate>Tue, 27 May 2014 07:27:54 +0000</pubDate>
+      
+      <guid>/2014/05/27/insercion-eficiente-de-datos-via-rjdbc/</guid>
+      <description>Las bases de datos son instrumentos magníficos con dos defectos fundamentales: es difícil meter datos en ellas y es difícil sacar datos de ellas. Pero guardarlos&amp;hellip; los guardan estupendamente.
+Estos días me ha tocado subir a una base de datos tablas bastante grandes y las herramientas proporcionadas por RJDBC para ello, esencialmente dbWriteTable han fallado. Internet no se pone de acuerdo sobre si es un bug de RJDBC o si la culpa la tiene el driver de la base de datos que estoy obligado a utilizar.</description>
+    </item>
+    
+  </channel>
+</rss>

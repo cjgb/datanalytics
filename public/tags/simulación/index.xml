@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simulación on datanalytics</title>
+    <link>/tags/simulaci%C3%B3n/</link>
+    <description>Recent content in simulación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 29 Sep 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/simulaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un extracto del documento metodológico de las proyecciones de población del INE</title>
+      <link>/2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/</link>
+      <pubDate>Tue, 29 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/</guid>
+      <description>Está extraído de aquí y dice los siguiente:
+ Las Proyecciones de Población constituyen una simulación estadística de la población que residiría en España, sus comunidades autónomas y provincias en los próximos años, así como de la evolución de cada uno de los fenómenos demográficos básicos asociados, en caso de mantenerse las tendencias y comportamientos demográficos actualmente observados.
+Para interpretar correctamente los resultados de las Proyecciones de Población es importante distinguir entre previsiones y proyecciones demográficas.</description>
+    </item>
+    
+    <item>
+      <title>lme4 &#43; simulate</title>
+      <link>/2020/03/18/lme4-simulate/</link>
+      <pubDate>Wed, 18 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/18/lme4-simulate/</guid>
+      <description>Esta entrada es casi una referencia para mí. Cada vez tiro más de [lme4](https://CRAN.R-project.org/package=lme4) en mis modelos y en uno en concreto que tengo entre manos toca simular escenarios. Para lo cual, [simulate.merMod](https://www.rdocumentation.org/packages/lme4/versions/1.1-21/topics/simulate.merMod).
+Véamoslo en funcionamiento. Primero, datos (ANOVA-style) y el modelo que piden a gritos:
+library(plyr) library(lme4) a &amp;lt;- c(0,0,0, -1, -1, 1, 1, -2, 2) factors &amp;lt;- letters[1:length(a)] datos &amp;lt;- ldply(1:100, function(i){ data.frame(x = factors, y = a + rnorm(length(a))) }) modelo &amp;lt;- lmer(y ~ (1 | x), data = datos)  El resumen del modelo está niquelado:</description>
+    </item>
+    
+    <item>
+      <title>Más sobre el &#34;método delta&#34;: propagate</title>
+      <link>/2020/03/10/mas-sobre-el-metodo-delta-propagate/</link>
+      <pubDate>Tue, 10 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/10/mas-sobre-el-metodo-delta-propagate/</guid>
+      <description>Por referencia y afán de completar dos entradas que hice hace un tiempo sobre el método delta, esta y esta, dejo constar mención al paquete [propagate](https://CRAN.R-project.org/package=propagate), que contiene métodos para la propagación de la incertidumbre.
+Para desavisados: si $latex x \sim N(5,1)$ e $latex y \sim N(10,1)$, ¿cómo sería la distribución de $latex x/y$? Etc.</description>
+    </item>
+    
+    <item>
+      <title>El &#34;método delta&#34;, ahora con NIMBLE</title>
+      <link>/2020/02/03/el-metodo-delta-ahora-con-nimble/</link>
+      <pubDate>Mon, 03 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/03/el-metodo-delta-ahora-con-nimble/</guid>
+      <description>NIMBLE ha sido uno de mis más recientes y provechosos descubrimientos. Mejor que hablar de él, que otros lo harán mejor y con más criterio que yo, lo usaré para replantear el problema asociado el método delta que me ocupó el otro día.
+Casi autoexplicativo:
+library(nimble) src &amp;lt;- nimbleCode({ T_half &amp;lt;- log(.5) / k k ~ dnorm(-0.035, sd = 0.00195) }) mcmc.out &amp;lt;- nimbleMCMC(code = src, constants = list(), data = list(), inits = list(k = -0.</description>
+    </item>
+    
+    <item>
+      <title>Un modelo que alimenta una simulación</title>
+      <link>/2019/09/16/un-modelo-que-alimenta-una-simulacion/</link>
+      <pubDate>Mon, 16 Sep 2019 09:13:17 +0000</pubDate>
+      
+      <guid>/2019/09/16/un-modelo-que-alimenta-una-simulacion/</guid>
+      <description>Tenemos en Circiter un proyecto sobre el que no puedo dar muchos detalles, pero que vamos a plantear (en versión muy resumida) como un modelo que alimenta una simulación.
+El modelo no va a ser un modelo sino un modelo por sujeto (rebaños, los llamamos aquí). Los modelos serán, casi seguro, modelos mixtos (lmer/glmer).
+Pero claro, si usas un modelo, por muy mixto que sea, con intención de simular, predict se queda muy corto (¡siempre da la el mismo resultado!</description>
+    </item>
+    
+    <item>
+      <title>Muestreando la distribución uniforme sobre la esfera unidad en n dimensiones</title>
+      <link>/2012/01/17/muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones/</link>
+      <pubDate>Tue, 17 Jan 2012 06:56:36 +0000</pubDate>
+      
+      <guid>/2012/01/17/muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones/</guid>
+      <description>Debo esta entrada a la diligencia de Juanjo Gibaja, que se tomó la molestia de ubicar los teoremas relevantes en el libro Simulation and the Monte Carlo Method de Rubinstein y Kroese.
+Esencialmente, como la distribución normal multivariante (con matriz de covarianzas I) es simétrica, entonces, dadas $latex X_1,\dots, X_m \sim N( 0, I_n )$ independientes, los m puntos del espacion n-dimensional $latex X_i/| X_i |$ siguen una distribución uniforme sobre su esfera (su superficie, vale la pena reiterar) unidad.</description>
+    </item>
+    
+    <item>
+      <title>Paella sin arroz con sabor a judías enlatadas</title>
+      <link>/2011/07/21/paella-sin-arroz-con-sabor-a-judias-enlatadas/</link>
+      <pubDate>Thu, 21 Jul 2011 07:00:14 +0000</pubDate>
+      
+      <guid>/2011/07/21/paella-sin-arroz-con-sabor-a-judias-enlatadas/</guid>
+      <description>El otro día leí el artículo A Prototype Model of Stock Exchangede G. Caldarelli, M. Marsili y Y.C. Zhang. La promesa que me ofrecía era la de la creación de un sistema relativamente realista de los agentes que operan en los mercados financieros que diese lugar a una evolución de precios con propiedades similares a las observadas.
+Sin embargo, el planteamiento, interesante en un principio, se deshinchó enseguida:
+ El modelo planteado por los autores ni siquiera aspira a representar los aspectos más distintivos del mercado: en lugar de agentes tremendamente desiguales en tamaño y entrelazados en una maraña de dependencias e influencias mutuas, los agentes son todos equivalentes en tamaño (si bien es cierto que en el estado estacionario de la simulación los ingresos adquieren una distribución dada por una ley de potencias) y que actúan de manera independiente entre sí una vez observados los precios en el mercado.</description>
+    </item>
+    
+  </channel>
+</rss>

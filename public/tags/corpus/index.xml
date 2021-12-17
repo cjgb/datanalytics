@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>corpus on datanalytics</title>
+    <link>/tags/corpus/</link>
+    <description>Recent content in corpus on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 22 Nov 2017 08:13:45 +0000</lastBuildDate><atom:link href="/tags/corpus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La viejunísima escuela</title>
+      <link>/2017/11/22/la-viejunisima-escuela/</link>
+      <pubDate>Wed, 22 Nov 2017 08:13:45 +0000</pubDate>
+      
+      <guid>/2017/11/22/la-viejunisima-escuela/</guid>
+      <description>Leí esto. Me asaltó la pregunta obvia, la manifiesta, la fundamental, la sine qua non.
+Si queréis, echadle un vistazo y podréis descubrirla por vosotros mismos. Y para evitar el spoiler de un golpe de vista involutario al párrafo siguiente, intercalo la foto de un lindo gatito.
+Pues sí, el señor Escohotado afirma que:
+¡Superinteresante! ¿Quién no quiere tirar sus greps fantasía sobre semejante corpus? Pero&amp;hellip; ¿puede un tipo digitalizar todos los documentos medievales?</description>
+    </item>
+    
+    <item>
+      <title>Un corpus de textos en español para NLP</title>
+      <link>/2016/05/06/un-corpus-de-textos-en-espanol-para-nlp/</link>
+      <pubDate>Fri, 06 May 2016 08:13:49 +0000</pubDate>
+      
+      <guid>/2016/05/06/un-corpus-de-textos-en-espanol-para-nlp/</guid>
+      <description>Mañana doy clase de NLP en el máster de ciencia de datos de KSchool. Para lo que necesito un corpus decente. Los hay en inglés a tutiplén, pero las hordas de lingüistas hispanoparlantes que se pagan los vicios a costa de tajadas de mi IRPF han sido incapaces de colgar ninguno en español que pueda ubicar y reutilizar.
+Necesito una colección de textos en español con ciertas características:
+ * Tener un cierto tamaño (¿unas cuantas centenas de ellos?</description>
+    </item>
+    
+  </channel>
+</rss>

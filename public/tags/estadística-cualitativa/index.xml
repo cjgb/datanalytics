@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estadística cualitativa on datanalytics</title>
+    <link>/tags/estad%C3%ADstica-cualitativa/</link>
+    <description>Recent content in estadística cualitativa on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Nov 2015 12:26:23 +0000</lastBuildDate><atom:link href="/tags/estad%C3%ADstica-cualitativa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Estadística cualitativa?</title>
+      <link>/2015/11/30/estadistica-cualitativa/</link>
+      <pubDate>Mon, 30 Nov 2015 12:26:23 +0000</pubDate>
+      
+      <guid>/2015/11/30/estadistica-cualitativa/</guid>
+      <description>La estadística cualitativa es una disciplina que, creo, no existe. Igual, simplemente, no existe porque no tiene razón de ser. No he buscado aún sistemáticamente, pero mi memoria no da con algo que se le parezca.
+No es Statistics for Dummies: en la misma portada del libro dice que te quiere enseñar los cálculos y fórmulas esenciales. Como diré más abajo, no van por ahí los tiros.
+Tampoco es la estadística descriptiva, que es lo menos estadístico que existe.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>falacias on datanalytics</title>
+    <link>/tags/falacias/</link>
+    <description>Recent content in falacias on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 11 Mar 2021 16:43:00 +0000</lastBuildDate><atom:link href="/tags/falacias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La falacia de la conjunción desaforada</title>
+      <link>/2021/03/11/la-falacia-de-la-conjuncion-desaforada/</link>
+      <pubDate>Thu, 11 Mar 2021 16:43:00 +0000</pubDate>
+      
+      <guid>/2021/03/11/la-falacia-de-la-conjuncion-desaforada/</guid>
+      <description>La falacia, para aquellos que no la conozcan, está descrita aquí. El ejemplo más citado al respecto es el de Linda:
+La falacia hace referencia al hecho de que mucha gente se siente inclinada a seleccionar la opción 2 (y hacer, de paso, que Kolmogorov mate un gatito).
+Me acordé mucho de ella al leer el otro día este párrafo (de aquí):
+Posiblemente no haya nadie que cumpla el 100% de los requisitos (y esto puede ser también útil al respecto).</description>
+    </item>
+    
+    <item>
+      <title>Sobre los orígenes de la falacia ecológica</title>
+      <link>/2020/11/25/sobre-los-origenes-de-la-falacia-ecologica/</link>
+      <pubDate>Wed, 25 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/25/sobre-los-origenes-de-la-falacia-ecologica/</guid>
+      <description>Dice la Wikipedia que la primera denuncia de luego conocida como la falacia ecológica hay que buscarlos en Ecological Correlations and the Behavior of Individuals de un tal W. S. Robinson. Cuenta, entre otros ejemplos, cómo existía una correlación positiva entre ser inmigrante y ser analfabeto (según el censo de 1930 de EE.UU.), evidenciada por la tabla
+en tanto que si se examinan los mismos datos por divisiones (ciertas agrupaciones de estados que, se conoce, eran más habituales hace tiempo que ahora), se obtiene una representación de la forma</description>
+    </item>
+    
+    <item>
+      <title>Contraargumentando (materialmente) sobre la falacia del fiscal</title>
+      <link>/2018/09/13/contraargumentando-materialmente-sobre-la-falacia-del-fiscal/</link>
+      <pubDate>Thu, 13 Sep 2018 08:13:23 +0000</pubDate>
+      
+      <guid>/2018/09/13/contraargumentando-materialmente-sobre-la-falacia-del-fiscal/</guid>
+      <description>Hace un par de días hablé de la falacia del fiscal y granos de arroz. La entrada iba acompañada de
+y la lección era: es raro no encontrar ningún clúster cuando se tiran al azar granos de arroz sobre una superficie. De lo que se derivaban más cosas que es ocioso repetir aquí.
+Pero el gráfico no es desconocido para los viejos del lugar: se parece mucho al de la página 319 de ESL.</description>
+    </item>
+    
+    <item>
+      <title>La falacia del fiscal: la/mi mejor explicación para profanos hasta la fecha</title>
+      <link>/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/</link>
+      <pubDate>Tue, 11 Sep 2018 08:13:45 +0000</pubDate>
+      
+      <guid>/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/</guid>
+      <description>Leyendo The Tiger That Isn&amp;rsquo;t di con una manera alternativa para explicar la llamada falacia del fiscal de la que ya me he ocupado aquí y aquí.
+Relata lo ocurrido en un pueblo inglés en el que una noche, unos vecinos (presuntamente), descendientes sin duda de aquellos campesinos búlgaros que huían de la vacuna, echaron abajo una antena de telefonía móvil que tenía al pueblo en vilo (la historia, aquí). Porque, resulta, alrededor de ella se habían dado recientemente n casos de cáncer: aquello era un clúster de cáncer.</description>
+    </item>
+    
+    <item>
+      <title>De nuevo, la falacia del fiscal (aplicada a fiscales que fenecen)</title>
+      <link>/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/</link>
+      <pubDate>Thu, 30 Nov 2017 08:13:38 +0000</pubDate>
+      
+      <guid>/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/</guid>
+      <description>Cosas altamente improbables ocurren a diario. Es altamente improbable que no ocurran eventos altamente improbables.
+A veces te ocurre un evento altamente improbable cerca de ti, como, por ejemplo, que el número de tu billete de lotería coincide con el que cantan el día 22 de diciembre unos niños en la tele. Y todo bien. A veces, van y se mueren un par de críos en el sitio donde trabajas y te empapelan malamente.</description>
+    </item>
+    
+    <item>
+      <title>La falacia del fiscal (pero con frecuencias naturales)</title>
+      <link>/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/</link>
+      <pubDate>Wed, 21 Oct 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/</guid>
+      <description>No sé si alguien conoce la historia de Sally Clark. Fue condenada por el asesinato de sus dos hijos. Ambos padecieron, según ella, el síndrome de la muerte súbita del lactante. La probabilidad, sin embargo, de que sus dos hijos lo padecieran (supuesto que son eventos independientes, i.e., que no hay, por ejemplo, factores genéticos comunes) era muy baja: una de 73 millones. Por eso la enchironaron.
+Pero, ¿qué es 1 / 73e6?</description>
+    </item>
+    
+    <item>
+      <title>Dislexia probabilística</title>
+      <link>/2014/11/04/dislexia-probabilistica/</link>
+      <pubDate>Tue, 04 Nov 2014 07:13:14 +0000</pubDate>
+      
+      <guid>/2014/11/04/dislexia-probabilistica/</guid>
+      <description>Esta entrada trata de cuadrados. Tales como estos
+
+Son dos cuadrados de area 10 y 2.
+En realidad, mi entrada trata de una configuración de cuadrados solo marginalmente más complicada, esta:
+
+Todo el mundo podría decir (y es cierto) que el área de la intersección de los cuadrados es el 3.3% de la del mayor y el 16.5% de la del menor. Son dos afirmaciones ambas ciertas y, por supuesto, compatibles.</description>
+    </item>
+    
+    <item>
+      <title>Tirar la piedra, esconder la mano</title>
+      <link>/2014/09/26/tirar-la-piedra-esconder-la-mano/</link>
+      <pubDate>Fri, 26 Sep 2014 07:13:37 +0000</pubDate>
+      
+      <guid>/2014/09/26/tirar-la-piedra-esconder-la-mano/</guid>
+      <description>Hoy he encontrado esto en Twitter:
+
+Míralo bien. Vuelve a mirarlo. Efectivamente, los ricos votaron en contra de la independencia; los pobres, a favor. ¿Verdad?
+Muchos, yo incluido, estamos inclinados a pensarlo así. Los resultados de una pequeña muestra que he hecho en la oficina han sido contundentes: todos, a pesar de sus doctorados, han estado de acuerdo unánimemente con el juicio anterior.
+Así que ha sucedido lo siguiente:</description>
+    </item>
+    
+  </channel>
+</rss>

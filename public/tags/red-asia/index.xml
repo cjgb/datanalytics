@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>red asia on datanalytics</title>
+    <link>/tags/red-asia/</link>
+    <description>Recent content in red asia on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Dec 2015 08:13:21 +0000</lastBuildDate><atom:link href="/tags/red-asia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La búsqueda de la causa más probable de un efecto</title>
+      <link>/2015/12/16/la-busqueda-de-la-causa-mas-probable-de-un-efecto/</link>
+      <pubDate>Wed, 16 Dec 2015 08:13:21 +0000</pubDate>
+      
+      <guid>/2015/12/16/la-busqueda-de-la-causa-mas-probable-de-un-efecto/</guid>
+      <description>La búsqueda de la causa más probable de un efecto tiene un nombre: razonamiento abductivo. Que el visitante al enlace anterior aprenderá distinto del deductivo y el inductivo.
+Y que los viejos de estas páginas reconocerán en esta entrada que la formaliza y cuantifica en un caso concreto.</description>
+    </item>
+    
+    <item>
+      <title>La red Asia</title>
+      <link>/2013/11/19/la-red-asia/</link>
+      <pubDate>Tue, 19 Nov 2013 07:33:28 +0000</pubDate>
+      
+      <guid>/2013/11/19/la-red-asia/</guid>
+      <description>La red Asia es esto:
+
+Es decir, una red bayesiana. Una red bayesiana clásica sobre la que los interesados podrán saber más leyendo lo que Lauritzen y Spiegelhalter dejaron escrito sobre ella en 1988.
+Pero la idea básica es la siguiente:
+ * Los nodos superiores (visita a Asia, fumador) son variables observables sobre el comportamiento de unos pacientes. * Los nodos inferiores (rayos X, [disnea](http://es.wikipedia.org/wiki/Disnea)) son variables también observables, síntomas de esos pacientes.</description>
+    </item>
+    
+  </channel>
+</rss>

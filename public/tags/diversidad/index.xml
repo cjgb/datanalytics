@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diversidad on datanalytics</title>
+    <link>/tags/diversidad/</link>
+    <description>Recent content in diversidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 15 Jan 2018 08:13:07 +0000</lastBuildDate><atom:link href="/tags/diversidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecturas recomendadas: sobre la anonimización de currículos y su impacto en la &#34;diversidad&#34;</title>
+      <link>/2018/01/15/lecturas-recomendadas-sobre-la-anonimizacion-de-curriculos-y-su-impacto-en-la-diversidad/</link>
+      <pubDate>Mon, 15 Jan 2018 08:13:07 +0000</pubDate>
+      
+      <guid>/2018/01/15/lecturas-recomendadas-sobre-la-anonimizacion-de-curriculos-y-su-impacto-en-la-diversidad/</guid>
+      <description>Recomiendo la lectura de Going blind to see more clearly: unconscious bias in Australian Public Service shortlisting processes por varios motivos.
+El primero, porque es el producto de un equipo de trabajo de una naturaleza inaudita en nuestras latitudes: el grupo de trabajo de economía conductual del gobierno australiano. Seguro que hacen cosas muy interesantes.
+Segundo, porque es un ejemplo estupendo de cómo se describe un experimento estadístico: planteamiento, resultados, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

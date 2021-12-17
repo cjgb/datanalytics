@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>euromomo on datanalytics</title>
+    <link>/tags/euromomo/</link>
+    <description>Recent content in euromomo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/euromomo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre el exceso de mortalidad en noviembre de 2021</title>
+      <link>/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/</guid>
+      <description>[Nota: trabajé &amp;mdash;pero desde hace muchos meses ya no&amp;mdash; en MoMo. Así que algo sé al respecto. No obstante, las opiniones reflejadas aquí son enteramente mías. Además, están escritas desde una perspectiva estadística, no epidemiológica o, por extensión, médica.]
+Han aparecido ciertas noticias en prensa acerca del exceso de mortalidad reflejado por MoMo &amp;mdash;más sobre MoMo, aqui&amp;mdash; durante el mes de noviembre de 2021 (véase esto o esto). La tónica general de los artículos es la del desconcierto de los expertos, que ni se explican ni se atreven a explicarnos posibles motivos del repunte de la mortalidad.</description>
+    </item>
+    
+  </channel>
+</rss>

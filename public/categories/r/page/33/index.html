@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>r - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="r" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/categories/r/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/categories/r/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">r</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/04/04/textconnection-y-ficheros-anonimos/" rel="bookmark">
+			textConnection y ficheros anónimos: cuestión de rendimiento
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-04-04T07:48:59Z">2013-4-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		La función textConnection de R es útil para leer el contenido de una variable como si fuese un fichero de texto. Verbigracia,
+zz &lt;- textConnection(LETTERS) readLines(zz, 2)  Pero cuando uno hace
+?textConnection  y lee con detenimiento, encuentra la siguiente nota:
+Vamos, que desaconseja usar dicha función por motivos de rendimiento cuando no vayan a usarse todas las sus características de las que file carece. Pero, ¿será cierto que el rendimiento es tan malo?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/04/01/rpython-ya-esta-en-cran/" rel="bookmark">
+			rPython ya está en CRAN
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-04-01T07:08:19Z">2013-4-1</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Después de bastante trabajo, rPython ya está disponible en CRAN, ya es un paquete oficial de R.
+Se trata de un paquete del que ya nos hemos ocupado antes (véase esto y esto) y que permite llamar a Python desde R.
+Por el momento, está disponible únicamente para plataformas UNIX (Linux, Mac) aunque estoy tratando de crear una versión que funcione en Windows.
+Además, estoy buscando aplicaciones de rPython (al estilo de esta).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/03/06/datos-lidar-en-r/" rel="bookmark">
+			Datos LIDAR en R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-03-06T07:13:58Z">2013-3-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En la reunión del grupo de interés local (GIL) de R de Madrid, Francisco Mauro habló de aplicaciones de R a conjuntos de datos LIDAR.
+En efecto, uno quiere estimar la cantidad de madera que hay en un monte. Uno entonces la calcula en unas pequeñas zonas y luego, barriendo el monte con pulsos de láser desde un avión toma medidas (x,y,z) (es decir, longitud, latitud y altura) en una malla fina de puntos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/03/05/ggmap-mapas-con-r/" rel="bookmark">
+			ggmap: mapas con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-03-05T11:09:53Z">2013-3-5</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me mandó Alberto González Paje código para representar información en mapas usando R que hoy he dejado en su mínima expresión para que los lectores de esta bitácora puedan extender para crear sus propios mapas.
+Es el siguiente:
+library(ggmap) # ubico mi alma mater unizar &lt;- geocode('Universidad de Zaragoza, Zaragoza, España') # obtengo un mapa map.unizar &lt;- get_map( location = as.numeric(unizar), color = &quot;color&quot;, maptype = &quot;roadmap&quot;, scale = 2, zoom = 16) # lo represento ggmap(map.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/03/04/cortar-una-cadena-por-un-caracter-solo-cuando-no-forme-parte-de-una-subcadena-entrecomillada/" rel="bookmark">
+			Cortar una cadena por un caracter solo cuando no forme parte de una subcadena entrecomillada
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-03-04T07:31:46Z">2013-3-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Algunos usuarios del paquete pxR han avisado de un error de implementación. Según las especificaciones del formato de datos PC-Axis, las líneas de ese tipo de ficheros acaban en punto y coma (y no necesariamente en un salto de línea).
+Así que era natural leer los ficheros íntegramente, concatenar sus líneas físicas y luego partirlas usando strsplit para obtener las líneas lógicas.
+Sin embargo, ciertos ficheros contienen descripciones (entrecomilladas) que contienen puntos y comas.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/02/28/addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/" rel="bookmark">
+			Addenda: ¿qué ha pasado en el Ibex durante el último mes? 
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-02-28T07:03:53Z">2013-2-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/finanzas/" rel="category">finanzas</a>, <a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Abundando en el tema de ayer, ahora, los mismos datos representados con mapas de calor:
+
+Para obtenerlo, a lo que ya teníamos basta añadirle:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/gplots&quot;&gt;gplots) heatmap.2(as.matrix(ibex.scaled), Rowv=F, Colv=T, key=F, trace=&quot;none&quot;, col=redgreen, xlab=&quot;valor&quot;, ylab=&quot;&quot;, margins=c(5,10))  
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/" rel="bookmark">
+			¿Qué ha pasado en el Ibex durante el último mes?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-02-27T07:07:38Z">2013-2-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/finanzas/" rel="category">finanzas</a>, <a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Pues esencialmente esto:
+
+Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros dos grupos han tenido una evolución en U y ha recuperado, con creces incluso, el valor que tenían hace un mes.
+Y, como siempre, el código:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/tseries&quot;&gt;tseries) library(&lt;a href=&quot;http://inside-r.org/packages/cran/zoo&quot;&gt;zoo) library(&lt;a href=&quot;http://inside-r.org/packages/cran/XML&quot;&gt;XML) library(reshape) library(ggplot2) foo &lt;- function( simbolo, final = &lt;a href=&quot;http://inside-r.org/r-doc/base/Sys.time&quot;&gt;Sys.time(), profundidad = 30 * 24 * 3600 ){ precios &lt;- get.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/02/18/descarga-de-ficheros-con-r-a-traves-de-sftp/" rel="bookmark">
+			Descarga de ficheros con R a través de sftp
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-02-18T07:34:27Z">2013-2-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Llevo lo que parece un siglo sin escribir en estas páginas. Y es que, en gran parte, el nuevo curso de R me consume. Y también otros asuntos jugosos y relacionados con R que iré, sin duda, desgranando en futuras, aunque previsiblemente más esporádicas, entradas.
+Lo que me ocupa hoy es esto:
+fichero &lt;- getURL(&quot;sftp://usuario:contraseña@máquina/home/bla/bla/bla/fichero.txt&quot;)  ¿Qué es? Es la manera de descargar directamente a R un fichero a través del protocolo SFTP (FTP seguro).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/02/04/reeditamos-el-curso-basico-de-r/" rel="bookmark">
+			¡Reeditamos el curso básico de R!
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-02-04T07:37:07Z">2013-2-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/cursos/" rel="category">cursos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El año pasado, Juanjo Gibaja y yo organizamos nuestro primer Curso Básico de R. En esta entrada quiero anunciar su inminente reedición: ¡comienza el 11 de febrero!
+Las características del curso van a seguir siendo, esencialmente, las mismas:
+ * Es **gratuito**. * No da derecho a diplomas o certificados de ningún tipo. * No es presencial. * **Plazas ilimitadas**. * Está basado en el **autoestudio**: cada participante tendrá que leer y trabajar por su cuenta.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/01/24/tu-tasa-de-paro-personal/" rel="bookmark">
+			Tu tasa de paro personal
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-01-24T13:50:39Z">2013-1-24</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En el pasado nos hemos ocupado en estas páginas del desempleo. Hoy, día en el que se han anunciado los datos de la EPA del último trimestre de 2012, sale a la luz TTParo.es, un proyecto en el que he colaborado (aunque en el que todo lo que se ve es obra de Kaleidos) y que permite calcular tu tasa de paro personal.
+Por ejemplo, en
+
+puedo ver la evolución de la tasa de paro de aquellos que son como yo desde el 2005 y compararla con la general.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/01/11/arte-con-r-tres-enlaces/" rel="bookmark">
+			Arte con R: tres enlaces
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-01-11T07:20:25Z">2013-1-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Traigo hoy a mi bitácora tres enlaces sobre la creación de artefactos gráficos con R.
+En el primero (¡en japonés!) puede uno aprender a construir cosas como
+
+El segundo reproduce con R la siguiente obra de Bridget Riley:
+
+Y el tercero es una elaboración sobre el anterior que permite generar gráficos tales como
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/01/10/una-aplicacion-seo-con-r/" rel="bookmark">
+			Una aplicación SEO con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-01-10T07:29:36Z">2013-1-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Leyendo Bad Data vine a saber que Google deja en los logs de Apache información muy relevante sobre la optimización del sitio. En efecto, cuando alguien encuentra tu página en Google, Apache deja (casi siempre) en los logs una línea similar a
+188.77.154.135 - - [30/Dec/2012:09:35:28 +0000] &quot;GET /blog/page/33/?p=... HTTP/1.1&quot; 200 15348 &quot;http://www.google.es/url?sa=t&amp;rct=j&amp;q=breiman%20dos%20culturas%20estadistica&amp;source=web&amp;cd=21&amp;cad=rja&amp;ved=0CDIQFjAAOBQ&amp;url=http%3A%2F%2Fwww.datanalytics.com%2Fblog%2Fpage%2F33%2F%3Fp%3D...&amp;ei=1QrgULj7E6qk0QXRwYHgCQ&amp;usg=AFQjCNHpdZUVD15sC7CdOvUOppdcXAjweQ&amp;sig2=hKh3vCnCrvublGxQXoojyg&amp;bvm=bv.1355534169,d.d2k&quot; &quot;Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; ca-es) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1&quot;
+La parte
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/01/09/el-ibex-35-estilo-gapminder/" rel="bookmark">
+			El Ibex 35 al estilo GapMinder
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-01-09T07:07:31Z">2013-1-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/finanzas/" rel="category">finanzas</a>, <a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al estilo GapMinder. En concreto, usando un MotionChart de Google.
+Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/XML&quot;&gt;XML) simbolos &lt;- readHTMLTable(htmlParse(&quot;http://finance.yahoo.com/q/cp?s=%5EIBEX+Components&quot;)) simbolos &lt;- as.character(simbolos[[9]]$Symbol) simbolos &lt;- gsub(&quot;-P&quot;, &quot;&quot;, simbolos)  Luego, creo una pequeña función y se la aplico a cada símbolo:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/tseries&quot;&gt;tseries) foo &lt;- function( simbolo, final = &lt;a href=&quot;http://inside-r.
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/categories/r/page/32/">«</a>
+	<span class="pagination__item pagination__item--current">33/50</span>
+	<a class="pagination__item pagination__item--next btn" href="/categories/r/page/34/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

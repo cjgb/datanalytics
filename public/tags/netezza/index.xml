@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netezza on datanalytics</title>
+    <link>/tags/netezza/</link>
+    <description>Recent content in netezza on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 14 Oct 2010 23:18:35 +0000</lastBuildDate><atom:link href="/tags/netezza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre lo de Netezza</title>
+      <link>/2010/10/14/mas-sobre-lo-de-netezza/</link>
+      <pubDate>Thu, 14 Oct 2010 23:18:35 +0000</pubDate>
+      
+      <guid>/2010/10/14/mas-sobre-lo-de-netezza/</guid>
+      <description>El otro día, al hablar de la compra de Netezza por parte de IBM, hice referencia a un comentario del blog que es casi el flotador al que me asgo cuando quiero averiguar la verdad de las cosas que se me tuercen (últimamente). Dediqué en mi entrada una única línea para referirme a un único párrafo de la otra. Una visión tan parcial y puntual puede haber generado malinterpretaciones que me apresuro a enmendar con la profusión que el tema merita.</description>
+    </item>
+    
+  </channel>
+</rss>

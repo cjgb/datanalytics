@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>r - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="r" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/categories/r/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/categories/r/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">r</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/09/21/votos-en-la-onu-con-r/" rel="bookmark">
+			Votos en la ONU con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-09-21T08:13:25Z">2016-9-21</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Inspirado por esto he generado
+usando
+library(unvotes) library(reshape2) library(gplots) dat &lt;- un_votes levels(dat$vote) &lt;- c(&quot;0&quot;, &quot;-1&quot;, &quot;1&quot;) dat$vote &lt;- as.numeric(as.character(dat$vote)) dat &lt;- dcast(dat, rcid ~ country, value.var = &quot;vote&quot;) dat$rcid &lt;- NULL dat &lt;- as.matrix(dat) res &lt;- cov(dat, use = &quot;pairwise.complete.obs&quot;) heatmap(res)  Se me olvidaba: el gráfico se refiere a los votos de los distintos países en la ONU.
+Tal vez alguien quiera poner la lupa en algún país concreto.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/09/06/seleccion-de-variables-con-bosques-aleatorios/" rel="bookmark">
+			Selección de variables con bosques aleatorios
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-09-06T08:13:39Z">2016-9-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Desde el principio de mis tiempos he seleccionado variables relevantes como subproducto de los árboles primero y de los bosques aleatorios después. Cierto que he hecho casi inconfesables incursiones en los métodos stepwise, pero han sido marginales y anecdóticas.
+La idea es casi siempre la misma, se haga a mano o con ayuda de paquetes ad hoc: las variables importantes tienden a aparecer en el modelo (o submodelos), las otras no.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/08/31/todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r/" rel="bookmark">
+			Tod[rep(&#39;a&#39;, 831)]s y tod[rep(&#39;o&#39;, 6450)]s los autores de paquetes de R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-08-31T08:13:15Z">2016-8-31</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En los últimos tiempos se ha puesto de moda un subgénero periodístico que es una manera de generar artículos de acuerdo con el siguiente algoritmo:
+ 1. Se toma una lista de personas. 2. Se cuenta en ella el número de mujeres (a) y de hombres (b). 3. Si a &gt;= b, GOTO 1; si no, se copipega y se mutatismutandea un manido argumento.  No sabiéndome sustraer al encanto del último grito, he escrito y corrido
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/07/18/me-voy-a-gijon-toda-la-semana/" rel="bookmark">
+			Me voy a Gijón toda la semana
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-07-18T08:13:40Z">2016-7-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		A esto:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/07/13/rapido-y-frugal-una-digresion-en-la-direccion-inhabitual/" rel="bookmark">
+			Rápido y frugal: una digresión en la dirección inhabitual
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-07-13T08:13:39Z">2016-7-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Siempre (aténganse los puristas al contexto) recomiendo comenzar con un árbol de decisión para, sobre esa base, ensayar métodos más potentes. Sobre todo si la precisión conviene más que la interpretabilidad.
+En la dirección opuesta se sitúan los árboles rápidos y frugales. Un árbol rápido y frugal es un tipo de árbol de decisión tal como
+La restricción que satisface (a diferencia de los árboles de decisión más habituales) es que:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/07/12/dos-nuevos-tutoriales-sobre-data-table-y-dplyr/" rel="bookmark">
+			Dos nuevos tutoriales sobre data.table y dplyr
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-07-12T08:13:34Z">2016-7-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Los productos de Apple, aun admitiendo su calidad, resuelven problemas que yo hace años que no tenía. Tanto data.table como dplyr vinieron a resolver problemas a los que muchos nos enfrentábamos con sudor y lágrimas.
+Ha aparecido recientemente una serie de tutoriales sobre ambos paquetes que recomiendo:
+ * El de [`data.table`](https://rollingyours.wordpress.com/2016/06/14/fast-aggregation-of-large-data-with-the-data-table-package/) * El de `dplyr` ([parte I](https://rollingyours.wordpress.com/2016/06/29/express-intro-to-dplyr/), [parte II](https://rollingyours.wordpress.com/2016/07/07/express-dplyr-part-ii/))  Y mis comentarios:
+ * Para el 99% de mis problemas de manipulación de datos, me sobra con, además de R base, `reshape2` y `plyr`.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/07/08/una-estupenda-introduccion-intermedia-a-data-table/" rel="bookmark">
+			Una estupenda introducción intermedia a data.table
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-07-08T08:13:05Z">2016-7-8</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Jan Gorecki ha resumido las soluciones a las cincuenta preguntas más populares sobre el paquete data.table de R en Stack Overflow y las ha resumido en forma de tutorial aquí.
+Muy recomendable. Muy recomendable también data.table.
+Aunque me temo que el hadleyverse, y por razones que nada tienen que ver con la calidad de la cosa, no van a dejar de él, a medio plazo, ni las raspas.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/07/07/r-io-o-rio/" rel="bookmark">
+			R I/O (o rio)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-07-07T08:13:53Z">2016-7-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		rio es otro de esos desasosegantes paquetes de R. rio contiene esencialmente tres funciones,
+ * `import`, que lo lee _todo_ * `export`, que lo escribe _todo_ y * `convert`, que transforma un fichero de un formato a otro.  Según su documentación, uno puede hacer cosas como
+export(&lt;a href=&quot;http://inside-r.org/r-doc/datasets/mtcars&quot;&gt;mtcars, &quot;mtcars.csv&quot;) export(&lt;a href=&quot;http://inside-r.org/r-doc/datasets/mtcars&quot;&gt;mtcars, &quot;mtcars.rds&quot;) export(&lt;a href=&quot;http://inside-r.org/r-doc/datasets/mtcars&quot;&gt;mtcars, &quot;mtcars.sav&quot;)  para guardar mtcars en cualquiera de los formatos indicados por la extensión y luego
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/07/04/gestion-de-la-mendacidad-encuestoelectoral-los-numeros/" rel="bookmark">
+			Gestión de la mendacidad encuestoelectoral: los números
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-07-04T08:13:31Z">2016-7-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Continuando con la entrada anterior, ahora, números.
+Primero, el planteamiento (cuatro partidos, etc.):
+probs &lt;- c(4, 3, 2, 1) probs &lt;- probs / sum(probs) partidos &lt;- letters[1:length(probs)]  Nos hará falta más adelante
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/plyr&quot;&gt;plyr) library(rstan) library(ggplot2) library(reshape2)  Sigo con el proceso de muestreo. Reitero: cada encuestador enseña al encuestado una tarjeta al azar donde aparece el nombre de dos partidos y le pregunta si ha votado (o piensa votar) a alguno de ellos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/06/27/r-es-un-vago/" rel="bookmark">
+			R es un vago
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-06-27T08:13:56Z">2016-6-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Si creo la función
+foo &lt;- function(a,b) a*a + b  y la llamo mediante
+foo(1 + 1,3)  pueden ocurrir dos cosas: o bien que R precalcule 1+1 y la función ejecute 2 * 2 + 3 o bien que la función ejecute directamente (1+1)*(1+1)+3. Pero, ¿qué es lo que hace realmente? Si escribimos
+f1 &lt;- function(x){ print(&quot;Soy f1&quot;) x } f2 &lt;- function(x){ print(&quot;Soy f2&quot;) x } foo(f1(2), f2(3))  obtenemos
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/06/20/6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia/" rel="bookmark">
+			6602.767 km alrededor de España para visitar todas sus capitales de provincia
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-06-20T08:13:30Z">2016-6-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		O tal dice lo que expongo a continuación.
+Paquetes necesarios:
+library(rvest) library(caRtociudad) library(reshape2) library(ggmap) library(&lt;a href=&quot;http://inside-r.org/packages/cran/plyr&quot;&gt;plyr) library(&lt;a href=&quot;http://inside-r.org/packages/cran/TSP&quot;&gt;TSP)  Extracción de las provincias y sus capitales (de la Wikipedia):
+capitales &lt;- read_html(&quot;https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n&quot;) capitales &lt;- html_nodes(capitales, &quot;table&quot;) capitales &lt;- html_table(capitales[[1]])$Ciudad capitales &lt;- capitales[!capitales %in% c(&quot;Las Palmas de Gran Canaria&quot;, &quot;Melilla&quot;, &quot;Ceuta&quot;, &quot;Mérida&quot;, &quot;Santa Cruz de Tenerife&quot;, &quot;Santiago de Compostela&quot;, &quot;Palma de Mallorca&quot;)]  Y sus coordenadas:
+coordenadas &lt;- ldply(capitales, function(x) { tmp &lt;- cartociudad_geocode(x)[1,] res &lt;- data.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/06/17/evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid/" rel="bookmark">
+			Evolución histórica de la deuda del ayuntamiento de Madrid
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-06-17T08:13:56Z">2016-6-17</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Una de las cosas de las que me acuerdo de cuando leía es un parrafito de Mi idolatrado hijo Sisí en el que Delibes ponía en la boca no sé si de alguno de sus protagonistas o del narrador en el que se daba cuenta de la anormalidad histórica que supuso el tiempo de la II República: de repente, la gente hacía cosas que nunca había hecho y que nunca había vuelto a hacer: hablar a todas horas y con todo el mundo de política.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/06/13/censura-a-la-izquierda-en-las-universidades-espanolas/" rel="bookmark">
+			Censura a la izquierda en las universidades españolas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-06-13T08:13:39Z">2016-6-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		(Aviso: esta entrada podría competir dignamente en una competición de titulares engañosos. Es posible que si no sepas de qué hablo regularmente te interese más esto).
+En España hay pruebas de acceso a la universidad que y en algunos sitios publican las notas de corte para acceder a determinados estudios. Las he bajado escrapeando El País así
+library(rvest) library(&lt;a href=&quot;http://inside-r.org/packages/cran/plyr&quot;&gt;plyr) library(rstan) library(reshape2) options(mc.cores = 2) url &lt;- &quot;http://elpais.com/especiales/universidades/&quot; pagina &lt;- read_html(url, encoding = &quot;UTF8&quot;) urls_provs &lt;- html_nodes(pagina, &quot;a&quot;) urls_provs &lt;- html_attr(urls_provs, &quot;href&quot;) urls_provs &lt;- paste0(&quot;http://elpais.
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/categories/r/page/15/">«</a>
+	<span class="pagination__item pagination__item--current">16/50</span>
+	<a class="pagination__item pagination__item--next btn" href="/categories/r/page/17/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

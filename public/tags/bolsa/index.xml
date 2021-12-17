@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bolsa on datanalytics</title>
+    <link>/tags/bolsa/</link>
+    <description>Recent content in bolsa on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 05 May 2020 09:51:07 +0000</lastBuildDate><atom:link href="/tags/bolsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movimientos brownianos y barreras</title>
+      <link>/2020/05/05/movimientos-brownianos-y-barreras/</link>
+      <pubDate>Tue, 05 May 2020 09:51:07 +0000</pubDate>
+      
+      <guid>/2020/05/05/movimientos-brownianos-y-barreras/</guid>
+      <description>En Hypermind se está planteando esta cuestión:
+A día de hoy, el S&amp;amp;P 500 está en 2830. La predicción está y viene estando aproximadamente alrededor de la regla de tres:
+$latex \frac{s - 2000}{3000 - 2000} \times 100%$
+donde $latex s$ es la cotización del índice.
+Y aquí vienen dos preguntas/ejercicios para mis lectores:
+ Suponiendo que el S&amp;amp;P 500 se comportase como un movimiento browniano (sin drift), ¿sería precisa la regla anterior?</description>
+    </item>
+    
+    <item>
+      <title>El extraño caso de la media empírica menguante</title>
+      <link>/2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/</link>
+      <pubDate>Tue, 31 May 2016 08:13:28 +0000</pubDate>
+      
+      <guid>/2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/</guid>
+      <description>La distribución lognormal es la exponencial de una distribución normal. Su media, Wikipedia dixit, es $latex \exp(\mu + \sigma^2 /2)$.
+Dada una muestra de la distribución lognormal (y supuesto, por simplificar, $latex \mu=0$), podemos calcular
+ * su media y * una estimación de su $latex \sigma$ y calcular $latex \exp(\sigma^2 /2)$  y uno pensaría que los valores deberían ser similares. Mas pero sin embargo,
+library(ggplot2) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(123) sigmas &amp;lt;- seq(1, 10, by = 0.</description>
+    </item>
+    
+    <item>
+      <title>Descarga de datos del Ibex 35 (¿y otros?) minuto a minuto en tiempo (casi) real</title>
+      <link>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</link>
+      <pubDate>Fri, 20 May 2016 08:13:54 +0000</pubDate>
+      
+      <guid>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</guid>
+      <description>El código es
+library(httr) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) base.url &amp;lt;- &amp;quot;http://www.infobolsa.es/1/wtdb/ChartIntraday&amp;quot; res &amp;lt;- POST(base.url, body = list(mv = &amp;quot;M SAN&amp;quot;, date = &amp;quot;20160518&amp;quot;, compressionMult = 1, isSession = 1)) dat &amp;lt;- content(res, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/methods/as&amp;quot;&amp;gt;as = &amp;quot;parsed&amp;quot;, type = &amp;quot;application/json&amp;quot;) dat &amp;lt;- dat$answer$LST$TV$T09 dat &amp;lt;- ldply(dat, unlist)  Los mutatis mutandis, si alguien tiene la gentileza, en los comentarios.</description>
+    </item>
+    
+    <item>
+      <title>Tres sigmas o nanay</title>
+      <link>/2014/10/28/tres-sigmas-o-nanay/</link>
+      <pubDate>Tue, 28 Oct 2014 07:13:24 +0000</pubDate>
+      
+      <guid>/2014/10/28/tres-sigmas-o-nanay/</guid>
+      <description>El otro día hablaba con una colega sobre una charla a la que habíamos asistido. Yo le decía que sí, que estaba bien, pero que todo lo que habían contado era mentira. Debí haber sido más preciso y decir que no era verdad, que es distinto. Pero las canapescas circunstancias no eran propicias para el distingo. Mi interlocutora me escuchaba, pienso, entre sorprendida e incrédula. Todavía está en la edad en la que hay que creérselo todo —sí, esa edad y esa obligación existe— y tiempo tendrá de dejarse envenenar por el nihilismo.</description>
+    </item>
+    
+    <item>
+      <title>El yuyuplot en perspectiva</title>
+      <link>/2014/02/18/el-yuyuplot-en-perspectiva/</link>
+      <pubDate>Tue, 18 Feb 2014 08:41:17 +0000</pubDate>
+      
+      <guid>/2014/02/18/el-yuyuplot-en-perspectiva/</guid>
+      <description>El yuyuplot al que me refiero es
+
+un gráfico ha circulado por internet y que ha causado cierto pánico, se ve (y de ahí el nombre). En algunos sitios —véase este como ejemplo de los menos acertados— se ha intentado de explicar al público sus deméritos.
+El mundo de las finanzas debiera ser la envidia de otros ámbitos por el volumen, variedad y velocidad de los datos disponibles en él.</description>
+    </item>
+    
+    <item>
+      <title>Cómo apostar si tienes que</title>
+      <link>/2014/01/09/como-apostar-si-tienes-que/</link>
+      <pubDate>Thu, 09 Jan 2014 08:56:29 +0000</pubDate>
+      
+      <guid>/2014/01/09/como-apostar-si-tienes-que/</guid>
+      <description>Hace unos días recibí esto,
+
+que es la rentabilidad de carteras de inversión (sospecho que no necesariamente reales) de usuarios de cierto portal que compiten por ver quién tiene más ojo en bolsa.
+¿No os llama la atención esa rentabilidad &amp;gt;600%? ¿Cómo se puede alcanzar? ¿Es ese señor —a quien no conozco— un hacha de las inversiones?
+Dos ideas me vienen a la cabeza. Una es esta que, pienso, no aplica.</description>
+    </item>
+    
+    <item>
+      <title>Addenda: ¿qué ha pasado en el Ibex durante el último mes? </title>
+      <link>/2013/02/28/addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</link>
+      <pubDate>Thu, 28 Feb 2013 07:03:53 +0000</pubDate>
+      
+      <guid>/2013/02/28/addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</guid>
+      <description>Abundando en el tema de ayer, ahora, los mismos datos representados con mapas de calor:
+
+Para obtenerlo, a lo que ya teníamos basta añadirle:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/gplots&amp;quot;&amp;gt;gplots) heatmap.2(as.matrix(ibex.scaled), Rowv=F, Colv=T, key=F, trace=&amp;quot;none&amp;quot;, col=redgreen, xlab=&amp;quot;valor&amp;quot;, ylab=&amp;quot;&amp;quot;, margins=c(5,10))  </description>
+    </item>
+    
+    <item>
+      <title>¿Qué ha pasado en el Ibex durante el último mes?</title>
+      <link>/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</link>
+      <pubDate>Wed, 27 Feb 2013 07:07:38 +0000</pubDate>
+      
+      <guid>/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</guid>
+      <description>Pues esencialmente esto:
+
+Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros dos grupos han tenido una evolución en U y ha recuperado, con creces incluso, el valor que tenían hace un mes.
+Y, como siempre, el código:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/tseries&amp;quot;&amp;gt;tseries) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/zoo&amp;quot;&amp;gt;zoo) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) library(reshape) library(ggplot2) foo &amp;lt;- function( simbolo, final = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/Sys.time&amp;quot;&amp;gt;Sys.time(), profundidad = 30 * 24 * 3600 ){ precios &amp;lt;- get.</description>
+    </item>
+    
+    <item>
+      <title>¿Es rentable invertir en bolsa en el largo plazo?</title>
+      <link>/2011/12/28/es-rentable-invertir-en-bolsa-en-el-largo-plazo/</link>
+      <pubDate>Wed, 28 Dec 2011 07:12:11 +0000</pubDate>
+      
+      <guid>/2011/12/28/es-rentable-invertir-en-bolsa-en-el-largo-plazo/</guid>
+      <description>Quien busque información al respecto por ahí verá opiniones y cifras. En cualquier caso, y como se verá aquí, todo depende del cuándo. Finalmente, después de mucho buscarla, he conseguido información sobre la rentabilidad histórica de la bolsa española —específicamente, del IGBM, el índice de la Bolsa de Madrid— desde su creación en 1940.
+Se observa en la serie que 100 pesetas invertidas en tal año se convirtieron en casi 17000 en el 2004.</description>
+    </item>
+    
+    <item>
+      <title>El lucero del alba</title>
+      <link>/2011/12/27/el-lucero-del-alba/</link>
+      <pubDate>Tue, 27 Dec 2011 06:39:02 +0000</pubDate>
+      
+      <guid>/2011/12/27/el-lucero-del-alba/</guid>
+      <description>Puede que algunos de mis lectores sepan que el lucero del alba es el nombre con que se conoce al planeta Venus cuando es visible en el cielo al amanecer.
+En contextos menos poéticos se conoce por tal nombre a esto:
+
+Es decir, una determinada configuración de los precios de apertura y cierre de tres días de cotización (bursátil, por ejemplo) de forma que:
+ El primer día hay una bajada El tercer día hay una subida Los precios de apertura y cierre del segundo día son inferiores a los del cierre del primero y apertura del segundo.</description>
+    </item>
+    
+    <item>
+      <title>Tasa Tobin: una discusión casi empírica</title>
+      <link>/2011/08/24/tasa-tobin-una-discusion-casi-empirica/</link>
+      <pubDate>Wed, 24 Aug 2011 07:42:51 +0000</pubDate>
+      
+      <guid>/2011/08/24/tasa-tobin-una-discusion-casi-empirica/</guid>
+      <description>&amp;mdash;¿Me prestas 10.000 euros al 2 %?
+&amp;mdash;Vale, pero me los devuelves mañana.
+¿Para qué quiero yo 10.000 euros por un día? Para nada, realmente: al día siguiente perdería los 54 céntimos de interés sin haber podido encontrar provecho alguno a ese capital.
+Igual ocurre, a otra escala, con los países y los llamados capitales golondrina. Es positiva, cuentan, la inversión externa. Pero no toda es igualmente beneficiosa: ¿qué inversión productiva puede financiarse con capitales de quita y pon?</description>
+    </item>
+    
+    <item>
+      <title>El BPA es un indicador... ¿de qué?</title>
+      <link>/2011/08/09/el-bpa-indicador-de-que/</link>
+      <pubDate>Tue, 09 Aug 2011 07:15:33 +0000</pubDate>
+      
+      <guid>/2011/08/09/el-bpa-indicador-de-que/</guid>
+      <description>Quienes trabajan en la academia suelen ser de un natural sumamente pacífico y desafecto a la polémica. En eso se diferencian de otros gremios, como el de los críticos de cine, a quienes bien se permite —e incluso se agradece— poner a caer de un burro el bodrio del director más pintado.
+Criticaré hoy —más por el asombro que me produce que por afán de controversia— el artículo El comportamiento financiero de las empresas socialmente responsables de M.</description>
+    </item>
+    
+  </channel>
+</rss>

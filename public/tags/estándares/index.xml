@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estándares on datanalytics</title>
+    <link>/tags/est%C3%A1ndares/</link>
+    <description>Recent content in estándares on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 27 Oct 2017 08:13:53 +0000</lastBuildDate><atom:link href="/tags/est%C3%A1ndares/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISO 3166-2:ES</title>
+      <link>/2017/10/27/iso-3166-2es/</link>
+      <pubDate>Fri, 27 Oct 2017 08:13:53 +0000</pubDate>
+      
+      <guid>/2017/10/27/iso-3166-2es/</guid>
+      <description>El estándar ISO 3166-2:ES, ignorado por todos, establece cómo deberían identificarse provincias y comunidades autónomas en España.
+Obviamente, ni el INE ni nadie le va a hacer el más minimo caso: seguiremos teniendo que recordar que Zaragoza es la provincia 50, Soria la 42, etc. ¡Qué primitivo, qué contraintiutivo!
+Pero no ha de perderse la esperanza: si me lees y algún día te vas a ver en la tesitura de crear algún tipo de base de datos de gentes y lugares de España, recuerda que existe un estándar internacional medianamente nemotécnico y al socaire de las veleidades vernacularizantes.</description>
+    </item>
+    
+  </channel>
+</rss>

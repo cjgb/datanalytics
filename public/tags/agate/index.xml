@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agate on datanalytics</title>
+    <link>/tags/agate/</link>
+    <description>Recent content in agate on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 17 Nov 2015 08:13:11 +0000</lastBuildDate><atom:link href="/tags/agate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>agate: análisis de datos optimizado para humanos (y no para máquinas)</title>
+      <link>/2015/11/17/agate-analisis-de-datos-optimizado-para-humanos-y-no-para-maquinas/</link>
+      <pubDate>Tue, 17 Nov 2015 08:13:11 +0000</pubDate>
+      
+      <guid>/2015/11/17/agate-analisis-de-datos-optimizado-para-humanos-y-no-para-maquinas/</guid>
+      <description>Una de las cosas que menos me canso de repetir es que R no es (solo) un lenguaje de programación. R es un entorno para el análisis de datos. Los informáticos se horrorizan con él: no entienden por qué es como es. Pero, fundamentalmente, su problema es que no conciben que pueda haber sido diseñado para el REPL y no (solamente) para crear programas.
+Casi todo el tiempo que paso con R abierto lo consumo trabajando interactivamente, no programando.</description>
+    </item>
+    
+  </channel>
+</rss>

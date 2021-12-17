@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>efectos aleatorios on datanalytics</title>
+    <link>/tags/efectos-aleatorios/</link>
+    <description>Recent content in efectos aleatorios on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/efectos-aleatorios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Por supuesto que tengo más variables que observaciones... ¿y?</title>
+      <link>/2020/07/23/por-supuesto-que-tengo-mas-variables-que-observaciones-y/</link>
+      <pubDate>Thu, 23 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/23/por-supuesto-que-tengo-mas-variables-que-observaciones-y/</guid>
+      <description>He intentado replicar los resultados de la entrada de ayer con GAM (vía [mgcv](https://CRAN.R-project.org/package=mgcv)) así (véase el enlace anterior para la definición de los datos):
+library(mgcv) modelo_gam &amp;lt;- gam( y ~ x + s(id, bs = &amp;quot;re&amp;quot;), data = datos, method = &amp;quot;REML&amp;quot;, family = &amp;quot;poisson&amp;quot;)  Y nada:
+Error in gam(y ~ x + s(id, bs = &amp;quot;re&amp;quot;), data = datos, method = &amp;quot;REML&amp;quot;, : Model has more coefficients than data  Sí, ya sé que tengo más variables que observaciones.</description>
+    </item>
+    
+  </channel>
+</rss>

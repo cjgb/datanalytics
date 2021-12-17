@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelos generativos on datanalytics</title>
+    <link>/tags/modelos-generativos/</link>
+    <description>Recent content in modelos generativos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 31 May 2019 09:11:07 +0000</lastBuildDate><atom:link href="/tags/modelos-generativos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelos GARCH (o: no me cuentes tu vida, dame el pxxx modelo generativo y ya)</title>
+      <link>/2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/</link>
+      <pubDate>Fri, 31 May 2019 09:11:07 +0000</pubDate>
+      
+      <guid>/2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/</guid>
+      <description>Los modelos GARCH son otra de esas cosas de las que oyes hablar y como nunca se convierten en problemas de los de carne en el asador, preocupan poco y ocupan menos (más allá de que sabes que se trata de modelos similares a los de series temporales de toda la vida donde la varianza varía de cierta forma a lo largo del tiempo). Pero comienzas a leer cosas como esta y no te enteras de nada: solo hay letras y llamadas a funciones oscuras y oscurantistas.</description>
+    </item>
+    
+    <item>
+      <title>Las tres culturas</title>
+      <link>/2018/07/11/las-tres-culturas/</link>
+      <pubDate>Wed, 11 Jul 2018 08:13:37 +0000</pubDate>
+      
+      <guid>/2018/07/11/las-tres-culturas/</guid>
+      <description>Breiman habló de las dos. Dice, y tiene razón, que:
+Según él, la estadística tradicional rellena la caja negra con:
+¡Aburrido, aburrido, aburrido! Aburrido y limitado (aunque, hay que admitirlo, útil en ocasiones muy concretas). Breiman sugiere sustituir las cajas negras que encontramos en la naturaleza por otras cajas negras conceptuales:
+Que es aún más aburrido y patrimonio, además, de toda suerte de script kiddies.
+La tercera cultura reemplaza la caja negra por un modelo generativo que simula el comportamiento de la naturaleza (i.</description>
+    </item>
+    
+  </channel>
+</rss>

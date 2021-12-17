@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sanidad on datanalytics</title>
+    <link>/tags/sanidad/</link>
+    <description>Recent content in sanidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 May 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/sanidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuando sea mayor, quiero escribir informes como esos</title>
+      <link>/2020/05/12/cuando-sea-mayor-quiero-escribir-informes-como-esos/</link>
+      <pubDate>Tue, 12 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/12/cuando-sea-mayor-quiero-escribir-informes-como-esos/</guid>
+      <description>Ayer buscaba información sobre la historia de la sanidad española y de la pública en particular. Quería averiguar por qué acabamos con un sistema britanoide en lugar del centroeuropeo:
+Aún tengo pendiente averiguar el motivo. Pero por el camino di con esto y gracias a ello, con el Euro Health Consumer Index y sus correspondientes informes anuales, escritos con una fina ironía. No hay que ir más allá de la primera frase del de 2018 para encontrar el primer ejemplo (las cursivas son del original):</description>
+    </item>
+    
+    <item>
+      <title>Hospitales y camas en la Comunidad de Madrid</title>
+      <link>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</link>
+      <pubDate>Mon, 23 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</guid>
+      <description>[Enhorabuena, pienses lo que pienses, en esta entrada vas a encontrar argumentos que reforzarán tus prioris.]
+Por un lado, nos cuentan que los políticos que han gobernado la CM (Comunidad de Madrid, en lo que sigue) han desmantelado la sanidad (particularmente, la pública). Por otro, jamás me ha sucedido ver un cráter y que me digan: allí hubo un hospital. Bueno, sí, el hospital Puerta de Hierro está abandonado pero, parece ser, fue trasladado de Madrid a Majadahonda.</description>
+    </item>
+    
+    <item>
+      <title>Tres titulares alternativos y un extracto de &#34;Mala ciencia&#34;</title>
+      <link>/2018/09/07/tres-titulares-alternativos-y-un-extracto-de-mala-ciencia/</link>
+      <pubDate>Fri, 07 Sep 2018 08:13:01 +0000</pubDate>
+      
+      <guid>/2018/09/07/tres-titulares-alternativos-y-un-extracto-de-mala-ciencia/</guid>
+      <description>En 2012 el gobierno español retiró la tarjeta sanitaria a gente que no cumplía una serie de requisitos mínimos. Hoy parece que se la ha devuelto.
+Hace poco se publicó un artículo, The deadly effects of losing health insurance (que ya se ha comentado aquí desde una perspectiva metodológica y de la inconsistencia de los resultados), que fue ampliamente comentado en prensa.
+El titular podría haber sido (y, de hecho, lo fue) alguno (o alguna versión) de los siguientes (todos ellos soportados por el contenido del artículo):</description>
+    </item>
+    
+    <item>
+      <title>Cuatro enlaces: sanidad, correos electrónicos, leyes y errores de programación</title>
+      <link>/2014/02/21/cuatro-enlaces-sanidad-correos-electronicos-leyes-y-errores-de-programacion/</link>
+      <pubDate>Fri, 21 Feb 2014 08:42:59 +0000</pubDate>
+      
+      <guid>/2014/02/21/cuatro-enlaces-sanidad-correos-electronicos-leyes-y-errores-de-programacion/</guid>
+      <description>El primero es Freer trade in European and Spanish health care services y trata sobre los efectos en el sistema sanitario español de una directiva europea que liberaliza el acceso a los ciudadanos de al unión a los servicios de salud de otros países.
+En concreto, el artículo argumenta cómo España podría ser uno de los países más afectados por dos razones:
+ 1. El flujo de extranjeros que atrae el país.</description>
+    </item>
+    
+  </channel>
+</rss>

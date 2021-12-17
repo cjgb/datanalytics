@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>criptomonedas on datanalytics</title>
+    <link>/tags/criptomonedas/</link>
+    <description>Recent content in criptomonedas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 06 Apr 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/criptomonedas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre Helium</title>
+      <link>/2021/04/06/sobre-helium/</link>
+      <pubDate>Tue, 06 Apr 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/04/06/sobre-helium/</guid>
+      <description>Por motivos que no vienen al caso, he estado investigando estos días de reojo Helium, una cosa muy críptica y cuya página web no ayuda en gran medida a clarificar y cuyas deficiencias esta entrada mía contribuya a rectificar. Esta entrada va a ser larga, dividida en varias secciones y con varias de propedéutica antes de entrar en materia.
+Vaya en todo caso por delante que existen varias páginas, además de la de Helium, que describen el sistema muy bien, mucho mejor de lo que podría hacerlo yo, desde el punto de vista técnico (como esta).</description>
+    </item>
+    
+    <item>
+      <title>Todo sobre bitcoin (y por qué he decidido cogerle manía)</title>
+      <link>/2017/11/08/todo-sobre-bitcoin-y-por-que-he-decidido-cogerle-mania/</link>
+      <pubDate>Wed, 08 Nov 2017 08:13:09 +0000</pubDate>
+      
+      <guid>/2017/11/08/todo-sobre-bitcoin-y-por-que-he-decidido-cogerle-mania/</guid>
+      <description>Esencialmente, un usuario de bitcoin puede hacer las mismas operaciones que un cliente bancario: ver su saldo, recibir bitcoins, transferir bitcoins. En ese aspecto, nada nuevo bajo el sol. Lo particular del caso es que, a diferencia del sistema bancario, sumamente centralizado, en el mundo del bitcoin operan multitud de agentes sin necesidad de una autoridad central.
+En lo siguiente, al hablar del sistema, me estaré refiriendo a una red de computadoras que corren un software protocolizado (este protocolo es la ley, i.</description>
+    </item>
+    
+  </channel>
+</rss>

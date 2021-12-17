@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grandes datos on datanalytics</title>
+    <link>/tags/grandes-datos/</link>
+    <description>Recent content in grandes datos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 29 Nov 2017 08:13:50 +0000</lastBuildDate><atom:link href="/tags/grandes-datos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antropocentrismo cansino</title>
+      <link>/2017/11/29/antropocentrismo-cansino/</link>
+      <pubDate>Wed, 29 Nov 2017 08:13:50 +0000</pubDate>
+      
+      <guid>/2017/11/29/antropocentrismo-cansino/</guid>
+      <description>Es muy cansino. No hay debate sobre big data, inteligencia artificial o similar en el que no pase: de repente lo captura alguien (con pinta de no haber tirado una maldita línea de código en la vida) llevándoselo al tema con el que asustan a las porteras: ¡oh, oh, oh, la protección de datos!, ¡la nueva normativa europea! Que si Facebook sabe lo que hiciste, que si Google conoce tus amigos, que si&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Entrevista en Principio de Incertidumbre: &#34;big data&#34; sin artificio</title>
+      <link>/2015/02/04/entrevista-en-principio-de-incertidumbre-big-data-sin-artificio/</link>
+      <pubDate>Wed, 04 Feb 2015 07:13:40 +0000</pubDate>
+      
+      <guid>/2015/02/04/entrevista-en-principio-de-incertidumbre-big-data-sin-artificio/</guid>
+      <description>El jueves pasado y durante un breve receso de mi gripe, me entrevistaron en Canal Extremadura Radio. Durante una hora larga (que luego hubo que recortar a los 30 minutos que dura el programa de divulgación científica Principio de Incertidumbre) hablé de estadística, big data y R con Jorge Solís Bejarano.
+A quien tengo que agradecer, primero, que contase conmigo; pero además y sobre todo, lo bien documentado que estuvo (lo cual me lleva a pensar que habrá que estar atentos a otras grabaciones de su programa).</description>
+    </item>
+    
+    <item>
+      <title>Cómo no nació el &#34;big data&#34;</title>
+      <link>/2014/12/30/como-no-nacio-el-big-data/</link>
+      <pubDate>Tue, 30 Dec 2014 07:13:55 +0000</pubDate>
+      
+      <guid>/2014/12/30/como-no-nacio-el-big-data/</guid>
+      <description>En julio anuncié en mi cuenta de Twitter (léase de abajo a arriba):
+
+Ya está disponible.</description>
+    </item>
+    
+    <item>
+      <title>Los tests de hipótesis son los macarrones &#34;con cosas de la nevera&#34;</title>
+      <link>/2014/10/13/los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera/</link>
+      <pubDate>Mon, 13 Oct 2014 07:13:29 +0000</pubDate>
+      
+      <guid>/2014/10/13/los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera/</guid>
+      <description>Todos hemos comido macarrones con cosas de la nevera. Estás en casa, tienes hambre y, si no hay otra cosa, son estupendos. Distinto es ir a un bodorrio de alto copete y decirle al camarero:
+—Oiga, esto del solomillo y tal&amp;hellip; ¿No tendrán Vds. un platazo de macarrones con cosas de la nevera?
+Viene esto a que cierta gente trabaja con grandes datos. Y quieren construir modelos. Y por algún motivo que no comprendo del todo, optan por la regresión logística.</description>
+    </item>
+    
+    <item>
+      <title>Nueva versión del informe ‘Quién es Quién en el Big Data en España’</title>
+      <link>/2014/07/03/nueva-version-del-informe-quien-es-quien-en-el-big-data-en-espana/</link>
+      <pubDate>Thu, 03 Jul 2014 07:00:03 +0000</pubDate>
+      
+      <guid>/2014/07/03/nueva-version-del-informe-quien-es-quien-en-el-big-data-en-espana/</guid>
+      <description>Mis colegas de BigData for Successs acaban de publicar una versión actualizada de su informe Quién es Quién en el Big Data en España.
+Quien se lo baje —¡muy recomendable!— entenderá por qué les tengo que estar muy agradecido.</description>
+    </item>
+    
+    <item>
+      <title>Errores de tipo M y de tipo S</title>
+      <link>/2014/06/04/errores-de-tipo-m-y-de-tipo-s/</link>
+      <pubDate>Wed, 04 Jun 2014 07:00:02 +0000</pubDate>
+      
+      <guid>/2014/06/04/errores-de-tipo-m-y-de-tipo-s/</guid>
+      <description>A los estadísticos se nos acusa en ocasiones de contestar preguntas tontas en las que nadie está interesado.
+(Nota: de alguna manera conseguí el artículo al que se refiere el enlace anterior; pero ahora no veo que exista ninguna copia libre por ahí. Si alguien la consigue, por el bien del resto de los lectores, que me avise o que lo haga saber en los comentarios).
+A lo que iba. Muchos estadísticos tienen el cerebro reprogramado para tratar de no cometer los llamados errores de tipo I y errores de tipo II (y para ello tratan de estimar una cosa de dudosa utilidad, $latex P(D|H)$, donde $latex D$ son los datos y $latex H$ es cierta hipótesis (que, generalmente, a nadie interesa y que es más difícil de plantear correctamente de lo que parecería).</description>
+    </item>
+    
+    <item>
+      <title>Nuevo curso: &#34;Big &amp; open data: análisis y programación con R&#34;</title>
+      <link>/2014/06/02/nuevo-curso-big-open-data-analisis-y-programacion-con-r/</link>
+      <pubDate>Mon, 02 Jun 2014 07:30:28 +0000</pubDate>
+      
+      <guid>/2014/06/02/nuevo-curso-big-open-data-analisis-y-programacion-con-r/</guid>
+      <description>Este verano, la Escuela Complutense de Verano ofrece el curso Big &amp;amp; open data: análisis y programación con R.
+
+Lo anuncio por aquí por tres motivos:
+ * Por su interés intrínseco. * Por si alguno de los lectores de estas páginas estuviese interesado. * Porque yo participo/participaría en el programa contando cosas de lo más jugosas.  </description>
+    </item>
+    
+    <item>
+      <title>V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación Operativa</title>
+      <link>/2014/05/20/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2/</link>
+      <pubDate>Tue, 20 May 2014 07:42:50 +0000</pubDate>
+      
+      <guid>/2014/05/20/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2/</guid>
+      <description>Los días 16 y 17 de junio tendrán lugar en Madrid las V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación Operativa. Cosa de la que tal vez no hubiese llegado a tener constancia de no haber sido por la gentileza de la organización, que me ha invitado a impartir un taller introductorio al big data.
+Serán cuatro horas y media en la mañana del 17 organizadas de la siguiente manera:</description>
+    </item>
+    
+    <item>
+      <title>V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación Operativa</title>
+      <link>/2014/04/08/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa/</link>
+      <pubDate>Tue, 08 Apr 2014 07:41:13 +0000</pubDate>
+      
+      <guid>/2014/04/08/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa/</guid>
+      <description>Los días 16 y 17 de junio de 2014, en Madrid, tendrán lugar las V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación Operativa. Las organiza el Grupo de Enseñanza y Aprendizaje de la Estadística y la Investigación Operativa (GENAEIO) de la SEIO.
+¿Por qué lo menciono? Pues porque estoy en el programa e igual alguien quiere acercarse a verme hablar de big data y similares. Aún no he cerrado los temas que quiero tratar en esas horas pero algunas ideas que me rondan la cabeza son:</description>
+    </item>
+    
+    <item>
+      <title>Me han entrevistado en Big Data 4 Success</title>
+      <link>/2014/03/06/me-han-entrevistado-en-big-data-4-success/</link>
+      <pubDate>Thu, 06 Mar 2014 07:38:26 +0000</pubDate>
+      
+      <guid>/2014/03/06/me-han-entrevistado-en-big-data-4-success/</guid>
+      <description>Aún tengo pendiente mirar en un diccionario qué es podcast. Pero ya he hecho uno. Tengo el honor de haber sido entrevistado por Jorge Ubero para Big Data 4 Success.
+La entrevista, aquí.</description>
+    </item>
+    
+    <item>
+      <title>‘Quién es Quién’ del Big Data en España</title>
+      <link>/2014/02/25/quien-es-quien-del-big-data-en-espana/</link>
+      <pubDate>Tue, 25 Feb 2014 08:22:48 +0000</pubDate>
+      
+      <guid>/2014/02/25/quien-es-quien-del-big-data-en-espana/</guid>
+      <description>Pues sí, aparezco en la infografía ‘Quién es Quién’ del Big Data en España:
+
+El responsable del homenaje, Jorge Ubero, está proyectando una serie de colaboraciones sobre el mundo del big data en España. La mía está pendiente —¡maldita agenda!— pero aparecerá en los próximos días. Mientras tanto y como abrebocas, os invito a conocer BigData 4 Success.</description>
+    </item>
+    
+    <item>
+      <title>Nueva edición de mi taller de R y Hadoop en Zaragoza</title>
+      <link>/2014/01/13/nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza/</link>
+      <pubDate>Mon, 13 Jan 2014 08:03:37 +0000</pubDate>
+      
+      <guid>/2014/01/13/nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza/</guid>
+      <description>Los días 17 y 18 de enero impartiré una versión extendida (¡siete horas!) de mi taller de R y Hadoop en Zaragoza. Para los interesados:
+ * [Información adicional](http://www.zaragoza.es/ciudad/centros/detalle_Agenda?id=113212) (fechas, horas, lugar) * [Requisitos de hardware y software para el taller](http://www.datanalytics.com/blog/2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/)  El temario será el mismo que en las ediciones anteriores aunque en esta ocasión habrá más tiempo para profundizar en algunos conceptos, realizar ejercicios adicionales, etc.</description>
+    </item>
+    
+    <item>
+      <title>Un récord personal</title>
+      <link>/2013/11/04/un-record-personal/</link>
+      <pubDate>Mon, 04 Nov 2013 07:05:09 +0000</pubDate>
+      
+      <guid>/2013/11/04/un-record-personal/</guid>
+      <description>El otro día, casi por error, cargué este dataframe en R:
+&amp;lt;code&amp;gt;&amp;gt; dim(raw) [1] 115318140 4 &amp;lt;/code&amp;gt;  Es todo un récord personal logrado en un servidor con 24GB de RAM bastante caro.
+El anterior estaba en otro de algo así como 20 millones de filas y unas 6 o siete columnas. Eso sí, logrado en tiramisu, mi ordenador personal de 8GB de RAM de 400 euros (monitor incluido).
+Os preguntaréis si pude hacer algo con ese monstruo.</description>
+    </item>
+    
+    <item>
+      <title>Mi definición de &#34;big data&#34;</title>
+      <link>/2013/07/10/mi-definicion-de-big-data/</link>
+      <pubDate>Wed, 10 Jul 2013 07:33:03 +0000</pubDate>
+      
+      <guid>/2013/07/10/mi-definicion-de-big-data/</guid>
+      <description>No sin descaro, me atrevo a aportar una definición alternativa a eso que llaman big data y que yo traduzco en ocasiones como grandes datos.
+No obstante, para comprenderla, considero necesaria una pequeña digresión de dos párrafos —con la que muchos, espero, no aprenderán nada que no traigan ya sabido— sobre los lenguajes de programación declarativos e imperativos.
+En los primeros, programar consiste esencialmente en escribir con cierta notación aquello que quieres: la suma de los elementos de un vector, el promedio de los valores de una columna de una tabla, la suma de los saldos de los clientes de Soria, etc.</description>
+    </item>
+    
+    <item>
+      <title>Infografía sobre Big Data Spain</title>
+      <link>/2012/12/18/infografia-sobre-big-data-spain/</link>
+      <pubDate>Tue, 18 Dec 2012 07:17:20 +0000</pubDate>
+      
+      <guid>/2012/12/18/infografia-sobre-big-data-spain/</guid>
+      <description>Rubén Martínez, viejo conocido (fue instrumental en la organización del concurso de análisis de datos de las III Jornadas de Usuarios de R) me ha hecho llegar la siguiente infografía sobre el estado del mundo de los grandes datos (big data) y, en particular, sobre las conferencias Big Data Spain en cuya organización colaboró. Es la siguiente (hay que hacer clic en ella para verla en tamaño completo):
+
+Esperemos que el año que viene no coincida con las jornadas de R y podamos compatibilizar ambas&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Disponibles los vídeos de las sesiones de BigDataSpain</title>
+      <link>/2012/12/05/disponibles-los-videos-de-las-sesiones-de-bigdataspain/</link>
+      <pubDate>Wed, 05 Dec 2012 07:49:27 +0000</pubDate>
+      
+      <guid>/2012/12/05/disponibles-los-videos-de-las-sesiones-de-bigdataspain/</guid>
+      <description>Ya están disponibles los vídeos de las sesiones de la conferencia BigDataSpain que anunciamos hace un tiempo en estas páginas.
+http://www.youtube.com/watch?v=7efDRf4q3lk</description>
+    </item>
+    
+    <item>
+      <title>260GB... ¿es &#34;big data&#34;?</title>
+      <link>/2012/11/21/260gb-es-big-data/</link>
+      <pubDate>Wed, 21 Nov 2012 07:51:08 +0000</pubDate>
+      
+      <guid>/2012/11/21/260gb-es-big-data/</guid>
+      <description>Un excompañero me contaba ayer que asistió a las jornadas Big Data Spain 2012 y le sorprendió lo pequeños que le resultaban los conjuntos de datos de los que se hablaba. En su trabajo existen (me consta) tablas de 1TB y nunca ha oído a nadie hablar de big data.
+En particular, hablaba de un caso de negocio en el que se trataba un conjunto de datos de 260GB. Y las preguntas que lanzo a mis lectores son:</description>
+    </item>
+    
+    <item>
+      <title>Tesis de maestría: periodismo de datos, &#34;big data&#34; y &#34;open data&#34;</title>
+      <link>/2012/11/06/tesis-de-maestria-periodismo-de-datos-big-data-y-open-data/</link>
+      <pubDate>Tue, 06 Nov 2012 07:55:45 +0000</pubDate>
+      
+      <guid>/2012/11/06/tesis-de-maestria-periodismo-de-datos-big-data-y-open-data/</guid>
+      <description>Tal vez a quienes siguen estas páginas les interese echar un vistazo a la tesis de maestría de Ángeles Mariño.
+He aquí la introducción:
+Dos de los fenómenos que más han ido acelerando el desarrollo de esta nueva especialidad han sido Big Data y Open Data, los cuales han ido impulsando el desarrollo de nuevas herramientas para su análisis y comunicación. De ahí que los periodistas fueron –y continúan- adquiriendo nuevas habilidades en orden a analizar, filtrar y hacer visibles grandes masas de datos.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo vivir en un mar de datos?</title>
+      <link>/2012/11/05/como-vivir-en-un-mar-de-datos/</link>
+      <pubDate>Mon, 05 Nov 2012 07:06:26 +0000</pubDate>
+      
+      <guid>/2012/11/05/como-vivir-en-un-mar-de-datos/</guid>
+      <description>Pues martes, miércoles y jueves de esta semana voy a tratar de averiguarlo acudiendo a las Primeras jornadas “Vivir en un mar de datos” (del Big Data a la Smart Society) organizados por la Fundación Telefónica.
+Si alguien se deja caer por allí, que me ubique y nos tomamos un café.
+(Soy breve: por mi mala cabeza, he acabado apuntado a demasiados cursos de Coursera y otros MOOC a la vez.</description>
+    </item>
+    
+    <item>
+      <title>SAS, R, grandes datos y falta de afabilidad</title>
+      <link>/2012/08/07/sas-r-grandes-datos-y-falta-de-afabilidad/</link>
+      <pubDate>Tue, 07 Aug 2012 07:18:58 +0000</pubDate>
+      
+      <guid>/2012/08/07/sas-r-grandes-datos-y-falta-de-afabilidad/</guid>
+      <description>El otro día hice un comentario a esta entrada de una bitácora de SAS. Esencialmente, decía dos cosas:
+ * Que 10000 observaciones no hacen grandes datos (_big data_); 10000 observaciones son muy pocas observaciones. * Que el código original, la idea de la entrada, etc., proceden de [este otro enlace](http://yihui.name/en/2008/09/to-see-a-circle-in-a-pile-of-sand/) de una página de [Yihui Xie](http://yihui.name/) (conocido por ser el autor de [`knitr`](http://yihui.name/knitr/)) en la que el problema se planteaba y resolvía con R.</description>
+    </item>
+    
+    <item>
+      <title>Conferencia sobre Grandes Datos</title>
+      <link>/2012/07/18/conferencia-sobre-grandes-datos/</link>
+      <pubDate>Wed, 18 Jul 2012 06:21:44 +0000</pubDate>
+      
+      <guid>/2012/07/18/conferencia-sobre-grandes-datos/</guid>
+      <description>Permítanme mis lectores matar dos pájaros con una misma entrada. La primera es anunciar que se está organizando unaconferencia sobre Grandes Datos en Madrid este invierno. Tendrá lugar los días 14, 15 y 16 de noviembre. Los organizadores la anuncian así:
+
+La segunda, de la que ya se habrá dado cuenta alguno de mis lectores, es que ya me he decantado por una traducción al español de big data. Y no, no crean que se trata de una traducción plana, directa y sin gracia del término anglosajón.</description>
+    </item>
+    
+    <item>
+      <title>R y conjuntos de datos &#34;grandes&#34;</title>
+      <link>/2010/01/26/r-y-conjuntos-de-datos-grandes/</link>
+      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/01/26/r-y-conjuntos-de-datos-grandes/</guid>
+      <description>Leer datos grandes con R produce inmensos quebraderos de cabeza. Existen dos soluciones extra-R: filtrar los datos cuanto antes y comprar más RAM. Desde R existen trucos y alternativas y hace un tiempo, aunque sin aspiraciones de exhaustividad, quise explorar algunas.
+De ahí surgió una entrada que realicé hace un tiempo, en mi antiguo blog. Publiqué Tres fracasos y medio con R mientras esperaba a un amigo. En él presenté varias opciones para trabajar y operar con datos grandes.</description>
+    </item>
+    
+  </channel>
+</rss>

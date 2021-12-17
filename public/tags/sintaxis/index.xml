@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sintaxis on datanalytics</title>
+    <link>/tags/sintaxis/</link>
+    <description>Recent content in sintaxis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 29 Jan 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/sintaxis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>x[] &lt;- lapply(...)</title>
+      <link>/2020/01/29/x/</link>
+      <pubDate>Wed, 29 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/29/x/</guid>
+      <description>Estos días he aprendido una expresión muy compacta para operar sobre las columnas de una tabla en R:
+x &amp;lt;- iris # por ejemplo x[] &amp;lt;- lapply(x, function(x) factor(x)) # o cualquier otra función  Aunque lapply debería devolver (y, de hecho, devuelve) una lista, esos corchetes de x fuerzan de una manera contraintuitiva que la salida final sea una tabla.
+La magia es consecuencia de que [&amp;lt;- es una función en sí misma (puedes consultar help(&amp;quot;[&amp;lt;-&amp;quot;) si quieres) con un comportamiento que es el que es (porque sí, a veces las cosas son simplemente como son).</description>
+    </item>
+    
+    <item>
+      <title>La primera víctima será la sintaxis</title>
+      <link>/2015/12/21/la-primera-victima-sera-la-sintaxis/</link>
+      <pubDate>Mon, 21 Dec 2015 08:13:12 +0000</pubDate>
+      
+      <guid>/2015/12/21/la-primera-victima-sera-la-sintaxis/</guid>
+      <description>No seré yo quien condene el contar palabras en textos para inferir por dónde van los tiros. Lo he hecho y lo hago con frecuencia.
+Pero lo cuestiono en algunas ocasiones. La principal, esos análisis sumarísimos de los programas electorales —p.e., en la campaña que acabamos de cerrar— que los comparan en términos del número de veces que se mencionan diversos términos o el número de páginas que dedican a diversos temas.</description>
+    </item>
+    
+  </channel>
+</rss>

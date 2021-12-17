@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>roc on datanalytics</title>
+    <link>/tags/roc/</link>
+    <description>Recent content in roc on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/roc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la curva ROC como medida de bondad de clasificadores</title>
+      <link>/2020/07/09/sobre-la-curva-roc-como-medida-de-bondad-de-clasificadores/</link>
+      <pubDate>Thu, 09 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/09/sobre-la-curva-roc-como-medida-de-bondad-de-clasificadores/</guid>
+      <description>Esta entrada se entiende mal sinesta otra donde se daba noticia de un clasificador que era mucho mejor o peor (de acuerdo con ciertas métricas) según la tasa de prevalencia de la clase relevante a pesar de que tanto su sensibilidad como su especificidad no eran particularmente malas. Efectivamente, con lo del coronavirus hemos reaprendido a darle la vuelta a las probabilidades condicionales y aplicar el teorema de Bayes para ver qué cabía esperar de un clasificador cuyas bondades se predican en términos de la sensibilidad y la especificidad.</description>
+    </item>
+    
+    <item>
+      <title>Cotas superiores para el AUC</title>
+      <link>/2019/05/24/cotas-superiores-para-el-auc/</link>
+      <pubDate>Fri, 24 May 2019 09:13:28 +0000</pubDate>
+      
+      <guid>/2019/05/24/cotas-superiores-para-el-auc/</guid>
+      <description>El AUC tiene una cota superior de 1. Concedido. Pero alguien se quejó de que el AUC = 0.71 que aparece aquí era bajo.
+Se ve que ignora esto. Donde está todo tan bien contado que no merece la pena tratar de reproducirlo o resumirlo aquí.</description>
+    </item>
+    
+    <item>
+      <title>Curvas ROC no cóncavas: ¿por qué, por qué, por qué?</title>
+      <link>/2016/05/13/curvas-roc-no-concavas-por-que-por-que-por-que/</link>
+      <pubDate>Fri, 13 May 2016 08:13:42 +0000</pubDate>
+      
+      <guid>/2016/05/13/curvas-roc-no-concavas-por-que-por-que-por-que/</guid>
+      <description>El otro día me enseñaron una rareza: una curva ROC no cóncava. Digamos que como
+El gráfico que la acompaña aquí,
+explica un par de cositas. El artículo enlazado discute cómo combinar clasificadores para construir otro cuya curva ROC sea la envolvente convexa del original.</description>
+    </item>
+    
+    <item>
+      <title>El AUC es la probabilidad de que...</title>
+      <link>/2016/03/29/el-auc-es-la-probabilidad-de-que/</link>
+      <pubDate>Tue, 29 Mar 2016 09:13:40 +0000</pubDate>
+      
+      <guid>/2016/03/29/el-auc-es-la-probabilidad-de-que/</guid>
+      <description>Voy a constuir unos datos artificiales y un modelo de clasificación binaria,
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/mgcv/mgcv&amp;quot;&amp;gt;mgcv) library(ggplot2) library(pROC) n &amp;lt;- 10000 dat &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/mgcv/gamSim&amp;quot;&amp;gt;gamSim(1, n=n, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/dist&amp;quot;&amp;gt;dist=&amp;quot;binary&amp;quot;, scale=.33) lr.fit &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/mgcv/gam&amp;quot;&amp;gt;gam(y ~ &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/mgcv/s&amp;quot;&amp;gt;s(x0, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/splines/bs&amp;quot;&amp;gt;bs=&amp;quot;cr&amp;quot;) + &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/mgcv/s&amp;quot;&amp;gt;s(x1, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/splines/bs&amp;quot;&amp;gt;bs=&amp;quot;cr&amp;quot;) + &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/mgcv/s&amp;quot;&amp;gt;s(x2, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/splines/bs&amp;quot;&amp;gt;bs=&amp;quot;cr&amp;quot;) + &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/mgcv/s&amp;quot;&amp;gt;s(x3, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/splines/bs&amp;quot;&amp;gt;bs=&amp;quot;cr&amp;quot;), &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/family&amp;quot;&amp;gt;family=&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/binomial&amp;quot;&amp;gt;binomial, data=dat, method=&amp;quot;REML&amp;quot;)  y luego (mal hecho: debería hacerlo sobre un conjunto de validación distinto) a obtener las predicciones para las observaciones</description>
+    </item>
+    
+  </channel>
+</rss>

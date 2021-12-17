@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>burr on datanalytics</title>
+    <link>/tags/burr/</link>
+    <description>Recent content in burr on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/burr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De histograma a distribuciones (usando la de Burr)</title>
+      <link>/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/</link>
+      <pubDate>Fri, 05 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/</guid>
+      <description>Tengo una entrada perpetuamente pendiente que se pospone, entre otras cosas, porque aún no he encontrado una manera satisfactoria para muestrear histogramas. Una de las vías sería dar con (y ajustar) una distribución subyacente que generase unos histogramas similares.
+Hoy voy a contar un ejemplo de cómo puede fallar tal estrategia.
+Por un lado he bajado datos de la distribución de renta en España del INE:
+Por otro, me he dejado convencer temporalmente de que la distribución de Burr podría ser conveniente para modelar la distribución de ingresos de los hogares (Wikipedia dixit!</description>
+    </item>
+    
+  </channel>
+</rss>

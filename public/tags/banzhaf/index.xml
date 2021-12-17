@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>banzhaf on datanalytics</title>
+    <link>/tags/banzhaf/</link>
+    <description>Recent content in banzhaf on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 23 Dec 2015 08:13:51 +0000</lastBuildDate><atom:link href="/tags/banzhaf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un poco más sobre el índice de poder de Banzhaf</title>
+      <link>/2015/12/23/un-poco-mas-sobre-el-indice-de-poder-de-banzhaf/</link>
+      <pubDate>Wed, 23 Dec 2015 08:13:51 +0000</pubDate>
+      
+      <guid>/2015/12/23/un-poco-mas-sobre-el-indice-de-poder-de-banzhaf/</guid>
+      <description>En el año 2012 escribí esto, que incluye
+Ni idea de dónde saqué eso. Ni siquiera descarto que fuese una malinterpretación de algo donde se decía otra cosa. De hecho, en el enlace que acompaña al párrafo, efectivamente, dice otra cosa.
+Merecido es que reimplemente la función teniendo encuenta la que parece ser la verdadera definición del índice. Es la siguiente:
+banzhaf &amp;lt;- function(x, mayoria = sum(x) / 2){ tmp &amp;lt;- rep(list(c(TRUE, FALSE)), length(x)) tmp &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>Coaliciones de Banzhaf en el 20D</title>
+      <link>/2015/12/22/coaliciones-de-banzhaf-en-el-20d/</link>
+      <pubDate>Tue, 22 Dec 2015 08:13:22 +0000</pubDate>
+      
+      <guid>/2015/12/22/coaliciones-de-banzhaf-en-el-20d/</guid>
+      <description>Usando código de una entrada anterior voy a medir el poder de cada partido político de acuerdo con Banzhaf tras las elecciones de diciembre de 2015.
+escannos &amp;lt;- c(123, 90, 69, 40, 9, 8, 6, 2, 2, 1) names(escannos) &amp;lt;- c( &amp;quot;pp&amp;quot;, &amp;quot;psoe&amp;quot;, &amp;quot;pod&amp;quot;, &amp;quot;c&#39;s&amp;quot;, &amp;quot;erc&amp;quot;, &amp;quot;dl&amp;quot;, &amp;quot;pnv&amp;quot;, &amp;quot;iu&amp;quot;, &amp;quot;bildu&amp;quot;, &amp;quot;cc&amp;quot;) banzhaf(escannos)  da 14 coaliciones mínimas, pp psoe pp pod pp c&#39;s erc dl pp c&#39;s erc pnv pp c&#39;s erc iu bildu pp c&#39;s dl pnv pp c&#39;s dl iu bildu cc psoe pod c&#39;s psoe pod erc dl psoe pod erc pnv iu psoe pod erc pnv bildu psoe pod dl pnv iu bildu psoe pod dl pnv iu cc psoe pod dl pnv bildu cc y un reparto de poder que queda de esta manera: psoe pod pp pnv dl erc c&#39;s iu bildu cc 57.</description>
+    </item>
+    
+    <item>
+      <title>Banzhaf y las elecciones que se nos vienen</title>
+      <link>/2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/</link>
+      <pubDate>Wed, 20 May 2015 08:13:56 +0000</pubDate>
+      
+      <guid>/2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/</guid>
+      <description>Es pertinente rescatar una entrada de hace tres años sobre D’Hondt y Banzhaf. En el enlace, los detalles.
+Me limitaré a actualizar el código de la función para que muestre las alianzas (algunas enteramente esperpénticas) posibles, que queda de la forma
+banzhaf &amp;lt;- function(x){ x &amp;lt;- -sort(-x) x &amp;lt;- x/sum(x) foo &amp;lt;- function(a,b,p){ if(p&amp;gt;1/2) return(list(a)) if (length(b)==0) return(NULL) b.prima &amp;lt;- b[-1] delta &amp;lt;- b[1] p.delta &amp;lt;- x[delta] return(c(foo(c(a,delta), b.prima, p+p.delta), foo(a,b.</description>
+    </item>
+    
+  </channel>
+</rss>

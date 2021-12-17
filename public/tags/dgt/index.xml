@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dgt on datanalytics</title>
+    <link>/tags/dgt/</link>
+    <description>Recent content in dgt on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Jan 2018 08:13:17 +0000</lastBuildDate><atom:link href="/tags/dgt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mortalidad en carretera (contada de una manera distinta)</title>
+      <link>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</link>
+      <pubDate>Tue, 09 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</guid>
+      <description>Con motivo de fin de año se ha hablado de fallecidos en accidentes de tráfico como por ejemplo en El Mundo o en El País. Y sí, parece que el número observado de muertos ha aumentado.
+Lo cual es mucho menos relevante de lo que se da a entender. Si tiras una moneda al aire 100 veces y sacas 48 caras y luego repites el experimento, podrías sacar 53 (y habría aumentado el número observado de caras) o 45 (y habría disminuido).</description>
+    </item>
+    
+  </channel>
+</rss>

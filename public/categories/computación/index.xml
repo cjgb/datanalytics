@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computación on datanalytics</title>
+    <link>/categories/computaci%C3%B3n/</link>
+    <description>Recent content in computación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 05 Oct 2021 09:13:00 +0000</lastBuildDate><atom:link href="/categories/computaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuantificación de la incertidumbre</title>
+      <link>/2021/10/05/cuantificacion-de-la-incertidumbre/</link>
+      <pubDate>Tue, 05 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/10/05/cuantificacion-de-la-incertidumbre/</guid>
+      <description>IBM ha desarrollado una iniciativa, Uncertainty Quantification 360, que describe así:
+En la página del proyecto hay documentación abundante pero recomiendo comenzar por la demo.</description>
+    </item>
+    
+    <item>
+      <title>Mi apuesta para el larguísimo plazo: Julia</title>
+      <link>/2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/</link>
+      <pubDate>Wed, 14 Jul 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/</guid>
+      <description>Larguísimo, arriba, significa algo así como 10 o 20 años. Vamos, como cuando comencé con R allá por el 2001. * R es, reconozcámoslo, un carajal. Pocas cosas mejores que esta para convencerse. * No dejo de pensar en aquello que me dijo un profesor en 2001: que R no podría desplazar a SAS porque no tenía soporte modelos mixtos. Yo no sabía qué eran los modelos mixtos en esa época pero, desde entonces, vine a entender y considerar que &amp;ldquo;tener soporte para modelos mixtos&amp;rdquo; venía a ser como aquello que convertía a un lenguaje para el análisis de datos en una alternativa viable y seria a lo existente.</description>
+    </item>
+    
+    <item>
+      <title>¿Modelos para ordenar datos?</title>
+      <link>/2020/10/22/modelos-para-ordenar-datos/</link>
+      <pubDate>Thu, 22 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/22/modelos-para-ordenar-datos/</guid>
+      <description>Ayer leí este resumen de este artículo que propone y discute un algoritmo novedoso y basado en ciencia de datos para ordenar datos y hacerle la competencia a quicksort y demás. Reza y promete:
+La idea fundamental del algoritmo consiste en crear un modelo que estime (aproximadamente, claro está) dónde quedaría cada observación una vez ordenados los datos además de, obviamente, una discusión sobre cómo solucionar los errores de predicción.</description>
+    </item>
+    
+    <item>
+      <title>Una guía (breve, concisa) para crear código (y proyectos) reproducibles</title>
+      <link>/2020/09/30/una-guia-breve-concisa-para-crear-codigo-y-proyectos-reproducibles/</link>
+      <pubDate>Wed, 30 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/30/una-guia-breve-concisa-para-crear-codigo-y-proyectos-reproducibles/</guid>
+      <description>Está aquí y creo que no se le puede quitar ni poner una coma. Es particularmente oportuna porque trata todas esas cosas que nunca se enseñan y que la mucha gente, en el peor de los casos, malaprende.</description>
+    </item>
+    
+    <item>
+      <title>BLAS, eficiencia y lme4</title>
+      <link>/2019/10/02/blas-eficiencia-y-lme4/</link>
+      <pubDate>Wed, 02 Oct 2019 09:13:30 +0000</pubDate>
+      
+      <guid>/2019/10/02/blas-eficiencia-y-lme4/</guid>
+      <description>Cada cierto número de años me reencuentro con la cuestión de BLAS, ATLAS y todas esas cosas por tratar de arañar un poco de eficiencia a R.
+Existen el BLAS de toda la vida que, parece ser, viene de serie con R y uno puede optar por otras versiones optimizadas como ATLAS u OpenBLAS, cuyas ventajas relativas, de acuerdo con estos benchmarks, no parecen demasiado claras.
+Lo novedoso en esta revisita al problema es que he aprendido que a los anteriores se han sumado en estos últimos años, cuando menos:</description>
+    </item>
+    
+    <item>
+      <title>Factorización matricial con nulos</title>
+      <link>/2019/09/19/factorizacion-matricial-con-nulos/</link>
+      <pubDate>Thu, 19 Sep 2019 09:13:55 +0000</pubDate>
+      
+      <guid>/2019/09/19/factorizacion-matricial-con-nulos/</guid>
+      <description>In illo tempore me llamaba mucho la atención encontrar métodos de ciencia de datos basados en factorización de matrices cuando la matriz a factorizar tenía nulos. Ocurre, por ejemplo, en sistemas de recomendación (cuando un usuario no ha visto o no nos ha dicho si le gusta determinada película).
+Y claro, con un nulo en la cosa, te comes los apuntes de álgebra lineal con papas.
+¿Cómo se hace? Si buscas $latex U$ y $latex V$ tales que $latex Y = UV^\prime$:</description>
+    </item>
+    
+    <item>
+      <title>Sobre mi nueva infraestructura de backups</title>
+      <link>/2019/09/11/sobre-mi-nueva-infraestructura-de-backups/</link>
+      <pubDate>Wed, 11 Sep 2019 09:13:29 +0000</pubDate>
+      
+      <guid>/2019/09/11/sobre-mi-nueva-infraestructura-de-backups/</guid>
+      <description>Tengo dos ordenadores, tiramisu y ede. Uno va conmigo y el otro me espera en casa.
+Hasta hace 4 días, usaba OwnCloud para mantenerlos sincronizados y, de paso, gestionar mis backups: siempre tenía tres copias de mis datos en tres sitios distintos (mis dos ordenadores y un VPS). Pero:
+ Alquilar un disco duro en la nube no es tan barato. * OwnCloud es un coñazo: hay que actualizarlo cada que se te olvida cómo.</description>
+    </item>
+    
+    <item>
+      <title>Mi infraestructura para Python</title>
+      <link>/2019/06/06/mi-infraestructura-para-python/</link>
+      <pubDate>Thu, 06 Jun 2019 09:13:52 +0000</pubDate>
+      
+      <guid>/2019/06/06/mi-infraestructura-para-python/</guid>
+      <description>Resumen:
+ He decidido usar RStudio como IDE para Python. RStudio no es el mejor IDE para desarrollar, pero es incomparablemente mejor que cualquier otro IDE para explorar, etc. Funciona muy bien y solo puede mejorar. * He decidido pasar de Jupyter. Los notebooks valen para lo que valen, pero no para lo que hago. En caso de necesidad, uso Rmarkdown con bloques de Python. De nuevo, funcionan muy bien y solo pueden mejorar.</description>
+    </item>
+    
+    <item>
+      <title>Demasiada gente conozco que todavía no sabe de GPT-2</title>
+      <link>/2019/04/08/demasiada-gente-conozco-que-todavia-no-sabe-de-gpt-2/</link>
+      <pubDate>Mon, 08 Apr 2019 09:13:10 +0000</pubDate>
+      
+      <guid>/2019/04/08/demasiada-gente-conozco-que-todavia-no-sabe-de-gpt-2/</guid>
+      <description>Así que si eres uno de ellos, lee esto. Todo. Completo. Incluidos los motivos por los que no se va a liberar tal cual.
+Si te quedas con ganas de más, lee esto (un divertimento) o, más en serio, esto otro, donde se da cuenta de uno de los logros de GPT-2 que, a primera vista, pasa desapercibido: que ha logrado adquirir determinadas habilidades sin haber sido entrenado específicamente para ello.</description>
+    </item>
+    
+    <item>
+      <title>¿Irán por aquí los tiros en el futuro de la &#34;ciencia de datos&#34;?</title>
+      <link>/2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/</link>
+      <pubDate>Mon, 01 Apr 2019 09:13:27 +0000</pubDate>
+      
+      <guid>/2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/</guid>
+      <description>Para muchos, el futuro de la llamada ciencia de datos seguirá la estela dejada por
+y sus continuadores usando cosas deep. Pero a la vez, sin tanto estruendo y con una mucho menor cobertura mediática, otros están trazando una ruta alternativa que ilustran artículos como Bayes and Big Data: The Consensus Monte Carlo Algorithm (atención todos a lo que hace uno de sus coautores, Steven L. Scott, que convierte en oro todo lo que toca).</description>
+    </item>
+    
+    <item>
+      <title>Todo lo que deberías saber sobre encodings</title>
+      <link>/2019/02/20/todo-lo-que-deberias-saber-sobre-encodings/</link>
+      <pubDate>Wed, 20 Feb 2019 08:13:56 +0000</pubDate>
+      
+      <guid>/2019/02/20/todo-lo-que-deberias-saber-sobre-encodings/</guid>
+      <description>¿Por qué (casi) nadie sabe sobre encodings? ¿Por qué (casi) nadie ha leído What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text?</description>
+    </item>
+    
+    <item>
+      <title>Cadenas de Markov para generar trayectorias posibles de huracanes</title>
+      <link>/2019/01/09/cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes/</link>
+      <pubDate>Wed, 09 Jan 2019 08:13:57 +0000</pubDate>
+      
+      <guid>/2019/01/09/cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes/</guid>
+      <description>Supongo que todo el mundo estará enterado de lo que hizo Shannon en 1948: generar texto automático usando cadenas de Markov (el que no, que mire esto).
+El que no, que eche un vistazo a esto otro para ver cómo una extensión de la idea original permite simular posibles trayectorias de huracanes.</description>
+    </item>
+    
+    <item>
+      <title>Extingámonos con dignidad: generaciones actuales y futuras, no incurramos en los errores de las anteriores</title>
+      <link>/2018/10/08/extingamonos-con-dignidad-generaciones-actuales-y-futuras-no-incurramos-en-los-errores-de-las-anteriores/</link>
+      <pubDate>Mon, 08 Oct 2018 08:13:43 +0000</pubDate>
+      
+      <guid>/2018/10/08/extingamonos-con-dignidad-generaciones-actuales-y-futuras-no-incurramos-en-los-errores-de-las-anteriores/</guid>
+      <description>Participé el otro día en una cena con gente friqui. Constaté con cierto desasosiego cómo han virado los sujetos pasivos de nuestra indignación profesional a lo largo de los años.
+Antaño, fueron los viejos que seguían apegados a la paleoinformática. Hogaño, los primíparos que usan Python y desdeñan R.
+Tengo sentimientos encontrados y no sé qué más añadir.</description>
+    </item>
+    
+    <item>
+      <title>Windows Subsystem for Linux</title>
+      <link>/2018/03/14/windows-subsystem-for-linux/</link>
+      <pubDate>Wed, 14 Mar 2018 08:13:30 +0000</pubDate>
+      
+      <guid>/2018/03/14/windows-subsystem-for-linux/</guid>
+      <description>Igual todo el mundo conoce ya WSL. Pero por si acaso queda entre la audiencia algún otro despistado, pues, eso: que existe en Windows 10 (¿solo?) un subsistema Linux que permite correr comandos de consola, instalar paquetes (p.e., con apt-get), etc. Incluso R. Me queda solo la duda del entorno gráfico, sobre el que no he visto nada.
+En su día, Windows fue un programa de MS-DOS que arrancaba al escribir win en la consola.</description>
+    </item>
+    
+    <item>
+      <title>Efectos secundarios (nota: que existan no significa que debas usarlos)</title>
+      <link>/2017/10/10/efectos-secundarios-nota-que-existan-no-significa-que-debas-usarlos/</link>
+      <pubDate>Tue, 10 Oct 2017 08:13:11 +0000</pubDate>
+      
+      <guid>/2017/10/10/efectos-secundarios-nota-que-existan-no-significa-que-debas-usarlos/</guid>
+      <description>Una función no debería cambiar nada de cuanto la rodea. Debería devolver algo y ya. Se acepta barco como animal acuático cuando hay funciones que escriben en logs, guardan datos en disco o crean gráficos.
+R deja que los usuarios se disparen en el pie permitiendo hacer cosas tan peligrosas como:
+a &amp;lt;- new.env() a$1 # error foo &amp;lt;- function(){ a$a &amp;lt;- 1 } foo() a$a # [1] 1  De la misma manera, si le enseñas un cuchillo a una vieja, es posible que te dé su bolso con todo lo que contiene.</description>
+    </item>
+    
+    <item>
+      <title>Todo lo que sucede en R es una llamada a una función</title>
+      <link>/2017/03/16/todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion/</link>
+      <pubDate>Thu, 16 Mar 2017 15:44:30 +0000</pubDate>
+      
+      <guid>/2017/03/16/todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion/</guid>
+      <description>En serio, es así. ¿También if? Pues también. De hecho,
+`if`(1 == 3, print(&amp;quot;a&amp;quot;), print(&amp;quot;b&amp;quot;))  Y eso permite, por ejemplo, que funcionen expresiones tales como
+a &amp;lt;- if (1 == 3) 4 else 5  tan útiles como poco empleadas en general. También son funciones (, { y otras que aparecen en la sección .Internal vs .Primitive del documento R Internals.</description>
+    </item>
+    
+    <item>
+      <title>Una fina, tenue, somera capa de sintaxis</title>
+      <link>/2016/11/15/una-fina-tenue-somera-capa-de-sintaxis/</link>
+      <pubDate>Tue, 15 Nov 2016 08:13:18 +0000</pubDate>
+      
+      <guid>/2016/11/15/una-fina-tenue-somera-capa-de-sintaxis/</guid>
+      <description>Estuve el otro día en una charla de José Luis Cañadas en el grupo de usuarios de R de Madrid sobre sparklyr. Hoy en otra de Juan Luis Rivero sobre, esencialmente, lo mismo, pero esta vez con Python. Y podría escribir &amp;ldquo;etc.&amp;rdquo;.
+Me centraré en la de José Luis, aunque podría decir lo mismo de cualquiera de las otras. No había trabajado con sparklyr. No soy siquiera fan de dplyr (aunque no es que no se lo recomiende a otros; es simplemente, como tantas cosas, que soluciona problemas que no tengo).</description>
+    </item>
+    
+    <item>
+      <title>Un curso de 15 horas de introducción a la programación</title>
+      <link>/2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/</link>
+      <pubDate>Mon, 19 Sep 2016 08:13:31 +0000</pubDate>
+      
+      <guid>/2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/</guid>
+      <description>Hoy comienzo a enseñar un curso de introducción a la programación para recién graduados que comenzarán un máster de matemáticas aplicadas con incursiones en la llamada ciencia de datos. Serán 4 sesiones con el siguiente contenido:
+ * Sesión 1, programación imperativa: variables, condicionales y bucles. * Sesión 2, programación orientada a objetos. * Sesión 3, colecciones: listas, tuplas, conjuntos, diccionarios, etc. * Sesión 4, programación funcional: _map_, _reduce_, _fold_, _foldLeft_, _scan_, _filter_, etc.</description>
+    </item>
+    
+    <item>
+      <title>R es un vago</title>
+      <link>/2016/06/27/r-es-un-vago/</link>
+      <pubDate>Mon, 27 Jun 2016 08:13:56 +0000</pubDate>
+      
+      <guid>/2016/06/27/r-es-un-vago/</guid>
+      <description>Si creo la función
+foo &amp;lt;- function(a,b) a*a + b  y la llamo mediante
+foo(1 + 1,3)  pueden ocurrir dos cosas: o bien que R precalcule 1+1 y la función ejecute 2 * 2 + 3 o bien que la función ejecute directamente (1+1)*(1+1)+3. Pero, ¿qué es lo que hace realmente? Si escribimos
+f1 &amp;lt;- function(x){ print(&amp;quot;Soy f1&amp;quot;) x } f2 &amp;lt;- function(x){ print(&amp;quot;Soy f2&amp;quot;) x } foo(f1(2), f2(3))  obtenemos</description>
+    </item>
+    
+    <item>
+      <title>Metropolis-Hastings en Scala</title>
+      <link>/2016/06/16/metropolis-hastings-en-scala/</link>
+      <pubDate>Thu, 16 Jun 2016 08:13:08 +0000</pubDate>
+      
+      <guid>/2016/06/16/metropolis-hastings-en-scala/</guid>
+      <description>Tengo la sensación de que un lenguaje funcional (como Scala) está particularmente bien adaptado al tipo de operaciones que exige MCMC.
+Juzguen Vds.
+Primero, genero datos en R:
+datos &amp;lt;- rnorm(500, 0.7, 1) writeLines(as.character(datos), &amp;quot;/tmp/datos.txt&amp;quot;)  Son de una normal con media 0.7. En el modelo que vamos a crear, suponemos conocida (e igual a 1) la varianza de la normal y trataremos de estimar la media suponiéndole una distribución a priori normal estándar.</description>
+    </item>
+    
+    <item>
+      <title>R sobre el EC2 de Amazon hace casi siete años: una concesión a la melancolía</title>
+      <link>/2016/06/03/r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia/</link>
+      <pubDate>Fri, 03 Jun 2016 08:13:16 +0000</pubDate>
+      
+      <guid>/2016/06/03/r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia/</guid>
+      <description>Corría el año 2009 cuando comencé mi segunda aventura bloguera (nadie, yo incluido, quiere rememorar la segunda) cuando Raúl Vaquerizo tuvo la caridad de aceptarme como colaborador en Análisis y Decisión.
+En diciembre de aquel año escribí cómo utilizar R en una cosa que entonces comenzaba a sonar: la nube y, en concreto, el servicio EC2 de Amazon.
+El resultado, probablemente totalmente desfasado, fue este.
+Material de hemeroteca, alimento de melancolías.</description>
+    </item>
+    
+    <item>
+      <title>Rmd2R: un conversor de lo que su propio nombre indica</title>
+      <link>/2016/05/25/rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica/</link>
+      <pubDate>Wed, 25 May 2016 08:13:07 +0000</pubDate>
+      
+      <guid>/2016/05/25/rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica/</guid>
+      <description>Mis clases de/con R suelen consistir en un guión que es un programa en R con muchos comentarios y ejercicios. Con el tiempo, estos últimos tienden a crecer hasta el punto de que se convierte casi en un fichero de texto comentado con aspersión —en su acepción no-DRAE de efecto— de líneas de código.
+Mejor, me he dicho recientemente, usar Rmarkdown.
+Pero Rmarkdown sirve para lo que sirve: como fuente para compilar ficheros pensados para ser leídos por seres humanos.</description>
+    </item>
+    
+    <item>
+      <title>¿Tanto ha llovido (en términos de precisión numérica) desde 2008?</title>
+      <link>/2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/</link>
+      <pubDate>Tue, 24 May 2016 08:13:42 +0000</pubDate>
+      
+      <guid>/2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/</guid>
+      <description>Acabo de ejecutar
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) x &amp;lt;- runif(1e6) x.shift &amp;lt;- 1e9 + x sd(x) sd(x.shift) sqrt(sum((x - mean(x))^2) / (length(x - 1))) sqrt(sum((x.shift - mean(x.shift))^2) / (length(x - 1))) sd.sum.squares &amp;lt;- function(x){ n &amp;lt;- length(x) suma &amp;lt;- sum(x) suma.cuadrados &amp;lt;- sum(x^2) sqrt((n * suma.cuadrados - suma^2) / (n * (n-1))) } sd.sum.squares(x) sd.sum.squares(x.shift)  inspirado por esto y me pregunto: ¿tanto ha llovido en términos de precisión numérica desde 2008?</description>
+    </item>
+    
+    <item>
+      <title>Tengo ordenador nuevo con 64GB de RAM (más unas preguntas)</title>
+      <link>/2016/05/23/tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas/</link>
+      <pubDate>Mon, 23 May 2016 08:13:37 +0000</pubDate>
+      
+      <guid>/2016/05/23/tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas/</guid>
+      <description>Sí, mi viejo ordenador había cumplido 6 años y comenzaba a quedarse corto. La puntilla fueron problemas de compatibilidad de la tarjeta gráfica con el nuevo Xubuntu (más precisamente, con los nuevos núcleos de Linux que trae). Así que lo que hace no tanto habría parecido ciencia ficción, es ahora realidad bajo mi mesa: 64GB de RAM para mí solo. Y eso que no me he querido gastar dinero; además que, como autónomo y siendo la nueva máquina herramienta de trabajo, viene a salirme como en la mitad que a un civil.</description>
+    </item>
+    
+    <item>
+      <title>Melt y cast en Spark con scala</title>
+      <link>/2016/05/17/melt-y-cast-en-spark-con-scala/</link>
+      <pubDate>Tue, 17 May 2016 08:13:04 +0000</pubDate>
+      
+      <guid>/2016/05/17/melt-y-cast-en-spark-con-scala/</guid>
+      <description>Trabajar con Spark usando Scala implica renunciar a ese paraíso que son las funciones melt y (d)cast de reshape2.
+¿O no?
+&amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;StructField; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;StructType; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;StringType; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;DoubleType; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;Row; &amp;lt;span style=&amp;quot;color:#af82d4&amp;quot;&amp;gt;/** Create some data **/ &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;val nrows = &amp;lt;span style=&amp;quot;color:#a8017e&amp;quot;&amp;gt;20 &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;val origDF = sc.</description>
+    </item>
+    
+    <item>
+      <title>En una API de cuyo endpoint no quiero acordarme...</title>
+      <link>/2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/</link>
+      <pubDate>Fri, 22 Apr 2016 09:13:16 +0000</pubDate>
+      
+      <guid>/2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/</guid>
+      <description>&amp;hellip; rigen los siguientes términos de servicio (que traduzco, porque el original vienen en inglés):
+Supongo que ese es el fin de la historia: estoy expulsado de ella, salvo que retuerza el hilo de la casuística, relaje el perímetro de las acepciones y me considere afiliado a alguna de las instituciones educativas donde imparto alguna clase; y justifique, claro está, que no tienen ánimo de lucro.
+Pero me percato que el servicio está financiado por un proyecto de investigación europeo.</description>
+    </item>
+    
+    <item>
+      <title>Túneles ssh para conectarse de manera segura con RStudio Server</title>
+      <link>/2016/04/04/tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server/</link>
+      <pubDate>Mon, 04 Apr 2016 09:13:39 +0000</pubDate>
+      
+      <guid>/2016/04/04/tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server/</guid>
+      <description>La solución que presenté el otro día para resolver el problema en cuestión, tal como indicó Iñaki Úcar, es demasiado aparatosa. La alternativa a mi propuesta
+ssh -ND 2001 miusuario@datanalytics.com
+y todo lo que sigue es crear un túnel ssh mediante
+ssh -NL 2001:localhost:8787 miusuario@datanalytics.com
+y conectarse a la sesión remota de RStudio apuntando en cualquier navegador a http://localhost:2001.
+El comando anterior exige la debida exégesis, que nunca había tenido del todo clara.</description>
+    </item>
+    
+    <item>
+      <title>Redirección dinámica de puertos para conectarse de manera segura con RStudio Server</title>
+      <link>/2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/</link>
+      <pubDate>Fri, 01 Apr 2016 09:13:32 +0000</pubDate>
+      
+      <guid>/2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/</guid>
+      <description>Finalmente, instalé RStudio Server en la máquina que está sirviéndote esta página. Pero no dejo abierto el puerto 8787 al exterior ni jarto de vino.
+(De hecho, veréis que desde hace un tiempo a este blog escucha en el puerto 443 y, aunque esa es otra historia, utiliza HTTP/2).
+Así que lo he configurado para que solo se pueda acceder a él desde localhost, i.e., que no admita conexiones remotas, añadiendo la línea</description>
+    </item>
+    
+    <item>
+      <title>Lenguajes de programación probabilísticos</title>
+      <link>/2016/03/09/lenguajes-de-programacion-probabilisticos/</link>
+      <pubDate>Wed, 09 Mar 2016 09:13:09 +0000</pubDate>
+      
+      <guid>/2016/03/09/lenguajes-de-programacion-probabilisticos/</guid>
+      <description>Son lenguajes de programación diseñados para describir odelos probabilísticos y realizar inferencias sobre dichos modelos.
+El resto de la entrada de la Wikipedia sobre este apasionante (y lo uso sin retintín) tema, aquí (y puede que también quieras visitar esto).</description>
+    </item>
+    
+    <item>
+      <title>PyData Madrid 2016, en abril de este año</title>
+      <link>/2016/01/28/pydata-madrid-2016-en-abril-de-este-ano/</link>
+      <pubDate>Thu, 28 Jan 2016 09:13:28 +0000</pubDate>
+      
+      <guid>/2016/01/28/pydata-madrid-2016-en-abril-de-este-ano/</guid>
+      <description>Me llegan noticias de PyData Madrid 2016, que tendrá lugar en abril de este año en Madrid:
+Como son conferencias hechas por desarrolladores y usuarios y para desarrolladores y usuarios el ambiente es muy informal y más enfocado a los científicos que a las empresas y venta de producto. Por eso nos encantan y por eso nos metemos en estos embolados.
+Al final, hemos de ser políglotas y usar todas las fortalezas de nuestros lenguajes preferidos.</description>
+    </item>
+    
+    <item>
+      <title>agate: análisis de datos optimizado para humanos (y no para máquinas)</title>
+      <link>/2015/11/17/agate-analisis-de-datos-optimizado-para-humanos-y-no-para-maquinas/</link>
+      <pubDate>Tue, 17 Nov 2015 08:13:11 +0000</pubDate>
+      
+      <guid>/2015/11/17/agate-analisis-de-datos-optimizado-para-humanos-y-no-para-maquinas/</guid>
+      <description>Una de las cosas que menos me canso de repetir es que R no es (solo) un lenguaje de programación. R es un entorno para el análisis de datos. Los informáticos se horrorizan con él: no entienden por qué es como es. Pero, fundamentalmente, su problema es que no conciben que pueda haber sido diseñado para el REPL y no (solamente) para crear programas.
+Casi todo el tiempo que paso con R abierto lo consumo trabajando interactivamente, no programando.</description>
+    </item>
+    
+    <item>
+      <title>Unix para poetas</title>
+      <link>/2015/10/07/unix-para-poetas/</link>
+      <pubDate>Wed, 07 Oct 2015 08:13:01 +0000</pubDate>
+      
+      <guid>/2015/10/07/unix-para-poetas/</guid>
+      <description>Existe una breve obrita, Unix for Poets, que utiliza el análisis cuantitativo de texto como excusa para aprender a manejar una serie de comandos inexcusables de Unix y sus derivados: wc, grep, etc.
+Se la recomiendo particularmente a aquellos que se compraron una Mac y no saben que cuentan con una terminal decente oculta en alguna parte de su sistema (en serio, los hay: el otro día se la descubrí a una maquera).</description>
+    </item>
+    
+    <item>
+      <title>Spam 2.0 (increíblemente bien hecho)</title>
+      <link>/2015/10/06/spam-2-0-increiblemente-bien-hecho/</link>
+      <pubDate>Tue, 06 Oct 2015 08:13:50 +0000</pubDate>
+      
+      <guid>/2015/10/06/spam-2-0-increiblemente-bien-hecho/</guid>
+      <description>Recibí recientemente este correo (con los enlaces que aparecen en él; solo he eliminado el apellido de la remitente):
+Hi Carlos,
+I was doing some research for our students here at Udemy on people using Scala resources and when I came across your site, saw you were using the tutorial from Wikipedia.
+We really like that resource, and actually created our own that we think is a perfect supplement! This Scala tutorial is text-and image based, easy to search for quick answers, and super helpful for anyone: as a base for learning or as a reference guide.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo contar el número de elementos distintos de una lista?</title>
+      <link>/2015/09/23/como-contar-el-numero-de-elementos-distintos-de-una-lista/</link>
+      <pubDate>Wed, 23 Sep 2015 08:13:47 +0000</pubDate>
+      
+      <guid>/2015/09/23/como-contar-el-numero-de-elementos-distintos-de-una-lista/</guid>
+      <description>El problema es sencillo: se cuentan y ya.
+Pero hay quienes tienen cantidades ingentes de elementos que contar. Tantos que por razones de memoria, etc., es inviable hacer lo obvio, es decir, guardar una lista de claves (elementos distintos) y valores (el número de ocurrencias) sumando uno a los últimos cada vez que ocurra una de las primeras.
+Por ese motivo, existen algoritmos que aproximan el número de elementos distintos de una lista.</description>
+    </item>
+    
+    <item>
+      <title>APIdays Mediterranea vuelve a Barcelona (la semana que viene)</title>
+      <link>/2015/04/30/apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene/</link>
+      <pubDate>Thu, 30 Apr 2015 08:13:10 +0000</pubDate>
+      
+      <guid>/2015/04/30/apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene/</guid>
+      <description>Los que estéis por allí o tengáis la posibilidad de acudir, sabed: la semana que viene (5, 6 y 7 de mayo de 2015) se celebra una nueva edición de APIdays Mediterránea en Barcelona.
+
+Quienes tengáis pensado acudir, podéis beneficiaros de un 30% de descuento si os registráis desde este enlace.
+Participé en la edición de 2013 en Madrid y me duele no poder asistir este año. Entre otras cosas, por esto.</description>
+    </item>
+    
+    <item>
+      <title>Restauración de ficheros .bak sin Windows</title>
+      <link>/2015/04/10/restauracion-de-ficheros-bak-sin-windows/</link>
+      <pubDate>Fri, 10 Apr 2015 08:13:51 +0000</pubDate>
+      
+      <guid>/2015/04/10/restauracion-de-ficheros-bak-sin-windows/</guid>
+      <description>Tengo un fichero .bak. Un fichero .bak (el mío, al menos) es una copia de seguridad de SQL Server y no hay forma humana de acceder a sus contenidos sin otro SQL Server (que yo sepa). No me preguntéis de dónde lo he sacado. La cuestión es que contiene datos que tengo que leer.
+Requisito imprescindible para tener un SQL Server es disponer de una máquina con Windows. Pero yo no tengo ninguna.</description>
+    </item>
+    
+    <item>
+      <title>TelegRam[.]me!</title>
+      <link>/2015/04/07/telegram-me/</link>
+      <pubDate>Tue, 07 Apr 2015 08:13:09 +0000</pubDate>
+      
+      <guid>/2015/04/07/telegram-me/</guid>
+      <description>Telegram es un sistema de mensajería por internet similar a Whatsapp, aunque con algunas diferencias notables:
+ * No es de Facebook * Una vez tienes una cuenta, puedes usarla desde distintos dispositivos (Linux incluido) * Tiene menos usuarios * Es programable  De lo último es ilustración esta &amp;ldquo;conversación&amp;rdquo; que tuve con la cuenta @TeleR:
+
+Los detalles, aquí. Y el crédito, para Rubén Tobalina.</description>
+    </item>
+    
+    <item>
+      <title>Hoy es el día mundial de la copia de seguridad</title>
+      <link>/2015/03/31/hoy-es-el-dia-mundial-de-la-copia-de-seguridad/</link>
+      <pubDate>Tue, 31 Mar 2015 08:13:45 +0000</pubDate>
+      
+      <guid>/2015/03/31/hoy-es-el-dia-mundial-de-la-copia-de-seguridad/</guid>
+      <description>Así que ya sabéis qué tenéis que hacer.
+Nota: el día mundial de la copia de seguridad es una iniciativa independiente (de, entre otros, fabricantes de discos duros). No forma parte de la lista oficial de días mundiales. Pero es infinitamente más importante y menos chorra que la mayor parte de ellos.</description>
+    </item>
+    
+    <item>
+      <title>Y todo ocurre en un abrir y cerrar de ojos</title>
+      <link>/2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/</link>
+      <pubDate>Fri, 27 Mar 2015 08:13:33 +0000</pubDate>
+      
+      <guid>/2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/</guid>
+      <description>Abres una aplicación en tu móvil que diseñó un programador búlgaro. Ipso facto aparece un insidioso banner de, p.e., Jazztel. ¿Cuáles son los mecanismos que ponen en contacto al búlgaro con Jazztel? ¿De qué manera recibe aquél una compensación de esta?
+Tradicionalmente, el desarrollador habría hablado con, p.e., Google. Le habría dicho: yo voy a generar &amp;ldquo;espacios&amp;rdquo; donde tú vas a poder colgar propaganda a cambio de una cantidad (fija o variable).</description>
+    </item>
+    
+    <item>
+      <title>evtree: árboles globales</title>
+      <link>/2015/01/12/evtree-arboles-globales/</link>
+      <pubDate>Mon, 12 Jan 2015 07:13:44 +0000</pubDate>
+      
+      <guid>/2015/01/12/evtree-arboles-globales/</guid>
+      <description>Tengo por delante otro proyecto que tiene mucho de análisis exploratorio de datos. Sospecho que más de un árbol construiré. Los árboles son como la Wikipedia: prácticamente nunca el último pero casi siempre el primer recurso.
+Esta vez, además, por entretenerme un poco, probaré el paquete [evtree](http://cran.r-project.org/web/packages/evtree/index.html). Aunque no porque espere sorprendentes mejoras con respecto a los tradicionales, ctree y rpart.
+¿Qué tiene aquél que los diferencie de los otros dos?</description>
+    </item>
+    
+    <item>
+      <title>Paralelización en R con snow</title>
+      <link>/2014/12/03/paralelizacion-en-r-con-snow/</link>
+      <pubDate>Wed, 03 Dec 2014 07:13:13 +0000</pubDate>
+      
+      <guid>/2014/12/03/paralelizacion-en-r-con-snow/</guid>
+      <description>Suelo trabajar un servidor con ocho CPUs. Cuando quiero paralelizar código en R, suelo utilizar [parallel::mclapply](https://stat.ethz.ch/R-manual/R-devel/library/parallel/html/mclapply.html) (como aquí). Pero no tengo una máquina. Tengo varias. Y antes, de hecho, muchas.
+¿Cómo paralelizar en distintas máquinas?
+Se puede usar Spark (y SparkR), por ejemplo. Pero una ruta que no había ensayado jamás es la de la vieja escuela, i.e., MPI, snow y demás.
+Pero si
+ * tienes varios servidores corriendo un sistema operativo decente, * instalas R y `snow` (y todo lo que necesites) en todos ellos y * configuras los servidores para poder acceder a través de [ssh sin contraseña](http://www.</description>
+    </item>
+    
+    <item>
+      <title>Spark gana la competición Gray Sort de 2014</title>
+      <link>/2014/11/20/spark-gana-la-competicion-gray-sort-de-2014/</link>
+      <pubDate>Thu, 20 Nov 2014 07:13:12 +0000</pubDate>
+      
+      <guid>/2014/11/20/spark-gana-la-competicion-gray-sort-de-2014/</guid>
+      <description>Esta de hoy es una entrada muy friqui que se sirve de la casi excusa de que los creadores de Apache Spark han ganado la competición Gray Sort de 2014 para recomendar a sus lectores a estar alerta a las novedades que llegan.
+
+Todavía colea el siglo XX y todavía pagan dinero por cosas que algún día consideraremos tan entrañables como el ZX Spectrum de 48kB tales como:
+ * Colorear casillas en Excel.</description>
+    </item>
+    
+    <item>
+      <title>Componentes conexas (de grafos) en Spark</title>
+      <link>/2014/09/15/componentes-conexas-de-grafos-en-spark/</link>
+      <pubDate>Mon, 15 Sep 2014 07:13:46 +0000</pubDate>
+      
+      <guid>/2014/09/15/componentes-conexas-de-grafos-en-spark/</guid>
+      <description>Uno de mis últimos pet projects tiene que ver con el análisis de las componentes conexas de unos grafos muy grandes. Como aquí pero con datos de un tamaño muchos órdenes de magnitud mayores. Usando Spark, claro. Y ya que lo cito, aprovecho la ocasión para regalar un consejo a mis lectores más jóvenes: no esperéis a los cuarenta para aprender Scala y Spark.
+Voy a limitarme a copiar el código para referencia mía y de otros.</description>
+    </item>
+    
+    <item>
+      <title>Mascotas y rebaños</title>
+      <link>/2014/08/15/mascotas-y-rebanos/</link>
+      <pubDate>Fri, 15 Aug 2014 07:13:22 +0000</pubDate>
+      
+      <guid>/2014/08/15/mascotas-y-rebanos/</guid>
+      <description>Muchos cuidamos de nuestro ordenador casi como una mascota: le ponemos un nombre (a menudo escribo desde tiramisu), le hacemos algo de mantenimiento, etc. Hay quienes, incluso, decoran sus máquinas con pegatinas.
+Pero llega un momento en que hay que comenzar a tratar a las máquinas no tanto como mascotas sino como rebaños. Desde una pantalla aneja a esta en la que escribo estoy manejando un clúster de más de 200 GB y 50 núcleos distribuido en varias máquinas que ni sé dónde están.</description>
+    </item>
+    
+    <item>
+      <title>En serio con Spark: instalación</title>
+      <link>/2014/07/18/en-serio-con-spark-instalacion/</link>
+      <pubDate>Fri, 18 Jul 2014 07:13:59 +0000</pubDate>
+      
+      <guid>/2014/07/18/en-serio-con-spark-instalacion/</guid>
+      <description>Me he puesto en modo estoy serio con Spark. Lo instalé en mi ya manida máquina virtual (voy a subir una nueva versión de ella pronto), pero hoy la voy a instalar en mi portátil. Y con la idea de, en los próximos días, montar un clúster en condiciones.
+Los pasos son los siguientes:
+ 1. Ir a la [página de descargas](http://spark.apache.org/downloads.html) y seleccionar una versión ya precompilada. Hay varias porque Spark se enlaza con librerías relacionadas con Hadoop (aunque uno puede utilizar Spark perfectamente sin él) y hay varias versiones mutuamente incompatibles de Hadoop.</description>
+    </item>
+    
+    <item>
+      <title>Dos descomposiciones positivas de tablas de contingencia</title>
+      <link>/2014/07/16/dos-descomposiciones-positivas-de-tablas-de-contingencia/</link>
+      <pubDate>Wed, 16 Jul 2014 07:13:13 +0000</pubDate>
+      
+      <guid>/2014/07/16/dos-descomposiciones-positivas-de-tablas-de-contingencia/</guid>
+      <description>Voy a seguir poco a poco con este tema mío tan recurrente de las factorizaciones (aproximadas) positivas de matrices (también positivas). No escribo más porque, como casi todo lo que llamamos trabajo es, simplemente ruido, las cosas que llevan a otras nunca pasan por el asunto en cuestión.
+Pero hay dos descomposiciones positivas de matrices positivas bien conocidas de todos. La primera es esta: $latex X=IX$, donde $latex X$ es una matriz de dimensión nxm e $latex I$ es la cosa más parecida a la matriz identidad de dicha dimensión.</description>
+    </item>
+    
+    <item>
+      <title>Estrategias escalables (con R)</title>
+      <link>/2014/07/09/estrategias-escalables-con-r/</link>
+      <pubDate>Wed, 09 Jul 2014 07:13:41 +0000</pubDate>
+      
+      <guid>/2014/07/09/estrategias-escalables-con-r/</guid>
+      <description>Hay quienes preguntan cómo cargar con R un csv de 8GB en un portátil de 4GB de RAM. La verdad, he leído respuestas la mar de extravagantes a este tipo de cuestiones: p.e., recomendar SQLite.
+Yo recomendaría Scalable Strategies for Computing with Massive Data. Entre otras cosas, porque para eso lo escribieron sus autores: para que se lea. Y porque está cargado de razón y buenos consejos.
+Una cosa con la que tropezará enseguida quien lo hojee es:</description>
+    </item>
+    
+    <item>
+      <title>Vectorización en R: un contraejemplo</title>
+      <link>/2014/07/04/vectorizacion-en-r-un-contraejemplo/</link>
+      <pubDate>Fri, 04 Jul 2014 07:13:15 +0000</pubDate>
+      
+      <guid>/2014/07/04/vectorizacion-en-r-un-contraejemplo/</guid>
+      <description>No hay regla sin excepción, dicen. Para la recomendación casi única para quienes se quejan de la lentitud de R, es decir, ¡vectoriza!, he encontrado hoy una.
+Sí, el artículo deja R por los suelos. En el fondo, no tanto, porque viene a decir que R es malo para lo que la documentación de R dice que es malo: véase cómo en Writing R Extensions nos advierten que la convolución is hard to do fast in interpreted R code, but easy in C code.</description>
+    </item>
+    
+    <item>
+      <title>APIDays Mediterránea: reunión de los forofos de las APIs de Madrid</title>
+      <link>/2014/06/26/apidays-mediterranea-reunion-de-los-forofos-de-las-apis-de-madrid/</link>
+      <pubDate>Thu, 26 Jun 2014 07:00:22 +0000</pubDate>
+      
+      <guid>/2014/06/26/apidays-mediterranea-reunion-de-los-forofos-de-las-apis-de-madrid/</guid>
+      <description>Los forofos de las APIs de Madrid están de enhorabuena. El jueves 3 de julio tendrán ocasión de juntarse y celebrar un APIDays Mediterránea informal en MartinaCocina.
+
+El resto de la información para los interesados, aquí.</description>
+    </item>
+    
+    <item>
+      <title>Dos citas de 1983 sobre estadística y métodos computacionales</title>
+      <link>/2014/06/23/dos-citas-de-1983-sobre-estadistica-y-metodos-computacionales/</link>
+      <pubDate>Mon, 23 Jun 2014 07:27:45 +0000</pubDate>
+      
+      <guid>/2014/06/23/dos-citas-de-1983-sobre-estadistica-y-metodos-computacionales/</guid>
+      <description>Rescato aquí para mis lectores dos citas de un artículo de 1983, Computer Intensive Methods in Statistics, de Efron y Diaconis, por dos motivos: su valor intrínseco y que consideren leer el resto, particularmente el principio y el final.
+La primera es (con mi traducción):
+Y la segunda:
+Sin otros comentarios que los vuestros.</description>
+    </item>
+    
+    <item>
+      <title>Agrupación de grafos por topología</title>
+      <link>/2014/06/13/agrupacion-de-grafos-por-topologia/</link>
+      <pubDate>Fri, 13 Jun 2014 07:26:00 +0000</pubDate>
+      
+      <guid>/2014/06/13/agrupacion-de-grafos-por-topologia/</guid>
+      <description>Anuncio algo que no he conseguido hacer: agrupar grafos por topología. Pero no me he quedado lejos. Y espero que si alguien tiene alguna idea al respecto, nos lo haga saber al resto en la coda.
+Contexto (disfrazado). Hay usuarios que tienen correos electrónicos. La relación esperada es de uno a uno. Pero la realidad es, como siempre, mucho más compleja: hay usuarios que tienen varios correos y correos compartidos por varios usuarios.</description>
+    </item>
+    
+    <item>
+      <title>Hoy he echado de menos Scala</title>
+      <link>/2014/06/12/hoy-he-echado-de-menos-scala/</link>
+      <pubDate>Thu, 12 Jun 2014 07:00:56 +0000</pubDate>
+      
+      <guid>/2014/06/12/hoy-he-echado-de-menos-scala/</guid>
+      <description>Hoy he escrito
+last.date &amp;lt;- max(Filter(function(x) format(x, &amp;quot;%m&amp;quot;) == &amp;quot;03&amp;quot;, all.filled.data$Date))  y he echado mucho de menos Scala.
+Más sobre Scala:
+ * Si yo fuera rey, todos los niños aprenderían Scala. * Al tipo que inventó Scala le gustan tanto o más los [_oneliners_](http://es.wikipedia.org/wiki/Los_santos_inocentes_(novela)) que a mí. * Todavía me llevo mal con el compilador. * La gente viene a Suiza y aprende el alemán malhablado de aquí; yo, ya véis, Scala.</description>
+    </item>
+    
+    <item>
+      <title>Imágenes y magia</title>
+      <link>/2014/05/16/imagenes-y-magia/</link>
+      <pubDate>Fri, 16 May 2014 07:14:27 +0000</pubDate>
+      
+      <guid>/2014/05/16/imagenes-y-magia/</guid>
+      <description>No sé si imagen y magia comparten la misma raíz. Lo que me consta es que la gente que procesa imágenes hace algo que me parece casi mágico. De mayor quiero ser como ellos.
+Traigo aquí un ejemplo sobre técnicas para completar imágenes:
+
+El artículo completo, Scene Completion Using Millions of Photographs, y mucho material auxiliar puede revisarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>Grid, Scala y arbolitos fractales</title>
+      <link>/2014/05/12/grid-scala-y-arbolitos/</link>
+      <pubDate>Mon, 12 May 2014 07:39:06 +0000</pubDate>
+      
+      <guid>/2014/05/12/grid-scala-y-arbolitos/</guid>
+      <description>Inspirado por
+ * los arbolitos que he visto esta mañana en mi semivuelta al lago de Zúrich, * las cosas que estoy leyendo últimamente sobre el paquete grid de R (p.e., [_grid graphics_](http://stat.ethz.ch/R-manual/R-devel/library/grid/doc/grid.pdf), de Murrell) * mi curso de scala y * [este enlace](http://aschinchon.wordpress.com/2014/04/10/the-pythagorean-tree-is-in-bloom/)  me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurriría a un neoingeniero al que solo le han enseñado MatLab y que, por lo tanto, tiene vetado el acceso a cualquier tipo de empresa tecnológica puntera).</description>
+    </item>
+    
+    <item>
+      <title>Todo el mundo habla de cadenas de Markov</title>
+      <link>/2014/04/29/todo-el-mundo-habla-de-cadenas-de-markov/</link>
+      <pubDate>Tue, 29 Apr 2014 07:19:00 +0000</pubDate>
+      
+      <guid>/2014/04/29/todo-el-mundo-habla-de-cadenas-de-markov/</guid>
+      <description>Todo el mundo habla últimamente de cadenas de Markov. ¿No os habéis dado cuenta? ¿O seré yo el que saca a relucir el asunto venga o no al caso? Sea que se haya puesto de moda o que esté mi misma obsesión por el asunto sesgando mi impresión sobre sobre (me encanta escribir dos preposiciones seguidas) lo que la gente habla, es el caso que el otro día me comprometí a escribir sobre</description>
+    </item>
+    
+    <item>
+      <title>¿Cinco años y salen sin programar?</title>
+      <link>/2014/04/28/cinco-anos-y-salen-sin-programar/</link>
+      <pubDate>Mon, 28 Apr 2014 07:42:00 +0000</pubDate>
+      
+      <guid>/2014/04/28/cinco-anos-y-salen-sin-programar/</guid>
+      <description>Sí, hay gente que pasa cinco años en una de esas instituciones encopetadas que son las universidades y sale de ellas sin saber programar.
+Aquí va un ejemplo. Es un fragmento de un currículo que me ha llegado recientemente. El tipo es economista, graduado en uno de los departamentos de la materia más reconocidos de Madrid. Dice así:
+
+Eso es todo lo que el tipo reconoce saber sobre algo parecido a la programación.</description>
+    </item>
+    
+    <item>
+      <title>Colusión de anunciantes en perjuicio de navegantes</title>
+      <link>/2014/04/10/colusion-de-anunciantes-en-perjuicio-de-navegantes/</link>
+      <pubDate>Thu, 10 Apr 2014 07:35:33 +0000</pubDate>
+      
+      <guid>/2014/04/10/colusion-de-anunciantes-en-perjuicio-de-navegantes/</guid>
+      <description>O algo así. Aunque alguno puede pensar que no es en su perjuicio sino en su beneficio. A saber.
+Solo que con collusion (un plugin para el navegador) uno puede construir gráficos tales como
+
+que significa lo que su leyenda dice y que aquí traduzco brevemente. Uno instala en plugin y comienza a navegar por internet. Al hacerlo, collusion detecta esos sitios con los que las páginas que uno visita comparte información a través de galletitas y similares.</description>
+    </item>
+    
+    <item>
+      <title>El lenguaje de Wolfram (según Wolfram)</title>
+      <link>/2014/04/04/el-lenguaje-de-wolfram-segun-wolfram/</link>
+      <pubDate>Fri, 04 Apr 2014 07:45:34 +0000</pubDate>
+      
+      <guid>/2014/04/04/el-lenguaje-de-wolfram-segun-wolfram/</guid>
+      <description>En el siguiente vídeo Wolfram habla del lenguaje de Wolfram. Siento repetirme, pero quiero dejar claro que puede haber un sesgo. Porque como no lo haya, el Sr. Wolfram me va a tener como admirador (y puede que hasta como cliente).
+Mirad lo que cuenta:
+https://www.youtube.com/watch?v=_P9HqHVPeik
+¿Es o no casi increíble?</description>
+    </item>
+    
+    <item>
+      <title>Predictores con varianza casi nula, inflación, loterías y línea de comandos</title>
+      <link>/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/</link>
+      <pubDate>Fri, 28 Mar 2014 07:08:40 +0000</pubDate>
+      
+      <guid>/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/</guid>
+      <description>Hoy viernes vuelvo a traer a mis páginas cuatro enlaces interesantes. El primero de ellos es como las malas películas: un arranque espléndido, un planteamiento prometedor y, al final, humo. Pero no trata de chico-conoce-chica sino de qué hacer con esas variables que tienen una varianza casi nula (a la hora de crear modelos estadísticos, se entiende). Me llegó tan oportunamente que pensé que alguien que vela por mí desde lo alto me lo enviaba para sacarme de mi semanal atolladero.</description>
+    </item>
+    
+    <item>
+      <title>Cuatro enlaces sobre R: Excel, C&#43;&#43;, CSV y paralelización</title>
+      <link>/2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/</link>
+      <pubDate>Fri, 21 Mar 2014 07:44:31 +0000</pubDate>
+      
+      <guid>/2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/</guid>
+      <description>Hoy traigo a mis páginas cuatro enlaces que apuntan a recetarios y tutoriales sobre la solución a cuatro problemas que pueden encontrar los usuarios de R:
+ * [Conectar R y Excel](http://www.thertrader.com/2014/02/11/a-million-ways-to-connect-r-and-excel/) * [Importar grandes ficheros CSV](http://statcompute.wordpress.com/2014/02/11/efficiency-of-importing-large-csv-files-in-r/) (y falta [`LaF`](http://cran.fhcrc.org/web/packages/LaF/index.html)) * [Integrar R con C/C++](http://anythingbutrbitrary.blogspot.ch/2014/02/three-ways-to-call-cc-from-r.html) * [Paralelizar código con `snow`](http://hernanresnizky.com/2014/01/10/quick-guide-to-parallel-r-with-snow/)  ¡Espero que os resulten útiles!</description>
+    </item>
+    
+    <item>
+      <title>Guarjolización de fotos con R</title>
+      <link>/2014/03/10/guarjolizacion-de-fotos-con-r/</link>
+      <pubDate>Mon, 10 Mar 2014 07:07:47 +0000</pubDate>
+      
+      <guid>/2014/03/10/guarjolizacion-de-fotos-con-r/</guid>
+      <description>Inspirado en esto aunque con la intención de mejorar el horrible código adjunto, escribí el otro día esto:
+library(&amp;quot;biOps&amp;quot;) library(&amp;quot;cluster&amp;quot;) # leo una foto usando readJpeg de biOps # el objeto devuelto es un array mxnx3 dimensional # la última dimensión es el rgb de cada pixel tmp &amp;lt;- tempfile() &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/download.file&amp;quot;&amp;gt;download.file(&amp;quot;http://blog.guiasenior.com/images/Retrato_Garber.jpg&amp;quot;, tmp) x &amp;lt;- readJpeg(tmp) # si quieres mostrar la foto como un gráfico... #plot(x) # convertimos el array 3D nxmx3 en uno 2D (nm)x3 # luego buscamos 5 clústers # esencialmente, buscamos 7 &amp;quot;píxels representativos&amp;quot; d &amp;lt;- dim(x) clarax &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>Macros sintácticas con R</title>
+      <link>/2014/01/16/macros-sintacticas-con-r/</link>
+      <pubDate>Thu, 16 Jan 2014 08:31:50 +0000</pubDate>
+      
+      <guid>/2014/01/16/macros-sintacticas-con-r/</guid>
+      <description>Creo que muchos hemos tropezado con las macros alguna vez. Yo conocía las del preprocesador de C o el tinglado que tiene SAS. Y nunca fui muy amigo de ellas.
+Pero el otro día leí Stop Writing JavaScript Compilers! Make Macros Instead y se me alargaron los dientes. Así que he buscado información adicional hasta hacerme una idea de la diferencia entre una macro que se limita a reemplazar texto, una macro procedural —como las del lenguaje PL/I, antecesor e inspirador de SAS— y las sintácticas, como las que tiene Lisp (¿cuándo tendré tiempo para aprenderlo en condiciones?</description>
+    </item>
+    
+    <item>
+      <title>Mis copias de seguridad</title>
+      <link>/2013/08/21/mis-copias-de-seguridad/</link>
+      <pubDate>Wed, 21 Aug 2013 07:14:31 +0000</pubDate>
+      
+      <guid>/2013/08/21/mis-copias-de-seguridad/</guid>
+      <description>Por referencia mía y de otros, voy a dejar acá escrito y explicado cómo gestiono mis copias de seguridad. Porque los discos duros se rompen y los ordenadores desaparecen. Etc.
+Primero, mi instalación: tengo un ordenador de bajomesa (tiramisu) y un netbook (kropotkin). Ambos corren la misma versión de Xubuntu, la última estable.
+Mi primera línea de defensa contra las pérdidas de información es la sincronización de ambas máquinas. Aquellos directorios que contienen cosas que no quiero perder (documentos, fotos, código, ¡copias de seguridad de otras máquinas, incluido esto que lees ahora!</description>
+    </item>
+    
+    <item>
+      <title>Mi definición de &#34;big data&#34;</title>
+      <link>/2013/07/10/mi-definicion-de-big-data/</link>
+      <pubDate>Wed, 10 Jul 2013 07:33:03 +0000</pubDate>
+      
+      <guid>/2013/07/10/mi-definicion-de-big-data/</guid>
+      <description>No sin descaro, me atrevo a aportar una definición alternativa a eso que llaman big data y que yo traduzco en ocasiones como grandes datos.
+No obstante, para comprenderla, considero necesaria una pequeña digresión de dos párrafos —con la que muchos, espero, no aprenderán nada que no traigan ya sabido— sobre los lenguajes de programación declarativos e imperativos.
+En los primeros, programar consiste esencialmente en escribir con cierta notación aquello que quieres: la suma de los elementos de un vector, el promedio de los valores de una columna de una tabla, la suma de los saldos de los clientes de Soria, etc.</description>
+    </item>
+    
+    <item>
+      <title>data.table (II): agregaciones</title>
+      <link>/2013/05/09/data-table-ii-agregaciones/</link>
+      <pubDate>Thu, 09 May 2013 07:52:45 +0000</pubDate>
+      
+      <guid>/2013/05/09/data-table-ii-agregaciones/</guid>
+      <description>Sigo con mi lacónica serie sobre data.table.
+La protagonista:
+frases[sample(1:nrow(frases), 3),] #pos.es pos.en length.es length.en en es frase tfe qjilm num #1: 15 43 72 72 i de 2632 4.881416e-02 0.01369863 6.686871e-04 #2: 33 48 46 48 X países 5321 2.726146e-06 0.02040816 5.563563e-08 #3: 2 35 53 66 in preguntar 4582 2.424379e-08 0.01492537 3.618476e-10 dim(frases) #[1] 6340091 10  El tiempo:
+system.time({ setkey(frases, &amp;quot;frase&amp;quot;, &amp;quot;es&amp;quot;) denominadores &amp;lt;- frases[, sum(num), by = key(frases)] setnames(denominadores, c(&amp;quot;frase&amp;quot;, &amp;quot;es&amp;quot;, &amp;quot;den&amp;quot;) ) frases &amp;lt;- merge(frases, denominadores) frases$delta &amp;lt;- frases$num / frases$den }) #user system elapsed #5.</description>
+    </item>
+    
+    <item>
+      <title>Dependencias funcionales en R con foodweb</title>
+      <link>/2013/05/08/dependencias-funcionales-en-r-con-foodweb/</link>
+      <pubDate>Wed, 08 May 2013 07:17:59 +0000</pubDate>
+      
+      <guid>/2013/05/08/dependencias-funcionales-en-r-con-foodweb/</guid>
+      <description>El otro día tropecé con un problema de rendimiento con R y al utilizar Rprof() encontré muchas llamadas a funciones que yo no hacía directamente.
+La principal sospechosa era la función daply (del paquete plyr) que parecía depender de bastantes otras. Uno puede navegar el código de las funciones para identificar esas dependencias, pero, mirad qué maravilla:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/mvbutils&amp;quot;&amp;gt;mvbutils) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) foodweb(find.funs(&amp;quot;package:plyr&amp;quot;), &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/rpart/prune&amp;quot;&amp;gt;prune = &amp;quot;laply&amp;quot;)  genera
+
+Ahí se ve la dependencia de daply con respecto a laply.</description>
+    </item>
+    
+    <item>
+      <title>data.table (I): cruces</title>
+      <link>/2013/05/02/data-table-i-cruces/</link>
+      <pubDate>Thu, 02 May 2013 07:16:30 +0000</pubDate>
+      
+      <guid>/2013/05/02/data-table-i-cruces/</guid>
+      <description>Los protagonistas (tres tablas grandecitas):
+dim(qjilm) # [1] 3218575 5 dim(tf) # [1] 6340091 7 dim(tfe) #[1] 1493772 3 &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/head&amp;quot;&amp;gt;head(qjilm, 2) #pos.es length.en length.es pos.en qjilm #1 1 2 1 1 0.8890203 #2 1 2 1 2 0.1109797 &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/head&amp;quot;&amp;gt;head(tf, 2) #frase es pos.es length.es en pos.en length.en #1 996 ! 42 42 ! 43 44 #2 1231 ! 37 37 ! 37 38 &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/head&amp;quot;&amp;gt;head(tfe, 2) #en es tfe #1 !</description>
+    </item>
+    
+    <item>
+      <title>Infografía sobre Big Data Spain</title>
+      <link>/2012/12/18/infografia-sobre-big-data-spain/</link>
+      <pubDate>Tue, 18 Dec 2012 07:17:20 +0000</pubDate>
+      
+      <guid>/2012/12/18/infografia-sobre-big-data-spain/</guid>
+      <description>Rubén Martínez, viejo conocido (fue instrumental en la organización del concurso de análisis de datos de las III Jornadas de Usuarios de R) me ha hecho llegar la siguiente infografía sobre el estado del mundo de los grandes datos (big data) y, en particular, sobre las conferencias Big Data Spain en cuya organización colaboró. Es la siguiente (hay que hacer clic en ella para verla en tamaño completo):
+
+Esperemos que el año que viene no coincida con las jornadas de R y podamos compatibilizar ambas&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Disponibles los vídeos de las sesiones de BigDataSpain</title>
+      <link>/2012/12/05/disponibles-los-videos-de-las-sesiones-de-bigdataspain/</link>
+      <pubDate>Wed, 05 Dec 2012 07:49:27 +0000</pubDate>
+      
+      <guid>/2012/12/05/disponibles-los-videos-de-las-sesiones-de-bigdataspain/</guid>
+      <description>Ya están disponibles los vídeos de las sesiones de la conferencia BigDataSpain que anunciamos hace un tiempo en estas páginas.
+http://www.youtube.com/watch?v=7efDRf4q3lk</description>
+    </item>
+    
+    <item>
+      <title>MapReduce con mincedmeat</title>
+      <link>/2012/11/07/mapreduce-con-mincedmeat/</link>
+      <pubDate>Wed, 07 Nov 2012 14:41:14 +0000</pubDate>
+      
+      <guid>/2012/11/07/mapreduce-con-mincedmeat/</guid>
+      <description>Hace unos días implementé un proceso MapReduce usando mincedmeat, un pequeño entorno en Python para desarrollar este tipo de procesos distribuidos. El código y los datos pueden descargarse de este enlace.
+Los datos de partida están en 249 ficheros de unos 25kb que contienen filas del tipo
+journals/algorithmica/HarelS98:::David Harel::Meir Sardas:::An Algorithm for Straight-Line of Planar Graphs
+es decir, publicación, autor (o autores) separados por :: y título de la publicación. Los tres campos están separados por :::.</description>
+    </item>
+    
+    <item>
+      <title>Predicciones de series temporales a gran escala y en paralelo con R</title>
+      <link>/2012/09/25/predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r/</link>
+      <pubDate>Tue, 25 Sep 2012 07:50:49 +0000</pubDate>
+      
+      <guid>/2012/09/25/predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r/</guid>
+      <description>En el artículo Large-Scale Parallel Statistical Forecasting Computations in R encontrarán los interesados información sobre cómo está usando Google R para realizar predicciones de series temporales a gran escala usando cálculos en paralelo.
+El artículo tiene dos partes diferenciadas. Por un lado está la que describe los métodos que usan para realizar predicciones sobre series temporales. Parecen sentir cierto desdén por la teoría clásica, comprensible dado el gran número de series temporales que tratan de predecir y el mimo —entiéndase como uso de materia gris— que exige aquella.</description>
+    </item>
+    
+    <item>
+      <title>El algoritmo PSLQ e identificación de números</title>
+      <link>/2012/09/17/el-algoritmo-pslq-e-identificacion-de-numeros/</link>
+      <pubDate>Mon, 17 Sep 2012 07:22:17 +0000</pubDate>
+      
+      <guid>/2012/09/17/el-algoritmo-pslq-e-identificacion-de-numeros/</guid>
+      <description>El algoritmo PSLQ se usa para resolver aproximadamente ecuaciones con coeficientes enteros $latex a_i$ de la forma
+$latex \sum_i a_i x_i = 0$
+donde, obviamente, no todos los $latex a_i$ son cero. Aproximadamente significa que la solución se busca dentro de un cierto nivel de tolerancia.
+No existe, que yo sepa, una implementación en R. Pero sí en Python, usando librerías que permiten utilizar números de precisión arbitraria, como [mpmath](https://code.google.com/p/mpmath/). Veamos un ejemplo:</description>
+    </item>
+    
+    <item>
+      <title>Conferencia sobre Grandes Datos</title>
+      <link>/2012/07/18/conferencia-sobre-grandes-datos/</link>
+      <pubDate>Wed, 18 Jul 2012 06:21:44 +0000</pubDate>
+      
+      <guid>/2012/07/18/conferencia-sobre-grandes-datos/</guid>
+      <description>Permítanme mis lectores matar dos pájaros con una misma entrada. La primera es anunciar que se está organizando unaconferencia sobre Grandes Datos en Madrid este invierno. Tendrá lugar los días 14, 15 y 16 de noviembre. Los organizadores la anuncian así:
+
+La segunda, de la que ya se habrá dado cuenta alguno de mis lectores, es que ya me he decantado por una traducción al español de big data. Y no, no crean que se trata de una traducción plana, directa y sin gracia del término anglosajón.</description>
+    </item>
+    
+    <item>
+      <title>¿Varianza explicada?</title>
+      <link>/2012/03/08/%c2%bfvarianza-explicada/</link>
+      <pubDate>Thu, 08 Mar 2012 07:44:41 +0000</pubDate>
+      
+      <guid>/2012/03/08/%c2%bfvarianza-explicada/</guid>
+      <description>Sin darnos cuenta, abusamos de ciertos términos. Uno de ellos es el de la varianza explicada. Después de años utilizándolo como por inercia, he venido a darme cuenta por dos vías distintas de su impropiedad: una de mis recientes lecturas y una experiencia profesional.
+Tal vez sea más sencillo comenzar exponiendo la crítica realizada en esa página. Parte del análisis de la serie de muertes en Chicago entre 1987 y el 2000:</description>
+    </item>
+    
+    <item>
+      <title>Más sobre Julia (II): mi primer programa</title>
+      <link>/2012/03/06/mas-sobre-julia-ii-mi-primer-programa/</link>
+      <pubDate>Tue, 06 Mar 2012 08:37:57 +0000</pubDate>
+      
+      <guid>/2012/03/06/mas-sobre-julia-ii-mi-primer-programa/</guid>
+      <description>A las entradas que he hecho sobre Julia estos últimos días, quiero añadir esta en la que publico mi primer programa en dicho lenguaje.
+Me ha dado por reimplementar el programa para realizar un muestreo de Gibbs que aparece en Gibbs sampler in various languages.
+Lo primero ha sido instalar Julia, para lo que basta con seguir las instrucciones que aparecen en su página de github. Y aviso: tarda bastante en descargar y compilar todas sus dependencias.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre Julia</title>
+      <link>/2012/03/05/mas-sobre-julia/</link>
+      <pubDate>Mon, 05 Mar 2012 08:09:35 +0000</pubDate>
+      
+      <guid>/2012/03/05/mas-sobre-julia/</guid>
+      <description>Unos días después de la primera noticia acerca de Julia en esta bitácora me llegan, como suele ser habitual en estos casos, otras.
+En primer lugar, hay una discusión interesante sobre R en la lista de desarrolladores de Julia. Y hay un vídeo de Jeff Bezanson sobre Julia de un seminario en Stanford que podría estar pronto disponible en el canal de Youtube de dicha universidad (y que, de momento, puede verse yendo a la bitácora de Julia y después, navegando a Stanford Talk Video y available here).</description>
+    </item>
+    
+    <item>
+      <title>¿Otro bug de Teradata?</title>
+      <link>/2010/11/22/otro-bug-de-teradata/</link>
+      <pubDate>Mon, 22 Nov 2010 09:29:04 +0000</pubDate>
+      
+      <guid>/2010/11/22/otro-bug-de-teradata/</guid>
+      <description>Yo creo que es un bug, vamos. Y tengo tres motivos para creerlo:
+ Teradata no hace lo que se espera que haga. No he encontrado por ahí motivo técnico alguno que proscriba razonadamente lo que intento hacer. He hablado con un señor empleado de Teradata, le he enviado el ejemplo y en lugar de explicarme mi error (de haberlo) ha hecho el avestruz (ya hablé de lo que pasa cuando uno encuentra _bugs _en software propietario).</description>
+    </item>
+    
+    <item>
+      <title>Más de diez motivos para usar PROC SQL en SAS</title>
+      <link>/2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/</link>
+      <pubDate>Sun, 18 Jul 2010 16:01:59 +0000</pubDate>
+      
+      <guid>/2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/</guid>
+      <description>Hace no mucho escribí una entrada en este blog sobre, bromas aparte, cómo no escribir código SAS. Habría respondido in situ a uno de los comentarios que hicieron mis lectores pero, abusando de mi condición de dueño del blog, lo voy a hacer desde más encumbrado púlpito: una entrada ad hoc. Conste que escribo para discrepar. Pero conste también que lo hago desde la más genuina cordialidad y con la esperanza de generar un debate que a todos nos enriquezca.</description>
+    </item>
+    
+    <item>
+      <title>¿En qué se parecen Oracle y Teradata a Excel y Word?</title>
+      <link>/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/</link>
+      <pubDate>Wed, 19 May 2010 20:48:10 +0000</pubDate>
+      
+      <guid>/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/</guid>
+      <description>Y, para el caso, Postgres y OpenOffice.
+Pues en que quienes los diseñan piensan que los usuarios finales son, somos, abuelitas. Y por tanto, toman decisiones por nosotros (usar mayúsculas donde no se debe, cruzar tablas como les da la gana, empeñarse en que incoar se escribe con hache intercalada, etc.). En particular, mi queja de hoy se refiere a lo estúpidos que pueden llegar a ser los presuntos optimizadores de consultas en bases de datos y en un pequeño —aunque universal— método para doblegarlos a nuestra voluntad soberana.</description>
+    </item>
+    
+    <item>
+      <title>Los portátiles, ¿objetos fálicos?</title>
+      <link>/2010/03/15/los-portatiles-objetos-falicos/</link>
+      <pubDate>Mon, 15 Mar 2010 21:41:40 +0000</pubDate>
+      
+      <guid>/2010/03/15/los-portatiles-objetos-falicos/</guid>
+      <description>Yo siempre he creído que eso de los portátiles tiene algo de fálico. Ya no gastamos puñal ni espada. Ni escribimos con tachuelas Biba mi dueño en el mango de navajas de valleinclanianas. Pero salimos a la calle con portátiles y los celamos (yo, al menos) como antaño se guardaban de la sucia mano ajena los afilados depositarios de la virilidad carpetovetónica.
+He comprado un portátil nuevo y, llevado de fálico exhibicionismo, he decidido que amerita una entrada en la que proclamar que el mío es más pequeño que el de casi todos mis lectores.</description>
+    </item>
+    
+    <item>
+      <title>Madre Teresa, patriotas, idiotas... y queries recursivas</title>
+      <link>/2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/</link>
+      <pubDate>Thu, 11 Mar 2010 20:00:14 +0000</pubDate>
+      
+      <guid>/2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/</guid>
+      <description>No es éste foro para opinar sobre si nos interesa la Madre Teresa o si los patriotas son idiotas, pero sí para mostrar nuestro desacuerdo con la canción (por abreviar, acá está su letra) y dejar claro que las jerarquías no son una porquería. Si no que se lo digan a un indirecto cliente mío que consume lo que no nos devuelve a los accionistas como dividendo en pagar hordas de consultores poco avisados de lo que acá cuento.</description>
+    </item>
+    
+  </channel>
+</rss>

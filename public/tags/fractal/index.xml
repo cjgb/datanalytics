@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fractal on datanalytics</title>
+    <link>/tags/fractal/</link>
+    <description>Recent content in fractal on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 12 May 2014 07:39:06 +0000</lastBuildDate><atom:link href="/tags/fractal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grid, Scala y arbolitos fractales</title>
+      <link>/2014/05/12/grid-scala-y-arbolitos/</link>
+      <pubDate>Mon, 12 May 2014 07:39:06 +0000</pubDate>
+      
+      <guid>/2014/05/12/grid-scala-y-arbolitos/</guid>
+      <description>Inspirado por
+ * los arbolitos que he visto esta mañana en mi semivuelta al lago de Zúrich, * las cosas que estoy leyendo últimamente sobre el paquete grid de R (p.e., [_grid graphics_](http://stat.ethz.ch/R-manual/R-devel/library/grid/doc/grid.pdf), de Murrell) * mi curso de scala y * [este enlace](http://aschinchon.wordpress.com/2014/04/10/the-pythagorean-tree-is-in-bloom/)  me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurriría a un neoingeniero al que solo le han enseñado MatLab y que, por lo tanto, tiene vetado el acceso a cualquier tipo de empresa tecnológica puntera).</description>
+    </item>
+    
+  </channel>
+</rss>

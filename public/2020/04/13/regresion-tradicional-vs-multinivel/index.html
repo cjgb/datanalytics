@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Regresión tradicional vs multinivel - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Regresión tradicional vs multinivel" />
+<meta property="og:description" content="Ayer se leía en Twitter que
+https://twitter.com/joscani/status/1249017607199621123
+Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnicas. Obviamente, hay muchos tipos de datos y supongo que los resultados variarán según qué variante se utilice. Aquí voy a centrarme en unos donde hay medidas repetidas de un factor aleatorio. También voy a situarme en un contexto académico, en el que interesan más las estimaciones de los efectos fijos, que en uno más próximo a mi mundo, la consultoría, donde son más relevantes las estimaciones regularizadas de los efectos aleatorios." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2020/04/13/regresion-tradicional-vs-multinivel/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-04-13T09:13:00&#43;00:00" />
+<meta property="article:modified_time" content="2020-04-13T09:13:00&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Regresión tradicional vs multinivel</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-13T09:13:00Z">2020-4-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Ayer se leía en Twitter que</p>
+<p><a href="https://twitter.com/joscani/status/1249017607199621123">https://twitter.com/joscani/status/1249017607199621123</a></p>
+<p>Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnicas. Obviamente, hay muchos tipos de datos y supongo que los resultados variarán según qué variante se utilice. Aquí voy a centrarme en unos donde hay medidas repetidas de un factor aleatorio. También voy a situarme en un contexto académico, en el que interesan más las estimaciones de los efectos fijos, que en uno más próximo a mi mundo, la consultoría, donde son más relevantes las estimaciones regularizadas de los efectos aleatorios.</p>
+<p>Los datos son:</p>
+<pre><code>library(plyr)
+library(lme4)
+
+set.seed(333)
+
+sd_aleatorio &lt;- 1
+sd_error &lt;- 1
+n_niveles &lt;- 20
+n_reps &lt;- 6
+intercepto &lt;- .5
+
+efecto_fijo &lt;- 1.5
+tmp &lt;- sample(rep(0:1, each = n_niveles * n_reps /2))
+
+dat_fijo &lt;- data.frame(
+    fijo = factor(tmp),
+    efecto_fijo = tmp * efecto_fijo
+)
+
+
+dat_aleatorio &lt;- ldply(1:n_niveles, function(nivel){
+    data.frame(
+        aleatorio = paste0(&quot;random_&quot;, nivel),
+        efecto_aleatorio = rep(rnorm(1, 0, sd_aleatorio), n_reps)
+    )
+})
+
+dat &lt;- cbind(dat_fijo, dat_aleatorio)
+dat$y &lt;- intercepto + dat$efecto_fijo + dat$efecto_aleatorio + rnorm(nrow(dat), 0, sd_error)
+</code></pre>
+<p>Y las regresiones tradicional y multinivel producen</p>
+<pre><code>modelo_lm &lt;- lm(y ~ fijo + aleatorio, data = dat)
+summary(modelo_lm)
+
+# Call:
+#     lm(formula = y ~ fijo + aleatorio, data = dat)
+#
+# Residuals:
+#     Min       1Q   Median       3Q      Max
+# -2.54116 -0.64561 -0.01708  0.58706  2.22806
+#
+# Coefficients:
+# Estimate Std. Error t value Pr(&gt;|t|)
+# (Intercept)         1.89664    0.39014   4.861 4.38e-06 ***
+# fijo1               1.24459    0.18802   6.619 1.87e-09 ***
+# aleatoriorandom_2  -0.62928    0.55352  -1.137  0.25834
+# aleatoriorandom_3  -0.60991    0.55794  -1.093  0.27699
+# aleatoriorandom_4  -0.44177    0.55794  -0.792  0.43038
+# aleatoriorandom_5  -0.08816    0.55352  -0.159  0.87378
+# aleatoriorandom_6  -2.67117    0.55794  -4.788 5.92e-06 ***
+# aleatoriorandom_7  -2.74010    0.55086  -4.974 2.76e-06 ***
+# aleatoriorandom_8  -0.73759    0.55352  -1.333  0.18575
+# aleatoriorandom_9  -0.23444    0.55352  -0.424  0.67282
+# aleatoriorandom_10 -1.33424    0.55086  -2.422  0.01725 *
+# aleatoriorandom_11 -0.13610    0.55794  -0.244  0.80778
+# aleatoriorandom_12 -1.32126    0.55794  -2.368  0.01982 *
+# aleatoriorandom_13 -2.54023    0.55086  -4.611 1.20e-05 ***
+# aleatoriorandom_14 -0.74932    0.55086  -1.360  0.17683
+# aleatoriorandom_15 -1.02631    0.55352  -1.854  0.06670 .
+# aleatoriorandom_16 -0.34843    0.54996  -0.634  0.52783
+# aleatoriorandom_17  0.87490    0.55086   1.588  0.11542
+# aleatoriorandom_18 -1.56946    0.55352  -2.835  0.00555 **
+# aleatoriorandom_19 -1.45809    0.56407  -2.585  0.01120 *
+# aleatoriorandom_20 -1.30429    0.56407  -2.312  0.02283 *
+# ---
+# Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+#
+# Residual standard error: 0.9526 on 99 degrees of freedom
+# Multiple R-squared:  0.6069,	Adjusted R-squared:  0.5275
+# F-statistic: 7.642 on 20 and 99 DF,  p-value: 1.237e-12
+</code></pre>
+<p>y</p>
+<pre><code>modelo_lmer &lt;- lmer(y ~ fijo + (1 | aleatorio), data = dat)
+summary(modelo_lmer)
+# Linear mixed model fit by REML ['lmerMod']
+# Formula: y ~ fijo + (1 | aleatorio)
+# Data: dat
+#
+# REML criterion at convergence: 365
+#
+# Scaled residuals:
+#     Min       1Q   Median       3Q      Max
+# -2.99682 -0.68842  0.00075  0.57968  2.38530
+#
+# Random effects:
+#  Groups    Name        Variance Std.Dev.
+#  aleatorio (Intercept) 0.7344   0.8570
+#  Residual              0.9073   0.9525
+# Number of obs: 120, groups:  aleatorio, 20
+#
+# Fixed effects:
+#             Estimate Std. Error t value
+# (Intercept)   0.9548     0.2299   4.152
+# fijo1         1.2218     0.1854   6.592
+#
+# Correlation of Fixed Effects:
+#     (Intr)
+# fijo1 -0.403
+</code></pre>
+<p>respectivamente. La estimación del efecto fijo es similar en ambos casos, pero hay una diferencia notable en el ajuste del término independiente. Veamos qué sucede si repetimos el proceso anterior muchas veces:</p>
+<pre><code>foo &lt;- function(){
+    tmp &lt;- sample(rep(0:1, each = n_niveles * n_reps /2))
+
+    dat_fijo &lt;- data.frame(
+        fijo = factor(tmp),
+        efecto_fijo = tmp * efecto_fijo
+    )
+
+
+    dat_aleatorio &lt;- ldply(1:n_niveles, function(nivel){
+        data.frame(
+            aleatorio = paste0(&quot;random_&quot;, nivel),
+            efecto_aleatorio = rep(rnorm(1, 0, sd_aleatorio), n_reps)
+        )
+    })
+
+    dat &lt;- cbind(dat_fijo, dat_aleatorio)
+    dat$y &lt;- intercepto + dat$efecto_fijo + dat$efecto_aleatorio + rnorm(nrow(dat), 0, sd_error)
+
+    modelo_lm &lt;- lm(y ~ fijo + aleatorio, data = dat)
+
+    modelo_lmer &lt;- lmer(y ~ fijo + (1 | aleatorio), data = dat)
+
+    c(fixef(modelo_lmer), coefficients(modelo_lm)[1:2])
+}
+
+res &lt;- replicate(1000, foo())
+res &lt;- as.data.frame(t(res))
+</code></pre>
+<p>Las estimaciones de los efectos fijos son similares:</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2020/04/efecto_fijo_lmer_lm.png" alt=""></p>
+<p>pero hay diferencias notables en la del término independiente:</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2020/04/termino_independiente_lmer_lm.png" alt=""></p>
+<p>Cosa que, bien pensada, <em>a posteriori</em>, tiene su lógica, creo&hellip;</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica-bayesiana/" rel="tag">estadística bayesiana</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/lm/" rel="tag">lm</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/lme4/" rel="tag">lme4</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/modelos-mixtos/" rel="tag">modelos mixtos</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2020/04/10/tengo-cuenta-en-hypermind/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Tengo cuenta en Hypermind</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2020/04/14/consensus-clustering/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Consensus clustering</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

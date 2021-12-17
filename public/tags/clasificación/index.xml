@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clasificación on datanalytics</title>
+    <link>/tags/clasificaci%C3%B3n/</link>
+    <description>Recent content in clasificación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 05 Mar 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/clasificaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clasificación vs predicción</title>
+      <link>/2020/03/05/clasificacion-vs-prediccion-2/</link>
+      <pubDate>Thu, 05 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/05/clasificacion-vs-prediccion-2/</guid>
+      <description>Aquí se recomienda, con muy buen criterio, no realizar clasificación pura, i.e., asignando etiquetas 0-1 (en casos binarios), sino proporcionar en la medida de lo posible probabilidades. Y llegado el caso, distribuciones de probabilidades, claro.
+La clave es, por supuesto:</description>
+    </item>
+    
+    <item>
+      <title>¿Lineal o logística?</title>
+      <link>/2020/02/14/lineal-o-logistica/</link>
+      <pubDate>Fri, 14 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/14/lineal-o-logistica/</guid>
+      <description>Hay cosas tan obvias que ni se plantea la alternativa. Pero luego va R. Gomila y escribe Logistic or Linear? Estimating Causal Effects of Treatments on Binary Outcomes Using Regression Analysis que se resume en lo siguiente: cuando te interese la explicación y no la predicción, aunque tu y sea binaria, usa regresión lineal y pasa de la logística.
+Nota: La sección 4.2 de An Introduction to Statistical Learning de se titula precisamente Why Not Linear Regression?</description>
+    </item>
+    
+    <item>
+      <title>Cotas superiores para el AUC</title>
+      <link>/2019/05/24/cotas-superiores-para-el-auc/</link>
+      <pubDate>Fri, 24 May 2019 09:13:28 +0000</pubDate>
+      
+      <guid>/2019/05/24/cotas-superiores-para-el-auc/</guid>
+      <description>El AUC tiene una cota superior de 1. Concedido. Pero alguien se quejó de que el AUC = 0.71 que aparece aquí era bajo.
+Se ve que ignora esto. Donde está todo tan bien contado que no merece la pena tratar de reproducirlo o resumirlo aquí.</description>
+    </item>
+    
+    <item>
+      <title>Clasificación vs predicción</title>
+      <link>/2019/01/14/clasificacion-vs-prediccion/</link>
+      <pubDate>Mon, 14 Jan 2019 08:13:30 +0000</pubDate>
+      
+      <guid>/2019/01/14/clasificacion-vs-prediccion/</guid>
+      <description>Traduzco de aquí:
+  El resto es tanto o más aprovechable.</description>
+    </item>
+    
+    <item>
+      <title>Curvas ROC no cóncavas: ¿por qué, por qué, por qué?</title>
+      <link>/2016/05/13/curvas-roc-no-concavas-por-que-por-que-por-que/</link>
+      <pubDate>Fri, 13 May 2016 08:13:42 +0000</pubDate>
+      
+      <guid>/2016/05/13/curvas-roc-no-concavas-por-que-por-que-por-que/</guid>
+      <description>El otro día me enseñaron una rareza: una curva ROC no cóncava. Digamos que como
+El gráfico que la acompaña aquí,
+explica un par de cositas. El artículo enlazado discute cómo combinar clasificadores para construir otro cuya curva ROC sea la envolvente convexa del original.</description>
+    </item>
+    
+  </channel>
+</rss>

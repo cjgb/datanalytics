@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bélgica on datanalytics</title>
+    <link>/tags/b%C3%A9lgica/</link>
+    <description>Recent content in bélgica on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 16 Apr 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/b%C3%A9lgica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be-MOMO</title>
+      <link>/2020/04/16/be-momo/</link>
+      <pubDate>Thu, 16 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/16/be-momo/</guid>
+      <description>Hay comparaciones odiosas. Así que no voy a comparar con nada. Voy a limitarme a invitaros a ver cómo divulgan información epidemiológica en Bélgica:
+ Coronavirus: panel de control y datos * Enfermedades infecciosas * Mortalidad * Enfermedades de transmisión sexual * ¡Garrapatas! * Gripe  Con su documentación, sus referencias, etc. y en inglés, además.
+En fin.</description>
+    </item>
+    
+    <item>
+      <title>No lo busquéis porque no existe</title>
+      <link>/2017/09/21/no-lo-busqueis-porque-no-existe/</link>
+      <pubDate>Thu, 21 Sep 2017 08:13:55 +0000</pubDate>
+      
+      <guid>/2017/09/21/no-lo-busqueis-porque-no-existe/</guid>
+      <description>Pero en Bélgica sí y es este.
+¿A que es chulo?
+Nota: Está hecho con dc.js.</description>
+    </item>
+    
+  </channel>
+</rss>

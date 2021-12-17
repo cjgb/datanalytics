@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data.t on datanalytics</title>
+    <link>/tags/data.t/</link>
+    <description>Recent content in data.t on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 Mar 2014 07:45:50 +0000</lastBuildDate><atom:link href="/tags/data.t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Totales agregados por bloques en tablas</title>
+      <link>/2014/03/25/totales-agregados-por-bloques-en-tablas/</link>
+      <pubDate>Tue, 25 Mar 2014 07:45:50 +0000</pubDate>
+      
+      <guid>/2014/03/25/totales-agregados-por-bloques-en-tablas/</guid>
+      <description>En ocasiones uno quiere añadir un total calculado en ciertos bloques a una tabla. Por ejemplo, en la tabla
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) ventas.orig &amp;lt;- data.frame(cliente = rep(1:10, each = 5), producto = rep(letters[1:5], times = 10), importe = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/rlnorm&amp;quot;&amp;gt;rlnorm(50))  tenemos clientes, productos e importes. Y nos preguntamos por el porcentaje en términos de importe que cada producto supone para cada cliente.
+Una manera natural pero torpe de realizar este cálculo consiste en usar un objeto intermedio y merge:</description>
+    </item>
+    
+  </channel>
+</rss>

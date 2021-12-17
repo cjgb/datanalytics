@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kschool on datanalytics</title>
+    <link>/tags/kschool/</link>
+    <description>Recent content in kschool on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 28 Nov 2018 08:13:17 +0000</lastBuildDate><atom:link href="/tags/kschool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charla: predicciones y decisiones, más allá de los errores cuadráticos</title>
+      <link>/2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/</link>
+      <pubDate>Wed, 28 Nov 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/</guid>
+      <description>El próximo 29 de noviembre (de 2018) de febrero daré una charla dentro del ciclo de Data Konferences de Kschool.
+Para la mía han creado el siguiente cartelito:
+El resumen que preparé es:
+Los detalles espaciotemporales y otras concomitancias relevantes para los asistentes pueden consultarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>Charla: las *-metrías en la práctica de la ciencia de datos: el papel de la teoría</title>
+      <link>/2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/</link>
+      <pubDate>Fri, 26 Jan 2018 08:13:21 +0000</pubDate>
+      
+      <guid>/2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/</guid>
+      <description>El próximo 8 de febrero daré una charla dentro del ciclo de Data Konferences.
+Para la mía han creado el siguiente cartelito:
+El resumen que preparé es:
+Los detalles espaciotemporales y otras concomitancias relevantes para los asistentes pueden consultarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>¿Quieres aprender R? ¡Matricúlate en mi curso en KSchool!</title>
+      <link>/2016/04/13/quieres-aprender-r-matriculate-en-mi-curso-en-kschool/</link>
+      <pubDate>Wed, 13 Apr 2016 09:13:01 +0000</pubDate>
+      
+      <guid>/2016/04/13/quieres-aprender-r-matriculate-en-mi-curso-en-kschool/</guid>
+      <description>Si quieres aprender R, bien puedes matricularte en el curso que voy a impartir en KSchool. Es un programa de iniciación a R centrado en aquellos aspectos de R que más usan en la práctica diaria quienes trabajan con datos (y no son estadísticos duros). ¡Y ya vamos por la tercera edición!
+Tendrá lugar durante el mes de junio (y un poco de julio). Son diez sesiones de tres horas. Los detalles están aquí.</description>
+    </item>
+    
+    <item>
+      <title>Esta tarde doy un curso abierto y gratuito de introducción a la programación</title>
+      <link>/2015/11/03/esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion/</link>
+      <pubDate>Tue, 03 Nov 2015 08:13:51 +0000</pubDate>
+      
+      <guid>/2015/11/03/esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion/</guid>
+      <description>Efectivamente, esta tarde doy un curso de unas tres horas de introducción a la programación. Es gratuito y está abierto a quien quiera pasarse (hasta completar aforo). Será en las oficinas de KSchool de 18:30 a 21:00. Los interesados pueden escribir a elsa.duran en kschool punto com para reservar la plaza.
+La sesión es un preámbulo a mi curso de R pero independiente del mismo. Está pensado para aquellos que no han programado apenas y que quieren tomarlo.</description>
+    </item>
+    
+    <item>
+      <title>Programa Profesional de Iniciación a R II</title>
+      <link>/2015/10/05/programa-profesional-de-iniciacion-a-r-ii/</link>
+      <pubDate>Mon, 05 Oct 2015 08:13:46 +0000</pubDate>
+      
+      <guid>/2015/10/05/programa-profesional-de-iniciacion-a-r-ii/</guid>
+      <description>Del 10 de noviembre al 17 de diciembre impartiré la segunda edición de mi Programa Profesional de Iniciación a R. Los detalles pueden consultarse en el enlace anterior.
+Es la segunda edición. De la primera hablé aquí.
+El programa es esencialmente el mismo: presentar y trabajar con aquellas herramientas que hacen de R una herramienta útil dentro de BBVA, Santander, Mapfre, etc. Para trascender Excel y, entre otros,
+ * manipular datos como un _pro_, * crear gráficos estadísticos complejos de calidad, * crear informes automáticos que combinan análisis de datos, gráficos, texto, etc.</description>
+    </item>
+    
+    <item>
+      <title>Programa Profesional de Iniciación a R</title>
+      <link>/2015/04/21/programa-profesional-de-iniciacion-a-r/</link>
+      <pubDate>Tue, 21 Apr 2015 08:13:04 +0000</pubDate>
+      
+      <guid>/2015/04/21/programa-profesional-de-iniciacion-a-r/</guid>
+      <description>Del 9 de junio al 9 de julio impartiré un curso de iniciación a R.
+Se trata de una versión extendida de mi curso de introducción a R que, como novedad fundamental, pasa de 12 a 30 horas de duración. El programa, sin embargo, es esencialmente el mismo: aquello, todo ello y no más que aquello que de R podría usarse en Endesa, el Banco de Santander, Deloitte o el Ministerio de Sanidad.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drogas on datanalytics</title>
+    <link>/tags/drogas/</link>
+    <description>Recent content in drogas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 18 Mar 2016 09:13:34 +0000</lastBuildDate><atom:link href="/tags/drogas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas</title>
+      <link>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</link>
+      <pubDate>Fri, 18 Mar 2016 09:13:34 +0000</pubDate>
+      
+      <guid>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</guid>
+      <description>Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado (aquí) un conjunto datos muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— nootrópicos.
+El gráfico
+extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo.</description>
+    </item>
+    
+  </channel>
+</rss>

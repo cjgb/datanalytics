@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on datanalytics</title>
+    <link>/tags/sql/</link>
+    <description>Recent content in sql on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Apr 2015 08:13:51 +0000</lastBuildDate><atom:link href="/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Restauración de ficheros .bak sin Windows</title>
+      <link>/2015/04/10/restauracion-de-ficheros-bak-sin-windows/</link>
+      <pubDate>Fri, 10 Apr 2015 08:13:51 +0000</pubDate>
+      
+      <guid>/2015/04/10/restauracion-de-ficheros-bak-sin-windows/</guid>
+      <description>Tengo un fichero .bak. Un fichero .bak (el mío, al menos) es una copia de seguridad de SQL Server y no hay forma humana de acceder a sus contenidos sin otro SQL Server (que yo sepa). No me preguntéis de dónde lo he sacado. La cuestión es que contiene datos que tengo que leer.
+Requisito imprescindible para tener un SQL Server es disponer de una máquina con Windows. Pero yo no tengo ninguna.</description>
+    </item>
+    
+    <item>
+      <title>Parametrización para vagos muy, muy vagos</title>
+      <link>/2015/02/05/parametrizacion-para-vagos-muy-muy-vagos/</link>
+      <pubDate>Thu, 05 Feb 2015 07:13:14 +0000</pubDate>
+      
+      <guid>/2015/02/05/parametrizacion-para-vagos-muy-muy-vagos/</guid>
+      <description>Un ejemplo sencillo. Tengo un programa que contiene, por ejemplo, una consulta tal que
+query &amp;lt;- &amp;quot;select * from mitabla where country = 24 and year = 2014&amp;quot;  Hay gente sumamente diligente, con una enorme capacidad de trabajo y con vocación de hormiguita que en mil ejecuciones distintas (distinto país, distinto año) del código anterior sería capaz de editar la consulta a mano. Probablemente usando el block de notas. Esa gente, que además suele madrugar mucho, siempre me ha dado cierta envidia.</description>
+    </item>
+    
+    <item>
+      <title>Inserción eficiente (?) de datos vía RJDBC</title>
+      <link>/2014/05/27/insercion-eficiente-de-datos-via-rjdbc/</link>
+      <pubDate>Tue, 27 May 2014 07:27:54 +0000</pubDate>
+      
+      <guid>/2014/05/27/insercion-eficiente-de-datos-via-rjdbc/</guid>
+      <description>Las bases de datos son instrumentos magníficos con dos defectos fundamentales: es difícil meter datos en ellas y es difícil sacar datos de ellas. Pero guardarlos&amp;hellip; los guardan estupendamente.
+Estos días me ha tocado subir a una base de datos tablas bastante grandes y las herramientas proporcionadas por RJDBC para ello, esencialmente dbWriteTable han fallado. Internet no se pone de acuerdo sobre si es un bug de RJDBC o si la culpa la tiene el driver de la base de datos que estoy obligado a utilizar.</description>
+    </item>
+    
+    <item>
+      <title>Totales agregados por bloques en tablas</title>
+      <link>/2014/03/25/totales-agregados-por-bloques-en-tablas/</link>
+      <pubDate>Tue, 25 Mar 2014 07:45:50 +0000</pubDate>
+      
+      <guid>/2014/03/25/totales-agregados-por-bloques-en-tablas/</guid>
+      <description>En ocasiones uno quiere añadir un total calculado en ciertos bloques a una tabla. Por ejemplo, en la tabla
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) ventas.orig &amp;lt;- data.frame(cliente = rep(1:10, each = 5), producto = rep(letters[1:5], times = 10), importe = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/rlnorm&amp;quot;&amp;gt;rlnorm(50))  tenemos clientes, productos e importes. Y nos preguntamos por el porcentaje en términos de importe que cada producto supone para cada cliente.
+Una manera natural pero torpe de realizar este cálculo consiste en usar un objeto intermedio y merge:</description>
+    </item>
+    
+    <item>
+      <title>Me han entrevistado en Big Data 4 Success</title>
+      <link>/2014/03/06/me-han-entrevistado-en-big-data-4-success/</link>
+      <pubDate>Thu, 06 Mar 2014 07:38:26 +0000</pubDate>
+      
+      <guid>/2014/03/06/me-han-entrevistado-en-big-data-4-success/</guid>
+      <description>Aún tengo pendiente mirar en un diccionario qué es podcast. Pero ya he hecho uno. Tengo el honor de haber sido entrevistado por Jorge Ubero para Big Data 4 Success.
+La entrevista, aquí.</description>
+    </item>
+    
+    <item>
+      <title>¿Varianza explicada?</title>
+      <link>/2012/03/08/%c2%bfvarianza-explicada/</link>
+      <pubDate>Thu, 08 Mar 2012 07:44:41 +0000</pubDate>
+      
+      <guid>/2012/03/08/%c2%bfvarianza-explicada/</guid>
+      <description>Sin darnos cuenta, abusamos de ciertos términos. Uno de ellos es el de la varianza explicada. Después de años utilizándolo como por inercia, he venido a darme cuenta por dos vías distintas de su impropiedad: una de mis recientes lecturas y una experiencia profesional.
+Tal vez sea más sencillo comenzar exponiendo la crítica realizada en esa página. Parte del análisis de la serie de muertes en Chicago entre 1987 y el 2000:</description>
+    </item>
+    
+    <item>
+      <title>Bajo el capó de teradataR</title>
+      <link>/2011/12/09/bajo-el-capo-de-teradatar/</link>
+      <pubDate>Fri, 09 Dec 2011 06:50:57 +0000</pubDate>
+      
+      <guid>/2011/12/09/bajo-el-capo-de-teradatar/</guid>
+      <description>Me gustaría haber podido indagar bajo el capó de teradataR, el paquete de R desarrollado por Teradata que permite que R realice lo que llaman por ahí _in database analytics _utilizando dicha plataforma propietaria.
+Ya lo probé hace un tiempo con resultados bastante desiguales y que distaban muy mucho de mis expectativas originales, habida cuenta de las muchas bondades del gestor relacional. Durante mucho tiempo he tenido la intención de desentrañar los secretos del paquete, pero me contuvieron los términos desacostumbradamente restrictivos de la licencia:</description>
+    </item>
+    
+    <item>
+      <title>Datos grandes, colas largas</title>
+      <link>/2011/09/28/datos-grandes-colas-largas/</link>
+      <pubDate>Wed, 28 Sep 2011 06:57:52 +0000</pubDate>
+      
+      <guid>/2011/09/28/datos-grandes-colas-largas/</guid>
+      <description>Codd desarrolló el modelo relacional —la base de casi todos los actuales sistemas de bases de datos— a finales de los años sesenta. El modelo relacional, basado en la lógica proposicional, suponía una ventaja sustancial con respecto a los métodos anteriores de almacenar información y bien implementado permite resolver una serie de problemas que afectaban a los sistemas anteriores:
+ Evita la redundancia de los datos. Minimiza los problemas de actualización de los datos en las tablas.</description>
+    </item>
+    
+    <item>
+      <title>Teradata, R y las III Jornadas de Usuarios de R</title>
+      <link>/2011/04/18/teradata-r-y-las-iii-jornadas-de-usuarios-de-r/</link>
+      <pubDate>Mon, 18 Apr 2011 07:50:32 +0000</pubDate>
+      
+      <guid>/2011/04/18/teradata-r-y-las-iii-jornadas-de-usuarios-de-r/</guid>
+      <description>Como parte de mis atribuciones dentro del comité organizador de las III Jornadas de Usuarios de R estoy tratando de conseguir la participación (y tal vez la financiación) de empresas e instituciones. Me ha parecido oportuno invitar a tomar parte en ellas a Teradata, empresa que, según la Wikipedia,
+ [está] especializada en herramientas de data warehousing y herramientas analíticas empresariales.
+ Teradata no se postula como un vendedor de herramientas de almacenamiento: quiere ir más allá.</description>
+    </item>
+    
+    <item>
+      <title>Los dinosaurios y R: dos enlaces</title>
+      <link>/2011/03/07/los-dinosaurios-y-r-dos-enlaces/</link>
+      <pubDate>Mon, 07 Mar 2011 09:59:38 +0000</pubDate>
+      
+      <guid>/2011/03/07/los-dinosaurios-y-r-dos-enlaces/</guid>
+      <description>Quiero compartir con mis lectores dos enlaces relacionados. Puede que a alguno le interese su sustancia misma. A mí no tanto. A mí me interesan en cuanto que ilustran la emergencia de R y el papel protagónico que está asumiendo en el universo de las cosas analíticas. Tan protagónico que hasta dos viejos dinosaurios pasan voluntariamente por su aro.
+Tradicionalmente, para analizar grandes bases de datos empresariales, se realizaba en primer lugar una extracción masiva de datos.</description>
+    </item>
+    
+    <item>
+      <title>¿Otro bug de Teradata?</title>
+      <link>/2010/11/22/otro-bug-de-teradata/</link>
+      <pubDate>Mon, 22 Nov 2010 09:29:04 +0000</pubDate>
+      
+      <guid>/2010/11/22/otro-bug-de-teradata/</guid>
+      <description>Yo creo que es un bug, vamos. Y tengo tres motivos para creerlo:
+ Teradata no hace lo que se espera que haga. No he encontrado por ahí motivo técnico alguno que proscriba razonadamente lo que intento hacer. He hablado con un señor empleado de Teradata, le he enviado el ejemplo y en lugar de explicarme mi error (de haberlo) ha hecho el avestruz (ya hablé de lo que pasa cuando uno encuentra _bugs _en software propietario).</description>
+    </item>
+    
+    <item>
+      <title>Más sobre lo de Netezza</title>
+      <link>/2010/10/14/mas-sobre-lo-de-netezza/</link>
+      <pubDate>Thu, 14 Oct 2010 23:18:35 +0000</pubDate>
+      
+      <guid>/2010/10/14/mas-sobre-lo-de-netezza/</guid>
+      <description>El otro día, al hablar de la compra de Netezza por parte de IBM, hice referencia a un comentario del blog que es casi el flotador al que me asgo cuando quiero averiguar la verdad de las cosas que se me tuercen (últimamente). Dediqué en mi entrada una única línea para referirme a un único párrafo de la otra. Una visión tan parcial y puntual puede haber generado malinterpretaciones que me apresuro a enmendar con la profusión que el tema merita.</description>
+    </item>
+    
+    <item>
+      <title>IBM compró Netezza: una taxonomía y algunos comentarios</title>
+      <link>/2010/10/10/ibm-compro-netezza-una-taxonomia-y-algunos-comentarios/</link>
+      <pubDate>Sun, 10 Oct 2010 23:22:35 +0000</pubDate>
+      
+      <guid>/2010/10/10/ibm-compro-netezza-una-taxonomia-y-algunos-comentarios/</guid>
+      <description>El primero tiene que ver con coches. En el ascensor, en las conversaciones que oigo en el ascensor, que es donde pulso los intereses de mis cotidianos coadláteres, soy mudo testigo de multitud de conversaciones. Las más tratan de coches. Es increíble cómo la gente está al día de marcas, modelos, motores y potencias. Aunque luego les preguntas por lo de su oficio y te das cuenta de que, sorprendentemente, no saben por dónde les pega el aire.</description>
+    </item>
+    
+    <item>
+      <title>Muestreando bases de datos</title>
+      <link>/2010/09/02/muestreando-bases-de-datos/</link>
+      <pubDate>Thu, 02 Sep 2010 23:07:22 +0000</pubDate>
+      
+      <guid>/2010/09/02/muestreando-bases-de-datos/</guid>
+      <description>Aunque el concepto de minería de datos esté casi indisolublemente asociado al de bases de datos enormes, en la práctica, el análisis y desarrollo de los modelos se realizan sobre muestras pequeñas.
+Esencialmente, para lo que nos ocupa, es pequeño un conjunto de datos que cabe en la RAM de un PC. Actualmente son habituales las máquinas con 1 GB. A modo de comparación, la base de datos de clientes de una de las mayores compañías españolas y en la que trabajé hace un tiempo venía a ocupar 5 GB.</description>
+    </item>
+    
+    <item>
+      <title>Modelos lineales mixtos para la optimización de queries</title>
+      <link>/2010/08/26/modelos-lineales-mixtos-para-la-optimizacion-de-queries/</link>
+      <pubDate>Thu, 26 Aug 2010 22:11:41 +0000</pubDate>
+      
+      <guid>/2010/08/26/modelos-lineales-mixtos-para-la-optimizacion-de-queries/</guid>
+      <description>Hoy aprovecho que pasan dos pájaros por el cielo para pegar un tiro que, seguro, es del interés de mis lectores: voy a utilizar un modelo lineal mixto para estudiar los factores que afectan al rendimiento de una familia de queries de SQL complejas.
+El objetivo final es contar con criterios empíricos para la optimización de ciertas queries (siento decir optimización de queries: me obliga a ello la voluntad de que los buscadores me indexen donde más búsquedas se vayan a realizar; por una vez, renegaré del talibán ortográfico que llevo dentro) e, indirectamente, ilustrar con datos distintos de los habituales esta técnica estadística.</description>
+    </item>
+    
+    <item>
+      <title>Más de diez motivos para usar PROC SQL en SAS</title>
+      <link>/2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/</link>
+      <pubDate>Sun, 18 Jul 2010 16:01:59 +0000</pubDate>
+      
+      <guid>/2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/</guid>
+      <description>Hace no mucho escribí una entrada en este blog sobre, bromas aparte, cómo no escribir código SAS. Habría respondido in situ a uno de los comentarios que hicieron mis lectores pero, abusando de mi condición de dueño del blog, lo voy a hacer desde más encumbrado púlpito: una entrada ad hoc. Conste que escribo para discrepar. Pero conste también que lo hago desde la más genuina cordialidad y con la esperanza de generar un debate que a todos nos enriquezca.</description>
+    </item>
+    
+    <item>
+      <title>¿En qué se parecen Oracle y Teradata a Excel y Word?</title>
+      <link>/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/</link>
+      <pubDate>Wed, 19 May 2010 20:48:10 +0000</pubDate>
+      
+      <guid>/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/</guid>
+      <description>Y, para el caso, Postgres y OpenOffice.
+Pues en que quienes los diseñan piensan que los usuarios finales son, somos, abuelitas. Y por tanto, toman decisiones por nosotros (usar mayúsculas donde no se debe, cruzar tablas como les da la gana, empeñarse en que incoar se escribe con hache intercalada, etc.). En particular, mi queja de hoy se refiere a lo estúpidos que pueden llegar a ser los presuntos optimizadores de consultas en bases de datos y en un pequeño —aunque universal— método para doblegarlos a nuestra voluntad soberana.</description>
+    </item>
+    
+    <item>
+      <title>Datatables: tablas con búsqueda binaria en R</title>
+      <link>/2010/05/09/datatables-tablas-con-busqueda-binaria-en-r/</link>
+      <pubDate>Sun, 09 May 2010 15:28:47 +0000</pubDate>
+      
+      <guid>/2010/05/09/datatables-tablas-con-busqueda-binaria-en-r/</guid>
+      <description>No hace mucho me enfrenté con un problema en el trabajo. Quería cruzar dos tablas, una de algunos miles de millones de registros y otra de algunos cientos de miles para, simplemente, contar el número de filas finales que aparecían por fecha.
+Cada una de las tablas tenía algunos filtros y agregaciones; el cruce final se realizaba sobre las subconsultas resultantes. El gestor de bases de datos que utilizamos, Teradata (sin comentarios), no podía con el cruce: las decisiones que tomaba internamente el presunto optimizador de consultas conducían inexorablemente a un error de espacio.</description>
+    </item>
+    
+    <item>
+      <title>Madre Teresa, patriotas, idiotas... y queries recursivas</title>
+      <link>/2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/</link>
+      <pubDate>Thu, 11 Mar 2010 20:00:14 +0000</pubDate>
+      
+      <guid>/2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/</guid>
+      <description>No es éste foro para opinar sobre si nos interesa la Madre Teresa o si los patriotas son idiotas, pero sí para mostrar nuestro desacuerdo con la canción (por abreviar, acá está su letra) y dejar claro que las jerarquías no son una porquería. Si no que se lo digan a un indirecto cliente mío que consume lo que no nos devuelve a los accionistas como dividendo en pagar hordas de consultores poco avisados de lo que acá cuento.</description>
+    </item>
+    
+  </channel>
+</rss>

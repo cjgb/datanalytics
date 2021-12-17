@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>superforecasting on datanalytics</title>
+    <link>/tags/superforecasting/</link>
+    <description>Recent content in superforecasting on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Dec 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/superforecasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre la estimación de probabilidades de eventos que no se repiten</title>
+      <link>/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/</link>
+      <pubDate>Thu, 09 Dec 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/</guid>
+      <description>Hace un tiempo hablé sobre la estimación de probabilidades de eventos que ocurren una única vez: elecciones, etc. Argumentaba cómo pueden ser descompuestos en dos partes muy distintas cualitativamente: una asociada a eventos que sí que se han repetido; otra, específica y única. El tamaño relativo de ambas componentes afecta a eficacia del mecanismo de estimación.
+Esta vez quiero ilustrarlo con un ejemplo extraído, traducido y adaptado de aquí que ilustra el procedimiento.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos y ética circa 1950</title>
+      <link>/2020/10/29/algoritmos-y-etica-circa-1950/</link>
+      <pubDate>Thu, 29 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/29/algoritmos-y-etica-circa-1950/</guid>
+      <description>Estoy corrigiendo las partes de mi libro que tienen que ver con la teoría del a probabilidad para hacerlas más prácticas para quienes llegan a ese mundo no para aprender una serie de reglas operativas que le sirvan para resolver un examen y pasar a otra cosa sino para su trabajo y su vida. Es decir, para asignar probabilidades a eventos.
+Y eso me ha llevado a hojear uno de los libros más famosos en los últimos tiempos dedicados al asunto: Superforecasting.</description>
+    </item>
+    
+  </channel>
+</rss>

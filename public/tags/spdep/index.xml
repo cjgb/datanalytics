@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spdep on datanalytics</title>
+    <link>/tags/spdep/</link>
+    <description>Recent content in spdep on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 27 May 2015 08:13:53 +0000</lastBuildDate><atom:link href="/tags/spdep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafos por vecindad en mapas</title>
+      <link>/2015/05/27/grafos-por-vecindad-en-mapas/</link>
+      <pubDate>Wed, 27 May 2015 08:13:53 +0000</pubDate>
+      
+      <guid>/2015/05/27/grafos-por-vecindad-en-mapas/</guid>
+      <description>Dando vueltas (infructuosas) al asunto de los cartogramas he dado con un subproducto con el que, por hoy, me conformo: crear un grafo a partir de relaciones de vecindad entre polígonos. La magia, obra de [spdep::poly2nb](http://www.inside-r.org/packages/cran/spdep/docs/poly2nb); el código,
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/maptools&amp;quot;&amp;gt;maptools) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/spdep&amp;quot;&amp;gt;spdep) library(igraph) # fichero descargado del INE aragon &amp;lt;- readShapePoly(&amp;quot;ccaa00c02.shp&amp;quot;) plot(aragon)  
+aragon.nb &amp;lt;- poly2nb(aragon) # vértices vertices &amp;lt;- aragon@data vertices$id &amp;lt;- 1:nrow(aragon@data) vertices &amp;lt;- vertices[, c(&amp;quot;id&amp;quot;, setdiff(colnames(vertices), &amp;quot;id&amp;quot;))] # coordenadas aproximadas de los vértices my.</description>
+    </item>
+    
+  </channel>
+</rss>

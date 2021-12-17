@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quetelet on datanalytics</title>
+    <link>/tags/quetelet/</link>
+    <description>Recent content in quetelet on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Nov 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/quetelet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No es tanto sobre la media como sobre la maldición de la multidimensionalidad</title>
+      <link>/2020/11/09/no-es-tanto-sobre-la-media-como-sobre-la-maldicion-de-la-multidimensionalidad/</link>
+      <pubDate>Mon, 09 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/09/no-es-tanto-sobre-la-media-como-sobre-la-maldicion-de-la-multidimensionalidad/</guid>
+      <description>El artículo que motiva esta entrada, When U.S. air force discovered the flaw of averages, no lo es tanto sobre la media como sobre la maldición de la multidimensionalidad.
+Podría pensarse que es una crítica a la teoría del hombre medio de Quetelet en tanto que niega la existencia de ese sujeto ideal. Pero lo que dice es una cosa sutilmente distinta:
+¿Cuántos pilotos estaban en la media (o a una distancia razonable de ella) en cada una de esas 10 dimensiones?</description>
+    </item>
+    
+    <item>
+      <title>Políticas y tarifas; medias y deciles</title>
+      <link>/2018/02/07/politicas-y-tarifas-medias-y-deciles/</link>
+      <pubDate>Wed, 07 Feb 2018 08:13:24 +0000</pubDate>
+      
+      <guid>/2018/02/07/politicas-y-tarifas-medias-y-deciles/</guid>
+      <description>Aviso: Esta entrada es altamente, puramente especulativa.
+Tiempo atrás, se tendía a ponderar el efecto de una política (p.e., la alteración de la tarifa de un servicio público o semipúblico) en términos de su impacto en un usuario medio. A lo Quetelet (en el mejor de los casos).
+Ahora está más de moda medirlo en términos de su impacto en el decil mas desgraciadico. A lo maxmin rawlsiano (en el mejor de los casos).</description>
+    </item>
+    
+    <item>
+      <title>Así se inventó el nudo gordiano del &#34;hombre medio&#34;</title>
+      <link>/2017/04/21/asi-se-invento-el-nudo-gordiano-del-hombre-medio/</link>
+      <pubDate>Fri, 21 Apr 2017 08:13:39 +0000</pubDate>
+      
+      <guid>/2017/04/21/asi-se-invento-el-nudo-gordiano-del-hombre-medio/</guid>
+      <description>Lo cuenta muy bien Todd Rose en How the Idea of a ‘Normal’ Person Got Invented.
+Hay tres grandes eras en la estadística moderna:
+ * La _queteliana_, resumida en la imagen del _hombre medio_: existe un prototipo sobre el que, tal vez, se consideran variaciones. Es decimonónica, pero colea. * La _kamediana_, que es una versión _pizza partida en ocho_ de la anterior. Es de mitad del siglo pasado y perdura en paleomentes.</description>
+    </item>
+    
+    <item>
+      <title>Las tres (o cuatro) eras de la estadística</title>
+      <link>/2017/01/24/las-tres-o-cuatro-eras-de-la-estadistica/</link>
+      <pubDate>Tue, 24 Jan 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/01/24/las-tres-o-cuatro-eras-de-la-estadistica/</guid>
+      <description>Las cosas, frecuentemente, son como son y no de otra manera, especulativamente, mejor por razones históricas. Es lo que hay. La respuesta a muchas preguntas es &amp;ldquo;porque A llegó antes que B&amp;rdquo;.
+La estadística (y particularmente, la que se enseña) es como es y no de otra manera, especulativamente, mejor, también por razones históricas. Por eso siempre pierdo algo de tiempo hablando (¡es uno de mis personajes favoritos del XIX!) de Quetelet y los suyos; luego, de Fisher y compañía; finalmente, de Efron y los demás.</description>
+    </item>
+    
+    <item>
+      <title>Clústering (III): sobresimplificación</title>
+      <link>/2011/08/03/clustering-iii-sobresimplificacion/</link>
+      <pubDate>Wed, 03 Aug 2011 07:04:20 +0000</pubDate>
+      
+      <guid>/2011/08/03/clustering-iii-sobresimplificacion/</guid>
+      <description>¿Quién fue el segundo hombre en pisar la luna? ¿Y el tercero? Aunque a veces pareciese lo contrario, ¿sabe que hay futbolistas que no son ni Ronaldo ni Messi? ¿Y otros ciclistas además de Contador e Induráin? ¿Y que la Fórmula 1 no se reduce a un tal Alonso?
+Diríase que por razones sicológicas, nuestro cerebro tiende a sobresimplificar, se siente cómodo con una representación escueta de la realidad, es reacio a los distingos y grises.</description>
+    </item>
+    
+  </channel>
+</rss>

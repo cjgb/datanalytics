@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Rutinas de C en R - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Rutinas de C en R" />
+<meta property="og:description" content="Esta entrada que ahora hago es un pequeño tutorial que publiqué en mi primera página de internet a principios de siglo, cuando todavía usaba Windows regularmente. Es posible que gran parte de lo que en ella cuente esté ya mandado a recoger. No obstante, tampoco hace tanto, eché mano de lo que en ella había dejado escrito para ver cómo migrar a Windows algo que había hecho en Linux y&hellip; todavía funcionó." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2010/09/26/rutinas-de-c-en-r/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2010-09-26T23:13:39&#43;00:00" />
+<meta property="article:modified_time" content="2010-09-26T23:13:39&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Rutinas de C en R</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2010-09-26T23:13:39Z">2010-9-26</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Esta entrada que ahora hago es un pequeño tutorial que publiqué en mi primera página de internet a principios de siglo, cuando todavía usaba Windows regularmente. Es posible que gran parte de lo que en ella cuente esté ya mandado a recoger. No obstante, tampoco hace tanto, eché mano de lo que en ella había dejado escrito para ver cómo migrar a Windows algo que había hecho en Linux y&hellip; todavía funcionó.</p>
+<p>Si tuviese más interés por desarrollar en Windows, le haría una buena revisión. No teniéndolo, vuelvo a hacer público lo que hubo, por lo que si alguien detectase en ello desactualización, error u omisión culposa, agradecería que me lo hiciera saber para poder corregirlo.</p>
+<p>Y, tras el preámbulo, hago comenzar la sustancia de la entrada:</p>
+<p>Esta documento explica cómo incorporar código compilado escrito C dentro de un programa interpretado de R. Una de las maneras de hacerlo, la que se explorará aquí, es invocando una DLL escrita en C.  Consta de los siguientes apartados:</p>
+<ol>
+<li>¿Qué es R?</li>
+<li>¿Para qué utilizar código compilado?</li>
+<li>¿Qué es una DLL?</li>
+<li>¿Cómo se crea una DLL?</li>
+<li>¿Cómo invoca R una DLL?</li>
+<li>Un ejemplo.</li>
+<li>¿Existen otros procedimientos para incorporar código compilado a R?</li>
+</ol>
+<h3 id="qué-es-r">¿Qué es R?</h3>
+<p><a href="http://www.r-project.org">R</a> es un lenguaje de programación específicamente concebido para aplicaciones estadísticas que viene acompañado de un conjunto de potentes herramientas gráficas, pudiendo rivalizar con <a href="http://www.sas.com">SAS</a> o <a href="http://www.spss.com">SPSS</a> en gran número de aplicaciones.  R es poderoso y flexible, suficiente, tal cual, para la mayor parte de problemas estadísticos habituales. Además, <a href="http://www.r-project.org">R puede ser descargado gratuitamente aquí</a>.</p>
+<h3 id="para-qué-utilizar-código-compilado">¿Para qué utilizar código compilado?</h3>
+<p>Es posible implementar en pocas líneas de R programas que en C involucrarían algunos cientos de ellas.  Además, los programas escritos en R reflejan de una manera más clara los algoritmos estadísticos que implementan, a diferencia de C, que tiende a desdibujarlos.  Y es infinitamente más fácil de depurar por ser un lenguaje interpretado.  Pero, a la vez, adolece de los problemas típicos de este tipo de lenguajes: es bastante ineficiente -desesperadamente, en ocasiones- para resolver problemas que exigen un alto coste computacional.</p>
+<p>Un programador de R curtido conoce los mecanismos que ofrece R -bastante numerosos, hay que decirlo- para evitar muchos de tales cuellos de botella.  Por ejemplo, puede resultar del orden de 100 veces más lento sumar las componentes de un vector mediante un bucle a hacerlo usando la función sum().  Desafortunadamente, para ciertas aplicaciones estas opciones no bastan.  La solución a este problema pasa, en muchos casos, por incorporar a los programas escritos en R rutinas escritas en otros lenguajes de programación compilados.</p>
+<p>Una de las posibilidades que contempla R es la de utilizar funciones contenidas en una DLL escrita en C y, precisamente, el objeto de esta página es el de explicar cómo construir la DLL y cómo crear el interfaz adecuado entre ella y R en un entorno Windows.</p>
+<h3 id="qué-es-una-dll">¿Qué es una DLL?</h3>
+<p>Una <a href="http://es.wikipedia.org/wiki/DLL">DLL</a> es, en traducción literal del acrónimo, una biblioteca -librería, dicen algunos- de enlace dinámico. Una DLL contiene -de hecho, consiste en- cierto número de funciones compiladas que no se ejecutan autónomamente -por ejemplo, al pinchar sobre ellas con el ratón- sino que son invocadas por otros programas.  Dentro de un fichero ejecutable -con extensión exe, por ejemplo- hay muchas funciones compiladas que pueden ser invocadas por el programa en cuestión.  Pero un programa también puede invocar funciones compiladas contenidas en un fichero externo.  Este fichero externo es una DLL.</p>
+<p>Un programa, para acceder a una de las funciones contenidas en una DLL necesita cargarla primero, es decir, solicitar al sistema operativo que la ubique en la memoria del ordenador.  Pero esto no tiene que ocurrir necesariamente cuando se ejecuta el programa, sino únicamente cuando se necesita por primera vez una de sus funciones.  Es típico, en ocasiones, detectar cierta demora en un programa al, por ejemplo, abrir por primera vez una ventana.  A veces, dicha demora viene acopañana de cierta actividad en el disco duro.  Es probable que eso se deba a que el programa está cargando la DLL encargada de gestionar la ventana en cuestión. En tales casos, a no ser que el programa descargue explícitamente la DLL, esta demora no ocurrirá en accesos sucesivos a dicha ventana.  Incluso, varios programas distintos pueden invocar una misma DLL.  Todo lo que necesitan saber es qué funciones contiene dicha DLL, cómo interactuar con ellas -es decir, qué parametros exigen, qué tipo de valores devuelven- y dónde se ubica dentro del árbol de ficheros del disco duro.</p>
+<p>Gracias a las DLLs, por lo tanto, los ficheros ejecutables pueden ser más pequeños y los programas más eficientes. El que varios de ellos puedan, en teoría, compartir DLLs comunes permite, además, un ahorro significativo en espacio de disco duro.  R, en Windows, aparte del fichero Rgui.exe con el que arranca, incorpora varias DLLs adicionales que puede invocar en un momento dado.  Además, sus diversos módulos -o bibliotecas, o librerías, de nuevo- pueden incluir sus propias DLLs.</p>
+<p>Finalmente, como se verá más adelante, R brinda la posibilidad al usuario de crear e incorporar sus propias DLLs, cargarlas y descargarlas a voluntad y acceder a las funciones que contienen mediante un conjunto específico de funciones.</p>
+<h3 id="cómo-se-crea-una-dll">¿Cómo se crea una DLL?</h3>
+<p>Todos los compiladores para Windows, que el autor conozca, incorporan la posibilidad de crear DLLs.  Los detalles varían de unos a otros y considerarlos en su conjunto entrañaría algunas dificultades técnicas que este breve manual quiere obviar.  Por eso se concentrará únicamente en el compilador para C -entre otros- de <a href="http://www.gnu.org">GNU</a> para Windows, <a href="http://www.mingw.org/">MinGW, que puede descargarse gratuitamente aquí</a>.</p>
+<p>Supóngase que se ha creado el fichero funciones.c que contiene una serie de funciones escritas en C que se desean invocar desde R.  Dichas funciones, por supuesto, deben atenerse a una serie de requisitos específicos que se explicitarán más adelante, pero, por el momento, y esto vale para cualquier aplicación, baste decir que el comando mínimo necesario para crear una DLL que se llame funciones.dll a partir de funciones.c utilizando el compilador MinGW que hay que introducir en la ventana de MS-DOS es</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-c" data-lang="c">gcc <span style="color:#f92672">-</span>shared <span style="color:#f92672">-</span>o funciones.dll funciones.c</code></pre></td></tr></table>
+</div>
+</div>
+<p>Por supuesto, tanto gcc, contenido en el directorio bin de donde quiera que se haya instalado MinGW, como el fichero funciones.c, han de estar visibles, es decir, o en el directorio en el que se ha tecleado el comando o dentro del path.  Estaría de más indicar que gcc admite comandos adicionales que pueden ser de interés en determinadas circunstancias.  El anterior es, se reitera, un comando mínimo: la opción -shared especifica que se está creando una DLL y -o indica que lo que le sigue, esto es, funciones.dll, es el nombre que se le ha querido dar.</p>
+<h3 id="cómo-se-invoca-una-dll">¿Cómo se invoca una DLL?</h3>
+<p>Supóngase que se ha creado funciones.dll de acuerdo con el procedimiento anterior.  Para poder acceder a las funciones que contiene, R tiene, en primera instancia, que cargar la DLL.  Esto se consigue mediante la función dyn.load().  Suponiendo que funciones.dll está contenida en el directorio C:/MisDLLs, basta teclear</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">dyn.load</span>(<span style="color:#e6db74">&#34;C:/MisDLLs/funciones.dll&#34;</span>)</code></pre></td></tr></table>
+</div>
+</div>
+<p>para cargarla.  Una vez deja de ser necesaria, se la puede descargar tecleando</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">dyn.unload</span>(<span style="color:#e6db74">&#34;C:/MisDLLs/funciones.dll&#34;</span>)</code></pre></td></tr></table>
+</div>
+</div>
+<p>Una vez cargada funciones.dll, si éste contiene una función denominada func1, se puede comprobar si en efecto está disponible tecleando</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">is.loaded</span>(<span style="color:#e6db74">&#34;func1&#34;</span>)</code></pre></td></tr></table>
+</div>
+</div>
+<p>que debería ser TRUE de haberse seguido los pasos anteriores.  Si funciones.dll ha sido compilada con un compilador distinto de MinGW, es bastante posible que is.loaded(&ldquo;func1&rdquo;) resulte ser FALSE porque muchos de ellos tienden a <em>decorar</em> el nombre de las funciones de las DLLs de una manera un tanto impredecible, de modo que func1 acaba llamándose _func1, _func1@4 o ?func1@@YDAOEW3N12KDAS.</p>
+<p>R no posee ningún comando capaz de enumerar las funciones accesibles dentro de una DLL.  Finalmente, para invocar la función func1 de funciones.dll, R utiliza la función .C -nombre que subraya el hecho de que sólo es válida para funciones escritas en C-, que implementa el interfaz requerido entre R y la DLL.  Dicho interfaz determina, por una parte, la sintaxis de la función .C e impone ciertas restricciones en la naturaleza de las funciones de la DLL.  Los aspectos fundamentales a tener en cuenta son:</p>
+<ul>
+<li>Cómo invoca .C a la función y cómo le transfiere datos.</li>
+<li>En particular, cómo asegura .C la compatibilidad del tipo de los datos transferidos.</li>
+<li>Cómo devuelve la función los resultados a .C.</li>
+<li>Cómo se accede desde R a los datos que la función <em>deposita</em> en .C.</li>
+</ul>
+<p>Pero estas cuestiones se discuten mejor frente a un ejemplo concreto.</p>
+<h3 id="un-ejemplo">Un ejemplo</h3>
+<p>Supóngase como arriba que el fichero funciones.c es</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-c" data-lang="c"><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">func1</span>(<span style="color:#66d9ef">double</span> <span style="color:#f92672">*</span>v1, <span style="color:#66d9ef">double</span> <span style="color:#f92672">*</span>v2, <span style="color:#66d9ef">int</span> <span style="color:#f92672">*</span>longitud, <span style="color:#66d9ef">double</span><span style="color:#f92672">*</span>producto){
+	<span style="color:#66d9ef">int</span> i;
+	<span style="color:#f92672">*</span>producto <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+	<span style="color:#66d9ef">for</span>(i <span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>; i <span style="color:#f92672">&lt;</span> <span style="color:#f92672">*</span>longitud; i<span style="color:#f92672">++</span>){
+	<span style="color:#f92672">*</span>producto <span style="color:#f92672">+=</span> v1[i]<span style="color:#f92672">*</span>v2[i]; }
+}</code></pre></td></tr></table>
+</div>
+</div>
+<p>Esta función implementa el producto escalar entre dos vectores de dimensión dada por *longitud que pasan por referencia a través de v1 y v2, devolviéndolo a través del puntero producto.  Si este fichero se compila como se indica más arriba para crear funciones.dll y se carga en R, el código</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-c" data-lang="c">a <span style="color:#f92672">&lt;-</span> rnorm(<span style="color:#ae81ff">14</span>)
+b <span style="color:#f92672">&lt;-</span> rnorm(<span style="color:#ae81ff">14</span>)
+producto <span style="color:#f92672">&lt;-</span> .C(<span style="color:#e6db74">&#34;func1&#34;</span>, as.<span style="color:#66d9ef">double</span>(a), as.<span style="color:#66d9ef">double</span>(b), as.integer(<span style="color:#ae81ff">14</span>), resultado<span style="color:#f92672">=</span><span style="color:#66d9ef">double</span>(<span style="color:#ae81ff">1</span>))<span style="color:#960050;background-color:#1e0010">$</span>resultado</code></pre></td></tr></table>
+</div>
+</div>
+<p>ubicará el producto vectorial de los vectores de dimensión 14 a y b en la variable producto. Hay que tener en cuenta -y son normativos, no meramente descriptivos de la situación anterior- los siguientes aspectos:</p>
+<ol>
+<li><code>func1</code> es una función de tipo <code>void</code>: toda transferencia de datos se realiza a través de sus parámetros; en el caso particular anterior, a través 	del último.</li>
+<li>Al pasar datos a la función, hay que forzar la compatibilidad de tipos entre los manejados por R y los que exige la función externa; así, el tipo double de R corresponde a double de C e integer de R a int de C. Una tabla más completa de equivalencias puede consultarse en la documentación de R.</li>
+<li><code>.C</code> devuelve una lista a R; para acceder a alguno de sus campos hay que darle un nombre, como se ha hecho en el ejemplo con resultado, y utilizarlo con combinación con el operador $ para transferirlo a una variable interna, producto, en este caso.</li>
+</ol>
+<h3 id="existen-otros-procedimientos-para-incorporar-código-compilado-a-r">¿Existen otros procedimientos para incorporar código compilado a R?</h3>
+<p>En efecto, las nuevas versiones de R incluyen métodos alternativos y más potentes para incorporar código compilado a R que permiten, por ejemplo, invocar desde C estructuras de datos o funciones de R.  Incluso es posible invocar funciones de R desde aplicaciones independientes escritas en C íntegramente. No obstante, estos procedimientos, aparte de exigir una implementación mucho más compleja, tienen una utilidad marginal puesto que su potencial campo de aplicación se solapa grandemente con aquél en que la combinación de código en R combinado o no con código en C como se describe más arriba es lo suficentemente eficiente.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/programaci%C3%B3n/" rel="tag">programación</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2010/09/25/tecnologias-de-la-informacion-2020/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Tecnologías de la información 2020</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2010/09/27/que-grafico-es-mejor/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">¿Qué gráfico es mejor?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

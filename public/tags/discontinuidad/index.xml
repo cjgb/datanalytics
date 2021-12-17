@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discontinuidad on datanalytics</title>
+    <link>/tags/discontinuidad/</link>
+    <description>Recent content in discontinuidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 28 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/discontinuidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qué métodos estadísticos utilizar si el pan de tus hijos depende de que las p sean pequeñajas</title>
+      <link>/2020/10/28/que-metodos-estadisticos-utilizar-si-el-pan-de-tus-hijos-depende-de-que-las-p-sean-pequenajas/</link>
+      <pubDate>Wed, 28 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/28/que-metodos-estadisticos-utilizar-si-el-pan-de-tus-hijos-depende-de-que-las-p-sean-pequenajas/</guid>
+      <description>Según Methods Matter: P-Hacking and Publication Bias in Causal Analysis in Economics, las variables instrumentales (para estas, en particular, véase esto) y las diferencias en diferencias:
+Es curioso que se estudie también la regresión con discontinuidades y que no acabe en el podio. Sospecho que es tan cantosa que no pasa los filtros de los editores y revisores.</description>
+    </item>
+    
+    <item>
+      <title>¡Son todos igualitos!</title>
+      <link>/2020/01/10/son-todos-igualitos/</link>
+      <pubDate>Fri, 10 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/10/son-todos-igualitos/</guid>
+      <description>Y me refiero a
+extraído de aquí y lo que escribí ayer sobre la regresión con discontinuidades.</description>
+    </item>
+    
+    <item>
+      <title>Regresiones con discontinuidad y grados de libertad</title>
+      <link>/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/</link>
+      <pubDate>Thu, 09 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/</guid>
+      <description>Muy falto de ideas para el blog tendría que estar para traer a la consideración de sus lectores
+que ilustra el resultado principal del artículo discutido aquí.
+Mario, un lector del artículo nos quita la palabra de la boca a todos:
+Y prosigue citando referencias, etc. A lo que el autor responde (con un par de pares de huevos):
+Colofón: El artículo que enlazo artículo resume otro, académico, que parece no existir pese a tal vez haber existido: el enlace está roto y la referencia al paper no figura ni en el CV del autor ni en Google Académico.</description>
+    </item>
+    
+    <item>
+      <title>¿Y si quitamos el puntico de arriba a la izquierda?</title>
+      <link>/2019/05/29/y-si-quitamos-el-puntico-de-arriba-a-la-izquierda/</link>
+      <pubDate>Wed, 29 May 2019 09:13:32 +0000</pubDate>
+      
+      <guid>/2019/05/29/y-si-quitamos-el-puntico-de-arriba-a-la-izquierda/</guid>
+      <description>Esta entrada es una illustración de otra de no hace mucho, Análisis de la discontinuidad + polinomios de grado alto = &amp;hellip; Mirad:
+Se ha hecho un análisis de la discontinuidad usando parábolas a ambos lados del punto de corte. Y la discontinuidad no es pequeña. Pero me juego un buen cacho de lo que quede de mi reputación a que mucho de ella la explica el puntico de arriba a la izquierda.</description>
+    </item>
+    
+  </channel>
+</rss>

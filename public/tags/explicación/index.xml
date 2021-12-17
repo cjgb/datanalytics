@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>explicación on datanalytics</title>
+    <link>/tags/explicaci%C3%B3n/</link>
+    <description>Recent content in explicación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 14 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/explicaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explicación de los scorings de &#34;ciertos&#34; modelos</title>
+      <link>/2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/</link>
+      <pubDate>Wed, 14 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/</guid>
+      <description>Esta entrada la hago por petición popular y para rematar de alguna manera lo que incoé hace unos días. Seré breve hasta lo telegráfico:
+ Tomo las observaciones con scorings más altos (en un árbol construido con ranger y cariño). 2. Veo cuáles son los árboles que les asignan scorings más altos. 3. Anoto las variables implicadas en las ramas por donde bajan las observaciones (1) en los árboles (2). 4.</description>
+    </item>
+    
+    <item>
+      <title>Explicación de modelos como procedimiento para aportar valor a un &#34;scoring&#34;</title>
+      <link>/2020/10/09/explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring/</link>
+      <pubDate>Fri, 09 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/09/explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring/</guid>
+      <description>El principal asunto preambular en todo lo que tiene que ver con la explicación de modelos es ético (ético en la versión ñoña de la palabra, hay que dejar claro). Pero tiene sentido utilizar técnicas de explicación de modelos para aportarles valor añadido. En particular, un modelo puede proporcionar un determinado scoring, pero se le puede pedir más: se le puede pedir una descripción de los motivos que justifican ese scoring, particularísimanete, en los casos más interesantes: los valores más altos / bajos.</description>
+    </item>
+    
+    <item>
+      <title>Explicación de modelos</title>
+      <link>/2020/06/12/explicacion-de-modelos/</link>
+      <pubDate>Fri, 12 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/12/explicacion-de-modelos/</guid>
+      <description>Este es el primer año en el que en mi curso de ciencia de datos (hasta ahora en el EAE; a partir del año que viene, vaya uno a saber si y dónde) introduzco una sección sobre explicación de modelos.
+Hay quienes sostienen que, mejor que crear un modelo de caja negra y tratar luego de explicar las predicciones, es recomendable comenzar con un modelo directamente explicable (p.e., un GLM). Por mucha razón que traigan, vox clamantis in deserto: hay y seguirá habiendo modelos de caja negra por doquier.</description>
+    </item>
+    
+    <item>
+      <title>La gramática del análisis explicativo interactivo de modelos</title>
+      <link>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</link>
+      <pubDate>Thu, 14 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</guid>
+      <description>Así vendría a traducirse el título de este artículo, que trata de taxonomizar y sistematizar una serie de técnicas muy recientes para explicar modelos de caja negra.
+Tal vez no acabe siendo la manera pero, sin duda, acabará habiendo una.</description>
+    </item>
+    
+  </channel>
+</rss>

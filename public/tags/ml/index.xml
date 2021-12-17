@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ml on datanalytics</title>
+    <link>/tags/ml/</link>
+    <description>Recent content in ml on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rarezas: ML algebraico</title>
+      <link>/2020/07/24/rarezas-ml-algebraico/</link>
+      <pubDate>Fri, 24 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/24/rarezas-ml-algebraico/</guid>
+      <description>Alguien (¡gracias!) me pasa Algebraic Machine Learning, que abunda sobre lo que escribí hace varios años. Confieso no haber entendido gran cosa en una primera (y última) lectura diagonal, pero tal vez alguno de mis lectores sí.</description>
+    </item>
+    
+    <item>
+      <title>Explicación de modelos</title>
+      <link>/2020/06/12/explicacion-de-modelos/</link>
+      <pubDate>Fri, 12 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/12/explicacion-de-modelos/</guid>
+      <description>Este es el primer año en el que en mi curso de ciencia de datos (hasta ahora en el EAE; a partir del año que viene, vaya uno a saber si y dónde) introduzco una sección sobre explicación de modelos.
+Hay quienes sostienen que, mejor que crear un modelo de caja negra y tratar luego de explicar las predicciones, es recomendable comenzar con un modelo directamente explicable (p.e., un GLM). Por mucha razón que traigan, vox clamantis in deserto: hay y seguirá habiendo modelos de caja negra por doquier.</description>
+    </item>
+    
+    <item>
+      <title>Diapositivas de &#34;Antikaggle: contra la homeopatía de datos&#34;</title>
+      <link>/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/</link>
+      <pubDate>Mon, 13 Feb 2017 08:13:14 +0000</pubDate>
+      
+      <guid>/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/</guid>
+      <description>He colgado las diapositivas de Antikaggle: contra la homeopatía de datos. Sobre todo, para que aquellos que aún conserven la pasión por saber más puedan visitar los enlaces que recopilé y que figuran en ella.
+El vídeo, se dice, aparecerá pronto. Sin él, las diapositivas, puro soporte visual, quedan huérfanas.
+Tema, tono y contenid son premeditadamente polémicos; las consecuencias, previsibles. Fe de ello dan los comentarios de los asistentes.</description>
+    </item>
+    
+    <item>
+      <title>Conferencia de APis predictivas en Valencia (14-15 de Marzo de 2016)</title>
+      <link>/2016/01/07/conferencia-de-apis-predictivas-en-valencia-14-15-de-marzo-de-2016/</link>
+      <pubDate>Thu, 07 Jan 2016 08:13:16 +0000</pubDate>
+      
+      <guid>/2016/01/07/conferencia-de-apis-predictivas-en-valencia-14-15-de-marzo-de-2016/</guid>
+      <description>Los días 14 y 15 de marzo de este año tendrá lugar en Valencia esta conferencia sobre APIs predictivas. Según los organizadores,
+Se puede encontrar más información en este enlace y el en canal de Youtube de las conferencias.</description>
+    </item>
+    
+  </channel>
+</rss>

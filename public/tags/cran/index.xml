@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cran on datanalytics</title>
+    <link>/tags/cran/</link>
+    <description>Recent content in cran on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 21 May 2019 09:13:54 +0000</lastBuildDate><atom:link href="/tags/cran/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué puede colgar de un árbol?</title>
+      <link>/2019/05/21/que-puede-colgar-de-un-arbol/</link>
+      <pubDate>Tue, 21 May 2019 09:13:54 +0000</pubDate>
+      
+      <guid>/2019/05/21/que-puede-colgar-de-un-arbol/</guid>
+      <description>Predicciones puntuales:
+O (sub)modelos:
+Y parece que ahora también distribuciones:
+Notas:
+ Obviamente, la clasificación anterior no es mutuamente excluyente. * La tercera gráfica está extraída de Transformation Forests, un artículo donde se describe el paquete trtf de R. * Los autores dicen que [r]egression models for supervised learning problems with a continuous target are commonly understood as models for the conditional mean of the target given predictors. ¿Vosotros lo hacéis así?</description>
+    </item>
+    
+    <item>
+      <title>CRAN, r-devel, GitHub, Travis CI, pruebas automáticas y todo eso</title>
+      <link>/2015/12/17/cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso/</link>
+      <pubDate>Thu, 17 Dec 2015 08:13:13 +0000</pubDate>
+      
+      <guid>/2015/12/17/cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso/</guid>
+      <description>Estoy harto. La gente de CRAN me devolvió (con errores) un paquete que trataba de subir. Había hecho el prescriptivo
+R CMD check --as-cran etc.
+y el log era una patena. Pero había un par de NOTES al pasar el test sobre la versión de desarrollo de R, r-devel. No solo hay que probar los paquetes en la versión que hay sino también en la que vendrá (tal y como está docuentado).</description>
+    </item>
+    
+    <item>
+      <title>Coclustering con blockcluster</title>
+      <link>/2014/08/01/coclustering-con-blockcluster/</link>
+      <pubDate>Fri, 01 Aug 2014 07:13:18 +0000</pubDate>
+      
+      <guid>/2014/08/01/coclustering-con-blockcluster/</guid>
+      <description>Guardo desde hace un tiempo el enlace al paquete blockcluster de R que igual puede ser del interés de alguno de mis lectores.
+No lo he probado pero sospecho que cualquier día me puede sacar de un apuro. Implementa lo que dice, el coclústering, concepto que se explica mejor, como el efecto de las dietas milagrosas, con la foto del antes y el después:
+
+Esto es: la entrada es una matriz y la salida es una matriz reorganizada tanto en sus filas como en sus columnas en la que se han detectado bloques homogéneos.</description>
+    </item>
+    
+    <item>
+      <title>Disponible una nueva versión de MicroDatosEs</title>
+      <link>/2014/06/27/disponible-una-nueva-version-de-microdatoses/</link>
+      <pubDate>Fri, 27 Jun 2014 07:46:29 +0000</pubDate>
+      
+      <guid>/2014/06/27/disponible-una-nueva-version-de-microdatoses/</guid>
+      <description>Acabo de subir a CRAN una nueva versión de MicroDatosEs, un paquete para procesar automáticamente en R ficheros de microdatos públicos españoles.
+A los cambios y mejoras a los que me referí el otro día, esta nueva versión añade otras, obra de Carlos Neira, que es ahora contribuidor oficial del paquete.
+Carlos también contribuyó a detectar y corregir un error inducido por el INE, que cambió el formato del fichero introduciendo una nueva variable sin aviso previo.</description>
+    </item>
+    
+  </channel>
+</rss>

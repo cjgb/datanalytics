@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>incrementalidad on datanalytics</title>
+    <link>/tags/incrementalidad/</link>
+    <description>Recent content in incrementalidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 30 Jul 2014 07:13:24 +0000</lastBuildDate><atom:link href="/tags/incrementalidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incrementalidad via particionamiento recursivo basado en modelos</title>
+      <link>/2014/07/30/incrementalidad-via-particionamiento-recursivo-basado-en-modelos/</link>
+      <pubDate>Wed, 30 Jul 2014 07:13:24 +0000</pubDate>
+      
+      <guid>/2014/07/30/incrementalidad-via-particionamiento-recursivo-basado-en-modelos/</guid>
+      <description>Planteas un modelo tal como resp ~ treat y no encuentras diferencia significativa. O incluso puede ser negativa. Globalmente.
+La pregunta es, con el permiso del Sr. Simpson (o tal vez inspirados por él), ¿existirá alguna región del espacio en la que el tratamiento tiene un efecto beneficioso? Puede que sí. Y de haberla, ¿cómo identificarla?
+De eso hablo hoy aquí. E incluyo una protorespuesta.
+Primero, genero datos:
+n &amp;lt;- 20000 v1 &amp;lt;- sample(0:1, n, replace = T) v2 &amp;lt;- sample(0:1, n, replace = T) v3 &amp;lt;- sample(0:1, n, replace = T) treat &amp;lt;- sample(0:1, n, replace = T) y &amp;lt;- v1 + treat * v1 * v2 y &amp;lt;- exp(y) / (1 + exp(y)) y &amp;lt;- sapply(y, function(x) rbinom(1,1,x)) dat &amp;lt;- data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>esl on datanalytics</title>
+    <link>/tags/esl/</link>
+    <description>Recent content in esl on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 12 Jan 2012 23:14:47 +0000</lastBuildDate><atom:link href="/tags/esl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Localidad, globalidad y maldición de la dimensionalidad</title>
+      <link>/2012/01/13/localidad-globalidad-y-maldicion-de-la-dimensionalidad/</link>
+      <pubDate>Thu, 12 Jan 2012 23:14:47 +0000</pubDate>
+      
+      <guid>/2012/01/13/localidad-globalidad-y-maldicion-de-la-dimensionalidad/</guid>
+      <description>Escribo hoy al hilo de una pregunta de la lista de correo de quienes estamos leyendo The elements of statistical learning.
+Hace referencia a la discusión del capítulo 2 del libro anterior en el que trata:
+ * El compromiso (_trade off_) entre el sesgo y la varianza de los modelos predictivos. * Cómo los modelos _locales_ (como los k-vecinos) tienden a tener poco sesgo y mucha varianza. * Cómo los modelos globales (como los de regresión) tienden a tener poca varianza y mucho sesgo.</description>
+    </item>
+    
+    <item>
+      <title>Comienza la lectura de “The Elements of Statistical Learning”</title>
+      <link>/2012/01/09/comienza-la-lectura-de-%e2%80%9cthe-elements-of-statistical-learning%e2%80%9d/</link>
+      <pubDate>Mon, 09 Jan 2012 11:53:28 +0000</pubDate>
+      
+      <guid>/2012/01/09/comienza-la-lectura-de-%e2%80%9cthe-elements-of-statistical-learning%e2%80%9d/</guid>
+      <description>Mediante la presente, notifico a los interesados en la lectura de “The Elements of Statistical Learning” que esta semana tenemos que dar cuenta de los capítulos 1 (que es una introducción muy ligera) y 2 (donde comienza el tomate realmente).
+Esta noche Juanjo Gibaja y yo estudiaremos la mecánica de lectura en común.
+Los interesados pueden escribirme a cgb@datanalytics.com para, de momento, crear una lista de correo.</description>
+    </item>
+    
+    <item>
+      <title>¿Nos leemos &#34;The Elements of Statistical Learning&#34; de tapa a tapa?</title>
+      <link>/2011/12/23/nos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/</link>
+      <pubDate>Fri, 23 Dec 2011 07:13:32 +0000</pubDate>
+      
+      <guid>/2011/12/23/nos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/</guid>
+      <description>Propone Juan José Gibaja como propósito intelectual para el año nuevo el leer The Elements of Statistical Learning —libro que puede descargarse gratuita y legalmente del enlace anterior— de tapa a tapa, en grupo y a razón de capítulo por semana.
+
+La idea es hacerlo en común, enlazando el contenido del libro con código —sea disponible o de nuevo cuño cuando la situación lo requiera— y haciendo públicos las ideas que resulten de esta lectura en una red de bitácoras (a la que esta pertenecería).</description>
+    </item>
+    
+  </channel>
+</rss>

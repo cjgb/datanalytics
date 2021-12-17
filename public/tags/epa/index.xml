@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epa on datanalytics</title>
+    <link>/tags/epa/</link>
+    <description>Recent content in epa on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Oct 2017 08:13:16 +0000</lastBuildDate><atom:link href="/tags/epa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rOpenSpain: ahí tiro el guante</title>
+      <link>/2017/10/11/ropenspain-ahi-tiro-el-guante/</link>
+      <pubDate>Wed, 11 Oct 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/10/11/ropenspain-ahi-tiro-el-guante/</guid>
+      <description>La gente de rOpenSci hace cosas a las que merece la pena atento. Tanto por los objetivos como por medios y las formas. Recomiendo seguir sus últimas publicaciones acerca de la profesionalización del proceso de desarrollo de código.
+Llevo unos meses jugando con una idea inspirada por rOpenSci: crear un respositorio y un consorcio más o menos formal que desarrolle, mantenga y mejore herramientas (en R) de interés para el procesamiento y análisis de datos ya no científicos sino españoles.</description>
+    </item>
+    
+    <item>
+      <title>El guión de mi charla sobre microdatos</title>
+      <link>/2016/11/22/el-guion-de-mi-charla-sobre-microdatos/</link>
+      <pubDate>Tue, 22 Nov 2016 08:13:25 +0000</pubDate>
+      
+      <guid>/2016/11/22/el-guion-de-mi-charla-sobre-microdatos/</guid>
+      <description>No auncié mi pequeña charla/taller del sábado pasado sobre microdatos porque la sala tenía un aforo ínfimo y en el Meetup correspondiente había lista de espera.
+Pero cuelgo el material (que es un guión; no hay presentación) por si a alguien le resulta útil.</description>
+    </item>
+    
+    <item>
+      <title>Cualquier parecido con la realidad es pura coincidencia</title>
+      <link>/2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/</link>
+      <pubDate>Thu, 14 May 2015 08:13:21 +0000</pubDate>
+      
+      <guid>/2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/</guid>
+      <description>@adolflow (en persona) viene hoy y me dice si lo he visto. ¿Qué cosa? Se refiere a lo que han publicado en El Español, España en Cifras. Lo miro por encima y encuentro
+
+¡Tasa de paro municipal! Lo siento, @adolflow, pero tal cosa no existe. No, no es que los datos sean secretos, no sean transparentes, no sean reutilizables. Es, simplemente, que no existe.
+¿Peros?
+No, no hay peros. Fijáte: hay 8000 municipios y la EPA se basa en una encuesta de unos 60000 hogares.</description>
+    </item>
+    
+    <item>
+      <title>¿13.100 más/menos cuántos parados menos?</title>
+      <link>/2015/04/24/el-sujeto-numero-82694/</link>
+      <pubDate>Fri, 24 Apr 2015 08:13:42 +0000</pubDate>
+      
+      <guid>/2015/04/24/el-sujeto-numero-82694/</guid>
+      <description>¿Cuál es la cifra de variación del número de parados de la que hablan la última EPA y los medios? 13100.
+¿Más menos cuánto? Según el INE, el error de muestreo relativo, $latex \sqrt{V(\hat{\sigma}}$ a nivel nacional en términos porcentuales es
+
+Es decir, el intervalo de confianza para la cifra de parados tendría una anchura como de 100k sujetos. Obviamente, eso impide calcular variaciones de un orden de magnitud menor.</description>
+    </item>
+    
+    <item>
+      <title>Ruido en las estadísticas oficiales</title>
+      <link>/2014/12/09/ruido-en-las-estadisticas-oficiales/</link>
+      <pubDate>Tue, 09 Dec 2014 07:13:20 +0000</pubDate>
+      
+      <guid>/2014/12/09/ruido-en-las-estadisticas-oficiales/</guid>
+      <description>Hacía tiempo que no hablaba de este tema. Pero han salido de mi LIFO de artículos potencialmente interesantes dos a los que merece la pena echar un ojo. El primero, este, arranca con
+e incluye un ejemplo estupendo de buenas prácticas:
+
+Se trata de un gráfico elaborado por el Banco de Inglaterra en el que las cifras del PIB incluyen bandas de error no solo en las proyecciones sino también en los valores históricos (y observados).</description>
+    </item>
+    
+    <item>
+      <title>Ni-nis y estados transitorios</title>
+      <link>/2014/07/22/ni-nis-y-estados-transitorios/</link>
+      <pubDate>Tue, 22 Jul 2014 07:13:35 +0000</pubDate>
+      
+      <guid>/2014/07/22/ni-nis-y-estados-transitorios/</guid>
+      <description>Imaginemos un país feliz en el que mucha gente trabaja durante dos años y luego se toma un mes para buscar otro trabajo mejor. ¿Cuál sería su tasa de paro? Del 4 %: la gente pasaría en el paro uno de cada 25 meses. Ese estado transitorio de un mes se manifestaría así en la EPA de dicho país, como un stock de desempleados.
+Descrita como flujo, la situación parecería propicia.</description>
+    </item>
+    
+    <item>
+      <title>Facetas para entender, tal vez, la evolución del paro</title>
+      <link>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</link>
+      <pubDate>Thu, 17 Jul 2014 07:13:54 +0000</pubDate>
+      
+      <guid>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</guid>
+      <description>La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas URLs que tienen pinta de cambiar con cualquier soplo (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los datos a día de hoy.
+También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena y o mala.</description>
+    </item>
+    
+    <item>
+      <title>Nueva versión de MicroDatosEs: héroes, villanos y mejoras</title>
+      <link>/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/</link>
+      <pubDate>Wed, 14 May 2014 07:00:28 +0000</pubDate>
+      
+      <guid>/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/</guid>
+      <description>Ayer odié mucho a José Luis Cañadas —que sigue no obstante siendo amigo: véase más abajo— por esto:
+Hubiera preferido reservarme la primicia para todos sus usuarios y simpatizantes de la nueva versión del paquete MicroDatosEs recién subida a CRAN pero&amp;hellip; en fin.
+De todos modos José Luis no es el villano de la historia. El villano es el INE, que parió en la mañana del 29 de abril los nuevos resultados de la EPA con un cambio retroactivo de formato en los ficheros de microdatos que rompió mis funciones justo cuando más falta hacían.</description>
+    </item>
+    
+    <item>
+      <title>¿Dónde estoy? ¿Dónde estaré?</title>
+      <link>/2014/02/17/donde-estoy-donde-estare/</link>
+      <pubDate>Mon, 17 Feb 2014 07:47:33 +0000</pubDate>
+      
+      <guid>/2014/02/17/donde-estoy-donde-estare/</guid>
+      <description>Me hace cierta gracia leer _España: El éxodo en cifras. Desaparecen 1,7 millones de personas entre los 16 y los 39 años _. El artículo razona alrededor de la tabla
+
+y se pregunta a dónde ha ido la gente que está en rojo: la población activa en los tramos de edad de entre los 16 y los 29 años y entre los 30 y los 39. Aquí en Zúrich estoy rodeado de un buen número de los faltantes.</description>
+    </item>
+    
+    <item>
+      <title>Cómo no restar números fuzzy</title>
+      <link>/2014/01/24/como-no-restar-numeros-fuzzy/</link>
+      <pubDate>Fri, 24 Jan 2014 08:06:40 +0000</pubDate>
+      
+      <guid>/2014/01/24/como-no-restar-numeros-fuzzy/</guid>
+      <description>Esta entrada viene motivada por varios asuntos relacionados que me han sucedido en los últimos tiempos. El primero es un colega que me preguntó sobre si el paro había subido o bajado comparando datos de un par de trimestres.
+La respuesta prima facie es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error.</description>
+    </item>
+    
+    <item>
+      <title>La EPA, en Materia (y otros medios)</title>
+      <link>/2013/07/16/la-epa-en-materia-y-otros-medios/</link>
+      <pubDate>Tue, 16 Jul 2013 07:52:48 +0000</pubDate>
+      
+      <guid>/2013/07/16/la-epa-en-materia-y-otros-medios/</guid>
+      <description>Ha salido publicado recientemente un artículo en Materia sobre la EPA. Abunda sobre los temas que traté en una charla anterior. Y agradezco a su autor, Daniel Mediavilla tanto el haberse interesado por el asunto como el mencionarme en el artículo.
+El artículo ha sido reproducido en otros medios, como elDiario.es y El Economista.
+Puede que el titular (¡ah!, esa manía de los periodistas por el titular) invite a interpretaciones que poco tienen que ver con el contenido y la intención del texto.</description>
+    </item>
+    
+    <item>
+      <title>Vídeo de la charla sobre la EPA (y más cosas) en Medialab Prado</title>
+      <link>/2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/</link>
+      <pubDate>Wed, 26 Jun 2013 07:04:33 +0000</pubDate>
+      
+      <guid>/2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/</guid>
+      <description>Ya ha salido publicado el vídeo de la charla sobre la EPA (y más cosas) que anuncié el otro día.</description>
+    </item>
+    
+    <item>
+      <title>Hablaré de la EPA (y más cosas) en Medialab Prado</title>
+      <link>/2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/</link>
+      <pubDate>Mon, 17 Jun 2013 07:47:13 +0000</pubDate>
+      
+      <guid>/2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/</guid>
+      <description>Este miércoles (2013-06-19 en formato ISO 8601: a ver si os vais acostumbrando a él de una bendita vez) hablaré en MediaLab Prado sobre la EPA y más cosas.
+Va a ser una charla enteramente antiinstitucional y subversiva. Voy a tratar de abrir varias cajas de Pandora y liberar los correspondientes demonios. Y no voy a tener piedad con las neuronas de los asistentes: quienes acudan, que traigan unos sudokus hechos de casa a modo de calentamiento.</description>
+    </item>
+    
+    <item>
+      <title>Todo lo que Vd. siempre quiso saber sobre la EPA (etc.)</title>
+      <link>/2013/04/26/todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc/</link>
+      <pubDate>Fri, 26 Apr 2013 07:45:11 +0000</pubDate>
+      
+      <guid>/2013/04/26/todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc/</guid>
+      <description>¿A quién considera la EPA con trabajo?
+Esencialmente, a aquellas _personas que durante la semana de referencia hayan trabajado, incluso de forma esporádica u ocasional, al menos una hora a cambio de un sueldo, salario u otra forma de retribución conexa, en metálico o en especie. _
+También se suman a la lista aquellas personas que, aunque no hayan trabajado durante esa semana, mantengan un estrecho vínculo con su puesto de trabajo (por ejemplo, porque están de vacaciones o disfrutan de una baja médica).</description>
+    </item>
+    
+    <item>
+      <title>Estadísticas oficiales alternativas</title>
+      <link>/2013/02/25/estadisticas-oficiales-alternativas/</link>
+      <pubDate>Mon, 25 Feb 2013 07:26:34 +0000</pubDate>
+      
+      <guid>/2013/02/25/estadisticas-oficiales-alternativas/</guid>
+      <description>Me reconozco entusiasta de la heterodoxia. Allá donde hay comunión de pensamiento, siento la necesidad imperativa de abrir las ventanas y orear el ambiente. Y en pocos ámbitos la hay menos que en el de las estadísticas oficiales, que se toman como trasunto mismo de la realidad que aspiran a medir.
+Por eso traigo a estas páginas la mención a Shadow Government Statistics, un portal que proporciona medidas alternativas de las principales magnitudes macroeconómicas (de los EE.</description>
+    </item>
+    
+    <item>
+      <title>Voy a partir una lanza a favor de Rosell a cuenta de la EPA</title>
+      <link>/2013/02/11/voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa/</link>
+      <pubDate>Mon, 11 Feb 2013 07:54:16 +0000</pubDate>
+      
+      <guid>/2013/02/11/voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa/</guid>
+      <description>Voy a partir una lanza a favor de Rosell. Aunque algún colega luego me quiera fusilar. Espero que lo podamos discutir todo luego amigablemente sea acá o en otros foros igualmente civilizados.
+Las encuestas tienen algo de mágico. Parecen una versión revivida de los antiguos oráculos. No deja de sorprender que sea posible conocer la opinión de millones de personas preguntando a un par de miles de ellas, ¿verdad?
+Además, los resultados de muchas encuestas se agotan en sí mismos: qué porcentaje de la gente opina esto o lo otro.</description>
+    </item>
+    
+    <item>
+      <title>Tu tasa de paro personal</title>
+      <link>/2013/01/24/tu-tasa-de-paro-personal/</link>
+      <pubDate>Thu, 24 Jan 2013 13:50:39 +0000</pubDate>
+      
+      <guid>/2013/01/24/tu-tasa-de-paro-personal/</guid>
+      <description>En el pasado nos hemos ocupado en estas páginas del desempleo. Hoy, día en el que se han anunciado los datos de la EPA del último trimestre de 2012, sale a la luz TTParo.es, un proyecto en el que he colaborado (aunque en el que todo lo que se ve es obra de Kaleidos) y que permite calcular tu tasa de paro personal.
+Por ejemplo, en
+
+puedo ver la evolución de la tasa de paro de aquellos que son como yo desde el 2005 y compararla con la general.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre variaciones insignificantes en estadísticas públicas</title>
+      <link>/2012/12/04/mas-sobre-variaciones-insignificantes-en-estadisticas-publicas/</link>
+      <pubDate>Tue, 04 Dec 2012 07:56:48 +0000</pubDate>
+      
+      <guid>/2012/12/04/mas-sobre-variaciones-insignificantes-en-estadisticas-publicas/</guid>
+      <description>Hemos talado cantidad de montes y destruido el ecosistema de miles de ardillas para fabricar el papel sobre el que discutir asuntos totalmente irrelevantes. Hablé un poco de eso hace unos días y más en ocasiones anteriores, como esta y alguna más que me da pereza ubicar.
+Ahora leo en Significance cómo protesta Mark Fransham:
+El titular no aportaba información sobre el error muestral asociado, pero en una de las tablas del informe encontré cómo el cambio trimestral era de -50,000 +/-89,000.</description>
+    </item>
+    
+    <item>
+      <title>¿... coma cero dos por ciento? ¡Anda ya!</title>
+      <link>/2012/11/28/coma-cero-dos-por-ciento-anda-ya/</link>
+      <pubDate>Wed, 28 Nov 2012 06:52:41 +0000</pubDate>
+      
+      <guid>/2012/11/28/coma-cero-dos-por-ciento-anda-ya/</guid>
+      <description>Hoy hablo en la reunión del grupo de usuarios de R de Madrid. Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi paquete MicroDatosEs y voy a aprovechar para criticar, en mi estilo, enunciados como
+que pueden encontrarse en la nota de prensa del INE que resume los resultados de la última encuesta de población activa, la del tercer trimestre de 2012.</description>
+    </item>
+    
+    <item>
+      <title>Un paseo por el paquete MicroDatosEs (y la EPA, de nuevo)</title>
+      <link>/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/</link>
+      <pubDate>Mon, 06 Aug 2012 07:31:47 +0000</pubDate>
+      
+      <guid>/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/</guid>
+      <description>En esta entrada voy a ilustrar el uso del paquete MicroDatosEs que anuncié el otro día. Como indiqué entonces, de momento sólo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
+Como todavía no están disponibles los del segundo trimestre del 2012, utilizaré los del primero. Para ello, hay que ir a las páginas del INE y seleccionar el fichero correspondiente al primer trimestre de 2012 (que los impacientes pueden descargar directamente de su enlace directo).</description>
+    </item>
+    
+    <item>
+      <title>El paro, ¿cosa de hombres?</title>
+      <link>/2012/07/16/el-paro-cosa-de-hombres/</link>
+      <pubDate>Mon, 16 Jul 2012 07:52:33 +0000</pubDate>
+      
+      <guid>/2012/07/16/el-paro-cosa-de-hombres/</guid>
+      <description>Está de moda hablar de paro. Pero las discusiones al respecto adolecen de una serie de carencias:
+ * Son excesivamente retrospectivas: nos aburren con la serie temporal, lo que pasó en 2003, en 1995 y otras fechas ya amortizadas. * Tienen un sesgo administrativo: honestamente, lo que pase en Andalucía importa (o debería importar) poco a un andaluz que acaba de graduarse y busca su primer empleo. Además de que existen opciones fuera de las distintas comunidades autónomas, no hay un mercado de trabajo sino cientos de mercados de trabajo estancos dentro de cada una de ellas.</description>
+    </item>
+    
+    <item>
+      <title>Edad, nivel de formación, sexo y paro</title>
+      <link>/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/</link>
+      <pubDate>Thu, 12 Jul 2012 07:05:42 +0000</pubDate>
+      
+      <guid>/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/</guid>
+      <description>No sé si alguien podrá ayudarme con este gráfico que he hecho con Mondrian:
+
+Está construido a partir de los microdatos de la última EPA e indica el porcentaje de parados (resaltado en verde) dentro de las siguientes tres categorías:
+ * Tramos de edad (ordenados) * Nivel de estudios (desde los que no han completado la primaria hasta los universitarios) * Sexos  Desafortunadamente, he perdido las etiquetas. ¿Podría alguno de mis lectores ayudarme a identificar a qué categoría pertenece cada barra?</description>
+    </item>
+    
+    <item>
+      <title>Medias de medias... ¿a estas alturas de siglo?</title>
+      <link>/2011/11/03/medias-de-medias-alturas-siglo/</link>
+      <pubDate>Thu, 03 Nov 2011 06:26:46 +0000</pubDate>
+      
+      <guid>/2011/11/03/medias-de-medias-alturas-siglo/</guid>
+      <description>Lo sospechaba y ha resultado ser cierto: media de medias. ¡Carajo! El siguiente gráfico que compara la tasa media de paro entre el norte y el sur de España está extraído de El Economista:
+
+¿Cómo se han calculado los porcentajes? Veámoslo (a partir de los datos que aparecen en el artículo); para el sur, promedia las tasas de paro de cada comunidad autónoma así:
+1 2  mean( c( 30.</description>
+    </item>
+    
+  </channel>
+</rss>

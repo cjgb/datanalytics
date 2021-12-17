@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>varimax on datanalytics</title>
+    <link>/tags/varimax/</link>
+    <description>Recent content in varimax on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Apr 2014 07:50:42 +0000</lastBuildDate><atom:link href="/tags/varimax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Varimax: lo que se gana, lo que se pierde</title>
+      <link>/2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/</link>
+      <pubDate>Wed, 02 Apr 2014 07:50:42 +0000</pubDate>
+      
+      <guid>/2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/</guid>
+      <description>Hoy hablaremos de exploratory factorial analysis y en particular aprovecharé para dejar constancia de que dejo resuelta una duda que siempre me ha dado pereza resolver: qué se pierde —lo que se gana ya nos lo han contado por doquier— al realizar una rotación varimax.
+Comencemos. Primero, voy a realizar un análisis factorial (exploratorio) basándome en ?varimax:
+fa &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/factanal&amp;quot;&amp;gt;factanal( ~., 2, data = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/datasets/swiss&amp;quot;&amp;gt;swiss, rotation = &amp;quot;none&amp;quot;) fa # Call: # factanal(x = ~.</description>
+    </item>
+    
+  </channel>
+</rss>

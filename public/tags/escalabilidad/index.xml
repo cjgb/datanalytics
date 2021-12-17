@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>escalabilidad on datanalytics</title>
+    <link>/tags/escalabilidad/</link>
+    <description>Recent content in escalabilidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 22 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/escalabilidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escalabilidad (y estructuras cooperativas)</title>
+      <link>/2020/06/22/escalabilidad-y-estructuras-cooperativas/</link>
+      <pubDate>Mon, 22 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/22/escalabilidad-y-estructuras-cooperativas/</guid>
+      <description>Esta entrada es una breve nota (en parte, para mí) sobre On the Scalability of Cooperative Structures, un artículo sobre lo que el título indica (sí, que existen estructuras cooperativas como, p.e., las cooperativas o determinados sistemas políticos defendidos desde ciertas posiciones ideológicas, que tienen muy serios problemas de escalabilidad) y que a pesar de su interés no cabría en estas páginas si no fuese por este parrafito:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>estadística - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="estadística" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/categories/estad%C3%ADstica/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/categories/estad%C3%ADstica/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">estadística</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/12/12/un-muy-cuestinoable-analisis-de-lo-de-pisa/" rel="bookmark">
+			Un muy cuestionable análisis de lo de PISA
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-12-12T08:13:00Z">2016-12-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Voy a realizar un más que cuestionable (debajo desgranaré los caveats) de los resultados de las pruebas PISA del 2015 en España.
+Primero, datos y métodos. Los primeros (y las descripciones de las variables) se pueden bajar de aquí. En cuanto a los segundos, he consultado esto (que me ha llevado a), esto y esto (donde está actualizado para los resultados de la última oleada). Hablaré más de métodos, y sus problemas, más abajo.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/12/09/una-pregunta-sobre-pruebas-de-hipotesis/" rel="bookmark">
+			Una pregunta sobre pruebas de hipótesis
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-12-09T08:13:47Z">2016-12-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Más que pregunta, debería haberlo planteado como encuesta: no estoy preguntando sino preguntándote qué es lo que haces tú (habitualmente).
+Va de pruebas de hipótesis (a la Fisher). La teoría dice que hay que plantear una hipótesis nula y para poder estudiar lo anómalos que son los datos obtenidos experimentalmente bajo dicha hipótesis. Es decir, calculas $latex P(X ; | ; H_0)$.
+Alternativamente (en muchos contextos, no en todos: no sabría cómo hacerlo, p.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/" rel="bookmark">
+			Enhorabuena a eldiario.es porque el análisis de el diario.es de los resultados de PISA está perfectamente alineado con la linea editorial de eldiario.es
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-12-07T08:13:46Z">2016-12-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Eso, ¡enhorabuena!
+El estudio está aquí. Como no tiene enlace a datos y métodos, no puedo añadir más. Aplaudo en todo caso al autor que no preste atención a la significancia (véase en el artículo como los intervalos de confianza no cortan el cero en ningún punto) como al tamaño del efecto (aunque no justifique si es grande o pequeño). De nuevo, ¡enhorabuena!
+Nota: Si alguien tiene críos en edad escolar y va a elegir una escuela u otra por lo que diga el señor Héctor Cebolla Boado como dice él, a vuelapluma, y luego se da cuenta de que se ha equivocado, que le proteste a él y no a otros.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/30/la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado/" rel="bookmark">
+			La regla del tres (para estimar la probabilidad de un evento todavía no observado)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-30T08:13:04Z">2016-11-30</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me acusan (quien lo hizo, si me lee, sabrá identificarse) de repetirme, de contar una historia dos, y sino me paran los pies, tres y más veces. Ya me pasó una vez por aquí. Espero que no me esté volviendo a suceder hoy porque habría jurado haber mencionado este asunto antes.
+Es el de la estimación de la probabilidad de eventos todavía no observados. Traduzco y (como no rectoreo universidad pública alguna y, por ende, no puedo permitirme el lujo de copiar sin citar) luego diré de donde:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/29/probabilidades-de-empates-en-elecciones/" rel="bookmark">
+			Probabilidades de empates en elecciones
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-29T08:13:40Z">2016-11-29</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Dichoso me tenía por no acordarme siquiera de las CUP, cuando una nota me ha hecho volver a lo de su otrora famoso pero ahora arrumbado por el constante devenir de otras noticias más enjundiosas (pausa) asunto: el de su empate.
+La noticia en cuestión es esta, que conduce a esto y en definitiva a esto otro, que es donde reside lo enjundioso.
+En realidad, el caso que explica el artículo es algo más complicado del que aplicaría en el caso de las CUP, pero exigiría igualmente, como ya indiqué en su día, especificar una serie de apriorismos no siempre a mano.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/" rel="bookmark">
+			Análisis de la supervivencia cuando ningún sujeto ha muerto
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-28T08:13:21Z">2016-11-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me ha sobrevenido un problema de análisis de supervivencia curioso: ningún sujeto ha muerto. Dicho de otra manera, todas mis observaciones están censuradas por la derecha.
+Los datos recogen la antigüedad de la cámara de fotos de los visitantes de cierto blog. Y debería uno poder estimar cada cuántos años renuevan la cámara, es decir, la vida promedio de esos aparatejos. Si embargo, no tenemos información de la edad de las cámaras en el momento de la renovación.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/25/estereotipos-y-estadistica/" rel="bookmark">
+			Estereotipos y estadística
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-25T08:13:45Z">2016-11-25</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El porcentaje de mosquitos que pueden transmitir enfermedades es pequeño, muy pequeño. Sin embargo, decimos mosquitos transmiten enfermedades sin empacho.
+Un porcentaje mucho mayor de los libros tienen tapas blandas. Sin embargo, no decimos que los libros tienen tapas blandas.
+Si evaluamos juicios similares con sujetos que son grupos sociales, religiones, razas, etc. las cosas se tornan la mar de entretenidas.
+Yo lo dejo aquí, pero podéis seguir leyendo aquí o aquí.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/23/el-ipt-y-la-paradoja-de-simpson/" rel="bookmark">
+			El IPT y la paradoja de Simpson
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-23T08:13:38Z">2016-11-23</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El INE ha comenzado a publicar una nueva estadística, el IPT o índice de precios del trabajo. Su primera entrega ha sido glosada por la prensa en artículos como este o este.
+Es imperativo leer la nota metodológica asociada (resumida aquí y detallada en un enlace que contiene) para darse cuenta de los problemas de interpretación que acompañan al índice.
+Se parece al IPC en el sentido que promedia el peso de cada salario (precio en el IPC) por el porcentaje de gente que lo gana (o que se compra en la canasta bienes y servicios del IPC).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/22/el-guion-de-mi-charla-sobre-microdatos/" rel="bookmark">
+			El guión de mi charla sobre microdatos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-22T08:13:25Z">2016-11-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		No auncié mi pequeña charla/taller del sábado pasado sobre microdatos porque la sala tenía un aforo ínfimo y en el Meetup correspondiente había lista de espera.
+Pero cuelgo el material (que es un guión; no hay presentación) por si a alguien le resulta útil.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/" rel="bookmark">
+			Detrás de la detección de anomalías en series temporales
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-16T08:13:02Z">2016-11-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es un problema que tiene que ver con dónde colocar las marcas azules en
+El anterior es el gráfico construido con los datos de ejemplo del paquete AnomalyDetection. De hecho, así:
+library(AnomalyDetection) data(raw_data) res &lt;- AnomalyDetectionTs(raw_data, max_anoms=0.02, direction='both', plot=TRUE) res$plot  Aparentemente, AnomalyDetectionTs hace lo que cabría sospechar. Primero, una descomposición de la serie temporal, tal como
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/" rel="bookmark">
+			Pesadumbre e incertidumbre desencadenadas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-10T08:13:24Z">2016-11-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hoy escribo afectado por un derrame de pesadumbre. Pero esa es solo una opinión que igual no importa nadie.
+Estas del 8 de noviembre han sido las elecciones en que menos y que más caso he hecho de las encuestas electorales. Cansado del cada vez más monótono ciclo de que
+ * se publican encuestas electorales * llegan las elecciones y el resultado no se parece en nada a lo dibujado por ellas y * se reitera el mismo blablablá (en latín se dice _excusatio non petita_) que unos meses antes  he decidido esta vez dejar de prestar atención a algo que, se ha visto, no ha sido sino ruido.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/08/seis-sigmas-porque-a-mi-solo-me-llegan-4-5-sigmas/" rel="bookmark">
+			¿Seis sigmas? Porque a mí solo me llegan 4.5 sigmas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-08T08:13:13Z">2016-11-8</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Seis sigma es un conjunto de métodos y prácticas para mejorar la calidad de los procesos industriales. Su nombre está inspirado por la distribución normal: aspira a que la tasa de errores (por ejemplo, piezas defectuosas producidas por una planta) sea pnorm(-6).
+Pero pnorm(-6) es 9.8e-10 (uno por millardo, aproximadamente), mientras que, según la Wikipedia, que siempre tiene la razón, la aspiración del Seis Sigma es la de alcanzar 3.4 defective features per million opportunities.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/07/las-dos-culturas-con-comentarios-de-2016/" rel="bookmark">
+			Las dos culturas, con comentarios de 2016
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-07T08:13:03Z">2016-11-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En 2012 mencioné de pasada ese artículo de Breiman al que hace referencia el título. Estaba bien, tenía su gracia.
+Lo he visto utilizar recientemente como punto de partida en discusiones sobre lo distinto o no que puedan ser la ciencia de datos y la estadística. Y espero que, efectivamente, se haya usado como punto de partida y no como otra cosa porque el artículo tiene 15 años (cerrad los ojos y pensad dónde estabais en 2001 y cómo era el mundo entonces).
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/categories/estad%C3%ADstica/page/29/">«</a>
+	<span class="pagination__item pagination__item--current">30/64</span>
+	<a class="pagination__item pagination__item--next btn" href="/categories/estad%C3%ADstica/page/31/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

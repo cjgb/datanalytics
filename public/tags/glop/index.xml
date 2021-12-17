@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glop on datanalytics</title>
+    <link>/tags/glop/</link>
+    <description>Recent content in glop on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 04 Jun 2020 12:14:46 +0000</lastBuildDate><atom:link href="/tags/glop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programación lineal, de nuevo</title>
+      <link>/2020/06/04/programacion-lineal-de-nuevo/</link>
+      <pubDate>Thu, 04 Jun 2020 12:14:46 +0000</pubDate>
+      
+      <guid>/2020/06/04/programacion-lineal-de-nuevo/</guid>
+      <description>Hoy me he retrasado en escribir por haber estado probando (y estresando, como hay quien dice), software para resolver problemas de programación lineal. En total, nada, unos diez millones de variables unos treinta millones de restricciones.
+Nota: es un problema LP puro, nada de enteros, nada de pérdidas no lineales, etc.
+ Primera opción: Python + PuLP + CBC (de COIN-OR), que es el optimizador por defecto de PuLP. Rendimiento aceptable para el tipo de uso que se le acabaría dando.</description>
+    </item>
+    
+  </channel>
+</rss>

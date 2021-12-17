@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell script on datanalytics</title>
+    <link>/tags/shell-script/</link>
+    <description>Recent content in shell script on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 21 Aug 2013 07:14:31 +0000</lastBuildDate><atom:link href="/tags/shell-script/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis copias de seguridad</title>
+      <link>/2013/08/21/mis-copias-de-seguridad/</link>
+      <pubDate>Wed, 21 Aug 2013 07:14:31 +0000</pubDate>
+      
+      <guid>/2013/08/21/mis-copias-de-seguridad/</guid>
+      <description>Por referencia mía y de otros, voy a dejar acá escrito y explicado cómo gestiono mis copias de seguridad. Porque los discos duros se rompen y los ordenadores desaparecen. Etc.
+Primero, mi instalación: tengo un ordenador de bajomesa (tiramisu) y un netbook (kropotkin). Ambos corren la misma versión de Xubuntu, la última estable.
+Mi primera línea de defensa contra las pérdidas de información es la sincronización de ambas máquinas. Aquellos directorios que contienen cosas que no quiero perder (documentos, fotos, código, ¡copias de seguridad de otras máquinas, incluido esto que lees ahora!</description>
+    </item>
+    
+  </channel>
+</rss>

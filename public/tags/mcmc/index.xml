@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mcmc on datanalytics</title>
+    <link>/tags/mcmc/</link>
+    <description>Recent content in mcmc on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Feb 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/mcmc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Dónde son más frecuentes las muestras de una distribución en dimensiones altas?</title>
+      <link>/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/</link>
+      <pubDate>Thu, 18 Feb 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/</guid>
+      <description>Esta es una cosa bastante contraintituiva. Uno diría que en la moda, pero no es exactamente así.
+En una dimensión tal vez sí (nótese que log(p) es función de la distancia al centro):
+muestra &amp;lt;- rnorm(10000) logp &amp;lt;- log(dnorm(muestra)) hist(logp, breaks = 100, main = &amp;quot;distribución de log(p)&amp;quot;)  Pero en dimensiones más altas, la cosa cambia:
+library(mvtnorm) muestra &amp;lt;- rmvnorm(10000, rep(0, 10), diag(rep(1, 10))) logp &amp;lt;- log(dmvnorm(muestra, rep(0, 10), diag(rep(1, 10)))) hist(logp, breaks = 100, main = &amp;quot;distribución de log(p)&amp;quot;)  Lo más frecuente es obtener observaciones ya no próximas al centro sino en un anillo alrededor de él y a cierta distancia del mismo.</description>
+    </item>
+    
+    <item>
+      <title>Optimización estocástica</title>
+      <link>/2020/05/22/optimizacion-estocastica/</link>
+      <pubDate>Fri, 22 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/22/optimizacion-estocastica/</guid>
+      <description>Una de los proyectos en los que estoy trabajando últimamente está relacionado con un problema de optimización no lineal: tengo un modelo (o una familia de modelos) no lineales con una serie de parámetros, unos datos y se trata de lo que no mercería más explicación: encontrar los que minimizan cierta función de error.
+Tengo implementadas dos vías:
+ La nls, que usa un optimizador numérico genérico para encontrar esos mínimos.</description>
+    </item>
+    
+    <item>
+      <title>Sr. Python, muchas gracias por su candidatura; ya le llamaremos cuando... tenga modelos mixtos</title>
+      <link>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</link>
+      <pubDate>Tue, 12 Feb 2019 08:13:49 +0000</pubDate>
+      
+      <guid>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</guid>
+      <description>Era casi todavía el siglo XX cuando yo, desesperado por hacer cosas que consideraba normales y que SAS no me permitía, pregunté a un profesor por algo como C pero para estadística. Y el profesor me contó que conocía a alguien que conocía a alguien que conocía a alguien que usaba una cosa nueva que se llamaba R y que podía servirme.
+Fue amor a primera vista, pero esa es otra historia.</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>/2018/01/12/abc/</link>
+      <pubDate>Fri, 12 Jan 2018 08:13:58 +0000</pubDate>
+      
+      <guid>/2018/01/12/abc/</guid>
+      <description>ABC significa, entre otras cosas, approximate bayesian computation. Por lo que parece, consiste en calcular $latex P(\theta ,|, \text{datos})$ por el tradicional y directo método del rechazo. Es decir:
+ Planteas un modelo generativo, con sus prioris y todo. Simulas casos, casos y casos. Te quedas con los que cumplen un criterio de aceptación.  La distribución empírica de los parámetros en el subconjunto de los casos aceptados representa, en los libros está escrito, la distribución a posteriori.</description>
+    </item>
+    
+    <item>
+      <title>Hamilton al rescate de Metropolis-Hastings</title>
+      <link>/2016/09/16/hamilton-al-rescate-de-metropolis-hastings/</link>
+      <pubDate>Fri, 16 Sep 2016 08:13:12 +0000</pubDate>
+      
+      <guid>/2016/09/16/hamilton-al-rescate-de-metropolis-hastings/</guid>
+      <description>El algoritmo de Metropolis-Hastings se usa para muestrear una variable aleatoria con función de densidad $latex p$. Permite crear una sucesión de puntos $latex x_i$ que se distribuye según $latex p$.
+Funciona de al siguiente manera: a partir de un punto $latex x_i$ se buscan candidatos a $latex x_{i+1}$ de la forma $latex x_i + \epsilon$, donde $latex \epsilon$ es, muy habitualmente, $latex N(0, \delta)$ y $latex \delta$ es pequeño. De otra manera, puntos próximos a $latex x_i$.</description>
+    </item>
+    
+    <item>
+      <title>Metropolis-Hastings en Scala</title>
+      <link>/2016/06/16/metropolis-hastings-en-scala/</link>
+      <pubDate>Thu, 16 Jun 2016 08:13:08 +0000</pubDate>
+      
+      <guid>/2016/06/16/metropolis-hastings-en-scala/</guid>
+      <description>Tengo la sensación de que un lenguaje funcional (como Scala) está particularmente bien adaptado al tipo de operaciones que exige MCMC.
+Juzguen Vds.
+Primero, genero datos en R:
+datos &amp;lt;- rnorm(500, 0.7, 1) writeLines(as.character(datos), &amp;quot;/tmp/datos.txt&amp;quot;)  Son de una normal con media 0.7. En el modelo que vamos a crear, suponemos conocida (e igual a 1) la varianza de la normal y trataremos de estimar la media suponiéndole una distribución a priori normal estándar.</description>
+    </item>
+    
+  </channel>
+</rss>

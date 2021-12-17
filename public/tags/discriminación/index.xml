@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discriminación on datanalytics</title>
+    <link>/tags/discriminaci%C3%B3n/</link>
+    <description>Recent content in discriminación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Apr 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/discriminaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tengo cuenta en Hypermind</title>
+      <link>/2020/04/10/tengo-cuenta-en-hypermind/</link>
+      <pubDate>Fri, 10 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/10/tengo-cuenta-en-hypermind/</guid>
+      <description>Acaban de notificarme que han aprobado mi cuenta en Hypermind. Hypermind es un mercado de predicciones cuyo funcionamiento está descrito aquí y aquí mejor que yo pudiera hacerlo.
+Ya iré contando. En tanto, una imagen extraída de uno de los enlaces anteriores que vale por mil palabras:</description>
+    </item>
+    
+    <item>
+      <title>&#34;Algoritmos&#34; y acatarrantes definiciones de &#34;justicia&#34;</title>
+      <link>/2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/</link>
+      <pubDate>Wed, 26 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/</guid>
+      <description>Lee Justicia: los límites de la inteligencia artificial&amp;hellip; y humana y cuando acabes, te propongo un pequeño experimento probabilístico. Por referencia, reproduzco aquí los criterios de justicia del artículo que glosa el que enlazo:
+Centrémonos en (B), sabiendo que, por simetría, lo que cuento se aplica también a (C).
+Supongamos que tenemos dos grupos, cada uno de ellos de
+n &amp;lt;- 1000000  personas para estar en las asíntotas que aman los frecuentistas.</description>
+    </item>
+    
+    <item>
+      <title>Cuando oigáis que los algoritmos discriminan, acordaos de esto que cuento hoy</title>
+      <link>/2018/11/07/cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy/</link>
+      <pubDate>Wed, 07 Nov 2018 08:13:40 +0000</pubDate>
+      
+      <guid>/2018/11/07/cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy/</guid>
+      <description>Generalmente, cuando construyes uno de esos modelos para clasificar gente entre merecedores de una hipoteca o no; de un descuento o no; de&amp;hellip; vamos, lo que hacen cientos de científicos de datos a diario, se utilizan dos tipos de fuentes de datos: individuales y grupales.
+La información grupal es la que se atribuye a un individuo por el hecho de pertenecer a un sexo, a un grupo de edad, a un código postal, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

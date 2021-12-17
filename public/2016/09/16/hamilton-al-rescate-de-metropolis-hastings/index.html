@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Hamilton al rescate de Metropolis-Hastings - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Hamilton al rescate de Metropolis-Hastings" />
+<meta property="og:description" content="El algoritmo de Metropolis-Hastings se usa para muestrear una variable aleatoria con función de densidad $latex p$. Permite crear una sucesión de puntos $latex x_i$ que se distribuye según $latex p$.
+Funciona de al siguiente manera: a partir de un punto $latex x_i$ se buscan candidatos a $latex x_{i&#43;1}$ de la forma $latex x_i &#43; \epsilon$, donde $latex \epsilon$ es, muy habitualmente, $latex N(0, \delta)$ y $latex \delta$ es pequeño. De otra manera, puntos próximos a $latex x_i$." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2016/09/16/hamilton-al-rescate-de-metropolis-hastings/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2016-09-16T08:13:12&#43;00:00" />
+<meta property="article:modified_time" content="2016-09-16T08:13:12&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Hamilton al rescate de Metropolis-Hastings</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-09-16T08:13:12Z">2016-9-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>El <a href="https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm">algoritmo de Metropolis-Hastings</a> se usa para muestrear una variable aleatoria con función de densidad $latex p$. Permite crear una sucesión de puntos $latex x_i$ que se distribuye según $latex p$.</p>
+<p>Funciona de al siguiente manera: a partir de un punto $latex x_i$ se buscan candidatos a $latex x_{i+1}$ de la forma $latex x_i + \epsilon$, donde $latex \epsilon$ es, muy habitualmente, $latex N(0, \delta)$ y $latex \delta$ es pequeño. De otra manera, puntos próximos a $latex x_i$. Un candidato se acepta (y se convierte en $latex x_{i+1}$) o se rechaza (y toca probar con otro) según los valores de $latex p(x_i)$ y $latex p(x_i + \epsilon)$:</p>
+<pre><code>  * Si el segundo valor es mayor que el primero, se acepta el candidato.
+  * Si no, se echa a suertes según su valor relativo.
+</code></pre>
+<p>Todo bien hasta que (p.e., en altas dimensiones) se rechazan casi todos los candidatos y el proceso es muy lento. Además de que, por construcción, $latex x_{i+1}$ está cerca de $latex x_i$: la sucesión obtenida no es iid ni por el forro.</p>
+<p>¿Existe una manera de conseguir <em>mejores</em> candidatos (i.e., con una menor tasa de rechazo)?</p>
+<p>El algoritmo arriba indicado explora todas las direcciones simétricamente. Pero algunas son mejores que otras (George Orwell dixit). ¿<em>Cuálas</em> (una vecina dixit)?</p>
+<p>Pensemos en la mecánica clásica. Un objeto se mueve en el espacio impelido por el campo de fuerzas que genera una determinada energía potencial $latex U$. Seguirá órbitas que explorarán predominantemente zonas de potencial bajo y, desde luego, tendrá vedadas zonas de potencial infinito.</p>
+<p>¿Podríamos usar esa propiedad para muestrear $latex p$? Sí si consideramos, como potencial $latex -\log p(x)$. Con una elección de equivalente de energía cinética (¿por qué no $latex v^2$?) se puede construir el hamiltoniano y comenzar a trazar órbitas para obtener candidatos.</p>
+<p>Dos problemas:</p>
+<pre><code>  * El primero es que fijadas unas condiciones iniciales, el hamiltoniano es constante y las órbitas, por ejempo, nunca saldrán de ciertos pozos de potencial, por lo que habrá zonas vedadas de nuevo. La solución pasa por muestrear órbitas distintas correspondientes a condiciones iniciales de velocidad distintas (con una determinada distribución sobre estas velocidades).
+</code></pre>
+<p><img src="https://www.datanalytics.com/wp-uploads/2016/09/HalleyOrbit.gif" alt="halleyorbit"></p>
+<pre><code>  * La segunda, sobre la que no he visto nada escrito, es que las partículas pasan proporcionalmente poco tiempo en las zonas de energía potencial baja (que corresponden a las de probabilidad alta). Eso sucede porque en ellas la energía cinética es alta: en plata, las atraviesan a toda leche. Como el cometa Halley, que pasa casi todo el tiempo donde no se lo ve.
+</code></pre>
+<p>Los corolarios, <a href="https://arxiv.org/pdf/1206.1901.pdf">aquí</a>.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/f%C3%ADsica/" rel="tag">física</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/mcmc/" rel="tag">mcmc</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/mec%C3%A1nica/" rel="tag">mecánica</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/metropolis/" rel="tag">metropolis</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/probabilidad/" rel="tag">probabilidad</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2016/09/15/seguro-que-aplica-lo-del-secreto-estadistico/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">¿Seguro que aplica lo del secreto estadístico?</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Un curso de 15 horas de introducción a la programación</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

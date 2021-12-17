@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paypal on datanalytics</title>
+    <link>/tags/paypal/</link>
+    <description>Recent content in paypal on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 25 Apr 2021 13:32:53 +0000</lastBuildDate><atom:link href="/tags/paypal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo vídeo en YouTube: analizo un proyecto de fugas de clientes en Paypal</title>
+      <link>/2021/04/25/nuevo-video-en-youtube-analizo-un-proyecto-de-fugas-de-clientes-en-paypal/</link>
+      <pubDate>Sun, 25 Apr 2021 13:32:53 +0000</pubDate>
+      
+      <guid>/2021/04/25/nuevo-video-en-youtube-analizo-un-proyecto-de-fugas-de-clientes-en-paypal/</guid>
+      <description>Acabo de subir a Youtube mi último vídeo:
+https://youtu.be/u-BmTq_oYho
+En él analizo este hilo de Twitter  en el que su autor describe un proyecto muy particular —heterodoxo— de ciencia de datos cuyo objetivo consiste identificar y prevenir la fuga de clientes. El hilo ha circulado todo lo viralmente que permite el tema y me ha parecido interesante sacarle un poco de punta.</description>
+    </item>
+    
+  </channel>
+</rss>

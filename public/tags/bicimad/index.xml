@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bicimad on datanalytics</title>
+    <link>/tags/bicimad/</link>
+    <description>Recent content in bicimad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 Sep 2018 08:13:27 +0000</lastBuildDate><atom:link href="/tags/bicimad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disponible el fichero de datos abiertos más goloso de ambas castillas: las rutas de Bicimad</title>
+      <link>/2018/09/25/disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad/</link>
+      <pubDate>Tue, 25 Sep 2018 08:13:27 +0000</pubDate>
+      
+      <guid>/2018/09/25/disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad/</guid>
+      <description>Albricias, el ayuntamiento de Madrid ha liberado el fichero más goloso de ambas castillas: el de las rutas de usuarios de Bicimad, viaje a viaje, con su estación de origen, estación de destino, tiempo de recorrido, etc. Tiempo os falta para echarle un vistazo y hacer cosas chulas con él.
+Los datos están aquí.
+Se puede leer con código no muy distinto de este:
+library(RJSONIO) raw &amp;lt;- readLines(&amp;quot;201808_Usage_Bicimad.json&amp;quot;) dat &amp;lt;- iconv(raw, &amp;quot;latin1&amp;quot;, &amp;quot;utf8&amp;quot;) dat &amp;lt;- sapply(dat, fromJSON)  A bote pronto, se me ocurren algunas cosas que se pueden hacer con esos datos:</description>
+    </item>
+    
+    <item>
+      <title>No os creáis esta encuesta: ¡n = 10!</title>
+      <link>/2018/01/22/no-os-creais-esta-encuesta-n-10/</link>
+      <pubDate>Mon, 22 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/22/no-os-creais-esta-encuesta-n-10/</guid>
+      <description>(Por referencia, el enlace).</description>
+    </item>
+    
+    <item>
+      <title>Dizque al sexto mes... pero ¿y los datos?</title>
+      <link>/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/</link>
+      <pubDate>Wed, 31 May 2017 08:13:29 +0000</pubDate>
+      
+      <guid>/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/</guid>
+      <description>He leído esto, que trata de lo distinta que es
+a la izquierda y a la derecha de la línea roja punteada.
+La historia contada desde las posterioris basadas en datos difiere de la apriorística (recordad: ideología = priori). En concreto
+Reconoceréis una aplicación de causalImpact y lo que significa el gráfico está comentado en todas partes.
+Código y datos, por mor de la reproducibilidad, aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

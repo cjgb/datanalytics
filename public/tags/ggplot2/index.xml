@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ggplot2 on datanalytics</title>
+    <link>/tags/ggplot2/</link>
+    <description>Recent content in ggplot2 on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 28 Jan 2019 08:13:45 +0000</lastBuildDate><atom:link href="/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El discreto encanto de las animaciones</title>
+      <link>/2019/01/28/el-discreto-encanto-de-las-animaciones/</link>
+      <pubDate>Mon, 28 Jan 2019 08:13:45 +0000</pubDate>
+      
+      <guid>/2019/01/28/el-discreto-encanto-de-las-animaciones/</guid>
+      <description>Representando datos, una animación es un gráfico en el que unas facetas (en terminología de ggplot2) ocultan el resto, como en
+extraído de aquí y que representa la evolución del tamaño (superficie) de los coches habituales a lo largo del último siglo. Lo mismo pero evitando el indeseado efecto:
+El código:
+library(ggplot2) datos &amp;lt;- structure(list(year = c(1930L, 1950L, 1960L, 1970L, 1980L, 1990L, 2000L, 2010L, 2018L), width = c(1.45, 1.59, 1.54, 1.</description>
+    </item>
+    
+    <item>
+      <title>Geofacetas</title>
+      <link>/2017/09/28/geofacetas/</link>
+      <pubDate>Thu, 28 Sep 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/09/28/geofacetas/</guid>
+      <description>Con geofacet se puede hacer</description>
+    </item>
+    
+    <item>
+      <title>Pues sí, puede fabricarse uno para España</title>
+      <link>/2017/04/10/pues-si-puede-fabricarse-uno-para-espana/</link>
+      <pubDate>Mon, 10 Apr 2017 08:13:28 +0000</pubDate>
+      
+      <guid>/2017/04/10/pues-si-puede-fabricarse-uno-para-espana/</guid>
+      <description>Es
+responde a mi entrada de la semana pasada y se lo debemos a la gentileza de Sergio J.
+El código, con mínimas modificaciones mías (para automatizar la descarga de los datos) es
+library(pxR) library(dplyr) library(tidyr) library(ggplot2) #---- Carga y transformacion de datos download.file(&amp;quot;http://www.datanalytics.com/uploads/3199.px&amp;quot;, &amp;quot;3199.px&amp;quot;) pob &amp;lt;- read.px(&amp;quot;3199.px&amp;quot;, encoding = &amp;quot;latin1&amp;quot;) pob &amp;lt;- as.data.frame(pob) pob$Sexo &amp;lt;- NULL pob$Periodo &amp;lt;- as.numeric(as.character(pob$Periodo)) pob &amp;lt;- separate(pob, Provincias, into = c(&amp;quot;id_provincia&amp;quot;, &amp;quot;provincia&amp;quot;), sep = 3) pob$fecha &amp;lt;- as.</description>
+    </item>
+    
+    <item>
+      <title>¿Podría fabricarse uno para España?</title>
+      <link>/2017/04/07/podria-fabricarse-uno-para-espana/</link>
+      <pubDate>Fri, 07 Apr 2017 08:13:40 +0000</pubDate>
+      
+      <guid>/2017/04/07/podria-fabricarse-uno-para-espana/</guid>
+      <description>Me refiero a algo similar a (referencia):
+Lo ideal sería crear una función compatible con el sistema de facetas de ggplot2 con nombre, p.e., facet_spain que permitiese disponer cualquier tipo de gráfico en una retícula similar.
+No particularmente difícil, pero sí, seguro, utilísimo.
+¿A nadie le tienta el proyecto?
+[Me encanta el impersonal de &amp;ldquo;podría fabricarse&amp;hellip;&amp;rdquo;. ¡Es como tan de tirar la piedra y esconder la mano!]</description>
+    </item>
+    
+    <item>
+      <title>Evolución histórica de la deuda del ayuntamiento de Madrid</title>
+      <link>/2016/06/17/evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid/</link>
+      <pubDate>Fri, 17 Jun 2016 08:13:56 +0000</pubDate>
+      
+      <guid>/2016/06/17/evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid/</guid>
+      <description>Una de las cosas de las que me acuerdo de cuando leía es un parrafito de Mi idolatrado hijo Sisí en el que Delibes ponía en la boca no sé si de alguno de sus protagonistas o del narrador en el que se daba cuenta de la anormalidad histórica que supuso el tiempo de la II República: de repente, la gente hacía cosas que nunca había hecho y que nunca había vuelto a hacer: hablar a todas horas y con todo el mundo de política.</description>
+    </item>
+    
+    <item>
+      <title>Por si os interesa el tema de la energía, las centrales, las emisiones, etc.</title>
+      <link>/2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/</link>
+      <pubDate>Wed, 20 Jan 2016 08:13:51 +0000</pubDate>
+      
+      <guid>/2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/</guid>
+      <description>Esta entrada será del interés de a quien le atraigan dos temas bastante independientes entre sí:
+ * La energía, las centrales eléctricas, sus emisiones, etc. * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)  Allá va el código
+library(SPARQL) library(ggplot2) queryString = &amp;quot;PREFIX a: &amp;lt;http://enipedia.tudelft.nl/wiki/&amp;gt; PREFIX prop: &amp;lt;http://enipedia.tudelft.nl/wiki/Property:&amp;gt; PREFIX rdfs: &amp;lt;http://www.w3.org/2000/01/rdf-schema#&amp;gt; select ?plant ?name ?elec_capacity_MW ?lat ?lon ?operator where { ?plant prop:Country a:Spain . #get the name #?plant rdfs:label ?name . ?plant prop:Generation_capacity_electrical_MW ?elec_capacity_MW . #?</description>
+    </item>
+    
+    <item>
+      <title>Amanece, me cuentan, que no es poco</title>
+      <link>/2014/10/14/amanece-me-cuenta-que-no-es-poco/</link>
+      <pubDate>Tue, 14 Oct 2014 07:13:55 +0000</pubDate>
+      
+      <guid>/2014/10/14/amanece-me-cuenta-que-no-es-poco/</guid>
+      <description>El amanecer es una cosa que ocurre a diario, me cuentan, pero que yo apenas he visto. Casi hablo de lo que no sé. Por otra parte, la discusión de los horarios, de si deberíamos tener la hora de Londres y no la de Berlín, me parece puro nominalismo. Unos llaman a la hora a la que se levantan sechs, otros seven, otros huit y yo diez y veinte. Y no pasa nada.</description>
+    </item>
+    
+    <item>
+      <title>Facetas para entender, tal vez, la evolución del paro</title>
+      <link>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</link>
+      <pubDate>Thu, 17 Jul 2014 07:13:54 +0000</pubDate>
+      
+      <guid>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</guid>
+      <description>La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas URLs que tienen pinta de cambiar con cualquier soplo (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los datos a día de hoy.
+También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena y o mala.</description>
+    </item>
+    
+    <item>
+      <title>Veinte paquetes de R para científicos de datos</title>
+      <link>/2014/03/12/veinte-paquetes-de-r-para-cientificos-de-datos/</link>
+      <pubDate>Wed, 12 Mar 2014 07:11:28 +0000</pubDate>
+      
+      <guid>/2014/03/12/veinte-paquetes-de-r-para-cientificos-de-datos/</guid>
+      <description>Me llegó recientemente un artículo con una lista de veinte paquetes de R para data scientists. Y no la encuentro afortunada. Voy a agrupar esos veinte paquetes en algunas categorías y añadiré comentarios. La primera de ellas es la de manipulación de datos, tal vez la más amplia, que recoge los siguientes: sqldf, plyr, stringr (para procesar texto), lubridate (para procesar fechas),reshape2 y los paquetes de acceso a bases de datos.</description>
+    </item>
+    
+    <item>
+      <title>Óscar Perpiñán sobre gráficos base vs. lattice vs ggplot2</title>
+      <link>/2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/</link>
+      <pubDate>Fri, 29 Nov 2013 06:58:02 +0000</pubDate>
+      
+      <guid>/2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/</guid>
+      <description>Óscar Perpiñán es alguien a quien tenéis que conocer necesariamente si os interesan, entre otras cosas, temas como la visualización de datos espaciotemporales. Y tiene un blog muy recomendable.
+Recientemente me ha dado permiso para reproducir aquí una respuesta suya en un hilo planteado en r-help-es sobre los distintos mecanismos existentes en R para generar gráficos. Lo hago a continuación con mínimos retoques tipográficos:
+La ventaja esencial de los gráficos grid (lattice y ggplot2) frente a los gráficos base es su mayor flexibilidad para añadir o modificar el contenido.</description>
+    </item>
+    
+    <item>
+      <title>Importancia de variables en árboles</title>
+      <link>/2013/11/06/importancia-de-variables-en-arboles/</link>
+      <pubDate>Wed, 06 Nov 2013 07:49:59 +0000</pubDate>
+      
+      <guid>/2013/11/06/importancia-de-variables-en-arboles/</guid>
+      <description>Los árboles (o árboles de inferencia condicional) valen fundamentalmente para hacerse una idea de cómo y en qué grado opera una variable en un modelo controlando por el efecto del resto. Su valor reside fundamentalmente en la interpretabilidad.
+No obstante lo cual, no es infrecuente construir árboles muy grandes. Y el tamaño dificulta censar qué variables y en qué manera aparecen. Por eso me vi obligado recientemente a crear un pequeño prototipo para extraer el peso de las variables de un árbol.</description>
+    </item>
+    
+    <item>
+      <title>ggplot2 en su contexto</title>
+      <link>/2011/02/10/ggplot2-en-su-contexto/</link>
+      <pubDate>Thu, 10 Feb 2011 09:56:44 +0000</pubDate>
+      
+      <guid>/2011/02/10/ggplot2-en-su-contexto/</guid>
+      <description>gplot2 es, sin duda, el paquete gráfico de moda en R. Hay quien lo ama, hay quien lo odia, pero cada vez son menos los que lo ignoran. Lo que igual no es tan sabido por los usuarios de R es el contexto en el que nació ggplot2, su relación con el motor gráfico de R y su relación con otros mecanismos de representación gráfica existentes en otros paquetes estadísticos.</description>
+    </item>
+    
+    <item>
+      <title>Hoy me he enamorado en el metro</title>
+      <link>/2010/10/21/hoy-me-he-enamorado-en-el-metro/</link>
+      <pubDate>Thu, 21 Oct 2010 01:04:35 +0000</pubDate>
+      
+      <guid>/2010/10/21/hoy-me-he-enamorado-en-el-metro/</guid>
+      <description>Hoy me he enamorado en el metro. Apenas comenzaba a leer mi articulillo cuando he tropezado con esta frase:
+ GPL treats data as an accessory to viewing a graph.
+ Y la siguiente era aún mejor:
+ GPL is based on the mathematical definition of the graph of a function and uses that definition to organize data linked to the graph.
+ Y más adelante:
+ [&amp;hellip;] it is based on the assumption that statistical procedures serve graphics; graphics are not ancillary displays of statistical results, but are means of perceiving statistical relationships directly.</description>
+    </item>
+    
+  </channel>
+</rss>

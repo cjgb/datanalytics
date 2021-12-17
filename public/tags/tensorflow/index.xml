@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tensorflow on datanalytics</title>
+    <link>/tags/tensorflow/</link>
+    <description>Recent content in tensorflow on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 Nov 2019 09:13:04 +0000</lastBuildDate><atom:link href="/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tfprobability debería llamarse tfeoprobability</title>
+      <link>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</link>
+      <pubDate>Tue, 12 Nov 2019 09:13:04 +0000</pubDate>
+      
+      <guid>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</guid>
+      <description>Porque, aunque la intención sea buena, el DSL (que ni siquiera llega a serlo) es muy, muy feo. Que en este contexto, además, quiere decir antinatural.
+La demostración, aquí, aquí o aquí.</description>
+    </item>
+    
+    <item>
+      <title>Entre lo fofo y lo hierático,modelos loglineales</title>
+      <link>/2019/02/28/9884/</link>
+      <pubDate>Thu, 28 Feb 2019 08:13:00 +0000</pubDate>
+      
+      <guid>/2019/02/28/9884/</guid>
+      <description>El contexto, por fijar ideas, el problema de taguear fechas en textos.
+La estrategia gomosa, fofa (ñof, ñof, ñof), y en la que parecen parecer creer algunos, embeddings más TensorFlow.
+La estrategia hierática, inflexible y reminiscente de robots de pelis de serie B, expresiones regulares encadenadas con ORs.
+En la mitad donde mora la virtud, extracción de features (principalmente con expresiones regulares) y luego, esto.
+Nota: esta entrada es un recordatorio para mí mismo y por si retorna cierto asunto que dejé postergado hace un par de días.</description>
+    </item>
+    
+    <item>
+      <title>¡Haced click ya!</title>
+      <link>/2016/05/03/haced-click-ya/</link>
+      <pubDate>Tue, 03 May 2016 08:13:25 +0000</pubDate>
+      
+      <guid>/2016/05/03/haced-click-ya/</guid>
+      <description>En esto.</description>
+    </item>
+    
+  </channel>
+</rss>

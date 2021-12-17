@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lenguaje on datanalytics</title>
+    <link>/tags/lenguaje/</link>
+    <description>Recent content in lenguaje on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Jun 2019 09:13:18 +0000</lastBuildDate><atom:link href="/tags/lenguaje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Existiría (la cosa de la que voy a hablar)? Lo veo muy poco probable</title>
+      <link>/2019/06/24/existiria-la-cosa-de-la-que-voy-a-hablar-lo-veo-muy-poco-probable/</link>
+      <pubDate>Mon, 24 Jun 2019 09:13:18 +0000</pubDate>
+      
+      <guid>/2019/06/24/existiria-la-cosa-de-la-que-voy-a-hablar-lo-veo-muy-poco-probable/</guid>
+      <description>, extraído de Verbal probabilities: Very likely to be somewhat more confusing than numbers, creo que es ya cultura general.
+Pero me pregunto (y pregunto a mis lectores) si existirá algo parecido para el español. Que incluya, claro, expresiones del tipo &amp;ldquo;muy improbable&amp;rdquo;, etc. pero que se extienda también a otros métodos (que es la parte más interesante) de manifestar incertidumbre, como el uso del condicional (el PP recuperaría la alcaldía&amp;hellip;) y otros que pueda haber.</description>
+    </item>
+    
+    <item>
+      <title>¿Una perspectiva económica del lenguaje?</title>
+      <link>/2017/06/30/una-perspectiva-economica-del-lenguaje/</link>
+      <pubDate>Fri, 30 Jun 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/06/30/una-perspectiva-economica-del-lenguaje/</guid>
+      <description>La gente cuyo campo de interés es el lenguaje lo ha hecho tradicionalmente de manera discursiva (blablablá, diríase), donde casi todo vale con tal de que esté escrito con un poco de gracia. Solo recientemente (hablamos de unas pocas décadas) han comenzado a usar herramientas computacionales.
+Lo que se echa de menos y sobre lo que hay muchísimo menos escrito es de la relación entre el lenguaje y la economía. Una disciplina sobre la que los lingüistas que he conocido muestran y manifiestan tanto desdén como desconocimiento.</description>
+    </item>
+    
+    <item>
+      <title>¿Importa más la causalidad hoy en día?</title>
+      <link>/2016/09/23/importa-mas-la-causalidad-hoy-en-dia/</link>
+      <pubDate>Fri, 23 Sep 2016 08:13:16 +0000</pubDate>
+      
+      <guid>/2016/09/23/importa-mas-la-causalidad-hoy-en-dia/</guid>
+      <description>Según este artículo, que explora la proporción de palabras relacionadas con la causalidad a lo largo de los dos últimos siglos, parece que sí (para el inglés).
+Hice alguna búsqueda muy superficial en los n-gramas de Google y en español estoy obteniendo, precisamente, la tendencia contraria.
+A ver si consigo el texto completo del artículo y, si encuentro un momento, trato de replicar lo que pueda. Y si alguien se me adelanta y me ahorra el trabajo, ¡tanto mejor!</description>
+    </item>
+    
+  </channel>
+</rss>

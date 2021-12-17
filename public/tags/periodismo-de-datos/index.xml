@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>periodismo de datos on datanalytics</title>
+    <link>/tags/periodismo-de-datos/</link>
+    <description>Recent content in periodismo de datos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 08 Feb 2019 08:13:15 +0000</lastBuildDate><atom:link href="/tags/periodismo-de-datos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ya, pero ¿es viable un fact check descentralizado? Entonces, ¿qué hacer?</title>
+      <link>/2019/02/08/ya-pero-es-viable-un-fact-check-descentralizado-entonces-que-hacer/</link>
+      <pubDate>Fri, 08 Feb 2019 08:13:15 +0000</pubDate>
+      
+      <guid>/2019/02/08/ya-pero-es-viable-un-fact-check-descentralizado-entonces-que-hacer/</guid>
+      <description>Me llegó ayer por Twitter lo siguiente:
+Lo había publicado alguien que no conocía y retuiteado (por eso me alcanzó) una persona que sigo porque me consta que sabe de unos temas pero que ignoro en qué medida está puesta en los geopolíticos y la historia económica de las naciones del mundo.
+Los datos llaman la atención: son interesantes y no obvios. Pero sabemos que la intersección de lo intersante, no obvio y cierto es prácticamente el conjunto vacío.</description>
+    </item>
+    
+    <item>
+      <title>Enhorabuena a eldiario.es porque el análisis de el diario.es de los resultados de PISA está perfectamente alineado con la linea editorial de eldiario.es</title>
+      <link>/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/</link>
+      <pubDate>Wed, 07 Dec 2016 08:13:46 +0000</pubDate>
+      
+      <guid>/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/</guid>
+      <description>Eso, ¡enhorabuena!
+El estudio está aquí. Como no tiene enlace a datos y métodos, no puedo añadir más. Aplaudo en todo caso al autor que no preste atención a la significancia (véase en el artículo como los intervalos de confianza no cortan el cero en ningún punto) como al tamaño del efecto (aunque no justifique si es grande o pequeño). De nuevo, ¡enhorabuena!
+Nota: Si alguien tiene críos en edad escolar y va a elegir una escuela u otra por lo que diga el señor Héctor Cebolla Boado como dice él, a vuelapluma, y luego se da cuenta de que se ha equivocado, que le proteste a él y no a otros.</description>
+    </item>
+    
+    <item>
+      <title>Mis respuestas en una entrevista sobre &#34;big data&#34;, periodismo de datos, etc.</title>
+      <link>/2015/07/24/mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc/</link>
+      <pubDate>Fri, 24 Jul 2015 08:13:15 +0000</pubDate>
+      
+      <guid>/2015/07/24/mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc/</guid>
+      <description>Aunque no hay una definición exacta sobre la minería de datos… ¿cómo definiría usted Big Data?¿Qué herramientas utiliza usted para la búsqueda de datos? (públicas o privadas)
+Dicen los marxistas &amp;ndash;aunque el concepto es anterior&amp;ndash; que un cambio cuantitativo, a partir de cierto umbral, desencadena un cambio cualitativo. Las empresas, las instituciones públicas, etc. siempre han almacenado y estudiado estadísticamente datos a nivel de subsidiaria, departamento, provincia, oficina, región, producto, etc.</description>
+    </item>
+    
+    <item>
+      <title>El lenguaje de los gráficos en las Jornadas de Periodismo de Datos</title>
+      <link>/2015/06/04/el-lenguaje-de-los-graficos-en-las-jornadas-de-periodismo-de-datos/</link>
+      <pubDate>Thu, 04 Jun 2015 08:13:14 +0000</pubDate>
+      
+      <guid>/2015/06/04/el-lenguaje-de-los-graficos-en-las-jornadas-de-periodismo-de-datos/</guid>
+      <description>Este sábado (2015-06-06), dentro de las Jornadas de Periodismo de Datos, hablaré sobre el lenguaje de los gráficos (véase el programa).
+Para variar, nada de R y, aunque parezca lo contrario, nada de ggplot2. Ni tan siquiera respuestas a nada: solo preguntas que cada cual tendrá, si le place, que contestar. Y si se me hace caso, a la luz de la literatura relevante.
+¿Por qué una cuestión tan abstracta? Porque sobran herramientas y recetarios sobre cómo hacer esto y aquello.</description>
+    </item>
+    
+    <item>
+      <title>Frecuencias naturales (y consumo de cerveza)</title>
+      <link>/2015/05/18/frecuencias-naturales-y-consumo-de-cerveza/</link>
+      <pubDate>Mon, 18 May 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/05/18/frecuencias-naturales-y-consumo-de-cerveza/</guid>
+      <description>Las frecuencias naturales se utilizan como alternativa a los porcentajes para expresar probabilidades en lugar de, por ejemplo, porcentajes.
+
+El gráfico anterior está extraído de este documento en el que sus autores argumentan que transmite más eficazmente la idea de probabilidad que los porcentajes desnudos tan habituales.
+Entienden que es preferible decir que de cada 100 litros de cerveza vendidos en España, 20 se distribuyen en botella, 30 en lata y 30 en barril (¡ya sé que no suman 100!</description>
+    </item>
+    
+    <item>
+      <title>Cualquier parecido con la realidad es pura coincidencia</title>
+      <link>/2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/</link>
+      <pubDate>Thu, 14 May 2015 08:13:21 +0000</pubDate>
+      
+      <guid>/2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/</guid>
+      <description>@adolflow (en persona) viene hoy y me dice si lo he visto. ¿Qué cosa? Se refiere a lo que han publicado en El Español, España en Cifras. Lo miro por encima y encuentro
+
+¡Tasa de paro municipal! Lo siento, @adolflow, pero tal cosa no existe. No, no es que los datos sean secretos, no sean transparentes, no sean reutilizables. Es, simplemente, que no existe.
+¿Peros?
+No, no hay peros. Fijáte: hay 8000 municipios y la EPA se basa en una encuesta de unos 60000 hogares.</description>
+    </item>
+    
+    <item>
+      <title>Tres citas para los amantes del análisis de datos públicos</title>
+      <link>/2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/</link>
+      <pubDate>Mon, 08 Sep 2014 07:13:36 +0000</pubDate>
+      
+      <guid>/2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/</guid>
+      <description>En estos días van a celebrarse tres eventos (de los que tengo noticia) relacionados con el análisis de datos. El primero es la Segunda Edición del Taller de Periodismo de Datos, en Madrid. Extraigo de su convocatoria lo siguiente:
+Los proyectos pueden envarse hasta el 24 de septiembre. Una vez seleccionados, a partir del 30 de septiembre, se buscarán colaboradores. Toda la información, aquí.
+El segundo, es el Jacathon que tendrá lugar los días 26-28 de septiembre en Jaca:</description>
+    </item>
+    
+    <item>
+      <title>Por qué soy escéptico con respecto al periodismo de datos</title>
+      <link>/2014/07/07/por-que-soy-esceptico-con-respecto-al-periodismo-de-datos/</link>
+      <pubDate>Mon, 07 Jul 2014 07:27:34 +0000</pubDate>
+      
+      <guid>/2014/07/07/por-que-soy-esceptico-con-respecto-al-periodismo-de-datos/</guid>
+      <description>Lo dejé dicho hace un tiempo: en algún momento de esta charla expresé mis motivos.
+Hay iniciativas muy encomiables que abogan por la apertura de datos. Convengo que la disponibilidad de datos de organizaciones púbicas y privadas facilitaría su fiscalización. En particular, la fiscalización que realiza la prensa: su acción sería más eficaz de no tener que jugar al gato y al ratón.
+Pero hay motivos para el escepticismo. Hay motivos para pensar que la liberación de datos es condición hasta cierto punto necesaria pero en modo alguno suficiente para alcanzar esos loables objetivos.</description>
+    </item>
+    
+    <item>
+      <title>Una macro para generar titulares sobre resultados de encuestas</title>
+      <link>/2013/07/22/una-macro-para-generar-titulares-sobre-resultados-de-encuestas/</link>
+      <pubDate>Mon, 22 Jul 2013 07:28:00 +0000</pubDate>
+      
+      <guid>/2013/07/22/una-macro-para-generar-titulares-sobre-resultados-de-encuestas/</guid>
+      <description>Tropecé el otro día con un artículo en el NYT del que reproduzco (incluido el enlace) un párrafo:
+Me parece un ejemplo magnífico de cómo deberían resumirse en prensa los resultados de una encuesta por los siguientes motivos:
+ * Ni oculta ni relega a un pie de foto con letras minúsculas la información técnica relevante de la encuesta. Dicho de otra manera, no le falta el respeto al lector, lo considera un individuo medianamente inteligente y le hace saber que se trata de una entrevista telefónica, realizada a 1000 adultos y con margen de error dado.</description>
+    </item>
+    
+    <item>
+      <title>Vídeo de mi charla en el Taller InnovaData de periodismo de datos</title>
+      <link>/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/</link>
+      <pubDate>Wed, 29 May 2013 07:36:12 +0000</pubDate>
+      
+      <guid>/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/</guid>
+      <description>Ayer, tal y como anuncié el otro día, participé en el Taller InnovaData de periodismo de datos. El vídeo de mi intervención (a partir del minuto 2:02:00 aproximadamente) puede verse en
+http://www.youtube.com/watch?feature=player_embedded&amp;amp;v;=HsSHVyk_448
+Las diapositivas de la charla (que en el vídeo, desgraciadamente, son, por así decirlo, tanto asíncronas) pueden descargarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>Charla el día 27 en el Taller InnovaData de periodismo de datos</title>
+      <link>/2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/</link>
+      <pubDate>Wed, 22 May 2013 10:30:03 +0000</pubDate>
+      
+      <guid>/2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/</guid>
+      <description>El lunes que viene, día 27 de mayo, impartiré un taller de&amp;hellip; bueno, según el programa, de Principios básicos de estadística. En realidad quiero hablar principalmente de cómo evitar incurrir en el poco conocido error de tipo III —dar la respuesta correcta al problema equivocado— y, en particular, de tres de los fenómenos que nos conducen hacia él:
+ * La inextricable **multidimensionalidad **de la realidad. * Nuestra atávica aversión a la **incertidumbre**.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Tu tasa de paro&#34; en Medialab Prado</title>
+      <link>/2013/04/15/tu-tasa-de-paro-en-medialab-prado/</link>
+      <pubDate>Mon, 15 Apr 2013 07:08:32 +0000</pubDate>
+      
+      <guid>/2013/04/15/tu-tasa-de-paro-en-medialab-prado/</guid>
+      <description>El martes (2013-04-15 en formato ISO 8601) participaré en el II Barcamp de Periodismo de Datos en Medialab Prado de 5:00 a 8:00 de la tarde.
+
+Hablaré de Tu Tasa de Paro, proyecto del que ya hablé en otra ocasión. Y aprovecharé, claro está, para promocionar R y, en particular, el paquete MicroDatosEs.
+¡Estáis invitados!</description>
+    </item>
+    
+    <item>
+      <title>Más sobre variaciones insignificantes en estadísticas públicas</title>
+      <link>/2012/12/04/mas-sobre-variaciones-insignificantes-en-estadisticas-publicas/</link>
+      <pubDate>Tue, 04 Dec 2012 07:56:48 +0000</pubDate>
+      
+      <guid>/2012/12/04/mas-sobre-variaciones-insignificantes-en-estadisticas-publicas/</guid>
+      <description>Hemos talado cantidad de montes y destruido el ecosistema de miles de ardillas para fabricar el papel sobre el que discutir asuntos totalmente irrelevantes. Hablé un poco de eso hace unos días y más en ocasiones anteriores, como esta y alguna más que me da pereza ubicar.
+Ahora leo en Significance cómo protesta Mark Fransham:
+El titular no aportaba información sobre el error muestral asociado, pero en una de las tablas del informe encontré cómo el cambio trimestral era de -50,000 +/-89,000.</description>
+    </item>
+    
+    <item>
+      <title>No es país para &#34;biplots&#34;</title>
+      <link>/2012/11/12/no-es-pais-para-biplots/</link>
+      <pubDate>Mon, 12 Nov 2012 07:34:13 +0000</pubDate>
+      
+      <guid>/2012/11/12/no-es-pais-para-biplots/</guid>
+      <description>No, parece que aún no estamos preparados para los biplots. En el curso Introduction to Infographics and Data Visualization de Alberto Cairo, nos pidieron sugierir mejoras y alternativas a este gráfico:
+
+En el curso aparecieron sugerencias tales como esta,
+
+esta, y otras similares que jugaban con los elementos gráficos habituales con más o menos arte, mejor o peor gusto en los colores, etc.
+A mí se me ocurrió que los datos que aparecen en el gráfico original podía, con alguna salvedad y abusando del lenguaje, considerarse una especie de tabla de contingencia que incluía el número de personas que en cada país hacen uso de distintos tipos de servicios de internet.</description>
+    </item>
+    
+    <item>
+      <title>Tesis de maestría: periodismo de datos, &#34;big data&#34; y &#34;open data&#34;</title>
+      <link>/2012/11/06/tesis-de-maestria-periodismo-de-datos-big-data-y-open-data/</link>
+      <pubDate>Tue, 06 Nov 2012 07:55:45 +0000</pubDate>
+      
+      <guid>/2012/11/06/tesis-de-maestria-periodismo-de-datos-big-data-y-open-data/</guid>
+      <description>Tal vez a quienes siguen estas páginas les interese echar un vistazo a la tesis de maestría de Ángeles Mariño.
+He aquí la introducción:
+Dos de los fenómenos que más han ido acelerando el desarrollo de esta nueva especialidad han sido Big Data y Open Data, los cuales han ido impulsando el desarrollo de nuevas herramientas para su análisis y comunicación. De ahí que los periodistas fueron –y continúan- adquiriendo nuevas habilidades en orden a analizar, filtrar y hacer visibles grandes masas de datos.</description>
+    </item>
+    
+    <item>
+      <title>La crisis es buena para la salud, parece</title>
+      <link>/2012/10/31/la-crisis-es-buena-para-la-salud-parece/</link>
+      <pubDate>Wed, 31 Oct 2012 07:59:54 +0000</pubDate>
+      
+      <guid>/2012/10/31/la-crisis-es-buena-para-la-salud-parece/</guid>
+      <description>Ayer leí el artículo Las listas de espera se agravan en El País que parece indicar indirectamente que la crisis tiene efectos beneficiosos para la salud.
+
+Leyendo el artículo uno se queda con la copla de que ha crecido tanto el tiempo medio de espera para los tratamientos médicos como el número de personas que los aguardan. Los números pueden verse en el gráfico anterior, extraído del artículo. Lo curioso es que las proporciones son desiguales.</description>
+    </item>
+    
+    <item>
+      <title>Cultura numérica, incultura numérica</title>
+      <link>/2012/10/30/cultura-numerica-incultura-numerica/</link>
+      <pubDate>Tue, 30 Oct 2012 07:49:35 +0000</pubDate>
+      
+      <guid>/2012/10/30/cultura-numerica-incultura-numerica/</guid>
+      <description>Traigo hoy dos enlaces relacionados a mi bitácora.
+No sé si conocéis OWNI, un Objet Web Non Identifié. Una de sus tres secciones prominentes se llama Cultures Numériques. No datos. No periodismo de datos. No OpenData. Sino culturas numéricas (supongo que el plural es un brindis a la ultracorrección política). Que tal sea el nombre invita a reflexiones que habrían de germinar por sí solas en las mentes de mis lectores.</description>
+    </item>
+    
+    <item>
+      <title>Balanzas fiscales y periodismo basado en datos</title>
+      <link>/2012/10/09/balanzas-fiscales-y-periodismo-basado-en-datos/</link>
+      <pubDate>Tue, 09 Oct 2012 07:35:49 +0000</pubDate>
+      
+      <guid>/2012/10/09/balanzas-fiscales-y-periodismo-basado-en-datos/</guid>
+      <description>Dudo al escribir sobre el asunto porque el contexto del artículo que traigo a colación es ajeno al interés de esta bitácora. Pero me ha parecido un ejercicio inigualable de lo que debería ser el periodismo de datos.
+El título es sugerente: ¿Cisne negro o pollo del montón? El déficit fiscal catalán en perspectiva. El tema del cisne negro ya ya sido mencionado aquí previamente, aunque mencionarlo en este contexto sólo es posible sometiendo el término a una cierta violencia léxica.</description>
+    </item>
+    
+    <item>
+      <title>Datos sobre los presupuestos del País Vasco</title>
+      <link>/2012/10/05/datos-sobre-los-presupuestos-del-pais-vasco/</link>
+      <pubDate>Fri, 05 Oct 2012 06:52:09 +0000</pubDate>
+      
+      <guid>/2012/10/05/datos-sobre-los-presupuestos-del-pais-vasco/</guid>
+      <description>Quien haya seguido históricamente esta bitácora sabrá que, hablando en plata, cuando me enrollo es para meter caña. Es mi personalidad. Y no es cómodo soportarla.
+
+Como hoy no tengo objeción alguna que hacer en el tema que quiero tratar, seré infinitamente breve. Solo digo: visitad esto.</description>
+    </item>
+    
+    <item>
+      <title>Un pequeño ejercicio de agudeza visual</title>
+      <link>/2012/10/03/un-pequeno-ejercicio-de-agudeza-visual/</link>
+      <pubDate>Wed, 03 Oct 2012 07:15:30 +0000</pubDate>
+      
+      <guid>/2012/10/03/un-pequeno-ejercicio-de-agudeza-visual/</guid>
+      <description>Consiste en echarle un vistazo a
+
+y pensar si hay relación entre las variables x e y que aparecen en el gráfico.
+Luego, darse cuenta de que corresponden al logaritmo decimal del tamaño de los municipios españoles de más de 1000 habitantes y su deuda por habitante.
+Y, finalmente, examinar el título de esta entrada de blog, leerlo si procede, y extraer las conclusiones que uno considere oportunas.</description>
+    </item>
+    
+    <item>
+      <title>Incendios en España</title>
+      <link>/2012/08/14/incendios-en-espana/</link>
+      <pubDate>Tue, 14 Aug 2012 07:03:50 +0000</pubDate>
+      
+      <guid>/2012/08/14/incendios-en-espana/</guid>
+      <description>Quienes siguen de antiguo estas páginas recordarán que ya me ocupé de la cuestión de los incendios forestales hace un tiempo. Después han pasado cosas.
+Por un lado, vía Alberto González Paje di con esta página, que utiliza datos del informe estadístico que publica el Ministerio de Medio Ambiente (y de otras cosas más, según la legislatura en cuestión).
+También asistí hace un tiempo a una reunión de MediaLab Prado en la que Juan Elosúa nos contó cómo había conseguido acceso a la base de datos completa de incendios del Ministerio a fuerza de insistir y amparado por ciertas normas que garantizan el derecho de los ciudadanos a cualquier tipo de información de tipo medioambiental.</description>
+    </item>
+    
+    <item>
+      <title>Tres ideas sobre datos abiertos</title>
+      <link>/2012/07/31/tres-ideas-sobre-datos-abiertos/</link>
+      <pubDate>Tue, 31 Jul 2012 07:31:48 +0000</pubDate>
+      
+      <guid>/2012/07/31/tres-ideas-sobre-datos-abiertos/</guid>
+      <description>1. Primero, colgar los datos en internet (aunque protegiendo al máximo el derecho a la privacidad). 2. Segundo, hacerlo en formatos que sean útiles a los desarrolladores, que puedan ser leídos automáticamente a través de APIs. 3. Tercero, educar a los innovadores y a los emprendedores acerca de la información disponible en la red a través de reuniones de desarrolladores, etc. para que la pongan en valor.  No son mías.</description>
+    </item>
+    
+    <item>
+      <title>No es país para estadísticos</title>
+      <link>/2012/07/30/no-es-pais-para-estadisticos/</link>
+      <pubDate>Mon, 30 Jul 2012 09:02:36 +0000</pubDate>
+      
+      <guid>/2012/07/30/no-es-pais-para-estadisticos/</guid>
+      <description>Esto me pasa por madrugar en lunes. Me levanto y me tropiezo con noticias como esta:
+
+Ha sido reproducida en términos similares en otros medios. Es decir, incidiendo en la presunta causalidad de la subida del precio de los medicamentos en la subida del IPC de julio (el índice adelantado; el definitivo se conocerá a mediados de agosto). Sin embargo, la nota de prensa del INE, la única información con la que se cuenta a esta hora y que no incluye desgloses dice textualmente (aunque con mi subrayado):</description>
+    </item>
+    
+    <item>
+      <title>Deshaucios en España y su estructura geográfica</title>
+      <link>/2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/</link>
+      <pubDate>Fri, 20 Jul 2012 07:10:45 +0000</pubDate>
+      
+      <guid>/2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/</guid>
+      <description>Participo (de manera muy pasiva) en un foro de periodismo de datos de Barcelona. En él se planteó la posibilidad de desarrollar un proyecto para recopilar información sobre deshaucios y entender mejor este fenómeno.
+La iniciativa partió de Carlos Alonso, Concha Catalán y Karma Peiró y, recientemente, Alberto Gonzalez Paje ha cruzado varias bases de datos (como esta, la de la población por provincias del INE, etc.) para crear el material con el que he construido el siguiente gráfico:</description>
+    </item>
+    
+    <item>
+      <title>Estadística para periodistas en Idescat</title>
+      <link>/2012/05/16/estadistica-para-periodistas-en-idescat/</link>
+      <pubDate>Wed, 16 May 2012 07:18:05 +0000</pubDate>
+      
+      <guid>/2012/05/16/estadistica-para-periodistas-en-idescat/</guid>
+      <description>Idescat, el instituto de estadística oficial de Cataluña, va a organizar el día 18 de mayo un curso de estadística para periodistas. Sus objetivos son, con mi traducción,
+ayudar a entender e interpretar la estadística por jugar un papel importante a la hora de dar un valor añadido a la información que ofrecen [los medios].
+Además, se espera que las jornadas se conviertan en un canal de difusión permanente y que se organicen otras en el futuro.</description>
+    </item>
+    
+    <item>
+      <title>Números rojos (y perfectibles)</title>
+      <link>/2012/05/04/numeros-rojos-y-perfectibles/</link>
+      <pubDate>Fri, 04 May 2012 07:09:29 +0000</pubDate>
+      
+      <guid>/2012/05/04/numeros-rojos-y-perfectibles/</guid>
+      <description>El otro día compré un número de Números Rojos. En parte, por curiosidad. En parte, por deformación profesional. Y también porque escribían Peces-Barba, Mayor Zaragoza y algún otro.
+Y sé que existen las erratas. Y se puede meter la pata. Pero hay cosas que son imperdonables en un eurodiputado, como parece que lo es el señor Jean-Paul Besset, como confundir el PIB con el PIB per cápita. Efectivamente, existe el Índice de Desarrollo Humano que recoge aspectos que se le escapan a ese otro baremo con que se miden los países, como es el PIB per cápita.</description>
+    </item>
+    
+    <item>
+      <title>Periodismo de datos en Via52.com</title>
+      <link>/2012/04/17/periodismo-de-datos-en-via52-com/</link>
+      <pubDate>Tue, 17 Apr 2012 07:33:54 +0000</pubDate>
+      
+      <guid>/2012/04/17/periodismo-de-datos-en-via52-com/</guid>
+      <description>El jueves pasado, en MediaLab Prado, tuve ocasión de asistir a una presentación de los responsables de Via52,
+Lo más interesante de esta publicación para quienes siguen esta bitácora es el énfasis que hacen en el periodismo de datos. Además:
+Tengo entendido, además, que próximamente van a sacar un número muy jugoso&amp;hellip; y hasta ahí puedo leerescribir.</description>
+    </item>
+    
+    <item>
+      <title>Estoy muy de acuerdo con la CEOE...</title>
+      <link>/2012/02/24/estoy-muy-de-acuerdo-con-la-ceoe/</link>
+      <pubDate>Fri, 24 Feb 2012 07:55:42 +0000</pubDate>
+      
+      <guid>/2012/02/24/estoy-muy-de-acuerdo-con-la-ceoe/</guid>
+      <description>&amp;hellip; cuando dice que hay que ver qué pasa y analizar las estadísticas. En lo demás, no lo sé (ni lo pienso decir aquí). Pero traigo el asunto a colación porque hace un par de días hablé, un tanto exteporáneamente, sobre desempleo y subsidios. Y uno de mis lectores hizo un comentario del que extraigo
+Ahora, Juan Rosell, presidente de la CEOE, nos dice:
+Obviamente, en estas páginas no podemos estar más de acuerdo con el Sr.</description>
+    </item>
+    
+    <item>
+      <title>Higiene numérica para periodistas</title>
+      <link>/2012/02/23/higiene-numerica-para-periodistas/</link>
+      <pubDate>Thu, 23 Feb 2012 08:36:13 +0000</pubDate>
+      
+      <guid>/2012/02/23/higiene-numerica-para-periodistas/</guid>
+      <description>De la bitácora de Getstats y a través de un enlace publicado por Alberto Cairo en su cuenta de Twitter, he llegado a lo que los periodistas deberían saber (para informar correctamente cuando el asunto tiene tintes cuantitativos).
+Proporciona un enlace a un documento que me tomo la libertad de traducir aquí. Se trata de una lista con los siguientes doce consejos:
+ 1. Si tropiezas con un número en una historia o comunicado de prensa, ten cuidado.</description>
+    </item>
+    
+    <item>
+      <title>R y alRededoRes en MediaLab Prado</title>
+      <link>/2012/02/13/r-y-alrededores-en-medialab-prado/</link>
+      <pubDate>Mon, 13 Feb 2012 17:58:56 +0000</pubDate>
+      
+      <guid>/2012/02/13/r-y-alrededores-en-medialab-prado/</guid>
+      <description>Con retraso —del que mis vacaciones en tierras australes tienen la culpa— doy noticia de la charla que dio Carlos Ortega, antiguo colaborador de esta bitácora, en MediaLab Prado, dentro del ciclo de periodismo de datos.
+
+La presentación que hizo y su vídeo pueden consultarse en línea.
+Quiero también subrayar y dejar constancia para los futuros historiadores de la cosa que esta ha sido la primera actividad pública promovida por la recientemente constituida Comunidad de Usuarios de R (que tengo, como es probable que sepan ya mis lectores, el honor de presidir).</description>
+    </item>
+    
+    <item>
+      <title>Disponibles los vídeos sobre periodismo de datos en MediaLab Prado</title>
+      <link>/2012/01/20/disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-prado/</link>
+      <pubDate>Fri, 20 Jan 2012 06:57:13 +0000</pubDate>
+      
+      <guid>/2012/01/20/disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-prado/</guid>
+      <description>Informaba el otro día en estas páginas sobre la formación en captura de datos que hubo, dentro del ciclo charlas sobre de periodismo de datos, en MediaLab Prado.
+
+Al final, una de esas imprevisibles circunstancias de última hora me impidió asistir.
+Pero, menos mal, ya están disponibles los vídeos para echarles un vistazo este fin de semana.</description>
+    </item>
+    
+    <item>
+      <title>Captura de datos, MediaLab Prado y NeedleBase</title>
+      <link>/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/</link>
+      <pubDate>Fri, 30 Dec 2011 06:22:41 +0000</pubDate>
+      
+      <guid>/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/</guid>
+      <description>Ya he hablado en ocasiones anteriores en este foro de MediaLab Prado. Y también de los talleres que está realizando sobre periodismo de datos.
+El día 12 de enero —y a ver qué invento para poder acudir— habrá una sesión sobre captura de datos uno de cuyos talleres tratará sobre scrapping usando NeedleBase.
+Anoche vi el siguiente vídeo sobre esta herramienta,
+  y quedé impactado sobre las cosas que puede llegar a hacer.</description>
+    </item>
+    
+  </channel>
+</rss>

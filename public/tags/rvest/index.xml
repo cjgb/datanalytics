@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rvest on datanalytics</title>
+    <link>/tags/rvest/</link>
+    <description>Recent content in rvest on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 03 Oct 2019 09:13:02 +0000</lastBuildDate><atom:link href="/tags/rvest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>flygskam punto ceeseuve</title>
+      <link>/2019/10/03/flygskam-punto-ceeseuve/</link>
+      <pubDate>Thu, 03 Oct 2019 09:13:02 +0000</pubDate>
+      
+      <guid>/2019/10/03/flygskam-punto-ceeseuve/</guid>
+      <description>Para todos aquellos a los que volar les da vergüenza. Para todos aquellos que han sido víctimas de Vueling o Ryanair. Para todos aquellos que saben que cualquier cosa del mundo se puede encontrar mejor y más barata en Lavapiés. Para todos aquellos que han ido a JFK para enterarse de que su vuelo salía de Newark. Para todos aquellos a los que les han cancelado un billete de vuelta porque se durmieron y perdieron la la ida.</description>
+    </item>
+    
+    <item>
+      <title>El número efectivo de partidos</title>
+      <link>/2017/01/25/el-numero-efectivo-de-partidos/</link>
+      <pubDate>Wed, 25 Jan 2017 08:13:47 +0000</pubDate>
+      
+      <guid>/2017/01/25/el-numero-efectivo-de-partidos/</guid>
+      <description>El número efectivo de partidos es el nombre de una página de la Wikipedia, que contiene la fórmula
+$latex N = \frac{1}{\sum_i p_i^2}$
+y excipiente alrededor.
+Aplicada a España (usando datos del CIS como proxy),
+Como casi siempre, el código:
+library(rvest) library(rvest) library(reshape2) library(plyr) library(zoo) url &amp;lt;- &amp;quot;http://www.cis.es/cis/export/sites/default/-Archivos/Indicadores/documentos_html/sB606050010.html&amp;quot; raw &amp;lt;- read_html(url) tmp &amp;lt;- html_nodes(raw, &amp;quot;table&amp;quot;) tmp &amp;lt;- html_table(tmp[[2]], fill = TRUE) colnames(tmp)[1] &amp;lt;- &amp;quot;partido&amp;quot; tmp &amp;lt;- tmp[!is.na(tmp$partido),] tmp &amp;lt;- tmp[1:30,] tmp &amp;lt;- melt(tmp, id.</description>
+    </item>
+    
+    <item>
+      <title>Tod[rep(&#39;a&#39;, 831)]s y tod[rep(&#39;o&#39;, 6450)]s los autores de paquetes de R</title>
+      <link>/2016/08/31/todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r/</link>
+      <pubDate>Wed, 31 Aug 2016 08:13:15 +0000</pubDate>
+      
+      <guid>/2016/08/31/todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r/</guid>
+      <description>En los últimos tiempos se ha puesto de moda un subgénero periodístico que es una manera de generar artículos de acuerdo con el siguiente algoritmo:
+ 1. Se toma una lista de personas. 2. Se cuenta en ella el número de mujeres (a) y de hombres (b). 3. Si a &amp;gt;= b, GOTO 1; si no, se copipega y se mutatismutandea un manido argumento.  No sabiéndome sustraer al encanto del último grito, he escrito y corrido</description>
+    </item>
+    
+  </channel>
+</rss>

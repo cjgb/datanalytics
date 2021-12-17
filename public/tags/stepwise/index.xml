@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stepwise on datanalytics</title>
+    <link>/tags/stepwise/</link>
+    <description>Recent content in stepwise on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Feb 2014 08:07:56 +0000</lastBuildDate><atom:link href="/tags/stepwise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimentos con el paquete gbm</title>
+      <link>/2014/02/06/experimentos-con-el-paquete-gbm/</link>
+      <pubDate>Thu, 06 Feb 2014 08:07:56 +0000</pubDate>
+      
+      <guid>/2014/02/06/experimentos-con-el-paquete-gbm/</guid>
+      <description>No conocía el paquete gbm. Pero como ahora ando rodeado de data scientists que no son estadísticos&amp;hellip;
+Bueno, la cuestión es que había que ajustar un modelo para el que yo habría hecho algo parecido a
+dat &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/read.csv&amp;quot;&amp;gt;read.csv(&amp;quot;http://www.ats.ucla.edu/stat/data/poisson_sim.csv&amp;quot;) summary(m.glm &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/glm&amp;quot;&amp;gt;glm(num_awards ~ prog + math, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/family&amp;quot;&amp;gt;family = &amp;quot;poisson&amp;quot;, data = dat)) # Call: # glm(formula = num_awards ~ prog + math, family = &amp;quot;poisson&amp;quot;, data = dat) # # Deviance Residuals: # Min 1Q Median 3Q Max # -2.</description>
+    </item>
+    
+    <item>
+      <title>Algunos problemas de la regresión paso a paso (&#34;stepwise&#34;)</title>
+      <link>/2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/</link>
+      <pubDate>Tue, 28 Jan 2014 08:58:55 +0000</pubDate>
+      
+      <guid>/2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/</guid>
+      <description>Fueron problemas planteados por Frank Harrell, recopilados aquí y ahora traducidos por mí para mi bitácora.
+Problemas de la regresión paso a paso:
+ * La R-cuadrado obtenida está muy sesgada hacia arriba. * Los test F y chi-cuadrado que aparecen al lado de las variables no siguen dichas distribuciones. * Los intervalos de confianza son demasiado (e incorrectamente) estrechos. * Los p-valores obtenidos no tienen el significado esperado y el de corregirlos adecuadamente es un problema muy difícil.</description>
+    </item>
+    
+  </channel>
+</rss>

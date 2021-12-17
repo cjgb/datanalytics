@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embalses on datanalytics</title>
+    <link>/tags/embalses/</link>
+    <description>Recent content in embalses on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 30 Apr 2014 06:51:55 +0000</lastBuildDate><atom:link href="/tags/embalses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embalses en España: otro ejercicio inconcluso de &#34;web scraping&#34;</title>
+      <link>/2014/04/30/embalses-en-espana-otro-ejercicio-inconcluso-de-web-scraping/</link>
+      <pubDate>Wed, 30 Apr 2014 06:51:55 +0000</pubDate>
+      
+      <guid>/2014/04/30/embalses-en-espana-otro-ejercicio-inconcluso-de-web-scraping/</guid>
+      <description>Vi el otro día que alguien había conseguido datos de la entrada en funcionamiento de las presas de EE.UU. y me picó la curiosidad: ¿se podrán conseguir también para España?
+La respuesta es afirmativa.
+El código para bajarse (y adecentar un poco) la base de datos es:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) ## bajada de datos tmp &amp;lt;- lapply(1:47, function(x) readLines(paste(&amp;quot;http://www.seprem.es/presases.php?p=&amp;quot;, x, sep = &amp;quot;&amp;quot;))) tmp2 &amp;lt;- lapply(tmp, readHTMLTable) ## limpieza de datos res &amp;lt;- lapply(tmp2, function(x) x[[1]]) res &amp;lt;- do.</description>
+    </item>
+    
+  </channel>
+</rss>

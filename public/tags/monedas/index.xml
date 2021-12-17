@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monedas on datanalytics</title>
+    <link>/tags/monedas/</link>
+    <description>Recent content in monedas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 05 Feb 2018 08:13:39 +0000</lastBuildDate><atom:link href="/tags/monedas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lanzamientos de moneda: no es azar sino física</title>
+      <link>/2018/02/05/lanzamientos-de-moneda-no-es-azar-sino-fisica/</link>
+      <pubDate>Mon, 05 Feb 2018 08:13:39 +0000</pubDate>
+      
+      <guid>/2018/02/05/lanzamientos-de-moneda-no-es-azar-sino-fisica/</guid>
+      <description>Lo dicen Diaconis y sus coautores en Dynamical Bias in the Coin Toss.
+Que es un artículo en el que modelan la física de lanzamientos de moneda e incluso y llegan a construir una máquina con el aspecto
+que siempre obtiene caras (o cruces).
+El quid de la historia es que existen condiciones iniciales de lanzamiento (velocidad inicial, velocidad angular) isoresultado (donde resultado es cara o cruz). Como en
+Es decir, si se tira una moneda primero y se obtiene cruz, tirándola otra vez ligeramente más despacio aunque con una rotación ligeramente más rápida (donde ambas velocidades guardan una determinada relación funcional), se vuelve a obtener cruz necesariamente.</description>
+    </item>
+    
+  </channel>
+</rss>

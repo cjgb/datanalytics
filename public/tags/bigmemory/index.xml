@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bigmemory on datanalytics</title>
+    <link>/tags/bigmemory/</link>
+    <description>Recent content in bigmemory on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 22 Jul 2015 08:13:34 +0000</lastBuildDate><atom:link href="/tags/bigmemory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estrategias escalables con R</title>
+      <link>/2015/07/22/estrategias-escalables-con-r-2/</link>
+      <pubDate>Wed, 22 Jul 2015 08:13:34 +0000</pubDate>
+      
+      <guid>/2015/07/22/estrategias-escalables-con-r-2/</guid>
+      <description>Recomiendo leer Scalable Strategies for Computing with Massive Data, un artículo que trata dos de los problemas de escalabilidad con que tropezamos los usuarios de R:
+ * Los de memoria, para los que proponen e ilustran el uso del paquete [`bigmemory`](https://cran.r-project.org/web/packages/bigmemory/index.html). * Los de velocidad de ejecución, a los que se enfrentan paralelizando el código, tanto en una única máquina como en un clúster, con [`foreach`](https://cran.r-project.org/web/packages/foreach/index.html).  En el artículo no solo discute los dos paquetes por separado sino que ilustra, además, cómo usarlos conjuntamente en su propuesta de estrategia escalable con R.</description>
+    </item>
+    
+    <item>
+      <title>Estrategias escalables (con R)</title>
+      <link>/2014/07/09/estrategias-escalables-con-r/</link>
+      <pubDate>Wed, 09 Jul 2014 07:13:41 +0000</pubDate>
+      
+      <guid>/2014/07/09/estrategias-escalables-con-r/</guid>
+      <description>Hay quienes preguntan cómo cargar con R un csv de 8GB en un portátil de 4GB de RAM. La verdad, he leído respuestas la mar de extravagantes a este tipo de cuestiones: p.e., recomendar SQLite.
+Yo recomendaría Scalable Strategies for Computing with Massive Data. Entre otras cosas, porque para eso lo escribieron sus autores: para que se lea. Y porque está cargado de razón y buenos consejos.
+Una cosa con la que tropezará enseguida quien lo hojee es:</description>
+    </item>
+    
+  </channel>
+</rss>

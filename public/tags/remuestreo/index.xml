@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remuestreo on datanalytics</title>
+    <link>/tags/remuestreo/</link>
+    <description>Recent content in remuestreo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 22 Jan 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/remuestreo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siete llaves al sepulcro del método delta</title>
+      <link>/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/</link>
+      <pubDate>Wed, 22 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/</guid>
+      <description>El desafortunado tuit
+https://twitter.com/gilbellosta/status/1219196123094700032
+es de lo más parecido a que me repitan unos chorizos que me ha ocurrido últimamente. Salvo que en lugar de chorizos, lo que se me manifestaban fueron años estudiando matemáticas y, por extensión, las partes más analíticas de la estadística.
+Con inmerecida delicadeza, se me respondió:
+https://twitter.com/joscani/status/1219350615987511297
+Y sí, hay que cerrar con siete llaves el sepulcro del método delta o, en su defecto, activar el pin parental el día que toque.</description>
+    </item>
+    
+    <item>
+      <title>P-valores y decisiones</title>
+      <link>/2019/12/04/p-valores-y-decisiones/</link>
+      <pubDate>Wed, 04 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/04/p-valores-y-decisiones/</guid>
+      <description>Los números de esta entrada son reales aunque disfrazados: proceden de un proyecto real. Para medir la efectividad de una serie de modelos que hemos creado en Circiter, hemos pedido al cliente lo de siempre: que parta la lista de sujetos en dos al azar para después poder medir los éxitos y fracasos usando dos procedimientos distintos.
+Pero como tenemos dudas acerca del proceso de partición —que no controlamos nosotros— hemos medido el número de éxitos y fracasos en cada uno de los grupos en una prueba previa.</description>
+    </item>
+    
+    <item>
+      <title>Remuestreos y tests de hipótesis</title>
+      <link>/2014/11/10/remuestreos-y-tests-de-hipotesis/</link>
+      <pubDate>Mon, 10 Nov 2014 07:13:58 +0000</pubDate>
+      
+      <guid>/2014/11/10/remuestreos-y-tests-de-hipotesis/</guid>
+      <description>No sé si visteis el vídeo que colgué el otro día. Trataba el problema de determinar si dos poblaciones
+beer &amp;lt;- c(27, 20, 21, 26, 27, 31, 24, 21, 20, 19, 23, 24, 18, 19, 24, 29, 18, 20, 17, 31, 20, 25, 28, 21, 27) water &amp;lt;- c(21, 22, 15, 12, 21, 16, 19, 15, 22, 24, 19, 23, 13, 22, 20, 24, 18, 20)  tienen o no la misma media.</description>
+    </item>
+    
+    <item>
+      <title>Estadística &#34;clásica&#34; vs remuestreo</title>
+      <link>/2014/11/06/estadistica-clasica-vs-remuestreo/</link>
+      <pubDate>Thu, 06 Nov 2014 07:13:28 +0000</pubDate>
+      
+      <guid>/2014/11/06/estadistica-clasica-vs-remuestreo/</guid>
+      <description>Hace unos años, Juanjo Gibaja y yo organizamos un &amp;ldquo;curso de estadística moderna con R&amp;rdquo;. Queríamos mostrar en él que otra estadística es posible, que con la ayuda de los ordenadores (¡y de R!) los problemas clásicos de la estadística pueden afrontarse de otra manera. Y que esta manera es más natural y accesible.
+Hoy uno de nuestros antiguos alumnos nos ha agradecido que le señalásemos el camino de esos superpoderes:</description>
+    </item>
+    
+    <item>
+      <title>Más allá del teorema central del límite</title>
+      <link>/2014/10/21/mas-alla-del-teorema-central-del-limite/</link>
+      <pubDate>Tue, 21 Oct 2014 07:13:53 +0000</pubDate>
+      
+      <guid>/2014/10/21/mas-alla-del-teorema-central-del-limite/</guid>
+      <description>Uno espera la media de un número suficiente de variables aleatorias razonablemente iid tenga una distribución normal. Uno casi espera siempre obtener ese aburrido histograma cada vez que remuestrea medias. La gente dice que el teorema central del límite rige necesariamente cuando su tamaño muestral es del orden de magnitud del bruto anual de un gerifalte. Etc.
+Pero a veces uno tropieza con distribuciones bootstrap tales como
+
+que le hacen recordar que existe un universo más allá de las hipótesis de esos teoremas tan manidos; que la teoría, al final, solo llega hasta donde llega y que, en definitiva, hay que estar siempre alerta y desconfiar del rituales y automatismos.</description>
+    </item>
+    
+  </channel>
+</rss>

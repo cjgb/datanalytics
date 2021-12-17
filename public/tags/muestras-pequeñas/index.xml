@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>muestras pequeñas on datanalytics</title>
+    <link>/tags/muestras-peque%C3%B1as/</link>
+    <description>Recent content in muestras pequeñas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 15 Dec 2011 06:43:13 +0000</lastBuildDate><atom:link href="/tags/muestras-peque%C3%B1as/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gráficos de embudo para controlar la varianza en muestras pequeñas</title>
+      <link>/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/</link>
+      <pubDate>Thu, 15 Dec 2011 06:43:13 +0000</pubDate>
+      
+      <guid>/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/</guid>
+      <description>Publiqué hace un tiempo una entrada en esta bitácora sobre el problema que representa la desigualdad de los tamaños muestrales a la hora de comprender cierto tipo de datos, como por ejemplo, los que trata de representar el gráfico
+
+que muestra la incidencia del cáncer de riñón en distintas zonas de en EE.UU. Como indiqué entonces, los valores extremos se encuentran en zonas menos pobladas: cuanto menor es la población, más probables son las proporciones inhabituales.</description>
+    </item>
+    
+    <item>
+      <title>De la varianza en muestras pequeñas (y el problema del hospital)</title>
+      <link>/2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/</link>
+      <pubDate>Wed, 10 Aug 2011 07:47:14 +0000</pubDate>
+      
+      <guid>/2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/</guid>
+      <description>En un artículo que enlacé hace un tiempo se planteó el que después recibiría el nombre del problema del hospital:
+ En una ciudad hay dos hospitales. En el grande, hay, en promedio, 45 partos al día; en el pequeño, 15. La probabilidad de que un recién nacido sea niño o niña se supone igual al 50 %. ¿En qué hospital es más probable que en un día dado la proporción de niñas exceda el 60%?</description>
+    </item>
+    
+  </channel>
+</rss>

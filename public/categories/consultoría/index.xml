@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>consultoría on datanalytics</title>
+    <link>/categories/consultor%C3%ADa/</link>
+    <description>Recent content in consultoría on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 07 Jul 2021 23:10:00 +0000</lastBuildDate><atom:link href="/categories/consultor%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hayek vs &#34;Machín Lenin&#34;</title>
+      <link>/2021/07/08/hayek-vs-machin-lenin/</link>
+      <pubDate>Wed, 07 Jul 2021 23:10:00 +0000</pubDate>
+      
+      <guid>/2021/07/08/hayek-vs-machin-lenin/</guid>
+      <description>Contexto: Una empresa tiene una serie de técnicos repartidos por todas las provincias que tienen que hacer visitas y reparaciones in situ a una serie de clientes dispersos. La empresa cuenta con un departamento técnico central que asigna diariamente y, fundamentalmente, con herramientas ofimáticas las rutas a cada uno de los técnicos.
+Alternativas tecnológicas:
+ Machín Lenin: Unos científicos de datos usan algoritmos de enrutamiento para crear una herramienta que ayuda (o reemplaza total o parcialmente) al equipo técnico de las hojas de cálculo para generar rutas óptimas que enviar diariamente a los técnicos.</description>
+    </item>
+    
+    <item>
+      <title>Nuevo vídeo en YouTube: analizo un proyecto de fugas de clientes en Paypal</title>
+      <link>/2021/04/25/nuevo-video-en-youtube-analizo-un-proyecto-de-fugas-de-clientes-en-paypal/</link>
+      <pubDate>Sun, 25 Apr 2021 13:32:53 +0000</pubDate>
+      
+      <guid>/2021/04/25/nuevo-video-en-youtube-analizo-un-proyecto-de-fugas-de-clientes-en-paypal/</guid>
+      <description>Acabo de subir a Youtube mi último vídeo:
+https://youtu.be/u-BmTq_oYho
+En él analizo este hilo de Twitter  en el que su autor describe un proyecto muy particular —heterodoxo— de ciencia de datos cuyo objetivo consiste identificar y prevenir la fuga de clientes. El hilo ha circulado todo lo viralmente que permite el tema y me ha parecido interesante sacarle un poco de punta.</description>
+    </item>
+    
+    <item>
+      <title>Distancias (V): el colofón irónico-especulativo</title>
+      <link>/2020/11/23/distancias-v-el-colofon-ironico-especulativo/</link>
+      <pubDate>Mon, 23 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/23/distancias-v-el-colofon-ironico-especulativo/</guid>
+      <description>Remato la serie sobre distancias con una entrega especulativa. Según se la mire, o bien nunca se ha hecho esa cosa o bien nunca ha dejado de hacerse.
+El problema es que ninguna de las propuestas desgranadas por ahí, incluidas las de mis serie, responde eficazmente la gran pregunta:
+La respuesta es contextual, por supuesto, y en muchos de esos contextos habría que tener en cuenta las interacciones entre variables, que es a lo que apunta la pregunta anterior.</description>
+    </item>
+    
+    <item>
+      <title>Distancias (IV): la solución rápida y sucia</title>
+      <link>/2020/11/20/distancias-iv-la-solucion-rapida-y-sucia/</link>
+      <pubDate>Fri, 20 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/20/distancias-iv-la-solucion-rapida-y-sucia/</guid>
+      <description>Prometí (d)escribir una solución rápida y sucia para la construcción de distancias cuando fallan las prêt à porter (euclídeas, Gower, etc.).
+Está basada en la muy socorrida y casi siempre falsa hipótesis de independencia entre las distintas variables $latex x_1, \dots, x_n$ y tiene la forma
+$latex d(\bold{x}a, \bold{x}b) = \sum_i \alpha_i d_i(x{ia}, x{ib})$
+donde los valores $latex \alpha_i$ son unos pesos que me invento (¡eh!, euclides también se inventó que $latex \alpha_i = 1$ y nadie le frunció el ceño tanto como a mí tú ahora) tratando de que ponderen la importancia relativa que tiene la variable $latex i$ en el fenómeno que me interesa.</description>
+    </item>
+    
+    <item>
+      <title>Distancias (III): la gran pregunta</title>
+      <link>/2020/11/06/distancias-iii-la-gran-pregunta/</link>
+      <pubDate>Fri, 06 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/06/distancias-iii-la-gran-pregunta/</guid>
+      <description>Dejemos atrás los puntos en el plano. Olvidemos al Sr. Gower. La gran pregunta a la que uno se enfrenta al construir una distancia es en términos de qué se espera proximidad entre sujetos. Y eso genera una cadena de subpreguntas del tipo:
+Las dos entradas restantes de la serie (una sucia, rápida y práctica; la otra más especulativa) van sobre opciones disponibles para atacar (nótese que digo atacar y no resolver) el problema.</description>
+    </item>
+    
+    <item>
+      <title>Distancias (I): el planteamiento del problema</title>
+      <link>/2020/11/02/distancias-i-el-planteamiento-del-problema/</link>
+      <pubDate>Mon, 02 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/02/distancias-i-el-planteamiento-del-problema/</guid>
+      <description>Me han pedido (vía Twitter) que desarrolle cosas que tengo por ahí desperdigadas (p.e., en las notas de esos cursos que ya no daré y puede que en algunas entradas viejunas de este blog) sobre distancias.
+¿Por qué son importantes las distancias? Por un principio que no suele ser explicitado tanto como merece en ciencia de datos: si quieres saber algo sobre un sujeto, busca unos cuantos parecidos y razona sobre ellos.</description>
+    </item>
+    
+    <item>
+      <title>&#34;The great reset&#34;</title>
+      <link>/2020/05/25/the-great-reset/</link>
+      <pubDate>Mon, 25 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/25/the-great-reset/</guid>
+      <description>La ciencia de datos es la ciencia de la extrapolación. Todas las técnicas que la componen tratan de eso: de como proyectar hacia el futuro el comportamiento pasado. Si funciona, es por las inercias que operan en lo físico, en lo sicológico, en lo conductual.
+[La ciencia de datos puede (no necesariamente, pero puede) ser una extrapolación objetiva: de ahí que quienes denuncian su presunta amoralidad solo nos están haciendo saber una opinión: que el pasado no encaja con su personalísimo criterio ético.</description>
+    </item>
+    
+    <item>
+      <title>Lo que queda cuando has eliminado tantas cosas que ya no se entiende nada se llama &#34;paper&#34;</title>
+      <link>/2020/05/08/lo-que-queda-cuando-has-eliminado-tantas-cosas-que-ya-no-se-entiende-nada-se-llama-paper/</link>
+      <pubDate>Fri, 08 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/08/lo-que-queda-cuando-has-eliminado-tantas-cosas-que-ya-no-se-entiende-nada-se-llama-paper/</guid>
+      <description>Para un observador externo objetivo, eso que llaman ciencia es un conjunto de tinglados absolutamente intrascendente en para su día a día que opera de acuerdo con un sistema torcido de incentivos orquestados alrededor de una suerte de moneda ficticia que se llama paper que permite acumular avatares de todo tipo.
+Esa economía ficticia mantiene nexos con la real. Por ejemplo, una acumulación suficiente de papers genera un avatar llamado sexenio que genera euros contantes y sonantes mes a mes en la cuenta corriente de quien lo ostenta.</description>
+    </item>
+    
+    <item>
+      <title>CausalImpact me ha complacido mucho</title>
+      <link>/2020/03/27/causalimpact-me-ha-complacido-mucho/</link>
+      <pubDate>Fri, 27 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/27/causalimpact-me-ha-complacido-mucho/</guid>
+      <description>Estoy aquí analizando datos para un cliente interesado en estudiar si como consecuencia de uno de esos impuestos modennos con los que las administraciones nos quieren hacer más sanos y robustos. En concreto, le he echado un vistazo a si el impuesto ha encarecido el precio de los productos gravados (sí) y si ha disminuido su demanda (no) usando [CausalImpact](https://CRAN.R-project.org/package=CausalImpact) y me ha complacido mucho que la salida de summary(model, &amp;quot;report&amp;quot;) sea:</description>
+    </item>
+    
+    <item>
+      <title>Fases divergentes y convergentes del análisis de datos</title>
+      <link>/2020/03/06/fases-divergentes-y-convergentes-del-analisis-de-datos/</link>
+      <pubDate>Fri, 06 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/06/fases-divergentes-y-convergentes-del-analisis-de-datos/</guid>
+      <description>Aquí se propone un método para el análisis de datos que resume
+Consta de dos procesos divergentes,
+ la exploración de los datos y * la modelización  y dos convergentes,
+ la síntesis y * la narración, que concluye el análisis.  En el enlace anterior se describe el proceso con más detalle. Eso sí, mis comentarios. El primero es que cada vez veo menos diferencia entre explorar y modelar.</description>
+    </item>
+    
+    <item>
+      <title>Clasificación vs predicción</title>
+      <link>/2020/03/05/clasificacion-vs-prediccion-2/</link>
+      <pubDate>Thu, 05 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/05/clasificacion-vs-prediccion-2/</guid>
+      <description>Aquí se recomienda, con muy buen criterio, no realizar clasificación pura, i.e., asignando etiquetas 0-1 (en casos binarios), sino proporcionar en la medida de lo posible probabilidades. Y llegado el caso, distribuciones de probabilidades, claro.
+La clave es, por supuesto:</description>
+    </item>
+    
+    <item>
+      <title>Sobre la normalización de las direcciones postales</title>
+      <link>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</link>
+      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</guid>
+      <description>Lo de las direcciones postales es un caos. Trabajar con ellas, una tortura. Y cualquier proyecto de ciencia de datos que las emplee se convierte en la n-ésima reinvención de la rueda: normalización y tal.
+Cuando todo debería ser más sencillo. Cada portal en España tiene asociado un número de policía, un identificador numérico único. Independientemente de que quienes lo habiten se refieran a él de formas variopintas, vernaculares y, en definitiva, desnormalizadas y desestandarizadas hasta pedir basta.</description>
+    </item>
+    
+    <item>
+      <title>P-valores y decisiones</title>
+      <link>/2019/12/04/p-valores-y-decisiones/</link>
+      <pubDate>Wed, 04 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/04/p-valores-y-decisiones/</guid>
+      <description>Los números de esta entrada son reales aunque disfrazados: proceden de un proyecto real. Para medir la efectividad de una serie de modelos que hemos creado en Circiter, hemos pedido al cliente lo de siempre: que parta la lista de sujetos en dos al azar para después poder medir los éxitos y fracasos usando dos procedimientos distintos.
+Pero como tenemos dudas acerca del proceso de partición —que no controlamos nosotros— hemos medido el número de éxitos y fracasos en cada uno de los grupos en una prueba previa.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué variable distingue mejor dos subgrupos?</title>
+      <link>/2019/09/24/que-variable-distingue-mejor-dos-subgrupos/</link>
+      <pubDate>Tue, 24 Sep 2019 09:13:25 +0000</pubDate>
+      
+      <guid>/2019/09/24/que-variable-distingue-mejor-dos-subgrupos/</guid>
+      <description>Es una pregunta que surge reiteradamente. Por ejemplo, cuando se compara un clúster con el resto de la población y uno busca las variables que mejor lo caracterizan. Y crear gráficos como
+(extraído de aquí) donde las variables están ordenadas de acuerdo con su poder discriminador.
+Mi técnica favorita para crear tales indicadores es la EMD (earth mover&amp;rsquo;s distance) y/o sus generalizaciones, muy bien descritas en Optimal Transport and Wasserstein Distance y disponibles en R y Python.</description>
+    </item>
+    
+    <item>
+      <title>Un modelo que alimenta una simulación</title>
+      <link>/2019/09/16/un-modelo-que-alimenta-una-simulacion/</link>
+      <pubDate>Mon, 16 Sep 2019 09:13:17 +0000</pubDate>
+      
+      <guid>/2019/09/16/un-modelo-que-alimenta-una-simulacion/</guid>
+      <description>Tenemos en Circiter un proyecto sobre el que no puedo dar muchos detalles, pero que vamos a plantear (en versión muy resumida) como un modelo que alimenta una simulación.
+El modelo no va a ser un modelo sino un modelo por sujeto (rebaños, los llamamos aquí). Los modelos serán, casi seguro, modelos mixtos (lmer/glmer).
+Pero claro, si usas un modelo, por muy mixto que sea, con intención de simular, predict se queda muy corto (¡siempre da la el mismo resultado!</description>
+    </item>
+    
+    <item>
+      <title>Simulación de procesos de Poisson no homogéneos y autoexcitados</title>
+      <link>/2019/04/05/simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados/</link>
+      <pubDate>Fri, 05 Apr 2019 09:13:37 +0000</pubDate>
+      
+      <guid>/2019/04/05/simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados/</guid>
+      <description>Fueron mis modelos favoritos un tiempo, cuando modelaba visitas y revisitas de usuarios a cierto malhadado portal.
+Si las visitas fuesen aleatorias (en cierto sentido), tendrían un aspecto no muy distinto del que se obtiene haciendo
+library(IHSEP) suppressWarnings(set.seed(exp(pi * complex(imaginary = 1)))) tms &amp;lt;- simPois(int = function(x) .1, cens = 1000) hist(tms, breaks = 100, main = &amp;quot;Proceso homogéneo de Poisson&amp;quot;, xlab = &amp;quot;&amp;quot;, ylab = &amp;quot;frecuencia&amp;quot;)  Es decir,</description>
+    </item>
+    
+    <item>
+      <title>Ceteris paribus vs Heráclito</title>
+      <link>/2019/03/25/ceteris-paribus-vs-heraclito/</link>
+      <pubDate>Mon, 25 Mar 2019 09:13:14 +0000</pubDate>
+      
+      <guid>/2019/03/25/ceteris-paribus-vs-heraclito/</guid>
+      <description>¿Cuántas veces hemos oído eso?
+Esa afirmación presupone una fe ciega en la posibilidad de aplicar el principio del ceteris paribus en situaciones reales. Pues lo siento: el ceteris paribus es un concepto irreal, una aspiración a la que la realidad de las cosas se opone tozudamente.
+¿Y Heráclito? Heráclito nos observa desde donde esté y se fuma un puro.</description>
+    </item>
+    
+    <item>
+      <title>Las decisiones son lo primario; la estadística es subsidiaria</title>
+      <link>/2019/03/18/las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria/</link>
+      <pubDate>Mon, 18 Mar 2019 08:13:19 +0000</pubDate>
+      
+      <guid>/2019/03/18/las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria/</guid>
+      <description>En Circiter estamos negociando con unos clientes potenciales acerca de, tal como nos dijeron inicialmente, construir un modelo. Todo bien.
+En la última reunión surgió la pregunta (¡qué vergüenza por mi parte no haberla planteado mucho antes!): ¿cómo habría que usarlo para dar soporte al negocio? La discusión subsiguiente dejó claro que habría que cambiar sustancialmente la aproximación al modelo. Por ejemplo:
+ Era tanto o más importante la discriminación intra-sujeto que la entre-sujeto (es decir, importaba más lo que el modelo pudiera decir de los ítems de cada sujeto que las diferencias que pudiera mostrar entre sujetos).</description>
+    </item>
+    
+    <item>
+      <title>Pesos de los componentes del QualityScore en Google Ads</title>
+      <link>/2019/03/07/pesos-de-los-componentes-del-qualityscore-en-google-ads/</link>
+      <pubDate>Thu, 07 Mar 2019 08:13:34 +0000</pubDate>
+      
+      <guid>/2019/03/07/pesos-de-los-componentes-del-qualityscore-en-google-ads/</guid>
+      <description>El llamado QualityScore tiene su relevancia en Google Ads. Es un indicador con valores entre 1 y 10 asignado por Google que se basa en tres variables que están descritas por ahí:
+ PostClickQualityScore * SearchPredictedCtr * CreativeQualityScore  Se trata de variables categóricas con tres niveles: en / por encima de / por debajo de la media.
+Haciendo
+&amp;lt;code&amp;gt;modelo &amp;lt;- lm(QualityScore ~ PostClickQualityScore + SearchPredictedCtr + CreativeQualityScore, data = tmp) summary(modelo)&amp;lt;/code&amp;gt;  se obtiene</description>
+    </item>
+    
+    <item>
+      <title>Charlatanes y regulación</title>
+      <link>/2019/02/19/charlatanes-y-regulacion/</link>
+      <pubDate>Tue, 19 Feb 2019 08:13:57 +0000</pubDate>
+      
+      <guid>/2019/02/19/charlatanes-y-regulacion/</guid>
+      <description>Así resumen sus autores Regulation of Charlatans in High-Skill Professions:
+Trasladado al mundo de la ciencia de datos&amp;hellip; eso significaría que&amp;hellip; (no sigo porque creo que quienes leen estas cosas y son lo suficientemente mayorcitos para extraer sus conclusiones, aunque sean condicionales a la veracidad y universalidad del anterior resumen).</description>
+    </item>
+    
+    <item>
+      <title>Sobre la tesis de Sánchez (y no es lo que se espera de mí)</title>
+      <link>/2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/</link>
+      <pubDate>Wed, 30 Jan 2019 08:13:39 +0000</pubDate>
+      
+      <guid>/2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/</guid>
+      <description>Me preguntaron mucho (antes de los últimos seis o siete circos mediáticos) sobre la tesis de Sánchez, cuando estaba en el candelabro. La bajé, la leí en parte (muchas de las páginas más infumables en diagonal, lo reconozco) y me centré en la parte estadística.
+Que es un completo despropósito: es una especie de apéndice que no se usa en el resto del texto, una suerte de añadido para darle una mínima pincelada de matematicidad a la cosa.</description>
+    </item>
+    
+    <item>
+      <title>¿Es Madrid ciudad para startups (relacionadas con los datos)?</title>
+      <link>/2019/01/22/es-madrid-ciudad-para-startups-relacionadas-con-los-datos/</link>
+      <pubDate>Tue, 22 Jan 2019 08:13:01 +0000</pubDate>
+      
+      <guid>/2019/01/22/es-madrid-ciudad-para-startups-relacionadas-con-los-datos/</guid>
+      <description>[Esta entrada, simplemente, plantea una hipótesis altamente especulativa; expone una serie de argumentos su pro pero deja la pregunta abierta y la respuesta al buen criterio del lector.]
+El año pasado di un curso de estadística bayesiana (¿a alguien le interesaría que lo impartiese en su empresa o institución?) en la UPC, en Barcelona. En un descanso hablé brevemente con una alumna que estaba buscando trabajo en el mundo de la ciencia de datos.</description>
+    </item>
+    
+    <item>
+      <title>Modelos y sesgos (discriminatorios): unas preguntas</title>
+      <link>/2018/11/14/modelos-y-sesgos-discriminatorios-unas-preguntas/</link>
+      <pubDate>Wed, 14 Nov 2018 08:13:22 +0000</pubDate>
+      
+      <guid>/2018/11/14/modelos-y-sesgos-discriminatorios-unas-preguntas/</guid>
+      <description>A raíz de mi entrada del otro día he tenido una serie de intercambios de ideas. Que han sido infructuosos porque no han dejado medianamente asentadas las respuestas a una serie de preguntas relevantes.
+Primero, contexto: tenemos un algoritmo que decide sobre personas (p.e., si se les concede hipotecas) usando las fuentes de información habitual. El algoritmo ha sido construido con un único objetivo: ser lo más eficiente (y cometer el mínimo número de errores) posible.</description>
+    </item>
+    
+    <item>
+      <title>Goodhart, Lucas y márketing</title>
+      <link>/2018/11/13/goodhart-lucas-y-marketing/</link>
+      <pubDate>Tue, 13 Nov 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/11/13/goodhart-lucas-y-marketing/</guid>
+      <description>Abundo sobre lo de ayer.
+Una empresa clasifica a sus clientes y los asigna a grupos: malotes, estrella, psepsé, etc. Examina las características de los clientes estrella y entonces reorienta su política comercial en la siguiente dirección:
+En gran medida, según lo discutido ayer, el principal logro de ese tipo de políticas es la de debilitar el vínculo entre esas características identificadas por los modelos y la rentabilidad de los clientes.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Embeddings&#34; y análisis del carrito de la compra</title>
+      <link>/2018/10/04/embeddings-y-analisis-del-carrito-de-la-compra/</link>
+      <pubDate>Thu, 04 Oct 2018 08:13:34 +0000</pubDate>
+      
+      <guid>/2018/10/04/embeddings-y-analisis-del-carrito-de-la-compra/</guid>
+      <description>Escribiendo la entrada del otro día sobre embeddings, no se me pasó por alto que la fórmula
+$latex \frac{P(W_i,C_i)}{P(W_i)P(C_i)}$
+que escribí en ella es análoga al llamado lift (¿es el lift?) del llamado análisis del carrito de la compra, i.e., el estudio de productos que tienden a comprarse juntos (véase, por ejemplo, esto).
+Lo cual me lleva a sugerir mas no escribir una entrada en la que se rehagan este tipo de análisis usando embeddings: los ítems como palabras, los carritos como textos, etc.</description>
+    </item>
+    
+    <item>
+      <title>Una anécdota sobre el mercado eléctrico y sus mermas</title>
+      <link>/2018/09/21/una-anecdota-sobre-el-mercado-electrico-y-sus-mermas/</link>
+      <pubDate>Fri, 21 Sep 2018 08:13:27 +0000</pubDate>
+      
+      <guid>/2018/09/21/una-anecdota-sobre-el-mercado-electrico-y-sus-mermas/</guid>
+      <description>Hace años, algunos ya, di un curso de R en una empresa de consultoría bastante grande. La impartí dentro de un grupo que desarrollaba soluciones para el mercado eléctrico. Hablando con ellos, a la hora del café, me contaron uno de los proyectos en los que trabajaban: un sistema de optimización de la distribución eléctrica que podía ahorrar millones (no recuerdo bien la cifra, pero era impresionante) a las compañías eléctricas en concepto de energía que se disipaba y perdía sin beneficiar a nadie.</description>
+    </item>
+    
+    <item>
+      <title>Replicabilidad (y su falta de ella, fuera de la academia)</title>
+      <link>/2018/06/21/replicabilidad-y-su-falta-de-ella-fuera-de-la-academia/</link>
+      <pubDate>Thu, 21 Jun 2018 08:13:56 +0000</pubDate>
+      
+      <guid>/2018/06/21/replicabilidad-y-su-falta-de-ella-fuera-de-la-academia/</guid>
+      <description>Se habla mucho de replicabilidad (y la falta de ella) como indicio de una crisis en ese complejo de intereses económicos, de poder y, en ocasiones, fornicatorios en que ha devenido la ciencia. Pero qué más nos da que se publique un artículo más o un artículo menos o que una ocurrencia irrelevante, gracias a un sinfín de artefactos propios de la industria de la salchicha, sea cohonestada con un p-valor menor o mayor que 0.</description>
+    </item>
+    
+    <item>
+      <title>El motivo: retorno esperado negativo</title>
+      <link>/2018/06/19/el-motivo-retorno-esperado-negativo/</link>
+      <pubDate>Tue, 19 Jun 2018 08:13:59 +0000</pubDate>
+      
+      <guid>/2018/06/19/el-motivo-retorno-esperado-negativo/</guid>
+      <description>Hay gente a la que recomiendo Kaggle y similares. Otra a la que no.
+Con estos últimos suelo razonar alrededor de las ideas contenidas en Why I decided not to enter the $100,000 global warming time-series challenge (versión corta: retorno esperado negativo).
+Y no me refiero tanto al monetario explícito del que habla el artículo, por supuesto, sino al otro: el que involucra el coste de oportunidad.</description>
+    </item>
+    
+    <item>
+      <title>Posterioris informativas (o más bien, cuando te informan de cuál es la posteriori)</title>
+      <link>/2018/06/07/posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori/</link>
+      <pubDate>Thu, 07 Jun 2018 08:13:55 +0000</pubDate>
+      
+      <guid>/2018/06/07/posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori/</guid>
+      <description>El otro día, en la ronda de preguntas tras mi charla en la Universidad de Zaragoza, después de mi enconada defensa de las prioris informativas, alguien apostilló muy agudamente: si tenemos prioris muy informativas, ¿para qué queremos datos?
+Eso, ¿para qué queremos datos?
+El otro día me lo explicó otro amigo en las siguientes líneas que reproduzco con las inexactitudes achacables a memoria anaidética:
+En una empresa, un consejero tiene un proyecto, una idea.</description>
+    </item>
+    
+    <item>
+      <title>Guasa tiene que habiendo tanto economista por ahí tenga yo que escribir esta cosa hoy</title>
+      <link>/2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/</link>
+      <pubDate>Tue, 29 May 2018 08:13:28 +0000</pubDate>
+      
+      <guid>/2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/</guid>
+      <description>Tiene que ver con Why did Big Data fail Clinton?, que trata de lo que el título indica, toda la tontería que se ha escrito de Cambridge Analytica y lo enlazo con el nóbel de economía de 2016 (Hart y otro).
+¿Por qué? De acuerdo con lo que muchos han escrito, una empresa de siete friquis en el Reino Unido con acceso a los likes de 50000 donnadies y poco más tienen poder para quitar y poner reyes con unos cuantos clicks.</description>
+    </item>
+    
+    <item>
+      <title>Un generador de datos sintéticos para proteger la privacidad de los microdatados</title>
+      <link>/2018/05/23/un-generador-de-datos-sinteticos-para-proteger-la-privacidad-de-los-microdatados/</link>
+      <pubDate>Wed, 23 May 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/05/23/un-generador-de-datos-sinteticos-para-proteger-la-privacidad-de-los-microdatados/</guid>
+      <description>DataSynthesizer (véase también el correspondiente artículo) es un programa en Python que:
+ 1. Toma una tabla de datos (microdatos, de hecho) que contiene información confidencial. 2. Genera otra _aleatoria_ pero que conserva (¿los conservará?) la estructura básica de la información subyacente (conteos, correlaciones, etc.).  Está pensado para poder realizar el análisis estadístico de (determinados) datos sin verlos propiamente.
+Particularmente interesante es el algoritmo para preservar la correlación entre columnas.</description>
+    </item>
+    
+    <item>
+      <title>gam vs rrff (y, en general, modelos generativos vs cajas negras)</title>
+      <link>/2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/</link>
+      <pubDate>Tue, 15 May 2018 08:13:29 +0000</pubDate>
+      
+      <guid>/2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/</guid>
+      <description>Para modelizar una serie temporal, y simplificándolo mucho, ¿gam o rrff? Como todo, depende. El otro día oí de un caso en el que los segundos vencían a los primeros claramente. Natural.
+Hay contextos con una estructura matemática clara y potente. En particular, muchos en los que trabajo actualmente. ¿Para qué usar una herramienta genérica cuando cuento con una específica? Esos datos, mis datos, exigen estructura matemática.
+Luego hay otros casos en los que uno se lanza al río.</description>
+    </item>
+    
+    <item>
+      <title>Diapositivas con reveal.js y yeoman</title>
+      <link>/2018/04/25/diapositivas-con-reveal-js-y-yeoman/</link>
+      <pubDate>Wed, 25 Apr 2018 08:13:31 +0000</pubDate>
+      
+      <guid>/2018/04/25/diapositivas-con-reveal-js-y-yeoman/</guid>
+      <description>Alguna vez me han preguntado cómo construyo diapositivas como estas.
+La respuesta: uso reveal.js (que me da prácticamente todo lo que se ve) y me apoyo en el generador generator-reveal de yeoman para automatizar algunas tareas. Además, casi todas las diapositivas están escritas en markdown.
+Como casi siempre me olvido del procedimiento de arranque, siempre acudo a este breve tutorial. A los que no estamos muy puestos en todo lo nodejs nos viene siempre bien echar un vistazo para ver qué demonios hace cada uno de los distintos comandos (npm, n, etc.</description>
+    </item>
+    
+    <item>
+      <title>Protección de los datos de los muertos</title>
+      <link>/2018/04/16/proteccion-de-los-datos-de-los-muertos/</link>
+      <pubDate>Mon, 16 Apr 2018 08:13:45 +0000</pubDate>
+      
+      <guid>/2018/04/16/proteccion-de-los-datos-de-los-muertos/</guid>
+      <description>Me toca lidiar con datos relativos a muertos. No de muertos hace mil años, o quinientos, o de las guerras carlistas, sino, casi, casi con muertos de cadáver caliente y viuda con mocos.
+He aquí la (¿aparente?) aporía.
+Por un lado, sábese que la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos (en adelante, LOPD), no es de aplicación a las personas fallecidas. Pero, por otro:
+ * La Agencia Tributaria ni ha publicado ni es fácil que publique las declaraciones de la renta del finado Sr.</description>
+    </item>
+    
+    <item>
+      <title>Estimar la demanda es como ponerle el cascabel al gato</title>
+      <link>/2018/04/10/estimar-la-demanda-es-como-ponerle-el-cascabel-al-gato/</link>
+      <pubDate>Tue, 10 Apr 2018 07:43:39 +0000</pubDate>
+      
+      <guid>/2018/04/10/estimar-la-demanda-es-como-ponerle-el-cascabel-al-gato/</guid>
+      <description>Alborozábanse los ratones al oír de sus líderes la solución definitiva al problema de aquel gato que los diezmaba inmisericordemente: ¡colóquesele un cascabel!
+El problema gordiano del pricing, el cascabel que hay que ponerle a ese gato, es el de la estimación de la curva de demanda. Ahi radica el quid.
+Unos lo resuelven con simulaciones que quedan estupendas sobre el papel. ¡Qué fácil es ponerle un cascabel a un gato de madera!</description>
+    </item>
+    
+    <item>
+      <title>Recomendaciones... ¿personalizadas?</title>
+      <link>/2018/03/07/recomendaciones-personalizadas/</link>
+      <pubDate>Wed, 07 Mar 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/03/07/recomendaciones-personalizadas/</guid>
+      <description>Los científicos de datos deberían saber algo, los rudimentos al menos, de los sistemas de recomendación. Saber, como poco, que los hay personalizados y no personalizados. Así como las ventajas e inconvenientes de unos y otros.
+Gartner ha publicado su informe de herramientas de ciencia de datos de 2018. Que es una especie de sistema de recomendación. Obviamente, no personalizado.
+Es raro que ningún artículo que haya leído sobre el asunto (escritos por más o menos presuntos científicos de datos) haya hecho hincapié en el asunto.</description>
+    </item>
+    
+    <item>
+      <title>¿Soy parte del concilábulo heteropatriarcal?</title>
+      <link>/2018/03/06/soy-parte-del-concilabulo-heteropatriarcal/</link>
+      <pubDate>Tue, 06 Mar 2018 08:13:03 +0000</pubDate>
+      
+      <guid>/2018/03/06/soy-parte-del-concilabulo-heteropatriarcal/</guid>
+      <description>En una de esas comidas navideñas tuve que asistir pasivamente a una conversación en la que se dibujaba una peculiar realidad alternativa: existiría algo así como un conciliábulo (el Márketing) con capacidad de memoria, entendimiento y voluntad propias e interés por implementar una particular agenda de corte heteropatriarcal. Producto de la cual, por ejemplo, las afeitadoras de color rosa para mujeres vendrían a resultar más caras que las azules para hombres, etc.</description>
+    </item>
+    
+    <item>
+      <title>Triste vida</title>
+      <link>/2017/09/14/triste-vida/</link>
+      <pubDate>Thu, 14 Sep 2017 08:13:38 +0000</pubDate>
+      
+      <guid>/2017/09/14/triste-vida/</guid>
+      <description> * Recorrer multitud de [senderos que se bifurcan](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/). * Maximizar la correlación. * Alegar causalidad. * Facturar. * Iterar.  </description>
+    </item>
+    
+    <item>
+      <title>Trucos cutrebayesianos</title>
+      <link>/2017/09/13/trucos-cutrebayesianos/</link>
+      <pubDate>Wed, 13 Sep 2017 08:13:29 +0000</pubDate>
+      
+      <guid>/2017/09/13/trucos-cutrebayesianos/</guid>
+      <description>El contexto
+Cada día $latex i$ ocurren eventos de cierta naturaleza (transacciones, fallecimientos, infartos, etc.) que interesa contar.
+El problema
+El número de eventos $latex n_i$ que ocurren el día $latex i$ no se conoce el día $latex i$ sino que va siendo conocido progresivamente los días $latex i+1, \dots$. Pero hace falta una estimación de $latex n_i$ antes del fin del mundo.
+Los datos
+ * La distribución de los $latex n_i$ (basados en el histórico).</description>
+    </item>
+    
+    <item>
+      <title>Airbnb da en el clavo: ha desarrollado lo que hacía mucha falta</title>
+      <link>/2017/06/02/airbnb-da-en-el-clavo-ha-desarrollado-lo-que-hacia-mucha-falta/</link>
+      <pubDate>Fri, 02 Jun 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/06/02/airbnb-da-en-el-clavo-ha-desarrollado-lo-que-hacia-mucha-falta/</guid>
+      <description>Y no me refiero a lo que quita el sueño a ciertos ayuntamientos retrógrados. Sino a esto.
+Que es una herramienta corporativa para diseminar internamente información cuantitativa (en forma de cuadernos (de Python), Rmarkdowns y similares). Más info, aquí.
+Los que me leéis y trabajáis en uno de esos lugares grandotes donde lo cuantitativo viaja por correo en PPTs, ya sabéis que tenéis que proponer ipso facto en esas reuniones que tanto os gustan.</description>
+    </item>
+    
+    <item>
+      <title>Diapositivas sobre mi charla acerca del &#34;stack analítico&#34;</title>
+      <link>/2017/05/15/diapositivas-sobre-mi-charla-acerca-del-stack-analitico/</link>
+      <pubDate>Mon, 15 May 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/05/15/diapositivas-sobre-mi-charla-acerca-del-stack-analitico/</guid>
+      <description>Tuve ocasión el pasado jueves, en Barcelona y gracias a la invitación de KSchool, de lo que llamo el stack analítico. Es decir, de aquellas herramientas tecnológicas necesarias para poder hacer ciencia de datos hoy en día.
+Las diapositivas de la charla están aquí.
+El tema es viejo pero no por ello menos urgente: existen herramientas (y, desgraciadamente, me he visto a incluir el saber leer documentación técnica en inglés) cuyo conocimiento es imperativo para poder trabajar de manera efectiva en ciencia de datos.</description>
+    </item>
+    
+    <item>
+      <title>Lo que pasa cuando interrumpes a alguien que desarrolla una actividad intelectual seria</title>
+      <link>/2017/02/17/lo-que-pasa-cuando-interrumpes-a-alguien-que-desarrolla-una-actividad-intelectual-seria/</link>
+      <pubDate>Fri, 17 Feb 2017 08:13:33 +0000</pubDate>
+      
+      <guid>/2017/02/17/lo-que-pasa-cuando-interrumpes-a-alguien-que-desarrolla-una-actividad-intelectual-seria/</guid>
+      <description>¿Quién demonios inventó esos espacios de trabajo diáfanos?</description>
+    </item>
+    
+    <item>
+      <title>En defensa de lo simple</title>
+      <link>/2017/02/15/en-defensa-de-lo-simple/</link>
+      <pubDate>Wed, 15 Feb 2017 17:06:52 +0000</pubDate>
+      
+      <guid>/2017/02/15/en-defensa-de-lo-simple/</guid>
+      <description>No es propiamente estadística. Tiene que ver también con la consultoría, pero no necesariamente con la relacionada con numerillos. Pero se traslada a ambas línea a línea.
+Es ¿Eres complicado o sencillo? y se lee en un momento.</description>
+    </item>
+    
+    <item>
+      <title>Podcast: &#34;Vivir analizando datos&#34;</title>
+      <link>/2016/11/14/podcast-vivir-analizando-datos/</link>
+      <pubDate>Mon, 14 Nov 2016 08:13:57 +0000</pubDate>
+      
+      <guid>/2016/11/14/podcast-vivir-analizando-datos/</guid>
+      <description>Los amigos de Descifrando Emprendedores han tenido la gentileza de entrevistarme. Nuestra charla puede escucharse aquí.</description>
+    </item>
+    
+    <item>
+      <title>Una jerarquía de analistas de datos en cuatro escalafones</title>
+      <link>/2016/10/03/una-jerarquia-de-analistas-de-datos-en-cuatro-escalafones/</link>
+      <pubDate>Mon, 03 Oct 2016 08:13:31 +0000</pubDate>
+      
+      <guid>/2016/10/03/una-jerarquia-de-analistas-de-datos-en-cuatro-escalafones/</guid>
+      <description>Es:
+ * **Nivel 1:** Realizan la mayor parte de su trabajo con herramientas ofimáticas (fundamentalmente Excel), aunque pueden utilizar puntualmente Eviews, Stata, R o Matlab. * **Nivel 2:** Los que realizan la mayor parte de su trabajo con R, Python, SAS o SQL pero cuyo sistema de control de versiones es el de ficheros con determinadas convenciones de nombres. * **Nivel 3:** Como el anterior, pero usando control de versiones, estilos de código, y revisión por pares (_peer review_).</description>
+    </item>
+    
+    <item>
+      <title>Herramientas (y consejos) para avanzar en tu carrera</title>
+      <link>/2015/06/05/herramientas-y-consejos-para-avanzar-en-tu-carrera/</link>
+      <pubDate>Fri, 05 Jun 2015 08:13:46 +0000</pubDate>
+      
+      <guid>/2015/06/05/herramientas-y-consejos-para-avanzar-en-tu-carrera/</guid>
+      <description>Escribo hoy para invitar a leer esto, una entrada en otra bitácora que recoge y resume ideas que ya han aparecido en la mía, como por ejemplo:
+ * Usa herramientas para las que no tengas que pedir permiso (típicamente, abiertas) * Considera el tiempo que pases trabajando en una empresa grande _aprendizaje subsidiado_ * Especialízate un conjunto de cosas que sepas hacer mejor que la mayoría * Aprende a plantear preguntas * Aprende (cuando menos) un lenguaje de programación  Y algunas otras.</description>
+    </item>
+    
+    <item>
+      <title>Y todo ocurre en un abrir y cerrar de ojos</title>
+      <link>/2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/</link>
+      <pubDate>Fri, 27 Mar 2015 08:13:33 +0000</pubDate>
+      
+      <guid>/2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/</guid>
+      <description>Abres una aplicación en tu móvil que diseñó un programador búlgaro. Ipso facto aparece un insidioso banner de, p.e., Jazztel. ¿Cuáles son los mecanismos que ponen en contacto al búlgaro con Jazztel? ¿De qué manera recibe aquél una compensación de esta?
+Tradicionalmente, el desarrollador habría hablado con, p.e., Google. Le habría dicho: yo voy a generar &amp;ldquo;espacios&amp;rdquo; donde tú vas a poder colgar propaganda a cambio de una cantidad (fija o variable).</description>
+    </item>
+    
+    <item>
+      <title>bellostamisc y una moraleja</title>
+      <link>/2015/02/26/bellostamisc-y-una-moraleja/</link>
+      <pubDate>Thu, 26 Feb 2015 08:13:59 +0000</pubDate>
+      
+      <guid>/2015/02/26/bellostamisc-y-una-moraleja/</guid>
+      <description>Antier recibí un correo inesperado. Me agradecía el paquete bellostamisc, sabía de mi salida de eBay y me ofrecía trabajo en su empresa.
+bellostamisc (miscelánea de funciones de Bellosta, i.e., yo) es un paquete para mi uso personal que recopilaba funciones auxiliares que usaba en eBay para distintos fines: conexiones a bases de datos, paralelización, etc. Nunca pensé que fuera a ser utilizado por nadie que no fuese yo. No obstante, lo documenté en condiciones, lo publiqué en nuestro GitHub corporativo y una vez vi que era estable, se lo sugerí a quien me vino con los problemas que con él había resuelto.</description>
+    </item>
+    
+    <item>
+      <title>¿Vernacularidades? No, gracias</title>
+      <link>/2015/02/18/vernacularidades-no-gracias/</link>
+      <pubDate>Wed, 18 Feb 2015 08:13:13 +0000</pubDate>
+      
+      <guid>/2015/02/18/vernacularidades-no-gracias/</guid>
+      <description>Como sabéis, vuelvo a España. Otro proyecto que termina. Habrá momentos para la nostalgia. Pero también, al menos, dos motivos para autofelicitarme. El primero tiene que ver con todo lo aprendido en estos doce meses.
+El segundo, con todo lo que no he aprendido. Soy muy estricto con lo que me interesa y lo que no. ¿Qué me interesa? Aquello que me puede ser útil en otra parte. Al resto de las cosas las denomino vernacularidades y trato de evitarlas.</description>
+    </item>
+    
+    <item>
+      <title>Mi querido colega de Iberia:</title>
+      <link>/2014/11/21/mi-querido-colega-de-iberia/</link>
+      <pubDate>Fri, 21 Nov 2014 07:13:32 +0000</pubDate>
+      
+      <guid>/2014/11/21/mi-querido-colega-de-iberia/</guid>
+      <description>Te escribo desde Zúrich. Tenía, o eso creía yo, un vuelo a Madrid esta tarde. Pero al llegar al aeropuerto, no constaba en la lista de viajeros. El motivo figura en una subsubsubpágina de vuestro portal: si un viajero pierde el vuelo de ida, como me ocurrió el lunes pasado, se cancela automáticamente el de vuelta.
+Como tú también has viajado mucho, podrás imaginar lo que ha sucedido en el aeropuerto: paseos de mostrador en mostrador hasta recibir una oferta rayana en impuesto revolucionario: me han ofrecido uno de esos asientos vacíos por un precio que, lo siento, no estoy dispuesto a pagar.</description>
+    </item>
+    
+    <item>
+      <title>Simpson y la plebe anumérica</title>
+      <link>/2014/11/13/simpson-y-la-plebe-anumerica/</link>
+      <pubDate>Thu, 13 Nov 2014 07:13:19 +0000</pubDate>
+      
+      <guid>/2014/11/13/simpson-y-la-plebe-anumerica/</guid>
+      <description>Supongamos que los habitantes de un país tienen una probabilidad determinada (y no necesariamente igual) $latex p_i$ de comprar un determinado producto. Supongamos que se lanza una campaña publicitaria que incrementa en una cantidad fija $latex \epsilon$, p.e., 5%, esa probabilidad.
+Supongamos, finalmente, que se trata de una cantidad que se desea estimar.
+Unos individuos reciben la campaña publicitaria. Otros no. ¿Cuál es la diferencia entre las proporciones de individuos que compran el producto en uno y otro grupo?</description>
+    </item>
+    
+    <item>
+      <title>ROI de ida y vuelta</title>
+      <link>/2014/10/20/roi-de-ida-y-vuelta/</link>
+      <pubDate>Mon, 20 Oct 2014 07:13:12 +0000</pubDate>
+      
+      <guid>/2014/10/20/roi-de-ida-y-vuelta/</guid>
+      <description>Hace años, allá por el 2004, trabajaba en SAS. Íbamos a hacer una propuesta para la detección del fraude en una empresa de telefonía móvil de las de entoces. Habían medido el importe anual del fraude en X miles de euros. Nosotros íbamos a implantar un sistema que ayudase a prevenir un determinado porcentaje de él. El quid de la cuestión era cuál: alrededor de esa cuestión gravitaban los números en negrita de la propuesta que estábamos por elaborar.</description>
+    </item>
+    
+    <item>
+      <title>El problema del 100% (y un ensayo de solución)</title>
+      <link>/2014/10/06/el-problema-del-100-y-un-ensayo-de-solucion/</link>
+      <pubDate>Mon, 06 Oct 2014 07:13:56 +0000</pubDate>
+      
+      <guid>/2014/10/06/el-problema-del-100-y-un-ensayo-de-solucion/</guid>
+      <description>Te encargan un modelo. Por ejemplo, relacionado con el uso de tarjetas de débito y crédito (aunque a lo que me referiré ocurre en mil otros contextos). Una variable que consideras importante es la proporción de veces que se usa para sacar dinero de cajeros (y no para pagar en establecimientos). Así que, para cada cliente, divides el número de retiradas por el número de veces que la tarjeta se ha usado y obtienes ese número entre el 0 y el 1 (o entre el 0% y el 100%).</description>
+    </item>
+    
+    <item>
+      <title>Una transformación (y segmentación) novedosa de variables (lognormaloides)</title>
+      <link>/2014/09/17/una-transformacion-y-segmentacion-novedosa-de-variables-lognormaloides/</link>
+      <pubDate>Wed, 17 Sep 2014 07:13:57 +0000</pubDate>
+      
+      <guid>/2014/09/17/una-transformacion-y-segmentacion-novedosa-de-variables-lognormaloides/</guid>
+      <description>&amp;ndash; La variable gasto tiene una distribución muy fea que tiene un impacto en el modelo. He optado por transformarla. &amp;ndash; ¿Qué has hecho? &amp;ndash; Bueno, verás: no es lo mismo que alguien gaste menos de un euro o que gaste más de cien. A los que gastan entre cero y uno les he dado el valor 0. &amp;ndash; Vale. &amp;ndash; Entonces, a los que gastan, digamos, entre 1 y 10, 1; luego, a los que gastan entre 10 y 100, 2.</description>
+    </item>
+    
+    <item>
+      <title>Tan actual 25 años después</title>
+      <link>/2014/06/16/tan-actual-25-anos-despues/</link>
+      <pubDate>Mon, 16 Jun 2014 07:06:48 +0000</pubDate>
+      
+      <guid>/2014/06/16/tan-actual-25-anos-despues/</guid>
+      <description>Dentro de unos días os copiaré aquí unas líneas de un artículo del 83 que bien pudiera haber sido escrito el mes pasado. Pero hoy no voy a ir tan lejos. Me quedo con uno del 89 que recomiendo que hojeéis: Clinical vs Actuarial Judgement.
+No, no vais a aprender en él nada que no sepáis. Os podrá parecer viejuno el uso de clínico o actuarial para denotar conceptos que ahora conocemos por otros nombres.</description>
+    </item>
+    
+    <item>
+      <title>ykmeans, ¿broma, ironía o triste realidad?</title>
+      <link>/2014/03/26/ykmeans-broma-ironia-o-triste-realidad/</link>
+      <pubDate>Wed, 26 Mar 2014 07:46:09 +0000</pubDate>
+      
+      <guid>/2014/03/26/ykmeans-broma-ironia-o-triste-realidad/</guid>
+      <description>Estar suscrito a las actualizaciones de CRAN le permite a uno estar al tanto de las novedades de R de otra manera. De vez en cuando uno encuentra pequeños paquetes que le solucionan un problema puntual. Mucho más frecuentemente, la verdad, uno se topa con aplicaciones muy específicas en áreas que le resultan remotas.
+Pero uno no espera nunca tropiezar con paquetes que no sabe si clasificar como una broma, una ironía bromas o como algo mucho peor: la constatación de una triste realidad.</description>
+    </item>
+    
+    <item>
+      <title>‘Quién es Quién’ del Big Data en España</title>
+      <link>/2014/02/25/quien-es-quien-del-big-data-en-espana/</link>
+      <pubDate>Tue, 25 Feb 2014 08:22:48 +0000</pubDate>
+      
+      <guid>/2014/02/25/quien-es-quien-del-big-data-en-espana/</guid>
+      <description>Pues sí, aparezco en la infografía ‘Quién es Quién’ del Big Data en España:
+
+El responsable del homenaje, Jorge Ubero, está proyectando una serie de colaboraciones sobre el mundo del big data en España. La mía está pendiente —¡maldita agenda!— pero aparecerá en los próximos días. Mientras tanto y como abrebocas, os invito a conocer BigData 4 Success.</description>
+    </item>
+    
+    <item>
+      <title>Memoria de decaimiento exponencial y canutos asíncronos</title>
+      <link>/2014/02/14/memoria-de-decaimiento-exponencial-y-canutos-asincronos/</link>
+      <pubDate>Fri, 14 Feb 2014 07:32:10 +0000</pubDate>
+      
+      <guid>/2014/02/14/memoria-de-decaimiento-exponencial-y-canutos-asincronos/</guid>
+      <description>Primero, canuto es como llamo yo a los streams: lugares por donde nos llegan datos —de sujetos que sacan dinero del cajero, de sensores de lo que sea, de clientes que llaman por teléfono—, típicamente en forma asíncrona. Es decir, que los eventos suceden cuando se les antoja, sin una periodicidad preestablecida.
+Y uno quiere medir cosas. Por ejemplo, la frecuencia. O la intensidad de uso —¿cuánto se utiliza una tarjeta de crédito?</description>
+    </item>
+    
+    <item>
+      <title>Algunos problemas de la regresión paso a paso (&#34;stepwise&#34;)</title>
+      <link>/2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/</link>
+      <pubDate>Tue, 28 Jan 2014 08:58:55 +0000</pubDate>
+      
+      <guid>/2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/</guid>
+      <description>Fueron problemas planteados por Frank Harrell, recopilados aquí y ahora traducidos por mí para mi bitácora.
+Problemas de la regresión paso a paso:
+ * La R-cuadrado obtenida está muy sesgada hacia arriba. * Los test F y chi-cuadrado que aparecen al lado de las variables no siguen dichas distribuciones. * Los intervalos de confianza son demasiado (e incorrectamente) estrechos. * Los p-valores obtenidos no tienen el significado esperado y el de corregirlos adecuadamente es un problema muy difícil.</description>
+    </item>
+    
+    <item>
+      <title>En recuerdo de Leo Breiman</title>
+      <link>/2014/01/23/en-recuerdo-de-leo-breiman/</link>
+      <pubDate>Thu, 23 Jan 2014 08:41:09 +0000</pubDate>
+      
+      <guid>/2014/01/23/en-recuerdo-de-leo-breiman/</guid>
+      <description>Recomiendo leer esto. Es un artículo que repasa la labor de Leo Breiman, pionero en esa nueva forma de plantear el análisis de datos que acabó convirtiéndose en la minería de datos y de algunos de los algoritmos y métodos más comunes que conforman la caja de herramientas de quienes lo practican hoy en día. Entre ellos, los árboles de decisión y de regresión y los random forests.
+Así comienza el artículo:</description>
+    </item>
+    
+    <item>
+      <title>Cuatro principios para tomar mejores decisiones</title>
+      <link>/2013/11/27/cuatro-principios-para-tomar-mejores-decisiones/</link>
+      <pubDate>Wed, 27 Nov 2013 07:36:20 +0000</pubDate>
+      
+      <guid>/2013/11/27/cuatro-principios-para-tomar-mejores-decisiones/</guid>
+      <description>Proceden de un número de McKinsey Quarterly de este año y se organizan alrededor del acrónimo WARP:
+W (widen your options, incrementa tus opciones): considera al menos dos opciones robustas para cada toma de decisiones. R (reality-test your assumptions, somete tus hipótesis a un baño de realidad): trata de realizar pequeñas pruebas de verificación. A (attain some distance, distánciate): trata de revisar el asunto como si te fuese ajeno, desde afuera.</description>
+    </item>
+    
+    <item>
+      <title>Sexo, deporte y la cantidad de información mutua</title>
+      <link>/2013/10/08/sexo-deporte-y-la-cantidad-de-informacion-mutua/</link>
+      <pubDate>Tue, 08 Oct 2013 07:46:13 +0000</pubDate>
+      
+      <guid>/2013/10/08/sexo-deporte-y-la-cantidad-de-informacion-mutua/</guid>
+      <description>Perdón por el titular. No soy inasequible a las modas.
+La cuestión del día de hoy es la siguiente: tenemos una variable X inobservable y otra variable Y potencialmente correlacionada con X. ¿Cuánto podemos decir de X de conocida Y?
+Supongamos que ambas son binarias. Si conozco Y poseo 1 bit de información. Si solo conozco X (que me da pistas sobre Y) conoceré una fracción de un bit de información (sobre Y).</description>
+    </item>
+    
+    <item>
+      <title>Lo relevante, arriba y a la izquierda</title>
+      <link>/2013/07/26/lo-relevante-arriba-y-a-la-izquierda/</link>
+      <pubDate>Fri, 26 Jul 2013 07:29:55 +0000</pubDate>
+      
+      <guid>/2013/07/26/lo-relevante-arriba-y-a-la-izquierda/</guid>
+      <description>No es lo más importante del mundo. Pero considero una descortesía de un tabulador de datos para con sus usuarios que no ponga la información más relevante arriba y a la izquierda.
+Por ejemplo, en el último Informe Trimestral de la CMT uno encuentra la información así:
+
+No es terrible, pero la información que más a mano aparece es la menos interesante, la del 2005. Para ver el último dato hay que desplazarse (i.</description>
+    </item>
+    
+    <item>
+      <title>BI Survey 13: el veredicto del cliente</title>
+      <link>/2013/06/10/bi-survey-13-el-veredicto-del-cliente/</link>
+      <pubDate>Mon, 10 Jun 2013 14:09:54 +0000</pubDate>
+      
+      <guid>/2013/06/10/bi-survey-13-el-veredicto-del-cliente/</guid>
+      <description>Un cliente esporádico mío, BARC, me ha pedido que le ayude a divulgar su encuesta periódica de evaluación de herramientas de lo que llaman business intelligence.
+He accedido en parte, sí, porque hay que estar bien con los clientes. Sobre todo los esporádicos.
+
+Pero también porque el mundo del BI es sumamente opaco e impera la información asimétrica. Quienes compran herramientas como SAP, Cognos, SAS, Microstrategy, etc. están a dos velas de lo que ocurre en el edificio de al lado, de los problemas que van a encontrar en su implementación, de su rendimiento en producción.</description>
+    </item>
+    
+    <item>
+      <title>Pero mañana seguiremos usando Excel</title>
+      <link>/2013/04/23/pero-manana-seguiremos-usando-excel/</link>
+      <pubDate>Tue, 23 Apr 2013 07:54:14 +0000</pubDate>
+      
+      <guid>/2013/04/23/pero-manana-seguiremos-usando-excel/</guid>
+      <description>Inmerso en asuntos que los más catalogarían de friquis, he permanecido ignorante de los más de los infelices sucesos que nos ha regalado el mundo durante los últimos días.
+Pero sí que he tenido ocasión de enterarme de algo de ese runrún, imagino que conocido de los más, sobre unos economistas encopetados que usanban Excel (y unos economistas muy encopetados). Noticia que se suma a otra que guardaba para comentarla un día: cómo JP Morgan estuvo calculando su VaR erróneamente durante años por los mismos motivos.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo vota la gente?</title>
+      <link>/2013/02/26/como-vota-la-gente/</link>
+      <pubDate>Tue, 26 Feb 2013 07:04:39 +0000</pubDate>
+      
+      <guid>/2013/02/26/como-vota-la-gente/</guid>
+      <description>La gente vota de muchas maneras. A bote pronto, uno diría que lo hace cada cuatro años con papeletas y en medio de parafernalia de listas cerradas, mítines y similares aditamentos.
+Pero hay otros que opinan que hay mecanismos alternativos de voto. La gente puede votar en Twitter, por ejemplo. Y algunos conceden a esos votos una relativa potestad para adivinar o, incluso, influenciar fenómenos de importancia económica, política o social.</description>
+    </item>
+    
+    <item>
+      <title>Sobre los límites de la minería de datos</title>
+      <link>/2013/01/02/sobre-los-limites-de-la-mineria-de-datos/</link>
+      <pubDate>Wed, 02 Jan 2013 07:27:52 +0000</pubDate>
+      
+      <guid>/2013/01/02/sobre-los-limites-de-la-mineria-de-datos/</guid>
+      <description>Guardaba en la cartera un artículo que ya pronto cumple sus cinco años. Sirve de contrapunto a toda esa literatura que describe la minería de datos como una suerte de panacea, la cómoda senda hacia un futuro de armonía y color.
+Se trata de una entrevista a Peter Fader sobre a lo que la minería de datos alcanza y no alcanza.
+Los estadísticos se sienten relativamente cómodos ascendiendo de lo particular a lo general (por ejemplo, calculando una media).</description>
+    </item>
+    
+    <item>
+      <title>El (escaso) beneficio marginal de trabajar</title>
+      <link>/2012/12/07/el-escaso-beneficio-marginal-de-trabajar/</link>
+      <pubDate>Fri, 07 Dec 2012 07:42:33 +0000</pubDate>
+      
+      <guid>/2012/12/07/el-escaso-beneficio-marginal-de-trabajar/</guid>
+      <description>Ayer hablé con un tipo. Es ingenerio superior, con quince años de experiencia y&amp;hellip; desempleado desde hace unos meses. Me contaba que le habían ofrecido un trabajo (en condiciones, además, sorprendentemente más beneficiosas de lo que se ve por ahí en estos días). Pero que, me contaba, el beneficio marginal para aceptarlo (que conllevaría renunciar a la prestación por desempleo, etc.) le resultaba insuficiente. Mejor seguir desempleado.
+Y él sin producir, el estado teniendo que abonarle la prestación y la empresa teniendo que seguir rebuscando entre currículos.</description>
+    </item>
+    
+    <item>
+      <title>¡A los datos mismos!</title>
+      <link>/2012/07/27/a-los-datos-mismos/</link>
+      <pubDate>Fri, 27 Jul 2012 19:44:51 +0000</pubDate>
+      
+      <guid>/2012/07/27/a-los-datos-mismos/</guid>
+      <description>Me llamaron (y aún no tengo claro qué hay de lo mío en el asunto) para un proyecto. Consistía en estimar el tiempo que lleva completar determinados procesos en una conocida empresa.
+Cada proceso $latex P_i$, se ve, consistía en una sucesión de subprocesos parametrizados, por lo que las duraciones podrían calcularse algo así como
+$latex P_i=p_{i1}+\dots+p_{ik}.$
+Además, cada $latex p_{ij}$ dependía de ciertos parámetros, aunque eso no es lo más relevante para el caso.</description>
+    </item>
+    
+    <item>
+      <title>Ciencia e ingeniería; estadística y... ¿y qué?</title>
+      <link>/2012/06/26/ciencia-e-ingenieria-estadistica-y-y-que/</link>
+      <pubDate>Tue, 26 Jun 2012 06:38:04 +0000</pubDate>
+      
+      <guid>/2012/06/26/ciencia-e-ingenieria-estadistica-y-y-que/</guid>
+      <description>Los científicos llevan desde siempre (aunque con notable más fortuna en los últimos 300 o 400 años, a lo sumo) descubriendo y describiendo los pedacitos funcionales del universo. Los ingenieros, luego, los combinan y crean objetos útiles con ellos: aviones, ordenadores, prótesis, etc.
+Los estadísticos llevan cien o ciento cincuenta años largos tratando de domesticar el azar. Y han identificado una enorme variedad de herramientas con las que navegarse en un mundo casi ahogado en cifras.</description>
+    </item>
+    
+    <item>
+      <title>¿Se puede predecir con Twitter?</title>
+      <link>/2012/05/14/%c2%bfse-puede-predecir-con-twitter/</link>
+      <pubDate>Mon, 14 May 2012 06:57:21 +0000</pubDate>
+      
+      <guid>/2012/05/14/%c2%bfse-puede-predecir-con-twitter/</guid>
+      <description>Tal y como quedaron establecidos hace 80 años los parámetros para determinar si una hipótesis es o no plausible —por no calificarla de significativa o, más malévolamente, publicable— sólo una de cada veinte lo serían.
+Es un hecho que contrasta con la habilidad de los consultores que se dedican a esa labor tan difícil de acotar y que va desde la estadística a la minería de datos tocando otras áreas más o menos afines.</description>
+    </item>
+    
+    <item>
+      <title>Cuando falta la variable más importante (II)</title>
+      <link>/2012/04/12/cuando-falta-la-variable-mas-importante-ii/</link>
+      <pubDate>Thu, 12 Apr 2012 07:28:55 +0000</pubDate>
+      
+      <guid>/2012/04/12/cuando-falta-la-variable-mas-importante-ii/</guid>
+      <description>No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porque siempre he pensado que era poco menso que imposible. Pero hace unos pocos días escribí sobre el asunto y hoy traigo otro similar a colación.
+La variable más importante a la hora de construir un modelo es, precisamente, la que se quiere predecir. Casi todos los textos asumen que se conoce sin ningún género de dudas en, al menos, una determinada muestra que, además, corresponde más o menos a la población subyacente: si el paciente sobrevive o no; si la hipoteca entra en mora o no; si el cliente responde a la oferta o no, etc.</description>
+    </item>
+    
+    <item>
+      <title>Cuando falta la variable más importante</title>
+      <link>/2012/04/09/3564/</link>
+      <pubDate>Mon, 09 Apr 2012 07:29:47 +0000</pubDate>
+      
+      <guid>/2012/04/09/3564/</guid>
+      <description>Imaginemos que queremos predecir y, que toma valores 0 y 1 a partir de indicios (o variables) x mediante una función (un clasificador) f. Podemos visualizar el error de clasificación usando la matriz
+
+Efectivamente, el error es (perdónenme la notación) B+C. Como estadísticos estamos habituados a tratar de minimizar C mientras mantenemos B lo suficientemente pequeño. Un test es tanto más potente cuanto menor es C.
+Pero podemos reescribir B+C como</description>
+    </item>
+    
+    <item>
+      <title>Churn y redes sociales: un ejemplo en telecomunicaciones</title>
+      <link>/2012/04/03/3551/</link>
+      <pubDate>Tue, 03 Apr 2012 07:00:00 +0000</pubDate>
+      
+      <guid>/2012/04/03/3551/</guid>
+      <description>He leído recientemente el artículo Social Ties and their Relevance to Churn in Mobile Telecom Networks porque ilustra una técnica muy de moda: el análisis de redes sociales (SNA) en en ámbito de las telecomunicaciones y, en particular, la construcción de indicadores tempranos de baja (churn) de clientes de telefonía móvil. Más aún, permite rediseñar estrategias basadas en los resultados para retener clientes: al clasificarlos mejor usando técnicas de SNA, pueden diseñarse estrategias activas para aquellos que no sólo tienen una mayor predisposición a darse de baja sino, además, a arrastrar con ellos a parte de su entorno social.</description>
+    </item>
+    
+    <item>
+      <title>Las preguntas oportunas brillan por su ausencia</title>
+      <link>/2012/03/09/las-preguntas-oportunas-brillan-por-su-ausencia/</link>
+      <pubDate>Fri, 09 Mar 2012 07:41:25 +0000</pubDate>
+      
+      <guid>/2012/03/09/las-preguntas-oportunas-brillan-por-su-ausencia/</guid>
+      <description>Se levantó un revuelo hace unos días en la profesión a raíz de la noticia de que Target había descubierto que una adolescente estaba embarazada antes que sus mismos padres. En el artículo se explica cómo lo hacen:
+La noticia ha aparecido en diversos medios (p.e., aquí, aquí y aquí). Incluso ha habido una encuesta en KDNuggets sobre las cuestiones éticas que rodean a esa posible intromisión en la privacidad.</description>
+    </item>
+    
+    <item>
+      <title>El cuadrante mágico de Gartner y sus contradicciones internas</title>
+      <link>/2012/02/29/el-cuadrante-magico-de-gartner-y-sus-contradicciones-internas/</link>
+      <pubDate>Wed, 29 Feb 2012 07:09:28 +0000</pubDate>
+      
+      <guid>/2012/02/29/el-cuadrante-magico-de-gartner-y-sus-contradicciones-internas/</guid>
+      <description>A la gente de Gartner le encanta su (impropiamente denominado) cuadrante mágico, que es una cosa tal como
+
+Dispone Gartner sobre él los productos de diversos proveedores (de informática de gestión) en función de dos variables, ability to execute y completeness of vision. El cuadrante está partido en cuatro sectores en los que se ubican:
+ * Los líderes (_leaders_), que son los que obtienen buena calificación en ambas dimensiones.</description>
+    </item>
+    
+    <item>
+      <title>Artículos interesantes en la bitácora de un colega</title>
+      <link>/2012/02/21/articulos-interesantes-en-la-bitacora-de-un-colega/</link>
+      <pubDate>Tue, 21 Feb 2012 07:01:23 +0000</pubDate>
+      
+      <guid>/2012/02/21/articulos-interesantes-en-la-bitacora-de-un-colega/</guid>
+      <description>Me envía Guillermo Córdoba, de Unica360, una selección de entradas de su bitácora que, creo, serán también del interés de mis lectores:
+ * [Análisis RFM en retail. Empezando a segmentar clientes (I)](http://www.unica360.com/analisis-rfm-en-retail-empezando-a-segmentar-clientes-i) * [Micromarketing y predicción de demanda ¿cuánto gastan en libros?](http://www.unica360.com/micromarketing-y-prediccion-de-demanda-%c2%bfcuanto-gastan-en-libros) * [Buzoneo segmentado, analizando el retorno de la campaña](http://www.unica360.com/buzoneo-segmentado-analizando-el-retorno-de-la-campana) * [Cuadro de mando geográfico. BI y geomarketing en un click](http://www.unica360.com/cuadro-de-mando-geografico-bi-y-geomarketing-en-un-click)  ¡Buena lectura!</description>
+    </item>
+    
+    <item>
+      <title>Estrenos con ecos estadísticos (I): Moneyball</title>
+      <link>/2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/</link>
+      <pubDate>Fri, 17 Feb 2012 07:44:41 +0000</pubDate>
+      
+      <guid>/2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/</guid>
+      <description>Mi extemporáneo periodo vacacional me ha dado, entre otras cosas, para ver dos películas en las que resuenan claros ecos relacionados con la estadística.
+La primera de ellas es Moneyball, basada en el libro homónimo. Cuenta la historia de un equipo de béisbol con escasos recursos que utiliza técnicas estadísticas —desafiando así los inveterados procedimientos subjetivos de los ojeadores— para identificar y fichar a los jugadores adecuados para alcanzar el objetivo último del deporte: ganar.</description>
+    </item>
+    
+    <item>
+      <title>Un manifiesto (y juramento &#34;hipocrático&#34;) para los modelizadores</title>
+      <link>/2012/01/27/un-manifiesto-y-juramento-hipocratico-para-los-modelizadores/</link>
+      <pubDate>Fri, 27 Jan 2012 07:06:25 +0000</pubDate>
+      
+      <guid>/2012/01/27/un-manifiesto-y-juramento-hipocratico-para-los-modelizadores/</guid>
+      <description>Es algo viejo, pero vale la pena traerlo a estas páginas. Se trata de un manifiesto que comienza parejo a aquel otro ahora arrumbado: Un espectro recorre los mercados — el espectro de la falta de liquidez, la congelación del crédito y el fracaso de los modelos financieros.
+Habla, sí, principalmente, de finanzas. Pero en gran medida desde la óptica de la modelización y de su responsabilidad en el caos que vivimos ahora.</description>
+    </item>
+    
+    <item>
+      <title>Limpieza de cartera y miscelánea de artículos</title>
+      <link>/2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/</link>
+      <pubDate>Wed, 25 Jan 2012 07:11:07 +0000</pubDate>
+      
+      <guid>/2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/</guid>
+      <description>He decidido limpiar mi cartera. Llevo en ella unos cuantos artículos impresos que me acompañan desde hace mucho y que, por un lado, me da pena tirar y, por el otro, no me aportan en el día a día. Voy a reciclar el papel sobre el que los imprimí y, a la vez, dejar en enlace a ellos por si a mí un día (o a alguno de mis lectores otro) me da por volver sobre ellos.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué es un &#34;data scientist&#34;?</title>
+      <link>/2012/01/24/%c2%bfque-es-un-data-scientist/</link>
+      <pubDate>Tue, 24 Jan 2012 07:24:01 +0000</pubDate>
+      
+      <guid>/2012/01/24/%c2%bfque-es-un-data-scientist/</guid>
+      <description>Un data scientist es un señor que sabe de varias cosas que no se enseñan ni juntas ni bien por separado en nuestras universidades. Y que, además, se desaprenden rápido en las oficinas y covachuelas donde acabamos ejerciendo. A no ser, claro está, que uno tenga la vocación y la capacidad para nadar contracorriente.
+Extraigo de dataists el siguiente gráfico,
+
+que indica cuáles son los tres elementos técnicos —obviando los pertenecientes a otras dimensiones— fundamentales de los que se nutre una carrera como científico de datos.</description>
+    </item>
+    
+    <item>
+      <title>Visualización de la incertidumbre sobre el futuro</title>
+      <link>/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/</link>
+      <pubDate>Wed, 19 Oct 2011 06:42:33 +0000</pubDate>
+      
+      <guid>/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/</guid>
+      <description>Recomiendo a mis lectores el artículo Visualizing Uncertainty About the Future de D. Spiegelhalter, M. Pearson e I. Short. Trata sobre qué tipo de representaciones gráficas son más adecuadas para transmitir información acerca de la probabilidad de fenómenos futuros a distintos tipos de audiencias, incluidas las más anuméricas.
+Abarca desde los incipientes trabajos de Nightingale y Neurath hasta Gapminder y los más modernos desarrollos de la infografía. Aplaude, por ejemplo, la iniciativa del Banco de Inglaterra de publicar información sobre la posible evolución de indicadores económicos futuros de la forma</description>
+    </item>
+    
+    <item>
+      <title>Estrategia, predicción y proyección de la población española</title>
+      <link>/2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/</link>
+      <pubDate>Tue, 18 Oct 2011 07:00:06 +0000</pubDate>
+      
+      <guid>/2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/</guid>
+      <description>Cayó el otro día en mis manos un artículo, Strategy under Uncertainty, que complementa bastante adecuadamente mi entrada del otro día sobre las proyecciones a corto plazo de la población española que realiza el INE.
+La estrategia concierne a sucesos futuros. Por ser futuros, son inciertos. Y el artículo describe cuatro niveles distintos de incertidumbre a los que contrapone una serie de posibles estrategias. Los niveles son:
+ Un futuro suficientemente claro: las tendencias son muy claras y no se esperan sorpresas.</description>
+    </item>
+    
+    <item>
+      <title>Riesgo en proyectos de IT</title>
+      <link>/2011/10/17/riesgo-en-proyectos-de-it/</link>
+      <pubDate>Mon, 17 Oct 2011 07:08:24 +0000</pubDate>
+      
+      <guid>/2011/10/17/riesgo-en-proyectos-de-it/</guid>
+      <description>Tu proyecto de IT puede contener más riesgo del que piensas. De verdad. Dan fe de ello Bent Flyvbjerg y Alexander Budzier.
+Los autores describen en el artículo que he enlazado encima varios proyectos que fracasaron estrepitosamente y proporcionan algunos consejos para evitar ese tipo de desenlaces. Sin embargo, para quienes siguen esta bitácora, la reflexión más interesante es la siguiente:
+ Al focalizarse en las medias en lugar de los casos extremos más dañiños, la mayor parte de los gestores y consultores han ignorado el verdadero problema.</description>
+    </item>
+    
+    <item>
+      <title>DataWrangler: limpieza y transformación interactiva de datos</title>
+      <link>/2011/10/11/datawrangler-limpieza-y-transformacion-interactiva-de-datos/</link>
+      <pubDate>Tue, 11 Oct 2011 07:05:16 +0000</pubDate>
+      
+      <guid>/2011/10/11/datawrangler-limpieza-y-transformacion-interactiva-de-datos/</guid>
+      <description>Quiero dar a conocer hoy una alternativa a Google Refine de la que he tenido noticia no hace mucho: DataWrangler.
+
+Se trata de una herramienta concebida para acelerar el proceso de manipulación de datos para crear tablas que exportar luego a Excel, R, etc.
+Los interesados pueden echarle un vistazo al artículo que escribieron sus autores, Wrangler: Interactive Visual Specification of Data Transformation Scripts y, cómo no, usarlo.</description>
+    </item>
+    
+    <item>
+      <title>Datos grandes, colas largas</title>
+      <link>/2011/09/28/datos-grandes-colas-largas/</link>
+      <pubDate>Wed, 28 Sep 2011 06:57:52 +0000</pubDate>
+      
+      <guid>/2011/09/28/datos-grandes-colas-largas/</guid>
+      <description>Codd desarrolló el modelo relacional —la base de casi todos los actuales sistemas de bases de datos— a finales de los años sesenta. El modelo relacional, basado en la lógica proposicional, suponía una ventaja sustancial con respecto a los métodos anteriores de almacenar información y bien implementado permite resolver una serie de problemas que afectaban a los sistemas anteriores:
+ Evita la redundancia de los datos. Minimiza los problemas de actualización de los datos en las tablas.</description>
+    </item>
+    
+    <item>
+      <title>La estadística del número tres</title>
+      <link>/2011/09/14/la-estadistica-del-numero-tres/</link>
+      <pubDate>Wed, 14 Sep 2011 07:29:08 +0000</pubDate>
+      
+      <guid>/2011/09/14/la-estadistica-del-numero-tres/</guid>
+      <description>Una consulta que he recibido hoy me ha hecho acordar que tenía pendiente una entrada sobre la estadística del número tres, es decir, ¿qué hacer cuando tenemos sólo tres casos?
+Hace tiempo publiqué en estas páginas un vídeo sobre este asunto. Lo que no sabía entonces es que existen (o existieron) estadísticos que estudiaron concienzudamente el problema. He aquí unas cuantas referencias:
+ Youden, W. J., The Best Two out of Three?</description>
+    </item>
+    
+    <item>
+      <title>Dinero y motivación</title>
+      <link>/2011/08/30/dinero-y-motivacion/</link>
+      <pubDate>Tue, 30 Aug 2011 07:12:05 +0000</pubDate>
+      
+      <guid>/2011/08/30/dinero-y-motivacion/</guid>
+      <description>¿Nos motiva el dinero? ¿Hasta qué punto? ¿En todo tipo de tareas? El siguiente vídeo de Dan Pink, basado en su libro Drive: The Surprising Truth About What Motivates Us, subraya la importancia de otros factores —autonomía, maestría, propósito— como directores de nuestra actividad.
+  Aunque extraído de una discusión acerca de la conveniencia de pagar a los desarrolladores de R, los más agudos de mis lectores sabrán extrapolar sus enseñanzas a otras circunstancias cotidianas.</description>
+    </item>
+    
+    <item>
+      <title>Clústering (IV): una digresión real como la vida misma</title>
+      <link>/2011/08/26/clustering-iv-una-digresion-real-como-la-vida-misma/</link>
+      <pubDate>Fri, 26 Aug 2011 07:35:14 +0000</pubDate>
+      
+      <guid>/2011/08/26/clustering-iv-una-digresion-real-como-la-vida-misma/</guid>
+      <description>Entré a trabajar en una consultora hace un tiempo ?no diré si mucho o poco? y uno de mis primeros encargos fue el de supervisar el desarrollo e implementación de unos modelos que habían creado unos compañeros. Les eché un vistazo y me sorprendió que sin mayor miramiento habían eliminado aquellas observaciones cuya variable objetivo tomaba el 4% de los valores más altos y el 4% de los más pequeños.</description>
+    </item>
+    
+    <item>
+      <title>Clústering (III): sobresimplificación</title>
+      <link>/2011/08/03/clustering-iii-sobresimplificacion/</link>
+      <pubDate>Wed, 03 Aug 2011 07:04:20 +0000</pubDate>
+      
+      <guid>/2011/08/03/clustering-iii-sobresimplificacion/</guid>
+      <description>¿Quién fue el segundo hombre en pisar la luna? ¿Y el tercero? Aunque a veces pareciese lo contrario, ¿sabe que hay futbolistas que no son ni Ronaldo ni Messi? ¿Y otros ciclistas además de Contador e Induráin? ¿Y que la Fórmula 1 no se reduce a un tal Alonso?
+Diríase que por razones sicológicas, nuestro cerebro tiende a sobresimplificar, se siente cómodo con una representación escueta de la realidad, es reacio a los distingos y grises.</description>
+    </item>
+    
+    <item>
+      <title>Clústering (II): ¿es replicable?</title>
+      <link>/2011/07/19/clustering-ii-es-replicable/</link>
+      <pubDate>Tue, 19 Jul 2011 07:00:56 +0000</pubDate>
+      
+      <guid>/2011/07/19/clustering-ii-es-replicable/</guid>
+      <description>Sólo conozco un estudio ?y lo digo bona fide; si alguno de mis lectores conoce otro, le ruego que me lo indique? en el que las técnicas de clústering hayan sido rectamente aplicadas. Se trata del artículo Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring de cuyo resumen extraigo y traduzco lo siguiente:
+ Un procedimiento de detección de clases automáticamente descubrió la distinción entre la leucemia mieloide aguda (AML) y la leucemia linfoblástica aguda (ALL) sin conocimiento previo de las clases.</description>
+    </item>
+    
+    <item>
+      <title>Google Refine para analizar, estudiar y limpiar los datos</title>
+      <link>/2011/06/28/google-refine-para-analizar-estudiar-y-limpiar-los-datos/</link>
+      <pubDate>Tue, 28 Jun 2011 07:30:25 +0000</pubDate>
+      
+      <guid>/2011/06/28/google-refine-para-analizar-estudiar-y-limpiar-los-datos/</guid>
+      <description>En esta entrada de hoy, hija de la pereza, reproduzco un vídeo que el lector puede encontrar igualmente en Medialab Prado. Es una presentación de Javier de la Torre, de Vizzuality, una compañía que trabaja en un campo del que nos hemos venido ocupando en estas páginas: la visualización de la información. La presentación tuvo lugar el 15 de febrero de 2011 dentro del evento Barcamp: periodismo de datos. Trata sobre Google Refine.</description>
+    </item>
+    
+    <item>
+      <title>Sobre el libro &#34;The flaw of averages&#34;</title>
+      <link>/2011/06/24/sobre-el-libro-the-flaw-of-averages/</link>
+      <pubDate>Fri, 24 Jun 2011 07:19:27 +0000</pubDate>
+      
+      <guid>/2011/06/24/sobre-el-libro-the-flaw-of-averages/</guid>
+      <description>Leí hace un tiempo The flaw of averages, un libro poco convencional que recomiendo a mis lectores. Su objetivo último es encomiable: conseguir que personas sin mayor preparación matemática o estadística pero obligadas a tomar decisiones frente a la incertidumbre apliquen el sentido común y entiendan claramente unos principios mínimos.
+Para lograrlo, asume una postura tal vez anti-intelectualista, tal vez herética. Piensa el autor —¿con motivo?— que, a ciertas personas, conceptos tales como varianza, media, teorema central del límite o función de densidad les dificultan, más que facilitan, la comprensión de lo que la incertidumbre realmente es y de cómo puede afectarlos.</description>
+    </item>
+    
+    <item>
+      <title>Sweave, investigación reproducible... y más</title>
+      <link>/2011/06/23/sweave-investigacion-reproducible-y-mas/</link>
+      <pubDate>Thu, 23 Jun 2011 07:08:45 +0000</pubDate>
+      
+      <guid>/2011/06/23/sweave-investigacion-reproducible-y-mas/</guid>
+      <description>Me consta que algunos de mis lectores están al tanto de eso que llaman investigación reproducible. De acuerdo con la Wikipedia (en inglés),
+ [E]l término investigación reproducible se atribuye a Jon Claerbout, de la Universidad de Stanford y se refiere a la idea de que el producto final de la investigación no debería circunscribirse a un artículo sino comprender también el entorno computacional completo usado en la generación los resultados que contiene, tales como el código, los datos, etc.</description>
+    </item>
+    
+    <item>
+      <title>Diez mandamientos del análisis de datos</title>
+      <link>/2011/06/22/diez-mandamientos-del-analisis-de-datos/</link>
+      <pubDate>Wed, 22 Jun 2011 06:59:17 +0000</pubDate>
+      
+      <guid>/2011/06/22/diez-mandamientos-del-analisis-de-datos/</guid>
+      <description>Extraigo de la bitácora de Rob J Hyndman y de una manera que roza el plagio mi entrada de hoy. Recoge diez reglas, diez mandamientos para el análisis de datos (en realidad, para el análisis econométrico, pero pueden trasladarse casi sin cambios al ámbito general) propuestas por Peter Kennedy. Son las siguientes:
+ Usa el sentido común (y la teoría económica) Evita el error de tipo III (encontrar la respuesta adecuada a la pregunta incorrecta) Conoce el contexto Inspecciona los datos KISS (Keep It Sensibly Simple) Asegúrate de que tus resultados tienen sentido Considera los beneficios y los costes de la minería de datos Estáte preparado para aceptar soluciones de compromiso No confundas significancia con relevancia Acompaña tus resultados de un análisis de la sensibilidad  El lector interesado puede echar un vistazo a la discusión de estas reglas.</description>
+    </item>
+    
+    <item>
+      <title>Grandes números</title>
+      <link>/2011/06/17/grandes-numeros/</link>
+      <pubDate>Fri, 17 Jun 2011 07:16:50 +0000</pubDate>
+      
+      <guid>/2011/06/17/grandes-numeros/</guid>
+      <description>400 euros cuesta un disco duro en el que almacenar toda la música del mundo Hay 5.000 millones de teléfonos móviles funcionado 30.000 millones de contenidos circulan por Facebook cada mes Los datos generados mundialmente crecen un 40%, frente al 5% que se incrementa el gasto en tecnologías de la información La biblioteca del Congreso de Estados Unidos almacena 235 TB de información Pero las compañías de 15 de 17 sectores económicos de EE.</description>
+    </item>
+    
+    <item>
+      <title>Minitutorial de subversion</title>
+      <link>/2011/06/13/minitutorial-de-subversion/</link>
+      <pubDate>Mon, 13 Jun 2011 07:41:42 +0000</pubDate>
+      
+      <guid>/2011/06/13/minitutorial-de-subversion/</guid>
+      <description>Por popular demanda, voy a ilustrar en esta entrada el uso de subversion para el desarrollo colaborativo de software. Lo escribo teniendo en mente el desarrollo de paquetes alojados en R-Forge y para usuarios de sistemas operativos más o menos decentes. A quienes usan Windows les recomiendo Tortoise, cuyo uso queda fuera del alcance de lo que sigue.
+En primer lugar, para los desavisados: subversion es un programa para gestionar versiones de ficheros.</description>
+    </item>
+    
+    <item>
+      <title>Gestión de proyectos en R</title>
+      <link>/2011/06/08/gestion-de-proyectos-en-r/</link>
+      <pubDate>Wed, 08 Jun 2011 07:36:35 +0000</pubDate>
+      
+      <guid>/2011/06/08/gestion-de-proyectos-en-r/</guid>
+      <description>Muchos de mis lectores tienen, seguro, maneras distintas —y probablemente mejores— de organizar sus proyectos en R que yo. Pero me consta que a algunos les cuesta no convertir sus carpetas en un caos en los que sólo ellos se manejan —hasta que pasa el tiempo, se olvidan y tienen que volver sobre ello—. Para ellos, para sugerirles un procedimiento eficiente de trabajo, va esta entrada. En ella describo cómo organizo mis propios proyectos con R.</description>
+    </item>
+    
+    <item>
+      <title>La tragedia del buen rollito</title>
+      <link>/2011/06/06/la-tragedia-del-buen-rollito/</link>
+      <pubDate>Mon, 06 Jun 2011 07:37:28 +0000</pubDate>
+      
+      <guid>/2011/06/06/la-tragedia-del-buen-rollito/</guid>
+      <description>No sé si mis lectores están al tanto del problema conocido como tragedia de los comunes (que, más bien, debería denominarse tragedia de las dehesas). Consiste en que una serie de agentes económicos (ganaderos) comparten un bien común, que no pertenece a nadie (una dehesa), en la que hacen pastar sus vacas. Todos ellos están interesados en hacer pastar el máximo número posible de ellas. Pero la capacidad de generar pasto de la dehesa es limitada y llega un momento en que ésta se sobreexplota y es incapaz de alimentar tanta vaca.</description>
+    </item>
+    
+    <item>
+      <title>Problema de la semana sobre la media</title>
+      <link>/2011/05/20/problema-de-la-semana-sobre-la-media/</link>
+      <pubDate>Fri, 20 May 2011 07:59:34 +0000</pubDate>
+      
+      <guid>/2011/05/20/problema-de-la-semana-sobre-la-media/</guid>
+      <description>Como esta semana se me están agotando las ideas antes que los días de blog, en lugar de discurrir una entrada, propongo un problema para que sean mis lectores quienes lo hagan por mí.
+Que se imaginen dueños de un pozo petrolífero cuyos costes de explotación son de 75 dpb (dólares por barril). El precio del petróleo no es fijo: puede tomar aleatoriamente los valores 50, 100 o 150 dpb, aunque se sabe que todos son equiprobables.</description>
+    </item>
+    
+    <item>
+      <title>Consejos para utilizar R &#34;en producción&#34;</title>
+      <link>/2011/05/13/consejos-para-utilizar-r-en-produccion/</link>
+      <pubDate>Fri, 13 May 2011 07:58:02 +0000</pubDate>
+      
+      <guid>/2011/05/13/consejos-para-utilizar-r-en-produccion/</guid>
+      <description>El otro día di con una entrada en una bitácora con cinco consejos para utilizar R en producción. Cuatro de ellos son razonables:
+ Crear un sistema de validación, monitorización y alertas. Y, en particular, desarrollar un mecanismo para que R notifique los problemas encontrados por correo electrónico. En la entrada original hay código que puede utilizarse para tal fin. Usar la función sink para facilitar la detección y corrección de los errores.</description>
+    </item>
+    
+    <item>
+      <title>Seis consejos para quienes aspiran a la excelencia</title>
+      <link>/2011/04/25/seis-consejos-para-quienes-aspiran-a-la-excelencia/</link>
+      <pubDate>Mon, 25 Apr 2011 07:09:54 +0000</pubDate>
+      
+      <guid>/2011/04/25/seis-consejos-para-quienes-aspiran-a-la-excelencia/</guid>
+      <description>Esta bitácora tiene aspiraciones de excelencia (aunque no siempre lo consigue: por ejemplo, en esta entrada utiliza excelencia de una manera que es un calco del inglés incorrecto en español). De ahí que nos interese siempre estar al tanto de técnicas que nos ayuden a superarnos.
+Así, de las bitácoras del Hardvard Business Review extraemos estos seis consejos que deberían servir a quien apunte más arriba que a lo que nos invita la mediocridad del ambiente:</description>
+    </item>
+    
+    <item>
+      <title>Nunca más de cinco</title>
+      <link>/2011/04/11/nunca-mas-de-cinco/</link>
+      <pubDate>Mon, 11 Apr 2011 07:11:44 +0000</pubDate>
+      
+      <guid>/2011/04/11/nunca-mas-de-cinco/</guid>
+      <description>Me preguntan a veces que por qué me gusta leer The Economist (¿porque se nota que lo escribe gente muy inteligente, para variar?). Y me pregunto yo por qué leo a veces McKinsey Quarterly (¿porque es gratis? ¿porque me aburro?). Lo que tiene la primera publicación de agudo, lo tiene la segunda de fome.
+Pero no todo es desaprovechable. En una de las últimas ediciones, traía la revista un breve resumen de un libro, Brainsteering, sobre el asunto del llamado brainstorming.</description>
+    </item>
+    
+    <item>
+      <title>A esa gente le había hecho falta un matemático</title>
+      <link>/2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/</link>
+      <pubDate>Fri, 01 Apr 2011 07:31:39 +0000</pubDate>
+      
+      <guid>/2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/</guid>
+      <description>A esa gente le había hecho falta, en efecto, un matemático. Les hubiera bastado saber mi número de teléfono y no habrían cometido tamaña tontería y habrían tenido a sus accionistas más satisfechos. Explicaré el asunto. Será muy instructivo para quienes opinan que no valemos para gran cosa.
+Hace mucho, mucho tiempo, tanto que las neuronas que se acuerdan de eso están llenas de polvo, en un país muy, muy lejos de éste, trabajé en un proyecto cuya naturaleza no viene al caso.</description>
+    </item>
+    
+    <item>
+      <title>Metodología, casuística y tipología</title>
+      <link>/2011/03/15/metodologia-casuistica-y-tipologia/</link>
+      <pubDate>Tue, 15 Mar 2011 09:30:09 +0000</pubDate>
+      
+      <guid>/2011/03/15/metodologia-casuistica-y-tipologia/</guid>
+      <description>Me enterneció el otro día encontrar un artículo en el que la palabra _casuística _se utilizaba de manera recta. Y es que cifro el abuso que se hace de los términos metodología, _casuística _y tipología—junto con la expresión más óptimo, de la que ya nos ocupamos otro día— entre los más irritantes que comete el hablante poco versado en temas ortográficos y léxicos que trata de aparentar lo que no es.</description>
+    </item>
+    
+    <item>
+      <title>Una propuesta de &#34;crowdsourcing analítico&#34;</title>
+      <link>/2011/03/09/una-propuesta-de-crowdsourcing-analitico/</link>
+      <pubDate>Wed, 09 Mar 2011 09:51:47 +0000</pubDate>
+      
+      <guid>/2011/03/09/una-propuesta-de-crowdsourcing-analitico/</guid>
+      <description>Pido excusas en primer lugar por usar la palabra crowdsourcing. No sé si tiene una traducción a este idioma con tan pocos valedores que trato de usar habitualmente. Creo que no. La causa, seguramente, es sociológica. Pero no es ése el tema que hoy me ocupa.
+Es, más bien, una oferta que me han hecho llegar recientemente para colaborar en el desarrollo de una plataforma de crowdsourcing analítico. Esta plataforma haría de intermediaria entre gente que tiene un problema analítico —mencionan las áreas consabidas: datos clínicos, predicción, investigación de mercado, optimización de precios, gestión de inventarios, etc.</description>
+    </item>
+    
+    <item>
+      <title>Sólo quiero saber si basta con tres casos</title>
+      <link>/2011/02/22/solo-quiero-saber-si-basta-con-tres-casos/</link>
+      <pubDate>Tue, 22 Feb 2011 09:53:46 +0000</pubDate>
+      
+      <guid>/2011/02/22/solo-quiero-saber-si-basta-con-tres-casos/</guid>
+      <description>Os puedo jurar que lo he vivido.
+Así, literalmente. Tenían que ser tres y no más.
+Más vídeos similares, aquí.</description>
+    </item>
+    
+    <item>
+      <title>Minería de datos: promesas y realidades</title>
+      <link>/2011/02/21/mineria-de-datos-promesas-y-realidades/</link>
+      <pubDate>Mon, 21 Feb 2011 09:12:26 +0000</pubDate>
+      
+      <guid>/2011/02/21/mineria-de-datos-promesas-y-realidades/</guid>
+      <description>Incluso a los que conocemos el mercado desde dentro, la lectura de artículos como éste nos descubre un asombroso brave new world. Tanto los nuevos métodos con que dizque se afrontan los problemas más pedestres (como la detección de fraude, la retención de los mejores clientes, etc.) como la misma naturaleza de las áreas en las que se aplican (lucha antiterrorista, predicción de motines, elecciones sangrientas, actos de represión,&amp;hellip; ¡e incluso el lanzamiento de cohetes por parte de Hizbolá!</description>
+    </item>
+    
+    <item>
+      <title>¿Más óptimo? Uffff...</title>
+      <link>/2011/02/14/mas-optimo-uffff/</link>
+      <pubDate>Mon, 14 Feb 2011 09:51:19 +0000</pubDate>
+      
+      <guid>/2011/02/14/mas-optimo-uffff/</guid>
+      <description>No voy a descubrir nada diciendo que cada gremio utiliza una jerga característica. Y que la que se maneja en disciplinas tales como la consultoría, la informática y la práctica de las ciencias aplicadas está tremendamente influida por lenguas extranjeras.
+Algunos, los menos, tratamos de evitar barbarismos innecesarios y nos escandalizamos del spanglish galopante. En nuestra ayuda, poco auxilio podemos recabar de la RAE, que avanza a pasitos tan cortos (pero seguros, ¿eh?</description>
+    </item>
+    
+    <item>
+      <title>Verdades, mentiras, estadísticas... y autopistas radiales</title>
+      <link>/2011/01/21/verdades-mentiras-estadisticas-y-autopistas-radiales/</link>
+      <pubDate>Fri, 21 Jan 2011 09:27:56 +0000</pubDate>
+      
+      <guid>/2011/01/21/verdades-mentiras-estadisticas-y-autopistas-radiales/</guid>
+      <description>Sin ser un as de las finanzas, resulta más que evidente que la inversión que en su día se hizo para convertir el tramo Madrid-Zaragoza de la N-II en autovía fue más que rentable. La obra fue financiada por el estado y su uso fue gratuito desde el primer día.
+Pero conforme fue mejorando la red de infraestructuras españolas, la estimación de la rentabilidad de cada euro adicional de inversión en ellas se ha ha ido complicado.</description>
+    </item>
+    
+    <item>
+      <title>¿Es Cobol tan robusto como cuentan?</title>
+      <link>/2010/12/30es-cobol-tan-robusto-como-cuentan/</link>
+      <pubDate>Thu, 30 Dec 2010 09:05:51 +0000</pubDate>
+      
+      <guid>/2010/12/30es-cobol-tan-robusto-como-cuentan/</guid>
+      <description>El diario El País se ha hecho eco de algo que no hace falta ser particularmente perspicaz para advertir. Y no me refiero tanto a la tesis global del artículo como a este parrafito,
+ [&amp;hellip;] ambos opinan que la primera disfunción está en la Universidad. &amp;ldquo;Estamos hablando de trabajadores sobreeducados que, sin embargo, carecen de las habilidades necesarias para desempeñar el trabajo&amp;rdquo;. Este contrasentido está en relación directa &amp;ldquo;con el tipo de docencia impartida en las Universidades&amp;rdquo;, añaden.</description>
+    </item>
+    
+    <item>
+      <title>Mahoma, su proverbial montaña y la Wikipedia</title>
+      <link>/2010/12/22/mahoma-su-proverbial-montana-y-la-wikipedia/</link>
+      <pubDate>Wed, 22 Dec 2010 09:07:18 +0000</pubDate>
+      
+      <guid>/2010/12/22/mahoma-su-proverbial-montana-y-la-wikipedia/</guid>
+      <description>El azar (¡y la suerte también!) me ha llevado a lo largo de estas semanas pasadas a departir con miembros de un gremio con el que apenas he tenido relación en años, el de los docentes: he tenido la suerte de compartir mesas y sobremesas con profesores tanto de bachillerato como de universidad.
+Y no creo que por azar sea el hecho de que todos ellos, de manera independiente, hayan valorado negativamente un fenómeno que en mi época, pre-internet, no era siquiera imaginable: que los alumnos acuden a la Wikipedia —también a otras fuentes electrónicas, pero, en particular, la Wikipedia— para instruirse (digámoslo así) sobre temas académicos.</description>
+    </item>
+    
+    <item>
+      <title>Transforma (los gráficos de) España</title>
+      <link>/2010/11/25/transforma-los-graficos-de-espana/</link>
+      <pubDate>Thu, 25 Nov 2010 09:25:30 +0000</pubDate>
+      
+      <guid>/2010/11/25/transforma-los-graficos-de-espana/</guid>
+      <description>Ha aparecido en diversos medios la noticia de la presentación al rey de una propuesta de la Fundación Everis que ha venido a titular TransformaEspaña (así, junto). El estudio que define la propuesta
+ [&amp;hellip;] pone de relieve la gravedad de la actual crisis económica, sus causas y consecuencias, propone una serie de soluciones y actuaciones en todos los ámbitos del sistema que deben producirse en los próximos años para generar un verdadero cambio.</description>
+    </item>
+    
+    <item>
+      <title>Nuestro mandato: ordenar y simplificar</title>
+      <link>/2010/11/23/nuestro-mandato-ordenar-y-simplificar/</link>
+      <pubDate>Tue, 23 Nov 2010 09:39:55 +0000</pubDate>
+      
+      <guid>/2010/11/23/nuestro-mandato-ordenar-y-simplificar/</guid>
+      <description>Todo el mundo entiende que los médicos, sólo por serlo, están sujetos a un mandato específico: luchar contra la enfermedad. Puede que otros gremios (como los maestros o los jueces) tengan otros tan escuetos como significativos.
+Yo, durante un tiempo, me pregunté cuál sería el de los matemáticos, los estadísticos, los que nos dedicamos al análisis de datos. Y creí dar con una fórmula que hice mía: ordenar y simplificar la información.</description>
+    </item>
+    
+    <item>
+      <title>Siete consejos para expertos en análisis de datos</title>
+      <link>/2010/11/17/siete-consejos-para-expertos-en-analisis-de-datos/</link>
+      <pubDate>Wed, 17 Nov 2010 22:53:32 +0000</pubDate>
+      
+      <guid>/2010/11/17/siete-consejos-para-expertos-en-analisis-de-datos/</guid>
+      <description>En mis deambulaciones por internet topé con una página interesante que bien merece ser comentada en este blog. Enumera siete técnicas (o secretos en su formulación primigenia) que habrían de hacer suyas los expertos en análisis de datos. Son:
+Usa una herramienta del tamaño adecuado
+SAS u Oracle no deberían considerarse las herramientas por defecto. Para procesar y depurar ficheros de texto de menos de mil líneas bastan herramientas como R, Google Refine, vi, Excel/OpenCalc,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Google Refine 2.0, una herramienta con muy buen aspecto</title>
+      <link>/2010/11/12/google-refine-2-0-una-herramienta-con-muy-buen-aspecto/</link>
+      <pubDate>Fri, 12 Nov 2010 00:51:16 +0000</pubDate>
+      
+      <guid>/2010/11/12/google-refine-2-0-una-herramienta-con-muy-buen-aspecto/</guid>
+      <description>Le debo a Guillermo, un excompañero de SAS, la noticia que aquí publico: Google Refine. Acabo de ver
+  y no he podido resistir la tentación de escribir algo al respecto. Tiene una pinta increíble y creo que el lunes a más no tardar podré contar mis impresiones personales sobre la herramienta. ¿Será que se me adelanta alguno de mis lectores?</description>
+    </item>
+    
+    <item>
+      <title>Déjese asesorar por Microsoft para reorientar su carrera</title>
+      <link>/2010/11/10/dejese-asesorar-por-microsoft-para-reorientar-su-carrera/</link>
+      <pubDate>Wed, 10 Nov 2010 09:06:32 +0000</pubDate>
+      
+      <guid>/2010/11/10/dejese-asesorar-por-microsoft-para-reorientar-su-carrera/</guid>
+      <description>Por algún motivo, tal vez la crisis, últimamente hay quienes preguntan sobre cómo (re)enfocar sus carreras en este mundillo que tiene que ver con lo que hago y escribo. Voy a hacerles el favor de responderles globalmente con lo que opina alguien cuyo _net present worth _es en muchos órdenes de magnitud superior al mío.
+Porque ya que si se trata de seguir los consejos de alguien, digo yo, preferible será tomar los de quienes han triunfado en el Nasdaq que los de los que viajamos en metro y cenamos en el chino.</description>
+    </item>
+    
+    <item>
+      <title>Una revisión neoliberal del principio de Peter</title>
+      <link>/2010/11/08/una-revision-neoliberal-del-principio-de-peter/</link>
+      <pubDate>Mon, 08 Nov 2010 10:14:56 +0000</pubDate>
+      
+      <guid>/2010/11/08/una-revision-neoliberal-del-principio-de-peter/</guid>
+      <description>El premio Ig-Nobel de Gestión del año 2010 se lo llevó un equipo de investigadores de la Universidad de Catania por un estudio sobre el principio de Peter. Su formulación es la siguiente:
+ En una jerarquía, todo empleado tiende a ascender hasta alcanzar su máximo nivel de incompetencia
+Laurence J. Peter
+ En esta entrada voy primero a plantear el problema, revisar después brevemente la propuesta de los italianos ignominiosamente laureados y, finalmente, plantear mi anunciada revisión neoliberal.</description>
+    </item>
+    
+    <item>
+      <title>Sin sexo por decisión judicial</title>
+      <link>/2010/10/17/sin-sexo-por-decision-judicial/</link>
+      <pubDate>Sun, 17 Oct 2010 21:21:45 +0000</pubDate>
+      
+      <guid>/2010/10/17/sin-sexo-por-decision-judicial/</guid>
+      <description>Pues sí, nos quedamos sin sexo. Por culpa de unos jueces y una interpretación tan recta como corta de miras de nosequé leyes europeas.
+La cosa viene de atrás: a la hora de categorizar clientes, usuarios o, en definitiva, personas en proyectos diversos de minería de datos (o en el cotidiando desempeño de los actuarios), ¿qué variables con información personal es legítimo utilizar? El uso de variables tales como raza, satisfacción de cuotas a algún sindicato, etc.</description>
+    </item>
+    
+    <item>
+      <title>IBM compró Netezza: una taxonomía y algunos comentarios</title>
+      <link>/2010/10/10/ibm-compro-netezza-una-taxonomia-y-algunos-comentarios/</link>
+      <pubDate>Sun, 10 Oct 2010 23:22:35 +0000</pubDate>
+      
+      <guid>/2010/10/10/ibm-compro-netezza-una-taxonomia-y-algunos-comentarios/</guid>
+      <description>El primero tiene que ver con coches. En el ascensor, en las conversaciones que oigo en el ascensor, que es donde pulso los intereses de mis cotidianos coadláteres, soy mudo testigo de multitud de conversaciones. Las más tratan de coches. Es increíble cómo la gente está al día de marcas, modelos, motores y potencias. Aunque luego les preguntas por lo de su oficio y te das cuenta de que, sorprendentemente, no saben por dónde les pega el aire.</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué no una competición?</title>
+      <link>/2010/10/03/por-que-no-una-competicion/</link>
+      <pubDate>Sun, 03 Oct 2010 02:42:06 +0000</pubDate>
+      
+      <guid>/2010/10/03/por-que-no-una-competicion/</guid>
+      <description>Después de haber hablado de competiciones de minería de datos, participado en una con mediano éxito y entrado en contacto con sus organizadores a raíz de eso, escribo para pulsar la opinión de mis lectores acerca de si es plausible que en un futuro empresas y organizaciones varias vean como una opción viable para resolver sus problemas analíticos el plantearlos como una competición abierta a quien quiera participar en ella.</description>
+    </item>
+    
+    <item>
+      <title>Tecnologías de la información 2020</title>
+      <link>/2010/09/25/tecnologias-de-la-informacion-2020/</link>
+      <pubDate>Sat, 25 Sep 2010 14:04:15 +0000</pubDate>
+      
+      <guid>/2010/09/25/tecnologias-de-la-informacion-2020/</guid>
+      <description>Me consta que algunos de mis lectores piensan en reorientar sus carreras. Éstos se autoclasifican en dos grandes grupos:
+ Los candidatos a &amp;ldquo;dinosaurios&amp;rdquo; —según la terminología de Raúl, mi vecino de blog— que aspiran a autoperpetuarse en una sinecura y que encuentran esta entrada de mi blog grandemente inspiradora. Los que pueden encontrar este artículo de provecho. O, más bien, parte de él, la parte que, por motivar la lectura, traduzco a continuación.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre migraciones de SAS a WPS</title>
+      <link>/2010/09/07/mas-sobre-migraciones-de-sas-a-wps/</link>
+      <pubDate>Tue, 07 Sep 2010 19:38:59 +0000</pubDate>
+      
+      <guid>/2010/09/07/mas-sobre-migraciones-de-sas-a-wps/</guid>
+      <description>El otro día escribí sobre WPS, un clon de SAS con unos costes de licencia sustancialmente menores.
+KDNuggets ha publicado los resultados de unaencuesta entre usuarios actuales y potenciales de SAS en la que se les preguntaba por su disposición a migrar a dicha plataforma.
+Habedlos:
+
+¿Cuál será la anomalía de la empresa española que no tengo noticia de ningún ERE a SAS? ¡Con la que está cayendo!
+Nota: he modificado la página de Datanalytics y ahora, en la sección de servicios, dentro del apartado de consultoría SAS, detallo específicamente la migración a WPS como uno de ellos.</description>
+    </item>
+    
+    <item>
+      <title>Paquetes estadísticos: una anécdota sin moraleja</title>
+      <link>/2010/09/04/paquetes-estadisticos-una-anecdota-sin-moraleja/</link>
+      <pubDate>Sat, 04 Sep 2010 13:11:19 +0000</pubDate>
+      
+      <guid>/2010/09/04/paquetes-estadisticos-una-anecdota-sin-moraleja/</guid>
+      <description>Un banco que gana mucho dinero quiso gastarse un nada desdeñable pellizco de sus ingresos contratando a unos consultores muy resabidos de un país extranjero donde, es fama, todos saben mucho. El resultado fue una documentación ininteligible y un larguísimo programa en VB sin apenas comentarios que se demoraba horas en realizar una simulación trivial.
+El banco, cansado de quemar ciclos de CPU en vano, encargó a una consultora local la reimplementación del algoritmo en un afamado paquete estadístico.</description>
+    </item>
+    
+    <item>
+      <title>Si yo fuera...</title>
+      <link>/2010/08/29/si-yo-fuera/</link>
+      <pubDate>Sun, 29 Aug 2010 13:11:11 +0000</pubDate>
+      
+      <guid>/2010/08/29/si-yo-fuera/</guid>
+      <description>Si yo fuera responsable de una empresa de consultoría de, digamos (por mencionar un número redondo), 7.000 empleados, propondría la siguiente iniciativa:
+ Crear un blog público de asuntos relacionados con la actividad de la empresa. Invitar a los empleados a mandar posibles entradas (originales, etc.). Cada día, publicar la mejor de las entradas recibidas. Recompensar a su autor con alguna chuche: un día de vacaciones, 100 euros, etc.  ¿Ventajas?</description>
+    </item>
+    
+    <item>
+      <title>Cinco consejos que nunca leerá quien debe</title>
+      <link>/2010/08/24/cinco-consejos-que-nunca-leera-quien-debe/</link>
+      <pubDate>Tue, 24 Aug 2010 21:51:28 +0000</pubDate>
+      
+      <guid>/2010/08/24/cinco-consejos-que-nunca-leera-quien-debe/</guid>
+      <description>Desde que dejé de ser uno de ellos, a esa gente que vive en un mundo en el que las cifras tienen un cero de más sólo me la tropiezo en los ascensores. Los oigo hablar de potencias de motores, de la piscina del chalé y de lo mal que está el servicio. Si de verdad tuviesen interés en aquello por lo que les pagan, seguro, leerían esta entrada y no se perderían ni una coma de lo que sigue a continuación.</description>
+    </item>
+    
+    <item>
+      <title>Qué hacer (y no hacer) con los bichitos que uno encuentra</title>
+      <link>/2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/</link>
+      <pubDate>Mon, 19 Jul 2010 22:00:40 +0000</pubDate>
+      
+      <guid>/2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/</guid>
+      <description>No sé si es porque gano agudeza visual, porque me vuelvo cascarrabias o, simplemente, porque tengo mala suerte. Pero cada vez me tropiezo con más bichitos de esos que en inglés se llaman bugs. Y me refiero a esos que son consustanciales a todo proyecto de software.
+Antes, antaño, simplemente los toleraba y, creo, vivía más feliz. Formaban parte del paisaje, como los mosquitos nocturnos en la jungla tailandesa. De un tiempo acá, sin embargo, tengo una relación más compleja con ellos.</description>
+    </item>
+    
+    <item>
+      <title>Use SAS para predecir como un pulpo</title>
+      <link>/2010/07/13/use-sas-para-predecir-como-un-pulpo/</link>
+      <pubDate>Tue, 13 Jul 2010 21:25:16 +0000</pubDate>
+      
+      <guid>/2010/07/13/use-sas-para-predecir-como-un-pulpo/</guid>
+      <description>Para el otoño volverá a tener lugar el congreso de usuarios de SAS en España. El anuncio que me acaba de llegar —con su referencia al ubicuo pulpo Paul— no puede ser más desafortunado. Por si desaparece el enlace, reproduzco con una captura de pantalla aquí lo más sustancioso del mismo:
+
+Addenda:
+Comí el jueves con la más infiel de mis lectoras (creo que ni lectora es) y convinimos en que el mensaje de SAS resulta, cuando menos, insultante para cuantos nos dedicamos al sufrido oficio de la estadística y actividades concomitantes.</description>
+    </item>
+    
+    <item>
+      <title>¿Programa Vd. en SAS? ¡Aprenda a ser indispensable!</title>
+      <link>/2010/07/03/programa-vd-en-sas-aprenda-a-ser-indispensable/</link>
+      <pubDate>Sat, 03 Jul 2010 19:59:45 +0000</pubDate>
+      
+      <guid>/2010/07/03/programa-vd-en-sas-aprenda-a-ser-indispensable/</guid>
+      <description>Si Vd. programa en SAS (para el caso, en otro lenguaje), si su empresa programa en SAS, estará sumamente interesado en leer lo que aquí le cuento.
+En realidad, si no tiene demasiado tiempo para leer, puede ir directamente a este artículo. Pero permítale en todo caso que le traduzca del inglés un extracto de resumen:
+ Desafortunadamente, el código fácilmente mantenible necesita menos programadores y menos programadores implica inseguridad laboral.</description>
+    </item>
+    
+    <item>
+      <title>Google Prediction API</title>
+      <link>/2010/05/27/google-prediction-api/</link>
+      <pubDate>Thu, 27 May 2010 22:12:54 +0000</pubDate>
+      
+      <guid>/2010/05/27/google-prediction-api/</guid>
+      <description>Tantas cosas que escribir en este blog, tantas cosas que leer y probar, tan hermosa que está la primavera allende la ventana y&amp;hellip; me callo porque uno nunca sabe quién puede acabar leyendo lo que escribo.
+A la lista de las cosas que probar y sobre las que aprender sumo hoy una que sólo acrecienta la admiración que siento por esa empresa que tan poco se parece a otras. Se resume gráficamente en:</description>
+    </item>
+    
+    <item>
+      <title>Qué hago estos días</title>
+      <link>/2010/05/17/que-hago-estos-dias/</link>
+      <pubDate>Mon, 17 May 2010 20:17:15 +0000</pubDate>
+      
+      <guid>/2010/05/17/que-hago-estos-dias/</guid>
+      <description>Esta entrada, un tanto alejada del meollo temático de mi bitácora, tiene un tanto de biográfico, otro de folclórico (rayano de la denuncia del poliédrico sistema educativo español) y otro de descriptivo de lo tenaz que puede llegar a resultar el sufrido oficio de consultor.
+Versa de en qué se cifró una mañana de mis sudores. Que lo fue en realizar la exégesis del siguiente parrafito (que transcribo literalmente para probable espanto de mis ortográficos, sintácticos y retóricos lectores):</description>
+    </item>
+    
+  </channel>
+</rss>

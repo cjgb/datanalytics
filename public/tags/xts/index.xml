@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xts on datanalytics</title>
+    <link>/tags/xts/</link>
+    <description>Recent content in xts on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Apr 2017 08:13:24 +0000</lastBuildDate><atom:link href="/tags/xts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avisos recibidos, avisos resueltos y la creciente suma acumulada</title>
+      <link>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</link>
+      <pubDate>Mon, 24 Apr 2017 08:13:24 +0000</pubDate>
+      
+      <guid>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</guid>
+      <description>El ayuntamiento de Madrid publica información (desde 2015) de los avisos recibidos por los ciudadanos a través de los distintos canales puestos a su disposición (010, LineaMadrid, la app, etc.).
+He bajado los datos y he pintado
+que es la suma acumulada de la diferencia entre los avisos entrantes y los resueltos día a día usando
+library(data.table) library(xts) recibidos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;recibi&amp;quot;), fread)) resueltos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;resu&amp;quot;), fread)) recibidos.</description>
+    </item>
+    
+  </channel>
+</rss>

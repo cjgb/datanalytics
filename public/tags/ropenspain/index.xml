@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ropenspain on datanalytics</title>
+    <link>/tags/ropenspain/</link>
+    <description>Recent content in ropenspain on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 May 2018 08:13:42 +0000</lastBuildDate><atom:link href="/tags/ropenspain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casos de uso de MicroDatosEs</title>
+      <link>/2018/05/16/casos-de-uso-de-microdatoses/</link>
+      <pubDate>Wed, 16 May 2018 08:13:42 +0000</pubDate>
+      
+      <guid>/2018/05/16/casos-de-uso-de-microdatoses/</guid>
+      <description>[MicroDatosEs](https://github.com/rOpenSpain/MicroDatosEs) ha sufrido algunas modificaciones recientes. En particular, un nuevo colaborador, Jorge López Pérez ha reescrito la documentación usando [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html).
+Pero falta una cosa importante (sobre todo, para el usuario esporádico): casos de uso.
+En la página del paquete (el README.md de Github) he añadido una sección de ejemplos de uso de funciones del paquete, que actualmente solo tiene un enlace. Pero si alguien ha hecho o conoce algún otro ejemplo, y me lo puede comunicar, lo añadiré muy gustosamente (y quedaré muy agradecido).</description>
+    </item>
+    
+    <item>
+      <title>¿Un voluntario para aggiornar MicroDatosEs?</title>
+      <link>/2018/03/26/un-voluntario-para-aggiornar-microdatoses/</link>
+      <pubDate>Mon, 26 Mar 2018 08:13:29 +0000</pubDate>
+      
+      <guid>/2018/03/26/un-voluntario-para-aggiornar-microdatoses/</guid>
+      <description>Mi paquete MicroDatosEs ya forma parte de rOpenSpain. Sin embargo, está falto de ciertas mejoras a las que aspiran los paquetes que forman parte de dicho repositorio.
+Una de ellas es la de migrar la documentación del paquete a roxigen2. Lo podría hacer yo, pero es muy aburrido. Sin embargo, entiendo que puede ser entretenido (además de sencillo) para alguien que:
+ * No sepa de qué va eso de `roxigen2` pero me tome la palabra en eso de que es importante.</description>
+    </item>
+    
+    <item>
+      <title>¿Podéis probarme/le CatastRo? Porfa...</title>
+      <link>/2018/02/19/podeis-probarme-le-catastro-porfa/</link>
+      <pubDate>Mon, 19 Feb 2018 08:13:59 +0000</pubDate>
+      
+      <guid>/2018/02/19/podeis-probarme-le-catastro-porfa/</guid>
+      <description>CatastRo es un paquete de R para explotar la API del Catastro que fue realizado por un alumno mío de la UTAD, Ángel Delgado, como proyecto de fin de máster.
+Ahora, una vez integrado en rOpenSpain, toca transformarlo de un proyecto académico en un paquete útil y práctico. Vamos, exponerlo al proceloso piélago del uso para que le crujan las costuras y ver cuáles son las mejoras más pertinentes.
+Así que estáis todos invitados a probar el código, verificar que la documentación documenta, que los ejemplos ejemplifican, etc.</description>
+    </item>
+    
+    <item>
+      <title>ILOVEFS &#43; rOpenSpain: 13 y 14 de febrero en Medialab Prado</title>
+      <link>/2018/02/12/ilovefs-ropenspain-13-y-14-de-febrero-en-medialab-prado/</link>
+      <pubDate>Mon, 12 Feb 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/02/12/ilovefs-ropenspain-13-y-14-de-febrero-en-medialab-prado/</guid>
+      <description>Los días 13 y 14 de febrero y con motivo del ILOVEFS, se han convocado en Medialab Prado unas sesiones para seguir dando a conocer las bondades del software libre. El programa y el resto de los detalles pueden consultarse aquí.
+Yo estaré en una de las mesas/estaciones hablando de R en general y de rOpenSpain muy en particular. Así que los interesados en lo primero en general y lo segundo en particular, seréis muy bienvenidos.</description>
+    </item>
+    
+    <item>
+      <title>rOpenSpain está en marcha</title>
+      <link>/2018/02/02/ropenspain-esta-en-marcha/</link>
+      <pubDate>Fri, 02 Feb 2018 08:13:44 +0000</pubDate>
+      
+      <guid>/2018/02/02/ropenspain-esta-en-marcha/</guid>
+      <description>rOpenSpain es como rOpenSci, pero para datos públicos españoles.
+El 2018-01-31 tuvimos la reunión fundacional y estamos arrancando.
+Daremos mucha guerra en lo sucesivo. Porque necesitaremos tu ayuda. Así que estáte atento, síguenos en Twitter, etc.</description>
+    </item>
+    
+    <item>
+      <title>rOpenSpain: ahí tiro el guante</title>
+      <link>/2017/10/11/ropenspain-ahi-tiro-el-guante/</link>
+      <pubDate>Wed, 11 Oct 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/10/11/ropenspain-ahi-tiro-el-guante/</guid>
+      <description>La gente de rOpenSci hace cosas a las que merece la pena atento. Tanto por los objetivos como por medios y las formas. Recomiendo seguir sus últimas publicaciones acerca de la profesionalización del proceso de desarrollo de código.
+Llevo unos meses jugando con una idea inspirada por rOpenSci: crear un respositorio y un consorcio más o menos formal que desarrolle, mantenga y mejore herramientas (en R) de interés para el procesamiento y análisis de datos ya no científicos sino españoles.</description>
+    </item>
+    
+  </channel>
+</rss>

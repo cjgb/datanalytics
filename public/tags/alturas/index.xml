@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alturas on datanalytics</title>
+    <link>/tags/alturas/</link>
+    <description>Recent content in alturas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Jul 2015 08:13:44 +0000</lastBuildDate><atom:link href="/tags/alturas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Son normales las alturas (de los individuos)?</title>
+      <link>/2015/07/09/son-normales-las-alturas-de-los-individuos/</link>
+      <pubDate>Thu, 09 Jul 2015 08:13:44 +0000</pubDate>
+      
+      <guid>/2015/07/09/son-normales-las-alturas-de-los-individuos/</guid>
+      <description>Diríase que sí. La altura de un individuo está sujeta a multitud de factores que suman y restan. Está la genética (que es el resultado de la suma y resta del impacto de muchos genes individuales). Está la dieta, está&amp;hellip; Diríase, insisto, que la altura es el promedio de muchos efectos pequeños y no demasiado dependientes entre ellos.
+Y en efecto, (una vez descargados los microdatos de la Encuesta Nacional de Salud de 2011),</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ipt on datanalytics</title>
+    <link>/tags/ipt/</link>
+    <description>Recent content in ipt on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 23 Nov 2016 08:13:38 +0000</lastBuildDate><atom:link href="/tags/ipt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El IPT y la paradoja de Simpson</title>
+      <link>/2016/11/23/el-ipt-y-la-paradoja-de-simpson/</link>
+      <pubDate>Wed, 23 Nov 2016 08:13:38 +0000</pubDate>
+      
+      <guid>/2016/11/23/el-ipt-y-la-paradoja-de-simpson/</guid>
+      <description>El INE ha comenzado a publicar una nueva estadística, el IPT o índice de precios del trabajo. Su primera entrega ha sido glosada por la prensa en artículos como este o este.
+Es imperativo leer la nota metodológica asociada (resumida aquí y detallada en un enlace que contiene) para darse cuenta de los problemas de interpretación que acompañan al índice.
+Se parece al IPC en el sentido que promedia el peso de cada salario (precio en el IPC) por el porcentaje de gente que lo gana (o que se compra en la canasta bienes y servicios del IPC).</description>
+    </item>
+    
+  </channel>
+</rss>

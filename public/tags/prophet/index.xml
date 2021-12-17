@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prophet on datanalytics</title>
+    <link>/tags/prophet/</link>
+    <description>Recent content in prophet on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 05 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/prophet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una potencial consecuencia positiva de lo del coronavirus</title>
+      <link>/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/</link>
+      <pubDate>Mon, 05 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/</guid>
+      <description>Veo
+https://twitter.com/jseabold/status/1312415608764600325
+y consulto en uno (de los más usados y famosos) de esos manuales españoles (ergo, hiperclásicos) de introducción a la modelización de series temporales y no veo capítulo con el que pueda tratarse razonablemente.
+¡Tiempo de actualizarse (p.e., así)!</description>
+    </item>
+    
+    <item>
+      <title>Wikipedia &#43; prophet</title>
+      <link>/2017/03/03/wikipedia-prophet/</link>
+      <pubDate>Fri, 03 Mar 2017 08:13:17 +0000</pubDate>
+      
+      <guid>/2017/03/03/wikipedia-prophet/</guid>
+      <description>El otro día escribí sobre visitas a la Wikipedia. El otro día (posiblemente otro) oí hablar de prophet.
+Hoy con
+library(wikipediatrend) library(prophet) library(ggplot2) visitas &amp;lt;- wp_trend(&amp;quot;R_(lenguaje_de_programaci%C3%B3n)&amp;quot;, from = &amp;quot;2010-01-01&amp;quot;, to = Sys.Date(), lang = &amp;quot;es&amp;quot;) mis.visitas &amp;lt;- visitas[, c(&amp;quot;date&amp;quot;, &amp;quot;count&amp;quot;)] colnames(mis.visitas) &amp;lt;- c(&amp;quot;ds&amp;quot;, &amp;quot;y&amp;quot;) pasado &amp;lt;- mis.visitas[1:1500,] m &amp;lt;- prophet(pasado) futuro &amp;lt;- make_future_dataframe(m, periods = nrow(mis.visitas) - 1500) prediccion &amp;lt;- predict(m, futuro) pred.plot &amp;lt;- plot(m, prediccion) pred.plot + geom_line(data = mis.</description>
+    </item>
+    
+  </channel>
+</rss>

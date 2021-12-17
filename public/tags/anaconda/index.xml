@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anaconda on datanalytics</title>
+    <link>/tags/anaconda/</link>
+    <description>Recent content in anaconda on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Jun 2019 09:13:52 +0000</lastBuildDate><atom:link href="/tags/anaconda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi infraestructura para Python</title>
+      <link>/2019/06/06/mi-infraestructura-para-python/</link>
+      <pubDate>Thu, 06 Jun 2019 09:13:52 +0000</pubDate>
+      
+      <guid>/2019/06/06/mi-infraestructura-para-python/</guid>
+      <description>Resumen:
+ He decidido usar RStudio como IDE para Python. RStudio no es el mejor IDE para desarrollar, pero es incomparablemente mejor que cualquier otro IDE para explorar, etc. Funciona muy bien y solo puede mejorar. * He decidido pasar de Jupyter. Los notebooks valen para lo que valen, pero no para lo que hago. En caso de necesidad, uso Rmarkdown con bloques de Python. De nuevo, funcionan muy bien y solo pueden mejorar.</description>
+    </item>
+    
+    <item>
+      <title>rPython &amp; Anaconda</title>
+      <link>/2015/06/22/rpython-anaconda/</link>
+      <pubDate>Mon, 22 Jun 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/06/22/rpython-anaconda/</guid>
+      <description>Nota: publico hoy en inglés en atención al público potencial de la entrada.
+rPython lets R users call Python code. Anaconda  is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. Not surprisingly, some users want to call Anaconda Python rather than their system&amp;rsquo;s default Python.
+However, Anaconda is a very particular package: unlike most other packages, whose files are scattered in a diversity of locations, it is self contained in a single directory.</description>
+    </item>
+    
+  </channel>
+</rss>

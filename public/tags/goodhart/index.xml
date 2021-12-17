@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>goodhart on datanalytics</title>
+    <link>/tags/goodhart/</link>
+    <description>Recent content in goodhart on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 13 Nov 2018 08:13:46 +0000</lastBuildDate><atom:link href="/tags/goodhart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodhart, Lucas y márketing</title>
+      <link>/2018/11/13/goodhart-lucas-y-marketing/</link>
+      <pubDate>Tue, 13 Nov 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/11/13/goodhart-lucas-y-marketing/</guid>
+      <description>Abundo sobre lo de ayer.
+Una empresa clasifica a sus clientes y los asigna a grupos: malotes, estrella, psepsé, etc. Examina las características de los clientes estrella y entonces reorienta su política comercial en la siguiente dirección:
+En gran medida, según lo discutido ayer, el principal logro de ese tipo de políticas es la de debilitar el vínculo entre esas características identificadas por los modelos y la rentabilidad de los clientes.</description>
+    </item>
+    
+    <item>
+      <title>Goodhart, Lucas y todas esas cosas</title>
+      <link>/2018/11/12/goodhart-lucas-y-todas-esas-cosas/</link>
+      <pubDate>Mon, 12 Nov 2018 08:13:30 +0000</pubDate>
+      
+      <guid>/2018/11/12/goodhart-lucas-y-todas-esas-cosas/</guid>
+      <description>Como me da vergüenza que una búsqueda de Goodhart en mi blog no dé resultados, allá voy. Lo de Goodhart, independientemente de lo que os hayan contado, tiene que ver con
+es decir, un gráfico causal hiperbásico. Si la variable de interés y es difícil de medir, resulta tentador prestar atención a la variable observable x y usarla como proxy. Todo bien.
+Pero también puede interesar operar sobre y y a cierta gente le puede sobrevenir la ocurrencia de operar sobre x con la esperanza de que eso influya sobre y.</description>
+    </item>
+    
+  </channel>
+</rss>

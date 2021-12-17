@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big data on datanalytics</title>
+    <link>/tags/big-data/</link>
+    <description>Recent content in big data on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Dec 2019 09:13:00 +0000</lastBuildDate><atom:link href="/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electricidad, clima, incentivos y... ¿fetichismo de la ciencia de datos?</title>
+      <link>/2019/12/10/electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos/</link>
+      <pubDate>Tue, 10 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/10/electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos/</guid>
+      <description>En una época hube de aprender los entresijos del mercado eléctrico español. Tan lejana que el garbage collector ha hecho almoneda de todos los conocimientos monetizables que pude haber adquirido. Solo he sabido conservar cierta curiosidad por esa API que el sistema tiene para conmigo que son las tarifas y las facturas.
+Por eso no mandé directamente a la papelera ese correo de Endesa en el que me informaba de la conveniencia —¿para quién?</description>
+    </item>
+    
+    <item>
+      <title>Varian sobre el muestreo</title>
+      <link>/2019/10/04/varian-sobre-el-muestreo/</link>
+      <pubDate>Fri, 04 Oct 2019 09:13:08 +0000</pubDate>
+      
+      <guid>/2019/10/04/varian-sobre-el-muestreo/</guid>
+      <description>Guardaba una nota sobre cierto artículo de Varian en el que se refería a la utilidad del muestreo en el mundo del big data. Creo que es Big Data: New Tricks for Econometrics, donde se lee:
+Gran parte del resto del artículo sigue estando vigente (aunque del 2014 hasta la actualidad haya llovido la tira).
+Nota: En la cita anterior, el adjetivo de data, business, no es ocioso. Business data significa, esencialemente, datos agregados.</description>
+    </item>
+    
+    <item>
+      <title>¿Irán por aquí los tiros en el futuro de la &#34;ciencia de datos&#34;?</title>
+      <link>/2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/</link>
+      <pubDate>Mon, 01 Apr 2019 09:13:27 +0000</pubDate>
+      
+      <guid>/2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/</guid>
+      <description>Para muchos, el futuro de la llamada ciencia de datos seguirá la estela dejada por
+y sus continuadores usando cosas deep. Pero a la vez, sin tanto estruendo y con una mucho menor cobertura mediática, otros están trazando una ruta alternativa que ilustran artículos como Bayes and Big Data: The Consensus Monte Carlo Algorithm (atención todos a lo que hace uno de sus coautores, Steven L. Scott, que convierte en oro todo lo que toca).</description>
+    </item>
+    
+    <item>
+      <title>Datos anchos y largos (y otras cosas relacionadas con Stan)</title>
+      <link>/2018/10/30/datos-anchos-y-largos-y-otras-cosas-relacionadas-con-stan/</link>
+      <pubDate>Tue, 30 Oct 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/10/30/datos-anchos-y-largos-y-otras-cosas-relacionadas-con-stan/</guid>
+      <description>Hay una discusión imperdible sobre datos anchos y largos (y modelos con y sin estructura) a partir del minuto 4:20 de
+https://www.youtube.com/watch?v=VnNdhsm0rJQ
+El resto también vale muchísimo la pena.</description>
+    </item>
+    
+    <item>
+      <title>La reedición del sueño de Laplace</title>
+      <link>/2018/07/24/la-reedicion-del-sueno-de-laplace/</link>
+      <pubDate>Tue, 24 Jul 2018 08:13:33 +0000</pubDate>
+      
+      <guid>/2018/07/24/la-reedicion-del-sueno-de-laplace/</guid>
+      <description>Dejó escrito Laplace:
+Apostilla la Wikipedia:
+Pero, ¿no vivimos rodeados de ensayos de reedición del sueño de Laplace? Leed, leed lo que nos cuentan del big data y la inteligencia artificial.
+Nota: Una discusión sobre el anterior asunto está contenida en el primer capítulo de unas notas sobre estadística superpunk que estoy preparando no sé muy bien para qué. Muchos autores discuten la naturaleza de la aleatoriedad (sí, la consabida distinción entre su carácter objetivo o subjetivo).</description>
+    </item>
+    
+    <item>
+      <title>Hoy estoy participando en un evento sobre &#34;big data&#34;</title>
+      <link>/2018/06/20/hoy-estoy-participando-en-un-evento-sobre-big-data/</link>
+      <pubDate>Wed, 20 Jun 2018 12:40:57 +0000</pubDate>
+      
+      <guid>/2018/06/20/hoy-estoy-participando-en-un-evento-sobre-big-data/</guid>
+      <description>Hoy estoy participando en la mesa redonda que cierra este evento. Espero dejar claro, cuando menos:
+ * Qué quiere decir un cliente cuando dice que necesita _big data_: excel no da más de sí, tenemos a la gente copiando y el valor de una celda de aquí y pegándolo en un correo allá, etc. * Qué quiere (o debería querer) decir un consultor cuando vende _big data_: te voy a ayudar a automatizar ciertas tareas que tienen que ver con datos.</description>
+    </item>
+    
+    <item>
+      <title>Sobre lo de Cambridge Analytica</title>
+      <link>/2018/04/02/sobre-lo-de-cambridge-analytica/</link>
+      <pubDate>Mon, 02 Apr 2018 08:13:24 +0000</pubDate>
+      
+      <guid>/2018/04/02/sobre-lo-de-cambridge-analytica/</guid>
+      <description>Ni de lejos mi tema favorito. De todo este tinglado de la práctica comercial de la ciencia de datos, lo que tiene como sujetos a sujetos de carne y hueso es lo que menos me atrae. No quiero saber nada sobre escarbar en Twitter, Facebook o Linkedin. Me aburre soberanamente todo lo relativo a las leyes de protección de datos y trato en la medida de lo posible mantenerme al margen de discusiones sobre privacidad, big data y similares, que son puros contrastes de ocurrencias.</description>
+    </item>
+    
+    <item>
+      <title>Sobre ciencia de datos en UNIR: teoría y gente</title>
+      <link>/2016/09/30/sobre-ciencia-de-datos-en-unir-teoria-y-gente/</link>
+      <pubDate>Fri, 30 Sep 2016 08:13:13 +0000</pubDate>
+      
+      <guid>/2016/09/30/sobre-ciencia-de-datos-en-unir-teoria-y-gente/</guid>
+      <description>Hoy (jueves) he participado en un desayuno de trabajo organizado en la UNIR como pistoletazo de salida a un curso de inteligencia artificial en el que tendré una pequeña participación.
+Nos ha tocado presentarnos a todos (había gente de Telefónica, Santander, Mapfre, Siemens, etc.) y según avanzaba la ronda han ido superándose peligrosamente las dosis máximas diarias establecidas por la OMS para la el impacto auditivo de palabras tales como disruptivo, futuro, innovación, coche autónomo, fabuloso y nosotros.</description>
+    </item>
+    
+    <item>
+      <title>Big vs small data en estadística aplicada aplicada</title>
+      <link>/2016/09/12/big-vs-small-data-en-estadistica-aplicada-aplicada/</link>
+      <pubDate>Mon, 12 Sep 2016 08:13:19 +0000</pubDate>
+      
+      <guid>/2016/09/12/big-vs-small-data-en-estadistica-aplicada-aplicada/</guid>
+      <description>Tengo un proyecto entre manos. Trata de medir un efecto pequeño bajo una condición experimental (una palanca que se puede subir y bajar) con un enorme ruido de fondo (debido a factores para los que no existe la susodicha palanca). Existen dos aproximaciones que, en su versión resumida, son:
+ * Datos pequeños: recoger un conjunto pequeño de mediciones en un contexto en el que los factores no controlables sean constantes (aunque en la práctica no lo vayan a ser).</description>
+    </item>
+    
+    <item>
+      <title>Requisitos para mi taller en el &#34;I International Workshop on Advances in Functional Data Analysis&#34;</title>
+      <link>/2015/11/09/requisitos-para-mi-taller-en-el-i-international-workshop-on-advances-in-functional-data-analysis/</link>
+      <pubDate>Mon, 09 Nov 2015 08:13:49 +0000</pubDate>
+      
+      <guid>/2015/11/09/requisitos-para-mi-taller-en-el-i-international-workshop-on-advances-in-functional-data-analysis/</guid>
+      <description>El jueves día 12 tengo un taller de cuatro horas en el I International Workshop on Advances in Functional Data Analysis. Siendo internacional (y el material está en inglés), me vais a permitir escribir el resto de la entrada urbi et orbi.
+I will be presenting a hands-on workshop. Those attending it are invited to install a few tools in order to make the most of it during and after the sessions.</description>
+    </item>
+    
+    <item>
+      <title>Encuentro Big Data 2015 (.co)</title>
+      <link>/2015/10/16/encuentro-big-data-2015-co/</link>
+      <pubDate>Fri, 16 Oct 2015 08:13:29 +0000</pubDate>
+      
+      <guid>/2015/10/16/encuentro-big-data-2015-co/</guid>
+      <description>A fines de octubre participaré en el Encuentro Big Data 2015 en Bogotá. Formaré parte de una mesa redonda sobre formación (y políticas de formación) en este campo.
+Tengo una postura poco convencional sobre esos temas y, me atrevería a decir, polémica en cuanto a la relación entre las administraciones públicas y las burocracias enseñativas y el hecho de que la gente explore, conozca y aprenda cosas como Spark. Aunque, supongo, quienes me han hecho el honor de invitarme no lo saben (aún).</description>
+    </item>
+    
+    <item>
+      <title>#INKS2015</title>
+      <link>/2015/10/01/inks2015/</link>
+      <pubDate>Thu, 01 Oct 2015 08:13:20 +0000</pubDate>
+      
+      <guid>/2015/10/01/inks2015/</guid>
+      <description>Ha salido publicada la guía INKS2015. Está dirigida a profesionales digitales y trata temas como el márketing digital, el SEO, las redes sociales o la usabilidad. Temas todos ellos que, aunque interesantes, no suelo tratar aquí.
+Solo que la guía incluye esta vez una sección dedicada al big data y recoge un par de páginas mías (así como de un par de colegas: Ismael Herráiz y Rubén Casado) a las que igual queréis echar un vistazo.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Quién es Quién del Big Data en España 2015&#34; y yo</title>
+      <link>/2015/08/05/quien-es-quien-del-big-data-en-espana-2015-y-yo/</link>
+      <pubDate>Wed, 05 Aug 2015 08:13:57 +0000</pubDate>
+      
+      <guid>/2015/08/05/quien-es-quien-del-big-data-en-espana-2015-y-yo/</guid>
+      <description>Me confiman que figuro en el Quién es Quién del Big Data en España 2015.
+Aprovecho para agradecer encarecida y públicamente la gentileza de los autores del estudio.</description>
+    </item>
+    
+    <item>
+      <title>Mis respuestas en una entrevista sobre &#34;big data&#34;, periodismo de datos, etc.</title>
+      <link>/2015/07/24/mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc/</link>
+      <pubDate>Fri, 24 Jul 2015 08:13:15 +0000</pubDate>
+      
+      <guid>/2015/07/24/mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc/</guid>
+      <description>Aunque no hay una definición exacta sobre la minería de datos… ¿cómo definiría usted Big Data?¿Qué herramientas utiliza usted para la búsqueda de datos? (públicas o privadas)
+Dicen los marxistas &amp;ndash;aunque el concepto es anterior&amp;ndash; que un cambio cuantitativo, a partir de cierto umbral, desencadena un cambio cualitativo. Las empresas, las instituciones públicas, etc. siempre han almacenado y estudiado estadísticamente datos a nivel de subsidiaria, departamento, provincia, oficina, región, producto, etc.</description>
+    </item>
+    
+    <item>
+      <title>Estrategias escalables con R</title>
+      <link>/2015/07/22/estrategias-escalables-con-r-2/</link>
+      <pubDate>Wed, 22 Jul 2015 08:13:34 +0000</pubDate>
+      
+      <guid>/2015/07/22/estrategias-escalables-con-r-2/</guid>
+      <description>Recomiendo leer Scalable Strategies for Computing with Massive Data, un artículo que trata dos de los problemas de escalabilidad con que tropezamos los usuarios de R:
+ * Los de memoria, para los que proponen e ilustran el uso del paquete [`bigmemory`](https://cran.r-project.org/web/packages/bigmemory/index.html). * Los de velocidad de ejecución, a los que se enfrentan paralelizando el código, tanto en una única máquina como en un clúster, con [`foreach`](https://cran.r-project.org/web/packages/foreach/index.html).  En el artículo no solo discute los dos paquetes por separado sino que ilustra, además, cómo usarlos conjuntamente en su propuesta de estrategia escalable con R.</description>
+    </item>
+    
+    <item>
+      <title>Y todo ocurre en un abrir y cerrar de ojos</title>
+      <link>/2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/</link>
+      <pubDate>Fri, 27 Mar 2015 08:13:33 +0000</pubDate>
+      
+      <guid>/2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/</guid>
+      <description>Abres una aplicación en tu móvil que diseñó un programador búlgaro. Ipso facto aparece un insidioso banner de, p.e., Jazztel. ¿Cuáles son los mecanismos que ponen en contacto al búlgaro con Jazztel? ¿De qué manera recibe aquél una compensación de esta?
+Tradicionalmente, el desarrollador habría hablado con, p.e., Google. Le habría dicho: yo voy a generar &amp;ldquo;espacios&amp;rdquo; donde tú vas a poder colgar propaganda a cambio de una cantidad (fija o variable).</description>
+    </item>
+    
+    <item>
+      <title>Adaequatio rei et analysis</title>
+      <link>/2015/03/04/adaequatio-rei-et-analysis/</link>
+      <pubDate>Wed, 04 Mar 2015 08:13:10 +0000</pubDate>
+      
+      <guid>/2015/03/04/adaequatio-rei-et-analysis/</guid>
+      <description>Tal será el título de la charla de una hora que daré en el Big Data Science Fighters en abril.
+
+El título es una adaptación de este latinajo y lo usufructo más en la forma que en la sustancia, que la del original se me escapa. El mío servirá para condensar el cúmulo de problemas que he venido detectando en este mundo del análisis de datos: la falta de adecuación de las herramientas de almacenamiento, procesamiento y análisis de datos a la cosa.</description>
+    </item>
+    
+    <item>
+      <title>Hackatón de datos abiertos, 21 de febrero en Madrid</title>
+      <link>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</link>
+      <pubDate>Thu, 29 Jan 2015 07:13:15 +0000</pubDate>
+      
+      <guid>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</guid>
+      <description>El día 21 de febrero (de 2015) tendrá lugar en Medialab-Prado (¿cómo llegar?) un hackatón de datos abiertos patrocinado por Medialab-Prado y Open Knowledge Spain. El resto de la información puede consultarse aquí.
+Dicho lo cual, ¿deberías ir?
+Pues si tienes 45 años, eres profesor de la Autónoma, etc. lo sabes tú mejor que yo.
+Pero si tienes veintitantos, estudias, has comenzado a trabajar recientemente o estás en el paro, si tienes inquietudes (y las tienes si lees esto), si quieres conocer técnicas nuevas, problemas nuevos, contactar con gente interesante, etc.</description>
+    </item>
+    
+    <item>
+      <title>Si participase en MadData...</title>
+      <link>/2014/07/23/si-participase-en-maddata/</link>
+      <pubDate>Wed, 23 Jul 2014 07:13:36 +0000</pubDate>
+      
+      <guid>/2014/07/23/si-participase-en-maddata/</guid>
+      <description>El otro día ayudé a divulgar por aquí MadData, el datatón de datos abiertos del ayuntamiento de Madrid. Algunos me habéis preguntado si participaré. Pero estoy lejos (y, muy, muy ocupado).
+Eso sí, os voy a contar dónde me gustaría meter la cuchara. En datos del ayuntamiento de Madrid, claro. Pero no los abiertos, ni los públicos, ni los conocidos. Sino los otros.
+Os pongo en precedentes. Sabréis —si habéis seguido estas páginas— que soy el copropietario de MartinaCocina, un local que no sé si clasificar como cafetería o restaurante, en el centro de Madrid.</description>
+    </item>
+    
+    <item>
+      <title>MadData: datatón de datos abiertos</title>
+      <link>/2014/07/21/maddata-dataton-de-datos-abiertos/</link>
+      <pubDate>Mon, 21 Jul 2014 07:13:19 +0000</pubDate>
+      
+      <guid>/2014/07/21/maddata-dataton-de-datos-abiertos/</guid>
+      <description>Copio (adaptándolo) de aquí:
+_everis y MadridEmprende organizan el primer Open Datathon de Madrid.
+La competición consiste en crear soluciones innovadoras a partir del uso de datos abiertos. MADdata pondrá a disposición de cada participante datos de la ciudad de Madrid, procedentes del portal de datos abiertos del Ayuntamiento, de servicios públicos, de transporte y movilidad y de redes sociales._
+
+La inscripción está abierta hasta el 25 de julio de 2014.</description>
+    </item>
+    
+    <item>
+      <title>En serio con Spark: instalación</title>
+      <link>/2014/07/18/en-serio-con-spark-instalacion/</link>
+      <pubDate>Fri, 18 Jul 2014 07:13:59 +0000</pubDate>
+      
+      <guid>/2014/07/18/en-serio-con-spark-instalacion/</guid>
+      <description>Me he puesto en modo estoy serio con Spark. Lo instalé en mi ya manida máquina virtual (voy a subir una nueva versión de ella pronto), pero hoy la voy a instalar en mi portátil. Y con la idea de, en los próximos días, montar un clúster en condiciones.
+Los pasos son los siguientes:
+ 1. Ir a la [página de descargas](http://spark.apache.org/downloads.html) y seleccionar una versión ya precompilada. Hay varias porque Spark se enlaza con librerías relacionadas con Hadoop (aunque uno puede utilizar Spark perfectamente sin él) y hay varias versiones mutuamente incompatibles de Hadoop.</description>
+    </item>
+    
+  </channel>
+</rss>

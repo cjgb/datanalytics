@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>r - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="r" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/categories/r/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/categories/r/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">r</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/03/12/datos-en-formato-largo-y-melt/" rel="bookmark">
+			Datos en formato largo y melt
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-03-12T08:13:21Z">2015-3-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En ocasiones uno recibe datos no muy distintos de
+aragon &lt;- read.table(&quot;http://datanalytics.com/uploads/pob_aragon&quot;, header = T, sep = &quot;\t&quot;) aragon # Provincias Periodo Hombres Mujeres # 1 Huesca 2014 113840 111069 # 2 Huesca 2004 107961 104940 # 3 Teruel 2014 71449 68916 # 4 Teruel 2004 71073 68260 # 5 Zaragoza 2014 471675 488436 # 6 Zaragoza 2004 441840 455510  Los mismos datos en formato largo son:
+library(reshape2) aragon.largo &lt;- melt(aragon, id.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/03/11/format-www-r-project-org-year-2015/" rel="bookmark">
+			format( &#34;www.R-project.org&#34;, year = 2015)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-03-11T08:13:51Z">2015-3-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Tal fue el asunto del correo en el que Martin Maechler anunció el lavado de cara de la página de R acontecido hace unos pocos días. Es muy revelador el argumento year = 2015: los usuarios de hoy en día ya no toleramos caóticas yuxtaposiciones de cualquier cosa que algunos llaman páginas de internet.
+Los usuarios de hoy en día no tenemos tiempo de buscar y rebuscar. Nos molestan los tropezones.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/03/06/cual-es-la-mejor-manera-de-ordenar-un-dataframe/" rel="bookmark">
+			¿Cuál es la &#34;mejor&#34; manera de ordenar un dataframe?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-03-06T08:13:04Z">2015-3-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El título de esta entrada es una pregunta honesta. Yo siempre he utilizado order así:
+iris[order(iris$Petal.Length),]  Y para ordenar por dos (o más columnas), así:
+iris[order(iris$Petal.Length, iris$Petal.Width),]  Es a lo que estoy acostumbrado. Sin embargo, la construcción anterior desconcierta a quienes dan sus primeros pasos en R. dplyr dispone de la función arrange con una sintaxis un tanto más natural:
+library(dplyr) arrange(iris, Petal.Length, Petal.Width)  pero, de nuevo, puede resultar desconcertante tener que recurrir a paquetes avanzados: ¿es conveniente introducir a los principiantes en el proceloso mundo de los paquetes para la simple y muy natural operación de ordenar un dataframe?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/02/25/todos-contra-todos/" rel="bookmark">
+			Todos contra todos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-02-25T08:13:35Z">2015-2-25</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		¿Cómo se suman los cuadrados de un vector de números en un paradigma tradicional de programación? Se crea un bucle que lo recorre y que guarda las sumas parciales en un acumulador. Sumamente económico en términos de memoria: apenas consume unos pocos bytes en la pila. La versión funcional de la cosa se parece más a sum(x^2), que implica generar un vector de cuadrados y dilapidar memoria.
+Así las cosas, en C uno tiende a recorrer y construir resultados parciales.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/02/16/curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas/" rel="bookmark">
+			Curso de presencial y gratuito en Madrid (mío, para más señas)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-02-16T08:13:36Z">2015-2-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/cursos/" rel="category">cursos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Voy a impartir un curso básico de R en Madrid. El curso es
+ * presencial (no habrá vídeo, retransmisión en _streaming_ ni similares), * gratuito (aunque mira las letra pequeña del final) * no reglado, por lo que no se experidirán certificados, ANECAs o papeles de ningún tipo.  Se trata de un curso de introducción a R desde cero en cuatro sesiones de tres horas los martes (24 de febrero y 3, 10 y 17 de marzo) de 18:00 a 21:00.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/02/11/recurrencia-recurrente/" rel="bookmark">
+			Recurrencia recurrente
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-02-11T08:13:50Z">2015-2-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imaginativa de esto, es decir, el código. Él, y muchos diríamos que correctamente, autocritica el uso de eval + parse para plagar el namespace de funciones.
+La respuesta está en la recurrencia. He aquí mi versión del código:
+library(ggplot2) library(gridExtra) nrows &lt;- 6 coefs.a &lt;- runif(min=1, max=50, nrows) coefs.b &lt;- runif(min=1, max=50, nrows) foo.a &lt;- sample(c(sin, cos), nrows, replace = TRUE) foo.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/02/09/ejercicios-de-mi-clase-de-r/" rel="bookmark">
+			Ejercicios de mi clase de R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-02-09T07:13:30Z">2015-2-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Ya conté que participo (como profesor) en el Experto en Data Science de la U-tad. Voy a copiar aquí los ejercicios que propuse en la asignatura de preparación de datos con R. Por si alguien les quiere hincar el diente. En lo que sigue he eliminado algunos detalles que no vienen a cuento. He dejado el resto.
+Son así:
+Los ejercicios tienen que resolverse individualmente. No son sencillos: parte de ellos están inspirados en problemas prácticos reales.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/02/06/romain-francois-y-francisco-viciana-en-el-grupo-de-usuarios-de-r-de-sevilla/" rel="bookmark">
+			Romain François (y Francisco Viciana) en el grupo de usuarios de R de Sevilla
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-02-06T07:13:17Z">2015-2-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me entero en la página del grupo de usuarios de R de Sevilla de dos cosas:
+ * de que Romain François hablará sobre `dplyr` y de lo que esconde bajo el capó y * que Francisco Viciana demostrará el uso del [paquete `pxR`](http://cran.r-project.org/web/packages/pxR/index.html)  en la próxima reunión del grupo. ¡Quién pudiera asistir!
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/02/05/parametrizacion-para-vagos-muy-muy-vagos/" rel="bookmark">
+			Parametrización para vagos muy, muy vagos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-02-05T07:13:14Z">2015-2-5</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Un ejemplo sencillo. Tengo un programa que contiene, por ejemplo, una consulta tal que
+query &lt;- &quot;select * from mitabla where country = 24 and year = 2014&quot;  Hay gente sumamente diligente, con una enorme capacidad de trabajo y con vocación de hormiguita que en mil ejecuciones distintas (distinto país, distinto año) del código anterior sería capaz de editar la consulta a mano. Probablemente usando el block de notas. Esa gente, que además suele madrugar mucho, siempre me ha dado cierta envidia.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/02/04/entrevista-en-principio-de-incertidumbre-big-data-sin-artificio/" rel="bookmark">
+			Entrevista en Principio de Incertidumbre: &#34;big data&#34; sin artificio
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-02-04T07:13:40Z">2015-2-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El jueves pasado y durante un breve receso de mi gripe, me entrevistaron en Canal Extremadura Radio. Durante una hora larga (que luego hubo que recortar a los 30 minutos que dura el programa de divulgación científica Principio de Incertidumbre) hablé de estadística, big data y R con Jorge Solís Bejarano.
+A quien tengo que agradecer, primero, que contase conmigo; pero además y sobre todo, lo bien documentado que estuvo (lo cual me lleva a pensar que habrá que estar atentos a otras grabaciones de su programa).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/01/28/la-profesionalizacion-de-r/" rel="bookmark">
+			La profesionalización de R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-01-28T07:13:08Z">2015-1-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Tenía en mente escribir estas líneas desde hace un tiempo. La reciente noticia de la adquisición de Revolution Analytics por parte de Microsoft la ha adelantado, como mucho, unos pocos días.
+S, el lenguaje del que R es una implementación libre, vivió su ciclo propietario completo: nació en los laboratorios Bell, creció con Insightful, se reprodujo (R fue su vástago) y creo que ha muerto sin pena ni gloria en manos de Tibco.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/01/27/grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas/" rel="bookmark">
+			Grandes datos, máquinas pequeñas (y regresiones logísticas con variables categóricas)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-01-27T07:13:49Z">2015-1-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Preguntaba el otro día Emilio Torres esto en R-help-es. Resumo la pregunta. Se trata de una simulación de unos datos y su ajuste mediante una regresión logística para ver si los coeficientes obtenidos son o no los esperados (teóricamente y por construcción).
+El código de Emilio (cuyos resultados no podemos reproducir porque no nos ha contado qué similla usa) es
+logisticsimulation &lt;- function(n){ dat &lt;- data.frame(x1=sample(0:1, n,replace=TRUE), x2=sample(0:1, n,replace=TRUE)) odds &lt;- exp(-1 - 4 * dat$x1 + 7*dat$x2 - 1 *dat$x1* dat$x2 ) pr &lt;- odds/(1+odds) res &lt;- replicate(100, { dat$y &lt;- rbinom(n,1,pr) &lt;a href=&quot;http://inside-r.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/01/21/donde-guardar-los-paquetes-de-r-en-linux-al-menos/" rel="bookmark">
+			Dónde guardar los paquetes de R (en Linux, al menos)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-01-21T07:13:02Z">2015-1-21</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En todos mis Linux, desde el principio de los tiempos, R guardaba los paquetes en
+ * `/usr/lib/R/library` * `/usr/lib/R/site-library` (¡a veces y no sé por qué!) * `/usr/local/lib/R/site-library`  Bajo /usr/lib deberían instalarse solo aquellos que vienen de serie con la instalación de R (o que se instalan usando el sistema de actualización de paquetes de la distribución de Linux) mientras que bajo /usr/local vivirían los instalados posteriormente por el usuario (véase esto).
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/categories/r/page/23/">«</a>
+	<span class="pagination__item pagination__item--current">24/50</span>
+	<a class="pagination__item pagination__item--next btn" href="/categories/r/page/25/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cajas negras on datanalytics</title>
+    <link>/tags/cajas-negras/</link>
+    <description>Recent content in cajas negras on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 12 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/cajas-negras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explicación de modelos</title>
+      <link>/2020/06/12/explicacion-de-modelos/</link>
+      <pubDate>Fri, 12 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/12/explicacion-de-modelos/</guid>
+      <description>Este es el primer año en el que en mi curso de ciencia de datos (hasta ahora en el EAE; a partir del año que viene, vaya uno a saber si y dónde) introduzco una sección sobre explicación de modelos.
+Hay quienes sostienen que, mejor que crear un modelo de caja negra y tratar luego de explicar las predicciones, es recomendable comenzar con un modelo directamente explicable (p.e., un GLM). Por mucha razón que traigan, vox clamantis in deserto: hay y seguirá habiendo modelos de caja negra por doquier.</description>
+    </item>
+    
+    <item>
+      <title>La gramática del análisis explicativo interactivo de modelos</title>
+      <link>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</link>
+      <pubDate>Thu, 14 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</guid>
+      <description>Así vendría a traducirse el título de este artículo, que trata de taxonomizar y sistematizar una serie de técnicas muy recientes para explicar modelos de caja negra.
+Tal vez no acabe siendo la manera pero, sin duda, acabará habiendo una.</description>
+    </item>
+    
+    <item>
+      <title>¿Se puede explicar la predicción de un modelo de caja negra?</title>
+      <link>/2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/</link>
+      <pubDate>Tue, 15 Mar 2016 09:13:51 +0000</pubDate>
+      
+      <guid>/2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/</guid>
+      <description>Imaginemos un banco que construye modelos para determinar si se concede o no un crédito. Este banco tiene varias opciones para crear el modelo. Sin embargo, en algunos países el regulador exige que el banco pueda explicar el motivo de la denegación de un crédito cuando un cliente lo solicite.
+Esa restricción impediría potencialmente usar modelos de caja negra como el que construyo a continuación:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/randomForest&amp;quot;&amp;gt;randomForest) raw &amp;lt;- read.table(&amp;quot;http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data&amp;quot;, sep = &amp;quot;,&amp;quot;, na.</description>
+    </item>
+    
+  </channel>
+</rss>

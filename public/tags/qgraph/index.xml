@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qgraph on datanalytics</title>
+    <link>/tags/qgraph/</link>
+    <description>Recent content in qgraph on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 15 Mar 2017 08:13:37 +0000</lastBuildDate><atom:link href="/tags/qgraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>qgraph para representar grafos que son correlaciones que son vinos</title>
+      <link>/2017/03/15/qgraph-para-representar-grafos-que-son-correlaciones-que-son-vinos/</link>
+      <pubDate>Wed, 15 Mar 2017 08:13:37 +0000</pubDate>
+      
+      <guid>/2017/03/15/qgraph-para-representar-grafos-que-son-correlaciones-que-son-vinos/</guid>
+      <description>Me vais a permitir que escriba una entrada sin mayores pretensiones, inspirada en y adaptada de aquí y que sirva solo de que para representar correlaciones entre variables podemos recurrir a los grafos como en
+library(qgraph) wine.quality &amp;lt;- read.csv(&amp;quot;https://goo.gl/0Fz1S8&amp;quot;, sep = &amp;quot;;&amp;quot;) qgraph(cor(wine.quality), shape= &amp;quot;circle&amp;quot;, posCol = &amp;quot;darkgreen&amp;quot;, negCol= &amp;quot;darkred&amp;quot;, layout = &amp;quot;groups&amp;quot;, vsize=13)  que pinta
+mostrando resumidamente cómo se relacionan entre sí determinadas características de los vinos y cómo en última instancia influyen en su calidad (qlt).</description>
+    </item>
+    
+  </channel>
+</rss>

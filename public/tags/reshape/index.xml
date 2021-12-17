@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reshape on datanalytics</title>
+    <link>/tags/reshape/</link>
+    <description>Recent content in reshape on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 07 Sep 2011 07:45:36 +0000</lastBuildDate><atom:link href="/tags/reshape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El paquete reshape de R (I): melt</title>
+      <link>/2011/09/07/el-paquete-reshape-de-r-i-melt/</link>
+      <pubDate>Wed, 07 Sep 2011 07:45:36 +0000</pubDate>
+      
+      <guid>/2011/09/07/el-paquete-reshape-de-r-i-melt/</guid>
+      <description>El paquete reshape de R consta esencialmene de dos funciones, melt y cast, muy útiles para determinado tipo de transformaciones de de datos.
+La función melt se describe sucintamente con el siguiente gráfico:
+
+Es decir, toma un data.frame y lo funde (¡dejaré de ser amigo de quien pronuncie meltea!) o, visto de otra manera, estira.
+He aquí unos ejemplos:
+1 2 3  library(reshape) iris.m &amp;lt;- melt(iris) iris.m   Nótese cómo melt es inteligente y no necesita (en muchas ocasiones) que se le especifiquen cosas evidentes.</description>
+    </item>
+    
+  </channel>
+</rss>

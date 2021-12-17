@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recomendaciones on datanalytics</title>
+    <link>/tags/recomendaciones/</link>
+    <description>Recent content in recomendaciones on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Sep 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/recomendaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hoy sí, sobre tetas y culos (e Instagram, como excipiente)</title>
+      <link>/2020/09/02/hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente/</link>
+      <pubDate>Wed, 02 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/02/hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente/</guid>
+      <description>Hoy voy a aprovechar una excusa peregrina para hablar de lo que por algún motivo se me antoja imperiosamente, que son tetas y culos. Que (este pronombre es un puntero a excusa) es
+https://twitter.com/lalalalia/status/1300062241979596800
+Lo primero que tengo que decir al respecto es que las tetas y culos que asocia al Cabo de Gata el Instagram de quienqueira que haya tomado esas capturas son prácticamente las mismas que en el mío (y otro día os cuento por qué tengo Instagram, porque ni lo sabéis ni os lo podéis imaginar), a saber,</description>
+    </item>
+    
+    <item>
+      <title>Factorización matricial con nulos</title>
+      <link>/2019/09/19/factorizacion-matricial-con-nulos/</link>
+      <pubDate>Thu, 19 Sep 2019 09:13:55 +0000</pubDate>
+      
+      <guid>/2019/09/19/factorizacion-matricial-con-nulos/</guid>
+      <description>In illo tempore me llamaba mucho la atención encontrar métodos de ciencia de datos basados en factorización de matrices cuando la matriz a factorizar tenía nulos. Ocurre, por ejemplo, en sistemas de recomendación (cuando un usuario no ha visto o no nos ha dicho si le gusta determinada película).
+Y claro, con un nulo en la cosa, te comes los apuntes de álgebra lineal con papas.
+¿Cómo se hace? Si buscas $latex U$ y $latex V$ tales que $latex Y = UV^\prime$:</description>
+    </item>
+    
+    <item>
+      <title>Sr. Python, muchas gracias por su candidatura; ya le llamaremos cuando... tenga modelos mixtos</title>
+      <link>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</link>
+      <pubDate>Tue, 12 Feb 2019 08:13:49 +0000</pubDate>
+      
+      <guid>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</guid>
+      <description>Era casi todavía el siglo XX cuando yo, desesperado por hacer cosas que consideraba normales y que SAS no me permitía, pregunté a un profesor por algo como C pero para estadística. Y el profesor me contó que conocía a alguien que conocía a alguien que conocía a alguien que usaba una cosa nueva que se llamaba R y que podía servirme.
+Fue amor a primera vista, pero esa es otra historia.</description>
+    </item>
+    
+    <item>
+      <title>Recomendaciones... ¿personalizadas?</title>
+      <link>/2018/03/07/recomendaciones-personalizadas/</link>
+      <pubDate>Wed, 07 Mar 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/03/07/recomendaciones-personalizadas/</guid>
+      <description>Los científicos de datos deberían saber algo, los rudimentos al menos, de los sistemas de recomendación. Saber, como poco, que los hay personalizados y no personalizados. Así como las ventajas e inconvenientes de unos y otros.
+Gartner ha publicado su informe de herramientas de ciencia de datos de 2018. Que es una especie de sistema de recomendación. Obviamente, no personalizado.
+Es raro que ningún artículo que haya leído sobre el asunto (escritos por más o menos presuntos científicos de datos) haya hecho hincapié en el asunto.</description>
+    </item>
+    
+    <item>
+      <title>Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas</title>
+      <link>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</link>
+      <pubDate>Fri, 18 Mar 2016 09:13:34 +0000</pubDate>
+      
+      <guid>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</guid>
+      <description>Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado (aquí) un conjunto datos muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— nootrópicos.
+El gráfico
+extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo.</description>
+    </item>
+    
+    <item>
+      <title>Experto en Data Science en la U-tad</title>
+      <link>/2014/10/09/experto-en-data-science-en-la-u-tad/</link>
+      <pubDate>Thu, 09 Oct 2014 07:13:40 +0000</pubDate>
+      
+      <guid>/2014/10/09/experto-en-data-science-en-la-u-tad/</guid>
+      <description>Se me ha ido pasando y nunca he llegado a escribir aquí que seré uno de los profesores del Experto en Data Science de la U-tad que comienza&amp;hellip; de hecho este viernes.
+
+El escribir tan tarde me permite, al menos, presumir de que todo lo bueno que tengo que decir sobre el programa y el claustro no tiene finalidad comercial/propagandística.
+Y sí, lo habéis adivinado: la parte del programa que me corresponde tiene que ver con R y algunos de los paquetes que me sacan de apuros a diario (p.</description>
+    </item>
+    
+  </channel>
+</rss>

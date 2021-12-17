@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>coronavirus - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="coronavirus" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/coronavirus/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/coronavirus/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">coronavirus</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/05/04/42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad/" rel="bookmark">
+			¿42.000 muertes por coronavirus? Una corrección de la heterogeneidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-05-04T09:13:00Z">2020-5-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Publica hoy (cuando escribo) El Confidencial el artículo 42.000 muertes por covid: un estudio eleva la mortalidad un 76% sobre la cifra oficial citando el Estudio del exceso de mortalidad motivado por pandemia de Covid-19 de unos ingenieros de la UPM que corrige al alza los números de MoMo.
+El resumen es simple: MoMo no recoge todas las defunciones, solo las de los registros civiles informatizados. Aunque la cobertura sea del ~95% de la población española, hay diferencias grandes por CCAA (y aún más, aunque no haya cifras públicas al respecto, por provincia).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/27/muestreo-sensibilidad-y-especificidad/" rel="bookmark">
+			Muestreo, sensibilidad y especificidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-27T08:13:00Z">2020-4-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El bloque de código
+n_pop &lt;- 47e6 prev &lt;- .02 n_muestra &lt;- 60e3 real_sensitivity &lt;- .8 real_specificity &lt;- .995 estimated_sensitivity &lt;- .81 estimated_specificity &lt;- .99  anuncia que vamos a hablar de:
+ un país con una población no muy distinta de la de España * que sufre una pandemia con una prevalencia del 2% * en el que se realiza una selección de unos 60k sujetos * para aplicárseles unas pruebas con una sensibilidad y especificidad que pueden o no ser las que anuncia su prospecto,  supongo que para que dentro de unos años, cuando ya a nadie le importe, se publiquen unos datos que han guardado celosamente unos señores que mucho antes nos habrán regalado unos artículos científicos sobre el tema — necesariamente mediocres y que nos tendremos que creer— cuya publicación está garantizada por el mero hecho de que solo ellos tienen los CSVs mientras que la gente verdaderamente capaz, no.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/21/defunciones-ine-vs-momo/" rel="bookmark">
+			Defunciones: INE vs MoMo
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-21T09:13:00Z">2020-4-21</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Fe de errores: en varias secciones de lo que sigue se hace referencia a 2018 como año completo. En realidad, solo se están usando los datos de los trimestres 2, 3 y 4 de 2018, que es en los que hay solapamiento entre los datos del INE y de MoMo.]
+Es un error tomar las cifras de MoMo literalmente. Está explicado por doquier: MoMo no es el INE sino un sistema de alerta temprana por mortalidad.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/20/activa-madrid-el-laboratorio-de-ideas/" rel="bookmark">
+			Activa Madrid: el laboratorio de ideas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-20T09:13:00Z">2020-4-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/anuncios/" rel="category">anuncios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Reproduzco de aquí:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/16/be-momo/" rel="bookmark">
+			Be-MOMO
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-16T09:13:00Z">2020-4-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hay comparaciones odiosas. Así que no voy a comparar con nada. Voy a limitarme a invitaros a ver cómo divulgan información epidemiológica en Bélgica:
+ Coronavirus: panel de control y datos * Enfermedades infecciosas * Mortalidad * Enfermedades de transmisión sexual * ¡Garrapatas! * Gripe  Con su documentación, sus referencias, etc. y en inglés, además.
+En fin.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/" rel="bookmark">
+			Cosas que ocurrirán sin lugar a dudas tras el coronavirus
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-15T09:13:00Z">2020-4-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hay mucha incertidumbre sobre cómo será el mundo post-coronavirus. Pero una cosa es segura: tendremos gráficas tales como
+hasta en la sopa. La buena noticia para quienes son ellos y su ideología, es que hay tantos grados de libertad, i.e., la posibilidad de elegir muy cuidadosamente
+ las variables que colocar en el eje x, las fuentes, los años de los datos, etc., * los indicadores que colocar en el eje y, * los países, provincias, regiones, etc.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/02/pokemoneando-ruido/" rel="bookmark">
+			Pokemoneando ruido
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-02T16:03:48Z">2020-4-2</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Quería escribir una entrada totalmente distinta y me ha bloqueado el no contar con una buena traducción para chase noise.
+¿Cazar ruido? Pero la caza es una actividad casi solipsista: dos perros y un tipo con escopeta caminando al contraviento por el orillo de un monte por si vuela una perdiz. Nada que ver con ese refrescar compulsivo de las páginas que dan cuenta de casos y decesos, tan colectivo e histérico.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/31/mirad-lo-bien-que-funciona-la-hidroxicloroquina/" rel="bookmark">
+			Mirad lo bien que funciona la hidroxicloroquina
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-31T09:13:00Z">2020-3-31</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/art%C3%ADculos/" rel="category">artículos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Habréis oído hablar del artículo de la hidroxicloroquina (como tratamiento para el coronavirus). Lo resumo.
+Se toman 42 pacientes y a 26 se les administra hidroxicloroquina y a 16 no; en concreto:
+Luego pasan cosas y se llega a que
+Una de las cosas que pasan (y que se comen a dos carrillos en sitios como este) es que por el camino se han caído 6:
+¡Y qué seis! Para empezar, todos son del grupo de tratamiento y, en concreto:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/24/se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia/" rel="bookmark">
+			¿Se puede calcular la letalidad (del cornavirus, digamos) sin el análisis de la supervivencia?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-24T09:13:00Z">2020-3-24</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/art%C3%ADculos/" rel="category">artículos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Pues no lo sé. Pero con él, sí, según Methods for estimating the case fatality ratio for a novel, emerging infectious disease:
+La mala noticia es que no vamos a contar con datos detallados que tracen paciente a paciente, su ingreso (e, idealmente, la fecha de contagio), así como esas características de los pacientes que pueden determinar el desenlace de su enfermedad. Al menos, no los que miramos los toros desde detrás de la barrera informativa.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/" rel="bookmark">
+			Hospitales y camas en la Comunidad de Madrid
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-23T09:13:00Z">2020-3-23</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Enhorabuena, pienses lo que pienses, en esta entrada vas a encontrar argumentos que reforzarán tus prioris.]
+Por un lado, nos cuentan que los políticos que han gobernado la CM (Comunidad de Madrid, en lo que sigue) han desmantelado la sanidad (particularmente, la pública). Por otro, jamás me ha sucedido ver un cráter y que me digan: allí hubo un hospital. Bueno, sí, el hospital Puerta de Hierro está abandonado pero, parece ser, fue trasladado de Madrid a Majadahonda.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/" rel="bookmark">
+			Casos de coronavirus en Madrid provincia: un modelo un poco menos crudo basado en la mortalidad (II)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-20T09:18:28Z">2020-3-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Nota: el código relevante sigue estando en GitHub. No es EL código sino UN código que sugiere todos los cambios que se te puedan ocurrir. Entre otras cosas, ilustra cómo de dependientes son los resultados de la formulación del modelo, cosa muchas veces obviada.]
+Continúo con la entrada de ayer, que contenía más errores que información útil respecto a objetivos y métodos.
+Los objetivos del análisis son los de obtener una estimación del número de casos activos de coronavirus en la provincia de Madrid.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/" rel="bookmark">
+			Casos de coronavirus en Madrid provincia: un modelo muy crudo basado en la mortalidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-19T17:48:07Z">2020-3-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Nota: si no sabes interpretar las hipótesis embebidas en el código que publico, que operan como enormes caveats, no hagas caso en absoluto a los resultados. He publicado esto para ver si otros que saben más que yo lo pulen y consiguen un modelo más razonable usándolo tal vez, ojalá, como núcleo.]
+[Edición: He subido el código a GitHub.]
+[El código de esta sección y los resultados contienen errores de bulto; consúltese el código de GitHub.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/" rel="bookmark">
+			Dos escenarios mutuamente incompatibles: extinción o cronificación
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-17T09:13:00Z">2020-3-17</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en china que llegaron a tener un número importante de casos,
+pero donde ya no quedan casos activos:
+El otro es el escenario RU: el virus va a seguir entre nosotros y todos, en algún momento u otro vamos a pasar por él (o, más propiamente, a la inversa).
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/tags/coronavirus/">«</a>
+	<span class="pagination__item pagination__item--current">2/3</span>
+	<a class="pagination__item pagination__item--next btn" href="/tags/coronavirus/page/3/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

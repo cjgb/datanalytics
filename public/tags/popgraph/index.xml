@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>popgraph on datanalytics</title>
+    <link>/tags/popgraph/</link>
+    <description>Recent content in popgraph on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 18 May 2015 08:13:03 +0000</lastBuildDate><atom:link href="/tags/popgraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafos sobre mapas</title>
+      <link>/2015/05/18/grafos-sobre-mapas/</link>
+      <pubDate>Mon, 18 May 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/05/18/grafos-sobre-mapas/</guid>
+      <description>He escrito de grafos, he escrito de mapas; hoy hablaré de la combinación de ambas cosas.
+Tengo un grafo cuyos nodos están geoposicionados. Lo quiero estudiar utilizando herramientas de grafos (vía [igraph](http://igraph.org/r/)) pero después representarlos sobre una capa con información geográfica (una foto satelital de Google Maps, vamos).
+La red va a ser la de guifi.net en los derredores de Barcelona. guifi.net es un proyecto para crear una red de telecomunicaciones mancomunada, abierta, libre y neutral.</description>
+    </item>
+    
+  </channel>
+</rss>

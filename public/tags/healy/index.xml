@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>healy on datanalytics</title>
+    <link>/tags/healy/</link>
+    <description>Recent content in healy on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 05 Nov 2020 13:04:36 +0000</lastBuildDate><atom:link href="/tags/healy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canales (o estéticas), de mejor a peor, según Healy</title>
+      <link>/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/</link>
+      <pubDate>Thu, 05 Nov 2020 13:04:36 +0000</pubDate>
+      
+      <guid>/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/</guid>
+      <description>Data visualization, de Healy, sicólogo sociólogo (gracias al atento comentarista) para más señas, es dizquel nuevo Cleveland. Que lo pone al día 27 años después.
+Una muestra del libro:
+Se trata de las estéticas (en su acepción ggplot2) ordenadas de mayor a menor efectividad.
+[Estoy leyéndolo y nada nuevo bajo el sol; tal vez, sí, el aggiornamiento que de vez en cuando parece que necesitan las cosas para que se oreen las ideas, las tipografías y las paletas de color de los gráficos.</description>
+    </item>
+    
+  </channel>
+</rss>

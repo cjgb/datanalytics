@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xlconnect on datanalytics</title>
+    <link>/tags/xlconnect/</link>
+    <description>Recent content in xlconnect on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 23 Mar 2011 09:56:13 +0000</lastBuildDate><atom:link href="/tags/xlconnect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R y Excel: una alternativa</title>
+      <link>/2011/03/23/r-y-excel-una-alternativa/</link>
+      <pubDate>Wed, 23 Mar 2011 09:56:13 +0000</pubDate>
+      
+      <guid>/2011/03/23/r-y-excel-una-alternativa/</guid>
+      <description>Los amantes de Excel están de enhorabuena. Ahora tienen una alternativa a RExcel, una extensión de Excel que le permite interactuar con R: XLConnect, un paquete multiplataforma de R que permite:
+ Trabajar con ficheros de Excel 97 (.xls) y OOXML (.xlsx) Crear y eliminar hojas dentro de documentos Leer y escribir rangos de valores (ranges) Leer y escribir hojas de cálculo Añadir gráficos Asociar estilos a celdas Definir el tamaño de las filas y columnas Etc.</description>
+    </item>
+    
+  </channel>
+</rss>

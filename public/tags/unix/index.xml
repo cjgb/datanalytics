@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unix on datanalytics</title>
+    <link>/tags/unix/</link>
+    <description>Recent content in unix on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 07 Oct 2015 08:13:01 +0000</lastBuildDate><atom:link href="/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unix para poetas</title>
+      <link>/2015/10/07/unix-para-poetas/</link>
+      <pubDate>Wed, 07 Oct 2015 08:13:01 +0000</pubDate>
+      
+      <guid>/2015/10/07/unix-para-poetas/</guid>
+      <description>Existe una breve obrita, Unix for Poets, que utiliza el análisis cuantitativo de texto como excusa para aprender a manejar una serie de comandos inexcusables de Unix y sus derivados: wc, grep, etc.
+Se la recomiendo particularmente a aquellos que se compraron una Mac y no saben que cuentan con una terminal decente oculta en alguna parte de su sistema (en serio, los hay: el otro día se la descubrí a una maquera).</description>
+    </item>
+    
+  </channel>
+</rss>

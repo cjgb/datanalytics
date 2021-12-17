@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gráficos on datanalytics</title>
+    <link>/tags/gr%C3%A1ficos/</link>
+    <description>Recent content in gráficos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Jul 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/gr%C3%A1ficos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La miseria de la sicología de la percepción</title>
+      <link>/2021/07/01/la-miseria-de-la-sicologia-de-la-percepcion/</link>
+      <pubDate>Thu, 01 Jul 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/07/01/la-miseria-de-la-sicologia-de-la-percepcion/</guid>
+      <description>A autores como Playfair (tartas), Tukey (diagramas de cajas) o Tufte (pequeños múltiplos) debemos algunas de las técnicas de representación gráfica de datos que usamos habitualmente y a las que el público, mal que bien, está acostumbrado.
+Otros autores han tratado de tecnologizar dichas técnicas. Es decir, entender por qué funcionan o cómo hacerlas más efectivas. Para ello se han apoyado en el trabajo de los sicólogos de la percepción. El trabajo pionero al respecto, al menos en el ámbito de la estadística, es de Cleveland y McGill (véase esto y, si procede, sus referencias) y ha sido continuado por otros.</description>
+    </item>
+    
+    <item>
+      <title>Canales (o estéticas), de mejor a peor, según Healy</title>
+      <link>/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/</link>
+      <pubDate>Thu, 05 Nov 2020 13:04:36 +0000</pubDate>
+      
+      <guid>/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/</guid>
+      <description>Data visualization, de Healy, sicólogo sociólogo (gracias al atento comentarista) para más señas, es dizquel nuevo Cleveland. Que lo pone al día 27 años después.
+Una muestra del libro:
+Se trata de las estéticas (en su acepción ggplot2) ordenadas de mayor a menor efectividad.
+[Estoy leyéndolo y nada nuevo bajo el sol; tal vez, sí, el aggiornamiento que de vez en cuando parece que necesitan las cosas para que se oreen las ideas, las tipografías y las paletas de color de los gráficos.</description>
+    </item>
+    
+    <item>
+      <title>PIB trimestral: una alternativa gráfica a la representación tradicional para los tiempos del coronavirus</title>
+      <link>/2020/11/04/pib-trimestral-una-alternativa-grafica-a-la-representacion-tradicional-para-los-tiempos-del-coronavirus/</link>
+      <pubDate>Wed, 04 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/04/pib-trimestral-una-alternativa-grafica-a-la-representacion-tradicional-para-los-tiempos-del-coronavirus/</guid>
+      <description>Gráficas que muestran la velocidad a la que varía el PIB como
+han sido habituales para representar la evolución de la economía. En particular, porque antes de los espasmos de los últimos trimestres eran más o menos fáciles de intepretar. Pero ahora ya no.
+La velocidad es una medida útil en tanto que varía de manera más o menos suave. En momentos de botes y rebotes, es mejor saber dónde se está que a la velocidad a la que uno no sabe si sube o baja.</description>
+    </item>
+    
+    <item>
+      <title>IGN &#43; R &#43; leaflet</title>
+      <link>/2020/10/13/ign-r-leaflet/</link>
+      <pubDate>Tue, 13 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/13/ign-r-leaflet/</guid>
+      <description>Iba a escribir una entrada técnica al respecto, pero resulta que ya la había hecho hace un tiempo y no me acordaba.
+Solo quiero abundar en el tema para recordaros que si os interesa mostrar mapas de España vía [leaflet](https://rstudio.github.io/leaflet/), en lugar de usar las capas por defecto, que vaya a saber uno de dónde las sacan, uno siempre puede tirar de la cartografía oficial.
+Uno de los motivos puede ser que el mapa forme parte de una aplicación seria.</description>
+    </item>
+    
+    <item>
+      <title>¡Bien por AIReF!</title>
+      <link>/2019/05/13/bien-por-airef/</link>
+      <pubDate>Mon, 13 May 2019 09:13:17 +0000</pubDate>
+      
+      <guid>/2019/05/13/bien-por-airef/</guid>
+      <description>Años ha, cuando quería mostrar gráficos como
+tenía que irme al extranjero. Pero hoy he estado hojeando el informe sobre la actualización del programa de estabilidad 2019-2022 de AIReF, he visto cosas como
+y me he emocionado mucho.</description>
+    </item>
+    
+    <item>
+      <title>El discreto encanto de las animaciones</title>
+      <link>/2019/01/28/el-discreto-encanto-de-las-animaciones/</link>
+      <pubDate>Mon, 28 Jan 2019 08:13:45 +0000</pubDate>
+      
+      <guid>/2019/01/28/el-discreto-encanto-de-las-animaciones/</guid>
+      <description>Representando datos, una animación es un gráfico en el que unas facetas (en terminología de ggplot2) ocultan el resto, como en
+extraído de aquí y que representa la evolución del tamaño (superficie) de los coches habituales a lo largo del último siglo. Lo mismo pero evitando el indeseado efecto:
+El código:
+library(ggplot2) datos &amp;lt;- structure(list(year = c(1930L, 1950L, 1960L, 1970L, 1980L, 1990L, 2000L, 2010L, 2018L), width = c(1.45, 1.59, 1.54, 1.</description>
+    </item>
+    
+    <item>
+      <title>No son los picos, son los rangos</title>
+      <link>/2018/04/23/no-son-los-picos-son-los-rangos/</link>
+      <pubDate>Mon, 23 Apr 2018 08:13:39 +0000</pubDate>
+      
+      <guid>/2018/04/23/no-son-los-picos-son-los-rangos/</guid>
+      <description>Me reencuentro con
+tiempo después (fuente). Llaman la atención sobremanera los picos. Que no tienen otra razón de ser que un cambio en los rangos del eje horizontal.
+Ahora la pregunta, de ejercicio: ¿cómo harías para representar esos datos para evitar esos artefactos (asumiendo escala lineal en el eje horizontal)?</description>
+    </item>
+    
+    <item>
+      <title>Diagramas de cajas: lo que hay que saber y muchas otras cosas que no hacen tanta falta pero que son entretenidas</title>
+      <link>/2018/02/14/diagramas-de-cajas-lo-que-hay-que-saber-y-muchas-otras-cosas-que-no-hacen-tanta-falta-pero-que-son-entretenidas/</link>
+      <pubDate>Wed, 14 Feb 2018 08:13:34 +0000</pubDate>
+      
+      <guid>/2018/02/14/diagramas-de-cajas-lo-que-hay-que-saber-y-muchas-otras-cosas-que-no-hacen-tanta-falta-pero-que-son-entretenidas/</guid>
+      <description>Me sorprende averiguar que hay gente que no comprende el concepto de ruta (de ficheros) y la diferencia entre las relativas y las absolutas. Me sorprende igualmente tropezarme con gente a las que los diagramas de caja (boxplots, en bárbaro) no les resulten lo más natural del mundo. ¡Hayla!
+Pero a veces nos equivocamos y nos da por pensar que siempre han estado ahí (¡no! son bastante recientes) y no se nos ocurre que haya quien pueda estar pensando en mejoras y extensiones.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo está distribuida la renta? No, más bien, cómo son de grandes las provincias</title>
+      <link>/2017/11/02/como-esta-distribuida-la-renta-no-mas-bien-como-son-de-grandes-las-provincias/</link>
+      <pubDate>Thu, 02 Nov 2017 08:13:04 +0000</pubDate>
+      
+      <guid>/2017/11/02/como-esta-distribuida-la-renta-no-mas-bien-como-son-de-grandes-las-provincias/</guid>
+      <description>El gráfico
+ha estado dando vueltas por el ciberespacio. Lo vi en Twitter de mano de alguien que lo usaba para justificar que la distribución de la renta no es tan desigual en España al fin y al cabo. Está comentado desde el punto de vista de la interpretación y tufneado en términos de la forma
+aquí.
+Pero lo que no he visto comentar es que las variaciones reflejan más cómo es el tamaño de las provincias (o regiones, estados, o las divisiones administrativas que se haya considerado) en cada uno de los países que si la renta está mejor o peor repartida.</description>
+    </item>
+    
+    <item>
+      <title>Geofacetas</title>
+      <link>/2017/09/28/geofacetas/</link>
+      <pubDate>Thu, 28 Sep 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/09/28/geofacetas/</guid>
+      <description>Con geofacet se puede hacer</description>
+    </item>
+    
+    <item>
+      <title>Micromapas</title>
+      <link>/2017/07/07/micromapas/</link>
+      <pubDate>Fri, 07 Jul 2017 08:13:27 +0000</pubDate>
+      
+      <guid>/2017/07/07/micromapas/</guid>
+      <description>Vienen a ser la versión geo de las sparklines. Por ejemplo,
+Notas:
+ * El gráfico anterior no es mío. El [código (y datos) con el que se generó](https://www.datanalytics.com/uploads/micromap.zip) tampoco. Son de Susana Huedo, exalumna. * Está basado (todo hay que decirlo) en código de terceros y debería acordarme de cuál de ellos. Pero no es el caso.  </description>
+    </item>
+    
+    <item>
+      <title>Cartuchos malbaratados</title>
+      <link>/2017/06/27/cartuchos-malbaratados/</link>
+      <pubDate>Tue, 27 Jun 2017 08:13:12 +0000</pubDate>
+      
+      <guid>/2017/06/27/cartuchos-malbaratados/</guid>
+      <description>Me instan a hablar de
+que procede de aquí y donde se compara el precio de una cerveza en la plaza mayor de las capitales de provincia españolas (a propósito, ¿cuál es la plaza mayor de Zaragoza o Soria?). Dejando el resto (casi todas, de hecho) de las cuestiones de lado, nos centraremos en el gráfico.
+¿Qué nos dice la teoría sobre gráficos como este? Primero, que de entre todas las estéticas (usando la nomenclatura propia de ggplot2), las que mejor captura el ojo son x e y.</description>
+    </item>
+    
+    <item>
+      <title>Me too, me too!</title>
+      <link>/2017/05/12/me-too-me-too/</link>
+      <pubDate>Fri, 12 May 2017 08:13:13 +0000</pubDate>
+      
+      <guid>/2017/05/12/me-too-me-too/</guid>
+      <description>Las alturas corresponden a una cierta potencia de la población residente en la correspondiente rejilla. Los datos son del SEDAC (Socioeconomic Data and Applications Center, Universidad de Columbia) y se pueden bajar gratis si te registras y rellenas un cuestionario tontaina.
+El código,
+library(ggplot2) options(expressions = 10000) dat &amp;lt;- read.table(&amp;quot;dat/espp00ag.asc&amp;quot;, skip = 6) dat &amp;lt;- as.matrix(dat) dat &amp;lt;- data.frame(y = as.numeric(row(dat)), x = as.numeric(col(dat)), pop = as.numeric(dat)) peninsula &amp;lt;- dat[dat$x &amp;gt; 200,] peninsula &amp;lt;- peninsula[peninsula$y &amp;lt; 250,] res &amp;lt;- ggplot() for (i in 1:max(peninsula$y)){ tmp &amp;lt;- peninsula[peninsula$y == i,] tmp$pop &amp;lt;- tmp$pop^0.</description>
+    </item>
+    
+    <item>
+      <title>Pues sí, puede fabricarse uno para España</title>
+      <link>/2017/04/10/pues-si-puede-fabricarse-uno-para-espana/</link>
+      <pubDate>Mon, 10 Apr 2017 08:13:28 +0000</pubDate>
+      
+      <guid>/2017/04/10/pues-si-puede-fabricarse-uno-para-espana/</guid>
+      <description>Es
+responde a mi entrada de la semana pasada y se lo debemos a la gentileza de Sergio J.
+El código, con mínimas modificaciones mías (para automatizar la descarga de los datos) es
+library(pxR) library(dplyr) library(tidyr) library(ggplot2) #---- Carga y transformacion de datos download.file(&amp;quot;http://www.datanalytics.com/uploads/3199.px&amp;quot;, &amp;quot;3199.px&amp;quot;) pob &amp;lt;- read.px(&amp;quot;3199.px&amp;quot;, encoding = &amp;quot;latin1&amp;quot;) pob &amp;lt;- as.data.frame(pob) pob$Sexo &amp;lt;- NULL pob$Periodo &amp;lt;- as.numeric(as.character(pob$Periodo)) pob &amp;lt;- separate(pob, Provincias, into = c(&amp;quot;id_provincia&amp;quot;, &amp;quot;provincia&amp;quot;), sep = 3) pob$fecha &amp;lt;- as.</description>
+    </item>
+    
+    <item>
+      <title>¿Podría fabricarse uno para España?</title>
+      <link>/2017/04/07/podria-fabricarse-uno-para-espana/</link>
+      <pubDate>Fri, 07 Apr 2017 08:13:40 +0000</pubDate>
+      
+      <guid>/2017/04/07/podria-fabricarse-uno-para-espana/</guid>
+      <description>Me refiero a algo similar a (referencia):
+Lo ideal sería crear una función compatible con el sistema de facetas de ggplot2 con nombre, p.e., facet_spain que permitiese disponer cualquier tipo de gráfico en una retícula similar.
+No particularmente difícil, pero sí, seguro, utilísimo.
+¿A nadie le tienta el proyecto?
+[Me encanta el impersonal de &amp;ldquo;podría fabricarse&amp;hellip;&amp;rdquo;. ¡Es como tan de tirar la piedra y esconder la mano!]</description>
+    </item>
+    
+    <item>
+      <title>Las gráficas en la prensa (de allá)</title>
+      <link>/2017/02/22/las-graficas-en-la-prensa-de-alla/</link>
+      <pubDate>Wed, 22 Feb 2017 08:13:12 +0000</pubDate>
+      
+      <guid>/2017/02/22/las-graficas-en-la-prensa-de-alla/</guid>
+      <description>La gráfica
+muestra el número (manifiestamente creciente) de gráficas publicadas en una muestra de ejemplares del NYT (una quinquenal en un día laborable de septiembre) tal como se cuenta aquí.
+¿Sería posible hacer un estudio similar con la prensa de aquí? Interesante, seguro, sí.</description>
+    </item>
+    
+    <item>
+      <title>Las conexiones telefónicas de Vodafone España, visualizadas con R</title>
+      <link>/2016/12/20/las-conexiones-telefonicas-de-vodafone-espana-visualizadas-con-r/</link>
+      <pubDate>Tue, 20 Dec 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/12/20/las-conexiones-telefonicas-de-vodafone-espana-visualizadas-con-r/</guid>
+      <description>Me pasa un exalumno (no os perdáis su blog y su otro blog, especialmente si os interesa la versión friqui de la fotografía) de mi curso de R de KSchool, un gráfico que ha realizado con R para su empresa:
+Addenda: En los comentarios hay más enlaces relevantes (proporcionados por el autor de la imagen), que conducen al código, etc.</description>
+    </item>
+    
+    <item>
+      <title>No soy yo, sos vos; repito, sos vos</title>
+      <link>/2016/12/02/no-soy-yo-sos-vos-repito-sos-vos/</link>
+      <pubDate>Fri, 02 Dec 2016 08:13:44 +0000</pubDate>
+      
+      <guid>/2016/12/02/no-soy-yo-sos-vos-repito-sos-vos/</guid>
+      <description>Hoy he visto
+en una radio (sí, gráficos en una radio: el mundo está loco) y mi cabeza se ha puesto a dar vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas y más vueltas.
+Hasta que me he dado cuenta de que no era yo, que era el gráfico.</description>
+    </item>
+    
+    <item>
+      <title>Dos técnicas fundamentales para gráficos dinámicos de datos: &#34;linking&#34; y &#34;brushing&#34;</title>
+      <link>/2016/10/13/dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing/</link>
+      <pubDate>Thu, 13 Oct 2016 08:13:39 +0000</pubDate>
+      
+      <guid>/2016/10/13/dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing/</guid>
+      <description>El otro día me tocó enseñar algo de lo que no sé mucho: gráficos interactivos con R. Hay muchos paquetes que vienen a hacer más o menos lo mismo. Es tentador limitarse a eso, a exponerlas. O más bien, a exponer unas vías de entrada, a establecer unas cabezas de playa desde las cuales el interesado pueda avanzar autónomamente.
+Tanto (tentador) que uno pasa por alto la razón de ser misma de querer incorporar interactividad a los gráficos.</description>
+    </item>
+    
+    <item>
+      <title>Una abominación gráfica</title>
+      <link>/2016/07/15/una-abominacion-grafica/</link>
+      <pubDate>Fri, 15 Jul 2016 08:13:55 +0000</pubDate>
+      
+      <guid>/2016/07/15/una-abominacion-grafica/</guid>
+      <description>Llega el verano, llega el relleno: rescato de mi disco duro una abominación gráfica,
+para el espanto de todos Vds.
+Aparte de otras consideraciones, si la tasa es negativa, ¿se crea una imagen especular del perfil del país?</description>
+    </item>
+    
+    <item>
+      <title>Tartas con porciones negativas</title>
+      <link>/2016/05/12/tartas-con-porciones-negativas/</link>
+      <pubDate>Thu, 12 May 2016 08:13:58 +0000</pubDate>
+      
+      <guid>/2016/05/12/tartas-con-porciones-negativas/</guid>
+      <description>Aunque te pueda costar imaginarlas, existen:
+Están sacadas de la página de Red Eléctica (es que hoy he puesto una lavadora) y el gajo que sobresale a las diez es la aportación negativa de la conexión con las Baleares a sistema eléctrico peninsular:
+¿Por qué —me pregunto— añadirán un uso de la electricidad en una gráfica que, según su título, corresponde a su generación? ¿Quién tuvo la idea de colocar un gajo negativo?</description>
+    </item>
+    
+    <item>
+      <title>Gráficos interactivos con R: un resumen</title>
+      <link>/2016/04/27/graficos-interactivos-con-r-un-resumen/</link>
+      <pubDate>Wed, 27 Apr 2016 08:13:58 +0000</pubDate>
+      
+      <guid>/2016/04/27/graficos-interactivos-con-r-un-resumen/</guid>
+      <description>Aquí encontrará el lector un resumen de herramientas para crear gráficos interactivos con R que, por referencia, discute
+* [`ggvis`](http://ggvis.rstudio.com/): desarrollados por los creadores de `ggplot2` * [`rCharts`](http://rcharts.io/): una interfaz de R con una serie de librerías de javascript para crear gráficos * [`plotly`](https://plot.ly/r/): hace magia para añadir interactividad a gráficos creados con `ggplot2` (y otros) * [`googleVis`](http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_examples.html): que permite utilizar [Google Chart Tools](https://developers.google.com/chart/) desde R  </description>
+    </item>
+    
+    <item>
+      <title>Hoy que me he puesto traje y corbata...</title>
+      <link>/2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/</link>
+      <pubDate>Thu, 10 Mar 2016 09:13:12 +0000</pubDate>
+      
+      <guid>/2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/</guid>
+      <description>&amp;hellip; (por motivos que importan pero no debo revelar a mis lectores) aprovecho para criticar a esos tipos que, vistiendo como yo, insisten reiteradamente a sus analistas en que les proporcionen un número. Un número que tiene que ser cerrado, indiscutible, pivotal.
+A esos que gastan traje y corbata como yo hoy les horroriza la varianza. Le espantan, seguro, esos punticos que tan opotunamente coloca Kiko Llaneras alrededor de las medias de este estupendo</description>
+    </item>
+    
+    <item>
+      <title>Ficheros KML con R y ggmap</title>
+      <link>/2016/03/01/ficheros-kml-con-r-y-ggmap/</link>
+      <pubDate>Tue, 01 Mar 2016 09:13:25 +0000</pubDate>
+      
+      <guid>/2016/03/01/ficheros-kml-con-r-y-ggmap/</guid>
+      <description>Fácil:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/maptools&amp;quot;&amp;gt;maptools) library(ggmap) # un fichero bajado el Ayto. de Madrid # (catálogo de datos abiertos) rutas &amp;lt;- getKMLcoordinates(&amp;quot;dat/130111_vias_ciclistas.kml&amp;quot;) # procesando el fichero kml rutas &amp;lt;- lapply(1:length(rutas), function(x) data.frame(rutas[[x]], id = x)) rutas &amp;lt;- do.call(rbind, rutas) # mapa de Madrid mapa &amp;lt;- get_map(&amp;quot;Madrid&amp;quot;, source = &amp;quot;stamen&amp;quot;, maptype = &amp;quot;toner&amp;quot;, zoom = 12) # pintando los tramos sobre el mapa ggmap(mapa) + geom_path(aes(x = X1, y = X2, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/grDevices/group&amp;quot;&amp;gt;group = id), data = rutas, colour = &amp;quot;red&amp;quot;)  produce</description>
+    </item>
+    
+    <item>
+      <title>Visualización de datos de salud con nihil obstat científico</title>
+      <link>/2016/02/10/visualizacion-de-datos-de-salud-con-nihil-obstat-cientifico/</link>
+      <pubDate>Wed, 10 Feb 2016 09:13:03 +0000</pubDate>
+      
+      <guid>/2016/02/10/visualizacion-de-datos-de-salud-con-nihil-obstat-cientifico/</guid>
+      <description>Investigando para las clases del máster de visualización de datos de Unidad Editorial (que arranca hoy mismo), di con Vizhealth, una guía de estilo para la representación de datos relativos a la salud de los individuos con el nihil obstat de un equipo multidisciplinar de médicos, diseñadores, sicólogos, etc.
+Id, que ellos lo cuentan mejor que yo, y visitad la galería de ejemplos.</description>
+    </item>
+    
+    <item>
+      <title>Visualizando los quinientos millones de la Begún</title>
+      <link>/2016/01/06/visualizando-los-quinientos-millones-de-la-begun/</link>
+      <pubDate>Wed, 06 Jan 2016 08:13:44 +0000</pubDate>
+      
+      <guid>/2016/01/06/visualizando-los-quinientos-millones-de-la-begun/</guid>
+      <description> Julio Verne, Los quinientos millones de la begún, 1879
+ </description>
+    </item>
+    
+    <item>
+      <title>Las magnitudes que se quieren comparar, ¡adyacentes siempre!</title>
+      <link>/2016/01/05/las-magnitudes-que-se-quieren-comparar-adyacentes-siempre/</link>
+      <pubDate>Tue, 05 Jan 2016 16:10:21 +0000</pubDate>
+      
+      <guid>/2016/01/05/las-magnitudes-que-se-quieren-comparar-adyacentes-siempre/</guid>
+      <description>No así hicieron los responsables de
+
+Reyes magos, regaladles un libro decente de visualización de datos, ¡por favor!</description>
+    </item>
+    
+    <item>
+      <title>¿Os lo podéis creer? ¡&#34;Funnel plots&#34; en la prensa española!</title>
+      <link>/2015/12/04/os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola/</link>
+      <pubDate>Fri, 04 Dec 2015 08:13:42 +0000</pubDate>
+      
+      <guid>/2015/12/04/os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola/</guid>
+      <description>Pues sí, aquí están,
+
+recién copipegados del documental de El Español sobre el suicidio.
+Son los mismos de los que hablaba aquí o sobre los que Spiegelhalter ha publicado la mar de artículos.
+Pero, ¿qué hacen en la prensa de un país como España? La historia es un poco larga, casi tanto como la mía protestando de la escasa calidad de los gráficos estadísticos por doquier. Pero esta vez los autores del documental me han invitado renunciar a la comodidad del crítico que todo lo juzga desde el sillón a, digámoslo así, consultor (o consejero) que tiene que pasar a proponer soluciones.</description>
+    </item>
+    
+    <item>
+      <title>La variación y sus negacionistas</title>
+      <link>/2015/07/17/la-variacion-y-sus-negacionistas/</link>
+      <pubDate>Fri, 17 Jul 2015 08:13:22 +0000</pubDate>
+      
+      <guid>/2015/07/17/la-variacion-y-sus-negacionistas/</guid>
+      <description>Las entradas de esta semana han girado alrededor de un tema: la comparación bajo incertidumbre. La remato recomendando un artículo de Stephen Few, Variation and Its Discontents, que tiene un subtítulo de lo más oportuno: Funnel Plots for Fair Comparisons.
+Nota: Los lectores más fieles de estas páginas recordarán entradas viejas, como esta, que también sugerían el uso de gráficos de embudo (o trompeta).</description>
+    </item>
+    
+    <item>
+      <title>Extraido de un libro de educación primaria</title>
+      <link>/2015/06/26/extraido-de-un-libro-de-educacion-primaria/</link>
+      <pubDate>Fri, 26 Jun 2015 08:13:44 +0000</pubDate>
+      
+      <guid>/2015/06/26/extraido-de-un-libro-de-educacion-primaria/</guid>
+      <description>Del capítulo de estadística de un libro de matemática para críos capturé el otro día
+
+¿A qué os imagináis lo que se me pasó por la mente? Pues no lo digo por si algún día llego a concejal.</description>
+    </item>
+    
+    <item>
+      <title>El lenguaje de los gráficos en las Jornadas de Periodismo de Datos</title>
+      <link>/2015/06/04/el-lenguaje-de-los-graficos-en-las-jornadas-de-periodismo-de-datos/</link>
+      <pubDate>Thu, 04 Jun 2015 08:13:14 +0000</pubDate>
+      
+      <guid>/2015/06/04/el-lenguaje-de-los-graficos-en-las-jornadas-de-periodismo-de-datos/</guid>
+      <description>Este sábado (2015-06-06), dentro de las Jornadas de Periodismo de Datos, hablaré sobre el lenguaje de los gráficos (véase el programa).
+Para variar, nada de R y, aunque parezca lo contrario, nada de ggplot2. Ni tan siquiera respuestas a nada: solo preguntas que cada cual tendrá, si le place, que contestar. Y si se me hace caso, a la luz de la literatura relevante.
+¿Por qué una cuestión tan abstracta? Porque sobran herramientas y recetarios sobre cómo hacer esto y aquello.</description>
+    </item>
+    
+    <item>
+      <title>Grafos sobre mapas</title>
+      <link>/2015/05/18/grafos-sobre-mapas/</link>
+      <pubDate>Mon, 18 May 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/05/18/grafos-sobre-mapas/</guid>
+      <description>He escrito de grafos, he escrito de mapas; hoy hablaré de la combinación de ambas cosas.
+Tengo un grafo cuyos nodos están geoposicionados. Lo quiero estudiar utilizando herramientas de grafos (vía [igraph](http://igraph.org/r/)) pero después representarlos sobre una capa con información geográfica (una foto satelital de Google Maps, vamos).
+La red va a ser la de guifi.net en los derredores de Barcelona. guifi.net es un proyecto para crear una red de telecomunicaciones mancomunada, abierta, libre y neutral.</description>
+    </item>
+    
+    <item>
+      <title>Valores diferentes</title>
+      <link>/2015/04/23/valores-diferentes/</link>
+      <pubDate>Thu, 23 Apr 2015 08:13:48 +0000</pubDate>
+      
+      <guid>/2015/04/23/valores-diferentes/</guid>
+      <description>La fúente áqui.</description>
+    </item>
+    
+    <item>
+      <title>Taller de mapas con R el 14 de abril en Madrid</title>
+      <link>/2015/04/06/taller-de-mapas-con-r-el-14-de-abril-en-madrid/</link>
+      <pubDate>Mon, 06 Apr 2015 08:13:44 +0000</pubDate>
+      
+      <guid>/2015/04/06/taller-de-mapas-con-r-el-14-de-abril-en-madrid/</guid>
+      <description>Mi entrada de hoy es para anunciar un taller de mapas con R que tendrá lugar el día 14 de abril de 18 a 21 horas en Martina Cocina (cómo llegar).
+Lo impartirá Beatriz Martínez, socióloga dedicada a la investigación social y de mercados, que ha trabajado en numerosos proyectos: desde investigación digital al desarrollo rural o programas de inclusión social. Está especializada en la la visualización de datos. Algunos de sus trabajos pueden verse en visualizados.</description>
+    </item>
+    
+    <item>
+      <title>Compresión con SVD</title>
+      <link>/2015/03/24/compresion-con-svd/</link>
+      <pubDate>Tue, 24 Mar 2015 08:13:19 +0000</pubDate>
+      
+      <guid>/2015/03/24/compresion-con-svd/</guid>
+      <description>lo he creado con
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/grDevices/png&amp;quot;&amp;gt;png) tmp.file &amp;lt;- tempfile() &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/download.file&amp;quot;&amp;gt;download.file(&amp;quot;http://datanalytics.com/uploads/greco.png&amp;quot;, tmp.file) m &amp;lt;- readPNG(tmp.file) svd.m &amp;lt;- svd(m) filtra.svd &amp;lt;- function(svd, k){ tmp &amp;lt;- svd tmp$d[(k+1):length(tmp$d)] &amp;lt;- 0 res &amp;lt;- tmp$u %*% diag(tmp$d) %*% t(tmp$v) res[res &amp;gt; 1] &amp;lt;- 1 res[res &amp;lt; 0] &amp;lt;- 0 plot(1:2, type=&#39;n&#39;, xlab = &amp;quot;&amp;quot;, ylab = &amp;quot;&amp;quot;, xaxt = &amp;quot;n&amp;quot;, yaxt = &amp;quot;n&amp;quot;, main = paste(k, &amp;quot;primeras componentes&amp;quot;, sep = &amp;quot; &amp;quot;)) rasterImage(res, 1, 1, 2, 2) } &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>Recurrencia recurrente</title>
+      <link>/2015/02/11/recurrencia-recurrente/</link>
+      <pubDate>Wed, 11 Feb 2015 08:13:50 +0000</pubDate>
+      
+      <guid>/2015/02/11/recurrencia-recurrente/</guid>
+      <description>Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imaginativa de esto, es decir, el código. Él, y muchos diríamos que correctamente, autocritica el uso de eval + parse para plagar el namespace de funciones.
+La respuesta está en la recurrencia. He aquí mi versión del código:
+library(ggplot2) library(gridExtra) nrows &amp;lt;- 6 coefs.a &amp;lt;- runif(min=1, max=50, nrows) coefs.b &amp;lt;- runif(min=1, max=50, nrows) foo.a &amp;lt;- sample(c(sin, cos), nrows, replace = TRUE) foo.</description>
+    </item>
+    
+    <item>
+      <title>¿Hubo alguna vez un millón de palentinas?</title>
+      <link>/2014/12/10/hubo-alguna-vez-un-millon-de-palentinas/</link>
+      <pubDate>Wed, 10 Dec 2014 07:13:15 +0000</pubDate>
+      
+      <guid>/2014/12/10/hubo-alguna-vez-un-millon-de-palentinas/</guid>
+      <description>En el año 2013 hubo 54 muertes de mujeres por violencia de género. Eso da una tasa nacional de poco más de dos por millón (de mujeres). El Mundo nos lo ha querido mostrar su distribución provincial así:
+
+Diríase que la tasa palentina es enorme, cinco veces la nacional. Pero en Palencia viven del orden de cien mil mujeres y hubo un único caso en 2013 (además, ni la mujer ni el agresor, se ve, eran de la provincia sino de un pueblo limítrofe de Cantabria; solo que el cadáver apareció en al sur de la linde).</description>
+    </item>
+    
+    <item>
+      <title>Gráficos e interactividad: una ocasión desaprovechada</title>
+      <link>/2014/12/01/graficos-e-interactividad-una-ocasion-desaprovechada/</link>
+      <pubDate>Mon, 01 Dec 2014 07:13:20 +0000</pubDate>
+      
+      <guid>/2014/12/01/graficos-e-interactividad-una-ocasion-desaprovechada/</guid>
+      <description>Cuando los gráficos son estáticos, los compromisos mandan. ¿Mostramos las diferencias relativas? ¿O las magnitudes absolutas? Ocurre casi indefectiblemente que cuando uno opta por una opción siempre alguien en la audiencia levanta el dedo y sugiere la alternativa. ¿Mostramos ambas a la vez? Entonces abusamos de la usualmente limitada superficie construible de nuestro informe y, además, violentamos ese principio de que lo bué, si bré, dos ve bué.
+La interactividad en los gráficos permite superponer vistas diversas de unos datos en un recinto acotado.</description>
+    </item>
+    
+    <item>
+      <title>Dime, ¿qué quieres comparar con qué?</title>
+      <link>/2014/11/19/dime-que-quieres-comparar-con-que/</link>
+      <pubDate>Wed, 19 Nov 2014 07:13:54 +0000</pubDate>
+      
+      <guid>/2014/11/19/dime-que-quieres-comparar-con-que/</guid>
+      <description>A veces alguien me pregunta cómo representar gráficamente ciertos datos. Yo respondo casi siempre igual, casi siempre con la misma pregunta: ¿qué quieres comparar con qué? Luego se trata solo de disponer las magnitudes que se desea comparar próximas, paralelas y con un mismo eje de referencia.
+Si se puede, claro.
+Con el gráfico
+
+que acompaña al artículo La deuda atenaza la recuperación el pobre ilustrador no lo tenía fácil.</description>
+    </item>
+    
+    <item>
+      <title>¿Dónde he estado (según Google)?</title>
+      <link>/2014/10/01/donde-he-estado-segun-google/</link>
+      <pubDate>Wed, 01 Oct 2014 07:13:47 +0000</pubDate>
+      
+      <guid>/2014/10/01/donde-he-estado-segun-google/</guid>
+      <description>Leí esto el otro día. Lo voy a replicar con mis datos.
+Contexto
+Google guarda datos de tus ubicaciones: tu tableta, tu ordenador, tu teléfono Android son espías a su servicio. Los datos los guarda en aquí (creo que necesitarás que en tu navegador haya una sesión abierta con tus credenciales del universo Google). Pulsando en administrar archivos y luego en crear archivos puedes seleccionar el tipo de información sobre ti que posee Google y que quieres descargarte.</description>
+    </item>
+    
+    <item>
+      <title>Missing</title>
+      <link>/2014/09/11/missing/</link>
+      <pubDate>Thu, 11 Sep 2014 07:13:20 +0000</pubDate>
+      
+      <guid>/2014/09/11/missing/</guid>
+      <description>Dos motivos me han tenido missing estas últimas semanas. Uno es una estancia en la Universidad de Santa Catalina del Burgo de Osma. Oportunamente ubicada en las estribaciones de la muy generosa en caldos de calidad Ribera del Duero, ha sido reconvertida a la sazón en un hotel propicio para la evasión y la agrafía.
+
+El segundo es que en horas intempestivas he estado purgando de missings unas matrices enormes y de la, se conoce, mayor trascendencia.</description>
+    </item>
+    
+    <item>
+      <title>Factorización de enteros con grid</title>
+      <link>/2014/09/09/factorizacion-de-enteros-con-grid/</link>
+      <pubDate>Tue, 09 Sep 2014 07:13:03 +0000</pubDate>
+      
+      <guid>/2014/09/09/factorizacion-de-enteros-con-grid/</guid>
+      <description>Vi esto y me dije: yo también quiero. Así que dicho y hecho:
+
+Por si acaso, cada diagrama representa la descomposición en números primos de un número del 1 al 100.
+El código (que no he adecentado lo que suelo) es un pequeño ejercicio con el paquete grid y unos elementos de recursividad (como en Grid, Scala y arbolitos fractales):
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/graphics/grid&amp;quot;&amp;gt;grid) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/gmp&amp;quot;&amp;gt;gmp) plot.factors &amp;lt;- function(n, new.plot = TRUE){ if(new.</description>
+    </item>
+    
+    <item>
+      <title>Facetas para entender, tal vez, la evolución del paro</title>
+      <link>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</link>
+      <pubDate>Thu, 17 Jul 2014 07:13:54 +0000</pubDate>
+      
+      <guid>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</guid>
+      <description>La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas URLs que tienen pinta de cambiar con cualquier soplo (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los datos a día de hoy.
+También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena y o mala.</description>
+    </item>
+    
+    <item>
+      <title>¿Fascinados por las cosas circulares?</title>
+      <link>/2014/07/14/fascinados-por-las-cosas-circulares/</link>
+      <pubDate>Mon, 14 Jul 2014 07:13:26 +0000</pubDate>
+      
+      <guid>/2014/07/14/fascinados-por-las-cosas-circulares/</guid>
+      <description>Llevo un tiempo prestando especial atención a los gráficos circulares. Y no me refiero a los innombrables. Hablo más bien de otros como
+
+extraído de aquí o
+
+que encontré acá.
+¿Realmente aporta algo el uso de coordenadas polares? ¿Por qué nos fascinan? ¿Por qué nos resultan tan naturales y familiares? Más aún, ¿abusamos de ellos? ¿Existen alternativas cartesianas más eficaces?
+Vengo, como digo, prestando atención a los gráficos circulares y planteándome esas preguntas después de leer Our Irresistible Fascination with All Things Circular.</description>
+    </item>
+    
+    <item>
+      <title>plot.ly: visualización de datos multilenguaje</title>
+      <link>/2014/05/23/plot-ly-visualizacion-de-datos-multilenguaje/</link>
+      <pubDate>Fri, 23 May 2014 07:16:16 +0000</pubDate>
+      
+      <guid>/2014/05/23/plot-ly-visualizacion-de-datos-multilenguaje/</guid>
+      <description>He recibido hoy un correo sobre plot.ly, que es, según sus autores, una herramienta colaborativa para en análisis y la visualización de datos. Gustará seguramente a los interesados en las APIs: en el fondo, el software reside en la nube.
+Permite, por ejemplo, [integrar gráficos interactivos en IPython](http://nbviewer.ipython.org/gist/msund/61cdbd5b22c103fffb84). Aunque no he visto ejemplos de cómo integrarlo con [knitr](http://yihui.name/knitr/). A ver si saco algo de tiempo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>45º</title>
+      <link>/2014/05/19/45o/</link>
+      <pubDate>Mon, 19 May 2014 07:03:46 +0000</pubDate>
+      
+      <guid>/2014/05/19/45o/</guid>
+      <description>Llevaba unas semanas sorprendido: en el trabajo alguien hubía imprimido y olvidado recoger An Empirical Model of Slope Ratio Comparisons. Durante un tiempo pensé que podía haber sido sido yo. Implausible, en todo caso: siempre imprimo sobre papel reciclado y en escala de grises; nunca, como este artículo, a todo color (aunque no tiene mucho) y sobre papel sin estrenar (aunque, eso sí, a doble cara).
+Estaba intrigado. Quería saber a quién de la oficina le podía interesar la diferencia entre los dos siguientes gráficos:</description>
+    </item>
+    
+    <item>
+      <title>Imágenes y magia</title>
+      <link>/2014/05/16/imagenes-y-magia/</link>
+      <pubDate>Fri, 16 May 2014 07:14:27 +0000</pubDate>
+      
+      <guid>/2014/05/16/imagenes-y-magia/</guid>
+      <description>No sé si imagen y magia comparten la misma raíz. Lo que me consta es que la gente que procesa imágenes hace algo que me parece casi mágico. De mayor quiero ser como ellos.
+Traigo aquí un ejemplo sobre técnicas para completar imágenes:
+
+El artículo completo, Scene Completion Using Millions of Photographs, y mucho material auxiliar puede revisarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Visual Explanations&#34; de Tufte: el primer gráfico estadístico</title>
+      <link>/2014/05/13/visual-explanations-de-tufte-el-primer-grafico-estadistico/</link>
+      <pubDate>Tue, 13 May 2014 07:33:38 +0000</pubDate>
+      
+      <guid>/2014/05/13/visual-explanations-de-tufte-el-primer-grafico-estadistico/</guid>
+      <description>Aprovecho los tiempos muertos de aviones y aeropuertos para ir leyendo esos libritos de Tufte que, no sé de qué manera, acabaron apareciendo como pedeefes en mi tableta. El otro día hablé de y resumí Beautiful Evidence. Esta vez le toca el turno a Visual Explanations.
+Según el autor, este libro —y a diferencia de otros de los suyos, que se centran en números o sustantivos— trata la representación gráfica de verbos: acciones, procesos, secuencias efecto-causa.</description>
+    </item>
+    
+    <item>
+      <title>Grid, Scala y arbolitos fractales</title>
+      <link>/2014/05/12/grid-scala-y-arbolitos/</link>
+      <pubDate>Mon, 12 May 2014 07:39:06 +0000</pubDate>
+      
+      <guid>/2014/05/12/grid-scala-y-arbolitos/</guid>
+      <description>Inspirado por
+ * los arbolitos que he visto esta mañana en mi semivuelta al lago de Zúrich, * las cosas que estoy leyendo últimamente sobre el paquete grid de R (p.e., [_grid graphics_](http://stat.ethz.ch/R-manual/R-devel/library/grid/doc/grid.pdf), de Murrell) * mi curso de scala y * [este enlace](http://aschinchon.wordpress.com/2014/04/10/the-pythagorean-tree-is-in-bloom/)  me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurriría a un neoingeniero al que solo le han enseñado MatLab y que, por lo tanto, tiene vetado el acceso a cualquier tipo de empresa tecnológica puntera).</description>
+    </item>
+    
+    <item>
+      <title>Tres criterios para evaluar gráficos</title>
+      <link>/2014/05/08/tres-criterios-para-evaluar-graficos/</link>
+      <pubDate>Thu, 08 May 2014 07:44:30 +0000</pubDate>
+      
+      <guid>/2014/05/08/tres-criterios-para-evaluar-graficos/</guid>
+      <description>Tienes que evaluar un gráfico. Puede ser uno que estés haciendo. O uno que encuentres. ¿Es bueno? ¿Bajo qué criterios?
+Estas tres preguntas te ayudarán a guiar tu análisis:
+ * ¿Cuál es la pregunta a la que el gráfico trata de dar respuesta? * ¿Qué es lo que dicen los datos? * ¿Qué dice el gráfico?  Las preguntas, escritas en inglés y dispuestas en un triángulo, tienen este aspecto:</description>
+    </item>
+    
+    <item>
+      <title>Gráficos de mosaico: ¿sí o no?</title>
+      <link>/2014/05/07/graficos-de-mosaico-si-o-no/</link>
+      <pubDate>Wed, 07 May 2014 06:59:50 +0000</pubDate>
+      
+      <guid>/2014/05/07/graficos-de-mosaico-si-o-no/</guid>
+      <description>Los gráficos de mosaico son cosas parecidas a
+
+que sirven para representar tablas bidimensionales (como en el ejemplo anterior) o multidimensionales, como en 
+Hay más al respecto sobre este tipo de gráficos aquí.
+Personalmente, los utilizo bastante como herramienta exploratoria. En particular, usando Mondrian. Mondrian permite crear estos y otros tipos de gráficos similares (p.e., estos) de manera, además, interactiva.
+Me gustan porque permiten representar simultáneamente muchas variables. Pero tengo mis reservas: casi siempre me resultan difíciles de interpretar y también, mucho más, de explicar.</description>
+    </item>
+    
+    <item>
+      <title>Una de gráficos casi artísticos con R</title>
+      <link>/2014/04/25/una-de-graficos-casi-artisticos-con-r/</link>
+      <pubDate>Fri, 25 Apr 2014 07:38:35 +0000</pubDate>
+      
+      <guid>/2014/04/25/una-de-graficos-casi-artisticos-con-r/</guid>
+      <description>Hoy traigo una selección a cuatro páginas en que podréis encontrar gráficos casi artísticos creados con R. En la primera de ellas se construye el fractal de Collatz.
+En las dos siguientes, los autores construyen animaciones. Una de ellas para ilustrar el mecanismo de la regresión local y el segundo para crear figuras en 3D.
+
+Y el último, trata de mapas. En particular, de cómo sobreimponer sobre ellos datos de rutas.</description>
+    </item>
+    
+    <item>
+      <title>Graficaca en Gas Natural Fenosa</title>
+      <link>/2014/03/31/graficaca-en-gas-natural-fenosa/</link>
+      <pubDate>Mon, 31 Mar 2014 07:20:15 +0000</pubDate>
+      
+      <guid>/2014/03/31/graficaca-en-gas-natural-fenosa/</guid>
+      <description>Hoy he querido entrar a la página de Gas Natural Fenosa para echarles un vistazo a mis facturas y he encontrado el siguiente y magnífico ejemplar de graficaca:
+
+Es un compendio de todas las cosas que no hay que hacer para representar datos gráficamente. Lo más grave que tiene es que las barras no corresponden a meses sino a periodos de duración desigual e indefinida. No hay forma de ver una evolución ni de realizar una comparación.</description>
+    </item>
+    
+    <item>
+      <title>Mapas: cosas casi increíbles que pueden hacerse con R</title>
+      <link>/2014/03/27/mapas-cosas-casi-increibles-que-pueden-hacerse-con-r/</link>
+      <pubDate>Thu, 27 Mar 2014 07:23:26 +0000</pubDate>
+      
+      <guid>/2014/03/27/mapas-cosas-casi-increibles-que-pueden-hacerse-con-r/</guid>
+      <description>Nunca pude ser un erizo. Lo intenté durante años y acabé en el sicólogo. Si el cuerpo me hubiese dado, ahora, tal vez, como algunos compañeros de promoción, sería un experto en un área diminuta del conocimiento y corregiría exámenes los fines de semana. Descubrí con tiempo y muchas sesiones de a 60 euros la hora que había nacido para ser un zorro, un merodeador que olisquea aquí y allá.</description>
+    </item>
+    
+    <item>
+      <title>Series temporales, datos espaciales y espacio-temporales con R</title>
+      <link>/2014/03/19/series-temporales-datos-espaciales-y-espacio-temporales-con-r/</link>
+      <pubDate>Wed, 19 Mar 2014 07:59:05 +0000</pubDate>
+      
+      <guid>/2014/03/19/series-temporales-datos-espaciales-y-espacio-temporales-con-r/</guid>
+      <description>Acaba de publicarse Displaying Time Series, Spatial, and Space-Time Data with R, un libro de Óscar Perpiñán que, conociéndolo como lo conozco, me atrevo a recomendar sin haberlo hojeado siquiera.
+
+Además, Óscar nos ha regalado una guía sobre cómo escribir un libro técnico con Emacs y otras herramientas libres.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Beautiful evidence&#34;, de Tufte</title>
+      <link>/2014/03/11/beautiful-evidence-de-tufte/</link>
+      <pubDate>Tue, 11 Mar 2014 07:14:15 +0000</pubDate>
+      
+      <guid>/2014/03/11/beautiful-evidence-de-tufte/</guid>
+      <description>Acabo de leer Beautiful Evidence, el último de los libros de E. Tufte y voy a recoger aquí unas notas sobre él mismo. Espero que sirvan tanto a los interesados en el asunto como a mí mismo.
+El libro consta de nueve capítulos prácticamente independientes entre sí. Los dos últimos son perfectamente prescindibles: están a medio caballo entre el autobombo y el márqueting; parece que Tufte es también escultor y no pierde ocasión de darlo a conocer.</description>
+    </item>
+    
+    <item>
+      <title>Selección de enlaces: redes sociales, gráficos con R, ofertas de trabajo y p-valores</title>
+      <link>/2014/02/28/seleccion-de-enlaces-redes-sociales-graficos-con-r-ofertas-de-trabajo-y-p-valores/</link>
+      <pubDate>Fri, 28 Feb 2014 08:21:09 +0000</pubDate>
+      
+      <guid>/2014/02/28/seleccion-de-enlaces-redes-sociales-graficos-con-r-ofertas-de-trabajo-y-p-valores/</guid>
+      <description>Acá va otra selección de cuatro enlaces relevantes –que no necesariamente nuevos— de la semana. El primero, Using Metadata to find Paul Revere recoge a modo de historia, que algunos encontrarán amena, una aplicación de rudimentos del álgebra lineal al análisis de redes sociales. Dada una matriz de incidencia A (personas que pertenecen a clubes) es posible calcular índices de proximidad entre personas (o entre clubes) calculando no más AA&#39;. El resto hasta ganar el premio de Netflix es pura heurística.</description>
+    </item>
+    
+    <item>
+      <title>Diagramas de caja, 44 años después</title>
+      <link>/2014/01/07/diagramas-de-caja-44-anos-despues/</link>
+      <pubDate>Tue, 07 Jan 2014 07:47:04 +0000</pubDate>
+      
+      <guid>/2014/01/07/diagramas-de-caja-44-anos-despues/</guid>
+      <description>Efectivamente, 44 años después de que Tukey describiese su schematic plot, los diagramas de caja no han calado en el gran público. Dado que dichos diagramas son la representación más simple que se me ocurre de una distribución de probabilidad, me temo que es síntoma de un mal mayor: que no estamos preparados para aceptar que los fenómenos no están perfectamente parametrizados y sino sujetos a errores, oscilaciones, perturbaciones, errores e imprevistos.</description>
+    </item>
+    
+    <item>
+      <title>Muestreos aleatorios sobre la península Ibérica, por ejemplo</title>
+      <link>/2013/12/26/muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo/</link>
+      <pubDate>Thu, 26 Dec 2013 07:10:39 +0000</pubDate>
+      
+      <guid>/2013/12/26/muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo/</guid>
+      <description>El problema fue sugerido por Eloy Ortiz en un mensaje a r-help-es. Quería saber cómo muestrear aleatoriamente (i.e., uniformemente) puntos sobre una región de la superficie terrestre delimitada por su bounding box (i.e., las coordenadas que definen un rectángulo sobre la esfera).
+Obviamente, no vale con muestrear latitud y longitud uniformemente: el área comprendida entre dos meridianos cerca del ecuador es mayor que la comprendida entre otros dos más próximos al polo.</description>
+    </item>
+    
+    <item>
+      <title>Gradientes e ilusiones ópticas</title>
+      <link>/2013/12/09/gradientes-e-ilusiones-opticas/</link>
+      <pubDate>Mon, 09 Dec 2013 07:06:33 +0000</pubDate>
+      
+      <guid>/2013/12/09/gradientes-e-ilusiones-opticas/</guid>
+      <description>Hoy, mirando
+
+y tratando de comparar Uruguay y España no he podido dejar de acordarme de</description>
+    </item>
+    
+    <item>
+      <title>Óscar Perpiñán sobre gráficos base vs. lattice vs ggplot2</title>
+      <link>/2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/</link>
+      <pubDate>Fri, 29 Nov 2013 06:58:02 +0000</pubDate>
+      
+      <guid>/2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/</guid>
+      <description>Óscar Perpiñán es alguien a quien tenéis que conocer necesariamente si os interesan, entre otras cosas, temas como la visualización de datos espaciotemporales. Y tiene un blog muy recomendable.
+Recientemente me ha dado permiso para reproducir aquí una respuesta suya en un hilo planteado en r-help-es sobre los distintos mecanismos existentes en R para generar gráficos. Lo hago a continuación con mínimos retoques tipográficos:
+La ventaja esencial de los gráficos grid (lattice y ggplot2) frente a los gráficos base es su mayor flexibilidad para añadir o modificar el contenido.</description>
+    </item>
+    
+    <item>
+      <title>¿Dónde van los ejes?</title>
+      <link>/2013/11/28/donde-van-los-ejes/</link>
+      <pubDate>Thu, 28 Nov 2013 07:49:05 +0000</pubDate>
+      
+      <guid>/2013/11/28/donde-van-los-ejes/</guid>
+      <description>Buscando una versión pirata del libro Show Me the Numbers de Stephen Few di con un curso homónimo del mismo del que rescato y aprovecho para divulgar la respuesta a una pregunta que no me había planteado antes: ¿dónde van los ejes?
+Y la respuesta, sin palabras:</description>
+    </item>
+    
+    <item>
+      <title>Curso de mapas en línea para principiantes</title>
+      <link>/2013/11/14/curso-de-mapas-en-linea-para-principiantes/</link>
+      <pubDate>Thu, 14 Nov 2013 11:43:43 +0000</pubDate>
+      
+      <guid>/2013/11/14/curso-de-mapas-en-linea-para-principiantes/</guid>
+      <description>Cuando me preguntan por Vizzuality siempre digo lo mismo: juegan en otra liga. Y no, no me han pagado jamás una cena. Solo los he seguido por las redes sociales, me los he tropezado en charlas, etc. Y se nota.
+Aparte de servicios, han creado productos. Y uno de los más conocidos (y útiles) es CartoDB para la creación de mapas en línea. Tiene como motor PostGIS y Vizzuality le ha añadido capas adicionales para la representación de mapas e información sobre ellos.</description>
+    </item>
+    
+    <item>
+      <title>Importancia de variables en árboles</title>
+      <link>/2013/11/06/importancia-de-variables-en-arboles/</link>
+      <pubDate>Wed, 06 Nov 2013 07:49:59 +0000</pubDate>
+      
+      <guid>/2013/11/06/importancia-de-variables-en-arboles/</guid>
+      <description>Los árboles (o árboles de inferencia condicional) valen fundamentalmente para hacerse una idea de cómo y en qué grado opera una variable en un modelo controlando por el efecto del resto. Su valor reside fundamentalmente en la interpretabilidad.
+No obstante lo cual, no es infrecuente construir árboles muy grandes. Y el tamaño dificulta censar qué variables y en qué manera aparecen. Por eso me vi obligado recientemente a crear un pequeño prototipo para extraer el peso de las variables de un árbol.</description>
+    </item>
+    
+    <item>
+      <title>Contando hexágonos en paralelo</title>
+      <link>/2013/10/28/contando-hexagonos-en-paralelo/</link>
+      <pubDate>Mon, 28 Oct 2013 07:51:25 +0000</pubDate>
+      
+      <guid>/2013/10/28/contando-hexagonos-en-paralelo/</guid>
+      <description>Dicen que para realizar gráficos de dispersión con muchos datos no es desaconsejable usar celosías hexagonales. Por motivos que no vienen al caso, me interesa poder realizarlas en paralelo.
+El código disponible en R (hexBinning de fMultivar o el de geom_hex de ggplot2) es feo, ininteligible y, en particular, no es paralelizable (o mapreducible). No lo es porque cada hilo, por diseño del algoritmo, crea hexágonos excéntricos.
+Así que he desarrollado un algoritmo para crear celosías hexagonales paralelizable.</description>
+    </item>
+    
+    <item>
+      <title>¿Dónde deberían comenzar los ejes?</title>
+      <link>/2013/09/05/donde-deberian-comenzar-los-ejes/</link>
+      <pubDate>Thu, 05 Sep 2013 07:20:30 +0000</pubDate>
+      
+      <guid>/2013/09/05/donde-deberian-comenzar-los-ejes/</guid>
+      <description>Protesta eldiario.es esta imagen capturada de un informativo de TVE:
+
+El motivo es el habitual debate sobre los ejes truncados (que, todoy hay que decirlo, usan tirios para escándalo de troyanos y, luego, troyanos para escándalo de tirios).
+Propone eldiario.es y dibuja Belén Picazo este artefacto alternativo:
+
+Y uno se pregunta: ¿así deberían hacerse las cosas? Por ejemplo, el mismo día en que TVE publicó eso (y el anterior, y el suguiente), en otro medio aparecía este otro gráfico:</description>
+    </item>
+    
+    <item>
+      <title>Una revisita a &#34;El arte funcional&#34;</title>
+      <link>/2013/08/29/una-revisita-a-el-arte-funcional/</link>
+      <pubDate>Thu, 29 Aug 2013 07:47:26 +0000</pubDate>
+      
+      <guid>/2013/08/29/una-revisita-a-el-arte-funcional/</guid>
+      <description>Hace casi precisamente un año escribí sobre El Arte Funcional, un libro muy recomendable de Alberto Cairo.
+Hice una crítica sobre una de las secciones del libro:
+Al final, si unas determinadas combinaciones de colores funcionan o dejan de hacerlo, si los datos se leen correctamente si se los representa como longitudes, áreas o volúmenes, depende de las peculiaridades del proceso de cognición. Y por eso acierta Cairo en estudiarlo con detalle.</description>
+    </item>
+    
+    <item>
+      <title>El carajal de las representaciones gráficas de &#34;redes sociales&#34;</title>
+      <link>/2013/08/22/el-carajal-de-las-representaciones-graficas-de-redes-sociales/</link>
+      <pubDate>Thu, 22 Aug 2013 07:10:15 +0000</pubDate>
+      
+      <guid>/2013/08/22/el-carajal-de-las-representaciones-graficas-de-redes-sociales/</guid>
+      <description>Seamos honestos: en representaciones gráficas de grafos similares a
+
+no vemos/entendemos un carajo. Al menos yo.
+Es cierto que de vez en cuando los fabrico. Y que aquellos a quienes se los enseño con la cara muy seria, asienten (o, incluso aplauden) por algún motivo. Sospecho que porque piensan que el emperador está vestido (y no en porretas, como parece que les da pudor reconocer).
+Afortunadamente, hay quienes han asumido el problema (de la falta de interpretabilidad, consecuencia del exceso de información irrelevante de ese tipo de representaciones) y están proponiendo soluciones.</description>
+    </item>
+    
+    <item>
+      <title>Mapas, mapas, mapas... ¿y?</title>
+      <link>/2013/08/16/mapas-mapas-mapas-y/</link>
+      <pubDate>Fri, 16 Aug 2013 07:10:15 +0000</pubDate>
+      
+      <guid>/2013/08/16/mapas-mapas-mapas-y/</guid>
+      <description>No paro de decir para mis adentros &amp;ldquo;¿y?&amp;rdquo; según hojeo el recién publicado Atlas de mortalidad en municipios y unidades censales de España.
+En el prefacio del estudio se lee:
+Pues no, no encuentro reflejos de construcciones sociales. Lo que encuentro son áreas administrativas. Las construcciones sociales que ocurren dentro de dichas áreas administrativas brillan, si acaso, por su ausencia.
+Más adelante, en la introducción el estudio dice:
+Y yo no me lo creo porque me asomo a la ventana, veo quién vive encima, debajo, tabique con tabique, etc.</description>
+    </item>
+    
+    <item>
+      <title>Teruel, Orense, Palencia... y adenoidectomías</title>
+      <link>/2013/06/14/teruel-orense-palencia-y-adenoidectomias/</link>
+      <pubDate>Fri, 14 Jun 2013 07:17:37 +0000</pubDate>
+      
+      <guid>/2013/06/14/teruel-orense-palencia-y-adenoidectomias/</guid>
+      <description>Quien haya recorrido Teruel, Orense, Palencia, la zona de Almadén y otras partes del interior de España abandonadas a su suerte desde hace siglos no habrá visto demasiado crío. Me acabo de enterar que a lo que se conoce como operar de vegetaciones recibe el nombre de adenoidectomía. Y he visto el mapa
+
+en Nada es Gratis.
+Me ha dado por pensar si los autores (del gráfico) estuvieron atentos a mi bitácora cuando escribí esto.</description>
+    </item>
+    
+    <item>
+      <title>La cosa más friqui que he visto en...</title>
+      <link>/2013/06/13/la-cosa-mas-friqui-que-he-visto-en/</link>
+      <pubDate>Thu, 13 Jun 2013 07:00:19 +0000</pubDate>
+      
+      <guid>/2013/06/13/la-cosa-mas-friqui-que-he-visto-en/</guid>
+      <description>Es la cosa más friqui que he visto en tiempos. &amp;ldquo;Esto va intravenoso al blog&amp;rdquo;, me he dicho. Es esto.
+Se trata de un paquete de R de Emilio Torres Manzanera con el que se pueden construir gráficos como
+
+al más puro estilo xkcd. Para probarlo,
+library(xkcd) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/vignette&amp;quot;&amp;gt;vignette(“xkcd-intro”)  ¡Disfrutad!</description>
+    </item>
+    
+    <item>
+      <title>Mapa de los terremotos en la península ibérica</title>
+      <link>/2013/04/08/mapa-de-los-terremotos-en-la-peninsula-iberica/</link>
+      <pubDate>Mon, 08 Apr 2013 07:27:21 +0000</pubDate>
+      
+      <guid>/2013/04/08/mapa-de-los-terremotos-en-la-peninsula-iberica/</guid>
+      <description>Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese tantos terremotos (aunque mis amigos chilenos los llamarían de otra manera).
+En esta entrada voy a mostrar el siguiente mapa de actividad sísmica durante los últimos años,
+
+que he construido con el siguiente código en R:
+library(ggmap) url &amp;lt;- &amp;quot;http://comcat.cr.usgs.gov/earthquakes/feed/search.php?maxEventLatitude=45&amp;amp;minEventLatitude=35&amp;amp;minEventLongitude=-10&amp;amp;maxEventLongitude=5&amp;amp;minEventTime=953683200000&amp;amp;maxEventTime=1364688000000&amp;amp;minEventMagnitude=-1.0&amp;amp;maxEventMagnitude=10&amp;amp;minEventDepth=0.0&amp;amp;maxEventDepth=800.0&amp;amp;format=csv&amp;quot; terremotos &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/read.csv&amp;quot;&amp;gt;read.csv(url) # obtengo un mapa pen.iber &amp;lt;- get_map( location = c(-9.5, 36, 3.5, 44), color = &amp;quot;color&amp;quot;, maptype = &amp;quot;roadmap&amp;quot;) # le añado puntos ggmap(pen.</description>
+    </item>
+    
+    <item>
+      <title>Mapas, ¿realmente necesarios?</title>
+      <link>/2013/03/19/mapas-realmente-necesarios/</link>
+      <pubDate>Tue, 19 Mar 2013 07:56:22 +0000</pubDate>
+      
+      <guid>/2013/03/19/mapas-realmente-necesarios/</guid>
+      <description>Creo que no. Lo reitero a cuenta de la entrada Sencillo, espectacular, falso de malaprensa.com, en que se critica el gráfico
+
+aparecido en El Confidencial.
+Estoy de acuerdo con Josu Mezo en que es una chapuza. Pero discrepo con él en el diagnóstico. Creo que el problema no es tanto que no se estén representando las áreas proporcionalmente al fenómeno que se mide —y es ocioso reiterar aquí la discusión sobre cómo el ojo percibe o deja de percibir la proporcionalidad de áreas (o volúmenes) y las magnitudes que se intenta representar con ellas— como ese afán por pintarlo todo sobre un mapa.</description>
+    </item>
+    
+    <item>
+      <title>ggmap: mapas con R</title>
+      <link>/2013/03/05/ggmap-mapas-con-r/</link>
+      <pubDate>Tue, 05 Mar 2013 11:09:53 +0000</pubDate>
+      
+      <guid>/2013/03/05/ggmap-mapas-con-r/</guid>
+      <description>Me mandó Alberto González Paje código para representar información en mapas usando R que hoy he dejado en su mínima expresión para que los lectores de esta bitácora puedan extender para crear sus propios mapas.
+Es el siguiente:
+library(ggmap) # ubico mi alma mater unizar &amp;lt;- geocode(&#39;Universidad de Zaragoza, Zaragoza, España&#39;) # obtengo un mapa map.unizar &amp;lt;- get_map( location = as.numeric(unizar), color = &amp;quot;color&amp;quot;, maptype = &amp;quot;roadmap&amp;quot;, scale = 2, zoom = 16) # lo represento ggmap(map.</description>
+    </item>
+    
+    <item>
+      <title>Addenda: ¿qué ha pasado en el Ibex durante el último mes? </title>
+      <link>/2013/02/28/addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</link>
+      <pubDate>Thu, 28 Feb 2013 07:03:53 +0000</pubDate>
+      
+      <guid>/2013/02/28/addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</guid>
+      <description>Abundando en el tema de ayer, ahora, los mismos datos representados con mapas de calor:
+
+Para obtenerlo, a lo que ya teníamos basta añadirle:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/gplots&amp;quot;&amp;gt;gplots) heatmap.2(as.matrix(ibex.scaled), Rowv=F, Colv=T, key=F, trace=&amp;quot;none&amp;quot;, col=redgreen, xlab=&amp;quot;valor&amp;quot;, ylab=&amp;quot;&amp;quot;, margins=c(5,10))  </description>
+    </item>
+    
+    <item>
+      <title>¿Qué ha pasado en el Ibex durante el último mes?</title>
+      <link>/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</link>
+      <pubDate>Wed, 27 Feb 2013 07:07:38 +0000</pubDate>
+      
+      <guid>/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</guid>
+      <description>Pues esencialmente esto:
+
+Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros dos grupos han tenido una evolución en U y ha recuperado, con creces incluso, el valor que tenían hace un mes.
+Y, como siempre, el código:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/tseries&amp;quot;&amp;gt;tseries) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/zoo&amp;quot;&amp;gt;zoo) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) library(reshape) library(ggplot2) foo &amp;lt;- function( simbolo, final = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/Sys.time&amp;quot;&amp;gt;Sys.time(), profundidad = 30 * 24 * 3600 ){ precios &amp;lt;- get.</description>
+    </item>
+    
+    <item>
+      <title>Arte con R: tres enlaces</title>
+      <link>/2013/01/11/arte-con-r-tres-enlaces/</link>
+      <pubDate>Fri, 11 Jan 2013 07:20:25 +0000</pubDate>
+      
+      <guid>/2013/01/11/arte-con-r-tres-enlaces/</guid>
+      <description>Traigo hoy a mi bitácora tres enlaces sobre la creación de artefactos gráficos con R.
+En el primero (¡en japonés!) puede uno aprender a construir cosas como
+
+El segundo reproduce con R la siguiente obra de Bridget Riley:
+
+Y el tercero es una elaboración sobre el anterior que permite generar gráficos tales como</description>
+    </item>
+    
+    <item>
+      <title>El Ibex 35 al estilo GapMinder</title>
+      <link>/2013/01/09/el-ibex-35-estilo-gapminder/</link>
+      <pubDate>Wed, 09 Jan 2013 07:07:31 +0000</pubDate>
+      
+      <guid>/2013/01/09/el-ibex-35-estilo-gapminder/</guid>
+      <description>Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al estilo GapMinder. En concreto, usando un MotionChart de Google.
+Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) simbolos &amp;lt;- readHTMLTable(htmlParse(&amp;quot;http://finance.yahoo.com/q/cp?s=%5EIBEX+Components&amp;quot;)) simbolos &amp;lt;- as.character(simbolos[[9]]$Symbol) simbolos &amp;lt;- gsub(&amp;quot;-P&amp;quot;, &amp;quot;&amp;quot;, simbolos)  Luego, creo una pequeña función y se la aplico a cada símbolo:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/tseries&amp;quot;&amp;gt;tseries) foo &amp;lt;- function( simbolo, final = &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>Sanidad pública, sanidad privada </title>
+      <link>/2013/01/04/sanidad-publica-sanidad-privada/</link>
+      <pubDate>Fri, 04 Jan 2013 07:25:59 +0000</pubDate>
+      
+      <guid>/2013/01/04/sanidad-publica-sanidad-privada/</guid>
+      <description>Lo siento. El título es engañoso. No voy a abundar en el tema de modelo sanitario. Aunque esté de moda. Traje a este debate ideas preconcebidas que se me han ido pegando durante años de andar sobre la faz de la tierra. Y mis esfuerzos me ha costado desprenderme cartesianamente de ellas para quedarme a la espera de que alguien me ilumine de manera clara y distinta. Solo sospecho que la respuesta no puede resumirse en un monosílabo, que es mixta y con ejércitos de demonios camuflados tras los detalles.</description>
+    </item>
+    
+    <item>
+      <title>Como no tengo tiempo, os pongo un biplot y me lo explicáis vosotros</title>
+      <link>/2012/11/16/como-no-tengo-tiempo-os-pongo-un-biplot-y-me-lo-explicais-vosotros/</link>
+      <pubDate>Fri, 16 Nov 2012 07:09:58 +0000</pubDate>
+      
+      <guid>/2012/11/16/como-no-tengo-tiempo-os-pongo-un-biplot-y-me-lo-explicais-vosotros/</guid>
+      <description>Estoy con la maleta al hombro y sin tiempo. Así que os cuelgo este biplot
+
+que está basado en las principales partidas de los presupuestos generales del estado (español) durante los años 2008-2011 y si tenéis un rato, en los comentarios, os dejo que expliquéis qué puede significar.</description>
+    </item>
+    
+    <item>
+      <title>No es país para &#34;biplots&#34;</title>
+      <link>/2012/11/12/no-es-pais-para-biplots/</link>
+      <pubDate>Mon, 12 Nov 2012 07:34:13 +0000</pubDate>
+      
+      <guid>/2012/11/12/no-es-pais-para-biplots/</guid>
+      <description>No, parece que aún no estamos preparados para los biplots. En el curso Introduction to Infographics and Data Visualization de Alberto Cairo, nos pidieron sugierir mejoras y alternativas a este gráfico:
+
+En el curso aparecieron sugerencias tales como esta,
+
+esta, y otras similares que jugaban con los elementos gráficos habituales con más o menos arte, mejor o peor gusto en los colores, etc.
+A mí se me ocurrió que los datos que aparecen en el gráfico original podía, con alguna salvedad y abusando del lenguaje, considerarse una especie de tabla de contingencia que incluía el número de personas que en cada país hacen uso de distintos tipos de servicios de internet.</description>
+    </item>
+    
+    <item>
+      <title>Veinte herramientas de visualización</title>
+      <link>/2012/10/24/veinte-herramientas-de-visualizacion/</link>
+      <pubDate>Wed, 24 Oct 2012 07:54:41 +0000</pubDate>
+      
+      <guid>/2012/10/24/veinte-herramientas-de-visualizacion/</guid>
+      <description>Este es un listado de 20 herramientas de visualización que he extraído de aquí. Están divididas en varios grupos:
+ * Básicas: Excel y, extrañamente, CSV y JSON (que aun sin ser herramientas de visualización, son formatos usuales para el intercambio de información usados por ellas). * Visualización en línea: * [Google Chart API](https://developers.google.com/chart/) * [Flot](http://www.flotcharts.org/), [Raphaël](http://raphaeljs.com/) y [D3](http://d3js.org/), librerías de JavaScript. * [visual.ly](http://visual.ly/), que sirve para crear esas configuraciones rectangulares de números y símbolos no siempre útiles que algunos llaman infografías.</description>
+    </item>
+    
+    <item>
+      <title>Algunos gráficos de información bursátil</title>
+      <link>/2012/10/18/algunos-graficos-de-informacion-bursatil/</link>
+      <pubDate>Thu, 18 Oct 2012 07:07:41 +0000</pubDate>
+      
+      <guid>/2012/10/18/algunos-graficos-de-informacion-bursatil/</guid>
+      <description>Hoy voy a presentar algunos gráficos de información bursátil adaptados a partir de código de Eric Zivot, el instructor del curso Introduction to Computational Finance and Financial Econometrics que estoy siguiendo (un poco como puta por rastrojo: siempre me las arreglo para resolver los ejercicios en el último minuto y antes de haber revisado la teoría) en Coursera.
+Por si pueden servir de algo a otros, los reproduzco y comento aquí.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos en R a la xkcd</title>
+      <link>/2012/10/10/graficos-en-r-a-la-xkcd/</link>
+      <pubDate>Wed, 10 Oct 2012 07:08:20 +0000</pubDate>
+      
+      <guid>/2012/10/10/graficos-en-r-a-la-xkcd/</guid>
+      <description>Esto fue un reto en toda regla: un megafriqui publicó código en LaTeX para reproducir en dicho entorno gráficos como los que aparecen en xkcd.com, es decir, del tipo de
+
+con el siguiente resultado:
+
+La respuesta por parte de la comunidad de usuarios de R, obviamente, no podía demorarse. Y es
+
+El código puede encontrarse aquí. Y más información sobre el asunto, recomiendo este otro enlace.</description>
+    </item>
+    
+    <item>
+      <title>El arte funcional: una revisión personal</title>
+      <link>/2012/09/12/el-arte-funcional-una-revision-personal/</link>
+      <pubDate>Wed, 12 Sep 2012 07:02:09 +0000</pubDate>
+      
+      <guid>/2012/09/12/el-arte-funcional-una-revision-personal/</guid>
+      <description>Leí El arte funcional de Alberto Cairo y he aquí finalmente mi visión, muy personal, sobre el libro.
+Confiesa su autor ser un curioso, excesivamente curioso en ocasiones, en las primeras páginas del libro. Yo también lo soy. Y todos los que compartan con nosotros este vicio encontrarán en el libro una pequeña joya: historia, sicología, fisiología, cartografía y muchas otras disciplinas aparentemente dispares que informan el campo de la visualización de datos se dan cita en sus 250 páginas.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Gráficos estadísticos y mapas con R&#34;, un análisis</title>
+      <link>/2012/09/10/graficos-estadisticos-y-mapas-con-r-un-analisis/</link>
+      <pubDate>Mon, 10 Sep 2012 06:44:37 +0000</pubDate>
+      
+      <guid>/2012/09/10/graficos-estadisticos-y-mapas-con-r-un-analisis/</guid>
+      <description>Me dispongo hoy a analizar el libro Gráficos estadísticos y mapas con R que anuncié hace unos días, aun sin haber tenido oportunidad de hojearlo.
+Es un libro relativamente extenso, de casi cuatrocientas páginas a todo color. Y es poco perdonable que una editorial técnica como Díaz de Santos haya permitido que el código que aparece en el libro esté en Times New Roman. Pero bueno.
+La estructura general del libro tiene forma de recetario: cómo hacer para construir un determinado tipo de gráfico.</description>
+    </item>
+    
+    <item>
+      <title>Los principales problemas de España</title>
+      <link>/2012/09/05/los-principales-problemas-de-espana/</link>
+      <pubDate>Wed, 05 Sep 2012 06:38:07 +0000</pubDate>
+      
+      <guid>/2012/09/05/los-principales-problemas-de-espana/</guid>
+      <description>Llevo unos días mostrando bastante poca diligencia en lo que a mi bitácora concierne. El calor con el que agosto ha maltratado los montes también ha contribuido a disipar mis ideas. También a enflaquecer la ya de por sí no muy robusta voluntad.
+Y como todavía no ando recuperdo del todo, voy a aprovechar el estupendo trabajo previo de Gregorio Serrano (y véase también este otro relacionado con el anterior) para facilitar a mis lectores una tarea en la que como ciudadanos probos es probable que estén interesados y que, tal vez sin mi concurso, resultaría excesivamente enojosa.</description>
+    </item>
+    
+    <item>
+      <title>Incendios en España</title>
+      <link>/2012/08/14/incendios-en-espana/</link>
+      <pubDate>Tue, 14 Aug 2012 07:03:50 +0000</pubDate>
+      
+      <guid>/2012/08/14/incendios-en-espana/</guid>
+      <description>Quienes siguen de antiguo estas páginas recordarán que ya me ocupé de la cuestión de los incendios forestales hace un tiempo. Después han pasado cosas.
+Por un lado, vía Alberto González Paje di con esta página, que utiliza datos del informe estadístico que publica el Ministerio de Medio Ambiente (y de otras cosas más, según la legislatura en cuestión).
+También asistí hace un tiempo a una reunión de MediaLab Prado en la que Juan Elosúa nos contó cómo había conseguido acceso a la base de datos completa de incendios del Ministerio a fuerza de insistir y amparado por ciertas normas que garantizan el derecho de los ciudadanos a cualquier tipo de información de tipo medioambiental.</description>
+    </item>
+    
+    <item>
+      <title>El arte funcional</title>
+      <link>/2012/08/08/el-arte-funcional/</link>
+      <pubDate>Wed, 08 Aug 2012 06:47:15 +0000</pubDate>
+      
+      <guid>/2012/08/08/el-arte-funcional/</guid>
+      <description>Hoy no voy a escribir una entrada propiamente porque me acabo de comprar El arte funcional y voy a estar entretenido devorándolo estos días. 
+Eso sí, ya tengo anotada en la primera línea de la página 18 una errata que aún no aparece en la lista que de ellas mantiene el autor, Alberto Cairo: se refiere al índice de Gini como índice de GINI, como si este no recibiese su nombre del estadístico italiano Corrado Gini y se tratase de las siglas de alguna cosa.</description>
+    </item>
+    
+    <item>
+      <title>SAS, R, grandes datos y falta de afabilidad</title>
+      <link>/2012/08/07/sas-r-grandes-datos-y-falta-de-afabilidad/</link>
+      <pubDate>Tue, 07 Aug 2012 07:18:58 +0000</pubDate>
+      
+      <guid>/2012/08/07/sas-r-grandes-datos-y-falta-de-afabilidad/</guid>
+      <description>El otro día hice un comentario a esta entrada de una bitácora de SAS. Esencialmente, decía dos cosas:
+ * Que 10000 observaciones no hacen grandes datos (_big data_); 10000 observaciones son muy pocas observaciones. * Que el código original, la idea de la entrada, etc., proceden de [este otro enlace](http://yihui.name/en/2008/09/to-see-a-circle-in-a-pile-of-sand/) de una página de [Yihui Xie](http://yihui.name/) (conocido por ser el autor de [`knitr`](http://yihui.name/knitr/)) en la que el problema se planteaba y resolvía con R.</description>
+    </item>
+    
+    <item>
+      <title>Graficaca 2.0</title>
+      <link>/2012/07/25/graficaca-2-0/</link>
+      <pubDate>Wed, 25 Jul 2012 07:53:39 +0000</pubDate>
+      
+      <guid>/2012/07/25/graficaca-2-0/</guid>
+      <description>Hace casi veinte años, cuando tomaba mis lecciones de conducción, el profesor de la autoescuela —a la sazón, mi tío— pronunció una frase que aún me persigue. Todavía hoy, casi veinte años después, me ocurre que, inopinadamente, me abstraigo del mundo y la pondero. Y sigo sin saber por dónde agarrarla. Lo que aquel día dijo mi tío tras levantar la cabeza del Marca (y mientras yo me afanaba por aparcar en batería en un costado de la ciudad universitaria de Zaragoza) fue lo siguiente: &amp;ldquo;La quinta del Buitre le ha hecho tanto bien como mal al Real Madrid&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Deshaucios en España y su estructura geográfica</title>
+      <link>/2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/</link>
+      <pubDate>Fri, 20 Jul 2012 07:10:45 +0000</pubDate>
+      
+      <guid>/2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/</guid>
+      <description>Participo (de manera muy pasiva) en un foro de periodismo de datos de Barcelona. En él se planteó la posibilidad de desarrollar un proyecto para recopilar información sobre deshaucios y entender mejor este fenómeno.
+La iniciativa partió de Carlos Alonso, Concha Catalán y Karma Peiró y, recientemente, Alberto Gonzalez Paje ha cruzado varias bases de datos (como esta, la de la población por provincias del INE, etc.) para crear el material con el que he construido el siguiente gráfico:</description>
+    </item>
+    
+    <item>
+      <title>El paro, ¿cosa de hombres?</title>
+      <link>/2012/07/16/el-paro-cosa-de-hombres/</link>
+      <pubDate>Mon, 16 Jul 2012 07:52:33 +0000</pubDate>
+      
+      <guid>/2012/07/16/el-paro-cosa-de-hombres/</guid>
+      <description>Está de moda hablar de paro. Pero las discusiones al respecto adolecen de una serie de carencias:
+ * Son excesivamente retrospectivas: nos aburren con la serie temporal, lo que pasó en 2003, en 1995 y otras fechas ya amortizadas. * Tienen un sesgo administrativo: honestamente, lo que pase en Andalucía importa (o debería importar) poco a un andaluz que acaba de graduarse y busca su primer empleo. Además de que existen opciones fuera de las distintas comunidades autónomas, no hay un mercado de trabajo sino cientos de mercados de trabajo estancos dentro de cada una de ellas.</description>
+    </item>
+    
+    <item>
+      <title>Edad, nivel de formación, sexo y paro</title>
+      <link>/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/</link>
+      <pubDate>Thu, 12 Jul 2012 07:05:42 +0000</pubDate>
+      
+      <guid>/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/</guid>
+      <description>No sé si alguien podrá ayudarme con este gráfico que he hecho con Mondrian:
+
+Está construido a partir de los microdatos de la última EPA e indica el porcentaje de parados (resaltado en verde) dentro de las siguientes tres categorías:
+ * Tramos de edad (ordenados) * Nivel de estudios (desde los que no han completado la primaria hasta los universitarios) * Sexos  Desafortunadamente, he perdido las etiquetas. ¿Podría alguno de mis lectores ayudarme a identificar a qué categoría pertenece cada barra?</description>
+    </item>
+    
+    <item>
+      <title>Otra oxímoron: notarios y estadísticas</title>
+      <link>/2012/07/11/otra-oximoron-notarios-y-estadisticas/</link>
+      <pubDate>Wed, 11 Jul 2012 06:48:55 +0000</pubDate>
+      
+      <guid>/2012/07/11/otra-oximoron-notarios-y-estadisticas/</guid>
+      <description>El otro día fui al notario. Una notaría es un sitio lleno de papelotes. Decía yo: &amp;ldquo;todos los legajos de ese estante caben en mi pendrive&amp;rdquo;. Y me hacían chistar por si mis palabras podían llegar a oídos susceptibles. Luego, por unos papeles (por triplicado y todos con grandes sellos y rúbricas) impresos a partir de plantillas de Word en cuyas casillas teclea un administrativo tus apellidos, te sacan 120 euros.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos estadísticos y mapas con R</title>
+      <link>/2012/07/02/graficos-estadisticos-y-mapas-con-r/</link>
+      <pubDate>Mon, 02 Jul 2012 06:55:03 +0000</pubDate>
+      
+      <guid>/2012/07/02/graficos-estadisticos-y-mapas-con-r/</guid>
+      <description>Me ha llegado noticia de un nuevo libro sobre R, Gráficos estadísticos y mapas con R recién publicado.
+
+Los autores son Cástor Guisande y Antonio Vaamonde, ambos de la Universidad de Vigo. Y de la ficha del libro extraigo:
+En la segunda parte del libro se revisan de forma sistemática los principales gráficos, desde los más básicos y habituales (dispersión, histograma, diagrama de barras, de cajas, etc.) hasta los más complejos (vilote, curvas de nivel, gráficos de control, gráficos para meta-análisis, árboles de clasificación, mapas, etc.</description>
+    </item>
+    
+    <item>
+      <title>Competición en Forbes: y el peor gráfico es...</title>
+      <link>/2012/05/31/competicion-en-forbes-y-el-peor-grafico-es/</link>
+      <pubDate>Thu, 31 May 2012 07:25:00 +0000</pubDate>
+      
+      <guid>/2012/05/31/competicion-en-forbes-y-el-peor-grafico-es/</guid>
+      <description>&amp;hellip; este:
+
+Está hecho con Excel y representa los números 2, 4, 6 y 8. De acuerdo con la página en la que se anuncia el resultado del concurso,
+En fin, cosas de Excel.</description>
+    </item>
+    
+    <item>
+      <title>Patrones hexagonales con R</title>
+      <link>/2012/05/23/patrones-hexagonales-con-r/</link>
+      <pubDate>Wed, 23 May 2012 07:25:13 +0000</pubDate>
+      
+      <guid>/2012/05/23/patrones-hexagonales-con-r/</guid>
+      <description>Navegando por internet di con el gráfico
+
+(que puede encontrarse aquí) además de un enlace al código en Matlab usado para generarlo.
+Diríase que lo programó un contable. Tratad de seguirlo y veréis por qué lo digo.
+Y por entretenerme, traté de generarlo con R. Y creo que de una manera algo más intuitiva:
+ 1. Creo una función que sabe pintar un hexágono en una posición dada. 2. Creo una retícula de centros de hexágonos del tamaño adecuado.</description>
+    </item>
+    
+    <item>
+      <title>Representación de datos asociados a grupos</title>
+      <link>/2012/05/03/representacion-de-datos-asociados-a-grupos/</link>
+      <pubDate>Thu, 03 May 2012 06:42:51 +0000</pubDate>
+      
+      <guid>/2012/05/03/representacion-de-datos-asociados-a-grupos/</guid>
+      <description>Tropezó precisamente con este problema un compañero mío: ¿cuál es la manera más efectiva de representar 6 o 7 valores numéricos asociados a otros tantos grupos? Es sorprendente que en ninguno de los largos años que uno pasa educándose no le ayuden a resolver ese tipo de problemas (y en cambio sí a saltar un potro o pintar el archifamoso círculo cromático con témperas).
+Así que para referencia de todos, dejo aquí un enlace a un artículo que encontré el otro día sobre este asunto del que extraigo y traduzco las observaciones fundamentales a la hora de representar conjuntos de datos tales como los que aparecen representados en el siguiente gráfico (en el que se usa un dotplot):</description>
+    </item>
+    
+    <item>
+      <title>Gráficos &#34;dinamita&#34;, desaconsejados</title>
+      <link>/2012/04/23/graficos-dinamita-desaconsejados/</link>
+      <pubDate>Mon, 23 Apr 2012 06:41:01 +0000</pubDate>
+      
+      <guid>/2012/04/23/graficos-dinamita-desaconsejados/</guid>
+      <description>No sé por qué se llaman así. Ni idea. Vine a enterarme de tal nombre a través de un comentario de Carlos Ortega en la lista de usuarios de R. Parece que se usan habitualmente en diversas áreas y tienen el siguiente aspecto:
+
+Se trata de diagramas de barras a los que se añaden unos apéndices que tratan de medir la variabilidad a la que se entiende que están sujetas aquellas.</description>
+    </item>
+    
+    <item>
+      <title>Graficaca en el recibo de la luz (y por imperativo legal, para más inri)</title>
+      <link>/2012/04/20/graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri/</link>
+      <pubDate>Fri, 20 Apr 2012 06:59:36 +0000</pubDate>
+      
+      <guid>/2012/04/20/graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri/</guid>
+      <description>Tras una sobremesa en la que tratamos el ya manido tema de los gráficos de tarta, me hace llegar mi tertuliano Jorge Sobrino una solapilla que le adjunta Iberdrola al recibo de la luz que parece una broma de mal gusto. Es muy parecida a la siguiente:
+
+La gráfica compara el llamado mix de producción eléctrica de la compañía con el nacional en el periodo de referencia. O, al menos, ese parece ser su objetivo.</description>
+    </item>
+    
+    <item>
+      <title>Un articulillo de Tukey</title>
+      <link>/2012/03/21/un-articulillo-de-tukey/</link>
+      <pubDate>Wed, 21 Mar 2012 07:31:13 +0000</pubDate>
+      
+      <guid>/2012/03/21/un-articulillo-de-tukey/</guid>
+      <description>Hoy ando demasiado ocupado para escribir. Y como es posible que alguno de mis lectores no lo esté tanto como para no leer, le dejo un artículo de Tukey (abajo del todo en el enlace anterior) para que conozca al personaje, si no ha tenido el gusto previo, disfrute en cualquer caso y, en todos, sepa de dónde vienen los rootograms que implementa el paquete latticeExtra de R.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos de pares de variables mejorados (con R)</title>
+      <link>/2011/12/29/graficos-de-pares-de-variables-mejorados-con-r/</link>
+      <pubDate>Thu, 29 Dec 2011 06:51:03 +0000</pubDate>
+      
+      <guid>/2011/12/29/graficos-de-pares-de-variables-mejorados-con-r/</guid>
+      <description>Un gráfico de pares de variables —que no he sabido traducir mejor desde el original inglés pairplot— es algo como lo siguiente:
+
+Es posible ahora construir gráficos de pares más sofisticados e informativos usando el paquete GGally de R. Usando el código (extraído de SAS and R)
+1 2 3 4 5 6 7 8 9 10  library(GGally) ds &amp;lt;- read.csv(&amp;#34;http://www.math.smith.edu/r/data/help.csv&amp;#34;) ds$sex &amp;lt;- as.factor( ifelse(ds$female==1, &amp;#34;female&amp;#34;, &amp;#34;male&amp;#34;) ) ds$housing &amp;lt;- as.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos de embudo para controlar la varianza en muestras pequeñas</title>
+      <link>/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/</link>
+      <pubDate>Thu, 15 Dec 2011 06:43:13 +0000</pubDate>
+      
+      <guid>/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/</guid>
+      <description>Publiqué hace un tiempo una entrada en esta bitácora sobre el problema que representa la desigualdad de los tamaños muestrales a la hora de comprender cierto tipo de datos, como por ejemplo, los que trata de representar el gráfico
+
+que muestra la incidencia del cáncer de riñón en distintas zonas de en EE.UU. Como indiqué entonces, los valores extremos se encuentran en zonas menos pobladas: cuanto menor es la población, más probables son las proporciones inhabituales.</description>
+    </item>
+    
+    <item>
+      <title>Estadísticas de incendios forestales en España</title>
+      <link>/2011/12/12/estadisticas-de-incendios-forestales-en-espana/</link>
+      <pubDate>Mon, 12 Dec 2011 12:07:23 +0000</pubDate>
+      
+      <guid>/2011/12/12/estadisticas-de-incendios-forestales-en-espana/</guid>
+      <description>El Ministerio de Medio Ambiente recoge estadísticas sobre incendios forestales. Lo hace, por así decirlo, a la vieja usanza:
+ La Dirección General de Medio Natural y Política Forestal del Ministerio de Medio Ambiente y Medio Rural y Marino acumula los datos provinciales y obtiene las cifras nacionales del año en curso. Estas cifras se muestran en un cuadro que las compara con las del decenio anterior en el mismo intervalo de fechas.</description>
+    </item>
+    
+    <item>
+      <title>¿Escalas logarítimicas? Puede, pero...</title>
+      <link>/2011/11/25/escalas-logaritimicas-puede-pero/</link>
+      <pubDate>Fri, 25 Nov 2011 07:01:42 +0000</pubDate>
+      
+      <guid>/2011/11/25/escalas-logaritimicas-puede-pero/</guid>
+      <description>Encontré el otro día una entrada en la bitácora de Bissantz, una empresa alemana de herramientas de visualización y minería de datos que trataba sobre las ventajas y desventajas del uso de escalas lineales y logarítmicas en cierto tipo de gráficos. Y los ilustraba con un ejemplo que me hizo pensar si no habría algo más.
+El gráfico malo, en escala lineal, es
+
+que representa la evolución del PIB y la deuda estadounidense durante las últimas décadas y tiene una serie de carencias con respecto al gráfico de los mismos datos en escala logarítmica,</description>
+    </item>
+    
+    <item>
+      <title>Vídeos de las charlas de Alberto Cairo y Alberto Alcaraz</title>
+      <link>/2011/11/24/videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz/</link>
+      <pubDate>Thu, 24 Nov 2011 06:59:24 +0000</pubDate>
+      
+      <guid>/2011/11/24/videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz/</guid>
+      <description>Diríase que estos días no escribo de otra cosa. Pero como que toca. Ya cambiaré de cuerda.
+En realidad, hoy debería haber escrito sobre unas conferencias de MicroStrategy a las que acudí ayer &amp;ldquo;para hablar de mi libro&amp;rdquo;, es decir, dar la tabarra a empresas que usan, más o menos subrepticiamente R en sus productos para que sepan que existe una asociación de usuarios en ciernes y, con un poco de suerte, aflojen algún billete.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Bump charts&#34; para comparar gráficamente proporciones entre periodos</title>
+      <link>/2011/11/08/bump-charts-para-comparar-graficamente-proporciones-entre-periodos/</link>
+      <pubDate>Tue, 08 Nov 2011 06:56:14 +0000</pubDate>
+      
+      <guid>/2011/11/08/bump-charts-para-comparar-graficamente-proporciones-entre-periodos/</guid>
+      <description>Hojeaba el otro día en informe Reporta 2011, que evalúa la calidad de la información que sobre su actividad publican las empresas cotizadas en las bolsas españolas. Y aunque haya que valorar la intención de los autores, resultan tan manifiestas ciertas carencias analíticas que mal servicio les haría de no afeárselas desde mi bitácora. Que conste que no me refiero a errores de fondo, materia en la que no entro, sino a los mecanismos para tratar y presentar resultados numéricos a la hora de armar el informe.</description>
+    </item>
+    
+    <item>
+      <title>Visualización de la incertidumbre sobre el futuro</title>
+      <link>/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/</link>
+      <pubDate>Wed, 19 Oct 2011 06:42:33 +0000</pubDate>
+      
+      <guid>/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/</guid>
+      <description>Recomiendo a mis lectores el artículo Visualizing Uncertainty About the Future de D. Spiegelhalter, M. Pearson e I. Short. Trata sobre qué tipo de representaciones gráficas son más adecuadas para transmitir información acerca de la probabilidad de fenómenos futuros a distintos tipos de audiencias, incluidas las más anuméricas.
+Abarca desde los incipientes trabajos de Nightingale y Neurath hasta Gapminder y los más modernos desarrollos de la infografía. Aplaude, por ejemplo, la iniciativa del Banco de Inglaterra de publicar información sobre la posible evolución de indicadores económicos futuros de la forma</description>
+    </item>
+    
+    <item>
+      <title>Visualización de la actualización bayesiana (y unas cuantas funciones de R)</title>
+      <link>/2011/09/12/visualizacion-de-la-actualizacion-bayesiana-y-unas-cuantas-funciones-de-r/</link>
+      <pubDate>Mon, 12 Sep 2011 07:02:03 +0000</pubDate>
+      
+      <guid>/2011/09/12/visualizacion-de-la-actualizacion-bayesiana-y-unas-cuantas-funciones-de-r/</guid>
+      <description>Me ha llegado noticia de una entrada en un blog, Visualizing Bayesian Updating, en el que se muestra visualmente cómo se actualiza la distribución a posteriori conforme aumenta el número de ensayos en un problema bayesiano simple. Explica también los fundamentos estadísticos del asunto.
+Yo me limitaré a ofrecer una nueva versión del código —que no funcionaba copiando y pegando sin más— en el que he introducido ciertas modificaciones. Es el siguiente:</description>
+    </item>
+    
+    <item>
+      <title>Treemaps en R</title>
+      <link>/2011/09/09/treemaps-en-r/</link>
+      <pubDate>Fri, 09 Sep 2011 07:13:26 +0000</pubDate>
+      
+      <guid>/2011/09/09/treemaps-en-r/</guid>
+      <description>Hay cierto interés por los treemaps en general y existen paquetes como treemap y la función map.market del paquete portfolio que permiten construirlos y obtener gráficos como este
+
+que representa la capitalización bursátil de las empresas del IBEX-35 y el porcentaje que destinan al dividendo. Pero me produce cierto desasosiego utilizar áreas y colores para representar magnitudes: ¿es fácil comparar el tamaño relativo de TEF y ELE? ¿Cuánto mayor es ITX que BBVA?</description>
+    </item>
+    
+    <item>
+      <title>Un paseo por Google Fusion Tables</title>
+      <link>/2011/09/02/un-paseo-por-google-fusion-tables/</link>
+      <pubDate>Fri, 02 Sep 2011 07:46:21 +0000</pubDate>
+      
+      <guid>/2011/09/02/un-paseo-por-google-fusion-tables/</guid>
+      <description>El siguiente vídeo contiene una entrevista con Alon Halevy, que dirige el Data Group en Google Research. Aunque confunda Suecia y Finlandia, merece la pena la presentación que hace de Google Fusion Tables, una plataforma para compartir, combinar, distribuir y representar gráficamente conjuntos de datos.
+  </description>
+    </item>
+    
+    <item>
+      <title>&#34;Arte gráfico&#34; con R</title>
+      <link>/2011/08/29/arte-grafico-con-r/</link>
+      <pubDate>Mon, 29 Aug 2011 07:15:52 +0000</pubDate>
+      
+      <guid>/2011/08/29/arte-grafico-con-r/</guid>
+      <description>El otro día dí con un blog dedicado al arte matemático y en particular con esta entrada sobre cómo crear figuras mediante rotación de segmentos:
+
+El código (en matlab) estaba disponible y lo traduje a R:
+1 2 3 4 5 6 7 8 9 10  graphic.art &amp;lt;- function( foo, n = 200, init = -1, end = 1, breaks = 20 ){ x &amp;lt;- seq( init, end, by = 1 / breaks ) base &amp;lt;- matrix( c( x, foo( x ) ), ncol = 2 ) rotate &amp;lt;- function(a,m) m %*% matrix(c(cos(a), -sin(a), sin(a), cos(a)), 2) my.</description>
+    </item>
+    
+    <item>
+      <title>Diagramas de puntos (dotplots)</title>
+      <link>/2011/07/27/diagramas-de-puntos-dotplots/</link>
+      <pubDate>Wed, 27 Jul 2011 07:07:36 +0000</pubDate>
+      
+      <guid>/2011/07/27/diagramas-de-puntos-dotplots/</guid>
+      <description>Aunque los diagramas de puntos fueron introducidos por Cleveland  en los años ochenta, a pesar de sus ventajas, no gozan de la popularidad de otros métodos de representación gráfica.
+Leí hace poco un artículo de Naomi Robbins en el que se proponían los gráficos de puntos como alternativa a los de barras. Encuentra en aquéllos tres ventajas:
+ Una representación más limpia y con menos tinta inútil. Permite resolver el problema de la representación de varias observaciones por sujeto más elegantemente que yuxtaponiendo barras, como ilustra el gráfico que aparece debajo.</description>
+    </item>
+    
+    <item>
+      <title>Y Kenia qué, ¿eh?</title>
+      <link>/2011/07/20/y-kenia-que-eh/</link>
+      <pubDate>Wed, 20 Jul 2011 07:14:30 +0000</pubDate>
+      
+      <guid>/2011/07/20/y-kenia-que-eh/</guid>
+      <description>—Sí, ya sabemos que en EE.UU. e Inglaterra las cosas son distintas, pero nosotros semos mediterráneos y tenemos sol y aceite de oliva.
+—Además, uno siempre puede comprar la publicación España en cifras en las librerías Índice a un precio popular establecido anualmente en el BOE (o, incluso, ¡descargarla en PDF gratis!).
+—Ejque&amp;hellip;
+Etc.
+
+Pero, y Kenia qué, ¿eh? ¿Nos vamos a dejar ganar por Kenia?</description>
+    </item>
+    
+    <item>
+      <title>Visualización de datos con Weave</title>
+      <link>/2011/06/29/visualizacion-de-datos-con-weave/</link>
+      <pubDate>Wed, 29 Jun 2011 07:06:49 +0000</pubDate>
+      
+      <guid>/2011/06/29/visualizacion-de-datos-con-weave/</guid>
+      <description>Weave es una plataforma de visualización de datos desarrollada por el Institute for Visualization and Perception Research de la Universidad de Massachusetts en colaboración con el Open Indicators Consortium.
+  A pesar de su buen aspecto, no he tenido tiempo de probarlo. Pero, aprovechando que se acercan las vacaciones, tal vez alguno de mis lectores puede hacerlo y dejar una nota sobre su funcionamiento, ventajas, desventajas y posibilidades. ¿Algún voluntario?</description>
+    </item>
+    
+    <item>
+      <title>NComVa y visualización de datos públicos</title>
+      <link>/2011/06/07/ncomva-y-visualizacion-de-datos-publicos/</link>
+      <pubDate>Tue, 07 Jun 2011 07:27:49 +0000</pubDate>
+      
+      <guid>/2011/06/07/ncomva-y-visualizacion-de-datos-publicos/</guid>
+      <description>A la lista de herramientas de visualización y de análisis visual de datos públicos de las que ya hemos hablado en alguna ocasión, tales como Gapminder o Many Eyes, añado hoy unas de cuya existencia he venido a enterarme recientemente: las desarrolladas por la empresa sueca NComVa.
+
+La empresa ha desarrollado para algunos de sus clientes  portales tales como el del Banco Mundial, The Economist o el del Istat (INE italiano).</description>
+    </item>
+    
+    <item>
+      <title>Explica, el portal divulgativo del INE</title>
+      <link>/2011/06/03/explica-el-portal-divulgativo-del-ine/</link>
+      <pubDate>Fri, 03 Jun 2011 07:17:44 +0000</pubDate>
+      
+      <guid>/2011/06/03/explica-el-portal-divulgativo-del-ine/</guid>
+      <description>Me acaban de hacer llegar la noticia, via Twitter, de la existencia de Explica, el portal divulgativo del INE. Según sus propias palabras,
+ [d]esarrollamos este sitio web con el objetivo de incrementar la cultura estadística en la sociedad y favorecer así el buen uso de la información estadística. Aquí podrás encontrar un conjunto de productos de carácter divulgativo que permiten conocer los principales conceptos en que se basa la elaboración de la información estadística, el contexto en que se desenvuelve la estadística oficial y algunas curiosidades y aplicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Graficaca en el FT</title>
+      <link>/2011/05/31/graficaca-en-el-ft/</link>
+      <pubDate>Tue, 31 May 2011 07:34:08 +0000</pubDate>
+      
+      <guid>/2011/05/31/graficaca-en-el-ft/</guid>
+      <description>La gente que escribe en el Financial Times y mucha de la que lo lee suele vestir de traje. Son gente que sabe de lo que habla y están versados en muchos temas no triviales. Podrían ir en chanclas, pantalones cortos y camisetas viejas sin que eso afectase a su conocimiento y entendimiento de las cosas. Si fuese el caso, con cuatro frases que intercambiásemos con ellos nos daríamos cuenta de que la impresión que tal vez no causasen no se corresponde con su erudita esencia.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos (VI): teoría</title>
+      <link>/2011/04/26/graficos-vi-teoria/</link>
+      <pubDate>Tue, 26 Apr 2011 09:53:52 +0000</pubDate>
+      
+      <guid>/2011/04/26/graficos-vi-teoria/</guid>
+      <description>La última entrega de esta serie sobre gráficos, que tal vez debiera haber sido la primera, mostrará algunos enlaces a recursos en los que educarse en este cienciarte que es el de la representación gráfica de datos.
+En primer lugar, mencionaré a los maestros. Cualquiera de los libros que Chambers, Cleveland, Tukey o Tufte hayan escrito juntos o por separado es una biblia en el tema. Son lecturas más que recomendadas.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos (V): mapas</title>
+      <link>/2011/04/19/graficos-v-mapas/</link>
+      <pubDate>Tue, 19 Apr 2011 09:52:38 +0000</pubDate>
+      
+      <guid>/2011/04/19/graficos-v-mapas/</guid>
+      <description>En la quinta entrega de mi serie de artículos sobre gráficos quiero mostrar algunos enlaces que he recopilado sobre un asunto que sería más propiamente contenido para nuestros vecinos de GMK: los mapas.
+Creo que esto de integrar datos y mapas tiene un nosequé adictivo. Conozco varios casos de personas, incluido yo durante un tiempo, que quedamos atrapados por el encanto que tiene generarlos. Yo, incluso, una vez le di algo de guerra al INE por ver si liberaban con alguna licencia decente los datos cartográficos de los que disponen.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos (IV): tutoriales</title>
+      <link>/2011/04/14/graficos-iv-tutoriales-2/</link>
+      <pubDate>Thu, 14 Apr 2011 07:26:11 +0000</pubDate>
+      
+      <guid>/2011/04/14/graficos-iv-tutoriales-2/</guid>
+      <description>La mala vida me ha obligado a posponer hasta el jueves esta nueva entrada sobre mi serie sobre gráficos que tenía prometida para el martes. Espero ser excusado.
+Esta entrega es más sustancial que las anteriores y seguro que el lector interesado obtendrá en ella cantidad de material para leer e instruirse durante bastante tiempo. Es una lista de tutoriales recogidos durante varios meses sobre la construcción de gráficos e infografías.</description>
+    </item>
+    
+    <item>
+      <title>¡Qué prensa tan mala!</title>
+      <link>/2011/04/12/que-prensa-tan-mala/</link>
+      <pubDate>Tue, 12 Apr 2011 07:41:46 +0000</pubDate>
+      
+      <guid>/2011/04/12/que-prensa-tan-mala/</guid>
+      <description>Al autor de estas páginas se le cae la baba con las infografías del New York Times (¿sabéis que en ese periódico usan R?) y de The Guardian. Y esperaba, ¡qué menos!, algo si no ya similar, al menos sí decente del, dicen, más serio de los periódicos españoles.
+Pero hoy se me ha caído el alma a los pies. Fijáos, fijáos lectores:
+
+¿Veis cómo los porcentajes no tienen nada que ver con las cifras absolutas?</description>
+    </item>
+    
+    <item>
+      <title>Gráficos (III): bitácoras</title>
+      <link>/2011/04/05/graficos-iii-bitacoras/</link>
+      <pubDate>Tue, 05 Apr 2011 15:49:21 +0000</pubDate>
+      
+      <guid>/2011/04/05/graficos-iii-bitacoras/</guid>
+      <description>En la tercera entrega de la serie de gráficos quiero dar a conocer una serie de bitácoras que tratan este tema, muchas de ellas escritas por profesionales de la infografía. En orden alfabético son:
+ Climate Charts &amp;amp; Graphs, con infinidad de mapas y gráficas sobre el cambio climático, desarrollados principalmente con R. Datablog, la bitácora del diario británico The Guardian que bajo el lema facts are sacred, hace un periodismo moderno, de primera línea, utilizando un paradigma no textual.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos (II): Herramientas</title>
+      <link>/2011/03/29/graficos-ii-herramientas/</link>
+      <pubDate>Tue, 29 Mar 2011 09:01:13 +0000</pubDate>
+      
+      <guid>/2011/03/29/graficos-ii-herramientas/</guid>
+      <description>Comenzaré por lo que en todo debiera ser el final: las herramientas. La herramienta tiene que ajustarse a la función y no a la inversa: no coge el carpintero por la mañana un martillo y busca clavos que clavar el resto de la jornada (igualmente tampoco debieran hablar las empresas en primera instancia con, por ejemplo, SAS a la hora de ahondar en sus capacidades analíticas; pero ésa es otra historia).</description>
+    </item>
+    
+    <item>
+      <title>Gráficos (I): introducción</title>
+      <link>/2011/03/22/graficos-i-introduccion/</link>
+      <pubDate>Tue, 22 Mar 2011 09:13:43 +0000</pubDate>
+      
+      <guid>/2011/03/22/graficos-i-introduccion/</guid>
+      <description>De no mediar contratiempos, a lo largo de los próximos cinco o seis martes iré subiendo a mi bitácora una serie de entradas sobre una (sub)disciplina en alza. Se la conoce por diversos nombres de desigual empaque —infografía, information design, etc.— pero las ubicaré bajo un epígrafe algo más humilde: gráficos.
+Comenzaré citando a Andrew Gelman. En una reciente entrevista (que no tiene desperdicio), éste respondía categóricamente:
+ Sí, la representación gráfica de unos datos siempre es una estadística.</description>
+    </item>
+    
+    <item>
+      <title>¿Tartas? No gracias</title>
+      <link>/2011/03/02/tartas-no-gracias/</link>
+      <pubDate>Wed, 02 Mar 2011 09:28:36 +0000</pubDate>
+      
+      <guid>/2011/03/02/tartas-no-gracias/</guid>
+      <description>Voy a dejar aquí escrito mi argumento. Para que conste. Para tener que repetirlo cada vez que un exceladicto osa objetar. Por pereza. Para no tener sino que dar el enlace y pasar a otra cosa. Porque vamos para la primavera y es mejor dedicar el tiempo a cosas mejores que a dar vueltas sobre el mismo asunto.
+El uso de tartas para visualizar fracciones está sancionado (acepción segunda) por la escuela básica: ¿quién no las vio representadas en una pizarra cuando oyó por primera vez en su vida mencionarlas palabras tres octavos, numerador y denominador?</description>
+    </item>
+    
+    <item>
+      <title>Enredando con el paquete googleVis de R</title>
+      <link>/2011/02/17/enredando-con-el-paquete-googlevis-de-r/</link>
+      <pubDate>Thu, 17 Feb 2011 09:22:41 +0000</pubDate>
+      
+      <guid>/2011/02/17/enredando-con-el-paquete-googlevis-de-r/</guid>
+      <description>Si el otro día denuncié un gráfico engañabobos (y algún otro me explayaré muy constructivamente sobre el intercambio de correos que mantuve con sus autores), hoy he querido reproducirlo con el paquete googleVis de R.
+Habedlo:
+[cf]googleViz[/cf]
+El código utilizado para generarlo es:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24  library(googleVis) library(reshape) a &amp;lt;- read.</description>
+    </item>
+    
+    <item>
+      <title>ggplot2 en su contexto</title>
+      <link>/2011/02/10/ggplot2-en-su-contexto/</link>
+      <pubDate>Thu, 10 Feb 2011 09:56:44 +0000</pubDate>
+      
+      <guid>/2011/02/10/ggplot2-en-su-contexto/</guid>
+      <description>gplot2 es, sin duda, el paquete gráfico de moda en R. Hay quien lo ama, hay quien lo odia, pero cada vez son menos los que lo ignoran. Lo que igual no es tan sabido por los usuarios de R es el contexto en el que nació ggplot2, su relación con el motor gráfico de R y su relación con otros mecanismos de representación gráfica existentes en otros paquetes estadísticos.</description>
+    </item>
+    
+    <item>
+      <title>Un gráfico engañabobos</title>
+      <link>/2011/01/31/un-grafico-enganabobos/</link>
+      <pubDate>Mon, 31 Jan 2011 22:38:11 +0000</pubDate>
+      
+      <guid>/2011/01/31/un-grafico-enganabobos/</guid>
+      <description>Hay un blog que sigo con cierto interés. Es un blog de economía, algo en lo que soy, cuando más, un diletante. Por eso lo leo con mucho cuidado: no quiero que me engañen como a las abuelas con el cambio cuando van al mercado. Además, los economistas, a diferencia de estadísticos, matemáticos, y otras especies análogas, son o de izquierdas o de derechas y siempre tratan de arrimar el ascua a su sardina.</description>
+    </item>
+    
+    <item>
+      <title>Graficaca a tutiplén</title>
+      <link>/2011/01/05/1139/</link>
+      <pubDate>Wed, 05 Jan 2011 09:36:55 +0000</pubDate>
+      
+      <guid>/2011/01/05/1139/</guid>
+      <description>Al autor le preocupa de viejo el problema de la representación gráfica de datos. Piensa que tiene más de arte que de ciencia. Tal vez lo dice porque no se le da bien: confunde tonos y colores y desgarbado es el adjetivo que mejor describe sus trazos.
+Y como casi todo diletante maltratado de las musas, ejerce de crítico. Y voto a Dios que su crítica es acerba. Le irritan todos los gráficos de tarta (menos éste), desea toda clase de malaventura al cretino que lleva lo de Excel en Expansión y vive prisionero de otras manías semejantes.</description>
+    </item>
+    
+    <item>
+      <title>Transforma (los gráficos de) España</title>
+      <link>/2010/11/25/transforma-los-graficos-de-espana/</link>
+      <pubDate>Thu, 25 Nov 2010 09:25:30 +0000</pubDate>
+      
+      <guid>/2010/11/25/transforma-los-graficos-de-espana/</guid>
+      <description>Ha aparecido en diversos medios la noticia de la presentación al rey de una propuesta de la Fundación Everis que ha venido a titular TransformaEspaña (así, junto). El estudio que define la propuesta
+ [&amp;hellip;] pone de relieve la gravedad de la actual crisis económica, sus causas y consecuencias, propone una serie de soluciones y actuaciones en todos los ámbitos del sistema que deben producirse en los próximos años para generar un verdadero cambio.</description>
+    </item>
+    
+    <item>
+      <title>A vueltas con los fractales</title>
+      <link>/2010/10/26/a-vueltas-con-los-fractales/</link>
+      <pubDate>Tue, 26 Oct 2010 21:27:06 +0000</pubDate>
+      
+      <guid>/2010/10/26/a-vueltas-con-los-fractales/</guid>
+      <description>Si bien no hace mucho publicaba una entrada sobre el triángulo de Sierpinsky, mi tocayo Carlos Ortega (y ahora gentil colaborador) nos ha proporcionado un enlace en este blog a un pedazo de código que bien vale la pena replicar aquí para el solaz (y tal vez, incluso, provecho) de los lectores de estas páginas. Es:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  library(fields) # for tim.</description>
+    </item>
+    
+    <item>
+      <title>Hoy me he enamorado en el metro</title>
+      <link>/2010/10/21/hoy-me-he-enamorado-en-el-metro/</link>
+      <pubDate>Thu, 21 Oct 2010 01:04:35 +0000</pubDate>
+      
+      <guid>/2010/10/21/hoy-me-he-enamorado-en-el-metro/</guid>
+      <description>Hoy me he enamorado en el metro. Apenas comenzaba a leer mi articulillo cuando he tropezado con esta frase:
+ GPL treats data as an accessory to viewing a graph.
+ Y la siguiente era aún mejor:
+ GPL is based on the mathematical definition of the graph of a function and uses that definition to organize data linked to the graph.
+ Y más adelante:
+ [&amp;hellip;] it is based on the assumption that statistical procedures serve graphics; graphics are not ancillary displays of statistical results, but are means of perceiving statistical relationships directly.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué gráfico es mejor?</title>
+      <link>/2010/09/27/que-grafico-es-mejor/</link>
+      <pubDate>Mon, 27 Sep 2010 23:39:43 +0000</pubDate>
+      
+      <guid>/2010/09/27/que-grafico-es-mejor/</guid>
+      <description>Los servidores del Parlamento Británico alojan (y ponen a disposición del público) una serie documentos agrupados por temas de los que hoy nos interesarán los relativos a política estadística y, dentro de ellos, un breve manual muy útil para elaborar gráficas que se atengan a los tres principios fundamentales de este esquivo arte:
+ Veracidad: la gráfica debe reflejar verazmente los datos subyacentes Economía: la gráfica debe mostrar únicamente aquellos elementos necesarios para comprenderla Claridad: los elementos gráficos y textuales de la gráfica deben ser lo más claros posible para facilitar su comprensión por parte del lector.</description>
+    </item>
+    
+    <item>
+      <title>Representando gráficamente conjuntos de datos pequeños</title>
+      <link>/2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/</link>
+      <pubDate>Thu, 16 Sep 2010 23:24:46 +0000</pubDate>
+      
+      <guid>/2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/</guid>
+      <description>Últimamente me están llegando conjuntos de datos para analizar con muy pocos registros. He aquí un subconjunto de uno de ellos (de hoy y debidamente anonimizado):
+1 2 3 4 5 6  nivel.proteina &amp;lt;- c( 11.56, 10.43, 11.00, 10.92, 10.08, 9.98, 10.35, 9.55, 9.19, 7.00, 6.72, 6.43, 7.43, 7.26, 6.67, 7.49, 8.03, 8.17, 6.79, 7.68, 7.01, 7.51, 6.90, 7.27, 7.56, 8.61, 8.16, 7.12 ) grupo &amp;lt;- c(0,0,0,0,0,0,0,0,0, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1) datos &amp;lt;- data.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos en R con símbolos arbitrarios: código, comentarios y fin</title>
+      <link>/2010/06/28/graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin/</link>
+      <pubDate>Mon, 28 Jun 2010 22:36:10 +0000</pubDate>
+      
+      <guid>/2010/06/28/graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin/</guid>
+      <description>Prometí el otro día revelar los secretos (pensaba que no lo eran tanto) del gráfico que mostré en esta entrada. Los impacientes tienen aquí todo lo que necesitan. Tienen que ejecutar primero el guión svg2ps.sh que invoca inkscape para transformar los ficheros svg (incluidos en la descarga) de las banderas (obtenidos de la Wikipedia) en ficheros postscript.
+El programa src.R genera entonces el gráfico utilizando dos paquetes de R: grImport y lattice.</description>
+    </item>
+    
+    <item>
+      <title>Gráficos en R con símbolos arbitrarios</title>
+      <link>/2010/06/18/graficos-en-r-con-simbolos-arbitrarios/</link>
+      <pubDate>Fri, 18 Jun 2010 19:23:52 +0000</pubDate>
+      
+      <guid>/2010/06/18/graficos-en-r-con-simbolos-arbitrarios/</guid>
+      <description>Hace no mucho, en un blog hermano, se habló de cómo podían utilizarse símbolos distintos en los gráficos de R. También hablé yo de funcionarios y renta per cápita.
+Ahora combino ambas entradas y algo más de mi cosecha para mostrar un gráfico hecho con R utilizando símbolos arbitrarios (las banderas de cada país).
+
+El secreto de cómo lo he hecho (y el código completo, claro) lo revelaré la semana que viene.</description>
+    </item>
+    
+    <item>
+      <title>Para que copien, peguen y disfruten: addenda</title>
+      <link>/2010/04/21/para-que-copien-peguen-y-disfruten-addenda/</link>
+      <pubDate>Wed, 21 Apr 2010 21:53:21 +0000</pubDate>
+      
+      <guid>/2010/04/21/para-que-copien-peguen-y-disfruten-addenda/</guid>
+      <description>Ayer dejé publicadas unas cuantas líneas de R y la promesa de contar de qué iba la cosa. Adelantando acontecimientos, he recibido comentarios públicos y privados al respecto que en esta entrada trataré de contestar.
+El código era, una vez mínimamente desofuscado (no quería dar demasiadas pistas):
+1 2 3 4 5 6 7 8 9 10 11  vertice.x &amp;lt;- c(0,1,2) # 1 vertice.y &amp;lt;- c(0,1,0) # 2 muestra &amp;lt;- sample( 1:3, 100000, replace = T ) # 3 iter &amp;lt;- function( ini, v ){ # 4 out &amp;lt;- rep( ini, length(v) ) # 5 for( i in 2:length(v) ) out[i] &amp;lt;- ( out[i-1] + v[i] ) / 2 # 6 out } plot( iter( runif(1), v.</description>
+    </item>
+    
+    <item>
+      <title>Los mayas y la crisis</title>
+      <link>/2010/04/14/los-mayas-y-la-crisis/</link>
+      <pubDate>Wed, 14 Apr 2010 23:56:37 +0000</pubDate>
+      
+      <guid>/2010/04/14/los-mayas-y-la-crisis/</guid>
+      <description>Tengo que pedir excusas a mis lectores por el título de la entrada: reconozco que tiene un sí es no es de desesperado intento por captar tráfico a costa de los amigos de lo escatológico, tal vez interesados en averiguar qué nos sucederá a todos en el 2012.
+En realidad, el vínculo que establezco entre los mayas y la crisis actual tiene que ver con una relativamente reciente (re)visita mía a uno de esos museos en los que uno, a veces, ríe y, otras, llora como por dentro.</description>
+    </item>
+    
+  </channel>
+</rss>

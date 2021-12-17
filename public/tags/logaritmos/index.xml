@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logaritmos on datanalytics</title>
+    <link>/tags/logaritmos/</link>
+    <description>Recent content in logaritmos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 25 Nov 2011 07:01:42 +0000</lastBuildDate><atom:link href="/tags/logaritmos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Escalas logarítimicas? Puede, pero...</title>
+      <link>/2011/11/25/escalas-logaritimicas-puede-pero/</link>
+      <pubDate>Fri, 25 Nov 2011 07:01:42 +0000</pubDate>
+      
+      <guid>/2011/11/25/escalas-logaritimicas-puede-pero/</guid>
+      <description>Encontré el otro día una entrada en la bitácora de Bissantz, una empresa alemana de herramientas de visualización y minería de datos que trataba sobre las ventajas y desventajas del uso de escalas lineales y logarítmicas en cierto tipo de gráficos. Y los ilustraba con un ejemplo que me hizo pensar si no habría algo más.
+El gráfico malo, en escala lineal, es
+
+que representa la evolución del PIB y la deuda estadounidense durante las últimas décadas y tiene una serie de carencias con respecto al gráfico de los mismos datos en escala logarítmica,</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+baseurl = "/"
+title = "Carlos J. Gil Bellosta"
+languageCode = "es"
+DefaultContentLanguage = "es"
+paginate = "13" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+  name = "Carlos J. Gil Bellosta"
+  bio = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es). Más sobre él, [aquí](http://www.datanalytics.com/bio)."
+  avatar = "http://www.datanalytics.com/wp-uploads/2010/05/carlos-gil-bellosta.png"
+
+[Params]
+  copyright = "Carlos J. Gil Bellosta"
+  description = "Carlos J. Gil Bellosta - Estadística, análisis de datos y más" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  dateformat = "2006-1-2"
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Alegreya:400,400i,700" # Load Google Fonts
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+
+[Params.logo]
+  subtitle = "Estadística y análisis de datos" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.style.vars]
+  fontFamilyPrimary = "Alegreya"
+

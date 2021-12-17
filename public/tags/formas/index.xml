@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formas on datanalytics</title>
+    <link>/tags/formas/</link>
+    <description>Recent content in formas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 14 Jul 2016 08:13:26 +0000</lastBuildDate><atom:link href="/tags/formas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis estadístico de formas y perfiles</title>
+      <link>/2016/07/14/analisis-estadistico-de-formas-y-perfiles/</link>
+      <pubDate>Thu, 14 Jul 2016 08:13:26 +0000</pubDate>
+      
+      <guid>/2016/07/14/analisis-estadistico-de-formas-y-perfiles/</guid>
+      <description>Siempre me intrigó cómo podía realizarse el análisis estadístico de cosas que no son tablas. Por ejemplo, formas.
+Nótese que tales medidas deberían presentar invariancias frente a rotaciones, dilataciones, simetrías, etc.
+Quien alimente también semejantes dudas podrá saciarlas (parcialmente, claro) aquí y aquí, donde, entre otras cosas, se enseña cómo extraer variables de toda la vida que resumen ese tipo de perfiles a través de, por ejemplo, aplicaciones muy particulares de la transformada de Fourier.</description>
+    </item>
+    
+  </channel>
+</rss>

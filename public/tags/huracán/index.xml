@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>huracán on datanalytics</title>
+    <link>/tags/hurac%C3%A1n/</link>
+    <description>Recent content in huracán on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 09 Jan 2019 08:13:57 +0000</lastBuildDate><atom:link href="/tags/hurac%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cadenas de Markov para generar trayectorias posibles de huracanes</title>
+      <link>/2019/01/09/cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes/</link>
+      <pubDate>Wed, 09 Jan 2019 08:13:57 +0000</pubDate>
+      
+      <guid>/2019/01/09/cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes/</guid>
+      <description>Supongo que todo el mundo estará enterado de lo que hizo Shannon en 1948: generar texto automático usando cadenas de Markov (el que no, que mire esto).
+El que no, que eche un vistazo a esto otro para ver cómo una extensión de la idea original permite simular posibles trayectorias de huracanes.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre las proyecciones de población del INE</title>
+      <link>/2018/10/22/mas-sobre-las-proyecciones-de-poblacion-del-ine/</link>
+      <pubDate>Mon, 22 Oct 2018 08:13:53 +0000</pubDate>
+      
+      <guid>/2018/10/22/mas-sobre-las-proyecciones-de-poblacion-del-ine/</guid>
+      <description>Bastante he hablado de las proyecciones de población del INE (p.e., aquí o aquí). Insisto porque el gráfico que aparece en la segunda página de la nota de prensa de las últimas, a saber,
+se parece muchísimo a un gráfico que garabateé en el Bar Chicago de Zúrich (el peor garito de la peor calle de una de las mejores ciudades del mundo), con demasiadas cervezas en el cuerpo y mientras nos reíamos hasta de las bombillas.</description>
+    </item>
+    
+  </channel>
+</rss>

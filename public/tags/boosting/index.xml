@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boosting on datanalytics</title>
+    <link>/tags/boosting/</link>
+    <description>Recent content in boosting on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/boosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bagging y boosting, hermanados</title>
+      <link>/2020/06/18/bagging-y-boosting-hermanados/</link>
+      <pubDate>Thu, 18 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/18/bagging-y-boosting-hermanados/</guid>
+      <description>Ambas son heurísticas para construir modelos buenos a partir de la combinación de modelos malos. Con la diferencia —¿recordáis los condensadores de la física de bachillerato?— de que en un caso se colocan en paralelo y en el otro, en serie.
+Entran Friedman y Popescu (algoritmo 1):
+Y, tachán:
+ Bagging, si $latex \nu = 0$ * Boosting otherwise.  </description>
+    </item>
+    
+  </channel>
+</rss>

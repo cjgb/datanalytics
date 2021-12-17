@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>energía on datanalytics</title>
+    <link>/tags/energ%C3%ADa/</link>
+    <description>Recent content in energía on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Nov 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/energ%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre el almacenamiento &#34;industrial&#34; de la energía eléctrica</title>
+      <link>/2021/11/18/sobre-el-almacenamiento-industrial-de-la-energia-electrica/</link>
+      <pubDate>Thu, 18 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/11/18/sobre-el-almacenamiento-industrial-de-la-energia-electrica/</guid>
+      <description>Este es un tema sobre el que sé tan poco que hoy mismo (que no es el día en el que se publica esto) he metido la pata dos veces en Twitter por citar datos que no eran.
+Por enmendarme públicamente y dada la relevancia del asunto, voy a sacar unos números. La fuente es la página del Balance Eléctrico de REE, que hoy luce
+y que nos proporciona datos sobre el bombeo, i.</description>
+    </item>
+    
+    <item>
+      <title>Se non è vero, non è vero (¡qué se le va a hacer!)</title>
+      <link>/2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/</link>
+      <pubDate>Mon, 21 Oct 2019 09:13:18 +0000</pubDate>
+      
+      <guid>/2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/</guid>
+      <description>Me llegó por fuentes habitualmente fiables el vídeo
+https://www.youtube.com/watch?v=2Fh_XmK3yis
+que se resume en que el apagón del día 29 de septiembre en Tenerife, es decir, esta cosa tan horrorosa
+fue producto de la variabilidad de la producción de la energía eólica. En particular, de una bajada drástica de la aportación de la eólica al mix consecuencia de un descenso en la intensidad del viento. Lo cual, de ser cierto, debería convertirse en referencia básica para ilustrar los perniciosos efectos de la variabilidad, etc.</description>
+    </item>
+    
+    <item>
+      <title>Energía solar: instalaciones industriales vs paneles en tejados</title>
+      <link>/2016/02/15/energia-solar-instalaciones-industriales-vs-paneles-en-tejados/</link>
+      <pubDate>Mon, 15 Feb 2016 09:13:56 +0000</pubDate>
+      
+      <guid>/2016/02/15/energia-solar-instalaciones-industriales-vs-paneles-en-tejados/</guid>
+      <description>Llegó a mis manos un documento sobre los costes relativos de las distintas tecnologías e implementaciones para generar energía eléctrica del que rescato este subgráfico:
+Muestra el precio del MWh en dólares y sirve para comparar, por ejemplo, el coste de los paneles que la gente instala en sus tejados (184-300) con el de instalaciones industriales (50-70).
+Las conclusiones, de nuevo, de cada cual.</description>
+    </item>
+    
+    <item>
+      <title>Por si os interesa el tema de la energía, las centrales, las emisiones, etc.</title>
+      <link>/2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/</link>
+      <pubDate>Wed, 20 Jan 2016 08:13:51 +0000</pubDate>
+      
+      <guid>/2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/</guid>
+      <description>Esta entrada será del interés de a quien le atraigan dos temas bastante independientes entre sí:
+ * La energía, las centrales eléctricas, sus emisiones, etc. * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)  Allá va el código
+library(SPARQL) library(ggplot2) queryString = &amp;quot;PREFIX a: &amp;lt;http://enipedia.tudelft.nl/wiki/&amp;gt; PREFIX prop: &amp;lt;http://enipedia.tudelft.nl/wiki/Property:&amp;gt; PREFIX rdfs: &amp;lt;http://www.w3.org/2000/01/rdf-schema#&amp;gt; select ?plant ?name ?elec_capacity_MW ?lat ?lon ?operator where { ?plant prop:Country a:Spain . #get the name #?plant rdfs:label ?name . ?plant prop:Generation_capacity_electrical_MW ?elec_capacity_MW . #?</description>
+    </item>
+    
+  </channel>
+</rss>

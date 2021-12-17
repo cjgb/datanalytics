@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>validación cruzada on datanalytics</title>
+    <link>/tags/validaci%C3%B3n-cruzada/</link>
+    <description>Recent content in validación cruzada on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 Apr 2019 09:13:23 +0000</lastBuildDate><atom:link href="/tags/validaci%C3%B3n-cruzada/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre el error de generalización (porque a veces se  nos olvida)</title>
+      <link>/2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/</link>
+      <pubDate>Tue, 16 Apr 2019 09:13:23 +0000</pubDate>
+      
+      <guid>/2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/</guid>
+      <description>Al construir modelos, queremos minimizar
+$latex l(\theta) = \int L(y, f_\theta(x)) , dP(x,y),$
+donde $L$ es una determinada función de pérdida (y no, no me refiero exclusivamente a la que tiene un numerilo 2). Pero como de $latex P(x,y)$ solo conocemos una muestra $latex (x_i, y_i)$ (dejadme aprovechar la ocasión para utilizar una de mis palabras favoritas: $latex P(x,y)$ es incognoscible), hacemos uso de la aproximación
+$latex \int f(x) , dP(x) \approx \frac{1}{N} \sum f(x_i)$</description>
+    </item>
+    
+    <item>
+      <title>¿Vale realmente el &#34;bootstrap&#34; para comparar modelos?</title>
+      <link>/2019/04/02/vale-realmente-el-bootstrap-para-comparar-modelos/</link>
+      <pubDate>Tue, 02 Apr 2019 09:13:36 +0000</pubDate>
+      
+      <guid>/2019/04/02/vale-realmente-el-bootstrap-para-comparar-modelos/</guid>
+      <description>Es una pregunta legítima —en el sentido de que ignoro la respuesta— que tengo. Para plantearla en sus debidos términos:
+Contexto:
+Tenemos modelos y queremos compararlos. Queremos que funcionen en el universo, pero solo disponemos de él una muestra.
+Acto 1:
+Para desatascar el nudo lógico, recurrimos a técnicas como:
+ Entrenamiento y validación,j * jackknife y sobre todo, * su popular evolución, la validación cruzada.  Todas ellas bien sabidas y discutidas en todos los manuales.</description>
+    </item>
+    
+    <item>
+      <title>Validación cruzada en R</title>
+      <link>/2016/02/23/validacion-cruzada-en-r/</link>
+      <pubDate>Tue, 23 Feb 2016 09:13:34 +0000</pubDate>
+      
+      <guid>/2016/02/23/validacion-cruzada-en-r/</guid>
+      <description>Está de moda usar caret para estas cosas, pero yo estoy todavía acostumbrado a hacerlas a mano. Creo, además, que es poco instructivo ocultar estas cuestiones detrás de funciones de tipo caja-negra-maravillosa a quienes se inician en el mundo de la construcción y comparación de modelos. Muestro, por tanto, código bastante simple para la validación cruzada de un modelo con R:
+# genero ids ids &amp;lt;- rep(1:10, length.out = nrow(&amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+  </channel>
+</rss>

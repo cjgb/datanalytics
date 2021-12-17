@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data.table on datanalytics</title>
+    <link>/tags/data.table/</link>
+    <description>Recent content in data.table on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Apr 2017 08:13:24 +0000</lastBuildDate><atom:link href="/tags/data.table/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avisos recibidos, avisos resueltos y la creciente suma acumulada</title>
+      <link>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</link>
+      <pubDate>Mon, 24 Apr 2017 08:13:24 +0000</pubDate>
+      
+      <guid>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</guid>
+      <description>El ayuntamiento de Madrid publica información (desde 2015) de los avisos recibidos por los ciudadanos a través de los distintos canales puestos a su disposición (010, LineaMadrid, la app, etc.).
+He bajado los datos y he pintado
+que es la suma acumulada de la diferencia entre los avisos entrantes y los resueltos día a día usando
+library(data.table) library(xts) recibidos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;recibi&amp;quot;), fread)) resueltos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;resu&amp;quot;), fread)) recibidos.</description>
+    </item>
+    
+    <item>
+      <title>Dos nuevos tutoriales sobre data.table y dplyr</title>
+      <link>/2016/07/12/dos-nuevos-tutoriales-sobre-data-table-y-dplyr/</link>
+      <pubDate>Tue, 12 Jul 2016 08:13:34 +0000</pubDate>
+      
+      <guid>/2016/07/12/dos-nuevos-tutoriales-sobre-data-table-y-dplyr/</guid>
+      <description>Los productos de Apple, aun admitiendo su calidad, resuelven problemas que yo hace años que no tenía. Tanto data.table como dplyr vinieron a resolver problemas a los que muchos nos enfrentábamos con sudor y lágrimas.
+Ha aparecido recientemente una serie de tutoriales sobre ambos paquetes que recomiendo:
+ * El de [`data.table`](https://rollingyours.wordpress.com/2016/06/14/fast-aggregation-of-large-data-with-the-data-table-package/) * El de `dplyr` ([parte I](https://rollingyours.wordpress.com/2016/06/29/express-intro-to-dplyr/), [parte II](https://rollingyours.wordpress.com/2016/07/07/express-dplyr-part-ii/))  Y mis comentarios:
+ * Para el 99% de mis problemas de manipulación de datos, me sobra con, además de R base, `reshape2` y `plyr`.</description>
+    </item>
+    
+    <item>
+      <title>Una estupenda introducción intermedia a data.table</title>
+      <link>/2016/07/08/una-estupenda-introduccion-intermedia-a-data-table/</link>
+      <pubDate>Fri, 08 Jul 2016 08:13:05 +0000</pubDate>
+      
+      <guid>/2016/07/08/una-estupenda-introduccion-intermedia-a-data-table/</guid>
+      <description>Jan Gorecki ha resumido las soluciones a las cincuenta preguntas más populares sobre el paquete data.table de R en Stack Overflow y las ha resumido en forma de tutorial aquí.
+Muy recomendable. Muy recomendable también data.table.
+Aunque me temo que el hadleyverse, y por razones que nada tienen que ver con la calidad de la cosa, no van a dejar de él, a medio plazo, ni las raspas.</description>
+    </item>
+    
+    <item>
+      <title>Experto en Data Science en la U-tad</title>
+      <link>/2014/10/09/experto-en-data-science-en-la-u-tad/</link>
+      <pubDate>Thu, 09 Oct 2014 07:13:40 +0000</pubDate>
+      
+      <guid>/2014/10/09/experto-en-data-science-en-la-u-tad/</guid>
+      <description>Se me ha ido pasando y nunca he llegado a escribir aquí que seré uno de los profesores del Experto en Data Science de la U-tad que comienza&amp;hellip; de hecho este viernes.
+
+El escribir tan tarde me permite, al menos, presumir de que todo lo bueno que tengo que decir sobre el programa y el claustro no tiene finalidad comercial/propagandística.
+Y sí, lo habéis adivinado: la parte del programa que me corresponde tiene que ver con R y algunos de los paquetes que me sacan de apuros a diario (p.</description>
+    </item>
+    
+    <item>
+      <title>plyr, dplyr, data.table: ¿qué opinas?</title>
+      <link>/2014/09/24/plyr-dplyr-data-table-que-opinas/</link>
+      <pubDate>Wed, 24 Sep 2014 07:13:27 +0000</pubDate>
+      
+      <guid>/2014/09/24/plyr-dplyr-data-table-que-opinas/</guid>
+      <description>Fui un pájaro mañanero con [plyr](http://cran.r-project.org/web/packages/plyr/index.html).
+Probé una vez [data.table](http://cran.r-project.org/web/packages/data.table/index.html) y no me convenció. Volví a él cuando realmente lo necesitaba y ahora es la prolongación de mis dedos.
+Aún no me he puesto con [dplyr](http://cran.r-project.org/web/packages/dplyr/index.html) aunque he visto el suficiente código escrito con él que no creo que me cueste mucho comenzar a usarlo.
+Pero tengo la sensación de que tenemos un cisma como el de vi contra emacs en ciernes.</description>
+    </item>
+    
+    <item>
+      <title>data.table (II): agregaciones</title>
+      <link>/2013/05/09/data-table-ii-agregaciones/</link>
+      <pubDate>Thu, 09 May 2013 07:52:45 +0000</pubDate>
+      
+      <guid>/2013/05/09/data-table-ii-agregaciones/</guid>
+      <description>Sigo con mi lacónica serie sobre data.table.
+La protagonista:
+frases[sample(1:nrow(frases), 3),] #pos.es pos.en length.es length.en en es frase tfe qjilm num #1: 15 43 72 72 i de 2632 4.881416e-02 0.01369863 6.686871e-04 #2: 33 48 46 48 X países 5321 2.726146e-06 0.02040816 5.563563e-08 #3: 2 35 53 66 in preguntar 4582 2.424379e-08 0.01492537 3.618476e-10 dim(frases) #[1] 6340091 10  El tiempo:
+system.time({ setkey(frases, &amp;quot;frase&amp;quot;, &amp;quot;es&amp;quot;) denominadores &amp;lt;- frases[, sum(num), by = key(frases)] setnames(denominadores, c(&amp;quot;frase&amp;quot;, &amp;quot;es&amp;quot;, &amp;quot;den&amp;quot;) ) frases &amp;lt;- merge(frases, denominadores) frases$delta &amp;lt;- frases$num / frases$den }) #user system elapsed #5.</description>
+    </item>
+    
+    <item>
+      <title>Datatables: tablas con búsqueda binaria en R</title>
+      <link>/2010/05/09/datatables-tablas-con-busqueda-binaria-en-r/</link>
+      <pubDate>Sun, 09 May 2010 15:28:47 +0000</pubDate>
+      
+      <guid>/2010/05/09/datatables-tablas-con-busqueda-binaria-en-r/</guid>
+      <description>No hace mucho me enfrenté con un problema en el trabajo. Quería cruzar dos tablas, una de algunos miles de millones de registros y otra de algunos cientos de miles para, simplemente, contar el número de filas finales que aparecían por fecha.
+Cada una de las tablas tenía algunos filtros y agregaciones; el cruce final se realizaba sobre las subconsultas resultantes. El gestor de bases de datos que utilizamos, Teradata (sin comentarios), no podía con el cruce: las decisiones que tomaba internamente el presunto optimizador de consultas conducían inexorablemente a un error de espacio.</description>
+    </item>
+    
+  </channel>
+</rss>

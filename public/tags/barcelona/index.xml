@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>barcelona on datanalytics</title>
+    <link>/tags/barcelona/</link>
+    <description>Recent content in barcelona on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 25 Oct 2019 09:13:51 +0000</lastBuildDate><atom:link href="/tags/barcelona/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gente que toma la causalidad en vano</title>
+      <link>/2019/10/25/gente-que-toma-la-causalidad-en-vano/</link>
+      <pubDate>Fri, 25 Oct 2019 09:13:51 +0000</pubDate>
+      
+      <guid>/2019/10/25/gente-que-toma-la-causalidad-en-vano/</guid>
+      <description>Me refiero a los autores de_ _El impacto de Airbnb en el mercado de vivienda de Barcelona, que a partir de datos puramente observacionales y en un artículo de apenas 1500 palabras, mencionan la causalidad siete veces. Además, escriben joyas como
+Ya sabes: si quieres un análisis causal robusto, el modelo lineal (chupatesa, Pearl).
+Nah, lo que esa gente publica es otro estudio más de atribución, que, muchas veces y en su versión de sombrero negro, consiste esencialmente en vestir de lenguaje estadístico trucos diversos para obtener el número que tu audiencia quiere ver.</description>
+    </item>
+    
+  </channel>
+</rss>

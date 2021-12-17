@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brecha on datanalytics</title>
+    <link>/tags/brecha/</link>
+    <description>Recent content in brecha on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 04 Jan 2019 08:13:48 +0000</lastBuildDate><atom:link href="/tags/brecha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la brecha salarial... de belleza</title>
+      <link>/2019/01/04/sobre-la-brecha-salarial-de-belleza/</link>
+      <pubDate>Fri, 04 Jan 2019 08:13:48 +0000</pubDate>
+      
+      <guid>/2019/01/04/sobre-la-brecha-salarial-de-belleza/</guid>
+      <description>¿Por qué existe un debate público sobre la brecha salarial de género y no sobre la brecha salarial por cualquier otra presunta causa? La hay, p.e., por nivel de estudios. Pero, claro, uno siempre puede argumentar en términos meritocráticos. ¿Por sector económico? Ahí está menos claro y discutirlo nos llevaría muy lejos.
+Pero, ¿por qué no ir más allá de las variables registradas por el INE y fijarnos, p.e., en la belleza (física)?</description>
+    </item>
+    
+    <item>
+      <title>Brechas salariales: así las calcularía yo</title>
+      <link>/2018/03/09/brechas-salariales-asi-las-calcularia-yo/</link>
+      <pubDate>Fri, 09 Mar 2018 08:13:25 +0000</pubDate>
+      
+      <guid>/2018/03/09/brechas-salariales-asi-las-calcularia-yo/</guid>
+      <description>He visto N estimaciones de las brechas salariales (de género) con resultados de lo más variado. En algunos casos he podido estudiar los métodos utilizados y, la verdad, dan grima (cosas con tufo econométrico viejuno y demás).
+Y me refiero, particularmente, a aquellos métodos que analizan la pregunta interesante: ¿hay igualdad de salario a igualdad de méritos? Hay publicaciones que llaman brecha a otra cosa (masa salarial dividido por sujetos), que no merece ni ser comentada aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

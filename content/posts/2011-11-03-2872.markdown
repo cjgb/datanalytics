@@ -1,0 +1,45 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2011-11-03 06:26:46+00:00
+draft: false
+title: Medias de medias... ¿a estas alturas de siglo?
+
+url: /2011/11/03/medias-de-medias-alturas-siglo/
+categories:
+- números
+tags:
+- anumerismo
+- epa
+- números
+---
+
+Lo sospechaba y ha resultado ser cierto: media de medias. ¡Carajo! El siguiente gráfico que compara la tasa media de paro entre el norte y el sur de España está [extraído de El Economista](http://www.eleconomista.es/catalunya/noticias/3488432/10/11/Andalucia-y-Cataluna-las-comunidades-donde-mas-crecio-el-paro.html):
+
+[![](/wp-uploads/2011/10/media_de_medias_el_economista.png)
+](/wp-uploads/2011/10/media_de_medias_el_economista.png)
+
+¿Cómo se han calculado los porcentajes? Veámoslo (a partir de los datos que aparecen en el artículo); para el sur, promedia las tasas de paro de cada comunidad autónoma así:
+
+
+
+{{< highlight R "linenos=true" >}}
+mean( c( 30.93, 29.55, 22.44, 24.73, 23.6, 24.19, 33.2, 23.81 ) )
+# [1] 26.55625
+{{< / highlight >}}
+
+
+Operación que, obvia decirlo, sólo sería correcta si la población de todas las comunidades autónomas implicadas fuese, cuando menos, similar (y, p.e., la población de Andalucía fuese comparable a la de Melilla).
+
+Y para el norte, asá:
+
+
+
+{{< highlight R "linenos=true" >}}
+mean( c( 16.16, 17.17, 17.81, 14.10, 16.08, 19.43,
+        17.25, 17.01, 11.68, 12.17, 17.39 ) )
+# [1] 16.02273
+{{< / highlight >}}
+
+
+
+Para que no se me ocuse de perpetuo protestador, quiero anunciar que estoy trabajando en un programa (y tal vez paquete) de R que permita importar automáticamente los microdatos de la [EPA](http://www.ine.es/prensa/epa_prensa.htm) para que el desmedido talento de los usuarios de R permita desenterrar patrones más interesantes que los que nos regalan mensualmente los periodistas anuméricos.

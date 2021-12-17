@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logaritmo on datanalytics</title>
+    <link>/tags/logaritmo/</link>
+    <description>Recent content in logaritmo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 16 Nov 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/logaritmo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué números admiten la distribución de Benford?</title>
+      <link>/2020/11/16/que-numeros-admiten-la-distribucion-de-benford/</link>
+      <pubDate>Mon, 16 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/16/que-numeros-admiten-la-distribucion-de-benford/</guid>
+      <description>[Esta entrada es casi una caracterización de lo que promete el título. Quitarle el casi sería prolijo. Pero creo que casi, casi, se adivina de lo que sigue.]
+Siempre que hablamos de distribuciones de probabilidad, somos muy conscientes de los requisitos y condiciones bajo las que aplican. Con una excepción: al hablar del manido Benford. En tales casos se suele argumentar de una manera un tanto mística. Y doblemente mística, como consecuencia, cuando toca explicar por qué en ciertos datos concretos no aplica.</description>
+    </item>
+    
+    <item>
+      <title>¡Eh! ¡Atención a la media geométrica!</title>
+      <link>/2019/05/09/eh-atencion-a-la-media-geometrica/</link>
+      <pubDate>Thu, 09 May 2019 09:13:57 +0000</pubDate>
+      
+      <guid>/2019/05/09/eh-atencion-a-la-media-geometrica/</guid>
+      <description>El insomnio y la serendipia me han hecho transitar por unas líneas en las que se lee:
+La media geométrica resuelve problemas relacionados con los outliers y encuentra aplicaciones inesperadas, como por ejemplo esta (donde, véase la nota del final, se usa para mitigar el efecto de determinados valores anómalos y suavizar las series).
+Está indicada para situaciones en los que los valores recorren diversos órdenes de magnitud (piénsese: salarios en economías medianamente libres) y, en general y usando terminología talebiana, extremistán (en oposición al arimético normalistán).</description>
+    </item>
+    
+    <item>
+      <title>¿Admitirá finalmente el DLE la acepción &#34;algoritmo&#34; de &#34;logaritmo&#34;?</title>
+      <link>/2018/03/23/admitira-finalmente-el-dle-la-acepcion-algoritmo-de-logaritmo/</link>
+      <pubDate>Fri, 23 Mar 2018 08:13:24 +0000</pubDate>
+      
+      <guid>/2018/03/23/admitira-finalmente-el-dle-la-acepcion-algoritmo-de-logaritmo/</guid>
+      <description>Estaba ayer todavía en la cama a una hora muy aristocrática cuando en RNE invitaron a un presunto experto en big data a hablar de quién sabe qué. Aquel pobre hombre habló sobre los problemas que plantean, en particular, los logaritmos. Cuando quería decir, claro, algoritmos.
+No es la primera vez que lo oigo. Aunque sí la primera en un medio formal. Al menos, oral. Pero cualquier día vemos la ignorancia plasmada en negro sobre blanco, recogida por un lexicógrafo y elevada a categoría en forma de definición del DLE.</description>
+    </item>
+    
+    <item>
+      <title>Hoy, como excepción, gritaré y justificaré: ¡Malditos logaritmos!</title>
+      <link>/2017/06/29/hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos/</link>
+      <pubDate>Thu, 29 Jun 2017 08:13:36 +0000</pubDate>
+      
+      <guid>/2017/06/29/hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos/</guid>
+      <description>Dados unos números positivos hay que justificar por que no tomar logaritmos y no al revés. La carga de la prueba recae sobre quien no lo hace.
+No obstante:
+Tenía unos datos (para cada $latex t$) que siguen (me lo juran) un modelo teórico
+$latex \log y \sim k \exp(-at)$
+Existen dos opciones para encontrar los parámetros deseados $latex k$ y $latex a$. El primero, tomando logaritmos y aplicando lm. El segundo, ajustando un modelo no lineal con, p.</description>
+    </item>
+    
+    <item>
+      <title>Así se calculan los logaritmos de Zaragoza, se ve (y una reflexión)</title>
+      <link>/2017/03/21/asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion/</link>
+      <pubDate>Tue, 21 Mar 2017 19:37:43 +0000</pubDate>
+      
+      <guid>/2017/03/21/asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion/</guid>
+      <description>Estoy en Zaragoza. He bajado a la biblioteca pública que tengo delante de casa y la que le dieron el nombre de aquel chileno de las alamedas. He curioseado lo que tenían de matemáticas y de entre los menos de cien volúmenes de la cosa,
+Efectivamente, el libro trataba de lo que su lomo decía: eran tablas y más tablas de logaritmos de números, con sus añejos distingos entre las mantisas y eso otro que ya no recuerdo cómo se llamaba.</description>
+    </item>
+    
+    <item>
+      <title>Una transformación (y segmentación) novedosa de variables (lognormaloides)</title>
+      <link>/2014/09/17/una-transformacion-y-segmentacion-novedosa-de-variables-lognormaloides/</link>
+      <pubDate>Wed, 17 Sep 2014 07:13:57 +0000</pubDate>
+      
+      <guid>/2014/09/17/una-transformacion-y-segmentacion-novedosa-de-variables-lognormaloides/</guid>
+      <description>&amp;ndash; La variable gasto tiene una distribución muy fea que tiene un impacto en el modelo. He optado por transformarla. &amp;ndash; ¿Qué has hecho? &amp;ndash; Bueno, verás: no es lo mismo que alguien gaste menos de un euro o que gaste más de cien. A los que gastan entre cero y uno les he dado el valor 0. &amp;ndash; Vale. &amp;ndash; Entonces, a los que gastan, digamos, entre 1 y 10, 1; luego, a los que gastan entre 10 y 100, 2.</description>
+    </item>
+    
+  </channel>
+</rss>

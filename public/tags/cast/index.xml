@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cast on datanalytics</title>
+    <link>/tags/cast/</link>
+    <description>Recent content in cast on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 17 May 2016 08:13:04 +0000</lastBuildDate><atom:link href="/tags/cast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Melt y cast en Spark con scala</title>
+      <link>/2016/05/17/melt-y-cast-en-spark-con-scala/</link>
+      <pubDate>Tue, 17 May 2016 08:13:04 +0000</pubDate>
+      
+      <guid>/2016/05/17/melt-y-cast-en-spark-con-scala/</guid>
+      <description>Trabajar con Spark usando Scala implica renunciar a ese paraíso que son las funciones melt y (d)cast de reshape2.
+¿O no?
+&amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;StructField; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;StructType; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;StringType; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;types.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;DoubleType; &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;import &amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;org.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;apache.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;spark.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;sql.&amp;lt;span style=&amp;quot;color:#0053ff;font-weight:700&amp;quot;&amp;gt;Row; &amp;lt;span style=&amp;quot;color:#af82d4&amp;quot;&amp;gt;/** Create some data **/ &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;val nrows = &amp;lt;span style=&amp;quot;color:#a8017e&amp;quot;&amp;gt;20 &amp;lt;span style=&amp;quot;color:#069;font-weight:700&amp;quot;&amp;gt;val origDF = sc.</description>
+    </item>
+    
+  </channel>
+</rss>

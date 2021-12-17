@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coronavirus on datanalytics</title>
+    <link>/tags/coronavirus/</link>
+    <description>Recent content in coronavirus on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Sep 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En respuesta a los &#34;dudacionistas&#34; de la vacuna que me preguntaron, preguntan o preguntarán</title>
+      <link>/2021/09/24/en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran/</link>
+      <pubDate>Fri, 24 Sep 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/09/24/en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran/</guid>
+      <description>Previo:
+ Hoy he oído el término dudacionista (de la vacuna) por primera vez. Me parece, por lo que contaré después, mucho más apropiado —y en otros que también aclararé, mucho menos— que negacionista para muchos de los casos que conozco. * Varios dudacionistas me han preguntado sobre mi opinión sobre su postura. Por referencia (mía y suya) y para poder contestar a los que vengan con una url, escribo lo que sigue.</description>
+    </item>
+    
+    <item>
+      <title>En respuesta a los que me preguntan si pondré &#34;la vacuna&#34;</title>
+      <link>/2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/</link>
+      <pubDate>Mon, 07 Dec 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/</guid>
+      <description>_[Dejo aquí por escrito la respuesta detallada a esa pregunta por, primero, una cuestión de eficiencia: poder contestarla con un enlace cuando me vengan de nuevo con ella. Pero también por la relación que guarda con temas como el riesgo o la teoría de la decisión que a estas página mías no les son ajenos.] _
+I.
+¿Me vacunaré?
+Espero que no, ojalá que no. Lo digo solo porque soy penúltimo o antepenúltimo en esa lista de prelaciones que parecen haber publicado nuestras beneméritas autoridades (y que tanto me recuerda a esto).</description>
+    </item>
+    
+    <item>
+      <title>PIB trimestral: una alternativa gráfica a la representación tradicional para los tiempos del coronavirus</title>
+      <link>/2020/11/04/pib-trimestral-una-alternativa-grafica-a-la-representacion-tradicional-para-los-tiempos-del-coronavirus/</link>
+      <pubDate>Wed, 04 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/04/pib-trimestral-una-alternativa-grafica-a-la-representacion-tradicional-para-los-tiempos-del-coronavirus/</guid>
+      <description>Gráficas que muestran la velocidad a la que varía el PIB como
+han sido habituales para representar la evolución de la economía. En particular, porque antes de los espasmos de los últimos trimestres eran más o menos fáciles de intepretar. Pero ahora ya no.
+La velocidad es una medida útil en tanto que varía de manera más o menos suave. En momentos de botes y rebotes, es mejor saber dónde se está que a la velocidad a la que uno no sabe si sube o baja.</description>
+    </item>
+    
+    <item>
+      <title>Una potencial consecuencia positiva de lo del coronavirus</title>
+      <link>/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/</link>
+      <pubDate>Mon, 05 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/</guid>
+      <description>Veo
+https://twitter.com/jseabold/status/1312415608764600325
+y consulto en uno (de los más usados y famosos) de esos manuales españoles (ergo, hiperclásicos) de introducción a la modelización de series temporales y no veo capítulo con el que pueda tratarse razonablemente.
+¡Tiempo de actualizarse (p.e., así)!</description>
+    </item>
+    
+    <item>
+      <title>Recordatorio: no olvidéis restar los fallecimientos atribuibles al calor en la estimación del efecto de la &#34;segunda ola&#34;</title>
+      <link>/2020/09/14/recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola/</link>
+      <pubDate>Mon, 14 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/14/recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola/</guid>
+      <description>La estimación de la mortalidad atribuible a la gripe estacional (que no, que no se hace consultando la causa de muerte que consignan los médicos medio al buen tuntún por motivos administrativos y que luego recoge el INE, como parece que dan a entender estos beneméritos verificadores para la confusión de quienes den su palabra por buena) tiene una complicación sustancial: ocurre simultánea y co-casualmente con el frío, que incrementa las defunciones por motivos otros.</description>
+    </item>
+    
+    <item>
+      <title>Coronavirus: prevalencia, sensibilidad y especificidad</title>
+      <link>/2020/06/16/coronavirus-prevalencia-sensibilidad-y-especificidad/</link>
+      <pubDate>Tue, 16 Jun 2020 15:05:00 +0000</pubDate>
+      
+      <guid>/2020/06/16/coronavirus-prevalencia-sensibilidad-y-especificidad/</guid>
+      <description>El otro día, por motivos que no vienen al caso, dibujé
+que es una gráfica que muestra la posibilidad de tener aquello que quiera Dios que midan los tests del estudio ENECOVID-19 para aquellos a los que el test correspondiente ha dado positivo habida cuenta de su sensibilidad (85%) y especificidad (98%, que uso en lugar del menos creíble 99% que usa el estudio).
+Efectivamente, cuando la prevalencia es baja, casi todos los tests positivos son falsos: corresponden a ese 2% de error que tiene el test sobre la población sana.</description>
+    </item>
+    
+    <item>
+      <title>53 (o, ¿cuál es la prior?)</title>
+      <link>/2020/06/09/53-o-cual-es-la-prior/</link>
+      <pubDate>Tue, 09 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/09/53-o-cual-es-la-prior/</guid>
+      <description>En la documentación técnica del estudio ENE-COVID19 (recuérdese: INE + ISCIII) se describe un estudio de fiabilidad previo del test rápido (sección A1.2) que se anuncia así:
+Veamos en qué consisten.
+Es decir, para la especificidad cuentan con 53 sujetos (sanos) de los cuales 1 ha dado positivo (que es la manera de decir en cristiano que la especificidad es del 98.1).
+Luego, en la documentación suceden cosas interesantísimas que no nos cuentan para acabar dando por buenos los siguientes números:</description>
+    </item>
+    
+    <item>
+      <title>&#34;The great reset&#34;</title>
+      <link>/2020/05/25/the-great-reset/</link>
+      <pubDate>Mon, 25 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/25/the-great-reset/</guid>
+      <description>La ciencia de datos es la ciencia de la extrapolación. Todas las técnicas que la componen tratan de eso: de como proyectar hacia el futuro el comportamiento pasado. Si funciona, es por las inercias que operan en lo físico, en lo sicológico, en lo conductual.
+[La ciencia de datos puede (no necesariamente, pero puede) ser una extrapolación objetiva: de ahí que quienes denuncian su presunta amoralidad solo nos están haciendo saber una opinión: que el pasado no encaja con su personalísimo criterio ético.</description>
+    </item>
+    
+    <item>
+      <title>Análisis (bayesiano) de pruebas con sensibilidad/especificidad desconocida</title>
+      <link>/2020/05/21/analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida/</link>
+      <pubDate>Thu, 21 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/21/analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida/</guid>
+      <description>Esto tiene que ver con lo del estudio ENECOVID, por supuesto.
+Esto tiene que ver con los ajustes que hay que realizar en los resultados por la menos que perfecta sensibilidad y especificidad.
+Porque no basta con lo que diga el prospecto de los kits chinos.
+Por eso es recomendable leer Bayesian analysis of tests with unknown specificity and sensitivity.
+Coda: Cuando era matemático y comencé a estudiar estadística, me llamaba mucho la atención (por no decir que me escandalizaba) la alegría con la que estimadores sujetos a error de un modelo se insertaban como verdad divina en otro.</description>
+    </item>
+    
+    <item>
+      <title>Micromuertes y coronavirus</title>
+      <link>/2020/05/19/micromuertes-y-coronavirus/</link>
+      <pubDate>Tue, 19 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/19/micromuertes-y-coronavirus/</guid>
+      <description>[Esta entrada abunda en la que escribí hace nueve años sobre las micromuertes y sin la cual no se entiende.]
+El concepto de micromuerte sirve para anclar y comparar adecuadamente riesgos diminutos. De acuerdo con la entrada que referencio arriba, una micromuerte equivale al riesgo (recuérdese: ¡promedio!) de caminar 15 km o conducir 250. Pasar una noche en el hospital consume 75 de ellos (por riesgo de contagios que no tengan que ver con el motivo de ingreso) y dar a luz, alrededor de 100.</description>
+    </item>
+    
+    <item>
+      <title>Un marco sobre el que reflexionar sobre el estudio de seroprevalencia ENECovid19</title>
+      <link>/2020/05/15/un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19/</link>
+      <pubDate>Fri, 15 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/15/un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19/</guid>
+      <description>El ISCIII ha publicado los resultados preliminares del estudio de seroprevalencia ENECovid19.
+Es bueno leerlo en paralelo a esto, donde se analiza un estudio similar (aunque más pequeño) realizado hace un tiempo.</description>
+    </item>
+    
+    <item>
+      <title>En defensa de Simón: variaciones diarias de la  mortalidad</title>
+      <link>/2020/05/13/en-defensa-de-simon-variaciones-diarias-de-la-mortalidad/</link>
+      <pubDate>Wed, 13 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/13/en-defensa-de-simon-variaciones-diarias-de-la-mortalidad/</guid>
+      <description>Qué cafres tenéis que ser para que tenga que salir yo —precisamente yo, que tantas cosas no buenas tengo para decir del buen hombre— en defensa de Simón. Tiene delito que de todo lo que se le pueda echar en cara os hayáis fijado en una intervención en la que os trataba de desasnar para que no le anduviéseis buscando tres pies a la varianza.
+Es un tema que vengo tratando de antiguo en estas páginas y de ello dan fe:</description>
+    </item>
+    
+    <item>
+      <title>Coronavirus cualitativo</title>
+      <link>/2020/05/07/coronavirus-cualitativo/</link>
+      <pubDate>Thu, 07 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/07/coronavirus-cualitativo/</guid>
+      <description>Una de las pocas cosas rescatables de la antigua dialéctica es aquella ley de la transformación de los cambios cuantitativos en cualitativos.
+Lo cuantitativo en estos tiempos del coronatirus se ha convertido en una especie de caza de pokemones, con cifras que suben y bajan, concienzudas exégesis de la varianza y todo tipo de medias verdades.
+Pero es inevitable que los números, sean cuales sean realmente, cuajen cambios cualitativos mucho más rotundos y cuestionables.</description>
+    </item>
+    
+    <item>
+      <title>¿42.000 muertes por coronavirus? Una corrección de la heterogeneidad</title>
+      <link>/2020/05/04/42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad/</link>
+      <pubDate>Mon, 04 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/04/42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad/</guid>
+      <description>Publica hoy (cuando escribo) El Confidencial el artículo 42.000 muertes por covid: un estudio eleva la mortalidad un 76% sobre la cifra oficial citando el Estudio del exceso de mortalidad motivado por pandemia de Covid-19 de unos ingenieros de la UPM que corrige al alza los números de MoMo.
+El resumen es simple: MoMo no recoge todas las defunciones, solo las de los registros civiles informatizados. Aunque la cobertura sea del ~95% de la población española, hay diferencias grandes por CCAA (y aún más, aunque no haya cifras públicas al respecto, por provincia).</description>
+    </item>
+    
+    <item>
+      <title>Muestreo, sensibilidad y especificidad</title>
+      <link>/2020/04/27/muestreo-sensibilidad-y-especificidad/</link>
+      <pubDate>Mon, 27 Apr 2020 08:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/27/muestreo-sensibilidad-y-especificidad/</guid>
+      <description>El bloque de código
+n_pop &amp;lt;- 47e6 prev &amp;lt;- .02 n_muestra &amp;lt;- 60e3 real_sensitivity &amp;lt;- .8 real_specificity &amp;lt;- .995 estimated_sensitivity &amp;lt;- .81 estimated_specificity &amp;lt;- .99  anuncia que vamos a hablar de:
+ un país con una población no muy distinta de la de España * que sufre una pandemia con una prevalencia del 2% * en el que se realiza una selección de unos 60k sujetos * para aplicárseles unas pruebas con una sensibilidad y especificidad que pueden o no ser las que anuncia su prospecto,  supongo que para que dentro de unos años, cuando ya a nadie le importe, se publiquen unos datos que han guardado celosamente unos señores que mucho antes nos habrán regalado unos artículos científicos sobre el tema — necesariamente mediocres y que nos tendremos que creer— cuya publicación está garantizada por el mero hecho de que solo ellos tienen los CSVs mientras que la gente verdaderamente capaz, no.</description>
+    </item>
+    
+    <item>
+      <title>Defunciones: INE vs MoMo</title>
+      <link>/2020/04/21/defunciones-ine-vs-momo/</link>
+      <pubDate>Tue, 21 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/21/defunciones-ine-vs-momo/</guid>
+      <description>[Fe de errores: en varias secciones de lo que sigue se hace referencia a 2018 como año completo. En realidad, solo se están usando los datos de los trimestres 2, 3 y 4 de 2018, que es en los que hay solapamiento entre los datos del INE y de MoMo.]
+Es un error tomar las cifras de MoMo literalmente. Está explicado por doquier: MoMo no es el INE sino un sistema de alerta temprana por mortalidad.</description>
+    </item>
+    
+    <item>
+      <title>Activa Madrid: el laboratorio de ideas</title>
+      <link>/2020/04/20/activa-madrid-el-laboratorio-de-ideas/</link>
+      <pubDate>Mon, 20 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/20/activa-madrid-el-laboratorio-de-ideas/</guid>
+      <description>Reproduzco de aquí:</description>
+    </item>
+    
+    <item>
+      <title>Be-MOMO</title>
+      <link>/2020/04/16/be-momo/</link>
+      <pubDate>Thu, 16 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/16/be-momo/</guid>
+      <description>Hay comparaciones odiosas. Así que no voy a comparar con nada. Voy a limitarme a invitaros a ver cómo divulgan información epidemiológica en Bélgica:
+ Coronavirus: panel de control y datos * Enfermedades infecciosas * Mortalidad * Enfermedades de transmisión sexual * ¡Garrapatas! * Gripe  Con su documentación, sus referencias, etc. y en inglés, además.
+En fin.</description>
+    </item>
+    
+    <item>
+      <title>Cosas que ocurrirán sin lugar a dudas tras el coronavirus</title>
+      <link>/2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/</link>
+      <pubDate>Wed, 15 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/</guid>
+      <description>Hay mucha incertidumbre sobre cómo será el mundo post-coronavirus. Pero una cosa es segura: tendremos gráficas tales como
+hasta en la sopa. La buena noticia para quienes son ellos y su ideología, es que hay tantos grados de libertad, i.e., la posibilidad de elegir muy cuidadosamente
+ las variables que colocar en el eje x, las fuentes, los años de los datos, etc., * los indicadores que colocar en el eje y, * los países, provincias, regiones, etc.</description>
+    </item>
+    
+    <item>
+      <title>Pokemoneando ruido</title>
+      <link>/2020/04/02/pokemoneando-ruido/</link>
+      <pubDate>Thu, 02 Apr 2020 16:03:48 +0000</pubDate>
+      
+      <guid>/2020/04/02/pokemoneando-ruido/</guid>
+      <description>Quería escribir una entrada totalmente distinta y me ha bloqueado el no contar con una buena traducción para chase noise.
+¿Cazar ruido? Pero la caza es una actividad casi solipsista: dos perros y un tipo con escopeta caminando al contraviento por el orillo de un monte por si vuela una perdiz. Nada que ver con ese refrescar compulsivo de las páginas que dan cuenta de casos y decesos, tan colectivo e histérico.</description>
+    </item>
+    
+    <item>
+      <title>Mirad lo bien que funciona la hidroxicloroquina</title>
+      <link>/2020/03/31/mirad-lo-bien-que-funciona-la-hidroxicloroquina/</link>
+      <pubDate>Tue, 31 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/31/mirad-lo-bien-que-funciona-la-hidroxicloroquina/</guid>
+      <description>Habréis oído hablar del artículo de la hidroxicloroquina (como tratamiento para el coronavirus). Lo resumo.
+Se toman 42 pacientes y a 26 se les administra hidroxicloroquina y a 16 no; en concreto:
+Luego pasan cosas y se llega a que
+Una de las cosas que pasan (y que se comen a dos carrillos en sitios como este) es que por el camino se han caído 6:
+¡Y qué seis! Para empezar, todos son del grupo de tratamiento y, en concreto:</description>
+    </item>
+    
+    <item>
+      <title>¿Se puede calcular la letalidad (del cornavirus, digamos) sin el análisis de la supervivencia?</title>
+      <link>/2020/03/24/se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia/</link>
+      <pubDate>Tue, 24 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/24/se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia/</guid>
+      <description>Pues no lo sé. Pero con él, sí, según Methods for estimating the case fatality ratio for a novel, emerging infectious disease:
+La mala noticia es que no vamos a contar con datos detallados que tracen paciente a paciente, su ingreso (e, idealmente, la fecha de contagio), así como esas características de los pacientes que pueden determinar el desenlace de su enfermedad. Al menos, no los que miramos los toros desde detrás de la barrera informativa.</description>
+    </item>
+    
+    <item>
+      <title>Hospitales y camas en la Comunidad de Madrid</title>
+      <link>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</link>
+      <pubDate>Mon, 23 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</guid>
+      <description>[Enhorabuena, pienses lo que pienses, en esta entrada vas a encontrar argumentos que reforzarán tus prioris.]
+Por un lado, nos cuentan que los políticos que han gobernado la CM (Comunidad de Madrid, en lo que sigue) han desmantelado la sanidad (particularmente, la pública). Por otro, jamás me ha sucedido ver un cráter y que me digan: allí hubo un hospital. Bueno, sí, el hospital Puerta de Hierro está abandonado pero, parece ser, fue trasladado de Madrid a Majadahonda.</description>
+    </item>
+    
+    <item>
+      <title>Casos de coronavirus en Madrid provincia: un modelo un poco menos crudo basado en la mortalidad (II)</title>
+      <link>/2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/</link>
+      <pubDate>Fri, 20 Mar 2020 09:18:28 +0000</pubDate>
+      
+      <guid>/2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/</guid>
+      <description>[Nota: el código relevante sigue estando en GitHub. No es EL código sino UN código que sugiere todos los cambios que se te puedan ocurrir. Entre otras cosas, ilustra cómo de dependientes son los resultados de la formulación del modelo, cosa muchas veces obviada.]
+Continúo con la entrada de ayer, que contenía más errores que información útil respecto a objetivos y métodos.
+Los objetivos del análisis son los de obtener una estimación del número de casos activos de coronavirus en la provincia de Madrid.</description>
+    </item>
+    
+    <item>
+      <title>Casos de coronavirus en Madrid provincia: un modelo muy crudo basado en la mortalidad</title>
+      <link>/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/</link>
+      <pubDate>Thu, 19 Mar 2020 17:48:07 +0000</pubDate>
+      
+      <guid>/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/</guid>
+      <description>[Nota: si no sabes interpretar las hipótesis embebidas en el código que publico, que operan como enormes caveats, no hagas caso en absoluto a los resultados. He publicado esto para ver si otros que saben más que yo lo pulen y consiguen un modelo más razonable usándolo tal vez, ojalá, como núcleo.]
+[Edición: He subido el código a GitHub.]
+[El código de esta sección y los resultados contienen errores de bulto; consúltese el código de GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Dos escenarios mutuamente incompatibles: extinción o cronificación</title>
+      <link>/2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/</link>
+      <pubDate>Tue, 17 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/</guid>
+      <description>El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en china que llegaron a tener un número importante de casos,
+pero donde ya no quedan casos activos:
+El otro es el escenario RU: el virus va a seguir entre nosotros y todos, en algún momento u otro vamos a pasar por él (o, más propiamente, a la inversa).</description>
+    </item>
+    
+    <item>
+      <title>¿Qué significa para los políticos responder a desastres naturales usando la &#34;evidencia científica&#34;?</title>
+      <link>/2020/03/13/que-significa-para-los-politicos-responder-a-desastres-naturales-usando-la-evidencia-cientifica/</link>
+      <pubDate>Fri, 13 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/13/que-significa-para-los-politicos-responder-a-desastres-naturales-usando-la-evidencia-cientifica/</guid>
+      <description>Existe una respuesta naive a la pregunta anterior que es la que tal vez en la que estéis pensando.
+Pero, ¡ah!, existe también otra ciencia, la política, que no lo es menos que otras, en las que la evidencia dice cosas tales como:
+Lo cual explica muchas, muchas cosas.</description>
+    </item>
+    
+    <item>
+      <title>Monitorización diaria de la mortalidad</title>
+      <link>/2020/03/12/monitorizacion-diaria-de-la-mortalidad/</link>
+      <pubDate>Thu, 12 Mar 2020 13:44:48 +0000</pubDate>
+      
+      <guid>/2020/03/12/monitorizacion-diaria-de-la-mortalidad/</guid>
+      <description>_[En esta entrada deambulo peligrosamente por los límites de un NDA; sin embargo, me siento obligado a exponerme a las posibles consecuencias debido a la gravedad de las circunstancias actuales.] _
+En España existe un mecanismo de monitorización de la mortalidad diaria por todas las causas. Su existencia no es explícitamente pública, pero sí que existen indicios implícitos de su existencia en informes de salud pública: véanse, p.e., referencias a MoMo y EuroMOMO aquí.</description>
+    </item>
+    
+    <item>
+      <title>Seguimiento de los nuevos casos diarios de coronavirus en «tiempo real» con R</title>
+      <link>/2020/03/10/seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r/</link>
+      <pubDate>Tue, 10 Mar 2020 18:23:28 +0000</pubDate>
+      
+      <guid>/2020/03/10/seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r/</guid>
+      <description>El código usado en
+https://twitter.com/gilbellosta/status/1237443017663041537
+es
+library(reshape2) library(ggplot2) library(plyr) url &amp;lt;- &amp;quot;https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv&amp;quot; cvirus &amp;lt;- read.table(url, sep = &amp;quot;,&amp;quot;, header = T) cvirus$Lat &amp;lt;- cvirus$Long &amp;lt;- NULL cvirus$Province.State &amp;lt;- NULL cvirus &amp;lt;- melt(cvirus, id.vars = &amp;quot;Country.Region&amp;quot;) colnames(cvirus) &amp;lt;- c(&amp;quot;país&amp;quot;, &amp;quot;fecha&amp;quot;, &amp;quot;casos&amp;quot;) cvirus$fecha &amp;lt;- as.Date(as.character(cvirus$fecha), format = &amp;quot;X%m.%d.%y&amp;quot;) tmp &amp;lt;- cvirus[cvirus$país %in% c(&amp;quot;Italy&amp;quot;, &amp;quot;Spain&amp;quot;, &amp;quot;France&amp;quot;, &amp;quot;Germany&amp;quot;, &amp;quot;South Korea&amp;quot;, &amp;quot;UK&amp;quot;),] foo &amp;lt;- function(x){ x &amp;lt;- x[order(x$fecha),] data.frame(fecha = x$fecha[-1], casos = diff(x$casos)) } res &amp;lt;- ddply(tmp, .</description>
+    </item>
+    
+    <item>
+      <title>Seguimiento del coronavirus en &#34;tiempo real&#34; con R</title>
+      <link>/2020/03/09/seguimiento-del-coronavirus-en-tiempo-real-con-r/</link>
+      <pubDate>Mon, 09 Mar 2020 14:26:00 +0000</pubDate>
+      
+      <guid>/2020/03/09/seguimiento-del-coronavirus-en-tiempo-real-con-r/</guid>
+      <description>Mi código (guarrongo) para seguir la evolución del coronavirus por país en cuasi-tiempo real:
+library(reshape2) library(ggplot2) url &amp;lt;- &amp;quot;https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv&amp;quot; cvirus &amp;lt;- read.table(url, sep = &amp;quot;,&amp;quot;, header = T) cvirus$Lat &amp;lt;- cvirus$Long &amp;lt;- NULL cvirus$Province.State &amp;lt;- NULL cvirus &amp;lt;- melt(cvirus, id.vars = &amp;quot;Country.Region&amp;quot;) colnames(cvirus) &amp;lt;- c(&amp;quot;país&amp;quot;, &amp;quot;fecha&amp;quot;, &amp;quot;casos&amp;quot;) cvirus &amp;lt;- cvirus[cvirus$país %in% c(&amp;quot;Italy&amp;quot;, &amp;quot;Spain&amp;quot;),] cvirus$fecha &amp;lt;- as.Date(as.character(cvirus$fecha), format = &amp;quot;X%m.%d.%y&amp;quot;) ggplot(cvirus, aes(x = fecha, y = casos, col = país)) + geom_line() tmp &amp;lt;- cvirus tmp$fecha[tmp$país == &amp;quot;Spain&amp;quot;] &amp;lt;- tmp$fecha[tmp$país == &amp;quot;Spain&amp;quot;] - 9 ggplot(tmp, aes(x = fecha, y = casos, col = país)) + geom_line() tmp &amp;lt;- tmp[tmp$fecha &amp;gt; as.</description>
+    </item>
+    
+  </channel>
+</rss>

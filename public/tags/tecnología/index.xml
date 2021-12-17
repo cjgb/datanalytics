@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tecnología on datanalytics</title>
+    <link>/tags/tecnolog%C3%ADa/</link>
+    <description>Recent content in tecnología on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 04 May 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre si la estadística es una ciencia</title>
+      <link>/2021/05/04/mas-sobre-si-la-estadistica-es-una-ciencia/</link>
+      <pubDate>Tue, 04 May 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/05/04/mas-sobre-si-la-estadistica-es-una-ciencia/</guid>
+      <description>A veces nos encontramos con problemas como:
+ curar un orzuelo, * calcular el área por debajo de una curva, * medir la altura de la torre de una iglesia o * estimar la elasticidad del consumo de un producto a su precio  y utilizamos técnicas como
+ preparar un ungüento de acuerdo con las instrucciones de una vecina octogenaria; * pintar la curva sobre un cartón, recortarlo y pesarlo; * preguntarle al párroco o * obtener datos de precios, consumos y hacer algún tipo de regresión.</description>
+    </item>
+    
+    <item>
+      <title>¡Terror! ¡Las máquinas nos van a quitar los trabajos! ¡Oh, oh, oh! ¡Uh, uh, uh!</title>
+      <link>/2018/01/23/terror-las-maquinas-nos-van-a-quitar-los-trabajos-oh-oh-oh-uh-uh-uh/</link>
+      <pubDate>Tue, 23 Jan 2018 08:13:42 +0000</pubDate>
+      
+      <guid>/2018/01/23/terror-las-maquinas-nos-van-a-quitar-los-trabajos-oh-oh-oh-uh-uh-uh/</guid>
+      <description>Habréis leído por ahí relatos apocalípticoides sobre un futuro gris en el que las máquinas nos dejarán sin trabajo. Clic. Otra gente memos agorera opina que, más que trabajos, la máquinas eliminarán tareas (i.e., partes aburridas de los trabajos).
+No voy a hablar de unas señoras, muy funcionarias ellas, clic, que conforman el Registro (con mayúscula) de cierta institución pública en la que tuve que depositar una factura impresa, firmada a mano y por duplicado recientemente.</description>
+    </item>
+    
+    <item>
+      <title>La estadística (y la ingenería, y la medicina, y...) es una tecnología</title>
+      <link>/2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/</link>
+      <pubDate>Mon, 09 Oct 2017 08:13:34 +0000</pubDate>
+      
+      <guid>/2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/</guid>
+      <description>Abundo aquí en un punto polémico de mi charla de Pamplona: el que define la estadística como una tecnología (bajo una definición bastante particular de ella).
+Pero es conveniente comenzar por el concepto de técnica. Que el DRAE define horripilantemente:
+Y no, no, no&amp;hellip; No solo las ciencias o las artes se sirven de técnicas para alcanzar sus fines. También los homeópatas, los curanderos, los chamanes, los echadores de cartas, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

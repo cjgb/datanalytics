@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>correos on datanalytics</title>
+    <link>/tags/correos/</link>
+    <description>Recent content in correos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 04 May 2018 08:13:55 +0000</lastBuildDate><atom:link href="/tags/correos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leaflet con capas WMS de Correos, Catastro, etc.</title>
+      <link>/2018/05/04/leaflet-con-capas-wms-de-coreos-catastro-etc/</link>
+      <pubDate>Fri, 04 May 2018 08:13:55 +0000</pubDate>
+      
+      <guid>/2018/05/04/leaflet-con-capas-wms-de-coreos-catastro-etc/</guid>
+      <description>Esta entrada es un subproducto del trabajo que pocería que he realizado estos días en caRtociudad.
+caRtociudad permite generar mapas estáticos al estilo de ggmap. Iba a poner algún ejemplo, pero los dejo para otro día.
+La cosa es que mejorando caRtociudad::get_cartociudad_map, se me ha pasado por la cabeza la posibilidad de realizar la integración no ya con ggmap sino con leaflet. Y así (¡probadlos!), para los códigos postales,
+library(leaflet) leaflet() %&amp;gt;% addTiles() %&amp;gt;% setView(-3.</description>
+    </item>
+    
+  </channel>
+</rss>

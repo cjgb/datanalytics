@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitter on datanalytics</title>
+    <link>/tags/twitter/</link>
+    <description>Recent content in twitter on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 25 Apr 2021 13:32:53 +0000</lastBuildDate><atom:link href="/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo vídeo en YouTube: analizo un proyecto de fugas de clientes en Paypal</title>
+      <link>/2021/04/25/nuevo-video-en-youtube-analizo-un-proyecto-de-fugas-de-clientes-en-paypal/</link>
+      <pubDate>Sun, 25 Apr 2021 13:32:53 +0000</pubDate>
+      
+      <guid>/2021/04/25/nuevo-video-en-youtube-analizo-un-proyecto-de-fugas-de-clientes-en-paypal/</guid>
+      <description>Acabo de subir a Youtube mi último vídeo:
+https://youtu.be/u-BmTq_oYho
+En él analizo este hilo de Twitter  en el que su autor describe un proyecto muy particular —heterodoxo— de ciencia de datos cuyo objetivo consiste identificar y prevenir la fuga de clientes. El hilo ha circulado todo lo viralmente que permite el tema y me ha parecido interesante sacarle un poco de punta.</description>
+    </item>
+    
+    <item>
+      <title>No os creáis esta encuesta: ¡n = 10!</title>
+      <link>/2018/01/22/no-os-creais-esta-encuesta-n-10/</link>
+      <pubDate>Mon, 22 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/22/no-os-creais-esta-encuesta-n-10/</guid>
+      <description>(Por referencia, el enlace).</description>
+    </item>
+    
+    <item>
+      <title>Sobre el problema de las martingalas: ¿cuántos sabíais la respuesta?</title>
+      <link>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</link>
+      <pubDate>Tue, 19 Dec 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</guid>
+      <description>Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefirió dejarse llevar por la intuición y errar. Pero volvamos a los hechos. Dado
+En un país hipotético, las familias tienen críos hasta que nace el primer varón. En un año, en promedio, nacen:
+&amp;mdash; Carlos Gil Bellosta (@gilbellosta) December 10, 2017  la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?</description>
+    </item>
+    
+    <item>
+      <title>¿Si un día faltan 21.63 euros en caja?</title>
+      <link>/2015/04/17/si-un-dia-faltan-21-63-euros-en-caja/</link>
+      <pubDate>Fri, 17 Apr 2015 08:13:16 +0000</pubDate>
+      
+      <guid>/2015/04/17/si-un-dia-faltan-21-63-euros-en-caja/</guid>
+      <description>Si un día faltan 21.63 euros en caja se cuenta y se recuenta. Se revisan los tiques, se comprueban los pagos con tarjeta, se vuelven a sumar los pagos a proveedores, etc. Hasta que, con suerte, alguien encuentra algo y la diferencia se reduce a, digamos, 3.92 euros. Pero cuando la diferencia es de 2.15&amp;hellip; se da por buena sin más.
+Cuando el t-test da un p-valor de .058, se revisan los números, se reestudia la carga y manipulación de datos, se replantea si el caso 194 es o no un outlier, etc.</description>
+    </item>
+    
+    <item>
+      <title>@R_Hisp, la cuenta oficial de la Comunidad R Hispano</title>
+      <link>/2014/04/14/r_hips-la-cuenta-oficial-de-la-comunidad-r-hispano/</link>
+      <pubDate>Mon, 14 Apr 2014 07:10:57 +0000</pubDate>
+      
+      <guid>/2014/04/14/r_hips-la-cuenta-oficial-de-la-comunidad-r-hispano/</guid>
+      <description>Finalmente, la Comunidad R Hispano dispone de una cuenta oficial en Twitter.
+El anuncio público lo realizó Emilio López Cano, miembro de la junta de la asociación y que va a coordinar la cuenta con ayuda de otros voluntarios.
+Os animo a seguir esa cuenta para estar al tanto de las novedades de la asociación en la que, como dice Emilio (en el enlace anterior), hay y va a seguir habiendo movimiento.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: cómo analizar datos de Twitter con R</title>
+      <link>/2012/09/28/tutorial-como-analizar-datos-de-twitter-con-r/</link>
+      <pubDate>Fri, 28 Sep 2012 07:14:39 +0000</pubDate>
+      
+      <guid>/2012/09/28/tutorial-como-analizar-datos-de-twitter-con-r/</guid>
+      <description>No es mío, pero sí una pequeña joya que merece la pena dar a conocer. Además de tener aquí, en mi bitácora-vademécum para futura referencia. Es este tutorial para el análisis de datos de Twitter realizado por Gastón Sánchez.</description>
+    </item>
+    
+    <item>
+      <title>¿Se puede predecir con Twitter?</title>
+      <link>/2012/05/14/%c2%bfse-puede-predecir-con-twitter/</link>
+      <pubDate>Mon, 14 May 2012 06:57:21 +0000</pubDate>
+      
+      <guid>/2012/05/14/%c2%bfse-puede-predecir-con-twitter/</guid>
+      <description>Tal y como quedaron establecidos hace 80 años los parámetros para determinar si una hipótesis es o no plausible —por no calificarla de significativa o, más malévolamente, publicable— sólo una de cada veinte lo serían.
+Es un hecho que contrasta con la habilidad de los consultores que se dedican a esa labor tan difícil de acotar y que va desde la estadística a la minería de datos tocando otras áreas más o menos afines.</description>
+    </item>
+    
+  </channel>
+</rss>

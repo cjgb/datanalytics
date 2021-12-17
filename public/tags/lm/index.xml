@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lm on datanalytics</title>
+    <link>/tags/lm/</link>
+    <description>Recent content in lm on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 11 May 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/lm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Agregar antes de modelar?</title>
+      <link>/2020/05/11/agregar-antes-de-modelar/</link>
+      <pubDate>Mon, 11 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/11/agregar-antes-de-modelar/</guid>
+      <description>El otro día me pasaron unos datos artificiales para poder probar el ajuste de cierto tipo de modelos. El autor de la simulación construyó tres conjuntos de pares (x,y) y luego los agregó (media de los y agrupando por x) antes de proporcionármelos.
+¿Tiene sentido agregar antes de modelar? Incluso sin entrar en el problema del potencial número desigual de observaciones por punto (datos desbalanceados) o las heterogeneidades entre las distintas iteraciones (que nos llevaría al mundo de los modelos mixtos).</description>
+    </item>
+    
+    <item>
+      <title>Regresión tradicional vs multinivel</title>
+      <link>/2020/04/13/regresion-tradicional-vs-multinivel/</link>
+      <pubDate>Mon, 13 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/13/regresion-tradicional-vs-multinivel/</guid>
+      <description>Ayer se leía en Twitter que
+https://twitter.com/joscani/status/1249017607199621123
+Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnicas. Obviamente, hay muchos tipos de datos y supongo que los resultados variarán según qué variante se utilice. Aquí voy a centrarme en unos donde hay medidas repetidas de un factor aleatorio. También voy a situarme en un contexto académico, en el que interesan más las estimaciones de los efectos fijos, que en uno más próximo a mi mundo, la consultoría, donde son más relevantes las estimaciones regularizadas de los efectos aleatorios.</description>
+    </item>
+    
+    <item>
+      <title>Interacciones y selección de modelos</title>
+      <link>/2020/03/16/interacciones-y-seleccion-de-modelos/</link>
+      <pubDate>Mon, 16 Mar 2020 15:41:00 +0000</pubDate>
+      
+      <guid>/2020/03/16/interacciones-y-seleccion-de-modelos/</guid>
+      <description>Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
+El modelo lineal clásico,
+$latex y \sim x_1 + x_2 + \dots$
+no tiene en cuenta las interacciones (aunque extensiones suyas, sí, por supuesto).</description>
+    </item>
+    
+    <item>
+      <title>Pesos de los componentes del QualityScore en Google Ads</title>
+      <link>/2019/03/07/pesos-de-los-componentes-del-qualityscore-en-google-ads/</link>
+      <pubDate>Thu, 07 Mar 2019 08:13:34 +0000</pubDate>
+      
+      <guid>/2019/03/07/pesos-de-los-componentes-del-qualityscore-en-google-ads/</guid>
+      <description>El llamado QualityScore tiene su relevancia en Google Ads. Es un indicador con valores entre 1 y 10 asignado por Google que se basa en tres variables que están descritas por ahí:
+ PostClickQualityScore * SearchPredictedCtr * CreativeQualityScore  Se trata de variables categóricas con tres niveles: en / por encima de / por debajo de la media.
+Haciendo
+&amp;lt;code&amp;gt;modelo &amp;lt;- lm(QualityScore ~ PostClickQualityScore + SearchPredictedCtr + CreativeQualityScore, data = tmp) summary(modelo)&amp;lt;/code&amp;gt;  se obtiene</description>
+    </item>
+    
+    <item>
+      <title>offset, porque el coeficiente es 1 necesariamente</title>
+      <link>/2019/03/04/offset-porque-el-coeficiente-es-1-necesariamente/</link>
+      <pubDate>Mon, 04 Mar 2019 08:13:43 +0000</pubDate>
+      
+      <guid>/2019/03/04/offset-porque-el-coeficiente-es-1-necesariamente/</guid>
+      <description>Estos días me han preguntado sobre un modelo lineal tal que $latex y \sim x_1 + \dots$ donde el coeficiente de $latex x_1$ no se entiende si no es igual a 1. Es como si los datos se creasen de la forma
+&amp;lt;code&amp;gt;n &amp;lt;- 100 x1 &amp;lt;- rnorm(n) x2 &amp;lt;- rnorm(n) y &amp;lt;- x1 + rnorm(n, .1) + .02 * x2&amp;lt;/code&amp;gt;  y se conociese el coeficiente de $latex x_1$ y no el de $latex x_2$.</description>
+    </item>
+    
+    <item>
+      <title>Colinealidad y posterioris</title>
+      <link>/2018/11/16/colinealidad-y-posterioris/</link>
+      <pubDate>Fri, 16 Nov 2018 08:13:33 +0000</pubDate>
+      
+      <guid>/2018/11/16/colinealidad-y-posterioris/</guid>
+      <description>En esta entrada voy a crear un conjunto de datos donde dos variables tienen una correlación muy alta, ajustar un modelo de regresión y obtener la siguiente representación de la distribución a posteriori de los coeficientes,
+donde se aprecia el efecto de la correlación entre x1 y x2.
+El código,
+library(mvtnorm) library(rstan) library(psych) n &amp;lt;- 100 corr_coef &amp;lt;- .9 x &amp;lt;- rmvnorm(n, c(0, 0), sigma = matrix(c(1, corr_coef, corr_coef, 1), 2, 2)) plot(x) x1 &amp;lt;- x[,1] x2 &amp;lt;- x[,2] x3 &amp;lt;- runif(n) - 0.</description>
+    </item>
+    
+    <item>
+      <title>¿Victoria o diferencia de puntos? ¿lm o glm?</title>
+      <link>/2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/</link>
+      <pubDate>Tue, 04 Mar 2014 07:08:18 +0000</pubDate>
+      
+      <guid>/2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/</guid>
+      <description>Supongamos que queremos construir un modelo para predecir quién ganará un determinado partido de baloncesto basándonos en datos diversos. Y en un histórico, por supuesto.
+Podemos utilizar una regresión logística así:
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) my.coefs &amp;lt;- -2:2 n &amp;lt;- 200 train.n &amp;lt;- floor(2*n/3) test.error.glm &amp;lt;- function(){ X &amp;lt;- matrix(rnorm(n*5), n, 5) Y &amp;lt;- (0.2 + X %*% my.coefs + rnorm(n)) &amp;gt; 0 train &amp;lt;- sample(1:n, train.n) X &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/as.data.frame&amp;quot;&amp;gt;as.data.frame(X) X$Y &amp;lt;- Y mod.</description>
+    </item>
+    
+  </channel>
+</rss>

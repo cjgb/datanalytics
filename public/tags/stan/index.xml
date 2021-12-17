@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stan on datanalytics</title>
+    <link>/tags/stan/</link>
+    <description>Recent content in stan on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 May 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/stan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo vídeo en YouTube: charla con J.L. Cañadas</title>
+      <link>/2021/05/05/nuevo-video-en-youtube-charla-con-j-l-canadas/</link>
+      <pubDate>Wed, 05 May 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/05/05/nuevo-video-en-youtube-charla-con-j-l-canadas/</guid>
+      <description>He subido un nuevo vídeo a mi canal,
+https://www.youtube.com/watch?v=MXtRkQLXbjw
+Es una charla de casi una hora con José Luis Cañadas. Comienza con Stan y luego deriva hacia otros temas de interés estadístico. Como digo en el resumen del vídeo, solo los últimos 3-4 minutos son prescindibles.</description>
+    </item>
+    
+    <item>
+      <title>Encuestas (electorales), medios y sesgos</title>
+      <link>/2020/12/14/encuestas-electorales-medios-y-sesgos/</link>
+      <pubDate>Mon, 14 Dec 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/12/14/encuestas-electorales-medios-y-sesgos/</guid>
+      <description>Me he entretenido estos días en crear un modelo que represente la siguiente hipótesis de trabajo:
+Los encuestadores electorales combinan tres fuentes de información: sus propios datos, el &amp;ldquo;consenso&amp;rdquo; de los restantes encuestadores y la &amp;ldquo;voz de su amo&amp;rdquo;, es decir, el interés de quien paga la encuesta.
+Es un modelo en el que se introduce (y se mide) el sesgo que introduce cada casa en los resultados. De momento (¡no fiarse!</description>
+    </item>
+    
+    <item>
+      <title>Más sobre variables instrumentales con R</title>
+      <link>/2020/09/08/mas-sobre-variables-instrumentales-con-r/</link>
+      <pubDate>Tue, 08 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/08/mas-sobre-variables-instrumentales-con-r/</guid>
+      <description>[El título de esta entrada tiene un + delante porque ya escribí sobre el asuntotiempo atrás.]
+Con la excusa de la reciente publicación del paquete ivreg (para el ajuste de modelos con variables instrumentales, por si el contexto no lo hace evidente), he mirado a ver quién estaba construyendo y ajustando modelos generativos menos triviales que los míos (véase el enlace anterior) para que quede más claro de qué va la cosa.</description>
+    </item>
+    
+    <item>
+      <title>Optimización estocástica</title>
+      <link>/2020/05/22/optimizacion-estocastica/</link>
+      <pubDate>Fri, 22 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/22/optimizacion-estocastica/</guid>
+      <description>Una de los proyectos en los que estoy trabajando últimamente está relacionado con un problema de optimización no lineal: tengo un modelo (o una familia de modelos) no lineales con una serie de parámetros, unos datos y se trata de lo que no mercería más explicación: encontrar los que minimizan cierta función de error.
+Tengo implementadas dos vías:
+ La nls, que usa un optimizador numérico genérico para encontrar esos mínimos.</description>
+    </item>
+    
+    <item>
+      <title>El modelo SIR con inferencia</title>
+      <link>/2020/03/30/el-modelo-sir-con-inferencia/</link>
+      <pubDate>Mon, 30 Mar 2020 10:32:56 +0000</pubDate>
+      
+      <guid>/2020/03/30/el-modelo-sir-con-inferencia/</guid>
+      <description>El modelo SIR es deductivo: dados una serie de parámetros, plantea una ecuación diferencial cuya solución es perfectamente limpia y determinista, tal como gusta a matemáticos y físicos:
+Pero, ¿quién y cómo le pone al gato el cascabel de determinar los parámetros más adecuados para el modelo? Los parámetros son inciertos, ruidosos y producto de los datos que el modelo mismo quiere representar. Lo suyo sería enlazar la ecuación diferencial</description>
+    </item>
+    
+    <item>
+      <title>Casos de coronavirus en Madrid provincia: un modelo un poco menos crudo basado en la mortalidad (II)</title>
+      <link>/2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/</link>
+      <pubDate>Fri, 20 Mar 2020 09:18:28 +0000</pubDate>
+      
+      <guid>/2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/</guid>
+      <description>[Nota: el código relevante sigue estando en GitHub. No es EL código sino UN código que sugiere todos los cambios que se te puedan ocurrir. Entre otras cosas, ilustra cómo de dependientes son los resultados de la formulación del modelo, cosa muchas veces obviada.]
+Continúo con la entrada de ayer, que contenía más errores que información útil respecto a objetivos y métodos.
+Los objetivos del análisis son los de obtener una estimación del número de casos activos de coronavirus en la provincia de Madrid.</description>
+    </item>
+    
+    <item>
+      <title>Casos de coronavirus en Madrid provincia: un modelo muy crudo basado en la mortalidad</title>
+      <link>/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/</link>
+      <pubDate>Thu, 19 Mar 2020 17:48:07 +0000</pubDate>
+      
+      <guid>/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/</guid>
+      <description>[Nota: si no sabes interpretar las hipótesis embebidas en el código que publico, que operan como enormes caveats, no hagas caso en absoluto a los resultados. He publicado esto para ver si otros que saben más que yo lo pulen y consiguen un modelo más razonable usándolo tal vez, ojalá, como núcleo.]
+[Edición: He subido el código a GitHub.]
+[El código de esta sección y los resultados contienen errores de bulto; consúltese el código de GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Por si alguien lo toma literalmente</title>
+      <link>/2019/11/28/por-si-alguien-lo-toma-literalmente/</link>
+      <pubDate>Thu, 28 Nov 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/11/28/por-si-alguien-lo-toma-literalmente/</guid>
+      <description>Escribe Gelman en términos irónicocelebratorios:
+Apostilla Terry (en los comentarios), por si alguien se lo había tomado literalmente:
+Porque siempre hay alguien sin sentido del humor.
+A todo esto, echad un vistazo al documento original del que procede todo. Vale la pena.</description>
+    </item>
+    
+    <item>
+      <title>tfprobability debería llamarse tfeoprobability</title>
+      <link>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</link>
+      <pubDate>Tue, 12 Nov 2019 09:13:04 +0000</pubDate>
+      
+      <guid>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</guid>
+      <description>Porque, aunque la intención sea buena, el DSL (que ni siquiera llega a serlo) es muy, muy feo. Que en este contexto, además, quiere decir antinatural.
+La demostración, aquí, aquí o aquí.</description>
+    </item>
+    
+    <item>
+      <title>Pyro</title>
+      <link>/2019/10/14/pyro/</link>
+      <pubDate>Mon, 14 Oct 2019 09:13:35 +0000</pubDate>
+      
+      <guid>/2019/10/14/pyro/</guid>
+      <description>Leyendo sobre si dizque PyTorch le siega la hierba debajo de los pies a TensorFlow, averigué la existencia de Pyro.
+Pyro se autopresenta como Deep Universal Probabilistic Programming, pero aplicando métodos porfirianos (ya sabéis: género próximo y diferencia específica), es, o pretende ser, Stan en Python y a escala.
+Aquí van mis dos primeras impresiones, basadas en una inspección superficial de los tutoriales.
+En primer lugar, aunque Pyro permite usar (distintas versiones de) MCMC, parece que su especialidad es la inferencia variacional estocástica.</description>
+    </item>
+    
+    <item>
+      <title>Abundando en la discusión sobre matemáticas y/o informática</title>
+      <link>/2019/07/16/abundando-en-la-discusion-sobre-matematicas-y-o-informatica/</link>
+      <pubDate>Tue, 16 Jul 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/07/16/abundando-en-la-discusion-sobre-matematicas-y-o-informatica/</guid>
+      <description>Voy a abundar sobre la entrada de hace unos días, ¿Informática o matemáticas?, una pregunta muy mal planteada, mostrando simplemente un ejemplo del tipo de cosas que se espera de los matemáticos y/o estadísticos cuando trabajan en ciencia de datos y para las cuales los informáticos no están particularmente mejor entrenados (de serie) que otras especies faunísticas.
+Es este.
+¿Cosas sobre las que podría hacer comentarios? Por ejemplo:
+ Tampoco sé si el matemático o estadístico promedio podría desenvolverse con mediana soltura con ese tipo de modelos.</description>
+    </item>
+    
+    <item>
+      <title>Modelos GARCH (o: no me cuentes tu vida, dame el pxxx modelo generativo y ya)</title>
+      <link>/2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/</link>
+      <pubDate>Fri, 31 May 2019 09:11:07 +0000</pubDate>
+      
+      <guid>/2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/</guid>
+      <description>Los modelos GARCH son otra de esas cosas de las que oyes hablar y como nunca se convierten en problemas de los de carne en el asador, preocupan poco y ocupan menos (más allá de que sabes que se trata de modelos similares a los de series temporales de toda la vida donde la varianza varía de cierta forma a lo largo del tiempo). Pero comienzas a leer cosas como esta y no te enteras de nada: solo hay letras y llamadas a funciones oscuras y oscurantistas.</description>
+    </item>
+    
+    <item>
+      <title>Cointegración: un modelo generativo</title>
+      <link>/2019/01/18/cointegracion-un-modelo-generativo/</link>
+      <pubDate>Fri, 18 Jan 2019 08:13:51 +0000</pubDate>
+      
+      <guid>/2019/01/18/cointegracion-un-modelo-generativo/</guid>
+      <description>[Esta entrada tiene que ver con una nueva manía que he adquirido con la edad: construir modelos generativos para esos modelos explicados siempre de una manera sumamente críptica.]
+La cointegración es una relación muy particular entre dos (o más) series temporales. Una de ellas, $latex x_t$ puede ser cualquiera. Tanto da. Vamos a construir la cointegrada, $latex y_t$. Para ello, primero, necesitamos una serie más, una serie estacionaria, p.e., $latex \nu_t$.</description>
+    </item>
+    
+    <item>
+      <title>Modelos de conteos con sobredispersión (con Stan)</title>
+      <link>/2019/01/08/modelos-de-conteos-con-sobredispersion-con-stan/</link>
+      <pubDate>Tue, 08 Jan 2019 08:13:00 +0000</pubDate>
+      
+      <guid>/2019/01/08/modelos-de-conteos-con-sobredispersion-con-stan/</guid>
+      <description>Esta entrada muestra cómo afrontar (con Stan) un problema que encontré el otro día en un lugar que no puedo mencionar pero en el que sé que me leen (y los destinatarios sabrán que va por ellos).
+El contexto es el siguiente: se hace un test A/B donde la variable de interés son unos conteos. Hay varios grupos (aquí los reduciré a dos) y los datos siguen aproximadamente (aquí omitiré la parte de la inflación de ceros) una distribución de Poisson.</description>
+    </item>
+    
+    <item>
+      <title>Datos anchos y largos (y otras cosas relacionadas con Stan)</title>
+      <link>/2018/10/30/datos-anchos-y-largos-y-otras-cosas-relacionadas-con-stan/</link>
+      <pubDate>Tue, 30 Oct 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/10/30/datos-anchos-y-largos-y-otras-cosas-relacionadas-con-stan/</guid>
+      <description>Hay una discusión imperdible sobre datos anchos y largos (y modelos con y sin estructura) a partir del minuto 4:20 de
+https://www.youtube.com/watch?v=VnNdhsm0rJQ
+El resto también vale muchísimo la pena.</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>/2018/10/23/abc-2/</link>
+      <pubDate>Tue, 23 Oct 2018 08:13:01 +0000</pubDate>
+      
+      <guid>/2018/10/23/abc-2/</guid>
+      <description>Que quiere decir approximate Bayesian computation. Es un truco para pobres y desafortunados que no pueden quitarle la A a BC y usar directamente cosas como Stan o similares. El que no quiera prioris, además, puede usar el ABC para estimar la forma de la verosimilitud alrededor de una estimación puntual.
+Por supuesto, el objetivo es obtener una estimación de la posteriori para poder medir la incertidumbre de parámetros, etc. La idea es que se dispone de unos datos, $latex X$ y un mecanismo de generación de datos $latex X^\prime = f(\theta)$, donde $latex \theta$ es un vector de parámetros.</description>
+    </item>
+    
+    <item>
+      <title>Las tres culturas</title>
+      <link>/2018/07/11/las-tres-culturas/</link>
+      <pubDate>Wed, 11 Jul 2018 08:13:37 +0000</pubDate>
+      
+      <guid>/2018/07/11/las-tres-culturas/</guid>
+      <description>Breiman habló de las dos. Dice, y tiene razón, que:
+Según él, la estadística tradicional rellena la caja negra con:
+¡Aburrido, aburrido, aburrido! Aburrido y limitado (aunque, hay que admitirlo, útil en ocasiones muy concretas). Breiman sugiere sustituir las cajas negras que encontramos en la naturaleza por otras cajas negras conceptuales:
+Que es aún más aburrido y patrimonio, además, de toda suerte de script kiddies.
+La tercera cultura reemplaza la caja negra por un modelo generativo que simula el comportamiento de la naturaleza (i.</description>
+    </item>
+    
+    <item>
+      <title>Kriging con Stan</title>
+      <link>/2018/03/01/kriging-con-stan/</link>
+      <pubDate>Thu, 01 Mar 2018 08:13:08 +0000</pubDate>
+      
+      <guid>/2018/03/01/kriging-con-stan/</guid>
+      <description>Este mes de julio, cuórum mediante, impartiré en la UPC un curso que he maltitulado, mor de brevedad, Estadística Bayesiana Aplicada.
+Los cursos de estadística bayesiana son teoría, mucha teoría, y unos ejemplos tontos que quieren justificarla. Del tipo: hagamos lo que ya sabemos hacer de otra manera más; busquemos una alternativa molona al p-valor (y usémosla como usar íamos un p-valor, por supuesto), etc.
+Mi curso debería haberse titulado algo así como: Problemas reales (aunque simplificados por motivos estrictamente pedagógicos) resueltos con tecnología bayesiana porque, si no, dígame Vd.</description>
+    </item>
+    
+    <item>
+      <title>Sobre el problema de las martingalas: ¿cuántos sabíais la respuesta?</title>
+      <link>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</link>
+      <pubDate>Tue, 19 Dec 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</guid>
+      <description>Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefirió dejarse llevar por la intuición y errar. Pero volvamos a los hechos. Dado
+En un país hipotético, las familias tienen críos hasta que nace el primer varón. En un año, en promedio, nacen:
+&amp;mdash; Carlos Gil Bellosta (@gilbellosta) December 10, 2017  la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?</description>
+    </item>
+    
+    <item>
+      <title>Lo que pasa cuando omites la priori con variables categóricas</title>
+      <link>/2017/01/12/lo-que-pasa-cuando-omites-la-priori-con-variables-categoricas/</link>
+      <pubDate>Thu, 12 Jan 2017 08:13:32 +0000</pubDate>
+      
+      <guid>/2017/01/12/lo-que-pasa-cuando-omites-la-priori-con-variables-categoricas/</guid>
+      <description>Stan. Modelo multinivel. Variable categórica. Codificación con ceros y unos. Matriz. Coeficiente vector[n_ccaa] Cccaa. Sin priori.
+Catástrofe:
+(Coeficientes hasta 15000. Sin tasa, con tiempo. Los valores desorbitados, en ceros de la dummy).
+Priori.
+for (i in 1:n_ccaa) Cccaa[i] ~ cauchy(0, 20);
+¿Por qué no?
+Tachán:
+(¿Para qué verbos?)</description>
+    </item>
+    
+    <item>
+      <title>Hamilton, Carnot y el Bosco</title>
+      <link>/2016/09/14/hamilton-carnot-y-el-bosco/</link>
+      <pubDate>Wed, 14 Sep 2016 08:13:00 +0000</pubDate>
+      
+      <guid>/2016/09/14/hamilton-carnot-y-el-bosco/</guid>
+      <description>Por culpa de una nevera que no enfriaba como era debido, veinte años después, estoy repasando mi termodinámica: entropía, ciclo de Carnot, etc.
+Por culpa de Stan estoy repasando mi mecánica hamiltoniana.
+Y lo estoy disfrutando muchísimo.
+Dizque hay una exposición del Bosco en El Prado. Que si cuesta 16 euros. Que si solo puedes ver los cuadros de lejos porque hay toneladas de gente del extrarradio que hace su visita anual al centro.</description>
+    </item>
+    
+    <item>
+      <title>Un modelo jerárquico para lo de Casillas</title>
+      <link>/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/</link>
+      <pubDate>Wed, 15 Jul 2015 08:13:42 +0000</pubDate>
+      
+      <guid>/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/</guid>
+      <description>Vuelvo a lo de Casillas inspirándome en el primer ejemplo de este artículo de Gelman et al.
+El planteamiento es el siguiente: el número de paradas, $latex n_i$ que realiza el $latex i$-ésimo portero tiene una distribución binomial
+$latex n_i \sim B(N_i, p_i)$
+donde $latex N_i$ es el número de disparos entre los palos y $latex p_i$ es la habilidad innata del portero. Estas habilidades innatas siguen una distribución dada, la de habilidades innatas de los porteros de primera división, que podemos suponer que sigue una distribución beta</description>
+    </item>
+    
+    <item>
+      <title>Diferencia de medias a la bayesiana con salsa de stan</title>
+      <link>/2015/06/25/diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan/</link>
+      <pubDate>Thu, 25 Jun 2015 08:13:35 +0000</pubDate>
+      
+      <guid>/2015/06/25/diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan/</guid>
+      <description>El habitual problema de la diferencia de medias suele formularse de la siguiente manera: hay observaciones $latex y_{1i}$ e $latex y_{2i}$ donde
+$latex y_{ji} \sim N(\mu_j, \sigma)$
+e interesa saber si $latex \mu_1 = \mu_2$. Obviamente, se desconoce $latex \sigma$. De cómo resolvió Gosset el problema están los libros de estadística llenos. En R,
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) N1 &amp;lt;- 50 N2 &amp;lt;- 50 mu1 &amp;lt;- 1 mu2 &amp;lt;- -0.5 sig1 &amp;lt;- 1 sig2 &amp;lt;- 1 y1 &amp;lt;- rnorm(N1, mu1, sig1) y2 &amp;lt;- rnorm(N2, mu2, sig2) &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+  </channel>
+</rss>

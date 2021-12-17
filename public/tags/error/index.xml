@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>error on datanalytics</title>
+    <link>/tags/error/</link>
+    <description>Recent content in error on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 02 Mar 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/error/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre los peligros del &#34;Tukey biweight&#34;</title>
+      <link>/2020/03/02/sobre-los-peligros-del-tukey-biweight/</link>
+      <pubDate>Mon, 02 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/02/sobre-los-peligros-del-tukey-biweight/</guid>
+      <description>Sigo con ajustes robustos. Y cosas que como matemático, me ponen muy nervioso.
+Una de las maneras de hacer ajustes robustos es la de sustituir la función cuadrática por la biweight. Es decir, utilizar la función que aparece la derecha en
+en lugar de la de la izquierda. O, dicho de otra manera, en lugar de tratar de minimizar
+$latex \sum_i \rho(y_i - f_\alpha(x_i))$
+usando $latex \rho(x) = x^2$, que es la función que se representa a la izquierda y a la que estamos acostumbrados, usar la de la derecha.</description>
+    </item>
+    
+    <item>
+      <title>A más gripe, ¿menos mortalidad? En determinados submundos frecuentistas, sí</title>
+      <link>/2019/11/13/a-mas-gripe-menos-mortalidad-en-determinados-submundos-frecuentistas-si/</link>
+      <pubDate>Wed, 13 Nov 2019 09:13:51 +0000</pubDate>
+      
+      <guid>/2019/11/13/a-mas-gripe-menos-mortalidad-en-determinados-submundos-frecuentistas-si/</guid>
+      <description>Estos días he tenido que adaptar y ejecutar con datos españoles una serie de modelos para medir la virulencia de diversos subtipos de gripe. Y todo bien, salvo que para uno de ellos y determinados grupos de edad&amp;hellip; a mayor prevalencia, menor mortalidad. ¡Estupendo!
+Todo sucede porque un coeficiente que debería haber sido necesariamente positivo fue estimado como negativo (además, significativamente).
+Y el coeficiente tenía el signo cambiado (¡error de tipo S!</description>
+    </item>
+    
+    <item>
+      <title>Sobre el error de generalización (porque a veces se  nos olvida)</title>
+      <link>/2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/</link>
+      <pubDate>Tue, 16 Apr 2019 09:13:23 +0000</pubDate>
+      
+      <guid>/2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/</guid>
+      <description>Al construir modelos, queremos minimizar
+$latex l(\theta) = \int L(y, f_\theta(x)) , dP(x,y),$
+donde $L$ es una determinada función de pérdida (y no, no me refiero exclusivamente a la que tiene un numerilo 2). Pero como de $latex P(x,y)$ solo conocemos una muestra $latex (x_i, y_i)$ (dejadme aprovechar la ocasión para utilizar una de mis palabras favoritas: $latex P(x,y)$ es incognoscible), hacemos uso de la aproximación
+$latex \int f(x) , dP(x) \approx \frac{1}{N} \sum f(x_i)$</description>
+    </item>
+    
+    <item>
+      <title>La función de pérdida es una API entre los &#34;stakeholders&#34; de un análisis estadístico</title>
+      <link>/2017/11/20/la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico/</link>
+      <pubDate>Mon, 20 Nov 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/11/20/la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico/</guid>
+      <description>El objeto único de la estadística es informar decisiones.
+V.g, si conceder un préstamo, proceder a la quimio, construir una línea de AVE entre Calatayud y Soria o permitir aparcar mañana en el centro de Madrid a los de Móstoles.
+Pero quienes toman decisiones y quienes analizan datos suelen ser personas distintas. Típicamente, ni se conocen. Lo cual es tanto pésimo como tema para otra entrada distinta de esta.
+Lo fundamental es que estas personas se comunican a través de, metafóricamente, APIs.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuántas veces habré metido la pata?</title>
+      <link>/2017/01/26/cuantas-veces-habre-metido-la-pata/</link>
+      <pubDate>Thu, 26 Jan 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/01/26/cuantas-veces-habre-metido-la-pata/</guid>
+      <description>Ayer escribí
+$latex N = \sum_i \frac{1}{p_i^2}$
+donde lo suyo era (ya está corregido)
+$latex N = \frac{1}{\sum_i p_i^2}.$
+Eso me ha hecho replantearme cuántas veces habré metido la pata después de las 1300 entradas largas que llevo escritas. No me refiero a puntos de vista discutibles; tampoco a errores a veces excusables de concordancia; me refiero a cosas como las de ayer, las que sonrojan.
+Una vez, recuerdo, escribí puya donde quería decir pulla.</description>
+    </item>
+    
+    <item>
+      <title>#NadieSinLuz</title>
+      <link>/2016/11/21/nadiesinluz/</link>
+      <pubDate>Mon, 21 Nov 2016 08:13:41 +0000</pubDate>
+      
+      <guid>/2016/11/21/nadiesinluz/</guid>
+      <description>Está siendo tremending topic en Twitter según escribo. Uno de los trinos asociados al caudal es
+que remite a un Observatorio Social de las Personas Mayores, el de 2015 específicamente. No vale el de 2016 o el de 2014 porque en ninguno de ellos hace referencia a tan abultada y, diríamos, significantísima cifra.
+Aunque precedido y sucedido de silencio, el de 2015, como digo, sí. Cita como fuente otro estudio, Pobreza energética en España, Análisis de tendencias realizado por la Asociación de Ciencias Ambientales y que goza del patrocinio de la acción social del banco que es el mayor accionista de la empresa que cortó la luz por impago a la octogenaria de Reus que murió atufada por unas velas provocando con ello la indignación del tuiterío y, con ello, la salida a colación de las 7000 muertes prematuras causadas por la pobreza energética que recoge el Observatorio Social de las Personas Mayores de 2014 citando como referencia&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Pesadumbre e incertidumbre desencadenadas</title>
+      <link>/2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/</link>
+      <pubDate>Thu, 10 Nov 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/</guid>
+      <description>Hoy escribo afectado por un derrame de pesadumbre. Pero esa es solo una opinión que igual no importa nadie.
+Estas del 8 de noviembre han sido las elecciones en que menos y que más caso he hecho de las encuestas electorales. Cansado del cada vez más monótono ciclo de que
+ * se publican encuestas electorales * llegan las elecciones y el resultado no se parece en nada a lo dibujado por ellas y * se reitera el mismo blablablá (en latín se dice _excusatio non petita_) que unos meses antes  he decidido esta vez dejar de prestar atención a algo que, se ha visto, no ha sido sino ruido.</description>
+    </item>
+    
+    <item>
+      <title>Lo que va del 4.4% al 70%</title>
+      <link>/2016/09/22/lo-que-va-del-4-4-al-71/</link>
+      <pubDate>Thu, 22 Sep 2016 08:13:26 +0000</pubDate>
+      
+      <guid>/2016/09/22/lo-que-va-del-4-4-al-71/</guid>
+      <description>Dice El País transcribiéndonos (¡gracias!) la nota de prensa del INE sobre la encuesta trimestral de coste laboral (ETCL) del segundo trimestre de 2016:
+Lo cual es cierto (por más que el solo aporte un matiz opinativo como tal discutible).
+Pero una comparación con el titular,
+(los errores muestrales del INE están de capa caída: ¡solo tres cifras significativas cuando nos tiene tan malacostumbrados a cuatro!) podría justificar lo que no se dice:</description>
+    </item>
+    
+    <item>
+      <title>Encuestas, censos, elecciones</title>
+      <link>/2015/11/12/encuestas-censos-elecciones/</link>
+      <pubDate>Thu, 12 Nov 2015 08:13:52 +0000</pubDate>
+      
+      <guid>/2015/11/12/encuestas-censos-elecciones/</guid>
+      <description>Hace unas semanas tuve un lapso de creatividad. Dejé de escribir durante un tiempo y me dediqué al sucedáneo: leer. Terminé, para variar, unos cuantos libros.
+Uno de ellos es Proofiness, the Dark Arts of Mathematical Deception que está más o menos bien. En su mayor parte abunda sobre fenómenos conocidos, estudiados y sobradamente denunciados: que hay que recurre a argumentos basados en números, estadísticas o construcciones matemáticas más o menos sofisticadas para dar visos de verdad a mentiras flagrantes.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre el error de medida</title>
+      <link>/2015/02/23/mas-sobre-el-error-de-medida/</link>
+      <pubDate>Mon, 23 Feb 2015 08:13:45 +0000</pubDate>
+      
+      <guid>/2015/02/23/mas-sobre-el-error-de-medida/</guid>
+      <description>En el periódico del domingo nos regala Ángel Laborda un parrafito delicioso que abunda en el tema tratado en mi última entrada sobre el una error de medida.
+Así dice:
+Comentario: La última frase me hace acordar del error de tipo S.</description>
+    </item>
+    
+    <item>
+      <title>Error de medida</title>
+      <link>/2015/02/20/error-de-medida/</link>
+      <pubDate>Fri, 20 Feb 2015 08:13:30 +0000</pubDate>
+      
+      <guid>/2015/02/20/error-de-medida/</guid>
+      <description>Por su interés y oportunidad, reproduzco aquí y en su idioma original (la parque que nos es más relevante de) un breve editorial de Simon Baptist, economista jefe de The Economist Intelligence Unit.
+Así reza:
+El subrayado es mío, que conste.</description>
+    </item>
+    
+    <item>
+      <title>Errores de tipo M y de tipo S</title>
+      <link>/2014/06/04/errores-de-tipo-m-y-de-tipo-s/</link>
+      <pubDate>Wed, 04 Jun 2014 07:00:02 +0000</pubDate>
+      
+      <guid>/2014/06/04/errores-de-tipo-m-y-de-tipo-s/</guid>
+      <description>A los estadísticos se nos acusa en ocasiones de contestar preguntas tontas en las que nadie está interesado.
+(Nota: de alguna manera conseguí el artículo al que se refiere el enlace anterior; pero ahora no veo que exista ninguna copia libre por ahí. Si alguien la consigue, por el bien del resto de los lectores, que me avise o que lo haga saber en los comentarios).
+A lo que iba. Muchos estadísticos tienen el cerebro reprogramado para tratar de no cometer los llamados errores de tipo I y errores de tipo II (y para ello tratan de estimar una cosa de dudosa utilidad, $latex P(D|H)$, donde $latex D$ son los datos y $latex H$ es cierta hipótesis (que, generalmente, a nadie interesa y que es más difícil de plantear correctamente de lo que parecería).</description>
+    </item>
+    
+    <item>
+      <title>Error de tipo I, error de tipo II</title>
+      <link>/2014/01/10/error-de-tipo-i-error-de-tipo-ii/</link>
+      <pubDate>Fri, 10 Jan 2014 08:05:09 +0000</pubDate>
+      
+      <guid>/2014/01/10/error-de-tipo-i-error-de-tipo-ii/</guid>
+      <description>Aquí está la noticia sobre el resultado de un error de tipo I: Danone takes legal action over milk scare.
+Este otro, sobre un error de tipo II: Wave a banknote at a pundit and he&amp;rsquo;ll predict anything.
+Siempre me ha llamado la atención el segundo caso: ¿tienen realmente responsabilidades penales los geólogos? He leído algunos artículos al respecto y nunca he visto el caso planteado de la manera en que voy a hacerlo aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pascal on datanalytics</title>
+    <link>/tags/pascal/</link>
+    <description>Recent content in pascal on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Nov 2017 08:13:02 +0000</lastBuildDate><atom:link href="/tags/pascal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probabilismo, probabilorismo y todas esas cosas</title>
+      <link>/2017/11/09/probabilismo-probabilorismo-y-todas-esas-cosas/</link>
+      <pubDate>Thu, 09 Nov 2017 08:13:02 +0000</pubDate>
+      
+      <guid>/2017/11/09/probabilismo-probabilorismo-y-todas-esas-cosas/</guid>
+      <description>La teoría moderna de la decisión, con sus escenarios, recompensas, escenarios, probabilidades y consideraciones de orden sicológico, es cosa del siglo pasado. El principio de máxima verosimilidad también. Si se me apura, incluso, la teoría de la probabilidad propiamente construida.
+Esos desarrollos opacan las discusiones previas, tal vez pueriles, al respecto. Pero húbolas.
+No sé cómo, he tropezado con algunas. Como las que se discuten en los enlaces, este, este y este, que comparto.</description>
+    </item>
+    
+  </channel>
+</rss>

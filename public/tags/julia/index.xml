@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>julia on datanalytics</title>
+    <link>/tags/julia/</link>
+    <description>Recent content in julia on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 14 Jul 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/julia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi apuesta para el larguísimo plazo: Julia</title>
+      <link>/2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/</link>
+      <pubDate>Wed, 14 Jul 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/</guid>
+      <description>Larguísimo, arriba, significa algo así como 10 o 20 años. Vamos, como cuando comencé con R allá por el 2001. * R es, reconozcámoslo, un carajal. Pocas cosas mejores que esta para convencerse. * No dejo de pensar en aquello que me dijo un profesor en 2001: que R no podría desplazar a SAS porque no tenía soporte modelos mixtos. Yo no sabía qué eran los modelos mixtos en esa época pero, desde entonces, vine a entender y considerar que &amp;ldquo;tener soporte para modelos mixtos&amp;rdquo; venía a ser como aquello que convertía a un lenguaje para el análisis de datos en una alternativa viable y seria a lo existente.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre Julia (II): mi primer programa</title>
+      <link>/2012/03/06/mas-sobre-julia-ii-mi-primer-programa/</link>
+      <pubDate>Tue, 06 Mar 2012 08:37:57 +0000</pubDate>
+      
+      <guid>/2012/03/06/mas-sobre-julia-ii-mi-primer-programa/</guid>
+      <description>A las entradas que he hecho sobre Julia estos últimos días, quiero añadir esta en la que publico mi primer programa en dicho lenguaje.
+Me ha dado por reimplementar el programa para realizar un muestreo de Gibbs que aparece en Gibbs sampler in various languages.
+Lo primero ha sido instalar Julia, para lo que basta con seguir las instrucciones que aparecen en su página de github. Y aviso: tarda bastante en descargar y compilar todas sus dependencias.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre Julia</title>
+      <link>/2012/03/05/mas-sobre-julia/</link>
+      <pubDate>Mon, 05 Mar 2012 08:09:35 +0000</pubDate>
+      
+      <guid>/2012/03/05/mas-sobre-julia/</guid>
+      <description>Unos días después de la primera noticia acerca de Julia en esta bitácora me llegan, como suele ser habitual en estos casos, otras.
+En primer lugar, hay una discusión interesante sobre R en la lista de desarrolladores de Julia. Y hay un vídeo de Jeff Bezanson sobre Julia de un seminario en Stanford que podría estar pronto disponible en el canal de Youtube de dicha universidad (y que, de momento, puede verse yendo a la bitácora de Julia y después, navegando a Stanford Talk Video y available here).</description>
+    </item>
+    
+    <item>
+      <title>Julia, un nuevo lenguaje para la programación científica</title>
+      <link>/2012/02/28/3327/</link>
+      <pubDate>Tue, 28 Feb 2012 08:02:29 +0000</pubDate>
+      
+      <guid>/2012/02/28/3327/</guid>
+      <description>No sé si conocéis Julia, un lenguaje de programación orientado al cálculo científico. Os dejaré echarle un vistazo a su página.
+¿Ya?
+Bueno, pues estoy un poco enfadado con ellos. Me pasa un poco como a los catalanes que se quejaban de que en las fotos de ABC siempre sacaban a Jordi Pujol (todavía más) feo (de lo que por sí era): en las comparaciones no le hacen excesiva justicia a R.</description>
+    </item>
+    
+  </channel>
+</rss>

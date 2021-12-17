@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gowex on datanalytics</title>
+    <link>/tags/gowex/</link>
+    <description>Recent content in gowex on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 08 Jul 2014 07:13:48 +0000</lastBuildDate><atom:link href="/tags/gowex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demasiado bueno para ser cierto</title>
+      <link>/2014/07/08/demasiado-bueno-para-ser-cierto/</link>
+      <pubDate>Tue, 08 Jul 2014 07:13:48 +0000</pubDate>
+      
+      <guid>/2014/07/08/demasiado-bueno-para-ser-cierto/</guid>
+      <description>O el porqué de la importancia de los outliers.
+
+Hace unos días me presentaron unos datos. Demasiado buenos para ser ciertos. Casi seguro que reflejan un efecto que no es el que se quiere medir. Estaban muy fuera de rango.
+Leí los 93 folios del informe de Gotham sobre Gowex. Si algo debió llamar la atención de esa gente era que la información pública de Gowex estaba plagada de outliers: consistía en una sistemática comparación de ciertas métricas públicas de la empresa con las de sus competidores.</description>
+    </item>
+    
+    <item>
+      <title>Por qué soy escéptico con respecto al periodismo de datos</title>
+      <link>/2014/07/07/por-que-soy-esceptico-con-respecto-al-periodismo-de-datos/</link>
+      <pubDate>Mon, 07 Jul 2014 07:27:34 +0000</pubDate>
+      
+      <guid>/2014/07/07/por-que-soy-esceptico-con-respecto-al-periodismo-de-datos/</guid>
+      <description>Lo dejé dicho hace un tiempo: en algún momento de esta charla expresé mis motivos.
+Hay iniciativas muy encomiables que abogan por la apertura de datos. Convengo que la disponibilidad de datos de organizaciones púbicas y privadas facilitaría su fiscalización. En particular, la fiscalización que realiza la prensa: su acción sería más eficaz de no tener que jugar al gato y al ratón.
+Pero hay motivos para el escepticismo. Hay motivos para pensar que la liberación de datos es condición hasta cierto punto necesaria pero en modo alguno suficiente para alcanzar esos loables objetivos.</description>
+    </item>
+    
+  </channel>
+</rss>

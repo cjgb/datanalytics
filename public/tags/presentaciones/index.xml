@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>presentaciones on datanalytics</title>
+    <link>/tags/presentaciones/</link>
+    <description>Recent content in presentaciones on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Apr 2018 08:13:31 +0000</lastBuildDate><atom:link href="/tags/presentaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diapositivas con reveal.js y yeoman</title>
+      <link>/2018/04/25/diapositivas-con-reveal-js-y-yeoman/</link>
+      <pubDate>Wed, 25 Apr 2018 08:13:31 +0000</pubDate>
+      
+      <guid>/2018/04/25/diapositivas-con-reveal-js-y-yeoman/</guid>
+      <description>Alguna vez me han preguntado cómo construyo diapositivas como estas.
+La respuesta: uso reveal.js (que me da prácticamente todo lo que se ve) y me apoyo en el generador generator-reveal de yeoman para automatizar algunas tareas. Además, casi todas las diapositivas están escritas en markdown.
+Como casi siempre me olvido del procedimiento de arranque, siempre acudo a este breve tutorial. A los que no estamos muy puestos en todo lo nodejs nos viene siempre bien echar un vistazo para ver qué demonios hace cada uno de los distintos comandos (npm, n, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

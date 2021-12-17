@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>censo on datanalytics</title>
+    <link>/tags/censo/</link>
+    <description>Recent content in censo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 22 Mar 2018 08:13:19 +0000</lastBuildDate><atom:link href="/tags/censo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Población: el padrón y la otra cosa</title>
+      <link>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</link>
+      <pubDate>Thu, 22 Mar 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</guid>
+      <description>En un proyecto necesitábamos cifras de población por provincias durante los últimos años. Así que usamos los datos del padrón proporcionados por el INE (el INE es guay; AEMET es kk). Pero alguien nos dijo que era mejor usar los otros datos de población, los nosequé (sí, las estimaciones intercensales, si es que se llaman así) porque eran más mejores.
+El padrón es un registro administrativo. Lo otro es algo soportado por lo que yo llamo método y el resto de la humanidad, metodología.</description>
+    </item>
+    
+    <item>
+      <title>Estructura poblacional de España: 2010-2050</title>
+      <link>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</link>
+      <pubDate>Tue, 27 Feb 2018 08:13:04 +0000</pubDate>
+      
+      <guid>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</guid>
+      <description>Si se puede hacer para Japón, también se puede hacer para España:
+El código,
+library(idbr) library(ggplot2) library(animation) library(ggthemes) idb_api_key(&amp;quot;pídela en https://www.census.gov/data/developers/data-sets/international-database.html&amp;quot;) male &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;male&#39;) male$SEX &amp;lt;- &amp;quot;hombres&amp;quot; male$POP &amp;lt;- -male$POP female &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;female&#39;) female$SEX &amp;lt;- &amp;quot;mujeres&amp;quot; spain &amp;lt;- rbind(male, female) saveGIF({ for (i in 2010:2050) { title &amp;lt;- as.character(i) year_data &amp;lt;- spain[spain$time == i, ] g1 &amp;lt;- ggplot(year_data, aes(x = AGE, y = POP, fill = SEX, width = 1)) + coord_fixed() + coord_flip() + annotate(&#39;text&#39;, x = 98, y = -300000, label = &#39;Datos: US Census Bureau IDB; idbr R package&#39;, size = 3) + geom_bar(data = subset(year_data, SEX == &amp;quot;mujeres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + geom_bar(data = subset(year_data, SEX == &amp;quot;hombres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + scale_y_continuous(breaks = seq(-300000, 300000, 150000), labels = paste0(as.</description>
+    </item>
+    
+    <item>
+      <title>Encuestas, censos, elecciones</title>
+      <link>/2015/11/12/encuestas-censos-elecciones/</link>
+      <pubDate>Thu, 12 Nov 2015 08:13:52 +0000</pubDate>
+      
+      <guid>/2015/11/12/encuestas-censos-elecciones/</guid>
+      <description>Hace unas semanas tuve un lapso de creatividad. Dejé de escribir durante un tiempo y me dediqué al sucedáneo: leer. Terminé, para variar, unos cuantos libros.
+Uno de ellos es Proofiness, the Dark Arts of Mathematical Deception que está más o menos bien. En su mayor parte abunda sobre fenómenos conocidos, estudiados y sobradamente denunciados: que hay que recurre a argumentos basados en números, estadísticas o construcciones matemáticas más o menos sofisticadas para dar visos de verdad a mentiras flagrantes.</description>
+    </item>
+    
+    <item>
+      <title>Nueva versión de MicroDatosEs: héroes, villanos y mejoras</title>
+      <link>/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/</link>
+      <pubDate>Wed, 14 May 2014 07:00:28 +0000</pubDate>
+      
+      <guid>/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/</guid>
+      <description>Ayer odié mucho a José Luis Cañadas —que sigue no obstante siendo amigo: véase más abajo— por esto:
+Hubiera preferido reservarme la primicia para todos sus usuarios y simpatizantes de la nueva versión del paquete MicroDatosEs recién subida a CRAN pero&amp;hellip; en fin.
+De todos modos José Luis no es el villano de la historia. El villano es el INE, que parió en la mañana del 29 de abril los nuevos resultados de la EPA con un cambio retroactivo de formato en los ficheros de microdatos que rompió mis funciones justo cuando más falta hacían.</description>
+    </item>
+    
+    <item>
+      <title>Selección de enlaces: censos, el Titanic, periodistas y mapas</title>
+      <link>/2014/03/14/seleccion-de-enlaces-censos-el-titanic-periodistas-y-mapas/</link>
+      <pubDate>Fri, 14 Mar 2014 08:58:31 +0000</pubDate>
+      
+      <guid>/2014/03/14/seleccion-de-enlaces-censos-el-titanic-periodistas-y-mapas/</guid>
+      <description>El primer enlace de la selección de esta semana es The evolution of the modern census. Todos sabemos que lo que llevó a José y María a Belén hace más de 2000 años fue dizque tenían que censarse. Hay noticias de censos anteriores. Desde entonces hasta ahora ha habido muchos, muchísimos censos, pero su mismo concepto y finalidad ha ido cambiando a lo largo de la historia: ya no se trata solamente de contar, medir la riqueza o el poderío militar.</description>
+    </item>
+    
+    <item>
+      <title>Más (y distinto) sobre los censos</title>
+      <link>/2014/01/17/mas-y-distinto-sobre-los-censos/</link>
+      <pubDate>Fri, 17 Jan 2014 08:15:06 +0000</pubDate>
+      
+      <guid>/2014/01/17/mas-y-distinto-sobre-los-censos/</guid>
+      <description>A los pocos días de publicar Los censos huelen a naftalina (y son muy caros) pasó por mis manos una visión alternativa, 2020 vision: why a full census should be kept. Danny Dorling, un tipo que escribe cosas muy interesantes, entra al debate argumentando cómo los censos tradicionales y los basados en muestras y registros administrativos son, a lo más, complementarios y nunca sustitutos.
+No sé si creer sus argumentos enteramente.</description>
+    </item>
+    
+    <item>
+      <title>Los censos huelen a naftalina (y son muy caros)</title>
+      <link>/2014/01/03/los-censos-huelen-a-naftalina-y-son-muy-caros/</link>
+      <pubDate>Fri, 03 Jan 2014 07:11:48 +0000</pubDate>
+      
+      <guid>/2014/01/03/los-censos-huelen-a-naftalina-y-son-muy-caros/</guid>
+      <description>Los censos huelen a naftalina. Eso de ir contando exhaustivamente cabezas, críos, cabras y cabañas ya lo hacía el rey David en su época.
+Tampoco son operaciones no pequeñas. El último censo chino movilizó a seis millones de encuestadores y el de EE.UU. costó casi como el AVE a Valencia.
+[caption id=&amp;ldquo;attachment_5299&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;492&amp;rdquo; caption=&amp;ldquo;Coste (absoluto y relativo) de los últimos censos de diversos países europeos.&amp;quot;][/caption]
+Sin embargo, eso de contar sin excepciones es un ejercicio de fuerza bruta propio de la oscura época pre-estadística.</description>
+    </item>
+    
+  </channel>
+</rss>

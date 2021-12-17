@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travis on datanalytics</title>
+    <link>/tags/travis/</link>
+    <description>Recent content in travis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 17 Dec 2015 08:13:13 +0000</lastBuildDate><atom:link href="/tags/travis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CRAN, r-devel, GitHub, Travis CI, pruebas automáticas y todo eso</title>
+      <link>/2015/12/17/cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso/</link>
+      <pubDate>Thu, 17 Dec 2015 08:13:13 +0000</pubDate>
+      
+      <guid>/2015/12/17/cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso/</guid>
+      <description>Estoy harto. La gente de CRAN me devolvió (con errores) un paquete que trataba de subir. Había hecho el prescriptivo
+R CMD check --as-cran etc.
+y el log era una patena. Pero había un par de NOTES al pasar el test sobre la versión de desarrollo de R, r-devel. No solo hay que probar los paquetes en la versión que hay sino también en la que vendrá (tal y como está docuentado).</description>
+    </item>
+    
+  </channel>
+</rss>

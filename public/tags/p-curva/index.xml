@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p-curva on datanalytics</title>
+    <link>/tags/p-curva/</link>
+    <description>Recent content in p-curva on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 Dec 2017 08:13:19 +0000</lastBuildDate><atom:link href="/tags/p-curva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>p-curvas</title>
+      <link>/2017/12/12/p-curvas/</link>
+      <pubDate>Tue, 12 Dec 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/12/12/p-curvas/</guid>
+      <description>Primero, una simulación:
+n &amp;lt;- 100 delta &amp;lt;- 0.2 n.iter &amp;lt;- 10000 p_valores &amp;lt;- function(n, delta){ tmp &amp;lt;- replicate(n.iter, { x &amp;lt;- rnorm(n) y &amp;lt;- rnorm(n, mean = delta) t.test(x, y)$p.value }) res &amp;lt;- tmp[tmp &amp;lt; 0.05] hist(res, freq = FALSE, xlab = &amp;quot;p value&amp;quot;, ylab = &amp;quot;&amp;quot;, col = &amp;quot;gray&amp;quot;, main = &amp;quot;histograma de p-valores publicables&amp;quot;) res } null_effect_p_values &amp;lt;- p_valores(n, 0) some_effect_p_values &amp;lt;- p_valores(n, delta)  Lo que simula son n.</description>
+    </item>
+    
+  </channel>
+</rss>

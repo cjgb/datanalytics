@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ninis on datanalytics</title>
+    <link>/tags/ninis/</link>
+    <description>Recent content in ninis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jul 2014 07:13:35 +0000</lastBuildDate><atom:link href="/tags/ninis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ni-nis y estados transitorios</title>
+      <link>/2014/07/22/ni-nis-y-estados-transitorios/</link>
+      <pubDate>Tue, 22 Jul 2014 07:13:35 +0000</pubDate>
+      
+      <guid>/2014/07/22/ni-nis-y-estados-transitorios/</guid>
+      <description>Imaginemos un país feliz en el que mucha gente trabaja durante dos años y luego se toma un mes para buscar otro trabajo mejor. ¿Cuál sería su tasa de paro? Del 4 %: la gente pasaría en el paro uno de cada 25 meses. Ese estado transitorio de un mes se manifestaría así en la EPA de dicho país, como un stock de desempleados.
+Descrita como flujo, la situación parecería propicia.</description>
+    </item>
+    
+  </channel>
+</rss>

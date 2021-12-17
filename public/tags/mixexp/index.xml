@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mixexp on datanalytics</title>
+    <link>/tags/mixexp/</link>
+    <description>Recent content in mixexp on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 19 Feb 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/mixexp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis estadístico de mezclas</title>
+      <link>/2020/02/19/analisis-estadistico-de-mezclas/</link>
+      <pubDate>Wed, 19 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/19/analisis-estadistico-de-mezclas/</guid>
+      <description>No es algo que ocurra habitualmente. Creo que conozco a alguien que me dijo que lo tuvo que hacer una vez. Pero podría ocurrir en algún momento que tuvieses que analizar mezclas, es decir, situaciones experimentales en las que lo importante es la proporción de ciertos ingredientes (con la restricción obvia de que dichas proporciones suman la unidad).
+Para más datos, Mixture Experiments in R Using mixexp, que describe el paquete de R [mixexp](https://CRAN.</description>
+    </item>
+    
+  </channel>
+</rss>

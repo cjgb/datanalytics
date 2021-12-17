@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cartociudad on datanalytics</title>
+    <link>/tags/cartociudad/</link>
+    <description>Recent content in cartociudad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 10 Feb 2020 18:00:00 +0000</lastBuildDate><atom:link href="/tags/cartociudad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la normalización de las direcciones postales</title>
+      <link>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</link>
+      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</guid>
+      <description>Lo de las direcciones postales es un caos. Trabajar con ellas, una tortura. Y cualquier proyecto de ciencia de datos que las emplee se convierte en la n-ésima reinvención de la rueda: normalización y tal.
+Cuando todo debería ser más sencillo. Cada portal en España tiene asociado un número de policía, un identificador numérico único. Independientemente de que quienes lo habiten se refieran a él de formas variopintas, vernaculares y, en definitiva, desnormalizadas y desestandarizadas hasta pedir basta.</description>
+    </item>
+    
+    <item>
+      <title>Mañana (2016-05-12), caRtociudad en la reunión de usuarios de R de Madrid</title>
+      <link>/2016/05/11/manana-2016-05-12-cartociudad-en-la-reunion-de-usuarios-de-r-de-madrid/</link>
+      <pubDate>Wed, 11 May 2016 08:13:25 +0000</pubDate>
+      
+      <guid>/2016/05/11/manana-2016-05-12-cartociudad-en-la-reunion-de-usuarios-de-r-de-madrid/</guid>
+      <description>Mañana día 12 de mayo (de 2016) Luz Frías, mi coautora, hablará de caRtociudad en la reunión de usuarios de R de Madrid.
+Es un paquete muy interesante para geolocalizar direcciones (¡sin las restricciones de los consabidos servicios!), identificar las secciones censales, distritos censales y códigos postales correspondientes a direcciones y ubicaciones, etc.</description>
+    </item>
+    
+    <item>
+      <title>Cómo ir de Regumiel de la Sierra a Montejo de la Vega de la Serrezuela</title>
+      <link>/2016/04/29/como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela/</link>
+      <pubDate>Fri, 29 Apr 2016 08:13:11 +0000</pubDate>
+      
+      <guid>/2016/04/29/como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela/</guid>
+      <description>Pues así:
+ * Continúe por CALLE SAN JUAN DE RABANERA * Gire justo a la izquierda por CALLE DIPUTACION * Gire justo a la derecha por CALLE CABALLEROS * Gire ligeramente a la izquierda por PLAZA RAMON Y CAJAL * Gire a la izquierda por PLAZA MARIANO GRANADOS * Gire a la izquierda por PASEO ESPOLON (EL) * Gire ligeramente a la izquierda por AVENIDA VALLADOLID * Gire ligeramente a la izquierda por N-122 * Continúe por A-11 * Continúe por N-122 * Gire ligeramente a la izquierda por CARRETERA SIN NOMBRE * Continúe por N-122 * Gire a la izquierda por BU-924 * Continúe por N-122 * Continúe por BU-930 * Gire a la derecha por BU-940 * Continúe por CALLE FELIPE GARCIA * Continúe por BU-940 * Gire ligeramente a la derecha por BU-932 * Gire a la izquierda por CALLE PAJARES * Continúe por BU-V-9321 * Continúe por SG-V-9321 * Continúe por road * Continúe por SG-V-9321 * Gire a la derecha por CALLE BAÑUELOS  O al menos, eso dice la novísima función caRtociudad::get_cartociudad_route.</description>
+    </item>
+    
+    <item>
+      <title>Ahora caRtociudad encuentra información administrativa relativa a un punto</title>
+      <link>/2016/04/15/ahora-cartociudad-encuentra-informacion-administrativa-relativa-a-un-punto/</link>
+      <pubDate>Fri, 15 Apr 2016 09:13:20 +0000</pubDate>
+      
+      <guid>/2016/04/15/ahora-cartociudad-encuentra-informacion-administrativa-relativa-a-un-punto/</guid>
+      <description>Y lo hace así:
+library(caRtociudad) get_cartociudad_location_info(40.473219,-3.7227241, year = 2015) # $seccion # [1] &amp;quot;2807908148&amp;quot; # # $distrito # [1] &amp;quot;2807908&amp;quot; # # $provincia # [1] &amp;quot;Madrid&amp;quot; # # $municipio # [1] &amp;quot;Madrid&amp;quot;  Esto da respuesta a una pregunta de Rubén.
+La función es en su mayor parte (salvo algunos retoques más estéticos que otra cosa míos) de Luz Frías, que hizo omiso caso de la inexistente docuentación del INE sobre su servicio de mapas y capturó directamente la petición que el portal de Cartociudad hace al servicio.</description>
+    </item>
+    
+    <item>
+      <title>Cartociudad</title>
+      <link>/2016/03/31/cartociudad/</link>
+      <pubDate>Thu, 31 Mar 2016 09:13:48 +0000</pubDate>
+      
+      <guid>/2016/03/31/cartociudad/</guid>
+      <description>caRtociudad es esto.
+Más noticias habrá.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioestadística on datanalytics</title>
+    <link>/tags/bioestad%C3%ADstica/</link>
+    <description>Recent content in bioestadística on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Jul 2015 08:13:44 +0000</lastBuildDate><atom:link href="/tags/bioestad%C3%ADstica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Son normales las alturas (de los individuos)?</title>
+      <link>/2015/07/09/son-normales-las-alturas-de-los-individuos/</link>
+      <pubDate>Thu, 09 Jul 2015 08:13:44 +0000</pubDate>
+      
+      <guid>/2015/07/09/son-normales-las-alturas-de-los-individuos/</guid>
+      <description>Diríase que sí. La altura de un individuo está sujeta a multitud de factores que suman y restan. Está la genética (que es el resultado de la suma y resta del impacto de muchos genes individuales). Está la dieta, está&amp;hellip; Diríase, insisto, que la altura es el promedio de muchos efectos pequeños y no demasiado dependientes entre ellos.
+Y en efecto, (una vez descargados los microdatos de la Encuesta Nacional de Salud de 2011),</description>
+    </item>
+    
+    <item>
+      <title>¿No sin evidencia?</title>
+      <link>/2014/02/07/no-sin-evidencia/</link>
+      <pubDate>Fri, 07 Feb 2014 08:28:42 +0000</pubDate>
+      
+      <guid>/2014/02/07/no-sin-evidencia/</guid>
+      <description>Un cascarrabias escribió el otro día el siguiente alegato en contra de la homeopatía: Contra la estupidez… y la estafa. Menciona incluso a gentes aún más cascarrabias que han propuesto el manifiesto No sin evidencia.
+Sus razones tendrán, pero es manifiesto que nunca han leído el articulito que G.C. Smith y J.P. Pell escribieron en diciembre de 2003 en BMJ y que lleva por título Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomised controlled trials.</description>
+    </item>
+    
+    <item>
+      <title>La paradoja de Lord</title>
+      <link>/2013/09/09/la-paradoja-de-lord/</link>
+      <pubDate>Mon, 09 Sep 2013 07:58:44 +0000</pubDate>
+      
+      <guid>/2013/09/09/la-paradoja-de-lord/</guid>
+      <description>Hace unos meses una clienta me propuso un problema relativamente (¿aparentemente?) sencillo. Era el siguiente:
+ * A cierto número de pacientes se les hizo una medida (de qué, es irrelevante) antes y después de un tratamiento. * A unos se les aplicó el tratamiento tradicional (grupo de control). * A otros, uno novedoso (grupo de tratamiento).  El objetivo era el obvio: ¿es mejor el nuevo tratamiento? Parece sencillo, ¿verdad?</description>
+    </item>
+    
+    <item>
+      <title>Liberado BioStatFLOSS, una colección de recursos libres para la bioestadística y la epidemiología </title>
+      <link>/2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/</link>
+      <pubDate>Mon, 29 Oct 2012 07:50:38 +0000</pubDate>
+      
+      <guid>/2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/</guid>
+      <description>Quiero publicitar hoy BioStatFLOSS, una recopilación de software (libre, como el propio nombre indica) para Windows, especialmente indicado a la hora de realizar trabajos en el campo de la bioestadística y la epidemiología (pero que también se puede utilizar para la realización de estudios estadísticos más generales).
+El software (que incluye R como programa estrella) ha sido portabilizado —si no existía ya una versión portable, es decir, que no necesite instalación— y se ha creado un lanzador común desde donde se puedan llamar a todos esos programas (véase la captura adjunta).</description>
+    </item>
+    
+  </channel>
+</rss>

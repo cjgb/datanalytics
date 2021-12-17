@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>econometría on datanalytics</title>
+    <link>/tags/econometr%C3%ADa/</link>
+    <description>Recent content in econometría on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 14 Sep 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/econometr%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo vídeo en YouTube: un artículo y tres problemas metodológicos</title>
+      <link>/2021/09/14/nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos/</link>
+      <pubDate>Tue, 14 Sep 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/09/14/nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos/</guid>
+      <description>He publicado esto en Youtube:
+https://youtu.be/GvosrzEADwM
+Igual no lo debería haber hecho. Trata del manido tema &amp;ldquo;alguien ha publicado un artículo científico con serios errores metodológicos&amp;rdquo;. Que es una versión del más popular
+(No hace falta que indique la fuente, ¿verdad? Sabéis que sé que sabéis de dónde lo he sacado, ¿no?)
+Lo he hecho únicamente por lo popular que me da la impresión que se ha hecho en las redes sociales, por las lecciones que se pueden extraer para no cometer los mismos errores por ahí y, finalmente, por la contumacia de gente que debería saber más y mejor.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre variables instrumentales con R</title>
+      <link>/2020/09/08/mas-sobre-variables-instrumentales-con-r/</link>
+      <pubDate>Tue, 08 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/08/mas-sobre-variables-instrumentales-con-r/</guid>
+      <description>[El título de esta entrada tiene un + delante porque ya escribí sobre el asuntotiempo atrás.]
+Con la excusa de la reciente publicación del paquete ivreg (para el ajuste de modelos con variables instrumentales, por si el contexto no lo hace evidente), he mirado a ver quién estaba construyendo y ajustando modelos generativos menos triviales que los míos (véase el enlace anterior) para que quede más claro de qué va la cosa.</description>
+    </item>
+    
+    <item>
+      <title>¡Son todos igualitos!</title>
+      <link>/2020/01/10/son-todos-igualitos/</link>
+      <pubDate>Fri, 10 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/10/son-todos-igualitos/</guid>
+      <description>Y me refiero a
+extraído de aquí y lo que escribí ayer sobre la regresión con discontinuidades.</description>
+    </item>
+    
+    <item>
+      <title>Regresiones con discontinuidad y grados de libertad</title>
+      <link>/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/</link>
+      <pubDate>Thu, 09 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/</guid>
+      <description>Muy falto de ideas para el blog tendría que estar para traer a la consideración de sus lectores
+que ilustra el resultado principal del artículo discutido aquí.
+Mario, un lector del artículo nos quita la palabra de la boca a todos:
+Y prosigue citando referencias, etc. A lo que el autor responde (con un par de pares de huevos):
+Colofón: El artículo que enlazo artículo resume otro, académico, que parece no existir pese a tal vez haber existido: el enlace está roto y la referencia al paper no figura ni en el CV del autor ni en Google Académico.</description>
+    </item>
+    
+    <item>
+      <title>Gente que toma la causalidad en vano</title>
+      <link>/2019/10/25/gente-que-toma-la-causalidad-en-vano/</link>
+      <pubDate>Fri, 25 Oct 2019 09:13:51 +0000</pubDate>
+      
+      <guid>/2019/10/25/gente-que-toma-la-causalidad-en-vano/</guid>
+      <description>Me refiero a los autores de_ _El impacto de Airbnb en el mercado de vivienda de Barcelona, que a partir de datos puramente observacionales y en un artículo de apenas 1500 palabras, mencionan la causalidad siete veces. Además, escriben joyas como
+Ya sabes: si quieres un análisis causal robusto, el modelo lineal (chupatesa, Pearl).
+Nah, lo que esa gente publica es otro estudio más de atribución, que, muchas veces y en su versión de sombrero negro, consiste esencialmente en vestir de lenguaje estadístico trucos diversos para obtener el número que tu audiencia quiere ver.</description>
+    </item>
+    
+    <item>
+      <title>Goodhart, Lucas y todas esas cosas</title>
+      <link>/2018/11/12/goodhart-lucas-y-todas-esas-cosas/</link>
+      <pubDate>Mon, 12 Nov 2018 08:13:30 +0000</pubDate>
+      
+      <guid>/2018/11/12/goodhart-lucas-y-todas-esas-cosas/</guid>
+      <description>Como me da vergüenza que una búsqueda de Goodhart en mi blog no dé resultados, allá voy. Lo de Goodhart, independientemente de lo que os hayan contado, tiene que ver con
+es decir, un gráfico causal hiperbásico. Si la variable de interés y es difícil de medir, resulta tentador prestar atención a la variable observable x y usarla como proxy. Todo bien.
+Pero también puede interesar operar sobre y y a cierta gente le puede sobrevenir la ocurrencia de operar sobre x con la esperanza de que eso influya sobre y.</description>
+    </item>
+    
+    <item>
+      <title>Charla: las *-metrías en la práctica de la ciencia de datos: el papel de la teoría</title>
+      <link>/2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/</link>
+      <pubDate>Fri, 26 Jan 2018 08:13:21 +0000</pubDate>
+      
+      <guid>/2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/</guid>
+      <description>El próximo 8 de febrero daré una charla dentro del ciclo de Data Konferences.
+Para la mía han creado el siguiente cartelito:
+El resumen que preparé es:
+Los detalles espaciotemporales y otras concomitancias relevantes para los asistentes pueden consultarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>Cuando dicen que la variable x es exógena, quieren decir...</title>
+      <link>/2015/01/26/cuando-dicen-que-la-variable-x-es-exogena-quieren-decir/</link>
+      <pubDate>Mon, 26 Jan 2015 07:13:05 +0000</pubDate>
+      
+      <guid>/2015/01/26/cuando-dicen-que-la-variable-x-es-exogena-quieren-decir/</guid>
+      <description>Cuando los economistas dicen que la variable $latex x$ es exógena (con respecto a una variable de interés $latex y$) en realidad quieren decir que la función de verosimilitud $latex f(x,y)$ puede descomponerse de la forma $latex f(x,y) = f(y|x) g(x)$ y eso permite modelizar $latex y$ en función de $latex x$.
+Cuando la descomposición no es posible (porque $latex x$ y $latex y$ se influyen mutuamente) dicen que $latex x$ es endógena.</description>
+    </item>
+    
+    <item>
+      <title>Vectorización en R: un contraejemplo</title>
+      <link>/2014/07/04/vectorizacion-en-r-un-contraejemplo/</link>
+      <pubDate>Fri, 04 Jul 2014 07:13:15 +0000</pubDate>
+      
+      <guid>/2014/07/04/vectorizacion-en-r-un-contraejemplo/</guid>
+      <description>No hay regla sin excepción, dicen. Para la recomendación casi única para quienes se quejan de la lentitud de R, es decir, ¡vectoriza!, he encontrado hoy una.
+Sí, el artículo deja R por los suelos. En el fondo, no tanto, porque viene a decir que R es malo para lo que la documentación de R dice que es malo: véase cómo en Writing R Extensions nos advierten que la convolución is hard to do fast in interpreted R code, but easy in C code.</description>
+    </item>
+    
+    <item>
+      <title>Lecturas disparatadas: la salud de los críos y el desempleo</title>
+      <link>/2014/07/01/lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo/</link>
+      <pubDate>Tue, 01 Jul 2014 07:00:55 +0000</pubDate>
+      
+      <guid>/2014/07/01/lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo/</guid>
+      <description>Hay gente que en lugar de escribir cosas debería invertir su tiempo en leer otras. Pero como
+ * no me hacen caso, * escribiendo cosillas escalan poquito a poco escalafones académicos y, encima, * lo pagamos los contribuyentes felizmente engatusados eso del oropel del I+D y nosequé otros intangibles onerosos y de dudosa utilidad pública,  podemos hoy disfrutar de otro ejercicio más de ese añejo ritual de la búsqueda del numerito inferior a 0.</description>
+    </item>
+    
+    <item>
+      <title>Menos econometría y más precioestatos</title>
+      <link>/2014/04/16/menos-econometria-y-mas-precioestatos/</link>
+      <pubDate>Wed, 16 Apr 2014 07:39:14 +0000</pubDate>
+      
+      <guid>/2014/04/16/menos-econometria-y-mas-precioestatos/</guid>
+      <description>¿Será necesario un doctorado en econometría para poner una lavadora? Con eso ironiza el autor de El nuevo sistema de precios para la electricidad (I): Entre la tarifa gusiluz y la tarifa batamanta.
+Os cuento el contexto.
+Al parecer, a partir de cierta fecha no muy remota, el precio de la electricidad en España variará de acuerdo con el precio en el mercado de generación y, por lo tanto, según la hora.</description>
+    </item>
+    
+    <item>
+      <title>La desigualdad y cómo medirla</title>
+      <link>/2012/07/10/la-desigualdad-y-como-medirla/</link>
+      <pubDate>Tue, 10 Jul 2012 06:48:45 +0000</pubDate>
+      
+      <guid>/2012/07/10/la-desigualdad-y-como-medirla/</guid>
+      <description>Últimamente he tenido bastantes visitas del extranjero. Las llevo a pasear por el centro de Madrid, ¡qué remedio! Y siempre surge el mismo comentario: habiendo crisis que nos cuentan los periódicos, ¿cómo es que están las terrazas a rebosar? Y mi respuesta es siempre la misma: lo que se ve no es la crisis; lo que se ve, en el fondo, es la desigualdad.
+Otros han escrito, y mucho mejor de lo que lo haría yo, sobre lo pernicioso de la desigualdad en la economía e incluso, sobre la misma democracia.</description>
+    </item>
+    
+    <item>
+      <title>Variables instrumentales con R</title>
+      <link>/2012/04/19/variables-instrumentales-con-r/</link>
+      <pubDate>Thu, 19 Apr 2012 07:30:54 +0000</pubDate>
+      
+      <guid>/2012/04/19/variables-instrumentales-con-r/</guid>
+      <description>Los economistas usan unas cosas a las que llaman variables instrumentales con las que uno apenas se tropieza fuera de contextos econométricos. El problema se plantea en el contexto de la regresión
+$$y_i = \beta x_i + \varepsilon_i,$$
+cuando existe correlación entre X y $latex \varepsilon$. En tales casos, el estimador por mínimos cuadrados es
+$$\hat{\beta} =\frac{x&amp;rsquo;y}{x&amp;rsquo;x}=\frac{x&#39;(x\beta+\varepsilon)}{x&amp;rsquo;x}=\beta+\frac{x&#39;\varepsilon}{x&amp;rsquo;x}$$
+y debido a la correlación entre X y $latex \varepsilon$, está sesgado.
+La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con X pero no con $latex \varepsilon$.</description>
+    </item>
+    
+    <item>
+      <title>Cuando falta la variable más importante (II)</title>
+      <link>/2012/04/12/cuando-falta-la-variable-mas-importante-ii/</link>
+      <pubDate>Thu, 12 Apr 2012 07:28:55 +0000</pubDate>
+      
+      <guid>/2012/04/12/cuando-falta-la-variable-mas-importante-ii/</guid>
+      <description>No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porque siempre he pensado que era poco menso que imposible. Pero hace unos pocos días escribí sobre el asunto y hoy traigo otro similar a colación.
+La variable más importante a la hora de construir un modelo es, precisamente, la que se quiere predecir. Casi todos los textos asumen que se conoce sin ningún género de dudas en, al menos, una determinada muestra que, además, corresponde más o menos a la población subyacente: si el paciente sobrevive o no; si la hipoteca entra en mora o no; si el cliente responde a la oferta o no, etc.</description>
+    </item>
+    
+    <item>
+      <title>Guía de econometría básica con R</title>
+      <link>/2012/02/14/guia-de-econometria-basica-con-r/</link>
+      <pubDate>Tue, 14 Feb 2012 21:24:09 +0000</pubDate>
+      
+      <guid>/2012/02/14/guia-de-econometria-basica-con-r/</guid>
+      <description>Aunque muchos de mis lectores ya estarán al corriente de la noticia, la reitero aquí: Gregorio Serrano ha comenzado una serie de artículos en su bitácora sobre econometría básica con R.
+Puede seguirse por RSS (incluso usando mi agregador de noticias sobre R en RSS o HTML) y en su cuenta de Twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

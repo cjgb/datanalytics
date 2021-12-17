@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agregador on datanalytics</title>
+    <link>/tags/agregador/</link>
+    <description>Recent content in agregador on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 27 Feb 2019 08:13:50 +0000</lastBuildDate><atom:link href="/tags/agregador/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre el agregador de noticias sobre R en español</title>
+      <link>/2019/02/27/sobre-el-agregador-de-noticias-sobre-r-en-espanol/</link>
+      <pubDate>Wed, 27 Feb 2019 08:13:50 +0000</pubDate>
+      
+      <guid>/2019/02/27/sobre-el-agregador-de-noticias-sobre-r-en-espanol/</guid>
+      <description>Aprovecho que acabo de actualizar mi agregador de noticias sobre R en español para escribir este recordatorio.
+La cosa es que hace ya un tiempo (¡lo anuncié en 2010!) creé una programita que rastrea una serie de blogs que publican cosas sobre R, extrae los corresondientes RSS, selecciona las entradas que tratan sobre R y:
+ Crea un RSS combinado que guarda aquí (para los que aún uséis RSS, claro). * Publica esas entradas en una cuenta específica de Twitter, @noticiasSobreR.</description>
+    </item>
+    
+  </channel>
+</rss>

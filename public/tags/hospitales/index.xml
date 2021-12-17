@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hospitales on datanalytics</title>
+    <link>/tags/hospitales/</link>
+    <description>Recent content in hospitales on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 23 Mar 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/hospitales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hospitales y camas en la Comunidad de Madrid</title>
+      <link>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</link>
+      <pubDate>Mon, 23 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</guid>
+      <description>[Enhorabuena, pienses lo que pienses, en esta entrada vas a encontrar argumentos que reforzarán tus prioris.]
+Por un lado, nos cuentan que los políticos que han gobernado la CM (Comunidad de Madrid, en lo que sigue) han desmantelado la sanidad (particularmente, la pública). Por otro, jamás me ha sucedido ver un cráter y que me digan: allí hubo un hospital. Bueno, sí, el hospital Puerta de Hierro está abandonado pero, parece ser, fue trasladado de Madrid a Majadahonda.</description>
+    </item>
+    
+  </channel>
+</rss>

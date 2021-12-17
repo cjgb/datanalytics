@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abductivo on datanalytics</title>
+    <link>/tags/abductivo/</link>
+    <description>Recent content in abductivo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Dec 2015 08:13:21 +0000</lastBuildDate><atom:link href="/tags/abductivo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La búsqueda de la causa más probable de un efecto</title>
+      <link>/2015/12/16/la-busqueda-de-la-causa-mas-probable-de-un-efecto/</link>
+      <pubDate>Wed, 16 Dec 2015 08:13:21 +0000</pubDate>
+      
+      <guid>/2015/12/16/la-busqueda-de-la-causa-mas-probable-de-un-efecto/</guid>
+      <description>La búsqueda de la causa más probable de un efecto tiene un nombre: razonamiento abductivo. Que el visitante al enlace anterior aprenderá distinto del deductivo y el inductivo.
+Y que los viejos de estas páginas reconocerán en esta entrada que la formaliza y cuantifica en un caso concreto.</description>
+    </item>
+    
+  </channel>
+</rss>

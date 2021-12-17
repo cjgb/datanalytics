@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syberia on datanalytics</title>
+    <link>/tags/syberia/</link>
+    <description>Recent content in syberia on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 Jul 2017 08:13:54 +0000</lastBuildDate><atom:link href="/tags/syberia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syberia tiene muy buena pinta [pero...]</title>
+      <link>/2017/07/05/syberia-tiene-muy-buena-pinta-pero/</link>
+      <pubDate>Wed, 05 Jul 2017 08:13:54 +0000</pubDate>
+      
+      <guid>/2017/07/05/syberia-tiene-muy-buena-pinta-pero/</guid>
+      <description>Echadle un vistazo a Syberia (y me contáis qué tal os va). Tiene muy buena pinta y puede ser útil para produccionalizar código.
+[Esto es casi todo; lo que sigue es omitible.]
+Sin embargo y sin que necesariamente haga desmerecer a Syberia como tal, en la página arriba enlazada se lee:
+Nada tengo contra que R sea (o deje de ser) azúcar sintáctico. Si lo fuese sobre LISP, tanto mejor. Pero lenguajes de programación hay cientos mientras que statistical tools que merezcan el nombre, solo una [¿es correcto concordar con la traducción más natural de tools?</description>
+    </item>
+    
+  </channel>
+</rss>

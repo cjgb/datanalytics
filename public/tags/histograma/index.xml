@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>histograma on datanalytics</title>
+    <link>/tags/histograma/</link>
+    <description>Recent content in histograma on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Nov 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/histograma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Introducción a la probabilidad y la estadística para científicos de datos&#34;: segunda entrega</title>
+      <link>/2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/</link>
+      <pubDate>Mon, 30 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/</guid>
+      <description>Acabo de subir:
+ Modificaciones y correcciones a los dos primeros capítulos. * Un tercer capítulo sobre distribuciones de probabilidad.  Queda ampliar, organizar y razonar la biblografía correspondiente a ese tercer capítulo.
+Lo más original (con cuádruples comillas) de este capítulo es tal vez la construcción de la función de densidad a partir de histogramas obtenidos a partir de simulaciones de variables aleatorias. Algo sobre lo que creo que escribí en su día en el blog pero que no ubico.</description>
+    </item>
+    
+    <item>
+      <title>De histograma a distribuciones (usando la de Burr)</title>
+      <link>/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/</link>
+      <pubDate>Fri, 05 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/</guid>
+      <description>Tengo una entrada perpetuamente pendiente que se pospone, entre otras cosas, porque aún no he encontrado una manera satisfactoria para muestrear histogramas. Una de las vías sería dar con (y ajustar) una distribución subyacente que generase unos histogramas similares.
+Hoy voy a contar un ejemplo de cómo puede fallar tal estrategia.
+Por un lado he bajado datos de la distribución de renta en España del INE:
+Por otro, me he dejado convencer temporalmente de que la distribución de Burr podría ser conveniente para modelar la distribución de ingresos de los hogares (Wikipedia dixit!</description>
+    </item>
+    
+    <item>
+      <title>Un problema: cómo muestrear histogramas con medias.  La vía de los trapecios</title>
+      <link>/2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios/</link>
+      <pubDate>Fri, 13 Apr 2018 08:13:32 +0000</pubDate>
+      
+      <guid>/2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios/</guid>
+      <description>Me refiero muy impropiamente con histogramas con medias a algo parecido a que son resúmenes de datos en los que aparecen no solo intervalos sino también las medias correspondientes a los sujetos dentro de esos intervalos.
+Si uno quiere hacer cosas con esos datos tiene una vía que consiste en muestrear el histograma. Pero la media en cada intervalo será su punto central, no necesariamente su valor medio conocido.
+Por simplificar, supongamos que tenemos datos en el intervalo [0, 1] cuya media es $latex \mu$.</description>
+    </item>
+    
+    <item>
+      <title>Estadística(s) y el dedo de Dios</title>
+      <link>/2017/11/10/estadisticas-y-el-dedo-de-dios/</link>
+      <pubDate>Fri, 10 Nov 2017 08:13:12 +0000</pubDate>
+      
+      <guid>/2017/11/10/estadisticas-y-el-dedo-de-dios/</guid>
+      <description>He usado el vídeo
+https://www.youtube.com/watch?v=6YDHBFVIvIs
+en un curso de estadística básica para ilustrar a través de experimentos se construyen histogramas y estos convergen a y, en última instancia, justifican el uso de distribuciones de probabilidad.
+Es decir,
+experimentos -&amp;gt; histogramas -&amp;gt; funciones de distribución.
+Y de ahí, el resto.
+Pero de todos los vídeos más o menos equivalentes que describen el mismo experimento, me atrajo este en particular por lo que ocurre alrededor del minuto 1:32.</description>
+    </item>
+    
+  </channel>
+</rss>

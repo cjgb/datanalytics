@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>laplace on datanalytics</title>
+    <link>/tags/laplace/</link>
+    <description>Recent content in laplace on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 05 Mar 2019 08:13:09 +0000</lastBuildDate><atom:link href="/tags/laplace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El método de Laplace para aproximar ciertas funciones</title>
+      <link>/2019/03/05/el-metodo-de-laplace-para-aproximar-ciertas-funciones/</link>
+      <pubDate>Tue, 05 Mar 2019 08:13:09 +0000</pubDate>
+      
+      <guid>/2019/03/05/el-metodo-de-laplace-para-aproximar-ciertas-funciones/</guid>
+      <description>El método de Laplace para aproximar funciones puede usarse para:
+ Resolver integrales, como aquí * O para aproximar distribuciones (como esta posteriori o estas otras)  Nota: Y más vale que funcione bien y a escala o voy a tener problemas en un inminente proyecto.</description>
+    </item>
+    
+    <item>
+      <title>La reedición del sueño de Laplace</title>
+      <link>/2018/07/24/la-reedicion-del-sueno-de-laplace/</link>
+      <pubDate>Tue, 24 Jul 2018 08:13:33 +0000</pubDate>
+      
+      <guid>/2018/07/24/la-reedicion-del-sueno-de-laplace/</guid>
+      <description>Dejó escrito Laplace:
+Apostilla la Wikipedia:
+Pero, ¿no vivimos rodeados de ensayos de reedición del sueño de Laplace? Leed, leed lo que nos cuentan del big data y la inteligencia artificial.
+Nota: Una discusión sobre el anterior asunto está contenida en el primer capítulo de unas notas sobre estadística superpunk que estoy preparando no sé muy bien para qué. Muchos autores discuten la naturaleza de la aleatoriedad (sí, la consabida distinción entre su carácter objetivo o subjetivo).</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo se escribía &#34;verosimilitud&#34; en francés en 1774?</title>
+      <link>/2016/09/28/como-se-escribia-verosimilitud-en-frances-en-1774/</link>
+      <pubDate>Wed, 28 Sep 2016 08:13:46 +0000</pubDate>
+      
+      <guid>/2016/09/28/como-se-escribia-verosimilitud-en-frances-en-1774/</guid>
+      <description>Lo cuento luego, después del (por mí traducido) contexto:
+Pero en el problema siguiente: &amp;ldquo;Una urna contiene bolas blancas y negras en una proporción desconocida, se extrae una al azar y resulta ser blanca: determinar la probabilidad de que la proporción de bolas blancas y negras sea de p a q&amp;rdquo;; el suceso es conocido pero la causa no.Nótese que se habla de la probabilidad de la proporción. ¡Qué emoción!</description>
+    </item>
+    
+  </channel>
+</rss>

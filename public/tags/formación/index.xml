@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formación on datanalytics</title>
+    <link>/tags/formaci%C3%B3n/</link>
+    <description>Recent content in formación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 11 Jun 2019 09:13:38 +0000</lastBuildDate><atom:link href="/tags/formaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Informática o matemáticas? Una pregunta muy mal formulada</title>
+      <link>/2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/</link>
+      <pubDate>Tue, 11 Jun 2019 09:13:38 +0000</pubDate>
+      
+      <guid>/2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/</guid>
+      <description>https://twitter.com/victorianoi/status/1134367301703282688
+es el tuit que lo comenzó todo. Hay más sobre su impacto aquí. No voy a comentarlo.
+Sí que diré que la pregunta está mal formulada. Y muchas de las respuestas y comentarios que he visto, muchos de ellos de gente que conozco, han entrado al trapo sin percatarse de que, de algún modo, contiene una petición de principio.
+Lo que en el hilo, el artículo, la entrada y en las respuestas de muchos se contesta realmente a la pregunta siguiente:</description>
+    </item>
+    
+    <item>
+      <title>Statistics Online Computational Resource</title>
+      <link>/2013/11/18/statistics-online-computational-resource/</link>
+      <pubDate>Mon, 18 Nov 2013 07:22:36 +0000</pubDate>
+      
+      <guid>/2013/11/18/statistics-online-computational-resource/</guid>
+      <description>Sigo sin estar fino para hacer entradas interesantes. Así que de nuevo me voy a limitar a ejercer de divulgador de lo ajeno. Y hoy le corresponde el turno al Statistics Online Computational Resource, un portal nacido con el objetivo de fomentar el conocimiento de la estadística y la probabilidad en línea.
+Podría abundar sobre los recursos disponibles en SOCR, pero prefiero ahorrar mi tiempo y el de mis lectores invitándolos directamente a visitarlo y comprobarlo por sí mismos.</description>
+    </item>
+    
+    <item>
+      <title>Un MOOC P2P</title>
+      <link>/2012/12/21/un-mooc-p2p/</link>
+      <pubDate>Fri, 21 Dec 2012 07:19:50 +0000</pubDate>
+      
+      <guid>/2012/12/21/un-mooc-p2p/</guid>
+      <description>Cito de la Wikipedia:
+ MOOC (Massive Online Open Courses) o Cursos Abiertos Online y Masivos: son un método de formación a distancia planificado para alcanzar un elevado volumen de usuarios gracias a su carácter abierto, participativo, y con una metodología basada en el conocimiento gratuito. P2P: una red de computadoras en la que todos o algunos aspectos funcionan sin clientes ni servidores fijos, sino una serie de nodos que se comportan como iguales entre sí.</description>
+    </item>
+    
+    <item>
+      <title>coursera.es, ya</title>
+      <link>/2012/09/26/coursera-es-ya/</link>
+      <pubDate>Wed, 26 Sep 2012 07:59:26 +0000</pubDate>
+      
+      <guid>/2012/09/26/coursera-es-ya/</guid>
+      <description>Estoy tomando un curso en coursera.org sobre finanzas computacionales. Aunque, modestia aparte, no creo que vaya a aprender en él mucho que no sepa ya, llevaba tiempo interesado tener una experiencia de primera mano en el funcionamiento de estas plataformas. Cuyas virtudes, muy oportunamente, han sido glosadas recientemente en prensa.
+
+Y lo que no dejo de preguntarme es el motivo por el que no existe coursera.es, es decir, una plataforma para impartir cursos gratuitos de nivel universitario en la que se den cita nuestros profesores con alumnos de toda España, de todo el mundo.</description>
+    </item>
+    
+  </channel>
+</rss>

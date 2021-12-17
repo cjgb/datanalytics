@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>noticias on datanalytics</title>
+    <link>/tags/noticias/</link>
+    <description>Recent content in noticias on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 24 Oct 2019 09:13:36 +0000</lastBuildDate><atom:link href="/tags/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Tienes un sistema predictivo guay? Vale, pero dame los dos números</title>
+      <link>/2019/10/24/tienes-un-sistema-predictivo-guay-vale-pero-dame-los-dos-numeros/</link>
+      <pubDate>Thu, 24 Oct 2019 09:13:36 +0000</pubDate>
+      
+      <guid>/2019/10/24/tienes-un-sistema-predictivo-guay-vale-pero-dame-los-dos-numeros/</guid>
+      <description>No, no me vale que me digas que aciertas el 97% de las veces. Dime cuántas veces aciertas cuando sí y cuántas veces aciertas cuando no.
+Si no, cualquiera.
+Nota: estaba buscando la referencia a la última noticia de ese estilo que me había llegado, pero no la encuentro. No obstante, seguro, cualquier día de estos encontrarás un ejemplo de lo que denuncio.</description>
+    </item>
+    
+    <item>
+      <title>Rootclaim</title>
+      <link>/2019/09/27/rootclaim/</link>
+      <pubDate>Fri, 27 Sep 2019 09:13:15 +0000</pubDate>
+      
+      <guid>/2019/09/27/rootclaim/</guid>
+      <description>Rootclaim es un portal donde la gente plantea preguntas como
+plantea hipótesis como
+se recogen evidencias y usando este método (leedlo, es sumamente aprovechable: usa la palabra bayesian 23 veces), llega a conclusiones tales como</description>
+    </item>
+    
+    <item>
+      <title>Dos noticias: entrevista y cursos en Alicante</title>
+      <link>/2019/07/08/dos-noticias-entrevista-y-cursos-en-alicante/</link>
+      <pubDate>Mon, 08 Jul 2019 09:13:50 +0000</pubDate>
+      
+      <guid>/2019/07/08/dos-noticias-entrevista-y-cursos-en-alicante/</guid>
+      <description>Dos noticias para la entrada de hoy:
+ En Economipedia han tenido a bien entrevistarme. * El jueves y viernes de la semana que viene impartiré sendas conferencias en Alicante dentro del ciclo Matemáticos en la Sociedad. Más información, aquí.  </description>
+    </item>
+    
+    <item>
+      <title>Sobre el agregador de noticias sobre R en español</title>
+      <link>/2019/02/27/sobre-el-agregador-de-noticias-sobre-r-en-espanol/</link>
+      <pubDate>Wed, 27 Feb 2019 08:13:50 +0000</pubDate>
+      
+      <guid>/2019/02/27/sobre-el-agregador-de-noticias-sobre-r-en-espanol/</guid>
+      <description>Aprovecho que acabo de actualizar mi agregador de noticias sobre R en español para escribir este recordatorio.
+La cosa es que hace ya un tiempo (¡lo anuncié en 2010!) creé una programita que rastrea una serie de blogs que publican cosas sobre R, extrae los corresondientes RSS, selecciona las entradas que tratan sobre R y:
+ Crea un RSS combinado que guarda aquí (para los que aún uséis RSS, claro). * Publica esas entradas en una cuenta específica de Twitter, @noticiasSobreR.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la tesis de Sánchez (y no es lo que se espera de mí)</title>
+      <link>/2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/</link>
+      <pubDate>Wed, 30 Jan 2019 08:13:39 +0000</pubDate>
+      
+      <guid>/2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/</guid>
+      <description>Me preguntaron mucho (antes de los últimos seis o siete circos mediáticos) sobre la tesis de Sánchez, cuando estaba en el candelabro. La bajé, la leí en parte (muchas de las páginas más infumables en diagonal, lo reconozco) y me centré en la parte estadística.
+Que es un completo despropósito: es una especie de apéndice que no se usa en el resto del texto, una suerte de añadido para darle una mínima pincelada de matematicidad a la cosa.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo se mide el número medio de días para pagar una factura?</title>
+      <link>/2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/</link>
+      <pubDate>Tue, 05 Dec 2017 08:13:00 +0000</pubDate>
+      
+      <guid>/2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/</guid>
+      <description>[Esta entrada tiene una errata de la que doy fe aquí.]
+Pues casi seguro que mal. Por eso hay que enfrentarse a noticia como esta con escepticismo. En el cuerpo del artículo aparece el gráfico
+Que invita a preguntarse cosas como: ¿habrán tenido en cuenta las facturas aún no pagadas? (Es decir, las censuradas, en la nomenclatura del análisis de la supervivencia). Si se ignoran, el tiempo se estará infraestimando seriamente.</description>
+    </item>
+    
+  </channel>
+</rss>

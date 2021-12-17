@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datatón on datanalytics</title>
+    <link>/tags/datat%C3%B3n/</link>
+    <description>Recent content in datatón on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 25 May 2015 08:13:06 +0000</lastBuildDate><atom:link href="/tags/datat%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ya que estamos de resaca electoral, ¡Hacking elections!</title>
+      <link>/2015/05/25/ya-que-estamos-de-resaca-electoral-hacking-elections/</link>
+      <pubDate>Mon, 25 May 2015 08:13:06 +0000</pubDate>
+      
+      <guid>/2015/05/25/ya-que-estamos-de-resaca-electoral-hacking-elections/</guid>
+      <description>Un pelo del perro que te mordió, decían, curaba la rabia. Un vaso de vino, la resaca de lo mismo. Si te has levantado hoy con dolor de cabeza de resaca electoral, estás de enhorabuena: tienes a mano participar en Hacking Elections.
+Los detalles, mucho mejor contados que podría hacerlo yo, en el enlace anterior.
+Nota: no podré asistir por compromisos laborales y personales; pero no me lo habría perdido. Tengo un par de ideas sobre cómo podría montar un cartograma combinando los paquetes sp e igraph de R y pocos sitios como Hacking Elections para tratar de ponerlas en negro sobre blanco.</description>
+    </item>
+    
+    <item>
+      <title>Visualizar&#39;15 Datos para el bien común: convocatoria de proyectos</title>
+      <link>/2015/04/01/visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos/</link>
+      <pubDate>Wed, 01 Apr 2015 08:13:55 +0000</pubDate>
+      
+      <guid>/2015/04/01/visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos/</guid>
+      <description>Voy a ser mentor de proyectos en Visualizar&#39;15 Datos. Pero aunque no lo fuese, escribiría esta entrada de hoy. Os cuento por qué. Mirad lo que dice la convocatoria:
+¡Dos semanas! Eso da para realizar un trabajo serio y medianamente acabado. Nada de los prototipos con las costuras al aire típicos de hackatón mañanero.
+Siendo mentor, no sé si puedo proponer proyectos. Tengo algunas ideas (p.e., relacionadas con la cartografía española y R; o ideas en la línea de MicroDatosEs), pero estaría bien oír las vuestras.</description>
+    </item>
+    
+    <item>
+      <title>Global Urban Datafest: seré juez pero no parte</title>
+      <link>/2015/03/02/global-urban-datafest-sere-juez-pero-no-parte/</link>
+      <pubDate>Mon, 02 Mar 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/03/02/global-urban-datafest-sere-juez-pero-no-parte/</guid>
+      <description>El fin de semana que viene (seis y siete de marzo) tendrá lugar el Global Urban Datafest en varias ciudades del mundo. Madrid será una de ellas.
+Hay proyectos y equipos participando en ellos. Igual quieres plantear alguno de los primeros o sumarte (o conformar) uno de los segundos. Puedes deambular por las páginas a las que apuntan los enlaces anteriores para averiguar los detalles. De nuevo, una gran oportunidad para aprender cosas nuevas.</description>
+    </item>
+    
+    <item>
+      <title>Hackatón de datos abiertos, 21 de febrero en Madrid</title>
+      <link>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</link>
+      <pubDate>Thu, 29 Jan 2015 07:13:15 +0000</pubDate>
+      
+      <guid>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</guid>
+      <description>El día 21 de febrero (de 2015) tendrá lugar en Medialab-Prado (¿cómo llegar?) un hackatón de datos abiertos patrocinado por Medialab-Prado y Open Knowledge Spain. El resto de la información puede consultarse aquí.
+Dicho lo cual, ¿deberías ir?
+Pues si tienes 45 años, eres profesor de la Autónoma, etc. lo sabes tú mejor que yo.
+Pero si tienes veintitantos, estudias, has comenzado a trabajar recientemente o estás en el paro, si tienes inquietudes (y las tienes si lees esto), si quieres conocer técnicas nuevas, problemas nuevos, contactar con gente interesante, etc.</description>
+    </item>
+    
+    <item>
+      <title>Si participase en MadData...</title>
+      <link>/2014/07/23/si-participase-en-maddata/</link>
+      <pubDate>Wed, 23 Jul 2014 07:13:36 +0000</pubDate>
+      
+      <guid>/2014/07/23/si-participase-en-maddata/</guid>
+      <description>El otro día ayudé a divulgar por aquí MadData, el datatón de datos abiertos del ayuntamiento de Madrid. Algunos me habéis preguntado si participaré. Pero estoy lejos (y, muy, muy ocupado).
+Eso sí, os voy a contar dónde me gustaría meter la cuchara. En datos del ayuntamiento de Madrid, claro. Pero no los abiertos, ni los públicos, ni los conocidos. Sino los otros.
+Os pongo en precedentes. Sabréis —si habéis seguido estas páginas— que soy el copropietario de MartinaCocina, un local que no sé si clasificar como cafetería o restaurante, en el centro de Madrid.</description>
+    </item>
+    
+    <item>
+      <title>MadData: datatón de datos abiertos</title>
+      <link>/2014/07/21/maddata-dataton-de-datos-abiertos/</link>
+      <pubDate>Mon, 21 Jul 2014 07:13:19 +0000</pubDate>
+      
+      <guid>/2014/07/21/maddata-dataton-de-datos-abiertos/</guid>
+      <description>Copio (adaptándolo) de aquí:
+_everis y MadridEmprende organizan el primer Open Datathon de Madrid.
+La competición consiste en crear soluciones innovadoras a partir del uso de datos abiertos. MADdata pondrá a disposición de cada participante datos de la ciudad de Madrid, procedentes del portal de datos abiertos del Ayuntamiento, de servicios públicos, de transporte y movilidad y de redes sociales._
+
+La inscripción está abierta hasta el 25 de julio de 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

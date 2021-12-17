@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vivienda on datanalytics</title>
+    <link>/tags/vivienda/</link>
+    <description>Recent content in vivienda on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 18 Jul 2011 06:59:35 +0000</lastBuildDate><atom:link href="/tags/vivienda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Competición de estadística con R en las III Jornadas de Usuarios de R</title>
+      <link>/2011/07/18/competicion-de-estadistica-con-r-en-las-iii-jornadas-de-usuarios-de-r/</link>
+      <pubDate>Mon, 18 Jul 2011 06:59:35 +0000</pubDate>
+      
+      <guid>/2011/07/18/competicion-de-estadistica-con-r-en-las-iii-jornadas-de-usuarios-de-r/</guid>
+      <description>Como actividad complementaria a las III Jornadas de Usuarios de R, por gentileza de uno de sus patrocinadores, Nestoria y gracias al trabajo de Emilio Torres Manzanera, se ha anunciado hoy el I Concurso de Análisis de Datos con R.
+
+Con 1.500€ en premios y la posibilidad de pasar a colaborar con la plantilla de Nestoria para los autores de las mejores soluciones, el concurso aspira a sondear la habilidad de la comunidad de usuarios de R para analizar datos reales y extraer valor de la base de datos de viviendas y precios de viviendas de Nestoria.</description>
+    </item>
+    
+  </channel>
+</rss>

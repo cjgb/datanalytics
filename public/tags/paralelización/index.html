@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>paralelización - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="paralelización" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/paralelizaci%C3%B3n/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/paralelizaci%C3%B3n/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">paralelización</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/04/r-en-paralelo-pero-ahora-con-futuros/" rel="bookmark">
+			R en paralelo (pero ahora, con futuros)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-04T08:13:59Z">2016-11-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Esta entrada extiende y mejora una homónima de 2014.
+El problema de entonces consistía en calcular por separado y en paralelo objetos A, B y C para combinarlos después. Cuando, por supuesto, el cálculo de A, B y C es pesado.
+El muy reciente paquete future incorpora a R un mecanismo disponible en otros lenguajes de programación: un cierto tipo de datos, los futuros, que contienen promesas de valores que se calculan fuera del hilo principal del programa.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/07/22/estrategias-escalables-con-r-2/" rel="bookmark">
+			Estrategias escalables con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-07-22T08:13:34Z">2015-7-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Recomiendo leer Scalable Strategies for Computing with Massive Data, un artículo que trata dos de los problemas de escalabilidad con que tropezamos los usuarios de R:
+ * Los de memoria, para los que proponen e ilustran el uso del paquete [`bigmemory`](https://cran.r-project.org/web/packages/bigmemory/index.html). * Los de velocidad de ejecución, a los que se enfrentan paralelizando el código, tanto en una única máquina como en un clúster, con [`foreach`](https://cran.r-project.org/web/packages/foreach/index.html).  En el artículo no solo discute los dos paquetes por separado sino que ilustra, además, cómo usarlos conjuntamente en su propuesta de estrategia escalable con R.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/06/15/paralelismo-en-r-memorandum/" rel="bookmark">
+			Paralelismo en R: memo[rándum]
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-06-15T08:13:30Z">2015-6-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Esta es una nota que me dejo a mí mismo sobre paralelización en R para no tener que ir buscándola en otras partes:
+library(&lt;a href=&quot;http://inside-r.org/r-doc/lattice/parallel&quot;&gt;parallel) foo &lt;- function(i){ &lt;a href=&quot;http://inside-r.org/r-doc/base/Sys.sleep&quot;&gt;Sys.sleep(i) } cl &lt;- makeCluster(4) system.time(parSapply(cl, 1:4, foo)) # user system elapsed # 0.025 0.006 4.007 system.time(sapply(1:4, foo)) # user system elapsed # 0.039 0.033 10.001 stopCluster(cl)  
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/12/03/paralelizacion-en-r-con-snow/" rel="bookmark">
+			Paralelización en R con snow
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-12-03T07:13:13Z">2014-12-3</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Suelo trabajar un servidor con ocho CPUs. Cuando quiero paralelizar código en R, suelo utilizar [parallel::mclapply](https://stat.ethz.ch/R-manual/R-devel/library/parallel/html/mclapply.html) (como aquí). Pero no tengo una máquina. Tengo varias. Y antes, de hecho, muchas.
+¿Cómo paralelizar en distintas máquinas?
+Se puede usar Spark (y SparkR), por ejemplo. Pero una ruta que no había ensayado jamás es la de la vieja escuela, i.e., MPI, snow y demás.
+Pero si
+ * tienes varios servidores corriendo un sistema operativo decente, * instalas R y `snow` (y todo lo que necesites) en todos ellos y * configuras los servidores para poder acceder a través de [ssh sin contraseña](http://www.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/07/09/estrategias-escalables-con-r/" rel="bookmark">
+			Estrategias escalables (con R)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-07-09T07:13:41Z">2014-7-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hay quienes preguntan cómo cargar con R un csv de 8GB en un portátil de 4GB de RAM. La verdad, he leído respuestas la mar de extravagantes a este tipo de cuestiones: p.e., recomendar SQLite.
+Yo recomendaría Scalable Strategies for Computing with Massive Data. Entre otras cosas, porque para eso lo escribieron sus autores: para que se lea. Y porque está cargado de razón y buenos consejos.
+Una cosa con la que tropezará enseguida quien lo hojee es:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/06/06/validacion-cruzada-en-paralelo/" rel="bookmark">
+			Validación cruzada en paralelo
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-06-06T07:12:30Z">2014-6-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es así:
+library(&lt;a href=&quot;http://inside-r.org/r-doc/lattice/parallel&quot;&gt;parallel) cl &lt;- makeCluster(8) # solo si hay aleatorización # clusterSetRNGStream(cl, 123) clusterEvalQ(cl, { # las librerías necesarias tienen que cargarse # en cada esclavo library(&lt;a href=&quot;http://inside-r.org/r-doc/rpart/rpart&quot;&gt;rpart) # en la práctica, hay que cargar los datos # (¿desde fichero?) en cada esclavo my.data &lt;- iris # lo mismo con las funciones necesarias foo &lt;- function(x, dat){ train &lt;- 1:nrow(dat) %% 10 !
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/05/15/r-en-paralelo/" rel="bookmark">
+			R en paralelo
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-05-15T07:13:59Z">2014-5-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Trabajo sobre una máquina de 8 núcleos y 24 GB de RAM. Y que conste que se me ha llegado a quedar chica.
+Algunos programas que ejecuto tienen (o contienen pedazos de) la forma
+ 1. calcula A 2. calcula B 3. calcula C 4. combina A, B y C  Obviamente, se me ocurre ejecutarlos así:
+ 1. calcula A, B y C en paralelo 2. cuando acabe el paso anterior, combina A, B y C  Y aún me sobrarían 5 núcleos y bastante RAM.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/" rel="bookmark">
+			Cuatro enlaces sobre R: Excel, C&#43;&#43;, CSV y paralelización
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-03-21T07:44:31Z">2014-3-21</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hoy traigo a mis páginas cuatro enlaces que apuntan a recetarios y tutoriales sobre la solución a cuatro problemas que pueden encontrar los usuarios de R:
+ * [Conectar R y Excel](http://www.thertrader.com/2014/02/11/a-million-ways-to-connect-r-and-excel/) * [Importar grandes ficheros CSV](http://statcompute.wordpress.com/2014/02/11/efficiency-of-importing-large-csv-files-in-r/) (y falta [`LaF`](http://cran.fhcrc.org/web/packages/LaF/index.html)) * [Integrar R con C/C++](http://anythingbutrbitrary.blogspot.ch/2014/02/three-ways-to-call-cc-from-r.html) * [Paralelizar código con `snow`](http://hernanresnizky.com/2014/01/10/quick-guide-to-parallel-r-with-snow/)  ¡Espero que os resulten útiles!
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/03/12/veinte-paquetes-de-r-para-cientificos-de-datos/" rel="bookmark">
+			Veinte paquetes de R para científicos de datos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-03-12T07:11:28Z">2014-3-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me llegó recientemente un artículo con una lista de veinte paquetes de R para data scientists. Y no la encuentro afortunada. Voy a agrupar esos veinte paquetes en algunas categorías y añadiré comentarios. La primera de ellas es la de manipulación de datos, tal vez la más amplia, que recoge los siguientes: sqldf, plyr, stringr (para procesar texto), lubridate (para procesar fechas),reshape2 y los paquetes de acceso a bases de datos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2011/09/30/dont-be-loopy-iii-jackknife-y-paralelismo/" rel="bookmark">
+			Dont be loopy! (III: jackknife y paralelismo)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-09-30T06:52:59Z">2011-9-30</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Esta es la tercera entrega de una serie de artículos en los que comparo SAS y R a la hora de realizar diversos tipos de simulaciones basados en Don&rsquo;t Be Loopy: Re-Sampling and Simulation the SAS® Way.
+Esta vez toca compararlos a la hora de aplicar el método del jackknife.
+Primero, el código SAS que recomienda el autor del artículo, que calcula la curtosis de un conjunto de datos trivial (una muestra de 10k valores que siguen una distribución uniforme):
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2011/04/08/paralelizacion-de-bucles-con-foreach/" rel="bookmark">
+			Paralelización de bucles con foreach
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-04-08T07:26:41Z">2011-4-8</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Parcialmente en agradecimiento a Revolution Analytics por haber concedido una subvención a las III Jornadas de usuarios de R voy a discutir en esta entrada cómo paralelizar bucles usando los paquetes foreach y doMC desarrollados por dicha empresa.
+El paquete foreach contiene, esencialmente, una única función, foreach, que, en su forma más básica, permite ejecutar bucles con una sintaxis un tanto peculiar:
+1  foreach( i = 1:3 ) %do% log( i )   Volveré sobre algunas operaciones interesantes y bastante útiles que permite realizar esta función porque, de todas ellas, hoy me ocuparé sólo de una: la que abre la puerta de una manera sencilla a la paralelización de bucles.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2010/09/01/el-paquete-multicore-de-r/" rel="bookmark">
+			El paquete multicore de R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2010-09-01T22:24:44Z">2010-9-1</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Tengo acceso a una máquina que, aunque anda un poco corta de memoria, cuenta con ocho CPUs. Tenía unas simulaciones bastante pesadas que correr y quise aprovechar su naturaleza perfectamente paralelizable. Y, de paso, hacer con R lo mismo por lo que he visto a un consultor de SAS cobrar a razón de 3.000 dólares diarios.
+En el fondo, es una trivialidad. Supongamos que la función que implementa la simulación se llama foo.
+	</div>
+</article>
+</main>
+
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

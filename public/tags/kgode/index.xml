@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kgode on datanalytics</title>
+    <link>/tags/kgode/</link>
+    <description>Recent content in kgode on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Oct 2017 08:13:52 +0000</lastBuildDate><atom:link href="/tags/kgode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nls con odes</title>
+      <link>/2017/10/30/nls-con-odes/</link>
+      <pubDate>Mon, 30 Oct 2017 08:13:52 +0000</pubDate>
+      
+      <guid>/2017/10/30/nls-con-odes/</guid>
+      <description>Más sobre secuencia de entradas acerca de ajustes no lineales. Con (casi) los mismos datos que entonces:
+set.seed(155) n &amp;lt;- 100 a &amp;lt;- 1 b &amp;lt;- -1/2 sigma &amp;lt;- 0.1 x &amp;lt;- runif(n, -1, 1) y &amp;lt;- exp(a * x + b) + rnorm(n, 0, sigma) dat &amp;lt;- data.frame(x, y)  Las y proceden de las x a través de una función no lineal exp(a * x + b). Que hoy supondremos desconocida.</description>
+    </item>
+    
+  </channel>
+</rss>

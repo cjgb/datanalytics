@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>El lucero del alba - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="El lucero del alba" />
+<meta property="og:description" content="Puede que algunos de mis lectores sepan que el lucero del alba es el nombre con que se conoce al planeta Venus cuando es visible en el cielo al amanecer.
+En contextos menos poéticos se conoce por tal nombre a esto:
+
+Es decir, una determinada configuración de los precios de apertura y cierre de tres días de cotización (bursátil, por ejemplo) de forma que:
+ El primer día hay una bajada El tercer día hay una subida Los precios de apertura y cierre del segundo día son inferiores a los del cierre del primero y apertura del segundo." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2011/12/27/el-lucero-del-alba/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-12-27T06:39:02&#43;00:00" />
+<meta property="article:modified_time" content="2011-12-27T06:39:02&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">El lucero del alba</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-12-27T06:39:02Z">2011-12-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/finanzas/" rel="category">finanzas</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Puede que algunos de mis lectores sepan que el <a href="http://es.wikipedia.org/wiki/Lucero_del_alba">lucero del alba</a> es el nombre con que se conoce al planeta Venus cuando es visible en el cielo al amanecer.</p>
+<p>En contextos menos poéticos se conoce por tal nombre a esto:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2011/12/cierre2012.png"><img src="http://www.datanalytics.com/wp-uploads/2011/12/cierre2012.png" alt="">
+</a></p>
+<p>Es decir, una determinada configuración de los precios de apertura y cierre de tres días de cotización (bursátil, por ejemplo) de forma que:</p>
+<ul>
+<li>El primer día hay una bajada</li>
+<li>El tercer día hay una subida</li>
+<li>Los precios de apertura y cierre del segundo día son inferiores a los del cierre del primero y apertura del segundo.</li>
+</ul>
+<p>Se ve que eso es cosa <em>güena.</em> De El Economista <a href="http://www.eleconomista.es/mercados-cotizaciones/noticias/3616786/12/11/El-Ibex-35-cede-terreno-pero-mantiene-los-8200-puntos-.html">extraigo</a> el siguiente párrafo atribuido a un tal Joan Cabrero:</p>
+<blockquote>
+<p>Después del fallido intento que protagonizaron los alcistas ayer, hoy la presión compradora sí ha conseguido dominar la sesión de principio a fin, y mucho tendrían que cambiar las cosas para que al cierre de Wall Street los futuros europeos no consigan desplegar un patrón triple de velas que es conocido en el argot técnico oriental como lucero del alba y que sería otro elemento más que apoyaría el giro alcista señalado</p>
+</blockquote>
+<p>Efectivamente, un <a href="http://www.hablandodebolsa.com/2009/05/morning-star-lucero-del-alba-o-estrella-de-la-manana-y-morning-doji-star.html">lucero del alba</a> parece ser indicio de subidas bursátiles.</p>
+<p>Y uno se pregunta: ¿en serio? Y si es verdad, ¿por qué? Y como ya somos mayorcitos para no creer todo lo que se nos cuenta, vamos a Yahoo Finance y bajamos las <a href="http://finance.yahoo.com/q/hp?s=TEF.MC&amp;a=00&amp;b=3&amp;c=1990&amp;d=11&amp;e=20&amp;f=2011&amp;g=d">cotizaciones históricas de Telefónica</a> (desde el 2000), por ejemplo, y ejecutamos lo siguiente:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">17
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">18
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">19
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">20
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">21
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">22
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">23
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">24
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">25
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">26
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">27
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">tef <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">read.table</span>( <span style="color:#e6db74">&#34;table_tef.csv&#34;</span>, sep <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;,&#34;</span>, header <span style="color:#f92672">=</span> T )
+tef <span style="color:#f92672">&lt;-</span> tef[ <span style="color:#a6e22e">order</span>( tef<span style="color:#f92672">$</span>Date ), ]
+
+morning.star <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( block ){
+
+	<span style="color:#a6e22e">if</span>( <span style="color:#a6e22e">nrow</span>( block ) <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">23</span> ) <span style="color:#a6e22e">return</span>( <span style="color:#66d9ef">NULL</span> )
+
+	apertura <span style="color:#f92672">&lt;-</span> block<span style="color:#f92672">$</span>Open
+	cierre   <span style="color:#f92672">&lt;-</span> block<span style="color:#f92672">$</span>Close
+
+	<span style="color:#a6e22e">if</span>( <span style="color:#f92672">!</span>(
+		apertura[1] <span style="color:#f92672">&gt;</span> cierre[1] <span style="color:#f92672">&amp;</span>
+		apertura[3] <span style="color:#f92672">&lt;</span> cierre[3] <span style="color:#f92672">&amp;</span>
+		<span style="color:#a6e22e">max</span>( apertura[2], cierre[2] )
+			<span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">min</span>( apertura[3], cierre[1] )
+		)
+	) <span style="color:#a6e22e">return</span>( <span style="color:#a6e22e">c</span>( <span style="color:#ae81ff">0</span>, <span style="color:#a6e22e">rep</span>( <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">20</span> ) ) )
+
+	else <span style="color:#a6e22e">return</span>( <span style="color:#a6e22e">c</span>( <span style="color:#ae81ff">1</span>, ( cierre[4<span style="color:#f92672">:</span><span style="color:#ae81ff">23</span>] <span style="color:#f92672">-</span> cierre[3] ) <span style="color:#f92672">/</span> cierre[3] ) )
+}
+
+tmp     <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">sapply</span>( <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#a6e22e">nrow</span>( tef ),
+		<span style="color:#a6e22e">function</span>( i )
+			<span style="color:#a6e22e">morning.star</span>( tef[ i<span style="color:#f92672">:</span><span style="color:#a6e22e">nrow</span>( tef ), ] ) )
+
+res.all <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">do.call</span>( rbind, tmp )
+res.ms  <span style="color:#f92672">&lt;-</span> res.all[ res.all[,<span style="color:#ae81ff">1</span>] <span style="color:#f92672">==</span> <span style="color:#ae81ff">1</span>, ]</code></pre></td></tr></table>
+</div>
+</div>
+<p>El resultado muestra cómo en los 10 últimos años ha habido 48 luceros del alba. ¿Y qué pasó un mes después? Lo indica el histograma siguiente:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2011/12/lucero_del_alba.png"><img src="http://www.datanalytics.com/wp-uploads/2011/12/lucero_del_alba.png" alt="">
+</a></p>
+<p>Y en 20 años de cotización del IBEX 35, ¿cuáles serían los resultados? Helos:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">ibex    <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">read.table</span>( <span style="color:#e6db74">&#34;table_ibex.csv&#34;</span>, sep <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;,&#34;</span>, header <span style="color:#f92672">=</span> T )
+ibex    <span style="color:#f92672">&lt;-</span> ibex[ <span style="color:#a6e22e">order</span>( ibex<span style="color:#f92672">$</span>Date ), ]
+tmp     <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">sapply</span>( <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#a6e22e">nrow</span>( ibex ),
+					<span style="color:#a6e22e">function</span>( i ) <span style="color:#a6e22e">morning.star</span>( ibex[ i<span style="color:#f92672">:</span><span style="color:#a6e22e">nrow</span>( ibex ), ] ) )
+res.all <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">do.call</span>( rbind, tmp )
+res.ms  <span style="color:#f92672">&lt;-</span> res.all[ res.all[,<span style="color:#ae81ff">1</span>] <span style="color:#f92672">==</span> <span style="color:#ae81ff">1</span>, ]</code></pre></td></tr></table>
+</div>
+</div>
+<p>Y al cabo de un mes de los 78 luceriles prodigios ocurridos desde el 92, la rentabilidad acumulada por el IBEX 35 fue la indicada en el siguiente histograma:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2011/12/lucero_alba_ibex.png"><img src="http://www.datanalytics.com/wp-uploads/2011/12/lucero_alba_ibex.png" alt="">
+</a></p>
+<p>Ah, Joan, Joan, ¿cuánto te pagarán por no decir nada (útil)?</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/anumerismo/" rel="tag">anumerismo</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/bolsa/" rel="tag">bolsa</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/finanzas/" rel="tag">finanzas</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2011/12/26/ibm-sobre-excel-como-herramienta-estadistica/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">IBM sobre Excel como herramienta estadística</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2011/12/28/es-rentable-invertir-en-bolsa-en-el-largo-plazo/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">¿Es rentable invertir en bolsa en el largo plazo?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inflación on datanalytics</title>
+    <link>/tags/inflaci%C3%B3n/</link>
+    <description>Recent content in inflación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 24 Nov 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/inflaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medias ponderadas a lo Uluru</title>
+      <link>/2021/11/24/medias-ponderadas-a-lo-uluru/</link>
+      <pubDate>Wed, 24 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/11/24/medias-ponderadas-a-lo-uluru/</guid>
+      <description>Dicen que el brote de inflación que estamos viviendo es atípico (y según algunos, menos preocupante) porque no está generalizada sino concentrada en un número pequeño de productos.
+Trae The Economist en su número del 6 de noviembre (de 2021) un artículo al respecto que tiene cierto interés estadístico. Comienza comparando la inflación de ahora con la de otros años donde el incremento de los precios fue, de acuerdo con cómo se computa tradicionalmente la inflación, igual, a través de la distribución de los incrementos de precios sobre las distintas categorías:</description>
+    </item>
+    
+    <item>
+      <title>Modelos de conteos con sobredispersión (con Stan)</title>
+      <link>/2019/01/08/modelos-de-conteos-con-sobredispersion-con-stan/</link>
+      <pubDate>Tue, 08 Jan 2019 08:13:00 +0000</pubDate>
+      
+      <guid>/2019/01/08/modelos-de-conteos-con-sobredispersion-con-stan/</guid>
+      <description>Esta entrada muestra cómo afrontar (con Stan) un problema que encontré el otro día en un lugar que no puedo mencionar pero en el que sé que me leen (y los destinatarios sabrán que va por ellos).
+El contexto es el siguiente: se hace un test A/B donde la variable de interés son unos conteos. Hay varios grupos (aquí los reduciré a dos) y los datos siguen aproximadamente (aquí omitiré la parte de la inflación de ceros) una distribución de Poisson.</description>
+    </item>
+    
+    <item>
+      <title>Modelos con inflación de ceros y separación perfecta</title>
+      <link>/2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/</link>
+      <pubDate>Wed, 11 Apr 2018 08:13:13 +0000</pubDate>
+      
+      <guid>/2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/</guid>
+      <description>Al estudiar problemas de conteos, la llamada inflación de ceros ocurre frecuentemente: los datos contienen más ceros de los que ocurrirían según las distribuciones habituales (Poisson, binomial negativa). Un modelo con inflación de ceros es una mezcla (mixtura) de un modelo de conteos y una distribución de Dirac (en cero).
+Las técnicas habituales para resolverlos involucran (explícita o implícitamente) una estructura jerárquica de modelos: primero, uno (similar a una logística), separa las observaciones que corresponderían a la Dirac del resto.</description>
+    </item>
+    
+    <item>
+      <title>Predictores con varianza casi nula, inflación, loterías y línea de comandos</title>
+      <link>/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/</link>
+      <pubDate>Fri, 28 Mar 2014 07:08:40 +0000</pubDate>
+      
+      <guid>/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/</guid>
+      <description>Hoy viernes vuelvo a traer a mis páginas cuatro enlaces interesantes. El primero de ellos es como las malas películas: un arranque espléndido, un planteamiento prometedor y, al final, humo. Pero no trata de chico-conoce-chica sino de qué hacer con esas variables que tienen una varianza casi nula (a la hora de crear modelos estadísticos, se entiende). Me llegó tan oportunamente que pensé que alguien que vela por mí desde lo alto me lo enviaba para sacarme de mi semanal atolladero.</description>
+    </item>
+    
+    <item>
+      <title>Estadísticas oficiales alternativas</title>
+      <link>/2013/02/25/estadisticas-oficiales-alternativas/</link>
+      <pubDate>Mon, 25 Feb 2013 07:26:34 +0000</pubDate>
+      
+      <guid>/2013/02/25/estadisticas-oficiales-alternativas/</guid>
+      <description>Me reconozco entusiasta de la heterodoxia. Allá donde hay comunión de pensamiento, siento la necesidad imperativa de abrir las ventanas y orear el ambiente. Y en pocos ámbitos la hay menos que en el de las estadísticas oficiales, que se toman como trasunto mismo de la realidad que aspiran a medir.
+Por eso traigo a estas páginas la mención a Shadow Government Statistics, un portal que proporciona medidas alternativas de las principales magnitudes macroeconómicas (de los EE.</description>
+    </item>
+    
+    <item>
+      <title>El índice de inflación sostenible (que no existe)</title>
+      <link>/2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/</link>
+      <pubDate>Tue, 12 Oct 2010 18:35:17 +0000</pubDate>
+      
+      <guid>/2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/</guid>
+      <description>La estadística oficial (tal como la entienden el INE y organismos similares) ejercen un, así lo llamamos los pedantes, pernicioso efecto reificador. Me explico: todos tenemos una idea intuitiva sobre lo que significa la inflación, la tasa de desempleo o el producto nacional bruto. Pero la inflación, la tasa de desempleo o el producto nacional bruto son —en realidad y para todos los efectos— lo que nos dice el INE que son: unos números que publican días, semanas o incluso años después de ocurrido el hecho medible.</description>
+    </item>
+    
+  </channel>
+</rss>

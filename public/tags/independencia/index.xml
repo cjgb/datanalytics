@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>independencia on datanalytics</title>
+    <link>/tags/independencia/</link>
+    <description>Recent content in independencia on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Feb 2017 08:13:13 +0000</lastBuildDate><atom:link href="/tags/independencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La inesperada correlación de los ratios</title>
+      <link>/2017/02/09/la-inesperada-correlacion-de-los-ratios/</link>
+      <pubDate>Thu, 09 Feb 2017 08:13:13 +0000</pubDate>
+      
+      <guid>/2017/02/09/la-inesperada-correlacion-de-los-ratios/</guid>
+      <description>Tomemos dos variables aleatorias independientes y positivas,
+set.seed(123) n &amp;lt;- 100 x &amp;lt;- runif(n) + 0.5 y &amp;lt;- runif(n) + 0.5  No tengo ni que decir que su correlación es prácticamente cero,
+cor(x,y) #-0.0872707  y que en su diagrama de dispersión tampoco vamos a poder leer otra cosa:
+Ahora generamos otra variable independiente de las anteriores,
+z &amp;lt;- runif(n) + 0.5  y calculamos el cociente de las primeras con respecto a esta:</description>
+    </item>
+    
+  </channel>
+</rss>

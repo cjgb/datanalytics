@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>student on datanalytics</title>
+    <link>/tags/student/</link>
+    <description>Recent content in student on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 14 Mar 2019 08:13:28 +0000</lastBuildDate><atom:link href="/tags/student/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lo que las diferencias de medias evocan</title>
+      <link>/2019/03/14/lo-que-las-diferencias-de-medias-evocan/</link>
+      <pubDate>Thu, 14 Mar 2019 08:13:28 +0000</pubDate>
+      
+      <guid>/2019/03/14/lo-que-las-diferencias-de-medias-evocan/</guid>
+      <description>Si a uno le dicen que la diferencia de medias de determinado atributo entre sujetos de tipo A y sujetos de tipo B es 5, uno tiende a pensar (o, más bien, tengo esa sensación) que la diferencia de dicho atributo entre un representante al azar de A y uno al azar de B será alrededor de 5. Igual porque nos han educado mostrándonos imágenes no muy distintas de
+Lo cual tiene cierto sentido cuando A y B tienen poblaciones homogéneas.</description>
+    </item>
+    
+    <item>
+      <title>Diferencia de medias a la bayesiana con salsa de stan</title>
+      <link>/2015/06/25/diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan/</link>
+      <pubDate>Thu, 25 Jun 2015 08:13:35 +0000</pubDate>
+      
+      <guid>/2015/06/25/diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan/</guid>
+      <description>El habitual problema de la diferencia de medias suele formularse de la siguiente manera: hay observaciones $latex y_{1i}$ e $latex y_{2i}$ donde
+$latex y_{ji} \sim N(\mu_j, \sigma)$
+e interesa saber si $latex \mu_1 = \mu_2$. Obviamente, se desconoce $latex \sigma$. De cómo resolvió Gosset el problema están los libros de estadística llenos. En R,
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) N1 &amp;lt;- 50 N2 &amp;lt;- 50 mu1 &amp;lt;- 1 mu2 &amp;lt;- -0.5 sig1 &amp;lt;- 1 sig2 &amp;lt;- 1 y1 &amp;lt;- rnorm(N1, mu1, sig1) y2 &amp;lt;- rnorm(N2, mu2, sig2) &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>A vueltas con el t-test</title>
+      <link>/2014/06/10/a-vueltas-con-el-t-test/</link>
+      <pubDate>Tue, 10 Jun 2014 07:28:17 +0000</pubDate>
+      
+      <guid>/2014/06/10/a-vueltas-con-el-t-test/</guid>
+      <description>Me gustaría no tener que hacer más t-tests en la vida, pero no va a ser el caso.
+El problema al que me refiero le surgió a alguien en una galaxia lejana y, de alguna manera, me salpicó y me involucró. Es, simplificándolo mucho, el siguiente.
+Tiene una muestra $latex X = x_1, \dots, x_n$ y quiere ver si la media es o no cero. ¿Solución de libro? El t-test. Pero le salen cosas raras e inesperadas.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rapidminer on datanalytics</title>
+    <link>/tags/rapidminer/</link>
+    <description>Recent content in rapidminer on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 30 Jan 2013 07:19:05 +0000</lastBuildDate><atom:link href="/tags/rapidminer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutoriales de RapidMiner en Youtube</title>
+      <link>/2013/01/30/tutoriales-de-rapidminer-en-youtube/</link>
+      <pubDate>Wed, 30 Jan 2013 07:19:05 +0000</pubDate>
+      
+      <guid>/2013/01/30/tutoriales-de-rapidminer-en-youtube/</guid>
+      <description>RapidMiner ha colgado en Youtube tres vídeos que componen un tutorial rápido que cubre la instalación y los primeros pasos de su producto:
+
+ * El primero muestra el proceso de [instalación de Rapidminer](http://www.youtube.com/watch?v=FtBvxWI9QsA). * El segundo, muestra [cómo construir algunos modelos sencillos con RapidMiner](http://www.youtube.com/watch?v=h20-Ae_xQkA). * El tercero, sobre cómo [instalar extensiones en RapidMiner](http://www.youtube.com/watch?v=j8FUXK2JJus).  </description>
+    </item>
+    
+    <item>
+      <title>Tutorial: instalación de la extensión de R para RapidMiner</title>
+      <link>/2010/10/22/tutorial-instalacion-de-la-extension-de-r-para-rapidminer/</link>
+      <pubDate>Fri, 22 Oct 2010 22:59:24 +0000</pubDate>
+      
+      <guid>/2010/10/22/tutorial-instalacion-de-la-extension-de-r-para-rapidminer/</guid>
+      <description>Por popular demanda, voy a explorar cómo de dificultoso es instalar el puente entre R y RapidMiner en Windows y a dejar escrito cómo se hace. Lo instalé hace días en Linux (Ubuntu) sin mayor problema. Pero hay quien parece que haberlos tenido en la ubicua plataforma.
+No sé mucho de Windows y las diferentes versiones y configuraciones que pueda tener. Sólo sé que que he probado los pasos de este tutorial sobre un Windows 7 Profesional (creo) de 32 bits.</description>
+    </item>
+    
+    <item>
+      <title>Liberado KNIME 2.2.2</title>
+      <link>/2010/09/30/liberado-knime-2-2-2/</link>
+      <pubDate>Thu, 30 Sep 2010 22:12:11 +0000</pubDate>
+      
+      <guid>/2010/09/30/liberado-knime-2-2-2/</guid>
+      <description>Ha sido liberada la versión 2.2.2 de KNIME. De esta plataforma de minería de datos hablé hace un año en las I Jornadas de R en Murcia (puede verse aquí el vídeo de la conferencia). Me interesó mucho desde un principio porque fue de las pioneras en ofrecer una integración con R y porque permitía desarrollar de una manera sencilla módulos adicionales.
+Es de esperar que R, KNIME, Rapidminer (del que también he hablado recientemente) y otras iniciativas emergentes se conviertan en una realidad cotidiana en el mundo de la empresa.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre la integración de R y RapidMiner</title>
+      <link>/2010/09/08/mas-sobre-la-integracion-de-r-y-rapidminer/</link>
+      <pubDate>Wed, 08 Sep 2010 19:32:42 +0000</pubDate>
+      
+      <guid>/2010/09/08/mas-sobre-la-integracion-de-r-y-rapidminer/</guid>
+      <description>Si el otro día anuncié la próximaintegración de RapidMiner con R, hoy quiero dar a conocer un vídeo en la que se ilustra:
+  Tiene buena pinta, la verdad.</description>
+    </item>
+    
+    <item>
+      <title>Anuncio de la integración de Rapidminer y R</title>
+      <link>/2010/08/31/anuncio-de-la-integracion-de-rapidminer-y-r/</link>
+      <pubDate>Tue, 31 Aug 2010 20:39:51 +0000</pubDate>
+      
+      <guid>/2010/08/31/anuncio-de-la-integracion-de-rapidminer-y-r/</guid>
+      <description>RapidMiner es, posiblemente, la plataforma de minería de datos libre que mejor reputación goza. Hasta la publicación de la versión 5 le veía un pequeño problema: tenía una interfaz bastante poco intuitiva.
+Hasta hace pocos días le veía otro: no podía extenderse —al menos de una manera obvia— programando en Java o, preferiblemente, R. Sin embargo, el módulo de integración de R con Rapidminer ya está listo y su lanzamiento va a ser el plato fuerte de RCOMM 2010, la conferencia de usuarios de Rapidminer (oficialmente, RapidMiner Community Meeting And Conference).</description>
+    </item>
+    
+  </channel>
+</rss>

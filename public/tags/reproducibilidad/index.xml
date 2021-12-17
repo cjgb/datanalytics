@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reproducibilidad on datanalytics</title>
+    <link>/tags/reproducibilidad/</link>
+    <description>Recent content in reproducibilidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 30 Sep 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/reproducibilidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una guía (breve, concisa) para crear código (y proyectos) reproducibles</title>
+      <link>/2020/09/30/una-guia-breve-concisa-para-crear-codigo-y-proyectos-reproducibles/</link>
+      <pubDate>Wed, 30 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/30/una-guia-breve-concisa-para-crear-codigo-y-proyectos-reproducibles/</guid>
+      <description>Está aquí y creo que no se le puede quitar ni poner una coma. Es particularmente oportuna porque trata todas esas cosas que nunca se enseñan y que la mucha gente, en el peor de los casos, malaprende.</description>
+    </item>
+    
+    <item>
+      <title>p-valores y el perro que no ladró</title>
+      <link>/2018/12/20/p-valores-y-el-perro-que-no-ladro/</link>
+      <pubDate>Thu, 20 Dec 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/12/20/p-valores-y-el-perro-que-no-ladro/</guid>
+      <description>Tengo un montón de artículos por ahí guardados que fueron escritos a raíz de la publicación de The ASA&amp;rsquo;s Statement on p-Values: Context, Process, and Purpose, ya en 2016, que ponía en cuestión el uso indiscriminado y acrítico de los p-valores. Algunos de ellos son este, este, este o este.
+Asunto que se refiere a y abunda en todo lo que se ha escrito sobre la llamada crisis de replicabilidad, sobre la que también se ha escrito largamente.</description>
+    </item>
+    
+    <item>
+      <title>Replicabilidad (y su falta de ella, fuera de la academia)</title>
+      <link>/2018/06/21/replicabilidad-y-su-falta-de-ella-fuera-de-la-academia/</link>
+      <pubDate>Thu, 21 Jun 2018 08:13:56 +0000</pubDate>
+      
+      <guid>/2018/06/21/replicabilidad-y-su-falta-de-ella-fuera-de-la-academia/</guid>
+      <description>Se habla mucho de replicabilidad (y la falta de ella) como indicio de una crisis en ese complejo de intereses económicos, de poder y, en ocasiones, fornicatorios en que ha devenido la ciencia. Pero qué más nos da que se publique un artículo más o un artículo menos o que una ocurrencia irrelevante, gracias a un sinfín de artefactos propios de la industria de la salchicha, sea cohonestada con un p-valor menor o mayor que 0.</description>
+    </item>
+    
+    <item>
+      <title>Es imposible enseñar nada a alguien cuyo sueldo depende de no aprender</title>
+      <link>/2017/01/13/es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender/</link>
+      <pubDate>Fri, 13 Jan 2017 08:13:07 +0000</pubDate>
+      
+      <guid>/2017/01/13/es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender/</guid>
+      <description>O algo así reza una cita que no ubico. Viene a cuento de un artículo que se acaba de publicar en Nature, A manifesto for reproducible science, que se resume así:
+ * Los científicos son gente extraordinaria que persigue honrada y abnegadamente el ensanchamiento del saber humano. * No obstante, están produciendo [toneladas de mierda](https://en.wikipedia.org/wiki/Replication_crisis). * Pero no lo hacen consciente o malintencionadamente; [lo hacen porque no saben](https://es.wikipedia.org/wiki/Intelectualismo_socr%C3%A1tico). * Si se equivocan, además, es por culpa de la sociedad, que [los incentiva torcidamente](https://en.</description>
+    </item>
+    
+    <item>
+      <title>Por qué no deberías compartir tu código: diez motivos</title>
+      <link>/2013/04/30/por-que-no-deberias-compartir-tu-codigo-diez-motivos/</link>
+      <pubDate>Tue, 30 Apr 2013 07:47:28 +0000</pubDate>
+      
+      <guid>/2013/04/30/por-que-no-deberias-compartir-tu-codigo-diez-motivos/</guid>
+      <description>Fresco aún en nuestro recuerdo el fiasco de Excel del que nos ocupamos hace unos días, los partidarios de la reproducibilidad, el software subversivo y gratuito, los detractores de las herramientas propietarias y otras estirpes han agudizado su campaña en pro de lo que denominan una mayor transparencia en el proceso de creación científica.
+Como contrapeso a tanto despropósito, traigo a la consideración de mis lectores una visión alternativa que desnuda los desatinos de la caterva y recoge diez motivos incontestables por los que compartir código es una sinrazón.</description>
+    </item>
+    
+    <item>
+      <title>Sweave, investigación reproducible... y más</title>
+      <link>/2011/06/23/sweave-investigacion-reproducible-y-mas/</link>
+      <pubDate>Thu, 23 Jun 2011 07:08:45 +0000</pubDate>
+      
+      <guid>/2011/06/23/sweave-investigacion-reproducible-y-mas/</guid>
+      <description>Me consta que algunos de mis lectores están al tanto de eso que llaman investigación reproducible. De acuerdo con la Wikipedia (en inglés),
+ [E]l término investigación reproducible se atribuye a Jon Claerbout, de la Universidad de Stanford y se refiere a la idea de que el producto final de la investigación no debería circunscribirse a un artículo sino comprender también el entorno computacional completo usado en la generación los resultados que contiene, tales como el código, los datos, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

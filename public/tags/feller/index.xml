@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feller on datanalytics</title>
+    <link>/tags/feller/</link>
+    <description>Recent content in feller on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 22 Aug 2011 07:55:14 +0000</lastBuildDate><atom:link href="/tags/feller/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Si Feller levantase la cabeza...</title>
+      <link>/2011/08/22/si-feller-levantase-la-cabeza/</link>
+      <pubDate>Mon, 22 Aug 2011 07:55:14 +0000</pubDate>
+      
+      <guid>/2011/08/22/si-feller-levantase-la-cabeza/</guid>
+      <description>Tengo un amigo físico que trabaja supervisando el funcionamiento una máquina de radioterapia. Se dedica, esencialmente, a achicharrar células cancerígenas con chorros de radioactividad. Me contaba recientemente cómo hay pacientes que responden positivamente y cómo con otros con un perfil similar, aun sometidos a dosis de radioactividad muy superiores, no hay forma humana de hacer que el tumor remita. Éste y muchos otros casos análogos hacen pensar a la comunidad médica que no hay enfermedades sino enfermos y que los remedios que bien valen para uno, pueden no valer para otro.</description>
+    </item>
+    
+  </channel>
+</rss>

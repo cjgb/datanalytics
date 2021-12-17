@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embeddings on datanalytics</title>
+    <link>/tags/embeddings/</link>
+    <description>Recent content in embeddings on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 15 Oct 2018 08:13:11 +0000</lastBuildDate><atom:link href="/tags/embeddings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dos ejercicios (propuestos) sobre &#34;embeddings&#34;</title>
+      <link>/2018/10/15/dos-ejercicios-propuestos-sobre-embeddings/</link>
+      <pubDate>Mon, 15 Oct 2018 08:13:11 +0000</pubDate>
+      
+      <guid>/2018/10/15/dos-ejercicios-propuestos-sobre-embeddings/</guid>
+      <description>Se me han ocurrido en los dos últimos días un par de ejercicios sobre embeddings que no voy a hacer. Pero tal vez alguien con una agenda más despejada que la mía se anime. Uno es más bien tonto; el otro es más serio.
+El primero consiste en tomar las provincias, los códigos postales o las secciones censales y crear textos que sean, para cada una de ellas, las colindantes. Luego, construir un embedding de dimensión 2.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Embeddings&#34; y análisis del carrito de la compra</title>
+      <link>/2018/10/04/embeddings-y-analisis-del-carrito-de-la-compra/</link>
+      <pubDate>Thu, 04 Oct 2018 08:13:34 +0000</pubDate>
+      
+      <guid>/2018/10/04/embeddings-y-analisis-del-carrito-de-la-compra/</guid>
+      <description>Escribiendo la entrada del otro día sobre embeddings, no se me pasó por alto que la fórmula
+$latex \frac{P(W_i,C_i)}{P(W_i)P(C_i)}$
+que escribí en ella es análoga al llamado lift (¿es el lift?) del llamado análisis del carrito de la compra, i.e., el estudio de productos que tienden a comprarse juntos (véase, por ejemplo, esto).
+Lo cual me lleva a sugerir mas no escribir una entrada en la que se rehagan este tipo de análisis usando embeddings: los ítems como palabras, los carritos como textos, etc.</description>
+    </item>
+    
+    <item>
+      <title>¿De qué matriz son los &#34;embeddings&#34; una factorización?</title>
+      <link>/2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/</link>
+      <pubDate>Wed, 03 Oct 2018 08:13:49 +0000</pubDate>
+      
+      <guid>/2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/</guid>
+      <description>Hoy, embeddings. Esto va de reducir la dimensionalidad de un espacio generado por palabras (procedentes de textos). Si a cada palabra le asignamos un vector índice (todo ceros y un uno donde le corresponde), la dimensión del espacio de palabras es excesiva.
+La ocurrencia de algunos es asociar a cada palabra, $latex W_i$, un vector $latex w_i$ corto (p.e., 100) con entradas $latex w_{ij}$ a determinar de la manera que se explica a continuación.</description>
+    </item>
+    
+  </channel>
+</rss>

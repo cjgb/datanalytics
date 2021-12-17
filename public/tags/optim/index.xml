@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optim on datanalytics</title>
+    <link>/tags/optim/</link>
+    <description>Recent content in optim on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 27 May 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/optim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por qué el optimizador de una red neuronal no se va al carajo (como suelen L-BFGS-B y similares)?</title>
+      <link>/2020/05/27/por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares/</link>
+      <pubDate>Wed, 27 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/27/por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares/</guid>
+      <description>Vale, admito que no funciona siempre. Pero una manera de distinguir a un matemático de un ingeniero es por una casi imperceptible pausa que los primeros realizan antes de pronunciar optimización. Un matemático nunca conjuga el verbo optimizar en vano.
+[Una vez, hace tiempo, movido por una mezcla de paternalismo y maldad, delegué un subproblema que incluía el fatídico optim de R en una ingeniera. Aún le debe doler el asunto.</description>
+    </item>
+    
+    <item>
+      <title>To IRLS or not to IRLS</title>
+      <link>/2020/02/24/to-irls-or-not-to-irls/</link>
+      <pubDate>Mon, 24 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/to-irls-or-not-to-irls/</guid>
+      <description>A veces tomas un artículo de vaya uno a saber qué disciplina, sismología, p.e., y no dejas de pensar: los métodos estadísticos que usa esta gente son de hace 50 años. Luego cabe preguntarse: ¿pasará lo mismo en estadística con respecto a otras disciplinas?
+Por razones que no vienen al caso, me he visto en la tesitura de tener que encontrar mínimos de funciones que podrían cuasicatalogarse como de mínimos cuadrados no lineales.</description>
+    </item>
+    
+    <item>
+      <title>Un tutorial interactivo sobre optimización numérica</title>
+      <link>/2016/12/05/un-tutorial-interactivo-sobre-optimizacion-numerica/</link>
+      <pubDate>Mon, 05 Dec 2016 08:13:53 +0000</pubDate>
+      
+      <guid>/2016/12/05/un-tutorial-interactivo-sobre-optimizacion-numerica/</guid>
+      <description>Alguien que igual no me lee (porque está de vacaciones) está aprendiendo a punta de palo a manejar la función optim de R con una función objetivo de las enrevesadas. Creo que ahora entiende por qué a los matemáticos nos sobrecoge la palabra optimizar y tratamos de no mencionarla en vano.
+Por eso, además, y aunque no estilo envolver meros enlaces de terceros en entradas hechas y derechas, voy a hacer una excepción con An Interactive Tutorial on Numerical Optimization, que no tiene desperdicio.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terremotos on datanalytics</title>
+    <link>/tags/terremotos/</link>
+    <description>Recent content in terremotos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 30 Aug 2016 08:13:54 +0000</lastBuildDate><atom:link href="/tags/terremotos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terremotos, consecuencias y lecciones</title>
+      <link>/2016/08/30/terremotos-consecuencias-y-lecciones/</link>
+      <pubDate>Tue, 30 Aug 2016 08:13:54 +0000</pubDate>
+      
+      <guid>/2016/08/30/terremotos-consecuencias-y-lecciones/</guid>
+      <description>En 2009 hubo un terremoto en l&amp;rsquo;Aquila, Italia, que dejó 308 muertos, etc.
+¿Qué medidas se tomaron? Italia, en eso, se parece a España: buscar culpables. Los sismólogos que asesoraron a la administración y evaluaron los riesgos de que se produjese un terremoto importante, acabaron en la cárcel (aunque luego salieron).
+Mientras tanto, la casa sin barrer.
+(Y de regalo, ¿por qué es tan difícil predecir terremotos?).</description>
+    </item>
+    
+    <item>
+      <title>Mapa de los terremotos en la península ibérica</title>
+      <link>/2013/04/08/mapa-de-los-terremotos-en-la-peninsula-iberica/</link>
+      <pubDate>Mon, 08 Apr 2013 07:27:21 +0000</pubDate>
+      
+      <guid>/2013/04/08/mapa-de-los-terremotos-en-la-peninsula-iberica/</guid>
+      <description>Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese tantos terremotos (aunque mis amigos chilenos los llamarían de otra manera).
+En esta entrada voy a mostrar el siguiente mapa de actividad sísmica durante los últimos años,
+
+que he construido con el siguiente código en R:
+library(ggmap) url &amp;lt;- &amp;quot;http://comcat.cr.usgs.gov/earthquakes/feed/search.php?maxEventLatitude=45&amp;amp;minEventLatitude=35&amp;amp;minEventLongitude=-10&amp;amp;maxEventLongitude=5&amp;amp;minEventTime=953683200000&amp;amp;maxEventTime=1364688000000&amp;amp;minEventMagnitude=-1.0&amp;amp;maxEventMagnitude=10&amp;amp;minEventDepth=0.0&amp;amp;maxEventDepth=800.0&amp;amp;format=csv&amp;quot; terremotos &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/read.csv&amp;quot;&amp;gt;read.csv(url) # obtengo un mapa pen.iber &amp;lt;- get_map( location = c(-9.5, 36, 3.5, 44), color = &amp;quot;color&amp;quot;, maptype = &amp;quot;roadmap&amp;quot;) # le añado puntos ggmap(pen.</description>
+    </item>
+    
+  </channel>
+</rss>

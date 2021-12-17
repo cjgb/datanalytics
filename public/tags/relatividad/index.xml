@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>relatividad on datanalytics</title>
+    <link>/tags/relatividad/</link>
+    <description>Recent content in relatividad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 Jan 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/relatividad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la relación entre la teoría de la relatividad y la regresión logística</title>
+      <link>/2021/01/12/sobre-la-relacion-entre-la-teoria-de-la-relatividad-y-la-regresion-logistica/</link>
+      <pubDate>Tue, 12 Jan 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/01/12/sobre-la-relacion-entre-la-teoria-de-la-relatividad-y-la-regresion-logistica/</guid>
+      <description>Según la teoría de la relatividad, las velocidades (lineales) se suman así:
+v1 &amp;lt;- 100000 v2 &amp;lt;- 100000 velocidad_luz &amp;lt;- 300000 suma_relativista &amp;lt;- function(x,y){ (x + y) / (1 + x * y / velocidad_luz^2) } suma_relativista(v1, v2) # 180000  Lo que es todavía menos conocido es que esa operación es equivalente a la suma ordinaria de velocidades a través de una transformación de ida y vuelta vía la arcotangente hiperbólica (véase esto).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tsintermittent on datanalytics</title>
+    <link>/tags/tsintermittent/</link>
+    <description>Recent content in tsintermittent on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 04 Nov 2019 09:13:16 +0000</lastBuildDate><atom:link href="/tags/tsintermittent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis y predicción de series temporales intermitentes</title>
+      <link>/2019/11/04/analisis-y-prediccion-de-series-temporales-intermitentes/</link>
+      <pubDate>Mon, 04 Nov 2019 09:13:16 +0000</pubDate>
+      
+      <guid>/2019/11/04/analisis-y-prediccion-de-series-temporales-intermitentes/</guid>
+      <description>Hace tiempo me tocó analizar unas series temporales bastante particulares. Representaban la demanda diaria de determinados productos y cada día esta podía ser de un determinado número de kilos. Pero muchas de las series eran esporádicas: la mayoría de los días la demanda era cero.
+Eran casos de las llamadas series temporales intermitentes.
+Supongo que hay muchas maneras de modelizarlas y, así, al vuelo, se me ocurre pensar en algo similar a los modelos con inflación de ceros.</description>
+    </item>
+    
+  </channel>
+</rss>

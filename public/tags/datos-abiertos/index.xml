@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datos abiertos on datanalytics</title>
+    <link>/tags/datos-abiertos/</link>
+    <description>Recent content in datos abiertos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 01 Sep 2020 08:49:29 +0000</lastBuildDate><atom:link href="/tags/datos-abiertos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿CDO de, p.e., España? Nah...</title>
+      <link>/2020/09/01/cdo-de-p-e-espana-nah/</link>
+      <pubDate>Tue, 01 Sep 2020 08:49:29 +0000</pubDate>
+      
+      <guid>/2020/09/01/cdo-de-p-e-espana-nah/</guid>
+      <description>Dizque hace falta un CDO (chief data officer) de esa parte de España que es el estado español (aunque no sabemos si con autoridad solo dentro de la administración central o también en sus tentáculos semiautónomos) porque es una figura con creciente importancia en las empresas y con un rol muy definido en ellas.
+Aquí voy a argumentar a la contra introduciendo un elemento de sospecha en esa aparentemente sencilla y automática traslación de roles entre la empresa privada y una cosa tan pantagruélica y aparatosa como la administración de un estado.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la muy necesaria &#34;Oficina del Dato&#34;</title>
+      <link>/2020/08/31/sobre-la-muy-necesaria-oficina-del-dato/</link>
+      <pubDate>Mon, 31 Aug 2020 08:13:00 +0000</pubDate>
+      
+      <guid>/2020/08/31/sobre-la-muy-necesaria-oficina-del-dato/</guid>
+      <description>Hace no tanto propuse la creación de un segundo INE axialmente (eje: la Castellana) simétrico al actualmente existente que elaborase un segundo censo, una segunda EPA, etc. por lo mucho que podríamos aprender acerca de la varianza (y los límites de la estadística) gracias a la simultánea publicación de parejas de cifras oficiales desiguales.
+Pero alguien en el brazo largo de la palanca debió leerme sin advertir que iba de coña y me hizo caso.</description>
+    </item>
+    
+    <item>
+      <title>Sobre lo de &#34;publicar cuando ya no hace falta&#34;</title>
+      <link>/2020/04/30/sobre-lo-de-publicar-cuando-ya-no-hace-falta/</link>
+      <pubDate>Thu, 30 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/30/sobre-lo-de-publicar-cuando-ya-no-hace-falta/</guid>
+      <description>El otro día escribí (véase también esto):
+https://twitter.com/gilbellosta/status/1253605582495498240
+Y mirad:</description>
+    </item>
+    
+    <item>
+      <title>La lista de la vergüenza: los municipios con registros civiles no informatizados</title>
+      <link>/2020/04/29/la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados/</link>
+      <pubDate>Wed, 29 Apr 2020 11:21:46 +0000</pubDate>
+      
+      <guid>/2020/04/29/la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados/</guid>
+      <description>[Nota: la lista pudiera contener errores. Se ha extraído de un sistema de la informatización o no de los registros civiles está deducida indirectamente.]
+Se ha hablado últimamente de las discrepancias entre los datos de mortalidad del INE y de MoMo y creo que a estas alturas del partido ya sabemos casi todos que se deben a que el segundo sistema solo se nutre de datos de los registros civiles informatizados.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre el consumo alimentario mensual en los hogares españoles en R</title>
+      <link>/2020/04/28/mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/</link>
+      <pubDate>Tue, 28 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/28/mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/</guid>
+      <description>He actualizado el repositorio que anuncié aquí, es decir, este, con una función adicional cuya razón de ser es la siguiente:
+ El ministerio de la cosa hace una encuesta sobre hábitos de compra y consumo de alimentos en España. * Luego proporciona dos vistas sobre los mismos datos: * Una, en forma de ficheros .xls con más profundidad histórica, datos más recientes y menos variables. * Otra, a través de un formulario web que devuelve páginas con tablas html que tiene menos profundidad histórica, tiene un retraso mayor de publicación pero alguna variable más (p.</description>
+    </item>
+    
+    <item>
+      <title>Consumo alimentario mensual en los hogares españoles en R</title>
+      <link>/2020/04/01/consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/</link>
+      <pubDate>Wed, 01 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/01/consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/</guid>
+      <description>[Coge aire: aquí arranca una frase muy larga] Simplemente, que he creado un repositorio en GitHub para extraer información de los ficheros excel y sus muchas pestañas que componen el sistema de difusión de datos estadísticos sobre consumo de alimentos y bebidas de las familias que realiza el ministerio de como se llame ahora.
+La página de ministerio es esta; el repositorio, este.
+Nota: hay mucha información muy buena que merece ser más conocida y mejor explotada.</description>
+    </item>
+    
+    <item>
+      <title>0.7% NYC - MAD .3%</title>
+      <link>/2020/01/20/0-7-nyc-mad-3/</link>
+      <pubDate>Mon, 20 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/20/0-7-nyc-mad-3/</guid>
+      <description>Ayer leí este artículo en el que se denuncia cómo en Nueva York, donde tan elevados son los alquileres, apenas se construyen nuevos apartamentos. En 2017, al parecer, su número creció apenas el 0.7%.
+Pero, ¿a quién le importa Nueva York? Veamos qué pasa en Madrid. Gracias al buen hacer de su ayuntamiento, tenemos datos que resumo aquí:
+[table id=2 /]
+No voy a comentar nada. Ni siquiera sobre los solares que crían ratas a diez minutos de Sol.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre la anonimidad y reidentificación en ficheros de microdatos</title>
+      <link>/2019/08/27/mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos/</link>
+      <pubDate>Tue, 27 Aug 2019 09:13:40 +0000</pubDate>
+      
+      <guid>/2019/08/27/mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos/</guid>
+      <description>Ha tenido cierta repercusión durante el verano el articulo Estimating the success of re-identifications in incomplete datasets using generative models, del que se han publicado resúmenes tales como Bastan tres datos para identificar a cualquiera en una base anónima. Cosa sobradamene conocida desde hace la tira.
+De hecho, se ha publicado esta herramienta para conocer tu riesgo de ser reidentificado, caso de que vivas en EEUU o el RU.
+¿Y si vives en España?</description>
+    </item>
+    
+    <item>
+      <title>Disponible el fichero de datos abiertos más goloso de ambas castillas: las rutas de Bicimad</title>
+      <link>/2018/09/25/disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad/</link>
+      <pubDate>Tue, 25 Sep 2018 08:13:27 +0000</pubDate>
+      
+      <guid>/2018/09/25/disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad/</guid>
+      <description>Albricias, el ayuntamiento de Madrid ha liberado el fichero más goloso de ambas castillas: el de las rutas de usuarios de Bicimad, viaje a viaje, con su estación de origen, estación de destino, tiempo de recorrido, etc. Tiempo os falta para echarle un vistazo y hacer cosas chulas con él.
+Los datos están aquí.
+Se puede leer con código no muy distinto de este:
+library(RJSONIO) raw &amp;lt;- readLines(&amp;quot;201808_Usage_Bicimad.json&amp;quot;) dat &amp;lt;- iconv(raw, &amp;quot;latin1&amp;quot;, &amp;quot;utf8&amp;quot;) dat &amp;lt;- sapply(dat, fromJSON)  A bote pronto, se me ocurren algunas cosas que se pueden hacer con esos datos:</description>
+    </item>
+    
+    <item>
+      <title>Protección de los datos de los muertos</title>
+      <link>/2018/04/16/proteccion-de-los-datos-de-los-muertos/</link>
+      <pubDate>Mon, 16 Apr 2018 08:13:45 +0000</pubDate>
+      
+      <guid>/2018/04/16/proteccion-de-los-datos-de-los-muertos/</guid>
+      <description>Me toca lidiar con datos relativos a muertos. No de muertos hace mil años, o quinientos, o de las guerras carlistas, sino, casi, casi con muertos de cadáver caliente y viuda con mocos.
+He aquí la (¿aparente?) aporía.
+Por un lado, sábese que la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos (en adelante, LOPD), no es de aplicación a las personas fallecidas. Pero, por otro:
+ * La Agencia Tributaria ni ha publicado ni es fácil que publique las declaraciones de la renta del finado Sr.</description>
+    </item>
+    
+    <item>
+      <title>Vaya, vaya, vaya... (Y, ¿hay motivo para retractar?)</title>
+      <link>/2017/06/15/vaya-vaya-vaya-y-hay-motivo-para-retractar/</link>
+      <pubDate>Thu, 15 Jun 2017 08:13:01 +0000</pubDate>
+      
+      <guid>/2017/06/15/vaya-vaya-vaya-y-hay-motivo-para-retractar/</guid>
+      <description>Hablé de los suicidios en España y de lo sospechosos que resultaban los números del INE. Ni harto de vino, decía aquí y aquí.
+Ahora, resulta que alguien ha echado un vistazo en profundidad al asunto. Y eso, que las cifras del INE son bazofia.
+Y ahora, ¿qué se hará de todos esos artículos que relacionaban crisis con tasas de suicidio (como, p.e., este)? ¿Deberían retractarlos sus autores?</description>
+    </item>
+    
+    <item>
+      <title>La AEMET ha muerto, ¡larga vida a la NOAA!</title>
+      <link>/2017/06/13/la-aemet-ha-muerto-larga-vida-a-la-noaa/</link>
+      <pubDate>Tue, 13 Jun 2017 08:13:47 +0000</pubDate>
+      
+      <guid>/2017/06/13/la-aemet-ha-muerto-larga-vida-a-la-noaa/</guid>
+      <description>El otro día, buscando datos meteorológicos (históricos, por día) de Madrid, reconstaté que la AEMET cobra por el acceso. Están en su derecho. Igual que lo están los que no se duchan y huelen a perrete chico en el metro.
+Pero los mismos datos se pueden bajar gratis de la NOAA.
+Así, a la AEMET, que le den; que haga lo que le venga en gana en su soledad detrás de esa pasarela de pago que tan innecesario es atravesar.</description>
+    </item>
+    
+    <item>
+      <title>Me siento mal porque han sido muy majos conmigo y ahora no sé qué hacer con lo que me han mandado</title>
+      <link>/2017/05/18/me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado/</link>
+      <pubDate>Thu, 18 May 2017 08:13:45 +0000</pubDate>
+      
+      <guid>/2017/05/18/me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado/</guid>
+      <description>Recibo esto en mi correo electrónico:
+ANTECEDENTES DE HECHO
+PRIMERO.- Con fecha de entrada en el registro del Ayuntamiento de Madrid 16 de abril de 2017 y núm. de anotación 2017/0367535, se ha recibido solicitud formulada al amparo de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTAIP en adelante) por D Carlos Javier Gil Bellosta en la que solicita:
+“Listado de los bienes inmuebles de la Empresa Municipal de Vivienda y Suelo desglosados por dirección (calle y numero) y uso actual.</description>
+    </item>
+    
+    <item>
+      <title>Avisos recibidos, avisos resueltos y la creciente suma acumulada</title>
+      <link>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</link>
+      <pubDate>Mon, 24 Apr 2017 08:13:24 +0000</pubDate>
+      
+      <guid>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</guid>
+      <description>El ayuntamiento de Madrid publica información (desde 2015) de los avisos recibidos por los ciudadanos a través de los distintos canales puestos a su disposición (010, LineaMadrid, la app, etc.).
+He bajado los datos y he pintado
+que es la suma acumulada de la diferencia entre los avisos entrantes y los resueltos día a día usando
+library(data.table) library(xts) recibidos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;recibi&amp;quot;), fread)) resueltos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;resu&amp;quot;), fread)) recibidos.</description>
+    </item>
+    
+    <item>
+      <title>Datos abiertos y farolas solares: más motivos para el escepticismo</title>
+      <link>/2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/</link>
+      <pubDate>Mon, 27 Mar 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/</guid>
+      <description>La semana pasada hice constar mi escepticismo acerca del poder transformativo de los datos abiertos. Mencionaba dos ámbitos en los que existen datos no solo abiertos, sino abundantes y en tiempo real: el de los deportes y el de las finanzas. Y cómo, a pesar de ello, seguimos siendo, como sociedad, mendrugos tanto en lo deportivo como en lo financiero.
+Valga un tercer caso que dispongo a exponer.
+Tenemos igualmente datos abiertos, abundantes y en tiempo real de producción y consumo eléctrico y de su mix, i.</description>
+    </item>
+    
+    <item>
+      <title>Disponibles las diapositivas de mi charla en el EL BetaBeers Madrid (especial opendata)</title>
+      <link>/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/</link>
+      <pubDate>Fri, 17 Mar 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/</guid>
+      <description>El anuncio de la charla es este y las diapositivas de lo que titulé ¿Son suficientes los datos abiertos? están disponibles aquí.
+Como viene siendo tradicional (más que original) en mis charlas, las diapositivas consisten esencialmente en fotos. Así que son de poca utilidad sin el texto que no las acompaña. Igual saco rato la semana que entra y lo resumo por aquí.</description>
+    </item>
+    
+    <item>
+      <title>Daré una charla en el Betabeers Madrid (especial OpenData)</title>
+      <link>/2017/03/10/dare-una-charla-en-el-betabeers-madrid-especial-opendata/</link>
+      <pubDate>Fri, 10 Mar 2017 08:13:13 +0000</pubDate>
+      
+      <guid>/2017/03/10/dare-una-charla-en-el-betabeers-madrid-especial-opendata/</guid>
+      <description>Es el 16 de marzo (de 2017), es decir, el jueves que viene y estaré muy bien acompañado, como puede comprobarse en el programa.
+Aunque aún no indique ahí de qué hablaré, tengo la presentación hecha a falta, únicamente del título. Adelanto únicamente que el contenido está muy condicionado por lo que rematará la reunión, una mesa redonda sobre los datos abiertos en Madrid.</description>
+    </item>
+    
+    <item>
+      <title>Barómetros del CIS con R</title>
+      <link>/2016/10/05/barometros-del-cis-con-r/</link>
+      <pubDate>Wed, 05 Oct 2016 08:13:46 +0000</pubDate>
+      
+      <guid>/2016/10/05/barometros-del-cis-con-r/</guid>
+      <description>El CIS realiza barómetros todos los meses menos uno. Pasado un tiempo (es octubre y el último publicado es de julio) coloca los microdatos en su banco de datos.
+Aparte de ficheros .pdf que lo explican todo (pero que no dejan de ser .pdf), publica dos ficheros. Uno de datos en ancho fijo (prefijo DA) y otro con código SPSS (prefijo ES) con los consabidos (¿lo son? ¡felicidades si no!) encabezados DATA LIST, VARIABLE LABELS, VALUE LABELS, y MISSING VALUES.</description>
+    </item>
+    
+    <item>
+      <title>Evolución histórica de la deuda del ayuntamiento de Madrid</title>
+      <link>/2016/06/17/evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid/</link>
+      <pubDate>Fri, 17 Jun 2016 08:13:56 +0000</pubDate>
+      
+      <guid>/2016/06/17/evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid/</guid>
+      <description>Una de las cosas de las que me acuerdo de cuando leía es un parrafito de Mi idolatrado hijo Sisí en el que Delibes ponía en la boca no sé si de alguno de sus protagonistas o del narrador en el que se daba cuenta de la anormalidad histórica que supuso el tiempo de la II República: de repente, la gente hacía cosas que nunca había hecho y que nunca había vuelto a hacer: hablar a todas horas y con todo el mundo de política.</description>
+    </item>
+    
+    <item>
+      <title>Transparencia, ley de transparencia y todas esas cosas</title>
+      <link>/2016/05/18/transparencia-ley-de-transparencia-y-todas-esas-cosas/</link>
+      <pubDate>Wed, 18 May 2016 08:13:37 +0000</pubDate>
+      
+      <guid>/2016/05/18/transparencia-ley-de-transparencia-y-todas-esas-cosas/</guid>
+      <description>Hace un tiempo se aprobó la ley de Transparencia (ver en el BOE). Son muy interesantes el preámbulo y las excepciones, a las que volveré después.
+Hace unos días hubo un muy inoportuno debate sobre la conveniencia o no de hacer públicos los resultados de nosequé pruebas de nivel (honestamente, ni sé cuáles son ni me interesan) que realizan los estudiantes de primaria. Pocos nos recordaron que publicar esa información se atiene al espíritu de la ley anterior tal como recoge su preámbulo y que bajo ninguna de las excepciones que contempla podría justificarse su ocultamiento.</description>
+    </item>
+    
+    <item>
+      <title>Transparencia, libertad y carcas (de antaño y hogaño)</title>
+      <link>/2016/05/04/transparencia-libertad-y-carcas-de-antano-y-hogano/</link>
+      <pubDate>Wed, 04 May 2016 08:13:40 +0000</pubDate>
+      
+      <guid>/2016/05/04/transparencia-libertad-y-carcas-de-antano-y-hogano/</guid>
+      <description>Me cuenta Google que Hegel defendía eso de que la historia es el relato del desarrollo de la libertad humana (o algo parecido y en alemán). Y si algo ha de desarrollarse (y, además, al lento ritmo de la historia) en lugar de extenderse como las epidemias en esas pelis de catástrofes, es porque ha de vencer resistencias.
+Recuerdo las de antaño: no ha de confundirse libertad con libertinaje, un concepto que treinta años después sigo sin entender.</description>
+    </item>
+    
+    <item>
+      <title>Licencias urbanísticas, no viables (y fin)</title>
+      <link>/2015/06/29/licencias-urbanisticas-no-viables-y-fin/</link>
+      <pubDate>Mon, 29 Jun 2015 08:13:26 +0000</pubDate>
+      
+      <guid>/2015/06/29/licencias-urbanisticas-no-viables-y-fin/</guid>
+      <description>¿Recordáis mi solicitud de datos sobre licencias urbanísticas al ayuntamiento de Madrid? Hoy me he interesado por su estado y he encontrado esto:
+
+No viable porque no ha sido posible obtener del órgano competente los datos en formato reutilizable.
+Sin comentarios.
+Lo que sí he encontrado en la memoria de gestión de 2013 del ayuntamiento es
+
+con su recta de regresión, su NA y todo.
+Adenda: Entre el momento en que escribí lo que precede y este, he venido a enterarme de que Victoria Anderica va a liderar el proyecto de transparencia del ayuntamiento de Madrid.</description>
+    </item>
+    
+    <item>
+      <title>Visualizar&#39;15 Datos para el bien común: convocatoria de proyectos</title>
+      <link>/2015/04/01/visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos/</link>
+      <pubDate>Wed, 01 Apr 2015 08:13:55 +0000</pubDate>
+      
+      <guid>/2015/04/01/visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos/</guid>
+      <description>Voy a ser mentor de proyectos en Visualizar&#39;15 Datos. Pero aunque no lo fuese, escribiría esta entrada de hoy. Os cuento por qué. Mirad lo que dice la convocatoria:
+¡Dos semanas! Eso da para realizar un trabajo serio y medianamente acabado. Nada de los prototipos con las costuras al aire típicos de hackatón mañanero.
+Siendo mentor, no sé si puedo proponer proyectos. Tengo algunas ideas (p.e., relacionadas con la cartografía española y R; o ideas en la línea de MicroDatosEs), pero estaría bien oír las vuestras.</description>
+    </item>
+    
+    <item>
+      <title>Licencias urbanísticas: datos y votos</title>
+      <link>/2015/03/10/licencias-urbanisticas-datos-y-votos/</link>
+      <pubDate>Tue, 10 Mar 2015 08:13:11 +0000</pubDate>
+      
+      <guid>/2015/03/10/licencias-urbanisticas-datos-y-votos/</guid>
+      <description>Una de mis aficiones recientes es la de echarle un vistazo a las licencias de apertura de los locales de Madrid. Son un cartelito que suelen tener colgado en la puerta (con una H verde y grande en hostelería) donde se indica, entre otras cosas, el aforo y la fecha de concesión.
+(Lo del aforo no es asunto baladí: sin un aforo oficial, no existe exceso de aforo,&amp;hellip; ¿y si luego pasa algo?</description>
+    </item>
+    
+    <item>
+      <title>Hackatón de datos abiertos, 21 de febrero en Madrid</title>
+      <link>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</link>
+      <pubDate>Thu, 29 Jan 2015 07:13:15 +0000</pubDate>
+      
+      <guid>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</guid>
+      <description>El día 21 de febrero (de 2015) tendrá lugar en Medialab-Prado (¿cómo llegar?) un hackatón de datos abiertos patrocinado por Medialab-Prado y Open Knowledge Spain. El resto de la información puede consultarse aquí.
+Dicho lo cual, ¿deberías ir?
+Pues si tienes 45 años, eres profesor de la Autónoma, etc. lo sabes tú mejor que yo.
+Pero si tienes veintitantos, estudias, has comenzado a trabajar recientemente o estás en el paro, si tienes inquietudes (y las tienes si lees esto), si quieres conocer técnicas nuevas, problemas nuevos, contactar con gente interesante, etc.</description>
+    </item>
+    
+    <item>
+      <title>Tres citas para los amantes del análisis de datos públicos</title>
+      <link>/2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/</link>
+      <pubDate>Mon, 08 Sep 2014 07:13:36 +0000</pubDate>
+      
+      <guid>/2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/</guid>
+      <description>En estos días van a celebrarse tres eventos (de los que tengo noticia) relacionados con el análisis de datos. El primero es la Segunda Edición del Taller de Periodismo de Datos, en Madrid. Extraigo de su convocatoria lo siguiente:
+Los proyectos pueden envarse hasta el 24 de septiembre. Una vez seleccionados, a partir del 30 de septiembre, se buscarán colaboradores. Toda la información, aquí.
+El segundo, es el Jacathon que tendrá lugar los días 26-28 de septiembre en Jaca:</description>
+    </item>
+    
+    <item>
+      <title>Si participase en MadData...</title>
+      <link>/2014/07/23/si-participase-en-maddata/</link>
+      <pubDate>Wed, 23 Jul 2014 07:13:36 +0000</pubDate>
+      
+      <guid>/2014/07/23/si-participase-en-maddata/</guid>
+      <description>El otro día ayudé a divulgar por aquí MadData, el datatón de datos abiertos del ayuntamiento de Madrid. Algunos me habéis preguntado si participaré. Pero estoy lejos (y, muy, muy ocupado).
+Eso sí, os voy a contar dónde me gustaría meter la cuchara. En datos del ayuntamiento de Madrid, claro. Pero no los abiertos, ni los públicos, ni los conocidos. Sino los otros.
+Os pongo en precedentes. Sabréis —si habéis seguido estas páginas— que soy el copropietario de MartinaCocina, un local que no sé si clasificar como cafetería o restaurante, en el centro de Madrid.</description>
+    </item>
+    
+    <item>
+      <title>MadData: datatón de datos abiertos</title>
+      <link>/2014/07/21/maddata-dataton-de-datos-abiertos/</link>
+      <pubDate>Mon, 21 Jul 2014 07:13:19 +0000</pubDate>
+      
+      <guid>/2014/07/21/maddata-dataton-de-datos-abiertos/</guid>
+      <description>Copio (adaptándolo) de aquí:
+_everis y MadridEmprende organizan el primer Open Datathon de Madrid.
+La competición consiste en crear soluciones innovadoras a partir del uso de datos abiertos. MADdata pondrá a disposición de cada participante datos de la ciudad de Madrid, procedentes del portal de datos abiertos del Ayuntamiento, de servicios públicos, de transporte y movilidad y de redes sociales._
+
+La inscripción está abierta hasta el 25 de julio de 2014.</description>
+    </item>
+    
+    <item>
+      <title>Por qué soy escéptico con respecto al periodismo de datos</title>
+      <link>/2014/07/07/por-que-soy-esceptico-con-respecto-al-periodismo-de-datos/</link>
+      <pubDate>Mon, 07 Jul 2014 07:27:34 +0000</pubDate>
+      
+      <guid>/2014/07/07/por-que-soy-esceptico-con-respecto-al-periodismo-de-datos/</guid>
+      <description>Lo dejé dicho hace un tiempo: en algún momento de esta charla expresé mis motivos.
+Hay iniciativas muy encomiables que abogan por la apertura de datos. Convengo que la disponibilidad de datos de organizaciones púbicas y privadas facilitaría su fiscalización. En particular, la fiscalización que realiza la prensa: su acción sería más eficaz de no tener que jugar al gato y al ratón.
+Pero hay motivos para el escepticismo. Hay motivos para pensar que la liberación de datos es condición hasta cierto punto necesaria pero en modo alguno suficiente para alcanzar esos loables objetivos.</description>
+    </item>
+    
+    <item>
+      <title>Los efectos de la transparencia</title>
+      <link>/2013/09/16/los-efectos-de-la-transparencia/</link>
+      <pubDate>Mon, 16 Sep 2013 07:46:21 +0000</pubDate>
+      
+      <guid>/2013/09/16/los-efectos-de-la-transparencia/</guid>
+      <description>Hace unos días se aprobó la Ley de Transparencia. Si en esta entrada me limitase a aplaudir este hecho, pensarían con razón mis lectores que durante estos días de silencio he sido abducido por alguna criatura extraterrestre y sometido a un lavado de cerebro que borrase de él todo atisbo de subordinación adversativa.
+Pues he aquí que acabo de terminar de leer un artículo muy oportuno, Accounting for the Effects of Accountability de J.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Datathon for Social Good&#34; de Telefónica</title>
+      <link>/2013/08/26/datathon-for-social-good-de-telefonica/</link>
+      <pubDate>Mon, 26 Aug 2013 07:37:15 +0000</pubDate>
+      
+      <guid>/2013/08/26/datathon-for-social-good-de-telefonica/</guid>
+      <description>El Datathon for Social Good es una iniciativa de Telefónica para desarrollar aplicaciones analíticas que redunden en un bien social que está teniendo lugar estos días (¡aún hay tiempo para registrarse!).
+Estos son los tres tipos de datos con los que se contará:
+ * Recuento de personas en el área metropolitana de Londres durante 3 semanas, por sexo, edad y grupos para cada área en rango horario. Datos inferidos de cuántos están en su hogar, en trabajo o de visita.</description>
+    </item>
+    
+    <item>
+      <title>Quiero violar la ley y no sé cómo</title>
+      <link>/2013/08/02/quiero-violar-la-ley-y-no-se-como/</link>
+      <pubDate>Fri, 02 Aug 2013 07:49:29 +0000</pubDate>
+      
+      <guid>/2013/08/02/quiero-violar-la-ley-y-no-se-como/</guid>
+      <description>He decidido violar la ley. Quiero demostrar al mundo y a mí mismo que no me es necesario transitar aborregadamente las sendas de los cobardes que tanto temen a Dios y al alguacilaje.
+Por especificar, he optado por ponerme al margen de la ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público. He navegado hasta su artículo 11, titulado régimen sancionador y me he dispuesto a cometer las infracciones que estima más graves.</description>
+    </item>
+    
+    <item>
+      <title>Demanda y uso de gobierno abierto en España</title>
+      <link>/2013/04/22/demanda-y-uso-de-gobierno-abierto-en-espana/</link>
+      <pubDate>Mon, 22 Apr 2013 07:58:41 +0000</pubDate>
+      
+      <guid>/2013/04/22/demanda-y-uso-de-gobierno-abierto-en-espana/</guid>
+      <description>Traigo a la consideración de mis lectores el Estudio de demanda y uso de gobierno abierto en España que con fecha de primeros de este año ha realizado el Observatorio Nacional de las Telecomunicaciones y otros asuntos afines.
+Aborda, dice, las siguientes cuestiones que copio:
+ * La visión de la ciudadanía sobre la Administración Pública * La valoración que hace de los servicios públicos. * El uso de la Administración Electrónica.</description>
+    </item>
+    
+    <item>
+      <title>Anonimidad en ficheros de microdatos: un estudio en el contexto español</title>
+      <link>/2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/</link>
+      <pubDate>Wed, 06 Feb 2013 07:49:29 +0000</pubDate>
+      
+      <guid>/2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/</guid>
+      <description>Estos días ha salido publicado un artículo mío, Microdata and k-anonymity: a quantitative approach in the Spanish context en la Revista BEIO. Trata de algunos temas de los que ya nos hemos ocupado antes en estas páginas: la anonimidad que cabe esperar en ficheros de microdatos. Y, en este caso, cuando hacen referencia a personas que viven en España.
+Supongamos que se hacen públicos unos ficheros de datos en los que se han eliminado los identificadores (nombre, DNI, etc.</description>
+    </item>
+    
+    <item>
+      <title>De los datos al conocimiento científico</title>
+      <link>/2013/01/23/mapa-mental-de-mi-primera-clase-del-semestre/</link>
+      <pubDate>Wed, 23 Jan 2013 07:17:45 +0000</pubDate>
+      
+      <guid>/2013/01/23/mapa-mental-de-mi-primera-clase-del-semestre/</guid>
+      <description>Hoy he impartido la primera de mis clases dentro de la asignatura Data Analysis and Visualization for Environmental Magamement del Master in Environmental Management del Instituto de Empresa. El tema, From Data to Scientific Knowledge, todo en 80 minutos.
+Así que dando por hecho que mis alumnos acabarán siendo intermediarios entre quienes fabrican ciencia medioambiental y el público general (o ciertas porciones de él), he presentado:
+ 1. La ciencia (experimental) como un proceso en el que las ideas se adaptan a los datos (obtenidos experimentalmente) más que como un conjunto de leyes y _hechos_ fosilizados en libros.</description>
+    </item>
+    
+    <item>
+      <title>Tesis de maestría: periodismo de datos, &#34;big data&#34; y &#34;open data&#34;</title>
+      <link>/2012/11/06/tesis-de-maestria-periodismo-de-datos-big-data-y-open-data/</link>
+      <pubDate>Tue, 06 Nov 2012 07:55:45 +0000</pubDate>
+      
+      <guid>/2012/11/06/tesis-de-maestria-periodismo-de-datos-big-data-y-open-data/</guid>
+      <description>Tal vez a quienes siguen estas páginas les interese echar un vistazo a la tesis de maestría de Ángeles Mariño.
+He aquí la introducción:
+Dos de los fenómenos que más han ido acelerando el desarrollo de esta nueva especialidad han sido Big Data y Open Data, los cuales han ido impulsando el desarrollo de nuevas herramientas para su análisis y comunicación. De ahí que los periodistas fueron –y continúan- adquiriendo nuevas habilidades en orden a analizar, filtrar y hacer visibles grandes masas de datos.</description>
+    </item>
+    
+    <item>
+      <title>Cultura numérica, incultura numérica</title>
+      <link>/2012/10/30/cultura-numerica-incultura-numerica/</link>
+      <pubDate>Tue, 30 Oct 2012 07:49:35 +0000</pubDate>
+      
+      <guid>/2012/10/30/cultura-numerica-incultura-numerica/</guid>
+      <description>Traigo hoy dos enlaces relacionados a mi bitácora.
+No sé si conocéis OWNI, un Objet Web Non Identifié. Una de sus tres secciones prominentes se llama Cultures Numériques. No datos. No periodismo de datos. No OpenData. Sino culturas numéricas (supongo que el plural es un brindis a la ultracorrección política). Que tal sea el nombre invita a reflexiones que habrían de germinar por sí solas en las mentes de mis lectores.</description>
+    </item>
+    
+    <item>
+      <title>R como herramienta de captura de datos</title>
+      <link>/2012/10/16/r-como-herramienta-de-captura-de-datos/</link>
+      <pubDate>Tue, 16 Oct 2012 07:12:17 +0000</pubDate>
+      
+      <guid>/2012/10/16/r-como-herramienta-de-captura-de-datos/</guid>
+      <description>Seré breve hoy porque estoy desinspirado. Y también porque estoy trabajando en dos o tres proyectos importantes de los que se hablará por aquí pronto. Así que hoy me dedicaré a divulgar una presentación de Jeffrey Breen que tiene un título engañoso: Tapping the Data Deluge with R.
+En realidad, es un repaso (y el código está disponible) de las posibilidades que ofrece R para capturar datos disponibles en línea en diversos repositorios: Banco Mundial, Yahoo, Twitter.</description>
+    </item>
+    
+    <item>
+      <title>Datos sobre los presupuestos del País Vasco</title>
+      <link>/2012/10/05/datos-sobre-los-presupuestos-del-pais-vasco/</link>
+      <pubDate>Fri, 05 Oct 2012 06:52:09 +0000</pubDate>
+      
+      <guid>/2012/10/05/datos-sobre-los-presupuestos-del-pais-vasco/</guid>
+      <description>Quien haya seguido históricamente esta bitácora sabrá que, hablando en plata, cuando me enrollo es para meter caña. Es mi personalidad. Y no es cómodo soportarla.
+
+Como hoy no tengo objeción alguna que hacer en el tema que quiero tratar, seré infinitamente breve. Solo digo: visitad esto.</description>
+    </item>
+    
+    <item>
+      <title>Ley de Transparencia y anonimidad en ficheros de microdatos (II)</title>
+      <link>/2012/10/04/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii/</link>
+      <pubDate>Thu, 04 Oct 2012 07:25:04 +0000</pubDate>
+      
+      <guid>/2012/10/04/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii/</guid>
+      <description>Escribí hace un tiempo sobre el asunto de la transparencia y la privacidad y quiero retomar el tema. Comienzo reafirmando mi preferencia por y compromiso con la causa de la transparencia en las administraciones públicas, fe de lo cual da esta misma bitácora. Pero la serendipia me ha llevado a tropezar con un ciertas circunstancias que han sembrado de matices mi inicial entusiasmo. No son insalvables, convengo. Pero me siento en la obligación de, cuando menos —y, pensando que pueden no ser de universal conocimiento— dejar constancia escrita de ellas.</description>
+    </item>
+    
+    <item>
+      <title>Un pequeño ejercicio de agudeza visual</title>
+      <link>/2012/10/03/un-pequeno-ejercicio-de-agudeza-visual/</link>
+      <pubDate>Wed, 03 Oct 2012 07:15:30 +0000</pubDate>
+      
+      <guid>/2012/10/03/un-pequeno-ejercicio-de-agudeza-visual/</guid>
+      <description>Consiste en echarle un vistazo a
+
+y pensar si hay relación entre las variables x e y que aparecen en el gráfico.
+Luego, darse cuenta de que corresponden al logaritmo decimal del tamaño de los municipios españoles de más de 1000 habitantes y su deuda por habitante.
+Y, finalmente, examinar el título de esta entrada de blog, leerlo si procede, y extraer las conclusiones que uno considere oportunas.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo votan los diputados?</title>
+      <link>/2012/09/20/como-votan-los-diputados/</link>
+      <pubDate>Thu, 20 Sep 2012 07:24:25 +0000</pubDate>
+      
+      <guid>/2012/09/20/como-votan-los-diputados/</guid>
+      <description>Tras leer el otro día Visualizando la matriz de acuerdo legislativo, pensé que esta bitácora no podía quedarse atrás. Casi desisto. Pero cerrando ya casi el navegador vi que en la página de las votaciones del Congreso de los Diputados había dos enlaces aprovechables: en uno ponía XML y en el otro, &amp;ldquo;histórico&amp;rdquo;.
+He aquí pues el código concomitante que fue apareciendo en mi sesión de RStudio:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) library(reshape) library(&amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>Los principales problemas de España</title>
+      <link>/2012/09/05/los-principales-problemas-de-espana/</link>
+      <pubDate>Wed, 05 Sep 2012 06:38:07 +0000</pubDate>
+      
+      <guid>/2012/09/05/los-principales-problemas-de-espana/</guid>
+      <description>Llevo unos días mostrando bastante poca diligencia en lo que a mi bitácora concierne. El calor con el que agosto ha maltratado los montes también ha contribuido a disipar mis ideas. También a enflaquecer la ya de por sí no muy robusta voluntad.
+Y como todavía no ando recuperdo del todo, voy a aprovechar el estupendo trabajo previo de Gregorio Serrano (y véase también este otro relacionado con el anterior) para facilitar a mis lectores una tarea en la que como ciudadanos probos es probable que estén interesados y que, tal vez sin mi concurso, resultaría excesivamente enojosa.</description>
+    </item>
+    
+    <item>
+      <title>Incendios en España</title>
+      <link>/2012/08/14/incendios-en-espana/</link>
+      <pubDate>Tue, 14 Aug 2012 07:03:50 +0000</pubDate>
+      
+      <guid>/2012/08/14/incendios-en-espana/</guid>
+      <description>Quienes siguen de antiguo estas páginas recordarán que ya me ocupé de la cuestión de los incendios forestales hace un tiempo. Después han pasado cosas.
+Por un lado, vía Alberto González Paje di con esta página, que utiliza datos del informe estadístico que publica el Ministerio de Medio Ambiente (y de otras cosas más, según la legislatura en cuestión).
+También asistí hace un tiempo a una reunión de MediaLab Prado en la que Juan Elosúa nos contó cómo había conseguido acceso a la base de datos completa de incendios del Ministerio a fuerza de insistir y amparado por ciertas normas que garantizan el derecho de los ciudadanos a cualquier tipo de información de tipo medioambiental.</description>
+    </item>
+    
+    <item>
+      <title>Fallecimientos y microdatos</title>
+      <link>/2012/08/13/fallecimientos-y-microdatos/</link>
+      <pubDate>Mon, 13 Aug 2012 08:57:36 +0000</pubDate>
+      
+      <guid>/2012/08/13/fallecimientos-y-microdatos/</guid>
+      <description>Hace un tiempo, un amigo me dijo que si en verano tiende a crecer la tasa de fallecimientos. Como de eso no sé y no hay manera de preguntarle a Google cuándo se muere más la gente, acudí a quienes se encargan de recopilar ese tipo de datos. Y construí en relativamente poco rato un gráfico parecido a
+
+que echaba por tierra su hipótesis.
+Ahora quiero retomar el asunto aprovechando que he anunciado el paquete MicroDatosEs para indicar cómo se pueden crear los tres ficheros de metadatos necesarios para leer ficheros de microdatos.</description>
+    </item>
+    
+    <item>
+      <title>Un paseo por el paquete MicroDatosEs (y la EPA, de nuevo)</title>
+      <link>/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/</link>
+      <pubDate>Mon, 06 Aug 2012 07:31:47 +0000</pubDate>
+      
+      <guid>/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/</guid>
+      <description>En esta entrada voy a ilustrar el uso del paquete MicroDatosEs que anuncié el otro día. Como indiqué entonces, de momento sólo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
+Como todavía no están disponibles los del segundo trimestre del 2012, utilizaré los del primero. Para ello, hay que ir a las páginas del INE y seleccionar el fichero correspondiente al primer trimestre de 2012 (que los impacientes pueden descargar directamente de su enlace directo).</description>
+    </item>
+    
+    <item>
+      <title>El paquete MicroDatosEs para microdatos públicos</title>
+      <link>/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/</link>
+      <pubDate>Fri, 03 Aug 2012 07:38:41 +0000</pubDate>
+      
+      <guid>/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/</guid>
+      <description>Comencé hace un tiempo un pequeño paquete de R, MicroDataEs, para importar automáticamente a R ficheros de microdatos distribuidos por los diversos organismos estadísticos (españoles, por acotar el ámbito). El objetivo es facilitar el análisis de este tipo de datos a los usuarios de R y como consecuencia:
+ * fomentar el uso de R entre aquellos que utilicen frecuentemente este tipo de información y * hacer más accesibles estos datos a los usuarios de R.</description>
+    </item>
+    
+    <item>
+      <title>Tres ideas sobre datos abiertos</title>
+      <link>/2012/07/31/tres-ideas-sobre-datos-abiertos/</link>
+      <pubDate>Tue, 31 Jul 2012 07:31:48 +0000</pubDate>
+      
+      <guid>/2012/07/31/tres-ideas-sobre-datos-abiertos/</guid>
+      <description>1. Primero, colgar los datos en internet (aunque protegiendo al máximo el derecho a la privacidad). 2. Segundo, hacerlo en formatos que sean útiles a los desarrolladores, que puedan ser leídos automáticamente a través de APIs. 3. Tercero, educar a los innovadores y a los emprendedores acerca de la información disponible en la red a través de reuniones de desarrolladores, etc. para que la pongan en valor.  No son mías.</description>
+    </item>
+    
+    <item>
+      <title>Deshaucios en España y su estructura geográfica</title>
+      <link>/2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/</link>
+      <pubDate>Fri, 20 Jul 2012 07:10:45 +0000</pubDate>
+      
+      <guid>/2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/</guid>
+      <description>Participo (de manera muy pasiva) en un foro de periodismo de datos de Barcelona. En él se planteó la posibilidad de desarrollar un proyecto para recopilar información sobre deshaucios y entender mejor este fenómeno.
+La iniciativa partió de Carlos Alonso, Concha Catalán y Karma Peiró y, recientemente, Alberto Gonzalez Paje ha cruzado varias bases de datos (como esta, la de la población por provincias del INE, etc.) para crear el material con el que he construido el siguiente gráfico:</description>
+    </item>
+    
+    <item>
+      <title>Rankings de colegios: problemas y alternativas</title>
+      <link>/2012/06/13/rankings-de-colegios-problemas-y-alternativas/</link>
+      <pubDate>Wed, 13 Jun 2012 06:34:16 +0000</pubDate>
+      
+      <guid>/2012/06/13/rankings-de-colegios-problemas-y-alternativas/</guid>
+      <description>Me voy a sumar al rol de bitácoras que hablan del ministro Wert. No lo conocía de nada pero el día de su nombramiento, El País publicó un artículo suyo —que no he podido ubicar— en el que, como sociólogo, analizaba ciertos resultados electorales. Ese detalle me hizo pensar que me iba a caer bien el hombre. Y, pobre, no para de dar y recibir disgustos.
+Planea ahora elaborar un ránking de colegios.</description>
+    </item>
+    
+    <item>
+      <title>Periodismo de datos en Via52.com</title>
+      <link>/2012/04/17/periodismo-de-datos-en-via52-com/</link>
+      <pubDate>Tue, 17 Apr 2012 07:33:54 +0000</pubDate>
+      
+      <guid>/2012/04/17/periodismo-de-datos-en-via52-com/</guid>
+      <description>El jueves pasado, en MediaLab Prado, tuve ocasión de asistir a una presentación de los responsables de Via52,
+Lo más interesante de esta publicación para quienes siguen esta bitácora es el énfasis que hacen en el periodismo de datos. Además:
+Tengo entendido, además, que próximamente van a sacar un número muy jugoso&amp;hellip; y hasta ahí puedo leerescribir.</description>
+    </item>
+    
+    <item>
+      <title>Acceso y reutilización de datos públicos</title>
+      <link>/2012/03/27/acceso-y-reutilizacion-de-datos-publicos/</link>
+      <pubDate>Tue, 27 Mar 2012 07:53:37 +0000</pubDate>
+      
+      <guid>/2012/03/27/acceso-y-reutilizacion-de-datos-publicos/</guid>
+      <description>Las leyes son un carajal. Últimamente he tenido que enfrentarme a algunas y me doy cuenta de que es un error que los abogados (y los legisladores) no hayan seguido nunca un buen curso de geometría euclídea.
+Pongo un ejemplo. La Constitución Española (artículo 22) dice que las asociaciones deberán inscribirse en un registro a los solos efectos de publicidad. Pues bien, parece ser que una asociación, y nos ocurrió con la Comunidad R Hispano no es legal (para poder abrir una cuenta corriente, por ejemplo) de no inscribirse en el registro.</description>
+    </item>
+    
+    <item>
+      <title>¡Maño qué mapa!</title>
+      <link>/2012/03/14/%c2%a1mano-que-mapa/</link>
+      <pubDate>Wed, 14 Mar 2012 08:35:49 +0000</pubDate>
+      
+      <guid>/2012/03/14/%c2%a1mano-que-mapa/</guid>
+      <description>Esta mañana casi me da esa tontería de sentirme orgulloso de ser de donde soy, Zaragoza. Al fin y al cabo, podría haber sido de cualquier otro lugar. Pero es que Zaragoza tiene uno de los portales de datos públicos municipales más avanzados. En eso es una ciudad pionera.
+(Se lo hemos de agradecer a nuestro alcalde, Belloch, que, dicen las malas lenguas, además de socialista y barbudo, es linuxero).</description>
+    </item>
+    
+    <item>
+      <title>Estoy muy de acuerdo con la CEOE...</title>
+      <link>/2012/02/24/estoy-muy-de-acuerdo-con-la-ceoe/</link>
+      <pubDate>Fri, 24 Feb 2012 07:55:42 +0000</pubDate>
+      
+      <guid>/2012/02/24/estoy-muy-de-acuerdo-con-la-ceoe/</guid>
+      <description>&amp;hellip; cuando dice que hay que ver qué pasa y analizar las estadísticas. En lo demás, no lo sé (ni lo pienso decir aquí). Pero traigo el asunto a colación porque hace un par de días hablé, un tanto exteporáneamente, sobre desempleo y subsidios. Y uno de mis lectores hizo un comentario del que extraigo
+Ahora, Juan Rosell, presidente de la CEOE, nos dice:
+Obviamente, en estas páginas no podemos estar más de acuerdo con el Sr.</description>
+    </item>
+    
+    <item>
+      <title>Captura de datos, MediaLab Prado y NeedleBase</title>
+      <link>/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/</link>
+      <pubDate>Fri, 30 Dec 2011 06:22:41 +0000</pubDate>
+      
+      <guid>/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/</guid>
+      <description>Ya he hablado en ocasiones anteriores en este foro de MediaLab Prado. Y también de los talleres que está realizando sobre periodismo de datos.
+El día 12 de enero —y a ver qué invento para poder acudir— habrá una sesión sobre captura de datos uno de cuyos talleres tratará sobre scrapping usando NeedleBase.
+Anoche vi el siguiente vídeo sobre esta herramienta,
+  y quedé impactado sobre las cosas que puede llegar a hacer.</description>
+    </item>
+    
+    <item>
+      <title>Estadísticas de incendios forestales en España</title>
+      <link>/2011/12/12/estadisticas-de-incendios-forestales-en-espana/</link>
+      <pubDate>Mon, 12 Dec 2011 12:07:23 +0000</pubDate>
+      
+      <guid>/2011/12/12/estadisticas-de-incendios-forestales-en-espana/</guid>
+      <description>El Ministerio de Medio Ambiente recoge estadísticas sobre incendios forestales. Lo hace, por así decirlo, a la vieja usanza:
+ La Dirección General de Medio Natural y Política Forestal del Ministerio de Medio Ambiente y Medio Rural y Marino acumula los datos provinciales y obtiene las cifras nacionales del año en curso. Estas cifras se muestran en un cuadro que las compara con las del decenio anterior en el mismo intervalo de fechas.</description>
+    </item>
+    
+    <item>
+      <title>El 3 de diciembre, Open Data Hackathon </title>
+      <link>/2011/11/23/el-3-de-diciembre-open-data-hackathon/</link>
+      <pubDate>Wed, 23 Nov 2011 06:56:46 +0000</pubDate>
+      
+      <guid>/2011/11/23/el-3-de-diciembre-open-data-hackathon/</guid>
+      <description>Me llega la noticia de que el 3 de diciembre tendrá lugar el Open Data Day,
+ [&amp;hellip;] una reunión de ciudadanos en ciudades de todo el mundo para escribir aplicaciones, liberar datos, crear visualizaciones y publicar análisis utilizando datos públicos abiertos con el fin de apoyar y animar a adoptar políticas de datos abiertos por parte de los gobiernos locales, regionales y nacionales de todo el mundo.
+ Arturo (del blog Madrid Me Mata) y Oscar Corcho de la UPM están organizando el evento en Madrid.</description>
+    </item>
+    
+    <item>
+      <title>¿Es abierto todo lo que reluce? Resultados</title>
+      <link>/2011/11/04/es-abierto-todo-lo-que-reluce-resultados/</link>
+      <pubDate>Fri, 04 Nov 2011 07:17:03 +0000</pubDate>
+      
+      <guid>/2011/11/04/es-abierto-todo-lo-que-reluce-resultados/</guid>
+      <description>Habiendo hecho eco el otro día en esta bitácora del anuncio de un estudio del grado de real de apertura de los datos del proyecto Aporta, de rigor es que haga mención de los resultados.
+En resumen:
+ El 3% de las fuentes de datos que comprende el proyecto cumplen los requisitos mínimos de apertura El 39% de las fuentes de datos catalogadas contienen datos propiamente dichos (y no imágenes, documentos, etc.</description>
+    </item>
+    
+    <item>
+      <title>¿Es abierto todo lo que reluce?</title>
+      <link>/2011/10/28/es-abierto-todo-lo-que-reluce/</link>
+      <pubDate>Fri, 28 Oct 2011 07:08:10 +0000</pubDate>
+      
+      <guid>/2011/10/28/es-abierto-todo-lo-que-reluce/</guid>
+      <description>Doy publicidad aquí a una entrada de la bitácora gobernamos.com en la que se presenta un estudio acerca del grado real de apertura de los datos del proyecto Aporta.
+Para los detalles puede consultarse la entrada original. Pero quiero extraer de ella la referencia al documento Methodology for Releasing Open Data (MELODA), que establece un criterio o método (¡odio emplear metodología!) para determinar el grado de apertura de una fuente de datos, que en su versión simplificada, evalúa si:</description>
+    </item>
+    
+    <item>
+      <title>Ley de Transparencia y anonimidad en ficheros de microdatos</title>
+      <link>/2011/10/06/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos/</link>
+      <pubDate>Thu, 06 Oct 2011 07:37:36 +0000</pubDate>
+      
+      <guid>/2011/10/06/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos/</guid>
+      <description>El adelanto electoral puede afectar el debate y aprobación de una ley largamente anunciada, la Ley de Transparencia.
+Se trata de una ley que daría derecho a los ciudadanos a obtener datos que obren en poder de (determinados organismos de la) administración del Estado bajo criterios amplios. Ha existido una propuesta inicial del PSOE y otra —considerada superior por los partidarios de los datos abiertos— del PP. Ahora habrá que esperar a la siguiente legislatura, parece ser.</description>
+    </item>
+    
+    <item>
+      <title>El borrador de Ley de transparencia, disponible</title>
+      <link>/2011/08/02/el-borrador-de-ley-de-transparencia-disponible/</link>
+      <pubDate>Tue, 02 Aug 2011 07:13:11 +0000</pubDate>
+      
+      <guid>/2011/08/02/el-borrador-de-ley-de-transparencia-disponible/</guid>
+      <description>Hace unos días, el mismo en el que se anunciaron las elecciones anticipadas (en España) fue publicado el borrador de lo que podría llegar a convertirse en la futura Ley de transparencia.
+Aunque el actual gobierno no será ya el encargado de tramitarlo (y a saber qué hará el que llegue), merece la pena echarle un vistazo. Tengo comentarios al respecto, muchos de hecho. Y en gran medida coinciden con los que se expresan en este otro blog.</description>
+    </item>
+    
+    <item>
+      <title>Y Kenia qué, ¿eh?</title>
+      <link>/2011/07/20/y-kenia-que-eh/</link>
+      <pubDate>Wed, 20 Jul 2011 07:14:30 +0000</pubDate>
+      
+      <guid>/2011/07/20/y-kenia-que-eh/</guid>
+      <description>—Sí, ya sabemos que en EE.UU. e Inglaterra las cosas son distintas, pero nosotros semos mediterráneos y tenemos sol y aceite de oliva.
+—Además, uno siempre puede comprar la publicación España en cifras en las librerías Índice a un precio popular establecido anualmente en el BOE (o, incluso, ¡descargarla en PDF gratis!).
+—Ejque&amp;hellip;
+Etc.
+
+Pero, y Kenia qué, ¿eh? ¿Nos vamos a dejar ganar por Kenia?</description>
+    </item>
+    
+    <item>
+      <title>Disponible el borrador de la ley de acceso a la información</title>
+      <link>/2011/07/05/disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion/</link>
+      <pubDate>Tue, 05 Jul 2011 07:56:43 +0000</pubDate>
+      
+      <guid>/2011/07/05/disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion/</guid>
+      <description>Ha sido publicado recientemente un borrador de lo que pudiera convertirse en la futura Ley de Transparencia española. Quiere esta ley regular las obligaciones de las administraciones públicas en lo concerniente a la difusión de los datos que obran en su poder y no tiene desperdicio su exposición de motivos, que comienza así:
+ El reconocimiento y garantía del derecho de los ciudadanos a acceder a la información pública es una práctica de buen gobierno.</description>
+    </item>
+    
+  </channel>
+</rss>

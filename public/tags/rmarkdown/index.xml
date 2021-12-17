@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rmarkdown on datanalytics</title>
+    <link>/tags/rmarkdown/</link>
+    <description>Recent content in rmarkdown on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 Jun 2019 09:13:46 +0000</lastBuildDate><atom:link href="/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nota para mí: usar flextable, usar flextable</title>
+      <link>/2019/06/25/nota-para-mi-usar-flextable-usar-flextable/</link>
+      <pubDate>Tue, 25 Jun 2019 09:13:46 +0000</pubDate>
+      
+      <guid>/2019/06/25/nota-para-mi-usar-flextable-usar-flextable/</guid>
+      <description>De aquí a cuando lo tenga que usar realmente, seguro que me olvido. Así que retomo el uso original de este blog, que era el de dejarme notas a mí mismo y apunto: usa [flextable](https://cran.r-project.org/package=flextable).
+¿Y por qué?, me preguntaré a mí mismo dentro de unos días. Pues por cosas como esta:
+(Claro está, salvo que alguien tenga a bien proponer una alternativa mejor).</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo preambuláis vuestros .Rmd?</title>
+      <link>/2017/06/26/como-preambulais-vuestros-rmd/</link>
+      <pubDate>Mon, 26 Jun 2017 08:13:12 +0000</pubDate>
+      
+      <guid>/2017/06/26/como-preambulais-vuestros-rmd/</guid>
+      <description>Yo nunca me había preocupado demasiado de eso (salvo en las presentaciones, para la que uso revealjs y que son otra historia), pero el otro día me pasaron y vi el efecto de
+--- title: &amp;quot;Mi título&amp;quot; author: &amp;quot;Yo Me Mí Conmigo&amp;quot; date: &#39;`r format(Sys.Date(), &amp;quot;%B %d, %Y&amp;quot;)`&#39; output: html_document: toc: true toc_float: collapsed: false smooth_scroll: false theme: united highlight: tango ---  y las cosas van a cambiar para siempre.</description>
+    </item>
+    
+    <item>
+      <title>Rmd2R: un conversor de lo que su propio nombre indica</title>
+      <link>/2016/05/25/rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica/</link>
+      <pubDate>Wed, 25 May 2016 08:13:07 +0000</pubDate>
+      
+      <guid>/2016/05/25/rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica/</guid>
+      <description>Mis clases de/con R suelen consistir en un guión que es un programa en R con muchos comentarios y ejercicios. Con el tiempo, estos últimos tienden a crecer hasta el punto de que se convierte casi en un fichero de texto comentado con aspersión —en su acepción no-DRAE de efecto— de líneas de código.
+Mejor, me he dicho recientemente, usar Rmarkdown.
+Pero Rmarkdown sirve para lo que sirve: como fuente para compilar ficheros pensados para ser leídos por seres humanos.</description>
+    </item>
+    
+    <item>
+      <title>Rmarkdown en el panel principal de Shiny</title>
+      <link>/2016/04/28/rmarkdown-en-el-panel-principal-de-shiny/</link>
+      <pubDate>Thu, 28 Apr 2016 08:13:26 +0000</pubDate>
+      
+      <guid>/2016/04/28/rmarkdown-en-el-panel-principal-de-shiny/</guid>
+      <description>Comparto con mis lectores un experimento de esta misma mañana: cómo insertar en el panel principal de Shiny un documento generado con Rmarkdown. Que, por supuesto, cambia según se seleccionen unos u otros parámetros en Shiny.
+Es un ejemplo sencillo, estúpido, sin comentarios, desordenado y, en resumen, muy mejorable. Puede descargarse de aquí.
+El truco es de los sucios:
+ * En `server.R` se guardan los parámetros que envía `ui.R` en un fichero _de intercambio_ con `save`.</description>
+    </item>
+    
+    <item>
+      <title>R Markdown a la Tufte</title>
+      <link>/2014/12/05/r-markdown-a-la-tufte/</link>
+      <pubDate>Fri, 05 Dec 2014 07:13:44 +0000</pubDate>
+      
+      <guid>/2014/12/05/r-markdown-a-la-tufte/</guid>
+      <description>El Sr. Tufte debiera ser un conocido de los habituales de estas páginas. Los desavisados siempre pueden ponerse al día aquí.
+El Sr. Tufte escribe libros. Los escribe, los edita, los publica y creo que hasta los vende él solo. No puede ser de otra manera. Mensaje, texto, tipografía, maquetación, gráficos, los elementos todos de sus libros, en cada una de sus páginas, están combinados y medidos hasta el menor de los detalles.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contratos on datanalytics</title>
+    <link>/tags/contratos/</link>
+    <description>Recent content in contratos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 04 May 2017 08:13:29 +0000</lastBuildDate><atom:link href="/tags/contratos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contratos por diffs</title>
+      <link>/2017/05/04/contratos-por-diffs/</link>
+      <pubDate>Thu, 04 May 2017 08:13:29 +0000</pubDate>
+      
+      <guid>/2017/05/04/contratos-por-diffs/</guid>
+      <description>Hace unos días recibí de mi banco una actualización del contrato general de prestación de servicios. El nuevo contrato es un PDF de 76 páginas, más largo y mucho más farragoso —diríase que redactado por abogados aficionados a Benet— que, por ejemplo, la vigente constitución española.
+Nadie va a leer eso. Y menos, entenderlo. Pero seguro que contiene puntos referidos a nuestra información personal y el uso que pueden hacer de ella, nos ata a draconieces, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

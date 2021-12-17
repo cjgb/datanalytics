@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>charlas on datanalytics</title>
+    <link>/categories/charlas/</link>
+    <description>Recent content in charlas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 16 Nov 2020 09:13:00 +0000</lastBuildDate><atom:link href="/categories/charlas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inferencia causal: entrevista a Pearl (el 2020-11-17, es decir, mañana)</title>
+      <link>/2020/11/16/inferencia-causal-entrevista-a-pearl-el-2020-11-17/</link>
+      <pubDate>Mon, 16 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/16/inferencia-causal-entrevista-a-pearl-el-2020-11-17/</guid>
+      <description>No suelo hacer anuncios de eventos de terceros, pero este puede ser del interés de muchos dado, en particular, el creciente interés por las cuestiones causales. Se trata de una entrevista a Judea Pearl que tendrá lugar el día 2020-11-17 (mañana, a la hora de escribir esto) y que se retransmitirá vía Zoom.
+Los detalles para los interesados, aquí.</description>
+    </item>
+    
+    <item>
+      <title>Las diapositivas de mi charla sobre sobredispersión en modelos de Poisson, disponibles</title>
+      <link>/2020/09/28/las-diapositivas-de-mi-charla-sobre-sobredispersion-en-modelos-de-poisson-disponibles/</link>
+      <pubDate>Mon, 28 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/28/las-diapositivas-de-mi-charla-sobre-sobredispersion-en-modelos-de-poisson-disponibles/</guid>
+      <description>Están aquí.
+Dos aclaraciones:
+ El tipo de letra que uso es Windsor en homenaje a Woody Allen. * Las presentaciones las construyo con una versión tuneada y ad hoc de [revealjs](https://github.com/rstudio/revealjs).  </description>
+    </item>
+    
+    <item>
+      <title>Charla sobre cosas que no te han contado sobre le modelo de Poisson (y de paso, el logístico)</title>
+      <link>/2020/09/16/charla-sobre-cosas-que-no-te-han-contado-sobre-le-modelo-de-poisson-y-de-paso-el-logistico/</link>
+      <pubDate>Wed, 16 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/16/charla-sobre-cosas-que-no-te-han-contado-sobre-le-modelo-de-poisson-y-de-paso-el-logistico/</guid>
+      <description>Este es un anuncio de una charla que daré este viernes (2020-09-18) dentro del congreso virtual EncuentRos en la fase R. Ni que decir tiene que los detalles logísticos pueden consultarse en el enlace anterior.
+Hablaré de cuestiones relativas al modelo de Possion (gran parte de las cuales pueden trasladarse también al logístico) de las que se habla poco y sobre las que la teoría que uno tropieza por ahí no es del todo clara pero que se manifiestan claramente en datos como los de la monitorización de la mortalidad, que será discutida también de pasada.</description>
+    </item>
+    
+    <item>
+      <title>Charla (mía) sobre impacto causal mañana viernes 24</title>
+      <link>/2020/04/23/charla-mia-sobre-impacto-causal-manana-viernes-24/</link>
+      <pubDate>Thu, 23 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/23/charla-mia-sobre-impacto-causal-manana-viernes-24/</guid>
+      <description>Toda la info, aquí (¡es Facebook!). (Y cuidado con la hora anunciada: ¡es la de Perú! En España será&amp;hellip; de madrugada: de 2:00 a 3:00&amp;hellip; por un pequeño error de cálculo.)</description>
+    </item>
+    
+    <item>
+      <title>satRday... ¡en Santiago de Compostela!</title>
+      <link>/2020/02/28/satrday-en-santiago-de-compostela/</link>
+      <pubDate>Fri, 28 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/28/satrday-en-santiago-de-compostela/</guid>
+      <description>Los (o ciertos) usuarios de R de Galicia están organizando una conferencia alrededor del mundo R de la mano de satRdays. Serán el sábado 12 de septiembre (de 2020) y los interesados en saber más al respecto, harán bien en visitar esta página.
+De todos modos, si quieres presentar una charla o taller, el plazo límite parece ser el día 15 de abril.</description>
+    </item>
+    
+    <item>
+      <title>Platón en el estercolero</title>
+      <link>/2020/02/21/platon-en-el-estercolero/</link>
+      <pubDate>Fri, 21 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/21/platon-en-el-estercolero/</guid>
+      <description>Hoy nos han hablado unos matemáticos. Sí, de esos cuyas distribuciones extremales son Pareto porque yo lo valgo.
+Alguien, que no yo, ha osado preguntar qué tal ajustaban los modelos. La respuesta, perifrástica nivel Yes, Minister, se resumía en un nos encantaría haber tenido ocasión de comprobarlo.
+Efectivamente, las probabilidades son subjetivas en tanto que financiadas por la Fundación La Caixa.</description>
+    </item>
+    
+    <item>
+      <title>Rebaños de modelos: el resumen</title>
+      <link>/2020/01/08/rebanos-de-modelos-el-resumen/</link>
+      <pubDate>Wed, 08 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/08/rebanos-de-modelos-el-resumen/</guid>
+      <description>La última entrada del año pasado anunciaba una charla que impartí en el Coding Club de la UC3M.
+[Nota: considerad asistir a las sesiones. No solo invitan a comer a los asistentes, sino que son excelentes en forma y fondo.]
+Y aquí está el resumen. Un resumen, advierto, casi de la misma escala que el famoso mapa del relato de Borges.</description>
+    </item>
+    
+    <item>
+      <title>Charla en el CodingClub de la UC3M este martes</title>
+      <link>/2019/12/16/charla-en-el-codingclub-de-la-uc3m-este-martes/</link>
+      <pubDate>Mon, 16 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/16/charla-en-el-codingclub-de-la-uc3m-este-martes/</guid>
+      <description>Este martes 17 de diciembre hablaré durante una hora sobre (cierto tipo de) big data y modelos adecuados para modelizarlos en el CodingClub de la Universidad Carlos III.
+ El contenido de la charla, entiendo, se publicará también después en el blog del CodingClub. * Los detalles (sitio, hora, etc.) están en el enlace indicado más arriba. * Obviamente, agradezco a los organizadores del CodingClub por haberme invitado. Espero no estar arrepentido el martes por la tarde de lo siguiente: es el ciclo de charlas sobre _cosas relacionadas con datos _más seria y mejor organizada que conozco.</description>
+    </item>
+    
+    <item>
+      <title>Charlas en Alicante, julio de 2019</title>
+      <link>/2019/05/16/charlas-en-alicante-julio-de-2019/</link>
+      <pubDate>Thu, 16 May 2019 09:13:54 +0000</pubDate>
+      
+      <guid>/2019/05/16/charlas-en-alicante-julio-de-2019/</guid>
+      <description>Este mes de julio, entre los días 10 y 12, participaré como ponente en dos charlas encuadradas en los Cursos de Verano de la Universidad de Alicante &amp;ldquo;Rafael Altamira&amp;rdquo; y en las que se discutirá el papel de los matemáticos en la sociedad (aunque parece que el énfasis recae en el aspecto económico y empresarial). Según los organizadores:
+La información adicional para interesados está aquí.</description>
+    </item>
+    
+    <item>
+      <title>Charla (mía) el día de pi (de 2019) en Elche</title>
+      <link>/2019/03/11/charla-mia-el-dia-de-pi-de-2019-en-elche/</link>
+      <pubDate>Mon, 11 Mar 2019 08:13:26 +0000</pubDate>
+      
+      <guid>/2019/03/11/charla-mia-el-dia-de-pi-de-2019-en-elche/</guid>
+      <description>Los detalles logísticos, en
+Hablaré de lo de casi siempre: que pese a los cantos de sirena que se oyen en la profesión (predecir por encima de todo, xgbost es el único dios y caret su profeta, etc.) existen muchos problemas reales (de los que dan de comer) donde es necesario modelar la estructura subyacente de los datos con mucho mimo. Eso más la descripción detallada de un proyecto bastante sofisticado en el que ando metido.</description>
+    </item>
+    
+    <item>
+      <title>Charla: predicciones y decisiones, más allá de los errores cuadráticos</title>
+      <link>/2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/</link>
+      <pubDate>Wed, 28 Nov 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/</guid>
+      <description>El próximo 29 de noviembre (de 2018) de febrero daré una charla dentro del ciclo de Data Konferences de Kschool.
+Para la mía han creado el siguiente cartelito:
+El resumen que preparé es:
+Los detalles espaciotemporales y otras concomitancias relevantes para los asistentes pueden consultarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>Hoy he asistido a un &#34;evento&#34; sobre ciencia de datos en Cabify: dos partes y una reflexión</title>
+      <link>/2018/09/28/hoy-he-asistido-a-un-evento-sobre-ciencia-de-datos-en-cabify-dos-partes-y-una-reflexion/</link>
+      <pubDate>Fri, 28 Sep 2018 08:13:56 +0000</pubDate>
+      
+      <guid>/2018/09/28/hoy-he-asistido-a-un-evento-sobre-ciencia-de-datos-en-cabify-dos-partes-y-una-reflexion/</guid>
+      <description>La primera parte Métodos sofisticados (técnica, metodológicamente) para hacer más eficiente la movilidad urbana. Nowcasts en lugar de forecasts (¡genial!), técnicas de NPL aplicadas en otros contextos (¡bien!), vector embeding) (hummmm&amp;hellip;),&amp;hellip; y, en general un derroche de talento para conseguir hacer más con menos (y, por el camino, ganar algo de dinero, por supuesto).
+La segunda parte Con pizza y cerveza y en petit comité, cómo todo eso puede desaparecer de un plumazo de los que se publican en el BOE por obra y gracia de la caverna.</description>
+    </item>
+    
+    <item>
+      <title>X Jornadas de Usuarios de R: ¡abiertas las inscripciones!</title>
+      <link>/2018/09/20/x-jornadas-de-usuarios-de-r-abiertas-las-inscripciones/</link>
+      <pubDate>Thu, 20 Sep 2018 08:13:37 +0000</pubDate>
+      
+      <guid>/2018/09/20/x-jornadas-de-usuarios-de-r-abiertas-las-inscripciones/</guid>
+      <description>Nada que añadir a:</description>
+    </item>
+    
+    <item>
+      <title>Hoy estoy participando en un evento sobre &#34;big data&#34;</title>
+      <link>/2018/06/20/hoy-estoy-participando-en-un-evento-sobre-big-data/</link>
+      <pubDate>Wed, 20 Jun 2018 12:40:57 +0000</pubDate>
+      
+      <guid>/2018/06/20/hoy-estoy-participando-en-un-evento-sobre-big-data/</guid>
+      <description>Hoy estoy participando en la mesa redonda que cierra este evento. Espero dejar claro, cuando menos:
+ * Qué quiere decir un cliente cuando dice que necesita _big data_: excel no da más de sí, tenemos a la gente copiando y el valor de una celda de aquí y pegándolo en un correo allá, etc. * Qué quiere (o debería querer) decir un consultor cuando vende _big data_: te voy a ayudar a automatizar ciertas tareas que tienen que ver con datos.</description>
+    </item>
+    
+    <item>
+      <title>Hay bulos, sí, pero la pregunta es: ¿qué hacer?</title>
+      <link>/2018/03/12/hay-bulos-si-pero-la-pregunta-es-que-hacer/</link>
+      <pubDate>Mon, 12 Mar 2018 08:13:52 +0000</pubDate>
+      
+      <guid>/2018/03/12/hay-bulos-si-pero-la-pregunta-es-que-hacer/</guid>
+      <description>Ayer asistí a una charla, Pseudociencia en la red: la pandemia de bulos y rumores que nos amenaza en la que se habló mucho del qué (qué bulos circulan, dónde se ubican, cómo se difunden, etc.) un poco del quiénes (separando un nosotros, los racionales/racionalistas, de una masa de tamaño indefinido de gentes susceptibles a un pensamiento mágico) y casi nada del qué hacer. Así que formulé una pregunta que reproduzco aquí por si a alguien le apetece darle vueltas.</description>
+    </item>
+    
+    <item>
+      <title>Charla: las *-metrías en la práctica de la ciencia de datos: el papel de la teoría</title>
+      <link>/2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/</link>
+      <pubDate>Fri, 26 Jan 2018 08:13:21 +0000</pubDate>
+      
+      <guid>/2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/</guid>
+      <description>El próximo 8 de febrero daré una charla dentro del ciclo de Data Konferences.
+Para la mía han creado el siguiente cartelito:
+El resumen que preparé es:
+Los detalles espaciotemporales y otras concomitancias relevantes para los asistentes pueden consultarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>La estadística (y la ingenería, y la medicina, y...) es una tecnología</title>
+      <link>/2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/</link>
+      <pubDate>Mon, 09 Oct 2017 08:13:34 +0000</pubDate>
+      
+      <guid>/2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/</guid>
+      <description>Abundo aquí en un punto polémico de mi charla de Pamplona: el que define la estadística como una tecnología (bajo una definición bastante particular de ella).
+Pero es conveniente comenzar por el concepto de técnica. Que el DRAE define horripilantemente:
+Y no, no, no&amp;hellip; No solo las ciencias o las artes se sirven de técnicas para alcanzar sus fines. También los homeópatas, los curanderos, los chamanes, los echadores de cartas, etc.</description>
+    </item>
+    
+    <item>
+      <title>Estadística, ciencia de datos y la revalorización del no</title>
+      <link>/2017/09/27/estadistica-ciencia-de-datos-y-la-revalorizacion-del-no/</link>
+      <pubDate>Wed, 27 Sep 2017 08:13:35 +0000</pubDate>
+      
+      <guid>/2017/09/27/estadistica-ciencia-de-datos-y-la-revalorizacion-del-no/</guid>
+      <description>Ya están disponibles las diapositivas de mi charla del lunes.
+En los próximos días iré desarrollando algunas de las ideas, prometo que para nada estándares, que recorre en estas páginas. Les pondré un par de rombos en la esquina para avisar de que pueden resultar (lo comprobé el lunes aunque no entiendo por qué) ofensivas para personas de cierto perfil.</description>
+    </item>
+    
+    <item>
+      <title>Charla en Pamplona</title>
+      <link>/2017/09/25/charla-en-pamplona/</link>
+      <pubDate>Mon, 25 Sep 2017 08:13:47 +0000</pubDate>
+      
+      <guid>/2017/09/25/charla-en-pamplona/</guid>
+      <description>A la hora en que se publiquen estas líneas estaré llegando a Pamplona para participar como ponente en la jornada ¿Es la estadística una parte significativa de la ciencia de datos? organizada por el InaMat en la Universidad Pública de Navarra.
+La invitación ha sido una oportunidad (que agradezco muchísimo) para reflexionar sobre la problemática relación entre estadística y ciencia de datos y tratando de ser, por una vez, constructivo. A pesar de ello, mi ponencia llevará por título Estadística y Ciencia de Datos: la revalorización del “no”, que sugiere lo contrario.</description>
+    </item>
+    
+    <item>
+      <title>IX Jornadas de Usuarios de R en Granada: ¡recordatorio!</title>
+      <link>/2017/09/04/ix-jornadas-de-usuarios-de-r-en-granada-recordatorio/</link>
+      <pubDate>Mon, 04 Sep 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/09/04/ix-jornadas-de-usuarios-de-r-en-granada-recordatorio/</guid>
+      <description>Primera entrada del nuevo curso. Que lo es para recordaros que las XI Jornadas de Usuarios de R están en marcha.
+Y que buscan asistentes y ponentes. Así que, ¿nos veremos por allá?</description>
+    </item>
+    
+    <item>
+      <title>La anticonferencia: una idea que me ronda la cabeza</title>
+      <link>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</link>
+      <pubDate>Mon, 12 Jun 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</guid>
+      <description>La anticonferencia me ronda la cabeza.
+No es una conferencia, (de ahí el prefijo), aunque se parezca a ella en lo de reunir a un grupillo de gente interesada en un asunto.
+No es un jacatón. Los jacatones están, sobre el papel, bien; pero demasiado a menudo su producto se queda ahí, tiene poca (o nula) trayectoria o impacto. ¿Me dejáis que diga que son mayormente intranscendentes?
+Pero creo que los de rOpenSci dieron en el clavo con su Unconference.</description>
+    </item>
+    
+    <item>
+      <title>Diapositivas sobre mi charla acerca del &#34;stack analítico&#34;</title>
+      <link>/2017/05/15/diapositivas-sobre-mi-charla-acerca-del-stack-analitico/</link>
+      <pubDate>Mon, 15 May 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/05/15/diapositivas-sobre-mi-charla-acerca-del-stack-analitico/</guid>
+      <description>Tuve ocasión el pasado jueves, en Barcelona y gracias a la invitación de KSchool, de lo que llamo el stack analítico. Es decir, de aquellas herramientas tecnológicas necesarias para poder hacer ciencia de datos hoy en día.
+Las diapositivas de la charla están aquí.
+El tema es viejo pero no por ello menos urgente: existen herramientas (y, desgraciadamente, me he visto a incluir el saber leer documentación técnica en inglés) cuyo conocimiento es imperativo para poder trabajar de manera efectiva en ciencia de datos.</description>
+    </item>
+    
+    <item>
+      <title>Charla en Barcelona: Si yo fuera rey...</title>
+      <link>/2017/05/03/charla-en-barcelona-si-yo-fuera-rey/</link>
+      <pubDate>Wed, 03 May 2017 08:13:51 +0000</pubDate>
+      
+      <guid>/2017/05/03/charla-en-barcelona-si-yo-fuera-rey/</guid>
+      <description>El día 11 (ISO: 2017-05-11) hablo en Barcelona.
+El título, Si yo fuese rey, todo el mundo sabría programar: R para el profesional de los datos del s. XXI.
+En el enlace anterior, más datos sobre el lugar y las circunstancias.</description>
+    </item>
+    
+    <item>
+      <title>Disponibles las diapositivas de mi charla en el EL BetaBeers Madrid (especial opendata)</title>
+      <link>/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/</link>
+      <pubDate>Fri, 17 Mar 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/</guid>
+      <description>El anuncio de la charla es este y las diapositivas de lo que titulé ¿Son suficientes los datos abiertos? están disponibles aquí.
+Como viene siendo tradicional (más que original) en mis charlas, las diapositivas consisten esencialmente en fotos. Así que son de poca utilidad sin el texto que no las acompaña. Igual saco rato la semana que entra y lo resumo por aquí.</description>
+    </item>
+    
+    <item>
+      <title>Daré una charla en el Betabeers Madrid (especial OpenData)</title>
+      <link>/2017/03/10/dare-una-charla-en-el-betabeers-madrid-especial-opendata/</link>
+      <pubDate>Fri, 10 Mar 2017 08:13:13 +0000</pubDate>
+      
+      <guid>/2017/03/10/dare-una-charla-en-el-betabeers-madrid-especial-opendata/</guid>
+      <description>Es el 16 de marzo (de 2017), es decir, el jueves que viene y estaré muy bien acompañado, como puede comprobarse en el programa.
+Aunque aún no indique ahí de qué hablaré, tengo la presentación hecha a falta, únicamente del título. Adelanto únicamente que el contenido está muy condicionado por lo que rematará la reunión, una mesa redonda sobre los datos abiertos en Madrid.</description>
+    </item>
+    
+    <item>
+      <title>Diapositivas de &#34;Antikaggle: contra la homeopatía de datos&#34;</title>
+      <link>/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/</link>
+      <pubDate>Mon, 13 Feb 2017 08:13:14 +0000</pubDate>
+      
+      <guid>/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/</guid>
+      <description>He colgado las diapositivas de Antikaggle: contra la homeopatía de datos. Sobre todo, para que aquellos que aún conserven la pasión por saber más puedan visitar los enlaces que recopilé y que figuran en ella.
+El vídeo, se dice, aparecerá pronto. Sin él, las diapositivas, puro soporte visual, quedan huérfanas.
+Tema, tono y contenid son premeditadamente polémicos; las consecuencias, previsibles. Fe de ello dan los comentarios de los asistentes.</description>
+    </item>
+    
+    <item>
+      <title>Nueva charla: &#34;Antikaggle: contra la homeopatía de datos&#34;</title>
+      <link>/2017/02/03/nueva-charla-antikaggle-contra-la-homeopatia-de-datos/</link>
+      <pubDate>Fri, 03 Feb 2017 08:13:26 +0000</pubDate>
+      
+      <guid>/2017/02/03/nueva-charla-antikaggle-contra-la-homeopatia-de-datos/</guid>
+      <description>La impartiré el día 2017-02-10 en el Campus de Google dentro del Machine Learning Spain Meetup y la he resumido así:
+Los detalles del evento, aquí.</description>
+    </item>
+    
+    <item>
+      <title>Mañana participo en el &#34;VIII Machine Learning Spain&#34;</title>
+      <link>/2015/09/22/manana-participo-en-el-viii-machine-learning-spain/</link>
+      <pubDate>Tue, 22 Sep 2015 08:13:57 +0000</pubDate>
+      
+      <guid>/2015/09/22/manana-participo-en-el-viii-machine-learning-spain/</guid>
+      <description>Por si alguien quiere acudir. Los datos, programa, etc., están aquí.
+Quienes sigan estas páginas ya saben todo lo que voy a contar. Pero como no estaré solo en el cartel&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>El vídeo de la conferencia &#34;alRededores&#34; disponible en DailyMotion</title>
+      <link>/2010/09/05/el-video-de-la-conferencia-alrededores-disponible-en-dailymotion/</link>
+      <pubDate>Sun, 05 Sep 2010 22:34:22 +0000</pubDate>
+      
+      <guid>/2010/09/05/el-video-de-la-conferencia-alrededores-disponible-en-dailymotion/</guid>
+      <description>Como nunca conseguí ver el vídeo de la conferencia que di en las I Jornadas de Usuarios de R en noviembre del 2009 directamente desde los servidores de la Universidad de Murcia, lo he subido a DailyMotion. Los 60 minutos de la conferencia están partidos en tres partes que pueden verse consecutivamente aquí.
+Nota: al final de cada parte aparece un enlace para continuar a la siguiente.</description>
+    </item>
+    
+    <item>
+      <title>febRero</title>
+      <link>/2010/02/26/febrero/</link>
+      <pubDate>Fri, 26 Feb 2010 07:25:43 +0000</pubDate>
+      
+      <guid>/2010/02/26/febrero/</guid>
+      <description>Nada he publicado durante el mes de febrero en el blog. Pareciese que no estaba en el mundo. Estaba, sí, pero en otra parte, muy hermosa, de él. Y de parte de mis hechos da cuenta el siguiente afiche:
+
+Como en él indica, en el Departamento de Estadística de la Universidad Nacional de Medellín tuvieron la gentileza de invitarme a dar de nuevo la conferencia que impartí en las I Jornadas de Usuarios de R en España.</description>
+    </item>
+    
+  </channel>
+</rss>

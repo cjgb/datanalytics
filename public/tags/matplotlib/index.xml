@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matplotlib on datanalytics</title>
+    <link>/tags/matplotlib/</link>
+    <description>Recent content in matplotlib on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 16 Apr 2015 08:13:26 +0000</lastBuildDate><atom:link href="/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todo por no RTFM (o cómo usar matplotlib con R)</title>
+      <link>/2015/04/16/todo-por-no-rtfm-o-como-usar-matplotlib-con-r/</link>
+      <pubDate>Thu, 16 Apr 2015 08:13:26 +0000</pubDate>
+      
+      <guid>/2015/04/16/todo-por-no-rtfm-o-como-usar-matplotlib-con-r/</guid>
+      <description>Quien escribió Call matplotlib from R podía haberse ahorrado bastante trabajo de la peor especie (programación de bajo nivel con C++) leyendo los benditos manuales (de [rPython](http://cran.r-project.org/web/packages/rPython/index.html), en este caso).
+Le bastaba hacer
+library(rPython) x &amp;lt;- seq(0, 2*pi, length = 100) sx &amp;lt;- sin(x) cx &amp;lt;- cos(x) python.assign(&amp;quot;x&amp;quot;, x) python.assign(&amp;quot;sx&amp;quot;, sx) python.assign(&amp;quot;cx&amp;quot;, cx) python.exec(&amp;quot;import matplotlib.pyplot as plt&amp;quot;) python.exec(&amp;quot;plt.rcParams.update({&#39;figure.figsize&#39; : (7,4)})&amp;quot;) python.exec(&amp;quot;plt.plot(x, sx)&amp;quot;) python.exec(&amp;quot;plt.plot(x, cx, &#39;--r&#39;, linewidth=2) &amp;quot;) python.exec(&amp;quot;plt.legend((&#39;sin(x)&#39;, &#39;cos(x)&#39;))&amp;quot;) python.exec(&amp;quot;plt.savefig(&#39;2015-04-02-pyplot.png&#39;)&amp;quot;)  para obtener</description>
+    </item>
+    
+  </channel>
+</rss>

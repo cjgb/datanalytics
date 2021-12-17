@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>r - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="r" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/r/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/r/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">r</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/11/16/colinealidad-y-posterioris/" rel="bookmark">
+			Colinealidad y posterioris
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-11-16T08:13:33Z">2018-11-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En esta entrada voy a crear un conjunto de datos donde dos variables tienen una correlación muy alta, ajustar un modelo de regresión y obtener la siguiente representación de la distribución a posteriori de los coeficientes,
+donde se aprecia el efecto de la correlación entre x1 y x2.
+El código,
+library(mvtnorm) library(rstan) library(psych) n &lt;- 100 corr_coef &lt;- .9 x &lt;- rmvnorm(n, c(0, 0), sigma = matrix(c(1, corr_coef, corr_coef, 1), 2, 2)) plot(x) x1 &lt;- x[,1] x2 &lt;- x[,2] x3 &lt;- runif(n) - 0.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/11/08/siguen-votando-igual-los-diputados/" rel="bookmark">
+			¿Siguen votando igual los diputados?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-11-08T08:13:19Z">2018-11-8</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hace seis años escribí esto. Hoy actualizo aquella entrada para crear
+Y, por supuesto, el código (que he tenido que reescribir en gran medida):
+library(xml2) library(reshape2) library(plyr) # descarga y manipulación de datos dia_votacion &lt;- function(n.votacion){ dir.create(&quot;tmp&quot;) url &lt;- paste(&quot;https://app.congreso.es/votacionesWeb/OpenData?sesion=&quot;, n.votacion, &quot;&amp;completa;=1&amp;legislatura;=12&quot;, sep = &quot;&quot;) download.file( url, destfile = &quot;./tmp/votos.zip&quot;) try(unzip(&quot;./tmp/votos.zip&quot;, exdir = &quot;./tmp&quot;), TRUE) ficheros &lt;- dir(&quot;./tmp&quot;, pattern = &quot;.*xml&quot;, full.names = T) if (length(ficheros) == 0) return(NULL) res &lt;- lapply(ficheros, function(fichero){ print(fichero) datos &lt;- as_list(read_xml(fichero)) sesion &lt;- datos$Resultado$Informacion$Sesion numero &lt;- datos$Resultado$Informacion$NumeroVotacion try(datos &lt;- ldply(datos$Resultado$Votaciones, unlist), TRUE) if (class(datos) == &quot;try-error&quot;) return(NULL) if (class(datos) !
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/11/05/cuatro-paquetes-interesantes-de-r/" rel="bookmark">
+			Cuatro paquetes interesantes de R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-11-05T08:13:50Z">2018-11-5</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Son paquetes que marcado como potencialmente relevantes pero que aún no he revisado como debiera. Tal vez alguien tenga algo más que decir sobre ellos. Tiene los comentarios, por supuesto, abiertos.
+longRPart2: Particionamiento recursivo para modelos longitudinales. Extiende ctree y, por supuesto, mob del paquete party a datos de tipo longitudinal.
+radiant: Más que un paquete, es un conjunto de paquetes para business analytics usando R y Shiny. Ni idea de para qué parte de ese amplio campo del business analytics puede resultar útil, pero si resulta que es precisamente el tuyo, ¡enhorabuena!
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/10/29/enlaces-parasociologicos/" rel="bookmark">
+			Enlaces parasociológicos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-10-29T08:13:21Z">2018-10-29</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Tenía tan bien guardados en el disco duro una serie de enlaces de interés parasociológico que no había forma humana de dar con ellos.
+Para que no me vuelva a pasar y por su potencial interés para otros, los cuelgo aquí.
+El primero de ellos (que no sé por qué lo guardé) son las diapositivas de una charla acerca de cómo transformar porcentajes de votos en escaños en España.
+Los otros tres se refieren a la metodología que utiliza la gente de electionforecast.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/10/08/extingamonos-con-dignidad-generaciones-actuales-y-futuras-no-incurramos-en-los-errores-de-las-anteriores/" rel="bookmark">
+			Extingámonos con dignidad: generaciones actuales y futuras, no incurramos en los errores de las anteriores
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-10-08T08:13:43Z">2018-10-8</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Participé el otro día en una cena con gente friqui. Constaté con cierto desasosiego cómo han virado los sujetos pasivos de nuestra indignación profesional a lo largo de los años.
+Antaño, fueron los viejos que seguían apegados a la paleoinformática. Hogaño, los primíparos que usan Python y desdeñan R.
+Tengo sentimientos encontrados y no sé qué más añadir.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/10/04/embeddings-y-analisis-del-carrito-de-la-compra/" rel="bookmark">
+			&#34;Embeddings&#34; y análisis del carrito de la compra
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-10-04T08:13:34Z">2018-10-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/consultor%C3%ADa/" rel="category">consultoría</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Escribiendo la entrada del otro día sobre embeddings, no se me pasó por alto que la fórmula
+$latex \frac{P(W_i,C_i)}{P(W_i)P(C_i)}$
+que escribí en ella es análoga al llamado lift (¿es el lift?) del llamado análisis del carrito de la compra, i.e., el estudio de productos que tienden a comprarse juntos (véase, por ejemplo, esto).
+Lo cual me lleva a sugerir mas no escribir una entrada en la que se rehagan este tipo de análisis usando embeddings: los ítems como palabras, los carritos como textos, etc.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/10/02/planes-de-busqueda-y-rescate-con-r/" rel="bookmark">
+			Planes de búsqueda y rescate con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-10-02T13:09:10Z">2018-10-2</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Existe un paquete muy curioso en CRAN, [rSARP](https://cran.r-project.org/package=rSARP) para diseñar, optimizar y comunicar la evolución de planes de búsqueda y/o rescate (p.e., de un niño desaparecido en un monte).
+Es particularmente interesante porque este tipo de problemas lo tienen todo: desde distribuciones a priori (sobre dónde es más probable encontrar lo que se busca) hasta la decisión final (explórese tanto aquí y tanto allá) teniendo en cuenta restricciones de tiempo y recursos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/09/25/disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad/" rel="bookmark">
+			Disponible el fichero de datos abiertos más goloso de ambas castillas: las rutas de Bicimad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-09-25T08:13:27Z">2018-9-25</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Albricias, el ayuntamiento de Madrid ha liberado el fichero más goloso de ambas castillas: el de las rutas de usuarios de Bicimad, viaje a viaje, con su estación de origen, estación de destino, tiempo de recorrido, etc. Tiempo os falta para echarle un vistazo y hacer cosas chulas con él.
+Los datos están aquí.
+Se puede leer con código no muy distinto de este:
+library(RJSONIO) raw &lt;- readLines(&quot;201808_Usage_Bicimad.json&quot;) dat &lt;- iconv(raw, &quot;latin1&quot;, &quot;utf8&quot;) dat &lt;- sapply(dat, fromJSON)  A bote pronto, se me ocurren algunas cosas que se pueden hacer con esos datos:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/09/20/x-jornadas-de-usuarios-de-r-abiertas-las-inscripciones/" rel="bookmark">
+			X Jornadas de Usuarios de R: ¡abiertas las inscripciones!
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-09-20T08:13:37Z">2018-9-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/anuncios/" rel="category">anuncios</a>, <a class="meta__link" href="/categories/charlas/" rel="category">charlas</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Nada que añadir a:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/09/18/los-datos-estan-histogramizados-quien-los-deshisotogramizara/" rel="bookmark">
+			Los datos están histogramizados... ¿quién los deshisotogramizará?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-09-18T08:13:51Z">2018-9-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dinamarca. Pero los datos estaban histogramizados:
+Gracias a Freakonometrics di con binequality. Adaptando su código, escribo
+library(rvest) library(plyr) dk &lt;- read_html(&quot;http://www.skm.dk/english/facts-and-figures/progression-in-the-income-tax-system&quot;) tmp &lt;- html_nodes(dk, &quot;table&quot;) tmp &lt;- html_table(tmp[[2]]) header &lt;- tmp[1,] tmp &lt;- tmp[-c(1, 2),] colnames(tmp) &lt;- header # elimino declaraciones negativas tmp &lt;- tmp[-1,] # elimino el total tmp &lt;- tmp[-(nrow(tmp)),] colnames(tmp) &lt;- c(&quot;rango&quot;, &quot;contribuyentes&quot;, &quot;X1&quot;, &quot;income&quot;, &quot;tax1&quot;, &quot;tax2&quot;, &quot;pct&quot;) irpf_dk &lt;- tmp[, c(&quot;rango&quot;, &quot;contribuyentes&quot;, &quot;income&quot;, &quot;tax1&quot;, &quot;tax2&quot;)] irpf_dk$contribuyentes &lt;- as.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/09/13/contraargumentando-materialmente-sobre-la-falacia-del-fiscal/" rel="bookmark">
+			Contraargumentando (materialmente) sobre la falacia del fiscal
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-09-13T08:13:23Z">2018-9-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hace un par de días hablé de la falacia del fiscal y granos de arroz. La entrada iba acompañada de
+y la lección era: es raro no encontrar ningún clúster cuando se tiran al azar granos de arroz sobre una superficie. De lo que se derivaban más cosas que es ocioso repetir aquí.
+Pero el gráfico no es desconocido para los viejos del lugar: se parece mucho al de la página 319 de ESL.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/09/10/series-temporales-y-motifs/" rel="bookmark">
+			Series temporales y &#34;motifs&#34;
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-09-10T08:13:53Z">2018-9-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Un motif es un patrón que se repite en una serie temporal:
+Para saber más sobre ellos, p.e., Finding Motif Sets in Time Series. Y para identificarlos con R, STMotif.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/07/25/por-que-slt-ear-si-puedes-str-ear/" rel="bookmark">
+			¿Por que slt-ear si puedes stR-ear?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-07-25T08:13:42Z">2018-7-25</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		La función stl (véase aquí un ejemplo de uso). Pero tiene sus limitaciones.
+El paquete stR la extiende y permite, entre otras cosas, introducir distintos tipos de estacionalidades (p.e., anuales y semanales).
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/tags/r/page/7/">«</a>
+	<span class="pagination__item pagination__item--current">8/51</span>
+	<a class="pagination__item pagination__item--next btn" href="/tags/r/page/9/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>postgis on datanalytics</title>
+    <link>/tags/postgis/</link>
+    <description>Recent content in postgis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 14 Nov 2013 11:43:43 +0000</lastBuildDate><atom:link href="/tags/postgis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curso de mapas en línea para principiantes</title>
+      <link>/2013/11/14/curso-de-mapas-en-linea-para-principiantes/</link>
+      <pubDate>Thu, 14 Nov 2013 11:43:43 +0000</pubDate>
+      
+      <guid>/2013/11/14/curso-de-mapas-en-linea-para-principiantes/</guid>
+      <description>Cuando me preguntan por Vizzuality siempre digo lo mismo: juegan en otra liga. Y no, no me han pagado jamás una cena. Solo los he seguido por las redes sociales, me los he tropezado en charlas, etc. Y se nota.
+Aparte de servicios, han creado productos. Y uno de los más conocidos (y útiles) es CartoDB para la creación de mapas en línea. Tiene como motor PostGIS y Vizzuality le ha añadido capas adicionales para la representación de mapas e información sobre ellos.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>r - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="r" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/categories/r/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/categories/r/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">r</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/28/mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/" rel="bookmark">
+			Más sobre el consumo alimentario mensual en los hogares españoles en R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-28T09:13:00Z">2020-4-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		He actualizado el repositorio que anuncié aquí, es decir, este, con una función adicional cuya razón de ser es la siguiente:
+ El ministerio de la cosa hace una encuesta sobre hábitos de compra y consumo de alimentos en España. * Luego proporciona dos vistas sobre los mismos datos: * Una, en forma de ficheros .xls con más profundidad histórica, datos más recientes y menos variables. * Otra, a través de un formulario web que devuelve páginas con tablas html que tiene menos profundidad histórica, tiene un retraso mayor de publicación pero alguna variable más (p.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/27/muestreo-sensibilidad-y-especificidad/" rel="bookmark">
+			Muestreo, sensibilidad y especificidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-27T08:13:00Z">2020-4-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El bloque de código
+n_pop &lt;- 47e6 prev &lt;- .02 n_muestra &lt;- 60e3 real_sensitivity &lt;- .8 real_specificity &lt;- .995 estimated_sensitivity &lt;- .81 estimated_specificity &lt;- .99  anuncia que vamos a hablar de:
+ un país con una población no muy distinta de la de España * que sufre una pandemia con una prevalencia del 2% * en el que se realiza una selección de unos 60k sujetos * para aplicárseles unas pruebas con una sensibilidad y especificidad que pueden o no ser las que anuncia su prospecto,  supongo que para que dentro de unos años, cuando ya a nadie le importe, se publiquen unos datos que han guardado celosamente unos señores que mucho antes nos habrán regalado unos artículos científicos sobre el tema — necesariamente mediocres y que nos tendremos que creer— cuya publicación está garantizada por el mero hecho de que solo ellos tienen los CSVs mientras que la gente verdaderamente capaz, no.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/22/reduccion-de-la-dimensionalidad/" rel="bookmark">
+			Reducción de la dimensionalidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-22T09:13:00Z">2020-4-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		está extraído de aquí.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/13/regresion-tradicional-vs-multinivel/" rel="bookmark">
+			Regresión tradicional vs multinivel
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-13T09:13:00Z">2020-4-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Ayer se leía en Twitter que
+https://twitter.com/joscani/status/1249017607199621123
+Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnicas. Obviamente, hay muchos tipos de datos y supongo que los resultados variarán según qué variante se utilice. Aquí voy a centrarme en unos donde hay medidas repetidas de un factor aleatorio. También voy a situarme en un contexto académico, en el que interesan más las estimaciones de los efectos fijos, que en uno más próximo a mi mundo, la consultoría, donde son más relevantes las estimaciones regularizadas de los efectos aleatorios.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/07/spike-and-slab-otro-metodo-para-seleccionar-variables/" rel="bookmark">
+			Spike and slab: otro método para seleccionar variables
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-07T09:13:00Z">2020-4-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me sorprende ver todavía a gente utilizar técnicas stepwise para la selección de variables en modelos. Sobre todo, existiendo herramientas como elastic net o lasso.
+Otra de las técnicas disponibles es la del spike and slab (de la que oí hablar, recuerdo, por primera vez en el artículo de Varian Big Data: New Tricks for Econometrics). Es una técnica de inspiración bayesiana en cuya versión más cruda se imponen sobre las variables del modelo de regresión prioris que son una mezcla de dos distribuciones:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/04/01/consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/" rel="bookmark">
+			Consumo alimentario mensual en los hogares españoles en R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-01T09:13:00Z">2020-4-1</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Coge aire: aquí arranca una frase muy larga] Simplemente, que he creado un repositorio en GitHub para extraer información de los ficheros excel y sus muchas pestañas que componen el sistema de difusión de datos estadísticos sobre consumo de alimentos y bebidas de las familias que realiza el ministerio de como se llame ahora.
+La página de ministerio es esta; el repositorio, este.
+Nota: hay mucha información muy buena que merece ser más conocida y mejor explotada.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/27/causalimpact-me-ha-complacido-mucho/" rel="bookmark">
+			CausalImpact me ha complacido mucho
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-27T09:13:00Z">2020-3-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/consultor%C3%ADa/" rel="category">consultoría</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Estoy aquí analizando datos para un cliente interesado en estudiar si como consecuencia de uno de esos impuestos modennos con los que las administraciones nos quieren hacer más sanos y robustos. En concreto, le he echado un vistazo a si el impuesto ha encarecido el precio de los productos gravados (sí) y si ha disminuido su demanda (no) usando [CausalImpact](https://CRAN.R-project.org/package=CausalImpact) y me ha complacido mucho que la salida de summary(model, &quot;report&quot;) sea:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/26/densidades-unidimensionales-en-r/" rel="bookmark">
+			Densidades unidimensionales en R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-26T09:13:00Z">2020-3-26</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Es un asunto tangencial que, además, se soluciona las más de las veces con density. Pero parece que tiene mucha más ciencia detrás.
+Por algún motivo, acabé un día en la página del paquete [logspline](https://CRAN.R-project.org/package=logspline), que ajusta densidades usando splines. Su promesa es que puede realizar ajustes de densidades tan finos como
+que está extraído de Polynomial Splines and their Tensor Products in Extended Linear Modeling, el artículo que le sirve de base teórica.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/" rel="bookmark">
+			Casos de coronavirus en Madrid provincia: un modelo un poco menos crudo basado en la mortalidad (II)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-20T09:18:28Z">2020-3-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Nota: el código relevante sigue estando en GitHub. No es EL código sino UN código que sugiere todos los cambios que se te puedan ocurrir. Entre otras cosas, ilustra cómo de dependientes son los resultados de la formulación del modelo, cosa muchas veces obviada.]
+Continúo con la entrada de ayer, que contenía más errores que información útil respecto a objetivos y métodos.
+Los objetivos del análisis son los de obtener una estimación del número de casos activos de coronavirus en la provincia de Madrid.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/" rel="bookmark">
+			Casos de coronavirus en Madrid provincia: un modelo muy crudo basado en la mortalidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-19T17:48:07Z">2020-3-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Nota: si no sabes interpretar las hipótesis embebidas en el código que publico, que operan como enormes caveats, no hagas caso en absoluto a los resultados. He publicado esto para ver si otros que saben más que yo lo pulen y consiguen un modelo más razonable usándolo tal vez, ojalá, como núcleo.]
+[Edición: He subido el código a GitHub.]
+[El código de esta sección y los resultados contienen errores de bulto; consúltese el código de GitHub.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/19/k-vecinos-lmer/" rel="bookmark">
+			k-vecinos &#43; lmer
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-18T22:11:00Z">2020-3-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El de los k-vecinos es uno de mis métodos favoritos de modelización. Al menos, teóricamente: luego, en la práctica, es complicado construir una función de distancias decente. Pero tiene la ventaja indiscutible de ser tremendamente local: las predicciones para una observación concreta dependen únicamente de su entorno.
+[lme4::lmer](https://CRAN.R-project.org/package=lme4) (y sus derivados) es ya casi la lente a través de la que imagino cómo operan las variables dentro de un modelo. Desafortunadamente, es un modelo global y no gestiona particularmente bien las interacciones, cuando son muchas y complejas.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/18/lme4-simulate/" rel="bookmark">
+			lme4 &#43; simulate
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-18T09:13:00Z">2020-3-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Esta entrada es casi una referencia para mí. Cada vez tiro más de [lme4](https://CRAN.R-project.org/package=lme4) en mis modelos y en uno en concreto que tengo entre manos toca simular escenarios. Para lo cual, [simulate.merMod](https://www.rdocumentation.org/packages/lme4/versions/1.1-21/topics/simulate.merMod).
+Véamoslo en funcionamiento. Primero, datos (ANOVA-style) y el modelo que piden a gritos:
+library(plyr) library(lme4) a &lt;- c(0,0,0, -1, -1, 1, 1, -2, 2) factors &lt;- letters[1:length(a)] datos &lt;- ldply(1:100, function(i){ data.frame(x = factors, y = a + rnorm(length(a))) }) modelo &lt;- lmer(y ~ (1 | x), data = datos)  El resumen del modelo está niquelado:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/16/interacciones-y-seleccion-de-modelos/" rel="bookmark">
+			Interacciones y selección de modelos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-16T15:41:00Z">2020-3-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
+El modelo lineal clásico,
+$latex y \sim x_1 + x_2 + \dots$
+no tiene en cuenta las interacciones (aunque extensiones suyas, sí, por supuesto).
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/categories/r/page/2/">«</a>
+	<span class="pagination__item pagination__item--current">3/50</span>
+	<a class="pagination__item pagination__item--next btn" href="/categories/r/page/4/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

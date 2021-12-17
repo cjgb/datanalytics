@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimización on datanalytics</title>
+    <link>/tags/optimizaci%C3%B3n/</link>
+    <description>Recent content in optimización on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 27 May 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/optimizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por qué el optimizador de una red neuronal no se va al carajo (como suelen L-BFGS-B y similares)?</title>
+      <link>/2020/05/27/por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares/</link>
+      <pubDate>Wed, 27 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/27/por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares/</guid>
+      <description>Vale, admito que no funciona siempre. Pero una manera de distinguir a un matemático de un ingeniero es por una casi imperceptible pausa que los primeros realizan antes de pronunciar optimización. Un matemático nunca conjuga el verbo optimizar en vano.
+[Una vez, hace tiempo, movido por una mezcla de paternalismo y maldad, delegué un subproblema que incluía el fatídico optim de R en una ingeniera. Aún le debe doler el asunto.</description>
+    </item>
+    
+    <item>
+      <title>Optimización estocástica</title>
+      <link>/2020/05/22/optimizacion-estocastica/</link>
+      <pubDate>Fri, 22 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/22/optimizacion-estocastica/</guid>
+      <description>Una de los proyectos en los que estoy trabajando últimamente está relacionado con un problema de optimización no lineal: tengo un modelo (o una familia de modelos) no lineales con una serie de parámetros, unos datos y se trata de lo que no mercería más explicación: encontrar los que minimizan cierta función de error.
+Tengo implementadas dos vías:
+ La nls, que usa un optimizador numérico genérico para encontrar esos mínimos.</description>
+    </item>
+    
+    <item>
+      <title>To IRLS or not to IRLS</title>
+      <link>/2020/02/24/to-irls-or-not-to-irls/</link>
+      <pubDate>Mon, 24 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/to-irls-or-not-to-irls/</guid>
+      <description>A veces tomas un artículo de vaya uno a saber qué disciplina, sismología, p.e., y no dejas de pensar: los métodos estadísticos que usa esta gente son de hace 50 años. Luego cabe preguntarse: ¿pasará lo mismo en estadística con respecto a otras disciplinas?
+Por razones que no vienen al caso, me he visto en la tesitura de tener que encontrar mínimos de funciones que podrían cuasicatalogarse como de mínimos cuadrados no lineales.</description>
+    </item>
+    
+    <item>
+      <title>Factorización matricial con nulos</title>
+      <link>/2019/09/19/factorizacion-matricial-con-nulos/</link>
+      <pubDate>Thu, 19 Sep 2019 09:13:55 +0000</pubDate>
+      
+      <guid>/2019/09/19/factorizacion-matricial-con-nulos/</guid>
+      <description>In illo tempore me llamaba mucho la atención encontrar métodos de ciencia de datos basados en factorización de matrices cuando la matriz a factorizar tenía nulos. Ocurre, por ejemplo, en sistemas de recomendación (cuando un usuario no ha visto o no nos ha dicho si le gusta determinada película).
+Y claro, con un nulo en la cosa, te comes los apuntes de álgebra lineal con papas.
+¿Cómo se hace? Si buscas $latex U$ y $latex V$ tales que $latex Y = UV^\prime$:</description>
+    </item>
+    
+    <item>
+      <title>Optimización: dos escuelas y una pregunta</title>
+      <link>/2019/07/01/optimizacion-dos-escuelas-y-una-pregunta/</link>
+      <pubDate>Mon, 01 Jul 2019 09:13:47 +0000</pubDate>
+      
+      <guid>/2019/07/01/optimizacion-dos-escuelas-y-una-pregunta/</guid>
+      <description>Dependiendo de con quién hables, la optimización (de funciones) es un problema fácil o difícil.
+Si hablas con matemáticos y gente de la escuela de optim y derivados (BFGS y todas esas cosas), te contarán una historia de terror.
+Si hablas con otro tipo de gente, la de los que opinan que el gradiente es un tobogán que te conduce amenamente al óptimo, el de la optimización no alcanza siquiera talla de problema.</description>
+    </item>
+    
+    <item>
+      <title>Un tutorial interactivo sobre optimización numérica</title>
+      <link>/2016/12/05/un-tutorial-interactivo-sobre-optimizacion-numerica/</link>
+      <pubDate>Mon, 05 Dec 2016 08:13:53 +0000</pubDate>
+      
+      <guid>/2016/12/05/un-tutorial-interactivo-sobre-optimizacion-numerica/</guid>
+      <description>Alguien que igual no me lee (porque está de vacaciones) está aprendiendo a punta de palo a manejar la función optim de R con una función objetivo de las enrevesadas. Creo que ahora entiende por qué a los matemáticos nos sobrecoge la palabra optimizar y tratamos de no mencionarla en vano.
+Por eso, además, y aunque no estilo envolver meros enlaces de terceros en entradas hechas y derechas, voy a hacer una excepción con An Interactive Tutorial on Numerical Optimization, que no tiene desperdicio.</description>
+    </item>
+    
+    <item>
+      <title>Caret y rejillas: ¿es necesario utilizar fuerza bruta?</title>
+      <link>/2016/03/21/caret-y-rejillas-es-necesario-utilizar-fuerza-bruta/</link>
+      <pubDate>Mon, 21 Mar 2016 09:13:25 +0000</pubDate>
+      
+      <guid>/2016/03/21/caret-y-rejillas-es-necesario-utilizar-fuerza-bruta/</guid>
+      <description>Durante la charla de Carlos Ortega del pasado jueves sobre el paquete caret y sus concomitancias, se planteó el asunto de la optimización de los parámetros de un modelo usando rejillas (grids) de búsqueda.
+Cuando un determinado algoritmo depende de, p.e., cuatro parámetros, se puede definir una rejilla como en
+gbmGrid &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/expand.grid&amp;quot;&amp;gt;expand.grid(interaction.depth = c(1, 5, 9), n.trees = (1:30)*50, shrinkage = 0.1, n.minobsinnode = 20)  y caret se encarga de ajustar el modelo bajo todas esas combinaciones de parámetros (90 en el ejemplo) para ver cuál de ellas es, con las debidas salvedades, óptima.</description>
+    </item>
+    
+    <item>
+      <title>evtree: árboles globales</title>
+      <link>/2015/01/12/evtree-arboles-globales/</link>
+      <pubDate>Mon, 12 Jan 2015 07:13:44 +0000</pubDate>
+      
+      <guid>/2015/01/12/evtree-arboles-globales/</guid>
+      <description>Tengo por delante otro proyecto que tiene mucho de análisis exploratorio de datos. Sospecho que más de un árbol construiré. Los árboles son como la Wikipedia: prácticamente nunca el último pero casi siempre el primer recurso.
+Esta vez, además, por entretenerme un poco, probaré el paquete [evtree](http://cran.r-project.org/web/packages/evtree/index.html). Aunque no porque espere sorprendentes mejoras con respecto a los tradicionales, ctree y rpart.
+¿Qué tiene aquél que los diferencie de los otros dos?</description>
+    </item>
+    
+    <item>
+      <title>El porqué de los mínimos cuadrados con restricciones</title>
+      <link>/2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/</link>
+      <pubDate>Mon, 09 Jun 2014 07:15:06 +0000</pubDate>
+      
+      <guid>/2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/</guid>
+      <description>Avisé en mi entrada del otro día: no me preguntéis por qué (imponer restricciones en un problema de mínimos cuadrados).
+Pero cuanto más pienso sobre ello, menos claro lo tengo. ¿Por qué restricciones?
+Primero, el contexto. O el casi contexto. Porque no es exactamente así. Pero sí parecido. Supongamos que queremos predecir algo y construimos, p.e., 4 modelos. Se nos ocurre (y hay buenas razones para ello) combinar los predictores.</description>
+    </item>
+    
+    <item>
+      <title>Mínimos cuadrados con restricciones</title>
+      <link>/2014/06/05/minimos-cuadrados-con-restricciones/</link>
+      <pubDate>Thu, 05 Jun 2014 07:09:02 +0000</pubDate>
+      
+      <guid>/2014/06/05/minimos-cuadrados-con-restricciones/</guid>
+      <description>Sí, había restricciones. No me preguntéis por qué, pero los coeficientes tenían que ser positivos y sumar uno. Es decir, buscaba la combinación convexa de cuatro vectores que más se aproximase a y en alguna métrica razonable. Y lo resolví así:
+# prepare constrained optimization y &amp;lt;- dat.clean$actual x &amp;lt;- t(dat.clean[,2:5]) # target function: L2 first, then other metrics L2 &amp;lt;- function(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/coef&amp;quot;&amp;gt;coef){ sum(abs((y - colSums(x * &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/coef&amp;quot;&amp;gt;coef)))^1.5) } # restrictions: coefs &amp;gt; 0, sum(coefs) ~ 1 ui &amp;lt;- rbind(diag(4), c(-1,-1,-1,-1), c(1,1,1,1)) ci &amp;lt;- c(0,0,0,0,-1.</description>
+    </item>
+    
+    <item>
+      <title>Finalmente, se ha inaugurado Martina Cocina</title>
+      <link>/2014/03/24/finalmente-se-ha-inaugurado-martina-cocina/</link>
+      <pubDate>Mon, 24 Mar 2014 07:46:44 +0000</pubDate>
+      
+      <guid>/2014/03/24/finalmente-se-ha-inaugurado-martina-cocina/</guid>
+      <description>Esta entrada tiene un notable contenido publicitario: el pasado viernes se inauguró Martina Cocina (nota: la página es provisional), una cafetería-restaurante en el que ostento una participación del 50%.
+
+Se trata de un lugar al que, por supuesto, mis lectores están invitados a descubrir en número 11 de la castiza plaza de Cascorro de Madrid.
+Pero como estoy en un foro al que me obligo a no traer temas extemporáneos, confesaré a mis lectores que tengo dos proyectos en mente que guardan relación tanto con Martina Cocina como con los asuntos que esperan encontrar en estas páginas.</description>
+    </item>
+    
+  </channel>
+</rss>

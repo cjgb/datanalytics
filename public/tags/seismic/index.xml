@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seismic on datanalytics</title>
+    <link>/tags/seismic/</link>
+    <description>Recent content in seismic on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 19 Nov 2015 08:13:18 +0000</lastBuildDate><atom:link href="/tags/seismic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi otra debilidad: procesos de Poisson &#34;autoexcitados&#34;</title>
+      <link>/2015/11/19/mi-otra-debilidad-procesos-de-poisson-autoexcitados/</link>
+      <pubDate>Thu, 19 Nov 2015 08:13:18 +0000</pubDate>
+      
+      <guid>/2015/11/19/mi-otra-debilidad-procesos-de-poisson-autoexcitados/</guid>
+      <description>La primera es la factorización positiva de matrices positivas. La otra, como bien titula la entrada, los procesos de Poisson autoexcitados.
+Por eso no podía dejar de traer a la atención de mis lectores seismic. Aunque lo de Twitter ya huela.</description>
+    </item>
+    
+  </channel>
+</rss>

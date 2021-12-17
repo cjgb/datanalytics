@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>información on datanalytics</title>
+    <link>/tags/informaci%C3%B3n/</link>
+    <description>Recent content in información on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Feb 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/informaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Dónde son más frecuentes las muestras de una distribución en dimensiones altas?</title>
+      <link>/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/</link>
+      <pubDate>Thu, 18 Feb 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/</guid>
+      <description>Esta es una cosa bastante contraintituiva. Uno diría que en la moda, pero no es exactamente así.
+En una dimensión tal vez sí (nótese que log(p) es función de la distancia al centro):
+muestra &amp;lt;- rnorm(10000) logp &amp;lt;- log(dnorm(muestra)) hist(logp, breaks = 100, main = &amp;quot;distribución de log(p)&amp;quot;)  Pero en dimensiones más altas, la cosa cambia:
+library(mvtnorm) muestra &amp;lt;- rmvnorm(10000, rep(0, 10), diag(rep(1, 10))) logp &amp;lt;- log(dmvnorm(muestra, rep(0, 10), diag(rep(1, 10)))) hist(logp, breaks = 100, main = &amp;quot;distribución de log(p)&amp;quot;)  Lo más frecuente es obtener observaciones ya no próximas al centro sino en un anillo alrededor de él y a cierta distancia del mismo.</description>
+    </item>
+    
+    <item>
+      <title>Si los prejuicios son prioris, entonces...</title>
+      <link>/2019/03/15/si-los-prejuicios-son-prioris-entonces/</link>
+      <pubDate>Fri, 15 Mar 2019 08:13:20 +0000</pubDate>
+      
+      <guid>/2019/03/15/si-los-prejuicios-son-prioris-entonces/</guid>
+      <description>Esto es muy bueno y elabora sobre la conclusión lógica de algo que ya he discutido antes por aquí: que los prejuicios (justos o no: la justicia es una categoría de otro orden) son prioris con las que operamos a falta de más información. Ergo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>El principio de información</title>
+      <link>/2016/10/20/el-principio-de-informacion/</link>
+      <pubDate>Thu, 20 Oct 2016 08:13:17 +0000</pubDate>
+      
+      <guid>/2016/10/20/el-principio-de-informacion/</guid>
+      <description>Tramontando el recetariado, llegamos a los principios. Y el más útil de todos ellos es el de la información (o cantidad de información).
+(Sí, de un tiempo a esta parte busco la palabra información por doquier y presto mucha atención a los párrafos que la encierran; anoche, por ejemplo, encontré un capitulito titulado The Value of Perfect Information que vale más que todo Schubert; claro, que Schubert todavía cumple la función de proporcionar seudoplacer intelectual a mentes blandas y refractarias al concepto del valor de la información perfecta).</description>
+    </item>
+    
+    <item>
+      <title>Tres metaprincipios estadísticos que se quedan en dos que se quedan en uno</title>
+      <link>/2016/09/20/tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno/</link>
+      <pubDate>Tue, 20 Sep 2016 08:13:23 +0000</pubDate>
+      
+      <guid>/2016/09/20/tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno/</guid>
+      <description>Son:
+ 1. **El principio de la información:** la clave de un método estadístico no está basado en la filosofía subyacente o el razonamiento matemático, sino más bien la información que nos permite utilizar. 2. **El problema de la atribución,** según el cual, el mérito de un análisis estadístico se lo lleva el procedimiento utilizado (por poner un ejemplo moderno, `xgboost`) y no quien lo aplicó. 3. Y otro más que no acabo de entender del todo; o tal vez sí pero que no veo como encajar aquí.</description>
+    </item>
+    
+    <item>
+      <title>Las prioris no informativas están manifiestamente sobrevaloradas</title>
+      <link>/2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/</link>
+      <pubDate>Mon, 04 Jan 2016 08:13:05 +0000</pubDate>
+      
+      <guid>/2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/</guid>
+      <description>La estadística bayesiana se enseña en cursos de estadística (y, frecuentemente, envuelto en un aparataje matemático tan ofuscante como innecesario). Lo malo es que en los cursos y textos de estadística no existe información previa. La información previa sobre los fenómenos en los que se utilizaría la estadística bayesiana están en las aplicaciones, extramuros del muy agnóstico mundo de la estadística y la matemática.
+Por eso, a los autores de los libros de estadística bayesiana y quienes enseñan cursos sobre lo mismo, enfrentados al problema de llenar de sentido la problemática distribución a priori, no se les ocurre nada mejor que discutir muy sesudamente la excepción (la priori no informativa) en lugar de la regla (la priori informativa).</description>
+    </item>
+    
+    <item>
+      <title>La información es sorpresa</title>
+      <link>/2015/04/14/la-informacion-es-sorpresa/</link>
+      <pubDate>Tue, 14 Apr 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/04/14/la-informacion-es-sorpresa/</guid>
+      <description>Hace unos días publiqué esto en Twitter:
+— Carlos Gil Bellosta (@gilbellosta) April 10, 2015David Cabo, muy oportunamente, denunció
+— David Cabo (@dcabo) April 10, 2015
+Cosa que no niego. La frase que resumía el enlace tiene esa pintaza. No obstante, el artículo al que apunta es una elaboración de esa frase. El artículo, además, incluye (y no es habitual) referencias a dos artículos académicos (que no he consultado) que, entiendo, tratan y desarrollan la cuestión.</description>
+    </item>
+    
+  </channel>
+</rss>

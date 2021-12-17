@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vcrpart on datanalytics</title>
+    <link>/tags/vcrpart/</link>
+    <description>Recent content in vcrpart on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 18 Feb 2019 08:13:43 +0000</lastBuildDate><atom:link href="/tags/vcrpart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vecpart: modelización de moderadores con árboles</title>
+      <link>/2019/02/18/9857/</link>
+      <pubDate>Mon, 18 Feb 2019 08:13:43 +0000</pubDate>
+      
+      <guid>/2019/02/18/9857/</guid>
+      <description>En un GLM (aún más generalizado que la G de las siglas) puede haber coeficientes moderados. Usando una terminología muy ad hoc, en el modelo pueden entrar predictores y moderadores. Lo cual quiere decir que la parte lineal puede ser de la forma
+$latex \sum_i X_i \beta_i(Z_i),$
+donde las $latex X_i$ son los predictores propiamente dichos y las variables $latex Z_i$ son moderadoras, es decir, que modifican el efecto de los predictores a través de una función arbitraria $latex \beta_i$.</description>
+    </item>
+    
+  </channel>
+</rss>

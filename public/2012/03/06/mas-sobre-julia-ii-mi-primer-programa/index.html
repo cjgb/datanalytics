@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Más sobre Julia (II): mi primer programa - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Más sobre Julia (II): mi primer programa" />
+<meta property="og:description" content="A las entradas que he hecho sobre Julia estos últimos días, quiero añadir esta en la que publico mi primer programa en dicho lenguaje.
+Me ha dado por reimplementar el programa para realizar un muestreo de Gibbs que aparece en Gibbs sampler in various languages.
+Lo primero ha sido instalar Julia, para lo que basta con seguir las instrucciones que aparecen en su página de github. Y aviso: tarda bastante en descargar y compilar todas sus dependencias." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2012/03/06/mas-sobre-julia-ii-mi-primer-programa/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2012-03-06T08:37:57&#43;00:00" />
+<meta property="article:modified_time" content="2012-03-06T08:37:57&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Más sobre Julia (II): mi primer programa</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-03-06T08:37:57Z">2012-3-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>A las entradas que he hecho sobre <a href="http://julialang.org/">Julia</a> estos últimos días, quiero añadir esta en la que publico mi primer programa en dicho lenguaje.</p>
+<p>Me ha dado por reimplementar el programa para realizar un <a href="http://es.wikipedia.org/wiki/Muestreo_de_Gibbs">muestreo de Gibbs</a> que aparece en <a href="http://darrenjw.wordpress.com/2011/07/16/gibbs-sampler-in-various-languages-revisited/"><em>Gibbs sampler in various languages</em></a>.</p>
+<p>Lo primero ha sido instalar Julia, para lo que basta con seguir las <a href="https://github.com/JuliaLang/julia#readme">instrucciones que aparecen en su página de github</a>. Y aviso: tarda bastante en descargar y compilar todas sus dependencias.</p>
+<p>El código de mi programa, para que quede constancia pública de que vengo a ser un pionero en España usándolo, es:
+``</p>
+<pre><code>function gibbs(n, thin)
+        x = 0.0
+        y = 0.0
+        for i=1:n
+                for j=1:thin
+                        x = randg( 3 ) / ( y * y + 4 )
+                        y = randn() / sqrt( 2*x + 2 ) + 1 / (x + 1)
+                end
+                println( i, &quot; &quot;, x, &quot; &quot;, y )
+        end
+end
+
+gibbs( 50000, 1000 )
+</code></pre>
+<p>El programa en cuestión, tal cual viene en la página que cito arriba, en R, ha tardado en ejecutarse</p>
+<pre><code>&lt;code&gt;$ time Rscript mcmc00.R &gt; data.tab
+
+real 8m31.259s
+user 8m29.668s
+sys 0m0.948s &lt;/code&gt;
+</code></pre>
+<p>Y en Julia,</p>
+<pre><code>&lt;code&gt;$ time julia mcmc00.j &gt; data.tab.j
+
+real 0m9.268s
+user 0m9.113s s
+ys 0m0.144s
+&lt;/code&gt;
+</code></pre>
+<p>Es decir, del orden de 60 veces menos. Es de reseñar que este tipo de algoritmos son de los menos indicados para ser ejecutados con R: son imposibles de vectorizar. No en vano, MCMC (tal como aparece en los nombres de los programas) significa <em>Markov Chain Monte Carlo</em> y en una cadena de Markov, cada valor depende del estado anterior. Hay que morir a hierro y construir un bucle.</p>
+<p>El resultado de ambas simulaciones puede apreciarse en el siguiente gráfico:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2012/03/simulations_output001.png"><img src="http://www.datanalytics.com/wp-uploads/2012/03/simulations_output001.png" alt="">
+</a></p>
+<p>Es cierto que en este ejemplo concreto, los números aleatorios podrían precalcularse en una única llamada a <code>rnorm</code> o <code>rgamma</code>, pero no he observado una ganancia sustancial de tiempos, que se pierden, fundamentalmene, en el código interpretado dentro del bucle.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/computaci%C3%B3n/" rel="tag">computación</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/julia/" rel="tag">julia</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2012/03/05/mas-sobre-julia/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Más sobre Julia</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2012/03/07/esperanzador-no-varianzador/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Esperanzador no: varianzador</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

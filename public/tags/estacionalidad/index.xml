@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estacionalidad on datanalytics</title>
+    <link>/tags/estacionalidad/</link>
+    <description>Recent content in estacionalidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Jul 2019 09:13:35 +0000</lastBuildDate><atom:link href="/tags/estacionalidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estacionalidad semanal de la mortalidad</title>
+      <link>/2019/07/09/estacionalidad-semanal-de-la-mortalidad/</link>
+      <pubDate>Tue, 09 Jul 2019 09:13:35 +0000</pubDate>
+      
+      <guid>/2019/07/09/estacionalidad-semanal-de-la-mortalidad/</guid>
+      <description>Continúo con esto.
+(El pico de primeros de agosto corresponde a la ola de calor).
+Resumen:
+ Acusada variación intrasemanal (con un intevalo de variación del 5%, que es mucho). * Los intervalos de confianza de los nuevos modelos contienen mucho mejor las observaciones reales; muchos picos observados dejan de parecer anómalos para quedar dentro de las franjas de variación esperadas.  </description>
+    </item>
+    
+  </channel>
+</rss>

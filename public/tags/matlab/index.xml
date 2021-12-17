@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matlab on datanalytics</title>
+    <link>/tags/matlab/</link>
+    <description>Recent content in matlab on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 29 Aug 2011 07:15:52 +0000</lastBuildDate><atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Arte gráfico&#34; con R</title>
+      <link>/2011/08/29/arte-grafico-con-r/</link>
+      <pubDate>Mon, 29 Aug 2011 07:15:52 +0000</pubDate>
+      
+      <guid>/2011/08/29/arte-grafico-con-r/</guid>
+      <description>El otro día dí con un blog dedicado al arte matemático y en particular con esta entrada sobre cómo crear figuras mediante rotación de segmentos:
+
+El código (en matlab) estaba disponible y lo traduje a R:
+1 2 3 4 5 6 7 8 9 10  graphic.art &amp;lt;- function( foo, n = 200, init = -1, end = 1, breaks = 20 ){ x &amp;lt;- seq( init, end, by = 1 / breaks ) base &amp;lt;- matrix( c( x, foo( x ) ), ncol = 2 ) rotate &amp;lt;- function(a,m) m %*% matrix(c(cos(a), -sin(a), sin(a), cos(a)), 2) my.</description>
+    </item>
+    
+    <item>
+      <title>¿Siete lenguajes de programación emergentes?</title>
+      <link>/2010/10/27/siete-lenguajes-de-programacion-emergentes/</link>
+      <pubDate>Wed, 27 Oct 2010 22:21:05 +0000</pubDate>
+      
+      <guid>/2010/10/27/siete-lenguajes-de-programacion-emergentes/</guid>
+      <description>Hace un par de días apareció un artículo en InfoWorld en el que se enumeraban siete lenguajes de programación emergentes. Parece que por emergentes ha de entenderse cada vez más extendidos en la empresa. Como R hacía parte del rol, comencé alegrándome. Después me surgieron dos elementos de sospecha.
+Véase la lista de los siete lenguajes seleccionados:
+ Python, un viejo conocido. Ruby Matlab JavaScript, que está gozando de una segunda primavera gracias a AJAX y demás R, ¡cómo no!</description>
+    </item>
+    
+    <item>
+      <title>Matlab es más rápido que R... ¿y?</title>
+      <link>/2010/10/06/matlab-es-mas-rapido-que-r-y/</link>
+      <pubDate>Wed, 06 Oct 2010 21:50:44 +0000</pubDate>
+      
+      <guid>/2010/10/06/matlab-es-mas-rapido-que-r-y/</guid>
+      <description>No sé si alguna vez en la vida he visto una copia legal de Matlab. Creo que no. Ni forzando la memoria consigo recordar haber conocido a alguien que haya pagado los 2000 euros que cuesta una licencia comercial en España.
+Eso sí, he conocido a mucha gente a la que le gusta mucho. Y que habla maravillas de él, etc. En algún sitio lo habrán probado, presumo.
+Los aficionados a Matlab lo son también a comentar lo rápido que es.</description>
+    </item>
+    
+  </channel>
+</rss>

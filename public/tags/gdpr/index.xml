@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gdpr on datanalytics</title>
+    <link>/tags/gdpr/</link>
+    <description>Recent content in gdpr on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 18 Nov 2019 09:13:56 +0000</lastBuildDate><atom:link href="/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los ejemplos son las conclusiones</title>
+      <link>/2019/11/18/los-ejemplos-son-las-conclusiones/</link>
+      <pubDate>Mon, 18 Nov 2019 09:13:56 +0000</pubDate>
+      
+      <guid>/2019/11/18/los-ejemplos-son-las-conclusiones/</guid>
+      <description>[Ahí va otro aforismo en la línea de este otro].
+Me recomienda Medium muy encarecidamente la lectura de Optimization over Explanation y yo a mis lectores. Trata el asunto de la responsabilidad dizque ética de los algoritmos de inteligencia artificial. Nos cuenta cómo la legislación en general y la GDPR en particular ha hecho énfasis en la explicabilidad de los modelos: según la GDPR, los sujetos de esos algoritmos tendríamos el derecho a que se nos explicasen las decisiones que toman en defensa de nosequé bien jurídico, que nunca he tenido claro y que se suele ilustrar examinando una serie de casos en los que salen aparentemente perjudicados los miembros de unas cuantas minorías cuya agregación son todos menos yo y unos poquitos más que se parecen a mí.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Democratic people&#39;s republic&#34; de algo que empieza por ge</title>
+      <link>/2018/05/14/democratic-peoples-republic-de-algo-que-empieza-por-ge/</link>
+      <pubDate>Mon, 14 May 2018 08:20:38 +0000</pubDate>
+      
+      <guid>/2018/05/14/democratic-peoples-republic-de-algo-que-empieza-por-ge/</guid>
+      <description>Hay gente que es del parecer de que exiten contubernios sanitarios (constituidos por empresas farmacéuticas y profesionales de la salud conchabados con ellos) que proceden de la siguiente manera:
+ * Tratan de convencernos de que determinados rasgos de la personalidad son patológicos. * Cuando lo consiguen, recetan sus remedios químicos para sanarlos. * Alguien gana mucha pasta.  Con esto de la GDPR pasa algo parecido:
+ * Tratan de convencernos de que cuando subimos fotos de nuestro gato a internet, en realidad, alguien nos está robando las fotos de nuestro gato.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>peter on datanalytics</title>
+    <link>/tags/peter/</link>
+    <description>Recent content in peter on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Oct 2018 08:13:24 +0000</lastBuildDate><atom:link href="/tags/peter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Licitaciones por insaculación ponderada</title>
+      <link>/2018/10/05/licitaciones-por-insaculacion-ponderada/</link>
+      <pubDate>Fri, 05 Oct 2018 08:13:24 +0000</pubDate>
+      
+      <guid>/2018/10/05/licitaciones-por-insaculacion-ponderada/</guid>
+      <description>Hace unos años, cuando aún no me había avivado en estos temas, recibí una llamada que me puso muy contento: en un ayuntamiento de nosedónde reconocían mis muchos méritos estadísticos y computacionales y me invitaban a participar en una licitación a vaya Vd. a saber qué cosa. Pero, vamos, lo que pasaba, como tantísimas veces, es que tenían ya escogido a un proveedor y necesitaban a dos comparsas para salvar el trámite burocrático de contar con tres propuestas.</description>
+    </item>
+    
+  </channel>
+</rss>

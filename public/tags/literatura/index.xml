@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>literatura on datanalytics</title>
+    <link>/tags/literatura/</link>
+    <description>Recent content in literatura on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 06 Nov 2017 08:13:20 +0000</lastBuildDate><atom:link href="/tags/literatura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La heterogénea distribución temporal de las 100 mejores novelas según Le Monde</title>
+      <link>/2017/11/06/la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde/</link>
+      <pubDate>Mon, 06 Nov 2017 08:13:20 +0000</pubDate>
+      
+      <guid>/2017/11/06/la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde/</guid>
+      <description>Me sorprende haber leído tantos de los mejores 100 libros del siglo XX según Le Monde. Sobre todo porque no leo ficción casi en lo que va de siglo y porque, carajo, los libros estupendos que he leído de tapa, como el Análisis Real de Folland o la Introducción a la Teoría de la Probabilidad de Feller parece que no cualifican para esa listeja de textos sin una mala integral preparada por gentecilla de letras.</description>
+    </item>
+    
+  </channel>
+</rss>

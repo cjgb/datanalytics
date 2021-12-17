@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualización on datanalytics</title>
+    <link>/tags/visualizaci%C3%B3n/</link>
+    <description>Recent content in visualización on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Jul 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/visualizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La miseria de la sicología de la percepción</title>
+      <link>/2021/07/01/la-miseria-de-la-sicologia-de-la-percepcion/</link>
+      <pubDate>Thu, 01 Jul 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/07/01/la-miseria-de-la-sicologia-de-la-percepcion/</guid>
+      <description>A autores como Playfair (tartas), Tukey (diagramas de cajas) o Tufte (pequeños múltiplos) debemos algunas de las técnicas de representación gráfica de datos que usamos habitualmente y a las que el público, mal que bien, está acostumbrado.
+Otros autores han tratado de tecnologizar dichas técnicas. Es decir, entender por qué funcionan o cómo hacerlas más efectivas. Para ello se han apoyado en el trabajo de los sicólogos de la percepción. El trabajo pionero al respecto, al menos en el ámbito de la estadística, es de Cleveland y McGill (véase esto y, si procede, sus referencias) y ha sido continuado por otros.</description>
+    </item>
+    
+    <item>
+      <title>Sobre rectángulos largos y estrechos</title>
+      <link>/2021/03/30/sobre-rectangulos-largos-y-estrechos/</link>
+      <pubDate>Tue, 30 Mar 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/03/30/sobre-rectangulos-largos-y-estrechos/</guid>
+      <description>Una de las notas que tenía de la lectura del libro de visualización de datos de Healy se refería a los problemas de comparación que crean los rectángulos largos y estrechos. Es decir, cuando el tamaño de ciertas variables se codifica usando el área de rectángulos con dimensiones muy desiguales.
+Reflexionando sobre el asunto, vi que el fenómeno de los rectángulos largos y estrechos (o mucha base y poca altura, si se quiere) es el que subyace al llamado problema de la conclusión repugnante, que aparece en ética cuando el criterio de bondad es el de la maximización de la suma de las utilidades individuales: una infinita (base) famélica (altura) legión podría tener unos niveles agregados de utilidad (base $latex \times$ altura) superiores a una población pequeña y feliz.</description>
+    </item>
+    
+    <item>
+      <title>Canales (o estéticas), de mejor a peor, según Healy</title>
+      <link>/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/</link>
+      <pubDate>Thu, 05 Nov 2020 13:04:36 +0000</pubDate>
+      
+      <guid>/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/</guid>
+      <description>Data visualization, de Healy, sicólogo sociólogo (gracias al atento comentarista) para más señas, es dizquel nuevo Cleveland. Que lo pone al día 27 años después.
+Una muestra del libro:
+Se trata de las estéticas (en su acepción ggplot2) ordenadas de mayor a menor efectividad.
+[Estoy leyéndolo y nada nuevo bajo el sol; tal vez, sí, el aggiornamiento que de vez en cuando parece que necesitan las cosas para que se oreen las ideas, las tipografías y las paletas de color de los gráficos.</description>
+    </item>
+    
+    <item>
+      <title>El discreto encanto de las animaciones</title>
+      <link>/2019/01/28/el-discreto-encanto-de-las-animaciones/</link>
+      <pubDate>Mon, 28 Jan 2019 08:13:45 +0000</pubDate>
+      
+      <guid>/2019/01/28/el-discreto-encanto-de-las-animaciones/</guid>
+      <description>Representando datos, una animación es un gráfico en el que unas facetas (en terminología de ggplot2) ocultan el resto, como en
+extraído de aquí y que representa la evolución del tamaño (superficie) de los coches habituales a lo largo del último siglo. Lo mismo pero evitando el indeseado efecto:
+El código:
+library(ggplot2) datos &amp;lt;- structure(list(year = c(1930L, 1950L, 1960L, 1970L, 1980L, 1990L, 2000L, 2010L, 2018L), width = c(1.45, 1.59, 1.54, 1.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Beautiful evidence&#34;, de Tufte</title>
+      <link>/2014/03/11/beautiful-evidence-de-tufte/</link>
+      <pubDate>Tue, 11 Mar 2014 07:14:15 +0000</pubDate>
+      
+      <guid>/2014/03/11/beautiful-evidence-de-tufte/</guid>
+      <description>Acabo de leer Beautiful Evidence, el último de los libros de E. Tufte y voy a recoger aquí unas notas sobre él mismo. Espero que sirvan tanto a los interesados en el asunto como a mí mismo.
+El libro consta de nueve capítulos prácticamente independientes entre sí. Los dos últimos son perfectamente prescindibles: están a medio caballo entre el autobombo y el márqueting; parece que Tufte es también escultor y no pierde ocasión de darlo a conocer.</description>
+    </item>
+    
+  </channel>
+</rss>

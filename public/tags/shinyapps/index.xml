@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shinyapps on datanalytics</title>
+    <link>/tags/shinyapps/</link>
+    <description>Recent content in shinyapps on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 15 Apr 2015 08:13:48 +0000</lastBuildDate><atom:link href="/tags/shinyapps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spark ha muerto, ¡larga vida (y buena migración) a Shinyapps!</title>
+      <link>/2015/04/15/spark-ha-muerto-larga-vida-y-buena-migracion-a-shinyapps/</link>
+      <pubDate>Wed, 15 Apr 2015 08:13:48 +0000</pubDate>
+      
+      <guid>/2015/04/15/spark-ha-muerto-larga-vida-y-buena-migracion-a-shinyapps/</guid>
+      <description>Primero, y por evitar confusiones, este no es el Spark que se nos muere. Se muere un servidor de RStudio donde se colgaban aplicaciones desarrolladas en shiny, spark.rstudio.com.
+El nuevo servicio se llama shinyapps.io. Que viene a ser lo mismo pero más formal, con sus tokens, sus claves, su modelo freemium y sus servicios pro de pago.
+Migrar aplicaciones, como mi vetusto detector de idiomas, viene a ser equivalente a colgarlas modo ex novo en shinyapps.</description>
+    </item>
+    
+  </channel>
+</rss>

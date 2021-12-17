@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>covarianza on datanalytics</title>
+    <link>/tags/covarianza/</link>
+    <description>Recent content in covarianza on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Apr 2019 09:13:50 +0000</lastBuildDate><atom:link href="/tags/covarianza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gestión del riesgo: una perífrasis con hitos aprovechables</title>
+      <link>/2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/</link>
+      <pubDate>Tue, 09 Apr 2019 09:13:50 +0000</pubDate>
+      
+      <guid>/2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/</guid>
+      <description>Traigo a la consideración de mis lectores Sobre la Sostenibilidad Fiscal de España (II), un artículo de hace un tiempo que es una larga perífrasis alrededor de principios cualitativos muy contrastados sobre la gestión de riesgo (bajo incertidumbre, si se me tolera el pleonasmo). La conclusión es bien sabida pero el camino recorre una serie de hitos que mucho tienen que ver con lo que suelo escribir por aquí. Arranca con una afirmación desconcertante:</description>
+    </item>
+    
+    <item>
+      <title>Cómo no restar números fuzzy</title>
+      <link>/2014/01/24/como-no-restar-numeros-fuzzy/</link>
+      <pubDate>Fri, 24 Jan 2014 08:06:40 +0000</pubDate>
+      
+      <guid>/2014/01/24/como-no-restar-numeros-fuzzy/</guid>
+      <description>Esta entrada viene motivada por varios asuntos relacionados que me han sucedido en los últimos tiempos. El primero es un colega que me preguntó sobre si el paro había subido o bajado comparando datos de un par de trimestres.
+La respuesta prima facie es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error.</description>
+    </item>
+    
+    <item>
+      <title>De la matriz a de covarianzas a la de correlaciones con Excel</title>
+      <link>/2010/11/27/de-la-matriz-a-de-covarianzas-a-la-de-correlaciones-con-excel/</link>
+      <pubDate>Sat, 27 Nov 2010 19:25:58 +0000</pubDate>
+      
+      <guid>/2010/11/27/de-la-matriz-a-de-covarianzas-a-la-de-correlaciones-con-excel/</guid>
+      <description>Me preguntan cómo construir la matriz de correlaciones a partir de la de covarianzas con Excel. Mis lectores más versados en R conocerán la existencia de la función cov2cor (cuyo código fuente merece ser examinado).
+Sin embargo, ¿cómo hacerlo con Excel? No es tan complicado, aunque infinitamente más prolijo: en la posición (i,j) de la matriz de correlaciones hay que asignar:
+ el valor (i,j) de la correspondiente matriz de covarianzas dividido por la raíz cuadrada del producto de los valores (i,i) y (j,j) de la matriz de covarianzas.</description>
+    </item>
+    
+  </channel>
+</rss>

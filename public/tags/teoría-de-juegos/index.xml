@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teoría de juegos on datanalytics</title>
+    <link>/tags/teor%C3%ADa-de-juegos/</link>
+    <description>Recent content in teoría de juegos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 07 May 2019 09:13:34 +0000</lastBuildDate><atom:link href="/tags/teor%C3%ADa-de-juegos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elecciones e índice (supernaíf) de Shapley</title>
+      <link>/2019/05/07/elecciones-e-indice-supernaif-de-shapley/</link>
+      <pubDate>Tue, 07 May 2019 09:13:34 +0000</pubDate>
+      
+      <guid>/2019/05/07/elecciones-e-indice-supernaif-de-shapley/</guid>
+      <description>Aprovechando que el paquete [GameTheoryAllocation](https://cran.r-project.org/package=GameTheoryAllocation) ha emergido de mi FIFO de pendientes a los pocos días de conocerse los resultados de las [adjetivo superlativizado omitidísimo] elecciones generales, voy a calcular de la manera más naíf que se me ocurre el índice de Shapley de los distintos partidos. Que es:
+Al menos, de acuerdo con el siguiente código:
+&amp;lt;code&amp;gt;library(GameTheoryAllocation) partidos &amp;lt;- c(123, 66, 57, 35, 24, 15, 7, 7, 6, 4, 2, 2, 1, 1) names(partidos) &amp;lt;- c(&amp;quot;psoe&amp;quot;, &amp;quot;pp&amp;quot;, &amp;quot;cs&amp;quot;, &amp;quot;iu&amp;quot;, &amp;quot;vox&amp;quot;, &amp;quot;erc&amp;quot;, &amp;quot;epc&amp;quot;, &amp;quot;ciu&amp;quot;, &amp;quot;pnv&amp;quot;, &amp;quot;hb&amp;quot;, &amp;quot;cc&amp;quot;, &amp;quot;na&amp;quot;, &amp;quot;compr&amp;quot;, &amp;quot;prc&amp;quot;) coaliciones &amp;lt;- coalitions(length(partidos)) tmp &amp;lt;- coaliciones$Binary profit &amp;lt;- tmp %*% partidos profit &amp;lt;- 1 * (profit &amp;gt; 175) res &amp;lt;- Shapley_value(profit, game = &amp;quot;profit&amp;quot;) res &amp;lt;- as.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuántas veces ha caído el PSOE en el lado malo de la lógica de la teoría de juegos?</title>
+      <link>/2016/10/21/cuantas-veces-ha-caido-el-psoe-en-el-lado-malo-de-la-logica-de-la-teoria-de-juegos/</link>
+      <pubDate>Fri, 21 Oct 2016 08:13:27 +0000</pubDate>
+      
+      <guid>/2016/10/21/cuantas-veces-ha-caido-el-psoe-en-el-lado-malo-de-la-logica-de-la-teoria-de-juegos/</guid>
+      <description>Leo a Tyler Cower escribir cómo los republicanos [de EE.UU.] han caído en el lado malo de la lógica de la teoría de juegos dos veces.
+Y me pregunto: ¿cuántas veces ha caído el PSOE en el lado malo de la lógica de la teoría de juegos?
+Diría que unas cuantas. Pero no sé de la materia, por lo que, si abro la boca, pueden cerrármela a gorrazos. No obstante, quienes saben de la materia, o no han escrito al respecto y con esa perspectiva o lo han hecho y no me he enterado.</description>
+    </item>
+    
+  </channel>
+</rss>

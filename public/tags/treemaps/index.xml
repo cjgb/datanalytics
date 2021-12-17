@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>treemaps on datanalytics</title>
+    <link>/tags/treemaps/</link>
+    <description>Recent content in treemaps on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 09 Sep 2011 07:13:26 +0000</lastBuildDate><atom:link href="/tags/treemaps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treemaps en R</title>
+      <link>/2011/09/09/treemaps-en-r/</link>
+      <pubDate>Fri, 09 Sep 2011 07:13:26 +0000</pubDate>
+      
+      <guid>/2011/09/09/treemaps-en-r/</guid>
+      <description>Hay cierto interés por los treemaps en general y existen paquetes como treemap y la función map.market del paquete portfolio que permiten construirlos y obtener gráficos como este
+
+que representa la capitalización bursátil de las empresas del IBEX-35 y el porcentaje que destinan al dividendo. Pero me produce cierto desasosiego utilizar áreas y colores para representar magnitudes: ¿es fácil comparar el tamaño relativo de TEF y ELE? ¿Cuánto mayor es ITX que BBVA?</description>
+    </item>
+    
+  </channel>
+</rss>

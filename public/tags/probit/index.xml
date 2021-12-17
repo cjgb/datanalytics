@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probit on datanalytics</title>
+    <link>/tags/probit/</link>
+    <description>Recent content in probit on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Jul 2015 08:13:05 +0000</lastBuildDate><atom:link href="/tags/probit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calcular una regresión a mano o con un programa puede ser más preciso</title>
+      <link>/2015/07/10/calcular-una-regresion-a-mano-o-con-un-programa-puede-ser-mas-preciso/</link>
+      <pubDate>Fri, 10 Jul 2015 08:13:05 +0000</pubDate>
+      
+      <guid>/2015/07/10/calcular-una-regresion-a-mano-o-con-un-programa-puede-ser-mas-preciso/</guid>
+      <description>Leer sobre la historia de los glm me llevó a preguntarme sobre el modelo probit, que es —aunque con estas cosas hay que tener cuidado— cuarenta años anterior. Y tirando de ese hilo di con esto, donde se proponen tres métodos para ajustar estos modelos.
+El tercer paso del primero es
+
+y sí, sugiere ajustar a ojo, aunque advierte que hacerlo a mano (algebraicamente) o con la ayuda de un ordenador puede ser más preciso además de proporcionar intervalos de confianza.</description>
+    </item>
+    
+  </channel>
+</rss>

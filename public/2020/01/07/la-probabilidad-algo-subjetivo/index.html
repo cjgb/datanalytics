@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>La probabilidad, ¿algo subjetivo? - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="La probabilidad, ¿algo subjetivo?" />
+<meta property="og:description" content="Esta entrada es una contestación a
+https://twitter.com/AnaBayes/status/1213446900743122945
+I.
+Habrá quien sostenga que la geometría (plana, euclídea, por antonomasia) es subjetiva, que es una construcción de la mente, de cada mente. Igual queda todavía alguno de los que, por el contrario, creían que los triángulos equiláteros residen en una especie de edén donde tienen una existencia ideal y que nuestra mente, de alguna manera, se limita a reflejarlos.
+Sin embargo, a mí me vale (que es una forma de decir que tomo partido por) que la geometría tiene una existencia objetiva, ajena a la subjetividad de los individuos." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2020/01/07/la-probabilidad-algo-subjetivo/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-01-07T09:13:00&#43;00:00" />
+<meta property="article:modified_time" content="2020-01-07T09:13:00&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">La probabilidad, ¿algo subjetivo?</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-01-07T09:13:00Z">2020-1-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Esta entrada es una contestación a</p>
+<p><a href="https://twitter.com/AnaBayes/status/1213446900743122945">https://twitter.com/AnaBayes/status/1213446900743122945</a></p>
+<p><strong>I.</strong></p>
+<p>Habrá quien sostenga que la geometría (plana, euclídea, por antonomasia) es <em>subjetiva</em>, que es una construcción de la mente, de cada mente. Igual queda todavía alguno de los que, por el contrario, creían que los triángulos equiláteros residen en una especie de edén donde tienen una existencia <em>ideal</em> y que nuestra mente, de alguna manera, se limita a reflejarlos.</p>
+<p>Sin embargo, a mí me vale (que es una forma de decir que tomo partido por) que la geometría tiene una existencia objetiva, ajena a la subjetividad de los individuos. Eso sin perjuicio de que individuos particulares tengan una visión incompleta y, en ocasiones, imperfecta de ella (p.e., que ignoren que las mediatrices de los lados de un triángulo se cortan en un único punto).</p>
+<p>Tanto vale para la probabilidad. Es (o la considero) otra entidad objetiva que se rige por los axiomas de Kolmogorov, de la que se deducen una serie de propiedades no tan conocidas como debieran serlo.</p>
+<p>Desde ese punto de vista, rechazo absolutamente que la probabilidad sea subjetiva.</p>
+<p><strong>II.</strong></p>
+<p>Pero sospecho que no es a esta probabilidad a la que se refiere el <em>tuit</em> sino a su aplicación en el mundo <em>material</em> y, en particular, a las probabilidades asociadas y que asociamos a los eventos del mundo físico. (Quiero también pensar —aunque despiste la referencia a lo subatómico— que el tuit no pone en cuestión la existencia objetiva del azar, que exigiría una discusión distinta de la que sigue.)</p>
+<p>Comienzo por un ejemplo: si quisiera medir la altura de las torres de plaza de Castilla, bien podría utilizar la longitud de la sombra proyectada y aplicar principios básicos de geometría, el teorema de Tales, por ejemplo, para estimarla. Pero difícilmente podría alguien llamar subjetiva a tal estimación; ni aun cuando mil personas obtuviesen mil resultados distintos usando procedimientos dejados a su arbitrio. Ni aun si la selección del procedimiento fuese de la libérrima elección de cada uno de los participantes. Pocos negarían, además, que la altura de las torres es una magnitud objetiva.</p>
+<p>Recapitulando, lo relevante del ejemplo anterior es que existe una magnitud objetiva (la altura de las torres) y estimaciones realizadas por sujetos. Estos se apoyan en principios geométricos (u otros de otra naturaleza, física por ejemplo) para estimar la primera. Además, es posible evaluar la bondad de las aproximaciones.</p>
+<p><strong>III.</strong></p>
+<p>Es asunto de la estadística —y no propiamente de la probabilidad— el de estimar las probabilidades asociadas a eventos (lo hace, además y típicamente, para tomar decisiones basadas en ellas). Ocurre, sin embargo, que existen eventos de interés de muchos tipos distintos, como, p.e.:</p>
+<ul>
+<li>Los relativos a lanzamientos de un dado o moneda (o, en general, los juegos de azar).   * El de si el número de pacientes que llegarán mañana a las urgencias de un cierto hospital superará un umbral determinado.  * El de si Pedro Sánchez será finalmente investido presidente (cosa que a la hora de escribir estas líneas es altamente probable pero no seguro).  * El de si el número (entero) del 1 al 10 (ambos inclusivos) que acabo de elegir es o no 7.</li>
+</ul>
+<p>Todos ellos y más que se nos puedan ocurrir tienen una naturaleza distinta y podría decirse que los vincula casi exclusivamente el hecho de que sus probabilidades, típicamente desconocidas, satisfacen los axiomas de Kolmogorov (al respecto, véase <a href="https://statmodeling.stat.columbia.edu/2018/12/26/what-is-probability/">esto</a>).</p>
+<p>Para asignarles probabilidades podemos usar muchas técnicas —o, más específicamente, tecnologías— distintas (aunque siempre dependiendo del escenario):</p>
+<ul>
+<li>Teóricos, como <a href="https://en.wikipedia.org/wiki/Principle_of_indifference">el principio de indiferencia</a>.  * Mediante réplicas y/o simulaciones.  * Usando datos históricos (por ejemplo, para estimar el <a href="https://es.wikipedia.org/wiki/%C3%8Dndice_de_masculinidad">ratio de masculinidad</a>).  * Construyendo modelos que exploten correlaciones entre fenómenos conocidos y otros de interés.  * &hellip;</li>
+</ul>
+<p>La elección de unos y otros (o de subtipos dentro de cada categoría) podría incorporar elementos de subjetividad. Pero lo mismo ocurría con nuestros torremedidores, sin que por ello estuviésemos legitimados a tachar de subjetivas sus estimaciones.</p>
+<p>Es cierto que determinadas técnicas (y se va a notar mucho que me refiero a las bayesianas) incorporan <em>slots</em> a través de los cuales es posible incorporar información <em>previa</em> y que cierta gente, sin que se sepa muy bien por qué, tacha de <em>subjetiva</em>. Pero esa información previa puede ser perfectamente objetiva: por ejemplo, como <em>priori</em> para un determinado parámetro se puede usar una distribución basada en las estimaciones realizadas en estudios anteriores, o incorporar restricciones de positividad, etc. Sigue sin haber motivos para hablar de subjetividad (al menos, necesariamente, aunque fuese posible que alguien quisiese utilizar información previa <em>totalmente subjetiva</em>).</p>
+<p>Pudiera ocurrir también en determinados casos concretos que sujetos distintos tuviesen información distinta. P.e., yo podría <em>soplarle</em> a alguien que ese número del 1 al 10 que he pesando, realmente está entre el 1 y el 5. Que viene a ser como si a unos sujetos les dejásemos acercarse a las torres y utilizar cintas métricas mientras a otros solo se las dejásemos ver de lejos.</p>
+<p><strong>IV.</strong></p>
+<p>En cualquier caso, y esto es lo más relevante, igual que existe objetivamente esa magnitud que es la altura de las torres, existen objetivamente esas probabilidades objetivas asociadas a los eventos físicos de las que construimos estimaciones utilizando técnicas de diversa índole (y sin que por ello podamos llamarlas subjetivas en propiedad). De otro modo, ¿tendrían sentido técnicas de calibración (como <a href="https://en.wikipedia.org/wiki/Brier_score">esta</a>, p.e.)?</p>
+<p>Entre el dado y la moneda, ambos objetivos y físicos, que hay sobre mi mesa, existe una distancia que, por no ser corpórea, no deja de ser objetiva, existente y, de hecho, medible. De la misma manera y por analogía, podríamos decir que entre el evento y el no evento sigue existe una relación de disimilitud que podríamos pensar igualmente objetiva y, de nuevo, medible.</p>
+<p>Sujetos distintos podrían medirla de distinta manera y con resultados desiguales; pero no por ello la probabilidad del evento ha de ser subjetiva. De hecho, el que entendamos —y podamos llegar a demostrar— que algunas de las estimaciones son manifiestamente erróneas es indicio claro de que debajo de las opiniones, hay un sustrato de objetividad. ¿No despediríamos al hombre del tiempo que anunciase nieve en el agosto de Madrid —y sin que luego nevase, por supuesto?</p>
+<p><strong>V.</strong></p>
+<p>Y, para terminar y aunque esto nos llevaría muy lejos, hay que tener en cuenta que la estadística es un paso intermedio a la decisión. Estimaciones de probabilidades erróneas implican malas decisiones. Y las malas decisiones ponen en peligro el bienestar, cuando no la supervivencia, de los sujetos.</p>
+<p>Podrá sostener alguien ideas muy subjetivas, excéntricas y alejadas de la equiprobabilidad sobre las tiradas de mi dado. Sería para mí un placer muy lucrativo invitarle a unas partidas con las que separarlo de su dinero.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica-bayesiana/" rel="tag">estadística bayesiana</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/probabilidad/" rel="tag">probabilidad</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2019/12/16/charla-en-el-codingclub-de-la-uc3m-este-martes/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Charla en el CodingClub de la UC3M este martes</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2020/01/08/rebanos-de-modelos-el-resumen/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Rebaños de modelos: el resumen</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

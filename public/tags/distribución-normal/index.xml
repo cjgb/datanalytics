@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distribución normal on datanalytics</title>
+    <link>/tags/distribuci%C3%B3n-normal/</link>
+    <description>Recent content in distribución normal on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 23 May 2010 22:33:16 +0000</lastBuildDate><atom:link href="/tags/distribuci%C3%B3n-normal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La distribución normal y el borracho que perdió sus llaves</title>
+      <link>/2010/05/23/la-distribucion-normal-y-el-borracho-que-perdio-sus-llaves/</link>
+      <pubDate>Sun, 23 May 2010 22:33:16 +0000</pubDate>
+      
+      <guid>/2010/05/23/la-distribucion-normal-y-el-borracho-que-perdio-sus-llaves/</guid>
+      <description>Leí una vez un chiste sobre estadísticos. Lo tengo, de hecho, en algún lugar de mi disco duro y prometo incluir una referencia a la fuente una vez lo ubique.
+Trata de un borracho que pierde sus llaves en la noche y comienza a buscarlas a la luz de una farola. Alguien se ofrece a ayudarlo.
+—Qué le ocurre, ¿buen hombre?
+—He perdido las llaves.
+—¿Recuerda dónde pudo haber ocurrido?</description>
+    </item>
+    
+  </channel>
+</rss>

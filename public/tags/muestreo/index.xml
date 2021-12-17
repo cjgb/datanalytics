@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>muestreo on datanalytics</title>
+    <link>/tags/muestreo/</link>
+    <description>Recent content in muestreo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 22 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/muestreo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Modelos para ordenar datos?</title>
+      <link>/2020/10/22/modelos-para-ordenar-datos/</link>
+      <pubDate>Thu, 22 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/22/modelos-para-ordenar-datos/</guid>
+      <description>Ayer leí este resumen de este artículo que propone y discute un algoritmo novedoso y basado en ciencia de datos para ordenar datos y hacerle la competencia a quicksort y demás. Reza y promete:
+La idea fundamental del algoritmo consiste en crear un modelo que estime (aproximadamente, claro está) dónde quedaría cada observación una vez ordenados los datos además de, obviamente, una discusión sobre cómo solucionar los errores de predicción.</description>
+    </item>
+    
+    <item>
+      <title>Muestreo, sensibilidad y especificidad</title>
+      <link>/2020/04/27/muestreo-sensibilidad-y-especificidad/</link>
+      <pubDate>Mon, 27 Apr 2020 08:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/27/muestreo-sensibilidad-y-especificidad/</guid>
+      <description>El bloque de código
+n_pop &amp;lt;- 47e6 prev &amp;lt;- .02 n_muestra &amp;lt;- 60e3 real_sensitivity &amp;lt;- .8 real_specificity &amp;lt;- .995 estimated_sensitivity &amp;lt;- .81 estimated_specificity &amp;lt;- .99  anuncia que vamos a hablar de:
+ un país con una población no muy distinta de la de España * que sufre una pandemia con una prevalencia del 2% * en el que se realiza una selección de unos 60k sujetos * para aplicárseles unas pruebas con una sensibilidad y especificidad que pueden o no ser las que anuncia su prospecto,  supongo que para que dentro de unos años, cuando ya a nadie le importe, se publiquen unos datos que han guardado celosamente unos señores que mucho antes nos habrán regalado unos artículos científicos sobre el tema — necesariamente mediocres y que nos tendremos que creer— cuya publicación está garantizada por el mero hecho de que solo ellos tienen los CSVs mientras que la gente verdaderamente capaz, no.</description>
+    </item>
+    
+    <item>
+      <title>Varian sobre el muestreo</title>
+      <link>/2019/10/04/varian-sobre-el-muestreo/</link>
+      <pubDate>Fri, 04 Oct 2019 09:13:08 +0000</pubDate>
+      
+      <guid>/2019/10/04/varian-sobre-el-muestreo/</guid>
+      <description>Guardaba una nota sobre cierto artículo de Varian en el que se refería a la utilidad del muestreo en el mundo del big data. Creo que es Big Data: New Tricks for Econometrics, donde se lee:
+Gran parte del resto del artículo sigue estando vigente (aunque del 2014 hasta la actualidad haya llovido la tira).
+Nota: En la cita anterior, el adjetivo de data, business, no es ocioso. Business data significa, esencialemente, datos agregados.</description>
+    </item>
+    
+    <item>
+      <title>Bayes no había previsto esto</title>
+      <link>/2019/06/18/bayes-no-habia-previsto-esto/</link>
+      <pubDate>Tue, 18 Jun 2019 09:13:21 +0000</pubDate>
+      
+      <guid>/2019/06/18/bayes-no-habia-previsto-esto/</guid>
+      <description>Muestreo. Se trata de seleccionar unas unidades experimentales (proceso caro) y tratar de estimar una proporción (p.e.) en la población total.
+Existen técnicas para estimar el valor N mínimo para garantizar cierto margen de error. Pero dichas técnicas requieren conocer (algo d-) el resultado del experimento para estimar N (p.e. una estimación de la proporción que cabe esperar).
+Circulus in demonstrando.
+Bayes. Ve examinando unidades y actualiza tus intervalos de credibilidad hasta que tengan la anchura solicitada.</description>
+    </item>
+    
+    <item>
+      <title>Un problema: cómo muestrear histogramas con medias.  La vía de los trapecios</title>
+      <link>/2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios/</link>
+      <pubDate>Fri, 13 Apr 2018 08:13:32 +0000</pubDate>
+      
+      <guid>/2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios/</guid>
+      <description>Me refiero muy impropiamente con histogramas con medias a algo parecido a que son resúmenes de datos en los que aparecen no solo intervalos sino también las medias correspondientes a los sujetos dentro de esos intervalos.
+Si uno quiere hacer cosas con esos datos tiene una vía que consiste en muestrear el histograma. Pero la media en cada intervalo será su punto central, no necesariamente su valor medio conocido.
+Por simplificar, supongamos que tenemos datos en el intervalo [0, 1] cuya media es $latex \mu$.</description>
+    </item>
+    
+    <item>
+      <title>Este también buscaba la precisión donde tal vez menos importaba</title>
+      <link>/2017/06/01/este-tambien-buscaba-la-precision-donde-tal-vez-menos-importaba/</link>
+      <pubDate>Thu, 01 Jun 2017 08:13:24 +0000</pubDate>
+      
+      <guid>/2017/06/01/este-tambien-buscaba-la-precision-donde-tal-vez-menos-importaba/</guid>
+      <description>Esta no va de prensa sino de una reunión de vecinos. Al terminar, hablo con uno de ellos y me cuenta que siempre se había dedicado a la construcción y que en alguna ocasión tocó la estadística. En particular, en el estudio, relevantísimo, que describo a continuación.
+En los años 70, como parte de la preparación de las ofertas para construir una incineradora de basura en Madrid, una que se ve que aún existe, le encomendaron la muy estadística tarea de estimar el poder calorífico de la basura de la capital.</description>
+    </item>
+    
+    <item>
+      <title>¿Os acordáis del rumano de la &#34;fragoneta&#34;? Pues se ha mudado a Chicago</title>
+      <link>/2016/10/18/os-acordais-del-rumano-de-la-fragoneta-pues-se-ha-mudado-a-chicago/</link>
+      <pubDate>Tue, 18 Oct 2016 08:13:50 +0000</pubDate>
+      
+      <guid>/2016/10/18/os-acordais-del-rumano-de-la-fragoneta-pues-se-ha-mudado-a-chicago/</guid>
+      <description>Del rumano de la fragoneta hablé en una charla del 2013 que fue después glosada por Daniel Mediavilla en un par de medios.
+Y, ¿sabéis qué? ¡Se ha ido a vivir a Illinois!</description>
+    </item>
+    
+    <item>
+      <title>Por una vez, accedo a hablar de algo de lo que no sé</title>
+      <link>/2016/06/29/por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se/</link>
+      <pubDate>Wed, 29 Jun 2016 08:13:32 +0000</pubDate>
+      
+      <guid>/2016/06/29/por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se/</guid>
+      <description>Me piden que opine sobre lo de las encuestas electorales y su error. Vaya por delante mi confesión de que de eso sé poco. Soy matemático, no estadístico, y uno de los mayores huecos (¿simas?) de mi formación estadística tiene que ver con todo lo relativo al muestreo. Así que, con la valentía que aporta la ignorancia, procedo.
+El primer gran problema con las encuestas electorales es que confunden países con urnas y gente con bolas de colores.</description>
+    </item>
+    
+    <item>
+      <title>Metropolis-Hastings en Scala</title>
+      <link>/2016/06/16/metropolis-hastings-en-scala/</link>
+      <pubDate>Thu, 16 Jun 2016 08:13:08 +0000</pubDate>
+      
+      <guid>/2016/06/16/metropolis-hastings-en-scala/</guid>
+      <description>Tengo la sensación de que un lenguaje funcional (como Scala) está particularmente bien adaptado al tipo de operaciones que exige MCMC.
+Juzguen Vds.
+Primero, genero datos en R:
+datos &amp;lt;- rnorm(500, 0.7, 1) writeLines(as.character(datos), &amp;quot;/tmp/datos.txt&amp;quot;)  Son de una normal con media 0.7. En el modelo que vamos a crear, suponemos conocida (e igual a 1) la varianza de la normal y trataremos de estimar la media suponiéndole una distribución a priori normal estándar.</description>
+    </item>
+    
+    <item>
+      <title>Un ejemplo de &#34;importance sampling&#34; (que no sé cómo traducir)</title>
+      <link>/2016/03/28/un-teorema-de-muestreo-que-no-se-si-existe/</link>
+      <pubDate>Mon, 28 Mar 2016 09:13:26 +0000</pubDate>
+      
+      <guid>/2016/03/28/un-teorema-de-muestreo-que-no-se-si-existe/</guid>
+      <description>Imaginemos que queremos muestrear una variable aleatoria cuya función de densidad es (proporcional a) el producto de otras dos (no necesariamente propias). Por ejemplo, la gamma, cuya función de densidad es $latex K x^{k-1} \exp(-\lambda x)$, el producto de una exponencial y una distribución impropia con densidad $latex x^{k-1}$.
+Supongamos que no sabemos hacer
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) shape &amp;lt;- 3 rate &amp;lt;- 3 m0 &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/rgamma&amp;quot;&amp;gt;rgamma(1000, shape = shape, rate = rate)  Pero supongamos que sí que sabemos muestrear la distribución exponencial, lo que permite escribir:</description>
+    </item>
+    
+    <item>
+      <title>Dime qué muestreas y te diré cuál es tu sesgo</title>
+      <link>/2016/03/14/dime-que-muestreas-y-te-dire-cual-es-tu-sesgo/</link>
+      <pubDate>Mon, 14 Mar 2016 09:13:24 +0000</pubDate>
+      
+      <guid>/2016/03/14/dime-que-muestreas-y-te-dire-cual-es-tu-sesgo/</guid>
+      <description>El telón de Aquiles del big data es el sesgo. Me gustaría hablar más de ello, pero me agarra de la pluma uno de esos NDAs. Así que hablaré de otra cosa.
+Si le preguntas a la gente cuántos hermanos son en la familia, el promedio del resultado tenderá a ser superior al número medio de hijos por familia. Esencialmente, porque no estás muestreando familias sino hijos. El tautológico hecho de que las familias con más hijos tengan más hijos hace que estén sobrerrepresentadas en la muestra.</description>
+    </item>
+    
+    <item>
+      <title>La democracia no representativa no es representativa</title>
+      <link>/2016/02/22/la-democracia-no-representativa-no-es-representativa/</link>
+      <pubDate>Mon, 22 Feb 2016 09:13:40 +0000</pubDate>
+      
+      <guid>/2016/02/22/la-democracia-no-representativa-no-es-representativa/</guid>
+      <description>En estadística, una muestra representativa tiene que contener las características relevantes de la población en las mismas proporciones en que están incluidas en tal población (referencia).
+En estos tiempos, se están poniendo de moda alternativas a la muy tradicional democracia representativa que, en contraposición a ella, no aspiran a serlo. Y su principal problema radica, precisamente, en que no lo son.
+Lo anterior no es más que una opinión: es la constatación de un hecho.</description>
+    </item>
+    
+  </channel>
+</rss>

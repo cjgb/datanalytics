@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fisiognomía on datanalytics</title>
+    <link>/tags/fisiognom%C3%ADa/</link>
+    <description>Recent content in fisiognomía on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 08 May 2015 08:13:06 +0000</lastBuildDate><atom:link href="/tags/fisiognom%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A cuento de mi clase práctica de modelos no supervisados</title>
+      <link>/2015/05/08/a-cuento-de-mi-clase-practica-de-modelos-no-supervisados/</link>
+      <pubDate>Fri, 08 May 2015 08:13:06 +0000</pubDate>
+      
+      <guid>/2015/05/08/a-cuento-de-mi-clase-practica-de-modelos-no-supervisados/</guid>
+      <description>A cuento de la sesión práctica de modelos no supervisados que impartiré este sábado y que estoy preparando justo ahora, traigo a la atención de mis lectores una imagen que el asunto me sugiere:
+
+La fuente también vale la pena. Aunque habla de otra cosa.
+Nota: releyendo la entrada antes de publicarla definitivamente, me doy cuenta de que igual estoy siendo excesivamente sutil.</description>
+    </item>
+    
+  </channel>
+</rss>

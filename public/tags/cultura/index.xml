@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cultura on datanalytics</title>
+    <link>/tags/cultura/</link>
+    <description>Recent content in cultura on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 14 Sep 2016 08:13:00 +0000</lastBuildDate><atom:link href="/tags/cultura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hamilton, Carnot y el Bosco</title>
+      <link>/2016/09/14/hamilton-carnot-y-el-bosco/</link>
+      <pubDate>Wed, 14 Sep 2016 08:13:00 +0000</pubDate>
+      
+      <guid>/2016/09/14/hamilton-carnot-y-el-bosco/</guid>
+      <description>Por culpa de una nevera que no enfriaba como era debido, veinte años después, estoy repasando mi termodinámica: entropía, ciclo de Carnot, etc.
+Por culpa de Stan estoy repasando mi mecánica hamiltoniana.
+Y lo estoy disfrutando muchísimo.
+Dizque hay una exposición del Bosco en El Prado. Que si cuesta 16 euros. Que si solo puedes ver los cuadros de lejos porque hay toneladas de gente del extrarradio que hace su visita anual al centro.</description>
+    </item>
+    
+    <item>
+      <title>Cultura viejuna y anumerismo</title>
+      <link>/2015/11/05/cultura-viejuna-y-anumerismo/</link>
+      <pubDate>Thu, 05 Nov 2015 08:13:42 +0000</pubDate>
+      
+      <guid>/2015/11/05/cultura-viejuna-y-anumerismo/</guid>
+      <description>Intolerable.
+Abres las páginas de cultura de cualquier periódico y compruebas que los periodistas no tienen recato alguno en hablar de (incluso elogiar) obras inescrutables de pintores oscuros, géneros minoritarios, libros eruditísimos, películas aburridísimas en que no pasa un carajo, obras teatrales rarísimas con actores semidesnudos que se descuelgan del techo con un arnés, ballets soporíferos y todo tipo de burrufalla que defiene el estándar de lo que hoy en día se entiende por ser culto.</description>
+    </item>
+    
+  </channel>
+</rss>

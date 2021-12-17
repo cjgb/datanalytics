@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>gráficos - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="gráficos" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/gr%C3%A1ficos/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/gr%C3%A1ficos/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">gráficos</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/04/10/pues-si-puede-fabricarse-uno-para-espana/" rel="bookmark">
+			Pues sí, puede fabricarse uno para España
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-04-10T08:13:28Z">2017-4-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Es
+responde a mi entrada de la semana pasada y se lo debemos a la gentileza de Sergio J.
+El código, con mínimas modificaciones mías (para automatizar la descarga de los datos) es
+library(pxR) library(dplyr) library(tidyr) library(ggplot2) #---- Carga y transformacion de datos download.file(&quot;http://www.datanalytics.com/uploads/3199.px&quot;, &quot;3199.px&quot;) pob &lt;- read.px(&quot;3199.px&quot;, encoding = &quot;latin1&quot;) pob &lt;- as.data.frame(pob) pob$Sexo &lt;- NULL pob$Periodo &lt;- as.numeric(as.character(pob$Periodo)) pob &lt;- separate(pob, Provincias, into = c(&quot;id_provincia&quot;, &quot;provincia&quot;), sep = 3) pob$fecha &lt;- as.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/04/07/podria-fabricarse-uno-para-espana/" rel="bookmark">
+			¿Podría fabricarse uno para España?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-04-07T08:13:40Z">2017-4-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me refiero a algo similar a (referencia):
+Lo ideal sería crear una función compatible con el sistema de facetas de ggplot2 con nombre, p.e., facet_spain que permitiese disponer cualquier tipo de gráfico en una retícula similar.
+No particularmente difícil, pero sí, seguro, utilísimo.
+¿A nadie le tienta el proyecto?
+[Me encanta el impersonal de &ldquo;podría fabricarse&hellip;&rdquo;. ¡Es como tan de tirar la piedra y esconder la mano!]
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/02/22/las-graficas-en-la-prensa-de-alla/" rel="bookmark">
+			Las gráficas en la prensa (de allá)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-02-22T08:13:12Z">2017-2-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		La gráfica
+muestra el número (manifiestamente creciente) de gráficas publicadas en una muestra de ejemplares del NYT (una quinquenal en un día laborable de septiembre) tal como se cuenta aquí.
+¿Sería posible hacer un estudio similar con la prensa de aquí? Interesante, seguro, sí.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/12/20/las-conexiones-telefonicas-de-vodafone-espana-visualizadas-con-r/" rel="bookmark">
+			Las conexiones telefónicas de Vodafone España, visualizadas con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-12-20T08:13:24Z">2016-12-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me pasa un exalumno (no os perdáis su blog y su otro blog, especialmente si os interesa la versión friqui de la fotografía) de mi curso de R de KSchool, un gráfico que ha realizado con R para su empresa:
+Addenda: En los comentarios hay más enlaces relevantes (proporcionados por el autor de la imagen), que conducen al código, etc.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/12/02/no-soy-yo-sos-vos-repito-sos-vos/" rel="bookmark">
+			No soy yo, sos vos; repito, sos vos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-12-02T08:13:44Z">2016-12-2</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hoy he visto
+en una radio (sí, gráficos en una radio: el mundo está loco) y mi cabeza se ha puesto a dar vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas y más vueltas.
+Hasta que me he dado cuenta de que no era yo, que era el gráfico.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/10/13/dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing/" rel="bookmark">
+			Dos técnicas fundamentales para gráficos dinámicos de datos: &#34;linking&#34; y &#34;brushing&#34;
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-10-13T08:13:39Z">2016-10-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El otro día me tocó enseñar algo de lo que no sé mucho: gráficos interactivos con R. Hay muchos paquetes que vienen a hacer más o menos lo mismo. Es tentador limitarse a eso, a exponerlas. O más bien, a exponer unas vías de entrada, a establecer unas cabezas de playa desde las cuales el interesado pueda avanzar autónomamente.
+Tanto (tentador) que uno pasa por alto la razón de ser misma de querer incorporar interactividad a los gráficos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/07/15/una-abominacion-grafica/" rel="bookmark">
+			Una abominación gráfica
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-07-15T08:13:55Z">2016-7-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Llega el verano, llega el relleno: rescato de mi disco duro una abominación gráfica,
+para el espanto de todos Vds.
+Aparte de otras consideraciones, si la tasa es negativa, ¿se crea una imagen especular del perfil del país?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/05/12/tartas-con-porciones-negativas/" rel="bookmark">
+			Tartas con porciones negativas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-05-12T08:13:58Z">2016-5-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Aunque te pueda costar imaginarlas, existen:
+Están sacadas de la página de Red Eléctica (es que hoy he puesto una lavadora) y el gajo que sobresale a las diez es la aportación negativa de la conexión con las Baleares a sistema eléctrico peninsular:
+¿Por qué —me pregunto— añadirán un uso de la electricidad en una gráfica que, según su título, corresponde a su generación? ¿Quién tuvo la idea de colocar un gajo negativo?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/04/27/graficos-interactivos-con-r-un-resumen/" rel="bookmark">
+			Gráficos interactivos con R: un resumen
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-04-27T08:13:58Z">2016-4-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Aquí encontrará el lector un resumen de herramientas para crear gráficos interactivos con R que, por referencia, discute
+* [`ggvis`](http://ggvis.rstudio.com/): desarrollados por los creadores de `ggplot2` * [`rCharts`](http://rcharts.io/): una interfaz de R con una serie de librerías de javascript para crear gráficos * [`plotly`](https://plot.ly/r/): hace magia para añadir interactividad a gráficos creados con `ggplot2` (y otros) * [`googleVis`](http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_examples.html): que permite utilizar [Google Chart Tools](https://developers.google.com/chart/) desde R  
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/" rel="bookmark">
+			Hoy que me he puesto traje y corbata...
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-03-10T09:13:12Z">2016-3-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		&hellip; (por motivos que importan pero no debo revelar a mis lectores) aprovecho para criticar a esos tipos que, vistiendo como yo, insisten reiteradamente a sus analistas en que les proporcionen un número. Un número que tiene que ser cerrado, indiscutible, pivotal.
+A esos que gastan traje y corbata como yo hoy les horroriza la varianza. Le espantan, seguro, esos punticos que tan opotunamente coloca Kiko Llaneras alrededor de las medias de este estupendo
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/03/01/ficheros-kml-con-r-y-ggmap/" rel="bookmark">
+			Ficheros KML con R y ggmap
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-03-01T09:13:25Z">2016-3-1</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Fácil:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/maptools&quot;&gt;maptools) library(ggmap) # un fichero bajado el Ayto. de Madrid # (catálogo de datos abiertos) rutas &lt;- getKMLcoordinates(&quot;dat/130111_vias_ciclistas.kml&quot;) # procesando el fichero kml rutas &lt;- lapply(1:length(rutas), function(x) data.frame(rutas[[x]], id = x)) rutas &lt;- do.call(rbind, rutas) # mapa de Madrid mapa &lt;- get_map(&quot;Madrid&quot;, source = &quot;stamen&quot;, maptype = &quot;toner&quot;, zoom = 12) # pintando los tramos sobre el mapa ggmap(mapa) + geom_path(aes(x = X1, y = X2, &lt;a href=&quot;http://inside-r.org/r-doc/grDevices/group&quot;&gt;group = id), data = rutas, colour = &quot;red&quot;)  produce
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/02/10/visualizacion-de-datos-de-salud-con-nihil-obstat-cientifico/" rel="bookmark">
+			Visualización de datos de salud con nihil obstat científico
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-02-10T09:13:03Z">2016-2-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Investigando para las clases del máster de visualización de datos de Unidad Editorial (que arranca hoy mismo), di con Vizhealth, una guía de estilo para la representación de datos relativos a la salud de los individuos con el nihil obstat de un equipo multidisciplinar de médicos, diseñadores, sicólogos, etc.
+Id, que ellos lo cuentan mejor que yo, y visitad la galería de ejemplos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/01/06/visualizando-los-quinientos-millones-de-la-begun/" rel="bookmark">
+			Visualizando los quinientos millones de la Begún
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-01-06T08:13:44Z">2016-1-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		 Julio Verne, Los quinientos millones de la begún, 1879
+ 
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/tags/gr%C3%A1ficos/">«</a>
+	<span class="pagination__item pagination__item--current">2/11</span>
+	<a class="pagination__item pagination__item--next btn" href="/tags/gr%C3%A1ficos/page/3/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

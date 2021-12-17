@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epidemiología on datanalytics</title>
+    <link>/tags/epidemiolog%C3%ADa/</link>
+    <description>Recent content in epidemiología on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 11 Dec 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/epidemiolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La lotería del hardware y la cámara de resonancia académica</title>
+      <link>/2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/</link>
+      <pubDate>Fri, 11 Dec 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/</guid>
+      <description>El artículo The Hardware Lottery es, hasta cierto punto, informativo. En el fondo, no dice nada que no supiésemos ya: que ciertas ideas, algoritmos, procedimientos, métodos, en diversas disciplinas (¡no en matemáticas!) triunfan esencialmente porque les toca la lotería del hardware. No es que sean las mejores desde una perspectiva actual —podría usar aquí los términos etic y emic a lo ovetense.)— sino que fueron afortunados y bendecidos por el hecho de estar a la (típicamente, medianeja) altura de los tiempos medidos en términos del desarrollo del hardware.</description>
+    </item>
+    
+    <item>
+      <title>De &#34;la fiebre amarilla de Cádiz y pueblos comarcanos&#34; de 1800</title>
+      <link>/2020/09/11/de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800/</link>
+      <pubDate>Fri, 11 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/11/de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800/</guid>
+      <description>Esta entrada está motivada, en última instancia, por la lectura del libro (muy recomendable, por otra parte), The Art of Statistics: Learning From Data, de David Spiegelhalter. Sus muchas virtudes hacen, por contraste, que relumbre particularmente un defecto característico de toda esa creciente literatura sobre el tema: su aburridor anglocentrismo. Que si el médico devenido asesino en serie, que si los cirujanos de Bristol, que si el manidísimo John Snow (que esta vez, en este libro, de casualidad, no aparece),&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Un recordatorio: MOMOCalor está &#34;up and running&#34;</title>
+      <link>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</link>
+      <pubDate>Mon, 27 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</guid>
+      <description>Por desgracia, MoMo ya no exige presentación. Pero con los termómetros acariciando los 40º no está mal recordar la existencia de MoMoCalor, su hermanito, que trata atribuir mortalidad a los excesos de temperaturas.
+¿Por qué es particularmente importante MoMoCalor hoy? Recuérdese que MoMo estima, simplemente, desviaciones de mortalidad con respecto a la que sería la normal en una fecha determinada. Cuando hay una epidemia o una ola de calor, la mortalidad crece y MoMo lo detecta.</description>
+    </item>
+    
+    <item>
+      <title>¿42.000 muertes por coronavirus? Una corrección de la heterogeneidad</title>
+      <link>/2020/05/04/42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad/</link>
+      <pubDate>Mon, 04 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/04/42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad/</guid>
+      <description>Publica hoy (cuando escribo) El Confidencial el artículo 42.000 muertes por covid: un estudio eleva la mortalidad un 76% sobre la cifra oficial citando el Estudio del exceso de mortalidad motivado por pandemia de Covid-19 de unos ingenieros de la UPM que corrige al alza los números de MoMo.
+El resumen es simple: MoMo no recoge todas las defunciones, solo las de los registros civiles informatizados. Aunque la cobertura sea del ~95% de la población española, hay diferencias grandes por CCAA (y aún más, aunque no haya cifras públicas al respecto, por provincia).</description>
+    </item>
+    
+    <item>
+      <title>Be-MOMO</title>
+      <link>/2020/04/16/be-momo/</link>
+      <pubDate>Thu, 16 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/16/be-momo/</guid>
+      <description>Hay comparaciones odiosas. Así que no voy a comparar con nada. Voy a limitarme a invitaros a ver cómo divulgan información epidemiológica en Bélgica:
+ Coronavirus: panel de control y datos * Enfermedades infecciosas * Mortalidad * Enfermedades de transmisión sexual * ¡Garrapatas! * Gripe  Con su documentación, sus referencias, etc. y en inglés, además.
+En fin.</description>
+    </item>
+    
+    <item>
+      <title>El modelo SIR con inferencia</title>
+      <link>/2020/03/30/el-modelo-sir-con-inferencia/</link>
+      <pubDate>Mon, 30 Mar 2020 10:32:56 +0000</pubDate>
+      
+      <guid>/2020/03/30/el-modelo-sir-con-inferencia/</guid>
+      <description>El modelo SIR es deductivo: dados una serie de parámetros, plantea una ecuación diferencial cuya solución es perfectamente limpia y determinista, tal como gusta a matemáticos y físicos:
+Pero, ¿quién y cómo le pone al gato el cascabel de determinar los parámetros más adecuados para el modelo? Los parámetros son inciertos, ruidosos y producto de los datos que el modelo mismo quiere representar. Lo suyo sería enlazar la ecuación diferencial</description>
+    </item>
+    
+    <item>
+      <title>Dos escenarios mutuamente incompatibles: extinción o cronificación</title>
+      <link>/2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/</link>
+      <pubDate>Tue, 17 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/</guid>
+      <description>El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en china que llegaron a tener un número importante de casos,
+pero donde ya no quedan casos activos:
+El otro es el escenario RU: el virus va a seguir entre nosotros y todos, en algún momento u otro vamos a pasar por él (o, más propiamente, a la inversa).</description>
+    </item>
+    
+    <item>
+      <title>La causa de muerte no es la causa de muerte</title>
+      <link>/2020/03/15/la-causa-de-muerte-no-es-la-causa-de-muerte/</link>
+      <pubDate>Sun, 15 Mar 2020 15:06:44 +0000</pubDate>
+      
+      <guid>/2020/03/15/la-causa-de-muerte-no-es-la-causa-de-muerte/</guid>
+      <description>[Este es un aviso para todos aquellos que depositan una excesiva fe en lo que nos cuenta el INE.]
+La causa de muerte no es la causa de muerte. Al menos, necesariamente. Lo que el INE llama causa de muerte es una imagen distorsionada de la causa de muerte por culpa de un embudo administrativo.
+Comiendo con unos epidemiólogos en el ISCIII hace un tiempo, me decían, con cierta envidia, cómo en otros países como Dinamarca, se registraban hasta ocho causas de muerte: la última, la concomitante, la&amp;hellip; Y bromeaban diciendo que, al final, todos nos morimos de parada cardiorrespiratoria.</description>
+    </item>
+    
+    <item>
+      <title>Una R-referencia con referencias para epidemiólogos circunstanciales</title>
+      <link>/2020/03/09/una-r-referencia-con-referencias-para-epidemiologos-circunstanciales/</link>
+      <pubDate>Mon, 09 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/09/una-r-referencia-con-referencias-para-epidemiologos-circunstanciales/</guid>
+      <description>Lo del coronavirus nos ha convertido a todos en epidemiólogos circunstanciales. Casi ninguno de vosotros tenéis acceso a los datos necesarios para hacer cosas por vuestra cuenta, pero sí, tal vez gracias a esta entrada, las herramientas necesarias para ello.
+Podéis empezar por el paquete [survellance](https://CRAN.R-project.org/package=surveillance) de R, que implementa muchos de los métodos más modernos para la monitorización de brotes epidémicos.
+En particular, puede que os interese la función bodaDelay, intitulada Bayesian Outbreak Detection in the Presence of Reporting Delays, y que implementa una serie de métodos para estimar el número real de casos cuando las notificaciones de los positivos llegan tarde.</description>
+    </item>
+    
+    <item>
+      <title>La población envejece pero, ¿envejecen también los grupos de edad?</title>
+      <link>/2019/12/03/la-poblacion-envejece-pero-envejecen-tambien-los-grupos-de-edad/</link>
+      <pubDate>Tue, 03 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/03/la-poblacion-envejece-pero-envejecen-tambien-los-grupos-de-edad/</guid>
+      <description>La pregunta es relevante porque en demografía, epidemiología y otras disciplinas entre las que no se suele contar la economía, se suele agrupar la población en grupos de edad (y/u otras variables relevantes). Son habituales los grupos de edad quinquenales y la pregunta es: ¿son homogéneos dichos grupos de edad a lo largo del tiempo?
+No es una pregunta baladí: ha dado lugar a noticias como Why So Many White American Men Are Dying que no, no se explican por la desesperación o por la epidemia de opioides sino por el envejecimiento relativo de los grupos de edad en cuestión.</description>
+    </item>
+    
+    <item>
+      <title>DLMs</title>
+      <link>/2019/10/31/dlms/</link>
+      <pubDate>Thu, 31 Oct 2019 09:13:08 +0000</pubDate>
+      
+      <guid>/2019/10/31/dlms/</guid>
+      <description>O Distributed Lag Models (véase, por ejemplo, [dLagM](https://cran.r-project.org/web/packages/dLagM/index.html)).
+Son modelos para estimar el impacto de una serie temporal sobre otra en situaciones como la siguientes:
+ Una serie mide excesos de temperaturas (en verano). * La otra, defunciones.  Existe un efecto causal (débil, pero medible) de la primera sobre la segunda. Pero las defunciones no ocurren el día mismo en que ocurren los excesos de temperaturas, sino que suelen demorarse unos cuantos días.</description>
+    </item>
+    
+    <item>
+      <title>Modelización de retrasos: una aplicación del análisis de supervivencia</title>
+      <link>/2019/07/03/modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia/</link>
+      <pubDate>Wed, 03 Jul 2019 09:13:52 +0000</pubDate>
+      
+      <guid>/2019/07/03/modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia/</guid>
+      <description>En vigilancia epidemiológica contamos eventos (p.e., muertes o casos de determinadas enfermedades). Lo que pasa es que el caso ocurrido en el día 0 puede notificarse con un retraso de 1, 2, 3&amp;hellip; o incluso más días. En algunas aplicaciones, incluso semanas.
+¿Cómo estimar el número de casos ocurridos el día 0 el día, p.e., 5?
+Se puede aplicar el análisis de la supervivencia donde el evento muerte se reinterpreta como notificación.</description>
+    </item>
+    
+    <item>
+      <title>Vigilancia de la mortalidad diaria asociada al exceso de temperatura</title>
+      <link>/2019/06/07/vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura/</link>
+      <pubDate>Fri, 07 Jun 2019 09:13:20 +0000</pubDate>
+      
+      <guid>/2019/06/07/vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura/</guid>
+      <description>Aquí. Se agradecen comentarios.</description>
+    </item>
+    
+    <item>
+      <title>De sesgo, varianza y gilipollas (esta vez, con la gripe como excusa)</title>
+      <link>/2018/02/13/de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa/</link>
+      <pubDate>Tue, 13 Feb 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/02/13/de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa/</guid>
+      <description>Un gilipollas se delatará por preferir una mentira exacta a una verdad aproximada. Y me refiero a La gripe ha causado ya más muertes en España que la pandemia de 2009, donde se lee que
+Pues bien, gilipollas del mundo: sabed que los muertos por gripe son muchos, muchos más que esos 472. Corred a echarle la culpa al gobierno, a Carmena, a Puigdemont y los catalanes, al pobrismo imperante o al heteropatriarcado rampante y dejadnos a la gente seria discutir el quid sosegadamente.</description>
+    </item>
+    
+    <item>
+      <title>Vivir del ruido</title>
+      <link>/2017/10/03/vivir-del-ruido/</link>
+      <pubDate>Tue, 03 Oct 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/10/03/vivir-del-ruido/</guid>
+      <description>1. Tienes acceso a la serie histórica de hospitalizaciones (p.e. en Madrid) por diversas (muchas) causas. 2. Tienes acceso a la serie histórica de mediciones de distintos factores ambientales (p.e., en Madrid): ruido, óxidos de nitrógeno, partículas en suspensión,... 3. Buscas correlaciones (y, por supuesto, las encuentras). 4. Les asocias [p-valore espurios](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/). 5. Lo escribes en inglés (frecuentemente) y publicas: * _Effect of Environmental Factors on Low Weight in Non-Premature Births: A Time Series Analysis_ * _Effects of noise on telephone calls to the Madrid Regional Medical Emergency Service (SUMMA 112)_ * _Short-term association between environmental factors and hospital admissions due to Dementia in Madrid_ * Impacto de la contaminación asociada al tráfico y la temperatura sobre variables adversas al nacimiento en Madrid.</description>
+    </item>
+    
+    <item>
+      <title>No lo busquéis porque no existe</title>
+      <link>/2017/09/21/no-lo-busqueis-porque-no-existe/</link>
+      <pubDate>Thu, 21 Sep 2017 08:13:55 +0000</pubDate>
+      
+      <guid>/2017/09/21/no-lo-busqueis-porque-no-existe/</guid>
+      <description>Pero en Bélgica sí y es este.
+¿A que es chulo?
+Nota: Está hecho con dc.js.</description>
+    </item>
+    
+    <item>
+      <title>Liberado BioStatFLOSS, una colección de recursos libres para la bioestadística y la epidemiología </title>
+      <link>/2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/</link>
+      <pubDate>Mon, 29 Oct 2012 07:50:38 +0000</pubDate>
+      
+      <guid>/2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/</guid>
+      <description>Quiero publicitar hoy BioStatFLOSS, una recopilación de software (libre, como el propio nombre indica) para Windows, especialmente indicado a la hora de realizar trabajos en el campo de la bioestadística y la epidemiología (pero que también se puede utilizar para la realización de estudios estadísticos más generales).
+El software (que incluye R como programa estrella) ha sido portabilizado —si no existía ya una versión portable, es decir, que no necesite instalación— y se ha creado un lanzador común desde donde se puedan llamar a todos esos programas (véase la captura adjunta).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contaminación on datanalytics</title>
+    <link>/tags/contaminaci%C3%B3n/</link>
+    <description>Recent content in contaminación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 01 Oct 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/contaminaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esos felices &#34;momentos Le Verrier&#34;</title>
+      <link>/2021/10/01/esos-felices-momentos-le-verrier/</link>
+      <pubDate>Fri, 01 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/10/01/esos-felices-momentos-le-verrier/</guid>
+      <description>Son muy infrecuentes, lo admito. Pero cuando ocurren, le dan a uno ganas de poner los pies encima la mesa y fumarse un puro.
+¿Qué son? Imagina que te pasan unos datos con el objetivo de realizar determinadas predicciones. Creas un modelo razonable —hasta bueno, dirías—, basado en primeros principios y que funciona bastante bien&amp;hellip; excepto en unos cuantos casos irreductibles (sí, como aquellos galos de su aldea). Compruebas el modelo una y mil veces y no le ves problemas significativos; revisas los datos de nuevo, especialmente en esos casos en los que el modelo falla, y parecen tener sentido.</description>
+    </item>
+    
+    <item>
+      <title>El modelo son las conclusiones</title>
+      <link>/2019/10/18/el-modelo-son-las-conclusiones/</link>
+      <pubDate>Fri, 18 Oct 2019 09:13:47 +0000</pubDate>
+      
+      <guid>/2019/10/18/el-modelo-son-las-conclusiones/</guid>
+      <description>El título es un tanto exagerado, tal vez tanto como el aforismo de McLuhan que lo inspira. Pero no pudo dejar de ocurrírseme al ver el gráfico
+acompañado del tuit
+Es increíble: un mapa de contaminación por NO2 con una enorme resolución tanto espacial (a nivel de manzana, prácticamente) como temporal (¡correla con la intensidad del tráfico!).
+Pero la medición del NO2 es o barata o cara. Y si, barata, mala: los sensores bien calibrados son caros y exigen un mantenimiento técnico solo al alcance de los ayuntamientos más pudientes.</description>
+    </item>
+    
+    <item>
+      <title>Causalidad. Atribución. Madrid Central.</title>
+      <link>/2019/06/05/causalidad-atribucion-madrid-central/</link>
+      <pubDate>Wed, 05 Jun 2019 09:13:59 +0000</pubDate>
+      
+      <guid>/2019/06/05/causalidad-atribucion-madrid-central/</guid>
+      <description>Si hay algo inaprensible, es la causalidad. No la que entiende Maripili, claro, sino esta. Pero vivimos en tiempos de tremendamente polémicas y presuntamente potentísimas y causas eficientes. Verbigracia, la desigualdad&amp;hellip; y Madrid Central:
+ Que dizque hace subir el precio de los pisos el 2.67% más que en su derredor. * Que dizque incrementa / reduce el tráfico en su frontera. * Que dizque&amp;hellip;  Argumentas en términos causales cuando esperas que te lea Maripili.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre correlaciones espurias y más sobre correlación y causalidad</title>
+      <link>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</link>
+      <pubDate>Mon, 27 Nov 2017 08:13:17 +0000</pubDate>
+      
+      <guid>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</guid>
+      <description>Hoy toca esto:
+Se trata de una invitación para leer el artículo Los picos de contaminación coinciden con un aumento radical en los ingresos hospitalarios, un cúmulo de desafueros epilogados por el ya habitual
+En primer lugar y antes de nada, me es obligado felicitar a los dos autores del estudio: desde el sector privado, sin ningún tipo de subvención pública y con coste cero para el contribuyente, han llegado a la misma conclusión que un señor, este, que, aparte de omitir la coletilla anterior en sus artículos, nos cuesta a todos un chorro de euros cada mes.</description>
+    </item>
+    
+    <item>
+      <title>Los resultados de esta investigación tienen puntos en común con la metodología científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención que la tenga</title>
+      <link>/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/</link>
+      <pubDate>Fri, 05 Feb 2016 09:13:42 +0000</pubDate>
+      
+      <guid>/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/</guid>
+      <description>¡Olé!
+Con la frase que titula esta entrada se cierra este artículo tan torero de eldiario.es.
+El resto de lo que se publica me viene de perillas para ilustrar a mis alumnos del máster de ciencia de datos de KSchool eso de la dependencia e independencia condicional.
+Lo que el artículo argumenta, y que nadie pone en duda, es que altas concentraciones de óxidos de nitrógeno (A) y picos de hospitalizaciones por enfermedades respiratiorias (B), no son eventos independientes.</description>
+    </item>
+    
+    <item>
+      <title>Contaminación y restricciones de tráfico en Madrid: ¿por qué no se puede ni prevenir ni &#34;estimar&#34;?</title>
+      <link>/2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar/</link>
+      <pubDate>Mon, 07 Dec 2015 08:13:26 +0000</pubDate>
+      
+      <guid>/2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar/</guid>
+      <description>Aparentemente, porque así lo establece el protocolo de actuación, del ayuntamiento de la villa. Lo resume la imagen
+
+que bajé de Twitter y que me llamó la atención sobremanera. Algún gobierno municipal decidió en su día que estaba fuera de lugar tanto prevenir como estimar.
+Me preocupa que dicho gobierno municipal estuviese reñido con el refranero en lo concerniente a la prevención. Pero no es el asunto, entiendo, por el que mis lectores me visitan.</description>
+    </item>
+    
+  </channel>
+</rss>

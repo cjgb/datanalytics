@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>campañas on datanalytics</title>
+    <link>/tags/campa%C3%B1as/</link>
+    <description>Recent content in campañas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 29 Sep 2014 07:13:08 +0000</lastBuildDate><atom:link href="/tags/campa%C3%B1as/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decisiones basadas en datos: ¿siempre posibles en la práctica?</title>
+      <link>/2014/09/29/decisiones-basadas-en-datos-siempre-posibles-en-la-practica/</link>
+      <pubDate>Mon, 29 Sep 2014 07:13:08 +0000</pubDate>
+      
+      <guid>/2014/09/29/decisiones-basadas-en-datos-siempre-posibles-en-la-practica/</guid>
+      <description>Me gusta criticar. Bien lo saben quienes me siguen. Pero hoy toca aplaudir un artículo tan raro como valiente. Que no hace sino criticar por mí. Se titula On the Near Impossibility of Measuring the Returns to Advertising. Sus autores, quiero subrayarlo aquí, trabajan en Google y Microsoft.
+Los métodos data driven gozan del mayor de los predicamentos. Véase una pequeña muestra extraída de una reciente conversación en Twitter:</description>
+    </item>
+    
+  </channel>
+</rss>

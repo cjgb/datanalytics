@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sociología on datanalytics</title>
+    <link>/tags/sociolog%C3%ADa/</link>
+    <description>Recent content in sociología on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 15 Jun 2021 00:34:00 +0000</lastBuildDate><atom:link href="/tags/sociolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Viven más los ganadores de los Óscars (que otros actores no premiados)?</title>
+      <link>/2021/06/15/viven-mas-los-ganadores-de-los-oscars-que-otros-actores-no-premiados/</link>
+      <pubDate>Tue, 15 Jun 2021 00:34:00 +0000</pubDate>
+      
+      <guid>/2021/06/15/viven-mas-los-ganadores-de-los-oscars-que-otros-actores-no-premiados/</guid>
+      <description>La respuesta es sí. Al menos, si haces caso a las principales cuñadofuentes que puedes encontrar buscando en Google sobre el asunto o el cuñadolibro que critiqué el otro día (y que, dicho sea de paso, ilustra el nivel de los sujetos a los que encomendamos la educación de las futuras generaciones patrias).
+Pero la respuesta es no. Un estudio de esas características tiene un serio riesgo de selección —efectivamente, para ganar un Óscar tienes que haber sobrevivido lo suficiente— que el primer y descuidado estudio sobre el asunto no tuvo la precaución de corregir.</description>
+    </item>
+    
+    <item>
+      <title>Sobre el llamado &#34;efecto Roseto&#34;</title>
+      <link>/2021/06/08/sobre-el-llamado-efecto-roseto/</link>
+      <pubDate>Tue, 08 Jun 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/06/08/sobre-el-llamado-efecto-roseto/</guid>
+      <description>Escribí ya hace tiempo (aquí)
+En la entrada se desarrolla el asunto. Pero es obvio que:
+ Si un fenómeno se distribuye más o menos al azar sobre un territorio pueden aparecer (y, de hecho, es muy improbable que no aparezcan) lugares pequeños con una proporción o inesperadamente alta o inesperadamente baja de casos. * Si quieres estudiar una relación con respecto a cualquier posible causa potencial (tal vez, al estilo de John Snow en la afamada epidemia de Londres), deberías realizar un estudio de zonas donde se dé la causa con zonas donde no.</description>
+    </item>
+    
+    <item>
+      <title>Una nota sobre el artículo &#34;retractado&#34; porque sus autores habían omitido vínculos con la industria del tabaco</title>
+      <link>/2021/04/29/una-nota-sobre-el-articulo-retractado-porque-sus-autores-habian-omitido-vinculos-con-la-industria-del-tabaco/</link>
+      <pubDate>Thu, 29 Apr 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/04/29/una-nota-sobre-el-articulo-retractado-porque-sus-autores-habian-omitido-vinculos-con-la-industria-del-tabaco/</guid>
+      <description>Hace unos días se retractó un artículo sobre la relación entre el tabaco y el covid porque los autores habían omitido cierta presunto conflicto de intereses (los detalles, aquí).
+He subrayado la palabra porque en el párrafo anterior: es la más relevante de toda la historia.
+No mucha gente sabe que el teorema de Pitágoras es simplemente la proposición 47 de los Elementos de Euclides. Ni a Euclides ni a nosotros nos importa en absoluto si Pitágoras tuvo conflicto de intereses alguno con la industria del cartabón ni con el sindicato de agrimensores.</description>
+    </item>
+    
+    <item>
+      <title>Acerca del CIS y la cocina</title>
+      <link>/2018/10/01/acerca-del-cis-y-la-cocina/</link>
+      <pubDate>Mon, 01 Oct 2018 08:13:44 +0000</pubDate>
+      
+      <guid>/2018/10/01/acerca-del-cis-y-la-cocina/</guid>
+      <description>Escribo hoy acerca del CIS y la cocina de la intención de voto. Lo hago desde la ignorancia informada en esos temas y sin pretensión alguna de ser o parecer más listo que otros.
+El CIS realiza unas encuestas (con un muestreo amplio y bien diseñado, cuentan), de las que obtiene, entre otras cosas, una serie de datos, $latex x$ que incluyen simpatía, recuerdo de voto, etc. Existe por otra parte un valor enteléquico, $latex y$, no siempre observable, que conocemos por resultados electorales si se votase hoy o algo parecido.</description>
+    </item>
+    
+  </channel>
+</rss>

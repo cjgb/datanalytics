@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Paréntesis, corchetes y rendimiento en R - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Paréntesis, corchetes y rendimiento en R" />
+<meta property="og:description" content="Conforme se populariza el uso de R, cobran creciente importancia las cuestiones concernientes a su rendimiento, su gestión de la memoria, etc. Hasta el punto que incluso uno de sus creadores, Ross Ihaka, ha expresado últimamente su descontento con las limitaciones de R (el enlace es gentileza de Daniel Castro) sugiriendo que sus componentes puramente estadísticos deberían construirse sobre la base de un lenguaje distinto, posiblemente Lisp.
+Dentro de este contexto de preocupación sobre el rendimiento de R, han aflorado algunas cuestiones acerca de la eficiencia del intérprete a la hora de resolver expresiones matemáticas." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2011/03/16/parentesis-corchetes-y-rendimiento-en-r/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-03-16T09:31:45&#43;00:00" />
+<meta property="article:modified_time" content="2011-03-16T09:31:45&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Paréntesis, corchetes y rendimiento en R</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-03-16T09:31:45Z">2011-3-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Conforme se populariza el uso de R, cobran creciente importancia las cuestiones concernientes a su rendimiento, su gestión de la memoria, etc. Hasta el punto que incluso uno de sus creadores, Ross Ihaka, ha expresado últimamente su <a href="http://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf">descontento con las limitaciones de R</a> (el enlace es gentileza de Daniel Castro) sugiriendo que sus componentes puramente estadísticos deberían construirse sobre la base de un lenguaje distinto, posiblemente Lisp.</p>
+<p>Dentro de este contexto de preocupación sobre el rendimiento de R, han aflorado algunas cuestiones acerca de la eficiencia del intérprete a la hora de resolver expresiones matemáticas. Por ejemplo, Radford Neal estudió el <a href="http://radfordneal.wordpress.com/2010/08/15/two-surpising-things-about-r/">desigual desempeño de R</a> frente a ciertas expresiones matemáticas equivalentes: en particular, la expresión</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>{a<span style="color:#f92672">*</span>{b<span style="color:#f92672">+</span>c}}</code></pre></td></tr></table>
+</div>
+</div>
+<p>frente a</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>(a<span style="color:#f92672">*</span>(b<span style="color:#f92672">+</span>c))</code></pre></td></tr></table>
+</div>
+</div>
+<p>Puede verse más información sobre el mismo tema <a href="http://radfordneal.wordpress.com/2010/08/19/speeding-up-parentheses-and-lots-more-in-r/">aquí</a>, <a href="http://xianblog.wordpress.com/2010/09/06/insane/">aquí</a> y <a href="http://blog.binfalse.de/2011/02/readability-vs-speed-in-r/">aquí</a>.</p>
+<p>Lo que resulta curioso, cuando no denunciable, es que los autores de todos estos análisis renuncien al rigor estadístico y comparen A contra B a partir de una única observación de cada caso. El código que presento debajo es sustancialmente más riguroso en ese aspecto: replica, aleatoriza y utiliza un análisis de la varianza para ver qué de cierto hay en la hipótesis del Sr. Neal:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">17
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">18
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">19
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">20
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">21
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">22
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">23
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">24
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">25
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">26
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">27
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">28
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">29
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">30
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#75715e">## seis funciones de distinto grado de complejidad</span>
+
+<span style="color:#75715e"># con paréntesis</span>
+p1 <span style="color:#f92672">&lt;-</span>  <span style="color:#a6e22e">function</span>(x) <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>(<span style="color:#ae81ff">1</span><span style="color:#f92672">+</span>x)
+p2 <span style="color:#f92672">&lt;-</span>  <span style="color:#a6e22e">function</span>(x) (<span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>(<span style="color:#ae81ff">1</span><span style="color:#f92672">+</span>x))
+p3 <span style="color:#f92672">&lt;-</span>  <span style="color:#a6e22e">function</span>(x) (((<span style="color:#ae81ff">1</span> <span style="color:#f92672">/</span>(((x <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>))))))
+
+<span style="color:#75715e"># con corchetes</span>
+ll1 <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>(x) <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>{<span style="color:#ae81ff">1</span><span style="color:#f92672">+</span>x}
+ll2 <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>(x) {<span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>{<span style="color:#ae81ff">1</span><span style="color:#f92672">+</span>x}}
+ll3 <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>(x) {{{<span style="color:#ae81ff">1</span> <span style="color:#f92672">/</span>{{{ x <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>} }} } } }
+
+dat <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">data.frame</span>(sep <span style="color:#f92672">=</span> <span style="color:#a6e22e">rep</span>(<span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;p&#34;</span>, <span style="color:#e6db74">&#34;ll&#34;</span>), each <span style="color:#f92672">=</span> <span style="color:#ae81ff">3</span>), complejidad <span style="color:#f92672">=</span> <span style="color:#a6e22e">factor</span>(<span style="color:#a6e22e">rep</span>(<span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">2</span>)))
+dat<span style="color:#f92672">$</span>foo <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">paste</span>(dat<span style="color:#f92672">$</span>sep, dat<span style="color:#f92672">$</span>complejidad, sep <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&#34;</span>)
+
+dat <span style="color:#f92672">&lt;-</span> dat[ <span style="color:#a6e22e">sample</span>(<span style="color:#a6e22e">rep</span>(<span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#a6e22e">nrow</span>(dat), <span style="color:#ae81ff">20</span>)), ]                <span style="color:#75715e"># aleatorizo</span>
+
+time.foo <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>(foo){
+    f <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">get</span>(foo)
+    <span style="color:#a6e22e">system.time</span>(kk <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">replicate</span>(<span style="color:#ae81ff">1000000</span>, <span style="color:#a6e22e">f</span>(<span style="color:#ae81ff">3</span>)))[3]	<span style="color:#75715e"># tiempos de 10^6 iteraciones</span>
+}
+
+dat<span style="color:#f92672">$</span>tiempo <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">sapply</span>(dat<span style="color:#f92672">$</span>foo, time.foo)                        <span style="color:#75715e"># ¡tiempos!</span>
+
+<span style="color:#a6e22e">summary</span>(<span style="color:#a6e22e">lm</span>(tiempo <span style="color:#f92672">~</span> sep <span style="color:#f92672">+</span> complejidad, data <span style="color:#f92672">=</span> dat))
+
+<span style="color:#a6e22e">boxplot</span>(tiempo <span style="color:#f92672">~</span> sep <span style="color:#f92672">+</span> <span style="color:#a6e22e">factor</span>(complejidad), data <span style="color:#f92672">=</span> dat,
+    ylim <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">0</span>, <span style="color:#a6e22e">max</span>(dat<span style="color:#f92672">$</span>tiempo)), xlab <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&#34;</span>,
+    ylab <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;segundos&#34;</span>,
+    main <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Tiempo de ejecución de 10^6 iteraciones\nde seis expresiones equivalentes en R&#34;</span>)</code></pre></td></tr></table>
+</div>
+</div>
+<p>La salida que obtengo en mi máquina es</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">17
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">18
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">19
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">Call<span style="color:#f92672">:</span>
+<span style="color:#a6e22e">lm</span>(formula <span style="color:#f92672">=</span> tiempo <span style="color:#f92672">~</span> sep <span style="color:#f92672">+</span> <span style="color:#a6e22e">factor</span>(complejidad), data <span style="color:#f92672">=</span> dat)
+
+Residuals<span style="color:#f92672">:</span>
+        Min       <span style="color:#ae81ff">1</span>Q   Median       <span style="color:#ae81ff">3</span>Q      Max
+<span style="color:#ae81ff">-0.44783</span> <span style="color:#ae81ff">-0.14304</span> <span style="color:#ae81ff">-0.06825</span>  <span style="color:#ae81ff">0.11217</span>  <span style="color:#ae81ff">1.33167</span>
+
+Coefficients<span style="color:#f92672">:</span>
+                        Estimate Std. Error t value <span style="color:#a6e22e">Pr</span>(<span style="color:#f92672">&gt;|</span>t<span style="color:#f92672">|</span>)
+(Intercept)           <span style="color:#ae81ff">4.74283</span>    <span style="color:#ae81ff">0.04307</span> <span style="color:#ae81ff">110.128</span>  <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">2e-16</span> <span style="color:#f92672">***</span>
+sepp                  <span style="color:#ae81ff">0.05583</span>    <span style="color:#ae81ff">0.04307</span>   <span style="color:#ae81ff">1.296</span>    <span style="color:#ae81ff">0.197</span>
+<span style="color:#a6e22e">factor</span>(complejidad)<span style="color:#ae81ff">2</span>  <span style="color:#ae81ff">0.24500</span>    <span style="color:#ae81ff">0.05275</span>   <span style="color:#ae81ff">4.645</span> <span style="color:#ae81ff">9.04e-06</span> <span style="color:#f92672">***</span>
+<span style="color:#a6e22e">factor</span>(complejidad)<span style="color:#ae81ff">3</span>  <span style="color:#ae81ff">1.03550</span>    <span style="color:#ae81ff">0.05275</span>  <span style="color:#ae81ff">19.632</span>  <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">2e-16</span> <span style="color:#f92672">***</span>
+<span style="color:#f92672">---</span>
+Signif. codes<span style="color:#f92672">:</span>  <span style="color:#ae81ff">0</span> ‘<span style="color:#f92672">***</span>’ <span style="color:#ae81ff">0.001</span> ‘<span style="color:#f92672">**</span>’ <span style="color:#ae81ff">0.01</span> ‘<span style="color:#f92672">*</span>’ <span style="color:#ae81ff">0.05</span> ‘.’ <span style="color:#ae81ff">0.1</span> ‘ ’ <span style="color:#ae81ff">1</span>
+
+Residual standard error<span style="color:#f92672">:</span> <span style="color:#ae81ff">0.2359</span> on <span style="color:#ae81ff">116</span> degrees of freedom
+Multiple R<span style="color:#f92672">-</span>squared<span style="color:#f92672">:</span> <span style="color:#ae81ff">0.7847</span>,     Adjusted R<span style="color:#f92672">-</span>squared<span style="color:#f92672">:</span> <span style="color:#ae81ff">0.7791</span>
+F<span style="color:#f92672">-</span>statistic<span style="color:#f92672">:</span> <span style="color:#ae81ff">140.9</span> on <span style="color:#ae81ff">3</span> and <span style="color:#ae81ff">116</span> DF,  p<span style="color:#f92672">-</span>value<span style="color:#f92672">:</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">2.2e-16</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>y el gráfico (¡nunca, nunca, nunca obviéis el gráfico!),</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2011/03/rendimiento_parentesis_r.png"><img src="http://www.datanalytics.com/wp-uploads/2011/03/rendimiento_parentesis_r.png" alt="">
+</a></p>
+<p>Así que:</p>
+<ul>
+<li>se aprecia una diferencia entre los tiempos de ejecución de según la complejidad de la expresión,</li>
+<li>aunque no entre el uso de paréntesis o corchetes.</li>
+</ul>
+<p>Y para acabar, dejo a mis lectores como tarea:</p>
+<ol>
+<li>Estudiar si vale la pena o no considerar la interacción entre las dos variables.</li>
+<li>Estudiar más rigurosamente el hecho de que la variable <code>sep</code> no tiene influencia comparando un modelo con ella y un modelo sin ella.</li>
+</ol>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/programaci%C3%B3n/" rel="tag">programación</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2011/03/15/metodologia-casuistica-y-tipologia/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Metodología, casuística y tipología</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2011/03/17/ya-no-si-sino-cuanto/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Ya no si sino cuánto</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

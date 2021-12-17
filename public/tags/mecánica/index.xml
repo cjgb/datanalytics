@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mecánica on datanalytics</title>
+    <link>/tags/mec%C3%A1nica/</link>
+    <description>Recent content in mecánica on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 16 Sep 2016 08:13:12 +0000</lastBuildDate><atom:link href="/tags/mec%C3%A1nica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hamilton al rescate de Metropolis-Hastings</title>
+      <link>/2016/09/16/hamilton-al-rescate-de-metropolis-hastings/</link>
+      <pubDate>Fri, 16 Sep 2016 08:13:12 +0000</pubDate>
+      
+      <guid>/2016/09/16/hamilton-al-rescate-de-metropolis-hastings/</guid>
+      <description>El algoritmo de Metropolis-Hastings se usa para muestrear una variable aleatoria con función de densidad $latex p$. Permite crear una sucesión de puntos $latex x_i$ que se distribuye según $latex p$.
+Funciona de al siguiente manera: a partir de un punto $latex x_i$ se buscan candidatos a $latex x_{i+1}$ de la forma $latex x_i + \epsilon$, donde $latex \epsilon$ es, muy habitualmente, $latex N(0, \delta)$ y $latex \delta$ es pequeño. De otra manera, puntos próximos a $latex x_i$.</description>
+    </item>
+    
+  </channel>
+</rss>

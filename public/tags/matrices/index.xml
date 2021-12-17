@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matrices on datanalytics</title>
+    <link>/tags/matrices/</link>
+    <description>Recent content in matrices on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 19 Sep 2019 09:13:55 +0000</lastBuildDate><atom:link href="/tags/matrices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Factorización matricial con nulos</title>
+      <link>/2019/09/19/factorizacion-matricial-con-nulos/</link>
+      <pubDate>Thu, 19 Sep 2019 09:13:55 +0000</pubDate>
+      
+      <guid>/2019/09/19/factorizacion-matricial-con-nulos/</guid>
+      <description>In illo tempore me llamaba mucho la atención encontrar métodos de ciencia de datos basados en factorización de matrices cuando la matriz a factorizar tenía nulos. Ocurre, por ejemplo, en sistemas de recomendación (cuando un usuario no ha visto o no nos ha dicho si le gusta determinada película).
+Y claro, con un nulo en la cosa, te comes los apuntes de álgebra lineal con papas.
+¿Cómo se hace? Si buscas $latex U$ y $latex V$ tales que $latex Y = UV^\prime$:</description>
+    </item>
+    
+    <item>
+      <title>Dos ejercicios (propuestos) sobre &#34;embeddings&#34;</title>
+      <link>/2018/10/15/dos-ejercicios-propuestos-sobre-embeddings/</link>
+      <pubDate>Mon, 15 Oct 2018 08:13:11 +0000</pubDate>
+      
+      <guid>/2018/10/15/dos-ejercicios-propuestos-sobre-embeddings/</guid>
+      <description>Se me han ocurrido en los dos últimos días un par de ejercicios sobre embeddings que no voy a hacer. Pero tal vez alguien con una agenda más despejada que la mía se anime. Uno es más bien tonto; el otro es más serio.
+El primero consiste en tomar las provincias, los códigos postales o las secciones censales y crear textos que sean, para cada una de ellas, las colindantes. Luego, construir un embedding de dimensión 2.</description>
+    </item>
+    
+    <item>
+      <title>¿De qué matriz son los &#34;embeddings&#34; una factorización?</title>
+      <link>/2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/</link>
+      <pubDate>Wed, 03 Oct 2018 08:13:49 +0000</pubDate>
+      
+      <guid>/2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/</guid>
+      <description>Hoy, embeddings. Esto va de reducir la dimensionalidad de un espacio generado por palabras (procedentes de textos). Si a cada palabra le asignamos un vector índice (todo ceros y un uno donde le corresponde), la dimensión del espacio de palabras es excesiva.
+La ocurrencia de algunos es asociar a cada palabra, $latex W_i$, un vector $latex w_i$ corto (p.e., 100) con entradas $latex w_{ij}$ a determinar de la manera que se explica a continuación.</description>
+    </item>
+    
+    <item>
+      <title>IV Meetup Machine Learning Spain: diapositivas y enlaces</title>
+      <link>/2015/03/05/iv-meetup-machine-learning-spain-diapositivas-y-enlaces/</link>
+      <pubDate>Thu, 05 Mar 2015 12:36:27 +0000</pubDate>
+      
+      <guid>/2015/03/05/iv-meetup-machine-learning-spain-diapositivas-y-enlaces/</guid>
+      <description>Las diapositivas que compilé para esto pueden bajarse de aquí.
+Son, premeditadamente, insuficientes para seguir el hilo de la charla. De todos modos, gran parte de las ideas a las que se refieren están descritas con algo más de detalle aquí.
+Creo que se grabó un vídeo, pero no sé ni si ni cuándo o cómo estará disponible.</description>
+    </item>
+    
+    <item>
+      <title>IV Meetup Machine Learning Spain: factorización no negativa de matrices y algunas aplicaciones</title>
+      <link>/2015/03/03/iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones/</link>
+      <pubDate>Tue, 03 Mar 2015 08:13:34 +0000</pubDate>
+      
+      <guid>/2015/03/03/iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones/</guid>
+      <description>Me han invitado a hablar en el IV Meetup Machine Learning Spain. Será el miércoles 4 de marzo en el lugar que en el enlace anterior indica.
+Mi charla será una versión extendida de un tema, la factorización no negativa de matrices y algunas aplicaciones, que mis lectores más fieles ya conocen.
+No sé cuántos de mis lectores de Madrid y derredores querrán sumarse. Tampoco sé cuántos de ellos, al acabar, que ya será hora de cenar, querrán hacerlo conmigo en MartinaCocina, a un par de cuadras del lugar del evento, para hablar de cosas interesantes.</description>
+    </item>
+    
+    <item>
+      <title>Factorizaciones positivas de matrices igualmente positivas</title>
+      <link>/2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/</link>
+      <pubDate>Thu, 19 Jun 2014 07:01:38 +0000</pubDate>
+      
+      <guid>/2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/</guid>
+      <description>Cuando tenía 18 años, pensaba, llegué a aprender todo lo que había que saber sobre factorización de matrices. Incluida la inutilidad de Jordan. El otro día, con un ciento y pico por ciento más de años, he descubierto una clase entera de factorizaciones que aquellos planes de estudios viejunos no contemplaban y que, ¡carajo!, aparte de útiles engarzan con otras ideas la mar de interesantes.
+Se trata de factorizaciones positivas de matrices igualmente positivas.</description>
+    </item>
+    
+  </channel>
+</rss>

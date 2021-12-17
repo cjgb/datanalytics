@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>álgebra on datanalytics</title>
+    <link>/tags/%C3%A1lgebra/</link>
+    <description>Recent content in álgebra on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/%C3%A1lgebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rarezas: ML algebraico</title>
+      <link>/2020/07/24/rarezas-ml-algebraico/</link>
+      <pubDate>Fri, 24 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/24/rarezas-ml-algebraico/</guid>
+      <description>Alguien (¡gracias!) me pasa Algebraic Machine Learning, que abunda sobre lo que escribí hace varios años. Confieso no haber entendido gran cosa en una primera (y última) lectura diagonal, pero tal vez alguno de mis lectores sí.</description>
+    </item>
+    
+  </channel>
+</rss>

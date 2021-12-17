@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackatón on datanalytics</title>
+    <link>/tags/hackat%C3%B3n/</link>
+    <description>Recent content in hackatón on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 20 Apr 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/hackat%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activa Madrid: el laboratorio de ideas</title>
+      <link>/2020/04/20/activa-madrid-el-laboratorio-de-ideas/</link>
+      <pubDate>Mon, 20 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/20/activa-madrid-el-laboratorio-de-ideas/</guid>
+      <description>Reproduzco de aquí:</description>
+    </item>
+    
+    <item>
+      <title>Ya que estamos de resaca electoral, ¡Hacking elections!</title>
+      <link>/2015/05/25/ya-que-estamos-de-resaca-electoral-hacking-elections/</link>
+      <pubDate>Mon, 25 May 2015 08:13:06 +0000</pubDate>
+      
+      <guid>/2015/05/25/ya-que-estamos-de-resaca-electoral-hacking-elections/</guid>
+      <description>Un pelo del perro que te mordió, decían, curaba la rabia. Un vaso de vino, la resaca de lo mismo. Si te has levantado hoy con dolor de cabeza de resaca electoral, estás de enhorabuena: tienes a mano participar en Hacking Elections.
+Los detalles, mucho mejor contados que podría hacerlo yo, en el enlace anterior.
+Nota: no podré asistir por compromisos laborales y personales; pero no me lo habría perdido. Tengo un par de ideas sobre cómo podría montar un cartograma combinando los paquetes sp e igraph de R y pocos sitios como Hacking Elections para tratar de ponerlas en negro sobre blanco.</description>
+    </item>
+    
+  </channel>
+</rss>

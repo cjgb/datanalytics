@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on datanalytics</title>
+    <link>/tags/software/</link>
+    <description>Recent content in software on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 10 Jul 2013 07:33:03 +0000</lastBuildDate><atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi definición de &#34;big data&#34;</title>
+      <link>/2013/07/10/mi-definicion-de-big-data/</link>
+      <pubDate>Wed, 10 Jul 2013 07:33:03 +0000</pubDate>
+      
+      <guid>/2013/07/10/mi-definicion-de-big-data/</guid>
+      <description>No sin descaro, me atrevo a aportar una definición alternativa a eso que llaman big data y que yo traduzco en ocasiones como grandes datos.
+No obstante, para comprenderla, considero necesaria una pequeña digresión de dos párrafos —con la que muchos, espero, no aprenderán nada que no traigan ya sabido— sobre los lenguajes de programación declarativos e imperativos.
+En los primeros, programar consiste esencialmente en escribir con cierta notación aquello que quieres: la suma de los elementos de un vector, el promedio de los valores de una columna de una tabla, la suma de los saldos de los clientes de Soria, etc.</description>
+    </item>
+    
+    <item>
+      <title>BI Survey 13: el veredicto del cliente</title>
+      <link>/2013/06/10/bi-survey-13-el-veredicto-del-cliente/</link>
+      <pubDate>Mon, 10 Jun 2013 14:09:54 +0000</pubDate>
+      
+      <guid>/2013/06/10/bi-survey-13-el-veredicto-del-cliente/</guid>
+      <description>Un cliente esporádico mío, BARC, me ha pedido que le ayude a divulgar su encuesta periódica de evaluación de herramientas de lo que llaman business intelligence.
+He accedido en parte, sí, porque hay que estar bien con los clientes. Sobre todo los esporádicos.
+
+Pero también porque el mundo del BI es sumamente opaco e impera la información asimétrica. Quienes compran herramientas como SAP, Cognos, SAS, Microstrategy, etc. están a dos velas de lo que ocurre en el edificio de al lado, de los problemas que van a encontrar en su implementación, de su rendimiento en producción.</description>
+    </item>
+    
+    <item>
+      <title>Liberado BioStatFLOSS, una colección de recursos libres para la bioestadística y la epidemiología </title>
+      <link>/2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/</link>
+      <pubDate>Mon, 29 Oct 2012 07:50:38 +0000</pubDate>
+      
+      <guid>/2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/</guid>
+      <description>Quiero publicitar hoy BioStatFLOSS, una recopilación de software (libre, como el propio nombre indica) para Windows, especialmente indicado a la hora de realizar trabajos en el campo de la bioestadística y la epidemiología (pero que también se puede utilizar para la realización de estudios estadísticos más generales).
+El software (que incluye R como programa estrella) ha sido portabilizado —si no existía ya una versión portable, es decir, que no necesite instalación— y se ha creado un lanzador común desde donde se puedan llamar a todos esos programas (véase la captura adjunta).</description>
+    </item>
+    
+    <item>
+      <title>El cuadrante mágico de Gartner y sus contradicciones internas</title>
+      <link>/2012/02/29/el-cuadrante-magico-de-gartner-y-sus-contradicciones-internas/</link>
+      <pubDate>Wed, 29 Feb 2012 07:09:28 +0000</pubDate>
+      
+      <guid>/2012/02/29/el-cuadrante-magico-de-gartner-y-sus-contradicciones-internas/</guid>
+      <description>A la gente de Gartner le encanta su (impropiamente denominado) cuadrante mágico, que es una cosa tal como
+
+Dispone Gartner sobre él los productos de diversos proveedores (de informática de gestión) en función de dos variables, ability to execute y completeness of vision. El cuadrante está partido en cuatro sectores en los que se ubican:
+ * Los líderes (_leaders_), que son los que obtienen buena calificación en ambas dimensiones.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la cuota de mercado mundial de las herramientas analíticas de negocio</title>
+      <link>/2010/08/22/sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio/</link>
+      <pubDate>Sun, 22 Aug 2010 13:50:11 +0000</pubDate>
+      
+      <guid>/2010/08/22/sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio/</guid>
+      <description>Hace poco, IDC —una empresa que hace estudios de mercado a nivel global de distintas herramientas de sofware y hardware — hizo público su informe periódico Worldwide Business Intelligence Tools 2009 Vendor Shares. En su página 8, la más jugosa del informe, aparece la tabla que reproduzco a continuación:
+
+Puede apreciarse cómo en el segmento de la minería de datos (que viene a ser a lo que se refieren con lo de advanced analytics) es SAS el claro dominador con IBM/SPSS en una débil segunda posición.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre el caso WPS vs. SAS</title>
+      <link>/2010/08/22/mas-sobre-el-caso-wps-vs-sas/</link>
+      <pubDate>Sun, 22 Aug 2010 13:31:31 +0000</pubDate>
+      
+      <guid>/2010/08/22/mas-sobre-el-caso-wps-vs-sas/</guid>
+      <description>Ayer quise publicar un comentario a este artículo sobre el reciente veredicto del caso SAS vs. WPS. Aunque ya hablé de eso el otro día, como no me lo publicaron (por ingnotas razones), hago constancia de mi comentario aquí:
+ The article is misleading in the sense that computer languages (and there exists such a thing as a SAS computer language) are not subject to copyright.
+I am free to write my own interpreter/compiler of Java, C, Python, PL/SQL or Logo.</description>
+    </item>
+    
+    <item>
+      <title>¿Ya has considerado pasarte a WPS?</title>
+      <link>/2010/08/12/ya-has-considerado-pasarte-a-wps/</link>
+      <pubDate>Thu, 12 Aug 2010 20:35:29 +0000</pubDate>
+      
+      <guid>/2010/08/12/ya-has-considerado-pasarte-a-wps/</guid>
+      <description>Ya no recuerdo si he hablado antes de WPS en este blog. Puede que lo haya hecho en algún otro. No estoy muy contento con esa empresa (con la que he tratado de manera inexplicablemente infructuosa de realizar algún tipo de negocio en el pasado) pero no está de más que los lectores de este blog tengan noticia de su existencia y naturaleza.
+WPS es una pequeña compañía inglesa que comercializa un clon de SAS.</description>
+    </item>
+    
+    <item>
+      <title>Qué hacer (y no hacer) con los bichitos que uno encuentra</title>
+      <link>/2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/</link>
+      <pubDate>Mon, 19 Jul 2010 22:00:40 +0000</pubDate>
+      
+      <guid>/2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/</guid>
+      <description>No sé si es porque gano agudeza visual, porque me vuelvo cascarrabias o, simplemente, porque tengo mala suerte. Pero cada vez me tropiezo con más bichitos de esos que en inglés se llaman bugs. Y me refiero a esos que son consustanciales a todo proyecto de software.
+Antes, antaño, simplemente los toleraba y, creo, vivía más feliz. Formaban parte del paisaje, como los mosquitos nocturnos en la jungla tailandesa. De un tiempo acá, sin embargo, tengo una relación más compleja con ellos.</description>
+    </item>
+    
+  </channel>
+</rss>

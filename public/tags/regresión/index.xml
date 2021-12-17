@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regresión on datanalytics</title>
+    <link>/tags/regresi%C3%B3n/</link>
+    <description>Recent content in regresión on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Oct 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/regresi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre las R² pequeñas y sus interpretaciones</title>
+      <link>/2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/</link>
+      <pubDate>Tue, 26 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/</guid>
+      <description>Hace unos meses escribí una entrada en defensa (parcial) de una regresión lineal con una R² pequeña. He vuelto a pensar sobre ella y retomo la discusión para esclarecer —sobre todo, para profanos— qué mide la R² y cómo interpretarla según el contexto.
+Comienzo por un experimento físico mental. En un laboratorio se realiza un experimento para medir la relación entre dos magnitudes físicas, un efecto $latex y$ y una causa $latex x$.</description>
+    </item>
+    
+    <item>
+      <title>Hay mil motivos para criticar una regresión &#34;trucha&#34;, pero una R² baja no es uno de ellos</title>
+      <link>/2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r%c2%b2-baja-no-es-uno-de-ellos/</link>
+      <pubDate>Tue, 16 Feb 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r%c2%b2-baja-no-es-uno-de-ellos/</guid>
+      <description>Todo esto arranca con el tuit:
+https://twitter.com/juanrallo/status/1356242130746941443
+Esa gráfica, extraída de un documento de la OCDE, creo, fue uno de los argumentos esgrimidos por JR Rallo para defender cierta postura que no viene al caso. Lo relevante para estas páginas es que fue contestado y protestado por muchos —de algunos de los cuales, dada su autoproclamada condición de divulgadores científicos, cabría esperar más— en términos exclusivamente de lo pequeño de la R².</description>
+    </item>
+    
+    <item>
+      <title>La regresión logística como el modelo más simple posible (que...)</title>
+      <link>/2020/06/24/la-regresion-logistica-como-el-modelo-mas-simple-posible-que/</link>
+      <pubDate>Wed, 24 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/24/la-regresion-logistica-como-el-modelo-mas-simple-posible-que/</guid>
+      <description>Problema de regresión. Queremos $latex y = f(\mathbf{x})$. Lo más simple que podemos hacer: fiarlo todo a Taylor y escribir $latex y = a_0 + \sum_i a_i x_i$.
+Problema de clasificación. Lo más simple que podemos hacer, de nuevo: linealizar. Pero la expresión lineal tiene rango en $latex (-\infty, \infty)$. Solución, buscar la función $latex f$ más sencilla que se nos pueda ocurrir de $latex (-\infty, \infty)$ en $latex [0, 1]$.</description>
+    </item>
+    
+    <item>
+      <title>Cosas que ocurrirán sin lugar a dudas tras el coronavirus</title>
+      <link>/2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/</link>
+      <pubDate>Wed, 15 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/</guid>
+      <description>Hay mucha incertidumbre sobre cómo será el mundo post-coronavirus. Pero una cosa es segura: tendremos gráficas tales como
+hasta en la sopa. La buena noticia para quienes son ellos y su ideología, es que hay tantos grados de libertad, i.e., la posibilidad de elegir muy cuidadosamente
+ las variables que colocar en el eje x, las fuentes, los años de los datos, etc., * los indicadores que colocar en el eje y, * los países, provincias, regiones, etc.</description>
+    </item>
+    
+    <item>
+      <title>10k regresiones truchas para que cada cual elija la que más le cuadre</title>
+      <link>/2020/04/03/10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre/</link>
+      <pubDate>Fri, 03 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/03/10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre/</guid>
+      <description>¿Recordáis la época en que existía una monocausa omnicacoexplicativa? Era la desigualdad que, a través de inefables mecanismos, generaba todo tipo de calamidades: infelicidad, enfermedad, inestabilidad política, etc.
+Tal se sostiene en, p.e., The Spirit Level: Why More Equal Societies Almost Always Do Better, un libro donde se argumenta alrededor de gráficas tales como
+Sin embargo, otro librito, The Spirit Level Delusion, revisitó esas cuestiones poco después y se dio cuenta de que si en lugar de tomar los datos de la fuente A los tomaba de la B; que si en lugar de usar cifras del año tal se usaba las del año cual; si se incluía el país X que aquellos habían considerado y se sacaba el Y, que solo se representaba a sí mismo, uno obtenía cosas tales como</description>
+    </item>
+    
+    <item>
+      <title>¿Lineal o logística?</title>
+      <link>/2020/02/14/lineal-o-logistica/</link>
+      <pubDate>Fri, 14 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/14/lineal-o-logistica/</guid>
+      <description>Hay cosas tan obvias que ni se plantea la alternativa. Pero luego va R. Gomila y escribe Logistic or Linear? Estimating Causal Effects of Treatments on Binary Outcomes Using Regression Analysis que se resume en lo siguiente: cuando te interese la explicación y no la predicción, aunque tu y sea binaria, usa regresión lineal y pasa de la logística.
+Nota: La sección 4.2 de An Introduction to Statistical Learning de se titula precisamente Why Not Linear Regression?</description>
+    </item>
+    
+    <item>
+      <title>¡Son todos igualitos!</title>
+      <link>/2020/01/10/son-todos-igualitos/</link>
+      <pubDate>Fri, 10 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/10/son-todos-igualitos/</guid>
+      <description>Y me refiero a
+extraído de aquí y lo que escribí ayer sobre la regresión con discontinuidades.</description>
+    </item>
+    
+    <item>
+      <title>Regresiones con discontinuidad y grados de libertad</title>
+      <link>/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/</link>
+      <pubDate>Thu, 09 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/</guid>
+      <description>Muy falto de ideas para el blog tendría que estar para traer a la consideración de sus lectores
+que ilustra el resultado principal del artículo discutido aquí.
+Mario, un lector del artículo nos quita la palabra de la boca a todos:
+Y prosigue citando referencias, etc. A lo que el autor responde (con un par de pares de huevos):
+Colofón: El artículo que enlazo artículo resume otro, académico, que parece no existir pese a tal vez haber existido: el enlace está roto y la referencia al paper no figura ni en el CV del autor ni en Google Académico.</description>
+    </item>
+    
+    <item>
+      <title>¿Y si quitamos el puntico de arriba a la izquierda?</title>
+      <link>/2019/05/29/y-si-quitamos-el-puntico-de-arriba-a-la-izquierda/</link>
+      <pubDate>Wed, 29 May 2019 09:13:32 +0000</pubDate>
+      
+      <guid>/2019/05/29/y-si-quitamos-el-puntico-de-arriba-a-la-izquierda/</guid>
+      <description>Esta entrada es una illustración de otra de no hace mucho, Análisis de la discontinuidad + polinomios de grado alto = &amp;hellip; Mirad:
+Se ha hecho un análisis de la discontinuidad usando parábolas a ambos lados del punto de corte. Y la discontinuidad no es pequeña. Pero me juego un buen cacho de lo que quede de mi reputación a que mucho de ella la explica el puntico de arriba a la izquierda.</description>
+    </item>
+    
+    <item>
+      <title>Análisis de la discontinuidad &#43; polinomios de grado alto = ...</title>
+      <link>/2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/</link>
+      <pubDate>Tue, 14 May 2019 09:13:05 +0000</pubDate>
+      
+      <guid>/2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/</guid>
+      <description>Una técnica que, al parecer, es muy del gusto de los economistas es lo del análisis de la discontinuidad. Es como todo lo que tiene que ver con causalImpact pero usando técnicas setenteras (regresiones independientes a ambos lados del punto de corte).
+Si a eso le sumas que las regresiones pueden ser polinómicas con polinomios de alto grado&amp;hellip; pasan dos cosas:
+ Tienes una probabilidad alta de obtener un resultado significativo, i.</description>
+    </item>
+    
+    <item>
+      <title>¿Quitar variables no significativas?</title>
+      <link>/2018/01/17/quitar-variables-no-significativas/</link>
+      <pubDate>Wed, 17 Jan 2018 08:13:31 +0000</pubDate>
+      
+      <guid>/2018/01/17/quitar-variables-no-significativas/</guid>
+      <description>Contexto: modelos de regresión con de varias a muchas variables. Muy particularmente cuando interesa la predicción.
+Pseudoproblema: ¿quitamos las variables no significativas?
+Los manualitos (muy queridos de enseñantes, porque les dan reglas sencillitas; muy queridos también de los aprendientes, por el mismo motivo) rezan que sí. Se quitan y a otra cosa.
+La regla adulta es:
+ * Si el coeficiente es grande y tiene el signo correcto, ¡enhorabuena! * Si el coeficiente es pequeño, la variable no hace ni bien ni mal.</description>
+    </item>
+    
+    <item>
+      <title>Tres de seis consejos para mejorar las regresiones</title>
+      <link>/2017/10/24/tres-de-seis-consejos-para-mejorar-las-regresiones/</link>
+      <pubDate>Tue, 24 Oct 2017 08:13:40 +0000</pubDate>
+      
+      <guid>/2017/10/24/tres-de-seis-consejos-para-mejorar-las-regresiones/</guid>
+      <description>Por si alguien se lo perdió, están aquí. De los seis, mencionaré tres que me están resultando muy útiles en un proyecto actual.
+De todos ellos, el que más a rajatabla sigo es el primero: ajustar muchos modelos. Pudiera parecer trampa: buscar y rebuscar por si sale algo. Sin embargo, es una técnica que plantearse como una manera de familiarizarse y aprender la estructura de los datos. Los modelos (explicativos, como los que justifican esta entrada) no dejan de ser resúmenes de conjuntos de datos y no es sino ajustando diversos modelos que uno aprende si, por ejemplo, un coeficiente varía por año o provincia.</description>
+    </item>
+    
+    <item>
+      <title>Modelos directos, inversos y en los que tanto da</title>
+      <link>/2017/10/23/modelos-directos-inversos-y-en-los-que-tanto-da/</link>
+      <pubDate>Mon, 23 Oct 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/10/23/modelos-directos-inversos-y-en-los-que-tanto-da/</guid>
+      <description>Continúo con esto que concluí con una discusión que me negué a resolver sobre la geometría de los errores.
+Que es la manera de entender que los problemas directos e inversos no son exactamente el mismo. Digamos que no es una medida invariante frente a reflexiones del plano (que es lo que hacemos realmente al considerar el modelo inverso).
+¿Pero y si medimos la distancia (ortogonal) entre los puntos $latex (x,y)$ y la curva $latex y = f(x)$ (o, equivalentemente, $latex x = f^{-1}(x)$)?</description>
+    </item>
+    
+    <item>
+      <title>Polinomios monótonos</title>
+      <link>/2017/01/23/polinomios-monotonos/</link>
+      <pubDate>Mon, 23 Jan 2017 08:13:44 +0000</pubDate>
+      
+      <guid>/2017/01/23/polinomios-monotonos/</guid>
+      <description>Recibí un mensaje el otro día sobre polinomios monótonos. Mejor dicho, sobre el ajuste de datos usando polinomios monótonos. Frente a un modelo del tipo y ~ x (x e y reales) donde la relación entre las dos variables es
+ * manifiestamente no lineal y * necesariamente monótina, p.e., creciente (por consideraciones previas),  cabe considerar ajustar un polinomio monótono, i.e., realizar una regresión polinómica con la restricción adicional de que el polinomio de ajuste resultante sea monótono.</description>
+    </item>
+    
+    <item>
+      <title>Un problema inverso de regresión</title>
+      <link>/2015/07/08/un-problema-inverso-de-regresion/</link>
+      <pubDate>Wed, 08 Jul 2015 08:13:15 +0000</pubDate>
+      
+      <guid>/2015/07/08/un-problema-inverso-de-regresion/</guid>
+      <description>He estado pensando qué tipo de ejercicios de estadística (y modelos estadísticos) plantear a mis alumnos del máster de data science de la UTAD.
+Así que les he dado unos datos, los X, relativamente grandes (y sin problemas de colinealidad y similares) y les voy a pedir que me construyan la y de manera que los coeficientes obtenidos sean, aproximadamente, iguales a unos dados. A ver qué tal se les da.</description>
+    </item>
+    
+    <item>
+      <title>El problema de la estimación inversa</title>
+      <link>/2014/12/31/el-problema-de-la-estimacion-inversa/</link>
+      <pubDate>Wed, 31 Dec 2014 07:13:02 +0000</pubDate>
+      
+      <guid>/2014/12/31/el-problema-de-la-estimacion-inversa/</guid>
+      <description>Supongamos que tenemos unos niños de los que sabemos las edades $latex x_i$ y las alturas $latex y_i$. Supongamos además que podemos estimar las segundas en función de las primeras con un modelo lineal clásico
+$latex y_i \sim N(a_0 + a_1 x_1, \sigma).$
+Este modelo nos permite, dada una edad, estimar la altura y los correspondientes intervalos de confianza. Pero, dada una altura, ¿qué nos dice de la edad? Este es el problema conocido como de la estimación inversa.</description>
+    </item>
+    
+    <item>
+      <title>Bajo el capó del particionamiento recursivo basado en modelos</title>
+      <link>/2014/09/12/bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos/</link>
+      <pubDate>Fri, 12 Sep 2014 07:13:31 +0000</pubDate>
+      
+      <guid>/2014/09/12/bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos/</guid>
+      <description>Una de las mayores contrariedades de estar sentado cerca de alguien que es más matemático que un servidor (de Vds., no de silicio) es que oye siempre preguntar por qué. Una letanía de preguntas me condujo a leer papelotes que ahora resumo.
+Primero, unos datos:
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) n &amp;lt;- 100 x1 &amp;lt;- rnorm(n) x2 &amp;lt;- rnorm(n) x3 &amp;lt;- rnorm(n) y &amp;lt;- 0.3 + 0.2 * x1 + 0.5 * (x2 &amp;gt; 0) + 0.</description>
+    </item>
+    
+    <item>
+      <title>Medianas ponderadas en R</title>
+      <link>/2013/08/05/medianas-ponderadas/</link>
+      <pubDate>Mon, 05 Aug 2013 07:57:34 +0000</pubDate>
+      
+      <guid>/2013/08/05/medianas-ponderadas/</guid>
+      <description>La mediana de 1:3 es 2. Pero puede ser que queramos dar a 1:3 los pesos 2, 1, 2. En ese caso, el cálculo de la mediana sigue siendo sencillo (y sigue siendo 2). Pero la situación puede complicarse más.
+Mientras los pesos sean enteros, todavía pueden usarse trucos:
+x &amp;lt;- 1:3 pesos &amp;lt;- c(2,1,2) median(rep(x, times = pesos ))  ¿Pero qué hacemos cuando hay pesos fraccionarios? Bueno, en realidad, podemos ordenar:</description>
+    </item>
+    
+    <item>
+      <title>Regresión por cuantiles en R y SAS</title>
+      <link>/2010/05/18/regresion-por-cuantiles-en-r-y-sas/</link>
+      <pubDate>Tue, 18 May 2010 20:52:08 +0000</pubDate>
+      
+      <guid>/2010/05/18/regresion-por-cuantiles-en-r-y-sas/</guid>
+      <description>Hace un tiempo, con la aburridora perspectiva de un largo viaje en metro hasta mi casa ensombreciendo mi futuro más inminente, decidí regalarme algún tipo de amena lectura. A tal fin, imprimí un articulillo que, bajo la perspectiva de SAS, me introducía a una técnica que se vino a mí como por azar. O, bajo otro punto de vista, una técnica que, también por azar, había esquivado hasta tal fecha un encontronazo con mi husmeadora curiosidad.</description>
+    </item>
+    
+  </channel>
+</rss>

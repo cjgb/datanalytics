@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>márketing on datanalytics</title>
+    <link>/tags/m%C3%A1rketing/</link>
+    <description>Recent content in márketing on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 04 Dec 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/m%C3%A1rketing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la &#34;Carta de Derechos  Digitales&#34;</title>
+      <link>/2020/12/04/sobre-la-carta-de-derechos-digitales/</link>
+      <pubDate>Fri, 04 Dec 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/12/04/sobre-la-carta-de-derechos-digitales/</guid>
+      <description>No cualquier ministerio sino precisamente el de economía (lo subrayo: es muy relevante para lo que sigue) ha colgado de su portal una (propuesta de) Carta de Derechos Digitales para su pública consulta.
+Se trata de un documento confuso, en el que se mezclan propuestas que afectan a ámbitos muy heterogéneos, desde le transhumanismo,
+a los servicios de acceso a internet,
+o a la misma gestión de los entornos de desarrollo y producción (¡o algo así!</description>
+    </item>
+    
+    <item>
+      <title>Agoreros</title>
+      <link>/2020/02/05/agoreros/</link>
+      <pubDate>Wed, 05 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/05/agoreros/</guid>
+      <description>Tal se lee en The Surprising Breadth of Harbingers of Failure un artículo que abunda sobre la cuestión de la existencia ya no solo de clientes agoreros sino, incluso de códigos postales agoreros donde aquellos se arraciman.
+Desafortunadamente, el artículo omite decirnos cuáles son, dónde están y, por supuesto, alguna foto de quienes los habitan.
+(¿Habrá algún estudio similar aplicado a España? Si alguien lo conociera&amp;hellip;)</description>
+    </item>
+    
+    <item>
+      <title>Goodhart, Lucas y márketing</title>
+      <link>/2018/11/13/goodhart-lucas-y-marketing/</link>
+      <pubDate>Tue, 13 Nov 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/11/13/goodhart-lucas-y-marketing/</guid>
+      <description>Abundo sobre lo de ayer.
+Una empresa clasifica a sus clientes y los asigna a grupos: malotes, estrella, psepsé, etc. Examina las características de los clientes estrella y entonces reorienta su política comercial en la siguiente dirección:
+En gran medida, según lo discutido ayer, el principal logro de ese tipo de políticas es la de debilitar el vínculo entre esas características identificadas por los modelos y la rentabilidad de los clientes.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Predictably irrational&#34;</title>
+      <link>/2012/10/25/predictably-irrational/</link>
+      <pubDate>Thu, 25 Oct 2012 07:45:27 +0000</pubDate>
+      
+      <guid>/2012/10/25/predictably-irrational/</guid>
+      <description>Estoy terminando de leer Predictably Irrational. Es un libro que recomiendo encarecidamente.
+
+¿De qué trata? Aquí y en este vídeo de su autor, Dan Arieli, hay abrebocas (que se refieren fundamentalmente a su primer capítulo) que seguro que os soprenderán.
+Al leer el libro, sin embargo, realicé un pequeño experimento mental. Con resultados bastante desasosegantes. Pensé en tomar una mesa amplia y una pila de fichas de cartulina. Luego, en cada una de ellas, escribir uno de los resultados del libro, que son del tipo frente al estímulo X la gente actúa así o asá.</description>
+    </item>
+    
+    <item>
+      <title>Clústering (III): sobresimplificación</title>
+      <link>/2011/08/03/clustering-iii-sobresimplificacion/</link>
+      <pubDate>Wed, 03 Aug 2011 07:04:20 +0000</pubDate>
+      
+      <guid>/2011/08/03/clustering-iii-sobresimplificacion/</guid>
+      <description>¿Quién fue el segundo hombre en pisar la luna? ¿Y el tercero? Aunque a veces pareciese lo contrario, ¿sabe que hay futbolistas que no son ni Ronaldo ni Messi? ¿Y otros ciclistas además de Contador e Induráin? ¿Y que la Fórmula 1 no se reduce a un tal Alonso?
+Diríase que por razones sicológicas, nuestro cerebro tiende a sobresimplificar, se siente cómodo con una representación escueta de la realidad, es reacio a los distingos y grises.</description>
+    </item>
+    
+    <item>
+      <title>Clústering (II): ¿es replicable?</title>
+      <link>/2011/07/19/clustering-ii-es-replicable/</link>
+      <pubDate>Tue, 19 Jul 2011 07:00:56 +0000</pubDate>
+      
+      <guid>/2011/07/19/clustering-ii-es-replicable/</guid>
+      <description>Sólo conozco un estudio ?y lo digo bona fide; si alguno de mis lectores conoce otro, le ruego que me lo indique? en el que las técnicas de clústering hayan sido rectamente aplicadas. Se trata del artículo Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring de cuyo resumen extraigo y traduzco lo siguiente:
+ Un procedimiento de detección de clases automáticamente descubrió la distinción entre la leucemia mieloide aguda (AML) y la leucemia linfoblástica aguda (ALL) sin conocimiento previo de las clases.</description>
+    </item>
+    
+  </channel>
+</rss>

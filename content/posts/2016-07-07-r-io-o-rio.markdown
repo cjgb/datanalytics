@@ -1,0 +1,56 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2016-07-07 08:13:53+00:00
+draft: false
+title: R I/O (o rio)
+
+url: /2016/07/07/r-io-o-rio/
+categories:
+- r
+tags:
+- paquetes
+- r
+- rio
+---
+
+[`rio`](https://cran.r-project.org/web/packages/rio/index.html) es otro de esos desasosegantes paquetes de R. `rio` contiene esencialmente tres funciones,
+
+
+
+
+	  * `import`, que lo lee _todo_
+	  * `export`, que lo escribe _todo_ y
+	  * `convert`, que transforma un fichero de un formato a otro.
+
+
+Según su documentación, uno puede hacer cosas como
+
+
+
+    export(<a href="http://inside-r.org/r-doc/datasets/mtcars">mtcars, "mtcars.csv")
+    export(<a href="http://inside-r.org/r-doc/datasets/mtcars">mtcars, "mtcars.rds")
+    export(<a href="http://inside-r.org/r-doc/datasets/mtcars">mtcars, "mtcars.sav")
+
+
+
+para guardar `mtcars` en cualquiera de los formatos indicados por la extensión y luego
+
+
+
+    x <- import("mtcars.csv")
+    y <- import("mtcars.rds")
+    z <- import("mtcars.sav")
+
+
+
+para importarlos sin complicaciones de separadores, encabezamientos, etc. Además, ya puestos,
+
+
+
+    convert("mtcars.sav", "mtcars.dta")
+
+
+
+hace lo fácilmente adivinable.
+
+Desasosegador es `rio` porque nos va obligar a replantearnos si mudar o no el automatismo del `read.table`. Desasosegador porque es distinto, huele a nuevo y ante la perspectiva del salto uno siente algo que no sabe si llamar prevención o carpetovetonismo.

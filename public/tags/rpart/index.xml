@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpart on datanalytics</title>
+    <link>/tags/rpart/</link>
+    <description>Recent content in rpart on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Jan 2017 08:13:49 +0000</lastBuildDate><atom:link href="/tags/rpart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Repensando la codificación por impacto</title>
+      <link>/2017/01/10/repensando-la-codificacion-por-impacto/</link>
+      <pubDate>Tue, 10 Jan 2017 08:13:49 +0000</pubDate>
+      
+      <guid>/2017/01/10/repensando-la-codificacion-por-impacto/</guid>
+      <description>Hay una entrada mía, esta, que me ronda la cabeza y con la que no sé si estoy completamente de acuerdo. Trata de justificar la codificación por impacto de variables categóricas en modelos lineales (generalizados o no) y cuanto más la releo, menos me la creo. O, más bien, comienzo a cuestinarme más seriamente contextos en los que funciona y contextos en los que no.
+Pero comencemos por uno simple: los árboles.</description>
+    </item>
+    
+    <item>
+      <title>evtree: árboles globales</title>
+      <link>/2015/01/12/evtree-arboles-globales/</link>
+      <pubDate>Mon, 12 Jan 2015 07:13:44 +0000</pubDate>
+      
+      <guid>/2015/01/12/evtree-arboles-globales/</guid>
+      <description>Tengo por delante otro proyecto que tiene mucho de análisis exploratorio de datos. Sospecho que más de un árbol construiré. Los árboles son como la Wikipedia: prácticamente nunca el último pero casi siempre el primer recurso.
+Esta vez, además, por entretenerme un poco, probaré el paquete [evtree](http://cran.r-project.org/web/packages/evtree/index.html). Aunque no porque espere sorprendentes mejoras con respecto a los tradicionales, ctree y rpart.
+¿Qué tiene aquél que los diferencie de los otros dos?</description>
+    </item>
+    
+  </channel>
+</rss>

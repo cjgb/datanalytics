@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selectividad on datanalytics</title>
+    <link>/tags/selectividad/</link>
+    <description>Recent content in selectividad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 13 Jun 2016 08:13:39 +0000</lastBuildDate><atom:link href="/tags/selectividad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Censura a la izquierda en las universidades españolas</title>
+      <link>/2016/06/13/censura-a-la-izquierda-en-las-universidades-espanolas/</link>
+      <pubDate>Mon, 13 Jun 2016 08:13:39 +0000</pubDate>
+      
+      <guid>/2016/06/13/censura-a-la-izquierda-en-las-universidades-espanolas/</guid>
+      <description>(Aviso: esta entrada podría competir dignamente en una competición de titulares engañosos. Es posible que si no sepas de qué hablo regularmente te interese más esto).
+En España hay pruebas de acceso a la universidad que y en algunos sitios publican las notas de corte para acceder a determinados estudios. Las he bajado escrapeando El País así
+library(rvest) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) library(rstan) library(reshape2) options(mc.cores = 2) url &amp;lt;- &amp;quot;http://elpais.com/especiales/universidades/&amp;quot; pagina &amp;lt;- read_html(url, encoding = &amp;quot;UTF8&amp;quot;) urls_provs &amp;lt;- html_nodes(pagina, &amp;quot;a&amp;quot;) urls_provs &amp;lt;- html_attr(urls_provs, &amp;quot;href&amp;quot;) urls_provs &amp;lt;- paste0(&amp;quot;http://elpais.</description>
+    </item>
+    
+  </channel>
+</rss>

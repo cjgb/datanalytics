@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>micromuertes on datanalytics</title>
+    <link>/tags/micromuertes/</link>
+    <description>Recent content in micromuertes on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 18 Apr 2021 15:41:24 +0000</lastBuildDate><atom:link href="/tags/micromuertes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo vídeo en YouTube: micromuertes</title>
+      <link>/2021/04/18/nuevo-video-en-youtube-micromuertes/</link>
+      <pubDate>Sun, 18 Apr 2021 15:41:24 +0000</pubDate>
+      
+      <guid>/2021/04/18/nuevo-video-en-youtube-micromuertes/</guid>
+      <description>Nada nuevo que no haya publicado antes por aquí: véase esto. Solo que esta vez, audiovisualmente (y con una pésima calidad de imagen: aún no le tengo pillado el truco a la cámara).
+https://www.youtube.com/watch?v=jKz-ZQ5zcvk</description>
+    </item>
+    
+    <item>
+      <title>Micromuertes y coronavirus</title>
+      <link>/2020/05/19/micromuertes-y-coronavirus/</link>
+      <pubDate>Tue, 19 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/19/micromuertes-y-coronavirus/</guid>
+      <description>[Esta entrada abunda en la que escribí hace nueve años sobre las micromuertes y sin la cual no se entiende.]
+El concepto de micromuerte sirve para anclar y comparar adecuadamente riesgos diminutos. De acuerdo con la entrada que referencio arriba, una micromuerte equivale al riesgo (recuérdese: ¡promedio!) de caminar 15 km o conducir 250. Pasar una noche en el hospital consume 75 de ellos (por riesgo de contagios que no tengan que ver con el motivo de ingreso) y dar a luz, alrededor de 100.</description>
+    </item>
+    
+    <item>
+      <title>Micromuertes</title>
+      <link>/2011/06/01/micromuertes/</link>
+      <pubDate>Wed, 01 Jun 2011 07:47:11 +0000</pubDate>
+      
+      <guid>/2011/06/01/micromuertes/</guid>
+      <description>En 2008 (último año publicado), en España, según el INE, 16.000 personas perfectamente sanas se levantaron una mañana como si tal y por la noche estaban en el tanatorio metidas en una caja de pino rodeadas de sollozantes deudos.
+Dividamos 16.000 por 365. Obtenemos 44. Como en España la población anda en torno de los 45 millones de personas, eso significa que cada día, uno de cada millón palmó inopinadamente. En el 2008, cada español, cada mañana tiró una moneda al aire 20 veces y quien obtuvo 20 cruces no volvió a ver el amanecer (supongo que es obvio que $latex 2^{20} \approx 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Códigos de caracteres, unicode y UTF-8 - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Códigos de caracteres, unicode y UTF-8" />
+<meta property="og:description" content="Unos quebraderos de cabeza en el desarrollo del paquete pxR concernientes a los distintos códigos de caracteres en que hay que transfomar los datos me han obligado a profundizar en este enojoso asunto.
+En el principio, todo era felicidad. Existía el código ASCII que establecía una correspondencia entre caracteres, números y su representación binaria. Así, a la letra b le correspondía el número 98 cuya codificación binaria es el byte 01100010." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-09-06T07:00:44&#43;00:00" />
+<meta property="article:modified_time" content="2011-09-06T07:00:44&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Códigos de caracteres, unicode y UTF-8</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-09-06T07:00:44Z">2011-9-6</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Unos quebraderos de cabeza en el desarrollo del <a href="http://www.datanalytics.com/blog/2011/07/28/el-paquete-pxr-en-cran/">paquete pxR</a> concernientes a los distintos códigos de caracteres en que hay que transfomar los datos me han obligado a profundizar en este enojoso asunto.</p>
+<p>En el principio, todo era felicidad. Existía el código ASCII que establecía una correspondencia entre caracteres, números y su representación binaria. Así, a la letra b le correspondía el número 98 cuya codificación binaria es el <em>byte</em> <code>01100010</code>.</p>
+<p>Felicidad que se interrumpió cuando algún ortógrafo quiso utilizar eñes y acentos. Y algún tailandés a escribir su nombre como había aprendido en la escuela. Etc. De ahí surgió el caos de los múltiples sistemas y codificaciones: que si el <a href="http://es.wikipedia.org/wiki/ISO_8859-1">ISO-8859-1</a>, que si el <a href="http://es.wikipedia.org/wiki/KOI_8">KOI 8</a>, que si el de IBM, que si el de Microsoft,&hellip; todos ellos intentos de codificar distintos codificar distintos caracteres usando las 256 combinaciones que permiten los 8 <em>bits</em> de un <em>byte</em> mediante funciones biyectivas</p>
+<p>$$f_i: C_i \longleftrightarrow B_1$$</p>
+<p>entre $latex B_1$, el conjunto de los distintos <em>bytes</em> (números del 0 al 255), y diversos conjuntos de caracteres ($latex C_1$ pueden ser los latinos, $latex C_2$ los rusos, etc.).</p>
+<p>Y del caos surgió la luz y el orden, una función biyectiva</p>
+<p>$$C = \bigcup_i C_i \longleftrightarrow N = {0, \dots, 1114112}$$</p>
+<p>llamada <a href="http://es.wikipedia.org/wiki/Unicode">Unicode</a> entre todos los caracteres <em>del mundo mundial</em> y los números hasta el 1.114.112. Esta función hace corresponder el número 88 a &ldquo;X&rdquo; y 241 a &ldquo;ñ&rdquo;, por ejemplo.</p>
+<p>Para tener una representación binaria de un caracter, sin embargo, es necesaria otra función. Y no una función <em>trivial</em>: si este tinglado lo hubiese montado <a href="http://www.datanalytics.com/blog/2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/">un gañán</a>, harían falta tres <em>bytes</em> por caracter, con lo que el tamaño de los ficheros de texto se multiplicaría automáticamente.</p>
+<p>La solución pasa por seleccionar inteligentemente la función entre el conjunto $latex N$ y determinadas sucesiones de <em>bytes</em>. Una de las funciones propuestas se llama <a href="http://es.wikipedia.org/wiki/UTF-8">UTF-8</a>, que tiene la peculiaridad de que asigna los números correspondientes a los caracteres más usados a secuencias de ocho <em>bits</em> (un <em>byte</em>) y a los menos usados, secuencias de dos, tres y hasta cuatro de ellos.</p>
+<p>Así, usando dicha función, la &ldquo;X&rdquo; ocupa un único <em>byte</em>, pero &ldquo;ñ&rdquo; ocupa dos. Y supongo que los caracteres chinos ocuparán dos o tres.</p>
+<p>Este es el motivo por el que cuando alguien intenta leer un fichero codificado con UTF-8 como si tuviese una codificación que asume una relación directa entre caracteres y <em>bytes</em>, obtiene los famosos <em>caracteres raros</em> en lugar de sus acentos, eñes y demás.</p>
+<p>Han sido muchos los años en que nos hemos dejado arrastrar por la inercia <em>un byte, un caracter (aunque no tenemos ni idea de cuál)</em>. Ahora la hemos sustituido por la composición de dos funciones, Unicode y UTF-8 que, gracias a Dios, están bien pensadas.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/programaci%C3%B3n/" rel="tag">programación</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/unicode/" rel="tag">unicode</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2011/09/05/un-paseo-por-cloudnumbers/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Un paseo por cloudnumbers</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2011/09/07/el-paquete-reshape-de-r-i-melt/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">El paquete reshape de R (I): melt</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

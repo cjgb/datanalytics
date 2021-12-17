@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heráclito on datanalytics</title>
+    <link>/tags/her%C3%A1clito/</link>
+    <description>Recent content in heráclito on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 25 Mar 2019 09:13:14 +0000</lastBuildDate><atom:link href="/tags/her%C3%A1clito/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ceteris paribus vs Heráclito</title>
+      <link>/2019/03/25/ceteris-paribus-vs-heraclito/</link>
+      <pubDate>Mon, 25 Mar 2019 09:13:14 +0000</pubDate>
+      
+      <guid>/2019/03/25/ceteris-paribus-vs-heraclito/</guid>
+      <description>¿Cuántas veces hemos oído eso?
+Esa afirmación presupone una fe ciega en la posibilidad de aplicar el principio del ceteris paribus en situaciones reales. Pues lo siento: el ceteris paribus es un concepto irreal, una aspiración a la que la realidad de las cosas se opone tozudamente.
+¿Y Heráclito? Heráclito nos observa desde donde esté y se fuma un puro.</description>
+    </item>
+    
+  </channel>
+</rss>

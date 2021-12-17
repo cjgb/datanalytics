@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AnomalyDetection on datanalytics</title>
+    <link>/tags/anomalydetection/</link>
+    <description>Recent content in AnomalyDetection on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Nov 2016 08:13:02 +0000</lastBuildDate><atom:link href="/tags/anomalydetection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detrás de la detección de anomalías en series temporales</title>
+      <link>/2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/</link>
+      <pubDate>Wed, 16 Nov 2016 08:13:02 +0000</pubDate>
+      
+      <guid>/2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/</guid>
+      <description>Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es un problema que tiene que ver con dónde colocar las marcas azules en
+El anterior es el gráfico construido con los datos de ejemplo del paquete AnomalyDetection. De hecho, así:
+library(AnomalyDetection) data(raw_data) res &amp;lt;- AnomalyDetectionTs(raw_data, max_anoms=0.02, direction=&#39;both&#39;, plot=TRUE) res$plot  Aparentemente, AnomalyDetectionTs hace lo que cabría sospechar. Primero, una descomposición de la serie temporal, tal como</description>
+    </item>
+    
+  </channel>
+</rss>

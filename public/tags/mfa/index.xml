@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mfa on datanalytics</title>
+    <link>/tags/mfa/</link>
+    <description>Recent content in mfa on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 09 Apr 2014 07:43:12 +0000</lastBuildDate><atom:link href="/tags/mfa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La escala natural de la varianza</title>
+      <link>/2014/04/09/la-escala-natural-de-la-varianza/</link>
+      <pubDate>Wed, 09 Apr 2014 07:43:12 +0000</pubDate>
+      
+      <guid>/2014/04/09/la-escala-natural-de-la-varianza/</guid>
+      <description>Supongo que lo que voy a contar hoy es conocido de muchos de mis lectores. Desafortunadamente, uno tropieza con más frecuencia de lo deseable con quienes no lo son. (Eso sí, uno de los mayores placeres de esta vida es coincidir con alguien que te reconoce y te dice: &amp;ldquo;¿tú tienes un blog que se llama datanalytics, ¿verdad?&amp;quot;; pero esa es otra historia).
+Al grano.
+Supongamos que tenemos un sistema con sensores que miden la temperatura (5) y la presión (2) en diversos puntos.</description>
+    </item>
+    
+  </channel>
+</rss>

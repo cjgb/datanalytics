@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cern on datanalytics</title>
+    <link>/tags/cern/</link>
+    <description>Recent content in cern on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 07 Jun 2016 08:13:11 +0000</lastBuildDate><atom:link href="/tags/cern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Queríamos desentrañar los misterios de las partículas subatómicas y obtuvimos una app para las carreras de caballos</title>
+      <link>/2016/06/07/queriamos-desentranar-los-misterios-de-las-particulas-subatomicas-y-obtuvimos-una-app-para-las-carreras-de-caballos/</link>
+      <pubDate>Tue, 07 Jun 2016 08:13:11 +0000</pubDate>
+      
+      <guid>/2016/06/07/queriamos-desentranar-los-misterios-de-las-particulas-subatomicas-y-obtuvimos-una-app-para-las-carreras-de-caballos/</guid>
+      <description>La versión larga, en inglés y capada para quienes tengáis bloquador de publicidad es esta. La versión abreviada para el hombre ocupado de hoy en día (y con mis comentarios) es:
+ * Un tipo con mucha vocación estudia física y acaba en el CERN * Trabaja en lo de la partícula de Higgs y obtiene peor de los resultados posibles: la partícula existe tal cual predecía la teoría * Lo de la particulita queda ahí porque, desafortunadamente, no hay nada más que rascar * Se acaban las subvenciones, las becas, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

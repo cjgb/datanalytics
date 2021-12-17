@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interactividad on datanalytics</title>
+    <link>/tags/interactividad/</link>
+    <description>Recent content in interactividad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 27 Apr 2016 08:13:58 +0000</lastBuildDate><atom:link href="/tags/interactividad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gráficos interactivos con R: un resumen</title>
+      <link>/2016/04/27/graficos-interactivos-con-r-un-resumen/</link>
+      <pubDate>Wed, 27 Apr 2016 08:13:58 +0000</pubDate>
+      
+      <guid>/2016/04/27/graficos-interactivos-con-r-un-resumen/</guid>
+      <description>Aquí encontrará el lector un resumen de herramientas para crear gráficos interactivos con R que, por referencia, discute
+* [`ggvis`](http://ggvis.rstudio.com/): desarrollados por los creadores de `ggplot2` * [`rCharts`](http://rcharts.io/): una interfaz de R con una serie de librerías de javascript para crear gráficos * [`plotly`](https://plot.ly/r/): hace magia para añadir interactividad a gráficos creados con `ggplot2` (y otros) * [`googleVis`](http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_examples.html): que permite utilizar [Google Chart Tools](https://developers.google.com/chart/) desde R  </description>
+    </item>
+    
+    <item>
+      <title>Gráficos e interactividad: una ocasión desaprovechada</title>
+      <link>/2014/12/01/graficos-e-interactividad-una-ocasion-desaprovechada/</link>
+      <pubDate>Mon, 01 Dec 2014 07:13:20 +0000</pubDate>
+      
+      <guid>/2014/12/01/graficos-e-interactividad-una-ocasion-desaprovechada/</guid>
+      <description>Cuando los gráficos son estáticos, los compromisos mandan. ¿Mostramos las diferencias relativas? ¿O las magnitudes absolutas? Ocurre casi indefectiblemente que cuando uno opta por una opción siempre alguien en la audiencia levanta el dedo y sugiere la alternativa. ¿Mostramos ambas a la vez? Entonces abusamos de la usualmente limitada superficie construible de nuestro informe y, además, violentamos ese principio de que lo bué, si bré, dos ve bué.
+La interactividad en los gráficos permite superponer vistas diversas de unos datos en un recinto acotado.</description>
+    </item>
+    
+  </channel>
+</rss>

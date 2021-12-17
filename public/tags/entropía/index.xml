@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entropía on datanalytics</title>
+    <link>/tags/entrop%C3%ADa/</link>
+    <description>Recent content in entropía on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Mar 2021 09:13:46 +0000</lastBuildDate><atom:link href="/tags/entrop%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un argumento para usar la normal: la maximización de la entropía</title>
+      <link>/2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia/</link>
+      <pubDate>Tue, 02 Mar 2021 09:13:46 +0000</pubDate>
+      
+      <guid>/2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia/</guid>
+      <description>Llegaré a la normal. Antes, algo sobre la entropía.
+Nos interesa saber y medir el grado de concentración de una distribución. Por ejemplo, si X es una variable aleatoria con función de densidad $latex f(x)$ y $latex x_1, \dots, x_n$ es una muestra de X, entonces, la expresión
+$latex \frac{1}{n} \sum_i f(x_i)$
+da una idea de la concentración vs dispersión de X:
+ Si es grande, muchos de los $latex x_i$ procederán de lugares donde $latex f$ es grande; en un caso discreto, que tal vez ayude a mejorar la intuición sobre la cosa, habría muchos valores repetidos.</description>
+    </item>
+    
+    <item>
+      <title>¿Dónde son más frecuentes las muestras de una distribución en dimensiones altas?</title>
+      <link>/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/</link>
+      <pubDate>Thu, 18 Feb 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/</guid>
+      <description>Esta es una cosa bastante contraintituiva. Uno diría que en la moda, pero no es exactamente así.
+En una dimensión tal vez sí (nótese que log(p) es función de la distancia al centro):
+muestra &amp;lt;- rnorm(10000) logp &amp;lt;- log(dnorm(muestra)) hist(logp, breaks = 100, main = &amp;quot;distribución de log(p)&amp;quot;)  Pero en dimensiones más altas, la cosa cambia:
+library(mvtnorm) muestra &amp;lt;- rmvnorm(10000, rep(0, 10), diag(rep(1, 10))) logp &amp;lt;- log(dmvnorm(muestra, rep(0, 10), diag(rep(1, 10)))) hist(logp, breaks = 100, main = &amp;quot;distribución de log(p)&amp;quot;)  Lo más frecuente es obtener observaciones ya no próximas al centro sino en un anillo alrededor de él y a cierta distancia del mismo.</description>
+    </item>
+    
+  </channel>
+</rss>

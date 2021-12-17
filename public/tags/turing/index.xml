@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>turing on datanalytics</title>
+    <link>/tags/turing/</link>
+    <description>Recent content in turing on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Jan 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/turing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turing y la telepatía</title>
+      <link>/2020/01/23/turing-y-la-telepatia/</link>
+      <pubDate>Thu, 23 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/23/turing-y-la-telepatia/</guid>
+      <description>Turing dejó escrito:
+He visto usarse esta cita como evidencia de que Turing, al igual que Newton y muchos otros, daba una de cal y otra de arena. Sin embargo, el párrafo completo de donde se extrae la cita admite la ironía como muy probable interpretación alternativa:
+Como referencia, el artículo completo de donde está extraído todo lo anterior. Juzguen Vds.</description>
+    </item>
+    
+  </channel>
+</rss>

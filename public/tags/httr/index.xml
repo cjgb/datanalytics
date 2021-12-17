@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>httr on datanalytics</title>
+    <link>/tags/httr/</link>
+    <description>Recent content in httr on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 12 Jun 2017 08:13:16 +0000</lastBuildDate><atom:link href="/tags/httr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La anticonferencia: una idea que me ronda la cabeza</title>
+      <link>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</link>
+      <pubDate>Mon, 12 Jun 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</guid>
+      <description>La anticonferencia me ronda la cabeza.
+No es una conferencia, (de ahí el prefijo), aunque se parezca a ella en lo de reunir a un grupillo de gente interesada en un asunto.
+No es un jacatón. Los jacatones están, sobre el papel, bien; pero demasiado a menudo su producto se queda ahí, tiene poca (o nula) trayectoria o impacto. ¿Me dejáis que diga que son mayormente intranscendentes?
+Pero creo que los de rOpenSci dieron en el clavo con su Unconference.</description>
+    </item>
+    
+    <item>
+      <title>Descarga de datos del Ibex 35 (¿y otros?) minuto a minuto en tiempo (casi) real</title>
+      <link>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</link>
+      <pubDate>Fri, 20 May 2016 08:13:54 +0000</pubDate>
+      
+      <guid>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</guid>
+      <description>El código es
+library(httr) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) base.url &amp;lt;- &amp;quot;http://www.infobolsa.es/1/wtdb/ChartIntraday&amp;quot; res &amp;lt;- POST(base.url, body = list(mv = &amp;quot;M SAN&amp;quot;, date = &amp;quot;20160518&amp;quot;, compressionMult = 1, isSession = 1)) dat &amp;lt;- content(res, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/methods/as&amp;quot;&amp;gt;as = &amp;quot;parsed&amp;quot;, type = &amp;quot;application/json&amp;quot;) dat &amp;lt;- dat$answer$LST$TV$T09 dat &amp;lt;- ldply(dat, unlist)  Los mutatis mutandis, si alguien tiene la gentileza, en los comentarios.</description>
+    </item>
+    
+    <item>
+      <title>Descargar ficheros .gz detrás de HTTPS con R</title>
+      <link>/2014/11/12/descargar-ficheros-gz-detras-de-https-con-r/</link>
+      <pubDate>Wed, 12 Nov 2014 07:13:22 +0000</pubDate>
+      
+      <guid>/2014/11/12/descargar-ficheros-gz-detras-de-https-con-r/</guid>
+      <description>El problema consiste en leer, por ejemplo, [https://stat.ethz.ch/pipermail/r-help-es/2012-August.txt.gz](https://stat.ethz.ch/pipermail/r-help-es/2012-August.txt.gz).
+Desde Windows, por algún motivo, es sencillo: se puede usar download.file y luego, readLines directamente (porque no sé si sabéis que esta y otras funciones similares saben leer directamente ficheros comprimidos con gzip).
+En Linux parece algo más complicado: download.file se niega a bajar ficheros usando el protocolo [https](http://en.wikipedia.org/wiki/HTTP_Secure). Lo mejor que he sabido hacer es
+library(httr) x &amp;lt;- GET(&amp;quot;https://stat.ethz.ch/pipermail/r-help-es/2012-August.txt.gz&amp;quot;) tmp &amp;lt;- tempfile() writeBin(content(x, &amp;quot;raw&amp;quot;), tmp) res &amp;lt;- readLines(tmp) unlink(tmp)  que es feo, feo, feo.</description>
+    </item>
+    
+  </channel>
+</rss>

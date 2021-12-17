@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Un argumento para usar la normal: la maximización de la entropía - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Un argumento para usar la normal: la maximización de la entropía" />
+<meta property="og:description" content="Llegaré a la normal. Antes, algo sobre la entropía.
+Nos interesa saber y medir el grado de concentración de una distribución. Por ejemplo, si X es una variable aleatoria con función de densidad $latex f(x)$ y $latex x_1, \dots, x_n$ es una muestra de X, entonces, la expresión
+$latex \frac{1}{n} \sum_i f(x_i)$
+da una idea de la concentración vs dispersión de X:
+ Si es grande, muchos de los $latex x_i$ procederán de lugares donde $latex f$ es grande; en un caso discreto, que tal vez ayude a mejorar la intuición sobre la cosa, habría muchos valores repetidos." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-03-02T09:13:46&#43;00:00" />
+<meta property="article:modified_time" content="2021-03-02T09:13:46&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Un argumento para usar la normal: la maximización de la entropía</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2021-03-02T09:13:46Z">2021-3-2</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Llegaré a la normal. Antes, algo sobre la entropía.</p>
+<p>Nos interesa saber y medir el grado de concentración de una distribución. Por ejemplo, si <strong>X</strong> es una variable aleatoria con función de densidad $latex f(x)$ y $latex x_1, \dots, x_n$ es una muestra de <strong>X</strong>, entonces, la expresión</p>
+<p>$latex \frac{1}{n} \sum_i f(x_i)$</p>
+<p>da una idea de la concentración vs dispersión de <strong>X</strong>:</p>
+<ul>
+<li>Si es grande, muchos de los $latex x_i$ procederán de lugares donde $latex f$ es grande; en un caso discreto, que tal vez ayude a mejorar la intuición sobre la cosa, habría muchos valores repetidos.  * Si es pequeño, muchos de los $latex x_i$ procederán de puntos de baja probabilidad; en un caso discreto, aparecerían muchos valores $latex x_i$ diversos y de probabilidad baja.</li>
+</ul>
+<p>La expresión anterior converge a</p>
+<p>$latex \int f^2(x) dx,$</p>
+<p>que todavía no es <em>nuestra</em> entropía, pero que mide, esencialmente, la misma cosa. Lo es, sin embargo, de los economistas, que llaman a lo anterior <a href="https://es.wikipedia.org/wiki/%C3%8Dndice_de_Herfindahl">índice de Hirschman</a>.</p>
+<p>No hay impedimento en usar $latex \phi(f(x))$ para obtener un resultado con una interpretación similar con tal de que $latex \phi$ sea una función creciente, como $latex \phi(x) = x^2$ o $latex \phi(x) = \log(x)$.</p>
+<p>Es tradición en probabilidad usar esa última opción (aunque con un signo menos delante, que invierte aunque no desnaturaliza la interpretación dada más arriba). La ventaja del uso del logaritmo son:</p>
+<ol>
+<li>sus propiedades algebraicas, que convierten productos en sumas;  2. que los productos de funciones de densidad están relacionados con la propiedad de independencia de variables aleatorias;  3. que el  (menos) logaritmo es convexo, lo que permite aplicar desigualdades tipo Jensen por todas partes.</li>
+</ol>
+<p><em>[Obviamente, la conjunción de las propiedades 1 y 2 es material para postular y probar teoremas a tutiplén; pero son teoremas más buscados que encontrados: la definición primera de entropía venía a exigir que se cumpliesen esos resultados matemáticos, tan aptos para caer en los exámenes de la cosa.]</em></p>
+<p>Entonces, por fijar ideas, la expresión</p>
+<p>$latex -\int f(x) \log f(x) dx,$</p>
+<p>que es el límite de</p>
+<p>$latex \frac{-1}{n} \sum_i \log f(x_i)$</p>
+<p>mide el grado de dispersión de una variable aleatoria. Nótese, además, que, tal como está definido la expresión anterior, cuanto mayor sea esta, mayor será la dispersión.</p>
+<p>Ahora, supóngase que de una variable aleatoria solo se sabe que, por ejemplo, es positiva y que su media es 10. De tener que elegir una (por ejemplo, como priori en un tinglado bayesiano), lo más natural sería optar por la menos informativa  (o con mayor dispersión) dentro de aquellas que cumplan dichas condiciones. <a href="https://en.wikipedia.org/wiki/Maximum_entropy_probability_distribution">La Wikipedia nos dice que es la exponencial</a>.</p>
+<p>¿Y entre las que tienen media y varianza dadas? A nadie sorprenderá que se trate de la normal. De hecho, la normal, como <em>promedio</em> (vía el teorema central del límite) de variables aleatorias de cualquier pelaje, es precisamente aquella distribución con media y varianza dadas que ha perdido las <em>características informativas</em> de las variables aleatorias que la <em>integran</em>.</p>
+<p>Y, para cerrar, un resultado desasosegante. El contexto es el de la modelización bayesiana, de nuevo, con prioris informativas. Lo de la media y la varianza, que justificaría el uso de la normal, está entrañablemente <em>demodé</em>. Un usuario te puede decir: habitualmente, <strong>X</strong> está entre a y b. Lo cual se puede interpretar como que <strong>X</strong> es normal con media (a + b) / 2 y aquella varianza tal que los cuantiles 0.025 y 0.975 sean a y b; o alternativamente como que <strong>X</strong> debería ser aquella distribución de máxima entropía tal que sus cuantiles correspondientes son a y b.</p>
+<p>Desafortunadamente, esa distribución sería constante entre a y b y fuera de ese intervalo&hellip; no está claro. Unos dirían que si una uniforme degenerada (¿cuánto?) y otros más prudentes recomendarían utilizar una exponencial. En cualquier caso, un engendro de padre y muy señor mío.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/distribuciones/" rel="tag">distribuciones</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/entrop%C3%ADa/" rel="tag">entropía</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/probabilidad/" rel="tag">probabilidad</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2021/02/28/nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Nuevo vídeo en YouTube: sobre mi &#34;filosofía&#34; de modelización de datos</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2021/03/04/sobre-el-teorema-de-aumann/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Sobre el teorema de Aumann</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

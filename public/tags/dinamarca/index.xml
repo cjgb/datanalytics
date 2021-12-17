@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dinamarca on datanalytics</title>
+    <link>/tags/dinamarca/</link>
+    <description>Recent content in dinamarca on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 18 Sep 2018 08:13:51 +0000</lastBuildDate><atom:link href="/tags/dinamarca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los datos están histogramizados... ¿quién los deshisotogramizará?</title>
+      <link>/2018/09/18/los-datos-estan-histogramizados-quien-los-deshisotogramizara/</link>
+      <pubDate>Tue, 18 Sep 2018 08:13:51 +0000</pubDate>
+      
+      <guid>/2018/09/18/los-datos-estan-histogramizados-quien-los-deshisotogramizara/</guid>
+      <description>Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dinamarca. Pero los datos estaban histogramizados:
+Gracias a Freakonometrics di con binequality. Adaptando su código, escribo
+library(rvest) library(plyr) dk &amp;lt;- read_html(&amp;quot;http://www.skm.dk/english/facts-and-figures/progression-in-the-income-tax-system&amp;quot;) tmp &amp;lt;- html_nodes(dk, &amp;quot;table&amp;quot;) tmp &amp;lt;- html_table(tmp[[2]]) header &amp;lt;- tmp[1,] tmp &amp;lt;- tmp[-c(1, 2),] colnames(tmp) &amp;lt;- header # elimino declaraciones negativas tmp &amp;lt;- tmp[-1,] # elimino el total tmp &amp;lt;- tmp[-(nrow(tmp)),] colnames(tmp) &amp;lt;- c(&amp;quot;rango&amp;quot;, &amp;quot;contribuyentes&amp;quot;, &amp;quot;X1&amp;quot;, &amp;quot;income&amp;quot;, &amp;quot;tax1&amp;quot;, &amp;quot;tax2&amp;quot;, &amp;quot;pct&amp;quot;) irpf_dk &amp;lt;- tmp[, c(&amp;quot;rango&amp;quot;, &amp;quot;contribuyentes&amp;quot;, &amp;quot;income&amp;quot;, &amp;quot;tax1&amp;quot;, &amp;quot;tax2&amp;quot;)] irpf_dk$contribuyentes &amp;lt;- as.</description>
+    </item>
+    
+    <item>
+      <title>De España a Dinamarca en dos pasos</title>
+      <link>/2018/04/17/de-espana-a-dinamarca-en-dos-pasos/</link>
+      <pubDate>Tue, 17 Apr 2018 08:13:10 +0000</pubDate>
+      
+      <guid>/2018/04/17/de-espana-a-dinamarca-en-dos-pasos/</guid>
+      <description>De acuerdo con Eurostat, el IRPF recauda en España aproximadamente el 7.5% del PIB nacional; en Dinamarca, como el 25%. Los tipos impositivos en Dinamarca,
+son más altos que los españoles, pero tampoco puede decirse que estén desaforadamente por encima.
+En cualquier caso, ese salto (del 7.5% al 25%), puede descomponerse en dos partes. La primera, efecto de cambiar los tipos impositivos en España (sobre la actual distribución de la renta).</description>
+    </item>
+    
+  </channel>
+</rss>

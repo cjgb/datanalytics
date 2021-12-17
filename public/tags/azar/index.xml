@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azar on datanalytics</title>
+    <link>/tags/azar/</link>
+    <description>Recent content in azar on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 24 Jul 2018 08:13:33 +0000</lastBuildDate><atom:link href="/tags/azar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La reedición del sueño de Laplace</title>
+      <link>/2018/07/24/la-reedicion-del-sueno-de-laplace/</link>
+      <pubDate>Tue, 24 Jul 2018 08:13:33 +0000</pubDate>
+      
+      <guid>/2018/07/24/la-reedicion-del-sueno-de-laplace/</guid>
+      <description>Dejó escrito Laplace:
+Apostilla la Wikipedia:
+Pero, ¿no vivimos rodeados de ensayos de reedición del sueño de Laplace? Leed, leed lo que nos cuentan del big data y la inteligencia artificial.
+Nota: Una discusión sobre el anterior asunto está contenida en el primer capítulo de unas notas sobre estadística superpunk que estoy preparando no sé muy bien para qué. Muchos autores discuten la naturaleza de la aleatoriedad (sí, la consabida distinción entre su carácter objetivo o subjetivo).</description>
+    </item>
+    
+    <item>
+      <title>Consecuencias indeseadas de la falta de humildad</title>
+      <link>/2018/07/16/consecuencias-indeseadas-de-la-falta-de-humildad/</link>
+      <pubDate>Mon, 16 Jul 2018 08:13:00 +0000</pubDate>
+      
+      <guid>/2018/07/16/consecuencias-indeseadas-de-la-falta-de-humildad/</guid>
+      <description>Me refiero a estas:
+La historia, resumida, es que Kiko Llaneras publica sus predicciones para el mundial en El País, i.e.,
+y a la vista de los acontecimientos balompédicos, tiempo le ha faltado al del tuit para lanzarse en tromba contra quienes prentenden cuantificar fenónenos complejos y contra Llaneras en particular. Y luego, claro, parte de nosotros, le hemos atizado con bastante razón. Pero no, argumentaré, toda.
+Me retrotraigo. Hay mucha gente que paga su hipoteca escribiendo bonito.</description>
+    </item>
+    
+    <item>
+      <title>Golpes de suerte</title>
+      <link>/2015/08/31/golpes-de-suerte/</link>
+      <pubDate>Mon, 31 Aug 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/08/31/golpes-de-suerte/</guid>
+      <description>Rescato para el día de hoy los dos primeros párrafos de un artículo de Ignacio Vidal-Foch. Tiene más, pero menos interesante en nuestro contexto.
+Son:
+La vida es repelentemente moral, pero también está sometida al imperio del azar, y de qué manera. A Borges le obsesionaron durante muchos años los versos de un largo poema de Almafuerte que dicen: “Yo repudié al feliz, al potentado / al honesto, al armónico y al fuerte / porque pensé que les tocó la suerte / como a cualquier tahúr afortunado”, y que él citaba aquí y allá, ayer en un ensayo, mañana en una entrevista o en una conferencia.</description>
+    </item>
+    
+    <item>
+      <title>Dos enlaces (y medio) sobre herramientas: git y APIs</title>
+      <link>/2014/05/09/dos-enlaces-y-medio-sobre-herramientas-git-y-apis/</link>
+      <pubDate>Fri, 09 May 2014 07:12:37 +0000</pubDate>
+      
+      <guid>/2014/05/09/dos-enlaces-y-medio-sobre-herramientas-git-y-apis/</guid>
+      <description>El primer enlace, muy apreciados lectores, no es para vosotros sino para mí. Es una referencia que quiero tener a mano: una guía de git para científicos. Es una de las pocas referencias de git que conozco. Casi cualquier otro documento sobre el tema que he visto da la sensación de exigir un conocimiento profundo de sí mismo como prerrequisito para su lectura.
+El segundo explica casi todo lo que hay que saber sobre APIs del subtipo web.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruido on datanalytics</title>
+    <link>/tags/ruido/</link>
+    <description>Recent content in ruido on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 02 Apr 2020 16:03:48 +0000</lastBuildDate><atom:link href="/tags/ruido/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pokemoneando ruido</title>
+      <link>/2020/04/02/pokemoneando-ruido/</link>
+      <pubDate>Thu, 02 Apr 2020 16:03:48 +0000</pubDate>
+      
+      <guid>/2020/04/02/pokemoneando-ruido/</guid>
+      <description>Quería escribir una entrada totalmente distinta y me ha bloqueado el no contar con una buena traducción para chase noise.
+¿Cazar ruido? Pero la caza es una actividad casi solipsista: dos perros y un tipo con escopeta caminando al contraviento por el orillo de un monte por si vuela una perdiz. Nada que ver con ese refrescar compulsivo de las páginas que dan cuenta de casos y decesos, tan colectivo e histérico.</description>
+    </item>
+    
+    <item>
+      <title>Guasa tiene que habiendo tanto economista por ahí tenga yo que escribir esta cosa hoy</title>
+      <link>/2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/</link>
+      <pubDate>Tue, 29 May 2018 08:13:28 +0000</pubDate>
+      
+      <guid>/2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/</guid>
+      <description>Tiene que ver con Why did Big Data fail Clinton?, que trata de lo que el título indica, toda la tontería que se ha escrito de Cambridge Analytica y lo enlazo con el nóbel de economía de 2016 (Hart y otro).
+¿Por qué? De acuerdo con lo que muchos han escrito, una empresa de siete friquis en el Reino Unido con acceso a los likes de 50000 donnadies y poco más tienen poder para quitar y poner reyes con unos cuantos clicks.</description>
+    </item>
+    
+    <item>
+      <title>Vivir del ruido</title>
+      <link>/2017/10/03/vivir-del-ruido/</link>
+      <pubDate>Tue, 03 Oct 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/10/03/vivir-del-ruido/</guid>
+      <description>1. Tienes acceso a la serie histórica de hospitalizaciones (p.e. en Madrid) por diversas (muchas) causas. 2. Tienes acceso a la serie histórica de mediciones de distintos factores ambientales (p.e., en Madrid): ruido, óxidos de nitrógeno, partículas en suspensión,... 3. Buscas correlaciones (y, por supuesto, las encuentras). 4. Les asocias [p-valore espurios](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/). 5. Lo escribes en inglés (frecuentemente) y publicas: * _Effect of Environmental Factors on Low Weight in Non-Premature Births: A Time Series Analysis_ * _Effects of noise on telephone calls to the Madrid Regional Medical Emergency Service (SUMMA 112)_ * _Short-term association between environmental factors and hospital admissions due to Dementia in Madrid_ * Impacto de la contaminación asociada al tráfico y la temperatura sobre variables adversas al nacimiento en Madrid.</description>
+    </item>
+    
+  </channel>
+</rss>

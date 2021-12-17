@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calor on datanalytics</title>
+    <link>/tags/calor/</link>
+    <description>Recent content in calor on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 27 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/calor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un recordatorio: MOMOCalor está &#34;up and running&#34;</title>
+      <link>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</link>
+      <pubDate>Mon, 27 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</guid>
+      <description>Por desgracia, MoMo ya no exige presentación. Pero con los termómetros acariciando los 40º no está mal recordar la existencia de MoMoCalor, su hermanito, que trata atribuir mortalidad a los excesos de temperaturas.
+¿Por qué es particularmente importante MoMoCalor hoy? Recuérdese que MoMo estima, simplemente, desviaciones de mortalidad con respecto a la que sería la normal en una fecha determinada. Cuando hay una epidemia o una ola de calor, la mortalidad crece y MoMo lo detecta.</description>
+    </item>
+    
+    <item>
+      <title>Vigilancia de la mortalidad diaria asociada al exceso de temperatura</title>
+      <link>/2019/06/07/vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura/</link>
+      <pubDate>Fri, 07 Jun 2019 09:13:20 +0000</pubDate>
+      
+      <guid>/2019/06/07/vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura/</guid>
+      <description>Aquí. Se agradecen comentarios.</description>
+    </item>
+    
+  </channel>
+</rss>

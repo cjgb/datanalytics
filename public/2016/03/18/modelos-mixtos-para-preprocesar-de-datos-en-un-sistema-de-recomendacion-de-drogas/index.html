@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas" />
+<meta property="og:description" content="Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado (aquí) un conjunto datos muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— nootrópicos.
+El gráfico
+extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2016-03-18T09:13:34&#43;00:00" />
+<meta property="article:modified_time" content="2016-03-18T09:13:34&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-03-18T09:13:34Z">2016-3-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado (<a href="http://slatestarcodex.com/2016/03/01/2016-nootropics-survey-results/">aquí</a>) un <a href="http://www.datanalytics.com/wp-uploads/2016/03/recomendador_drogas.xlsx">conjunto datos</a> muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— <a href="https://es.wikipedia.org/wiki/Nootr%C3%B3picos">nootrópicos</a>.</p>
+<p>El gráfico</p>
+<p><img src="http://www.datanalytics.com/wp-uploads/2016/03/nootropics_image1a.png" alt="nootropics_image1a"></p>
+<p>extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo. En los manuales de la cosa suelen recogerse mecanismos más o menos sofisticados para mitigar ese efecto y normalizar las valoraciones entre usuarios. Generalmente, solo exigen matemáticas de bachillerato. Y son meras aproximaciones que no tienen en cuenta circunstancias tales como que puede que un usuario da valoraciones bajas solo porque evalúa productos malos, etc.</p>
+<p><a href="https://matloff.wordpress.com/2015/11/15/partools-recommender-systems-and-more/">Aquí</a> y en sus enlaces se habla de una manera más sofisticada de corregir ese sesgo: modelos mixtos. Tales como</p>
+<pre><code>library(&lt;a href=&quot;http://inside-r.org/packages/cran/xlsx&quot;&gt;xlsx)
+library(reshape2)
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/lme4&quot;&gt;lme4)
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/plyr&quot;&gt;plyr)
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/lattice&quot;&gt;lattice)
+
+&lt;a href=&quot;http://inside-r.org/r-doc/utils/download.file&quot;&gt;download.file(&quot;http://www.datanalytics.com/wp-uploads/2016/03/recomendador_drogas.xlsx&quot;,
+              destfile = &quot;recomendador_drogas.xlsx&quot;)
+raw &lt;- read.xlsx(&quot;recomendador_drogas.xlsx&quot;, 1)
+
+# selección de las columnas de interés
+dat &lt;- raw[, c(8:40, 42, 48, 53)]
+
+# limpieza de nombres
+colnames(dat)[grep(&quot;Semax&quot;, colnames(dat))] &lt;- &quot;Semax&quot;
+colnames(dat)[grep(&quot;Selank&quot;, colnames(dat))] &lt;- &quot;Selank&quot;
+colnames(dat)[grep(&quot;Alpha.Brain&quot;, colnames(dat))] &lt;- &quot;Alpha.Brain&quot;
+colnames(dat)[grep(&quot;Epicor&quot;, colnames(dat))] &lt;- &quot;Epicor&quot;
+colnames(dat)[grep(&quot;LSD.Microdosing&quot;, colnames(dat))] &lt;- &quot;LSD.Microdosing&quot;
+colnames(dat)[grep(&quot;Adderall&quot;, colnames(dat))] &lt;- &quot;Adderall&quot;
+colnames(dat)[grep(&quot;Phenibut&quot;, colnames(dat))] &lt;- &quot;Phenibut&quot;
+
+# preparación de los datos
+dat$id &lt;- 1:nrow(dat)
+dat &lt;- melt(dat, id.vars = &quot;id&quot;)
+colnames(dat) &lt;- c(&quot;usuario&quot;, &quot;droga&quot;, &quot;nota&quot;)
+dat &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/na.omit&quot;&gt;na.omit(dat)
+dat$usuario &lt;- as.character(dat$usuario)
+
+# tabla que replica la publicada más arriba
+ranking &lt;- ddply(dat, .(droga), summarize, nota = mean(nota))
+ranking &lt;- ranking[order(-ranking$nota),]
+
+# modelo mixto: incluye efectos aleatorios por usuario y por droga
+modelo &lt;- lmer(nota ~ 1 + (1|usuario) + (1|droga), data = dat)
+
+&lt;a href=&quot;http://inside-r.org/r-doc/lattice/dotplot&quot;&gt;dotplot(&lt;a href=&quot;http://inside-r.org/r-doc/nlme/ranef&quot;&gt;ranef(modelo, condVar = TRUE))
+</code></pre>
+<p>que produce, entre otros, el gráfico</p>
+<p><img src="http://www.datanalytics.com/wp-uploads/2016/03/nootropics_image_ci.png" alt="nootropics_image_ci"></p>
+<p>Esencialmente, el orden se mantiene (salvo alguna excepción). Pero ahora se aprecian los intervalos de confianza (debidos a la desigual popularidad de los ítems).</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/drogas/" rel="tag">drogas</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/lme4/" rel="tag">lme4</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/modelos-mixtos/" rel="tag">modelos mixtos</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/recomendaciones/" rel="tag">recomendaciones</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2016/03/17/jupyter-me-quedo-con-rodeo-creo/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">¿Jupyter? Me quedo con Rodeo, creo</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2016/03/21/caret-y-rejillas-es-necesario-utilizar-fuerza-bruta/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Caret y rejillas: ¿es necesario utilizar fuerza bruta?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

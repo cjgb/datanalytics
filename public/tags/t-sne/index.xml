@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>t-sne on datanalytics</title>
+    <link>/tags/t-sne/</link>
+    <description>Recent content in t-sne on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 08 Mar 2017 08:13:41 +0000</lastBuildDate><atom:link href="/tags/t-sne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reducción de la dimensionalidad con t-SNE</title>
+      <link>/2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/</link>
+      <pubDate>Wed, 08 Mar 2017 08:13:41 +0000</pubDate>
+      
+      <guid>/2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/</guid>
+      <description>Voy a explicar aquí lo que he aprendido recientemente sobre t-SNE, una técnica para reducir la dimensionalidad de conjuntos de datos. Es una alternativa moderna a MDS o PCA.
+Partimos de puntos $latex x_1, \dots, x_n$ y buscamos otros $latex y_1, \dots, y_n$ en un espacio de menor dimensión. Para ello construiremos primero $latex n$ distribuciones de probabilidad, $latex p_i$ sobre los enteros $latex 1, \dots, n$ de forma que</description>
+    </item>
+    
+  </channel>
+</rss>

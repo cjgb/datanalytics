@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>españa on datanalytics</title>
+    <link>/tags/espa%C3%B1a/</link>
+    <description>Recent content in españa on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Jan 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/espa%C3%B1a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tres pirámides poblacionales con nombre</title>
+      <link>/2021/01/07/tres-piramides-poblacionales-con-nombre/</link>
+      <pubDate>Thu, 07 Jan 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/01/07/tres-piramides-poblacionales-con-nombre/</guid>
+      <description>La primera es esta, a la que muchos conocen como la pirámide de población española de 1992, pero que yo conozco como la pirámide de población de la masificación universitaria:
+Es posible que a muchos no os suene el concepto pero, ¿véis ese pico en la edad de la chavalería? Corresponde a todos esos a los que dio de repente por ponerse a estudiar ingeniería, derecho o matemáticas de forma que no cabían en las aulas.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la normalización de las direcciones postales</title>
+      <link>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</link>
+      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</guid>
+      <description>Lo de las direcciones postales es un caos. Trabajar con ellas, una tortura. Y cualquier proyecto de ciencia de datos que las emplee se convierte en la n-ésima reinvención de la rueda: normalización y tal.
+Cuando todo debería ser más sencillo. Cada portal en España tiene asociado un número de policía, un identificador numérico único. Independientemente de que quienes lo habiten se refieran a él de formas variopintas, vernaculares y, en definitiva, desnormalizadas y desestandarizadas hasta pedir basta.</description>
+    </item>
+    
+    <item>
+      <title>Elecciones, mapas... y mi favorito</title>
+      <link>/2019/05/06/elecciones-mapas-y-mi-favorito/</link>
+      <pubDate>Mon, 06 May 2019 09:13:37 +0000</pubDate>
+      
+      <guid>/2019/05/06/elecciones-mapas-y-mi-favorito/</guid>
+      <description>De entre lo bueno que pudan haber traído las últimas elecciones generales (las españolas de abril de 2019, para quien requiera mayor precisión) puede contarse una pequeña revolución en la cartografía electoral.
+Debemos agradecérselo al equipo de Kiko Llaneras en El País, que nos han regalado esto. Prueba de que las cosas han cambiado es que ha sido replicado en otros sitios, como este.
+[Nota: no sé si estoy cometiendo injusticias en el párrafo anterior por omisión o confusión en las prelaciones; si alguien dispone de más o mejor información sobre la intrahistoria de esas publicaciones, que me avise.</description>
+    </item>
+    
+    <item>
+      <title>No son los picos, son los rangos</title>
+      <link>/2018/04/23/no-son-los-picos-son-los-rangos/</link>
+      <pubDate>Mon, 23 Apr 2018 08:13:39 +0000</pubDate>
+      
+      <guid>/2018/04/23/no-son-los-picos-son-los-rangos/</guid>
+      <description>Me reencuentro con
+tiempo después (fuente). Llaman la atención sobremanera los picos. Que no tienen otra razón de ser que un cambio en los rangos del eje horizontal.
+Ahora la pregunta, de ejercicio: ¿cómo harías para representar esos datos para evitar esos artefactos (asumiendo escala lineal en el eje horizontal)?</description>
+    </item>
+    
+    <item>
+      <title>De España a Dinamarca en dos pasos</title>
+      <link>/2018/04/17/de-espana-a-dinamarca-en-dos-pasos/</link>
+      <pubDate>Tue, 17 Apr 2018 08:13:10 +0000</pubDate>
+      
+      <guid>/2018/04/17/de-espana-a-dinamarca-en-dos-pasos/</guid>
+      <description>De acuerdo con Eurostat, el IRPF recauda en España aproximadamente el 7.5% del PIB nacional; en Dinamarca, como el 25%. Los tipos impositivos en Dinamarca,
+son más altos que los españoles, pero tampoco puede decirse que estén desaforadamente por encima.
+En cualquier caso, ese salto (del 7.5% al 25%), puede descomponerse en dos partes. La primera, efecto de cambiar los tipos impositivos en España (sobre la actual distribución de la renta).</description>
+    </item>
+    
+    <item>
+      <title>España, Platón, Madrid</title>
+      <link>/2018/04/12/espana-platon-madrid/</link>
+      <pubDate>Thu, 12 Apr 2018 08:13:00 +0000</pubDate>
+      
+      <guid>/2018/04/12/espana-platon-madrid/</guid>
+      <description>En 1871-1872 se publicó la primera edición de las obras completas de Platón traducidas al español. Hubo 500 suscriptores en toda España (que entonces incluía, recuérdese, Cuba, Puerto Rico y quién sabe si algún desafortunado lugar más). Y uno más de Uruguay, que solicitó dos copias.
+En total, 11 volúmenes de 250-350 páginas de texto no demasiado prieto.
+La distribución provincial de suscriptores fue:
+Ciertamente curiosa.
+Más información (incluida la lista de los suscriptores, tanto institucionales como privados), aquí.</description>
+    </item>
+    
+    <item>
+      <title>Estructura poblacional de España: 2010-2050</title>
+      <link>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</link>
+      <pubDate>Tue, 27 Feb 2018 08:13:04 +0000</pubDate>
+      
+      <guid>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</guid>
+      <description>Si se puede hacer para Japón, también se puede hacer para España:
+El código,
+library(idbr) library(ggplot2) library(animation) library(ggthemes) idb_api_key(&amp;quot;pídela en https://www.census.gov/data/developers/data-sets/international-database.html&amp;quot;) male &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;male&#39;) male$SEX &amp;lt;- &amp;quot;hombres&amp;quot; male$POP &amp;lt;- -male$POP female &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;female&#39;) female$SEX &amp;lt;- &amp;quot;mujeres&amp;quot; spain &amp;lt;- rbind(male, female) saveGIF({ for (i in 2010:2050) { title &amp;lt;- as.character(i) year_data &amp;lt;- spain[spain$time == i, ] g1 &amp;lt;- ggplot(year_data, aes(x = AGE, y = POP, fill = SEX, width = 1)) + coord_fixed() + coord_flip() + annotate(&#39;text&#39;, x = 98, y = -300000, label = &#39;Datos: US Census Bureau IDB; idbr R package&#39;, size = 3) + geom_bar(data = subset(year_data, SEX == &amp;quot;mujeres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + geom_bar(data = subset(year_data, SEX == &amp;quot;hombres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + scale_y_continuous(breaks = seq(-300000, 300000, 150000), labels = paste0(as.</description>
+    </item>
+    
+    <item>
+      <title>ISO 3166-2:ES</title>
+      <link>/2017/10/27/iso-3166-2es/</link>
+      <pubDate>Fri, 27 Oct 2017 08:13:53 +0000</pubDate>
+      
+      <guid>/2017/10/27/iso-3166-2es/</guid>
+      <description>El estándar ISO 3166-2:ES, ignorado por todos, establece cómo deberían identificarse provincias y comunidades autónomas en España.
+Obviamente, ni el INE ni nadie le va a hacer el más minimo caso: seguiremos teniendo que recordar que Zaragoza es la provincia 50, Soria la 42, etc. ¡Qué primitivo, qué contraintiutivo!
+Pero no ha de perderse la esperanza: si me lees y algún día te vas a ver en la tesitura de crear algún tipo de base de datos de gentes y lugares de España, recuerda que existe un estándar internacional medianamente nemotécnico y al socaire de las veleidades vernacularizantes.</description>
+    </item>
+    
+    <item>
+      <title>rOpenSpain: ahí tiro el guante</title>
+      <link>/2017/10/11/ropenspain-ahi-tiro-el-guante/</link>
+      <pubDate>Wed, 11 Oct 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/10/11/ropenspain-ahi-tiro-el-guante/</guid>
+      <description>La gente de rOpenSci hace cosas a las que merece la pena atento. Tanto por los objetivos como por medios y las formas. Recomiendo seguir sus últimas publicaciones acerca de la profesionalización del proceso de desarrollo de código.
+Llevo unos meses jugando con una idea inspirada por rOpenSci: crear un respositorio y un consorcio más o menos formal que desarrolle, mantenga y mejore herramientas (en R) de interés para el procesamiento y análisis de datos ya no científicos sino españoles.</description>
+    </item>
+    
+    <item>
+      <title>Pues sí, puede fabricarse uno para España</title>
+      <link>/2017/04/10/pues-si-puede-fabricarse-uno-para-espana/</link>
+      <pubDate>Mon, 10 Apr 2017 08:13:28 +0000</pubDate>
+      
+      <guid>/2017/04/10/pues-si-puede-fabricarse-uno-para-espana/</guid>
+      <description>Es
+responde a mi entrada de la semana pasada y se lo debemos a la gentileza de Sergio J.
+El código, con mínimas modificaciones mías (para automatizar la descarga de los datos) es
+library(pxR) library(dplyr) library(tidyr) library(ggplot2) #---- Carga y transformacion de datos download.file(&amp;quot;http://www.datanalytics.com/uploads/3199.px&amp;quot;, &amp;quot;3199.px&amp;quot;) pob &amp;lt;- read.px(&amp;quot;3199.px&amp;quot;, encoding = &amp;quot;latin1&amp;quot;) pob &amp;lt;- as.data.frame(pob) pob$Sexo &amp;lt;- NULL pob$Periodo &amp;lt;- as.numeric(as.character(pob$Periodo)) pob &amp;lt;- separate(pob, Provincias, into = c(&amp;quot;id_provincia&amp;quot;, &amp;quot;provincia&amp;quot;), sep = 3) pob$fecha &amp;lt;- as.</description>
+    </item>
+    
+    <item>
+      <title>Evolución de la edad media de la población por provincias</title>
+      <link>/2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/</link>
+      <pubDate>Wed, 29 Mar 2017 08:13:44 +0000</pubDate>
+      
+      <guid>/2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/</guid>
+      <description>Abundo en la entrada de ayer. Lo hago para mostrar
+En el gráfico anterior se muestra la evolución de la edad media de la población de las provincias españolas como diferencia con respecto a una evolución media calculada como la regresión lineal de todas las edades medias con respecto al año. Es decir, algo así como evolución relativa.
+Se aprecian claramente los rejuvenecimientos relativos de Guadalajara y, en menor medida, Toledo.</description>
+    </item>
+    
+    <item>
+      <title>Rejillas poblacionales con R (un borrador)</title>
+      <link>/2017/03/28/rejillas-poblacionales-con-r-un-borrador/</link>
+      <pubDate>Tue, 28 Mar 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/03/28/rejillas-poblacionales-con-r-un-borrador/</guid>
+      <description>me llegó ayer por Twitter (vía @unnombrealazar). En el mapa aparece representada la edad media de la población por provincia (y hoy voy a dar las cloropetas por buenas). Salta a la vista Guadalajara: tiene una edad media ¿sorprendentemente? baja. Tanto que tuve que comprobarlo en el INE. La explicación (siempre a posteriori) más obvia es
+¿Será cierto? A saber. Seguramente. Pero, ¿podemos comprobarlo?
+Es complicado obtener datos de edades por municipio.</description>
+    </item>
+    
+    <item>
+      <title>Ceuta y Melilla, ¿por encima de la renta media española?</title>
+      <link>/2016/07/25/ceuta-y-melilla-por-encima-de-la-renta-media-espanola/</link>
+      <pubDate>Mon, 25 Jul 2016 08:13:20 +0000</pubDate>
+      
+      <guid>/2016/07/25/ceuta-y-melilla-por-encima-de-la-renta-media-espanola/</guid>
+      <description>Durante estos días que he pasado fuera, la Agencia Tributaria ha publicado datos de la renta por municipios. No he visto los datos originales ni leído los caveats, pero en fuentes indirectas como El País se lee cómo Ceuta y Melilla superan la media española con 30.125 y 29.209 euros, respectivamente.
+Del mismo tenor son Expansión y, a poco que se indague, otros medios.
+Y yo me pregunto: ¿estarán realmente Ceuta y Melilla, tal como se cuenta, por encima de la media?</description>
+    </item>
+    
+    <item>
+      <title>Ubi ratio, ibi paradoxa (Simpsorum)</title>
+      <link>/2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/</link>
+      <pubDate>Thu, 25 Aug 2011 07:53:33 +0000</pubDate>
+      
+      <guid>/2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/</guid>
+      <description>Efectivamente, ahí donde hay ratios, aparece con frecuencia la llamada paradoja de Simpson (a propósito, en enlace anterior a la Wikipedia es un despropósito: a ver si alguno de mis lectores con tiempo deja la página a la altura de lo que merece una lengua de cultura).
+Una ratio muy traída y llevada últimamente y con la que nos gusta autoflagelarnos a los españoles es el de la productividad, que es el cociente entre la producción nacional y el número de trabajadores.</description>
+    </item>
+    
+  </channel>
+</rss>

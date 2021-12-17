@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on datanalytics</title>
+    <link>/categories/python/</link>
+    <description>Recent content in python on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 04 Jun 2020 12:14:46 +0000</lastBuildDate><atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programación lineal, de nuevo</title>
+      <link>/2020/06/04/programacion-lineal-de-nuevo/</link>
+      <pubDate>Thu, 04 Jun 2020 12:14:46 +0000</pubDate>
+      
+      <guid>/2020/06/04/programacion-lineal-de-nuevo/</guid>
+      <description>Hoy me he retrasado en escribir por haber estado probando (y estresando, como hay quien dice), software para resolver problemas de programación lineal. En total, nada, unos diez millones de variables unos treinta millones de restricciones.
+Nota: es un problema LP puro, nada de enteros, nada de pérdidas no lineales, etc.
+ Primera opción: Python + PuLP + CBC (de COIN-OR), que es el optimizador por defecto de PuLP. Rendimiento aceptable para el tipo de uso que se le acabaría dando.</description>
+    </item>
+    
+    <item>
+      <title>La gramática del análisis explicativo interactivo de modelos</title>
+      <link>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</link>
+      <pubDate>Thu, 14 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</guid>
+      <description>Así vendría a traducirse el título de este artículo, que trata de taxonomizar y sistematizar una serie de técnicas muy recientes para explicar modelos de caja negra.
+Tal vez no acabe siendo la manera pero, sin duda, acabará habiendo una.</description>
+    </item>
+    
+    <item>
+      <title>Curso de python básico orientado al análisis de datos</title>
+      <link>/2020/01/14/curso-de-python-basico-orientado-al-analisis-de-datos/</link>
+      <pubDate>Tue, 14 Jan 2020 14:17:00 +0000</pubDate>
+      
+      <guid>/2020/01/14/curso-de-python-basico-orientado-al-analisis-de-datos/</guid>
+      <description>Se acaba de publicar en GitHub el/nuestro Curso de python básico orientado al análisis de datos.
+Digo nuestro un tanto impropiamente: casi todo el material es de Luz Frías, mi socia en Circiter. Mía hay alguna cosa suelta.
+Como como minicoautor soy el comentarista menos creíble del contenido, lo dejo al juicio de cada cual. Y, por supuesto, se agradecen correcciones, comentarios, cañas y fusilamientos (con la debida caballerosidad, por supuesto, en lo de las atribuciones).</description>
+    </item>
+    
+    <item>
+      <title>Sobre los coeficientes de los GLM en Scikit-learn</title>
+      <link>/2019/12/02/sobre-los-coeficientes-de-los-glm-en-scikit-learn/</link>
+      <pubDate>Mon, 02 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/02/sobre-los-coeficientes-de-los-glm-en-scikit-learn/</guid>
+      <description>Pensé que ya había escrito sobre el asunto porque tropecé con él en un proyecto hace un tiempo. Pero mi menoria se había confundido con otra entrada, Sobre la peculiarisima implementacion del modelo lineal en (pseudo-)Scikit-learn, donde se discute, precisamente, un problema similar si se lo mira de cierta manera o diametralmente opuesto si se ve con otra perspectiva.
+Allí el problema era que Scikit-learn gestionaba muy sui generis el insidioso problema de la colinealidad.</description>
+    </item>
+    
+    <item>
+      <title>Pyro</title>
+      <link>/2019/10/14/pyro/</link>
+      <pubDate>Mon, 14 Oct 2019 09:13:35 +0000</pubDate>
+      
+      <guid>/2019/10/14/pyro/</guid>
+      <description>Leyendo sobre si dizque PyTorch le siega la hierba debajo de los pies a TensorFlow, averigué la existencia de Pyro.
+Pyro se autopresenta como Deep Universal Probabilistic Programming, pero aplicando métodos porfirianos (ya sabéis: género próximo y diferencia específica), es, o pretende ser, Stan en Python y a escala.
+Aquí van mis dos primeras impresiones, basadas en una inspección superficial de los tutoriales.
+En primer lugar, aunque Pyro permite usar (distintas versiones de) MCMC, parece que su especialidad es la inferencia variacional estocástica.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué variable distingue mejor dos subgrupos?</title>
+      <link>/2019/09/24/que-variable-distingue-mejor-dos-subgrupos/</link>
+      <pubDate>Tue, 24 Sep 2019 09:13:25 +0000</pubDate>
+      
+      <guid>/2019/09/24/que-variable-distingue-mejor-dos-subgrupos/</guid>
+      <description>Es una pregunta que surge reiteradamente. Por ejemplo, cuando se compara un clúster con el resto de la población y uno busca las variables que mejor lo caracterizan. Y crear gráficos como
+(extraído de aquí) donde las variables están ordenadas de acuerdo con su poder discriminador.
+Mi técnica favorita para crear tales indicadores es la EMD (earth mover&amp;rsquo;s distance) y/o sus generalizaciones, muy bien descritas en Optimal Transport and Wasserstein Distance y disponibles en R y Python.</description>
+    </item>
+    
+    <item>
+      <title>Los modelos mixtos en Python son un bien público pero quienes debieran proveerlo están a otra cosa</title>
+      <link>/2019/09/17/los-modelos-mixtos-en-python-son-un-bien-publico-pero-quienes-debieran-proveerlo-estan-a-otra-cosa/</link>
+      <pubDate>Tue, 17 Sep 2019 09:13:45 +0000</pubDate>
+      
+      <guid>/2019/09/17/los-modelos-mixtos-en-python-son-un-bien-publico-pero-quienes-debieran-proveerlo-estan-a-otra-cosa/</guid>
+      <description>Los modelos mixtos en Python son un bien público.
+El sector privado no produce suficientes bienes públicos (con excepciones tan notables como las búsquedas en Google o las páginas aún sin paywall de los periódicos). El sector público y los impuestos que lo financian argumenta la conveniencia de su propia existencia en términos de esa provisión de bienes públicos que dizque realiza.
+Pero ese subsector del sector público que debería implementar los modelos mixtos en Python se dedica a otra cosa.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la peculiarísima implementación del modelo lineal en (pseudo-)scikit-learn</title>
+      <link>/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/</link>
+      <pubDate>Wed, 17 Jul 2019 09:13:55 +0000</pubDate>
+      
+      <guid>/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/</guid>
+      <description>Si ejecutas
+import numpy as np from sklearn.linear_model import LinearRegression n = 1000 X = np.random.rand(n, 2) Y = np.dot(X, np.array([1, 2])) + 1 + np.random.randn(n) / 2 reg = LinearRegression().fit(X, Y) reg.intercept_ reg.coef_  se obtiene más o menos lo esperado. Pero si añades una columna linealmente dependiente,
+X = np.column_stack((X, 1 * X[:,1]))  ocurren cosas de la más calamitosa especie:
+Y = np.dot(X, np.array([1, 2, 1])) + 1 + np.</description>
+    </item>
+    
+    <item>
+      <title>Mi infraestructura para Python</title>
+      <link>/2019/06/06/mi-infraestructura-para-python/</link>
+      <pubDate>Thu, 06 Jun 2019 09:13:52 +0000</pubDate>
+      
+      <guid>/2019/06/06/mi-infraestructura-para-python/</guid>
+      <description>Resumen:
+ He decidido usar RStudio como IDE para Python. RStudio no es el mejor IDE para desarrollar, pero es incomparablemente mejor que cualquier otro IDE para explorar, etc. Funciona muy bien y solo puede mejorar. * He decidido pasar de Jupyter. Los notebooks valen para lo que valen, pero no para lo que hago. En caso de necesidad, uso Rmarkdown con bloques de Python. De nuevo, funcionan muy bien y solo pueden mejorar.</description>
+    </item>
+    
+    <item>
+      <title>Sr. Python, muchas gracias por su candidatura; ya le llamaremos cuando... tenga modelos mixtos</title>
+      <link>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</link>
+      <pubDate>Tue, 12 Feb 2019 08:13:49 +0000</pubDate>
+      
+      <guid>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</guid>
+      <description>Era casi todavía el siglo XX cuando yo, desesperado por hacer cosas que consideraba normales y que SAS no me permitía, pregunté a un profesor por algo como C pero para estadística. Y el profesor me contó que conocía a alguien que conocía a alguien que conocía a alguien que usaba una cosa nueva que se llamaba R y que podía servirme.
+Fue amor a primera vista, pero esa es otra historia.</description>
+    </item>
+    
+  </channel>
+</rss>

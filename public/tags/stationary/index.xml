@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stationaRy on datanalytics</title>
+    <link>/tags/stationary/</link>
+    <description>Recent content in stationaRy on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Oct 2019 09:13:18 +0000</lastBuildDate><atom:link href="/tags/stationary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Se non è vero, non è vero (¡qué se le va a hacer!)</title>
+      <link>/2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/</link>
+      <pubDate>Mon, 21 Oct 2019 09:13:18 +0000</pubDate>
+      
+      <guid>/2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/</guid>
+      <description>Me llegó por fuentes habitualmente fiables el vídeo
+https://www.youtube.com/watch?v=2Fh_XmK3yis
+que se resume en que el apagón del día 29 de septiembre en Tenerife, es decir, esta cosa tan horrorosa
+fue producto de la variabilidad de la producción de la energía eólica. En particular, de una bajada drástica de la aportación de la eólica al mix consecuencia de un descenso en la intensidad del viento. Lo cual, de ser cierto, debería convertirse en referencia básica para ilustrar los perniciosos efectos de la variabilidad, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

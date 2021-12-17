@@ -1,0 +1,75 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2020-06-19 09:13:00+00:00
+draft: false
+title: RuleFit
+
+url: /2020/06/19/rulefit/
+categories:
+- ciencia de datos
+- estadística
+tags:
+- ciencia de datos
+- estadística
+- rulefit
+---
+
+
+
+
+El otro día me sentí culpable porque me preguntaron sobre RuleFit y tuve que hacer un Simón (aka, _me lo estudio para mañana_). Y como _mañana_ fue antier, lo que sigue.
+
+
+
+
+
+
+
+Hay descripciones estándar de RuleFit (p.e., [esta](https://christophm.github.io/interpretable-ml-book/rulefit.html#theory-1) o la del [artículo original](https://arxiv.org/pdf/0811.1679.pdf)) pero me voy a atrever con una original de mi propio cuño.
+
+
+
+
+
+
+
+Comenzamos con _lasso_. Lasso está bien, pero tiene una limitación sustancial: se le escapan las iteracciones (vale, admito que lo anterior no es universalmente exacto, pero lo es _casi_ y eso me vale). Entonces, la pregunta es: ¿cómo introducir interacciones en lasso?
+
+
+
+
+
+
+
+Uno podría construir el modelo _completo_ (con todas las interacciones posibles) y dejar a la selección de variables hacer su magia. Vale. Pero hay otra alternativa. Existen algoritmos que son muy sensibles a las interacciones. De hecho, que, esencialmente, solo modelan interacciones: los árboles y sus derivados (_random forests_, GBM). Se puede por tanto crear un modelo basado en árboles y capturar sus interacciones. Capturar significa aquí convertir los nodos terminales de esos árboles en funciones que son 1 si la observación cae en ellos y 0 en otro caso.
+
+
+
+
+
+
+
+Así que si tu lasso original tenía siete variables y creas un _random forest_ con 500 árboles que suman 10000 nodos terminales, puedes meter todas esas 10007 variables adicionales en el lasso _mejorado_ y ver qué pasa.
+
+
+
+
+
+
+
+A eso se lo llama RuleFit.
+
+
+
+
+
+
+
+Ahora, ¿RuleFit o no RuleFit? RuleFit es sugerente, sin duda.  Sus ventajas están cantadas en muchas partes (p.e., [aquí](https://christophm.github.io/interpretable-ml-book/rulefit.html#advantages-4)). Pero existen dos motivos que me hacen dudar:
+
+
+
+
+
+  1. El libro de los compañeros de departamento de los autores de RuleFit, _An Introduction to Statistical Learning_, ni lo menciona.  2. Las tres, estas más técnicas (o empíricas) que se describen [aquí](https://christophm.github.io/interpretable-ml-book/rulefit.html#disadvantages-4).
+

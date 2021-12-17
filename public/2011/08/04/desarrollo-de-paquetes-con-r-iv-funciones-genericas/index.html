@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Desarrollo de paquetes con R (IV): funciones genéricas - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Desarrollo de paquetes con R (IV): funciones genéricas" />
+<meta property="og:description" content="La función plot es genérica. Uno puede aplicársela a un data.frame o a un objeto de la clase lm. Y en el fondo, plot sólo elige cuál de sus métodos, es decir, las funciones que realizan el trabajo verdaderamente, aplicar. Para ver cuáles son los métodos asociados a plot basta con ejecutar en R
+1  methods(plot)   La salida es autoexplicativa.
+Podemos hacer un pequeño experimento creando una función genérica, foo, bastante tonta:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2011/08/04/desarrollo-de-paquetes-con-r-iv-funciones-genericas/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-08-04T07:26:52&#43;00:00" />
+<meta property="article:modified_time" content="2011-08-04T07:26:52&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Desarrollo de paquetes con R (IV): funciones genéricas</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-08-04T07:26:52Z">2011-8-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>La función <code>plot</code> es genérica. Uno puede aplicársela a un <code>data.frame</code> o a un objeto de la clase <code>lm</code>. Y en el fondo, <code>plot</code> sólo elige cuál de sus <em>métodos</em>, es decir, las funciones que realizan el trabajo verdaderamente, aplicar. Para ver cuáles son los métodos asociados a <code>plot</code> basta con ejecutar en R</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">methods</span>(plot)</code></pre></td></tr></table>
+</div>
+</div>
+<p>La salida es autoexplicativa.</p>
+<p>Podemos hacer un pequeño experimento creando una función genérica, <code>foo</code>, bastante tonta:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">    foo <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( x ) <span style="color:#a6e22e">UseMethod</span>( <span style="color:#e6db74">&#34;foo&#34;</span>, x )
+    foo.data.frame <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( x ) <span style="color:#a6e22e">plot</span>( x )
+    foo.integer <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( x ) <span style="color:#a6e22e">sum</span>( x )
+    foo.default <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( x ) <span style="color:#a6e22e">print</span>( <span style="color:#e6db74">&#34;Bu!&#34;</span> )
+
+    <span style="color:#a6e22e">foo</span>( iris )
+    <span style="color:#a6e22e">foo</span>( <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#ae81ff">7</span> )
+    <span style="color:#a6e22e">foo</span>( <span style="color:#e6db74">&#34;hola&#34;</span> )</code></pre></td></tr></table>
+</div>
+</div>
+<p>También es posible crear nuevos métodos para funciones genéricas existentes. Por ejemplo,</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">plot.hola.hola <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( x ) <span style="color:#a6e22e">print</span>( <span style="color:#e6db74">&#34;caracola&#34;</span> )
+a <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">list</span>()
+<span style="color:#a6e22e">class</span>( a ) <span style="color:#f92672">&lt;-</span> <span style="color:#e6db74">&#34;hola.hola&#34;</span>
+<span style="color:#a6e22e">plot</span>( a )</code></pre></td></tr></table>
+</div>
+</div>
+<p>Así, el comportamiento de la función <code>foo</code> depende de la clase del objeto que se le pasa como argumento.</p>
+<p>Las cosas se vuelven mínimamente más complicadas cuando uno quiere:</p>
+<ul>
+<li>crear funciones genéricas en un paquete o</li>
+<li>crear métodos en un paquete para funciones genéricas externas (por ejemplo, plot).</li>
+</ul>
+<p>Un problema que tocaremos, tal vez, otro día, es el de crear un método para una función externa no genérica.</p>
+<p>Así las cosas, durante el desarrollo del paquete pxR vimos la conveniencia de poder convertir tanto <code>arrays</code> como <code>data.frames</code> en objetos <code>px</code> (que representan ficheros con formato PC-Axis). Podíamos definir funciones normales <code>as.px.array</code> y <code>as.px.data.frame</code>, por ejemplo. Pero eso supondría duplicar código. Las funciones genéricas proporcionan una solución elegante.</p>
+<p>En <code>pxR</code> definimos la función genérica <code>as.px</code> que pudiera aplicarse a varios tipos de datos. En su versión más simple, el procedimiento necesario se describe a continuación.</p>
+<p>En primer lugar, <strong>crear la función genérica</strong>. Por ejemplo,</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">as.px <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function </span>( x, <span style="color:#66d9ef">...</span> ){
+    <span style="color:#a6e22e">UseMethod</span>( <span style="color:#e6db74">&#34;as.px&#34;</span>, x )
+}</code></pre></td></tr></table>
+</div>
+</div>
+<p>Es fundamental que una función genérica tenga <code>...</code> como argumento: sus métodos pueden querer utilizar argumentos adicionales.</p>
+<p>Después se pueden <strong>crear los métodos necesarios</strong>. Por ejemplo, en nuestro caso, creamos <code>as.px.array</code>, cuya signatura (a fecha de hoy) es</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">as.px.array  <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function </span>(x, skeleton.px <span style="color:#f92672">=</span> <span style="color:#66d9ef">NULL</span>, list.keys <span style="color:#f92672">=</span> <span style="color:#66d9ef">NULL</span>  )</code></pre></td></tr></table>
+</div>
+</div>
+<p>que es una extensión de la de <code>as.px</code> (no lo sería si su primer argumento fuese <code>y</code>, por ejemplo).</p>
+<p>También hay que <strong>exportar todas las funciones</strong> anteriores usando el fichero <code>NAMESPACE </code>del paquete.</p>
+<p>El único punto delicado y que se desvía de la <em>norma</em> radica en los ficheros de ayuda. Yo suelo documentar las funciones genéricas y sus métodos en un mismo fichero. Así, el encabezamiento del fichero <code>.Rd</code> puede ser así:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">\name{as.px}
+\alias{as.px}
+\alias{as.px.array}</code></pre></td></tr></table>
+</div>
+</div>
+<p>Es decir, utilizando un <em>alias</em> para el método de manera que cuando alguien escriba</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#f92672">?</span>as.px</code></pre></td></tr></table>
+</div>
+</div>
+<p>o</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#f92672">?</span>as.px.array</code></pre></td></tr></table>
+</div>
+</div>
+<p>se muestre el fichero en cuestión. La sección <code>usage</code> quedaría así:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">\usage{
+<span style="color:#a6e22e">as.px</span>( x, <span style="color:#66d9ef">...</span> )
+\S3method{as.px}{array}( x, skeleton.px <span style="color:#f92672">=</span> <span style="color:#66d9ef">NULL</span>, list.keys <span style="color:#f92672">=</span> <span style="color:#66d9ef">NULL</span>, <span style="color:#66d9ef">...</span>  )
+}</code></pre></td></tr></table>
+</div>
+</div>
+<p>Hay que advertir el peculiar formato de la llamada al método en el que queda de manifiesto que desciende de la función genérica.</p>
+<p>¿Y qué si alguien quiere extender una función genérica de otro paquete? El procedimiento es el mismo, salvo que en el fichero <code>NAMESPACE</code>, al exportar la función hay que indicarlo de la manera siguiente:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">S3method</span>( plot, mi.clase )</code></pre></td></tr></table>
+</div>
+</div>
+<p>Esa línea de código permitiría extender la función plot a objetos de la clase <code>mi.clase</code>.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/paquetes/" rel="tag">paquetes</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/programaci%C3%B3n/" rel="tag">programación</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2011/08/03/clustering-iii-sobresimplificacion/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Clústering (III): sobresimplificación</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2011/08/05/svd-de-matrices-enormes-con-r/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">SVD de matrices enormes con R</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

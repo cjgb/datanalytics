@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>programación - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="programación" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/programaci%C3%B3n/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/programaci%C3%B3n/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">programación</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/09/30/una-guia-breve-concisa-para-crear-codigo-y-proyectos-reproducibles/" rel="bookmark">
+			Una guía (breve, concisa) para crear código (y proyectos) reproducibles
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-09-30T09:13:00Z">2020-9-30</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Está aquí y creo que no se le puede quitar ni poner una coma. Es particularmente oportuna porque trata todas esas cosas que nunca se enseñan y que la mucha gente, en el peor de los casos, malaprende.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/01/21/de-texto-a-funcion/" rel="bookmark">
+			De texto a función
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-01-21T17:46:00Z">2020-1-21</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Problema: convertir una expresión definida por un usuario (p.e., algo como &quot;a+b&quot;) en una función (i.e., function(a, b) a + b).
+Solución:
+gen_foo &lt;- function(expr){ my_args &lt;- all.vars(parse(text = expr)) expr &lt;- paste0(&quot;function(&quot;, paste(my_args, collapse = &quot;,&quot;), &quot;) &quot;, expr) eval(parse(text = expr)) }  Demostración:
+multiplica &lt;- gen_foo(&quot;a * b&quot;) multiplica(5, 31)  
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/02/20/todo-lo-que-deberias-saber-sobre-encodings/" rel="bookmark">
+			Todo lo que deberías saber sobre encodings
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-02-20T08:13:56Z">2019-2-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/nlp/" rel="category">nlp</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		¿Por qué (casi) nadie sabe sobre encodings? ¿Por qué (casi) nadie ha leído What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/02/14/modas-y-fotogenia-del-codigo-secuencial/" rel="bookmark">
+			Modas y fotogenia del código secuencial
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-02-14T08:13:14Z">2019-2-14</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Este tipo de programación se puso de moda en los noventa:
+Y yo decía: ¿dónde están mis bucles? ¿Y mis bifurcaciones?
+Este tipo de programación está de moda últimamente:
+&lt;code&gt;hourly_delay &lt;- flights %&gt;% filter(!is.na(dep_delay)) %&gt;% group_by(date, hour) %&gt;% summarise( delay = mean(dep_delay), n = n() ) %&gt;% filter(n &gt; 10)&lt;/code&gt;  Y todo bien, sí, pero sigo sin tener bucles o bifurcaciones.
+Tal vez no hagan falta. Al menos, para cosas de andar por casa.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2019/01/25/cerebros-hackeados/" rel="bookmark">
+			Cerebros &#34;hackeados&#34;
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-01-25T08:13:56Z">2019-1-25</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Tengo delante Los cerebros ‘hackeados’ votan de Harari, autor de cierta y reciente fama. Elabora sobre un argumento simple y manido: el cerebro funciona como un ordenador y los seres humanos somos no solo perfectamente predecibles sino también perfectamente manipulables. De lo que se derivan muchas funestas consecuencias en lo político y en lo social.
+El artículo me ha sido recomendado por dos personas cuyo criterio tengo en muy alta estima.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/02/28/documentar-como-el-culo-no-pensar-en-el-usuario-final-ser-incapaz-de-ponerte-en-su-situacion-etc/" rel="bookmark">
+			Documentar como el culo, no pensar en el usuario final, ser incapaz de ponerte en su situación, etc.
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-02-28T08:13:54Z">2018-2-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		De vez en cuando pruebo paquetes promisorios. No es infrecuente que cosas que he intentado hace años, algún ejemplo más o menos sencillo que he publicado aquí, acabe convirtiéndose en la piedra angular de algo facturable. Incluso de algo facturable por mí.
+geozoning podía haber sido uno de esos. La promesa del paquete es que puede ayudarte a segmentar regiones del espacio de acuerdo con alguna variable, una especie de clústering para información de tipo espacial.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/12/11/cuidado-con-los/" rel="bookmark">
+			Cuidado con los $
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-12-11T08:13:03Z">2017-12-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El otro tropezamos con el siguiente artefacto:
+a &lt;- list(aa = 12, bb = 14) is.null(a$a) #[1] FALSE a$a #[1] 12  No es un bug de R, por que la documentación reza:
+Y se pueden constrastar:
+a[[&quot;a&quot;, exact = FALSE]] a[[&quot;a&quot;, exact = TRUE]]  Comentarios:
+ * Odio muchísimo los _bugs_ que no son _bugs_ porque están documentados en el la nota ‡2.a.(c), párrafo §23.3 de la sección 14 de un manual oscuro.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/10/10/efectos-secundarios-nota-que-existan-no-significa-que-debas-usarlos/" rel="bookmark">
+			Efectos secundarios (nota: que existan no significa que debas usarlos)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-10-10T08:13:11Z">2017-10-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Una función no debería cambiar nada de cuanto la rodea. Debería devolver algo y ya. Se acepta barco como animal acuático cuando hay funciones que escriben en logs, guardan datos en disco o crean gráficos.
+R deja que los usuarios se disparen en el pie permitiendo hacer cosas tan peligrosas como:
+a &lt;- new.env() a$1 # error foo &lt;- function(){ a$a &lt;- 1 } foo() a$a # [1] 1  De la misma manera, si le enseñas un cuchillo a una vieja, es posible que te dé su bolso con todo lo que contiene.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/07/05/syberia-tiene-muy-buena-pinta-pero/" rel="bookmark">
+			Syberia tiene muy buena pinta [pero...]
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-07-05T08:13:54Z">2017-7-5</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Echadle un vistazo a Syberia (y me contáis qué tal os va). Tiene muy buena pinta y puede ser útil para produccionalizar código.
+[Esto es casi todo; lo que sigue es omitible.]
+Sin embargo y sin que necesariamente haga desmerecer a Syberia como tal, en la página arriba enlazada se lee:
+Nada tengo contra que R sea (o deje de ser) azúcar sintáctico. Si lo fuese sobre LISP, tanto mejor. Pero lenguajes de programación hay cientos mientras que statistical tools que merezcan el nombre, solo una [¿es correcto concordar con la traducción más natural de tools?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/05/15/diapositivas-sobre-mi-charla-acerca-del-stack-analitico/" rel="bookmark">
+			Diapositivas sobre mi charla acerca del &#34;stack analítico&#34;
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-05-15T08:13:43Z">2017-5-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/charlas/" rel="category">charlas</a>, <a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/consultor%C3%ADa/" rel="category">consultoría</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Tuve ocasión el pasado jueves, en Barcelona y gracias a la invitación de KSchool, de lo que llamo el stack analítico. Es decir, de aquellas herramientas tecnológicas necesarias para poder hacer ciencia de datos hoy en día.
+Las diapositivas de la charla están aquí.
+El tema es viejo pero no por ello menos urgente: existen herramientas (y, desgraciadamente, me he visto a incluir el saber leer documentación técnica en inglés) cuyo conocimiento es imperativo para poder trabajar de manera efectiva en ciencia de datos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/11/24/habiendo-monadas-quien-quiere-callbacks/" rel="bookmark">
+			Habiendo mónadas, ¿quién quiere callbacks?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-11-24T08:13:35Z">2016-11-24</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Nunca me he visto en la tesitura de tener que usar callbacks porque no son mi guerra. Pero por lo que he oído de la gente que sabe mucho más que yo, son uno de esos infiernos de los que hay que huir con el mismo pavor que de los fors, los ifs, los elses (¡argggg! ¡he escrito else!) y los whiles.
+Una pequeña maravilla teórica que me ha hecho replantearme la absoluta inutilidad de aquello que estudié en Álgebra III (funtores y demás) son las mónadas.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/10/03/una-jerarquia-de-analistas-de-datos-en-cuatro-escalafones/" rel="bookmark">
+			Una jerarquía de analistas de datos en cuatro escalafones
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-10-03T08:13:31Z">2016-10-3</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/consultor%C3%ADa/" rel="category">consultoría</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Es:
+ * **Nivel 1:** Realizan la mayor parte de su trabajo con herramientas ofimáticas (fundamentalmente Excel), aunque pueden utilizar puntualmente Eviews, Stata, R o Matlab. * **Nivel 2:** Los que realizan la mayor parte de su trabajo con R, Python, SAS o SQL pero cuyo sistema de control de versiones es el de ficheros con determinadas convenciones de nombres. * **Nivel 3:** Como el anterior, pero usando control de versiones, estilos de código, y revisión por pares (_peer review_).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/03/09/lenguajes-de-programacion-probabilisticos/" rel="bookmark">
+			Lenguajes de programación probabilísticos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-03-09T09:13:09Z">2016-3-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Son lenguajes de programación diseñados para describir odelos probabilísticos y realizar inferencias sobre dichos modelos.
+El resto de la entrada de la Wikipedia sobre este apasionante (y lo uso sin retintín) tema, aquí (y puede que también quieras visitar esto).
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<span class="pagination__item pagination__item--current">1/4</span>
+	<a class="pagination__item pagination__item--next btn" href="/tags/programaci%C3%B3n/page/2/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

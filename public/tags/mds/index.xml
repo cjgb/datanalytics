@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mds on datanalytics</title>
+    <link>/tags/mds/</link>
+    <description>Recent content in mds on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 24 Jan 2019 08:13:43 +0000</lastBuildDate><atom:link href="/tags/mds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NMDS y un poquito más allá</title>
+      <link>/2019/01/24/nmds-y-un-poquito-mas-alla/</link>
+      <pubDate>Thu, 24 Jan 2019 08:13:43 +0000</pubDate>
+      
+      <guid>/2019/01/24/nmds-y-un-poquito-mas-alla/</guid>
+      <description>Nunca he sido muy partidario de esas técnicas a medio camino entre lo descriptivo (con descripciones que apenas nadie entiende) y lo inferencial (con inferencias que pocos se creen). Entre ellas, MDS (multidimensional scaling). Pero este fin de semana y por exigencias del guión (¿se acentúa guión aún?) he tenido que replicar unos análisis en que se usaba NMDS a la [vegan](http:// https://CRAN.R-project.org/package=vegan).
+Seré breve y me limitaré a definir el problema, enlazar una referencia con código y una discusión mejor que la mía y a mostrar una de las representaciones que uno podría llegar a construir.</description>
+    </item>
+    
+  </channel>
+</rss>

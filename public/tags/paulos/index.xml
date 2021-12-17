@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paulos on datanalytics</title>
+    <link>/tags/paulos/</link>
+    <description>Recent content in paulos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 22 May 2017 08:13:39 +0000</lastBuildDate><atom:link href="/tags/paulos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentir números, sentir probabilidades</title>
+      <link>/2017/05/22/sentir-numeros-sentir-probabilidades/</link>
+      <pubDate>Mon, 22 May 2017 08:13:39 +0000</pubDate>
+      
+      <guid>/2017/05/22/sentir-numeros-sentir-probabilidades/</guid>
+      <description>En El hombre anúmerico J.A. Paulos discute el problema de la visualización (e italizo para indicar que ver no es el fin sino el medio para interiorizar y sentir) números, particularmente, grandes números. Sobre los no excesivamente grandes escribe, p.e.,
+Luego discute técnicas para sentir igualmente otras magnitudes mayores. The more personal you can make these collections, the better, insiste.
+¿Y con las probabilidades? Pensando al respecto, di con una feliz idea que tiene el concomitante aprovechamiento de encontrarle finalmente un buen uso al puto fúrgol (p.</description>
+    </item>
+    
+  </channel>
+</rss>

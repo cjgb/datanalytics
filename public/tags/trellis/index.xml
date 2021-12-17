@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trellis on datanalytics</title>
+    <link>/tags/trellis/</link>
+    <description>Recent content in trellis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 29 Nov 2013 06:58:02 +0000</lastBuildDate><atom:link href="/tags/trellis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Óscar Perpiñán sobre gráficos base vs. lattice vs ggplot2</title>
+      <link>/2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/</link>
+      <pubDate>Fri, 29 Nov 2013 06:58:02 +0000</pubDate>
+      
+      <guid>/2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/</guid>
+      <description>Óscar Perpiñán es alguien a quien tenéis que conocer necesariamente si os interesan, entre otras cosas, temas como la visualización de datos espaciotemporales. Y tiene un blog muy recomendable.
+Recientemente me ha dado permiso para reproducir aquí una respuesta suya en un hilo planteado en r-help-es sobre los distintos mecanismos existentes en R para generar gráficos. Lo hago a continuación con mínimos retoques tipográficos:
+La ventaja esencial de los gráficos grid (lattice y ggplot2) frente a los gráficos base es su mayor flexibilidad para añadir o modificar el contenido.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feather on datanalytics</title>
+    <link>/tags/feather/</link>
+    <description>Recent content in feather on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 19 Apr 2016 09:13:44 +0000</lastBuildDate><atom:link href="/tags/feather/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diapositivas de mi charla sobre feather</title>
+      <link>/2016/04/19/diapositivas-de-mi-charla-sobre-feather/</link>
+      <pubDate>Tue, 19 Apr 2016 09:13:44 +0000</pubDate>
+      
+      <guid>/2016/04/19/diapositivas-de-mi-charla-sobre-feather/</guid>
+      <description>Las diapositivas de mi charla Birds of the same feather&amp;hellip; en el grupo de usuarios de R de Madrid pueden verse/bajarse de aquí.</description>
+    </item>
+    
+    <item>
+      <title>Este jueves, Feather en la reunión de usuarios de R de Madrid</title>
+      <link>/2016/04/12/este-jueves-feather-en-la-reunion-de-usuarios-de-r-de-madrid/</link>
+      <pubDate>Tue, 12 Apr 2016 09:13:01 +0000</pubDate>
+      
+      <guid>/2016/04/12/este-jueves-feather-en-la-reunion-de-usuarios-de-r-de-madrid/</guid>
+      <description>Sí, hablaré de feather.
+Los detalles, aquí.</description>
+    </item>
+    
+    <item>
+      <title>rPython &#43; feather</title>
+      <link>/2016/04/06/rpython-feather/</link>
+      <pubDate>Wed, 06 Apr 2016 09:13:28 +0000</pubDate>
+      
+      <guid>/2016/04/06/rpython-feather/</guid>
+      <description>Supongo que a estas alturas todos conoceréis feather y rPython. Hoy los vais a ver trabajar juntos.
+Primero solo en R:
+library(feather) path &amp;lt;- &amp;quot;/tmp/my_data.feather&amp;quot; write_feather(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/datasets/cars&amp;quot;&amp;gt;cars, path) my_cars &amp;lt;- read_feather(path)  Ahora, para pasarle datos a Python:
+library(rPython) python.exec(&amp;quot;import feather&amp;quot;) python.exec(&amp;quot;a = feather.read_dataframe(&#39;/tmp/my_data.feather&#39;)&amp;quot;) python.exec(&amp;quot;print a&amp;quot;)  Y, finalmente, para crear datos grandes en Python y devolvéselos a R:
+python.exec(&amp;quot;import numpy as np&amp;quot;) python.exec(&amp;quot;import pandas as pd&amp;quot;) python.exec(&amp;quot;arr = np.random.randn(10000000)&amp;quot;) python.</description>
+    </item>
+    
+  </channel>
+</rss>

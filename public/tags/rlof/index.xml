@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rlof on datanalytics</title>
+    <link>/tags/rlof/</link>
+    <description>Recent content in Rlof on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 02 Jun 2016 08:13:19 +0000</lastBuildDate><atom:link href="/tags/rlof/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detección de &#34;outliers&#34; locales</title>
+      <link>/2016/06/02/deteccion-de-outliers-locales/</link>
+      <pubDate>Thu, 02 Jun 2016 08:13:19 +0000</pubDate>
+      
+      <guid>/2016/06/02/deteccion-de-outliers-locales/</guid>
+      <description>Aunque outlier local parezca oxímoron, es un concepto que tiene sentido.
+Un outlier es un punto dentro de un conjunto de datos tan alejado del resto que diríase generado por un mecanismo distinto que el resto. Por ejemplo, puedes tener las alturas de la gente y alguna observación que parece producto de otra cosa como, por ejemplo, errores mecanográficos en la transcripción. Un outlier está lejos del resto. Pero, ¿cuánto?</description>
+    </item>
+    
+  </channel>
+</rss>

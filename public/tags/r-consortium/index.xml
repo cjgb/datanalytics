@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r consortium on datanalytics</title>
+    <link>/tags/r-consortium/</link>
+    <description>Recent content in r consortium on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 01 Feb 2016 09:13:28 +0000</lastBuildDate><atom:link href="/tags/r-consortium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premoniciones de Tirole sobre sobre el R Consortium</title>
+      <link>/2016/02/01/premoniciones-de-tirole-sobre-sobre-el-r-consortium/</link>
+      <pubDate>Mon, 01 Feb 2016 09:13:28 +0000</pubDate>
+      
+      <guid>/2016/02/01/premoniciones-de-tirole-sobre-sobre-el-r-consortium/</guid>
+      <description>A J. Tirole tiene Nobel de economía. En 2002 escribió un artículo, Some Simple Economics of Open Source, en el que trataba de explicar desde un punto de vista económico y de organización industrial el porqué de esa rareza. Aparte de cuestiones como si sería extrapolable a otros sectores distintos del del desarrollo de software.
+En la sección sobre la reacción de las compañías de software frente al fenómeno del software libre tiene un apartado titulado viviendo simbióticamente de [no con] un proyecto de código abierto que termina con la frase (mi traducción):</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teradata on datanalytics</title>
+    <link>/tags/teradata/</link>
+    <description>Recent content in teradata on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 09 Dec 2011 06:50:57 +0000</lastBuildDate><atom:link href="/tags/teradata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bajo el capó de teradataR</title>
+      <link>/2011/12/09/bajo-el-capo-de-teradatar/</link>
+      <pubDate>Fri, 09 Dec 2011 06:50:57 +0000</pubDate>
+      
+      <guid>/2011/12/09/bajo-el-capo-de-teradatar/</guid>
+      <description>Me gustaría haber podido indagar bajo el capó de teradataR, el paquete de R desarrollado por Teradata que permite que R realice lo que llaman por ahí _in database analytics _utilizando dicha plataforma propietaria.
+Ya lo probé hace un tiempo con resultados bastante desiguales y que distaban muy mucho de mis expectativas originales, habida cuenta de las muchas bondades del gestor relacional. Durante mucho tiempo he tenido la intención de desentrañar los secretos del paquete, pero me contuvieron los términos desacostumbradamente restrictivos de la licencia:</description>
+    </item>
+    
+  </channel>
+</rss>

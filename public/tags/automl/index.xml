@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automl on datanalytics</title>
+    <link>/tags/automl/</link>
+    <description>Recent content in automl on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 05 Dec 2019 09:13:00 +0000</lastBuildDate><atom:link href="/tags/automl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ser científico de datos, ¿puede ser menos sexi de lo que te han contado?</title>
+      <link>/2019/12/05/ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado/</link>
+      <pubDate>Thu, 05 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/05/ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado/</guid>
+      <description>Puede que sí, pero no por las razones expuestas en Retina.
+[Nota: Perdón por meterme con Retina. Es tan de amateur como criticar los gráficos de Expansión o los argumentos económicos de un peronista.]
+En particular, argumenta Retina que esas máquinas a las que les echas unos datos y encuentran por sí solas el mejor modelo nos van a dejar sin trabajo.
+Otra vez.
+El autoML es como los crecepelos, las dietas milagrosas y los tipos que te cuentan que van a hacerse ricos con su algoritmo de inversión en bolsa: llevan toda la vida anunciándolos, logran cierta exposición mediática gracias a panfletos como Retina y nadie les dedica un mal obituario cuando mueren en el olvido (¿alguien recuerda a KXEN, por ejemplo?</description>
+    </item>
+    
+  </channel>
+</rss>

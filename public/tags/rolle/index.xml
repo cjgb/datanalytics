@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rolle on datanalytics</title>
+    <link>/tags/rolle/</link>
+    <description>Recent content in rolle on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 20 Apr 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/rolle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre ese corolario del teorema de Rolle que es la curva de Laffer</title>
+      <link>/2021/04/20/mas-sobre-ese-corolario-del-teorema-de-rolle-que-es-la-curva-de-laffer/</link>
+      <pubDate>Tue, 20 Apr 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/04/20/mas-sobre-ese-corolario-del-teorema-de-rolle-que-es-la-curva-de-laffer/</guid>
+      <description>Es fácil nunca dar con algo que no quieres encontrar: basta con buscarlo donde sabes que no está.
+Eso es perfectamente predicable de todos los ensayos de los que tengo noticia para demostrar empíricamente la inexistencia —¡eh!, ¿no habíamos quedado en que que la inexistencia de algo no es demostrable empíricamente?— de ese corolario del teorema de Rolle que se ha dado en llamar curva de Laffer.
+Hay que tener en cuenta que en una economía como la española —y más en estos tiempos—, casi el 100% de los agentes económicos operan muy por debajo de ese pico que postulan Laffer y Rolle.</description>
+    </item>
+    
+    <item>
+      <title>Un curioso corolario (políticoeconómico) del teorema de Rolle</title>
+      <link>/2015/07/21/un-curioso-corolario-politicoeconomico-del-teorema-de-rolle/</link>
+      <pubDate>Tue, 21 Jul 2015 08:13:25 +0000</pubDate>
+      
+      <guid>/2015/07/21/un-curioso-corolario-politicoeconomico-del-teorema-de-rolle/</guid>
+      <description>El teorema de Rolle, que está en el programa de cálculo o análisis matemático de primero de cualquier carrera, dice que una función real $latex f$, continua, derivable y tal que $latex f(a) = f(b)$ tiene o un máximo o un mínimo en el intervalo $latex [a,b]$. La Wikipedia lo ilustra con el siguiente gráfico:
+
+Supongo que no será muy díficil de probar este corolario suyo (y creo recordar que fue un ejercicio o problema de examen de aquella época mía de estudiante): una función real $latex f$, continua, derivable y tal que $latex f(a) = f(b)$ y $latex f^\prime(x) &amp;lt; 0$ en la proximidad de $latex b$ tiene un máximo absoluto en el intervalo $latex (a,b)$.</description>
+    </item>
+    
+  </channel>
+</rss>

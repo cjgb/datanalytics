@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frases on datanalytics</title>
+    <link>/tags/frases/</link>
+    <description>Recent content in frases on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 28 Jul 2015 08:13:04 +0000</lastBuildDate><atom:link href="/tags/frases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aterrizando en Londres: una frase para meditar</title>
+      <link>/2015/07/28/aterrizando-en-londres-una-frase-para-meditar/</link>
+      <pubDate>Tue, 28 Jul 2015 08:13:04 +0000</pubDate>
+      
+      <guid>/2015/07/28/aterrizando-en-londres-una-frase-para-meditar/</guid>
+      <description>Estaré aterrizando en Londres cuando se publique esta entrada. Circunstancia que me hace recordar una frase que leí hace un tiempo:
+ El empleo barato creado [en el RU] atrae a miles de parados del continente a un país con una legislación laboral flexible y sindicatos debilitados, que tolera abusos como los muy extendidos “contratos de cero horas”.
+ ¿Soy solo yo al que le chirría? ¿Por qué querrán miles de parados del continente tomar tal vez el mismo EasyJet que yo para tener que tolerar abusos?</description>
+    </item>
+    
+    <item>
+      <title>Miscelánea de citas</title>
+      <link>/2011/07/04/miscelanea-de-citas/</link>
+      <pubDate>Mon, 04 Jul 2011 07:39:42 +0000</pubDate>
+      
+      <guid>/2011/07/04/miscelanea-de-citas/</guid>
+      <description>Creo que tengo que pedirle escusas a Sam Savage por utilizar citas recopiladas por él para esta entrada mía de hoy. Me atrevo sólo porque espero que contribuya a difundir el conocimiento de su libro. Son:
+ Todos los modelos son erróneos, pero algunos son útiles.
+—George Box, estadístico
+  Mentir un poco está permitido, pero jamás engañar.
+—Paul Halmos, matemático
+  Un modelo exitoso te cuenta cosas que no le habías pedido que te contase.</description>
+    </item>
+    
+    <item>
+      <title>Una frase afortunada que merece ser enmarcada</title>
+      <link>/2011/01/06/una-frase-afortunada-que-merece-ser-enmarcada/</link>
+      <pubDate>Thu, 06 Jan 2011 09:58:49 +0000</pubDate>
+      
+      <guid>/2011/01/06/una-frase-afortunada-que-merece-ser-enmarcada/</guid>
+      <description>Si bien en mi entrada de hace un par de días critiqué aspectos manifiestamente perfectibles de un articulillo que he leído estos días, hay en él una frase estupenda. Una frase que merece ser emarcada. Una frase de la que, por evitar que se me traspapele y para solaz de mis lectores, voy a dejar aquí constancia. Es:
+ Knusel (2005) investigated tail probabilities of distributions using Excel 2003 and found that previously inaccurate algorithms in Excel have been replaced by new inaccurate algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>

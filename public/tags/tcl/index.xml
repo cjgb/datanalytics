@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tcl on datanalytics</title>
+    <link>/tags/tcl/</link>
+    <description>Recent content in tcl on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/tcl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La pregunta a la que el TCL es una muy particular (y mucho menos importante de lo que habitualmente se cree) respuesta</title>
+      <link>/2020/07/10/la-pregunta-a-la-que-el-tcl-es-una-muy-particular-y-mucho-menos-importante-de-lo-que-habitualmente-se-cree-respuesta/</link>
+      <pubDate>Fri, 10 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/10/la-pregunta-a-la-que-el-tcl-es-una-muy-particular-y-mucho-menos-importante-de-lo-que-habitualmente-se-cree-respuesta/</guid>
+      <description>El TCL (teorema central del límite) ayuda a responder una pregunta en algunos casos concretos. Pero a veces se nos olvida que lo importante es la pregunta y sus muchas otras potenciales respuestas.
+La pregunta es: ¿qué distribución, si alguna, es razonable suponer que puedan tener mis datos? El TCL permite responder ¡normal! en algunos casos singulares que fueron más importantes hace tiempo que hoy en día.
+Pero llama la atención la importancia (medida, si se quiere, en número de páginas dedicadas a ello en los textos introductorios a la teoría de la probabilidad y la estadística) que se le otorga a esa particularísima respuesta y a su justificación y el poco al de tratar de proporcionar herramientas para tratar de dar una respuesta más o menos coherente a la pregunta general.</description>
+    </item>
+    
+  </channel>
+</rss>

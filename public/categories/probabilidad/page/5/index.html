@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>probabilidad - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="probabilidad" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/categories/probabilidad/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/categories/probabilidad/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">probabilidad</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/09/16/hamilton-al-rescate-de-metropolis-hastings/" rel="bookmark">
+			Hamilton al rescate de Metropolis-Hastings
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-09-16T08:13:12Z">2016-9-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El algoritmo de Metropolis-Hastings se usa para muestrear una variable aleatoria con función de densidad $latex p$. Permite crear una sucesión de puntos $latex x_i$ que se distribuye según $latex p$.
+Funciona de al siguiente manera: a partir de un punto $latex x_i$ se buscan candidatos a $latex x_{i+1}$ de la forma $latex x_i + \epsilon$, donde $latex \epsilon$ es, muy habitualmente, $latex N(0, \delta)$ y $latex \delta$ es pequeño. De otra manera, puntos próximos a $latex x_i$.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/06/15/distribuciones-sin-media-que-pueden-suponer-en-la-practica/" rel="bookmark">
+			Distribuciones sin media: ¿qué pueden suponer en la práctica?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-06-15T08:13:53Z">2016-6-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Aunque esta entrada es sin duda resabida de los más de mis lectores, quedarán los que aún no sepan que ciertas distribuciones no tienen media. Condición necesaria para que una distribución la tenga es que
+$latex \int_{-\infty}^\infty |x| f(x) dx$
+tenga un valor finito, cosa que, por ejemplo, no cumple la de Cauchy. Igual hay a quien esto le parece una rareza matemática, un entretenimiento de math kiddies sin implicaciones prácticas.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/" rel="bookmark">
+			El extraño caso de la media empírica menguante
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-05-31T08:13:28Z">2016-5-31</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		La distribución lognormal es la exponencial de una distribución normal. Su media, Wikipedia dixit, es $latex \exp(\mu + \sigma^2 /2)$.
+Dada una muestra de la distribución lognormal (y supuesto, por simplificar, $latex \mu=0$), podemos calcular
+ * su media y * una estimación de su $latex \sigma$ y calcular $latex \exp(\sigma^2 /2)$  y uno pensaría que los valores deberían ser similares. Mas pero sin embargo,
+library(ggplot2) &lt;a href=&quot;http://inside-r.org/r-doc/base/set.seed&quot;&gt;set.seed(123) sigmas &lt;- seq(1, 10, by = 0.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/03/30/funciones-de-densidad-log-concavas/" rel="bookmark">
+			Funciones de densidad log-cóncavas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-03-30T09:13:25Z">2016-3-30</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Las funciones de densidad log-cóncavas son aquellas cuyo logaritmo es una función cóncava. Por ejemplo, la normal: el logaritmo de su función de densidad es, constantes aparte, $latex -x^2/2$.
+El producto de dos funciones de densidad log-cóncavas es log-cóncava: $latex \log(fg) = \log f + \log g$ (y la suma de cóncavas es cóncava: calcula la segunda derivada). También lo son la suma de dos variables aleatorias cuyas funciones de densidad lo son (la demostración es consecuencia de esta desigualdad).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/03/28/un-teorema-de-muestreo-que-no-se-si-existe/" rel="bookmark">
+			Un ejemplo de &#34;importance sampling&#34; (que no sé cómo traducir)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-03-28T09:13:26Z">2016-3-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Imaginemos que queremos muestrear una variable aleatoria cuya función de densidad es (proporcional a) el producto de otras dos (no necesariamente propias). Por ejemplo, la gamma, cuya función de densidad es $latex K x^{k-1} \exp(-\lambda x)$, el producto de una exponencial y una distribución impropia con densidad $latex x^{k-1}$.
+Supongamos que no sabemos hacer
+&lt;a href=&quot;http://inside-r.org/r-doc/base/set.seed&quot;&gt;set.seed(1234) shape &lt;- 3 rate &lt;- 3 m0 &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/rgamma&quot;&gt;rgamma(1000, shape = shape, rate = rate)  Pero supongamos que sí que sabemos muestrear la distribución exponencial, lo que permite escribir:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/03/09/lenguajes-de-programacion-probabilisticos/" rel="bookmark">
+			Lenguajes de programación probabilísticos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-03-09T09:13:09Z">2016-3-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Son lenguajes de programación diseñados para describir odelos probabilísticos y realizar inferencias sobre dichos modelos.
+El resto de la entrada de la Wikipedia sobre este apasionante (y lo uso sin retintín) tema, aquí (y puede que también quieras visitar esto).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/02/17/evidencialidad/" rel="bookmark">
+			Evidencialidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-02-17T09:13:44Z">2016-2-17</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Por afición y, últimamente, por motivos laborales también, me ha preocupado cómo se refleja la incertidumbre en el lenguaje y cómo este sirve para transmitir aquella (véase, por ejemplo, esto).
+En el español tenemos algunos recursos para manifestar grados de certidumbre (el condicional, el subjuntivo, etc.). Véanse por ejemplo (esta es la referencia) a los 570 sufridos hablantes del tuyuca que no pueden decir simplemente &ldquo;él jugaba al fútbol&rdquo;, sino que tienen que elegir obligatoriamente entre los diferentes sufijos verbales que (además de indicar la persona y el tiempo) indican el modo por el cual el hablante obtuvo el conocimiento que afirma en el enunciado:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/01/19/el-problema-de-las-tres-croquetas-o-del-cunao-no-envenenao/" rel="bookmark">
+			El problema de las tres croquetas (o del cuñao [no] envenenao)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-01-19T08:13:33Z">2016-1-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Estás comiendo donde tu suegra y te muestra un plato con tres croquetas. Tus espías en la cocina te han informado de que una de ellas contiene dosis letales de estricnina. Eliges una y no te la comes todavía porque ves pasar a tu cuñao, que no sabe nada de lo que pasa, y le invitas a coger una de las dos croquetas restantes. Él toma una, se la come y no se muere.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/01/18/el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada/" rel="bookmark">
+			El problema de los tanques alemanes y de la máxima verosimilitud esquinada
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-01-18T08:13:11Z">2016-1-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El problema en cuestión, que se ve, surgió durante la II Guerra Mundial, es el siguiente: se capturan tanques del enemigo y se anotan los números de serie, supuestos sucesivos. ¿Cuál es la mejor estimación del número total de tanques fabricados por el enemigo?
+Si se capturan k, la distribución del máximo número observado, m, en función del número no observado (nuestro parámetro) de tanques es
+$latex f(N;m,k)=\frac{\binom{m-1}{k-1}}{\binom{N}{k}}$
+y como esta función es decreciente en $latex N$, la estimación por máxima verosimilitud es $latex \hat{N} = m$.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/12/15/por-que-dicen-exponencial-cuando-quieren-decir/" rel="bookmark">
+			¿Por qué dicen &#34;exponencial&#34; cuando quieren decir...?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-12-15T08:13:31Z">2015-12-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hoy, al mostrar
+
+he dicho exponencial. Pero me he corregido rápido y he advertido a mis alumnos:
+ 1. La gente dice _exponencial_ cuando, en realidad, a lo sumo, quiere decir convexa. ¡Cuidado con los que toman el nombre de esa función en vano! 2. Aunque la evolución parezca _exponencial_, en realidad, sabemos que no lo es. Trata de la evolución en capacidad de los discos duros y sabemos que hay límites físicos concretos.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/" rel="bookmark">
+			La falacia del fiscal (pero con frecuencias naturales)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-10-21T08:13:28Z">2015-10-21</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		No sé si alguien conoce la historia de Sally Clark. Fue condenada por el asesinato de sus dos hijos. Ambos padecieron, según ella, el síndrome de la muerte súbita del lactante. La probabilidad, sin embargo, de que sus dos hijos lo padecieran (supuesto que son eventos independientes, i.e., que no hay, por ejemplo, factores genéticos comunes) era muy baja: una de 73 millones. Por eso la enchironaron.
+Pero, ¿qué es 1 / 73e6?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/10/19/la-paradoja-de-berkson/" rel="bookmark">
+			La paradoja de Berkson
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-10-19T08:13:09Z">2015-10-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Queremos calentar unas empanadas en el horno y, ¡oh desgracia!, no funciona. Pueden pasar dos cosas (independientes entre sí):
+ * El horno está estropeado ($latex A$) * El horno está desenchufado ($latex B$)  Hemos observado el evento $latex A \cup B$ y nos preocupa mucho $latex P(A | A \cup B)$, es decir, que tengamos que llamar al técnico y comernos frías las empanadas a la vista de que el horno no responde.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/09/23/como-contar-el-numero-de-elementos-distintos-de-una-lista/" rel="bookmark">
+			¿Cómo contar el número de elementos distintos de una lista?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-09-23T08:13:47Z">2015-9-23</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El problema es sencillo: se cuentan y ya.
+Pero hay quienes tienen cantidades ingentes de elementos que contar. Tantos que por razones de memoria, etc., es inviable hacer lo obvio, es decir, guardar una lista de claves (elementos distintos) y valores (el número de ocurrencias) sumando uno a los últimos cada vez que ocurra una de las primeras.
+Por ese motivo, existen algoritmos que aproximan el número de elementos distintos de una lista.
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/categories/probabilidad/page/4/">«</a>
+	<span class="pagination__item pagination__item--current">5/10</span>
+	<a class="pagination__item pagination__item--next btn" href="/categories/probabilidad/page/6/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

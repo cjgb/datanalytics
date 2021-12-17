@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mediana on datanalytics</title>
+    <link>/tags/mediana/</link>
+    <description>Recent content in mediana on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 19 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/mediana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El &#34;nowcast&#34; de MOMO, por qué sobreestima en el año del coronavirus y qué pasará en los siguientes si no se remedia</title>
+      <link>/2020/10/19/el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia/</link>
+      <pubDate>Mon, 19 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/19/el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia/</guid>
+      <description>Hablo de MOMO de nuevo. Esta vez por culpa de la sobreestimación de las defunciones esperadas:
+https://twitter.com/buceadorestadi3/status/1317061603905490944
+¿Cómo estima MOMO las defunciones esperadas? Lo voy a explicar en tres pasos que se afinan secuencialmente.
+Paso 1: Imaginemos que queremos realizar lo que algunos llaman el nowcast correspondiente al día de hoy, 18 de octubre de 2020 para alguna de las series que monitoriza MOMO. Podría tomar la mediana de los días 18 de octubre de los años 2019, 2018,&amp;hellip; hasta, no sé, 2014.</description>
+    </item>
+    
+    <item>
+      <title>La media, medidas de centralidad y distancias</title>
+      <link>/2015/07/23/la-media-medidas-de-centralidad-y-distancias/</link>
+      <pubDate>Thu, 23 Jul 2015 08:13:31 +0000</pubDate>
+      
+      <guid>/2015/07/23/la-media-medidas-de-centralidad-y-distancias/</guid>
+      <description>El problema de hoy viene sugerido por la manera de encontrar un valor central &amp;ndash;una medida de centralidad&amp;ndash; en una serie de números $latex x_1,\dots, x_n$. A uno se le viene a la mente la media de dichos puntos, por supuesto. Pero la media no es sino el valor $latex \theta$ que minimiza
+$latex \sum_i (x_i - \theta)^2.$
+En lugar de minimizar la distancia al cuadrado entre ese punto central y los de la serie, podríamos usar otras funciones.</description>
+    </item>
+    
+    <item>
+      <title>Medianas ponderadas en R</title>
+      <link>/2013/08/05/medianas-ponderadas/</link>
+      <pubDate>Mon, 05 Aug 2013 07:57:34 +0000</pubDate>
+      
+      <guid>/2013/08/05/medianas-ponderadas/</guid>
+      <description>La mediana de 1:3 es 2. Pero puede ser que queramos dar a 1:3 los pesos 2, 1, 2. En ese caso, el cálculo de la mediana sigue siendo sencillo (y sigue siendo 2). Pero la situación puede complicarse más.
+Mientras los pesos sean enteros, todavía pueden usarse trucos:
+x &amp;lt;- 1:3 pesos &amp;lt;- c(2,1,2) median(rep(x, times = pesos ))  ¿Pero qué hacemos cuando hay pesos fraccionarios? Bueno, en realidad, podemos ordenar:</description>
+    </item>
+    
+    <item>
+      <title>La media, la mediana y el Bundesbank</title>
+      <link>/2013/05/14/la-media-la-mediana-y-el-bundesbank/</link>
+      <pubDate>Tue, 14 May 2013 07:29:52 +0000</pubDate>
+      
+      <guid>/2013/05/14/la-media-la-mediana-y-el-bundesbank/</guid>
+      <description>El Banco Central Europeo publicó un estudio sobre la riqueza de los hogares europeos en abril de 2013. A partir de él, el Bundesbank publicó otro informe que subrayaba las diferencias en riqueza entre los hogares alemanes y, supongo que entre otros, los españoles.
+El informe de BCE recogía la media y la mediana del patrimonio de los hogares por países (junto con otras variables adicionales, como la renta, el nivel de endeudamiento, etc.</description>
+    </item>
+    
+    <item>
+      <title>La media y el riesgo (de nuevo)</title>
+      <link>/2012/07/30/la-media-y-el-riesgo-de-nuevo/</link>
+      <pubDate>Mon, 30 Jul 2012 07:13:14 +0000</pubDate>
+      
+      <guid>/2012/07/30/la-media-y-el-riesgo-de-nuevo/</guid>
+      <description>Hoy me han preguntado una cosa algo rara. Era alguien del departamento de riesgos de una conocida entidad financiera que quería saber cómo calcular (con SAS) la media del LTV. El LTV, aunque tiene otras acepciones, significa en este contexto loan to value, el cociente entre el valor de un préstamo y valor del colateral que lo respalda.
+(Este LTV tiene que ver con el famoso le financiamos el 80% del valor de la inversión de otras épocas.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la media y la mediana</title>
+      <link>/2010/05/25/sobre-la-media-y-la-mediana/</link>
+      <pubDate>Tue, 25 May 2010 19:37:59 +0000</pubDate>
+      
+      <guid>/2010/05/25/sobre-la-media-y-la-mediana/</guid>
+      <description>Esta entrada viene a cuento de una discusión en un grupo de Linkedin. Alguien preguntó literalmente:
+ Mean as an estimator of parameter in case of non-normal/skewed distribution? My question is a bit tricky :) What could be the arguments for mean (simple no-weighted average) when the parameter distribution is non-normal?
+ Supongo que mis lectores habrán advertido que la pregunta está mal formulada. Alguien la reescribió en términos más precisos (aunque distintos) de la siguiente manera:</description>
+    </item>
+    
+  </channel>
+</rss>

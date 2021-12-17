@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>correlación on datanalytics</title>
+    <link>/tags/correlaci%C3%B3n/</link>
+    <description>Recent content in correlación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 11 Jul 2021 15:17:30 +0000</lastBuildDate><atom:link href="/tags/correlaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo vídeo en YouTube. Segunda entrega sobre causalidad (y, esta vez, datos observacionales)</title>
+      <link>/2021/07/11/nuevo-video-en-youtube-segunda-entrega-sobre-causalidad-y-esta-vez-datos-observacionales/</link>
+      <pubDate>Sun, 11 Jul 2021 15:17:30 +0000</pubDate>
+      
+      <guid>/2021/07/11/nuevo-video-en-youtube-segunda-entrega-sobre-causalidad-y-esta-vez-datos-observacionales/</guid>
+      <description>El vídeo es
+https://youtu.be/vN3yTK40_-w
+y abunda sobre el archiconocido correlación no implica causalidad. El artículo de Chris Anderson que se menciona es_ The End of Theory_.</description>
+    </item>
+    
+    <item>
+      <title>La multivarianza total de la distancia no implica causalidad</title>
+      <link>/2019/08/29/la-multivarianza-total-de-la-distancia-no-implica-causalidad/</link>
+      <pubDate>Thu, 29 Aug 2019 09:13:30 +0000</pubDate>
+      
+      <guid>/2019/08/29/la-multivarianza-total-de-la-distancia-no-implica-causalidad/</guid>
+      <description>Quería ser el primero en escribirlo. Para la posteridad.
+Tenemos la correlación/covarianza, con todos sus usos y abusos.
+En el 2011 se habló un tiempo de esto. Luego nunca más se supo.
+La de Hellinger tiene un añito y un paquete en CRAN, menos trabajo de relaciones públicas y, no obstante, el mismo éxito que la anterior.
+Y este año se añade a la lista la multivarianza de la distancia que, bueno, ¿qué queréis que os diga que no sea trivialmente extrapolable de lo anterior?</description>
+    </item>
+    
+    <item>
+      <title>Colinealidad y posterioris</title>
+      <link>/2018/11/16/colinealidad-y-posterioris/</link>
+      <pubDate>Fri, 16 Nov 2018 08:13:33 +0000</pubDate>
+      
+      <guid>/2018/11/16/colinealidad-y-posterioris/</guid>
+      <description>En esta entrada voy a crear un conjunto de datos donde dos variables tienen una correlación muy alta, ajustar un modelo de regresión y obtener la siguiente representación de la distribución a posteriori de los coeficientes,
+donde se aprecia el efecto de la correlación entre x1 y x2.
+El código,
+library(mvtnorm) library(rstan) library(psych) n &amp;lt;- 100 corr_coef &amp;lt;- .9 x &amp;lt;- rmvnorm(n, c(0, 0), sigma = matrix(c(1, corr_coef, corr_coef, 1), 2, 2)) plot(x) x1 &amp;lt;- x[,1] x2 &amp;lt;- x[,2] x3 &amp;lt;- runif(n) - 0.</description>
+    </item>
+    
+    <item>
+      <title>Goodhart, Lucas y todas esas cosas</title>
+      <link>/2018/11/12/goodhart-lucas-y-todas-esas-cosas/</link>
+      <pubDate>Mon, 12 Nov 2018 08:13:30 +0000</pubDate>
+      
+      <guid>/2018/11/12/goodhart-lucas-y-todas-esas-cosas/</guid>
+      <description>Como me da vergüenza que una búsqueda de Goodhart en mi blog no dé resultados, allá voy. Lo de Goodhart, independientemente de lo que os hayan contado, tiene que ver con
+es decir, un gráfico causal hiperbásico. Si la variable de interés y es difícil de medir, resulta tentador prestar atención a la variable observable x y usarla como proxy. Todo bien.
+Pero también puede interesar operar sobre y y a cierta gente le puede sobrevenir la ocurrencia de operar sobre x con la esperanza de que eso influya sobre y.</description>
+    </item>
+    
+    <item>
+      <title>Lo buscaba y aquí está</title>
+      <link>/2018/09/03/lo-buscaba-y-aqui-esta/</link>
+      <pubDate>Mon, 03 Sep 2018 08:13:20 +0000</pubDate>
+      
+      <guid>/2018/09/03/lo-buscaba-y-aqui-esta/</guid>
+      <description>Lo buscaba (véase el último párrafo) y aquí está:</description>
+    </item>
+    
+    <item>
+      <title>Como no podemos medir X, usamos Y; pero luego, en las conclusiones, no criticamos Y sino X</title>
+      <link>/2018/07/26/como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x/</link>
+      <pubDate>Thu, 26 Jul 2018 08:13:39 +0000</pubDate>
+      
+      <guid>/2018/07/26/como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x/</guid>
+      <description>Ayer estuve leyendo un artículo (arg, y perdí la referencia; pero da igual para la discusión, porque es genérica) en el que trataba de atribuir diferencias de mortalidad a diversas causas: diabetes, tabaco, alcohol,&amp;hellip; y SES (estado socioeconómico).
+El gran resultado más reseñable (por los autores) era que un SES bajo implicaba nosecuántos años menos de vida, incluso descontando el efecto del resto de los factores (y no recuerdo si estudiaban las correlaciones entre ellos, etc.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué más se supo de la correlación del s. XXI?</title>
+      <link>/2018/03/27/que-mas-se-supo-de-la-correlacion-del-s-xxi/</link>
+      <pubDate>Tue, 27 Mar 2018 08:13:35 +0000</pubDate>
+      
+      <guid>/2018/03/27/que-mas-se-supo-de-la-correlacion-del-s-xxi/</guid>
+      <description>No os acordáis porque pasó en 2011. Yo tampoco me acordaba hasta que me volvió a la cabeza no sé bien por qué motivo. Pero durante un par de semanas hubo revuelo porque unos tipos habían descubierto una medida de correlación mucho mejor que la correlación, etc. Creo que hasta salió publicado en prensa. Yo escribí al respecto, claro está.
+Ocho años después, nada. Y lo mismo, supongo, con tantas, tantas y tantas cosas.</description>
+    </item>
+    
+    <item>
+      <title>Las correlaciones positivas, ¿son transitivas?</title>
+      <link>/2018/01/16/las-correlaciones-positivas-son-transitivas/</link>
+      <pubDate>Tue, 16 Jan 2018 08:13:02 +0000</pubDate>
+      
+      <guid>/2018/01/16/las-correlaciones-positivas-son-transitivas/</guid>
+      <description>No. Por ejemplo,
+set.seed(155) n &amp;lt;- 1000 x &amp;lt;- rnorm(n) y &amp;lt;- x + rnorm(n) z &amp;lt;- y - 1.5 * x m &amp;lt;- cbind(x, y, z) print(cor(m), digits = 2) # x y z #x 1.00 0.72 -0.41 #y 0.72 1.00 0.34 #z -0.41 0.34 1.00  La correlación de x con y es positiva; también la de y con z. Pero x y z guardan correlación negativa.
+Nota: sacado de aquí.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre correlaciones espurias y más sobre correlación y causalidad</title>
+      <link>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</link>
+      <pubDate>Mon, 27 Nov 2017 08:13:17 +0000</pubDate>
+      
+      <guid>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</guid>
+      <description>Hoy toca esto:
+Se trata de una invitación para leer el artículo Los picos de contaminación coinciden con un aumento radical en los ingresos hospitalarios, un cúmulo de desafueros epilogados por el ya habitual
+En primer lugar y antes de nada, me es obligado felicitar a los dos autores del estudio: desde el sector privado, sin ningún tipo de subvención pública y con coste cero para el contribuyente, han llegado a la misma conclusión que un señor, este, que, aparte de omitir la coletilla anterior en sus artículos, nos cuesta a todos un chorro de euros cada mes.</description>
+    </item>
+    
+    <item>
+      <title>Vivir del ruido</title>
+      <link>/2017/10/03/vivir-del-ruido/</link>
+      <pubDate>Tue, 03 Oct 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/10/03/vivir-del-ruido/</guid>
+      <description>1. Tienes acceso a la serie histórica de hospitalizaciones (p.e. en Madrid) por diversas (muchas) causas. 2. Tienes acceso a la serie histórica de mediciones de distintos factores ambientales (p.e., en Madrid): ruido, óxidos de nitrógeno, partículas en suspensión,... 3. Buscas correlaciones (y, por supuesto, las encuentras). 4. Les asocias [p-valore espurios](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/). 5. Lo escribes en inglés (frecuentemente) y publicas: * _Effect of Environmental Factors on Low Weight in Non-Premature Births: A Time Series Analysis_ * _Effects of noise on telephone calls to the Madrid Regional Medical Emergency Service (SUMMA 112)_ * _Short-term association between environmental factors and hospital admissions due to Dementia in Madrid_ * Impacto de la contaminación asociada al tráfico y la temperatura sobre variables adversas al nacimiento en Madrid.</description>
+    </item>
+    
+    <item>
+      <title>Triste vida</title>
+      <link>/2017/09/14/triste-vida/</link>
+      <pubDate>Thu, 14 Sep 2017 08:13:38 +0000</pubDate>
+      
+      <guid>/2017/09/14/triste-vida/</guid>
+      <description> * Recorrer multitud de [senderos que se bifurcan](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/). * Maximizar la correlación. * Alegar causalidad. * Facturar. * Iterar.  </description>
+    </item>
+    
+    <item>
+      <title>qgraph para representar grafos que son correlaciones que son vinos</title>
+      <link>/2017/03/15/qgraph-para-representar-grafos-que-son-correlaciones-que-son-vinos/</link>
+      <pubDate>Wed, 15 Mar 2017 08:13:37 +0000</pubDate>
+      
+      <guid>/2017/03/15/qgraph-para-representar-grafos-que-son-correlaciones-que-son-vinos/</guid>
+      <description>Me vais a permitir que escriba una entrada sin mayores pretensiones, inspirada en y adaptada de aquí y que sirva solo de que para representar correlaciones entre variables podemos recurrir a los grafos como en
+library(qgraph) wine.quality &amp;lt;- read.csv(&amp;quot;https://goo.gl/0Fz1S8&amp;quot;, sep = &amp;quot;;&amp;quot;) qgraph(cor(wine.quality), shape= &amp;quot;circle&amp;quot;, posCol = &amp;quot;darkgreen&amp;quot;, negCol= &amp;quot;darkred&amp;quot;, layout = &amp;quot;groups&amp;quot;, vsize=13)  que pinta
+mostrando resumidamente cómo se relacionan entre sí determinadas características de los vinos y cómo en última instancia influyen en su calidad (qlt).</description>
+    </item>
+    
+    <item>
+      <title>El cincuenta en raya (y el tres en raya)</title>
+      <link>/2016/04/21/el-cincuenta-en-raya-y-el-tres-en-raya/</link>
+      <pubDate>Thu, 21 Apr 2016 08:13:21 +0000</pubDate>
+      
+      <guid>/2016/04/21/el-cincuenta-en-raya-y-el-tres-en-raya/</guid>
+      <description>Supongo que todos conocéis el tres en raya. El cincuenta en (casi) raya, sin embargo, es esto:
+Hay dos variables, (pluviosidad y ratio hombres/mujeres) y los cincuenta punticos casi en raya corresponden a los estados de EE.UU.
+¿Asombrosa correlación? No tanto.
+Aquí se discute cómo, en realidad, por su cercanía sociocultural y climática cada uno de los estados del gráfico son manifestaciones de tres grupos de ellos que, estos sí, esta?</description>
+    </item>
+    
+    <item>
+      <title>La respuesta es: &#34;Yo no&#34;</title>
+      <link>/2015/12/18/la-respuesta-es-yo-no/</link>
+      <pubDate>Fri, 18 Dec 2015 08:13:13 +0000</pubDate>
+      
+      <guid>/2015/12/18/la-respuesta-es-yo-no/</guid>
+      <description>La pregunta, a propósito, es esta.</description>
+    </item>
+    
+    <item>
+      <title>Correlaciones insospechadas: de la geometría moderna al catalán Hernán Cortés</title>
+      <link>/2015/09/11/correlaciones-insospechadas-de-la-geometria-moderna-al-catalan-hernan-cortes/</link>
+      <pubDate>Fri, 11 Sep 2015 09:50:46 +0000</pubDate>
+      
+      <guid>/2015/09/11/correlaciones-insospechadas-de-la-geometria-moderna-al-catalan-hernan-cortes/</guid>
+      <description>Hace muchos, muchos años, era yo un fan de la Geometría Moderna de Dubrovin, Fomenko y Novikov.
+
+Fomenko, además de matemático de talento, es un chalado. Su chaladura se llama Nueva Cronología, una seudoteoría según la cual la historia de la humanidad es mucho más breve de lo que recoge la historia oficial y que las historias que conocemos de tiempos muy remotos (p.e., hace 2000 años) no son sino reformulaciones deformadas de historias mucho más recientes.</description>
+    </item>
+    
+    <item>
+      <title>Una sociedad para la eliminación del coeficiente de correlación</title>
+      <link>/2015/07/29/una-sociedad-para-la-eliminacion-del-coeficiente-de-correlacion/</link>
+      <pubDate>Wed, 29 Jul 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/07/29/una-sociedad-para-la-eliminacion-del-coeficiente-de-correlacion/</guid>
+      <description>Este artículo comienza así:
+¿De verdad que no os intriga el resto?</description>
+    </item>
+    
+    <item>
+      <title>La correlación ni siquiera implica &#34;correlación&#34;</title>
+      <link>/2014/12/08/la-correlacion-ni-siquiera-implica-correlacion/</link>
+      <pubDate>Mon, 08 Dec 2014 07:13:12 +0000</pubDate>
+      
+      <guid>/2014/12/08/la-correlacion-ni-siquiera-implica-correlacion/</guid>
+      <description>Esto es, según Andrew Gelman, la correlación entre dos variables en una muestra ni siquiera implica su &amp;ldquo;correlación&amp;rdquo; (entre comillas, por distinguirlas) en la población de interés.
+El enlace anterior también discute otras variantes del archiconocido &amp;ldquo;la correlación no implica causalidad&amp;rdquo;, tales como
+ * la causalidad está correlacionada con la correlación, * la falta de correlación está correlacionada con la falta de causalidad, * etc.  que, si yo fuera tú, me apresuraría a consultar en el enlace anterior.</description>
+    </item>
+    
+    <item>
+      <title>10.000 correlaciones por segundo (sin comentarios)</title>
+      <link>/2014/02/04/10-000-correlaciones-por-segundo-sin-comentarios/</link>
+      <pubDate>Tue, 04 Feb 2014 08:03:18 +0000</pubDate>
+      
+      <guid>/2014/02/04/10-000-correlaciones-por-segundo-sin-comentarios/</guid>
+      <description>Fijaros con lo que he tropezado:
+
+¿Cómo funciona el invento? ¡Es capaz de calcular 10.000 correlaciones por segundo!
+
+Estos servicios pueden contratarse aquí. Me abstengo de realizar comentarios.</description>
+    </item>
+    
+    <item>
+      <title>¿La correlación &#34;del siglo XXI&#34;?</title>
+      <link>/2011/12/19/la-correlacion-del-siglo-xxi/</link>
+      <pubDate>Mon, 19 Dec 2011 06:58:54 +0000</pubDate>
+      
+      <guid>/2011/12/19/la-correlacion-del-siglo-xxi/</guid>
+      <description>Bajo el título Detecting Novel Associations in Large Data Sets se ha publicado recientemente en Science un coeficiente alternativo a la correlación de toda la vida para cuantificar la relación funcional entre dos variables.
+El artículo (que no he podido leer: si alguien me pudiera pasar el pdf&amp;hellip;) ha tenido cierto impacto, al menos momentáneo, en la red. Puede leerse un resumen en esta entrada u otro bastante más cauto en la de A.</description>
+    </item>
+    
+    <item>
+      <title>Causalidad o asociación: indicios de la primera</title>
+      <link>/2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/</link>
+      <pubDate>Wed, 20 Apr 2011 07:44:02 +0000</pubDate>
+      
+      <guid>/2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/</guid>
+      <description>Distinguir adecuadamente causalidad de asociación es un tema sobre el que se han vertido ríos de tinta. Parte de la formación de un estadístico consiste en reconfigurar su arquitectura neuronal de manera que sienta infinito recelo ante proclamas de causalidad de una manera tan instintiva como la del perro de Paulov.
+Esta cautela es sin duda necesaria y ha liberado al mundo de infinidad de resultados espúreos. Sin embargo, ha incrementado notablemente los que podríamos llamar errores de tipo II.</description>
+    </item>
+    
+    <item>
+      <title>Un gráfico engañabobos</title>
+      <link>/2011/01/31/un-grafico-enganabobos/</link>
+      <pubDate>Mon, 31 Jan 2011 22:38:11 +0000</pubDate>
+      
+      <guid>/2011/01/31/un-grafico-enganabobos/</guid>
+      <description>Hay un blog que sigo con cierto interés. Es un blog de economía, algo en lo que soy, cuando más, un diletante. Por eso lo leo con mucho cuidado: no quiero que me engañen como a las abuelas con el cambio cuando van al mercado. Además, los economistas, a diferencia de estadísticos, matemáticos, y otras especies análogas, son o de izquierdas o de derechas y siempre tratan de arrimar el ascua a su sardina.</description>
+    </item>
+    
+  </channel>
+</rss>

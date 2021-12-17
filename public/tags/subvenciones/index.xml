@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>subvenciones on datanalytics</title>
+    <link>/tags/subvenciones/</link>
+    <description>Recent content in subvenciones on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 29 Apr 2016 08:13:31 +0000</lastBuildDate><atom:link href="/tags/subvenciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>90 millones de euros en tecnologías del lenguaje</title>
+      <link>/2016/04/29/90-millones-de-euros-en-tecnologias-del-lenguaje/</link>
+      <pubDate>Fri, 29 Apr 2016 08:13:31 +0000</pubDate>
+      
+      <guid>/2016/04/29/90-millones-de-euros-en-tecnologias-del-lenguaje/</guid>
+      <description>El gobierno español ha anunciado (ya hace un tiempo) un plan de impulso a las tecnologías del lenguaje con una dotación de 90 millones de euros (lo que costó el fichaje de Ronaldo).
+Veremos en unos años qué ha dado de sí la cosa. En particular, si habrá permitido que los usuarios de R dispongamos de herramientas libres (porque de momento, ya están cobrándonoslas vía Agencia Tributaria) para hacer nuestros cacharreos.</description>
+    </item>
+    
+  </channel>
+</rss>

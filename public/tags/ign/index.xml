@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ign on datanalytics</title>
+    <link>/tags/ign/</link>
+    <description>Recent content in ign on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 13 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/ign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IGN &#43; R &#43; leaflet</title>
+      <link>/2020/10/13/ign-r-leaflet/</link>
+      <pubDate>Tue, 13 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/13/ign-r-leaflet/</guid>
+      <description>Iba a escribir una entrada técnica al respecto, pero resulta que ya la había hecho hace un tiempo y no me acordaba.
+Solo quiero abundar en el tema para recordaros que si os interesa mostrar mapas de España vía [leaflet](https://rstudio.github.io/leaflet/), en lugar de usar las capas por defecto, que vaya a saber uno de dónde las sacan, uno siempre puede tirar de la cartografía oficial.
+Uno de los motivos puede ser que el mapa forme parte de una aplicación seria.</description>
+    </item>
+    
+  </channel>
+</rss>

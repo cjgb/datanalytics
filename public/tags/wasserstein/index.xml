@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wasserstein on datanalytics</title>
+    <link>/tags/wasserstein/</link>
+    <description>Recent content in wasserstein on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 24 Sep 2019 09:13:25 +0000</lastBuildDate><atom:link href="/tags/wasserstein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué variable distingue mejor dos subgrupos?</title>
+      <link>/2019/09/24/que-variable-distingue-mejor-dos-subgrupos/</link>
+      <pubDate>Tue, 24 Sep 2019 09:13:25 +0000</pubDate>
+      
+      <guid>/2019/09/24/que-variable-distingue-mejor-dos-subgrupos/</guid>
+      <description>Es una pregunta que surge reiteradamente. Por ejemplo, cuando se compara un clúster con el resto de la población y uno busca las variables que mejor lo caracterizan. Y crear gráficos como
+(extraído de aquí) donde las variables están ordenadas de acuerdo con su poder discriminador.
+Mi técnica favorita para crear tales indicadores es la EMD (earth mover&amp;rsquo;s distance) y/o sus generalizaciones, muy bien descritas en Optimal Transport and Wasserstein Distance y disponibles en R y Python.</description>
+    </item>
+    
+  </channel>
+</rss>

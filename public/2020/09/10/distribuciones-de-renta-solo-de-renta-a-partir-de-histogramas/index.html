@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Distribuciones (¿de renta? ¿solo de renta?) a partir de histogramas - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Distribuciones (¿de renta? ¿solo de renta?) a partir de histogramas" />
+<meta property="og:description" content="En el primer número de la novísima revista Spanish Journal of Statistics aparece un artículo con un título tentador: Recovering income distributions from aggregated data via micro-simulations.
+Es decir, un artículo que nos puede permitir, por ejemplo, muestrear lo que la AEAT llama rendimientos a partir de lo que publica (aquí):
+Uno de los métodos de los que sostienen el ignominioso a mí me funciona está basado en el modelo" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-09-10T09:13:00&#43;00:00" />
+<meta property="article:modified_time" content="2020-09-10T09:13:00&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Distribuciones (¿de renta? ¿solo de renta?) a partir de histogramas</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-09-10T09:13:00Z">2020-9-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/art%C3%ADculos/" rel="category">artículos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>En el primer número de la novísima revista <em><a href="https://www.ine.es/ss/Satellite?L=es_ES&amp;c=Page&amp;cid=1259952184169&amp;p=1259952184169&amp;pagename=RevEstadistica%2FSJSLayout">Spanish Journal of Statistics</a></em> aparece un artículo con un título tentador: <em><a href="https://www.ine.es/art/sjs/sjs_2019_01_03.pdf">Recovering income distributions from aggregated data via micro-simulations</a></em>.</p>
+<p>Es decir, un artículo que nos puede permitir, por ejemplo, muestrear lo que la AEAT llama <em>rendimientos</em> a partir de lo que publica (<a href="https://www.agenciatributaria.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2015/jrubik1afd6604dcf480f6a17a64bbd6945c9c007a460e.html">aquí</a>):</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2020/09/Screenshot-from-2020-09-09-13-50-00.png" alt=""></p>
+<p>Uno de los métodos de los que sostienen el ignominioso <em>a mí me funciona</em> está basado en el modelo</p>
+<p><code>lm(log(x) ~ poly(p, 3))</code></p>
+<p>donde <code>x</code> es el extremo superior del tramo y <code>p</code> es la proporción acumulada de sujetos.</p>
+<p>Con los datos de la AEAT del 2015, quedaría algo así como:</p>
+<pre><code>datos &lt;- structure(
+    list(
+        hasta = c(1.5, 6, 12, 21, 30, 60, 150, 601, 1000),
+        contribuyentes = c(0.305, 58.911, 1202.863, 4181.433, 3022.829,
+                      3183.805, 605.617, 74.797, 7.244)),
+    class = &quot;data.frame&quot;,
+    row.names = 4:12)
+
+datos$prop &lt;- cumsum(datos$contribuyentes) / sum(datos$contribuyentes)
+tmp &lt;- datos[-nrow(datos),]
+
+modelo &lt;- lm(log(hasta) ~ poly(prop, 3), data = tmp)
+
+
+muestra &lt;- exp(predict(modelo, data.frame(prop = runif(10000))))
+hist(muestra, breaks = 40)
+</code></pre>
+<p>que da algo así como</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2020/09/distribucion_renta.png" alt=""></p>
+<p>Comparar los cuantiles de la nueva distribución con los originales es ejercicio que queda propuesto al lector.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/art%C3%ADculos/" rel="tag">artículos</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/distribuciones/" rel="tag">distribuciones</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/renta/" rel="tag">renta</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2020/09/09/este-video-es-un-resumen-en-15-minutos-de-anos-de-entradas-de-este-blog-solo-que-contado-todo-al-reves/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Este vídeo es un resumen en 15 minutos de años de entradas de este blog, solo que contado todo al revés</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2020/09/11/de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">De &#34;la fiebre amarilla de Cádiz y pueblos comarcanos&#34; de 1800</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

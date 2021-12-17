@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>normalización on datanalytics</title>
+    <link>/tags/normalizaci%C3%B3n/</link>
+    <description>Recent content in normalización on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 10 Feb 2020 18:00:00 +0000</lastBuildDate><atom:link href="/tags/normalizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la normalización de las direcciones postales</title>
+      <link>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</link>
+      <pubDate>Mon, 10 Feb 2020 18:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/</guid>
+      <description>Lo de las direcciones postales es un caos. Trabajar con ellas, una tortura. Y cualquier proyecto de ciencia de datos que las emplee se convierte en la n-ésima reinvención de la rueda: normalización y tal.
+Cuando todo debería ser más sencillo. Cada portal en España tiene asociado un número de policía, un identificador numérico único. Independientemente de que quienes lo habiten se refieran a él de formas variopintas, vernaculares y, en definitiva, desnormalizadas y desestandarizadas hasta pedir basta.</description>
+    </item>
+    
+  </channel>
+</rss>

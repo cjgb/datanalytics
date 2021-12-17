@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curtosis on datanalytics</title>
+    <link>/tags/curtosis/</link>
+    <description>Recent content in curtosis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 05 Jan 2015 07:13:42 +0000</lastBuildDate><atom:link href="/tags/curtosis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La curtosis de una variable aleatoria constante</title>
+      <link>/2015/01/05/la-curtosis-de-una-variable-aleatoria-constante/</link>
+      <pubDate>Mon, 05 Jan 2015 07:13:42 +0000</pubDate>
+      
+      <guid>/2015/01/05/la-curtosis-de-una-variable-aleatoria-constante/</guid>
+      <description>Una mañana de hace veinte $latex \pm \epsilon$ años sufrí mi primera hora de clase de estadística reglada. No la olvidaré: fue un monográfico sobre momentos muestrales de todo orden; los sumatorios se salían por ambos márgenes de las transparencias de acetato. Horrible.
+Sin embargo, aquel día perdí la ocasión de levantar la mano y preguntar por la curtosis de una variable aleatoria constante. Porque necesito un valor razonable por defecto y no se me ocurre ninguno.</description>
+    </item>
+    
+  </channel>
+</rss>

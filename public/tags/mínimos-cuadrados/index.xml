@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mínimos cuadrados on datanalytics</title>
+    <link>/tags/m%C3%ADnimos-cuadrados/</link>
+    <description>Recent content in mínimos cuadrados on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 14 Dec 2015 08:13:35 +0000</lastBuildDate><atom:link href="/tags/m%C3%ADnimos-cuadrados/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La combinación de observaciones y el método de mínimos cuadrados: una revisión histórica</title>
+      <link>/2015/12/14/la-combinacion-de-observaciones-y-el-metodo-de-minimos-cuadrados-una-revision-historica/</link>
+      <pubDate>Mon, 14 Dec 2015 08:13:35 +0000</pubDate>
+      
+      <guid>/2015/12/14/la-combinacion-de-observaciones-y-el-metodo-de-minimos-cuadrados-una-revision-historica/</guid>
+      <description>Sabemos y se sabe desde hace mucho que un sistema lineal de n ecuaciones con m incógnitas, cuando n &amp;gt; m (y especialmente cuando n &amp;raquo; m), muy probablemente no tenga solución. No obstante, sistemas así ocurren naturalmente: ahí está el modelo lineal.
+En tiempos, al cálculo de los mejores coeficientes para ajustar un conjunto de datos, cuando el número de observaciones excedía el de coeficientes se lo llamó combinación de observaciones.</description>
+    </item>
+    
+    <item>
+      <title>El porqué de los mínimos cuadrados con restricciones</title>
+      <link>/2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/</link>
+      <pubDate>Mon, 09 Jun 2014 07:15:06 +0000</pubDate>
+      
+      <guid>/2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/</guid>
+      <description>Avisé en mi entrada del otro día: no me preguntéis por qué (imponer restricciones en un problema de mínimos cuadrados).
+Pero cuanto más pienso sobre ello, menos claro lo tengo. ¿Por qué restricciones?
+Primero, el contexto. O el casi contexto. Porque no es exactamente así. Pero sí parecido. Supongamos que queremos predecir algo y construimos, p.e., 4 modelos. Se nos ocurre (y hay buenas razones para ello) combinar los predictores.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>efectos on datanalytics</title>
+    <link>/tags/efectos/</link>
+    <description>Recent content in efectos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 21 Mar 2018 08:13:19 +0000</lastBuildDate><atom:link href="/tags/efectos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A mayor efecto (sobre todo, si es novedoso), mayor escepticismo</title>
+      <link>/2018/03/21/a-mayor-efecto-sobre-todo-si-es-novedoso-mayor-escepticismo/</link>
+      <pubDate>Wed, 21 Mar 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/03/21/a-mayor-efecto-sobre-todo-si-es-novedoso-mayor-escepticismo/</guid>
+      <description>El NYT resume un artículo recentísimo sobre esas cosas que preocupan tanto en EE.UU. y que viene a decir, en términos sucintísimos, lo siguiente:
+ * A los niños negros les va mucho (mucho, mucho: el efecto tiene una magnitud enorme) peor en la vida que a sus equivalentes blancos independientemente de la clase social, riqueza del hogar y otros factores predictores del éxito. * En cambio, el efecto de la raza es inapreciable para las niñas.</description>
+    </item>
+    
+    <item>
+      <title>Gelmaneando</title>
+      <link>/2017/07/13/gelmaneando/</link>
+      <pubDate>Thu, 13 Jul 2017 08:13:00 +0000</pubDate>
+      
+      <guid>/2017/07/13/gelmaneando/</guid>
+      <description>Hoy, gelmaneo así:
+bar &amp;lt;- function(n, reps = 1e4){ foo &amp;lt;- function(n){ x &amp;lt;- rnorm(n) tmp &amp;lt;- t.test(x) c(tmp$p.value, abs(mean(x))) } res &amp;lt;- replicate(reps, foo(n)) tmp &amp;lt;- t(res) tmp &amp;lt;- tmp[tmp[,1] &amp;lt; 0.05,] tmp[,2] } res &amp;lt;- lapply(c(3, 10, 20, 50, 100), bar) sapply(res, mean) #[1] 0.8662636 0.6583157 0.4934551 0.3240322 0.2337086  Resumo:
+ * Fabrico un montón de errores de tipo I. Recuérdese: error de tipo I implica artículo publicado.</description>
+    </item>
+    
+    <item>
+      <title>Comparaciones de tres grupos: pruebas vs modelos</title>
+      <link>/2016/01/25/comparaciones-de-tres-grupos-pruebas-vs-modelos/</link>
+      <pubDate>Mon, 25 Jan 2016 09:13:59 +0000</pubDate>
+      
+      <guid>/2016/01/25/comparaciones-de-tres-grupos-pruebas-vs-modelos/</guid>
+      <description>Una pregunta reciente en r-help-es se refería a la comparación en R de las proporciones en tres grupos. Obviando algunas pequeñas complicaciones en el problema, la respuesta canónica podría ser esta:
+total &amp;lt;- c(56, 49,51) positivos &amp;lt;- c(14, 10, 17) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/prop.test&amp;quot;&amp;gt;prop.test(tmp$positivos, tmp$positivos + tmp$negativos) # 3-sample test for equality of proportions without continuity correction # # data: tmp$positivos out of tmp$positivos + tmp$negativos # X-squared = 2.2289, df = 2, p-value = 0.</description>
+    </item>
+    
+  </channel>
+</rss>

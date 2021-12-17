@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deoptimr on datanalytics</title>
+    <link>/tags/deoptimr/</link>
+    <description>Recent content in deoptimr on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Feb 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/deoptimr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To IRLS or not to IRLS</title>
+      <link>/2020/02/24/to-irls-or-not-to-irls/</link>
+      <pubDate>Mon, 24 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/to-irls-or-not-to-irls/</guid>
+      <description>A veces tomas un artículo de vaya uno a saber qué disciplina, sismología, p.e., y no dejas de pensar: los métodos estadísticos que usa esta gente son de hace 50 años. Luego cabe preguntarse: ¿pasará lo mismo en estadística con respecto a otras disciplinas?
+Por razones que no vienen al caso, me he visto en la tesitura de tener que encontrar mínimos de funciones que podrían cuasicatalogarse como de mínimos cuadrados no lineales.</description>
+    </item>
+    
+  </channel>
+</rss>

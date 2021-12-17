@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>riesgo on datanalytics</title>
+    <link>/tags/riesgo/</link>
+    <description>Recent content in riesgo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 18 Apr 2021 15:41:24 +0000</lastBuildDate><atom:link href="/tags/riesgo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo vídeo en YouTube: micromuertes</title>
+      <link>/2021/04/18/nuevo-video-en-youtube-micromuertes/</link>
+      <pubDate>Sun, 18 Apr 2021 15:41:24 +0000</pubDate>
+      
+      <guid>/2021/04/18/nuevo-video-en-youtube-micromuertes/</guid>
+      <description>Nada nuevo que no haya publicado antes por aquí: véase esto. Solo que esta vez, audiovisualmente (y con una pésima calidad de imagen: aún no le tengo pillado el truco a la cámara).
+https://www.youtube.com/watch?v=jKz-ZQ5zcvk</description>
+    </item>
+    
+    <item>
+      <title>Gigerenzer sobre riesgo e incertidumbre</title>
+      <link>/2021/03/24/gigerenzer-sobre-riesgo-e-incertidumbre/</link>
+      <pubDate>Wed, 24 Mar 2021 13:05:00 +0000</pubDate>
+      
+      <guid>/2021/03/24/gigerenzer-sobre-riesgo-e-incertidumbre/</guid>
+      <description>Esta es una entrada breve no tanto para comentar el vídeo
+https://www.youtube.com/watch?v=-Lg7G8TMe_A
+como para dejar constancia de algunas notas y referencias a vuelapluma que me sugirió. A saber:
+ La diferencia entre riesgo e incertidumbre, ya tratada (no sé si de una manera que hoy en día revisaría) en estas páginas. * La crítica del uso de las matemáticas para la gestión de la incertidumbre. * Abundando en lo anterior, el famoso artículo de Hayek The Use of Knowledge in Society, que, sí, incluso menciona la ley de los grandes números.</description>
+    </item>
+    
+    <item>
+      <title>La ley de la cerveza para pintar nubes (y su relación con el análisis de la supervivencia)</title>
+      <link>/2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/</link>
+      <pubDate>Mon, 01 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/</guid>
+      <description>El otro día pregunté a en un grupo de amigos, físicos mayormente, si les sonaba de alguna esquinita teórica de la carrera en que apareciese alguna función de la forma
+$latex x(t) = \exp\left(-\int_0^t f(x) dx\right)$
+y uno, que trabaja en el mundo del videojuego dio con la línea 401 del código que aparece aquí y que sirve para pintar las nubes hiperrealistas que aparecen en la misma página.
+Es una aplicación de la ley de Beer en la que mis lectores más sofisticados reconocerán el estrecho vínculo con el análisis de la superviencia.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la función de riesgo en el análisis de la supervivencia</title>
+      <link>/2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/</link>
+      <pubDate>Thu, 28 May 2020 09:13:20 +0000</pubDate>
+      
+      <guid>/2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/</guid>
+      <description>Tienes una función de supervivencia
+y piensas que es posible aproximarla usando segmentos de exponencial usando primero una rejilla gruesa,
+y luego cada vez más fina,
+hasta que sean indistinguibles.
+Las distintas aproximaciones son
+$latex \hat{S}(t) = \exp\left(-\sum_{i \le n} \lambda_i \Delta - \lambda_n (t - t_n)\right)$
+donde $latex n$ es el índice del intervalo que contiene a $latex t$ los $latex \lambda_i$ son los coeficientes en los segmentos de exponencial.</description>
+    </item>
+    
+    <item>
+      <title>Micromuertes y coronavirus</title>
+      <link>/2020/05/19/micromuertes-y-coronavirus/</link>
+      <pubDate>Tue, 19 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/19/micromuertes-y-coronavirus/</guid>
+      <description>[Esta entrada abunda en la que escribí hace nueve años sobre las micromuertes y sin la cual no se entiende.]
+El concepto de micromuerte sirve para anclar y comparar adecuadamente riesgos diminutos. De acuerdo con la entrada que referencio arriba, una micromuerte equivale al riesgo (recuérdese: ¡promedio!) de caminar 15 km o conducir 250. Pasar una noche en el hospital consume 75 de ellos (por riesgo de contagios que no tengan que ver con el motivo de ingreso) y dar a luz, alrededor de 100.</description>
+    </item>
+    
+    <item>
+      <title>Cuantificación y riesgo</title>
+      <link>/2020/03/25/cuantificacion-y-riesgo/</link>
+      <pubDate>Wed, 25 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/25/cuantificacion-y-riesgo/</guid>
+      <description>Economics After Neoliberalism, es una reescritura más de un argumento bastante manido y que se ha visto tratar desde la izquierda, como en esta ocasión, como desde la derecha: el libro Seeing Like a State es una perífrasis libertaria de casi 500 páginas que viene a decir lo mismo. O, según se mire, lo contrario.
+El nudo del argumento es que la cuantificación (de los fenómenos económicos y sociales) no es solo una herramienta relativamente moderna de ayuda a la decisión sino que la condiciona, que, diríase, la contiene.</description>
+    </item>
+    
+    <item>
+      <title>Matematización oscurantista</title>
+      <link>/2019/05/23/matematizacion-oscurantista/</link>
+      <pubDate>Thu, 23 May 2019 09:13:15 +0000</pubDate>
+      
+      <guid>/2019/05/23/matematizacion-oscurantista/</guid>
+      <description>Hoy he participado en una discusión en Twitter acerca del artículo Eficacia predictiva de la valoración policial del riesgo de la violencia de género que sus autores resumen así:
+En el artículo aprendemos que el protocolo VPR es una especie de modelo que asigna a cada caso una valoración de riesgo de agresión en una escala de 5 niveles: «no se da», «baja», «media», «alta» y «extrema».
+Para evaluarlo se han tomado 407 casos que se han seguido en el tiempo, al cabo del cual se han registrado 20 denuncias.</description>
+    </item>
+    
+    <item>
+      <title>¡Bien por AIReF!</title>
+      <link>/2019/05/13/bien-por-airef/</link>
+      <pubDate>Mon, 13 May 2019 09:13:17 +0000</pubDate>
+      
+      <guid>/2019/05/13/bien-por-airef/</guid>
+      <description>Años ha, cuando quería mostrar gráficos como
+tenía que irme al extranjero. Pero hoy he estado hojeando el informe sobre la actualización del programa de estabilidad 2019-2022 de AIReF, he visto cosas como
+y me he emocionado mucho.</description>
+    </item>
+    
+    <item>
+      <title>Gestión del riesgo: una perífrasis con hitos aprovechables</title>
+      <link>/2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/</link>
+      <pubDate>Tue, 09 Apr 2019 09:13:50 +0000</pubDate>
+      
+      <guid>/2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/</guid>
+      <description>Traigo a la consideración de mis lectores Sobre la Sostenibilidad Fiscal de España (II), un artículo de hace un tiempo que es una larga perífrasis alrededor de principios cualitativos muy contrastados sobre la gestión de riesgo (bajo incertidumbre, si se me tolera el pleonasmo). La conclusión es bien sabida pero el camino recorre una serie de hitos que mucho tienen que ver con lo que suelo escribir por aquí. Arranca con una afirmación desconcertante:</description>
+    </item>
+    
+    <item>
+      <title>Terremotos, consecuencias y lecciones</title>
+      <link>/2016/08/30/terremotos-consecuencias-y-lecciones/</link>
+      <pubDate>Tue, 30 Aug 2016 08:13:54 +0000</pubDate>
+      
+      <guid>/2016/08/30/terremotos-consecuencias-y-lecciones/</guid>
+      <description>En 2009 hubo un terremoto en l&amp;rsquo;Aquila, Italia, que dejó 308 muertos, etc.
+¿Qué medidas se tomaron? Italia, en eso, se parece a España: buscar culpables. Los sismólogos que asesoraron a la administración y evaluaron los riesgos de que se produjese un terremoto importante, acabaron en la cárcel (aunque luego salieron).
+Mientras tanto, la casa sin barrer.
+(Y de regalo, ¿por qué es tan difícil predecir terremotos?).</description>
+    </item>
+    
+    <item>
+      <title>Decisiones &#34;a ojo de buen cubero&#34;</title>
+      <link>/2015/02/19/decisiones-a-ojo-de-buen-cubero/</link>
+      <pubDate>Thu, 19 Feb 2015 08:13:31 +0000</pubDate>
+      
+      <guid>/2015/02/19/decisiones-a-ojo-de-buen-cubero/</guid>
+      <description>¿Os acordáis del problema de la carta del otro día? Lo extraje del libro Risk Savvy de G. Gigerenzer.
+Uno de los grandes temas del libro es la distinción entre riesgo e incertidumbre. Se decanta por la perspectiva de Knight discutida en el enlace anterior: en situaciones de riesgo, la distribución de probabilidad es conocida (p.e., juegos de azar) y el aparataje probabilístico puede ser aplicado en su entera potencia matemática.</description>
+    </item>
+    
+    <item>
+      <title>¿Eres un analfabeto numérico?</title>
+      <link>/2013/01/03/eres-un-analfabeto-numerico/</link>
+      <pubDate>Thu, 03 Jan 2013 07:46:36 +0000</pubDate>
+      
+      <guid>/2013/01/03/eres-un-analfabeto-numerico/</guid>
+      <description>Si quieres comparar tu nivel de alfabetización numérica con una muestra de personas con estudios universitarios de muchas partes del mundo, puedes realizar este test.
+Se lo llama Berlin Numeracy Test y está descrito en este artículo. Y de él extraigo una tabla, la cinco,
+
+en la que aparecen los resultados del test en función de la combinación de país e idioma y ordenados por el porcentaje de respuestas en los cuartiles superiores.</description>
+    </item>
+    
+    <item>
+      <title>Un (¿sutil?) error en el cálculo de probabilidades en El País</title>
+      <link>/2012/09/24/un-sutil-error-en-el-calculo-de-probabilidades-en-el-pais/</link>
+      <pubDate>Mon, 24 Sep 2012 07:57:24 +0000</pubDate>
+      
+      <guid>/2012/09/24/un-sutil-error-en-el-calculo-de-probabilidades-en-el-pais/</guid>
+      <description>Leo en El País que
+Hummmm&amp;hellip; a primera vista, sabiendo que 3000 años viene a ser un millón de días, me salían no 3000 años sino 9000, el triple. ¿Estaría en lo cierto?
+Si se registran 0.37 accidentes por millón de vuelos, cabe esperar que la ley que rige el fenómeno sea Poisson de parámetro 3.7e-07. De acuerdo con la relación existente entre la distribución de Poisson y la exponencial, sabemos que el tiempo, es decir, el número de vuelos, hasta el siguiente accidente está gobernado por una distribución exponencial con el mismo parámetro.</description>
+    </item>
+    
+    <item>
+      <title>Las dos preguntas fundamentales de la teoría de los valores extremos</title>
+      <link>/2012/09/21/las-dos-preguntas-fundamentales-de-la-teoria-de-los-valores-extremos/</link>
+      <pubDate>Fri, 21 Sep 2012 07:23:35 +0000</pubDate>
+      
+      <guid>/2012/09/21/las-dos-preguntas-fundamentales-de-la-teoria-de-los-valores-extremos/</guid>
+      <description>En muchos ocasiones es necesario realizar estimaciones sobre el máximo de una serie de valores aleatorios.
+Uno de los casos más conocidos que me vienen a la mente es el llamado problema de los tanques alemanes. Durante la II Guerra Mundial, los aliados, para estimar el ritmo de producción de tanques del enemigo, recogían el número de serie de los que destruían o capturaban. Gracias a esta muestra potencialmente aleatoria, podían realizar estimaciones del máximo de la serie y, de ahí, del número de unidades construidas durante cierto intervalo de tiempo.</description>
+    </item>
+    
+    <item>
+      <title>PER y EV/EBITDA</title>
+      <link>/2012/09/19/per-y-evebitda/</link>
+      <pubDate>Wed, 19 Sep 2012 07:09:26 +0000</pubDate>
+      
+      <guid>/2012/09/19/per-y-evebitda/</guid>
+      <description>Muchos portales financieros incluyen información sobre uno de los llamados múltiplos (asociados a empresas que cotizan en bolsa), el PER. Es fácil de calcular a partir de información pública más o menos fiable y se usa en la práctica para estimar muy a groso modo si determinadas empresas (o mercados) están o no sobrepreciadas.
+El PER es el cociente entre la capitalización bursátil de una empresa (que es público y se actualiza segundo a segundo) y su beneficio, que se conoce con cierta regularidad.</description>
+    </item>
+    
+    <item>
+      <title>¿Estaría el BCE a ciegas?</title>
+      <link>/2012/08/29/estaria-el-bce-a-ciegas/</link>
+      <pubDate>Wed, 29 Aug 2012 07:22:21 +0000</pubDate>
+      
+      <guid>/2012/08/29/estaria-el-bce-a-ciegas/</guid>
+      <description>David Cabo me hizo llegar el otro día este artículo, To what degree is the ECB flying blind? Y con buen criterio, porque, como veremos, toca temas ya conocidos de los lectores de estas páginas.
+El artículo se resume en lo siguiente: si un día el Banco Central Europeo va a sumar a sus funciones la de la supervisión bancaria, va a encontrarse los dos problemas siguientes:
+ * La confidencialidad de los datos * Sus niveles de desglose (y agregación)  Son dos problemas, además, interrelacionados.</description>
+    </item>
+    
+    <item>
+      <title>Odds ratio vs probabilidad</title>
+      <link>/2012/08/09/odds-ratio-vs-probabilidad/</link>
+      <pubDate>Thu, 09 Aug 2012 06:54:23 +0000</pubDate>
+      
+      <guid>/2012/08/09/odds-ratio-vs-probabilidad/</guid>
+      <description>Hoy he sabido vía Twitter lo siguiente:
+
+Como me ha intrigado el asunto de lo de la probabilidad, he acudido al artículo original donde he aprendido que (y, excúsenme: por primera vez no traduzco este tipo de citas):
+Es decir, lo que es 4.8 veces mayor no es la probabilidad en sí sino el odds ratio, concepto que no sé cómo carajos traducir al español. Y el odds ratio no es la probabilidad sino lo que dice la Wikipedia al respecto, que es, en resumen,</description>
+    </item>
+    
+    <item>
+      <title>Las auditorías bancarias de ayer</title>
+      <link>/2012/06/22/las-auditorias-bancaria-de-ayer/</link>
+      <pubDate>Fri, 22 Jun 2012 06:26:12 +0000</pubDate>
+      
+      <guid>/2012/06/22/las-auditorias-bancaria-de-ayer/</guid>
+      <description>Ayer fue día de auditorías bancarias. A las cinco y media de la tarde se enfrentaron un secretario de estado y el subgobernador del Banco de España a un pelotón de periodistas anuméricos con hambre de una sola cifra (pero de muchos ceros) con la que saciar el hambre también de una sola cifra de un país merecidamente atribulado (a más de, no se sabe si por emanación o reflejo, igualmente anumérico).</description>
+    </item>
+    
+    <item>
+      <title>Estrategia, predicción y proyección de la población española</title>
+      <link>/2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/</link>
+      <pubDate>Tue, 18 Oct 2011 07:00:06 +0000</pubDate>
+      
+      <guid>/2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/</guid>
+      <description>Cayó el otro día en mis manos un artículo, Strategy under Uncertainty, que complementa bastante adecuadamente mi entrada del otro día sobre las proyecciones a corto plazo de la población española que realiza el INE.
+La estrategia concierne a sucesos futuros. Por ser futuros, son inciertos. Y el artículo describe cuatro niveles distintos de incertidumbre a los que contrapone una serie de posibles estrategias. Los niveles son:
+ Un futuro suficientemente claro: las tendencias son muy claras y no se esperan sorpresas.</description>
+    </item>
+    
+    <item>
+      <title>Nassim Taleb y el problema de la inferencia</title>
+      <link>/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/</link>
+      <pubDate>Fri, 15 Jul 2011 10:58:46 +0000</pubDate>
+      
+      <guid>/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/</guid>
+      <description>Según el DRAE, inferir consiste en s_acar una consecuencia o deducir algo de otra cosa_. Estadísticos, economistas, económetras y muchos otros lidian siempre con el llamado problema de la inferencia: ¿es posible generalizar a sucesos aún no observados los resultados que parecen deducirse de los datos recogidos?
+Nassim Taleb, empiricista y escéptico, es un pensador y polemista que cuestiona la fe que muchos depositan en teorías y métodos. De lo mucho que podía hablarse de él, me limitaré a subrayar que gran parte de sus reflexiones están contenidas en el muy recomendable libro El cisne negro y que los faltos de tiempo podrán averiguar lo más de ellas en esta conferencia suya de apenas una hora.</description>
+    </item>
+    
+    <item>
+      <title>La percepción del riesgo, en la BBC</title>
+      <link>/2011/07/14/la-percepcion-del-riesgo-en-la-bbc/</link>
+      <pubDate>Thu, 14 Jul 2011 07:35:22 +0000</pubDate>
+      
+      <guid>/2011/07/14/la-percepcion-del-riesgo-en-la-bbc/</guid>
+      <description>La percepción del riesgo es el juicio subjetivo que hacen las personas sobre la relevancia o severidad de un riesgo. Esta percepción tiene una dimensión matemática por naturaleza y que tiene que ver con la habilidad del sujeto para manejarse con las cifras. Pero también tiene una dimensión no matemática: mucha gente, de hecho, reacciona de una manera que pudiera parecer incoherente con su visión racional de las probabilidades implicadas.</description>
+    </item>
+    
+    <item>
+      <title>Riesgo e incertidumbre</title>
+      <link>/2011/03/11/riesgo-e-incertidumbre/</link>
+      <pubDate>Fri, 11 Mar 2011 09:33:27 +0000</pubDate>
+      
+      <guid>/2011/03/11/riesgo-e-incertidumbre/</guid>
+      <description>He encontrado dos (¿cuatro?) definiciones contradictorias de _riesgo _e incertidumbre. La primera está implícita en una frase del artículo The ratings game de Martin Mayer y dice, según mi traducción, así:
+ Knight realizó una distinción categórica entre el riesgo, que puede ser medido, y la incertidumbre, que no puede serlo.
+ Mayer recoge así la distinción que realizó Frank Knight en su tesis doctoral hace ya casi un siglo. En términos algo más precisos, lo que según Knight distingue la incertidumbre del riesgo es que del segundo se conoce, cuando menos, la distribución de probabilidad asociada al fenómeno.</description>
+    </item>
+    
+  </channel>
+</rss>

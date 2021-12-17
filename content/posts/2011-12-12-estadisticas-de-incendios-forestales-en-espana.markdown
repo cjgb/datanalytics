@@ -1,0 +1,35 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2011-12-12 12:07:23+00:00
+draft: false
+title: Estadísticas de incendios forestales en España
+
+url: /2011/12/12/estadisticas-de-incendios-forestales-en-espana/
+categories:
+- gráficos
+- números
+tags:
+- datos abiertos
+- graficaca
+- gráficos
+- números
+---
+
+El Ministerio de Medio Ambiente recoge [estadísticas sobre incendios forestales](http://www.marm.es/es/biodiversidad/temas/defensa-contra-incendios-forestales/estadisticas-de-incendios-forestales/). Lo hace, por así decirlo, a la vieja usanza:
+
+
+
+>La Dirección General de Medio Natural y Política Forestal del Ministerio de Medio Ambiente y Medio Rural y Marino acumula los datos provinciales y obtiene las cifras nacionales del año en curso. Estas cifras se muestran en un cuadro que las compara con las del decenio anterior en el mismo intervalo de fechas.
+>
+>La información del año en curso tiene carácter provisional y está sujeta a ajustes derivados de la discriminación de los incendios que tienen lugar en terreno forestal de aquellos que sólo han afectado a terrenos agrícolas o urbanos y de la medición y clasificación de las superficies recorridas por el fuego.
+
+
+
+[![](/wp-uploads/2011/12/mapa_1_tcm7-25944.jpg)
+](/wp-uploads/2011/12/mapa_1_tcm7-25944.jpg)
+
+Los datos de la estadística definitiva _proceden del proceso informático_ (¡menos mal!) _de los Partes de Incendio Forestal, [...] que recoge para cada incendio más de 150 campos_. Estos datos proceden de las comunidades autónomas, que los envían al ministerio _dentro del primer trimestre del año siguiente_ (¡inaudita presteza!).
+
+Finalmente, el ministerio emite un informe provisional de dos hojas para el año en curso y un libraco con todo tipo de rudimentos gráficos de Excel —con sobreabundancia, por supuesto, de [gráficos de tarta](http://www.datanalytics.com/blog/2011/03/02/1658/)—.
+
+¿No podía, mejor, darnos acceso a los datos crudos para que podamos sacar nuestras propias conclusiones? ¿No somos ya mayorcitos?

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paradoja de simpson on datanalytics</title>
+    <link>/tags/paradoja-de-simpson/</link>
+    <description>Recent content in paradoja de simpson on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Jan 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/paradoja-de-simpson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simpson sobre la desigualdad</title>
+      <link>/2021/01/28/simpson-sobre-la-desigualdad/</link>
+      <pubDate>Thu, 28 Jan 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/01/28/simpson-sobre-la-desigualdad/</guid>
+      <description>Simpson, un viejo amigo de estas páginas, nos enseña, por ejemplo, cómo es posible que los salarios desciendan a lo largo de todas sus subcategorías y que, a la vez, crezcan en promedio en el tiempo. Basta para ello que se reduzca el peso la proporción de los trabajos peor pagados en la economía.
+Los institutos estadísticos, a la hora de estimar el índice de precios, son conscientes del problema y elaboran cestas de la compra más o menos ideales (a lo Quetelet) y calculan su precio a lo largo del tiempo.</description>
+    </item>
+    
+    <item>
+      <title>Un esquema simpsoniano para repensar el presunto incremento de la desigualdad</title>
+      <link>/2019/06/03/un-esquema-simpsoniano-para-repensar-el-presunto-incremento-de-la-desigualdad/</link>
+      <pubDate>Mon, 03 Jun 2019 09:13:54 +0000</pubDate>
+      
+      <guid>/2019/06/03/un-esquema-simpsoniano-para-repensar-el-presunto-incremento-de-la-desigualdad/</guid>
+      <description>Consta de tres simples pasos:
+ Repasa mentalmente una serie de profesiones: taxista, profesor, agricultor, enfermera, músico, programador, prostituta, camarero,&amp;hellip; 2. Compara mentalmente los ingresos del 1% más rico con el del 10% más pobre. 3. Compara mentalmente el peso relativo de las distintas profesiones en el tiempo.  </description>
+    </item>
+    
+    <item>
+      <title>Lo que las diferencias de medias evocan</title>
+      <link>/2019/03/14/lo-que-las-diferencias-de-medias-evocan/</link>
+      <pubDate>Thu, 14 Mar 2019 08:13:28 +0000</pubDate>
+      
+      <guid>/2019/03/14/lo-que-las-diferencias-de-medias-evocan/</guid>
+      <description>Si a uno le dicen que la diferencia de medias de determinado atributo entre sujetos de tipo A y sujetos de tipo B es 5, uno tiende a pensar (o, más bien, tengo esa sensación) que la diferencia de dicho atributo entre un representante al azar de A y uno al azar de B será alrededor de 5. Igual porque nos han educado mostrándonos imágenes no muy distintas de
+Lo cual tiene cierto sentido cuando A y B tienen poblaciones homogéneas.</description>
+    </item>
+    
+    <item>
+      <title>Podría ser Simpson, pero a lo mejor es &#34;otra cosita&#34;</title>
+      <link>/2018/09/04/podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita/</link>
+      <pubDate>Tue, 04 Sep 2018 08:13:49 +0000</pubDate>
+      
+      <guid>/2018/09/04/podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita/</guid>
+      <description>Observo en The deadly effects of losing health insurance cómo el efecto de interés, 15% sobre una población se convierte en efectos del 16%, 23% y 30% en sus tres subpoblaciones (útimas columnas de la tabla que ocupa la página 25). Es raro que el efecto combinado no esté cerca de la media ponderada (por población) de cada uno de sus subcomponentes.
+Podría ser Simpson, pero hay motivos para pensar que hayan cambiado las proporciones de las poblaciones subyacentes (demasiado).</description>
+    </item>
+    
+    <item>
+      <title>Simpson, de nuevo: ahora con la mortalidad</title>
+      <link>/2017/12/01/simpson-de-nuevo-ahora-con-la-mortalidad/</link>
+      <pubDate>Fri, 01 Dec 2017 08:13:55 +0000</pubDate>
+      
+      <guid>/2017/12/01/simpson-de-nuevo-ahora-con-la-mortalidad/</guid>
+      <description>La tasa de mortalidad ha crecido sustancialmente en los dos últimos años (tres, de hecho: el INE no publica datos para el 2017 todavía, pero yo los he y fe doy):
+Sin embargo, la tasa de mortalidad para cada cohorte de edad decrece. Muestro las de las cohortes de edades múltiplas de cinco:
+De nuevo, Simpson.
+Nota: las cifras vienen expresadas en defunciones por cada 1000 habitantes. Los datos salen de aquí.</description>
+    </item>
+    
+    <item>
+      <title>El IPT y la paradoja de Simpson</title>
+      <link>/2016/11/23/el-ipt-y-la-paradoja-de-simpson/</link>
+      <pubDate>Wed, 23 Nov 2016 08:13:38 +0000</pubDate>
+      
+      <guid>/2016/11/23/el-ipt-y-la-paradoja-de-simpson/</guid>
+      <description>El INE ha comenzado a publicar una nueva estadística, el IPT o índice de precios del trabajo. Su primera entrega ha sido glosada por la prensa en artículos como este o este.
+Es imperativo leer la nota metodológica asociada (resumida aquí y detallada en un enlace que contiene) para darse cuenta de los problemas de interpretación que acompañan al índice.
+Se parece al IPC en el sentido que promedia el peso de cada salario (precio en el IPC) por el porcentaje de gente que lo gana (o que se compra en la canasta bienes y servicios del IPC).</description>
+    </item>
+    
+    <item>
+      <title>No me ha salido, pero lo cuento igual</title>
+      <link>/2015/01/20/no-me-ha-salido-pero-lo-cuento-igual/</link>
+      <pubDate>Tue, 20 Jan 2015 07:13:54 +0000</pubDate>
+      
+      <guid>/2015/01/20/no-me-ha-salido-pero-lo-cuento-igual/</guid>
+      <description>Creo que todos sabéis la historia de las admisiones de la Universidad de Berkeley y la paradoja de Simpson. Con palabras, muchas palabras, está contado, por ejemplo, aquí. Y si buscáis ubc admissions simpson en Google la encontraréis también en modo --verbose en muchos más sitios.
+En R puede resumirse en
+library(reshape2) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) data(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/datasets/UCBAdmissions&amp;quot;&amp;gt;UCBAdmissions) raw &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/as.data.frame&amp;quot;&amp;gt;as.data.frame(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/datasets/UCBAdmissions&amp;quot;&amp;gt;UCBAdmissions) dat &amp;lt;- dcast(raw, Gender + Dept ~ &amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/AdMit&amp;quot;&amp;gt;Admit) mod.</description>
+    </item>
+    
+    <item>
+      <title>Simpson y la plebe anumérica</title>
+      <link>/2014/11/13/simpson-y-la-plebe-anumerica/</link>
+      <pubDate>Thu, 13 Nov 2014 07:13:19 +0000</pubDate>
+      
+      <guid>/2014/11/13/simpson-y-la-plebe-anumerica/</guid>
+      <description>Supongamos que los habitantes de un país tienen una probabilidad determinada (y no necesariamente igual) $latex p_i$ de comprar un determinado producto. Supongamos que se lanza una campaña publicitaria que incrementa en una cantidad fija $latex \epsilon$, p.e., 5%, esa probabilidad.
+Supongamos, finalmente, que se trata de una cantidad que se desea estimar.
+Unos individuos reciben la campaña publicitaria. Otros no. ¿Cuál es la diferencia entre las proporciones de individuos que compran el producto en uno y otro grupo?</description>
+    </item>
+    
+    <item>
+      <title>La paradoja de Simpson en el 6eiiic</title>
+      <link>/2013/09/17/la-paradoja-de-simpson-en-el-6eiiic/</link>
+      <pubDate>Tue, 17 Sep 2013 07:07:26 +0000</pubDate>
+      
+      <guid>/2013/09/17/la-paradoja-de-simpson-en-el-6eiiic/</guid>
+      <description>El día 26 de septiembre, alrededor del mediodía, participaré en el VI Encuentro Internacional de Investigación en Información y Comunicación.
+Reproduzco aquí el no particularmente breve (y de hecho, el más largo de los publicados) resúmenes por si a alguien le tienta y se acerca:
+Uno de estos obstáculos es el conocido como la paradoja de Simpson. E. H. Simpson, en un artículo publicado en 1951 dio cuenta de cómo ciertas operaciones aritméticas elementales con fracciones conducían a resultados paradójicos a la hora de analizar y, sobre todo, interpretar resultados cuantitativos.</description>
+    </item>
+    
+    <item>
+      <title>¿Suben o bajan?</title>
+      <link>/2013/08/13/suben-o-bajan/</link>
+      <pubDate>Tue, 13 Aug 2013 07:19:32 +0000</pubDate>
+      
+      <guid>/2013/08/13/suben-o-bajan/</guid>
+      <description>La respuesta es sí, obviamente. Pero no todo el mundo maneja la lógica retorcidamente y aplicado a la mediana de los salarios estadounidenses los más comenzaríamos a hacer distingos en lugar de encerrarnos en la tautología.
+Leo en Revolutions cómo dicha mediana ha crecido un 1% anualmente desde el 2000. Pero, a la vez, la mediana ha descendido en cada uno de los grupos definidos por el nivel de estudios (sin, bachillerato, universitarios, etc.</description>
+    </item>
+    
+    <item>
+      <title>Casi un ejemplo perfecto</title>
+      <link>/2013/01/29/casi-un-ejemplo-perfecto/</link>
+      <pubDate>Tue, 29 Jan 2013 07:15:35 +0000</pubDate>
+      
+      <guid>/2013/01/29/casi-un-ejemplo-perfecto/</guid>
+      <description>Hoy, el INE, casi nos ha regalado un ejemplo perfecto de la paradoja de Simpson en la nota de prensa de las Pruebas de Acceso a la Universidad.
+En efecto, según la tabla
+
+el porcentaje de hombres aprobados superó al de mujeres en cada categoría (excepto en la muy pequeña de mayores de 45 años). Pero, sin embargo, el porcentaje de aprobados entre las mujeres supera (aunque por la mínina) al de los hombres.</description>
+    </item>
+    
+    <item>
+      <title>Ubi ratio, ibi paradoxa (Simpsorum)</title>
+      <link>/2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/</link>
+      <pubDate>Thu, 25 Aug 2011 07:53:33 +0000</pubDate>
+      
+      <guid>/2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/</guid>
+      <description>Efectivamente, ahí donde hay ratios, aparece con frecuencia la llamada paradoja de Simpson (a propósito, en enlace anterior a la Wikipedia es un despropósito: a ver si alguno de mis lectores con tiempo deja la página a la altura de lo que merece una lengua de cultura).
+Una ratio muy traída y llevada últimamente y con la que nos gusta autoflagelarnos a los españoles es el de la productividad, que es el cociente entre la producción nacional y el número de trabajadores.</description>
+    </item>
+    
+  </channel>
+</rss>

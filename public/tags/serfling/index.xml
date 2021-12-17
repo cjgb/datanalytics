@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>serfling on datanalytics</title>
+    <link>/tags/serfling/</link>
+    <description>Recent content in serfling on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 11 Dec 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/serfling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La lotería del hardware y la cámara de resonancia académica</title>
+      <link>/2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/</link>
+      <pubDate>Fri, 11 Dec 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/</guid>
+      <description>El artículo The Hardware Lottery es, hasta cierto punto, informativo. En el fondo, no dice nada que no supiésemos ya: que ciertas ideas, algoritmos, procedimientos, métodos, en diversas disciplinas (¡no en matemáticas!) triunfan esencialmente porque les toca la lotería del hardware. No es que sean las mejores desde una perspectiva actual —podría usar aquí los términos etic y emic a lo ovetense.)— sino que fueron afortunados y bendecidos por el hecho de estar a la (típicamente, medianeja) altura de los tiempos medidos en términos del desarrollo del hardware.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r cuadrado on datanalytics</title>
+    <link>/tags/r-cuadrado/</link>
+    <description>Recent content in r cuadrado on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Oct 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/r-cuadrado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre las R² pequeñas y sus interpretaciones</title>
+      <link>/2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/</link>
+      <pubDate>Tue, 26 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/</guid>
+      <description>Hace unos meses escribí una entrada en defensa (parcial) de una regresión lineal con una R² pequeña. He vuelto a pensar sobre ella y retomo la discusión para esclarecer —sobre todo, para profanos— qué mide la R² y cómo interpretarla según el contexto.
+Comienzo por un experimento físico mental. En un laboratorio se realiza un experimento para medir la relación entre dos magnitudes físicas, un efecto $latex y$ y una causa $latex x$.</description>
+    </item>
+    
+    <item>
+      <title>Hay mil motivos para criticar una regresión &#34;trucha&#34;, pero una R² baja no es uno de ellos</title>
+      <link>/2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r%c2%b2-baja-no-es-uno-de-ellos/</link>
+      <pubDate>Tue, 16 Feb 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r%c2%b2-baja-no-es-uno-de-ellos/</guid>
+      <description>Todo esto arranca con el tuit:
+https://twitter.com/juanrallo/status/1356242130746941443
+Esa gráfica, extraída de un documento de la OCDE, creo, fue uno de los argumentos esgrimidos por JR Rallo para defender cierta postura que no viene al caso. Lo relevante para estas páginas es que fue contestado y protestado por muchos —de algunos de los cuales, dada su autoproclamada condición de divulgadores científicos, cabría esperar más— en términos exclusivamente de lo pequeño de la R².</description>
+    </item>
+    
+  </channel>
+</rss>

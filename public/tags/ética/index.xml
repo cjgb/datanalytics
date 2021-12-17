@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ética on datanalytics</title>
+    <link>/tags/%C3%A9tica/</link>
+    <description>Recent content in ética on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 30 Mar 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre rectángulos largos y estrechos</title>
+      <link>/2021/03/30/sobre-rectangulos-largos-y-estrechos/</link>
+      <pubDate>Tue, 30 Mar 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/03/30/sobre-rectangulos-largos-y-estrechos/</guid>
+      <description>Una de las notas que tenía de la lectura del libro de visualización de datos de Healy se refería a los problemas de comparación que crean los rectángulos largos y estrechos. Es decir, cuando el tamaño de ciertas variables se codifica usando el área de rectángulos con dimensiones muy desiguales.
+Reflexionando sobre el asunto, vi que el fenómeno de los rectángulos largos y estrechos (o mucha base y poca altura, si se quiere) es el que subyace al llamado problema de la conclusión repugnante, que aparece en ética cuando el criterio de bondad es el de la maximización de la suma de las utilidades individuales: una infinita (base) famélica (altura) legión podría tener unos niveles agregados de utilidad (base $latex \times$ altura) superiores a una población pequeña y feliz.</description>
+    </item>
+    
+    <item>
+      <title>Nutri-Score: el &#34;algoritmo&#34;</title>
+      <link>/2021/03/16/nutri-score-el-algoritmo/</link>
+      <pubDate>Tue, 16 Mar 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/03/16/nutri-score-el-algoritmo/</guid>
+      <description>Se hablará mucho de Nutri-Score y de cómo es pernicioso dejar en manos de un algoritmo la decisión sobre la conveniencia o no de ciertos alimentos. Nutri-Score se convertirá en otra de esas malévolas encarnaciones de las matemáticas con vocación de destrucción masiva.
+Pero que conste que Nutri-Score es, como algoritmo, solamente esto (fuente):
+Al menos, esta vez no se lo podrá tachar de opaco.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos y ética circa 1950</title>
+      <link>/2020/10/29/algoritmos-y-etica-circa-1950/</link>
+      <pubDate>Thu, 29 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/29/algoritmos-y-etica-circa-1950/</guid>
+      <description>Estoy corrigiendo las partes de mi libro que tienen que ver con la teoría del a probabilidad para hacerlas más prácticas para quienes llegan a ese mundo no para aprender una serie de reglas operativas que le sirvan para resolver un examen y pasar a otra cosa sino para su trabajo y su vida. Es decir, para asignar probabilidades a eventos.
+Y eso me ha llevado a hojear uno de los libros más famosos en los últimos tiempos dedicados al asunto: Superforecasting.</description>
+    </item>
+    
+    <item>
+      <title>¿Pato o conejo? (Y su moraleja)</title>
+      <link>/2020/01/31/pato-o-conejo-y-su-moraleja/</link>
+      <pubDate>Fri, 31 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/31/pato-o-conejo-y-su-moraleja/</guid>
+      <description>Supongo que
+https://twitter.com/minimaxir/status/1103676561809539072
+es conocido de todos. Según la orientación de la imagen, la red neuronal correspondiente la categoriza bien como conejo o bien como pato.
+¿El motivo? La red está entrenada con una serie de fotos etiquetadas por humanos y en ellas, las figuras en que parecen conejos están en ciertos ángulos (los naturales en fotos de conejos) y en las que aparecen patos, en otros.
+Como ocurre habitualmente, un modelo predictivo no deja de ser un modelo descriptivo de los datos con los que se entrena.</description>
+    </item>
+    
+    <item>
+      <title>Los ejemplos son las conclusiones</title>
+      <link>/2019/11/18/los-ejemplos-son-las-conclusiones/</link>
+      <pubDate>Mon, 18 Nov 2019 09:13:56 +0000</pubDate>
+      
+      <guid>/2019/11/18/los-ejemplos-son-las-conclusiones/</guid>
+      <description>[Ahí va otro aforismo en la línea de este otro].
+Me recomienda Medium muy encarecidamente la lectura de Optimization over Explanation y yo a mis lectores. Trata el asunto de la responsabilidad dizque ética de los algoritmos de inteligencia artificial. Nos cuenta cómo la legislación en general y la GDPR en particular ha hecho énfasis en la explicabilidad de los modelos: según la GDPR, los sujetos de esos algoritmos tendríamos el derecho a que se nos explicasen las decisiones que toman en defensa de nosequé bien jurídico, que nunca he tenido claro y que se suele ilustrar examinando una serie de casos en los que salen aparentemente perjudicados los miembros de unas cuantas minorías cuya agregación son todos menos yo y unos poquitos más que se parecen a mí.</description>
+    </item>
+    
+    <item>
+      <title>La ética, como un problema de aproximación funcional</title>
+      <link>/2018/10/09/la-etica-como-un-problema-de-aproximacion-funcional/</link>
+      <pubDate>Tue, 09 Oct 2018 08:13:42 +0000</pubDate>
+      
+      <guid>/2018/10/09/la-etica-como-un-problema-de-aproximacion-funcional/</guid>
+      <description>Hoy, las notas primero.
+Nota: Ética y moral son la misma palabra en sus idiomas de origen. En español se usan de diversas maneras y hay opiniones diversas al respecto. Las emplearé en el sentido de que la moral es la ética aplicada y la ética la teoría de la moral, defendida por algunos. Ética, entonces, es el producto intelectual de una gente que se dedica profesional o semiprofesionalmente a cavilar sobre el comportamiento humano.</description>
+    </item>
+    
+  </channel>
+</rss>

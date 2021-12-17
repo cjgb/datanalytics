@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lme4 on datanalytics</title>
+    <link>/tags/lme4/</link>
+    <description>Recent content in lme4 on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 13 Apr 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/lme4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regresión tradicional vs multinivel</title>
+      <link>/2020/04/13/regresion-tradicional-vs-multinivel/</link>
+      <pubDate>Mon, 13 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/13/regresion-tradicional-vs-multinivel/</guid>
+      <description>Ayer se leía en Twitter que
+https://twitter.com/joscani/status/1249017607199621123
+Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnicas. Obviamente, hay muchos tipos de datos y supongo que los resultados variarán según qué variante se utilice. Aquí voy a centrarme en unos donde hay medidas repetidas de un factor aleatorio. También voy a situarme en un contexto académico, en el que interesan más las estimaciones de los efectos fijos, que en uno más próximo a mi mundo, la consultoría, donde son más relevantes las estimaciones regularizadas de los efectos aleatorios.</description>
+    </item>
+    
+    <item>
+      <title>k-vecinos &#43; lmer</title>
+      <link>/2020/03/19/k-vecinos-lmer/</link>
+      <pubDate>Wed, 18 Mar 2020 22:11:00 +0000</pubDate>
+      
+      <guid>/2020/03/19/k-vecinos-lmer/</guid>
+      <description>El de los k-vecinos es uno de mis métodos favoritos de modelización. Al menos, teóricamente: luego, en la práctica, es complicado construir una función de distancias decente. Pero tiene la ventaja indiscutible de ser tremendamente local: las predicciones para una observación concreta dependen únicamente de su entorno.
+[lme4::lmer](https://CRAN.R-project.org/package=lme4) (y sus derivados) es ya casi la lente a través de la que imagino cómo operan las variables dentro de un modelo. Desafortunadamente, es un modelo global y no gestiona particularmente bien las interacciones, cuando son muchas y complejas.</description>
+    </item>
+    
+    <item>
+      <title>lme4 &#43; simulate</title>
+      <link>/2020/03/18/lme4-simulate/</link>
+      <pubDate>Wed, 18 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/18/lme4-simulate/</guid>
+      <description>Esta entrada es casi una referencia para mí. Cada vez tiro más de [lme4](https://CRAN.R-project.org/package=lme4) en mis modelos y en uno en concreto que tengo entre manos toca simular escenarios. Para lo cual, [simulate.merMod](https://www.rdocumentation.org/packages/lme4/versions/1.1-21/topics/simulate.merMod).
+Véamoslo en funcionamiento. Primero, datos (ANOVA-style) y el modelo que piden a gritos:
+library(plyr) library(lme4) a &amp;lt;- c(0,0,0, -1, -1, 1, 1, -2, 2) factors &amp;lt;- letters[1:length(a)] datos &amp;lt;- ldply(1:100, function(i){ data.frame(x = factors, y = a + rnorm(length(a))) }) modelo &amp;lt;- lmer(y ~ (1 | x), data = datos)  El resumen del modelo está niquelado:</description>
+    </item>
+    
+    <item>
+      <title>Interacciones y selección de modelos</title>
+      <link>/2020/03/16/interacciones-y-seleccion-de-modelos/</link>
+      <pubDate>Mon, 16 Mar 2020 15:41:00 +0000</pubDate>
+      
+      <guid>/2020/03/16/interacciones-y-seleccion-de-modelos/</guid>
+      <description>Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
+El modelo lineal clásico,
+$latex y \sim x_1 + x_2 + \dots$
+no tiene en cuenta las interacciones (aunque extensiones suyas, sí, por supuesto).</description>
+    </item>
+    
+    <item>
+      <title>BLAS, eficiencia y lme4</title>
+      <link>/2019/10/02/blas-eficiencia-y-lme4/</link>
+      <pubDate>Wed, 02 Oct 2019 09:13:30 +0000</pubDate>
+      
+      <guid>/2019/10/02/blas-eficiencia-y-lme4/</guid>
+      <description>Cada cierto número de años me reencuentro con la cuestión de BLAS, ATLAS y todas esas cosas por tratar de arañar un poco de eficiencia a R.
+Existen el BLAS de toda la vida que, parece ser, viene de serie con R y uno puede optar por otras versiones optimizadas como ATLAS u OpenBLAS, cuyas ventajas relativas, de acuerdo con estos benchmarks, no parecen demasiado claras.
+Lo novedoso en esta revisita al problema es que he aprendido que a los anteriores se han sumado en estos últimos años, cuando menos:</description>
+    </item>
+    
+    <item>
+      <title>Un modelo que alimenta una simulación</title>
+      <link>/2019/09/16/un-modelo-que-alimenta-una-simulacion/</link>
+      <pubDate>Mon, 16 Sep 2019 09:13:17 +0000</pubDate>
+      
+      <guid>/2019/09/16/un-modelo-que-alimenta-una-simulacion/</guid>
+      <description>Tenemos en Circiter un proyecto sobre el que no puedo dar muchos detalles, pero que vamos a plantear (en versión muy resumida) como un modelo que alimenta una simulación.
+El modelo no va a ser un modelo sino un modelo por sujeto (rebaños, los llamamos aquí). Los modelos serán, casi seguro, modelos mixtos (lmer/glmer).
+Pero claro, si usas un modelo, por muy mixto que sea, con intención de simular, predict se queda muy corto (¡siempre da la el mismo resultado!</description>
+    </item>
+    
+    <item>
+      <title>Encuestas electorales: medios y sesgos (II)</title>
+      <link>/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/</link>
+      <pubDate>Mon, 09 May 2016 08:13:27 +0000</pubDate>
+      
+      <guid>/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/</guid>
+      <description>Aquí quedó pendiente hablar de datos y métodos. Los primeros proceden de El Mundo. Solicité a Marta Ley, una coautora, los datos pero, antes de que contestase que sí (¡gracias!), me di cuenta de que podía obtenerlos solito: basta con capturar la llamada que el javascript local hace al servidor.
+¿Métodos? Mejorables: se suaviza la intención de voto (con loess) y se estima la diferencia con un modelo de efectos mixtos, i.</description>
+    </item>
+    
+    <item>
+      <title>Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas</title>
+      <link>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</link>
+      <pubDate>Fri, 18 Mar 2016 09:13:34 +0000</pubDate>
+      
+      <guid>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</guid>
+      <description>Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado (aquí) un conjunto datos muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— nootrópicos.
+El gráfico
+extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué significa &#34;vinculados de forma muy significativa&#34;?</title>
+      <link>/2016/01/12/que-significa-vinculados-de-forma-muy-significativa/</link>
+      <pubDate>Tue, 12 Jan 2016 08:13:43 +0000</pubDate>
+      
+      <guid>/2016/01/12/que-significa-vinculados-de-forma-muy-significativa/</guid>
+      <description>Diríase que dos fenómenos vinculados de forma muy significativa guardan una potente relación causal. Creo que eso es lo que entendería cualquiera.
+Traigo pues a colación dos fenómenos. El primero es
+
+Y el segundo,
+
+¿Diríais que están vinculados de forma muy significativa?
+Pues si en lugar de fiaros de vuestros propios ojos, lo hacéis de Berta Rivera, Bruno Casal o Luis Currais, los autores de The economic crisis and death by suicide in Spain: Empirical evidence based on a data panel and the quantification of losses in labour productivity; o de David Lombao (que divulga el anterior aquí en El Diario), la respuesta es sí.</description>
+    </item>
+    
+    <item>
+      <title>Como no tengo tiempo, voy a publicar una chorrada (y una coda)</title>
+      <link>/2014/11/28/como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda/</link>
+      <pubDate>Fri, 28 Nov 2014 07:13:31 +0000</pubDate>
+      
+      <guid>/2014/11/28/como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda/</guid>
+      <description>Como no tengo tiempo, voy a publicar una chorrada. Voy a coger unos datos que encuentre por ahí, voy a tomar alguna variable, voy a pintarla (en un mapa, si puede ser) y luego voy a construir una narrativa. Espero que no os deis cuenta y me lo creáis todo.
+Comienzo.
+Los datos del World Values Survey (aquí podéis obtenerlos) son mú importantes y mú guays. De todas las variables que contiene, voy a extraer una, la variable mú importante (VMI).</description>
+    </item>
+    
+  </channel>
+</rss>

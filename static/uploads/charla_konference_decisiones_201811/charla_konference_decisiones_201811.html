@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html class=" js no-mobile desktop no-ie ff ff63 home-section carlos-section dropbox-section charlas-section charla_konference_decisiones_201811-section w-1280 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 lt-1440 lt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius no-cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded" id="index-page" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+
+        <title>Ciencia de datos y decisiones: más allá del RMSE</title>
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+        <link rel="stylesheet" href="charla__files/reveal.css">
+
+        <link rel="stylesheet" href="charla__files/night.css" id="theme">
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="charla__files/zenburn.css">
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'bower_components/reveal.js/css/print/pdf.css' : 'bower_components/reveal.js/css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script><link rel="stylesheet" type="text/css" href="charla__files/paper.css">
+
+        <!--[if lt IE 9]>
+        <script src="bower_components/reveal.js/lib/js/html5shiv.js"></script>
+        <![endif]--><script type="text/javascript" src="charla__files/marked.js"></script><script type="text/javascript" src="charla__files/markdown.js"></script><script type="text/javascript" src="charla__files/highlight.js"></script><script type="text/javascript" src="charla__files/zoom.js"></script><script type="text/javascript" src="charla__files/notes.js"></script>
+    </head>
+
+    <body style="transition: transform 0.8s ease 0s;">
+
+        <div class="reveal slide center" role="application" data-transition-speed="default" data-background-transition="fade">
+
+            <div class="slides" style="width: 960px; height: 700px; left: 50%; top: 50%; bottom: auto; right: auto; transform: translate(-50%, -50%) scale(1.19057);">
+
+                
+                    
+                        
+    <section data-markdown="" data-markdown-parsed="true" style="top: 60.5px; display: block;" class="present"><h1 id="decisiones-y-ciencia-de-datos">decisiones y ciencia de datos</h1>
+<h2 id="m-s-all-del-rmse">más allá del RMSE</h2>
+<h4 id="carlos-j-gil-bellosta-gilbellosta-">carlos j. gil bellosta (@gilbellosta )</h4>
+<h4 id="http-circiter-es-http-datanalytics-com"><a href="http://circiter.es/">http://circiter.es</a> - <a href="http://datanalytics.com/">http://datanalytics.com</a></h4>
+</section>
+
+
+                    
+                    
+                
+                    
+                    
+                        <section style="top: 0px; display: block;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 164.5px; display: block;"><h1 id="estad-stica-y-decisiones">estadística y decisiones</h1>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 188.5px; display: block;"><h3 id="-la-estad-stica-es-una-tecnolog-a-que-estudia-sistemas-de-generaci-n-de-datos-aleatorios-con-el-objetivo-de-tomar-decisiones-informadas-">"la
+ estadística es una tecnología que estudia sistemas de generación de 
+datos aleatorios con el objetivo de tomar decisiones informadas"</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="herramientas-para-la-toma-de-decisiones-">herramientas para la toma de decisiones:</h2>
+<h3 id="auc-roc-">auc/roc,</h3>
+<h3 id="p-valores-">p-valores,</h3>
+<h3 id="rmse-">rmse...</h3>
+<h3 id="-lo-son-realmente-">¿lo son realmente?</h3>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section style="top: 0px; display: block;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 0px; display: block;"><h1 id="acciones-recompensas-escenarios-probabilidades-y-decisiones">acciones, recompensas, escenarios, probabilidades y decisiones</h1>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="acciones-">acciones:</h2>
+<h3 id="-conceder-o-no-una-hipoteca">- conceder (o no) una hipoteca</h3>
+<h3 id="-aceptar-o-no-una-transacci-n-de-tarjeta">- aceptar (o no) una transacción de tarjeta</h3>
+<h3 id="-preparar-35-o-40-camas-en-urgencias">- preparar 35 (o 40) camas en urgencias</h3>
+<h3 id="-">- ...</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="recompensas">recompensas</h2>
+<h3 id="cada-acci-n-en-un-escenario-concreto-produce-una-recompensa-dada">cada acción en un escenario concreto produce una recompensa dada</h3>
+<h3 id="-es-una-funci-n-de-acciones-y-escenarios-">(es una función de acciones y escenarios)</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="decisiones">decisiones</h2>
+<h3 id="regla-opta-por-la-acci-n-que-maximiza-la-recompensa-promedio-ponderando-por-probabilidades-">regla: opta por la acción que maximiza la recompensa promedio (ponderando por probabilidades)</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="el-decisor-necesita-las-probabilidades-de-los-escenarios">el decisor necesita las probabilidades de los escenarios</h2>
+<h3 id="-y-en-eso-deber-a-consistir-la-ciencia-de-datos-">(y en eso debería consistir la ciencia de datos)</h3>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section style="top: 330px; display: none;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;"><h1 id="los-problemas-del-rmse">los problemas del rmse</h1>
+<h3 id="-y-del-auc-roc-">(y del auc, roc,...)</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><p><img alt="" src="charla__files/angry.png" width="400px"></p>
+<p>(científico de datos echando pestes porque su jefe no sabe qué es el auc)</p>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="el-decisor-necesita-hablar-de-probabilidades-o-dinero-">el decisor necesita hablar de probabilidades (o dinero)</h2>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="pero-muchos-cient-ficos-de-datos-hablan-en-t-rminos-de-acertar-">pero muchos científicos de datos hablan en términos de "acertar"</h2>
+<h3 id="-en-sus-distintas-variantes-">(en sus distintas variantes)</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="el-principal-problema-de-acertar-la-simetr-a">el principal problema de "acertar": la simetría</h2>
+<h3 id="-i-e-todos-los-aciertos-y-todos-los-errores-son-id-nticos-">(i.e., todos los aciertos y todos los errores son idénticos)</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="pero-el-error-es-igual-de-importante-que-la-predicci-n-puntual-">pero el error es igual de importante que la predicción (puntual)</h2>
+<h3 id="-por-eso-es-imperativo-modelar-la-incertidumbre-">(por eso es imperativo modelar la incertidumbre)</h3>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section style="top: 330px; display: none;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;"><h1 id="-por-qu-se-usa-el-rmse-">¿por qué se usa el rmse?</h1>
+<h3 id="-en-libros-cursos-etc-">(en libros, cursos, etc.)</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="efecto-tolstoi-">efecto tolstoi:</h2>
+<h3 id="-todas-las-familias-felices-se-parecen-unas-a-otras-pero-cada-familia-infeliz-lo-es-a-su-manera-">"todas las familias felices se parecen unas a otras, pero cada familia infeliz lo es a su manera"</h3>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="-errores-cuadr-ticos-">¿errores cuadráticos?</h2>
+<h3 id="-el-rmse-est-asociado-a-errores-normales">- el rmse está asociado a errores normales</h3>
+<h3 id="-en-muchos-problemas-los-errores-son-sim-tricos">- en muchos problemas, los errores son simétricos</h3>
+<h3 id="-son-f-ciles-de-manejar-ense-ar-">- son fáciles de manejar, enseñar,...</h3>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section style="top: 330px; display: none;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;"><h1 id="-qu-hacer-">¿qué hacer?</h1>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><p><img alt="" src="charla__files/rain.png" width="800px"></p>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="-de-d-nde-viene-la-incertidumbre-">¿de dónde viene la incertidumbre?</h2>
+<p><img alt="" src="charla__files/beta.png" width="600px"></p>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="riesgo-y-reservas">riesgo y reservas</h2>
+<p><img alt="" src="charla__files/risk.png" width="900px"></p>
+</section><section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="-plantear-escenarios">- plantear escenarios</h2>
+<h2 id="-calcular-probabilidades">- calcular probabilidades</h2>
+<h2 id="-razonar-sobre-probabilidades">- razonar sobre probabilidades</h2>
+<h2 id="-incorporar-beneficios-a-los-modelos">- incorporar beneficios a los modelos</h2>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                        
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;" aria-hidden="true" class="future" hidden=""><h1 id="vale-">vale.</h1>
+<p>... aunque la conversación continúa en:</p>
+<h4 id="http-circiter-es-gilbellosta-https-twitter-com-gilbellosta-http-datanalytics-com"><a href="http://circiter.es/">http://circiter.es</a> · <a href="https://twitter.com/gilbellosta">@gilbellosta</a> · <a href="http://datanalytics.com/">http://datanalytics.com</a></h4>
+<h1 id="-muchas-gracias-">¡muchas gracias!</h1>
+</section>
+
+
+                    
+                    
+                
+            </div>
+
+        <div class="backgrounds"><div class="slide-background present" style="display: block;" data-loaded="true"></div><div class="slide-background stack future" style="display: block;" data-loaded="true"><div class="slide-background present" style="display: block;" data-loaded="true"></div><div class="slide-background future" style="display: block;" data-loaded="true"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background stack future" style="display: block;" data-loaded="true"><div class="slide-background present" style="display: block;" data-loaded="true"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background stack future" style="display: none;"><div class="slide-background present" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background stack future" style="display: none;"><div class="slide-background present" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background stack future" style="display: none;"><div class="slide-background present" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background future" style="display: none;"></div></div><div class="progress" style="display: block;"><span style="width: 0px;"></span></div><aside class="controls" style="display: block;"><button class="navigate-left" aria-label="previous slide"></button><button class="navigate-right enabled" aria-label="next slide"></button><button class="navigate-up" aria-label="above slide"></button><button class="navigate-down" aria-label="below slide"></button></aside><div class="slide-number" style="display: none;"></div><div class="speaker-notes" data-prevent-swipe=""></div><div class="pause-overlay"></div><div style="position: absolute; height: 1px; width: 1px; overflow: hidden; clip: rect(1px, 1px, 1px, 1px);" id="aria-status-div" aria-live="polite" aria-atomic="true">decisiones y ciencia de datos
+más allá del RMSE
+carlos j. gil bellosta (@gilbellosta )
+http://circiter.es - http://datanalytics.com
+</div></div>
+
+        <script src="charla__files/head.js"></script>
+        <script src="charla__files/reveal.js"></script>
+        <script>
+
+          // Full list of configuration options available at:
+          // https://github.com/hakimel/reveal.js#configuration
+          Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // Optional reveal.js plugins
+            dependencies: [
+              { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
+              { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
+              { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+            ]
+          });
+
+        </script>
+    
+
+
+</body></html>

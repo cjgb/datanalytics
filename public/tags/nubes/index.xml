@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nubes on datanalytics</title>
+    <link>/tags/nubes/</link>
+    <description>Recent content in nubes on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 01 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/nubes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La ley de la cerveza para pintar nubes (y su relación con el análisis de la supervivencia)</title>
+      <link>/2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/</link>
+      <pubDate>Mon, 01 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/</guid>
+      <description>El otro día pregunté a en un grupo de amigos, físicos mayormente, si les sonaba de alguna esquinita teórica de la carrera en que apareciese alguna función de la forma
+$latex x(t) = \exp\left(-\int_0^t f(x) dx\right)$
+y uno, que trabaja en el mundo del videojuego dio con la línea 401 del código que aparece aquí y que sirve para pintar las nubes hiperrealistas que aparecen en la misma página.
+Es una aplicación de la ley de Beer en la que mis lectores más sofisticados reconocerán el estrecho vínculo con el análisis de la superviencia.</description>
+    </item>
+    
+  </channel>
+</rss>

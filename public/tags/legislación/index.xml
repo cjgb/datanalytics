@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>legislación on datanalytics</title>
+    <link>/tags/legislaci%C3%B3n/</link>
+    <description>Recent content in legislación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 16 Apr 2018 08:13:45 +0000</lastBuildDate><atom:link href="/tags/legislaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protección de los datos de los muertos</title>
+      <link>/2018/04/16/proteccion-de-los-datos-de-los-muertos/</link>
+      <pubDate>Mon, 16 Apr 2018 08:13:45 +0000</pubDate>
+      
+      <guid>/2018/04/16/proteccion-de-los-datos-de-los-muertos/</guid>
+      <description>Me toca lidiar con datos relativos a muertos. No de muertos hace mil años, o quinientos, o de las guerras carlistas, sino, casi, casi con muertos de cadáver caliente y viuda con mocos.
+He aquí la (¿aparente?) aporía.
+Por un lado, sábese que la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos (en adelante, LOPD), no es de aplicación a las personas fallecidas. Pero, por otro:
+ * La Agencia Tributaria ni ha publicado ni es fácil que publique las declaraciones de la renta del finado Sr.</description>
+    </item>
+    
+  </channel>
+</rss>

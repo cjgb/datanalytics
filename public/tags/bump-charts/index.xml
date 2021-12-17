@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bump charts on datanalytics</title>
+    <link>/tags/bump-charts/</link>
+    <description>Recent content in bump charts on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 08 Nov 2011 06:56:14 +0000</lastBuildDate><atom:link href="/tags/bump-charts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Bump charts&#34; para comparar gráficamente proporciones entre periodos</title>
+      <link>/2011/11/08/bump-charts-para-comparar-graficamente-proporciones-entre-periodos/</link>
+      <pubDate>Tue, 08 Nov 2011 06:56:14 +0000</pubDate>
+      
+      <guid>/2011/11/08/bump-charts-para-comparar-graficamente-proporciones-entre-periodos/</guid>
+      <description>Hojeaba el otro día en informe Reporta 2011, que evalúa la calidad de la información que sobre su actividad publican las empresas cotizadas en las bolsas españolas. Y aunque haya que valorar la intención de los autores, resultan tan manifiestas ciertas carencias analíticas que mal servicio les haría de no afeárselas desde mi bitácora. Que conste que no me refiero a errores de fondo, materia en la que no entro, sino a los mecanismos para tratar y presentar resultados numéricos a la hora de armar el informe.</description>
+    </item>
+    
+  </channel>
+</rss>

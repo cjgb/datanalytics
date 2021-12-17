@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>verosimilitud on datanalytics</title>
+    <link>/tags/verosimilitud/</link>
+    <description>Recent content in verosimilitud on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 09 Dec 2020 10:23:00 +0000</lastBuildDate><atom:link href="/tags/verosimilitud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Máxima verosimilitud vs decisiones</title>
+      <link>/2020/12/09/maxima-verosimilitud-vs-decisiones/</link>
+      <pubDate>Wed, 09 Dec 2020 10:23:00 +0000</pubDate>
+      
+      <guid>/2020/12/09/maxima-verosimilitud-vs-decisiones/</guid>
+      <description>En Some Class-Participation Demonstrations for Introductory Probability and Statistics tienen los autores un ejemplo muy ilustrativo sobre lo lo relativo (en oposición a fundamental) del papel de la máxima verosimilitud (y de la estadística puntual, en sentido lato) cuando la estadística deja de ser un fin en sí mismo y se inserta en un proceso más amplio que implica la toma de decisiones óptimas.
+Se trata de un ejemplo pensado para ser desarrollado en una clase.</description>
+    </item>
+    
+    <item>
+      <title>Un caso en el que falla la máxima verosimilitud</title>
+      <link>/2018/01/11/un-caso-en-el-que-falla-la-maxima-verosimilitud/</link>
+      <pubDate>Thu, 11 Jan 2018 08:13:42 +0000</pubDate>
+      
+      <guid>/2018/01/11/un-caso-en-el-que-falla-la-maxima-verosimilitud/</guid>
+      <description>El caso es el siguiente: alguien hace la colada y al ir a tender, observa que los 11 primeros calcetines que saca de la lavadora son distintos. El problema consiste en estimar el número de pares de calcetines en la lavadora.
+La solución por máxima verosimilitud es infinitos calcetines. En efecto, cuantos más calcetines hubiese en la lavadora, más probable es obtener 11 de ellos distintos. Y la respuesta es tremendamente insatisfactoria.</description>
+    </item>
+    
+    <item>
+      <title>Experimentos con &#34;extremely small data&#34;: la media muestral de pocas betas</title>
+      <link>/2017/04/12/experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas/</link>
+      <pubDate>Wed, 12 Apr 2017 08:13:07 +0000</pubDate>
+      
+      <guid>/2017/04/12/experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas/</guid>
+      <description>Aquí, contracorriente. Dejamos aparcado el big data y le damos a lo que nos da de comer. Entre otras cosas, este pequeño experimento con muy pequeños datos (¿tres?).
+La aplicación es real. Y los datos pequeños porque son carísimos.
+Se puede suponer que tienen distribución beta de parámetros desconocidos. Nos interesa la media muestral de unas pocas observaciones: dos, tres, cuatro,&amp;hellip; En particular, qué distribución tiene.
+Si fuesen muchos, podríamos aplicar el teorema central del límite (que funciona estupendamente incluso con valores no muy grandes).</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo se escribía &#34;verosimilitud&#34; en francés en 1774?</title>
+      <link>/2016/09/28/como-se-escribia-verosimilitud-en-frances-en-1774/</link>
+      <pubDate>Wed, 28 Sep 2016 08:13:46 +0000</pubDate>
+      
+      <guid>/2016/09/28/como-se-escribia-verosimilitud-en-frances-en-1774/</guid>
+      <description>Lo cuento luego, después del (por mí traducido) contexto:
+Pero en el problema siguiente: &amp;ldquo;Una urna contiene bolas blancas y negras en una proporción desconocida, se extrae una al azar y resulta ser blanca: determinar la probabilidad de que la proporción de bolas blancas y negras sea de p a q&amp;rdquo;; el suceso es conocido pero la causa no.Nótese que se habla de la probabilidad de la proporción. ¡Qué emoción!</description>
+    </item>
+    
+    <item>
+      <title>El problema de los tanques alemanes y de la máxima verosimilitud esquinada</title>
+      <link>/2016/01/18/el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada/</link>
+      <pubDate>Mon, 18 Jan 2016 08:13:11 +0000</pubDate>
+      
+      <guid>/2016/01/18/el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada/</guid>
+      <description>El problema en cuestión, que se ve, surgió durante la II Guerra Mundial, es el siguiente: se capturan tanques del enemigo y se anotan los números de serie, supuestos sucesivos. ¿Cuál es la mejor estimación del número total de tanques fabricados por el enemigo?
+Si se capturan k, la distribución del máximo número observado, m, en función del número no observado (nuestro parámetro) de tanques es
+$latex f(N;m,k)=\frac{\binom{m-1}{k-1}}{\binom{N}{k}}$
+y como esta función es decreciente en $latex N$, la estimación por máxima verosimilitud es $latex \hat{N} = m$.</description>
+    </item>
+    
+    <item>
+      <title>El g-test para tablas de contingencia</title>
+      <link>/2015/11/02/el-g-test-para-tablas-de-contingencia/</link>
+      <pubDate>Mon, 02 Nov 2015 08:13:26 +0000</pubDate>
+      
+      <guid>/2015/11/02/el-g-test-para-tablas-de-contingencia/</guid>
+      <description>Hace unos días recibí una consulta de una vieja amiga lingüista. Ella trabaja en algo que creo que se llama cocolocación: el estudio de palabras que aparecen o que tiendan a aparecer juntas en textos. Digamos que es algo así como una correlación o una regla de asociación.
+Los lingüistas están muy interesados en ese tipo de fenómenos. Tradicionalmente (cada gremio tiene su librillo) usan la información mutua. Pero, al final, lo que tienen es una tabla de contingencia: situaciones en que aparece una, la otra, ambas o ninguna de las palabras.</description>
+    </item>
+    
+  </channel>
+</rss>

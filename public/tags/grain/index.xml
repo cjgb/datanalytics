@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gRain on datanalytics</title>
+    <link>/tags/grain/</link>
+    <description>Recent content in gRain on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 19 Nov 2013 07:33:28 +0000</lastBuildDate><atom:link href="/tags/grain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La red Asia</title>
+      <link>/2013/11/19/la-red-asia/</link>
+      <pubDate>Tue, 19 Nov 2013 07:33:28 +0000</pubDate>
+      
+      <guid>/2013/11/19/la-red-asia/</guid>
+      <description>La red Asia es esto:
+
+Es decir, una red bayesiana. Una red bayesiana clásica sobre la que los interesados podrán saber más leyendo lo que Lauritzen y Spiegelhalter dejaron escrito sobre ella en 1988.
+Pero la idea básica es la siguiente:
+ * Los nodos superiores (visita a Asia, fumador) son variables observables sobre el comportamiento de unos pacientes. * Los nodos inferiores (rayos X, [disnea](http://es.wikipedia.org/wiki/Disnea)) son variables también observables, síntomas de esos pacientes.</description>
+    </item>
+    
+  </channel>
+</rss>

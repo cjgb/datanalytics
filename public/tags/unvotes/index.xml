@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unvotes on datanalytics</title>
+    <link>/tags/unvotes/</link>
+    <description>Recent content in unvotes on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 21 Sep 2016 08:13:25 +0000</lastBuildDate><atom:link href="/tags/unvotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Votos en la ONU con R</title>
+      <link>/2016/09/21/votos-en-la-onu-con-r/</link>
+      <pubDate>Wed, 21 Sep 2016 08:13:25 +0000</pubDate>
+      
+      <guid>/2016/09/21/votos-en-la-onu-con-r/</guid>
+      <description>Inspirado por esto he generado
+usando
+library(unvotes) library(reshape2) library(gplots) dat &amp;lt;- un_votes levels(dat$vote) &amp;lt;- c(&amp;quot;0&amp;quot;, &amp;quot;-1&amp;quot;, &amp;quot;1&amp;quot;) dat$vote &amp;lt;- as.numeric(as.character(dat$vote)) dat &amp;lt;- dcast(dat, rcid ~ country, value.var = &amp;quot;vote&amp;quot;) dat$rcid &amp;lt;- NULL dat &amp;lt;- as.matrix(dat) res &amp;lt;- cov(dat, use = &amp;quot;pairwise.complete.obs&amp;quot;) heatmap(res)  Se me olvidaba: el gráfico se refiere a los votos de los distintos países en la ONU.
+Tal vez alguien quiera poner la lupa en algún país concreto.</description>
+    </item>
+    
+  </channel>
+</rss>

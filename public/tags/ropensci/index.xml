@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ropensci on datanalytics</title>
+    <link>/tags/ropensci/</link>
+    <description>Recent content in ropensci on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Oct 2017 08:13:16 +0000</lastBuildDate><atom:link href="/tags/ropensci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rOpenSpain: ahí tiro el guante</title>
+      <link>/2017/10/11/ropenspain-ahi-tiro-el-guante/</link>
+      <pubDate>Wed, 11 Oct 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/10/11/ropenspain-ahi-tiro-el-guante/</guid>
+      <description>La gente de rOpenSci hace cosas a las que merece la pena atento. Tanto por los objetivos como por medios y las formas. Recomiendo seguir sus últimas publicaciones acerca de la profesionalización del proceso de desarrollo de código.
+Llevo unos meses jugando con una idea inspirada por rOpenSci: crear un respositorio y un consorcio más o menos formal que desarrolle, mantenga y mejore herramientas (en R) de interés para el procesamiento y análisis de datos ya no científicos sino españoles.</description>
+    </item>
+    
+    <item>
+      <title>La anticonferencia: una idea que me ronda la cabeza</title>
+      <link>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</link>
+      <pubDate>Mon, 12 Jun 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</guid>
+      <description>La anticonferencia me ronda la cabeza.
+No es una conferencia, (de ahí el prefijo), aunque se parezca a ella en lo de reunir a un grupillo de gente interesada en un asunto.
+No es un jacatón. Los jacatones están, sobre el papel, bien; pero demasiado a menudo su producto se queda ahí, tiene poca (o nula) trayectoria o impacto. ¿Me dejáis que diga que son mayormente intranscendentes?
+Pero creo que los de rOpenSci dieron en el clavo con su Unconference.</description>
+    </item>
+    
+  </channel>
+</rss>

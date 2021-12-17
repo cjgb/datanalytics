@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gpt-2 on datanalytics</title>
+    <link>/tags/gpt-2/</link>
+    <description>Recent content in gpt-2 on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 08 Apr 2019 09:13:10 +0000</lastBuildDate><atom:link href="/tags/gpt-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demasiada gente conozco que todavía no sabe de GPT-2</title>
+      <link>/2019/04/08/demasiada-gente-conozco-que-todavia-no-sabe-de-gpt-2/</link>
+      <pubDate>Mon, 08 Apr 2019 09:13:10 +0000</pubDate>
+      
+      <guid>/2019/04/08/demasiada-gente-conozco-que-todavia-no-sabe-de-gpt-2/</guid>
+      <description>Así que si eres uno de ellos, lee esto. Todo. Completo. Incluidos los motivos por los que no se va a liberar tal cual.
+Si te quedas con ganas de más, lee esto (un divertimento) o, más en serio, esto otro, donde se da cuenta de uno de los logros de GPT-2 que, a primera vista, pasa desapercibido: que ha logrado adquirir determinadas habilidades sin haber sido entrenado específicamente para ello.</description>
+    </item>
+    
+  </channel>
+</rss>

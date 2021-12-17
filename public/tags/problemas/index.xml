@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>problemas on datanalytics</title>
+    <link>/tags/problemas/</link>
+    <description>Recent content in problemas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 21 May 2015 08:13:03 +0000</lastBuildDate><atom:link href="/tags/problemas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sumar 18: un problema fácil y otro que lo es menos</title>
+      <link>/2015/05/21/sumar-18-un-problema-facil-y-otro-que-lo-es-menos/</link>
+      <pubDate>Thu, 21 May 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/05/21/sumar-18-un-problema-facil-y-otro-que-lo-es-menos/</guid>
+      <description>En una página que no mencionaré (solo porque creo que en los comentarios hay soluciones) se propuso el siguiente problema: combinar los números 2, 3, 4 y 5 con las operaciones aritméticas (+, -, *, /) para obtener 18 como resultado.
+Tal es el problema fácil.
+El menos fácil: encontrar todas (¡ya sabemos que la suma conmuta!) las soluciones.</description>
+    </item>
+    
+    <item>
+      <title>Un problema de cartas</title>
+      <link>/2015/02/17/un-problema-de-cartas/</link>
+      <pubDate>Tue, 17 Feb 2015 08:13:39 +0000</pubDate>
+      
+      <guid>/2015/02/17/un-problema-de-cartas/</guid>
+      <description>Hay tres cartas. Una de ellas tiene ambas caras rojas; otra, ambas azules; la última, una roja y una azul. Al azar, te ponen una sobre la mesa. La cara que ves es roja. ¿Cuál es la probabilidad de que la cara que no ves sea también roja?</description>
+    </item>
+    
+  </channel>
+</rss>

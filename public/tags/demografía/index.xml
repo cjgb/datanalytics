@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demografía on datanalytics</title>
+    <link>/tags/demograf%C3%ADa/</link>
+    <description>Recent content in demografía on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 29 Sep 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/demograf%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un extracto del documento metodológico de las proyecciones de población del INE</title>
+      <link>/2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/</link>
+      <pubDate>Tue, 29 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/</guid>
+      <description>Está extraído de aquí y dice los siguiente:
+ Las Proyecciones de Población constituyen una simulación estadística de la población que residiría en España, sus comunidades autónomas y provincias en los próximos años, así como de la evolución de cada uno de los fenómenos demográficos básicos asociados, en caso de mantenerse las tendencias y comportamientos demográficos actualmente observados.
+Para interpretar correctamente los resultados de las Proyecciones de Población es importante distinguir entre previsiones y proyecciones demográficas.</description>
+    </item>
+    
+    <item>
+      <title>Este es uno de los pecados estadísticos que menos indulgencia suscita</title>
+      <link>/2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita/</link>
+      <pubDate>Wed, 23 Sep 2020 09:12:00 +0000</pubDate>
+      
+      <guid>/2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita/</guid>
+      <description>INE, Proyecciones de Población 2020-2070 (enlace)
+[Nota para desavisados: ¿veis cómo se comporta la varianza antes/después?]
+[Otra nota: la publicación de las proyecciones de población del INE es casi todos los años motivo de recochineo bloguero. Buscad y encontraréis.]
+[Nota final: sí, sí, una proyección es lo que ocurriría &amp;ldquo;si se mantuvieran las tendencias actuales&amp;rdquo;. Eso os dirán. Precisamente por eso, esta entrada y el gráfico de más arriba.]</description>
+    </item>
+    
+    <item>
+      <title>La población envejece pero, ¿envejecen también los grupos de edad?</title>
+      <link>/2019/12/03/la-poblacion-envejece-pero-envejecen-tambien-los-grupos-de-edad/</link>
+      <pubDate>Tue, 03 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/03/la-poblacion-envejece-pero-envejecen-tambien-los-grupos-de-edad/</guid>
+      <description>La pregunta es relevante porque en demografía, epidemiología y otras disciplinas entre las que no se suele contar la economía, se suele agrupar la población en grupos de edad (y/u otras variables relevantes). Son habituales los grupos de edad quinquenales y la pregunta es: ¿son homogéneos dichos grupos de edad a lo largo del tiempo?
+No es una pregunta baladí: ha dado lugar a noticias como Why So Many White American Men Are Dying que no, no se explican por la desesperación o por la epidemia de opioides sino por el envejecimiento relativo de los grupos de edad en cuestión.</description>
+    </item>
+    
+    <item>
+      <title>Población: el padrón y la otra cosa</title>
+      <link>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</link>
+      <pubDate>Thu, 22 Mar 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</guid>
+      <description>En un proyecto necesitábamos cifras de población por provincias durante los últimos años. Así que usamos los datos del padrón proporcionados por el INE (el INE es guay; AEMET es kk). Pero alguien nos dijo que era mejor usar los otros datos de población, los nosequé (sí, las estimaciones intercensales, si es que se llaman así) porque eran más mejores.
+El padrón es un registro administrativo. Lo otro es algo soportado por lo que yo llamo método y el resto de la humanidad, metodología.</description>
+    </item>
+    
+    <item>
+      <title>Estructura poblacional de España: 2010-2050</title>
+      <link>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</link>
+      <pubDate>Tue, 27 Feb 2018 08:13:04 +0000</pubDate>
+      
+      <guid>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</guid>
+      <description>Si se puede hacer para Japón, también se puede hacer para España:
+El código,
+library(idbr) library(ggplot2) library(animation) library(ggthemes) idb_api_key(&amp;quot;pídela en https://www.census.gov/data/developers/data-sets/international-database.html&amp;quot;) male &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;male&#39;) male$SEX &amp;lt;- &amp;quot;hombres&amp;quot; male$POP &amp;lt;- -male$POP female &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;female&#39;) female$SEX &amp;lt;- &amp;quot;mujeres&amp;quot; spain &amp;lt;- rbind(male, female) saveGIF({ for (i in 2010:2050) { title &amp;lt;- as.character(i) year_data &amp;lt;- spain[spain$time == i, ] g1 &amp;lt;- ggplot(year_data, aes(x = AGE, y = POP, fill = SEX, width = 1)) + coord_fixed() + coord_flip() + annotate(&#39;text&#39;, x = 98, y = -300000, label = &#39;Datos: US Census Bureau IDB; idbr R package&#39;, size = 3) + geom_bar(data = subset(year_data, SEX == &amp;quot;mujeres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + geom_bar(data = subset(year_data, SEX == &amp;quot;hombres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + scale_y_continuous(breaks = seq(-300000, 300000, 150000), labels = paste0(as.</description>
+    </item>
+    
+    <item>
+      <title>Una proyección no es un número sino una distribución de probabilidad</title>
+      <link>/2017/05/17/una-proyeccion-no-es-un-numero-sino-una-distribucion-de-probabilidad/</link>
+      <pubDate>Wed, 17 May 2017 08:13:53 +0000</pubDate>
+      
+      <guid>/2017/05/17/una-proyeccion-no-es-un-numero-sino-una-distribucion-de-probabilidad/</guid>
+      <description>Nos lo recuerda NeG. Aunque es un tema manido en estas páginas.
+Pero, ea, ea, ea, el INE no se entera.
+(Y es a ese tipo de cosas a la que me refiero implícitamente cuando digo, cada vez más frecuentemente, que España es un país de pueblo).</description>
+    </item>
+    
+    <item>
+      <title>Me too, me too!</title>
+      <link>/2017/05/12/me-too-me-too/</link>
+      <pubDate>Fri, 12 May 2017 08:13:13 +0000</pubDate>
+      
+      <guid>/2017/05/12/me-too-me-too/</guid>
+      <description>Las alturas corresponden a una cierta potencia de la población residente en la correspondiente rejilla. Los datos son del SEDAC (Socioeconomic Data and Applications Center, Universidad de Columbia) y se pueden bajar gratis si te registras y rellenas un cuestionario tontaina.
+El código,
+library(ggplot2) options(expressions = 10000) dat &amp;lt;- read.table(&amp;quot;dat/espp00ag.asc&amp;quot;, skip = 6) dat &amp;lt;- as.matrix(dat) dat &amp;lt;- data.frame(y = as.numeric(row(dat)), x = as.numeric(col(dat)), pop = as.numeric(dat)) peninsula &amp;lt;- dat[dat$x &amp;gt; 200,] peninsula &amp;lt;- peninsula[peninsula$y &amp;lt; 250,] res &amp;lt;- ggplot() for (i in 1:max(peninsula$y)){ tmp &amp;lt;- peninsula[peninsula$y == i,] tmp$pop &amp;lt;- tmp$pop^0.</description>
+    </item>
+    
+    <item>
+      <title>Guadalajara joven, Guadalajara inconclusa</title>
+      <link>/2017/04/19/guadalajara-joven-guadalajara-inconclusa/</link>
+      <pubDate>Wed, 19 Apr 2017 08:13:24 +0000</pubDate>
+      
+      <guid>/2017/04/19/guadalajara-joven-guadalajara-inconclusa/</guid>
+      <description>Continuando con mi serie sobre la Guadalajara demográfica,
+que muestra la proporción de menores de 16 por municipio en la provincia.
+No me habría atrevido a publicar nada tan en agraz si no fuese para dejar dos notas de potencial provecho para mis lectores. La primera que he usado los mapas que, dicen, son los de verdad de la buena. No los del INE, que son de amateur, sino los del SIANE del Instituto Geográfico Nacional, que me cuentan los que saben de la cosa que son los que se recomienda utilizar.</description>
+    </item>
+    
+    <item>
+      <title>Evolución de la edad media de la población por provincias</title>
+      <link>/2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/</link>
+      <pubDate>Wed, 29 Mar 2017 08:13:44 +0000</pubDate>
+      
+      <guid>/2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/</guid>
+      <description>Abundo en la entrada de ayer. Lo hago para mostrar
+En el gráfico anterior se muestra la evolución de la edad media de la población de las provincias españolas como diferencia con respecto a una evolución media calculada como la regresión lineal de todas las edades medias con respecto al año. Es decir, algo así como evolución relativa.
+Se aprecian claramente los rejuvenecimientos relativos de Guadalajara y, en menor medida, Toledo.</description>
+    </item>
+    
+    <item>
+      <title>Rejillas poblacionales con R (un borrador)</title>
+      <link>/2017/03/28/rejillas-poblacionales-con-r-un-borrador/</link>
+      <pubDate>Tue, 28 Mar 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/03/28/rejillas-poblacionales-con-r-un-borrador/</guid>
+      <description>me llegó ayer por Twitter (vía @unnombrealazar). En el mapa aparece representada la edad media de la población por provincia (y hoy voy a dar las cloropetas por buenas). Salta a la vista Guadalajara: tiene una edad media ¿sorprendentemente? baja. Tanto que tuve que comprobarlo en el INE. La explicación (siempre a posteriori) más obvia es
+¿Será cierto? A saber. Seguramente. Pero, ¿podemos comprobarlo?
+Es complicado obtener datos de edades por municipio.</description>
+    </item>
+    
+    <item>
+      <title>Proyecciones probabilísticas de población</title>
+      <link>/2017/01/31/proyecciones-probabilisticas-de-poblacion/</link>
+      <pubDate>Tue, 31 Jan 2017 08:13:01 +0000</pubDate>
+      
+      <guid>/2017/01/31/proyecciones-probabilisticas-de-poblacion/</guid>
+      <description>Cuando escribí que las proyecciones de población del INE no valían para un carajo, todavía no se había publicado [bayesPop](https://www.jstatsoft.org/article/view/v075i05).
+Ahora tienen una excusa menos para no ponerse a la altura de los tiempos.
+Nota: el gráfico anterior está extraído de la la página de proyecciones de población de la ONU y corresponde, cómo no, a España.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuánta gente ha habido sobre la faz de la tierra?</title>
+      <link>/2015/06/11/cuanta-gente-ha-habido-sobre-la-faz-de-la-tierra/</link>
+      <pubDate>Thu, 11 Jun 2015 08:13:56 +0000</pubDate>
+      
+      <guid>/2015/06/11/cuanta-gente-ha-habido-sobre-la-faz-de-la-tierra/</guid>
+      <description>Una vez oí que 70000 millones, de los que 7000 estaban vivos actualmente. Oí mal porque, buscando, he encontrado esto, de donde extraigo:
+
+y
+
+¡Un 6.5% de todos los que hemos sido estamos vivos!
+Y me pregunto: ¿cuál será el porcentaje equivalente entre todos los que han sabido leer y escribir? ¿Cuántos de los que han sabido hacer música? ¿Cuántos de los escritores? ¿Cuántos de los que han tenido una existencia que no se redujese a subsistir precariamente?</description>
+    </item>
+    
+    <item>
+      <title>¿Dónde estoy? ¿Dónde estaré?</title>
+      <link>/2014/02/17/donde-estoy-donde-estare/</link>
+      <pubDate>Mon, 17 Feb 2014 07:47:33 +0000</pubDate>
+      
+      <guid>/2014/02/17/donde-estoy-donde-estare/</guid>
+      <description>Me hace cierta gracia leer _España: El éxodo en cifras. Desaparecen 1,7 millones de personas entre los 16 y los 39 años _. El artículo razona alrededor de la tabla
+
+y se pregunta a dónde ha ido la gente que está en rojo: la población activa en los tramos de edad de entre los 16 y los 29 años y entre los 30 y los 39. Aquí en Zúrich estoy rodeado de un buen número de los faltantes.</description>
+    </item>
+    
+    <item>
+      <title>Hoy somos 7000 millones</title>
+      <link>/2011/10/31/hoy-somos-7000-millones/</link>
+      <pubDate>Mon, 31 Oct 2011 07:36:40 +0000</pubDate>
+      
+      <guid>/2011/10/31/hoy-somos-7000-millones/</guid>
+      <description>Hace 12 años, en la medianoche del 12 de octubre de 1999, Fatima Nevic dio a luz al niño que la ONU, por algún motivo, eligió para dar rostro al habitante 6.000.000.000 de este mundo que habitamos.
+Hoy 31 de octubre seremos 1000 millones más.
+¡Bienvenido, niño 7e9!</description>
+    </item>
+    
+  </channel>
+</rss>

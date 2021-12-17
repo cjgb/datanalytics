@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sparql on datanalytics</title>
+    <link>/tags/sparql/</link>
+    <description>Recent content in sparql on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 20 Jan 2016 08:13:51 +0000</lastBuildDate><atom:link href="/tags/sparql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Por si os interesa el tema de la energía, las centrales, las emisiones, etc.</title>
+      <link>/2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/</link>
+      <pubDate>Wed, 20 Jan 2016 08:13:51 +0000</pubDate>
+      
+      <guid>/2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/</guid>
+      <description>Esta entrada será del interés de a quien le atraigan dos temas bastante independientes entre sí:
+ * La energía, las centrales eléctricas, sus emisiones, etc. * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)  Allá va el código
+library(SPARQL) library(ggplot2) queryString = &amp;quot;PREFIX a: &amp;lt;http://enipedia.tudelft.nl/wiki/&amp;gt; PREFIX prop: &amp;lt;http://enipedia.tudelft.nl/wiki/Property:&amp;gt; PREFIX rdfs: &amp;lt;http://www.w3.org/2000/01/rdf-schema#&amp;gt; select ?plant ?name ?elec_capacity_MW ?lat ?lon ?operator where { ?plant prop:Country a:Spain . #get the name #?plant rdfs:label ?name . ?plant prop:Generation_capacity_electrical_MW ?elec_capacity_MW . #?</description>
+    </item>
+    
+  </channel>
+</rss>

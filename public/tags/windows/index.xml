@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on datanalytics</title>
+    <link>/tags/windows/</link>
+    <description>Recent content in windows on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 14 Mar 2018 08:13:30 +0000</lastBuildDate><atom:link href="/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Subsystem for Linux</title>
+      <link>/2018/03/14/windows-subsystem-for-linux/</link>
+      <pubDate>Wed, 14 Mar 2018 08:13:30 +0000</pubDate>
+      
+      <guid>/2018/03/14/windows-subsystem-for-linux/</guid>
+      <description>Igual todo el mundo conoce ya WSL. Pero por si acaso queda entre la audiencia algún otro despistado, pues, eso: que existe en Windows 10 (¿solo?) un subsistema Linux que permite correr comandos de consola, instalar paquetes (p.e., con apt-get), etc. Incluso R. Me queda solo la duda del entorno gráfico, sobre el que no he visto nada.
+En su día, Windows fue un programa de MS-DOS que arrancaba al escribir win en la consola.</description>
+    </item>
+    
+    <item>
+      <title>Una herramienta para construir paquetes de R sobre Windows</title>
+      <link>/2011/06/15/una-herramienta-para-construir-paquetes-de-r-sobre-windows/</link>
+      <pubDate>Wed, 15 Jun 2011 07:07:21 +0000</pubDate>
+      
+      <guid>/2011/06/15/una-herramienta-para-construir-paquetes-de-r-sobre-windows/</guid>
+      <description>Construir paquetes multiplataforma con R supone todo un reto para quienes tenemos un acceso limitado o nulo a determinados sistemas operativos. En particular, a muchos nos resulta complicado acceder a una máquina Windows con todas las herramientas necesarias para crear y comprobar los paquetes.
+Pero Uwe Ligges, el encargado de los paquetes binarios de Windows para CRAN ha puesto en funcionamiento un servicio para poder compilarlos. En la página de información de este servicio pueden consultarse las instrucciones para subir los paquetes y los caveats:</description>
+    </item>
+    
+  </channel>
+</rss>

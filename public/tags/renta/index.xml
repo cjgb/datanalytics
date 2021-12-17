@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>renta on datanalytics</title>
+    <link>/tags/renta/</link>
+    <description>Recent content in renta on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 08 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/renta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Usa uno u otro mapa, según tus intereses</title>
+      <link>/2020/10/08/usa-uno-u-otro-mapa-segun-tus-intereses/</link>
+      <pubDate>Thu, 08 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/08/usa-uno-u-otro-mapa-segun-tus-intereses/</guid>
+      <description>El primero, El mapa de la renta de los españoles, calle a calle. Puedes ver en él (haciendo un poco de zum) cosas como que la renta per cápita de la zona más fina de Alcobendas, La Moraleja, dizque es de poco más de 29 k€.
+El segundo, Matadepera y Pozuelo de Alarcón, los municipios más ricos de España. Encuentre la renta media de su localidad, donde uno aprende cosas como que la renta per cápita media de Alcobendas (promediando las zonas pobres con las ricas mencionadas más arriba) es de 45 k€.</description>
+    </item>
+    
+    <item>
+      <title>Distribuciones (¿de renta? ¿solo de renta?) a partir de histogramas</title>
+      <link>/2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/</link>
+      <pubDate>Thu, 10 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/</guid>
+      <description>En el primer número de la novísima revista Spanish Journal of Statistics aparece un artículo con un título tentador: Recovering income distributions from aggregated data via micro-simulations.
+Es decir, un artículo que nos puede permitir, por ejemplo, muestrear lo que la AEAT llama rendimientos a partir de lo que publica (aquí):
+Uno de los métodos de los que sostienen el ignominioso a mí me funciona está basado en el modelo</description>
+    </item>
+    
+    <item>
+      <title>De histograma a distribuciones (usando la de Burr)</title>
+      <link>/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/</link>
+      <pubDate>Fri, 05 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/</guid>
+      <description>Tengo una entrada perpetuamente pendiente que se pospone, entre otras cosas, porque aún no he encontrado una manera satisfactoria para muestrear histogramas. Una de las vías sería dar con (y ajustar) una distribución subyacente que generase unos histogramas similares.
+Hoy voy a contar un ejemplo de cómo puede fallar tal estrategia.
+Por un lado he bajado datos de la distribución de renta en España del INE:
+Por otro, me he dejado convencer temporalmente de que la distribución de Burr podría ser conveniente para modelar la distribución de ingresos de los hogares (Wikipedia dixit!</description>
+    </item>
+    
+    <item>
+      <title>No son los picos, son los rangos</title>
+      <link>/2018/04/23/no-son-los-picos-son-los-rangos/</link>
+      <pubDate>Mon, 23 Apr 2018 08:13:39 +0000</pubDate>
+      
+      <guid>/2018/04/23/no-son-los-picos-son-los-rangos/</guid>
+      <description>Me reencuentro con
+tiempo después (fuente). Llaman la atención sobremanera los picos. Que no tienen otra razón de ser que un cambio en los rangos del eje horizontal.
+Ahora la pregunta, de ejercicio: ¿cómo harías para representar esos datos para evitar esos artefactos (asumiendo escala lineal en el eje horizontal)?</description>
+    </item>
+    
+    <item>
+      <title>De España a Dinamarca en dos pasos</title>
+      <link>/2018/04/17/de-espana-a-dinamarca-en-dos-pasos/</link>
+      <pubDate>Tue, 17 Apr 2018 08:13:10 +0000</pubDate>
+      
+      <guid>/2018/04/17/de-espana-a-dinamarca-en-dos-pasos/</guid>
+      <description>De acuerdo con Eurostat, el IRPF recauda en España aproximadamente el 7.5% del PIB nacional; en Dinamarca, como el 25%. Los tipos impositivos en Dinamarca,
+son más altos que los españoles, pero tampoco puede decirse que estén desaforadamente por encima.
+En cualquier caso, ese salto (del 7.5% al 25%), puede descomponerse en dos partes. La primera, efecto de cambiar los tipos impositivos en España (sobre la actual distribución de la renta).</description>
+    </item>
+    
+    <item>
+      <title>Ceuta y Melilla, ¿por encima de la renta media española?</title>
+      <link>/2016/07/25/ceuta-y-melilla-por-encima-de-la-renta-media-espanola/</link>
+      <pubDate>Mon, 25 Jul 2016 08:13:20 +0000</pubDate>
+      
+      <guid>/2016/07/25/ceuta-y-melilla-por-encima-de-la-renta-media-espanola/</guid>
+      <description>Durante estos días que he pasado fuera, la Agencia Tributaria ha publicado datos de la renta por municipios. No he visto los datos originales ni leído los caveats, pero en fuentes indirectas como El País se lee cómo Ceuta y Melilla superan la media española con 30.125 y 29.209 euros, respectivamente.
+Del mismo tenor son Expansión y, a poco que se indague, otros medios.
+Y yo me pregunto: ¿estarán realmente Ceuta y Melilla, tal como se cuenta, por encima de la media?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>banca on datanalytics</title>
+    <link>/tags/banca/</link>
+    <description>Recent content in banca on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 27 Apr 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/banca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un artículo muy poco BdE del BdE</title>
+      <link>/2021/04/27/un-articulo-muy-poco-bde-del-bde/</link>
+      <pubDate>Tue, 27 Apr 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/04/27/un-articulo-muy-poco-bde-del-bde/</guid>
+      <description>En tiempos, cuando me dedicaba a esas cosas, el principal motivo por el que en los bancos que conocí por dentro no usaban otra cosa que GLMs era el BdE. Más concretamente, el carpetovetonismo del BdE: el BdE quería y esperaba GLMs, los bancos construían y mostraban GLMs a los reguladores y todo el mundo vivía feliz y despreocupado de las novedades en su covacha.
+Ahora, en el BdE han publicado esto, cuyo resumen es:</description>
+    </item>
+    
+    <item>
+      <title>¿Criptobayesianismo?</title>
+      <link>/2020/06/26/criptobayesianismo/</link>
+      <pubDate>Fri, 26 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/26/criptobayesianismo/</guid>
+      <description>Titulo así a cuenta de un proceso mental de varios saltos producidos a partir de la lectura del muy recomendable Five ways to ensure that models serve society: a manifesto. En particular del parrafito
+De hecho, el periodo 2007-2008 me pilló haciendo horario de oficina en la planta octava sede mundial de Barclays primero y en la tercera de la de KTB (Krung Thai Bank) luego.
+Recuerdo comentar con algunos colegas cómo determinados modelos de gestión de riesgo no preveían la posibilidad de una caída en los precios de la vivienda.</description>
+    </item>
+    
+    <item>
+      <title>¿Lo publico y nos echamos unas risas todos?</title>
+      <link>/2018/01/10/lo-publico-y-nos-echamos-unas-risas-todos/</link>
+      <pubDate>Wed, 10 Jan 2018 08:13:49 +0000</pubDate>
+      
+      <guid>/2018/01/10/lo-publico-y-nos-echamos-unas-risas-todos/</guid>
+      <description>Estos días, haciendo limpieza de cajones, estanterías y directorios, he dado con un documentito que se me quedó accidentalmente pegado al disco duro hace muchos, muchos años.
+Es la documentación metodológica y técnica, firmada por una consultora de postín, de los algoritmos de cálculo de la probabilidad de impago en una de esas entidades financieras que quebraron en su día con enorme estrépito (y perjuicio para el erario público, sea dicho de paso).</description>
+    </item>
+    
+  </channel>
+</rss>

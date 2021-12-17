@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mezclas on datanalytics</title>
+    <link>/tags/mezclas/</link>
+    <description>Recent content in mezclas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Mar 2019 08:13:31 +0000</lastBuildDate><atom:link href="/tags/mezclas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mezclas y regularización</title>
+      <link>/2019/03/13/mezclas-y-regularizacion/</link>
+      <pubDate>Wed, 13 Mar 2019 08:13:31 +0000</pubDate>
+      
+      <guid>/2019/03/13/mezclas-y-regularizacion/</guid>
+      <description>Cuando mezclas agua y tierra obtienes barro, una sustancia que comparte propiedades de sus ingredientes. Eso lo tenía muy claro de pequeño. Lo que en esa época me sorprendió mucho es que el agua fuese una mezcla de oxígeno e hidrógeno: ¡era muy distinta de sus componentes!
+Porque no era una mezcla, obviamente. Era una combinación. En una combinación emergen propiedades inesperadas. Las mezclas, sin embargo, son más previsibles.
+Pensaba en esto mientras escribía sobre la regularización de modelos (ridge, lasso y todas esas cosas).</description>
+    </item>
+    
+    <item>
+      <title>Sobre el problema de las martingalas: ¿cuántos sabíais la respuesta?</title>
+      <link>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</link>
+      <pubDate>Tue, 19 Dec 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/</guid>
+      <description>Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefirió dejarse llevar por la intuición y errar. Pero volvamos a los hechos. Dado
+En un país hipotético, las familias tienen críos hasta que nace el primer varón. En un año, en promedio, nacen:
+&amp;mdash; Carlos Gil Bellosta (@gilbellosta) December 10, 2017  la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de vectores (III): las funciones involucradas</title>
+      <link>/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/</link>
+      <pubDate>Mon, 05 Sep 2016 08:13:45 +0000</pubDate>
+      
+      <guid>/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/</guid>
+      <description>En esta tercera entrada de la serie (aquí está la primera y la segunda) quiero ocuparme de las que llamé $latex f_1$ y $f_2$, las funciones involucradas. Que son las que obran la magia, por supuesto. Con casi cualquier otra opción se habría obtenido una patochada, pero estas son funciones especiales.
+Las funciones en cuestión están extraídas de esta,
+que es una representación esquemática (extraída de aquí) de una red neuronal para el reconocimiento de imágenes.</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de vectores (II): un caso de uso</title>
+      <link>/2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/</link>
+      <pubDate>Fri, 02 Sep 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/</guid>
+      <description>Siguiendo con el tema de la entrada de ayer, voy a tomar un vector $latex x_1$ tal como
+y un vector $latex x_2$ como, por ejemplo,
+para, con el concurso de unas funciones que revelaré mañana, obtener la siguiente mezcla de ambos:
+Pas mal!</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de vectores (I): casi todas las matemáticas de la cosa</title>
+      <link>/2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/</link>
+      <pubDate>Thu, 01 Sep 2016 08:13:00 +0000</pubDate>
+      
+      <guid>/2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/</guid>
+      <description>Arranco con esta una serie que estimo que será de tres entradas sobre cómo mezclar vectores con una aplicacioncilla que tal vez sorprenda a alguno.
+Comenzaré fijando un vector $latex x_1 \in R^n$ y una función casi biyectiva $latex f_1:R^n \mapsto R^m$ todo lo suave (continua, diferenciable, etc.) que nos dé la gana. Casi no es un concepto matemático; el concepto propiamente matemático usaría el prefijo cuasi-, pero espero que se me permita seguir y prometo que lo que quiero dar a entender quedará claro más adelante.</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de distribuciones con rstan</title>
+      <link>/2016/03/03/mezclas-de-distribuciones-con-rstan/</link>
+      <pubDate>Thu, 03 Mar 2016 09:13:13 +0000</pubDate>
+      
+      <guid>/2016/03/03/mezclas-de-distribuciones-con-rstan/</guid>
+      <description>y &amp;lt;- c(rnorm(1000), rnorm(2000, 1, 0.5))
+es una mezcla de dos normales (N(0, 1) y N(1, 0.5)) con pesos 1/3 y 2/3 respectivamente. Pero, ¿cómo podríamos estimar los parámetros a partir de esos datos?
+Se puede usar, p.e., flexmix, que implementa eso del EM. Pero en el librillo de este maestrillo dice
+library(rstan) y &amp;lt;- c(rnorm(1000), rnorm(2000, 1, 0.5)) codigo &amp;lt;- &amp;quot; data { int&amp;lt;lower=1&amp;gt; K; // number of mixture components int&amp;lt;lower=1&amp;gt; N; // number of data points real y[N]; // observations } parameters { simplex[K] theta; // mixing proportions real mu[K]; // locations of mixture components real&amp;lt;lower=0&amp;gt; sigma[K]; // scales of mixture components } model { real ps[K]; // temp for log component densities sigma ~ cauchy(0,2.</description>
+    </item>
+    
+  </channel>
+</rss>

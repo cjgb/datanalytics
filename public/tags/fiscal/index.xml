@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fiscal on datanalytics</title>
+    <link>/tags/fiscal/</link>
+    <description>Recent content in fiscal on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 13 Sep 2018 08:13:23 +0000</lastBuildDate><atom:link href="/tags/fiscal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contraargumentando (materialmente) sobre la falacia del fiscal</title>
+      <link>/2018/09/13/contraargumentando-materialmente-sobre-la-falacia-del-fiscal/</link>
+      <pubDate>Thu, 13 Sep 2018 08:13:23 +0000</pubDate>
+      
+      <guid>/2018/09/13/contraargumentando-materialmente-sobre-la-falacia-del-fiscal/</guid>
+      <description>Hace un par de días hablé de la falacia del fiscal y granos de arroz. La entrada iba acompañada de
+y la lección era: es raro no encontrar ningún clúster cuando se tiran al azar granos de arroz sobre una superficie. De lo que se derivaban más cosas que es ocioso repetir aquí.
+Pero el gráfico no es desconocido para los viejos del lugar: se parece mucho al de la página 319 de ESL.</description>
+    </item>
+    
+    <item>
+      <title>La falacia del fiscal: la/mi mejor explicación para profanos hasta la fecha</title>
+      <link>/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/</link>
+      <pubDate>Tue, 11 Sep 2018 08:13:45 +0000</pubDate>
+      
+      <guid>/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/</guid>
+      <description>Leyendo The Tiger That Isn&amp;rsquo;t di con una manera alternativa para explicar la llamada falacia del fiscal de la que ya me he ocupado aquí y aquí.
+Relata lo ocurrido en un pueblo inglés en el que una noche, unos vecinos (presuntamente), descendientes sin duda de aquellos campesinos búlgaros que huían de la vacuna, echaron abajo una antena de telefonía móvil que tenía al pueblo en vilo (la historia, aquí). Porque, resulta, alrededor de ella se habían dado recientemente n casos de cáncer: aquello era un clúster de cáncer.</description>
+    </item>
+    
+    <item>
+      <title>De nuevo, la falacia del fiscal (aplicada a fiscales que fenecen)</title>
+      <link>/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/</link>
+      <pubDate>Thu, 30 Nov 2017 08:13:38 +0000</pubDate>
+      
+      <guid>/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/</guid>
+      <description>Cosas altamente improbables ocurren a diario. Es altamente improbable que no ocurran eventos altamente improbables.
+A veces te ocurre un evento altamente improbable cerca de ti, como, por ejemplo, que el número de tu billete de lotería coincide con el que cantan el día 22 de diciembre unos niños en la tele. Y todo bien. A veces, van y se mueren un par de críos en el sitio donde trabajas y te empapelan malamente.</description>
+    </item>
+    
+    <item>
+      <title>La falacia del fiscal (pero con frecuencias naturales)</title>
+      <link>/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/</link>
+      <pubDate>Wed, 21 Oct 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/</guid>
+      <description>No sé si alguien conoce la historia de Sally Clark. Fue condenada por el asesinato de sus dos hijos. Ambos padecieron, según ella, el síndrome de la muerte súbita del lactante. La probabilidad, sin embargo, de que sus dos hijos lo padecieran (supuesto que son eventos independientes, i.e., que no hay, por ejemplo, factores genéticos comunes) era muy baja: una de 73 millones. Por eso la enchironaron.
+Pero, ¿qué es 1 / 73e6?</description>
+    </item>
+    
+  </channel>
+</rss>

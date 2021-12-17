@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>madrid on datanalytics</title>
+    <link>/tags/madrid/</link>
+    <description>Recent content in madrid on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 20 Apr 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/madrid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activa Madrid: el laboratorio de ideas</title>
+      <link>/2020/04/20/activa-madrid-el-laboratorio-de-ideas/</link>
+      <pubDate>Mon, 20 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/20/activa-madrid-el-laboratorio-de-ideas/</guid>
+      <description>Reproduzco de aquí:</description>
+    </item>
+    
+    <item>
+      <title>Hospitales y camas en la Comunidad de Madrid</title>
+      <link>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</link>
+      <pubDate>Mon, 23 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/</guid>
+      <description>[Enhorabuena, pienses lo que pienses, en esta entrada vas a encontrar argumentos que reforzarán tus prioris.]
+Por un lado, nos cuentan que los políticos que han gobernado la CM (Comunidad de Madrid, en lo que sigue) han desmantelado la sanidad (particularmente, la pública). Por otro, jamás me ha sucedido ver un cráter y que me digan: allí hubo un hospital. Bueno, sí, el hospital Puerta de Hierro está abandonado pero, parece ser, fue trasladado de Madrid a Majadahonda.</description>
+    </item>
+    
+    <item>
+      <title>Casos de coronavirus en Madrid provincia: un modelo muy crudo basado en la mortalidad</title>
+      <link>/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/</link>
+      <pubDate>Thu, 19 Mar 2020 17:48:07 +0000</pubDate>
+      
+      <guid>/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/</guid>
+      <description>[Nota: si no sabes interpretar las hipótesis embebidas en el código que publico, que operan como enormes caveats, no hagas caso en absoluto a los resultados. He publicado esto para ver si otros que saben más que yo lo pulen y consiguen un modelo más razonable usándolo tal vez, ojalá, como núcleo.]
+[Edición: He subido el código a GitHub.]
+[El código de esta sección y los resultados contienen errores de bulto; consúltese el código de GitHub.</description>
+    </item>
+    
+    <item>
+      <title>0.7% NYC - MAD .3%</title>
+      <link>/2020/01/20/0-7-nyc-mad-3/</link>
+      <pubDate>Mon, 20 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/20/0-7-nyc-mad-3/</guid>
+      <description>Ayer leí este artículo en el que se denuncia cómo en Nueva York, donde tan elevados son los alquileres, apenas se construyen nuevos apartamentos. En 2017, al parecer, su número creció apenas el 0.7%.
+Pero, ¿a quién le importa Nueva York? Veamos qué pasa en Madrid. Gracias al buen hacer de su ayuntamiento, tenemos datos que resumo aquí:
+[table id=2 /]
+No voy a comentar nada. Ni siquiera sobre los solares que crían ratas a diez minutos de Sol.</description>
+    </item>
+    
+    <item>
+      <title>XI Jornadas de Usuarios de R</title>
+      <link>/2019/07/24/xi-jornadas-de-usuarios-de-r/</link>
+      <pubDate>Wed, 24 Jul 2019 09:13:44 +0000</pubDate>
+      
+      <guid>/2019/07/24/xi-jornadas-de-usuarios-de-r/</guid>
+      <description>Esta entrada es un (otro, que sumar a este o este) recordatorio de que las XI Jornadas de Usuarios de R están en marcha.
+Y que serán en Madrid, del 14 al 16 de noviembre, etc. Información toda ella que los enlaces anteriores extienden debidamente.
+(Además hay una tarifa reducida cuyo plazo termina, aviso, muy, muy pronto.)</description>
+    </item>
+    
+    <item>
+      <title>Causalidad. Atribución. Madrid Central.</title>
+      <link>/2019/06/05/causalidad-atribucion-madrid-central/</link>
+      <pubDate>Wed, 05 Jun 2019 09:13:59 +0000</pubDate>
+      
+      <guid>/2019/06/05/causalidad-atribucion-madrid-central/</guid>
+      <description>Si hay algo inaprensible, es la causalidad. No la que entiende Maripili, claro, sino esta. Pero vivimos en tiempos de tremendamente polémicas y presuntamente potentísimas y causas eficientes. Verbigracia, la desigualdad&amp;hellip; y Madrid Central:
+ Que dizque hace subir el precio de los pisos el 2.67% más que en su derredor. * Que dizque incrementa / reduce el tráfico en su frontera. * Que dizque&amp;hellip;  Argumentas en términos causales cuando esperas que te lea Maripili.</description>
+    </item>
+    
+    <item>
+      <title>Taxis (y su huelga) y tráfico (en Madrid)</title>
+      <link>/2019/02/05/taxis-y-su-huelga-y-trafico-en-madrid/</link>
+      <pubDate>Tue, 05 Feb 2019 08:13:30 +0000</pubDate>
+      
+      <guid>/2019/02/05/taxis-y-su-huelga-y-trafico-en-madrid/</guid>
+      <description>El tráfico (rodado) en una ciudad grande (como Madrid) es un sistema complejo.
+Los sistemas complejos buscan equilibrios. Un ecosistema es un sistema complejo en el que los corzos comen hierba y los lobos comen corzos. El número de corzos y zorros se autodetermina mutuamente (¿Lotka-Volterra?). De tal manera, además, que siempre están en el límite de la supervivencia: es el hambre y la necesidad la que regula las poblaciones. Hobbes diría que la vida en un sistema complejo es desagradable, brutal y corta.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Madrid Central</title>
+      <link>/2018/12/03/sobre-madrid-central/</link>
+      <pubDate>Mon, 03 Dec 2018 08:13:55 +0000</pubDate>
+      
+      <guid>/2018/12/03/sobre-madrid-central/</guid>
+      <description>[Lamento hacer una entrada que difícilmente encaja con el resto de las que suelo tratar por aquí. Pero son tantos los que preguntan mi opinión al respecto que he optado por redactarlas y contestarles con una url.]
+Lo de Madrid Central no se ha notado en absoluto en mi barrio. Ni se notará. Vivo en una de las antiguas APR (áreas de prioridad residencial) de Madrid, que existen desde la noche de los tiempos y que son una especie de mini Madrid Central:</description>
+    </item>
+    
+    <item>
+      <title>Disponible el fichero de datos abiertos más goloso de ambas castillas: las rutas de Bicimad</title>
+      <link>/2018/09/25/disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad/</link>
+      <pubDate>Tue, 25 Sep 2018 08:13:27 +0000</pubDate>
+      
+      <guid>/2018/09/25/disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad/</guid>
+      <description>Albricias, el ayuntamiento de Madrid ha liberado el fichero más goloso de ambas castillas: el de las rutas de usuarios de Bicimad, viaje a viaje, con su estación de origen, estación de destino, tiempo de recorrido, etc. Tiempo os falta para echarle un vistazo y hacer cosas chulas con él.
+Los datos están aquí.
+Se puede leer con código no muy distinto de este:
+library(RJSONIO) raw &amp;lt;- readLines(&amp;quot;201808_Usage_Bicimad.json&amp;quot;) dat &amp;lt;- iconv(raw, &amp;quot;latin1&amp;quot;, &amp;quot;utf8&amp;quot;) dat &amp;lt;- sapply(dat, fromJSON)  A bote pronto, se me ocurren algunas cosas que se pueden hacer con esos datos:</description>
+    </item>
+    
+    <item>
+      <title>La magnitud de la sequía</title>
+      <link>/2017/12/04/la-magnitud-de-la-sequia/</link>
+      <pubDate>Mon, 04 Dec 2017 08:13:28 +0000</pubDate>
+      
+      <guid>/2017/12/04/la-magnitud-de-la-sequia/</guid>
+      <description>Cuando tienes una serie temporal al uso (sin entrar a definir qué es eso), uno puede aplicar descomposiciones tmabién al uso, como stl, para extraer tendencia y estacionalidad, de la forma
+como en esta entrada previa.
+Lluvia.
+La serie de la lluvia es otra cosa. Uno ve si llueve o no llueve (típicamente no). Lo que uno no ve es la probabilidad, que varía a lo largo del año, de que llueva.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre correlaciones espurias y más sobre correlación y causalidad</title>
+      <link>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</link>
+      <pubDate>Mon, 27 Nov 2017 08:13:17 +0000</pubDate>
+      
+      <guid>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</guid>
+      <description>Hoy toca esto:
+Se trata de una invitación para leer el artículo Los picos de contaminación coinciden con un aumento radical en los ingresos hospitalarios, un cúmulo de desafueros epilogados por el ya habitual
+En primer lugar y antes de nada, me es obligado felicitar a los dos autores del estudio: desde el sector privado, sin ningún tipo de subvención pública y con coste cero para el contribuyente, han llegado a la misma conclusión que un señor, este, que, aparte de omitir la coletilla anterior en sus artículos, nos cuesta a todos un chorro de euros cada mes.</description>
+    </item>
+    
+    <item>
+      <title>Bus al norte, bus al sur</title>
+      <link>/2017/09/29/bus-al-norte-bus-al-sur/</link>
+      <pubDate>Fri, 29 Sep 2017 08:13:35 +0000</pubDate>
+      
+      <guid>/2017/09/29/bus-al-norte-bus-al-sur/</guid>
+      <description>El día 2017-09-20 hubo gente que tomó el autobús en Madrid. Se montó en una determinada parada y la siguiente estaba situada o bien al norte o bien al sur de la anterior.
+He contado, por horas, cuánta gente viajó en ese primer tramo, hacia el norte y quién lo hizo hacia el sur y he obtenido
+que es —al contrario de los resultados presuntamente basados en datos pero, en el fondo ideológicamente sesgados con los que nos quieren tan frecuentemente vender motos— totalmente compatible con lo que todos los que nos movemos por Madrid sabemos.</description>
+    </item>
+    
+    <item>
+      <title>Dizque al sexto mes... pero ¿y los datos?</title>
+      <link>/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/</link>
+      <pubDate>Wed, 31 May 2017 08:13:29 +0000</pubDate>
+      
+      <guid>/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/</guid>
+      <description>He leído esto, que trata de lo distinta que es
+a la izquierda y a la derecha de la línea roja punteada.
+La historia contada desde las posterioris basadas en datos difiere de la apriorística (recordad: ideología = priori). En concreto
+Reconoceréis una aplicación de causalImpact y lo que significa el gráfico está comentado en todas partes.
+Código y datos, por mor de la reproducibilidad, aquí.</description>
+    </item>
+    
+    <item>
+      <title>Me siento mal porque han sido muy majos conmigo y ahora no sé qué hacer con lo que me han mandado</title>
+      <link>/2017/05/18/me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado/</link>
+      <pubDate>Thu, 18 May 2017 08:13:45 +0000</pubDate>
+      
+      <guid>/2017/05/18/me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado/</guid>
+      <description>Recibo esto en mi correo electrónico:
+ANTECEDENTES DE HECHO
+PRIMERO.- Con fecha de entrada en el registro del Ayuntamiento de Madrid 16 de abril de 2017 y núm. de anotación 2017/0367535, se ha recibido solicitud formulada al amparo de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTAIP en adelante) por D Carlos Javier Gil Bellosta en la que solicita:
+“Listado de los bienes inmuebles de la Empresa Municipal de Vivienda y Suelo desglosados por dirección (calle y numero) y uso actual.</description>
+    </item>
+    
+    <item>
+      <title>Avisos recibidos, avisos resueltos y la creciente suma acumulada</title>
+      <link>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</link>
+      <pubDate>Mon, 24 Apr 2017 08:13:24 +0000</pubDate>
+      
+      <guid>/2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/</guid>
+      <description>El ayuntamiento de Madrid publica información (desde 2015) de los avisos recibidos por los ciudadanos a través de los distintos canales puestos a su disposición (010, LineaMadrid, la app, etc.).
+He bajado los datos y he pintado
+que es la suma acumulada de la diferencia entre los avisos entrantes y los resueltos día a día usando
+library(data.table) library(xts) recibidos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;recibi&amp;quot;), fread)) resueltos &amp;lt;- rbindlist(lapply(dir(pattern = &amp;quot;resu&amp;quot;), fread)) recibidos.</description>
+    </item>
+    
+    <item>
+      <title>El extraño y extremoso caso de los empleados fantasma de Galapagar</title>
+      <link>/2017/04/11/el-extrano-y-extremoso-caso-de-los-empleados-fantasma-de-galapagar/</link>
+      <pubDate>Tue, 11 Apr 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/04/11/el-extrano-y-extremoso-caso-de-los-empleados-fantasma-de-galapagar/</guid>
+      <description>El planteamiento:
+Su versión larga exige leer El misterio de los 2.875 empleos nuevos de Galapagar.
+La versión corta: en Galapagar, un pequeño municipio de la provincia de Madrid, el número de afiliados a la Seguridad Social crece súbita, inopinada e inexplicablemente en casi 3000 personas (50% de incremento).
+El nudo:
+Comienzan a progarse teorías conspiranoicas. Léanse los comentarios a la noticia anterior. La gente piensa que hay gato encerrado.</description>
+    </item>
+    
+    <item>
+      <title>Datos abiertos y farolas solares: más motivos para el escepticismo</title>
+      <link>/2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/</link>
+      <pubDate>Mon, 27 Mar 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/</guid>
+      <description>La semana pasada hice constar mi escepticismo acerca del poder transformativo de los datos abiertos. Mencionaba dos ámbitos en los que existen datos no solo abiertos, sino abundantes y en tiempo real: el de los deportes y el de las finanzas. Y cómo, a pesar de ello, seguimos siendo, como sociedad, mendrugos tanto en lo deportivo como en lo financiero.
+Valga un tercer caso que dispongo a exponer.
+Tenemos igualmente datos abiertos, abundantes y en tiempo real de producción y consumo eléctrico y de su mix, i.</description>
+    </item>
+    
+    <item>
+      <title>Daré una charla en el Betabeers Madrid (especial OpenData)</title>
+      <link>/2017/03/10/dare-una-charla-en-el-betabeers-madrid-especial-opendata/</link>
+      <pubDate>Fri, 10 Mar 2017 08:13:13 +0000</pubDate>
+      
+      <guid>/2017/03/10/dare-una-charla-en-el-betabeers-madrid-especial-opendata/</guid>
+      <description>Es el 16 de marzo (de 2017), es decir, el jueves que viene y estaré muy bien acompañado, como puede comprobarse en el programa.
+Aunque aún no indique ahí de qué hablaré, tengo la presentación hecha a falta, únicamente del título. Adelanto únicamente que el contenido está muy condicionado por lo que rematará la reunión, una mesa redonda sobre los datos abiertos en Madrid.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Todas&#34; las terrazas de Madrid</title>
+      <link>/2017/03/02/todas-las-terrazas-de-madrid/</link>
+      <pubDate>Thu, 02 Mar 2017 08:13:23 +0000</pubDate>
+      
+      <guid>/2017/03/02/todas-las-terrazas-de-madrid/</guid>
+      <description>es un mapa en el que, en rojo, figuran todas (véase la coda) las terrazas de Madrid. Los datos están extraídos del censo de locales, sus actividades y terrazas de hostelería y restauración del ayuntamiento y están procesados con
+terrazas &amp;lt;- fread(&amp;quot;http://datos.madrid.es/egob/catalogo/200085-17-censo-locales.txt&amp;quot;) terrazas$coordenada_x_local &amp;lt;- as.numeric(gsub(&amp;quot;,&amp;quot;, &amp;quot;.&amp;quot;, terrazas$coordenada_x_local)) terrazas$coordenada_y_local &amp;lt;- as.numeric(gsub(&amp;quot;,&amp;quot;, &amp;quot;.&amp;quot;, terrazas$coordenada_y_local)) tmp &amp;lt;- terrazas[terrazas$coordenada_x_local &amp;gt; 1000, ] tmp &amp;lt;- terrazas[terrazas$coordenada_y_local &amp;gt; 3e6,] # UTM a siglo XXI library(rgdal) terrazas.utm &amp;lt;- SpatialPoints(cbind(tmp$coordenada_x_local, tmp$coordenada_y_local), proj4string=CRS(&amp;quot;+proj=utm +zone=30&amp;quot;)) terrazas.</description>
+    </item>
+    
+    <item>
+      <title>Que hagan lo que quieran en Plaza de España; yo, la verdad, no tengo tiempo para leer 350 MB de documentación</title>
+      <link>/2016/10/06/que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion/</link>
+      <pubDate>Thu, 06 Oct 2016 08:13:18 +0000</pubDate>
+      
+      <guid>/2016/10/06/que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion/</guid>
+      <description>Ha salido lo de la votación de plaza de España. Un festival para la democracia.
+Yo, de hecho, ya voté en la primera ronda. Voté que la dejasen como está. Por un motivo muy simple: cada vez que camino por las calles próximas a mi casa, como haya llovido no hace tanto y tenga mala suerte, piso en una de esas baldosas mal fijadas que proyectan alevosos chorros de agua putrafacta por la pierna p&amp;rsquo;arriba.</description>
+    </item>
+    
+    <item>
+      <title>Madrid, ¿&#34;ciudad inteligente&#34;?</title>
+      <link>/2016/09/13/madrid-ciudad-inteligente-2/</link>
+      <pubDate>Tue, 13 Sep 2016 08:13:29 +0000</pubDate>
+      
+      <guid>/2016/09/13/madrid-ciudad-inteligente-2/</guid>
+      <description>Aquí leí cómo
+una frase que bifurcó mi paseo por internet y me llevó, por un lado, a dar con la licitación del arrendamiento de las suscripciones de productos software POSTGRES, cosa que amerita por sí misma una entrada específica y, por el otro, me hizo que volviera a acordarme del proyecto MiNT, del que me ocuparé hoy.
+El proyecto MiNT (buscad proyecto mint madrid en Google) se vendió en 2014 como el que iba a llevar a Madrid al pelotón de cabeza de las ciudades inteligentes.</description>
+    </item>
+    
+    <item>
+      <title>Contaminación y restricciones de tráfico en Madrid: ¿por qué no se puede ni prevenir ni &#34;estimar&#34;?</title>
+      <link>/2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar/</link>
+      <pubDate>Mon, 07 Dec 2015 08:13:26 +0000</pubDate>
+      
+      <guid>/2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar/</guid>
+      <description>Aparentemente, porque así lo establece el protocolo de actuación, del ayuntamiento de la villa. Lo resume la imagen
+
+que bajé de Twitter y que me llamó la atención sobremanera. Algún gobierno municipal decidió en su día que estaba fuera de lugar tanto prevenir como estimar.
+Me preocupa que dicho gobierno municipal estuviese reñido con el refranero en lo concerniente a la prevención. Pero no es el asunto, entiendo, por el que mis lectores me visitan.</description>
+    </item>
+    
+    <item>
+      <title>Madrid decide, propone, vota, etc.</title>
+      <link>/2015/10/09/madrid-decide-propone-vota-etc/</link>
+      <pubDate>Fri, 09 Oct 2015 08:13:44 +0000</pubDate>
+      
+      <guid>/2015/10/09/madrid-decide-propone-vota-etc/</guid>
+      <description>De siempre, no sé por qué motivo, me interesaron esas cosas relacionadas con la democracia directa. En la feria del libro del año nosecuántos compré un libro al respecto (que presté y no me han devuelto). He seguido de cerca del desarrollo de plataformas como Agora y conozco a alguno de sus desarrolladores. Di guerrita en Suiza a los locales para que me explicasen pros, contras y funcionamientos de lo que allí tienen instalado.</description>
+    </item>
+    
+    <item>
+      <title>Madrid, ¿ciudad inteligente? ¿O tal vez solo un poco menos sorda?</title>
+      <link>/2015/04/22/madrid-ciudad-inteligente/</link>
+      <pubDate>Wed, 22 Apr 2015 08:13:16 +0000</pubDate>
+      
+      <guid>/2015/04/22/madrid-ciudad-inteligente/</guid>
+      <description>Madrid es la ciudad más inteligente de Europa. Gracias al proyecto MiNT, con un presupuesto de 14 millones, van a ocurrir cosas de lo más futurista:
+Etc.
+Pareciere que esas cosas tan onerosas y tan 2.0 son cosa de ciencia ficción, que el día que alboreen nos reportarán pingües beneficios. Sin embargo, plataformas similares (salvo en lo de la movilidad) existen hoy en día. Se puede elevar a instancias municipales una reclamación y es posible adjuntar en ella fotos y otros documentos.</description>
+    </item>
+    
+    <item>
+      <title>Global Urban Datafest: seré juez pero no parte</title>
+      <link>/2015/03/02/global-urban-datafest-sere-juez-pero-no-parte/</link>
+      <pubDate>Mon, 02 Mar 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/03/02/global-urban-datafest-sere-juez-pero-no-parte/</guid>
+      <description>El fin de semana que viene (seis y siete de marzo) tendrá lugar el Global Urban Datafest en varias ciudades del mundo. Madrid será una de ellas.
+Hay proyectos y equipos participando en ellos. Igual quieres plantear alguno de los primeros o sumarte (o conformar) uno de los segundos. Puedes deambular por las páginas a las que apuntan los enlaces anteriores para averiguar los detalles. De nuevo, una gran oportunidad para aprender cosas nuevas.</description>
+    </item>
+    
+    <item>
+      <title>Hackatón de datos abiertos, 21 de febrero en Madrid</title>
+      <link>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</link>
+      <pubDate>Thu, 29 Jan 2015 07:13:15 +0000</pubDate>
+      
+      <guid>/2015/01/29/hackaton-de-datos-abiertos-21-de-febrero-en-madrid/</guid>
+      <description>El día 21 de febrero (de 2015) tendrá lugar en Medialab-Prado (¿cómo llegar?) un hackatón de datos abiertos patrocinado por Medialab-Prado y Open Knowledge Spain. El resto de la información puede consultarse aquí.
+Dicho lo cual, ¿deberías ir?
+Pues si tienes 45 años, eres profesor de la Autónoma, etc. lo sabes tú mejor que yo.
+Pero si tienes veintitantos, estudias, has comenzado a trabajar recientemente o estás en el paro, si tienes inquietudes (y las tienes si lees esto), si quieres conocer técnicas nuevas, problemas nuevos, contactar con gente interesante, etc.</description>
+    </item>
+    
+    <item>
+      <title>Si participase en MadData...</title>
+      <link>/2014/07/23/si-participase-en-maddata/</link>
+      <pubDate>Wed, 23 Jul 2014 07:13:36 +0000</pubDate>
+      
+      <guid>/2014/07/23/si-participase-en-maddata/</guid>
+      <description>El otro día ayudé a divulgar por aquí MadData, el datatón de datos abiertos del ayuntamiento de Madrid. Algunos me habéis preguntado si participaré. Pero estoy lejos (y, muy, muy ocupado).
+Eso sí, os voy a contar dónde me gustaría meter la cuchara. En datos del ayuntamiento de Madrid, claro. Pero no los abiertos, ni los públicos, ni los conocidos. Sino los otros.
+Os pongo en precedentes. Sabréis —si habéis seguido estas páginas— que soy el copropietario de MartinaCocina, un local que no sé si clasificar como cafetería o restaurante, en el centro de Madrid.</description>
+    </item>
+    
+    <item>
+      <title>MadData: datatón de datos abiertos</title>
+      <link>/2014/07/21/maddata-dataton-de-datos-abiertos/</link>
+      <pubDate>Mon, 21 Jul 2014 07:13:19 +0000</pubDate>
+      
+      <guid>/2014/07/21/maddata-dataton-de-datos-abiertos/</guid>
+      <description>Copio (adaptándolo) de aquí:
+_everis y MadridEmprende organizan el primer Open Datathon de Madrid.
+La competición consiste en crear soluciones innovadoras a partir del uso de datos abiertos. MADdata pondrá a disposición de cada participante datos de la ciudad de Madrid, procedentes del portal de datos abiertos del Ayuntamiento, de servicios públicos, de transporte y movilidad y de redes sociales._
+
+La inscripción está abierta hasta el 25 de julio de 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

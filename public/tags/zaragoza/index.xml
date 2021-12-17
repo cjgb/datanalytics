@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zaragoza on datanalytics</title>
+    <link>/tags/zaragoza/</link>
+    <description>Recent content in zaragoza on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 13 Jan 2014 08:03:37 +0000</lastBuildDate><atom:link href="/tags/zaragoza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nueva edición de mi taller de R y Hadoop en Zaragoza</title>
+      <link>/2014/01/13/nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza/</link>
+      <pubDate>Mon, 13 Jan 2014 08:03:37 +0000</pubDate>
+      
+      <guid>/2014/01/13/nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza/</guid>
+      <description>Los días 17 y 18 de enero impartiré una versión extendida (¡siete horas!) de mi taller de R y Hadoop en Zaragoza. Para los interesados:
+ * [Información adicional](http://www.zaragoza.es/ciudad/centros/detalle_Agenda?id=113212) (fechas, horas, lugar) * [Requisitos de hardware y software para el taller](http://www.datanalytics.com/blog/2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/)  El temario será el mismo que en las ediciones anteriores aunque en esta ocasión habrá más tiempo para profundizar en algunos conceptos, realizar ejercicios adicionales, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

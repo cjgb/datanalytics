@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anomalías on datanalytics</title>
+    <link>/tags/anomal%C3%ADas/</link>
+    <description>Recent content in anomalías on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 27 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/anomal%C3%ADas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anomalías, cantidad de información e &#34;isolation forests&#34;</title>
+      <link>/2020/10/27/anomalias-cantidad-de-informacion-e-isolation-forests/</link>
+      <pubDate>Tue, 27 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/27/anomalias-cantidad-de-informacion-e-isolation-forests/</guid>
+      <description>Identificar a un tipo raro es sencillo: el que lleva tatuada a su madre en la frente. Identificar a un tipo normal es más complicado: altura&amp;hellip; normal, pelo&amp;hellip; ¿moreno? Es&amp;hellip; como&amp;hellip; normal, ni gordo ni flaco&amp;hellip;
+Identificar transacciones de tarjeta normales es prolijo: gasta más o menos como todos en supermercados, un poco más que la media en restaurantes, no tiene transacciones de gasolineras&amp;hellip; Identificar transacciones fraudulentas es (o puede ser) sencillo: gasta miles de euros en las farmacias de los aeropuertos y nada en otros sitios.</description>
+    </item>
+    
+    <item>
+      <title>Detrás de la detección de anomalías en series temporales</title>
+      <link>/2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/</link>
+      <pubDate>Wed, 16 Nov 2016 08:13:02 +0000</pubDate>
+      
+      <guid>/2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/</guid>
+      <description>Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es un problema que tiene que ver con dónde colocar las marcas azules en
+El anterior es el gráfico construido con los datos de ejemplo del paquete AnomalyDetection. De hecho, así:
+library(AnomalyDetection) data(raw_data) res &amp;lt;- AnomalyDetectionTs(raw_data, max_anoms=0.02, direction=&#39;both&#39;, plot=TRUE) res$plot  Aparentemente, AnomalyDetectionTs hace lo que cabría sospechar. Primero, una descomposición de la serie temporal, tal como</description>
+    </item>
+    
+  </channel>
+</rss>

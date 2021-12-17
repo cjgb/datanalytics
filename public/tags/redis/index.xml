@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redis on datanalytics</title>
+    <link>/tags/redis/</link>
+    <description>Recent content in redis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Feb 2016 09:13:43 +0000</lastBuildDate><atom:link href="/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>storr: como Redis, pero con R</title>
+      <link>/2016/02/09/storr-como-redis-pero-con-r/</link>
+      <pubDate>Tue, 09 Feb 2016 09:13:43 +0000</pubDate>
+      
+      <guid>/2016/02/09/storr-como-redis-pero-con-r/</guid>
+      <description>Probablemente no habéis utilizado nunca Redis. Redis es un sistema de almacenamiento basado en parejas clave-valor. Es similar a un diccionario de Python o a un entorno en R. Salvo que el almacenamiento es externo al proceso: los datos se guardan en un sistema distribuido y potencialmente ilimitado en cuanto a capacidad.
+Si queréis probar algo parecido, además de los diccionarios y los entornos, podéis probar con storr , un paquete reciente de R.</description>
+    </item>
+    
+  </channel>
+</rss>

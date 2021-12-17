@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scikit-learn on datanalytics</title>
+    <link>/tags/scikit-learn/</link>
+    <description>Recent content in scikit-learn on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 02 Dec 2019 09:13:00 +0000</lastBuildDate><atom:link href="/tags/scikit-learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre los coeficientes de los GLM en Scikit-learn</title>
+      <link>/2019/12/02/sobre-los-coeficientes-de-los-glm-en-scikit-learn/</link>
+      <pubDate>Mon, 02 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/02/sobre-los-coeficientes-de-los-glm-en-scikit-learn/</guid>
+      <description>Pensé que ya había escrito sobre el asunto porque tropecé con él en un proyecto hace un tiempo. Pero mi menoria se había confundido con otra entrada, Sobre la peculiarisima implementacion del modelo lineal en (pseudo-)Scikit-learn, donde se discute, precisamente, un problema similar si se lo mira de cierta manera o diametralmente opuesto si se ve con otra perspectiva.
+Allí el problema era que Scikit-learn gestionaba muy sui generis el insidioso problema de la colinealidad.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la peculiarísima implementación del modelo lineal en (pseudo-)scikit-learn</title>
+      <link>/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/</link>
+      <pubDate>Wed, 17 Jul 2019 09:13:55 +0000</pubDate>
+      
+      <guid>/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/</guid>
+      <description>Si ejecutas
+import numpy as np from sklearn.linear_model import LinearRegression n = 1000 X = np.random.rand(n, 2) Y = np.dot(X, np.array([1, 2])) + 1 + np.random.randn(n) / 2 reg = LinearRegression().fit(X, Y) reg.intercept_ reg.coef_  se obtiene más o menos lo esperado. Pero si añades una columna linealmente dependiente,
+X = np.column_stack((X, 1 * X[:,1]))  ocurren cosas de la más calamitosa especie:
+Y = np.dot(X, np.array([1, 2, 1])) + 1 + np.</description>
+    </item>
+    
+  </channel>
+</rss>

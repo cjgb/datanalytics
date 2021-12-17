@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hunspell on datanalytics</title>
+    <link>/tags/hunspell/</link>
+    <description>Recent content in hunspell on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 20 Feb 2017 08:13:50 +0000</lastBuildDate><atom:link href="/tags/hunspell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probando hunspell para el procesamiento de texto en español</title>
+      <link>/2017/02/20/probando-hunspell-para-el-procesamiento-de-texto-en-espanol/</link>
+      <pubDate>Mon, 20 Feb 2017 08:13:50 +0000</pubDate>
+      
+      <guid>/2017/02/20/probando-hunspell-para-el-procesamiento-de-texto-en-espanol/</guid>
+      <description>El paquete hunspell de R permite procesar texto utilizando como soporte la infraestructura proporcionada por Hunspell, el corrector ortográfico que subyace a muchas aplicaciones en R.
+Existe una viñeta que ilustra el uso del paquete pero, como siempre, en inglés. En español las cosas son parecidas pero, como siempre, nunca exactamente iguales. En esta entrada, por lo tanto, voy a repasar partes de la viñeta aplicándolas a nuestra tan frecuentemente maltratada mas por ello no menos querida por algunos como yo (pausa) lengua.</description>
+    </item>
+    
+  </channel>
+</rss>

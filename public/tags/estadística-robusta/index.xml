@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estadística robusta on datanalytics</title>
+    <link>/tags/estad%C3%ADstica-robusta/</link>
+    <description>Recent content in estadística robusta on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 24 Nov 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/estad%C3%ADstica-robusta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medias ponderadas a lo Uluru</title>
+      <link>/2021/11/24/medias-ponderadas-a-lo-uluru/</link>
+      <pubDate>Wed, 24 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/11/24/medias-ponderadas-a-lo-uluru/</guid>
+      <description>Dicen que el brote de inflación que estamos viviendo es atípico (y según algunos, menos preocupante) porque no está generalizada sino concentrada en un número pequeño de productos.
+Trae The Economist en su número del 6 de noviembre (de 2021) un artículo al respecto que tiene cierto interés estadístico. Comienza comparando la inflación de ahora con la de otros años donde el incremento de los precios fue, de acuerdo con cómo se computa tradicionalmente la inflación, igual, a través de la distribución de los incrementos de precios sobre las distintas categorías:</description>
+    </item>
+    
+    <item>
+      <title>PCA robusto</title>
+      <link>/2021/06/01/pca-robusto/</link>
+      <pubDate>Tue, 01 Jun 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/06/01/pca-robusto/</guid>
+      <description>Esta semana he descubierto el PCA robusto. En la frase anterior he conjugado el verbo en cursiva porque lo he pretendido usar con un significado que matiza el habitual: no es que haya tropezado con él fortuitamente, sino que el PCA robusto forma parte de esa inmensa masa de conocimiento estadístico que ignoro pero que, llegado el caso, con un par de clicks, una lectura en diagonal y la descarga del software adecuado, puedo incorporarlo y usarlo a voluntad.</description>
+    </item>
+    
+    <item>
+      <title>El modelo de Poisson es razonablemente robusto (pero atención a lo de &#34;razonablemente&#34;)</title>
+      <link>/2020/10/07/el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente/</link>
+      <pubDate>Wed, 07 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/07/el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente/</guid>
+      <description>Una de las consencuencias del coronavirus es que vamos a tener que replantearnos lo que significa ajustar series temporales. Es decir, comenzar a ajustar series temporales y no repetir la consabida teoría que subyace a los modelos ARIMA simplemente porque es guay.
+También tendremos que replantearnos qué hacer con los outliers que la pandemia va dejando tras de sí. Y tratar de hacerlo más elegantemente que cierta gente, por supuesto. En particular, habrá que ver cuál y cómo es el efecto de los outliers en determinados modelos.</description>
+    </item>
+    
+    <item>
+      <title>Un decepcionante método de &#34;inferencia robusta&#34; para GLMs de Poisson</title>
+      <link>/2020/09/24/un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson/</link>
+      <pubDate>Thu, 24 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/24/un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson/</guid>
+      <description>[Quod si sal evanuerit in quo sallietur ad nihilum valet ultra nisi ut mittatur foras et conculcetur ab hominibus.]
+Vuelvo con mi monotema de los últimos días: cómo hacer GLMs de Poisson robustos. Encuentro la tesis Robust Inference for Generalized Linear Models: Binary and Poisson Regression y pienso: ajá, será cuestión de copipegar.
+Nada más lejos de la realidad. El método propuesto en la tesis está basado en asignaciones de pesos a las observaciones usando kernels con centros y anchuras basadas respectivamente en</description>
+    </item>
+    
+    <item>
+      <title>¿Qué queda de la &#34;estadística robusta&#34; clásica?</title>
+      <link>/2020/07/08/que-queda-de-la-estadistica-robusta-clasica/</link>
+      <pubDate>Wed, 08 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/08/que-queda-de-la-estadistica-robusta-clasica/</guid>
+      <description>Estos días estoy muy atento a todo lo que tiene que ver con estadística robusta. El motivo es doble:
+ Estoy involucrado en un proyecto donde quieren ajustar ciertos modelos usando funciones de pérdida robustas (Huber, Tukey, etc.). * Hay una $latex 1 &amp;gt; p &amp;gt; 0$ de que me toque meter mano a MOMO y sus derivados para que lo del coronavirus no joda los contrafactuales de 2021 y sucesivos (¿bastará con eliminar unos cuantos meses de 2020?</description>
+    </item>
+    
+    <item>
+      <title>Sobre los peligros del &#34;Tukey biweight&#34;</title>
+      <link>/2020/03/02/sobre-los-peligros-del-tukey-biweight/</link>
+      <pubDate>Mon, 02 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/02/sobre-los-peligros-del-tukey-biweight/</guid>
+      <description>Sigo con ajustes robustos. Y cosas que como matemático, me ponen muy nervioso.
+Una de las maneras de hacer ajustes robustos es la de sustituir la función cuadrática por la biweight. Es decir, utilizar la función que aparece la derecha en
+en lugar de la de la izquierda. O, dicho de otra manera, en lugar de tratar de minimizar
+$latex \sum_i \rho(y_i - f_\alpha(x_i))$
+usando $latex \rho(x) = x^2$, que es la función que se representa a la izquierda y a la que estamos acostumbrados, usar la de la derecha.</description>
+    </item>
+    
+  </channel>
+</rss>

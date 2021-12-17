@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>series temporales on datanalytics</title>
+    <link>/tags/series-temporales/</link>
+    <description>Recent content in series temporales on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 05 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/series-temporales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una potencial consecuencia positiva de lo del coronavirus</title>
+      <link>/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/</link>
+      <pubDate>Mon, 05 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/</guid>
+      <description>Veo
+https://twitter.com/jseabold/status/1312415608764600325
+y consulto en uno (de los más usados y famosos) de esos manuales españoles (ergo, hiperclásicos) de introducción a la modelización de series temporales y no veo capítulo con el que pueda tratarse razonablemente.
+¡Tiempo de actualizarse (p.e., así)!</description>
+    </item>
+    
+    <item>
+      <title>Una herramienta para el análisis no paramétrico de series temporales</title>
+      <link>/2020/09/17/una-herramienta-para-el-analisis-no-parametrico-de-series-temporales/</link>
+      <pubDate>Thu, 17 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/17/una-herramienta-para-el-analisis-no-parametrico-de-series-temporales/</guid>
+      <description>Sí, es un ejemplar de mi colección de rarezas estadísticas, técnicas que no entran dentro del currículo estándar pero que pudieran resultar útiles en algún momento, para algún caso particular.
+Hoy, perfiles matriciales para series temporales, una técnica que sirve esencialmente, para identificar formas que se repiten en series temporales, como
+Entiendo además que, como consecuencia, también para señalar aquellos ciclos en que se produzcan perfiles anómalos, para su evaluación. Pero dejo que consultéis la información en, por ejemplo, aquí y aquí.</description>
+    </item>
+    
+    <item>
+      <title>Análisis y predicción de series temporales intermitentes</title>
+      <link>/2019/11/04/analisis-y-prediccion-de-series-temporales-intermitentes/</link>
+      <pubDate>Mon, 04 Nov 2019 09:13:16 +0000</pubDate>
+      
+      <guid>/2019/11/04/analisis-y-prediccion-de-series-temporales-intermitentes/</guid>
+      <description>Hace tiempo me tocó analizar unas series temporales bastante particulares. Representaban la demanda diaria de determinados productos y cada día esta podía ser de un determinado número de kilos. Pero muchas de las series eran esporádicas: la mayoría de los días la demanda era cero.
+Eran casos de las llamadas series temporales intermitentes.
+Supongo que hay muchas maneras de modelizarlas y, así, al vuelo, se me ocurre pensar en algo similar a los modelos con inflación de ceros.</description>
+    </item>
+    
+    <item>
+      <title>Modelos GARCH (o: no me cuentes tu vida, dame el pxxx modelo generativo y ya)</title>
+      <link>/2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/</link>
+      <pubDate>Fri, 31 May 2019 09:11:07 +0000</pubDate>
+      
+      <guid>/2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/</guid>
+      <description>Los modelos GARCH son otra de esas cosas de las que oyes hablar y como nunca se convierten en problemas de los de carne en el asador, preocupan poco y ocupan menos (más allá de que sabes que se trata de modelos similares a los de series temporales de toda la vida donde la varianza varía de cierta forma a lo largo del tiempo). Pero comienzas a leer cosas como esta y no te enteras de nada: solo hay letras y llamadas a funciones oscuras y oscurantistas.</description>
+    </item>
+    
+    <item>
+      <title>Cointegración: un modelo generativo</title>
+      <link>/2019/01/18/cointegracion-un-modelo-generativo/</link>
+      <pubDate>Fri, 18 Jan 2019 08:13:51 +0000</pubDate>
+      
+      <guid>/2019/01/18/cointegracion-un-modelo-generativo/</guid>
+      <description>[Esta entrada tiene que ver con una nueva manía que he adquirido con la edad: construir modelos generativos para esos modelos explicados siempre de una manera sumamente críptica.]
+La cointegración es una relación muy particular entre dos (o más) series temporales. Una de ellas, $latex x_t$ puede ser cualquiera. Tanto da. Vamos a construir la cointegrada, $latex y_t$. Para ello, primero, necesitamos una serie más, una serie estacionaria, p.e., $latex \nu_t$.</description>
+    </item>
+    
+    <item>
+      <title>Series temporales y &#34;motifs&#34;</title>
+      <link>/2018/09/10/series-temporales-y-motifs/</link>
+      <pubDate>Mon, 10 Sep 2018 08:13:53 +0000</pubDate>
+      
+      <guid>/2018/09/10/series-temporales-y-motifs/</guid>
+      <description>Un motif es un patrón que se repite en una serie temporal:
+Para saber más sobre ellos, p.e., Finding Motif Sets in Time Series. Y para identificarlos con R, STMotif.</description>
+    </item>
+    
+    <item>
+      <title>¿Por que slt-ear si puedes stR-ear?</title>
+      <link>/2018/07/25/por-que-slt-ear-si-puedes-str-ear/</link>
+      <pubDate>Wed, 25 Jul 2018 08:13:42 +0000</pubDate>
+      
+      <guid>/2018/07/25/por-que-slt-ear-si-puedes-str-ear/</guid>
+      <description>La función stl (véase aquí un ejemplo de uso). Pero tiene sus limitaciones.
+El paquete stR la extiende y permite, entre otras cosas, introducir distintos tipos de estacionalidades (p.e., anuales y semanales).</description>
+    </item>
+    
+    <item>
+      <title>gam vs rrff (y, en general, modelos generativos vs cajas negras)</title>
+      <link>/2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/</link>
+      <pubDate>Tue, 15 May 2018 08:13:29 +0000</pubDate>
+      
+      <guid>/2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/</guid>
+      <description>Para modelizar una serie temporal, y simplificándolo mucho, ¿gam o rrff? Como todo, depende. El otro día oí de un caso en el que los segundos vencían a los primeros claramente. Natural.
+Hay contextos con una estructura matemática clara y potente. En particular, muchos en los que trabajo actualmente. ¿Para qué usar una herramienta genérica cuando cuento con una específica? Esos datos, mis datos, exigen estructura matemática.
+Luego hay otros casos en los que uno se lanza al río.</description>
+    </item>
+    
+    <item>
+      <title>Mortalidad en carretera (contada de una manera distinta)</title>
+      <link>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</link>
+      <pubDate>Tue, 09 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</guid>
+      <description>Con motivo de fin de año se ha hablado de fallecidos en accidentes de tráfico como por ejemplo en El Mundo o en El País. Y sí, parece que el número observado de muertos ha aumentado.
+Lo cual es mucho menos relevante de lo que se da a entender. Si tiras una moneda al aire 100 veces y sacas 48 caras y luego repites el experimento, podrías sacar 53 (y habría aumentado el número observado de caras) o 45 (y habría disminuido).</description>
+    </item>
+    
+    <item>
+      <title>Ey, ¡en esta serie hay más muertos que en Juego de Tronos!</title>
+      <link>/2017/09/07/ey-en-esta-serie-hay-mas-muertos-que-en-juego-de-tronos/</link>
+      <pubDate>Thu, 07 Sep 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/09/07/ey-en-esta-serie-hay-mas-muertos-que-en-juego-de-tronos/</guid>
+      <description>La serie en cuestión es esta (abridla en otra pestaña para verla en la plenitud de su definición):
+Con tiene todas (explicar por qué no son todas sería complicado, pero se puede dar el cuantificador casi por bueno) las defunciones (diarias) en España desde la fecha indicada.
+Los datos brutos están en la figura superior. Las tres siguientes tienen la descomposición estacional, la tendencia y los residuos tal como los estima stl.</description>
+    </item>
+    
+    <item>
+      <title>Dizque al sexto mes... pero ¿y los datos?</title>
+      <link>/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/</link>
+      <pubDate>Wed, 31 May 2017 08:13:29 +0000</pubDate>
+      
+      <guid>/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/</guid>
+      <description>He leído esto, que trata de lo distinta que es
+a la izquierda y a la derecha de la línea roja punteada.
+La historia contada desde las posterioris basadas en datos difiere de la apriorística (recordad: ideología = priori). En concreto
+Reconoceréis una aplicación de causalImpact y lo que significa el gráfico está comentado en todas partes.
+Código y datos, por mor de la reproducibilidad, aquí.</description>
+    </item>
+    
+    <item>
+      <title>Lo (mínimo) que hay que saber de series temporales: breve, conciso e indoloro</title>
+      <link>/2017/04/06/lo-minimo-que-hay-que-saber-de-series-temporales-breve-conciso-e-indoloro/</link>
+      <pubDate>Thu, 06 Apr 2017 08:13:28 +0000</pubDate>
+      
+      <guid>/2017/04/06/lo-minimo-que-hay-que-saber-de-series-temporales-breve-conciso-e-indoloro/</guid>
+      <description>Es Forecasting: principles and practice, de Hyndman y Athana­sopou­los.</description>
+    </item>
+    
+    <item>
+      <title>Consultando el número de visitas a páginas de la Wikipedia con R</title>
+      <link>/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/</link>
+      <pubDate>Mon, 27 Feb 2017 08:13:18 +0000</pubDate>
+      
+      <guid>/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/</guid>
+      <description>Hace un tiempo probé el paquete wikipediatrend de R ya no recuerdo para qué. Desafortunadamente, el servicio que consulta debía de estar caído y no funcionó. Ahí quedó la cosa.
+Una reciente entrada de Antonio Chinchón en su blog me ha invitado a revisitar la cuestión y ahora, al parecer, stats.grok.se vuelve a estar levantado. Por lo que se pueden hacer cosas como:
+visitas &amp;lt;- wp_trend(&amp;quot;R_(lenguaje_de_programaci%C3%B3n)&amp;quot;, from = &amp;quot;2010-01-01&amp;quot;, to = Sys.</description>
+    </item>
+    
+    <item>
+      <title>Detrás de la detección de anomalías en series temporales</title>
+      <link>/2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/</link>
+      <pubDate>Wed, 16 Nov 2016 08:13:02 +0000</pubDate>
+      
+      <guid>/2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/</guid>
+      <description>Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es un problema que tiene que ver con dónde colocar las marcas azules en
+El anterior es el gráfico construido con los datos de ejemplo del paquete AnomalyDetection. De hecho, así:
+library(AnomalyDetection) data(raw_data) res &amp;lt;- AnomalyDetectionTs(raw_data, max_anoms=0.02, direction=&#39;both&#39;, plot=TRUE) res$plot  Aparentemente, AnomalyDetectionTs hace lo que cabría sospechar. Primero, una descomposición de la serie temporal, tal como</description>
+    </item>
+    
+    <item>
+      <title>Los límites que la varianza impone a las energías renovables</title>
+      <link>/2016/09/09/los-limites-que-la-varianza-impone-a-las-energias-renovables/</link>
+      <pubDate>Fri, 09 Sep 2016 08:13:28 +0000</pubDate>
+      
+      <guid>/2016/09/09/los-limites-que-la-varianza-impone-a-las-energias-renovables/</guid>
+      <description>El asunto de las energías renovables, a partir de cierto umbral de capacidad instalada, se convierte en uno de gestión de la varianza.
+En este artículo se discuten esos problemas para el caso alemán. No trata tanto el problema de la gestión de los picos (particularmente los intradiarios) como de la variabilidad estacional, dentro del año, de la producción eólica y solar, que no se corresponde con la del consumo.</description>
+    </item>
+    
+    <item>
+      <title>La respuesta es: &#34;Yo no&#34;</title>
+      <link>/2015/12/18/la-respuesta-es-yo-no/</link>
+      <pubDate>Fri, 18 Dec 2015 08:13:13 +0000</pubDate>
+      
+      <guid>/2015/12/18/la-respuesta-es-yo-no/</guid>
+      <description>La pregunta, a propósito, es esta.</description>
+    </item>
+    
+    <item>
+      <title>Series temporales, datos espaciales y espacio-temporales con R</title>
+      <link>/2014/03/19/series-temporales-datos-espaciales-y-espacio-temporales-con-r/</link>
+      <pubDate>Wed, 19 Mar 2014 07:59:05 +0000</pubDate>
+      
+      <guid>/2014/03/19/series-temporales-datos-espaciales-y-espacio-temporales-con-r/</guid>
+      <description>Acaba de publicarse Displaying Time Series, Spatial, and Space-Time Data with R, un libro de Óscar Perpiñán que, conociéndolo como lo conozco, me atrevo a recomendar sin haberlo hojeado siquiera.
+
+Además, Óscar nos ha regalado una guía sobre cómo escribir un libro técnico con Emacs y otras herramientas libres.</description>
+    </item>
+    
+    <item>
+      <title>Predicciones de series temporales a gran escala y en paralelo con R</title>
+      <link>/2012/09/25/predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r/</link>
+      <pubDate>Tue, 25 Sep 2012 07:50:49 +0000</pubDate>
+      
+      <guid>/2012/09/25/predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r/</guid>
+      <description>En el artículo Large-Scale Parallel Statistical Forecasting Computations in R encontrarán los interesados información sobre cómo está usando Google R para realizar predicciones de series temporales a gran escala usando cálculos en paralelo.
+El artículo tiene dos partes diferenciadas. Por un lado está la que describe los métodos que usan para realizar predicciones sobre series temporales. Parecen sentir cierto desdén por la teoría clásica, comprensible dado el gran número de series temporales que tratan de predecir y el mimo —entiéndase como uso de materia gris— que exige aquella.</description>
+    </item>
+    
+    <item>
+      <title>Para los expertos en series temporales (II)</title>
+      <link>/2012/06/25/para-los-expertos-en-series-estadisticas-ii/</link>
+      <pubDate>Mon, 25 Jun 2012 06:27:35 +0000</pubDate>
+      
+      <guid>/2012/06/25/para-los-expertos-en-series-estadisticas-ii/</guid>
+      <description>El otro día propuse un ejercicio de series temporales, el análisis de una serie temporal bastante conocida. Entre otras cosas, para ver si alguien la reconocía. O si daba con un análisis más o menos adecuado de la misma. Y, ¡vaya!, no he tenido ninguna respuesta&amp;hellip;
+De todos modos, antes de realizar mi primera entrada pregunté a un amigo experto en la materia para ver si resultaba demasiado evidente. Le pedí expresamente que no perdiese mucho tiempo con ella.</description>
+    </item>
+    
+    <item>
+      <title>Para los expertos en series temporales</title>
+      <link>/2012/05/17/para-los-expertos-en-series-temporales/</link>
+      <pubDate>Thu, 17 May 2012 10:44:25 +0000</pubDate>
+      
+      <guid>/2012/05/17/para-los-expertos-en-series-temporales/</guid>
+      <description>El otro día, en una bitácora de la que he perdido la referencia, el autor retaba a sus lectores a desentrañar los secretos de una serie temporal famosa. La había desdibujado sometiéndola a una transformación lineal para evitar que fuese identificada en Google.
+
+Lo emulo hoy aquí y dejo a mis lectores esta vez una serie temporal (igualmente desdibujada y que diría yo que famosa) por si alguno, desocupado, quiere hincarle el diente y desentrañar sus misterios.</description>
+    </item>
+    
+  </channel>
+</rss>

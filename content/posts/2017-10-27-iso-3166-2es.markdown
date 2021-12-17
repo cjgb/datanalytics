@@ -1,0 +1,22 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2017-10-27 08:13:53+00:00
+draft: false
+title: ISO 3166-2:ES
+
+url: /2017/10/27/iso-3166-2es/
+categories:
+- varios
+tags:
+- españa
+- estándares
+- iso
+- provincias
+---
+
+El estándar [ISO 3166-2:ES](https://es.wikipedia.org/wiki/ISO_3166-2:ES), ignorado por todos, establece cómo deberían identificarse provincias y comunidades autónomas en España.
+
+Obviamente, ni el INE ni nadie le va a hacer el más minimo caso: seguiremos teniendo que recordar que Zaragoza es la provincia 50, Soria la 42, etc. ¡Qué primitivo, qué contraintiutivo!
+
+Pero no ha de perderse la esperanza: si me lees y algún día te vas a ver en la tesitura de crear algún tipo de base de datos de gentes y lugares de España, recuerda que existe un estándar internacional medianamente nemotécnico y al socaire de las veleidades vernacularizantes.
+

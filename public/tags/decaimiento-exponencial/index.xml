@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>decaimiento exponencial on datanalytics</title>
+    <link>/tags/decaimiento-exponencial/</link>
+    <description>Recent content in decaimiento exponencial on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 14 Feb 2014 07:32:10 +0000</lastBuildDate><atom:link href="/tags/decaimiento-exponencial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memoria de decaimiento exponencial y canutos asíncronos</title>
+      <link>/2014/02/14/memoria-de-decaimiento-exponencial-y-canutos-asincronos/</link>
+      <pubDate>Fri, 14 Feb 2014 07:32:10 +0000</pubDate>
+      
+      <guid>/2014/02/14/memoria-de-decaimiento-exponencial-y-canutos-asincronos/</guid>
+      <description>Primero, canuto es como llamo yo a los streams: lugares por donde nos llegan datos —de sujetos que sacan dinero del cajero, de sensores de lo que sea, de clientes que llaman por teléfono—, típicamente en forma asíncrona. Es decir, que los eventos suceden cuando se les antoja, sin una periodicidad preestablecida.
+Y uno quiere medir cosas. Por ejemplo, la frecuencia. O la intensidad de uso —¿cuánto se utiliza una tarjeta de crédito?</description>
+    </item>
+    
+  </channel>
+</rss>

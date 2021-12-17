@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>confianza on datanalytics</title>
+    <link>/tags/confianza/</link>
+    <description>Recent content in confianza on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 28 Nov 2014 07:13:31 +0000</lastBuildDate><atom:link href="/tags/confianza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como no tengo tiempo, voy a publicar una chorrada (y una coda)</title>
+      <link>/2014/11/28/como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda/</link>
+      <pubDate>Fri, 28 Nov 2014 07:13:31 +0000</pubDate>
+      
+      <guid>/2014/11/28/como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda/</guid>
+      <description>Como no tengo tiempo, voy a publicar una chorrada. Voy a coger unos datos que encuentre por ahí, voy a tomar alguna variable, voy a pintarla (en un mapa, si puede ser) y luego voy a construir una narrativa. Espero que no os deis cuenta y me lo creáis todo.
+Comienzo.
+Los datos del World Values Survey (aquí podéis obtenerlos) son mú importantes y mú guays. De todas las variables que contiene, voy a extraer una, la variable mú importante (VMI).</description>
+    </item>
+    
+  </channel>
+</rss>

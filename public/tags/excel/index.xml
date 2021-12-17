@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>excel on datanalytics</title>
+    <link>/tags/excel/</link>
+    <description>Recent content in excel on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 10 Jun 2015 08:13:15 +0000</lastBuildDate><atom:link href="/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ver 53000 filas</title>
+      <link>/2015/06/10/ver-53000-filas/</link>
+      <pubDate>Wed, 10 Jun 2015 08:13:15 +0000</pubDate>
+      
+      <guid>/2015/06/10/ver-53000-filas/</guid>
+      <description>Me preguntaban cómo ver con R una tabla con 53000 filas. Mi yo menos diplomático quiso contestar: define ver. Lo reformulé más amablemente y se me contestó: como en Excel.
+La pregunta es: ¿permite Excel ver 53000 registros? De hecho, ¿se pueden ver 53000 registros? Impresos a razón de línea por centímetro, ocuparían 530 metros y andar a paso vivo del primero al último costaría cinco minutos.
+Con 53000 registros, ver (como trasunto de entender) es una cosa distinta de tener delante.</description>
+    </item>
+    
+    <item>
+      <title>Cuatro enlaces sobre R: Excel, C&#43;&#43;, CSV y paralelización</title>
+      <link>/2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/</link>
+      <pubDate>Fri, 21 Mar 2014 07:44:31 +0000</pubDate>
+      
+      <guid>/2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/</guid>
+      <description>Hoy traigo a mis páginas cuatro enlaces que apuntan a recetarios y tutoriales sobre la solución a cuatro problemas que pueden encontrar los usuarios de R:
+ * [Conectar R y Excel](http://www.thertrader.com/2014/02/11/a-million-ways-to-connect-r-and-excel/) * [Importar grandes ficheros CSV](http://statcompute.wordpress.com/2014/02/11/efficiency-of-importing-large-csv-files-in-r/) (y falta [`LaF`](http://cran.fhcrc.org/web/packages/LaF/index.html)) * [Integrar R con C/C++](http://anythingbutrbitrary.blogspot.ch/2014/02/three-ways-to-call-cc-from-r.html) * [Paralelizar código con `snow`](http://hernanresnizky.com/2014/01/10/quick-guide-to-parallel-r-with-snow/)  ¡Espero que os resulten útiles!</description>
+    </item>
+    
+    <item>
+      <title>Lo relevante, arriba y a la izquierda</title>
+      <link>/2013/07/26/lo-relevante-arriba-y-a-la-izquierda/</link>
+      <pubDate>Fri, 26 Jul 2013 07:29:55 +0000</pubDate>
+      
+      <guid>/2013/07/26/lo-relevante-arriba-y-a-la-izquierda/</guid>
+      <description>No es lo más importante del mundo. Pero considero una descortesía de un tabulador de datos para con sus usuarios que no ponga la información más relevante arriba y a la izquierda.
+Por ejemplo, en el último Informe Trimestral de la CMT uno encuentra la información así:
+
+No es terrible, pero la información que más a mano aparece es la menos interesante, la del 2005. Para ver el último dato hay que desplazarse (i.</description>
+    </item>
+    
+    <item>
+      <title>Pero mañana seguiremos usando Excel</title>
+      <link>/2013/04/23/pero-manana-seguiremos-usando-excel/</link>
+      <pubDate>Tue, 23 Apr 2013 07:54:14 +0000</pubDate>
+      
+      <guid>/2013/04/23/pero-manana-seguiremos-usando-excel/</guid>
+      <description>Inmerso en asuntos que los más catalogarían de friquis, he permanecido ignorante de los más de los infelices sucesos que nos ha regalado el mundo durante los últimos días.
+Pero sí que he tenido ocasión de enterarme de algo de ese runrún, imagino que conocido de los más, sobre unos economistas encopetados que usanban Excel (y unos economistas muy encopetados). Noticia que se suma a otra que guardaba para comentarla un día: cómo JP Morgan estuvo calculando su VaR erróneamente durante años por los mismos motivos.</description>
+    </item>
+    
+    <item>
+      <title>Hoy ha comenzado el curso básico de R</title>
+      <link>/2012/06/11/hoy-ha-comenzado-el-curso-basico-de-r/</link>
+      <pubDate>Mon, 11 Jun 2012 06:23:40 +0000</pubDate>
+      
+      <guid>/2012/06/11/hoy-ha-comenzado-el-curso-basico-de-r/</guid>
+      <description>Hoy ha comenzado el curso básico de R. A Juanjo Gibaja y a mí nos ha sorprendido (muy agradablemente, por cierto) el espectacular recibimiento que ha merecido el curso: tenemos prácticamente 700 usuarios registrados.
+El programa de la primera semana cubre:
+ Los capítulos 1 a 6 de icebreakeR Los capitulos 1 a 6 de An Introduction to R El minitutorial de RStudio que he colgado de r-es.org y que es editable y mejorable por todos.</description>
+    </item>
+    
+    <item>
+      <title>Competición en Forbes: y el peor gráfico es...</title>
+      <link>/2012/05/31/competicion-en-forbes-y-el-peor-grafico-es/</link>
+      <pubDate>Thu, 31 May 2012 07:25:00 +0000</pubDate>
+      
+      <guid>/2012/05/31/competicion-en-forbes-y-el-peor-grafico-es/</guid>
+      <description>&amp;hellip; este:
+
+Está hecho con Excel y representa los números 2, 4, 6 y 8. De acuerdo con la página en la que se anuncia el resultado del concurso,
+En fin, cosas de Excel.</description>
+    </item>
+    
+    <item>
+      <title>IBM sobre Excel como herramienta estadística</title>
+      <link>/2011/12/26/ibm-sobre-excel-como-herramienta-estadistica/</link>
+      <pubDate>Mon, 26 Dec 2011 07:23:13 +0000</pubDate>
+      
+      <guid>/2011/12/26/ibm-sobre-excel-como-herramienta-estadistica/</guid>
+      <description>Hemos tratado el tema previamente en entradas como esta o esta. Pero es ahora IBM el que abunda en el tema mediante la publicación de un documento, The Risks of Using Spreadsheets for Statistical Analysis, cuyo nombre lo dice, poco más o menos, todo.
+Cierto que el documento tiene como objetivo promover el uso de SPSS como alternativa y de ello se ocupa largamente su segunda mitad. Por eso es la primera la más relevante para mis lectores.</description>
+    </item>
+    
+    <item>
+      <title>R y Excel: una alternativa</title>
+      <link>/2011/03/23/r-y-excel-una-alternativa/</link>
+      <pubDate>Wed, 23 Mar 2011 09:56:13 +0000</pubDate>
+      
+      <guid>/2011/03/23/r-y-excel-una-alternativa/</guid>
+      <description>Los amantes de Excel están de enhorabuena. Ahora tienen una alternativa a RExcel, una extensión de Excel que le permite interactuar con R: XLConnect, un paquete multiplataforma de R que permite:
+ Trabajar con ficheros de Excel 97 (.xls) y OOXML (.xlsx) Crear y eliminar hojas dentro de documentos Leer y escribir rangos de valores (ranges) Leer y escribir hojas de cálculo Añadir gráficos Asociar estilos a celdas Definir el tamaño de las filas y columnas Etc.</description>
+    </item>
+    
+    <item>
+      <title>¿Tartas? No gracias</title>
+      <link>/2011/03/02/tartas-no-gracias/</link>
+      <pubDate>Wed, 02 Mar 2011 09:28:36 +0000</pubDate>
+      
+      <guid>/2011/03/02/tartas-no-gracias/</guid>
+      <description>Voy a dejar aquí escrito mi argumento. Para que conste. Para tener que repetirlo cada vez que un exceladicto osa objetar. Por pereza. Para no tener sino que dar el enlace y pasar a otra cosa. Porque vamos para la primavera y es mejor dedicar el tiempo a cosas mejores que a dar vueltas sobre el mismo asunto.
+El uso de tartas para visualizar fracciones está sancionado (acepción segunda) por la escuela básica: ¿quién no las vio representadas en una pizarra cuando oyó por primera vez en su vida mencionarlas palabras tres octavos, numerador y denominador?</description>
+    </item>
+    
+    <item>
+      <title>Una frase afortunada que merece ser enmarcada</title>
+      <link>/2011/01/06/una-frase-afortunada-que-merece-ser-enmarcada/</link>
+      <pubDate>Thu, 06 Jan 2011 09:58:49 +0000</pubDate>
+      
+      <guid>/2011/01/06/una-frase-afortunada-que-merece-ser-enmarcada/</guid>
+      <description>Si bien en mi entrada de hace un par de días critiqué aspectos manifiestamente perfectibles de un articulillo que he leído estos días, hay en él una frase estupenda. Una frase que merece ser emarcada. Una frase de la que, por evitar que se me traspapele y para solaz de mis lectores, voy a dejar aquí constancia. Es:
+ Knusel (2005) investigated tail probabilities of distributions using Excel 2003 and found that previously inaccurate algorithms in Excel have been replaced by new inaccurate algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Graficaca a tutiplén</title>
+      <link>/2011/01/05/1139/</link>
+      <pubDate>Wed, 05 Jan 2011 09:36:55 +0000</pubDate>
+      
+      <guid>/2011/01/05/1139/</guid>
+      <description>Al autor le preocupa de viejo el problema de la representación gráfica de datos. Piensa que tiene más de arte que de ciencia. Tal vez lo dice porque no se le da bien: confunde tonos y colores y desgarbado es el adjetivo que mejor describe sus trazos.
+Y como casi todo diletante maltratado de las musas, ejerce de crítico. Y voto a Dios que su crítica es acerba. Le irritan todos los gráficos de tarta (menos éste), desea toda clase de malaventura al cretino que lleva lo de Excel en Expansión y vive prisionero de otras manías semejantes.</description>
+    </item>
+    
+    <item>
+      <title>De la matriz a de covarianzas a la de correlaciones con Excel</title>
+      <link>/2010/11/27/de-la-matriz-a-de-covarianzas-a-la-de-correlaciones-con-excel/</link>
+      <pubDate>Sat, 27 Nov 2010 19:25:58 +0000</pubDate>
+      
+      <guid>/2010/11/27/de-la-matriz-a-de-covarianzas-a-la-de-correlaciones-con-excel/</guid>
+      <description>Me preguntan cómo construir la matriz de correlaciones a partir de la de covarianzas con Excel. Mis lectores más versados en R conocerán la existencia de la función cov2cor (cuyo código fuente merece ser examinado).
+Sin embargo, ¿cómo hacerlo con Excel? No es tan complicado, aunque infinitamente más prolijo: en la posición (i,j) de la matriz de correlaciones hay que asignar:
+ el valor (i,j) de la correspondiente matriz de covarianzas dividido por la raíz cuadrada del producto de los valores (i,i) y (j,j) de la matriz de covarianzas.</description>
+    </item>
+    
+    <item>
+      <title>¿En qué se parecen Oracle y Teradata a Excel y Word?</title>
+      <link>/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/</link>
+      <pubDate>Wed, 19 May 2010 20:48:10 +0000</pubDate>
+      
+      <guid>/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/</guid>
+      <description>Y, para el caso, Postgres y OpenOffice.
+Pues en que quienes los diseñan piensan que los usuarios finales son, somos, abuelitas. Y por tanto, toman decisiones por nosotros (usar mayúsculas donde no se debe, cruzar tablas como les da la gana, empeñarse en que incoar se escribe con hache intercalada, etc.). En particular, mi queja de hoy se refiere a lo estúpidos que pueden llegar a ser los presuntos optimizadores de consultas en bases de datos y en un pequeño —aunque universal— método para doblegarlos a nuestra voluntad soberana.</description>
+    </item>
+    
+    <item>
+      <title>Addenda: Excel y estadística</title>
+      <link>/2010/01/29/addenda-excel-y-estadistica/</link>
+      <pubDate>Fri, 29 Jan 2010 19:43:50 +0000</pubDate>
+      
+      <guid>/2010/01/29/addenda-excel-y-estadistica/</guid>
+      <description>Abundando en un tema sobre el que ya escribí hace unos días, he encontrado otro enlace desrecomendando en uso de Excel para la realización de estudios estadísticos: Mistaken Identifiers: Gene name errors can be introduced inadvertently when using Excel in bioinformatics.
+¿A nadie le ha pasado jamás que Excel se empeñe en querer ser más inteligente que uno?</description>
+    </item>
+    
+    <item>
+      <title>Excel y estadística</title>
+      <link>/2010/01/25/excel-y-estadistica/</link>
+      <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/01/25/excel-y-estadistica/</guid>
+      <description>Un buen amigo me comentó que para ver crecer el número de visitas a su blog hablaba de Excel. Como todavía no he tenido ninguna, con su venia, tomaré prestada la idea. Por otra parte, siendo éste un blog dedicado a la estadística, la minería de datos y asuntos concomitantes, enumeraré motivos por los que, en dichos ámbitos, se desaconseja su uso.
+Los enlaces son ajenos, en inglés, y, algunos, algo viejos (hacen referencias a versiones antiguas de Excel).</description>
+    </item>
+    
+  </channel>
+</rss>

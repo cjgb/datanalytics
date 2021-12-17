@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supervivencia on datanalytics</title>
+    <link>/tags/supervivencia/</link>
+    <description>Recent content in supervivencia on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 01 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/supervivencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La ley de la cerveza para pintar nubes (y su relación con el análisis de la supervivencia)</title>
+      <link>/2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/</link>
+      <pubDate>Mon, 01 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/</guid>
+      <description>El otro día pregunté a en un grupo de amigos, físicos mayormente, si les sonaba de alguna esquinita teórica de la carrera en que apareciese alguna función de la forma
+$latex x(t) = \exp\left(-\int_0^t f(x) dx\right)$
+y uno, que trabaja en el mundo del videojuego dio con la línea 401 del código que aparece aquí y que sirve para pintar las nubes hiperrealistas que aparecen en la misma página.
+Es una aplicación de la ley de Beer en la que mis lectores más sofisticados reconocerán el estrecho vínculo con el análisis de la superviencia.</description>
+    </item>
+    
+    <item>
+      <title>No leáis nada de lo que diga este inepto: no sabe por dónde le pega el aire</title>
+      <link>/2020/05/29/no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire/</link>
+      <pubDate>Fri, 29 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/29/no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire/</guid>
+      <description>Hay gente que va dándoselas de nosequé y luego resulta que no sabe por dónde le pega el aire. Veámoslo hablando de análisis de la supervivencia:
+A ver, con isótopos radioactivos, ya que los citas, la vida media es $latex 1 / \lambda$ (de estar sujetos a un decaimiento exponencial de la forma $latex \exp(-\lambda t)$ y la semivida es $latex \log 2 / \lambda$. ¿Qué demonios cambia tan sustancialmente de usar la una o la otra?</description>
+    </item>
+    
+    <item>
+      <title>Sobre la función de riesgo en el análisis de la supervivencia</title>
+      <link>/2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/</link>
+      <pubDate>Thu, 28 May 2020 09:13:20 +0000</pubDate>
+      
+      <guid>/2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/</guid>
+      <description>Tienes una función de supervivencia
+y piensas que es posible aproximarla usando segmentos de exponencial usando primero una rejilla gruesa,
+y luego cada vez más fina,
+hasta que sean indistinguibles.
+Las distintas aproximaciones son
+$latex \hat{S}(t) = \exp\left(-\sum_{i \le n} \lambda_i \Delta - \lambda_n (t - t_n)\right)$
+donde $latex n$ es el índice del intervalo que contiene a $latex t$ los $latex \lambda_i$ son los coeficientes en los segmentos de exponencial.</description>
+    </item>
+    
+    <item>
+      <title>¿Se puede calcular la letalidad (del cornavirus, digamos) sin el análisis de la supervivencia?</title>
+      <link>/2020/03/24/se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia/</link>
+      <pubDate>Tue, 24 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/24/se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia/</guid>
+      <description>Pues no lo sé. Pero con él, sí, según Methods for estimating the case fatality ratio for a novel, emerging infectious disease:
+La mala noticia es que no vamos a contar con datos detallados que tracen paciente a paciente, su ingreso (e, idealmente, la fecha de contagio), así como esas características de los pacientes que pueden determinar el desenlace de su enfermedad. Al menos, no los que miramos los toros desde detrás de la barrera informativa.</description>
+    </item>
+    
+    <item>
+      <title>Análisis de la supervivencia cuando todas las observaciones están censuradas</title>
+      <link>/2020/03/11/analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas/</link>
+      <pubDate>Wed, 11 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/11/analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas/</guid>
+      <description>_[Retomando un tema que dejé inconcluso y que tampoco remataré hoy aquí.] _
+Imagina que quieres saber cuánto le dura a la gente el portátil. Para eso preguntas por ahí cuándo se compraron el último.
+Lo que obtienes es un conjunto de datos donde todas las observaciones están censuradas. Y no, el análisis de la supervivencia clásico no funciona.
+Buscando en la literatura he encontrado, sin embargo, Survival Analysis of Backward Recurrence Times, donde se discute el problema y al que, bueno, otro día con menos penas volveré.</description>
+    </item>
+    
+    <item>
+      <title>¿Cómo se mide el número medio de días para pagar una factura?</title>
+      <link>/2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/</link>
+      <pubDate>Tue, 05 Dec 2017 08:13:00 +0000</pubDate>
+      
+      <guid>/2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/</guid>
+      <description>[Esta entrada tiene una errata de la que doy fe aquí.]
+Pues casi seguro que mal. Por eso hay que enfrentarse a noticia como esta con escepticismo. En el cuerpo del artículo aparece el gráfico
+Que invita a preguntarse cosas como: ¿habrán tenido en cuenta las facturas aún no pagadas? (Es decir, las censuradas, en la nomenclatura del análisis de la supervivencia). Si se ignoran, el tiempo se estará infraestimando seriamente.</description>
+    </item>
+    
+    <item>
+      <title>La heterogénea distribución temporal de las 100 mejores novelas según Le Monde</title>
+      <link>/2017/11/06/la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde/</link>
+      <pubDate>Mon, 06 Nov 2017 08:13:20 +0000</pubDate>
+      
+      <guid>/2017/11/06/la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde/</guid>
+      <description>Me sorprende haber leído tantos de los mejores 100 libros del siglo XX según Le Monde. Sobre todo porque no leo ficción casi en lo que va de siglo y porque, carajo, los libros estupendos que he leído de tapa, como el Análisis Real de Folland o la Introducción a la Teoría de la Probabilidad de Feller parece que no cualifican para esa listeja de textos sin una mala integral preparada por gentecilla de letras.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuánto durará la sólo-nostalgia?</title>
+      <link>/2017/02/02/cuanto-durara-la-solo-nostalgia/</link>
+      <pubDate>Thu, 02 Feb 2017 08:13:14 +0000</pubDate>
+      
+      <guid>/2017/02/02/cuanto-durara-la-solo-nostalgia/</guid>
+      <description>Mi vieja amiga Elena Álvarez me sorprendió el otro día publicando nada menos que en el periódico de mis contraejemplos, el muy apriorístico ElDiario.es, el artículo &amp;ldquo;Sólo&amp;rdquo; y la tilde de la nostalgia. Trata temas que hay había hablado con ella y sobre los que vi que había publicado bastante en otros sitios.
+Falla (vosotros no lo sabéis, pero ella y yo sí) en que Elena, tan declaradamente descriptivista, se pone la gorra normativista y atiza a los renuentes al cambio a golpe de manual aristotélico.</description>
+    </item>
+    
+    <item>
+      <title>Análisis de la supervivencia cuando ningún sujeto ha muerto</title>
+      <link>/2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/</link>
+      <pubDate>Mon, 28 Nov 2016 08:13:21 +0000</pubDate>
+      
+      <guid>/2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/</guid>
+      <description>Me ha sobrevenido un problema de análisis de supervivencia curioso: ningún sujeto ha muerto. Dicho de otra manera, todas mis observaciones están censuradas por la derecha.
+Los datos recogen la antigüedad de la cámara de fotos de los visitantes de cierto blog. Y debería uno poder estimar cada cuántos años renuevan la cámara, es decir, la vida promedio de esos aparatejos. Si embargo, no tenemos información de la edad de las cámaras en el momento de la renovación.</description>
+    </item>
+    
+    <item>
+      <title>Parametrización de modelos de supervivencia (paramétricos)</title>
+      <link>/2015/02/12/parametrizacion-de-modelos-de-supervivencia-parametricos/</link>
+      <pubDate>Thu, 12 Feb 2015 08:13:34 +0000</pubDate>
+      
+      <guid>/2015/02/12/parametrizacion-de-modelos-de-supervivencia-parametricos/</guid>
+      <description>He participado directa o indirectamente en algunas decenas de los llamados proyectos de churn. Estoy al tanto de aún más de los que he hablado con otros colegas.
+Digresión (para desavisados): se aplica (impropiamente) el término churn a aquellos clientes (en general) que abandonan una compañía o dan de baja un servicio. En realidad churn se refiere al flujo a corto plazo de clientes de poco valor que adquiere una compañía y que pierde enseguida.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keynes on datanalytics</title>
+    <link>/tags/keynes/</link>
+    <description>Recent content in keynes on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Oct 2021 00:36:19 +0000</lastBuildDate><atom:link href="/tags/keynes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dos cuestiones sobre la naturaleza de la probabilidad planteadas por Keynes en 1921 pero que siguen hoy igual de vigentes</title>
+      <link>/2021/10/28/dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes/</link>
+      <pubDate>Thu, 28 Oct 2021 00:36:19 +0000</pubDate>
+      
+      <guid>/2021/10/28/dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes/</guid>
+      <description>I.
+A Treatise on Probability, la obra de Keynes (sí, el famoso) de 1921, es un libro muy extraño que se puede leer de muchas maneras. Puede servir, si se hace poco caritativamente, para denunciar el lastimoso estado en el que se encontraba la probabilidad antes de la axiomatización de Kolmogorov, 12 años depués de su publicación. O también, si se hace más cuidadosamente, para rescatar una serie de consideraciones que aun hoy muchos hacen mal en ignorar.</description>
+    </item>
+    
+    <item>
+      <title>Estos keynesianos ven el mundo de una manera muy, muy loca</title>
+      <link>/2021/01/19/estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca/</link>
+      <pubDate>Tue, 19 Jan 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/01/19/estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca/</guid>
+      <description>[Y no, no me refiero (hoy) a los seguidores del Keynes de la &amp;ldquo;Teoría general del empleo, el interés y el dinero&amp;rdquo; sino a los de su &amp;ldquo;Tratado sobre probabilidades&amp;rdquo;. Misma persona, distinto libro, distinta disciplina. Y excúseme el &amp;ldquo;clickbait&amp;rdquo;: no podía no hacerlo.]
+Keynes escribió en 1921 su Tratado de probabilidades, según la Wikipedia, una contribución a las bases matemáticas y filosóficas de la teoría de la probabilidad. Le falta añadir descabellada (aunque, como se verá después, tiene su punto), superada y felizmente olvidada.</description>
+    </item>
+    
+  </channel>
+</rss>

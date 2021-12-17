@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parallel on datanalytics</title>
+    <link>/tags/parallel/</link>
+    <description>Recent content in parallel on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 15 Jun 2015 08:13:30 +0000</lastBuildDate><atom:link href="/tags/parallel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paralelismo en R: memo[rándum]</title>
+      <link>/2015/06/15/paralelismo-en-r-memorandum/</link>
+      <pubDate>Mon, 15 Jun 2015 08:13:30 +0000</pubDate>
+      
+      <guid>/2015/06/15/paralelismo-en-r-memorandum/</guid>
+      <description>Esta es una nota que me dejo a mí mismo sobre paralelización en R para no tener que ir buscándola en otras partes:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/lattice/parallel&amp;quot;&amp;gt;parallel) foo &amp;lt;- function(i){ &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/Sys.sleep&amp;quot;&amp;gt;Sys.sleep(i) } cl &amp;lt;- makeCluster(4) system.time(parSapply(cl, 1:4, foo)) # user system elapsed # 0.025 0.006 4.007 system.time(sapply(1:4, foo)) # user system elapsed # 0.039 0.033 10.001 stopCluster(cl)  </description>
+    </item>
+    
+    <item>
+      <title>Estrategias escalables (con R)</title>
+      <link>/2014/07/09/estrategias-escalables-con-r/</link>
+      <pubDate>Wed, 09 Jul 2014 07:13:41 +0000</pubDate>
+      
+      <guid>/2014/07/09/estrategias-escalables-con-r/</guid>
+      <description>Hay quienes preguntan cómo cargar con R un csv de 8GB en un portátil de 4GB de RAM. La verdad, he leído respuestas la mar de extravagantes a este tipo de cuestiones: p.e., recomendar SQLite.
+Yo recomendaría Scalable Strategies for Computing with Massive Data. Entre otras cosas, porque para eso lo escribieron sus autores: para que se lea. Y porque está cargado de razón y buenos consejos.
+Una cosa con la que tropezará enseguida quien lo hojee es:</description>
+    </item>
+    
+    <item>
+      <title>R en paralelo</title>
+      <link>/2014/05/15/r-en-paralelo/</link>
+      <pubDate>Thu, 15 May 2014 07:13:59 +0000</pubDate>
+      
+      <guid>/2014/05/15/r-en-paralelo/</guid>
+      <description>Trabajo sobre una máquina de 8 núcleos y 24 GB de RAM. Y que conste que se me ha llegado a quedar chica.
+Algunos programas que ejecuto tienen (o contienen pedazos de) la forma
+ 1. calcula A 2. calcula B 3. calcula C 4. combina A, B y C  Obviamente, se me ocurre ejecutarlos así:
+ 1. calcula A, B y C en paralelo 2. cuando acabe el paso anterior, combina A, B y C  Y aún me sobrarían 5 núcleos y bastante RAM.</description>
+    </item>
+    
+  </channel>
+</rss>

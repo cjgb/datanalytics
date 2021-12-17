@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anticonferencia on datanalytics</title>
+    <link>/tags/anticonferencia/</link>
+    <description>Recent content in anticonferencia on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 12 Jun 2017 08:13:16 +0000</lastBuildDate><atom:link href="/tags/anticonferencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La anticonferencia: una idea que me ronda la cabeza</title>
+      <link>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</link>
+      <pubDate>Mon, 12 Jun 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</guid>
+      <description>La anticonferencia me ronda la cabeza.
+No es una conferencia, (de ahí el prefijo), aunque se parezca a ella en lo de reunir a un grupillo de gente interesada en un asunto.
+No es un jacatón. Los jacatones están, sobre el papel, bien; pero demasiado a menudo su producto se queda ahí, tiene poca (o nula) trayectoria o impacto. ¿Me dejáis que diga que son mayormente intranscendentes?
+Pero creo que los de rOpenSci dieron en el clavo con su Unconference.</description>
+    </item>
+    
+  </channel>
+</rss>

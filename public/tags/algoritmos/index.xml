@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algoritmos on datanalytics</title>
+    <link>/tags/algoritmos/</link>
+    <description>Recent content in algoritmos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 Mar 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/algoritmos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nutri-Score: el &#34;algoritmo&#34;</title>
+      <link>/2021/03/16/nutri-score-el-algoritmo/</link>
+      <pubDate>Tue, 16 Mar 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/03/16/nutri-score-el-algoritmo/</guid>
+      <description>Se hablará mucho de Nutri-Score y de cómo es pernicioso dejar en manos de un algoritmo la decisión sobre la conveniencia o no de ciertos alimentos. Nutri-Score se convertirá en otra de esas malévolas encarnaciones de las matemáticas con vocación de destrucción masiva.
+Pero que conste que Nutri-Score es, como algoritmo, solamente esto (fuente):
+Al menos, esta vez no se lo podrá tachar de opaco.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos y ética circa 1950</title>
+      <link>/2020/10/29/algoritmos-y-etica-circa-1950/</link>
+      <pubDate>Thu, 29 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/29/algoritmos-y-etica-circa-1950/</guid>
+      <description>Estoy corrigiendo las partes de mi libro que tienen que ver con la teoría del a probabilidad para hacerlas más prácticas para quienes llegan a ese mundo no para aprender una serie de reglas operativas que le sirvan para resolver un examen y pasar a otra cosa sino para su trabajo y su vida. Es decir, para asignar probabilidades a eventos.
+Y eso me ha llevado a hojear uno de los libros más famosos en los últimos tiempos dedicados al asunto: Superforecasting.</description>
+    </item>
+    
+    <item>
+      <title>Una versión aún más sencilla</title>
+      <link>/2020/02/27/una-version-aun-mas-sencilla/</link>
+      <pubDate>Thu, 27 Feb 2020 17:31:00 +0000</pubDate>
+      
+      <guid>/2020/02/27/una-version-aun-mas-sencilla/</guid>
+      <description>&amp;hellip; que la de &amp;ldquo;Algoritmos&amp;rdquo; y acatarrantes definiciones de &amp;ldquo;justicia&amp;rdquo;. Que es casi una versión de la anterior reduciendo la varianza de las betas.
+Las dos poblaciones de interés tienen una tasa de probabilidad (o de riesgo, en la terminología del artículo original) de .4 y .6 respectivamente. Aproximadamente el 40% de los primeros y el 60% de los segundos tienen y = 1.
+El modelo (el algoritmo) es perfecto y asigna a los integrantes del primer grupo un scoring de .</description>
+    </item>
+    
+    <item>
+      <title>&#34;Algoritmos&#34; y acatarrantes definiciones de &#34;justicia&#34;</title>
+      <link>/2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/</link>
+      <pubDate>Wed, 26 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/</guid>
+      <description>Lee Justicia: los límites de la inteligencia artificial&amp;hellip; y humana y cuando acabes, te propongo un pequeño experimento probabilístico. Por referencia, reproduzco aquí los criterios de justicia del artículo que glosa el que enlazo:
+Centrémonos en (B), sabiendo que, por simetría, lo que cuento se aplica también a (C).
+Supongamos que tenemos dos grupos, cada uno de ellos de
+n &amp;lt;- 1000000  personas para estar en las asíntotas que aman los frecuentistas.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos de minería de datos en su contexto</title>
+      <link>/2011/01/14/algoritmos-de-mineria-de-datos-en-su-contexto/</link>
+      <pubDate>Fri, 14 Jan 2011 09:20:33 +0000</pubDate>
+      
+      <guid>/2011/01/14/algoritmos-de-mineria-de-datos-en-su-contexto/</guid>
+      <description>El otro día apareció publicada en esta bitácora la noticia de un artículo en el que se enumeraban los top 10 de entre los algortimos de minería de datos. Nuestro compañero Andrés Gutiérrez se hizo eco de la noticia y, además, extrajo la lista.
+He leído el artículo, he revisado la lista de los algoritmos elegidos, he leído los comentarios y tengo algunas objeciones que realizar. No tanto por dejar constancia de ellas sino para evitar que los oropeles despisten a quienes se introducen en este mundo de la minería de datos.</description>
+    </item>
+    
+  </channel>
+</rss>

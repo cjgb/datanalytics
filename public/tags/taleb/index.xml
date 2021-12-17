@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>taleb on datanalytics</title>
+    <link>/tags/taleb/</link>
+    <description>Recent content in taleb on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 25 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/taleb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre predicciones puntuales</title>
+      <link>/2020/06/25/sobre-predicciones-puntuales/</link>
+      <pubDate>Thu, 25 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/25/sobre-predicciones-puntuales/</guid>
+      <description>Como tan a menudo se nos olvida, Taleb nos recuerda, breve y conciso, un par de cositas sobre las predicciones puntuales aquí. Además, casi todo lo que tiene que decir se resume en:</description>
+    </item>
+    
+    <item>
+      <title>El chocheo de los dioses</title>
+      <link>/2014/03/03/el-chocheo-de-los-dioses/</link>
+      <pubDate>Mon, 03 Mar 2014 07:52:39 +0000</pubDate>
+      
+      <guid>/2014/03/03/el-chocheo-de-los-dioses/</guid>
+      <description>Uno tiene —o tuvo— dioses. Sentir admiración por alguien (y su obra) tiene, lo admito, una dimensión infantil. Es también, por supuesto, una sobre simplificación de la realidad. Porque la verdad no la escriben cuatro plumas: las ideas valiosas emergen por doquier. Desafortunadamente, nadie tiene tiempo para filtrar el flujo diario de noticias, libros, conceptos. Así que creo que es excusable que, por simplificar, uno eleve personal y subjetivamente a una serie de individuos a la categoría de dioses, de encargados de filtrar la información.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>El paquete MicroDatosEs para microdatos públicos - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="El paquete MicroDatosEs para microdatos públicos" />
+<meta property="og:description" content="Comencé hace un tiempo un pequeño paquete de R, MicroDataEs, para importar automáticamente a R ficheros de microdatos distribuidos por los diversos organismos estadísticos (españoles, por acotar el ámbito). El objetivo es facilitar el análisis de este tipo de datos a los usuarios de R y como consecuencia:
+ * fomentar el uso de R entre aquellos que utilicen frecuentemente este tipo de información y * hacer más accesibles estos datos a los usuarios de R." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2012-08-03T07:38:41&#43;00:00" />
+<meta property="article:modified_time" content="2012-08-03T07:38:41&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">El paquete MicroDatosEs para microdatos públicos</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-08-03T07:38:41Z">2012-8-3</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Comencé hace un tiempo un pequeño paquete de R, <code>MicroDataEs</code>, para importar automáticamente a R ficheros de microdatos distribuidos por los diversos organismos estadísticos (españoles, por acotar el ámbito). El objetivo es facilitar el análisis de este tipo de datos a los usuarios de R y como consecuencia:</p>
+<pre><code>  * fomentar el uso de R entre aquellos que utilicen frecuentemente este tipo de información y
+  * hacer más accesibles estos datos a los usuarios de R.
+</code></pre>
+<p>Quien haya tratado de trabajar, por ejemplo, con los ficheros de <a href="http://www.ine.es/prodyser/micro_epa.htm">microdatos de la EPA que publica el INE</a> comprenderá rápidamente el interés y alcance del paquete. Porque estos datos:</p>
+<pre><code>  * se distribuyen en un fichero de texto posicional que sólo contiene códigos numéricos y
+  * la relación de valores correspondientes a dichos códigos y otros metadatos (como la posición de las columnas) están contenidas en unas [hojas de Excel](ftp://www.ine.es/temas/epa/disereg_epa0511.zip).
+</code></pre>
+<p>Cada usuario de R que quiera, por lo tanto, utilizar esta información tiene primero que (muy trabajosamente) trasladar a R los metadatos de las hojas de Excel, crear funciones que realicen la traducción, etc. Y estoy seguro de que más de uno (y más de cien) ya han malgastado horas de su vida en esos afanes.</p>
+<p>El paquete <code>MicroDataEs</code> contiene dos partes:</p>
+<pre><code>  * Una plataforma común y reutilizable para almacenar metadatos, leer ficheros, etc. y generar los `dataframes `correspondientes para, en principio, una clase amplia de ficheros de metadatos.
+  * Un catálogo de metadatos correspondientes a tipos de ficheros de microdatos generados por instituciones estadísticas.
+</code></pre>
+<p>Por el momento, el catálogo contiene únicamente información para la lectura de los datos de la EPA. Pero espero hacerlo crecer (y tal vez con tu ayuda: ¿me echas una mano?).</p>
+<p>El paquete está <a href="https://r-forge.r-project.org/projects/microdataes/">disponible en R-Forge</a> y puede instalarse en R haciendo</p>
+<pre><code>&lt;a href=&quot;http://inside-r.org/r-doc/utils/install.packages&quot;&gt;install.packages(&quot;MicroDatosEs&quot;, repos=&quot;http://R-Forge.R-project.org&quot;)
+</code></pre>
+<p>aunque tal vez sea necesario instalar alguna dependencia desde CRAN (si experimentan problemas en la instalación, hay que comprobar el mensaje de error para ver si se debe, efectivamente, a la falta un paquete). Se puede probar luego consultando <code>?epa2005</code>.</p>
+<p>Y para terminar, insisto: si quieres colaborar en el paquete enriqueciendo el catálogo de ficheros (o, cuando menos, existe algún tipo de ficheros que te gustaría añadir a él), ponte en contacto conmigo y vemos qué podemos hacer al respecto.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/datos-abiertos/" rel="tag">datos abiertos</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica-p%C3%BAblica/" rel="tag">estadística pública</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/microdatoses/" rel="tag">microdatoses</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2012/08/01/reetiquetar-factores-en-r/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Reetiquetar factores en R</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Un paseo por el paquete MicroDatosEs (y la EPA, de nuevo)</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

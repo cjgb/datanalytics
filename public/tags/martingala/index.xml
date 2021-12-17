@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>martingala on datanalytics</title>
+    <link>/tags/martingala/</link>
+    <description>Recent content in martingala on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Dec 2017 08:13:41 +0000</lastBuildDate><atom:link href="/tags/martingala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martingalas, tiempos de parada y tuits cuasivirales</title>
+      <link>/2017/12/13/martingalas-tiempos-de-parada-y-tuits-cuasivirales/</link>
+      <pubDate>Wed, 13 Dec 2017 08:13:41 +0000</pubDate>
+      
+      <guid>/2017/12/13/martingalas-tiempos-de-parada-y-tuits-cuasivirales/</guid>
+      <description>El otro día publiqué en Twitter un problema que copié de algún sitio (sinceramente, no recuerdo cuál),
+que resultó megaviral en mi humilde tuitescala.
+A ver si mañana tengo tiempo de ocuparme de lo triste que resulta que mi entorno de Twitter sea tan cafre como para haber desacertado tanto.
+Solo escribo hoy para dejar constancia que la secuencia de variables aleatorias $latex X_n$ con distribución de Bernoulli B(0.5) forma una martingala, que la regla de parar con el primer $latex X_i = 1$ es un tiempo de parada (stopping time) $latex \tau$, que por el teorema correspondiente, $latex X_\tau$ también es un martingala y $latex E(X_\tau) = E(X_1) = 0.</description>
+    </item>
+    
+    <item>
+      <title>Cosa prodigiosa, ahora con palabras (II)</title>
+      <link>/2012/01/19/cosa-prodigiosa-ahora-con-palabras-ii/</link>
+      <pubDate>Thu, 19 Jan 2012 06:32:41 +0000</pubDate>
+      
+      <guid>/2012/01/19/cosa-prodigiosa-ahora-con-palabras-ii/</guid>
+      <description>Tal como prometí hace ahora una semana, voy a añadir las palabras que faltaban en aquella entrada. Pero primero, imaginad un bar en el que se venden cafés y cervezas. El coste de servir un café es de 1.10 euros pero se vende por 1. El coste de servir una cerveza es 1.30 euros pero se vende por 1.10. Entran los clientes y piden o café o cerveza. ¡Y resulta que a fin de mes el bar hace dinero!</description>
+    </item>
+    
+  </channel>
+</rss>

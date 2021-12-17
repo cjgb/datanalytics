@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>politikon on datanalytics</title>
+    <link>/tags/politikon/</link>
+    <description>Recent content in politikon on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 19 Sep 2018 08:13:19 +0000</lastBuildDate><atom:link href="/tags/politikon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ocurrencias: cuotas de gente de letras en la &#34;ciencia de datos&#34;</title>
+      <link>/2018/09/19/ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos/</link>
+      <pubDate>Wed, 19 Sep 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/09/19/ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos/</guid>
+      <description>Cada vez me dejo ver menos por Meetups y similares. Pero el otro día no pude decir que no a pasar por un evento organizado por la gente de Politikon sobre el futuro del trabajo, el trabajo del futuro y otras cosas que no vienen al caso.
+(No viene al caso pero lo resumo: acerca de la tecnología y su efecto en el trabajo en el futuro hay dos visiones contrapuestas: la de que dejará una masa enorme de desocupados y la de que no.</description>
+    </item>
+    
+  </channel>
+</rss>

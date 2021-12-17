@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p-hacking on datanalytics</title>
+    <link>/tags/p-hacking/</link>
+    <description>Recent content in p-hacking on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 28 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/p-hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qué métodos estadísticos utilizar si el pan de tus hijos depende de que las p sean pequeñajas</title>
+      <link>/2020/10/28/que-metodos-estadisticos-utilizar-si-el-pan-de-tus-hijos-depende-de-que-las-p-sean-pequenajas/</link>
+      <pubDate>Wed, 28 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/28/que-metodos-estadisticos-utilizar-si-el-pan-de-tus-hijos-depende-de-que-las-p-sean-pequenajas/</guid>
+      <description>Según Methods Matter: P-Hacking and Publication Bias in Causal Analysis in Economics, las variables instrumentales (para estas, en particular, véase esto) y las diferencias en diferencias:
+Es curioso que se estudie también la regresión con discontinuidades y que no acabe en el podio. Sospecho que es tan cantosa que no pasa los filtros de los editores y revisores.</description>
+    </item>
+    
+    <item>
+      <title>Sic &#34;scientia&#34; facta est</title>
+      <link>/2019/01/10/sic-scientia-facta-est/</link>
+      <pubDate>Thu, 10 Jan 2019 08:13:26 +0000</pubDate>
+      
+      <guid>/2019/01/10/sic-scientia-facta-est/</guid>
+      <description>Hoy escribo brevemente para comentar una herramienta con la que ayudar a pretendidos investigadores a hacer ciencia. Las instrucciones están aquí y la herramienta con la que entrenarse, aquí.
+¡Feliz contribución a ese futuro que sin ciencia dizque no será!</description>
+    </item>
+    
+  </channel>
+</rss>

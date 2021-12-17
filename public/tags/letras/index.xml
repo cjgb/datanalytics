@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>letras on datanalytics</title>
+    <link>/tags/letras/</link>
+    <description>Recent content in letras on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 29 Jan 2018 08:13:53 +0000</lastBuildDate><atom:link href="/tags/letras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dónde están las letras</title>
+      <link>/2018/01/29/donde-estan-las-letras/</link>
+      <pubDate>Mon, 29 Jan 2018 08:13:53 +0000</pubDate>
+      
+      <guid>/2018/01/29/donde-estan-las-letras/</guid>
+      <description>Inspirado en esto construí
+usando como texto el Quijote y como código una versión mucho más simple y limpia que (aunque inspirado en) la del enlace original:
+library(stringr) library(plyr) library(ggplot2) raw &amp;lt;- readLines(&amp;quot;http://www.gutenberg.org/cache/epub/2000/pg2000.txt&amp;quot;) # limpieza de encabezamientos textfile &amp;lt;- raw[-(1:36)] textfile &amp;lt;- text[1:which(text == &amp;quot;Fin&amp;quot;)] # en una única cadena textfile &amp;lt;- paste(textfile, collapse= &amp;quot; &amp;quot;) # limpieza textfile &amp;lt;- str_to_lower(textfile) textfile &amp;lt;- str_replace_all(textfile, &amp;quot;[[:punct:]]|[[:digit:]]&amp;quot;, &amp;quot; &amp;quot;) # selección de palabras words &amp;lt;- unique(unlist(str_split(textfile, &amp;quot; &amp;quot;))) words &amp;lt;- words[words !</description>
+    </item>
+    
+  </channel>
+</rss>

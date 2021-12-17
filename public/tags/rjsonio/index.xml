@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rjsonio on datanalytics</title>
+    <link>/tags/rjsonio/</link>
+    <description>Recent content in rjsonio on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 07 Mar 2016 09:13:12 +0000</lastBuildDate><atom:link href="/tags/rjsonio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sutilezas de las licencias libres</title>
+      <link>/2016/03/07/sutilezas-de-las-licencias-libres/</link>
+      <pubDate>Mon, 07 Mar 2016 09:13:12 +0000</pubDate>
+      
+      <guid>/2016/03/07/sutilezas-de-las-licencias-libres/</guid>
+      <description>Leyendo por ahí, he encontrado un comentario sobre el paquete RJSONIO de R en el que se recomendaba no usarlo por no ser libre.
+El paquete, aparentemente, está liberado bajo una licencia BSD. Pero su pecado es que dentro de uno de los ficheros que contiene, src/JSON_parser.c, dice
+Más información, aquí.
+No sé qué pensar sobre toda esta historia.</description>
+    </item>
+    
+  </channel>
+</rss>

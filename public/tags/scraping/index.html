@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>scraping - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="scraping" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/scraping/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/scraping/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">scraping</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2017/10/20/he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto/" rel="bookmark">
+			He tratado de contrastar una hipótesis sin éxito, así que solo publico el subproducto
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-10-20T08:13:02Z">2017-10-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Inspirado por esto he tratado de contrastar una hipótesis en otro contexto.
+Las cosas, o se hacen bien, o no se hacen. Como mi análisis se ha complicado con casos y casitos particulares, aunque siga pensándo cierta (en caso de tener que apostar, como priori, claro) la hipótesis de partida, abandono su búsqueda.
+Como subproducto, esto:
+library(xml2) library(stringr) library(plyr) library(lubridate) periodos &lt;- expand.grid(anno = 2010:2017, mes = 1:12) periodos$ind &lt;- periodos$anno * 100 + periodos$mes periodos &lt;- periodos[periodos$ind &lt; 201711,] periodos &lt;- paste(periodos$anno, str_pad(periodos$mes, 2, pad = &quot;0&quot;), sep = &quot;_&quot;) raw &lt;- lapply(periodos, function(x){ url &lt;- paste0(&quot;http://www.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/08/31/todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r/" rel="bookmark">
+			Tod[rep(&#39;a&#39;, 831)]s y tod[rep(&#39;o&#39;, 6450)]s los autores de paquetes de R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-08-31T08:13:15Z">2016-8-31</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En los últimos tiempos se ha puesto de moda un subgénero periodístico que es una manera de generar artículos de acuerdo con el siguiente algoritmo:
+ 1. Se toma una lista de personas. 2. Se cuenta en ella el número de mujeres (a) y de hombres (b). 3. Si a &gt;= b, GOTO 1; si no, se copipega y se mutatismutandea un manido argumento.  No sabiéndome sustraer al encanto del último grito, he escrito y corrido
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2016/05/19/como-capturar-datos-usados-en-visualizaciones-en-la-red-una-alternativa-robusta-al-scraping/" rel="bookmark">
+			Cómo capturar datos usados en visualizaciones en la red: una alternativa robusta al scraping
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-05-19T08:13:00Z">2016-5-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Se me pregunta cómo llegué a los datos con los que armé esta entrada. Recuérdese que gráficos como los que aparecen aquí los pinta tu propio navegador con javascript. De alguna manera, el servidor manda datos a tu navegador y, por lo tanto, de alguna manera, esos datos obran en tu poder. Sólo hay que saber capturarlos.
+La manera (más bien, una de ellas):
+ * Abre la página con Chrome * Abre [_Chrome DevTools_](https://developer.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/10/09/madrid-decide-propone-vota-etc/" rel="bookmark">
+			Madrid decide, propone, vota, etc.
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-10-09T08:13:44Z">2015-10-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		De siempre, no sé por qué motivo, me interesaron esas cosas relacionadas con la democracia directa. En la feria del libro del año nosecuántos compré un libro al respecto (que presté y no me han devuelto). He seguido de cerca del desarrollo de plataformas como Agora y conozco a alguno de sus desarrolladores. Di guerrita en Suiza a los locales para que me explicasen pros, contras y funcionamientos de lo que allí tienen instalado.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2015/05/07/para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos/" rel="bookmark">
+			Para los que buscáis proyectos de análisis / visualización de datos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2015-05-07T08:13:49Z">2015-5-7</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/nlp/" rel="category">nlp</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Igual hay alguien que busca un proyecto interesante de análisis / visualización de datos. Tengo uno en mente para el que ando sin tiempo. Así que lo sugiero aquí por si alguien quiere hincarle el diente.
+Consiste en:
+ * [Bajarse el BOE](http://www.datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/) hasta cuando hay texto en formatos decentes (principios de los 90, si no recuerdo mal) * Extraer los [1,2,3,¿4?-gramas](http://en.wikipedia.org/wiki/N-gram) * Construir algo [parecido a esto](https://books.google.com/ngrams/graph?content=energ%C3%ADa+nuclear%2C+energ%C3%ADa+e%C3%B3lica&amp;year_start=1800&amp;year_end=2000&amp;corpus=21&amp;smoothing=3&amp;share=&amp;direct_url=t1%3B%2Cenerg%C3%ADa%20nuclear%3B%2Cc0%3B.t1%3B%2Cenerg%C3%ADa%20e%C3%B3lica%3B%2Cc0) * Ponerme en la letra chiquita de los créditos y pagarme una cerveza  ¿O no es interesante?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/04/30/embalses-en-espana-otro-ejercicio-inconcluso-de-web-scraping/" rel="bookmark">
+			Embalses en España: otro ejercicio inconcluso de &#34;web scraping&#34;
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-04-30T06:51:55Z">2014-4-30</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Vi el otro día que alguien había conseguido datos de la entrada en funcionamiento de las presas de EE.UU. y me picó la curiosidad: ¿se podrán conseguir también para España?
+La respuesta es afirmativa.
+El código para bajarse (y adecentar un poco) la base de datos es:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/XML&quot;&gt;XML) ## bajada de datos tmp &lt;- lapply(1:47, function(x) readLines(paste(&quot;http://www.seprem.es/presases.php?p=&quot;, x, sep = &quot;&quot;))) tmp2 &lt;- lapply(tmp, readHTMLTable) ## limpieza de datos res &lt;- lapply(tmp2, function(x) x[[1]]) res &lt;- do.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/" rel="bookmark">
+			Aventuras de &#34;web scraping&#34;: cómo bajarse todo el BOE
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-04-24T07:47:56Z">2014-4-24</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Rescato aquí para futura o ajena referencia un pedazo de código que utilicé un día para un proyecto que se abortó y que tenía que ver con el análisis del texto del BOE. Reza así:
+setwd(&quot;~/boe/boes&quot;) library(&lt;a href=&quot;http://inside-r.org/packages/cran/RCurl&quot;&gt;RCurl) h = getCurlHandle() for( i in 1:3231){ mi.url &lt;- paste(&quot;http://www.boe.es/diario_boe/xml.php?id=BOE-A-2013-&quot;, i, sep = &quot;&quot;) nom.fich &lt;- paste(&quot;2013-A-&quot;, formatC(i, width = 6, format = &quot;d&quot;, flag = &quot;0&quot;), &quot;.xml&quot;, sep = &quot;&quot;) res &lt;- getURI(mi.
+	</div>
+</article>
+</main>
+
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

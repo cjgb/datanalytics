@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microdatoses on datanalytics</title>
+    <link>/tags/microdatoses/</link>
+    <description>Recent content in microdatoses on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 21 Mar 2019 08:13:41 +0000</lastBuildDate><atom:link href="/tags/microdatoses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encuesta de Estructura Salarial y R: propedéutica</title>
+      <link>/2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/</link>
+      <pubDate>Thu, 21 Mar 2019 08:13:41 +0000</pubDate>
+      
+      <guid>/2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/</guid>
+      <description>La nota de prensa que acompaña a los resultados definitivos de la EES de 2014 reza:
+Para poder replicar esa cifra y poder comparar manzanas con manzanas hay que preprocesar los datos crudos de la EES así:
+&amp;lt;code&amp;gt;library(MicroDatosEs) dat &amp;lt;- ees2010(&amp;quot;md_EES_2014.txt&amp;quot;) # Días año dat$DIASRELABA &amp;lt;- dat$DRELABAM * 30.42 + dat$DRELABAD dat$DIASRELABA[dat$DIASRELABA &amp;gt; 365]&amp;lt;- 365 dat$DIASANO &amp;lt;- dat$DIASRELABA - dat$DSIESPA2 - dat$DSIESPA4 # Salario bruto anual dat$SALANUAL = (365/dat$DIASANO)*(dat$SALBRUTO + dat$VESP)&amp;lt;/code&amp;gt;  Ahora sí que se puede definir, por ejemplo,</description>
+    </item>
+    
+    <item>
+      <title>Casos de uso de MicroDatosEs</title>
+      <link>/2018/05/16/casos-de-uso-de-microdatoses/</link>
+      <pubDate>Wed, 16 May 2018 08:13:42 +0000</pubDate>
+      
+      <guid>/2018/05/16/casos-de-uso-de-microdatoses/</guid>
+      <description>[MicroDatosEs](https://github.com/rOpenSpain/MicroDatosEs) ha sufrido algunas modificaciones recientes. En particular, un nuevo colaborador, Jorge López Pérez ha reescrito la documentación usando [roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html).
+Pero falta una cosa importante (sobre todo, para el usuario esporádico): casos de uso.
+En la página del paquete (el README.md de Github) he añadido una sección de ejemplos de uso de funciones del paquete, que actualmente solo tiene un enlace. Pero si alguien ha hecho o conoce algún otro ejemplo, y me lo puede comunicar, lo añadiré muy gustosamente (y quedaré muy agradecido).</description>
+    </item>
+    
+    <item>
+      <title>¿Un voluntario para aggiornar MicroDatosEs?</title>
+      <link>/2018/03/26/un-voluntario-para-aggiornar-microdatoses/</link>
+      <pubDate>Mon, 26 Mar 2018 08:13:29 +0000</pubDate>
+      
+      <guid>/2018/03/26/un-voluntario-para-aggiornar-microdatoses/</guid>
+      <description>Mi paquete MicroDatosEs ya forma parte de rOpenSpain. Sin embargo, está falto de ciertas mejoras a las que aspiran los paquetes que forman parte de dicho repositorio.
+Una de ellas es la de migrar la documentación del paquete a roxigen2. Lo podría hacer yo, pero es muy aburrido. Sin embargo, entiendo que puede ser entretenido (además de sencillo) para alguien que:
+ * No sepa de qué va eso de `roxigen2` pero me tome la palabra en eso de que es importante.</description>
+    </item>
+    
+    <item>
+      <title>rOpenSpain: ahí tiro el guante</title>
+      <link>/2017/10/11/ropenspain-ahi-tiro-el-guante/</link>
+      <pubDate>Wed, 11 Oct 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/10/11/ropenspain-ahi-tiro-el-guante/</guid>
+      <description>La gente de rOpenSci hace cosas a las que merece la pena atento. Tanto por los objetivos como por medios y las formas. Recomiendo seguir sus últimas publicaciones acerca de la profesionalización del proceso de desarrollo de código.
+Llevo unos meses jugando con una idea inspirada por rOpenSci: crear un respositorio y un consorcio más o menos formal que desarrolle, mantenga y mejore herramientas (en R) de interés para el procesamiento y análisis de datos ya no científicos sino españoles.</description>
+    </item>
+    
+    <item>
+      <title>El guión de mi charla sobre microdatos</title>
+      <link>/2016/11/22/el-guion-de-mi-charla-sobre-microdatos/</link>
+      <pubDate>Tue, 22 Nov 2016 08:13:25 +0000</pubDate>
+      
+      <guid>/2016/11/22/el-guion-de-mi-charla-sobre-microdatos/</guid>
+      <description>No auncié mi pequeña charla/taller del sábado pasado sobre microdatos porque la sala tenía un aforo ínfimo y en el Meetup correspondiente había lista de espera.
+Pero cuelgo el material (que es un guión; no hay presentación) por si a alguien le resulta útil.</description>
+    </item>
+    
+    <item>
+      <title>Busco viñetista (para MicroDatosEs)</title>
+      <link>/2015/06/24/busco-vinetista-para-microdatoses/</link>
+      <pubDate>Wed, 24 Jun 2015 08:13:18 +0000</pubDate>
+      
+      <guid>/2015/06/24/busco-vinetista-para-microdatoses/</guid>
+      <description>Las viñetas son complementos importantes para un paquete, para que un usuario circunstancial pruebe y use un paquete. Uno de los míos, MicroDatosEs carece de ellas.
+Me gustaría poder añadirle una o más que ilustraran cómo usarlo. Por ejemplo, para reproducir algunos de los números que ofrece el INE en sus notas de prensa.
+Por eso te ofrezco la posibilidad de que te conviertas en viñetista. Eso te convertiría en colaborador del paquete (que es algo que cabe en un currículo).</description>
+    </item>
+    
+    <item>
+      <title>La encuesta de presupuestos familiares, en MicroDatosEs</title>
+      <link>/2015/06/18/la-encuesta-de-presupuestos-familiares-en-microdatoses/</link>
+      <pubDate>Thu, 18 Jun 2015 08:13:10 +0000</pubDate>
+      
+      <guid>/2015/06/18/la-encuesta-de-presupuestos-familiares-en-microdatoses/</guid>
+      <description>Hoy he subido una nueva versión del paquete MicroDatosEs a r-forge que incluye herramientas para cargar los datos de la Encuesta de Presupuestos Familiares.
+Aún no está en CRAN, pero estáis invitados a probarla instalando la versión de desarrollo mediante
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/install.packages&amp;quot;&amp;gt;install.packages(&amp;quot;MicroDatosEs&amp;quot;, repos=&amp;quot;http://R-Forge.R-project.org&amp;quot;)  La parte del paquete que se encarga de la EPF es obra de Diego Paniagua, que es uno de los estudiantes del Experto en Data Science de la UTAD.</description>
+    </item>
+    
+    <item>
+      <title>Unas preguntas incómodas</title>
+      <link>/2015/03/09/unas-preguntas-incomodas/</link>
+      <pubDate>Mon, 09 Mar 2015 08:13:39 +0000</pubDate>
+      
+      <guid>/2015/03/09/unas-preguntas-incomodas/</guid>
+      <description>Que la mujer promedio gana menos que el hombre promedio es un hecho conocido. A los usuarios de R que estén al tanto de mi paquete MicroDatosEs no hace falta siquiera que se lo cuenten: pueden bajar los datos de la Encuesta de Estructura Salarial del INE y hacer el cálculo por sí mismos.
+Que las mujeres ganen menos en promedio aun teniendo en cuenta las variables recogidas en dicha encuesta (nivel de formación, antigüedad en el puesto de trabajo, etc.</description>
+    </item>
+    
+    <item>
+      <title>Disponible una nueva versión de MicroDatosEs</title>
+      <link>/2014/06/27/disponible-una-nueva-version-de-microdatoses/</link>
+      <pubDate>Fri, 27 Jun 2014 07:46:29 +0000</pubDate>
+      
+      <guid>/2014/06/27/disponible-una-nueva-version-de-microdatoses/</guid>
+      <description>Acabo de subir a CRAN una nueva versión de MicroDatosEs, un paquete para procesar automáticamente en R ficheros de microdatos públicos españoles.
+A los cambios y mejoras a los que me referí el otro día, esta nueva versión añade otras, obra de Carlos Neira, que es ahora contribuidor oficial del paquete.
+Carlos también contribuyó a detectar y corregir un error inducido por el INE, que cambió el formato del fichero introduciendo una nueva variable sin aviso previo.</description>
+    </item>
+    
+    <item>
+      <title>Nueva versión de MicroDatosEs: héroes, villanos y mejoras</title>
+      <link>/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/</link>
+      <pubDate>Wed, 14 May 2014 07:00:28 +0000</pubDate>
+      
+      <guid>/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/</guid>
+      <description>Ayer odié mucho a José Luis Cañadas —que sigue no obstante siendo amigo: véase más abajo— por esto:
+Hubiera preferido reservarme la primicia para todos sus usuarios y simpatizantes de la nueva versión del paquete MicroDatosEs recién subida a CRAN pero&amp;hellip; en fin.
+De todos modos José Luis no es el villano de la historia. El villano es el INE, que parió en la mañana del 29 de abril los nuevos resultados de la EPA con un cambio retroactivo de formato en los ficheros de microdatos que rompió mis funciones justo cuando más falta hacían.</description>
+    </item>
+    
+    <item>
+      <title>Vídeo de la charla sobre la EPA (y más cosas) en Medialab Prado</title>
+      <link>/2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/</link>
+      <pubDate>Wed, 26 Jun 2013 07:04:33 +0000</pubDate>
+      
+      <guid>/2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/</guid>
+      <description>Ya ha salido publicado el vídeo de la charla sobre la EPA (y más cosas) que anuncié el otro día.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Tu tasa de paro&#34; en Medialab Prado</title>
+      <link>/2013/04/15/tu-tasa-de-paro-en-medialab-prado/</link>
+      <pubDate>Mon, 15 Apr 2013 07:08:32 +0000</pubDate>
+      
+      <guid>/2013/04/15/tu-tasa-de-paro-en-medialab-prado/</guid>
+      <description>El martes (2013-04-15 en formato ISO 8601) participaré en el II Barcamp de Periodismo de Datos en Medialab Prado de 5:00 a 8:00 de la tarde.
+
+Hablaré de Tu Tasa de Paro, proyecto del que ya hablé en otra ocasión. Y aprovecharé, claro está, para promocionar R y, en particular, el paquete MicroDatosEs.
+¡Estáis invitados!</description>
+    </item>
+    
+    <item>
+      <title>Tu tasa de paro personal</title>
+      <link>/2013/01/24/tu-tasa-de-paro-personal/</link>
+      <pubDate>Thu, 24 Jan 2013 13:50:39 +0000</pubDate>
+      
+      <guid>/2013/01/24/tu-tasa-de-paro-personal/</guid>
+      <description>En el pasado nos hemos ocupado en estas páginas del desempleo. Hoy, día en el que se han anunciado los datos de la EPA del último trimestre de 2012, sale a la luz TTParo.es, un proyecto en el que he colaborado (aunque en el que todo lo que se ve es obra de Kaleidos) y que permite calcular tu tasa de paro personal.
+Por ejemplo, en
+
+puedo ver la evolución de la tasa de paro de aquellos que son como yo desde el 2005 y compararla con la general.</description>
+    </item>
+    
+    <item>
+      <title>¿... coma cero dos por ciento? ¡Anda ya!</title>
+      <link>/2012/11/28/coma-cero-dos-por-ciento-anda-ya/</link>
+      <pubDate>Wed, 28 Nov 2012 06:52:41 +0000</pubDate>
+      
+      <guid>/2012/11/28/coma-cero-dos-por-ciento-anda-ya/</guid>
+      <description>Hoy hablo en la reunión del grupo de usuarios de R de Madrid. Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi paquete MicroDatosEs y voy a aprovechar para criticar, en mi estilo, enunciados como
+que pueden encontrarse en la nota de prensa del INE que resume los resultados de la última encuesta de población activa, la del tercer trimestre de 2012.</description>
+    </item>
+    
+    <item>
+      <title>Fallecimientos y microdatos</title>
+      <link>/2012/08/13/fallecimientos-y-microdatos/</link>
+      <pubDate>Mon, 13 Aug 2012 08:57:36 +0000</pubDate>
+      
+      <guid>/2012/08/13/fallecimientos-y-microdatos/</guid>
+      <description>Hace un tiempo, un amigo me dijo que si en verano tiende a crecer la tasa de fallecimientos. Como de eso no sé y no hay manera de preguntarle a Google cuándo se muere más la gente, acudí a quienes se encargan de recopilar ese tipo de datos. Y construí en relativamente poco rato un gráfico parecido a
+
+que echaba por tierra su hipótesis.
+Ahora quiero retomar el asunto aprovechando que he anunciado el paquete MicroDatosEs para indicar cómo se pueden crear los tres ficheros de metadatos necesarios para leer ficheros de microdatos.</description>
+    </item>
+    
+    <item>
+      <title>Un paseo por el paquete MicroDatosEs (y la EPA, de nuevo)</title>
+      <link>/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/</link>
+      <pubDate>Mon, 06 Aug 2012 07:31:47 +0000</pubDate>
+      
+      <guid>/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/</guid>
+      <description>En esta entrada voy a ilustrar el uso del paquete MicroDatosEs que anuncié el otro día. Como indiqué entonces, de momento sólo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
+Como todavía no están disponibles los del segundo trimestre del 2012, utilizaré los del primero. Para ello, hay que ir a las páginas del INE y seleccionar el fichero correspondiente al primer trimestre de 2012 (que los impacientes pueden descargar directamente de su enlace directo).</description>
+    </item>
+    
+    <item>
+      <title>El paquete MicroDatosEs para microdatos públicos</title>
+      <link>/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/</link>
+      <pubDate>Fri, 03 Aug 2012 07:38:41 +0000</pubDate>
+      
+      <guid>/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/</guid>
+      <description>Comencé hace un tiempo un pequeño paquete de R, MicroDataEs, para importar automáticamente a R ficheros de microdatos distribuidos por los diversos organismos estadísticos (españoles, por acotar el ámbito). El objetivo es facilitar el análisis de este tipo de datos a los usuarios de R y como consecuencia:
+ * fomentar el uso de R entre aquellos que utilicen frecuentemente este tipo de información y * hacer más accesibles estos datos a los usuarios de R.</description>
+    </item>
+    
+  </channel>
+</rss>

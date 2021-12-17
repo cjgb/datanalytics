@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iris on datanalytics</title>
+    <link>/tags/iris/</link>
+    <description>Recent content in iris on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Sep 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/iris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En defensa de iris</title>
+      <link>/2020/09/21/en-defensa-de-iris/</link>
+      <pubDate>Mon, 21 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/21/en-defensa-de-iris/</guid>
+      <description>El archiconocido conjunto de datos iris es víctima reciente de un ataque relacionado con su pecado original: haber tenido unos padres estigmatizados hoy por su otrora popular idea de que gracias a la ciencia podríamos construir un futuro mejor.
+También ha sido víctima de ataques, esta vez más endógenos, relacionados con lo menguado de su tamaño y lo trivial de su estructura.
+Vengo aquí a romper una lanza —tres, más bien— en favor de este muy querido de los más conjunto de datos.</description>
+    </item>
+    
+  </channel>
+</rss>

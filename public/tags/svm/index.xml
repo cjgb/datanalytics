@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>svm on datanalytics</title>
+    <link>/tags/svm/</link>
+    <description>Recent content in svm on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 11 Sep 2017 08:13:03 +0000</lastBuildDate><atom:link href="/tags/svm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pues los SVMs, al final, no son tan exóticos</title>
+      <link>/2017/09/11/pues-los-svms-al-final-no-son-tan-exoticos/</link>
+      <pubDate>Mon, 11 Sep 2017 08:13:03 +0000</pubDate>
+      
+      <guid>/2017/09/11/pues-los-svms-al-final-no-son-tan-exoticos/</guid>
+      <description>Impartí un curso sobre máquinas de vector soporte (SVMs en lo que sigue) en Lima el pasado mes de agosto.
+Las SVMs (o más propiamente, los clasificadores de margen máximo) son exóticos dentro del repertorio del científico de datos. Lo que buscan es un hiperplano que maximiza el margen entre tirios o troyanos,
+con o sin penalización para los puntos que insisten en permanecer en la región del espacio que no les corresponde.</description>
+    </item>
+    
+    <item>
+      <title>Todos los errores son iguales, pero algunos son más iguales que otros</title>
+      <link>/2015/08/28/todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros/</link>
+      <pubDate>Fri, 28 Aug 2015 08:13:32 +0000</pubDate>
+      
+      <guid>/2015/08/28/todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros/</guid>
+      <description>Por eso, en la práctica, el RMSE y similares son irrelevantes. Aunque eso, desgraciadamente, no quiera decir que no sean utilizados.
+Pero en muchas ocasiones no es el error medio la medida importante. A menudo uno quiere detectar outliers: una variable de interés tiene un comportamiento normal la mayor parte del tiempo pero en ocasiones, en raras ocasiones, cuando supera un umbral, produce catástrofes. Dejarse guiar por el RMSE (o similares) produciría una peligrosa sensación de seguridad: detectaría la normalidad; la anormalidad, lo interesante, le resultaría inasequible.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epf on datanalytics</title>
+    <link>/tags/epf/</link>
+    <description>Recent content in epf on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Jun 2015 08:13:10 +0000</lastBuildDate><atom:link href="/tags/epf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La encuesta de presupuestos familiares, en MicroDatosEs</title>
+      <link>/2015/06/18/la-encuesta-de-presupuestos-familiares-en-microdatoses/</link>
+      <pubDate>Thu, 18 Jun 2015 08:13:10 +0000</pubDate>
+      
+      <guid>/2015/06/18/la-encuesta-de-presupuestos-familiares-en-microdatoses/</guid>
+      <description>Hoy he subido una nueva versión del paquete MicroDatosEs a r-forge que incluye herramientas para cargar los datos de la Encuesta de Presupuestos Familiares.
+Aún no está en CRAN, pero estáis invitados a probarla instalando la versión de desarrollo mediante
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/utils/install.packages&amp;quot;&amp;gt;install.packages(&amp;quot;MicroDatosEs&amp;quot;, repos=&amp;quot;http://R-Forge.R-project.org&amp;quot;)  La parte del paquete que se encarga de la EPF es obra de Diego Paniagua, que es uno de los estudiantes del Experto en Data Science de la UTAD.</description>
+    </item>
+    
+  </channel>
+</rss>

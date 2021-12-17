@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raster on datanalytics</title>
+    <link>/tags/raster/</link>
+    <description>Recent content in raster on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 03 May 2018 08:13:35 +0000</lastBuildDate><atom:link href="/tags/raster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>t y as.raster no conmutan; ¿por qué no conmutarán?</title>
+      <link>/2018/05/03/t-y-as-raster-no-conmutan-por-que-no-conmutaran/</link>
+      <pubDate>Thu, 03 May 2018 08:13:35 +0000</pubDate>
+      
+      <guid>/2018/05/03/t-y-as-raster-no-conmutan-por-que-no-conmutaran/</guid>
+      <description>Creo una minimatriz, la convierto en un raster y la represento:
+m &amp;lt;- matrix(c(0, 0, 0.33, 0.66, .9, .9), 2, 3) m # [,1] [,2] [,3] # [1,] 0 0.33 .9 # [2,] 0 0.66 .9 r &amp;lt;- as.raster(m) r # [,1] [,2] [,3] # [1,] &amp;quot;#000000&amp;quot; &amp;quot;#545454&amp;quot; &amp;quot;#FFFFFF&amp;quot; # [2,] &amp;quot;#000000&amp;quot; &amp;quot;#A8A8A8&amp;quot; &amp;quot;#FFFFFF&amp;quot; plot(r, interpolate = FALSE)  Ahora, con la matriz traspuesta,
+r_t_1 &amp;lt;- as.raster(t(m)) r_t_1 # [,1] [,2] # [1,] &amp;quot;#000000&amp;quot; &amp;quot;#000000&amp;quot; # [2,] &amp;quot;#545454&amp;quot; &amp;quot;#A8A8A8&amp;quot; # [3,] &amp;quot;#E6E6E6&amp;quot; &amp;quot;#E6E6E6&amp;quot;  obtengo</description>
+    </item>
+    
+  </channel>
+</rss>

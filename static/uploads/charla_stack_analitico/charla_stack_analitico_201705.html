@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html class=" js no-mobile desktop no-ie ff ff53 tmp-section charla-section w-1280 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 lt-1440 lt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius no-cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded" id="index-page" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+
+        <title>Si yo fuese rey</title>
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+        <link rel="stylesheet" href="rey_files/reveal.css">
+    
+        <link rel="stylesheet" href="rey_files/black.css" id="theme">
+    
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="rey_files/zenburn.css">
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'bower_components/reveal.js/css/print/pdf.css' : 'bower_components/reveal.js/css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script><link rel="stylesheet" type="text/css" href="rey_files/paper.css">
+
+        <!--[if lt IE 9]>
+        <script src="bower_components/reveal.js/lib/js/html5shiv.js"></script>
+        <![endif]--><script type="text/javascript" src="rey_files/marked.js"></script><script type="text/javascript" src="rey_files/markdown.js"></script><script type="text/javascript" src="rey_files/loadhtmlslides.js"></script><script type="text/javascript" src="rey_files/highlight.js"></script><script type="text/javascript" src="rey_files/zoom.js"></script><script type="text/javascript" src="rey_files/notes.js"></script>
+    </head>
+
+    <body style="transition: -webkit-transform 0.8s ease 0s;">
+
+        <div class="reveal slide center" role="application" data-transition-speed="default" data-background-transition="fade">
+
+            <div class="slides" style="width: 960px; height: 700px; left: 50%; top: 50%; bottom: auto; right: auto; transform: translate(-50%, -50%) scale(1.19443);">
+
+                
+                    
+                        
+    <section data-markdown="" data-markdown-parsed="true" style="top: 63.5px; display: block;" class="present"><h1 id="si-yo-fuese-rey-todo-el-mundo-sabr-a-programar">Si yo fuese rey, todo el mundo sabría programar</h1>
+<h4 id="carlos-j-gil-bellosta-gilbellosta-">Carlos J. Gil Bellosta (@gilbellosta )</h4>
+<h4 id="http-circiter-es-http-datanalytics-com"><a href="http://circiter.es/">http://circiter.es</a> - <a href="http://datanalytics.com/">http://datanalytics.com</a></h4>
+</section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="" data-markdown-parsed="true" style="top: 70px; display: block;" aria-hidden="true" class="future" hidden=""><h2 id="soy-">Soy...</h2>
+<ul>
+<li>presidente de la Comunidad R Hispano,</li>
+<li>usuario de R desde hace 16 años,</li>
+<li>autor de paquetes de R de desigual éxito y utilidad y</li>
+<li>pago mi hipoteca con R.</li>
+</ul>
+<blockquote>
+<p>Así que tenéis buenos motivos para no creer nada de lo que os cuente sobre <strong>R</strong>.</p>
+</blockquote>
+</section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="" data-markdown-parsed="true" style="top: 188.5px; display: block;" aria-hidden="true" class="future" hidden=""><h2 id="resumen-ejecutivo">Resumen ejecutivo</h2>
+<ul>
+<li>El <em>stack</em> (o pila) analítico</li>
+<li>El rol de la programación en el <em>stack</em> analítico</li>
+<li>El papel de <strong>R</strong>: fortalezas, debilidades y alternativas</li>
+</ul>
+</section>
+
+
+                    
+                    
+                
+                    
+                    
+                        <section style="top: 330px; display: none;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;"><h2 id="el-_stack_-anal-tico">El <em>stack</em> analítico</h2>
+</section>
+
+
+                            
+                                
+    <section data-html="slides/esto-ya-lo-sabemos.html" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2>Esto lo sabemos sobradamente</h2>
+
+<img src="rey_files/data_science.png" style="width:600px">
+</section>
+
+
+                            
+                                
+    <section data-html="slides/stacks.html" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2>Otros <i>stacks</i></h2>
+
+<img src="rey_files/stacks.jpg" style="width:600px">
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="_stack_-anal-tico-componentes"><em>Stack</em> analítico: componentes</h2>
+<ul>
+<li>Inglés</li>
+<li>Sistemas operativos (¡decentes!)</li>
+<li>Redes de ordenadores, HTTP, APIs, JSON,...</li>
+<li>Redes de... ¡colaboradores!</li>
+<li>Editores / IDEs</li>
+<li>Programación</li>
+<li>Librerías de ML</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="sistemas-operativos">Sistemas operativos</h2>
+<ul>
+<li>Windows es problemático</li>
+<li><p>No hay alternativa a UNIX (Linux, macOS) por:</p>
+<ul>
+<li>Integración en el <em>stack</em></li>
+<li>La nube (Amazon, etc.)</li>
+<li>Hadoop, Spark, etc.</li>
+<li>Docker y similares</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Y todo ello consecuencia de que fueron creados por y para <em>hackers</em>.</p>
+</blockquote>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="tecnolog-as-de-internet">Tecnologías de internet</h2>
+<ul>
+<li>Cada vez existen más servicios vía API</li>
+<li>Tenemos que saber usarlos... ¡y crearlos!</li>
+</ul>
+<blockquote>
+<p>ssh, curl, get, post, endpoint, api, flask, json, scraping, xhr, 
+xpath, http, scp, nat, ip, tcp, port, telnet, apache, nginx, postfix, 
+css,...</p>
+</blockquote>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="tecnolog-as-de-colaboraci-n">Tecnologías de colaboración</h2>
+<ul>
+<li>Slack, Telegram, Trello,... pero también <code>git</code> (y Github, Bitbucket, etc.)</li>
+<li><p><strong>¡Texto!</strong></p>
+<ul>
+<li>Es el formato "universal"</li>
+<li>No formatos binarios: .doc, .xls y similares</li>
+<li>Alternativas: csv (bien formados), markdown, yaml,...</li>
+</ul>
+</li>
+<li><p>Y recuerda: <em>seas quien seas, casi todo el talento está fuera</em>:</p>
+<ul>
+<li>Blogs, twitter,...</li>
+<li>StackOverflow,...</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="editores-de-texto-e-ides">Editores de texto e IDEs</h2>
+<ul>
+<li>Hay que enamorarse y comprometerse seriamente con un editor de texto (VIM, Emacs, Sublime,...)</li>
+<li>No, notepad no es un editor de texto decente</li>
+<li>Hay IDEs muy potentes: RStudio (para R), Spyder (Python),...</li>
+<li>Alternativas modernas: los <em>notebooks</em> (Jupyter, Zeppelin,...)</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-html="slides/ghost-in-the-shell.html" class="future" aria-hidden="true" style="top: 330px; display: none;"><img src="rey_files/gits_hands.png" style="width:600px">
+</section>
+
+
+                            
+                                
+    <section data-html="slides/programacion.html" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2>Programación</h2>
+
+<img src="rey_files/computers.jpg" style="width:600px">
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="librer-as-de-ml">Librerías de ml</h2>
+<ul>
+<li>Se les da mucha importancia pero son un corolario.</li>
+<li>Si se sabe programar, si se sabe estadística/ML, utilizarlas es simple.</li>
+<li><p>Ejemplos:</p>
+<ul>
+<li>H2O, MLlib, Mahout,...</li>
+<li>Las del mundo del <em>deep learning</em>: Caffe, Torch, Mxnet, TensorFlow, etc. </li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section style="top: 330px; display: none;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;"><h2 id="programaci-n">Programación</h2>
+<p>Objetivo: poder mantener <em>conversaciones adultas</em> con los ordenadores.</p>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="programaci-n-prerrequisitos">Programación: prerrequisitos</h2>
+<ul>
+<li>SQL: es el (seudo-) lenguaje <em>de facto</em> para manipular tablas. Los lenguajes de programación debaten si superarlo o simularlo.</li>
+<li>Regex (expresiones regulares): esenciales para manipular texto.</li>
+<li>...</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="lenguajes-para-ciencia-de-datos">Lenguajes para ciencia de datos</h2>
+<h4 id="r-python-scala-spark">R, Python, Scala / Spark</h4>
+<ul>
+<li>Todo el mundo habla de lo que los diferencia</li>
+<li><p>¡Pero apenas de lo que tienen en común!</p>
+<ul>
+<li><code>data.frames</code></li>
+<li>Aspectos funcionales</li>
+<li>Pasar de uno a otro es más fácil de lo que parece</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="lenguajes-metalenguajes-sintaxis">Lenguajes ~ metalenguajes + sintaxis</h2>
+<pre><code class="hljs lisp">ddply(<span class="hljs-name">iris</span>, .(<span class="hljs-name">Species</span>), summarize, media = mean(<span class="hljs-name">Petal</span>.Length)
+</code></pre><pre><code class="hljs prolog">iris.groupby([<span class="hljs-string">'Species'</span>])[<span class="hljs-string">'Petal_Length'</span>].mean()
+</code></pre><pre><code class="hljs stata">iris.groupBy(<span class="hljs-string">"Species"</span>).agg(<span class="hljs-keyword">mean</span>(<span class="hljs-string">"Petal_Length"</span>))
+</code></pre><p>La metaoperación es el <em>groupby</em>; el resto es <em>solo</em> sintaxis.</p>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="scala-spark">Scala / Spark</h2>
+<ul>
+<li>Solo se justifica para datos grandes</li>
+<li>Es el menos exploratorio y el más formal</li>
+<li>Complementa a (más que compite con) R y Python</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="r">R</h2>
+<ul>
+<li>No es un lenguaje de programación (únicamente)</li>
+<li>Está orientado a la exploración y el prototipado</li>
+<li>No se recomienda <em>en producción</em></li>
+<li>Es un DSL con aspiraciones de GPL</li>
+<li>Muy completo en términos de herramientas estadísticas y de ML</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="python">Python</h2>
+<ul>
+<li>Es un lenguaje de programación que puede adaptarse a la exploración</li>
+<li>Más conveniente que R <em>en producción</em></li>
+<li>Es un GPL con aspiraciones de DSL</li>
+<li>¡Le faltan tantas cosas (con respecto a R)!</li>
+</ul>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section style="top: 330px; display: none;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;"><h2 id="-por-qu-r-">¿Por qué R?</h2>
+<p>Nota: gran parte de lo que sigue aplica también a Python.</p>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="r-encaja-en-el-_stack_-anal-tico">R encaja en el <em>stack</em> analítico</h2>
+<ul>
+<li>Está integrado en UNIX/Linux y su <em>manera de hacer las cosas</em></li>
+<li>Es colaborativo (en el sentido de la catedral y el bazar)</li>
+<li>Interopera con las librerías de ML</li>
+<li>...</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="particularidades-de-r">Particularidades de R</h2>
+<ul>
+<li>No es (únicamente) un lenguaje de programación</li>
+<li>Está pensado para ser usado interactivamente: como SPSS y otros, pero sin menús</li>
+<li>No es ideal para construir programas largos o ser <em>subido a producción</em></li>
+<li><p>Sí que lo es para el día a día del analista de datos:</p>
+<ul>
+<li>Reemplaza a Excel, Word (con Rmarkdown),...</li>
+<li>Permite acceder bases de datos SQL, Spark, etc.</li>
+<li>Da acceso a APIs</li>
+<li>Permite realizar manipulaciones avanzadas de datos</li>
+<li>Integra <em>toda</em> la estadística y el ML...</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="r-y-datos">R y datos</h2>
+<ul>
+<li><p>Reemplaza a Excel:</p>
+<ul>
+<li>Filtrado, selección, inspección,...</li>
+<li>Tablas dinámicas</li>
+</ul>
+</li>
+<li><p>Reemplaza, complementa y extiende SQL:</p>
+<ul>
+<li>Cruces (<em>inner</em>, <em>left</em>,...)</li>
+<li>Agrupaciones (<em>group by</em>)</li>
+<li>Funciones analíticas (<em>partition by</em>)</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="r-y-documentos-rmarkdown">R y documentos: Rmarkdown</h2>
+<ul>
+<li><p>Rmarkdown permite generar documentos que:</p>
+<ul>
+<li>Integran texto, capítulos, <em>bullets</em>, negritas, cursivas,...</li>
+<li><em>Corren</em> pedazos de código en R</li>
+</ul>
+</li>
+<li><p>Estos pedazos de código:</p>
+<ul>
+<li>Generan gráficos, tablas, etc., que se integran automáticamente en documentos</li>
+<li>Permiten acceder a fuentes externas de datos</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-html="slides/r-y-graficos.html" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2>R y gráficos</h2>
+
+<img src="rey_files/suiza.png" style="width:700px">
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="m-s-sobre-r-y-gr-ficos">Más sobre R y gráficos</h2>
+<ul>
+<li>R ha sido siempre innovador en el mundo de los gráficos estadísticos (desde los 70-80)</li>
+<li><code>lattice</code> y <code>ggplot2</code> han servido de inspiración a Python y otros entornos</li>
+<li>Y R tampoco es ajeno al <em>boom</em> de los gráficos dinámicos</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="shiny">Shiny</h2>
+<ul>
+<li>Sirve para diseminar información estadística </li>
+<li>Incluye los <em>cuadros de mando</em> </li>
+<li>Se ha convertido en una industria en sí mismo</li>
+<li><p>Se pueden ver ejemplos en:</p>
+<ul>
+<li><a href="https://shiny.rstudio.com/gallery/">Shiny Gallery</a> (simples, orientados a aprender Shiny)</li>
+<li><a href="https://www.rstudio.com/products/shiny/shiny-user-showcase/">Shiny User Showcase</a> (más elaborados y realistas)</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                    
+                        <section style="top: 330px; display: none;" aria-hidden="true" class="stack future" hidden="">
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;"><h2 id="mi-libro">Mi libro</h2>
+<h4 id="r-para-profesionales-de-los-datos-una-introducci-n">R para profesionales de los datos: una introducción</h4>
+<p>(Disponible <a href="https://datanalytics.com/libro_r/">aquí</a>)</p>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="el-p-blico-profesionales-de-los-datos">El público: profesionales de los datos</h2>
+<ul>
+<li>No es académico</li>
+<li>Omite (pero abre el camino a) toda la estadística</li>
+<li><p>Pensado para quienes trabajan diariamente con datos creando informes, gráficos, etc.</p>
+<ul>
+<li>Márketing digital</li>
+<li>Periodismo de datos</li>
+<li>Finanzas</li>
+<li>...</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                                
+    <section data-markdown="" data-markdown-parsed="true" class="future" aria-hidden="true" style="top: 330px; display: none;"><h2 id="mi-libro-objetivos">Mi libro: objetivos</h2>
+<ul>
+<li>Reemplazar Excel, Word y otras herramientas ofimáticas</li>
+<li><p>Introducir al lector a:</p>
+<ul>
+<li>Gráficos avanzados</li>
+<li>Informes reproducibles / automáticos</li>
+<li>Shiny</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+                            
+                        </section>
+                    
+                
+                    
+                        
+    <section data-markdown="" data-markdown-parsed="true" style="top: 330px; display: none;" aria-hidden="true" class="future" hidden=""><h1 id="vale-">Vale.</h1>
+<p>... aunque la conversación continúa en:</p>
+<h4 id="http-circiter-es-gilbellosta-https-twitter-com-gilbellosta-http-datanalytics-com"><a href="http://circiter.es/">http://circiter.es</a> · <a href="https://twitter.com/gilbellosta">@gilbellosta</a> · <a href="http://datanalytics.com/">http://datanalytics.com</a></h4>
+<h1 id="-muchas-gracias-">¡Muchas gracias!</h1>
+</section>
+
+
+                    
+                    
+                
+            </div>
+
+        <div class="backgrounds"><div class="slide-background present" style="display: block;" data-loaded="true"></div><div class="slide-background future" style="display: block;" data-loaded="true"></div><div class="slide-background future" style="display: block;" data-loaded="true"></div><div class="slide-background stack future" style="display: none;"><div class="slide-background present" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background stack future" style="display: none;"><div class="slide-background present" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background stack future" style="display: none;"><div class="slide-background present" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background stack future" style="display: none;"><div class="slide-background present" style="display: none;"></div><div class="slide-background future" style="display: none;"></div><div class="slide-background future" style="display: none;"></div></div><div class="slide-background future" style="display: none;"></div></div><div class="progress" style="display: block;"><span style="width: 0px;"></span></div><aside class="controls" style="display: block;"><button class="navigate-left" aria-label="previous slide"></button><button class="navigate-right enabled" aria-label="next slide"></button><button class="navigate-up" aria-label="above slide"></button><button class="navigate-down" aria-label="below slide"></button></aside><div class="slide-number" style="display: none;"></div><div class="speaker-notes" data-prevent-swipe=""></div><div class="pause-overlay"></div><div style="position: absolute; height: 1px; width: 1px; overflow: hidden; clip: rect(1px, 1px, 1px, 1px);" id="aria-status-div" aria-live="polite" aria-atomic="true">Si yo fuese rey, todo el mundo sabría programar
+Carlos J. Gil Bellosta (@gilbellosta )
+http://circiter.es - http://datanalytics.com
+</div></div>
+
+        <script src="rey_files/head.js"></script>
+        <script src="rey_files/reveal.js"></script>
+        <script>
+
+          // Full list of configuration options available at:
+          // https://github.com/hakimel/reveal.js#configuration
+          Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // Optional reveal.js plugins
+            dependencies: [
+              { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+              { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
+              { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
+              { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+            ]
+          });
+
+        </script>
+    
+
+
+</body></html>

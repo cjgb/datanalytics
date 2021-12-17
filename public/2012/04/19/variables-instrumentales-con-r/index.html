@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Variables instrumentales con R - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Variables instrumentales con R" />
+<meta property="og:description" content="Los economistas usan unas cosas a las que llaman variables instrumentales con las que uno apenas se tropieza fuera de contextos econométricos. El problema se plantea en el contexto de la regresión
+$$y_i = \beta x_i &#43; \varepsilon_i,$$
+cuando existe correlación entre X y $latex \varepsilon$. En tales casos, el estimador por mínimos cuadrados es
+$$\hat{\beta} =\frac{x&rsquo;y}{x&rsquo;x}=\frac{x&#39;(x\beta&#43;\varepsilon)}{x&rsquo;x}=\beta&#43;\frac{x&#39;\varepsilon}{x&rsquo;x}$$
+y debido a la correlación entre X y $latex \varepsilon$, está sesgado.
+La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con X pero no con $latex \varepsilon$." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2012/04/19/variables-instrumentales-con-r/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2012-04-19T07:30:54&#43;00:00" />
+<meta property="article:modified_time" content="2012-04-19T07:30:54&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Variables instrumentales con R</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-19T07:30:54Z">2012-4-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Los economistas usan unas <em>cosas</em> a las que llaman variables instrumentales con las que uno apenas se tropieza fuera de contextos econométricos. El problema se plantea en el contexto de la regresión</p>
+<p>$$y_i = \beta x_i + \varepsilon_i,$$</p>
+<p>cuando existe correlación entre <em>X</em> y $latex \varepsilon$. En tales casos, el estimador por mínimos cuadrados es</p>
+<p>$$\hat{\beta} =\frac{x&rsquo;y}{x&rsquo;x}=\frac{x'(x\beta+\varepsilon)}{x&rsquo;x}=\beta+\frac{x'\varepsilon}{x&rsquo;x}$$</p>
+<p>y debido a la correlación entre <em>X</em> y $latex \varepsilon$, está sesgado.</p>
+<p>La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con <em>X</em> pero no con $latex \varepsilon$. La siguiente simulación en R ilustra el problema:</p>
+<pre><code>library(MASS)
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/AER&quot;&gt;AER)
+
+n &lt;- 100
+
+b.0 &lt;- 1
+b.1 &lt;- 2
+
+cov.mat &lt;- diag(3)
+cov.mat[2,1] &lt;- cov.mat[1,2] &lt;- sqrt(0.5)
+cov.mat[3,1] &lt;- cov.mat[1,3] &lt;- sqrt(0.5)
+
+foo &lt;- function(){
+	xze &lt;- data.frame(&lt;a href=&quot;http://inside-r.org/r-doc/MASS/mvrnorm&quot;&gt;mvrnorm(n, rep(0,3), cov.mat ))
+	colnames( xze ) &lt;- c(&quot;x&quot;, &quot;z&quot;, &quot;e&quot;)
+
+	xze$y &lt;- b.0 + b.1 * xze$x + xze$e
+
+	c.m1 &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/coefficients&quot;&gt;coefficients( lm( y ~ x, data = xze ) )
+	c.m2 &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/coefficients&quot;&gt;coefficients( ivreg( y ~ x | z, data = xze ) )
+
+	data.frame( c.1.1 = c.m1[1], c.1.2 = c.m1[2],
+        c.2.1 = c.m2[1], c.2.2 = c.m2[2] )
+}
+
+foo()
+
+res &lt;- replicate( 1000, foo(), simplify = F )
+res &lt;- do.call( rbind, res )
+</code></pre>
+<p>Lo que se hace en ella es construir 1000 conjuntos de datos con las variables <code>y</code>, <code>x</code>, <code>z</code> y el error <code>e</code>. Las tres últimas son normales y están construidas de forma que:</p>
+<pre><code>  * La correlación entre `x` y el error `e` no es nula.
+  * La correlación entre `x` y `z` tampoco es nula.
+  * La correlación entre `z` y el error `e` es nula.
+</code></pre>
+<p>Luego, se construye <code>y</code> como <code>b.0 + b.1 * x + e</code>. Finalmente, se comparan los coeficientes obtenidos por la regresión por mínimos cuadrados tradicional con la que se obtiene usando <code>z</code> como variable instrumental. La comparación de los coeficientes obtenidos puede observarse gráficamente haciendo</p>
+<pre><code>library(ggplot2)
+library(reshape)
+
+mi.coef &lt;- res[,c(2,4)]
+colnames(mi.coef) &lt;- c(&quot;ols&quot;, &quot;vi&quot;)
+mi.coef &lt;- melt( mi.coef )
+
+ggplot(mi.coef, aes(x=value, fill=variable)) + geom_density(alpha=.3)
+</code></pre>
+<p>que produce el gráfico</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2012/04/coeficientes.png"><img src="http://www.datanalytics.com/wp-uploads/2012/04/coeficientes.png" alt="">
+</a></p>
+<p>En esencia, lo que se ha hecho es calcular el coeficiente condicionando previamente por <code>z</code>, es decir, calculando</p>
+<p>$$ E [ y | z ] = \beta E [ x | z ] + E [ \varepsilon | z ], $$</p>
+<p>que anula el error. Por otra parte, como puede apreciarse en el gráfico, se pierde precisión, es decir, aumenta la varianza del estimador (y se ensancha la campana alrededor de su valor medio) por la pérdida de información que supone condicionar <code>x</code> a <code>z</code>.</p>
+<p>El lector interesado hará bien en:</p>
+<pre><code>  * Estudiar el efecto de cambiar la correlación entre `x` y `z` en la anchura de la campana.
+  * Leer la [entrada de la Wikipedia sobre variables instrumentales](http://en.wikipedia.org/wiki/Instrumental_variable) para entender cómo se extiende este caso univariante al general.
+  * Echarle un vistazo al artículo _[Instrumental Variables Estimation in Political Science: A Readers's Guide](http://vote.research.yale.edu/Sovey%20&amp;%20Green%20--%20Instrumental%20Variables%20in%20PS.pdf)_ para conocer mejor el uso y el abuso de este tipo de técnicas en aplicaciones reales.
+</code></pre>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/econometr%C3%ADa/" rel="tag">econometría</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2012/04/17/periodismo-de-datos-en-via52-com/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Periodismo de datos en Via52.com</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2012/04/20/graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Graficaca en el recibo de la luz (y por imperativo legal, para más inri)</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

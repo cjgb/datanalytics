@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelos jerárquicos on datanalytics</title>
+    <link>/tags/modelos-jer%C3%A1rquicos/</link>
+    <description>Recent content in modelos jerárquicos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/modelos-jer%C3%A1rquicos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Por supuesto que tengo más variables que observaciones... ¿y?</title>
+      <link>/2020/07/23/por-supuesto-que-tengo-mas-variables-que-observaciones-y/</link>
+      <pubDate>Thu, 23 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/23/por-supuesto-que-tengo-mas-variables-que-observaciones-y/</guid>
+      <description>He intentado replicar los resultados de la entrada de ayer con GAM (vía [mgcv](https://CRAN.R-project.org/package=mgcv)) así (véase el enlace anterior para la definición de los datos):
+library(mgcv) modelo_gam &amp;lt;- gam( y ~ x + s(id, bs = &amp;quot;re&amp;quot;), data = datos, method = &amp;quot;REML&amp;quot;, family = &amp;quot;poisson&amp;quot;)  Y nada:
+Error in gam(y ~ x + s(id, bs = &amp;quot;re&amp;quot;), data = datos, method = &amp;quot;REML&amp;quot;, : Model has more coefficients than data  Sí, ya sé que tengo más variables que observaciones.</description>
+    </item>
+    
+    <item>
+      <title>Un modelo jerárquico para lo de Casillas</title>
+      <link>/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/</link>
+      <pubDate>Wed, 15 Jul 2015 08:13:42 +0000</pubDate>
+      
+      <guid>/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/</guid>
+      <description>Vuelvo a lo de Casillas inspirándome en el primer ejemplo de este artículo de Gelman et al.
+El planteamiento es el siguiente: el número de paradas, $latex n_i$ que realiza el $latex i$-ésimo portero tiene una distribución binomial
+$latex n_i \sim B(N_i, p_i)$
+donde $latex N_i$ es el número de disparos entre los palos y $latex p_i$ es la habilidad innata del portero. Estas habilidades innatas siguen una distribución dada, la de habilidades innatas de los porteros de primera división, que podemos suponer que sigue una distribución beta</description>
+    </item>
+    
+  </channel>
+</rss>

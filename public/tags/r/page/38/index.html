@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>r - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="r" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/r/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/r/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">r</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/05/29/sap-hana-rhana-y-r/" rel="bookmark">
+			SAP, HANA, RHANA y R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-05-29T06:52:15Z">2012-5-29</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		SAP es tal vez la mayor empresa europea de software. Aunque es principalmente conocida por sus programas de gestión empresarial, ha hecho sus pinitos en el mundo de los gestores de bases de datos con HANA. Una de sus principales peculiaridades es que almacena la información en memoria, beneficiándose, por un lado, del abaratamiento del hardware y, por el otro, de la velocidad de acceso.
+
+Otra, de mucho más interés para quienes siguen esta bitácora, es la posibilidad de conectarlo con R.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/05/28/desencriptando-ii-la-avaricia-es-mala/" rel="bookmark">
+			Desencriptando (II): la avaricia es mala
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-05-28T07:07:51Z">2012-5-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El otro día propuse y resolví un problema de encriptación con R. Utilizaba uno de los llamados métodos avariciosos (o greedy) para hallar el máximo de una función (que era, en esencia, la función de verosimilitud de una determinada permutación de caracteres dentro del espacio probabilístico de todas ellas).
+Este método funcionó con una cadena relativamente larga para desencriptar pero falla con otras más cortas. Por ejemplo, con
+cadena &lt;-c(&quot;u&quot;,&quot;r&quot;,&quot;i&quot;,&quot;b&quot;,&quot;y&quot;,&quot;r&quot;,&quot;l&quot;,&quot;g&quot;,&quot;m&quot;,&quot;h&quot;,&quot;e&quot;,&quot;r&quot;,&quot;y&quot;, &quot;b&quot;,&quot;g&quot;,&quot;m&quot;,&quot;a&quot;,&quot;c&quot;,&quot;p&quot;,&quot;y&quot;,&quot;c&quot;,&quot;m&quot;,&quot;d&quot;,&quot;r&quot;,&quot;h&quot;,&quot;z&quot;,&quot;y&quot;, &quot;r&quot;,&quot;e&quot;,&quot;i&quot;,&quot;c&quot;,&quot;l&quot;,&quot;r&quot;,&quot;i&quot;,&quot;n&quot;,&quot;e&quot;,&quot;c&quot;,&quot;t&quot;,&quot;d&quot;,&quot;t&quot;,&quot;c&quot;,&quot;z&quot;, &quot;c&quot;,&quot;y&quot;,&quot;c&quot;,&quot;v&quot;,&quot;r&quot;,&quot;o&quot;,&quot;d&quot;,&quot;y&quot;,&quot;s&quot;,&quot;e&quot;,&quot;r&quot;,&quot;q&quot;,&quot;c&quot;,&quot;y&quot;,&quot;c&quot;, &quot;n&quot;,&quot;g&quot;,&quot;q&quot;,&quot;c&quot;,&quot;i&quot;,&quot;g&quot;,&quot;m&quot;,&quot;r&quot;,&quot;y&quot;,&quot;d&quot;,&quot;i&quot;,&quot;v&quot;,&quot;r&quot;)  Si ejecuto el código que presenté el otro día,
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/05/23/patrones-hexagonales-con-r/" rel="bookmark">
+			Patrones hexagonales con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-05-23T07:25:13Z">2012-5-23</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Navegando por internet di con el gráfico
+
+(que puede encontrarse aquí) además de un enlace al código en Matlab usado para generarlo.
+Diríase que lo programó un contable. Tratad de seguirlo y veréis por qué lo digo.
+Y por entretenerme, traté de generarlo con R. Y creo que de una manera algo más intuitiva:
+ 1. Creo una función que sabe pintar un hexágono en una posición dada. 2. Creo una retícula de centros de hexágonos del tamaño adecuado.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/26/espana-%c2%bfradial-ii/" rel="bookmark">
+			España, ¿radial? (II)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-26T06:44:51Z">2012-4-26</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Una de las principales objeciones que se le pueden hacer a mi entrada de ayer es que puede estar confundiendo la causa con efecto: puede que parte de la radialidad de la red que obtuve tenga que ver con el tamaño desproporcionado de Madrid que, a su vez, podría haber sido causado por la radialidad de la red tradicional de las comunicaciones españolas.
+Así que enviemos una partida de pescado en malas condiciones a Mercamadrid, convidemos a toda la provincia, veámosla fenecer víctima de contumaces diarreas y rehagamos la simulación suponiendo que
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/25/espana-%c2%bfradial-i/" rel="bookmark">
+			España, ¿radial? (I)
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-25T07:05:16Z">2012-4-25</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Me propuse hace un tiempo combinar lo que aprendí creando rutas callejeras por Zaragoza con una entrada que escribí sobre la estructura radial de las vías de transporte de España. El problema que me planteo es si tiene sentido que la red de carreteras Española tenga estructura radial habida cuenta de la geometría peninsular bajo ciertas hipótesis, siempre discutibles y mejorables, de partida.
+Así que, en primer lugar, cargué los paquetes de R necesarios, un fichero que creé que contenía las capitales de provincia, su latitud, su longitud y la población de las respectivas provincias y fabriqué una red de carreteras muy ineficiente que unía todos los nodos entre sí:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/24/segunda-reunion-de-usuarios-de-r-de-madrid-recordatorio/" rel="bookmark">
+			Segunda reunión de usuarios de R de Madrid: recordatorio
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-24T06:54:32Z">2012-4-24</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Aprovecho para recordar a los usuarios de R de Madrid que el jueves 26 de abril, a las siete de la tarde, tendrá lugar la segunda reunión del grupo de usuarios de R de Madrid en la sala Metrópolis de La Tabacalera (glorieta de Embajadores).
+El programa, como siempre, puede consultarse en la página del grupo.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/19/variables-instrumentales-con-r/" rel="bookmark">
+			Variables instrumentales con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-19T07:30:54Z">2012-4-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Los economistas usan unas cosas a las que llaman variables instrumentales con las que uno apenas se tropieza fuera de contextos econométricos. El problema se plantea en el contexto de la regresión
+$$y_i = \beta x_i + \varepsilon_i,$$
+cuando existe correlación entre X y $latex \varepsilon$. En tales casos, el estimador por mínimos cuadrados es
+$$\hat{\beta} =\frac{x&rsquo;y}{x&rsquo;x}=\frac{x'(x\beta+\varepsilon)}{x&rsquo;x}=\beta+\frac{x'\varepsilon}{x&rsquo;x}$$
+y debido a la correlación entre X y $latex \varepsilon$, está sesgado.
+La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con X pero no con $latex \varepsilon$.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/16/rutas-por-zaragoza-con-r/" rel="bookmark">
+			Rutas por Zaragoza con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-16T07:17:15Z">2012-4-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Óscar Perpiñán me puso el otro día al tanto del paquete osmar de R, que
+Hoy voy a ilustrar el uso de este paquete adaptando un ejemplo de sus autores para encontrar la ruta óptima entre dos puntos de Zaragoza, la mercería Bell y el colegio La Salle Montemolín, ambos lugares muy vinculados a mi prehistoria. Comenzaré cargando los paquetes necesarios y los datos de OpenStreetMap correspondientes a Zaragoza:
+library( igraph ) library( osmar ) api &lt;- osmsource_api(url = &quot;http://api.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/11/correccion-por-exposicion-del-modelo-logistico/" rel="bookmark">
+			Corrección por exposición del modelo logístico
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-11T06:52:19Z">2012-4-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		He tropezado con una extensión curiosa y que no conocía del modelo logístico que lo emparenta un tanto con los modelos de supervivencia. Es un problema que aparece en los modelos de los actuarios, por ejemplo, y en la supervivencia de nidos (sí, nidos de bichos alados), parece.
+Es el siguiente: supongamos que unos sujetos están expuestos a un cierto suceso cuya probabilidad, $latex p_i$, depende del sujeto a través del esquema habitual de la regresión logística (es decir, depende de algunas variables como el sexo, etc.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/10/un-interprete-alternativo-de-r/" rel="bookmark">
+			Un intérprete alternativo de R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-10T06:56:04Z">2012-4-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Java es un lenguaje de programación que puede ejecutarse sobre muchas máquinas virtuales distintas: la de Sun, la de IBM, etc. Algo parecido pasa con SAS, que puede ejecutarse sobre el intérprete de SAS Institute o sobre el de WPS.
+El código escrito en R puede ejecutarse, en principio, en dos plataformas distintas:
+ * La creada por el _R Development Core Team_ y que todos, más o menos, conocemos. * La desarrollada por Tibco (y, previamente, por Insightful) para S-Plus, el dialecto propietario de R (o S).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/04/04/de-dhondt-a-banzhaf/" rel="bookmark">
+			De D&#39;Hondt a Banzhaf
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-04-04T07:15:23Z">2012-4-4</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hablé el otro día con Emilio Torres y comentamos de pasada la situación política en Asturias, donde vive, después de las últimas elecciones. El escaño obtenido por UPyD otorgaba a tal partido un poder en exceso del tamaño de su representación porque era clave para formar el futuro gobierno del principado. Pero, ¿cuánto poder realmente supone ese escaño en esas condiciones? ¿Puede cuantificarse?
+Porque se habla mucho en periodo electoral de la ley D&rsquo;Hondt pero, una vez asignados los escaños, cambia el juego.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/03/29/otra-de-huelgas/" rel="bookmark">
+			Otra de huelgas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-03-29T07:41:32Z">2012-3-29</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hoy, por motivos evidentes, e igual que en septiembre de 2010, voy a hablar de huelgas. De la misma fuente que entonces he descargado este fichero. Y he ejecutado
+library( pxR ) library( reshape ) library( ggplot2 ) dat &lt;- read.px( &quot;pcaxis-623612450.px&quot; ) dat &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/base/as.data.frame&quot;&gt;as.data.frame( dat ) dat.mes &lt;- cast( dat, Periodo ~ series ) colnames(dat.mes) &lt;- c( &quot;mes&quot;, &quot;n.huelgas&quot;, &quot;n.trabajadores&quot;, &quot;n.jornadas&quot; ) p &lt;- ggplot( data = dat.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/03/23/r-y-la-distribucion-de-rayleigh/" rel="bookmark">
+			R y la distribución de Rayleigh
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-03-23T07:26:24Z">2012-3-23</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		En la reunión de usuarios de R de Madrid de ayer, Carlos Ortega estudió la distribución en el tiempo del número de bugs que aparecen en el código de R en cada versión. Indicó que es plausible que sigan una distribución de Rayleigh, relativamente frecuente en ese tipo de contextos. E indicó que esta distribución, no tan conocida, tiene que ver (he olvidado lo que dijo exactamente) con dos normales independientes.
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/tags/r/page/37/">«</a>
+	<span class="pagination__item pagination__item--current">38/51</span>
+	<a class="pagination__item pagination__item--next btn" href="/tags/r/page/39/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

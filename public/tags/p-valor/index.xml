@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p-valor on datanalytics</title>
+    <link>/tags/p-valor/</link>
+    <description>Recent content in p-valor on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 30 Jul 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/p-valor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misma p, distinto n, luego...</title>
+      <link>/2020/07/30/misma-p-distinto-n-luego/</link>
+      <pubDate>Thu, 30 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/30/misma-p-distinto-n-luego/</guid>
+      <description>Tres situaciones. La primera:
+n &amp;lt;- 20 y &amp;lt;- 15 test &amp;lt;- prop.test(y, n, p = .5) test$p.value # [1] 0.04417134 test$conf.int # 0.5058845 0.9040674  La segunda:
+n &amp;lt;- 200 y &amp;lt;- 115 test &amp;lt;- prop.test(y, n, p = 0.5) test$p.value #[1] 0.04030497 test$conf.int # 0.5032062 0.6438648  Y la tercera:
+n &amp;lt;- 2000 y &amp;lt;- 1046 test &amp;lt;- prop.test(y, n, p = 0.5) test$p.value #[1] 0.0418688 test$conf.int # 0.</description>
+    </item>
+    
+    <item>
+      <title>Sobre &#34;Predicción, estimación y atribución&#34;</title>
+      <link>/2020/06/10/sobre-prediccion-estimacion-y-atribucion/</link>
+      <pubDate>Wed, 10 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/10/sobre-prediccion-estimacion-y-atribucion/</guid>
+      <description>Subrayo hoy aquí tres cuestiones que considero importantes del reciente artículo Prediction, Estimation, and Attribution de B. Efron (para otra visión, véase esto).
+La primera es que existe una cadena de valor en la modelización estadística que va del producto más ordinario, la predicción, a la estimación y de este, al más deseable, la atribución. En la terminología de Efron,
+ estimación consiste en la determinación de los parámetros subyacentes (e importantes) del modelo; específicamente se refiere a la estimación puntual; * atribución tiene que ver con intervalos de confianza, p-valores, etc.</description>
+    </item>
+    
+    <item>
+      <title>No hagáis esto o se darán cuenta de que sois muy cutres</title>
+      <link>/2020/06/02/no-hagais-esto-o-se-daran-cuenta-de-que-sois-muy-cutres/</link>
+      <pubDate>Tue, 02 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/02/no-hagais-esto-o-se-daran-cuenta-de-que-sois-muy-cutres/</guid>
+      <description>Lo que no hay que hacer nunca si no quieres que se enteren de que eres inmensamente cutre es escribir código en las líneas del siguiente seudocódigo:
+... m = model(y ~ a + b + c) if (modelo.p_value(a) &amp;gt; .05) m = model(y ~ b + c) ...  ¡No, no, no, no, NO!</description>
+    </item>
+    
+    <item>
+      <title>P-valores y decisiones</title>
+      <link>/2019/12/04/p-valores-y-decisiones/</link>
+      <pubDate>Wed, 04 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/04/p-valores-y-decisiones/</guid>
+      <description>Los números de esta entrada son reales aunque disfrazados: proceden de un proyecto real. Para medir la efectividad de una serie de modelos que hemos creado en Circiter, hemos pedido al cliente lo de siempre: que parta la lista de sujetos en dos al azar para después poder medir los éxitos y fracasos usando dos procedimientos distintos.
+Pero como tenemos dudas acerca del proceso de partición —que no controlamos nosotros— hemos medido el número de éxitos y fracasos en cada uno de los grupos en una prueba previa.</description>
+    </item>
+    
+    <item>
+      <title>Sic &#34;scientia&#34; facta est</title>
+      <link>/2019/01/10/sic-scientia-facta-est/</link>
+      <pubDate>Thu, 10 Jan 2019 08:13:26 +0000</pubDate>
+      
+      <guid>/2019/01/10/sic-scientia-facta-est/</guid>
+      <description>Hoy escribo brevemente para comentar una herramienta con la que ayudar a pretendidos investigadores a hacer ciencia. Las instrucciones están aquí y la herramienta con la que entrenarse, aquí.
+¡Feliz contribución a ese futuro que sin ciencia dizque no será!</description>
+    </item>
+    
+    <item>
+      <title>p-valores y el perro que no ladró</title>
+      <link>/2018/12/20/p-valores-y-el-perro-que-no-ladro/</link>
+      <pubDate>Thu, 20 Dec 2018 08:13:46 +0000</pubDate>
+      
+      <guid>/2018/12/20/p-valores-y-el-perro-que-no-ladro/</guid>
+      <description>Tengo un montón de artículos por ahí guardados que fueron escritos a raíz de la publicación de The ASA&amp;rsquo;s Statement on p-Values: Context, Process, and Purpose, ya en 2016, que ponía en cuestión el uso indiscriminado y acrítico de los p-valores. Algunos de ellos son este, este, este o este.
+Asunto que se refiere a y abunda en todo lo que se ha escrito sobre la llamada crisis de replicabilidad, sobre la que también se ha escrito largamente.</description>
+    </item>
+    
+    <item>
+      <title>p-curvas</title>
+      <link>/2017/12/12/p-curvas/</link>
+      <pubDate>Tue, 12 Dec 2017 08:13:19 +0000</pubDate>
+      
+      <guid>/2017/12/12/p-curvas/</guid>
+      <description>Primero, una simulación:
+n &amp;lt;- 100 delta &amp;lt;- 0.2 n.iter &amp;lt;- 10000 p_valores &amp;lt;- function(n, delta){ tmp &amp;lt;- replicate(n.iter, { x &amp;lt;- rnorm(n) y &amp;lt;- rnorm(n, mean = delta) t.test(x, y)$p.value }) res &amp;lt;- tmp[tmp &amp;lt; 0.05] hist(res, freq = FALSE, xlab = &amp;quot;p value&amp;quot;, ylab = &amp;quot;&amp;quot;, col = &amp;quot;gray&amp;quot;, main = &amp;quot;histograma de p-valores publicables&amp;quot;) res } null_effect_p_values &amp;lt;- p_valores(n, 0) some_effect_p_values &amp;lt;- p_valores(n, delta)  Lo que simula son n.</description>
+    </item>
+    
+    <item>
+      <title>La tierra es redonda (p &lt; 0.05)</title>
+      <link>/2017/02/14/la-tierra-es-redonda-p-0-05/</link>
+      <pubDate>Tue, 14 Feb 2017 08:13:41 +0000</pubDate>
+      
+      <guid>/2017/02/14/la-tierra-es-redonda-p-0-05/</guid>
+      <description>A sus 72 años, en 1994, J. Cohen dejó casi para la posteridad un excelente artículo, The earth is round (p &amp;lt; .05).
+Traduzco el resumen:
+Parte de lo que antecede aplica a la sicología, que es el campo de interés del autor (no de quien suscribe aquí sino del artículo). El resto es de interés general:
+ * Usar gráficos, muchos gráficos, buenos gráficos. * No usar pruebas de hipótesis.</description>
+    </item>
+    
+    <item>
+      <title>Y termino con lo de los intervalos</title>
+      <link>/2016/02/04/y-termino-con-lo-de-los-intervalos/</link>
+      <pubDate>Thu, 04 Feb 2016 09:13:51 +0000</pubDate>
+      
+      <guid>/2016/02/04/y-termino-con-lo-de-los-intervalos/</guid>
+      <description>Y termino con lo de los intervalos. Me refiero a esto y esto.
+Nunca me habría atrevido a escribir sobre el tema, y exponerme, de paso, a la muy razonadas explicaciones de quienes tuvieron a bien comentarlas, si no hubiese sido por un tema personal: el recuerdo de la frustración que me supuso hacerme en su día con la teoría subyacente tanto a las pruebas de hipótesis como a la construcción de intervalos de confianza.</description>
+    </item>
+    
+    <item>
+      <title>El test rechaza pero el intervalo contiene: [contra]ejemplos</title>
+      <link>/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/</link>
+      <pubDate>Fri, 29 Jan 2016 09:13:51 +0000</pubDate>
+      
+      <guid>/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/</guid>
+      <description>De acuerdo con el saber popular, pruebas que rechazan acompañan a intervalos de confianza que no contienen.
+Pero
+foo &amp;lt;- function(N, p = 0.7){ n &amp;lt;- qbinom(0.975, N, p) tmp &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/binom.test&amp;quot;&amp;gt;binom.test(n, N, p) c(tmp$p.value, tmp$conf.int, tmp$conf.int[1] &amp;lt; p &amp;amp; p &amp;lt; tmp$conf.int[2]) } res &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/as.data.frame&amp;quot;&amp;gt;as.data.frame(t(sapply(20:200, foo))) res$n &amp;lt;- 20:200 res[res$V1 &amp;lt; 0.05,]  no tiene cero filas.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué significa &#34;vinculados de forma muy significativa&#34;?</title>
+      <link>/2016/01/12/que-significa-vinculados-de-forma-muy-significativa/</link>
+      <pubDate>Tue, 12 Jan 2016 08:13:43 +0000</pubDate>
+      
+      <guid>/2016/01/12/que-significa-vinculados-de-forma-muy-significativa/</guid>
+      <description>Diríase que dos fenómenos vinculados de forma muy significativa guardan una potente relación causal. Creo que eso es lo que entendería cualquiera.
+Traigo pues a colación dos fenómenos. El primero es
+
+Y el segundo,
+
+¿Diríais que están vinculados de forma muy significativa?
+Pues si en lugar de fiaros de vuestros propios ojos, lo hacéis de Berta Rivera, Bruno Casal o Luis Currais, los autores de The economic crisis and death by suicide in Spain: Empirical evidence based on a data panel and the quantification of losses in labour productivity; o de David Lombao (que divulga el anterior aquí en El Diario), la respuesta es sí.</description>
+    </item>
+    
+    <item>
+      <title>Respuestas distintas, ¿a la misma pregunta?</title>
+      <link>/2015/09/02/respuestas-distintas-a-la-misma-pregunta/</link>
+      <pubDate>Wed, 02 Sep 2015 08:13:43 +0000</pubDate>
+      
+      <guid>/2015/09/02/respuestas-distintas-a-la-misma-pregunta/</guid>
+      <description>Hará ya un par de años, un señor muy importante divulgaba en su bitácora los resultados de un estudio relativo a la educación en España que acababa de publicar. Dedicaba una pequeña parte de la entrada a cuestiones metodológicas y el resto a cuestiones normativas: dado que he encontrado esto y aquello con un p-valor de tal, no otro remedio queda que aplicar todas estas medidas que aquí enumero, era el resumen de todo.</description>
+    </item>
+    
+    <item>
+      <title>Selección de enlaces: redes sociales, gráficos con R, ofertas de trabajo y p-valores</title>
+      <link>/2014/02/28/seleccion-de-enlaces-redes-sociales-graficos-con-r-ofertas-de-trabajo-y-p-valores/</link>
+      <pubDate>Fri, 28 Feb 2014 08:21:09 +0000</pubDate>
+      
+      <guid>/2014/02/28/seleccion-de-enlaces-redes-sociales-graficos-con-r-ofertas-de-trabajo-y-p-valores/</guid>
+      <description>Acá va otra selección de cuatro enlaces relevantes –que no necesariamente nuevos— de la semana. El primero, Using Metadata to find Paul Revere recoge a modo de historia, que algunos encontrarán amena, una aplicación de rudimentos del álgebra lineal al análisis de redes sociales. Dada una matriz de incidencia A (personas que pertenecen a clubes) es posible calcular índices de proximidad entre personas (o entre clubes) calculando no más AA&#39;. El resto hasta ganar el premio de Netflix es pura heurística.</description>
+    </item>
+    
+  </channel>
+</rss>

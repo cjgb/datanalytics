@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terrorismo on datanalytics</title>
+    <link>/tags/terrorismo/</link>
+    <description>Recent content in terrorismo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Feb 2017 08:13:35 +0000</lastBuildDate><atom:link href="/tags/terrorismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Hay terroristas islámicos en Poissonistán?</title>
+      <link>/2017/02/10/hay-terroristas-islamicos-en-poissonistan/</link>
+      <pubDate>Fri, 10 Feb 2017 08:13:35 +0000</pubDate>
+      
+      <guid>/2017/02/10/hay-terroristas-islamicos-en-poissonistan/</guid>
+      <description>La distribución binomial (de parámetro n, p) es una suma de n variables aleatorias de Bernoulli independientes de parámetro p.
+Independientes, reitero.
+La distribución de Poisson es aproximadamente, una distribución binomial con un n muy grande y un p muy pequeño.
+Los eventos subyacentes siguen siendo independientes, reitero.
+Viene esto al caso de una tabla que ha circulado por Twitter,
+en la que se comparan estimaciones de los parámetros $latex \lambda$ de una serie de distribuciones de Poisson&amp;hellip; como si todas lo fuesen.</description>
+    </item>
+    
+  </channel>
+</rss>

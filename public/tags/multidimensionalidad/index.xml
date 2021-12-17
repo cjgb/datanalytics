@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multidimensionalidad on datanalytics</title>
+    <link>/tags/multidimensionalidad/</link>
+    <description>Recent content in multidimensionalidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Nov 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/multidimensionalidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No es tanto sobre la media como sobre la maldición de la multidimensionalidad</title>
+      <link>/2020/11/09/no-es-tanto-sobre-la-media-como-sobre-la-maldicion-de-la-multidimensionalidad/</link>
+      <pubDate>Mon, 09 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/09/no-es-tanto-sobre-la-media-como-sobre-la-maldicion-de-la-multidimensionalidad/</guid>
+      <description>El artículo que motiva esta entrada, When U.S. air force discovered the flaw of averages, no lo es tanto sobre la media como sobre la maldición de la multidimensionalidad.
+Podría pensarse que es una crítica a la teoría del hombre medio de Quetelet en tanto que niega la existencia de ese sujeto ideal. Pero lo que dice es una cosa sutilmente distinta:
+¿Cuántos pilotos estaban en la media (o a una distancia razonable de ella) en cada una de esas 10 dimensiones?</description>
+    </item>
+    
+    <item>
+      <title>Reducción de la dimensionalidad</title>
+      <link>/2020/04/22/reduccion-de-la-dimensionalidad/</link>
+      <pubDate>Wed, 22 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/22/reduccion-de-la-dimensionalidad/</guid>
+      <description>está extraído de aquí.</description>
+    </item>
+    
+    <item>
+      <title>Relevante para entender la &#34;maldición de la dimensionalidad&#34;</title>
+      <link>/2019/08/15/relevante-para-entender-la-maldicion-de-la-dimensionalidad/</link>
+      <pubDate>Thu, 15 Aug 2019 16:27:01 +0000</pubDate>
+      
+      <guid>/2019/08/15/relevante-para-entender-la-maldicion-de-la-dimensionalidad/</guid>
+      <description>La gráfica
+representa el volumen de la esfera unidad (eje vertical) en el espacio de dimensión x (eje horizontal).
+Más aquí (de donde procede la gráfica anterior).
+Moraleja: en dimensiones altas, hay pocos puntos alrededor de uno concreto; o, dicho de otra manera, los puntos están muy alejados entre sí. Por lo que k-vecinos y otros&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Las altas dimensiones son campo minado para la intuición</title>
+      <link>/2019/04/15/las-altas-dimensiones-son-campo-minado-para-la-intuicion/</link>
+      <pubDate>Mon, 15 Apr 2019 09:13:16 +0000</pubDate>
+      
+      <guid>/2019/04/15/las-altas-dimensiones-son-campo-minado-para-la-intuicion/</guid>
+      <description>Las dimensiones altas son un campo minado para la intuición. Hace poco (y he perdido la referencia) leí a un matemático que trabajaba en problemas en dimensiones altas decir que le gustaba representar y pensar en las bolas (regiones del espacio a distancia &amp;lt;1 de 0) en esos espacios usando figuras cóncavas, como las que aparecen a la izquierda de
+precisamente porque una de las propiedades más fructíferas de las bolas en altas dimensiones es que apenas tienen interior.</description>
+    </item>
+    
+    <item>
+      <title>Reducción de la dimensionalidad con t-SNE</title>
+      <link>/2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/</link>
+      <pubDate>Wed, 08 Mar 2017 08:13:41 +0000</pubDate>
+      
+      <guid>/2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/</guid>
+      <description>Voy a explicar aquí lo que he aprendido recientemente sobre t-SNE, una técnica para reducir la dimensionalidad de conjuntos de datos. Es una alternativa moderna a MDS o PCA.
+Partimos de puntos $latex x_1, \dots, x_n$ y buscamos otros $latex y_1, \dots, y_n$ en un espacio de menor dimensión. Para ello construiremos primero $latex n$ distribuciones de probabilidad, $latex p_i$ sobre los enteros $latex 1, \dots, n$ de forma que</description>
+    </item>
+    
+    <item>
+      <title>Vídeo de mi charla en el Taller InnovaData de periodismo de datos</title>
+      <link>/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/</link>
+      <pubDate>Wed, 29 May 2013 07:36:12 +0000</pubDate>
+      
+      <guid>/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/</guid>
+      <description>Ayer, tal y como anuncié el otro día, participé en el Taller InnovaData de periodismo de datos. El vídeo de mi intervención (a partir del minuto 2:02:00 aproximadamente) puede verse en
+http://www.youtube.com/watch?feature=player_embedded&amp;amp;v;=HsSHVyk_448
+Las diapositivas de la charla (que en el vídeo, desgraciadamente, son, por así decirlo, tanto asíncronas) pueden descargarse aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gcdnet on datanalytics</title>
+    <link>/tags/gcdnet/</link>
+    <description>Recent content in gcdnet on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 11 Sep 2017 08:13:03 +0000</lastBuildDate><atom:link href="/tags/gcdnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pues los SVMs, al final, no son tan exóticos</title>
+      <link>/2017/09/11/pues-los-svms-al-final-no-son-tan-exoticos/</link>
+      <pubDate>Mon, 11 Sep 2017 08:13:03 +0000</pubDate>
+      
+      <guid>/2017/09/11/pues-los-svms-al-final-no-son-tan-exoticos/</guid>
+      <description>Impartí un curso sobre máquinas de vector soporte (SVMs en lo que sigue) en Lima el pasado mes de agosto.
+Las SVMs (o más propiamente, los clasificadores de margen máximo) son exóticos dentro del repertorio del científico de datos. Lo que buscan es un hiperplano que maximiza el margen entre tirios o troyanos,
+con o sin penalización para los puntos que insisten en permanecer en la región del espacio que no les corresponde.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abc on datanalytics</title>
+    <link>/tags/abc/</link>
+    <description>Recent content in abc on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 24 Oct 2018 08:13:19 +0000</lastBuildDate><atom:link href="/tags/abc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABC (2)</title>
+      <link>/2018/10/24/abc-2-2/</link>
+      <pubDate>Wed, 24 Oct 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/10/24/abc-2-2/</guid>
+      <description>Más sobre lo de ayer. O más bien, una justificación por analogía.
+Con monedas.
+Tiras una moneda 100 veces y obtienes 60 caras. Tienes una priori $latex B(a,b)$ (beta). Tomas una muestra de valores $latex p_i$ con esa distribución y para cada una de ellas repites el experimento, es decir, obtienes lo que en R se expresaría de la forma
+rbinom(1, 100, p[i])  Si te quedas los valores $p_i$ tales que esa simulación es 60, enhorabuena, tienes una muestra de la distribución a posteriori.</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>/2018/10/23/abc-2/</link>
+      <pubDate>Tue, 23 Oct 2018 08:13:01 +0000</pubDate>
+      
+      <guid>/2018/10/23/abc-2/</guid>
+      <description>Que quiere decir approximate Bayesian computation. Es un truco para pobres y desafortunados que no pueden quitarle la A a BC y usar directamente cosas como Stan o similares. El que no quiera prioris, además, puede usar el ABC para estimar la forma de la verosimilitud alrededor de una estimación puntual.
+Por supuesto, el objetivo es obtener una estimación de la posteriori para poder medir la incertidumbre de parámetros, etc. La idea es que se dispone de unos datos, $latex X$ y un mecanismo de generación de datos $latex X^\prime = f(\theta)$, donde $latex \theta$ es un vector de parámetros.</description>
+    </item>
+    
+    <item>
+      <title>ABC</title>
+      <link>/2018/01/12/abc/</link>
+      <pubDate>Fri, 12 Jan 2018 08:13:58 +0000</pubDate>
+      
+      <guid>/2018/01/12/abc/</guid>
+      <description>ABC significa, entre otras cosas, approximate bayesian computation. Por lo que parece, consiste en calcular $latex P(\theta ,|, \text{datos})$ por el tradicional y directo método del rechazo. Es decir:
+ Planteas un modelo generativo, con sus prioris y todo. Simulas casos, casos y casos. Te quedas con los que cumplen un criterio de aceptación.  La distribución empírica de los parámetros en el subconjunto de los casos aceptados representa, en los libros está escrito, la distribución a posteriori.</description>
+    </item>
+    
+  </channel>
+</rss>

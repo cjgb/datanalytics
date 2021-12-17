@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>consumo on datanalytics</title>
+    <link>/tags/consumo/</link>
+    <description>Recent content in consumo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 15 Oct 2019 09:13:06 +0000</lastBuildDate><atom:link href="/tags/consumo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consumismo de fricadas: OpenZmeter</title>
+      <link>/2019/10/15/consumismo-de-fricadas-openzmeter/</link>
+      <pubDate>Tue, 15 Oct 2019 09:13:06 +0000</pubDate>
+      
+      <guid>/2019/10/15/consumismo-de-fricadas-openzmeter/</guid>
+      <description>No satisfecho con esto por culpa de un lector que me/nos indicó cómo incrementar nuestra resolución temporal, es muy probable que incurra en el gasto que conlleva adquirir un OpenZmeter y poder construir gráficas como
+(o, espero, con un nivel de desagregación temporal aún más fino).</description>
+    </item>
+    
+    <item>
+      <title>Mi consumo de electricidad, hora a hora</title>
+      <link>/2019/09/18/mi-consumo-de-electricidad-hora-a-hora/</link>
+      <pubDate>Wed, 18 Sep 2019 09:13:54 +0000</pubDate>
+      
+      <guid>/2019/09/18/mi-consumo-de-electricidad-hora-a-hora/</guid>
+      <description>Por primera vez, mi compañía de electricidad ha sabido asignar a cada hora mi consumo (¿se acabarán de una vez las benditas facturas con consumo estimado?). Lo que me ha permitido construir esta gráfica horaria:
+No publico el código por que dependería del proveedor. No hago comentarios porque solo a mí me competen. Pero invito a otros a echar un vistazo a su consumo, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

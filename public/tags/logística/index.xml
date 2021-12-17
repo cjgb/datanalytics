@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logística on datanalytics</title>
+    <link>/tags/log%C3%ADstica/</link>
+    <description>Recent content in logística on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 15 Sep 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/log%C3%ADstica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infradispersión en la logística</title>
+      <link>/2020/09/15/infradispersion-en-la-logistica/</link>
+      <pubDate>Tue, 15 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/15/infradispersion-en-la-logistica/</guid>
+      <description>Le he dado muchas vueltas en estos últimos tiempos al asunto de la sobredispersión, particularmente en dos tipos de modelos: Poisson y logístico. Así que, aunque solo sea por proximidad semántica, se me quedan pegados ejemplos y casos de ese fenómeno mucho menos frecuente que es el de la infradispersión.
+Un ejemplo ilustrativo del fenómeno que se me ocurrió el otro día era
+pero hace nada, ese señor lleno de paz y amor que es Putin, nos ha regalado otro:</description>
+    </item>
+    
+    <item>
+      <title>Interacciones &#34;mecánicas&#34; en regresiones logísticas</title>
+      <link>/2018/02/06/interacciones-mecanicas-en-regresiones-logisticas/</link>
+      <pubDate>Tue, 06 Feb 2018 08:13:18 +0000</pubDate>
+      
+      <guid>/2018/02/06/interacciones-mecanicas-en-regresiones-logisticas/</guid>
+      <description>En general, dos variables interaccionan cuando el efecto de una cambia al modificarse el nivel de la otra. Un caso particular (aunque notable) de interacción es el habitual en los modelos lineales, generalizados o no. En ellos, al introducir en el modelo términos del tipo x1 * x2, estamos indicando que el coeficiente de la segunda variable, $latex x_2$, es $latex \alpha + \beta x_1$. El efecto de un incremento de una unidad de $latex x_2$ depende entonces de $latex x_1$.</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué dicen &#34;exponencial&#34; cuando quieren decir...?</title>
+      <link>/2015/12/15/por-que-dicen-exponencial-cuando-quieren-decir/</link>
+      <pubDate>Tue, 15 Dec 2015 08:13:31 +0000</pubDate>
+      
+      <guid>/2015/12/15/por-que-dicen-exponencial-cuando-quieren-decir/</guid>
+      <description>Hoy, al mostrar
+
+he dicho exponencial. Pero me he corregido rápido y he advertido a mis alumnos:
+ 1. La gente dice _exponencial_ cuando, en realidad, a lo sumo, quiere decir convexa. ¡Cuidado con los que toman el nombre de esa función en vano! 2. Aunque la evolución parezca _exponencial_, en realidad, sabemos que no lo es. Trata de la evolución en capacidad de los discos duros y sabemos que hay límites físicos concretos.</description>
+    </item>
+    
+  </channel>
+</rss>

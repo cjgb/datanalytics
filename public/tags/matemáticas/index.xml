@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matemáticas on datanalytics</title>
+    <link>/tags/matem%C3%A1ticas/</link>
+    <description>Recent content in matemáticas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Feb 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/matem%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To IRLS or not to IRLS</title>
+      <link>/2020/02/24/to-irls-or-not-to-irls/</link>
+      <pubDate>Mon, 24 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/to-irls-or-not-to-irls/</guid>
+      <description>A veces tomas un artículo de vaya uno a saber qué disciplina, sismología, p.e., y no dejas de pensar: los métodos estadísticos que usa esta gente son de hace 50 años. Luego cabe preguntarse: ¿pasará lo mismo en estadística con respecto a otras disciplinas?
+Por razones que no vienen al caso, me he visto en la tesitura de tener que encontrar mínimos de funciones que podrían cuasicatalogarse como de mínimos cuadrados no lineales.</description>
+    </item>
+    
+    <item>
+      <title>Platón en el estercolero</title>
+      <link>/2020/02/21/platon-en-el-estercolero/</link>
+      <pubDate>Fri, 21 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/21/platon-en-el-estercolero/</guid>
+      <description>Hoy nos han hablado unos matemáticos. Sí, de esos cuyas distribuciones extremales son Pareto porque yo lo valgo.
+Alguien, que no yo, ha osado preguntar qué tal ajustaban los modelos. La respuesta, perifrástica nivel Yes, Minister, se resumía en un nos encantaría haber tenido ocasión de comprobarlo.
+Efectivamente, las probabilidades son subjetivas en tanto que financiadas por la Fundación La Caixa.</description>
+    </item>
+    
+    <item>
+      <title>Los fundamentos matemáticos de la estadística teórica</title>
+      <link>/2019/10/10/los-fundamentos-matematicos-de-la-estadistica-teorica/</link>
+      <pubDate>Thu, 10 Oct 2019 09:13:18 +0000</pubDate>
+      
+      <guid>/2019/10/10/los-fundamentos-matematicos-de-la-estadistica-teorica/</guid>
+      <description>Tal es el título de un artículo de Fisher de 1922.
+David Cox nos advierte sobre lo cuidado de la selección de las palabras que usa Fisher en el título. Las podría reproducir, pero mejor las escucháis vosotros de su boca en el minuto 9:10 de
+https://www.youtube.com/watch?v=xRik3vOKLcU</description>
+    </item>
+    
+    <item>
+      <title>Optimización: dos escuelas y una pregunta</title>
+      <link>/2019/07/01/optimizacion-dos-escuelas-y-una-pregunta/</link>
+      <pubDate>Mon, 01 Jul 2019 09:13:47 +0000</pubDate>
+      
+      <guid>/2019/07/01/optimizacion-dos-escuelas-y-una-pregunta/</guid>
+      <description>Dependiendo de con quién hables, la optimización (de funciones) es un problema fácil o difícil.
+Si hablas con matemáticos y gente de la escuela de optim y derivados (BFGS y todas esas cosas), te contarán una historia de terror.
+Si hablas con otro tipo de gente, la de los que opinan que el gradiente es un tobogán que te conduce amenamente al óptimo, el de la optimización no alcanza siquiera talla de problema.</description>
+    </item>
+    
+    <item>
+      <title>¿Informática o matemáticas? Una pregunta muy mal formulada</title>
+      <link>/2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/</link>
+      <pubDate>Tue, 11 Jun 2019 09:13:38 +0000</pubDate>
+      
+      <guid>/2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/</guid>
+      <description>https://twitter.com/victorianoi/status/1134367301703282688
+es el tuit que lo comenzó todo. Hay más sobre su impacto aquí. No voy a comentarlo.
+Sí que diré que la pregunta está mal formulada. Y muchas de las respuestas y comentarios que he visto, muchos de ellos de gente que conozco, han entrado al trapo sin percatarse de que, de algún modo, contiene una petición de principio.
+Lo que en el hilo, el artículo, la entrada y en las respuestas de muchos se contesta realmente a la pregunta siguiente:</description>
+    </item>
+    
+    <item>
+      <title>Charlas en Alicante, julio de 2019</title>
+      <link>/2019/05/16/charlas-en-alicante-julio-de-2019/</link>
+      <pubDate>Thu, 16 May 2019 09:13:54 +0000</pubDate>
+      
+      <guid>/2019/05/16/charlas-en-alicante-julio-de-2019/</guid>
+      <description>Este mes de julio, entre los días 10 y 12, participaré como ponente en dos charlas encuadradas en los Cursos de Verano de la Universidad de Alicante &amp;ldquo;Rafael Altamira&amp;rdquo; y en las que se discutirá el papel de los matemáticos en la sociedad (aunque parece que el énfasis recae en el aspecto económico y empresarial). Según los organizadores:
+La información adicional para interesados está aquí.</description>
+    </item>
+    
+    <item>
+      <title>No, la trigonometría babilónica no era &#34;novedosa&#34;</title>
+      <link>/2017/09/22/no-la-trigonometria-babilonica-no-era-novedosa/</link>
+      <pubDate>Fri, 22 Sep 2017 08:13:59 +0000</pubDate>
+      
+      <guid>/2017/09/22/no-la-trigonometria-babilonica-no-era-novedosa/</guid>
+      <description>Supongo que en agosto todo vale en prensa. Así Solucionado un enigma matemático de 3.700 años y otros del mismo tenor en medios españoles y extranjeros (de algunos de los cuales se espera más). En el que cito dan pábulo a citas como:
+No, la trigonometría babilónica no puede ser llamada novedosa hoy en día. En el mejor de los casos, se puede decir que son muy meritorios balbuceos trigonométricos.</description>
+    </item>
+    
+    <item>
+      <title>A épsilon de todo</title>
+      <link>/2017/09/11/a-epsilon-de-todo/</link>
+      <pubDate>Mon, 11 Sep 2017 02:50:20 +0000</pubDate>
+      
+      <guid>/2017/09/11/a-epsilon-de-todo/</guid>
+      <description>Usé a principios del verano una metáfora matemática como justificación de los contenidos de un curso que dicté pero que se puede extender al conocimiento en general. Más bien, a una estrategia para adquirirlos. La estrategia de estar a un ? de todo.
+La metáfora está basada en el siguiente hecho: en dimensiones altas, casi toda la esfera unidad está a distancia ? de su corteza. En efecto, el volumen de una esfera de radio unitario en dimensión $latex d$ es $latex K_d$ y la de una esfera de radio $latex 1-\epsilon$ es $latex K_d (1-\epsilon)^d$.</description>
+    </item>
+    
+    <item>
+      <title>El teorema de Rolle, ¿acientífico?</title>
+      <link>/2017/05/30/el-teorema-de-rolle-acientifico/</link>
+      <pubDate>Tue, 30 May 2017 08:13:00 +0000</pubDate>
+      
+      <guid>/2017/05/30/el-teorema-de-rolle-acientifico/</guid>
+      <description>Si $latex f$ es una función continua definida en un intervalo cerrado $latex [a, b]$, y derivable sobre el intervalo abierto $latex (a, b)$ y $latex f(a) = f(b)$, entonces existe al menos un punto $latex c \in (a, b)$ tal que $latex f&#39;(c) = 0$.
+Tal es el enunciado del teorema (de Rolle). Que no dice ni dónde está ese punto, ni cómo encontrarlo ni cómo de complicado podría llegar a resultar.</description>
+    </item>
+    
+    <item>
+      <title>¡Doble llave al sepulcro de Gauss!</title>
+      <link>/2017/05/23/doble-llave-al-sepulcro-de-gauss/</link>
+      <pubDate>Tue, 23 May 2017 08:13:55 +0000</pubDate>
+      
+      <guid>/2017/05/23/doble-llave-al-sepulcro-de-gauss/</guid>
+      <description>¿Hasta dónde creéis que estoy de que cuando se hace divulgación matemática en la prensa diaria vuelvan a reciclarse las manidas historias del Gauss jovencito sumando 1:100, de por dónde sacaba Euler a pasear el perro o de si es posible calcular una raíz cúbica con regla y compás?
+Si ha pasado algo interesante y de impacto en las matemáticas en los últimos tiempos (dentro de la última década, porfa), hágase el esfuerzo en replantearlo en términos asequibles y tráigase a la atención del lector.</description>
+    </item>
+    
+    <item>
+      <title>WolframAlfa al rescate de exmatemáticos</title>
+      <link>/2017/04/26/wolframalfa-al-rescate-de-exmatematicos/</link>
+      <pubDate>Wed, 26 Apr 2017 08:13:37 +0000</pubDate>
+      
+      <guid>/2017/04/26/wolframalfa-al-rescate-de-exmatematicos/</guid>
+      <description>Tengo el sistema
+$latex m = \frac{a}{a+b}$ $latex v = \frac{ab}{(a+b)^2 (a+b+1)}$
+en los que alguien descubrirá cosas relativas a la distribución beta.
+Interesa despejar $latex a$ y $latex b$. Pero solo soy un exmatemático perezoso, disléxico y con déficit de tiempo y atención. Así que tacacata y&amp;hellip;
+$latex a = \frac{-m^3 + m^2 - mv}{v}$ $latex b = \frac{m^3 - 2m^2 + mv + m -v}{v}$</description>
+    </item>
+    
+    <item>
+      <title>1/e por doquier</title>
+      <link>/2017/02/06/1e-por-doquier/</link>
+      <pubDate>Mon, 06 Feb 2017 08:13:52 +0000</pubDate>
+      
+      <guid>/2017/02/06/1e-por-doquier/</guid>
+      <description>Leía ¿Es muy difícil (estadísticamente) no dar ni una?, donde se discute la probabilidad de que $latex s(i) \neq i$ $latex \forall i$ cuando $latex s$ es una permutación. El problema está relacionado, como podrá ver quien visite el enlace, con la probabilidad de repetición del sorteo en el juego del amigo invisible.
+Esta probabilidad converge, al crecer $latex n$, a $latex 1/e \approx 0.367879$. ¡0.367879! Eso es&amp;hellip; eso es&amp;hellip; ¡1 - .</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de vectores (III): las funciones involucradas</title>
+      <link>/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/</link>
+      <pubDate>Mon, 05 Sep 2016 08:13:45 +0000</pubDate>
+      
+      <guid>/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/</guid>
+      <description>En esta tercera entrada de la serie (aquí está la primera y la segunda) quiero ocuparme de las que llamé $latex f_1$ y $f_2$, las funciones involucradas. Que son las que obran la magia, por supuesto. Con casi cualquier otra opción se habría obtenido una patochada, pero estas son funciones especiales.
+Las funciones en cuestión están extraídas de esta,
+que es una representación esquemática (extraída de aquí) de una red neuronal para el reconocimiento de imágenes.</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de vectores (II): un caso de uso</title>
+      <link>/2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/</link>
+      <pubDate>Fri, 02 Sep 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/</guid>
+      <description>Siguiendo con el tema de la entrada de ayer, voy a tomar un vector $latex x_1$ tal como
+y un vector $latex x_2$ como, por ejemplo,
+para, con el concurso de unas funciones que revelaré mañana, obtener la siguiente mezcla de ambos:
+Pas mal!</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de vectores (I): casi todas las matemáticas de la cosa</title>
+      <link>/2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/</link>
+      <pubDate>Thu, 01 Sep 2016 08:13:00 +0000</pubDate>
+      
+      <guid>/2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/</guid>
+      <description>Arranco con esta una serie que estimo que será de tres entradas sobre cómo mezclar vectores con una aplicacioncilla que tal vez sorprenda a alguno.
+Comenzaré fijando un vector $latex x_1 \in R^n$ y una función casi biyectiva $latex f_1:R^n \mapsto R^m$ todo lo suave (continua, diferenciable, etc.) que nos dé la gana. Casi no es un concepto matemático; el concepto propiamente matemático usaría el prefijo cuasi-, pero espero que se me permita seguir y prometo que lo que quiero dar a entender quedará claro más adelante.</description>
+    </item>
+    
+    <item>
+      <title>Sumar 18: un problema fácil y otro que lo es menos</title>
+      <link>/2015/05/21/sumar-18-un-problema-facil-y-otro-que-lo-es-menos/</link>
+      <pubDate>Thu, 21 May 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/05/21/sumar-18-un-problema-facil-y-otro-que-lo-es-menos/</guid>
+      <description>En una página que no mencionaré (solo porque creo que en los comentarios hay soluciones) se propuso el siguiente problema: combinar los números 2, 3, 4 y 5 con las operaciones aritméticas (+, -, *, /) para obtener 18 como resultado.
+Tal es el problema fácil.
+El menos fácil: encontrar todas (¡ya sabemos que la suma conmuta!) las soluciones.</description>
+    </item>
+    
+  </channel>
+</rss>

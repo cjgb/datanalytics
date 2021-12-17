@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Desencriptando (II): la avaricia es mala - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Desencriptando (II): la avaricia es mala" />
+<meta property="og:description" content="El otro día propuse y resolví un problema de encriptación con R. Utilizaba uno de los llamados métodos avariciosos (o greedy) para hallar el máximo de una función (que era, en esencia, la función de verosimilitud de una determinada permutación de caracteres dentro del espacio probabilístico de todas ellas).
+Este método funcionó con una cadena relativamente larga para desencriptar pero falla con otras más cortas. Por ejemplo, con
+cadena &lt;-c(&quot;u&quot;,&quot;r&quot;,&quot;i&quot;,&quot;b&quot;,&quot;y&quot;,&quot;r&quot;,&quot;l&quot;,&quot;g&quot;,&quot;m&quot;,&quot;h&quot;,&quot;e&quot;,&quot;r&quot;,&quot;y&quot;, &quot;b&quot;,&quot;g&quot;,&quot;m&quot;,&quot;a&quot;,&quot;c&quot;,&quot;p&quot;,&quot;y&quot;,&quot;c&quot;,&quot;m&quot;,&quot;d&quot;,&quot;r&quot;,&quot;h&quot;,&quot;z&quot;,&quot;y&quot;, &quot;r&quot;,&quot;e&quot;,&quot;i&quot;,&quot;c&quot;,&quot;l&quot;,&quot;r&quot;,&quot;i&quot;,&quot;n&quot;,&quot;e&quot;,&quot;c&quot;,&quot;t&quot;,&quot;d&quot;,&quot;t&quot;,&quot;c&quot;,&quot;z&quot;, &quot;c&quot;,&quot;y&quot;,&quot;c&quot;,&quot;v&quot;,&quot;r&quot;,&quot;o&quot;,&quot;d&quot;,&quot;y&quot;,&quot;s&quot;,&quot;e&quot;,&quot;r&quot;,&quot;q&quot;,&quot;c&quot;,&quot;y&quot;,&quot;c&quot;, &quot;n&quot;,&quot;g&quot;,&quot;q&quot;,&quot;c&quot;,&quot;i&quot;,&quot;g&quot;,&quot;m&quot;,&quot;r&quot;,&quot;y&quot;,&quot;d&quot;,&quot;i&quot;,&quot;v&quot;,&quot;r&quot;)  Si ejecuto el código que presenté el otro día," />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2012/05/28/desencriptando-ii-la-avaricia-es-mala/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2012-05-28T07:07:51&#43;00:00" />
+<meta property="article:modified_time" content="2012-05-28T07:07:51&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Desencriptando (II): la avaricia es mala</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-05-28T07:07:51Z">2012-5-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>El otro día propuse y <a href="http://www.datanalytics.com/blog/2012/05/21/desencriptando-i-el-problema-de-un-mal-amigo/">resolví un problema de encriptación con R</a>. Utilizaba uno de los llamados métodos <em>avariciosos</em> (o <em>greedy</em>) para hallar el máximo de una función (que era, en esencia, la función de verosimilitud de una determinada permutación de caracteres dentro del espacio probabilístico de todas ellas).</p>
+<p>Este método funcionó con una cadena relativamente larga para desencriptar pero falla con otras más cortas. Por ejemplo, con</p>
+<pre><code>cadena &lt;-c(&quot;u&quot;,&quot;r&quot;,&quot;i&quot;,&quot;b&quot;,&quot;y&quot;,&quot;r&quot;,&quot;l&quot;,&quot;g&quot;,&quot;m&quot;,&quot;h&quot;,&quot;e&quot;,&quot;r&quot;,&quot;y&quot;,
+&quot;b&quot;,&quot;g&quot;,&quot;m&quot;,&quot;a&quot;,&quot;c&quot;,&quot;p&quot;,&quot;y&quot;,&quot;c&quot;,&quot;m&quot;,&quot;d&quot;,&quot;r&quot;,&quot;h&quot;,&quot;z&quot;,&quot;y&quot;,
+&quot;r&quot;,&quot;e&quot;,&quot;i&quot;,&quot;c&quot;,&quot;l&quot;,&quot;r&quot;,&quot;i&quot;,&quot;n&quot;,&quot;e&quot;,&quot;c&quot;,&quot;t&quot;,&quot;d&quot;,&quot;t&quot;,&quot;c&quot;,&quot;z&quot;,
+&quot;c&quot;,&quot;y&quot;,&quot;c&quot;,&quot;v&quot;,&quot;r&quot;,&quot;o&quot;,&quot;d&quot;,&quot;y&quot;,&quot;s&quot;,&quot;e&quot;,&quot;r&quot;,&quot;q&quot;,&quot;c&quot;,&quot;y&quot;,&quot;c&quot;,
+&quot;n&quot;,&quot;g&quot;,&quot;q&quot;,&quot;c&quot;,&quot;i&quot;,&quot;g&quot;,&quot;m&quot;,&quot;r&quot;,&quot;y&quot;,&quot;d&quot;,&quot;i&quot;,&quot;v&quot;,&quot;r&quot;)
+</code></pre>
+<p>Si ejecuto el código que presenté el otro día,</p>
+<pre><code>quijote &lt;- readLines( &quot;http://www.gutenberg.org/cache/epub/2000/pg2000.txt&quot;, encoding = &quot;UTF-8&quot; )
+tmp &lt;- sapply( quijote, function(x) strsplit(x, &quot;&quot;))
+tmp &lt;- do.call( c, tmp )
+tmp &lt;- tolower(tmp)
+
+tmp[ tmp == &quot;á&quot; ] &lt;- &quot;a&quot;
+tmp[ tmp == &quot;é&quot; ] &lt;- &quot;e&quot;
+tmp[ tmp == &quot;í&quot; ] &lt;- &quot;i&quot;
+tmp[ tmp == &quot;ó&quot; ] &lt;- &quot;o&quot;
+tmp[ tmp == &quot;ú&quot; ] &lt;- &quot;u&quot;
+
+tmp &lt;- tmp[tmp %in% letters]
+names(tmp) &lt;- NULL
+
+b &lt;- as.factor(tmp)
+
+b.from &lt;- b[-length(b)]
+b.to   &lt;- b[-1]
+
+res &lt;- tapply( b.to, b.from, table )
+res &lt;- do.call( rbind, res ) + 1
+
+res &lt;- res / rowSums(res)
+
+m &lt;- res
+
+markov &lt;- function( x, m ){
+  sum(log( m[ cbind(x[-length(x)], x[-1] ) ] ) )
+}
+
+p.0 &lt;- markov( cadena, m )
+
+
+while( TRUE ){
+  cadena.alt &lt;- factor( cadena )
+  cambiar &lt;- sample( nlevels(cadena.alt), 2 )
+  levels.alt &lt;- levels( cadena.alt )
+
+  char.tmp &lt;- levels.alt[cambiar[1]]
+  levels.alt[cambiar[1]] &lt;- levels.alt[ cambiar[2] ]
+  levels.alt[cambiar[2]] &lt;- char.tmp
+
+  levels( cadena.alt ) &lt;- levels.alt
+
+  cadena.alt &lt;- as.character( cadena.alt )
+
+  p.1 &lt;- markov( cadena.alt, m )
+
+  if( p.1 &gt; p.0 ){
+    print( c(p.0, p.1) )
+    cadena &lt;- cadena.alt
+    p.0 &lt;- p.1
+    print( cadena ); &lt;a href=&quot;http://inside-r.org/r-doc/utils/flush.console&quot;&gt;flush.console()
+  }
+}
+</code></pre>
+<p>obtengo</p>
+<pre><code>&lt;code&gt;hostrocunylortunzagranioyprolsacosqlabibaparadovirelomaraqumasunorisdo&lt;/code&gt;
+</code></pre>
+<p>que es, ciertamente, bastante ininteligible. Nótese, sin embargo, que casi puede leerse en español: respeta de alguna manera la secuencia de caracteres habituales en nuestra lengua. Pero no significa realmente nada.</p>
+<p>Nota: ciertamente, por diseño, el código no termina propiamente, pero uno puede observar que se acaba estabilizándose en esa cadena. no termina (no tiene condición de fin porque no me entretuve en eso) pero que saca por pantalla las progresivas versiones cada vez más probables de cuál pudo ser la cadena original, al cabo de un rato se detiene en la bastante ininteligible</p>
+<p>Lo que propongo hoy es una pequeña modificación del algoritmo del otro día para que, en lugar de buscar un óptimo, navegue por entre las permutaciones más probables con la esperanza de que la óptima (y, probablemente, la original) sea una de ellas. El código queda así:</p>
+<pre><code>quijote &lt;- readLines( &quot;http://www.gutenberg.org/cache/epub/2000/pg2000.txt&quot;, encoding = &quot;UTF-8&quot; )
+tmp &lt;- sapply( quijote, function(x) strsplit(x, &quot;&quot;))
+tmp &lt;- do.call( c, tmp )
+tmp &lt;- tolower(tmp)
+
+tmp[ tmp == &quot;á&quot; ] &lt;- &quot;a&quot;
+tmp[ tmp == &quot;é&quot; ] &lt;- &quot;e&quot;
+tmp[ tmp == &quot;í&quot; ] &lt;- &quot;i&quot;
+tmp[ tmp == &quot;ó&quot; ] &lt;- &quot;o&quot;
+tmp[ tmp == &quot;ú&quot; ] &lt;- &quot;u&quot;
+
+tmp &lt;- tmp[tmp %in% letters]
+names(tmp) &lt;- NULL
+
+b &lt;- as.factor(tmp)
+
+b.from &lt;- b[-length(b)]
+b.to   &lt;- b[-1]
+
+res &lt;- tapply( b.to, b.from, table )
+res &lt;- do.call( rbind, res ) + 1
+
+res &lt;- res / rowSums(res)
+
+m &lt;- res
+
+markov &lt;- function( x, m ){
+  exp(sum(log( m[ cbind(x[-length(x)], x[-1] ) ] ) ))
+}
+
+intercambiar.dos.letras &lt;- function(cadena){
+  cadena.alt &lt;- factor( cadena, levels = letters )
+  cambiar &lt;- sample( nlevels(cadena.alt), 2 )
+  levels.alt &lt;- levels( cadena.alt )
+
+  char.tmp &lt;- levels.alt[cambiar[1]]
+  levels.alt[cambiar[1]] &lt;- levels.alt[ cambiar[2] ]
+  levels.alt[cambiar[2]] &lt;- char.tmp
+  levels( cadena.alt ) &lt;- levels.alt
+  as.character( cadena.alt )
+}
+
+p.0 &lt;- markov( cadena, m )
+contador &lt;- numeric(0)
+
+
+for (i in 1:100000){
+  cadena.alt &lt;- intercambiar.dos.letras(cadena)
+
+  p.1 &lt;- markov( cadena.alt, m )
+  azar &lt;- runif(1)
+
+  if( p.1 &gt; p.0 | azar &lt; p.1 / p.0 ){
+    cadena &lt;- cadena.alt
+    p.0 &lt;- p.1
+    a &lt;- paste(cadena, &lt;a href=&quot;http://inside-r.org/r-doc/nlme/collapse&quot;&gt;collapse =&quot;&quot;)
+    print( c(p.0, p.1) ); print(a)
+    contador[a] &lt;- ifelse( is.na(contador[a]), 1, contador[a] + 1)
+  }
+}
+
+sort(contador)
+</code></pre>
+<p>Las cadenas más probables (las asociadas a un contador más elevado), son</p>
+<pre><code>&lt;code&gt;fermueviclteumichaquacoelbuetraverstayoyabauadegountejauasijariceuorde
+wentrelosmuertosyagrasiembreunalenpuacicabaradevirqueharapohanoserinde
+gentrecospuertosyabrasieplreunacenmuavivalaradefirqueharamohanoserinde
+wentrelosmuertosfagrasiembreunalenpuacicabaradevirqueharapohanoserinde
+yentrecosmuertoshafrasiembreunacenpuadidabarajevirquelarapolanoserinje
+bentrelosmuertosyafrasiempreunalenguacicaparadevirqueharagohanoserinde
+ferilemosnteliospaylasuenzletramerctabubazaladequlgtehalacoharoselurde
+kentrelosmuertosyabrasiempreunalencuagigaparadevirqueharacohanoserinde
+jentrelosmuertosyabrasiempreunalenguacicaparadevirqueharagohanoserinde&lt;/code&gt;
+</code></pre>
+<p>y no sé si mis lectores reconocerán en ellas una frase de Galdós que aparecía en tiempos en los billetes de 1000 pesetas.</p>
+<p>Dista de ser perfecto, pero como que, más o menos, podemos sentirnos satisfechos con la descencriptación.</p>
+<p>En la próxima entrega de esta serie daré un pequeño rodeo y dejaré para la última la teoría de la cosa.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/criptograf%C3%ADa/" rel="tag">criptografía</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/probabilidad/" rel="tag">probabilidad</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2012/05/24/jugar-empobrece/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Jugar empobrece</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2012/05/29/sap-hana-rhana-y-r/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">SAP, HANA, RHANA y R</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

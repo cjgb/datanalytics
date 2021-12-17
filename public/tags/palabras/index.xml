@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>palabras on datanalytics</title>
+    <link>/tags/palabras/</link>
+    <description>Recent content in palabras on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 30 Sep 2014 07:13:05 +0000</lastBuildDate><atom:link href="/tags/palabras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Va sobre el número de palabras</title>
+      <link>/2014/09/30/va-sobre-el-numero-de-palabras/</link>
+      <pubDate>Tue, 30 Sep 2014 07:13:05 +0000</pubDate>
+      
+      <guid>/2014/09/30/va-sobre-el-numero-de-palabras/</guid>
+      <description>Trataré de usar pocas hoy. El otro día vi
+
+aquí. Me recordó que uno de mis proyectos abandonados sine die es el de estimar la rentabilidad real de productos financieros en función del número de palabras en sus correspondientes folletos.
+Nota: curioso el gráfico anterior. Una de las variables es un stock y la otra es un flujo.
+Otra nota: ahora que veo el gráfico me acuerdo de esto. Superpones dos funciones más o menos monótonas en una gráfica de doble escala y ya tienes la entrada/artículo del día.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2016-09-22 08:13:26+00:00
+draft: false
+title: Lo que va del 4.4% al 70%
+
+url: /2016/09/22/lo-que-va-del-4-4-al-71/
+categories:
+- números
+tags:
+- desempleo
+- error
+- ine
+---
+
+Dice [El País](http://economia.elpais.com/economia/2016/09/16/actualidad/1474014745_835833.html) transcribiéndonos (¡gracias!) la [nota de prensa del INE sobre la encuesta trimestral de coste laboral (ETCL) del segundo trimestre de 2016](http://www.ine.es/daco/daco42/etcl/etcl0216.pdf):
+
+
+
+<blockquote>Solo el 4,4% de las compañías señala que si no contrata es porque el coste es elevado
+</blockquote>
+
+
+
+Lo cual es cierto (por más que el _solo_ aporte un matiz opinativo como tal discutible).
+
+Pero una comparación con el titular,
+
+
+
+<blockquote>
+El 93,8% de las empresas españolas dice que no necesita más trabajadores</blockquote>
+
+
+
+(los errores muestrales del INE están de capa caída: ¡solo tres cifras significativas cuando nos tiene tan malacostumbrados a cuatro!) podría justificar lo que no se dice:
+
+
+
+<blockquote>
+Del 6,2% de las empresas que dice necesitar más trabajadores, el 70% (aprox. 4.4 / 6.2) no los contrata porque el coste es elevado</blockquote>
+
+
+
+**Corrigenda:** en una primera redacción, había usado 71% en lugar de 70%. Habiendo calculado esta cifra como una proporción basada en una submuestra de una muestra, presumir (como nos tiene acostumbrados el INE) de dos cifras significativas es inapropiado. 70%, casi seguro, puede ser, en una encuesta alternativa que nunca se realizará, 60% u 80%.
+
+
+

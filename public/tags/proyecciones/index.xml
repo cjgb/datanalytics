@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proyecciones on datanalytics</title>
+    <link>/tags/proyecciones/</link>
+    <description>Recent content in proyecciones on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 27 May 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/proyecciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todavía más sobre las proyecciones de población a largo plazo del INE</title>
+      <link>/2021/05/27/todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine/</link>
+      <pubDate>Thu, 27 May 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/05/27/todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine/</guid>
+      <description>Ese es otro capítulo más de lo que se está conviertiendo en toda una saga en este blog: véase esto, esto, esto o los enlaces de todas esas entradas. El presente está motivado por parrafitos como
+y otros del mismo cariz que pueden encontrarse en el documento España 2050 recientemente publicado.
+Así que he tomado las proyecciones a largo plazo de población que realiza el INE cada par de años y he construido el siguiente gráfico:</description>
+    </item>
+    
+    <item>
+      <title>Un extracto del documento metodológico de las proyecciones de población del INE</title>
+      <link>/2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/</link>
+      <pubDate>Tue, 29 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/</guid>
+      <description>Está extraído de aquí y dice los siguiente:
+ Las Proyecciones de Población constituyen una simulación estadística de la población que residiría en España, sus comunidades autónomas y provincias en los próximos años, así como de la evolución de cada uno de los fenómenos demográficos básicos asociados, en caso de mantenerse las tendencias y comportamientos demográficos actualmente observados.
+Para interpretar correctamente los resultados de las Proyecciones de Población es importante distinguir entre previsiones y proyecciones demográficas.</description>
+    </item>
+    
+    <item>
+      <title>Este es uno de los pecados estadísticos que menos indulgencia suscita</title>
+      <link>/2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita/</link>
+      <pubDate>Wed, 23 Sep 2020 09:12:00 +0000</pubDate>
+      
+      <guid>/2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita/</guid>
+      <description>INE, Proyecciones de Población 2020-2070 (enlace)
+[Nota para desavisados: ¿veis cómo se comporta la varianza antes/después?]
+[Otra nota: la publicación de las proyecciones de población del INE es casi todos los años motivo de recochineo bloguero. Buscad y encontraréis.]
+[Nota final: sí, sí, una proyección es lo que ocurriría &amp;ldquo;si se mantuvieran las tendencias actuales&amp;rdquo;. Eso os dirán. Precisamente por eso, esta entrada y el gráfico de más arriba.]</description>
+    </item>
+    
+    <item>
+      <title>A falta de escenarios, tenemos instituciones con atribuciones solapadas</title>
+      <link>/2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/</link>
+      <pubDate>Wed, 08 May 2019 09:13:36 +0000</pubDate>
+      
+      <guid>/2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/</guid>
+      <description>Si yo fuera rey, expropiaría el edificio sito en el número 212 de la Castellana de Madrid, derruiría lo existente y construiría uno imagen especular de
+que es el que queda justo enfrente y que contiene eso que conocemos como Instituto Nacional de Estadística. Lo llamaría, por mantener la especularidad, ENI y lo poblaría de estadísticos con una misión:
+ No hablar ni relacionarse bajo ningún concepto con los de enfrente.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre las proyecciones de población del INE</title>
+      <link>/2018/10/22/mas-sobre-las-proyecciones-de-poblacion-del-ine/</link>
+      <pubDate>Mon, 22 Oct 2018 08:13:53 +0000</pubDate>
+      
+      <guid>/2018/10/22/mas-sobre-las-proyecciones-de-poblacion-del-ine/</guid>
+      <description>Bastante he hablado de las proyecciones de población del INE (p.e., aquí o aquí). Insisto porque el gráfico que aparece en la segunda página de la nota de prensa de las últimas, a saber,
+se parece muchísimo a un gráfico que garabateé en el Bar Chicago de Zúrich (el peor garito de la peor calle de una de las mejores ciudades del mundo), con demasiadas cervezas en el cuerpo y mientras nos reíamos hasta de las bombillas.</description>
+    </item>
+    
+    <item>
+      <title>Estructura poblacional de España: 2010-2050</title>
+      <link>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</link>
+      <pubDate>Tue, 27 Feb 2018 08:13:04 +0000</pubDate>
+      
+      <guid>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</guid>
+      <description>Si se puede hacer para Japón, también se puede hacer para España:
+El código,
+library(idbr) library(ggplot2) library(animation) library(ggthemes) idb_api_key(&amp;quot;pídela en https://www.census.gov/data/developers/data-sets/international-database.html&amp;quot;) male &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;male&#39;) male$SEX &amp;lt;- &amp;quot;hombres&amp;quot; male$POP &amp;lt;- -male$POP female &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;female&#39;) female$SEX &amp;lt;- &amp;quot;mujeres&amp;quot; spain &amp;lt;- rbind(male, female) saveGIF({ for (i in 2010:2050) { title &amp;lt;- as.character(i) year_data &amp;lt;- spain[spain$time == i, ] g1 &amp;lt;- ggplot(year_data, aes(x = AGE, y = POP, fill = SEX, width = 1)) + coord_fixed() + coord_flip() + annotate(&#39;text&#39;, x = 98, y = -300000, label = &#39;Datos: US Census Bureau IDB; idbr R package&#39;, size = 3) + geom_bar(data = subset(year_data, SEX == &amp;quot;mujeres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + geom_bar(data = subset(year_data, SEX == &amp;quot;hombres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + scale_y_continuous(breaks = seq(-300000, 300000, 150000), labels = paste0(as.</description>
+    </item>
+    
+    <item>
+      <title>Una proyección no es un número sino una distribución de probabilidad</title>
+      <link>/2017/05/17/una-proyeccion-no-es-un-numero-sino-una-distribucion-de-probabilidad/</link>
+      <pubDate>Wed, 17 May 2017 08:13:53 +0000</pubDate>
+      
+      <guid>/2017/05/17/una-proyeccion-no-es-un-numero-sino-una-distribucion-de-probabilidad/</guid>
+      <description>Nos lo recuerda NeG. Aunque es un tema manido en estas páginas.
+Pero, ea, ea, ea, el INE no se entera.
+(Y es a ese tipo de cosas a la que me refiero implícitamente cuando digo, cada vez más frecuentemente, que España es un país de pueblo).</description>
+    </item>
+    
+    <item>
+      <title>Y mientras tanto... nos roban la cartera</title>
+      <link>/2017/03/23/y-mientras-tanto-nos-roban-la-cartera/</link>
+      <pubDate>Thu, 23 Mar 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/03/23/y-mientras-tanto-nos-roban-la-cartera/</guid>
+      <description>Hablamos de ondículas.
+Hablamos de datos abiertos.
+Hablamos de cómo usar la semilla como hiperparámetro para mejorar una diezmilésima el RMSE.
+Hablamos.
+Mientras tanto, la mano es más rápida que el ojo, el ojo es más lento que la mano, ¿dónde estará la bolita?, ¿dónde estará?, porque la mano es más ra?ido que el ojo&amp;hellip; Y en esas, el cuñado de fulano nos saca inadvertidamente cuarenta kilos de la cartera.</description>
+    </item>
+    
+    <item>
+      <title>Proyecciones probabilísticas de población</title>
+      <link>/2017/01/31/proyecciones-probabilisticas-de-poblacion/</link>
+      <pubDate>Tue, 31 Jan 2017 08:13:01 +0000</pubDate>
+      
+      <guid>/2017/01/31/proyecciones-probabilisticas-de-poblacion/</guid>
+      <description>Cuando escribí que las proyecciones de población del INE no valían para un carajo, todavía no se había publicado [bayesPop](https://www.jstatsoft.org/article/view/v075i05).
+Ahora tienen una excusa menos para no ponerse a la altura de los tiempos.
+Nota: el gráfico anterior está extraído de la la página de proyecciones de población de la ONU y corresponde, cómo no, a España.</description>
+    </item>
+    
+    <item>
+      <title>Proyecciones, estimaciones, previsiones, operaciones... y churros</title>
+      <link>/2014/11/14/proyecciones-estimaciones-previsiones-operaciones-y-churros/</link>
+      <pubDate>Fri, 14 Nov 2014 07:13:18 +0000</pubDate>
+      
+      <guid>/2014/11/14/proyecciones-estimaciones-previsiones-operaciones-y-churros/</guid>
+      <description>¿Os acordáis de lo de las proyecciones de población a largo plazo del INE? Atentos a lo que dice el instituto sobre ellas aquí (en la sección de acuracidad):
+¡Toma ya!
+Yo me pregunto, entonces: ¿para qué se hace en lugar de, simplememente —y mucho más económicamente—, no hacerse? Sobre todo, habida cuenta de que otros también la hacen y la hacen mejor. Compárese, por ejemplo,
+
+con
+
+Finalmente, déjeseme comparar las previsionesdigo estimacionesdigo operaciones del INE realizadas en 2009 con las del 2012 (y poniendo, además, el origen del eje y donde le ha dado la gana a ggplot2):</description>
+    </item>
+    
+    <item>
+      <title>¿Y si no se mantuvieran?</title>
+      <link>/2014/10/30/y-si-no-se-mantuvieran/</link>
+      <pubDate>Thu, 30 Oct 2014 07:13:25 +0000</pubDate>
+      
+      <guid>/2014/10/30/y-si-no-se-mantuvieran/</guid>
+      <description>Comienzo mi entrada de hoy con una foto de Madrid en la nochevieja de 1964.
+
+Esta es otra de los hinchas del equipo nacional el mismo año en los prolegómenos de la final de la Eurocopa del mismo año, que le ganamos a la Unión Soviética.
+
+Aquí encontrarán mis lectores otras escenas de lo que era costumbre en aquellas fechas de hace cincuenta años.
+Y no, no quiero reconvertir mi bitácora en otras Escenas Matritenses.</description>
+    </item>
+    
+  </channel>
+</rss>

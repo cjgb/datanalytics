@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tukey on datanalytics</title>
+    <link>/tags/tukey/</link>
+    <description>Recent content in tukey on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 02 Mar 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/tukey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre los peligros del &#34;Tukey biweight&#34;</title>
+      <link>/2020/03/02/sobre-los-peligros-del-tukey-biweight/</link>
+      <pubDate>Mon, 02 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/02/sobre-los-peligros-del-tukey-biweight/</guid>
+      <description>Sigo con ajustes robustos. Y cosas que como matemático, me ponen muy nervioso.
+Una de las maneras de hacer ajustes robustos es la de sustituir la función cuadrática por la biweight. Es decir, utilizar la función que aparece la derecha en
+en lugar de la de la izquierda. O, dicho de otra manera, en lugar de tratar de minimizar
+$latex \sum_i \rho(y_i - f_\alpha(x_i))$
+usando $latex \rho(x) = x^2$, que es la función que se representa a la izquierda y a la que estamos acostumbrados, usar la de la derecha.</description>
+    </item>
+    
+    <item>
+      <title>Una sociedad para la eliminación del coeficiente de correlación</title>
+      <link>/2015/07/29/una-sociedad-para-la-eliminacion-del-coeficiente-de-correlacion/</link>
+      <pubDate>Wed, 29 Jul 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/07/29/una-sociedad-para-la-eliminacion-del-coeficiente-de-correlacion/</guid>
+      <description>Este artículo comienza así:
+¿De verdad que no os intriga el resto?</description>
+    </item>
+    
+  </channel>
+</rss>

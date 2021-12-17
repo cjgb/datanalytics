@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware on datanalytics</title>
+    <link>/tags/hardware/</link>
+    <description>Recent content in hardware on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 11 Dec 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La lotería del hardware y la cámara de resonancia académica</title>
+      <link>/2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/</link>
+      <pubDate>Fri, 11 Dec 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/</guid>
+      <description>El artículo The Hardware Lottery es, hasta cierto punto, informativo. En el fondo, no dice nada que no supiésemos ya: que ciertas ideas, algoritmos, procedimientos, métodos, en diversas disciplinas (¡no en matemáticas!) triunfan esencialmente porque les toca la lotería del hardware. No es que sean las mejores desde una perspectiva actual —podría usar aquí los términos etic y emic a lo ovetense.)— sino que fueron afortunados y bendecidos por el hecho de estar a la (típicamente, medianeja) altura de los tiempos medidos en términos del desarrollo del hardware.</description>
+    </item>
+    
+    <item>
+      <title>Hoy es el día internacional de la copia de seguridad</title>
+      <link>/2017/03/31/hoy-es-el-dia-internacional-de-la-copia-de-seguridad/</link>
+      <pubDate>Fri, 31 Mar 2017 08:13:17 +0000</pubDate>
+      
+      <guid>/2017/03/31/hoy-es-el-dia-internacional-de-la-copia-de-seguridad/</guid>
+      <description>No me lo invento.
+Dos personas que conozco han perdido todos sus datos del disco duro recientemente. Esas cosas pasan más frecuentemente de lo que parece.
+Así que no seáis pendejos y haced copias de seguridad de todo este finde. Si es posible, en la nube.</description>
+    </item>
+    
+    <item>
+      <title>Tengo ordenador nuevo con 64GB de RAM (más unas preguntas)</title>
+      <link>/2016/05/23/tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas/</link>
+      <pubDate>Mon, 23 May 2016 08:13:37 +0000</pubDate>
+      
+      <guid>/2016/05/23/tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas/</guid>
+      <description>Sí, mi viejo ordenador había cumplido 6 años y comenzaba a quedarse corto. La puntilla fueron problemas de compatibilidad de la tarjeta gráfica con el nuevo Xubuntu (más precisamente, con los nuevos núcleos de Linux que trae). Así que lo que hace no tanto habría parecido ciencia ficción, es ahora realidad bajo mi mesa: 64GB de RAM para mí solo. Y eso que no me he querido gastar dinero; además que, como autónomo y siendo la nueva máquina herramienta de trabajo, viene a salirme como en la mitad que a un civil.</description>
+    </item>
+    
+    <item>
+      <title>¿En qué año era la el almacenamiento en disco tan caro como hoy en memoria?</title>
+      <link>/2016/01/13/en-que-ano-era-la-el-almacenamiento-en-disco-tan-caro-como-hoy-en-memoria/</link>
+      <pubDate>Wed, 13 Jan 2016 08:13:07 +0000</pubDate>
+      
+      <guid>/2016/01/13/en-que-ano-era-la-el-almacenamiento-en-disco-tan-caro-como-hoy-en-memoria/</guid>
+      <description>La respuesta a sea pregunta, y siempre de acuerdo con los datos de John C. McCallum la da
+
+que hace corresponder a cada año del eje horizontal el correspondiente (en el vertical) aquel en el que el almacenamiento en disco venía a costar lo mismo (euros por MB) que el memoria en el primero.
+Hoy vamos casi por 2000.
+Me llama la atención que el crecimiento se esté ralentizando.</description>
+    </item>
+    
+    <item>
+      <title>Un récord personal</title>
+      <link>/2013/11/04/un-record-personal/</link>
+      <pubDate>Mon, 04 Nov 2013 07:05:09 +0000</pubDate>
+      
+      <guid>/2013/11/04/un-record-personal/</guid>
+      <description>El otro día, casi por error, cargué este dataframe en R:
+&amp;lt;code&amp;gt;&amp;gt; dim(raw) [1] 115318140 4 &amp;lt;/code&amp;gt;  Es todo un récord personal logrado en un servidor con 24GB de RAM bastante caro.
+El anterior estaba en otro de algo así como 20 millones de filas y unas 6 o siete columnas. Eso sí, logrado en tiramisu, mi ordenador personal de 8GB de RAM de 400 euros (monitor incluido).
+Os preguntaréis si pude hacer algo con ese monstruo.</description>
+    </item>
+    
+    <item>
+      <title>Los portátiles, ¿objetos fálicos?</title>
+      <link>/2010/03/15/los-portatiles-objetos-falicos/</link>
+      <pubDate>Mon, 15 Mar 2010 21:41:40 +0000</pubDate>
+      
+      <guid>/2010/03/15/los-portatiles-objetos-falicos/</guid>
+      <description>Yo siempre he creído que eso de los portátiles tiene algo de fálico. Ya no gastamos puñal ni espada. Ni escribimos con tachuelas Biba mi dueño en el mango de navajas de valleinclanianas. Pero salimos a la calle con portátiles y los celamos (yo, al menos) como antaño se guardaban de la sucia mano ajena los afilados depositarios de la virilidad carpetovetónica.
+He comprado un portátil nuevo y, llevado de fálico exhibicionismo, he decidido que amerita una entrada en la que proclamar que el mío es más pequeño que el de casi todos mis lectores.</description>
+    </item>
+    
+  </channel>
+</rss>

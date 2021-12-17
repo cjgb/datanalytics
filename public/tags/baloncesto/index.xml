@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>baloncesto on datanalytics</title>
+    <link>/tags/baloncesto/</link>
+    <description>Recent content in baloncesto on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 04 Mar 2014 07:08:18 +0000</lastBuildDate><atom:link href="/tags/baloncesto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Victoria o diferencia de puntos? ¿lm o glm?</title>
+      <link>/2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/</link>
+      <pubDate>Tue, 04 Mar 2014 07:08:18 +0000</pubDate>
+      
+      <guid>/2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/</guid>
+      <description>Supongamos que queremos construir un modelo para predecir quién ganará un determinado partido de baloncesto basándonos en datos diversos. Y en un histórico, por supuesto.
+Podemos utilizar una regresión logística así:
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) my.coefs &amp;lt;- -2:2 n &amp;lt;- 200 train.n &amp;lt;- floor(2*n/3) test.error.glm &amp;lt;- function(){ X &amp;lt;- matrix(rnorm(n*5), n, 5) Y &amp;lt;- (0.2 + X %*% my.coefs + rnorm(n)) &amp;gt; 0 train &amp;lt;- sample(1:n, train.n) X &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/as.data.frame&amp;quot;&amp;gt;as.data.frame(X) X$Y &amp;lt;- Y mod.</description>
+    </item>
+    
+  </channel>
+</rss>

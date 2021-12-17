@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sobremuestreo on datanalytics</title>
+    <link>/tags/sobremuestreo/</link>
+    <description>Recent content in sobremuestreo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 29 Jun 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/sobremuestreo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobremuestreando x (y no y)</title>
+      <link>/2020/06/29/sobremuestreando-x-y-no-y/</link>
+      <pubDate>Mon, 29 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/29/sobremuestreando-x-y-no-y/</guid>
+      <description>Construyo unos datos (artificiales, para conocer la verdad):
+n &amp;lt;- 10000 x1 &amp;lt;- rnorm(n) x2 &amp;lt;- rnorm(n) probs &amp;lt;- -2 + x1 + x2 probs &amp;lt;- 1 / (1 + exp(-probs)) y &amp;lt;- sapply(probs, function(p) rbinom(1, 1, p)) dat &amp;lt;- data.frame(y = y, x1 = x1, x2 = x2)  Construyo un modelo de clasificación (logístico, que hoy no hace falta inventar, aunque podría ser cualquier otro):
+summary(glm(y ~ x1 + x2, data = dat, family = binomial)) #Call: #glm(formula = y ~ x1 + x2, family = binomial, data = dat) # #Deviance Residuals: # Min 1Q Median 3Q Max #-2.</description>
+    </item>
+    
+    <item>
+      <title>Los coeficientes de la regresión logística con sobremuestreo</title>
+      <link>/2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/</link>
+      <pubDate>Mon, 17 Nov 2014 07:13:30 +0000</pubDate>
+      
+      <guid>/2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/</guid>
+      <description>Esta entrada viene a cuento de una pregunta en r-help-es con, por referencia, este contexto:
+Y la cuestión tiene que ver con la conveniencia de utilizar una muestra equilibrada o no de los datos al ajustar una regresión logística y si procede o no utilizar pesos.
+Yo quiero mostrar aquí qué sucede con los coeficientes de una regresión logística cuando se submuestrean los ceros. Para eso voy a crear muchos conjuntos de datos con la siguiente estructura:</description>
+    </item>
+    
+  </channel>
+</rss>

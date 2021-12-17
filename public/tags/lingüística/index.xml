@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lingüística on datanalytics</title>
+    <link>/tags/ling%C3%BC%C3%ADstica/</link>
+    <description>Recent content in lingüística on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 02 Feb 2017 08:13:14 +0000</lastBuildDate><atom:link href="/tags/ling%C3%BC%C3%ADstica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Cuánto durará la sólo-nostalgia?</title>
+      <link>/2017/02/02/cuanto-durara-la-solo-nostalgia/</link>
+      <pubDate>Thu, 02 Feb 2017 08:13:14 +0000</pubDate>
+      
+      <guid>/2017/02/02/cuanto-durara-la-solo-nostalgia/</guid>
+      <description>Mi vieja amiga Elena Álvarez me sorprendió el otro día publicando nada menos que en el periódico de mis contraejemplos, el muy apriorístico ElDiario.es, el artículo &amp;ldquo;Sólo&amp;rdquo; y la tilde de la nostalgia. Trata temas que hay había hablado con ella y sobre los que vi que había publicado bastante en otros sitios.
+Falla (vosotros no lo sabéis, pero ella y yo sí) en que Elena, tan declaradamente descriptivista, se pone la gorra normativista y atiza a los renuentes al cambio a golpe de manual aristotélico.</description>
+    </item>
+    
+    <item>
+      <title>Mi primera aplicacion en Shiny: un detector de idiomas</title>
+      <link>/2013/05/06/mi-primera-aplicacion-en-shiny-un-detector-de-idiomas/</link>
+      <pubDate>Mon, 06 May 2013 07:49:12 +0000</pubDate>
+      
+      <guid>/2013/05/06/mi-primera-aplicacion-en-shiny-un-detector-de-idiomas/</guid>
+      <description>Motivado por los experimentos de Gregorio Serrano con shiny e ilustrado por la charla que dio en el Grupo de Usuarios de R de Madrid, decidí colgar el otro día un entretenimiento que ocupó la mañana de un domingo —y las mañanas de mis domingos son proverbialmente breves— en la red.
+Se trata de una aplicación que distingue el idioma en que está escrito un texto dentro de una selección de ellos: español, italiano, latín, francés, portugués y catalán.</description>
+    </item>
+    
+    <item>
+      <title>¿Leemos &#34;Analyzing Linguistic Data&#34; juntos?</title>
+      <link>/2013/04/24/leemos-analyzing-linguistic-data-juntos/</link>
+      <pubDate>Wed, 24 Apr 2013 07:48:34 +0000</pubDate>
+      
+      <guid>/2013/04/24/leemos-analyzing-linguistic-data-juntos/</guid>
+      <description>Victor Peinado y yo estamos organizando un grupo de lectura. Junto con quienes se nos sumen, vamos a ir leyendo el libro Analyzing Linguistic Data: A practical introduction to Statistics&amp;quot;, que trata de:
+ * R (instalación, gráficos, etc.) * Métodos estadísticos con R (modelos lineales, clústering, * clasificación, modelos mixtos) * Lingüística (que es el contexto en el que se aplica lo anterior).  La participación en este grupo está indicada para quienes tengan interés en las aplicaciones lingüísticas de la estadística (y de R, por supuesto).</description>
+    </item>
+    
+  </channel>
+</rss>

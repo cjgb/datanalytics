@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seis sigma on datanalytics</title>
+    <link>/tags/seis-sigma/</link>
+    <description>Recent content in seis sigma on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 08 Nov 2016 08:13:13 +0000</lastBuildDate><atom:link href="/tags/seis-sigma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Seis sigmas? Porque a mí solo me llegan 4.5 sigmas</title>
+      <link>/2016/11/08/seis-sigmas-porque-a-mi-solo-me-llegan-4-5-sigmas/</link>
+      <pubDate>Tue, 08 Nov 2016 08:13:13 +0000</pubDate>
+      
+      <guid>/2016/11/08/seis-sigmas-porque-a-mi-solo-me-llegan-4-5-sigmas/</guid>
+      <description>Seis sigma es un conjunto de métodos y prácticas para mejorar la calidad de los procesos industriales. Su nombre está inspirado por la distribución normal: aspira a que la tasa de errores (por ejemplo, piezas defectuosas producidas por una planta) sea pnorm(-6).
+Pero pnorm(-6) es 9.8e-10 (uno por millardo, aproximadamente), mientras que, según la Wikipedia, que siempre tiene la razón, la aspiración del Seis Sigma es la de alcanzar 3.4 defective features per million opportunities.</description>
+    </item>
+    
+  </channel>
+</rss>

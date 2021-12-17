@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql server on datanalytics</title>
+    <link>/tags/sql-server/</link>
+    <description>Recent content in sql server on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Apr 2015 08:13:51 +0000</lastBuildDate><atom:link href="/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Restauración de ficheros .bak sin Windows</title>
+      <link>/2015/04/10/restauracion-de-ficheros-bak-sin-windows/</link>
+      <pubDate>Fri, 10 Apr 2015 08:13:51 +0000</pubDate>
+      
+      <guid>/2015/04/10/restauracion-de-ficheros-bak-sin-windows/</guid>
+      <description>Tengo un fichero .bak. Un fichero .bak (el mío, al menos) es una copia de seguridad de SQL Server y no hay forma humana de acceder a sus contenidos sin otro SQL Server (que yo sepa). No me preguntéis de dónde lo he sacado. La cuestión es que contiene datos que tengo que leer.
+Requisito imprescindible para tener un SQL Server es disponer de una máquina con Windows. Pero yo no tengo ninguna.</description>
+    </item>
+    
+  </channel>
+</rss>

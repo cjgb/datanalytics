@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelos on datanalytics</title>
+    <link>/tags/modelos/</link>
+    <description>Recent content in modelos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 07 Dec 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/modelos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</title>
+      <link>/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/</link>
+      <pubDate>Tue, 07 Dec 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/</guid>
+      <description>[Nota: esta entrada está indirectamente motivada por mi asistencia a la presentación (y posterior adquisición) del libro &amp;ldquo;Los peligros de la moralidad&amp;rdquo; de Pablo Malo hoy día 3 de diciembre de 2021.]
+Desde Freud hasta Pablo Malo son muchos los siquiatras que han intervenido en el debate público aportando su visión sobre distintos temas.
+Desde ¿quién? hasta ¡tantos! son innumerables los estadísticos que han intervenido (generalmente, de modo implícito) en el debate público aportando su visión sobre distintos temas.</description>
+    </item>
+    
+    <item>
+      <title>Causalidad inversa: más sobre los momentos &#34;Le Verrier&#34;</title>
+      <link>/2021/10/19/causalidad-inversa-mas-sobre-los-momentos-le-verrier/</link>
+      <pubDate>Tue, 19 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/10/19/causalidad-inversa-mas-sobre-los-momentos-le-verrier/</guid>
+      <description>Escribí el otro día sobre los llamados momentos Le Verrier. Que, siguiendo la nomenclatura de Why ask why? Forward causal inference and reverse causal questions no son otra cosa que ejercicios de causalidad inversa con final feliz.
+Efectivamente, según el artículo, las cuestiones de índole causal son de dos tipos: prospectivas y retrospectivas (o inversas), en una traducción muy libre. Las primeras, más habituales, se refieren a cuáles serán los efectos de una causa.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué modelas cuando modelas?</title>
+      <link>/2021/01/26/que-modelas-cuando-modelas/</link>
+      <pubDate>Tue, 26 Jan 2021 17:59:00 +0000</pubDate>
+      
+      <guid>/2021/01/26/que-modelas-cuando-modelas/</guid>
+      <description>Ahora que estoy trabajando en el capítulo dedicado a la modelización (clásica, frecuentista) de mi libro, me veo obligado no ya a resolver sino encontrar una vía razonable entre las tres —¿hay más?— posibles respuestas a esa pregunta.
+La primera es yo modelo un proceso (o fenómeno), los datos llegan luego. Yo pienso que una variable de interés $latex Y$ depende de $latex X_i$ a través de una relación del tipo</description>
+    </item>
+    
+    <item>
+      <title>Explicación de los scorings de &#34;ciertos&#34; modelos</title>
+      <link>/2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/</link>
+      <pubDate>Wed, 14 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/</guid>
+      <description>Esta entrada la hago por petición popular y para rematar de alguna manera lo que incoé hace unos días. Seré breve hasta lo telegráfico:
+ Tomo las observaciones con scorings más altos (en un árbol construido con ranger y cariño). 2. Veo cuáles son los árboles que les asignan scorings más altos. 3. Anoto las variables implicadas en las ramas por donde bajan las observaciones (1) en los árboles (2). 4.</description>
+    </item>
+    
+    <item>
+      <title>Modelos como &#34;hechos estilizados&#34;</title>
+      <link>/2020/07/28/modelos-como-hechos-estilizados/</link>
+      <pubDate>Tue, 28 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/28/modelos-como-hechos-estilizados/</guid>
+      <description>El otro día, una remesa de nuevos datos rompió un modelo (no mío) en producción. El modelo suponía que la forma de los datos era muy concreta y estos se rebelaron.
+Un amigo me preguntó por qué se usaba un modelo paramétrico tan simple. El motivo no es otro que la búsqueda de hechos estilizados, resúmenes a muy alto nivel de la realidad que quepan y queden bien en un tuit.</description>
+    </item>
+    
+    <item>
+      <title>Un recordatorio: MOMOCalor está &#34;up and running&#34;</title>
+      <link>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</link>
+      <pubDate>Mon, 27 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</guid>
+      <description>Por desgracia, MoMo ya no exige presentación. Pero con los termómetros acariciando los 40º no está mal recordar la existencia de MoMoCalor, su hermanito, que trata atribuir mortalidad a los excesos de temperaturas.
+¿Por qué es particularmente importante MoMoCalor hoy? Recuérdese que MoMo estima, simplemente, desviaciones de mortalidad con respecto a la que sería la normal en una fecha determinada. Cuando hay una epidemia o una ola de calor, la mortalidad crece y MoMo lo detecta.</description>
+    </item>
+    
+    <item>
+      <title>No hagáis esto o se darán cuenta de que sois muy cutres</title>
+      <link>/2020/06/02/no-hagais-esto-o-se-daran-cuenta-de-que-sois-muy-cutres/</link>
+      <pubDate>Tue, 02 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/02/no-hagais-esto-o-se-daran-cuenta-de-que-sois-muy-cutres/</guid>
+      <description>Lo que no hay que hacer nunca si no quieres que se enteren de que eres inmensamente cutre es escribir código en las líneas del siguiente seudocódigo:
+... m = model(y ~ a + b + c) if (modelo.p_value(a) &amp;gt; .05) m = model(y ~ b + c) ...  ¡No, no, no, no, NO!</description>
+    </item>
+    
+    <item>
+      <title>La gramática del análisis explicativo interactivo de modelos</title>
+      <link>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</link>
+      <pubDate>Thu, 14 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/14/la-gramatica-del-analisis-explicativo-interactivo-de-modelos/</guid>
+      <description>Así vendría a traducirse el título de este artículo, que trata de taxonomizar y sistematizar una serie de técnicas muy recientes para explicar modelos de caja negra.
+Tal vez no acabe siendo la manera pero, sin duda, acabará habiendo una.</description>
+    </item>
+    
+    <item>
+      <title>¿Agregar antes de modelar?</title>
+      <link>/2020/05/11/agregar-antes-de-modelar/</link>
+      <pubDate>Mon, 11 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/11/agregar-antes-de-modelar/</guid>
+      <description>El otro día me pasaron unos datos artificiales para poder probar el ajuste de cierto tipo de modelos. El autor de la simulación construyó tres conjuntos de pares (x,y) y luego los agregó (media de los y agrupando por x) antes de proporcionármelos.
+¿Tiene sentido agregar antes de modelar? Incluso sin entrar en el problema del potencial número desigual de observaciones por punto (datos desbalanceados) o las heterogeneidades entre las distintas iteraciones (que nos llevaría al mundo de los modelos mixtos).</description>
+    </item>
+    
+    <item>
+      <title>MoMo: una documentación oficiosa</title>
+      <link>/2020/04/08/momo-una-documentacion-oficiosa/</link>
+      <pubDate>Wed, 08 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/08/momo-una-documentacion-oficiosa/</guid>
+      <description>Estos días se habla de MoMo y por primera vez en quince años largos, el público está contemplando gráficas como
+que resumen lo más jugoso del sistema. MoMo (de monitorización de la mortalidad) es un sistema desarrollado por el ISCIII para seguir en tiempo casi real la evolución de la mortalidad en España.
+Utiliza como fuente de datos fundamental la procedente de los registros civiles informatizados, que son la práctica mayoría (aunque no todos: queda excluido ~5% de la población).</description>
+    </item>
+    
+    <item>
+      <title>WoE,... pero ¿y las interacciones?</title>
+      <link>/2020/02/13/woe-pero-y-las-interacciones/</link>
+      <pubDate>Thu, 13 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/13/woe-pero-y-las-interacciones/</guid>
+      <description>Esto del WoE he tenido que aplicarlo (de manera no estándar, además) en alguna ocasión. Pero forzado por las circunstancias (que, concretamente, eran el misteriosísimo y no siempre conforme a lo que cabría esperar que hace ranger de las variables categóricas). Digamos que a veces toca, pero no es tampoco algo de lo que enorgullecerse.
+Pero cuando escucho o leo a los apologetas del WoE, siempre me pregunto mucho por lo que tendrán que decir sobre la pérdida de información en términos abstractos y, en otros más concretos, qué ocurre con las interacciones.</description>
+    </item>
+    
+    <item>
+      <title>GoF para modelos bayesianos</title>
+      <link>/2020/01/28/gof-para-modelos-bayesianos/</link>
+      <pubDate>Tue, 28 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/28/gof-para-modelos-bayesianos/</guid>
+      <description>Existe una muy perezosa escuela de pensamiento que sostiene que dado que las probabilidades son subjetivas, cualquier modelo y, en particular, los bayesianos, como expresión de la subjetividad de sus autores, no necesita ser contrastado con la realidad. Porque, de hecho, la realidad no existe y es una construcción que cada cual hace a su manera, deberían añadir.
+Existe, por supuesto, una escuela realista tan mayoritaria que ni siquiera es consciente de que lo es.</description>
+    </item>
+    
+    <item>
+      <title>El modelo son las conclusiones</title>
+      <link>/2019/10/18/el-modelo-son-las-conclusiones/</link>
+      <pubDate>Fri, 18 Oct 2019 09:13:47 +0000</pubDate>
+      
+      <guid>/2019/10/18/el-modelo-son-las-conclusiones/</guid>
+      <description>El título es un tanto exagerado, tal vez tanto como el aforismo de McLuhan que lo inspira. Pero no pudo dejar de ocurrírseme al ver el gráfico
+acompañado del tuit
+Es increíble: un mapa de contaminación por NO2 con una enorme resolución tanto espacial (a nivel de manzana, prácticamente) como temporal (¡correla con la intensidad del tráfico!).
+Pero la medición del NO2 es o barata o cara. Y si, barata, mala: los sensores bien calibrados son caros y exigen un mantenimiento técnico solo al alcance de los ayuntamientos más pudientes.</description>
+    </item>
+    
+    <item>
+      <title>Sobre la (necesaria) validación a posteriori de modelos de caja negra</title>
+      <link>/2019/03/27/sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra/</link>
+      <pubDate>Wed, 27 Mar 2019 09:13:01 +0000</pubDate>
+      
+      <guid>/2019/03/27/sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra/</guid>
+      <description>Esta entrada viene a cuento de una conversación que tuve el otro día con un economista clásico que me preguntaba mi opinión sobre los métodos del ML aplicados en su disciplina (y no solo en ella). Le causaba cierto desasosiego, muy razonable, el hecho de que le pusieran delante cajas negras que presuntamente, y eso era artículo de fe, predecían ciertos fenómenos macroeconómicos. ¿Qué —decía— si los modelos están recogiendo las correlaciones erróneas?</description>
+    </item>
+    
+    <item>
+      <title>Las decisiones son lo primario; la estadística es subsidiaria</title>
+      <link>/2019/03/18/las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria/</link>
+      <pubDate>Mon, 18 Mar 2019 08:13:19 +0000</pubDate>
+      
+      <guid>/2019/03/18/las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria/</guid>
+      <description>En Circiter estamos negociando con unos clientes potenciales acerca de, tal como nos dijeron inicialmente, construir un modelo. Todo bien.
+En la última reunión surgió la pregunta (¡qué vergüenza por mi parte no haberla planteado mucho antes!): ¿cómo habría que usarlo para dar soporte al negocio? La discusión subsiguiente dejó claro que habría que cambiar sustancialmente la aproximación al modelo. Por ejemplo:
+ Era tanto o más importante la discriminación intra-sujeto que la entre-sujeto (es decir, importaba más lo que el modelo pudiera decir de los ítems de cada sujeto que las diferencias que pudiera mostrar entre sujetos).</description>
+    </item>
+    
+    <item>
+      <title>AUC = Wilcoxon</title>
+      <link>/2019/02/11/auc-wilcoxon/</link>
+      <pubDate>Mon, 11 Feb 2019 08:13:02 +0000</pubDate>
+      
+      <guid>/2019/02/11/auc-wilcoxon/</guid>
+      <description>Construyo unos datos,
+n &amp;lt;- 30 si &amp;lt;- data.frame(res = &amp;quot;si&amp;quot;, score = rnorm(n, 1, 1)) no &amp;lt;- data.frame(res = &amp;quot;no&amp;quot;, score = rnorm(n, 0, 1)) dat &amp;lt;- rbind(si, no)  que simulan los scorings de un modelo hipótetico en el que comparo unos casos positivos y otros negativos.
+Comparo con el test de Wilcoxon el scoring según la etiqueta y normalizo (adecuadamente):
+test &amp;lt;- wilcox.test(score ~ res, data = dat)$statistic test / n^2  Por otro lado calculo el AUC:</description>
+    </item>
+    
+    <item>
+      <title>Evolución de la resistencia al calor</title>
+      <link>/2018/05/25/evolucion-de-la-resistencia-al-calor/</link>
+      <pubDate>Fri, 25 May 2018 08:13:36 +0000</pubDate>
+      
+      <guid>/2018/05/25/evolucion-de-la-resistencia-al-calor/</guid>
+      <description>En 2003 hubo una ola de calor de tal magnitud que el ministerio de sanidad puso en marcha un plan especial de seguimiento, prevención, monitorización, etc. de ese tipo de fenómenos.
+La hipótesis que me propongo explorar aquí es la siguiente: que gracias a la prevención, a la popularización del aire acondicionado, a la mejora del nivel de vida, etc. el impacto del calor (en forma de olas) sobre la mortalidad decrece en el tiempo.</description>
+    </item>
+    
+    <item>
+      <title>El z-score es una medida inadecuada de la perplejidad</title>
+      <link>/2017/12/18/el-z-score-es-una-medida-inadecuada-de-la-perpejidad/</link>
+      <pubDate>Mon, 18 Dec 2017 08:13:26 +0000</pubDate>
+      
+      <guid>/2017/12/18/el-z-score-es-una-medida-inadecuada-de-la-perpejidad/</guid>
+      <description>Tenemos un dato y un valor de referencia. Por ejemplo, el valor predicho por uno modelo y el observado. Queremos medir la distancia entre ambos. ¿En qué unidades?
+Antes de eso, incluso, ¿para qué queremos medir esa distancia? Esta es la pregunta fácil: para ver cómo encaja en el modelo propuesto, para ver cómo lo sorprende, para cuantificar la perplejidad.
+Los estadísticos están acostumbrados a medir la perplejidad en unas unidades que solo ellos entienden, si es que las entienden: desviaciones estándar.</description>
+    </item>
+    
+    <item>
+      <title>Modelos no lineales directos e inversos</title>
+      <link>/2017/10/16/modelos-no-lineales-directos-e-inversos/</link>
+      <pubDate>Mon, 16 Oct 2017 08:13:41 +0000</pubDate>
+      
+      <guid>/2017/10/16/modelos-no-lineales-directos-e-inversos/</guid>
+      <description>Las malandanzas de Circiter la han conducido al siguiente entuerto: estimar $latex \alpha$ donde
+$latex y = f_\alpha(x) + \epsilon$
+y $latex f_\alpha$ es una función no lineal horrible. Sin embargo, $latex f^{-1}_\alpha$ es mucho más manejable y podría plantearse el modelo
+$latex x = f^{-1}_\alpha(y) + \epsilon$
+(donde este nuevo $latex \epsilon$ no coincide con el anterior: piénsese en el método delta y léase la nota final).
+Un ejemplo. Que arranca con unos datos autoexplicativos:</description>
+    </item>
+    
+    <item>
+      <title>¿Se puede explicar la predicción de un modelo de caja negra?</title>
+      <link>/2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/</link>
+      <pubDate>Tue, 15 Mar 2016 09:13:51 +0000</pubDate>
+      
+      <guid>/2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/</guid>
+      <description>Imaginemos un banco que construye modelos para determinar si se concede o no un crédito. Este banco tiene varias opciones para crear el modelo. Sin embargo, en algunos países el regulador exige que el banco pueda explicar el motivo de la denegación de un crédito cuando un cliente lo solicite.
+Esa restricción impediría potencialmente usar modelos de caja negra como el que construyo a continuación:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/randomForest&amp;quot;&amp;gt;randomForest) raw &amp;lt;- read.table(&amp;quot;http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data&amp;quot;, sep = &amp;quot;,&amp;quot;, na.</description>
+    </item>
+    
+    <item>
+      <title>Comparaciones de tres grupos: pruebas vs modelos</title>
+      <link>/2016/01/25/comparaciones-de-tres-grupos-pruebas-vs-modelos/</link>
+      <pubDate>Mon, 25 Jan 2016 09:13:59 +0000</pubDate>
+      
+      <guid>/2016/01/25/comparaciones-de-tres-grupos-pruebas-vs-modelos/</guid>
+      <description>Una pregunta reciente en r-help-es se refería a la comparación en R de las proporciones en tres grupos. Obviando algunas pequeñas complicaciones en el problema, la respuesta canónica podría ser esta:
+total &amp;lt;- c(56, 49,51) positivos &amp;lt;- c(14, 10, 17) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/prop.test&amp;quot;&amp;gt;prop.test(tmp$positivos, tmp$positivos + tmp$negativos) # 3-sample test for equality of proportions without continuity correction # # data: tmp$positivos out of tmp$positivos + tmp$negativos # X-squared = 2.2289, df = 2, p-value = 0.</description>
+    </item>
+    
+    <item>
+      <title>Modelos, mascotas y rebaños en el DataBeers de Madrid</title>
+      <link>/2014/09/10/modelos-mascotas-y-rebanos-en-el-databeers-de-madrid/</link>
+      <pubDate>Wed, 10 Sep 2014 07:13:20 +0000</pubDate>
+      
+      <guid>/2014/09/10/modelos-mascotas-y-rebanos-en-el-databeers-de-madrid/</guid>
+      <description>El próximo día 18 de septiembre hablaré de modelos, mascotas y rebaños en el DataBeers de Madrid.
+Los detalles (incluido el enlace para registrarse) están disponibles aquí.
+Haréis mal en faltar porque, con la excepción de un servidor, el resto del cartel es de primera:
+ * [Pedro Concejero](https://twitter.com/ConcejeroPedro): _Decide_ * [Fran Castillo](http://francastillo.net/): _Big data needs artist explorers_ * [Carlos Herrera](http://humnetlab.mit.edu/findingbacon/): _La Geografía de las Redes Sociales Urbanas_  </description>
+    </item>
+    
+    <item>
+      <title>El porqué de los mínimos cuadrados con restricciones</title>
+      <link>/2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/</link>
+      <pubDate>Mon, 09 Jun 2014 07:15:06 +0000</pubDate>
+      
+      <guid>/2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/</guid>
+      <description>Avisé en mi entrada del otro día: no me preguntéis por qué (imponer restricciones en un problema de mínimos cuadrados).
+Pero cuanto más pienso sobre ello, menos claro lo tengo. ¿Por qué restricciones?
+Primero, el contexto. O el casi contexto. Porque no es exactamente así. Pero sí parecido. Supongamos que queremos predecir algo y construimos, p.e., 4 modelos. Se nos ocurre (y hay buenas razones para ello) combinar los predictores.</description>
+    </item>
+    
+    <item>
+      <title>Y yo que pensaba que lo de Will Smith y SAS era una leyenda urbana...</title>
+      <link>/2010/04/25/y-yo-que-pensaba-que-lo-de-will-smith-y-sas-era-una-leyenda-urbana/</link>
+      <pubDate>Sun, 25 Apr 2010 18:57:17 +0000</pubDate>
+      
+      <guid>/2010/04/25/y-yo-que-pensaba-que-lo-de-will-smith-y-sas-era-una-leyenda-urbana/</guid>
+      <description>Durante un tiempo, pensé que esa historia que circulaba por ahí sobre Will Smith y SAS era un bulo. Contaban (y nunca me creí del todo) que al principio de la carrera cinematográfica del actor, éste había encargado un estudio para determinar qué tipo de guiones debía aceptar para hacer la mayor cantidad de dinero posible. Que se habían tomado unas cuantas películas muy exitosas, se habían metido en la batidora de SAS y que éste le había proporcionado las pistas para hacer de un rapero de poca monta una estrella de Hollywood.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>facetas on datanalytics</title>
+    <link>/tags/facetas/</link>
+    <description>Recent content in facetas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 17 Jul 2014 07:13:54 +0000</lastBuildDate><atom:link href="/tags/facetas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facetas para entender, tal vez, la evolución del paro</title>
+      <link>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</link>
+      <pubDate>Thu, 17 Jul 2014 07:13:54 +0000</pubDate>
+      
+      <guid>/2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/</guid>
+      <description>La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas URLs que tienen pinta de cambiar con cualquier soplo (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los datos a día de hoy.
+También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena y o mala.</description>
+    </item>
+    
+  </channel>
+</rss>

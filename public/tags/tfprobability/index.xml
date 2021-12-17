@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tfprobability on datanalytics</title>
+    <link>/tags/tfprobability/</link>
+    <description>Recent content in tfprobability on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 Nov 2019 09:13:04 +0000</lastBuildDate><atom:link href="/tags/tfprobability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tfprobability debería llamarse tfeoprobability</title>
+      <link>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</link>
+      <pubDate>Tue, 12 Nov 2019 09:13:04 +0000</pubDate>
+      
+      <guid>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</guid>
+      <description>Porque, aunque la intención sea buena, el DSL (que ni siquiera llega a serlo) es muy, muy feo. Que en este contexto, además, quiere decir antinatural.
+La demostración, aquí, aquí o aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

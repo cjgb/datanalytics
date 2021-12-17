@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>causalidad on datanalytics</title>
+    <link>/categories/causalidad/</link>
+    <description>Recent content in causalidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 11 Nov 2021 09:13:00 +0000</lastBuildDate><atom:link href="/categories/causalidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La miseria de la inferencia causal vivida</title>
+      <link>/2021/11/11/la-miseria-de-la-inferencia-causal-vivida/</link>
+      <pubDate>Thu, 11 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/11/11/la-miseria-de-la-inferencia-causal-vivida/</guid>
+      <description>X escribe en 2020:
+ In particular, panel A presents the results when the municipalities are divided according to the real average Internet speed (Mbps). As is evident, the effect of extreme-right mayors on hate crimes is concentrated in municipalities where Internet speed is high, especially when the intensive margin is considered [&amp;hellip;]
+ Y escribe también en 2020:
+ Results show that Internet availability between 2008 and 2012 is associated with a better knowledge of (national) immigration dynamics and that it leads to an overall improvement in attitudes towards immigrants.</description>
+    </item>
+    
+    <item>
+      <title>model4you</title>
+      <link>/2020/02/06/model4you/</link>
+      <pubDate>Thu, 06 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/06/model4you/</guid>
+      <description>Un grupo de estudiantes se examina en horas distintas con exámenes parecidos pero no iguales. Se pretende estudiar si el examen tiene algún efecto sobre la nota final y para eso se hace algo así como
+bmod_math &amp;lt;- lm(pcorrect ~ group, data = MathExam)  para obtener una distribución de la nota media por grupo descrita bien
+cbind(estimate = coef(bmod_math), confint(bmod_math)) ## estimate 2.5% 97.5% ## (Intercept) 57.600184 55.122708 60.07766 ## group2 -2.</description>
+    </item>
+    
+    <item>
+      <title>Causalidad o asociación: indicios de la primera</title>
+      <link>/2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/</link>
+      <pubDate>Wed, 20 Apr 2011 07:44:02 +0000</pubDate>
+      
+      <guid>/2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/</guid>
+      <description>Distinguir adecuadamente causalidad de asociación es un tema sobre el que se han vertido ríos de tinta. Parte de la formación de un estadístico consiste en reconfigurar su arquitectura neuronal de manera que sienta infinito recelo ante proclamas de causalidad de una manera tan instintiva como la del perro de Paulov.
+Esta cautela es sin duda necesaria y ha liberado al mundo de infinidad de resultados espúreos. Sin embargo, ha incrementado notablemente los que podríamos llamar errores de tipo II.</description>
+    </item>
+    
+  </channel>
+</rss>

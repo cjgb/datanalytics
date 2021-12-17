@@ -1,0 +1,31 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2011-02-10 09:56:44+00:00
+draft: false
+title: ggplot2 en su contexto
+
+url: /2011/02/10/ggplot2-en-su-contexto/
+categories:
+- r
+- gráficos
+tags:
+- gráficos
+- r
+- sas
+- ggplot2
+---
+
+gplot2 es, sin duda, el paquete gráfico de moda en R. Hay quien lo ama, hay quien lo odia, pero cada vez son menos los que lo ignoran. Lo que igual no es tan sabido por los usuarios de R es el contexto en el que nació ggplot2, su relación con el motor gráfico de R y su relación con otros mecanismos de representación gráfica existentes en otros paquetes estadísticos.
+
+Existen en R (cuando menos) dos _motores gráficos_ distintos. Por un lado existe el original. Cuando se utilizan las funciones gráficas tradicionales de alto nivel, tales como como plot, lines, hist, etc.se está interactuando con él. El libro [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) de Juan Carlos Correa y Nelfi González es una referencia (aunque ha envejecido algo desde su publicación; ¡a ver si Juan Carlos nos regala una nueva edición!).
+
+Pero Paul Murrel desarrolló [grid](http://www.stat.auckland.ac.nz/~paul/grid/grid.html), un motor gráfico alternativo y mucho más flexible que ya está integrado en el sistema base de R. El interesado puede encontrar información adicional sobre grid en la página y el libro de Murrel [R Graphics](http://www.stat.auckland.ac.nz/~paul/RGraphics/rgraphics.html). El usuario habitual de R no lo utiliza directamente (¿le suenan a alguien las funciones wiewport o grid.rect?); es principalmente utilizado por otros paquetes que proporcionan funciones gráficas de alto nivel, tales como lattice, [grImport](http://cran.r-project.org/web/packages/grImport/index.html) ([véase este ejemplo](http://www.datanalytics.com/blog/2010/06/18/graficos-en-r-con-simbolos-arbitrarios/)) y finalmente, ggplot2.
+
+Prácticamente todo lo que hay que saber sobre ggplot2 puede encontrarse en la [página de Hadley Wickham](http://had.co.nz/ggplot2/), incluido [su libro](http://www.amazon.com/gp/product/0387981403?ie=UTF8&tag=hadlwick-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0387981403) (nota: hay gente muy mala que lo ha distribuido como pdf _pirata_). Pero me gustaría hacer hincapié en ciertos aspectos que parecen injustamente olvidados de muchos.
+
+En primer lugar, que ggplot2 es una implementación en R de ideas desarrolladas por Leland Wilkinson en una serie de artículos (como [éste](http://www.cs.uic.edu/~wilkinson/Publications/gpl.pdf)) y en su [libro](http://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/ref=sr_1_1?ie=UTF8&s=books&qid=1295007207&sr=8-1) que hace una distinción entre los aspectos sintácticos (la forma en que se especifican) y semánticos (los mismos datos que se representan) de los gráficos. De acuerdo con [este documento](http://allman.rhon.itam.mx/~ebarrios/Foro_XXV/3-ggplot2.pdf), Leland Wilkinson trabajó para [Systat](http://www.systat.com/About.aspx) en los años ochenta. En los años noventa trabajó en técnicas orientada a objetos para gráficos, organizando éstos como árboles. El resultado fue, a finales de los años noventa, [Graphics Production Library, GPL](http://www.cs.uic.edu/~wilkinson/nViZn/nvizn.html) una biblioteca de funciones gráficas de Java que desarrolló junto a Dan Rope y Dan Carr. Alrededor de 2005 se unió a SPSS, pero regresó recientemente a Systat. Las ideas contenidas en su libro han dado lugar a implementaciones en diversos entornos.
+
+[![](/wp-uploads/2011/02/dataflow.jpg)
+](/wp-uploads/2011/02/dataflow.jpg)
+
+Aparte de la implementación (más o menos libre) que de las ideas de Wilkinson hizo Wickman para R en ggplot2, existen otras. No conozco Systat, aunque imagino que no las habrá desaprovechado. Pero una [pregunta que realicé en StackOverflow](http://stackoverflow.com/questions/4892368/implementations-of-the-grammar-of-graphics-in-statistical-packages) me permitió averiguar que existen implementaciones de algo parecido en SAS (véase [esto](http://support.sas.com/rnd/base/topics/statgraph/sugi204-29Rev.pdf) y [esto](http://www2.sas.com/proceedings/sugi31/262-31.pdf)) y en SPSS ([ChartBuilder](http://www.spss.com/training/trainertip/mayjune2009.htm)).

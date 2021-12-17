@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electricidad on datanalytics</title>
+    <link>/tags/electricidad/</link>
+    <description>Recent content in electricidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Nov 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/electricidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre el almacenamiento &#34;industrial&#34; de la energía eléctrica</title>
+      <link>/2021/11/18/sobre-el-almacenamiento-industrial-de-la-energia-electrica/</link>
+      <pubDate>Thu, 18 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/11/18/sobre-el-almacenamiento-industrial-de-la-energia-electrica/</guid>
+      <description>Este es un tema sobre el que sé tan poco que hoy mismo (que no es el día en el que se publica esto) he metido la pata dos veces en Twitter por citar datos que no eran.
+Por enmendarme públicamente y dada la relevancia del asunto, voy a sacar unos números. La fuente es la página del Balance Eléctrico de REE, que hoy luce
+y que nos proporciona datos sobre el bombeo, i.</description>
+    </item>
+    
+    <item>
+      <title>Electricidad, clima, incentivos y... ¿fetichismo de la ciencia de datos?</title>
+      <link>/2019/12/10/electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos/</link>
+      <pubDate>Tue, 10 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/10/electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos/</guid>
+      <description>En una época hube de aprender los entresijos del mercado eléctrico español. Tan lejana que el garbage collector ha hecho almoneda de todos los conocimientos monetizables que pude haber adquirido. Solo he sabido conservar cierta curiosidad por esa API que el sistema tiene para conmigo que son las tarifas y las facturas.
+Por eso no mandé directamente a la papelera ese correo de Endesa en el que me informaba de la conveniencia —¿para quién?</description>
+    </item>
+    
+    <item>
+      <title>Se non è vero, non è vero (¡qué se le va a hacer!)</title>
+      <link>/2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/</link>
+      <pubDate>Mon, 21 Oct 2019 09:13:18 +0000</pubDate>
+      
+      <guid>/2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/</guid>
+      <description>Me llegó por fuentes habitualmente fiables el vídeo
+https://www.youtube.com/watch?v=2Fh_XmK3yis
+que se resume en que el apagón del día 29 de septiembre en Tenerife, es decir, esta cosa tan horrorosa
+fue producto de la variabilidad de la producción de la energía eólica. En particular, de una bajada drástica de la aportación de la eólica al mix consecuencia de un descenso en la intensidad del viento. Lo cual, de ser cierto, debería convertirse en referencia básica para ilustrar los perniciosos efectos de la variabilidad, etc.</description>
+    </item>
+    
+    <item>
+      <title>Consumismo de fricadas: OpenZmeter</title>
+      <link>/2019/10/15/consumismo-de-fricadas-openzmeter/</link>
+      <pubDate>Tue, 15 Oct 2019 09:13:06 +0000</pubDate>
+      
+      <guid>/2019/10/15/consumismo-de-fricadas-openzmeter/</guid>
+      <description>No satisfecho con esto por culpa de un lector que me/nos indicó cómo incrementar nuestra resolución temporal, es muy probable que incurra en el gasto que conlleva adquirir un OpenZmeter y poder construir gráficas como
+(o, espero, con un nivel de desagregación temporal aún más fino).</description>
+    </item>
+    
+    <item>
+      <title>Mi consumo de electricidad, hora a hora</title>
+      <link>/2019/09/18/mi-consumo-de-electricidad-hora-a-hora/</link>
+      <pubDate>Wed, 18 Sep 2019 09:13:54 +0000</pubDate>
+      
+      <guid>/2019/09/18/mi-consumo-de-electricidad-hora-a-hora/</guid>
+      <description>Por primera vez, mi compañía de electricidad ha sabido asignar a cada hora mi consumo (¿se acabarán de una vez las benditas facturas con consumo estimado?). Lo que me ha permitido construir esta gráfica horaria:
+No publico el código por que dependería del proveedor. No hago comentarios porque solo a mí me competen. Pero invito a otros a echar un vistazo a su consumo, etc.</description>
+    </item>
+    
+    <item>
+      <title>Una anécdota sobre el mercado eléctrico y sus mermas</title>
+      <link>/2018/09/21/una-anecdota-sobre-el-mercado-electrico-y-sus-mermas/</link>
+      <pubDate>Fri, 21 Sep 2018 08:13:27 +0000</pubDate>
+      
+      <guid>/2018/09/21/una-anecdota-sobre-el-mercado-electrico-y-sus-mermas/</guid>
+      <description>Hace años, algunos ya, di un curso de R en una empresa de consultoría bastante grande. La impartí dentro de un grupo que desarrollaba soluciones para el mercado eléctrico. Hablando con ellos, a la hora del café, me contaron uno de los proyectos en los que trabajaban: un sistema de optimización de la distribución eléctrica que podía ahorrar millones (no recuerdo bien la cifra, pero era impresionante) a las compañías eléctricas en concepto de energía que se disipaba y perdía sin beneficiar a nadie.</description>
+    </item>
+    
+    <item>
+      <title>Datos abiertos y farolas solares: más motivos para el escepticismo</title>
+      <link>/2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/</link>
+      <pubDate>Mon, 27 Mar 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/</guid>
+      <description>La semana pasada hice constar mi escepticismo acerca del poder transformativo de los datos abiertos. Mencionaba dos ámbitos en los que existen datos no solo abiertos, sino abundantes y en tiempo real: el de los deportes y el de las finanzas. Y cómo, a pesar de ello, seguimos siendo, como sociedad, mendrugos tanto en lo deportivo como en lo financiero.
+Valga un tercer caso que dispongo a exponer.
+Tenemos igualmente datos abiertos, abundantes y en tiempo real de producción y consumo eléctrico y de su mix, i.</description>
+    </item>
+    
+    <item>
+      <title>Energía solar: instalaciones industriales vs paneles en tejados</title>
+      <link>/2016/02/15/energia-solar-instalaciones-industriales-vs-paneles-en-tejados/</link>
+      <pubDate>Mon, 15 Feb 2016 09:13:56 +0000</pubDate>
+      
+      <guid>/2016/02/15/energia-solar-instalaciones-industriales-vs-paneles-en-tejados/</guid>
+      <description>Llegó a mis manos un documento sobre los costes relativos de las distintas tecnologías e implementaciones para generar energía eléctrica del que rescato este subgráfico:
+Muestra el precio del MWh en dólares y sirve para comparar, por ejemplo, el coste de los paneles que la gente instala en sus tejados (184-300) con el de instalaciones industriales (50-70).
+Las conclusiones, de nuevo, de cada cual.</description>
+    </item>
+    
+    <item>
+      <title>Menos econometría y más precioestatos</title>
+      <link>/2014/04/16/menos-econometria-y-mas-precioestatos/</link>
+      <pubDate>Wed, 16 Apr 2014 07:39:14 +0000</pubDate>
+      
+      <guid>/2014/04/16/menos-econometria-y-mas-precioestatos/</guid>
+      <description>¿Será necesario un doctorado en econometría para poner una lavadora? Con eso ironiza el autor de El nuevo sistema de precios para la electricidad (I): Entre la tarifa gusiluz y la tarifa batamanta.
+Os cuento el contexto.
+Al parecer, a partir de cierta fecha no muy remota, el precio de la electricidad en España variará de acuerdo con el precio en el mercado de generación y, por lo tanto, según la hora.</description>
+    </item>
+    
+    <item>
+      <title>Graficaca en Gas Natural Fenosa</title>
+      <link>/2014/03/31/graficaca-en-gas-natural-fenosa/</link>
+      <pubDate>Mon, 31 Mar 2014 07:20:15 +0000</pubDate>
+      
+      <guid>/2014/03/31/graficaca-en-gas-natural-fenosa/</guid>
+      <description>Hoy he querido entrar a la página de Gas Natural Fenosa para echarles un vistazo a mis facturas y he encontrado el siguiente y magnífico ejemplar de graficaca:
+
+Es un compendio de todas las cosas que no hay que hacer para representar datos gráficamente. Lo más grave que tiene es que las barras no corresponden a meses sino a periodos de duración desigual e indefinida. No hay forma de ver una evolución ni de realizar una comparación.</description>
+    </item>
+    
+    <item>
+      <title>Ofertón: tarifa plana de GasNaturalFenosa</title>
+      <link>/2014/02/19/oferton-tarifa-plana-de-gasnaturalfenosa/</link>
+      <pubDate>Wed, 19 Feb 2014 08:34:17 +0000</pubDate>
+      
+      <guid>/2014/02/19/oferton-tarifa-plana-de-gasnaturalfenosa/</guid>
+      <description>En medio del fragor mediático sobre el precio de la electricidad, me ha llegado un ofertón de GasNaturalFenosa: la posibilidad de contratar una tarifa plana para la electricidad.
+La entrada de hoy es el debido ejercicio acerca de si me conviene o no contratarla. En R, por supuesto.
+Primero, el código:
+library(ggplot2) # tramos tarifas planas tarifas &amp;lt;- c(&amp;quot;micro&amp;quot;, &amp;quot;mini&amp;quot;, &amp;quot;media&amp;quot;, &amp;quot;maxi&amp;quot;, &amp;quot;extra&amp;quot;) dat &amp;lt;- data.frame( tarifas = factor(tarifas, levels = tarifas), hasta = c(1500, 2500, 4000, 5500, 7000), tarifa.</description>
+    </item>
+    
+    <item>
+      <title>Catorce mitos sobre el mercado eléctrico</title>
+      <link>/2014/01/22/catorce-mitos-sobre-el-mercado-electrico/</link>
+      <pubDate>Wed, 22 Jan 2014 08:35:46 +0000</pubDate>
+      
+      <guid>/2014/01/22/catorce-mitos-sobre-el-mercado-electrico/</guid>
+      <description>Estos catorce mitos son, en realidad, siete y siete. Los primeros, de FEDEA:
+ 1. El déficit de tarifa es consecuencia de una sobre retribución de la generación o del exceso de renovables del sistema y su generosa retribución o de las subvenciones soportadas 2. El impacto en los hogares (o en las empresas) de eliminar el déficit de tarifa incrementando los precios es inasumible 3. La retribución de todos los “fabricantes” de energía al precio que marca el fabricante más caro es una característica ESPECÍFICA de la generación eléctrica y enriquece a los productores 4.</description>
+    </item>
+    
+    <item>
+      <title>Palabras y pelas: un ejercicio apenas incoado</title>
+      <link>/2013/12/31/palabras-y-pelas-un-ejercicio-apenas-incoado/</link>
+      <pubDate>Tue, 31 Dec 2013 07:42:46 +0000</pubDate>
+      
+      <guid>/2013/12/31/palabras-y-pelas-un-ejercicio-apenas-incoado/</guid>
+      <description>Nos encantan las palabras (¡y los mapas, pero esa es otra historia!). En estos días de tanto discurso hay mucho interés por examinar con lupa qué palabras dijo quién y cuándo en una exégesis cuantitativa y (¿tal vez por eso?) falta de calado.
+Porque lo que dijo este o aquel, al fin y al cabo, no deja de ser predecible y poco interesante. Rara vez se dice nada que lo sea en horario de máxima audiencia y en fechas tan señaladas.</description>
+    </item>
+    
+    <item>
+      <title>La monitorización del consumo eléctrico de los hogares</title>
+      <link>/2013/11/20/la-monitorizacion-del-consumo-electrico-de-los-hogares/</link>
+      <pubDate>Wed, 20 Nov 2013 07:15:46 +0000</pubDate>
+      
+      <guid>/2013/11/20/la-monitorizacion-del-consumo-electrico-de-los-hogares/</guid>
+      <description>Una de mis manías más imprácticas es la de consultar el consumo de electricidad en tiempo real de Red Eléctrica Española antes de poner una lavadora. Me gusta hacerlo en los valles de consumo; o cuando para hacer circular electrones por cables de cobre contribuye menos a calentar el planeta. Aunque eso resulte en ruidos a deshora.
+Una de las manías más imprácticas de las compañías eléctricas, estimo, es la de monitorizar el consumo de los hogares en tiempo real.</description>
+    </item>
+    
+    <item>
+      <title>Cómo poner una lavadora</title>
+      <link>/2012/03/01/como-poner-una-lavadora/</link>
+      <pubDate>Thu, 01 Mar 2012 08:13:55 +0000</pubDate>
+      
+      <guid>/2012/03/01/como-poner-una-lavadora/</guid>
+      <description>Hacer una colada no es sencillo. Al menos si se tienen en cuenta todas las variables relevantes. En realidad, yo echo la ropa a la lavadora al tuntún y no sé de separar por colores ni por tipo de tela. Va todo junto. Y siempre uso el mismo programa, cantidad de detergente y del otro líquido azul que no sé para qué sirve.
+Lo que me preocupa, la variable que con más atención considero, es el impacto ambiental, el consumo de energía.</description>
+    </item>
+    
+  </channel>
+</rss>

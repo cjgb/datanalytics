@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trucos on datanalytics</title>
+    <link>/tags/trucos/</link>
+    <description>Recent content in trucos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 11 Nov 2010 09:55:58 +0000</lastBuildDate><atom:link href="/tags/trucos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La función monotonic de PROC SQL de SAS</title>
+      <link>/2010/11/11/la-funcion-monotonic-de-proc-sql-de-sas/</link>
+      <pubDate>Thu, 11 Nov 2010 09:55:58 +0000</pubDate>
+      
+      <guid>/2010/11/11/la-funcion-monotonic-de-proc-sql-de-sas/</guid>
+      <description>Previamente he hablado en este blog de las ventajas que ofrece PROC SQL en SAS sobre otros métodos más propiamente SAS de realizar ciertas manipulaciones de datos. Existen no obstante cierto tipo de manipulaciones que exigen pasos data: gran parte de las que hacen uso de la variable automática n.
+No obstante, existe una función no documentada de SAS que permite implementar con SQL muchas operaciones de este tipo: monotonic.</description>
+    </item>
+    
+  </channel>
+</rss>

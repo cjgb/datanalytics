@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Regresión por cuantiles en R y SAS - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Regresión por cuantiles en R y SAS" />
+<meta property="og:description" content="Hace un tiempo, con la aburridora perspectiva de un largo viaje en metro hasta mi casa ensombreciendo mi futuro más inminente, decidí regalarme algún tipo de amena lectura. A tal fin, imprimí un articulillo que, bajo la perspectiva de SAS, me introducía a una técnica que se vino a mí como por azar. O, bajo otro punto de vista, una técnica que, también por azar, había esquivado hasta tal fecha un encontronazo con mi husmeadora curiosidad." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2010/05/18/regresion-por-cuantiles-en-r-y-sas/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2010-05-18T20:52:08&#43;00:00" />
+<meta property="article:modified_time" content="2010-05-18T20:52:08&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Regresión por cuantiles en R y SAS</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2010-05-18T20:52:08Z">2010-5-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Hace un tiempo, con la aburridora perspectiva de un largo viaje en metro hasta mi casa ensombreciendo mi futuro más inminente, decidí regalarme algún tipo de amena lectura. A tal fin, imprimí un <a href="http://www2.sas.com/proceedings/sugi30/213-30.pdf">articulillo</a> que, bajo la perspectiva de SAS, me introducía a una técnica que se vino a mí como por azar. O, bajo otro punto de vista, una técnica que, también por azar, había esquivado hasta tal fecha un encontronazo con mi husmeadora curiosidad.</p>
+<p>Y tengo que advertir a mis lectores que el tema no lo traigo acá sino porque me he topado con una aplicación (sobre la que no puedo comentar nada por estar bajo algo así como secreto de sumario) muy promisoria del mismo.</p>
+<p>Se trata de la regresión por cuantiles.</p>
+<p>Gran parte de lo que hay que saber sobre la cosa es:</p>
+<ol>
+<li>Que la regresión &ldquo;de toda la vida&rdquo;, para cada <em>x</em> calcula el valor <em>f(x)</em> que viene a pasar por la media de la <em>nube de puntos</em>.</li>
+<li>Que la vida no se agota en la media y que existen también otros estadísticos interesantes: la mediana, determinados cuantiles, etc.</li>
+<li>Que dado un <em>x</em> sería práctico disponer de un método que nos proporcionase, por ejemplo, el primer cuartil de la distribución de los posibles valores de <em>f(x)</em>.</li>
+</ol>
+<p>Imaginemos una situación en que se manifiesta esta necesidad: una población de individuos con su edad y su renta. Uno puede estar interesado en calcular la renta media por edad&hellip; pero tal vez puede interesar a un estudio de, para cada edad, qué porcentaje de la población cae por debajo del umbral de la miseria (que se suele definir como un porcentaje de la mediana del ingreso).</p>
+<p>Una opción es crear histogramas por rango de edades. Otra, utilizar regresión por cuantiles.</p>
+<p>Veamos cómo se haría en R. Cargamos primero los paquetes necesarios para el ejemplo:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">library</span>(quantreg)
+<span style="color:#a6e22e">library</span>(splines)</code></pre></td></tr></table>
+</div>
+</div>
+<p>Cargamos el <a href="http://www2.bc.edu/~lewbel/palengel.pdf">famoso conjunto de datos de Engel</a> (no el Engel de siempre; otro), que relaciona el ingreso con el gasto en alimentación de decimonónicos obreros belgas:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">9
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">data</span>( engel )
+<span style="color:#a6e22e">head</span>( engel )
+income foodexp
+<span style="color:#ae81ff">1</span> <span style="color:#ae81ff">420.16</span>  <span style="color:#ae81ff">255.84</span>
+<span style="color:#ae81ff">2</span> <span style="color:#ae81ff">541.41</span>  <span style="color:#ae81ff">310.96</span>
+<span style="color:#ae81ff">3</span> <span style="color:#ae81ff">901.16</span>  <span style="color:#ae81ff">485.68</span>
+<span style="color:#ae81ff">4</span> <span style="color:#ae81ff">639.08</span>  <span style="color:#ae81ff">403.00</span>
+<span style="color:#ae81ff">5</span> <span style="color:#ae81ff">750.88</span>  <span style="color:#ae81ff">495.56</span>
+<span style="color:#ae81ff">6</span> <span style="color:#ae81ff">945.80</span>  <span style="color:#ae81ff">633.80</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>Representamos los datos:</p>
+<p><div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">with</span>( engel, <span style="color:#a6e22e">plot</span>( <span style="color:#a6e22e">log</span>( income ), <span style="color:#a6e22e">log</span>( foodexp ),
+        xlab <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Log - Income&#34;</span>,
+        ylab <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Log - Food Expense&#34;</span>,
+        main <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Engel&#39;s Food Expense Data&#34;</span> ) )</code></pre></td></tr></table>
+</div>
+</div>
+ 
+<img src="http://www.datanalytics.com/wp-uploads/2010/05/engel_dat1.png" alt=""></p>
+<p>Y creamos una función auxiliar:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">foo <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( x, y, tau ){
+    fit <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">rq</span>( y <span style="color:#f92672">~</span> <span style="color:#a6e22e">bs</span>( x, df<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span> ), tau <span style="color:#f92672">=</span> tau )
+    xx <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">sort </span>( <span style="color:#a6e22e">unique</span>( x ) )
+    <span style="color:#a6e22e">data.frame</span>( xx, <span style="color:#a6e22e">predict</span>( fit, newdata <span style="color:#f92672">=</span> <span style="color:#a6e22e">data.frame</span>( x <span style="color:#f92672">=</span> xx ) ) )
+}</code></pre></td></tr></table>
+</div>
+</div>
+<p>Nótese cómo en ella ajustamos un modelo de regresión por cuantiles, <em>fit</em>, usando la función <em>rq</em> del paquete quantreg y cómo también elegimos un regresor basado en <em>splines</em>, la función <em>bs</em> del paquete_ splines_. Sin incurrir en tanta pedantería, podíamos también haber especificado el modelo de la forma</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">    fit <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">rq</span>( y <span style="color:#f92672">~</span> x, tau <span style="color:#f92672">=</span> tau ),</code></pre></td></tr></table>
+</div>
+</div>
+<p>dejándose el estudio del resultado de esta alternativa como ejercicio al lector más diligente.</p>
+<p>El parámetro tau indica el cuantil que se desea estimar, que ha de ser, por lo tanto, un valor entre 0 y 1. Ahora podemos añadir a nuestro gráfico anterior las curvas estimación de los cuantiles 0,2; 0,5 y 0,8 de la distribución de la siguiente manera:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">    <span style="color:#a6e22e">with</span>( engel, <span style="color:#a6e22e">lines</span>( <span style="color:#a6e22e">foo</span>( <span style="color:#a6e22e">log</span>( income ), <span style="color:#a6e22e">log</span>( foodexp) , <span style="color:#ae81ff">0.2</span> ),
+       col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;gray&#34;</span>) )
+    <span style="color:#a6e22e">with</span>( engel, <span style="color:#a6e22e">lines</span>( <span style="color:#a6e22e">foo</span>( <span style="color:#a6e22e">log</span>( income ), <span style="color:#a6e22e">log</span>( foodexp) , <span style="color:#ae81ff">0.8</span> ),
+       col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;gray&#34;</span>) )
+    <span style="color:#a6e22e">with</span>( engel, <span style="color:#a6e22e">lines</span>( <span style="color:#a6e22e">foo</span>( <span style="color:#a6e22e">log</span>( income ), <span style="color:#a6e22e">log</span>( foodexp) , <span style="color:#ae81ff">0.5</span> ),
+       col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;red&#34;</span> ) )</code></pre></td></tr></table>
+</div>
+</div>
+<p><a href="http://www.datanalytics.com/wp-uploads/2010/05/engel_dat_quant1.png"><img src="http://www.datanalytics.com/wp-uploads/2010/05/engel_dat_quant1.png?w=300" alt="">
+</a></p>
+<p>El lector interesado encontrará en internet <a href="http://cablemodem.fibertel.com.ar/wsosa/topicosunlp/QuantileClaseBeamer1.pdf">dónde seguir instruyéndose</a> y, además, ejemplos de <a href="http://addictedtor.free.fr/graphiques/RGraphGallery.php?graph=109">gráficos espectaculares </a>que pueden realizarse con quantreg, tiempo y buen gusto.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/sas/" rel="tag">sas</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/cuantiles/" rel="tag">cuantiles</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/regresi%C3%B3n/" rel="tag">regresión</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/regresi%C3%B3n-por-cuantiles/" rel="tag">regresión por cuantiles</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2010/05/17/que-hago-estos-dias/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Qué hago estos días</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">¿En qué se parecen Oracle y Teradata a Excel y Word?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

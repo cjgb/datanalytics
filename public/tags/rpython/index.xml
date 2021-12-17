@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpython on datanalytics</title>
+    <link>/tags/rpython/</link>
+    <description>Recent content in rpython on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 06 Apr 2016 09:13:28 +0000</lastBuildDate><atom:link href="/tags/rpython/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rPython &#43; feather</title>
+      <link>/2016/04/06/rpython-feather/</link>
+      <pubDate>Wed, 06 Apr 2016 09:13:28 +0000</pubDate>
+      
+      <guid>/2016/04/06/rpython-feather/</guid>
+      <description>Supongo que a estas alturas todos conoceréis feather y rPython. Hoy los vais a ver trabajar juntos.
+Primero solo en R:
+library(feather) path &amp;lt;- &amp;quot;/tmp/my_data.feather&amp;quot; write_feather(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/datasets/cars&amp;quot;&amp;gt;cars, path) my_cars &amp;lt;- read_feather(path)  Ahora, para pasarle datos a Python:
+library(rPython) python.exec(&amp;quot;import feather&amp;quot;) python.exec(&amp;quot;a = feather.read_dataframe(&#39;/tmp/my_data.feather&#39;)&amp;quot;) python.exec(&amp;quot;print a&amp;quot;)  Y, finalmente, para crear datos grandes en Python y devolvéselos a R:
+python.exec(&amp;quot;import numpy as np&amp;quot;) python.exec(&amp;quot;import pandas as pd&amp;quot;) python.exec(&amp;quot;arr = np.random.randn(10000000)&amp;quot;) python.</description>
+    </item>
+    
+    <item>
+      <title>PyData Madrid 2016, en abril de este año</title>
+      <link>/2016/01/28/pydata-madrid-2016-en-abril-de-este-ano/</link>
+      <pubDate>Thu, 28 Jan 2016 09:13:28 +0000</pubDate>
+      
+      <guid>/2016/01/28/pydata-madrid-2016-en-abril-de-este-ano/</guid>
+      <description>Me llegan noticias de PyData Madrid 2016, que tendrá lugar en abril de este año en Madrid:
+Como son conferencias hechas por desarrolladores y usuarios y para desarrolladores y usuarios el ambiente es muy informal y más enfocado a los científicos que a las empresas y venta de producto. Por eso nos encantan y por eso nos metemos en estos embolados.
+Al final, hemos de ser políglotas y usar todas las fortalezas de nuestros lenguajes preferidos.</description>
+    </item>
+    
+    <item>
+      <title>Pasando data.frames de R como tablas de pandas en Python usando rPython</title>
+      <link>/2015/12/11/pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython/</link>
+      <pubDate>Fri, 11 Dec 2015 08:13:41 +0000</pubDate>
+      
+      <guid>/2015/12/11/pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython/</guid>
+      <description>Un usuario de rPython, David González Knowles, me ha facilitado su código para pasar una tabla, iris en este caso, de R a una tabla de pandas en Python usando mi paquete.
+En R hay tablas de serie. En Python no. La librería pandas de Python implementa algo parecido a los data.frames. Solo que nada garantiza que un usuario de Python la tenga instalada. Por eso no hay un formato de destino claro y universal para las tablas de R a través de rPython.</description>
+    </item>
+    
+    <item>
+      <title>rPython &amp; Anaconda</title>
+      <link>/2015/06/22/rpython-anaconda/</link>
+      <pubDate>Mon, 22 Jun 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/06/22/rpython-anaconda/</guid>
+      <description>Nota: publico hoy en inglés en atención al público potencial de la entrada.
+rPython lets R users call Python code. Anaconda  is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. Not surprisingly, some users want to call Anaconda Python rather than their system&amp;rsquo;s default Python.
+However, Anaconda is a very particular package: unlike most other packages, whose files are scattered in a diversity of locations, it is self contained in a single directory.</description>
+    </item>
+    
+    <item>
+      <title>Todo por no RTFM (o cómo usar matplotlib con R)</title>
+      <link>/2015/04/16/todo-por-no-rtfm-o-como-usar-matplotlib-con-r/</link>
+      <pubDate>Thu, 16 Apr 2015 08:13:26 +0000</pubDate>
+      
+      <guid>/2015/04/16/todo-por-no-rtfm-o-como-usar-matplotlib-con-r/</guid>
+      <description>Quien escribió Call matplotlib from R podía haberse ahorrado bastante trabajo de la peor especie (programación de bajo nivel con C++) leyendo los benditos manuales (de [rPython](http://cran.r-project.org/web/packages/rPython/index.html), en este caso).
+Le bastaba hacer
+library(rPython) x &amp;lt;- seq(0, 2*pi, length = 100) sx &amp;lt;- sin(x) cx &amp;lt;- cos(x) python.assign(&amp;quot;x&amp;quot;, x) python.assign(&amp;quot;sx&amp;quot;, sx) python.assign(&amp;quot;cx&amp;quot;, cx) python.exec(&amp;quot;import matplotlib.pyplot as plt&amp;quot;) python.exec(&amp;quot;plt.rcParams.update({&#39;figure.figsize&#39; : (7,4)})&amp;quot;) python.exec(&amp;quot;plt.plot(x, sx)&amp;quot;) python.exec(&amp;quot;plt.plot(x, cx, &#39;--r&#39;, linewidth=2) &amp;quot;) python.exec(&amp;quot;plt.legend((&#39;sin(x)&#39;, &#39;cos(x)&#39;))&amp;quot;) python.exec(&amp;quot;plt.savefig(&#39;2015-04-02-pyplot.png&#39;)&amp;quot;)  para obtener</description>
+    </item>
+    
+    <item>
+      <title>Publicada una nueva versión de rPython-win</title>
+      <link>/2015/01/02/publicada-una-nueva-version-de-rpython-win/</link>
+      <pubDate>Fri, 02 Jan 2015 07:13:50 +0000</pubDate>
+      
+      <guid>/2015/01/02/publicada-una-nueva-version-de-rpython-win/</guid>
+      <description>Acabo de subir a Github una nueva versión de rPython-win, que soluciona uno de mis bugs históricos: ha pasado tanto tiempo en estado &amp;ldquo;pendiente&amp;rdquo; que casi le cojo cariño. Tiene (o tenía) que ver con particularidades no documentadas de las APIs para C de Python en distintas versiones de Windows y creo que no afecta al paquete en otras plataformas.
+Y aprovechando que el Pisuerga pasa por Valladolid, un enlace: Calling Python from R with rPython.</description>
+    </item>
+    
+    <item>
+      <title>rPython, ya en Windows</title>
+      <link>/2013/11/21/rpython-ya-en-windows/</link>
+      <pubDate>Wed, 20 Nov 2013 22:43:56 +0000</pubDate>
+      
+      <guid>/2013/11/21/rpython-ya-en-windows/</guid>
+      <description>Aprovechando que por un lado las circunstancias han querido que ahora disfrute de más tiempo libre; que, por otro, mi paquete rPython parece ir ganando aceptación y, finalmente, que tengo varios correos pendientes clamando por una versión en Windows, he pasado unos ratos tratando de hacer el proceso de instalación lo menos pesado y manual que me ha sido posible.
+Y el resultado ha sido este.
+Así que si alguien todavía sigue usando Windows y tiene interés en interactuar con Python desde R (aunque solo sea por aburrimiento), que lo pruebe.</description>
+    </item>
+    
+    <item>
+      <title>rPython ya está en CRAN</title>
+      <link>/2013/04/01/rpython-ya-esta-en-cran/</link>
+      <pubDate>Mon, 01 Apr 2013 07:08:19 +0000</pubDate>
+      
+      <guid>/2013/04/01/rpython-ya-esta-en-cran/</guid>
+      <description>Después de bastante trabajo, rPython ya está disponible en CRAN, ya es un paquete oficial de R.
+Se trata de un paquete del que ya nos hemos ocupado antes (véase esto y esto) y que permite llamar a Python desde R.
+Por el momento, está disponible únicamente para plataformas UNIX (Linux, Mac) aunque estoy tratando de crear una versión que funcione en Windows.
+Además, estoy buscando aplicaciones de rPython (al estilo de esta).</description>
+    </item>
+    
+    <item>
+      <title>Datos LIDAR en R</title>
+      <link>/2013/03/06/datos-lidar-en-r/</link>
+      <pubDate>Wed, 06 Mar 2013 07:13:58 +0000</pubDate>
+      
+      <guid>/2013/03/06/datos-lidar-en-r/</guid>
+      <description>En la reunión del grupo de interés local (GIL) de R de Madrid, Francisco Mauro habló de aplicaciones de R a conjuntos de datos LIDAR.
+En efecto, uno quiere estimar la cantidad de madera que hay en un monte. Uno entonces la calcula en unas pequeñas zonas y luego, barriendo el monte con pulsos de láser desde un avión toma medidas (x,y,z) (es decir, longitud, latitud y altura) en una malla fina de puntos.</description>
+    </item>
+    
+    <item>
+      <title>R en el Software Developer&#39;s Journal</title>
+      <link>/2012/08/22/r-en-el-software-developers-journal/</link>
+      <pubDate>Wed, 22 Aug 2012 07:44:56 +0000</pubDate>
+      
+      <guid>/2012/08/22/r-en-el-software-developers-journal/</guid>
+      <description>El Software Developer&amp;rsquo;s Journal ha publicado estos días un número dedicado exclusivamente a R. Dicen que sus 260 páginas hacen de este número el más extenso que ha publicado jamás la revista.
+
+Incluye, además, un artículo mío, Rpython, a package for calling Python from R.
+Creo que es necesario registrarse (y probablemente de forma no gratuita) para hojear el volumen. De todos modos tal vez sería posible que pudiese pasarle el número completo a aquellos que deseen echarle un vistazo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Se buscan &#34;alpha testers&#34; para rPython</title>
+      <link>/2011/05/24/se-buscan-alpha-testers-para-rpython/</link>
+      <pubDate>Tue, 24 May 2011 07:00:49 +0000</pubDate>
+      
+      <guid>/2011/05/24/se-buscan-alpha-testers-para-rpython/</guid>
+      <description>Busco alpha testers para mi paquete rPython. El paquete es la evolución natural de rJython, un paquete de R que permite llamar a Jython, el dialecto de Python que corre sobre la máquina virtual de Java, desde R.
+rPython permite llamar al verdadero Python. Funciona perfectamente en mi máquina, pero necesito ver qué problemas de instalación y uso aparecen en otras plataformas. De momento, sólo funcionaría sobre plataformas UNIX o Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

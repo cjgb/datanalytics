@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inks on datanalytics</title>
+    <link>/tags/inks/</link>
+    <description>Recent content in inks on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Oct 2015 08:13:20 +0000</lastBuildDate><atom:link href="/tags/inks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#INKS2015</title>
+      <link>/2015/10/01/inks2015/</link>
+      <pubDate>Thu, 01 Oct 2015 08:13:20 +0000</pubDate>
+      
+      <guid>/2015/10/01/inks2015/</guid>
+      <description>Ha salido publicada la guía INKS2015. Está dirigida a profesionales digitales y trata temas como el márketing digital, el SEO, las redes sociales o la usabilidad. Temas todos ellos que, aunque interesantes, no suelo tratar aquí.
+Solo que la guía incluye esta vez una sección dedicada al big data y recoge un par de páginas mías (así como de un par de colegas: Ismael Herráiz y Rubén Casado) a las que igual queréis echar un vistazo.</description>
+    </item>
+    
+  </channel>
+</rss>

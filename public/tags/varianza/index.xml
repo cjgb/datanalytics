@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>varianza on datanalytics</title>
+    <link>/tags/varianza/</link>
+    <description>Recent content in varianza on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 May 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/varianza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En defensa de Simón: variaciones diarias de la  mortalidad</title>
+      <link>/2020/05/13/en-defensa-de-simon-variaciones-diarias-de-la-mortalidad/</link>
+      <pubDate>Wed, 13 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/13/en-defensa-de-simon-variaciones-diarias-de-la-mortalidad/</guid>
+      <description>Qué cafres tenéis que ser para que tenga que salir yo —precisamente yo, que tantas cosas no buenas tengo para decir del buen hombre— en defensa de Simón. Tiene delito que de todo lo que se le pueda echar en cara os hayáis fijado en una intervención en la que os trataba de desasnar para que no le anduviéseis buscando tres pies a la varianza.
+Es un tema que vengo tratando de antiguo en estas páginas y de ello dan fe:</description>
+    </item>
+    
+    <item>
+      <title>Pokemoneando ruido</title>
+      <link>/2020/04/02/pokemoneando-ruido/</link>
+      <pubDate>Thu, 02 Apr 2020 16:03:48 +0000</pubDate>
+      
+      <guid>/2020/04/02/pokemoneando-ruido/</guid>
+      <description>Quería escribir una entrada totalmente distinta y me ha bloqueado el no contar con una buena traducción para chase noise.
+¿Cazar ruido? Pero la caza es una actividad casi solipsista: dos perros y un tipo con escopeta caminando al contraviento por el orillo de un monte por si vuela una perdiz. Nada que ver con ese refrescar compulsivo de las páginas que dan cuenta de casos y decesos, tan colectivo e histérico.</description>
+    </item>
+    
+    <item>
+      <title>Siete llaves al sepulcro del método delta</title>
+      <link>/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/</link>
+      <pubDate>Wed, 22 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/</guid>
+      <description>El desafortunado tuit
+https://twitter.com/gilbellosta/status/1219196123094700032
+es de lo más parecido a que me repitan unos chorizos que me ha ocurrido últimamente. Salvo que en lugar de chorizos, lo que se me manifestaban fueron años estudiando matemáticas y, por extensión, las partes más analíticas de la estadística.
+Con inmerecida delicadeza, se me respondió:
+https://twitter.com/joscani/status/1219350615987511297
+Y sí, hay que cerrar con siete llaves el sepulcro del método delta o, en su defecto, activar el pin parental el día que toque.</description>
+    </item>
+    
+    <item>
+      <title>Política y varianza</title>
+      <link>/2019/11/11/politica-y-varianza/</link>
+      <pubDate>Mon, 11 Nov 2019 11:16:18 +0000</pubDate>
+      
+      <guid>/2019/11/11/politica-y-varianza/</guid>
+      <description>Será por deformación profesional, pero en los discursos electorales y particularmente en los recentísimos discursos electorales no dejo de advertir subrepticias referencias a la varianza. Casi siempre, además, presentada negativamente.
+Y no, no me refiero únicamente a lo de Gini y sus secuaces.
+Aún recuerdo cuando la política (o su manifestación más folclórica y electoralista) hacía más hincapié en la media (de diversos indicadores, para incrementarla, supongo).
+Yo, mientras, a contramano: el nombre de mi misma empresa es latín para un concepto muy relacionado con el v-enemigo político.</description>
+    </item>
+    
+    <item>
+      <title>Del &#34;Andalucía &#39;first&#39;&#34; al &#34;La Rioja por doquier&#34;</title>
+      <link>/2019/09/13/del-andalucia-first-al-la-rioja-por-doquier/</link>
+      <pubDate>Fri, 13 Sep 2019 09:13:21 +0000</pubDate>
+      
+      <guid>/2019/09/13/del-andalucia-first-al-la-rioja-por-doquier/</guid>
+      <description>En este blog ya nos hemos graduado del &amp;ldquo;Andalucía first&amp;rdquo; (sí, esa reiterada manía a recordarnos que en Andalucía siempre hay más de todo lo que correlacione más o menos directamente con el número de habitantes).
+Aquí nos llama la atención otro efecto que afecta a los segundos momentos: el &amp;ldquo;La Rioja por doquier&amp;rdquo;. Verbigracia:
+Obvio. De hecho,
+Que es un conocimiento que cabe esperar en un lector atento de Kahneman y cía.</description>
+    </item>
+    
+    <item>
+      <title>Un truco para reducir la varianza de un estimador</title>
+      <link>/2019/07/19/un-truco-para-reducir-la-varianza-de-un-estimador/</link>
+      <pubDate>Fri, 19 Jul 2019 09:13:02 +0000</pubDate>
+      
+      <guid>/2019/07/19/un-truco-para-reducir-la-varianza-de-un-estimador/</guid>
+      <description>Tienes dos variables aleatorias positivamente correlacionadas, $latex X$ y $latex Y$ y una muestra de $latex n$ parejas de ellas $latex (x_i, y_i)$.
+La esperanza de $latex X$, $latex E(X)$, es conocida y la de $latex Y$ no. Obviamente, la puedes estimar haciendo
+$latex E(Y) \sim \frac{1}{n} \sum_i y_i.$
+Sin embargo, la varianza del estimador
+$latex E(Y) \sim E(X) \frac{\sum y_i}{\sum x_i}$
+es menor.
+Tengo una explicación de la intuición de por qué eso es cierto en lugar de no serlo.</description>
+    </item>
+    
+    <item>
+      <title>A falta de escenarios, tenemos instituciones con atribuciones solapadas</title>
+      <link>/2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/</link>
+      <pubDate>Wed, 08 May 2019 09:13:36 +0000</pubDate>
+      
+      <guid>/2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/</guid>
+      <description>Si yo fuera rey, expropiaría el edificio sito en el número 212 de la Castellana de Madrid, derruiría lo existente y construiría uno imagen especular de
+que es el que queda justo enfrente y que contiene eso que conocemos como Instituto Nacional de Estadística. Lo llamaría, por mantener la especularidad, ENI y lo poblaría de estadísticos con una misión:
+ No hablar ni relacionarse bajo ningún concepto con los de enfrente.</description>
+    </item>
+    
+    <item>
+      <title>Gestión del riesgo: una perífrasis con hitos aprovechables</title>
+      <link>/2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/</link>
+      <pubDate>Tue, 09 Apr 2019 09:13:50 +0000</pubDate>
+      
+      <guid>/2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/</guid>
+      <description>Traigo a la consideración de mis lectores Sobre la Sostenibilidad Fiscal de España (II), un artículo de hace un tiempo que es una larga perífrasis alrededor de principios cualitativos muy contrastados sobre la gestión de riesgo (bajo incertidumbre, si se me tolera el pleonasmo). La conclusión es bien sabida pero el camino recorre una serie de hitos que mucho tienen que ver con lo que suelo escribir por aquí. Arranca con una afirmación desconcertante:</description>
+    </item>
+    
+    <item>
+      <title>Incertidumbre en ránkings (o cómo la varianza es la mayor enemiga de la meritocracia)</title>
+      <link>/2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/</link>
+      <pubDate>Wed, 03 Apr 2019 19:27:36 +0000</pubDate>
+      
+      <guid>/2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/</guid>
+      <description>Tengo por ahí leído y encolado el artículo League Tables and Their Limitations: Statistical Issues in Comparisons of Institutional Performance del perínclito Spiegelhalter que toma una serie de ránkings (de colegios, de hospitales) y trata de medir cuánto tienen de sustancia y cuánto de ruido.
+Hace cosas muy similares a las que escribí aquí. Mi entrada, además, cuenta con la ventaja (que lo será solo para algunos) de usar la sintaxis y código de [lme4](https://cran.</description>
+    </item>
+    
+    <item>
+      <title>Los extraños números de los muertos en carretera por accidente</title>
+      <link>/2018/05/28/los-extranos-numeros-de-los-muertos-en-carretera-por-accidente/</link>
+      <pubDate>Mon, 28 May 2018 08:13:32 +0000</pubDate>
+      
+      <guid>/2018/05/28/los-extranos-numeros-de-los-muertos-en-carretera-por-accidente/</guid>
+      <description>Escribo esta entrada con cierta prevención porque soy consciente de que dan pábulo a determinadas teorías conspiranoicas de las que soy declarado enemigo. Pero es que los números de muertos en carretera por accidente en España en los últimos años,
+(extraídos de aquí) dan que pensar: la varianza de las observaciones correspondientes a los años 2013, 2014 y 2015 es muy baja, demasiado baja. Al menos, si se da como bueno un modelo de Poisson para modelar esos conteos.</description>
+    </item>
+    
+    <item>
+      <title>La distribución de Poisson y la estabilización de la varianza</title>
+      <link>/2017/12/15/la-poisson-y-la-estabilizacion-de-la-varianza/</link>
+      <pubDate>Fri, 15 Dec 2017 20:07:25 +0000</pubDate>
+      
+      <guid>/2017/12/15/la-poisson-y-la-estabilizacion-de-la-varianza/</guid>
+      <description>Imagínate que quieres estabilizar la varianza (¡para qué!) de una distribución de Poisson. Los libros viejunos te dirán que saques la raíz cuadrada de tus valores.
+Si en lugar de mirar en libros viejunos prestas atención a tus propios ojos, harás algo parecido a:
+lambdas &amp;lt;- -10:10 lambdas &amp;lt;- 2^lambdas res &amp;lt;- sapply(lambdas, function(lambda) sd(sqrt(rpois(1e5, lambda))))  para obtener
+y averiguar dónde funciona y dónde no.
+Si usas la transformación $latex f(x) = x^{2/3}$, como recomiendan en cierto artículo que no viene a cuento identificar, harás</description>
+    </item>
+    
+    <item>
+      <title>Pesadumbre e incertidumbre desencadenadas</title>
+      <link>/2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/</link>
+      <pubDate>Thu, 10 Nov 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/</guid>
+      <description>Hoy escribo afectado por un derrame de pesadumbre. Pero esa es solo una opinión que igual no importa nadie.
+Estas del 8 de noviembre han sido las elecciones en que menos y que más caso he hecho de las encuestas electorales. Cansado del cada vez más monótono ciclo de que
+ * se publican encuestas electorales * llegan las elecciones y el resultado no se parece en nada a lo dibujado por ellas y * se reitera el mismo blablablá (en latín se dice _excusatio non petita_) que unos meses antes  he decidido esta vez dejar de prestar atención a algo que, se ha visto, no ha sido sino ruido.</description>
+    </item>
+    
+    <item>
+      <title>Los límites que la varianza impone a las energías renovables</title>
+      <link>/2016/09/09/los-limites-que-la-varianza-impone-a-las-energias-renovables/</link>
+      <pubDate>Fri, 09 Sep 2016 08:13:28 +0000</pubDate>
+      
+      <guid>/2016/09/09/los-limites-que-la-varianza-impone-a-las-energias-renovables/</guid>
+      <description>El asunto de las energías renovables, a partir de cierto umbral de capacidad instalada, se convierte en uno de gestión de la varianza.
+En este artículo se discuten esos problemas para el caso alemán. No trata tanto el problema de la gestión de los picos (particularmente los intradiarios) como de la variabilidad estacional, dentro del año, de la producción eólica y solar, que no se corresponde con la del consumo.</description>
+    </item>
+    
+    <item>
+      <title>Ruido de alarmas, ruido de p-valores; mucho, mucho ruido, tanto, tanto ruido</title>
+      <link>/2016/06/08/ruido-de-alarmas-ruido-de-p-valores-mucho-mucho-ruido-tanto-tanto-ruido/</link>
+      <pubDate>Wed, 08 Jun 2016 08:13:31 +0000</pubDate>
+      
+      <guid>/2016/06/08/ruido-de-alarmas-ruido-de-p-valores-mucho-mucho-ruido-tanto-tanto-ruido/</guid>
+      <description>Me estoy volviendo intolerante al ruido. Y esta mañana (¿qué carajos hago levantado tan temprano?) no había forma de que dejase de sonar la alarma de unos andamios de la plaza, no paraba la batidora del bar desde donde escribo y, encima, esto, esto, esto, esto, esto, esto,&amp;hellip;
+https://www.youtube.com/watch?v=xXFwXAaRnDU
+Son todas noticias relacionadas con la publicación de esto, un artículo que describe un estudio clínico (¡con 84 sujetos!) en el que se comparan dos grupos (uno tratado y otro no) que,</description>
+    </item>
+    
+    <item>
+      <title>El extraño caso de la media empírica menguante</title>
+      <link>/2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/</link>
+      <pubDate>Tue, 31 May 2016 08:13:28 +0000</pubDate>
+      
+      <guid>/2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/</guid>
+      <description>La distribución lognormal es la exponencial de una distribución normal. Su media, Wikipedia dixit, es $latex \exp(\mu + \sigma^2 /2)$.
+Dada una muestra de la distribución lognormal (y supuesto, por simplificar, $latex \mu=0$), podemos calcular
+ * su media y * una estimación de su $latex \sigma$ y calcular $latex \exp(\sigma^2 /2)$  y uno pensaría que los valores deberían ser similares. Mas pero sin embargo,
+library(ggplot2) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(123) sigmas &amp;lt;- seq(1, 10, by = 0.</description>
+    </item>
+    
+    <item>
+      <title>¿Tanto ha llovido (en términos de precisión numérica) desde 2008?</title>
+      <link>/2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/</link>
+      <pubDate>Tue, 24 May 2016 08:13:42 +0000</pubDate>
+      
+      <guid>/2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/</guid>
+      <description>Acabo de ejecutar
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) x &amp;lt;- runif(1e6) x.shift &amp;lt;- 1e9 + x sd(x) sd(x.shift) sqrt(sum((x - mean(x))^2) / (length(x - 1))) sqrt(sum((x.shift - mean(x.shift))^2) / (length(x - 1))) sd.sum.squares &amp;lt;- function(x){ n &amp;lt;- length(x) suma &amp;lt;- sum(x) suma.cuadrados &amp;lt;- sum(x^2) sqrt((n * suma.cuadrados - suma^2) / (n * (n-1))) } sd.sum.squares(x) sd.sum.squares(x.shift)  inspirado por esto y me pregunto: ¿tanto ha llovido en términos de precisión numérica desde 2008?</description>
+    </item>
+    
+    <item>
+      <title>Hoy que me he puesto traje y corbata...</title>
+      <link>/2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/</link>
+      <pubDate>Thu, 10 Mar 2016 09:13:12 +0000</pubDate>
+      
+      <guid>/2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/</guid>
+      <description>&amp;hellip; (por motivos que importan pero no debo revelar a mis lectores) aprovecho para criticar a esos tipos que, vistiendo como yo, insisten reiteradamente a sus analistas en que les proporcionen un número. Un número que tiene que ser cerrado, indiscutible, pivotal.
+A esos que gastan traje y corbata como yo hoy les horroriza la varianza. Le espantan, seguro, esos punticos que tan opotunamente coloca Kiko Llaneras alrededor de las medias de este estupendo</description>
+    </item>
+    
+    <item>
+      <title>Encuestas, censos, elecciones</title>
+      <link>/2015/11/12/encuestas-censos-elecciones/</link>
+      <pubDate>Thu, 12 Nov 2015 08:13:52 +0000</pubDate>
+      
+      <guid>/2015/11/12/encuestas-censos-elecciones/</guid>
+      <description>Hace unas semanas tuve un lapso de creatividad. Dejé de escribir durante un tiempo y me dediqué al sucedáneo: leer. Terminé, para variar, unos cuantos libros.
+Uno de ellos es Proofiness, the Dark Arts of Mathematical Deception que está más o menos bien. En su mayor parte abunda sobre fenómenos conocidos, estudiados y sobradamente denunciados: que hay que recurre a argumentos basados en números, estadísticas o construcciones matemáticas más o menos sofisticadas para dar visos de verdad a mentiras flagrantes.</description>
+    </item>
+    
+    <item>
+      <title>Varianza y cuantiles (del capitalismo de baja calidad en España)</title>
+      <link>/2015/09/15/varianza-y-cuantiles-del-capitalismo-de-baja-calidad-en-espana/</link>
+      <pubDate>Tue, 15 Sep 2015 08:13:38 +0000</pubDate>
+      
+      <guid>/2015/09/15/varianza-y-cuantiles-del-capitalismo-de-baja-calidad-en-espana/</guid>
+      <description>Uno de los argumentos más habitualmente esgrimidos en contra del capitalismo es su caracter cíclico. Cuando dicen cíclico, entiendo, quieren decir aleatorio (¿quién sabe predecir los ciclos?). Eso no sé si lo hace, en la terminología de Taleb, frágil o antifrágil. En cualquier caso, uno de los objetivos de quienes llevan las riendas de la política económica es embridar la aleatoriedad con, por ejemplo, medidas anticíclicas.
+Pero no todas las aleatoridades son iguales.</description>
+    </item>
+    
+    <item>
+      <title>Golpes de suerte</title>
+      <link>/2015/08/31/golpes-de-suerte/</link>
+      <pubDate>Mon, 31 Aug 2015 08:13:28 +0000</pubDate>
+      
+      <guid>/2015/08/31/golpes-de-suerte/</guid>
+      <description>Rescato para el día de hoy los dos primeros párrafos de un artículo de Ignacio Vidal-Foch. Tiene más, pero menos interesante en nuestro contexto.
+Son:
+La vida es repelentemente moral, pero también está sometida al imperio del azar, y de qué manera. A Borges le obsesionaron durante muchos años los versos de un largo poema de Almafuerte que dicen: “Yo repudié al feliz, al potentado / al honesto, al armónico y al fuerte / porque pensé que les tocó la suerte / como a cualquier tahúr afortunado”, y que él citaba aquí y allá, ayer en un ensayo, mañana en una entrevista o en una conferencia.</description>
+    </item>
+    
+    <item>
+      <title>La variación y sus negacionistas</title>
+      <link>/2015/07/17/la-variacion-y-sus-negacionistas/</link>
+      <pubDate>Fri, 17 Jul 2015 08:13:22 +0000</pubDate>
+      
+      <guid>/2015/07/17/la-variacion-y-sus-negacionistas/</guid>
+      <description>Las entradas de esta semana han girado alrededor de un tema: la comparación bajo incertidumbre. La remato recomendando un artículo de Stephen Few, Variation and Its Discontents, que tiene un subtítulo de lo más oportuno: Funnel Plots for Fair Comparisons.
+Nota: Los lectores más fieles de estas páginas recordarán entradas viejas, como esta, que también sugerían el uso de gráficos de embudo (o trompeta).</description>
+    </item>
+    
+    <item>
+      <title>¿13.100 más/menos cuántos parados menos?</title>
+      <link>/2015/04/24/el-sujeto-numero-82694/</link>
+      <pubDate>Fri, 24 Apr 2015 08:13:42 +0000</pubDate>
+      
+      <guid>/2015/04/24/el-sujeto-numero-82694/</guid>
+      <description>¿Cuál es la cifra de variación del número de parados de la que hablan la última EPA y los medios? 13100.
+¿Más menos cuánto? Según el INE, el error de muestreo relativo, $latex \sqrt{V(\hat{\sigma}}$ a nivel nacional en términos porcentuales es
+
+Es decir, el intervalo de confianza para la cifra de parados tendría una anchura como de 100k sujetos. Obviamente, eso impide calcular variaciones de un orden de magnitud menor.</description>
+    </item>
+    
+    <item>
+      <title>Ruido en las estadísticas oficiales</title>
+      <link>/2014/12/09/ruido-en-las-estadisticas-oficiales/</link>
+      <pubDate>Tue, 09 Dec 2014 07:13:20 +0000</pubDate>
+      
+      <guid>/2014/12/09/ruido-en-las-estadisticas-oficiales/</guid>
+      <description>Hacía tiempo que no hablaba de este tema. Pero han salido de mi LIFO de artículos potencialmente interesantes dos a los que merece la pena echar un ojo. El primero, este, arranca con
+e incluye un ejemplo estupendo de buenas prácticas:
+
+Se trata de un gráfico elaborado por el Banco de Inglaterra en el que las cifras del PIB incluyen bandas de error no solo en las proyecciones sino también en los valores históricos (y observados).</description>
+    </item>
+    
+    <item>
+      <title>¿Tienen sentido las tasas municipales de desempleo?</title>
+      <link>/2014/08/12/tienen-sentido-las-tasas-municipales-de-desempleo/</link>
+      <pubDate>Tue, 12 Aug 2014 07:13:53 +0000</pubDate>
+      
+      <guid>/2014/08/12/tienen-sentido-las-tasas-municipales-de-desempleo/</guid>
+      <description>Sigo los artículos de periodismo de datos de El Confidencial. Los recomiendo, de hecho. Es bueno que alguien se encargue de divulgar noticias que tienen que ver con números.
+Y ahora llega el pero. Una parte —y sus autores la consideran importante porque la elevan al titular— de lo que se discute en Nueve de cada diez municipios tienen más paro ahora que antes de comenzar la crisis es amarillismo numérico.</description>
+    </item>
+    
+    <item>
+      <title>Varimax: lo que se gana, lo que se pierde</title>
+      <link>/2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/</link>
+      <pubDate>Wed, 02 Apr 2014 07:50:42 +0000</pubDate>
+      
+      <guid>/2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/</guid>
+      <description>Hoy hablaremos de exploratory factorial analysis y en particular aprovecharé para dejar constancia de que dejo resuelta una duda que siempre me ha dado pereza resolver: qué se pierde —lo que se gana ya nos lo han contado por doquier— al realizar una rotación varimax.
+Comencemos. Primero, voy a realizar un análisis factorial (exploratorio) basándome en ?varimax:
+fa &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/factanal&amp;quot;&amp;gt;factanal( ~., 2, data = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/datasets/swiss&amp;quot;&amp;gt;swiss, rotation = &amp;quot;none&amp;quot;) fa # Call: # factanal(x = ~.</description>
+    </item>
+    
+    <item>
+      <title>Predictores con varianza casi nula, inflación, loterías y línea de comandos</title>
+      <link>/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/</link>
+      <pubDate>Fri, 28 Mar 2014 07:08:40 +0000</pubDate>
+      
+      <guid>/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/</guid>
+      <description>Hoy viernes vuelvo a traer a mis páginas cuatro enlaces interesantes. El primero de ellos es como las malas películas: un arranque espléndido, un planteamiento prometedor y, al final, humo. Pero no trata de chico-conoce-chica sino de qué hacer con esas variables que tienen una varianza casi nula (a la hora de crear modelos estadísticos, se entiende). Me llegó tan oportunamente que pensé que alguien que vela por mí desde lo alto me lo enviaba para sacarme de mi semanal atolladero.</description>
+    </item>
+    
+    <item>
+      <title>Cómo no restar números fuzzy</title>
+      <link>/2014/01/24/como-no-restar-numeros-fuzzy/</link>
+      <pubDate>Fri, 24 Jan 2014 08:06:40 +0000</pubDate>
+      
+      <guid>/2014/01/24/como-no-restar-numeros-fuzzy/</guid>
+      <description>Esta entrada viene motivada por varios asuntos relacionados que me han sucedido en los últimos tiempos. El primero es un colega que me preguntó sobre si el paro había subido o bajado comparando datos de un par de trimestres.
+La respuesta prima facie es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error.</description>
+    </item>
+    
+    <item>
+      <title>Cómo apostar si tienes que</title>
+      <link>/2014/01/09/como-apostar-si-tienes-que/</link>
+      <pubDate>Thu, 09 Jan 2014 08:56:29 +0000</pubDate>
+      
+      <guid>/2014/01/09/como-apostar-si-tienes-que/</guid>
+      <description>Hace unos días recibí esto,
+
+que es la rentabilidad de carteras de inversión (sospecho que no necesariamente reales) de usuarios de cierto portal que compiten por ver quién tiene más ojo en bolsa.
+¿No os llama la atención esa rentabilidad &amp;gt;600%? ¿Cómo se puede alcanzar? ¿Es ese señor —a quien no conozco— un hacha de las inversiones?
+Dos ideas me vienen a la cabeza. Una es esta que, pienso, no aplica.</description>
+    </item>
+    
+    <item>
+      <title>Vídeo de mi charla en el Taller InnovaData de periodismo de datos</title>
+      <link>/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/</link>
+      <pubDate>Wed, 29 May 2013 07:36:12 +0000</pubDate>
+      
+      <guid>/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/</guid>
+      <description>Ayer, tal y como anuncié el otro día, participé en el Taller InnovaData de periodismo de datos. El vídeo de mi intervención (a partir del minuto 2:02:00 aproximadamente) puede verse en
+http://www.youtube.com/watch?feature=player_embedded&amp;amp;v;=HsSHVyk_448
+Las diapositivas de la charla (que en el vídeo, desgraciadamente, son, por así decirlo, tanto asíncronas) pueden descargarse aquí.</description>
+    </item>
+    
+    <item>
+      <title>Me siento reivindicado</title>
+      <link>/2013/02/19/me-siento-reivindicado/</link>
+      <pubDate>Tue, 19 Feb 2013 11:37:39 +0000</pubDate>
+      
+      <guid>/2013/02/19/me-siento-reivindicado/</guid>
+      <description>Sí, hoy me siento reivindicado. En efecto. El otro día escribí una entrada titulada ¿… coma cero dos por ciento? ¡Anda ya!. Y hoy Andrew Gelman, abundando en los mismos temas, titula la suya “1.7%” ha ha ha.
+¿El tema de fondo? La obsesión enfermiza por la precisión y ese miedo atávico a la variabilidad y la incertidumbre que acompañan naturalmente a los fenómenos cotidianos.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre variaciones insignificantes en estadísticas públicas</title>
+      <link>/2012/12/04/mas-sobre-variaciones-insignificantes-en-estadisticas-publicas/</link>
+      <pubDate>Tue, 04 Dec 2012 07:56:48 +0000</pubDate>
+      
+      <guid>/2012/12/04/mas-sobre-variaciones-insignificantes-en-estadisticas-publicas/</guid>
+      <description>Hemos talado cantidad de montes y destruido el ecosistema de miles de ardillas para fabricar el papel sobre el que discutir asuntos totalmente irrelevantes. Hablé un poco de eso hace unos días y más en ocasiones anteriores, como esta y alguna más que me da pereza ubicar.
+Ahora leo en Significance cómo protesta Mark Fransham:
+El titular no aportaba información sobre el error muestral asociado, pero en una de las tablas del informe encontré cómo el cambio trimestral era de -50,000 +/-89,000.</description>
+    </item>
+    
+    <item>
+      <title>Yendo por moras en el País Vasco</title>
+      <link>/2012/08/30/yendo-por-moras-en-el-pais-vasco/</link>
+      <pubDate>Thu, 30 Aug 2012 07:18:47 +0000</pubDate>
+      
+      <guid>/2012/08/30/yendo-por-moras-en-el-pais-vasco/</guid>
+      <description>Publicaba el otro día El Correo cómo Las mujeres vascas son las más longevas de Europa. El artículo, realmente chirriante, mereció la réplica de Josu Mezo en Malaprensa.
+Vaya por delante —y es lo menos importante de todo— que el titular es un puro abuso del lenguaje: las mujeres más longevas de Europa son, exactamente, las más longevas de Europa: algunas ancianitas centenarias que vivirán cada una en su casa. Incluso puede que alguna de ellas resida en el País Vasco.</description>
+    </item>
+    
+    <item>
+      <title>¿Varianza explicada?</title>
+      <link>/2012/03/08/%c2%bfvarianza-explicada/</link>
+      <pubDate>Thu, 08 Mar 2012 07:44:41 +0000</pubDate>
+      
+      <guid>/2012/03/08/%c2%bfvarianza-explicada/</guid>
+      <description>Sin darnos cuenta, abusamos de ciertos términos. Uno de ellos es el de la varianza explicada. Después de años utilizándolo como por inercia, he venido a darme cuenta por dos vías distintas de su impropiedad: una de mis recientes lecturas y una experiencia profesional.
+Tal vez sea más sencillo comenzar exponiendo la crítica realizada en esa página. Parte del análisis de la serie de muertes en Chicago entre 1987 y el 2000:</description>
+    </item>
+    
+    <item>
+      <title>Localidad, globalidad y maldición de la dimensionalidad</title>
+      <link>/2012/01/13/localidad-globalidad-y-maldicion-de-la-dimensionalidad/</link>
+      <pubDate>Thu, 12 Jan 2012 23:14:47 +0000</pubDate>
+      
+      <guid>/2012/01/13/localidad-globalidad-y-maldicion-de-la-dimensionalidad/</guid>
+      <description>Escribo hoy al hilo de una pregunta de la lista de correo de quienes estamos leyendo The elements of statistical learning.
+Hace referencia a la discusión del capítulo 2 del libro anterior en el que trata:
+ * El compromiso (_trade off_) entre el sesgo y la varianza de los modelos predictivos. * Cómo los modelos _locales_ (como los k-vecinos) tienden a tener poco sesgo y mucha varianza. * Cómo los modelos globales (como los de regresión) tienden a tener poca varianza y mucho sesgo.</description>
+    </item>
+    
+    <item>
+      <title>De la varianza en muestras pequeñas (y el problema del hospital)</title>
+      <link>/2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/</link>
+      <pubDate>Wed, 10 Aug 2011 07:47:14 +0000</pubDate>
+      
+      <guid>/2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/</guid>
+      <description>En un artículo que enlacé hace un tiempo se planteó el que después recibiría el nombre del problema del hospital:
+ En una ciudad hay dos hospitales. En el grande, hay, en promedio, 45 partos al día; en el pequeño, 15. La probabilidad de que un recién nacido sea niño o niña se supone igual al 50 %. ¿En qué hospital es más probable que en un día dado la proporción de niñas exceda el 60%?</description>
+    </item>
+    
+  </channel>
+</rss>

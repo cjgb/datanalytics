@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>método delta on datanalytics</title>
+    <link>/tags/m%C3%A9todo-delta/</link>
+    <description>Recent content in método delta on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Mar 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/m%C3%A9todo-delta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre el &#34;método delta&#34;: propagate</title>
+      <link>/2020/03/10/mas-sobre-el-metodo-delta-propagate/</link>
+      <pubDate>Tue, 10 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/10/mas-sobre-el-metodo-delta-propagate/</guid>
+      <description>Por referencia y afán de completar dos entradas que hice hace un tiempo sobre el método delta, esta y esta, dejo constar mención al paquete [propagate](https://CRAN.R-project.org/package=propagate), que contiene métodos para la propagación de la incertidumbre.
+Para desavisados: si $latex x \sim N(5,1)$ e $latex y \sim N(10,1)$, ¿cómo sería la distribución de $latex x/y$? Etc.</description>
+    </item>
+    
+    <item>
+      <title>El &#34;método delta&#34;, ahora con NIMBLE</title>
+      <link>/2020/02/03/el-metodo-delta-ahora-con-nimble/</link>
+      <pubDate>Mon, 03 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/03/el-metodo-delta-ahora-con-nimble/</guid>
+      <description>NIMBLE ha sido uno de mis más recientes y provechosos descubrimientos. Mejor que hablar de él, que otros lo harán mejor y con más criterio que yo, lo usaré para replantear el problema asociado el método delta que me ocupó el otro día.
+Casi autoexplicativo:
+library(nimble) src &amp;lt;- nimbleCode({ T_half &amp;lt;- log(.5) / k k ~ dnorm(-0.035, sd = 0.00195) }) mcmc.out &amp;lt;- nimbleMCMC(code = src, constants = list(), data = list(), inits = list(k = -0.</description>
+    </item>
+    
+    <item>
+      <title>Siete llaves al sepulcro del método delta</title>
+      <link>/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/</link>
+      <pubDate>Wed, 22 Jan 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/</guid>
+      <description>El desafortunado tuit
+https://twitter.com/gilbellosta/status/1219196123094700032
+es de lo más parecido a que me repitan unos chorizos que me ha ocurrido últimamente. Salvo que en lugar de chorizos, lo que se me manifestaban fueron años estudiando matemáticas y, por extensión, las partes más analíticas de la estadística.
+Con inmerecida delicadeza, se me respondió:
+https://twitter.com/joscani/status/1219350615987511297
+Y sí, hay que cerrar con siete llaves el sepulcro del método delta o, en su defecto, activar el pin parental el día que toque.</description>
+    </item>
+    
+  </channel>
+</rss>

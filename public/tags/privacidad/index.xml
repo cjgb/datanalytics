@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacidad on datanalytics</title>
+    <link>/tags/privacidad/</link>
+    <description>Recent content in privacidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 08 Mar 2019 08:13:02 +0000</lastBuildDate><atom:link href="/tags/privacidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aviso para navegadores</title>
+      <link>/2019/03/08/aviso-para-navegadores/</link>
+      <pubDate>Fri, 08 Mar 2019 08:13:02 +0000</pubDate>
+      
+      <guid>/2019/03/08/aviso-para-navegadores/</guid>
+      <description>Ayer estuvimos pensando de dónde se podían obtener ejemplos de búsquedas de usuarios (sí, lo que la gente escribe en, p.e., Google cuando busca algo). Y parece que hay empresas que venden ese tipo de datos.
+Pregunta: ¿de dónde los sacan?
+Alguien que conoce el negocio la respondió en Quora. Parece que existen tres fuentes. Una de ellas es la de los llamados click stream data. Parece que Jumpshot es una de las empresas que las recolectan.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Democratic people&#39;s republic&#34; de algo que empieza por ge</title>
+      <link>/2018/05/14/democratic-peoples-republic-de-algo-que-empieza-por-ge/</link>
+      <pubDate>Mon, 14 May 2018 08:20:38 +0000</pubDate>
+      
+      <guid>/2018/05/14/democratic-peoples-republic-de-algo-que-empieza-por-ge/</guid>
+      <description>Hay gente que es del parecer de que exiten contubernios sanitarios (constituidos por empresas farmacéuticas y profesionales de la salud conchabados con ellos) que proceden de la siguiente manera:
+ * Tratan de convencernos de que determinados rasgos de la personalidad son patológicos. * Cuando lo consiguen, recetan sus remedios químicos para sanarlos. * Alguien gana mucha pasta.  Con esto de la GDPR pasa algo parecido:
+ * Tratan de convencernos de que cuando subimos fotos de nuestro gato a internet, en realidad, alguien nos está robando las fotos de nuestro gato.</description>
+    </item>
+    
+    <item>
+      <title>Sobre lo de Cambridge Analytica</title>
+      <link>/2018/04/02/sobre-lo-de-cambridge-analytica/</link>
+      <pubDate>Mon, 02 Apr 2018 08:13:24 +0000</pubDate>
+      
+      <guid>/2018/04/02/sobre-lo-de-cambridge-analytica/</guid>
+      <description>Ni de lejos mi tema favorito. De todo este tinglado de la práctica comercial de la ciencia de datos, lo que tiene como sujetos a sujetos de carne y hueso es lo que menos me atrae. No quiero saber nada sobre escarbar en Twitter, Facebook o Linkedin. Me aburre soberanamente todo lo relativo a las leyes de protección de datos y trato en la medida de lo posible mantenerme al margen de discusiones sobre privacidad, big data y similares, que son puros contrastes de ocurrencias.</description>
+    </item>
+    
+    <item>
+      <title>Antropocentrismo cansino</title>
+      <link>/2017/11/29/antropocentrismo-cansino/</link>
+      <pubDate>Wed, 29 Nov 2017 08:13:50 +0000</pubDate>
+      
+      <guid>/2017/11/29/antropocentrismo-cansino/</guid>
+      <description>Es muy cansino. No hay debate sobre big data, inteligencia artificial o similar en el que no pase: de repente lo captura alguien (con pinta de no haber tirado una maldita línea de código en la vida) llevándoselo al tema con el que asustan a las porteras: ¡oh, oh, oh, la protección de datos!, ¡la nueva normativa europea! Que si Facebook sabe lo que hiciste, que si Google conoce tus amigos, que si&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

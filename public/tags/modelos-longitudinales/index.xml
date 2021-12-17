@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelos longitudinales on datanalytics</title>
+    <link>/tags/modelos-longitudinales/</link>
+    <description>Recent content in modelos longitudinales on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 24 May 2018 08:13:36 +0000</lastBuildDate><atom:link href="/tags/modelos-longitudinales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prioris informativas: un ejemplo</title>
+      <link>/2018/05/24/prioris-informativas-un-ejemplo/</link>
+      <pubDate>Thu, 24 May 2018 08:13:36 +0000</pubDate>
+      
+      <guid>/2018/05/24/prioris-informativas-un-ejemplo/</guid>
+      <description>Imagina que tienes que generar (reitero: generar) datos compatibles con el siguiente modelo:
+ * Tienes n sujetos a los que se proporciona un remedio para dormir en distintas dosis (conocidas) en distintos días. * El número adicional de horas que duerme cada sujeto es lineal con una pendiente que depende de la dosis (una serie de dosis fijas). * Esa recta tiene un término independiente (el número de horas que duerme el sujeto con una dosis igual a cero del remedio).</description>
+    </item>
+    
+  </channel>
+</rss>

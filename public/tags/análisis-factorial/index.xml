@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>análisis factorial on datanalytics</title>
+    <link>/tags/an%C3%A1lisis-factorial/</link>
+    <description>Recent content in análisis factorial on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 07 Apr 2014 07:00:56 +0000</lastBuildDate><atom:link href="/tags/an%C3%A1lisis-factorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis factorial e ideas que se resisten a morir</title>
+      <link>/2014/04/07/analisis-factorial-e-ideas-que-se-resisten-a-morir/</link>
+      <pubDate>Mon, 07 Apr 2014 07:00:56 +0000</pubDate>
+      
+      <guid>/2014/04/07/analisis-factorial-e-ideas-que-se-resisten-a-morir/</guid>
+      <description>Estoy escribiendo mucho sobre métodos de reducción de la dimensionalidad estos días. Digamos que son gajes del oficio. Espero no resultar repetitivo.
+La cuestión que me empuja a escribir hoy es que algunos a mi alrededor insisten, insisten e insisten en las bondades del análisis factorial y lo oportuno de su aplicación a un problema sobre el que no voy a dar más detalles. Es una técnica que jamás estudié propiamente y con la que el poco contacto que he tenido se ha limitado a echar una mano a algunos clientes en el pasado en algún análisis.</description>
+    </item>
+    
+    <item>
+      <title>Varimax: lo que se gana, lo que se pierde</title>
+      <link>/2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/</link>
+      <pubDate>Wed, 02 Apr 2014 07:50:42 +0000</pubDate>
+      
+      <guid>/2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/</guid>
+      <description>Hoy hablaremos de exploratory factorial analysis y en particular aprovecharé para dejar constancia de que dejo resuelta una duda que siempre me ha dado pereza resolver: qué se pierde —lo que se gana ya nos lo han contado por doquier— al realizar una rotación varimax.
+Comencemos. Primero, voy a realizar un análisis factorial (exploratorio) basándome en ?varimax:
+fa &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/factanal&amp;quot;&amp;gt;factanal( ~., 2, data = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/datasets/swiss&amp;quot;&amp;gt;swiss, rotation = &amp;quot;none&amp;quot;) fa # Call: # factanal(x = ~.</description>
+    </item>
+    
+  </channel>
+</rss>

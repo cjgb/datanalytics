@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apis on datanalytics</title>
+    <link>/tags/apis/</link>
+    <description>Recent content in apis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Feb 2019 08:13:09 +0000</lastBuildDate><atom:link href="/tags/apis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una cosa buena, una cosa mala</title>
+      <link>/2019/02/13/una-cosa-buena-una-cosa-mala/</link>
+      <pubDate>Wed, 13 Feb 2019 08:13:09 +0000</pubDate>
+      
+      <guid>/2019/02/13/una-cosa-buena-una-cosa-mala/</guid>
+      <description>Que son la misma: esta.
+Comienzo por lo malo: ¿realmente necesitamos 17+1 INEs publicando la vistas de la misma información a través de 17+1 APIs, 17+1 paquetes de R y (17+1)*N mantenedores y desarrolladores?
+Lo bueno: tiene buena pinta y es encomiable tanto el esfuerzo de los autores como su vocación de servicio público.
+Nota: Espero que no enfaden demasiado el 50% de los juicios que he emitido a quien me ha enviado el enlace para su evaluación y posible difusión.</description>
+    </item>
+    
+    <item>
+      <title>Estructura poblacional de España: 2010-2050</title>
+      <link>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</link>
+      <pubDate>Tue, 27 Feb 2018 08:13:04 +0000</pubDate>
+      
+      <guid>/2018/02/27/estructura-poblacional-de-espana-2010-2050/</guid>
+      <description>Si se puede hacer para Japón, también se puede hacer para España:
+El código,
+library(idbr) library(ggplot2) library(animation) library(ggthemes) idb_api_key(&amp;quot;pídela en https://www.census.gov/data/developers/data-sets/international-database.html&amp;quot;) male &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;male&#39;) male$SEX &amp;lt;- &amp;quot;hombres&amp;quot; male$POP &amp;lt;- -male$POP female &amp;lt;- idb1(&#39;SP&#39;, 2010:2050, sex = &#39;female&#39;) female$SEX &amp;lt;- &amp;quot;mujeres&amp;quot; spain &amp;lt;- rbind(male, female) saveGIF({ for (i in 2010:2050) { title &amp;lt;- as.character(i) year_data &amp;lt;- spain[spain$time == i, ] g1 &amp;lt;- ggplot(year_data, aes(x = AGE, y = POP, fill = SEX, width = 1)) + coord_fixed() + coord_flip() + annotate(&#39;text&#39;, x = 98, y = -300000, label = &#39;Datos: US Census Bureau IDB; idbr R package&#39;, size = 3) + geom_bar(data = subset(year_data, SEX == &amp;quot;mujeres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + geom_bar(data = subset(year_data, SEX == &amp;quot;hombres&amp;quot;), stat = &amp;quot;identity&amp;quot;) + scale_y_continuous(breaks = seq(-300000, 300000, 150000), labels = paste0(as.</description>
+    </item>
+    
+    <item>
+      <title>CatastRo, un paquete de R para consultar la API del Catastro</title>
+      <link>/2017/10/02/catastro-un-paquete-de-r-para-consultar-la-api-del-catastro/</link>
+      <pubDate>Mon, 02 Oct 2017 08:12:35 +0000</pubDate>
+      
+      <guid>/2017/10/02/catastro-un-paquete-de-r-para-consultar-la-api-del-catastro/</guid>
+      <description>Informo de que está disponible en GitHub el paquete CatastRo para consultar la API pública del Catastro.
+No es una API particularmente extensa, pero es de esperar que se amplíe el catálogo de servicios disponible cuando comencemos a machacarla (o no: a saber qué hay en la mente de esa gente).
+El paquete es el trabajo de fin de máster de mi alumno Ángel Delgado Panadero en el máster de ciencia de datos de la UTAD.</description>
+    </item>
+    
+    <item>
+      <title>La anticonferencia: una idea que me ronda la cabeza</title>
+      <link>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</link>
+      <pubDate>Mon, 12 Jun 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/</guid>
+      <description>La anticonferencia me ronda la cabeza.
+No es una conferencia, (de ahí el prefijo), aunque se parezca a ella en lo de reunir a un grupillo de gente interesada en un asunto.
+No es un jacatón. Los jacatones están, sobre el papel, bien; pero demasiado a menudo su producto se queda ahí, tiene poca (o nula) trayectoria o impacto. ¿Me dejáis que diga que son mayormente intranscendentes?
+Pero creo que los de rOpenSci dieron en el clavo con su Unconference.</description>
+    </item>
+    
+    <item>
+      <title>En una API de cuyo endpoint no quiero acordarme...</title>
+      <link>/2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/</link>
+      <pubDate>Fri, 22 Apr 2016 09:13:16 +0000</pubDate>
+      
+      <guid>/2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/</guid>
+      <description>&amp;hellip; rigen los siguientes términos de servicio (que traduzco, porque el original vienen en inglés):
+Supongo que ese es el fin de la historia: estoy expulsado de ella, salvo que retuerza el hilo de la casuística, relaje el perímetro de las acepciones y me considere afiliado a alguna de las instituciones educativas donde imparto alguna clase; y justifique, claro está, que no tienen ánimo de lucro.
+Pero me percato que el servicio está financiado por un proyecto de investigación europeo.</description>
+    </item>
+    
+    <item>
+      <title>Conferencia de APis predictivas en Valencia (14-15 de Marzo de 2016)</title>
+      <link>/2016/01/07/conferencia-de-apis-predictivas-en-valencia-14-15-de-marzo-de-2016/</link>
+      <pubDate>Thu, 07 Jan 2016 08:13:16 +0000</pubDate>
+      
+      <guid>/2016/01/07/conferencia-de-apis-predictivas-en-valencia-14-15-de-marzo-de-2016/</guid>
+      <description>Los días 14 y 15 de marzo de este año tendrá lugar en Valencia esta conferencia sobre APIs predictivas. Según los organizadores,
+Se puede encontrar más información en este enlace y el en canal de Youtube de las conferencias.</description>
+    </item>
+    
+    <item>
+      <title>APIdays Mediterranea vuelve a Barcelona (la semana que viene)</title>
+      <link>/2015/04/30/apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene/</link>
+      <pubDate>Thu, 30 Apr 2015 08:13:10 +0000</pubDate>
+      
+      <guid>/2015/04/30/apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene/</guid>
+      <description>Los que estéis por allí o tengáis la posibilidad de acudir, sabed: la semana que viene (5, 6 y 7 de mayo de 2015) se celebra una nueva edición de APIdays Mediterránea en Barcelona.
+
+Quienes tengáis pensado acudir, podéis beneficiaros de un 30% de descuento si os registráis desde este enlace.
+Participé en la edición de 2013 en Madrid y me duele no poder asistir este año. Entre otras cosas, por esto.</description>
+    </item>
+    
+    <item>
+      <title>APIDays Mediterránea: reunión de los forofos de las APIs de Madrid</title>
+      <link>/2014/06/26/apidays-mediterranea-reunion-de-los-forofos-de-las-apis-de-madrid/</link>
+      <pubDate>Thu, 26 Jun 2014 07:00:22 +0000</pubDate>
+      
+      <guid>/2014/06/26/apidays-mediterranea-reunion-de-los-forofos-de-las-apis-de-madrid/</guid>
+      <description>Los forofos de las APIs de Madrid están de enhorabuena. El jueves 3 de julio tendrán ocasión de juntarse y celebrar un APIDays Mediterránea informal en MartinaCocina.
+
+El resto de la información para los interesados, aquí.</description>
+    </item>
+    
+    <item>
+      <title>plot.ly: visualización de datos multilenguaje</title>
+      <link>/2014/05/23/plot-ly-visualizacion-de-datos-multilenguaje/</link>
+      <pubDate>Fri, 23 May 2014 07:16:16 +0000</pubDate>
+      
+      <guid>/2014/05/23/plot-ly-visualizacion-de-datos-multilenguaje/</guid>
+      <description>He recibido hoy un correo sobre plot.ly, que es, según sus autores, una herramienta colaborativa para en análisis y la visualización de datos. Gustará seguramente a los interesados en las APIs: en el fondo, el software reside en la nube.
+Permite, por ejemplo, [integrar gráficos interactivos en IPython](http://nbviewer.ipython.org/gist/msund/61cdbd5b22c103fffb84). Aunque no he visto ejemplos de cómo integrarlo con [knitr](http://yihui.name/knitr/). A ver si saco algo de tiempo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>APIdays Mediterránea, 29 y 30 de mayo en Barcelona</title>
+      <link>/2014/05/22/apidays-mediterranea-29-y-30-de-mayo-en-barcelona/</link>
+      <pubDate>Thu, 22 May 2014 06:59:05 +0000</pubDate>
+      
+      <guid>/2014/05/22/apidays-mediterranea-29-y-30-de-mayo-en-barcelona/</guid>
+      <description>Aquellos que tengáis la suerte de estar en Barcelona a finales de mes, la tendréis por partida doble: la edición de APIdays Mediterránea de este año tendrá lugar ahí los días 29 y 30 de mayo.
+El año pasado participé en la edición de Madrid. Este año no va a poder ser. Pero si tenéis ocasión, os recomendaría muy particularmente las charlas de
+ * Alberto González Paje sobre _web scraping_, * Xavier Badosa, el autor de [JSON-stat](http://json-stat.</description>
+    </item>
+    
+    <item>
+      <title>Dos enlaces (y medio) sobre herramientas: git y APIs</title>
+      <link>/2014/05/09/dos-enlaces-y-medio-sobre-herramientas-git-y-apis/</link>
+      <pubDate>Fri, 09 May 2014 07:12:37 +0000</pubDate>
+      
+      <guid>/2014/05/09/dos-enlaces-y-medio-sobre-herramientas-git-y-apis/</guid>
+      <description>El primer enlace, muy apreciados lectores, no es para vosotros sino para mí. Es una referencia que quiero tener a mano: una guía de git para científicos. Es una de las pocas referencias de git que conozco. Casi cualquier otro documento sobre el tema que he visto da la sensación de exigir un conocimiento profundo de sí mismo como prerrequisito para su lectura.
+El segundo explica casi todo lo que hay que saber sobre APIs del subtipo web.</description>
+    </item>
+    
+    <item>
+      <title>APIdays Mediterranea, la semana que viene</title>
+      <link>/2013/05/24/apidays-mediterranea-la-semana-que-viene/</link>
+      <pubDate>Fri, 24 May 2013 07:15:18 +0000</pubDate>
+      
+      <guid>/2013/05/24/apidays-mediterranea-la-semana-que-viene/</guid>
+      <description>La semana que viene y con el lema
+se celebrará en Madrid APIdays Mediterranea, un encuentro de entusiastas de las APIs.
+
+Y dentro del programa, el sábado día 1, a la una menos cuarto —una hora compatible con mis poco matutinos hábitos—, tengo asignado el taller Rapidays: Quick introduction to R &amp;amp; APIs al que están, por supuesto, invitados los lectores de estas páginas (y para los que podría llegar a tener descuentos para el evento completo y entradas gratuitas para mi taller en particular).</description>
+    </item>
+    
+  </channel>
+</rss>

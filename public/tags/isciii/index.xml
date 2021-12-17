@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>isciii on datanalytics</title>
+    <link>/tags/isciii/</link>
+    <description>Recent content in isciii on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 14 Sep 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/isciii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recordatorio: no olvidéis restar los fallecimientos atribuibles al calor en la estimación del efecto de la &#34;segunda ola&#34;</title>
+      <link>/2020/09/14/recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola/</link>
+      <pubDate>Mon, 14 Sep 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/09/14/recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola/</guid>
+      <description>La estimación de la mortalidad atribuible a la gripe estacional (que no, que no se hace consultando la causa de muerte que consignan los médicos medio al buen tuntún por motivos administrativos y que luego recoge el INE, como parece que dan a entender estos beneméritos verificadores para la confusión de quienes den su palabra por buena) tiene una complicación sustancial: ocurre simultánea y co-casualmente con el frío, que incrementa las defunciones por motivos otros.</description>
+    </item>
+    
+    <item>
+      <title>Un recordatorio: MOMOCalor está &#34;up and running&#34;</title>
+      <link>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</link>
+      <pubDate>Mon, 27 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/27/un-recordatorio-momocalor-esta-up-and-running/</guid>
+      <description>Por desgracia, MoMo ya no exige presentación. Pero con los termómetros acariciando los 40º no está mal recordar la existencia de MoMoCalor, su hermanito, que trata atribuir mortalidad a los excesos de temperaturas.
+¿Por qué es particularmente importante MoMoCalor hoy? Recuérdese que MoMo estima, simplemente, desviaciones de mortalidad con respecto a la que sería la normal en una fecha determinada. Cuando hay una epidemia o una ola de calor, la mortalidad crece y MoMo lo detecta.</description>
+    </item>
+    
+    <item>
+      <title>El incentivo perverso</title>
+      <link>/2020/07/13/el-incentivo-perverso/</link>
+      <pubDate>Mon, 13 Jul 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/07/13/el-incentivo-perverso/</guid>
+      <description>Viene a cuenta de este tuit,
+https://twitter.com/Demografia_CSIC/status/1281931763888066560
+que hace referencia a este parrafito en el artículo enlazado:
+Existe un incentivo perverso en determinados organismos. Está todo dicho arriba, solo que tan educada y finamente que ni se nota. Más no puedo decir.</description>
+    </item>
+    
+    <item>
+      <title>53 (o, ¿cuál es la prior?)</title>
+      <link>/2020/06/09/53-o-cual-es-la-prior/</link>
+      <pubDate>Tue, 09 Jun 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/06/09/53-o-cual-es-la-prior/</guid>
+      <description>En la documentación técnica del estudio ENE-COVID19 (recuérdese: INE + ISCIII) se describe un estudio de fiabilidad previo del test rápido (sección A1.2) que se anuncia así:
+Veamos en qué consisten.
+Es decir, para la especificidad cuentan con 53 sujetos (sanos) de los cuales 1 ha dado positivo (que es la manera de decir en cristiano que la especificidad es del 98.1).
+Luego, en la documentación suceden cosas interesantísimas que no nos cuentan para acabar dando por buenos los siguientes números:</description>
+    </item>
+    
+    <item>
+      <title>Análisis (bayesiano) de pruebas con sensibilidad/especificidad desconocida</title>
+      <link>/2020/05/21/analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida/</link>
+      <pubDate>Thu, 21 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/21/analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida/</guid>
+      <description>Esto tiene que ver con lo del estudio ENECOVID, por supuesto.
+Esto tiene que ver con los ajustes que hay que realizar en los resultados por la menos que perfecta sensibilidad y especificidad.
+Porque no basta con lo que diga el prospecto de los kits chinos.
+Por eso es recomendable leer Bayesian analysis of tests with unknown specificity and sensitivity.
+Coda: Cuando era matemático y comencé a estudiar estadística, me llamaba mucho la atención (por no decir que me escandalizaba) la alegría con la que estimadores sujetos a error de un modelo se insertaban como verdad divina en otro.</description>
+    </item>
+    
+    <item>
+      <title>Un marco sobre el que reflexionar sobre el estudio de seroprevalencia ENECovid19</title>
+      <link>/2020/05/15/un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19/</link>
+      <pubDate>Fri, 15 May 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/05/15/un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19/</guid>
+      <description>El ISCIII ha publicado los resultados preliminares del estudio de seroprevalencia ENECovid19.
+Es bueno leerlo en paralelo a esto, donde se analiza un estudio similar (aunque más pequeño) realizado hace un tiempo.</description>
+    </item>
+    
+    <item>
+      <title>Defunciones: INE vs MoMo</title>
+      <link>/2020/04/21/defunciones-ine-vs-momo/</link>
+      <pubDate>Tue, 21 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/21/defunciones-ine-vs-momo/</guid>
+      <description>[Fe de errores: en varias secciones de lo que sigue se hace referencia a 2018 como año completo. En realidad, solo se están usando los datos de los trimestres 2, 3 y 4 de 2018, que es en los que hay solapamiento entre los datos del INE y de MoMo.]
+Es un error tomar las cifras de MoMo literalmente. Está explicado por doquier: MoMo no es el INE sino un sistema de alerta temprana por mortalidad.</description>
+    </item>
+    
+    <item>
+      <title>¿Deberían publicarse datos &#34;en beta&#34;?</title>
+      <link>/2020/04/09/deberian-publicarse-datos-en-beta/</link>
+      <pubDate>Thu, 09 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/09/deberian-publicarse-datos-en-beta/</guid>
+      <description>Cuando vivía en Tailandia solía decir sobre la cultura corporativa de ese país que daba igual que las cosas se hiciesen bien o mal con tal de que se hiciesen tarde.
+INE, CIS, ISCIII, etc., son un poco mejores: da igual que los datos se publiquen cuando ya no hacen falta con tal de que sean perfectos.
+La pregunta es: ¿deberían publicarse datos imperfectos y con caveats pronto?
+Nota: Eso ya se hace con indicadores importantes (véase esto).</description>
+    </item>
+    
+    <item>
+      <title>MoMo: una documentación oficiosa</title>
+      <link>/2020/04/08/momo-una-documentacion-oficiosa/</link>
+      <pubDate>Wed, 08 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/08/momo-una-documentacion-oficiosa/</guid>
+      <description>Estos días se habla de MoMo y por primera vez en quince años largos, el público está contemplando gráficas como
+que resumen lo más jugoso del sistema. MoMo (de monitorización de la mortalidad) es un sistema desarrollado por el ISCIII para seguir en tiempo casi real la evolución de la mortalidad en España.
+Utiliza como fuente de datos fundamental la procedente de los registros civiles informatizados, que son la práctica mayoría (aunque no todos: queda excluido ~5% de la población).</description>
+    </item>
+    
+    <item>
+      <title>Monitorización diaria de la mortalidad</title>
+      <link>/2020/03/12/monitorizacion-diaria-de-la-mortalidad/</link>
+      <pubDate>Thu, 12 Mar 2020 13:44:48 +0000</pubDate>
+      
+      <guid>/2020/03/12/monitorizacion-diaria-de-la-mortalidad/</guid>
+      <description>_[En esta entrada deambulo peligrosamente por los límites de un NDA; sin embargo, me siento obligado a exponerme a las posibles consecuencias debido a la gravedad de las circunstancias actuales.] _
+En España existe un mecanismo de monitorización de la mortalidad diaria por todas las causas. Su existencia no es explícitamente pública, pero sí que existen indicios implícitos de su existencia en informes de salud pública: véanse, p.e., referencias a MoMo y EuroMOMO aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

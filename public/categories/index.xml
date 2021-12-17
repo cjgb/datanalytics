@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on datanalytics</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>estadística</title>
+      <link>/categories/estad%C3%ADstica/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/estad%C3%ADstica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>números</title>
+      <link>/categories/n%C3%BAmeros/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/n%C3%BAmeros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libros</title>
+      <link>/categories/libros/</link>
+      <pubDate>Thu, 09 Dec 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/libros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gráficos</title>
+      <link>/categories/gr%C3%A1ficos/</link>
+      <pubDate>Thu, 02 Dec 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/gr%C3%A1ficos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>varios</title>
+      <link>/categories/varios/</link>
+      <pubDate>Thu, 25 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/varios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artículos</title>
+      <link>/categories/art%C3%ADculos/</link>
+      <pubDate>Tue, 16 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/art%C3%ADculos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>causalidad</title>
+      <link>/categories/causalidad/</link>
+      <pubDate>Thu, 11 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/causalidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mala ciencia</title>
+      <link>/categories/mala-ciencia/</link>
+      <pubDate>Thu, 11 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/mala-ciencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>/categories/youtube/</link>
+      <pubDate>Tue, 09 Nov 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>probabilidad</title>
+      <link>/categories/probabilidad/</link>
+      <pubDate>Fri, 05 Nov 2021 09:36:00 +0000</pubDate>
+      
+      <guid>/categories/probabilidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ciencia de datos</title>
+      <link>/categories/ciencia-de-datos/</link>
+      <pubDate>Thu, 07 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/ciencia-de-datos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computación</title>
+      <link>/categories/computaci%C3%B3n/</link>
+      <pubDate>Tue, 05 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/computaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>/categories/r/</link>
+      <pubDate>Tue, 21 Sep 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consultoría</title>
+      <link>/categories/consultor%C3%ADa/</link>
+      <pubDate>Wed, 07 Jul 2021 23:10:00 +0000</pubDate>
+      
+      <guid>/categories/consultor%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anuncios</title>
+      <link>/categories/anuncios/</link>
+      <pubDate>Sun, 20 Jun 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/anuncios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>charlas</title>
+      <link>/categories/charlas/</link>
+      <pubDate>Mon, 16 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/categories/charlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/categories/python/</link>
+      <pubDate>Thu, 04 Jun 2020 12:14:46 +0000</pubDate>
+      
+      <guid>/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cursos</title>
+      <link>/categories/cursos/</link>
+      <pubDate>Tue, 14 Jan 2020 14:17:00 +0000</pubDate>
+      
+      <guid>/categories/cursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>/categories/nlp/</link>
+      <pubDate>Fri, 22 Mar 2019 08:13:37 +0000</pubDate>
+      
+      <guid>/categories/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finanzas</title>
+      <link>/categories/finanzas/</link>
+      <pubDate>Wed, 26 Sep 2018 08:13:12 +0000</pubDate>
+      
+      <guid>/categories/finanzas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

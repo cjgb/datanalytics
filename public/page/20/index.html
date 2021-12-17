@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta name="generator" content="Hugo 0.81.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="asdf">
+		<meta property="og:title" content="datanalytics" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/19/k-vecinos-lmer/" rel="bookmark">
+			k-vecinos &#43; lmer
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-18T22:11:00Z">2020-3-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El de los k-vecinos es uno de mis métodos favoritos de modelización. Al menos, teóricamente: luego, en la práctica, es complicado construir una función de distancias decente. Pero tiene la ventaja indiscutible de ser tremendamente local: las predicciones para una observación concreta dependen únicamente de su entorno.
+[lme4::lmer](https://CRAN.R-project.org/package=lme4) (y sus derivados) es ya casi la lente a través de la que imagino cómo operan las variables dentro de un modelo. Desafortunadamente, es un modelo global y no gestiona particularmente bien las interacciones, cuando son muchas y complejas.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/18/lme4-simulate/" rel="bookmark">
+			lme4 &#43; simulate
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-18T09:13:00Z">2020-3-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Esta entrada es casi una referencia para mí. Cada vez tiro más de [lme4](https://CRAN.R-project.org/package=lme4) en mis modelos y en uno en concreto que tengo entre manos toca simular escenarios. Para lo cual, [simulate.merMod](https://www.rdocumentation.org/packages/lme4/versions/1.1-21/topics/simulate.merMod).
+Véamoslo en funcionamiento. Primero, datos (ANOVA-style) y el modelo que piden a gritos:
+library(plyr) library(lme4) a &lt;- c(0,0,0, -1, -1, 1, 1, -2, 2) factors &lt;- letters[1:length(a)] datos &lt;- ldply(1:100, function(i){ data.frame(x = factors, y = a + rnorm(length(a))) }) modelo &lt;- lmer(y ~ (1 | x), data = datos)  El resumen del modelo está niquelado:
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/" rel="bookmark">
+			Dos escenarios mutuamente incompatibles: extinción o cronificación
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-17T09:13:00Z">2020-3-17</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en china que llegaron a tener un número importante de casos,
+pero donde ya no quedan casos activos:
+El otro es el escenario RU: el virus va a seguir entre nosotros y todos, en algún momento u otro vamos a pasar por él (o, más propiamente, a la inversa).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/16/interacciones-y-seleccion-de-modelos/" rel="bookmark">
+			Interacciones y selección de modelos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-16T15:41:00Z">2020-3-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
+El modelo lineal clásico,
+$latex y \sim x_1 + x_2 + \dots$
+no tiene en cuenta las interacciones (aunque extensiones suyas, sí, por supuesto).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/15/la-causa-de-muerte-no-es-la-causa-de-muerte/" rel="bookmark">
+			La causa de muerte no es la causa de muerte
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-15T15:06:44Z">2020-3-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		[Este es un aviso para todos aquellos que depositan una excesiva fe en lo que nos cuenta el INE.]
+La causa de muerte no es la causa de muerte. Al menos, necesariamente. Lo que el INE llama causa de muerte es una imagen distorsionada de la causa de muerte por culpa de un embudo administrativo.
+Comiendo con unos epidemiólogos en el ISCIII hace un tiempo, me decían, con cierta envidia, cómo en otros países como Dinamarca, se registraban hasta ocho causas de muerte: la última, la concomitante, la&hellip; Y bromeaban diciendo que, al final, todos nos morimos de parada cardiorrespiratoria.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/14/piedrecitas-y-pepitas-de-oro/" rel="bookmark">
+			Piedrecitas y pepitas de oro
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-14T19:22:02Z">2020-3-14</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Este buscador de oro busca pepitas en su tramo de río. El río arrastra piedrecitas, muchas piedrecitas, y pepitas de oro, pocas pepitas de oro.
+Tiene un artilugio que toma barro del río y que hace lo siguiente:
+ Descarta casi todas las piedrecitas (y el resto las mete en una caja) * Detecta casi todas las pepitas (y las mete en la misma caja)  Al final del día, ¿qué encontrará en la caja?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/13/que-significa-para-los-politicos-responder-a-desastres-naturales-usando-la-evidencia-cientifica/" rel="bookmark">
+			¿Qué significa para los políticos responder a desastres naturales usando la &#34;evidencia científica&#34;?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-13T09:13:00Z">2020-3-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Existe una respuesta naive a la pregunta anterior que es la que tal vez en la que estéis pensando.
+Pero, ¡ah!, existe también otra ciencia, la política, que no lo es menos que otras, en las que la evidencia dice cosas tales como:
+Lo cual explica muchas, muchas cosas.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/12/monitorizacion-diaria-de-la-mortalidad/" rel="bookmark">
+			Monitorización diaria de la mortalidad
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-12T13:44:48Z">2020-3-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		_[En esta entrada deambulo peligrosamente por los límites de un NDA; sin embargo, me siento obligado a exponerme a las posibles consecuencias debido a la gravedad de las circunstancias actuales.] _
+En España existe un mecanismo de monitorización de la mortalidad diaria por todas las causas. Su existencia no es explícitamente pública, pero sí que existen indicios implícitos de su existencia en informes de salud pública: véanse, p.e., referencias a MoMo y EuroMOMO aquí.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/11/analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas/" rel="bookmark">
+			Análisis de la supervivencia cuando todas las observaciones están censuradas
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-11T09:13:00Z">2020-3-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/art%C3%ADculos/" rel="category">artículos</a>, <a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		_[Retomando un tema que dejé inconcluso y que tampoco remataré hoy aquí.] _
+Imagina que quieres saber cuánto le dura a la gente el portátil. Para eso preguntas por ahí cuándo se compraron el último.
+Lo que obtienes es un conjunto de datos donde todas las observaciones están censuradas. Y no, el análisis de la supervivencia clásico no funciona.
+Buscando en la literatura he encontrado, sin embargo, Survival Analysis of Backward Recurrence Times, donde se discute el problema y al que, bueno, otro día con menos penas volveré.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/10/seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r/" rel="bookmark">
+			Seguimiento de los nuevos casos diarios de coronavirus en «tiempo real» con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-10T18:23:28Z">2020-3-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El código usado en
+https://twitter.com/gilbellosta/status/1237443017663041537
+es
+library(reshape2) library(ggplot2) library(plyr) url &lt;- &quot;https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv&quot; cvirus &lt;- read.table(url, sep = &quot;,&quot;, header = T) cvirus$Lat &lt;- cvirus$Long &lt;- NULL cvirus$Province.State &lt;- NULL cvirus &lt;- melt(cvirus, id.vars = &quot;Country.Region&quot;) colnames(cvirus) &lt;- c(&quot;país&quot;, &quot;fecha&quot;, &quot;casos&quot;) cvirus$fecha &lt;- as.Date(as.character(cvirus$fecha), format = &quot;X%m.%d.%y&quot;) tmp &lt;- cvirus[cvirus$país %in% c(&quot;Italy&quot;, &quot;Spain&quot;, &quot;France&quot;, &quot;Germany&quot;, &quot;South Korea&quot;, &quot;UK&quot;),] foo &lt;- function(x){ x &lt;- x[order(x$fecha),] data.frame(fecha = x$fecha[-1], casos = diff(x$casos)) } res &lt;- ddply(tmp, .
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/10/mas-sobre-el-metodo-delta-propagate/" rel="bookmark">
+			Más sobre el &#34;método delta&#34;: propagate
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-10T09:13:00Z">2020-3-10</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Por referencia y afán de completar dos entradas que hice hace un tiempo sobre el método delta, esta y esta, dejo constar mención al paquete [propagate](https://CRAN.R-project.org/package=propagate), que contiene métodos para la propagación de la incertidumbre.
+Para desavisados: si $latex x \sim N(5,1)$ e $latex y \sim N(10,1)$, ¿cómo sería la distribución de $latex x/y$? Etc.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/09/seguimiento-del-coronavirus-en-tiempo-real-con-r/" rel="bookmark">
+			Seguimiento del coronavirus en &#34;tiempo real&#34; con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-09T14:26:00Z">2020-3-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Mi código (guarrongo) para seguir la evolución del coronavirus por país en cuasi-tiempo real:
+library(reshape2) library(ggplot2) url &lt;- &quot;https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv&quot; cvirus &lt;- read.table(url, sep = &quot;,&quot;, header = T) cvirus$Lat &lt;- cvirus$Long &lt;- NULL cvirus$Province.State &lt;- NULL cvirus &lt;- melt(cvirus, id.vars = &quot;Country.Region&quot;) colnames(cvirus) &lt;- c(&quot;país&quot;, &quot;fecha&quot;, &quot;casos&quot;) cvirus &lt;- cvirus[cvirus$país %in% c(&quot;Italy&quot;, &quot;Spain&quot;),] cvirus$fecha &lt;- as.Date(as.character(cvirus$fecha), format = &quot;X%m.%d.%y&quot;) ggplot(cvirus, aes(x = fecha, y = casos, col = país)) + geom_line() tmp &lt;- cvirus tmp$fecha[tmp$país == &quot;Spain&quot;] &lt;- tmp$fecha[tmp$país == &quot;Spain&quot;] - 9 ggplot(tmp, aes(x = fecha, y = casos, col = país)) + geom_line() tmp &lt;- tmp[tmp$fecha &gt; as.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2020/03/09/una-r-referencia-con-referencias-para-epidemiologos-circunstanciales/" rel="bookmark">
+			Una R-referencia con referencias para epidemiólogos circunstanciales
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-03-09T09:13:00Z">2020-3-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Lo del coronavirus nos ha convertido a todos en epidemiólogos circunstanciales. Casi ninguno de vosotros tenéis acceso a los datos necesarios para hacer cosas por vuestra cuenta, pero sí, tal vez gracias a esta entrada, las herramientas necesarias para ello.
+Podéis empezar por el paquete [survellance](https://CRAN.R-project.org/package=surveillance) de R, que implementa muchos de los métodos más modernos para la monitorización de brotes epidémicos.
+En particular, puede que os interese la función bodaDelay, intitulada Bayesian Outbreak Detection in the Presence of Reporting Delays, y que implementa una serie de métodos para estimar el número real de casos cuando las notificaciones de los positivos llegan tarde.
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/page/19/">«</a>
+	<span class="pagination__item pagination__item--current">20/161</span>
+	<a class="pagination__item pagination__item--next btn" href="/page/21/">»</a>
+</div>
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

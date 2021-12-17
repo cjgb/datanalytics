@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>euribor on datanalytics</title>
+    <link>/tags/euribor/</link>
+    <description>Recent content in euribor on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 03 Jan 2012 06:23:30 +0000</lastBuildDate><atom:link href="/tags/euribor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ingeniería fiscal para mi hipoteca: ¿vendo un futuro?</title>
+      <link>/2012/01/03/ingenieria-fiscal-para-mi-hipoteca-%c2%bfvendo-un-futuro/</link>
+      <pubDate>Tue, 03 Jan 2012 06:23:30 +0000</pubDate>
+      
+      <guid>/2012/01/03/ingenieria-fiscal-para-mi-hipoteca-%c2%bfvendo-un-futuro/</guid>
+      <description>Tengo una hipoteca. El tipo de interés que pago es el Euribor a 12 meses más un diferencial. He usado una calculadora de hipotecas y he descubierto que si el Euribor sube un 1%, mi cuota (anual, es decir, sumando los incrementos de los 12 meses) se incrementaría en 660 euros.
+Y me he preguntado: ¿existe algún producto financiero que me dé dinero si sube el Euribor? ¿Existe alguna manera de protegerme de una subida del índice?</description>
+    </item>
+    
+  </channel>
+</rss>

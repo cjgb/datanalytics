@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nadaesgratis on datanalytics</title>
+    <link>/tags/nadaesgratis/</link>
+    <description>Recent content in nadaesgratis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 31 Jan 2018 13:01:21 +0000</lastBuildDate><atom:link href="/tags/nadaesgratis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mortalidad y tramos de edad gordotes</title>
+      <link>/2018/01/31/mortalidad-y-tramos-de-edad-gordotes/</link>
+      <pubDate>Wed, 31 Jan 2018 13:01:21 +0000</pubDate>
+      
+      <guid>/2018/01/31/mortalidad-y-tramos-de-edad-gordotes/</guid>
+      <description>Cuando se estudia la mortalidad, hay que tener cuidado con los tramos de edad considerados. Véase, por ejemplo, esto, que se resume en un &amp;ldquo;tenemos que ajustar el incremento de la edad media en la categoría de las personas en el rango de edad comprendido entre los 45 y los 54 años [para evitar meter la pata mucho]&amp;rdquo;.
+Sí, incluso trabajando con rangos de edad tan estrechos, hay problemas de heterogeneidad que pueden dar lugar a resultados espurios.</description>
+    </item>
+    
+    <item>
+      <title>Un gráfico engañabobos</title>
+      <link>/2011/01/31/un-grafico-enganabobos/</link>
+      <pubDate>Mon, 31 Jan 2011 22:38:11 +0000</pubDate>
+      
+      <guid>/2011/01/31/un-grafico-enganabobos/</guid>
+      <description>Hay un blog que sigo con cierto interés. Es un blog de economía, algo en lo que soy, cuando más, un diletante. Por eso lo leo con mucho cuidado: no quiero que me engañen como a las abuelas con el cambio cuando van al mercado. Además, los economistas, a diferencia de estadísticos, matemáticos, y otras especies análogas, son o de izquierdas o de derechas y siempre tratan de arrimar el ascua a su sardina.</description>
+    </item>
+    
+  </channel>
+</rss>

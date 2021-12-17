@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hdf5 on datanalytics</title>
+    <link>/tags/hdf5/</link>
+    <description>Recent content in hdf5 on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 10 Mar 2011 09:25:23 +0000</lastBuildDate><atom:link href="/tags/hdf5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R, HDF5 y bases de datos orientadas a columnas</title>
+      <link>/2011/03/10/r-hdf5-y-bases-de-datos-orientadas-a-columnas/</link>
+      <pubDate>Thu, 10 Mar 2011 09:25:23 +0000</pubDate>
+      
+      <guid>/2011/03/10/r-hdf5-y-bases-de-datos-orientadas-a-columnas/</guid>
+      <description>Tras escribir el otro día sobre RevoscaleR, he tropezado con un paquete de R, HDF5 que le permite hacer cosas parecidas usando tecnologías libres. Puede encontrarse más información sobre HDF5 en la Wikipedia y en la página del proyecto.
+
+De todos modos, y como dejé escrito como respuesta a un comentario en la entrada que indico más arriba, una solución definitiva al problema del análisis de conjuntos de datos grandes con R podría venir de la mano de una integración adecuada con un gestor de bases de datos orientado a columnas.</description>
+    </item>
+    
+  </channel>
+</rss>

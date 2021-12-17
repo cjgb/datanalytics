@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gelman on datanalytics</title>
+    <link>/tags/gelman/</link>
+    <description>Recent content in gelman on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 06 Feb 2019 08:13:06 +0000</lastBuildDate><atom:link href="/tags/gelman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Cocinas electorales&#34; con encuestas muy sesgadas</title>
+      <link>/2019/02/06/cocinas-electorales-con-encuestas-muy-sesgadas/</link>
+      <pubDate>Wed, 06 Feb 2019 08:13:06 +0000</pubDate>
+      
+      <guid>/2019/02/06/cocinas-electorales-con-encuestas-muy-sesgadas/</guid>
+      <description>Muchos hablan de las cocinas de la que salen los resultados de las encuestas electorales pero pocos las han visto. ¿Qué ocurre en ellas y qué problemas tratan de resolver? Lee Forecasting elections with non-representative polls y lo verás (bien hecho, no a lo Tezanos el Metodólogo).</description>
+    </item>
+    
+    <item>
+      <title>Los tres retos de la inferencia estadística</title>
+      <link>/2018/10/17/los-tres-retos-de-la-inferencia-estadistica/</link>
+      <pubDate>Wed, 17 Oct 2018 08:13:26 +0000</pubDate>
+      
+      <guid>/2018/10/17/los-tres-retos-de-la-inferencia-estadistica/</guid>
+      <description>Según Gelman son:
+ 1. Generalizar de muestra a población (o de pasado a futuro). 2. Generalizar de grupo de control a grupo de tratamiento (relacionado con el asunto de la causalidad). 3. Generalizar a partir de los indicadores observados a los parámetros de interés.  Dos de ellos, el primero y el tercero, son del máximo interés para el CIS, pero ¡ea, ea, ea, Tezanos no se entera!</description>
+    </item>
+    
+    <item>
+      <title>Tres de seis consejos para mejorar las regresiones</title>
+      <link>/2017/10/24/tres-de-seis-consejos-para-mejorar-las-regresiones/</link>
+      <pubDate>Tue, 24 Oct 2017 08:13:40 +0000</pubDate>
+      
+      <guid>/2017/10/24/tres-de-seis-consejos-para-mejorar-las-regresiones/</guid>
+      <description>Por si alguien se lo perdió, están aquí. De los seis, mencionaré tres que me están resultando muy útiles en un proyecto actual.
+De todos ellos, el que más a rajatabla sigo es el primero: ajustar muchos modelos. Pudiera parecer trampa: buscar y rebuscar por si sale algo. Sin embargo, es una técnica que plantearse como una manera de familiarizarse y aprender la estructura de los datos. Los modelos (explicativos, como los que justifican esta entrada) no dejan de ser resúmenes de conjuntos de datos y no es sino ajustando diversos modelos que uno aprende si, por ejemplo, un coeficiente varía por año o provincia.</description>
+    </item>
+    
+  </channel>
+</rss>

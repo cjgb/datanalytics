@@ -1,0 +1,23 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2011-04-15 07:29:57+00:00
+draft: false
+title: Canadá 1 - EE.UU. 0
+
+url: /2011/04/15/canada-1-ee-uu-0/
+categories:
+- números
+tags:
+- números
+---
+
+Desde esta bitácora hemos seguido siempre con suma atención las iniciativas públicas de diseminación de datos. Tal vez por ver si cunde el ejemplo en nuestras latitudes.
+
+Al rol de gobiernos concienciados en la importancia de contar con un portal desde el que centralizar esta fundamentalísima función democrática se ha sumado recientemente [Canadá](http://www.data.gc.ca), que ha seguido los pasos de su [metrópoli ](http://data.gov.uk/).
+
+[![](/wp-uploads/2011/04/logo.png)
+](/wp-uploads/2011/04/logo.png)
+
+Sin embargo, es triste tener que dar noticia en estas páginas de que uno de los proyectos más sólidos y de mayor alcance está en peligro: menos de 10 centavos de dólar cuesta a cada estadounidense su [data.gov](http://www.data.gov/) y aun así va a caer víctima de los recortes presupuestarios. Es difícil abundar en el tema sin realizar valoraciones políticas (a las que esta bitácora quiere mantenerse ajena).
+
+Y en lo que más nos concierne, ¿para cuándo `datos.gob.es`?

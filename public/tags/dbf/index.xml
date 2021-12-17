@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dbf on datanalytics</title>
+    <link>/tags/dbf/</link>
+    <description>Recent content in dbf on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Nov 2017 08:13:55 +0000</lastBuildDate><atom:link href="/tags/dbf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dbf · xlsx · pdf</title>
+      <link>/2017/11/24/dbf-xlsx-pdf/</link>
+      <pubDate>Fri, 24 Nov 2017 08:13:55 +0000</pubDate>
+      
+      <guid>/2017/11/24/dbf-xlsx-pdf/</guid>
+      <description>Me escriben pidiendo consejo sobre cómo leer datos contenidos en (una serie larga de) ficheros en formatos .dbf, .xlsx (con un formato extraño) y .pdf.
+.dbf
+No tengo ni curiosidad por averiguar de dónde proceden. Simplemente,
+ library(foreign) res &amp;lt;-read.dbf(&amp;quot;R0010.DBF&amp;quot;)  funciona de maravilla.
+.xlsx
+Estos sí que sé de dónde vienen (y me guardo la opinión). El problema aquí no era leer directamente tablas contenidas en hojas sino ir extrayendo celdas y rangos de hojas.</description>
+    </item>
+    
+  </channel>
+</rss>

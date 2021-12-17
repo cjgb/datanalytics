@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>json on datanalytics</title>
+    <link>/tags/json/</link>
+    <description>Recent content in json on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 20 May 2016 08:13:54 +0000</lastBuildDate><atom:link href="/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Descarga de datos del Ibex 35 (¿y otros?) minuto a minuto en tiempo (casi) real</title>
+      <link>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</link>
+      <pubDate>Fri, 20 May 2016 08:13:54 +0000</pubDate>
+      
+      <guid>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</guid>
+      <description>El código es
+library(httr) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) base.url &amp;lt;- &amp;quot;http://www.infobolsa.es/1/wtdb/ChartIntraday&amp;quot; res &amp;lt;- POST(base.url, body = list(mv = &amp;quot;M SAN&amp;quot;, date = &amp;quot;20160518&amp;quot;, compressionMult = 1, isSession = 1)) dat &amp;lt;- content(res, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/methods/as&amp;quot;&amp;gt;as = &amp;quot;parsed&amp;quot;, type = &amp;quot;application/json&amp;quot;) dat &amp;lt;- dat$answer$LST$TV$T09 dat &amp;lt;- ldply(dat, unlist)  Los mutatis mutandis, si alguien tiene la gentileza, en los comentarios.</description>
+    </item>
+    
+    <item>
+      <title>Sutilezas de las licencias libres</title>
+      <link>/2016/03/07/sutilezas-de-las-licencias-libres/</link>
+      <pubDate>Mon, 07 Mar 2016 09:13:12 +0000</pubDate>
+      
+      <guid>/2016/03/07/sutilezas-de-las-licencias-libres/</guid>
+      <description>Leyendo por ahí, he encontrado un comentario sobre el paquete RJSONIO de R en el que se recomendaba no usarlo por no ser libre.
+El paquete, aparentemente, está liberado bajo una licencia BSD. Pero su pecado es que dentro de uno de los ficheros que contiene, src/JSON_parser.c, dice
+Más información, aquí.
+No sé qué pensar sobre toda esta historia.</description>
+    </item>
+    
+  </channel>
+</rss>

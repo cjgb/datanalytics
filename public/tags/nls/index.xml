@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nls on datanalytics</title>
+    <link>/tags/nls/</link>
+    <description>Recent content in nls on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Oct 2017 08:13:52 +0000</lastBuildDate><atom:link href="/tags/nls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nls con odes</title>
+      <link>/2017/10/30/nls-con-odes/</link>
+      <pubDate>Mon, 30 Oct 2017 08:13:52 +0000</pubDate>
+      
+      <guid>/2017/10/30/nls-con-odes/</guid>
+      <description>Más sobre secuencia de entradas acerca de ajustes no lineales. Con (casi) los mismos datos que entonces:
+set.seed(155) n &amp;lt;- 100 a &amp;lt;- 1 b &amp;lt;- -1/2 sigma &amp;lt;- 0.1 x &amp;lt;- runif(n, -1, 1) y &amp;lt;- exp(a * x + b) + rnorm(n, 0, sigma) dat &amp;lt;- data.frame(x, y)  Las y proceden de las x a través de una función no lineal exp(a * x + b). Que hoy supondremos desconocida.</description>
+    </item>
+    
+    <item>
+      <title>Modelos directos, inversos y en los que tanto da</title>
+      <link>/2017/10/23/modelos-directos-inversos-y-en-los-que-tanto-da/</link>
+      <pubDate>Mon, 23 Oct 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/10/23/modelos-directos-inversos-y-en-los-que-tanto-da/</guid>
+      <description>Continúo con esto que concluí con una discusión que me negué a resolver sobre la geometría de los errores.
+Que es la manera de entender que los problemas directos e inversos no son exactamente el mismo. Digamos que no es una medida invariante frente a reflexiones del plano (que es lo que hacemos realmente al considerar el modelo inverso).
+¿Pero y si medimos la distancia (ortogonal) entre los puntos $latex (x,y)$ y la curva $latex y = f(x)$ (o, equivalentemente, $latex x = f^{-1}(x)$)?</description>
+    </item>
+    
+    <item>
+      <title>Hoy, como excepción, gritaré y justificaré: ¡Malditos logaritmos!</title>
+      <link>/2017/06/29/hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos/</link>
+      <pubDate>Thu, 29 Jun 2017 08:13:36 +0000</pubDate>
+      
+      <guid>/2017/06/29/hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos/</guid>
+      <description>Dados unos números positivos hay que justificar por que no tomar logaritmos y no al revés. La carga de la prueba recae sobre quien no lo hace.
+No obstante:
+Tenía unos datos (para cada $latex t$) que siguen (me lo juran) un modelo teórico
+$latex \log y \sim k \exp(-at)$
+Existen dos opciones para encontrar los parámetros deseados $latex k$ y $latex a$. El primero, tomando logaritmos y aplicando lm. El segundo, ajustando un modelo no lineal con, p.</description>
+    </item>
+    
+  </channel>
+</rss>

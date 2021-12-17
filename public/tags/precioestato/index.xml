@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>precioestato on datanalytics</title>
+    <link>/tags/precioestato/</link>
+    <description>Recent content in precioestato on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Apr 2014 07:39:14 +0000</lastBuildDate><atom:link href="/tags/precioestato/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menos econometría y más precioestatos</title>
+      <link>/2014/04/16/menos-econometria-y-mas-precioestatos/</link>
+      <pubDate>Wed, 16 Apr 2014 07:39:14 +0000</pubDate>
+      
+      <guid>/2014/04/16/menos-econometria-y-mas-precioestatos/</guid>
+      <description>¿Será necesario un doctorado en econometría para poner una lavadora? Con eso ironiza el autor de El nuevo sistema de precios para la electricidad (I): Entre la tarifa gusiluz y la tarifa batamanta.
+Os cuento el contexto.
+Al parecer, a partir de cierta fecha no muy remota, el precio de la electricidad en España variará de acuerdo con el precio en el mercado de generación y, por lo tanto, según la hora.</description>
+    </item>
+    
+  </channel>
+</rss>

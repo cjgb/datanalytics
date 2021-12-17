@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ltv on datanalytics</title>
+    <link>/tags/ltv/</link>
+    <description>Recent content in ltv on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 Jul 2019 09:13:00 +0000</lastBuildDate><atom:link href="/tags/ltv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abundando en la discusión sobre matemáticas y/o informática</title>
+      <link>/2019/07/16/abundando-en-la-discusion-sobre-matematicas-y-o-informatica/</link>
+      <pubDate>Tue, 16 Jul 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/07/16/abundando-en-la-discusion-sobre-matematicas-y-o-informatica/</guid>
+      <description>Voy a abundar sobre la entrada de hace unos días, ¿Informática o matemáticas?, una pregunta muy mal planteada, mostrando simplemente un ejemplo del tipo de cosas que se espera de los matemáticos y/o estadísticos cuando trabajan en ciencia de datos y para las cuales los informáticos no están particularmente mejor entrenados (de serie) que otras especies faunísticas.
+Es este.
+¿Cosas sobre las que podría hacer comentarios? Por ejemplo:
+ Tampoco sé si el matemático o estadístico promedio podría desenvolverse con mediana soltura con ese tipo de modelos.</description>
+    </item>
+    
+  </channel>
+</rss>

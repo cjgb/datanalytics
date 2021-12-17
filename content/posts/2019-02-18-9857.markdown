@@ -1,0 +1,105 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2019-02-18 08:13:43+00:00
+draft: false
+title: 'vecpart: modelización de moderadores con árboles'
+
+url: /2019/02/18/9857/
+categories:
+- estadística
+- r
+tags:
+- paquetes
+- party
+- r
+- vcrpart
+---
+
+
+
+
+En un GLM (aún más generalizado que la G de las siglas) puede haber coeficientes _moderados_. Usando una terminología muy _ad hoc_, en el modelo  pueden entrar _predictores_ y _moderadores_. Lo cual quiere decir que la parte _lineal_ puede ser de la forma
+
+
+
+
+
+
+
+$latex \sum_i X_i \beta_i(Z_i),$
+
+
+
+
+
+
+
+donde las $latex X_i$ son los predictores propiamente dichos y las variables $latex Z_i$ son moderadoras, es decir, que modifican el efecto de los predictores a través de una función arbitraria $latex \beta_i$.
+
+
+
+
+
+
+
+Un ejemplo: el efecto del colesterol puede depender de la edad del paciente.
+
+
+
+
+
+
+
+Este tipo de efectos se pueden modelar vía interacciones. O con _splines_. O con _kernels_. (Más abajo hay una referencia con referencias).
+
+
+
+
+
+
+
+Pero también, ¿por qué no?, con árboles. Eso hace el paquete `[vcrpart](https://CRAN.R-project.org/package=vcrpart)` de R. Con él, uno puede decirle al modelo: tal variable depende de estas otras y créame el típico árbol (al estilo de `ctree` o `mob` en `[party](https://CRAN.R-project.org/package=party)`) que aproxime la relación funcional. Lo que permite estudiar muy concretamente el efecto de los moderadores en el impacto de una variable, etc.
+
+
+
+
+
+
+
+Como abrebocas,
+
+
+
+
+
+
+
+![](/wp-uploads/2019/02/vrcpart.png)
+
+
+
+
+
+
+
+
+que describe la manera en que el departamento _modera_ el coeficiente del sexo en el famoso [conjunto de datos de las admisiones de Berkeley](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/UCBAdmissions.html). (Sí, ya sé que lo mismo se puede hacer con interacciones de toda la vida pero... ¿no es cómodo que el algoritmo ya encuentre no significativamente distintos los coeficientes relativos a los departamentos B, C, D y F?).
+
+
+
+
+
+
+
+Y la cosa completa, junto con las referencias arriba prometidas, en _[Coefficient-Wise Tree-Based Varying Coefficient Regression with vcrpart](https://www.jstatsoft.org/article/view/v080i06)_.
+
+
+
+
+
+
+
+**Nota:** ¿no es todo esto tremendamente parecido a los modelos jerárquicos?
+
+
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anonimidad on datanalytics</title>
+    <link>/tags/anonimidad/</link>
+    <description>Recent content in anonimidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 27 Aug 2019 09:13:40 +0000</lastBuildDate><atom:link href="/tags/anonimidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre la anonimidad y reidentificación en ficheros de microdatos</title>
+      <link>/2019/08/27/mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos/</link>
+      <pubDate>Tue, 27 Aug 2019 09:13:40 +0000</pubDate>
+      
+      <guid>/2019/08/27/mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos/</guid>
+      <description>Ha tenido cierta repercusión durante el verano el articulo Estimating the success of re-identifications in incomplete datasets using generative models, del que se han publicado resúmenes tales como Bastan tres datos para identificar a cualquiera en una base anónima. Cosa sobradamene conocida desde hace la tira.
+De hecho, se ha publicado esta herramienta para conocer tu riesgo de ser reidentificado, caso de que vivas en EEUU o el RU.
+¿Y si vives en España?</description>
+    </item>
+    
+    <item>
+      <title>Un generador de datos sintéticos para proteger la privacidad de los microdatados</title>
+      <link>/2018/05/23/un-generador-de-datos-sinteticos-para-proteger-la-privacidad-de-los-microdatados/</link>
+      <pubDate>Wed, 23 May 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/05/23/un-generador-de-datos-sinteticos-para-proteger-la-privacidad-de-los-microdatados/</guid>
+      <description>DataSynthesizer (véase también el correspondiente artículo) es un programa en Python que:
+ 1. Toma una tabla de datos (microdatos, de hecho) que contiene información confidencial. 2. Genera otra _aleatoria_ pero que conserva (¿los conservará?) la estructura básica de la información subyacente (conteos, correlaciones, etc.).  Está pensado para poder realizar el análisis estadístico de (determinados) datos sin verlos propiamente.
+Particularmente interesante es el algoritmo para preservar la correlación entre columnas.</description>
+    </item>
+    
+    <item>
+      <title>Sobre lo de Cambridge Analytica</title>
+      <link>/2018/04/02/sobre-lo-de-cambridge-analytica/</link>
+      <pubDate>Mon, 02 Apr 2018 08:13:24 +0000</pubDate>
+      
+      <guid>/2018/04/02/sobre-lo-de-cambridge-analytica/</guid>
+      <description>Ni de lejos mi tema favorito. De todo este tinglado de la práctica comercial de la ciencia de datos, lo que tiene como sujetos a sujetos de carne y hueso es lo que menos me atrae. No quiero saber nada sobre escarbar en Twitter, Facebook o Linkedin. Me aburre soberanamente todo lo relativo a las leyes de protección de datos y trato en la medida de lo posible mantenerme al margen de discusiones sobre privacidad, big data y similares, que son puros contrastes de ocurrencias.</description>
+    </item>
+    
+    <item>
+      <title>Lecturas recomendadas: sobre la anonimización de currículos y su impacto en la &#34;diversidad&#34;</title>
+      <link>/2018/01/15/lecturas-recomendadas-sobre-la-anonimizacion-de-curriculos-y-su-impacto-en-la-diversidad/</link>
+      <pubDate>Mon, 15 Jan 2018 08:13:07 +0000</pubDate>
+      
+      <guid>/2018/01/15/lecturas-recomendadas-sobre-la-anonimizacion-de-curriculos-y-su-impacto-en-la-diversidad/</guid>
+      <description>Recomiendo la lectura de Going blind to see more clearly: unconscious bias in Australian Public Service shortlisting processes por varios motivos.
+El primero, porque es el producto de un equipo de trabajo de una naturaleza inaudita en nuestras latitudes: el grupo de trabajo de economía conductual del gobierno australiano. Seguro que hacen cosas muy interesantes.
+Segundo, porque es un ejemplo estupendo de cómo se describe un experimento estadístico: planteamiento, resultados, etc.</description>
+    </item>
+    
+    <item>
+      <title>Anonimidad en ficheros de microdatos: un estudio en el contexto español</title>
+      <link>/2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/</link>
+      <pubDate>Wed, 06 Feb 2013 07:49:29 +0000</pubDate>
+      
+      <guid>/2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/</guid>
+      <description>Estos días ha salido publicado un artículo mío, Microdata and k-anonymity: a quantitative approach in the Spanish context en la Revista BEIO. Trata de algunos temas de los que ya nos hemos ocupado antes en estas páginas: la anonimidad que cabe esperar en ficheros de microdatos. Y, en este caso, cuando hacen referencia a personas que viven en España.
+Supongamos que se hacen públicos unos ficheros de datos en los que se han eliminado los identificadores (nombre, DNI, etc.</description>
+    </item>
+    
+    <item>
+      <title>Ley de Transparencia y anonimidad en ficheros de microdatos (II)</title>
+      <link>/2012/10/04/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii/</link>
+      <pubDate>Thu, 04 Oct 2012 07:25:04 +0000</pubDate>
+      
+      <guid>/2012/10/04/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii/</guid>
+      <description>Escribí hace un tiempo sobre el asunto de la transparencia y la privacidad y quiero retomar el tema. Comienzo reafirmando mi preferencia por y compromiso con la causa de la transparencia en las administraciones públicas, fe de lo cual da esta misma bitácora. Pero la serendipia me ha llevado a tropezar con un ciertas circunstancias que han sembrado de matices mi inicial entusiasmo. No son insalvables, convengo. Pero me siento en la obligación de, cuando menos —y, pensando que pueden no ser de universal conocimiento— dejar constancia escrita de ellas.</description>
+    </item>
+    
+    <item>
+      <title>Ley de Transparencia y anonimidad en ficheros de microdatos</title>
+      <link>/2011/10/06/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos/</link>
+      <pubDate>Thu, 06 Oct 2011 07:37:36 +0000</pubDate>
+      
+      <guid>/2011/10/06/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos/</guid>
+      <description>El adelanto electoral puede afectar el debate y aprobación de una ley largamente anunciada, la Ley de Transparencia.
+Se trata de una ley que daría derecho a los ciudadanos a obtener datos que obren en poder de (determinados organismos de la) administración del Estado bajo criterios amplios. Ha existido una propuesta inicial del PSOE y otra —considerada superior por los partidarios de los datos abiertos— del PP. Ahora habrá que esperar a la siguiente legislatura, parece ser.</description>
+    </item>
+    
+    <item>
+      <title>Anonimidad y cantidad de información</title>
+      <link>/2011/09/22/anonimidad-y-cantidad-de-informacion/</link>
+      <pubDate>Thu, 22 Sep 2011 07:10:32 +0000</pubDate>
+      
+      <guid>/2011/09/22/anonimidad-y-cantidad-de-informacion/</guid>
+      <description>Juguemos a un juego: pienso el nombre de uno de los 45M de ciudadanos españoles y tenéis que acertarlo. Me podéis hacer preguntas, pero sólo de esas cuya respuesta es sí o no. ¿Cuántas preguntas deberíais hacerme?
+Pues unas 25 o 26 porque $latex log_2 4.5e7 = 25.42$. La demostración es sencilla: suponed que tenéis una lista con los nombres de todos los ciudadanos (a razón de 45 por hoja y 200 hojas por tomo, ocuparían 5000 de ellos).</description>
+    </item>
+    
+  </channel>
+</rss>

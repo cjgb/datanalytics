@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macros on datanalytics</title>
+    <link>/tags/macros/</link>
+    <description>Recent content in macros on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 16 Jan 2014 08:31:50 +0000</lastBuildDate><atom:link href="/tags/macros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macros sintácticas con R</title>
+      <link>/2014/01/16/macros-sintacticas-con-r/</link>
+      <pubDate>Thu, 16 Jan 2014 08:31:50 +0000</pubDate>
+      
+      <guid>/2014/01/16/macros-sintacticas-con-r/</guid>
+      <description>Creo que muchos hemos tropezado con las macros alguna vez. Yo conocía las del preprocesador de C o el tinglado que tiene SAS. Y nunca fui muy amigo de ellas.
+Pero el otro día leí Stop Writing JavaScript Compilers! Make Macros Instead y se me alargaron los dientes. Así que he buscado información adicional hasta hacerme una idea de la diferencia entre una macro que se limita a reemplazar texto, una macro procedural —como las del lenguaje PL/I, antecesor e inspirador de SAS— y las sintácticas, como las que tiene Lisp (¿cuándo tendré tiempo para aprenderlo en condiciones?</description>
+    </item>
+    
+  </channel>
+</rss>

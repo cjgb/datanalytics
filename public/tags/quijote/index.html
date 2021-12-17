@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>quijote - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="quijote" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/quijote/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/quijote/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">quijote</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2018/01/29/donde-estan-las-letras/" rel="bookmark">
+			Dónde están las letras
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-01-29T08:13:53Z">2018-1-29</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/nlp/" rel="category">nlp</a>, <a class="meta__link" href="/categories/varios/" rel="category">varios</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Inspirado en esto construí
+usando como texto el Quijote y como código una versión mucho más simple y limpia que (aunque inspirado en) la del enlace original:
+library(stringr) library(plyr) library(ggplot2) raw &lt;- readLines(&quot;http://www.gutenberg.org/cache/epub/2000/pg2000.txt&quot;) # limpieza de encabezamientos textfile &lt;- raw[-(1:36)] textfile &lt;- text[1:which(text == &quot;Fin&quot;)] # en una única cadena textfile &lt;- paste(textfile, collapse= &quot; &quot;) # limpieza textfile &lt;- str_to_lower(textfile) textfile &lt;- str_replace_all(textfile, &quot;[[:punct:]]|[[:digit:]]&quot;, &quot; &quot;) # selección de palabras words &lt;- unique(unlist(str_split(textfile, &quot; &quot;))) words &lt;- words[words !
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2014/12/11/donde-estan-aquellos-caballeros-andantes/" rel="bookmark">
+			¿Dónde están aquellos caballeros andantes?
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-12-11T07:13:00Z">2014-12-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/nlp/" rel="category">nlp</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Pues precedidos del mi favorito de todos ellos, Felixmarte de Hircania, el del desnudo brazo, en
+
+dentro del texto del Quijote. El código para obtener el gráfico anterior es
+library(qdap) quijote.raw &lt;- readLines(&quot;http://www.gutenberg.org/cache/epub/2000/pg2000.txt&quot;, encoding = &quot;utf8&quot;) # es posible que necesites esto en Windows: quijote &lt;- iconv(quijote.raw, from = &quot;utf8&quot;, to = &quot;latin1&quot;) quijote &lt;- quijote[-(1:36)] quijote &lt;- quijote[-(37453:length(quijote))] dispersion_plot(quijote, c(&quot;felixmarte&quot;, &quot;amadís&quot;, &quot;leandís&quot;, &quot;bencimarte&quot;, &quot;palmerín&quot;, &quot;olivante&quot;, &quot;tirante&quot;, &quot;belianís&quot;, &quot;gironcilio&quot;, &quot;lisuarte&quot;, &quot;esplandián&quot;, &quot;roldán&quot;, &quot;rodamonte&quot;, &quot;florimorte&quot;, &quot;platir&quot;, &quot;tablante&quot;))  Tenéis permiso mío para buscar otros términos en otros textos y ver qué pinta tiene la distribución.
+	</div>
+</article>
+</main>
+
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

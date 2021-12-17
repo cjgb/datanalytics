@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outer on datanalytics</title>
+    <link>/tags/outer/</link>
+    <description>Recent content in outer on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Feb 2015 08:13:35 +0000</lastBuildDate><atom:link href="/tags/outer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todos contra todos</title>
+      <link>/2015/02/25/todos-contra-todos/</link>
+      <pubDate>Wed, 25 Feb 2015 08:13:35 +0000</pubDate>
+      
+      <guid>/2015/02/25/todos-contra-todos/</guid>
+      <description>¿Cómo se suman los cuadrados de un vector de números en un paradigma tradicional de programación? Se crea un bucle que lo recorre y que guarda las sumas parciales en un acumulador. Sumamente económico en términos de memoria: apenas consume unos pocos bytes en la pila. La versión funcional de la cosa se parece más a sum(x^2), que implica generar un vector de cuadrados y dilapidar memoria.
+Así las cosas, en C uno tiende a recorrer y construir resultados parciales.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spss on datanalytics</title>
+    <link>/tags/spss/</link>
+    <description>Recent content in spss on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 10 Oct 2016 08:13:32 +0000</lastBuildDate><atom:link href="/tags/spss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acabo de subir una petición a change.org para que el CIS publique sus microdatos en formato reutilizable</title>
+      <link>/2016/10/10/acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable/</link>
+      <pubDate>Mon, 10 Oct 2016 08:13:32 +0000</pubDate>
+      
+      <guid>/2016/10/10/acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable/</guid>
+      <description>Pues lo que digo en el título. La petición, que se autoexplica, es esta, tiene que ver con esto y si la firmas estarás contribuyendo a un buen fin.</description>
+    </item>
+    
+    <item>
+      <title>IBM sobre Excel como herramienta estadística</title>
+      <link>/2011/12/26/ibm-sobre-excel-como-herramienta-estadistica/</link>
+      <pubDate>Mon, 26 Dec 2011 07:23:13 +0000</pubDate>
+      
+      <guid>/2011/12/26/ibm-sobre-excel-como-herramienta-estadistica/</guid>
+      <description>Hemos tratado el tema previamente en entradas como esta o esta. Pero es ahora IBM el que abunda en el tema mediante la publicación de un documento, The Risks of Using Spreadsheets for Statistical Analysis, cuyo nombre lo dice, poco más o menos, todo.
+Cierto que el documento tiene como objetivo promover el uso de SPSS como alternativa y de ello se ocupa largamente su segunda mitad. Por eso es la primera la más relevante para mis lectores.</description>
+    </item>
+    
+  </channel>
+</rss>

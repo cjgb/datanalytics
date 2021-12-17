@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>berkson on datanalytics</title>
+    <link>/tags/berkson/</link>
+    <description>Recent content in berkson on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 12 Jun 2019 09:13:26 +0000</lastBuildDate><atom:link href="/tags/berkson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La &#34;paradoja&#34; de Berkson</title>
+      <link>/2019/06/12/la-paradoja-de-berkson-2/</link>
+      <pubDate>Wed, 12 Jun 2019 09:13:26 +0000</pubDate>
+      
+      <guid>/2019/06/12/la-paradoja-de-berkson-2/</guid>
+      <description> a: eres listo * b: has estudiao * c: la nota del examen  Se supone que a y b son independientes. Pero conocido c, dejan de serlo (saber que eres listo y que has suspendido nos dice que&amp;hellip;).
+Bergson:
+ a y b son eventos independientes * c es a $latex \cup$ b  </description>
+    </item>
+    
+  </channel>
+</rss>

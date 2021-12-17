@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>padrón on datanalytics</title>
+    <link>/tags/padr%C3%B3n/</link>
+    <description>Recent content in padrón on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 22 Mar 2018 08:13:19 +0000</lastBuildDate><atom:link href="/tags/padr%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Población: el padrón y la otra cosa</title>
+      <link>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</link>
+      <pubDate>Thu, 22 Mar 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</guid>
+      <description>En un proyecto necesitábamos cifras de población por provincias durante los últimos años. Así que usamos los datos del padrón proporcionados por el INE (el INE es guay; AEMET es kk). Pero alguien nos dijo que era mejor usar los otros datos de población, los nosequé (sí, las estimaciones intercensales, si es que se llaman así) porque eran más mejores.
+El padrón es un registro administrativo. Lo otro es algo soportado por lo que yo llamo método y el resto de la humanidad, metodología.</description>
+    </item>
+    
+  </channel>
+</rss>

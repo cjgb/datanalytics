@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beta on datanalytics</title>
+    <link>/tags/beta/</link>
+    <description>Recent content in beta on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Jul 2019 09:13:14 +0000</lastBuildDate><atom:link href="/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué demonios le ha pasado a la página de la distribución beta en la Wikipedia?</title>
+      <link>/2019/07/18/que-demonios-le-ha-pasado-a-la-pagina-de-la-distribucion-beta-en-la-wikipedia/</link>
+      <pubDate>Thu, 18 Jul 2019 09:13:14 +0000</pubDate>
+      
+      <guid>/2019/07/18/que-demonios-le-ha-pasado-a-la-pagina-de-la-distribucion-beta-en-la-wikipedia/</guid>
+      <description>Era como
+y se ha convertido en
+¡Qué horror!
+Coda: En otra página de la Wikipedia en la que he caído después por azar he leído la siguiente frase (que por algún motivo encuentro relevante insertar aquí):</description>
+    </item>
+    
+    <item>
+      <title>ABC (2)</title>
+      <link>/2018/10/24/abc-2-2/</link>
+      <pubDate>Wed, 24 Oct 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/10/24/abc-2-2/</guid>
+      <description>Más sobre lo de ayer. O más bien, una justificación por analogía.
+Con monedas.
+Tiras una moneda 100 veces y obtienes 60 caras. Tienes una priori $latex B(a,b)$ (beta). Tomas una muestra de valores $latex p_i$ con esa distribución y para cada una de ellas repites el experimento, es decir, obtienes lo que en R se expresaría de la forma
+rbinom(1, 100, p[i])  Si te quedas los valores $p_i$ tales que esa simulación es 60, enhorabuena, tienes una muestra de la distribución a posteriori.</description>
+    </item>
+    
+    <item>
+      <title>WolframAlfa al rescate de exmatemáticos</title>
+      <link>/2017/04/26/wolframalfa-al-rescate-de-exmatematicos/</link>
+      <pubDate>Wed, 26 Apr 2017 08:13:37 +0000</pubDate>
+      
+      <guid>/2017/04/26/wolframalfa-al-rescate-de-exmatematicos/</guid>
+      <description>Tengo el sistema
+$latex m = \frac{a}{a+b}$ $latex v = \frac{ab}{(a+b)^2 (a+b+1)}$
+en los que alguien descubrirá cosas relativas a la distribución beta.
+Interesa despejar $latex a$ y $latex b$. Pero solo soy un exmatemático perezoso, disléxico y con déficit de tiempo y atención. Así que tacacata y&amp;hellip;
+$latex a = \frac{-m^3 + m^2 - mv}{v}$ $latex b = \frac{m^3 - 2m^2 + mv + m -v}{v}$</description>
+    </item>
+    
+    <item>
+      <title>Experimentos con &#34;extremely small data&#34;: la media muestral de pocas betas</title>
+      <link>/2017/04/12/experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas/</link>
+      <pubDate>Wed, 12 Apr 2017 08:13:07 +0000</pubDate>
+      
+      <guid>/2017/04/12/experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas/</guid>
+      <description>Aquí, contracorriente. Dejamos aparcado el big data y le damos a lo que nos da de comer. Entre otras cosas, este pequeño experimento con muy pequeños datos (¿tres?).
+La aplicación es real. Y los datos pequeños porque son carísimos.
+Se puede suponer que tienen distribución beta de parámetros desconocidos. Nos interesa la media muestral de unas pocas observaciones: dos, tres, cuatro,&amp;hellip; En particular, qué distribución tiene.
+Si fuesen muchos, podríamos aplicar el teorema central del límite (que funciona estupendamente incluso con valores no muy grandes).</description>
+    </item>
+    
+    <item>
+      <title>Las prioris no informativas están manifiestamente sobrevaloradas</title>
+      <link>/2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/</link>
+      <pubDate>Mon, 04 Jan 2016 08:13:05 +0000</pubDate>
+      
+      <guid>/2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/</guid>
+      <description>La estadística bayesiana se enseña en cursos de estadística (y, frecuentemente, envuelto en un aparataje matemático tan ofuscante como innecesario). Lo malo es que en los cursos y textos de estadística no existe información previa. La información previa sobre los fenómenos en los que se utilizaría la estadística bayesiana están en las aplicaciones, extramuros del muy agnóstico mundo de la estadística y la matemática.
+Por eso, a los autores de los libros de estadística bayesiana y quienes enseñan cursos sobre lo mismo, enfrentados al problema de llenar de sentido la problemática distribución a priori, no se les ocurre nada mejor que discutir muy sesudamente la excepción (la priori no informativa) en lugar de la regla (la priori informativa).</description>
+    </item>
+    
+    <item>
+      <title>Intervalos de credibilidad para la beta: una alternativa</title>
+      <link>/2015/05/05/intervalos-de-credibilidad-para-la-beta-una-alternativa/</link>
+      <pubDate>Tue, 05 May 2015 08:13:44 +0000</pubDate>
+      
+      <guid>/2015/05/05/intervalos-de-credibilidad-para-la-beta-una-alternativa/</guid>
+      <description>A partir de los comentarios de Olivier Núñez a mi entrada anterior casi homónima, se nos ha ocurrido a ambos de forma independiente y simultánea una manera alternativa de calcular el intervalo: minimizando su longitud.
+a &amp;lt;- 3 b &amp;lt;- 5 alfa &amp;lt;- 0.05 # versión de la entrada anterior: f &amp;lt;- function(x){ (dbeta(x[2], a, b) - dbeta(x[1], a, b))^2 + (&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/pbeta&amp;quot;&amp;gt;pbeta(x[2], a, b) - &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/pbeta&amp;quot;&amp;gt;pbeta(x[1], a, b) -1 + alfa)^2 } res &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>Intervalos de credibilidad para la distribución beta</title>
+      <link>/2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/</link>
+      <pubDate>Mon, 27 Apr 2015 08:13:36 +0000</pubDate>
+      
+      <guid>/2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/</guid>
+      <description>Tengo un parámetro, la p de una binomial, que supongo distribuido según una beta. Me da igual para el caso si la distribución a priori es o no informativa. Solo digo que la distribución a posteriori es otra beta con parámetros a y b.
+Quiero construir un intervalo de credibilidad para p, es decir, encontrar un subintervalo de [0,1]
+ * dentro del cual la densidad de la beta sea mayor que fuera y que * capture $latex 1-\alpha$ de la probabilidad total.</description>
+    </item>
+    
+  </channel>
+</rss>

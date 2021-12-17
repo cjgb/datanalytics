@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>off-topic on datanalytics</title>
+    <link>/tags/off-topic/</link>
+    <description>Recent content in off-topic on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 29 Jun 2012 06:23:58 +0000</lastBuildDate><atom:link href="/tags/off-topic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idea peregrina: el taxiván</title>
+      <link>/2012/06/29/idea-peregrina-el-taxivan/</link>
+      <pubDate>Fri, 29 Jun 2012 06:23:58 +0000</pubDate>
+      
+      <guid>/2012/06/29/idea-peregrina-el-taxivan/</guid>
+      <description>Hoy no toca hablar ni de estadística, ni de R, ni de ninguno de los temas que suelo tratar sino de una idea aleatoria que se me ha ocurrido en el metro: el taxiván.
+Un taxiván es un medio de transporte híbrido, a medio camino entre el taxi y los microbuses. Está especialmente indicado para dar servicio a puntos de afluencia importante de viajeros en ciudades medianas. Por ejemplo, en las estaciones de autobús o ferrocarril, los grandes centros comerciales, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

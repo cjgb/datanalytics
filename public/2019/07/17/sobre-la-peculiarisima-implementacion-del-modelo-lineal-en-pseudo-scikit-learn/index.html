@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Sobre la peculiarísima implementación del modelo lineal en (pseudo-)scikit-learn - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Sobre la peculiarísima implementación del modelo lineal en (pseudo-)scikit-learn" />
+<meta property="og:description" content="Si ejecutas
+import numpy as np from sklearn.linear_model import LinearRegression n = 1000 X = np.random.rand(n, 2) Y = np.dot(X, np.array([1, 2])) &#43; 1 &#43; np.random.randn(n) / 2 reg = LinearRegression().fit(X, Y) reg.intercept_ reg.coef_  se obtiene más o menos lo esperado. Pero si añades una columna linealmente dependiente,
+X = np.column_stack((X, 1 * X[:,1]))  ocurren cosas de la más calamitosa especie:
+Y = np.dot(X, np.array([1, 2, 1])) &#43; 1 &#43; np." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2019-07-17T09:13:55&#43;00:00" />
+<meta property="article:modified_time" content="2019-07-17T09:13:55&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Sobre la peculiarísima implementación del modelo lineal en (pseudo-)scikit-learn</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-07-17T09:13:55Z">2019-7-17</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/python/" rel="category">python</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Si ejecutas</p>
+<pre><code>import numpy as np
+from sklearn.linear_model import LinearRegression
+
+n = 1000
+X = np.random.rand(n, 2)
+
+Y = np.dot(X, np.array([1, 2])) + 1 + np.random.randn(n) / 2
+reg = LinearRegression().fit(X, Y)
+
+reg.intercept_
+reg.coef_
+</code></pre>
+<p>se obtiene más o menos lo esperado. Pero si añades una columna linealmente dependiente,</p>
+<pre><code>X = np.column_stack((X, 1 * X[:,1]))
+</code></pre>
+<p>ocurren cosas de la más calamitosa especie:</p>
+<pre><code>Y = np.dot(X, np.array([1, 2, 1])) + 1 + np.random.randn(n) / 2
+reg = LinearRegression().fit(X, Y)
+reg.coef_
+# array([ 9.89633991e-01, -1.63740303e+14,  1.63740303e+14])
+</code></pre>
+<p>Comentarios:</p>
+<ul>
+<li>Diríase que la implementación del modelo lineal en scikit-learn no es la que se estudia por doquier (la prima, la inversa, etc.); sospecho que convierte el error cuadrático en una función que depende de los coeficientes y se la pasan a un optimizador (más o menos) genérico.  * Supongo que la implementación actual pasa todos las pruebas unitarias.  * Y sospecho, además, que las pruebas unitarias no las ha planteado un estadístico.  * Así que tal vez los de scikit-learn no saben que tienen problemas de colinealidad; y si alguien se lo ha comentado, igual no han comprendido el <em>issue</em>.  * Para la predicción, el problema arriba apuntado no es tal. Aun con coeficientes desaforados y siempre que no haya problemas de precisión numérica, tanto da hacer las cosas como todo el mundo o implementando ocurrencias como la anterior.  * Pero para todo lo demás (p.e., impacto de variables, etc.), la implementación es de traca y no vale para maldita de Dios la cosa.  * Aunque a estas alturas de siglo, ¿quién en su sano juicio usa el modelo lineal básico?   * Además, en la práctica, no hay problemas de colinealidad (ni aproximada o, mucho menos, exacta). Hummm&hellip;  * ¿O sí? Mi colega Cañadas ha escrito una entrada en su blog sobre la <a href="https://muestrear-no-es-pecado.netlify.com/2019/07/15/codificaci%C3%B3n-parcial/">codificación de variables categóricas</a> donde denuncia cómo en Python las funciones más habituales crean por defecto columnas linealmente dependientes por defecto (por no omitir el primer nivel). O sea, en Python, si no andas con cuidado, acabas con la suela llena de <em>kk</em> de perro.</li>
+</ul>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/modelo-lineal/" rel="tag">modelo lineal</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/python/" rel="tag">python</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/scikit-learn/" rel="tag">scikit-learn</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/variables-categ%C3%B3ricas/" rel="tag">variables categóricas</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2019/07/16/abundando-en-la-discusion-sobre-matematicas-y-o-informatica/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Abundando en la discusión sobre matemáticas y/o informática</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2019/07/18/que-demonios-le-ha-pasado-a-la-pagina-de-la-distribucion-beta-en-la-wikipedia/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">¿Qué demonios le ha pasado a la página de la distribución beta en la Wikipedia?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

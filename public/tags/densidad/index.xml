@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>densidad on datanalytics</title>
+    <link>/tags/densidad/</link>
+    <description>Recent content in densidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Nov 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/densidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Introducción a la probabilidad y la estadística para científicos de datos&#34;: segunda entrega</title>
+      <link>/2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/</link>
+      <pubDate>Mon, 30 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/</guid>
+      <description>Acabo de subir:
+ Modificaciones y correcciones a los dos primeros capítulos. * Un tercer capítulo sobre distribuciones de probabilidad.  Queda ampliar, organizar y razonar la biblografía correspondiente a ese tercer capítulo.
+Lo más original (con cuádruples comillas) de este capítulo es tal vez la construcción de la función de densidad a partir de histogramas obtenidos a partir de simulaciones de variables aleatorias. Algo sobre lo que creo que escribí en su día en el blog pero que no ubico.</description>
+    </item>
+    
+    <item>
+      <title>Densidades unidimensionales en R</title>
+      <link>/2020/03/26/densidades-unidimensionales-en-r/</link>
+      <pubDate>Thu, 26 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/26/densidades-unidimensionales-en-r/</guid>
+      <description>Es un asunto tangencial que, además, se soluciona las más de las veces con density. Pero parece que tiene mucha más ciencia detrás.
+Por algún motivo, acabé un día en la página del paquete [logspline](https://CRAN.R-project.org/package=logspline), que ajusta densidades usando splines. Su promesa es que puede realizar ajustes de densidades tan finos como
+que está extraído de Polynomial Splines and their Tensor Products in Extended Linear Modeling, el artículo que le sirve de base teórica.</description>
+    </item>
+    
+  </channel>
+</rss>

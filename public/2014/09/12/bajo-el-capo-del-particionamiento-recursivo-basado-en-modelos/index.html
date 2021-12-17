@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Bajo el capó del particionamiento recursivo basado en modelos - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Bajo el capó del particionamiento recursivo basado en modelos" />
+<meta property="og:description" content="Una de las mayores contrariedades de estar sentado cerca de alguien que es más matemático que un servidor (de Vds., no de silicio) es que oye siempre preguntar por qué. Una letanía de preguntas me condujo a leer papelotes que ahora resumo.
+Primero, unos datos:
+&lt;a href=&quot;http://inside-r.org/r-doc/base/set.seed&quot;&gt;set.seed(1234) n &lt;- 100 x1 &lt;- rnorm(n) x2 &lt;- rnorm(n) x3 &lt;- rnorm(n) y &lt;- 0.3 &#43; 0.2 * x1 &#43; 0.5 * (x2 &gt; 0) &#43; 0." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2014/09/12/bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2014-09-12T07:13:31&#43;00:00" />
+<meta property="article:modified_time" content="2014-09-12T07:13:31&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Bajo el capó del particionamiento recursivo basado en modelos</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-09-12T07:13:31Z">2014-9-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Una de las mayores contrariedades de estar sentado cerca de alguien que es más matemático que un servidor (de Vds., no de silicio) es que oye siempre preguntar por qué. Una letanía de preguntas me condujo a leer papelotes que ahora resumo.</p>
+<p>Primero, unos datos:</p>
+<pre><code>&lt;a href=&quot;http://inside-r.org/r-doc/base/set.seed&quot;&gt;set.seed(1234)
+
+n &lt;- 100
+
+x1 &lt;- rnorm(n)
+x2 &lt;- rnorm(n)
+x3 &lt;- rnorm(n)
+
+y &lt;- 0.3 + 0.2 * x1 + 0.5 * (x2 &gt; 0) + 0.2 * rnorm(n)
+</code></pre>
+<p>Luego, un modelo:</p>
+<pre><code>modelo &lt;- lm(y ~ x1)
+summary(modelo)
+
+# Call:
+#   lm(formula = y ~ x1)
+#
+# Residuals:
+#   Min      1Q  Median      3Q     Max
+# -0.9403 -0.2621  0.0420  0.2299  0.6877
+#
+# Coefficients:
+#   Estimate Std. Error t value Pr(&gt;|t|)
+# (Intercept)  0.55632    0.03364  16.538  &lt; 2e-16 ***
+#   x1           0.21876    0.03325   6.579 2.34e-09 ***
+#   ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+#
+# Residual standard error: 0.3323 on 98 degrees of freedom
+# Multiple R-squared:  0.3063,  Adjusted R-squared:  0.2992
+# F-statistic: 43.28 on 1 and 98 DF,  p-value: 2.341e-09
+</code></pre>
+<p>Pocos que no entiendan cómo se han generado los datos advertirían lo malo de su especificación: hemos omitido una variable explicativa cuyo efecto ha ido a incrementar el error de manera que los tests habituales de bondad de ajuste no advierten.</p>
+<p>Sin embargo,</p>
+<pre><code>&lt;a href=&quot;http://inside-r.org/r-doc/graphics/par&quot;&gt;par(mfrow=c(2,2))
+plot(&lt;a href=&quot;http://inside-r.org/r-doc/stats/predict&quot;&gt;predict(modelo), &lt;a href=&quot;http://inside-r.org/r-doc/stats/resid&quot;&gt;resid(modelo),
+     ylab = &quot;residuals&quot;, xlab = &quot;predicted values&quot;,
+     main = &quot;resíduos vs predicciones&quot;)
+plot(x1, &lt;a href=&quot;http://inside-r.org/r-doc/stats/resid&quot;&gt;resid(modelo), ylab = &quot;residuals&quot;, xlab = &quot;x1&quot;,
+     main = &quot;resíduos vs variable x1&quot;)
+plot(x2, &lt;a href=&quot;http://inside-r.org/r-doc/stats/resid&quot;&gt;resid(modelo), ylab = &quot;residuals&quot;, xlab = &quot;x2&quot;,
+     main = &quot;resíduos vs variable x2&quot;)
+plot(x3, &lt;a href=&quot;http://inside-r.org/r-doc/stats/resid&quot;&gt;resid(modelo), ylab = &quot;residuals&quot;, xlab = &quot;x3&quot;,
+     main = &quot;resíduos vs variable x3&quot;)
+&lt;a href=&quot;http://inside-r.org/r-doc/graphics/par&quot;&gt;par(mfrow=c(1,1))
+</code></pre>
+<p>genera</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2014/09/residuos_mob.png"><img src="http://www.datanalytics.com/wp-uploads/2014/09/residuos_mob.png" alt="residuos_mob">
+</a></p>
+<p>En ninguno de los gráficos de la primera fila (residuos contra predicción y variable explicativa) se aprecian artefactos. Tampoco en el de la esquina inferior derecha (residuos contra una variable que, por construcción, es independiente de <code>y</code>). Sin embargo, al ordenar los residuos según la variable <code>x2</code>, se aprecia una irregularidad. En efecto, el intercepto cambia según <code>x2&gt;0</code> o no.</p>
+<p>Veamos qué hace la función <code>mob</code> de <code>party</code>:</p>
+<pre><code>library(&lt;a href=&quot;http://inside-r.org/packages/cran/party&quot;&gt;party)
+plot(mob(y ~ x1 | x2 + x3))
+</code></pre>
+<p><a href="http://www.datanalytics.com/wp-uploads/2014/09/residuos_mob_party.png"><img src="http://www.datanalytics.com/wp-uploads/2014/09/residuos_mob_party.png" alt="residuos_mob_party">
+</a></p>
+<p>En efecto, <code>mob</code> ha detectado el <em>cambio estructural</em>.</p>
+<p>Los autores de <code>party</code> explican todas estas cosas en</p>
+<pre><code>  * _[party with the mob: Model-Based Recursive Partitioning in R](http://cran.r-project.org/web/packages/party/vignettes/MOB.pdf)_ (accesible) y
+  * con mucho más detalle y rigor matemático en _[Generalized M-Fluctuation Tests for Parameter Instability](http://statmath.wu.ac.at/~zeileis/papers/Zeileis+Hornik-2007.pdf)_
+</code></pre>
+<p>El segundo artículo está encriptado en jerigonza matemática y es recomendable comenzar a leerlo por el final. Pero no viene a contar otra cosa que lo que he resumido arriba. Es decir, dados unos datos, se selecciona parte de las variables para tratar de predecir otra usando un modelo dentro de una clase relativamente amplia de ellos que incluye los <code>glm</code>. El resto de las variables <em>se reservan</em> para detectar cambios estructurales. Y, a la sazón, regiones del espacio en las cuales el modelo original tiene parámetros distintos. Para cada tipo de modelo los autores identifican una transformación de los datos que genera un vector. Este coincide (¡creo!) con los resíduos en el caso lineal y con alguna generalización de estos en el resto.</p>
+<p>Para detectar puntos de corte, estos <em>residuos</em> (los llamaré así) se ordenan de acuerdo con el resto de las variables una a una. De no haber cambios estructurales, los datos deberían seguir una <em>estructura temporal</em> (sí, las técnicas que utilizan se nutren de la teoría de la detección de cambios estructurales en series teporales) determinada, algo así como un ruido blanco. Si no es así (en un determinado nivel de confianza), se da por bueno el cambio estructural, se decide dónde se produce, se le da un tajo al espacio en ese punto de la variable transgresora y se itera sobre los subconjuntos generados.</p>
+<p>Dirían los estadísticos más cascarrabias (y Emilio también) que bien podrían incluirse todas las variables en el modelo original. Pero a mí, qué se le va a hacer, me gusta <code>mob</code>.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/%C3%A1rboles-de-decisi%C3%B3n/" rel="tag">árboles de decisión</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/party/" rel="tag">party</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/regresi%C3%B3n/" rel="tag">regresión</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/res%C3%ADduos/" rel="tag">resíduos</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2014/09/11/missing/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Missing</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2014/09/15/componentes-conexas-de-grafos-en-spark/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Componentes conexas (de grafos) en Spark</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

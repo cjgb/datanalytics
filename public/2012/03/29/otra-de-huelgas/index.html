@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Otra de huelgas - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Otra de huelgas" />
+<meta property="og:description" content="Hoy, por motivos evidentes, e igual que en septiembre de 2010, voy a hablar de huelgas. De la misma fuente que entonces he descargado este fichero. Y he ejecutado
+library( pxR ) library( reshape ) library( ggplot2 ) dat &lt;- read.px( &quot;pcaxis-623612450.px&quot; ) dat &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/base/as.data.frame&quot;&gt;as.data.frame( dat ) dat.mes &lt;- cast( dat, Periodo ~ series ) colnames(dat.mes) &lt;- c( &quot;mes&quot;, &quot;n.huelgas&quot;, &quot;n.trabajadores&quot;, &quot;n.jornadas&quot; ) p &lt;- ggplot( data = dat." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2012/03/29/otra-de-huelgas/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2012-03-29T07:41:32&#43;00:00" />
+<meta property="article:modified_time" content="2012-03-29T07:41:32&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Otra de huelgas</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-03-29T07:41:32Z">2012-3-29</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/n%C3%BAmeros/" rel="category">números</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Hoy, por motivos evidentes, e igual que en <a href="http://www.datanalytics.com/blog/2010/09/29/huelga-el-titulo-hoy/">septiembre de 2010</a>, voy a hablar de huelgas. De la misma fuente que entonces he descargado <a href="http://www.datanalytics.com/uploads/pcaxis-623612450.px">este fichero</a>. Y he ejecutado</p>
+<pre><code>library( pxR )
+library( reshape )
+library( ggplot2 )
+
+dat &lt;- read.px( &quot;pcaxis-623612450.px&quot; )
+dat &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/base/as.data.frame&quot;&gt;as.data.frame( dat )
+
+dat.mes &lt;- cast( dat, Periodo ~ series )
+colnames(dat.mes) &lt;- c( &quot;mes&quot;, &quot;n.huelgas&quot;, &quot;n.trabajadores&quot;, &quot;n.jornadas&quot; )
+
+p &lt;- ggplot( data = dat.mes ) + geom_line( aes( x = mes, y = n.huelgas, &lt;a href=&quot;http://inside-r.org/r-doc/grDevices/group&quot;&gt;group = rep(1, nrow(dat)) ) )
+p
+ggsave( &quot;huelgas_por_mes.png&quot; )
+
+dat.anno &lt;- dat
+
+tmp &lt;- strsplit( as.character(dat.anno$Periodo), &quot;M&quot; )
+dat.anno$Periodo &lt;- sapply( tmp, function(x) x[1] )
+
+dat.anno &lt;- cast( dat.anno, Periodo ~ series, fun.aggregate = sum )
+colnames(dat.anno) &lt;- c( &quot;anno&quot;, &quot;n.huelgas&quot;, &quot;n.trabajadores&quot;, &quot;n.jornadas&quot; )
+
+p &lt;- ggplot( data = dat.anno, aes( x = anno, y = n.huelgas, &lt;a href=&quot;http://inside-r.org/r-doc/grDevices/group&quot;&gt;group = rep(1, nrow(dat.anno)) ) ) + geom_line()
+p &lt;- p + geom_point( aes(size = n.jornadas ) )
+p &lt;- p + scale_x_discrete( &quot;año&quot; ) + scale_y_continuous( &quot;número de huelgas&quot; )
+p
+ggsave( &quot;huelgas_por_anno.png&quot; )
+
+p &lt;- ggplot( data = dat.anno, aes( x = anno, y = n.trabajadores/n.huelgas, &lt;a href=&quot;http://inside-r.org/r-doc/grDevices/group&quot;&gt;group = rep(1, nrow(dat.anno)) ) ) + geom_line()
+p &lt;- p + scale_x_discrete( &quot;año&quot; ) + scale_y_continuous( &quot;número de trabajadores por huelga&quot; )
+p
+ggsave( &quot;trabajadores_huelga_por_anno.png&quot; )
+
+p &lt;- ggplot( data = dat.anno, aes( x = anno, y = n.jornadas /n.huelgas, &lt;a href=&quot;http://inside-r.org/r-doc/grDevices/group&quot;&gt;group = rep(1, nrow(dat.anno)) ) ) + geom_line()
+p &lt;- p + scale_x_discrete( &quot;año&quot; ) + scale_y_continuous( &quot;número de jornadas por huelga&quot; )
+p
+ggsave( &quot;jornadas_huelga_anno.png&quot; )
+</code></pre>
+<p>para obtener, por un lado, el número de huelgas por mes desde enero de 1995 a noviembre de 2011:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2012/03/huelgas_por_mes.png"><img src="http://www.datanalytics.com/wp-uploads/2012/03/huelgas_por_mes.png" alt="">
+</a></p>
+<p>El número de huelgas por año, con el número de jornadas afectadas por las huelgas indicado por el diámetro de punto:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2012/03/huelgas_por_anno.png"><img src="http://www.datanalytics.com/wp-uploads/2012/03/huelgas_por_anno.png" alt="">
+</a></p>
+<p>El número de trabajadores que siguieron cada huelga en cada año:</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2012/03/trabajadores_huelga_por_anno.png"><img src="http://www.datanalytics.com/wp-uploads/2012/03/trabajadores_huelga_por_anno.png" alt="">
+</a></p>
+<p>Finalmente, el número de jornadas afectadas por las huelgas en cada año.</p>
+<p><a href="http://www.datanalytics.com/wp-uploads/2012/03/jornadas_huelga_anno.png"><img src="http://www.datanalytics.com/wp-uploads/2012/03/jornadas_huelga_anno.png" alt="">
+</a></p>
+<p>Es relativamente fácil ubicar la huelga general del 2002. La que hubo en septiembre de 2010&hellip; no lo tengo tan claro.</p>
+<p>Finalmente, ¿podría decirse que aunque parece aumentar el número de huelgas, estas afectan cada vez a menos trabajadores y restan mejos jornadas de trabajo? ¿Se ve esa tendencia? ¿Es una tendencia o una mera ilusión sensorial?</p>
+<p>De ser tendencia, (y sólo de ser tendencia) ¿podría aventurarse alguna causa? ¿Huelgas más locales? ¿O menos interés y seguimiento por parte de los trabajadores?</p>
+<p>Finalmente, ¿nos satisface la información sobre huelgas que publica el INE? ¿Existen fuentes más completas? ¿Alguien las tiene ubicadas? ¿Son accesibles? ¿Permitiría la nueva ley de transparencia acceder a ellas?</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/n%C3%BAmeros/" rel="tag">números</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2012/03/28/contrafactualidad-radial/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Contrafactualidad radial</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2012/03/30/tolstoi-sobre-los-mercados-ineficientes/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Tolstoi, sobre los mercados ineficientes</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

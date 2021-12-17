@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Mis copias de seguridad - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Mis copias de seguridad" />
+<meta property="og:description" content="Por referencia mía y de otros, voy a dejar acá escrito y explicado cómo gestiono mis copias de seguridad. Porque los discos duros se rompen y los ordenadores desaparecen. Etc.
+Primero, mi instalación: tengo un ordenador de bajomesa (tiramisu) y un netbook (kropotkin). Ambos corren la misma versión de Xubuntu, la última estable.
+Mi primera línea de defensa contra las pérdidas de información es la sincronización de ambas máquinas. Aquellos directorios que contienen cosas que no quiero perder (documentos, fotos, código, ¡copias de seguridad de otras máquinas, incluido esto que lees ahora!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2013/08/21/mis-copias-de-seguridad/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2013-08-21T07:14:31&#43;00:00" />
+<meta property="article:modified_time" content="2013-08-21T07:14:31&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Mis copias de seguridad</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-08-21T07:14:31Z">2013-8-21</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Por referencia mía y de otros, voy a dejar acá escrito y explicado cómo gestiono mis copias de seguridad. Porque los discos duros se rompen y los ordenadores desaparecen. Etc.</p>
+<p>Primero, mi instalación: tengo un ordenador <em>de bajomesa</em> (<code>tiramisu</code>) y un <em>netbook</em> (<code>kropotkin</code>). Ambos corren la misma versión de Xubuntu, la última estable.</p>
+<p>Mi primera línea de defensa contra las pérdidas de información es la sincronización de ambas máquinas. Aquellos directorios que contienen cosas que no quiero perder (documentos, fotos, código, ¡copias de seguridad de otras máquinas, incluido esto que lees ahora!, cosas que no son documentos en desarrollo, etc.) se guardan en el directorio <code>.bck</code> de ambos ordenadores. Los directorios que veo son enlaces blandos (vía <code>ln</code>) a subdirectorios de <code>.bck</code>.</p>
+<p><code>tiramisu</code> es máster; <code>kropotkin </code>esclavo. Para sincronizar ambos, desde el segundo, periódicamente, ejecuto</p>
+<pre><code>&lt;code&gt;rsync -av -e &quot;ssh -l carlos&quot; --delete \
+carlos@192.168.0.192:/home/carlos/.bck/ .bck&lt;/code&gt;
+</code></pre>
+<p>Más interesante es cómo consigo mantener varias copias completas de los ~60GB de ficheros de <code>/home/carlos</code> en un disco duro extraíble de 160GB. De hecho, tengo dos copias anuales (junio y diciembre) desde el 2007 y algo así como mensuales durante el último año. Diríase que no caben, salvo que uno haga uso de los enlaces duros (vía, de nuevo, <code>ln</code>): guardo una única copia física de cada fichero, pero cada copia temporal contiene todos los ficheros.</p>
+<p>Es decir, aquella foto mía de 2007 parece estar más de 15 veces en 15 directorios distintos, pero existe una única copia de sus contenidos en el disco. Y solo se desaparecerá cuando se borren todas ellas. Tal es la magia de los enlaces duros.</p>
+<p>En términos prácticos, lo consigo de la siguiente manera. El disco duro externo tiene dos directorios:</p>
+<pre><code>  * `folders`, que contiene directorios con marcas temporales (p.e., carlos_20130815). Cada uno de ellos contiene una copia exacta de mi `home` en la fecha en cuestión.
+  * `files`, un directorio que contiene únicamente ficheros y cuyo nombre es su _hash_ (vía _md5sum_).
+</code></pre>
+<p>Los ficheros de los directorios contenidos en <code>folders</code> son enlaces duros al fichero correspondiente en <code>files</code>. El código que utilizo para generar una nueva copia de seguridad hace lo previsible:</p>
+<pre><code>  * Crear una nueva estructura de directorios debajo de `folders`.
+  * Calcular el _hash _de cada fichero de mi `home`.
+  * Buscarlo en `files` y, dependiendo de si lo encuentra o no, copiarlo y enlazarlo o únicamente enlazarlo.
+</code></pre>
+<p>Es decir:</p>
+<pre><code>&lt;code&gt;#!/bin/bash
+
+# Variable definitions
+
+origen=/home/carlos
+destino=/media/disk-2/bck/folders/carlos_`date +%Y%m%d`
+prevbck=/media/disk-2/bck/folders/`ls -t | head -1`
+files_dir=/media/disk-2/bck/files2
+
+test -d ${files_dir} || ( echo &quot;Destination file does not exist&quot; ; exit 2 )
+
+cd $origen
+
+# Creating dir structure
+find . -type d -exec mkdir -p ${destino}/{} \; 2&gt; /tmp/bck.log
+
+function process_file {
+    file=$1
+
+    file_dest=&quot;$destino/${file}&quot;
+    file_prev=&quot;$prevbck/${file}&quot;
+
+    if [ -e &quot;$file_prev&quot; ]
+    then
+        if [ &quot;$file&quot; -ot &quot;$file_prev&quot; ]
+        then
+            ln &quot;$file_prev&quot; &quot;${file_dest}&quot;
+            return 1
+        fi
+    fi
+
+    # calculo el hash de cada fichero
+    # creo un nombre de fichero &quot;igual&quot; al hash
+    # pero reservo el 1er caracter del hash como nombre de directorio
+    # motivo: directorios con +100k ficheros tienen mal rendimiento
+    file_hash=`md5sum &quot;$file&quot; | cut -f1 -d&quot; &quot; | sed -e &quot;s;\(.\)\(.*\);\1/\2;&quot;`
+    file_hash=&quot;${files_dir}/${file_hash}&quot;
+
+    if [ -e &quot;${file_hash}&quot; ]
+    then
+        ln &quot;${file_hash}&quot; &quot;${file_dest}&quot; &amp;
+    else
+        cp &quot;$file&quot; &quot;${file_dest}&quot;
+        ln &quot;${file_dest}&quot; &quot;${file_hash}&quot; &amp;
+    fi
+}
+
+find . -type f -name '*' -not -user root 2&gt; /tmp/bck.log \
+ | while read file
+do
+    echo $file &gt;&gt; /tmp/borrar
+    process_file &quot;$file&quot;
+done
+
+exit 0
+&lt;/code&gt;
+</code></pre>
+<p>El proceso tiene dos caveats. El primero es que estoy expuesto a <a href="http://en.wikipedia.org/wiki/Collision_(computer_science)">colisiones de <em>hash</em></a>, algo que tengo sin solucionar y que me hace vivir peligrosamente. De hecho, me llena de orgullo eso de ser una persona tan sumamente sofisticada que uno de mis problemas potenciales sea explícitamente una colisión de <em>hash</em>.</p>
+<p>La segunda y más seria es que mantener +100k ficheros en un disco formateado con <code>ext3</code> hace que se degrade el rendimiento de los <code>ls</code> y comandos similares. La solución que he ideado recientemente —aunque reconozco que igual debería probar con otro sistema de ficheros más avanzado que <code>ext3</code>— consiste en utilizar el primer dígito del <em>hash</em> como nombre de directorio (de manera que en <code>files</code> no tengo 100k ficheros sino 16 directorios (con nombres <code>0</code>-<code>f</code>) con menos de 10k ficheros en promedio. Por eso la línea</p>
+<pre><code>&lt;code&gt;file_hash=`md5sum &quot;$file&quot; | cut -f1 -d&quot; &quot; |
+sed -e &quot;s;\(.\)\(.*\);\1/\2;&quot;` &lt;/code&gt;
+</code></pre>
+<p>en mi código es marginalmente más complicada que la original.</p>
+<p>Limpio, cómodo y sencillo, creo.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/computaci%C3%B3n/" rel="tag">computación</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/linux/" rel="tag">linux</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/shell-script/" rel="tag">shell script</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2013/08/16/mapas-mapas-mapas-y/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Mapas, mapas, mapas... ¿y?</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2013/08/22/el-carajal-de-las-representaciones-graficas-de-redes-sociales/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">El carajal de las representaciones gráficas de &#34;redes sociales&#34;</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fotografía on datanalytics</title>
+    <link>/tags/fotograf%C3%ADa/</link>
+    <description>Recent content in fotografía on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 05 Sep 2016 08:13:45 +0000</lastBuildDate><atom:link href="/tags/fotograf%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mezclas de vectores (III): las funciones involucradas</title>
+      <link>/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/</link>
+      <pubDate>Mon, 05 Sep 2016 08:13:45 +0000</pubDate>
+      
+      <guid>/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/</guid>
+      <description>En esta tercera entrada de la serie (aquí está la primera y la segunda) quiero ocuparme de las que llamé $latex f_1$ y $f_2$, las funciones involucradas. Que son las que obran la magia, por supuesto. Con casi cualquier otra opción se habría obtenido una patochada, pero estas son funciones especiales.
+Las funciones en cuestión están extraídas de esta,
+que es una representación esquemática (extraída de aquí) de una red neuronal para el reconocimiento de imágenes.</description>
+    </item>
+    
+    <item>
+      <title>Mezclas de vectores (II): un caso de uso</title>
+      <link>/2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/</link>
+      <pubDate>Fri, 02 Sep 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/</guid>
+      <description>Siguiendo con el tema de la entrada de ayer, voy a tomar un vector $latex x_1$ tal como
+y un vector $latex x_2$ como, por ejemplo,
+para, con el concurso de unas funciones que revelaré mañana, obtener la siguiente mezcla de ambos:
+Pas mal!</description>
+    </item>
+    
+  </channel>
+</rss>

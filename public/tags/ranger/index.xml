@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ranger on datanalytics</title>
+    <link>/tags/ranger/</link>
+    <description>Recent content in ranger on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 14 Oct 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/ranger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explicación de los scorings de &#34;ciertos&#34; modelos</title>
+      <link>/2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/</link>
+      <pubDate>Wed, 14 Oct 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/</guid>
+      <description>Esta entrada la hago por petición popular y para rematar de alguna manera lo que incoé hace unos días. Seré breve hasta lo telegráfico:
+ Tomo las observaciones con scorings más altos (en un árbol construido con ranger y cariño). 2. Veo cuáles son los árboles que les asignan scorings más altos. 3. Anoto las variables implicadas en las ramas por donde bajan las observaciones (1) en los árboles (2). 4.</description>
+    </item>
+    
+    <item>
+      <title>ranger (o cómo el truco para hacerlo rápido es hacerlo, subrepticiamente, mal)</title>
+      <link>/2019/09/26/ranger-o-como-el-truco-para-hacerlo-rapido-es-hacerlo-subrepticiamente-mal/</link>
+      <pubDate>Thu, 26 Sep 2019 09:13:14 +0000</pubDate>
+      
+      <guid>/2019/09/26/ranger-o-como-el-truco-para-hacerlo-rapido-es-hacerlo-subrepticiamente-mal/</guid>
+      <description>[ranger](https://cran.r-project.org/package=ranger) llegó para hacerlo mismo que [randomForest](https://cran.r-project.org/package=randomForest), solo que más deprisa y usando menos memoria.
+Lo que no nos contaron es que lo consiguió haciendo trampas. En particular, en el tratamiento de las variables categóricas. Si no andas con cuidado, las considera ordenadas (y ordenadas alfabéticamente).
+[Si te da igual ocho que ochenta, no te preocupará el asunto. Tranquilo: hay muchos como tú.]
+El diagnóstico dado (por eso lo omito) está contado aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

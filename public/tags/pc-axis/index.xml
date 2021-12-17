@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pc-axis on datanalytics</title>
+    <link>/tags/pc-axis/</link>
+    <description>Recent content in pc-axis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Nov 2013 07:26:13 +0000</lastBuildDate><atom:link href="/tags/pc-axis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PC-Axis ha muerto, larga vida a JSON-stat</title>
+      <link>/2013/11/07/pc-axis-ha-muerto-larga-vida-a-json-stat/</link>
+      <pubDate>Thu, 07 Nov 2013 07:26:13 +0000</pubDate>
+      
+      <guid>/2013/11/07/pc-axis-ha-muerto-larga-vida-a-json-stat/</guid>
+      <description>Igual exagero en el encabezamiento: PC-Axis, a pesar de sus defectos, a pesar de su antigüedad, etc. goza de excesiva buena salud. Debió haber pasado a mejor vida hace tiempo pero, como pasa con esas cosas, se ha enquistado.
+Como alternativa a la altura de los tiempos, está JSON-stat, concebido por Xavier Badosa y que nadie como él describe:
+Invitados estáis a visitar json-stat.org.</description>
+    </item>
+    
+  </channel>
+</rss>

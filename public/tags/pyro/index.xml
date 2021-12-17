@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pyro on datanalytics</title>
+    <link>/tags/pyro/</link>
+    <description>Recent content in pyro on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 Nov 2019 09:13:04 +0000</lastBuildDate><atom:link href="/tags/pyro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tfprobability debería llamarse tfeoprobability</title>
+      <link>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</link>
+      <pubDate>Tue, 12 Nov 2019 09:13:04 +0000</pubDate>
+      
+      <guid>/2019/11/12/tfprobability-deberia-llamarse-tfeoprobability/</guid>
+      <description>Porque, aunque la intención sea buena, el DSL (que ni siquiera llega a serlo) es muy, muy feo. Que en este contexto, además, quiere decir antinatural.
+La demostración, aquí, aquí o aquí.</description>
+    </item>
+    
+    <item>
+      <title>Pyro</title>
+      <link>/2019/10/14/pyro/</link>
+      <pubDate>Mon, 14 Oct 2019 09:13:35 +0000</pubDate>
+      
+      <guid>/2019/10/14/pyro/</guid>
+      <description>Leyendo sobre si dizque PyTorch le siega la hierba debajo de los pies a TensorFlow, averigué la existencia de Pyro.
+Pyro se autopresenta como Deep Universal Probabilistic Programming, pero aplicando métodos porfirianos (ya sabéis: género próximo y diferencia específica), es, o pretende ser, Stan en Python y a escala.
+Aquí van mis dos primeras impresiones, basadas en una inspección superficial de los tutoriales.
+En primer lugar, aunque Pyro permite usar (distintas versiones de) MCMC, parece que su especialidad es la inferencia variacional estocástica.</description>
+    </item>
+    
+  </channel>
+</rss>

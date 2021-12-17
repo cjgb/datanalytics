@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ferrocarriles on datanalytics</title>
+    <link>/tags/ferrocarriles/</link>
+    <description>Recent content in ferrocarriles on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 26 Nov 2014 07:13:05 +0000</lastBuildDate><atom:link href="/tags/ferrocarriles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dualidad en la práctica: lecciones de la guerra fría</title>
+      <link>/2014/11/26/dualidad-en-la-practica-lecciones-de-la-guerra-fria/</link>
+      <pubDate>Wed, 26 Nov 2014 07:13:05 +0000</pubDate>
+      
+      <guid>/2014/11/26/dualidad-en-la-practica-lecciones-de-la-guerra-fria/</guid>
+      <description>Uno de los conceptos más lábiles y menos aprehensibles que he encontrado en los libros desde mis tiempos de primero de carrera es el de la dualidad. El caso histórico que traigo hoy a estas páginas os ayudará a desabstraerlo. O, en el peor de los casos, os entretendrá.
+En 1930, el Ministerio de Transportes de la Unión Soviética publicó un libro sobre planificación ferroviaria en el que colaboró A.N. Tolstoi estudiando un problema de optimización.</description>
+    </item>
+    
+  </channel>
+</rss>

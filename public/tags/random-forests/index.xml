@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>random forests on datanalytics</title>
+    <link>/tags/random-forests/</link>
+    <description>Recent content in random forests on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Oct 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/random-forests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Cómo aleatorizan las columnas los RRFF?: un experimento mental y una coda histórica</title>
+      <link>/2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica/</link>
+      <pubDate>Thu, 07 Oct 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica/</guid>
+      <description>I. El experimento mental
+Tienes una variable binaria y y 100 variables predictoras de las cuales 99 son puro ruido y la última es igual a y. En código,
+n &amp;lt;- 1000 y &amp;lt;- as.factor(rbinom(n, 1, .4)) x &amp;lt;- matrix(rnorm(n*100), n, 100) x[,100] &amp;lt;- y  El objetivo consiste, obviamente, en predecir y en función de x.
+II. RRFF
+Los RRFF, como es bien sabido, son conjuntos de n árboles construidos sobre los mismos datos.</description>
+    </item>
+    
+    <item>
+      <title>¿Quién inventó los &#34;random forests&#34;?</title>
+      <link>/2021/07/21/quien-invento-los-random-forests/</link>
+      <pubDate>Wed, 21 Jul 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/07/21/quien-invento-los-random-forests/</guid>
+      <description>[Este artículo tiene una corrección —tachado en el texto que sigue— posterior a la fecha de publicación original. Véase la entrada &amp;quot;¿Cómo aleatorizan las columnas los RRFF?: un experimento mental y una coda histórica&amp;quot; para obtener más información al respecto.]
+Si hacemos caso, por ejemplo, a la gente que estaba allí entonces, la que estaba al día de todo lo que se publicaba en la época, la que conocía personalmente a los presuntos implicados y la que seguramente había tenido constancia previa de la idea en alguna pizarra o en la servilleta de una cafetería, fue Leo Breiman en 2001.</description>
+    </item>
+    
+    <item>
+      <title>Interacciones y selección de modelos</title>
+      <link>/2020/03/16/interacciones-y-seleccion-de-modelos/</link>
+      <pubDate>Mon, 16 Mar 2020 15:41:00 +0000</pubDate>
+      
+      <guid>/2020/03/16/interacciones-y-seleccion-de-modelos/</guid>
+      <description>Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
+El modelo lineal clásico,
+$latex y \sim x_1 + x_2 + \dots$
+no tiene en cuenta las interacciones (aunque extensiones suyas, sí, por supuesto).</description>
+    </item>
+    
+    <item>
+      <title>&#34;Para razonar rigurosamente bajo incertidumbre hay que recurrir al lenguaje de la probabilidad&#34;</title>
+      <link>/2020/03/03/para-razonar-rigurosamente-bajo-incertidumbre-hay-que-recurrir-al-lenguaje-de-la-probabilidad/</link>
+      <pubDate>Tue, 03 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/03/para-razonar-rigurosamente-bajo-incertidumbre-hay-que-recurrir-al-lenguaje-de-la-probabilidad/</guid>
+      <description>Así arranca este artículo, que presenta una extensión de XGBoost para predicciones probabilísticas. Es decir, un paquete que promete no solo una estimación del valor central de la predicción sino de su distribución.
+La versión equivalente de lo anterior en el mundo de los random forests está descrito aquí, disponible aquí y mucho me temo que muy pronto voy a poder contar por aquí si está a la altura de las expectativas.</description>
+    </item>
+    
+    <item>
+      <title>ranger (o cómo el truco para hacerlo rápido es hacerlo, subrepticiamente, mal)</title>
+      <link>/2019/09/26/ranger-o-como-el-truco-para-hacerlo-rapido-es-hacerlo-subrepticiamente-mal/</link>
+      <pubDate>Thu, 26 Sep 2019 09:13:14 +0000</pubDate>
+      
+      <guid>/2019/09/26/ranger-o-como-el-truco-para-hacerlo-rapido-es-hacerlo-subrepticiamente-mal/</guid>
+      <description>[ranger](https://cran.r-project.org/package=ranger) llegó para hacerlo mismo que [randomForest](https://cran.r-project.org/package=randomForest), solo que más deprisa y usando menos memoria.
+Lo que no nos contaron es que lo consiguió haciendo trampas. En particular, en el tratamiento de las variables categóricas. Si no andas con cuidado, las considera ordenadas (y ordenadas alfabéticamente).
+[Si te da igual ocho que ochenta, no te preocupará el asunto. Tranquilo: hay muchos como tú.]
+El diagnóstico dado (por eso lo omito) está contado aquí.</description>
+    </item>
+    
+    <item>
+      <title>gam vs rrff (y, en general, modelos generativos vs cajas negras)</title>
+      <link>/2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/</link>
+      <pubDate>Tue, 15 May 2018 08:13:29 +0000</pubDate>
+      
+      <guid>/2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/</guid>
+      <description>Para modelizar una serie temporal, y simplificándolo mucho, ¿gam o rrff? Como todo, depende. El otro día oí de un caso en el que los segundos vencían a los primeros claramente. Natural.
+Hay contextos con una estructura matemática clara y potente. En particular, muchos en los que trabajo actualmente. ¿Para qué usar una herramienta genérica cuando cuento con una específica? Esos datos, mis datos, exigen estructura matemática.
+Luego hay otros casos en los que uno se lanza al río.</description>
+    </item>
+    
+    <item>
+      <title>Selección de variables con bosques aleatorios</title>
+      <link>/2016/09/06/seleccion-de-variables-con-bosques-aleatorios/</link>
+      <pubDate>Tue, 06 Sep 2016 08:13:39 +0000</pubDate>
+      
+      <guid>/2016/09/06/seleccion-de-variables-con-bosques-aleatorios/</guid>
+      <description>Desde el principio de mis tiempos he seleccionado variables relevantes como subproducto de los árboles primero y de los bosques aleatorios después. Cierto que he hecho casi inconfesables incursiones en los métodos stepwise, pero han sido marginales y anecdóticas.
+La idea es casi siempre la misma, se haga a mano o con ayuda de paquetes ad hoc: las variables importantes tienden a aparecer en el modelo (o submodelos), las otras no.</description>
+    </item>
+    
+    <item>
+      <title>¿Se puede explicar la predicción de un modelo de caja negra?</title>
+      <link>/2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/</link>
+      <pubDate>Tue, 15 Mar 2016 09:13:51 +0000</pubDate>
+      
+      <guid>/2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/</guid>
+      <description>Imaginemos un banco que construye modelos para determinar si se concede o no un crédito. Este banco tiene varias opciones para crear el modelo. Sin embargo, en algunos países el regulador exige que el banco pueda explicar el motivo de la denegación de un crédito cuando un cliente lo solicite.
+Esa restricción impediría potencialmente usar modelos de caja negra como el que construyo a continuación:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/randomForest&amp;quot;&amp;gt;randomForest) raw &amp;lt;- read.table(&amp;quot;http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data&amp;quot;, sep = &amp;quot;,&amp;quot;, na.</description>
+    </item>
+    
+    <item>
+      <title>Modelos mixtos por doquier</title>
+      <link>/2014/12/29/modelos-mixtos-por-doquier/</link>
+      <pubDate>Mon, 29 Dec 2014 07:13:48 +0000</pubDate>
+      
+      <guid>/2014/12/29/modelos-mixtos-por-doquier/</guid>
+      <description>Los códigos postales, por ejemplo, son un problema a la hora de crear modelos predictivos: son variables categóricas con demasiados niveles. Así, por ejemplo, los bosques aleatorios de R solo admiten variables categóricas con no más de 32 niveles.
+Hay trucos de todo tipo para mitigar el problema. Hace un año, Jorge Ayuso me puso sobre la pista de uno de los que tiene más recorrido. Consiste en [su versión más simplificada en]:</description>
+    </item>
+    
+    <item>
+      <title>Victoria o diferencia de puntos, ahora con &#34;random forests&#34;</title>
+      <link>/2014/03/07/victoria-o-diferencia-de-puntos-ahora-con-random-forests/</link>
+      <pubDate>Fri, 07 Mar 2014 07:35:05 +0000</pubDate>
+      
+      <guid>/2014/03/07/victoria-o-diferencia-de-puntos-ahora-con-random-forests/</guid>
+      <description>Después de hablar con tirios y troyanos sobre mi entrada sobre los efectos de binarizar una variable objetivo continua, he decidido tomarme la justicia por mi mano y llamar a la caballería. Es decir, utilizar random forests.
+Aquí va el código:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/randomForest&amp;quot;&amp;gt;randomForest) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(1234) my.coefs &amp;lt;- -2:2 n &amp;lt;- 200 train.n &amp;lt;- floor(2*n/3) test.error &amp;lt;- function(){ X &amp;lt;- matrix(rnorm(n*5), n, 5) Y &amp;lt;- 0.2 + X %*% my.coefs + rnorm(n) Y.</description>
+    </item>
+    
+    <item>
+      <title>En recuerdo de Leo Breiman</title>
+      <link>/2014/01/23/en-recuerdo-de-leo-breiman/</link>
+      <pubDate>Thu, 23 Jan 2014 08:41:09 +0000</pubDate>
+      
+      <guid>/2014/01/23/en-recuerdo-de-leo-breiman/</guid>
+      <description>Recomiendo leer esto. Es un artículo que repasa la labor de Leo Breiman, pionero en esa nueva forma de plantear el análisis de datos que acabó convirtiéndose en la minería de datos y de algunos de los algoritmos y métodos más comunes que conforman la caja de herramientas de quienes lo practican hoy en día. Entre ellos, los árboles de decisión y de regresión y los random forests.
+Así comienza el artículo:</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos genéticos para la caracterización de máximos en random forests</title>
+      <link>/2010/06/16/algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests/</link>
+      <pubDate>Wed, 16 Jun 2010 23:37:02 +0000</pubDate>
+      
+      <guid>/2010/06/16/algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests/</guid>
+      <description>En minería de datos se buscan modelos que permitan hacer predicciones acerca del comportamiento de los sujetos del estudio. Pero, típicamente, cuanto más complejas son las técnicas, menos intuición ofrecen acerca del porqué de la predicción, pierden inteligibilidad. Existe una omnipresente tensión entre inteligibilidad (una propiedad altamente deseable, incluso, en ocasiones, por requisito legal) y precisión.
+Un modelo puede resumir mejor o peor una colección enorme de observaciones, pero en ocasiones los mismos modelos son demasiado complejos o herméticos como para ofrecer una interpretación plausible de los datos: ¿qué caracteriza a las observaciones para las que mi modelo predice los valores más altos (o bajos)?</description>
+    </item>
+    
+  </channel>
+</rss>

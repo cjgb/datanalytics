@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>igraph on datanalytics</title>
+    <link>/tags/igraph/</link>
+    <description>Recent content in igraph on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 26 Feb 2016 07:13:40 +0000</lastBuildDate><atom:link href="/tags/igraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Hay una epidemia en mi grafo?</title>
+      <link>/2016/02/26/hay-una-epidemia-en-mi-grafo/</link>
+      <pubDate>Fri, 26 Feb 2016 07:13:40 +0000</pubDate>
+      
+      <guid>/2016/02/26/hay-una-epidemia-en-mi-grafo/</guid>
+      <description>Tengo un grafo, g cuyas aristas pueden ser cualquier cosa susceptible de contaminarse. Me pregunto si la contaminación puede contagiarse a través del grafo. Es decir, si A y B están unidos por una arista y A está contaminado, la probabilidad de que B también lo esté es superior a la normal.
+Se me ocurre probar esa hipótesis así:
+library(igraph) # mi grafo g &amp;lt;- erdos.renyi.game(10000, p.or.m = 0.001, type=&amp;quot;gnp&amp;quot;) min.</description>
+    </item>
+    
+    <item>
+      <title>Grafos por vecindad en mapas</title>
+      <link>/2015/05/27/grafos-por-vecindad-en-mapas/</link>
+      <pubDate>Wed, 27 May 2015 08:13:53 +0000</pubDate>
+      
+      <guid>/2015/05/27/grafos-por-vecindad-en-mapas/</guid>
+      <description>Dando vueltas (infructuosas) al asunto de los cartogramas he dado con un subproducto con el que, por hoy, me conformo: crear un grafo a partir de relaciones de vecindad entre polígonos. La magia, obra de [spdep::poly2nb](http://www.inside-r.org/packages/cran/spdep/docs/poly2nb); el código,
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/maptools&amp;quot;&amp;gt;maptools) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/spdep&amp;quot;&amp;gt;spdep) library(igraph) # fichero descargado del INE aragon &amp;lt;- readShapePoly(&amp;quot;ccaa00c02.shp&amp;quot;) plot(aragon)  
+aragon.nb &amp;lt;- poly2nb(aragon) # vértices vertices &amp;lt;- aragon@data vertices$id &amp;lt;- 1:nrow(aragon@data) vertices &amp;lt;- vertices[, c(&amp;quot;id&amp;quot;, setdiff(colnames(vertices), &amp;quot;id&amp;quot;))] # coordenadas aproximadas de los vértices my.</description>
+    </item>
+    
+    <item>
+      <title>Grafos sobre mapas</title>
+      <link>/2015/05/18/grafos-sobre-mapas/</link>
+      <pubDate>Mon, 18 May 2015 08:13:03 +0000</pubDate>
+      
+      <guid>/2015/05/18/grafos-sobre-mapas/</guid>
+      <description>He escrito de grafos, he escrito de mapas; hoy hablaré de la combinación de ambas cosas.
+Tengo un grafo cuyos nodos están geoposicionados. Lo quiero estudiar utilizando herramientas de grafos (vía [igraph](http://igraph.org/r/)) pero después representarlos sobre una capa con información geográfica (una foto satelital de Google Maps, vamos).
+La red va a ser la de guifi.net en los derredores de Barcelona. guifi.net es un proyecto para crear una red de telecomunicaciones mancomunada, abierta, libre y neutral.</description>
+    </item>
+    
+    <item>
+      <title>Agrupación de grafos por topología</title>
+      <link>/2014/06/13/agrupacion-de-grafos-por-topologia/</link>
+      <pubDate>Fri, 13 Jun 2014 07:26:00 +0000</pubDate>
+      
+      <guid>/2014/06/13/agrupacion-de-grafos-por-topologia/</guid>
+      <description>Anuncio algo que no he conseguido hacer: agrupar grafos por topología. Pero no me he quedado lejos. Y espero que si alguien tiene alguna idea al respecto, nos lo haga saber al resto en la coda.
+Contexto (disfrazado). Hay usuarios que tienen correos electrónicos. La relación esperada es de uno a uno. Pero la realidad es, como siempre, mucho más compleja: hay usuarios que tienen varios correos y correos compartidos por varios usuarios.</description>
+    </item>
+    
+  </channel>
+</rss>

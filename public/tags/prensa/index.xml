@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prensa on datanalytics</title>
+    <link>/tags/prensa/</link>
+    <description>Recent content in prensa on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 05 Dec 2019 09:13:00 +0000</lastBuildDate><atom:link href="/tags/prensa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ser científico de datos, ¿puede ser menos sexi de lo que te han contado?</title>
+      <link>/2019/12/05/ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado/</link>
+      <pubDate>Thu, 05 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/05/ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado/</guid>
+      <description>Puede que sí, pero no por las razones expuestas en Retina.
+[Nota: Perdón por meterme con Retina. Es tan de amateur como criticar los gráficos de Expansión o los argumentos económicos de un peronista.]
+En particular, argumenta Retina que esas máquinas a las que les echas unos datos y encuentran por sí solas el mejor modelo nos van a dejar sin trabajo.
+Otra vez.
+El autoML es como los crecepelos, las dietas milagrosas y los tipos que te cuentan que van a hacerse ricos con su algoritmo de inversión en bolsa: llevan toda la vida anunciándolos, logran cierta exposición mediática gracias a panfletos como Retina y nadie les dedica un mal obituario cuando mueren en el olvido (¿alguien recuerda a KXEN, por ejemplo?</description>
+    </item>
+    
+    <item>
+      <title>Todo libro de estadística básica debería tener un enlace al este artículo</title>
+      <link>/2019/10/09/todo-libro-de-estadistica-basica-deberia-tener-un-enlace-al-este-articulo/</link>
+      <pubDate>Wed, 09 Oct 2019 09:13:15 +0000</pubDate>
+      
+      <guid>/2019/10/09/todo-libro-de-estadistica-basica-deberia-tener-un-enlace-al-este-articulo/</guid>
+      <description>Se trata de Avinyonet del Penedès: el misterio del pueblo que se hizo rico de golpe y la entradilla lo dice todo:
+Y es que la interpretación de la media —salvo en circunstancias muy concretas y, a menudo, abstractas— no es para nada clara.</description>
+    </item>
+    
+    <item>
+      <title>¡Eh! ¡Atención a la media geométrica!</title>
+      <link>/2019/05/09/eh-atencion-a-la-media-geometrica/</link>
+      <pubDate>Thu, 09 May 2019 09:13:57 +0000</pubDate>
+      
+      <guid>/2019/05/09/eh-atencion-a-la-media-geometrica/</guid>
+      <description>El insomnio y la serendipia me han hecho transitar por unas líneas en las que se lee:
+La media geométrica resuelve problemas relacionados con los outliers y encuentra aplicaciones inesperadas, como por ejemplo esta (donde, véase la nota del final, se usa para mitigar el efecto de determinados valores anómalos y suavizar las series).
+Está indicada para situaciones en los que los valores recorren diversos órdenes de magnitud (piénsese: salarios en economías medianamente libres) y, en general y usando terminología talebiana, extremistán (en oposición al arimético normalistán).</description>
+    </item>
+    
+    <item>
+      <title>El día del oxímoron</title>
+      <link>/2019/04/04/el-dia-de-la-oximoron/</link>
+      <pubDate>Thu, 04 Apr 2019 09:13:18 +0000</pubDate>
+      
+      <guid>/2019/04/04/el-dia-de-la-oximoron/</guid>
+      <description>Han aparecido dos artículos publicados en prensa hoy, en el mismo día:
+ Indra deja desiertos 800 puestos en España por falta de mano de obra cualificada_ _ * El sistema me ha expulsado por no publicar, que trata de cómo _Cristina Gil-Lamaignere trabajó con un Nobel y ahora cursa un grado de FP porque no ha podido acreditar su labor científica_  Tengo más comentarios que hacer que tiempo para escribirlos, así que dejo que cada cual saque su propia conclusión.</description>
+    </item>
+    
+    <item>
+      <title>Cerebros &#34;hackeados&#34;</title>
+      <link>/2019/01/25/cerebros-hackeados/</link>
+      <pubDate>Fri, 25 Jan 2019 08:13:56 +0000</pubDate>
+      
+      <guid>/2019/01/25/cerebros-hackeados/</guid>
+      <description>Tengo delante Los cerebros ‘hackeados’ votan de Harari, autor de cierta y reciente fama. Elabora sobre un argumento simple y manido: el cerebro funciona como un ordenador y los seres humanos somos no solo perfectamente predecibles sino también perfectamente manipulables. De lo que se derivan muchas funestas consecuencias en lo político y en lo social.
+El artículo me ha sido recomendado por dos personas cuyo criterio tengo en muy alta estima.</description>
+    </item>
+    
+    <item>
+      <title>Consecuencias indeseadas de la falta de humildad</title>
+      <link>/2018/07/16/consecuencias-indeseadas-de-la-falta-de-humildad/</link>
+      <pubDate>Mon, 16 Jul 2018 08:13:00 +0000</pubDate>
+      
+      <guid>/2018/07/16/consecuencias-indeseadas-de-la-falta-de-humildad/</guid>
+      <description>Me refiero a estas:
+La historia, resumida, es que Kiko Llaneras publica sus predicciones para el mundial en El País, i.e.,
+y a la vista de los acontecimientos balompédicos, tiempo le ha faltado al del tuit para lanzarse en tromba contra quienes prentenden cuantificar fenónenos complejos y contra Llaneras en particular. Y luego, claro, parte de nosotros, le hemos atizado con bastante razón. Pero no, argumentaré, toda.
+Me retrotraigo. Hay mucha gente que paga su hipoteca escribiendo bonito.</description>
+    </item>
+    
+    <item>
+      <title>Invertir relaciones causales plausibles exige mucha, mucha explicación</title>
+      <link>/2018/03/16/invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion/</link>
+      <pubDate>Fri, 16 Mar 2018 08:13:54 +0000</pubDate>
+      
+      <guid>/2018/03/16/invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion/</guid>
+      <description>Si yo digo que X llegó a vivir 95 años con salud y añado que siempre siguió una dieta sana, nos parecería muy raro que alguien nos contestase: ¿para qué se sometió X a una dieta sana si, al final, iba a vivir 95 años?
+Si digo que el país Y tiene una tasa de patentes por habitantes muy por encima de la media y añado que el gobierno invierte un porcentaje sustancial en I+D, nos parecería muy raro que alguien apostillase: ¿para qué invertir en I+D si, al final, esa gente no para de patentar?</description>
+    </item>
+    
+    <item>
+      <title>Más sobre sesgo, varianza y gripe: estimaciones a ojímetro</title>
+      <link>/2018/02/22/mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro/</link>
+      <pubDate>Thu, 22 Feb 2018 08:13:45 +0000</pubDate>
+      
+      <guid>/2018/02/22/mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro/</guid>
+      <description>Después de mi entrada del otro día sobre sesgo, varianza y gripe (¡y gilipollas!) hablé al respecto con una periodista que me tropecé.
+Le conté, esencialmente, lo que decía mi entrada: que 472 fallecidos por gripe (o fallecimientos en los que la gripe forma parte de la secuencia causal) es una infraestimación supina. Que el número (superimpreciso, por infinidad de razones) es muy superior y añadí, después de un par de humms mientras calculaba rápidamente, que la cifra real tenía que estar en el entorno de los 10k.</description>
+    </item>
+    
+    <item>
+      <title>De sesgo, varianza y gilipollas (esta vez, con la gripe como excusa)</title>
+      <link>/2018/02/13/de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa/</link>
+      <pubDate>Tue, 13 Feb 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/02/13/de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa/</guid>
+      <description>Un gilipollas se delatará por preferir una mentira exacta a una verdad aproximada. Y me refiero a La gripe ha causado ya más muertes en España que la pandemia de 2009, donde se lee que
+Pues bien, gilipollas del mundo: sabed que los muertos por gripe son muchos, muchos más que esos 472. Corred a echarle la culpa al gobierno, a Carmena, a Puigdemont y los catalanes, al pobrismo imperante o al heteropatriarcado rampante y dejadnos a la gente seria discutir el quid sosegadamente.</description>
+    </item>
+    
+    <item>
+      <title>Mortalidad en carretera (contada de una manera distinta)</title>
+      <link>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</link>
+      <pubDate>Tue, 09 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</guid>
+      <description>Con motivo de fin de año se ha hablado de fallecidos en accidentes de tráfico como por ejemplo en El Mundo o en El País. Y sí, parece que el número observado de muertos ha aumentado.
+Lo cual es mucho menos relevante de lo que se da a entender. Si tiras una moneda al aire 100 veces y sacas 48 caras y luego repites el experimento, podrías sacar 53 (y habría aumentado el número observado de caras) o 45 (y habría disminuido).</description>
+    </item>
+    
+    <item>
+      <title>Preludio (de más por venir)</title>
+      <link>/2018/01/05/preludio-de-mas-por-venir/</link>
+      <pubDate>Fri, 05 Jan 2018 08:13:29 +0000</pubDate>
+      
+      <guid>/2018/01/05/preludio-de-mas-por-venir/</guid>
+      <description>El preludio esto:
+Que tiene el interés y la interpretación (muchas de ellas, como se podrá barruntar más abajo, de corte técnico) que cada uno quiera darle.
+La cuestión es que he ocerreado todas las portadas de El País y puedo buscar en el texto (adviértase la cursiva) resultante. Creo contar con una voluntaria para construir una aplicación web similar a la de los n-gramas de Google.
+Igual subo los datos a algún sitio en algún momento.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre correlaciones espurias y más sobre correlación y causalidad</title>
+      <link>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</link>
+      <pubDate>Mon, 27 Nov 2017 08:13:17 +0000</pubDate>
+      
+      <guid>/2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/</guid>
+      <description>Hoy toca esto:
+Se trata de una invitación para leer el artículo Los picos de contaminación coinciden con un aumento radical en los ingresos hospitalarios, un cúmulo de desafueros epilogados por el ya habitual
+En primer lugar y antes de nada, me es obligado felicitar a los dos autores del estudio: desde el sector privado, sin ningún tipo de subvención pública y con coste cero para el contribuyente, han llegado a la misma conclusión que un señor, este, que, aparte de omitir la coletilla anterior en sus artículos, nos cuesta a todos un chorro de euros cada mes.</description>
+    </item>
+    
+    <item>
+      <title>Militancia y datos</title>
+      <link>/2017/09/18/militancia-y-datos/</link>
+      <pubDate>Mon, 18 Sep 2017 08:13:14 +0000</pubDate>
+      
+      <guid>/2017/09/18/militancia-y-datos/</guid>
+      <description>Allá por el 2007 publicó The Independent una portada en que se retractaba. El diario había sido un histórico defensor de la legalización de la marihuana. Ese día hizo público su cambio de postura. Al parecer, motivada por las evidencias sobre los efectos sobre la salud mental.
+Este fin de semana he asistido a una serie de conferencias. En una de ellas participaba el representante de una organización que:
+ * Adoptaba de partida una posición militante, de parte, en cierto asunto de interés público.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué hemos hecho mal?</title>
+      <link>/2017/07/26/que-hemos-hecho-mal/</link>
+      <pubDate>Wed, 26 Jul 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/07/26/que-hemos-hecho-mal/</guid>
+      <description>Leo (¡en prensa!):
+Algo estamos haciendo fatal.</description>
+    </item>
+    
+    <item>
+      <title>Cartuchos malbaratados</title>
+      <link>/2017/06/27/cartuchos-malbaratados/</link>
+      <pubDate>Tue, 27 Jun 2017 08:13:12 +0000</pubDate>
+      
+      <guid>/2017/06/27/cartuchos-malbaratados/</guid>
+      <description>Me instan a hablar de
+que procede de aquí y donde se compara el precio de una cerveza en la plaza mayor de las capitales de provincia españolas (a propósito, ¿cuál es la plaza mayor de Zaragoza o Soria?). Dejando el resto (casi todas, de hecho) de las cuestiones de lado, nos centraremos en el gráfico.
+¿Qué nos dice la teoría sobre gráficos como este? Primero, que de entre todas las estéticas (usando la nomenclatura propia de ggplot2), las que mejor captura el ojo son x e y.</description>
+    </item>
+    
+    <item>
+      <title>¡Doble llave al sepulcro de Gauss!</title>
+      <link>/2017/05/23/doble-llave-al-sepulcro-de-gauss/</link>
+      <pubDate>Tue, 23 May 2017 08:13:55 +0000</pubDate>
+      
+      <guid>/2017/05/23/doble-llave-al-sepulcro-de-gauss/</guid>
+      <description>¿Hasta dónde creéis que estoy de que cuando se hace divulgación matemática en la prensa diaria vuelvan a reciclarse las manidas historias del Gauss jovencito sumando 1:100, de por dónde sacaba Euler a pasear el perro o de si es posible calcular una raíz cúbica con regla y compás?
+Si ha pasado algo interesante y de impacto en las matemáticas en los últimos tiempos (dentro de la última década, porfa), hágase el esfuerzo en replantearlo en términos asequibles y tráigase a la atención del lector.</description>
+    </item>
+    
+    <item>
+      <title>El señor de las ondículas</title>
+      <link>/2017/03/24/el-senor-de-las-ondiculas/</link>
+      <pubDate>Fri, 24 Mar 2017 08:13:18 +0000</pubDate>
+      
+      <guid>/2017/03/24/el-senor-de-las-ondiculas/</guid>
+      <description>Un enanito encuentra un anillo. Eso le lleva a abandonar la comodidad de su Comarca para comenzar la más trepidante de las aventuras que le conducirá a salvar el mundo.
+Un matemático encuentra unos papeles abandonados en una fotocopiadora, coge el primer tren para visitar a los autores y consigue transformar la sociedad: gracias a él, podemos ver imágenes de nuestros páncreas en los hospitales.
+Eso nos cuenta el primer párrafo de esto, que dice:</description>
+    </item>
+    
+    <item>
+      <title>Y mientras tanto... nos roban la cartera</title>
+      <link>/2017/03/23/y-mientras-tanto-nos-roban-la-cartera/</link>
+      <pubDate>Thu, 23 Mar 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/03/23/y-mientras-tanto-nos-roban-la-cartera/</guid>
+      <description>Hablamos de ondículas.
+Hablamos de datos abiertos.
+Hablamos de cómo usar la semilla como hiperparámetro para mejorar una diezmilésima el RMSE.
+Hablamos.
+Mientras tanto, la mano es más rápida que el ojo, el ojo es más lento que la mano, ¿dónde estará la bolita?, ¿dónde estará?, porque la mano es más ra?ido que el ojo&amp;hellip; Y en esas, el cuñado de fulano nos saca inadvertidamente cuarenta kilos de la cartera.</description>
+    </item>
+    
+    <item>
+      <title>Las gráficas en la prensa (de allá)</title>
+      <link>/2017/02/22/las-graficas-en-la-prensa-de-alla/</link>
+      <pubDate>Wed, 22 Feb 2017 08:13:12 +0000</pubDate>
+      
+      <guid>/2017/02/22/las-graficas-en-la-prensa-de-alla/</guid>
+      <description>La gráfica
+muestra el número (manifiestamente creciente) de gráficas publicadas en una muestra de ejemplares del NYT (una quinquenal en un día laborable de septiembre) tal como se cuenta aquí.
+¿Sería posible hacer un estudio similar con la prensa de aquí? Interesante, seguro, sí.</description>
+    </item>
+    
+    <item>
+      <title>Hacía tanto que no publicaba sobre graficaca, tanto, que casi ni me acordaba</title>
+      <link>/2016/12/01/hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-me-acordaba/</link>
+      <pubDate>Thu, 01 Dec 2016 08:13:33 +0000</pubDate>
+      
+      <guid>/2016/12/01/hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-me-acordaba/</guid>
+      <description>Hasta que, zas,
+El perpetrador, bez.es.
+Nota: Sumad porcentajes. El resto del artículo dice cosas que seguro que son ciertas, son interesantes, pero taaaaan obvias&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>¿Quién demonios lee el segundo párrafo?</title>
+      <link>/2016/09/08/quien-demonios-lee-el-segundo-parrafo/</link>
+      <pubDate>Thu, 08 Sep 2016 08:13:05 +0000</pubDate>
+      
+      <guid>/2016/09/08/quien-demonios-lee-el-segundo-parrafo/</guid>
+      <description>Me llega por Twitter lo que lleva por título Más suicidios y peor salud mental por la crisis en España y Grecia.
+Hay una escena de la película Primera Plana resumida aquí pero que, por abreviar, reproduzco con la ayuda de Control-C y Control-V: Walter Matthau, director del Examiner, relee por encima del hombro de su redactor jefe, Jack Lemmond, mientras este redacta la gran exclusiva. &amp;ldquo;Pero, ¿no citas al Examiner?</description>
+    </item>
+    
+    <item>
+      <title>&#34;Mi argumento no era científico, sino empírico&#34;</title>
+      <link>/2016/07/19/mi-argumento-no-era-cientifico-sino-empirico/</link>
+      <pubDate>Tue, 19 Jul 2016 08:13:53 +0000</pubDate>
+      
+      <guid>/2016/07/19/mi-argumento-no-era-cientifico-sino-empirico/</guid>
+      <description>En El triunfo de los descerebrados escribe Javier Cercas una frase que le vale no tanto la fama como una mención veraniega en mis páginas. Es la que titula la entrada y que no voy a comentar más.
+No habría seguido leyendo de no haber advertido que el asunto es material de blog, en esta época en la que tan corto ando de motivos, y me habría perdido otro parrafito,</description>
+    </item>
+    
+    <item>
+      <title>Los resultados de esta investigación tienen puntos en común con la metodología científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención que la tenga</title>
+      <link>/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/</link>
+      <pubDate>Fri, 05 Feb 2016 09:13:42 +0000</pubDate>
+      
+      <guid>/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/</guid>
+      <description>¡Olé!
+Con la frase que titula esta entrada se cierra este artículo tan torero de eldiario.es.
+El resto de lo que se publica me viene de perillas para ilustrar a mis alumnos del máster de ciencia de datos de KSchool eso de la dependencia e independencia condicional.
+Lo que el artículo argumenta, y que nadie pone en duda, es que altas concentraciones de óxidos de nitrógeno (A) y picos de hospitalizaciones por enfermedades respiratiorias (B), no son eventos independientes.</description>
+    </item>
+    
+    <item>
+      <title>Condicional e incertidumbre</title>
+      <link>/2015/07/01/condicional-e-incertidumbre/</link>
+      <pubDate>Wed, 01 Jul 2015 08:13:43 +0000</pubDate>
+      
+      <guid>/2015/07/01/condicional-e-incertidumbre/</guid>
+      <description>En una charla hace un tiempo critiqué que no se usase el condicional en titulares tales como
+
+en el que se da noticia de los resultados de una encuesta (el barómetro del CIS). Porque una cosa es que un partido gane las elecciones y otra que las ganaría si se diesen una serie de circunstancias: entre otras, la fundamental, que las hubiera (el resto tienen que ver con la incertidumbre asociada a las encuestas, etc.</description>
+    </item>
+    
+    <item>
+      <title>¡Qué prensa tan mala!</title>
+      <link>/2011/04/12/que-prensa-tan-mala/</link>
+      <pubDate>Tue, 12 Apr 2011 07:41:46 +0000</pubDate>
+      
+      <guid>/2011/04/12/que-prensa-tan-mala/</guid>
+      <description>Al autor de estas páginas se le cae la baba con las infografías del New York Times (¿sabéis que en ese periódico usan R?) y de The Guardian. Y esperaba, ¡qué menos!, algo si no ya similar, al menos sí decente del, dicen, más serio de los periódicos españoles.
+Pero hoy se me ha caído el alma a los pies. Fijáos, fijáos lectores:
+
+¿Veis cómo los porcentajes no tienen nada que ver con las cifras absolutas?</description>
+    </item>
+    
+    <item>
+      <title>R en &#34;The economist&#34;</title>
+      <link>/2010/03/01/r-en-the-economist/</link>
+      <pubDate>Mon, 01 Mar 2010 21:02:07 +0000</pubDate>
+      
+      <guid>/2010/03/01/r-en-the-economist/</guid>
+      <description>El semanario The Economist ha publicado un suplemento especial sobrenuevos retos y tendencias en el proceso de cantidades ingentes de información. Aparte de multiplicar por 10 los informes que aparecen publicados periódicamente, en éste se menciona explícitamente que un free programming language called R lets companies examine and present big data sets.
+También habla de Hadoop y otras técnicas y herramientas novedosas de las que sin duda voy a ir hablando en estas páginas.</description>
+    </item>
+    
+  </channel>
+</rss>

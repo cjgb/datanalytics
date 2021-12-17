@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>propagate on datanalytics</title>
+    <link>/tags/propagate/</link>
+    <description>Recent content in propagate on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Mar 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/propagate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Más sobre el &#34;método delta&#34;: propagate</title>
+      <link>/2020/03/10/mas-sobre-el-metodo-delta-propagate/</link>
+      <pubDate>Tue, 10 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/10/mas-sobre-el-metodo-delta-propagate/</guid>
+      <description>Por referencia y afán de completar dos entradas que hice hace un tiempo sobre el método delta, esta y esta, dejo constar mención al paquete [propagate](https://CRAN.R-project.org/package=propagate), que contiene métodos para la propagación de la incertidumbre.
+Para desavisados: si $latex x \sim N(5,1)$ e $latex y \sim N(10,1)$, ¿cómo sería la distribución de $latex x/y$? Etc.</description>
+    </item>
+    
+  </channel>
+</rss>

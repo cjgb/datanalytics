@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>r - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="r" />
+<meta property="og:description" content="asdf" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/tags/r/" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/tags/r/index.xml" title="datanalytics">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">r</h1>
+	</header><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2013/01/09/el-ibex-35-estilo-gapminder/" rel="bookmark">
+			El Ibex 35 al estilo GapMinder
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2013-01-09T07:07:31Z">2013-1-9</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/finanzas/" rel="category">finanzas</a>, <a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al estilo GapMinder. En concreto, usando un MotionChart de Google.
+Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/XML&quot;&gt;XML) simbolos &lt;- readHTMLTable(htmlParse(&quot;http://finance.yahoo.com/q/cp?s=%5EIBEX+Components&quot;)) simbolos &lt;- as.character(simbolos[[9]]$Symbol) simbolos &lt;- gsub(&quot;-P&quot;, &quot;&quot;, simbolos)  Luego, creo una pequeña función y se la aplico a cada símbolo:
+library(&lt;a href=&quot;http://inside-r.org/packages/cran/tseries&quot;&gt;tseries) foo &lt;- function( simbolo, final = &lt;a href=&quot;http://inside-r.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/12/11/prueba-r-gentileza-de-code-school-com/" rel="bookmark">
+			Prueba R, gentileza de code school.com
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-12-11T07:35:30Z">2012-12-11</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		¿Has oído hablar de R y quieres probarlo? ¿Sabes de alguien que esté pensando en hacer sus pinitos con él y que no sepa por dónde empezar?
+
+Codeschool.com (en colaboración con O&rsquo;Reilly) han creado un microcurso, Try R, que permite familiarizarse con lo básico de R sin instalar nada, desde el navegador.
+¿Quieres probar R? No tienes excusa.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/11/28/coma-cero-dos-por-ciento-anda-ya/" rel="bookmark">
+			¿... coma cero dos por ciento? ¡Anda ya!
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-11-28T06:52:41Z">2012-11-28</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hoy hablo en la reunión del grupo de usuarios de R de Madrid. Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi paquete MicroDatosEs y voy a aprovechar para criticar, en mi estilo, enunciados como
+que pueden encontrarse en la nota de prensa del INE que resume los resultados de la última encuesta de población activa, la del tercer trimestre de 2012.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/11/20/lo-normal-sumar-doce-restar-seis/" rel="bookmark">
+			Lo normal: sumar doce, restar seis
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-11-20T07:40:45Z">2012-11-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Un truco para generar variables aleatorias normales: sumar doce uniformes y restar seis.
+En efecto,
+x &lt;- replicate(1000, sum( runif(12) - 6 )) &lt;a href=&quot;http://inside-r.org/r-doc/stats/qqnorm&quot;&gt;qqnorm(x) &lt;a href=&quot;http://inside-r.org/r-doc/stats/qqline&quot;&gt;qqline(x, col=2)  produce
+
+Ayuda a entender el motivo que la varianza de la distribución uniforme es 1/12 y que su media es 1/2.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/11/19/presentacion-del-libro-six-sigma-with-r/" rel="bookmark">
+			Presentación del libro &#34;Six Sigma with R&#34;
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-11-19T07:38:58Z">2012-11-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El martes 20 de noviembre, a las 17:00h, tendrá lugar la presentación del libro Six Sigma with R: Statistical Engineering for Process Improvement&quot; en la sala Juan Béjar de la E.U. de Estadística de la U. Complutense por parte de Emilio López Cano.
+
+Existe además un paquete de R, SixSigma, desarrollado por los autores y disponible en CRAN.
+El mundo del control de la calidad (en ingeniería) está dominado por software propietario, particularmente, Minitab.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/11/13/entrevista-en-el-portal-del-rug-barcelona/" rel="bookmark">
+			Entrevista en el portal del RUG Barcelona
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-11-13T07:00:05Z">2012-11-13</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Ayer salió publicada una entrevista que me hicieron Aleix Ruiz de Villa y Lluís Ramón, del RUG Barcelona (grupo de usuarios de R de Barcelona). Puede leerse íntegramente en este enlace.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/" rel="bookmark">
+			Liberado BioStatFLOSS, una colección de recursos libres para la bioestadística y la epidemiología 
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-10-29T07:50:38Z">2012-10-29</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Quiero publicitar hoy BioStatFLOSS, una recopilación de software (libre, como el propio nombre indica) para Windows, especialmente indicado a la hora de realizar trabajos en el campo de la bioestadística y la epidemiología (pero que también se puede utilizar para la realización de estudios estadísticos más generales).
+El software (que incluye R como programa estrella) ha sido portabilizado —si no existía ya una versión portable, es decir, que no necesite instalación— y se ha creado un lanzador común desde donde se puedan llamar a todos esos programas (véase la captura adjunta).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/10/26/hhh-hht-y-el-comando-yield-de-python/" rel="bookmark">
+			HHH, HHT y el comando &#34;yield&#34; de Python
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-10-26T07:18:38Z">2012-10-26</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/probabilidad/" rel="category">probabilidad</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Variable aleatoria X: tiramos una moneda al aire sucesivamente y contamos el número de veces que lo hacemos hasta obtener el patrón HHH (tres caras) en las tres últimas tiradas.
+Variable aleatoria Y: lo mismo, pero hasta que salga el patrón HHT.
+Entonces las medias de X e Y son iguales, ¿verdad? Pues no. (¿Alguien sabría decirme cuál de las combinaciones, HHH o HHT, tiende, en promedio, a aparecer antes? Pueden darse explicaciones muy complejas, pero existe una muy simple e intuitiva).
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/10/24/veinte-herramientas-de-visualizacion/" rel="bookmark">
+			Veinte herramientas de visualización
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-10-24T07:54:41Z">2012-10-24</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/gr%C3%A1ficos/" rel="category">gráficos</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Este es un listado de 20 herramientas de visualización que he extraído de aquí. Están divididas en varios grupos:
+ * Básicas: Excel y, extrañamente, CSV y JSON (que aun sin ser herramientas de visualización, son formatos usuales para el intercambio de información usados por ellas). * Visualización en línea: * [Google Chart API](https://developers.google.com/chart/) * [Flot](http://www.flotcharts.org/), [Raphaël](http://raphaeljs.com/) y [D3](http://d3js.org/), librerías de JavaScript. * [visual.ly](http://visual.ly/), que sirve para crear esas configuraciones rectangulares de números y símbolos no siempre útiles que algunos llaman infografías.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/10/22/nuevo-curso-gratuito-de-estadistica-con-r/" rel="bookmark">
+			Nuevo curso (gratuito) de estadística con R
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-10-22T07:18:23Z">2012-10-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hace unos meses, Juanjo Gibaja y yo lanzamos el un curso básico de R. Animados por el éxito de crítica y público, volvemos a la carga con uno nuevo. Esta vez el curso se titula Introducción a la estadística moderna con R. Y su presentación es:
+Sin embargo, pese a su juventud, hay quienes piensan que nació demasiado pronto. Algunos estadísticos modernos, de hecho, se han planteado la siguiente pregunta: ¿cómo sería la estadística si hubiese nacido después que los ordenadores?
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/10/19/reunion-del-grupo-de-usuarios-de-r-de-madrid/" rel="bookmark">
+			Reunión del Grupo de Usuarios de R de Madrid
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-10-19T07:07:48Z">2012-10-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		El día 31 de octubre (de 2012) se reunirá de nuevo el Grupo de Usuarios de R de Madrid. La reunión tendrá lugar en el Matadero (metro Legazpi) y el programa y otros detalles pueden consultarse, como siempre, en la página del grupo. Y también en la página de Medialab Prado.
+Entre otras cosas, casi seguro, se discutirá el plan de reuniones para el curso actual, los temas que se discutirán en las siguientes, etc.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/10/18/algunos-graficos-de-informacion-bursatil/" rel="bookmark">
+			Algunos gráficos de información bursátil
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-10-18T07:07:41Z">2012-10-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/finanzas/" rel="category">finanzas</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Hoy voy a presentar algunos gráficos de información bursátil adaptados a partir de código de Eric Zivot, el instructor del curso Introduction to Computational Finance and Financial Econometrics que estoy siguiendo (un poco como puta por rastrojo: siempre me las arreglo para resolver los ejercicios en el último minuto y antes de haber revisado la teoría) en Coursera.
+Por si pueden servir de algo a otros, los reproduzco y comento aquí.
+	</div>
+</article><article class="list__item post">
+	
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="/2012/10/16/r-como-herramienta-de-captura-de-datos/" rel="bookmark">
+			R como herramienta de captura de datos
+			</a>
+		</h2>
+		<div class="list__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2012-10-16T07:12:17Z">2012-10-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Seré breve hoy porque estoy desinspirado. Y también porque estoy trabajando en dos o tres proyectos importantes de los que se hablará por aquí pronto. Así que hoy me dedicaré a divulgar una presentación de Jeffrey Breen que tiene un título engañoso: Tapping the Data Deluge with R.
+En realidad, es un repaso (y el código está disponible) de las posibilidades que ofrece R para capturar datos disponibles en línea en diversos repositorios: Banco Mundial, Yahoo, Twitter.
+	</div>
+</article>
+</main>
+
+<div class="pagination">
+	<a class="pagination__item pagination__item--prev btn" href="/tags/r/page/34/">«</a>
+	<span class="pagination__item pagination__item--current">35/51</span>
+	<a class="pagination__item pagination__item--next btn" href="/tags/r/page/36/">»</a>
+</div>
+
+			</div>
+			
+<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+</body>
+</html>

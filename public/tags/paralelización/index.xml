@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paralelización on datanalytics</title>
+    <link>/tags/paralelizaci%C3%B3n/</link>
+    <description>Recent content in paralelización on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 04 Nov 2016 08:13:59 +0000</lastBuildDate><atom:link href="/tags/paralelizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R en paralelo (pero ahora, con futuros)</title>
+      <link>/2016/11/04/r-en-paralelo-pero-ahora-con-futuros/</link>
+      <pubDate>Fri, 04 Nov 2016 08:13:59 +0000</pubDate>
+      
+      <guid>/2016/11/04/r-en-paralelo-pero-ahora-con-futuros/</guid>
+      <description>Esta entrada extiende y mejora una homónima de 2014.
+El problema de entonces consistía en calcular por separado y en paralelo objetos A, B y C para combinarlos después. Cuando, por supuesto, el cálculo de A, B y C es pesado.
+El muy reciente paquete future incorpora a R un mecanismo disponible en otros lenguajes de programación: un cierto tipo de datos, los futuros, que contienen promesas de valores que se calculan fuera del hilo principal del programa.</description>
+    </item>
+    
+    <item>
+      <title>Estrategias escalables con R</title>
+      <link>/2015/07/22/estrategias-escalables-con-r-2/</link>
+      <pubDate>Wed, 22 Jul 2015 08:13:34 +0000</pubDate>
+      
+      <guid>/2015/07/22/estrategias-escalables-con-r-2/</guid>
+      <description>Recomiendo leer Scalable Strategies for Computing with Massive Data, un artículo que trata dos de los problemas de escalabilidad con que tropezamos los usuarios de R:
+ * Los de memoria, para los que proponen e ilustran el uso del paquete [`bigmemory`](https://cran.r-project.org/web/packages/bigmemory/index.html). * Los de velocidad de ejecución, a los que se enfrentan paralelizando el código, tanto en una única máquina como en un clúster, con [`foreach`](https://cran.r-project.org/web/packages/foreach/index.html).  En el artículo no solo discute los dos paquetes por separado sino que ilustra, además, cómo usarlos conjuntamente en su propuesta de estrategia escalable con R.</description>
+    </item>
+    
+    <item>
+      <title>Paralelismo en R: memo[rándum]</title>
+      <link>/2015/06/15/paralelismo-en-r-memorandum/</link>
+      <pubDate>Mon, 15 Jun 2015 08:13:30 +0000</pubDate>
+      
+      <guid>/2015/06/15/paralelismo-en-r-memorandum/</guid>
+      <description>Esta es una nota que me dejo a mí mismo sobre paralelización en R para no tener que ir buscándola en otras partes:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/lattice/parallel&amp;quot;&amp;gt;parallel) foo &amp;lt;- function(i){ &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/Sys.sleep&amp;quot;&amp;gt;Sys.sleep(i) } cl &amp;lt;- makeCluster(4) system.time(parSapply(cl, 1:4, foo)) # user system elapsed # 0.025 0.006 4.007 system.time(sapply(1:4, foo)) # user system elapsed # 0.039 0.033 10.001 stopCluster(cl)  </description>
+    </item>
+    
+    <item>
+      <title>Paralelización en R con snow</title>
+      <link>/2014/12/03/paralelizacion-en-r-con-snow/</link>
+      <pubDate>Wed, 03 Dec 2014 07:13:13 +0000</pubDate>
+      
+      <guid>/2014/12/03/paralelizacion-en-r-con-snow/</guid>
+      <description>Suelo trabajar un servidor con ocho CPUs. Cuando quiero paralelizar código en R, suelo utilizar [parallel::mclapply](https://stat.ethz.ch/R-manual/R-devel/library/parallel/html/mclapply.html) (como aquí). Pero no tengo una máquina. Tengo varias. Y antes, de hecho, muchas.
+¿Cómo paralelizar en distintas máquinas?
+Se puede usar Spark (y SparkR), por ejemplo. Pero una ruta que no había ensayado jamás es la de la vieja escuela, i.e., MPI, snow y demás.
+Pero si
+ * tienes varios servidores corriendo un sistema operativo decente, * instalas R y `snow` (y todo lo que necesites) en todos ellos y * configuras los servidores para poder acceder a través de [ssh sin contraseña](http://www.</description>
+    </item>
+    
+    <item>
+      <title>Estrategias escalables (con R)</title>
+      <link>/2014/07/09/estrategias-escalables-con-r/</link>
+      <pubDate>Wed, 09 Jul 2014 07:13:41 +0000</pubDate>
+      
+      <guid>/2014/07/09/estrategias-escalables-con-r/</guid>
+      <description>Hay quienes preguntan cómo cargar con R un csv de 8GB en un portátil de 4GB de RAM. La verdad, he leído respuestas la mar de extravagantes a este tipo de cuestiones: p.e., recomendar SQLite.
+Yo recomendaría Scalable Strategies for Computing with Massive Data. Entre otras cosas, porque para eso lo escribieron sus autores: para que se lea. Y porque está cargado de razón y buenos consejos.
+Una cosa con la que tropezará enseguida quien lo hojee es:</description>
+    </item>
+    
+    <item>
+      <title>Validación cruzada en paralelo</title>
+      <link>/2014/06/06/validacion-cruzada-en-paralelo/</link>
+      <pubDate>Fri, 06 Jun 2014 07:12:30 +0000</pubDate>
+      
+      <guid>/2014/06/06/validacion-cruzada-en-paralelo/</guid>
+      <description>Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es así:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/lattice/parallel&amp;quot;&amp;gt;parallel) cl &amp;lt;- makeCluster(8) # solo si hay aleatorización # clusterSetRNGStream(cl, 123) clusterEvalQ(cl, { # las librerías necesarias tienen que cargarse # en cada esclavo library(&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/rpart/rpart&amp;quot;&amp;gt;rpart) # en la práctica, hay que cargar los datos # (¿desde fichero?) en cada esclavo my.data &amp;lt;- iris # lo mismo con las funciones necesarias foo &amp;lt;- function(x, dat){ train &amp;lt;- 1:nrow(dat) %% 10 !</description>
+    </item>
+    
+    <item>
+      <title>R en paralelo</title>
+      <link>/2014/05/15/r-en-paralelo/</link>
+      <pubDate>Thu, 15 May 2014 07:13:59 +0000</pubDate>
+      
+      <guid>/2014/05/15/r-en-paralelo/</guid>
+      <description>Trabajo sobre una máquina de 8 núcleos y 24 GB de RAM. Y que conste que se me ha llegado a quedar chica.
+Algunos programas que ejecuto tienen (o contienen pedazos de) la forma
+ 1. calcula A 2. calcula B 3. calcula C 4. combina A, B y C  Obviamente, se me ocurre ejecutarlos así:
+ 1. calcula A, B y C en paralelo 2. cuando acabe el paso anterior, combina A, B y C  Y aún me sobrarían 5 núcleos y bastante RAM.</description>
+    </item>
+    
+    <item>
+      <title>Cuatro enlaces sobre R: Excel, C&#43;&#43;, CSV y paralelización</title>
+      <link>/2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/</link>
+      <pubDate>Fri, 21 Mar 2014 07:44:31 +0000</pubDate>
+      
+      <guid>/2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/</guid>
+      <description>Hoy traigo a mis páginas cuatro enlaces que apuntan a recetarios y tutoriales sobre la solución a cuatro problemas que pueden encontrar los usuarios de R:
+ * [Conectar R y Excel](http://www.thertrader.com/2014/02/11/a-million-ways-to-connect-r-and-excel/) * [Importar grandes ficheros CSV](http://statcompute.wordpress.com/2014/02/11/efficiency-of-importing-large-csv-files-in-r/) (y falta [`LaF`](http://cran.fhcrc.org/web/packages/LaF/index.html)) * [Integrar R con C/C++](http://anythingbutrbitrary.blogspot.ch/2014/02/three-ways-to-call-cc-from-r.html) * [Paralelizar código con `snow`](http://hernanresnizky.com/2014/01/10/quick-guide-to-parallel-r-with-snow/)  ¡Espero que os resulten útiles!</description>
+    </item>
+    
+    <item>
+      <title>Veinte paquetes de R para científicos de datos</title>
+      <link>/2014/03/12/veinte-paquetes-de-r-para-cientificos-de-datos/</link>
+      <pubDate>Wed, 12 Mar 2014 07:11:28 +0000</pubDate>
+      
+      <guid>/2014/03/12/veinte-paquetes-de-r-para-cientificos-de-datos/</guid>
+      <description>Me llegó recientemente un artículo con una lista de veinte paquetes de R para data scientists. Y no la encuentro afortunada. Voy a agrupar esos veinte paquetes en algunas categorías y añadiré comentarios. La primera de ellas es la de manipulación de datos, tal vez la más amplia, que recoge los siguientes: sqldf, plyr, stringr (para procesar texto), lubridate (para procesar fechas),reshape2 y los paquetes de acceso a bases de datos.</description>
+    </item>
+    
+    <item>
+      <title>Dont be loopy! (III: jackknife y paralelismo)</title>
+      <link>/2011/09/30/dont-be-loopy-iii-jackknife-y-paralelismo/</link>
+      <pubDate>Fri, 30 Sep 2011 06:52:59 +0000</pubDate>
+      
+      <guid>/2011/09/30/dont-be-loopy-iii-jackknife-y-paralelismo/</guid>
+      <description>Esta es la tercera entrega de una serie de artículos en los que comparo SAS y R a la hora de realizar diversos tipos de simulaciones basados en Don&amp;rsquo;t Be Loopy: Re-Sampling and Simulation the SAS® Way.
+Esta vez toca compararlos a la hora de aplicar el método del jackknife.
+Primero, el código SAS que recomienda el autor del artículo, que calcula la curtosis de un conjunto de datos trivial (una muestra de 10k valores que siguen una distribución uniforme):</description>
+    </item>
+    
+    <item>
+      <title>Paralelización de bucles con foreach</title>
+      <link>/2011/04/08/paralelizacion-de-bucles-con-foreach/</link>
+      <pubDate>Fri, 08 Apr 2011 07:26:41 +0000</pubDate>
+      
+      <guid>/2011/04/08/paralelizacion-de-bucles-con-foreach/</guid>
+      <description>Parcialmente en agradecimiento a Revolution Analytics por haber concedido una subvención a las III Jornadas de usuarios de R voy a discutir en esta entrada cómo paralelizar bucles usando los paquetes foreach y doMC desarrollados por dicha empresa.
+El paquete foreach contiene, esencialmente, una única función, foreach, que, en su forma más básica, permite ejecutar bucles con una sintaxis un tanto peculiar:
+1  foreach( i = 1:3 ) %do% log( i )   Volveré sobre algunas operaciones interesantes y bastante útiles que permite realizar esta función porque, de todas ellas, hoy me ocuparé sólo de una: la que abre la puerta de una manera sencilla a la paralelización de bucles.</description>
+    </item>
+    
+    <item>
+      <title>El paquete multicore de R</title>
+      <link>/2010/09/01/el-paquete-multicore-de-r/</link>
+      <pubDate>Wed, 01 Sep 2010 22:24:44 +0000</pubDate>
+      
+      <guid>/2010/09/01/el-paquete-multicore-de-r/</guid>
+      <description>Tengo acceso a una máquina que, aunque anda un poco corta de memoria, cuenta con ocho CPUs. Tenía unas simulaciones bastante pesadas que correr y quise aprovechar su naturaleza perfectamente paralelizable. Y, de paso, hacer con R lo mismo por lo que he visto a un consultor de SAS cobrar a razón de 3.000 dólares diarios.
+En el fondo, es una trivialidad. Supongamos que la función que implementa la simulación se llama foo.</description>
+    </item>
+    
+  </channel>
+</rss>

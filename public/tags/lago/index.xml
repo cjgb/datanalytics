@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lago on datanalytics</title>
+    <link>/tags/lago/</link>
+    <description>Recent content in lago on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 03 Apr 2014 07:03:22 +0000</lastBuildDate><atom:link href="/tags/lago/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Elements of Statistical Craftsmanship</title>
+      <link>/2014/04/03/the-elements-of-statistical-artisany/</link>
+      <pubDate>Thu, 03 Apr 2014 07:03:22 +0000</pubDate>
+      
+      <guid>/2014/04/03/the-elements-of-statistical-artisany/</guid>
+      <description>En How Statistics lifts the fog of war in Syria se describe una solución al problema de estimar el número de víctimas en cierto lance de la guerra de Siria. Lo complicado del problema es que existen diversos recuentos independientes y las víctimas pueden aparecer en todos, alguno o ninguno.
+Me llama la atención que el método utilizado sea el de los bosques aleatorios (en particular, el randomForest de R). No sabría cómo utilizarlo para resolver este problema.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuántos peces hay en un lago?</title>
+      <link>/2013/12/05/cuantos-peces-hay-en-un-lago/</link>
+      <pubDate>Thu, 05 Dec 2013 07:14:48 +0000</pubDate>
+      
+      <guid>/2013/12/05/cuantos-peces-hay-en-un-lago/</guid>
+      <description>Quien haya estudiado estadística o probabilidad en algún tipo de institución que ofrece educación reglada se habrá topado con el problema de estimar el número de peces de un lago.
+Esencialmente, lo que puede hacerse (dado que es imposible realizar un censo completo) es lo siguiente:
+ * Pescar cierto número de peces, p1, marcarlos y devolverlos al lago. * Pescar cierto número de peces, p2, y contar cuántos de ellos fueron marcados el día anterior, n.</description>
+    </item>
+    
+  </channel>
+</rss>

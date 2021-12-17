@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blas on datanalytics</title>
+    <link>/tags/blas/</link>
+    <description>Recent content in blas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Oct 2019 09:13:30 +0000</lastBuildDate><atom:link href="/tags/blas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BLAS, eficiencia y lme4</title>
+      <link>/2019/10/02/blas-eficiencia-y-lme4/</link>
+      <pubDate>Wed, 02 Oct 2019 09:13:30 +0000</pubDate>
+      
+      <guid>/2019/10/02/blas-eficiencia-y-lme4/</guid>
+      <description>Cada cierto número de años me reencuentro con la cuestión de BLAS, ATLAS y todas esas cosas por tratar de arañar un poco de eficiencia a R.
+Existen el BLAS de toda la vida que, parece ser, viene de serie con R y uno puede optar por otras versiones optimizadas como ATLAS u OpenBLAS, cuyas ventajas relativas, de acuerdo con estos benchmarks, no parecen demasiado claras.
+Lo novedoso en esta revisita al problema es que he aprendido que a los anteriores se han sumado en estos últimos años, cuando menos:</description>
+    </item>
+    
+  </channel>
+</rss>

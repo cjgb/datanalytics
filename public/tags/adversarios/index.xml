@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adversarios on datanalytics</title>
+    <link>/tags/adversarios/</link>
+    <description>Recent content in adversarios on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 08 May 2018 08:13:00 +0000</lastBuildDate><atom:link href="/tags/adversarios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colaboración con adversarios</title>
+      <link>/2018/05/08/colaboracion-con-adversarios/</link>
+      <pubDate>Tue, 08 May 2018 08:13:00 +0000</pubDate>
+      
+      <guid>/2018/05/08/colaboracion-con-adversarios/</guid>
+      <description>¿Debe usarse casco para circular con bici por las ciudades? Pues la respuesta, incluso la data driven, depende a quién leas. Ídem con cualquier otro asunto.
+Por eso es relevante la propuesta de colaboración con adversarios. Que se resume en:
+ * Dos personas con visiones opuestas sobre un tema se proponen colaborar en la redacción de un estudio. * Cada una de ellas se responsabiliza, pues, de aportar todo tipo de estudios y evidencia al respecto, cuidando de no omitir, por la cuenta que tiene, la más relevante para hacer prevalecer punto de vista.</description>
+    </item>
+    
+  </channel>
+</rss>

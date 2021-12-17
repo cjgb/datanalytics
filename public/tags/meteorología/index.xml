@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meteorología on datanalytics</title>
+    <link>/tags/meteorolog%C3%ADa/</link>
+    <description>Recent content in meteorología on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 13 Jun 2017 08:13:47 +0000</lastBuildDate><atom:link href="/tags/meteorolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La AEMET ha muerto, ¡larga vida a la NOAA!</title>
+      <link>/2017/06/13/la-aemet-ha-muerto-larga-vida-a-la-noaa/</link>
+      <pubDate>Tue, 13 Jun 2017 08:13:47 +0000</pubDate>
+      
+      <guid>/2017/06/13/la-aemet-ha-muerto-larga-vida-a-la-noaa/</guid>
+      <description>El otro día, buscando datos meteorológicos (históricos, por día) de Madrid, reconstaté que la AEMET cobra por el acceso. Están en su derecho. Igual que lo están los que no se duchan y huelen a perrete chico en el metro.
+Pero los mismos datos se pueden bajar gratis de la NOAA.
+Así, a la AEMET, que le den; que haga lo que le venga en gana en su soledad detrás de esa pasarela de pago que tan innecesario es atravesar.</description>
+    </item>
+    
+  </channel>
+</rss>

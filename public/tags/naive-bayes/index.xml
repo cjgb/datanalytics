@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>naive bayes on datanalytics</title>
+    <link>/tags/naive-bayes/</link>
+    <description>Recent content in naive bayes on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 06 Aug 2014 07:13:12 +0000</lastBuildDate><atom:link href="/tags/naive-bayes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naive Bayes como red bayesiana</title>
+      <link>/2014/08/06/naive-bayes-como-red-bayesiana/</link>
+      <pubDate>Wed, 06 Aug 2014 07:13:12 +0000</pubDate>
+      
+      <guid>/2014/08/06/naive-bayes-como-red-bayesiana/</guid>
+      <description>Una red bayesiana es algo de lo que ya hablé (y que me está volviendo a interesar mucho últimamente). En esencia, es un modelo probabilístico construido sobre un grafo dirigido acíclico.
+Que, a su vez, es algo parecido a
+
+que es un grafo (obviamente), dirigido (tiene flechas) y acíclico porque siguiéndolas no se llega nunca al punto de partida. Se puede construir modelos probabilísticos sobre ellos. Basta con definir para cada nodo $latex x$ la probabilidad condicional $latex P(x|A(x))$, donde $latex A(x)$ son sus padres directos.</description>
+    </item>
+    
+  </channel>
+</rss>

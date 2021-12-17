@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tracemem on datanalytics</title>
+    <link>/tags/tracemem/</link>
+    <description>Recent content in tracemem on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Nov 2015 08:13:55 +0000</lastBuildDate><atom:link href="/tags/tracemem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asignación en R: ¿flecha o lo innombrable?</title>
+      <link>/2015/11/10/asignacion-en-r-flecha-o-lo-innombrable/</link>
+      <pubDate>Tue, 10 Nov 2015 08:13:55 +0000</pubDate>
+      
+      <guid>/2015/11/10/asignacion-en-r-flecha-o-lo-innombrable/</guid>
+      <description>Alguien que no quiero nombrar (pero que sabe de sobra quién es) me comentaba el otro día algo que no sabía de la asignación en R: las presuntas diferencias entre &amp;lt;- e =. Que en resumen eran:
+ * ambos asignan * pero `=` hace una copia del objeto asignado * mientras que `&amp;lt;-` no.  Como consecuencia, &amp;lt;- es más eficiente desde el punto de vista de la gestión de la memoria.</description>
+    </item>
+    
+  </channel>
+</rss>

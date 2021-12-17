@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dispersión on datanalytics</title>
+    <link>/tags/dispersi%C3%B3n/</link>
+    <description>Recent content in dispersión on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 01 Feb 2017 08:13:15 +0000</lastBuildDate><atom:link href="/tags/dispersi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infradispersión de conteos: ¿buenos ejemplos?</title>
+      <link>/2017/02/01/infradispersion-de-conteos-buenos-ejemplos/</link>
+      <pubDate>Wed, 01 Feb 2017 08:13:15 +0000</pubDate>
+      
+      <guid>/2017/02/01/infradispersion-de-conteos-buenos-ejemplos/</guid>
+      <description>La distribución de Poisson se utiliza de oficio cuando se quiere modelar datos relativos a conteos. Sin embargo, tiene un problema serio: la varianza está fijada a la media: ambas son $latex \lambda$, el parámetro de la distribución.
+Muy frecuentemente se observan datos con sobredispersión. Si $latex \lambda$ es 1000, el número esperado de eventos está contenido en un intervalo demasiado estrecho,
+qpois(c(0.025, 0.975), 1000) #[1] 938 1062  como para ser realista en muchas aplicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>

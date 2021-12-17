@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comunidad on datanalytics</title>
+    <link>/tags/comunidad/</link>
+    <description>Recent content in comunidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 11 Dec 2018 08:13:55 +0000</lastBuildDate><atom:link href="/tags/comunidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siete años después, dejo la presidencia de la Comunidad R Hispano</title>
+      <link>/2018/12/11/siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano/</link>
+      <pubDate>Tue, 11 Dec 2018 08:13:55 +0000</pubDate>
+      
+      <guid>/2018/12/11/siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano/</guid>
+      <description>Eso, que dejo la comunidad de la Comunidad R Hispano. Ocho años después, que ya son. La noticia, en todo caso, no es tanto que abandone la presidencia sino las circunstancias que me condujeron a ella. Noticias viejas, pero noticias al fin y al cabo, que sirven para entender por qué lo fui entonces y por qué dejo de serlo ahora.
+La Comunidad R Hispano (por qué se llama así y no, como habría sido natural, Asociación Española de Usuarios de R, es una larga historia que tal vez cuente algún día) se fundó en Madrid hace ocho años en el seno de las III Jornadas de Usuarios de R (a todo esto, esa página la hice yo en html puro y con vi como editor), cuando la comunidad (informal) de usuarios de R ya llevaba un tiempo desarrollando actividades.</description>
+    </item>
+    
+    <item>
+      <title>Hoy se ha anunciado la propuesta de nueva página de la Comunidad R Hispano</title>
+      <link>/2016/02/18/hoy-se-ha-anunciado-la-propuesta-de-nueva-pagina-de-la-comunidad-r-hispano/</link>
+      <pubDate>Thu, 18 Feb 2016 09:13:08 +0000</pubDate>
+      
+      <guid>/2016/02/18/hoy-se-ha-anunciado-la-propuesta-de-nueva-pagina-de-la-comunidad-r-hispano/</guid>
+      <description>Acabo de escribir a los socios de la Comunidad R Hispano acerca de la existencia de una propuesta para renovar la página de la asociación. Podéis ver la versión actual y la propuesta.
+(Y agradezco muchísimo el trabajo de Paula López Casado, responsable de que la nueva página tenga un aspecto infinitamente más atractivo que la que lees).
+(Además, esta entrada incluye el que será el nuevo logo de la Comunidad R Hispano).</description>
+    </item>
+    
+  </channel>
+</rss>

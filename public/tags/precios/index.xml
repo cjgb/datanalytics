@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>precios on datanalytics</title>
+    <link>/tags/precios/</link>
+    <description>Recent content in precios on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Apr 2018 07:43:39 +0000</lastBuildDate><atom:link href="/tags/precios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimar la demanda es como ponerle el cascabel al gato</title>
+      <link>/2018/04/10/estimar-la-demanda-es-como-ponerle-el-cascabel-al-gato/</link>
+      <pubDate>Tue, 10 Apr 2018 07:43:39 +0000</pubDate>
+      
+      <guid>/2018/04/10/estimar-la-demanda-es-como-ponerle-el-cascabel-al-gato/</guid>
+      <description>Alborozábanse los ratones al oír de sus líderes la solución definitiva al problema de aquel gato que los diezmaba inmisericordemente: ¡colóquesele un cascabel!
+El problema gordiano del pricing, el cascabel que hay que ponerle a ese gato, es el de la estimación de la curva de demanda. Ahi radica el quid.
+Unos lo resuelven con simulaciones que quedan estupendas sobre el papel. ¡Qué fácil es ponerle un cascabel a un gato de madera!</description>
+    </item>
+    
+    <item>
+      <title>¿Soy parte del concilábulo heteropatriarcal?</title>
+      <link>/2018/03/06/soy-parte-del-concilabulo-heteropatriarcal/</link>
+      <pubDate>Tue, 06 Mar 2018 08:13:03 +0000</pubDate>
+      
+      <guid>/2018/03/06/soy-parte-del-concilabulo-heteropatriarcal/</guid>
+      <description>En una de esas comidas navideñas tuve que asistir pasivamente a una conversación en la que se dibujaba una peculiar realidad alternativa: existiría algo así como un conciliábulo (el Márketing) con capacidad de memoria, entendimiento y voluntad propias e interés por implementar una particular agenda de corte heteropatriarcal. Producto de la cual, por ejemplo, las afeitadoras de color rosa para mujeres vendrían a resultar más caras que las azules para hombres, etc.</description>
+    </item>
+    
+    <item>
+      <title>Energía solar: instalaciones industriales vs paneles en tejados</title>
+      <link>/2016/02/15/energia-solar-instalaciones-industriales-vs-paneles-en-tejados/</link>
+      <pubDate>Mon, 15 Feb 2016 09:13:56 +0000</pubDate>
+      
+      <guid>/2016/02/15/energia-solar-instalaciones-industriales-vs-paneles-en-tejados/</guid>
+      <description>Llegó a mis manos un documento sobre los costes relativos de las distintas tecnologías e implementaciones para generar energía eléctrica del que rescato este subgráfico:
+Muestra el precio del MWh en dólares y sirve para comparar, por ejemplo, el coste de los paneles que la gente instala en sus tejados (184-300) con el de instalaciones industriales (50-70).
+Las conclusiones, de nuevo, de cada cual.</description>
+    </item>
+    
+  </channel>
+</rss>

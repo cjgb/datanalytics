@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finanzas on datanalytics</title>
+    <link>/tags/finanzas/</link>
+    <description>Recent content in finanzas on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 26 Sep 2018 08:13:12 +0000</lastBuildDate><atom:link href="/tags/finanzas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Así de floja está la evidencia científica (sobre el impacto de Airbnb en el mercado inmobiliario)</title>
+      <link>/2018/09/26/asi-de-floja-esta-la-evidencia-cientifica-sobre-el-impacto-de-airbnb-en-el-mercado-inmobiliario/</link>
+      <pubDate>Wed, 26 Sep 2018 08:13:12 +0000</pubDate>
+      
+      <guid>/2018/09/26/asi-de-floja-esta-la-evidencia-cientifica-sobre-el-impacto-de-airbnb-en-el-mercado-inmobiliario/</guid>
+      <description>Un reciente artículo de El País tiene un título que lo dice todo: Los informes que refutan a la CNMC: Airbnb sí infla el precio de la vivienda en EE UU. Dice en la entradilla:
+ Tres estudios universitarios muestran que las plataformas de alquiler turístico han encarecido el mercado del alquiler en ciudades como Los Ángeles y Boston.
+ Así que he buscado uno de los tres, How Airbnb Short-Term Rentals Exacerbate Los Angeles’s Affordable Housing Crisis: Analysis and Policy Recommendations y me dispongo a comentarlo en vivo, página a página.</description>
+    </item>
+    
+    <item>
+      <title>¿Lo publico y nos echamos unas risas todos?</title>
+      <link>/2018/01/10/lo-publico-y-nos-echamos-unas-risas-todos/</link>
+      <pubDate>Wed, 10 Jan 2018 08:13:49 +0000</pubDate>
+      
+      <guid>/2018/01/10/lo-publico-y-nos-echamos-unas-risas-todos/</guid>
+      <description>Estos días, haciendo limpieza de cajones, estanterías y directorios, he dado con un documentito que se me quedó accidentalmente pegado al disco duro hace muchos, muchos años.
+Es la documentación metodológica y técnica, firmada por una consultora de postín, de los algoritmos de cálculo de la probabilidad de impago en una de esas entidades financieras que quebraron en su día con enorme estrépito (y perjuicio para el erario público, sea dicho de paso).</description>
+    </item>
+    
+    <item>
+      <title>El extraño caso de la media empírica menguante</title>
+      <link>/2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/</link>
+      <pubDate>Tue, 31 May 2016 08:13:28 +0000</pubDate>
+      
+      <guid>/2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/</guid>
+      <description>La distribución lognormal es la exponencial de una distribución normal. Su media, Wikipedia dixit, es $latex \exp(\mu + \sigma^2 /2)$.
+Dada una muestra de la distribución lognormal (y supuesto, por simplificar, $latex \mu=0$), podemos calcular
+ * su media y * una estimación de su $latex \sigma$ y calcular $latex \exp(\sigma^2 /2)$  y uno pensaría que los valores deberían ser similares. Mas pero sin embargo,
+library(ggplot2) &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/set.seed&amp;quot;&amp;gt;set.seed(123) sigmas &amp;lt;- seq(1, 10, by = 0.</description>
+    </item>
+    
+    <item>
+      <title>Descarga de datos del Ibex 35 (¿y otros?) minuto a minuto en tiempo (casi) real</title>
+      <link>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</link>
+      <pubDate>Fri, 20 May 2016 08:13:54 +0000</pubDate>
+      
+      <guid>/2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/</guid>
+      <description>El código es
+library(httr) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/plyr&amp;quot;&amp;gt;plyr) base.url &amp;lt;- &amp;quot;http://www.infobolsa.es/1/wtdb/ChartIntraday&amp;quot; res &amp;lt;- POST(base.url, body = list(mv = &amp;quot;M SAN&amp;quot;, date = &amp;quot;20160518&amp;quot;, compressionMult = 1, isSession = 1)) dat &amp;lt;- content(res, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/methods/as&amp;quot;&amp;gt;as = &amp;quot;parsed&amp;quot;, type = &amp;quot;application/json&amp;quot;) dat &amp;lt;- dat$answer$LST$TV$T09 dat &amp;lt;- ldply(dat, unlist)  Los mutatis mutandis, si alguien tiene la gentileza, en los comentarios.</description>
+    </item>
+    
+    <item>
+      <title>Clústers de trayectorias con la distancia de Fréchet</title>
+      <link>/2016/04/08/clusters-de-trayectorias-con-la-distancia-de-frechet/</link>
+      <pubDate>Fri, 08 Apr 2016 09:13:23 +0000</pubDate>
+      
+      <guid>/2016/04/08/clusters-de-trayectorias-con-la-distancia-de-frechet/</guid>
+      <description>Los viejos del lugar recordarán esto, donde agrupo trayectorias usando k-medias a pelo.
+El paquete kmlShape usa la distancia de Fréchet para hacer algo parecido: buscar trayectorias geométricamente similares.
+El código es
+library(kmlShape) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/tseries&amp;quot;&amp;gt;tseries) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/zoo&amp;quot;&amp;gt;zoo) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) library(reshape) library(ggplot2) foo &amp;lt;- function( simbolo, final = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/Sys.time&amp;quot;&amp;gt;Sys.time(), profundidad = 30 * 24 * 3600 ){ precios &amp;lt;- get.hist.quote(instrument= simbolo, &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/start&amp;quot;&amp;gt;start = final - profundidad, end = final, quote=c(&amp;quot;AdjClose&amp;quot;), provider=&amp;quot;yahoo&amp;quot;, origin=&amp;quot;1970-01-01&amp;quot;, compression=&amp;quot;d&amp;quot;, retclass=&amp;quot;zoo&amp;quot;) colnames(precios) &amp;lt;- simbolo return(precios) } # lista de símbolos del ibex tmp &amp;lt;- readHTMLTable(&amp;quot;http://finance.</description>
+    </item>
+    
+    <item>
+      <title>Error de medida</title>
+      <link>/2015/02/20/error-de-medida/</link>
+      <pubDate>Fri, 20 Feb 2015 08:13:30 +0000</pubDate>
+      
+      <guid>/2015/02/20/error-de-medida/</guid>
+      <description>Por su interés y oportunidad, reproduzco aquí y en su idioma original (la parque que nos es más relevante de) un breve editorial de Simon Baptist, economista jefe de The Economist Intelligence Unit.
+Así reza:
+El subrayado es mío, que conste.</description>
+    </item>
+    
+    <item>
+      <title>Tres sigmas o nanay</title>
+      <link>/2014/10/28/tres-sigmas-o-nanay/</link>
+      <pubDate>Tue, 28 Oct 2014 07:13:24 +0000</pubDate>
+      
+      <guid>/2014/10/28/tres-sigmas-o-nanay/</guid>
+      <description>El otro día hablaba con una colega sobre una charla a la que habíamos asistido. Yo le decía que sí, que estaba bien, pero que todo lo que habían contado era mentira. Debí haber sido más preciso y decir que no era verdad, que es distinto. Pero las canapescas circunstancias no eran propicias para el distingo. Mi interlocutora me escuchaba, pienso, entre sorprendida e incrédula. Todavía está en la edad en la que hay que creérselo todo —sí, esa edad y esa obligación existe— y tiempo tendrá de dejarse envenenar por el nihilismo.</description>
+    </item>
+    
+    <item>
+      <title>Va sobre el número de palabras</title>
+      <link>/2014/09/30/va-sobre-el-numero-de-palabras/</link>
+      <pubDate>Tue, 30 Sep 2014 07:13:05 +0000</pubDate>
+      
+      <guid>/2014/09/30/va-sobre-el-numero-de-palabras/</guid>
+      <description>Trataré de usar pocas hoy. El otro día vi
+
+aquí. Me recordó que uno de mis proyectos abandonados sine die es el de estimar la rentabilidad real de productos financieros en función del número de palabras en sus correspondientes folletos.
+Nota: curioso el gráfico anterior. Una de las variables es un stock y la otra es un flujo.
+Otra nota: ahora que veo el gráfico me acuerdo de esto. Superpones dos funciones más o menos monótonas en una gráfica de doble escala y ya tienes la entrada/artículo del día.</description>
+    </item>
+    
+    <item>
+      <title>Menos econometría y más precioestatos</title>
+      <link>/2014/04/16/menos-econometria-y-mas-precioestatos/</link>
+      <pubDate>Wed, 16 Apr 2014 07:39:14 +0000</pubDate>
+      
+      <guid>/2014/04/16/menos-econometria-y-mas-precioestatos/</guid>
+      <description>¿Será necesario un doctorado en econometría para poner una lavadora? Con eso ironiza el autor de El nuevo sistema de precios para la electricidad (I): Entre la tarifa gusiluz y la tarifa batamanta.
+Os cuento el contexto.
+Al parecer, a partir de cierta fecha no muy remota, el precio de la electricidad en España variará de acuerdo con el precio en el mercado de generación y, por lo tanto, según la hora.</description>
+    </item>
+    
+    <item>
+      <title>La bolsa intradía y bolsa interdía</title>
+      <link>/2014/02/20/la-bolsa-intradia-y-bolsa-interdia/</link>
+      <pubDate>Thu, 20 Feb 2014 08:29:43 +0000</pubDate>
+      
+      <guid>/2014/02/20/la-bolsa-intradia-y-bolsa-interdia/</guid>
+      <description>El IBEX 35 abre todas las mañanas a un precio y cierra a otro. El precio de apertura de un día no es necesariamente igual al del cierre del siguiente. Por lo tanto, la variación del índice en una jornada completa de 24 horas es igual a la suma de las variaciones dentro y fuera del horario de cotización.
+Dicho lo cual:
+ * Juan _compra el IBEX_ todos los días a primera hora y lo vende en el último minuto.</description>
+    </item>
+    
+    <item>
+      <title>El yuyuplot en perspectiva</title>
+      <link>/2014/02/18/el-yuyuplot-en-perspectiva/</link>
+      <pubDate>Tue, 18 Feb 2014 08:41:17 +0000</pubDate>
+      
+      <guid>/2014/02/18/el-yuyuplot-en-perspectiva/</guid>
+      <description>El yuyuplot al que me refiero es
+
+un gráfico ha circulado por internet y que ha causado cierto pánico, se ve (y de ahí el nombre). En algunos sitios —véase este como ejemplo de los menos acertados— se ha intentado de explicar al público sus deméritos.
+El mundo de las finanzas debiera ser la envidia de otros ámbitos por el volumen, variedad y velocidad de los datos disponibles en él.</description>
+    </item>
+    
+    <item>
+      <title>Catorce mitos sobre el mercado eléctrico</title>
+      <link>/2014/01/22/catorce-mitos-sobre-el-mercado-electrico/</link>
+      <pubDate>Wed, 22 Jan 2014 08:35:46 +0000</pubDate>
+      
+      <guid>/2014/01/22/catorce-mitos-sobre-el-mercado-electrico/</guid>
+      <description>Estos catorce mitos son, en realidad, siete y siete. Los primeros, de FEDEA:
+ 1. El déficit de tarifa es consecuencia de una sobre retribución de la generación o del exceso de renovables del sistema y su generosa retribución o de las subvenciones soportadas 2. El impacto en los hogares (o en las empresas) de eliminar el déficit de tarifa incrementando los precios es inasumible 3. La retribución de todos los “fabricantes” de energía al precio que marca el fabricante más caro es una característica ESPECÍFICA de la generación eléctrica y enriquece a los productores 4.</description>
+    </item>
+    
+    <item>
+      <title>Cómo apostar si tienes que</title>
+      <link>/2014/01/09/como-apostar-si-tienes-que/</link>
+      <pubDate>Thu, 09 Jan 2014 08:56:29 +0000</pubDate>
+      
+      <guid>/2014/01/09/como-apostar-si-tienes-que/</guid>
+      <description>Hace unos días recibí esto,
+
+que es la rentabilidad de carteras de inversión (sospecho que no necesariamente reales) de usuarios de cierto portal que compiten por ver quién tiene más ojo en bolsa.
+¿No os llama la atención esa rentabilidad &amp;gt;600%? ¿Cómo se puede alcanzar? ¿Es ese señor —a quien no conozco— un hacha de las inversiones?
+Dos ideas me vienen a la cabeza. Una es esta que, pienso, no aplica.</description>
+    </item>
+    
+    <item>
+      <title>Addenda: ¿qué ha pasado en el Ibex durante el último mes? </title>
+      <link>/2013/02/28/addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</link>
+      <pubDate>Thu, 28 Feb 2013 07:03:53 +0000</pubDate>
+      
+      <guid>/2013/02/28/addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</guid>
+      <description>Abundando en el tema de ayer, ahora, los mismos datos representados con mapas de calor:
+
+Para obtenerlo, a lo que ya teníamos basta añadirle:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/gplots&amp;quot;&amp;gt;gplots) heatmap.2(as.matrix(ibex.scaled), Rowv=F, Colv=T, key=F, trace=&amp;quot;none&amp;quot;, col=redgreen, xlab=&amp;quot;valor&amp;quot;, ylab=&amp;quot;&amp;quot;, margins=c(5,10))  </description>
+    </item>
+    
+    <item>
+      <title>¿Qué ha pasado en el Ibex durante el último mes?</title>
+      <link>/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</link>
+      <pubDate>Wed, 27 Feb 2013 07:07:38 +0000</pubDate>
+      
+      <guid>/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/</guid>
+      <description>Pues esencialmente esto:
+
+Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros dos grupos han tenido una evolución en U y ha recuperado, con creces incluso, el valor que tenían hace un mes.
+Y, como siempre, el código:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/tseries&amp;quot;&amp;gt;tseries) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/zoo&amp;quot;&amp;gt;zoo) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) library(reshape) library(ggplot2) foo &amp;lt;- function( simbolo, final = &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/Sys.time&amp;quot;&amp;gt;Sys.time(), profundidad = 30 * 24 * 3600 ){ precios &amp;lt;- get.</description>
+    </item>
+    
+    <item>
+      <title>Estadísticas oficiales alternativas</title>
+      <link>/2013/02/25/estadisticas-oficiales-alternativas/</link>
+      <pubDate>Mon, 25 Feb 2013 07:26:34 +0000</pubDate>
+      
+      <guid>/2013/02/25/estadisticas-oficiales-alternativas/</guid>
+      <description>Me reconozco entusiasta de la heterodoxia. Allá donde hay comunión de pensamiento, siento la necesidad imperativa de abrir las ventanas y orear el ambiente. Y en pocos ámbitos la hay menos que en el de las estadísticas oficiales, que se toman como trasunto mismo de la realidad que aspiran a medir.
+Por eso traigo a estas páginas la mención a Shadow Government Statistics, un portal que proporciona medidas alternativas de las principales magnitudes macroeconómicas (de los EE.</description>
+    </item>
+    
+    <item>
+      <title>El Ibex 35 al estilo GapMinder</title>
+      <link>/2013/01/09/el-ibex-35-estilo-gapminder/</link>
+      <pubDate>Wed, 09 Jan 2013 07:07:31 +0000</pubDate>
+      
+      <guid>/2013/01/09/el-ibex-35-estilo-gapminder/</guid>
+      <description>Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al estilo GapMinder. En concreto, usando un MotionChart de Google.
+Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/XML&amp;quot;&amp;gt;XML) simbolos &amp;lt;- readHTMLTable(htmlParse(&amp;quot;http://finance.yahoo.com/q/cp?s=%5EIBEX+Components&amp;quot;)) simbolos &amp;lt;- as.character(simbolos[[9]]$Symbol) simbolos &amp;lt;- gsub(&amp;quot;-P&amp;quot;, &amp;quot;&amp;quot;, simbolos)  Luego, creo una pequeña función y se la aplico a cada símbolo:
+library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/tseries&amp;quot;&amp;gt;tseries) foo &amp;lt;- function( simbolo, final = &amp;lt;a href=&amp;quot;http://inside-r.</description>
+    </item>
+    
+    <item>
+      <title>Sólo el 5% ganan dinero con el &#34;análisis técnico&#34;</title>
+      <link>/2012/12/06/solo-el-5-ganan-dinero-con-el-analisis-tecnico/</link>
+      <pubDate>Thu, 06 Dec 2012 07:54:07 +0000</pubDate>
+      
+      <guid>/2012/12/06/solo-el-5-ganan-dinero-con-el-analisis-tecnico/</guid>
+      <description>Hojeando la prensa francesa di con este pequeño artículo en Les Echos, Pourquoi les particuliers sont perdants sur les devises. Remite a un artículo reciente, Is Technical Analysis Profitable for Individual Currency Traders? inasequible para quienes creemos que los 45 dólares que cuesta descargarlo tienen mejor empleo en otra parte (es curioso: en muchos otros ámbitos académicos es fácil conseguir los artículos gratis; en finanzas, casi imposible).
+¿El resumen? Que prácticamente nadie gana dinero usando el llamado análisis técnico.</description>
+    </item>
+    
+    <item>
+      <title>Algunos gráficos de información bursátil</title>
+      <link>/2012/10/18/algunos-graficos-de-informacion-bursatil/</link>
+      <pubDate>Thu, 18 Oct 2012 07:07:41 +0000</pubDate>
+      
+      <guid>/2012/10/18/algunos-graficos-de-informacion-bursatil/</guid>
+      <description>Hoy voy a presentar algunos gráficos de información bursátil adaptados a partir de código de Eric Zivot, el instructor del curso Introduction to Computational Finance and Financial Econometrics que estoy siguiendo (un poco como puta por rastrojo: siempre me las arreglo para resolver los ejercicios en el último minuto y antes de haber revisado la teoría) en Coursera.
+Por si pueden servir de algo a otros, los reproduzco y comento aquí.</description>
+    </item>
+    
+    <item>
+      <title>Balanzas fiscales y periodismo basado en datos</title>
+      <link>/2012/10/09/balanzas-fiscales-y-periodismo-basado-en-datos/</link>
+      <pubDate>Tue, 09 Oct 2012 07:35:49 +0000</pubDate>
+      
+      <guid>/2012/10/09/balanzas-fiscales-y-periodismo-basado-en-datos/</guid>
+      <description>Dudo al escribir sobre el asunto porque el contexto del artículo que traigo a colación es ajeno al interés de esta bitácora. Pero me ha parecido un ejercicio inigualable de lo que debería ser el periodismo de datos.
+El título es sugerente: ¿Cisne negro o pollo del montón? El déficit fiscal catalán en perspectiva. El tema del cisne negro ya ya sido mencionado aquí previamente, aunque mencionarlo en este contexto sólo es posible sometiendo el término a una cierta violencia léxica.</description>
+    </item>
+    
+    <item>
+      <title>PER y EV/EBITDA</title>
+      <link>/2012/09/19/per-y-evebitda/</link>
+      <pubDate>Wed, 19 Sep 2012 07:09:26 +0000</pubDate>
+      
+      <guid>/2012/09/19/per-y-evebitda/</guid>
+      <description>Muchos portales financieros incluyen información sobre uno de los llamados múltiplos (asociados a empresas que cotizan en bolsa), el PER. Es fácil de calcular a partir de información pública más o menos fiable y se usa en la práctica para estimar muy a groso modo si determinadas empresas (o mercados) están o no sobrepreciadas.
+El PER es el cociente entre la capitalización bursátil de una empresa (que es público y se actualiza segundo a segundo) y su beneficio, que se conoce con cierta regularidad.</description>
+    </item>
+    
+    <item>
+      <title>¿Estaría el BCE a ciegas?</title>
+      <link>/2012/08/29/estaria-el-bce-a-ciegas/</link>
+      <pubDate>Wed, 29 Aug 2012 07:22:21 +0000</pubDate>
+      
+      <guid>/2012/08/29/estaria-el-bce-a-ciegas/</guid>
+      <description>David Cabo me hizo llegar el otro día este artículo, To what degree is the ECB flying blind? Y con buen criterio, porque, como veremos, toca temas ya conocidos de los lectores de estas páginas.
+El artículo se resume en lo siguiente: si un día el Banco Central Europeo va a sumar a sus funciones la de la supervisión bancaria, va a encontrarse los dos problemas siguientes:
+ * La confidencialidad de los datos * Sus niveles de desglose (y agregación)  Son dos problemas, además, interrelacionados.</description>
+    </item>
+    
+    <item>
+      <title>La media y el riesgo (de nuevo)</title>
+      <link>/2012/07/30/la-media-y-el-riesgo-de-nuevo/</link>
+      <pubDate>Mon, 30 Jul 2012 07:13:14 +0000</pubDate>
+      
+      <guid>/2012/07/30/la-media-y-el-riesgo-de-nuevo/</guid>
+      <description>Hoy me han preguntado una cosa algo rara. Era alguien del departamento de riesgos de una conocida entidad financiera que quería saber cómo calcular (con SAS) la media del LTV. El LTV, aunque tiene otras acepciones, significa en este contexto loan to value, el cociente entre el valor de un préstamo y valor del colateral que lo respalda.
+(Este LTV tiene que ver con el famoso le financiamos el 80% del valor de la inversión de otras épocas.</description>
+    </item>
+    
+    <item>
+      <title>La desigualdad y cómo medirla</title>
+      <link>/2012/07/10/la-desigualdad-y-como-medirla/</link>
+      <pubDate>Tue, 10 Jul 2012 06:48:45 +0000</pubDate>
+      
+      <guid>/2012/07/10/la-desigualdad-y-como-medirla/</guid>
+      <description>Últimamente he tenido bastantes visitas del extranjero. Las llevo a pasear por el centro de Madrid, ¡qué remedio! Y siempre surge el mismo comentario: habiendo crisis que nos cuentan los periódicos, ¿cómo es que están las terrazas a rebosar? Y mi respuesta es siempre la misma: lo que se ve no es la crisis; lo que se ve, en el fondo, es la desigualdad.
+Otros han escrito, y mucho mejor de lo que lo haría yo, sobre lo pernicioso de la desigualdad en la economía e incluso, sobre la misma democracia.</description>
+    </item>
+    
+    <item>
+      <title>¿Afectó el fraude de Barclays al Libor?</title>
+      <link>/2012/07/05/afecto-el-fraude-de-barclays-al-libor/</link>
+      <pubDate>Thu, 05 Jul 2012 06:02:59 +0000</pubDate>
+      
+      <guid>/2012/07/05/afecto-el-fraude-de-barclays-al-libor/</guid>
+      <description>Después de la entrada de ayer y de
+
+he decidido mirar a ver qué impacto puede haber tenido el fraude de Barclays, uno de los 16 bancos que aportan datos para calcular el índice, sobre su valor diario.
+El procedimiento por el que se calcula el Libor lo describí ayer. Y también indiqué de dónde descargar los datos históricos que proporciona The Guardian. Así que puedo comenzar cargando los datos en R,</description>
+    </item>
+    
+    <item>
+      <title>Libor, líbor, Fundéu y Barclays, claro</title>
+      <link>/2012/07/04/libor-libor-fundeu-y-barclays-claro/</link>
+      <pubDate>Wed, 04 Jul 2012 07:10:22 +0000</pubDate>
+      
+      <guid>/2012/07/04/libor-libor-fundeu-y-barclays-claro/</guid>
+      <description>Hace un tiempo pregunté a la Fundéu cómo traducir la expresión over the counter. Pobres, tienen mucho trabajo en esta península asperjada de anglicismos. La respuesta, sinceramente, no me sirvió de mucho: me impedía hacerme entender con mis semejantes.
+Hace poco se le planteó también si escribir Euribor o euríbor. Optaron por la segunda por considerar el término como común.
+Yo solo estoy de acuerdo con ellos a medias. Por un lado, existe el euríbor (nombre común y propiamente españolizado, con su tilde) que se refiere a cierto precio del dinero (o tipo de interés).</description>
+    </item>
+    
+    <item>
+      <title>IVA, IRPF y desigualdad</title>
+      <link>/2012/06/27/iva-irpf-y-desigualdad/</link>
+      <pubDate>Wed, 27 Jun 2012 06:44:12 +0000</pubDate>
+      
+      <guid>/2012/06/27/iva-irpf-y-desigualdad/</guid>
+      <description>Nos hemos ocupado previamente de estas cuestiones. Abundo en ellas ahora a causa de un informe publicado por la ONS (Office of National Statistics, el INE británico) titulado The effects of taxes and benefits on household income, 2010/2011. Extraigo de su resumen los siguientes puntos:
+ * Antes de impuestos y beneficios sociales, el quintil más rico de los hogares tenía una renta media de £81.500, 16 veces superior a la del quintil más pobre, £5.</description>
+    </item>
+    
+    <item>
+      <title>Las auditorías bancarias de ayer</title>
+      <link>/2012/06/22/las-auditorias-bancaria-de-ayer/</link>
+      <pubDate>Fri, 22 Jun 2012 06:26:12 +0000</pubDate>
+      
+      <guid>/2012/06/22/las-auditorias-bancaria-de-ayer/</guid>
+      <description>Ayer fue día de auditorías bancarias. A las cinco y media de la tarde se enfrentaron un secretario de estado y el subgobernador del Banco de España a un pelotón de periodistas anuméricos con hambre de una sola cifra (pero de muchos ceros) con la que saciar el hambre también de una sola cifra de un país merecidamente atribulado (a más de, no se sabe si por emanación o reflejo, igualmente anumérico).</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué me quejo del Banco de España?</title>
+      <link>/2012/06/12/por-que-me-quejo-del-banco-de-espana/</link>
+      <pubDate>Tue, 12 Jun 2012 06:37:25 +0000</pubDate>
+      
+      <guid>/2012/06/12/por-que-me-quejo-del-banco-de-espana/</guid>
+      <description>Siempre que puedo, aprovecho para hablar bien del Banco de España. Trabajé en él seis meses, precisamente en algo que se llamaba algo así como el sistema informacional de la central de riesgos (bancarios). A quien no tiene prisa me gusta contarle lo que ahí hice con SAS y Oracle, uno de esos pocos trabajos que me han dejado completar a mi gusto.
+Pero el otro día me tocó darle un buen tirón de orejas.</description>
+    </item>
+    
+    <item>
+      <title>Medias y medianas en el Banco de España</title>
+      <link>/2012/06/05/medias-y-medianas-en-el-banco-de-espana/</link>
+      <pubDate>Tue, 05 Jun 2012 07:15:29 +0000</pubDate>
+      
+      <guid>/2012/06/05/medias-y-medianas-en-el-banco-de-espana/</guid>
+      <description>Los patriotas españoles del siglo II a.C. peleaban por la estepa lusitana contra los romanos y abominaban del alcantarillado y los acueductos. Los del siglo XVI, seguían el caminar del sol sobre el azul del mar para blanquear un subcontinente con el empuje de sus caderas. Los del XIX fusilaban a alcaldes liberales en las plazas de las villas altonavarras.
+Y los españoles patriotas de junio de 2012 leemos el informe de estabilidad financiera del Banco de España.</description>
+    </item>
+    
+    <item>
+      <title>Deuda y apalancamiento</title>
+      <link>/2012/05/30/deuda-y-apalancamiento/</link>
+      <pubDate>Wed, 30 May 2012 06:34:34 +0000</pubDate>
+      
+      <guid>/2012/05/30/deuda-y-apalancamiento/</guid>
+      <description>Hoy, ni estadística, ni R, ni nada de lo que estilo. Me limitaré a mostrar un gráfico sobre la deuda y el apalancamiento en algunas economías notables extraído del último informe del FMI
+
+Aun sin ser experto, se me antoja realizar algunos comentarios:
+ * Aunque se tienda a meter a España e Italia en un mismo saco, presentan diferencias notables: Italia tiene una deuda alta; España, baja. Sin embargo, Italia tiene superávit primario (es decir, ingresa más de lo que gasta, por lo que su deuda tendería a reducirse) y España, déficit.</description>
+    </item>
+    
+    <item>
+      <title>Por un IRPF ergonómico</title>
+      <link>/2012/05/07/por-un-irpf-ergonomico/</link>
+      <pubDate>Mon, 07 May 2012 07:37:56 +0000</pubDate>
+      
+      <guid>/2012/05/07/por-un-irpf-ergonomico/</guid>
+      <description>Sé que es un ejercicio vano. Pero lo hago igualmente.
+Completar una declaración del IRPF es un ejercicio extenuante y, sobre todo, aburridísimo. Y menos mal que ahora existe el programa PADRE que lo automatiza. (Eso sí, señores programadores de la Agencia Tributaria: ¿podían no utilizar el color amarillo de fondo? Tras unas cuantas horas de casilla en casilla se me acomoda la retina de tal manera que se me alteran los cromatismos y lo veo todo la mar de sicodélico).</description>
+    </item>
+    
+    <item>
+      <title>Tolstoi, sobre los mercados ineficientes</title>
+      <link>/2012/03/30/tolstoi-sobre-los-mercados-ineficientes/</link>
+      <pubDate>Fri, 30 Mar 2012 07:27:45 +0000</pubDate>
+      
+      <guid>/2012/03/30/tolstoi-sobre-los-mercados-ineficientes/</guid>
+      <description>Arranca Tolstoi en Ana Karenina con esta frase mítica: Todas las familias felices se parecen entre sí; las infelices son desgraciadas en su propia manera.
+Me recuerda mucho a la contraposición entre la probabilidad que estudié en la universidad y la que regía fuera. Dentro, mis variables eran, casi indefectivamente, iid, es decir, independientes e idénticamente distribuidas. Y las variables independientes son muy parecidas entre sí. Incluso más, diría yo, que las familias felices.</description>
+    </item>
+    
+    <item>
+      <title>Un manifiesto (y juramento &#34;hipocrático&#34;) para los modelizadores</title>
+      <link>/2012/01/27/un-manifiesto-y-juramento-hipocratico-para-los-modelizadores/</link>
+      <pubDate>Fri, 27 Jan 2012 07:06:25 +0000</pubDate>
+      
+      <guid>/2012/01/27/un-manifiesto-y-juramento-hipocratico-para-los-modelizadores/</guid>
+      <description>Es algo viejo, pero vale la pena traerlo a estas páginas. Se trata de un manifiesto que comienza parejo a aquel otro ahora arrumbado: Un espectro recorre los mercados — el espectro de la falta de liquidez, la congelación del crédito y el fracaso de los modelos financieros.
+Habla, sí, principalmente, de finanzas. Pero en gran medida desde la óptica de la modelización y de su responsabilidad en el caos que vivimos ahora.</description>
+    </item>
+    
+    <item>
+      <title>Una cifra, ya que estamos con el IRPF</title>
+      <link>/2012/01/11/una-cifra-ya-que-estamos-con-el-irpf/</link>
+      <pubDate>Wed, 11 Jan 2012 06:52:19 +0000</pubDate>
+      
+      <guid>/2012/01/11/una-cifra-ya-que-estamos-con-el-irpf/</guid>
+      <description>La entrada de hoy la podía haber hecho en Twitter porque va a ser breve. Pero, ya que he tocado el tema de los impuestos y no tengo mucho tiempo, regalo a mis lectores una cifra sorprendente extraída de las páginas de la Agencia Tributaria.
+Mirad los siguientes datos correspondientes al 2009:
+
+Indican que en tal año, 16.7 millones de españoles declararon rendimientos del trabajo por un importe medio de casi 20.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuánto gana el banco con tu hipoteca?</title>
+      <link>/2012/01/09/%c2%bfcuanto-gana-el-banco-con-tu-hipoteca/</link>
+      <pubDate>Mon, 09 Jan 2012 06:44:41 +0000</pubDate>
+      
+      <guid>/2012/01/09/%c2%bfcuanto-gana-el-banco-con-tu-hipoteca/</guid>
+      <description>Parece mentira, pero hay gente que lo calcula fatal. Hace tiempo, un antiguo colega mío, matemático él, había propuesto el ejercicio a sus alumnos y estimó, me contó, que el banco recibía, aproximadamente, el doble de lo que prestaba. La operación que había realizado era muy sencilla: calcular el saldo vivo inicial con la suma de todas las cuotas mensuales. Pero la operación es incorrecta. Veamos por qué. Y obtengamos, de paso, alguna estimación más ajustada.</description>
+    </item>
+    
+    <item>
+      <title>Ingeniería fiscal para mi hipoteca: ¿vendo un futuro?</title>
+      <link>/2012/01/03/ingenieria-fiscal-para-mi-hipoteca-%c2%bfvendo-un-futuro/</link>
+      <pubDate>Tue, 03 Jan 2012 06:23:30 +0000</pubDate>
+      
+      <guid>/2012/01/03/ingenieria-fiscal-para-mi-hipoteca-%c2%bfvendo-un-futuro/</guid>
+      <description>Tengo una hipoteca. El tipo de interés que pago es el Euribor a 12 meses más un diferencial. He usado una calculadora de hipotecas y he descubierto que si el Euribor sube un 1%, mi cuota (anual, es decir, sumando los incrementos de los 12 meses) se incrementaría en 660 euros.
+Y me he preguntado: ¿existe algún producto financiero que me dé dinero si sube el Euribor? ¿Existe alguna manera de protegerme de una subida del índice?</description>
+    </item>
+    
+    <item>
+      <title>¿Es rentable invertir en bolsa en el largo plazo?</title>
+      <link>/2011/12/28/es-rentable-invertir-en-bolsa-en-el-largo-plazo/</link>
+      <pubDate>Wed, 28 Dec 2011 07:12:11 +0000</pubDate>
+      
+      <guid>/2011/12/28/es-rentable-invertir-en-bolsa-en-el-largo-plazo/</guid>
+      <description>Quien busque información al respecto por ahí verá opiniones y cifras. En cualquier caso, y como se verá aquí, todo depende del cuándo. Finalmente, después de mucho buscarla, he conseguido información sobre la rentabilidad histórica de la bolsa española —específicamente, del IGBM, el índice de la Bolsa de Madrid— desde su creación en 1940.
+Se observa en la serie que 100 pesetas invertidas en tal año se convirtieron en casi 17000 en el 2004.</description>
+    </item>
+    
+    <item>
+      <title>El lucero del alba</title>
+      <link>/2011/12/27/el-lucero-del-alba/</link>
+      <pubDate>Tue, 27 Dec 2011 06:39:02 +0000</pubDate>
+      
+      <guid>/2011/12/27/el-lucero-del-alba/</guid>
+      <description>Puede que algunos de mis lectores sepan que el lucero del alba es el nombre con que se conoce al planeta Venus cuando es visible en el cielo al amanecer.
+En contextos menos poéticos se conoce por tal nombre a esto:
+
+Es decir, una determinada configuración de los precios de apertura y cierre de tres días de cotización (bursátil, por ejemplo) de forma que:
+ El primer día hay una bajada El tercer día hay una subida Los precios de apertura y cierre del segundo día son inferiores a los del cierre del primero y apertura del segundo.</description>
+    </item>
+    
+    <item>
+      <title>Liquidez y solvencia</title>
+      <link>/2011/10/25/liquidez-y-solvencia/</link>
+      <pubDate>Tue, 25 Oct 2011 06:27:08 +0000</pubDate>
+      
+      <guid>/2011/10/25/liquidez-y-solvencia/</guid>
+      <description>El bombardeo matinal de noticias a que nos tiene acostumbrada la prensa en los últimos tiempos debería tener el efecto secundario positivo de acrecentar nuestra cultura financiera. Pero no estoy seguro de que sea así.
+Uno de los grandes temas que me da la impresión que confunde todavía al público es la diferencia entre liquidez y solvencia.
+Yo soy un tipo eminentemente ilíquido: muchos días me enfrento al siguiente problema: aunque pueda permitirme innumerables cafés a razón de 35 céntimos, en ese momento crítico, delante de la máquina expendedora, nunca encuentro la calderilla necesaria.</description>
+    </item>
+    
+    <item>
+      <title>Causalidad y método científico en El País</title>
+      <link>/2011/10/13/causalidad-y-metodo-cientifico-en-el-pais/</link>
+      <pubDate>Thu, 13 Oct 2011 07:36:38 +0000</pubDate>
+      
+      <guid>/2011/10/13/causalidad-y-metodo-cientifico-en-el-pais/</guid>
+      <description>A raíz de la concesión del último (mal llamado) premio Nobel de Economía, han aparecido publicados en el diario El País el artículo Un premio al método científico de Ramón Marimón y el reportaje Causa y efecto en la economía, sorprendentes ambos tanto por el título como por el contenido. Creo que bien merecen el protoanálisis que sigue.
+¿Premio al método científico? Hombre, ¡que estamos hablando del premio Nobel! Además, si esta vez han premiado al método científico&amp;hellip; ¿qué fueron los anteriores laureados?</description>
+    </item>
+    
+    <item>
+      <title>Numerismo &#34;interruptus&#34; en el FT</title>
+      <link>/2011/10/07/numerismo-interruptus-en-el-ft/</link>
+      <pubDate>Fri, 07 Oct 2011 12:00:38 +0000</pubDate>
+      
+      <guid>/2011/10/07/numerismo-interruptus-en-el-ft/</guid>
+      <description>Cuando era menos pobre, antes de la crisis, me desayunaba todos los días con el Financial Times. Me lo daban gratis en el hotel. Al cabo de un año leyéndome cada letra de cada edición, los principales columnistas acabaron siendo como de la familia.
+Un tipo al que tengo insana envidia es John Authers. Estése o no de acuerdo con su punto de vista, el hecho de que cada mañana sea capaz de poner en negro sobre sepia una columna increíblemente inteligente es motivo sobrado para sentirse internamente reconcomido.</description>
+    </item>
+    
+    <item>
+      <title>Ubi ratio, ibi paradoxa (Simpsorum)</title>
+      <link>/2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/</link>
+      <pubDate>Thu, 25 Aug 2011 07:53:33 +0000</pubDate>
+      
+      <guid>/2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/</guid>
+      <description>Efectivamente, ahí donde hay ratios, aparece con frecuencia la llamada paradoja de Simpson (a propósito, en enlace anterior a la Wikipedia es un despropósito: a ver si alguno de mis lectores con tiempo deja la página a la altura de lo que merece una lengua de cultura).
+Una ratio muy traída y llevada últimamente y con la que nos gusta autoflagelarnos a los españoles es el de la productividad, que es el cociente entre la producción nacional y el número de trabajadores.</description>
+    </item>
+    
+    <item>
+      <title>Tasa Tobin: una discusión casi empírica</title>
+      <link>/2011/08/24/tasa-tobin-una-discusion-casi-empirica/</link>
+      <pubDate>Wed, 24 Aug 2011 07:42:51 +0000</pubDate>
+      
+      <guid>/2011/08/24/tasa-tobin-una-discusion-casi-empirica/</guid>
+      <description>&amp;mdash;¿Me prestas 10.000 euros al 2 %?
+&amp;mdash;Vale, pero me los devuelves mañana.
+¿Para qué quiero yo 10.000 euros por un día? Para nada, realmente: al día siguiente perdería los 54 céntimos de interés sin haber podido encontrar provecho alguno a ese capital.
+Igual ocurre, a otra escala, con los países y los llamados capitales golondrina. Es positiva, cuentan, la inversión externa. Pero no toda es igualmente beneficiosa: ¿qué inversión productiva puede financiarse con capitales de quita y pon?</description>
+    </item>
+    
+    <item>
+      <title>El BPA es un indicador... ¿de qué?</title>
+      <link>/2011/08/09/el-bpa-indicador-de-que/</link>
+      <pubDate>Tue, 09 Aug 2011 07:15:33 +0000</pubDate>
+      
+      <guid>/2011/08/09/el-bpa-indicador-de-que/</guid>
+      <description>Quienes trabajan en la academia suelen ser de un natural sumamente pacífico y desafecto a la polémica. En eso se diferencian de otros gremios, como el de los críticos de cine, a quienes bien se permite —e incluso se agradece— poner a caer de un burro el bodrio del director más pintado.
+Criticaré hoy —más por el asombro que me produce que por afán de controversia— el artículo El comportamiento financiero de las empresas socialmente responsables de M.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué es un banco? ¿Qué son las pruebas de resistencia? (En primera derivada)</title>
+      <link>/2011/07/26/que-es-un-banco-que-son-las-pruebas-de-resistencia-en-primera-derivada/</link>
+      <pubDate>Tue, 26 Jul 2011 07:55:41 +0000</pubDate>
+      
+      <guid>/2011/07/26/que-es-un-banco-que-son-las-pruebas-de-resistencia-en-primera-derivada/</guid>
+      <description>En primera derivada, un banco es un señor que pone 10, capta 90 en depósitos de ahorradores —a los que da un interés del 4 %— y presta 100 al 5 %. El código en R que aparece a continuación indica cuál es el beneficio del señor:
+1 2 3 4 5 6 7 8 9 10 11 12  capital &amp;lt;- 10 depositos &amp;lt;- 90 int.dep &amp;lt;- 0.04 int.pres &amp;lt;- 0.</description>
+    </item>
+    
+    <item>
+      <title>La escuela de Chicago se defiende</title>
+      <link>/2011/07/22/la-escuela-de-chicago-se-defiende/</link>
+      <pubDate>Fri, 22 Jul 2011 07:05:04 +0000</pubDate>
+      
+      <guid>/2011/07/22/la-escuela-de-chicago-se-defiende/</guid>
+      <description>El vídeo de Taleb que publiqué la semana pasada recoge un ataque frontal a un presunto vicio del entramado económico-financiero actual: su excesiva dependencia en la teoría y la matematización de los mercados financieros. Hasta tal punto se ha cuestionado el papel de las matemáticas (y su responsabilidad en la reciente crisis financiera y bancaria) que la llamada Escuela de Chicago, cuna de toda esta arquitectura, está a la defensiva.</description>
+    </item>
+    
+    <item>
+      <title>Paella sin arroz con sabor a judías enlatadas</title>
+      <link>/2011/07/21/paella-sin-arroz-con-sabor-a-judias-enlatadas/</link>
+      <pubDate>Thu, 21 Jul 2011 07:00:14 +0000</pubDate>
+      
+      <guid>/2011/07/21/paella-sin-arroz-con-sabor-a-judias-enlatadas/</guid>
+      <description>El otro día leí el artículo A Prototype Model of Stock Exchangede G. Caldarelli, M. Marsili y Y.C. Zhang. La promesa que me ofrecía era la de la creación de un sistema relativamente realista de los agentes que operan en los mercados financieros que diese lugar a una evolución de precios con propiedades similares a las observadas.
+Sin embargo, el planteamiento, interesante en un principio, se deshinchó enseguida:
+ El modelo planteado por los autores ni siquiera aspira a representar los aspectos más distintivos del mercado: en lugar de agentes tremendamente desiguales en tamaño y entrelazados en una maraña de dependencias e influencias mutuas, los agentes son todos equivalentes en tamaño (si bien es cierto que en el estado estacionario de la simulación los ingresos adquieren una distribución dada por una ley de potencias) y que actúan de manera independiente entre sí una vez observados los precios en el mercado.</description>
+    </item>
+    
+    <item>
+      <title>Nassim Taleb y el problema de la inferencia</title>
+      <link>/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/</link>
+      <pubDate>Fri, 15 Jul 2011 10:58:46 +0000</pubDate>
+      
+      <guid>/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/</guid>
+      <description>Según el DRAE, inferir consiste en s_acar una consecuencia o deducir algo de otra cosa_. Estadísticos, economistas, económetras y muchos otros lidian siempre con el llamado problema de la inferencia: ¿es posible generalizar a sucesos aún no observados los resultados que parecen deducirse de los datos recogidos?
+Nassim Taleb, empiricista y escéptico, es un pensador y polemista que cuestiona la fe que muchos depositan en teorías y métodos. De lo mucho que podía hablarse de él, me limitaré a subrayar que gran parte de sus reflexiones están contenidas en el muy recomendable libro El cisne negro y que los faltos de tiempo podrán averiguar lo más de ellas en esta conferencia suya de apenas una hora.</description>
+    </item>
+    
+    <item>
+      <title>Riesgo e incertidumbre</title>
+      <link>/2011/03/11/riesgo-e-incertidumbre/</link>
+      <pubDate>Fri, 11 Mar 2011 09:33:27 +0000</pubDate>
+      
+      <guid>/2011/03/11/riesgo-e-incertidumbre/</guid>
+      <description>He encontrado dos (¿cuatro?) definiciones contradictorias de _riesgo _e incertidumbre. La primera está implícita en una frase del artículo The ratings game de Martin Mayer y dice, según mi traducción, así:
+ Knight realizó una distinción categórica entre el riesgo, que puede ser medido, y la incertidumbre, que no puede serlo.
+ Mayer recoge así la distinción que realizó Frank Knight en su tesis doctoral hace ya casi un siglo. En términos algo más precisos, lo que según Knight distingue la incertidumbre del riesgo es que del segundo se conoce, cuando menos, la distribución de probabilidad asociada al fenómeno.</description>
+    </item>
+    
+    <item>
+      <title>Hay vida feliz más allá del PIB</title>
+      <link>/2011/02/25/1605/</link>
+      <pubDate>Fri, 25 Feb 2011 09:07:06 +0000</pubDate>
+      
+      <guid>/2011/02/25/1605/</guid>
+      <description>Igual que reviso mis propios ingresos y gastos, por eso de que vivimos en democracia, me molesto en revisar los números de esas esferas en que me encuadro fiscalmente: ayuntamiento, comunidad autónoma, país (¡pobrecico!) y Unión Europea. Mis dos principales impresiones al examinar las de la Comunidad de Madrid de 2010 fueron:
+ La opacidad (o ininteligibilidad) de las partidas de ingresos: al parecer, estamos en un periodo transitorio en lo concerniente a la financiación autonómica (aunque apostaría bastante dinero a que todos los años desde el 78 lo han venido siendo en mayor o menor grado) y esto hace muy difícil saber quién paga qué, qué son esos fondos de compensación, a qué hacen referencia los ajustes y, sobre todo, cómo se comparan las cifras de un año con las del anterior.</description>
+    </item>
+    
+    <item>
+      <title>Divide y compararás</title>
+      <link>/2011/02/18/divide-y-compararas/</link>
+      <pubDate>Fri, 18 Feb 2011 09:34:57 +0000</pubDate>
+      
+      <guid>/2011/02/18/divide-y-compararas/</guid>
+      <description>De este artículo sobre Facebook  extraigo dos cifras:
+ Valoración estimada de la compañía (de acuerdo con ciertos analistas, dado que no cotiza): 50.000 millones de dólares Número de usuarios (¿o clientes?): 500 millones.  Aunque son de tal magnitud que rozan lo ininteligible, su cociente sí que resulta aprehensible: cien dólares; cien dólares es lo que dizque se está pagando por cada usuario de Facebook (aunque esto no es rigurosamente cierto: se está pagando también por sus futuros usuarios, dado su patrón de crecimiento).</description>
+    </item>
+    
+    <item>
+      <title>¡Qué mala suerte tengo con las anomalías!</title>
+      <link>/2010/10/29/que-mala-suerte-tengo-con-las-anomalias/</link>
+      <pubDate>Fri, 29 Oct 2010 00:16:28 +0000</pubDate>
+      
+      <guid>/2010/10/29/que-mala-suerte-tengo-con-las-anomalias/</guid>
+      <description>El siempre muy benéfico Banco de Santander me ha proporcionado &amp;mdash;onerosamente: veráse el porqué&amp;mdash; un conjunto de datos con el que ilustrar a los lectores de este blog en el uso del paquete outliers de R. Los datos son los siguientes:
+1 2  dia &amp;lt;- 17:26 precio &amp;lt;- 10 + c( 22, 21, 39, 18, 24, 26, 26,26,29, 28 ) / 100   Los días son los discurridos desde que di una orden de adquisición de un fondo de inversión a través de dicha entidad financiera hasta que tuve constancia de que se había completado: el dinero se había adeudado de la cuenta corriente y las participaciones, aparecían listadas en la cuenta de valores.</description>
+    </item>
+    
+    <item>
+      <title>¿Hemos salido de la recesión? ¡Queremos nuestros intervalos de confianza!</title>
+      <link>/2010/05/07/hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza/</link>
+      <pubDate>Fri, 07 May 2010 19:39:38 +0000</pubDate>
+      
+      <guid>/2010/05/07/hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza/</guid>
+      <description>Ha aparecido publicado recientemente en prensa que, según el Banco de España, hemos salido de la recesión (por si acaso: nosotros significa los españoles): en su Boletín Económico del mes de abril, el banco emisor dice textualmente que:
+ Las estimaciones realizadas a partir de la información coyuntural disponible apuntan a que, en el primer trimestre, el PIB pasó a crecer un 0,1%, en términos de su tasa intertrimestral, tras seis meses consecutivos de bajadas.</description>
+    </item>
+    
+    <item>
+      <title>Los mayas y la crisis</title>
+      <link>/2010/04/14/los-mayas-y-la-crisis/</link>
+      <pubDate>Wed, 14 Apr 2010 23:56:37 +0000</pubDate>
+      
+      <guid>/2010/04/14/los-mayas-y-la-crisis/</guid>
+      <description>Tengo que pedir excusas a mis lectores por el título de la entrada: reconozco que tiene un sí es no es de desesperado intento por captar tráfico a costa de los amigos de lo escatológico, tal vez interesados en averiguar qué nos sucederá a todos en el 2012.
+En realidad, el vínculo que establezco entre los mayas y la crisis actual tiene que ver con una relativamente reciente (re)visita mía a uno de esos museos en los que uno, a veces, ríe y, otras, llora como por dentro.</description>
+    </item>
+    
+  </channel>
+</rss>

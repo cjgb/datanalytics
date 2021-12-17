@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stl on datanalytics</title>
+    <link>/tags/stl/</link>
+    <description>Recent content in stl on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Jul 2018 08:13:42 +0000</lastBuildDate><atom:link href="/tags/stl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Por que slt-ear si puedes stR-ear?</title>
+      <link>/2018/07/25/por-que-slt-ear-si-puedes-str-ear/</link>
+      <pubDate>Wed, 25 Jul 2018 08:13:42 +0000</pubDate>
+      
+      <guid>/2018/07/25/por-que-slt-ear-si-puedes-str-ear/</guid>
+      <description>La función stl (véase aquí un ejemplo de uso). Pero tiene sus limitaciones.
+El paquete stR la extiende y permite, entre otras cosas, introducir distintos tipos de estacionalidades (p.e., anuales y semanales).</description>
+    </item>
+    
+    <item>
+      <title>Mortalidad en carretera (contada de una manera distinta)</title>
+      <link>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</link>
+      <pubDate>Tue, 09 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</guid>
+      <description>Con motivo de fin de año se ha hablado de fallecidos en accidentes de tráfico como por ejemplo en El Mundo o en El País. Y sí, parece que el número observado de muertos ha aumentado.
+Lo cual es mucho menos relevante de lo que se da a entender. Si tiras una moneda al aire 100 veces y sacas 48 caras y luego repites el experimento, podrías sacar 53 (y habría aumentado el número observado de caras) o 45 (y habría disminuido).</description>
+    </item>
+    
+    <item>
+      <title>Ey, ¡en esta serie hay más muertos que en Juego de Tronos!</title>
+      <link>/2017/09/07/ey-en-esta-serie-hay-mas-muertos-que-en-juego-de-tronos/</link>
+      <pubDate>Thu, 07 Sep 2017 08:13:43 +0000</pubDate>
+      
+      <guid>/2017/09/07/ey-en-esta-serie-hay-mas-muertos-que-en-juego-de-tronos/</guid>
+      <description>La serie en cuestión es esta (abridla en otra pestaña para verla en la plenitud de su definición):
+Con tiene todas (explicar por qué no son todas sería complicado, pero se puede dar el cuantificador casi por bueno) las defunciones (diarias) en España desde la fecha indicada.
+Los datos brutos están en la figura superior. Las tres siguientes tienen la descomposición estacional, la tendencia y los residuos tal como los estima stl.</description>
+    </item>
+    
+    <item>
+      <title>Consultando el número de visitas a páginas de la Wikipedia con R</title>
+      <link>/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/</link>
+      <pubDate>Mon, 27 Feb 2017 08:13:18 +0000</pubDate>
+      
+      <guid>/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/</guid>
+      <description>Hace un tiempo probé el paquete wikipediatrend de R ya no recuerdo para qué. Desafortunadamente, el servicio que consulta debía de estar caído y no funcionó. Ahí quedó la cosa.
+Una reciente entrada de Antonio Chinchón en su blog me ha invitado a revisitar la cuestión y ahora, al parecer, stats.grok.se vuelve a estar levantado. Por lo que se pueden hacer cosas como:
+visitas &amp;lt;- wp_trend(&amp;quot;R_(lenguaje_de_programaci%C3%B3n)&amp;quot;, from = &amp;quot;2010-01-01&amp;quot;, to = Sys.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algoritmos genéticos on datanalytics</title>
+    <link>/tags/algoritmos-gen%C3%A9ticos/</link>
+    <description>Recent content in algoritmos genéticos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Jun 2010 23:37:02 +0000</lastBuildDate><atom:link href="/tags/algoritmos-gen%C3%A9ticos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algoritmos genéticos para la caracterización de máximos en random forests</title>
+      <link>/2010/06/16/algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests/</link>
+      <pubDate>Wed, 16 Jun 2010 23:37:02 +0000</pubDate>
+      
+      <guid>/2010/06/16/algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests/</guid>
+      <description>En minería de datos se buscan modelos que permitan hacer predicciones acerca del comportamiento de los sujetos del estudio. Pero, típicamente, cuanto más complejas son las técnicas, menos intuición ofrecen acerca del porqué de la predicción, pierden inteligibilidad. Existe una omnipresente tensión entre inteligibilidad (una propiedad altamente deseable, incluso, en ocasiones, por requisito legal) y precisión.
+Un modelo puede resumir mejor o peor una colección enorme de observaciones, pero en ocasiones los mismos modelos son demasiado complejos o herméticos como para ofrecer una interpretación plausible de los datos: ¿qué caracteriza a las observaciones para las que mi modelo predice los valores más altos (o bajos)?</description>
+    </item>
+    
+  </channel>
+</rss>

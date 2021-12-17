@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>surveillance on datanalytics</title>
+    <link>/tags/surveillance/</link>
+    <description>Recent content in surveillance on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Mar 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/surveillance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una R-referencia con referencias para epidemiólogos circunstanciales</title>
+      <link>/2020/03/09/una-r-referencia-con-referencias-para-epidemiologos-circunstanciales/</link>
+      <pubDate>Mon, 09 Mar 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/03/09/una-r-referencia-con-referencias-para-epidemiologos-circunstanciales/</guid>
+      <description>Lo del coronavirus nos ha convertido a todos en epidemiólogos circunstanciales. Casi ninguno de vosotros tenéis acceso a los datos necesarios para hacer cosas por vuestra cuenta, pero sí, tal vez gracias a esta entrada, las herramientas necesarias para ello.
+Podéis empezar por el paquete [survellance](https://CRAN.R-project.org/package=surveillance) de R, que implementa muchos de los métodos más modernos para la monitorización de brotes epidémicos.
+En particular, puede que os interese la función bodaDelay, intitulada Bayesian Outbreak Detection in the Presence of Reporting Delays, y que implementa una serie de métodos para estimar el número real de casos cuando las notificaciones de los positivos llegan tarde.</description>
+    </item>
+    
+  </channel>
+</rss>

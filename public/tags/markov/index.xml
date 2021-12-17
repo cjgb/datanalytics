@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markov on datanalytics</title>
+    <link>/tags/markov/</link>
+    <description>Recent content in markov on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 09 Jan 2019 08:13:57 +0000</lastBuildDate><atom:link href="/tags/markov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cadenas de Markov para generar trayectorias posibles de huracanes</title>
+      <link>/2019/01/09/cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes/</link>
+      <pubDate>Wed, 09 Jan 2019 08:13:57 +0000</pubDate>
+      
+      <guid>/2019/01/09/cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes/</guid>
+      <description>Supongo que todo el mundo estará enterado de lo que hizo Shannon en 1948: generar texto automático usando cadenas de Markov (el que no, que mire esto).
+El que no, que eche un vistazo a esto otro para ver cómo una extensión de la idea original permite simular posibles trayectorias de huracanes.</description>
+    </item>
+    
+    <item>
+      <title>Modelos de factores ocultos y la caverna de Platón</title>
+      <link>/2018/03/13/modelos-de-factores-ocultos-y-la-caverna-de-platon/</link>
+      <pubDate>Tue, 13 Mar 2018 08:13:25 +0000</pubDate>
+      
+      <guid>/2018/03/13/modelos-de-factores-ocultos-y-la-caverna-de-platon/</guid>
+      <description>La filosofía griega, aunque tosca, es rica en imágenes poderosas. El monotemático, además, solo ve su monotema.
+Así que observando
+no pude dejar de pensar que sugiere perfectamente los modelos (de factores) ocultos: kriggin, Kalman, los HMM, etc.
+En definitiva, los humanos vemos las sombras (ruidosas) de unos objetos ideales que permanecen escondidos. Aunque a diferencia del iluminado platónico que logra girar la cabeza, nosotros, simplemente, exprimimos las sombras para conocer más y mejor los objetos que las proyectan.</description>
+    </item>
+    
+    <item>
+      <title>Python y R: una perspectiva markoviana</title>
+      <link>/2017/09/06/python-y-r-una-perspectiva-markoviana/</link>
+      <pubDate>Wed, 06 Sep 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/09/06/python-y-r-una-perspectiva-markoviana/</guid>
+      <description>Hoy he visto
+aquí y he escrito
+m &amp;lt;- matrix(c(74, 15, 10, 1, 11, 50, 38, 1, 5, 4, 90, 1, 17, 4, 19, 60), 4, 4, byrow = TRUE) m &amp;lt;- m / 100  luego
+m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m%*% m%*% m%*% m%*% m%*% m%*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m%*% m%*% m%*% m%*% m%*% m%*% m # [,1] [,2] [,3] [,4] #[1,] 0.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Lengua y Markov&#34; en MartinaCocina este sábado</title>
+      <link>/2014/10/03/lengua-y-markov-en-martinacocina-este-sabado/</link>
+      <pubDate>Fri, 03 Oct 2014 12:08:33 +0000</pubDate>
+      
+      <guid>/2014/10/03/lengua-y-markov-en-martinacocina-este-sabado/</guid>
+      <description>Hija de la improvisación de hace un ratico, habrá mañana sábado día 4 (de 2014), a las 19:00 una reunión de gente poco cabal en MartinaCocina para discutir asuntos relacionados con el análisis de textos (y en una vertiente más lúdica, la generación de textos) usando cadenas de Markov.
+Nos juntaremos, entre otros, los autores del Escritor Exemplar (uno de los cuales es quien suscribe) y el de Markov Desencadenado.</description>
+    </item>
+    
+    <item>
+      <title>Todo el mundo habla de cadenas de Markov</title>
+      <link>/2014/04/29/todo-el-mundo-habla-de-cadenas-de-markov/</link>
+      <pubDate>Tue, 29 Apr 2014 07:19:00 +0000</pubDate>
+      
+      <guid>/2014/04/29/todo-el-mundo-habla-de-cadenas-de-markov/</guid>
+      <description>Todo el mundo habla últimamente de cadenas de Markov. ¿No os habéis dado cuenta? ¿O seré yo el que saca a relucir el asunto venga o no al caso? Sea que se haya puesto de moda o que esté mi misma obsesión por el asunto sesgando mi impresión sobre sobre (me encanta escribir dos preposiciones seguidas) lo que la gente habla, es el caso que el otro día me comprometí a escribir sobre</description>
+    </item>
+    
+    <item>
+      <title>El escritor exemplar</title>
+      <link>/2014/03/13/el-escritor-exemplar/</link>
+      <pubDate>Thu, 13 Mar 2014 07:45:27 +0000</pubDate>
+      
+      <guid>/2014/03/13/el-escritor-exemplar/</guid>
+      <description>Eso reza el pie de página de El escritor exemplar un artilugio que a veces crea frases tales como
+
+que debieran ser aleatorias, no muy distintas en estilo de las Novelas Ejemplares y, con muchísima suerte, inspiradoras.
+Hay más detalles sobre el proyecto aquí.
+El motor que las genera, que es producto de mi cacumen —por lo que a él y solo a él cabe culpar de los deméritos de la cosa—, muestrea una cadena de Markov de segundo orden construida a partir de secuencias de palabras que figuran en las Novelas Ejemplares.</description>
+    </item>
+    
+    <item>
+      <title>¿Cuánta gente usará R (vs Python vs otros) dentro de 1000 años?</title>
+      <link>/2013/12/18/cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos/</link>
+      <pubDate>Wed, 18 Dec 2013 07:23:00 +0000</pubDate>
+      
+      <guid>/2013/12/18/cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos/</guid>
+      <description>Pues no lo sé. Seguramente, nadie. Pero como he visto esto (que no es otra forma que una representación palabrera de una matriz de transiciones de Markov) y el debate R vs Python para el análisis de datos ha resonado estos últimos días con cierta fuerza, voy a ensayar un pequeño divertimento matemático que me traslada a una clase práctica de Álgebra I en mis años de estudiante.
+Es el siguiente:</description>
+    </item>
+    
+  </channel>
+</rss>

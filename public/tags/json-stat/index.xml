@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>json-stat on datanalytics</title>
+    <link>/tags/json-stat/</link>
+    <description>Recent content in json-stat on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Jun 2018 08:13:04 +0000</lastBuildDate><atom:link href="/tags/json-stat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿El mejor formato para diseminar microdatos?</title>
+      <link>/2018/06/13/el-mejor-formato-para-diseminar-microdatos/</link>
+      <pubDate>Wed, 13 Jun 2018 08:13:04 +0000</pubDate>
+      
+      <guid>/2018/06/13/el-mejor-formato-para-diseminar-microdatos/</guid>
+      <description>A raíz de mi entrada de ayer, se han iniciado en mi derredor algunas discusiones sobre cuál podría ser el formato indicado para diseminar microdatos. En particular, los del INE. Y el asunto no es trivial.
+Hasta la fecha, el procedimiento habitual era utilizar ficheros de ancho fijo con códigos, típicamente numéricos (p.e., 1-hombre; 6-mujer). Existían diccionarios asociados con pares código-descripción que se distribuían en hojas de cálculo adjuntas; es decir, metadatos.</description>
+    </item>
+    
+    <item>
+      <title>APIdays Mediterránea, 29 y 30 de mayo en Barcelona</title>
+      <link>/2014/05/22/apidays-mediterranea-29-y-30-de-mayo-en-barcelona/</link>
+      <pubDate>Thu, 22 May 2014 06:59:05 +0000</pubDate>
+      
+      <guid>/2014/05/22/apidays-mediterranea-29-y-30-de-mayo-en-barcelona/</guid>
+      <description>Aquellos que tengáis la suerte de estar en Barcelona a finales de mes, la tendréis por partida doble: la edición de APIdays Mediterránea de este año tendrá lugar ahí los días 29 y 30 de mayo.
+El año pasado participé en la edición de Madrid. Este año no va a poder ser. Pero si tenéis ocasión, os recomendaría muy particularmente las charlas de
+ * Alberto González Paje sobre _web scraping_, * Xavier Badosa, el autor de [JSON-stat](http://json-stat.</description>
+    </item>
+    
+    <item>
+      <title>PC-Axis ha muerto, larga vida a JSON-stat</title>
+      <link>/2013/11/07/pc-axis-ha-muerto-larga-vida-a-json-stat/</link>
+      <pubDate>Thu, 07 Nov 2013 07:26:13 +0000</pubDate>
+      
+      <guid>/2013/11/07/pc-axis-ha-muerto-larga-vida-a-json-stat/</guid>
+      <description>Igual exagero en el encabezamiento: PC-Axis, a pesar de sus defectos, a pesar de su antigüedad, etc. goza de excesiva buena salud. Debió haber pasado a mejor vida hace tiempo pero, como pasa con esas cosas, se ha enquistado.
+Como alternativa a la altura de los tiempos, está JSON-stat, concebido por Xavier Badosa y que nadie como él describe:
+Invitados estáis a visitar json-stat.org.</description>
+    </item>
+    
+  </channel>
+</rss>

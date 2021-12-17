@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>indultos on datanalytics</title>
+    <link>/tags/indultos/</link>
+    <description>Recent content in indultos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 07 Jul 2015 08:13:16 +0000</lastBuildDate><atom:link href="/tags/indultos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estadística descriptiva allende la estadística descriptiva</title>
+      <link>/2015/07/07/estadistica-descriptiva-allende-la-estadistica-descriptiva/</link>
+      <pubDate>Tue, 07 Jul 2015 08:13:16 +0000</pubDate>
+      
+      <guid>/2015/07/07/estadistica-descriptiva-allende-la-estadistica-descriptiva/</guid>
+      <description>Este fin de semana me toca enseñar estadística en el máster de data science de la UTAD. Heredo un programa que incluye una sección importante de estadística descriptiva (que pienso subvertir, claro está).
+La estadística descriptiva, según la entiendo, va mucho más allá de lo que viene llamándose estadística descriptiva: eso de las medias, las medianas, el análisis unidimensional, etc. Pienso que un modelo estadístico no es sino una evolución natural de esas trivialidades que nos proporciona una comprensión más profunda de los datos: más allá de cómo son las variables una a una, cómo interoperan y de qué manera actúan para determinar uno o varios efectos de interés.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r-help-es on datanalytics</title>
+    <link>/tags/r-help-es/</link>
+    <description>Recent content in r-help-es on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 04 Dec 2013 07:43:34 +0000</lastBuildDate><atom:link href="/tags/r-help-es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ayuda de R en español</title>
+      <link>/2013/12/04/ayuda-de-r-en-espanol/</link>
+      <pubDate>Wed, 04 Dec 2013 07:43:34 +0000</pubDate>
+      
+      <guid>/2013/12/04/ayuda-de-r-en-espanol/</guid>
+      <description>He ejecutado hoy tres ficheros secuencialmente:
+&amp;lt;code&amp;gt;#!/bin/bash wget -nd -r -l1 --accept gz https://stat.ethz.ch/pipermail/r-help-es/ zcat *.gz &amp;gt; all_mails rm *.gz&amp;lt;/code&amp;gt;  en sh,
+&amp;lt;code&amp;gt;#!/usr/bin/python import mailbox from email.utils import parsedate from time import mktime for message in mailbox.mbox(&#39;all_mails&#39;): fecha = parsedate(message[&amp;quot;date&amp;quot;]) print str(fecha[0]) + &amp;quot;-&amp;quot; + str(fecha[1])&amp;lt;/code&amp;gt;  en Python y finalmente
+&amp;lt;code&amp;gt;#!/usr/bin/Rscript library(zoo) meses &amp;lt;- read.table(&amp;quot;horas.txt&amp;quot;)[,1] meses &amp;lt;- paste(meses, &amp;quot;-1&amp;quot;, sep = &amp;quot;&amp;quot;) meses &amp;lt;- table(meses) meses &amp;lt;- zoo(meses, order.</description>
+    </item>
+    
+  </channel>
+</rss>

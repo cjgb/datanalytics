@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pulpo on datanalytics</title>
+    <link>/tags/pulpo/</link>
+    <description>Recent content in pulpo on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 13 Jul 2010 21:25:16 +0000</lastBuildDate><atom:link href="/tags/pulpo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use SAS para predecir como un pulpo</title>
+      <link>/2010/07/13/use-sas-para-predecir-como-un-pulpo/</link>
+      <pubDate>Tue, 13 Jul 2010 21:25:16 +0000</pubDate>
+      
+      <guid>/2010/07/13/use-sas-para-predecir-como-un-pulpo/</guid>
+      <description>Para el otoño volverá a tener lugar el congreso de usuarios de SAS en España. El anuncio que me acaba de llegar —con su referencia al ubicuo pulpo Paul— no puede ser más desafortunado. Por si desaparece el enlace, reproduzco con una captura de pantalla aquí lo más sustancioso del mismo:
+
+Addenda:
+Comí el jueves con la más infiel de mis lectoras (creo que ni lectora es) y convinimos en que el mensaje de SAS resulta, cuando menos, insultante para cuantos nos dedicamos al sufrido oficio de la estadística y actividades concomitantes.</description>
+    </item>
+    
+  </channel>
+</rss>

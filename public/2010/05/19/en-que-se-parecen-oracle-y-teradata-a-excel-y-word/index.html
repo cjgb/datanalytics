@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>¿En qué se parecen Oracle y Teradata a Excel y Word? - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="¿En qué se parecen Oracle y Teradata a Excel y Word?" />
+<meta property="og:description" content="Y, para el caso, Postgres y OpenOffice.
+Pues en que quienes los diseñan piensan que los usuarios finales son, somos, abuelitas. Y por tanto, toman decisiones por nosotros (usar mayúsculas donde no se debe, cruzar tablas como les da la gana, empeñarse en que incoar se escribe con hache intercalada, etc.). En particular, mi queja de hoy se refiere a lo estúpidos que pueden llegar a ser los presuntos optimizadores de consultas en bases de datos y en un pequeño —aunque universal— método para doblegarlos a nuestra voluntad soberana." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2010-05-19T20:48:10&#43;00:00" />
+<meta property="article:modified_time" content="2010-05-19T20:48:10&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">¿En qué se parecen Oracle y Teradata a Excel y Word?</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2010-05-19T20:48:10Z">2010-5-19</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Y, para el caso, Postgres y OpenOffice.</p>
+<p>Pues en que quienes los diseñan piensan que los usuarios finales son, somos, abuelitas. Y por tanto, toman decisiones por nosotros (usar mayúsculas donde no se debe, cruzar tablas como les da la gana, empeñarse en que <em>incoar</em> se escribe con hache intercalada, etc.). En particular, mi queja de hoy se refiere a lo estúpidos que pueden llegar a ser los presuntos <em>optimizadores</em> de consultas en bases de datos y en un pequeño —aunque universal— método para doblegarlos a nuestra voluntad soberana.</p>
+<p>Ya sé, ya sé que este tipo de problemas es consustancial a eso tan moderno que son los <a href="http://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n_declarativo">lenguajes declarativos</a>, como lo es R, a los que soy tan afín: uno dice qué quiere y delega la tediosa labor de cómo hacerlo. Pero sus implementadores deberían mostrar algún grado de respeto hacia quienes hemos aprendido a no dispararnos en el pie gratuitamente.</p>
+<p>Y paso a describir el problema de hoy (en Teradata, por centrar ideas). En primer lugar, presentemos nuestras tablas:</p>
+<ul>
+<li><strong>A</strong> es una tabla enorme, del orden de 1.000 millones de filas (de ahí que su nombre esté en mayúsculas).</li>
+<li><strong>b</strong> es una tabla de 250.000 filas que cruza con <strong>A</strong></li>
+<li><strong>c</strong> es una tabla pequeña, de 800 filas que cruza con <strong>b</strong></li>
+</ul>
+<p>El objetivo es cruzar <strong>A</strong>, <strong>b</strong> y <strong>c</strong> para después agregar por ciertos campos de <strong>A</strong> y <strong>c</strong>. Veamos la <em>query</em> (simplificada en extremo):</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">select</span>
+     A.c1, A.c2, <span style="color:#66d9ef">c</span>.c3, <span style="color:#66d9ef">c</span>.c4, <span style="color:#66d9ef">sum</span>( A.c5 ) <span style="color:#66d9ef">as</span> c5
+<span style="color:#66d9ef">from</span>
+     A <span style="color:#66d9ef">join</span> b  <span style="color:#66d9ef">on</span> ( A.c1 <span style="color:#f92672">=</span> b.b1 <span style="color:#66d9ef">and</span> A.c2 <span style="color:#f92672">=</span> b.b2 )
+          <span style="color:#66d9ef">join</span> <span style="color:#66d9ef">c</span>  <span style="color:#66d9ef">on</span> ( b.b1 <span style="color:#f92672">=</span> <span style="color:#66d9ef">c</span>.c3 <span style="color:#66d9ef">and</span> b.b3 <span style="color:#f92672">=</span> <span style="color:#66d9ef">c</span>.c6 ) 
+<span style="color:#66d9ef">group</span> <span style="color:#66d9ef">by</span>
+     <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">4</span>
+;</code></pre></td></tr></table>
+</div>
+</div>
+<p>Si llamamos (<strong>a</strong>,<strong>b</strong>) al operador que cruza las tablas <strong>a</strong> y <strong>b</strong>, entonces se sabe que:</p>
+<ul>
+<li>(<strong>A</strong>,<strong>b</strong>) es una tabla inmensísima, mucho mayor que <strong>A</strong></li>
+<li>(<strong>b</strong>,<strong>c</strong>) es una tabla mucho menor que <strong>b</strong></li>
+</ul>
+<p>Es evidente que el plan de ejecución adecuado es (A, (<strong>b</strong>,<strong>c</strong>)), y no ( (<strong>A</strong>,<strong>b</strong>),<strong>c</strong>). Pero éste último es en el que se empeñaba el cretino del optimizador de Teradata independientemente del orden en que se escribiesen los cruces o el número de paréntesis en que se quisiese encerrar el cruce (<strong>b</strong>,<strong>c</strong>).</p>
+<p>Quoi faire?</p>
+<p>Existe un ardid, un ardid universal, un ardid ladino, que merece ser anotado en la primera página de todos los vademécums de ardides y que consiste en reescribir así la <em>query</em>:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">9
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">select</span>
+     A.c1, A.c2, <span style="color:#66d9ef">c</span>.c3, <span style="color:#66d9ef">c</span>.c4, <span style="color:#66d9ef">sum</span>( A.c5 ) <span style="color:#66d9ef">as</span> c5
+<span style="color:#66d9ef">from</span>
+     A <span style="color:#66d9ef">join</span> b  <span style="color:#66d9ef">on</span> ( A.c1 <span style="color:#f92672">=</span> b.b1 <span style="color:#66d9ef">and</span>
+                    A.c2 <span style="color:#f92672">=</span> b.b2 <span style="color:#f92672">||</span> <span style="color:#66d9ef">substring</span> (<span style="color:#66d9ef">c</span>.c3, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">0</span>))
+          <span style="color:#66d9ef">join</span> <span style="color:#66d9ef">c</span>  <span style="color:#66d9ef">on</span> (b.b1 <span style="color:#f92672">=</span> <span style="color:#66d9ef">c</span>.c3 <span style="color:#66d9ef">and</span> b.b3 <span style="color:#f92672">=</span> <span style="color:#66d9ef">c</span>.c6) 
+<span style="color:#66d9ef">group</span> <span style="color:#66d9ef">by</span>
+     <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">4</span>
+;</code></pre></td></tr></table>
+</div>
+</div>
+<p>¿En qué consiste? En el cruce de <strong>A</strong> con <strong>b</strong> se introduce subrepticiamente una dependencia con <strong>c</strong>. Es una dependencia, sí, porque involucra una columna de <strong>c</strong>. Y es subrepticia porque no altera para nada el valor de la columna de cruce real, la de <strong>b</strong>: no se le añade ningún caracter de la columna de <strong>c</strong>.</p>
+<p>Alternativamente, para campos numéricos, se puede sumar a un valor de <strong>b</strong> cero por un valor de <strong>c</strong> o cosas similares. En eso la imaginación del lector habrá de ser ley.</p>
+<p>Existen alternativas. Teradata, se ha demostrado hoy, las tiene. Existen mecanismos, como si heredados de la moderna pedagogía, que tratan de educar al optimizador: un adulto lo guía pacientemente proponiédole, a guisa de juegos con figuras de colores, estadísticas sobre combinaciones de variables. Con paciencia, a través de esas estadísticas que luego nunca nadie recrea cuando se debe, se puede lograr el deseado fin. Al menos, una vez, en desarrollo y con propósitos ilustrativos.</p>
+<p>No sé cómo tomarme que este ardid —que paga la hipoteca de los yates de algunos afamados gurús de la optimización de consultas— haya sido saludado con un &ldquo;tu (no es mío) truco (no es un truco: es una estrategia victoriosa) no es generalizable (dígame Vd. dónde pudiera no funcionar, señor valedor de una tecnología caduca)&rdquo;.</p>
+<p>Lo importante es, no obstante, que <a href="http://www.nabarralde.com/es/eztabaida/3436-las-estirpes-condenadas-a-cien-anos-de-soledad">las estirpes de consultores condenados a cien años de <em>overtime</em> disponen, por fin, de una alternativa sobre la faz de la tierra</a>.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/excel/" rel="tag">excel</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/sql/" rel="tag">sql</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2010/05/18/regresion-por-cuantiles-en-r-y-sas/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Regresión por cuantiles en R y SAS</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2010/05/20/numeros-estadisticamente-transcendentes/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Números estadísticamente transcendentes</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelos mixtos on datanalytics</title>
+    <link>/tags/modelos-mixtos/</link>
+    <description>Recent content in modelos mixtos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Nov 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/modelos-mixtos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codificación de categóricas: de (1 | A) a (B | A)</title>
+      <link>/2020/11/11/codificacion-de-categoricas-de-1-a-a-b-a/</link>
+      <pubDate>Wed, 11 Nov 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/11/11/codificacion-de-categoricas-de-1-a-a-b-a/</guid>
+      <description>La notación y la justificación de (1 | A) está aquí, una vieja entrada que no estoy seguro de que no tenga que retocar para que no me gruña el ministerio de la verdad.
+Esta entrada lo es solo para anunciar que en uno de nuestros proyectos y a resultas de una idea de Luz Frías, vamos a implementar una versión mucho más parecida al lo que podría representar el término (B | A), que es, casi seguro, chorrocientasmil veces mejor.</description>
+    </item>
+    
+    <item>
+      <title>Regresión tradicional vs multinivel</title>
+      <link>/2020/04/13/regresion-tradicional-vs-multinivel/</link>
+      <pubDate>Mon, 13 Apr 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/04/13/regresion-tradicional-vs-multinivel/</guid>
+      <description>Ayer se leía en Twitter que
+https://twitter.com/joscani/status/1249017607199621123
+Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnicas. Obviamente, hay muchos tipos de datos y supongo que los resultados variarán según qué variante se utilice. Aquí voy a centrarme en unos donde hay medidas repetidas de un factor aleatorio. También voy a situarme en un contexto académico, en el que interesan más las estimaciones de los efectos fijos, que en uno más próximo a mi mundo, la consultoría, donde son más relevantes las estimaciones regularizadas de los efectos aleatorios.</description>
+    </item>
+    
+    <item>
+      <title>Los modelos mixtos en Python son un bien público pero quienes debieran proveerlo están a otra cosa</title>
+      <link>/2019/09/17/los-modelos-mixtos-en-python-son-un-bien-publico-pero-quienes-debieran-proveerlo-estan-a-otra-cosa/</link>
+      <pubDate>Tue, 17 Sep 2019 09:13:45 +0000</pubDate>
+      
+      <guid>/2019/09/17/los-modelos-mixtos-en-python-son-un-bien-publico-pero-quienes-debieran-proveerlo-estan-a-otra-cosa/</guid>
+      <description>Los modelos mixtos en Python son un bien público.
+El sector privado no produce suficientes bienes públicos (con excepciones tan notables como las búsquedas en Google o las páginas aún sin paywall de los periódicos). El sector público y los impuestos que lo financian argumenta la conveniencia de su propia existencia en términos de esa provisión de bienes públicos que dizque realiza.
+Pero ese subsector del sector público que debería implementar los modelos mixtos en Python se dedica a otra cosa.</description>
+    </item>
+    
+    <item>
+      <title>Incertidumbre en ránkings (o cómo la varianza es la mayor enemiga de la meritocracia)</title>
+      <link>/2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/</link>
+      <pubDate>Wed, 03 Apr 2019 19:27:36 +0000</pubDate>
+      
+      <guid>/2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/</guid>
+      <description>Tengo por ahí leído y encolado el artículo League Tables and Their Limitations: Statistical Issues in Comparisons of Institutional Performance del perínclito Spiegelhalter que toma una serie de ránkings (de colegios, de hospitales) y trata de medir cuánto tienen de sustancia y cuánto de ruido.
+Hace cosas muy similares a las que escribí aquí. Mi entrada, además, cuenta con la ventaja (que lo será solo para algunos) de usar la sintaxis y código de [lme4](https://cran.</description>
+    </item>
+    
+    <item>
+      <title>Sr. Python, muchas gracias por su candidatura; ya le llamaremos cuando... tenga modelos mixtos</title>
+      <link>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</link>
+      <pubDate>Tue, 12 Feb 2019 08:13:49 +0000</pubDate>
+      
+      <guid>/2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/</guid>
+      <description>Era casi todavía el siglo XX cuando yo, desesperado por hacer cosas que consideraba normales y que SAS no me permitía, pregunté a un profesor por algo como C pero para estadística. Y el profesor me contó que conocía a alguien que conocía a alguien que conocía a alguien que usaba una cosa nueva que se llamaba R y que podía servirme.
+Fue amor a primera vista, pero esa es otra historia.</description>
+    </item>
+    
+    <item>
+      <title>Prioris informativas: un ejemplo</title>
+      <link>/2018/05/24/prioris-informativas-un-ejemplo/</link>
+      <pubDate>Thu, 24 May 2018 08:13:36 +0000</pubDate>
+      
+      <guid>/2018/05/24/prioris-informativas-un-ejemplo/</guid>
+      <description>Imagina que tienes que generar (reitero: generar) datos compatibles con el siguiente modelo:
+ * Tienes n sujetos a los que se proporciona un remedio para dormir en distintas dosis (conocidas) en distintos días. * El número adicional de horas que duerme cada sujeto es lineal con una pendiente que depende de la dosis (una serie de dosis fijas). * Esa recta tiene un término independiente (el número de horas que duerme el sujeto con una dosis igual a cero del remedio).</description>
+    </item>
+    
+    <item>
+      <title>gam/bam admiten efectos aleatorios</title>
+      <link>/2018/05/10/gam-bam-admiten-efectos-aleatorios/</link>
+      <pubDate>Thu, 10 May 2018 08:13:58 +0000</pubDate>
+      
+      <guid>/2018/05/10/gam-bam-admiten-efectos-aleatorios/</guid>
+      <description>gam/bam admiten efectos aleatorios gam/bam admiten efectos aleatorios gam/bam admiten efectos aleatorios gam/bam admiten efectos aleatorios gam/bam admiten efectos aleatorios gam/bam admiten efectos aleatorios gam/bam admiten efectos aleatorios
+Y solo me enteré anoche (gracias a José Luis Cañadas).
+(Para más detalles, esto o esto).</description>
+    </item>
+    
+    <item>
+      <title>Encuestas electorales: medios y sesgos (II)</title>
+      <link>/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/</link>
+      <pubDate>Mon, 09 May 2016 08:13:27 +0000</pubDate>
+      
+      <guid>/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/</guid>
+      <description>Aquí quedó pendiente hablar de datos y métodos. Los primeros proceden de El Mundo. Solicité a Marta Ley, una coautora, los datos pero, antes de que contestase que sí (¡gracias!), me di cuenta de que podía obtenerlos solito: basta con capturar la llamada que el javascript local hace al servidor.
+¿Métodos? Mejorables: se suaviza la intención de voto (con loess) y se estima la diferencia con un modelo de efectos mixtos, i.</description>
+    </item>
+    
+    <item>
+      <title>Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas</title>
+      <link>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</link>
+      <pubDate>Fri, 18 Mar 2016 09:13:34 +0000</pubDate>
+      
+      <guid>/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/</guid>
+      <description>Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado (aquí) un conjunto datos muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— nootrópicos.
+El gráfico
+extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo.</description>
+    </item>
+    
+    <item>
+      <title>Modelos mixtos por doquier</title>
+      <link>/2014/12/29/modelos-mixtos-por-doquier/</link>
+      <pubDate>Mon, 29 Dec 2014 07:13:48 +0000</pubDate>
+      
+      <guid>/2014/12/29/modelos-mixtos-por-doquier/</guid>
+      <description>Los códigos postales, por ejemplo, son un problema a la hora de crear modelos predictivos: son variables categóricas con demasiados niveles. Así, por ejemplo, los bosques aleatorios de R solo admiten variables categóricas con no más de 32 niveles.
+Hay trucos de todo tipo para mitigar el problema. Hace un año, Jorge Ayuso me puso sobre la pista de uno de los que tiene más recorrido. Consiste en [su versión más simplificada en]:</description>
+    </item>
+    
+    <item>
+      <title>Modelos lineales mixtos para la optimización de queries</title>
+      <link>/2010/08/26/modelos-lineales-mixtos-para-la-optimizacion-de-queries/</link>
+      <pubDate>Thu, 26 Aug 2010 22:11:41 +0000</pubDate>
+      
+      <guid>/2010/08/26/modelos-lineales-mixtos-para-la-optimizacion-de-queries/</guid>
+      <description>Hoy aprovecho que pasan dos pájaros por el cielo para pegar un tiro que, seguro, es del interés de mis lectores: voy a utilizar un modelo lineal mixto para estudiar los factores que afectan al rendimiento de una familia de queries de SQL complejas.
+El objetivo final es contar con criterios empíricos para la optimización de ciertas queries (siento decir optimización de queries: me obliga a ello la voluntad de que los buscadores me indexen donde más búsquedas se vayan a realizar; por una vez, renegaré del talibán ortográfico que llevo dentro) e, indirectamente, ilustrar con datos distintos de los habituales esta técnica estadística.</description>
+    </item>
+    
+  </channel>
+</rss>

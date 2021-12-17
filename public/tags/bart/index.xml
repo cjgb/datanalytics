@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bart on datanalytics</title>
+    <link>/tags/bart/</link>
+    <description>Recent content in bart on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Dec 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/bart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis de eventos recurrentes</title>
+      <link>/2020/12/02/analisis-de-eventos-recurrentes/</link>
+      <pubDate>Wed, 02 Dec 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/12/02/analisis-de-eventos-recurrentes/</guid>
+      <description>He sido fan del análisis de los eventos recurrentes desde antes incluso de saber que existía tal cosa formalmente.
+Es una extensión del análisis de la supervivencia donde resucitas y vuelves a morirte a lo Sísifo. Es decir, en el análisis de la supervivencia, te mueres y ya; por eso, si quieres extender el análisis de la supervivencia a asuntos tales como compras de clientes es necesario usar el calzador muy heterodoxamente.</description>
+    </item>
+    
+  </channel>
+</rss>

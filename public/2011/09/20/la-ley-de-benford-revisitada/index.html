@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>La ley de Benford, revisitada - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="La ley de Benford, revisitada" />
+<meta property="og:description" content="Revisito mi artículo sobre la ley de Benford no tanto por hacer mención a las entradas una, dos y tres que hizo Gregorio Serrano en su bitácora ni al oportunísimo artículo de The Guardian al respecto. Ni siquiera para mencionar la existencia de este sesudo artículo sobre el tema.
+Lo hago porque me pliego a la demanda popular: voy a explicar con más detalle el código que dejé allí escrito y que, por referencia, es" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2011/09/20/la-ley-de-benford-revisitada/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-09-20T07:11:53&#43;00:00" />
+<meta property="article:modified_time" content="2011-09-20T07:11:53&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">La ley de Benford, revisitada</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2011-09-20T07:11:53Z">2011-9-20</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Revisito mi artículo sobre la <a href="http://www.datanalytics.com/blog/2011/09/15/la-ley-de-benford">ley de Benford</a> no tanto por hacer mención a las entradas <a href="http://www.grserrano.es/wp/2010/10/ejemplo-r-ley-de-benford/">una</a>, <a href="http://www.grserrano.es/wp/2010/11/ejemplo-r-ley-de-benford-en-las-elecciones-catalanas-1/">dos</a> y <a href="http://www.grserrano.es/wp/2010/11/ejemplo-r-ley-de-benford-en-las-elecciones-catalanas-2/">tres</a> que hizo Gregorio Serrano en su bitácora ni al <a href="http://www.guardian.co.uk/commentisfree/2011/sep/16/bad-science-dodgy-stats?CMP=twt_gu">oportunísimo artículo de The Guardian</a> al respecto. Ni siquiera para mencionar la existencia de este sesudo <a href="http://econpapers.repec.org/article/blagermec/v_3a10_3ay_3a2009_3ai_3a_3ap_3a339-351.htm">artículo sobre el tema</a>.</p>
+<p>Lo hago porque me pliego a la demanda popular: voy a explicar con más detalle el código que dejé allí escrito y que, por referencia, es</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">17
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">benford <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( foo, <span style="color:#66d9ef">...</span>, n <span style="color:#f92672">=</span> <span style="color:#ae81ff">100000</span> ){
+  tmp <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">foo</span>( n, <span style="color:#66d9ef">...</span> )
+  tmp <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">as.character</span>( tmp[ tmp <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">0</span>] )
+  tmp <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">strsplit</span>( tmp, <span style="color:#e6db74">&#34;&#34;</span> )
+
+  leading.digit <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( x )
+    x[ <span style="color:#f92672">!</span> x <span style="color:#f92672">%in%</span> <span style="color:#a6e22e">c</span>( <span style="color:#e6db74">&#34;0&#34;</span>, <span style="color:#e6db74">&#34;.&#34;</span> )][1]
+
+  tmp <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">unlist</span>( <span style="color:#a6e22e">lapply</span>( tmp, leading.digit ) )
+  <span style="color:#ae81ff">100</span> <span style="color:#f92672">*</span> <span style="color:#a6e22e">table</span>( tmp ) <span style="color:#f92672">/</span> <span style="color:#a6e22e">length</span>( tmp )
+}
+
+<span style="color:#a6e22e">benford</span>( rcauchy )
+<span style="color:#a6e22e">benford</span>( rexp, rate <span style="color:#f92672">=</span> <span style="color:#ae81ff">2</span> )
+<span style="color:#a6e22e">benford</span>( rexp, rate <span style="color:#f92672">=</span> <span style="color:#ae81ff">5</span> )
+<span style="color:#a6e22e">benford</span>( rnorm, sd <span style="color:#f92672">=</span> <span style="color:#ae81ff">40</span> )
+<span style="color:#a6e22e">benford</span>( rweibull, shape <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span> )</code></pre></td></tr></table>
+</div>
+</div>
+<p>Puede llamar la atención que el primer argumento de la función <code>benford</code> sea, precisamente, otra función. Nada del otro mundo. El siguiente es un ejemplo en el que se muestra el uso aislado para una mejor comprensión:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">funcion.que.llama <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">function</span>( foo, <span style="color:#66d9ef">...</span> ){
+  <span style="color:#a6e22e">foo</span>(<span style="color:#66d9ef">...</span>)
+}
+
+<span style="color:#a6e22e">funcion.que.llama</span>( sin, <span style="color:#ae81ff">2</span><span style="color:#f92672">*</span><span style="color:#66d9ef">pi</span> )
+<span style="color:#a6e22e">funcion.que.llama</span>( plot, iris, main <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hola&#34;</span> )</code></pre></td></tr></table>
+</div>
+</div>
+<p>La función <code>funcion.que.llama</code> recibe una función como argumento. También recibe argumentos adicionales arbitrarios (eso es lo que significa <code>...</code>). Dentro, además de llamar a la función elegida, le pasa los argumentos adicionales contenidos en <code>...</code>. Es su uso más habitual, según el <a href="http://cran.r-project.org/doc/manuals/R-lang.html">documento que define R</a>.</p>
+<p>Después uso las funciones <code>as.character</code> (para convertir el número en una cadena de texto) y <code>strsplit</code>, función análoga a la que existe en otros lenguajes. Su particularidad en R es que, aplicada a un vector de caracteres, devuelve una lista de la misma longitud que el vector original. No hay más que saber sobre dicha función que entender cuál es la salida de</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#a6e22e">strsplit</span>( <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;Hola&#34;</span>, <span style="color:#e6db74">&#34;caracola&#34;</span>), <span style="color:#e6db74">&#34;l&#34;</span>)</code></pre></td></tr></table>
+</div>
+</div>
+<p>Como <code>strsplit</code> devuelve una lista, resulta conveniente utilizar <code>lapply</code> para recorrerla y extraer de cada componente el primer caracter. La lógica de lo que se quiere hacer en cada componente está encapsulada en la función de usar y tirar <code>leading.digit</code>.</p>
+<p>Finalmente, como <code>lapply</code> devuelve una lista, utilizo <code>unlist</code> para convertirla en una estructura más simple, un vector de <code>characters</code> sobre el que utilizo la función <code>table</code> para calcular las frecuencias.</p>
+<p>En resumen, llamo a las funciones <code>as.character</code>, <code>strsplit</code> y <code>table</code> porque sirven para mis fines: aportan el contenido semántico. Las llamadas a <code>lapply</code> y <code>unlist</code> no tienen otro objeto que facilitar la manipulación de los objetos que devuelven las anteriores. Son, si se quiere decir así, <em>pegamento sintáctico</em>.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/ley-de-benford/" rel="tag">ley de benford</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2011/09/19/linked-de-barabasi-capitulo-i/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Linked, de Barabasi, capítulo I</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2011/09/21/facetas-en-ggplot2-al-hilo-de-otra-gananada/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Facetas en ggplot2 (al hilo de otra gañanada)</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

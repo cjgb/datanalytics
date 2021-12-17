@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tm on datanalytics</title>
+    <link>/tags/tm/</link>
+    <description>Recent content in tm on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 May 2016 08:13:01 +0000</lastBuildDate><atom:link href="/tags/tm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Mis conciudadanos no tienen wifi?</title>
+      <link>/2016/05/30/mis-conciudadanos-no-tienen-wifi/</link>
+      <pubDate>Mon, 30 May 2016 08:13:01 +0000</pubDate>
+      
+      <guid>/2016/05/30/mis-conciudadanos-no-tienen-wifi/</guid>
+      <description>A alguien leí el otro día que decía que en un bar de carretera habían colocado un cartel diciendo: &amp;ldquo;Hemos quitado el periódico y hemos puesto wifi&amp;rdquo;. Viene esto a cuento de
+library(rvest) library(&amp;lt;a href=&amp;quot;http://inside-r.org/packages/cran/tm&amp;quot;&amp;gt;tm) library(wordcloud) res &amp;lt;- sapply(1:17, function(i){ url &amp;lt;- paste(&amp;quot;https://decide.madrid.es/participatory_budget/investment_projects?geozone=all&amp;amp;page=&amp;quot;, i, &amp;quot;&amp;amp;random_seed=0.28&amp;quot;, sep = &amp;quot;&amp;quot;) tmp &amp;lt;- html_nodes(read_html(url), xpath = &amp;quot;//div[starts-with(@id, &#39;spending_proposal&#39;)]/div/div/div[1]/div/h3/a/text()&amp;quot;) as.character(tmp) }) tmp &amp;lt;- unlist(res) tmp &amp;lt;- Corpus(VectorSource(tmp)) tmp &amp;lt;- tm_map(tmp, stripWhitespace) tmp &amp;lt;- tm_map(tmp, content_transformer(tolower)) tmp &amp;lt;- tm_map(tmp, removeWords, stopwords(&amp;quot;spanish&amp;quot;)) wordcloud(tmp, scale=c(5,0.</description>
+    </item>
+    
+  </channel>
+</rss>

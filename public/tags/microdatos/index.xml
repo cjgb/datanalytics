@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microdatos on datanalytics</title>
+    <link>/tags/microdatos/</link>
+    <description>Recent content in microdatos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 21 Mar 2019 08:13:41 +0000</lastBuildDate><atom:link href="/tags/microdatos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encuesta de Estructura Salarial y R: propedéutica</title>
+      <link>/2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/</link>
+      <pubDate>Thu, 21 Mar 2019 08:13:41 +0000</pubDate>
+      
+      <guid>/2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/</guid>
+      <description>La nota de prensa que acompaña a los resultados definitivos de la EES de 2014 reza:
+Para poder replicar esa cifra y poder comparar manzanas con manzanas hay que preprocesar los datos crudos de la EES así:
+&amp;lt;code&amp;gt;library(MicroDatosEs) dat &amp;lt;- ees2010(&amp;quot;md_EES_2014.txt&amp;quot;) # Días año dat$DIASRELABA &amp;lt;- dat$DRELABAM * 30.42 + dat$DRELABAD dat$DIASRELABA[dat$DIASRELABA &amp;gt; 365]&amp;lt;- 365 dat$DIASANO &amp;lt;- dat$DIASRELABA - dat$DSIESPA2 - dat$DSIESPA4 # Salario bruto anual dat$SALANUAL = (365/dat$DIASANO)*(dat$SALBRUTO + dat$VESP)&amp;lt;/code&amp;gt;  Ahora sí que se puede definir, por ejemplo,</description>
+    </item>
+    
+    <item>
+      <title>¿El mejor formato para diseminar microdatos?</title>
+      <link>/2018/06/13/el-mejor-formato-para-diseminar-microdatos/</link>
+      <pubDate>Wed, 13 Jun 2018 08:13:04 +0000</pubDate>
+      
+      <guid>/2018/06/13/el-mejor-formato-para-diseminar-microdatos/</guid>
+      <description>A raíz de mi entrada de ayer, se han iniciado en mi derredor algunas discusiones sobre cuál podría ser el formato indicado para diseminar microdatos. En particular, los del INE. Y el asunto no es trivial.
+Hasta la fecha, el procedimiento habitual era utilizar ficheros de ancho fijo con códigos, típicamente numéricos (p.e., 1-hombre; 6-mujer). Existían diccionarios asociados con pares código-descripción que se distribuían en hojas de cálculo adjuntas; es decir, metadatos.</description>
+    </item>
+    
+    <item>
+      <title>El guión de mi charla sobre microdatos</title>
+      <link>/2016/11/22/el-guion-de-mi-charla-sobre-microdatos/</link>
+      <pubDate>Tue, 22 Nov 2016 08:13:25 +0000</pubDate>
+      
+      <guid>/2016/11/22/el-guion-de-mi-charla-sobre-microdatos/</guid>
+      <description>No auncié mi pequeña charla/taller del sábado pasado sobre microdatos porque la sala tenía un aforo ínfimo y en el Meetup correspondiente había lista de espera.
+Pero cuelgo el material (que es un guión; no hay presentación) por si a alguien le resulta útil.</description>
+    </item>
+    
+    <item>
+      <title>Acabo de subir una petición a change.org para que el CIS publique sus microdatos en formato reutilizable</title>
+      <link>/2016/10/10/acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable/</link>
+      <pubDate>Mon, 10 Oct 2016 08:13:32 +0000</pubDate>
+      
+      <guid>/2016/10/10/acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable/</guid>
+      <description>Pues lo que digo en el título. La petición, que se autoexplica, es esta, tiene que ver con esto y si la firmas estarás contribuyendo a un buen fin.</description>
+    </item>
+    
+    <item>
+      <title>Barómetros del CIS con R</title>
+      <link>/2016/10/05/barometros-del-cis-con-r/</link>
+      <pubDate>Wed, 05 Oct 2016 08:13:46 +0000</pubDate>
+      
+      <guid>/2016/10/05/barometros-del-cis-con-r/</guid>
+      <description>El CIS realiza barómetros todos los meses menos uno. Pasado un tiempo (es octubre y el último publicado es de julio) coloca los microdatos en su banco de datos.
+Aparte de ficheros .pdf que lo explican todo (pero que no dejan de ser .pdf), publica dos ficheros. Uno de datos en ancho fijo (prefijo DA) y otro con código SPSS (prefijo ES) con los consabidos (¿lo son? ¡felicidades si no!) encabezados DATA LIST, VARIABLE LABELS, VALUE LABELS, y MISSING VALUES.</description>
+    </item>
+    
+    <item>
+      <title>Licencias urbanísticas: datos y votos</title>
+      <link>/2015/03/10/licencias-urbanisticas-datos-y-votos/</link>
+      <pubDate>Tue, 10 Mar 2015 08:13:11 +0000</pubDate>
+      
+      <guid>/2015/03/10/licencias-urbanisticas-datos-y-votos/</guid>
+      <description>Una de mis aficiones recientes es la de echarle un vistazo a las licencias de apertura de los locales de Madrid. Son un cartelito que suelen tener colgado en la puerta (con una H verde y grande en hostelería) donde se indica, entre otras cosas, el aforo y la fecha de concesión.
+(Lo del aforo no es asunto baladí: sin un aforo oficial, no existe exceso de aforo,&amp;hellip; ¿y si luego pasa algo?</description>
+    </item>
+    
+    <item>
+      <title>Unas preguntas incómodas</title>
+      <link>/2015/03/09/unas-preguntas-incomodas/</link>
+      <pubDate>Mon, 09 Mar 2015 08:13:39 +0000</pubDate>
+      
+      <guid>/2015/03/09/unas-preguntas-incomodas/</guid>
+      <description>Que la mujer promedio gana menos que el hombre promedio es un hecho conocido. A los usuarios de R que estén al tanto de mi paquete MicroDatosEs no hace falta siquiera que se lo cuenten: pueden bajar los datos de la Encuesta de Estructura Salarial del INE y hacer el cálculo por sí mismos.
+Que las mujeres ganen menos en promedio aun teniendo en cuenta las variables recogidas en dicha encuesta (nivel de formación, antigüedad en el puesto de trabajo, etc.</description>
+    </item>
+    
+    <item>
+      <title>Disponible una nueva versión de MicroDatosEs</title>
+      <link>/2014/06/27/disponible-una-nueva-version-de-microdatoses/</link>
+      <pubDate>Fri, 27 Jun 2014 07:46:29 +0000</pubDate>
+      
+      <guid>/2014/06/27/disponible-una-nueva-version-de-microdatoses/</guid>
+      <description>Acabo de subir a CRAN una nueva versión de MicroDatosEs, un paquete para procesar automáticamente en R ficheros de microdatos públicos españoles.
+A los cambios y mejoras a los que me referí el otro día, esta nueva versión añade otras, obra de Carlos Neira, que es ahora contribuidor oficial del paquete.
+Carlos también contribuyó a detectar y corregir un error inducido por el INE, que cambió el formato del fichero introduciendo una nueva variable sin aviso previo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tfm on datanalytics</title>
+    <link>/tags/tfm/</link>
+    <description>Recent content in tfm on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 27 Sep 2018 08:13:27 +0000</lastBuildDate><atom:link href="/tags/tfm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recordatorio: ideas para futuros TFMs de &#34;ciencia de datos&#34;</title>
+      <link>/2018/09/27/recordatorio-ideas-para-futuros-tfms-de-ciencia-de-datos/</link>
+      <pubDate>Thu, 27 Sep 2018 08:13:27 +0000</pubDate>
+      
+      <guid>/2018/09/27/recordatorio-ideas-para-futuros-tfms-de-ciencia-de-datos/</guid>
+      <description>Todos los años me toca proponer potenciales TFMs para mis alumnos de donde quiera que sean. Para no olvidarme, anoto aquí esta: bajar el histórico de barómetros del CIS (¿será posible?) y las preguntas que entran a la cocina de la intención de voto. Con ellas, crear un modelo que lo prediga.
+Bonus: identificar un cambio estructural tras la entrada de Tezanos al CIS.</description>
+    </item>
+    
+  </channel>
+</rss>

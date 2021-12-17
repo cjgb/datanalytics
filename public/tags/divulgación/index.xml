@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>divulgación on datanalytics</title>
+    <link>/tags/divulgaci%C3%B3n/</link>
+    <description>Recent content in divulgación on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 02 Jun 2017 08:13:06 +0000</lastBuildDate><atom:link href="/tags/divulgaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airbnb da en el clavo: ha desarrollado lo que hacía mucha falta</title>
+      <link>/2017/06/02/airbnb-da-en-el-clavo-ha-desarrollado-lo-que-hacia-mucha-falta/</link>
+      <pubDate>Fri, 02 Jun 2017 08:13:06 +0000</pubDate>
+      
+      <guid>/2017/06/02/airbnb-da-en-el-clavo-ha-desarrollado-lo-que-hacia-mucha-falta/</guid>
+      <description>Y no me refiero a lo que quita el sueño a ciertos ayuntamientos retrógrados. Sino a esto.
+Que es una herramienta corporativa para diseminar internamente información cuantitativa (en forma de cuadernos (de Python), Rmarkdowns y similares). Más info, aquí.
+Los que me leéis y trabajáis en uno de esos lugares grandotes donde lo cuantitativo viaja por correo en PPTs, ya sabéis que tenéis que proponer ipso facto en esas reuniones que tanto os gustan.</description>
+    </item>
+    
+    <item>
+      <title>¡Doble llave al sepulcro de Gauss!</title>
+      <link>/2017/05/23/doble-llave-al-sepulcro-de-gauss/</link>
+      <pubDate>Tue, 23 May 2017 08:13:55 +0000</pubDate>
+      
+      <guid>/2017/05/23/doble-llave-al-sepulcro-de-gauss/</guid>
+      <description>¿Hasta dónde creéis que estoy de que cuando se hace divulgación matemática en la prensa diaria vuelvan a reciclarse las manidas historias del Gauss jovencito sumando 1:100, de por dónde sacaba Euler a pasear el perro o de si es posible calcular una raíz cúbica con regla y compás?
+Si ha pasado algo interesante y de impacto en las matemáticas en los últimos tiempos (dentro de la última década, porfa), hágase el esfuerzo en replantearlo en términos asequibles y tráigase a la atención del lector.</description>
+    </item>
+    
+  </channel>
+</rss>

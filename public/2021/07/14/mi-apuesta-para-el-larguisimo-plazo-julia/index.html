@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Mi apuesta para el larguísimo plazo: Julia - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Mi apuesta para el larguísimo plazo: Julia" />
+<meta property="og:description" content="Larguísimo, arriba, significa algo así como 10 o 20 años. Vamos, como cuando comencé con R allá por el 2001. * R es, reconozcámoslo, un carajal. Pocas cosas mejores que esta para convencerse. * No dejo de pensar en aquello que me dijo un profesor en 2001: que R no podría desplazar a SAS porque no tenía soporte modelos mixtos. Yo no sabía qué eran los modelos mixtos en esa época pero, desde entonces, vine a entender y considerar que &ldquo;tener soporte para modelos mixtos&rdquo; venía a ser como aquello que convertía a un lenguaje para el análisis de datos en una alternativa viable y seria a lo existente." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-07-14T09:13:00&#43;00:00" />
+<meta property="article:modified_time" content="2021-07-14T09:13:00&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Mi apuesta para el larguísimo plazo: Julia</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2021-07-14T09:13:00Z">2021-7-14</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/ciencia-de-datos/" rel="category">ciencia de datos</a>, <a class="meta__link" href="/categories/computaci%C3%B3n/" rel="category">computación</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<ul>
+<li><em>Larguísimo</em>, arriba, significa algo así como 10 o 20 años. Vamos, como cuando comencé con R allá por el 2001.  * R es, reconozcámoslo, un carajal. Pocas cosas mejores que <a href="https://www.youtube.com/watch?v=VdD0nHbcyk4">esta</a> para convencerse.  * No dejo de pensar en aquello que me dijo un profesor en 2001: que R no podría desplazar a SAS porque no tenía soporte modelos mixtos. Yo no sabía qué eran los modelos mixtos en esa época pero, desde entonces,  vine a entender y considerar que &ldquo;tener soporte para modelos mixtos&rdquo; venía a ser como aquello que convertía a un lenguaje para el análisis de datos en una alternativa viable y seria a <em>lo existente</em>. Y mirad <a href="https://github.com/JuliaStats/MixedModels.jl">esto</a>.  * Obviamente, lo de los modelos mixtos no es más que una <em>metáfora</em>. Realmente significa algo así como &ldquo;el sistema X tiene muchas cosas y su alternativa, Y, es un mero juguete&rdquo;. Pero no hay nada que impida que Y comience a implementar todo aquello que le falta. Además, mucho más rápida y eficientemente. P.e., ¿cuánto tardó R en dotarse de su gramática de los gráficos? Pues bien, Juilia ya los tiene. (¿Cómo se dice <em>leapfrog</em> en español?)  * Dicho de otra manera, R ha sido el estado del arte en computación estadística en los últimos años. Ha avanzado por prueba y error. Pero ahora, cualquier rival ya sabe qué tiene que hacer exactamente para llegar a donde está R.  * Julia <em>corre</em> sobre <a href="https://en.wikipedia.org/wiki/LLVM">LLVM</a>. Es decir, que se beneficia automáticamente de cualquier mejora realizada sobre la <em>máquina virtual</em> (si es que se me permite llamar así a LLVM).  * Esta semana he estado programando en C unas rutinas que tienen que ser llamadas desde R. Pero, ¿no sería el mundo más hermoso no tener que cambiar de lenguaje para tener rendimiento de C?  * Arriba comparo R y Julia como extremos de un arco (en el que a la izquierda de R quedan aún irrelevancias como SAS o SPSS). Python ocupa una posición intermedia entre ambos. Desde un punto de vista meramente técnico, si alguna dimensión es Python mejor que R, Julia es todavía mejor que Python. Salvo, de nuevo, la cantidad de flecos y cascabeles de los que ya dispone Python y que todavía no están presentes en Julia. Pero, como se ha dicho arriba, desde la perspectiva del <em>larguísimo plazo</em>, es una objeción irrelevante que apunta a un estado transitorio de las cosas.</li>
+</ul>
+<p>Y supongo que podría seguir.</p>
+<p>Obviamente, en todo lo anterior y con la excusa de estar instalado en el larguísimo plazo, he obviado una circunstancia fundamental: la base instalada y las inercias que operan en todo lo humano. Lo único que puedo decir al respecto es que ya las he vivido: he vivido en primera persona la transición de SAS/SPSS a R y soy consciente como el que más de las piedras del camino.</p>
+<p>De todos modos, lo escrito arriba no es más que una apuesta, una opción para jugar (o no hacerlo) que los más intrépidos podrán (o tratarán de) aprovechar de la manera habitual: seguir operando con las herramientas tradicionales que llenan la nevera, pagan el alquiler y acrecientan los ahorros necesarios para largarse de la piel de toro a lugares más benignos y con más brillante futuro por un lado y seguir a Julia de reojo para que su potencial llegada no pille a contrapié.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/ciencia-de-datos/" rel="tag">ciencia de datos</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/computaci%C3%B3n/" rel="tag">computación</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/julia/" rel="tag">julia</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/python/" rel="tag">python</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2021/07/11/nuevo-video-en-youtube-segunda-entrega-sobre-causalidad-y-esta-vez-datos-observacionales/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Nuevo vídeo en YouTube. Segunda entrega sobre causalidad (y, esta vez, datos observacionales)</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2021/07/21/quien-invento-los-random-forests/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">¿Quién inventó los &#34;random forests&#34;?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

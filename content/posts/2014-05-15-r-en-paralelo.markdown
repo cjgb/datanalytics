@@ -1,0 +1,54 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2014-05-15 07:13:59+00:00
+draft: false
+title: R en paralelo
+
+url: /2014/05/15/r-en-paralelo/
+categories:
+- r
+tags:
+- paralelización
+- parallel
+- programación
+- r
+---
+
+Trabajo sobre una máquina de 8 núcleos y 24 GB de RAM. Y que conste que se me ha llegado a quedar chica.
+
+Algunos programas que ejecuto tienen (o contienen pedazos de) la forma
+
+
+
+	  1. calcula A
+	  2. calcula B
+	  3. calcula C
+	  4. combina A, B y C
+
+Obviamente, se me ocurre ejecutarlos así:
+
+	  1. calcula A, B y C en paralelo
+	  2. cuando acabe el paso anterior, combina A, B y C
+
+Y aún me sobrarían 5 núcleos y bastante RAM. La pregunta es: ¿cómo?
+
+Inspirado en [esto](http://stackoverflow.com/questions/10815622/running-multiple-jobs-in-background-at-same-time-parallel-in-r), últimamente hago:
+
+
+
+    library(<a href="http://inside-r.org/r-doc/lattice/parallel">parallel)
+    tasks <- list(
+      job1 = function() calcula.A(args.A),
+      job2 = function() calcula.B(args.B),
+      job3 = function() calcula.C(args.C)
+    )
+
+    out <- mclapply(
+      tasks,
+      function(f) f(),
+      mc.cores = length(tasks)
+    )
+
+
+
+Y la verdad, va como un tiro.

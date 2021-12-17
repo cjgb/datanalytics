@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rosling on datanalytics</title>
+    <link>/tags/rosling/</link>
+    <description>Recent content in rosling on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 11 Apr 2010 23:51:41 +0000</lastBuildDate><atom:link href="/tags/rosling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google public data explorer</title>
+      <link>/2010/04/11/google-public-data-explorer/</link>
+      <pubDate>Sun, 11 Apr 2010 23:51:41 +0000</pubDate>
+      
+      <guid>/2010/04/11/google-public-data-explorer/</guid>
+      <description>Participo últimamente en un proyecto dentro de un banco español bastante grande (sobre el que no abundaré ahora) que tiene como objetivo diseminar información financiera y comercial del mismo para los responsables de su dirección y gestión.
+La información de partida yace (nunca mejor dicho) en vestustos prodigios de la técnica de los años setenta y nuestro papel consiste en desenterrarla con herramientas y procedimientos más a la altura de los tiempos.</description>
+    </item>
+    
+  </channel>
+</rss>

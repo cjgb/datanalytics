@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exactitud on datanalytics</title>
+    <link>/tags/exactitud/</link>
+    <description>Recent content in exactitud on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 05 May 2014 21:09:36 +0000</lastBuildDate><atom:link href="/tags/exactitud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Accurate&#34;, acurado, preciso y todas esas cosas</title>
+      <link>/2014/05/05/accurate-acurado-preciso-y-todas-esas-cosas/</link>
+      <pubDate>Mon, 05 May 2014 21:09:36 +0000</pubDate>
+      
+      <guid>/2014/05/05/accurate-acurado-preciso-y-todas-esas-cosas/</guid>
+      <description>Tenía un profesor de estadística que traducía accurate por acurado. Aún recuerdo esas sesiones insoportables con aquel señor que era lo contrario que Hans Rosling.
+No hace mucho vine a descubrir que acurado existe en español. No obstante, significa otra cosa: cuidadoso y esmerado.
+Algunos amigos me recomendaban preciso. La verdad, me gusta esta traducción. Pero bien podría ser un falso amigo. En inglés, precision tiene que ver con la varianza y accurate con el sesgo.</description>
+    </item>
+    
+  </channel>
+</rss>

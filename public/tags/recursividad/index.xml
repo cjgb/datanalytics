@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recursividad on datanalytics</title>
+    <link>/tags/recursividad/</link>
+    <description>Recent content in recursividad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Feb 2015 08:13:50 +0000</lastBuildDate><atom:link href="/tags/recursividad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recurrencia recurrente</title>
+      <link>/2015/02/11/recurrencia-recurrente/</link>
+      <pubDate>Wed, 11 Feb 2015 08:13:50 +0000</pubDate>
+      
+      <guid>/2015/02/11/recurrencia-recurrente/</guid>
+      <description>Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imaginativa de esto, es decir, el código. Él, y muchos diríamos que correctamente, autocritica el uso de eval + parse para plagar el namespace de funciones.
+La respuesta está en la recurrencia. He aquí mi versión del código:
+library(ggplot2) library(gridExtra) nrows &amp;lt;- 6 coefs.a &amp;lt;- runif(min=1, max=50, nrows) coefs.b &amp;lt;- runif(min=1, max=50, nrows) foo.a &amp;lt;- sample(c(sin, cos), nrows, replace = TRUE) foo.</description>
+    </item>
+    
+  </channel>
+</rss>

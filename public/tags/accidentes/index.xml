@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>accidentes on datanalytics</title>
+    <link>/tags/accidentes/</link>
+    <description>Recent content in accidentes on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 28 May 2018 08:13:32 +0000</lastBuildDate><atom:link href="/tags/accidentes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los extraños números de los muertos en carretera por accidente</title>
+      <link>/2018/05/28/los-extranos-numeros-de-los-muertos-en-carretera-por-accidente/</link>
+      <pubDate>Mon, 28 May 2018 08:13:32 +0000</pubDate>
+      
+      <guid>/2018/05/28/los-extranos-numeros-de-los-muertos-en-carretera-por-accidente/</guid>
+      <description>Escribo esta entrada con cierta prevención porque soy consciente de que dan pábulo a determinadas teorías conspiranoicas de las que soy declarado enemigo. Pero es que los números de muertos en carretera por accidente en España en los últimos años,
+(extraídos de aquí) dan que pensar: la varianza de las observaciones correspondientes a los años 2013, 2014 y 2015 es muy baja, demasiado baja. Al menos, si se da como bueno un modelo de Poisson para modelar esos conteos.</description>
+    </item>
+    
+    <item>
+      <title>Mortalidad en carretera (contada de una manera distinta)</title>
+      <link>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</link>
+      <pubDate>Tue, 09 Jan 2018 08:13:17 +0000</pubDate>
+      
+      <guid>/2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/</guid>
+      <description>Con motivo de fin de año se ha hablado de fallecidos en accidentes de tráfico como por ejemplo en El Mundo o en El País. Y sí, parece que el número observado de muertos ha aumentado.
+Lo cual es mucho menos relevante de lo que se da a entender. Si tiras una moneda al aire 100 veces y sacas 48 caras y luego repites el experimento, podrías sacar 53 (y habría aumentado el número observado de caras) o 45 (y habría disminuido).</description>
+    </item>
+    
+    <item>
+      <title>Va de si hay una o dos lambdas</title>
+      <link>/2017/01/18/va-de-si-hay-una-o-dos-lambdas/</link>
+      <pubDate>Wed, 18 Jan 2017 08:13:16 +0000</pubDate>
+      
+      <guid>/2017/01/18/va-de-si-hay-una-o-dos-lambdas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En lugar de dar la lata hablando de ruido estadístico, doy dos puntos a aquellos de mis alumnos que solucionen en siguiente problema</title>
+      <link>/2017/01/09/en-lugar-de-dar-la-lata-hablando-de-ruido-estadistico-doy-dos-puntos-a-aquellos-de-mis-alumnos-que-solucionen-en-siguiente-problema/</link>
+      <pubDate>Mon, 09 Jan 2017 08:13:53 +0000</pubDate>
+      
+      <guid>/2017/01/09/en-lugar-de-dar-la-lata-hablando-de-ruido-estadistico-doy-dos-puntos-a-aquellos-de-mis-alumnos-que-solucionen-en-siguiente-problema/</guid>
+      <description>Según las últimas noticias, en España, en 2016 murieron 1160 personas en accidentes de tráfico, 29 más que en 2015. Usa el poiss.test para ver si la diferencia es o no significativa.</description>
+    </item>
+    
+  </channel>
+</rss>

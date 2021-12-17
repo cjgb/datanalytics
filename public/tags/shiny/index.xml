@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shiny on datanalytics</title>
+    <link>/tags/shiny/</link>
+    <description>Recent content in shiny on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Apr 2016 08:13:26 +0000</lastBuildDate><atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rmarkdown en el panel principal de Shiny</title>
+      <link>/2016/04/28/rmarkdown-en-el-panel-principal-de-shiny/</link>
+      <pubDate>Thu, 28 Apr 2016 08:13:26 +0000</pubDate>
+      
+      <guid>/2016/04/28/rmarkdown-en-el-panel-principal-de-shiny/</guid>
+      <description>Comparto con mis lectores un experimento de esta misma mañana: cómo insertar en el panel principal de Shiny un documento generado con Rmarkdown. Que, por supuesto, cambia según se seleccionen unos u otros parámetros en Shiny.
+Es un ejemplo sencillo, estúpido, sin comentarios, desordenado y, en resumen, muy mejorable. Puede descargarse de aquí.
+El truco es de los sucios:
+ * En `server.R` se guardan los parámetros que envía `ui.R` en un fichero _de intercambio_ con `save`.</description>
+    </item>
+    
+    <item>
+      <title>Spark ha muerto, ¡larga vida (y buena migración) a Shinyapps!</title>
+      <link>/2015/04/15/spark-ha-muerto-larga-vida-y-buena-migracion-a-shinyapps/</link>
+      <pubDate>Wed, 15 Apr 2015 08:13:48 +0000</pubDate>
+      
+      <guid>/2015/04/15/spark-ha-muerto-larga-vida-y-buena-migracion-a-shinyapps/</guid>
+      <description>Primero, y por evitar confusiones, este no es el Spark que se nos muere. Se muere un servidor de RStudio donde se colgaban aplicaciones desarrolladas en shiny, spark.rstudio.com.
+El nuevo servicio se llama shinyapps.io. Que viene a ser lo mismo pero más formal, con sus tokens, sus claves, su modelo freemium y sus servicios pro de pago.
+Migrar aplicaciones, como mi vetusto detector de idiomas, viene a ser equivalente a colgarlas modo ex novo en shinyapps.</description>
+    </item>
+    
+    <item>
+      <title>Mi primera aplicacion en Shiny: un detector de idiomas</title>
+      <link>/2013/05/06/mi-primera-aplicacion-en-shiny-un-detector-de-idiomas/</link>
+      <pubDate>Mon, 06 May 2013 07:49:12 +0000</pubDate>
+      
+      <guid>/2013/05/06/mi-primera-aplicacion-en-shiny-un-detector-de-idiomas/</guid>
+      <description>Motivado por los experimentos de Gregorio Serrano con shiny e ilustrado por la charla que dio en el Grupo de Usuarios de R de Madrid, decidí colgar el otro día un entretenimiento que ocupó la mañana de un domingo —y las mañanas de mis domingos son proverbialmente breves— en la red.
+Se trata de una aplicación que distingue el idioma en que está escrito un texto dentro de una selección de ellos: español, italiano, latín, francés, portugués y catalán.</description>
+    </item>
+    
+  </channel>
+</rss>

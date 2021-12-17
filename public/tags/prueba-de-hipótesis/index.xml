@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prueba de hipótesis on datanalytics</title>
+    <link>/tags/prueba-de-hip%C3%B3tesis/</link>
+    <description>Recent content in prueba de hipótesis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 04 Dec 2019 09:13:00 +0000</lastBuildDate><atom:link href="/tags/prueba-de-hip%C3%B3tesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>P-valores y decisiones</title>
+      <link>/2019/12/04/p-valores-y-decisiones/</link>
+      <pubDate>Wed, 04 Dec 2019 09:13:00 +0000</pubDate>
+      
+      <guid>/2019/12/04/p-valores-y-decisiones/</guid>
+      <description>Los números de esta entrada son reales aunque disfrazados: proceden de un proyecto real. Para medir la efectividad de una serie de modelos que hemos creado en Circiter, hemos pedido al cliente lo de siempre: que parta la lista de sujetos en dos al azar para después poder medir los éxitos y fracasos usando dos procedimientos distintos.
+Pero como tenemos dudas acerca del proceso de partición —que no controlamos nosotros— hemos medido el número de éxitos y fracasos en cada uno de los grupos en una prueba previa.</description>
+    </item>
+    
+    <item>
+      <title>Gelmaneando</title>
+      <link>/2017/07/13/gelmaneando/</link>
+      <pubDate>Thu, 13 Jul 2017 08:13:00 +0000</pubDate>
+      
+      <guid>/2017/07/13/gelmaneando/</guid>
+      <description>Hoy, gelmaneo así:
+bar &amp;lt;- function(n, reps = 1e4){ foo &amp;lt;- function(n){ x &amp;lt;- rnorm(n) tmp &amp;lt;- t.test(x) c(tmp$p.value, abs(mean(x))) } res &amp;lt;- replicate(reps, foo(n)) tmp &amp;lt;- t(res) tmp &amp;lt;- tmp[tmp[,1] &amp;lt; 0.05,] tmp[,2] } res &amp;lt;- lapply(c(3, 10, 20, 50, 100), bar) sapply(res, mean) #[1] 0.8662636 0.6583157 0.4934551 0.3240322 0.2337086  Resumo:
+ * Fabrico un montón de errores de tipo I. Recuérdese: error de tipo I implica artículo publicado.</description>
+    </item>
+    
+    <item>
+      <title>En lugar de dar la lata hablando de ruido estadístico, doy dos puntos a aquellos de mis alumnos que solucionen en siguiente problema</title>
+      <link>/2017/01/09/en-lugar-de-dar-la-lata-hablando-de-ruido-estadistico-doy-dos-puntos-a-aquellos-de-mis-alumnos-que-solucionen-en-siguiente-problema/</link>
+      <pubDate>Mon, 09 Jan 2017 08:13:53 +0000</pubDate>
+      
+      <guid>/2017/01/09/en-lugar-de-dar-la-lata-hablando-de-ruido-estadistico-doy-dos-puntos-a-aquellos-de-mis-alumnos-que-solucionen-en-siguiente-problema/</guid>
+      <description>Según las últimas noticias, en España, en 2016 murieron 1160 personas en accidentes de tráfico, 29 más que en 2015. Usa el poiss.test para ver si la diferencia es o no significativa.</description>
+    </item>
+    
+    <item>
+      <title>Una pregunta sobre pruebas de hipótesis</title>
+      <link>/2016/12/09/una-pregunta-sobre-pruebas-de-hipotesis/</link>
+      <pubDate>Fri, 09 Dec 2016 08:13:47 +0000</pubDate>
+      
+      <guid>/2016/12/09/una-pregunta-sobre-pruebas-de-hipotesis/</guid>
+      <description>Más que pregunta, debería haberlo planteado como encuesta: no estoy preguntando sino preguntándote qué es lo que haces tú (habitualmente).
+Va de pruebas de hipótesis (a la Fisher). La teoría dice que hay que plantear una hipótesis nula y para poder estudiar lo anómalos que son los datos obtenidos experimentalmente bajo dicha hipótesis. Es decir, calculas $latex P(X ; | ; H_0)$.
+Alternativamente (en muchos contextos, no en todos: no sabría cómo hacerlo, p.</description>
+    </item>
+    
+    <item>
+      <title>Y termino con lo de los intervalos</title>
+      <link>/2016/02/04/y-termino-con-lo-de-los-intervalos/</link>
+      <pubDate>Thu, 04 Feb 2016 09:13:51 +0000</pubDate>
+      
+      <guid>/2016/02/04/y-termino-con-lo-de-los-intervalos/</guid>
+      <description>Y termino con lo de los intervalos. Me refiero a esto y esto.
+Nunca me habría atrevido a escribir sobre el tema, y exponerme, de paso, a la muy razonadas explicaciones de quienes tuvieron a bien comentarlas, si no hubiese sido por un tema personal: el recuerdo de la frustración que me supuso hacerme en su día con la teoría subyacente tanto a las pruebas de hipótesis como a la construcción de intervalos de confianza.</description>
+    </item>
+    
+    <item>
+      <title>Otra vuelta al caso del test que rechaza y el intervalo que contiene</title>
+      <link>/2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/</link>
+      <pubDate>Wed, 03 Feb 2016 09:13:57 +0000</pubDate>
+      
+      <guid>/2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/</guid>
+      <description>Esta visita adicional al tema es consecuencia de mi revisión de todo el asunto de las pruebas de hipótesis. En particular, en el caso de prueba binomial, como en esta entrada, de la que la que lees es continuación.
+En particular,
+&amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/binom.test&amp;quot;&amp;gt;binom.test(79, 100, 0.7) # Exact binomial test # # data: 79 and 100 # number of successes = 79, number of trials = 100, p-value = 0.04982 # alternative hypothesis: true probability of success is not equal to 0.</description>
+    </item>
+    
+    <item>
+      <title>El test rechaza pero el intervalo contiene: [contra]ejemplos</title>
+      <link>/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/</link>
+      <pubDate>Fri, 29 Jan 2016 09:13:51 +0000</pubDate>
+      
+      <guid>/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/</guid>
+      <description>De acuerdo con el saber popular, pruebas que rechazan acompañan a intervalos de confianza que no contienen.
+Pero
+foo &amp;lt;- function(N, p = 0.7){ n &amp;lt;- qbinom(0.975, N, p) tmp &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/stats/binom.test&amp;quot;&amp;gt;binom.test(n, N, p) c(tmp$p.value, tmp$conf.int, tmp$conf.int[1] &amp;lt; p &amp;amp; p &amp;lt; tmp$conf.int[2]) } res &amp;lt;- &amp;lt;a href=&amp;quot;http://inside-r.org/r-doc/base/as.data.frame&amp;quot;&amp;gt;as.data.frame(t(sapply(20:200, foo))) res$n &amp;lt;- 20:200 res[res$V1 &amp;lt; 0.05,]  no tiene cero filas.</description>
+    </item>
+    
+  </channel>
+</rss>

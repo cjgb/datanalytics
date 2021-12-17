@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Reponderación de componentes: un ejemplo - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Reponderación de componentes: un ejemplo" />
+<meta property="og:description" content="Esta entrada es la continuación de La escala natural de la varianza. En ella vimos cómo los componentes de un PCA pueden tener un peso que pudiera no guardar relación con su importancia práctica.
+Si uno quiere trabajar con las principales componentes de un PCA sobre unos datos, puede que la escala sea irrelevante (p.e., si quiere utilizar modelos lineales). Pero hay casos egregios en los que no sucede así." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2014/04/22/reponderacion-de-componentes-un-ejemplo/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2014-04-22T07:09:56&#43;00:00" />
+<meta property="article:modified_time" content="2014-04-22T07:09:56&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Reponderación de componentes: un ejemplo</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2014-04-22T07:09:56Z">2014-4-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Esta entrada es la continuación de <em><a href="http://www.datanalytics.com/2014/04/09/la-escala-natural-de-la-varianza/">La escala natural de la varianza</a></em>. En ella vimos cómo los componentes de un PCA pueden tener un peso que pudiera no guardar relación con su importancia práctica.</p>
+<p>Si uno quiere trabajar con las principales componentes de un PCA sobre unos datos, puede que la escala sea irrelevante (p.e., si quiere utilizar modelos lineales). Pero hay casos egregios en los que no sucede así.</p>
+<p>Voy a presentar uno. Se trata de un <em>clústering</em> simple:</p>
+<pre><code>n &lt;- 100
+m &lt;- matrix(rnorm(2 * n), n, 2)
+m[, 1] &lt;- m[, 1] * 3
+rot &lt;- sqrt(2) * 0.5 * matrix(c(1, 1, -1, 1), 2, 2)
+m &lt;- m %*% rot
+
+tmp &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/kmeans&quot;&gt;kmeans(m, 2)
+
+plot(m, col = tmp$cluster, asp = 1)
+</code></pre>
+<p><a href="http://www.datanalytics.com/wp-uploads/2014/04/clust_00.png"><img src="http://www.datanalytics.com/wp-uploads/2014/04/clust_00.png" alt="clust_00">
+</a></p>
+<p>Pero puede darse el caso de que haya motivos para pensar que la dirección NO-SE tiene demasiado peso en el resultado final. Es posible entonces reducir la distancia en esa dirección:</p>
+<pre><code>m.pca &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/princomp&quot;&gt;princomp(m, 2)$scores
+
+&lt;a href=&quot;http://inside-r.org/r-doc/utils/head&quot;&gt;head(m.pca)
+##        Comp.1   Comp.2
+## [1,]  0.05277  0.01147
+## [2,] -1.02216 -0.73577
+## [3,]  1.88354  0.46371
+## [4,] -0.48757  0.30708
+## [5,] -0.89224 -0.41297
+## [6,] -1.89838  0.28717
+
+plot(m.pca, asp = 1, col = tmp$cluster)
+</code></pre>
+<p><a href="http://www.datanalytics.com/wp-uploads/2014/04/clust_01.png"><img src="http://www.datanalytics.com/wp-uploads/2014/04/clust_01.png" alt="clust_01">
+</a></p>
+<p>Ahí estan las dos componentes. La más importante es la primera, que tiene el rango (-3, 3) mientras que la otra va de -1 a 1 (aproximadamente). Pero es posible comprimir la primera dirección</p>
+<pre><code>m.pca.squeezed &lt;- m.pca
+m.pca.squeezed[, 1] &lt;- 0.2 * m.pca.squeezed[, 1]
+</code></pre>
+<p>para entonces usar <code>kmeans</code> sobre las componentes reponderadas</p>
+<pre><code>tmp.squeezed &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/kmeans&quot;&gt;kmeans(m.pca.squeezed, 2)
+plot(m.pca.squeezed, col = tmp.squeezed$cluster, asp = 1)
+</code></pre>
+<p><a href="http://www.datanalytics.com/wp-uploads/2014/04/clust_02.png"><img src="http://www.datanalytics.com/wp-uploads/2014/04/clust_02.png" alt="clust_02">
+</a></p>
+<p>Finalmente, es posible representar los <em>clústers</em> sobre las variables originales:</p>
+<pre><code>tmp.squeezed &lt;- &lt;a href=&quot;http://inside-r.org/r-doc/stats/kmeans&quot;&gt;kmeans(m.pca.squeezed, 2)
+plot(m, col = tmp.squeezed$cluster, asp = 1)
+</code></pre>
+<p><a href="http://www.datanalytics.com/wp-uploads/2014/04/clust_03.png"><img src="http://www.datanalytics.com/wp-uploads/2014/04/clust_03.png" alt="clust_03">
+</a></p>
+<p>Puede apreciarse cómo ha decrecido el impacto de la dirección NO-SE en el resultado final.</p>
+<p>¿Qué significa todo esto? Que siempre es posible —de hecho, recomendable— reajustar el peso de las componentes <em>a mano</em> cuando haya buenos motivos para ello. Y que, de hecho, es legítimo; particularmente cuando su peso original (en términos matemáticos) no corresponde a su importancia en la aplicación en cuestión.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/componentes-principales/" rel="tag">componentes principales</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/estad%C3%ADstica/" rel="tag">estadística</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/pca/" rel="tag">pca</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2014/04/16/menos-econometria-y-mas-precioestatos/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Menos econometría y más precioestatos</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2014/04/23/demasiado-simple/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Demasiado simple</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

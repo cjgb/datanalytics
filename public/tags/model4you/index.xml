@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>model4you on datanalytics</title>
+    <link>/tags/model4you/</link>
+    <description>Recent content in model4you on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Feb 2020 09:13:00 +0000</lastBuildDate><atom:link href="/tags/model4you/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>model4you</title>
+      <link>/2020/02/06/model4you/</link>
+      <pubDate>Thu, 06 Feb 2020 09:13:00 +0000</pubDate>
+      
+      <guid>/2020/02/06/model4you/</guid>
+      <description>Un grupo de estudiantes se examina en horas distintas con exámenes parecidos pero no iguales. Se pretende estudiar si el examen tiene algún efecto sobre la nota final y para eso se hace algo así como
+bmod_math &amp;lt;- lm(pcorrect ~ group, data = MathExam)  para obtener una distribución de la nota media por grupo descrita bien
+cbind(estimate = coef(bmod_math), confint(bmod_math)) ## estimate 2.5% 97.5% ## (Intercept) 57.600184 55.122708 60.07766 ## group2 -2.</description>
+    </item>
+    
+  </channel>
+</rss>

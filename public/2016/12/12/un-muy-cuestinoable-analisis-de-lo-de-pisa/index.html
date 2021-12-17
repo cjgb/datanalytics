@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Un muy cuestionable análisis de lo de PISA - datanalytics</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Un muy cuestionable análisis de lo de PISA" />
+<meta property="og:description" content="Voy a realizar un más que cuestionable (debajo desgranaré los caveats) de los resultados de las pruebas PISA del 2015 en España.
+Primero, datos y métodos. Los primeros (y las descripciones de las variables) se pueden bajar de aquí. En cuanto a los segundos, he consultado esto (que me ha llevado a), esto y esto (donde está actualizado para los resultados de la última oleada). Hablaré más de métodos, y sus problemas, más abajo." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2016/12/12/un-muy-cuestinoable-analisis-de-lo-de-pisa/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2016-12-12T08:13:00&#43;00:00" />
+<meta property="article:modified_time" content="2016-12-12T08:13:00&#43;00:00" />
+
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="datanalytics" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">datanalytics</div>
+					<div class="logo__tagline">Estadística y análisis de datos</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Un muy cuestionable análisis de lo de PISA</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2016-12-12T08:13:00Z">2016-12-12</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/estad%C3%ADstica/" rel="category">estadística</a>, <a class="meta__link" href="/categories/r/" rel="category">r</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Voy a realizar un más que cuestionable (debajo desgranaré los <em>caveats</em>) de los resultados de las pruebas PISA del 2015 en España.</p>
+<p>Primero, datos y métodos. Los primeros (y las descripciones de las variables) se pueden bajar de <a href="https://www.oecd.org/pisa/data/2015database/">aquí</a>. En cuanto a los segundos, he consultado <a href="http://smarterpoland.pl/index.php/2016/12/pisa-2015-how-to-readprocessplot-the-data-with-r/">esto</a> (que me ha llevado a), <a href="https://cran.r-project.org/web/packages/intsvy/index.html">esto</a> y <a href="https://github.com/eldafani/intsvy">esto</a> (donde está actualizado para los resultados de la última oleada). Hablaré más de métodos, y sus problemas, más abajo.</p>
+<p>[caption id=&ldquo;attachment_8102&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;600&rdquo;]<img src="https://www.datanalytics.com/wp-uploads/2016/12/mono_gatos_leyendo.jpg" alt="">
+Monkey reading to three cats[/caption]</p>
+<p>Antes de entrar en materia, una observación. Lo de PISA es muy serio, pero quien pierda rato haciendo el debido análisis cualitativo de los datos, observará cosas raras. Por ejemplo, un colegio con un ratio de alumnos por profesor de 1 (¿cuál? ¿dónde? ¿por qué?). Y otras cosas que hacen que se frunzan los ceños. Pero no abundaré en esos asuntos.</p>
+<p>Cargo datos en R (después de bajarlos del preceptivo enlace, descomprimirlos, etc.; cuidado: el fichero ocupa un giga largo):</p>
+<pre><code>library(foreign)
+
+tmp &lt;- read.spss(&quot;CY6_MS_CMB_STU_QQQ.sav&quot;,
+                 use.value.labels = TRUE,
+                 to.data.frame = TRUE)
+
+alumnos &lt;- tmp[tmp$CNT == &quot;Spain&quot;,]
+rm(tmp); gc()
+</code></pre>
+<p>Aquitán:</p>
+<pre><code>dim(alumnos)
+#[1] 6736  921
+</code></pre>
+<p>También se puede ver que hay unos doscientos colegios y si uno se baja el fichero correspondiente, puede explorar lo que contaba antes y más. Pero hoy no toca.</p>
+<p>Selecciono las colunnas de interés y relleno (¡primer <em>caveat</em>!) los nulos (no muchos) con la mediana:</p>
+<pre><code>dat &lt;- alumnos[, c(&quot;CNTSTUID&quot;, &quot;CNTSCHID&quot;, &quot;WEALTH&quot;, &quot;CULTPOSS&quot;,
+                   &quot;HEDRES&quot;, &quot;HOMEPOS&quot;, &quot;ICTRES&quot;, &quot;ESCS&quot;, &quot;STRATUM&quot;)]
+
+fix.column &lt;- function(x){
+  x[is.na(x)] &lt;- median(x, na.rm = TRUE)
+  x
+}
+
+dat$WEALTH   &lt;- fix.column(dat$WEALTH)
+dat$CULTPOSS &lt;- fix.column(dat$CULTPOSS)
+dat$HEDRES   &lt;- fix.column(dat$HEDRES)
+dat$HOMEPOS  &lt;- fix.column(dat$HOMEPOS)
+dat$ICTRES   &lt;- fix.column(dat$ICTRES)
+dat$ESCS     &lt;- fix.column(dat$ESCS)
+
+
+dat$STRATUM &lt;- as.character(dat$STRATUM)
+
+dat$CCAA    &lt;- gsub(&quot;.*: ([^,]*),.*&quot;, &quot;\\1&quot;, dat$STRATUM)
+
+dat$PUBPRIV &lt;- &quot;public&quot;
+dat$PUBPRIV[grep(&quot;private&quot;, dat$STRATUM)] &lt;- &quot;private&quot;
+</code></pre>
+<p>Las columnas de interés son:</p>
+<pre><code>  * `WEALTH`: platica del hogar
+  * `CULTPOSS`: _posesiones culturales_
+  * `HEDRES`: recursos educacionales del hogar
+  * `HOMEPOS`: posesiones del hogar (¿en qué se diferencia de `WEALTH`?)
+  * `ICTRES`: tabletas, móviles, ordenadores y otros aparatejos
+  * `ESCS`: índice de nivel económico, social y cultural
+</code></pre>
+<p>Estas columnas parecen construirse sintéticamente a partir de las respuestas (que también aparecen en el fichero) a una encuesta concomitante. Muchas de estas columnas están muy correlacionadas entre sí, tanto como yo con alguien que no sé si me leerá:</p>
+<pre><code>plot(dat[, c(&quot;WEALTH&quot;, &quot;CULTPOSS&quot;, &quot;HEDRES&quot;, &quot;ESCS&quot;, &quot;HOMEPOS&quot;)])
+</code></pre>
+<p><img src="https://www.datanalytics.com/wp-uploads/2016/12/correlacion_variables_pisa.png" alt=""></p>
+<p>Voy a centrarme en las resultados de matemáticas porque yo lo valgo:</p>
+<pre><code>targets &lt;- grep(&quot;^PV[0-9]+MATH$&quot;, colnames(alumnos))
+dat$target &lt;- rowMeans(alumnos[, targets])
+dotchart(sort(tapply(dat$target, dat$CCAA, mean)))
+</code></pre>
+<p>El gráfico resultante es desconcertante:</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2016/12/matematicas_pisa_2015_ccaa.png" alt=""></p>
+<p>Fundamentalmente, porque aunque los valores están en línea con los publicados en la prensa (p.e., <a href="http://elpais.com/elpais/2016/12/05/media/1480958752_164797.html">aquí</a>) no coinciden con ellos cabalmente. O el resultado por alumno se calcula de otra manera, o el promedio por región tiene ajustes adicionales (seguro que sí: de ahí el paquete <code>intsvy</code>) que no contemplo, o existe algún tipo de factor de elevación que he omitido. Lo segundo que más me preocupa, en todo caso y para mis fines, es haberme equivocado en la manera de calcular el promedio por alumno; lo que más de todo, arrastrar en mi posible error a mis lectores, a los que advierto que avancen con cautela.</p>
+<p>Con la información disponible se pueden construir gráficas tales que</p>
+<pre><code>boxplot(dat$target ~ dat$PUBPRIV)
+</code></pre>
+<p>i.e.,</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2016/12/pisa_2015_math_public_private.png" alt=""></p>
+<p>que <a href="https://www.datanalytics.com/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/">tanto irritan</a> a los defensores de ese tipo de educación de <a href="http://nadaesgratis.es/fernandez-villaverde/el-rector-y-los-plagios-mas-novedades">rectores copipaste</a>.</p>
+<p>Pero vamos a la chicha:</p>
+<pre><code>library(lme4)
+library(lattice)
+
+modelo &lt;- lmer(target ~ 1 + WEALTH + CULTPOSS + HEDRES +
+                 HOMEPOS + ICTRES + ESCS +
+                 (1 | CCAA) + (1 | PUBPRIV),
+               data = dat)
+
+summary(modelo)
+# Linear mixed model fit by REML ['lmerMod']
+# Formula: target ~ 1 + WEALTH + CULTPOSS + HEDRES + HOMEPOS + ICTRES + ESCS + (1 | CCAA) + (1 | PUBPRIV)
+# Data: dat
+#
+# REML criterion at convergence: 76079.8
+#
+# Scaled residuals:
+#   Min      1Q  Median      3Q     Max
+# -4.4830 -0.6818  0.0278  0.6915  4.2208
+#
+# Random effects:
+#   Groups   Name        Variance Std.Dev.
+# CCAA     (Intercept)  223.40  14.946
+# PUBPRIV  (Intercept)   10.93   3.305
+# Residual             4689.82  68.482
+# Number of obs: 6736, groups:  CCAA, 18; PUBPRIV, 2
+#
+# Fixed effects:
+#             Estimate Std. Error t value
+# (Intercept) 499.7163     4.4088  113.34
+# WEALTH      -47.2474     3.5227  -13.41
+# CULTPOSS    -17.1966     1.9606   -8.77
+# HEDRES       -7.4209     1.3823   -5.37
+# HOMEPOS      69.4370     4.7987   14.47
+# ICTRES        0.6887     1.9313    0.36
+# ESCS         16.3323     1.0478   15.59
+#
+# Correlation of Fixed Effects:
+#          (Intr) WEALTH CULTPO HEDRES HOMEPO ICTRES
+# WEALTH   -0.029
+# CULTPOSS -0.017  0.712
+# HEDRES    0.021  0.563  0.448
+# HOMEPOS  -0.031 -0.827 -0.849 -0.638
+# ICTRES    0.064 -0.300  0.134 -0.075 -0.160
+# ESCS      0.120  0.070  0.003  0.096 -0.241 -0.024
+</code></pre>
+<p>Hay una correlación insidiosa (aunque prevista) entre algunas de las variables más importantes que tiene el efecto previsto: unos efectos que se intercancelan. Pero globalmente, sí, se aprecia que más es más. Los cacharrillos electrónicos van a su aire (porque parece que se los pueden permitir todos y cualquier gañán tiene mejor móvil que yo) y ni ponen ni quitan.</p>
+<p>Eso en cuanto a lo fijo. En cuanto a lo aleatorio,</p>
+<pre><code>dotplot(ranef(modelo, condVar = TRUE))
+</code></pre>
+<p>dibuja, primero,</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2016/12/pisa_2015_pubpriv_ranef.png" alt=""></p>
+<p>donde se ve cómo la diferencia entre <em>los dos modelos educativos</em> son más estrechos de lo que parecen sin controlar por el resto de los factores. El efecto es, cualitativamente, el que se detecta también <a href="http://www.eldiario.es/piedrasdepapel/brecha-centros-publicos-privados-PISA_6_588001207.html">aquí</a> (aunque véase <a href="https://www.datanalytics.com/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/">esto</a>) en términos del tamaño del efecto aunque da la sensación de que en mi caso las diferencias son menos significativas estadísticamente incluso. ¿Me acabarán invitando a colaborar en eldiario.es?</p>
+<p>Y también dibuja otra cosa mucho más, como dicen los modernos, dramática:</p>
+<p><img src="https://www.datanalytics.com/wp-uploads/2016/12/pisa_2015_math_ccaa_ranef.png" alt=""></p>
+<p>Se trata del efecto de la comunidad autónoma. Aparentemente, muy por encima, se parece a la gráfica anterior, pero se aprecian dos efectos singulares. El primero, que el País Vasco cae a niveles del <a href="https://pierreenglebert.files.wordpress.com/2013/12/dummy.pdf"><em>african dummy</em></a>. Y la segunda, (corred a contárselo a vuestros amigos de Podemos: veréis cómo les brilla el colmillo), que Madrid se derrumba.</p>
+<p>Termino recordando que por el camino he dejado caer tantos avisos que no se me debe tomar en serio. Yo mismo no lo hago. Si os interesa en tema, en lugar de tuitear y retuitear esta basura, agarrad el hilo y tratad de mejorarla. A ver si se os da mejor que a mí y me quitáis la razón. No creo que sea difícil.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/educaci%C3%B3n/" rel="tag">educación</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/lmer/" rel="tag">lmer</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/pisa/" rel="tag">pisa</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/r/" rel="tag">r</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2016/12/09/una-pregunta-sobre-pruebas-de-hipotesis/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Una pregunta sobre pruebas de hipótesis</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2016/12/13/que-la-fuerza-de-r-tambien-te-acompane-a-ti-alla-a-donde-haya-datos/" rel="next">
+			<span class="pager__subtitle">Siguiente&thinsp;»</span>
+			<p class="pager__title">Que la fuerza de R también te acompañe a ti (allá a donde haya datos)</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-recent widget">
+	<h4 class="widget__title">Más Recientes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/">Sobre el exceso de mortalidad en noviembre de 2021</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/">Más sobre la estimación de probabilidades de eventos que no se repiten</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/">Estadística vs siquiatría: la aparente contradicción, la profunda síntesis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/">¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de las vacunas contra el covid?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/11/25/un-episodio-relevante-para-estas-paginas-extraido-de-un-espia-perfecto/">Un episodio relevante para estas páginas extraído de &#34;Un espía perfecto&#34;</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 datanalytics.
+      
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ tex2jax: {inlineMath: [["$","$"], ["$latex", "$"],["\\(","\\)"]]} })
+</script>
+
+</body>
+</html>

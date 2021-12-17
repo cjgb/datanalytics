@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tesis on datanalytics</title>
+    <link>/tags/tesis/</link>
+    <description>Recent content in tesis on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 30 Jan 2019 08:13:39 +0000</lastBuildDate><atom:link href="/tags/tesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la tesis de Sánchez (y no es lo que se espera de mí)</title>
+      <link>/2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/</link>
+      <pubDate>Wed, 30 Jan 2019 08:13:39 +0000</pubDate>
+      
+      <guid>/2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/</guid>
+      <description>Me preguntaron mucho (antes de los últimos seis o siete circos mediáticos) sobre la tesis de Sánchez, cuando estaba en el candelabro. La bajé, la leí en parte (muchas de las páginas más infumables en diagonal, lo reconozco) y me centré en la parte estadística.
+Que es un completo despropósito: es una especie de apéndice que no se usa en el resto del texto, una suerte de añadido para darle una mínima pincelada de matematicidad a la cosa.</description>
+    </item>
+    
+  </channel>
+</rss>

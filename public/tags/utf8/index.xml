@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>utf8 on datanalytics</title>
+    <link>/tags/utf8/</link>
+    <description>Recent content in utf8 on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 20 Feb 2019 08:13:56 +0000</lastBuildDate><atom:link href="/tags/utf8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todo lo que deberías saber sobre encodings</title>
+      <link>/2019/02/20/todo-lo-que-deberias-saber-sobre-encodings/</link>
+      <pubDate>Wed, 20 Feb 2019 08:13:56 +0000</pubDate>
+      
+      <guid>/2019/02/20/todo-lo-que-deberias-saber-sobre-encodings/</guid>
+      <description>¿Por qué (casi) nadie sabe sobre encodings? ¿Por qué (casi) nadie ha leído What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text?</description>
+    </item>
+    
+  </channel>
+</rss>

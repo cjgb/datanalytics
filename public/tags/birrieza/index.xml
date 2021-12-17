@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>birrieza on datanalytics</title>
+    <link>/tags/birrieza/</link>
+    <description>Recent content in birrieza on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Jun 2014 07:11:26 +0000</lastBuildDate><atom:link href="/tags/birrieza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El índice de birrieza para distribuciones de probabilidad</title>
+      <link>/2014/06/25/el-indice-de-birrieza-para-distribuciones-de-probabilidad/</link>
+      <pubDate>Wed, 25 Jun 2014 07:11:26 +0000</pubDate>
+      
+      <guid>/2014/06/25/el-indice-de-birrieza-para-distribuciones-de-probabilidad/</guid>
+      <description>Pido disculpas por usar birrieza, que no es una palabra que no existe. Si a alguien se le ocurre otro término mejor, que lo sugiera. Pero es que hay distribuciones de probabilidad que son una birria. Y de ellas me voy a ocupar hoy.
+Pero antes, una digresión breve. Todas las distribuciones de probabilidad, en la práctica, están acotadas. Aunque sea por el número de átomos del universo. ¿Cuál es la importancia de dicha digresión?</description>
+    </item>
+    
+  </channel>
+</rss>

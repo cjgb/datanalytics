@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>población on datanalytics</title>
+    <link>/tags/poblaci%C3%B3n/</link>
+    <description>Recent content in población on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 27 May 2021 09:13:00 +0000</lastBuildDate><atom:link href="/tags/poblaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todavía más sobre las proyecciones de población a largo plazo del INE</title>
+      <link>/2021/05/27/todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine/</link>
+      <pubDate>Thu, 27 May 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/05/27/todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine/</guid>
+      <description>Ese es otro capítulo más de lo que se está conviertiendo en toda una saga en este blog: véase esto, esto, esto o los enlaces de todas esas entradas. El presente está motivado por parrafitos como
+y otros del mismo cariz que pueden encontrarse en el documento España 2050 recientemente publicado.
+Así que he tomado las proyecciones a largo plazo de población que realiza el INE cada par de años y he construido el siguiente gráfico:</description>
+    </item>
+    
+    <item>
+      <title>Tres pirámides poblacionales con nombre</title>
+      <link>/2021/01/07/tres-piramides-poblacionales-con-nombre/</link>
+      <pubDate>Thu, 07 Jan 2021 09:13:00 +0000</pubDate>
+      
+      <guid>/2021/01/07/tres-piramides-poblacionales-con-nombre/</guid>
+      <description>La primera es esta, a la que muchos conocen como la pirámide de población española de 1992, pero que yo conozco como la pirámide de población de la masificación universitaria:
+Es posible que a muchos no os suene el concepto pero, ¿véis ese pico en la edad de la chavalería? Corresponde a todos esos a los que dio de repente por ponerse a estudiar ingeniería, derecho o matemáticas de forma que no cabían en las aulas.</description>
+    </item>
+    
+    <item>
+      <title>Este es uno de los pecados estadísticos que menos indulgencia suscita</title>
+      <link>/2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita/</link>
+      <pubDate>Wed, 23 Sep 2020 09:12:00 +0000</pubDate>
+      
+      <guid>/2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita/</guid>
+      <description>INE, Proyecciones de Población 2020-2070 (enlace)
+[Nota para desavisados: ¿veis cómo se comporta la varianza antes/después?]
+[Otra nota: la publicación de las proyecciones de población del INE es casi todos los años motivo de recochineo bloguero. Buscad y encontraréis.]
+[Nota final: sí, sí, una proyección es lo que ocurriría &amp;ldquo;si se mantuvieran las tendencias actuales&amp;rdquo;. Eso os dirán. Precisamente por eso, esta entrada y el gráfico de más arriba.]</description>
+    </item>
+    
+    <item>
+      <title>Cartogramas con recmap</title>
+      <link>/2019/07/15/cartogramas-con-recmap/</link>
+      <pubDate>Mon, 15 Jul 2019 09:13:02 +0000</pubDate>
+      
+      <guid>/2019/07/15/cartogramas-con-recmap/</guid>
+      <description>He construido
+que, obviamente no es la gran maravilla, basándome en Rectangular Statistical Cartograms in R: The recmap Package y usando
+library(rgdal) library(pxR) library(recmap) provs &amp;lt;- readOGR(dsn = &amp;quot;provincias/&amp;quot;, layer = &amp;quot;Provincias&amp;quot;) pobl &amp;lt;- as.data.frame(read.px(&amp;quot;2852.px&amp;quot;, encoding = &amp;quot;latin1&amp;quot;), use.codes = T) pobl2 &amp;lt;- as.data.frame(read.px(&amp;quot;2852.px&amp;quot;, encoding = &amp;quot;latin1&amp;quot;)) pobl$nombre &amp;lt;- pobl2$Provincias pobl &amp;lt;- pobl[, c(&amp;quot;Provincias&amp;quot;, &amp;quot;nombre&amp;quot;, &amp;quot;value&amp;quot;)] colnames(pobl) &amp;lt;- c(&amp;quot;COD_PROV&amp;quot;, &amp;quot;nombre&amp;quot;, &amp;quot;poblacion&amp;quot;) pobl &amp;lt;- pobl[pobl$COD_PROV != &amp;quot;null&amp;quot;,] pobl &amp;lt;- pobl[!pobl$COD_PROV %in% c(&amp;quot;51&amp;quot;, &amp;quot;52&amp;quot;, &amp;quot;38&amp;quot;, &amp;quot;07&amp;quot;, &amp;quot;35&amp;quot;),] dat &amp;lt;- merge(provs, pobl, by = &amp;quot;COD_PROV&amp;quot;, all.</description>
+    </item>
+    
+    <item>
+      <title>A falta de escenarios, tenemos instituciones con atribuciones solapadas</title>
+      <link>/2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/</link>
+      <pubDate>Wed, 08 May 2019 09:13:36 +0000</pubDate>
+      
+      <guid>/2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/</guid>
+      <description>Si yo fuera rey, expropiaría el edificio sito en el número 212 de la Castellana de Madrid, derruiría lo existente y construiría uno imagen especular de
+que es el que queda justo enfrente y que contiene eso que conocemos como Instituto Nacional de Estadística. Lo llamaría, por mantener la especularidad, ENI y lo poblaría de estadísticos con una misión:
+ No hablar ni relacionarse bajo ningún concepto con los de enfrente.</description>
+    </item>
+    
+    <item>
+      <title>Más sobre las proyecciones de población del INE</title>
+      <link>/2018/10/22/mas-sobre-las-proyecciones-de-poblacion-del-ine/</link>
+      <pubDate>Mon, 22 Oct 2018 08:13:53 +0000</pubDate>
+      
+      <guid>/2018/10/22/mas-sobre-las-proyecciones-de-poblacion-del-ine/</guid>
+      <description>Bastante he hablado de las proyecciones de población del INE (p.e., aquí o aquí). Insisto porque el gráfico que aparece en la segunda página de la nota de prensa de las últimas, a saber,
+se parece muchísimo a un gráfico que garabateé en el Bar Chicago de Zúrich (el peor garito de la peor calle de una de las mejores ciudades del mundo), con demasiadas cervezas en el cuerpo y mientras nos reíamos hasta de las bombillas.</description>
+    </item>
+    
+    <item>
+      <title>Población: el padrón y la otra cosa</title>
+      <link>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</link>
+      <pubDate>Thu, 22 Mar 2018 08:13:19 +0000</pubDate>
+      
+      <guid>/2018/03/22/poblacion-el-padron-y-la-otra-cosa/</guid>
+      <description>En un proyecto necesitábamos cifras de población por provincias durante los últimos años. Así que usamos los datos del padrón proporcionados por el INE (el INE es guay; AEMET es kk). Pero alguien nos dijo que era mejor usar los otros datos de población, los nosequé (sí, las estimaciones intercensales, si es que se llaman así) porque eran más mejores.
+El padrón es un registro administrativo. Lo otro es algo soportado por lo que yo llamo método y el resto de la humanidad, metodología.</description>
+    </item>
+    
+  </channel>
+</rss>

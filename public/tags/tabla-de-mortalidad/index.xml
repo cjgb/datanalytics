@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tabla de mortalidad on datanalytics</title>
+    <link>/tags/tabla-de-mortalidad/</link>
+    <description>Recent content in tabla de mortalidad on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 18 Mar 2014 07:35:19 +0000</lastBuildDate><atom:link href="/tags/tabla-de-mortalidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Científicos de datos, aprended de los actuarios</title>
+      <link>/2014/03/18/cientificos-de-datos-aprended-de-los-actuarios/</link>
+      <pubDate>Tue, 18 Mar 2014 07:35:19 +0000</pubDate>
+      
+      <guid>/2014/03/18/cientificos-de-datos-aprended-de-los-actuarios/</guid>
+      <description>Los actuarios fueron tal vez los primeros científicos de datos. Aparentemente, la primera tabla de mortalidad fue creada por John Graunt en 1662.
+Los actuarios hablan de la esperanza de vida. Pero no son tan pendejos como los científicos de datos de hoy en día en eso de pretender que la esperanza de vida es la vida. Los actuarios saben que en una cohorte con una esperanza de vida de 78 años habrá quien muera a los tres, a los quince, a los cincuenta y a los noventa.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k-vecinos on datanalytics</title>
+    <link>/tags/k-vecinos/</link>
+    <description>Recent content in k-vecinos on datanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 18 Mar 2020 22:11:00 +0000</lastBuildDate><atom:link href="/tags/k-vecinos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>k-vecinos &#43; lmer</title>
+      <link>/2020/03/19/k-vecinos-lmer/</link>
+      <pubDate>Wed, 18 Mar 2020 22:11:00 +0000</pubDate>
+      
+      <guid>/2020/03/19/k-vecinos-lmer/</guid>
+      <description>El de los k-vecinos es uno de mis métodos favoritos de modelización. Al menos, teóricamente: luego, en la práctica, es complicado construir una función de distancias decente. Pero tiene la ventaja indiscutible de ser tremendamente local: las predicciones para una observación concreta dependen únicamente de su entorno.
+[lme4::lmer](https://CRAN.R-project.org/package=lme4) (y sus derivados) es ya casi la lente a través de la que imagino cómo operan las variables dentro de un modelo. Desafortunadamente, es un modelo global y no gestiona particularmente bien las interacciones, cuando son muchas y complejas.</description>
+    </item>
+    
+    <item>
+      <title>Interacciones y selección de modelos</title>
+      <link>/2020/03/16/interacciones-y-seleccion-de-modelos/</link>
+      <pubDate>Mon, 16 Mar 2020 15:41:00 +0000</pubDate>
+      
+      <guid>/2020/03/16/interacciones-y-seleccion-de-modelos/</guid>
+      <description>Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.
+El modelo lineal clásico,
+$latex y \sim x_1 + x_2 + \dots$
+no tiene en cuenta las interacciones (aunque extensiones suyas, sí, por supuesto).</description>
+    </item>
+    
+    <item>
+      <title>k-medias es como las elecciones; k-vecinos, como los cumpleaños</title>
+      <link>/2016/07/11/k-medias-es-como-las-elecciones-k-vecinos-como-los-cumpleanos/</link>
+      <pubDate>Mon, 11 Jul 2016 08:13:24 +0000</pubDate>
+      
+      <guid>/2016/07/11/k-medias-es-como-las-elecciones-k-vecinos-como-los-cumpleanos/</guid>
+      <description>El otro día asistí a la enésima confusión sobre k-medias y k-vecinos. Que lo es, más en general, sobre el clústering contra modelos locales de la clase que sean, desde k-vecinos hasta el filtrado colaborativo. Veamos si esta comparación que traigo hoy a mis páginas contribuye a erradicar dicha confusión.
+k-medias es como las elecciones. Hace poco tuvimos unas en España. Alguien decidió (aproximadamente) que k = 4 y nos pidió, a nosotros, punticos del espacio, identificar el centroide más próximo a nosotros para que lo votásemos.</description>
+    </item>
+    
+  </channel>
+</rss>
