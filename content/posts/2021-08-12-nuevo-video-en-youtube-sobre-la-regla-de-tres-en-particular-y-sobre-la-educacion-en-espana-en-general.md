@@ -14,16 +14,9 @@ tags:
 - youtube
 ---
 
+He osado publicar un nuevo vídeo en Youtube sobre el asunto que llenó las portadas  de los periódicos ayer: la regla de tres. Puede verse aquí:
 
-
-
-He osado publicar un nuevo vídeo en Youtube sobre el asunto que llenó las portadas de los periódicos ayer: la regla de tres. Puede verse aquí:
-
-
-
-
-
-
+{{< youtube h5KaoDF0bKo >}}
 
 
 https://youtu.be/h5KaoDF0bKo

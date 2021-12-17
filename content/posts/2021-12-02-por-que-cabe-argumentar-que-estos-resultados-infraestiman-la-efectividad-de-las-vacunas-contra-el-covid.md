@@ -13,6 +13,7 @@ tags:
 - covid
 - encuestas
 - vacuna
+- sesgos
 ---
 
 Me refiero a los mostrados en el siguiente gráfico (del que he sido una microcausa):

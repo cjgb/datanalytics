@@ -11,6 +11,7 @@ tags:
 - euromomo
 - momo
 - mortalidad
+- modelos
 ---
 
 Esta entrada abunda sobre la que publiqué hace unos días y va a tener un enfoque mucho más general y estadístico.

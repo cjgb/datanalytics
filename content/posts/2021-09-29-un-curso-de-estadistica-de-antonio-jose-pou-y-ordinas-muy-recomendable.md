@@ -11,18 +11,10 @@ tags:
 - estadística
 - historia
 - libros
+- bne
 ---
 
-
-
-
-No suelo recomendar cursos de estadística de otros en estas páginas, pero haré una excepción con el de Antonio José Pou y Ordinas por varias razones, siendo la fundamental de todas ellas que fue publicado en 1889.
-
-
-
-
-
-
+No suelo recomendar cursos de estadística de otros en estas páginas, pero haré una excepción con el de Antonio José Pou y Ordinas por varias razones, siendo la de más peso entre todas ellas que fue publicado en 1889.
 
 Puede consultarse [aquí](http://bdh-rd.bne.es/viewer.vm?id=0000245501).
 

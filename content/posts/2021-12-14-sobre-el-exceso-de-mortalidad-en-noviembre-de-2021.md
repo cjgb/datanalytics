@@ -13,6 +13,7 @@ tags:
 - gripe
 - momo
 - mortalidad
+- modelos
 ---
 
 _[Nota: trabajé ---pero desde hace muchos meses ya no--- en MoMo. Así que algo sé al respecto. No obstante, las opiniones reflejadas aquí son enteramente mías. Además, están escritas desde una perspectiva estadística, no epidemiológica o, por extensión, médica.]_

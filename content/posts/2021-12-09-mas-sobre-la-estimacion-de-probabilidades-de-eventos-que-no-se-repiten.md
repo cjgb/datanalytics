@@ -13,6 +13,7 @@ tags:
 - predicción
 - superforecasting
 - tetlock
+- principio de indiferencia
 ---
 
 Hace un tiempo hablé sobre la estimación de [probabilidades de eventos que ocurren una única vez](https://www.datanalytics.com/2021/04/08/sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez/): elecciones, etc. Argumentaba cómo pueden ser descompuestos en dos partes muy distintas cualitativamente: una asociada a eventos que sí que se han repetido; otra, específica y única. El tamaño relativo de ambas componentes afecta a eficacia del mecanismo de estimación.

@@ -14,26 +14,9 @@ tags:
 - youtube
 ---
 
-
-
-
 El vídeo es este:
 
-
-
-
-
-
-
-
-https://youtu.be/GOq6GLm8mbA
-
-
-
-
-
-
-
+{{< youtube id="GOq6GLm8mbA" >}}
 
 Se refiere indirectamente a [un libro del que hablé hace un tiempo](https://www.datanalytics.com/2019/01/29/evaluacion-de-trucos-para-multiplicaciones-aproximadas/) y a [esta discusión](https://statmodeling.stat.columbia.edu/2016/01/11/street-fighting-stats-a-one-week-module/). También me refiero una antigua entrada en mi blog que no he sabido ubicar y que sería la entrada (1/n) de la serie.
 

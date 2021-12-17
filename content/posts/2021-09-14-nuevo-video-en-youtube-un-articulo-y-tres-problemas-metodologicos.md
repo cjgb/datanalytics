@@ -19,45 +19,14 @@ tags:
 - youtube
 ---
 
-
-
-
 He publicado esto en Youtube:
 
-
-
-
-
-
-
-
-https://youtu.be/GvosrzEADwM
-
-
-
-
-
-
-
+{{< youtube GvosrzEADwM >}}
 
 Igual no lo debería haber hecho. Trata del manido tema "alguien ha publicado un artículo _científico_ con serios errores metodológicos". Que es una versión del más popular
 
-
-
-
-
-
-
 ![](/wp-uploads/2021/09/450_1000.png)
+
 (No hace falta que indique la fuente, ¿verdad? Sabéis que sé que sabéis de dónde lo he sacado, ¿no?)
 
-
-
-
-
-
-
 Lo he hecho únicamente por lo popular que me da la impresión que se ha hecho en las redes sociales, por las lecciones que se pueden extraer para no cometer los mismos errores por ahí y, finalmente, por [la contumacia de gente que debería saber más y mejor](https://twitter.com/Bengoa_Marta/status/1436242780012040194).
-
-
-
