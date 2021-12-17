@@ -11,9 +11,9 @@ md_header = """
 author: Carlos J. Gil Bellosta
 date: 2010-05-30 12:01:22+00:00
 draft: false
-title: Por etiqueta
+title: Por tema
 type: page
-url: /por_etiqueta/
+url: /por_tema/
 menu:
     main:
         weight: 20
@@ -35,14 +35,25 @@ headers = [h for h in headers if 'tags' in h]
 tags = [h['tags'] for h in headers if h['date'] < datetime.date.today()]
 tags = [t for lt in tags for t in lt]
 freqs = list([(k, k.replace(" ", "-").lower(), v) for (k, v) in Counter(tags).items()])
-freqs.sort(key = lambda x: x[0].lower())
 
-out = [f"[{a}](/tags/{c}/) ({b})" for a, c, b in freqs]
-out = "  ·  ".join(out)
+freqs_00 = [f for f in freqs if f[2] > 50]
+freqs_01 = [f for f in freqs if f[2] > 10 and f[2] <= 50]
+freqs_02 = [f for f in freqs if f[2] >  1 and f[2] <= 10]
+freqs_03 = [f for f in freqs if f[2] == 1]
+
+def process_freqs(freqs):
+    freqs.sort(key = lambda x: x[0].lower())
+    out = [f"[{a}](/tags/{c}/) ({b})" for a, c, b in freqs]
+    out = "  ·  ".join(out)
+    return out
 
 with open(target_file, "w") as f:
     print(md_header, file = f)
-    print(out, file=f)
-
-
-
+    print("## Etiquetas con más de 50 entradas", file=f)
+    print(process_freqs(freqs_00), file=f)
+    print("## Etiquetas con más de 10 entradas (y menos de 50)", file=f)
+    print(process_freqs(freqs_01), file=f)
+    print("## Etiquetas con más de una entrada (y menos de 10)", file=f)
+    print(process_freqs(freqs_02), file=f)
+    print("## Etiquetas con una única entrada", file=f)
+    print(process_freqs(freqs_03), file=f)
