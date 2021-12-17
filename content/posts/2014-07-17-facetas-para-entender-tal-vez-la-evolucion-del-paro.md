@@ -1,0 +1,71 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2014-07-17 07:13:54+00:00
+draft: false
+title: Facetas para entender, tal vez, la evolución del paro
+
+url: /2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/
+categories:
+- gráficos
+- números
+- r
+tags:
+- desempleo
+- epa
+- facetas
+- ggplot2
+- gráficos
+- números
+---
+
+La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas [URLs que tienen pinta de cambiar con cualquier soplo](http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t42/p04/l1/&file=1800001.px&type=pcaxis&L=1) (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los [datos a día de hoy](/wp-uploads/2014/07/paro_mensual.txt).
+
+También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena y o mala. Pero, ¿buena o mala con respecto a qué? Así que hoy voy a ensayar un marco en el que plantear la pregunta:
+
+
+
+	  * Voy a considerar variaciones mensuales de la tasa de paro (mes con respecto al anterior).
+	  * Voy a comparar los meses del histórico entre sí.
+	  * Y como no sabía si era mejor utilizar la serie temporal o un diagrama de cajas, voy a tratar de combinarlos.
+
+Así:
+
+
+
+    library(ggplot2)
+    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+
+    raw <- read.table("/wp-uploads/2014/07/paro_mensual.txt")
+
+    dat <- data.frame(mes = raw$V1[-1], delta = diff(raw$V2))
+
+    tmp <- do.call(rbind, strsplit(as.character(dat$mes), "M"))
+    tmp <- apply(tmp, 2, as.numeric)
+
+    dat$anno <- tmp[,1]
+    dat$mes  <- tmp[,2]
+
+    dat.q <- ddply(dat, .(mes), summarize, q.25 = quantile(delta, 0.25),
+                   q.50 = median(delta),
+                   q.75 = quantile(delta, 0.75))
+
+
+    ggplot(dat, aes(x = anno, y = delta)) + geom_line(size = 1.2) + facet_wrap(~mes) +
+      geom_hline(data = dat.q, aes(yintercept = q.50)) +
+      geom_hline(data = dat.q, aes(yintercept = q.25), linetype = "dashed") +
+      geom_hline(data = dat.q, aes(yintercept = q.75), linetype = "dashed") +
+      xlab("año") + ylab("variación mensual tasa de paro")
+
+
+El resultado es:
+
+[![tasa_paro_mensual](/wp-uploads/2014/07/tasa_paro_mensual.png)
+](/wp-uploads/2014/07/tasa_paro_mensual.png)
+
+Cada recuadro corresponde a un mes (identificado por su número, obviamente). El eje horizontal, son los años desde el principio de la serie. La serie temporal, como indico arriba, es la diferencia del valor de la tasa de desempleo del mes con el anterior. Las líneas horizontales son los cuartiles de las deltas del mes en cuestión. Y mil perdones a todos mis lectores que no sean directivos por explicarles la gráfica como si fuesen tontos.
+
+Se aprecia cómo últimamente estamos volviendo al los entornos de la mediana. Incluso situándonos por debajo de ella puntualmente.
+
+Acabo con una nota técnica para mí: así es como hay que hacer, i.e., usando `geom_hline` para añadir rectas horizontales a las facetas de `ggplot2`.
+
+

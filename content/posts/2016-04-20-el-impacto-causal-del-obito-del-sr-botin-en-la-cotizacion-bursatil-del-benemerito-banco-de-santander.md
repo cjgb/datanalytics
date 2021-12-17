@@ -1,0 +1,92 @@
+---
+author: Carlos J. Gil Bellosta
+date: 2016-04-20 09:13:32+00:00
+draft: false
+title: El impacto causal del óbito del Sr. Botín en la cotización bursátil del benemérito
+  Banco de Santander
+
+url: /2016/04/20/el-impacto-causal-del-obito-del-sr-botin-en-la-cotizacion-bursatil-del-benemerito-banco-de-santander/
+categories:
+- r
+tags:
+- botín
+- causalidad
+- causalimpact
+- r
+- santander
+---
+
+El [Sr. Botín](https://es.wikipedia.org/wiki/Emilio_Bot%C3%ADn), presidente que fue del Banco de Santander, falleció el 2014-09-10. Cabe preguntarse por el [impacto causal _à la Google_](https://www.datanalytics.com/2014/09/23/el-impacto-causal-de-google/) de no continuidad de su gestión a cargo de dicha institución.
+
+Comienzo pues.
+
+Primero los datos:
+
+
+
+    library(<a href="http://inside-r.org/packages/cran/tseries">tseries)
+    library(CausalImpact)
+
+    santander <- get.hist.quote(instrument="san.mc", <a href="http://inside-r.org/r-doc/stats/start">start= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date() - 365*3,
+                                end= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date(), quote="AdjClose",
+                                provider="yahoo", origin="1970-01-01",
+                                compression="d", retclass="zoo")
+
+    bbva <- get.hist.quote(instrument="bbva.mc", <a href="http://inside-r.org/r-doc/stats/start">start= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date() - 365*3,
+                           end= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date(), quote="AdjClose",
+                           provider="yahoo", origin="1970-01-01",
+                           compression="d", retclass="zoo")
+
+    ibex <- get.hist.quote(instrument="^IBEX", <a href="http://inside-r.org/r-doc/stats/start">start= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date() - 365*3,
+                           end= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date(), quote="AdjClose",
+                           provider="yahoo", origin="1970-01-01",
+                           compression="d", retclass="zoo")
+
+    obito.botin <- <a href="http://inside-r.org/r-doc/base/as.Date">as.Date("2014-09-10")
+
+    cotizaciones <- cbind(santander, bbva, ibex)
+    cotizaciones <- cotizaciones[!is.na(cotizaciones$AdjClose.ibex)]
+
+
+
+Con lo anterior, he bajado las cotizaciones diarias de las acciones del Banco de Santander, las del BBVA y la del IBEX 35 durante los últimos tres años. Eso deja la fecha de la muerte del Sr. Botín, aproximadamente, en la mitad.
+
+Los datos que descargo de Yahoo! son el [cierre ajustado](https://help.yahoo.com/kb/SLN2311.html), que tiene en cuenta el efecto de los dividendos, los _splits_, etc. en las distintas cotizaciones.
+
+Ahora voy a ver qué me cuenta [`CausalImpact`](https://google.github.io/CausalImpact/CausalImpact.html), i.e.,
+
+
+
+    impact <- CausalImpact(cotizaciones,
+                           c(min(index(cotizaciones)), obito.botin - 1),
+                           c(obito.botin, max(index(cotizaciones))))
+
+
+
+sobre el efecto causal motivo de esta entrada. Lo que hace la función, lo miráis por ahí. Pero mirad los resultados:
+
+
+
+    plot(impact, metrics = c("original", "pointwise"))
+
+
+
+genera
+
+![causal_impact_santander](/wp-uploads/2016/04/causal_impact_santander.png)
+
+
+que indica (y `summary(impact)` cuantifica) cómo, de acuerdo con los tejemanejes del paquete en cuestión, parece haber un efecto lesivo para los intereses de los accionistas muy significativo.
+
+Y ahora, las concomitancias:
+
+
+
+
+	  * Esta entrada debe mucho a una alumna mía que prefiere cuyo nombre prefiere que no figure porque trabaja en una empresa del susodicho grupo.
+	  * La causalidad es problemática y pudiera ser, incluso, en dirección contraria (que la muerte se debiese a...)
+	  * Abundando en lo anterior, dada la complejidad del mundo en que vivimos, es plausible que la causa fuese otra.
+	  * Me habría sentido más cómodo [estudiando `diff(cotizaciones)` en lugar de `cotizaciones`](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), pero en tal caso el p-valor se crece más allá del 0.05.
+
+
+
