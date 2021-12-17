@@ -7,8 +7,8 @@ type: page
 url: /bio/
 authorbox: false
 menu:
-- main
-- weight: 10
+    main:
+        weight: 10
 ---
 
 {{< figure src="/wp-uploads/2010/05/carlos-gil-bellosta.png" alt="Carlos J. Gil Bellosta" >}}
