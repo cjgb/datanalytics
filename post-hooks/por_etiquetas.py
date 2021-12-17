@@ -49,11 +49,11 @@ def process_freqs(freqs):
 
 with open(target_file, "w") as f:
     print(md_header, file = f)
-    print("## Etiquetas con más de 50 entradas", file=f)
+    print("## Temas con más de 50 entradas", file=f)
     print(process_freqs(freqs_00), file=f)
-    print("## Etiquetas con más de 10 entradas (y menos de 50)", file=f)
+    print("## Temas con más de 10 entradas (y menos de 50)", file=f)
     print(process_freqs(freqs_01), file=f)
-    print("## Etiquetas con más de una entrada (y menos de 10)", file=f)
+    print("## Temas con más de una entrada (y menos de 10)", file=f)
     print(process_freqs(freqs_02), file=f)
-    print("## Etiquetas con una única entrada", file=f)
+    print("## Temas con una única entrada", file=f)
     print(process_freqs(freqs_03), file=f)
