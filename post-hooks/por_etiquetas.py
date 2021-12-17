@@ -35,7 +35,7 @@ headers = [h for h in headers if 'tags' in h]
 tags = [h['tags'] for h in headers if h['date'] < datetime.date.today()]
 tags = [t for lt in tags for t in lt]
 freqs = list([(k, k.replace(" ", "-").lower(), v) for (k, v) in Counter(tags).items()])
-freqs.sort(key = k.lower())
+freqs.sort(key = lambda x: x[0].lower())
 
 out = [f"[{a}](/tags/{c}/) ({b})" for a, c, b in freqs]
 out = "  ·  ".join(out)
