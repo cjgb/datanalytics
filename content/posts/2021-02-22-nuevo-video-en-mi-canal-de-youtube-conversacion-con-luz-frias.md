@@ -13,20 +13,7 @@ tags:
 - youtube
 ---
 
-
-
-
 No hay mucho más que decir.
 
-
-
-
-
-
-
-
-https://youtu.be/ZvtcT-v-qms
-
-
-
+{{< youtube ZvtcT-v-qms >}}
 

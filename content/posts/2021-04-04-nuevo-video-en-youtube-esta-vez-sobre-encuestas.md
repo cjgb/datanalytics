@@ -14,20 +14,7 @@ tags:
 - youtube
 ---
 
-
-
-
 Después de superado el último pico de trabajo y una afonía galopante, vuelvo a la carga con un viejo tema: el de la fiabilidad de las encuestas.
 
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=G--BwF3dUF8
-
-
-
+{{< youtube G--BwF3dUF8 >}}
 

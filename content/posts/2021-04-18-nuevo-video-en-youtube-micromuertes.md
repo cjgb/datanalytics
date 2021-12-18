@@ -14,20 +14,6 @@ tags:
 - youtube
 ---
 
-
-
-
 Nada nuevo que no haya publicado antes por aquí: véase [esto](https://www.datanalytics.com/?s=micromuertes). Solo que esta vez, audiovisualmente (y con una pésima calidad de imagen: aún no le tengo pillado el truco a la cámara).
 
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=jKz-ZQ5zcvk
-
-
-
-
+{{< youtube jKz-ZQ5zcvk >}}

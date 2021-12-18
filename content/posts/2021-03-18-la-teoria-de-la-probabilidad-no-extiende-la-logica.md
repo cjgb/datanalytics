@@ -10,52 +10,19 @@ categories:
 tags:
 - lógica
 - probabilidad
+- fundamentos de probabilidad
+- jaynes
+- hacking
 ---
 
-
-
-
-Después de haber estado un tiempo —hasta tener que interrumpirlo para convertirme en un elemento socialmente productivo— leyendo sobre cómo la teoría de la probabilidad extiende la lógica (Jaynes, Hacking y compañía), he _incurrido_ en _[Probability theory does not extend logic](https://meaningness.com/probability-and-logic)_. Se trata de un ensayito recomendable pero sobre el que advierto a sus posibles lectores que decae rápidamente de mucho al fango.
-
-
-
-
-
-
+Después de haber estado un tiempo ---hasta tener que interrumpirlo para convertirme en un elemento socialmente productivo--- leyendo sobre cómo la teoría de la probabilidad extiende la lógica (Jaynes, Hacking y compañía), he _incurrido_ en [_Probability theory does not extend logic_](https://meaningness.com/probability-and-logic). Se trata de un ensayito recomendable pero sobre el que advierto a sus posibles lectores que decae rápidamente de mucho al fango.
 
 De él extraigo una interpretación muy heterodoxa de la probabilidad condicional expresada en términos de la lógica de predicados. Dice el autor que una expresión del tipo
 
-
-
-
-
-
-
-$latex P(\text{boojum}\;|\; \text{snark}) = 0.4$
-
-
-
-
-
-
+$$ P(\text{boojum} | \text{snark}) = 0.4$$
 
 habría de ser interpretada en términos de la lógica de primer orden tal que
 
-
-
-
-
-
-
-$latex \forall x P(\text{boojum}(x)\;|\; \text{snark}(x)) = 0.4.$
-
-
-
-
-
-
+$$ \forall x P(\text{boojum}(x) |  \text{snark}(x)) = 0.4.$$
 
 Yo disiento (rotundamente), pero me guardo los comentarios para no condicionar las provechosas cavilaciones que, de seguro, despertará la expresión anterior entre los más curiosos de mis lectores.
-
-
-

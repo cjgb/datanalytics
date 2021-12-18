@@ -9,30 +9,17 @@ categories:
 - estadística
 tags:
 - estadística
+- significancia
+- mala ciencia
 ---
-
-
-
 
 Recuerdo el escándalo que me produjo el siguiente modo de razonar _estadístico_ en mi primerísima aproximación al asunto:
 
-
-
-
-
-  * Hago un test de significancia (p.e., para ver si dos muestras tienen la misma varianza).  * Si no es _significativo_, asumo que las varianzas son iguales.  * Sigo con el test siguiente...
-
-
-
-
+* Hago un test de significancia (p.e., para ver si dos muestras tienen la misma varianza).
+* Si no es _significativo_, asumo que las varianzas son iguales.
+* Continúo con el test siguiente...
 
 Salí de aquella clase pensando que los romanos estaban locos. Luego, por no ser el único que parecía circular en sentido contrario por la autopista, di por bueno pulpo como animal de compañía. Ahora observo el razonamiento con una mezcla de menosprecio y condescendencia. Pero aún siento, vívido como el primer día, el encontronazo con ese pseudoargumento lógico-matemático.
-
-
-
-
-
-
 
 ¿También os pasó a vosotros?
 

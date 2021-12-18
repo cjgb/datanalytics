@@ -22,13 +22,13 @@ googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tra
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   dateformat = "2006-1-2"
-  googleFontsLink = "https://fonts.googleapis.com/css?family=Inconsolata|Alegreya:400,400i,700"
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Fira Code|Alegreya:400,400i,700"
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
 [Params.logo]
-  subtitle = "Estadística y análisis de datos" # Logo subtitle
+  subtitle = "Estadística, análisis de datos y más" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -42,5 +42,5 @@ googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tra
 
 [Params.style.vars]
   fontFamilyPrimary = "Alegreya"
-  fontFamilySecondary = "Inconsolata"
+  fontFamilySecondary = "Fira Code"
 

@@ -14,28 +14,11 @@ tags:
 - youtube
 ---
 
-
-
-
 He subido un nuevo vídeo a mi canal,
 
+{{< youtube MXtRkQLXbjw >}}
 
-
-
-
-
-
-
-https://www.youtube.com/watch?v=MXtRkQLXbjw
-
-
-
-
-
-
-
-
-Es una charla de casi una hora con [José Luis Cañadas](https://twitter.com/joscani). Comienza con Stan y luego deriva hacia otros temas de interés estadístico. Como digo en el resumen del vídeo, solo los últimos 3-4 minutos son prescindibles.
+Es una charla de casi una hora con [José Luis Cañadas](https://twitter.com/joscani). Comienza con [Stan](https://www.datanalytics.com/tags/stan/) y luego deriva hacia otros temas de interés estadístico. Como digo en el resumen del vídeo, solo los últimos 3-4 minutos son prescindibles.
 
 
 

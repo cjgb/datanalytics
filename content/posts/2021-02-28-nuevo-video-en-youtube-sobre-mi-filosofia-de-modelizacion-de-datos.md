@@ -11,28 +11,13 @@ tags:
 - anuncios
 - vídeo
 - youtube
+- metodología
+- ciencia de datos
 ---
-
-
-
 
 El vídeo es
 
-
-
-
-
-
-
-
-https://youtu.be/oGjcWWITxMI
-
-
-
-
-
-
-
+{{< youtube oGjcWWITxMI >}}
 
 y si habéis seguido este blog en los últimos tiempos, no hace falta que lo veáis: trata de asuntos la mar de manidos aquí, solo que esta vez en formato audiovisual y dramatizado.
 

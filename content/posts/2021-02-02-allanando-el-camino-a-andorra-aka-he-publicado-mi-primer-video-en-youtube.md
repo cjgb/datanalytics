@@ -10,28 +10,13 @@ categories:
 tags:
 - samian
 - youtube
+- modelos gráficos
+- redes bayesianas
 ---
-
-
-
 
 Por diversos motivos que no vienen al caso pero entre los que se cuentan lo frágil de mi voluntad, he acabado renunciado a renunciar a publicar material en YouTube. Así que he creado un canal (ilustrado por los archifamosísimos dados del perínclito Fomenko) y he publicado el que no cabe duda que será el primero de una larga y exitosa cadena de vídeos:
 
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=79q9cTPulLg
-
-
-
-
-
-
-
+{{< youtube 79q9cTPulLg >}}
 
 Tengo algunas ideas en mente con el que alimentar el canal de contenido que será del gusto de las masas ilustradas y que el tiempo irá desvelando en su debido momento.
 

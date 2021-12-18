@@ -19,8 +19,5 @@ He osado publicar un nuevo vídeo en Youtube sobre el asunto que llenó las port
 {{< youtube h5KaoDF0bKo >}}
 
 
-https://youtu.be/h5KaoDF0bKo
-
-
 
 

@@ -18,28 +18,9 @@ tags:
 - youtube
 ---
 
-
-
-
 Acabo de subir a Youtube mi último vídeo:
 
+{{< youtube u-BmTq_oYho >}}
 
 
-
-
-
-
-
-https://youtu.be/u-BmTq_oYho
-
-
-
-
-
-
-
-
-En él analizo [este hilo de Twitter ](https://twitter.com/matthlerner/status/1376814186173509632) en el que su autor describe un proyecto muy particular —heterodoxo— de _ciencia de datos_ cuyo objetivo consiste identificar y prevenir la fuga de clientes. El hilo ha circulado todo lo viralmente que permite el tema y me ha parecido interesante sacarle un poco de punta.
-
-
-
+En él analizo [este hilo de Twitter ](https://twitter.com/matthlerner/status/1376814186173509632) en el que su autor describe un proyecto muy particular ---heterodoxo--- de _ciencia de datos_ cuyo objetivo consiste identificar y prevenir la fuga de clientes. El hilo ha circulado todo lo viralmente que permite el tema y me ha parecido interesante sacarle un poco de punta.

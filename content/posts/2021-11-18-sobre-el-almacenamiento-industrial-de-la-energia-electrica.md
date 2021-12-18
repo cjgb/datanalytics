@@ -12,6 +12,8 @@ tags:
 - energía
 - mercado eléctrico
 - números
+- baterías
+- cambio climático
 ---
 
 Este es un tema sobre el que sé tan poco que hoy mismo (que no es el día en el que se publica esto) he metido la pata dos veces en Twitter por citar datos que no eran.
