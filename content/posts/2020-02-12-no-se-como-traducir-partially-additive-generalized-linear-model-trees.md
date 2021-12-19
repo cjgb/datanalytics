@@ -14,29 +14,11 @@ tags:
 - palmtree
 - paquetes
 - r
+- zeileis
 ---
-
-
-
 
 Sin embargo, basta con mirar _la foto_
 
-
-
-
-
-
-
 ![](/wp-uploads/2020/02/palmtree-math-1024x788.png)
 
-
-
-
-
-
-
-
 leer la entrada de hace unos días, que se refiere a algo muy parecido (y que, en particular, describe los datos usados en el modelo que representa) y, en el peor de los casos, [esto](https://eeecon.uibk.ac.at/~zeileis/news/palmtree/), para hacerse idea de su utilidad y relevancia.
-
-
-

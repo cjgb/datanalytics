@@ -14,18 +14,9 @@ tags:
 - madrid
 ---
 
-
-
-
 Reproduzco de [aquí](https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/El-Ayuntamiento-de-Madrid-presenta-el-hackathon-Reactiva-Madrid/?vgnextfmt=default&vgnextoid=11fe60ff77781710VgnVCM2000001f4a900aRCRD&vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD):
 
-
-
-
-
-
-
-<blockquote>El Ayuntamiento de Madrid, a través del Área Delegada de Innovación y Emprendimiento, pondrá en marcha el _hackaton_ ‘Reactiva Madrid’ para diseñar estrategias y actuaciones para fomentar el espíritu emprendedor del ciudadano madrileño y apoyar las ideas que puedan derivar en la generación de empleo y de nuevas actividades económicas. [...]
+>El Ayuntamiento de Madrid, a través del Área Delegada de Innovación y Emprendimiento, pondrá en marcha el _hackaton_ ‘Reactiva Madrid’ para diseñar estrategias y actuaciones para fomentar el espíritu emprendedor del ciudadano madrileño y apoyar las ideas que puedan derivar en la generación de empleo y de nuevas actividades económicas. [...]
 >
 > Ante la situación de incertidumbre que viven muchas empresas, ‘Reactiva Madrid’ presenta tres desafíos a las _start-ups_ y pymes innovadoras madrileñas: afrontar la realidad económica tras la pandemia, redefinir el concepto de las ciudades ante la necesidad de nuevos modelos de relación interpersonal y buscar soluciones para aquellos colectivos con necesidades especiales o que dependen de terceras personas para el normal desarrollo de su vida.
 >
@@ -38,8 +29,3 @@ Reproduzco de [aquí](https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayu
 > Las ideas, proyectos y soluciones que describan la necesidad que se quiere atender y resolver se deberán presentar en un vídeo a través de la web [www.reactivamadrid.es/](https://www.reactivamadrid.es/)
 >
 > Además, se busca un efecto multiplicador de esta convocatoria, por lo que se busca que las soluciones puedan servir a otras ciudades y a otros ciudadanos para resolver problemas similares.
->
-> </blockquote>
-
-
-

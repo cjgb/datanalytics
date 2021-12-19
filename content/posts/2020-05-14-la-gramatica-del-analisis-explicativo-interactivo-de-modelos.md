@@ -14,20 +14,12 @@ tags:
 - cajas negras
 - explicación
 - modelos
+- ciencia de datos
+- estadística
+- python
+- r
 ---
-
-
-
 
 Así vendría a traducirse el título de [este artículo](https://arxiv.org/pdf/2005.00497.pdf), que trata de taxonomizar y sistematizar una serie de técnicas muy recientes para explicar modelos de caja negra.
 
-
-
-
-
-
-
 Tal vez no acabe siendo _la manera_ pero, sin duda, acabará habiendo _una_.
-
-
-

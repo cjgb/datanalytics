@@ -26,6 +26,6 @@ Buscando, he encontrado [esto](https://modernstatisticalworkflow.blogspot.com/20
 
 En resumen:
 
-  * Las dos ecuaciones (o conjuntos de ecuaciones) se ajustan simultáneamente extendiendo (apilando) las variables objetivo de ambas ecuaciones y creando la matriz de diseño correspondiente. Es precisamente en la construcción de la matriz de diseño que hay que proceder en dos pasos: primero se generan estimaciones de las varaiables endógenas y luego estas se usan para crear las estimaciones de las objetivo.
-  * La covarianza entre los términos de error se modela explícitamente. El autor de los dos documentos anteriores usa una parametrización de la matriz de covarianzas en términos de escala y correlación.
+* Las dos ecuaciones (o conjuntos de ecuaciones) se ajustan simultáneamente extendiendo (apilando) las variables objetivo de ambas ecuaciones y creando la matriz de diseño correspondiente. Es precisamente en la construcción de la matriz de diseño que hay que proceder en dos pasos: primero se generan estimaciones de las varaiables endógenas y luego estas se usan para crear las estimaciones de las objetivo.
+* La covarianza entre los términos de error se modela explícitamente. El autor de los dos documentos anteriores usa una parametrización de la matriz de covarianzas en términos de escala y correlación.
 

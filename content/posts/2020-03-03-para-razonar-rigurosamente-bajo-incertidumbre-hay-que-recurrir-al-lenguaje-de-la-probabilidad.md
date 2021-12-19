@@ -19,6 +19,3 @@ tags:
 Así arranca [este artículo](https://r-posts.com/xgboostlss-an-extension-of-xgboost-to-probabilistic-forecasting/), que presenta una extensión de XGBoost para predicciones probabilísticas. Es decir, un paquete que promete no solo una estimación del valor central de la predicción sino de su distribución.
 
 La versión equivalente de lo anterior en el mundo de los _random forests_ está descrito [aquí](https://arxiv.org/pdf/1811.05994.pdf), disponible [aquí](https://github.com/ireis/PRF) y mucho me temo que muy pronto voy a poder contar por aquí si está a la altura de las expectativas.
-
-
-

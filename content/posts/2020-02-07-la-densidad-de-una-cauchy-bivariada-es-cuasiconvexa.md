@@ -13,48 +13,19 @@ tags:
 - probabilidad
 ---
 
-
-
-
 Primero, las curvas de nivel:
 
+{{< highlight R "linenos=true" >}}
+x <- seq(-50, 50, length.out = 1000)
 
+tmp <- expand.grid(x = x, y = x)
+tmp$z <- log(dcauchy(tmp$x) * dcauchy(tmp$y))
 
-
-
-
-
-    x <- seq(-50, 50, length.out = 1000)
-
-    tmp <- expand.grid(x = x, y = x)
-    tmp$z <- log(dcauchy(tmp$x) * dcauchy(tmp$y))
-
-    ggplot(tmp, aes(x = x, y = y, z = z)) + stat_contour()
-
-
-
-
-
-
+ggplot(tmp, aes(x = x, y = y, z = z)) + stat_contour()
+{{< / highlight >}}
 
 ![](/wp-uploads/2020/02/curvas_nivel_cauchy.png)
 
-
-
-
-
-
-
-
 Lo de la cuasiconvexidad está contado [aquí](https://en.wikipedia.org/wiki/Quasiconvex_function).
 
-
-
-
-
-
-
 Las consecuencias estadísticas y probabilísticas, para otro rato.
-
-
-

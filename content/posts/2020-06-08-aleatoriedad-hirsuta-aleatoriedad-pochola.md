@@ -15,83 +15,31 @@ tags:
 - sobol
 ---
 
-
-
-
 Contemplando y comparando
-
-
-
-
-
-
 
 ![](/wp-uploads/2020/06/aleatoriedad_hirsuta.png)
 
-
-
-
-
-
-
-
 y
-
-
-
-
-
-
 
 ![](/wp-uploads/2020/06/aleatoriedad_pochola.png)
 
-
-
-
-
-
-
-
 se me han venido a la mente los adjetivos _hirsuto_ y _pocholo_ para calificar las respectivas _formas de aleatoriedad_ que representan. La primera es el resultado del habitual
 
-
-
-
-
-
-
-    n <- 200
-    x <- runif(n)
-    y <- runif(n)
-    plot(x, y, pch = 16)
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+n <- 200
+x <- runif(n)
+y <- runif(n)
+plot(x, y, pch = 16)
+{{< / highlight >}}
 
 mientras que la segunda exige el más sofisticado
 
-
-
-
-
-
-
-    library(randtoolbox)
-    s <- sobol(n, 2, scrambling = 3)
-    x <- s[,1]
-    y <- s[,2]
-    plot(x, y, pch = 16)
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+library(randtoolbox)
+s <- sobol(n, 2, scrambling = 3)
+x <- s[,1]
+y <- s[,2]
+plot(x, y, pch = 16)
+{{< / highlight >}}
 
 Se ve que [Sobol quería rellenar más armoniosamente el espacio](https://en.wikipedia.org/wiki/Sobol_sequence). Me temo que, al hablar de aleatoriedad, muchos de nosotros también (p.e., [esto](https://www.datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/)).
-
-
-

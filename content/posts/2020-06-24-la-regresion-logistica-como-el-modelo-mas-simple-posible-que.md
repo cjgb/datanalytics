@@ -13,18 +13,6 @@ tags:
 - regresión logística
 ---
 
-
-
-
-Problema de regresión. Queremos $latex y = f(\mathbf{x})$. Lo más simple que podemos hacer: fiarlo todo a [Taylor](https://es.wikipedia.org/wiki/Teorema_de_Taylor) y escribir $latex y = a_0 + \sum_i a_i x_i$.
-
-
-
-
-
-
+Problema de regresión. Queremos $y = f(\mathbf{x})$. Lo más simple que podemos hacer: fiarlo todo a [Taylor](https://es.wikipedia.org/wiki/Teorema_de_Taylor) y escribir $ y = a_0 + \sum_i a_i x_i$.
 
 Problema de clasificación. Lo más simple que podemos hacer, de nuevo: linealizar. Pero la expresión lineal tiene rango en $latex (-\infty, \infty)$. Solución, buscar la función $latex f$ más sencilla que se nos pueda ocurrir de $latex (-\infty, \infty)$ en $latex [0, 1]$. Entonces, $latex y = f(a_0 + \sum_i a_i x_i)$.
-
-
-

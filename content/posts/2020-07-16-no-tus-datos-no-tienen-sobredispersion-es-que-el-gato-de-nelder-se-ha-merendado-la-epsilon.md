@@ -15,82 +15,22 @@ tags:
 - sobredispersión
 ---
 
-
-
-
 El modelo de Poisson viene a decir que si `y` es una variable con valores 0, 1,... y `x1`,..., `xn` son variables explicativas tiene cierto sentido en algunos casos plantear un modelo de la forma
 
-
-
-
-
-
-
-$latex y | x_i \sim \text{Pois}(\exp(a_0 + \sum_i a_i x_i) ),$
-
-
-
-
-
-
+$$ y | x_i \sim \text{Pois}(\exp(a_0 + \sum_i a_i x_i) ),$$
 
 Es decir , para cada combinación de las `xi`, el modelo proporciona el parámetro de una distribución de Poisson de la que `y` es una realización. Hay una incertidumbre (o un error irreductible) que reside en que de `y` solo conocemos la distribución.
 
-
-
-
-
-
-
 Pero el modelo anterior tiene un problema, un megaproblema. Un problema enorme, _nachovidaliano_,  en el que apenas se repara y del que en contadas ocasiones nos advierten: que también puede haber un error en la expresión lineal. Más bien: **siempre hay un error en la expresión lineal**. Las `xi` solo recogen _todo_ lo que hay que saber sobre `y` _en laboratorio_.
-
-
-
-
-
-
 
 ¿Qué ocurre si hay un error de especificación? ¿Qué pasa si omitimos alguna variable relevante para determinar y? Para averiguarlo, es útil comenzar planteando un modelo mucho más satisfactorio:
 
+$$ y_j | x_{ij}  \sim \text{Pois}(\exp(a_0 + \sum_i a_i x_{ij} + \epsilon_j))$$
 
-
-
-
-
-
-$latex y_j | x_{ij}  \sim \text{Pois}(\exp(a_0 + \sum_i a_i x_{ij} + \epsilon_j))$
-
-
-
-
-
-
-
-$latex \epsilon_j \sim N(0, \sigma)$
-
-
-
-
-
-
+$$ \epsilon_j \sim N(0, \sigma)$$
 
 con las habituales propiedades de independencia.
 
-
-
-
-
-
-
 El primer modelo [infraestima la variabilidad de las `y`](https://statisticalmodeling.wordpress.com/2011/06/16/the-variance-of-a-mixture/) porque elimina una fuente de variabilidad: la del error de especificación. Aparentemente, tus `y` tienen mayor varianza de la que cabe esperar... de acuerdo con (y solo porque usas un) modelo setentero.
 
-
-
-
-
-
-
 Mañana, algunos números al respecto.
-
-
-

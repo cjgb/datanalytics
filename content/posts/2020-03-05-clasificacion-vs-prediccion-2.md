@@ -14,28 +14,8 @@ tags:
 - teoría de la decisión
 ---
 
-
-
-
 [Aquí](https://www.fharrell.com/post/classification/) se recomienda, con muy buen criterio, no realizar clasificación _pura_, i.e., asignando etiquetas 0-1 (en casos binarios), sino proporcionar en la medida de lo posible probabilidades. Y llegado el caso, distribuciones de probabilidades, claro.
-
-
-
-
-
-
 
 La clave es, por supuesto:
 
-
-
-
-
-
-
-<blockquote>The classification rule must be reformulated if costs/utilities or sampling criteria change.
->
-> </blockquote>
-
-
-
+> The classification rule must be reformulated if costs/utilities or sampling criteria change.

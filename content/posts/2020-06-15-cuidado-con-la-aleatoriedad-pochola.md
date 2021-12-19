@@ -16,80 +16,28 @@ tags:
 - sobol
 ---
 
-
-
-
 Abundo sobre mi [entrada del otro día](https://www.datanalytics.com/2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/). Usando números aleatorios hirsutos,
 
-
-
-
-
-
-
-    n <- 200
-    x <- runif(n)
-    plot(cumsum(x - .5), type = "l")
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+n <- 200
+x <- runif(n)
+plot(cumsum(x - .5), type = "l")
+{{< / highlight >}}
 
 produce
 
-
-
-
-
-
-
 ![](/wp-uploads/2020/06/random_walk_hirsuto.png)
-
-
-
-
-
-
-
 
 mientras que
 
-
-
-
-
-
-
-    library(randtoolbox)
-    s <- sobol(n, 1, scrambling = 3)
-    plot(cumsum(s - .5), type = "l")
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+library(randtoolbox)
+s <- sobol(n, 1, scrambling = 3)
+plot(cumsum(s - .5), type = "l")
+{{< / highlight >}}
 
 genera
 
-
-
-
-
-
-
 ![](/wp-uploads/2020/06/random_walk_pocholo.png)
 
-
-
-
-
-
-
-
 que tiene un cariz totalmente distinto.
-
-
-

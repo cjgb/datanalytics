@@ -13,33 +13,10 @@ tags:
 - ine
 ---
 
-
-
-
 El otro día escribí (véase también [esto](https://www.datanalytics.com/2020/04/09/deberian-publicarse-datos-en-beta/)):
 
-
-
-
-
-
-
-
-https://twitter.com/gilbellosta/status/1253605582495498240
-
-
-
-
-
-
-
+{{< twitter user="gilbellosta" id="1253605582495498240" >}}
 
 Y mirad:
 
-
-
-
-
 ![](/wp-uploads/2020/04/calendario_ine.png)
-
-

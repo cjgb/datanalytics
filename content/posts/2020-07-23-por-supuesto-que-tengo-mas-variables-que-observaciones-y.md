@@ -17,56 +17,21 @@ tags:
 - r
 ---
 
+He intentado replicar los resultados de la [entrada de ayer](https://www.datanalytics.com/2020/07/22/aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson/) con GAM (vía [`mgcv`](https://CRAN.R-project.org/package=mgcv)) así (véase el enlace anterior para la definición de los datos):
 
-
-
-He intentado replicar los resultados de la [entrada de ayer](https://www.datanalytics.com/2020/07/22/aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson/) con GAM (vía `[mgcv](https://CRAN.R-project.org/package=mgcv)`) así (véase el enlace anterior para la definición de los datos):
-
-
-
-
-
-
-
-    library(mgcv)
-    modelo_gam <- gam(
-        y ~ x + s(id, bs = "re"),
-        data = datos,
-        method = "REML",
-        family = "poisson")
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+library(mgcv)
+modelo_gam <- gam(
+    y ~ x + s(id, bs = "re"),
+    data = datos,
+    method = "REML",
+    family = "poisson")
+{{< / highlight >}}
 
 Y nada:
 
-
-
-
-
-
-
-    Error in gam(y ~ x + s(id, bs = "re"), data = datos, method = "REML",  :
-      Model has more coefficients than data
-
-
-
-
-
-
+`Error in gam(y ~ x + s(id, bs = "re"), data = datos, method = "REML",  : Model has more coefficients than data`
 
 Sí, ya sé que tengo más variables que observaciones. Pero, ¿no es para eso que estoy usando [efectos aleatorios](https://stat.ethz.ch/R-manual/R-patched/library/mgcv/html/gamm.html)?
 
-
-
-
-
-
-
 En fin...
-
-
-

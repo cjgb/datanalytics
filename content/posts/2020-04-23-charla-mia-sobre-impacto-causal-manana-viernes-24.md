@@ -15,16 +15,7 @@ tags:
 - charla
 ---
 
-
-
-
 Toda la info, [aquí](https://www.facebook.com/datamining.pe/photos/a.150437521683222/2970500289676917/?type=3&theater) (¡es Facebook!). (Y cuidado con la hora anunciada: ¡es la de Perú! En España será... de madrugada: de 2:00 a 3:00... por un pequeño error de cálculo.)
-
-
-
-
-
-
 
 ![](/wp-uploads/2020/04/93441674_2970500293010250_7877480671000657920_n.jpg)
 

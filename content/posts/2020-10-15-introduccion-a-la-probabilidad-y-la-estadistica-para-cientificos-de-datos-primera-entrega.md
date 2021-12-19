@@ -7,6 +7,7 @@ title: '"Introducción a la probabilidad y la estadística para científicos de 
 
 url: /2020/10/15/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega/
 categories:
+- anuncios
 - estadística
 - libros
 tags:
@@ -15,26 +16,9 @@ tags:
 - probabilidad
 ---
 
-
-
-
 Acabo de colgar el primer par de capítulos de mi libro _[Introducción a la probabilidad y la estadística para científicos de datos](https://datanalytics.com/libro_estadistica/)_. No voy a adelantar nada aquí que no esté contenido en la introducción a la obra (AKA _la introducción de la introducción_). Pero baste este adelanto:
 
-
-
-
-
-
-
-<blockquote>Las peculiaridades de su público explican algunas de las páginas que siguen. Por ejemplo, en ellas no se encontrará ni rigor, ni ortodoxia ni autocompletitud.
->
-> </blockquote>
-
-
-
-
-
-
+>Las peculiaridades de su público explican algunas de las páginas que siguen. Por ejemplo, en ellas no se encontrará ni rigor, ni ortodoxia ni autocompletitud.
 
 Iré añadiendo capítulos y correcciones a lo largo de los próximos meses. Y ruego, por supuesto, la ayuda y comentarios de mis lectores, que agradeceré encarecidamente.
 

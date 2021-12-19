@@ -13,43 +13,16 @@ tags:
 - regresión
 ---
 
-
-
-
 Hay mucha incertidumbre sobre cómo será el mundo post-coronavirus. Pero una cosa es segura: tendremos gráficas tales como
-
-
-
-
 
 ![](/wp-uploads/2020/04/coronavirus_cherry_picking.png)
 
-
-
-
-
-
 hasta en la sopa. La buena noticia para quienes son ellos y su ideología, es que hay tantos _grados de libertad_, i.e., la posibilidad de elegir muy cuidadosamente
 
-
-
-
-
-  * las variables que colocar en el eje x, las fuentes, los años de los datos, etc.,  * los indicadores que colocar en el eje y,  * los países, provincias, regiones, etc., que incluir o excluir en la gráfica,
-
-
-
-
+* las variables que colocar en el eje x, las fuentes, los años de los datos, etc.,
+* los indicadores que colocar en el eje y,
+* los países, provincias, regiones, etc., que incluir o excluir en la gráfica,
 
 que, ¡enhorabuena!,  van poder esgrimir en las redes sociales la pendiente que más le convenga.
 
-
-
-
-
-
-
 Pero va a ser muy, muy aburrido. Ya veréis.
-
-
-

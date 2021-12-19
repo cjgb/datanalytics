@@ -13,34 +13,11 @@ tags:
 - series temporales
 ---
 
-
-
-
 Veo
 
-
-
-
-
-
-
-
-https://twitter.com/jseabold/status/1312415608764600325
-
-
-
-
-
-
-
+{{< twitter user="jseabold" id="1312415608764600325" >}}
 
 y consulto en uno (de los más usados y famosos) de esos manuales españoles (ergo, hiperclásicos) de introducción a la modelización de series temporales y no veo capítulo con el que pueda tratarse razonablemente.
-
-
-
-
-
-
 
 ¡Tiempo de actualizarse (p.e., [así](https://research.fb.com/blog/2017/02/prophet-forecasting-at-scale/))!
 

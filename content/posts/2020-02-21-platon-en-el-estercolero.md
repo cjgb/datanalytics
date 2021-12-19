@@ -12,26 +12,8 @@ tags:
 - matemáticas
 ---
 
-
-
-
 Hoy nos han hablado unos matemáticos. Sí, de esos cuyas distribuciones extremales son Pareto _porque yo lo valgo_.
-
-
-
-
-
-
 
 Alguien, que no yo, ha osado preguntar qué tal ajustaban los modelos. La respuesta, perifrástica nivel _Yes, Minister_, se resumía en un _nos encantaría haber tenido ocasión de comprobarlo_.
 
-
-
-
-
-
-
 Efectivamente, las probabilidades son subjetivas en tanto que financiadas por la Fundación La Caixa.
-
-
-

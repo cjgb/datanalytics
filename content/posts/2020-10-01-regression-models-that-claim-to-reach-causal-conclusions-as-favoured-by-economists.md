@@ -9,17 +9,20 @@ url: /2020/10/01/regression-models-that-claim-to-reach-causal-conclusions-as-fav
 categories:
 - estadística
 - libros
+- causalidad
+- mala ciencia
 tags:
 - causalidad
 - economía
 - libros
 - spiegelhalter
+- mala ciencia
 ---
 
 Voy a guardar el extracto
 
 ![](/wp-uploads/2020/09/modelling_strategies.png)
 
-de _[The Art of Statitstics](https://dspiegel29.github.io/ArtofStatistics/)_ para usarlo con la misma malísima baba que su autor en coyunturas tales como esta:
+de [_The Art of Statitstics_](https://dspiegel29.github.io/ArtofStatistics/) para usarlo con la misma malísima baba que su autor en coyunturas tales como esta:
 
 {{< tweet 1311321662181302272 >}}

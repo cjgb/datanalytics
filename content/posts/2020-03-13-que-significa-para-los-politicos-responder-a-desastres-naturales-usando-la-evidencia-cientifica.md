@@ -15,36 +15,10 @@ tags:
 - política
 ---
 
-
-
-
 Existe una respuesta _naive_ a la pregunta anterior que es la que tal vez en la que estéis pensando.
-
-
-
-
-
-
 
 Pero, ¡ah!, existe también otra _ciencia_, la política, que no lo es menos que otras, en las que la _evidencia_ [dice](https://pdfs.semanticscholar.org/e61f/3902904f978ecc72eea6bdaa420af053c733.pdf) cosas tales como:
 
-
-
-
-
-
-
-<blockquote>Our results show that voters significantly reward disaster relief spending, holding the incumbent presidential party accountable for actions taken after a disaster. In contrast, voters show no response at all, on average, to preparedness spending, even though investing in preparedness produces a large social benefit.
->
-> </blockquote>
-
-
-
-
-
-
+>Our results show that voters significantly reward disaster relief spending, holding the incumbent presidential party accountable for actions taken after a disaster. In contrast, voters show no response at all, on average, to preparedness spending, even though investing in preparedness produces a large social benefit.
 
 Lo cual explica muchas, muchas cosas.
-
-
-

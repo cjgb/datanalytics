@@ -13,46 +13,15 @@ tags:
 - registro civil
 ---
 
-
-
-
 _[Nota: la lista pudiera contener errores. Se ha extraído de un sistema de la informatización o no de los registros civiles está deducida indirectamente.]_
-
-
-
-
-
-
 
 Se ha hablado últimamente de las [discrepancias entre los datos de mortalidad del INE y de MoMo](https://www.datanalytics.com/2020/04/21/defunciones-ine-vs-momo/) y creo que a estas alturas del partido ya sabemos casi todos que se deben a que el segundo sistema solo se nutre de datos de los registros civiles informatizados.
 
+Lo de la informatización de los registros civiles es una especie de vergüenza nacional que expone a la luz lo peor de las partes interesadas ---ministerio, funcionarios, sindicatos, etc.--- como una somera revisión de los resultados que ofrece Google cuando se le pregunta por el tema pone de manifiesto. Como consecuencia (o como motivo, según se mire), es imposible saber en qué estado se encuentran los registros civiles.
 
-
-
-
-
-
-Lo de la informatización de los registros civiles es una especie de vergüenza nacional que expone a la luz lo peor de las partes interesadas —ministerio, funcionarios, sindicatos, etc.— como una somera revisión de los resultados que ofrece Google cuando se le pregunta por el tema pone de manifiesto. Como consecuencia (o como motivo, según se mire), es imposible saber en qué estado se encuentran los registros civiles.
-
-
-
-
-
-
-
-Para que dicha vergüenza sea menos evidente, los poderes públicos parecen haber hecho un estupendo trabajo en que no se pueda encontrar, de existir, la lista de los registros civiles que están informatizados y los que no. Pero aquí viene el sector privado —es decir, yo— a suplir este bien público ante la dejación de funciones de aquellos a quienes corresponde (y que cobran por ello).
-
-
-
-
-
-
+Para que dicha vergüenza sea menos evidente, los poderes públicos parecen haber hecho un estupendo trabajo en que no se pueda encontrar, de existir, la lista de los registros civiles que están informatizados y los que no. Pero aquí viene el sector privado ---es decir, yo--- a suplir este bien público ante la dejación de funciones de aquellos a quienes corresponde (y que cobran por ello).
 
 La lista de la vergüenza de los municipios cuyos registros civiles no están informatizados arranca, por orden decreciente de población, así:
-
-
-
-
 
 <table border="1" >
 <tr >   provincia  municipio  población   </tr>
@@ -957,10 +926,6 @@ La lista de la vergüenza de los municipios cuyos registros civiles no están in
 <td align="right" > 6028
 </td> </tr>
    </table>
-
-
-
-
 
 El resto de la tabla, de 4200 filas en total, puede descargarse de [aquí](/uploads/municipios_no_informatizados.zip).
 

@@ -11,26 +11,9 @@ tags:
 - ciencia de datos
 - justicia
 - sesgo
+- heath
 ---
-
-
-
 
 He escrito en alguna ocasión sobre el tema: véanse (algunas de) las entradas con etiquetas [sesgo](https://www.datanalytics.com/tag/sesgo/), [discriminación](https://www.datanalytics.com/tag/discriminacion/) o [justicia](https://www.datanalytics.com/tag/justicia/). Recientemente he releído un artículo de Joseph Heath, _[Redefining racism](http://induecourse.ca/redefining-racism/)_ (adivinad por qué) que _mutatis mutandis_, ofrece un marco conceptual muy adecuado para repensar el asunto (pista: todo lo que se refiere al llamado _racismo institucional_).
 
-
-
-
-
-
-
 **Nota:** si este fuese un blog al uso y yo tuviese más tiempo del que dispongo, resumiría ese artículo induciéndoos a privaros del placer de leer el original y luego desarrollaría el paralelismo ofendiendo a la inteligencia de los lectores que más me importan. Me abstengo.
-
-
-
-
-
-
-
-
-

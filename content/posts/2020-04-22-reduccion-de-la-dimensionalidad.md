@@ -14,17 +14,7 @@ tags:
 - r
 ---
 
-
-
-
 ![](/wp-uploads/2020/04/dimension_reduccion.png)
-
-
-
-
-
-
-
 
 está extraído de [aquí](https://github.com/gdkrmr/dimRed/blob/master/vignettes/dimensionality-reduction.pdf).
 

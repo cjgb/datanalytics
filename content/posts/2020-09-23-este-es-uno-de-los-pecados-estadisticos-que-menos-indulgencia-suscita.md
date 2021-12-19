@@ -14,36 +14,14 @@ tags:
 - proyecciones
 ---
 
+{{< figure src="/wp-uploads/2020/09/proyecciones.png" caption="INE, Proyecciones de Población 2020-2070 ([enlace](https://www.ine.es/prensa/pp_2020_2070.pdf))" >}}
 
+**Nota para desavisados:** ¿veis cómo se comporta la varianza antes/después?
 
+**Otra nota:** la publicación de las proyecciones de población del INE es casi todos los años motivo de recochineo bloguero. Buscad (p.e., [aquí](http://www.datanalytics.com/tags/proyecciones/)) y encontraréis.
 
-![](/wp-uploads/2020/09/proyecciones.png)
-INE, Proyecciones de Población 2020-2070 ([enlace](https://www.ine.es/prensa/pp_2020_2070.pdf))
-
-
-
-
-
-
-
-_[Nota para desavisados: ¿veis cómo se comporta la varianza antes/después?]_
-
-
-
-
-
-
-
-_[Otra nota: la publicación de las proyecciones de población del INE es casi todos los años motivo de recochineo bloguero. Buscad y encontraréis.]_
-
-
-
-
-
-
-
-_[Nota final: sí, sí, una proyección es lo que ocurriría "si se mantuvieran las
-tendencias actuales". Eso os dirán. Precisamente por eso, esta entrada y el gráfico de más arriba.]_
+**Nota final:** Sí, sí, una proyección es lo que ocurriría _si se mantuvieran las
+tendencias actuales_. Eso os dirán. Precisamente por eso, esta entrada y el gráfico de más arriba.
 
 
 

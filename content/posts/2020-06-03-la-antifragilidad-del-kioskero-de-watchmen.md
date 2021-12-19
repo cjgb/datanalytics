@@ -9,19 +9,10 @@ categories:
 - varios
 tags:
 - antifragilidad
+- watchmen
 ---
 
-
-
-
 ![](/wp-uploads/2020/06/antifragilidad.jpeg)
-
-
-
-
-
-
-
 
 _Fuente: Watchmen, cap. 3, pág. 2_
 

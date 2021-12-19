@@ -16,61 +16,23 @@ tags:
 - mortalidad
 ---
 
-
-
-
 _[Fe de errores: en varias secciones de lo que sigue se hace referencia a 2018 como año completo. En realidad, solo se están usando los datos de los trimestres 2, 3 y 4 de 2018, que es en los que hay solapamiento entre los datos del INE y de MoMo.]_
-
-
-
-
-
-
 
 Es un error tomar las cifras de MoMo literalmente. Está explicado por doquier: MoMo no es el INE sino un sistema de alerta temprana por mortalidad. MoMo es el mejor sistema _rápido_ que existe. El INE es lento (a día de hoy, solo tiene disponibles resultados provisionales de mortalidad del la primera mitad de 2019).
 
-
-
-
-
-
-
 MoMo se basa en los registros civiles _informatizados_ (¿por qué no lo son _todos_ en 2020?). La cobertura del INE es completa.
-
-
-
-
-
-
 
 Luego, siempre surgen dudas sobre dónde asignan los registros civiles (y luego, el INE) a defunciones que ocurren fuera del municipio o provincia del finado.
 
-
-
-
-
-
-
 Por lo tanto, las cifras bailan. Veamos cuánto usando el periodo de solapamiento entre las cifras públicas de una y otra institución:
-
-
-
-
 
 ![](/wp-uploads/2020/04/ine_vs_momo.png)
 
-
-
-
-
-
 Cosas:
 
-
-
-
-
-  * Hay diferencias notables entre ambos organismos en algunas CCAA. Lo de Madrid, en particular, es de escándalo (sí, en Madrid hay algunos municipios importantes que mantienen registros civiles decimonónicos).  * El hecho de que Baleares y, especialmente, en verano, tenga el comportamiento opuesto al resto de las CCAA (más fallecimientos en MoMo que en el INE) da que pensar sobre lo apuntado antes: ¿cómo se registran las defunciones de gente de paso?  * ¿Qué demonios pasa en Asturias en diciembre?
+* Hay diferencias notables entre ambos organismos en algunas CCAA. Lo de Madrid, en particular, es de escándalo (sí, en Madrid hay algunos municipios importantes que mantienen registros civiles decimonónicos).
+* El hecho de que Baleares y, especialmente, en verano, tenga el comportamiento opuesto al resto de las CCAA (más fallecimientos en MoMo que en el INE) da que pensar sobre lo apuntado antes: ¿cómo se registran las defunciones de gente de paso?
+* ¿Qué demonios pasa en Asturias en diciembre?
 
 
 
