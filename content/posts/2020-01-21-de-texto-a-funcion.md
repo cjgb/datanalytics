@@ -10,27 +10,14 @@ categories:
 tags:
 - programación
 - r
+- trucos
 ---
-
-
-
 
 **Problema:** convertir una expresión definida por un usuario (p.e., algo como `"a+b"`) en una función (i.e., `function(a, b) a + b`).
 
-
-
-
-
-
-
 **Solución:**
 
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
     gen_foo <- function(expr){
         my_args <- all.vars(parse(text = expr))
         expr <- paste0("function(",
@@ -38,23 +25,11 @@ tags:
                        ") ", expr)
         eval(parse(text = expr))
     }
-
-
-
-
-
-
+{{< / highlight >}}
 
 **Demostración:**
 
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
     multiplica <- gen_foo("a * b")
     multiplica(5, 31)
-
-
-
+{{< / highlight >}}

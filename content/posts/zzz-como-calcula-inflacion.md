@@ -40,4 +40,4 @@ Ver [esto](http://www.datanalytics.com/2010/10/12/el-indice-de-inflacion-sosteni
 
 Ver esto: http://www.datanalytics.com/2020/07/14/sobre-el-efecto-medio/
 
-Más cosas sobre efectos en subgrupos_: /2020/02/06/model4you/
+Más cosas sobre efectos en subgrupos_: /2020/02/06/model4you/ /2020/01/24/estan-los-hogares-preparados-para-una-nueva-recesion/
