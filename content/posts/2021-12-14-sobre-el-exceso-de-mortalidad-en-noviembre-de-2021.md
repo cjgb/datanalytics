@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2021-12-13
 title: Sobre el exceso de mortalidad en noviembre de 2021
 
-url: /2021/12/09/mas-sobre-exceso-mortalidad-noviembre-2021/
+url: /2021/12/09/sobre-exceso-mortalidad-noviembre-2021/
 categories:
 - estadística
 - números
