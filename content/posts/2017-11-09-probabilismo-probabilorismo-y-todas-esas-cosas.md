@@ -6,12 +6,14 @@ title: Probabilismo, probabilorismo y todas esas cosas
 
 url: /2017/11/09/probabilismo-probabilorismo-y-todas-esas-cosas/
 categories:
-- varios
+- probabilidad
 tags:
 - pascal
 - probabilismo
 - probabilorismo
 - teoría de la decisión
+- fundamentos de probabilidad
+- historia
 ---
 
 La teoría moderna de la decisión, con sus escenarios, recompensas, escenarios, probabilidades y consideraciones de orden sicológico, es cosa del siglo pasado. El principio de máxima verosimilidad también. Si se me apura, incluso, la teoría de la probabilidad propiamente construida.

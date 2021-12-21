@@ -20,14 +20,11 @@ Buscando el otro día (infructosísimamente) información sobre la renta (y su d
 
 ![](/wp-uploads/2017/07/rentas_empresariales_medias.png)
 
-
 En resumen: el en 2015, 3.5 millones de empresarios y autónomos declararon ingresos netos (descontando gastos) de poco más de 8000 euros por barba.
 
 Hipótesis que barajo:
 
-
-
-	  * Que ese número no signifique lo que y pienso que significa.
-	  * Que en el denominador hay autónomos inactivos, autónomos a tiempo ultraparcial, autónomos que se dieron de alta un ratico para cobrar una factura pírrica, etc.
-	  * Que alguien que ni es autónomo ni lo ha sido; que ni ha creado un puesto de trabajo ni es probable que lo cree nunca (ni siquiera para sí mismo) escribirá un comentario que contenga la palabra _fraude_ rodeado del habitual blablablá.
+* Que ese número no signifique lo que y pienso que significa.
+* Que en el denominador hay autónomos inactivos, autónomos a tiempo ultraparcial, autónomos que se dieron de alta un ratico para cobrar una factura pírrica, etc.
+* Que alguien que ni es autónomo ni lo ha sido; que ni ha creado un puesto de trabajo ni es probable que lo cree nunca (ni siquiera para sí mismo) escribirá un comentario que contenga la palabra _fraude_ rodeado del habitual blablablá.
 

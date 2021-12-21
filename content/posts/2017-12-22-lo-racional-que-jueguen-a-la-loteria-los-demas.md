@@ -16,7 +16,3 @@ tags:
 Yo mismo, lo confieso, [he sido uno de los cenizos participantes](https://www.datanalytics.com/2011/12/22/hoy-dia-del-sorteo-de-la-loteria-de-navidad-no-se-publica-entrada/) en esa habitual letanía prenavideña sobre lo conveniente o no de comprar lotería en las que tanto se apela a la racionalidad. En una u otra dirección. Véase, cosecha de la campaña del año pasado, [esto](https://tsevanrabtan.wordpress.com/2016/12/20/no-compres-loteria-compra-materialismo-y-empiriocriticismo/), [esto](http://todoloqueseaverdad.blogspot.com.es/2016/12/la-racionalidad-de-jugar-la-loteria-o.html?m=1), o, más tangencialmente, [esto](http://nadaesgratis.es/pedro-rey-biel/te-arrepientes-de-haber-jugado-a-la-loteria-podria-ser-peor) (y sus enlaces).
 
 Cuando lo verdaderamente racional es hacer por que compren lotería, precisamente, los demás.
-
-
-
-

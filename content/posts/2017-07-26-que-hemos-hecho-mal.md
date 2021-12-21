@@ -15,11 +15,7 @@ tags:
 
 Leo (¡en [prensa](http://blogs.publico.es/repartidor/2017/07/22/el-dia-en-que-de-juana-chaos-se-suicide-con-el-rifle-de-blesa/)!):
 
-
-
-<blockquote>Lo ha dicho el Instituto Nacional de Estadística: desde el inicio de la presunta crisis económica –por otros llamada fraude– el porcentaje de suicidios en España ha crecido un 20%. Nosotros somos cinco hermanos: me toca uno.</blockquote>
-
-
+>Lo ha dicho el Instituto Nacional de Estadística: desde el inicio de la presunta crisis económica ---por otros llamada fraude--- el porcentaje de suicidios en España ha crecido un 20%. Nosotros somos cinco hermanos: me toca uno.
 
 Algo estamos haciendo fatal.
 

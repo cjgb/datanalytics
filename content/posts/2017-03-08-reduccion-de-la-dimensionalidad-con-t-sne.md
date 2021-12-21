@@ -21,29 +21,23 @@ Voy a explicar aquí lo que he aprendido recientemente sobre t-SNE, una técnica
 
 Partimos de puntos $latex x_1, \dots, x_n$ y buscamos otros $latex y_1, \dots, y_n$ en un espacio de menor dimensión. Para ello construiremos primero $latex n$ distribuciones de probabilidad, $latex p_i$ sobre los enteros $latex 1, \dots, n$ de forma que
 
-
-$latex p_i(j) \propto d_x(x_i, x_j),$
-
+$$ p_i(j) \propto d_x(x_i, x_j),$$
 
 donde $latex d_x$ es una determinada distancia entre puntos en el espacio original. De la misma manera, construimos sendas distribuciones de probabilidad, $latex q_i$,
 
 
-$latex q_i(j) \propto d_y(y_i, y_j),$
-
+$$ q_i(j) \propto d_y(y_i, y_j),$$
 
 donde $latex d_y$ es otra distancia entre puntos en el espacio de dimensión inferior.
 
-Lo ideal sería encontrar puntos $latex y_1, \dots, y_n$ tales que cada $latex p_i$ sea lo más parecida posible a la correspondiente $latx q_i$. Por ejemplo, de entre todas las opciones posibles, de manera que la suma de las divergencias de Kullback-Leibler entre las parejas de distribuciones sea lo menor posible.
+Lo ideal sería encontrar puntos $latex y_1, \dots, y_n$ tales que cada $latex p_i$ sea lo más parecida posible a la correspondiente $q_i$. Por ejemplo, de entre todas las opciones posibles, de manera que la suma de las divergencias de Kullback-Leibler entre las parejas de distribuciones sea lo menor posible.
 
 Minimícese esa suma, i.e., encuéntrense los puntos $latex y_1, \dots, y_n$ que la minimizan, y ya.
 
 Más:
 
-
-
-	  * [Detalles](http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
-	  * [Ejemplos de uso.](http://blog.datascienceheroes.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/)
-
+* [Detalles](http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+* [Ejemplos de uso.](http://blog.datascienceheroes.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/)
 
 **Nota curiosa:** creo que he usado el adjetivo distributivo _sendas_ por primera vez en la vida.
 

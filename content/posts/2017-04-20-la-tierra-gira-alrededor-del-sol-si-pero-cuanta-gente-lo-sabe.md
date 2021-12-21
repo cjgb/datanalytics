@@ -11,6 +11,7 @@ tags:
 - encuestas
 - estimación
 - geocentrismo
+- excel
 ---
 
 Pues según la [VIII Encuesta de Percepción de la Ciencia realizado por la Fundación Española para la Ciencia y la Tecnología (Fecyt)](https://www.fecyt.es/sites/default/files/news/attachments/2017/04/epscyt2016_informe_final_web_fecyt.pdf), el 88.3% de los españoles (mayores de cierta edad y tal, supongo).
@@ -26,6 +27,3 @@ Lo que la encuesta muestra es una observación de un factor subyacente y descono
 Ando mal de tiempo para ensayar algo razonable. Pero dejo tirado el guante para que alguno eche a correr montecarlísticas markovcadenas y nos dé una estimación más razonable que la que publiquen todos y nos ilustre a los demás.
 
 _[Mensaje a mi troll: que se sienta libre de intentarlo con `xgboost`.]_
-
-
-

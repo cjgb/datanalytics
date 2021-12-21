@@ -6,9 +6,10 @@ title: Vampírico como antónimo de empírico
 
 url: /2017/09/08/vampirico-como-antonimo-de-empirico/
 categories:
-- varios
+- mala ciencia
 tags:
 - ciencia
+- mala ciencia
 ---
 
 No es exactamente un antónimo, aunque esté más alejado de lo empírico que el _de libro_, i.e., teórico.

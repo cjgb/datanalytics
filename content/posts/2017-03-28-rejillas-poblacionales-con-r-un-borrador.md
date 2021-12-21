@@ -21,17 +21,11 @@ tags:
 
 ![](/wp-uploads/2017/03/C719aiTXkAAzFqX.jpg)
 
-
 me llegó ayer por Twitter (vía [@unnombrealazar](https://twitter.com/unnombrealazar)). En el mapa aparece representada la edad media de la población por provincia (y hoy voy a dar las cloropetas por buenas). Salta a la vista Guadalajara: tiene una edad media ¿sorprendentemente? baja. Tanto que tuve que comprobarlo en el INE. La explicación (siempre a posteriori) más obvia es
 
-
-
-<blockquote>[@gilbellosta](https://twitter.com/gilbellosta) [@unnombrealazar](https://twitter.com/unnombrealazar) inmigrantes que trabajan en el corredor del henares, familias con niños supongo
+>[@gilbellosta](https://twitter.com/gilbellosta) [@unnombrealazar](https://twitter.com/unnombrealazar) inmigrantes que trabajan en el corredor del henares, familias con niños supongo
 >
 > -- jesus alfaro (@jesusalfar) [26 de marzo de 2017](https://twitter.com/jesusalfar/status/845991732726677504)</blockquote>
-
-
-
 
 ¿Será cierto? A saber. Seguramente. Pero, ¿podemos comprobarlo?
 
@@ -39,52 +33,50 @@ Es complicado obtener datos de edades por municipio. No obstante, se me ocurrió
 
 ¿Cómo procesar esos datos? Con R. ¿Cómo procesarlos con R? Con dificultad. Ayer ensayé y no terminé nada presentable. Además, este asunto es muy tangencial a mis intereses más perentorios. No obstante, como es muy instructivo, toca muchos palos y por si a alguien le interesa profundizar en la cosa, copio debajo el código que me sirvió para hacer algo. Es un borrador vergonzante, aviso, y puede contener errores. Úsese con la debida precaución.
 
+{{< highlight R "linenos=true" >}}
+library(raster)
+library(rgdal)
+library(ggmap)
 
+rejillas <- readOGR("mapa", "RJ_CPV_20111101_TT_02_R_INE")
 
+#plot(rejillas)  ¡tarda!
 
-    library(raster)
-    library(rgdal)
-    library(ggmap)
+tmp <- read.csv2("C2011_RejillaEU_Indicadores.csv", sep = ",")
+dat <- merge(rejillas, tmp)
 
-    rejillas <- readOGR("mapa", "RJ_CPV_20111101_TT_02_R_INE")
+dat <- spTransform(dat, CRS("+proj=longlat"))
 
-    #plot(rejillas)  ¡tarda!
+# véase el xls del INE con el diccionario de datos
+#colnames(dat@data)
 
-    tmp <- read.csv2("C2011_RejillaEU_Indicadores.csv", sep = ",")
-    dat <- merge(rejillas, tmp)
+# zona de Guadalajara
+newbbox <- dat@bbox
+newbbox[,1] <- c(-4, -2.5)
+newbbox[,2] <- c(40.25, 42)
+tmp <- crop(dat, extent(t(newbbox)))
 
-    dat <- spTransform(dat, CRS("+proj=longlat"))
+# como no tenemos edad media...
+tmp$ratio_jovenes <- tmp$t3_1 / tmp$t1_1
 
-    #colnames(dat@data)   # véase el xls del INE con el diccionario de datos
+#spplot(tmp, "ratio_jovenes", col = "transparent")
 
-    # zona de Guadalajara
-    newbbox <- dat@bbox
-    newbbox[,1] <- c(-4, -2.5)
-    newbbox[,2] <- c(40.25, 42)
-    tmp <- crop(dat, extent(t(newbbox)))
+# ahora, con el mapa de Google por debajo
+tmp2 <- fortify(tmp)
+tmp3 <- data.frame(
+    id = as.character(tmp$OBJECTID_1),
+    ratio_jovenes = tmp$ratio_jovenes,
+    stringsAsFactors = FALSE)
+tmp2 <- merge(tmp2, tmp3)
 
-    # como no tenemos edad media...
-    tmp$ratio_jovenes <- tmp$t3_1 / tmp$t1_1
+centro <- geocode("Guadalajara, Spain")
+mapa <- get_map(centro, zoom = 9)
+ggmap(mapa) +
+    geom_polygon(aes(
+        fill = ratio_jovenes,
+            x = long, y = lat,
+            group = group),
+        data = tmp2)
+{{< / highlight >}}
 
-    #spplot(tmp, "ratio_jovenes", col = "transparent")
-
-    # ahora, con el mapa de Google por debajo
-    tmp2 <- fortify(tmp)
-    tmp3 <- data.frame(id = as.character(tmp$OBJECTID_1),
-                       ratio_jovenes = tmp$ratio_jovenes,
-                       stringsAsFactors = FALSE)
-    tmp2 <- merge(tmp2, tmp3)
-
-    centro <- geocode("Guadalajara, Spain")
-    mapa <- get_map(centro, zoom = 9)
-    ggmap(mapa) + geom_polygon(aes(fill = ratio_jovenes,
-                                   x = long, y = lat,
-                                   group = group),
-                               data = tmp2)
-
-
-
-
-
-
-
+**Addenda:** Véase [esto](https://www.datanalytics.com/2017/04/19/guadalajara-joven-guadalajara-inconclusa/).

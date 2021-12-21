@@ -20,6 +20,6 @@ Se ve que les mandaban un camión. Y de ese camión tenían que extraer una (var
 
 ¿Cómo se toman muestras representativas de un gramo de la basura de una capital? ¿Por qué no quemar un camión entero en algún horno industrial y yo qué sé? ¿Por qué usar un calorímetro de laboratorio para esa tarea?
 
-- Hombre, ¡es que hay que ser precisos!
+--- Hombre, ¡es que hay que ser precisos!
 
 Moraleja: la historia no queda en una anecdotilla. Es más actual, mucho más actual, de lo que parece. Años después abundan las circunstancias en que [se busca el rigor y la precisión en el lugar equivocado](http://andrewgelman.com/2017/01/20/looking-rigor-wrong-places/).

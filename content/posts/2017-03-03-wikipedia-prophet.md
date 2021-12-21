@@ -18,32 +18,33 @@ El otro día escribí sobre [visitas a la Wikipedia](https://www.datanalytics.co
 
 Hoy con
 
+{{< highlight R "linenos=true" >}}
+library(wikipediatrend)
+library(prophet)
+library(ggplot2)
 
+visitas <- wp_trend(
+    "R_(lenguaje_de_programaci%C3%B3n)",
+    from = "2010-01-01", to = Sys.Date(),
+    lang = "es")
 
+mis.visitas <- visitas[, c("date", "count")]
+colnames(mis.visitas) <- c("ds", "y")
 
-    library(wikipediatrend)
-    library(prophet)
-    library(ggplot2)
+pasado <- mis.visitas[1:1500,]
+m <- prophet(pasado)
 
-    visitas <- wp_trend("R_(lenguaje_de_programaci%C3%B3n)",
-                        from = "2010-01-01", to = Sys.Date(),
-                        lang = "es")
+futuro <- make_future_dataframe(m,
+    periods = nrow(mis.visitas) - 1500)
+prediccion <- predict(m, futuro)
 
-    mis.visitas <- visitas[, c("date", "count")]
-    colnames(mis.visitas) <- c("ds", "y")
-
-    pasado <- mis.visitas[1:1500,]
-    m <- prophet(pasado)
-
-    futuro <- make_future_dataframe(m, periods = nrow(mis.visitas) - 1500)
-    prediccion <- predict(m, futuro)
-
-    pred.plot <- plot(m, prediccion)
-    pred.plot + geom_line(data = mis.visitas[1501:nrow(mis.visitas),],
-                          aes(x = ds, y = y), col = "red", alpha = 0.2) +
-      xlab("fecha") + ylab("visitas") +
-      ggtitle("Predicción de visitas a la página de R\nen la Wikipedia con prophet")
-
+pred.plot <- plot(m, prediccion)
+pred.plot +
+    geom_line(data = mis.visitas[1501:nrow(mis.visitas),],
+        aes(x = ds, y = y), col = "red", alpha = 0.2) +
+    xlab("fecha") + ylab("visitas") +
+    ggtitle("Predicción de visitas a la página de R\nen la Wikipedia con prophet")
+{{< / highlight >}}
 
 
 

@@ -19,12 +19,8 @@ Allá por el 2007 publicó [The Independent](http://www.independent.co.uk/) una 
 
 Este fin de semana he asistido a una serie de conferencias. En una de ellas participaba el representante de una organización que:
 
-
-
-
-	  * Adoptaba de partida una posición militante, de parte, en cierto asunto de interés público.
-	  * Se definía como _data driven_, _evidence driven_, etc.
-
+* Adoptaba de partida una posición militante, de parte, en cierto asunto de interés público.
+* Se definía como _data driven_, _evidence driven_, etc.
 
 La pregunta obvia y que no tuve ocasión de plantear (por eso la traigo aquí) es la siguiente: si los datos y la evidencia se obstinaran en subrayar la bondad de la posición contraria a la que actualmente mantienen, ¿cuál de sus dos principios abandonarían primero?
 

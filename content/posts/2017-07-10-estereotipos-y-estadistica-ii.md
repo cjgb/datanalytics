@@ -14,13 +14,9 @@ tags:
 
 Hace tiempo [escribí](https://www.datanalytics.com/2016/11/25/estereotipos-y-estadistica/):
 
-
-
-<blockquote>El porcentaje de mosquitos que pueden transmitir enfermedades es pequeño, muy pequeño. Sin embargo, decimos mosquitos transmiten enfermedades sin empacho.
-
-Un porcentaje mucho mayor de los libros tienen tapas blandas. Sin embargo, no decimos que los libros tienen tapas blandas.</blockquote>
-
-
+>El porcentaje de mosquitos que pueden transmitir enfermedades es pequeño, muy pequeño. Sin embargo, decimos mosquitos transmiten enfermedades sin empacho.
+>
+>Un porcentaje mucho mayor de los libros tienen tapas blandas. Sin embargo, no decimos que los libros tienen tapas blandas.
 
 (Las frases anteriores no son estrictamente mías: en el enlace hay otros enlaces a sus fuentes y autores).
 
@@ -32,14 +28,6 @@ Cada cual.
 
 La entradilla del artículo reza:
 
-
-
-<blockquote>Son los primeros avances y resultados de un proyecto de investigación inédito en España: 500 personas revisan, uno a uno, cientos de “homicidios de pareja”. El objetivo, **predecirlos**.</blockquote>
-
-
+>Son los primeros avances y resultados de un proyecto de investigación inédito en España: 500 personas revisan, uno a uno, cientos de “homicidios de pareja”. El objetivo, **predecirlos**.
 
 La negrita es mía. Ya sabréis por qué.
-
-
-
-

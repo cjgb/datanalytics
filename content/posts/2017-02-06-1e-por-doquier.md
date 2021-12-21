@@ -11,6 +11,7 @@ tags:
 - bootstrap
 - matemáticas
 - probabilidad
+- permutaciones
 ---
 
 Leía [_¿Es muy difícil (estadísticamente) no dar ni una?_](http://elpais.com/elpais/2017/01/18/el_aleph/1484694639_020312.html), donde se discute la probabilidad de que $latex s(i) \neq i$ $latex \forall i$ cuando $latex s$ es una permutación. El problema está relacionado, como podrá ver quien visite el enlace, con la probabilidad de repetición del sorteo en el juego del amigo invisible.

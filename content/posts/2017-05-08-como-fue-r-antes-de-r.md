@@ -22,17 +22,12 @@ El libro permite echarle un vistazo a algunas líneas de código del S de entonc
 
 ![](/wp-uploads/2017/05/r_plot_1984.png)
 
-
 a instrucciones sobre cómo definir, ¡horror!, macros como
 
 ![](/wp-uploads/2017/05/r_macro_1984.png)
-
 
 y que podrían conducir a código tan horrible como
 
 ![](/wp-uploads/2017/05/r_macro_horrible_1984.png)
 
-
 Dicen los viejos del lugar que S se inspiró en Lisp. Incluso sintácticamente. Una vez, creo recordar, vi código todavía más viejo con una sintaxis todavía más alejada de la que usamos hoy en día. Igual alguien tiene algún enlace. Agradeceríalo.
-
-

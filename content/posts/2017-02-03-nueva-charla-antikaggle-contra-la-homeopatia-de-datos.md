@@ -15,11 +15,7 @@ tags:
 
 La impartiré el día 2017-02-10 en el [Campus de Google](https://www.campus.co/madrid/es) dentro del [_Machine Learning Spain Meetup_](https://www.meetup.com/MachineLearningSpain/) y la he resumido así:
 
-
-
-<blockquote>Kaggle es una plataforma fantástica. Lo sabemos y nos lo han hecho saber innumerables veces. Esta charla es, sin embargo, una revisión crítica sobre lo que puede enseñar y lo que no; sobre el valor que aporta (entre otros, a los participantes) y el que no y sobre, finalmente, la ciencia de datos y una degeneración suya que ha encontrado en Kaggle otra vía de propagación y que he dado en llamar homeopatía de datos.</blockquote>
-
-
+>Kaggle es una plataforma fantástica. Lo sabemos y nos lo han hecho saber innumerables veces. Esta charla es, sin embargo, una revisión crítica sobre lo que puede enseñar y lo que no; sobre el valor que aporta (entre otros, a los participantes) y el que no y sobre, finalmente, la ciencia de datos y una degeneración suya que ha encontrado en Kaggle otra vía de propagación y que he dado en llamar homeopatía de datos.
 
 Los detalles del evento, [aquí](https://www.meetup.com/MachineLearningSpain/events/237397261/).
 

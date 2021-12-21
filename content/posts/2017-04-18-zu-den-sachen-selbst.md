@@ -9,6 +9,7 @@ categories:
 - números
 tags:
 - números
+- bulos
 ---
 
 Circulan _verdades alternativas_, _postverdades_. Se caracterizan (atributo que comparten con muchas _verdades_) por su carácter secundario.

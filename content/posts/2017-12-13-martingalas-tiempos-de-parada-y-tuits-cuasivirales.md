@@ -14,14 +14,7 @@ tags:
 
 El otro día publiqué en Twitter un problema que copié de algún sitio (sinceramente, no recuerdo cuál),
 
-
-
-<blockquote>En un país hipotético, las familias tienen críos hasta que nace el primer varón. En un año, en promedio, nacen:
->
-> -- Carlos Gil Bellosta (@gilbellosta) [10 de diciembre de 2017](https://twitter.com/gilbellosta/status/939898283832553472?ref_src=twsrc%5Etfw)</blockquote>
-
-
-
+{{< twitter user="gilbellosta" id="939898283832553472" >}}
 
 que resultó megaviral en mi humilde _tuitescala_.
 

@@ -17,12 +17,7 @@ Hay mucho por leer. El tiempo es finito y valioso. Es imperativo contar con crit
 
 En una de las primeras diapositivas de la [VIII Encuesta de Percepción de la Ciencia realizado por la Fundación Española para la Ciencia y la Tecnología (Fecyt)](https://www.fecyt.es/sites/default/files/news/attachments/2017/04/epscyt2016_informe_final_web_fecyt.pdf) se muestran las respuestas a la siguiente pregunta:
 
-
-
-<blockquote>
-A diario recibimos informaciones y noticias sobre temas muy diversos. Dígame, por favor, tres temas sobre los que se sienta especialmente interesado/a.</blockquote>
-
-
+>A diario recibimos informaciones y noticias sobre temas muy diversos. Dígame, por favor, tres temas sobre los que se sienta especialmente interesado/a.
 
 Y un 16% de los fulanos/as, dizque por la _ciencia y la tecnología_. Mientras que solo el 5% por _temas de famosos_.
 

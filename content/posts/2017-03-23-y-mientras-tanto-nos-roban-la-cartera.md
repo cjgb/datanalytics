@@ -8,6 +8,7 @@ url: /2017/03/23/y-mientras-tanto-nos-roban-la-cartera/
 categories:
 - estadística
 tags:
+- mala ciencia
 - autopistas
 - prensa
 - proyecciones

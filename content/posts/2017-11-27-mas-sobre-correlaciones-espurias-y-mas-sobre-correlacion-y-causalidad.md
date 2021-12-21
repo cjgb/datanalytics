@@ -18,22 +18,11 @@ tags:
 
 Hoy toca esto:
 
-
-
-<blockquote>Esto es lo que provoca la contaminación: los picos de contaminación coinciden con un aumento radical en los ingresos de los hospitales [https://t.co/GpEBg6hqko](https://t.co/GpEBg6hqko) [pic.twitter.com/tvwS1r3Ldi](https://t.co/tvwS1r3Ldi)
->
-> -- Ignacio Escolar (@iescolar) [23 de noviembre de 2017](https://twitter.com/iescolar/status/933661144052625408?ref_src=twsrc%5Etfw)</blockquote>
-
-
-
+{{< twitter user="iescolar" id= "933661144052625408" >}}
 
 Se trata de una invitación para leer el artículo [_Los picos de contaminación coinciden con un aumento radical en los ingresos hospitalarios_](http://www.eldiario.es/madrid/alta-contaminacion-afecta-pulmones-Madrid_0_473502958.html), un cúmulo de desafueros epilogados por el ya habitual
 
-
-
-<blockquote>[Los resultados de esta investigación tienen puntos en común con la metodología científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención que la tenga.](https://www.datanalytics.com/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/)</blockquote>
-
-
+>[Los resultados de esta investigación tienen puntos en común con la metodología científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención que la tenga.](https://www.datanalytics.com/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/)
 
 En primer lugar y antes de nada, me es obligado felicitar a los dos autores del _estudio_: desde el sector privado, sin ningún tipo de subvención pública y con coste cero para el contribuyente, han llegado a la misma conclusión que un señor, [este](https://www.datanalytics.com/2017/10/03/vivir-del-ruido/), que, aparte de omitir la coletilla anterior en sus artículos, nos cuesta a todos un chorro de euros cada mes.
 
@@ -46,7 +35,6 @@ Una es la causalidad. Si hay causalidad, hay correlación. Bien.
 Otra es la casualidad. V.g.,
 
 ![](/wp-uploads/2017/11/correlation_causality_mountains.png)
-
 
 Internet está lleno de ejemplos. Basta con buscar "_correlation isn't causation_" o jugar un poco con [Google Correlate](https://www.google.com/trends/correlate) para convencerse de ello.
 

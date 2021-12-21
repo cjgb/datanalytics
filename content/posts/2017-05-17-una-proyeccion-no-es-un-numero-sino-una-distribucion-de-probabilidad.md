@@ -8,6 +8,7 @@ url: /2017/05/17/una-proyeccion-no-es-un-numero-sino-una-distribucion-de-probabi
 categories:
 - estadística
 tags:
+- mala ciencia
 - demografía
 - ine
 - proyecciones

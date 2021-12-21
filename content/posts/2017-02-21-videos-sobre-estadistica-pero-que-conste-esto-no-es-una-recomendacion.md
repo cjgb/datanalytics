@@ -11,6 +11,7 @@ tags:
 - estadística
 - vídeos
 - youtube
+- formación
 ---
 
 Alguien me pidió el otro día referencias para aprender estadística. Pero no, no preguntó por libros; preguntó por vídeos.

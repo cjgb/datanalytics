@@ -24,16 +24,14 @@ El número de eventos $latex n_i$ que ocurren el día $latex i$ no se conoce el 
 
 **Los datos**
 
-
-
-
-	  * La distribución de los $latex n_i$ (basados en el histórico).
-	  * La proporción (probabilidad) $latex p_\Delta$ de eventos del día $latex i$ que se conocen el día $latex i+\Delta$.
-
+* La distribución de los $latex n_i$ (basados en el histórico).
+* La proporción (probabilidad) $latex p_\Delta$ de eventos del día $latex i$ que se conocen el día $latex i+\Delta$.
 
 **La solución prebayesiana**
 
-$latex \hat{n}_{i+\Delta} = \frac{1}{p_\Delta} \sum_{j=1}^\Delta n_{ij}$
+Consiste en estimar $\hat{n}_{i+\Delta}$ como
+
+$$\frac{1}{p_\Delta} \sum_{j=1}^\Delta n_{ij}$$
 
 donde $latex n_ij$ es el número de eventos correspondientes al día $latex i$ notificados $latex j$ días después.
 
@@ -43,11 +41,12 @@ Si $latex p_1 \sim 0.01$ y un buen día $latex n_{i1}$ es inhabitualmente alto, 
 
 **El truco cutrebayesiano**
 
-$latex \hat{n}_{i+\Delta} = (1-p_{i\Delta})\mu + \sum_{j=1}^\Delta n_{ij}$
+Consiste en usar como estimación
+
+$$(1-p_{i\Delta})\mu + \sum_{j=1}^\Delta n_{ij}$$
 
 donde $latex \mu$ es la media de la distribución de los $latex n_i$.
 
 **Ejercicio**
 
 ¿Qué carajos tiene esto que ver con el reverendo Bayes?
-

@@ -20,11 +20,8 @@ Lo cuenta muy bien Todd Rose en [_How the Idea of a ‘Normal’ Person Got Inve
 
 Hay tres grandes eras en la estadística moderna:
 
-
-
-	  * La _queteliana_, resumida en la imagen del _hombre medio_: existe un prototipo sobre el que, tal vez, se consideran variaciones. Es decimonónica, pero colea.
-	  * La _kamediana_, que es una versión _pizza partida en ocho_ de la anterior. Es de mitad del siglo pasado y perdura en paleomentes.
-	  * La contemporánea, que contempla cada sujeto en su individualidad (aunque inserta en su circunstancia). Es propia del _big data_ bien hecho.
-
+* La _queteliana_, resumida en la imagen del _hombre medio_: existe un prototipo sobre el que, tal vez, se consideran variaciones. Es decimonónica, pero colea.
+* La _kamediana_, que es una versión _pizza partida en ocho_ de la anterior. Es de mitad del siglo pasado y perdura en paleomentes.
+* La contemporánea, que contempla cada sujeto en su individualidad (aunque inserta en su circunstancia). Es propia del _big data_ bien hecho.
 
 Que se desenvuelva exige deshacer (¿cortar a tajos?) un par de nudos gordianos.

@@ -21,46 +21,34 @@ _Aggiorno_ una [vieja entrada](https://www.datanalytics.com/2012/09/05/los-princ
 
 ![](/wp-uploads/2017/04/cis_violencia_mujer.png)
 
-
 De hecho, el porcentaje que se muestra indica la proporción de los encuestados que mencionaron el asunto como uno de los tres principales problemas de España. La pregunta, de respuesta abierta, aparece así formulada en los cuestionarios:
 
-
-
-<blockquote>
-¿Cuál es, a su juicio, el principal problema que existe actualmente en España? ¿Y el segundo? ¿Y el tercero?</blockquote>
-
-
+>¿Cuál es, a su juicio, el principal problema que existe actualmente en España? ¿Y el segundo? ¿Y el tercero?
 
 El análisis de los otros dos graves problemas a los que se refiere el periodista, los propongo como ejercicio. Como pista, el código:
 
+{{< highlight R "linenos=true" >}}
+library(rvest)
+library(zoo)
+library(xts)
 
+cis.url <- "http://www.cis.es/cis/export/sites/default/-Archivos/Indicadores/documentos_html/TresProblemas.html"
+tmp <- read_html(cis.url)
+tmp <- html_nodes(tmp, "table")
+cis.tab <- html_table(tmp[[2]], fill = TRUE)
 
+nr <- nrow(cis.tab)
+nc <- ncol(cis.tab)
 
-    library(rvest)
-    library(zoo)
-    library(xts)
+fechas <- colnames(cis.tab)[-1]
+fechas <- as.Date(paste("15", fechas, sep = ""), format = "%d%b%y")
 
-    cis.url <- "http://www.cis.es/cis/export/sites/default/-Archivos/Indicadores/documentos_html/TresProblemas.html"
-    tmp <- read_html(cis.url)
-    tmp <- html_nodes(tmp, "table")
-    cis.tab <- html_table(tmp[[2]], fill = TRUE)
+mi.tema <- cis.tab[grep("violencia contra", cis.tab[,1]), -1]
+mi.tema <- as.numeric(mi.tema)
+mi.tema <- zoo(mi.tema, order.by = fechas)
+mi.tema <- mi.tema[!is.na(mi.tema)]
 
-    nr <- nrow(cis.tab)
-    nc <- ncol(cis.tab)
-
-    fechas <- colnames(cis.tab)[-1]
-    fechas <- as.Date(paste("15", fechas, sep = ""), format = "%d%b%y")
-
-    mi.tema <- cis.tab[grep("violencia contra", cis.tab[,1]), -1]
-    mi.tema <- as.numeric(mi.tema)
-    mi.tema <- zoo(mi.tema, order.by = fechas)
-    mi.tema <- mi.tema[!is.na(mi.tema)]
-
-    plot(as.xts(mi.tema),
-         main = "Preocupación por la violencia contra la mujer (CIS)",
-         ylab = "% de los encuestados")
-
-
-
-
-
+plot(as.xts(mi.tema),
+        main = "Preocupación por la violencia contra la mujer (CIS)",
+        ylab = "% de los encuestados")
+{{< / highlight >}}

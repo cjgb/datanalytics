@@ -8,6 +8,7 @@ title: Una comparación de lenguajes de programación en una esquinita pequeña 
 url: /2017/10/06/una-comparacion-de-lenguajes-de-programacion-en-una-esquinita-pequena-de-la-economia/
 categories:
 - r
+- python
 tags:
 - artículos
 - python

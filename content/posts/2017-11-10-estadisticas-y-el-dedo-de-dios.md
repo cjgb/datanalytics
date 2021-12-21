@@ -15,15 +15,13 @@ tags:
 
 He usado el vídeo
 
-https://www.youtube.com/watch?v=6YDHBFVIvIs
+{{< youtube 6YDHBFVIvIs >}}
 
 en un curso de estadística básica para ilustrar a través de experimentos se construyen _histogramas_ y estos _convergen_ a y, en última instancia, justifican el uso de distribuciones de probabilidad.
 
 Es decir,
 
-
 `experimentos -> histogramas -> funciones de distribución`.
-
 
 Y de ahí, el resto.
 

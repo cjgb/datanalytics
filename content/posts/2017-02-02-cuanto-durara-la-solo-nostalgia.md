@@ -25,7 +25,6 @@ En efecto, como dice Elena en el artículo, han sido otras las tildes que han id
 
 ![](/wp-uploads/2017/02/rae_a_tilde.png)
 
-
 Buscad otras parejas con y sin la tilde _demodé_ y veréis más gráficos de tenaza como el anterior.
 
 Lo cual me lleva a plantear lo siguiente: ¿existirá algún lingüísta descriptivista que conozca a [los señores Kaplan y Meier](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator) y que tenga el interés y la paciencia de repasar los cambios ortográficos a pasado para estudiar durante cuánto tiempo sostuvieron y no enmendaron los acentuadores más contumaces sus tildes?

@@ -14,6 +14,7 @@ tags:
 - madrid
 - r
 - series temporales
+- causalidad
 ---
 
 He leído [esto](http://www.eldiario.es/desde-mi-bici/sexto-mes-BiciMAD-municipalizada-resucito_6_647845233.html), que trata de lo distinta que es
@@ -26,7 +27,6 @@ a la izquierda y a la derecha de la línea roja punteada.
 La historia contada desde las posterioris basadas en datos difiere de la apriorística (recordad: ideología = priori). En concreto
 
 ![](/wp-uploads/2017/05/bicimad_causal_impact.png)
-
 
 Reconoceréis una aplicación de [`causalImpact`](https://google.github.io/CausalImpact/CausalImpact.html) y lo que significa el gráfico está comentado en todas partes.
 

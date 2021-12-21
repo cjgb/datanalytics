@@ -6,10 +6,11 @@ title: Advertencias sobre el uso de los n-gramas de Google
 
 url: /2017/11/14/advertencias-sobre-el-uso-de-los-n-gramas-de-google/
 categories:
-- varios
+- nlp
 tags:
 - google
 - ngramas
+- nlp
 ---
 
 Dudaba en si dedicar la entrada a popularizar los n-gramas de Google en lugar de advertir sobre sus sesgos. Pero, habida cuenta de que lo primero sería llover sobre mojado (véase [esto](https://www.datanalytics.com/2016/09/23/importa-mas-la-causalidad-hoy-en-dia/) o [esto](https://www.datanalytics.com/2017/02/02/cuanto-durara-la-solo-nostalgia/)), me he decantado por lo segundo.

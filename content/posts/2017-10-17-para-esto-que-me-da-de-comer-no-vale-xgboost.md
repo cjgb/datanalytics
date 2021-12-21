@@ -25,5 +25,3 @@ Pero esos coeficientes y parámetros raramente se deducen en las ciencias experi
 Algunos nos ganamos el pan últimamente (no, no teorizo; no, no soy un filósofo; me limito a extender lo que indico en la descripción de mis facturas) en calcular esos parámetros y hacer inferencia sobre los mismos: nos dan ecuaciones, nos dan datos y nos preguntan sobre, p.e., $latex \gamma$ y su distribución.
 
 Pero no sé para qué demonios me sirve el dichoso XGBoost para eso. No sé en qué página de esos libros famosos de _ciencia de datos_ hay referencia alguna a ese problema. Aún no he visto la primera competición de Kaggle que trate el asunto.
-
-

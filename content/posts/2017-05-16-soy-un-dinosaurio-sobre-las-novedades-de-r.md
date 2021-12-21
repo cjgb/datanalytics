@@ -9,61 +9,48 @@ categories:
 - r
 tags:
 - r
+- tidyverse
+- dplyr
+- magriter
 ---
 
 Trato de estar abierto a _lo nuevo_. Tantos años soportando dinosaurios me han vacunado contra el conservadurismo tecnológico. De hecho, me produce arcadas. La experiencia, no obstante, me ha hecho permeable al [efecto Lindy](https://en.wikipedia.org/wiki/Lindy_effect), lo que me da ocasión de saludar a mis amigos _emaqueros_.
 
 Las cosas cambian y en R estamos viviendo una especie de revolución. Mi argumento, para impacientes, es que:
 
-
-
-	  * Es más superficial que sustancial: es azúcar sintáctico.
-	  * En ciertos aspectos, no es positiva y mina ciertos principios valiosos que hicieron de R un lenguaje popular.
-
+ * Es más superficial que sustancial: es azúcar sintáctico.
+ * En ciertos aspectos, no es positiva y mina ciertos principios valiosos que hicieron de R un lenguaje popular.
 
 Cuento todo esto a raíz de una [reseña](http://blog.revolutionanalytics.com/2017/05/technical-foundations-of-informatics.html) a un novedoso [curso de R](https://info201-s17.github.io/book/index.html). Lo es en tanto que, dicen:
 
-
-
-
-	  * Ignora los procedimientos clásicos (_old-school_) de manipulación de datos en R e introduce directamente `dplyr`.
-	  * Llega a `ggplot2` sin pasar por `plot`.
-
+* Ignora los procedimientos clásicos (_old-school_) de manipulación de datos en R e introduce directamente `dplyr`.
+* Llega a `ggplot2` sin pasar por `plot`.
 
 Nunca he sido particularmente partidario de `dplyr` por varios motivos:
 
-
-
-	  * Llegó para solucionar problemas que ya no teníamos (gracias a `plyr` y `data.table`).
-	  * No te permite hacer cosas nuevas; pero te obliga a hacerlas de una manera distinta.
-	  * ¿Es algo más que un poco de azúcar sintáctico?
-
+* Llegó para solucionar problemas que ya no teníamos (gracias a `plyr` y `data.table`).
+* No te permite hacer cosas nuevas; pero te obliga a hacerlas de una manera distinta.
+* ¿Es algo más que un poco de azúcar sintáctico?
 
 Ocultar al neófito todo lo que hubo tiene ciertas ventajas (las conozco) pero también un grave inconveniente: esa gente no sabrá leer código ajeno, código anterior. Creo que es mejor enseñar el canon y luego, una vez que alguien sabe escribir
 
-
-
-    a <- foo(b)
-
-
+{{< highlight R "linenos=true" >}}
+a <- foo(b)
+{{< / highlight >}}
 
 advertirle que hay gente que también escribe, y que es lo mismo,
 
-
-
-    a <- b %>% foo
-
-
+{{< highlight R "linenos=true" >}}
+a <- b %>% foo
+{{< / highlight >}}
 
 O que una vez que hace suya la operación (abstracta) _groupby_, decirle que no hay más remedio que asumir que hay tres o cuatro maneras distintas de transcribirla en R. Que la sintaxis, en definitiva, es una añadidura tan superficial y sutil como la diferencia entre el teclado español y el estadounidense. Que en programación hay que ser chomquista, pensar en la [gramática universal](https://en.wikipedia.org/wiki/Universal_grammar) y teclear en la sintaxis que toque.
 
 ¿Y sobre los gráficos? Bien, los de `ggplot2` son resultones. Concedido. Pero muchos no usamos R (solo) para hacer gráficos chulos. Usamos R para analizar datos. Y queremos poder inspeccionar la columna `edad` con un brevísimo
 
-
-
-    hist(dat$edad)
-
-
+{{< highlight R "linenos=true" >}}
+hist(dat$edad)
+{{< / highlight >}}
 
 (¿ocho golpes de tecla?) para entender rápidamente su distribución sin enredarnos en toda la gramática de los gráficos del Sr. Wilkinson.
 

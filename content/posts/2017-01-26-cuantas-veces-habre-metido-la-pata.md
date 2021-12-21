@@ -14,19 +14,11 @@ tags:
 
 Ayer escribí
 
-
-
-$latex N = \sum_i \frac{1}{p_i^2}$
-
-
+$$ N = \sum_i \frac{1}{p_i^2}$$
 
 donde lo suyo era (ya está corregido)
 
-
-
-$latex N = \frac{1}{\sum_i p_i^2}.$
-
-
+$$ N = \frac{1}{\sum_i p_i^2}.$$
 
 Eso me ha hecho replantearme cuántas veces habré metido la pata después de las 1300 entradas largas que llevo escritas. No me refiero a puntos de vista discutibles; tampoco a errores a veces excusables de concordancia; me refiero a cosas como las de ayer, las que sonrojan.
 

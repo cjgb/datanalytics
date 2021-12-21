@@ -14,47 +14,32 @@ tags:
 
 El otro tropezamos con el siguiente _artefacto_:
 
-
-
-
-    a <- list(aa = 12, bb = 14)
-    is.null(a$a)
-    #[1] FALSE
-    a$a
-    #[1] 12
-
-
-
+{{< highlight R "linenos=true" >}}
+a <- list(aa = 12, bb = 14)
+is.null(a$a)
+#[1] FALSE
+a$a
+#[1] 12
+{{< / highlight >}}
 
 No es un _bug_ de R, por que la documentación reza:
 
-
-
-<blockquote>x$name is equivalent to x[["name", exact = FALSE]]</blockquote>
-
-
+>x$name is equivalent to x[["name", exact = FALSE]]
 
 Y se pueden constrastar:
 
-
-
-
-    a[["a", exact = FALSE]]
-    a[["a", exact = TRUE]]
-
-
-
+{{< highlight R "linenos=true" >}}
+a[["a", exact = FALSE]]
+a[["a", exact = TRUE]]
+{{< / highlight >}}
 
 **Comentarios:**
 
-
-
-
-	  * Odio muchísimo los _bugs_ que no son _bugs_ porque están documentados en el la nota ‡2.a.(c), párrafo §23.3 de la sección 14 de un manual oscuro.
-	  * Odio mucho al os gilipollas que se complacen en mandarte a leer manuales.
-	  * Odio mucho las violaciones del [principio de mínima sorpresa](https://en.wikipedia.org/wiki/Principle_of_least_astonishment).
-	  * Soy consciente de que R es, fundamentalmente, una plataforma de análisis interactivo y no (o solo subsidiariamente) un lenguaje de programación.
-	  * Soy consciente de que muchos de los _defaults_ de R se decidieron antes de que se popularizasen los completadores de comandos.
+* Odio muchísimo los _bugs_ que no son _bugs_ porque están documentados en el la nota ‡2.a.(c), párrafo §23.3 de la sección 14 de un manual oscuro.
+* Odio mucho al os gilipollas que se complacen en mandarte a leer manuales.
+* Odio mucho las violaciones del [principio de mínima sorpresa](https://en.wikipedia.org/wiki/Principle_of_least_astonishment).
+* Soy consciente de que R es, fundamentalmente, una plataforma de análisis interactivo y no (o solo subsidiariamente) un lenguaje de programación.
+* Soy consciente de que muchos de los _defaults_ de R se decidieron antes de que se popularizasen los completadores de comandos.
 
 
 

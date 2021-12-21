@@ -22,50 +22,48 @@ No sé si ertéaiss o no de adeurco en que fncniuoa o no, es dicer, que los ttoe
 
 El cdógio, cmoo pormíeta,
 
+{{< highlight R "linenos=true" >}}
+texto <- "Pensando en cómo escribir a prueba de rectores
+plagiarios contumaces recordé esto y lo he implementado
+en R.
 
+No sé si estaréis o no de acuerdo en que funciona o no,
+es decir, que los textos son reconocibles si se fijan
+la primera y última letra de cada palabra y se
+permuta el resto. Lo que sí que es cierto es que añade
+a cada texto una marca característica que denuncia su
+procedencia. Lo malo sería que el rector, copiase la idea,
+el código que copio debajo, permutase las permutaciones y
+quedase como un señor.
 
+(Otra alternativa moderna de encriptación de material académico
+es escribirlo en aragonés).
 
-    texto <- "Pensando en cómo escribir a prueba de rectores
-    plagiarios contumaces recordé esto y lo he implementado
-    en R.
+El código, como prometía,"
 
-    No sé si estaréis o no de acuerdo en que funciona o no,
-    es decir, que los textos son reconocibles si se fijan
-    la primera y última letra de cada palabra y se
-    permuta el resto. Lo que sí que es cierto es que añade
-    a cada texto una marca característica que denuncia su
-    procedencia. Lo malo sería que el rector, copiase la idea,
-    el código que copio debajo, permutase las permutaciones y
-    quedase como un señor.
+letras <- c(letters, LETTERS, "á", "é", "í", "ó", "ú")
+texto.partido  <- strsplit(texto, "")[[1]]
+mascara.letras <- texto.partido %in% letras
 
-    (Otra alternativa moderna de encriptación de material académico
-    es escribirlo en aragonés).
+alterar <- function(x){
+  n <- length(x)
+  if (n <= 2)
+    return(x)
+  c(x[1], sample(x[2:(n-1)], n-2), x[n])
+}
 
-    El código, como prometía,"
+palabra <- character()
 
-    letras <- c(letters, LETTERS, "á", "é", "í", "ó", "ú")
-    texto.partido  <- strsplit(texto, "")[[1]]
-    mascara.letras <- texto.partido %in% letras
-
-    alterar <- function(x){
-      n <- length(x)
-      if (n <= 2)
-        return(x)
-      c(x[1], sample(x[2:(n-1)], n-2), x[n])
-    }
-
+for (i in 1:length(texto.partido)){
+  if (mascara.letras[i]){
+    palabra <- c(palabra, texto.partido[i])
+  } else {
+    if (length(palabra) == 0)
+      next
+    texto.partido[(i - length(palabra)):(i-1)] <- alterar(palabra)
     palabra <- character()
+  }
+}
 
-    for (i in 1:length(texto.partido)){
-      if (mascara.letras[i]){
-        palabra <- c(palabra, texto.partido[i])
-      } else {
-        if (length(palabra) == 0)
-          next
-        texto.partido[(i - length(palabra)):(i-1)] <- alterar(palabra)
-        palabra <- character()
-      }
-    }
-
-    paste(texto.partido, collapse = "")
-
+paste(texto.partido, collapse = "")
+{{< / highlight >}}

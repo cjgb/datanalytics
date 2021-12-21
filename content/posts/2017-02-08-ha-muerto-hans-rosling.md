@@ -10,6 +10,7 @@ categories:
 tags:
 - gapminder
 - obituarios
+- rosling
 ---
 
 ![](/wp-uploads/2017/02/black-ribbon.png)

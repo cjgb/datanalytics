@@ -20,36 +20,30 @@ tags:
 
 Me escriben pidiendo consejo sobre cómo leer datos contenidos en (una serie larga de) ficheros en formatos `.dbf`, `.xlsx` (con un formato extraño) y `.pdf`.
 
-
 **`.dbf`**
 
 No tengo ni curiosidad por averiguar de dónde proceden. Simplemente,
 
-
-        library(foreign)
-        res <-read.dbf("R0010.DBF")
-
+{{< highlight R "linenos=true" >}}
+library(foreign)
+res <-read.dbf("R0010.DBF")
+{{< / highlight >}}
 
 funciona de maravilla.
-
 
 **`.xlsx`**
 
 Estos sí que sé de dónde vienen (y me guardo la opinión). El problema aquí no era leer directamente tablas contenidas en hojas sino ir extrayendo celdas y rangos de hojas. Así que:
 
+{{< highlight R "linenos=true" >}}
+library(readxl)
 
+f <- "blablabla.xlsx"
 
-
-        library(readxl)
-
-        f <- "blablabla.xlsx"
-
-        fecha <- read_excel(f, range = "L1:L2")
-        col1  <- read_excel(f, range = "L2:L7")
-        tabla <- read_excel(f, range = "A14:AJ41")
-
-
-
+fecha <- read_excel(f, range = "L1:L2")
+col1  <- read_excel(f, range = "L2:L7")
+tabla <- read_excel(f, range = "A14:AJ41")
+{{< / highlight >}}
 
 **`.pdf`**
 

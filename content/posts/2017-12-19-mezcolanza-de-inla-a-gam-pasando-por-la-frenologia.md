@@ -10,6 +10,8 @@ categories:
 tags:
 - vademécum
 - varios
+- gam
+- frenología
 ---
 
 Combino en uno cuatro asuntos demasiado prolijos para Twitter pero sobre los que no sé lo suficiente como para desarrollarlos en una entrada entera.

@@ -25,41 +25,32 @@ He bajado los datos y he pintado
 
 que es la suma acumulada de la diferencia entre los avisos entrantes y los resueltos día a día usando
 
+{{< highlight R "linenos=true" >}}
+library(data.table)
+library(xts)
 
+recibidos <- rbindlist(lapply(dir(pattern = "recibi"), fread))
+resueltos <- rbindlist(lapply(dir(pattern = "resu"), fread))
 
+recibidos.fecha <- recibidos[, .(n.recibidos = .N), by = "FECHA_DE_RECEPCION"]
+resueltos.fecha <- resueltos[, .(n.resueltos = .N), by = "FECHA_DE_RECEPCION"]
 
-    library(data.table)
-    library(xts)
+ambos <- merge(recibidos.fecha, resueltos.fecha)
 
-    recibidos <- rbindlist(lapply(dir(pattern = "recibi"), fread))
-    resueltos <- rbindlist(lapply(dir(pattern = "resu"), fread))
+ambos$fecha <- as.Date(ambos$FECHA_DE_RECEPCION, format = "%d/%m/%Y")
+ambos$FECHA_DE_RECEPCION <- NULL
 
-    recibidos.fecha <- recibidos[, .(n.recibidos = .N), by = "FECHA_DE_RECEPCION"]
-    resueltos.fecha <- resueltos[, .(n.resueltos = .N), by = "FECHA_DE_RECEPCION"]
+ambos <- ambos[order(ambos$fecha),]
+ambos$pendientes <- cumsum(ambos$n.recibidos - ambos$n.resueltos)
 
-    ambos <- merge(recibidos.fecha, resueltos.fecha)
-
-    ambos$fecha <- as.Date(ambos$FECHA_DE_RECEPCION, format = "%d/%m/%Y")
-    ambos$FECHA_DE_RECEPCION <- NULL
-
-    ambos <- ambos[order(ambos$fecha),]
-    ambos$pendientes <- cumsum(ambos$n.recibidos - ambos$n.resueltos)
-
-    tmp <- xts(ambos$pendientes, order.by = ambos$fecha)
-    plot(tmp, main = "Avisos pendientes en Avisa Madrid (010, etc.)" ,
-         ylab = "cola de pendientes")
-
-
-
+tmp <- xts(ambos$pendientes, order.by = ambos$fecha)
+plot(tmp, main = "Avisos pendientes en Avisa Madrid (010, etc.)" ,
+        ylab = "cola de pendientes")
+{{< / highlight >}}
 
 Comentarios:
 
-
-
-	  * Supongo que la creciente cola tiene alguna explicación (que ignoro).
-	  * Los datos son muy interesantes y permiten estudiar muchas cosas más. Por ejemplo, repetir el estudio anterior por tipo de aviso (dado que no todos tienen, supongo, la misma relevancia).
-	  * Los datos publicados arrancan en 2015, pero hay resueltos abiertos antes. La cola no arrana en cero.
-	  * Una pregunta teórica: ¿cómo calcularías el tiempo medio de resolución de un aviso si tuvieses que hacerlo?
-
-
-
+* Supongo que la creciente cola tiene alguna explicación (que ignoro).
+* Los datos son muy interesantes y permiten estudiar muchas cosas más. Por ejemplo, repetir el estudio anterior por tipo de aviso (dado que no todos tienen, supongo, la misma relevancia).
+* Los datos publicados arrancan en 2015, pero hay resueltos abiertos antes. La cola no arrana en cero.
+* Una pregunta teórica: ¿cómo calcularías el tiempo medio de resolución de un aviso si tuvieses que hacerlo?

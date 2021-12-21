@@ -18,7 +18,6 @@ Nos engañaron malamente. Nos prometieron que estudiar matemáticas nos abriría
 
 ![](/wp-uploads/2017/03/galileo_empapelado.jpg)
 
-
 No sé si os pasó lo mismo que a mí. Yo nunca vi las matemáticas, la física, la estadística, la ingeniería, etc. como un fin en sí sino, más bien, como un mecanismo para comprender lo que pasaba alrededor, ese mundo complejo, lleno de cachivaches complicados y de [tecnologías prácticamente indistinguibles de la magia](https://en.wikipedia.org/wiki/Clarke's_three_laws).
 
 Dejado llevar, sin embargo, por el flujo de noticias de los últimos tiempos y movido por un adarme de curiosidad sofisticada he venido a tropezar reiteradamente con un magnífico comentarista de lo que acapara el espacio en los periódicos: [Tsevan Rabtan](https://twitter.com/Tsevanrabtan) y su [blog](https://tsevanrabtan.wordpress.com). ¿De qué habla? De muchas cosas, pero las que sigo con mayor interés son las que proyectan una luz cualificada sobre la concatenación de noticias sobre los variopintos asuntos jurídicos en los que parece consistir el estar al día hoy aquí.

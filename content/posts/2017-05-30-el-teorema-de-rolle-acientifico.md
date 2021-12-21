@@ -10,6 +10,8 @@ categories:
 tags:
 - ciencia
 - matemáticas
+- rolle
+- laffer
 ---
 
 Si $latex f$ es una función continua definida en un intervalo cerrado $latex [a, b]$, y derivable sobre el intervalo abierto $latex (a, b)$ y $latex f(a) = f(b)$, entonces existe al menos un punto $latex c \in (a, b)$ tal que $latex f'(c) = 0$.
@@ -22,9 +24,7 @@ Ahora, [el articulista declara el teorema _acientífico_](http://economia.elpais
 
 Coda: corren malos tiempos para la ciencia. Los teoremas son acientíficos y [la ciencia, según el mismo medio, uno de tantos dogmas](http://elpais.com/elpais/2017/05/27/mamas_papas/1495900076_089561.html):
 
-
-
-<blockquote>_Corriere della Sera_ tituló este sábado "Omeopazza" (homeo-locura) el editorial del escritor Massimo Gramellini. "Desgraciadamente hay gente tan débil que no llega a vivir sin apoyarse en un dogma, sea religioso, materialista, científico, anticientífico, carnívoro o vegano", denunció Gramellini.</blockquote>
+>_Corriere della Sera_ tituló este sábado "Omeopazza" (homeo-locura) el editorial del escritor Massimo Gramellini. "Desgraciadamente hay gente tan débil que no llega a vivir sin apoyarse en un dogma, sea religioso, materialista, científico, anticientífico, carnívoro o vegano", denunció Gramellini.
 
 
 

@@ -12,12 +12,12 @@ tags:
 - ggplot2
 - gráficos
 - r
+- pequeños múltiplos
 ---
 
 Me refiero a algo similar a ([referencia](https://twitter.com/datavisitor/status/836648582929330176)):
 
 ![](/wp-uploads/2017/04/mapa_series_usa.jpg)
-
 
 Lo ideal sería crear una función compatible con el sistema de facetas de `ggplot2` con nombre, p.e., `facet_spain` que permitiese disponer cualquier tipo de gráfico en una retícula similar.
 

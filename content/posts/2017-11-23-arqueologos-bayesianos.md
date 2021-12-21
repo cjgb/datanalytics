@@ -13,6 +13,7 @@ tags:
 - estadística bayesiana
 - paquetes
 - r
+- arqueología
 ---
 
 Se ve que hay arqueólogos bayesianos. Un problema con el que se encuentran es que tropiezan con cacharros antiguos y quieren estimar su antigüedad.
@@ -21,18 +22,15 @@ Así que prueban distintos métodos (¿químicos?), cada uno de los cuales con s
 
 El modelo más simple es
 
-
-$latex M_i \sim N(\mu, \sigma_i)$
-
+$$ M_i \sim N(\mu, \sigma_i)$$
 
 donde $latex \mu$ es la antigüedad (desconocida) del artefacto y los $latex \sigma_i$ son las varianzas distintas de los distintos métodos de medida, que arrojan las estimaciones $latex M_i$.
 
 Los hay más entretenidos, como
 
 
-$latex M_{ij} \sim N(\mu_j, \sigma_{j(i)})$
-$latex \mu_j \sim(\mu, \lambda_j)$
-
+$$ M_{ij} \sim N(\mu_j, \sigma_{j(i)})$$
+$$ \mu_j \sim(\mu, \lambda_j)$$
 
 donde hay medidas repetidas (varios $latex i$) para cada uno de $latex j$ instrumentos de medida.
 

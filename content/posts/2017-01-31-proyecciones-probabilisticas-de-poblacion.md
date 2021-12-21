@@ -12,12 +12,12 @@ tags:
 - ine
 - onu
 - proyecciones
+- población
 ---
 
-Cuando escribí que [las proyecciones de población del INE no valían para un carajo](https://www.datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/), todavía no se había publicado `[bayesPop](https://www.jstatsoft.org/article/view/v075i05)`.
+Cuando escribí que [las proyecciones de población del INE no valían para un carajo](https://www.datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/), todavía no se había publicado [`bayesPop`](https://www.jstatsoft.org/article/view/v075i05).
 
 ![](/wp-uploads/2017/01/spanish_population.png)
-
 
 Ahora tienen una excusa menos para no ponerse a la altura de los tiempos.
 

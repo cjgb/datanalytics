@@ -9,19 +9,14 @@ categories:
 - estadística
 tags:
 - encuestas
+- encuestas electorales
 - política
 - psoe
 ---
 
 Me encanta la confianza torera en las encuestas. Ayer domingo se publicaron, que yo sepa, dos sobre lo mismo:
 
-
-
-	  * _[El PSOE se atasca tras las primeras decisiones de Pedro Sánchez](http://politica.elpais.com/politica/2017/07/01/actualidad/1498927428_222042.html)_
-	  * _[Sánchez impulsa al PSOE (25%) al mejor resultado desde la irrupción de Podemos](http://www.elconfidencial.com/espana/2017-07-02/sondeo-encuesta-dym-rajoy-psoe-sanchez-iglesias-rivera_1408025/)_
-
+* _[El PSOE se atasca tras las primeras decisiones de Pedro Sánchez](http://politica.elpais.com/politica/2017/07/01/actualidad/1498927428_222042.html)_
+* _[Sánchez impulsa al PSOE (25%) al mejor resultado desde la irrupción de Podemos](http://www.elconfidencial.com/espana/2017-07-02/sondeo-encuesta-dym-rajoy-psoe-sanchez-iglesias-rivera_1408025/)_
 
 Los comentarios, a la discreción del lector.
-
-
-

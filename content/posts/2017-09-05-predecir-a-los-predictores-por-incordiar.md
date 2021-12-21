@@ -10,6 +10,9 @@ categories:
 tags:
 - elecciones
 - encuestas
+- encuestas electorales
+- sesgo
+- mala ciencia
 - estadística
 ---
 
@@ -19,9 +22,7 @@ Los chefs de encuestas electorales tienen dos discursos —uno previo y otro pos
 
 Existe una _metodología_ alternativa, una hipótesis malévola, que es la que explora el TFM: que los _chefs_ ignoran sus datos y, simplemente, emplatan el _consenso_ de las últimas encuestas publicadas con aliño del sesgo ideológico del medio que apoquina. En términos matematicoides,
 
-
-    encuesta ~ consenso + sesgo
-
+`encuesta ~ consenso + sesgo`
 
 Esta manera de cocinar no deja de ser una hipótesis en tanto que no tengamos metafísico acceso al pensamiento de quienes, indubitablemente, lo negarán por la cuenta que les trae. Pero podríamos usar datos para estimar su plausibilidad. En particular, podríamos tratar de predecir sus predicciones usando ese esquema como modelo.
 
@@ -29,18 +30,15 @@ El consenso, tal como lo tiene calculado Susana, tiene este aspecto:
 
 ![](/wp-uploads/2017/09/consenso_encuestas.png)
 
-
 El ajuste es un tanto menos regular que los que se encuentran publicados por ahí porque solo utilizan información previa. Los _splines_ y demás, usan ventanas que incluyen puntos del futuro incognoscibles hoy.
 
 El sesgo (me limito al del PP aquí) por medio puede estimarse mediante una regresión lineal (donde la variable dependiente es la diferencia entre el valor publicado y el consenso y la independiente el medio) y no sorprenderá a nadie:
 
 ![](/wp-uploads/2017/09/sesgo_encuestas.png)
 
-
 Algunas de las predicciones obtenidas a toro pasado tienen esta pinta:
 
 ![](/wp-uploads/2017/09/predicciones_encuestas.png)
-
 
 Que no está mal del todo, aunque son las que dormirán en una estantería. Las más interesantes deberían ser las que debieran dar continuidad a este trabajo: una aplicación _web_ que anuncie los resultados que publicarían _mañana_ los distintos medios.
 

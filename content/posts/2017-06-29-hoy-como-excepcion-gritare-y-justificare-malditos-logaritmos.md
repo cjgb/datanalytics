@@ -21,9 +21,7 @@ No obstante:
 
 Tenía unos datos (para cada $latex t$) que siguen (me lo juran) un modelo teórico
 
-
-$latex \log y \sim k \exp(-at)$
-
+$$ \log y \sim k \exp(-at)$$
 
 Existen dos opciones para encontrar los parámetros deseados $latex k$ y $latex a$. El primero, tomando logaritmos y aplicando `lm`. El segundo, ajustando un modelo no lineal con, p.e., `nls`.
 
@@ -31,15 +29,11 @@ Existen dos opciones para encontrar los parámetros deseados $latex k$ y $latex 
 
 En mi caso, sin embargo, las diferencias entre los dos modelos eran notables. Porque en un caso se minimiza la suma de los cuadrados de
 
-
-$latex \log y_i - (\log k - a t_i)$
-
+$$ \log y_i - (\log k - a t_i)$$
 
 y en el otro, la de los valores
 
-
-$latex y_i - k \exp(-a t_i).$
-
+$$ y_i - k \exp(-a t_i).$$
 
 Con el segundo planteamiento se tiende, por tanto, a ajustar mejor en la zona en la que los valores $latex y_i$ son grandes. Podría decirse que uno tiene en cuenta los errores absolutos y el otro, los relativos.
 

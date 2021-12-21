@@ -6,9 +6,11 @@ title: Claroscuros que, obviamente, pasan inadvertidos
 
 url: /2017/01/03/claroscuros-que-obviamente-pasan-inadvertidos/
 categories:
-- varios
+- mala ciencia
 tags:
 - ciencia
+- mala ciencia
+- eco
 ---
 
 Entre tanto óbito farandulero en las postrimerías del año que se fue (¿dónde quedó el pobre de [Eco](https://es.wikipedia.org/wiki/Umberto_Eco)?) ha pasado medio desapercibido otro sustancialmente más interesante: el del doctor Henry Heimlich.

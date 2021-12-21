@@ -16,7 +16,6 @@ tags:
 
 ![](/wp-uploads/2017/03/juramento_copias_seguridad.png)
 
-
 Dos personas que conozco han perdido todos sus datos del disco duro recientemente. Esas cosas pasan más frecuentemente de lo que parece.
 
 Así que no seáis pendejos y haced copias de seguridad de todo este finde. Si es posible, en la nube.

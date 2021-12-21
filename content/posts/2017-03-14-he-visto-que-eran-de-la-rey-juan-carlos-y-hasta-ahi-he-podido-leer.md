@@ -9,6 +9,7 @@ categories:
 - varios
 tags:
 - plagio
+- mala ciencia
 ---
 
 Hojeando la prensa no he podido sustraerme al discreto encanto del titular _[El 'pucherazo' del 36](http://www.elmundo.es/cronica/2017/03/12/58c3b8bb46163f9f338b457d.html)_. El texto que encabeza habla, parece, de un libro homónimo en el que se da cuenta del presunto fraude en las elecciones generales de 1936. Los autores, según la entradilla, son _[d]os historiadores, [que] tras cinco años de investigación, aportan las cifras y las pruebas del desvío de votos_.

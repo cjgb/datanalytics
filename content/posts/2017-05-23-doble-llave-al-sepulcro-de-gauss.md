@@ -11,6 +11,7 @@ tags:
 - divulgación
 - matemáticas
 - prensa
+- gauss
 ---
 
 ¿Hasta dónde creéis que estoy de que cuando se hace divulgación matemática en la prensa diaria vuelvan a reciclarse las manidas historias del Gauss jovencito sumando `1:100`, de por dónde sacaba Euler a pasear el perro o de si es posible calcular una raíz cúbica con regla y compás?

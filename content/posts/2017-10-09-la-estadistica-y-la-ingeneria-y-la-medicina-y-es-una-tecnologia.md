@@ -20,21 +20,13 @@ Abundo aquí en un punto polémico de [mi charla de Pamplona](https://www.datana
 
 Pero es conveniente comenzar por el concepto de _técnica_. Que el DRAE define horripilantemente:
 
-
-
-<blockquote>Conjunto de procedimientos y recursos de que se sirve una ciencia o un arte.</blockquote>
-
-
+>Conjunto de procedimientos y recursos de que se sirve una ciencia o un arte.
 
 Y no, no, no... No solo las ciencias o las artes se sirven de técnicas para alcanzar sus fines. También los homeópatas, los curanderos, los chamanes, los echadores de cartas, etc. se sirven de técnicas sin que su actividad pueda calificarse de ciencia (¿o es que se trata de _artes_?).
 
 La que propuse en la charla (que convengo, tiene poca gracia y pudiera afinarse más) era:
 
-
-
-<blockquote>Conjunto de procedimientos y recursos que se usan para alcanzar un objetivo.</blockquote>
-
-
+>Conjunto de procedimientos y recursos que se usan para alcanzar un objetivo.
 
 De manera que pudiese comprender esos procedimientos, a veces complicadísimos y sofisticadísimos, ponen en práctica adivinadores o _científicos de datos_.
 

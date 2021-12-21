@@ -15,7 +15,6 @@ tags:
 
 ![](/wp-uploads/2017/01/tlon.jpg)
 
-
 Si no sabes qué es el análisis novométrico o el ODA (_Optimal Data Analysis_), puedes comenzar por [aquí](https://odajournal.com/). O por [aquí](https://odajournal.com/resources/).
 
 

@@ -18,26 +18,12 @@ A sus 72 años, en 1994, [J. Cohen](https://en.wikipedia.org/wiki/Jacob_Cohen_(s
 
 Traduzco el resumen:
 
-
-
-<blockquote>
-Tras cuatro décadas de severa crítica, el ritual del contraste de hipótesis (NHST) —decisiones mecánicas y dicotómicas alrededor del sagrado criterio del 0.05— todavía perdura. Este artículo repasa los problemas derivados de esta práctica, incluyendo la casi universal malinterpretación del p-valor como la probabilidad de que H0 sea falsa, la malinterpretación de su complementario como la probabilidad de una réplica exitosa y la falsa premisa de que rechazar H0 valida la teoría que condujo a la prueba. Como alternativa, se recomiendan el análisis exploratorio de datos y los métodos gráficos, la mejora y la estandarización progresiva de las medidas, el énfasis en la estimación de los tamaños de los efectos usando intervalos de confianza y el uso adecuado de los métodos estadísticos disponibles. Para garantizar la generalización, los sicólogos deben apoyarse, como ocurre en el resto de las ciencias, en la replicación.
-</blockquote>
-
-
+>Tras cuatro décadas de severa crítica, el ritual del contraste de hipótesis (NHST) —decisiones mecánicas y dicotómicas alrededor del sagrado criterio del 0.05— todavía perdura. Este artículo repasa los problemas derivados de esta práctica, incluyendo la casi universal malinterpretación del p-valor como la probabilidad de que H0 sea falsa, la malinterpretación de su complementario como la probabilidad de una réplica exitosa y la falsa premisa de que rechazar H0 valida la teoría que condujo a la prueba. Como alternativa, se recomiendan el análisis exploratorio de datos y los métodos gráficos, la mejora y la estandarización progresiva de las medidas, el énfasis en la estimación de los tamaños de los efectos usando intervalos de confianza y el uso adecuado de los métodos estadísticos disponibles. Para garantizar la generalización, los sicólogos deben apoyarse, como ocurre en el resto de las ciencias, en la replicación.
 
 Parte de lo que antecede aplica a la sicología, que es el campo de interés del autor (no de quien suscribe aquí sino del artículo). El resto es de interés general:
 
-
-
-
-	  * Usar gráficos, muchos gráficos, buenos gráficos.
-	  * No usar pruebas de hipótesis.
-	  * Como alternativa, construir intervalos de confianza.
-
+* Usar gráficos, muchos gráficos, buenos gráficos.
+* No usar pruebas de hipótesis.
+* Como alternativa, construir intervalos de confianza.
 
 Y en cualquier caso, la lectura del artículo anterior está más que recomendada.
-
-
-
-

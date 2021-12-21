@@ -17,14 +17,11 @@ tags:
 
 ![](/wp-uploads/2017/05/poplines.png)
 
-
 Las alturas corresponden a una cierta potencia de la población residente en la correspondiente rejilla. Los datos son del [SEDAC](http://sedac.ciesin.columbia.edu/) (Socioeconomic Data and Applications Center, Universidad de Columbia) y se pueden bajar gratis si te registras y rellenas un cuestionario tontaina.
 
 El código,
 
-
-
-
+{{< highlight R "linenos=true" >}}
     library(ggplot2)
     options(expressions = 10000)
 
@@ -59,8 +56,6 @@ El código,
                 panel.grid.major=element_blank(),
                 panel.grid.minor=element_blank(),
                 plot.background=element_blank())
-
-
-
+{{< / highlight >}}
 
 Nota: se me olvidó escribir en el cuerpo lo que anunciaba el título, i.e., que esta entrada está inspirada (fusilada, de hecho) en lo esencial de [otras previas](http://spatial.ly/2017/04/population-lines-how-and-why-i-created-it/).

@@ -11,6 +11,9 @@ tags:
 - bélgica
 - epidemiología
 - estadística
+- be-momo
+- momo
+- mortalidad
 ---
 
 Pero en Bélgica sí y es [este](https://epistat.wiv-isp.be/dashboard/).

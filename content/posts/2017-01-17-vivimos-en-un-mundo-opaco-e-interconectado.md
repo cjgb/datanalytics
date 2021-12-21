@@ -7,11 +7,12 @@ title: Vivimos en un mundo opaco e interconectado
 url: /2017/01/17/vivimos-en-un-mundo-opaco-e-interconectado/
 categories:
 - r
-- varios
+- mala ciencia
 tags:
 - ciencia
 - r
 - stan
+- mala ciencia
 ---
 
 Vivimos en un mundo opaco: como en los cuentecillos de Asimov, somos usuarios de tecnologías que ni conocemos ni controlamos. Parametrizamos nuestras máquinas y las echamos a correr. Poco más podemos hacer que fiarnos de quienes nos las proporcionan.

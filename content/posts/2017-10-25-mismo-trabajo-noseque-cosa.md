@@ -24,5 +24,3 @@ Hay fenómenos, como temperaturas, presiones, potencias o paralajes, fáciles de
 Pero, ¿el trabajo? ¿Cómo se mide el trabajo? Si te apeas de la metafísica, miras alrededor y tratas de cuantificar y medir no _el_ sino _un_ trabajo, verás que está sujeto a tal cantidad de casos que condenan a cualquier intento de ensayo de establecer baremos al mismo baúl de los trastos que aquel _benemérito_ sistema político que lo tenía por pilar fundamental.
 
 Termino con un caso real. Cuatro personas trabajan en un problema durante un mes sin llegar a nada. Llaman a un consultor externo con ideas nuevas y ducho en maneras laterales de pensar. Lo resuelve en dos días. ¿Quién ha desarrollado más trabajo (asumiendo que eso tiene sentido)? ¿Cuál debiera ser la justa remuneración del consultor externo bajo el bienintencionado aunque pueril criterio de _mismo trabajo, misma remuneración_?
-
-

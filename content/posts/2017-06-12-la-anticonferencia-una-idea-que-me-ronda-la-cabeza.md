@@ -29,11 +29,9 @@ Pero creo que los de [rOpenSci](https://ropensci.org/) dieron en el clavo con su
 
 Nada de esto tendría sentido si no existiese un objetivo en mente. Pero, afortunadamente, lo hay. Igual que los de rOpenSci crean herramientas para acceder a APIs de interés científico, nosotros, en España, deberíamos ocuparnos por crear herramientas similares que accediesen a fuentes de datos disponibles vía API de interés para los usuarios _de aquí_. Por ejemplo,
 
-
-
- 	  * la nueva [API del INE](http://www.ine.es/dyngs/DataLab/manual.html?cid=45),
- 	  * la de [ESIOS/REE](https://www.esios.ree.es/es/pagina/api),
- 	  * la de [Cartociudad](http://www.cartociudad.es/) (aunque ya está disponible [esto](https://github.com/cjgb/caRtociudad)),
- 	  * ¿otras?
+* la nueva [API del INE](http://www.ine.es/dyngs/DataLab/manual.html?cid=45),
+* la de [ESIOS/REE](https://www.esios.ree.es/es/pagina/api),
+* la de [Cartociudad](http://www.cartociudad.es/) (aunque ya está disponible [esto](https://github.com/cjgb/caRtociudad)),
+* ¿otras?
 
 Ahora estoy sin tiempo, pero dejo caer la idea para que vaya calando, madurando y tal vez un día nos veamos unos cuantos portátil en ristre machacando servidores a golpe de [`httr`](https://cran.r-project.org/web/packages/httr/index.html).

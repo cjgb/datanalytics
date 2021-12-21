@@ -9,6 +9,7 @@ categories:
 - r
 tags:
 - r
+- trucos
 ---
 
 ![](/wp-uploads/2017/06/corchete.jpg)
@@ -16,21 +17,17 @@ tags:
 
 [Ad]Mirad esta pequeña maravilla de código:
 
+{{< highlight R "linenos=true" >}}
+n <- 100
+dat <- data.frame(
+  y = rnorm(100),
+  x = sample(letters[1:3], n, replace = T)
+  )
 
+medias <- tapply(dat$y, dat$x, mean)
+dat$x.trans <- medias[dat$x]
 
-
-    n <- 100
-    dat <- data.frame(
-      y = rnorm(100),
-      x = sample(letters[1:3], n, replace = T)
-      )
-
-    medias <- tapply(dat$y, dat$x, mean)
-    dat$x.trans <- medias[dat$x]
-
-    head(dat)
-
-
-
+head(dat)
+{{< / highlight >}}
 
 El corchete está manifiestamente infravalorado.

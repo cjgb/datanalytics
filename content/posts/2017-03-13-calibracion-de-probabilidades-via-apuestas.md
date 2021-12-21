@@ -23,13 +23,11 @@ Del primero extraigo el gráfico
 
 ![](/wp-uploads/2017/03/calibration_bets_00.png)
 
-
 que muestra la descalibración entre las frecuencias reales (eje vertical) y las probabilidades deducidas de los precios (eje horizontal). La calibración es particularmente mala para los eventos de índole política: a ojo, un poco menos del 10% de los eventos a la que las apuestas asignaron una probabilidad del 20% ocurrieron; y ocurrieron más del 80% de los eventos a las que las apuestas daban una probabilidad del 70%. Las probabilidades para los eventos no políticos parecen estar mejor ajustadas.
 
 La calidad de la calibración depende también (¡obviamente!) del tiempo hasta que sucede el evento:
 
 ![](/wp-uploads/2017/03/calibration_bets_01.png)
-
 
 Así que, en resumen, parece que habría cierta confianza en que esa probabilidad asignada por las casas de apuestas podría ser una buena guía en este caso.
 

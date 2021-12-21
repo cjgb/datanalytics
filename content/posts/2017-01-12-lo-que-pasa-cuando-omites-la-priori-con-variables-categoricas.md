@@ -20,15 +20,14 @@ Catástrofe:
 
 ![](/wp-uploads/2017/01/coefs_sin_prior.png)
 
-
 (Coeficientes hasta 15000. Sin tasa, con tiempo. Los valores desorbitados, en ceros de la `dummy`).
 
 Priori.
 
-`
+{{< highlight R "linenos=true" >}}
 for (i in 1:n_ccaa)
     Cccaa[i] ~ cauchy(0, 20);
-`
+{{< / highlight >}}
 
 ¿Por qué no?
 

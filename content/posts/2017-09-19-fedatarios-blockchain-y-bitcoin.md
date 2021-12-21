@@ -10,6 +10,7 @@ categories:
 tags:
 - bitcoin
 - blockchain
+- bitcoin
 ---
 
 Dos veces me han preguntado al respecto. Por no aburrir ni aburrirme y poder contestar con una URL, escribo esta entrada en la que deslindo tres conceptos que por razones históricas y de la misma complejidad del asunto, se entreveran y confunden.

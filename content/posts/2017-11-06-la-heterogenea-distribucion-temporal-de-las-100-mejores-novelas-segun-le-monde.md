@@ -19,24 +19,21 @@ Me ha interesado no obstante la distribución de su fecha de publicación. Si su
 
 ![](/wp-uploads/2017/11/distribucion_fecha_publicacion.png)
 
-
 El código, por si a alguno le aprovecha,
 
+{{< highlight R "linenos=true" >}}
+library(rvest)
 
+res <- read_html("https://en.m.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century")
+res <- html_nodes(res, "table")
+res <- html_table(res)
 
+annos <- res[[1]]$Year
+annos <- gsub("–.*", "", annos)
+annos <- as.numeric(annos)
 
-    library(rvest)
+decadas <- 10 * floor(annos / 10)
+decadas[decadas < 1900] <- 1900
 
-    res <- read_html("https://en.m.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century")
-    res <- html_nodes(res, "table")
-    res <- html_table(res)
-
-    annos <- res[[1]]$Year
-    annos <- gsub("–.*", "", annos)
-    annos <- as.numeric(annos)
-
-    decadas <- 10 * floor(annos / 10)
-    decadas[decadas < 1900] <- 1900
-
-    barplot(table(decadas), horiz = F, las = 2)
-
+barplot(table(decadas), horiz = F, las = 2)
+{{< / highlight >}}

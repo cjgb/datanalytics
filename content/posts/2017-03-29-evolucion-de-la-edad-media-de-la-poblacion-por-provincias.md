@@ -21,42 +21,39 @@ Abundo en la [entrada de ayer](https://www.datanalytics.com/2017/03/28/rejillas-
 
 ![](/wp-uploads/2017/03/evolucion_edad_media_provincias.png)
 
-
 En el gráfico anterior se muestra la evolución de la edad media de la población de las provincias españolas como diferencia con respecto a una _evolución media_ calculada como la regresión lineal de todas las edades medias con respecto al año. Es decir, algo así como evolución relativa.
 
 Se aprecian claramente los rejuvenecimientos relativos de Guadalajara y, en menor medida, Toledo. Especialmente acusados durante este siglo.
 
 Los [datos son del INE](http://www.ine.es/jaxiT3/Tabla.htm?t=3199) y descargados en formato PC-Axis. El código,
 
+{{< highlight R "linenos=true" >}}
+library(pxR)
+library(ggplot2)
 
+pob <- read.px("3199.px")
+pob <- as.data.frame(pob)
+pob$Sexo <- NULL
 
+pob$Periodo <- as.numeric(as.character(pob$Periodo))
 
-    library(pxR)
-    library(ggplot2)
+# ggplot(pob, aes(x = Periodo, y = value)) +
+#   geom_line() + facet_wrap(~ Provincias)
 
-    pob <- read.px("3199.px")
-    pob <- as.data.frame(pob)
-    pob$Sexo <- NULL
+modelo <- lm(value ~ Periodo, dat = pob)
 
-    pob$Periodo <- as.numeric(as.character(pob$Periodo))
+pob$pred <- predict(modelo, pob)
+pob$diff <- pob$value - pob$pred
 
-    # ggplot(pob, aes(x = Periodo, y = value)) +
-    #   geom_line() + facet_wrap(~ Provincias)
+tmp <- pob[pob$Periodo == max(pob$Periodo),]
+tmp$Provincias <- reorder(tmp$Provincias, tmp$diff, max)
+pob$Provincias <- factor(pob$Provincias, levels = levels(tmp$Provincias))
+#pob$Provincias <- reorder(pob$Provincias, pob$diff, max)
 
-    modelo <- lm(value ~ Periodo, dat = pob)
+pob$fecha <- as.Date(paste0(pob$Periodo, "-12-31"))
 
-    pob$pred <- predict(modelo, pob)
-    pob$diff <- pob$value - pob$pred
-
-    tmp <- pob[pob$Periodo == max(pob$Periodo),]
-    tmp$Provincias <- reorder(tmp$Provincias, tmp$diff, max)
-    pob$Provincias <- factor(pob$Provincias, levels = levels(tmp$Provincias))
-    #pob$Provincias <- reorder(pob$Provincias, pob$diff, max)
-
-    pob$fecha <- as.Date(paste0(pob$Periodo, "-12-31"))
-
-    ggplot(pob, aes(x = fecha, y = diff)) +
-      geom_hline(aes(yintercept = 0, col = "red", alpha = 0.5)) +
-      geom_line() + facet_wrap(~ Provincias, ncol = 4) +
-      theme(legend.position="none")
-
+ggplot(pob, aes(x = fecha, y = diff)) +
+  geom_hline(aes(yintercept = 0, col = "red", alpha = 0.5)) +
+  geom_line() + facet_wrap(~ Provincias, ncol = 4) +
+  theme(legend.position="none")
+{{< / highlight >}}

@@ -17,7 +17,6 @@ Me instan a hablar de
 
 ![](/wp-uploads/2017/06/canas_espana.png)
 
-
 que procede de [aquí](http://cocinillas.elespanol.com/2017/06/cuanto-cuesta-una-cerveza/) y donde se compara el precio de una cerveza en la _plaza mayor_ de las capitales de provincia españolas (a propósito, ¿cuál es la plaza mayor de Zaragoza o Soria?). Dejando el resto (casi todas, de hecho) de las cuestiones de lado, nos centraremos en el gráfico.
 
 ¿Qué nos dice la teoría sobre gráficos como este? Primero, que de entre todas las _estéticas_ (usando la nomenclatura propia de `ggplot2`), las que mejor captura el ojo son `x` e `y`. Es decir, las distancias horizontales y verticales. Luego vienen el color, la pendiente, la forma, la transparencia, etc.
@@ -29,4 +28,3 @@ Y han preferido utilizar las estéticas más potentes para recordarnos nuevament
 Un diagrama de barras (o puntos) tal vez ordenable dinámicamente por provincia (para poder ubicar rápidamente la de uno) o importe (para compararla con el total) habría sido igual de sencillo pero, probablemente, más eficaz.
 
 Y todo lo anterior, sin entrar en rangos o variaciones sobre las medias.
-

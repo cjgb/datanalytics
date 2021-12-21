@@ -14,12 +14,11 @@ tags:
 - ruido
 ---
 
-
-	  1. Tienes acceso a la serie histórica de hospitalizaciones (p.e. en Madrid) por diversas (muchas) causas.
-	  2. Tienes acceso a la serie histórica de mediciones de distintos factores ambientales (p.e., en Madrid): ruido, óxidos de nitrógeno, partículas en suspensión,...
-	  3. Buscas correlaciones (y, por supuesto, las encuentras).
-	  4. Les asocias [p-valore espurios](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/).
-	  5. Lo escribes en inglés (frecuentemente) y publicas:
+1. Tienes acceso a la serie histórica de hospitalizaciones (p.e. en Madrid) por diversas (muchas) causas.
+2. Tienes acceso a la serie histórica de mediciones de distintos factores ambientales (p.e., en Madrid): ruido, óxidos de nitrógeno, partículas en suspensión,...
+3. Buscas correlaciones (y, por supuesto, las encuentras).
+4. Les asocias [p-valore espurios](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/).
+5. Lo escribes en inglés (frecuentemente) y publicas:
 
     * _Effect of Environmental Factors on Low Weight in Non-Premature Births: A Time Series Analysis_
     * _Effects of noise on telephone calls to the Madrid Regional Medical Emergency Service (SUMMA 112)_
@@ -32,8 +31,6 @@ tags:
     * _Association between environmental factors and emergency hospital admissions due to Alzheimer's disease in Madrid_
     * _Saharan dust intrusions in Spain: Health impacts and associated synoptic conditions_
     * _Emergency multiple sclerosis hospital admissions attributable to chemical and acoustic pollution: Madrid (Spain), 2001-2009_
-
-
 
 ¡Eso es a lo que Lakatos llama un señor [programa de investigación científica](https://en.wikipedia.org/wiki/Imre_Lakatos#Research_programmes)!
 

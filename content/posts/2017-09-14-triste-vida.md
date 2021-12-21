@@ -15,12 +15,11 @@ tags:
 - estadística
 ---
 
-
-	  * Recorrer multitud de [senderos que se bifurcan](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/).
-	  * Maximizar la correlación.
-	  * Alegar causalidad.
-	  * Facturar.
-	  * Iterar.
+* Recorrer multitud de [senderos que se bifurcan](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/).
+* Maximizar la correlación.
+* Alegar causalidad.
+* Facturar.
+* Iterar.
 
 
 

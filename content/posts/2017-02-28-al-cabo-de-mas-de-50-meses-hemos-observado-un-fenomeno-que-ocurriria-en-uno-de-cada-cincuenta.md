@@ -11,29 +11,19 @@ categories:
 tags:
 - números
 - poisson
+- varianza
+- prensa
 ---
 
 En efecto,
 
-
-
-
-    mean(rpois(100000, 28 * 60 / 365) >= 10)
-    #[1] 0.01964
-
-
-
+{{< highlight R "linenos=true" >}}
+mean(rpois(100000, 28 * 60 / 365) >= 10)
+#[1] 0.01964
+{{< / highlight >}}
 
 Por referencia,
 
-
-
-	  * 28 es el número de días de febrero
-	  * 60 viene de [aquí](http://www.ine.es/ss/Satellite?L=es_ES&c=INESeccion_C&cid=1259926144037&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout)
-	  * 10 viene de [aquí](http://www.elmundo.es/cronica/2017/02/26/58b147d0468aebf1788b465c.html)
-
-
-
-
-
-
+* 28 es el número de días de febrero
+* 60 viene de [aquí](http://www.ine.es/ss/Satellite?L=es_ES&c=INESeccion_C&cid=1259926144037&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout)
+* 10 viene de [aquí](http://www.elmundo.es/cronica/2017/02/26/58b147d0468aebf1788b465c.html)

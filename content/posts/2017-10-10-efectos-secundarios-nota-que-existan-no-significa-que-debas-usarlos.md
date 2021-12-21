@@ -18,22 +18,18 @@ Una función no debería cambiar nada de cuanto la rodea. Debería devolver algo
 
 R deja que los usuarios se disparen en el pie permitiendo hacer cosas tan peligrosas como:
 
+{{< highlight R "linenos=true" >}}
+a <- new.env()
 
+a$1     # error
 
+foo <- function(){
+  a$a <- 1
+}
 
-    a <- new.env()
-
-    a$1     # error
-
-    foo <- function(){
-      a$a <- 1
-    }
-
-    foo()
-    a$a
-    # [1] 1
-
-
-
+foo()
+a$a
+# [1] 1
+{{< / highlight >}}
 
 De la misma manera, si le enseñas un cuchillo a una vieja, es posible que te dé su bolso con todo lo que contiene. Pero eso no significa que debas usar los cuchillos para tales fines.

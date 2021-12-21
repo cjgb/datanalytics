@@ -12,12 +12,12 @@ tags:
 - demografía
 - guadalajara
 - mapas
+- siane
 ---
 
 Continuando con [mi serie sobre la Guadalajara demográfica](https://www.datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/),
 
 ![](/wp-uploads/2017/04/jovenes_guadalajara.png)
-
 
 que muestra la proporción de menores de 16 por municipio en la provincia.
 
@@ -29,45 +29,34 @@ El segundo tema es que Manuel Garrido [ha publicado](https://pybonacci.es/2017/0
 
 ![](/wp-uploads/2017/04/edad_media_espana.png)
 
-
 en su blog y, habiéndome faltado el tiempo para fusilar su diseño, hago pender el testigo a la altura de los ojos por si alguien lo toma. Le servirá
 
+{{< highlight R "linenos=true" >}}
+library(rgdal)
+library(pxR)
+library(plyr)
+library(RColorBrewer)
 
+raw <- readOGR("~/ign_siane/SIANE_CARTO_BASE_S_3M/historico",
+                "se89_3_admin_muni_a_x")
 
+edades <- read.px("00019002.px", encoding = "latin1")
+edades <- as.data.frame(edades)
+edades <- edades[edades$Nacionalidad..español.extranjero. == "Total",]
+edades <- edades[edades$Sexo == "Ambos sexos", ]
+edades <- edades[edades$Municipios != "Total",]
 
-    library(rgdal)
-    library(pxR)
-    library(plyr)
-    library(RColorBrewer)
+edades$Nacionalidad..español.extranjero. <- edades$Sexo <- NULL
+edades <- dcast(edades, Municipios ~ Edad..grandes.grupos.)
+edades$pct.jovenes <- edades[["Menores de 16 años"]] / edades$Total
+edades <- edades[, c("Municipios", "pct.jovenes")]
 
-    raw <- readOGR("~/ign_siane/SIANE_CARTO_BASE_S_3M/historico",
-                   "se89_3_admin_muni_a_x")
+edades$id_ine <- gsub("-.*", "", edades$Municipios)
 
-    edades <- read.px("00019002.px", encoding = "latin1")
-    edades <- as.data.frame(edades)
-    edades <- edades[edades$Nacionalidad..español.extranjero. == "Total",]
-    edades <- edades[edades$Sexo == "Ambos sexos", ]
-    edades <- edades[edades$Municipios != "Total",]
+dat <- merge(raw, edades, all.x = FALSE)
 
-    edades$Nacionalidad..español.extranjero. <- edades$Sexo <- NULL
-    edades <- dcast(edades, Municipios ~ Edad..grandes.grupos.)
-    edades$pct.jovenes <- edades[["Menores de 16 años"]] / edades$Total
-    edades <- edades[, c("Municipios", "pct.jovenes")]
-
-    edades$id_ine <- gsub("-.*", "", edades$Municipios)
-
-    dat <- merge(raw, edades, all.x = FALSE)
-
-    my.palette <- brewer.pal(n = 7, name = "Blues")
-    spplot(dat, "pct.jovenes",
-           col.regions = my.palette, cuts = 6,
-           col = "transparent")
-
-
-
-
-
-
-
-
-
+my.palette <- brewer.pal(n = 7, name = "Blues")
+spplot(dat, "pct.jovenes",
+        col.regions = my.palette, cuts = 6,
+        col = "transparent")
+{{< / highlight >}}

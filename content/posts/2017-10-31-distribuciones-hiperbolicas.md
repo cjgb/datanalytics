@@ -15,25 +15,20 @@ tags:
 - r
 ---
 
-
+{{< highlight R "linenos=true" >}}
     curve(-sqrt(x^2 + 1), -5, 5)
-
+{{< / highlight >}}
 
 
 pinta una rama de hipérbola,
 
 ![](/wp-uploads/2017/10/hiperbola.png)
 
-
 que, una vez exponenciada, i.e.,
 
-
-
-
+{{< highlight R "linenos=true" >}}
     curve(exp(-sqrt(x^2 + 1)), -5, 5)
-
-
-
+{{< / highlight >}}
 
 da
 
@@ -44,12 +39,9 @@ Es decir, una curva algo menos esbelta que la normal pero que bien podemos divid
 
 Tres notas sobre ella:
 
-
-
-
-	  * Tiene una historia curiosa. Fue considerada por [Ralph Bagnold](https://en.wikipedia.org/wiki/Ralph_Alger_Bagnold) al estudiar la forma de las dunas y la sedimentación de la arena arrastrada por el viento. El logaritmo de sus curvas, se ve, tenía forma de hipérbola.
-	  * Lo cual os proporciona un exótico contraejemplo al argumento habitual sobre la naturaleza omniatractora de la normal.
-	  * La distribución hiperbólica (y sus extensiones) están disponibles en el paquete [`ghyp`](https://cran.r-project.org/web/packages/ghyp/index.html), motivado por aplicaciones financieras, como siempre. Esa gente es adicta a distribuciones con colas gruesas. Aunque para lo que les valen luego...
+* Tiene una historia curiosa. Fue considerada por [Ralph Bagnold](https://en.wikipedia.org/wiki/Ralph_Alger_Bagnold) al estudiar la forma de las dunas y la sedimentación de la arena arrastrada por el viento. El logaritmo de sus curvas, se ve, tenía forma de hipérbola.
+* Lo cual os proporciona un exótico contraejemplo al argumento habitual sobre la naturaleza omniatractora de la normal.
+* La distribución hiperbólica (y sus extensiones) están disponibles en el paquete [`ghyp`](https://cran.r-project.org/web/packages/ghyp/index.html), motivado por aplicaciones financieras, como siempre. Esa gente es adicta a distribuciones con colas gruesas. Aunque para lo que les valen luego...
 
 
 

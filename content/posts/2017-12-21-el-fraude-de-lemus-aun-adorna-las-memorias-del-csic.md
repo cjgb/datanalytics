@@ -7,8 +7,9 @@ title: El fraude de Lemús aún adorna las memorias del CSIC
 url: /2017/12/21/el-fraude-de-lemus-aun-adorna-las-memorias-del-csic/
 categories:
 - varios
+- mala ciencia
 tags:
-- ciencia
+- mala ciencia
 - csic
 - fraude
 ---

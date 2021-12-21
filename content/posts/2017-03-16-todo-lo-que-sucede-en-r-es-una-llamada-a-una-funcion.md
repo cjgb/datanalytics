@@ -11,26 +11,19 @@ categories:
 tags:
 - computación
 - r
+- trucos
 ---
 
 En serio, es así. ¿También `if`? Pues también. De hecho,
 
-
-
-
-    `if`(1 == 3, print("a"), print("b"))
-
-
-
+{{< highlight R "linenos=true" >}}
+`if`(1 == 3, print("a"), print("b"))
+{{< / highlight >}}
 
 Y eso permite, por ejemplo, que funcionen expresiones tales como
 
-
-
-
-    a <- if (1 == 3) 4 else 5
-
-
-
+{{< highlight R "linenos=true" >}}
+a <- if (1 == 3) 4 else 5
+{{< / highlight >}}
 
 tan útiles como poco empleadas en general. También son funciones `(`, `{` y otras que aparecen en [la sección _.Internal vs .Primitive_ del documento _R Internals_](https://cran.r-project.org/doc/manuals/r-release/R-ints.html#g_t_002eInternal-vs-_002ePrimitive).

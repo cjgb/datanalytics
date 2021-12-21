@@ -32,12 +32,10 @@ Es importante subrayar el asunto de los incentivos, que es en el fondo lo que ha
 
 A la vista del libro _actual_ y de las transacciones pendientes de registrar, los distintos mineros se lanzan a una carrera para construir el siguiente bloque. Su incentivo consiste en:
 
-
-
- 	  1. Empaquetar el mayor número posible de transacciones pendientes dentro del límite máximo de 1MB.
- 	  2. Utilizar solo transacciones válidas (o el bloque sería rechazado).
- 	  3. Priorizar aquellas transacciones que proporcionen mayores comisiones. En efecto, al realizar una transferencia, los usuarios sugieren una comisión para inducir a los mineros a tenerla en cuenta: a mayor comisión, mayor probabilidad de inclusión en el siguiente bloque.
- 	  4. Capturar un premio de 12.5 _bitcoins_ que el minero puede anotarse como recompensa por los servicios prestados. (Nota: actualmente son 12.5 _bitcoins_; antes fueron más y llegará un momento en que serán menos. La recompensa [se reduce a la mitad cada cierto número de ciclos](http://www.bitcoinblockhalf.com/) de manera que el número final de _bitcoins_ en circulación nunca exceda los 21 millones).
+1. Empaquetar el mayor número posible de transacciones pendientes dentro del límite máximo de 1MB.
+2. Utilizar solo transacciones válidas (o el bloque sería rechazado).
+3. Priorizar aquellas transacciones que proporcionen mayores comisiones. En efecto, al realizar una transferencia, los usuarios sugieren una comisión para inducir a los mineros a tenerla en cuenta: a mayor comisión, mayor probabilidad de inclusión en el siguiente bloque.
+4. Capturar un premio de 12.5 _bitcoins_ que el minero puede anotarse como recompensa por los servicios prestados. (Nota: actualmente son 12.5 _bitcoins_; antes fueron más y llegará un momento en que serán menos. La recompensa [se reduce a la mitad cada cierto número de ciclos](http://www.bitcoinblockhalf.com/) de manera que el número final de _bitcoins_ en circulación nunca exceda los 21 millones).
 
 En dinero contante y sonante, sumando la compensación y las comisiones, el premio por publicar exitosamente un bloque es actualmente, con el _bitcoin_ en la órbita de los 7000 dólares, de unos cien mil euros.
 
@@ -52,18 +50,16 @@ Para obligar a esperar a los nodos, estos reciben problema computacional cuyo ti
 El problema en cuestión, en forma simplificada, consiste en encontrar una solución para la desigualdad
 
 
-$latex f(B_{n-1}, B_n, N) < d$
+$$ f(B_{n-1}, B_n, N) < d$$
 
 
 donde:
 
-
-
- 	  * $latex f$ es una función positiva que involucra _hashes_ (estilo [SHA-256](https://es.wikipedia.org/wiki/SHA-2)) de sus argumentos. De hecho, es un _hash_ de sumas de los _hashes_ de sus argumentos. Así que la manera más simple de describir el problema anterior vendría a ser algo así como _encontrar un valor cuyo hash sea menor que cierto valor dado_. O, incluso, sacrificando la precisión en aras de la concisión, _invertir un hash_.
- 	  * $latex B_n$ es el candidato a bloque $latex n$-ésimo que se busca proponer de acuerdo con las condiciones indicadas más arriba.
- 	  * $latex B_{n-1}$ es el bloque anterior. Esto es importante por un motivo y fundamental por otro. Importante porque impone la secuencialidad en el libro, i.e., impide que se ramifique. Pero es fundamental porque es la clave del _consenso_ del sistema. La forma positiva que tiene el acto de aceptación de un bloque es, precisamente, que una mayoría de los mineros lo incorporan a sus cálculos. Un minero mohicano podría empeñarse en seguir minandon una cadena ajena al consenso, pero sería ignorado por el resto y los _bitcoins_ que se asignase en su empeño solipsista valdrían solo para su autocontemplación.
- 	  * $latex N$ es un número, conocido en la jerga como el _nonce_, que puede ser elegido libremente por el minero.
- 	  * $latex d$, la _dificultad_, es un parámetro especificado por el sistema que gradúa la complejidad del problema para [mantener estable el tiempo de búsqueda](https://en.bitcoin.it/wiki/Difficulty) independientemente de la capacidad de cálculo del sistema. Obviamente, a menor $latex d$, mayor complejidad.
+* $latex f$ es una función positiva que involucra _hashes_ (estilo [SHA-256](https://es.wikipedia.org/wiki/SHA-2)) de sus argumentos. De hecho, es un _hash_ de sumas de los _hashes_ de sus argumentos. Así que la manera más simple de describir el problema anterior vendría a ser algo así como _encontrar un valor cuyo hash sea menor que cierto valor dado_. O, incluso, sacrificando la precisión en aras de la concisión, _invertir un hash_.
+* $latex B_n$ es el candidato a bloque $latex n$-ésimo que se busca proponer de acuerdo con las condiciones indicadas más arriba.
+* $latex B_{n-1}$ es el bloque anterior. Esto es importante por un motivo y fundamental por otro. Importante porque impone la secuencialidad en el libro, i.e., impide que se ramifique. Pero es fundamental porque es la clave del _consenso_ del sistema. La forma positiva que tiene el acto de aceptación de un bloque es, precisamente, que una mayoría de los mineros lo incorporan a sus cálculos. Un minero mohicano podría empeñarse en seguir minandon una cadena ajena al consenso, pero sería ignorado por el resto y los _bitcoins_ que se asignase en su empeño solipsista valdrían solo para su autocontemplación.
+* $latex N$ es un número, conocido en la jerga como el _nonce_, que puede ser elegido libremente por el minero.
+* $latex d$, la _dificultad_, es un parámetro especificado por el sistema que gradúa la complejidad del problema para [mantener estable el tiempo de búsqueda](https://en.bitcoin.it/wiki/Difficulty) independientemente de la capacidad de cálculo del sistema. Obviamente, a menor $latex d$, mayor complejidad.
 
 Y eso es esencialmente todo en una primera aproximación. No obstante, quiero añadir la respuesta que he encontrado a algunas preguntas razonables que me surgieron mientras leía sobre el asunto y cuya discusión más arriba habrían roto el hilo del discurso.
 

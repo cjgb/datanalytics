@@ -21,37 +21,27 @@ Las SVMs (o más propiamente, los clasificadores de margen máximo) son exótico
 
 ![](/wp-uploads/2017/09/maximo_margen.png)
 
-
 con o sin penalización para los puntos que insisten en permanecer en la región del espacio que no les corresponde. El _modelo_ se ajusta resolviendo un problema de minimización inhabitual: uno de los llamados programas cuadráticos convexos. (Del que no nos tenemos que preocupar habitualmente porque delegamos la resolución en el _software_).
 
 Sin embargo, preparando el material, vine a tropezar con una reformulación del problema anterior, que lo reduce a la minimización de una función de pérdida particular. En efecto, en la sección 12.3.2 del archiconocido [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/) se plantea cómo en el contexto habitual de la clasificación (penalizada)
 
 
-$latex \min \sum_1^N L(y_i, f(x_i)) + \frac{\lambda}{2} \|\beta\|^2,$
-
+$$ \min \sum_1^N L(y_i, f(x_i)) + \frac{\lambda}{2} \|\beta\|^2,$$
 
 donde $latex f(x) = h(x) \beta + \beta_0$, se obtiene
 
-
-
-
- 	  * la regresión logística (penalizada) si $latex L(y, x) = \log(1 + \exp(-yf(x))$ y
- 	  * SVM cuando $latex L(y, x) = [1 - yf(x)]_+$ (donde $latex [x]_+$ representa la parte positiva de $latex x$).
-
+* la regresión logística (penalizada) si $latex L(y, x) = \log(1 + \exp(-yf(x))$ y
+* SVM cuando $latex L(y, x) = [1 - yf(x)]_+$ (donde $latex [x]_+$ representa la parte positiva de $latex x$).
 
 Resumiendo, en el fondo, estamos haciendo, casi, regresión logística (con o sin _kernels_, dependiendo de $latex h$) dado que las dos funciones de pérdida son, geométricamente, bastante parecidas:
 
 ![](/wp-uploads/2017/09/hinge_loss.png)
 
-
 **Comentarios:**
 
-
-
-
-	  * Me encantan los resultados que subsumen unas cosas en otras.
-	  * Busqué y no encontré referencias a cuándo fue y de mano de quién que vino a obtenerse esta reformulación. ¿Será del mismo Vapnik? ¿Será de otro? ¿Será [esta](http://cbcl.mit.edu/publications/ps/evgeniou-reviewall.pdf)? ¿Le sabría malo?
-	  * Es posible ajustar _modelos_ SVM sin tener que plantear un programa cuadrático, etc. Basta con minimizar la función de pérdida anterior directamente, como hace el paquete [`gcdnet`](https://cran.r-project.org/web/packages/gcdnet/index.html) de R.
+* Me encantan los resultados que subsumen unas cosas en otras.
+* Busqué y no encontré referencias a cuándo fue y de mano de quién que vino a obtenerse esta reformulación. ¿Será del mismo Vapnik? ¿Será de otro? ¿Será [esta](http://cbcl.mit.edu/publications/ps/evgeniou-reviewall.pdf)? ¿Le sabría malo?
+* Es posible ajustar _modelos_ SVM sin tener que plantear un programa cuadrático, etc. Basta con minimizar la función de pérdida anterior directamente, como hace el paquete [`gcdnet`](https://cran.r-project.org/web/packages/gcdnet/index.html) de R.
 
 
 

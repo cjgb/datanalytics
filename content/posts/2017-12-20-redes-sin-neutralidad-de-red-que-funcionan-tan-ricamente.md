@@ -28,7 +28,6 @@ Hace años, y no sé si todavía, existían paquetes de llamadas a números amig
 
 ![](/wp-uploads/2017/12/net_neutrality.jpg)
 
-
 y no pasó nada grave. De hecho, las llamadas telefónicas al extranjero cuestan cero euros hoy en día.
 
 Hay muchas redes de gestión privada, pública, semipública, etc. con distintos grados de regulación e intervención que no se rigen por los criterios de la neutralidad en la red y que funcionan tan ricamente. Ninguno de los augurios de los partidarios más apocalípticos de la neutralidad de la red en internet han ocurrido en otras.

@@ -11,6 +11,8 @@ tags:
 - estadística
 - gráficos
 - provincias
+- varianza
+- áreas pequeñas
 ---
 
 El gráfico
@@ -22,7 +24,6 @@ ha estado dando vueltas por el ciberespacio. Lo vi en Twitter de mano de alguien
 
 ![](/wp-uploads/2017/11/renta_regiones_mejorado.png)
 
-
 [aquí](http://junkcharts.typepad.com/junk_charts/2017/10/fifty-nine-intersections-supporting-forty-dots-of-data.html).
 
 Pero lo que no he visto comentar es que las variaciones reflejan más cómo es el tamaño de las provincias (o regiones, estados, o las divisiones administrativas que se haya considerado) en cada uno de los países que si la renta está mejor o peor repartida.
@@ -31,11 +32,9 @@ En EE.UU., por ejemplo, la renta parece desigualmente repartida en términos rel
 
 ![](/wp-uploads/2017/11/GSP_per_capita_in_2015.png)
 
-
 En Europa se usan las regiones NUTS-3, que vienen a equivaler a las provincias en España (aunque en NUTS-3 algunas islas de la misma provincia van a su aire), y a unas cosas diminutas en Alemania:
 
 ![](/wp-uploads/2017/11/2000px-NUTS_3_regions_EU-27.svg_.png)
-
 
 Lo cual por sí solo puede explicar ciertas cosas.
 

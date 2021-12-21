@@ -11,7 +11,7 @@ categories:
 tags:
 - coeficientes
 - estadística
-- intervalo de confianza
+- intervalos de confianza
 - r
 - stan
 ---
@@ -22,57 +22,53 @@ Y aquí está:
 
 ![](/wp-uploads/2017/11/intervalo_confianza_toro.png)
 
-
 El modelo, el código y demás,
 
+{{< highlight R "linenos=true" >}}
+library(rstan)
+library(ggplot2)
 
+n <- 100
 
+a1 <- 1
+a2 <- 1
+sigma <- 0.4
 
-    library(rstan)
-    library(ggplot2)
+datos <- data.frame(x1 = rnorm(n, 2, 0.1),
+                    x2 = rnorm(n, 2, 0.1))
 
-    n <- 100
+datos$y <- a1^datos$x1 + a2^datos$x2 + rnorm(n, 0, sigma)
 
-    a1 <- 1
-    a2 <- 1
-    sigma <- 0.4
+codigo <- "
+data {
+  int<lower=1> N;
+  real y[N];
+  real x1[N];
+  real x2[N];
+}
 
-    datos <- data.frame(x1 = rnorm(n, 2, 0.1),
-                        x2 = rnorm(n, 2, 0.1))
+parameters {
+  real<lower=-3, upper="3"> a1;
+  real<lower=-3, upper="3"> a2;
+  real<lower=0, upper="3"> sigma;
+}
 
-    datos$y <- a1^datos$x1 + a2^datos$x2 + rnorm(n, 0, sigma)
+model {
+  for (n in 1:N)
+    y[n] ~ normal(fabs(a1)^x1[n] +
+      fabs(a2)^x2[n], sigma);
+}"
 
-    codigo <- "
-    data {
-      int<lower=1> N;
-      real y[N];
-      real x1[N];
-      real x2[N];
-    }
+fit <- stan(model_code = codigo,
+    data = list(N = length(datos$y), y = datos$y,
+                x1 = datos$x1, x2 = datos$x2),
+    iter=40000, warmup=2000,
+    chains=1, thin=10)
 
-    parameters {
-      real<lower=-3, upper="3"> a1;
-      real<lower=-3, upper="3"> a2;
-      real<lower=0, upper="3"> sigma;
-    }
+res <- as.data.frame(fit)
 
-    model {
-      for (n in 1:N)
-        y[n] ~ normal(fabs(a1)^x1[n] + fabs(a2)^x2[n], sigma);
-    }"
-
-    fit <- stan(model_code = codigo,
-                data = list(N = length(datos$y), y = datos$y,
-                            x1 = datos$x1, x2 = datos$x2),
-                iter=40000, warmup=2000,
-                chains=1, thin=10)
-
-    res <- as.data.frame(fit)
-
-    ggplot(res, aes(x = a1, y = a2)) + geom_point(alpha = 0.1)
-
-
-
+ggplot(res, aes(x = a1, y = a2)) + geom_point(alpha = 0.1)
+{{< / highlight >}}
 
 De nuevo, no son _intervalos_ propiamente dichos, lo convengo. Pero son configuraciones más fieles al espíritu de lo que un intervalo de confianza es y representa que su(s) letra(s) I N T E R V A L O.
 
