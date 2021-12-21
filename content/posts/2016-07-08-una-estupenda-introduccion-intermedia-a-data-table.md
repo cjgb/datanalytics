@@ -10,6 +10,7 @@ categories:
 tags:
 - data.table
 - r
+- tidyverse
 ---
 
 Jan Gorecki ha resumido las soluciones a las cincuenta preguntas _más populares_ sobre [el paquete data.table de R](https://cran.r-project.org/web/packages/data.table/index.html) en Stack Overflow y las ha resumido en forma de tutorial [aquí](https://www.toptal.com/r/boost-your-data-munging-with-r).

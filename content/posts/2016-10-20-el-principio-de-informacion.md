@@ -20,7 +20,6 @@ Tramontando el recetariado, llegamos a los principios. Y el más útil de todos 
 
 ![claudeshannon](/wp-uploads/2016/10/claudeshannon.jpg)
 
-
 En ciencia de datos no interesan los datos en sí sino los fenómenos y la información que podemos extraer de ellos. Los datos son solo una de sus manifestaciones. Pero sabemos que pueden ser malos. O mejores. Siempre perfectibles. El punto de partida de la ciencia de datos (salvo en ese portal donde se propone una versión puerilizada de la ciencia de datos; Kaggle, dizque se llama) no son los datos sino el fenómeno que se quiere estudiar.
 
 Reitero: una parte sustancial y muy relevante de la ciencia de datos es recopilar la mayor cantidad posible de información sobre un fenómeno en forma de... datos.
@@ -32,16 +31,16 @@ Reitero: una parte sustancial y muy relevante de la ciencia de datos es recopila
 (Pero no os preocupéis: Kaggle os lo da hecho en forma de csv. Os lo(s) bajáis y ya).
 
 Supongamos que tenemos ya datos (no necesariamente tabulares) `X`. `X` puede ser una tabla (como es bastante típico) pero también otra cosa. Entonces uno quiere realizar operaciones (transformaciones) sobre ellos. A partir de `X`, podemos construir `T(X)`, lo datos originales transformados por `T`.
-_
-¿Qué sucede con la cantidad de información?_
+
+_¿Qué sucede con la cantidad de información?_
 
 Pues nada si la transformación es reversible. Por ejemplo, si `T` es un cambio de unidades o implica tomar logaritmos en una columna de números positivos (y omitidos los problemas de precisión numérica).
 
 _¿Y si no es reversible?_
 
 Pues se pierde información. Necesariamente. Se rescata algo; el resto, se pierde.
-_
-Pero, ¿por qué podríamos querer perder información?_
+
+_Pero, ¿por qué podríamos querer perder información?_
 
 Por ejemplo, porque una de nuestras columnas se llama `cod_postal`, que es categórica (insisto para alguien que ignora que la apelo: **¡es categórica!**) y tiene muchos niveles. Por cuestiones operativas, puede plantearse la conveniencia de transformarla de alguna manera. Hay transformaciones que preservan la cantidad de información (la de los _dummies_); otras no.
 

@@ -16,14 +16,7 @@ tags:
 
 Está siendo _tremending topic_ en Twitter según escribo. Uno de los trinos asociados al caudal es
 
-
-
-<blockquote>[@gilbellosta](https://twitter.com/gilbellosta) en realidad son 7000 ancianos y en total 10.000 [https://t.co/caoiSBLHhY](https://t.co/caoiSBLHhY)
->
-> -- negrita (@CuleFer) [November 15, 2016](https://twitter.com/CuleFer/status/798636224009248768)</blockquote>
-
-
-
+{{< twitter user="CuleFer" id="798636224009248768" >}}
 
 que remite a un Observatorio Social de las Personas Mayores, el de 2015 específicamente. No vale [el de 2016](http://www.1mayo.ccoo.es/nova/files/1018/ObservatorioSocial2016.pdf) o [el de 2014](http://www.1mayo.ccoo.es/nova/files/1018/Mayores2014.pdf) porque en ninguno de ellos hace referencia a tan abultada y, diríamos, significantísima cifra.
 
@@ -35,10 +28,6 @@ Veamos qué dicen los patrocinados por el banco en cuestión.
 
 Pues dicen muchas cosas que concluyen en el siguiente párrafo de la página 99:
 
-
-
-<blockquote>Con todo, debe tenerse en cuenta que estas estimaciones de las cifras de mortalidad prematura asociadas a la pobreza energética han sido obtenidas de la transferencia y aplicación de porcentajes obtenidos en estudios llevados a cabo en el resto de Europa. No existen hasta la fecha estudios estadísticos que hayan medido la influencia de una incorrecta climatización de viviendas asociada a la pobreza energética sobre la probabilidad de morir de forma prematura en invierno en España.</blockquote>
-
-
+ >Con todo, debe tenerse en cuenta que estas estimaciones de las cifras de mortalidad prematura asociadas a la pobreza energética han sido obtenidas de la transferencia y aplicación de porcentajes obtenidos en estudios llevados a cabo en el resto de Europa. No existen hasta la fecha estudios estadísticos que hayan medido la influencia de una incorrecta climatización de viviendas asociada a la pobreza energética sobre la probabilidad de morir de forma prematura en invierno en España.
 
 En plata, que se las han _inventao_. Pero a la cadena SER, a CCOO y al tuterío en general, ¿qué más les da eso?

@@ -17,7 +17,6 @@ En algunas de las últimas charlas (de ML) a las que he asistido se han enumerad
 
 ![receta](/wp-uploads/2016/10/receta.jpg)
 
-
 Me consta que parte de la audiencia quedó desconcertada y falta de algo más. ¿Tal vez una receta para aplicar recetas? ¿De una metarreceta?
 
 Igual, sí, se lo puede llamar metarreceta. Pero prefiero llamarlo principio (basado en la teoría, por supuesto). Existen principios de los cuales se derivan los recetarios.

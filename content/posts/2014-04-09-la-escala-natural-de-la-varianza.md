@@ -22,7 +22,7 @@ Supongamos que tenemos un sistema con sensores que miden la temperatura (5) y la
 
 
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
 
     n <- 100
 

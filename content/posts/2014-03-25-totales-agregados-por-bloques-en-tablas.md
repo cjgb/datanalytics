@@ -19,7 +19,7 @@ En ocasiones uno quiere añadir un total calculado en ciertos bloques a una tabl
 
 
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
     ventas.orig <- data.frame(cliente = rep(1:10, each = 5),
                            producto = rep(letters[1:5], times = 10),
                            importe = <a href="http://inside-r.org/r-doc/stats/rlnorm">rlnorm(50))

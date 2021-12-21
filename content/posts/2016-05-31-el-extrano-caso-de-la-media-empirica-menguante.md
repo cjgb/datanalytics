@@ -31,7 +31,7 @@ y uno pensaría que los valores deberían ser similares. Mas pero sin embargo,
 
     library(ggplot2)
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(123)
+    set.seed(123)
 
     sigmas <- seq(1, 10, by = 0.1)
 

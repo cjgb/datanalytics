@@ -25,7 +25,7 @@ Podemos utilizar una regresión logística así:
 
 
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
 
     my.coefs <- -2:2
     n <- 200

@@ -7,6 +7,7 @@ title: ¿Importa más la causalidad hoy en día?
 url: /2016/09/23/importa-mas-la-causalidad-hoy-en-dia/
 categories:
 - números
+- causalidad
 tags:
 - causalidad
 - lenguaje

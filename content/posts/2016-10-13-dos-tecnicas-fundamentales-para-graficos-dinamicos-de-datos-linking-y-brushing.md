@@ -10,6 +10,7 @@ categories:
 tags:
 - gráficos
 - mondrian
+- eda
 ---
 
 El otro día me tocó enseñar algo de lo que no sé mucho: gráficos interactivos con R. Hay [muchos paquetes](https://www.datanalytics.com/2016/04/27/graficos-interactivos-con-r-un-resumen/) que vienen a hacer más o menos lo mismo. Es tentador limitarse a eso, a exponerlas. O más bien, a exponer unas vías de entrada, a establecer unas cabezas de playa desde las cuales el interesado pueda avanzar autónomamente.
@@ -18,13 +19,11 @@ Tanto (tentador) que uno pasa por alto la razón de ser misma de querer incorpor
 
 ![linking](/wp-uploads/2016/10/linking.png)
 
-
 El _linking_ (dejadme que lo llame _enlazado_) vincula observaciones a través de distintas representaciones gráficas (o perspectivas) simultáneas de los gráficos. Permite trazar la posición de un punto (o grupo de puntos) seleccionados en una de las perspectivas a través del resto. Como en la figura anterior, en la que se han seleccionado las observaciones con el atributo `Satisfaction = High` y podemos ver cómo se distribuyen de acuerdo con el resto de las variables representadas.
 
 El _brushing_ (¿cómo lo llamo?) es similar, solo que a escala: atribuye colores a, por ejemplo, las barras de un diagrama de ídem o una escala a las observaciones de un histograma (de menor a mayor) y traslada esos colores al resto de las perspectivas.
 
 ![brushing](/wp-uploads/2016/10/brushing.png)
-
 
 La misma razón de ser de los gráficos interactivos es que el usuario pueda efectivamente interactuar con ellos en busca de patrones interesantes. No (al menos desde la perspectiva del análisis) para añadirles un botón de `Play` con el que mostrarlos como si fuesen dibujos animados (con el agravante de que las imágenes, al sobreimponerse, se tapan las unas a las otras). El enlazado y el _brushing_, usados convenientemente, sin embargo, permiten ahondar en la estructura de los datos.
 

@@ -36,7 +36,7 @@ Así,
 
 
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(12)
+    set.seed(12)
      
     n <- 10000
     unknown.par <- 0.2

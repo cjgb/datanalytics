@@ -18,11 +18,7 @@ Están disponibles las [diapositivas de mi charla _Modelos rápidos y frugales_]
 
 Y sí, no solo me afianzo en la heterodoxia sino que, además, se me empieza a notar demasiado:
 
-
-
-<blockquote>[@gilbellosta](https://twitter.com/gilbellosta) con un discurso poco heterodoxo en el [#databeersUEropea](https://twitter.com/hashtag/databeersUEropea?src=hash) con el que no puedo estar más de acuerdo [pic.twitter.com/EgJ2Gr8hyu](https://t.co/EgJ2Gr8hyu)
->
-> -- Raúl Vaquerizo (@r_vaquerizo) [November 16, 2016](https://twitter.com/r_vaquerizo/status/798967707135836164)</blockquote>
+{{< twitter user="r_vaquerizo" id="798967707135836164" >}}
 
 
 

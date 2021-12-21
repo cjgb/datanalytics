@@ -23,27 +23,25 @@ El muy reciente paquete `future` incorpora a R un mecanismo disponible en otros 
 Mirad el código de entonces y comparadlo con:
 
 
+{{< highlight R "linenos=true" >}}
+library(future)
 
-    library(future)
+plan(multiprocess)
 
-    plan(multiprocess)
+a0 <- future({
+  Sys.sleep(3)
+  10
+})
 
-    a0 <- future({
-      Sys.sleep(3)
-      10
-    })
+b0 <- future({
+  Sys.sleep(3)
+  11
+})
 
-    b0 <- future({
-      Sys.sleep(3)
-      11
-    })
-
-    system.time(
-      res <- list(value(a0), value(b0))
-    )
-
-
-
+system.time(
+  res <- list(value(a0), value(b0))
+)
+{{< / highlight >}}
 
 Para más detalles, [las viñetas](https://cran.r-project.org/web/packages/future/index.html).
 

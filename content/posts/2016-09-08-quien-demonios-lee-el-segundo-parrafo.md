@@ -20,32 +20,16 @@ Hay una escena de la película _Primera Plana_ resumida [aquí](http://www.perio
 
 Viene eso a cuento de que la entradilla del enlace original reza
 
-
-
-<blockquote>La mayoría de los estudios que se han realizado sobre las consecuencias de la crisis en la salud de los europeos tienen un alto grado de sesgo, pero hay evidencias de que ha provocado un aumento en el número de suicidios y un empeoramiento de la salud mental, según una revisión realizada por investigadores de Reino Unido y EE UU.</blockquote>
-
-
+>La mayoría de los estudios que se han realizado sobre las consecuencias de la crisis en la salud de los europeos tienen un alto grado de sesgo, pero hay evidencias de que ha provocado un aumento en el número de suicidios y un empeoramiento de la salud mental, según una revisión realizada por investigadores de Reino Unido y EE UU.
 
 el segundo párrafo,
 
-
-
-<blockquote>
-Sin embargo, tal y como explica a Sinc Charitini Stavropoulou, profesora de investigación de gestión de la salud de la Universidad de Londres y una de las autoras de la revisión, los resultados de estos estudios tienen "un riesgo sustancial de sesgo" y, por tanto, "deben interpretarse con cautela".</blockquote>
-
-
+> Sin embargo, tal y como explica a Sinc Charitini Stavropoulou, profesora de investigación de gestión de la salud de la Universidad de Londres y una de las autoras de la revisión, los resultados de estos estudios tienen "un riesgo sustancial de sesgo" y, por tanto, "deben interpretarse con cautela".
 
 y conforme más se desciende, más comienza a parecerse la noticia a lo que publica el [artículo original](http://press.psprings.co.uk/bmj/september/recession.pdf),
 
-
-
-<blockquote>
-41 studies met the inclusion criteria, and focused on suicide, mental health, self rated health, mortality, and other health outcomes. Of those studies, 30 (73%) were deemed to be at high risk of bias, nine (22%) at moderate risk of bias, and only two (5%) at low risk of bias, limiting the conclusions that can be drawn. Although there were differences across countries and groups, there was some indication that suicides increased and mental health deteriorated during the crisis. The crisis did not seem to reverse the trend of decreasing overall mortality. Evidence on self rated health and other indicators was mixed. </blockquote>
-
-
+> 41 studies met the inclusion criteria, and focused on suicide, mental health, self rated health, mortality, and other health outcomes. Of those studies, 30 (73%) were deemed to be at high risk of bias, nine (22%) at moderate risk of bias, and only two (5%) at low risk of bias, limiting the conclusions that can be drawn. Although there were differences across countries and groups, there was some indication that suicides increased and mental health deteriorated during the crisis. The crisis did not seem to reverse the trend of decreasing overall mortality. Evidence on self rated health and other indicators was mixed.
 
 Así que, luego, vaya Vd. a taparle la boca a un cuñao sabihondo.
 
 (Nota: los lectores antiguos de estas páginas recordarán que se ha tratado en ellas previamente el tema del suicidio desde una óptica de fundado y supino escepticismo frente no solo a los métodos y resultados sino fundamentalmente a la calidad de los datos en que se han basado, dígalos INE o su porquero.)
-
-

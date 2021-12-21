@@ -27,5 +27,4 @@ Era todo efecto de la paradoja de Simpson, el que os contempla con ceño severo 
 
 ![edward_h_simpson](/wp-uploads/2016/11/edward_h_simpson.jpg)
 
-
 En España el movimiento es al revés y una de las posibles interpretaciones del descenso del IPT no es tanto que cada salario haya descendido (que sería malo) sino, más bien, que cada día somos más gañanes (que todavía es peor).

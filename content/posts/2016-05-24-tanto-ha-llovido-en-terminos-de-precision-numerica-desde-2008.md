@@ -18,7 +18,7 @@ Acabo de ejecutar
 
 
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
 
     x <- runif(1e6)
     x.shift <- 1e9 + x

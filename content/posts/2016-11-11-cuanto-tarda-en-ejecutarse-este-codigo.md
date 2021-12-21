@@ -11,41 +11,34 @@ tags:
 - future
 - futuros
 - r
+- paquetes
 ---
 
 Es:
 
+{{< highlight R "linenos=true" >}}
+library(future)
 
+plan(multiprocess, workers = 4)
 
+system.time({
+  a1 <- future({Sys.sleep(7); 1})
+  a2 <- future({Sys.sleep(1); 1})
+  a3 <- future({Sys.sleep(1); 1})
+  a4 <- future({Sys.sleep(1); 1})
+  a5 <- future({Sys.sleep(1); 1})
+  a6 <- future({Sys.sleep(1); 1})
+  a7 <- future({Sys.sleep(1); 1})
 
-    library(future)
-
-    plan(multiprocess, workers = 4)
-
-    system.time({
-      a1 <- future({Sys.sleep(7); 1})
-      a2 <- future({Sys.sleep(1); 1})
-      a3 <- future({Sys.sleep(1); 1})
-      a4 <- future({Sys.sleep(1); 1})
-      a5 <- future({Sys.sleep(1); 1})
-      a6 <- future({Sys.sleep(1); 1})
-      a7 <- future({Sys.sleep(1); 1})
-
-      res <- sapply(list(a1, a2, a3, a4, a5, a6, a5), value)
-    })
-
-
-
+  res <- sapply(list(a1, a2, a3, a4, a5, a6, a5), value)
+})
+{{< / highlight >}}
 
 Piensa antes las posibles opciones:
 
-
-
-
-	  * ~8 segundos: ejecuta primero `a1`-`a4` en 7 segundos y luego `a5`-`a7` en un segundo adicional.
-	  * ~7 segundos: ejecuta primero `a1`-`a4`, pero cuando acaban `a2`-`a4`, lanza `a5`-`a7`, que terminan antes que `a1`
-	  * ¿Otras?
-
+* ~8 segundos: ejecuta primero `a1`-`a4` en 7 segundos y luego `a5`-`a7` en un segundo adicional.
+* ~7 segundos: ejecuta primero `a1`-`a4`, pero cuando acaban `a2`-`a4`, lanza `a5`-`a7`, que terminan antes que `a1`
+* ¿Otras?
 
 Vosotros mismos.
 

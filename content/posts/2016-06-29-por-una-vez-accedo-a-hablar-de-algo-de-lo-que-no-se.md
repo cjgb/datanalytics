@@ -21,7 +21,6 @@ Existe una formulilla que aplican buenamente los responsables de las encuestas q
 
 ![encuestas_margen_error_tamanno](/wp-uploads/2016/06/encuestas_margen_error_tamanno.png)
 
-
 que es una gráfica que muestra la relación entre el tamaño muestral (la n) y el margen de error publicado en una selección de encuestas electorales relativas al 20D (la N es el tamaño total del censo, unos 36.5 millones).
 
 Todas las excusas de malos perdedores que ponen ahora los fabricantes de encuestas (que si la no-respuesta, que si el muestreo, que si...) son todas una. En definitiva, lo que nos están diciendo es que la gente (y lo deberían saber bien porque suelen ser _de letras_, de los que repiten que las personas son _sustancias individuales de naturaleza racional_) no son bolas blancas y negras en una urna.
@@ -33,11 +32,7 @@ Si la respuesta anterior no sería aceptable en boca del médico del seguro, ¿p
 
 En lugar de rematar una encuesta electoral con esa coletilla seudocientífica de que _partiendo de los criterios del muestreo aleatorio simple_ [!!!!]_, para un nivel de confianza del 95.5% (que es el habitualmente adoptado) y en la hipótesis más desfavorable de máxima indeterminación (p=q=50), el margen de error de los datos referidos al total de la muestra es de ± 2.9 puntos_, deberían ser más honestos y decir algo así:
 
-
-
-<blockquote>En encuestas realizadas con metodologías y tamaños muestrales similares en contextos comparables, la distribución del error cometido con respecto a los resultados finales siguieron la distribución que indica el histograma adjunto. En un 80% de los casos el error ha sido inferior al 7%, aunque no son del todo infrecuentes (5%) errores superiores al 10%.</blockquote>
-
-
+>En encuestas realizadas con metodologías y tamaños muestrales similares en contextos comparables, la distribución del error cometido con respecto a los resultados finales siguieron la distribución que indica el histograma adjunto. En un 80% de los casos el error ha sido inferior al 7%, aunque no son del todo infrecuentes (5%) errores superiores al 10%.
 
 Tenemos un histórico de encuestas y errores suficiente como para computar empíricamente (en lugar de con una fórmula tonta de Excel) el error que se puede llegar a esperar.
 

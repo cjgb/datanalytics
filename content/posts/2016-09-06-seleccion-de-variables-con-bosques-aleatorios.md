@@ -11,6 +11,7 @@ tags:
 - paquetes
 - r
 - random forests
+- selección de variables
 ---
 
 Desde el principio de mis tiempos he seleccionado variables relevantes como subproducto de los árboles primero y de los bosques aleatorios después. Cierto que he hecho casi inconfesables incursiones en los  métodos _stepwise_, pero han sido marginales y anecdóticas.

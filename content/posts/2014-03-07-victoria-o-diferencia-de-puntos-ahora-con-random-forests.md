@@ -24,7 +24,7 @@ Aquí va el código:
 
     library(<a href="http://inside-r.org/packages/cran/randomForest">randomForest)
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
 
     my.coefs <- -2:2
     n <- 200

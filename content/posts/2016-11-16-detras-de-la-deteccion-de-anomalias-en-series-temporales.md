@@ -10,7 +10,7 @@ categories:
 - r
 tags:
 - anomalías
-- AnomalyDetection
+- anomalydetection
 - paquetes
 - r
 - series temporales
@@ -20,38 +20,29 @@ Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es u
 
 ![anomaly_detection](/wp-uploads/2016/11/anomaly_detection.png)
 
-
 El anterior es el gráfico construido con los datos de ejemplo del [paquete `AnomalyDetection`](https://github.com/twitter/AnomalyDetection). De hecho, así:
 
+{{< highlight R "linenos=true" >}}
+library(AnomalyDetection)
 
-
-
-    library(AnomalyDetection)
-
-    data(raw_data)
-    res <- AnomalyDetectionTs(raw_data, max_anoms=0.02,
-                              direction='both', plot=TRUE)
-    res$plot
-
-
-
+data(raw_data)
+res <- AnomalyDetectionTs(raw_data,
+    max_anoms=0.02,
+    direction='both', plot=TRUE)
+res$plot
+{{< / highlight >}}
 
 Aparentemente, `AnomalyDetectionTs` hace lo que cabría sospechar. Primero, una descomposición de la serie temporal, tal como
 
-
-
-
-    myts <- raw_data$count
-    myts <- ts(myts, start = c(1, 841), frequency = 24 * 60)
-    plot(stl(myts, "per"))
-
-
-
+{{< highlight R "linenos=true" >}}
+myts <- raw_data$count
+myts <- ts(myts, start = c(1, 841), frequency = 24 * 60)
+plot(stl(myts, "per"))
+{{< / highlight >}}
 
 es decir,
 
 ![anomaly_detection_stl](/wp-uploads/2016/11/anomaly_detection_stl.png)
-
 
 para luego utilizar alguno de esos procedimientos de detección de _outliers_ sobre los residuos, la gráfica de más abajo). Precisamente, [este](http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm).
 

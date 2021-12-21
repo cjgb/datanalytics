@@ -17,5 +17,4 @@ Me pasa un exalumno (no os perdáis [su blog](http://www.guillermoluijk.com/) y 
 
 ![](/wp-uploads/2016/12/vodafone_lite.png)
 
-
 Addenda: En los comentarios hay más enlaces relevantes (proporcionados por el autor de la imagen), que conducen al código, etc.

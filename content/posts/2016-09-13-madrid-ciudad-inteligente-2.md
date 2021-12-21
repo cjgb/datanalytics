@@ -14,11 +14,7 @@ tags:
 
 [Aquí](http://www.economiadigital.es/es/notices/2015/06/carmena-se-lo-toma-con-calma-a-la-hora-de-licitar-nuevos-contratos-73419.php) leí cómo
 
-
-
-<blockquote>... el Ayuntamiento [de Madrid] ha incorporado PostgreSQL como sistema gestor de bases de datos de varias aplicaciones del entorno MiNT (Madrid Inteligente) para dar servicio al...</blockquote>
-
-
+>... el Ayuntamiento [de Madrid] ha incorporado PostgreSQL como sistema gestor de bases de datos de varias aplicaciones del entorno MiNT (Madrid Inteligente) para dar servicio al...
 
 una frase que bifurcó mi paseo por internet y me llevó, por un lado, a dar con la licitación del [_arrendamiento de las suscripciones de productos software POSTGRES_](https://t.co/nb8JmnWk8g), cosa que amerita por sí misma una entrada específica y, por el otro, me hizo que volviera a acordarme del proyecto MiNT, del que me ocuparé hoy.
 
@@ -28,11 +24,8 @@ Las promesas que más risas de payaso triste dan dos años después son las que 
 
 ![ibm-smartcity](/wp-uploads/2016/09/IBM-SmartCity.jpg)
 
-
 El ciudadano, armado de un móvil con cámara y _empoderado_ con una [aplicación móvil estupenda](https://play.google.com/store/apps/details?id=com.iam.lineaMadrid) iba a ser coprotagonista de esta revolución inteligente. La realidad se parece un poco más a
 
 ![linea_madrid_opiniones](/wp-uploads/2016/09/linea_madrid_opiniones.png)
 
-
 Fueron 14 millones de euros, unos cuatro por madrileño, los que costó MiNT. No es mucho para un experimento, pero demasiado si no nos sirve para aprender a desconfiar cuando un tipo con corbata abra la boca para decir _smart city_.
-

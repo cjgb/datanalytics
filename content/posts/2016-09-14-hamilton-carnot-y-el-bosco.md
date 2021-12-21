@@ -17,11 +17,9 @@ Por culpa de una nevera que no enfriaba como era debido, veinte años después, 
 
 ![ciclo_carnot](/wp-uploads/2016/09/ciclo_carnot.png)
 
-
 Por culpa de [Stan](http://mc-stan.org/) estoy repasando mi mecánica hamiltoniana.
 
 ![hamiltonian_montecarlo](/wp-uploads/2016/09/hamiltonian_montecarlo.png)
-
 
 Y lo estoy disfrutando muchísimo.
 

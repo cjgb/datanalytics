@@ -15,22 +15,17 @@ tags:
 
 Frecuentemente nos interesan unos efectos (E), tales como:
 
-
-
-
-	  * Si un sujeto cumplirá con los términos de una hipoteca.
-	  * Si un paciente responderá a un tratamiento.
-	  * Si un adlátere circunstancial en el tren nos regalará una conversación amena.
-	  * Si un transeúnte podrá o no darnos fuego para prender un cigarro.
-	  * Si un individuo es o no un criminal.
-	  * Si un candidato será o no un trabajador productivo en una empresa.
-	  * Etc.
-
+* Si un sujeto cumplirá con los términos de una hipoteca.
+* Si un paciente responderá a un tratamiento.
+* Si un adlátere circunstancial en el tren nos regalará una conversación amena.
+* Si un transeúnte podrá o no darnos fuego para prender un cigarro.
+* Si un individuo es o no un criminal.
+* Si un candidato será o no un trabajador productivo en una empresa.
+* Etc.
 
 Son variables aleatorias. En ciertos casos, si no todos, se puede suponer que estos efectos dependen de determinados factores lantentes (L). Y se puede crear una red bayesiana similar a esta:
 
 ![bayesian_network_00](/wp-uploads/2016/11/bayesian_network_00.png)
-
 
 En este caso hay tres factores latentes (dos de ellos relacionados entre sí) que _causan_ (o se correlacionan) con el efecto deseado.
 
@@ -42,11 +37,10 @@ Nuestra red quedaría algo así como:
 
 ![bayesian_network_01](/wp-uploads/2016/11/bayesian_network_01.png)
 
-
 Habiendo observado alguno de estos indicios, se pueden echar a andar inferencias sobre la red bayesiana y afinar las probabilidades sobre los efectos de interés. De estar correctamente calibrada, cuantos más nodos observables se conozcan, mejor será la estimación de las probabilidades de los nodos E.
 
 Las redes bayesianas tratan de replicar procesos de toma de decisiones. Pero aun sin ellas, de alguna manera, así procedemos en la práctica. Y así proceden médicos, policías, responsables de recursos humanos, sicólogos, etc. Las redes bayesianas vienen a formalizar, refinar, hacer explícito y, muy importante, volver más cuantitativo (y _data driven_) el proceso.
 
 Pero así son las cosas.
 
-(En las dos entradas que siguen a esta continuaré la discusión para establecer una relación con la teoría del señalamiento y las cocretas).
+(En las dos entradas que siguen a esta continuaré la discusión para establecer una relación con la teoría del señalamiento y las _cocretas_).

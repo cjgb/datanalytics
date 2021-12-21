@@ -13,14 +13,11 @@ tags:
 
 Leo hoy que
 
-https://twitter.com/kikollan/status/787594944106098689
+{{< twitter user="kikollan" id="787594944106098689" >}}
 
 Pero:
 
-
-
- 	  * Hemos visto a Cristiano Ronaldo chutar muchos penaltis y hemos podido calcular el cociente entre los anotados y los tirados.
- 	  * Es la primera vez en la vida que Trump se presenta a las elecciones de EE.UU.
-
+* Hemos visto a Cristiano Ronaldo chutar muchos penaltis y hemos podido calcular el cociente entre los anotados y los tirados.
+* Es la primera vez en la vida que Trump se presenta a las elecciones de EE.UU.
 
 ¿A nadie le intriga cuál es ese misterioso mecanismo por el que se pueden comparar ambas probabilidades? [Voy a usar _ontológicamente_] ¿Nadie las ve ontológicamente distintas?

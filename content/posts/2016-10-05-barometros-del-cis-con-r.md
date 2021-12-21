@@ -23,24 +23,21 @@ Aparte de ficheros .pdf que lo explican todo (pero que no dejan de ser .pdf), pu
 
 Problemas de estos datos:
 
-
-
-	  * Las variables, los códigos y las etiquetas cambian de barómetro en barómetro: aunque hay unas cuantas preguntas que se repiten en todos, cada barómetro se dedica a un tema distinto.
-	  * Los datos no son planos: según lo que el entrevistado respondió en aquí, se le pregunta otra cosa allá.
+* Las variables, los códigos y las etiquetas cambian de barómetro en barómetro: aunque hay unas cuantas preguntas que se repiten en todos, cada barómetro se dedica a un tema distinto.
+* Los datos no son planos: según lo que el entrevistado respondió en aquí, se le pregunta otra cosa allá.
 
 ![elige-tu-propia-a-ventura-1](/wp-uploads/2016/10/Elige-tu-propia-a-ventura-1.jpg)
 
 
-	  * Aunque el paquete `memisc` de R es capaz de leer ficheros de ancho fijo con metadatos _en SPSS_ (busca `spss.fixed.file` [aquí](https://cran.r-project.org/web/packages/memisc/memisc.pdf)), no puede con todos: el formato tiene atajos y excepciones (además del asunto de las respuestas condicionales) que `memisc` no contempla.
+* Aunque el paquete `memisc` de R es capaz de leer ficheros de ancho fijo con metadatos _en SPSS_ (busca `spss.fixed.file` [aquí](https://cran.r-project.org/web/packages/memisc/memisc.pdf)), no puede con todos: el formato tiene atajos y excepciones (además del asunto de las respuestas condicionales) que `memisc` no contempla.
 
 
 No obstante, por el momento, tenemos opciones solo parcialmente satisfactorias:
 
-	  * Leer el fichero de datos como de ancho fijo. Si al final solo te interesan unas pocas variables, puede sobrarte. Les asignas los códigos a mano y ya. Si tienes suerte, además, no serán de las de respuesta condicional (lo probé, lo sé).
-	  * Usar PSPP, como [aquí](http://griverorz.net/blog/2013/10/20/leer_datos_cis.html) (no la he probado).
-	  * Usar SPSS (hummmmm...)
-	  * Usar ingeniería social (i.e., engañar a alguien que tenga SPSS).
-
+* Leer el fichero de datos como de ancho fijo. Si al final solo te interesan unas pocas variables, puede sobrarte. Les asignas los códigos a mano y ya. Si tienes suerte, además, no serán de las de respuesta condicional (lo probé, lo sé).
+* Usar PSPP, como [aquí](http://griverorz.net/blog/2013/10/20/leer_datos_cis.html) (no la he probado).
+* Usar SPSS (hummmmm...)
+* Usar ingeniería social (i.e., engañar a alguien que tenga SPSS).
 
 De todos modos, me consta que dentro del CIS hay gente si no trabajando en el asunto (es decir, exportar datos de barómetros a algo que pueda ser importado en R fácilmente) dando guerra para que se haga.
 

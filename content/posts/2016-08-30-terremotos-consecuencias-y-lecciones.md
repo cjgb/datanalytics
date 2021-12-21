@@ -11,6 +11,7 @@ tags:
 - percepción del riesgo
 - riesgo
 - terremotos
+- probabilidades pequeñas
 ---
 
 En 2009 hubo un [terremoto en l'Aquila](https://es.wikipedia.org/wiki/Terremoto_de_L%27Aquila_de_2009), Italia, que dejó 308 muertos, etc.

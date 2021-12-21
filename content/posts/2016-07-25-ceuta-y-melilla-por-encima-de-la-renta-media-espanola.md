@@ -10,6 +10,8 @@ categories:
 tags:
 - españa
 - renta
+- ceuta
+- melilla
 ---
 
 Durante estos días que he pasado fuera, la Agencia Tributaria ha publicado datos de la renta por municipios. No he visto los datos originales ni leído los _caveats_, pero en fuentes indirectas como [El País](http://economia.elpais.com/economia/2016/07/20/actualidad/1469036970_919157.html?rel=mas) se lee cómo _Ceuta y Melilla superan la media española con 30.125 y 29.209 euros, respectivamente_.

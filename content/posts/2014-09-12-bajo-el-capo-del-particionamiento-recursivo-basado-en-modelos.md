@@ -23,7 +23,7 @@ Primero, unos datos:
 
 
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
 
     n <- 100
 

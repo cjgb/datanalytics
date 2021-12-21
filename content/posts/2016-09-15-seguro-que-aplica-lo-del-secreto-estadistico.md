@@ -17,22 +17,13 @@ En la nota de prensa de la estadística de transporte de viajeros del INE de jul
 
 ![transporte_viajeros](/wp-uploads/2016/09/transporte_viajeros.png)
 
-
 en la que el lector podrá encontrar valores ocultos con un puntero a la nota al pie. Que dice:
 
-
-
-<blockquote>A fin de mantener el secreto estadístico, no se publican los datos de las comunidades autónomas de Illes Balears, Cantabria, Comunidad Foral de Navarra y La Rioja y de las ciudades autónomas de Ceuta y Melilla.</blockquote>
-
-
+>A fin de mantener el secreto estadístico, no se publican los datos de las comunidades autónomas de Illes Balears, Cantabria, Comunidad Foral de Navarra y La Rioja y de las ciudades autónomas de Ceuta y Melilla.
 
 Sobre el secreto estadístico, el mismo INE [dice](http://www.ine.es/censo_accesible/es/disclaimer.html):
 
-
-
-<blockquote>La legislación sobre secreto estadístico obliga a difundir la información estadística de manera que no pueda saberse, ni siquiera indirectamente, a quién corresponde un dato particular. Por eso, la información aquí presentada ha sido sometida a ciertas técnicas de protección que, sin mermar su utilidad a efectos estadísticos, impiden deducir, ni siquiera aproximadamente, cuál es el perfil de una persona concreta.</blockquote>
-
-
+>La legislación sobre secreto estadístico obliga a difundir la información estadística de manera que no pueda saberse, ni siquiera indirectamente, a quién corresponde un dato particular. Por eso, la información aquí presentada ha sido sometida a ciertas técnicas de protección que, sin mermar su utilidad a efectos estadísticos, impiden deducir, ni siquiera aproximadamente, cuál es el perfil de una persona concreta.
 
 ¿En serio procede ocultar el número de miles de viajeros que cogieron el bús en Mallorca o Logroño? ¿En serio piensan que eso permite reidentificar a un usuario particular?
 
@@ -42,11 +33,3 @@ Sobre el secreto estadístico, el mismo INE [dice](http://www.ine.es/censo_acces
 
 
 donde (presuntamente, porque no he podido verificar la autenticidad) Google Street View pixela la cabeza de una vaca acompaña estupendamente la presente entrada.
-
-
-
-
-
-
-
-

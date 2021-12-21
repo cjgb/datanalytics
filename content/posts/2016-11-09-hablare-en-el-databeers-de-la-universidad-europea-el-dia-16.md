@@ -18,5 +18,3 @@ El día 16 de noviembre (de 2016) daré una de esas minicharlas de seis minutos 
 El cartel lo completan Antonio Chinchón (no os perdáis [su blog](https://fronkonstin.com/)), Luz Frías y otros que me expongo a que me riñan por no mencionar.
 
 Los detalles para la inscripción, [aquí](http://madrid.universidadeuropea.es/vivir-ue/agenda/data-beers-uee).
-
-

@@ -23,7 +23,7 @@ Hoy se me ha ocurrido una solución mucho mejor que las anteriores basada en `du
 
     library(<a href="http://inside-r.org/packages/cran/data.table">data.table)
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
 
     a <- sample(letters, 1e6, replace = T)
     b <- rnorm(length(a))

@@ -17,5 +17,4 @@ Del _rumano de la fragoneta_ hablé en [una charla del 2013](https://www.datanal
 
 ![rumano_fragoneta](/wp-uploads/2016/10/rumano_fragoneta.jpg)
 
-
 Y, ¿sabéis qué? ¡[Se ha ido a vivir a Illinois](http://www.nytimes.com/2016/10/13/upshot/how-one-19-year-old-illinois-man-is-distorting-national-polling-averages.html)!

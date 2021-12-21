@@ -10,6 +10,8 @@ categories:
 tags:
 - estadística
 - estereotipos
+- prioris
+- ética
 ---
 
 El porcentaje de mosquitos que pueden transmitir enfermedades es pequeño, muy pequeño. Sin embargo, decimos mosquitos transmiten enfermedades sin empacho.

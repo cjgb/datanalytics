@@ -22,23 +22,23 @@ Sea para lo bueno o para lo malo, vivimos tiempos que en eso se parecen a aquell
 He bajado [datos del Banco de España](http://www.bde.es/webbde/es/estadis/infoest/htmls/cdp.html), he extraído penosamente la información relativa a la deuda de Madrid y con
 
 
+{{< highlight R "linenos=true" >}}
+library(ggplot2)
+library(plyr)
 
-    library(ggplot2)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+rect <- data.frame(xmin=as.Date("2015-05-24"),
+                    xmax=max(deuda.madrid$fecha),
+                    ymin=-Inf, ymax=Inf)
 
-    <a href="http://inside-r.org/r-doc/graphics/rect">rect <- data.frame(xmin=<a href="http://inside-r.org/r-doc/base/as.Date">as.Date("2015-05-24"),
-                       xmax=max(deuda.madrid$fecha),
-                       ymin=-Inf, ymax=Inf)
-
-    ggplot(deuda.madrid, aes(x = fecha, y = deuda / 1e3)) + geom_line() +
-      geom_rect(data=<a href="http://inside-r.org/r-doc/graphics/rect">rect,
-                aes(xmin=xmin, xmax=xmax,
-                    ymin=ymin, ymax=ymax),
-                color="grey20",
-                alpha=0.3,
-                inherit.aes = FALSE) +
-      ylab("deuda en millones de euros")
-
+ggplot(deuda.madrid, aes(x = fecha, y = deuda / 1e3)) + geom_line() +
+  geom_rect(data=rect,
+            aes(xmin=xmin, xmax=xmax,
+                ymin=ymin, ymax=ymax),
+            color="grey20",
+            alpha=0.3,
+            inherit.aes = FALSE) +
+  ylab("deuda en millones de euros")
+{{< / highlight >}}
 
 
 he construido
@@ -49,34 +49,32 @@ he construido
 y con
 
 
+{{< highlight R "linenos=true" >}}
+incr.deuda.madrid <- data.frame(fecha = deuda.madrid$fecha[-1], deuda = diff(deuda.madrid$deuda) / 1000)
+incr.deuda.madrid$mes <- months(incr.deuda.madrid$fecha)
 
-    incr.deuda.madrid <- data.frame(fecha = deuda.madrid$fecha[-1], deuda = diff(deuda.madrid$deuda) / 1000)
-    incr.deuda.madrid$mes <- months(incr.deuda.madrid$fecha)
+ggplot(incr.deuda.madrid, aes(x = fecha, y = deuda)) + geom_line(alpha = 0.6) +
+  geom_smooth() +
+  geom_rect(data=rect, aes(xmin=xmin, xmax=xmax, ymin=ymin, ymax=ymax),
+            color="grey20",
+            alpha=0.3,
+            inherit.aes = FALSE)
 
-    ggplot(incr.deuda.madrid, aes(x = fecha, y = deuda)) + geom_line(alpha = 0.6) +
-      geom_smooth() +
-      geom_rect(data=<a href="http://inside-r.org/r-doc/graphics/rect">rect, aes(xmin=xmin, xmax=xmax, ymin=ymin, ymax=ymax),
-                color="grey20",
-                alpha=0.3,
-                inherit.aes = FALSE)
-
-    ggplot(incr.deuda.madrid, aes(x = fecha, y = deuda)) + geom_line(alpha = 0.6) +
-      #geom_smooth() +
-      geom_rect(data=<a href="http://inside-r.org/r-doc/graphics/rect">rect, aes(xmin=xmin, xmax=xmax, ymin=ymin, ymax=ymax),
-                color="grey20",
-                alpha=0.3,
-                inherit.aes = FALSE) +
-      facet_grid(mes~.)
-
+ggplot(incr.deuda.madrid, aes(x = fecha, y = deuda)) + geom_line(alpha = 0.6) +
+  #geom_smooth() +
+  geom_rect(data=rect, aes(xmin=xmin, xmax=xmax, ymin=ymin, ymax=ymax),
+            color="grey20",
+            alpha=0.3,
+            inherit.aes = FALSE) +
+  facet_grid(mes~.)
+{{< / highlight >}}
 
 ,
 
 ![deuda_ayto_madrid_incr](/wp-uploads/2016/06/deuda_ayto_madrid_incr.png)
 
-
 y
 
 ![deuda_ayto_madrid_incr_trim](/wp-uploads/2016/06/deuda_ayto_madrid_incr_trim.png)
-
 
 Afortunadamente, no tengo que editorializar porque no sabría qué decir. Solo, si acaso, lo que no decir si uno quiere creerse sano de apofenia: que ha habido grandes y sustanciales cambios dentro del cuadrante gris.

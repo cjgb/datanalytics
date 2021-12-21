@@ -33,7 +33,7 @@ e interesa saber si $latex \mu_1 = \mu_2$. Obviamente, se desconoce $latex \sigm
 
 
 
-    <a href="http://inside-r.org/r-doc/base/set.seed">set.seed(1234)
+    set.seed(1234)
     N1 <- 50
     N2 <- 50
     mu1 <- 1

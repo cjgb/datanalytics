@@ -10,19 +10,17 @@ categories:
 tags:
 - r
 - telegram
+- trucos
 ---
 
 La fuerza de R siepre me acompaña allá donde tengo datos. De ello da fe la siguiente captura de pantalla de mi móvil:
 
 ![](/wp-uploads/2016/12/teleR_messenger.png)
 
-
 Si quieres que también te acompañe a ti:
 
-
-
-	  * [Instálate telegram](https://telegram.org/)
-	  * [Conecta con teleR](https://telegram.me/tele_R)
+* [Instálate telegram](https://telegram.org/)
+* [Conecta con teleR](https://telegram.me/tele_R)
 
 
 

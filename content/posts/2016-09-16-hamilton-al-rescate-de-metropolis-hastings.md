@@ -19,11 +19,8 @@ El [algoritmo de Metropolis-Hastings](https://en.wikipedia.org/wiki/Metropolis%E
 
 Funciona de al siguiente manera: a partir de un punto $latex x_i$ se buscan candidatos a $latex x_{i+1}$ de la forma $latex x_i + \epsilon$, donde $latex \epsilon$ es, muy habitualmente, $latex N(0, \delta)$ y $latex \delta$ es pequeño. De otra manera, puntos próximos a $latex x_i$. Un candidato se acepta (y se convierte en $latex x_{i+1}$) o se rechaza (y toca probar con otro) según los valores de $latex p(x_i)$ y $latex p(x_i + \epsilon)$:
 
-
-
-	  * Si el segundo valor es mayor que el primero, se acepta el candidato.
-	  * Si no, se echa a suertes según su valor relativo.
-
+* Si el segundo valor es mayor que el primero, se acepta el candidato.
+* Si no, se echa a suertes según su valor relativo.
 
 Todo bien hasta que (p.e., en altas dimensiones) se rechazan casi todos los candidatos y el proceso es muy lento. Además de que, por construcción, $latex x_{i+1}$ está cerca de $latex x_i$: la sucesión obtenida no es iid ni por el forro.
 
@@ -37,18 +34,10 @@ Pensemos en la mecánica clásica. Un objeto se mueve en el espacio impelido por
 
 Dos problemas:
 
-
-
-	  * El primero es que fijadas unas condiciones iniciales, el hamiltoniano es constante y las órbitas, por ejempo, nunca saldrán de ciertos pozos de potencial, por lo que habrá zonas vedadas de nuevo. La solución pasa por muestrear órbitas distintas correspondientes a condiciones iniciales de velocidad distintas (con una determinada distribución sobre estas velocidades).
+* El primero es que fijadas unas condiciones iniciales, el hamiltoniano es constante y las órbitas, por ejempo, nunca saldrán de ciertos pozos de potencial, por lo que habrá zonas vedadas de nuevo. La solución pasa por muestrear órbitas distintas correspondientes a condiciones iniciales de velocidad distintas (con una determinada distribución sobre estas velocidades).
 
 ![halleyorbit](/wp-uploads/2016/09/HalleyOrbit.gif)
 
-
-	  * La segunda, sobre la que no he visto nada escrito, es que las partículas pasan proporcionalmente poco tiempo en las zonas de energía potencial baja (que corresponden a las de probabilidad alta). Eso sucede porque en ellas la energía cinética es alta: en plata, las atraviesan a toda leche. Como el cometa Halley, que pasa casi todo el tiempo donde no se lo ve.
-
+* La segunda, sobre la que no he visto nada escrito, es que las partículas pasan proporcionalmente poco tiempo en las zonas de energía potencial baja (que corresponden a las de probabilidad alta). Eso sucede porque en ellas la energía cinética es alta: en plata, las atraviesan a toda leche. Como el cometa Halley, que pasa casi todo el tiempo donde no se lo ve.
 
 Los corolarios, [aquí](https://arxiv.org/pdf/1206.1901.pdf).
-
-
-
-

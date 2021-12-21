@@ -10,20 +10,16 @@ categories:
 tags:
 - estadística
 - probabilidad
+- trucos
 ---
 
 Me acusan (quien lo hizo, si me lee, sabrá identificarse) de repetirme, de contar una historia dos, y sino me paran los pies, tres y más veces. Ya me pasó una vez por aquí. Espero que no me esté volviendo a suceder hoy porque habría jurado haber mencionado este asunto antes.
 
 Es el de la estimación de la probabilidad de eventos todavía no observados. Traduzco y ([como no _rectoreo_ universidad pública alguna](http://nadaesgratis.es/anxo-sanchez/otra-vez-el-rector-plagiador-pero-no-dimisionario-y-otras-hierbas) y, por ende, no puedo permitirme el lujo de copiar sin citar) luego diré de donde:
 
-
-
-<blockquote>Supón que estás corrigiendo un libreo. Si después de 20 páginas has encontrados 7 errores, puedes estimar la probabilidad de que una página contenga un error en 7/20. ¿Pero si no has encontrado ninguno? ¿Darías por buena una probabilidad de 0/20, i.e., que el libro contiene tiene ningún error?</blockquote>
-
-
+>Supón que estás corrigiendo un libreo. Si después de 20 páginas has encontrados 7 errores, puedes estimar la probabilidad de que una página contenga un error en 7/20. ¿Pero si no has encontrado ninguno? ¿Darías por buena una probabilidad de 0/20, i.e., que el libro contiene tiene ningún error?
 
 ![tres_unicornios](/wp-uploads/2016/11/tres_unicornios.jpg)
-
 
 La _regla del tres_ justifica asignar una probabilidad de 3/n después de revisar n casos sin encontrar ningún evento.
 

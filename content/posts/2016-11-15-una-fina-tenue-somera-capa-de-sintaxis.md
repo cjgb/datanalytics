@@ -19,7 +19,6 @@ Estuve el otro día en una [charla de José Luis Cañadas en el grupo de usuario
 
 ![evolucion_convergente](/wp-uploads/2016/11/evolucion_convergente.jpg)
 
-
 Me centraré en la de José Luis, aunque podría decir lo mismo de cualquiera de las otras. No había trabajado con `sparklyr`. No soy siquiera fan de `dplyr` (aunque no es que no se lo recomiende a otros; es simplemente, como tantas cosas, que soluciona problemas que no tengo). Pero la seguí sin mayores problemas. Lo que tenía de nuevo era una fina, somera capa de sintaxis que enlazaba fundamentos con fundamentos.
 
 Los primeros, de todo lo relacionado con el paralelismo subyacente. Los segundos, de los métodos estadísticos con los que remató sus ejemplos.

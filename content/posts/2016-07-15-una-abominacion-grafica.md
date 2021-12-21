@@ -17,7 +17,6 @@ Llega el verano, llega el relleno: rescato de mi disco duro una abominación gr�
 
 ![mapa-mundo-compressor-1](/wp-uploads/2016/07/mapa-mundo-compressor-1.png)
 
-
 para el espanto de todos Vds.
 
 Aparte de otras consideraciones, si la tasa es negativa, ¿se crea una imagen especular del perfil del país?

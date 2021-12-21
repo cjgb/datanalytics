@@ -26,190 +26,154 @@ Antes de entrar en materia, una observación. Lo de PISA es muy serio, pero quie
 
 Cargo datos en R (después de bajarlos del preceptivo enlace, descomprimirlos, etc.; cuidado: el fichero ocupa un giga largo):
 
+{{< highlight R "linenos=true" >}}
+library(foreign)
 
+tmp <- read.spss("CY6_MS_CMB_STU_QQQ.sav",
+                    use.value.labels = TRUE,
+                    to.data.frame = TRUE)
 
-
-    library(foreign)
-
-    tmp <- read.spss("CY6_MS_CMB_STU_QQQ.sav",
-                     use.value.labels = TRUE,
-                     to.data.frame = TRUE)
-
-    alumnos <- tmp[tmp$CNT == "Spain",]
-    rm(tmp); gc()
-
-
-
+alumnos <- tmp[tmp$CNT == "Spain",]
+rm(tmp); gc()
+{{< / highlight >}}
 
 Aquitán:
 
-
-
-
-    dim(alumnos)
-    #[1] 6736  921
-
-
-
+{{< highlight R "linenos=true" >}}
+dim(alumnos)
+#[1] 6736  921
+{{< / highlight >}}
 
 También se puede ver que hay unos doscientos colegios y si uno se baja el fichero correspondiente, puede explorar lo que contaba antes y más. Pero hoy no toca.
 
 Selecciono las colunnas de interés y relleno (¡primer _caveat_!) los nulos (no muchos) con la mediana:
 
+{{< highlight R "linenos=true" >}}
+dat <- alumnos[, c("CNTSTUID", "CNTSCHID",
+    "WEALTH", "CULTPOSS",
+    "HEDRES", "HOMEPOS", "ICTRES",
+    "ESCS", "STRATUM")]
 
+fix.column <- function(x){
+    x[is.na(x)] <- median(x, na.rm = TRUE)
+    x
+}
 
+dat$WEALTH   <- fix.column(dat$WEALTH)
+dat$CULTPOSS <- fix.column(dat$CULTPOSS)
+dat$HEDRES   <- fix.column(dat$HEDRES)
+dat$HOMEPOS  <- fix.column(dat$HOMEPOS)
+dat$ICTRES   <- fix.column(dat$ICTRES)
+dat$ESCS     <- fix.column(dat$ESCS)
 
-    dat <- alumnos[, c("CNTSTUID", "CNTSCHID", "WEALTH", "CULTPOSS",
-                       "HEDRES", "HOMEPOS", "ICTRES", "ESCS", "STRATUM")]
+dat$STRATUM <- as.character(dat$STRATUM)
 
-    fix.column <- function(x){
-      x[is.na(x)] <- median(x, na.rm = TRUE)
-      x
-    }
+dat$CCAA  <- gsub(".*: ([^,]*),.*", "\\1",
+    dat$STRATUM)
 
-    dat$WEALTH   <- fix.column(dat$WEALTH)
-    dat$CULTPOSS <- fix.column(dat$CULTPOSS)
-    dat$HEDRES   <- fix.column(dat$HEDRES)
-    dat$HOMEPOS  <- fix.column(dat$HOMEPOS)
-    dat$ICTRES   <- fix.column(dat$ICTRES)
-    dat$ESCS     <- fix.column(dat$ESCS)
-
-
-    dat$STRATUM <- as.character(dat$STRATUM)
-
-    dat$CCAA    <- gsub(".*: ([^,]*),.*", "\\1", dat$STRATUM)
-
-    dat$PUBPRIV <- "public"
-    dat$PUBPRIV[grep("private", dat$STRATUM)] <- "private"
-
-
-
+dat$PUBPRIV <- "public"
+dat$PUBPRIV[grep("private", dat$STRATUM)] <- "private"
+{{< / highlight >}}
 
 Las columnas de interés son:
 
-
-
-	  * `WEALTH`: platica del hogar
-	  * `CULTPOSS`: _posesiones culturales_
-	  * `HEDRES`: recursos educacionales del hogar
-	  * `HOMEPOS`: posesiones del hogar (¿en qué se diferencia de `WEALTH`?)
-	  * `ICTRES`: tabletas, móviles, ordenadores y otros aparatejos
-	  * `ESCS`: índice de nivel económico, social y cultural
-
+* `WEALTH`: platica del hogar
+* `CULTPOSS`: _posesiones culturales_
+* `HEDRES`: recursos educacionales del hogar
+* `HOMEPOS`: posesiones del hogar (¿en qué se diferencia de `WEALTH`?)
+* `ICTRES`: tabletas, móviles, ordenadores y otros aparatejos
+* `ESCS`: índice de nivel económico, social y cultural
 
 Estas columnas parecen construirse sintéticamente a partir de las respuestas (que también aparecen en el fichero) a una encuesta concomitante. Muchas de estas columnas están muy correlacionadas entre sí, tanto como yo con alguien que no sé si me leerá:
 
-
-
-
-    plot(dat[, c("WEALTH", "CULTPOSS", "HEDRES", "ESCS", "HOMEPOS")])
-
-
-
+{{< highlight R "linenos=true" >}}
+plot(dat[, c("WEALTH", "CULTPOSS", "HEDRES", "ESCS", "HOMEPOS")])
+{{< / highlight >}}
 
 ![](/wp-uploads/2016/12/correlacion_variables_pisa.png)
 
-
 Voy a centrarme en las resultados de matemáticas porque yo lo valgo:
 
-
-
-
-    targets <- grep("^PV[0-9]+MATH$", colnames(alumnos))
-    dat$target <- rowMeans(alumnos[, targets])
-    dotchart(sort(tapply(dat$target, dat$CCAA, mean)))
-
-
-
+{{< highlight R "linenos=true" >}}
+targets <- grep("^PV[0-9]+MATH$", colnames(alumnos))
+dat$target <- rowMeans(alumnos[, targets])
+dotchart(sort(tapply(dat$target, dat$CCAA, mean)))
+{{< / highlight >}}
 
 El gráfico resultante es desconcertante:
 
 ![](/wp-uploads/2016/12/matematicas_pisa_2015_ccaa.png)
 
-
 Fundamentalmente, porque aunque los valores están en línea con los publicados en la prensa (p.e., [aquí](http://elpais.com/elpais/2016/12/05/media/1480958752_164797.html)) no coinciden con ellos cabalmente. O el resultado por alumno se calcula de otra manera, o el promedio por región tiene ajustes adicionales (seguro que sí: de ahí el paquete `intsvy`) que no contemplo, o existe algún tipo de factor de elevación que he omitido. Lo segundo que más me preocupa, en todo caso y para mis fines, es haberme equivocado en la manera de calcular el promedio por alumno; lo que más de todo, arrastrar en mi posible error a mis lectores, a los que advierto que avancen con cautela.
 
 Con la información disponible se pueden construir gráficas tales que
 
-
-
-
-    boxplot(dat$target ~ dat$PUBPRIV)
-
-
-
+{{< highlight R "linenos=true" >}}
+boxplot(dat$target ~ dat$PUBPRIV)
+{{< / highlight >}}
 
 i.e.,
 
 ![](/wp-uploads/2016/12/pisa_2015_math_public_private.png)
 
-
 que [tanto irritan](https://www.datanalytics.com/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/) a los defensores de ese tipo de educación de [rectores copipaste](http://nadaesgratis.es/fernandez-villaverde/el-rector-y-los-plagios-mas-novedades).
 
 Pero vamos a la chicha:
 
+{{< highlight R "linenos=true" >}}
+library(lme4)
+library(lattice)
 
+modelo <- lmer(target ~ 1 + WEALTH + CULTPOSS + HEDRES +
+                    HOMEPOS + ICTRES + ESCS +
+                    (1 | CCAA) + (1 | PUBPRIV),
+                data = dat)
 
-
-    library(lme4)
-    library(lattice)
-
-    modelo <- lmer(target ~ 1 + WEALTH + CULTPOSS + HEDRES +
-                     HOMEPOS + ICTRES + ESCS +
-                     (1 | CCAA) + (1 | PUBPRIV),
-                   data = dat)
-
-    summary(modelo)
-    # Linear mixed model fit by REML ['lmerMod']
-    # Formula: target ~ 1 + WEALTH + CULTPOSS + HEDRES + HOMEPOS + ICTRES + ESCS + (1 | CCAA) + (1 | PUBPRIV)
-    # Data: dat
-    #
-    # REML criterion at convergence: 76079.8
-    #
-    # Scaled residuals:
-    #   Min      1Q  Median      3Q     Max
-    # -4.4830 -0.6818  0.0278  0.6915  4.2208
-    #
-    # Random effects:
-    #   Groups   Name        Variance Std.Dev.
-    # CCAA     (Intercept)  223.40  14.946
-    # PUBPRIV  (Intercept)   10.93   3.305
-    # Residual             4689.82  68.482
-    # Number of obs: 6736, groups:  CCAA, 18; PUBPRIV, 2
-    #
-    # Fixed effects:
-    #             Estimate Std. Error t value
-    # (Intercept) 499.7163     4.4088  113.34
-    # WEALTH      -47.2474     3.5227  -13.41
-    # CULTPOSS    -17.1966     1.9606   -8.77
-    # HEDRES       -7.4209     1.3823   -5.37
-    # HOMEPOS      69.4370     4.7987   14.47
-    # ICTRES        0.6887     1.9313    0.36
-    # ESCS         16.3323     1.0478   15.59
-    #
-    # Correlation of Fixed Effects:
-    #          (Intr) WEALTH CULTPO HEDRES HOMEPO ICTRES
-    # WEALTH   -0.029
-    # CULTPOSS -0.017  0.712
-    # HEDRES    0.021  0.563  0.448
-    # HOMEPOS  -0.031 -0.827 -0.849 -0.638
-    # ICTRES    0.064 -0.300  0.134 -0.075 -0.160
-    # ESCS      0.120  0.070  0.003  0.096 -0.241 -0.024
-
-
-
+summary(modelo)
+# Linear mixed model fit by REML ['lmerMod']
+# Formula: target ~ 1 + WEALTH + CULTPOSS + HEDRES + HOMEPOS + ICTRES + ESCS + (1 | CCAA) + (1 | PUBPRIV)
+# Data: dat
+#
+# REML criterion at convergence: 76079.8
+#
+# Scaled residuals:
+#   Min      1Q  Median      3Q     Max
+# -4.4830 -0.6818  0.0278  0.6915  4.2208
+#
+# Random effects:
+#   Groups   Name        Variance Std.Dev.
+# CCAA     (Intercept)  223.40  14.946
+# PUBPRIV  (Intercept)   10.93   3.305
+# Residual             4689.82  68.482
+# Number of obs: 6736, groups:  CCAA, 18; PUBPRIV, 2
+#
+# Fixed effects:
+#             Estimate Std. Error t value
+# (Intercept) 499.7163     4.4088  113.34
+# WEALTH      -47.2474     3.5227  -13.41
+# CULTPOSS    -17.1966     1.9606   -8.77
+# HEDRES       -7.4209     1.3823   -5.37
+# HOMEPOS      69.4370     4.7987   14.47
+# ICTRES        0.6887     1.9313    0.36
+# ESCS         16.3323     1.0478   15.59
+#
+# Correlation of Fixed Effects:
+#          (Intr) WEALTH CULTPO HEDRES HOMEPO ICTRES
+# WEALTH   -0.029
+# CULTPOSS -0.017  0.712
+# HEDRES    0.021  0.563  0.448
+# HOMEPOS  -0.031 -0.827 -0.849 -0.638
+# ICTRES    0.064 -0.300  0.134 -0.075 -0.160
+# ESCS      0.120  0.070  0.003  0.096 -0.241 -0.024
+{{< / highlight >}}
 
 Hay una correlación insidiosa (aunque prevista) entre algunas de las variables más importantes que tiene el efecto previsto: unos efectos que se intercancelan. Pero globalmente, sí, se aprecia que más es más. Los cacharrillos electrónicos van a su aire (porque parece que se los pueden permitir todos y cualquier gañán tiene mejor móvil que yo) y ni ponen ni quitan.
 
 Eso en cuanto a lo fijo. En cuanto a lo aleatorio,
 
-
-
-
-    dotplot(ranef(modelo, condVar = TRUE))
-
-
-
+{{< highlight R "linenos=true" >}}
+dotplot(ranef(modelo, condVar = TRUE))
+{{< / highlight >}}
 
 dibuja, primero,
 

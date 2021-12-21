@@ -17,7 +17,6 @@ Me mandan un _whatsapp_. Es de alguien que está en una charla de _ciencia de da
 
 ![homeopatia_funciona](/wp-uploads/2016/11/homeopatia_funciona.jpg)
 
-
 Supongo que al ponente _le funcionaría_.
 
 El éxito de la ciencia de datos parece tener aparejada una plaga de homeopatía de datos. Algo habrá que hacer. Por lo pronto, emplear el escepticismo para algo más que para asestar grandes lanzadas a moros muertos.

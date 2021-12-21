@@ -22,38 +22,31 @@ Una pequeña maravilla teórica que me ha hecho replantearme la absoluta inutili
 
 Y aunque
 
-
-
-	  * haya discusión sobre si los futuros son o no son mónadas y
-	  * en R no exista un `flatmap` propiamente dicho,
-
+* haya discusión sobre si los futuros son o no son mónadas y
+* en R no exista un `flatmap` propiamente dicho,
 
 inspirado por todo lo anterior, el otro día escribí este pequeño bloque de código que, aun siendo mío, me maravilla:
 
+{{< highlight R "linenos=true" >}}
+library(magrittr)
+library(future)
 
+query.children <- function(x){
+  future({
+    tmp <- value(x)
+    Sys.sleep(2)   # simulate waiting for resource
+    tmp + 1
+  })
+}
 
+query.node <- function(x){
+  future({
+    Sys.sleep(2)   # simulate waiting for resource
+    x
+  })
+}
 
-    library(magrittr)
-    library(future)
-
-    query.children <- function(x){
-      future({
-        tmp <- value(x)
-        Sys.sleep(2)   # simulate waiting for resource
-        tmp + 1
-      })
-    }
-
-    query.node <- function(x){
-      future({
-        Sys.sleep(2)   # simulate waiting for resource
-        x
-      })
-    }
-
-    res <- query.node(1) %>% query.children %>% query.children
-
-
-
+res <- query.node(1) %>% query.children %>% query.children
+{{< / highlight >}}
 
 Ahora, en serio, ¿quién quiere _callbacks_?

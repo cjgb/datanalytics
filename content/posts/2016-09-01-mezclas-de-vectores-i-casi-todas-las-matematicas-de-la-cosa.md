@@ -20,9 +20,7 @@ Construyo entonces la función $latex h(x, x_1, f_1) = \|f_1(x) - f_1(x_1) \|$ y
 
 Tomo un segundo vector $latex x_2$ y otra función $latex f_2$ similar a la anterior y defino, para un valor $latex \alpha \in [0,1]$ la función
 
-
-$latex h(x, \alpha, x_1, f_1, x_2, f_2) = \alpha h(x, x_1, f_1) + (1-\alpha) h(x, x_2, f_2)$
-
+$$ h(x, \alpha, x_1, f_1, x_2, f_2) = \alpha h(x, x_1, f_1) + (1-\alpha) h(x, x_2, f_2)$$
 
 ¿Qué cosa esperamos de su mínimo? Tiene que ser algo que se parezca a la vez a $latex x_1$ y a $latex x_2$, una especie de mezcla de ambos vectores.
 

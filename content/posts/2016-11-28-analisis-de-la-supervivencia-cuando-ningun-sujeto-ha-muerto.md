@@ -22,7 +22,6 @@ Así que `survreg` no puede converger: se va para la derecha. ¿Qué impide que 
 
 ![live_forever](/wp-uploads/2016/11/live_forever.jpg)
 
-
 Estoy dándole vueltas a la cabeza con este problema. También he buscado algo por ahí, pero no he dado con la discusión de algún problema parecido por ninguna parte.
 
 He simulado la edad de una cohorte de cámaras que se mueren según una Weibull (¿por qué no una Weibull? se usa mucho para estimar la vida de aparatejos) de diversos parámetros. Pero aún no sé cómo casar datos con simulaciones (¿momentos?).
@@ -31,17 +30,15 @@ Así que si alguien tiene una idea al respecto... ¡Que no deje pasar la ocasió
 
 Finalmente, por si alguien quiere echarle un vistazo a los datos, los puede bajar así:
 
+{{< highlight R "linenos=true" >}}
+library(rvest)
 
+res <- read_html("http://micro4tercios.com/foro/viewtopic.php?f=5&t;=26600")
+res <- html_nodes(res,
+                xpath='//*[@class="polls"]/dl/dd[@class="resultbar"]')
+res <- as.numeric(html_text(res))
+res <- res[!is.na(res)]
 
-
-    library(rvest)
-
-    res <- read_html("http://micro4tercios.com/foro/viewtopic.php?f=5&t;=26600")
-    res <- html_nodes(res,
-                 xpath='//*[@class="polls"]/dl/dd[@class="resultbar"]')
-    res <- as.numeric(html_text(res))
-    res <- res[!is.na(res)]
-
-    edad.camaras <- data.frame(tiempo = 0.5 * (0:(length(res)-1)) + 0.25,
-                               numero = res)
-
+edad.camaras <- data.frame(tiempo = 0.5 * (0:(length(res)-1)) + 0.25,
+                            numero = res)
+{{< / highlight >}}
