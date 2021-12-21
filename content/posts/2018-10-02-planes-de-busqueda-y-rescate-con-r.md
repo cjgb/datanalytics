@@ -14,7 +14,7 @@ tags:
 - r
 ---
 
-Existe un paquete muy curioso en CRAN, `[rSARP](https://cran.r-project.org/package=rSARP)` para diseñar, optimizar y comunicar la evolución de planes de búsqueda y/o rescate (p.e., de un niño desaparecido en un monte).
+Existe un paquete muy curioso en CRAN, [`rSARP`](https://cran.r-project.org/package=rSARP) para diseñar, optimizar y comunicar la evolución de planes de búsqueda y/o rescate (p.e., de un niño desaparecido en un monte).
 
 Es particularmente interesante porque este tipo de problemas lo tienen todo: desde distribuciones a priori (sobre dónde es más probable encontrar lo que se busca) hasta la decisión final (explórese tanto aquí y tanto allá) teniendo en cuenta restricciones de tiempo y recursos.
 

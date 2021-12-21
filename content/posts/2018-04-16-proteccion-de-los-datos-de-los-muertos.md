@@ -21,14 +21,11 @@ He aquí la (¿aparente?) aporía.
 
 Por un lado, sábese que [_la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos (en adelante, LOPD), no es de aplicación a las personas fallecidas_](http://www.ibidem.com/derecho-al-honor-proteccion-datos-personas-fallecidas/). Pero, por otro:
 
-
-
-	  * La Agencia Tributaria ni ha publicado ni es fácil que publique las declaraciones de la renta del finado Sr. Botín.
-	  * Gmail no deja meter la nariz en los correos de finados.
-	  * El INE anonimiza los microdatos públicos de defunciones y excluye la causa de muerte.
-	  * El registro civil no publica las actas de nacimiento, matrimonio, defunción, etc. de los fallecidos.
-	  * Etc.
-
+* La Agencia Tributaria ni ha publicado ni es fácil que publique las declaraciones de la renta del finado Sr. Botín.
+* Gmail no deja meter la nariz en los correos de finados.
+* El INE anonimiza los microdatos públicos de defunciones y excluye la causa de muerte.
+* El registro civil no publica las actas de nacimiento, matrimonio, defunción, etc. de los fallecidos.
+* Etc.
 
 A lo más, la actual LOPD (veamos qué nos trae la siguiente) permite que los herederos comuniquen (pero en plan solicitud, no en plan ejercicio de un derecho) su interés en la eliminación de registros de sus familiares difuntos que obren en poder de empresas y organismos.
 
@@ -44,10 +41,6 @@ Y la [_ley orgánica 1/1982, de 5 de mayo, de protección civil del derecho al h
 
 Así que no está claro. Tengo la sensación de que los datos de fallecidos no se liberan, salvo en los casos en que se prohíbe explícitamente, por algún tipo de principio de inercia admistrativa:
 
-
-
-<blockquote>Todo registro administrativo conserva indefinidamente su estado confidencial si sobre él no actúa ninguna fuerza o si las fuerzas que se le aplican resultan en un silencio administrativo absoluto.</blockquote>
-
-
+>Todo registro administrativo conserva indefinidamente su estado confidencial si sobre él no actúa ninguna fuerza o si las fuerzas que se le aplican resultan en un silencio administrativo absoluto.
 
 Pero vaya Vd. a saber.

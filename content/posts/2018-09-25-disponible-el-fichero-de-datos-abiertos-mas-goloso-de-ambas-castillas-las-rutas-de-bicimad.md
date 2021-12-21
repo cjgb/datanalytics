@@ -21,36 +21,21 @@ Los datos están [aquí](http://opendata.emtmadrid.es/Datos-estaticos/Datos-gene
 
 Se puede leer con código no muy distinto de este:
 
+{{< highlight R "linenos=true" >}}
+library(RJSONIO)
 
-
-
-    library(RJSONIO)
-
-    raw <- readLines("201808_Usage_Bicimad.json")
-    dat <- iconv(raw, "latin1", "utf8")
-    dat <- sapply(dat, fromJSON)
-
-
-
+raw <- readLines("201808_Usage_Bicimad.json")
+dat <- iconv(raw, "latin1", "utf8")
+dat <- sapply(dat, fromJSON)
+{{< / highlight >}}
 
 A bote pronto, se me ocurren algunas cosas que se pueden hacer con esos datos:
 
-
-
-	  * Comprobar si la anonimización está bien hecha.
-	  * Ver la distribución de tiempos de recorridos entre pares de estaciones; hacer un ránking de los más rápidos al norte del Manzanares.
-	  * Ver en qué medida las rutas elegidas por los usuarios son complementarias o compiten con el transporte público.
-
+* Comprobar si la anonimización está bien hecha.
+* Ver la distribución de tiempos de recorridos entre pares de estaciones; hacer un ránking de los más rápidos al norte del Manzanares.
+* Ver en qué medida las rutas elegidas por los usuarios son complementarias o compiten con el transporte público.
 
 **Notas:**
 
-
-
-	  * Este fichero me ha pillado demasiado ocupado en otros asuntos. No tengáis una vida tan triste como la mía y haced cosas interesantes con ellos.
-	  * El ayuntamiento ha redefinido JSON como JSON con codificación `latin1` en lugar del imperativo `utf-8`. ¡Animalicos!
-
-
-
-
-
-
+* Este fichero me ha pillado demasiado ocupado en otros asuntos. No tengáis una vida tan triste como la mía y haced cosas interesantes con ellos.
+* El ayuntamiento ha redefinido JSON como JSON con codificación `latin1` en lugar del imperativo `utf-8`. ¡Animalicos!

@@ -16,10 +16,4 @@ tags:
 - xbox
 ---
 
-
-
-
 Muchos hablan de las _cocinas_ de la que salen los resultados de las encuestas electorales pero pocos las han visto. ¿Qué ocurre en ellas y qué problemas tratan de resolver? Lee _[Forecasting elections with non-representative polls](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/forecasting-with-nonrepresentative-polls.pdf)_ y lo verás (bien hecho, no a lo Tezanos _el Metodólogo_).
-
-
-

@@ -7,8 +7,10 @@ title: p-valores y el perro que no ladró
 url: /2018/12/20/p-valores-y-el-perro-que-no-ladro/
 categories:
 - estadística
+- mala ciencia
 tags:
 - ciencia
+- mala ciencia
 - p-valor
 - replicabilidad
 - reproducibilidad

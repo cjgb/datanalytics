@@ -14,36 +14,10 @@ tags:
 - estadística
 ---
 
-
-
-
 Recomiendo, sin comentarlo, un artículo muy desasosegador en el que se leen cosas como:
 
-
-
-
-
-
-
-<blockquote>At this point, I had taken only an introductory statistics class that was a required general elective, and then promptly forgotten most of it. Needless to say, my statistical skills were not very strong. Yet, I was able to read and understand a paper on a state-of-the-art generative machine learning model, implement it from scratch, and generate quite convincing fake images of non-existent individuals by training it on the MS Celebs dataset.
->
-> </blockquote>
-
-
-
-
-
-
+>At this point, I had taken only an introductory statistics class that was a required general elective, and then promptly forgotten most of it. Needless to say, my statistical skills were not very strong. Yet, I was able to read and understand a paper on a state-of-the-art generative machine learning model, implement it from scratch, and generate quite convincing fake images of non-existent individuals by training it on the MS Celebs dataset.
 
 Todo interesante y nada que tomarse a la ligera. Es [_No, Machine Learning is not just glorified Statistics_](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3).
 
-
-
-
-
-
-
 **Nota:** coméntalo si quieres; yo igual vuelvo sobre él pronto.
-
-
-

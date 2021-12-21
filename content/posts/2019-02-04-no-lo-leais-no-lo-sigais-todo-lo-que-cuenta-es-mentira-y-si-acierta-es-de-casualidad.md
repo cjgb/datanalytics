@@ -15,10 +15,4 @@ tags:
 - estadística
 ---
 
-
-
-
 Y me refiero a [esto](https://muestrear-no-es-pecado.netlify.com). Pero lo dicho: es, de entre lo malo, lo peor. Hacedme caso.
-
-
-

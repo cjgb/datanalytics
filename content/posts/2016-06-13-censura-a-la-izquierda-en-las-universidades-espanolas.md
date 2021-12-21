@@ -9,7 +9,7 @@ categories:
 - r
 tags:
 - r
-- rstan
+- stan
 - selectividad
 - universidad
 ---

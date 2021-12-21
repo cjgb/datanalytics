@@ -14,18 +14,6 @@ tags:
 - nlp
 ---
 
-
-
-
 Así que si eres uno de ellos, lee [esto](https://openai.com/blog/better-language-models/). Todo. Completo. Incluidos los motivos por los que no se va a liberar tal cual.
 
-
-
-
-
-
-
 Si te quedas con ganas de más, lee [esto](https://slatestarcodex.com/2019/03/14/gwerns-ai-generated-poetry/) (un divertimento) o, más en serio, [esto otro](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/), donde se da cuenta de uno de los logros de GPT-2 que, a primera vista, pasa desapercibido: que ha logrado adquirir determinadas habilidades sin haber sido entrenado específicamente para ello.
-
-
-

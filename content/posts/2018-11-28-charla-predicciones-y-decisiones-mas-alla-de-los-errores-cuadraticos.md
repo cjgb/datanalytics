@@ -22,13 +22,8 @@ Para la mía han creado el siguiente cartelito:
 
 ![](/wp-uploads/2018/11/konferences_201811.jpg)
 
-
 El resumen que preparé es:
 
-
-
-<blockquote>Se hace ciencia de datos para tomar decisiones. Las predicciones, mejores o peores, alimentan procesos de decisión (p.e., ¿se concede este préstamo?). Sin embargo, existe una brecha enorme (en términos de equipos responsables y de comunicación entre ambos) entre quienes construyen los procesos predictivos y quienes toman las decisiones finales. A falta de mejor criterio, los científicos de datos utilizan funciones de pérdida genéricas (p.e., el RMSE) y prestan una atención excesiva a la estimación puntual. Ambas son decisiones subóptimas. Integrar el proceso predictivo en el de toma de decisiones conduciría de forma natural a la adopción de funciones de pérdida distintas y a prestar mucha menos atención al hecho de acertar con las predicciones y más a la idoneidad de las decisiones.</blockquote>
-
-
+>Se hace ciencia de datos para tomar decisiones. Las predicciones, mejores o peores, alimentan procesos de decisión (p.e., ¿se concede este préstamo?). Sin embargo, existe una brecha enorme (en términos de equipos responsables y de comunicación entre ambos) entre quienes construyen los procesos predictivos y quienes toman las decisiones finales. A falta de mejor criterio, los científicos de datos utilizan funciones de pérdida genéricas (p.e., el RMSE) y prestan una atención excesiva a la estimación puntual. Ambas son decisiones subóptimas. Integrar el proceso predictivo en el de toma de decisiones conduciría de forma natural a la adopción de funciones de pérdida distintas y a prestar mucha menos atención al hecho de acertar con las predicciones y más a la idoneidad de las decisiones.
 
 Los detalles espaciotemporales y otras concomitancias relevantes para los asistentes pueden consultarse [aquí](https://www.eventbrite.es/e/entradas-data-konferences-52531154096).

@@ -28,9 +28,6 @@ Para entender la situación mejor, he representado la evolución histórica del 
 
 ![](/wp-uploads/2018/03/censo_padron.png)
 
-
 Y eso, las diferencias son pequeñas (inferiores al 1%, lo cual es irrelevanta para las más de las aplicaciones) aunque se aprecian fenómenos insulares extraños.
 
 No he querido pensar más sobre el asunto. Pero solicito el comodín del público: alguien que me lea conocerá los detalles y hará un enorme servicio a todos compartiendo su ciencia con los demás. Pero insisto: _ciencia_. Porque últimamente ha aparecido en los comentarios una horda de ocurrentes opinadores que son lo más parecido a un ruido blanco.
-
-

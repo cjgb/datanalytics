@@ -24,7 +24,6 @@ La distribución provincial de suscriptores fue:
 
 ![](/wp-uploads/2018/04/platon_provincias.png)
 
-
 Ciertamente curiosa.
 
 Más información (incluida la lista de los suscriptores, tanto institucionales como privados), [aquí](http://www.filosofia.org/ave/001/a165.htm#mapa).

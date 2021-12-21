@@ -19,11 +19,8 @@ Habida cuenta de el problema de los bulos no son los bulos en sí sino la existe
 
 Por ejemplo:
 
-
-
-
-	  * ¿Intentar redimirlos?
-	  * ¿Tratar de desvincularnos de ellos? (Sí, regar nuestro propio jardín y dejarlos vociferar más allá de la tapia)
-	  * ¿Aprovechar su credulidad para inventar algún método para separarlos lucrativamente de su dinero?
-	  * ¿Otras?
+* ¿Intentar redimirlos?
+* ¿Tratar de desvincularnos de ellos? (Sí, regar nuestro propio jardín y dejarlos vociferar más allá de la tapia)
+* ¿Aprovechar su credulidad para inventar algún método para separarlos lucrativamente de su dinero?
+* ¿Otras?
 

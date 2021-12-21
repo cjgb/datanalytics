@@ -7,13 +7,13 @@ title: Feria del libro, 2019
 url: /2019/06/04/feria-del-libro-2019/
 categories:
 - libros
+- varios
 tags:
 - libros
+- feria del libro
 ---
 
-
 Fui a la Feria del Libro. El calor era el de L'Étranger. Comencé por la caseta uno. TOC. Riguroso orden hasta la _cientiypico_.
-
 
 _Libros, libros por todas partes..._
 
@@ -34,6 +34,3 @@ Ya sé por qué fue a la cárcel un editor que conocí recientemente. Dijo: es u
 No sé si ir a la feria del libro y no departir con la tía de la Ed. Bercimuel puede llamarse ir a la _feria de libro_. Este año, tal vez, no estuve.
 
 Consejo final: editoriales pequeñas.
-
-
-

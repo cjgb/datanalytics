@@ -22,7 +22,6 @@ Así que observando
 
 ![](/wp-uploads/2018/03/caverna_platon.jpg)
 
-
 no pude dejar de pensar que sugiere perfectamente los modelos (de factores) ocultos: _kriggin_, Kalman, los HMM, etc.
 
 En definitiva, los humanos vemos las sombras (ruidosas) de unos objetos ideales que permanecen escondidos. Aunque a diferencia del iluminado platónico que logra girar la cabeza, nosotros, simplemente, exprimimos las sombras para conocer más y mejor los objetos que las proyectan.

@@ -10,19 +10,17 @@ categories:
 tags:
 - r
 - semilla
+- random
 ---
 
-<code>suppressWarnings(set.seed(exp(pi * complex(imaginary = 1))))
-    runif(1)
-    #[1] 0.4866672
-    set.seed(-1)
-    runif(1)
-    #[1] 0.4866672</code>
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+suppressWarnings(set.seed(exp(pi * complex(imaginary = 1))))
+runif(1)
+#[1] 0.4866672
+set.seed(-1)
+runif(1)
+#[1] 0.4866672
+{{< / highlight >}}
 
 **Coda:** ¿De qué si no creéis que iba esto?
 

@@ -20,9 +20,7 @@ Lo hace, por ejemplo, en los [microdatos de la Encuesta de Estructura Salarial d
 
 Comentarios adicionales:
 
-
-
- 	  * Se  agradece particularmente la vocación de servicio público que manifiesta el que se proporcione el código. Antes el INE liberaba los microdatos como quien echa de comer a los cochinos.
- 	  * No obstante, es un tanto pleonástico liberar datos en un formato, el que sea, y luego código para leerlo en diversos lenguajes. Es mejor liberarlos en un formato estándar y adecuado para la transferencia de datos (JSON es una buena opción) y que luego, cada cual se busque la vida.
- 	  * El punto anterior no significa que el mecanismo anterior de liberación de datos fuese bueno: el formato usado era todo menos estándar y adecuado para la transferencia de datos.
+* Se  agradece particularmente la vocación de servicio público que manifiesta el que se proporcione el código. Antes el INE liberaba los microdatos como quien echa de comer a los cochinos.
+* No obstante, es un tanto pleonástico liberar datos en un formato, el que sea, y luego código para leerlo en diversos lenguajes. Es mejor liberarlos en un formato estándar y adecuado para la transferencia de datos (JSON es una buena opción) y que luego, cada cual se busque la vida.
+* El punto anterior no significa que el mecanismo anterior de liberación de datos fuese bueno: el formato usado era todo menos estándar y adecuado para la transferencia de datos.
 

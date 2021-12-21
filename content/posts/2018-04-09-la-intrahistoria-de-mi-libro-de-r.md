@@ -25,12 +25,9 @@ Nada hay más aburrido que un proselitista. Así que no proselitizo. Yo simpleme
 
 Yo me fijé muy mucho en aquellas cosas que más interesaron a los neoconversos, aquellas cosas que realmente les interesaban y que ellos entendían que resultaban muy útiles en su trabajo. Y eran tres:
 
-
-
-	  * Gráficos
-	  * Shiny
-	  * Documentos (incluidas presentaciones) en Rmarkdown
-
+* Gráficos
+* Shiny
+* Documentos (incluidas presentaciones) en Rmarkdown
 
 Esa gente estaba dispuesta a aprender las partes áridas y aburridas de R con tal de alcanzar algunos (o todos) de esos objetivos.
 

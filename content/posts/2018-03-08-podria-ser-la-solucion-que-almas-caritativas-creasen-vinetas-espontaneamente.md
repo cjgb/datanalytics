@@ -23,6 +23,4 @@ Lo cual cabrea mucho.
 
 Por eso es tan de agradecer que gente como la que escribe [esto](https://jcarroll.com.au/2018/03/06/jc-and-the-vignettes/) tenga por _hobby_ redactar espontáneamente viñetas para acompañar aquellos paquetes que vienen sin ellas.
 
-**Nota:**
-
-Del estudio _económico_ (incentivos, etc.) superficial de la cosa, cabe esperar que la moda de la reproducibilidad incremente el volumen de código liberado, sí, pero que decrezca su calidad y usabilidad. Además, el típico académico no tiene interés en mantener su código (o publica o perece: lo que quedó atrás es tierra quemada); así que cabe esperar que muchos paquetes languidezcan hasta que dejen de pasar los _checks_ de futuras versiones.
+**Nota:** Del estudio _económico_ (incentivos, etc.) superficial de la cosa, cabe esperar que la moda de la reproducibilidad incremente el volumen de código liberado, sí, pero que decrezca su calidad y usabilidad. Además, el típico académico no tiene interés en mantener su código (o publica o perece: lo que quedó atrás es tierra quemada); así que cabe esperar que muchos paquetes languidezcan hasta que dejen de pasar los _checks_ de futuras versiones.

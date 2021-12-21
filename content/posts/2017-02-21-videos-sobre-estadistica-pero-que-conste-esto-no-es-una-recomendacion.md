@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
-- vídeo
+- vídeos
 - youtube
 ---
 

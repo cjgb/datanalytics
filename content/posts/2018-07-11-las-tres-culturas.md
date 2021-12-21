@@ -22,11 +22,9 @@ Según él, la estadística tradicional _rellena_ la caja negra con:
 
 ![](/wp-uploads/2018/07/breiman_statistics.png)
 
-
 ¡Aburrido, aburrido, aburrido! Aburrido y limitado (aunque, hay que admitirlo, útil en ocasiones muy concretas). Breiman sugiere sustituir las cajas negras que encontramos en la naturaleza por otras cajas negras conceptuales:
 
 ![](/wp-uploads/2018/07/breiman_ml.png)
-
 
 Que es aún más aburrido y patrimonio, además, de toda suerte de _script kiddies_.
 

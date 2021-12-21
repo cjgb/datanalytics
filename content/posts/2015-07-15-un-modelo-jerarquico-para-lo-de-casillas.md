@@ -13,7 +13,7 @@ tags:
 - estadística bayesiana
 - modelos jerárquicos
 - r
-- rstan
+- stan
 - stan
 ---
 

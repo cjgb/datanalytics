@@ -20,7 +20,6 @@ De acuerdo con [Eurostat](http://ec.europa.eu/eurostat/statistics-explained/inde
 
 ![](/wp-uploads/2018/04/impuestos_dinamarca.png)
 
-
 son más altos que los españoles, pero tampoco puede decirse que estén desaforadamente por encima.
 
 En cualquier caso, ese salto (del 7.5% al 25%), puede descomponerse en dos partes. La primera, efecto de cambiar los tipos impositivos en España (sobre la [actual distribución de la renta](http://nadaesgratis.es/visual/de-la-renta-de-los-ricos-y-de-los-pobres)). La segunda, efecto de cambiar la distribución de la renta a otra que representase la danesa. O, por otra vía, aplicando primero los tipos españoles a una distribución de renta como la danesa.

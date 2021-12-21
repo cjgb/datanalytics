@@ -12,36 +12,10 @@ tags:
 - sicología
 ---
 
-
-
-
 Creo que es innecesario hacer las presentaciones con el [problema de Monty Hall](https://es.wikipedia.org/wiki/Problema_de_Monty_Hall). Me limitaré a decir que es tremendamente antiintuitivo y que, de hecho, siguen publicándose artículos sobre _trucos mentales_ para evitar que la gente _caiga_, como, p.e., _[The Psychology of the Monty Hall Problem: Discovering Psychological Mechanisms for Solving a Tenacious Brain Teaser](http://usd-apps.usd.edu/xtwanglab/Papers/MontyHallPaper.pdf)_. Discuten, claro está, todo lo que tiene que ver con las _frecuencias naturales_, etc.
-
-
-
-
-
-
 
 Alternativamente, uno puede pensar en un problema perfectamente equivalente en el que la intuición no nos engañe. Y, curiosamente, [parece existir](https://math.stackexchange.com/questions/96826/the-monty-hall-problem/3360686#3360686):
 
-
-
-
-
-
-
-<blockquote>Hay tres boxeadores. Dos de ellos, B y C, son amateurs y de habilidad similar.  De combatir entre ellos, pueden ganar o perder indistintamente. El tercer boxeador, A, es un profesional y vencería a cualquiera de los otros dos siempre. Sin más información, tratas de adivinar cuál de ellos es A. Eliges tu candidato y se organiza una pelea entre los otros dos. ¿Quién piensas entonces que es más probable que sea A, tu elección o el vencedor?
->
-> </blockquote>
-
-
-
-
-
-
+>Hay tres boxeadores. Dos de ellos, B y C, son amateurs y de habilidad similar.  De combatir entre ellos, pueden ganar o perder indistintamente. El tercer boxeador, A, es un profesional y vencería a cualquiera de los otros dos siempre. Sin más información, tratas de adivinar cuál de ellos es A. Eliges tu candidato y se organiza una pelea entre los otros dos. ¿Quién piensas entonces que es más probable que sea A, tu elección o el vencedor?
 
 Más info al respecto, [aquí](https://marginalrevolution.com/marginalrevolution/2019/09/the-intuitive-monty-hall-problem.html) y [aquí](https://statmodeling.stat.columbia.edu/2019/09/19/alternative-more-intuitive-formulation-of-monte-hall-problem/).
-
-
-

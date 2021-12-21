@@ -11,7 +11,7 @@ tags:
 - binomial
 - encuestas
 - mezclas
-- rstan
+- stan
 - stan
 - twitter
 ---

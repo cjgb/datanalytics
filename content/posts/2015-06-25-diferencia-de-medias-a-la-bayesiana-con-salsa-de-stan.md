@@ -12,7 +12,7 @@ tags:
 - estadística bayesiana
 - gosset
 - r
-- rstan
+- stan
 - stan
 - student
 - t-test

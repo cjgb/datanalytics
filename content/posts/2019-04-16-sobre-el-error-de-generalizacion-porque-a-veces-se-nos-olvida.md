@@ -14,66 +14,18 @@ tags:
 - validación cruzada
 ---
 
-
-
-
 Al construir modelos, queremos minimizar
 
+$$ l(\theta) = \int L(y, f_\theta(x))  dP(x,y),$$
 
+donde $L$ es una determinada función de pérdida (y no, no me refiero exclusivamente a la que tiene un numerillo 2). Pero como de $latex P(x,y)$ solo conocemos una muestra $latex (x_i, y_i)$ (dejadme aprovechar la ocasión para utilizar una de mis palabras favoritas: $latex P(x,y)$ es incognoscible), hacemos uso de la aproximación
 
-
-
-
-
-$latex l(\theta) = \int L(y, f_\theta(x)) \, dP(x,y),$
-
-
-
-
-
-
-
-donde $L$ es una determinada función de pérdida (y no, no me refiero exclusivamente a la que tiene un numerilo 2). Pero como de $latex P(x,y)$ solo conocemos una muestra $latex (x_i, y_i)$ (dejadme aprovechar la ocasión para utilizar una de mis palabras favoritas: $latex P(x,y)$ es incognoscible), hacemos uso de la aproximación
-
-
-
-
-
-
-
-$latex \int f(x) \, dP(x) \approx \frac{1}{N} \sum f(x_i)$
-
-
-
-
-
-
+$$ \int f(x) dP(x) \approx \frac{1}{N} \sum f(x_i)$$
 
 para plantear en su lugar la minimización de
 
-
-
-
-
-
-
-$latex l(\theta) \approx \frac{1}{N} \sum L(y_i, f_\theta(x_i)).$
-
-
-
-
-
-
+$$ l(\theta) \approx \frac{1}{N} \sum L(y_i, f_\theta(x_i)).$$
 
 Casi todo lo demás (validación cruzada, etc.), recuérdese, son trucos más o menos ingeniosos para estimar la diferencia
 
-
-
-
-
-
-
-$latex  l(\hat{\theta}) - \frac{1}{N} \sum L(y_i, f_{\hat{\theta}}(x_i)).$
-
-
-
+$$  l(\hat{\theta}) - \frac{1}{N} \sum L(y_i, f_{\hat{\theta}}(x_i)).$$

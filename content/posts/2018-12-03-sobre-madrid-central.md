@@ -19,19 +19,13 @@ Lo de Madrid Central no se ha notado en absoluto en mi barrio. Ni se notará. Vi
 
 ![](/wp-uploads/2018/12/Áreas-de-Prioridad-Residencial-GENERAL.jpg)
 
-
 Me enteré de su existencia a primeros de 2009 cuando recibí una multa de tráfico por haber incursionado en la mía con un coche de alquiler con el que quería transportar unos trastos de casa. [Así las gasta el ayuntamiento](https://www.abc.es/espana/madrid/abci-crecen-144-por-ciento-hasta-470000-multas-entrar-201712110031_noticia.html):
 
-
-
-<blockquote>Si en los primeros nueve meses de 2015 se contabilizaron 289.000 expedientes sancionadores (26 millones de euros), en 2016 la cifra alcanzó los 402.000 en el mismo periodo (36,1 millones de euros). Este año, ha continuado la tendencia alcista y las multas llegan hasta las 470.000, un 14,4% más (42,3 millones de euros). </blockquote>
-
-
+>Si en los primeros nueve meses de 2015 se contabilizaron 289.000 expedientes sancionadores (26 millones de euros), en 2016 la cifra alcanzó los 402.000 en el mismo periodo (36,1 millones de euros). Este año, ha continuado la tendencia alcista y las multas llegan hasta las 470.000, un 14,4% más (42,3 millones de euros).
 
 El nuevo Madrid Central no es otra cosa que la expansión de esas antiguas APR a una zona más amplia,
 
 ![](/wp-uploads/2018/12/madrid_central.jpg)
-
 
 más notoria (porque incluye calles principales) y con un funcionamiento similar. Es decir, basado en reglitas sobre quién puede y no puede entrar y un engorroso y burocrático proceso para que los residentes podamos autorizar visitantes (p.e., un electricista que venga en su furgoneta de fuera).
 

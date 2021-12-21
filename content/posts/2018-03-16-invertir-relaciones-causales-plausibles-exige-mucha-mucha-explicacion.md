@@ -6,9 +6,9 @@ title: Invertir relaciones causales plausibles exige mucha, mucha explicación
 
 url: /2018/03/16/invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion/
 categories:
-- varios
+- causalidad
 tags:
-- lógica
+- causalidad
 - prensa
 ---
 
@@ -20,11 +20,7 @@ Podría añadir más casos hipotéticos similares. En todos ellos aparecería un
 
 Por eso llama la atención que cosas como que
 
-
-
-<blockquote>España cuenta con uno de los índices más bajos de criminalidad en los países del entorno europeo [...] y sin embargo nuestro Código Penal es de los más duros en la regulación de las penas privativas de libertad.</blockquote>
-
-
+>España cuenta con uno de los índices más bajos de criminalidad en los países del entorno europeo [...] y sin embargo nuestro Código Penal es de los más duros en la regulación de las penas privativas de libertad.
 
 [acaben publicadas en un periódico](https://elpais.com/elpais/2018/03/14/opinion/1521045684_650337.html) presuntamente serio.
 

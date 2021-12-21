@@ -11,6 +11,7 @@ tags:
 - desigualdad
 - estadística pública
 - libros
+- reificación
 ---
 
 Por ejemplo, el de la _igualdad_. Aquí [un artículo en el que se dice que no](http://nadaesgratis.es/bentolila/ha-crecido-la-desigualdad-en-espana-hmm) y [otro del mismo autor en el que se dice que sí](http://nadaesgratis.es/bentolila/ha-crecido-la-desigualdad-en-espana-ii-pues-va-a-ser-que-si) (parece que todo se reduce a cuestiones metodológicas).

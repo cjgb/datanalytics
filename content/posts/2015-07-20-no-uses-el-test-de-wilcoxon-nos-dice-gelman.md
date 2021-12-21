@@ -8,7 +8,7 @@ url: /2015/07/20/no-uses-el-test-de-wilcoxon-nos-dice-gelman/
 categories:
 - estadística
 tags:
-- rstan
+- stan
 - wilcoxon
 ---
 

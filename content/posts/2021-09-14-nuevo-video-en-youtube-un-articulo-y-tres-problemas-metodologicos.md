@@ -15,7 +15,7 @@ tags:
 - econometría
 - economía
 - metodología
-- vídeo
+- vídeos
 - youtube
 ---
 

@@ -16,36 +16,10 @@ tags:
 - texto
 ---
 
-
-
-
 Supongo que todo el mundo estará enterado de lo que hizo Shannon en 1948: generar texto automático usando cadenas de Markov (el que no, que mire [esto](https://fulmicoton.com/posts/shannon-markov/)).
-
-
-
-
-
-
 
 ![](/wp-uploads/2019/01/shannon_text.png)
 
-
-
-
-
-
-
-
 El que no, que eche un vistazo a [esto](https://freakonometrics.hypotheses.org/17113) otro para ver cómo una extensión de la idea original permite simular posibles trayectorias de huracanes.
 
-
-
-
-
-
-
 ![](/wp-uploads/2019/01/shannon_huracanes.png)
-
-
-
-

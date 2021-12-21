@@ -10,7 +10,7 @@ categories:
 tags:
 - curso
 - kriging
-- rstan
+- stan
 - stan
 - upc
 ---
@@ -27,11 +27,11 @@ Es un curso en el que aplicaciones reales justifican la tecnología y esta, a su
 Uno de los problemas avanzados pero a la mano que quiero plantear es el del _kriging_. Por simplificar, en una dimensión. Hay muchas cosas de contar eso del _kriging_, muchas de las cuales no he entendido jamás, pero la más
 sencilla es generalizando los modelos lineales generalizados. Por simplificar, desgeneralicemos los GLMs y partamos del modelo lineal,
 
-$latex Y_i | X_i \,\, \sim \,\, N(\mu_i, \sigma)$
+$$ Y_i | X_i \,\, \sim \,\, N(\mu_i, \sigma)$$
 
 o bien,
 
-$latex y_i = \mu(x_i) + \epsilon$
+$$ y_i = \mu(x_i) + \epsilon$$
 
 donde $latex \epsilon$ se ajusta a la especificaión previa. Si conocemos $latex \mu$, podremos hacer predicciones para nuevos valores $latex x$.
 
@@ -61,107 +61,109 @@ En nuestro caso, se puede estimar la función subyacente en una rejilla,
 
 con el código
 
-        library(rstan)
-        library(reshape2)
-        library(ggplot2)
-        library(plyr)
+{{< highlight R "linenos=true" >}}
+library(rstan)
+library(reshape2)
+library(ggplot2)
+library(plyr)
 
-        n_sample <- 30
-        n_grid   <- 100
-        sd_error <- 0.1
+n_sample <- 30
+n_grid   <- 100
+sd_error <- 0.1
 
-        x <- sort(runif(n_sample) * 2 * pi)
-        y <- sin(x) + rnorm(n_sample, 0, sd_error)
+x <- sort(runif(n_sample) * 2 * pi)
+y <- sin(x) + rnorm(n_sample, 0, sd_error)
 
-        rejilla <- seq(0, 2 * pi, length.out = n_grid)
+rejilla <- seq(0, 2 * pi, length.out = n_grid)
 
-        all_x <- c(x, rejilla)
+all_x <- c(x, rejilla)
 
-        distances <- as.matrix(dist(as.matrix(all_x), method = "manhattan"))
-        distances <- distances^1.5
+distances <- as.matrix(dist(as.matrix(all_x), method = "manhattan"))
+distances <- distances^1.5
 
-        stan_data <- list(
-        N1 = n_sample,
-        N2 = n_grid,
-        N  = n_sample + n_grid,
-        x  = all_x,
-        y0 = y,
-        dists = distances
-        )
+stan_data <- list(
+N1 = n_sample,
+N2 = n_grid,
+N  = n_sample + n_grid,
+x  = all_x,
+y0 = y,
+dists = distances
+)
 
-        fit_alt <- stan(file = "krigging_1D.stan",
-                    data = stan_data,
-                    iter = 10000, warmup = 5000,
-                    chains = 1, thin = 10)
+fit_alt <- stan(file = "krigging_1D.stan",
+                data = stan_data,
+                iter = 10000, warmup = 5000,
+                chains = 1, thin = 10)
 
-        res <- as.data.frame(fit_alt)
+res <- as.data.frame(fit_alt)
 
-        preds <- res[, grep("^y2", colnames(res))]
-        preds$id <- 1:nrow(preds)
-        preds <- melt(preds, id.vars = "id")
-        preds$x <- gsub("y2\\[(.*)\\]", "\\1", preds$variable)
-        preds$x <- as.numeric(preds$x)
+preds <- res[, grep("^y2", colnames(res))]
+preds$id <- 1:nrow(preds)
+preds <- melt(preds, id.vars = "id")
+preds$x <- gsub("y2\\[(.*)\\]", "\\1", preds$variable)
+preds$x <- as.numeric(preds$x)
 
-        preds$x <- rejilla[preds$x]
+preds$x <- rejilla[preds$x]
 
-        ggplot(preds, aes(x = x, y = value)) + geom_point(alpha = 0.1)
+ggplot(preds, aes(x = x, y = value)) + geom_point(alpha = 0.1)
 
-        tmp <- ddply(preds, .(x), summarize, y = median(value))
+tmp <- ddply(preds, .(x), summarize, y = median(value))
 
-        plot(x, y, main = "Kriging fit to noise curve observations",
-            xlab = "", ylab = "")
-        lines(tmp$x, tmp$y, type = "l", col = "red")
-
+plot(x, y, main = "Kriging fit to noise curve observations",
+        xlab = "", ylab = "")
+lines(tmp$x, tmp$y, type = "l", col = "red")
+{{< / highlight >}}
 
 que tira de
 
-        data {
-        int<lower=1> N1; // number of data points
-        int<lower=1> N2; // number of grid points
-        int<lower=1> N;  // N1 + N2
-        real x[N];       // number of outcomes
-        real y0[N1];     // observed values
-        matrix[N, N] dists;    // distances between points
-        }
+{{< highlight R "linenos=true" >}}
+data {
+int<lower=1> N1; // number of data points
+int<lower=1> N2; // number of grid points
+int<lower=1> N;  // N1 + N2
+real x[N];       // number of outcomes
+real y0[N1];     // observed values
+matrix[N, N] dists;    // distances between points
+}
 
-        parameters {
-        vector[N2] y2;   // predictions for missing values (grid)
-        real <lower = 0> sigma;
-        real <lower = 0> phi;
-        real <lower = 0> sd_noise;
-        real mu;
-        }
+parameters {
+vector[N2] y2;   // predictions for missing values (grid)
+real <lower = 0> sigma;
+real <lower = 0> phi;
+real <lower = 0> sd_noise;
+real mu;
+}
 
-        model {
-        vector[N] y;
-        vector[N] means;
-        matrix[N,N] Sigma;
-        matrix[N,N] L;
+model {
+vector[N] y;
+vector[N] means;
+matrix[N,N] Sigma;
+matrix[N,N] L;
 
-        // y values
-        for(i in 1:N1) y[i]    = y0[i];
-        for(i in 1:N2) y[N1+i] = y2[i];
+// y values
+for(i in 1:N1) y[i]    = y0[i];
+for(i in 1:N2) y[N1+i] = y2[i];
 
-        // means: equal to mu
-        for(i in 1:N) means[i] = mu;
+// means: equal to mu
+for(i in 1:N) means[i] = mu;
 
-        // priors (non informative)
-        sd_noise ~ normal(0, 1);
-        sigma ~ normal(0, 1);
-        phi   ~ normal(0, 3);
-        mu    ~ normal(0, 1);
-        y2    ~ normal(0, 1);
+// priors (non informative)
+sd_noise ~ normal(0, 1);
+sigma ~ normal(0, 1);
+phi   ~ normal(0, 3);
+mu    ~ normal(0, 1);
+y2    ~ normal(0, 1);
 
-        // covariance matrix
-        Sigma = sigma^2 * exp(-phi * dists);
-        for(i in 1:N) Sigma[i,i] = Sigma[i,i] + sd_noise;
+// covariance matrix
+Sigma = sigma^2 * exp(-phi * dists);
+for(i in 1:N) Sigma[i,i] = Sigma[i,i] + sd_noise;
 
 
-        // model
-        L = cholesky_decompose(Sigma);
-        y ~ multi_normal_cholesky(means, L);
-        }
-
+// model
+L = cholesky_decompose(Sigma);
+y ~ multi_normal_cholesky(means, L);
+}
+{{< / highlight >}}
 
 En el código anterior $latex \Sigma$ es una matriz que tiene valores $latex \sigma^2 + r^2$ en la diagonal ($latex r$ es la desviación estándar del ruido de observación) y $latex \sigma^2 \exp(-\phi d_{ij}^{1.5})$ fuera de ella.
 

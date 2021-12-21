@@ -17,15 +17,11 @@ A [De Morgan](https://es.wikipedia.org/wiki/Augustus_De_Morgan), en su [rol de p
 
 En particular, que usase fórmulas tales como
 
-
-$latex z = \phi ( 1 - \epsilon^{-\beta t}),$
-
+$$ z = \phi ( 1 - \epsilon^{-\beta t}),$$
 
 donde $latex t$ es el tiempo, $latex z$ la fuerza que se da a una noción a la que se presta atención durante un periodo de duración $latex t$ y el resto de los símbolos son otros parámetros que afectan al modelo. O
 
-
-$latex \nu = \pi \phi \frac{\beta}{1 - \beta} \epsilon^{-\beta t} + C \epsilon^{-t},$
-
+$$ \nu = \pi \phi \frac{\beta}{1 - \beta} \epsilon^{-\beta t} + C \epsilon^{-t},$$
 
 que se declara totalmente incapaz de desentrañar (deseando a los lectores interesados más suerte que la que él mismo tuvo en el intento).
 

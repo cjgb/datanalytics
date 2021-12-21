@@ -15,11 +15,7 @@ tags:
 
 Agradezco mucho el comentario de José Luis a mi entrada/pregunta [_¿Existiría algún caso de uso de la estadística que no sea materia prima para la toma de decisiones informadas?_](https://www.datanalytics.com/2018/05/22/existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas/). Dice:
 
-
-
-<blockquote>¿Y la mera estadística descriptiva que aparece en la investigación científica? Distribución de tallas de especies no conerciales, dinámicas de población, descripciones ecológicas….?</blockquote>
-
-
+>¿Y la mera estadística descriptiva que aparece en la investigación científica? Distribución de tallas de especies no conerciales, dinámicas de población, descripciones ecológicas….?
 
 Y creo que es una aportación tan valiosa que merece toda una entrada más que una mera contestación: la pregunta que plantea es tan legítima y como fructífera y fomentadora de debate. Aunque creo, y de aquí la entrada, la objeción no se tiene en pie.
 

@@ -18,7 +18,6 @@ En una de esas comidas navideñas tuve que asistir pasivamente a una conversaci�
 
 ![](/wp-uploads/2018/03/Hisstationand4aces-coolidge.jpg)
 
-
 Ahora cuento lo mío. Resulta que en Circiter estamos cerca de entrar en un proyecto de _pricing_ en un determinado sector (de consumo masivo): muchos productos, muchas ubicaciones, etc. Y la pregunta es: ¿a cuánto poner a la venta cada cosa?
 
 De salir, pasaría a formar parte, entiendo, de aquel conciliábulo.
@@ -29,11 +28,9 @@ Si en esas configuraciones finales de precios alguien advierte desviaciones con 
 
 **Apéndice:**
 
-
-
-	  * No sé cómo hacer _pricing_ sin curvas de demanda.
-	  * No sé cómo construir curvas de demanda sin variar precios.
-	  * No creo en absoluto que en eso haya gente tan lista que sepa hacer lo anterior de otra manera.
+* No sé cómo hacer _pricing_ sin curvas de demanda.
+* No sé cómo construir curvas de demanda sin variar precios.
+* No creo en absoluto que en eso haya gente tan lista que sepa hacer lo anterior de otra manera.
 
 
 

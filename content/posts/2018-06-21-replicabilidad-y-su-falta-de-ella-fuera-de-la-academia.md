@@ -17,11 +17,7 @@ Se habla mucho de replicabilidad (y la falta de ella) como indicio de una crisis
 
 El mismo problema, por motivos de muy diversa índole, ocurre también en la economía real. Y demasiado frecuentemente. Ilustrativo de ello es un correo que recibí la otra noche de alguien que no puedo mencionar y del que extraigo:
 
-
-
-<blockquote>Aunque en el test/validate nos funciona el modelo con un AUC razonable (0,78) al predecir el churn del mes siguiente funciona faltal (0,57 de AUC). No sé si tienes algún insight que puedas darme</blockquote>
-
-
+>Aunque en el test/validate nos funciona el modelo con un AUC razonable (0,78) al predecir el churn del mes siguiente funciona faltal (0,57 de AUC). No sé si tienes algún insight que puedas darme
 
 Precisamente, la promesa del sistema de entrenamiento validación es que se trata de una cura en salud. Sin embargo, existen mil motivos por los que las cosas pueden funcionar mucho mejor en laboratorio (o sobre el papel) que cuando se confrontan con la realidad del mundo. Por ejemplo, contaminación de los datos con la variable objetivo o el uso de información futura a la hora de crear los modelos. Y más.
 

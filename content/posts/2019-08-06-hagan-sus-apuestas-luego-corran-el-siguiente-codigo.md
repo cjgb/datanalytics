@@ -10,26 +10,25 @@ categories:
 tags:
 - order
 - r
+- trucos
 ---
 
+{{< highlight R "linenos=true" >}}
+library(microbenchmark)
+library(ggplot2)
 
+a_int <- sample(10:99, 1e6, replace = T)
+a_char <- paste("P", a_int, sep = "")
 
+res <- microbenchmark(
+    sort_int  = sort(a_int),
+    sort_char_radix = sort(a_char, method = "radix"),
+    sort_char = sort(a_char),
+    factor_trick = as.character(sort(as.factor(a_char))),
+    times = 50
+)
 
-    library(microbenchmark)
-    library(ggplot2)
-
-    a_int <- sample(10:99, 1e6, replace = T)
-    a_char <- paste("P", a_int, sep = "")
-
-    res <- microbenchmark(
-        sort_int  = sort(a_int),
-        sort_char_radix = sort(a_char, method = "radix"),
-        sort_char = sort(a_char),
-        factor_trick = as.character(sort(as.factor(a_char))),
-        times = 50
-    )
-
-    autoplot(res)
-
+autoplot(res)
+{{< / highlight >}}
 
 

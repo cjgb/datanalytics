@@ -10,6 +10,7 @@ categories:
 - varios
 tags:
 - varios
+- lógica
 ---
 
 El razonamiento que titula la entrada es falso. Pero tendemos a darlo por bueno si no pensamos demasiado (o _despacio_, en [terminología de Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)) porque la conclusión es cierta.

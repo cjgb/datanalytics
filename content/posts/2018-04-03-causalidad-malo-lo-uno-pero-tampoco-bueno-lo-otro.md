@@ -17,11 +17,7 @@ Leo en [_Las causalidades en Economía_](https://www.vozpopuli.com/opinion/causa
 
 El último no cuenta apenas más que lo que anuncia en su titulo. El primero quiere enmendarle la plana, pero al hacerlo escribe frases tan chirriantes como:
 
-
-
-<blockquote>Insinuar que gracias a la bajada del IRPF por Cristóbal Montoro los ingresos por este tributo se incrementaron en un 6,5% exige, cuando menos, un Trabajo Fin de Máster y de los buenos. Exige muchas semanas de trabajo y mucha econometría, por no decir que exige de un modelo de tu economía que te ayude a manejar de un modo ordenado las ideas, las relaciones causales. </blockquote>
-
-
+>Insinuar que gracias a la bajada del IRPF por Cristóbal Montoro los ingresos por este tributo se incrementaron en un 6,5% exige, cuando menos, un Trabajo Fin de Máster y de los buenos. Exige muchas semanas de trabajo y mucha econometría, por no decir que exige de un modelo de tu economía que te ayude a manejar de un modo ordenado las ideas, las relaciones causales.
 
 Muchas semanas de trabajo, mucha econometría, etc. producirán, a lo sumo, eso: un trabajo de fin de máster. O algo publicable. Algo académico. Pero sobre datos observacionales de esa naturaleza, absolutamente cero relaciones causales.
 

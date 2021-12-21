@@ -12,7 +12,7 @@ tags:
 - flexmix
 - mezclas
 - r
-- rstan
+- stan
 ---
 
 y <- c(rnorm(1000), rnorm(2000, 1, 0.5))

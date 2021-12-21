@@ -11,7 +11,7 @@ categories:
 tags:
 - ciencia
 - r
-- rstan
+- stan
 ---
 
 Vivimos en un mundo opaco: como en los cuentecillos de Asimov, somos usuarios de tecnologías que ni conocemos ni controlamos. Parametrizamos nuestras máquinas y las echamos a correr. Poco más podemos hacer que fiarnos de quienes nos las proporcionan.

@@ -22,14 +22,12 @@ El libro parece producto de un matemático escondido tras un rawlsiando velo de 
 
 Los principios axiomáticos son los siguientes:
 
-
-
-	  * La gente busca y aspira a ser feliz.
-	  * Para ser feliz, hacen falta muchas cosas: de la comida al afecto, del ibuprofeno a Pink Floyd,...
-	  * Casi todos los prerrequisitos de la felicidad dependen del individuo: p.e., encontrar una pareja adecuada.
-	  * La sociedad puede ayudar a la gente a ser feliz solo hasta cierto punto: aunque la satisfacción personal última es cuestión de cada cuál, es más fácil alcanzarla si se facilita a la gente los medios de bienestar material más básicos: ropa, comida, techo, etc.
-	  * Por tanto, como sociedad deberíamos preocuparnos por poner a disposición de la gente la mayor cantidad posible de este tipo de bienes, de la mayor calidad, etc.
-	  * La mejor manera de proporcionar estos productos es mediante la división del trabajo y la propiedad privada de los medios de producción.
+* La gente busca y aspira a ser feliz.
+* Para ser feliz, hacen falta muchas cosas: de la comida al afecto, del ibuprofeno a Pink Floyd,...
+* Casi todos los prerrequisitos de la felicidad dependen del individuo: p.e., encontrar una pareja adecuada.
+* La sociedad puede ayudar a la gente a ser feliz solo hasta cierto punto: aunque la satisfacción personal última es cuestión de cada cuál, es más fácil alcanzarla si se facilita a la gente los medios de bienestar material más básicos: ropa, comida, techo, etc.
+* Por tanto, como sociedad deberíamos preocuparnos por poner a disposición de la gente la mayor cantidad posible de este tipo de bienes, de la mayor calidad, etc.
+* La mejor manera de proporcionar estos productos es mediante la división del trabajo y la propiedad privada de los medios de producción.
 
 
 Tales son.

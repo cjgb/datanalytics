@@ -16,12 +16,8 @@ tags:
 
 El [NYT resume un artículo recentísimo](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html) sobre esas cosas que preocupan tanto en EE.UU. y que viene a decir, en términos sucintísimos, lo siguiente:
 
-
-
-
-	  * A los niños negros les va mucho (mucho, mucho: el efecto tiene una magnitud enorme) peor en la vida que a sus equivalentes blancos independientemente de la clase social, riqueza del hogar y otros factores predictores del éxito.
-	  * En cambio, el efecto de la raza es inapreciable para las niñas.
-
+* A los niños negros les va mucho (mucho, mucho: el efecto tiene una magnitud enorme) peor en la vida que a sus equivalentes blancos independientemente de la clase social, riqueza del hogar y otros factores predictores del éxito.
+* En cambio, el efecto de la raza es inapreciable para las niñas.
 
 Hoy todo el mundo habla del asunto. Y lo da por bueno. Pero yo advierto un elemento de sospecha: que un efecto tan, tan grande no haya sido advertido antes. De hecho, los comentarios que he leído sobre el estudio tienden a conjungar verbos como _contradecir_, utilizan expresiones como _echar por tierra_, etc.
 

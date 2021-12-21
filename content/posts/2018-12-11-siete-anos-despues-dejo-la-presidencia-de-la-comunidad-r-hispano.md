@@ -31,13 +31,11 @@ Por eso lo fui finalmente. Y, en gran medida, por eso dejo de serlo ahora.
 
 Sobre la primera charla que de las primeras jornadas de R que existieron escribí en 2009 [lo siguiente](https://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/):
 
-
-
-<blockquote>La primera ponencia, de  Manuel Muñoz Márquez, trató acerca de la implantación de R y su tendencia en la universidad. Los datos procedían de una encuesta realizada en departamentos (o áreas departamentales) universitarios de estadística y cubría aspectos sobre el grado de uso de R en investigación, docencia, etc. y sobre la existencia de planes de migración más o menos oficiales. Habría sido interesante el haberla podido contrastar con datos de tan sólo 3 o 4 años de antigüedad para tener una visión más clara de la tendencia.
-
-Pero emergió un claro patrón de avance: a pesar de ciertas reticencias de uso en docencia (habría que reelaborar cursos y prácticas, claro) y la falta de planes coordinados y oficiales de migración, el uso de R progresa muy claramente en investigación y atrae especialmente al personal más joven. R penetra en la pirámide jerárquica de la universidad por su base y la tendencia, por tanto, es de extensión en su uso. Aunque no cabe tanto una revolución sino una evolución en su grado de penetración. Esta tendencia puede verse acelerada por la nueva política de licencias (y su precio) de SPSS, el viejo monopolizador del negocio del software estadístico en la universidad.
-
-Existen iniciativas, emergió en la ronda de preguntas, para que, igual que los ingenieros saben (realmente) y se los obliga a saber usar Matlab, a los estadísticos se los obligue también a saber realmente R al término de sus estudios.</blockquote>
+>La primera ponencia, de  Manuel Muñoz Márquez, trató acerca de la implantación de R y su tendencia en la universidad. Los datos procedían de una encuesta realizada en departamentos (o áreas departamentales) universitarios de estadística y cubría aspectos sobre el grado de uso de R en investigación, docencia, etc. y sobre la existencia de planes de migración más o menos oficiales. Habría sido interesante el haberla podido contrastar con datos de tan sólo 3 o 4 años de antigüedad para tener una visión más clara de la tendencia.
+>
+>Pero emergió un claro patrón de avance: a pesar de ciertas reticencias de uso en docencia (habría que reelaborar cursos y prácticas, claro) y la falta de planes coordinados y oficiales de migración, el uso de R progresa muy claramente en investigación y atrae especialmente al personal más joven. R penetra en la pirámide jerárquica de la universidad por su base y la tendencia, por tanto, es de extensión en su uso. Aunque no cabe tanto una revolución sino una evolución en su grado de penetración. Esta tendencia puede verse acelerada por la nueva política de licencias (y su precio) de SPSS, el viejo monopolizador del negocio del software estadístico en la universidad.
+>
+>Existen iniciativas, emergió en la ronda de preguntas, para que, igual que los ingenieros saben (realmente) y se los obliga a saber usar Matlab, a los estadísticos se los obligue también a saber realmente R al término de sus estudios.
 
 
 

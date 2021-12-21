@@ -9,7 +9,7 @@ categories:
 - youtube
 tags:
 - anuncios
-- vídeo
+- vídeos
 - youtube
 ---
 

@@ -20,6 +20,4 @@ Gartner ha publicado su [informe de herramientas de ciencia de datos de 2018](ht
 
 Es raro que ningún artículo que haya leído sobre el asunto (escritos por más o menos presuntos _científicos de datos_) haya hecho hincapié en el asunto.
 
-**Coda:**
-
-Hace años colaboré (practicamente redacté integramente) un informe similar para una compañía competencia de Gartner. Tuve la decencia de personalizar lo más posible las recomendaciones: si eres una empresa así y asá, consiera esto y eso. Etc.
+**Coda:** Hace años colaboré (practicamente redacté integramente) un informe similar para una compañía competencia de Gartner. Tuve la decencia de personalizar lo más posible las recomendaciones: si eres una empresa así y asá, consiera esto y eso. Etc.

@@ -10,17 +10,11 @@ categories:
 tags:
 - charla
 - entrevista
-- noticias
+- anuncios
 ---
-
-
-
 
 Dos noticias para la entrada de hoy:
 
-
-
-
-
-  * En [Economipedia](https://economipedia.com/) han tenido a bien [entrevistarme](https://economipedia.com/actual/entrevista-a-carlos-gil-bellosta-para-un-economista-excel-no-es-suficiente.html).   * El jueves y viernes de la semana que viene impartiré sendas conferencias en Alicante dentro del ciclo Matemáticos en la Sociedad. Más información, [aquí](https://web.ua.es/es/verano/2019/campus/matematicos-en-la-sociedad.html).
+* En [Economipedia](https://economipedia.com/) han tenido a bien [entrevistarme](https://economipedia.com/actual/entrevista-a-carlos-gil-bellosta-para-un-economista-excel-no-es-suficiente.html).
+* El jueves y viernes de la semana que viene impartiré sendas conferencias en Alicante dentro del ciclo Matemáticos en la Sociedad. Más información, [aquí](https://web.ua.es/es/verano/2019/campus/matematicos-en-la-sociedad.html).
 

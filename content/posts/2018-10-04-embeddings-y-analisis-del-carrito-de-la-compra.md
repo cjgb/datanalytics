@@ -20,7 +20,7 @@ tags:
 Escribiendo la [entrada del otro día sobre _embeddings_](https://www.datanalytics.com/2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/#comments), no se me pasó por alto que la fórmula
 
 
-$latex \frac{P(W_i,C_i)}{P(W_i)P(C_i)}$
+$$ \frac{P(W_i,C_i)}{P(W_i)P(C_i)}$$
 
 
 que escribí en ella es análoga al llamado _lift_ (¿es el _lift_?) del llamado análisis del carrito de la compra, i.e., el estudio de productos que tienden a comprarse juntos (véase, por ejemplo, [esto](https://rpubs.com/Joaquin_AR/397172)).

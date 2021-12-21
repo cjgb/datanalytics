@@ -10,9 +10,7 @@ categories:
 tags:
 - embeddings
 - matrices
-- nlps
 - nlp
-- texto
 ---
 
 Se me han ocurrido en los dos últimos días un par de ejercicios sobre _embeddings_ que no voy a hacer. Pero tal vez alguien con una agenda más despejada que la mía se anime. Uno es más bien tonto; el otro es más serio.

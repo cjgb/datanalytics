@@ -22,20 +22,17 @@ Hace un tiempo pensé en una manera alternativa de medirlos. Creo que original. 
 
 Aquí va mi idea:
 
+* Tómense los microdatos de la Encuesta de Estructura Salarial (más sobre eso debajo)
+* Selecciónense la mitad de los hombres.
+* Constrúyase un modelo predictivo (sí, con los XGBoosts y esas cosas)
+* Mídase el error cometido al predecir el salario del resto de los hombres.
+* Predígase el salario de las mujeres.
+* Compárese el sesgo que pudiera haber en las prediccines y su error con el error cometido con la otra mitad de los hombres.
+* Finalmente, como complemento, estúdiese el sesgo (observado menos predicho) de las mujeres por sector, grupo de edad, etc.
 
-
-
-	  * Tómense los microdatos de la Encuesta de Estructura Salarial (más sobre eso debajo)
-	  * Selecciónense la mitad de los hombres.
-	  * Constrúyase un modelo predictivo (sí, con los XGBoosts y esas cosas)
-	  * Mídase el error cometido al predecir el salario del resto de los hombres.
-	  * Predígase el salario de las mujeres.
-	  * Compárese el sesgo que pudiera haber en las prediccines y su error con el error cometido con la otra mitad de los hombres.
-	  * Finalmente, como complemento, estúdiese el sesgo (observado menos predicho) de las mujeres por sector, grupo de edad, etc.
  para encontrar información más fina que un numerico con que asustar a las viejas en un titular.
 
-
-No lo he visto nunca. Lo he prouesto alguna vez sin éxito. Igual alguien coge el guante.
+No lo he visto nunca. Lo he propuesto alguna vez sin éxito. Igual alguien coge el guante.
 
 **Caveats:**
 

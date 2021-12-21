@@ -16,13 +16,9 @@ tags:
 
 Por eso es relevante la propuesta de [colaboración con adversarios](http://slatestarcodex.com/2018/04/26/call-for-adversarial-collaborations/). Que se resume en:
 
-
-
-
-	  * Dos personas con visiones opuestas sobre un tema se proponen colaborar en la redacción de un estudio.
-	  * Cada una de ellas se responsabiliza, pues, de aportar todo tipo de estudios y evidencia al respecto, cuidando de no omitir, por la cuenta que tiene, la más relevante para hacer prevalecer punto de vista.
-	  * Finalmente, desarrollan una síntesis conjuntamente.
-
+* Dos personas con visiones opuestas sobre un tema se proponen colaborar en la redacción de un estudio.
+* Cada una de ellas se responsabiliza, pues, de aportar todo tipo de estudios y evidencia al respecto, cuidando de no omitir, por la cuenta que tiene, la más relevante para hacer prevalecer punto de vista.
+* Finalmente, desarrollan una síntesis conjuntamente.
 
 De alguna manera, este procedimiento _subcontrataría_ en los autores del estudio el esfuerzo que hoy en día se delegan en el lector interesado: recopilar opiniones y estudios encontrados para poder llegar al momento de la síntesis. Con los problemas que plantea la asimetría de información (uno tal vez no sea experto en la materia y menos aún en la visión que del asunto tienen tirios y/o troyanos), el sesgo debido a la disponibilidad de datos, su desigual accesibilidad, etc.
 

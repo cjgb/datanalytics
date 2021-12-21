@@ -13,7 +13,7 @@ tags:
 - sesgo
 ---
 
-Cuando uno crea uno de esos modelos que tanta mala fama tienen hoy en día —y sí, me refiero a esos de los que dependen las concesiones de hipotecas, etc.— solo tiene dos fuentes de datos:
+Cuando uno crea uno de esos modelos que tanta mala fama tienen hoy en día ---y sí, me refiero a esos de los que dependen las concesiones de hipotecas, etc.--- solo tiene dos fuentes de datos:
 
 * La llamada información _estadística _acerca de los sujetos: donde vive, sexo, edad, etc.
 * Información personal sobre el sujeto: cómo se ha comportado en el pasado.
@@ -29,3 +29,5 @@ Pero por otro lado, [aquí](https://marginalrevolution.com/marginalrevolution/20
 >whether using credit histories to price car insurance was discriminatory.
 
 Solo el modelo nulo `y ~ 1` parece satisfactorio en el siglo que corre. Que es coherente con [acatarrantes definiciones de justicia](https://www.datanalytics.com/2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/) de las que se habló aquí un tiempo atrás.
+
+**Addenda:** Uh, parece que ya hablé de esto [hace unos años](http://www.datanalytics.com/2018/11/07/cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy/).

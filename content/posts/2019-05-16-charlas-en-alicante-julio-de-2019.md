@@ -15,28 +15,8 @@ tags:
 - matemáticas
 ---
 
-
-
-
 Este mes de julio, entre los días 10 y 12, participaré como ponente en dos charlas encuadradas en los Cursos de Verano de la Universidad de Alicante "Rafael Altamira" y en las que se discutirá el papel de los matemáticos en la sociedad (aunque parece que el énfasis recae en el aspecto económico y empresarial). Según los organizadores:
 
-
-
-
-
-
-
-<blockquote>El curso pretende ser un lugar de encuentro, y de intercambio de experiencias, para dar visibilidad al trabajo realizado por los matemáticos en el sector empresarial y entender la razón por la cual este colectivo se suele mover cómodamente por los nuevos sectores profesionales.
->
-> </blockquote>
-
-
-
-
-
-
+>El curso pretende ser un lugar de encuentro, y de intercambio de experiencias, para dar visibilidad al trabajo realizado por los matemáticos en el sector empresarial y entender la razón por la cual este colectivo se suele mover cómodamente por los nuevos sectores profesionales.
 
 La información adicional para interesados está [aquí](https://web.ua.es/es/verano/2019/campus/matematicos-en-la-sociedad.html).
-
-
-

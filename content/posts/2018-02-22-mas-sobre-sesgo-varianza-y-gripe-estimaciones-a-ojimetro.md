@@ -22,13 +22,10 @@ Hoy he visto datos reales barra oficiales (de los _modelos matemáticos_, con su
 
 Así que envalentonado por mi éxito predictivo, explicito mi razonamiento hiperrápido:
 
-
-
-	  * En España, en _condiciones normales_, mueren unos mil al día.
-	  * En invierno, unos 1400.
-	  * Digamos que de los 400 de más, una parte, ni mucha ni poca, (es lo mismo que decir el 25%) se debe a la gripe.
-	  * El invierno dura tres meses, unos 100 días.
-
+* En España, en _condiciones normales_, mueren unos mil al día.
+* En invierno, unos 1400.
+* Digamos que de los 400 de más, una parte, ni mucha ni poca, (es lo mismo que decir el 25%) se debe a la gripe.
+* El invierno dura tres meses, unos 100 días.
 
 Pim, pam, pam, 10k.
 

@@ -12,30 +12,11 @@ tags:
 - publicidad
 ---
 
-
-
-
 Leyendo _[Ads Don't Work That Way](https://meltingasphalt.com/ads-dont-work-that-way/)_ me han pasado dos cosas:
 
-
-
-
-
-  * He tenido que buscar _[schelling point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))_ varias veces en el texto; no me podía creer que no se mencionase el asunto.  * Me ha recordado mucho este otro artículo, _[Is this time different? What can we learn from #MeToo and #NeverAgain](http://induecourse.ca/what-can-we-learn-from-metoo-and-neveragain/)_.
-
-
-
-
+* He tenido que buscar _[schelling point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))_ varias veces en el texto; no me podía creer que no se mencionase el asunto.
+* Me ha recordado mucho este otro artículo, _[Is this time different? What can we learn from #MeToo and #NeverAgain](http://induecourse.ca/what-can-we-learn-from-metoo-and-neveragain/)_.
 
 Y, efectivamente, el nudo del argumento del segundo está basado en ideas de un libro que había escrito el primero y que está en mi lista de lectura: [_The Elephant in the Brain_](http://elephantinthebrain.com/).
 
-
-
-
-
-
-
 Cuatro enlaces arriba: todos necesarios, ninguno contingente.
-
-
-

@@ -19,11 +19,7 @@ Podría hacerse un _ránking_ de disciplinas académicas según el grado de acue
 
 Así que si aceptáis mis premisas (_postmisas_: vienen después), tendréis que conceder también que este fenómeno es corolario del teorema de [von Mises](https://en.wikipedia.org/wiki/Bernstein%E2%80%93von_Mises_theorem):
 
-
-
-<blockquote>La distribución a posteriori es asintóticamente independiente de la distribución a priori conforme crece el tamaño de la muestra.</blockquote>
-
-
+>La distribución a posteriori es asintóticamente independiente de la distribución a priori conforme crece el tamaño de la muestra.</blockquote>
 
 La primera de mis premisas, ya [discutida antes de pasada en estas páginas](https://www.datanalytics.com/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/), es que la ideología opera (subrayo que uso _opera_ y no _es_, por si acaso me meto en un huerto) como una priori.
 
@@ -43,6 +39,3 @@ Así que somos muchos, los más, que tenemos que hacer frente a los problemas qu
 Los economistas _de verdad_ llegan a la facultad con sus prioris a cuestas, por supuesto. Quiérase o no, la ideología es necesaria; e incluso quien la desborda en un campo, es patán como el que más en muchos otros (¿Intel o AMD?). Pero un economista lee, experimenta, estudia, conoce, etc. El tamaño muestral N = 0 de la mayor parte de todos nosotros, es, debería ser, $latex \sim\infty$ para uno medianamente aplicado. Es decir, se ubica donde opera el teorema antes citado.
 
 QED
-
-
-

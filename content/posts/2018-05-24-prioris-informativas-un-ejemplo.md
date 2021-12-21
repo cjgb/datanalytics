@@ -17,11 +17,9 @@ tags:
 
 Imagina que tienes que generar (reitero: generar) datos compatibles con el siguiente modelo:
 
-
-
- 	  * Tienes n sujetos a los que se proporciona un remedio para dormir en distintas dosis (conocidas) en distintos días.
- 	  * El número adicional de horas que duerme cada sujeto es lineal con una pendiente que depende de la dosis (una serie de dosis fijas).
- 	  * Esa recta tiene un término independiente (el número de horas que duerme el sujeto con una dosis igual a cero del remedio).
+* Tienes n sujetos a los que se proporciona un remedio para dormir en distintas dosis (conocidas) en distintos días.
+* El número adicional de horas que duerme cada sujeto es lineal con una pendiente que depende de la dosis (una serie de dosis fijas).
+* Esa recta tiene un término independiente (el número de horas que duerme el sujeto con una dosis igual a cero del remedio).
 
 Argumento que para generar los términos independientes usarías algo así como una normal de media igual a 8 horas. Seguro que usarías alguna otra distribución razonable para las pendientes (p.e., que prohibiese que con dosis pequeñas se durmiese, p.e., 80 horas).
 

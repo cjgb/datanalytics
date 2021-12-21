@@ -11,7 +11,7 @@ categories:
 tags:
 - kalman
 - r
-- rstan
+- stan
 ---
 
 Voy a describir la solución un problema _sencillo_. Se trata de un objeto que se mueve a una velocidad no necesariamente constante en línea recta. Este objeto emite su posición y velocidad periódicamente (p.e., cada segundo). Por centrar ideas, su posición y velocidad reales en esos momentos es

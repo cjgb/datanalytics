@@ -12,7 +12,7 @@ tags:
 - encuestas
 - estadística
 - r
-- rstan
+- stan
 ---
 
 Continuando con la [entrada anterior](https://www.datanalytics.com/2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/), ahora, números.

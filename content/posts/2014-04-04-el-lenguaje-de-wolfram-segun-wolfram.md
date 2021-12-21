@@ -9,7 +9,7 @@ categories:
 - computación
 tags:
 - computación
-- vídeo
+- vídeos
 - wolfram
 ---
 

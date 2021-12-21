@@ -11,6 +11,6 @@ tags:
 - accidentes
 - poisson
 - r
-- rstan
+- stan
 ---
 

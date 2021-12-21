@@ -22,56 +22,63 @@ Esta entrada es un subproducto del trabajo que pocería que he realizado estos d
 
 La cosa es que mejorando `caRtociudad::get_cartociudad_map`, se me ha pasado por la cabeza la posibilidad de realizar la integración no ya con `ggmap` sino con `leaflet`. Y así (¡probadlos!), para los códigos postales,
 
+{{< highlight R "linenos=true" >}}
+library(leaflet)
 
-    library(leaflet)
-
-    leaflet() %>% addTiles() %>% setView(-3.703399, 40.41688, zoom = 14) %>%
-      addWMSTiles(
-      "http://www.ign.es/wms-inspire/ign-base",
-      layers = "codigo-postal",
-      options = WMSTileOptions(format = "image/png", transparent = TRUE),
-      tileOptions(tms = TRUE),
-      attribution = "")
-
+leaflet() %>% addTiles() %>%
+  setView(-3.703399, 40.41688, zoom = 14) %>%
+  addWMSTiles(
+  "http://www.ign.es/wms-inspire/ign-base",
+  layers = "codigo-postal",
+  options = WMSTileOptions(format = "image/png",
+    transparent = TRUE),
+  tileOptions(tms = TRUE),
+  attribution = "")
+{{< / highlight >}}
 
 
 Para las secciones censales,
 
-
-    leaflet() %>% addTiles() %>% setView(-3.703399, 40.41688, zoom = 14) %>%
-      addWMSTiles(
-        "http://servicios.internet.ine.es/WMS/WMS_INE_SECCIONES_G01/MapServer/WMSServer",
-        layers = "2018_Secciones",
-        options = WMSTileOptions(format = "image/png", transparent = TRUE),
-        tileOptions(tms = TRUE),
-        attribution = "")
-
+{{< highlight R "linenos=true" >}}
+leaflet() %>% addTiles() %>%
+  setView(-3.703399, 40.41688, zoom = 14) %>%
+  addWMSTiles(
+    "http://servicios.internet.ine.es/WMS/WMS_INE_SECCIONES_G01/MapServer/WMSServer",
+    layers = "2018_Secciones",
+    options = WMSTileOptions(format = "image/png",
+      transparent = TRUE),
+    tileOptions(tms = TRUE),
+    attribution = "")
+{{< / highlight >}}
 
 
 Para los distritos censales,
 
-
-    leaflet() %>% addTiles() %>% setView(-3.703399, 40.41688, zoom = 14) %>%
-      addWMSTiles(
-        "http://servicios.internet.ine.es/WMS/WMS_INE_SECCIONES_G01/MapServer/WMSServer",
-        layers = "2018_Distritos",
-        options = WMSTileOptions(format = "image/png", transparent = TRUE),
-        tileOptions(tms = TRUE),
-        attribution = "")
-
+{{< highlight R "linenos=true" >}}
+leaflet() %>% addTiles() %>%
+  setView(-3.703399, 40.41688, zoom = 14) %>%
+  addWMSTiles(
+    "http://servicios.internet.ine.es/WMS/WMS_INE_SECCIONES_G01/MapServer/WMSServer",
+    layers = "2018_Distritos",
+    options = WMSTileOptions(format =
+    "image/png", transparent = TRUE),
+    tileOptions(tms = TRUE),
+    attribution = "")
+{{< / highlight >}}
 
 
 Y para las/ciertas cosas catastrales,
 
-
-    leaflet() %>% addTiles() %>% setView(-3.703399, 40.41688, zoom = 14) %>%
-      addWMSTiles(
-        "http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx",
-        layers = "PARCELA",
-        options = WMSTileOptions(format = "image/png", transparent = TRUE),
-        tileOptions(tms = TRUE),
-        attribution = "")
-
-
+{{< highlight R "linenos=true" >}}
+leaflet() %>% addTiles() %>%
+  setView(-3.703399, 40.41688, zoom = 14) %>%
+  addWMSTiles(
+    "http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx",
+    layers = "PARCELA",
+    options = WMSTileOptions(format = "image/png",
+      transparent = TRUE),
+    tileOptions(tms = TRUE),
+    attribution = "")
+{{< / highlight >}}
 
 Se pueden añadir otras capas a estos últimos mapas cambiando lo que haya que cambiar después de leer [esto](http://www.catastro.minhap.gob.es/documentos/nuevowms_porcapas.pdf).

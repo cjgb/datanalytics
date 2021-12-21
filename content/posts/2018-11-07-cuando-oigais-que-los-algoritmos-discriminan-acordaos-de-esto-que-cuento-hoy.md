@@ -25,13 +25,9 @@ Ahora vienen los _raritos_. Y me refiero a estos:
 
 ![](/wp-uploads/2017/01/weapons_math_destruction.jpg)
 
-
 Que van y dicen que:
 
-
-
-	  * [Usar información grupal es discriminatorio](http://www.equineteurope.org/Finland-Assessing-credit-rating-on-the-basis-of-statistical-data-alone-is).
-	  * [Que usar información individual es discriminatorio](https://marginalrevolution.com/marginalrevolution/2018/10/unintended-consequences-information-bans.html).
-
+* [Usar información grupal es discriminatorio](http://www.equineteurope.org/Finland-Assessing-credit-rating-on-the-basis-of-statistical-data-alone-is).
+* [Que usar información individual es discriminatorio](https://marginalrevolution.com/marginalrevolution/2018/10/unintended-consequences-information-bans.html).
 
 Así que, ¿qué cojones querrán los _raritos_?

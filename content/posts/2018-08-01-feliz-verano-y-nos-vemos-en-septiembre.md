@@ -6,7 +6,9 @@ title: Feliz verano (y nos vemos en septiembre)
 
 url: /2018/08/01/feliz-verano-y-nos-vemos-en-septiembre/
 categories:
-- varios
+- anuncios
+tags:
+- anuncios
 ---
 
 Suelo interrumpir la publicación de entradas en agosto y este año no será excepción. No porque me vaya de vacaciones sino porque, según Google Analytics, os vais vosotros.

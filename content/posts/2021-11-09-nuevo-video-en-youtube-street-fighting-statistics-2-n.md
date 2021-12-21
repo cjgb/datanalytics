@@ -10,7 +10,7 @@ categories:
 tags:
 - estadística
 - libros
-- vídeo
+- vídeos
 - youtube
 ---
 

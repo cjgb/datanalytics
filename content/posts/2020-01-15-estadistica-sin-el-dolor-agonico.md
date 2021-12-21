@@ -10,7 +10,7 @@ categories:
 tags:
 - estadística
 - t-test
-- vídeo
+- vídeos
 ---
 
 Acabo de ver

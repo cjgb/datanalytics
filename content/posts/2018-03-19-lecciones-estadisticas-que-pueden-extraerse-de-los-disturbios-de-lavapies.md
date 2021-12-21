@@ -21,7 +21,3 @@ Y no mencionaría el asunto salvo porque el otro día, de casualidad, advertí q
 Sirva la anécdota como n-ésima advertencia sobre las heterogeneidades que enmascaran determinadas representaciones de datos, etc.
 
 (Y un segundo comentario: mi sección censal abarca dos manzanas, cada una de las cuales pertenece a un código postal distinto.)
-
-
-
-

@@ -15,10 +15,4 @@ tags:
 - utf8
 ---
 
-
-
-
 ¿Por qué (casi) nadie sabe sobre _encodings_? ¿Por qué (casi) nadie ha leído _[What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)_?
-
-
-

@@ -10,6 +10,8 @@ categories:
 tags:
 - ética
 - vapnik
+- rawls
+- interpolación
 ---
 
 Hoy, las notas primero.
@@ -24,15 +26,10 @@ Entonces la ética como producción intelectual consiste en una secuencia de ens
 
 Propuestas de $latex v$ que uno encuentra por ahí son los diez mandamientos, el imperativo categórico de Kant, lo del velo de la ignorancia de Rawls, las maximización de la utilidad de los, ejem, utilitaristas, etc. Todo lo que uno lee al respecto tiene las siguiente estructura:
 
-
-
-	  * Alguien enumera propuestas $latex \hat{v}_i$ que circulan por ahí.
-	  * Encuentra casos $latex \hat{v}_i(c_j, a_k) \neq v(c_j, a_k)$ muy manifiestamente.
-	  * Propone una $latex \hat{v}$ alternativa.
-
+* Alguien enumera propuestas $latex \hat{v}_i$ que circulan por ahí.
+* Encuentra casos $latex \hat{v}_i(c_j, a_k) \neq v(c_j, a_k)$ muy manifiestamente.
+* Propone una $latex \hat{v}$ alternativa.
 
 La verdad es que los estudiosos de la ética son muy ingeniosos a la hora de encontrar esos contraejemplos $latex (c_j, a_k)$. Uno de mis favoritos es el de la [conclusión repugnante](https://plato.stanford.edu/entries/repugnant-conclusion/). El del [dilema del tranvía](https://en.wikipedia.org/wiki/Trolley_problem) también, se ve, da mucha guerrita. Y supongo que los habrá muy entretenidos. De hecho, si me pagasen por ello, creo que podría ser bastante bueno para generar problemas y contradicciones de este tipo para tocar las pelotas a los fabricantes de $latex \hat{v}$. De hecho, en topología, se me daba muy bien construir ejemplos de espacios $latex T_1$ que no eran $latex T_2$ y cosas similares.
 
 Y casi termino. Muchos de los fabricantes de $latex \hat{v}$ son inofensivos y se limitan a discutir casos en la pizarra y afinar, si procede, los coeficientes de su función, tratanto de aproximar su $latex \hat{v}$ a $latex v$. Los verdaderamente peligrosos son aquellos que emprenden el camino contrario, tratando de violentar $latex v$ para aproximarla a su $latex \hat{v}$. Se llaman constructivistas sociales y a veces han incurrido en lo que denuncia en antepenúltimo párrafo de [esto](http://induecourse.ca/social-constructivism-the-basics/).
-
-

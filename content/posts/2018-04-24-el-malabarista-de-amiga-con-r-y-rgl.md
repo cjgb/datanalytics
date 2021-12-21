@@ -14,7 +14,7 @@ tags:
 
 Un exalumno mío de unos cursos de R, Guillermo Luijk, ha creado
 
-https://www.youtube.com/watch?v=U7ndveqX_H4
+{{< youtube U7ndveqX_H4 >}}
 
 usando R (y el paquete `rgl`).
 

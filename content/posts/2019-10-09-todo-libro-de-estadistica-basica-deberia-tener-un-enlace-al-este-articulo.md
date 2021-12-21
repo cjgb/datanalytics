@@ -10,30 +10,11 @@ categories:
 tags:
 - media
 - prensa
+- outliers
 ---
-
-
-
 
 Se trata de _[Avinyonet del Penedès: el misterio del pueblo que se hizo rico de golpe](https://elpais.com/economia/2019/10/01/actualidad/1569960947_887006.html)_ y la entradilla lo dice todo:
 
+>Los habitantes de la pequeña localidad barcelonesa atribuyen ser los segundos con más renta a un vecino empresario
 
-
-
-
-
-
-<blockquote>Los habitantes de la pequeña localidad barcelonesa atribuyen ser los segundos con más renta a un vecino empresario
->
-> </blockquote>
-
-
-
-
-
-
-
-Y es que la interpretación de la media —salvo en circunstancias muy concretas y, a menudo, abstractas— no es para nada clara.
-
-
-
+Y es que la interpretación de la media ---salvo en circunstancias muy concretas y, a menudo, abstractas--- no es para nada clara.

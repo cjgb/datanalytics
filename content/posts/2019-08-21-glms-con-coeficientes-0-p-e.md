@@ -15,39 +15,13 @@ tags:
 - r
 ---
 
-
-  * Alguien quería un glm forzando determinados coeficientes >0.  * Una solución 100% bayesiana no era una opción.
-
-
-
-
+* Alguien quería un glm forzando determinados coeficientes >0.
+* Una solución 100% bayesiana no era una opción.
 
 Hay varias opciones por ahí. Pero me ha sorprendido que la opción esté disponible en `glmnet::glmnet`:
 
-
-
-
-
-
-
 ![](/wp-uploads/2019/08/lower_limits.png)
-
-
-
-
-
-
-
 
 _Filosóficamente_, es un tanto sorprendente: de alguna manera, `glmnet` es glm con _prioris_ alrededor del cero. Los límites superiores e inferiores permiten introducir información a priori adicional no necesariamente compatible con la anterior.
 
-
-
-
-
-
-
 Desde el punto de vista de la implementación, tiene sentido que estas opciones estén disponibles. `glmnet` usa _[coordinate descent](https://en.wikipedia.org/wiki/Coordinate_descent)_ como algoritmo de minimización e introducir restricciones en ese tipo de algoritmos es una trivialidad.
-
-
-

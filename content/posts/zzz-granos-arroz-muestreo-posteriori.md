@@ -15,3 +15,5 @@ tags:
 * La historia de los granos de arroz
 * ¿Cuántos cuadrantes hay en un modelo que tiene n variables?
 * ¿Cuántas observaciones caen en cada cuadrante?
+
+Mírese esto: /2019/04/15/las-altas-dimensiones-son-campo-minado-para-la-intuicion/

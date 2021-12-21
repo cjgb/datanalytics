@@ -23,11 +23,8 @@ Estoy seguro que muchos de los lectores de estas páginas saben más (y a cienci
 
 En particular, sería bueno saber:
 
-
-
-	  * El papel exacto que desempeñan las secciones censales en las elecciones. Una vez creo recordar que leí que existe una relación biyectiva entre seccies censales y urnas. Pero puede que lo haya soñado: no he vuelto a encontrar la referencia.
-	  * Quién, cómo y con qué criterios exactos delimita las secciones censales.
-	  * Cuándo comenzaron a usarse, por qué y qué modelo sirvió de inspiración.
-
+* El papel exacto que desempeñan las secciones censales en las elecciones. Una vez creo recordar que leí que existe una relación biyectiva entre seccies censales y urnas. Pero puede que lo haya soñado: no he vuelto a encontrar la referencia.
+* Quién, cómo y con qué criterios exactos delimita las secciones censales.
+* Cuándo comenzaron a usarse, por qué y qué modelo sirvió de inspiración.
 
 Y si alguien se anima con la entrada faltante sobre los distritos censales, tanto mejor.

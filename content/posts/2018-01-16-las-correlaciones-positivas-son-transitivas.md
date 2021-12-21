@@ -14,26 +14,22 @@ tags:
 
 No. Por ejemplo,
 
+{{< highlight R "linenos=true" >}}
+set.seed(155)
+n <- 1000
 
+x <- rnorm(n)
+y <- x + rnorm(n)
+z <- y - 1.5 * x
 
+m <- cbind(x, y, z)
 
-    set.seed(155)
-    n <- 1000
-
-    x <- rnorm(n)
-    y <- x + rnorm(n)
-    z <- y - 1.5 * x
-
-    m <- cbind(x, y, z)
-
-    print(cor(m), digits = 2)
-    #      x    y     z
-    #x  1.00 0.72 -0.41
-    #y  0.72 1.00  0.34
-    #z -0.41 0.34  1.00
-
-
-
+print(cor(m), digits = 2)
+#      x    y     z
+#x  1.00 0.72 -0.41
+#y  0.72 1.00  0.34
+#z -0.41 0.34  1.00
+{{< / highlight >}}
 
 La correlación de `x` con `y` es positiva; también la de `y` con `z`. Pero `x` y `z` guardan correlación negativa.
 

@@ -24,11 +24,9 @@ Existen algunos formatos estandarizados para el intercambio de información esta
 
 Si fuese el rey del mundo, obligaría a usar un formato de datos que:
 
-
-
- 	  1. incluyese tanto datos como metadatos,
- 	  2. evitase todo tipo de ambigüedades (desde los _encodings_ hasta las fechas, si procede)
- 	  3. estuviese medianamente estandarizado y, como consecuencia,
- 	  4. existiesen importadores en todos los sistemas de análisis estadístico razonables.
+1. incluyese tanto datos como metadatos,
+2. evitase todo tipo de ambigüedades (desde los _encodings_ hasta las fechas, si procede)
+3. estuviese medianamente estandarizado y, como consecuencia,
+4. existiesen importadores en todos los sistemas de análisis estadístico razonables.
 
 El problema es que no sé cuál sería. Pero igual algún lector tiene alguna idea con la que iluminarnos. Y si no, para aquellos que quieran contribuir al procomún y tengan algo de tiempo libre: ¿cómo se hace en el RU, Canadá, Francia, Alemania u Holanda?

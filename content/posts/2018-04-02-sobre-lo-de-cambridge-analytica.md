@@ -21,7 +21,7 @@ En la puerta de mi jardín privado hay un cartelón gigante donde se lee: ATARAX
 
 Parece que lo que levantó la perdiz fue este programa de Channel 4:
 
-https://www.youtube.com/watch?v=mpbeOCKZFfQ
+{{< youtube mpbeOCKZFfQ >}}
 
 En él se yuxtaponen dos dimensiones o líneas de actividad de Cambridge Analytica. Por un lado, todo lo que tiene que ver con datos, _microsegmentaciones_, uso de redes sociales, y demás, para influir en el comportamiento de la plebe, que es lo más interesante y sobre lo que volveré. Por otro, estrategias mucho más cinematográficas para comprar y vender voluntades que incluyen prostitutas ucranianas y sobres con billetes.
 
@@ -35,9 +35,7 @@ Y sigo sobre el asunto de las empresas que captan datos de redes sociales, micro
 
 La primera consideración es que cuando uno quiere hacer algo reprochable o ilegal, lo hace de manera encubierta. Nadie publica en el periódico que quiere robarle el bolso a una vieja. Nadie da charlas contando sus planes para atracar un banco. Pero la gente de Cambridge Analytica sí que lo hacía. En [_On wealth and the diversity of friendships: High social class people around the world have fewer international friends_](https://www.sciencedirect.com/science/article/pii/S0191886915004973#!), los autores, uno de los cuales está vinculado a Cambridge Analytica, se lee:
 
-
-<blockquote>In Study 2, we extended these findings to the global level by analyzing country-level data on Facebook friends formed in 2011 (nearly 50 billion friendships) across 187 countries.</blockquote>
-
+>In Study 2, we extended these findings to the global level by analyzing country-level data on Facebook friends formed in 2011 (nearly 50 billion friendships) across 187 countries.
 
 Eso sí, se dice que esos datos, que se cedieron solo para este estudio, se quedaron pegados en el disco duro de alguno de los autores y luego afloraron en otra parte para ser usados para otro fin (sin el permiso específico de los sujetos, se entiende).
 
@@ -51,24 +49,20 @@ Me pregunto si quienes participaron en esas cosas se estarán ahora rasgando las
 
 Y la última consideración es que partidos políticos españoles ya están haciendo pública y abiertamente campaña con técnicas similares a las de Cambridge Analytica. En [_El PSOE ya cuenta con una nueva arma secreta_](https://cienciamisterio.wordpress.com/2010/05/26/el-psoe-ya-cuenta-con-una-nueva-arma-secreta/) se da cuenta de una herramienta del antedicho partido, BLOISE de nombre, que usó, usa o usará información aparentemente a nivel de sección censal para _optimizar_ sus campañas. Y es todavía más delicioso el artículo [PP y PSOE darán la batalla electoral en las redes reforzándose especialmente en Facebook](http://www.europapress.es/nacional/noticia-pp-psoe-daran-batalla-electoral-redes-reforzandose-especialmente-facebook-20160516115411.html) donde ya se menciona la manida red social y donde se encuentran parrafitos tan deliciosos como:
 
-
-<blockquote>Así, si un grupo está interesado en, por ejemplo, medidas que afectan a los celíacos, se dirigen hacia él las propuestas sobre esta cuestión y ellos mismos lo harán llegar a sus seguidores interesados en este asunto y así sucesivamente.</blockquote>
-
+>Así, si un grupo está interesado en, por ejemplo, medidas que afectan a los celíacos, se dirigen hacia él las propuestas sobre esta cuestión y ellos mismos lo harán llegar a sus seguidores interesados en este asunto y así sucesivamente.
 
 Pero, ¿cuándo fue la última vez que diste permiso al PSOE o al PP para que usase la información de las redes sociales para sus campañas electorales? Hummmm...
 
 En fin, puesta esta deslabazada entrada en contexto:
 
-
-
- 	  * Lo de Cambridge Analytica no es nada nuevo bajo el sol, nada que no se supiese.
- 	  * Lo curioso del caso es la indignación que ha suscitado.
- 	  * Y todavía más curioso es descubrir entre los indignados a gente que ha vivido de pretender saber hacer precisamente el objeto de su indignación.
+* Lo de Cambridge Analytica no es nada nuevo bajo el sol, nada que no se supiese.
+* Lo curioso del caso es la indignación que ha suscitado.
+* Y todavía más curioso es descubrir entre los indignados a gente que ha vivido de pretender saber hacer precisamente el objeto de su indignación.
 
 Finalmente, sobre lo que pasará, me aventuro a hacer varias predicciones:
 
- 	  * A la gente le irán importando cada vez menos estos asuntos: se acostumbrará a vivir en un pueblito digital con poca privacidad.
- 	  * El hueco que deje Cambridge Analytica será ocupado por otras empresas similares pero con un perfil más bajo.
- 	  * Habrá regulación sobre los asuntos relativos a la privacidad, pero servirá principalmente a los intereses de los principales actores actuales (Facebook, Google, etc.) impidiendo de facto la emergencia de competidores.
- 	  * La regulación será más potente en Europa que en EE.UU. porque aquí ni hay ni se esperan empresas con esas características y jamás se ha regulado para quien a lo mejor un día vendrá; la regulación es siempre producto de los que ya están sentados a la mesa.
+* A la gente le irán importando cada vez menos estos asuntos: se acostumbrará a vivir en un pueblito digital con poca privacidad.
+* El hueco que deje Cambridge Analytica será ocupado por otras empresas similares pero con un perfil más bajo.
+* Habrá regulación sobre los asuntos relativos a la privacidad, pero servirá principalmente a los intereses de los principales actores actuales (Facebook, Google, etc.) impidiendo de facto la emergencia de competidores.
+* La regulación será más potente en Europa que en EE.UU. porque aquí ni hay ni se esperan empresas con esas características y jamás se ha regulado para quien a lo mejor un día vendrá; la regulación es siempre producto de los que ya están sentados a la mesa.
 

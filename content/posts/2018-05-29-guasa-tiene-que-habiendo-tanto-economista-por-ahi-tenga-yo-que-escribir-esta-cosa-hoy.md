@@ -26,21 +26,10 @@ La economía (y Hart y el otro, en particular) nos explican mejor las cosas. Y n
 
 ![](/wp-uploads/2018/05/Betaweights2.png)
 
-
 que se explica en tercer enlace del primer párrafo.
 
 En la literaturilla sobre ciencia de datos y todas las demás cosas, crea sus héroes: aquellos que, ¡oh!, acertaron. Acertar es el santo grial de la ciencia de datos de pacotilla, ignorante de todas las circunstancias azarosas que pueden influir en el éxito. Y del éxito del agente en particular. Así, cada cuatro años fabricaremos héroes (el equipo del candidato victorioso) y villanos (el del perdedor).
 
 Termino con un párrafo estupendo extraído del mismo enlace, que habla de los CEOs pero que bien podría aplicarse en nuestra profesión (con mi subrayado):
 
-
-
-<blockquote>Holmstrom’s work has lot of implications for structuring executive pay. In particular, executive pay often violates the informativeness principle. In rewarding the CEO of Ford for example, an obvious piece of information that should used in addition to the price of Ford stock is the price of GM, Toyota and Chrysler stock. If the stock of most of the automaker’s is up then you should reward the CEO of Ford less because most of the gain in Ford is probably due to the economy wide factor rather than to the efforts Ford’s CEO. For the same reasons, if GM, Toyota, and Chrysler are down but Ford is down less then you might give the Ford CEO a large bonus even though Ford’s stock price is down. Oddly, however, performance pay for executives rarely works like a tournament. As a result, **CEOs are often paid based on noise**.</blockquote>
-
-
-
-
-
-
-
-
+>Holmstrom’s work has lot of implications for structuring executive pay. In particular, executive pay often violates the informativeness principle. In rewarding the CEO of Ford for example, an obvious piece of information that should used in addition to the price of Ford stock is the price of GM, Toyota and Chrysler stock. If the stock of most of the automaker’s is up then you should reward the CEO of Ford less because most of the gain in Ford is probably due to the economy wide factor rather than to the efforts Ford’s CEO. For the same reasons, if GM, Toyota, and Chrysler are down but Ford is down less then you might give the Ford CEO a large bonus even though Ford’s stock price is down. Oddly, however, performance pay for executives rarely works like a tournament. As a result, **CEOs are often paid based on noise**.

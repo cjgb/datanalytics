@@ -11,7 +11,7 @@ tags:
 - encuestas
 - estadística bayesiana
 - r
-- rstan
+- stan
 ---
 
 A veces se hacen encuestas sobre temas sobre los que los encuestados son reticentes a revelar la verdad (p.e., [¿es Vd. un zombi?](http://www.datanalytics.com/2016/01/21/a-cuantos-zombis-conoces/)). Un procedimiento conocido para recabar tal tipo de información es el siguiente:

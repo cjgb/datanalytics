@@ -15,11 +15,17 @@ tags:
 ---
 
 `gam`/`bam` admiten efectos aleatorios
+
 `gam`/`bam` admiten efectos aleatorios
+
 `gam`/`bam` admiten efectos aleatorios
+
 `gam`/`bam` admiten efectos aleatorios
+
 `gam`/`bam` admiten efectos aleatorios
+
 `gam`/`bam` admiten efectos aleatorios
+
 `gam`/`bam` admiten efectos aleatorios
 
 Y solo me enteré anoche (gracias a [José Luis Cañadas](https://twitter.com/joscani)).

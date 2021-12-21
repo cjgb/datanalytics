@@ -10,77 +10,38 @@ categories:
 tags:
 - predicción
 - scorings
+- brier
 ---
-
-
-
 
 Rápidamente y para poner el limpio unas cosas que tenía en borrador. El _scoring_ lineal del que me he ocupado en entradas anteriores (p.e., [esta](https://www.datanalytics.com/2019/01/17/mejores-predictores-un-ejemplo-el-de-brier/) o [esta](https://www.datanalytics.com/2019/01/16/una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor/)) está asociado a un exponente $latex \lambda = 1$ y el de Brier, a $latex \lambda = 2$. Entre ambos (y a la derecha del 2) hay otros _scorings_ posibles.
 
-
-
-
-
-
-
 Una penalización de $latex (1-p)^\lambda$ (véanse las entradas enlazadas más arriba para averiguar a qué me refiero), un predictor tiene un incentivo para modificar su predicción para alcanzar un _scoring_ más alto, salvo en el caso en que $latex \lambda = 2$, en el que le compensa ser lo más sincero posible.
-
-
-
-
-
-
 
 Modificando los valores de $latex \lambda$, se obtienen las curvas
 
-
-
-
-
 ![](/wp-uploads/2019/01/scorings.png)
-
-
-
-
-
 
 que muestran la relación entre las probabilidades reales (abscisas) y las que conviene manifestar al predictor. Solo en el caso en que $latex \lambda = 2$ la relación está dada por la curva $latex y = x$. Cuando $latex \lambda < 2$, al predictor le conviene exagerar y cuando $latex \lambda$ crece, ser conservador y quedarse próximo al 50%.
 
-
-
-
-
-
-
 Esto que es cierto matemáticamente parece casi una lección de vida. Frente a castigos severos, la gente tenderá a anclarse en el _yo nu sé_. Sin carne en el asador (o sin arriesgar, o sin la talebiana _skin in the game_) la gente vendrá con ocurrencias y certezas implausibles. Solo en $latex \lambda = 2$, la mitad en la que mora la virtud,...
-
-
-
-
-
-
 
 Y para terminar y como referencia, el código:
 
+{{< highlight R "linenos=true" >}}
+foo <- function(alpha){
+  exponente <- 1 / (alpha - 1)
+  curve(x^exponente / (x^exponente + (1 - x)^exponente), 0, 1,
+        main = format(alpha, digits = 3),
+        xlab = "probabilidad real",
+        ylab = "estimación óptima")
+}
 
+alphas <- -4:4
+alphas <- 1 + 2^alphas
 
-
-
-
-
-    foo <- function(alpha){
-      exponente <- 1 / (alpha - 1)
-      curve(x^exponente / (x^exponente + (1 - x)^exponente), 0, 1,
-            main = format(alpha, digits = 3),
-            xlab = "probabilidad real", ylab = "estimación óptima")
-    }
-
-    alphas <- -4:4
-    alphas <- 1 + 2^alphas
-
-    par(mfrow = c(3, 3))
-    sapply(alphas, foo)
-    par(mfrow = c(1, 1))
-
+par(mfrow = c(3, 3))
+sapply(alphas, foo)
+par(mfrow = c(1, 1))
+{{< / highlight >}}
 
 

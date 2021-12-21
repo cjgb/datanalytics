@@ -20,21 +20,15 @@ Se ve que hace 4000 años existió una incipiente actividad comercial entre prot
 
 ![](/wp-uploads/2018/01/rutas_comercio_anatolia.png)
 
-
 Se han descubierto tablillas tales como
 
 ![](/wp-uploads/2018/01/bono.jpg)
-
 
 (que es el primer bono del que se tiene constancia) en las que se lee que alguien llevó tanta plata de la ciudad X a la Y, etc.
 
 Los autores [_Trade, Merchants and Lost Cities of the Bronze Age_](https://www.princeton.edu/~ies/IESWorkshopS2017/ChaneyPaper.pdf), usando una muestra de unas 5000 tablillas, modelaron este tráfico usando un [modelo de gravedad](https://en.wikipedia.org/wiki/Gravity_model_of_trade), es decir,
 
-
-
-$latex \log(X{ij}) = z_i + z_j + \delta \log(d_{ij}) + \epsilon_{ij}$
-
-
+$$ \log(X{ij}) = z_i + z_j + \delta \log(d_{ij}) + \epsilon_{ij}$$
 
 donde las $latex ij$ recorren los pares de ciudades, las $latex z_i$ dan cuenta de su importancia (o peso) y $latex \delta$ penaliza la distancia entre ellas.
 

@@ -34,10 +34,6 @@ La llamada [crítica de Lucas](https://en.wikipedia.org/wiki/Lucas_critique) est
 
 Salvo que (citando de la Wikipedia)...
 
-
-
-<blockquote>if we want to predict the effect of a policy experiment, we should model the "deep parameters" (relating to preferences, technology, and resource constraints) that are assumed to govern individual behavior: so-called "microfoundations."</blockquote>
-
-
+>if we want to predict the effect of a policy experiment, we should model the "deep parameters" (relating to preferences, technology, and resource constraints) that are assumed to govern individual behavior: so-called "microfoundations."
 
 Es decir, salvo que se consideren aquellos indicadores que tienen vínculos causales con los parámetros de interés. Que es la salvedad que falta a la ley de Goodhart para ser perfectamente universal.

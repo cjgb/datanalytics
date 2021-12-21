@@ -10,7 +10,7 @@ categories:
 tags:
 - estadística
 - interacciones
-- logística
+- regresión logística
 ---
 
 En general, dos variables _interaccionan_ cuando el efecto de una cambia al modificarse el nivel de la otra. Un caso particular (aunque notable) de interacción es el habitual en los modelos lineales, generalizados o no. En ellos, al introducir en el modelo términos del tipo `x1 * x2`, estamos indicando que el coeficiente de la segunda variable, $latex x_2$, es $latex \alpha + \beta x_1$. El efecto de un incremento de una unidad de $latex x_2$ depende entonces de $latex x_1$.
@@ -19,33 +19,25 @@ Esas son interacciones _conceptuales_ (la terminología no es mía; luego indica
 
 La función
 
-
-
-
-    my_prob <- function(x1, x2, a = 0.2, b1 = 1, b2 = -0.5){
-      res <- a + b1 * x1 + b2 * x2
-      1 / (1 + exp(-res))
-    }
-
-
-
+{{< highlight R "linenos=true" >}}
+my_prob <- function(x1, x2, a = 0.2, b1 = 1, b2 = -0.5){
+  res <- a + b1 * x1 + b2 * x2
+  1 / (1 + exp(-res))
+}
+{{< / highlight >}}
 
 predice la probabilidad de un modelo logístico (hipotético) en el que la variable objetivo depende de dos variables, `x1` y `x2` (con los coeficientes que aparecen en el código). Por construcción, no hay interacción.
 
 El código siguiente muestra las diferencias entre la probabilidad estimada al aumentar variar la variable `x2` de 2 a 3 a distintos niveles (-1, 2 y 5) de la variable `x1`.
 
-
-
-
-    diff(my_prob(-1, c(2, 3)))
-    # [1] -0.0507281
-    diff(my_prob(2, c(2, 3)))
-    # [1] -0.100337
-    diff(my_prob(5, c(2, 3)))
-    # [1] -0.00935299
-
-
-
+{{< highlight R "linenos=true" >}}
+diff(my_prob(-1, c(2, 3)))
+# [1] -0.0507281
+diff(my_prob(2, c(2, 3)))
+# [1] -0.100337
+diff(my_prob(5, c(2, 3)))
+# [1] -0.00935299
+{{< / highlight >}}
 
 ¡La variación varía! Luego hay interacción (en el sentido general), pese a que no la haya conceptualmente. Porque existe una interacción mecánica.
 

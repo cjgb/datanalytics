@@ -12,20 +12,10 @@ tags:
 - posteriori
 ---
 
-
-
-
 El método de Laplace para aproximar funciones puede usarse para:
 
-
-
-
-
-  * Resolver integrales, como [aquí](https://en.wikipedia.org/wiki/Laplace%27s_method)  * O para aproximar distribuciones (como esta [posteriori](http://www2.stat.duke.edu/~st118/sta250/laplace.pdf) o [estas otras](http://www.sumsar.net/blog/2013/11/easy-laplace-approximation/))
-
-
-
-
+* Resolver integrales, como [aquí](https://en.wikipedia.org/wiki/Laplace%27s_method)
+* O para aproximar distribuciones (como esta [posteriori](http://www2.stat.duke.edu/~st118/sta250/laplace.pdf) o [estas otras](http://www.sumsar.net/blog/2013/11/easy-laplace-approximation/))
 
 **Nota:** Y más vale que funcione bien y a escala o voy a tener problemas en un inminente proyecto.
 

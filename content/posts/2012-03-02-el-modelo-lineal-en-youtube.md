@@ -10,7 +10,7 @@ categories:
 tags:
 - estadística
 - modelo lineal
-- vídeo
+- vídeos
 ---
 
 Gentileza de [Juanjo Gibaja](http://www.jjgibaja.net/), tenemos en Youtube una [colección entera de vídeos sobre el modelo lineal](http://www.youtube.com/user/jjgibaja). Y seguramente, pronto, sobre más asuntos de relevancia estadística.

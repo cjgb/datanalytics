@@ -15,5 +15,4 @@ tags:
 
 ![](/wp-uploads/2018/01/encuesta_n_10.png)
 
-
 (Por referencia, el [enlace](https://twitter.com/gilbellosta/status/953722063621181443)).

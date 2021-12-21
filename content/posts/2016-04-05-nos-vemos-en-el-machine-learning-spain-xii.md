@@ -12,7 +12,7 @@ tags:
 - anuncios
 - estadística bayesiana
 - r
-- rstan
+- stan
 ---
 
 Porque voy a dar una charla en él. Es este jueves, por la tarde, en el Campus de Google de Madrid ([los detalles](http://www.meetup.com/MachineLearningSpain/events/229864597/)).

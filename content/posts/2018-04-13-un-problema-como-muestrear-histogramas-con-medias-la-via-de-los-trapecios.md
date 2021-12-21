@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
-- histograma
+- histogramas
 - media
 - muestreo
 ---
@@ -28,13 +28,8 @@ El primer ensayo podría ser muestrear una distribución trapezoidal, i.e.,
 
 ![](/wp-uploads/2018/04/muestreo_trapecio.png)
 
-
 Muestrear un trapecio de esas características equivale a muestrear una mezcla de una uniforme y una triangular (con pesos 0.8 y 0.2 en este caso porque el área del triángulo es la quinta parte de la de la región entera).
 
 Como la media de una distribución triangular es 1/3 o 2/3 (dependiendo de si la moda está en 0 o en 1) y la de la uniforme es 0.5, la mezcla, dependiendo de los pesos, solo serviría para los casos en que la media de intervalo estuviese dentro del intervalo [1/3, 2/3].
 
 Para otros casos, otras entradas.
-
-
-
-

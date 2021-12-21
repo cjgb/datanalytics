@@ -11,7 +11,7 @@ tags:
 - charla
 - diapositivas
 - r
-- rstan
+- stan
 ---
 
 Las diapositivas de mi [charla sobre `rstan` en el grupo de usuarios de R de Madrid del 2016-02-11](http://www.datanalytics.com/2016/02/08/rstan-y-rstanarm-en-medialab-prado-este-jueves/) están [aquí](/uploads/charla_grupo_usuarios_r_madrid_20160211.zip).

@@ -21,11 +21,8 @@ En otros países se evalúan, se miden y cabe preguntarse: ¿funcionan?
 
 Pues en otros sitios donde se miden esas cosas, [se han obtenido números como estos](https://80000hours.org/articles/effective-social-program/) (que es de donde traduzco):
 
-
-
-	  * Tal vez el 80% de los que se han medido usando técnicas rigurosas y con una muestra suficiente no funcionan, es decir, producen un efecto que compense el coste.
-	  * Tal vez un 1-10% tiene efectos negativos.
-	  * Los proyectos que no han sido medidos son probablemente peores (porque se tiende a investigar más los más promisorios).
-
+* Tal vez el 80% de los que se han medido usando técnicas rigurosas y con una muestra suficiente no funcionan, es decir, producen un efecto que compense el coste.
+* Tal vez un 1-10% tiene efectos negativos.
+* Los proyectos que no han sido medidos son probablemente peores (porque se tiende a investigar más los más promisorios).
 
 Lo anterior tiene, no obstante, una lectura positiva: ¡el ~20% funcionan! Es decir, que si este tipo de proyectos se evaluasen tempranamente y pudiesen ser cancelados de no funcionar, aplicando una especie de metáfora del [_reinforcement learning_](https://en.wikipedia.org/wiki/Reinforcement_learning), en unos años casi todos serían _buenos_.

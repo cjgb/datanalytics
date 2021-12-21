@@ -23,11 +23,8 @@ El primero de ellos (que no sé por qué lo guardé) son las [diapositivas de un
 
 Los otros tres se refieren a la metodología que utiliza la gente de [electionforecast.co.uk](http://electionforecast.co.uk/):
 
-
-
-	  * [Intro para todos los públicos](https://fivethirtyeight.com/features/how-our-uk-election-forecasting-model-works/).
-	  * El [_paper_](http://electionforecast.co.uk/resources/electoral-studies-final.pdf).
-	  * Y el [código en R + JAGS](https://github.com/chrishanretty/election4castUK).
-
+* [_Intro_ para todos los públicos](https://fivethirtyeight.com/features/how-our-uk-election-forecasting-model-works/).
+* El [_paper_](http://electionforecast.co.uk/resources/electoral-studies-final.pdf).
+* Y el [código en R + JAGS](https://github.com/chrishanretty/election4castUK).
 
 No tengo ni idea de cómo de complicado resultaría adaptarlo al caso español. Si alguien está por la tarea, que avise y vemos qué podemos hacer.

@@ -35,9 +35,3 @@ Lo cual es un éxito parcial. Sí que se aprecia una ligera tendencia negativa e
 haya afectado al modelo. O que...
 
 No va a ser el envejecimiento de la población: este afectaría a la tasa que represento más arriba (los coeficientes son mucho mayores para los tramos de edad más elevados) pero la evolución sería mucho menos súbita. Debería por tanto repetir el análisis por tramo de edad, pero ya no será hoy.
-
-
-
-
-
-

@@ -16,26 +16,8 @@ tags:
 - varianza
 ---
 
-
-
-
 Tengo por ahí leído y encolado el artículo _[League Tables and Their Limitations: Statistical Issues in Comparisons of Institutional Performance](http://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/statistical-issues-for-league-tables1.pdf)_ del perínclito Spiegelhalter que toma una serie de _ránkings_ (de colegios, de hospitales) y trata de medir cuánto tienen de sustancia y cuánto de ruido.
 
-
-
-
-
-
-
-Hace cosas muy similares a las que escribí [aquí](https://www.datanalytics.com/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/). Mi entrada, además, cuenta con la ventaja (que lo será solo para algunos) de usar la sintaxis y código de `[lme4](https://cran.r-project.org/package=lme4)` en lugar de la nomenclatura que más odio para describir los modelos mixtos utilizados.
-
-
-
-
-
-
+Hace cosas muy similares a las que escribí [aquí](https://www.datanalytics.com/2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/). Mi entrada, además, cuenta con la ventaja (que lo será solo para algunos) de usar la sintaxis y código de [`lme4`](https://cran.r-project.org/package=lme4) en lugar de la nomenclatura que más odio para describir los modelos mixtos utilizados.
 
 A un nivel menos operativo, más conceptual y transportable a otros contextos, lo que trata el artículo tiene que ver con la dificultad de deslindar mérito de suerte (que es el nombre que reciben señal y ruido en ciertos contextos), que se desarrolla [aquí](https://www.datanalytics.com/2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/) y en sus enlaces, y que [mereció uno de esos seudonóbeles de economía](https://marginalrevolution.com/marginalrevolution/2016/10/performance-pay-nobel.html).
-
-
-

@@ -18,13 +18,9 @@ Mi paquete [MicroDatosEs](https://www.datanalytics.com/?s=microdatoses) ya [form
 
 Una de ellas es la de migrar la documentación del paquete a [`roxigen2`](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html). Lo podría hacer yo, pero es muy aburrido. Sin embargo, entiendo que puede ser entretenido (además de sencillo) para alguien que:
 
-
-
-
-	  * No sepa de qué va eso de `roxigen2` pero me tome la palabra en eso de que es importante.
-	  * No sepa mucho de cómo va `git`, GitHub, etc. pero me tome la palabra en eso de que es importante.
-	  * Quiera disfrutar de una oportunidad real y significativa de aprender practicando.
-	  * Quiera aparecer en la lista de _contribuyentes_ a dicho paquete.
-
+* No sepa de qué va eso de `roxigen2` pero me tome la palabra en eso de que es importante.
+* No sepa mucho de cómo va `git`, GitHub, etc. pero me tome la palabra en eso de que es importante.
+* Quiera disfrutar de una oportunidad real y significativa de aprender practicando.
+* Quiera aparecer en la lista de _contribuyentes_ a dicho paquete.
 
 Así que si alguien está dispuesto a pasar unas cuantas horas aprendiendo, que avise y le cuento cómo proceder. Eso sí, por simplificar, va a ser uno y no más.

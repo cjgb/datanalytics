@@ -15,72 +15,31 @@ tags:
 - r
 ---
 
-
-
-
 Estos días me han preguntado sobre un modelo lineal tal que $latex y \sim x_1 + \dots$ donde el coeficiente de $latex x_1$ no se entiende si no es igual a 1. Es como si los datos se creasen de la forma
 
-
-
-
-
-
-
-    <code>n <- 100
-
-    x1 <- rnorm(n)
-    x2 <- rnorm(n)
-
-    y <- x1 + rnorm(n, .1) + .02 * x2</code>
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+n <- 100
+x1 <- rnorm(n)
+x2 <- rnorm(n)
+y <- x1 + rnorm(n, .1) + .02 * x2
+{{< / highlight >}}
 
 y se conociese el coeficiente de $latex x_1$ y no el de $latex x_2$. Entonces no tiene sentido plantear el modelo
 
-
-
-
-
-
-
-    <code>lm(y ~ x1 + x2)</code>
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+lm(y ~ x1 + x2)
+{{< / highlight >}}
 
 sino más bien
 
-
-
-
-
-
-
-    <code>modelo <- lm(y ~ offset(x1) + x2)</code>
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+modelo <- lm(y ~ offset(x1) + x2)
+{{< / highlight >}}
 
 que hace lo que uno espera. Lo cual se puede comprobar, por ejemplo, comparando
 
-
-
-
-
-
-
-    <code>head(predict(modelo))
-    head(x1 + coefficients(modelo)[1] + x2 * coefficients(modelo)[2])</code>
-
-
-
+{{< highlight R "linenos=true" >}}
+head(predict(modelo))
+head(x1 + coefficients(modelo)[1] +
+    x2 * coefficients(modelo)[2])
+{{< / highlight >}}

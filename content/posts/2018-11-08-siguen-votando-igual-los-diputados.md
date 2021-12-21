@@ -19,85 +19,80 @@ Hace seis años escribí [esto](https://www.datanalytics.com/2012/09/20/como-vot
 
 ![](/wp-uploads/2018/11/votos_diputados.png)
 
-
 Y, por supuesto, el código (que he tenido que reescribir en gran medida):
 
+{{< highlight R "linenos=true" >}}
+library(xml2)
+library(reshape2)
+library(plyr)
 
+# descarga y manipulación de datos
 
+dia_votacion <- function(n.votacion){
+  dir.create("tmp")
+  url <- paste("https://app.congreso.es/votacionesWeb/OpenData?sesion=",
+                n.votacion, "&completa;=1&legislatura;=12", sep = "")
+  download.file( url, destfile = "./tmp/votos.zip")
+  try(unzip("./tmp/votos.zip", exdir = "./tmp"), TRUE)
 
-    library(xml2)
-    library(reshape2)
-    library(plyr)
+  ficheros <- dir("./tmp", pattern = ".*xml", full.names = T)
 
-    # descarga y manipulación de datos
+  if (length(ficheros) == 0)
+    return(NULL)
 
-    dia_votacion <- function(n.votacion){
-      dir.create("tmp")
-      url <- paste("https://app.congreso.es/votacionesWeb/OpenData?sesion=",
-                    n.votacion, "&completa;=1&legislatura;=12", sep = "")
-      download.file( url, destfile = "./tmp/votos.zip")
-      try(unzip("./tmp/votos.zip", exdir = "./tmp"), TRUE)
+  res <- lapply(ficheros, function(fichero){
 
-      ficheros <- dir("./tmp", pattern = ".*xml", full.names = T)
+    print(fichero)
 
-      if (length(ficheros) == 0)
-        return(NULL)
+    datos <- as_list(read_xml(fichero))
 
-      res <- lapply(ficheros, function(fichero){
+    sesion <- datos$Resultado$Informacion$Sesion
+    numero <- datos$Resultado$Informacion$NumeroVotacion
 
-        print(fichero)
+    try(datos <- ldply(datos$Resultado$Votaciones, unlist), TRUE)
 
-        datos <- as_list(read_xml(fichero))
+    if (class(datos) == "try-error")
+      return(NULL)
 
-        sesion <- datos$Resultado$Informacion$Sesion
-        numero <- datos$Resultado$Informacion$NumeroVotacion
+    if (class(datos) != "data.frame")
+      return(NULL)
 
-        try(datos <- ldply(datos$Resultado$Votaciones, unlist), TRUE)
+    if(nrow(datos) == 0)
+      return(NULL)
 
-        if (class(datos) == "try-error")
-          return(NULL)
+    datos$sesion <- sesion
+    datos$numero <- numero
 
-        if (class(datos) != "data.frame")
-          return(NULL)
+    datos
+  })
 
-        if(nrow(datos) == 0)
-          return(NULL)
+  unlink("./tmp", recursive = T)      # borra el directorio temporal
 
-        datos$sesion <- sesion
-        datos$numero <- numero
+  res
+}
 
-        datos
-      })
+tmp <- lapply(1:156, dia_votacion)
 
-      unlink("./tmp", recursive = T)      # borra el directorio temporal
+datos <- tmp[!sapply(tmp, is.null)]
+datos <- lapply(datos, function(x) do.call(rbind, x))
+datos <- do.call(rbind, datos)
 
-      res
-    }
+datos$numero <- as.numeric(unlist(datos$numero))
+datos$sesion <- as.numeric(unlist(datos$sesion))
 
-    tmp <- lapply(1:156, dia_votacion)
+datos$asunto <- as.character(1000000 + 1000 * datos$sesion + datos$numero)
 
-    datos <- tmp[!sapply(tmp, is.null)]
-    datos <- lapply(datos, function(x) do.call(rbind, x))
-    datos <- do.call(rbind, datos)
+datos$ind <- 0
+datos$ind[datos$Voto == "No"] <- -1
+datos$ind[datos$Voto == "Sí"] <- 1
 
-    datos$numero <- as.numeric(unlist(datos$numero))
-    datos$sesion <- as.numeric(unlist(datos$sesion))
+tmp <- dcast(datos, asunto ~ Diputado, value.var = "ind", fill = 0)
+matriz_votos <- as.matrix(tmp[, -1])
 
-    datos$asunto <- as.character(1000000 + 1000 * datos$sesion + datos$numero)
+rownames(matriz_votos) <- NULL
+colnames(matriz_votos) <- NULL
 
-    datos$ind <- 0
-    datos$ind[datos$Voto == "No"] <- -1
-    datos$ind[datos$Voto == "Sí"] <- 1
-
-    tmp <- dcast(datos, asunto ~ Diputado, value.var = "ind", fill = 0)
-    matriz_votos <- as.matrix(tmp[, -1])
-
-    rownames(matriz_votos) <- NULL
-    colnames(matriz_votos) <- NULL
-
-    heatmap(matriz_votos, xlab = "Diputados", ylab = "Asuntos", scale = "none")
-
-
-
+heatmap(matriz_votos, xlab = "Diputados", ylab = "Asuntos", scale = "none")
+{{< / highlight >}}
 
 No sé si alguien querrá sacarle más punta a la no historia de hoy.

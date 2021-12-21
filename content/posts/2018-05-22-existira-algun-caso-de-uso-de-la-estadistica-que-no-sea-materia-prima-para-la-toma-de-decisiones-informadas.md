@@ -17,8 +17,7 @@ tags:
 
 Estoy escribiendo unas notas muy _punk_ sobre estadística. Desde cero. Hasta la luna. Pero que no se parecen en absoluto a nada de lo que he visto habitualmente escrito sobre la materia. Uno de sus capítulos, el primero, habla en general de la estadística. Abre con
 
-
-<blockquote>Statistics is a technology concerned with stochastic data generating systems (SDGS) for the purpose of making informed decisions.</blockquote>
+>Statistics is a technology concerned with stochastic data generating systems (SDGS) for the purpose of making informed decisions.
 
 
 y el resto del capítulo desarrolla cada elemento de la frase (sí, qué es una tecnología, etc.). Sin embargo, lo más _punk_ de la frase es el asunto de las decisiones. Porque, en el fondo, ejerciendo de estadístico, apenas se me ha encargado tener que tomarlas. Eran cosa de otros, de los que manejaban el presupuesto.
