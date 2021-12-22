@@ -24,29 +24,25 @@ Hay algunos procedimientos para hacerlo. Sin ir más lejos, véanse las referenc
 
 Lo que he hecho se parece mucho a
 
+{{< highlight R "linenos=true" >}}
+library(<a href="http://inside-r.org/packages/cran/party">party)
 
+enes <- c(rpois(10, 7), rpois(20, 1), rpois(10, 5))
+fechas <- 1:length(enes)
 
-    library(<a href="http://inside-r.org/packages/cran/party">party)
+datos <- data.frame(enes = enes, fechas = fechas)
 
-    enes <- c(rpois(10, 7), rpois(20, 1), rpois(10, 5))
-    fechas <- 1:length(enes)
-
-    datos <- data.frame(enes = enes, fechas = fechas)
-
-    modelo <- mob(enes ~ 1 | fechas, data = datos, family = poisson(),
-                  control = mob_control(bonferroni = FALSE))
-
-
+modelo <- mob(enes ~ 1 | fechas, data = datos, family = poisson(),
+                control = mob_control(bonferroni = FALSE))
+{{< / highlight >}}
 
 que es algo que cualquiera que lea la documentación de las funciones empleadas podría jurar y perjurar que tendría que funcionar. Y lo hace sí, salvo que `plot(modelo)` no funciona (¿_bug_?). Pero `mob` parece ser demasiado poco sensible.
 
 Sustituyendo arriba la línea relevante por algo como
 
-
-
-    enes <- c(rpois(10, 70), rpois(20, 1), rpois(100, 50))
-
-
+{{< highlight R "linenos=true" >}}
+enes <- c(rpois(10, 70), rpois(20, 1), rpois(100, 50))
+{{< / highlight >}}
 
 para obtener unas zonas muy claramente definidas... pues sí, las detecta. Pero mis señales no son tan manifiestas.
 

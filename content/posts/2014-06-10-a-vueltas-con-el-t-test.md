@@ -28,35 +28,21 @@ Yo soy de la opinión de que el t-test no es aplicable. Aparte de por los consab
 
 Pero alguien va y dice lo siguiente: fíjese Vd. que lo que hay en el numerador del estadístico del t-test, que viene a ser
 
-
-$latex \sqrt{n} \frac{\mu_X}{\sigma_X}$
-
+$$ \sqrt{n} \frac{\mu_X}{\sigma_X}$$
 
 es una media y, por tanto, aplicando el teorema central del límite (¿aplica?), lo que ve es una normal.
 
 ¡Puf! Vale, concedo que $latex \sqrt{n} \mu_X$ podría seguir una normal. Pero, ¿tiene el denominador una distribución que pueda parecerse a una chi-cuadrado con n-1 grados de libertad? Ni jarto de vino. El que quiera convencerse de ello, que ejecute
 
-
-
-
-
-
-
-
-    foo <- function(n, m){
-      res <- c(rep(0,n), abs(rcauchy(m)))
-      var(res)
-    }
-     
-    res <- replicate(10000, foo(1000, 10))
-    qqplot(res, rchisq(10000, 1010))
-    abline(a=0, b=1)
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+foo <- function(n, m){
+  res <- c(rep(0,n), abs(rcauchy(m)))
+  var(res)
+}
+ 
+res <- replicate(10000, foo(1000, 10))
+qqplot(res, rchisq(10000, 1010))
+abline(a=0, b=1)
+{{< / highlight >}}
 
 En fin, he visto argumentos variados en pro de la prueba de Student. Pero el de que la normalidad es irrelevante (al menos, cuando n es bastante grande) porque el teorema central del límite aplica... me tiene descolocado.

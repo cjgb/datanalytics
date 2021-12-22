@@ -9,11 +9,10 @@ categories:
 - estadística
 tags:
 - estadística
+- historia
 ---
 
-<blockquote>[...] con algo llamado _aritmética política_ en el siglo XVII [...]</blockquote>
-
-
+>[...] con algo llamado _aritmética política_ en el siglo XVII [...]
 
 El resto (son apenas ocho hojas), tenéis que leerlo (porque os intriga, ¿verdad?) [aquí](http://132.187.98.10:8080/encyclopedia/en/statisticsHistory.pdf).
 

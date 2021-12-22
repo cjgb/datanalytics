@@ -16,39 +16,37 @@ Uno de mis últimos _pet projects_ tiene que ver con el análisis de las compone
 
 Voy a limitarme a copiar el código para referencia mía y de otros. Creo que se autoexplica:
 
+{{< highlight scala "linenos=true" >}}
+import org.apache.spark.graphx._
+import org.apache.spark.graphx.util.GraphGenerators
 
+// vertices: 1:5
+val vertices = sc.parallelize(Array((1L, ("a")), (2L, ("b")),
+        (3L, ("c")), (4L, ("d")),(5L, ("d")) ))
 
-    <code>import org.apache.spark.graphx._
-    import org.apache.spark.graphx.util.GraphGenerators
+// aristas: 1 -> 2; 3 -> 4; 3 -> 5
+val aristas = sc.parallelize(Array(Edge(1L, 2L, "a"),
+        Edge(3L, 4L, "a"), Edge(3L, 5L, "a")))
 
-    // vertices: 1:5
-    val vertices = sc.parallelize(Array((1L, ("a")), (2L, ("b")),
-    		(3L, ("c")), (4L, ("d")),(5L, ("d")) ))
+// grafo
+val grafo = Graph(vertices, aristas)
 
-    // aristas: 1 -> 2; 3 -> 4; 3 -> 5
-    val aristas = sc.parallelize(Array(Edge(1L, 2L, "a"),
-    		Edge(3L, 4L, "a"), Edge(3L, 5L, "a")))
+// componentes conexas
+// la siguiente funcion construye un grafo en el que las aristas son del tipo
+//   (vertice original) -> (vertice con el id minimo en la componente conexa)
+// es decir, para cada vertice del grafo original, se crea una arista, un par,
+// en el que la segunda componente indica la componente a la que pertenece;
+// esa componente esta indicada por el minimo id de los vertices que la componen
+val res = grafo.connectedComponents().vertices
 
-    // grafo
-    val grafo = Graph(vertices, aristas)
+// componentes conexas
+res.collect()
+// Salida: Array((1,1), (2,1), (3,3), (4,3), (5,3))
 
-    // componentes conexas
-    // la siguiente funcion construye un grafo en el que las aristas son del tipo
-    //   (vertice original) -> (vertice con el id minimo en la componente conexa)
-    // es decir, para cada vertice del grafo original, se crea una arista, un par,
-    // en el que la segunda componente indica la componente a la que pertenece;
-    // esa componente esta indicada por el minimo id de los vertices que la componen
-    val res = grafo.connectedComponents().vertices
+// numero de vertices por componente conexa
+res.map(v2cc => (v2cc._2, v2cc._1)).countByKey
 
-    // componentes conexas
-    res.collect()
-    // Salida: Array((1,1), (2,1), (3,3), (4,3), (5,3))
-
-    // numero de vertices por componente conexa
-    res.map(v2cc => (v2cc._2, v2cc._1)).countByKey
-
-    // Salida: Map(1 -> 2, 3 -> 3)</code>
-
-
+// Salida: Map(1 -> 2, 3 -> 3)
+{{< / highlight >}}
 
 Como cabía esperar.

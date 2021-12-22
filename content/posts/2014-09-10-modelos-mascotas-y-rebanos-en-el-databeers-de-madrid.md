@@ -21,9 +21,7 @@ Los detalles (incluido el enlace para registrarse) están disponibles [aquí](ht
 
 Haréis mal en faltar porque, con la excepción de un servidor, el resto del cartel es de primera:
 
-
-
-	  * [Pedro Concejero](https://twitter.com/ConcejeroPedro): _Decide_
-	  * [Fran Castillo](http://francastillo.net/):  _Big data needs artist explorers_
-	  * [Carlos Herrera](http://humnetlab.mit.edu/findingbacon/): _La Geografía de las Redes Sociales Urbanas_
+* [Pedro Concejero](https://twitter.com/ConcejeroPedro): _Decide_
+* [Fran Castillo](http://francastillo.net/):  _Big data needs artist explorers_
+* [Carlos Herrera](http://humnetlab.mit.edu/findingbacon/): _La Geografía de las Redes Sociales Urbanas_
 

@@ -9,6 +9,7 @@ categories:
 - r
 tags:
 - r
+- consultoría
 ---
 
 Tenía en mente escribir estas líneas desde hace un tiempo. La reciente noticia de la [adquisición de Revolution Analytics por parte de Microsoft](http://blog.revolutionanalytics.com/2015/01/revolution-acquired.html) la ha adelantado, como mucho, unos pocos días.

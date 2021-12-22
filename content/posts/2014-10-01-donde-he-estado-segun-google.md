@@ -24,44 +24,48 @@ Google guarda datos de tus ubicaciones: tu tableta, tu ordenador, tu teléfono A
 El código que he utilizado el el siguiente:
 
 
+{{< highlight R "linenos=true" >}}
+library(RJSONIO)
+library(plyr)
+library(ggmap)
 
-        library(RJSONIO)
-        library(plyr)
-        library(ggmap)
+raw  <- fromJSON("Historialdeubicaciones.json")
+res  <- ldply(raw$locations,
+        function(x) c(x$latitudeE7, x$longitudeE7,
+                as.numeric(x$timestampMs)))
 
-        raw  <- fromJSON("Historialdeubicaciones.json")
-        res  <- ldply(raw$locations, function(x) c(x$latitudeE7, x$longitudeE7, as.numeric(x$timestampMs)))
+# arreglo el df
+colnames(res) <- c("lat", "lon", "timestamp")
 
-        # arreglo el df
-        colnames(res) <- c("lat", "lon", "timestamp")
+res$lat <- res$lat / 1e7
+res$lon <- res$lon / 1e7
 
-        res$lat <- res$lat / 1e7
-        res$lon <- res$lon / 1e7
+# crea el mapa base y representa las ubicaciones
+mostrar.ubicaciones <- function(direccion, zoom, puntos){
+        centro <- geocode(direccion)
+        map <- get_map(
+                location = as.numeric(centro),
+                color = "color",
+                maptype = "roadmap",
+                scale = 2,
+                zoom = zoom)
+        ggmap(map)
 
-        # crea el mapa base y representa las ubicaciones
-        mostrar.ubicaciones <- function(direccion, zoom, puntos){
-          centro <- geocode(direccion)
-          map <- get_map( location = as.numeric(centro),
-                          color = "color",
-                          maptype = "roadmap",
-                          scale = 2,
-                          zoom = zoom)
-          ggmap(map)
+        # le añado puntos
+        ggmap(map) +
+                geom_point(aes(
+                        x = lon, y = lat),
+                        data = puntos, colour = 'red',
+                        size = 4)
+}
 
-          # le añado puntos
-          ggmap(map) + geom_point(aes(x = lon, y = lat),
-                                         data = puntos, colour = 'red',
-                                         size = 4)
-        }
-
-        # mis ubicaciones
-        mostrar.ubicaciones("Paris, Francia", 4, res)
-        mostrar.ubicaciones('Puerta del Sol, Madrid, Spain', 11, res)
-        mostrar.ubicaciones('Technopark, Zurich, Suiza', 14, res)
-        mostrar.ubicaciones("Soria, Spain", 7, res)
-        mostrar.ubicaciones("Zaragoza, Spain", 14, res)
-
-
+# mis ubicaciones
+mostrar.ubicaciones("Paris, Francia", 4, res)
+mostrar.ubicaciones('Puerta del Sol, Madrid, Spain', 11, res)
+mostrar.ubicaciones('Technopark, Zurich, Suiza', 14, res)
+mostrar.ubicaciones("Soria, Spain", 7, res)
+mostrar.ubicaciones("Zaragoza, Spain", 14, res)
+{{< / highlight >}}
 
 **Resultados**
 

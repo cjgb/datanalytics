@@ -9,6 +9,8 @@ categories:
 - r
 tags:
 - r
+- paquetes
+- swirl
 ---
 
 Me pasó el otro día [Federico Castanedo](https://twitter.com/overfit) un enlace a [`swirl`](http://swirlstats.com/) que quiero compartir con mis lectores y, en particular, aquellos que quieren aprender (¡o enseñar!) R.
@@ -18,12 +20,10 @@ Me pasó el otro día [Federico Castanedo](https://twitter.com/overfit) un enlac
 
 ¿Cómo funciona? Sencillo:
 
-
-
-    install.packages("swirl")
-    library("swirl")
-    swirl()
-
-
+{{< highlight R "linenos=true" >}}
+install.packages("swirl")
+library("swirl")
+swirl()
+{{< / highlight >}}
 
 (idealmente en RStudio) y luego, click, click, click hasta saber todo lo que merece ser sabido en R.

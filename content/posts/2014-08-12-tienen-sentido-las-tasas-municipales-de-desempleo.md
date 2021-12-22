@@ -10,6 +10,8 @@ categories:
 tags:
 - números
 - varianza
+- desempleo
+- ine
 ---
 
 Sigo los [artículos de periodismo de datos de El Confidencial](http://www.elconfidencial.com/tags/temas/periodismo-de-datos-9977/). Los recomiendo, de hecho. Es bueno que alguien se encargue de divulgar noticias que tienen que ver con números.

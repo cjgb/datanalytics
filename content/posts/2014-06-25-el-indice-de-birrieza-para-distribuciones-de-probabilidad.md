@@ -10,6 +10,7 @@ categories:
 tags:
 - birrieza
 - estadística
+- distribuciones
 ---
 
 Pido disculpas por usar _birrieza_, que no es una palabra que no existe. Si a alguien se le ocurre otro término mejor, que lo sugiera. Pero es que hay distribuciones de probabilidad que son una birria. Y de ellas me voy a ocupar hoy.

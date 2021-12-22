@@ -9,7 +9,7 @@ categories:
 - nlp
 tags:
 - markov
-- nlps
+- nlp
 ---
 
 Hija de la improvisación de hace un ratico, habrá mañana sábado día 4 (de 2014), a las 19:00 una reunión de gente poco cabal en [MartinaCocina](http://martinacocina.es) para discutir asuntos relacionados con el análisis de textos (y en una vertiente más lúdica, la generación de textos) usando cadenas de Markov.

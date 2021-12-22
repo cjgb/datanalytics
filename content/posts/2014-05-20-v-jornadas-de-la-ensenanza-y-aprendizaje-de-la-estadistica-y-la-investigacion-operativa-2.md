@@ -20,10 +20,8 @@ Los días 16 y 17 de junio tendrán lugar en Madrid las [V Jornadas de la Enseñ
 
 Serán cuatro [horas y media en la mañana del 17](http://www.defensa.gob.es/genaeio2014/html/programa.html) organizadas de la siguiente manera:
 
-
-
-	  * Primeras dos horas: introducción al _big data_ y Hadoop desde una perspectiva no estadística: el qué, cuándo, cómo y para qué de eso que llamamos _big data_. Para no quedarnos en la mera superficie de la cosa, llegaremos a realizar alguna operacioncita básica con Hadoop.
-	  * Las dos siguientes dos horas estarán dedicadas a la visión que desde la estadística y en opinión humilde de quien suscribe, debería tenerse de ese neomundo. Que se completará, de nuevo, con ejemplos desarrollados sobre Hadoop.
+* Primeras dos horas: introducción al _big data_ y Hadoop desde una perspectiva no estadística: el qué, cuándo, cómo y para qué de eso que llamamos _big data_. Para no quedarnos en la mera superficie de la cosa, llegaremos a realizar alguna operacioncita básica con Hadoop.
+* Las dos siguientes dos horas estarán dedicadas a la visión que desde la estadística y en opinión humilde de quien suscribe, debería tenerse de ese neomundo. Que se completará, de nuevo, con ejemplos desarrollados sobre Hadoop.
 
 Lo dejo todo aquí avisado y con tiempo por si alguno de mis lectores se anima, acude y así aprovechamos y nos saludamos.
 

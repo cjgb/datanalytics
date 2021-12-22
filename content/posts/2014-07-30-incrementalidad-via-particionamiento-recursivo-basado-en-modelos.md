@@ -24,22 +24,23 @@ De eso hablo hoy aquí. E incluyo una protorespuesta.
 
 Primero, genero datos:
 
+{{< highlight R "linenos=true" >}}
+n  <- 20000
+v1 <- sample(0:1, n, replace = T)
+v2 <- sample(0:1, n, replace = T)
+v3 <- sample(0:1, n, replace = T)
 
+treat <- sample(0:1, n, replace = T)
 
-    n  <- 20000
-    v1 <- sample(0:1, n, replace = T)
-    v2 <- sample(0:1, n, replace = T)
-    v3 <- sample(0:1, n, replace = T)
+y <- v1 + treat * v1 * v2
+y <- exp(y) / (1 + exp(y))
+y <- sapply(y, function(x) rbinom(1,1,x))
 
-    treat <- sample(0:1, n, replace = T)
-
-    y <- v1 + treat * v1 * v2
-    y <- exp(y) / (1 + exp(y))
-    y <- sapply(y, function(x) rbinom(1,1,x))
-
-    dat <- data.frame(y = y, treat = factor(treat), v1 = v1, v2 = v2, v3 = v3)
-
-
+dat <- data.frame(
+    y = y,
+    treat = factor(treat), v1 = v1,
+    v2 = v2, v3 = v3)
+{{< / highlight >}}
 
 Como puede apreciarse, solo las variables `v1` y `v2` (y no `v3`) interaccionan con el tratamiento: solo en la región donde `v1 = v1 = 1` el efecto del tratamiento es positivo.
 
@@ -52,13 +53,12 @@ Como se ve, efectivamente, la variable `v3` (fila inferior) no tiene ningún efe
 
 Ahora,
 
-
-
-    library(<a href="http://inside-r.org/packages/cran/party">party)
-    modelo <- mob(y ~ treat | v1 + v2 + v3, data = dat, family = binomial())
-    plot(modelo)
-
-
+{{< highlight R "linenos=true" >}}
+library(party)
+modelo <- mob(y ~ treat | v1 + v2 + v3,
+    data = dat, family = binomial())
+plot(modelo)
+{{< / highlight >}}
 
 hace la magia. El resultado es
 

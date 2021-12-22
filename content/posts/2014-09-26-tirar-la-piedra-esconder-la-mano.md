@@ -11,6 +11,8 @@ tags:
 - escocia
 - estadística
 - falacias
+- falacia ecológica
+- mala ciencia
 ---
 
 Hoy he encontrado esto en Twitter:

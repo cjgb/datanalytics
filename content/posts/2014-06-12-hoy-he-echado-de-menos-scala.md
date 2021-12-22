@@ -16,31 +16,18 @@ tags:
 
 Hoy he escrito
 
-
-
-
-
-
-
-
-    last.date <- max(Filter(function(x) format(x, "%m") == "03", all.filled.data$Date))
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+last.date <- max(Filter(function(x) format(x, "%m") == "03",
+	all.filled.data$Date))
+{{< / highlight >}}
 
 y he echado mucho de menos [Scala](http://en.wikipedia.org/wiki/Scala_(programming_language)).
 
 Más sobre Scala:
 
-
-
-	  * Si yo fuera rey, todos los niños aprenderían Scala.
-	  * Al tipo que inventó Scala le gustan tanto o más los [_oneliners_](http://es.wikipedia.org/wiki/Los_santos_inocentes_(novela)) que a mí.
-	  * Todavía me llevo mal con el compilador.
-	  * La gente viene a Suiza y aprende el alemán malhablado de aquí; yo, ya véis, Scala. Soy así de sociable.
-	  * Detrás de Scala vendrá [Spark](http://spark.apache.org/).
+* Si yo fuera rey, todos los niños aprenderían Scala.
+* Al tipo que inventó Scala le gustan tanto o más los [_oneliners_](http://es.wikipedia.org/wiki/Los_santos_inocentes_(novela)) que a mí.
+* Todavía me llevo mal con el compilador.
+* La gente viene a Suiza y aprende el alemán malhablado de aquí; yo, ya véis, Scala. Soy así de sociable.
+* Detrás de Scala vendrá [Spark](http://spark.apache.org/).
 

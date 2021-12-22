@@ -21,9 +21,7 @@ Este verano, la Escuela Complutense de Verano ofrece el curso [_Big & open data:
 
 Lo anuncio por aquí por tres motivos:
 
-
-
-	  * Por su interés intrínseco.
-	  * Por si alguno de los lectores de estas páginas estuviese interesado.
-	  * Porque yo participo/participaría en el programa contando cosas de lo más jugosas.
+* Por su interés intrínseco.
+* Por si alguno de los lectores de estas páginas estuviese interesado.
+* Porque yo participo/participaría en el programa contando cosas de lo más jugosas.
 

@@ -20,35 +20,33 @@ Contexto (disfrazado). Hay usuarios que tienen correos electrónicos. La relaci�
 
 No puedo compartir los datos aquí, pero sí un poco de código:
 
+{{< highlight R "linenos=true" >}}
+library(igraph)
 
+# creo el grafo
+raw <- read.table("usuario_correo.txt", header = T)
+tmp <- as.matrix(raw)
+g <- graph.edgelist(tmp)
 
-    library(igraph)
+# lo descompongo en componentes conexas
+subgraphs <- decompose.graph(g)
 
-    # creo el grafo
-    raw <- read.table("usuario_correo.txt", header = T)
-    tmp <- as.matrix(raw)
-    g <- graph.edgelist(tmp)
+# cuento el número de componentes según el número de
+# usuarios + correos que contengan
+table( sapply(subgraphs, vcount) )
 
-    # lo descompongo en componentes conexas
-    subgraphs <- decompose.graph(g)
+# me quedo con la lista de los más complejos
+# (más de siete usuarios + correos)
+complex.subgraphs <- graph.union(Filter(function(x) vcount(x) > 7, subgraphs))
 
-    # cuento el número de componentes según el número de
-    # usuarios + correos que contengan
-    table( sapply(subgraphs, vcount) )
+# distingo correos y usuarios con colores
+# los correos son los nodos que "reciben" algun usuario
+V(complex.subgraphs)$color <- pmin(1, degree(complex.subgraphs, mode="in"))
 
-    # me quedo con la lista de los más complejos
-    # (más de siete usuarios + correos)
-    complex.subgraphs <- graph.union(Filter(function(x) vcount(x) > 7, subgraphs))
-
-    # distingo correos y usuarios con colores
-    # los correos son los nodos que "reciben" algun usuario
-    V(complex.subgraphs)$color <- pmin(1, degree(complex.subgraphs, mode="in"))
-
-    # dibujo los patrones resultantes
-    plot(complex.subgraphs, vertex.label=NA,
-         vertex.size = 4, edge.arrow.size=0.2)
-
-
+# dibujo los patrones resultantes
+plot(complex.subgraphs, vertex.label=NA,
+        vertex.size = 4, edge.arrow.size=0.2)
+{{< / highlight >}}
 
 El resultado es algo así como
 

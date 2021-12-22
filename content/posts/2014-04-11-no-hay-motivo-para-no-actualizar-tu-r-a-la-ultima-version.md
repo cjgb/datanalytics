@@ -9,6 +9,7 @@ categories:
 - r
 tags:
 - r
+- paquetes
 ---
 
 Ayer se publicó [la versión 3.1.0 de R](https://stat.ethz.ch/pipermail/r-announce/2014/000572.html). No es gran noticia: aparecen nuevas versiones cada no muchos meses.
@@ -17,8 +18,8 @@ No hay motivo para no actualizar. Pero sí para hacerlo: las nuevas versiones co
 
 Para quienes usen R en plataformas donde el _software_ no se actualiza _automágicamente_, existe el paquete `installr` que permite actualizar la versión de R con menos esfuerzo que antaño haciendo
 
-
-
-    install.packages("installr")
-    library(installr)
-    updateR()
+{{< highlight R "linenos=true" >}}
+install.packages("installr")
+library(installr)
+updateR()
+{{< / highlight >}}

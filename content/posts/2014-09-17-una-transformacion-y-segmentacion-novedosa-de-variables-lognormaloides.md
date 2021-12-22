@@ -24,14 +24,9 @@ tags:
 
 Resumen:
 
-
-
-	  * ¡Los arbitrios que tiene que hacer uno para que le dejen tomar logaritmos!
-	  * No trates de venderle la moto a alguien que tiene un doctorado... aunque sea en informática.
-
+* ¡Los arbitrios que tiene que hacer uno para que le dejen tomar logaritmos!
+* No trates de venderle la moto a alguien que tiene un doctorado... aunque sea en informática.
 
 Concluyo con una cita de Andrew Gelman:
 
-
-
-<blockquote>“You take the log so fast that you don’t even see the actual data. Plus you take the log because you can, because they’re all positive.”</blockquote>
+>“You take the log so fast that you don’t even see the actual data. Plus you take the log because you can, because they’re all positive.”

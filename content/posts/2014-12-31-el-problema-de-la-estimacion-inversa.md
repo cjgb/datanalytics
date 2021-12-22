@@ -14,9 +14,7 @@ tags:
 
 Supongamos que tenemos unos niños de los que sabemos las edades $latex x_i$ y las alturas $latex y_i$. Supongamos además que podemos estimar las segundas en función de las primeras con un modelo lineal clásico
 
-
-$latex y_i \sim N(a_0 + a_1 x_1, \sigma).$
-
+$$ y_i \sim N(a_0 + a_1 x_1, \sigma).$$
 
 Este modelo nos permite, dada una edad, estimar la altura y los correspondientes intervalos de confianza. Pero, dada una altura, ¿qué nos dice de la edad? Este es el problema conocido como de la _estimación inversa_.
 

@@ -9,6 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
+- álgebra
 ---
 
 Matemáticas y estadística son peras y manzanas. La una es la ciencia del ser; la otra, del parecer. Se encuentran en la teoría de la probabilidad, pero se miran de reojo y con recelo. Por eso este [curso de estadística algebraica](https://math.berkeley.edu/~bernd/owl.pdf) es toda una rareza.

@@ -15,80 +15,76 @@ tags:
 
 Esta entrada viene a cuento de [una pregunta en r-help-es](https://stat.ethz.ch/pipermail/r-help-es/2014-November/008343.html) con, por referencia, este contexto:
 
-
-
-<blockquote>Tengo un dataset con 4505 observaciones en el que la variable dependiente son presencias (n=97 y clasificadas como 1) y ausencias (n=4408 y clasificadas como 0).</blockquote>
-
-
+>Tengo un dataset con 4505 observaciones en el que la variable dependiente son presencias (n=97 y clasificadas como 1) y ausencias (n=4408 y clasificadas como 0).
 
 Y la cuestión tiene que ver con la conveniencia de utilizar una muestra equilibrada o no de los datos al ajustar una regresión logística y si procede o no utilizar pesos.
 
 Yo quiero mostrar aquí qué sucede con los coeficientes de una regresión logística cuando se submuestrean los ceros. Para eso voy a crear muchos conjuntos de datos con la siguiente estructura:
 
 
-
-    x1 <- rep(0:1, times = c(n, reps * n))
-    x2 <- runif(n * (reps + 1))
-    y <- exp(-1 - 4 * x1)
-    y <- y/(1+y)
-    dat$y <- sapply(y, function(x) rbinom(1, 1, x))
-
-
+{{< highlight R "linenos=true" >}}
+x1 <- rep(0:1, times = c(n, reps * n))
+x2 <- runif(n * (reps + 1))
+y <- exp(-1 - 4 * x1)
+y <- y/(1+y)
+dat$y <- sapply(y, function(x) rbinom(1, 1, x))
+{{< / highlight >}}
 
 Hay dos variables independientes, `x1` y `x2`. La segunda es puro ruido. La primera es 0 (casi nunca) o 1 (a menudo). La variable dependiente `y` es 0 o 1 con una probabilidad que depende de `x1`: es mucho más probable que sea 1 cuando `x1 = 0` (pocas ocasiones) que cuando `x1 = 1` (muchas ocasiones). Los coeficientes _verdaderos_ de la regresión logística tal como se ha planteado son `c(-1, -4, 0)`.
 
 Simulemos pues:
 
+{{< highlight R "linenos=true" >}}
+library(parallel)
 
+n    <- 100
+reps <- 20
 
-    library(parallel)
+logistic.bias <- function(n, prop){
 
-    n    <- 100
-    reps <- 20
+  x1 <- rep(0:1, times = c(n, reps * n))
+  x2 <- runif(n * (reps + 1))
 
-    logistic.bias <- function(n, prop){
+  dat <- data.frame(x1 = x1, x2 = x2)
 
-      x1 <- rep(0:1, times = c(n, reps * n))
-      x2 <- runif(n * (reps + 1))
+  res <- replicate(100, {
+    y <- exp(-1 - 4 * x1)
+    y <- y/(1+y)
+    dat$y <- sapply(y, function(x) rbinom(1, 1, x))
 
-      dat <- data.frame(x1 = x1, x2 = x2)
+    keep <- which(dat$y == 1)
 
-      res <- replicate(100, {
-        y <- exp(-1 - 4 * x1)
-        y <- y/(1+y)
-        dat$y <- sapply(y, function(x) rbinom(1, 1, x))
+    n.0 <- pmin(prop * length(keep), sum(dat$y == 0))
 
-        keep <- which(dat$y == 1)
+    keep <- c(keep, sample(which(dat$y == 0), n.0))
 
-        n.0 <- pmin(prop * length(keep), sum(dat$y == 0))
+    dat <- dat[keep,]
 
-        keep <- c(keep, sample(which(dat$y == 0), n.0))
+    coef(glm(y ~ x1 + x2, data = dat, family = binomial()))
+  })
 
-        dat <- dat[keep,]
+  res <- t(res)
+}
 
-        coef(glm(y ~ x1 + x2, data = dat, family = binomial()))
-      })
+props <- c(1:10, 1000)
 
-      res <- t(res)
-    }
+res <- mclapply(props,
+    function(x) logistic.bias(1000, x), mc.cores = 8)
+out <- lapply(1:length(props),
+    function(x) data.frame(res[[x]], prop = props[x]))
+out <- do.call(rbind, out)
 
-    props <- c(1:10, 1000)
+colnames(out) <- c("x0", "x1", "x2", "prop")
 
-    res <- mclapply(props, function(x) logistic.bias(1000, x), mc.cores = 8)
-    out <- lapply(1:length(props), function(x) data.frame(res[[x]], prop = props[x]))
-    out <- do.call(rbind, out)
+boxplot(x2 ~ prop, data = out, main = "x2")
+abline(h = 0, col = "red")
 
-    colnames(out) <- c("x0", "x1", "x2", "prop")
+boxplot(x1 ~ prop, data = out, main = "x1")
+abline(h = -4, col = "red")
 
-    boxplot(x2 ~ prop, data = out, main = "x2")
-    abline(h = 0, col = "red")
-
-    boxplot(x1 ~ prop, data = out, main = "x1")
-    abline(h = -4, col = "red")
-
-    boxplot(x0 ~ prop, data = out, main = "x0")
-    abline(h = -1, col = "red")
-
+boxplot(x0 ~ prop, data = out, main = "x0")
+abline(h = -1, col = "red")
+{{< / highlight >}}
 
 
 Hay 100 iteraciones del ajuste de la regresión logísitica sobre 10 proporciones distintas de observaciones `y = 1`. Cuando `prop = 1`, los ceros y los unos están equilibrados. Cuando `prop = 2`, hay el doble de ceros que de unos. Etc. En la última, `prop = 1000`, se toma la muestra completa.

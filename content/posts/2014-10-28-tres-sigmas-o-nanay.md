@@ -9,6 +9,7 @@ categories:
 - estadística
 - finanzas
 tags:
+- mala ciencia
 - bolsa
 - escepticismo
 - estadística
@@ -21,11 +22,7 @@ Yo, por mi parte, estoy en la edad de esparcir el ébola del escepticismo. Que e
 
 Muchos lectores míos habrán también tropezado con alguno de esa muchedumbre de artículos en los que se _prueba_ que este o aquel criterio distinguen a las compañías más exitosas en bolsa de las que no, es decir, que explican la dinámica de los _retornos esperados transversales_ (o _cross-section of expected returns_). Y si en el resumen de un [artículo al respecto](http://sites.duke.edu/heqingzhu/files/2013/11/HarveyLiuZhu_cross-sectional-returns.pdf) veo que los autores escriben
 
-
-
-<blockquote>Echoing a recent disturbing conclusion in the medical literature, we argue that most _claimed_ research findings are likely false.</blockquote>
-
-
+>Echoing a recent disturbing conclusion in the medical literature, we argue that most _claimed_ research findings are likely false.
 
 no puedo sino traerlo intravenosamente a estas páginas mías.
 
@@ -33,11 +30,7 @@ En resumen, sí, el artículo viene a decir que han sido tantos y tantos los aut
 
 El resto del resumen describe la situación mejor que yo lo haría:
 
-
-
-<blockquote>Hundreds of papers and hundreds of factors attempt to explain the cross-section of expected returns. Given this extensive data mining, it does not make any economic or statistical sense to use the usual significance criteria for a newly discovered factor, e.g., a t-ratio greater than 2.0. However, what hurdle should be used for current research? Our paper introduces a multiple testing framework and provides a time series of historical significance cutoffs from the first empirical tests in 1967 to today. We also project forward 20 years assuming the rate of factor production remains similar to the experience of the last few years. We argue that today a newly discovered factor needs to clear a much higher hurdle, with a t-ratio greater than 3.0.</blockquote>
-
-
+>Hundreds of papers and hundreds of factors attempt to explain the cross-section of expected returns. Given this extensive data mining, it does not make any economic or statistical sense to use the usual significance criteria for a newly discovered factor, e.g., a t-ratio greater than 2.0. However, what hurdle should be used for current research? Our paper introduces a multiple testing framework and provides a time series of historical significance cutoffs from the first empirical tests in 1967 to today. We also project forward 20 years assuming the rate of factor production remains similar to the experience of the last few years. We argue that today a newly discovered factor needs to clear a much higher hurdle, with a t-ratio greater than 3.0.
 
 Es decir, exigir [p-valores del orden del 0.003](http://blogs.scientificamerican.com/observations/2012/07/17/five-sigmawhats-that/).
 

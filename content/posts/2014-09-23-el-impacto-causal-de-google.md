@@ -23,11 +23,7 @@ Estaba al tanto de barruntos sobre lo que hacía Google en ese ámbito. Lo revel
 
 Mis comentarios respecto al artículo y el paquete son dos. Primero, según el resumen del aquel,
 
-
-
-<blockquote>[t]his paper proposes to infer causal impact on the basis of a diffusion-regression state-space model that predicts the counterfactual market response that would have occurred had no intervention taken place.</blockquote>
-
-
+ >this paper proposes to infer causal impact on the basis of a diffusion-regression state-space model that predicts the counterfactual market response that would have occurred had no intervention taken place.
 
 Contrafactualidad, sin embargo, es algo un concepto mucho más cotidiano que causalidad. Contrafactualidad, según se desprende de la descripción superficial de lo que hacen los autores no es otra cosa que la especificación de una hipótesis nula y la construcción de un universo alternativo y artificial que trataría de simular la evolución del sistema de ser cierta. De que los efectos lleven a suponerla más o menos creíble (hasta el punto de _aceptarla_ o _rechazarla_, en la jerga del p-valor) a que exista una relación causal entre los unos y lo otro media mundo y mitad. Como de costumbre.
 
@@ -35,11 +31,7 @@ Hay que ser muy torero para hablar de causalidad. Más que, incluso, Google.
 
 El segundo comentario es que tampoco lo que nos trae Google es algo novísimo bajo el sol. P.e., en el artículo (¡de 2006!) [_Formulating State Space Models in R with Focus on Longitudinal Regression Models_](http://www.jstatsoft.org/v16/i01/paper) se plantea el siguiente problema:
 
-
-
-<blockquote>Let $latex y_t$ be the monthly numbers of light goods van drivers killed in road accidents, from January 1969 to December 1984 (192 observations). On January 31st, 1983, a seat belt law was introduced. The interest is to quantify the effect of the seat belt legislation law.</blockquote>
-
-
+ >Let $latex y_t$ be the monthly numbers of light goods van drivers killed in road accidents, from January 1969 to December 1984 (192 observations). On January 31st, 1983, a seat belt law was introduced. The interest is to quantify the effect of the seat belt legislation law.</blockquote>
 
 Que es, observarán mis lectores, muy similar al que ocho años después replantea Google. En la tercera gráfica del artículo, que reproduzco a continuación, los autores muestran cómo han sido capaces de dar con el efecto causal de la ley en cuestión.
 
@@ -47,6 +39,3 @@ Que es, observarán mis lectores, muy similar al que ocho años después replant
 ](/wp-uploads/2014/09/seatbelt.png)
 
 Salvo que dichos autores se abstuvieron de escribir _causal_ en su artículo. A diferencia de otros...
-
-
-

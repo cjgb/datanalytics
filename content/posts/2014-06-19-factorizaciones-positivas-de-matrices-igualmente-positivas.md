@@ -23,49 +23,35 @@ Y no, las matrices positivas, es decir, sin elementos negativos, no son una rare
 
 Al grano. Dada $latex A =(a_{ij})$ donde cada $latex a_{ij} > 0$ es posible encontrar dos matrices $latex W$ y $latex H$ también positivas tales que $latex A \approx WH$. La no demostración por ejemplo y construcción mediante caja negra es la siguiente:
 
-
-
-
-
-
-
-
-    library(MASS)
-    library(<a href="http://inside-r.org/packages/cran/NMF">NMF)
-     
-    a <- as.matrix(caith)
-    res <- <a href="http://inside-r.org/packages/cran/NMF">nmf(a, rank = 2)
-     
-    a
-     
-    # fair red medium dark black
-    # blue    326  38    241  110     3
-    # light   688 116    584  188     4
-    # medium  343  84    909  412    26
-    # dark     98  48    403  681    85
-     
-    res@fit@W %*% res@fit@H
-     
-    # fair       red   medium      dark     black
-    # blue   276.37021  45.58136 296.3578  96.37782  3.312852
-    # light  635.93433 102.81758 656.0355 182.10365  3.108965
-    # medium 456.68567  92.14988 700.5967 482.32648 42.241237
-    # dark    86.00979  45.45118 484.0100 630.19204 69.336946
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+library(MASS)
+library(<a href="http://inside-r.org/packages/cran/NMF">NMF)
+ 
+a <- as.matrix(caith)
+res <- <a href="http://inside-r.org/packages/cran/NMF">nmf(a, rank = 2)
+ 
+a
+ 
+# fair red medium dark black
+# blue    326  38    241  110     3
+# light   688 116    584  188     4
+# medium  343  84    909  412    26
+# dark     98  48    403  681    85
+ 
+res@fit@W %*% res@fit@H
+ 
+# fair       red   medium      dark     black
+# blue   276.37021  45.58136 296.3578  96.37782  3.312852
+# light  635.93433 102.81758 656.0355 182.10365  3.108965
+# medium 456.68567  92.14988 700.5967 482.32648 42.241237
+# dark    86.00979  45.45118 484.0100 630.19204 69.336946
+{{< / highlight >}}
 
 Lo del algoritmo es lo de menos. Hay muchos y diversos que pueden consultarse en la bibliografía que acompaña al paquete anterior y en muchas otras partes.
 
 También es medio irrelevante lo de la pérdida de la ortogonalidad (aunque véase [esto](http://www.datanalytics.com/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) y [esto](http://www.datanalytics.com/2011/08/16/una-feliz-conjuncion-estadistico-algebraica-y-ii/) para ver cómo otro tipo de factorizaciones más convencionales se relaciona con lo de la milonga de la $latex \chi^2$) por lo que se gana. Que es, dividiendo filas y columnas adecuadamente, esto:
 
-
-$latex A \approx WH= DW^\prime H^\prime$
-
+$$ A \approx WH= DW^\prime H^\prime$$
 
 donde $latex D$ es una matriz diagonal positiva y $latex W^\prime$ y $latex H^\prime$ son matrices positivas cuyas filas suman 1: ¡son probabilidades!
 
@@ -79,12 +65,9 @@ Termino comentando para qué podría servir lo anterior y que no se piense hablo
 
 Algunas cuestiones adicionales que me planteo respecto al asunto de hoy se refieren a, por ejemplo:
 
-
-
-
-	  * La unicidad (material) de la representación
-	  * Su estabilidad
-	  * La posibilidad de incrementar el número de ceros en las matrices (de manera similar a como se hace con las rotaciones de los componentes principales)
-  * Si eso que llaman trabajo pero que, en el fondo, es solo ruido, me va a dejar tiempo para seguir indagando en la materia
-  * Cómo demonios voy a factorizar algunas matrizotas que tengo en el disco duro
+* La unicidad (material) de la representación
+* Su estabilidad
+* La posibilidad de incrementar el número de ceros en las matrices (de manera similar a como se hace con las rotaciones de los componentes principales)
+* Si eso que llaman trabajo pero que, en el fondo, es solo ruido, me va a dejar tiempo para seguir indagando en la materia
+* Cómo demonios voy a factorizar algunas matrizotas que tengo en el disco duro
 

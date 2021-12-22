@@ -11,18 +11,16 @@ tags:
 - anumerismo
 - percepción del riesgo
 - probabilidad
+- gigerenzer
 ---
 
 ¿Qué significa que [los servicios meteorológicos digan que] hay un 30% de probabilidad de que llueva mañana? Pues resulta que significa distintas cosas para distintas personas, al menos, según [_A 30% Chance of Rain Tomorrow: How Does the Public Understand Probabilistic Weather Forecasts?_](http://library.mpib-berlin.mpg.de/ft/gg/GG_30_Chance_2005.pdf)
 
 En ese artículo Gigerenzer y sus coautores proponen a una muestra de sujetos las opciones siguientes:
 
-
-
-	  * Mañana lloverá el 30% del tiempo.
-	  * El 30% de los días que siguen a uno como el de hoy, llueve.
-	  * Lloverá en el 30% de la zona
-
+* Mañana lloverá el 30% del tiempo.
+* El 30% de los días que siguen a uno como el de hoy, llueve.
+* Lloverá en el 30% de la zona
 
 El artículo existe precisamente porque la opción elegida por muchos de los entrevistados no es la que conocen mis lectores sin necesidad de reverlársela.
 

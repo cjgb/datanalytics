@@ -19,30 +19,23 @@ Hoy voy a hablar de esa especie de oxímoron que es el el _bootstrap_ bayesiano.
 
 La respuesta de [Efron (1979)](http://projecteuclid.org/euclid.aos/1176344552) es esta:
 
-
-
-    replicate(n, mean(sample(x, length(x), replace = TRUE)))
-
-
+{{< highlight R "linenos=true" >}}
+replicate(n, mean(sample(x, length(x), replace = TRUE)))
+{{< / highlight >}}
 
 Es decir, crear muestras de $latex x_i$ con reemplazamiento y hacer la media de cada una de ellas para obtener su presunta distribución (o una muestra de la presunta distribución de esa media).
 
 Lo anterior puede replantearse así:
 
-
-
-	  * Obtener muchas muestras de enteros mayores que o iguales a cero que sumen n.
-	  * Para cada muestra, $latex n_{i1}, \dots, n_{in}$ calcular $latex 1/n \sum n_{ij}x_j$
-
+* Obtener muchas muestras de enteros mayores que o iguales a cero que sumen n.
+* Para cada muestra, $latex n_{i1}, \dots, n_{in}$ calcular $latex 1/n \sum n_{ij}x_j$
 
 Dos años después, a [Rubin (1981)](http://projecteuclid.org/euclid.aos/1176345338) se le ocurrió el _bootstrap_ bayesiano que consiste, esencialmente, en relajar la condición de que los pesos sean enteros. Es decir, se le ocurrió reemplazar la línea de código de Efron por
 
-
-
-    library(<a href="http://inside-r.org/packages/cran/gtools">gtools)
-    rdirichlet(n, rep(1, length(x))) %*% x
-
-
+{{< highlight R "linenos=true" >}}
+library(gtools)
+rdirichlet(n, rep(1, length(x))) %*% x
+{{< / highlight >}}
 
 que viene a ser $latex \sum p_{ij}x_j$ donde $latex \sum_j p_{ij} = 1$ y $latex p_{ij} \ge 0$. (Nótese que la llamada `gtools::rdirichlet(1, rep(1,5))` de vuelve 5 números positivos que suman uno). Es decir, la expresión anterior es una versión _suavizada_ del tal vez demasiado rotundo muestreo con reemplazo: a veces usas más un valor, a veces menos.
 

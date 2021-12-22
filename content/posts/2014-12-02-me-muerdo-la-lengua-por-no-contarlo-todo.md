@@ -9,6 +9,7 @@ categories:
 - r
 tags:
 - r
+- sas
 ---
 
 Me tengo que morder la lengua por no contarlo todo. Escribiré hasta donde pueda hacerlo. Que es casi nada. La cosa es que ha llegado a mis oídos que una muy importante empresa española con muchos, muchos empleados planea una migración muy seria de SAS a R.

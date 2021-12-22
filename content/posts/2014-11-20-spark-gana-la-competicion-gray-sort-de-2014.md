@@ -18,12 +18,10 @@ Esta de hoy es una entrada muy _friqui_ que se sirve de la casi excusa de que [l
 
 Todavía colea el siglo XX y todavía pagan dinero por cosas que algún día consideraremos tan entrañables como el [ZX Spectrum](http://en.wikipedia.org/wiki/ZX_Spectrum) de 48kB tales como:
 
-
-
-	  * Colorear casillas en Excel.
-	  * Escribir _pasos data_ en SAS.
-	  * Tener reuniones de dos horas.
-	  * Guardar todos los archivos en el disco duro de un portátil.
-	  * Y otras cosas que igual un día me suelto y cuento.
+* Colorear casillas en Excel.
+* Escribir _pasos data_ en SAS.
+* Tener reuniones de dos horas.
+* Guardar todos los archivos en el disco duro de un portátil.
+* Y otras cosas que igual un día me suelto y cuento.
 
 Pero el futuro está a la vuelta de la esquina y los pájaros tempraneros de hoy en día, que ya saben R (porque son, como digo, pájaros tempraneros), aprenden Spark y [Scala](http://www.scala-lang.org/).

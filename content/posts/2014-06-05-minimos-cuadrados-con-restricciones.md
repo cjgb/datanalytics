@@ -17,40 +17,37 @@ tags:
 
 Sí, había restricciones. No me preguntéis por qué, pero los coeficientes tenían que ser positivos y sumar uno. Es decir, buscaba la combinación convexa de cuatro vectores que más se aproximase a `y` en alguna métrica razonable. Y lo resolví así:
 
+{{< highlight R "linenos=true" >}}
+# prepare constrained optimization
 
+y <- dat.clean$actual
+x <- t(dat.clean[,2:5])
 
-    # prepare constrained optimization
+# target function: L2 first, then other metrics
 
-    y <- dat.clean$actual
-    x <- t(dat.clean[,2:5])
+L2 <- function(coef){
+  sum(abs((y - colSums(x * coef)))^1.5)
+}
 
-    # target function: L2 first, then other metrics
+# restrictions: coefs > 0, sum(coefs) ~ 1
 
-    L2 <- function(coef){
-      sum(abs((y - colSums(x * coef)))^1.5)
-    }
+ui <- rbind(diag(4), c(-1,-1,-1,-1), c(1,1,1,1))
+ci <- c(0,0,0,0,-1.000001,0.999999)
 
-    # restrictions: coefs > 0, sum(coefs) ~ 1
+theta <- rep(0.25, 4)
 
-    ui <- rbind(diag(4), c(-1,-1,-1,-1), c(1,1,1,1))
-    ci <- c(0,0,0,0,-1.000001,0.999999)
+best.coef <- constrOptim(theta, L2,
+  grad = NULL, ui = ui, ci = ci)
 
-    theta <- rep(0.25, 4)
-
-    best.coef <- constrOptim(theta, L2, grad = NULL, ui = ui, ci = ci)
-
-    coefs <- best.coef$par
-
+coefs <- best.coef$par
+{{< / highlight >}}
 
 
 Objetos aparte de `x` e `y`, hay:
 
-
-
-
-	  * `L2`, que es la función que devuelve la distancia entre `y` y la combinación lineal de las filas de `x` indicada por su argumento. (Los lectores más sagaces descubrirán que `L2` no implementa la norma L2: lo hago solo por joder a un economista gilipollas que vino a llamarme iluso por pretender que existían distancias otras que las dos más corrientes).
-	  * `ui`, una matriz y
-	  * `ci`, un vector, que restringen las soluciones factibles a aquellas que cumplen que `ui %*% x  > ci`.
-	  * `theta` que es un valor inicial que tiene que cumplir la restricción anterior.
-	  * `constrOptim`, que hace toda la magia.
+* `L2`, que es la función que devuelve la distancia entre `y` y la combinación lineal de las filas de `x` indicada por su argumento. (Los lectores más sagaces descubrirán que `L2` no implementa la norma L2: lo hago solo por joder a un economista gilipollas que vino a llamarme iluso por pretender que existían distancias otras que las dos más corrientes).
+* `ui`, una matriz y
+* `ci`, un vector, que restringen las soluciones factibles a aquellas que cumplen que `ui %*% x  > ci`.
+* `theta` que es un valor inicial que tiene que cumplir la restricción anterior.
+* `constrOptim`, que hace toda la magia.
 

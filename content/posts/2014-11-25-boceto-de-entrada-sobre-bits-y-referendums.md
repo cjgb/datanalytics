@@ -22,13 +22,9 @@ En primer lugar, y es lo menos importante, tengo la sensación de que quienes ab
 
 Es muy revelador echar un vistazo a los [referéndums (federales) habidos en Suiza en el año 2013](http://en.wikipedia.org/wiki/Swiss_referendums,_2013). De esa página extraigo algunos ejemplos:
 
-
-
-
-	  * Modificación de las leyes de asilo que, entre otras cosas prohibiría el derecho a pedirlo en embajadas suizas, etc., y al que se opusieron los partidos de izquierda, etc., aprobada por el 80% de los votantes.
-	  * Tope salarial en doce veces el salario mímino (un tema que ha resonado en España recientemente): rechazado.
-	  * Abolición de la _mili_: rechazada.
-
+* Modificación de las leyes de asilo que, entre otras cosas prohibiría el derecho a pedirlo en embajadas suizas, etc., y al que se opusieron los partidos de izquierda, etc., aprobada por el 80% de los votantes.
+* Tope salarial en doce veces el salario mímino (un tema que ha resonado en España recientemente): rechazado.
+* Abolición de la _mili_: rechazada.
 
 Igual en España sucedería al contrario. Pero si lees esta entrada, recuerda: vives en una ciudad, has estudiado (una carrera técnica, además), eres una persona inteligente (¡obviamente!), un poco friqui y... tus ideas son, como consecuencia, muy, muy minoritarias.
 
@@ -40,12 +36,9 @@ El que es algo mejor es el de la encuesta. Más económicamente, más a la altur
 
 Finalmente, hay evidencia publicada (cito de memoria y no enlazo a nada porque esto es solo un esbozo) de que la gente acaba por desentenderse rápidamente de los proyectos de democracia participativa, directa, o como se la llame. ¿Nos apetece asumir la responsabilidad de tener que investigar, discurrir y opinar vinculantemente sobre, tomando un BOE al azar, asuntos tales como
 
-
-
-	  * el reconocimiento mutuo de resoluciones penales en la Unión Europea,
-	  * la conveniencia de crear el Consejo General de Colegios de Terapeutas Ocupacionales,
-	  * la actualización el anexo I de la Orden AAA/2029/2014, de 29 de octubre, para establecer medidas específicas de protección en relación con la [lengua azul](http://es.wikipedia.org/wiki/Lengua_azul)
-
+* el reconocimiento mutuo de resoluciones penales en la Unión Europea,
+* la conveniencia de crear el Consejo General de Colegios de Terapeutas Ocupacionales,
+* la actualización el anexo I de la Orden AAA/2029/2014, de 29 de octubre, para establecer medidas específicas de protección en relación con la [lengua azul](http://es.wikipedia.org/wiki/Lengua_azul)
 
 y otros de análoga naturaleza? La implementación en la práctica de mecanismos de democracia directa iba a resultar un peñazo. Si ni siquiera acudimos a las reuniones de vecinos, ¡carajo!
 

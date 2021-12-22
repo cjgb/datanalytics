@@ -11,6 +11,7 @@ categories:
 tags:
 - estadística
 - factorización
+- nmf
 ---
 
 Voy a seguir poco a poco con este tema mío tan recurrente de las factorizaciones (aproximadas) [positivas de matrices (también positivas)](http://www.datanalytics.com/2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/). No escribo más porque, como [casi todo lo que llamamos trabajo es, simplemente ruido](http://www.blackswanreport.com/blog/2014/05/a-lot-of-what-we-call-work-is-noise/), las cosas que llevan a otras nunca pasan por el asunto en cuestión.

@@ -20,25 +20,24 @@ Preguntaba el otro día Emilio Torres [esto](https://stat.ethz.ch/pipermail/r-he
 El código de Emilio (cuyos resultados no podemos reproducir porque no nos ha contado qué similla usa) es
 
 
+{{< highlight R "linenos=true" >}}
+logisticsimulation <- function(n){
+  dat <- data.frame(x1=sample(0:1, n,replace=TRUE),
+                    x2=sample(0:1, n,replace=TRUE))
+  odds <- exp(-1 - 4 * dat$x1 + 7*dat$x2 - 1 *dat$x1* dat$x2 )
+  pr <- odds/(1+odds)
+  res <- replicate(100, {
+    dat$y <- rbinom(n,1,pr)
+    coef(glm(y ~ x1*x2, data = dat, family = binomial()))
+  })
+  t(res)
+}
 
-    logisticsimulation <- function(n){
-      dat <- data.frame(x1=sample(0:1, n,replace=TRUE),
-                        x2=sample(0:1, n,replace=TRUE))
-      odds <- exp(-1 - 4 * dat$x1 + 7*dat$x2 - 1 *dat$x1* dat$x2 )
-      pr <- odds/(1+odds)
-      res <- replicate(100, {
-        dat$y <- rbinom(n,1,pr)
-        coef(glm(y ~ x1*x2, data = dat, family = binomial()))
-      })
-      t(res)
-    }
-
-    res <- logisticsimulation(100)
-    apply(res,2,median)
-    ## (Intercept)          x1          x2       x1:x2
-    ## -1.0986123 -18.4674562  20.4823593  -0.0512933
-
-
+res <- logisticsimulation(100)
+apply(res,2,median)
+## (Intercept)          x1          x2       x1:x2
+## -1.0986123 -18.4674562  20.4823593  -0.0512933
+{{< / highlight >}}
 
 Efectivamente, los coeficientes están lejos de los esperados, i.e., -1, -4, 7 y 1.
 
@@ -55,26 +54,30 @@ Alternativamente, uno puede plantearse (como hizo Olivier Núñez en una de las 
 
 Veámoslo:
 
+{{< highlight R "linenos=true" >}}
+logisticsimulation <- function(n){
+  dat <- data.frame(
+    x1 = rep(0:1),
+    times = 2,
+    x2 = rep(0:1, each = 2))
+  dat$odds <- exp(-1 - 4 * dat$x1 + 7*dat$x2 - 1 *dat$x1* dat$x2 )
+  dat$prob <- dat$odds / (1 + dat$odds)
 
+  res <- replicate(100, {
+    dat$exito   <- sapply(dat$prob, f
+      unction(p) rbinom(1, n, p))
+    dat$fracaso <- n - dat$exito
+    coef(glm(cbind(exito, fracaso) ~ x1*x2,
+      data = dat, family = binomial()))
+  })
+  t(res)
+}
 
-    logisticsimulation <- function(n){
-      dat <- data.frame(x1 = rep(0:1), times = 2, x2 = rep(0:1, each = 2))
-      dat$odds <- exp(-1 - 4 * dat$x1 + 7*dat$x2 - 1 *dat$x1* dat$x2 )
-      dat$prob <- dat$odds / (1 + dat$odds)
+res <- logisticsimulation(1e5)
+apply(res,2,median)
 
-      res <- replicate(100, {
-        dat$exito   <- sapply(dat$prob, function(p) rbinom(1, n, p))
-        dat$fracaso <- n - dat$exito
-        coef(glm(cbind(exito, fracaso) ~ x1*x2, data = dat, family = binomial()))
-      })
-      t(res)
-    }
-
-    res <- logisticsimulation(1e5)
-    apply(res,2,median)
-
-    plot(as.data.frame(res))
-
+plot(as.data.frame(res))
+{{< / highlight >}}
 
 
 En cada iteración, el conjunto de datos `dat` tiene solo 4 filas que resumen el problema anterior para un conjunto de datos de 4e5 filas. El truco consiste en utilizar la notación `glm(cbind(exito, fracaso) ~ x1*x2, data = dat, family = binomial())` para el modelo logístico, que puede ser utilizada para abreviar cálculos con grandes datos en otras situaciones.

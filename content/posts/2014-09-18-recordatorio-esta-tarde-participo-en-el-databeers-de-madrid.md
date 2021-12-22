@@ -10,6 +10,7 @@ categories:
 - estadística
 tags:
 - charla
+- anuncios
 - databeers
 ---
 

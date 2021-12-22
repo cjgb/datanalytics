@@ -47,8 +47,6 @@ Pero como ejemplito de la falacia en cuestión, ¿no me diréis que no me viene 
 
 Y para acabar, dos notas.
 
-
-
-	  * La primera es que suponiendo que votar en el pasado al PP equivalga a haberlo votado en el 2011, [ateniéndonos al último barómetro publicado por el CIS, el de julio de 2014](http://www.cis.es/cis/export/sites/default/-Archivos/Marginales/3020_3039/3033/cru3033votog2011.html) (aunque Podemos pudiera estar refiriéndose a otras encuestas distintas, que para gustos hay colores), y haciendo suposiciones no necesariamente válidas (p.e., que los [coeficientes de elevación](http://es.wikipedia.org/wiki/Muestreo_(estad%C3%ADstica)) de los encuestados son prácticamente iguales), uno podría llegar a una cifra de exvotantes del PP que votarían a Podemos de alrededor del 6%. Pero esto ni prueba ni refuta la afirmación —difícilmente falsable, por otro lado— de Podemos.
-	  * La segunda, que debo el tema de la entrada a mi colega Daniel Taboas: él me ha puesto sobre la pista de esta que llama _burrada monumental_.
+* La primera es que suponiendo que votar en el pasado al PP equivalga a haberlo votado en el 2011, [ateniéndonos al último barómetro publicado por el CIS, el de julio de 2014](http://www.cis.es/cis/export/sites/default/-Archivos/Marginales/3020_3039/3033/cru3033votog2011.html) (aunque Podemos pudiera estar refiriéndose a otras encuestas distintas, que para gustos hay colores), y haciendo suposiciones no necesariamente válidas (p.e., que los [coeficientes de elevación](http://es.wikipedia.org/wiki/Muestreo_(estad%C3%ADstica)) de los encuestados son prácticamente iguales), uno podría llegar a una cifra de exvotantes del PP que votarían a Podemos de alrededor del 6%. Pero esto ni prueba ni refuta la afirmación —difícilmente falsable, por otro lado— de Podemos.
+* La segunda, que debo el tema de la entrada a mi colega Daniel Taboas: él me ha puesto sobre la pista de esta que llama _burrada monumental_.
 

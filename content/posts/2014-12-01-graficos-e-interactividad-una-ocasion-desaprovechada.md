@@ -22,11 +22,8 @@ Pero igual que [se abusa de los mapas](http://www.datanalytics.com/2013/03/19/ma
 
 En el enlace anterior hay
 
-
-
-	  * un gráfico interactivo en el que la interactividad aporta poco o nada
-	  * de barras apiladas [usadas con mal criterio](http://www.datanalytics.com/2014/11/19/dime-que-quieres-comparar-con-que/)
-	  * cuando un gráfico de líneas sobraría.
-
+* un gráfico interactivo en el que la interactividad aporta poco o nada
+* de barras apiladas [usadas con mal criterio](http://www.datanalytics.com/2014/11/19/dime-que-quieres-comparar-con-que/)
+* cuando un gráfico de líneas sobraría.
 
 La interactividad sobre el gráfico de líneas podría utilizarse para hacer zum sobre las categorías menos frecuentes —pero posiblemente interesantes— y alternar entre medidas absolutas y relativas. Fuera de eso, aporta poco o nada.

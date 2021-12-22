@@ -17,14 +17,9 @@ tags:
 
 Ayer odié mucho a José Luis Cañadas —que sigue no obstante siendo amigo: véase más abajo— por esto:
 
-
-
-<blockquote>Nueva versión en CRAN de MicroDatosEs de [@gilbellosta](https://twitter.com/gilbellosta). Permite leer con [#rstats](https://twitter.com/search?q=%23rstats&src=hash) entre otros, los microdatos los de la EPA del INE.
+>Nueva versión en CRAN de MicroDatosEs de [@gilbellosta](https://twitter.com/gilbellosta). Permite leer con [#rstats](https://twitter.com/search?q=%23rstats&src=hash) entre otros, los microdatos los de la EPA del INE.
 >
 > -- Jose Luis Cañadas (@joscani) [May 13, 2014](https://twitter.com/joscani/statuses/466120464788889600)</blockquote>
-
-
-
 
 Hubiera preferido reservarme la primicia para todos sus usuarios y simpatizantes de la nueva versión del [paquete MicroDatosEs](http://www.datanalytics.com/tag/microdatoses/) recién subida a [CRAN](http://cran.ms.unimelb.edu.au/web/packages/MicroDatosEs/index.html) pero... en fin.
 
@@ -40,11 +35,7 @@ Si hoy podéis calcular la tasa de paro por nivel educativo, es gracias a él.
 
 Finalmente, las mejoras. Sabréis que allá por el 2010 se hizo un censo en España y que los datos, solo unas cuantas docenas de meses después, ya están disponibles. No sé bien desde cuándo. Ni de dónde se pueden bajar. Solo sé que los tengo y que he creado una función que permite leerlos dentro de mi paquete. Eso sí, una función modificada de manera que sea posible
 
-
-
-
-	  * leer solo una selección de columnas y
-	  * creo que también solo una selección de filas.
-
+* leer solo una selección de columnas y
+* creo que también solo una selección de filas.
 
 De esto último (paradójicamente, porque si alguien debería saberlo, ese soy yo) no estoy seguro. Y hoy ya es muy tarde para ponerme a comprobar si lo hice o no. De lo que si que me acuerdo meridianamente es de que con 8GB de RAM no hay manera de cargar el fichero completo. Lo conseguí en un tiempo razonable (unos pocos minutos) en una máquina de 24 GB y creo que no le hicieron falta más que dos terceras partes. Como veis, no vale cualquiera. Pero seleccionando las columnas necesarias de antemano y con que no sean demasiadas, con casi cualquier ordenador moderno debería bastar.

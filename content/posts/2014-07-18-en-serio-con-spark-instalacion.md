@@ -18,29 +18,26 @@ Me he puesto en modo _estoy serio_ con Spark. Lo instalé en mi ya manida máqui
 
 Los pasos son los siguientes:
 
-
-
-	  1. Ir a la [página de descargas](http://spark.apache.org/downloads.html) y seleccionar una versión ya precompilada. Hay varias porque Spark se enlaza con librerías relacionadas con Hadoop (aunque uno puede utilizar Spark perfectamente sin él) y hay varias versiones mutuamente incompatibles de Hadoop. Como no tengo ninguna instalada en el portátil, cualquiera me vale.
-	  2. Descomprimir, mover el directorio a `/opt` y, opcionalmente, cambiar propietarios y grupos (a `root`).
-	  3. Crear un enlace blando para vagos: `sudo ln -s /opt/spark-1.0.1-bin-hadoop1/ /opt/spark`
-	  4. Arrancarlo (usando la interfaz para Python): `/opt/spark/bin/pyspark`
+1. Ir a la [página de descargas](http://spark.apache.org/downloads.html) y seleccionar una versión ya precompilada. Hay varias porque Spark se enlaza con librerías relacionadas con Hadoop (aunque uno puede utilizar Spark perfectamente sin él) y hay varias versiones mutuamente incompatibles de Hadoop. Como no tengo ninguna instalada en el portátil, cualquiera me vale.
+2. Descomprimir, mover el directorio a `/opt` y, opcionalmente, cambiar propietarios y grupos (a `root`).
+3. Crear un enlace blando para vagos: `sudo ln -s /opt/spark-1.0.1-bin-hadoop1/ /opt/spark`
+4. Arrancarlo (usando la interfaz para Python): `/opt/spark/bin/pyspark`
 
 En la consola, ahora, se puede ejecutar:
-`
 
-    from random import random
+{{< highlight python "linenos=true" >}}
+from random import random
 
-    def sample(p):
-        x, y = random(), random()
-        return 1 if x*x + y*y < 1 else 0
+def sample(p):
+    x, y = random(), random()
+    return 1 if x*x + y*y < 1 else 0
 
-    NUM_SAMPLES = 10000000
+NUM_SAMPLES = 10000000
 
-    count = sc.parallelize(xrange(0, NUM_SAMPLES)).map(sample).reduce(lambda a, b: a + b)
+count = sc.parallelize(xrange(0, NUM_SAMPLES)).map(sample).reduce(lambda a, b: a + b)
 
-    print "Pi is roughly %f" % (4.0 * count / NUM_SAMPLES)
-
-`
+print "Pi is roughly %f" % (4.0 * count / NUM_SAMPLES)
+{{< / highlight >}}
 
 Esta captura de `htop` lo dice todo:
 

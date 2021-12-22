@@ -19,11 +19,7 @@ Me tocó a mí preparar aquella propuesta. Al llegar al punto en el que había q
 
 La noche anterior dejé [anónimamente escrito](http://bappf.blogia.com/2004/121601--por-que-no-suena-la-alarma-cuando-paso-el-portatil-por-el-escaner-.php):
 
-
-
-<blockquote>Pero todo es cual es y mañana, a las ocho, saldré de casa con mi portátil-navaja de filo sucio de sangre seca y cifras mendaces.</blockquote>
-
-
+>Pero todo es cual es y mañana, a las ocho, saldré de casa con mi portátil-navaja de filo sucio de sangre seca y cifras mendaces.
 
 Diez años después el ROI sigue imperando. Pero se han vuelto las tornas para algunos.
 
@@ -35,11 +31,8 @@ Me preguntaban el otro día por dónde debería comenzar —¿darían por hecho 
 
 Y dos notas:
 
-
-
-
-	  * Lo que he contado sobre SAS es delictivo o habitual y consuetudinario, según se mire. La historia es más un ejemplo de cómo cierta gente hace las cosas en España a veces que del quehacer de SAS.
-	  * Dos veces —pequé de cándido en ambas— me han hecho en esta vida firmar cosas con las que no estaba de acuerdo. No ha vuelto a suceder.
+* Lo que he contado sobre SAS es delictivo o habitual y consuetudinario, según se mire. La historia es más un ejemplo de cómo cierta gente hace las cosas en España a veces que del quehacer de SAS.
+* Dos veces —pequé de cándido en ambas— me han hecho en esta vida firmar cosas con las que no estaba de acuerdo. No ha vuelto a suceder.
 
 
 

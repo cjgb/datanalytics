@@ -19,60 +19,61 @@ La respuesta es [afirmativa](http://www.seprem.es/presases.php?p=1).
 
 El código para bajarse (y adecentar un poco) la base de datos es:
 
+{{< highlight R "linenos=true" >}}
+library(XML)
 
+## bajada de datos
+tmp <- lapply(1:47,
+                function(x)
+                readLines(paste("http://www.seprem.es/presases.php?p=",
+                                x, sep = "")))
+tmp2 <- lapply(tmp, readHTMLTable)
 
-    library(XML)
+## limpieza de datos
+res <- lapply(tmp2, function(x) x[[1]])
+res <- do.call(rbind, res)
+res <- res[,-c(1,7)]
+res <- res[!is.na(res$V2),]
+res <- res[-(1:5),]
 
-    ## bajada de datos
-    tmp <- lapply(1:47,
-                  function(x)
-                    readLines(paste("http://www.seprem.es/presases.php?p=",
-                                    x, sep = "")))
-    tmp2 <- lapply(tmp, readHTMLTable)
+res <- data.frame(lapply(res, as.character),
+    stringsAsFactors=F)
+names(res) <- make.names(as.character(res[1,]))
 
-    ## limpieza de datos
-    res <- lapply(tmp2, function(x) x[[1]])
-    res <- do.call(rbind, res)
-    res <- res[,-c(1,7)]
-    res <- res[!is.na(res$V2),]
-    res <- res[-(1:5),]
+## filtros de filas
+res <- res[res$Nombre != "Nombre",]
+res <- res[res$Nombre != "",]
+res <- res[!grepl("Presas", res$Nombre), ]
+res <- res[!grepl("DIQUE DEL", res$Nombre), ]
 
-    res <- data.frame(lapply(res, as.character), stringsAsFactors=F)
-    names(res) <- make.names(as.character(res[1,]))
+colnames(res) <- c("nombre", "vertiente",
+    "altura", "hm3", "finalizada")
+res <- res[!is.na(res$vertiente),]
 
-    ## filtros de filas
-    res <- res[res$Nombre != "Nombre",]
-    res <- res[res$Nombre != "",]
-    res <- res[!grepl("Presas", res$Nombre), ]
-    res <- res[!grepl("DIQUE DEL", res$Nombre), ]
+## texto a numérico
+res$altura <- as.numeric(gsub(",", ".", res$altura))
+res$hm3 <- as.numeric(gsub(",", ".", res$hm3))
+res$finalizada <- as.numeric(res$finalizada)
 
-    colnames(res) <- c("nombre", "vertiente", "altura", "hm3", "finalizada")
-    res <- res[!is.na(res$vertiente),]
+## más filtros (se aplican a obras que no son embalses)
+res <- res[!is.na(res$hm3), ]
 
-    ## texto a numérico
-    res$altura <- as.numeric(gsub(",", ".", res$altura))
-    res$hm3 <- as.numeric(gsub(",", ".", res$hm3))
-    res$finalizada <- as.numeric(res$finalizada)
-
-    ## más filtros (se aplican a obras que no son embalses)
-    res <- res[!is.na(res$hm3), ]
-
-    ## los embalses en construcción no tienen fecha de
-    ## finalización
-    res$finalizada[is.na(res$finalizada)] <- 2015
-
+## los embalses en construcción no tienen fecha de
+## finalización
+res$finalizada[is.na(res$finalizada)] <- 2015
+{{< / highlight >}}
 
 
 En cuanto a qué hacer con ellos, me limitaré a mostrar la salida de
 
 
-
-    indices <- res$finalizada > 1900 & res$finalizada < 2014
-    dat <- tapply(res$hm3[indices], res$finalizada[indices], sum)
-    plot(as.numeric(names(dat)), dat, type = "l",
-         xlab = "año", ylab = "hm3",
-         main = "Hectómetros cúbicos por año")
-
+{{< highlight R "linenos=true" >}}
+indices <- res$finalizada > 1900 & res$finalizada < 2014
+dat <- tapply(res$hm3[indices], res$finalizada[indices], sum)
+plot(as.numeric(names(dat)), dat, type = "l",
+        xlab = "año", ylab = "hm3",
+        main = "Hectómetros cúbicos por año")
+{{< / highlight >}}
 
 
 que es

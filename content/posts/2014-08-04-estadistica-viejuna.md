@@ -10,6 +10,7 @@ categories:
 tags:
 - estadística
 - ine
+- oposiciones
 ---
 
 El INE está realizando una convocatoria para cubrir varias [plazas en el Cuerpo Superior de Estadísticos del Estado](http://www.boe.es/boe/dias/2014/07/30/pdfs/BOE-A-2014-8159.pdf).

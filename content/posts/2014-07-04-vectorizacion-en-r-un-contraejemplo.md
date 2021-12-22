@@ -19,27 +19,30 @@ Sí, el artículo deja R por los suelos. En el fondo, no tanto, porque viene a d
 
 He tratado de vectorizarlo y sí, el código se ha quedado en nada. Después de precalcular todo lo precalculable, los cuatro bucles del código original se han quedado en algo así como
 
+{{< highlight R "linenos=true" >}}
+consumption <- lapply(1:5,
+  function(n) (1-bbeta)*log( - outer(vGridCapital,
+    mOutput[,n], "-")))
 
+while (maxDifference>tolerance){
 
-    consumption <- lapply(1:5, function(n) (1-bbeta)*log( - outer(vGridCapital, mOutput[,n], "-")))
+  expectedValueFunction <- bbeta * mValueFunction %*% t(mTransition)
 
-    while (maxDifference>tolerance){
+  mValueFunctionNew <- sapply(
+    1:nGridProductivity,
+    function(i)
+      apply(consumption[[i]] - expectedValueFunction[,i], 2, max))
 
-      expectedValueFunction <- bbeta * mValueFunction %*% t(mTransition)
+  maxDifference  <- max(abs(mValueFunctionNew-mValueFunction))
+  mValueFunction <- mValueFunctionNew
 
-      mValueFunctionNew <- sapply(1:nGridProductivity,
-                                  function(i) apply(consumption[[i]] - expectedValueFunction[,i], 2, max))
-
-      maxDifference  <- max(abs(mValueFunctionNew-mValueFunction))
-      mValueFunction <- mValueFunctionNew
-
-      iteration = iteration+1;
-      if ((iteration %% 10)==0 | iteration ==1){
-        cat("  Iteration = ", iteration," Sup Diff = ", maxDifference,"\n");
-      }
-    }
-
-
+  iteration = iteration+1;
+  if ((iteration %% 10)==0 | iteration ==1){
+    cat("  Iteration = ", iteration," Sup Diff = ",
+      maxDifference,"\n");
+  }
+}
+{{< / highlight >}}
 
 que es una pequeña tontería. Pero debido a las particulares características del problema en cuestión, el precálculo y la vectorización implican evaluar y almacenar en memoria una cantidad ingente de valores que no son utilizados para nada. No se utilizan porque, por resumir, la solución implica buscar transiciones desde un estado a otro que, por la definición concreta del problema, está en un entorno de él. Por eso es contraproducente vectorizar y precalcular: muchos de los valores almacenados están muy lejos de la solución y una implementación que se limita a explorar exclusivamente los derredores del estado anterior será siempre superior.
 

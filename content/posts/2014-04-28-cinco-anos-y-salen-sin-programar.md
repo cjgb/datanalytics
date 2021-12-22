@@ -29,12 +29,8 @@ Señores, es muy triste. Es muy triste que haya gente con formación técnica (y
 
 Siempre me ha dado la impresión de que la universidad (al menos, la que mejor conozco) es muy eficaz para diseminar conocimiento acerca de asuntos que:
 
-
-
-
-	  * Caben dentro de una asignatura
-	  * Son examinables
-
+* Caben dentro de una asignatura
+* Son examinables
 
 Desafortunadamente, muchos de las habilidades y conocimientos necesarios para desenvolverse fuera de ella no cumplen ninguna de esas características. Por ejemplo, aprender un idioma (sirva este para comunicarse con personas o con máquinas).
 

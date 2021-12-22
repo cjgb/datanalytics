@@ -14,11 +14,9 @@ tags:
 
 Hay gente que en lugar de escribir cosas debería invertir su tiempo en leer [otras](http://www.datanalytics.com/2011/03/03/%C2%BFcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos/). Pero como
 
-
-
-	  * no me hacen caso,
-	  * escribiendo cosillas escalan poquito a poco escalafones académicos y, encima,
-	  * lo pagamos los contribuyentes felizmente engatusados eso del oropel del I+D y nosequé otros intangibles onerosos y de dudosa utilidad pública,
+* no me hacen caso,
+* escribiendo cosillas escalan poquito a poco escalafones académicos y, encima,
+* lo pagamos los contribuyentes felizmente engatusados eso del oropel del I+D y nosequé otros intangibles onerosos y de dudosa utilidad pública,
 
 podemos hoy disfrutar de otro ejercicio más de ese añejo ritual de la búsqueda del numerito inferior a 0.05 que tiene por título [_Newborn Health and the Business Cycle: Is it Good to be Born in Bad Times?_](http://research.barcelonagse.eu/tmp/working_papers/702.pdf) y que adornará a perpetuidad el currículo de sus ambas autoras.
 

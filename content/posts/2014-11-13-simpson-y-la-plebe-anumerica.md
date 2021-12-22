@@ -35,4 +35,3 @@ En una situación ideal (¡pero yo no he dicho que la situación lo sea!) los va
 Y a la inversa. Por ejemplo, una campaña lanzada a clientes a los que hace mucho que no se ve el pelo, tal vez porque no están muy poco interesados en el producto en cuestión.
 
 La entrada de hoy es una trivialidad. Excepto, parece, para la plebe anumérica. ¡Carajo con la plebe anumérica!
-

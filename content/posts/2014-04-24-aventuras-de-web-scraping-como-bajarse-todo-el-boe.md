@@ -10,33 +10,33 @@ categories:
 tags:
 - boe
 - r
-- scraping
+- webscraping
 ---
 
 Rescato aquí para futura o ajena referencia un pedazo de código que utilicé un día para un proyecto que se abortó y que tenía que ver con el análisis del texto del BOE. Reza así:
 
+{{< highlight R "linenos=true" >}}
+setwd("~/boe/boes")
 
+library(RCurl)
 
-    setwd("~/boe/boes")
+h = getCurlHandle()
 
-    library(RCurl)
+for( i in 1:3231){
+  mi.url <- paste("http://www.boe.es/diario_boe/xml.php?id=BOE-A-2013-", i, sep = "")
+  nom.fich <- paste("2013-A-",
+    formatC(i, width = 6, format = "d", flag = "0"),  ".xml", sep = "")
+  res <- getURI(mi.url, curl = h)
+  cat(res, file = nom.fich)
+}
 
-    h = getCurlHandle()
-
-    for( i in 1:3231){
-      mi.url <- paste("http://www.boe.es/diario_boe/xml.php?id=BOE-A-2013-", i, sep = "")
-      nom.fich <- paste("2013-A-", formatC(i, width = 6, format = "d", flag = "0"),  ".xml", sep = "")
-      res <- getURI(mi.url, curl = h)
-      cat(res, file = nom.fich)
-    }
-
-    for( i in 1:3212){
-      mi.url <- paste("http://www.boe.es/diario_boe/xml.php?id=BOE-B-2013-", i, sep = "")
-      nom.fich <- paste("2013-B-", formatC(i, width = 6, format = "d", flag = "0"),  ".xml", sep = "")
-      res <- getURI(mi.url, curl = h)
-      cat(res, file = nom.fich)
-    }
-
-
+for( i in 1:3212){
+  mi.url <- paste("http://www.boe.es/diario_boe/xml.php?id=BOE-B-2013-", i, sep = "")
+  nom.fich <- paste("2013-B-",
+    formatC(i, width = 6, format = "d", flag = "0"),  ".xml", sep = "")
+  res <- getURI(mi.url, curl = h)
+  cat(res, file = nom.fich)
+}
+{{< / highlight >}}
 
 No me preguntéis por qué el contador solo llega hasta tres mil doscientos y pico. O por qué no itero hasta que `getURI` devuelva un error.

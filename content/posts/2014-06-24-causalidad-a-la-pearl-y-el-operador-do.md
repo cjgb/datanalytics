@@ -49,8 +49,6 @@ En fin, que os invito a leer el epígrafe en cuestión.
 
 No obstante, dos observaciones de mi cosecha:
 
-
-
-	  * Parece que Pearl es el enésimo ingeniero barra físico barra loquesea que se empeña matematizar lo muy difícilmente matematizable y estudiar fenómenos biológicos y sociales _more geometrico_. ¡Sea bienvenido al club!
-	  * El ejemplito que desarrolla Pearl en el epígrafe me recuerda a cuando me enseñaban a integrar por partes. Uno llegaba a casa del colegio pensando que no iba a haber función que se le resistiera. Pero jamás le contaban que había que perder la esperanza: salvo unas cuantas funcioncitas bastante excepcionales, las de la hoja de problemas y pocas más, prácticamente ninguna tiene integral indefinida cerrada. Me da la sensación de que el álgebra de Pearl resolverá estupendamente siete ejemplos imprácticos y no tendrá apenas qué decir en el resto de los casos.
+* Parece que Pearl es el enésimo ingeniero barra físico barra loquesea que se empeña matematizar lo muy difícilmente matematizable y estudiar fenómenos biológicos y sociales _more geometrico_. ¡Sea bienvenido al club!
+* El ejemplito que desarrolla Pearl en el epígrafe me recuerda a cuando me enseñaban a integrar por partes. Uno llegaba a casa del colegio pensando que no iba a haber función que se le resistiera. Pero jamás le contaban que había que perder la esperanza: salvo unas cuantas funcioncitas bastante excepcionales, las de la hoja de problemas y pocas más, prácticamente ninguna tiene integral indefinida cerrada. Me da la sensación de que el álgebra de Pearl resolverá estupendamente siete ejemplos imprácticos y no tendrá apenas qué decir en el resto de los casos.
 

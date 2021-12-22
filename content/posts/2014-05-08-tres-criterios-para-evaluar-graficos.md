@@ -16,11 +16,9 @@ Tienes que evaluar un gráfico. Puede ser uno que estés haciendo. O uno que enc
 
 Estas tres preguntas te ayudarán a guiar tu análisis:
 
-
-
-	  * ¿Cuál es la pregunta a la que el gráfico trata de dar respuesta?
-	  * ¿Qué es lo que dicen los datos?
-	  * ¿Qué dice el gráfico?
+* ¿Cuál es la pregunta a la que el gráfico trata de dar respuesta?
+* ¿Qué es lo que dicen los datos?
+* ¿Qué dice el gráfico?
 
 Las preguntas, escritas en inglés y dispuestas en un triángulo, tienen este aspecto:
 

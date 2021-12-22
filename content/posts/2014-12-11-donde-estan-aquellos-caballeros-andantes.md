@@ -19,24 +19,23 @@ Pues precedidos del mi favorito de todos ellos, Felixmarte de Hircania, el del d
 
 dentro del texto del Quijote. El código para obtener el gráfico anterior es
 
+{{< highlight R "linenos=true" >}}
+library(qdap)
 
+quijote.raw <- readLines("http://www.gutenberg.org/cache/epub/2000/pg2000.txt",
+    encoding = "utf8")
 
-    library(qdap)
+# es posible que necesites esto en Windows:
+quijote <- iconv(quijote.raw, from = "utf8", to = "latin1")
 
-    quijote.raw <- readLines("http://www.gutenberg.org/cache/epub/2000/pg2000.txt",
-                             encoding = "utf8")
+quijote <- quijote[-(1:36)]
+quijote <- quijote[-(37453:length(quijote))]
 
-    # es posible que necesites esto en Windows:
-    quijote <- iconv(quijote.raw, from = "utf8", to = "latin1")
-
-    quijote <- quijote[-(1:36)]
-    quijote <- quijote[-(37453:length(quijote))]
-
-    dispersion_plot(quijote, c("felixmarte", "amadís", "leandís", "bencimarte", "palmerín",
-                               "olivante", "tirante", "belianís", "gironcilio", "lisuarte",
-                               "esplandián", "roldán", "rodamonte", "florimorte", "platir",
-                               "tablante"))
-
-
+dispersion_plot(quijote, c("felixmarte", "amadís",
+    "leandís", "bencimarte", "palmerín",
+    "olivante", "tirante", "belianís",
+    "gironcilio", "lisuarte", "esplandián",
+    "roldán", "rodamonte", "florimorte", "platir",                            "tablante"))
+{{< / highlight >}}
 
 Tenéis permiso mío para buscar otros términos en otros textos y ver qué pinta tiene la distribución.

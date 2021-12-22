@@ -29,11 +29,7 @@ El artículo [_Measuring the Complexity of the Law: The United States Code_](htt
 
 Y todo esto me da pie a escribir un par de ideas que me rondan por la cabeza desde hace un tiempo, que desde mi punto de vista son originales (es decir, no he leído en parte alguna) pero, probablemente, no nuevas. Son:
 
-
-
-
-	  * Igual que en algunos países se establecen techos de deuda, debería establecerse un número máximo de caracteres que debería ocupar el código legal completo. A falta de una mejor métrica para limitar la complejidad, la longitud total podría servir. Nuestros legisladores tendrían que ocuparse no solo de legislar sino, además, asignar sin dilapidarlos caracteres a las leyes más importantes y no agobiar con letra menuda en el resto.
-	  * De la misma manera que las leyes entran en vigor en una determinada fecha, deberían tener otra de caducidad. Tal vez dependiendo de su rango. Pero que en una determinada fecha devolviesen al  parlamento la totalidad de sus caracteres para su reciclaje.
-
+* Igual que en algunos países se establecen techos de deuda, debería establecerse un número máximo de caracteres que debería ocupar el código legal completo. A falta de una mejor métrica para limitar la complejidad, la longitud total podría servir. Nuestros legisladores tendrían que ocuparse no solo de legislar sino, además, asignar sin dilapidarlos caracteres a las leyes más importantes y no agobiar con letra menuda en el resto.
+* De la misma manera que las leyes entran en vigor en una determinada fecha, deberían tener otra de caducidad. Tal vez dependiendo de su rango. Pero que en una determinada fecha devolviesen al  parlamento la totalidad de sus caracteres para su reciclaje.
 
 Y nada más por hoy.

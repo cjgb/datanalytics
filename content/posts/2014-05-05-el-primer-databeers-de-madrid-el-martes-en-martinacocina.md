@@ -20,10 +20,8 @@ Este martes 6 de mayo tendrá lugar el primer encuentro de DataBeers de Madrid. 
 
 El programa, que incluye a algunos viejos conocidos, es el siguiente:
 
-
-
-	  * [Dani Villatoro](https://twitter.com/dani_agent): _Cicerone: Your venue recommendations through Twitter_
-	  * [Boris Villazón](https://twitter.com/boricles): _Data Integration - A Linked Data approach_
-	  * [Javier de la Torre](https://twitter.com/jatorre): _Everything happens somewhere_
-	  * [Mari Luz Congosto](https://twitter.com/congosto): _Datrinos: extrayendo datos de los trinos de Twitter_
+* [Dani Villatoro](https://twitter.com/dani_agent): _Cicerone: Your venue recommendations through Twitter_
+* [Boris Villazón](https://twitter.com/boricles): _Data Integration - A Linked Data approach_
+* [Javier de la Torre](https://twitter.com/jatorre): _Everything happens somewhere_
+* [Mari Luz Congosto](https://twitter.com/congosto): _Datrinos: extrayendo datos de los trinos de Twitter_
 

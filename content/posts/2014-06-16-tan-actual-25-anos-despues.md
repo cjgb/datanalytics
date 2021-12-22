@@ -7,6 +7,9 @@ title: Tan actual 25 años después
 url: /2014/06/16/tan-actual-25-anos-despues/
 categories:
 - consultoría
+tags:
+- predicciones
+- historia
 ---
 
 Dentro de unos días os copiaré aquí unas líneas de un artículo del 83 que bien pudiera haber sido escrito el mes pasado. Pero hoy no voy a ir tan lejos. Me quedo con uno del 89 que recomiendo que hojeéis: [Clinical vs Actuarial Judgement](http://apsychoserver.psych.arizona.edu/JJBAReprints/PSYC621/Dawes_Faust_Meehl_Clinical_vs_actuarial_assessments_1989.pdf).

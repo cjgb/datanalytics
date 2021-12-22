@@ -27,11 +27,8 @@ Uno puede entretenerse mirando qué modelos ajustan mejor y peor en función del
 
 Preferencias que podrían no ser las adecuadas en situaciones no artificiales donde:
 
-
-
-	  * el número de variables es mucho mayor que dos (`x` e `y`),
-	  * existen correlaciones importantes entre las variables y, fundamentalmente,
-	  * la distribución de colores no está perfectamente delimitada por ningún tipo de poligonal artificiosa sino en cada región del espacio uno encuentra puntos de cada color (de otra manera, de las distribuciones de colores no tienen soporte disjunto).
-
+* el número de variables es mucho mayor que dos (`x` e `y`),
+* existen correlaciones importantes entre las variables y, fundamentalmente,
+* la distribución de colores no está perfectamente delimitada por ningún tipo de poligonal artificiosa sino en cada región del espacio uno encuentra puntos de cada color (de otra manera, de las distribuciones de colores no tienen soporte disjunto).
 
 No obstante, hojear ese enlace es entretenido.

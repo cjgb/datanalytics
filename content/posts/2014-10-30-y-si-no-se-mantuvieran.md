@@ -34,31 +34,19 @@ Supongo que será causa de regocijo entre mis lectores del año 2064 mirar fotos
 
 Cierto que en la nota de prensa arranca con un _[s]i se mantuvieran las tendencias demográficas actuales [...]_, premisa de la que se derivan cartesianamente los números de las tablas y los trazos de las figuras. Pero es obvio que las tendencias demográficas actuales no se van a mantener. Supongo que por eso la nota de prensa del INE está escrita mayormente en condicional. Aun así, se leen en ella:
 
-
-
-<blockquote>En los próximos 15 años España perdería 1.022.852 habitantes... </blockquote>
-
-
+>En los próximos 15 años España perdería 1.022.852 habitantes...
 
 (Ya puestos, ¿por qué no unos cuantos decimales?)
 
-
-
-<blockquote>En el año 2029 se producirían 412.685 fallecimientos...</blockquote>
-
-
+>En el año 2029 se producirían 412.685 fallecimientos...
 
 (¿A que va a ser que no?)
 
 Etc. Pero si lo del INE es de traca, [lo de El Mundo](http://www.elmundo.es/espana/2014/10/28/544f6d14e2704e416d8b457a.html) es como para no volverme jamás de Suiza:
 
-
-
-<blockquote>España va a perder un millón de habitantes en los próximos 15 años y 5,6 millones en los próximos 50 años si las tendencias demográficas siguen como están.
-
-Lo dicen las proyecciones de población del Instituto Nacional de Estadística (INE), una bola de cristal que augura que ya el año que viene, en 2015,...</blockquote>
-
-
+>España va a perder un millón de habitantes en los próximos 15 años y 5,6 millones en los próximos 50 años si las tendencias demográficas siguen como están.
+>
+>Lo dicen las proyecciones de población del Instituto Nacional de Estadística (INE), una bola de cristal que augura que ya el año que viene, en 2015,...
 
 Eso sí, tengo que reconocer que [el artículo de El País sobre el asunto](http://politica.elpais.com/politica/2014/10/28/actualidad/1414492193_892313.html) es de lo mejorcito que he visto al respecto en mucho tiempo. Mejora, de hecho, la nota de prensa del INE. Gracias, precisamente, a que se sale del guión y se toma la molestia de dejarse asesorar por un experto, Albert Esteve.
 

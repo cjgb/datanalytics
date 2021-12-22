@@ -10,6 +10,7 @@ categories:
 tags:
 - números
 - pisa
+- educación
 ---
 
 La realidad es compleja y los más de los fenómenos son multivariados. Frente a casi cualquier afirmación del tipo A causa B, el detector de pendejadas debería hacer saltar la alarma y hacernos pensar que tal vez sea demasiado simple.
@@ -25,11 +26,7 @@ Creo que el ínclito don Saturnino, su autor, mea no solo fuera sino lejos del t
 
 Continúa la diáspora urinaria de don Saturnino con frases como
 
-
-
-<blockquote>Pero si los adolescentes de origen social alto mejorasen su nivel educativo, aumentaría el rendimiento medio de España a cambio de empeorar en equidad.</blockquote>
-
-
+>Pero si los adolescentes de origen social alto mejorasen su nivel educativo, aumentaría el rendimiento medio de España a cambio de empeorar en equidad.
 
 con que taumatúrgicamente transmuta a quienes tienen un padre o una madre con estudios de FP o superiores en _adolescentes de origen social alto_. ¡Vaya!
 

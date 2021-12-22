@@ -9,36 +9,38 @@ categories:
 - r
 tags:
 - paralelización
+- validación cruzada
 - r
 ---
 
 Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es así:
 
+{{< highlight R "linenos=true" >}}
+library(parallel)
 
+cl <- makeCluster(8)
 
-    library(parallel)
+# solo si hay aleatorización
+# clusterSetRNGStream(cl, 123)
 
-    cl <- makeCluster(8)
+clusterEvalQ(cl,
+{
+	# las librerías necesarias tienen que cargarse
+	# en cada esclavo
+	library(rpart)
 
-    # solo si hay aleatorización
-    # clusterSetRNGStream(cl, 123)
+	# en la práctica, hay que cargar los datos
+	# (¿desde fichero?) en cada esclavo
+	my.data <- iris
 
-    clusterEvalQ(cl,
-    {
-    	# las librerías necesarias tienen que cargarse
-    	# en cada esclavo
-    	library(rpart)
+	# lo mismo con las funciones necesarias
+	foo <- function(x, dat){
+		train <- 1:nrow(dat) %% 10 != 1
+		mod <- rpart(Species ~ ., data = dat[train,])
+		res <- predict(mod, dat[!train,])
+	}
+})
 
-    	# en la práctica, hay que cargar los datos
-    	# (¿desde fichero?) en cada esclavo
-    	my.data <- iris
-
-    	# lo mismo con las funciones necesarias
-    	foo <- function(x, dat){
-    		train <- 1:nrow(dat) %% 10 != 1
-    		mod <- rpart(Species ~ ., data = dat[train,])
-    		res <- predict(mod, dat[!train,])
-    	}
-    })
-
-    res <- parSapply(cl, 0:9, function(x) foo(x, my.data), simplify = F)
+res <- parSapply(cl, 0:9,
+	function(x) foo(x, my.data), simplify = F)
+{{< / highlight >}}

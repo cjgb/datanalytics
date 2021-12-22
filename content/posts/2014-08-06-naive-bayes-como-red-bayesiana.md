@@ -33,14 +33,10 @@ Pensad en $latex y$ como en la variable que indica si un mensaje es _spam_ o no 
 El hecho de que no haya flechas entre los $latex x_i$ significa que son independientes entre sí (condicionalmente con respecto a $latex y$). Esto es normalmente (siempre) mentira; pero la aproximación es a menudo tolerable.
 La probabilidad total de la red es
 
-
-$latex P(y, x_1,\dots, x_n) = P(x_1,\dots, x_n| y) P(y) = \prod P(x_i | y) P(y)$.
-
+$$ P(y, x_1,\dots, x_n) = P(x_1,\dots, x_n| y) P(y) = \prod P(x_i | y) P(y).$$
 
 Y lo más importante de todo, conocidos los _indicios_ $latex x_i$, puede estimarse la probabilidad de $latex y$ así:
 
-
-$latex P(y | x_1,\dots, x_n ) = P(y, x_1,\dots, x_n) / P(y) = \prod P(x_i | y)$,
-
+$$ P(y | x_1,\dots, x_n ) = P(y, x_1,\dots, x_n) / P(y) = \prod P(x_i | y)$$,
 
 que es la fórmula que aparece por doquier y a la que se puede llegar también desde otros puntos de partida alternativos.

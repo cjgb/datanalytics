@@ -22,11 +22,7 @@ Yo recomendaría [_Scalable Strategies for Computing with Massive Data_](http://
 
 Una cosa con la que tropezará enseguida quien lo hojee es:
 
-
-
-<blockquote>[...] R is not well-suited for working with data structures larger than about 10-20% of a computer's RAM. Data exceeding 50% of available RAM are essentially unusable because the overhead of all but the simplest of calculations quickly consumes all available RAM. [...] we consider a data set large if it exceeds 20% of the RAM on a given machine and massive if it exceeds 50%.</blockquote>
-
-
+>[...] R is not well-suited for working with data structures larger than about 10-20% of a computer's RAM. Data exceeding 50% of available RAM are essentially unusable because the overhead of all but the simplest of calculations quickly consumes all available RAM. [...] we consider a data set large if it exceeds 20% of the RAM on a given machine and massive if it exceeds 50%.
 
 En realidad, los límites no son tan serios: ahora mismo, R está ocupando 17 de los 24GB de RAM de mi servidor y va como un tiro. Pero es un aviso para navegantes: a partir de cierto umbral, hay que olvidarse de `read.table` y demás. Alternativas, haylas. La más simple es conseguir (¿alquilándola?) una máquina más grande. Seguramente es la opción más barata si se tienen todos los factores en cuenta.
 

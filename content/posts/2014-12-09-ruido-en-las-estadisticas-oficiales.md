@@ -16,11 +16,7 @@ tags:
 
 Hacía tiempo que no hablaba de este tema. Pero han salido de mi LIFO de artículos potencialmente interesantes dos a los que merece la pena echar un ojo. El primero, [este](http://www.voxeu.org/article/uncertainty-official-statistics), arranca con
 
-
-
-<blockquote>Government statistical agencies commonly report official economic statistics as point estimates. Agency documents describing data and methods may acknowledge that estimates are subject to error, but they typically do not quantify error magnitudes. News releases present estimates with little if any mention of potential error.</blockquote>
-
-
+>Government statistical agencies commonly report official economic statistics as point estimates. Agency documents describing data and methods may acknowledge that estimates are subject to error, but they typically do not quantify error magnitudes. News releases present estimates with little if any mention of potential error.
 
 e incluye un ejemplo estupendo de buenas prácticas:
 

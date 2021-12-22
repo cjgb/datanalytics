@@ -22,40 +22,36 @@ La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE p
 
 También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena y o mala. Pero, ¿buena o mala con respecto a qué? Así que hoy voy a ensayar un marco en el que plantear la pregunta:
 
-
-
-	  * Voy a considerar variaciones mensuales de la tasa de paro (mes con respecto al anterior).
-	  * Voy a comparar los meses del histórico entre sí.
-	  * Y como no sabía si era mejor utilizar la serie temporal o un diagrama de cajas, voy a tratar de combinarlos.
+* Voy a considerar variaciones mensuales de la tasa de paro (mes con respecto al anterior).
+* Voy a comparar los meses del histórico entre sí.
+* Y como no sabía si era mejor utilizar la serie temporal o un diagrama de cajas, voy a tratar de combinarlos.
 
 Así:
 
+{{< highlight R "linenos=true" >}}
+library(ggplot2)
+library(plyr)
 
+raw <- read.table("/wp-uploads/2014/07/paro_mensual.txt")
+dat <- data.frame(mes = raw$V1[-1], delta = diff(raw$V2))
 
-    library(ggplot2)
-    library(plyr)
+tmp <- do.call(rbind, strsplit(as.character(dat$mes), "M"))
+tmp <- apply(tmp, 2, as.numeric)
 
-    raw <- read.table("/wp-uploads/2014/07/paro_mensual.txt")
+dat$anno <- tmp[,1]
+dat$mes  <- tmp[,2]
 
-    dat <- data.frame(mes = raw$V1[-1], delta = diff(raw$V2))
+dat.q <- ddply(dat, .(mes), summarize, q.25 = quantile(delta, 0.25),
+                q.50 = median(delta),
+                q.75 = quantile(delta, 0.75))
 
-    tmp <- do.call(rbind, strsplit(as.character(dat$mes), "M"))
-    tmp <- apply(tmp, 2, as.numeric)
-
-    dat$anno <- tmp[,1]
-    dat$mes  <- tmp[,2]
-
-    dat.q <- ddply(dat, .(mes), summarize, q.25 = quantile(delta, 0.25),
-                   q.50 = median(delta),
-                   q.75 = quantile(delta, 0.75))
-
-
-    ggplot(dat, aes(x = anno, y = delta)) + geom_line(size = 1.2) + facet_wrap(~mes) +
-      geom_hline(data = dat.q, aes(yintercept = q.50)) +
-      geom_hline(data = dat.q, aes(yintercept = q.25), linetype = "dashed") +
-      geom_hline(data = dat.q, aes(yintercept = q.75), linetype = "dashed") +
-      xlab("año") + ylab("variación mensual tasa de paro")
-
+ggplot(dat, aes(x = anno, y = delta)) +
+  geom_line(size = 1.2) + facet_wrap(~mes) +
+  geom_hline(data = dat.q, aes(yintercept = q.50)) +
+  geom_hline(data = dat.q, aes(yintercept = q.25), linetype = "dashed") +
+  geom_hline(data = dat.q, aes(yintercept = q.75), linetype = "dashed") +
+  xlab("año") + ylab("variación mensual tasa de paro")
+{{< / highlight >}}
 
 El resultado es:
 

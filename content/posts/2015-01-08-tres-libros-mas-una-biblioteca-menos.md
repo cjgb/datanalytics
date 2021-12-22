@@ -15,12 +15,9 @@ Todos los años tengo el vicio de comprar algún libro. Aprovecho mi viaje a Zar
 
 Este año he sido perezoso. En lugar de acudir a la Librería General, he dado un paseo por `libgen.org`. He descargado tres libros que tenía en mi lista de pendientes:
 
-
-
-	  * [_Average is over_](http://en.wikipedia.org/wiki/Average_is_Over)
-	  * [_Risk Savvy. How to Make Good Decisions _](https://www.mpib-berlin.mpg.de/en/news/current-research-results/risk-savy-how-to-make-good-decisions)
-	  * [_Taking Chances_](http://plus.maths.org/content/taking-chances)
-
+* [_Average is over_](http://en.wikipedia.org/wiki/Average_is_Over)
+* [_Risk Savvy. How to Make Good Decisions _](https://www.mpib-berlin.mpg.de/en/news/current-research-results/risk-savy-how-to-make-good-decisions)
+* [_Taking Chances_](http://plus.maths.org/content/taking-chances)
 
 Creo que puedo recomendarlos todos, aunque no he terminado ninguno.
 

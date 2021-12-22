@@ -14,10 +14,7 @@ tags:
 
 Hace unos días alguien me pasó una fórmula que tiene una pinta no muy distinta de
 
-
-$latex p = \frac{p_1 p_2 \cdots p_N}{p_1 p_2 \cdots p_N + (1 - p_1)(1 - p_2) \cdots (1 - p_N)}$
-
-
+$$ p = \frac{p_1 p_2 \cdots p_N}{p_1 p_2 \cdots p_N + (1 - p_1)(1 - p_2) \cdots (1 - p_N)}$$
 
 alegando que era una aplicación de _métodos bayesianos_ (para estimar la probabilidad de algo combinando distintos _indicios_). Pero no está en mi libro (¿y en el tuyo?). El hilo (y varios correos) me condujeron a [esto](http://en.wikipedia.org/wiki/Bayesian_spam_filtering#Combining_individual_probabilities) y de ahí, a través de referencias de referencias, a [_Combining Probabilities_](http://www.mathpages.com/home/kmath267.htm). Donde todo está muy bien explicado.
 

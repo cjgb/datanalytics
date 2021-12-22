@@ -22,27 +22,22 @@ Se puede usar Spark (y [SparkR](http://amplab-extras.github.io/SparkR-pkg/)), po
 
 Pero si
 
-
-
-	  * tienes varios servidores corriendo un sistema operativo decente,
-	  * instalas R y `snow` (y todo lo que necesites) en todos ellos y
-	  * configuras los servidores para poder acceder a través de [ssh sin contraseña](http://www.linuxproblem.org/art_9.html) desde uno central,
-
+* tienes varios servidores corriendo un sistema operativo decente,
+* instalas R y `snow` (y todo lo que necesites) en todos ellos y
+* configuras los servidores para poder acceder a través de [ssh sin contraseña](http://www.linuxproblem.org/art_9.html) desde uno central,
 
 y, entonces, ejecutas
 
+{{< highlight R "linenos=true" >}}
+cluster.def <- list(user = "linux_user_name", nodes = data.frame(
+    host = c("localhost", "10.65.243.58"), cores = c(2,4)))
 
-
-    cluster.def <- list(user = "linux_user_name", nodes = data.frame(
-        host = c("localhost", "10.65.243.58"), cores = c(2,4)))
-
-    cluster.nodes <- as.character(rep(cluster.def$nodes$host,
-                                      times = cluster.def$nodes$cores))
-    cl <- makeSOCKcluster(cluster.nodes, user = cluster.def$user)
-    res <- clusterApply(cl, 1:10, Sys.sleep)
-    stopCluster(cl)
-
-
+cluster.nodes <- as.character(rep(cluster.def$nodes$host,
+    times = cluster.def$nodes$cores))
+cl <- makeSOCKcluster(cluster.nodes, user = cluster.def$user)
+res <- clusterApply(cl, 1:10, Sys.sleep)
+stopCluster(cl)
+{{< / highlight >}}
 
 dormirás (en el sentido de `Sys.sleep`) como tal vez nunca: en varios hilos simultáneos a la vez que corren en las dos máquinas indicadas en la especificación del _clúster_.
 

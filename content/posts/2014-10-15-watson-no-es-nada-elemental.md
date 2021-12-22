@@ -9,6 +9,8 @@ categories:
 - varios
 tags:
 - watson
+- ibm
+- ia
 ---
 
 Hay días en que uno no es que no tenga de qué escribir sino que la cabeza, después de tanto perseguir punteros en C y pastorear hordas de esclavos de Spark, ya no le da. Para ocasiones como esta de hoy guardo en un directorio una serie de artículos que recomendar. Hoy toca [Building Watson: An Overview of the DeepQA Project](http://www.aaai.org/ojs/index.php/aimagazine/article/view/2303).

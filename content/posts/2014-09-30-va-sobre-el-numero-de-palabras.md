@@ -11,6 +11,7 @@ tags:
 - finanzas
 - números
 - palabras
+- nlp
 ---
 
 Trataré de usar pocas hoy. El otro día vi

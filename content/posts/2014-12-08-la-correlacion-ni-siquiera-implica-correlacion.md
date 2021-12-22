@@ -16,11 +16,9 @@ Esto es, [según Andrew Gelman](http://andrewgelman.com/2014/08/04/correlation-e
 
 El enlace anterior también discute otras variantes del archiconocido "la correlación no implica causalidad", tales como
 
-
-
-	  * la causalidad está correlacionada con la correlación,
-	  * la falta de correlación está correlacionada con la falta de causalidad,
-	  * etc.
+* la causalidad está correlacionada con la correlación,
+* la falta de correlación está correlacionada con la falta de causalidad,
+* etc.
 
 que, si yo fuera tú, me apresuraría a consultar en el enlace anterior.
 

@@ -23,10 +23,8 @@ Este problema es particularmente serio cuando el tamaño de $latex D$ es tan gra
 
 Creo que pensar en términos de [errores de tipo S y errores de tipo M](http://andrewgelman.com/2004/12/29/type_1_type_2_t/) nos podría ayudar a satisfacer mejor las necesidades de quienes vienen a nosotros con preguntas. Lo que son ambos, lo dice el enlace anterior. Pero para los impacientes,
 
-
-
-	  * el **error de tipo S** es el que se comete cuando uno se confunde en el sentido de un efecto (o parámetro) y
-	  * el **error de tipo M** es el que se comete cuando uno se confunde en su magnitud.
+* el **error de tipo S** es el que se comete cuando uno se confunde en el sentido de un efecto (o parámetro) y
+* el **error de tipo M** es el que se comete cuando uno se confunde en su magnitud.
 
 Porque la gente(*), en el fondo, solo quiere saber si su X es bueno y de serlo, cuánto. El resto es liturgia.
 
