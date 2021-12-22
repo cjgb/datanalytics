@@ -30,7 +30,7 @@ Hoy voy a hacer mención a una cosa prodigiosa. Pero sin palabras. Voy a regalar
 
     res.juego.s <- replicate( 1000, jugar( 1000, juego.s )[1000] )
     hist( res.juego.s )
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( res.juego.s )
+    fivenum( res.juego.s )
 
 
 
@@ -46,7 +46,7 @@ este
     res.juego.c <- replicate( 1000, jugar( 1000, juego.c )[1000] )
 
     hist( res.juego.c )
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( res.juego.c )
+    fivenum( res.juego.c )
 
 
 
@@ -61,7 +61,7 @@ y este otro
     res.juego.fin <- replicate( 1000, jugar( 1000, juego.fin )[1000] )
 
     hist( res.juego.fin )
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( res.juego.fin )
+    fivenum( res.juego.fin )
 
 
 

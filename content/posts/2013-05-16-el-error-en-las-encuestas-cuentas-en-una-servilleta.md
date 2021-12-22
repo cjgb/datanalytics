@@ -73,7 +73,7 @@ Y ahora
 
 
     n.reales <- 0:N
-    probs <- sapply(n.reales, function(y) <a href="http://inside-r.org/r-doc/stats/dhyper">dhyper(x, y, N-y, n, log = FALSE))
+    probs <- sapply(n.reales, function(y) dhyper(x, y, N-y, n, log = FALSE))
     probs <- probs / sum(probs)
 
 

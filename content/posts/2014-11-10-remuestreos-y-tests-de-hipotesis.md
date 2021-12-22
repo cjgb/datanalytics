@@ -42,7 +42,7 @@ Muchos plantearían un t-test:
 
 
 
-    <a href="http://inside-r.org/r-doc/stats/t.test">t.test(beer, water, alternative = "greater")
+    t.test(beer, water, alternative = "greater")
     # Welch Two Sample t-test
     #
     # data:  beer and water

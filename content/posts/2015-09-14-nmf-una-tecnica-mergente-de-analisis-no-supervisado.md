@@ -23,12 +23,8 @@ tags:
 
 ¿Qué tipo de matrices tienen entradas estrictamente positivas?
 
-
-
-
-	  * Las resultantes de cuestionarios donde sujetos (filas) valoran (de 0 a 10) objetos, propuestas, etc. (columnas).
-	  * Las que respresentan clientes (filas) que compran (un determinado número >= 0) de productos (columnas).
-	  * ...
-
+* Las resultantes de cuestionarios donde sujetos (filas) valoran (de 0 a 10) objetos, propuestas, etc. (columnas).
+* Las que respresentan clientes (filas) que compran (un determinado número >= 0) de productos (columnas).
+* ...
 
 Y acabo con un instrumento (el [paquete `NMF`](https://cran.r-project.org/web/packages/NMF/index.html) de R) y el [análisis de una encuesta](http://www.oreilly.com/data/free/files/analyzing-the-analyzers.pdf) realizado con dicha técnica para que la veáis en acción.

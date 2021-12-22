@@ -13,11 +13,7 @@ tags:
 
 Hoy me ha llegado un mensaje ofreciéndome un trabajo (por motivos de diversa índole, no, gracias) que contenía una línea que quiero compartir aquí:
 
-
-
-<blockquote>We have analyzed your open source contributions on Github and have concluded that your experience could be a good fit for the position of [...] at [...].</blockquote>
-
-
+>We have analyzed your open source contributions on Github and have concluded that your experience could be a good fit for the position of [...] at [...].
 
 Y tú, ¿ya tienes [tu repositorio en Github](https://guides.github.com/activities/hello-world/)?
 

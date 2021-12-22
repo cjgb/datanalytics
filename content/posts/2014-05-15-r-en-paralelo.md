@@ -36,7 +36,7 @@ Inspirado en [esto](http://stackoverflow.com/questions/10815622/running-multiple
 
 
 
-    library(<a href="http://inside-r.org/r-doc/lattice/parallel">parallel)
+    library(parallel)
     tasks <- list(
       job1 = function() calcula.A(args.A),
       job2 = function() calcula.B(args.B),

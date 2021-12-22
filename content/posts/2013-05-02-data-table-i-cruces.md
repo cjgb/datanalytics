@@ -30,17 +30,17 @@ Los protagonistas (tres tablas _grandecitas_):
     dim(tfe)
     #[1] 1493772 3
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(qjilm, 2)
+    head(qjilm, 2)
     #pos.es length.en length.es pos.en qjilm
     #1 1 2 1 1 0.8890203
     #2 1 2 1 2 0.1109797
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(tf, 2)
+    head(tf, 2)
     #frase es pos.es length.es en pos.en length.en
     #1 996 ! 42 42 ! 43 44
     #2 1231 ! 37 37 ! 37 38
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(tfe, 2)
+    head(tfe, 2)
     #en es tfe
     #1 ! ! 4.364360e-01
     #2 ! !" 4.945229e-24
@@ -102,14 +102,14 @@ Y con [`data.table`](http://cran.r-project.org/web/packages/data.table/index.htm
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/data.table">data.table)
+    library(data.table)
 
     system.time({
-      res.dt <- merge(<a href="http://inside-r.org/packages/cran/data.table">data.table( tf,  key = c("en", "es")),
-                      <a href="http://inside-r.org/packages/cran/data.table">data.table( tfe, key = c("en", "es")) )
+      res.dt <- merge(data.table( tf,  key = c("en", "es")),
+                      data.table( tfe, key = c("en", "es")) )
 
       res.dt <- merge( setkeyv(res.dt,   cols = c("pos.es", "pos.en", "length.es", "length.en")),
-                       <a href="http://inside-r.org/packages/cran/data.table">data.table(qjilm, key  = c("pos.es", "pos.en", "length.es", "length.en") )
+                       data.table(qjilm, key  = c("pos.es", "pos.en", "length.es", "length.en") )
                   )
     })
     #user system elapsed
@@ -134,8 +134,8 @@ Y, finalmente, suponiendo que los `data.tables` ya tienen asociado un _índice_ 
 
 
 
-    tf.dt  <- <a href="http://inside-r.org/packages/cran/data.table">data.table( tf,  key = c("en", "es"))
-    tfe.dt <- <a href="http://inside-r.org/packages/cran/data.table">data.table( tfe, key = c("en", "es"))
+    tf.dt  <- data.table( tf,  key = c("en", "es"))
+    tfe.dt <- data.table( tfe, key = c("en", "es"))
 
     system.time( res <- merge(tf.dt, tfe.dt) )
     #user system elapsed

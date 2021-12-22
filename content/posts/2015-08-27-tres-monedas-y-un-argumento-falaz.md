@@ -9,6 +9,8 @@ categories:
 - probabilidad
 tags:
 - probabilidad
+- paradojas
+- galton
 ---
 
 Tiras tres monedas. ¿Cuál es la probabilidad de obtener tres valores (cara o cruz) iguales? Es, lo sabemos todos, 0.25: de las ocho opciones posibles, solo dos cumplen.

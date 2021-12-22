@@ -16,7 +16,6 @@ Acabo de escribir a los socios de la Comunidad R Hispano acerca de la existencia
 
 ![Logo de la Comunidad R Hispano](http://r-es.org/wp-content/uploads/2016/01/RHispano-e1454246769467.png)
 
-
 (Y agradezco muchísimo el trabajo de [Paula López Casado](https://twitter.com/paulalc76), responsable de que la nueva página tenga un aspecto infinitamente más atractivo que la que lees).
 
 (Además, esta entrada incluye el que será el nuevo logo de la Comunidad R Hispano).

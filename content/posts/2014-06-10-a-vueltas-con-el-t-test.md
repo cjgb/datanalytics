@@ -45,11 +45,11 @@ es una media y, por tanto, aplicando el teorema central del límite (¿aplica?),
 
     foo <- function(n, m){
       res <- c(rep(0,n), abs(rcauchy(m)))
-      <a href="http://inside-r.org/r-doc/stats/var">var(res)
+      var(res)
     }
      
     res <- replicate(10000, foo(1000, 10))
-    <a href="http://inside-r.org/r-doc/stats/qqplot">qqplot(res, <a href="http://inside-r.org/r-doc/stats/rchisq">rchisq(10000, 1010))
+    qqplot(res, rchisq(10000, 1010))
     abline(a=0, b=1)
 
 

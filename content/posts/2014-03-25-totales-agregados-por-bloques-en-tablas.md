@@ -22,7 +22,7 @@ En ocasiones uno quiere añadir un total calculado en ciertos bloques a una tabl
     set.seed(1234)
     ventas.orig <- data.frame(cliente = rep(1:10, each = 5),
                            producto = rep(letters[1:5], times = 10),
-                           importe = <a href="http://inside-r.org/r-doc/stats/rlnorm">rlnorm(50))
+                           importe = rlnorm(50))
 
 
 
@@ -32,7 +32,7 @@ Una manera natural pero torpe de realizar este cálculo consiste en usar un obje
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+    library(plyr)
     tmp <- ddply(ventas.orig, .(cliente), summarize, total = sum(importe))
     ventas <- merge(ventas.orig, tmp)
     ventas$pct.producto <- 100 * ventas$importe / ventas$total
@@ -43,9 +43,9 @@ No os asustéis, se puede hacer aún peor (p.e., usando `sqldf`). Pero existen d
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/data.table">data.table)
+    library(data.table)
 
-    ventas <- <a href="http://inside-r.org/packages/cran/data.table">data.table(ventas.orig)
+    ventas <- data.table(ventas.orig)
     ventas[, total.cliente := sum(importe), by = cliente]
     ventas$pct.producto <- 100 * ventas$importe / ventas$total.cliente
 
@@ -57,7 +57,7 @@ También es posible hacerlo todavía más sucintamente con `plyr`:
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+    library(plyr)
     ventas <- ddply(ventas.orig, .(cliente), transform, pct.producto = 100 * importe / sum(importe))
 
 

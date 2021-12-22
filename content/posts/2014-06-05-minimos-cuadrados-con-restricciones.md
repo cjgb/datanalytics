@@ -26,8 +26,8 @@ Sí, había restricciones. No me preguntéis por qué, pero los coeficientes ten
 
     # target function: L2 first, then other metrics
 
-    L2 <- function(<a href="http://inside-r.org/r-doc/stats/coef">coef){
-      sum(abs((y - colSums(x * <a href="http://inside-r.org/r-doc/stats/coef">coef)))^1.5)
+    L2 <- function(coef){
+      sum(abs((y - colSums(x * coef)))^1.5)
     }
 
     # restrictions: coefs > 0, sum(coefs) ~ 1
@@ -37,7 +37,7 @@ Sí, había restricciones. No me preguntéis por qué, pero los coeficientes ten
 
     theta <- rep(0.25, 4)
 
-    best.coef <- <a href="http://inside-r.org/r-doc/stats/constrOptim">constrOptim(theta, L2, grad = NULL, ui = ui, ci = ci)
+    best.coef <- constrOptim(theta, L2, grad = NULL, ui = ui, ci = ci)
 
     coefs <- best.coef$par
 

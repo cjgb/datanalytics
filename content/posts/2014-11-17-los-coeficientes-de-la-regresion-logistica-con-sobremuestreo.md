@@ -41,7 +41,7 @@ Simulemos pues:
 
 
 
-    library(<a href="http://inside-r.org/r-doc/lattice/parallel">parallel)
+    library(parallel)
 
     n    <- 100
     reps <- 20
@@ -66,7 +66,7 @@ Simulemos pues:
 
         dat <- dat[keep,]
 
-        <a href="http://inside-r.org/r-doc/stats/coef">coef(<a href="http://inside-r.org/r-doc/stats/glm">glm(y ~ x1 + x2, data = dat, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial()))
+        coef(glm(y ~ x1 + x2, data = dat, family = binomial()))
       })
 
       res <- t(res)

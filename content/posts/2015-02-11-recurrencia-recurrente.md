@@ -18,57 +18,55 @@ Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imagi
 
 La respuesta está en la recurrencia. He aquí mi versión del código:
 
+{{< highlight R "linenos=true" >}}
+library(ggplot2)
+library(gridExtra)
 
+nrows <- 6
+coefs.a <- runif(min=1, max=50, nrows)
+coefs.b <- runif(min=1, max=50, nrows)
 
-    library(ggplot2)
-    library(gridExtra)
+foo.a <- sample(c(sin, cos), nrows, replace = TRUE)
+foo.b <- sample(c(sin, cos), nrows, replace = TRUE)
 
-    nrows <- 6
-    coefs.a <- runif(min=1, max=50, nrows)
-    coefs.b <- runif(min=1, max=50, nrows)
+foo <- function(x, a, b){
+  if(a == 1 || b == 1)
+    return(foo.a[[a]](coefs.a[a] * x))
 
-    foo.a <- sample(c(sin, cos), nrows, replace = TRUE)
-    foo.b <- sample(c(sin, cos), nrows, replace = TRUE)
+  if(b == a)
+    return(foo.b[[a]](coefs.b[a] * x))
 
-    foo <- function(x, a, b){
-      if(a == 1 || b == 1)
-        return(foo.a[[a]](coefs.a[a] * x))
+  foo(x, a-1, b) + foo(x, a-1, b-1)
+}
 
-      if(b == a)
-        return(foo.b[[a]](coefs.b[a] * x))
+vplayout = function(x, y) viewport(layout.pos.row = x, layout.pos.col = y)
 
-      foo(x, a-1, b) + foo(x, a-1, b-1)
-    }
+opts=theme(legend.position="none",
+      panel.background = element_rect(fill="gray95"),
+      plot.background = element_rect(fill="gray95", colour="gray95"),
+      panel.grid = element_blank(),
+      axis.ticks=element_blank(),
+      axis.title=element_blank(),
+      axis.text =element_blank())
 
-    vplayout = function(x, y) <a href="http://inside-r.org/r-doc/grid/viewport">viewport(layout.pos.row = x, layout.pos.col = y)
+grid.newpage()
 
-    opts=theme(legend.position="none",
-               panel.background = element_rect(fill="gray95"),
-               plot.background = element_rect(fill="gray95", colour="gray95"),
-               <a href="http://inside-r.org/r-doc/lattice/panel.grid">panel.grid = element_blank(),
-               axis.ticks=element_blank(),
-               axis.title=element_blank(),
-               axis.text =element_blank())
+jpeg(file="AddingWaves.jpeg", width = 1800, height = 1000,
+      bg = "gray95", quality = 100)
 
-    <a href="http://inside-r.org/r-doc/grid/grid.newpage">grid.newpage()
+pushViewport(viewport(layout = grid.layout(nrows, 2*nrows-1)))
 
-    <a href="http://inside-r.org/r-doc/grDevices/jpeg">jpeg(file="AddingWaves.jpeg", width = 1800, height = 1000,
-         bg = "gray95", quality = 100)
+for (i in 1:nrows) {
+  for (j in 1:i) {
+    print(ggplot(data.frame(x = c(0, 20)), aes(x)) +
+            stat_function(fun = function(x) foo(x, i, j),
+                  colour = "black", alpha=.75)+opts,
+          vp = vplayout(i, nrows+(2*j-(i+1))))
+  }
+}
 
-    <a href="http://inside-r.org/r-doc/grid/pushViewport">pushViewport(<a href="http://inside-r.org/r-doc/grid/viewport">viewport(<a href="http://inside-r.org/r-doc/graphics/layout">layout = <a href="http://inside-r.org/r-doc/grid/grid.layout">grid.layout(nrows, 2*nrows-1)))
-
-    for (i in 1:nrows) {
-      for (j in 1:i) {
-        print(ggplot(data.frame(x = c(0, 20)), aes(x)) +
-                stat_function(fun = function(x) foo(x, i, j),
-                              colour = "black", alpha=.75)+opts,
-              vp = vplayout(i, nrows+(2*j-(i+1))))
-      }
-    }
-
-    <a href="http://inside-r.org/r-doc/grDevices/dev.off">dev.off()
-
-
+dev.off()
+{{< / highlight >}}
 
 El resultado es
 

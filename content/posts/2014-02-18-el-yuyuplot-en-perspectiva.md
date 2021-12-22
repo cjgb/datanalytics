@@ -45,13 +45,13 @@ He querido responderme a mí mismo descargando de [aquí](http://research.stloui
     dat$VALUE <- as.numeric(as.character(dat$VALUE))
     dat <- subset(dat, !is.na(dat$VALUE))
 
-    dat$DATE <- <a href="http://inside-r.org/r-doc/base/as.Date">as.Date(as.character(dat$DATE))
+    dat$DATE <- as.Date(as.character(dat$DATE))
 
-    base  <- dat$VALUE[dat$DATE >  <a href="http://inside-r.org/r-doc/base/as.Date">as.Date("2012-06-30")]
-    resto <- dat$VALUE[dat$DATE <= <a href="http://inside-r.org/r-doc/base/as.Date">as.Date("2012-06-30")]
+    base  <- dat$VALUE[dat$DATE >  as.Date("2012-06-30")]
+    resto <- dat$VALUE[dat$DATE <= as.Date("2012-06-30")]
 
     correlaciones <- sapply(1:(length(resto) - length(base)),
-                            function(x) <a href="http://inside-r.org/r-doc/stats/cor">cor(base, resto[x + (1:length(base))])
+                            function(x) cor(base, resto[x + (1:length(base))])
     )
 
     incr.6m <- dat$VALUE[length(base) + 180 + 1:length(correlaciones)]
@@ -67,7 +67,7 @@ He querido responderme a mí mismo descargando de [aquí](http://research.stloui
 
     tmp <- data.frame(incrementos = incrementos, pesos = pesos / sum(pesos))
 
-    ggplot(tmp, aes(x = incrementos, <a href="http://inside-r.org/r-doc/stats/weights">weights = pesos)) +
+    ggplot(tmp, aes(x = incrementos, weights = pesos)) +
       geom_density(fill = "blue", alpha = 0.5) +
       xlab("return (%) ")
 

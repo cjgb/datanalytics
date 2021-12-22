@@ -14,14 +14,10 @@ tags:
 
 [Telegram](http://telegram.me) es un sistema de mensajería por internet similar a Whatsapp, aunque con algunas diferencias notables:
 
-
-
-
-	  * No es de Facebook
-	  * Una vez tienes una cuenta, puedes usarla desde distintos dispositivos (Linux incluido)
-	  * Tiene menos usuarios
-	  * Es programable
-
+* No es de Facebook
+* Una vez tienes una cuenta, puedes usarla desde distintos dispositivos (Linux incluido)
+* Tiene menos usuarios
+* Es programable
 
 De lo último es ilustración esta "conversación" que tuve con la cuenta [@TeleR](https://telegram.me/Tele_R):
 

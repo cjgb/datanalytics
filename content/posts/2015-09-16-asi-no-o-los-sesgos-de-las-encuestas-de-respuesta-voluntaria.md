@@ -24,11 +24,7 @@ Pero la [carta de su Concejala de Medio Ambiente y Movilidad, Inés Sabanés, a 
 
 La misma OCU informa:
 
-
-
-<blockquote>Encuesta a socios OCU: en febrero de 2015 enviamos 58.458 cuestionarios electrónicos a socios elegidos al azar, de los que obtuvimos 5.825 respuestas. La tasa de respuesta media ha sido del 10%, aunque varía por ciudad (la más alta en Madrid, con un 28%). Al no recibir suficientes respuestas de Teruel, Ceuta y Melilla, no publicamos sus resultados. </blockquote>
-
-
+>Encuesta a socios OCU: en febrero de 2015 enviamos 58.458 cuestionarios electrónicos a socios elegidos al azar, de los que obtuvimos 5.825 respuestas. La tasa de respuesta media ha sido del 10%, aunque varía por ciudad (la más alta en Madrid, con un 28%). Al no recibir suficientes respuestas de Teruel, Ceuta y Melilla, no publicamos sus resultados.
 
 Y todos sabemos qué ocurre con la representatividad de un _estudio_ basado en la respuesta voluntaria de un grupo, además, sesgado: de socios de una determinada organización.
 

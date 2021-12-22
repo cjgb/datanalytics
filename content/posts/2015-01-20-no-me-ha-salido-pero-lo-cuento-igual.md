@@ -22,16 +22,16 @@ En R puede resumirse en
 
 
     library(reshape2)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+    library(plyr)
 
-    data(<a href="http://inside-r.org/r-doc/datasets/UCBAdmissions">UCBAdmissions)
+    data(UCBAdmissions)
 
-    raw <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(<a href="http://inside-r.org/r-doc/datasets/UCBAdmissions">UCBAdmissions)
+    raw <- as.data.frame(UCBAdmissions)
 
     dat <- dcast(raw, Gender + Dept ~ <a href="http://inside-r.org/packages/cran/AdMit">Admit)
 
-    mod.0 <- <a href="http://inside-r.org/r-doc/stats/glm">glm(cbind(Admitted, Rejected) ~ Gender, data = dat, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial)
-    mod.1 <- <a href="http://inside-r.org/r-doc/stats/glm">glm(cbind(Admitted, Rejected) ~ Gender + Dept, data = dat, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial)
+    mod.0 <- glm(cbind(Admitted, Rejected) ~ Gender, data = dat, family = binomial)
+    mod.1 <- glm(cbind(Admitted, Rejected) ~ Gender + Dept, data = dat, family = binomial)
 
 
 
@@ -64,9 +64,9 @@ Pues parece que algo se me ha escapado porque, salvo error u omisión,
 
     extract.coefs <- function(accept.rate, gender.rate){
       Gender   <- sample(names(gender.rate), sum(gender.rate),
-                         <a href="http://inside-r.org/packages/cran/prob">prob = gender.rate / sum(gender.rate), replace = T)
+                         prob = gender.rate / sum(gender.rate), replace = T)
       Dept     <- sample(accept.rate$Dept, sum(gender.rate),
-                         <a href="http://inside-r.org/packages/cran/prob">prob = accept.rate$rate, replace = T)
+                         prob = accept.rate$rate, replace = T)
       Admitted <- accept.rate$rate[match(Dept, accept.rate$Dept)]
       Admitted <- runif(length(Admitted)) < Admitted
 
@@ -74,17 +74,17 @@ Pues parece que algo se me ha escapado porque, salvo error u omisión,
       dat <- ddply(dat, .(Gender, Dept), summarize,
                    Rejected = sum(!Admitted), Admitted = sum(Admitted))
 
-      mod.0 <- <a href="http://inside-r.org/r-doc/stats/glm">glm(cbind(Admitted, Rejected) ~ Gender, data = dat,
-                   <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial)
-      mod.1 <- <a href="http://inside-r.org/r-doc/stats/glm">glm(cbind(Admitted, Rejected) ~ Gender + Dept, data = dat,
-                   <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial)
+      mod.0 <- glm(cbind(Admitted, Rejected) ~ Gender, data = dat,
+                   family = binomial)
+      mod.1 <- glm(cbind(Admitted, Rejected) ~ Gender + Dept, data = dat,
+                   family = binomial)
 
-      c(<a href="http://inside-r.org/r-doc/stats/coefficients">coefficients(mod.0)[2], <a href="http://inside-r.org/r-doc/stats/coefficients">coefficients(mod.1)[2])
+      c(coefficients(mod.0)[2], coefficients(mod.1)[2])
     }
 
     res <- replicate(1000, extract.coefs(accept.rate, gender.rate))
 
-    res <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(t(res))
+    res <- as.data.frame(t(res))
     colnames(res) <- c("mod0", "mod1")
 
     boxplot(res, col = "gray")

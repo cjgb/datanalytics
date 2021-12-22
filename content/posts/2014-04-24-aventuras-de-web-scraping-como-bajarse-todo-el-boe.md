@@ -19,7 +19,7 @@ Rescato aquí para futura o ajena referencia un pedazo de código que utilicé u
 
     setwd("~/boe/boes")
 
-    library(<a href="http://inside-r.org/packages/cran/RCurl">RCurl)
+    library(RCurl)
 
     h = getCurlHandle()
 

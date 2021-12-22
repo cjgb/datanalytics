@@ -15,14 +15,9 @@ tags:
 
 Menos el de un presunto profesor,
 
-
-
-<blockquote>La probabilidad de que 3030 votantes en la [#ANECUP](https://twitter.com/hashtag/ANECUP?src=hash) empaten con 1515 votos es 1 / 3029 = 0.00033014, lo que corresponde a un suceso imposible
+>La probabilidad de que 3030 votantes en la [#ANECUP](https://twitter.com/hashtag/ANECUP?src=hash) empaten con 1515 votos es 1 / 3029 = 0.00033014, lo que corresponde a un suceso imposible
 >
 > -- Mario Bilbao (@mario_bilbao) [December 27, 2015](https://twitter.com/mario_bilbao/status/681206256175083520)</blockquote>
-
-
-
 
 todos los análisis que he visto al respecto ([1](http://www.elespanol.com/espana/20151228/90241027_0.html), [2](https://gallir.wordpress.com/2015/12/28/las-probabilidades-del-empate-de-la-cup/), [3](http://www.eldiario.es/piedrasdepapel/probable-empate-Asamblea-CUP_6_467263286.html)), [incluido el mío](http://www.datanalytics.com/2015/12/29/empates-electorales-sorteos-y-una-inadvertida-paradoja/), coinciden en señalar que la probabilidad de empate en el muy manido acto asambleario de la CUP es _relativamente alta_: alrededor del 1,5%. Y más todavía si se tienen en cuenta los resultados de las votaciones previas.
 
@@ -34,11 +29,7 @@ Si 1515 personas votaron sí, no tiene sentido calcular la probabilidad de que l
 
 De hecho, además, [como indica Kiko Llaneras](http://www.elespanol.com/espana/20151228/90241027_0.html),
 
-
-
-<blockquote>En EL ESPAÑOL hemos tomado los resultados de las elecciones generales del 20 de diciembre. Nos hemos fijado en los 300 pueblos que tienen entre 3.000 y 4.000 habitantes y nos hemos hecho una pregunta: ¿En cuántos hubo un empate entre los dos partidos que quedaron primero y segundo? Sólo en uno de los 300.</blockquote>
-
-
+>En EL ESPAÑOL hemos tomado los resultados de las elecciones generales del 20 de diciembre. Nos hemos fijado en los 300 pueblos que tienen entre 3.000 y 4.000 habitantes y nos hemos hecho una pregunta: ¿En cuántos hubo un empate entre los dos partidos que quedaron primero y segundo? Sólo en uno de los 300.
 
 Uno de trescientos está, de hecho, en el límite de la significancia estadística para la hipótesis de partida de que la probabilidad de empate es de 1.5% (dejo los detalles al lector).
 
@@ -48,26 +39,22 @@ Nótese que, de entrada, la probabilidad es, a lo sumo, la mitad de 1.5%: ¡una 
 
 El código que planteo es
 
+{{< highlight R "linenos=true" >}}
+foo <- function(n){
+  cuantos <- sample(desde:hasta, n, replace = T)
+  p <- .4 + .2 * runif(n)
+  sies <- mapply(function(a, b)
+    rbinom(1, a, b), cuantos, p)
+  sies == cuantos - sies
+}
 
-
-    foo <- function(n){
-      cuantos <- sample(desde:hasta, n, replace = T)
-      p <- .4 + .2 * runif(n)
-      sies <- mapply(function(a, b) rbinom(1, a, b), cuantos, p)
-      sies == cuantos - sies
-    }
-
-    100 * mean(foo(1000000))
-
-
+100 * mean(foo(1000000))
+{{< / highlight >}}
 
 La ejecución es un ejercicio para mis lectores. Solo adelanto que el resultado es más próximo a la estimación del _presunto_ que a la de los demás.
 
 Y las notas:
 
-
-
-	  * Cada cual es libre de jugar con las prioris.
-	  * No está prohibido usar betas en lugar de uniformes.
-	  * ¿Me dejo algo?
-
+* Cada cual es libre de jugar con las prioris.
+* No está prohibido usar betas en lugar de uniformes.
+* ¿Me dejo algo?

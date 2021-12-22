@@ -22,7 +22,7 @@ Así que he desarrollado un algoritmo para crear celosías hexagonales paraleliz
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+    library(plyr)
 
     <a href="http://inside-r.org/packages/cran/hexbin">hexbin <- function(x, y, h = 0.3){
       r <- 2 * h / sqrt(3)
@@ -55,7 +55,7 @@ La salida es una lista con las coordenadas de los centros de los hexágonos y el
 
 
 
-    plot.hexBinning <- function(x, col = <a href="http://inside-r.org/r-doc/grDevices/heat.colors">heat.colors(12)){
+    plot.hexBinning <- function(x, col = heat.colors(12)){
 
       X = x$x
       Y = x$y
@@ -66,9 +66,9 @@ La salida es una lista con las coordenadas de los centros de los hexágonos y el
       # Create Hexagon Coordinates:
       rx = median(diff(unique(sort(X))))
       ry = median(diff(unique(sort(Y))))
-      <a href="http://inside-r.org/r-doc/stats/rt">rt = 2*ry
+      rt = 2*ry
       u = c(rx,  0, -rx, -rx,   0,  rx)
-      v = c(ry, <a href="http://inside-r.org/r-doc/stats/rt">rt,  ry, -ry, -<a href="http://inside-r.org/r-doc/stats/rt">rt, -ry) / 3
+      v = c(ry, rt,  ry, -ry, -rt, -ry) / 3
 
       # Create Color Palette:
       Z = x$z
@@ -78,7 +78,7 @@ La salida es una lista con las coordenadas de los centros de los hexágonos y el
 
       # Add Colored Hexagon Polygons:
       for (i in 1:length(X)) {
-        <a href="http://inside-r.org/r-doc/graphics/polygon">polygon(u+X[i], v+Y[i], col = col[Z[i]], border = "white")
+        polygon(u+X[i], v+Y[i], col = col[Z[i]], border = "white")
       }
 
       invisible(NULL)

@@ -9,6 +9,7 @@ categories:
 - números
 tags:
 - números
+- varianza
 ---
 
 Muchas cifras de interés son netos de dos magnitudes. Por ejemplo el déficit/superávit comercial, que es la diferencia entre exportaciones e importaciones; o los beneficios/pérdidas de una empresa, diferencia de ingresos y gastos.

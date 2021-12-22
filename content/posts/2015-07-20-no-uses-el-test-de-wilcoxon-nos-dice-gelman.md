@@ -10,6 +10,7 @@ categories:
 tags:
 - stan
 - wilcoxon
+- gelman
 ---
 
 Andrew Gelman nos invita a [no usar más el test de Wilcoxon](http://andrewgelman.com/2015/07/13/dont-do-the-wilcoxon/).

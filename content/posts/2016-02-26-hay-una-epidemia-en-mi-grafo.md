@@ -18,31 +18,31 @@ Tengo un grafo, `g` cuyas aristas pueden ser cualquier cosa susceptible de _cont
 
 Se me ocurre probar esa hipótesis así:
 
+{{< highlight R "linenos=true" >}}
+library(igraph)
 
+# mi grafo
+g <- erdos.renyi.game(10000,
+  p.or.m = 0.001, type="gnp")
 
-    library(igraph)
+min.mean.dist <- function(n){
+  # contaminación al azar
+  contaminados <- sample(V(g), n)
 
-    # mi grafo
-    g <- erdos.renyi.game(10000, p.or.m = 0.001, type="gnp")
+  # distancias entre aristas contaminadas
+  res <- shortest.paths(g,
+    v = contaminados, to = contaminados)
+  diag(res) <- Inf
 
-    min.mean.dist <- function(n){
-      # contaminación al azar
-      contaminados <- sample(V(g), n)
+  # distancia al contaminado más próximo
+  min.dist <- apply(res, 1, min, na.rm = T)
 
-      # distancias entre aristas contaminadas
-      res <- shortest.paths(g, v = contaminados, to = contaminados)
-      diag(res) <- Inf
+  # y su media
+  mean(min.dist)
+}
 
-      # distancia al contaminado más próximo
-      min.dist <- apply(res, 1, min, na.rm = T)
-
-      # y su media
-      mean(min.dist)
-    }
-
-    # histograma bajo la hipótesis nula
-    res <- replicate(100, min.mean.dist(100))
-
-
+# histograma bajo la hipótesis nula
+res <- replicate(100, min.mean.dist(100))
+{{< / highlight >}}
 
 El resto son detalles que el lector atento sabrá completar por su cuenta.

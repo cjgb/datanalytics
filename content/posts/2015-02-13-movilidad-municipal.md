@@ -10,6 +10,7 @@ categories:
 tags:
 - ine
 - municipios
+- movilidad
 ---
 
 Esto que cuento hoy es algo que, creo yo, pocos saben. Pero que han sufrido grandemente quienes hayan trabajando con datos municipales históricos: que de año en año, ocurren altas, bajas y modificaciones en esa lista que uno consideraría fija.

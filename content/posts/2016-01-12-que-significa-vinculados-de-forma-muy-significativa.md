@@ -14,6 +14,7 @@ tags:
 - lmer
 - p-valor
 - suicidio
+- causalidad
 ---
 
 Diríase que dos fenómenos _vinculados de forma muy significativa_ guardan una potente relación causal. Creo que eso es lo que entendería cualquiera.
@@ -47,65 +48,64 @@ El efecto es, según los autores, significativo, pero no está claro que sea rel
 El segundo gran tema es que un resultado (o coeficiente) puede resultar o no significativo dependiendo de lo que uno haga, las variables que utilice, etc. Aquí echo de menos ese párrafo que he omitido más arriba sobre los perversos incentivos de la academia. Como los autores (otra cosa para la que no tienen mayor incentivo) no han hecho públicos los datos (o no los han publicitado lo suficientemente bien como para que los encuentre), [los he recopilado yo mismo](/wp-uploads/2016/01/datos_suicidio_espana.txt). Se puede hacer
 
 
-
-    dat <- read.table("/wp-uploads/2016/01/datos_suicidio_espana.txt")
-    summary(dat)
-
-
+{{< highlight R "linenos=true" >}}
+dat <- read.table("/wp-uploads/2016/01/datos_suicidio_espana.txt")
+summary(dat)
+{{< / highlight >}}
 
 para cargarlos y ver que los míos coinciden mayormente con los de los autores (comparando el `summary` con la tabla 2 del artículo y luego, por ejemplo, una cosa muy razonable,
 
+{{< highlight R "linenos=true" >}}
+library(<lme4)
+mod.lmer.paro <- lmer(tasa.suicidio ~  edad.media +
+    esperanza.vida + tasa.fecundidad + ratio.sexos +
+    tasa.paro + (1 | ca), data = dat)
+summary(mod.lmer.paro)
 
+# Linear mixed model fit by REML ['lmerMod']
+# Formula: tasa.suicidio ~ edad.media + esperanza.vida + tasa.fecundidad + ratio.sexos + tasa.paro + (1 | ca)
+# Data: dat
+#
+# REML criterion at convergence: 600.9
+#
+# Scaled residuals:
+#   Min       1Q   Median       3Q      Max
+# -2.88051 -0.61372 -0.05319  0.54133  2.72389
+#
+# Random effects:
+#   Groups   Name        Variance Std.Dev.
+# ca       (Intercept) 2.2802   1.5100
+# Residual             0.7714   0.8783
+# Number of obs: 204, groups:  ca, 17
+#
+# Fixed effects:
+#   Estimate Std. Error t value
+# (Intercept)     20.46669   13.81164   1.482
+# edad.media       0.73061    0.16643   4.390
+# esperanza.vida  -0.81182    0.16148  -5.027
+# tasa.fecundidad -0.10394    0.03825  -2.717
+# ratio.sexos      0.27255    0.11415   2.388
+# tasa.paro        0.03470    0.01922   1.806
+#
+# Correlation of Fixed Effects:
+#   (Intr) edd.md esprn. ts.fcn rt.sxs
+# edad.media  -0.197
+# esperanz.vd -0.374 -0.676
+# tasa.fcnddd  0.504  0.256 -0.470
+# ratio.sexos -0.756  0.379 -0.212 -0.378
+# tasa.paro    0.532  0.197 -0.746  0.500  0.003
 
-    library(<a href="http://inside-r.org/packages/cran/lme4">lme4)
-    mod.lmer.paro <- lmer(tasa.suicidio ~  edad.media + esperanza.vida + tasa.fecundidad + ratio.sexos + tasa.paro + (1 | <a href="http://inside-r.org/packages/cran/ca">ca), data = dat)
-    summary(mod.lmer.paro)
-
-    # Linear mixed model fit by REML ['lmerMod']
-    # Formula: tasa.suicidio ~ edad.media + esperanza.vida + tasa.fecundidad + ratio.sexos + tasa.paro + (1 | ca)
-    # Data: dat
-    #
-    # REML criterion at convergence: 600.9
-    #
-    # Scaled residuals:
-    #   Min       1Q   Median       3Q      Max
-    # -2.88051 -0.61372 -0.05319  0.54133  2.72389
-    #
-    # Random effects:
-    #   Groups   Name        Variance Std.Dev.
-    # ca       (Intercept) 2.2802   1.5100
-    # Residual             0.7714   0.8783
-    # Number of obs: 204, groups:  ca, 17
-    #
-    # Fixed effects:
-    #   Estimate Std. Error t value
-    # (Intercept)     20.46669   13.81164   1.482
-    # edad.media       0.73061    0.16643   4.390
-    # esperanza.vida  -0.81182    0.16148  -5.027
-    # tasa.fecundidad -0.10394    0.03825  -2.717
-    # ratio.sexos      0.27255    0.11415   2.388
-    # tasa.paro        0.03470    0.01922   1.806
-    #
-    # Correlation of Fixed Effects:
-    #   (Intr) edd.md esprn. ts.fcn rt.sxs
-    # edad.media  -0.197
-    # esperanz.vd -0.374 -0.676
-    # tasa.fcnddd  0.504  0.256 -0.470
-    # ratio.sexos -0.756  0.379 -0.212 -0.378
-    # tasa.paro    0.532  0.197 -0.746  0.500  0.003
-
-    <a href="http://inside-r.org/r-doc/stats/confint">confint(mod.lmer.paro)
-    #                        2.5 %      97.5 %
-    # .sig01           1.006864068  2.08915864
-    # .sigma           0.788242966  0.96629385
-    # (Intercept)     -5.978568736 47.77741996
-    # edad.media       0.404543036  1.05152389
-    # esperanza.vida  -1.124187712 -0.50082446
-    # tasa.fecundidad -0.177069458 -0.02761042
-    # ratio.sexos      0.052761800  0.49107541
-    # tasa.paro       -0.002011176  0.07314789
-
-
+confint(mod.lmer.paro)
+#                        2.5 %      97.5 %
+# .sig01           1.006864068  2.08915864
+# .sigma           0.788242966  0.96629385
+# (Intercept)     -5.978568736 47.77741996
+# edad.media       0.404543036  1.05152389
+# esperanza.vida  -1.124187712 -0.50082446
+# tasa.fecundidad -0.177069458 -0.02761042
+# ratio.sexos      0.052761800  0.49107541
+# tasa.paro       -0.002011176  0.07314789
+{{< / highlight >}}
 
 para ilustrar cómo la significancia estadística, al igual que la belleza, está a menudo en el ojo de quien la mire.
 

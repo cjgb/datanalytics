@@ -21,7 +21,7 @@ Hoy se me ha ocurrido una solución mucho mejor que las anteriores basada en `du
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/data.table">data.table)
+    library(data.table)
 
     set.seed(1234)
 
@@ -30,10 +30,10 @@ Hoy se me ha ocurrido una solución mucho mejor que las anteriores basada en `du
 
     dat <- data.frame(a = a, b = b)
 
-    dat <- <a href="http://inside-r.org/packages/cran/data.table">data.table(dat, key = c("a", "b"))
+    dat <- data.table(dat, key = c("a", "b"))
     res <- dat[!duplicated(dat$a),]
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(res)
+    head(res)
     # a         b
     # 1: a -3.999523
     # 2: b -3.794408
@@ -42,7 +42,7 @@ Hoy se me ha ocurrido una solución mucho mejor que las anteriores basada en `du
     # 5: e -4.079149
     # 6: f -3.860507
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(tapply(dat$b, dat$a, min))
+    head(tapply(dat$b, dat$a, min))
     # a         b         c         d         e         f
     # -3.999523 -3.794408 -4.422542 -4.007013 -4.079149 -3.860507
 

@@ -9,6 +9,7 @@ categories:
 - estadística
 tags:
 - ciencia
+- mala ciencia
 - estadística
 - fútbol
 - p-valor

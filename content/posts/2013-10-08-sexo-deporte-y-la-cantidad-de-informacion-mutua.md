@@ -31,7 +31,7 @@ Comencemos por los casos extremos. En una situación de total independencia (cua
     #A    B
     #A 1200  900
     #B 1600 1200
-    mi.plugin(ind, <a href="http://inside-r.org/r-doc/grid/unit">unit = "log2")
+    mi.plugin(ind, unit = "log2")
     #-2.9419e-17
 
 
@@ -47,7 +47,7 @@ En cambio, si Y determina completamente X, tenemos
     #A    B
     #A 1000    0
     #B    0 1000
-    mi.plugin(dep, <a href="http://inside-r.org/r-doc/grid/unit">unit = "log2")
+    mi.plugin(dep, unit = "log2")
     #1
 
 
@@ -86,9 +86,9 @@ La pregunta es: ¿qué variable aporta más información? ¿Una algo genérica q
 
 
 
-    mi.plugin(sexo.deporte, <a href="http://inside-r.org/r-doc/grid/unit">unit = "log2")
+    mi.plugin(sexo.deporte, unit = "log2")
     # 0.27807
-    mi.plugin(tvcable.deporte, <a href="http://inside-r.org/r-doc/grid/unit">unit = "log2")
+    mi.plugin(tvcable.deporte, unit = "log2")
     # 0.10079
 
 

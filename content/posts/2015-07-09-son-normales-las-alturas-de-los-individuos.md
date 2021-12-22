@@ -20,21 +20,20 @@ Diríase que sí. La altura de un individuo está sujeta a multitud de factores 
 Y en efecto, (una vez descargados los [microdatos de la Encuesta Nacional de Salud de 2011](http://www.msssi.gob.es/estadisticas/microdatos.do)),
 
 
+{{< highlight R "linenos=true" >}}
+adultos <- readLines("MicrodatoAdultos.txt")
 
-    adultos <- readLines("MicrodatoAdultos.txt")
+sexo <- substring(adultos, 14, 14)
+sexo <- factor(sexo, labels = c("hombre", "mujer"))
 
-    sexo <- substring(adultos, 14, 14)
-    sexo <- factor(sexo, labels = c("hombre", "mujer"))
+altura <- as.numeric(substring(adultos, 430, 432))
 
-    altura <- as.numeric(substring(adultos, 430, 432))
+alturas <- data.frame(sexo = sexo, altura = altura)
+alturas <- alturas[alturas$altura < 900,]
 
-    alturas <- data.frame(sexo = sexo, altura = altura)
-    alturas <- alturas[alturas$altura < 900,]
-
-    <a href="http://inside-r.org/r-doc/stats/qqnorm">qqnorm(alturas$altura)
-    <a href="http://inside-r.org/r-doc/stats/qqline">qqline(alturas$altura, distribution = <a href="http://inside-r.org/r-doc/stats/qnorm">qnorm, col = "red")
-
-
+qqnorm(alturas$altura)
+qqline(alturas$altura, distribution = qnorm, col = "red")
+{{< / highlight >}}
 
 produce
 
@@ -45,13 +44,11 @@ donde, efectivamente, constatamos la normalidad de los datos con una pequeña sa
 
 ¿Estamos satisfechos, pues, con lo de la normalidad de los datos? Si hacemos
 
-
-
-    library(ggplot2)
-    ggplot(alturas, aes(x = altura, fill = sexo)) +
-      geom_density(alpha = 0.5)
-
-
+{{< highlight R "linenos=true" >}}
+library(ggplot2)
+ggplot(alturas, aes(x = altura, fill = sexo)) +
+    geom_density(alpha = 0.5)
+{{< / highlight >}}
 
 obtenemos
 

@@ -14,22 +14,18 @@ tags:
 
 Acabo de realizar (día 2015-04-27) la siguiente petición (autoexplicativa) al INE:
 
-
-
-<blockquote>Estimados señores:
-
-En sus páginas pueden descargarse los "Mapas municipales" para ser utilizados conjuntamente con el programa PC-Axis para visualizar datos estadísticos. Junto con los mapas aparecen unos ficheros, p.e., "Mapas a 01-01-2004.txt" en los que se indica que:
-
-"El usuario no está autorizado a redistribuir estos archivos sin previa autorización del INE, lo que ha aceptado al proceder a su instalación."
-
-Les escribo para solicitar la redistribución de dichos archivos. De hecho, al amparo de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, solicito de Vds. una licencia que clarifique los términos de reutilización y redistribución de dichos datos.
-
-Reciban un cordial saludo,
-
-Carlos J. Gil Bellosta
-http://www.datanalytics.com</blockquote>
-
-
+>Estimados señores:
+>
+>En sus páginas pueden descargarse los "Mapas municipales" para ser utilizados conjuntamente con el programa PC-Axis para visualizar datos estadísticos. Junto con los mapas aparecen unos ficheros, p.e., "Mapas a 01-01-2004.txt" en los que se indica que:
+>
+>"El usuario no está autorizado a redistribuir estos archivos sin previa autorización del INE, lo que ha aceptado al proceder a su instalación."
+>
+>Les escribo para solicitar la redistribución de dichos archivos. De hecho, al amparo de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, solicito de Vds. una licencia que clarifique los términos de reutilización y redistribución de dichos datos.
+>
+>Reciban un cordial saludo,
+>
+>Carlos J. Gil Bellosta
+>http://www.datanalytics.com
 
 Os mantendré informados del resultado.
 

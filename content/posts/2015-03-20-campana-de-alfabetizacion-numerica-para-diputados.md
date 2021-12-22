@@ -10,17 +10,14 @@ categories:
 tags:
 - anumerismo
 - números
+- política
 ---
 
-<blockquote>
-¿Sabe de números tu próximo representante?
-
-Al preguntar a los diputados actuales acerca de la probabilidad de obtener dos caras consecutivas al lanzar una moneda, solo el 40% de ellos obtuvieron la respuesta correcta. ¿Lo harán mejor lo siguientes?
-
-[...]
-</blockquote>
-
-
+>¿Sabe de números tu próximo representante?
+>
+>Al preguntar a los diputados actuales acerca de la probabilidad de obtener dos caras consecutivas al lanzar una moneda, solo el 40% de ellos obtuvieron la respuesta correcta. ¿Lo harán mejor lo siguientes?
+>
+>[...]
 
 Así, pero en inglés, comienza [esta nota](http://www.rss.org.uk/RSS/Influencing_Change/Lobby_election_candidates/RSS/Influencing_Change/Lobby_election_candidates.aspx) de la Royal Statistical Society que sugiere a los votantes (del RU, desgraciadamente) invitar a sus candidatos a formarse en los rudimentos de la estadística y el análisis y comprensión de datos.
 

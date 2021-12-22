@@ -42,11 +42,11 @@ El código que he preparado es (se parece a) el siguiente:
      
     # insert function
     myinsert <- function(arg1, arg2, arg3, arg4, arg5){
-      .jcall(ps, "V", "setDouble",    <a href="http://inside-r.org/r-doc/base/as.integer">as.integer(1), arg1)
-      .jcall(ps, "V", "setDouble",    <a href="http://inside-r.org/r-doc/base/as.integer">as.integer(2), arg2)
-      .jcall(ps, "V", "setDouble",    <a href="http://inside-r.org/r-doc/base/as.integer">as.integer(3), arg3)
-      .jcall(ps, "V", "setDouble",    <a href="http://inside-r.org/r-doc/base/as.integer">as.integer(4), arg4)
-      .jcall(ps, "V", "setString",    <a href="http://inside-r.org/r-doc/base/as.integer">as.integer(5), arg5)
+      .jcall(ps, "V", "setDouble",    as.integer(1), arg1)
+      .jcall(ps, "V", "setDouble",    as.integer(2), arg2)
+      .jcall(ps, "V", "setDouble",    as.integer(3), arg3)
+      .jcall(ps, "V", "setDouble",    as.integer(4), arg4)
+      .jcall(ps, "V", "setString",    as.integer(5), arg5)
       .jcall(ps, "V", "addBatch")
     }
      

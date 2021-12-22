@@ -26,7 +26,7 @@ El código que he utilizado el el siguiente:
 
 
         library(RJSONIO)
-        library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+        library(plyr)
         library(ggmap)
 
         raw  <- fromJSON("Historialdeubicaciones.json")

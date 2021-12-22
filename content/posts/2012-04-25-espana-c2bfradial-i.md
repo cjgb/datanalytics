@@ -20,7 +20,7 @@ Así que, en primer lugar, cargué los paquetes de R necesarios, un fichero que 
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/maptools">maptools)
+    library(maptools)
     library(pxR)
     library(igraph)
     library( <a href="http://inside-r.org/packages/cran/geosphere">geosphere)
@@ -38,7 +38,7 @@ Así que, en primer lugar, cargué los paquetes de R necesarios, un fichero que 
       distCosine( alfa, omega ) / 1000	# kms.
     }
 
-    aristas <- <a href="http://inside-r.org/r-doc/base/expand.grid">expand.grid(nodos$prov, nodos$prov)
+    aristas <- expand.grid(nodos$prov, nodos$prov)
     colnames(aristas) <- c("desde", "hasta")
     aristas <- aristas[ as.character(aristas$desde) < as.character(aristas$hasta), ]
 
@@ -49,14 +49,14 @@ Así que, en primer lugar, cargué los paquetes de R necesarios, un fichero que 
 
     grafo <- graph.data.frame(aristas, directed = F)
 
-    plot.grafo <- function(g, nodos, col = "black", <a href="http://inside-r.org/r-doc/graphics/text">text = F){
+    plot.grafo <- function(g, nodos, col = "black", text = F){
       tmp <- get.edges(g, V(g))
       vertices <- data.frame( (V(g)[get.edges(g, E(g))[,1]])$name,
                               (V(g)[get.edges(g, E(g))[,2]])$name, col = col )
 
       plot(nodos$lon, nodos$lat, xlab ="", ylab = "", xaxt = "n", yaxt="n")
-      if( <a href="http://inside-r.org/r-doc/graphics/text">text )
-        <a href="http://inside-r.org/r-doc/graphics/text">text(nodos$lon, nodos$lat,nodos$prov)
+      if( text )
+        text(nodos$lon, nodos$lat,nodos$prov)
 
       apply(vertices, 1, function(x){
         x1 <- nodos$lon[nodos$prov == x[1]]
@@ -117,7 +117,7 @@ Finalmente, simulé trayectos entre provincias con este criterio: una persona vi
 
     col <- peso
     col[col < median(col)] <- 0
-    col <- <a href="http://inside-r.org/r-doc/grDevices/rgb">rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
+    col <- rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
     plot.grafo(g2, nodos, col = col)
 
 

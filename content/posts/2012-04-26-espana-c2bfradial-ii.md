@@ -33,7 +33,7 @@ Así que enviemos una partida de pescado en malas condiciones a Mercamadrid, con
 
     col <- peso
     col[col < median(col)] <- 0
-    col <- <a href="http://inside-r.org/r-doc/grDevices/rgb">rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
+    col <- rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
     plot.grafo(g2, nodos, col = col)
 
     g3 <- delete.edges(g2,edges=E(g2)[peso < median(peso)])

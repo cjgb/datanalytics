@@ -22,7 +22,6 @@ De hecho, incluso en medicina, se habla de que no existen enfermedades sino enfe
 
 Por eso no me gusta definir big data en términos de herramientas o técnicas (que irán apareciendo y desapareciendo) sino de esa evolución hacia modelos personalizados de gestión, de márketing, de medicina, etc.
 
-
 _¿Son los usuarios realmente conscientes de a dónde van sus datos?_
 
 En absoluto. No lo saben ni los despreocupados ni los paranoicos. Todos yerran por defecto o por exceso. Ni hay un big brother ni se puede colgar cualquier cosa en cualquier sitio.
@@ -31,11 +30,9 @@ Creo que evolucionamos hacia un modelo de aldea o ciudad pequeña y que se perde
 
 Nos acostumbraremos.
 
-
 _¿Es una revolución silenciosa? En grandes casos como Netflix ya se sabe que la tecnología Big Data les ha sido muy útil para mejorar sus recomendaciones, pero ¿y el resto de las empresas?_
 
 Menos de lo que dan a entender. Me hacen gracia en ocasiones comentarios que leo por aquí y por allá del éxito de iniciativas big data que se han implementado en sitios. Yo siempre les pregunto: ¿sabéis cuáles de vuestros clientes (de la base de datos) están muertos? La verdad es que muy pocas empresas lo saben; o pueden estar seguras a ciencia cierta si uno de ellos está vivo o muerto (a no ser, claro está, que sean de esa minoría que ha operado recientemente). Y si no saben esa cosa tan básica,...
-
 
 _Empresas como Google, Facebook, Amazon, Apple… son empresas aventajadas en este tema, en un futuro ¿todas las empresas seguirán este modelo? ¿tienen realmente una ventaja sobre el resto?_
 
@@ -45,7 +42,6 @@ Me hace gracia que los bancos quieran ser Google. Y odio que, por el camino, dil
 
 Habrá mercados en los que esos operadores puedan hacer valer su ventaja; pero existirán muchos otros en los que no.
 
-
 Los modelos de periodismo de datos como el New York Times o The Guardian funcionan perfectamente, ¿son casos aislados o realmente se puede llegar a implantar el mismo modelo en todo el mundo?
 
 Eh... ¿perfectamente? The Guardian no deja de perder dinero. Además, no son los únicos ejemplos. The Economist hace algo parecido al periodismo de datos desde siempre; cuando comencé a leerlo hace más de 20 años me sorprendió cómo siempre trataba de argumentar alrededor de evidencia cuantitativa.
@@ -53,7 +49,6 @@ Eh... ¿perfectamente? The Guardian no deja de perder dinero. Además, no son lo
 La prensa económica ha dispuesto también y desde siempre de datos (frecuentes, abundantes, en tiempo casi real, etc.). Y no sé si le va demasiado bien. O si ha sabido estar a la altura de la promesa que parece que hace el nuevo periodismo de datos.
 
 Otro área del periodismo que ha contado desde siempre con datos frecuentes, masivos, etc. es el deportivo. Pero no sé si es ejemplo de nada.
-
 
 _¿La prensa actualmente tiene que valerse de números, mapas o de las matemáticas para analizar datos y descubrir hechos?_
 
@@ -63,15 +58,13 @@ Las cosas suceden en un sitio (mapas) y están asociadas a magnitudes (números)
 
 Dicho lo cual, todavía se ven artículos en prensa que analizan fenómenos argumentando alrededor de la etimología del nombre que les damos... ¡vaya pérdida de tiempo!
 
-
 _¿Son las RRSS la mejor fuente de datos? Hoy en día si quieres saber dónde está una persona, que hace o con quien, solo necesitas abrir Facebook. ¿Esto supone un “peligro”?_
 
 Hummmm... ¿cualquier persona? Discrepo. De ciertas personas, tal vez.
 
 ¿La mejor fuente de datos? ¿Publicas en tu timeline el saldo de tu cuenta corriente? Eso lo sabe tu banco, no Facebook. ¿Sabe Facebook lo que compras? Tampoco. Muchas compañías tienen pedazos de información sobre ti. Pero nadie tiene el perfil completo.
 
-
-_En 2002 se empezaron a almacenar más datos digitales que analógicos ¿es una moda o una revolución?  _
+_En 2002 se empezaron a almacenar más datos digitales que analógicos ¿es una moda o una revolución?_
 
 Ni moda ni revolución: es una evolucion. Una moda pasa. Pero, ¿volveremos a almacenar la información en libretas de papel? ¿A escribir cartas en folios? No.
 

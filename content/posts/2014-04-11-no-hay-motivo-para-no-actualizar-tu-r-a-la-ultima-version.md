@@ -19,6 +19,6 @@ Para quienes usen R en plataformas donde el _software_ no se actualiza _automág
 
 
 
-    <a href="http://inside-r.org/r-doc/utils/install.packages">install.packages("installr")
+    install.packages("installr")
     library(installr)
     updateR()

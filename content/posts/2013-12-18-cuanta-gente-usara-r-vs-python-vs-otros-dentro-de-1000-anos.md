@@ -25,7 +25,7 @@ Es el siguiente:
     mt <- c(227, 108, 33, 31, 140, 7, 58, 27, 68 + 73)
     mt <- matrix(mt, nrow = 3, byrow = T)
     colnames(mt) <- rownames(mt) <- cols
-    mt <- <a href="http://inside-r.org/r-doc/base/prop.table">prop.table(mt, 1)
+    mt <- prop.table(mt, 1)
 
     # la diagonalizo
     tmp <- eigen(mt)

@@ -15,16 +15,17 @@ tags:
 
 Usando [código de una entrada anterior](http://www.datanalytics.com/2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/) voy a medir [el poder de cada partido político de acuerdo con Banzhaf](https://en.wikipedia.org/wiki/Banzhaf_power_index) tras las elecciones de diciembre de 2015.
 
-
-
-    escannos <- c(123, 90, 69, 40, 9, 8, 6, 2, 2, 1)
-    names(escannos) <- c( "pp", "psoe", "pod", "c's", "erc", "dl", "pnv", "iu", "bildu", "cc")
-    banzhaf(escannos)
-
+{{< highlight R "linenos=true" >}}
+escannos <- c(123, 90, 69, 40, 9, 8, 6, 2, 2, 1)
+names(escannos) <- c( "pp", "psoe", "pod", "c's",
+    "erc", "dl", "pnv", "iu", "bildu", "cc")
+banzhaf(escannos)
+{{< / highlight >}}
 
 
 da 14 _coaliciones mínimas_,
-`
+
+{{< highlight R "linenos=true" >}}
 pp psoe
 pp pod
 pp c's erc dl
@@ -39,12 +40,14 @@ psoe pod erc pnv bildu
 psoe pod dl pnv iu bildu
 psoe pod dl pnv iu cc
 psoe pod dl pnv bildu cc
-`
+{{< / highlight >}}
+
 y un reparto de _poder_ que queda de esta manera:
-`
+
+{{< highlight R "linenos=true" >}}
  psoe   pod    pp   pnv    dl   erc   c's    iu bildu    cc
  57.1  57.1  50.0  50.0  50.0  42.8  42.8  35.7  35.7  21.4
-`
+{{< / highlight >}}
 
 Gráficamente,
 

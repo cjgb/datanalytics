@@ -10,6 +10,7 @@ categories:
 tags:
 - estadística
 - muestreo
+- sesgo
 ---
 
 El telón de Aquiles del _big data_ es el sesgo. Me gustaría hablar más de ello, pero me agarra de la pluma uno de esos NDAs. Así que hablaré de otra cosa.

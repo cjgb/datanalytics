@@ -31,7 +31,7 @@ me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurr
 
     library("grid")
 
-    <a href="http://inside-r.org/r-doc/grid/grid.newpage">grid.newpage()
+    grid.newpage()
 
     # datos iniciales
     base  <- rbind(c(0.4, .6, 0.6, .4), c(0, 0, 0.2, 0.2))
@@ -39,14 +39,14 @@ me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurr
     r     <- 1 / cos(alpha) / 2
 
     # funciones auxiliares
-    traslada <- function(<a href="http://inside-r.org/r-doc/graphics/rect">rect, vect) <a href="http://inside-r.org/r-doc/graphics/rect">rect + vect
-    encoge   <- function(<a href="http://inside-r.org/r-doc/graphics/rect">rect, r) <a href="http://inside-r.org/r-doc/graphics/rect">rect * r
-    rota     <- function(<a href="http://inside-r.org/r-doc/graphics/rect">rect, a) matrix(c(cos(a), sin(a), -sin(a), cos(a)), 2, 2) %*% <a href="http://inside-r.org/r-doc/graphics/rect">rect
+    traslada <- function(rect, vect) rect + vect
+    encoge   <- function(rect, r) rect * r
+    rota     <- function(rect, a) matrix(c(cos(a), sin(a), -sin(a), cos(a)), 2, 2) %*% rect
 
 
     <a href="http://inside-r.org/packages/cran/fractal">fractal <- function(base, nivel){
-      <a href="http://inside-r.org/r-doc/grid/grid.draw">grid.draw(<a href="http://inside-r.org/r-doc/grid/polygonGrob">polygonGrob(base[1,], base[2,],
-                            gp = <a href="http://inside-r.org/r-doc/grid/gpar">gpar(fill = ifelse(nivel < 5, "brown", "green"), col = 0)))
+      grid.draw(polygonGrob(base[1,], base[2,],
+                            gp = gpar(fill = ifelse(nivel < 5, "brown", "green"), col = 0)))
 
       if(nivel < 10){
         <a href="http://inside-r.org/packages/cran/fractal">fractal(traslada( encoge( rota( traslada(base, -base[,1]),  alpha), r) , base[,4]), nivel + 1)

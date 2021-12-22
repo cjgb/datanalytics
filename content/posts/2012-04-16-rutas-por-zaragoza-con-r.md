@@ -29,8 +29,8 @@ Hoy voy a ilustrar el uso de este paquete adaptando un ejemplo de sus autores pa
     library( osmar )
 
     api <- osmsource_api(url = "http://api.openstreetmap.org/api/0.6/")
-    <a href="http://inside-r.org/r-doc/graphics/box">box    <- corner_bbox( -0.90, 41.60, -0.85, 41.69 )
-    zgz <- get_osm(<a href="http://inside-r.org/r-doc/graphics/box">box, source = api)
+    box    <- corner_bbox( -0.90, 41.60, -0.85, 41.69 )
+    zgz <- get_osm(box, source = api)
 
 
 
@@ -38,13 +38,13 @@ En segundo lugar, voy a usar las funciones auxiliares del paquete para extraer l
 
 
 
-    hways_zgz <- subset(zgz, way_ids = <a href="http://inside-r.org/r-doc/utils/find">find(zgz, way(tags(k == "highway"))))
-    hways <- <a href="http://inside-r.org/r-doc/utils/find">find(hways_zgz, way(tags(k == "name")))
+    hways_zgz <- subset(zgz, way_ids = find(zgz, way(tags(k == "highway"))))
+    hways <- find(hways_zgz, way(tags(k == "name")))
     hways <- find_down(zgz, way(hways))
     hways_zgz <- subset(zgz, ids = hways)
 
     plot_ways(hways_zgz, col = "gray" )
-    <a href="http://inside-r.org/r-doc/graphics/title">title("Calles de Zaragoza")
+    title("Calles de Zaragoza")
 
 
 
@@ -57,11 +57,11 @@ A continuación, selecciono los puntos incial y final de mi ruta:
 
 
 
-    id <- <a href="http://inside-r.org/r-doc/utils/find">find(zgz, node(tags(v == "Moda infantil Bell")))[1]
+    id <- find(zgz, node(tags(v == "Moda infantil Bell")))[1]
     hway_start_node <- find_nearest_node(zgz, id, way(tags(k == "highway")))
     hway_start <- subset(zgz, node(hway_start_node))
 
-    id <- <a href="http://inside-r.org/r-doc/utils/find">find(zgz, node(tags(v == "La Salle Montemolín")))[1]
+    id <- find(zgz, node(tags(v == "La Salle Montemolín")))[1]
     hway_end_node <- find_nearest_node(zgz, id, way(tags(k == "highway")))
     hway_end <- subset(zgz, node(hway_end_node))
 

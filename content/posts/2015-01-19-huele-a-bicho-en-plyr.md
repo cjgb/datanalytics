@@ -11,7 +11,7 @@ tags:
 - r
 ---
 
-library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+library(plyr)
 
     dat <- data.frame( a = sample(c("x", "y"),    100, replace = T),
                        b = sample(c(TRUE, FALSE), 100, replace = T))

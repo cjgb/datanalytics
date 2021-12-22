@@ -23,30 +23,33 @@ Comienzo pues.
 Primero los datos:
 
 
+{{< highlight R "linenos=true" >}}
+library(tseries)
+library(CausalImpact)
 
-    library(<a href="http://inside-r.org/packages/cran/tseries">tseries)
-    library(CausalImpact)
+santander <- get.hist.quote(instrument="san.mc",
+    start= Sys.Date() - 365*3,
+    end= Sys.Date(), quote="AdjClose",
+    provider="yahoo", origin="1970-01-01",
+    compression="d", retclass="zoo")
 
-    santander <- get.hist.quote(instrument="san.mc", <a href="http://inside-r.org/r-doc/stats/start">start= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date() - 365*3,
-                                end= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date(), quote="AdjClose",
-                                provider="yahoo", origin="1970-01-01",
-                                compression="d", retclass="zoo")
+bbva <- get.hist.quote(instrument="bbva.mc",
+    start= Sys.Date() - 365*3,
+    end= Sys.Date(), quote="AdjClose",
+    provider="yahoo", origin="1970-01-01",
+    compression="d", retclass="zoo")
 
-    bbva <- get.hist.quote(instrument="bbva.mc", <a href="http://inside-r.org/r-doc/stats/start">start= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date() - 365*3,
-                           end= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date(), quote="AdjClose",
-                           provider="yahoo", origin="1970-01-01",
-                           compression="d", retclass="zoo")
+ibex <- get.hist.quote(instrument="^IBEX",
+    start= Sys.Date() - 365*3,
+    end= Sys.Date(), quote="AdjClose",
+    provider="yahoo", origin="1970-01-01",
+    compression="d", retclass="zoo")
 
-    ibex <- get.hist.quote(instrument="^IBEX", <a href="http://inside-r.org/r-doc/stats/start">start= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date() - 365*3,
-                           end= <a href="http://inside-r.org/r-doc/base/Sys.Date">Sys.Date(), quote="AdjClose",
-                           provider="yahoo", origin="1970-01-01",
-                           compression="d", retclass="zoo")
+obito.botin <- as.Date("2014-09-10")
 
-    obito.botin <- <a href="http://inside-r.org/r-doc/base/as.Date">as.Date("2014-09-10")
-
-    cotizaciones <- cbind(santander, bbva, ibex)
-    cotizaciones <- cotizaciones[!is.na(cotizaciones$AdjClose.ibex)]
-
+cotizaciones <- cbind(santander, bbva, ibex)
+cotizaciones <- cotizaciones[!is.na(cotizaciones$AdjClose.ibex)]
+{{< / highlight >}}
 
 
 Con lo anterior, he bajado las cotizaciones diarias de las acciones del Banco de Santander, las del BBVA y la del IBEX 35 durante los últimos tres años. Eso deja la fecha de la muerte del Sr. Botín, aproximadamente, en la mitad.
@@ -56,37 +59,30 @@ Los datos que descargo de Yahoo! son el [cierre ajustado](https://help.yahoo.com
 Ahora voy a ver qué me cuenta [`CausalImpact`](https://google.github.io/CausalImpact/CausalImpact.html), i.e.,
 
 
-
-    impact <- CausalImpact(cotizaciones,
-                           c(min(index(cotizaciones)), obito.botin - 1),
-                           c(obito.botin, max(index(cotizaciones))))
-
-
+{{< highlight R "linenos=true" >}}
+impact <- CausalImpact(cotizaciones,
+    c(min(index(cotizaciones)), obito.botin - 1),
+    c(obito.botin, max(index(cotizaciones))))
+{{< / highlight >}}
 
 sobre el efecto causal motivo de esta entrada. Lo que hace la función, lo miráis por ahí. Pero mirad los resultados:
 
-
-
-    plot(impact, metrics = c("original", "pointwise"))
-
-
+{{< highlight R "linenos=true" >}}
+plot(impact, metrics = c("original", "pointwise"))
+{{< / highlight >}}
 
 genera
 
 ![causal_impact_santander](/wp-uploads/2016/04/causal_impact_santander.png)
 
-
 que indica (y `summary(impact)` cuantifica) cómo, de acuerdo con los tejemanejes del paquete en cuestión, parece haber un efecto lesivo para los intereses de los accionistas muy significativo.
 
 Y ahora, las concomitancias:
 
-
-
-
-	  * Esta entrada debe mucho a una alumna mía que prefiere cuyo nombre prefiere que no figure porque trabaja en una empresa del susodicho grupo.
-	  * La causalidad es problemática y pudiera ser, incluso, en dirección contraria (que la muerte se debiese a...)
-	  * Abundando en lo anterior, dada la complejidad del mundo en que vivimos, es plausible que la causa fuese otra.
-	  * Me habría sentido más cómodo [estudiando `diff(cotizaciones)` en lugar de `cotizaciones`](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), pero en tal caso el p-valor se crece más allá del 0.05.
+* Esta entrada debe mucho a una alumna mía que prefiere cuyo nombre prefiere que no figure porque trabaja en una empresa del susodicho grupo.
+* La causalidad es problemática y pudiera ser, incluso, en dirección contraria (que la muerte se debiese a...)
+* Abundando en lo anterior, dada la complejidad del mundo en que vivimos, es plausible que la causa fuese otra.
+* Me habría sentido más cómodo [estudiando `diff(cotizaciones)` en lugar de `cotizaciones`](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), pero en tal caso el p-valor se crece más allá del 0.05.
 
 
 

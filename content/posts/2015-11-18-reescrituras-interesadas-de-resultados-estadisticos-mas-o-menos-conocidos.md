@@ -10,6 +10,7 @@ categories:
 tags:
 - estadística
 - plagio
+- mala ciencia
 ---
 
 Traigo hoy dos artículos interesantes sobre un mismo tema: la _ciencia de datos_ reescribiendo de manera interesada resultados estadísticos más o menos conocidos, presentando como nuevos los que no lo son del todo y omitiendo interesadamente referecias bibliográficas.

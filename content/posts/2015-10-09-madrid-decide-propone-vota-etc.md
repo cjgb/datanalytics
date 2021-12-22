@@ -30,32 +30,32 @@ Con esos antecedentes, ¿habrá alguna petición que alcance alguna vez los 53k 
 
 Con el muy perfectible
 
+{{< highlight R "linenos=true" >}}
+library(rvest)
 
+ids <- 1:3000
 
-    library(rvest)
+#ids <- 319:321
 
-    ids <- 1:3000
+res <- sapply(ids, function(i){
+  print(i)
+  url <- paste("https://decide.madrid.es/proposals/", i, sep = "")
+  out <- try(kk <- html(url), silent = T)
 
-    #ids <- 319:321
+  if (inherits(out, "try-error"))
+    return(NA)
 
-    res <- sapply(ids, function(i){
-      print(i)
-      url <- paste("https://decide.madrid.es/proposals/", i, sep = "")
-      out <- try(kk <- html(url), silent = T)
+  apoyos <- html_node(kk,
+    xpath = '//span[@class="total-supports"]')
+  apoyos <- html_text(apoyos)
+})
 
-      if (inherits(out, "try-error"))
-        return(NA)
+#save(res, file ="/home/carlos/visitas_madrid_decide_20150924.Rdat")
 
-      apoyos <- html_node(kk, xpath = '//span[@class="total-supports"]')
-      apoyos <- html_text(apoyos)
-    })
-
-    #save(res, file ="/home/carlos/visitas_madrid_decide_20150924.Rdat")
-
-    kk <- sapply(res, function(x) gsub("apoyo.*", "", x))
-    kk <- sapply(kk, function(x) as.numeric(gsub("\\.", "", x)))
-    names(kk) <- NULL
-
+kk <- sapply(res, function(x) gsub("apoyo.*", "", x))
+kk <- sapply(kk, function(x) as.numeric(gsub("\\.", "", x)))
+names(kk) <- NULL
+{{< / highlight >}}
 
 
 extraje el número de apoyos de las propuestas el 24 de septiembre y hoy 8 de octubre. En la última fecha, la distribución de apoyos era

@@ -28,31 +28,31 @@ Me preocupa aún más el hecho de que se ignoren los intervalos de confianza, de
 Analicemos los datos como se espera que hagan los medios de una sociedad madura. El código
 
 
+{{< highlight R "linenos=true" >}}
+library(rvest)
+library(plyr)
+library(ggplot2)
 
-    library(rvest)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
-    library(ggplot2)
+url <- "http://www.20minutos.es/deportes/estadisticas/liga/player_leaders.asp?category=107"
 
-    url <- "http://www.20minutos.es/deportes/estadisticas/liga/player_leaders.asp?category=107"
+pagina <- html(url, encoding = "UTF8")
+tablas <- html_nodes(pagina, xpath='//*/table')
+tabla <- html_table(tablas[2], header = T)[[1]]
 
-    pagina <- html(url, encoding = "UTF8")
-    tablas <- html_nodes(pagina, xpath='//*/table')
-    tabla <- html_table(tablas[2], header = T)[[1]]
+tabla <- tabla[, c("Nombre", "Disp.RP", "Par")]
+colnames(tabla) <- c("portero", "disparos", "paradas")
 
-    tabla <- tabla[, c("Nombre", "Disp.RP", "Par")]
-    colnames(tabla) <- c("portero", "disparos", "paradas")
+res <- ddply(tabla, .(portero), transform,
+      lower = prop.test(paradas, disparos)$conf.int[1],
+      upper = prop.test(paradas, disparos)$conf.int[2],
+      prop  = paradas / disparos)
 
-    res <- ddply(tabla, .(portero), transform,
-          lower = <a href="http://inside-r.org/r-doc/stats/prop.test">prop.test(paradas, disparos)$conf.int[1],
-          upper = <a href="http://inside-r.org/r-doc/stats/prop.test">prop.test(paradas, disparos)$conf.int[2],
-          prop  = paradas / disparos)
+res$portero <- reorder(res$portero, res$prop, I)
 
-    res$portero <- reorder(res$portero, res$prop, I)
-
-    ggplot(res, aes(y = portero, x = prop, xmin = lower, xmax = upper)) +
-      geom_point() + geom_errorbarh()
-
-
+ggplot(res, aes(y = portero, x = prop,
+  xmin = lower, xmax = upper)) +
+  geom_point() + geom_errorbarh()
+{{< / highlight >}}
 
 descarga el número de tiros a puerta y el de paradas de una página donde constan (los porcentajes son los mismos, luego hay confianza en que la fuente sea común) y genera
 
@@ -62,25 +62,25 @@ descarga el número de tiros a puerta y el de paradas de una página donde const
 donde se aprecia un manifiesto solapamiento de los intervalos de confianza (al 95%) construidos con `prop.test`. Las diferencias dejan de parecer ser tan manifiestas. Aún más,
 
 
+{{< highlight R "linenos=true" >}}
+library(lattice)
 
-    library(<a href="http://inside-r.org/packages/cran/lattice">lattice)
+foo <- function(p1, p2){
+  paradas1  <- tabla$paradas[tabla$portero == p1]
+  paradas2  <- tabla$paradas[tabla$portero == p2]
+  disparos1 <- tabla$disparos[tabla$portero == p1]
+  disparos2 <- tabla$disparos[tabla$portero == p2]
+  prop.test(c(paradas1, paradas2), c(disparos1, disparos2))$p.value
+}
 
-    foo <- function(p1, p2){
-      paradas1  <- tabla$paradas[tabla$portero == p1]
-      paradas2  <- tabla$paradas[tabla$portero == p2]
-      disparos1 <- tabla$disparos[tabla$portero == p1]
-      disparos2 <- tabla$disparos[tabla$portero == p2]
-      <a href="http://inside-r.org/r-doc/stats/prop.test">prop.test(c(paradas1, paradas2), c(disparos1, disparos2))$p.value
-    }
+diferencias <- outer(tabla$portero, tabla$portero, Vectorize(foo))
+dimnames(diferencias) <- list(tabla$portero, tabla$portero)
 
-    diferencias <- outer(tabla$portero, tabla$portero, Vectorize(foo))
-    dimnames(diferencias) <- list(tabla$portero, tabla$portero)
+significativas <- diferencias
+significativas[significativas > 0.1] <- 0.1
 
-    significativas <- diferencias
-    significativas[significativas > 0.1] <- 0.1
-
-    <a href="http://inside-r.org/r-doc/lattice/levelplot">levelplot(significativas)
-
+levelplot(significativas)
+{{< / highlight >}}
 
 
 compara dos a dos los porteros usando `prop.test` y permite construir
@@ -94,9 +94,7 @@ Puede que Casillas no sea el mejor portero del mundo. Pero le da cien vueltas a 
 
 Y cierro con tres comentarios:
 
-
-
-	  * A veces, los números no dicen nada y es mejor callarse. Afortunadamente, estoy en una situación en que me puedo permitir aplicarme el cuento. A otros se les exigen resultados, sean ciertos o no, para ganarse el pan. ¡Pobrecicos!
-	  * La eficiencia de un hospital se mide en términos de estadísticos ajustados por riesgo. No es lo mismo dejarse morir a un infartado que a alguien con una dolencia mucho más leve. Igualmente, no es lo mismo parar un tiro a quemarropa que otro flojón desde fuera del área que da tiempo al portero a peinarse el flequillo. Afortunadamente, nuestra sociedad no está tan enferma como para recoger información detallada sobre la peligrosidad de los tiros a puerta.
-	  * Pese a mis manifestaciones de rigor matemático, he sido muy consciente mientras escribía lo que precede de [este artículo](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf) en el que se critica lo que he hecho. A ver si saco tiempo estos días para rehacer el estudio como Gelman manda.
+* A veces, los números no dicen nada y es mejor callarse. Afortunadamente, estoy en una situación en que me puedo permitir aplicarme el cuento. A otros se les exigen resultados, sean ciertos o no, para ganarse el pan. ¡Pobrecicos!
+* La eficiencia de un hospital se mide en términos de estadísticos ajustados por riesgo. No es lo mismo dejarse morir a un infartado que a alguien con una dolencia mucho más leve. Igualmente, no es lo mismo parar un tiro a quemarropa que otro flojón desde fuera del área que da tiempo al portero a peinarse el flequillo. Afortunadamente, nuestra sociedad no está tan enferma como para recoger información detallada sobre la peligrosidad de los tiros a puerta.
+* Pese a mis manifestaciones de rigor matemático, he sido muy consciente mientras escribía lo que precede de [este artículo](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf) en el que se critica lo que he hecho. A ver si saco tiempo estos días para rehacer el estudio como Gelman manda.
 

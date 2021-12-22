@@ -24,8 +24,6 @@ El carca de hogaño que escribe lo que arriba enlazo está a favor de que se hag
 
 Termino con un par de predicciones:
 
-
-
-	  * ni nadie va a realizar una petición de esos datos amparándose en la Ley de Transparencia
-	  * ni se van a filtrar.
+* ni nadie va a realizar una petición de esos datos amparándose en la Ley de Transparencia
+* ni se van a filtrar.
 

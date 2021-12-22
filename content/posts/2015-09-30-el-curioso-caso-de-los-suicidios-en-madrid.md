@@ -10,6 +10,7 @@ categories:
 tags:
 - ine
 - suicidio
+- madrid
 ---
 
 Uno de esos descubrimientos del XIX fue que, mientras que los seres humanos tenemos (cierta) libertad de acción, en agrupaciones humanas amplias de distintos lugares y fechas existían ciertas regularidades en números tales como la tasa de suicidio.

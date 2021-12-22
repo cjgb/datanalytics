@@ -14,27 +14,23 @@ tags:
 
 Alguien que no quiero nombrar (pero que sabe de sobra quién es) me comentaba el otro día algo que no sabía de la asignación en R: las presuntas diferencias entre `<-` e `=`. Que en resumen eran:
 
-
-
-	  * ambos asignan
-	  * pero `=` hace una copia del objeto asignado
-	  * mientras que `<-` no.
-
+* ambos asignan
+* pero `=` hace una copia del objeto asignado
+* mientras que `<-` no.
 
 Como consecuencia, `<-` es más eficiente desde el punto de vista de la gestión de la memoria.
 
 ¿Será cierto? ¿Qué nos dirá [`tracemem`](http://www.datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/) al respecto? No seáis vagos y probad
 
+{{< highlight R "linenos=true" >}}
+a <- 1:10
+b.0 <- a
+b.1 = a
 
-
-    a <- 1:10
-    b.0 <- a
-    b.1 = a
-
-    tracemem(a)
-    tracemem(b.0)
-    tracemem(b.1)
-
+tracemem(a)
+tracemem(b.0)
+tracemem(b.1)
+{{< / highlight >}}
 
 
 por vuestra cuenta.

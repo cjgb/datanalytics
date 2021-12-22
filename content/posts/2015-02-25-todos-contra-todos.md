@@ -10,6 +10,7 @@ categories:
 tags:
 - outer
 - r
+- trucos
 ---
 
 ¿Cómo se suman los cuadrados de un vector de números en un paradigma _tradicional_ de programación? Se crea un bucle que lo recorre y que guarda las sumas parciales en un acumulador. Sumamente económico en términos de memoria: apenas consume unos pocos bytes en la pila. La versión funcional de la cosa se parece más a `sum(x^2)`, que implica generar un vector de cuadrados y dilapidar memoria.
@@ -25,11 +26,10 @@ Esta función tiene características de _map_ y de _reduce_ a un tiempo. _Es_ un
 Un ejemplo de uso (basado en una pregunta en [R-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es)) es obtener la suma de las parejas (distintas) de números del vector `x <- c(24,12,45,68,45)`. Una (y mi) solución es:
 
 
-
-    x <- c(24,12,45,68,45)
-    tmp <- outer(x, x, "*")
-    sum(tmp[<a href="http://inside-r.org/r-doc/base/lower.tri">lower.tri(tmp)])
-
-
+{{< highlight R "linenos=true" >}}
+x <- c(24,12,45,68,45)
+tmp <- outer(x, x, "*")
+sum(tmp[lower.tri(tmp)])
+{{< / highlight >}}
 
 Otras igual más interesantes están en la ayuda de la función. Y las más, más interesantes de todas van a estar en tu línea de comandos pronto. Seguro.

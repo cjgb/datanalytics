@@ -40,7 +40,7 @@ Supongamos que hay que crear un clasificador que distinga entre puntos rojos y v
 
     muestra <- function( n, centros, sigma ){
     	n.x.centro <- sample( nrow( centros ), n, replace = T )
-    	tmp <- <a href="http://inside-r.org/r-doc/MASS/mvrnorm">mvrnorm( n, mu = c(0,0), Sigma = diag( 2 ) * sigma )
+    	tmp <- mvrnorm( n, mu = c(0,0), Sigma = diag( 2 ) * sigma )
     	tmp <- tmp + centros[n.x.centro,]
     	tmp
     }
@@ -91,11 +91,11 @@ Los puntos rojos están distribuidos según $latex P(x|R)$, una mezcla de tres d
     bayes.r <- veros.malla( malla, c.r, sigma )
     bayes.v <- veros.malla( malla, c.v, sigma )
 
-    <a href="http://inside-r.org/r-doc/graphics/contour">contour(x=tmp,y=tmp,z=matrix(bayes.r, length(tmp)) )
-    <a href="http://inside-r.org/r-doc/graphics/points">points(muestra.r$x, muestra.r$y,col="red")
+    contour(x=tmp,y=tmp,z=matrix(bayes.r, length(tmp)) )
+    points(muestra.r$x, muestra.r$y,col="red")
 
-    <a href="http://inside-r.org/r-doc/graphics/contour">contour(x=tmp,y=tmp,z=matrix(bayes.v, length(tmp)) )
-    <a href="http://inside-r.org/r-doc/graphics/points">points(muestra.v$x, muestra.v$y,col="green")
+    contour(x=tmp,y=tmp,z=matrix(bayes.v, length(tmp)) )
+    points(muestra.v$x, muestra.v$y,col="green")
 
 
 
@@ -148,10 +148,10 @@ y, no habiendo penalizaciones asimétricas según la dirección del error, el cr
 
 
 
-    <a href="http://inside-r.org/r-doc/graphics/contour">contour(x=tmp,y=tmp,
+    contour(x=tmp,y=tmp,
             z=matrix(bayes.v - bayes.r, length(tmp)),
             levels = 0, labels = "" )
-    <a href="http://inside-r.org/r-doc/graphics/points">points( mi.muestra$x, mi.muestra$y, col = as.character(mi.muestra$clase) )
+    points( mi.muestra$x, mi.muestra$y, col = as.character(mi.muestra$clase) )
 
 
 

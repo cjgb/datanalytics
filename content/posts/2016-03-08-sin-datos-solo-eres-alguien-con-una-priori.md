@@ -16,13 +16,7 @@ Que es una manera de matizar
 
 ![sin_datos_deming](/wp-uploads/2016/03/sin_datos_deming.png)
 
-
 Porque, recordemos,
 
-
-
-	  * no solo con datos tomamos decisiones informadas: las prioris (experiencia cuantificada) tienen su importancia
-	  * no podemos obtener datos que justifiquen todas, todas, todas las decisiones.
-
-
-
+* no solo con datos tomamos decisiones informadas: las prioris (experiencia cuantificada) tienen su importancia
+* no podemos obtener datos que justifiquen todas, todas, todas las decisiones.

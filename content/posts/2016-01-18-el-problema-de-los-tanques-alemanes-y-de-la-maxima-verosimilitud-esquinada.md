@@ -17,9 +17,7 @@ El problema en cuestión, que se ve, surgió durante la II Guerra Mundial, es el
 
 Si se capturan `k`, la distribución del máximo número observado, `m`, en función del número no observado (nuestro parámetro) de tanques es
 
-
-$latex f(N;m,k)=\frac{\binom{m-1}{k-1}}{\binom{N}{k}}$
-
+$$ f(N;m,k)=\frac{\binom{m-1}{k-1}}{\binom{N}{k}}$$
 
 y como esta función es decreciente en $latex N$, la estimación por máxima verosimilitud es $latex \hat{N} = m$.
 
@@ -30,11 +28,9 @@ Obviamente, es una infraestimación. Y plantea un problema conocido: el del dile
 
 La [Wikipedia propone dos soluciones](https://en.wikipedia.org/wiki/German_tank_problem) distintas para este problema. La primera es la que me enseñaron en la universidad y que nunca acabé de comprender del todo:
 
-
-
-	  1. Se supone `N` conocido.
-	  2. Se calcula el valor medio de `m` para dicho `N`.
-	  3. Se estima el valor de `N` como aquél que daría una media igual al valor observado, `m`; es la que aparece, de hecho, en rojo en el gráfico anterior.
+1. Se supone `N` conocido.
+2. Se calcula el valor medio de `m` para dicho `N`.
+3. Se estima el valor de `N` como aquél que daría una media igual al valor observado, `m`; es la que aparece, de hecho, en rojo en el gráfico anterior.
 
 Podría llamarse _método de estimación por máxima media_.
 

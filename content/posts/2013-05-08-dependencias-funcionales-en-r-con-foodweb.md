@@ -22,8 +22,8 @@ La principal sospechosa era la función `daply` (del paquete `plyr`) que parecí
 
 
     library(<a href="http://inside-r.org/packages/cran/mvbutils">mvbutils)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
-    foodweb(find.funs("package:plyr"), <a href="http://inside-r.org/r-doc/rpart/prune">prune = "laply")
+    library(plyr)
+    foodweb(find.funs("package:plyr"), prune = "laply")
 
 
 

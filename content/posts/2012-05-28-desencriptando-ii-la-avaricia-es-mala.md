@@ -84,7 +84,7 @@ Si ejecuto el código que presenté el otro día,
         print( c(p.0, p.1) )
         cadena <- cadena.alt
         p.0 <- p.1
-        print( cadena ); <a href="http://inside-r.org/r-doc/utils/flush.console">flush.console()
+        print( cadena ); flush.console()
       }
     }
 
@@ -163,7 +163,7 @@ Lo que propongo hoy es una pequeña modificación del algoritmo del otro día pa
       if( p.1 > p.0 | azar < p.1 / p.0 ){
         cadena <- cadena.alt
         p.0 <- p.1
-        a <- paste(cadena, <a href="http://inside-r.org/r-doc/nlme/collapse">collapse ="")
+        a <- paste(cadena, collapse ="")
         print( c(p.0, p.1) ); print(a)
         contador[a] <- ifelse( is.na(contador[a]), 1, contador[a] + 1)
       }

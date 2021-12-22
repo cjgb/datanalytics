@@ -115,7 +115,7 @@ Los lectores interesados en el asunto pueden encontrar gratificante el ejercicio
 
 
 
-    mi.red <- <a href="http://inside-r.org/packages/cran/network">network(25, directed=FALSE, <a href="http://inside-r.org/r-doc/stats/density">density=0.1)
+    mi.red <- <a href="http://inside-r.org/packages/cran/network">network(25, directed=FALSE, density=0.1)
 
 
 

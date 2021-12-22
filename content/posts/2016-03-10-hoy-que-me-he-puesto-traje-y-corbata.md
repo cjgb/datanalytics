@@ -19,7 +19,6 @@ A esos que gastan traje y corbata como yo hoy les horroriza la varianza. Le espa
 
 ![promedios_encuestas](/wp-uploads/2016/03/promedios_encuestas.jpg)
 
-
 y que invitan a desasosegadoras reflexiones.
 
 Es la primera vez que veo uno de tales gráficos en la prensa española.

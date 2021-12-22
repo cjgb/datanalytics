@@ -20,25 +20,20 @@ Para el PP:
 
 ![sesgo_encuestas_pp](/wp-uploads/2016/05/sesgo_encuestas_pp.png)
 
-
 Para el PSOE:
 
 ![sesgo_encuestas_psoe](/wp-uploads/2016/05/sesgo_encuestas_psoe.png)
-
 
 Para Podemos y cía:
 
 ![sesgo_encuestas_podemos](/wp-uploads/2016/05/sesgo_encuestas_podemos.png)
 
-
 Para Ciudadanos:
 
 ![sesgo_encuestas_ciudadanos](/wp-uploads/2016/05/sesgo_encuestas_ciudadanos.png)
 
-
 Para IU:
 
 ![sesgo_encuestas_iu](/wp-uploads/2016/05/sesgo_encuestas_iu.png)
-
 
 En otra entrada, datos y métodos. Hoy solo adelanto que el eje horizontal mide puntos porcentuales y que las encuestas se remontan a enero de 2015.

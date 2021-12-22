@@ -20,16 +20,15 @@ Sugiere José Luis el uso del paquete [`effects`](http://cran.r-project.org/web/
 
 Nos copia el código
 
-
-
-    library(<a href="http://inside-r.org/r-doc/stats/effects">effects)
-    mod.cowles <- <a href="http://inside-r.org/r-doc/stats/glm">glm(volunteer ~ sex + neuroticism*extraversion,
-                      data = Cowles, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial)
-    eff.cowles <- allEffects(mod.cowles,
-                             xlevels = list(extraversion = seq(0, 24, 6)),
-                             given.values = c(sexmale = 0.5))
-    plot(eff.cowles, type = "response")
-
+{{< highlight R "linenos=true" >}}
+library(effects)
+mod.cowles <- glm(volunteer ~ sex + neuroticism*extraversion,
+    data = Cowles, family = binomial)
+eff.cowles <- allEffects(mod.cowles,
+    xlevels = list(extraversion = seq(0, 24, 6)),
+    given.values = c(sexmale = 0.5))
+plot(eff.cowles, type = "response")
+{{< / highlight >}}
 
 
 que genera
@@ -40,12 +39,11 @@ que genera
 un gráfico en el que se aprecia el efecto de las variables en la probabilidad de `volunteer`. Entre otras cosas, nos indica el efecto de `sex`, que coincide con el que podemos obtener haciendo
 
 
-
-    tapply(Cowles$volunteer == "yes", Cowles$sex, mean)
-    #female      male
-    #0.4474359 0.3868955
-
-
+{{< highlight R "linenos=true" >}}
+tapply(Cowles$volunteer == "yes", Cowles$sex, mean)
+#female      male
+#0.4474359 0.3868955
+{{< / highlight >}}
 
 y el mucho más jugoso análisis del efecto cruzado, en el que se aprecia la desigual influencia de una variable según el nivel de la otra (y supongo que habrá maneras de _invertir_ la gráfica).
 

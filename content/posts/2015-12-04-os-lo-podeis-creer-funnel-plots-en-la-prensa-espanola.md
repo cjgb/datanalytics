@@ -28,10 +28,8 @@ Al problema de la varianza de las tasas en poblaciones pequeñas, (el mismo que 
 
 En resumen,
 
-
-
-	  1. invitados estáis todos a hojear, si no leer en profundidad el reportaje, y
-	  2. por agradecida dése [Leyre Pejenaute](https://twitter.com/leyretxuu) (qué envidia de apellido) por haber confiado y hecho caso al viejo gruñón que suscribe.
+1. invitados estáis todos a hojear, si no leer en profundidad el reportaje, y
+2. por agradecida dése [Leyre Pejenaute](https://twitter.com/leyretxuu) (qué envidia de apellido) por haber confiado y hecho caso al viejo gruñón que suscribe.
 
 
 

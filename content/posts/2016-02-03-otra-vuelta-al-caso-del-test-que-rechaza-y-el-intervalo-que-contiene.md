@@ -16,32 +16,26 @@ Esta visita adicional al tema es consecuencia de mi revisión de todo el asunto 
 
 En particular,
 
+{{< highlight R "linenos=true" >}}
+binom.test(79, 100, 0.7)
 
-
-    <a href="http://inside-r.org/r-doc/stats/binom.test">binom.test(79, 100, 0.7)
-
-    # Exact binomial test
-    #
-    # data:  79 and 100
-    # number of successes = 79, number of trials = 100, p-value = 0.04982
-    # alternative hypothesis: true probability of success is not equal to 0.7
-    # 95 percent confidence interval:
-    #   0.6970846 0.8650563
-    # sample estimates:
-    #   probability of success
-    # 0.79
-
-
+# Exact binomial test
+#
+# data:  79 and 100
+# number of successes = 79, number of trials = 100, p-value = 0.04982
+# alternative hypothesis: true probability of success is not equal to 0.7
+# 95 percent confidence interval:
+#   0.6970846 0.8650563
+# sample estimates:
+#   probability of success
+# 0.79
+{{< / highlight >}}
 
 es un caso en el que la prueba rechaza (al nivel de confianza del 5% siempre) y el intervalo de confianza del parámetro cubre el valor 0.7 de partida.
 
 Un comentarista a mi entrada anterior excusaba la incongruencia en estos términos:
 
-
-
-<blockquote>El test binomial es exacto mientras que el cálculo de CI es una aproximación, de ahí la discrepancia.</blockquote>
-
-
+>El test binomial es exacto mientras que el cálculo de CI es una aproximación, de ahí la discrepancia.
 
 Si fuese eso, solo un error de aproximación (y convengo en que los números elegidos para el ejemplo anterior son limítrofes y ponen a prueba la precisión de las aproximaciones), quedaría satisfecho. Pero hay más.
 

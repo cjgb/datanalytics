@@ -47,15 +47,15 @@ Y, ¿cómo analizamos esta red bayesiana? Podemos usar R, Google para ubicar [es
     yn <- c("yes", "no")
     a <- cptable(~ asia, values = c(1, 99), levels = yn)
     t.a <- cptable(~ tub + asia, values = c(5, 95, 1, 99), levels = yn)
-    <a href="http://inside-r.org/r-doc/mgcv/s">s <- cptable(~ smoke, values = c(5,5), levels = yn)
-    l.s <- cptable(~ <a href="http://inside-r.org/r-doc/survival/lung">lung + smoke, values = c(1, 9, 1, 99), levels = yn)
+    s <- cptable(~ smoke, values = c(5,5), levels = yn)
+    l.s <- cptable(~ lung + smoke, values = c(1, 9, 1, 99), levels = yn)
     b.s <- cptable(~ bronc + smoke, values = c(6, 4, 3, 7), levels = yn)
     x.e <- cptable(~ xray + either, values = c(98, 2, 5, 95), levels = yn)
     d.be <- cptable(~ dysp + bronc + either, values = c(9, 1, 7, 3, 8, 2, 1, 9), levels = yn)
-    e.lt <- ortable(~ either + <a href="http://inside-r.org/r-doc/survival/lung">lung + tub, levels = yn)
+    e.lt <- ortable(~ either + lung + tub, levels = yn)
 
-    plist <- compileCPT( list(a, t.a, <a href="http://inside-r.org/r-doc/mgcv/s">s, l.s, b.s, e.lt, x.e, d.be))
-    BN <-<a href="http://inside-r.org/packages/cran/gRain">grain(plist,<a href="http://inside-r.org/r-doc/stats/smooth">smooth=0)
+    plist <- compileCPT( list(a, t.a, s, l.s, b.s, e.lt, x.e, d.be))
+    BN <-<a href="http://inside-r.org/packages/cran/gRain">grain(plist,smooth=0)
 
 
 

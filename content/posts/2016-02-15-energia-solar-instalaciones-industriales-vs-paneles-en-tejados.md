@@ -17,7 +17,6 @@ Llegó a mis manos un [documento](https://www.lazard.com/media/2390/lazards-leve
 
 ![precio_energia_solar](/wp-uploads/2016/02/precio_energia_solar.png)
 
-
 Muestra el precio del MWh en dólares y sirve para comparar, por ejemplo, el coste de los paneles que la gente instala en sus tejados (184-300) con el de instalaciones industriales (50-70).
 
 Las conclusiones, de nuevo, de cada cual.

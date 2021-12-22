@@ -20,7 +20,7 @@ Me pasó el otro día [Federico Castanedo](https://twitter.com/overfit) un enlac
 
 
 
-    <a href="http://inside-r.org/r-doc/utils/install.packages">install.packages("swirl")
+    install.packages("swirl")
     library("swirl")
     swirl()
 

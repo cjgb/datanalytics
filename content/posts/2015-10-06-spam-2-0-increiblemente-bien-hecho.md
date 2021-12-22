@@ -14,36 +14,27 @@ tags:
 
 Recibí recientemente este correo (con los enlaces que aparecen en él; solo he eliminado el apellido de la remitente):
 
-
-
-<blockquote>
-Subject: Carlos - Scala resource
-
-Hi Carlos,
-
-I was doing some research for our students here at Udemy on people using Scala resources and when I came across [your site](http://www.datanalytics.com/2014/06/12/hoy-he-echado-de-menos-scala/), saw you were using the tutorial from [Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language)).
-
-We really like that resource, and actually created our own that we think is a perfect supplement! This [Scala tutorial](https://blog.udemy.com/scala-tutorial-getting-started-with-scala/) is text-and image based, easy to search for quick answers, and super helpful for anyone: as a base for learning or as a reference guide.
-
-Do you think this would be a helpful resource? If so, please use it on your site. I'd love to see more people learning Scala!
-
-Thanks so much,
-Molly
-
-Molly [...] | molly.[...]@udemy.com
-</blockquote>
-
-
+>Subject: Carlos - Scala resource
+>
+>Hi Carlos,
+>
+>I was doing some research for our students here at Udemy on people using Scala resources and when I came across [your site](http://www.datanalytics.com/2014/06/12/hoy-he-echado-de-menos-scala/), saw you were using the tutorial from [Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language)).
+>
+>We really like that resource, and actually created our own that we think is a perfect supplement! This [Scala tutorial](https://blog.udemy.com/scala-tutorial-getting-started-with-scala/) is text-and image based, easy to search for quick answers, and super helpful for anyone: as a base for learning or as a reference guide.
+>
+>Do you think this would be a helpful resource? If so, please use it on your site. I'd love to see more people learning Scala!
+>
+>Thanks so much,
+>Molly
+>
+>Molly [...] | molly.[...]@udemy.com
 
 El correo:
 
-
-
-	  * Es _spam_: no solicitado, etc.
-	  * Menciona, efectivamente, una entrada de mi blog en la que hablo de Scala (¡muy de pasada!).
-	  * El cuerpo del mensaje (y el asunto) parecen creados por una máquina (o un humano con mucha prisa): en el fondo, no tienen sentido.
-	  * La entrada a la que se refieren está escrita en español y no tiene nada que ver con el mensaje.
-          * ¡Pero lo que me ofrecen es relevante! (De hecho, le voy a echar un vistazo).
-
+* Es _spam_: no solicitado, etc.
+* Menciona, efectivamente, una entrada de mi blog en la que hablo de Scala (¡muy de pasada!).
+* El cuerpo del mensaje (y el asunto) parecen creados por una máquina (o un humano con mucha prisa): en el fondo, no tienen sentido.
+* La entrada a la que se refieren está escrita en español y no tiene nada que ver con el mensaje.
+* ¡Pero lo que me ofrecen es relevante! (De hecho, le voy a echar un vistazo).
 
 ¿Un caso de Spam 2.0?

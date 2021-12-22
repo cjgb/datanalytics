@@ -56,7 +56,7 @@ que viene a ser una versión de mi gráfico de barras (¿os habéis fijado que, 
 
 
 
-    floor(<a href="http://inside-r.org/r-doc/stats/fivenum">fivenum(sexos$prop) * 10000) / 100
+    floor(fivenum(sexos$prop) * 10000) / 100
     #[1] 49.65 50.24 50.49 51.07 52.10
 
 
@@ -100,8 +100,8 @@ Inspirado por el artículo anterior, hago
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/lme4">lme4)
-    library(<a href="http://inside-r.org/packages/cran/lattice">lattice)
+    library(<lme4)
+    library(lattice)
 
     # los datos están disponibles
     # en http://www.worldvaluessurvey.org/
@@ -119,8 +119,8 @@ Inspirado por el artículo anterior, hago
     tmp$sex <- factor(tmp$sex)
 
     mod3 <- lmer(<a href="http://inside-r.org/packages/cran/trust">trust ~ 1 + (1 | ccaa), data = tmp)
-    <a href="http://inside-r.org/r-doc/lattice/dotplot">dotplot(<a href="http://inside-r.org/r-doc/nlme/ranef">ranef(mod3, condVar = TRUE))
-    <a href="http://inside-r.org/r-doc/lattice/qqmath">qqmath(<a href="http://inside-r.org/r-doc/nlme/ranef">ranef(mod3, condVar = TRUE))
+    dotplot(ranef(mod3, condVar = TRUE))
+    qqmath(ranef(mod3, condVar = TRUE))
 
 
 
@@ -141,9 +141,9 @@ Aunque bien podría argumentarse que lo que piden los datos es un modelo basado 
     tmp$trust.bin <- tmp$trust == 1
 
     mod.glmer <- glmer(trust.bin ~ 1 + (1 | ccaa),
-                       <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial, data = tmp)
-    <a href="http://inside-r.org/r-doc/lattice/dotplot">dotplot(<a href="http://inside-r.org/r-doc/nlme/ranef">ranef(mod.glmer, condVar = TRUE))
-    <a href="http://inside-r.org/r-doc/lattice/qqmath">qqmath(<a href="http://inside-r.org/r-doc/nlme/ranef">ranef(mod.glmer, condVar = TRUE))
+                       family = binomial, data = tmp)
+    dotplot(ranef(mod.glmer, condVar = TRUE))
+    qqmath(ranef(mod.glmer, condVar = TRUE))
 
 
 

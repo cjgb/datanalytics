@@ -29,12 +29,12 @@ Hoy, por motivos evidentes, e igual que en [septiembre de 2010](http://www.datan
     library( ggplot2 )
 
     dat <- read.px( "pcaxis-623612450.px" )
-    dat <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame( dat )
+    dat <- as.data.frame( dat )
 
     dat.mes <- cast( dat, Periodo ~ series )
     colnames(dat.mes) <- c( "mes", "n.huelgas", "n.trabajadores", "n.jornadas" )
 
-    p <- ggplot( data = dat.mes ) + geom_line( aes( x = mes, y = n.huelgas, <a href="http://inside-r.org/r-doc/grDevices/group">group = rep(1, nrow(dat)) ) )
+    p <- ggplot( data = dat.mes ) + geom_line( aes( x = mes, y = n.huelgas, group = rep(1, nrow(dat)) ) )
     p
     ggsave( "huelgas_por_mes.png" )
 
@@ -46,18 +46,18 @@ Hoy, por motivos evidentes, e igual que en [septiembre de 2010](http://www.datan
     dat.anno <- cast( dat.anno, Periodo ~ series, fun.aggregate = sum )
     colnames(dat.anno) <- c( "anno", "n.huelgas", "n.trabajadores", "n.jornadas" )
 
-    p <- ggplot( data = dat.anno, aes( x = anno, y = n.huelgas, <a href="http://inside-r.org/r-doc/grDevices/group">group = rep(1, nrow(dat.anno)) ) ) + geom_line()
+    p <- ggplot( data = dat.anno, aes( x = anno, y = n.huelgas, group = rep(1, nrow(dat.anno)) ) ) + geom_line()
     p <- p + geom_point( aes(size = n.jornadas ) )
     p <- p + scale_x_discrete( "año" ) + scale_y_continuous( "número de huelgas" )
     p
     ggsave( "huelgas_por_anno.png" )
 
-    p <- ggplot( data = dat.anno, aes( x = anno, y = n.trabajadores/n.huelgas, <a href="http://inside-r.org/r-doc/grDevices/group">group = rep(1, nrow(dat.anno)) ) ) + geom_line()
+    p <- ggplot( data = dat.anno, aes( x = anno, y = n.trabajadores/n.huelgas, group = rep(1, nrow(dat.anno)) ) ) + geom_line()
     p <- p + scale_x_discrete( "año" ) + scale_y_continuous( "número de trabajadores por huelga" )
     p
     ggsave( "trabajadores_huelga_por_anno.png" )
 
-    p <- ggplot( data = dat.anno, aes( x = anno, y = n.jornadas /n.huelgas, <a href="http://inside-r.org/r-doc/grDevices/group">group = rep(1, nrow(dat.anno)) ) ) + geom_line()
+    p <- ggplot( data = dat.anno, aes( x = anno, y = n.jornadas /n.huelgas, group = rep(1, nrow(dat.anno)) ) ) + geom_line()
     p <- p + scale_x_discrete( "año" ) + scale_y_continuous( "número de jornadas por huelga" )
     p
     ggsave( "jornadas_huelga_anno.png" )

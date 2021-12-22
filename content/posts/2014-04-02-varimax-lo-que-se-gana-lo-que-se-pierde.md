@@ -21,7 +21,7 @@ Comencemos. Primero, voy a realizar un análisis factorial (exploratorio) basán
 
 
 
-    fa <- <a href="http://inside-r.org/r-doc/stats/factanal">factanal( ~., 2, data = <a href="http://inside-r.org/r-doc/datasets/swiss">swiss, rotation = "none")
+    fa <- factanal( ~., 2, data = swiss, rotation = "none")
     fa
 
     # Call:
@@ -67,7 +67,7 @@ Pero, ¿qué se pierde? Veámoslo:
 
 
 
-    <a href="http://inside-r.org/r-doc/stats/varimax">varimax(<a href="http://inside-r.org/r-doc/stats/loadings">loadings(fa), normalize = FALSE)
+    varimax(loadings(fa), normalize = FALSE)
     # $loadings
     #
     # Loadings:

@@ -28,13 +28,13 @@ Lo que he hecho se parece mucho a
 
     library(<a href="http://inside-r.org/packages/cran/party">party)
 
-    enes <- c(<a href="http://inside-r.org/r-doc/stats/rpois">rpois(10, 7), <a href="http://inside-r.org/r-doc/stats/rpois">rpois(20, 1), <a href="http://inside-r.org/r-doc/stats/rpois">rpois(10, 5))
+    enes <- c(rpois(10, 7), rpois(20, 1), rpois(10, 5))
     fechas <- 1:length(enes)
 
     datos <- data.frame(enes = enes, fechas = fechas)
 
-    modelo <- mob(enes ~ 1 | fechas, data = datos, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/poisson">poisson(),
-                  <a href="http://inside-r.org/r-doc/boot/control">control = mob_control(bonferroni = FALSE))
+    modelo <- mob(enes ~ 1 | fechas, data = datos, family = poisson(),
+                  control = mob_control(bonferroni = FALSE))
 
 
 
@@ -44,7 +44,7 @@ Sustituyendo arriba la línea relevante por algo como
 
 
 
-    enes <- c(<a href="http://inside-r.org/r-doc/stats/rpois">rpois(10, 70), <a href="http://inside-r.org/r-doc/stats/rpois">rpois(20, 1), <a href="http://inside-r.org/r-doc/stats/rpois">rpois(100, 50))
+    enes <- c(rpois(10, 70), rpois(20, 1), rpois(100, 50))
 
 
 

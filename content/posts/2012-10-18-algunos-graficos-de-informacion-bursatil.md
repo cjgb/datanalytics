@@ -23,8 +23,8 @@ Por si pueden servir de algo a otros, los reproduzco y comento aquí. Primero, h
 
 
     library(<a href="http://inside-r.org/packages/cran/PerformanceAnalytics">PerformanceAnalytics)
-    library(<a href="http://inside-r.org/packages/cran/zoo">zoo)
-    library(<a href="http://inside-r.org/packages/cran/tseries">tseries)
+    library(zoo)
+    library(tseries)
 
 
 
@@ -32,7 +32,7 @@ Luego, descargar datos de cotizaciones (de Telefónica, cuyo símbolo es TEF.MC)
 
 
 
-    precios.TEF <- get.hist.quote(instrument="TEF.MC", <a href="http://inside-r.org/r-doc/stats/start">start="1998-01-01",
+    precios.TEF <- get.hist.quote(instrument="TEF.MC", start="1998-01-01",
                                   end="2012-10-15", quote="AdjClose",
                                   provider="yahoo", origin="1970-01-01",
                                   compression="m", retclass="zoo")
@@ -90,17 +90,17 @@ Finalmente, haciendo
     ret.mat <- coredata(rent.TEF)
 
     # here are the 4 panel plots
-    <a href="http://inside-r.org/r-doc/graphics/par">par(mfrow = c(2, 2))
+    par(mfrow = c(2, 2))
 
     hist(ret.mat[,1], main = "Rentabilidad Mensual de TEF",
          xlab = "VBLTX", probability = TRUE, col = "slateblue1")
     boxplot(ret.mat[,1],outchar=T, main="Boxplot", col="slateblue1")
-    plot(<a href="http://inside-r.org/r-doc/stats/density">density(ret.mat[,1]), type = "l", main = "Densidad suavizada",
+    plot(density(ret.mat[,1]), type = "l", main = "Densidad suavizada",
          xlab = "rentabilidad mensual", ylab = "estimación de la densidad", col = "slateblue1")
-    <a href="http://inside-r.org/r-doc/stats/qqnorm">qqnorm(ret.mat[,1], col = "slateblue1")
-    <a href="http://inside-r.org/r-doc/stats/qqline">qqline(ret.mat[,1])
+    qqnorm(ret.mat[,1], col = "slateblue1")
+    qqline(ret.mat[,1])
 
-    <a href="http://inside-r.org/r-doc/graphics/par">par(mfrow = c(1, 1))
+    par(mfrow = c(1, 1))
 
 
 

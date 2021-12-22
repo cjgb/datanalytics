@@ -10,6 +10,7 @@ categories:
 tags:
 - clústering
 - estadística
+- sociología
 ---
 
 El _clústering_ (o análisis de conglomerados, o como se le quiera llamar) es un atajo intelectual. En lugar de estudiar individuos (no necesariamente personas), estos se agrupan de manera más o menos cuestionable, se eligen representantes en cada uno de ellos, cuyas características se atribuyen a continuación a todos sus miembros.

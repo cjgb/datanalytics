@@ -14,6 +14,7 @@ tags:
 - poisson
 - r
 - seismic
+- nmf
 ---
 
 La primera es la [factorización positiva de matrices positivas](http://www.datanalytics.com/2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/). La otra, como bien titula la entrada, [los procesos de Poisson _autoexcitados_](http://www.datanalytics.com/2014/08/11/procesos-puntuales-una-primera-aproximacion/).

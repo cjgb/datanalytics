@@ -45,7 +45,7 @@ En la entrada de hoy voy a mostrar código para, primero, simular este tipo de p
     }
 
     for (i in 1:length(muestra)){
-      muestra[i] <- <a href="http://inside-r.org/r-doc/stats/rpois">rpois(1, lambda(i, muestra, mu, alfa, delta))
+      muestra[i] <- rpois(1, lambda(i, muestra, mu, alfa, delta))
     }
 
     plot(muestra, type = "l", main = "Eventos por fecha",
@@ -82,7 +82,7 @@ por lo que la verosimilitud tiene una forma no particularmente fea:
                     optim.ver <- function(x) -verosimilitud(muestra,
                                                             x[1], x[2],
                                                             cand.delta)
-                    res <- <a href="http://inside-r.org/r-doc/stats/optim">optim(c(0.5, 0.5), optim.ver,
+                    res <- optim(c(0.5, 0.5), optim.ver,
                                  lower = c(0.0001, 0.0001),
                                  upper = c(1, 1), method = "L-BFGS-B")
                     c(res$par, res$value)

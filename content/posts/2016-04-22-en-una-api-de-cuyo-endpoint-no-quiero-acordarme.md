@@ -14,11 +14,7 @@ tags:
 
 ... rigen los siguientes términos de servicio (que traduzco, porque el original vienen en inglés):
 
-
-
-<blockquote>Usuarios autorizados: usuarios afiliados a una institución educativa de investigación o sin ánimo de lucro.</blockquote>
-
-
+>Usuarios autorizados: usuarios afiliados a una institución educativa de investigación o sin ánimo de lucro.
 
 Supongo que ese es el fin de la historia: estoy expulsado de ella, salvo que retuerza el hilo de la casuística, relaje el perímetro de las acepciones y me considere _afiliado_ a alguna de las _instituciones educativas_ donde imparto alguna clase; y justifique, claro está, que no tienen ánimo de lucro.
 

@@ -10,6 +10,7 @@ categories:
 tags:
 - borges
 - estadística
+- forking paths
 ---
 
 Cada día soy más inculto. He dejado de escuchar música; en el último concierto al que fui maté el tiempo con un jueguito del móvil; la taquillera del teatro de mi barrio se niega a venderme entradas por cuestiones formales (que si son las 18:01 y la taquilla cierra a las 18:00); hace años que no leo ficción; en el Reina Sofía, donde otros ven arte yo encuentro desgana y mis gustos cinematográficos son de lo más estragado.

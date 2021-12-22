@@ -28,14 +28,14 @@ Juan y Pedro llevan operando así desde el 1 de enero de 2000. ¿Cuál de los do
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/tseries">tseries)
-    library(<a href="http://inside-r.org/packages/cran/zoo">zoo)
+    library(tseries)
+    library(zoo)
 
     ibex <- get.hist.quote(instrument = "^ibex",
-                           <a href="http://inside-r.org/r-doc/stats/start">start = '2000-01-01', end = '2014-02-19')
+                           start = '2000-01-01', end = '2014-02-19')
 
     diurno   <- ibex$Close - ibex$Open
-    nocturno <- ibex$Open - <a href="http://inside-r.org/r-doc/stats/lag">lag(ibex$Close, -1)
+    nocturno <- ibex$Open - lag(ibex$Close, -1)
 
     acumulado.diurno   <- cumsum(diurno)
     acumulado.nocturno <- cumsum(nocturno)

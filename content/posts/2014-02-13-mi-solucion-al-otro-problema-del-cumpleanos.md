@@ -24,7 +24,7 @@ Pues eso, que me piqué —y parte de la culpa la tiene [este sujeto](http://eli
 
     f <- function(n, k = 365, v = NULL){
 
-      if(<a href="http://inside-r.org/r-doc/base/is.null">is.null(v))
+      if(is.null(v))
         v <- c(1, rep(NA, k))
 
       res <- 1

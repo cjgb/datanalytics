@@ -47,7 +47,7 @@ En R,
     u <- runif( n )
 
     plot( x / x.norma, col = "red", xlab = "", ylab = "" )
-    <a href="http://inside-r.org/r-doc/graphics/points">points( x * u^{1/d} / x.norma, col = "blue" )
+    points( x * u^{1/d} / x.norma, col = "blue" )
 
 
 

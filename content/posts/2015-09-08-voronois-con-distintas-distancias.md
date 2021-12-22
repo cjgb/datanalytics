@@ -19,39 +19,43 @@ Especulando sobre la diferencia en la práctica entre distintas métricas ($late
 En la Wikipedia se comparan gráficamente $latex l_1$, $latex l_2$ (o euclídea y Manhattan). Mi código,
 
 
+{{< highlight R "linenos=true" >}}
+library(data.table)
+library(reshape2)
+library(grid)
 
-    library(<a href="http://inside-r.org/packages/cran/data.table">data.table)
-    library(reshape2)
-    library(<a href="http://inside-r.org/r-doc/graphics/grid">grid)
+n <- 20
+dim.image <- 1000
+puntos <- data.frame(id = 1:n,
+                      x0 = runif(n) * dim.image,
+                      y0 = runif(n) * dim.image)
+colores <- rainbow(n)
 
-    n <- 20
-    dim.image <- 1000
-    puntos <- data.frame(id = 1:n,
-                         x0 = runif(n) * dim.image,
-                         y0 = runif(n) * dim.image)
-    colores <- <a href="http://inside-r.org/r-doc/grDevices/rainbow">rainbow(n)
+voronoi <- function(p){
+  tmp <- data.table(expand.grid(
+      x = 1:dim.image,
+      y = 1:dim.image, id = 1:n), key = "id")
+  tmp <- merge(tmp, puntos, by = "id")
 
-    voronoi <- function(p){
-      tmp <- <a href="http://inside-r.org/packages/cran/data.table">data.table(<a href="http://inside-r.org/r-doc/base/expand.grid">expand.grid(x = 1:dim.image,
-                                    y = 1:dim.image, id = 1:n), key = "id")
-      tmp <- merge(tmp, puntos, by = "id")
+  distancia <- function(a, b, c, d, p)
+    (abs(a-c)^p + abs(b-d)^p)^(1/p)
 
-      distancia <- function(a, b, c, d, p)
-        (abs(a-c)^p + abs(b-d)^p)^(1/p)
+  tmp$distancia <- distancia(tmp$x,
+    tmp$y, tmp$x0, tmp$y0, p)
+  tmp[, rank := rank(distancia, ties = "random"),
+    by = c("x", "y")]
 
-      tmp$distancia <- distancia(tmp$x, tmp$y, tmp$x0, tmp$y0, p)
-      tmp[, rank := rank(distancia, ties = "random"), by = c("x", "y")]
+  rejilla <- tmp[tmp$rank == 1,]
+  rejilla$x0 <- rejilla$y0 <-
+    rejilla$distancia <- rejilla$rank <- NULL
 
-      rejilla <- tmp[tmp$rank == 1,]
-      rejilla$x0 <- rejilla$y0 <- rejilla$distancia <- rejilla$rank <- NULL
+  rejilla$color <- colores[rejilla$id]
 
-      rejilla$color <- colores[rejilla$id]
+  imagen <- as.matrix(dcast(rejilla, x ~ y, value.var = "color")[,-1])
 
-      imagen <- as.matrix(dcast(rejilla, x ~ y, value.var = "color")[,-1])
-
-      grid.raster(imagen)
-    }
-
+  grid.raster(imagen)
+}
+{{< / highlight >}}
 
 
 permite usar más en función del parámetro `p`.

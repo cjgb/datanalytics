@@ -28,7 +28,7 @@ El código de Emilio (cuyos resultados no podemos reproducir porque no nos ha co
       pr <- odds/(1+odds)
       res <- replicate(100, {
         dat$y <- rbinom(n,1,pr)
-        <a href="http://inside-r.org/r-doc/stats/coef">coef(<a href="http://inside-r.org/r-doc/stats/glm">glm(y ~ x1*x2, data = dat, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial()))
+        coef(glm(y ~ x1*x2, data = dat, family = binomial()))
       })
       t(res)
     }
@@ -65,7 +65,7 @@ Veámoslo:
       res <- replicate(100, {
         dat$exito   <- sapply(dat$prob, function(p) rbinom(1, n, p))
         dat$fracaso <- n - dat$exito
-        <a href="http://inside-r.org/r-doc/stats/coef">coef(<a href="http://inside-r.org/r-doc/stats/glm">glm(cbind(exito, fracaso) ~ x1*x2, data = dat, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial()))
+        coef(glm(cbind(exito, fracaso) ~ x1*x2, data = dat, family = binomial()))
       })
       t(res)
     }
@@ -73,7 +73,7 @@ Veámoslo:
     res <- logisticsimulation(1e5)
     apply(res,2,median)
 
-    plot(<a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(res))
+    plot(as.data.frame(res))
 
 
 

@@ -22,14 +22,10 @@ Es la segunda edición. De la primera hablé [aquí](http://www.datanalytics.com
 
 El programa es esencialmente el mismo: presentar y trabajar con aquellas herramientas que hacen de R una herramienta útil dentro de BBVA, Santander, Mapfre, etc. Para trascender Excel y, entre otros,
 
-
-
-
-	  * manipular datos como un _pro_,
-	  * crear gráficos estadísticos complejos de calidad,
-	  * crear informes automáticos que combinan análisis de datos, gráficos, texto, etc.,
-	  * desarrollar plataformas interactivas de visualización y análisis de datos.
-
+* manipular datos como un _pro_,
+* crear gráficos estadísticos complejos de calidad,
+* crear informes automáticos que combinan análisis de datos, gráficos, texto, etc.,
+* desarrollar plataformas interactivas de visualización y análisis de datos.
 
 En el curso se tocarán (aunque sin profundizar) las herramientas para el análisis estadístico de datos con R (p.e., regresiones) y algunas técnicas de _machine learning_ (p.e., árboles de decisión y _random forests_), pero no se trata de un curso de estadística.
 

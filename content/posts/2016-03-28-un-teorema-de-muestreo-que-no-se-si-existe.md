@@ -11,73 +11,41 @@ tags:
 - muestreo
 - probabilidad
 - teorema
+- importance sampling
 ---
 
 Imaginemos que queremos muestrear una variable aleatoria cuya función de densidad es (proporcional a) el producto de otras dos (no necesariamente propias). Por ejemplo, la gamma, cuya función de densidad es $latex K x^{k-1} \exp(-\lambda x)$, el producto de una exponencial y una distribución impropia con densidad $latex x^{k-1}$.
 
 Supongamos que no sabemos hacer
 
-
-
-
-
-
-
-
-    set.seed(1234)
-     
-    shape <- 3
-    rate  <- 3
-     
-    m0 <- <a href="http://inside-r.org/r-doc/stats/rgamma">rgamma(1000, shape = shape, rate = rate)
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+set.seed(1234)
+shape <- 3
+rate  <- 3
+m0 <- rgamma(1000, shape = shape, rate = rate)
+{{< / highlight >}}
 
 Pero supongamos que sí que sabemos muestrear la distribución exponencial, lo que permite escribir:
 
-
-
-
-
-
-
-
-    # una muestra de la exponencial
-    m1 <- rexp(1e5, rate)
-     
-    # asignamos "pesos" de acuerdo con la otra distribución
-    pesos <- m1^(shape -1)
-     
-    # muestreamos con esos pesos
-    m1 <- sample(m1, 1000, replace = T, <a href="http://inside-r.org/packages/cran/prob">prob = pesos)
-     
-    # tachán
-    <a href="http://inside-r.org/r-doc/stats/qqplot">qqplot(m0, m1)
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+# una muestra de la exponencial
+m1 <- rexp(1e5, rate)
+# asignamos "pesos" de acuerdo con la otra distribución
+pesos <- m1^(shape -1)
+# muestreamos con esos pesos
+m1 <- sample(m1, 1000, replace = T, prob = pesos)
+# tachán
+qqplot(m0, m1)
+{{< / highlight >}}
 
 Es decir, podemos:
 
-
-
-	  * Muestrear la distribución conocida
-	  * Reponderar cada observación por la otra función de densidad
-	  * Muestrear la primera distribución con esos pesos
+* Muestrear la distribución conocida
+* Reponderar cada observación por la otra función de densidad
+* Muestrear la primera distribución con esos pesos
 
 Esto puede servir para muestrear una posteriori (en algunos casos simples) sin tener que pasar por MCMC y similares puesto que
 
-
-$latex p(\theta|x_i) \propto p(x_i | \theta) p(\theta).$
-
+$$ p(\theta|x_i) \propto p(x_i | \theta) p(\theta).$$
 
 Si sabemos muestrear $latex p(\theta)$, podemos usar la verosimilitud $latex p(x_i | \theta)$ para reponderar las muestras y realizar una última extracción de pesos de acuerdo con esos nuevos pesos.

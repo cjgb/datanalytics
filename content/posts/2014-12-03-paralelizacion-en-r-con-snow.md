@@ -39,7 +39,7 @@ y, entonces, ejecutas
     cluster.nodes <- as.character(rep(cluster.def$nodes$host,
                                       times = cluster.def$nodes$cores))
     cl <- makeSOCKcluster(cluster.nodes, user = cluster.def$user)
-    res <- clusterApply(cl, 1:10, <a href="http://inside-r.org/r-doc/base/Sys.sleep">Sys.sleep)
+    res <- clusterApply(cl, 1:10, Sys.sleep)
     stopCluster(cl)
 
 

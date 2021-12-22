@@ -37,12 +37,12 @@ Podemos utilizar una regresión logística así:
 
       train <- sample(1:n, train.n)
 
-      X <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(X)
+      X <- as.data.frame(X)
       X$Y <- Y
 
-      mod.glm <- <a href="http://inside-r.org/r-doc/stats/glm">glm(Y ~ ., data = X[train,], <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial)
+      mod.glm <- glm(Y ~ ., data = X[train,], family = binomial)
 
-      glm.pred <- <a href="http://inside-r.org/r-doc/stats/predict">predict(mod.glm, X[-train,], type = "response")
+      glm.pred <- predict(mod.glm, X[-train,], type = "response")
 
       error <- length(glm.pred) - sum(diag(table(glm.pred > 0.5, Y[-train,])))
     }
@@ -74,12 +74,12 @@ Alternativamente podemos utilizar el modelo lineal para estimar una variable alt
 
       train <- sample(1:n, train.n)
 
-      X <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(X)
+      X <- as.data.frame(X)
       X$Y <- Y
 
       mod.lm <- lm(Y ~ ., data = X[train,])
 
-      lm.pred <- <a href="http://inside-r.org/r-doc/stats/predict">predict(mod.lm, X[-train,])
+      lm.pred <- predict(mod.lm, X[-train,])
 
       error <- length(lm.pred) - sum(diag(table(lm.pred > 0, Y[-train,] > 0)))
     }

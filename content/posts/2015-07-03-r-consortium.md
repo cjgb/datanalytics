@@ -9,15 +9,12 @@ categories:
 - r
 tags:
 - r
+- r-consortium
 ---
 
 Acaba de nacer el [R Consortium](https://www.r-consortium.org/) con no sé qué objetivos. Los declarados son
 
-
-
-<blockquote>trabajar con y dar soporte a la R Foundation y a las organizaciones clave que desarrollan, mantienen, distribuyen y usan R a través de la identificación, desarrollo e implementación de proyectos de infraestructura. </blockquote>
-
-
+>trabajar con y dar soporte a la R Foundation y a las organizaciones clave que desarrollan, mantienen, distribuyen y usan R a través de la identificación, desarrollo e implementación de proyectos de infraestructura.
 
 Vamos, nada que la R Foundation no viniese haciendo ya de oficio.
 
@@ -27,12 +24,10 @@ Habrá quien lo vea como una especie de golpe de estado corporativo: grandes emp
 
 ¿Mi opinión?
 
-
-
-	  * Que dado el crecimiento de R, mucho tienen que cambiar las cosas para que todo pueda seguir, más o menos, igual: no es lo mismo un CRAN que mantenía 10 o 15 paquetes al actual, con miles de ellos.
-	  * Que sin unos cuantos logos reconocibles detrás, no veremos R ni en el Santander ni en el Banco de España (lo que no implica que con ellos los hayamos de ver).
-	  * Que para llegar _altius_, _citius_ y _fortius_, mejor el logo de Google que la firma de Ripley.
-	  * Que algún talibán pesadísimo del _software_ libre (que no de la libertad de _software_) va a bufar mucho, pero que me da igual.
+* Que dado el crecimiento de R, mucho tienen que cambiar las cosas para que todo pueda seguir, más o menos, igual: no es lo mismo un CRAN que mantenía 10 o 15 paquetes al actual, con miles de ellos.
+* Que sin unos cuantos logos reconocibles detrás, no veremos R ni en el Santander ni en el Banco de España (lo que no implica que con ellos los hayamos de ver).
+* Que para llegar _altius_, _citius_ y _fortius_, mejor el logo de Google que la firma de Ripley.
+* Que algún talibán pesadísimo del _software_ libre (que no de la libertad de _software_) va a bufar mucho, pero que me da igual.
 
 
 

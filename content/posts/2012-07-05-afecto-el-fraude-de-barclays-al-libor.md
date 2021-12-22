@@ -30,13 +30,13 @@ El procedimiento por el que se calcula el Libor lo describí ayer. Y también in
 
 
 
-    raw <- <a href="http://inside-r.org/r-doc/utils/read.csv">read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
+    raw <- read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
 
     dat <- raw[,c(1,2,8)]
     names(dat) <- c("bank", "date", "Libor3M" )
-    dat$date <- <a href="http://inside-r.org/r-doc/base/as.Date">as.Date( as.character(dat$date), "%d/%m/%Y" )
+    dat$date <- as.Date( as.character(dat$date), "%d/%m/%Y" )
 
-    <a href="http://inside-r.org/r-doc/utils/fix">fix <- subset( dat, bank == "FIX - USD")
+    fix <- subset( dat, bank == "FIX - USD")
     banks <- subset( dat, bank != "FIX - USD")
 
 
@@ -58,7 +58,7 @@ Con
 
 
     my.fix <- tapply( banks$Libor3M, banks$date, mean, trim = 0.25 )
-    max( abs( <a href="http://inside-r.org/r-doc/utils/fix">fix$Libor3M - my.fix ) )
+    max( abs( fix$Libor3M - my.fix ) )
     # 0.00125
 
 

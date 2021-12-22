@@ -25,20 +25,20 @@ El código (que no he adecentado lo que suelo) es un pequeño ejercicio con el p
 
 
 
-    library(<a href="http://inside-r.org/r-doc/graphics/grid">grid)
+    library(grid)
     library(<a href="http://inside-r.org/packages/cran/gmp">gmp)
 
     plot.factors <- function(n, new.plot = TRUE){
 
       if(new.plot)
-        <a href="http://inside-r.org/r-doc/grid/grid.newpage">grid.newpage()
+        grid.newpage()
 
-      divisors <- sort(<a href="http://inside-r.org/r-doc/base/as.integer">as.integer(factorize(n)), decreasing = T)
+      divisors <- sort(as.integer(factorize(n)), decreasing = T)
 
       foo <- function(divs){
         if(length(divs) == 0){
-          <a href="http://inside-r.org/r-doc/grid/grid.circle">grid.circle(x = 0.5, y = 0.5, r = 0.5,
-                      gp=<a href="http://inside-r.org/r-doc/grid/gpar">gpar(fill="black"))
+          grid.circle(x = 0.5, y = 0.5, r = 0.5,
+                      gp=gpar(fill="black"))
           return()
         }
 
@@ -48,12 +48,12 @@ El código (que no he adecentado lo que suelo) es un pequeño ejercicio con el p
         y <- (Im(exp( 2 * pi *(1:n) * 1i /n))) / 4 + 0.5
 
         for(i in 1:n){
-          tmp <- <a href="http://inside-r.org/r-doc/grid/viewport">viewport(x = x[i], y = y[i],
+          tmp <- viewport(x = x[i], y = y[i],
                           w = 2/(3 + n), h = 2/(3 + n))
-          <a href="http://inside-r.org/r-doc/grid/pushViewport">pushViewport(tmp)
+          pushViewport(tmp)
           #grid.rect(gp = gpar(col = "grey"))
           foo(divs[-1])
-          <a href="http://inside-r.org/r-doc/grid/popViewport">popViewport()
+          popViewport()
         }
       }
 
@@ -63,18 +63,18 @@ El código (que no he adecentado lo que suelo) es un pequeño ejercicio con el p
     plot.factors(25)
 
 
-    <a href="http://inside-r.org/r-doc/grid/grid.newpage">grid.newpage()
+    grid.newpage()
 
     nrow <- 10
     ncol <- 10
 
     for(y in 1:nrow){
       for(x in 1:ncol){
-        tmp <- <a href="http://inside-r.org/r-doc/grid/viewport">viewport(x = x / (1 + ncol), y = 1 - y / (1 + nrow),
+        tmp <- viewport(x = x / (1 + ncol), y = 1 - y / (1 + nrow),
                         w = 1/(1 + ncol), h = 1/(1+ncol))
-        <a href="http://inside-r.org/r-doc/grid/pushViewport">pushViewport(tmp)
+        pushViewport(tmp)
         #grid.rect(gp = gpar(col = "grey"))
         plot.factors(x + y * ncol - ncol, new.plot = FALSE)
-        <a href="http://inside-r.org/r-doc/grid/popViewport">popViewport()
+        popViewport()
       }
     }

@@ -20,11 +20,5 @@ Hoy, al mostrar
 
 he dicho _exponencial_. Pero me he corregido rápido y he advertido a mis alumnos:
 
-
-
-
-	  1. La gente dice _exponencial_ cuando, en realidad, a lo sumo, quiere decir convexa. ¡Cuidado con los que toman el nombre de esa función en vano!
-	  2. Aunque la evolución parezca _exponencial_, en realidad, sabemos que no lo es. Trata de la evolución en capacidad de los discos duros y sabemos que hay límites físicos concretos. Lo que hoy nos parece exponencial, algún día revelará [su verdadera naturaleza logística](https://es.wikipedia.org/wiki/Funci%C3%B3n_log%C3%ADstica) (o similar).
-
-
-
+1. La gente dice _exponencial_ cuando, en realidad, a lo sumo, quiere decir convexa. ¡Cuidado con los que toman el nombre de esa función en vano!
+2. Aunque la evolución parezca _exponencial_, en realidad, sabemos que no lo es. Trata de la evolución en capacidad de los discos duros y sabemos que hay límites físicos concretos. Lo que hoy nos parece exponencial, algún día revelará [su verdadera naturaleza logística](https://es.wikipedia.org/wiki/Funci%C3%B3n_log%C3%ADstica) (o similar).

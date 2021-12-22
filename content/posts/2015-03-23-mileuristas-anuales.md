@@ -14,11 +14,7 @@ tags:
 
 Publicaba el otro día El País una nómina de Franco de noviembre de 1935 con un líquido a percibir de 2.429,98 pesetas. Según el articulista,
 
-
-
-<blockquote>[s]i comparamos aquella cantidad con el coste de la vida actual, la equivalencia se elevaría a 5.261,80 euros. Así lo ha calculado para EL PAÍS Ernesto Poveda, del Grupo Icsa, dedicado, entre otras cosas a asuntos de observatorio salarial. El trabajo está hecho con arreglo a la tabla de actualización de precios al consumo que establece Jordi Maluquer de Motes, catedrático de la Universidad Autónoma de Bellaterra (Barcelona). "Se trata de la referencia utilizada por los historiadores económicos avalada por el Banco de España", explica Poveda.</blockquote>
-
-
+[s]i comparamos aquella cantidad con el coste de la vida actual, la equivalencia se elevaría a 5.261,80 euros. Así lo ha calculado para EL PAÍS Ernesto Poveda, del Grupo Icsa, dedicado, entre otras cosas a asuntos de observatorio salarial. El trabajo está hecho con arreglo a la tabla de actualización de precios al consumo que establece Jordi Maluquer de Motes, catedrático de la Universidad Autónoma de Bellaterra (Barcelona). "Se trata de la referencia utilizada por los historiadores económicos avalada por el Banco de España", explica Poveda.
 
 Bien, son 5.261,80 euros en virtud de un argumento de autoridad. Pero, ¿cómo eran realmente sueldos y salarios en aquella época? La única referencia de cifras y precios de la época (y aún no sé si muy precisa) es el jornal de mi abuelo cuando trabajaba de obrero en la carretera que serpentea hasta coronar el puerto de Monrepós. Y era de unas pocas pesetas al día, no recuerdo bien si tres, cinco u ocho. Menos de diez, seguro.
 

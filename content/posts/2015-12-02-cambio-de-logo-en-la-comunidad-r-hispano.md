@@ -19,12 +19,8 @@ Hace años, al comienzo de los tiempos de la [Comunidad R Hispano](http://r-es.o
 
 que tiene su gracia pero, también, dos inconvenientes graves:
 
-
-
-
-	  * Está diseñado para ser utilizado sobre fondo oscuro. Pero un logo tiene que quedar bien sobre fondo blanco (papel, cartelería, etc.).
-	  * El autor solo proporcionó un par de imágenes (no vectoriales, por supuesto) del logo antes de desaparecer (no, no falleció: vive feliz en otro país y dejó de usar R).
-
+* Está diseñado para ser utilizado sobre fondo oscuro. Pero un logo tiene que quedar bien sobre fondo blanco (papel, cartelería, etc.).
+* El autor solo proporcionó un par de imágenes (no vectoriales, por supuesto) del logo antes de desaparecer (no, no falleció: vive feliz en otro país y dejó de usar R).
 
 Vamos, que después de sufrirlo durante un tiempo, hemos decidido cambiarlo. Ha habido varias propuestas nuevas, que ahora presentamos a los interesados (tú, por ejemplo) para que elijan su favorito. Gracias a [Pedro Concejero](https://twitter.com/ConcejeroPedro), que ha organizado la _encuesta_, [**puedes votar tu logo favorito**](https://es.surveymonkey.com/r/XF7QCC3).
 

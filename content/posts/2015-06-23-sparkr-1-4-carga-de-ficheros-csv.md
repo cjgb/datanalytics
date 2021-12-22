@@ -20,16 +20,14 @@ Advierto que ha cambiado sustancialmente la API de SparkR. Entre otras _novedade
 
 Se pueden crear un `DataFrame` (tablas distribuidas de Spark) a partir de un data.frame de R:
 
-
-
-    irisDF <- createDataFrame(sqlContext, iris)
-    first(irisDF)
-    # Sepal_Length Sepal_Width Petal_Length Petal_Width Species
-    # 1          5.1         3.5          1.4         0.2  setosa
-    isLocal(irisDF)
-    # [1] FALSE
-
-
+{{< highlight R "linenos=true" >}}
+irisDF <- createDataFrame(sqlContext, iris)
+first(irisDF)
+# Sepal_Length Sepal_Width Petal_Length Petal_Width Species
+# 1          5.1         3.5          1.4         0.2  setosa
+isLocal(irisDF)
+# [1] FALSE
+{{< / highlight >}}
 
 Pero no es plan tener la memoria de la sesión local de R como cuello de botella. Quiero leer ficheros grandes que estén en disco. La documentación de Spark proporciona mecanismos para [importar ficheros en formatos que ni conocía](http://people.apache.org/~pwendell/spark-releases/latest/sql-programming-guide.html#data-sources). ¿Pero qué de los ubicuos CSV?
 
@@ -41,21 +39,17 @@ Es decir, en la misma invocación tienes que indicar que vas a usar la librería
 
 Luego ya funciona, por ejemplo,
 
-
-
-    flights <- read.df(sqlContext, "/home/carlos/Downloads/airports.csv", "com.databricks.spark.csv", header="true")
-
-
+{{< highlight R "linenos=true" >}}
+flights <- read.df(sqlContext, "/home/carlos/Downloads/airports.csv", "com.databricks.spark.csv", header="true")
+{{< / highlight >}}
 
 [Rebuscando](https://github.com/databricks/spark-csv/blob/master/src/test/scala/com/databricks/spark/csv/CsvSuite.scala), (porque no, no esperes dar con ello en la documentación) he encontrado cómo cargar, por ejemplo, ficheros separados con tabulador:
 
 
-
-    movimientos <- read.df(sqlContext, "/home/carlos/Downloads/Movimientos.csv", "com.databricks.spark.csv", header="true", delimiter = "\t")
-
-
+{{< highlight R "linenos=true" >}}
+movimientos <- read.df(sqlContext, "/home/carlos/Downloads/Movimientos.csv", "com.databricks.spark.csv", header="true", delimiter = "\t")
+{{< / highlight >}}
 
 De momento, observo cómo los programadores de SparkR no nos lo quieren poner fácil: ¿por qué `header="true"` en lugar de `header=T`? ¿Por qué no `sep = "\t"`?
 
 Lo bueno es que, más o menos, ya sé cómo cargar datos. Pronto, más.
-

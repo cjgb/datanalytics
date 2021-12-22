@@ -21,8 +21,8 @@ Bueno, la cuestión es que había que ajustar un modelo para el que yo habría h
 
 
 
-    dat <- <a href="http://inside-r.org/r-doc/utils/read.csv">read.csv("http://www.ats.ucla.edu/stat/data/poisson_sim.csv")
-    summary(m.glm <- <a href="http://inside-r.org/r-doc/stats/glm">glm(num_awards ~ prog + math, <a href="http://inside-r.org/r-doc/stats/family">family = "poisson", data = dat))
+    dat <- read.csv("http://www.ats.ucla.edu/stat/data/poisson_sim.csv")
+    summary(m.glm <- glm(num_awards ~ prog + math, family = "poisson", data = dat))
     # Call:
     #   glm(formula = num_awards ~ prog + math, family = "poisson", data = dat)
     #

@@ -26,20 +26,16 @@ Debería haber instalado la versión futura de R (compilando, etc.) pero siempre
 
 Como buen perezoso, perdí mucho más tiempo del que me habría costado instalar `r-devel` en buscar una alternativa. Y di con [esto](https://github.com/metacran/r-builder). La solución que ahí se propone pasa por lo siguiente:
 
-
-
-	  1. Pasar el desarrollo de `r-forge` a GitHub.
-	  2. Darme de alta en [Travis CI](https://travis-ci.org). Travis CI es un servicio que automatiza las pruebas de código en GitHub: cada vez que se hace un _commit_, lanza una batería de pruebas (que hay que configurar de antemano, obviamente).
-	  3. Copiar dicha configuración de [aquí](https://github.com/metacran/r-builder).
-
+1. Pasar el desarrollo de `r-forge` a GitHub.
+2. Darme de alta en [Travis CI](https://travis-ci.org). Travis CI es un servicio que automatiza las pruebas de código en GitHub: cada vez que se hace un _commit_, lanza una batería de pruebas (que hay que configurar de antemano, obviamente).
+3. Copiar dicha configuración de [aquí](https://github.com/metacran/r-builder).
 
 En el último enlace se indican los detalles de la configuración pero los reitero, por referencia, aquí:
 
-	  1. Una vez registrados en Travis CI, hay que pedirle que busque (o sincronice) tus proyectos en GitHub. Hay que marcar aquellos sobre los que se quieren realizar pruebas.
-	  2. Hay que copiar en el directorio raíz del paquete el fichero de configuración `.travis.yml`, esencialmente copiando el contenido de [este](https://github.com/metacran/r-builder/blob/master/sample.travis.yml) y adaptádolo si procede (en mi caso, ni eso).
-	  3. Hay que añadir al fichero `.Rbuildignore` en la raíz del paquete el fichero anterior, [como aquí](https://github.com/cjgb/MicroDatosEs/blob/master/.Rbuildignore).
-	  4. Adicionalmente, se le puede añadir al fichero `README.md` una imagen que indique si el test fue exitoso o no; las instrucciones están [aquí](https://docs.travis-ci.com/user/status-images/).
-
+1. Una vez registrados en Travis CI, hay que pedirle que busque (o sincronice) tus proyectos en GitHub. Hay que marcar aquellos sobre los que se quieren realizar pruebas.
+2. Hay que copiar en el directorio raíz del paquete el fichero de configuración `.travis.yml`, esencialmente copiando el contenido de [este](https://github.com/metacran/r-builder/blob/master/sample.travis.yml) y adaptádolo si procede (en mi caso, ni eso).
+3. Hay que añadir al fichero `.Rbuildignore` en la raíz del paquete el fichero anterior, [como aquí](https://github.com/cjgb/MicroDatosEs/blob/master/.Rbuildignore).
+4. Adicionalmente, se le puede añadir al fichero `README.md` una imagen que indique si el test fue exitoso o no; las instrucciones están [aquí](https://docs.travis-ci.com/user/status-images/).
 
 Con eso, después de cada _commit_, Travis CI hace su magia y ejecuta por su cuenta los `R CMD checks` en las dos versiones de interés de R.
 

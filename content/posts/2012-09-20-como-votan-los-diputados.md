@@ -20,7 +20,7 @@ He aquí pues el código concomitante que fue apareciendo en mi sesión de RStud
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/XML">XML)
+    library(XML)
     library(reshape)
     library(<a href="http://inside-r.org/packages/cran/corrgram">corrgram)
     library(<a href="http://inside-r.org/packages/cran/psych">psych)
@@ -28,11 +28,11 @@ He aquí pues el código concomitante que fue apareciendo en mi sesión de RStud
     # descarga y manipulación de datos
 
     dia.votacion <- function( n.votacion ){
-        <a href="http://inside-r.org/r-doc/base/dir.create">dir.create( "tmp")
+        dir.create( "tmp")
         url <- paste( "http://www.congreso.es/votaciones/OpenData?sesion=",
              n.votacion, "&completa=1&legislatura=10", sep = "" )
-        <a href="http://inside-r.org/r-doc/utils/download.file">download.file( url, destfile = "./tmp/votos.zip")
-        try( <a href="http://inside-r.org/r-doc/utils/unzip">unzip( "./tmp/votos.zip", exdir = "./tmp"), TRUE )
+        download.file( url, destfile = "./tmp/votos.zip")
+        try( unzip( "./tmp/votos.zip", exdir = "./tmp"), TRUE )
 
         ficheros <- dir( "./tmp", pattern = ".*xml", full.names = T )
 
@@ -43,11 +43,11 @@ He aquí pues el código concomitante que fue apareciendo en mi sesión de RStud
             datos <- xmlTreeParse(fichero)
             datos <- xmlToList(datos)$Votaciones
 
-            if( <a href="http://inside-r.org/r-doc/base/is.null">is.null(datos) )
+            if( is.null(datos) )
                 return(NULL)
 
-            datos <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame( t(datos) )
-            datos <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame( lapply( datos, unlist ) )
+            datos <- as.data.frame( t(datos) )
+            datos <- as.data.frame( lapply( datos, unlist ) )
           },
           simplify = F
         )
@@ -70,7 +70,7 @@ Haciendo
 
 
 
-    tmp <- res[ ! unlist(lapply(res, <a href="http://inside-r.org/r-doc/base/is.null">is.null) ) ]
+    tmp <- res[ ! unlist(lapply(res, is.null) ) ]
     names(tmp) <- paste( "votacion", 1:length(tmp), sep = "_")
     tmp <- lapply( names(tmp), function(x) data.frame( votacion = x, tmp[[x]]))
     votos <- do.call( rbind, tmp )
@@ -126,7 +126,7 @@ la matriz `matriz.votos` que tiene diputados en sus filas y votaciones en sus co
 
 
 
-    cor.votos <- <a href="http://inside-r.org/r-doc/stats/cor">cor(t(matriz.votos))
+    cor.votos <- cor(t(matriz.votos))
     cor.plot( mat.sort(cor.votos))
 
 
@@ -142,7 +142,7 @@ También puede hacerse un gráfico de calor,
 
 
 
-    <a href="http://inside-r.org/r-doc/stats/heatmap">heatmap(matriz.votos, xlab = "Asuntos", ylab = "Diputados", scale = "none")
+    heatmap(matriz.votos, xlab = "Asuntos", ylab = "Diputados", scale = "none")
 
 
 

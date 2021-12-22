@@ -11,6 +11,7 @@ tags:
 - ayuntamiento
 - datos abiertos
 - licencias
+- madrid
 ---
 
 ¿Recordáis mi [solicitud de datos sobre licencias urbanísticas al ayuntamiento de Madrid](http://www.datanalytics.com/2015/03/10/licencias-urbanisticas-datos-y-votos/)? Hoy me he interesado por [su estado](http://datos.madrid.es/portal/site/egob/menuitem.d3089948cb18b1bb68d8a521ecd08a0c/?vgnextoid=e06faba3ecdfb410VgnVCM2000000c205a0aRCRD&vgnextchannel=102612b9ace9f310VgnVCM100000171f5a0aRCRD) y he encontrado esto:
@@ -30,4 +31,3 @@ Lo que sí he encontrado en la [memoria de gestión de 2013](http://www.madrid.e
 con su recta de regresión, su NA y todo.
 
 **Adenda:** Entre el momento en que escribí lo que precede y este, he venido a enterarme de que [Victoria Anderica va a liderar el proyecto de transparencia del ayuntamiento de Madrid](http://www.eldiario.es/politica/Victoria_Anderica-transparencia-Pablo_Soto-Ayuntamiento_de_Madrid_0_402810234.html). Tengo bastante confianza en que eso hará que la decisión se replantee.
-

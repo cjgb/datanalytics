@@ -16,11 +16,7 @@ tags:
 
 Voy a ser mentor de proyectos en [Visualizar'15 Datos](http://medialab-prado.es/article/tallervisualizar15proyectos). Pero aunque no lo fuese, escribiría esta entrada de hoy. Os cuento por qué. Mirad lo que dice la convocatoria:
 
-
-
-<blockquote>El objeto de esta convocatoria es la selección de un máximo de ocho proyectos para su desarrollo colaborativo en **un taller de dos semanas**, del 5 al 20 de mayo de 2015. Los proyectos seleccionados se desarrollarán con la ayuda de varios mentores y un asistente técnico, además de los colaboradores.</blockquote>
-
-
+>El objeto de esta convocatoria es la selección de un máximo de ocho proyectos para su desarrollo colaborativo en **un taller de dos semanas**, del 5 al 20 de mayo de 2015. Los proyectos seleccionados se desarrollarán con la ayuda de varios mentores y un asistente técnico, además de los colaboradores.
 
 ¡Dos semanas! Eso da para realizar un trabajo serio y medianamente acabado. Nada de los prototipos con las costuras al aire típicos de _hackatón_ mañanero.
 

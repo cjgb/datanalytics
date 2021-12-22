@@ -12,31 +12,30 @@ tags:
 - r
 - redis
 - storr
+- cache
 ---
 
 Probablemente no habéis utilizado nunca [Redis](https://en.wikipedia.org/wiki/Redis). Redis es un sistema de almacenamiento basado en parejas clave-valor. Es similar a un [diccionario de Python](https://docs.python.org/2/tutorial/datastructures.html#dictionaries) o a un [entorno en R](https://stat.ethz.ch/R-manual/R-devel/library/base/html/environment.html). Salvo que el almacenamiento es externo al proceso: los datos se guardan en un sistema distribuido y potencialmente ilimitado en cuanto a capacidad.
 
 Si queréis probar algo parecido, además de los diccionarios y los entornos, podéis probar con [`storr` ](https://cran.r-project.org/web/packages/storr/index.html), un paquete reciente de R. Aquí tenéis una minisesión de ejemplo:
 
+{{< highlight R "linenos=true" >}}
+library(storr)
 
+my.dir <- "/tmp/storr00"
+st <- storr::storr_rds(my.dir)
 
-    library(storr)
+# asigno un objeto a una clave
+st$set("miclave", cars)
 
-    my.dir <- "/tmp/storr00"
-    <a href="http://inside-r.org/packages/cran/st">st <- storr::storr_rds(my.dir)
+# recupero el objeto
+head(st$get("miclave"))
 
-    # asigno un objeto a una clave
-    <a href="http://inside-r.org/packages/cran/st">st$set("miclave", <a href="http://inside-r.org/r-doc/datasets/cars">cars)
+# lista de objetos
+st$list()
 
-    # recupero el objeto
-    <a href="http://inside-r.org/r-doc/utils/head">head(<a href="http://inside-r.org/packages/cran/st">st$get("miclave"))
-
-    # lista de objetos
-    <a href="http://inside-r.org/packages/cran/st">st$list()
-
-    <a href="http://inside-r.org/packages/cran/st">st$del("miclave")
-
-
+st$del("miclave")
+{{< / highlight >}}
 
 Es instructivo examinar el directorio en cuestión e inspeccionar los contenidos. Con el _driver_  `rds`, como arriba, el almacenamiento se realiza en disco. De hecho, se realiza en ficheros `.rds`, que tienen un [formato propio de R para almacenar en disco un único objeto serializado](https://stat.ethz.ch/R-manual/R-devel/library/base/html/readRDS.html) (comprimido o no).
 

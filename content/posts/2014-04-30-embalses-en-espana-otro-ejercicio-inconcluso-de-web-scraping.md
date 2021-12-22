@@ -21,7 +21,7 @@ El código para bajarse (y adecentar un poco) la base de datos es:
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/XML">XML)
+    library(XML)
 
     ## bajada de datos
     tmp <- lapply(1:47,
@@ -38,7 +38,7 @@ El código para bajarse (y adecentar un poco) la base de datos es:
     res <- res[-(1:5),]
 
     res <- data.frame(lapply(res, as.character), stringsAsFactors=F)
-    names(res) <- <a href="http://inside-r.org/r-doc/base/make.names">make.names(as.character(res[1,]))
+    names(res) <- make.names(as.character(res[1,]))
 
     ## filtros de filas
     res <- res[res$Nombre != "Nombre",]

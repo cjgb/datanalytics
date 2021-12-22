@@ -10,6 +10,8 @@ categories:
 tags:
 - cartociudad
 - r
+- geolocalización
+- cartociudad
 ---
 
 `caRtociudad` es [esto](https://github.com/cjgb/caRtociudad).

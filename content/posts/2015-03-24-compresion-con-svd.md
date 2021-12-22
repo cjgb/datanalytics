@@ -18,31 +18,31 @@ tags:
 
 lo he creado con
 
+{{< highlight R "linenos=true" >}}
+library(png)
 
+tmp.file <- tempfile()
+download.file("http://datanalytics.com/uploads/greco.png", tmp.file)
+m <- readPNG(tmp.file)
 
-    library(<a href="http://inside-r.org/r-doc/grDevices/png">png)
+svd.m <- svd(m)
 
-    tmp.file <- tempfile()
-    <a href="http://inside-r.org/r-doc/utils/download.file">download.file("http://datanalytics.com/uploads/greco.png", tmp.file)
-    m <- readPNG(tmp.file)
+filtra.svd <- function(svd, k){
+  tmp <- svd
+  tmp$d[(k+1):length(tmp$d)] <- 0
+  res <- tmp$u %*% diag(tmp$d) %*% t(tmp$v)
 
-    svd.m <- svd(m)
+  res[res > 1] <- 1
+  res[res < 0] <- 0
 
-    filtra.svd <- function(svd, k){
-      tmp <- svd
-      tmp$d[(k+1):length(tmp$d)] <- 0
-      res <- tmp$u %*% diag(tmp$d) %*% t(tmp$v)
+  plot(1:2, type='n', xlab = "",
+        ylab = "", xaxt = "n", yaxt = "n",
+        main = paste(k, "primeras componentes", sep = " "))
+  rasterImage(res, 1, 1, 2, 2)
+}
 
-      res[res > 1] <- 1
-      res[res < 0] <- 0
+layout(matrix(1:9, 3, 3, byrow = T))
 
-      plot(1:2, type='n', xlab = "",
-           ylab = "", xaxt = "n", yaxt = "n",
-           main = paste(k, "primeras componentes", sep = " "))
-      rasterImage(res, 1, 1, 2, 2)
-    }
-
-    <a href="http://inside-r.org/r-doc/graphics/layout">layout(matrix(1:9, 3, 3, byrow = T))
-
-    sapply(c(1,2,3,5,10,15,20,30,50),
-           function(k) filtra.svd(svd.m, k))
+sapply(c(1,2,3,5,10,15,20,30,50),
+        function(k) filtra.svd(svd.m, k))
+{{< / highlight >}}

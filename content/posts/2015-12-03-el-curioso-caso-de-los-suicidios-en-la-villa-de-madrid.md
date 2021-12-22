@@ -23,10 +23,8 @@ Esta entrada es la continuación de otra casi homónima, [_El curioso caso de lo
 
 Y, ahora, las notas:
 
-
-
-	  1. Los datos de causa de muerte a nivel municipal no son públicos pero se pueden solicitar al INE. De hecho, es el INE la fuente primaria de los datos del gráfico.
-	  2. La secundaria es un [documental de EL Español sobre los suicidios](http://www.elespanol.com/documental/suicidios/). Mañana comentaré por qué aparezco en sus agradecimientos, aunque tal vez alguien lo pueda adivinar hoy.
+1. Los datos de causa de muerte a nivel municipal no son públicos pero se pueden solicitar al INE. De hecho, es el INE la fuente primaria de los datos del gráfico.
+2. La secundaria es un [documental de EL Español sobre los suicidios](http://www.elespanol.com/documental/suicidios/). Mañana comentaré por qué aparezco en sus agradecimientos, aunque tal vez alguien lo pueda adivinar hoy.
 
 
 

@@ -20,40 +20,39 @@ La mayor parte del mérito en el descubrimiento, en cualquier caso, es de una al
 Y el _bug_ se manifiesta así:
 
 
+{{< highlight R "linenos=true" >}}
+library(ggmap)
 
-    library(ggmap)
+mapa <- get_map("calle Embajadores 10, Madrid", zoom = 18)
 
-    mapa <- get_map("calle Embajadores 10, Madrid", zoom = 18)
+ruta1 <- route("calle embajadores 4, Madrid,",
+    "calle oso 15, Madrid",
+    mode = "walking")
 
-    ruta1 <- route("calle embajadores 4, Madrid,",
-                   "calle oso 15, Madrid",
-                  mode = "walking")
-
-    ruta2 <- route("calle oso 15, Madrid",
-                   "calle embajadores 4, madrid",
-                   mode = "walking")
-
-
-    ggmap(mapa) + geom_path(data = ruta1, aes(x = startLon,
-                                              y = startLat,
-                                              xend = endLon,
-                                              yend = endLat))
-
-    ggmap(mapa) + geom_path(data = ruta2, aes(x = startLon,
-                                      y = startLat,
-                                      xend = endLon,
-                                      yend = endLat))
+ruta2 <- route("calle oso 15, Madrid",
+    "calle embajadores 4, madrid",
+    mode = "walking")
 
 
+ggmap(mapa) + geom_path(data = ruta1,
+    aes(x = startLon,
+    y = startLat,
+    xend = endLon,
+    yend = endLat))
+
+ggmap(mapa) + geom_path(data = ruta2,
+    aes(x = startLon,
+    y = startLat,
+    xend = endLon,
+    yend = endLat))
+{{< / highlight >}}
 
 que es un código que pinta
 
 ![ruta1](/wp-uploads/2016/03/ruta1.png)
 
-
 y
 
 ![ruta2](/wp-uploads/2016/03/ruta2.png)
-
 
 respectivamente, cuando lo que debería representar en ambos casos es una ruta en forma de ele compuesta de dos segmentos, que son los que contienen tanto `ruta1` como `ruta2`.

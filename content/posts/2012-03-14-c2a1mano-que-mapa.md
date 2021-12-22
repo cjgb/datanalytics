@@ -31,7 +31,7 @@ Así que he escrito lo siguiente:
 
 
 
-    library( <a href="http://inside-r.org/packages/cran/rjson">rjson )
+    library( rjson )
 
     # tmp <- readLines( "http://www.zaragoza.es/trafico/estado/tramos23030.json" )
     tmp <- readLines( "http://www.zaragoza.es/trafico/estado/tramoswgs84.json" )

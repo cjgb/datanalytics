@@ -68,17 +68,17 @@ Sin embargo,
 
 
 
-    <a href="http://inside-r.org/r-doc/graphics/par">par(mfrow=c(2,2))
-    plot(<a href="http://inside-r.org/r-doc/stats/predict">predict(modelo), <a href="http://inside-r.org/r-doc/stats/resid">resid(modelo),
+    par(mfrow=c(2,2))
+    plot(predict(modelo), resid(modelo),
          ylab = "residuals", xlab = "predicted values",
          main = "resíduos vs predicciones")
-    plot(x1, <a href="http://inside-r.org/r-doc/stats/resid">resid(modelo), ylab = "residuals", xlab = "x1",
+    plot(x1, resid(modelo), ylab = "residuals", xlab = "x1",
          main = "resíduos vs variable x1")
-    plot(x2, <a href="http://inside-r.org/r-doc/stats/resid">resid(modelo), ylab = "residuals", xlab = "x2",
+    plot(x2, resid(modelo), ylab = "residuals", xlab = "x2",
          main = "resíduos vs variable x2")
-    plot(x3, <a href="http://inside-r.org/r-doc/stats/resid">resid(modelo), ylab = "residuals", xlab = "x3",
+    plot(x3, resid(modelo), ylab = "residuals", xlab = "x3",
          main = "resíduos vs variable x3")
-    <a href="http://inside-r.org/r-doc/graphics/par">par(mfrow=c(1,1))
+    par(mfrow=c(1,1))
 
 
 

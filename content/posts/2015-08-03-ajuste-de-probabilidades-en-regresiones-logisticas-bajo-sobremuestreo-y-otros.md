@@ -24,9 +24,7 @@ Para muchos fines esto puede no tener mayor impacto: por ejemplo, cuando solo in
 
 De acuerdo con [_Logistic Regression in Rare Events Data_](http://gking.harvard.edu/files/0s.pdf) el único coeficiente afectado es el independiente y para obtener el que corresponde a la población completa hay que restarle al obtenido en la población el término
 
-
-$latex \log \left( \frac{1 - \tau}{\tau} \frac{\bar{y}}{1 - \bar{y}} \right)$
-
+$$ \log \left( \frac{1 - \tau}{\tau} \frac{\bar{y}}{1 - \bar{y}} \right)$$
 
 donde $latex \tau$ es la proporción de éxitos en la población subyacente y $latex \bar{y}$ es el estimado en la muestra.
 
@@ -36,28 +34,16 @@ Este ajuste puede ayudarnos a resolver el siguiente problema en R: se ha ajustad
 
 porque las probabilidades asignadas estarían sesgadas. Lo que puede hacerse es usar la función
 
-
-
-
-
-
-
-
-    prediccion.calibracion <- function(model, newdata, proporciones){
-      tmp <- <a href="http://inside-r.org/r-doc/stats/predict">predict(model, newdata = newdata)
-      <a href="http://inside-r.org/r-doc/stats/offset">offset <- log( (1 - proporciones[1]) / proporciones[1] *
-                       proporciones[2] / (1-proporciones[2]) )
-      tmp <- tmp - <a href="http://inside-r.org/r-doc/stats/offset">offset
-      exp(tmp) / (1 + exp(tmp))
-    }
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+prediccion.calibracion <- function(model, newdata, proporciones){
+  tmp <- predict(model, newdata = newdata)
+  offset <- log( (1 - proporciones[1]) / proporciones[1] *
+                    proporciones[2] / (1-proporciones[2]) )
+  tmp <- tmp - offset
+  exp(tmp) / (1 + exp(tmp))
+}
+{{< / highlight >}}
 
 que, primero, calcula la predicción sesgada en la escala lineal, aplica luego el término corrector y, finalmente, usa la función de enlace (_link_) para obtener las probabilidades de éxito con el sesgo corregido.
 
-Nota: esta entrada debe a [esta otra](http://www.datanalytics.com/2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/).
+**Nota:** esta entrada debe a [esta otra](http://www.datanalytics.com/2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/).

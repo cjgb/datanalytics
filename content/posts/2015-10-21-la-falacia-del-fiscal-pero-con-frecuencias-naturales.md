@@ -22,23 +22,17 @@ Pero, ¿qué es 1 / 73e6? Eso es $latex P(D|I)$, es decir, la probabilidad del s
 
 Para pasar de $latex P(D|I)$ a $latex P(I|D)$ hay que aplicar, obviamente, el teorema de Bayes:
 
-
-$latex P(I|D) = P(D|I) \frac{P(I)}{P(D)}$
-
+$$ P(I|D) = P(D|I) \frac{P(I)}{P(D)}$$
 
 Se puede suponer que $P(I)$, la probabilidad de que alguien sea, en principio, inocente de asesinar críos, es prácticamente 1. Por otro lado, $latex P(D) = P(D|I) P(I) + P(D|C) P(C)$, es decir, la probabilidad de que dos niños mueran inexplicablemente es la suma de la probabilidad de que mueran por causas naturales siendo inocente la madre y la de que mueran cuando esta es culpable. Se puede argumentar que esa suma es en este caso, aproximadamente, solo un poco mayor que $latex P(C)$:
 
-
-
-	  * $latex P(I)$ es prácticamente uno
-	  * por lo tanto, $latex P(D|I) P(I)$ viene a ser $latex P(D|I) P(I)$
-	  * además, $latex P(D|C)$ es también casi uno
+* $latex P(I)$ es prácticamente uno
+* por lo tanto, $latex P(D|I) P(I)$ viene a ser $latex P(D|I) P(I)$
+* además, $latex P(D|C)$ es también casi uno
 
 Así que
 
-
-$latex P(I|D) = P(D|I) \frac{P(I)}{P(D)} \sim \frac{P(D|I)}{P(C)}$
-
+$$ P(I|D) = P(D|I) \frac{P(I)}{P(D)} \sim \frac{P(D|I)}{P(C)}$$
 
 Sabíamos ya que $latex P(D|I)$ es una cantidad pequeña, 1/73e6. Pero también lo es $latex P(C)$, la probabilidad de que alguien sea culpable. La culpabilidad de Sally está mucho menos clara bajo este punto de vista.
 

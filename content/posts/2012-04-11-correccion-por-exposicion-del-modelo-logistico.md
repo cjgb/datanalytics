@@ -39,18 +39,18 @@ Planteemos el problema en R:
     days <- sample( c( 1,2,3,4 ), n, replace = T )
 
     # probabilidad de que *no* ocurra el suceso
-    p <- <a href="http://inside-r.org/r-doc/stats/plogis">plogis( beta.0 + beta.1 * (x == "b") )^days
+    p <- plogis( beta.0 + beta.1 * (x == "b") )^days
 
     # variable objetivo (1 significa que *no* ocurre el suceso)
     y <- rbinom( n, 1, p )
 
     # ¡gráfico!
-    <a href="http://inside-r.org/r-doc/graphics/mosaicplot">mosaicplot( table( days, x, y ) )
+    mosaicplot( table( days, x, y ) )
 
 
     # modelo logístico "normal"
     dat <- data.frame( x = x, y = y, days = days )
-    m.0 <- <a href="http://inside-r.org/r-doc/stats/glm">glm( y ~ x, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial(), data = dat )
+    m.0 <- glm( y ~ x, family = binomial(), data = dat )
     m.0$coefficients
 
 
@@ -61,9 +61,9 @@ Adaptando [código ajeno](http://www.npwrc.usgs.gov/resource/birds/nestsurv/down
 
     logexp <- function(days)
     {
-        linkfun <- function(mu) <a href="http://inside-r.org/r-doc/stats/qlogis">qlogis(mu^(1/days))
-        linkinv <- function(eta) <a href="http://inside-r.org/r-doc/stats/plogis">plogis(eta)^(days)
-        mu.eta <- function(eta) days * <a href="http://inside-r.org/r-doc/stats/plogis">plogis(eta)^(days-1) * <a href="http://inside-r.org/r-doc/base/.Call">.Call("logit_mu_eta", eta, PACKAGE = "stats")
+        linkfun <- function(mu) qlogis(mu^(1/days))
+        linkinv <- function(eta) plogis(eta)^(days)
+        mu.eta <- function(eta) days * plogis(eta)^(days-1) * .Call("logit_mu_eta", eta, PACKAGE = "stats")
         valideta <- function(eta) TRUE
         link <- paste("logexp(", days, ")", sep="")
         structure(list(linkfun = linkfun, linkinv = linkinv,
@@ -80,7 +80,7 @@ Et voilá:
 
 
 
-    m.1 <- <a href="http://inside-r.org/r-doc/stats/glm">glm( y ~ x, <a href="http://inside-r.org/r-doc/stats/family">family=<a href="http://inside-r.org/r-doc/stats/binomial">binomial(logexp(days=dat$days)), data=dat )
+    m.1 <- glm( y ~ x, family=binomial(logexp(days=dat$days)), data=dat )
     m.1$coefficients
 
 

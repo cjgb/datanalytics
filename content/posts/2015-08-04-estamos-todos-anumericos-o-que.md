@@ -11,6 +11,7 @@ categories:
 tags:
 - anumerismo
 - números
+- civio
 ---
 
 Este es el número (por año) de condenados por provocar incendios forestales en España ([según Civio](http://espanaenllamas.es/espana-sigue-en-llamas/)):

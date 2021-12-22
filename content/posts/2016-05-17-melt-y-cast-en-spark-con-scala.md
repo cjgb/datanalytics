@@ -19,39 +19,34 @@ Trabajar con [Spark](http://spark.apache.org/) usando [Scala](http://www.scala-l
 
 ¿O no?
 
+{{< highlight scala "linenos=true" >}}
+import org.apache.spark.sql.types.StructField;
+import org.apache.spark.sql.types.StructType;
+import org.apache.spark.sql.types.StringType;
+import org.apache.spark.sql.types.DoubleType;
+import org.apache.spark.sql.Row;
 
+/** Create some data **/
 
-    <span style="color:#069;font-weight:700">import <span style="color:#0053ff;font-weight:700">org.<span style="color:#0053ff;font-weight:700">apache.<span style="color:#0053ff;font-weight:700">spark.<span style="color:#0053ff;font-weight:700">sql.<span style="color:#0053ff;font-weight:700">types.<span style="color:#0053ff;font-weight:700">StructField;
-    <span style="color:#069;font-weight:700">import <span style="color:#0053ff;font-weight:700">org.<span style="color:#0053ff;font-weight:700">apache.<span style="color:#0053ff;font-weight:700">spark.<span style="color:#0053ff;font-weight:700">sql.<span style="color:#0053ff;font-weight:700">types.<span style="color:#0053ff;font-weight:700">StructType;
-    <span style="color:#069;font-weight:700">import <span style="color:#0053ff;font-weight:700">org.<span style="color:#0053ff;font-weight:700">apache.<span style="color:#0053ff;font-weight:700">spark.<span style="color:#0053ff;font-weight:700">sql.<span style="color:#0053ff;font-weight:700">types.<span style="color:#0053ff;font-weight:700">StringType;
-    <span style="color:#069;font-weight:700">import <span style="color:#0053ff;font-weight:700">org.<span style="color:#0053ff;font-weight:700">apache.<span style="color:#0053ff;font-weight:700">spark.<span style="color:#0053ff;font-weight:700">sql.<span style="color:#0053ff;font-weight:700">types.<span style="color:#0053ff;font-weight:700">DoubleType;
-    <span style="color:#069;font-weight:700">import <span style="color:#0053ff;font-weight:700">org.<span style="color:#0053ff;font-weight:700">apache.<span style="color:#0053ff;font-weight:700">spark.<span style="color:#0053ff;font-weight:700">sql.<span style="color:#0053ff;font-weight:700">Row;
+val nrows = 20
+val origDF = sc.parallelize(1.to(nrows).map(x => (x, math.pow(x,2), math.pow(x,3)))).toDF("id", "cuadrado", "cubo")
 
+/** Melt **/
 
-    <span style="color:#af82d4">/** Create some data **/
+val ids  = Map("id" -> 0)
+val cols = Map("cuadrado" -> 1, "cubo" -> 2)
 
-    <span style="color:#069;font-weight:700">val nrows = <span style="color:#a8017e">20
-    <span style="color:#069;font-weight:700">val origDF = sc.parallelize(<span style="color:#a8017e">1.to(nrows).map(x => (x, math.pow(x,<span style="color:#a8017e">2), math.pow(x,<span style="color:#a8017e">3)))).toDF(<span style="color:#666">"id", <span style="color:#666">"cuadrado", <span style="color:#666">"cubo")
+def melt(x:Row, ids:Map[String, Int] , cols:Map[String, Int]) = {
+        var tmp = ids.mapValues(y => x(y))
+        for((k,v) <- cols) yield tmp + ("var" -> k, "value" -> x(v))
+}
 
-    <span style="color:#af82d4">/** Melt **/
+val df = origDF.flatMap(x => melt(x, ids, cols))
 
-    <span style="color:#069;font-weight:700">val ids  = Map(<span style="color:#666">"id" -> <span style="color:#a8017e">0)
-    <span style="color:#069;font-weight:700">val cols = Map(<span style="color:#666">"cuadrado" -> <span style="color:#a8017e">1, <span style="color:#666">"cubo" -> <span style="color:#a8017e">2)
+val newStructure = StructType( ids.values.map(x => origDF.schema(x)).toList ::: List(StructField("var", StringType), StructField("value", DoubleType)) )
+val meltDF = sqlContext.applySchema(df.map(x => Row.fromSeq(x.values.toList)), newStructure)
 
+/** cast **/
 
-    <span style="color:#069;font-weight:700">def <span style="color:#21439c">melt(x:Row, ids:Map[<span style="color:#ff5600">String, <span style="color:#ff5600">Int] , cols:Map[<span style="color:#ff5600">String, <span style="color:#ff5600">Int]) = {
-            <span style="color:#069;font-weight:700">var tmp = ids.mapValues(y => x(y))
-            <span style="color:#069;font-weight:700">for((k,v) <- cols) <span style="color:#069;font-weight:700">yield tmp + (<span style="color:#666">"var" -> k, <span style="color:#666">"value" -> x(v))
-    }
-
-    <span style="color:#069;font-weight:700">val df = origDF.flatMap(x => melt(x, ids, cols))
-
-    <span style="color:#069;font-weight:700">val newStructure = StructType( ids.values.map(x => origDF.schema(x)).toList ::: List(StructField(<span style="color:#666">"var", StringType), StructField(<span style="color:#666">"value", DoubleType)) )
-    <span style="color:#069;font-weight:700">val meltDF = sqlContext.applySchema(df.map(x => Row.fromSeq(x.values.toList)), newStructure)
-
-
-    <span style="color:#af82d4">/** cast **/
-
-    <span style="color:#069;font-weight:700">val castDF = meltDF.groupBy(<span style="color:#666">"id").pivot(<span style="color:#666">"var").sum(<span style="color:#666">"value")
-
-
+val castDF = meltDF.groupBy("id").pivot("var").sum("value")
+{{< / highlight >}}

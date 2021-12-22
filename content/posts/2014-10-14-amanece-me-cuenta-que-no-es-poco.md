@@ -30,7 +30,7 @@ El código con el que lo he construido (muy instructivo para quien quiera realiz
     library(<a href="http://inside-r.org/packages/cran/StreamMetabolism">StreamMetabolism)
     library(lubridate)
     library(ggplot2)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+    library(plyr)
 
     get.sunrise <- function(lat, lon){
       tmp <- sunrise.set(lat, lon, "2013/01/01", timezone="UTC", num.days = 365)

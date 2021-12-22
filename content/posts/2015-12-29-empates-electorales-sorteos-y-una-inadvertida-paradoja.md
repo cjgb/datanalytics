@@ -29,13 +29,3 @@ A la hora de asignar el tercer concejal, habría vuelto a haber empate. Pero est
 El empate final el en séptimo se habría resuelto por alternancia y le habría correspondido... ¡al PSOE! De manera que el PP, aun habiendo ganado el sorteo, habría perdido en el reparto de escaños.
 
 El lector interesado podrá averiguar en qué resultó toda esta historia si lee, aunque sea por encima, [la sentencia al respecto del Tribunal Constitucional](http://www.tribunalconstitucional.es/fr/jurisprudencia/Pages/Sentencia.aspx?cod=16398).
-
-
-
-
-
-
-
-
-
-

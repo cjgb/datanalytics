@@ -16,7 +16,7 @@ Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es
 
 
 
-    library(<a href="http://inside-r.org/r-doc/lattice/parallel">parallel)
+    library(parallel)
 
     cl <- makeCluster(8)
 
@@ -27,7 +27,7 @@ Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es
     {
     	# las librerías necesarias tienen que cargarse
     	# en cada esclavo
-    	library(<a href="http://inside-r.org/r-doc/rpart/rpart">rpart)
+    	library(rpart)
 
     	# en la práctica, hay que cargar los datos
     	# (¿desde fichero?) en cada esclavo
@@ -36,8 +36,8 @@ Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es
     	# lo mismo con las funciones necesarias
     	foo <- function(x, dat){
     		train <- 1:nrow(dat) %% 10 != 1
-    		mod <- <a href="http://inside-r.org/r-doc/rpart/rpart">rpart(Species ~ ., data = dat[train,])
-    		res <- <a href="http://inside-r.org/r-doc/stats/predict">predict(mod, dat[!train,])
+    		mod <- rpart(Species ~ ., data = dat[train,])
+    		res <- predict(mod, dat[!train,])
     	}
     })
 

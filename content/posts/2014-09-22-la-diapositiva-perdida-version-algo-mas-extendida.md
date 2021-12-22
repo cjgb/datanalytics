@@ -41,8 +41,8 @@ No obstante, hacer lo anterior implica suponer que los eventos de cada sujeto si
 
 
     dat <- data.frame(y = c(3,2), x = letters[1:2])
-    res <- <a href="http://inside-r.org/r-doc/stats/glm">glm(y~-1 + x, data = dat, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/poisson">poisson())
-    exp(<a href="http://inside-r.org/r-doc/stats/coefficients">coefficients(res))
+    res <- glm(y~-1 + x, data = dat, family = poisson())
+    exp(coefficients(res))
     #xa xb
     #3  2
 

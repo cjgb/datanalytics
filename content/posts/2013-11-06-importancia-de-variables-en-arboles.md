@@ -29,14 +29,14 @@ He aquí el código incrustado en un ejemplo:
 
     library(<a href="http://inside-r.org/packages/cran/party">party)
     library(ggplot2)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+    library(plyr)
 
     irisct <- ctree(Species ~ .,data = iris)
     irisct
     plot(irisct)
 
     ctree.varimp <- function(x,n = 0){
-      if(<a href="http://inside-r.org/r-doc/base/is.null">is.null(x$psplit$variableName))
+      if(is.null(x$psplit$variableName))
         return(NULL)
 
       res <- list(node = x$psplit$variableName, <a href="http://inside-r.org/packages/cran/depth">depth = n)
@@ -45,7 +45,7 @@ He aquí el código incrustado en un ejemplo:
     }
 
     res <- ctree.varimp(irisct@<a href="http://inside-r.org/packages/cran/tree">tree)
-    res <- do.call(rbind, lapply(res, <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame))
+    res <- do.call(rbind, lapply(res, as.data.frame))
     res$depth <- max(res$depth) + 1 - res$depth
 
     res <- ddply(res, .(node), summarize, importancia = sum(<a href="http://inside-r.org/packages/cran/depth">depth))

@@ -10,15 +10,12 @@ categories:
 tags:
 - correlación
 - tukey
+- windson
 ---
 
 [Este artículo](https://www.stat.berkeley.edu/~brill/Papers/jwtint4.pdf) comienza así:
 
-
-
-<blockquote>At a young statistical age John Tukey joined Charlie Windsor's Society for the Supression of Correlation Coefficients. </blockquote>
-
-
+>At a young statistical age John Tukey joined Charlie Windsor's Society for the Supression of Correlation Coefficients.
 
 ¿De verdad que no os intriga el resto?
 

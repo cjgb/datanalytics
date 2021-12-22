@@ -28,7 +28,7 @@ Inspirado en [esto](http://aschinchon.wordpress.com/2014/03/03/warholing-grace-w
     # la última dimensión es el rgb de cada pixel
 
     tmp <- tempfile()
-    <a href="http://inside-r.org/r-doc/utils/download.file">download.file("http://blog.guiasenior.com/images/Retrato_Garber.jpg", tmp)
+    download.file("http://blog.guiasenior.com/images/Retrato_Garber.jpg", tmp)
     x <- readJpeg(tmp)
 
     # si quieres mostrar la foto como un gráfico...
@@ -38,7 +38,7 @@ Inspirado en [esto](http://aschinchon.wordpress.com/2014/03/03/warholing-grace-w
     # luego buscamos 5 clústers
     # esencialmente, buscamos 7 "píxels representativos"
     d <- dim(x)
-    clarax <- <a href="http://inside-r.org/r-doc/cluster/clara">clara(array(x, dim = c(d[1] * d[2], d[3])), 7)
+    clarax <- clara(array(x, dim = c(d[1] * d[2], d[3])), 7)
 
     # reemplazamos cada rgb de cada cluster por su
     # "píxel representativo" (medioide) correspondiente

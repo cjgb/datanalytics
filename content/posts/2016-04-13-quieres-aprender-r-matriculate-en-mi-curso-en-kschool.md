@@ -22,12 +22,9 @@ Tendrá lugar durante el mes de junio (y un poco de julio). Son diez sesiones de
 
 El único prerrequisito es una mínima soltura con los ordenadores y que las palabras bucle, `if` o `for` no te suenen a chino (o inglés). Los objetivos confesables son tres (cuatro):
 
-
-
-	  * `Rmarkdown`
-	  * `ggplot2`
-	  * `shiny`
-	  * (Y todo el R necesario por el camino)
-
+* `Rmarkdown`
+* `ggplot2`
+* `shiny`
+* (Y todo el R necesario por el camino)
 
 Los inconfesables, que puedas reemplazar un montón de herramientas limitadas, viejunas e ineficientes (excel, etc.) en tu trabajo diario con datos por otra, R, mucho más eficaz y productiva.

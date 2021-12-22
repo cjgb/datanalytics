@@ -20,7 +20,7 @@ En España hay pruebas de acceso a la universidad que y [en algunos sitios publi
 
 {{< highlight R "linenos=true" >}}
 library(rvest)
-library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+library(plyr)
 library(rstan)
 library(reshape2)
 

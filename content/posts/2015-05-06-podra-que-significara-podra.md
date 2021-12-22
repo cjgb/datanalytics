@@ -10,11 +10,11 @@ categories:
 tags:
 - boe
 - reutilización
+- ley
+- datos públicos
 ---
 
 El artículo 8 de la [Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-19814) dice, (con mi subrayado):
-
-
 
 >La reutilización de la información de las Administraciones y de los organismos del sector público a los que se refiere el artículo 2 de la presente ley **podrá** estar sometida, entre otras, a las siguientes condiciones generales:
 >a) Que el contenido de la información no sea alterado.
@@ -23,8 +23,6 @@ El artículo 8 de la [Ley 37/2007, de 16 de noviembre, sobre reutilización de l
 >d) Que se mencione la fecha de la última actualización.
 
 _Podrá_ significa, entiendo, que los propietarios de los datos pueden establecer o no esas condiciones generales. Sin embargo, en el artículo 8, el régimen sancionador, se dice:
-
-
 
 >1. En el ámbito de la Administración General del Estado, se considerarán infracciones muy graves a lo previsto en esta ley:
 >a) La desnaturalización del sentido de la información para cuya reutilización se haya concedido una licencia;

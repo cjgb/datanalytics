@@ -16,11 +16,8 @@ tags:
 
 Vayan dos cosas por delante:
 
-
-
-	  * Que la de pretender acertar es una perniciosa manía. Más loable es la de tratar de evitar un fallo catastrófico.
-	  * Que recomiendo muy mucho seguir las cosas que hace [Kiko Llaneras](https://twitter.com/kikollan).
-
+* Que la de pretender acertar es una perniciosa manía. Más loable es la de tratar de evitar un fallo catastrófico.
+* Que recomiendo muy mucho seguir las cosas que hace [Kiko Llaneras](https://twitter.com/kikollan).
 
 Dicho lo cual...
 

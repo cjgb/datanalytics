@@ -25,12 +25,10 @@ Mantener dos referencias sincronizadas (.Rmd y .R) a mano es un gran NO.
 
 ¿La/mi solución? [Esta](https://github.com/cjgb/Rmd2R), que es un programa en Python que:
 
-
-
-	  * Convierte el texto del .Rmd y parte del encabezamiento en comentarios
-	  * Deja el código como tal
-	  * Horrorizará a quienes tengan experiencia programando cosas que huelan a máquinas de estado finito; o, peor aún, les inspirarán condescendencia
-	  * Pero que a mí me sobra
+* Convierte el texto del .Rmd y parte del encabezamiento en comentarios
+* Deja el código como tal
+* Horrorizará a quienes tengan experiencia programando cosas que huelan a máquinas de estado finito; o, peor aún, les inspirarán condescendencia
+* Pero que a mí me sobra
 
 
 

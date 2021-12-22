@@ -50,13 +50,13 @@ La solución que se plantea en ocasiones es el de usar variables instrumentales,
     cov.mat[3,1] <- cov.mat[1,3] <- sqrt(0.5)
 
     foo <- function(){
-    	xze <- data.frame(<a href="http://inside-r.org/r-doc/MASS/mvrnorm">mvrnorm(n, rep(0,3), cov.mat ))
+    	xze <- data.frame(mvrnorm(n, rep(0,3), cov.mat ))
     	colnames( xze ) <- c("x", "z", "e")
 
     	xze$y <- b.0 + b.1 * xze$x + xze$e
 
-    	c.m1 <- <a href="http://inside-r.org/r-doc/stats/coefficients">coefficients( lm( y ~ x, data = xze ) )
-    	c.m2 <- <a href="http://inside-r.org/r-doc/stats/coefficients">coefficients( ivreg( y ~ x | z, data = xze ) )
+    	c.m1 <- coefficients( lm( y ~ x, data = xze ) )
+    	c.m2 <- coefficients( ivreg( y ~ x | z, data = xze ) )
 
     	data.frame( c.1.1 = c.m1[1], c.1.2 = c.m1[2],
     		c.2.1 = c.m2[1], c.2.2 = c.m2[2] )

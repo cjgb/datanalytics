@@ -18,11 +18,8 @@ Es un ejemplo sencillo, estúpido, sin comentarios, desordenado y, en resumen, m
 
 El truco es de los sucios:
 
-
-
-	  * En `server.R` se guardan los parámetros que envía `ui.R` en un fichero _de intercambio_ con `save`.
-	  * La plantilla del .Rmd lee esos parámetros durante el proceso de compilación (con ``rmarkdown::render``).
-	  * `ui.R` pinta el html con `htmlOutput`.
-
+* En `server.R` se guardan los parámetros que envía `ui.R` en un fichero _de intercambio_ con `save`.
+* La plantilla del .Rmd lee esos parámetros durante el proceso de compilación (con ``rmarkdown::render``).
+* `ui.R` pinta el html con `htmlOutput`.
 
 Y, a partir de la plantilla, ¡a crecer!

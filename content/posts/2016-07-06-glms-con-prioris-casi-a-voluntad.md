@@ -33,7 +33,7 @@ y <- rbinom (n, 1, invlogit(b0+b1*x1+b2*x2))
 Comenzamos con un `glm` de toda la vida.
 
 {{< highlight R "linenos=true" >}}
-M1 <- <a href="http://inside-r.org/r-doc/stats/glm">glm (y ~ x1 + x2, <a href="http://inside-r.org/r-doc/stats/family">family=<a href="http://inside-r.org/r-doc/stats/binomial">binomial(link="logit"))
+M1 <- glm (y ~ x1 + x2, family=binomial(link="logit"))
 display (M1)
 # glm(formula = y ~ x1 + x2, family = binomial(link = "logit"))
 # coef.est coef.se
@@ -48,7 +48,7 @@ display (M1)
 El resultado es el mismo que usando `bayesglm` con una priori plana y totalmente ininiformativa:
 
 {{< highlight R "linenos=true" >}}
-M2 <- bayesglm (y ~ x1 + x2, <a href="http://inside-r.org/r-doc/stats/family">family=<a href="http://inside-r.org/r-doc/stats/binomial">binomial(link="logit"),
+M2 <- bayesglm (y ~ x1 + x2, family=binomial(link="logit"),
                 prior.scale=Inf, prior.df=Inf)
 display (M2)
 # bayesglm(formula = y ~ x1 + x2, family = binomial(link = "logit"),
@@ -65,7 +65,7 @@ display (M2)
 La cosa cambia cuando usamos la distribución a priori por defecto de `bayesglm`,
 
 {{< highlight R "linenos=true" >}}
-M3 <- bayesglm (y ~ x1 + x2, <a href="http://inside-r.org/r-doc/stats/family">family=<a href="http://inside-r.org/r-doc/stats/binomial">binomial(link="logit"))
+M3 <- bayesglm (y ~ x1 + x2, family=binomial(link="logit"))
 display (M3)
 # bayesglm(formula = y ~ x1 + x2, family = binomial(link = "logit"))
 # coef.est coef.se
@@ -80,7 +80,7 @@ display (M3)
 que es una Cauchy con _escala_ 2.5, i.e.,
 
 {{< highlight R "linenos=true" >}}
-M4 <- bayesglm (y ~ x1 + x2, <a href="http://inside-r.org/r-doc/stats/family">family=<a href="http://inside-r.org/r-doc/stats/binomial">binomial(link="logit"),
+M4 <- bayesglm (y ~ x1 + x2, family=binomial(link="logit"),
                 prior.scale=2.5, prior.df=1)
 display (M4)
 # bayesglm(formula = y ~ x1 + x2, family = binomial(link = "logit"),
@@ -97,14 +97,14 @@ display (M4)
 Nótese que la priori es una t, que _degenera_ en una normal cuando los grados de libertad son muchos, como en
 
 {{< highlight R "linenos=true" >}}
-M6 <- bayesglm (y ~ x1 + x2, <a href="http://inside-r.org/r-doc/stats/family">family=<a href="http://inside-r.org/r-doc/stats/binomial">binomial(link="logit"),
+M6 <- bayesglm (y ~ x1 + x2, family=binomial(link="logit"),
                 prior.scale=2.5, prior.df=Inf)
 {{< / highlight >}}
 
 Además de la escala y, en cierta medida, la anchura de las colas, también se puede indicar el _centro_ de las prioris (con `prior.mean`), tanto de manera global como individualmente para cada una de ellas:
 
 {{< highlight R "linenos=true" >}}
-M9 <- bayesglm(y ~ x1 + x2, <a href="http://inside-r.org/r-doc/stats/family">family=<a href="http://inside-r.org/r-doc/stats/binomial">binomial(link="logit"),
+M9 <- bayesglm(y ~ x1 + x2, family=binomial(link="logit"),
                 prior.scale=2.5, prior.df=7,
                 prior.mean = c(b1, b2))
 display(M9)

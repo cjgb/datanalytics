@@ -16,23 +16,17 @@ Un banco tiene clientes. Los clientes usan la tarjeta de débito. La pueden usar
 
 Para cada cliente, la secuencia de transacciones (más o menos larga) puede considerarse una [secuencia intercambiable](https://es.wikipedia.org/wiki/Variables_aleatorias_intercambiables) y, de acuerdo con el [teorema de representación de de Finetti](https://en.wikipedia.org/wiki/De_Finetti%27s_theorem),
 
-
-$latex p(x_1, \dots, x_n) = \int_0^1 \prod p(x_i | \theta) p(\theta) d\theta$
-
+$$ p(x_1, \dots, x_n) = \int_0^1 \prod p(x_i | \theta) p(\theta) d\theta$$
 
 donde $latex p(\theta)$ es una densidad de probabilidad soportada por [0,1]. Esa es la probabilidad _a priori_ y de la que me he ocupado en algunas entradas últimamente. Las sugerencias que uno encuentra en la literatura, según denuncié recientemente, remiten a la teoría de las prioris no informativas y muchos, en estos contextos, se decantarían por una beta $latex B(1,1)$.
 
 Sin embargo, el teorema de de Finetti no queda en la representación anterior. Añade que $latex p(\theta)$ es la densidad correspondiente a la distribución de
 
-
-$latex \lim_n \frac{\sum_i X_i}{n}$
-
+$$ \lim_n \frac{\sum_i X_i}{n}$$
 
 que puede aproximarse mediante (en nuestro caso), la colección de los promedios
 
-
-$latex \frac{\sum_i X_{ji}}{n_j}$
-
+$$ \frac{\sum_i X_{ji}}{n_j}$$
 
 donde $latex X_{ji}$ es la $latex i$-ésima transacción del $latex j$-ésimo cliente (que realiza $latex n_j$ transacciones).
 

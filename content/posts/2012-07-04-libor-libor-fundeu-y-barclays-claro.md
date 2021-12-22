@@ -59,17 +59,17 @@ Pero sin que, entiendo, afectase al Libor gracias a la _winsorización_ de la me
 
     library(ggplot2)
 
-    raw <- <a href="http://inside-r.org/r-doc/utils/read.csv">read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
+    raw <- read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
 
     dat <- raw[,c(1,2,8)]
     names(dat) <- c("bank", "date", "Libor3M" )
-    dat$date <- <a href="http://inside-r.org/r-doc/base/as.Date">as.Date( as.character(dat$date), "%d/%m/%Y" )
+    dat$date <- as.Date( as.character(dat$date), "%d/%m/%Y" )
 
-    <a href="http://inside-r.org/r-doc/utils/fix">fix <- subset( dat, bank == "FIX - USD")
+    fix <- subset( dat, bank == "FIX - USD")
     banks <- subset( dat, bank != "FIX - USD")
 
     banks2 <- subset( banks, date > "2008-09-01" & date < "2008-12-01" )
-    fix2   <- subset( <a href="http://inside-r.org/r-doc/utils/fix">fix, date > "2008-09-01" & date < "2008-12-01" )
+    fix2   <- subset( fix, date > "2008-09-01" & date < "2008-12-01" )
 
     banks2 <- merge( banks2, fix2[,-1], by = "date" )
     colnames( banks2 ) <- c("date", "bank", "Libor3M", "fix")
@@ -82,5 +82,5 @@ Pero sin que, entiendo, afectase al Libor gracias a la _winsorización_ de la me
 
     banks3 <- rbind( banks3, tmp )
 
-    ggplot( banks3, aes( x = date, y = Libor3M, <a href="http://inside-r.org/r-doc/grDevices/group">group = curve, colour = curve ) )
+    ggplot( banks3, aes( x = date, y = Libor3M, group = curve, colour = curve ) )
     + geom_line() + facet_wrap( ~ bank)

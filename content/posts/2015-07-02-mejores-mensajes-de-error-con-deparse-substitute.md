@@ -9,18 +9,20 @@ categories:
 - r
 tags:
 - r
+- trucos
+- errores
 ---
 
-foo <- function(<a href="http://inside-r.org/r-doc/stats/df">df, column.name){
-      if (!column.name %in% colnames(<a href="http://inside-r.org/r-doc/stats/df">df))
-        stop("Column ", column.name, " not found in ", deparse(substitute(<a href="http://inside-r.org/r-doc/stats/df">df)))
+{{< highlight R "linenos=true" >}}
+foo <- function(df, column.name){
+    if (!column.name %in% colnames(df))
+      stop("Column ", column.name, " not found in ", deparse(substitute(df)))
 
-      mean(<a href="http://inside-r.org/r-doc/stats/df">df$column.name)  # por ejemplo
-    }
+    mean(df$column.name)  # por ejemplo
+  }
 
-    foo(iris, "petal.area")
-
-
+  foo(iris, "petal.area")
+{{< / highlight >}}
 
 Lanza el error
 

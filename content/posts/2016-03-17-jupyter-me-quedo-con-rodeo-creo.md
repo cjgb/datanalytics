@@ -20,3 +20,5 @@ En RStudio, al menos, dispongo de la consola y de algún _programa_ que uso como
 Me sentiría mucho más cómodo con [Rodeo](https://github.com/yhat/rodeo/), un clon de Rstudio para Python.
 
 (Y sí, voy a ver si desoxido mi Python).
+
+**Addenda:** Hoy, en 2021, ni con el uno ni con el otro.

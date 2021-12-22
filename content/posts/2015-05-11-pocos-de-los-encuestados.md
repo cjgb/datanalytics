@@ -24,19 +24,11 @@ La gráfica con la que muestran la tabulación de los resultados es
 
 Hablantes que lo sean exclusivamente del aragonés encontraron 421 * 0.2 / 100 = 0.842, es decir, uno. Entonces, quien suscribe no entiende frases del artículo tales como
 
-
-
-<blockquote>También se debe indicar el escaso número de encuestados que declaran utilizar habitualmente de manera exclusiva el aragonés.</blockquote>
-
-
+>También se debe indicar el escaso número de encuestados que declaran utilizar habitualmente de manera exclusiva el aragonés.
 
 O
 
-
-
-<blockquote>Muy pocos encuestados (el 0,2%) declaran hablar de una manera cotidiana el aragonés exclusivamente. </blockquote>
-
-
+>Muy pocos encuestados (el 0,2%) declaran hablar de una manera cotidiana el aragonés exclusivamente.
 
 ¿Por qué usar el plural cuando podían haber dicho sencillamente que solo uno (en realidad, una) de los encuestados habla de manera cotidiana el aragonés exclusivamente? ¿Por qué describir ese magro subconjunto de encuestados estadísticamente cuando bien podían haberle hecho una entrevista (y una fotico) a su único integrante?
 

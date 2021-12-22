@@ -11,17 +11,14 @@ tags:
 - json
 - r
 - rjsonio
+- ética
 ---
 
 Leyendo por ahí, he encontrado un comentario sobre el paquete [`RJSONIO`](https://cran.r-project.org/web/packages/RJSONIO/index.html) de R en el que se recomendaba no usarlo por _no ser libre_.
 
 El paquete, aparentemente, está liberado bajo [una licencia BSD](https://cran.r-project.org/web/licenses/BSD_3_clause). Pero su pecado es que dentro de uno de los ficheros que contiene, `src/JSON_parser.c`, dice
 
-
-
-<blockquote>The Software shall be used for Good, not Evil.</blockquote>
-
-
+>The Software shall be used for Good, not Evil.
 
 Más información, [aquí](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=712159#22).
 

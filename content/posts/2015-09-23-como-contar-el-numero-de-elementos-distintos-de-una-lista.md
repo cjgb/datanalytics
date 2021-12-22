@@ -21,12 +21,10 @@ Por ese motivo, existen algoritmos que aproximan el número de elementos distint
 
 Veamos una versión simplificada de uno de ellos. A cada elemento se le calcula un _hash_. Un _hash_ es una función no continua. Por ejemplo, como esta:
 
-
-
-    <code>carlos@chino:~$ echo "hola" | md5sum
-    916f4c31aaa35d6b867dae9a7f54270d</code>
-
-
+{{< highlight bash "linenos=true" >}}
+carlos@chino:~$ echo "hola" | md5sum
+916f4c31aaa35d6b867dae9a7f54270d
+{{< / highlight >}}
 
 Convierte la cadena `"hola"` en un número (en hexadecimal), el que aparece arriba. Si se escribe en binario, se puede contar el número de ceros con el que principia.
 

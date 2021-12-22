@@ -20,8 +20,8 @@ En efecto,
 
 
     x <- replicate(1000, sum( runif(12) - 6 ))
-    <a href="http://inside-r.org/r-doc/stats/qqnorm">qqnorm(x)
-    <a href="http://inside-r.org/r-doc/stats/qqline">qqline(x, col=2)
+    qqnorm(x)
+    qqline(x, col=2)
 
 
 

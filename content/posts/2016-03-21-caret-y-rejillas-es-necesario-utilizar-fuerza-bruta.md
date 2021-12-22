@@ -18,35 +18,29 @@ Durante la [charla de Carlos Ortega del pasado jueves sobre el paquete `caret` y
 
 Cuando un determinado algoritmo depende de, p.e., cuatro parámetros, se puede definir una rejilla como en
 
-
-
-    gbmGrid <-  <a href="http://inside-r.org/r-doc/base/expand.grid">expand.grid(interaction.depth = c(1, 5, 9),
-                            n.trees = (1:30)*50,
-                            shrinkage = 0.1,
-                            n.minobsinnode = 20)
-
-
+{{< highlight R "linenos=true" >}}
+gbmGrid <-  expand.grid(interaction.depth = c(1, 5, 9),
+      n.trees = (1:30)*50,
+      shrinkage = 0.1,
+      n.minobsinnode = 20)
+{{< / highlight >}}
 
 y `caret` se encarga de ajustar el modelo bajo todas esas combinaciones de parámetros (90 en el ejemplo) para ver cuál de ellas es, con las debidas salvedades, óptima.
 
 Jorge Ayuso me planteó la siguiente pregunta: ¿cabría, en lugar de recorrer todas las combinaciones, utilizar un algoritmo de optimización que encontrase un óptimo en el espacio 4-dimensional de parámetros? En principio, la idea es sugerente, aunque está sujeta a dos consideraciones. La primera, pesimista, que el error que se quiere minimizar está sujeto a error. No es un valor fijo como cuando uno quiere maximizar $latex f(x)=x^2$. De hecho, la salida de `caret` es de la forma
 
-
-
-
-      interaction.depth  n.trees  Accuracy   Kappa      Accuracy SD  Kappa SD
-      1                   50      0.7705490  0.5350650  0.10073946   0.2037707
-      1                  100      0.7944632  0.5835422  0.09419873   0.1914364
-      1                  150      0.8011593  0.5964959  0.09019200   0.1851888
-      2                   50      0.8015147  0.5978660  0.09962239   0.2017663
-      2                  100      0.8088333  0.6119527  0.09563838   0.1946951
-      2                  150      0.8189363  0.6319720  0.08708353   0.1784560
-      3                   50      0.7953015  0.5855569  0.09652109   0.1969998
-      3                  100      0.8143113  0.6232661  0.08878854   0.1824782
-      3                  150      0.8217377  0.6373545  0.09037965   0.1866666
-
-
-
+{{< highlight R "linenos=true" >}}
+interaction.depth  n.trees  Accuracy   Kappa      Accuracy SD  Kappa SD
+1                   50      0.7705490  0.5350650  0.10073946   0.2037707
+1                  100      0.7944632  0.5835422  0.09419873   0.1914364
+1                  150      0.8011593  0.5964959  0.09019200   0.1851888
+2                   50      0.8015147  0.5978660  0.09962239   0.2017663
+2                  100      0.8088333  0.6119527  0.09563838   0.1946951
+2                  150      0.8189363  0.6319720  0.08708353   0.1784560
+3                   50      0.7953015  0.5855569  0.09652109   0.1969998
+3                  100      0.8143113  0.6232661  0.08878854   0.1824782
+3                  150      0.8217377  0.6373545  0.09037965   0.1866666
+{{< / highlight >}}
 
 donde se aprecia cómo el paquete tiene la decencia de mostrarnos la sd de la tasa de acierto. Muchos de los métodos de optimización habituales hacen _catas locales_ para calcular gradientes y similares.
 

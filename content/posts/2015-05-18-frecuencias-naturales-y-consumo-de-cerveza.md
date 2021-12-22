@@ -23,21 +23,13 @@ El gráfico anterior está extraído de [este documento](http://www.diss.fu-berl
 
 Entienden que es preferible decir que _de cada 100 litros de cerveza vendidos en España, 20 se distribuyen en botella, 30 en lata y 30 en barril_ (¡ya sé que no suman 100!) que reescribir la información anterior en forma de porcentajes. Eso, sí, respetando una misma cantidad de partida y porsupuestísimo, no escribiendo, como [aquí](http://economia.elpais.com/economia/2015/05/14/actualidad/1431625165_052272.html), que
 
-
-
-<blockquote>Por tipo de envase, algo más de cuatro de cada 20 litros de cerveza vendidos en 2014 se presentaban en botella, tres de cada 10 en lata y algo menos de tres en barril, el formato más habitual en bares.</blockquote>
-
-
+>Por tipo de envase, algo más de cuatro de cada 20 litros de cerveza vendidos en 2014 se presentaban en botella, tres de cada 10 en lata y algo menos de tres en barril, el formato más habitual en bares.
 
 ¿Por qué tratar de despistar al lector cambiando arbitrariamente el denominador?
 
 Es de notar que el mismo periodista continúa el artículo diciendo que
 
-
-
-<blockquote>El grupo Mahou-San Miguel —al que pertenecen las marcas Mahou, San Miguel y Alhambra— consolidó en 2014 su liderazgo en España (casi 12.000 hectolitros), seguido por Heineken —Heineken, Cruzcampo y Amstel— (poco más de 10.000) y Damm —Estrella Damm y Estrella de Levante— (8.300). A mucha distancia, Estrella Galicia (1.775 _hecolitros_), la Compañía Cervecera de Canarias (851) y La Zaragozana (675) cierran la clasificación de fabricantes.</blockquote>
-
-
+>El grupo Mahou-San Miguel —al que pertenecen las marcas Mahou, San Miguel y Alhambra— consolidó en 2014 su liderazgo en España (casi 12.000 hectolitros), seguido por Heineken —Heineken, Cruzcampo y Amstel— (poco más de 10.000) y Damm —Estrella Damm y Estrella de Levante— (8.300). A mucha distancia, Estrella Galicia (1.775 _hecolitros_), la Compañía Cervecera de Canarias (851) y La Zaragozana (675) cierran la clasificación de fabricantes.
 
 En total, unos 40.000 hectolitros. Que tocarían a 0.08 litros de cerveza por español. Media caña por español y año. ¿De cuántos órdenes de magnitud es el error?
 

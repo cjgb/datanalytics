@@ -55,7 +55,7 @@ Ahora,
 
 
     library(<a href="http://inside-r.org/packages/cran/party">party)
-    modelo <- mob(y ~ treat | v1 + v2 + v3, data = dat, <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/binomial">binomial())
+    modelo <- mob(y ~ treat | v1 + v2 + v3, data = dat, family = binomial())
     plot(modelo)
 
 

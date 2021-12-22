@@ -16,29 +16,27 @@ tags:
 
 Acabo de ejecutar
 
+{{< highlight R "linenos=true" >}}
+set.seed(1234)
 
+x <- runif(1e6)
+x.shift <- 1e9 + x
 
-    set.seed(1234)
+sd(x)
+sd(x.shift)
 
-    x <- runif(1e6)
-    x.shift <- 1e9 + x
+sqrt(sum((x - mean(x))^2) / (length(x - 1)))
+sqrt(sum((x.shift - mean(x.shift))^2) / (length(x - 1)))
 
-    sd(x)
-    sd(x.shift)
+sd.sum.squares <- function(x){
+  n <- length(x)
+  suma <- sum(x)
+  suma.cuadrados <- sum(x^2)
+  sqrt((n * suma.cuadrados - suma^2) / (n * (n-1)))
+}
 
-    sqrt(sum((x - mean(x))^2) / (length(x - 1)))
-    sqrt(sum((x.shift - mean(x.shift))^2) / (length(x - 1)))
-
-    sd.sum.squares <- function(x){
-      n <- length(x)
-      suma <- sum(x)
-      suma.cuadrados <- sum(x^2)
-      sqrt((n * suma.cuadrados - suma^2) / (n * (n-1)))
-    }
-
-    sd.sum.squares(x)
-    sd.sum.squares(x.shift)
-
-
+sd.sum.squares(x)
+sd.sum.squares(x.shift)
+{{< / highlight >}}
 
 inspirado por [esto](http://www.johndcook.com/blog/2008/09/26/comparing-three-methods-of-computing-standard-deviation/) y me pregunto: ¿tanto ha llovido en términos de precisión numérica desde 2008?

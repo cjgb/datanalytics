@@ -20,30 +20,24 @@ Los coeficientes de la regresión logística tienen una interpretación _recta_ 
 
 Supongamos que para un sujeto $latex i$, la probabilidad estimada del suceso en cuestión es
 
-
-$latex p_i = \text{logit}^{-1}(a_0 + a_1 x_{1i} + a_2 x_{2i}).$
-
+$$ p_i = \text{logit}^{-1}(a_0 + a_1 x_{1i} + a_2 x_{2i}).$$
 
 Entonces, si $latex x_{1i}$ se incrementa en una unidad, ¿cómo varía $latex p_i$? Depende. Pero podemos acotar la variación de probabilidad porque
 
-
-$latex \Delta p_i \approx \frac{\partial \text{logit}^{-1}}{\partial x}(a_0 + a_1 x_{1i} + a_2 x_{2i}) a_1 \Delta x_{1i} < \text{max} \big( \frac{\partial \text{logit}^{-1}}{\partial x} \big) a_1 \Delta x_{1i} = .25 a_1 \Delta x_{1i}$
-
+$$ \Delta p_i \approx \frac{\partial \text{logit}^{-1}}{\partial x}(a_0 + a_1 x_{1i} + a_2 x_{2i}) a_1 \Delta x_{1i} < \text{max} \big( \frac{\partial \text{logit}^{-1}}{\partial x} \big) a_1 \Delta x_{1i} = .25 a_1 \Delta x_{1i}$$
 
 (supuesto que tanto $latex a_1 > 0$ como $latex \Delta x_{1i} > 0$). Por lo que la variación de la probabilidad al aumentar el valor de la variable en una unidad es un cuarto del valor del coeficiente en cuestión.
 
 Es un cuarto porque (me da pereza calcular derivadas, ni aun con Wolfram Alfa)
 
+{{< highlight R "linenos=true" >}}
+lotgitinvprime <- function(x)
+  (plogis(x + 0.001) - plogis(x) ) / 0.001
 
-
-    lotgitinvprime <- function(x)
-      (<a href="http://inside-r.org/r-doc/stats/plogis">plogis(x + 0.001) - <a href="http://inside-r.org/r-doc/stats/plogis">plogis(x) ) / 0.001
-
-    curve(lotgitinvprime, -3, 3,
-          main = "Derivada de la inversa de la función logística",
-          ylab = "")
-
-
+curve(lotgitinvprime, -3, 3,
+      main = "Derivada de la inversa de la función logística",
+      ylab = "")
+{{< / highlight >}}
 
 produce
 

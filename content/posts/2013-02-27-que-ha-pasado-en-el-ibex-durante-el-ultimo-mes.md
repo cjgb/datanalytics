@@ -28,14 +28,14 @@ Y, como siempre, el código:
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/tseries">tseries)
-    library(<a href="http://inside-r.org/packages/cran/zoo">zoo)
-    library(<a href="http://inside-r.org/packages/cran/XML">XML)
+    library(tseries)
+    library(zoo)
+    library(XML)
     library(reshape)
     library(ggplot2)
 
-    foo  <- function( simbolo, final = <a href="http://inside-r.org/r-doc/base/Sys.time">Sys.time(), profundidad = 30 * 24 * 3600 ){
-      precios <- get.hist.quote(instrument= simbolo, <a href="http://inside-r.org/r-doc/stats/start">start = final - profundidad,
+    foo  <- function( simbolo, final = Sys.time(), profundidad = 30 * 24 * 3600 ){
+      precios <- get.hist.quote(instrument= simbolo, start = final - profundidad,
                                 end = final, quote=c("AdjClose"),
                                 provider="yahoo", origin="1970-01-01",
                                 compression="d", retclass="zoo")
@@ -57,7 +57,7 @@ Y, como siempre, el código:
     ibex.df <- data.frame(ibex.scaled, fecha = index(ibex.scaled))
     ibex.df <- melt(ibex.df, id.vars = "fecha")
     ibex.df <- ibex.df[ order(ibex.df$fecha, ibex.df$variable), ]
-    ibex.df$cluster <- <a href="http://inside-r.org/r-doc/stats/kmeans">kmeans(data.frame(t(ibex.scaled)), 4)$cluster
+    ibex.df$cluster <- kmeans(data.frame(t(ibex.scaled)), 4)$cluster
 
-    ggplot(ibex.df, aes(x=fecha, y=value, <a href="http://inside-r.org/r-doc/grDevices/group">group=variable)) +
+    ggplot(ibex.df, aes(x=fecha, y=value, group=variable)) +
             geom_line() + facet_wrap(~cluster)

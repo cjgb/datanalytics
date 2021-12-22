@@ -48,7 +48,7 @@ Pero me parece más limpio usar el [paquete `quantreg`](http://www.datanalytics.
 
 
     library(<a href="http://inside-r.org/packages/cran/quantreg">quantreg)
-    rq(x ~ 1, <a href="http://inside-r.org/r-doc/boot/tau">tau = 0.5, <a href="http://inside-r.org/r-doc/stats/weights">weights=pesos)$coef
+    rq(x ~ 1, tau = 0.5, weights=pesos)$coef
 
 
 

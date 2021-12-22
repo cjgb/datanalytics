@@ -44,7 +44,7 @@ Intrigado por el comportamiento de mis usuarios, tomé (parte de) mis _logs_, fi
     res <- data.frame(do.call(rbind, res))
 
     res[,2] <- as.numeric( gsub("cd=", "", res[,2]) )
-    res[,1] <- sapply(as.character(res[,1]), <a href="http://inside-r.org/r-doc/utils/URLdecode">URLdecode)
+    res[,1] <- sapply(as.character(res[,1]), URLdecode)
     res[,1] <- gsub("q=", "", res[,1])
     res <- res[res[,1] != "", ]
 

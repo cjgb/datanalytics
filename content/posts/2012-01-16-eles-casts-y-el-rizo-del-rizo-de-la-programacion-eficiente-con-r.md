@@ -17,26 +17,26 @@ Ante las preguntas de alguno de mis lectores, voy a proporcionar una explicació
 
     a <- rep( 0, 10 )
     typeof( a )
-    <a href="http://inside-r.org/r-doc/utils/object.size">object.size( a )
+    object.size( a )
 
     b <- rep( 0L, 10 )
     typeof( b )
-    <a href="http://inside-r.org/r-doc/utils/object.size">object.size( b )
+    object.size( b )
 
     ##############
 
     a <- 1:10
     typeof( a )
-    <a href="http://inside-r.org/r-doc/utils/object.size">object.size( a )
+    object.size( a )
 
     a[1] <- 10
     typeof( a )
-    <a href="http://inside-r.org/r-doc/utils/object.size">object.size( a )
+    object.size( a )
 
     a <- 1:10
     a[1] <- 10L
     typeof( a )
-    <a href="http://inside-r.org/r-doc/utils/object.size">object.size( a )
+    object.size( a )
 
     ##############
 

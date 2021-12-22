@@ -45,7 +45,7 @@ El paquete está [disponible en R-Forge](https://r-forge.r-project.org/projects/
 
 
 
-    <a href="http://inside-r.org/r-doc/utils/install.packages">install.packages("MicroDatosEs", repos="http://R-Forge.R-project.org")
+    install.packages("MicroDatosEs", repos="http://R-Forge.R-project.org")
 
 
 

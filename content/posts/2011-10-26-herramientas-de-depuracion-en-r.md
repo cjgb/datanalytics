@@ -20,7 +20,7 @@ Una de las primeras que menciona el libro es la función `stopifnot`, que puede 
 {{< highlight R "linenos=true" >}}
 mi.error <- function( x ){
     res <- 1 / x
-    stopifnot( ! <a href="http://inside-r.org/r-doc/base/is.infinite">is.infinite( res ) )
+    stopifnot( ! is.infinite( res ) )
     2 * res
 }
 

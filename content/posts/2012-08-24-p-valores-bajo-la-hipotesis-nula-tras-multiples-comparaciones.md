@@ -22,7 +22,7 @@ Aun en esas circunstancias es posible, [como comentábamos ayer](http://www.data
     foo <- function(){
     	x <- rnorm( 100 )
     	y <- rnorm( 100 )
-    	<a href="http://inside-r.org/r-doc/stats/t.test">t.test( x, y, alternative = "greater" )$p.value
+    	t.test( x, y, alternative = "greater" )$p.value
     }
 
 

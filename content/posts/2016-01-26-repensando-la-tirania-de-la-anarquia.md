@@ -25,10 +25,8 @@ Del estudio parece deducirse, en lectura rápida, que es mejor evitar la norma d
 
 Así que las preguntas que plantea el estudio son:
 
-
-
-	  * ¿Se obtendrían los mismos resultados en tramos más cortos?
-	  * ¿Se perdería eficiencia global si los resultados obtenidos en tramos muy largos se extrapolasen a todos?
+* ¿Se obtendrían los mismos resultados en tramos más cortos?
+* ¿Se perdería eficiencia global si los resultados obtenidos en tramos muy largos se extrapolasen a todos?
 
 
 

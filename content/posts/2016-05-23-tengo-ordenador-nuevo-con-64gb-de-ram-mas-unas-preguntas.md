@@ -10,6 +10,7 @@ categories:
 tags:
 - computación
 - hardware
+- ram
 ---
 
 Sí, mi viejo ordenador había cumplido 6 años y comenzaba a quedarse corto. La puntilla fueron problemas de compatibilidad de la tarjeta gráfica con el nuevo Xubuntu (más precisamente, con los nuevos núcleos de Linux que trae). Así que lo que hace no tanto habría parecido ciencia ficción, es ahora realidad bajo mi mesa: 64GB de RAM para mí solo. Y eso que no me he querido gastar dinero; además que, como autónomo y siendo la nueva máquina herramienta de trabajo, viene a salirme como en la mitad que a un civil.

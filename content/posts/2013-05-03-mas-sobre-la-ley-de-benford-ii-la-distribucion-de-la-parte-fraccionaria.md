@@ -39,9 +39,9 @@ Esto se verifica fácilmente en ciertos casos. Por ejemplo,
     x <- rnorm(100000)
     x <- x - floor(x)
 
-    <a href="http://inside-r.org/r-doc/graphics/par">par(mfrow=c(1,2))
+    par(mfrow=c(1,2))
     hist(x, col = "grey")
-    <a href="http://inside-r.org/r-doc/stats/qqplot">qqplot(x, runif(100000), main = "qqplot")
+    qqplot(x, runif(100000), main = "qqplot")
 
 
 

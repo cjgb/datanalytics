@@ -19,11 +19,8 @@ Hay una convocatoria abierta en Medialab-Prado para proponer (primero) y desarro
 
 Los detalles están en el enlace anterior pero traslado aquí los más urgentes:
 
-
-
-	  * Los talleres se desarrollarán del 23 al 25 de octubre y del 11 al 13 de diciembre de 2015.
-	  * La convocatoria está abierta del 15 de julio al 15 de septiembre.
-
+* Los talleres se desarrollarán del 23 al 25 de octubre y del 11 al 13 de diciembre de 2015.
+* La convocatoria está abierta del 15 de julio al 15 de septiembre.
 
 Supongo que conocéis el chiste del estadístico y el pollo: que si una persona se come uno y otra ninguno, vendrá aquel y dirá que ambos comieron [en promedio] medio. Esta es una ocasión en que podemos reivindicar lo contrario y aportar nuestra experiencia al respecto.
 

@@ -9,22 +9,18 @@ categories:
 - r
 tags:
 - r
+- trucos
 ---
 
 En Twitter, leo
 
-
-
-<blockquote>The state of the art in statistical computing:
-
+>The state of the art in statistical computing:
+>
 > sum(c(1, 2), na.r=F)
 [1] 3
 > sum(c(1, 2), na.r=T)
 [1] 4
 >
 > -- John Myles White (@johnmyleswhite) [September 8, 2015](https://twitter.com/johnmyleswhite/status/641311405296230400)</blockquote>
-
-
-
 
 ¿Alguien puede explicar lo que ocurre? ¿Es tan grade como parece indicar sorna el autor del tuit?

@@ -27,7 +27,7 @@ A la pregunta, tal vez con una formulación mejorable de un usuario de la lista 
            for( j in 1:length( y ) )
                    z[i,j] <- dmvnorm( c( x[i], y[j] ), c(0,0), sigma )
 
-    <a href="http://inside-r.org/r-doc/graphics/persp">persp( x, y, z )
+    persp( x, y, z )
 
 
 
@@ -48,7 +48,7 @@ No obstante, la solución alternativa de Carlos Ortega es toda una virguería qu
     material3d(col="black")
     persp3d(Z$x, Z$y, Z$z, <a href="http://inside-r.org/packages/cran/aspect">aspect=c(1, 1, 0.5), col = "lightblue", xlab = "X",
     ylab = "Y", zlab = "Z")
-    play3d(spin3d(<a href="http://inside-r.org/r-doc/graphics/axis">axis=c(0,0,1), rpm=5), duration=20)
+    play3d(spin3d(axis=c(0,0,1), rpm=5), duration=20)
 
 
 

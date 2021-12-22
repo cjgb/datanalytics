@@ -13,13 +13,10 @@ tags:
 
 Escribo hoy para invitar a leer [esto](http://www.johndcook.com/blog/2011/11/21/career-advice-regarding-tools/), una entrada en otra bitácora que recoge y resume ideas que ya han aparecido en la mía, como por ejemplo:
 
-
-
-	  * Usa herramientas para las que no tengas que pedir permiso (típicamente, abiertas)
-	  * Considera el tiempo que pases trabajando en una empresa grande _aprendizaje subsidiado_
-	  * Especialízate un conjunto de cosas que sepas hacer mejor que la mayoría
-	  * Aprende a plantear preguntas
-	  * Aprende (cuando menos) un lenguaje de programación
-
+* Usa herramientas para las que no tengas que pedir permiso (típicamente, abiertas)
+* Considera el tiempo que pases trabajando en una empresa grande _aprendizaje subsidiado_
+* Especialízate un conjunto de cosas que sepas hacer mejor que la mayoría
+* Aprende a plantear preguntas
+* Aprende (cuando menos) un lenguaje de programación
 
 Y algunas otras.

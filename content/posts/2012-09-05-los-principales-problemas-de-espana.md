@@ -28,8 +28,8 @@ Utilizando el código de Gregorio Serrano con algunos retoques, es decir, hacien
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/XML">XML)
-    library(<a href="http://inside-r.org/packages/cran/zoo">zoo)
+    library(XML)
+    library(zoo)
     library(ggplot2)
     library(reshape)
 
@@ -51,7 +51,7 @@ Utilizando el código de Gregorio Serrano con algunos retoques, es decir, hacien
     fechas <- gsub("ene", "jan", fechas)
     fechas <- gsub("dic", "dec", fechas)
 
-    fechas <- <a href="http://inside-r.org/r-doc/base/as.Date">as.Date(paste("15", fechas, sep = ""), format = "%d%b%y")
+    fechas <- as.Date(paste("15", fechas, sep = ""), format = "%d%b%y")
     filas <- as.character(cis.tab[2:nr, 1])
 
     datos <- cis.tab[2:nr, 2:nc]
@@ -61,12 +61,12 @@ Utilizando el código de Gregorio Serrano con algunos retoques, es decir, hacien
     rownames(datos) <- as.character(fechas)
 
     datos <- datos[,1:(ncol(datos) - 5)]
-    dz <- <a href="http://inside-r.org/packages/cran/zoo">zoo(datos, as.yearmon(fechas), <a href="http://inside-r.org/r-doc/stats/frequency">frequency = 12)
+    dz <- zoo(datos, as.yearmon(fechas), frequency = 12)
 
     # rellenamos las fechas que faltan
-    tmp <- <a href="http://inside-r.org/packages/cran/zoo">zoo( NULL, order.by = seq(<a href="http://inside-r.org/r-doc/stats/start">start(dz), end(dz), by = 1/12))
+    tmp <- zoo( NULL, order.by = seq(start(dz), end(dz), by = 1/12))
     x <- merge( tmp, dz)
-    index(x) <- <a href="http://inside-r.org/r-doc/base/as.Date">as.Date(index(x))
+    index(x) <- as.Date(index(x))
 
     x.df <- data.frame(dates=index(x), coredata(x))
     x.df <- melt(x.df, id="dates", variable="valor")

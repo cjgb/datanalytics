@@ -16,25 +16,12 @@ tags:
 
 Hace unos días publiqué esto en Twitter:
 
-
-<blockquote>"A mayor proliferación de controles, más oportunidades para la corrupción, que suelen acabar en más corrupción" [http://t.co/UHPBYXmDsU](http://t.co/UHPBYXmDsU)
-
-— Carlos Gil Bellosta (@gilbellosta) [April 10, 2015](https://twitter.com/gilbellosta/status/586440992292601856)</blockquote>
+{{< twitter user="gilbellosta" id="586440992292601856" >}}
 
 
 David Cabo, muy oportunamente, denunció
 
-
-
-<blockquote>
-[@gilbellosta](https://twitter.com/gilbellosta) joder, lo del artículo es un correlation is not causation de libro, no?
-
-— David Cabo (@dcabo) [April 10, 2015](https://twitter.com/dcabo/status/586473395166044161)
-</blockquote>
-
-
-
-
+{{< twitter user="dcabo" id="586473395166044161" >}}
 
 Cosa que no niego. La frase que resumía el enlace tiene esa pintaza. No obstante, [el artículo al que apunta](http://www.caffereggio.net/2015/01/13/corrupcion-y-regeneracion-de-germa-bel-en-la-vanguardia/) es una elaboración de esa frase. El artículo, además, incluye (y no es habitual) referencias a dos artículos académicos (que no he consultado) que, entiendo, tratan y desarrollan la cuestión.
 
@@ -44,9 +31,7 @@ Insisto, no sé mucho de asunto y mi experiencia personal en la navegación de [
 
 Pero si hablo de eso, no hago justicia al título de esta entrada. Hablemos pues de información y sorpresa. Hablemos de
 
-
-$latex I(\omega) = - \log(P(\omega))$
-
+$$ I(\omega) = - \log(P(\omega))$$
 
 un indicador llamado [cantidad de información](http://en.wikipedia.org/wiki/Self-information). O también _sorpresa_.
 

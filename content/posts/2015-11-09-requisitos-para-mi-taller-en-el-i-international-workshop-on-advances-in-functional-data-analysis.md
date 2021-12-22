@@ -19,35 +19,28 @@ I will be presenting a hands-on workshop. Those attending it are invited to inst
 
 **_Software_:**
 
-
-
-	  * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-	  * ssh (via [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) on Windows)
-	  * The [virtual machine](http://datanalytics.com/uploads/hortonworks_sandbox_1.3_rstudio.zip) (3GB!)
-
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* ssh (via [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) on Windows)
+* The [virtual machine](http://datanalytics.com/uploads/hortonworks_sandbox_1.3_rstudio.zip) (3GB!)
 
 The virtual machine is large (a 3GB compressed file) and it will be impossible to download it during the sessions. Attendees are advised to download the files (and test the installation) in advance.
 
 **_Hardware_:**
 
-
-
-	  * A laptop with a minimum 4GB RAM, recommended +8GB
-	  * 64 bit computer/OS
+* A laptop with a minimum 4GB RAM, recommended +8GB
+* 64 bit computer/OS
 
 **Instructions:**
 
+* Download the VirtualBox version required by your system
+* Download and unzip the virtual machine
+* Open VirtualBox and then `Machine > Add` (the unzipped file)
+* Start the virtual machine (and check it does!)
+* If something goes wrong:
 
-
-	  * Download the VirtualBox version required by your system
-	  * Download and unzip the virtual machine
-	  * Open VirtualBox and then `Machine > Add` (the unzipped file)
-	  * Start the virtual machine (and check it does!)
-	  * If something goes wrong:
-
-	    * Check the known errors (below)
-	    * Google the error and solve it
-	    * Email me a description of the problem
+	* Check the known errors (below)
+	* Google the error and solve it
+	* Email me a description of the problem
 
 
 **Accessing the virtual machine:**
@@ -58,17 +51,14 @@ The virtual machine is large (a 3GB compressed file) and it will be impossible t
 
 **web:**
 
+* rstudio:
 
+	* http://localhost:8787
+	* u/p: rhadoop/rhadoop
 
-	  * rstudio:
+* hadoop job tracker:
 
-	    * http://localhost:8787
-	    * u/p: rhadoop/rhadoop
-
-	  * hadoop job tracker:
-
-	    * http://localhost:50030
-
+	* http://localhost:50030
 
 
 **Known problems:**

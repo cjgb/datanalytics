@@ -50,13 +50,13 @@ Ahora hago
                      cuantos.previos, muestra, delta)
       dat  <- data.frame(muestra = muestra, prev = prev)
 
-      res.glm <- <a href="http://inside-r.org/r-doc/stats/glm">glm(muestra ~ prev, data = dat,
-                     <a href="http://inside-r.org/r-doc/stats/family">family = <a href="http://inside-r.org/r-doc/stats/poisson">poisson(link = "identity"))
+      res.glm <- glm(muestra ~ prev, data = dat,
+                     family = poisson(link = "identity"))
       c(delta, res.glm$coefficients, summary(res.glm)$aic)
     }
 
     res.glm <- sapply(1:10, fit.glm)
-    res.glm <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(t(res.glm))
+    res.glm <- as.data.frame(t(res.glm))
     colnames(res.glm) <- c("delta", "mu", "alfa", "aic")
 
 

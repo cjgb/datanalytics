@@ -47,7 +47,7 @@ Luego he descargado y procesado el mapa que me proporciona el contorno de la Esp
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/maptools">maptools)
+    library(maptools)
     tmp <- readShapePoly("ESP_adm0.shp")
     peninsula <- tmp@polygons[[1]]@Polygons[[187]]
     aeropuestos.peninsula <- point.in.polygon(aeropuertos$lon,
@@ -87,18 +87,18 @@ Finalmente,
 
     library(raster)
 
-    resk <- SpatialPoints(<a href="http://inside-r.org/r-doc/base/expand.grid">expand.grid(grid.lon, grid.lat))
-    resk <- SpatialPixelsDataFrame(resk, data.frame(<a href="http://inside-r.org/r-doc/stats/dist">dist = <a href="http://inside-r.org/r-doc/base/as.vector">as.vector(res)))
+    resk <- SpatialPoints(expand.grid(grid.lon, grid.lat))
+    resk <- SpatialPixelsDataFrame(resk, data.frame(dist = as.vector(res)))
 
     sp.peninsula <- Polygon(peninsula@coords)
     sp.peninsula <- Polygons(list(sp.peninsula), ID = "peninsula")
     sp.peninsula <- SpatialPolygons(list(sp.peninsula))
 
-    seleccionados <- !is.na(<a href="http://inside-r.org/r-doc/grDevices/over">over(resk, sp.peninsula))
+    seleccionados <- !is.na(over(resk, sp.peninsula))
 
     final <- resk[seleccionados,]
 
-    <a href="http://inside-r.org/r-doc/graphics/image">image(final)
+    image(final)
 
 
 

@@ -16,14 +16,11 @@ tags:
 
 Me piden bibliografía para unos cursos de ciencia de datos. En particular, de estadística básica. Un texto que reúna los conceptos fundamentales de la cosa para quienes o no los aprendieron en su día o los olvidaron por el camino. Tiene que cumplir algunos requisitos mínimos:
 
-
-
-
-	  * Que presente los gráficos estadísticos básicos y que no estén construidos con Excel (en 3D).
-	  * Que, a lo más, incluya un único gráfico de tarta.
-	  * Que no sea muy pesado matemáticamente.
-	  * Que sea breve, pero no demasiado.
-	  * Que esté accesible, idealmente en internet, gratuita y legalmente.
+* Que presente los gráficos estadísticos básicos y que no estén construidos con Excel (en 3D).
+* Que, a lo más, incluya un único gráfico de tarta.
+* Que no sea muy pesado matemáticamente.
+* Que sea breve, pero no demasiado.
+* Que esté accesible, idealmente en internet, gratuita y legalmente.
 
 
 Finalmente, si está escrito escrito en español y usa R, mejor aún.

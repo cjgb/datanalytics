@@ -9,6 +9,7 @@ categories:
 - varios
 tags:
 - ciencia
+- mala ciencia
 ---
 
 La escala de grises media entre un blanco y un negro, las dos posturas frecuentemente identificables que expongo.

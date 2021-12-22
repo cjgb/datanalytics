@@ -48,9 +48,9 @@ Habida cuenta de lo infrecuente del fenómeno, es decir, el asesinato de una muj
 
     range( dat )
     # 50 76
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( replicate( 1000, max( <a href="http://inside-r.org/r-doc/stats/rpois">rpois( length(dat), mean( dat ) ) ) ) )
+    fivenum( replicate( 1000, max( rpois( length(dat), mean( dat ) ) ) ) )
     # 64  74  77  80 100
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( replicate( 1000, min( <a href="http://inside-r.org/r-doc/stats/rpois">rpois( length(dat), mean(dat) ) ) ) )
+    fivenum( replicate( 1000, min( rpois( length(dat), mean(dat) ) ) ) )
     # 38 50 52 55 64
 
 

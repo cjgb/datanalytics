@@ -29,7 +29,7 @@ Voy a presentar uno. Se trata de un _clústering_ simple:
     rot <- sqrt(2) * 0.5 * matrix(c(1, 1, -1, 1), 2, 2)
     m <- m %*% rot
 
-    tmp <- <a href="http://inside-r.org/r-doc/stats/kmeans">kmeans(m, 2)
+    tmp <- kmeans(m, 2)
 
     plot(m, col = tmp$cluster, asp = 1)
 
@@ -42,9 +42,9 @@ Pero puede darse el caso de que haya motivos para pensar que la dirección NO-SE
 
 
 
-    m.pca <- <a href="http://inside-r.org/r-doc/stats/princomp">princomp(m, 2)$scores
+    m.pca <- princomp(m, 2)$scores
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(m.pca)
+    head(m.pca)
     ##        Comp.1   Comp.2
     ## [1,]  0.05277  0.01147
     ## [2,] -1.02216 -0.73577
@@ -73,7 +73,7 @@ para entonces usar `kmeans` sobre las componentes reponderadas
 
 
 
-    tmp.squeezed <- <a href="http://inside-r.org/r-doc/stats/kmeans">kmeans(m.pca.squeezed, 2)
+    tmp.squeezed <- kmeans(m.pca.squeezed, 2)
     plot(m.pca.squeezed, col = tmp.squeezed$cluster, asp = 1)
 
 
@@ -85,7 +85,7 @@ Finalmente, es posible representar los _clústers_ sobre las variables originale
 
 
 
-    tmp.squeezed <- <a href="http://inside-r.org/r-doc/stats/kmeans">kmeans(m.pca.squeezed, 2)
+    tmp.squeezed <- kmeans(m.pca.squeezed, 2)
     plot(m, col = tmp.squeezed$cluster, asp = 1)
 
 

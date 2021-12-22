@@ -11,27 +11,26 @@ tags:
 - cartociudad
 - paquetes
 - r
+- geolocalización
 ---
 
 Y lo hace así:
 
-
-
-    library(caRtociudad)
-    get_cartociudad_location_info(40.473219,-3.7227241, year = 2015)
-    # $seccion
-    # [1] "2807908148"
-    #
-    # $distrito
-    # [1] "2807908"
-    #
-    # $provincia
-    # [1] "Madrid"
-    #
-    # $municipio
-    # [1] "Madrid"
-
-
+{{< highlight R "linenos=true" >}}
+library(caRtociudad)
+get_cartociudad_location_info(40.473219,-3.7227241, year = 2015)
+# $seccion
+# [1] "2807908148"
+#
+# $distrito
+# [1] "2807908"
+#
+# $provincia
+# [1] "Madrid"
+#
+# $municipio
+# [1] "Madrid"
+{{< / highlight >}}
 
 Esto da respuesta a [una pregunta de Rubén](https://www.datanalytics.com/2016/03/31/cartociudad/).
 

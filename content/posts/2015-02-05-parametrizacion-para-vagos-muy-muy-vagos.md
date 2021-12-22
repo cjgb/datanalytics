@@ -19,7 +19,6 @@ Un ejemplo sencillo. Tengo un programa que contiene, por ejemplo, una consulta t
 
     query <- "select * from mitabla where country = 24 and year = 2014"
 
-
 Hay gente sumamente diligente, con una enorme capacidad de trabajo y con vocación de hormiguita que en mil ejecuciones distintas (distinto país, distinto año) del código anterior sería capaz de editar la consulta a mano. Probablemente usando el block de notas. Esa gente, que además suele madrugar mucho, siempre me ha dado cierta envidia. No sé por qué.
 
 Otros hemos sido bendecidos con la paradójica virtud de la pereza creativa. La pareza creativa es un no hacer las cosas por estar uno ocupado discurriendo cómo conseguir que se hagan solas. Así, uno acaba ensayando soluciones del tipo

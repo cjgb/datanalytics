@@ -25,19 +25,15 @@ Lo impartirá [Beatriz Martínez](http://visualizados.com/), socióloga dedicada
 ](/wp-uploads/2015/04/taller_mapas_2015.png)
 ¿Y el taller? Durante dos horas aprenderás y entenderás todo lo necesario para empezar a construir mapas con R:
 
-
-
-	  * ¿qué se necesita para pintar un mapa?
-	  * ¿cuál es la estructura de los objetos espaciales?
-	  * ¿qué librerias se utilizan?
-
+* ¿qué se necesita para pintar un mapa?
+* ¿cuál es la estructura de los objetos espaciales?
+* ¿qué librerias se utilizan?
 
 Además, pintarás mapas. Así que:
 
-	  * trae tu portátil
-	  * instala en él [la versión más reciente de R](http://cran.r-project.org/) y (recomendado) [RStudio](http://www.rstudio.com/products/rstudio/download/)
-	  * e instala las librerías necesarias: `maps`, `sp`, `maptools`, `rgdal`, `rgeos`, `mapproj`, `RgoogleMaps`, `plotGoogleMaps`, `googleVis`, `ggplot`, `ggmap` y `RColorBrewer` (y sus dependencias)
-
+* trae tu portátil
+* instala en él [la versión más reciente de R](http://cran.r-project.org/) y (recomendado) [RStudio](http://www.rstudio.com/products/rstudio/download/)
+* e instala las librerías necesarias: `maps`, `sp`, `maptools`, `rgdal`, `rgeos`, `mapproj`, `RgoogleMaps`, `plotGoogleMaps`, `googleVis`, `ggplot`, `ggmap` y `RColorBrewer` (y sus dependencias)
 
 En el local habrá conexión a internet y algunos enchufes. El espacio es limitado (unas 20 plazas)
 

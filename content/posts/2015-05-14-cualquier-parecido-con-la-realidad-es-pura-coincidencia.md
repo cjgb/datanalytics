@@ -26,11 +26,7 @@ No, no hay peros. Fijáte: hay 8000 municipios y la EPA se basa en una encuesta 
 
 Pero como todos odiamos tratar de justificar que lo que tenemos delante de las narices no es real, he recibido al cabo un correo con el enlace a la _nota metodológica_:
 
-
-
-<blockquote>La Encuesta de Población Activa que elabora el INE publica los datos de paro y tasa de paro, entre otros, a nivel nacional, autonómico y provincial pero no a nivel municipal. Por esta razón se ha procedido a calcular una tasa de paro estimada con datos oficiales. Para la obtención de la misma se ha dividido la cifra total de demandantes de empleo del Servicio Público de Empleo Estatal de cada municipio entre la población activa (16 a 64 años) extraída del INE. El resultado de esta fórmula se ha multiplicado por 100 para obtener de esta manera una tasa. Para marzo de 2015 se han utilizado los datos de población del año 2014, al no estar disponibles todavía los definitivos de 2015 a nivel municipal.</blockquote>
-
-
+>La Encuesta de Población Activa que elabora el INE publica los datos de paro y tasa de paro, entre otros, a nivel nacional, autonómico y provincial pero no a nivel municipal. Por esta razón se ha procedido a calcular una tasa de paro estimada con datos oficiales. Para la obtención de la misma se ha dividido la cifra total de demandantes de empleo del Servicio Público de Empleo Estatal de cada municipio entre la población activa (16 a 64 años) extraída del INE. El resultado de esta fórmula se ha multiplicado por 100 para obtener de esta manera una tasa. Para marzo de 2015 se han utilizado los datos de población del año 2014, al no estar disponibles todavía los definitivos de 2015 a nivel municipal.
 
 ¡No, no, no, no y `1e18` veces no! Lo siento pero **no**. El numerador está mal, el denominador está mal. Ambos están mal. Todo está mal.
 

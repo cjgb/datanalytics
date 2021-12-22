@@ -18,11 +18,8 @@ Tengo un parámetro, la `p` de una binomial, que supongo distribuido según una 
 
 Quiero construir un [intervalo de credibilidad](http://en.wikipedia.org/wiki/Credible_interval) para `p`, es decir, encontrar un subintervalo de [0,1]
 
-
-
-	  * dentro del cual la densidad de la beta sea mayor que fuera y que
-	  * capture $latex 1-\alpha$ de la probabilidad total.
-
+* dentro del cual la densidad de la beta sea mayor que fuera y que
+* capture $latex 1-\alpha$ de la probabilidad total.
 
 Gráficamente,
 
@@ -31,38 +28,34 @@ Gráficamente,
 
 Y he aquí el código:
 
+{{< highlight R "linenos=true" >}}
+a <- 3
+b <- 5
 
+alfa <- 0.05
 
-    a <- 3
-    b <- 5
+f <- function(x){
+(dbeta(x[2], a, b) - dbeta(x[1], a, b))^2 +
+      (pbeta(x[2], a, b) - pbeta(x[1], a, b) -1 +  alfa)^2
+}
 
-    alfa <- 0.05
+res <- optim(c(a/(a+b), a/(a+b)), f)
 
-    f <- function(x){
-      (dbeta(x[2], a, b) - dbeta(x[1], a, b))^2 +
-        (<a href="http://inside-r.org/r-doc/stats/pbeta">pbeta(x[2], a, b) - <a href="http://inside-r.org/r-doc/stats/pbeta">pbeta(x[1], a, b) -1 +  alfa)^2
-    }
+x <- 1:100 / 100
 
-    res <- <a href="http://inside-r.org/r-doc/stats/optim">optim(c(a/(a+b), a/(a+b)), f)
-
-    x <- 1:100 / 100
-
-    plot(x, dbeta(x, a, b), type = "l", ylab = "densidad")
-    lines(c(res$par[1], res$par[1]),
-          c(0, dbeta(res$par[1], a, b)), col = "red")
-    lines(c(res$par[2], res$par[2]),
-          c(0, dbeta(res$par[2], a, b)), col = "red")
-    lines(c(res$par[1], res$par[2]),
-          rep(dbeta(res$par[2], a, b), 2), col = "red")
-
+plot(x, dbeta(x, a, b), type = "l", ylab = "densidad")
+lines(c(res$par[1], res$par[1]),
+      c(0, dbeta(res$par[1], a, b)), col = "red")
+lines(c(res$par[2], res$par[2]),
+      c(0, dbeta(res$par[2], a, b)), col = "red")
+lines(c(res$par[1], res$par[2]),
+      rep(dbeta(res$par[2], a, b), 2), col = "red")
+{{< / highlight >}}
 
 
 La función que se optimiza tiene como argumentos los puntos inicial y final del intervalo y penaliza:
 
-
-
-	  * Que la densidad en dichos punto sea distinta.
-	  * Que la suma de las probabilidades de las colas descartadas sea distinta de $latex \alpha$.
-
+* Que la densidad en dichos punto sea distinta.
+* Que la suma de las probabilidades de las colas descartadas sea distinta de $latex \alpha$.
 
 Una posible mejora en el código anterior sería pasarle a `optim` mejores puntos de partida: en lugar de la media de la distribución para ambos casos, la media más (y menos) dos veces la desviación estándar.

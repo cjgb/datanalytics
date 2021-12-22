@@ -187,7 +187,7 @@ Esto es lo que hace el siguiente pedazo de código (no particularmente bien puli
     		print( c(p.0, p.1) )
     		cadena <- cadena.alt
     		p.0 <- p.1
-    		print( cadena ); <a href="http://inside-r.org/r-doc/utils/flush.console">flush.console()
+    		print( cadena ); flush.console()
     	}
     }
 

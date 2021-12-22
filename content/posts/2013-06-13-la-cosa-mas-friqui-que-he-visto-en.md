@@ -32,7 +32,7 @@ al más puro estilo [xkcd](http://xkcd.com/). Para probarlo,
 
 
     library(xkcd)
-    <a href="http://inside-r.org/r-doc/utils/vignette">vignette(“xkcd-intro”)
+    vignette(“xkcd-intro”)
 
 
 

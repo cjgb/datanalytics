@@ -17,5 +17,4 @@ Investigando para las clases del máster de visualización de datos de Unidad Ed
 
 ![vizhealth](/wp-uploads/2016/02/vizhealth.png)
 
-
 [Id](http://www.vizhealth.org/), que ellos lo cuentan mejor que yo, y visitad la [galería de ejemplos](http://www.vizhealth.org/gallery/).

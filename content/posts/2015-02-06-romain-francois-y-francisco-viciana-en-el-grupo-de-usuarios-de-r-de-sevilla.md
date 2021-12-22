@@ -14,12 +14,8 @@ tags:
 
 Me entero en la [página del grupo de usuarios de R de Sevilla](https://sevillarusers.wordpress.com/2015/01/26/dplyr-17-febrero-2000-en-el-bulebar-alameda/) de dos cosas:
 
-
-
-
-	  * de que Romain François hablará sobre `dplyr` y de lo que esconde bajo el capó y
-	  * que Francisco Viciana demostrará el uso del [paquete `pxR`](http://cran.r-project.org/web/packages/pxR/index.html)
-
+* de que Romain François hablará sobre `dplyr` y de lo que esconde bajo el capó y
+* que Francisco Viciana demostrará el uso del [paquete `pxR`](http://cran.r-project.org/web/packages/pxR/index.html)
 
 en la próxima reunión del grupo. ¡Quién pudiera asistir!
 

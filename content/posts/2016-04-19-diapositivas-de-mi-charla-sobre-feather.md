@@ -11,6 +11,7 @@ tags:
 - charla
 - feather
 - r
+- paquetes
 ---
 
 Las diapositivas de mi charla [_Birds of the same feather..._](https://www.datanalytics.com/2016/04/12/este-jueves-feather-en-la-reunion-de-usuarios-de-r-de-madrid/) en el [grupo de usuarios de R de Madrid](http://madrid.r-es.org) pueden verse/bajarse de [aquí](/wp-uploads/2016/04/charla_gil_madrid_201604.html).

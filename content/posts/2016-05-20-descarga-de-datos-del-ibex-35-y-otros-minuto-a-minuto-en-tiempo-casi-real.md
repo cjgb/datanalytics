@@ -16,34 +16,30 @@ tags:
 - json
 - plyr
 - r
+- ibex 35
+- webscraping
 ---
 
 El código es
 
-
-
-
-
-
-
-
-    library(httr)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
-     
-    base.url <- "http://www.infobolsa.es/1/wtdb/ChartIntraday"
-     
-    res <- POST(base.url,
-                body = list(mv = "M SAN",
-                            date = "20160518",
-                            compressionMult = 1,
-                            isSession = 1))
-     
-    dat <- content(res, <a href="http://inside-r.org/r-doc/methods/as">as = "parsed",
-                   type = "application/json")
-     
-    dat <- dat$answer$LST$TV$T09
-    dat <- ldply(dat, unlist)
-
+{{< highlight R "linenos=true" >}}
+library(httr)
+library(plyr)
+ 
+base.url <- "http://www.infobolsa.es/1/wtdb/ChartIntraday"
+ 
+res <- POST(base.url,
+            body = list(mv = "M SAN",
+                        date = "20160518",
+                        compressionMult = 1,
+                        isSession = 1))
+ 
+dat <- content(res, as = "parsed",
+                type = "application/json")
+ 
+dat <- dat$answer$LST$TV$T09
+dat <- ldply(dat, unlist)
+{{< / highlight >}}
 
 
 

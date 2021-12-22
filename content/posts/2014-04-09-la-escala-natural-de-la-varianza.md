@@ -40,7 +40,7 @@ Supongamos que tenemos un sistema con sensores que miden la temperatura (5) y la
     dim(dat)
     # [1] 100   7
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(dat)
+    head(dat)
 
     # [,1]       [,2]       [,3]        [,4]       [,5]        [,6]        [,7]
     # [1,] -1.1100204 -1.3230571 -1.4524288 -1.01010976 -1.1443700  0.50550395  0.20973698
@@ -60,7 +60,7 @@ Y a nosotros se nos ocurre reducir la dimensionalidad del problema usando compon
 
 
 
-    dat.pca <- <a href="http://inside-r.org/r-doc/stats/princomp">princomp(dat)
+    dat.pca <- princomp(dat)
 
 
 
@@ -68,7 +68,7 @@ Las dos primeras componentes principales tienen casi toda la varianza (como cabÃ
 
 
 
-    <a href="http://inside-r.org/r-doc/stats/screeplot">screeplot(dat.pca)
+    screeplot(dat.pca)
 
 
 
@@ -79,7 +79,7 @@ Como puede verse haciendo
 
 
 
-    <a href="http://inside-r.org/r-doc/stats/loadings">loadings(dat.pca)
+    loadings(dat.pca)
 
     # Loadings:
     #   Comp.1 Comp.2 Comp.3 Comp.4 Comp.5 Comp.6 Comp.7

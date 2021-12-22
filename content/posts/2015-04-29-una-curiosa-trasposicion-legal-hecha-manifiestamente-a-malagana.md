@@ -22,18 +22,17 @@ He perdido el rato comparando la ley de reutilización de datos del sector públ
 
 La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detectar diferencias entre ambas. El código que sigue implementa la siguiente idea: descargar el texto de ambas normas, tabular las palabras y estudiar (vía `prop.test`) cuáles aparecen con distinta frecuencia en ambos textos:
 
-
-
-    library(<a href="http://inside-r.org/packages/cran/XML">XML)
+{{< highlight R "linenos=true" >}}
+    library(XML)
     library(<a href="http://inside-r.org/packages/cran/tm">tm)
 
     procesar.html <- function(url){
       tmp <- htmlParse(url)
       tmp <- xpathApply(tmp, "//div[@id='DOdocText']/*/p", xmlValue, encoding = "UTF-8")
-      tmp <- tolower(paste(unlist(tmp), <a href="http://inside-r.org/r-doc/nlme/collapse">collapse = " "))
+      tmp <- tolower(paste(unlist(tmp), collapse = " "))
       tmp <- gsub("[[:punct:]]", " ", tmp)
       tmp <- gsub("\\n", " ", tmp)
-      tmp <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(table(strsplit(tmp, " ")[[1]]))
+      tmp <- as.data.frame(table(strsplit(tmp, " ")[[1]]))
       tmp
     }
 
@@ -43,8 +42,6 @@ La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detecta
     res <- merge(directiva, ley, by.x = "Var1", by.y = "Var1", all = T)
 
     colnames(res) <- c("palabra", "n.directiva", "n.ley")
-
-
 
     res$n.directiva[is.na(res$n.directiva)] <- 0
     res$n.ley[is.na(res$n.ley)] <- 0
@@ -57,13 +54,13 @@ La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detecta
     n.ley       <- sum(res$n.ley)
 
     res$p.value <- mapply(function(a,b)
-      <a href="http://inside-r.org/r-doc/stats/prop.test">prop.test(c(a,b), n = c(n.directiva, n.ley),
+      prop.test(c(a,b), n = c(n.directiva, n.ley),
                 alternative = "less")$p.value,
       res$n.directiva, res$n.ley)
 
     res <- res[order(-res$p.value),]
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(res[order(res$p.value),], 20)
+    head(res[order(res$p.value),], 20)
     # palabra n.directiva n.ley      p.value
     # 1408              ley           0    52 5.675306e-13
     # 1139 administraciones           0    42 1.032037e-10
@@ -86,7 +83,7 @@ La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detecta
     # 618       información          23    40 2.102190e-02
     # 17               1992           1     8 2.255991e-02
 
-    <a href="http://inside-r.org/r-doc/utils/head">head(res[order(-res$p.value),], 20)
+    head(res[order(-res$p.value),], 20)
     # palabra n.directiva n.ley   p.value
     # 403   directiva          45     3 1.0000000
     # 716    miembros          26     1 0.9999982
@@ -108,16 +105,12 @@ La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detecta
     # 972      sector          67    45 0.9772597
     # 784   organismo          17     7 0.9670106
     # 801  particular           9     2 0.9647799
-
-
-
+{{< / highlight >}}
 
 Diferencias apreciables:
 
-
-
-	  * Ya he dicho que la ley española trata de no obligar a la administración: _Debe_ y _deben_ abundan en la directiva pero no en la ley. Aunque a lo mejor, simplemente, formulan la obligación de otra manera. No obstante, aunque tal fuese el caso, compárense las frases "[l]os Estados miembros **alentarán** a todos los organismos del sector público a que utilicen las licencias modelo" con "[l]as Administraciones y organismos del sector público **podrán** facilitar licencias-tipo para la reutilización de documentos[...]" y que juzgue el lector por sí mismo.
-	  * La directiva habla de tarifas y la ley de tasas. Pequeña cosa.
-	  * La directiva habla del mercados y en la ley parece importar más las administraciones; pero eso era adivinable: ¡estamos es España y quienes redactaron la ley crecieron viendo [esto](https://www.youtube.com/watch?v=Pqd6Ue44X94) en la tele!
-	  * En la ley aparece una sección de infracciones. La palabra grave, de hecho, se refiere ellas. ¡Por supuesto! Los ciudadanos tenemos que exigir que la administración persiga y castigue a los perversos reutilizadores de información pública que aviesamente omitan la fecha de última actualización de esos datos encasquetándoles una infracción (leve en este caso), con multa asociada de 1000 a 10000 euracos.
+* Ya he dicho que la ley española trata de no obligar a la administración: _Debe_ y _deben_ abundan en la directiva pero no en la ley. Aunque a lo mejor, simplemente, formulan la obligación de otra manera. No obstante, aunque tal fuese el caso, compárense las frases "[l]os Estados miembros **alentarán** a todos los organismos del sector público a que utilicen las licencias modelo" con "[l]as Administraciones y organismos del sector público **podrán** facilitar licencias-tipo para la reutilización de documentos[...]" y que juzgue el lector por sí mismo.
+* La directiva habla de tarifas y la ley de tasas. Pequeña cosa.
+* La directiva habla del mercados y en la ley parece importar más las administraciones; pero eso era adivinable: ¡estamos es España y quienes redactaron la ley crecieron viendo [esto](https://www.youtube.com/watch?v=Pqd6Ue44X94) en la tele!
+* En la ley aparece una sección de infracciones. La palabra grave, de hecho, se refiere ellas. ¡Por supuesto! Los ciudadanos tenemos que exigir que la administración persiga y castigue a los perversos reutilizadores de información pública que aviesamente omitan la fecha de última actualización de esos datos encasquetándoles una infracción (leve en este caso), con multa asociada de 1000 a 10000 euracos.
 

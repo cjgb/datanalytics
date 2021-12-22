@@ -89,9 +89,9 @@ El código es
 
 
     hexagono <- function( centro ){
-      <a href="http://inside-r.org/r-doc/graphics/polygon">polygon( rotar.trasladar(pol.base,      0, centro), col = "red")
-      <a href="http://inside-r.org/r-doc/graphics/polygon">polygon( rotar.trasladar(pol.base, 2*pi/3, centro), col = "blue")
-      <a href="http://inside-r.org/r-doc/graphics/polygon">polygon( rotar.trasladar(pol.base, 4*pi/3, centro), col = "green")
+      polygon( rotar.trasladar(pol.base,      0, centro), col = "red")
+      polygon( rotar.trasladar(pol.base, 2*pi/3, centro), col = "blue")
+      polygon( rotar.trasladar(pol.base, 4*pi/3, centro), col = "green")
     }
 
     plot( centros, type = "n")

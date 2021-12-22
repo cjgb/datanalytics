@@ -13,6 +13,7 @@ tags:
 - incertidumbre
 - probabilidad
 - riesgo
+- teoría de la decisión
 ---
 
 ¿Os acordáis del [problema de la carta](http://www.datanalytics.com/2015/02/17/un-problema-de-cartas/) del otro día? Lo extraje del libro [Risk Savvy](http://www.datanalytics.com/2015/01/08/tres-libros-mas-una-biblioteca-menos/) de [G. Gigerenzer](http://www.datanalytics.com/2014/11/11/un-30-de-probabilidad-de-que-llueva-manana/).

@@ -14,31 +14,29 @@ tags:
 - rpython
 ---
 
-Quien escribió [Call matplotlib from R](http://gallery.rcpp.org/articles/matplotlib-from-R/) podía haberse ahorrado bastante trabajo de la peor especie (programación de bajo nivel con C++) leyendo los benditos manuales (de `[rPython](http://cran.r-project.org/web/packages/rPython/index.html)`, en este caso).
+Quien escribió [Call matplotlib from R](http://gallery.rcpp.org/articles/matplotlib-from-R/) podía haberse ahorrado bastante trabajo de la peor especie (programación de bajo nivel con C++) leyendo los benditos manuales (de [`rPython`](http://cran.r-project.org/web/packages/rPython/index.html), en este caso).
 
 Le bastaba hacer
 
+{{< highlight R "linenos=true" >}}
+library(rPython)
 
+x <- seq(0, 2*pi, length = 100)
+sx <- sin(x)
+cx <- cos(x)
 
-    library(rPython)
+python.assign("x", x)
+python.assign("sx", sx)
+python.assign("cx", cx)
 
-    x <- seq(0, 2*pi, length = 100)
-    sx <- sin(x)
-    cx <- cos(x)
+python.exec("import matplotlib.pyplot as plt")
 
-    python.assign("x", x)
-    python.assign("sx", sx)
-    python.assign("cx", cx)
-
-    python.exec("import matplotlib.pyplot as plt")
-
-    python.exec("plt.rcParams.update({'figure.figsize' : (7,4)})")
-    python.exec("plt.plot(x, sx)")
-    python.exec("plt.plot(x, cx, '--r', linewidth=2) ")
-    python.exec("plt.legend(('sin(x)', 'cos(x)'))")
-    python.exec("plt.savefig('2015-04-02-pyplot.png')")
-
-
+python.exec("plt.rcParams.update({'figure.figsize' : (7,4)})")
+python.exec("plt.plot(x, sx)")
+python.exec("plt.plot(x, cx, '--r', linewidth=2) ")
+python.exec("plt.legend(('sin(x)', 'cos(x)'))")
+python.exec("plt.savefig('2015-04-02-pyplot.png')")
+{{< / highlight >}}
 
 para obtener
 

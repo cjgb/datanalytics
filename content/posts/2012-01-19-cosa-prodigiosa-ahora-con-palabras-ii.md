@@ -40,7 +40,7 @@ En la entrada original proponía tres juegos. El primero, descrito con código a
 
     res.juego.s <- replicate( 1000, jugar( 1000, juego.s )[1000] )
     hist( res.juego.s )
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( res.juego.s )
+    fivenum( res.juego.s )
 
 
 
@@ -68,7 +68,7 @@ El segundo juego es parecido al primero pero algo más complejo:
     res.juego.c <- replicate( 1000, jugar( 1000, juego.c )[1000] )
 
     hist( res.juego.c )
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( res.juego.c )
+    fivenum( res.juego.c )
 
 
 
@@ -104,7 +104,7 @@ El tercero de los juegos es más interesante. Es similar a los anteriores, sólo
     res.juego.fin <- replicate( 1000, jugar( 1000, juego.fin )[1000] )
 
     hist( res.juego.fin )
-    <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum( res.juego.fin )
+    fivenum( res.juego.fin )
 
 
 

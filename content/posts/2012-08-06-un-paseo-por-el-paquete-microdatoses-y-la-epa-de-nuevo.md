@@ -58,7 +58,7 @@ con lo que estoy indicando, por ejemplo, que los ocupados, "o", son aquellos con
 
 
 
-    dat <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(dat)
+    dat <- as.data.frame(dat)
 
 
 

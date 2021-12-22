@@ -22,7 +22,7 @@ Aquí va el código:
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/randomForest">randomForest)
+    library(randomForest)
 
     set.seed(1234)
 
@@ -37,16 +37,16 @@ Aquí va el código:
 
       train <- sample(1:n, train.n)
 
-      X <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(X)
+      X <- as.data.frame(X)
       X$Y <- Y
 
-      modelo <- <a href="http://inside-r.org/packages/cran/randomForest">randomForest(Y ~ ., data = X[train,])
-      pred <- <a href="http://inside-r.org/r-doc/stats/predict">predict(modelo, X[-train,])
+      modelo <- randomForest(Y ~ ., data = X[train,])
+      pred <- predict(modelo, X[-train,])
       error.cont <- length(pred) - sum(diag(table(pred >0, Y[-train]>0)))
 
       X$Y <- Y.bin
-      modelo <- <a href="http://inside-r.org/packages/cran/randomForest">randomForest(Y ~ ., data = X[train,])
-      pred <- <a href="http://inside-r.org/r-doc/stats/predict">predict(modelo, X[-train,])
+      modelo <- randomForest(Y ~ ., data = X[train,])
+      pred <- predict(modelo, X[-train,])
       error.bin <- length(pred) - sum(diag(table(pred, Y.bin[-train])))
 
       data.frame(error.cont = error.cont, error.bin = error.bin)
@@ -54,7 +54,7 @@ Aquí va el código:
 
     errores <- do.call(rbind, replicate(1000, test.error(), simplify = F))
 
-    sapply(errores, <a href="http://inside-r.org/r-doc/stats/fivenum">fivenum)
+    sapply(errores, fivenum)
 
 
 

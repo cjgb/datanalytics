@@ -15,10 +15,8 @@ tags:
 - recmap
 ---
 
-
-	  * [Galería](http://cartodraw.science/recmap/gallery/)
-	  * [Paquete](https://cran.r-project.org/web/packages/recmap/index.html)
-
+* [Galería](http://cartodraw.science/recmap/gallery/)
+* [Paquete](https://cran.r-project.org/web/packages/recmap/index.html)
 
 Y, lo siento, no tengo ejemplos míos. Pero si te animas, fabricas uno y lo enlazas en los comentarios, seguro que a alguien le sirve.
 

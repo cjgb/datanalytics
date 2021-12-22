@@ -33,7 +33,7 @@ Así:
 
 
     library(ggplot2)
-    library(<a href="http://inside-r.org/packages/cran/plyr">plyr)
+    library(plyr)
 
     raw <- read.table("/wp-uploads/2014/07/paro_mensual.txt")
 

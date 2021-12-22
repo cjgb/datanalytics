@@ -9,6 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
+- mala ciencia
 ---
 
 Ayer tuve una visita: un amigo me pidió que le echara una mano a otro que andaba muy perdido con su tesis de máster. No era estadístico pero estaba construyendo regresiones y pruebas de hipótesis y no entendía los resultados. Como a veces pasa, había comenzado por las conclusiones (tal vez razonables) con la esperanza de que los datos acabasen dándole la razón.

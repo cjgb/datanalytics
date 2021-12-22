@@ -22,7 +22,7 @@ Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/XML">XML)
+    library(XML)
     simbolos <- readHTMLTable(htmlParse("http://finance.yahoo.com/q/cp?s=%5EIBEX+Components"))
     simbolos <- as.character(simbolos[[9]]$Symbol)
     simbolos <- gsub("-P", "", simbolos)
@@ -33,16 +33,16 @@ Luego, creo una pequeña función y se la aplico a cada símbolo:
 
 
 
-    library(<a href="http://inside-r.org/packages/cran/tseries">tseries)
+    library(tseries)
 
-    foo  <- function( simbolo, final = <a href="http://inside-r.org/r-doc/base/Sys.time">Sys.time(), profundidad = 365 * 24 * 3600 ){
+    foo  <- function( simbolo, final = Sys.time(), profundidad = 365 * 24 * 3600 ){
 
-      tmp <- get.hist.quote(instrument= simbolo, <a href="http://inside-r.org/r-doc/stats/start">start = final - profundidad,
+      tmp <- get.hist.quote(instrument= simbolo, start = final - profundidad,
                                 end= final, quote="AdjClose",
                                 provider="yahoo", origin="1970-01-01",
                                 compression="d", retclass="zoo")
 
-      precios <- <a href="http://inside-r.org/r-doc/base/as.data.frame">as.data.frame(tmp)
+      precios <- as.data.frame(tmp)
       precios$fecha <- index(tmp)
       rownames(precios) <- NULL
       precios$simbolo <- simbolo
