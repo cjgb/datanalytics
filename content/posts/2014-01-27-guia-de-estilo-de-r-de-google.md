@@ -17,50 +17,42 @@ R es un lenguaje de programación de alto nivel que se usa principalmente en apl
 El objetivo de esta guía de estilo es que nuestro código sea más fácil de leer, compartir y analizar.
 Las reglas de esta guía fueron consensuadas con la comunidad de usuarios de R en Google.
 
+* **Resumen de las reglas de estilo**
+
+  1. Nombres de ficheros: tienen la extensión `.R`
+  2. Identificacores: `variable.name`, `FunctionName`, `kConstantName`
+  3. Longitud de línea: no más de 80 caracteres
+  4. Indentación: dos espacios, no tabuladores
+  5. Espacios
+  6. Llaves: el primero en la misma línea; el último, solo
+  7. Asignaciones: usar `<-`, no `=`
+  8. Puntos y comas: no usarlos
+  9. Distribución general y ordenación
+  10. Comentarios: todos los comentarios comienzan con `#` seguido de un espacio; los comentarios dentro del código necesitan dos espacios delante de `#`
+  11. Definiciones y llamadas a funciones
+  12. Documentación de funciones
+  13. Ejemplo de función
+  14. Estilo para los TODO: `TODO(username)`
 
 
-	  * **Resumen de las reglas de estilo**
+* **Resumen de las reglas de programación**
 
-	    1. Nombres de ficheros: tienen la extensión `.R`
-	    2. Identificacores: `variable.name`, `FunctionName`, `kConstantName`
-	    3. Longitud de línea: no más de 80 caracteres
-	    4. Indentación: dos espacios, no tabuladores
-	    5. Espacios
-	    6. Llaves: el primero en la misma línea; el último, solo
-	    7. Asignaciones: usar `<-`, no `=`
-	    8. Puntos y comas: no usarlos
-	    9. Distribución general y ordenación
-	    10. Comentarios: todos los comentarios comienzan con `#` seguido de un espacio; los comentarios dentro del código necesitan dos espacios delante de `#`
-	    11. Definiciones y llamadas a funciones
-	    12. Documentación de funciones
-	    13. Ejemplo de función
-	    14. Estilo para los TODO: `TODO(username)`
-
-
-	  * **Resumen de las reglas de programación**
-
-	    1. `attach`: tratar de evitarlo
-	    2. Funciones:
+  1. `attach`: tratar de evitarlo
+  2. Funciones:
 utilizar `stop()` para generar mensajes de error
-	    3. Objetos y métodos: tratar de evitar el uso de objetos S4; no mezclar nunca S3 y S4
+  3. Objetos y métodos: tratar de evitar el uso de objetos S4; no mezclar nunca S3 y S4
 
 
 
 
-	  1. **Nomenclatura**
+1. **Nomenclatura**
 
-	    *
-
-
-**Nombres de ficheros. **Los nombres de ficheros deben tener la extensión `.R` y, por supuesto, ser significativos.
-
+  * **Nombres de ficheros.** Los nombres de ficheros deben tener la extensión `.R` y, por supuesto, ser significativos.
 
 BIEN: `predict_ad_revenue.R`
 MAL: `foo.R`
-	    *
 
-
-**Identificadores. **No usar guiones bajos ( `_` ) o guiones ( `-` ) en los identificadores.
+  * **Identificadores.** No usar guiones bajos ( `_` ) o guiones ( `-` ) en los identificadores.
 
 
 Los identificadores deben asignarse de acuerdo con los siguientes criterios:
@@ -219,47 +211,31 @@ MAL: ` x = 5`
 
 
 
-	  3. **Organización**
+3. **Organización**
 
-	    *
+  * **Distribución general y organización.** Si todos siguen los mismos principios, podremos leer y entender el código de los demás más rápidamente.
 
+      1. Copyright
+      2. Autor
+      3. Descripción del fichero, incluyendo la finalidad del programa, sus entradas y sus salidas
+      4. Comandos `source()` y `library()`
+      5. Definición de las funciones
+      6. Resto del código, si es aplicable (p.e., ` print`, `plot`)
+      7. Los tests unitarios deberían incluirse en un fichero aparte llamado `originalfilename_unittest.R`.
+  
+  * **Comentarios.** Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de éste por dos espacios, un `#` y un espacio más.
 
-**Distribución general y organización. **Si todos siguen los mismos proncipios, podremos leer y entender el código de los demás más rápidamente.
-
-
-
-
-	      1. Copyright
-	      2. Autor
-	      3. Descripción del fichero, incluyendo la finalidad del programa, sus entradas y sus salidas
-	      4. Comandos `source()` y `library()`
-	      5. Definición de las funciones
-	      6. Resto del código, si es aplicable (p.e., ` print`, `plot`)
-
-Los tests unitarios deberían incluirse en un fichero aparte llamado `originalfilename_unittest.R`.
-	    *
-
-
-**Comentarios. **Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de éste por dos espacios, un `#` y un espacio más.
-
-
+{{< highlight R "linenos=true" >}}
+# Crear histograma de frecuencias de campañas según porcentaje del presupuesto
+hist(df$pctSpent,
+      breaks = "scott",  # método para elegir el número de buckets
+      main   = "Histogram: fraction budget spent by campaignid",
+      xlab   = "Fraction of budget spent",
+      ylab   = "Frequency (count of campaignids)")
+{{< / highlight >}}
 
 
-
-    <code># Crear histograma de frecuencias de campañas según porcentaje del presupuesto
-    hist(df$pctSpent,
-         breaks = "scott",  # método para elegir el número de buckets
-         main   = "Histogram: fraction budget spent by campaignid",
-         xlab   = "Fraction of budget spent",
-         ylab   = "Frequency (count of campaignids)")
-    </code>
-
-
-
-	    *
-
-
-**Funciones: definiciones y llamadas. **La definición de las funciones debe contener primero los argumentos sin valores por defecto.
+  * **Funciones: definiciones y llamadas.** La definición de las funciones debe contener primero los argumentos sin valores por defecto.
 
 
 En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneas sólo deben separar asignaciones.
@@ -280,112 +256,72 @@ MAL:
 
 
 Idealmente, las pruebas unitarias deberían servir como ejemplo de llamadas a funciones (para rutinas de librerías compartidas).
-	    *
+	    
+  * **Documentación de funciones.** Las funciones deberían tener una sección de comentarios inmediatamente debajo de la línea de definición de la función. Tales comentarios deberían consistir en una frase que definiese la función, una lista de los argumentos de la función precedida por `Args:` con una descripción de cada uno de ellos, incluido su tipo y una descripción del valor devuelto por la función precedido por `Returns:`. Los comentarios deberían ser lo suficientemente descriptivos como para que un usuario pudiera utilizar la función sin tener que leer su código.
 
+  * **Ejemplo de función**
 
-**Documentación de funciones. **Las funciones deberían tener una sección de comentarios inmediatamente debajo de la línea de definición de la función. Tales comentarios deberían consistir en una frase que definiese la función, una lista de los argumentos de la función precedida por `Args:` con una descripción de cada uno de ellos, incluido su tipo y una descripción del valor devuelto por la función precedido por `Returns:`. Los comentarios deberían ser lo suficientemente descriptivos como para que un usuario pudiera utilizar la función sin tener que leer su código.
+{{< highlight R "linenos=true" >}}
+CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
+  # Computes the sample covariance between two vectors.
+  #
+  # Args:
+  #   x: One of two vectors whose sample covariance is to be calculated.
+  #   y: The other vector. x and y must have the same length, greater than one,
+  #      with no missing values.
+  #   verbose: If TRUE, prints sample covariance; if not, not. Default is TRUE.
+  #
+  # Returns:
+  #   The sample covariance between x and y.
+  n <- length(x)
+  # Error handling
+  if (n <= 1 || n != length(y)) {
+    stop("Arguments x and y have invalid lengths: ",
+          length(x), " and ", length(y), ".")
+  }
+  if (TRUE %in% is.na(x) || TRUE %in% is.na(y)) {
+    stop(" Arguments x and y must not have missing values.")
+  }
+  covariance <- var(x, y)
+  if (verbose)
+    cat("Covariance = ", round(covariance, 4), ".\n", sep = "")
+  return(covariance)
+}
+{{< / highlight >}}
 
-
-
-	    *
-
-
-**Ejemplo de función**
-
-
-
-
-
-    <code>
-    CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
-      # Computes the sample covariance between two vectors.
-      #
-      # Args:
-      #   x: One of two vectors whose sample covariance is to be calculated.
-      #   y: The other vector. x and y must have the same length, greater than one,
-      #      with no missing values.
-      #   verbose: If TRUE, prints sample covariance; if not, not. Default is TRUE.
-      #
-      # Returns:
-      #   The sample covariance between x and y.
-      n <- length(x)
-      # Error handling
-      if (n <= 1 || n != length(y)) {
-        stop("Arguments x and y have invalid lengths: ",
-             length(x), " and ", length(y), ".")
-      }
-      if (TRUE %in% is.na(x) || TRUE %in% is.na(y)) {
-        stop(" Arguments x and y must not have missing values.")
-      }
-      covariance <- var(x, y)
-      if (verbose)
-        cat("Covariance = ", round(covariance, 4), ".\n", sep = "")
-      return(covariance)
-    }
-    </code>
-
-
-
-	    *
-
-
-**Estilo para los TODO. **Usa un estilo consistente para los TODO en el código.
-
+  * **Estilo para los TODO.** Usa un estilo consistente para los TODO en el código.
 
 `TODO(username): Descripción de lo que tiene que hacerse`
 
 
-	  4. **Lenguaje**
+4. **Lenguaje**
 
-	    *
+    * **Attach.** El uso de `attach` puede producir muchos errores. Evítalo.
+    * **Funciones.** Usar `stop()` para lanzar mensajes de error.
+    * **Objetos y médotos.** El lenguaje S tiene dos tipos de sistemas de clases, S3 y S4, disponibles en R. Los métodos S3 son más interactivos y flexibles, mientras que los S4 son más formales y rigurosos. (Para una ilustración de los dos sistemas, véase "Programmer's Niche: A Simple Class, in S3 and S4" in R News 4/1, 2004, pgs. 33 - 36 ([enlace](http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf)) por Thomas Lumley.)
 
-
-**Attach. **El uso de `attach` puede producir muchos errores. Evítalo.
-
-
-
-	    *
-
-
-**Funciones. **Usar `stop()` para lanzar mensajes de error.
+      * Usa objetos y objetos S3 a no ser que exista una razón poderosa para usar los del tipo S4.
+      * Una justificación para usar objetos S4 sería la de poder manipularlos directamente desde C++.
+      * Para usar métodos S4, sería poder despachar en función de dos argumentos.
+      * Evita mezclar métodos S3 y S4: los métodos S4 ignoran la herencia de los S3 y a la inversa.
 
 
+5. **Excepciones.** Las convenciones expresadas más arriba deberían ser seguidas de no haber un buen motivo para seguir otro criterio: por ejemplo, al usar código antiguo o de terceras partes.
+	  
+6. **Consideraciones finales**
 
-	    *
+    * Usa el sentido común y SÉ CONSISTENTE.
+    * Si estás editando código, tómate unos minutos para mirar alrededor y determinar cuál es el estilo del código. Si los autores originales usaban espacios alrededor de sus comandos `if `, deberías hacerlo también.
+    * Si sus comentarios tienen cajas o estrellas alrededor, úsalas también.
+    * El objetivo de tener un código de estilo es el usar un vocabulario común para poder concentrarse en lo que estás diciendo más que en cómo lo estás diciendo.
+    * Al presentar unas reglas globales de estilo intentamos que se use un vocabulario común. Pero el estilo local es importante. Si el código que añades a un fichero sigue una convención distinta, la discontinuidad provocará el rechazo de quienes lo hereden. Trata de evitar eso.
+    * Bien, y una vez finalizada la tarea sobre cómo escribir código, podemos comenzar a escribirlo, que es mucho más interesante. ¡Disfrutémoslo!
+	  
+7. **Referencias**
 
+    * [R Coding Conventions](http://www.maths.lth.se/help/R/RCC/)
+    * [Para usuarios de emacs](http://ess.r-project.org/)
+    * [Guía de estilo de R de Google](https://google.github.io/styleguide/Rguide.xml) (en inglés)
 
-**Objetos y médotos. **El lenguaje S tiene dos tipos de sistemas de clases, S3 y S4, disponibles en R. Los métodos S3 son más interactivos y flexibles, mientras que los S4 son más formales y rigurosos.
-
-
-(Para una ilustración de los dos sistemas, véase "Programmer's Niche: A Simple Class, in S3 and S4" in R News 4/1, 2004, pgs. 33 - 36:[
-http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf](http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf) por Thomas Lumley.)
-
-Usa objetos y objetos S3 a no ser que exista una razón poderosa para usar los del tipo S4.
-Una justificación para usar objetos S4 sería la de poder manipularlos directamente desde C++.
-Para usar métodos S4, sería poder despachar en función de dos argumentos.
-
-Evita mezclar métodos S3 y S4: los métodos S4 ignoran la herencia de los S3 y a la inversa.
-
-
-	  5. **Excepciones. **Las convenciones expresadas más arriba deberían ser seguidas de no haber un buen motivo para seguir otro criterio: por ejemplo, al usar código antiguo o de terceras partes.
-	  6. **Consideraciones finales**
-
-Usa el sentido común y SÉ CONSISTENTE.
-
-Si estás editando código, tómate unos minutos para mirar alrededor y determinar cuál es el estilo del código. Si los autores originales usaban espacios alrededor de sus comandos `if `, deberías hacerlo tambén.
-
-Si sus comentarios tienen cajas o estrellas alrededor, úsalas también.
-
-El objetivo de tener un código de estilo es el usar un vocabulario común para poder concentrarse en lo que estás diciendo más que en cómo lo estás diciendo.
-Al presentar unas reglas globales de estilo intentamos que se use un vocabulario común. Pero el estilo local es importante. Si el código que añades a un fichero sigue una convención distinta, la discontinuidad provocará el rechazo de quienes lo hereden. Trata de evitar eso.
-
-Bien, y una vez finalizada la tarea sobre cómo escribir código, podemos comenzar a escribirlo, que es mucho más interesante. ¡Disfrutémoslo!
-	  7. **Referencias**
-
-[R Coding Conventions](http://www.maths.lth.se/help/R/RCC/)
-[Para usuarios de emacs](http://ess.r-project.org/)
-[Guía de estilo de R de Google](https://google.github.io/styleguide/Rguide.xml) (en inglés)
-	  8. **Notas**
-
-Esta guía de estilo de R es una traducción literal de [la de Google](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.
+8. **Notas:** Esta guía de estilo de R es una traducción literal de [la de Google](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.
 

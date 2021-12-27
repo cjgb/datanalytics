@@ -24,10 +24,6 @@ En Google Scholar, si uno busca [_factor analysis_](http://scholar.google.com/sc
 
 Y finalmente, me acordé de esa biblia del análisis de datos, el archifamoso [ESL](http://statweb.stanford.edu/~tibs/ElemStatLearn/). ¿Hablaría del análisis factorial? No lo recordaba pero podría ser. Y efectivamente, los autores lo mencionan. Le dedican página y media, incluyendo el siguiente comentario:
 
-
-
-<blockquote>This aspect [subjectivity] has left many analysts skeptical of factor analysis, and may account for its lack of popularity in contemporary statistics.</blockquote>
-
-
+>This aspect [subjectivity] has left many analysts skeptical of factor analysis, and may account for its lack of popularity in contemporary statistics.
 
 Creo que por mera cuestión de higiene mental, en el futuro, voy a decantarme por pensar que el análisis factorial, simplemente, es otra de esas ideas que se resisten a morir.

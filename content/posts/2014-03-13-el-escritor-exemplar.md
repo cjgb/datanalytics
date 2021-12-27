@@ -14,8 +14,7 @@ tags:
 - r
 ---
 
-<blockquote>El escritor exemplar es un experimento de escritura automática realizado por [Molino de Ideas](http://www.molinodeideas.com/) sobre una idea de [Mario Tascón](https://twitter.com/mtascon) y con la colaboración de [Carlos J. Gil Bellosta](https://twitter.com/gilbellosta) en conmemoración por los 400 años de la publicación de Las Novelas Ejemplares.</blockquote>
-
+>El escritor exemplar es un experimento de escritura automática realizado por [Molino de Ideas](http://www.molinodeideas.com/) sobre una idea de [Mario Tascón](https://twitter.com/mtascon) y con la colaboración de [Carlos J. Gil Bellosta](https://twitter.com/gilbellosta) en conmemoración por los 400 años de la publicación de Las Novelas Ejemplares.
 
 Eso reza el pie de página de [El escritor exemplar](http://onomateca.com/exemplar.php) un artilugio que a veces crea frases tales como
 
@@ -32,7 +31,4 @@ Debí haberlo refinado en su día porque, en particular, la transición de la pr
 
 Finalmente, un vídeo que explica mucho mejor de cómo lo podría hacer yo la matemática subyacente:
 
-
-
-https://www.youtube.com/watch?v=3pRR8OK4UfE
-
+{{< youtube 3pRR8OK4UfE >}}

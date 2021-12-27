@@ -22,8 +22,8 @@ Verbigracia:
 [![taleb_probability](/wp-uploads/2014/03/taleb_probability.png)
 ](/wp-uploads/2014/03/taleb_probability.png)
 
-Lo siento, Sr. Tableb. La base de la teoría de la probabilidad es la teoría de la medida. Se axiomatiza la medida y la integral se construye a partir de ella. La probabilidad no es sino un tipo muy particular de medida y no, <del>no hay tal cosa como medidas negativas</del> (se ve que [sí que los considera la literatura](http://en.wikipedia.org/wiki/Signed_measure) —gracias, Aleix— y que han servido de excusa a alguien para probar tres o cuatro teoremas; yo pondría a esos matemáticos a trabajar de verdad).
+Lo siento, Sr. Taleb. La base de la teoría de la probabilidad es la teoría de la medida. Se axiomatiza la medida y la integral se construye a partir de ella. La probabilidad no es sino un tipo muy particular de medida y no, <del>no hay tal cosa como medidas negativas</del> (se ve que [sí que los considera la literatura](http://en.wikipedia.org/wiki/Signed_measure) —gracias, Aleix— y que han servido de excusa a alguien para probar tres o cuatro teoremas; yo pondría a esos matemáticos a trabajar de verdad).
 
 Ignoro cuál sería la intención de Taleb a la hora de insinuar la posibilidad de considerar probabilidades negativas. El concepto se me escapa. De todos modos el la idea no es original y, aunque reitero que se me escapa, invito a mis lectores a familiarizarse con el concepto a través del siguiente video divulgativo:
 
-https://www.youtube.com/watch?v=UL1Rs7zyags
+{{< youtube UL1Rs7zyags >}}

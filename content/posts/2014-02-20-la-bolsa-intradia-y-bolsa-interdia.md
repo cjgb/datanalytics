@@ -19,33 +19,29 @@ El IBEX 35 abre todas las mañanas a un precio y cierra a otro. El precio de ape
 
 Dicho lo cual:
 
-
-
-	  * Juan _compra el IBEX_ todos los días a primera hora y lo vende en el último minuto.
-	  * Del otro lado, Pedro lo compra en el último minuto y se lo vende (¡a Juan!) justo al abrir la bolsa al día siguiente.
+* Juan _compra el IBEX_ todos los días a primera hora y lo vende en el último minuto.
+* Del otro lado, Pedro lo compra en el último minuto y se lo vende (¡a Juan!) justo al abrir la bolsa al día siguiente.
 
 Juan y Pedro llevan operando así desde el 1 de enero de 2000. ¿Cuál de los dos se ha llevado el gato al agua? Veámoslo:
 
+{{< highlight R "linenos=true" >}}
+library(tseries)
+library(zoo)
 
+ibex <- get.hist.quote(instrument = "^ibex",
+    start = '2000-01-01', end = '2014-02-19')
 
-    library(tseries)
-    library(zoo)
+diurno   <- ibex$Close - ibex$Open
+nocturno <- ibex$Open - lag(ibex$Close, -1)
 
-    ibex <- get.hist.quote(instrument = "^ibex",
-                           start = '2000-01-01', end = '2014-02-19')
+acumulado.diurno   <- cumsum(diurno)
+acumulado.nocturno <- cumsum(nocturno)
 
-    diurno   <- ibex$Close - ibex$Open
-    nocturno <- ibex$Open - lag(ibex$Close, -1)
-
-    acumulado.diurno   <- cumsum(diurno)
-    acumulado.nocturno <- cumsum(nocturno)
-
-    res <- cbind(dia = acumulado.diurno,
-                 noche = acumulado.nocturno)
-    plot(res,
-         main = "IBEX 35: diferencias de precio intradía / entre sesión")
-
-
+res <- cbind(dia = acumulado.diurno,
+    noche = acumulado.nocturno)
+plot(res,
+    main = "IBEX 35: diferencias de precio intradía / entre sesión")
+{{< / highlight >}}
 
 El código anterior produce
 

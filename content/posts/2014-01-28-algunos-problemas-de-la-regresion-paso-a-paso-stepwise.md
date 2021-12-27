@@ -17,25 +17,22 @@ Fueron problemas planteados por Frank Harrell, recopilados [aquí](http://www.st
 
 Problemas de la regresión paso a paso:
 
-
-
-	  * La R-cuadrado obtenida está muy sesgada hacia arriba.
-	  * Los test F y chi-cuadrado que aparecen al lado de las variables no siguen dichas distribuciones.
-	  * Los intervalos de confianza son demasiado (e incorrectamente) estrechos.
-	  * Los p-valores obtenidos no tienen el significado esperado y el de corregirlos adecuadamente es un problema muy difícil.
-	  * Proporciona coeficientes sesgados y excesivamente grandes.
-	  * Tiene problemas serios en caso de colinealidad en las variables.
-	  * Está basado en métodos que fueron pensados para probar hipótesis preestablecidas.
-	  * Incrementar el número de muestras no corrige los problemas anteriores.
-	  * Nos permite no tener que pensar sobre el problema.
-	  * Consume mucho papel.
+* La R-cuadrado obtenida está muy sesgada hacia arriba.
+* Los test F y chi-cuadrado que aparecen al lado de las variables no siguen dichas distribuciones.
+* Los intervalos de confianza son demasiado (e incorrectamente) estrechos.
+* Los p-valores obtenidos no tienen el significado esperado y el de corregirlos adecuadamente es un problema muy difícil.
+* Proporciona coeficientes sesgados y excesivamente grandes.
+* Tiene problemas serios en caso de colinealidad en las variables.
+* Está basado en métodos que fueron pensados para probar hipótesis preestablecidas.
+* Incrementar el número de muestras no corrige los problemas anteriores.
+* Nos permite no tener que pensar sobre el problema.
+* Consume mucho papel.
 
 Algunas conclusiones:
 
-	  * El grado de correlación entre las variables predictoras afecta a la frencuencia en que los verdaderos predictores entran en la selección final.
-	  * El número de predictores afecta al número de _variables ruido _en la selección final.
-	  * El tamaño de la muestra tiene poca importancia a la hora de determinar el número de variables _auténticas_ en el modelo final.
-
+* El grado de correlación entre las variables predictoras afecta a la frencuencia en que los verdaderos predictores entran en la selección final.
+* El número de predictores afecta al número de _variables ruido _en la selección final.
+* El tamaño de la muestra tiene poca importancia a la hora de determinar el número de variables _auténticas_ en el modelo final.
 
 Me consta que en algunos sectores (p.e., seguros) son _todavía_ muy proclives a plantear modelos (p.e., GLM) con muchas variables —las que son más todas sus interacciones de todos los niveles—, dejar correr un método paso y volver a las horas por los resultados. ¡Miedo me da!
 

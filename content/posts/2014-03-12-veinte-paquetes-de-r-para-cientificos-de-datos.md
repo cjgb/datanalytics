@@ -20,12 +20,10 @@ De todos ellos me quedo con `plyr` y `reshape2`. Tengo que trabajar con texto y 
 
 Entre los paquetes de análisis de datos, advertiría que no muchos trabajamos en control de calidad (para lo que sirve `qcc`), analizamos datos de panel (`plm`) o podemos sacar partido de los modelos mixtos (`nlme`). Incluso es raro encontrar series temporales (para lo que serviría `forecast`). Convengo en que `igraph` es muy útil e información con estructura de red aparece en muchos contextos. Mi lista de paquetes de análisis puro que recomendaría a una generalidad de científicos de datos sería:
 
-
-
-	  * `igraph`,
-	  * `party`,
-	  * `randomForest`,
-	  * y, posiblemente `caret`, y `glmnet`.
+* `igraph`,
+* `party`,
+* `randomForest`,
+* y, posiblemente `caret`, y `glmnet`.
 
 No tengo experiencia con `Zelig` y no puedo opinar en ningún sentido (¿lo hará alguno de mis lectores?).
 

@@ -22,16 +22,16 @@ Sus razones tendrán, pero es manifiesto que nunca han leído el articulito que 
 
 Traduzco su resumen para ilustración de todos:
 
-
-
-<blockquote>**Objetivo:** determinar si los paracaídas son eficaces para prevenir traumatismos asociados a riesgos gravitacionales.
-**Diseño:** Análisis sistemático de ensayos clínicos controlados y aleatorizados.
-[...]
-**Estudios seleccionados:** Estudios que muestren el efecto del uso del paracaídas en caídas libres.
-**Principal variable de interés:** Muerte o traumatismo grave (nivel > 15).
-**Resultados:** No pudimos encontrar ningún estudio.
-**Conclusiones:** Como sucede con muchos tratamientos para la prevención de riesgos para la salud, la eficacia de los paracaídas no ha sido sometida a una evaluación rigurosa a través de ensayos aleatorizados. Los defensores de la medicina basada en evidencia se oponen a la adopción de tratamientos evaluados usando únicamente datos observacionales. Pensamos que la sociedad se beneficiaría si los más radicales de entre ellos organizasen y participasen en un estudio aleatorizado, _doble ciego_, controlado con un placebo del paracaídas.</blockquote>
-
-
-
-
+>**Objetivo:** determinar si los paracaídas son eficaces para prevenir traumatismos asociados a riesgos gravitacionales.
+>
+>**Diseño:** Análisis sistemático de ensayos clínicos controlados y aleatorizados.
+>
+>[...]
+>
+>**Estudios seleccionados:** Estudios que muestren el efecto del uso del paracaídas en caídas libres.
+>
+>**Principal variable de interés:** Muerte o traumatismo grave (nivel > 15).
+>
+>**Resultados:** No pudimos encontrar ningún estudio.
+>
+>**Conclusiones:** Como sucede con muchos tratamientos para la prevención de riesgos para la salud, la eficacia de los paracaídas no ha sido sometida a una evaluación rigurosa a través de ensayos aleatorizados. Los defensores de la medicina basada en evidencia se oponen a la adopción de tratamientos evaluados usando únicamente datos observacionales. Pensamos que la sociedad se beneficiaría si los más radicales de entre ellos organizasen y participasen en un estudio aleatorizado, _doble ciego_, controlado con un placebo del paracaídas.

@@ -23,5 +23,3 @@ Fijaros con lo que he tropezado:
 ](/wp-uploads/2014/02/10kcorrelations02.png)
 
 Estos _servicios_ pueden contratarse [aquí](http://www.butlerscientifics.com/). Me abstengo de realizar comentarios.
-
-

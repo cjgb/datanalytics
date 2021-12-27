@@ -27,51 +27,47 @@ El _yuyuplot_ no es otra cosa que una reprensentación prolija y redundante del 
 
 Y yo me pregunto lo siguiente:
 
-
-
-	  * ¿Cuántos segmentos —no necesariamente tan eminentes que el de 1929— de la serie temporal del Dow Jones han tenido una correlación elevada con el actual?
-	  * ¿Qué sucedió, p.e., seis meses después con la bolsa?
+* ¿Cuántos segmentos —no necesariamente tan eminentes que el de 1929— de la serie temporal del Dow Jones han tenido una correlación elevada con el actual?
+* ¿Qué sucedió, p.e., seis meses después con la bolsa?
 
 
 He querido responderme a mí mismo descargando de [aquí](http://research.stlouisfed.org/fred2/series/DJIA/downloaddata?cid=32255) las cotizaciones de Dow Jones desde la época de Cánovas y Sagasta y después he ejecutado
 
+{{< highlight R "linenos=true" >}}
+dat <- readLines("DJIA.txt")
+dat <- dat[-(1:18)]
+dat <- gsub("  *", "\t", dat)
+dat <- read.table(textConnection(dat), header = T, sep = "\t")
 
+dat$VALUE <- as.numeric(as.character(dat$VALUE))
+dat <- subset(dat, !is.na(dat$VALUE))
 
-    dat <- readLines("DJIA.txt")
-    dat <- dat[-(1:18)]
-    dat <- gsub("  *", "\t", dat)
-    dat <- read.table(textConnection(dat), header = T, sep = "\t")
+dat$DATE <- as.Date(as.character(dat$DATE))
 
-    dat$VALUE <- as.numeric(as.character(dat$VALUE))
-    dat <- subset(dat, !is.na(dat$VALUE))
+base  <- dat$VALUE[dat$DATE >  as.Date("2012-06-30")]
+resto <- dat$VALUE[dat$DATE <= as.Date("2012-06-30")]
 
-    dat$DATE <- as.Date(as.character(dat$DATE))
+correlaciones <- sapply(1:(length(resto) - length(base)),
+                        function(x) cor(base, resto[x + (1:length(base))])
+)
 
-    base  <- dat$VALUE[dat$DATE >  as.Date("2012-06-30")]
-    resto <- dat$VALUE[dat$DATE <= as.Date("2012-06-30")]
+incr.6m <- dat$VALUE[length(base) + 180 + 1:length(correlaciones)]
+tmp     <- dat$VALUE[length(base) +       1:length(correlaciones)]
+incr.6m <- 100 * (incr.6m - tmp) / tmp
 
-    correlaciones <- sapply(1:(length(resto) - length(base)),
-                            function(x) cor(base, resto[x + (1:length(base))])
-    )
+filtro <- correlaciones > 0.8
 
-    incr.6m <- dat$VALUE[length(base) + 180 + 1:length(correlaciones)]
-    tmp     <- dat$VALUE[length(base) +       1:length(correlaciones)]
-    incr.6m <- 100 * (incr.6m - tmp) / tmp
+incrementos <- incr.6m[filtro]
+pesos       <- correlaciones[filtro]
 
-    filtro <- correlaciones > 0.8
+library(ggplot2)
 
-    incrementos <- incr.6m[filtro]
-    pesos       <- correlaciones[filtro]
+tmp <- data.frame(incrementos = incrementos, pesos = pesos / sum(pesos))
 
-    library(ggplot2)
-
-    tmp <- data.frame(incrementos = incrementos, pesos = pesos / sum(pesos))
-
-    ggplot(tmp, aes(x = incrementos, weights = pesos)) +
-      geom_density(fill = "blue", alpha = 0.5) +
-      xlab("return (%) ")
-
-
+ggplot(tmp, aes(x = incrementos, weights = pesos)) +
+  geom_density(fill = "blue", alpha = 0.5) +
+  xlab("return (%) ")
+{{< / highlight >}}
 
 para obtener
 

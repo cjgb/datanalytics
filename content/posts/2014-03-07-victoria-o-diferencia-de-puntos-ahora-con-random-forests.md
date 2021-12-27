@@ -20,43 +20,47 @@ Después de hablar con tirios y troyanos sobre mi [entrada sobre los efectos de 
 
 Aquí va el código:
 
+{{< highlight R "linenos=true" >}}
+library(randomForest)
 
+set.seed(1234)
 
-    library(randomForest)
+my.coefs <- -2:2
+n <- 200
+train.n <- floor(2*n/3)
 
-    set.seed(1234)
+test.error <- function(){
+  X <- matrix(rnorm(n*5), n, 5)
+  Y <- 0.2 + X %*% my.coefs + rnorm(n)
+  Y.bin <- factor(Y>0)
 
-    my.coefs <- -2:2
-    n <- 200
-    train.n <- floor(2*n/3)
+  train <- sample(1:n, train.n)
 
-    test.error <- function(){
-      X <- matrix(rnorm(n*5), n, 5)
-      Y <- 0.2 + X %*% my.coefs + rnorm(n)
-      Y.bin <- factor(Y>0)
+  X <- as.data.frame(X)
+  X$Y <- Y
 
-      train <- sample(1:n, train.n)
+  modelo <- randomForest(Y ~ ., 
+    data = X[train,])
+  pred <- predict(modelo, X[-train,])
+  error.cont <- length(pred) - 
+    sum(diag(table(pred >0, Y[-train]>0)))
 
-      X <- as.data.frame(X)
-      X$Y <- Y
+  X$Y <- Y.bin
+  modelo <- randomForest(Y ~ ., 
+    data = X[train,])
+  pred <- predict(modelo, X[-train,])
+  error.bin <- length(pred) - 
+    sum(diag(table(pred, Y.bin[-train])))
 
-      modelo <- randomForest(Y ~ ., data = X[train,])
-      pred <- predict(modelo, X[-train,])
-      error.cont <- length(pred) - sum(diag(table(pred >0, Y[-train]>0)))
+  data.frame(error.cont = error.cont, 
+    error.bin = error.bin)
+}
 
-      X$Y <- Y.bin
-      modelo <- randomForest(Y ~ ., data = X[train,])
-      pred <- predict(modelo, X[-train,])
-      error.bin <- length(pred) - sum(diag(table(pred, Y.bin[-train])))
+errores <- do.call(rbind, 
+  replicate(1000, test.error(), simplify = F))
 
-      data.frame(error.cont = error.cont, error.bin = error.bin)
-    }
-
-    errores <- do.call(rbind, replicate(1000, test.error(), simplify = F))
-
-    sapply(errores, fivenum)
-
-
+sapply(errores, fivenum)
+{{< / highlight >}}
 
 El resultado, si te interesa, en tu pantalla.
 

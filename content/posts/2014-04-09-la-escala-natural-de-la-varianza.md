@@ -20,36 +20,37 @@ Al grano.
 
 Supongamos que tenemos un sistema con sensores que miden la temperatura (5) y la presión (2) en diversos puntos. Los dejamos recoger datos durante 100 periodos y obtenemos
 
+{{< highlight R "linenos=true" >}}
+set.seed(1234)
 
+n <- 100
 
-    set.seed(1234)
+n.temp <- 5
+n.pres <- 2
 
-    n <- 100
+temp.global <- rnorm(n)
+pres.global <- rnorm(n)
 
-    n.temp <- 5
-    n.pres <- 2
+temp <- 0.2 * matrix(rnorm(n*n.temp), n, n.temp) + 
+    temp.global
+pres <- 0.2 * matrix(rnorm(n*n.pres), n, n.pres) + 
+    pres.global
 
-    temp.global <- rnorm(n)
-    pres.global <- rnorm(n)
+dat <- cbind(temp, pres)
 
-    temp <- 0.2 * matrix(rnorm(n*n.temp), n, n.temp) + temp.global
-    pres <- 0.2 * matrix(rnorm(n*n.pres), n, n.pres) + pres.global
+dim(dat)
+# [1] 100   7
 
-    dat <- cbind(temp, pres)
+head(dat)
 
-    dim(dat)
-    # [1] 100   7
-
-    head(dat)
-
-    # [,1]       [,2]       [,3]        [,4]       [,5]        [,6]        [,7]
-    # [1,] -1.1100204 -1.3230571 -1.4524288 -1.01010976 -1.1443700  0.50550395  0.20973698
-    # [2,]  0.4167830  0.0867735  0.2846598  0.03248167  0.3999239 -0.18963434 -0.75224859
-    # [3,]  1.1215440  1.0485555  1.0001626  1.22638642  0.7462245  0.02419526  0.05614927
-    # [4,] -2.2055510 -2.1437361 -2.5255706 -2.36754170 -2.1887580 -0.74875834 -0.14028564
-    # [5,]  0.4914609  0.4338500  0.5126130  0.78564627  0.4315097 -0.89811930 -0.84590060
-    # [6,]  0.6581484  0.3762502  0.5367448  0.45736696  0.4698048  0.05754662  0.32243670
-
+# [,1]       [,2]       [,3]        [,4]       [,5]        [,6]        [,7]
+# [1,] -1.1100204 -1.3230571 -1.4524288 -1.01010976 -1.1443700  0.50550395  0.20973698
+# [2,]  0.4167830  0.0867735  0.2846598  0.03248167  0.3999239 -0.18963434 -0.75224859
+# [3,]  1.1215440  1.0485555  1.0001626  1.22638642  0.7462245  0.02419526  0.05614927
+# [4,] -2.2055510 -2.1437361 -2.5255706 -2.36754170 -2.1887580 -0.74875834 -0.14028564
+# [5,]  0.4914609  0.4338500  0.5126130  0.78564627  0.4315097 -0.89811930 -0.84590060
+# [6,]  0.6581484  0.3762502  0.5367448  0.45736696  0.4698048  0.05754662  0.32243670
+{{< / highlight >}}
 
 
 Las primeras cinco columnas de esta tabla de datos simulados recogen la temperatura global del sistema más una señal propia de cada sensor (según su ubicación). Las dos últimas, la presión con la misma salvedad.
@@ -59,17 +60,17 @@ Ahora llega un señor importante, de los de corbata, uno de esos devoradores de 
 Y a nosotros se nos ocurre reducir la dimensionalidad del problema usando componentes principales (PCA) así:
 
 
-
-    dat.pca <- princomp(dat)
-
+{{< highlight R "linenos=true" >}}
+dat.pca <- princomp(dat)
+{{< / highlight >}}
 
 
 Las dos primeras componentes principales tienen casi toda la varianza (como cabía esperar en nuestros datos artificiales):
 
 
-
-    screeplot(dat.pca)
-
+{{< highlight R "linenos=true" >}}
+screeplot(dat.pca)
+{{< / highlight >}}
 
 
 [![screeplot_temp_pres](/wp-uploads/2014/04/screeplot_temp_pres.png)
@@ -77,21 +78,19 @@ Las dos primeras componentes principales tienen casi toda la varianza (como cab�
 
 Como puede verse haciendo
 
+{{< highlight R "linenos=true" >}}
+loadings(dat.pca)
 
-
-    loadings(dat.pca)
-
-    # Loadings:
-    #   Comp.1 Comp.2 Comp.3 Comp.4 Comp.5 Comp.6 Comp.7
-    # [1,] -0.449               -0.247  0.804 -0.157 -0.245
-    # [2,] -0.456         0.418  0.394        -0.107  0.665
-    # [3,] -0.435        -0.825  0.111 -0.185  0.197  0.210
-    # [4,] -0.453         0.362 -0.229 -0.231  0.701 -0.258
-    # [5,] -0.443                      -0.486 -0.639 -0.389
-    # [6,]        -0.721        -0.592 -0.111 -0.106  0.324
-    # [7,]        -0.692         0.606         0.117 -0.360
-
-
+# Loadings:
+#   Comp.1 Comp.2 Comp.3 Comp.4 Comp.5 Comp.6 Comp.7
+# [1,] -0.449               -0.247  0.804 -0.157 -0.245
+# [2,] -0.456         0.418  0.394        -0.107  0.665
+# [3,] -0.435        -0.825  0.111 -0.185  0.197  0.210
+# [4,] -0.453         0.362 -0.229 -0.231  0.701 -0.258
+# [5,] -0.443                      -0.486 -0.639 -0.389
+# [6,]        -0.721        -0.592 -0.111 -0.106  0.324
+# [7,]        -0.692         0.606         0.117 -0.360
+{{< / highlight >}}
 
 la primera componente es una combinación lineal de (esencialmente, ¡no exclusivamente¡) las primeras cinco columnas (relacionadas con la temperatura) y la segunda, de las dos restantes (relacionadas con la presión).
 

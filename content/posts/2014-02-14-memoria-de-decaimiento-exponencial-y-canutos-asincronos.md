@@ -16,21 +16,17 @@ tags:
 
 Primero, canuto es como llamo yo a los _streams_: lugares por donde nos llegan datos —de sujetos que sacan dinero del cajero, de sensores de lo que sea, de clientes que llaman por teléfono—, típicamente en forma asíncrona. Es decir, que los eventos suceden cuando se les antoja, sin una periodicidad preestablecida.
 
-Y uno quiere medir cosas. Por ejemplo, la frecuencia. O la intensidad de uso —¿cuánto se utiliza una tarjeta de crédito?—. Son estos fines para los que la gente todavía utiliza técnicas mandadas a recoger. Y ni siquiera. Podría contar la anécdota de un muy desavisado —por no decir cosas peores— que trabajaba conmigo no hace tanto. Se ufanaba de que tirando de su mucho ingenio y utilizando tecnologías punterísimas era capaz de asociar a cada sujeto de nuestra base de datos la serie temporal de sus actividades (asíncronas) durante los últimos meses. Y la verdad, a fuerza de tesón, lo consiguió durante un fin de semana en el que, me da la sensación, durmió poco. Llegó la reunión del lunes y nos contó con prolijidad de detalles sus muchos méritos y logros. Pero entonces se encogió un poco, se desinchó un mucho y preguntó con mucha humildad: _y ahora que tengo todo esto, ¿qué más puedo hacer? _(entiéndase: para realizar un análisis estadístico del comportamiento de los sujetos).
+Y uno quiere medir cosas. Por ejemplo, la frecuencia. O la intensidad de uso —¿cuánto se utiliza una tarjeta de crédito?—. Son estos fines para los que la gente todavía utiliza técnicas mandadas a recoger. Y ni siquiera. Podría contar la anécdota de un muy desavisado —por no decir cosas peores— que trabajaba conmigo no hace tanto. Se ufanaba de que tirando de su mucho ingenio y utilizando tecnologías punterísimas era capaz de asociar a cada sujeto de nuestra base de datos la serie temporal de sus actividades (asíncronas) durante los últimos meses. Y la verdad, a fuerza de tesón, lo consiguió durante un fin de semana en el que, me da la sensación, durmió poco. Llegó la reunión del lunes y nos contó con prolijidad de detalles sus muchos méritos y logros. Pero entonces se encogió un poco, se deshinchó un mucho y preguntó con mucha humildad: _y ahora que tengo todo esto, ¿qué más puedo hacer? _(entiéndase: para realizar un análisis estadístico del comportamiento de los sujetos).
 
 Efectivamente, se necesitan medidas sintéticas de series temporales —las escupa en tiempo real un canuto o estén convenientemente listadas en una tabla— que recojan características útiles para la modelación. Típicamente la frecuencia y la intensidad.
 
 Una familia de medidas habituales —y que me resultan antipáticas— son las de los promedios temporales (en horas, meses, años). Si los sucesos asociados a un sujeto son $latex (a_0,t_0),\dots,(a_n,t_n)$ la gente todavía recurre casi siempre a medidas de la frecuencia del tipo
 
-
-$latex \sum_{t_i\in (t-T,t)} 1$
-
+$$ \sum_{t_i\in (t-T,t)} 1$$
 
 (donde $latex t$ significa ahora) y para la intensidad
 
-
-$latex \sum_{t_i\in (t-T,t)} a_i$
-
+$$ \sum_{t_i\in (t-T,t)} a_i$$
 
 La combinación de varios valores de $latex T$ permite construir simultáneamente, por ejemplo, medidas mensuales y trimestrales. Y hacer cosas como restarlas (convenientemente normalizadas) para intuir tendencias.
 
@@ -38,15 +34,11 @@ Esta aproximación equivale al uso en las fórmulas anteriores de una función d
 
 La alternativa —¡que a ver si tienen a bien dejarme utilizar algún día en algún lado!— es utilizar una función de memoria exponencial. Es decir, una medida de la frecuencia de la forma
 
-
-$latex \sum_i \exp(-t_i \alpha)$
-
+$$ \sum_i \exp(-t_i \alpha)$$
 
 para un cierto valor de $latex \alpha$ y de la intensidad tal como
 
-
-$latex \sum_i a_i \exp(-t_i \alpha).$
-
+$$ \sum_i a_i \exp(-t_i \alpha).$$
 
 Es decir, sometiendo a las observaciones a un decaimiento que depende del tiempo.
 
@@ -60,8 +52,5 @@ En general, no le veo desventajas a usar técnicas de decaimiento exponencial. S
 
 Y termino con un par de notas:
 
-
-
-	  * Los economistas (y más gente, claro) usan una técnica parecida con las series temporales: el [alisado exponencial](http://en.wikipedia.org/wiki/Exponential_smoothing). No es lo mismo (promedian más que suman; los datos son periódicos y no asíncronos) pero guardan una similitud notable.
-	  * Que lo que cuento aquí no me lo he inventado esta tarde según venía a casa. Es muy conocido y está publicadísimo por doquier. Buscad "exponential memory decay streaming" en Google y lo veréis.
-
+* Los economistas (y más gente, claro) usan una técnica parecida con las series temporales: el [alisado exponencial](http://en.wikipedia.org/wiki/Exponential_smoothing). No es lo mismo (promedian más que suman; los datos son periódicos y no asíncronos) pero guardan una similitud notable.
+* Que lo que cuento aquí no me lo he inventado esta tarde según venía a casa. Es muy conocido y está publicadísimo por doquier. Buscad "exponential memory decay streaming" en Google y lo veréis.

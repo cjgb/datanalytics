@@ -30,14 +30,12 @@ El siguiente capítulo, _Words, Numbers, Images — Together_ insiste en la conv
 
 El capítulo _The Fundamental Principles of Analytical Design_ puede ser el que más interese a la intersección de mis y sus lectores. Se sirve del análisis del [archiconocido diagrama de flujo de Minard](http://en.wikipedia.org/wiki/Charles_Joseph_Minard) para desgranar las características más importantes de una visualización de datos:
 
-
-
-	  * debe mostrar comparaciones, contrastes y diferencias;
-	  * debe destacar también —¡de conocerse!— las relaciones de causalidad, el mecanismo;
-	  * debe ser altamente multivariante; aunque el papel sea bidimensional, de restringirnos a en ese marco, no podremos representar un universo _profundamente multivariante_;
-	  * debe, mediante anotaciones u otras técnicas, incorporar la evidencia disponible;
-	  * debe estar documentado: quién hizo qué, qué datos y escalas, se utilizaron;
-	  * subraya que lo más importante, lo fundamental, es el contenido.
+* debe mostrar comparaciones, contrastes y diferencias;
+* debe destacar también —¡de conocerse!— las relaciones de causalidad, el mecanismo;
+* debe ser altamente multivariante; aunque el papel sea bidimensional, de restringirnos a en ese marco, no podremos representar un universo _profundamente multivariante_;
+* debe, mediante anotaciones u otras técnicas, incorporar la evidencia disponible;
+* debe estar documentado: quién hizo qué, qué datos y escalas, se utilizaron;
+* subraya que lo más importante, lo fundamental, es el contenido.
 
 El siguiente capítulo habla de la _corrupción de la evidencia_. Usa el término corrupción incluso en términos morales. Porque, argumenta, presentar información tiene una dimensión ética en tanto que induce comportamientos. La primera de las corrupciones es la de presentar efectos sin causa. Las cosas, simplemente, suceden y no se sabe bien por qué: nótese la diferencia entre "Juan mató a Pedro" y "Pedro fue asesinado". Otra fuente de corrupción es la omnipresente selección de la evidencia, el famoso _cherrypicking_. Y una última causa de corrupción de la evidencia es la de [la famosa graficaca](http://www.datanalytics.com/tag/graficaca/) (_chartjunk_). Aquí se me ocurre que el capítulo entero pudiese ser una [petición de principio](http://en.wikipedia.org/wiki/Begging_the_question) de quince páginas para acabar tachando de inmorales a quienes, al final, pueden estar únicamente pecando de mal gusto.
 

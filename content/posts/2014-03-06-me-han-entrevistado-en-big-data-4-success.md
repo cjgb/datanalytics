@@ -8,6 +8,7 @@ url: /2014/03/06/me-han-entrevistado-en-big-data-4-success/
 categories:
 - ciencia de datos
 tags:
+- anuncios
 - entrevista
 - grandes datos
 - sql

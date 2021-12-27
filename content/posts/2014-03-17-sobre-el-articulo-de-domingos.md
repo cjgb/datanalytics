@@ -9,23 +9,22 @@ categories:
 - ciencia de datos
 tags:
 - ciencia de datos
+- domingos
 ---
 
 Leí el otro día [_A Few Useful Things to Know about Machine Learning_](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) de [Pedro Domingos](http://homes.cs.washington.edu/~pedrod/), que me dejó ojiplático. Os cuento por qué.
 
 El artículo yuxtapone una serie de temas (debidamente organizados en secciones independientes) tales como:
 
-
-
-	  * Lo que cuenta es la generalización
-	  * Que, por eso, los datos no son suficientes y hacen falta modelos _testables_
-	  * Que el _overfitting_ es un problema serio
-	  * Que en dimensiones elevadas pasan cosas raras
-	  * Que hay que tener cuidado con la teoría (en particular, los resultados asintóticos)
-	  * Que hay que elegir muy bien las variables (las llama _features_) de los modelos
-	  * Que es bueno combinar modelos
-	  * Que la correlación no implica causalidad
-	  * Etc.
+* Lo que cuenta es la generalización
+* Que, por eso, los datos no son suficientes y hacen falta modelos _testables_
+* Que el _overfitting_ es un problema serio
+* Que en dimensiones elevadas pasan cosas raras
+* Que hay que tener cuidado con la teoría (en particular, los resultados asintóticos)
+* Que hay que elegir muy bien las variables (las llama _features_) de los modelos
+* Que es bueno combinar modelos
+* Que la correlación no implica causalidad
+* Etc.
 
 Cosas todas, como se puede apreciar, muy razonables. Por lo que el artículo no habría estado mal hace treinta o cuarenta años. Pero, desafortunadamente, es del 2012.
 

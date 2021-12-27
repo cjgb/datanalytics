@@ -17,50 +17,48 @@ tags:
 
 En ocasiones uno quiere añadir un total calculado en ciertos bloques a una tabla. Por ejemplo, en la tabla
 
-
-
-    set.seed(1234)
-    ventas.orig <- data.frame(cliente = rep(1:10, each = 5),
-                           producto = rep(letters[1:5], times = 10),
-                           importe = rlnorm(50))
-
-
+{{< highlight R "linenos=true" >}}
+set.seed(1234)
+ventas.orig <- data.frame(
+    cliente = rep(1:10, each = 5),
+    producto = rep(letters[1:5], times = 10),
+    importe = rlnorm(50))
+{{< / highlight >}}
 
 tenemos clientes, productos e importes. Y nos preguntamos por el porcentaje en términos de importe que cada producto supone para cada cliente.
 
 Una manera natural pero torpe de realizar este cálculo consiste en usar un objeto intermedio y `merge`:
 
-
-
-    library(plyr)
-    tmp <- ddply(ventas.orig, .(cliente), summarize, total = sum(importe))
-    ventas <- merge(ventas.orig, tmp)
-    ventas$pct.producto <- 100 * ventas$importe / ventas$total
-
-
+{{< highlight R "linenos=true" >}}
+library(plyr)
+tmp <- ddply(ventas.orig, .(cliente), 
+    summarize, total = sum(importe))
+ventas <- merge(ventas.orig, tmp)
+ventas$pct.producto <- 100 * ventas$importe / 
+    ventas$total
+{{< / highlight >}}
 
 No os asustéis, se puede hacer aún peor (p.e., usando `sqldf`). Pero existen dos maneras, cuando menos, de hacerlo mejor. La primera es usando `data.table`.
 
+{{< highlight R "linenos=true" >}}
+library(data.table)
 
-
-    library(data.table)
-
-    ventas <- data.table(ventas.orig)
-    ventas[, total.cliente := sum(importe), by = cliente]
-    ventas$pct.producto <- 100 * ventas$importe / ventas$total.cliente
-
-
+ventas <- data.table(ventas.orig)
+ventas[, total.cliente := sum(importe), by = cliente]
+ventas$pct.producto <- 100 * ventas$importe / 
+    ventas$total.cliente
+{{< / highlight >}}
 
 El operador `:=` es el que hace la magia en la segunda línea. Una ventaja de data.table es que [vuela literalmente con conjuntos de datos _semigrandes_](http://www.datanalytics.com/2013/05/09/data-table-ii-agregaciones/).
 
 También es posible hacerlo todavía más sucintamente con `plyr`:
 
-
-
-    library(plyr)
-    ventas <- ddply(ventas.orig, .(cliente), transform, pct.producto = 100 * importe / sum(importe))
-
-
+{{< highlight R "linenos=true" >}}
+library(plyr)
+ventas <- ddply(ventas.orig, .(cliente), 
+    transform, 
+    pct.producto = 100 * importe / sum(importe))
+{{< / highlight >}}
 
 Una única línea. El problema de `plyr`, sin embargo, es que es ineficiente con conjuntos de datos grandecitos.
 

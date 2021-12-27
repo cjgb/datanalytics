@@ -19,36 +19,35 @@ Hoy hablaremos de [_exploratory factorial analysis_](http://en.wikipedia.org/wik
 
 Comencemos. Primero, voy a realizar un análisis factorial (exploratorio) basándome en `?varimax`:
 
+{{< highlight R "linenos=true" >}}
+fa <- factanal( ~., 2, data = swiss, rotation = "none")
+fa
 
-
-    fa <- factanal( ~., 2, data = swiss, rotation = "none")
-    fa
-
-    # Call:
-    #   factanal(x = ~., factors = 2, data = swiss, rotation = "none")
-    #
-    # Uniquenesses:
-    #   Fertility      Agriculture      Examination        Education         Catholic Infant.Mortality
-    # 0.420            0.492            0.270            0.005            0.061            0.960
-    #
-    # Loadings:
-    #   Factor1 Factor2
-    # Fertility        -0.674   0.356
-    # Agriculture      -0.648   0.297
-    # Examination       0.713  -0.471
-    # Education         0.997
-    # Catholic         -0.178   0.953
-    # Infant.Mortality -0.104   0.169
-    #
-    # Factor1 Factor2
-    # SS loadings      2.419   1.373
-    # Proportion Var   0.403   0.229
-    # Cumulative Var   0.403   0.632
-    #
-    # Test of the hypothesis that 2 factors are sufficient.
-    # The chi square statistic is 20.99 on 4 degrees of freedom.
-    # The p-value is 0.000318
-
+# Call:
+#   factanal(x = ~., factors = 2, data = swiss, rotation = "none")
+#
+# Uniquenesses:
+#   Fertility      Agriculture      Examination        Education         Catholic Infant.Mortality
+# 0.420            0.492            0.270            0.005            0.061            0.960
+#
+# Loadings:
+#   Factor1 Factor2
+# Fertility        -0.674   0.356
+# Agriculture      -0.648   0.297
+# Examination       0.713  -0.471
+# Education         0.997
+# Catholic         -0.178   0.953
+# Infant.Mortality -0.104   0.169
+#
+# Factor1 Factor2
+# SS loadings      2.419   1.373
+# Proportion Var   0.403   0.229
+# Cumulative Var   0.403   0.632
+#
+# Test of the hypothesis that 2 factors are sufficient.
+# The chi square statistic is 20.99 on 4 degrees of freedom.
+# The p-value is 0.000318
+{{< / highlight >}}
 
 
 Usando `factanal` he creado dos factores sobre el conjunto de datos `swiss` y he optado por no usar nigún tipo de rotación.
@@ -57,7 +56,7 @@ Dos notas al respecto. La primera es que `factanal` no utiliza PCA internamente 
 
 El segundo es que en el análisis factorial los factores son ortogonales por definición y construcción. Aunque bien es cierto que existen técnicas de _rotación_ no ortogonales que hacen que los factores finales pierdan esa siempre conveniente propiedad.
 
-Retomando el asunto de la entrada y abundando en la segunda nota, una vez obtenidos los resultados anteriores, es posible plantearse el _rotar_ los factores obtenidos. En efecto, los factores obtenidos son únicos salvo por rotaciones. Dicho de otro modo, cualquier rotación de los obtenidos es un conjunto de factores _igual de válido_ que el orginal. Cómo no, cierta gente las utiliza de oficio —en ocasiones subrepticiamente: incluso en R, la función _factanal_ rota los factores si no se indica explícitamente lo contrario... ¡y qué no harán SPSS, SAS y demás!— para aliñar su ensalada de factores.
+Retomando el asunto de la entrada y abundando en la segunda nota, una vez obtenidos los resultados anteriores, es posible plantearse el _rotar_ los factores obtenidos. En efecto, los factores obtenidos son únicos salvo por rotaciones. Dicho de otro modo, cualquier rotación de los obtenidos es un conjunto de factores _igual de válido_ que el original. Cómo no, cierta gente las utiliza de oficio —en ocasiones subrepticiamente: incluso en R, la función _factanal_ rota los factores si no se indica explícitamente lo contrario... ¡y qué no harán SPSS, SAS y demás!— para aliñar su ensalada de factores.
 
 (Otra nota: invito a mis lectores a sopesar los efectos de las rotaciones subrepticias sobre la reproducibilidad, esa propiedad tan deseable de los análisis estadísticos).
 
@@ -65,31 +64,29 @@ Rotaciones como las que produce varimax facilitan la _interpretabilidad_ de los 
 
 Pero, ¿qué se pierde? Veámoslo:
 
-
-
-    varimax(loadings(fa), normalize = FALSE)
-    # $loadings
-    #
-    # Loadings:
-    #   Factor1 Factor2
-    # Fertility        -0.650   0.398
-    # Agriculture      -0.628   0.337
-    # Examination       0.681  -0.515
-    # Education         0.997
-    # Catholic         -0.117   0.962
-    # Infant.Mortality          0.176
-    #
-    # Factor1 Factor2
-    # SS loadings      2.297   1.495
-    # Proportion Var   0.383   0.249
-    # Cumulative Var   0.383   0.632
-    #
-    # $rotmat
-    # [,1]        [,2]
-    # [1,] 0.99796647 -0.06374102
-    # [2,] 0.06374102  0.99796647
-
-
+{{< highlight R "linenos=true" >}}
+varimax(loadings(fa), normalize = FALSE)
+# $loadings
+#
+# Loadings:
+#   Factor1 Factor2
+# Fertility        -0.650   0.398
+# Agriculture      -0.628   0.337
+# Examination       0.681  -0.515
+# Education         0.997
+# Catholic         -0.117   0.962
+# Infant.Mortality          0.176
+#
+# Factor1 Factor2
+# SS loadings      2.297   1.495
+# Proportion Var   0.383   0.249
+# Cumulative Var   0.383   0.632
+#
+# $rotmat
+# [,1]        [,2]
+# [1,] 0.99796647 -0.06374102
+# [2,] 0.06374102  0.99796647
+{{< / highlight >}}
 
 Los coeficientes de los factores han cambiado. El artefacto —de impredecibles consecuencias— consistente en omitir los coeficientes menores en valor absoluto que 0.1 oculta el de la variable `Infant.Mortality` en el segundo caso (y da la impresión, errónea por otro lado, de que el primer factor no depende de ella). Etc. Por otro lado, la varianza explicada acumulada no ha variado: 63.2%.
 

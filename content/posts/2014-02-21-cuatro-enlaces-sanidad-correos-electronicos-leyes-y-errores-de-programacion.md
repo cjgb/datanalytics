@@ -18,16 +18,14 @@ El primero es _[Freer trade in European and Spanish health care services](http:/
 
 En concreto, el artículo argumenta cómo España podría ser uno de los países más afectados por dos razones:
 
-
-
-	  1. El flujo de extranjeros que atrae el país.
-	  2. El diferencial de precios (mucho más baratos en España) que en el extranjero.
+1. El flujo de extranjeros que atrae el país.
+2. El diferencial de precios (mucho más baratos en España) que en el extranjero.
 
 Los efectos podrían ser tres:
 
-	  * El sistema público se sobrecargaría (aún más)
-	  * Si los precios que carga el sistema público no se distancian —a la baja— de los _del mercado_ se produciría una subvención indeseada en favor los extranjeros.
-	  * El sistema de salud privado resultaría especialmente beneficiado.
+* El sistema público se sobrecargaría (aún más)
+* Si los precios que carga el sistema público no se distancian —a la baja— de los _del mercado_ se produciría una subvención indeseada en favor los extranjeros.
+* El sistema de salud privado resultaría especialmente beneficiado.
 
 El segundo enlace apunta a un [paquete de R para el (pre)procesamiento de correos electrónicos](http://cran.r-project.org/web/packages/edeR/index.html). Me resulta simpático porque usa [rJython](http://cran.r-project.org/web/packages/rJython/index.html), un paquete que resultó de una colaboración entre G. Grothendieck y yo.
 

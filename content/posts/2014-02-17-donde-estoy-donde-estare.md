@@ -11,9 +11,10 @@ tags:
 - demografía
 - epa
 - números
+- emigración
 ---
 
-Me hace cierta gracia leer [_España: El éxodo en cifras. Desaparecen 1,7 millones de personas entre los 16 y los 39 años _](http://www.gurusblog.com/archives/espana-el-exodo-en-cifras-epa/23/01/2014/). El artículo razona alrededor de la tabla
+Me hace cierta gracia leer [_España: El éxodo en cifras. Desaparecen 1,7 millones de personas entre los 16 y los 39 años_](http://www.gurusblog.com/archives/espana-el-exodo-en-cifras-epa/23/01/2014/). El artículo razona alrededor de la tabla
 
 [![donde_estan](/wp-uploads/2014/02/donde_estan.png)
 ](/wp-uploads/2014/02/donde_estan.png)
@@ -218,11 +219,9 @@ Así que no todos estamos en Zúrich. Algunos, simplemente, no somos fantasmas d
 
 **Notas:**
 
-
-
-	  * Las cifras de mis tablas se refieren a población absoluta, no activa, que es un subconjunto de aquella. Simplemente indican cómo evoluciona el total de las que estas forman parte.
-	  * Estas cifras tampoco tienen en cuenta otros factores como la emigración/inmigración, la mortandad, etc.
-	  * El objeto de esta entrada, por las consideraciones anteriores, se limita a apuntar otra causa (que, además, estimo importante) para explicar el comportamiento de las cifras en la tabla original. Soy consciente de que el fenómeno es el resultado de estos y otros factores.
+* Las cifras de mis tablas se refieren a población absoluta, no activa, que es un subconjunto de aquella. Simplemente indican cómo evoluciona el total de las que estas forman parte.
+* Estas cifras tampoco tienen en cuenta otros factores como la emigración/inmigración, la mortandad, etc.
+* El objeto de esta entrada, por las consideraciones anteriores, se limita a apuntar otra causa (que, además, estimo importante) para explicar el comportamiento de las cifras en la tabla original. Soy consciente de que el fenómeno es el resultado de estos y otros factores.
 
 
 

@@ -25,13 +25,9 @@ y argumentan lo que cabe esperar viéndolo: acabándose la neutralidad en la red
 
 Y mis preguntas, de nuevo, legítimas (en el sentido de que desconozco la respuesta o respuestas), sobre el asunto:
 
-
-
-	  * ¿Existen razones técnicas de peso para abogar por el fin de la neutralidad de internet?
-	  * Por el contrario, ¿son una excusa de los proveedores de la infraestructura subyacente para _ordeñar la vaca_ (i.e., extraer rentas)?
-	  * ¿El modelo de subasta vale en este contexto?
-	  * Los problemas técnicos, ¿pueden resolverse con una solución de mercado? ¿Con _cualquier_ solución de mercado?
-	  * ¿Cómo podría organizarse una subasta de capacidad de red? ¿Existiría la posibilidad de subvertirla (vía _proxis_ o similares)?
-	  * ¿Hay alguien que sepa del tema y hable del asunto sabiendo y sin estar al servicio de intereses ulteriores (o, casi equivalentemente, desde posiciones ideológicas _panexpicativas_)?
-
-
+* ¿Existen razones técnicas de peso para abogar por el fin de la neutralidad de internet?
+* Por el contrario, ¿son una excusa de los proveedores de la infraestructura subyacente para _ordeñar la vaca_ (i.e., extraer rentas)?
+* ¿El modelo de subasta vale en este contexto?
+* Los problemas técnicos, ¿pueden resolverse con una solución de mercado? ¿Con _cualquier_ solución de mercado?
+* ¿Cómo podría organizarse una subasta de capacidad de red? ¿Existiría la posibilidad de subvertirla (vía _proxis_ o similares)?
+* ¿Hay alguien que sepa del tema y hable del asunto sabiendo y sin estar al servicio de intereses ulteriores (o, casi equivalentemente, desde posiciones ideológicas _panexpicativas_)?

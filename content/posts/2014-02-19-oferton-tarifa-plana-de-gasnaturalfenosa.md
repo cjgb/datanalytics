@@ -18,50 +18,48 @@ La entrada de hoy es el debido ejercicio acerca de si me conviene o no contratar
 
 Primero, el código:
 
+{{< highlight R "linenos=true" >}}
+library(ggplot2)
 
+# tramos tarifas planas
 
-    library(ggplot2)
+tarifas <- c("micro", "mini", "media", "maxi", "extra")
 
-    # tramos tarifas planas
+dat <- data.frame(
+  tarifas = factor(tarifas, levels = tarifas),
+  hasta   = c(1500, 2500, 4000, 5500, 7000),
+  tarifa.plana = c(30, 40, 55, 73, 91)
+)
 
-    tarifas <- c("micro", "mini", "media", "maxi", "extra")
+# precio normal del kWh
+base  <- 0.13
 
-    dat <- data.frame(
-      tarifas = factor(tarifas, levels = tarifas),
-      hasta   = c(1500, 2500, 4000, 5500, 7000),
-      tarifa.plana = c(30, 40, 55, 73, 91)
-    )
+# fijo en función de la potencia contratada
+# indico el que pago yo aunque varía de
+# cliente en cliente
+termino.potencia <- 15
 
-    # precio normal del kWh
-    base  <- 0.13
+# precio del kWh sobre el límite
+extra <- 0.23
 
-    # fijo en función de la potencia contratada
-    # indico el que pago yo aunque varía de
-    # cliente en cliente
-    termino.potencia <- 15
+# consumos posibles
+consumos <- data.frame(consumo = seq(0, 7000, by=100))
 
-    # precio del kWh sobre el límite
-    extra <- 0.23
+dat <- merge(dat, consumos)
 
-    # consumos posibles
-    consumos <- data.frame(consumo = seq(0, 7000, by=100))
+dat$precio.normal <- 12 * termino.potencia +
+  dat$consumo * base
+dat$precio.tarifa.plana <- 12 * dat$tarifa.plana +
+  extra * pmax(0, dat$consumo - dat$hasta)
+dat$beneficio.oferta <- dat$precio.normal -
+  dat$precio.tarifa.plana
 
-    dat <- merge(dat, consumos)
+dat <- subset(dat, beneficio.oferta > -250)
 
-    dat$precio.normal <- 12 * termino.potencia +
-      dat$consumo * base
-    dat$precio.tarifa.plana <- 12 * dat$tarifa.plana +
-      extra * pmax(0, dat$consumo - dat$hasta)
-    dat$beneficio.oferta <- dat$precio.normal -
-      dat$precio.tarifa.plana
-
-    dat <- subset(dat, beneficio.oferta > -250)
-
-    ggplot(dat, aes(x=consumo, y=beneficio.oferta, col = tarifas)) +
-      geom_line() +
-      geom_hline(aes(yintercept=0), col = "red", alpha = 0.5)
-
-
+ggplot(dat, aes(x=consumo, y=beneficio.oferta, col = tarifas)) +
+  geom_line() +
+  geom_hline(aes(yintercept=0), col = "red", alpha = 0.5)
+{{< / highlight >}}
 
 La salida es este gráfico:
 

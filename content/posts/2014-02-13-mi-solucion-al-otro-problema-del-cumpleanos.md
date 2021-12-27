@@ -16,38 +16,27 @@ tags:
 Pues eso, que me piqué —y parte de la culpa la tiene [este sujeto](http://eliasron.com/)— con [el otro problema del cumpleaños](http://www.datanalytics.com/2014/02/05/el-otro-problema-del-cumpleanos/) y he aquí el código —exacto salvo redondeos, no mediante simulaciones— que he usado para _resolverlo_:
 
 
+{{< highlight R "linenos=true" >}}
+f <- function(n, k = 365, v = NULL){
 
+  if(is.null(v))
+    v <- c(1, rep(NA, k))
 
+  res <- 1
 
+  for(j in (k-1):1){
+    v[k-j] <- ifelse( is.na(v[k-j]), f(n, k-j, v), v[k-j])
+    res    <- res - choose(k,j) * ((k-j)/k)^n * v[k-j]
+  }
 
+  res
+}
 
-
-    f <- function(n, k = 365, v = NULL){
-
-      if(is.null(v))
-        v <- c(1, rep(NA, k))
-
-      res <- 1
-
-      for(j in (k-1):1){
-        v[k-j] <- ifelse( is.na(v[k-j]), f(n, k-j, v), v[k-j])
-        res    <- res - choose(k,j) * ((k-j)/k)^n * v[k-j]
-      }
-
-      res
-    }
-
-    f(2287)
-    #0.5003708
-    f(2286)
-    #0.4994142
-
-
-
-
-
-
-
+f(2287)
+#0.5003708
+f(2286)
+#0.4994142
+{{< / highlight >}}
 
 Lo que hay al final son los ensayos últimos de mi mecanismo de cutrebúsqueda binaria para acotar la solución usando la función `f`. Esta función calcula la probabilidad de que una distribución aleatoria de `n` bolas en `k` urnas no deje vacía nunguna de ellas.
 
@@ -57,5 +46,4 @@ Y que la probabilidad de dejar solo m urnas vacías se reduce al problema anteri
 
 Y algebraicamente (para parecer un tipo serio y confundir todavía más a quienes leen [esto](http://www.datanalytics.com/2014/02/07/no-sin-evidencia/) y luego creen que lo hago de veras, veras):
 
-
-$latex p_k^n=1-\sum_{j=1}^k\binom{k}{j}\left(\frac{k-j}{k}\right)^np_{k-j}^n$
+$$ p_k^n=1-\sum_{j=1}^k\binom{k}{j}\left(\frac{k-j}{k}\right)^np_{k-j}^n$$

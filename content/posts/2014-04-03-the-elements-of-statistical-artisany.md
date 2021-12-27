@@ -14,6 +14,7 @@ tags:
 - multinomial
 - peces
 - siria
+- breiman
 ---
 
 En [_How Statistics lifts the fog of war in Syria_](http://blog.revolutionanalytics.com/2014/03/hrdag-strata.html) se describe una solución al problema de estimar el número de víctimas en cierto lance de la guerra de Siria. Lo complicado del problema es que existen diversos recuentos independientes y las víctimas pueden aparecer en todos, alguno o ninguno.

@@ -17,6 +17,6 @@ En el siguiente vídeo Wolfram habla del lenguaje de Wolfram. Siento repetirme, 
 
 Mirad lo que cuenta:
 
-https://www.youtube.com/watch?v=_P9HqHVPeik
+{{< youtube _P9HqHVPeik >}}
 
 ¿Es o no casi increíble?

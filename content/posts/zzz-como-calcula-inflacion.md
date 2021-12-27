@@ -45,3 +45,5 @@ Más cosas sobre efectos en subgrupos_: /2020/02/06/model4you/ /2020/01/24/estan
 https://datanalytics.com/2018/09/07/tres-titulares-alternativos-y-un-extracto-de-mala-ciencia/ (último párrafo)
 
 https://datanalytics.com/2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-un-pollo-y-el-otro-no/
+
+/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/

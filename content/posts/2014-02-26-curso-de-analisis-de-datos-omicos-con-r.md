@@ -18,7 +18,6 @@ tags:
 
 Copio aquí el anuncio de un nuevo curso de análisis de datos ([_ómicos_ ](http://es.wikipedia.org/wiki/%C3%93mica)en este caso) con R:
 
-
 >Nos complace anunciaros que el [CREAL](http://www.creal.cat/es_index.html) organiza la segunda edición del "Curso de análisis de estadístico de datos ómicos" que va a celebrarse los días 8, 9 y 10 de abril de 2014. <del>Adjunto</del> Debajo podréis encontrar cómo hacer la inscripción que se llevará a cabo por estricto orden de petición y sólo será posible para los primeros 16 pre-inscritos.
 >
 >[Curso_analisis_datos_omicos_2a_edicion](/wp-uploads/2014/02/Curso_analisis_datos_omicos_2a_edicion.pdf)

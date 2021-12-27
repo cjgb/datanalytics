@@ -23,85 +23,72 @@ Supongamos que queremos construir un modelo para predecir quién ganará un dete
 
 Podemos utilizar una regresión logística así:
 
+{{< highlight R "linenos=true" >}}
+set.seed(1234)
 
+my.coefs <- -2:2
+n <- 200
+train.n <- floor(2*n/3)
 
-    set.seed(1234)
+test.error.glm <- function(){
+  X <- matrix(rnorm(n*5), n, 5)
+  Y <- (0.2 + X %*% my.coefs + rnorm(n)) > 0
 
-    my.coefs <- -2:2
-    n <- 200
-    train.n <- floor(2*n/3)
+  train <- sample(1:n, train.n)
 
-    test.error.glm <- function(){
-      X <- matrix(rnorm(n*5), n, 5)
-      Y <- (0.2 + X %*% my.coefs + rnorm(n)) > 0
+  X <- as.data.frame(X)
+  X$Y <- Y
 
-      train <- sample(1:n, train.n)
+  mod.glm <- glm(Y ~ ., data = X[train,], 
+    family = binomial)
 
-      X <- as.data.frame(X)
-      X$Y <- Y
+  glm.pred <- predict(mod.glm, X[-train,], 
+    type = "response")
 
-      mod.glm <- glm(Y ~ ., data = X[train,], family = binomial)
+  error <- length(glm.pred) - 
+    sum(diag(table(glm.pred > 0.5, Y[-train,])))
+}
 
-      glm.pred <- predict(mod.glm, X[-train,], type = "response")
-
-      error <- length(glm.pred) - sum(diag(table(glm.pred > 0.5, Y[-train,])))
-    }
-
-    errores.glm <- replicate(1000, test.error.glm())
-
-
+errores.glm <- replicate(1000, test.error.glm())
+{{< / highlight >}}
 
 El código anterior hace lo siguiente:
 
-
-
-	  * Crea las variables aleatorias X (unos predictores) e Y (el resultado de los partidos).
-	  * Ajusta un modelo logístico a un subconjunto de los datos.
-	  * Predice sobre el complementario de dichos datos, el conjunto de prueba.
-	  * Mide el error cometido.
-	  * Itera el proceso anterior y guarda los errores de clasificación cometidos.
-
+* Crea las variables aleatorias X (unos predictores) e Y (el resultado de los partidos).
+* Ajusta un modelo logístico a un subconjunto de los datos.
+* Predice sobre el complementario de dichos datos, el conjunto de prueba.
+* Mide el error cometido.
+* Itera el proceso anterior y guarda los errores de clasificación cometidos.
 
 Nótese que la variable objetivo es binaria por construcción.
 
 Alternativamente podemos utilizar el modelo lineal para estimar una variable alternativa (y conocida): la diferencia de puntos entre los equipos. El código es similar al anterior:
 
+{{< highlight R "linenos=true" >}}
+test.error.lm <- function(){
+  X <- matrix(rnorm(n*5), n, 5)
+  Y <- 0.2 + X %*% my.coefs + rnorm(n)
 
+  train <- sample(1:n, train.n)
 
-    test.error.lm <- function(){
-      X <- matrix(rnorm(n*5), n, 5)
-      Y <- 0.2 + X %*% my.coefs + rnorm(n)
+  X <- as.data.frame(X)
+  X$Y <- Y
 
-      train <- sample(1:n, train.n)
+  mod.lm <- lm(Y ~ ., data = X[train,])
 
-      X <- as.data.frame(X)
-      X$Y <- Y
+  lm.pred <- predict(mod.lm, X[-train,])
 
-      mod.lm <- lm(Y ~ ., data = X[train,])
+  error <- length(lm.pred) - 
+    sum(diag(table(lm.pred > 0, Y[-train,] > 0)))
+}
 
-      lm.pred <- predict(mod.lm, X[-train,])
-
-      error <- length(lm.pred) - sum(diag(table(lm.pred > 0, Y[-train,] > 0)))
-    }
-
-    errores.lm <- replicate(1000, test.error.lm())
-
-
+errores.lm <- replicate(1000, test.error.lm())
+{{< / highlight >}}
 
 La única diferencia reside en que se estima primero la diferencia en los marcadores y luego se mira a ver si es positiva o negativa para determinar el ganador. Es decir, se binariza después de la predicción.
 
 Y ahora el ejercicio:
 
-
-
-	  * Comprarar los errores cometidos en uno y otro caso.
-	  * Después, solo después, leer [esto](http://andrewgelman.com/2014/02/25/basketball-stats-dont-model-probability-win-model-expected-score-differential/).
-	  * ¡Dejar un comentario explicando los resultados obtenidos!
-
-
-
-
-
-
-
-
+* Comprarar los errores cometidos en uno y otro caso.
+* Después, solo después, leer [esto](http://andrewgelman.com/2014/02/25/basketball-stats-dont-model-probability-win-model-expected-score-differential/).
+* ¡Dejar un comentario explicando los resultados obtenidos!

@@ -32,33 +32,23 @@ Lo que nos conduce a la siguiente cuestión: ¿por qué hablamos tanto del OR en
 
 En el modelo logístico el coeficiente de una variable binaria (p.e., "tabaco") es el logaritmo del OR. En este caso, el ratio lo es entre los casos en los que dicha variable es 1 y el caso base (donde es 0). En efecto
 
-
-$latex p_1=\exp(\dots+1\beta+\dots)/(1+\exp(\dots+1\beta+\dots))$
-
+$$ p_1=\exp(\dots+1\beta+\dots)/(1+\exp(\dots+1\beta+\dots))$$
 
 y
 
-
-$latex p_0=\exp(\dots+0\beta+\dots)/(1+\exp(\dots+0\beta+\dots)=\exp(\dots)/(1+\exp(\dots))$
-
+$$ p_0=\exp(\dots+0\beta+\dots)/(1+\exp(\dots+0\beta+\dots)=\exp(\dots)/(1+\exp(\dots))$$
 
 Despejando,
 
-
-$latex \exp(\dots+\beta+\dots)=p_1/(1-p_1)$
-
+$$ \exp(\dots+\beta+\dots)=p_1/(1-p_1)$$
 
 y
 
-
-$latex \exp(\dots)=p_0/(1-p_0)$
-
+$$ \exp(\dots)=p_0/(1-p_0)$$
 
 por lo que
 
-
-$latex exp(\beta)=\frac{p_1/(1-p_1)}{p_0/(1-p_0)}$,
-
+$$ exp(\beta)=\frac{p_1/(1-p_1)}{p_0/(1-p_0)}$$,
 
 nuestro OR. Y claro, como $latex \beta$ tiene asociados intervalos de confianza, etc. uno puede _hacer estadística_ y, por ejemplo, construir gráficos tales como
 
@@ -73,7 +63,7 @@ Pero, como he discutido más arriba, el OR es difícilmente interpretable (salvo
 
 Las que más me gustan requieren dos números: la probabilidad del caso base y la probabilidad del caso de interés. Pero tanta cifra atraganta a la gente: los más quieren solo un número. Aunque sea la media. Satisfagámoslos entonces.
 
-Habiendo dos números de interés (las dos probabilidades) una cosa que puede hacerse para dejarlos en uno es dividirlos. A ese cociente se lo llama _riesgo relativo_. Puede calcularse a partir del or (y de la probabilidad del caso base) como se indica [aquí](http://robertgrantstats.wordpress.com/2014/01/27/how-to-convert-odds-ratios-to-relative- risks/). Quienes dispongan de un boli, una servilleta y un bachillerato cursado con aprovechamiento no necesitarán siquiera seguir el enlace.
+Habiendo dos números de interés (las dos probabilidades) una cosa que puede hacerse para dejarlos en uno es dividirlos. A ese cociente se lo llama _riesgo relativo_. Puede calcularse a partir del or (y de la probabilidad del caso base) como se indica [aquí](http://robertgrantstats.wordpress.com/2014/01/27/how-to-convert-odds-ratios-to-relative-risks/). Quienes dispongan de un boli, una servilleta y un bachillerato cursado con aprovechamiento no necesitarán siquiera seguir el enlace.
 
 Finalmente, que algo sea x veces más probable que otra cosa tampoco es tremendamente relevante si las probabilidades son ínfimas. Por ejemplo, pueden decir que quienes toman el medicamento A tienen 7 veces más probabilidad de sufrir X que los que no. ¿Pero qué si X solo ocurre a una persona de cada millón?
 
