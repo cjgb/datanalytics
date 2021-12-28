@@ -20,14 +20,11 @@ Pues he aquí que acabo de terminar de leer un artículo muy oportuno, [_Account
 
 Del resumen:
 
-
 > This article reviews the now extensive research literature addressing the impact of accountability on a wide range of social judgments and choices. It focuses on 4 issues: (a) What impact do various accountability ground rules have on thoughts, feelings, and action? (b) Under what conditions will accountability attenuate, have no effect on, or amplify cognitive biases? (c) Does accountability alter how people think or merely what people say they think? and (d) What goals do accountable decision makers seek to achieve? In addition, this review explores the broader implications of accountability research.
 
 Y extraigo de las conclusiones:
 
-
 > This review underscores the falsity of the conventional wisdom —often born out of frustration at irrational, insensitive, or lazy decision makers— that accountability is a cognitive or social panacea: "All we need to do is hold the rascals accountable". Two decades of research now reveal that (a) only highly specialized subtypes of accountability lead to increased cognitive effort; (b) more cognitive effort is not inherently beneficial: it sometimes makes matters even worse; and (c) there is ambiguity and room for reasonable disagreement over what should be considered worse or better judgement when we place cognition in its social or institutional context.
-
 
 Para terminar, una serie de preguntas que me rondaban la cabeza mientras leía el artículo (y para las que no tengo respuesta):
 

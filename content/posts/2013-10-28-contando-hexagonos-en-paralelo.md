@@ -20,80 +20,74 @@ El código disponible en R (`hexBinning` de [`fMultivar`](http://cran.r-project.
 
 Así que he desarrollado un algoritmo para crear celosías hexagonales paralelizable. Además, creo que es algo más inteligible que los dos mencionados y, me temo, igual de feo. Pero vectorizado, eso sí (es decir, sin un maldito bucle). Es así:
 
+{{< highlight R "linenos=true" >}}
+library(plyr)
 
+hexbin <- function(x, y, h = 0.3){
+  r <- 2 * h / sqrt(3)
 
-    library(plyr)
+  x1 <- 2 * h * round(x/(2*h))
+  y1 <- 3 * r * round(y/(3*r))
 
-    <a href="http://inside-r.org/packages/cran/hexbin">hexbin <- function(x, y, h = 0.3){
-      r <- 2 * h / sqrt(3)
+  x2 <- h * (1 + 2 * round( ((x/h) - 1)/ 2))
+  y2 <- 3 * r * ( 1/2 + round( (y/(3*r)) - 1/2) )
 
-      x1 <- 2 * h * round(x/(2*h))
-      y1 <- 3 * r * round(y/(3*r))
+  d1 <- (x-x1)^2 + (y-y1)^2
+  d2 <- (x-x2)^2 + (y-y2)^2
 
-      x2 <- h * (1 + 2 * round( ((x/h) - 1)/ 2))
-      y2 <- 3 * r * ( 1/2 + round( (y/(3*r)) - 1/2) )
+  test <- d1 > d2
 
-      d1 <- (x-x1)^2 + (y-y1)^2
-      d2 <- (x-x2)^2 + (y-y2)^2
+  x1[test] <- x2[test]
+  y1[test] <- y2[test]
 
-      test <- d1 > d2
+  res <- count(data.frame(x=x1,y=y1))
+  colnames(res) <- c("x", "y", "z")
 
-      x1[test] <- x2[test]
-      y1[test] <- y2[test]
-
-      res <- count(data.frame(x=x1,y=y1))
-      colnames(res) <- c("x", "y", "z")
-
-      res
-    }
-
-
+  res
+}
+{{< / highlight >}}
 
 Lo comento un poco: en una celosía hexagonal hay dos tipos de filas de hexágonos intercaladas: las unas y las que tienen los centros dislocados respecto a las anteriores. El algoritmo anterior, para cada punto, encuentra dos centros: el del centro del hexágono más próximo perteneciente al primer tipo de fila y el del segundo tipo de fila. Luego compara las dos distancias y escoge el centro que la minimiza. Limpio y simple.
 
 La salida es una lista con las coordenadas de los centros de los hexágonos y el número de casos en cada uno de ellos. Una versión adaptada de la función `plot.hexBinning` de `fMultivar`,
 
+{{< highlight R "linenos=true" >}}
+plot.hexBinning <- function(x, col = heat.colors(12)){
 
+  X = x$x
+  Y = x$y
 
-    plot.hexBinning <- function(x, col = heat.colors(12)){
+  # Plot Center Points:
+  plot(X, Y, type = "n", asp = 1)
 
-      X = x$x
-      Y = x$y
+  # Create Hexagon Coordinates:
+  rx = median(diff(unique(sort(X))))
+  ry = median(diff(unique(sort(Y))))
+  rt = 2*ry
+  u = c(rx,  0, -rx, -rx,   0,  rx)
+  v = c(ry, rt,  ry, -ry, -rt, -ry) / 3
 
-      # Plot Center Points:
-      plot(X, Y, type = "n", asp = 1)
+  # Create Color Palette:
+  Z = x$z
+  Z <- Z - min(Z)
+  Z <- Z / max(Z)
+  Z <- trunc(Z*(length(col)-1)+1)
 
-      # Create Hexagon Coordinates:
-      rx = median(diff(unique(sort(X))))
-      ry = median(diff(unique(sort(Y))))
-      rt = 2*ry
-      u = c(rx,  0, -rx, -rx,   0,  rx)
-      v = c(ry, rt,  ry, -ry, -rt, -ry) / 3
+  # Add Colored Hexagon Polygons:
+  for (i in 1:length(X)) {
+    polygon(u+X[i], v+Y[i], col = col[Z[i]], border = "white")
+  }
 
-      # Create Color Palette:
-      Z = x$z
-      Z <- Z - min(Z)
-      Z <- Z / max(Z)
-      Z <- trunc(Z*(length(col)-1)+1)
-
-      # Add Colored Hexagon Polygons:
-      for (i in 1:length(X)) {
-        polygon(u+X[i], v+Y[i], col = col[Z[i]], border = "white")
-      }
-
-      invisible(NULL)
-    }
-
-
+  invisible(NULL)
+}
+{{< / highlight >}}
 
 permite hacer
 
-
-
-    my.binning <- <a href="http://inside-r.org/packages/cran/hexbin">hexbin(x = rnorm(10000), y = rnorm(10000))
-    plot.hexBinning(my.binning)
-
-
+{{< highlight R "linenos=true" >}}
+my.binning <- hexbin(x = rnorm(10000), y = rnorm(10000))
+plot.hexBinning(my.binning)
+{{< / highlight >}}
 
 y obtener el correspondiente gráfico que no me voy a molestar en incrustar en la presente entrada.
 

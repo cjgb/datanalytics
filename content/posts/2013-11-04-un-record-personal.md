@@ -16,12 +16,10 @@ tags:
 
 El otro día, casi por error, cargué este dataframe en R:
 
-
-
-    <code>> dim(raw)
-    [1] 115318140         4  </code>
-
-
+{{< highlight R "linenos=true" >}}
+dim(raw)
+# [1] 115318140         4
+{{< / highlight >}}
 
 Es todo un récord personal logrado en un servidor con 24GB de RAM bastante caro.
 

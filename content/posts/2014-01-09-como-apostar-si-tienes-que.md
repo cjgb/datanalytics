@@ -36,24 +36,15 @@ Su quinto capítulo, _Red-and-Black_, discute y prueba que bajo funciones de uti
 
 El problema de la cartera de inversión ficticia no es exactamente un _red-and-black_. De hecho, no es ni parecido:
 
-
-
-	  * No es un juego discreto
-	  * La probabilidad de ganar es mayor que 0.5: la bolsa tiende a subir, ¿no?
-	  * Etc.
-
+* No es un juego discreto
+* La probabilidad de ganar es mayor que 0.5: la bolsa tiende a subir, ¿no?
+* Etc.
 
 Pero sobre todo, la función de utilidad es muy particular —y distinta tanto de quien apuesta en la ruleta o la implícita en el criterio de Kelly—. Es algo así como: si me va muy bien, me lo llevo todo; si obtengo un resullado de decente para abajo no ocurre nada. Como diría Taleb, _all upside with no downside_. Y como seguiría diciendo —y no sería particularmente difícil probar, supongo—, en tales casos la estrategia óptima es la más arriesgada.
 
 En resumen:
 
-
-
-	  * Si quieres aparecer en los puestos de arriba de alguno de esos concursos de inversión bursátil, juégatelo todo a Bankia o la Seda.
-	  * Participa en muchos de ellos. Cuantos más, mejor: más probable será que suene la flauta.
-
+* Si quieres aparecer en los puestos de arriba de alguno de esos concursos de inversión bursátil, juégatelo todo a Bankia o la Seda.
+* Participa en muchos de ellos. Cuantos más, mejor: más probable será que suene la flauta.
 
 Y, finalmente, desconfía de la presunta habilidad de quienes lideran esas listas (salvo que te conste que hayan leído a Dubins y Savage).
-
-
-

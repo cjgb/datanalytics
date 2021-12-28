@@ -10,6 +10,7 @@ categories:
 tags:
 - boxplot
 - gráficos
+- tukey
 ---
 
 Efectivamente, 44 años después de que Tukey describiese su _schematic plot_, los diagramas de caja no han calado en el gran público. Dado que dichos diagramas son la representación más simple que se me ocurre de una distribución de probabilidad, me temo que es síntoma de un mal mayor: que no estamos preparados para aceptar que los fenómenos no están perfectamente parametrizados y sino sujetos a errores, oscilaciones, perturbaciones, errores e imprevistos.
@@ -19,11 +20,9 @@ Efectivamente, 44 años después de que Tukey describiese su _schematic plot_, l
 
 Pero al margen de la indiferencia del común, la academia tenido la gentileza de seguir ahondando en la metáfora visual de los diagramas de caja y experimentando, cuando menos, en tres direcciones:
 
-
-
-	  * La de convertirlos en una representación más fidedigna de la distribución subyacente, es decir, hibridizándolos con los diagramas de densidad.
-	  * La de incorporar medidas de relevancia inferencial como, por ejemplo, marcas que señalen los intervalos de confianza de los estadísticos (p.e., la media) que representan.
-	  * Extensiones bidimensionales.
+* La de convertirlos en una representación más fidedigna de la distribución subyacente, es decir, hibridizándolos con los diagramas de densidad.
+* La de incorporar medidas de relevancia inferencial como, por ejemplo, marcas que señalen los intervalos de confianza de los estadísticos (p.e., la media) que representan.
+* Extensiones bidimensionales.
 
 
 El lector encontrará ejemplos de las tres extensiones [aquí](http://vita.had.co.nz/papers/boxplots.html) y [aquí](http://mason.gmu.edu/~dcarr/lib/v9n2.pdf).

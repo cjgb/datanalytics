@@ -9,6 +9,7 @@ categories:
 - gráficos
 tags:
 - graficaca
+- csic
 ---
 
 Dado que el CSIC nos está pidiendo que hagamos algo por él, perdí un rato el otro día tratando de averiguar qué había hecho él por mí.

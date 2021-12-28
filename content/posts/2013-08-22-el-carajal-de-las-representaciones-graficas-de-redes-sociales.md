@@ -23,6 +23,6 @@ Es cierto que de vez en cuando los fabrico. Y que aquellos a quienes se los ense
 
 Afortunadamente, hay quienes han asumido el problema (de la falta de interpretabilidad, consecuencia del exceso de información irrelevante de ese tipo de representaciones) y [están proponiendo soluciones](http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2012-29). El vídeo
 
-http://www.youtube.com/watch?v=mIxbWIHzhQg
+{{< youtube mIxbWIHzhQg >}}
 
 o [esta entrada de bitácora](http://www.perceptualedge.com/blog/?p=1636) ayudan a comprender por dónde van los tiros.

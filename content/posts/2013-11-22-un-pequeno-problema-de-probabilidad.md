@@ -11,6 +11,7 @@ categories:
 tags:
 - probabilidad
 - r
+- paulos
 ---
 
 El _tuit_
@@ -20,15 +21,13 @@ El _tuit_
 
 de John Allen Paulos me indujo a escribir
 
+{{< highlight R "linenos=true" >}}
+number.numbers <- function(n){
+  sum(cumsum(sample(0:n)) < n) + 1
+}
 
-
-    number.numbers <- function(n){
-      sum(cumsum(sample(0:n)) < n) + 1
-    }
-
-    res <- replicate(10000, number.numbers(1000))
-
-
+res <- replicate(10000, number.numbers(1000))
+{{< / highlight >}}
 
 código con el que, efectivamente, puede _comprobarse_ que la media es, efectivamente, e.
 

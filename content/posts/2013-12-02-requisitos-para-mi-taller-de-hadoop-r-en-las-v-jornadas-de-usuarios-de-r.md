@@ -24,56 +24,44 @@ Los requisitos son los siguientes:
 
 **_Software_:**
 
-
-
-	  * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-	  * ssh (via [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) en Windows)
-	  * La [máquina virtual](http://datanalytics.com/uploads/hortonworks_sandbox_rstudio.zip) (¡3GB!)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* ssh (via [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) en Windows)
+* La [máquina virtual](http://datanalytics.com/uploads/hortonworks_sandbox_rstudio.zip) (¡3GB!)
 
 Nótese que el tamaño de la máquina virtual (3GB) y del resto de los componentes hace imposible descargar todo el _software_ necesario el día de las jornadas. Hay que descargarlo de antemano.
 
 **_Hardware_:**
 
-
-
-	  * 4GB de RAM como mínimo; recomendado, +8GB
-	  * Ordenador / OS de 64 bits
+* 4GB de RAM como mínimo; recomendado, +8GB
+* Ordenador / OS de 64 bits
 
 **Instrucciones:**
 
+* Descarga la versión de VirtualBox (el enlace está arriba) adecuada para tu OS e instálalo.
+* Descarga la máquina virtual y descomprírmela
+* Abre VirtualBox y luego, `Machine > Add` (el fichero descomprimido)
+* Arranca la máquina virtual (y comprueba que lo hace).
+* De ocurrir algún problema:
 
-
-	  * Descarga la versión de VirtualBox (el enlace está arriba) adecuada para tu OS e instálalo.
-	  * Descarga la máquina virtual y descomprírmela
-	  * Abre VirtualBox y luego, `Machine > Add` (el fichero descomprimido)
-	  * Arranca la máquina virtual (y comprueba que lo hace).
-	  * De ocurrir algún problema:
-
-	    *  Comprueba la lista de errores conocidos (más abajo).
-	    * Busca el error en Google y soluciónalo.
-	    *  Escríbeme con una descripción del problema.
+	* Comprueba la lista de errores conocidos (más abajo).
+	* Busca el error en Google y soluciónalo.
+	* Escríbeme con una descripción del problema.
 
 
 **Acceso a la máquina virtual:**
 
-**ssh: **`ssh -oPort=2222 rhadoop@localhost # pwd:rhadoop`
+**ssh:** `ssh -oPort=2222 rhadoop@localhost # pwd:rhadoop`
 
 **root:** `pwd:hadoop`
 
 **web:**
 
+* rstudio:
 
+	* `http://localhost:8787`
+	* u/p: `rhadoop`/`rhadoop`
 
-	  * rstudio:
-
-	    * http://localhost:8787
-	    * u/p: rhadoop/rhadoop
-
-	  * hadoop job tracker:
-
-	    * http://localhost:50030
-
-
+* hadoop job tracker: `http://localhost:50030`
 
 **Problemas conocidos:**
 

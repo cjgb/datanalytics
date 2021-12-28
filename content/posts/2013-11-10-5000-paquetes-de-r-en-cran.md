@@ -17,11 +17,11 @@ Pasar de los 4000 a los 5000 paquetes tardó 14.5 meses, un paquete nuevo cada 1
 
 Hitos:
 
-2013-11-08: 5000 paquetes
-2012-08-23: 4000 paquetes
-2011-05-12: 3000 paquetes
-2009-10-04: 2000 paquetes
-2007-04-12: 1000 paquetes
-2004-10-01: 500 packages
-2003-04-01: 250 paquetes
+* 2013-11-08: 5000 paquetes
+* 2012-08-23: 4000 paquetes
+* 2011-05-12: 3000 paquetes
+* 2009-10-04: 2000 paquetes
+* 2007-04-12: 1000 paquetes
+* 2004-10-01: 500 packages
+* 2003-04-01: 250 paquetes
 

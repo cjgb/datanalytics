@@ -18,10 +18,6 @@ Igual exagero en el encabezamiento: [PC-Axis](http://www.scb.se/Pages/List____31
 
 Como alternativa a la altura de los tiempos, está [JSON-stat](http://json-stat.org/), concebido por [Xavier Badosa](https://twitter.com/badosa) y que nadie como él describe:
 
-
-
-<blockquote>Los principales formatos para el intercambio de datos y metadatos estadísticos están basados en XML: normalmente son complicados y prolijos. JSON-stat es un formato simple y ligero basado en JSON y perfecto para la visualización de datos, aplicaciones móviles o iniciativas de datos abiertos que ha sido diseñado para todo tipo de diseminadores. </blockquote>
-
-
+>Los principales formatos para el intercambio de datos y metadatos estadísticos están basados en XML: normalmente son complicados y prolijos. JSON-stat es un formato simple y ligero basado en JSON y perfecto para la visualización de datos, aplicaciones móviles o iniciativas de datos abiertos que ha sido diseñado para todo tipo de diseminadores.
 
 Invitados estáis a visitar [`json-stat.org`](http://json-stat.org/).

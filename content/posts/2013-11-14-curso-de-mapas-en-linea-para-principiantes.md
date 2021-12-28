@@ -7,11 +7,13 @@ title: Curso de mapas en línea para principiantes
 url: /2013/11/14/curso-de-mapas-en-linea-para-principiantes/
 categories:
 - gráficos
+- anuncios
 tags:
 - cartodb
 - gráficos
 - mapas
 - postgis
+- anuncios
 ---
 
 Cuando me preguntan por [Vizzuality](http://vizzuality.com/) siempre digo lo mismo: juegan en otra liga. Y no, no me han pagado jamás una cena. Solo los he seguido por las redes sociales, me los he tropezado en charlas, etc. Y se nota.

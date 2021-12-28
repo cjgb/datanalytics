@@ -28,23 +28,22 @@ El segundo asunto es [este](https://github.com/Rexamine/FuzzyNumbers), es decir,
 
 > Los números fuzzy [...] juegan un papel destacado en muchas situaciones de importancia teórica y práctica. Frecuentemente describimos nuestro conocimiento a través de números. Por ejemplo, "mido unos 180 cm" o "el cohete fue lanzado entre las 2 y las 3 de la tarde".
 
-
 De igual manera, podemos decir que la tasa de paro está _alrededor_ del 26%. Así que veamos qué nos pueden ofrecer estos números raros:
 
-    library(FuzzyNumbers)
+{{< highlight R "linenos=true" >}}
+library(FuzzyNumbers)
 
-    A <- TrapezoidalFuzzyNumber(0, 1, 2, 3)
-    B <- TrapezoidalFuzzyNumber(1, 2, 3, 3.5)
-    plot(A, xlim = c(-3,4))
-    plot(B, add = TRUE, col = 2, lty = 2)
-    plot(B - A, add = TRUE, col= "green", lty = 4)
+A <- TrapezoidalFuzzyNumber(0, 1, 2, 3)
+B <- TrapezoidalFuzzyNumber(1, 2, 3, 3.5)
+plot(A, xlim = c(-3,4))
+plot(B, add = TRUE, col = 2, lty = 2)
+plot(B - A, add = TRUE, col= "green", lty = 4)
+{{< / highlight >}}
 
 En el código anterior he creado dos números _fuzzy_ trapezoidales. Luego los he restado y la salida es otro número trapezoidal. La representación gráfica de los tres es (con la diferencia en verde):
 
-
 [![fuzzy_difference](/wp-uploads/2014/01/fuzzy_difference.png)
 ](/wp-uploads/2014/01/fuzzy_difference.png)
-
 
 Lo cual, si se me permite, es una chapuza. No sé de dónde ha salido esa teoría _fuzzy_ y si quienes tuvieron la desvergüenza de ponerla en negro sobre blanco habían oído hablar del concepto de distribución de probabilidad. Malo es reinventar la rueda, pero peor es reinventarla cuadrada, ¿no? En particular:
 

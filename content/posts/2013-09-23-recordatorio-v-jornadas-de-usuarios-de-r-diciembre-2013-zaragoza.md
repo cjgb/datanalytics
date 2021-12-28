@@ -7,9 +7,11 @@ title: 'Recordatorio: V Jornadas de Usuarios de R, diciembre 2013, Zaragoza'
 url: /2013/09/23/recordatorio-v-jornadas-de-usuarios-de-r-diciembre-2013-zaragoza/
 categories:
 - r
+- anuncios
 tags:
 - jornadas
 - r
+- anuncios
 ---
 
 Que sirva esta entrada de recordatorio de que la comunidad de usuarios de R va a celebrar sus [V Jornadas en Zaragoza](http://r-es.org/V+Jornadas) este mes de diciembre.

@@ -23,29 +23,25 @@ Quien haya estudiado estadística o probabilidad en algún tipo de institución 
 
 Esencialmente, lo que puede hacerse (dado que es imposible realizar un censo completo) es lo siguiente:
 
-
-
-	  * Pescar cierto número de peces, p1, marcarlos y devolverlos al lago.
-	  * Pescar cierto número de peces, p2, y contar cuántos de ellos fueron marcados el día anterior, n.
-	  * Estimar el número de peces como p1 * p2 / n (dado que la proporción de peces marcados en el lago, p1 / x debiera ser similar a la de pescados el segundo día, n / p2).
+* Pescar cierto número de peces, p1, marcarlos y devolverlos al lago.
+* Pescar cierto número de peces, p2, y contar cuántos de ellos fueron marcados el día anterior, n.
+* Estimar el número de peces como p1 * p2 / n (dado que la proporción de peces marcados en el lago, p1 / x debiera ser similar a la de pescados el segundo día, n / p2).
 
 
 Con R puede hacerse una estimación (incluso del error), así:
 
+{{< highlight R "linenos=true" >}}
+n <- 4000
+p1 <- 300
+p2 <- 300
 
+res <- replicate(10000, sum(sample(rep(0:1, times = c(n-p1, p1)), p2)))
 
-    n <- 4000
-    p1 <- 300
-    p2 <- 300
-
-    res <- replicate(10000, sum(sample(rep(0:1, times = c(n-p1, p1)), p2)))
-
-    hist(p1*p2 / res, col = "grey",
-         main = "Estimación del número de peces",
-         xlab = "estimacion")
-    abline(v = 4000, col = "red")
-
-
+hist(p1*p2 / res, col = "grey",
+        main = "Estimación del número de peces",
+        xlab = "estimacion")
+abline(v = 4000, col = "red")
+{{< / highlight >}}
 
 Para obtener
 

@@ -25,36 +25,34 @@ No obstante lo cual, no es infrecuente construir árboles muy grandes. Y el tama
 
 He aquí el código incrustado en un ejemplo:
 
+{{< highlight R "linenos=true" >}}
+library(party)
+library(ggplot2)
+library(plyr)
 
+irisct <- ctree(Species ~ .,data = iris)
+irisct
+plot(irisct)
 
-    library(<a href="http://inside-r.org/packages/cran/party">party)
-    library(ggplot2)
-    library(plyr)
+ctree.varimp <- function(x,n = 0){
+  if(is.null(x$psplit$variableName))
+    return(NULL)
 
-    irisct <- ctree(Species ~ .,data = iris)
-    irisct
-    plot(irisct)
+  res <- list(node = x$psplit$variableName, depth = n)
 
-    ctree.varimp <- function(x,n = 0){
-      if(is.null(x$psplit$variableName))
-        return(NULL)
+  c(list(res), ctree.varimp(x$left, n+1), ctree.varimp(x$right, n+1))
+}
 
-      res <- list(node = x$psplit$variableName, <a href="http://inside-r.org/packages/cran/depth">depth = n)
+res <- ctree.varimp(irisct@tree)
+res <- do.call(rbind, lapply(res, as.data.frame))
+res$depth <- max(res$depth) + 1 - res$depth
 
-      c(list(res), ctree.varimp(x$left, n+1), ctree.varimp(x$right, n+1))
-    }
+res <- ddply(res, .(node), summarize, importancia = sum(depth))
+res$node <- reorder( res$node, res$importancia, max )
 
-    res <- ctree.varimp(irisct@<a href="http://inside-r.org/packages/cran/tree">tree)
-    res <- do.call(rbind, lapply(res, as.data.frame))
-    res$depth <- max(res$depth) + 1 - res$depth
-
-    res <- ddply(res, .(node), summarize, importancia = sum(<a href="http://inside-r.org/packages/cran/depth">depth))
-    res$node <- reorder( res$node, res$importancia, max )
-
-    ggplot(res, aes(x = node, weight = importancia)) + geom_bar() +
-      coord_flip() + ggtitle("Importancia de variables")
-
-
+ggplot(res, aes(x = node, weight = importancia)) + geom_bar() +
+  coord_flip() + ggtitle("Importancia de variables")
+{{< / highlight >}}
 
 El resultado es:
 

@@ -25,11 +25,9 @@ Es decir, una red bayesiana. Una red bayesiana clásica sobre la que los interes
 
 Pero la idea básica es la siguiente:
 
-
-
-	  * Los nodos superiores (visita a Asia, fumador) son variables observables sobre el comportamiento de unos pacientes.
-	  * Los nodos inferiores (rayos X, [disnea](http://es.wikipedia.org/wiki/Disnea)) son variables también observables, síntomas de esos pacientes.
-	  * Los nodos centrales, los más importantes, no son observables: son diversas enfermedades que pudieran estar padeciendo los individuos en cuestión.
+* Los nodos superiores (visita a Asia, fumador) son variables observables sobre el comportamiento de unos pacientes.
+* Los nodos inferiores (rayos X, [disnea](http://es.wikipedia.org/wiki/Disnea)) son variables también observables, síntomas de esos pacientes.
+* Los nodos centrales, los más importantes, no son observables: son diversas enfermedades que pudieran estar padeciendo los individuos en cuestión.
 
 
 La pregunta que ayuda a resolver esta red bayesiana es la siguiente: conocidas (¡o no!) las variables observadas, ¿cuál es la probabilidad de que un paciente dado padezca alguna de las enfermedades (tuberculosis, bronquitis o cáncer de pulmón) correspondientes a los nodos centrales?
@@ -40,69 +38,63 @@ Las probabilidades condicionales indican en qué medida unas causas inducen unos
 
 Y, ¿cómo analizamos esta red bayesiana? Podemos usar R, Google para ubicar [esto](https://stat.ethz.ch/pipermail/r-help/2011-September/291116.html) y escribir:
 
+{{< highlight R "linenos=true" >}}
+library(gRain)
 
+yn <- c("yes", "no")
+a <- cptable(~ asia, values = c(1, 99), levels = yn)
+t.a <- cptable(~ tub + asia, values = c(5, 95, 1, 99), levels = yn)
+s <- cptable(~ smoke, values = c(5,5), levels = yn)
+l.s <- cptable(~ lung + smoke, values = c(1, 9, 1, 99), levels = yn)
+b.s <- cptable(~ bronc + smoke, values = c(6, 4, 3, 7), levels = yn)
+x.e <- cptable(~ xray + either, values = c(98, 2, 5, 95), levels = yn)
+d.be <- cptable(~ dysp + bronc + either, values = c(9, 1, 7, 3, 8, 2, 1, 9), levels = yn)
+e.lt <- ortable(~ either + lung + tub, levels = yn)
 
-    library(<a href="http://inside-r.org/packages/cran/gRain">gRain)
-
-    yn <- c("yes", "no")
-    a <- cptable(~ asia, values = c(1, 99), levels = yn)
-    t.a <- cptable(~ tub + asia, values = c(5, 95, 1, 99), levels = yn)
-    s <- cptable(~ smoke, values = c(5,5), levels = yn)
-    l.s <- cptable(~ lung + smoke, values = c(1, 9, 1, 99), levels = yn)
-    b.s <- cptable(~ bronc + smoke, values = c(6, 4, 3, 7), levels = yn)
-    x.e <- cptable(~ xray + either, values = c(98, 2, 5, 95), levels = yn)
-    d.be <- cptable(~ dysp + bronc + either, values = c(9, 1, 7, 3, 8, 2, 1, 9), levels = yn)
-    e.lt <- ortable(~ either + lung + tub, levels = yn)
-
-    plist <- compileCPT( list(a, t.a, s, l.s, b.s, e.lt, x.e, d.be))
-    BN <-<a href="http://inside-r.org/packages/cran/gRain">grain(plist,smooth=0)
-
-
+plist <- compileCPT( list(a, t.a, s, l.s, b.s, e.lt, x.e, d.be))
+BN <-grain(plist,smooth=0)
+{{< / highlight >}}
 
 Con eso hemos definido y _compilado_ la red bayesiana. Y entonces podemos hacer consultas sobre ella. Por ejemplo:
 
-
-
-    querygrain( BN, nodes = c("lung", "bronc"), type = "marginal")
-    # $lung
-    # lung
-    # yes    no
-    # 0.055 0.945
-    #
-    # $bronc
-    # bronc
-    # yes   no
-    # 0.45 0.55
-    querygrain( BN, nodes = c("lung", "bronc"), type = "joint")
-    # bronc
-    # lung     yes     no
-    # yes 0.0315 0.0235
-    # no  0.4185 0.5265
-
-
+{{< highlight R "linenos=true" >}}
+querygrain( BN, nodes = c("lung", "bronc"), type = "marginal")
+# $lung
+# lung
+# yes    no
+# 0.055 0.945
+#
+# $bronc
+# bronc
+# yes   no
+# 0.45 0.55
+querygrain( BN, nodes = c("lung", "bronc"), type = "joint")
+# bronc
+# lung     yes     no
+# yes 0.0315 0.0235
+# no  0.4185 0.5265
+{{< / highlight >}}
 
 O de otra manera,
 
-
-
-    tmp <- setFinding(BN, nodes = c("asia", "dysp"), states = c("yes", "yes"))
-    querygrain(tmp, nodes = c("lung", "bronc"))
-    # $lung
-    # lung
-    # yes         no
-    # 0.09952515 0.90047485
-    #
-    # $bronc
-    # bronc
-    # yes        no
-    # 0.8114021 0.1885979
-    getFinding(tmp)
-    # Finding:
-    #   asia: yes
-    # dysp: yes
-    # Pr(Finding)= 0.004501375
-
-
+{{< highlight R "linenos=true" >}}
+tmp <- setFinding(BN, nodes = c("asia", "dysp"), states = c("yes", "yes"))
+querygrain(tmp, nodes = c("lung", "bronc"))
+# $lung
+# lung
+# yes         no
+# 0.09952515 0.90047485
+#
+# $bronc
+# bronc
+# yes        no
+# 0.8114021 0.1885979
+getFinding(tmp)
+# Finding:
+#   asia: yes
+# dysp: yes
+# Pr(Finding)= 0.004501375
+{{< / highlight >}}
 
 La interpretación de los resultados anteriores queda como ejercicio a mis lectores así como el jugar con los parámetros para realizar otros cálculos sobre la red. No abundaré en eso.
 

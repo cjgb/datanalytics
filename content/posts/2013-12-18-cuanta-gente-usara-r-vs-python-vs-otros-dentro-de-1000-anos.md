@@ -17,25 +17,23 @@ Pues no lo sé. Seguramente, nadie. Pero como he visto [esto](http://vote.sparkl
 
 Es el siguiente:
 
+{{< highlight R "linenos=true" >}}
+# creo la matriz de transición
+cols <- c("r", "python", "otros")
+mt <- c(227, 108, 33, 31, 140, 7, 58, 27, 68 + 73)
+mt <- matrix(mt, nrow = 3, byrow = T)
+colnames(mt) <- rownames(mt) <- cols
+mt <- prop.table(mt, 1)
 
+# la diagonalizo
+tmp <- eigen(mt)
 
-    # creo la matriz de transición
+# efectivamente, la diagonalización "funciona"
+tmp$vectors %*% diag(tmp$values) %*% solve(tmp$vectors)
 
-    cols <- c("r", "python", "otros")
-    mt <- c(227, 108, 33, 31, 140, 7, 58, 27, 68 + 73)
-    mt <- matrix(mt, nrow = 3, byrow = T)
-    colnames(mt) <- rownames(mt) <- cols
-    mt <- prop.table(mt, 1)
-
-    # la diagonalizo
-    tmp <- eigen(mt)
-
-    # efectivamente, la diagonalización "funciona"
-    tmp$vectors %*% diag(tmp$values) %*% solve(tmp$vectors)
-
-    # y dejo discurrir 1000 años
-    tmp$vectors %*% diag(tmp$values^10000) %*% solve(tmp$vectors)
-
+# y dejo discurrir 1000 años
+tmp$vectors %*% diag(tmp$values^10000) %*% solve(tmp$vectors)
+{{< / highlight >}}
 
 
 Como resultado, podemos _estimar_ que el en futuro, el 33% de los _data scientists_ estarán usando R contra el 53% que usará Python y el 13% que se decantará por otras herramientas. O, casi seguro, no.

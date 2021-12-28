@@ -43,187 +43,158 @@ utilizar `stop()` para generar mensajes de error
   3. Objetos y métodos: tratar de evitar el uso de objetos S4; no mezclar nunca S3 y S4
 
 
+### Nomenclatura
 
+* **Nombres de ficheros.** Los nombres de ficheros deben tener la extensión `.R` y, por supuesto, ser significativos.
 
-1. **Nomenclatura**
+{{< highlight R "linenos=true" >}}
+# BIEN: 
+predict_ad_revenue.R
+# MAL: 
+foo.R
+{{< / highlight >}}
 
-  * **Nombres de ficheros.** Los nombres de ficheros deben tener la extensión `.R` y, por supuesto, ser significativos.
+* **Identificadores.** No usar guiones bajos ( `_` ) o guiones ( `-` ) en los identificadores. Los identificadores deben asignarse de acuerdo con los siguientes criterios:
 
-BIEN: `predict_ad_revenue.R`
-MAL: `foo.R`
+  * Los nombres de variables deben ser palabras y letras en minúscula separadas por puntos (`.`);
+  * los nombres de funciones deben ser palabras con su primera letra en mayúsculas y, las demás, en minúsculas y no se usarán puntos para separarlas (ejemplo: CapWords);
+  * para las constantes se seguirá la misma convención que para las funciones aunque se utilizará el prefijo `k`.
 
-  * **Identificadores.** No usar guiones bajos ( `_` ) o guiones ( `-` ) en los identificadores.
+{{< highlight R "linenos=true" >}}
+# nombres de variables
+# BIEN: 
+avg.clicks
 
+# MAL: 
+avg_Clicks
+avgClicks
 
-Los identificadores deben asignarse de acuerdo con los siguientes criterios:
-Los nombres de variables deben ser palabras y letras en minúscula separadas por puntos (`.`);
-los nombres de funciones deben ser palabras con su primera letra en mayúsculas y, las demás, en minúsculas y no se usarán puntos para separarlas (ejemplo: CapWords);
-para las constantes se seguirá la misma convención que para las funciones aunque se utilizará el prefijo `k`.
+# nombres de funciones
+# BIEN: 
+CalculateAvgClicks
 
-	      * `variable.name `BIEN: `avg.clicks`
+# MAL: 
+calculate_avg_clicks
+calculateAvgClicks`
+{{< / highlight >}}
 
-MAL: `avg_Clicks `, `avgClicks `
-	      * `FunctionName `BIEN: `CalculateAvgClicks`
+* Usa verbos como nombres de funciones. _Excepción: al trabajar con objetos, el nombre de la función (constructor) y la clase deben coincidir (p.e., lm)._  
 
-MAL: `calculate_avg_clicks `, `calculateAvgClicks`
 
-Usa verbos como nombres de funciones.
+### Sintaxis 
 
-_Excepción: al trabajar con objetos, el nombre de la función (constructor) y la clase deben coincidir (p.e., lm)._
-	      * `kConstantName `
+* **Longitud de línea:** No más de 80 caracteres.
+* **Indentación:** Usar dos espacios para indentar. Nunca mezclar espacios y tabuladores. _Excepción: cuando la línea se corte dentro de unos paréntesis, hay que alinear la línea siguiente con el primer caracter dentro del los paréntesis._
+* **Espaciado:** Usar espacios alrededor de todos los operadores binarios (`=`, `+`, `-`, `<-`, etc.). _Excepción: los espacios alrededor de `=` son opcionales en las llamadas a una función._
+* Usar espacios siempre después de las comas, pero nunca antes de ellas.
 
+{{< highlight R "linenos=true" >}}
+# BIEN:
 
+tabPrior <- table(df[df$daysFromOpt < 0, "campaignid"])
+total <- sum(x[, 1])
+total <- sum(x[1, ])
 
+# MAL:
+tabPrior <- table(df[df$daysFromOpt<0, "campaignid"])  # Necesita espacios alrededor de '<'
+tabPrior <- table(df[df$daysFromOpt < 0,"campaignid"])  # Necesita un espacio tras la coma
+tabPrior<- table(df[df$daysFromOpt < 0, "campaignid"])  # Necesita un espacio antes de <-
+tabPrior<-table(df[df$daysFromOpt < 0, "campaignid"])  # Necesita espacios alrededor de <-
+total <- sum(x[,1])  # Necesita espacio después de la coma
+total <- sum(x[ ,1])  # Necesita un espacio después de la coma, no antes<
+{{< / highlight >}}
 
-	  2. **Sintaxis**
 
-	    *
+* Usa un espacio delante del paréntesis izquierdo, salvo en llamadas a funciones.
 
+{{< highlight R "linenos=true" >}}
+# BIEN: 
+if (debug) ...
 
-**Longitud de línea. **No más de 80 caracteres.
+# MAL: 
+if(debug) ...
+{{< / highlight >}}
 
+* El espacio adicional en una línea (más de uno en una fila) es permisible si mejora la alineación del código.
 
+{{< highlight R "linenos=true" >}}
+plot(x    = xCoord,
+      y    = dataMat[, makeColName(metric, ptiles[1], "roiOpt")],
+      ylim = ylim,
+      xlab = "dates",
+      ylab = metric,
+      main = (paste(metric, " for 3 samples ", sep="")))
+{{< / highlight >}}
 
-	    *
 
+* No usar espacios alrededor de código en paréntesis o corchetes. _Excepción: Usar espacio siempre antes de una coma._
 
-**Indentación. **Usar dos espacios para indentar. Nunca mezclar espacios y tabuladores.
+{{< highlight R "linenos=true" >}}
+# BIEN:
 
+if (debug)
+    x[1, ]
 
-_Excepción: cuando la línea se corte dentro de unos paréntesis, hay que alinear la línea seguiente con el primer caracter dentro del los paréntesis._
-	    *
+# MAL:
 
+if ( debug )  # No hay que colocar espacios alrededor de "debug"
+x[1,]  # Hace falta un espacio tras la coma</code>
+{{< / highlight >}}
 
-**Espaciado **Usar espacios alrededor de todos los operadores binarios (`=`, `+`, `-`, `<-`, etc.).
 
+* **Llaves.** Una llave nunca se abre en una línea nueva; sin embargo, siempre se cierran en una línea nueva.Las llaves pueden omitirse cuando encierren una única expresión; sin embargo, esta regla debe seguirse de manera _consistente_.
 
-_ Excepción: los espacios alrededor de `=` son opcionales en las llamadas a una función._
-
-Usar espacios siempre después de las comas, pero nunca antes de ellas.
-
-BIEN:
-
-
-    <code>tabPrior <- table(df[df$daysFromOpt < 0, "campaignid"])
-    total <- sum(x[, 1])
-    total <- sum(x[1, ])</code>
-
-
-MAL:
-
-
-    <code><span style="color: red;">tabPrior <- table(df[df$daysFromOpt<0, "campaignid"])  # Necesita espacios alrededor de '<'
-
-    tabPrior <- table(df[df$daysFromOpt < 0,"campaignid"])  # Necesita un espacio tras la coma
-
-    tabPrior<- table(df[df$daysFromOpt < 0, "campaignid"])  # Necesita un espacio antes de <-
-
-    tabPrior<-table(df[df$daysFromOpt < 0, "campaignid"])  # Necesita espacios alrededor de <-
-
-    total <- sum(x[,1])  # Necesita espacio después de la coma
-
-    total <- sum(x[ ,1])  # Necesita un espacio después de la coma, no antes</code>
-
-
-Usa un espacio delante del paréntesis izquierdo, salvo en llamadas a funciones.
-
-BIEN: `if (debug)`
-
-MAL: `if(debug)`
-
-El espacio adicional en una línea (más de uno en una fila) es permisible si mejora la alineación del código.
-
-
-    <code>plot(x    = xCoord,
-         y    = dataMat[, makeColName(metric, ptiles[1], "roiOpt")],
-         ylim = ylim,
-         xlab = "dates",
-         ylab = metric,
-         main = (paste(metric, " for 3 samples ", sep="")))
-    </code>
-
-
-No usar espacios alrededor de código en paréntesis o corchetes.
-
-_ Excepción: Usar espacio siempre antes de una coma._
-
-BIEN:
-
-
-    <code>if (debug)
-    x[1, ]</code>
-
-
-MAL:
-
-
-    <code><span style="color: red;">if ( debug )  # No hay que colocar espacios alrededor de "debug"
-    x[1,]  # Hace falta un espacio tras la coma</code>
-
-
-
-	    *
-
-
-**Llaves. **Una llave nunca se abre en una línea nueva; sin embargo, siempre se cierran en una línea nueva.Las llaves pueden omitirse cuando encierren una única expresión; sin embargo, esta regla debe seguirse de manera _consistente_.
-
-
-
-
-
-    <code>
+{{< highlight R "linenos=true" >}}
     if (is.null(ylim)) {
       ylim <- c(0, 0.06)
-    }</code>
-
+    }
+{{< / highlight >}}
 
 xor (no los dos a la vez)
 
-
-    <code>
+{{< highlight R "linenos=true" >}}
     if (is.null(ylim))
-      ylim <- c(0, 0.06)</code>
+      ylim <- c(0, 0.06)
+{{< / highlight >}}
+
+* Hay que comenzar el cuerpo de un nuevo bloque en una línea nueva.
+
+{{< highlight R "linenos=true" >}}
+# MAL:
+
+if (is.null(ylim))
+ylim <- c(0, 0.06)
+
+if (is.null(ylim))
+{ylim <- c(0, 0.06)}
+{{< / highlight >}}
+
+* **Asignaciones:** Usar `<-`, no `=`, para realizar asignaciones.
+
+{{< highlight R "linenos=true" >}}
+# BIEN: 
+x <- 5
+# MAL: 
+x = 5
+{{< / highlight >}}
 
 
-Hay que comenzar el cuerpo de un nuevo bloque en una línea nueva.
-
-MAL:
-
-` if (is.null(ylim))
-ylim <- c(0, 0.06)`
-
-` if (is.null(ylim))
-{ylim <- c(0, 0.06)} `
-	    *
+* **Puntos y comas:** No terminar las líneas con puntos y comas. No utilizar puntos y comas para escribir más de una expresión en la misma línea. Nótese que los puntos y comas no son necesarios y que se omiten por consistencia con otras guías de estilo de Google.
 
 
-**Asignaciones. **Usar `<-`, no `=`, para realizar asignaciones.
+###  Organización
 
+* **Distribución general y organización.** Si todos siguen los mismos principios, podremos leer y entender el código de los demás más rápidamente.
 
-BIEN: ` x <- 5 `
-MAL: ` x = 5`
-	    *
+    1. Copyright
+    2. Autor
+    3. Descripción del fichero, incluyendo la finalidad del programa, sus entradas y sus salidas
+    4. Comandos `source()` y `library()`
+    5. Definición de las funciones
+    6. Resto del código, si es aplicable (p.e., ` print`, `plot`)
+    7. Los tests unitarios deberían incluirse en un fichero aparte llamado `originalfilename_unittest.R`.
 
-
-**Puntos y comas. **No terminar las líneas con puntos y comas. No utilizar puntos y comas para escribir más de una expresión en la misma línea. Nótese que los puntos y comas no son necesarios y que se omiten por consistencia con otras guías de estilo de Google.
-
-
-
-
-
-3. **Organización**
-
-  * **Distribución general y organización.** Si todos siguen los mismos principios, podremos leer y entender el código de los demás más rápidamente.
-
-      1. Copyright
-      2. Autor
-      3. Descripción del fichero, incluyendo la finalidad del programa, sus entradas y sus salidas
-      4. Comandos `source()` y `library()`
-      5. Definición de las funciones
-      6. Resto del código, si es aplicable (p.e., ` print`, `plot`)
-      7. Los tests unitarios deberían incluirse en un fichero aparte llamado `originalfilename_unittest.R`.
-  
-  * **Comentarios.** Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de éste por dos espacios, un `#` y un espacio más.
+* **Comentarios.** Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de éste por dos espacios, un `#` y un espacio más.
 
 {{< highlight R "linenos=true" >}}
 # Crear histograma de frecuencias de campañas según porcentaje del presupuesto
@@ -235,31 +206,27 @@ hist(df$pctSpent,
 {{< / highlight >}}
 
 
-  * **Funciones: definiciones y llamadas.** La definición de las funciones debe contener primero los argumentos sin valores por defecto.
+* **Funciones: definiciones y llamadas.** La definición de las funciones debe contener primero los argumentos sin valores por defecto.
+
+    * Idealmente, las pruebas unitarias deberían servir como ejemplo de llamadas a funciones (para rutinas de librerías compartidas).
+    * En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneas sólo deben separar asignaciones.
 
 
-En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneas sólo deben separar asignaciones.
-BIEN:
+{{< highlight R "linenos=true" >}}
+# BIEN:
 
-
-    <code>PredictCTR <- function(query, property, numDays,
+PredictCTR <- function(query, property, numDays,
                            showPlot = TRUE)
-    </code>
 
+# MAL:
 
-MAL:
-
-
-    <code><span style="color: red;">PredictCTR <- function(query, property, numDays, showPlot =
-                           TRUE)
-    </code>
-
-
-Idealmente, las pruebas unitarias deberían servir como ejemplo de llamadas a funciones (para rutinas de librerías compartidas).
+PredictCTR <- function(query, property, numDays, showPlot = 
+  TRUE)
+{{< / highlight >}}
 	    
-  * **Documentación de funciones.** Las funciones deberían tener una sección de comentarios inmediatamente debajo de la línea de definición de la función. Tales comentarios deberían consistir en una frase que definiese la función, una lista de los argumentos de la función precedida por `Args:` con una descripción de cada uno de ellos, incluido su tipo y una descripción del valor devuelto por la función precedido por `Returns:`. Los comentarios deberían ser lo suficientemente descriptivos como para que un usuario pudiera utilizar la función sin tener que leer su código.
+* **Documentación de funciones.** Las funciones deberían tener una sección de comentarios inmediatamente debajo de la línea de definición de la función. Tales comentarios deberían consistir en una frase que definiese la función, una lista de los argumentos de la función precedida por `Args:` con una descripción de cada uno de ellos, incluido su tipo y una descripción del valor devuelto por la función precedido por `Returns:`. Los comentarios deberían ser lo suficientemente descriptivos como para que un usuario pudiera utilizar la función sin tener que leer su código.
 
-  * **Ejemplo de función**
+* **Ejemplo de función**
 
 {{< highlight R "linenos=true" >}}
 CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
@@ -289,39 +256,43 @@ CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
 }
 {{< / highlight >}}
 
-  * **Estilo para los TODO.** Usa un estilo consistente para los TODO en el código.
+* **Estilo para los TODO.** Usa un estilo consistente para los TODO en el código.
 
 `TODO(username): Descripción de lo que tiene que hacerse`
 
 
-4. **Lenguaje**
+### Lenguaje
 
-    * **Attach.** El uso de `attach` puede producir muchos errores. Evítalo.
-    * **Funciones.** Usar `stop()` para lanzar mensajes de error.
-    * **Objetos y médotos.** El lenguaje S tiene dos tipos de sistemas de clases, S3 y S4, disponibles en R. Los métodos S3 son más interactivos y flexibles, mientras que los S4 son más formales y rigurosos. (Para una ilustración de los dos sistemas, véase "Programmer's Niche: A Simple Class, in S3 and S4" in R News 4/1, 2004, pgs. 33 - 36 ([enlace](http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf)) por Thomas Lumley.)
+* **Attach.** El uso de `attach` puede producir muchos errores. Evítalo.
+* **Funciones.** Usar `stop()` para lanzar mensajes de error.
+* **Objetos y médotos.** El lenguaje S tiene dos tipos de sistemas de clases, S3 y S4, disponibles en R. Los métodos S3 son más interactivos y flexibles, mientras que los S4 son más formales y rigurosos. (Para una ilustración de los dos sistemas, véase "Programmer's Niche: A Simple Class, in S3 and S4" in R News 4/1, 2004, pgs. 33 - 36 ([enlace](http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf)) por Thomas Lumley.)
 
-      * Usa objetos y objetos S3 a no ser que exista una razón poderosa para usar los del tipo S4.
-      * Una justificación para usar objetos S4 sería la de poder manipularlos directamente desde C++.
-      * Para usar métodos S4, sería poder despachar en función de dos argumentos.
-      * Evita mezclar métodos S3 y S4: los métodos S4 ignoran la herencia de los S3 y a la inversa.
+  * Usa objetos y objetos S3 a no ser que exista una razón poderosa para usar los del tipo S4.
+  * Una justificación para usar objetos S4 sería la de poder manipularlos directamente desde C++.
+  * Para usar métodos S4, sería poder despachar en función de dos argumentos.
+  * Evita mezclar métodos S3 y S4: los métodos S4 ignoran la herencia de los S3 y a la inversa.
 
 
-5. **Excepciones.** Las convenciones expresadas más arriba deberían ser seguidas de no haber un buen motivo para seguir otro criterio: por ejemplo, al usar código antiguo o de terceras partes.
+### Excepciones
+
+Las convenciones expresadas más arriba deberían ser seguidas de no haber un buen motivo para seguir otro criterio: por ejemplo, al usar código antiguo o de terceras partes.
 	  
-6. **Consideraciones finales**
+### Consideraciones finales
 
-    * Usa el sentido común y SÉ CONSISTENTE.
-    * Si estás editando código, tómate unos minutos para mirar alrededor y determinar cuál es el estilo del código. Si los autores originales usaban espacios alrededor de sus comandos `if `, deberías hacerlo también.
-    * Si sus comentarios tienen cajas o estrellas alrededor, úsalas también.
-    * El objetivo de tener un código de estilo es el usar un vocabulario común para poder concentrarse en lo que estás diciendo más que en cómo lo estás diciendo.
-    * Al presentar unas reglas globales de estilo intentamos que se use un vocabulario común. Pero el estilo local es importante. Si el código que añades a un fichero sigue una convención distinta, la discontinuidad provocará el rechazo de quienes lo hereden. Trata de evitar eso.
-    * Bien, y una vez finalizada la tarea sobre cómo escribir código, podemos comenzar a escribirlo, que es mucho más interesante. ¡Disfrutémoslo!
+* Usa el sentido común y SÉ CONSISTENTE.
+* Si estás editando código, tómate unos minutos para mirar alrededor y determinar cuál es el estilo del código. Si los autores originales usaban espacios alrededor de sus comandos `if `, deberías hacerlo también.
+* Si sus comentarios tienen cajas o estrellas alrededor, úsalas también.
+* El objetivo de tener un código de estilo es el usar un vocabulario común para poder concentrarse en lo que estás diciendo más que en cómo lo estás diciendo.
+* Al presentar unas reglas globales de estilo intentamos que se use un vocabulario común. Pero el estilo local es importante. Si el código que añades a un fichero sigue una convención distinta, la discontinuidad provocará el rechazo de quienes lo hereden. Trata de evitar eso.
+* Bien, y una vez finalizada la tarea sobre cómo escribir código, podemos comenzar a escribirlo, que es mucho más interesante. ¡Disfrutémoslo!
 	  
-7. **Referencias**
+### Referencias
 
-    * [R Coding Conventions](http://www.maths.lth.se/help/R/RCC/)
-    * [Para usuarios de emacs](http://ess.r-project.org/)
-    * [Guía de estilo de R de Google](https://google.github.io/styleguide/Rguide.xml) (en inglés)
+* [R Coding Conventions](http://www.maths.lth.se/help/R/RCC/)
+* [Para usuarios de emacs](http://ess.r-project.org/)
+* [Guía de estilo de R de Google](https://google.github.io/styleguide/Rguide.xml) (en inglés)
 
-8. **Notas:** Esta guía de estilo de R es una traducción literal de [la de Google](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.
+### Notas 
+
+Esta guía de estilo de R es una traducción literal de [la de Google](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.
 

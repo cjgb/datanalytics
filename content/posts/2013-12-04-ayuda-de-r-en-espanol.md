@@ -14,51 +14,45 @@ tags:
 
 He ejecutado hoy tres ficheros secuencialmente:
 
+{{< highlight bash "linenos=true" >}}
+#!/bin/bash
 
-
-    <code>#!/bin/bash
-
-    wget -nd -r -l1 --accept gz https://stat.ethz.ch/pipermail/r-help-es/
-    zcat *.gz > all_mails
-    rm *.gz</code>
-
-
+wget -nd -r -l1 --accept gz https://stat.ethz.ch/pipermail/r-help-es/
+zcat *.gz > all_mails
+rm *.gz
+{{< / highlight >}}
 
 en sh,
 
+{{< highlight python "linenos=true" >}}
+#!/usr/bin/python
 
+import mailbox
+from email.utils import parsedate
+from time import mktime
 
-    <code>#!/usr/bin/python
-
-    import mailbox
-    from email.utils import parsedate
-    from time import mktime
-
-    for message in mailbox.mbox('all_mails'):
-    	fecha = parsedate(message["date"])
-    	print str(fecha[0]) + "-" + str(fecha[1])</code>
-
-
+for message in mailbox.mbox('all_mails'):
+    fecha = parsedate(message["date"])
+    print str(fecha[0]) + "-" + str(fecha[1])
+{{< / highlight >}}
 
 en Python y finalmente
 
+{{< highlight R "linenos=true" >}}
+#!/usr/bin/Rscript
 
+library(zoo)
 
-    <code>#!/usr/bin/Rscript
+meses <- read.table("horas.txt")[,1]
+meses <- paste(meses, "-1", sep = "")
+meses <- table(meses)
 
-    library(zoo)
+meses <- zoo(meses, order.by = strptime(names(meses), format = "%Y-%m-%d"))
 
-    meses <- read.table("horas.txt")[,1]
-    meses <- paste(meses, "-1", sep = "")
-    meses <- table(meses)
-
-    meses <- zoo(meses, order.by = strptime(names(meses), format = "%Y-%m-%d"))
-
-    png("uso_r_help_es.png")
-    	plot(meses)
-    dev.off()</code>
-
-
+png("uso_r_help_es.png")
+    plot(meses)
+dev.off()
+{{< / highlight >}}
 
 en R para construir
 

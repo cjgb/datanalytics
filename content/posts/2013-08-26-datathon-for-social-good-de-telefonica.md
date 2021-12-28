@@ -8,6 +8,7 @@ url: /2013/08/26/datathon-for-social-good-de-telefonica/
 categories:
 - ciencia de datos
 - estadística
+- anuncios
 tags:
 - competición
 - datos abiertos
@@ -19,12 +20,9 @@ El _[Datathon for Social Good](http://new.dynamicinsights.telefonica.com/674/the
 
 Estos son los tres tipos de datos con los que se contará:
 
-
-
-	  * Recuento de personas en el área metropolitana de Londres durante 3 semanas, por sexo, edad y grupos para cada área en rango horario. Datos inferidos de cuántos están en su hogar, en trabajo o de visita.
-	  * Datos abiertos y geo-localizados de medios de transporte (autobús, metro, bicicleta). Admisiones en hospitales. Localizaciones de servicios de emergencia.
-	  * Datos no-localizados de Twitter con el _hash-tag_ "London". Cantidad representativa de _tuits_ por hora.
-
+* Recuento de personas en el área metropolitana de Londres durante 3 semanas, por sexo, edad y grupos para cada área en rango horario. Datos inferidos de cuántos están en su hogar, en trabajo o de visita.
+* Datos abiertos y geo-localizados de medios de transporte (autobús, metro, bicicleta). Admisiones en hospitales. Localizaciones de servicios de emergencia.
+* Datos no-localizados de Twitter con el _hash-tag_ "London". Cantidad representativa de _tuits_ por hora.
 
 Además, la competición será inaugurada con una conferencia a cargo del profesor Alex "Sandy" Pentland del MIT y Gavin Starks, director del [Open Data Institute](http://www.theodi.org/) el martes 3 de Septiembre.
 

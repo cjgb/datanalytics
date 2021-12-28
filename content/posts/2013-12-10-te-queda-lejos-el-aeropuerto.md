@@ -25,89 +25,78 @@ porque, a pesar de sus innegables deméritos gráficos, como la profusión de to
 
 Para ello, primero, he descargado las coordenadas de los aeropuertos de [aquí](http://www.partow.net/miscellaneous/airportdatabase/#Download) (nota: un tipo [procesó y tradujo al español](http://dev4bloggers.blogspot.com.es/2010/06/base-datos-aeropuertos-mundo.html) el fichero anterior pero olvidó cambiar el signo de las latitudes al oeste del meridiano 0; ¡cuidado con lo que te bajas de internet!) y las he cargado en R:
 
+{{< highlight R "linenos=true" >}}
+aeropuertos <- read.table("GlobalAirportDatabase.txt", sep = ":", header = F, quote = "")
+aeropuertos <- subset(aeropuertos, V5 == "SPAIN" & V2 != "N/A")
 
+aeropuertos$V7 <- aeropuertos$V7 + aeropuertos$V8 / 60
+aeropuertos$V6 <- aeropuertos$V6 + aeropuertos$V7 / 60
 
-    aeropuertos <- read.table("GlobalAirportDatabase.txt", sep = ":", header = F, quote = "")
-    aeropuertos <- subset(aeropuertos, V5 == "SPAIN" & V2 != "N/A")
+aeropuertos$V11 <- aeropuertos$V11 + aeropuertos$V12 / 60
+aeropuertos$V10 <- aeropuertos$V10 + aeropuertos$V11 / 60
+aeropuertos$V10 <- aeropuertos$V10 * ifelse(aeropuertos$V13 == "E", 1, -1)
 
-    aeropuertos$V7 <- aeropuertos$V7 + aeropuertos$V8 / 60
-    aeropuertos$V6 <- aeropuertos$V6 + aeropuertos$V7 / 60
+aeropuertos <- subset(aeropuertos, select = c("V3", "V6", "V10"))
 
-    aeropuertos$V11 <- aeropuertos$V11 + aeropuertos$V12 / 60
-    aeropuertos$V10 <- aeropuertos$V10 + aeropuertos$V11 / 60
-    aeropuertos$V10 <- aeropuertos$V10 * ifelse(aeropuertos$V13 == "E", 1, -1)
-
-    aeropuertos <- subset(aeropuertos, select = c("V3", "V6", "V10"))
-
-    colnames(aeropuertos) <- c("nombre", "lat", "lon")
-
-
+colnames(aeropuertos) <- c("nombre", "lat", "lon")
+{{< / highlight >}}
 
 Luego he descargado y procesado el mapa que me proporciona el contorno de la España peninsular:
 
-
-
-    library(maptools)
-    tmp <- readShapePoly("ESP_adm0.shp")
-    peninsula <- tmp@polygons[[1]]@Polygons[[187]]
-    aeropuestos.peninsula <- point.in.polygon(aeropuertos$lon,
-      aeropuertos$lat,
-      peninsula@coords[,1],
-      peninsula@coords[,2])
-    aeropuertos <- aeropuertos[aeropuestos.peninsula == 1, ]
-
-
+{{< highlight R "linenos=true" >}}
+library(maptools)
+tmp <- readShapePoly("ESP_adm0.shp")
+peninsula <- tmp@polygons[[1]]@Polygons[[187]]
+aeropuestos.peninsula <- point.in.polygon(aeropuertos$lon,
+  aeropuertos$lat,
+  peninsula@coords[,1],
+  peninsula@coords[,2])
+aeropuertos <- aeropuertos[aeropuestos.peninsula == 1, ]
+{{< / highlight >}}
 
 El _shapefile_ están descargado de [GADM](http://www.gadm.org/). La función `point.in.polygon` permite descartar aquellos aeropuertos extrapeninsulares: indentifica si un punto está dentro o fuera de un polígono.
 
 Luego he creado una malla de puntos a partir de los extremos de la península y he utilizado el paquete `geosphere` para calcular la distancia entre puntos expresados en términos de su latitud/longitud.
 
+{{< highlight R "linenos=true" >}}
+library(<a href="http://inside-r.org/packages/cran/geosphere">geosphere)
 
+extremos <- apply(peninsula@coords, 2, range)
+grid.lat <- seq(from = extremos[1,2], to = extremos[2,2], length.out = 1000)
+grid.lon <- seq(from = extremos[1,1], to = extremos[2,1], length.out = 1000)
 
-    library(<a href="http://inside-r.org/packages/cran/geosphere">geosphere)
+distancia <- function(lon, lat){
+  lonlat <- cbind(lon, lat)
+  aeropuertos.lon.lat <- cbind(aeropuertos$lon, aeropuertos$lat)
+  distancias <- distm(lonlat, aeropuertos.lon.lat)
+  apply(distancias, 1, min)
+}
 
-    extremos <- apply(peninsula@coords, 2, range)
-    grid.lat <- seq(from = extremos[1,2], to = extremos[2,2], length.out = 1000)
-    grid.lon <- seq(from = extremos[1,1], to = extremos[2,1], length.out = 1000)
-
-    distancia <- function(lon, lat){
-      lonlat <- cbind(lon, lat)
-      aeropuertos.lon.lat <- cbind(aeropuertos$lon, aeropuertos$lat)
-      distancias <- distm(lonlat, aeropuertos.lon.lat)
-      apply(distancias, 1, min)
-    }
-
-    res <- outer(grid.lon, grid.lat, distancia)
-
-
+res <- outer(grid.lon, grid.lat, distancia)
+{{< / highlight >}}
 
 Finalmente,
 
+{{< highlight R "linenos=true" >}}
+library(raster)
 
+resk <- SpatialPoints(expand.grid(grid.lon, grid.lat))
+resk <- SpatialPixelsDataFrame(resk, data.frame(dist = as.vector(res)))
 
-    library(raster)
+sp.peninsula <- Polygon(peninsula@coords)
+sp.peninsula <- Polygons(list(sp.peninsula), ID = "peninsula")
+sp.peninsula <- SpatialPolygons(list(sp.peninsula))
 
-    resk <- SpatialPoints(expand.grid(grid.lon, grid.lat))
-    resk <- SpatialPixelsDataFrame(resk, data.frame(dist = as.vector(res)))
+seleccionados <- !is.na(over(resk, sp.peninsula))
 
-    sp.peninsula <- Polygon(peninsula@coords)
-    sp.peninsula <- Polygons(list(sp.peninsula), ID = "peninsula")
-    sp.peninsula <- SpatialPolygons(list(sp.peninsula))
+final <- resk[seleccionados,]
 
-    seleccionados <- !is.na(over(resk, sp.peninsula))
-
-    final <- resk[seleccionados,]
-
-    image(final)
-
-
+image(final)
+{{< / highlight >}}
 
 Es decir, he usado primero la función `over` (de `sp`) para identificar (como antes, más arriba, usando `point.in.polygon`) aquellos puntos de la malla que caen dentro del perímetro deseado. Para ello he tenido que hacer dos transformaciones previas:
 
-
-
-	  * Convertir el polígono del perímetro de la España peninsular en un objeto de la clase `SpatialPolygons` (es decir, un polígono con información de tipo cartográfico)
-	  * Convertir mi malla en un objeto de la clase `SpatialPixelsDataFrame` (es decir, de puntos también con base cartográfica)
-
+* Convertir el polígono del perímetro de la España peninsular en un objeto de la clase `SpatialPolygons` (es decir, un polígono con información de tipo cartográfico)
+* Convertir mi malla en un objeto de la clase `SpatialPixelsDataFrame` (es decir, de puntos también con base cartográfica)
 
 Con el último filtro me he quedado con los puntos deseados y con la llamada a `image` (sin más argumentos) he liquidado la entrada del día.

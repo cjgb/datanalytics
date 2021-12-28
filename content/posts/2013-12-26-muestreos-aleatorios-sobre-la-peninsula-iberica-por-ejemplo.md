@@ -26,31 +26,29 @@ Sin embargo, la superficie de una [zona esférica ](http://es.wikipedia.org/wiki
 
 Por tanto, es posible muestrear aleatoriamente sobre h (o el rango de h definido por el bb) y para convertir de nuevo esos puntos en grados. El código en R que permite hacer lo anterior es el siguiente:
 
+{{< highlight R "linenos=true" >}}
+# bb de la península Ibérica
+lat.lims <- c(36, 44)
+lon.lims <- c(-10, 4)
 
+# número de puntos
+n <- 1000
 
-    # bb de la península Ibérica
-    lat.lims <- c(36, 44)
-    lon.lims <- c(-10, 4)
+# la longitud se puede muestrear uniformemente
+lon.sample <- runif(n, min = min(lon.lims), max = max(lon.lims))
 
-    # número de puntos
-    n <- 1000
+# transformamos grados a radianes
+lat.lims.rads <- lat.lims / 360 * 2 * pi
 
-    # la longitud se puede muestrear uniformemente
-    lon.sample <- runif(n, min = min(lon.lims), max = max(lon.lims))
+# latitud del bb en términos de h
+h.lims <- sin(lat.lims.rads)
+h.sample <- runif(n, min = min(h.lims), max = max(h.lims))
 
-    # transformamos grados a radianes
-    lat.lims.rads <- lat.lims / 360 * 2 * pi
+# de nuevo, grados
+lat.sample <- asin(h.sample) / 2 / pi * 360
 
-    # latitud del bb en términos de h
-    h.lims <- sin(lat.lims.rads)
-    h.sample <- runif(n, min = min(h.lims), max = max(h.lims))
-
-    # de nuevo, grados
-    lat.sample <- asin(h.sample) / 2 / pi * 360
-
-    plot(lon.sample, lat.sample)
-
-
+plot(lon.sample, lat.sample)
+{{< / highlight >}}
 
 Y sí, sé que debería pintar esos puntos sobre un mapa, etc., pero...
 
