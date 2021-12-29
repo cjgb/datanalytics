@@ -16,7 +16,7 @@ tags:
 - isciii
 ---
 
-En la [documentación técnica del estudio ENE-COVID19](https://portalcne.isciii.es/enecovid19/documentos/ene_covid19_dis.pdf) (recuérdese: INE + ISCIII) se describe un estudio de fiabilidad previo del test rápido (sección A1.2) que se anuncia así:
+En la [documentación técnica del estudio ENE-COVID19](https://www.mscbs.gob.es/ciudadanos/ene-covid/docs/ESTUDIO_ENE-COVID19_INFORME_FINAL.pdf) (recuérdese: INE + ISCIII) se describe un estudio de fiabilidad previo del test rápido (sección A1.2) que se anuncia así:
 
 >Según el fabricante, el test tiene una sensibilidad del 88% y 97% para determinar IgM e IgG respectivamente, y una especificidad de 100% frente a ambos isótopos. Para comprobar el comportamiento del test elegido, se han llevado a cabo dos estudios de fiabilidad.
 

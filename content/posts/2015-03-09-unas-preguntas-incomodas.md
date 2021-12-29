@@ -15,7 +15,7 @@ tags:
 - salarios
 ---
 
-Que la mujer promedio gana menos que el hombre promedio es un hecho conocido. A los usuarios de R que estén al tanto de mi paquete [MicroDatosEs](http://www.datanalytics.com/tag/microdatoses/) no hace falta siquiera que se lo cuenten: pueden bajar los datos de la [Encuesta de Estructura Salarial](http://www.ine.es/prodyser/microdatos.htm) del INE y hacer el cálculo por sí mismos.
+Que la mujer promedio gana menos que el hombre promedio es un hecho conocido. A los usuarios de R que estén al tanto de mi paquete [MicroDatosEs](https://www.datanalytics.com/tags/microdatoses/) no hace falta siquiera que se lo cuenten: pueden bajar los datos de la [Encuesta de Estructura Salarial](http://www.ine.es/prodyser/microdatos.htm) del INE y hacer el cálculo por sí mismos.
 
 Que las mujeres ganen menos en promedio aun teniendo en cuenta las [variables recogidas en dicha encuesta](http://www.ine.es/daco/daco42/salarial/cues10.pdf) (nivel de formación, antigüedad en el puesto de trabajo, etc.) es también un hecho. Los usuarios de R también pueden crear un modelo descriptivo: el fenómeno se manifiesta claramente. O pueden (sepan o no R) leer cualquiera de los informes publicados al respecto para llegar a la misma conclusión.
 

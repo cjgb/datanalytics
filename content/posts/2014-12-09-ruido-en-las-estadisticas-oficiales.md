@@ -23,7 +23,7 @@ e incluye un ejemplo estupendo de buenas prácticas:
 [![Manski_figure1](/wp-uploads/2014/12/Manski_figure1.png)
 ](/wp-uploads/2014/12/Manski_figure1.png)
 
-Se trata de un gráfico elaborado por el Banco de Inglaterra en el que las cifras del PIB incluyen bandas de error no solo en las proyecciones sino también en los valores históricos (y _observados_). Pero eso ya lo saben los históricos de estas páginas porque [aquí](http://www.datanalytics.com/2010/05/07/%C2%BFhemos-salido-de-la-recesion-%C2%A1queremos-nuestros-intervalos-de-confianza/) hablé de ello.
+Se trata de un gráfico elaborado por el Banco de Inglaterra en el que las cifras del PIB incluyen bandas de error no solo en las proyecciones sino también en los valores históricos (y _observados_). Pero eso ya lo saben los históricos de estas páginas porque [aquí](http://www.datanalytics.com/2010/05/07/hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza/) hablé de ello.
 
 El [segundo](http://www.nytimes.com/2014/05/02/upshot/how-not-to-be-misled-by-the-jobs-report.html) es más entretenido e ilustra el discurso con una animación de la que capturo esto:
 

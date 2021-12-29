@@ -13,7 +13,7 @@ tags:
 - r
 ---
 
-Cuando el otro día planteé al mis lectores el problema de [cómo representar de manera efectiva un conjunto de datos pequeños](http://www.datanalytics.com/blog/2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/), no lo hice de manera enteramente ociosa. Eran datos reales de un cliente que tropezó con el llamado problema de la separación perfecta al intentar aplicar una regresión logística.
+Cuando el otro día planteé al mis lectores el problema de [cómo representar de manera efectiva un conjunto de datos pequeños](http://www.datanalytics.com/2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/), no lo hice de manera enteramente ociosa. Eran datos reales de un cliente que tropezó con el llamado problema de la separación perfecta al intentar aplicar una regresión logística.
 
 Veamos de nuevo los datos:
 
@@ -49,7 +49,7 @@ Entre las soluciones que tienen algún sentido, aquélla por la que me decanté 
 
 
 
-1. El más tonto de todos ellos es que [está publicado](http://www.meduniwien.ac.at/msi/biometrie/publikationen/Separata/Heinze_Schemper_2002_Statistics%20in%20Medicine.pdf). Ya estoy demasiado viejo como para sugerir cosas no publicadas: es una pérdida de tiempo y energía que, además, ni se paga ni se agradece.
+1. El más tonto de todos ellos es que [está publicado](https://pubmed.ncbi.nlm.nih.gov/12210625/). Ya estoy demasiado viejo como para sugerir cosas no publicadas: es una pérdida de tiempo y energía que, además, ni se paga ni se agradece.
 2. Está [implementado en R](http://cran.r-project.org/web/packages/logistf/).
 3. Tiene cierto sentido y es coherente con toda una corriente de pensamiento muy popular en la disciplina durante los últimos años: que es la de la penalización de los coeficientes (_ridge regression_, _lasso_, etc.).
 

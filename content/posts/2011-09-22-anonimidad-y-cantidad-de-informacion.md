@@ -49,7 +49,7 @@ La fórmula anterior necesita alguna explicación. La primera igualdad es una co
 [![](/wp-uploads/2011/09/xlogx.png)
 ](/wp-uploads/2011/09/xlogx.png)
 
-La desigualdad es una consecuencia directa de la [desigualdad de Jensen](http://www.datanalytics.com/blog/2011/05/26/el-problema-de-la-media-el-problema-con-la-media/) y es, de hecho, una igualdad cuando las variables aleatorias $latex X_1, \dots, X_n$ son independientes. ¡Y es que la función $latex f(x) = -x \log x$, además de convexa, tiene unas propiedades algebraicas la mar de amenas!
+La desigualdad es una consecuencia directa de la [desigualdad de Jensen](http://www.datanalytics.com/2011/05/26/el-problema-de-la-media-el-problema-con-la-media/) y es, de hecho, una igualdad cuando las variables aleatorias $latex X_1, \dots, X_n$ son independientes. ¡Y es que la función $latex f(x) = -x \log x$, además de convexa, tiene unas propiedades algebraicas la mar de amenas!
 
 Y, finalmente, la relación con la anonimidad.
 

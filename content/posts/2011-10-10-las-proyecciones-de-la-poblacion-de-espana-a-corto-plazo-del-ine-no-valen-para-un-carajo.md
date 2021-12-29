@@ -16,7 +16,7 @@ tags:
 - proyecciones
 ---
 
-Las proyecciones de la población de España a corto plazo del INE no valen para un puto carajo. Tal vez sí para conseguir unos cuantos titulares en prensa como [este](http://www.larazon.es/noticia/6058-crisis-demografica-por-primera-vez-espana-pierde-poblacion), [este](http://www.publico.es/espana/400562/espana-perdera-500-000-habitantes-antes-de-2021) o este [otro](http://www.elpais.com/articulo/sociedad/Espana/perdera/medio/millon/habitantes/proxima/decada/mantiene/tendencia/demografica/elpepusoc/20111007elpepusoc_4/Tes).
+Las proyecciones de la población de España a corto plazo del INE no valen para un puto carajo. Tal vez sí para conseguir unos cuantos titulares en prensa como [este](https://www.larazon.es/historico/6058-crisis-demografica-por-primera-vez-espana-pierde-poblacion-MLLA_RAZON_403087/), [este](http://www.publico.es/espana/400562/espana-perdera-500-000-habitantes-antes-de-2021) o este [otro](http://www.elpais.com/articulo/sociedad/Espana/perdera/medio/millon/habitantes/proxima/decada/mantiene/tendencia/demografica/elpepusoc/20111007elpepusoc_4/Tes).
 
 Pero no para lo que se supone que sirve. Además, por construcción. En el [documento que explica qué son y para qué sirven dichas proyecciones](http://www.ine.es/jaxi/menu.do?L=0&type=pcaxis&path=/t20/p269&file=inebase) se lee (con mi subrayado)
 
