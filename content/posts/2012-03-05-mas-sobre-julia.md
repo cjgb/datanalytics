@@ -6,9 +6,9 @@ title: Más sobre Julia
 
 url: /2012/03/05/mas-sobre-julia/
 categories:
-- computación
+- programación
 tags:
-- computación
+- programación
 - julia
 ---
 

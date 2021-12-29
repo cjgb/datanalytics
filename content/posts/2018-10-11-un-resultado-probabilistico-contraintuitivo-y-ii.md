@@ -10,6 +10,7 @@ categories:
 tags:
 - paradoja
 - probabilidad
+- feller
 ---
 
 Va sobre [lo de ayer](http://www.datanalytics.com/2018/10/10/un-resultado-probabilistico-contraintuitivo-parte-i/). Hay una demostración de ese resultado contraintutivo [aquí](https://math.stackexchange.com/questions/655972/help-rules-of-a-game-whose-details-i-dont-remember/656426#656426). Hay una referencia [aquí](http://www-isl.stanford.edu/~cover/papers/paper73.pdf). Existen discusiones sobre si este resultado se debe a Feller; si no lo es, bien pudiera haberlo sido; la verdad, es muy como de él.
@@ -35,7 +36,6 @@ Pero el problema es muy similar al planteado ayer:
 * Hay una distribución desconocida que rige las variaciones de valor de las acciones.
 * Hay una distribución distinta que rige la decisión de B.
 * Hay un valor de referencia que ayuda a B a decidir si el valor observado es alto o bajo.
-
 
 Diráse: las dos distribuciones son distintas, sí, pero _parecidas_. Concedido. Pero ser distinto es una mera cuestión de grado y la demostración del resultado muestra hasta dónde pueden desviarse las dos distribuciones para que el resultado se mantenga.
 

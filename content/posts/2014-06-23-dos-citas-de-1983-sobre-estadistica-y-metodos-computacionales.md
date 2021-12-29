@@ -6,10 +6,10 @@ title: Dos citas de 1983 sobre estadística y métodos computacionales
 
 url: /2014/06/23/dos-citas-de-1983-sobre-estadistica-y-metodos-computacionales/
 categories:
-- computación
+- programación
 - estadística
 tags:
-- computación
+- programación
 - diaconis
 - efron
 - estadística

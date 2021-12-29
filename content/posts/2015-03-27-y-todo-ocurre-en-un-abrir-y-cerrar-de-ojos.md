@@ -6,7 +6,7 @@ title: Y todo ocurre en un abrir y cerrar de ojos
 
 url: /2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/
 categories:
-- computación
+- programación
 - consultoría
 tags:
 - big data

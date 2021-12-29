@@ -6,7 +6,7 @@ title: 'R sobre el EC2 de Amazon hace casi siete años: una concesión a la mela
 
 url: /2016/06/03/r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia/
 categories:
-- computación
+- programación
 - r
 tags:
 - amazon

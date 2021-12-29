@@ -11,7 +11,7 @@ tags:
 - boe
 - complejidad
 - ley
-- nlps
+- nlp
 ---
 
 El otro día publiqué [código para bajar el BOE](http://www.datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/) completo. Pero no conté qué me llevó a escribirlo.

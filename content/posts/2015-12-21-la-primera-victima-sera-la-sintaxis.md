@@ -8,7 +8,7 @@ url: /2015/12/21/la-primera-victima-sera-la-sintaxis/
 categories:
 - números
 tags:
-- nlps
+- nlp
 - números
 - política
 - sintaxis

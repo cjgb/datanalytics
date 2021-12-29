@@ -6,9 +6,9 @@ title: ¿Cinco años y salen sin programar?
 
 url: /2014/04/28/cinco-anos-y-salen-sin-programar/
 categories:
-- computación
+- programación
 tags:
-- computación
+- programación
 - consultoría
 - economía
 - educación

@@ -6,7 +6,7 @@ title: Unix para poetas
 
 url: /2015/10/07/unix-para-poetas/
 categories:
-- computación
+- programación
 tags:
 - linux
 - programación

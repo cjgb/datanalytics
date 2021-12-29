@@ -7,11 +7,11 @@ title: ¿Modelos para ordenar datos?
 url: /2020/10/22/modelos-para-ordenar-datos/
 categories:
 - artículos
-- computación
+- programación
 - estadística
 tags:
 - artículos
-- computación
+- programación
 - muestreo
 ---
 

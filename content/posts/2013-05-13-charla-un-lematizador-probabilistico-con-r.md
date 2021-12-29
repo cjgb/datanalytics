@@ -11,7 +11,6 @@ categories:
 - charlas
 tags:
 - lematizador
-- nlps
 - nlp
 - r
 ---

@@ -6,9 +6,9 @@ title: El lenguaje de Wolfram (según Wolfram)
 
 url: /2014/04/04/el-lenguaje-de-wolfram-segun-wolfram/
 categories:
-- computación
+- programación
 tags:
-- computación
+- programación
 - vídeos
 - wolfram
 ---

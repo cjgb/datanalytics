@@ -6,9 +6,9 @@ title: El algoritmo PSLQ e identificación de números
 
 url: /2012/09/17/el-algoritmo-pslq-e-identificacion-de-numeros/
 categories:
-- computación
+- programación
 tags:
-- computación
+- programación
 - python
 - aproximación
 ---

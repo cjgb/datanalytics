@@ -11,7 +11,7 @@ categories:
 - r
 tags:
 - estadística
-- nlps
+- nlp
 - r
 ---
 

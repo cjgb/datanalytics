@@ -6,7 +6,7 @@ title: Túneles ssh para conectarse de manera segura con RStudio Server
 
 url: /2016/04/04/tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server/
 categories:
-- computación
+- programación
 - r
 tags:
 - r

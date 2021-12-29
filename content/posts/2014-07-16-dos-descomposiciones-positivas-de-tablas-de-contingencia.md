@@ -6,7 +6,7 @@ title: Dos descomposiciones positivas de tablas de contingencia
 
 url: /2014/07/16/dos-descomposiciones-positivas-de-tablas-de-contingencia/
 categories:
-- computación
+- programación
 - estadística
 tags:
 - estadística

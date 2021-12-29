@@ -6,9 +6,9 @@ title: Infografía sobre Big Data Spain
 
 url: /2012/12/18/infografia-sobre-big-data-spain/
 categories:
-- computación
+- programación
 tags:
-- computación
+- programación
 - grandes datos
 ---
 

@@ -6,7 +6,7 @@ title: Restauración de ficheros .bak sin Windows
 
 url: /2015/04/10/restauracion-de-ficheros-bak-sin-windows/
 categories:
-- computación
+- programación
 tags:
 - amazon
 - ec2

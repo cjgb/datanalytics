@@ -6,7 +6,7 @@ title: Guarjolización de fotos con R
 
 url: /2014/03/10/guarjolizacion-de-fotos-con-r/
 categories:
-- computación
+- programación
 - gráficos
 - r
 tags:

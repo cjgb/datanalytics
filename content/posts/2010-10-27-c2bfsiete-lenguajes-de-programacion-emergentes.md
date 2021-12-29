@@ -11,7 +11,7 @@ tags:
 - matlab
 - python
 - r
-- computación
+- programación
 ---
 
 Hace un par de días apareció un artículo en InfoWorld en el que se enumeraban [siete lenguajes de programación emergentes](http://www.infoworld.com/d/developer-world/7-programming-languages-the-rise-620?page=0,0&source=footer). Parece que por _emergentes_ ha de entenderse _cada vez más extendidos en la empresa_. Como R hacía parte del rol, comencé alegrándome. Después me surgieron dos elementos de sospecha.

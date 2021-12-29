@@ -6,7 +6,7 @@ title: Agrupación de grafos por topología
 
 url: /2014/06/13/agrupacion-de-grafos-por-topologia/
 categories:
-- computación
+- programación
 - estadística
 tags:
 - igraph

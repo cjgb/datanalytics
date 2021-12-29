@@ -8,7 +8,7 @@ url: /2014/12/11/donde-estan-aquellos-caballeros-andantes/
 categories:
 - nlp
 tags:
-- nlps
+- nlp
 - quijote
 ---
 

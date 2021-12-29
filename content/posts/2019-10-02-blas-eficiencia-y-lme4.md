@@ -6,12 +6,12 @@ title: BLAS, eficiencia y lme4
 
 url: /2019/10/02/blas-eficiencia-y-lme4/
 categories:
-- computación
+- programación
 - r
 tags:
 - álgebra lineal
 - blas
-- computación
+- programación
 - lme4
 - r
 ---

@@ -11,6 +11,7 @@ tags:
 - estadística
 - literatura
 - supervivencia
+- feller
 ---
 
 Me sorprende haber leído tantos de [los mejores 100 libros del siglo XX](https://en.m.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century) según Le Monde. Sobre todo porque no leo ficción  casi en lo que va de siglo y porque, carajo, los libros estupendos que he leído de tapa, como el Análisis Real de Folland o la Introducción a la Teoría de la Probabilidad de Feller parece que no cualifican para esa listeja de textos sin una mala integral preparada por gentecilla de letras.

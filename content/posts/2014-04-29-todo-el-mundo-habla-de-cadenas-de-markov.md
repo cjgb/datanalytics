@@ -6,7 +6,7 @@ title: Todo el mundo habla de cadenas de Markov
 
 url: /2014/04/29/todo-el-mundo-habla-de-cadenas-de-markov/
 categories:
-- computación
+- programación
 - estadística
 - probabilidad
 tags:

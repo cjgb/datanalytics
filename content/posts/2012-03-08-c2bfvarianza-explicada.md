@@ -6,10 +6,10 @@ title: ¿Varianza explicada?
 
 url: /2012/03/08/varianza-explicada/
 categories:
-- computación
+- programación
 - estadística
 tags:
-- computación
+- programación
 - estadística
 - sql
 - varianza

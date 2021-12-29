@@ -6,7 +6,7 @@ title: En una API de cuyo endpoint no quiero acordarme...
 
 url: /2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/
 categories:
-- computación
+- programación
 tags:
 - apis
 - impuestos

@@ -6,7 +6,7 @@ title: APIdays Mediterranea vuelve a Barcelona (la semana que viene)
 
 url: /2015/04/30/apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene/
 categories:
-- computación
+- programación
 tags:
 - anuncios
 - apidays

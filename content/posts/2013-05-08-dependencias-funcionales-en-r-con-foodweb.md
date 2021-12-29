@@ -6,10 +6,10 @@ title: Dependencias funcionales en R con foodweb
 
 url: /2013/05/08/dependencias-funcionales-en-r-con-foodweb/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - mvbutils
 - plyr
 - r

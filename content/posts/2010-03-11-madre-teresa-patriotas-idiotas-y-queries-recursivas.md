@@ -6,10 +6,10 @@ title: Madre Teresa, patriotas, idiotas... y queries recursivas
 
 url: /2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/
 categories:
-- computación
+- programación
 tags:
 - sql
-- computación
+- programación
 ---
 
 No es éste foro para opinar sobre si nos interesa la Madre Teresa o si los patriotas son idiotas, pero sí para mostrar nuestro desacuerdo con la [canción](http://www.youtube.com/watch?v=f2gtfJQ7YK0) (por abreviar, acá está [su letra](http://www.coveralia.com/letras/cara-al-culo-la-polla-records.php)) y dejar claro que las jerarquías no son una porquería. Si no que se lo digan a un indirecto cliente mío que consume lo que no nos devuelve a los accionistas como dividendo en pagar hordas de consultores poco avisados de lo que acá cuento. Y lo cuento y dejo públicamente escrito para que tengan todavía menos excusa.

@@ -9,7 +9,7 @@ categories:
 - varios
 tags:
 - sas
-- computación
+- programación
 - trucos
 ---
 

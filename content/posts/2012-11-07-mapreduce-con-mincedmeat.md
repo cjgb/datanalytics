@@ -6,12 +6,12 @@ title: MapReduce con mincedmeat
 
 url: /2012/11/07/mapreduce-con-mincedmeat/
 categories:
-- computación
+- programación
 - nlp
 tags:
-- computación
+- programación
 - mapreduce
-- nlps
+- nlp
 - python
 ---
 

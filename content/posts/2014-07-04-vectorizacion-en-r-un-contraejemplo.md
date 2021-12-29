@@ -6,7 +6,7 @@ title: 'Vectorización en R: un contraejemplo'
 
 url: /2014/07/04/vectorizacion-en-r-un-contraejemplo/
 categories:
-- computación
+- programación
 tags:
 - econometría
 - r

@@ -6,10 +6,10 @@ title: Imágenes y magia
 
 url: /2014/05/16/imagenes-y-magia/
 categories:
-- computación
+- programación
 - gráficos
 tags:
-- computación
+- programación
 - gráficos
 - procesamiento de imágenes
 ---

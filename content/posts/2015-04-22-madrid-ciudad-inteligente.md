@@ -9,7 +9,7 @@ categories:
 - números
 tags:
 - ciudad inteligente
-- IoT
+- iot
 - madrid
 - ayuntamiento
 ---

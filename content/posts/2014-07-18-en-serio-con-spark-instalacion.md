@@ -6,7 +6,7 @@ title: 'En serio con Spark: instalación'
 
 url: /2014/07/18/en-serio-con-spark-instalacion/
 categories:
-- computación
+- programación
 tags:
 - big data
 - instalación

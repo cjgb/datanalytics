@@ -6,7 +6,7 @@ title: Mi infraestructura para Python
 
 url: /2019/06/06/mi-infraestructura-para-python/
 categories:
-- computación
+- programación
 - python
 tags:
 - anaconda

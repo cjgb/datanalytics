@@ -6,7 +6,7 @@ title: 'Rmd2R: un conversor de lo que su propio nombre indica'
 
 url: /2016/05/25/rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica/
 categories:
-- computación
+- programación
 - r
 tags:
 - github

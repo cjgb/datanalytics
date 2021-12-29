@@ -6,7 +6,7 @@ title: Spark gana la competición Gray Sort de 2014
 
 url: /2014/11/20/spark-gana-la-competicion-gray-sort-de-2014/
 categories:
-- computación
+- programación
 tags:
 - spark
 ---

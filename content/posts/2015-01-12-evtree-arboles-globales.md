@@ -6,7 +6,7 @@ title: 'evtree: árboles globales'
 
 url: /2015/01/12/evtree-arboles-globales/
 categories:
-- computación
+- programación
 - estadística
 - r
 tags:

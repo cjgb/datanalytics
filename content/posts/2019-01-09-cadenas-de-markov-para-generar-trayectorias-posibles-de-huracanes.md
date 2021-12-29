@@ -6,7 +6,7 @@ title: Cadenas de Markov para generar trayectorias posibles de huracanes
 
 url: /2019/01/09/cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes/
 categories:
-- computación
+- programación
 - estadística
 - r
 tags:

@@ -10,7 +10,7 @@ categories:
 - r
 tags:
 - r
-- computación
+- programación
 ---
 
 Hace no mucho, [Radford Neal publicó pqR](http://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/), una versión de R _más rápida_. Y algunos os preguntaréis qué es y de dónde salió esa reimplementación.

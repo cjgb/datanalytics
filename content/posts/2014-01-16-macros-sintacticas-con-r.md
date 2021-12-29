@@ -7,7 +7,7 @@ title: Macros sintácticas con R
 url: /2014/01/16/macros-sintacticas-con-r/
 categories:
 - r
-- computación
+- programación
 tags:
 - macros
 - r

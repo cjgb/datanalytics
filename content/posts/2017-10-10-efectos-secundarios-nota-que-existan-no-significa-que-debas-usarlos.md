@@ -6,7 +6,7 @@ title: 'Efectos secundarios (nota: que existan no significa que debas usarlos)'
 
 url: /2017/10/10/efectos-secundarios-nota-que-existan-no-significa-que-debas-usarlos/
 categories:
-- computación
+- programación
 - r
 tags:
 - entornos

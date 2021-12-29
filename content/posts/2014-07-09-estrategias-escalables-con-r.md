@@ -6,7 +6,7 @@ title: Estrategias escalables (con R)
 
 url: /2014/07/09/estrategias-escalables-con-r/
 categories:
-- computación
+- programación
 - r
 tags:
 - bigmemory

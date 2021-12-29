@@ -8,7 +8,7 @@ url: /2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/
 categories:
 - artículos
 - ciencia de datos
-- computación
+- programación
 - estadística
 tags:
 - big data

@@ -6,7 +6,7 @@ title: ¿En qué se parecen Oracle y Teradata a Excel y Word?
 
 url: /2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/
 categories:
-- computación
+- programación
 tags:
 - excel
 - sql

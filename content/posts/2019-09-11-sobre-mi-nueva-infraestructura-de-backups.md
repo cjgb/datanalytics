@@ -6,7 +6,7 @@ title: Sobre mi nueva infraestructura de backups
 
 url: /2019/09/11/sobre-mi-nueva-infraestructura-de-backups/
 categories:
-- computación
+- programación
 - varios
 tags:
 - backups

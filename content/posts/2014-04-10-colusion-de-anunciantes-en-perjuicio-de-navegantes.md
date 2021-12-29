@@ -6,7 +6,7 @@ title: Colusión de anunciantes en perjuicio de navegantes
 
 url: /2014/04/10/colusion-de-anunciantes-en-perjuicio-de-navegantes/
 categories:
-- computación
+- programación
 tags:
 - internet
 - redes sociales

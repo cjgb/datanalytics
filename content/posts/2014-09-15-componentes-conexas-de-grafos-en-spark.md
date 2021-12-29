@@ -6,7 +6,7 @@ title: Componentes conexas (de grafos) en Spark
 
 url: /2014/09/15/componentes-conexas-de-grafos-en-spark/
 categories:
-- computación
+- programación
 tags:
 - grafos
 - spark

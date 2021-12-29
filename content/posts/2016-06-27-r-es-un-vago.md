@@ -6,10 +6,10 @@ title: R es un vago
 
 url: /2016/06/27/r-es-un-vago/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - r
 - trucos
 - lazy evaluation

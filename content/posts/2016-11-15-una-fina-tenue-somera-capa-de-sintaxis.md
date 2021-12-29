@@ -7,11 +7,11 @@ title: Una fina, tenue, somera capa de sintaxis
 url: /2016/11/15/una-fina-tenue-somera-capa-de-sintaxis/
 categories:
 - ciencia de datos
-- computación
+- programación
 - r
 tags:
 - ciencia de datos
-- computación
+- programación
 - r
 ---
 

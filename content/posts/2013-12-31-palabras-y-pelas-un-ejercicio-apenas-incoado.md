@@ -10,7 +10,7 @@ categories:
 tags:
 - electricidad
 - endesa
-- nlps
+- nlp
 ---
 
 Nos encantan las palabras (¡y los mapas, pero esa es [otra historia](http://www.datanalytics.com/blog/2013/03/19/mapas-realmente-necesarios/)!). En estos días de tanto discurso hay mucho interés por examinar con lupa qué palabras dijo quién y cuándo en una exégesis cuantitativa y (¿tal vez por eso?) falta de calado.

@@ -6,7 +6,7 @@ title: Metropolis-Hastings en Scala
 
 url: /2016/06/16/metropolis-hastings-en-scala/
 categories:
-- computación
+- programación
 - estadística
 - r
 tags:

@@ -6,7 +6,7 @@ title: Lenguajes de programación probabilísticos
 
 url: /2016/03/09/lenguajes-de-programacion-probabilisticos/
 categories:
-- computación
+- programación
 - probabilidad
 tags:
 - probabilidad

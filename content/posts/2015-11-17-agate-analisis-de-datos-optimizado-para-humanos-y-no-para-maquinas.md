@@ -6,7 +6,7 @@ title: 'agate: análisis de datos optimizado para humanos (y no para máquinas)'
 
 url: /2015/11/17/agate-analisis-de-datos-optimizado-para-humanos-y-no-para-maquinas/
 categories:
-- computación
+- programación
 - estadística
 - r
 tags:

@@ -10,7 +10,7 @@ categories:
 - r
 tags:
 - markov
-- nlps
+- nlp
 - r
 ---
 

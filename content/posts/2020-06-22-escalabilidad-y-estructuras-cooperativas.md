@@ -11,7 +11,7 @@ categories:
 tags:
 - artículos
 - escalabilidad
-- computación
+- programación
 ---
 
 Esta entrada es una breve nota (en parte, para mí) sobre _[On the Scalability of Cooperative Structures](https://www.academia.edu/23393102/On_the_Scalability_of_Cooperative_Structures_Remarks_on_G._A._Cohen_Why_Not_Socialism)_, un artículo sobre lo que el título indica (sí, que existen estructuras cooperativas como, p.e., las cooperativas o determinados sistemas políticos defendidos desde ciertas posiciones ideológicas, que tienen muy serios problemas de escalabilidad) y que a pesar de su interés no cabría en estas páginas si no fuese por este parrafito:

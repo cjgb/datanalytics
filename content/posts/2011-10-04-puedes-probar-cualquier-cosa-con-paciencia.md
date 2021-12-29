@@ -11,6 +11,7 @@ categories:
 tags:
 - estadística
 - probabilidad
+- feller
 ---
 
 Puedes _probar _prácticamente cualquier cosa. Con paciencia, claro. Por ejemplo, coge una moneda de tu bolsillo. Puedes _probar_ que tiene un sesgo: salen más caras (o cruces, da igual) de lo que cabría esperar.
@@ -20,8 +21,6 @@ No lo vas a probar como los gañanes, no. Lo vas a probar usando los mismos mét
 El truco se llama _parada condicional_: puedes hacer prueba tras prueba hasta que salga lo que buscas. Y entonces decir ¡eureka! La probabilidad de que puedas hacerlo (en algún momento) es, dicen que decía W. Feller, 1.
 
 Pero vamos a ver si es cierto. Comenzamos seleccionando un número mínimo de pruebas, `n.min` y, para no caer en bucles infinitos un número máximo, `n.max`. Luego, usando el código
-
-
 
 {{< highlight R "linenos=true" >}}
 n.max <- 1000000
@@ -36,11 +35,6 @@ plot( log( prop ), type = "l", lwd = 2,
       main = "% de desviación vs. número de pruebas")
 {{< / highlight >}}
 
-
-
-
-
-
 obtendremos para cada valor entre `n.min` y `n.max` la desviación (positiva) con respecto al 50% esperado bajo la hipótesis nula —la moneda no está sesgada— suficiente como para que se encienda la luz roja del p-valor:
 
 [![](/wp-uploads/2011/09/optimal_stopping.png)
@@ -50,12 +44,6 @@ Por ejemplo, como `prop[900]` es 2.55, bastaría con que en la prueba número 10
 
 Ahora podemos comenzar a hacer experimentos:
 
-
-
-
-
-
-
 {{< highlight R "linenos=true" >}}
 foo <- function( ){
   x <- 100 * ( ( cumsum( rbinom( n.max, 1, 0.5 ) ) / 1:n.max )[ n.min:n.max ] - 0.5 )
@@ -64,13 +52,6 @@ foo <- function( ){
 
 res <- replicate( 1000, foo() )
 {{< / highlight >}}
-
-
-
-
-
-
-
 
 Tras 1000 de ellos, la variable `res` contiene el número de pruebas que hay que hacer para conseguir rebasar el porcentaje crítico. En mis pruebas, es necesario hacer más de `n.max` ensayos 428 veces. Pero en más de la mitad de las ocasiones, el resto, es necesario realizar un número menor de ensayos antes de llegar al momento feliz de la _prueba irrefutable_.
 

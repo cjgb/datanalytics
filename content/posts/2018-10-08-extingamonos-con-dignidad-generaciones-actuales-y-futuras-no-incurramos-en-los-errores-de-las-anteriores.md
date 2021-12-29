@@ -8,7 +8,7 @@ title: 'Extingámonos con dignidad: generaciones actuales y futuras, no incurram
 url: /2018/10/08/extingamonos-con-dignidad-generaciones-actuales-y-futuras-no-incurramos-en-los-errores-de-las-anteriores/
 categories:
 - ciencia de datos
-- computación
+- programación
 tags:
 - consultoría
 - python

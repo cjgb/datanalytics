@@ -6,10 +6,10 @@ title: 'data.table (II): agregaciones'
 
 url: /2013/05/09/data-table-ii-agregaciones/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - data.table
 - ciencia de datos
 - r

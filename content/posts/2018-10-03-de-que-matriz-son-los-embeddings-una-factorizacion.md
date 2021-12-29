@@ -10,7 +10,6 @@ categories:
 tags:
 - embeddings
 - matrices
-- nlps
 - nlp
 - texto
 ---

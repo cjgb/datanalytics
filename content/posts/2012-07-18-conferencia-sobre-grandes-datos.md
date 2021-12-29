@@ -6,7 +6,7 @@ title: Conferencia sobre Grandes Datos
 
 url: /2012/07/18/conferencia-sobre-grandes-datos/
 categories:
-- computación
+- programación
 tags:
 - grandes datos
 - anuncios

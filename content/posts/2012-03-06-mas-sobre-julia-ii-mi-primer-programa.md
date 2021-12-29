@@ -6,10 +6,10 @@ title: 'Más sobre Julia (II): mi primer programa'
 
 url: /2012/03/06/mas-sobre-julia-ii-mi-primer-programa/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - julia
 - r
 ---

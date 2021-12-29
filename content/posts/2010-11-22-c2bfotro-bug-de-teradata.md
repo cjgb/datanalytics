@@ -6,7 +6,7 @@ title: ¿Otro bug de Teradata?
 
 url: /2010/11/22/otro-bug-de-teradata/
 categories:
-- computación
+- programación
 tags:
 - sql
 - bugs

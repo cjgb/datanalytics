@@ -10,7 +10,7 @@ categories:
 tags:
 - r
 - paquetes
-- computación
+- programación
 - paralelización
 ---
 

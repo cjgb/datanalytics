@@ -6,7 +6,7 @@ title: Todo lo que deberías saber sobre encodings
 
 url: /2019/02/20/todo-lo-que-deberias-saber-sobre-encodings/
 categories:
-- computación
+- programación
 - nlp
 tags:
 - encodings

@@ -7,7 +7,7 @@ title: Cuantificación de la incertidumbre
 url: /2021/10/05/cuantificacion-de-la-incertidumbre/
 categories:
 - ciencia de datos
-- computación
+- programación
 tags:
 - ibm
 - incertidumbre

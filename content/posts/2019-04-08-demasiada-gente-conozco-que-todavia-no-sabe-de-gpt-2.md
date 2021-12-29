@@ -6,7 +6,7 @@ title: Demasiada gente conozco que todavía no sabe de GPT-2
 
 url: /2019/04/08/demasiada-gente-conozco-que-todavia-no-sabe-de-gpt-2/
 categories:
-- computación
+- programación
 - varios
 tags:
 - deep learning

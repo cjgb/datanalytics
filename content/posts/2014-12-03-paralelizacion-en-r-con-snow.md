@@ -6,10 +6,10 @@ title: Paralelización en R con snow
 
 url: /2014/12/03/paralelizacion-en-r-con-snow/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - paralelización
 - r
 ---

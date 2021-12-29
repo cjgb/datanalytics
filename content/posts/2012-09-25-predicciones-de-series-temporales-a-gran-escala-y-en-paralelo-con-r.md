@@ -6,10 +6,10 @@ title: Predicciones de series temporales a gran escala y en paralelo con R
 
 url: /2012/09/25/predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - google
 - mapreduce
 - r

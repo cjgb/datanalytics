@@ -6,9 +6,9 @@ title: Mis copias de seguridad
 
 url: /2013/08/21/mis-copias-de-seguridad/
 categories:
-- computación
+- programación
 tags:
-- computación
+- programación
 - linux
 - shell script
 - backups

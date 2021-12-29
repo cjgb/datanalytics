@@ -7,11 +7,11 @@ title: 'Mi apuesta para el larguísimo plazo: Julia'
 url: /2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/
 categories:
 - ciencia de datos
-- computación
+- programación
 - r
 tags:
 - ciencia de datos
-- computación
+- programación
 - julia
 - python
 - r

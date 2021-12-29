@@ -9,7 +9,7 @@ categories:
 - nlp
 tags:
 - boe
-- nlps
+- nlp
 - scraping
 ---
 

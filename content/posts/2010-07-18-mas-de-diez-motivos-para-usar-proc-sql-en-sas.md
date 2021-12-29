@@ -6,11 +6,11 @@ title: Más de diez motivos para usar PROC SQL en SAS
 
 url: /2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/
 categories:
-- computación
+- programación
 tags:
 - sas
 - sql
-- computación
+- programación
 ---
 
 Hace no mucho escribí una [entrada](http://www.datanalytics.com/blog/2010/07/03/¿programa-vd-en-sas-¡aprenda-a-ser-indispensable/) en este blog sobre, bromas aparte, cómo no escribir código SAS. Habría respondido _in situ_ a uno de los comentarios que hicieron mis lectores pero, abusando de mi condición de dueño del blog, lo voy a hacer desde más encumbrado púlpito: una entrada _ad hoc_. Conste que escribo para discrepar. Pero conste también que lo hago desde la más genuina cordialidad y con la esperanza de generar un debate que a todos nos enriquezca.

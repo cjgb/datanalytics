@@ -8,7 +8,6 @@ url: /2010/08/16/leyendo-en-diagonal-pero-con-cuidado/
 categories:
 - ciencia de datos
 tags:
-- nlps
 - nlp
 ---
 

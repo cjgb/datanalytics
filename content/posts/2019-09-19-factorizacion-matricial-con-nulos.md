@@ -6,7 +6,7 @@ title: Factorización matricial con nulos
 
 url: /2019/09/19/factorizacion-matricial-con-nulos/
 categories:
-- computación
+- programación
 tags:
 - álgebra lineal
 - gradiente

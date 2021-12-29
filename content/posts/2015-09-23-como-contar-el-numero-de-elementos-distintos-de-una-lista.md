@@ -6,7 +6,7 @@ title: ¿Cómo contar el número de elementos distintos de una lista?
 
 url: /2015/09/23/como-contar-el-numero-de-elementos-distintos-de-una-lista/
 categories:
-- computación
+- programación
 - probabilidad
 tags:
 - hash

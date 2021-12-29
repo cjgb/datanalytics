@@ -10,7 +10,6 @@ categories:
 - r
 tags:
 - lda
-- nlps
 - nlp
 - paquetes
 - r

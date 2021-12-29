@@ -6,7 +6,7 @@ title: Grid, Scala y arbolitos fractales
 
 url: /2014/05/12/grid-scala-y-arbolitos/
 categories:
-- computación
+- programación
 - r
 tags:
 - fractal

@@ -8,7 +8,6 @@ url: /2010/10/03/cambios-cosmeticos-en-el-blog/
 categories:
 - nlp
 tags:
-- nlps
 - nlp
 ---
 

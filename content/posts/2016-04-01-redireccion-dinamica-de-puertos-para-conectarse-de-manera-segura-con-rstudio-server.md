@@ -7,7 +7,7 @@ title: Redirección dinámica de puertos para conectarse de manera segura con RS
 
 url: /2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/
 categories:
-- computación
+- programación
 - r
 tags:
 - r

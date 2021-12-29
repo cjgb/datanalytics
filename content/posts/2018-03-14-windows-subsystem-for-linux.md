@@ -6,7 +6,7 @@ title: Windows Subsystem for Linux
 
 url: /2018/03/14/windows-subsystem-for-linux/
 categories:
-- computación
+- programación
 tags:
 - linux
 - windows

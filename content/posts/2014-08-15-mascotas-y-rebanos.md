@@ -6,10 +6,10 @@ title: Mascotas y rebaños
 
 url: /2014/08/15/mascotas-y-rebanos/
 categories:
-- computación
+- programación
 - estadística
 tags:
-- computación
+- programación
 - estadística
 ---
 

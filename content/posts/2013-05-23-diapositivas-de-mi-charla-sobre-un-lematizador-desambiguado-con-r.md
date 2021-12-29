@@ -10,7 +10,7 @@ categories:
 - r
 tags:
 - lematizador
-- nlps
+- nlp
 - r
 - charlas
 ---

@@ -6,9 +6,9 @@ title: Tengo ordenador nuevo con 64GB de RAM (más unas preguntas)
 
 url: /2016/05/23/tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas/
 categories:
-- computación
+- programación
 tags:
-- computación
+- programación
 - hardware
 - ram
 ---

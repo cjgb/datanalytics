@@ -6,7 +6,7 @@ title: 'Cuatro enlaces sobre R: Excel, C++, CSV y paralelización'
 
 url: /2014/03/21/cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion/
 categories:
-- computación
+- programación
 - r
 tags:
 - csv

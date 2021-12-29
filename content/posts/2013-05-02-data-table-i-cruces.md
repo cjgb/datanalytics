@@ -6,10 +6,10 @@ title: 'data.table (I): cruces'
 
 url: /2013/05/02/data-table-i-cruces/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - ciencia de datos
 - r
 ---

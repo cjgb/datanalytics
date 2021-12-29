@@ -6,7 +6,7 @@ title: Un curso de 15 horas de introducción a la programación
 
 url: /2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/
 categories:
-- computación
+- programación
 - anuncios
 tags:
 - anuncios

@@ -6,7 +6,7 @@ title: Los portátiles, ¿objetos fálicos?
 
 url: /2010/03/15/los-portatiles-objetos-falicos/
 categories:
-- computación
+- programación
 tags:
 - hardware
 ---

@@ -6,10 +6,10 @@ title: ¿Tanto ha llovido (en términos de precisión numérica) desde 2008?
 
 url: /2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - precisión
 - varianza
 ---

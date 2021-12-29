@@ -7,7 +7,7 @@ title: Una guía (breve, concisa) para crear código (y proyectos) reproducibles
 url: /2020/09/30/una-guia-breve-concisa-para-crear-codigo-y-proyectos-reproducibles/
 categories:
 - ciencia de datos
-- computación
+- programación
 tags:
 - programación
 - r

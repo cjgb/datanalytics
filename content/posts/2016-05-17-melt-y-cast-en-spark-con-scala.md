@@ -6,7 +6,7 @@ title: Melt y cast en Spark con scala
 
 url: /2016/05/17/melt-y-cast-en-spark-con-scala/
 categories:
-- computación
+- programación
 tags:
 - cast
 - melt

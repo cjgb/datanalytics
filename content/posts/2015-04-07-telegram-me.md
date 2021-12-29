@@ -6,7 +6,7 @@ title: TelegRam[.]me!
 
 url: /2015/04/07/telegram-me/
 categories:
-- computación
+- programación
 - r
 tags:
 - r

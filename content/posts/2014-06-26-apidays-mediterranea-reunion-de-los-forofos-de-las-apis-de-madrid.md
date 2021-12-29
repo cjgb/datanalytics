@@ -6,7 +6,7 @@ title: 'APIDays Mediterránea: reunión de los forofos de las APIs de Madrid'
 
 url: /2014/06/26/apidays-mediterranea-reunion-de-los-forofos-de-las-apis-de-madrid/
 categories:
-- computación
+- programación
 tags:
 - apidays
 - apis

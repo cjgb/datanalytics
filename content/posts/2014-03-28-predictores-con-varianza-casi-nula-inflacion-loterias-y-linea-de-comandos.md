@@ -6,10 +6,10 @@ title: Predictores con varianza casi nula, inflación, loterías y línea de com
 
 url: /2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/
 categories:
-- computación
+- programación
 - estadística
 tags:
-- computación
+- programación
 - estadística
 - inflación
 - lotería

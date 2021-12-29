@@ -6,7 +6,7 @@ title: Hoy he echado de menos Scala
 
 url: /2014/06/12/hoy-he-echado-de-menos-scala/
 categories:
-- computación
+- programación
 - r
 tags:
 - programación funcional

@@ -6,10 +6,10 @@ title: Todo lo que sucede en R es una llamada a una función
 
 url: /2017/03/16/todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion/
 categories:
-- computación
+- programación
 - r
 tags:
-- computación
+- programación
 - r
 - trucos
 ---

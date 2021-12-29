@@ -7,9 +7,9 @@ title: Mi definición de "big data"
 url: /2013/07/10/mi-definicion-de-big-data/
 categories:
 - ciencia de datos
-- computación
+- programación
 tags:
-- computación
+- programación
 - grandes datos
 - ciencia de datos
 - software

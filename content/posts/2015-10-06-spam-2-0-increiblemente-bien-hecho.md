@@ -6,7 +6,7 @@ title: Spam 2.0 (increíblemente bien hecho)
 
 url: /2015/10/06/spam-2-0-increiblemente-bien-hecho/
 categories:
-- computación
+- programación
 tags:
 - scala
 - spam

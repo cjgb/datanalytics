@@ -11,7 +11,7 @@ categories:
 tags:
 - estadística
 - r
-- computación
+- programación
 ---
 
 Hace poco no asistí a una conferencia del profesor [Campo Elías Pardo](http://www.docentes.unal.edu.co/cepardot/) en la Universidad Nacional de Colombia sobre la creación de paquetes de R. Me penó no poder asistir porque sospeché primero y corroboré después que se había obviado en ella una herramienta muy útil para la creación de paquetes con R: la _[forja oficial](http://r-forge.r-project.org/)_.
