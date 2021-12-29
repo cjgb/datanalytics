@@ -25,4 +25,4 @@ Voy a guardar el extracto
 
 de [_The Art of Statitstics_](https://dspiegel29.github.io/ArtofStatistics/) para usarlo con la misma malísima baba que su autor en coyunturas tales como esta:
 
-{{< tweet 1311321662181302272 >}}
+{{< tweet user="gilbellosta" id="1311321662181302272" >}}
