@@ -19,7 +19,7 @@ Toda la info, [aquí](https://www.facebook.com/datamining.pe/photos/a.1504375216
 
 ![](/wp-uploads/2020/04/93441674_2970500293010250_7877480671000657920_n.jpg)
 
-**Addenda:** Las diapositivas de la charla están [aquí](/uploads/charla_dmc_202004_causality.html)
+**Addenda:** Las diapositivas de la charla están [aquí](/uploads/charla_dmc_202004_causality.html).
 
 
 
