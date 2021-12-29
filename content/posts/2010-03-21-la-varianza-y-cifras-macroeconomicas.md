@@ -19,8 +19,8 @@ De la varianza se acuerdan los vándalos pero es ignorada por políticos, period
 Hoy, sin embargo, [he leído lo siguiente](http://www.elpais.com/articulo/primer/plano/dificil/camino/recuperacion/elpepueconeg/20100321elpneglse_5/Tes):
 
 
-<blockquote>_Tenemos en España una curiosa tendencia a discutir las tasas de variación del PIB como si su medición fuera una ciencia exacta. El retroceso de una décima en el último trimestre del pasado año cayó como un jarro de agua fría sobre las predicciones de algunos miembros del Gobierno [...]. _
-
+>Tenemos en España una curiosa tendencia a discutir las tasas de variación del PIB como si su medición fuera una ciencia exacta. El retroceso de una décima en el último trimestre del pasado año cayó como un jarro de agua fría sobre las predicciones de algunos miembros del Gobierno [...].
+>
 >En realidad, este tipo de cálculos tiene poco que ver con el análisis económico, tanto más en cuanto que la medida del PIB no permite hacer apuestas políticas de gran envergadura a la variación de una décima, [...]. Lo más prudente es afirmar que la economía española está estancada y que continuará así durante algún tiempo, independientemente de que el PIB suba o baje alguna décima en el transcurso de los próximos trimestres.
 
 

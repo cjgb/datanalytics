@@ -10,6 +10,7 @@ categories:
 tags:
 - r
 - anuncios
+- jornadas
 ---
 
 La semana pasada no actualicé mi bitácora. Nunca había dejado pasar tanto tiempo sin escribir. Y es que, por si alguien no se había enterado aún, el jueves y el viernes tuvieron lugar las [III Jornadas de Usuarios de R](http://usar.org.es/).

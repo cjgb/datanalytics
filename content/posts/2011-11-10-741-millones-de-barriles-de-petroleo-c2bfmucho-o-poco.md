@@ -9,6 +9,9 @@ categories:
 - números
 tags:
 - números
+- petróleo
+- energía
+- argentina
 ---
 
 Nos amaneció el otro día la prensa con la noticia de que [Repsol YPF ha descubierto 741 millones de barriles de petróleo en Argentina](http://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/repsol-ypf-confirms-giant-oil-find-in-argentina/article2228416/). De hecho, periódicamente se realizan hallazgos de mayor o menor cuantía.

@@ -11,6 +11,7 @@ tags:
 - r
 - programación
 - memoria
+- tracemem
 ---
 
 Muchos usuarios de R se enfrentan en alguna ocasión a problemas con el uso y gestión de la memoria. La función `tracemem` es útil a la hora de identificar ineficiencias en el código.

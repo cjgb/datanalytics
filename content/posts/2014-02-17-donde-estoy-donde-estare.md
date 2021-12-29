@@ -23,197 +23,25 @@ y se pregunta a dónde ha ido la gente que está en rojo: la población activa e
 
 Según las cifras del último censo (publicado en las páginas del INE), en la primera cohorte entraron (proque cumplieron 16 años) y salieron (porque cumplieron 30) los siguientes (en miles):
 
-<table >
-	<tbody >
-		<tr >
-			año
-			entraron
-			salieron
-			saldo
-		</tr>
-		<tr >
-
-<td >2008
-</td>
-
-<td >426
-</td>
-
-<td >587
-</td>
-
-<td >-161
-</td>
-		</tr>
-		<tr >
-
-<td >2009
-</td>
-
-<td >431
-</td>
-
-<td >614
-</td>
-
-<td >-183
-</td>
-		</tr>
-		<tr >
-
-<td >2010
-</td>
-
-<td >423
-</td>
-
-<td >645
-</td>
-
-<td >-222
-</td>
-		</tr>
-		<tr >
-
-<td >2011
-</td>
-
-<td >426
-</td>
-
-<td >683
-</td>
-
-<td >-257
-</td>
-		</tr>
-		<tr >
-
-<td >2012
-</td>
-
-<td >432
-</td>
-
-<td >719
-</td>
-
-<td >-287
-</td>
-		</tr>
-		<tr >
-
-<td >2013
-</td>
-
-<td >456
-</td>
-
-<td >755
-</td>
-
-<td >-299
-</td>
-		</tr>
-	</tbody>
-</table>
+|  año  | entraron | salieron | saldo |
+|:------------| -------: | ---------:| ---------:|
+|2008|426|587|-161|
+|2009|431|614|-183|
+|2010|423|645|-222|
+|2011|426|683|-257|
+|2012|432|719|-287|
+|2013|456|755|-299|
 
 Para los que tienen entre 30 y 39 la tabla equivalente es
 
-<table >
-	<tbody >
-		<tr >
-			año
-			entraron
-			salieron
-			saldo
-		</tr>
-		<tr >
-
-<td >2008
-</td>
-
-<td >587
-</td>
-
-<td >830
-</td>
-
-<td >-243
-</td>
-		</tr>
-		<tr >
-
-<td >2009
-</td>
-
-<td >614
-</td>
-
-<td >819
-</td>
-
-<td >-205
-</td>
-		</tr>
-		<tr >
-
-<td >2010
-</td>
-
-<td >645
-</td>
-
-<td >802
-</td>
-
-<td >-157
-</td>
-		</tr>
-		<tr >
-
-<td >2011
-</td>
-
-<td >683
-</td>
-
-<td >798
-</td>
-
-<td >-115
-</td>
-		</tr>
-		<tr >
-
-<td >2012
-</td>
-
-<td >719
-</td>
-
-<td >785
-</td>
-
-<td >-66
-</td>
-		</tr>
-		<tr >
-
-<td >2013
-</td>
-
-<td >755
-</td>
-
-<td >770
-</td>
-
-<td >-15
-</td>
-		</tr>
-	</tbody>
-</table>
+|  año  | entraron | salieron | saldo |
+|:------------| -------: | ---------:| ---------:|
+|2008|587|830|-243|
+|2009|614|819|-205|
+|2010|645|802|-157|
+|2011|683|798|-115|
+|2012|719|785|-66|
+|2013|755|770|-15|
 
 Así que no todos estamos en Zúrich. Algunos, simplemente, no somos fantasmas del sistema económico español, no hemos desaparecido, no hemos a otra dimensión. Simplemente, nunca llegamos a existir. Somos la base del huso (antes pirámide) poblacional.
 

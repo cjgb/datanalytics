@@ -9,6 +9,7 @@ categories:
 - probabilidad
 tags:
 - probabilidad
+- problemas
 ---
 
 Como es viernes, propongo un problema de probabilidad. Es el siguiente:

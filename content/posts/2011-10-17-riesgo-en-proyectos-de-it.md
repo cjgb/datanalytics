@@ -13,6 +13,7 @@ tags:
 - media
 - números
 - valores extremos
+- riesgo
 ---
 
 Tu proyecto de IT puede contener más riesgo del que piensas. De verdad. Dan [fe de ello](https://archive.harvardbusiness.org/cla/web/pl/product.seam?c=573&i=13776&cs=3f74e2532c7a49925809f974db8bcb41) Bent Flyvbjerg y Alexander Budzier.

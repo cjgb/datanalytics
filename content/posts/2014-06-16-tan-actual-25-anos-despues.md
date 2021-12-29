@@ -8,7 +8,7 @@ url: /2014/06/16/tan-actual-25-anos-despues/
 categories:
 - consultoría
 tags:
-- predicciones
+- predicción
 - historia
 ---
 

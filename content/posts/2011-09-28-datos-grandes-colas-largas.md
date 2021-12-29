@@ -10,6 +10,7 @@ categories:
 tags:
 - consultoría
 - sql
+- grandes datos
 ---
 
 Codd desarrolló el modelo relacional —la base de casi todos los actuales sistemas de bases de datos— a finales de los años sesenta. El [modelo relacional](http://en.wikipedia.org/wiki/Relational_model), basado en la lógica proposicional, suponía una ventaja sustancial con respecto a los métodos anteriores de almacenar información y bien implementado permite resolver una serie de problemas que afectaban a los sistemas anteriores:

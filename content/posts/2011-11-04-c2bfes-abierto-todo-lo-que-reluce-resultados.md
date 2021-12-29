@@ -16,15 +16,11 @@ Habiendo hecho eco el otro día en esta bitácora del anuncio de un [estudio del
 
 En resumen:
 
-
-
 * El 3% de las fuentes de datos que comprende el proyecto cumplen los requisitos mínimos de apertura
 * El 39% de las fuentes de datos catalogadas contienen datos propiamente dichos (y no imágenes, documentos, etc.)
 * En términos de formatos, el 88% (¿del 39% anterior?) son adecuados
 * El 40% permite el acceso directo a la información
 * El 15% de las fuentes de datos permitían la reutilización
-
-
 
 ¡Pobre resumen!
 

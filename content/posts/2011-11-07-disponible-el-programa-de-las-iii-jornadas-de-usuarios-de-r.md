@@ -10,6 +10,7 @@ categories:
 tags:
 - r
 - anuncios
+- jornadas
 ---
 
 Acaba de publicarse el [programa (casi) definitivo de las III Jornadas de Usuarios de R](http://usar.org.es/programa.php). Los números son impresionantes: [44 ponencias](http://usar.org.es/mesas.html), [una conferencia plenaria](http://usar.org.es/ponencias/ponencia_invitada.html) de primerísimo nivel, 5 talleres, más de 200 asistentes (estimados),...

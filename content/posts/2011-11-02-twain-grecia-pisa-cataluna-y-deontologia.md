@@ -11,6 +11,8 @@ categories:
 tags:
 - estadística
 - números
+- pisa
+- ética
 ---
 
 Leí un chiste el otro día: aparecía el ministro de economía de Grecia en su despacho revisando unos informes y comentándole a su asesor: "La única solución es volver a mentir". No sin cierta dosis de razón nos recuerdan de vez en cuando la cita —de problemática [atribución a Mark Twain](http://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics)—: _Hay tres tipos de mentiras: mentiras pequeñas, mentiras grandes y estadísticas_.

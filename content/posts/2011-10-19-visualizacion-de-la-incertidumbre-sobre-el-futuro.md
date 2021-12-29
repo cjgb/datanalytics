@@ -13,6 +13,7 @@ tags:
 - graficaca
 - gráficos
 - percepción del riesgo
+- spiegelhalter
 ---
 
 Recomiendo a mis lectores el artículo _[Visualizing Uncertainty About the Future](http://understandinguncertainty.org/visualising-uncertainty)_ de D. Spiegelhalter, M. Pearson e I. Short. Trata sobre qué tipo de representaciones gráficas son más adecuadas para transmitir información acerca de la probabilidad de fenómenos futuros a distintos tipos de audiencias, incluidas las más anuméricas.

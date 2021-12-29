@@ -11,6 +11,7 @@ categories:
 tags:
 - finanzas
 - números
+- banca
 ---
 
 El bombardeo matinal de noticias a que nos tiene acostumbrada la prensa en los últimos tiempos debería tener el efecto secundario positivo de acrecentar nuestra cultura financiera. Pero no estoy seguro de que sea así.

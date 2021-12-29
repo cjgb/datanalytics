@@ -10,6 +10,7 @@ categories:
 tags:
 - r
 - anuncios
+- argentina
 ---
 
 A una semana de las [III Jornadas de Usuarios de R](http://www.usar.org), hoy día 11 del 11 del 11, va a tener lugar el [Primer Encuentro del Grupo de Usuarios de R de Argentina](http://ar.i314.com.ar/).

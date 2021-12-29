@@ -72,170 +72,30 @@ El algoritmo es similar al del cálculo por el [método de las potencias](http:/
 
 
 La tabla siguiente contiene los pesos de los 20 participantes con el  r-help-rank más alto (sólo muestro parte del correo electrónico):
-<table cellspacing="0" align="center" border="1" >
-<tbody >
-<tr >
 
-<td width="182" align="LEFT" height="17" >ripley
-</td>
 
-<td width="86" align="RIGHT" >0.0421097
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >p.dalgaard
-</td>
-
-<td align="RIGHT" >0.0392726
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >ggrothendieck
-</td>
-
-<td align="RIGHT" >0.030767
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >murdoch
-</td>
-
-<td align="RIGHT" >0.0240318
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >maechler
-</td>
-
-<td align="RIGHT" >0.0162645
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >h.wickham
-</td>
-
-<td align="RIGHT" >0.0135003
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >tlumley
-</td>
-
-<td align="RIGHT" >0.0126393
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >waclaw.marcin.kusnierczyk
-</td>
-
-<td align="RIGHT" >0.0124556
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >spencer.graves
-</td>
-
-<td align="RIGHT" >0.0117397
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >jfox
-</td>
-
-<td align="RIGHT" >0.0087463
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >ligges
-</td>
-
-<td align="RIGHT" >0.0086564
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >dwinsemius
-</td>
-
-<td align="RIGHT" >0.0086503
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >bates
-</td>
-
-<td align="RIGHT" >0.007753
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >gunter.berton
-</td>
-
-<td align="RIGHT" >0.0077085
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >ted.harding
-</td>
-
-<td align="RIGHT" >0.0071535
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >f.harrell
-</td>
-
-<td align="RIGHT" >0.0066112
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >edd
-</td>
-
-<td align="RIGHT" >0.0060405
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >r.turner
-</td>
-
-<td align="RIGHT" >0.0057846
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >petr.pikal
-</td>
-
-<td align="RIGHT" >0.0056932
-</td>
-</tr>
-<tr >
-
-<td align="LEFT" height="17" >gb
-</td>
-
-<td align="RIGHT" >0.0056125
-</td>
-</tr>
-</tbody>
-</table>
+|  usuario  | r-help-rank |
+|:------------| -------: |
+|ripley| 0.0421097|
+|p.dalgaard| 0.0392726|
+|ggrothendieck| 0.030767|
+|murdoch| 0.0240318|
+|maechler| 0.0162645|
+|h.wickham| 0.0135003|
+|tlumley| 0.0126393|
+|waclaw.marcin.kusnierczyk| 0.0124556|
+|spencer.graves| 0.0117397|
+|jfox| 0.0087463|
+|ligges| 0.0086564|
+|dwinsemius| 0.0086503|
+|bates| 0.007753|
+|gunter.berton| 0.0077085|
+|ted.harding| 0.0071535|
+|f.harrell| 0.0066112|
+|edd| 0.0060405|
+|r.turner| 0.0057846|
+|petr.pikal| 0.0056932|
+|gb| 0.0056125|
 
 Que conste que "gb" en la posición vigésima no soy yo. De hecho, yo aparezco en la posición 452 de la lista. Si alguien tiene curiosidad por encontrarse en ella, que me deje un mensaje. No voy a publicar los resultados completos por no hacer públicos correos electrónicos de terceros sin permiso.
 

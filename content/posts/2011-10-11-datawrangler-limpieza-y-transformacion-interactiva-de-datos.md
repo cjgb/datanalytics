@@ -11,6 +11,7 @@ categories:
 tags:
 - consultoría
 - ciencia de datos
+- google refine
 ---
 
 Quiero dar a conocer hoy una alternativa a [Google Refine](http://www.datanalytics.com/blog/2011/06/28/google-refine-para-analizar-estudiar-y-limpiar-los-datos/) de la que he tenido noticia no hace mucho: [DataWrangler](http://vis.stanford.edu/wrangler/).

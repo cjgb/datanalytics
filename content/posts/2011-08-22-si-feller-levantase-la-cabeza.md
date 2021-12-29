@@ -12,11 +12,12 @@ tags:
 - estadística
 - probabilidad
 - feller
+- mala ciencia
 ---
 
 Tengo un amigo físico que trabaja supervisando el funcionamiento una máquina de radioterapia. Se dedica, esencialmente, a achicharrar células cancerígenas con chorros de radioactividad. Me contaba recientemente cómo hay pacientes que responden positivamente y cómo con otros con un perfil similar, aun sometidos a dosis de radioactividad muy superiores, no hay forma humana de hacer que el tumor remita. Éste y muchos otros casos análogos hacen pensar a la comunidad médica que no hay enfermedades sino enfermos y que los remedios que bien valen para uno, pueden no valer para otro.
 
-¿Dónde pueden residir esas diferencias? Hay quien piensa que en el perfil genético: en el artículo _[Genomic signatures to guide the use of chemotherapeutics](http://www.nature.com/nm/journal/v12/n11/full/nm1491.html)_ de A. Potti (et al.) se plantea el uso de indicadores genéticos para distinguir aquellos pacientes que responden a un determinado tratamiento de los que no. El objetivo final consiste en poder determinar de antemano cuál es el tratamiento más adecuado para un paciente concreto a partir de métodos de clasificación derivados de su perfil genético.
+¿Dónde pueden residir esas diferencias? Hay quien piensa que en el perfil genético: en el artículo [_Genomic signatures to guide the use of chemotherapeutics_](http://www.nature.com/nm/journal/v12/n11/full/nm1491.html) de A. Potti (et al.) se plantea el uso de indicadores genéticos para distinguir aquellos pacientes que responden a un determinado tratamiento de los que no. El objetivo final consiste en poder determinar de antemano cuál es el tratamiento más adecuado para un paciente concreto a partir de métodos de clasificación derivados de su perfil genético.
 
 El proceso pues es relativamente simple:
 
@@ -34,16 +35,13 @@ Y mencionan un caso que es con el que quiero amenizar a mis lectores. En ocasion
 
 En los artículos se consideran varios fármacos: T, F, A, C y E. Conocidos P(T), P(F), P(A), P(C) y P(E) para cada paciente, ¿cuál sería, por ejemplo P(TFAC), la probabilidad de éxito de un tratamiento que combine T, F, A y F? En el artículo se menciona (la traducción y el subrayado son míos) que
 
-
-<blockquote>[e]n los casos en que se necesita conocer la probabilidad de sensibilidad a una combinación de tratamientos en función de las de cada uno de los que lo componen, usamos el _teorema para las probabilidades combinadas_ descrito por William Feller.</blockquote>
-
+>En los casos en que se necesita conocer la probabilidad de sensibilidad a una combinación de tratamientos en función de las de cada uno de los que lo componen, usamos el _teorema para las probabilidades combinadas_ descrito por William Feller.
 
 Los bioinformáticos forenses trataron de identificar cuáles eran esas fórmulas de Feller que habían sido usadas en el artículo y las descubrierion que se usaron las siguientes:
 
-
-P( TFAC ) = P( T ) + P( F ) + P( A ) + P( C ) - P( T )P( F )P( A )P( E )
-P( TET ) = P( ET ) = max( P( E ), P( T ) )
-P( FEC ) = 0.625 * ( P( F ) + P( E ) + P( C ) ) - 0.25
+$$P( TFAC ) = P( T ) + P( F ) + P( A ) + P( C ) - P( T )P( F )P( A )P( E )$$
+$$P( TET ) = P( ET ) = max( P( E ), P( T ) )$$
+$$P( FEC ) = 0.625 * ( P( F ) + P( E ) + P( C ) ) - 0.25$$
 
 
 ¡Si Feller levantase la cabeza...!

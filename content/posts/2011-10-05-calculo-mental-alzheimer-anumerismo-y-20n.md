@@ -10,6 +10,8 @@ categories:
 tags:
 - anumerismo
 - números
+- plan e
+- 20n
 ---
 
 El otro día pensaba yo: si escribiese en un rollo de papel (idealmente infinito) el nombre de todos los españoles, uno en cada línea, de manera que cada línea ocupase, digamos, dos centímetros, ¿cuántos kilómetros de papel me harían falta?

@@ -12,6 +12,7 @@ tags:
 - números
 - r
 - anuncios
+- medialab prado
 ---
 
 El miércoles pasado, en el [Medialab Prado](http://medialab-prado.es/) de Madrid tuvo lugar la [primera reunión del grupo de trabajo sobre Periodismo de datos](http://medialab-prado.es/article/1_reunion_trabajo_grupo_periodismo_de_datos). Contó con la presencia de Alberto Cairo, cuyo reciente libro, _[El arte funcional](http://elartefuncional.com/)_, espero que pase a engrosar mi colección pronto.

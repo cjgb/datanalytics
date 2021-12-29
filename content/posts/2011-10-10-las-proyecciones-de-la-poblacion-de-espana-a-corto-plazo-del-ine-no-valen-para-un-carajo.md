@@ -13,6 +13,7 @@ tags:
 - estadística pública
 - números
 - ine
+- proyecciones
 ---
 
 Las proyecciones de la población de España a corto plazo del INE no valen para un puto carajo. Tal vez sí para conseguir unos cuantos titulares en prensa como [este](http://www.larazon.es/noticia/6058-crisis-demografica-por-primera-vez-espana-pierde-poblacion), [este](http://www.publico.es/espana/400562/espana-perdera-500-000-habitantes-antes-de-2021) o este [otro](http://www.elpais.com/articulo/sociedad/Espana/perdera/medio/millon/habitantes/proxima/decada/mantiene/tendencia/demografica/elpepusoc/20111007elpepusoc_4/Tes).
@@ -20,101 +21,16 @@ Las proyecciones de la población de España a corto plazo del INE no valen para
 Pero no para lo que se supone que sirve. Además, por construcción. En el [documento que explica qué son y para qué sirven dichas proyecciones](http://www.ine.es/jaxi/menu.do?L=0&type=pcaxis&path=/t20/p269&file=inebase) se lee (con mi subrayado)
 
 
-<blockquote>La Proyección de Población de España a Corto Plazo elaborada por el INE constituye una simulación estadística del tamaño y estructura demográfica de la población que residiría en España [...] _en caso de mantenerse las tendencias y los comportamientos demográficos actualmente observados_.</blockquote>
-
-
+>La Proyección de Población de España a Corto Plazo elaborada por el INE constituye una simulación estadística del tamaño y estructura demográfica de la población que residiría en España [...] _en caso de mantenerse las tendencias y los comportamientos demográficos actualmente observados_.
 
 En la tabla que reproduzco a continuación muestro, de hecho, las _proyecciones_ que realizó el INE desde que comenzó la serie en 2008 (filas) de cuál sería la población española en una serie de años (columnas):
 
-<table cellpadding="3" cellspacing="0" align="center" border="0" >
-<tbody >
-<tr >
-
-<td align="center" valign="top" >
-</td>
-
-<td align="center" valign="top" >2018
-</td>
-
-<td align="center" valign="top" >2019
-</td>
-
-<td align="center" valign="top" >2020
-</td>
-
-<td align="center" valign="top" >2021
-</td>
-</tr>
-<tr >
-
-<td align="right" valign="top" >2008
-</td>
-
-<td align="right" valign="top" >49,0
-</td>
-
-<td align="right" valign="top" >
-</td>
-
-<td align="right" valign="top" >
-</td>
-
-<td align="right" valign="top" >
-</td>
-</tr>
-<tr >
-
-<td align="right" valign="top" >2009
-</td>
-
-<td align="right" valign="top" >46,8
-</td>
-
-<td align="right" valign="top" >46,9
-</td>
-
-<td align="right" valign="top" >
-</td>
-
-<td align="right" valign="top" >
-</td>
-</tr>
-<tr >
-
-<td align="right" valign="top" >2010
-</td>
-
-<td align="right" valign="top" >47,0
-</td>
-
-<td align="right" valign="top" >47,1
-</td>
-
-<td align="right" valign="top" >47,2
-</td>
-
-<td align="right" valign="top" >
-</td>
-</tr>
-<tr >
-
-<td align="right" valign="top" >2011
-</td>
-
-<td align="right" valign="top" >45,8
-</td>
-
-<td align="right" valign="top" >45,7
-</td>
-
-<td align="right" valign="top" >45,6
-</td>
-
-<td align="right" valign="top" >45,5
-</td>
-</tr>
-</tbody>
-</table>
+|    | 2018 | 2019 | 2020 | 2021 |
+|:------------| -------: |-------: | ---------:| ---------:|
+2008| 49 | - | | -|
+2009| 46.8| 46.9| -| -|
+2010| 47| 47.1| 47.2| -|
+2011| 45.8| 45.7| 45.6| 45.5|
 
 Faltan más años de solape: así, en 2008 se predijo que la población española en 2010 sería de 46.256.319, pero la cifra a toro pasado es de 45.989.016. Si estos números, una desviación de más de un cuarto de millón de personas, son indicio de la variación que pueden sufrir las cifras a corto, ¿qué valor podemos dar a las de a largo?
 

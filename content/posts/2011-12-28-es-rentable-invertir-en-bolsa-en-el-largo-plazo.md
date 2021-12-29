@@ -34,8 +34,6 @@ Se aprecia en el gráfico, por ejemplo, cómo en el largo plazo, la rentabilidad
 
 Y acabo con dos notas:
 
-
-
 * No estoy seguro de si la serie histórica tiene en cuenta los dividendos; es posible que no.
 * El índice actualmente tiene un valor alrededor de 800-900 puntos.  Y no los >10.000 que parece sugerir la serie. Eso se debe a que en sus inicios, el IGBM se ponía a 100 anualmente y eso ha obligado al compilador de la serie a modificarla de una manera que, tal vez, resulte sorprendente.
 

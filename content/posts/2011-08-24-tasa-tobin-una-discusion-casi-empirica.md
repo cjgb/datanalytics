@@ -21,10 +21,8 @@ tags:
 
 Igual ocurre, a otra escala, con los países y los llamados _capitales golondrina_. Es positiva, cuentan, la inversión externa. Pero no toda es igualmente beneficiosa: ¿qué inversión productiva puede financiarse con capitales de quita y pon? Muchos países han luchado contra este tipo de inversión difícilmente ­­_productivizable_ mediante diversos mecanismos. Por ejemplo, [en Chile y Colombia, durante los años 90, se utilizó el encaje](http://www.eclac.cl/cgi-bin/getProd.asp?xml=/prensa/noticias/comunicados/9/13919/P13919.xml&xsl=/prensa/tpl/p6f.xsl&base=/prensa/tpl/top-bottom.xsl):
 
-
-<blockquote>En el decenio de 1990, la mayoría de las economías emergentes tuvieron que enfrentar grandes entradas de capitales. Para que estos flujos no se tradujeran en una mayor apreciación cambiaria ni en una dependencia excesiva de corrientes de capital de corto plazo, los países tuvieron que implementar políticas para mitigar los efectos negativos que esta situación podía provocar.
-Una de esas políticas fue la del encaje, que consistió en un depósito obligatorio, en moneda extranjera y no remunerado, que debía constituirse en el Banco Central del país receptor de los flujos en forma proporcional a ciertas entradas de capitales, y que debía mantenerse durante un año. Este depósito resultaba en un encarecimiento del financiamiento externo, desincentivando el ingreso de capitales especulativos.</blockquote>
-
+>En el decenio de 1990, la mayoría de las economías emergentes tuvieron que enfrentar grandes entradas de capitales. Para que estos flujos no se tradujeran en una mayor apreciación cambiaria ni en una dependencia excesiva de corrientes de capital de corto plazo, los países tuvieron que implementar políticas para mitigar los efectos negativos que esta situación podía provocar.
+>Una de esas políticas fue la del encaje, que consistió en un depósito obligatorio, en moneda extranjera y no remunerado, que debía constituirse en el Banco Central del país receptor de los flujos en forma proporcional a ciertas entradas de capitales, y que debía mantenerse durante un año. Este depósito resultaba en un encarecimiento del financiamiento externo, desincentivando el ingreso de capitales especulativos.
 
 El premio nobel de economía J. Tobin, por su parte, propuso en los años setenta un impuesto, conocido como [tasa Tobin](http://es.wikipedia.org/wiki/Tasa_Tobin), para cierto tipo de transacciones financieras.
 

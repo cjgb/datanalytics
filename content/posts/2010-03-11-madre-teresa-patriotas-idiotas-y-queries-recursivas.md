@@ -51,6 +51,13 @@ Información sobre cuestiones relativas a cómo ejecuta PostgreSQL este tipo de 
 
 Y, retomando el tema con el que se encabezaba esta entrada, indicaré que el uso principal de _queries_ recursivas en la práctica es el de _desenvolver_ tablas que implementan jerarquías. Imagínese el caso de las piezas de un determinado modelo de avión. Este avión, nivel más alto de la jerarquía, consta de varias partes (fuselaje,...) que respresentarían el segundo nivel más alto. Y así sucesivamente hasta llegar hasta la más humilde arandela. Asignando un determinado código a cada uno de los miembros de la jerarquía, la relación _es parte de_ puede implementarse mediante una tabla de la forma:
 
+|  cod_padre  | cod_hijo |
+|:------------| :--------|
+|1001| 1002|
+|1001| 1003|
+|1002| 1004|
+|...| ...|
+
 <table style="text-align:center;" align="center" >
 <tbody >
 <tr >

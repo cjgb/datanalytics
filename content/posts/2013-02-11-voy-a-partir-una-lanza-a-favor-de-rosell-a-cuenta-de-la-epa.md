@@ -47,121 +47,14 @@ print(xtable(tmp), type = "html")
 
 se obtiene
 
-
-
-<table border="1" >
-<tbody >
-<tr >
-
-cis
-reales
-diff
-diff.pc
-</tr>
-<tr >
-
-<td align="right" >PP
-</td>
-
-<td align="right" >40.33
-</td>
-
-<td align="right" >45.24
-</td>
-
-<td align="right" >-4.91
-</td>
-
-<td align="right" >-10.86
-</td>
-</tr>
-<tr >
-
-<td align="right" >PSOE
-</td>
-
-<td align="right" >33.15
-</td>
-
-<td align="right" >29.13
-</td>
-
-<td align="right" >4.02
-</td>
-
-<td align="right" >13.80
-</td>
-</tr>
-<tr >
-
-<td align="right" >IU
-</td>
-
-<td align="right" >9.31
-</td>
-
-<td align="right" >7.02
-</td>
-
-<td align="right" >2.29
-</td>
-
-<td align="right" >32.55
-</td>
-</tr>
-<tr >
-
-<td align="right" >UPyD
-</td>
-
-<td align="right" >4.81
-</td>
-
-<td align="right" >4.76
-</td>
-
-<td align="right" >0.04
-</td>
-
-<td align="right" >0.89
-</td>
-</tr>
-<tr >
-
-<td align="right" >CiU
-</td>
-
-<td align="right" >3.04
-</td>
-
-<td align="right" >4.24
-</td>
-
-<td align="right" >-1.20
-</td>
-
-<td align="right" >-28.21
-</td>
-</tr>
-<tr >
-
-<td align="right" >Otros
-</td>
-
-<td align="right" >9.37
-</td>
-
-<td align="right" >9.61
-</td>
-
-<td align="right" >-0.24
-</td>
-
-<td align="right" >-2.49
-</td>
-</tr>
-</tbody>
-</table>
+|  cis  | reales | diff | diff (%) |
+|:------------| -------: | ---------:| ---------:|
+PP| 40.33| 45.24| -4.91| -10.86|
+PSOE| 33.15| 29.13| 4.02| 13.80|
+IU| 9.31| 7.02| 2.29| 32.55|
+UPyD| 4.81| 4.76| 0.04| 0.89|
+CiU| 3.04| 4.24| -1.20| -28.21|
+Otros| 9.37| 9.61| -0.24| -2.49|
 
 donde la primera columna corresponde a los porcentajes de votos obtenidos en la encuesta del CIS, la segunda a los reales (descontados en ambos casos los nulos y blancos) y las demás son las diferencias. Cierto, quedan sin computar los 55 sujetos que no recuerdan su voto y los 196 que se negaron a contestar esa pregunta. Pero a ti, lector, ¿te parece que las discrepancias están _dentro de rango_?
 

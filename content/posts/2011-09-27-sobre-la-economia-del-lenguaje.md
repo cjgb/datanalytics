@@ -13,6 +13,7 @@ tags:
 - estadística
 - nlp
 - probabilidad
+- economía
 ---
 
 De acuerdo con una observación de [Zipf](http://es.wikipedia.org/wiki/George_Kingsley_Zipf) (y supongo que de muchos otros y que no hay que confundir con [su ley](http://es.wikipedia.org/wiki/Ley_de_Zipf)), la longitud de las palabras más corrientes es menor que las que se usan menos frecuentemente.

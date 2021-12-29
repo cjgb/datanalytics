@@ -26,155 +26,22 @@ En primer lugar, ahí va el número de personas que han respondido correos en la
 
 Luego, una vez calculados los pesos de cada una de ellas, muestro el podio en cada uno de los años:
 
-<table >
-<tr >
-<td >
-
-año
-
-</td>
-<td >
-
-1
-
-</td>
-<td >
-
-2
-
-</td>
-<td >
-
-3
-
-</td></tr>
-<tr >
-<td >1997
-</td>
-<td >wvenable
-</td>
-<td >ihaka
-</td>
-<td >thomas
-</td></tr>
-<tr >
-<td >1998
-</td>
-<td >p.dalgaard
-</td>
-<td >wsimpson
-</td>
-<td >bates
-</td></tr>
-<tr >
-<td >1999
-</td>
-<td >p.dalgaard
-</td>
-<td >ripley
-</td>
-<td >maechler
-</td></tr>
-<tr >
-<td >2000
-</td>
-<td >ripley
-</td>
-<td >p.dalgaard
-</td>
-<td >gb
-</td></tr>
-<tr >
-<td >2001
-</td>
-<td >ripley
-</td>
-<td >p.dalgaard
-</td>
-<td >alobo
-</td></tr>
-<tr >
-<td >2002
-</td>
-<td >ripley
-</td>
-<td >p.dalgaard
-</td>
-<td >tlumley
-</td></tr>
-<tr >
-<td >2003
-</td>
-<td >ripley
-</td>
-<td >p.dalgaard
-</td>
-<td >spencer.graves
-</td></tr>
-<tr >
-<td >2004
-</td>
-<td >p.dalgaard
-</td>
-<td >ripley
-</td>
-<td >ggrothendieck
-</td></tr>
-<tr >
-<td >2005
-</td>
-<td >ripley
-</td>
-<td >p.dalgaard
-</td>
-<td >ggrothendieck
-</td></tr>
-<tr >
-<td >2006
-</td>
-<td >ggrothendieck
-</td>
-<td >ripley
-</td>
-<td >murdoch
-</td></tr>
-<tr >
-<td >2007
-</td>
-<td >ggrothendieck
-</td>
-<td >ripley
-</td>
-<td >murdoch
-</td></tr>
-<tr >
-<td >2008
-</td>
-<td >ggrothendieck
-</td>
-<td >h.wickham
-</td>
-<td >ripley
-</td></tr>
-<tr >
-<td >2009
-</td>
-<td >ggrothendieck
-</td>
-<td >waclaw.marcin.kusnierczyk
-</td>
-<td >dwinsemius
-</td></tr>
-<tr >
-<td >2010
-</td>
-<td >ggrothendieck
-</td>
-<td >murdoch
-</td>
-<td >dwinsemius
-</td></tr>
-</table>
+|  año  | 1 | 2 | 3 |
+|:------------| :------- | :------ | :----|
+|1997|wvenable|ihaka|thomas|
+|1998|p.dalgaard|wsimpson|bates|
+|1999|p.dalgaard|ripley|maechler|
+|2000|ripley|p.dalgaard|gb|
+|2001|ripley|p.dalgaard|alobo|
+|2002|ripley|p.dalgaard|tlumley|
+|2003|ripley|p.dalgaard|spencer.graves|
+|2004|p.dalgaard|ripley|ggrothendieck|
+|2005|ripley|p.dalgaard|ggrothendieck|
+|2006|ggrothendieck|ripley|murdoch|
+|2007|ggrothendieck|ripley|murdoch|
+|2008|ggrothendieck|h.wickham|ripley|
+|2009|ggrothendieck|waclaw.marcin.kusnierczyk|dwinsemius|
+|2010|ggrothendieck|murdoch|dwinsemius|
 
 Es constatable cómo Ripley, ''campeón absoluto'' de manera global, parece haberse alejado de r-help (aunque sigue muy activo en la más elitista r-devel). También cómo Venables e Ihaka, pioneros en el mundo de R, dejaron pronto paso a otros entusiastas del lenguaje.
 

@@ -10,6 +10,7 @@ categories:
 tags:
 - gráficos
 - logaritmos
+- ejes
 ---
 
 Encontré el otro día una [entrada en la bitácora de Bissantz](http://blog.bissantz.com/linear-vs-logarithmic-scales), una empresa alemana de herramientas de visualización y minería de datos que trataba sobre las ventajas y desventajas del uso de escalas lineales y logarítmicas en cierto tipo de gráficos. Y los ilustraba con un ejemplo que me hizo pensar si no habría _algo más_.

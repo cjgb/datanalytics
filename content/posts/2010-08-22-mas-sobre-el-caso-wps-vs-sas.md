@@ -26,7 +26,7 @@ Ayer quise publicar un comentario a [este artículo](http://www.informationweek.
 >
 >WPS acted according to the European law and this is precisely what the courts stated. It is SAS who tries to bind its customers through illegal EULA restrictions.
 >
->If the author of the article thinks that it is so easy making a successful clone of a well established software product in Europe and get rich doing it... well, he is quite invited to come here and start cloning!</blockquote>
+>If the author of the article thinks that it is so easy making a successful clone of a well established software product in Europe and get rich doing it... well, he is quite invited to come here and start cloning!
 
 
 Resulta curioso cómo ambas partes, [WPS](http://www.teamwpc.co.uk/press/world_programming_secures_high_court_victory_against_SAS) y [SAS](http://www.sas.com/news/preleases/WPL.html), se arrogan la victoria en el caso. Lo que hace falta ahora es que se abra el mercado y el precio del _software_ se racionalice (¿cero?).

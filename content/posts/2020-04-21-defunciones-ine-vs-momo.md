@@ -34,171 +34,24 @@ Cosas:
 * El hecho de que Baleares y, especialmente, en verano, tenga el comportamiento opuesto al resto de las CCAA (más fallecimientos en MoMo que en el INE) da que pensar sobre lo apuntado antes: ¿cómo se registran las defunciones de gente de paso?
 * ¿Qué demonios pasa en Asturias en diciembre?
 
-
-
-<table border="1" >
-<tr > ccaa  defunciones momo  defunciones ine  %   </tr>
-  <tr >
-<td > IB
-</td>
-<td align="right" > 5884
-</td>
-<td align="right" > 5740
-</td>
-<td align="right" > -2.4
-</td> </tr>
-  <tr >
-<td > VC
-</td>
-<td align="right" > 31611
-</td>
-<td align="right" > 31515
-</td>
-<td align="right" > -0.3
-</td> </tr>
-  <tr >
-<td > AN
-</td>
-<td align="right" > 50190
-</td>
-<td align="right" > 50336
-</td>
-<td align="right" > 0.3
-</td> </tr>
-  <tr >
-<td > CN
-</td>
-<td align="right" > 11321
-</td>
-<td align="right" > 11360
-</td>
-<td align="right" > 0.3
-</td> </tr>
-  <tr >
-<td > GA
-</td>
-<td align="right" > 22413
-</td>
-<td align="right" > 22682
-</td>
-<td align="right" > 1.2
-</td> </tr>
-  <tr >
-<td > NC
-</td>
-<td align="right" > 4100
-</td>
-<td align="right" > 4154
-</td>
-<td align="right" > 1.3
-</td> </tr>
-  <tr >
-<td > AS
-</td>
-<td align="right" > 9204
-</td>
-<td align="right" > 9366
-</td>
-<td align="right" > 1.8
-</td> </tr>
-  <tr >
-<td > CT
-</td>
-<td align="right" > 45728
-</td>
-<td align="right" > 46730
-</td>
-<td align="right" > 2.2
-</td> </tr>
-  <tr >
-<td > PV
-</td>
-<td align="right" > 14979
-</td>
-<td align="right" > 15346
-</td>
-<td align="right" > 2.5
-</td> </tr>
-  <tr >
-<td > ML
-</td>
-<td align="right" > 360
-</td>
-<td align="right" > 371
-</td>
-<td align="right" > 3.1
-</td> </tr>
-  <tr >
-<td > MC
-</td>
-<td align="right" > 7484
-</td>
-<td align="right" > 7794
-</td>
-<td align="right" > 4.1
-</td> </tr>
-  <tr >
-<td > CM
-</td>
-<td align="right" > 13072
-</td>
-<td align="right" > 13725
-</td>
-<td align="right" > 5.0
-</td> </tr>
-  <tr >
-<td > EX
-</td>
-<td align="right" > 7361
-</td>
-<td align="right" > 8003
-</td>
-<td align="right" > 8.7
-</td> </tr>
-  <tr >
-<td > MD
-</td>
-<td align="right" > 28628
-</td>
-<td align="right" > 33230
-</td>
-<td align="right" > 16.1
-</td> </tr>
-  <tr >
-<td > AR
-</td>
-<td align="right" > 8056
-</td>
-<td align="right" > 10060
-</td>
-<td align="right" > 24.9
-</td> </tr>
-  <tr >
-<td > CB
-</td>
-<td align="right" > 3358
-</td>
-<td align="right" > 4253
-</td>
-<td align="right" > 26.7
-</td> </tr>
-  <tr >
-<td > RI
-</td>
-<td align="right" > 1790
-</td>
-<td align="right" > 2309
-</td>
-<td align="right" > 29.0
-</td> </tr>
-  <tr >
-<td > CL
-</td>
-<td align="right" > 16233
-</td>
-<td align="right" > 20999
-</td>
-<td align="right" > 29.4
-</td> </tr>
-   </table>
+|  ccaa  | defunciones momo | defunciones ine | % |
+|:------------| -------: | ---------:| ---------:|
+| IB| 5884| 5740| -2.4  |
+| VC| 31611| 31515| -0.3  |
+| AN| 50190| 50336| 0.3  |
+| CN| 11321| 11360| 0.3  |
+| GA| 22413| 22682| 1.2  |
+| NC| 4100| 4154| 1.3  |
+| AS| 9204| 9366| 1.8  |
+| CT| 45728| 46730| 2.2  |
+| PV| 14979| 15346| 2.5  |
+| ML| 360| 371| 3.1  |
+| MC| 7484| 7794| 4.1  |
+| CM| 13072| 13725| 5.0  |
+| EX| 7361| 8003| 8.7  |
+| MD| 28628| 33230| 16.1  |
+| AR| 8056| 10060| 24.9  |
+| CB| 3358| 4253| 26.7  |
+| RI| 1790| 2309| 29.0  |
+| CL| 16233| 20999| 29.4 |
 

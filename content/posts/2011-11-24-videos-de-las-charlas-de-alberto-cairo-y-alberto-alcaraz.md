@@ -12,6 +12,7 @@ tags:
 - gráficos
 - números
 - anuncios
+- cairo
 ---
 
 Diríase que estos días no escribo de otra cosa. Pero como que toca. Ya cambiaré de cuerda.

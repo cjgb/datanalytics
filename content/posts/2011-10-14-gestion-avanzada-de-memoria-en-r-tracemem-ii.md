@@ -11,6 +11,7 @@ tags:
 - r
 - programación
 - memoria
+- tracemem
 ---
 
 He leído estos días el capítulo 14 de _The Art of R Programming_ que trata problemas y trucos para mejorar el rendimiento de R en términos de velocidad y memoria. Menciona la función `tracemem` de la que nos ocupamos [el otro día](http://www.datanalytics.com/blog/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/).
