@@ -45,11 +45,11 @@ El primero es que vale la pena traer a colación la [habitual confusión entre s
 
 El efecto es, según los autores, significativo, pero no está claro que sea relevante y aunque la tasa de paro fuese una variable fácilmente manipulable, hacerla descender _significativamente_ produciría, a lo sumo, un efecto difícil de detectar en la tasa de suicidios.
 
-El segundo gran tema es que un resultado (o coeficiente) puede resultar o no significativo dependiendo de lo que uno haga, las variables que utilice, etc. Aquí echo de menos ese párrafo que he omitido más arriba sobre los perversos incentivos de la academia. Como los autores (otra cosa para la que no tienen mayor incentivo) no han hecho públicos los datos (o no los han publicitado lo suficientemente bien como para que los encuentre), [los he recopilado yo mismo](/wp-uploads/2016/01/datos_suicidio_espana.txt). Se puede hacer
+El segundo gran tema es que un resultado (o coeficiente) puede resultar o no significativo dependiendo de lo que uno haga, las variables que utilice, etc. Aquí echo de menos ese párrafo que he omitido más arriba sobre los perversos incentivos de la academia. Como los autores (otra cosa para la que no tienen mayor incentivo) no han hecho públicos los datos (o no los han publicitado lo suficientemente bien como para que los encuentre), [los he recopilado yo mismo](/uploads/datos_suicidio_espana.txt). Se puede hacer
 
 
 {{< highlight R "linenos=true" >}}
-dat <- read.table("/wp-uploads/2016/01/datos_suicidio_espana.txt")
+dat <- read.table("/uploads/datos_suicidio_espana.txt")
 summary(dat)
 {{< / highlight >}}
 

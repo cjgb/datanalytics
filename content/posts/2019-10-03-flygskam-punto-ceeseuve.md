@@ -16,7 +16,7 @@ tags:
 
 Para todos aquellos a los que volar les da vergüenza. Para todos aquellos que han sido víctimas de Vueling o Ryanair. Para todos aquellos que saben que cualquier cosa del mundo se puede encontrar mejor y más barata en Lavapiés. Para todos aquellos que han ido a JFK para enterarse de que su vuelo salía de Newark. Para todos aquellos a los que les han cancelado un billete de vuelta porque se durmieron y perdieron la la ida. Para todos aquellos que consideran la manifestación culmen de la estupidez humana el lastimoso espectáculo de doscientos gilipollas saliendo de un avión.
 
-Para todos aquellos, [flygskam](/wp-uploads/2019/10/flygskam.csv).
+Para todos aquellos, [flygskam](/uploads/flygskam.csv).
 
 Que es un fichero que he construido haciendo
 

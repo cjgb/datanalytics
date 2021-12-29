@@ -53,7 +53,7 @@ La probabilidad de lluvia (diaria) ha evolucionado así:
 
 ![](/wp-uploads/2017/12/probabilidad_lluvia_madrid.png)
 
-Los datos de pluviosidad histórica están en AEMET, pero sacarlos de ahí es tarea imposible. La AEMET está gobernada por [funcionarios que dicen _ñí_](https://www.youtube.com/watch?v=QDUCN_pzV1U). Así que [los he bajado de NOAA](https://www.datanalytics.com/2017/06/13/la-aemet-ha-muerto-larga-vida-a-la-noaa/); los de NOAA son funcionarios también, solo que estadounidenses y con vocación de servicio público. Como yo también la tengo, [los comparto](/wp-uploads/2017/12/lluvia_madrid.zip).
+Los datos de pluviosidad histórica están en AEMET, pero sacarlos de ahí es tarea imposible. La AEMET está gobernada por [funcionarios que dicen _ñí_](https://www.youtube.com/watch?v=QDUCN_pzV1U). Así que [los he bajado de NOAA](https://www.datanalytics.com/2017/06/13/la-aemet-ha-muerto-larga-vida-a-la-noaa/); los de NOAA son funcionarios también, solo que estadounidenses y con vocación de servicio público. Como yo también la tengo, [los comparto](/uploads/lluvia_madrid.zip).
 
 También el código, para referencia de todos. La magia, en todo caso, es producto del maravilloso [paquete `INLA` de R](http://www.r-inla.org/). La parte más relevante del código es el lugar donde defino el modelo. La más discutible, es donde extraigo las estimaciones de los parámetros (me quedo con la moda de la posteriori). Pero es mejorable con poco esfuerzo.
 

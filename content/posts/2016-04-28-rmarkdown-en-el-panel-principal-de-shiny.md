@@ -14,7 +14,7 @@ tags:
 
 Comparto con mis lectores un experimento de esta misma mañana: cómo insertar en el panel principal de Shiny un documento generado con [Rmarkdown](http://rmarkdown.rstudio.com/). Que, por supuesto, cambia según se seleccionen unos u otros parámetros en Shiny.
 
-Es un ejemplo sencillo, estúpido, sin comentarios, desordenado y, en resumen, muy mejorable. Puede descargarse de [aquí](/wp-uploads/2016/04/markdown_en_shiny.zip).
+Es un ejemplo sencillo, estúpido, sin comentarios, desordenado y, en resumen, muy mejorable. Puede descargarse de [aquí](/uploads/markdown_en_shiny.zip).
 
 El truco es de los sucios:
 

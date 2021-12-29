@@ -16,7 +16,7 @@ tags:
 - recomendaciones
 ---
 
-Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado ([aquí](http://slatestarcodex.com/2016/03/01/2016-nootropics-survey-results/)) un [conjunto datos](/wp-uploads/2016/03/recomendador_drogas.xlsx) muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— [nootrópicos](https://es.wikipedia.org/wiki/Nootr%C3%B3picos).
+Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado ([aquí](http://slatestarcodex.com/2016/03/01/2016-nootropics-survey-results/)) un [conjunto datos](/uploads/recomendador_drogas.xlsx) muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— [nootrópicos](https://es.wikipedia.org/wiki/Nootr%C3%B3picos).
 
 El gráfico
 
@@ -33,7 +33,7 @@ library(lme4)
 library(plyr)
 library(lattice)
 
-download.file("/wp-uploads/2016/03/recomendador_drogas.xlsx",
+download.file("/uploads/recomendador_drogas.xlsx",
     destfile = "recomendador_drogas.xlsx")
 raw <- read.xlsx("recomendador_drogas.xlsx", 1)
 

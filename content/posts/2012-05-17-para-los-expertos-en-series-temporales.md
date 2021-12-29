@@ -19,6 +19,6 @@ El otro día, en una bitácora de la que he perdido la referencia, el autor reta
 
 Lo emulo hoy aquí y dejo a mis lectores esta vez una serie temporal (igualmente desdibujada y que diría yo que famosa) por si alguno, desocupado, quiere hincarle el diente y desentrañar sus misterios.
 
-[Habedla](/wp-uploads/2012/05/serie_temporal.txt).
+[Habedla](/uploads/serie_temporal.txt).
 
 ¿Alguna idea?

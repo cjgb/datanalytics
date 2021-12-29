@@ -16,9 +16,10 @@ tags:
 - ggplot2
 - gráficos
 - números
+- pequeños múltiplos
 ---
 
-La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas [URLs que tienen pinta de cambiar con cualquier soplo](http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t42/p04/l1/&file=1800001.px&type=pcaxis&L=1) (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los [datos a día de hoy](/wp-uploads/2014/07/paro_mensual.txt).
+La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas [URLs que tienen pinta de cambiar con cualquier soplo](http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t42/p04/l1/&file=1800001.px&type=pcaxis&L=1) (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los [datos a día de hoy](/uploads/paro_mensual.txt).
 
 También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena y o mala. Pero, ¿buena o mala con respecto a qué? Así que hoy voy a ensayar un marco en el que plantear la pregunta:
 
@@ -32,7 +33,7 @@ Así:
 library(ggplot2)
 library(plyr)
 
-raw <- read.table("/wp-uploads/2014/07/paro_mensual.txt")
+raw <- read.table("/uploads/paro_mensual.txt")
 dat <- data.frame(mes = raw$V1[-1], delta = diff(raw$V2))
 
 tmp <- do.call(rbind, strsplit(as.character(dat$mes), "M"))

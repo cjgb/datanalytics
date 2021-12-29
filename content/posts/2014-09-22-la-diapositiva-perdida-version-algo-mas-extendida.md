@@ -19,7 +19,7 @@ tags:
 
 Tuve que saltarme una diapositiva en el [DataBeers de Madrid](http://www.datanalytics.com/2014/09/18/recordatorio-esta-tarde-participo-en-el-databeers-de-madrid/) del pasado jueves.
 
-(A propósito, aquí están las [1+20 diapositivas](/wp-uploads/2014/09/charla_databeers_201409.pdf)).
+(A propósito, aquí están las [1+20 diapositivas](/uploads/charla_databeers_201409.pdf).)
 
 La decimonona, de la que trata la entrada, viene a hablar de lo siguiente. Tenemos una base de datos con sujetos (`ids`) que hacen cosas en determinados momentos. No es inhabitual calcular la _frecuencia_ de esos sujetos así:
 
@@ -43,6 +43,5 @@ exp(coefficients(res))
 #xa xb
 #3  2
 {{< / highlight >}}
-
 
 De lo que no quería hablar es de algo bastante manido: plantear algún tipo de modelo `y ~ x1 + x2 + ...`, donde `x1,...` son atributos de los sujetos, aleatorizando o sin aleatorizar por `ids`. A donde quería llegar es a que tal vez $latex N(\lambda)$, un proceso de Poisson homogéneo no sea el mejor modelo y no recoja aspectos importantes del proceso puntual subyacente (véase [esto](http://www.datanalytics.com/2014/08/11/procesos-puntuales-una-primera-aproximacion/) y [esto](http://www.datanalytics.com/2014/08/13/mis-procesos-puntuales-con-glm/)).

@@ -59,7 +59,7 @@ Recibo esto en mi correo electrónico:
 >Empresa Municipal de la Vivienda y Suelo de Madrid, S.A.
 
 
-Adjuntan [este fichero](/wp-uploads/2017/05/listado_bienes_EMVS.docx). Además, me informan de que espere una carta certificada en la que me harán llegar en papel una versión de lo anterior.
+Adjuntan [este fichero](/uploads/listado_bienes_EMVS.docx). Además, me informan de que espere una carta certificada en la que me harán llegar en papel una versión de lo anterior.
 
 Me alegra sobremanera que el ayuntamiento proteja su patrimonio, que es de todos los madrileños, de los malos usos que los okupas pudieran darle de enterarse de la ubicación exacta de los apartamentos municipales. No está bien que esa información caiga en malas manos.
 
