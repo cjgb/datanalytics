@@ -26,14 +26,12 @@ Se trata de diagramas de barras a los que se añaden unos apéndices que tratan 
 
 En _[Dynamite Plots: Unmitigated Evil](http://emdbolker.wikidot.com/blog:dynamite)_ se enumera una serie de motivos por los que es preferible no usarlos:
 
-
-
-	  * su ratio tinta/datos es bajo
-	  * esconden los datos originales, como se parecia en la comparación anterior
-	  * suelen asumir que los intervalos de confianza son simétricos
-	  * pueden esconder aspectos de los datos, como la bimodalidad
-	  * cuando muestran sólo el tramo superior del intervalo de confianza dificultan la comparación entre grupos
-	  * aparentemente, crean una ilusión visual por la que el lector tiende a agregar la longitud correspondiente al intervalo de confianza a la barra
+* su ratio tinta/datos es bajo
+* esconden los datos originales, como se parecia en la comparación anterior
+* suelen asumir que los intervalos de confianza son simétricos
+* pueden esconder aspectos de los datos, como la bimodalidad
+* cuando muestran sólo el tramo superior del intervalo de confianza dificultan la comparación entre grupos
+* aparentemente, crean una ilusión visual por la que el lector tiende a agregar la longitud correspondiente al intervalo de confianza a la barra
 
 
 En ese mismo enlace aparece el gráfico

@@ -13,14 +13,9 @@ tags:
 
 Hora es cumplida, creo yo, de repensar el [portal de la Comunidad R Hispano](http://r-es.org). Así que he pensado en pulsar el criterio —que estimo sobremanera— de mis visitantes y solicitar de ellos (vía comentario a esta entrada) sugerencias. Por acotar el tema, sugiero que vayan encaminadas a dirimir estas dos cuestiones:
 
-
-
-	  1. ¿Cuál debería ser el objetivo de un portal de esas características?
-	  2. ¿Cómo debería organizarse para alcanzar mejor esos objetivos?
-
-
+1. ¿Cuál debería ser el objetivo de un portal de esas características?
+2. ¿Cómo debería organizarse para alcanzar mejor esos objetivos?
 
 Y como colofón, ¿conocéis algún modelo aplicable y que funcione?
-
 
 Agradezco de antemano los comentarios.

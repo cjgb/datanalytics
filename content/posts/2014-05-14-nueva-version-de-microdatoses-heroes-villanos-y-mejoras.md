@@ -19,7 +19,7 @@ Ayer odié mucho a José Luis Cañadas —que sigue no obstante siendo amigo: v�
 
 >Nueva versión en CRAN de MicroDatosEs de [@gilbellosta](https://twitter.com/gilbellosta). Permite leer con [#rstats](https://twitter.com/search?q=%23rstats&src=hash) entre otros, los microdatos los de la EPA del INE.
 >
-> -- Jose Luis Cañadas (@joscani) [May 13, 2014](https://twitter.com/joscani/statuses/466120464788889600)</blockquote>
+> -- Jose Luis Cañadas (@joscani) [May 13, 2014](https://twitter.com/joscani/statuses/466120464788889600)
 
 Hubiera preferido reservarme la primicia para todos sus usuarios y simpatizantes de la nueva versión del [paquete MicroDatosEs](http://www.datanalytics.com/tag/microdatoses/) recién subida a [CRAN](http://cran.ms.unimelb.edu.au/web/packages/MicroDatosEs/index.html) pero... en fin.
 

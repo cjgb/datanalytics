@@ -9,6 +9,7 @@ categories:
 - r
 tags:
 - r
+- anuncios
 ---
 
 Aprovecho para recordar a los usuarios de R de Madrid que el jueves 26 de abril, a las siete de la tarde, tendrá lugar la segunda reunión del grupo de usuarios de R de Madrid en la sala Metrópolis de La Tabacalera (glorieta de Embajadores).

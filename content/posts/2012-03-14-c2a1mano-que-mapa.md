@@ -4,7 +4,7 @@ date: 2012-03-14 08:35:49+00:00
 draft: false
 title: ¡Maño qué mapa!
 
-url: /2012/03/14/%c2%a1mano-que-mapa/
+url: /2012/03/14/mano-que-mapa/
 categories:
 - r
 tags:
@@ -24,64 +24,51 @@ Y he pensado que tal vez podría hacer una virguería con R.
 
 Así que he escrito lo siguiente:
 
+{{< highlight R "linenos=true" >}}
+library(rjson)
 
+# tmp <- readLines("http://www.zaragoza.es/trafico/estado/tramos23030.json")
+tmp <- readLines("http://www.zaragoza.es/trafico/estado/tramoswgs84.json")
+tmp <- fromJSON(tmp)[[1]]
 
+status <- fromJSON(readLines("http://www.zaragoza.es/trafico/estado/estado.json"))
 
+status.time <- status$timestamp
+status <- strsplit(status$estados, "")[[1]]
 
+# length(kkk)
 
+tmp <- lapply(tmp, function(x) {
+  id     <- x$id
+  name   <- x$name
+  status <- status[id]
+  lat    <- sapply(x$points, function(y) y$lat)
+  lon    <- sapply(x$points, function(y) y$lon)
 
+  data.frame(id = id, name = name, status = status, lat = lat, lon = lon)
 
-    library( rjson )
+})
 
-    # tmp <- readLines( "http://www.zaragoza.es/trafico/estado/tramos23030.json" )
-    tmp <- readLines( "http://www.zaragoza.es/trafico/estado/tramoswgs84.json" )
-    tmp <- fromJSON( tmp )[[1]]
+tmp <- do.call(rbind, tmp)
 
-    status <- fromJSON( readLines( "http://www.zaragoza.es/trafico/estado/estado.json" ) )
+# tmp <- merge(tmp, status)
 
-    status.time <- status$timestamp
-    status <- strsplit( status$estados, "" )[[1]]
+plot(range(tmp$lon), - range(-tmp$lat),
+  xaxt = "n", yaxt = "n", type = "n",
+  main = paste(
+      "Estado del tráfico en Zaragoza",
+      strptime(gsub("-|Z", " ", status.time),
+        format = "%Y%m%d %H%M%S"), sep = "\n"),
+  xlab = "", ylab = "")
 
-    # length( kkk )
+foo <- function(x, y, status){
+  colores <- c("black", "red", "yellow",  "green", "lightgray")
+  color   <- colores[ match(status, c("b", "r", "y", "g"), nomatch = 5) ]
+  lines(x,y, col = color, lwd = ifelse(status == "-", 1, 2))
+}
 
-    tmp <- lapply( tmp, function( x ) {
-    	id     <- x$id
-    	name   <- x$name
-    	status <- status[id]
-    	lat    <- sapply( x$points, function( y ) y$lat )
-    	lon    <- sapply( x$points, function( y ) y$lon )
-
-    	data.frame( id = id, name = name, status = status, lat = lat, lon = lon )
-
-    })
-
-    tmp <- do.call( rbind, tmp )
-
-    # tmp <- merge( tmp, status )
-
-    plot( range( tmp$lon ), - range( -tmp$lat ),
-    	xaxt = "n", yaxt = "n", type = "n",
-    	main = paste(
-    			"Estado del tráfico en Zaragoza",
-    			strptime( gsub( "-|Z", " ", status.time),
-    				format = "%Y%m%d %H%M%S" ), sep = "\n" ),
-    	xlab = "", ylab = "" )
-
-    foo <- function( x, y, status ){
-    	colores <- c( "black", "red", "yellow",  "green", "lightgray" )
-    	color   <- colores[ match( status, c( "b", "r", "y", "g" ), nomatch = 5 ) ]
-    	lines( x,y, col = color, lwd = ifelse( status == "-", 1, 2 ) )
-    }
-
-    by( tmp, tmp$id, function( x ) foo( x$lon, x$lat, status = x$status ) )
-
-
-
-
-
-
-
-
+by(tmp, tmp$id, function(x) foo(x$lon, x$lat, status = x$status))
+{{< / highlight >}}
 
 Que da como resultado (a la hora en la que lo he ejecutado, cuando los zaragozanos están ya casi todos en su casa)
 
@@ -91,35 +78,23 @@ Que da como resultado (a la hora en la que lo he ejecutado, cuando los zaragozan
 Pero me ha sabido a poco y he querido hacerlo todavía más a lo maño. Así que he añadido
 
 
+{{< highlight R "linenos=true" >}}
+library(OpenStreetMap)
 
+map <- openmap(c(max(tmp$lat), min(tmp$lon)), c(min(tmp$lat), max(tmp$lon)), type = "osm")
+plot(map,raster=TRUE)
 
+tmp.mercator <- data.frame(projectMercator(tmp$lat, tmp$lon))
+tmp.mercator$status <- tmp$status
 
+foo <- function(x, y, status){
+  colores <- c("black", "red", "yellow",  "green", "lightgray")
+  color   <- colores[ match(status, c("b", "r", "y", "g"), nomatch = 5) ]
+  lines(x,y, col = color, lwd = ifelse(status == "-", 1, 2))
+}
 
-
-
-    library( OpenStreetMap )
-
-    map <- openmap( c( max(tmp$lat), min(tmp$lon) ), c( min( tmp$lat ), max(tmp$lon) ), type = "osm")
-    plot(map,raster=TRUE)
-
-    tmp.mercator <- data.frame( projectMercator( tmp$lat, tmp$lon ) )
-    tmp.mercator$status <- tmp$status
-
-    foo <- function( x, y, status ){
-      colores <- c( "black", "red", "yellow",  "green", "lightgray" )
-    	color   <- colores[ match( status, c( "b", "r", "y", "g" ), nomatch = 5 ) ]
-    	lines( x,y, col = color, lwd = ifelse( status == "-", 1, 2 ) )
-    }
-
-    by( tmp.mercator, tmp$id, function( x ) foo( x$x, x$y, status = x$status ) )
-
-
-
-
-
-
-
-
+by(tmp.mercator, tmp$id, function(x) foo(x$x, x$y, status = x$status))
+{{< / highlight >}}
 
 Y he obtenido
 [![](/wp-uploads/2012/03/trafico_zgz_osm.png)
@@ -127,8 +102,6 @@ Y he obtenido
 
 Hay algunas cosas que me gustaría poder añadir, minucias, pero que estoy demasiado ocupado para investigar y que me gustaría dejar de tarea a mis lectores:
 
-
-
-	  * ¿Cómo poner un título al segundo gráfico?
-	  * ¿Cómo difuminar la imagen de fondo para que resalten más los tramos de tráfico sobre el excesivo detalle del mapa subyacente?
+* ¿Cómo poner un título al segundo gráfico?
+* ¿Cómo difuminar la imagen de fondo para que resalten más los tramos de tráfico sobre el excesivo detalle del mapa subyacente?
 

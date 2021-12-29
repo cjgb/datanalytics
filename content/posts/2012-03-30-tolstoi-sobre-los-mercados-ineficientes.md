@@ -11,6 +11,7 @@ categories:
 tags:
 - estadística
 - finanzas
+- tolstoi
 ---
 
 Arranca Tolstoi en Ana Karenina con esta frase mítica: _Todas las familias felices se parecen entre sí; las infelices son desgraciadas en su propia manera_.
@@ -23,11 +24,7 @@ Ya, ya sé que algunos estudian una cosa que se llama [AR(1)](http://es.wikipedi
 
 Esto lo sé. De mercados eficientes e ineficientes, particularmente de los segundos, sé infinitamente menos. Pero cuando [leo a Jesús Fernández Villaverde escribir](http://www.fedeablogs.net/economia/?p=19216):
 
-
-
-<blockquote>[...] con repeticiones de banalidades de Krugman [...] como la que los economistas estamos enamorados de modelos donde los mercados son perfectos. Esto de nuevo son noticias para mi [_sic_] ya que yo tenía la impresión de que casi todos mis papers son modelos con imperfecciones de mercado. Bueno debe de ser que mis papers solo existen en un proyecto existencial distinto. Pero quien lo deberá llevar peor son mis estudiantes de doctorado, a los que acabo de meter 15 horas de clase bien intensas (y 3 más que les quedan) de modelos con imperfecciones y que se deberán estar preguntado los pobres que en qué dimensión existencial se han ido esas horas.</blockquote>
-
-
+>[...] con repeticiones de banalidades de Krugman [...] como la que los economistas estamos enamorados de modelos donde los mercados son perfectos. Esto de nuevo son noticias para mi [_sic_] ya que yo tenía la impresión de que casi todos mis papers son modelos con imperfecciones de mercado. Bueno debe de ser que mis papers solo existen en un proyecto existencial distinto. Pero quien lo deberá llevar peor son mis estudiantes de doctorado, a los que acabo de meter 15 horas de clase bien intensas (y 3 más que les quedan) de modelos con imperfecciones y que se deberán estar preguntado los pobres que en qué dimensión existencial se han ido esas horas.
 
 Desde mi ignorancia —pero apoyándome en la analogía—, sospecho que la relación entre los modelos con  imperfecciones de mercado de JFV y los que los suponen eficientes deben de parecerse muchísimo a los existentes entre los modelos de dependencia de las series autorregresivas y el ideal universo iid. Pero apostaría a que luego, los mercados ineficientes —igual que las familias infelices y las variables aleatorias no independientes— lo son, también, cada uno de ellos, a su propia manera.
 

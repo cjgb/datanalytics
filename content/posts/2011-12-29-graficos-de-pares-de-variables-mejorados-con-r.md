@@ -16,11 +16,8 @@ tags:
 
 Un gráfico de _pares_ de variables —que no he sabido traducir mejor desde el original inglés _pairplot_— es algo como lo siguiente:
 
-
-
 [![](/wp-uploads/2011/12/pair_plot_traditional.png)
 ](/wp-uploads/2011/12/pair_plot_traditional.png)
-
 
 
 Es posible ahora construir gráficos de pares más sofisticados e informativos usando el paquete `GGally` de R. Usando el código (extraído de _[SAS and R](http://sas-and-r.blogspot.com/2011/12/example-917-much-better-pairs-plots.html)_)
@@ -42,11 +39,6 @@ ggpairs(smallds,
         diag=list(continuous="density", discrete="bar"),
         axisLabels="show")
 {{< / highlight >}}
-
-
-
-
-
 
 
 se obtiene la siguiente versión mejorada:

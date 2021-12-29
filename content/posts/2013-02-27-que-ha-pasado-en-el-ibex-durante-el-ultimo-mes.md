@@ -26,38 +26,41 @@ Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros do
 
 Y, como siempre, el código:
 
+{{< highlight R "linenos=true" >}}
+library(tseries)
+library(zoo)
+library(XML)
+library(reshape)
+library(ggplot2)
+
+foo  <- function(simbolo, final = Sys.time(), profundidad = 30 * 24 * 3600 ){
+  precios <- get.hist.quote(
+    instrument= simbolo, start = final - profundidad,
+    end = final, quote=c("AdjClose"),
+    provider="yahoo", origin="1970-01-01",
+    compression="d", retclass="zoo")
+  colnames(precios) <- simbolo
+  return(precios)
+}
+
+# lista de símbolos del ibex
+
+tmp <- readHTMLTable("http://finance.yahoo.com/q/cp?s=%5EIBEX+Components")[[5]]
+tmp <- as.character(tmp$V1[-(1:6)])
+tmp <- gsub("-P", "", tmp)
+simbolos <- tmp[tmp != "ABG.MC"]
+
+ibex <- do.call(merge, sapply(simbolos, foo, simplify = F))
+
+ibex.scaled <- scale(ibex)
+
+ibex.df <- data.frame(ibex.scaled, fecha = index(ibex.scaled))
+ibex.df <- melt(ibex.df, id.vars = "fecha")
+ibex.df <- ibex.df[ order(ibex.df$fecha, ibex.df$variable), ]
+ibex.df$cluster <- kmeans(data.frame(t(ibex.scaled)), 4)$cluster
+
+ggplot(ibex.df, aes(x=fecha, y=value, group=variable)) +
+        geom_line() + facet_wrap(~cluster)
+{{< / highlight >}}
 
 
-    library(tseries)
-    library(zoo)
-    library(XML)
-    library(reshape)
-    library(ggplot2)
-
-    foo  <- function( simbolo, final = Sys.time(), profundidad = 30 * 24 * 3600 ){
-      precios <- get.hist.quote(instrument= simbolo, start = final - profundidad,
-                                end = final, quote=c("AdjClose"),
-                                provider="yahoo", origin="1970-01-01",
-                                compression="d", retclass="zoo")
-      colnames(precios) <- simbolo
-      return(precios)
-    }
-
-    # lista de símbolos del ibex
-
-    tmp <- readHTMLTable("http://finance.yahoo.com/q/cp?s=%5EIBEX+Components")[[5]]
-    tmp <- as.character(tmp$V1[-(1:6)])
-    tmp <- gsub("-P", "", tmp)
-    simbolos <- tmp[tmp != "ABG.MC"]
-
-    ibex <- do.call(merge, sapply(simbolos, foo, simplify = F))
-
-    ibex.scaled <- scale(ibex)
-
-    ibex.df <- data.frame(ibex.scaled, fecha = index(ibex.scaled))
-    ibex.df <- melt(ibex.df, id.vars = "fecha")
-    ibex.df <- ibex.df[ order(ibex.df$fecha, ibex.df$variable), ]
-    ibex.df$cluster <- kmeans(data.frame(t(ibex.scaled)), 4)$cluster
-
-    ggplot(ibex.df, aes(x=fecha, y=value, group=variable)) +
-            geom_line() + facet_wrap(~cluster)

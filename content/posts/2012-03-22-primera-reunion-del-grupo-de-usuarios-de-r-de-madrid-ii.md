@@ -9,6 +9,8 @@ categories:
 - r
 tags:
 - r
+- anuncios
+- madrid
 ---
 
 Acaba de terminar la primera reunión del grupo de usuarios de R de Madrid. No hemos disfrutado de la más primaveral de las tardes. Y la ubicación era un tanto excéntrica. Pero hemos tenido tres charlas muy interesantes (y luego, la mía, claro), nueve asistentes (¡espero haber contado bien!) y, sobre todo, unos intercambio de ideas sumamente provechosos.

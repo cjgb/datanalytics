@@ -17,10 +17,8 @@ Muy señores míos periodistas de El Economista: déjenme que les recuerde una d
 
 Efectivamente, según la OECD, sólo el 18% de los españoles entre 15 y 24 años son desempleados. Un desempleado es una persona que no tiene trabajo y lo busca activamente. Y se supone que si estudia está... estudiando, no buscando trabajo.
 
-
 [![](/wp-uploads/2012/06/BeattieBlog2new2.gif)
 ](/wp-uploads/2012/06/BeattieBlog2new2.gif)
-
 
 Y esta observación es perfectamente compatible con que la tasa de desempleo en dicho segmento de edad ronde el 50%.
 

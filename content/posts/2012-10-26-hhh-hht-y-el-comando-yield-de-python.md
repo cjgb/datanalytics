@@ -24,73 +24,61 @@ Este pequeño (¿y sorprendente?) ejercicio probabilístico me ha servido de exc
 
 El código es:
 
+{{< highlight python "linenos=true" >}}
+from random import choice
 
+def cadena():
+        a, b, c = (None, None, None)
+        while(True):
+                a, b, c = b, c, choice("HT")
+                yield a,b,c
 
-    <span style="color:#800000; font-weight:bold; ">from random <span style="color:#800000; font-weight:bold; ">import choice
+niter = 100000
+HHH = [0] * niter
+HHT = [0] * niter
 
-    <span style="color:#800000; font-weight:bold; ">def cadena<span style="color:#808030; ">(<span style="color:#808030; ">)<span style="color:#808030; ">:
-            a<span style="color:#808030; ">, b<span style="color:#808030; ">, c <span style="color:#808030; ">= <span style="color:#808030; ">(<span style="color:#e34adc; ">None<span style="color:#808030; ">, <span style="color:#e34adc; ">None<span style="color:#808030; ">, <span style="color:#e34adc; ">None<span style="color:#808030; ">)
-            <span style="color:#800000; font-weight:bold; ">while<span style="color:#808030; ">(<span style="color:#e34adc; ">True<span style="color:#808030; ">)<span style="color:#808030; ">:
-                    a<span style="color:#808030; ">, b<span style="color:#808030; ">, c <span style="color:#808030; ">= b<span style="color:#808030; ">, c<span style="color:#808030; ">, choice<span style="color:#808030; ">(<span style="color:#0000e6; ">"HT"<span style="color:#808030; ">)
-                    <span style="color:#800000; font-weight:bold; ">yield a<span style="color:#808030; ">,b<span style="color:#808030; ">,c
+for i in range(niter):
+        cont = 1
+        gen = cadena()
 
-    niter <span style="color:#808030; ">= <span style="color:#008c00; ">100000
-    HHH <span style="color:#808030; ">= <span style="color:#808030; ">[<span style="color:#008c00; ">0<span style="color:#808030; ">] <span style="color:#808030; ">* niter
-    HHT <span style="color:#808030; ">= <span style="color:#808030; ">[<span style="color:#008c00; ">0<span style="color:#808030; ">] <span style="color:#808030; ">* niter
+        while( True ):
+                seq = gen.next()
+                if seq == ('H', 'H', 'H') and HHH[i] == 0:
+                        HHH[i] = cont
 
-    <span style="color:#800000; font-weight:bold; ">for i <span style="color:#800000; font-weight:bold; ">in <span style="color:#e34adc; ">range<span style="color:#808030; ">(niter<span style="color:#808030; ">)<span style="color:#808030; ">:
-            cont <span style="color:#808030; ">= <span style="color:#008c00; ">1
-            gen <span style="color:#808030; ">= cadena<span style="color:#808030; ">(<span style="color:#808030; ">)
+                if seq == ('H', 'H', 'T') and HHT[i] == 0:
+                        HHT[i] = cont
 
-            <span style="color:#800000; font-weight:bold; ">while<span style="color:#808030; ">( <span style="color:#e34adc; ">True <span style="color:#808030; ">)<span style="color:#808030; ">:
-                    seq <span style="color:#808030; ">= gen<span style="color:#808030; ">.next<span style="color:#808030; ">(<span style="color:#808030; ">)
-                    <span style="color:#800000; font-weight:bold; ">if seq <span style="color:#808030; ">=<span style="color:#808030; ">= <span style="color:#808030; ">(<span style="color:#0000e6; ">'H'<span style="color:#808030; ">, <span style="color:#0000e6; ">'H'<span style="color:#808030; ">, <span style="color:#0000e6; ">'H'<span style="color:#808030; ">) <span style="color:#800000; font-weight:bold; ">and HHH<span style="color:#808030; ">[i<span style="color:#808030; ">] <span style="color:#808030; ">=<span style="color:#808030; ">= <span style="color:#008c00; ">0<span style="color:#808030; ">:
-                            HHH<span style="color:#808030; ">[i<span style="color:#808030; ">] <span style="color:#808030; ">= cont
+                cont += 1
 
-                    <span style="color:#800000; font-weight:bold; ">if seq <span style="color:#808030; ">=<span style="color:#808030; ">= <span style="color:#808030; ">(<span style="color:#0000e6; ">'H'<span style="color:#808030; ">, <span style="color:#0000e6; ">'H'<span style="color:#808030; ">, <span style="color:#0000e6; ">'T'<span style="color:#808030; ">) <span style="color:#800000; font-weight:bold; ">and HHT<span style="color:#808030; ">[i<span style="color:#808030; ">] <span style="color:#808030; ">=<span style="color:#808030; ">= <span style="color:#008c00; ">0<span style="color:#808030; ">:
-                            HHT<span style="color:#808030; ">[i<span style="color:#808030; ">] <span style="color:#808030; ">= cont
+                if( HHH[i] * HHT[i] > 0 ):
+                        break
 
-                    cont <span style="color:#808030; ">+<span style="color:#808030; ">= <span style="color:#008c00; ">1
-
-                    <span style="color:#800000; font-weight:bold; ">if<span style="color:#808030; ">( HHH<span style="color:#808030; ">[i<span style="color:#808030; ">] <span style="color:#808030; ">* HHT<span style="color:#808030; ">[i<span style="color:#808030; ">] <span style="color:#808030; ">> <span style="color:#008c00; ">0 <span style="color:#808030; ">)<span style="color:#808030; ">:
-                            <span style="color:#800000; font-weight:bold; ">break
-
-    <span style="color:#800000; font-weight:bold; ">for x <span style="color:#800000; font-weight:bold; ">in HHH<span style="color:#808030; ">:
-            <span style="color:#800000; font-weight:bold; ">print x<span style="color:#808030; ">;
-    <span style="color:#800000; font-weight:bold; ">for x <span style="color:#800000; font-weight:bold; ">in HHT<span style="color:#808030; ">:
-            <span style="color:#800000; font-weight:bold; ">print x<span style="color:#808030; ">;
-
-
-
+for x in HHH:
+        print x;
+for x in HHT:
+        print x;
+{{< / highlight >}}
 
 La magia está en el comando `yield` en la función `cadena`. Al hacer
 
-
-
-    gen <span style="color:#808030; ">= cadena<span style="color:#808030; ">(<span style="color:#808030; ">)
-
-
-
+{{< highlight python "linenos=true" >}}
+gen = cadena()
+{{< / highlight >}}
 
 se _inicia_ el iterador. Cada vez que uno llama entonces a
 
-
-
-    seq <span style="color:#808030; ">= gen<span style="color:#808030; ">.next<span style="color:#808030; ">(<span style="color:#808030; ">)
-
-
-
+{{< highlight python "linenos=true" >}}
+seq = gen.next()
+{{< / highlight >}}
 
 se ejecuta una iteración del bucle
 
-
-
-    <span style="color:#800000; font-weight:bold; ">while<span style="color:#808030; ">(<span style="color:#e34adc; ">True<span style="color:#808030; ">)<span style="color:#808030; ">:
-         a<span style="color:#808030; ">, b<span style="color:#808030; ">, c <span style="color:#808030; ">= b<span style="color:#808030; ">, c<span style="color:#808030; ">, choice<span style="color:#808030; ">(<span style="color:#0000e6; ">"HT"<span style="color:#808030; ">)
-         <span style="color:#800000; font-weight:bold; ">yield a<span style="color:#808030; ">,b<span style="color:#808030; ">,c
-
-
-
+{{< highlight R "linenos=true" >}}
+while(True):
+        a, b, c = b, c, choice("HT")
+        yield a,b,c
+{{< / highlight >}}
 
 en la función `cadena`, que recuerda entre llamada y llamada el estado de las variables (internas a ella) `a`, `b` y `c` (además de devolver, como haría `return`, el valor generado.
 

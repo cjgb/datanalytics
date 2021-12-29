@@ -9,6 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
+- anuncios
 ---
 
 En 2013 celebraremos el [Año Internacional de la Estadística](http://www.statistics2013.org/). Diversas organizaciones estadísticas, entre las que no veo al INE, se han unido para dar a conocer "la importancia de la estadística en la comunidad científica, el mundo de los negocios, la administración pública, los medios de comunicación, las empresas, los estudiantes y el público en general".

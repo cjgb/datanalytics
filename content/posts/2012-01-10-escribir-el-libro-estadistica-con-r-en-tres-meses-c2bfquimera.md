@@ -9,6 +9,7 @@ categories:
 - r
 tags:
 - r
+- libros
 ---
 
 No sé si es quimera o no. Se me ocurrió el otro día. Dejo mi idea aquí escrita por ver por dónde respira la comunidad.
@@ -23,11 +24,9 @@ _Editado_ en HTML, PDF, etc. Incluso en papel. Con su ISBN y todo. Creative Comm
 
 La manera:
 
-
-
-	  * Un coordinador global de la _obra_, dividida en varios capítulos.
-	  * Un coordinador para cada capítulo, dividido en varias secciones.
-	  * Un redactor para cada sección, consistente en 3-4 hojas que traten un problema concreto.
+* Un coordinador global de la _obra_, dividida en varios capítulos.
+* Un coordinador para cada capítulo, dividido en varias secciones.
+* Un redactor para cada sección, consistente en 3-4 hojas que traten un problema concreto.
 
 El coordinador del capítulo es responsable de garantizar cierto grado de coherencia (estilística, etc.) intracapítulo. El coordinador global es responsable de garantizar la coherencia intercapítulo.
 

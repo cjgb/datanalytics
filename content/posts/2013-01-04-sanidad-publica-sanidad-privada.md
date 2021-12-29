@@ -11,6 +11,7 @@ categories:
 tags:
 - estadística pública
 - gráficos
+- sanidad
 ---
 
 Lo siento. El título es engañoso. No voy a abundar en el tema de modelo sanitario. Aunque esté de moda. Traje a este debate ideas preconcebidas que se me han ido pegando durante años de andar sobre la faz de la tierra. Y mis esfuerzos me ha costado desprenderme cartesianamente de ellas para quedarme a la espera de que alguien me ilumine de manera _clara y distinta_. Solo sospecho que la respuesta no puede resumirse en un monosílabo, que es mixta y con ejércitos de demonios camuflados tras los detalles. Pero lo que opine es prácticamente irrelevante.

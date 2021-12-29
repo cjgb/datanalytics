@@ -9,30 +9,25 @@ categories:
 - r
 tags:
 - r
+- trucos
 ---
 
 La operación que voy a discutir hoy es una que plantea problemas a muchos programadores nuevos en R: cómo renombrar niveles de un factor. Un caso típico ocurre al leer una tabla que contiene datos no normalizados. Por ejemplo,
 
-
-
-    mi.factor <- factor( c("a", "a", "b", "B", "A") )
-
-
+{{< highlight R "linenos=true" >}}
+mi.factor <- factor( c("a", "a", "b", "B", "A") )
+{{< / highlight >}}
 
 donde se entiende que a y A, b y B son la misma cosa. Otro caso similar ocurre cuando se quieren agrupar niveles poco frecuentes como en
 
-
-
-    mi.factor <- factor( c(rep("a", 1000), rep("b", 500), letters[3:10]) )
-
-
+{{< highlight R "linenos=true" >}}
+mi.factor <- factor(c(rep("a", 1000), rep("b", 500), letters[3:10]))
+{{< / highlight >}}
 
 Para homogeneizar la entrada se recomienda sustituir sobre `levels(mi.factor)` así:
 
-
-
-    levels(mi.factor)[ levels(mi.factor) %in% letters[3:10] ] <- "otras"
-
-
+{{< highlight R "linenos=true" >}}
+levels(mi.factor)[levels(mi.factor) %in% letters[3:10]] <- "otras"
+{{< / highlight >}}
 
 El lector interesado podrá comparar la velocidad de ejecución de este procedimiento con otros que se le ocurran (sobre un factor de un tamaño respetable).

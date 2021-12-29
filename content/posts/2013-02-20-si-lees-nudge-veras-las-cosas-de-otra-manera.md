@@ -11,6 +11,8 @@ tags:
 - libros
 - economía
 - sicología
+- thaler
+- sunstein
 ---
 
 Si acabas, como yo, de leer [Nudge](http://en.wikipedia.org/wiki/Nudge_(book)), es probable que comiences a ver las cosas de otra manera.
@@ -26,10 +28,8 @@ E inducido de nuevo por el mismo tomito, piensa: quizás el banco de España en 
 
 Quienes buscasen una hipoteca podrían entonces:
 
-
 * Comprarar fácilmente las ofertas de las distintas entidades para las hipotecas estándar.
 * Optar a la hipoteca básica más conveniente, dado que la comparación sería sencilla.
 * O decantarse _libremente_ por una hipoteca no estándar ofrecida por una entidad pero sabiendo entonces que queda a merced de las maquinaciones nada benéficas —dicen— de los bancos. ¡_Caveat emptor_!
-
 
 Y de eso trata _Nudge_: de mecanismos que, aun preservando la libertad individual, ayuden a la gente a tomar decisiones menos malas especialmente en aquellas circunstancias en que es más complicado por motivos tales como la falta de información, el desfase entre el momento en que se toma la decisión y aquel en el que aparecen las consecuencias y otras en el que el ser humano actúa como, dicho en plata, un soberano pendejo.

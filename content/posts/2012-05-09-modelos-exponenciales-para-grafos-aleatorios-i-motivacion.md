@@ -10,6 +10,7 @@ categories:
 tags:
 - estadística
 - redes sociales
+- grafos
 ---
 
 Sea un colegio y $latex a_i$ sus alumnos. Sea $latex y_{ij} \in \{0,1\}$ el indicador de que el alumno _i_ es amigo del alumno _j_. Con eso tenemos montado un grafo (o, si se prefiere, una red social).
@@ -21,7 +22,6 @@ Por ejemplo, en el grafo que describo más arriba, cabría preguntarse si hay re
 ¿De qué modo puede medirse este tipo de características en una red? ¿Qué tipo de parámetro puede estimarse (preferiblemente con sus intervalos de confianza) que muestre que en el grafo existe una predisposición a la reciprodidad?
 
 Aparte de este tipo de relaciones, existen otras muchas que los expertos buscan en sus conjuntos de datos. Por ejemplo, algunas de las siguientes:
-
 
 [![](/wp-uploads/2012/05/configuraciones_grafos.png)
 ](/wp-uploads/2012/05/configuraciones_grafos.png)

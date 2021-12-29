@@ -13,6 +13,8 @@ tags:
 - estadística
 - números
 - r
+- dhondt
+- banzhaf
 ---
 
 Hablé el otro día con Emilio Torres y comentamos de pasada la situación política en Asturias, donde vive, después de las últimas elecciones. El escaño obtenido por UPyD otorgaba a tal partido un poder en exceso del tamaño de su representación porque era clave para formar el futuro gobierno del principado. Pero, ¿cuánto poder realmente supone ese escaño en esas condiciones? ¿Puede cuantificarse?
@@ -23,47 +25,43 @@ Existe un método, el [índice de poder de Banzhaf](http://www.esi2.us.es/~mbilb
 
 Veamos cómo calcular este índice con R y lo utilizaremos para cuantificar el valor de ese escaño:
 
+{{< highlight R "linenos=true" >}}
+escannos <- c(17,12,10,5,1)
+names(escannos) <- c( "psoe", "fac", "pp", "iu", "upyd")
 
+banzhaf <- function(x){
+  x <- -sort(-x)
+  x <- x/sum(x)
 
-    escannos <- c(17,12,10,5,1)
-    names(escannos) <- c( "psoe", "fac", "pp", "iu", "upyd")
+  foo <- function(a,b,p){
+    if(p>1/2)
+      return(list(a))
 
-    banzhaf <- function(x){
-      x <- -sort(-x)
-      x <- x/sum(x)
+    if (length(b)==0)
+      return(NULL)
 
-      foo <- function(a,b,p){
-        if(p>1/2)
-          return(list(a))
+    b.prima <- b[-1]
+    delta <- b[1]
+    p.delta <- x[delta]
 
-        if (length(b)==0)
-          return(NULL)
+    return(c( foo(c(a,delta), b.prima, p+p.delta), foo(a,b.prima,p)) )
+  }
 
-        b.prima <- b[-1]
-        delta <- b[1]
-        p.delta <- x[delta]
+  res <- foo( NULL, names(x), 0)
 
-        return(c( foo(c(a,delta), b.prima, p+p.delta), foo(a,b.prima,p)) )
-      }
+  sort( table(unlist(res)) / length(res) )
 
-      res <- foo( NULL, names(x), 0)
+}
 
-      sort( table(unlist(res)) / length(res) )
-
-    }
-
-    banzhaf( escannos )
-
-
+banzhaf(escannos)
+{{< / highlight >}}
 
 El resultado es:
 
-
-    <code>  iu upyd  fac   pp psoe
-     0.4  0.4  0.6  0.6  0.6
-    </code>
-
-
+{{< highlight R "linenos=true" >}}
+# iu upyd  fac   pp psoe
+#  0.4  0.4  0.6  0.6  0.6
+{{< / highlight >}}
 
 Es decir, el escaño de UPyD le concede el mismo poder (según Banzhaf) que los cinco de IU. Y la diferencia de siete escaños entre el PP y el PSOE no le concede a este último cuota de poder adicional alguna.
 
@@ -71,12 +69,14 @@ Existen limitaciones obvias a este indicador que resultarán evidentes a quien p
 
 Pero sí que dejaré, por referencia, otra aplicación de este índice al resultado de las últimas elecciones generales:
 
+{{< highlight R "linenos=true" >}}
+generales <- c(186,110,16,11,7,5,5,3,2,2,1,1,1)
+names(generales) <- c("pp", "psoe", "ciu", "iu", "amaiur", "upyd",
+    "pnv", "esquerra", "bng", "cc", "compromis", "fac", "gbai")
+
+banzhaf( generales )
+# pp
+#  1
+{{< / highlight >}}
 
 
-    generales <- c(186,110,16,11,7,5,5,3,2,2,1,1,1)
-    names(generales) <- c("pp", "psoe", "ciu", "iu", "amaiur", "upyd",
-       "pnv", "esquerra", "bng", "cc", "compromis", "fac", "gbai")
-
-    banzhaf( generales )
-    # pp
-    #  1

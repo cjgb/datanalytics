@@ -10,9 +10,10 @@ categories:
 tags:
 - ec
 - números
+- anumerismo
 ---
 
-En España, lo de las balanzas fiscales es como lo de las manifestaciones: un número que se tiran a la cabeza y con muy mala baba tirios y troyanos. La cantinela que más se oye es la de la <del>prensa periférica</del> (perdón, prensa de la parte este de la periferia: existen otras _periferias_ que callan como palabras de cuatro letras): dizque Cataluña aporta mucho más a la hacienda pública que lo que después recibe de ella por inversiones y servicios.
+En España, lo de las balanzas fiscales es como lo de las manifestaciones: un número que se tiran a la cabeza y con muy mala baba tirios y troyanos. La cantinela que más se oye es la de la _prensa periférica_ (perdón, prensa de la parte este de la periferia: existen otras _periferias_ que callan como palabras de cuatro letras): dizque Cataluña aporta mucho más a la hacienda pública que lo que después recibe de ella por inversiones y servicios.
 
 El interesado en este asunto puede echarle un vistazo a su [página de la Wikipedia](http://es.wikipedia.org/wiki/Balanzas_Fiscales_Comunidades_Aut%C3%B3nomas) y, en particular, al documento que describe los [métodos usados para calcular las balanzas fiscales](http://www.meh.es/Documentacion/Publico/GabineteMinistro/Varios/BalanzasFiscalesCCAA.pdf).
 

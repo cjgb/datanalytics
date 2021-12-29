@@ -10,6 +10,8 @@ categories:
 tags:
 - anumerismo
 - números
+- stiglitz
+- desigualdad
 ---
 
 Esta semana me he enterado (con un mes de retraso, ¡qué vergüenza!) de que Stiglitz ha publicado un nuevo libro: [El precio de la desigualdad](http://www.amazon.com/The-Price-Inequality-Endangers-ebook/dp/B007MKCQ30). Se ve que en él argumenta el nóbel cómo esta no solo es mala para la economía sino que también afecta a la democracia.
@@ -17,12 +19,19 @@ Esta semana me he enterado (con un mes de retraso, ¡qué vergüenza!) de que St
 Se refiere, por si alguien no se había dado cuenta todavía, a la desigualdad económica... pero...
 
 — Buenos días, señor mileurista.
+
 — Buenos días tenga Vd.
+
 — ¿Le apetecería un incremento de su sueldo en un 15 %? ¿Una bajada del IVA, tal vez?
+
 — ¡Venga!
+
 — Y qué prefiere, un 50 % más de café gratis o un descuento del 40 % en el precio del paquete de a kilo?
+
 — ¡Me decanto por lo primero!
+
 — Pero, ¡señor mío!, la primera opción equivale a un descuento de un 33 % en el precio... ¡y le ofrecía un 40%! ¿No querrá recibir (y gratis, además) rudimentos sobre fracciones?
+
 — Pues va a ser que no.
 
 Como nuestro mileurista huye, retomo el discurso para añadir cómo me resulta curioso que coexistan democracia y desigualdad económica. La desigualdad económica existe porque —incluso, consiste en que— más de la mitad de la población se ve privada de algo que considera deseable: tener más recursos económicos, vivir más desahogadamente. Podría un marciano inteligente pensar que los terrícolas solo se avendrían a padecerla bajo regímenes dictatoriales, pero jamás si los gobiernos pudieran ser desalojados en elecciones en que cada persona contase con un voto. Pobres los marcianos inteligentes: ¡no se enteran de nada!

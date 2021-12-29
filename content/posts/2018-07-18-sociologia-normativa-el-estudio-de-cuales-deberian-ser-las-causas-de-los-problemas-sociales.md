@@ -22,7 +22,7 @@ Un ejemplo:
 
 >Los narcopisos son propiedad de bancos y fondos buitre, quienes no les desalojan ¿Por qué? Porque los narcopisos se utilizan para estigmatizar al movimiento de vivienda que recupera pisos para familias desahuciadas, que son propiedad de esos mismos bancos [https://t.co/rcTUoqry1F](https://t.co/rcTUoqry1F)
 >
-> -- Javier Gil (@Gil_JavierGil) [14 de julio de 2018](https://twitter.com/Gil_JavierGil/status/1018098153474723840?ref_src=twsrc%5Etfw)</blockquote>
+> -- Javier Gil (@Gil_JavierGil) [14 de julio de 2018](https://twitter.com/Gil_JavierGil/status/1018098153474723840?ref_src=twsrc%5Etfw)
 
 Dice, en resumen, que:
 

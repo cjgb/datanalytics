@@ -21,10 +21,8 @@ No sé por qué he venido a pensar —y escribir— sobre el asunto, pero me atr
 
 Está en una página tal vez insospechada: la que cuenta qué es un [bien público](http://en.wikipedia.org/wiki/Public_good). Y un bien público es uno que tiene estas dos características:
 
-
-
-	  * No rivalidad: "la rivalidad en el consumo de un producto implica que el consumo por parte de un individuo impide el uso por otros"
-	  * No exclusión: "imposibilidad de excluir del consumo de un producto a determinadas personas"
+* No rivalidad: "la rivalidad en el consumo de un producto implica que el consumo por parte de un individuo impide el uso por otros"
+* No exclusión: "imposibilidad de excluir del consumo de un producto a determinadas personas"
 
 Antaño la prensa caía dentro de lo que la Wikipedia define como [bienes _club_](http://es.wikipedia.org/wiki/Bienes_club): se podía excluir del consumo (lectura) de un reportaje a quien no pagase el precio de un periódico; pero este no se _gastaba _porque lo leyesen 100, 1000 o 100000 personas más.
 

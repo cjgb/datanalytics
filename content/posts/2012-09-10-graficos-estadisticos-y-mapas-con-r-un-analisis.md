@@ -11,6 +11,7 @@ categories:
 tags:
 - gráficos
 - r
+- mapas
 ---
 
 Me dispongo hoy a analizar el libro _[Gráficos estadísticos y mapas con R](http://www.datanalytics.com/blog/2012/07/02/graficos-estadisticos-y-mapas-con-r/)_ que anuncié hace unos días, aun sin haber tenido oportunidad de hojearlo.

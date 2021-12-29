@@ -17,6 +17,5 @@ Gentileza de [Juanjo Gibaja](http://www.jjgibaja.net/), tenemos en Youtube una [
 
 Y dejo aquí uno de los de la serie:
 
-
-http://www.youtube.com/watch?v=5-kQWu7Uag8
+{{< yuotube 5-kQWu7Uag8 >}}
 

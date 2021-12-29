@@ -19,12 +19,10 @@ El informe de BCE recogía la media y la mediana del patrimonio de los hogares p
 
 Los medios españoles se hicieron eco de la noticia y publicaron artículos como:
 
-
-
-	  * [Los españoles, ¿más ricos que los alemanes?](http://www.elmundo.es/elmundo/2013/03/22/economia/1363953835.html) en El Mundo, en el que se confunde media y mediana.
-	  * [Un estudio revela que los hogares españoles tienen más riqueza que los alemanes](http://www.lavozdegalicia.es/noticia/economia/2013/03/22/estudio-revela-hogares-espanoles-riqueza-alemanes/00031363947920312862625.htm) en La Voz de Galicia.
-	  * [Un estudio del Bundesbank señala que los hogares españoles son más ricos que los alemanes ](http://www.cadenaser.com/internacional/articulo/estudio-bundesbank-senala-hogares-espanoles-ricos-alemanes/csrcsrpor/20130322csrcsrint_3/Tes) en la Ser
-	  * [Prestigiosos medios alemanes afirman enfadados que los españoles son más ricos que los alemanes](http://noticias.lainformacion.com/mundo/prestigiosos-medios-alemanes-afirman-enfadados-que-los-espanoles-son-mas-ricos-que-los-alemanes_bynbJI5qq6VMoF4pRTimq1/) en La Información.
+* [Los españoles, ¿más ricos que los alemanes?](http://www.elmundo.es/elmundo/2013/03/22/economia/1363953835.html) en El Mundo, en el que se confunde media y mediana.
+* [Un estudio revela que los hogares españoles tienen más riqueza que los alemanes](http://www.lavozdegalicia.es/noticia/economia/2013/03/22/estudio-revela-hogares-espanoles-riqueza-alemanes/00031363947920312862625.htm) en La Voz de Galicia.
+* [Un estudio del Bundesbank señala que los hogares españoles son más ricos que los alemanes ](http://www.cadenaser.com/internacional/articulo/estudio-bundesbank-senala-hogares-espanoles-ricos-alemanes/csrcsrpor/20130322csrcsrint_3/Tes) en la Ser
+* [Prestigiosos medios alemanes afirman enfadados que los españoles son más ricos que los alemanes](http://noticias.lainformacion.com/mundo/prestigiosos-medios-alemanes-afirman-enfadados-que-los-espanoles-son-mas-ricos-que-los-alemanes_bynbJI5qq6VMoF4pRTimq1/) en La Información.
 
 y otros que se pueden encontrar por ahí. Algunos de ellos —salvo el de El Mundo, que confunde los conceptos— discuten la relación entre media y mediana y la elección torticera del segundo estadístico por parte del Bundesbank.
 

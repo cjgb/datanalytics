@@ -12,6 +12,7 @@ tags:
 - estadística
 - percepción del riesgo
 - probabilidad
+- micromuertes
 ---
 
 Hablamos ya hace un tiempo de las [micromuertes](http://www.datanalytics.com/blog/2011/06/01/micromuertes/). Ahora toca traer a la atención de mis lectores un concepto asociado, el de las [microvidas](http://understandinguncertainty.org/microlives).
@@ -25,10 +26,6 @@ Microvidas y micromuertes son conceptos análogos, pero no enteramente equivalen
 
 En el artículo original de Spiegelhalter aparece también un cálculo aproximado del valor de una microvida y una micromuerte:
 
-
-
-<blockquote>El UK National Institute for Health and Clinical Excellence (NICE) sugiere que el National Health Service pague hasta 30.000 libras por un tratamiento que alargue la vida en un año, es decir, unas 17.500 microvidas. Esto equivale a valorarlas en unos £1.70. El UK Department of Transport valora _una vida estadística_ en 1.600.000 libras. Esto significa que están dispuestos a pagar 1,60 libras para evitar una probabilidad de muerte de una en un millón, es decir, una micromuerte.</blockquote>
-
-
+>El UK National Institute for Health and Clinical Excellence (NICE) sugiere que el National Health Service pague hasta 30.000 libras por un tratamiento que alargue la vida en un año, es decir, unas 17.500 microvidas. Esto equivale a valorarlas en unos £1.70. El UK Department of Transport valora _una vida estadística_ en 1.600.000 libras. Esto significa que están dispuestos a pagar 1,60 libras para evitar una probabilidad de muerte de una en un millón, es decir, una micromuerte.
 
 ¿Serán similares las cifras en España? ¿Alguna idea sobre cómo averiguarlo?

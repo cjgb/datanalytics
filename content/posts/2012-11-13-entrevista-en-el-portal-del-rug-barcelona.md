@@ -7,6 +7,7 @@ title: Entrevista en el portal del RUG Barcelona
 url: /2012/11/13/entrevista-en-el-portal-del-rug-barcelona/
 categories:
 - r
+- anuncios
 tags:
 - jornadas
 - r

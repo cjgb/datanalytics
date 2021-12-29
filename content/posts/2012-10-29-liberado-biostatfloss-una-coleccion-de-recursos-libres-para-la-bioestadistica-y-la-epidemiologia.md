@@ -25,12 +25,10 @@ El _software_ (que incluye R como _programa estrella_) ha sido _portabilizado_ �
 
 El _software_ está categorizado de la siguiente manera:
 
-
-
-	  * R: R, RCommander, RStudio, Deducer, Red-R y Tinn-R (como editor)
-	  * Bioestadística: Octave, PSPP, SOFA Statistics, SciLab, WinBUGS y FreeMat
-	  * Epidemiología: Epidat 4, Epi Info 7 y OpenEpi
-	  * Ofimática: LibreOffice, Firefox y Sunbird
+* R: R, RCommander, RStudio, Deducer, Red-R y Tinn-R (como editor)
+* Bioestadística: Octave, PSPP, SOFA Statistics, SciLab, WinBUGS y FreeMat
+* Epidemiología: Epidat 4, Epi Info 7 y OpenEpi
+* Ofimática: LibreOffice, Firefox y Sunbird
 
 
 La idea es conseguir que cualquiera pueda utilizar este tipo de programas en cualquier entorno bajo Windows. Al no necesitar instalación (simplemente se descarga el fichero, se descomprime y ya está listo para usar) está indicado para _entornos hostiles_ (que necesitan permisos de administrador para instalar software), aulas de formación (se puede descomprimir y ejecutar desde un pendrive, por ejemplo), etc.

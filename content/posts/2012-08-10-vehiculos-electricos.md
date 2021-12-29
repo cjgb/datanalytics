@@ -9,6 +9,8 @@ categories:
 - números
 tags:
 - números
+- cambio climático
+- coche eléctrico
 ---
 
 En [McKinsey Quarterly](http://www.mckinseyquarterly.com/Energy_Resources_Materials/Electric_Power/Battery_technology_charges_ahead_2997) di con este gráfico

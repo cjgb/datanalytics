@@ -13,6 +13,7 @@ tags:
 - estadística
 - números
 - rankings
+- wert
 ---
 
 Me voy a sumar al rol de bitácoras que hablan del ministro Wert. No lo conocía de nada pero el día de su nombramiento, El País publicó un artículo suyo —que no he podido ubicar— en el que, como sociólogo, analizaba ciertos resultados electorales. Ese detalle me hizo pensar que me iba a caer bien el hombre. Y, pobre, no para de dar y recibir disgustos.
@@ -23,8 +24,6 @@ Así que me llama la atención cómo se ha presentado la noticia en la prensa. P
 
 
 >La evaluación educativa deberá cumplir con los requisitos de confidencialidad en el tratamiento de la información, de participación de todos los sectores implicados, de respeto a la intimidad de las personas en todo el proceso de indagación y recogida de datos, de objetividad y de publicidad de los resultados obtenidos.
-
-
 
 Es decir, se limita a recordar que el secreto estadístico rige en la manipulación estadística de los datos con que se elaborarían las posibles evaluaciones.
 
@@ -38,17 +37,14 @@ Lo que venía yo a contar, sin embargo, es que estoy, de entrada, en contra de l
 
 >Cuando los investigadores examinaron 42 hospitales infantiles, descubrieron que los _rankings_ no eran tan precisos como la gente puede pensar. Tras compararlos con un mazo de cartas barajeado al azar el Dr. Chris Feudtner, del Children's Hospital of Philadelphia confirmó a Reuters Health que los _rankings_ pueden depender de la suerte.
 
-
 ¿Cómo puede ser que "Cantando bajo la lluvia" ocupe el décimo puesto si odio ese tipo de películas? ¿Qué criterios se utilizaron para puntuarlas? ¿Contó alguien con _mis_ gustos personales?
 
 (Esta aversión a los _ránkings_ me ha costado también algún problema profesional: hace poco quisieron contratarme para que ayudase a crear uno de empresas según criterios de responsabilidad social corporativa y... bueno, les conté mi opinión y no han vuelto a llamar).
 
 La evaluación de los colegios debería darse a conocer por varios motivos:
 
-
 * Porque los pagamos entre todos y tenemos derecho a saber cómo funcionan y cuáles nos convienen.
 * Porque de alguna manera ya se realizan y los datos obtenidos no son propiedad exclusiva de las administraciones públicas: todos tenemos (o [deberíamos tener](http://www.datanalytics.com/blog/tag/datos-abiertos/)) derecho a echarles un ojo.
 * Porque, salvaguardando el secreto estadístico no hay motivo para no hacerlo (y este punto es, tal vez paradójicamente, el más importante: los datos deberían ser públicos no de haber un motivo para ello sino siempre que no hubiese un motivo para lo contrario).
-
 
 Eso sí, Sr. Wert. Y de esto sabe Vd. tanto o más que yo: no les dé forma de _ránking_. Cree más bien diversas dimensiones con la debida granularidad (y transparencia) y deje que seamos nosotros —que somos lo suficientemente mayorcitos como para, incluso, completar la declaración de la renta— los que demos a cada una de ellas el peso que nos venga en gana.

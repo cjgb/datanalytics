@@ -10,6 +10,7 @@ categories:
 tags:
 - gráficos
 - libros
+- cairo
 ---
 
 Hoy no voy a escribir una entrada propiamente porque me acabo de comprar _[El arte funcional](http://www.elartefuncional.com/)_ y voy a estar entretenido devorándolo estos días. 

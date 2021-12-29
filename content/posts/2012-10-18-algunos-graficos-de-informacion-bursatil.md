@@ -20,35 +20,30 @@ Hoy voy a presentar algunos gráficos de información bursátil adaptados a part
 
 Por si pueden servir de algo a otros, los reproduzco y comento aquí. Primero, hay que importar las librerías necesarias:
 
-
-
-    library(<a href="http://inside-r.org/packages/cran/PerformanceAnalytics">PerformanceAnalytics)
-    library(zoo)
-    library(tseries)
-
-
+{{< highlight R "linenos=true" >}}
+library(PerformanceAnalytics)
+library(zoo)
+library(tseries)
+{{< / highlight >}}
 
 Luego, descargar datos de cotizaciones (de Telefónica, cuyo símbolo es TEF.MC) de Yahoo.
 
-
-
-    precios.TEF <- get.hist.quote(instrument="TEF.MC", start="1998-01-01",
-                                  end="2012-10-15", quote="AdjClose",
-                                  provider="yahoo", origin="1970-01-01",
-                                  compression="m", retclass="zoo")
-    rent.TEF <- diff(log(precios.TEF))
-
-
+{{< highlight R "linenos=true" >}}
+precios.TEF <- get.hist.quote(
+    instrument="TEF.MC", start="1998-01-01",
+    end="2012-10-15", quote="AdjClose",
+    provider="yahoo", origin="1970-01-01",
+    compression="m", retclass="zoo")
+rent.TEF <- diff(log(precios.TEF))
+{{< / highlight >}}
 
 Nótese que estoy solicitando datos desde 1998 hasta el 15 de octubre de 2012. Además, sólo una observación por mes (a través de la opción `compression`). Finalmente, de las varias columnas de información que ofrece Yahoo (precio de apertura, cierre, máximo, mínimo, etc.) me quedo con el `AdjClose`, es decir, el cierre ajustado. Es el precio que incluye (o tiene en cuenta) fenómenos de relevancia económica pero no reflejados en los precios de cierre tales como los dividendos, los _splits_, etc.
 
 Haciendo
 
-
-
-    chart.TimeSeries(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
-
-
+{{< highlight R "linenos=true" >}}
+chart.TimeSeries(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
+{{< / highlight >}}
 
 se obtiene entonces
 
@@ -57,11 +52,9 @@ se obtiene entonces
 
 Alternativamente, también puede hacerse
 
-
-
-    chart.Bar(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
-
-
+{{< highlight R "linenos=true" >}}
+chart.Bar(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
+{{< / highlight >}}
 
 para obtener
 
@@ -70,13 +63,12 @@ para obtener
 
 La función `chart.CumReturns` con los parámetros que aparecen en
 
-
-
-    chart.CumReturns(diff(precios.TEF)/lag(precios.TEF, k = -1),
-                     legend.loc="topleft", wealth.index = TRUE,
-                     main="Valor actual de una inversión de 1€")
-
-
+{{< highlight R "linenos=true" >}}
+chart.CumReturns(
+    diff(precios.TEF)/lag(precios.TEF, k = -1),
+    legend.loc="topleft", wealth.index = TRUE,
+    main="Valor actual de una inversión de 1€")
+{{< / highlight >}}
 
 representa el valor a lo largo del tiempo de un euro invertido al principio de la serie temporal, es decir, este ruinoso negocio:
 
@@ -85,24 +77,27 @@ representa el valor a lo largo del tiempo de un euro invertido al principio de l
 
 Finalmente, haciendo
 
+{{< highlight R "linenos=true" >}}
+ret.mat <- coredata(rent.TEF)
 
+# here are the 4 panel plots
+par(mfrow = c(2, 2))
 
-    ret.mat <- coredata(rent.TEF)
+hist(ret.mat[,1],
+    main = "Rentabilidad Mensual de TEF",
+    xlab = "VBLTX", probability = TRUE, col = "slateblue1")
+boxplot(ret.mat[,1],outchar=T,
+    main="Boxplot", col="slateblue1")
+plot(density(ret.mat[,1]),
+    type = "l", main = "Densidad suavizada",
+    xlab = "rentabilidad mensual",
+    ylab = "estimación de la densidad",
+    col = "slateblue1")
+qqnorm(ret.mat[,1], col = "slateblue1")
+qqline(ret.mat[,1])
 
-    # here are the 4 panel plots
-    par(mfrow = c(2, 2))
-
-    hist(ret.mat[,1], main = "Rentabilidad Mensual de TEF",
-         xlab = "VBLTX", probability = TRUE, col = "slateblue1")
-    boxplot(ret.mat[,1],outchar=T, main="Boxplot", col="slateblue1")
-    plot(density(ret.mat[,1]), type = "l", main = "Densidad suavizada",
-         xlab = "rentabilidad mensual", ylab = "estimación de la densidad", col = "slateblue1")
-    qqnorm(ret.mat[,1], col = "slateblue1")
-    qqline(ret.mat[,1])
-
-    par(mfrow = c(1, 1))
-
-
+par(mfrow = c(1, 1))
+{{< / highlight >}}
 
 se construye el gráfico
 

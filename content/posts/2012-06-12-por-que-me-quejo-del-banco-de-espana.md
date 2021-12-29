@@ -11,6 +11,7 @@ categories:
 tags:
 - finanzas
 - números
+- bde
 ---
 
 Siempre que puedo, aprovecho para hablar bien del Banco de España. Trabajé en él seis meses, precisamente en algo que se llamaba algo así como el sistema informacional de la central de riesgos (bancarios). A quien no tiene prisa me gusta contarle lo que ahí hice con SAS y Oracle, uno de esos pocos trabajos que me han dejado completar a mi gusto.

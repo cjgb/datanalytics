@@ -21,11 +21,7 @@ Mirad los siguientes datos correspondientes al 2009:
 
 Indican que en tal año, 16.7 millones de españoles declararon rendimientos del trabajo por un importe medio de casi 20.000 euros por barba, etc. Pero prestad atención a los _rendimientos de actividades económicas_, que [son](http://www.fiscal-impuestos.com/3-rendimientos-de-actividades-economicas.html)
 
-
-
-<blockquote>las actividades extractivas, de fabricación, de comercio, de prestación de servicios, artesanía, actividad agrícola, actividad forestal, actividad ganadera, actividad pesquera, actividad de construcción, ejercicio de profesiones liberales, ejercicio de profesiones artísticas y actividades deportivas.</blockquote>
-
-
+>las actividades extractivas, de fabricación, de comercio, de prestación de servicios, artesanía, actividad agrícola, actividad forestal, actividad ganadera, actividad pesquera, actividad de construcción, ejercicio de profesiones liberales, ejercicio de profesiones artísticas y actividades deportivas.
 
 Es decir, los ingresos de los autónomos.
 

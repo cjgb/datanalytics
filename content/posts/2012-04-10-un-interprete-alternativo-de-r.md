@@ -18,10 +18,8 @@ Java es un lenguaje de programación que puede ejecutarse sobre muchas máquinas
 
 El código escrito en R puede ejecutarse, en principio, en dos plataformas distintas:
 
-
-
-	  * La creada por el _R Development Core Team_ y que todos, más o menos, conocemos.
-	  * La desarrollada por Tibco (y, previamente, por Insightful) para S-Plus, el dialecto propietario de R (o S).
+* La creada por el _R Development Core Team_ y que todos, más o menos, conocemos.
+* La desarrollada por Tibco (y, previamente, por Insightful) para S-Plus, el dialecto propietario de R (o S).
 
 ¿Son esas todas las opciones? Sí, por el momento.
 

@@ -18,7 +18,7 @@ Me refiero a estas:
 
 >Es que es muy ridículo tu afan por aplicar tus promedios frívolamente a los fenómenos más variados para ofrecer predicciones que casi nunca se cumplen. No tiene que ver con el modelo estadístico, sino con el pésimo periodismo paracientífico que haces [https://t.co/kD6bxknMFp](https://t.co/kD6bxknMFp)
 >
-> -- Guillermo López (@GuillermoLPD) [9 de julio de 2018](https://twitter.com/GuillermoLPD/status/1016423498078654464?ref_src=twsrc%5Etfw)</blockquote>
+> -- Guillermo López (@GuillermoLPD) [9 de julio de 2018](https://twitter.com/GuillermoLPD/status/1016423498078654464?ref_src=twsrc%5Etfw)
 
 La historia, resumida, es que Kiko Llaneras publica sus [predicciones para el mundial en El País](https://elpais.com/deportes/2018/06/04/actualidad/1528063475_409937.html), i.e.,
 

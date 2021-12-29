@@ -9,6 +9,8 @@ categories:
 - números
 tags:
 - números
+- iva
+- irpf
 ---
 
 Sé lo justito sobre estos temas. Lo justito como para no entender nada. Seguro que las cosas no son tan fáciles como yo creo entenderlas y estoy seguro de que algún lector me las sabrá _complicar_ (con algún párrafo que comience algo así como _no son tan fáciles las cosas porque..._) para que las comprenda.

@@ -23,13 +23,9 @@ Esto me pasa por madrugar en lunes. Me levanto y me tropiezo con noticias como e
 
 Ha sido reproducida en términos similares en otros medios. Es decir, incidiendo en la presunta causalidad de la subida del precio de los medicamentos en la subida del IPC de julio (el índice adelantado; el definitivo se conocerá a mediados de agosto). Sin embargo, la nota de prensa del INE, la única información con la que se cuenta a esta hora y que no incluye desgloses dice textualmente (aunque con mi subrayado):
 
-
-
-<blockquote>La inflación anual estimada del IPC en julio de 2012 es del 2,2%, de acuerdo con el indicador adelantado elaborado por el INE.
-Este indicador proporciona un avance del IPC que, en caso de confirmarse, supondría un aumento de tres décimas en su tasa anual, ya que en el mes de junio esta variación fue del 1,9%.
-En este resultado _destaca_ la subida de los precios de los medicamentos y otros productos farmacéuticos.</blockquote>
-
-
+>La inflación anual estimada del IPC en julio de 2012 es del 2,2%, de acuerdo con el indicador adelantado elaborado por el INE.
+>Este indicador proporciona un avance del IPC que, en caso de confirmarse, supondría un aumento de tres décimas en su tasa anual, ya que en el mes de junio esta variación fue del 1,9%.
+>En este resultado _destaca_ la subida de los precios de los medicamentos y otros productos farmacéuticos.
 
 Si algo queda claro es que el INE no dice de ninguna manera que la subida del precio de los productos del subgrupo _medicamentos y otros productos farmacéuticos_ haya causado el aumento del IPC. Se limita a decir que _destaca_ la subida de precios en ese grupo.
 

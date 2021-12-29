@@ -4,7 +4,7 @@ date: 2012-03-08 07:44:41+00:00
 draft: false
 title: ¿Varianza explicada?
 
-url: /2012/03/08/%c2%bfvarianza-explicada/
+url: /2012/03/08/varianza-explicada/
 categories:
 - computación
 - estadística
@@ -19,17 +19,13 @@ Sin darnos cuenta, abusamos de ciertos términos. Uno de ellos es el de la _vari
 
 Tal vez sea más sencillo comenzar exponiendo la crítica realizada en esa página. Parte del análisis de la serie de muertes en Chicago entre 1987 y el 2000:
 
-
 [![](/wp-uploads/2012/03/mortalidad_chicago.png)
 ](/wp-uploads/2012/03/mortalidad_chicago.png)
 
-
 A la serie le ajusta un modelo simple basado en [_splines_](http://en.wikipedia.org/wiki/Smoothing_spline), `y = f(t) + ruido`, que da el siguiente ajuste:
-
 
 [![](/wp-uploads/2012/03/mortalidad_chicago_predicha.png)
 ](/wp-uploads/2012/03/mortalidad_chicago_predicha.png)
-
 
 El _R_2 del ajuste es 0.35 y el autor se pregunta: ¿es adecuado denominar a este número varianza _explicada_? Porque, ¿_explica_ realmente la fecha el que haya más o menos muertos en un día determinado? ¿No viene a ser eso, poco más o menos, lo que nos cuentan los fabricantes de horóscopos?
 
@@ -39,16 +35,14 @@ Y ahora mi caso.
 
 Trabajo con un sistema distribuido (y relativamente grande) de almacenamiento de datos. Estos están repartidos en +300 servidores interconectados. Tengo unos cuantos miles de consultas de las que conozco el tiempo de ejecución y otras variables asociadas:
 
-
-
-	  * `sumIO`, suma de los bytes escritos/leídos por cada servidor
-	  * `maxIO`, el máximo IO
-	  * `sumCPU` (en segundos)
-	  * maxCPU
-	  * número de filas devueltas
-	  * número de pasos de la consula (posiblemente correlacionado con su complejidad)
-	  * uso de _spool_, es decir, espacio de disco para datos intermedios
-	  * tiempo que la consulta está encolada en espera de ejecución
+* `sumIO`, suma de los bytes escritos/leídos por cada servidor
+* `maxIO`, el máximo IO
+* `sumCPU` (en segundos)
+* maxCPU
+* número de filas devueltas
+* número de pasos de la consula (posiblemente correlacionado con su complejidad)
+* uso de _spool_, es decir, espacio de disco para datos intermedios
+* tiempo que la consulta está encolada en espera de ejecución
 
 etc.
 

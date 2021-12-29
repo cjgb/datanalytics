@@ -4,7 +4,7 @@ date: 2012-04-25 07:05:16+00:00
 draft: false
 title: España, ¿radial? (I)
 
-url: /2012/04/25/espana-%c2%bfradial-i/
+url: /2012/04/25/espana-radial-i/
 categories:
 - números
 - r
@@ -18,58 +18,56 @@ Me propuse hace un tiempo combinar lo que aprendí creando [rutas callejeras por
 
 Así que, en primer lugar, cargué los paquetes de R necesarios, un fichero que creé que contenía las capitales de provincia, su latitud, su longitud y la población de las respectivas provincias y fabriqué una red de carreteras muy ineficiente que unía todos los nodos entre sí:
 
+{{< highlight R "linenos=true" >}}
+library(maptools)
+library(pxR)
+library(igraph)
+library(geosphere)
+
+## datos: provincias y población
+
+nodos <- read.table( "http://www.datanalytics.com/uploads/prov_pop_lat_lon.txt",
+              sep = ",", dec = ",", header = T, encoding = "latin1")
+
+## aristas
+
+distancia <- function(p1, p2, nodos){
+  alfa  <- c(nodos$lon[nodos$prov==p1], nodos$lat[nodos$prov==p1] )
+  omega <- c(nodos$lon[nodos$prov==p2], nodos$lat[nodos$prov==p2] )
+  distCosine( alfa, omega ) / 1000	# kms.
+}
+
+aristas <- expand.grid(nodos$prov, nodos$prov)
+colnames(aristas) <- c("desde", "hasta")
+aristas <- aristas[ as.character(aristas$desde) < as.character(aristas$hasta), ]
+
+aristas$weight <- apply(aristas,1, function(x) distancia(x[1], x[2], nodos))
 
 
-    library(maptools)
-    library(pxR)
-    library(igraph)
-    library( <a href="http://inside-r.org/packages/cran/geosphere">geosphere)
+## grafo
 
-    ## datos: provincias y población
+grafo <- graph.data.frame(aristas, directed = F)
 
-    nodos <- read.table( "http://www.datanalytics.com/uploads/prov_pop_lat_lon.txt",
-                 sep = ",", dec = ",", header = T, encoding = "latin1")
+plot.grafo <- function(g, nodos, col = "black", text = F){
+  tmp <- get.edges(g, V(g))
+  vertices <- data.frame( (V(g)[get.edges(g, E(g))[,1]])$name,
+                          (V(g)[get.edges(g, E(g))[,2]])$name, col = col )
 
-    ## aristas
+  plot(nodos$lon, nodos$lat, xlab ="", ylab = "", xaxt = "n", yaxt="n")
+  if( text )
+    text(nodos$lon, nodos$lat,nodos$prov)
 
-    distancia <- function(p1, p2, nodos){
-      alfa  <- c(nodos$lon[nodos$prov==p1], nodos$lat[nodos$prov==p1] )
-      omega <- c(nodos$lon[nodos$prov==p2], nodos$lat[nodos$prov==p2] )
-      distCosine( alfa, omega ) / 1000	# kms.
-    }
+  apply(vertices, 1, function(x){
+    x1 <- nodos$lon[nodos$prov == x[1]]
+    y1 <- nodos$lat[nodos$prov == x[1]]
+    x2 <- nodos$lon[nodos$prov == x[2]]
+    y2 <- nodos$lat[nodos$prov == x[2]]
+    lines( c(x1,x2), c(y1,y2), col = x[3])
+  })
+}
 
-    aristas <- expand.grid(nodos$prov, nodos$prov)
-    colnames(aristas) <- c("desde", "hasta")
-    aristas <- aristas[ as.character(aristas$desde) < as.character(aristas$hasta), ]
-
-    aristas$weight <- apply(aristas,1, function(x) distancia(x[1], x[2], nodos))
-
-
-    ## grafo
-
-    grafo <- graph.data.frame(aristas, directed = F)
-
-    plot.grafo <- function(g, nodos, col = "black", text = F){
-      tmp <- get.edges(g, V(g))
-      vertices <- data.frame( (V(g)[get.edges(g, E(g))[,1]])$name,
-                              (V(g)[get.edges(g, E(g))[,2]])$name, col = col )
-
-      plot(nodos$lon, nodos$lat, xlab ="", ylab = "", xaxt = "n", yaxt="n")
-      if( text )
-        text(nodos$lon, nodos$lat,nodos$prov)
-
-      apply(vertices, 1, function(x){
-        x1 <- nodos$lon[nodos$prov == x[1]]
-        y1 <- nodos$lat[nodos$prov == x[1]]
-        x2 <- nodos$lon[nodos$prov == x[2]]
-        y2 <- nodos$lat[nodos$prov == x[2]]
-        lines( c(x1,x2), c(y1,y2), col = x[3])
-      })
-    }
-
-    plot.grafo(grafo, nodos)	# pequeño caos
-
-
+plot.grafo(grafo, nodos)	# pequeño caos
+{{< / highlight >}}
 
 El resultado es este pequeño caos:
 
@@ -78,20 +76,18 @@ El resultado es este pequeño caos:
 
 Por simplificar, eliminé todas las _autovías_ que unían capitales de provincia cuando pudiera encontrar una ruta alternativa cuya longitud no excediese a la original por un factor de 1.2 haciendo
 
+{{< highlight R "linenos=true" >}}
+exceso.edge <- function(g, e){
+  a <- shortest.paths(g)
+  b <- shortest.paths(delete.edges(g, e))
+  max( incr <- b / a, na.rm = T )
+}
 
+tmp <- sapply(E(grafo), function(e) exceso.edge(grafo,e))
+g2  <- delete.edges(grafo, E(grafo)[tmp < 1.2])
 
-    exceso.edge <- function(g, e){
-      a <- shortest.paths(g)
-      b <- shortest.paths(delete.edges(g, e))
-      max( incr <- b / a, na.rm = T )
-    }
-
-    tmp <- sapply(E(grafo), function(e) exceso.edge(grafo,e))
-    g2  <- delete.edges(grafo, E(grafo)[tmp < 1.2])
-
-    plot.grafo(g2, nodos)
-
-
+plot.grafo(g2, nodos)
+{{< / highlight >}}
 
 para obtener
 
@@ -100,29 +96,25 @@ para obtener
 
 Finalmente, simulé trayectos entre provincias con este criterio: una persona viaja de A a B con una probabilidad directamente proporcional al producto de las poblaciones de dichas provincias e inversamente proporcional a la distancia (en línea recta) entre ellas. La regla del producto de la población de las provincias es compatible con una muestra aleatoria de parejas de personas sobre la población total modificada en segunda instancia por la distancia entre ellas. Así que haciendo
 
+{{< highlight R "linenos=true" >}}
+peso.tramos <- function(a, b, g, nodos){
+  data.frame(
+    tramo = as.numeric(E(g2, path = get.shortest.paths(g2, from=a, to = b)[[1]])),
+    pop = nodos$pop[nodos$prov == a] / 1e6 * nodos$pop[nodos$prov == b] / 1e6,
+    distancia = distancia(a,b,nodos)
+  )
+}
 
+res  <- do.call(rbind, apply(aristas, 1, function(x) peso.tramos(x[1], x[2], g2, nodos)))
+peso <- tapply(res$pop / (res$distancia)^(1), res$tramo, sum)
 
-    peso.tramos <- function(a, b, g, nodos){
-      data.frame(
-        tramo = as.numeric(E(g2, path = get.shortest.paths(g2, from=a, to = b)[[1]])),
-        pop = nodos$pop[nodos$prov == a] / 1e6 * nodos$pop[nodos$prov == b] / 1e6,
-        distancia = distancia(a,b,nodos)
-      )
-    }
+## un primer gráfico
 
-    res  <- do.call(rbind, apply(aristas, 1, function(x) peso.tramos(x[1], x[2], g2, nodos)))
-    peso <- tapply(res$pop / (res$distancia)^(1), res$tramo, sum)
-
-    ## un primer gráfico
-
-    col <- peso
-    col[col < median(col)] <- 0
-    col <- rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
-    plot.grafo(g2, nodos, col = col)
-
-
-
-
+col <- peso
+col[col < median(col)] <- 0
+col <- rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
+plot.grafo(g2, nodos, col = col)
+{{< / highlight >}}
 
 obtuve
 
@@ -133,8 +125,7 @@ En este mapa sólo se han representado la mitad de los tramos de mayor importanc
 
 ¿Es una estructura radial? Podemos recurrir de nuevo a la teoría de grafos para medir la _centralidad _de los nodos:
 
-
-
+{{< highlight R "linenos=true" >}}
     g3 <- delete.edges(g2,edges=E(g2)[peso < median(peso)])
     col3 <- col[peso >= median(peso)]
     plot.grafo(g3, nodos, col = col3)
@@ -144,10 +135,7 @@ En este mapa sólo se han representado la mitad de los tramos de mayor importanc
     centralidad <- data.frame(nodo = V(g3)$name, centralidad = alpha.centrality(g3) )
     centralidad <- centralidad[order(-centralidad$centralidad),]
     centralidad
-
-
-
-
+{{< / highlight >}}
 
 El resultado da preeminencia a Madrid y otras capitales de su entorno:
 

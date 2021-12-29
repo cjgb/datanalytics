@@ -16,17 +16,15 @@ Hace unos diez años aprendí R por mi solo y por mi cuenta. Entoces era una rar
 
 Diez años después, R ha cobrado tal importancia que son muchos los interesados en aprenderlo. Para subvenir a esta demanda, [Juanjo Gibaja](http://jjgibaja.net/) y yo hemos diseñado un **curso de R básico** con las siguientes características:
 
-
-
-	  * Es **gratuito**.
-	  * No da derecho a diplomas o certificados de ningún tipo.
-	  * No es presencial.
-	  * **Plazas ilimitadas**.
-	  * Está basado en el **autoestudio**: cada participante tendrá que leer y trabajar por su cuenta.
-	  * Es **colaborativo**: hemos desarrollado [una plataforma _web_](http://cursorbasico.usar.org.es/) para que quienes sigan el curso puedan plantear preguntas y, como parte fundamental del programa, tratar de responder las de sus compañeros.
-	  * Está **supervisado** por Juanjo y yo: nos encargaremos del programa, de dar soporte de última instancia a las preguntas abiertas por los estudiantes.
-	  * Es **genérico**. Cada cual quiere aprender R por un motivo distinto: unos, para analizar encuestas; otros, por su interés en la minería de datos; algunos, para analizar series temporales,... El curso está pensado para llevar a cada cual hasta el mismo umbral de su tema de interés de forma que pueda después de él avanzar en el tema por su cuenta. Pero sin hacer especial hincapié en ningún asunto concreto.
-	  * El **contenido estadístico será mínimo** (se limitará a algo de estadística descriptiva y poco más).
+* Es **gratuito**.
+* No da derecho a diplomas o certificados de ningún tipo.
+* No es presencial.
+* **Plazas ilimitadas**.
+* Está basado en el **autoestudio**: cada participante tendrá que leer y trabajar por su cuenta.
+* Es **colaborativo**: hemos desarrollado [una plataforma _web_](http://cursorbasico.usar.org.es/) para que quienes sigan el curso puedan plantear preguntas y, como parte fundamental del programa, tratar de responder las de sus compañeros.
+* Está **supervisado** por Juanjo y yo: nos encargaremos del programa, de dar soporte de última instancia a las preguntas abiertas por los estudiantes.
+* Es **genérico**. Cada cual quiere aprender R por un motivo distinto: unos, para analizar encuestas; otros, por su interés en la minería de datos; algunos, para analizar series temporales,... El curso está pensado para llevar a cada cual hasta el mismo umbral de su tema de interés de forma que pueda después de él avanzar en el tema por su cuenta. Pero sin hacer especial hincapié en ningún asunto concreto.
+* El **contenido estadístico será mínimo** (se limitará a algo de estadística descriptiva y poco más).
 
 Los interesados encontrarán más información en [este documento](https://docs.google.com/a/bbva.com/document/d/1svL_7GPS7-SHKy-w4WhFhocZW49hJ5Yf2X_FWTSChzU/edit?pli=1).
 

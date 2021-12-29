@@ -9,23 +9,16 @@ categories:
 - estadística
 tags:
 - estadística
+- anumerismo
 ---
 
 Sí, existe un [Proyecto Internacional de Alfabetización Estadística](http://www.stat.auckland.ac.nz/~iase/islp/home) (oficialmente, _International Statistical Literacy Project_). Tiene como objetivo
 
-
-
-<blockquote>promover la alfabetización estadística en el mundo entre los jóvenes y los adultos y en todas las dimensiones de su actividad. </blockquote>
-
-
+>promover la alfabetización estadística en el mundo entre los jóvenes y los adultos y en todas las dimensiones de su actividad.
 
 Y, para ello,
 
-
-
-<blockquote>proporciona un repositorio en línea de recursos y noticias relacionadas con la alfabetización estadística y promueve actividades internacionales para incrementar la visibilidad de de la estadística.</blockquote>
-
-
+>proporciona un repositorio en línea de recursos y noticias relacionadas con la alfabetización estadística y promueve actividades internacionales para incrementar la visibilidad de de la estadística.
 
 Siempre me ha llamado la atención cómo en los países anglosajones las organizaciones profesionales estadísticas —la [ASA](http://www.amstat.org/), la [RSS](http://www.rss.org.uk/), etc.— invierten decisivamente en eso de la alfabetización estadística a través de [campañas](http://www.getstats.org.uk/) dirigidas a estudiantes, periodistas, etc.
 

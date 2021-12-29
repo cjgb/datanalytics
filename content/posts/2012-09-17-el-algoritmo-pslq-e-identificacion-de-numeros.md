@@ -10,35 +10,27 @@ categories:
 tags:
 - computación
 - python
+- aproximación
 ---
 
 El [algoritmo PSLQ](http://mathworld.wolfram.com/PSLQAlgorithm.html) se usa para resolver aproximadamente ecuaciones con coeficientes enteros $latex a_i$ de la forma
 
-
-
-$latex \sum_i a_i x_i = 0$
-
-
+$$ \sum_i a_i x_i = 0$$
 
 donde, obviamente, no todos los $latex a_i$ son cero. Aproximadamente significa que la solución se busca dentro de un cierto nivel de tolerancia.
 
 No existe, que yo sepa, una implementación en R. Pero sí en Python, usando librerías que permiten utilizar números de precisión arbitraria, como `[mpmath](https://code.google.com/p/mpmath/)`. Veamos un ejemplo:
 
-
-
-    <code>>>> from mpmath import *
-    >>> pslq([-1, pi], tol=0.01)
-    [22, 7]</code>
-
+{{< highlight python "linenos=true" >}}
+from mpmath import *
+pslq([-1, pi], tol=0.01)
+# [22, 7]
+{{< / highlight >}}
 
 
 La respuesta obtenida significa que
 
-
-
-$latex | -22 + 7 \pi | < 0.01, $
-
-
+$$ | -22 + 7 \pi | < 0.01, $$
 
 es decir, que la fracción 22/7 aproxima el valor de $latex \pi$ con un error inferior al 1 %.
 

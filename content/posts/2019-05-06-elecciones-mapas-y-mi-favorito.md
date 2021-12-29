@@ -27,7 +27,7 @@ Por eso quiero mencionar esto:
 
 >Here's our analysis of yesterday's Spanish election. We made a map by municipalities and population density because rural Spain is empty  [https://t.co/GhLZTfTnu8](https://t.co/GhLZTfTnu8) [pic.twitter.com/NSYRPFRSG3](https://t.co/NSYRPFRSG3)
 >
-> -- Martín González (@martgnz) [29 de abril de 2019](https://twitter.com/martgnz/status/1122880325712003072?ref_src=twsrc%5Etfw)</blockquote>
+> -- Martín González (@martgnz) [29 de abril de 2019](https://twitter.com/martgnz/status/1122880325712003072?ref_src=twsrc%5Etfw)
 
 Creo que se autoexplica.
 

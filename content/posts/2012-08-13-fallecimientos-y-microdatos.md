@@ -14,6 +14,7 @@ tags:
 - ine
 - microdatoses
 - r
+- mortalidad
 ---
 
 Hace un tiempo, un amigo me dijo que si en verano tiende a crecer la tasa de fallecimientos. Como de eso no sé y no hay manera de preguntarle a Google cuándo se muere más la gente, acudí a [quienes se encargan de recopilar ese tipo de datos](http://www.ine.es/prodyser/micro_mnp_defun.htm). Y construí en relativamente poco rato un gráfico parecido a
@@ -27,23 +28,19 @@ Ahora quiero retomar el asunto aprovechando que he anunciado el [paquete MicroDa
 
 El [primero](https://r-forge.r-project.org/scm/viewvc.php/pkg/inst/metadata/defun_2011_mdat1.txt?view=markup&revision=4&root=microdataes) tiene cinco columnas (separadas por tabuladores):
 
-
-
-	  * `var`, el nombre de la variable
-	  * `start`, la posición en la que comienza el dato
-	  * `end`, la posición en la que termina
-	  * `width`, la anchura, que podría deducirse de los dos valores previos
-	  * `descr`, la descripción de la variable
+* `var`, el nombre de la variable
+* `start`, la posición en la que comienza el dato
+* `end`, la posición en la que termina
+* `width`, la anchura, que podría deducirse de los dos valores previos
+* `descr`, la descripción de la variable
 
 El [segundo](https://r-forge.r-project.org/scm/viewvc.php/pkg/inst/metadata/defun_2011_mdat2.txt?view=markup&revision=4&root=microdataes) es otro fichero de texto con cinco columnas también separadas por tabuladores:
 
-
-
-	  * `var`, el nombre de la variable, que tiene que coincidir con el del fichero anterior, por supuesto
-	  * `tipo`, el tipo de variable
-	  * `nulo`, que no me acuerdo para qué lo creé y posiblemente no sirva para nada
-	  * `llave`, el código que asigna el INE (p.e., "01")
-	  * `valor`, el valor que corresponde al código (p.e., "mujer")
+* `var`, el nombre de la variable, que tiene que coincidir con el del fichero anterior, por supuesto
+* `tipo`, el tipo de variable
+* `nulo`, que no me acuerdo para qué lo creé y posiblemente no sirva para nada
+* `llave`, el código que asigna el INE (p.e., "01")
+* `valor`, el valor que corresponde al código (p.e., "mujer")
 
 Los campos de tipo "N", numérico, no tienen ni llave ni valor. Los campos con llave y valor son de tipo "D", de diccionario. Es probable que haya más tipos contemplados y que hagan falta otros más en función del caso. Pero no me acuerdo bien de los detalles.
 

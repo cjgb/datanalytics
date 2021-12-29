@@ -17,17 +17,15 @@ tags:
 
 Nos hemos ocupado previamente de [estas cuestiones](http://www.datanalytics.com/blog/2012/01/02/iva-irpf-y-cosas-que-no-entiendo/). Abundo en ellas ahora a causa de un informe publicado por la [ONS](http://www.statistics.gov.uk) (Office of National Statistics, el INE británico) titulado _[The effects of taxes and benefits on household income, 2010/2011](http://www.ons.gov.uk/ons/dcp171778_267839.pdf)_. Extraigo de su resumen los siguientes puntos:
 
-
-
-	  * Antes de impuestos y beneficios sociales, el quintil más rico de los hogares tenía una renta media de £81.500, 16 veces superior a la del quintil más pobre, £5.100.
-	  * Globalmente, los impuestos y los beneficios sociales contribuyeron a redistribuir la riqueza: tras computarlos, el ratio se redujo a 4: £61.400 contra £15.200
-	  * Los beneficios sociales y los impuestos directos (IRPF) contribuyeron a reducir la desigualdad; sin embargo, el IVA y los impuestos especiales (sobre la gasolina, el alcohol, etc.) contribuyeron a incrementarlo.
-	  * El balance entre impuestos pagados y beneficios recibidos fue negativo para los hogares en los dos quintiles superiores y positivo para los de los tres quintiles inferiores.
+* Antes de impuestos y beneficios sociales, el quintil más rico de los hogares tenía una renta media de £81.500, 16 veces superior a la del quintil más pobre, £5.100.
+* Globalmente, los impuestos y los beneficios sociales contribuyeron a redistribuir la riqueza: tras computarlos, el ratio se redujo a 4: £61.400 contra £15.200
+* Los beneficios sociales y los impuestos directos (IRPF) contribuyeron a reducir la desigualdad; sin embargo, el IVA y los impuestos especiales (sobre la gasolina, el alcohol, etc.) contribuyeron a incrementarlo.
+* El balance entre impuestos pagados y beneficios recibidos fue negativo para los hogares en los dos quintiles superiores y positivo para los de los tres quintiles inferiores.
 
 Además, y efecto de los recortes y la política del nuevo gobierno británico:
 
-	  * Hubo una caída en la renta disponible entre 2009/10 y 2010/11, siendo el quintil central el más afectado.
-	  * El porcentaje de la renta disponible afectado por los impuestos indirectos creció con respecto al año anterior, en gran medida a causa de la subida del IVA.
+* Hubo una caída en la renta disponible entre 2009/10 y 2010/11, siendo el quintil central el más afectado.
+* El porcentaje de la renta disponible afectado por los impuestos indirectos creció con respecto al año anterior, en gran medida a causa de la subida del IVA.
 
 
 El siguiente gráfico muestra mediante un ejemplo el impacto de los impuestos y los beneficios sociales en un hogar concreto

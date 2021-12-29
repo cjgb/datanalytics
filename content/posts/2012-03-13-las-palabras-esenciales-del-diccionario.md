@@ -10,6 +10,9 @@ categories:
 tags:
 - números
 - redes sociales
+- nlp
+- diccionario
+- drae
 ---
 
 Me he entretenido en los últimos tiempos tratando de responder una pregunta que, sin inquietarme, no dejaba de despertar mi curiosidad.
@@ -18,10 +21,8 @@ En la escuela nos enseñaron a definir palabras. Una de las primeras reglas de a
 
 Efectivamente, cójase el diccionario. El DRAE, por antonomasia. Búsquese una palabra. Cualquiera. En su definición aparecen otras. Búsquense estas a su vez. Y continúese recursivamente. Pueden pasar dos cosas:
 
-
-
-	  * Volver a tropezar con la palabra original.
-	  * No volver nunca a tropezar con ella.
+* Volver a tropezar con la palabra original.
+* No volver nunca a tropezar con ella.
 
 Supongo que esas palabras que aparecen en los ciclos tienen una importancia léxica distinta de las del resto. Uno podría llamarlas _palabras axiomáticas_, palabras cuyo significado debería conocer el hablante antes de consultar la herramienta que define, es decir, el diccionario.
 
@@ -31,16 +32,14 @@ Igualmente, en el diccionario, uno podría preguntarse cuáles son esos término
 
 Para conseguir mi objetivo he hecho lo siguiente:
 
+1. Descargar la lista de palabras definidas en el DRAE, disponibles [aquí](http://dirae.es/static/lemario-20110414.txt) y [aquí](http://dirae.es/static/lemasnuevos23edicion-20110415.txt).
+2. Consultar (programáticamente, por supuesto) en el DRAE cada una de ellas.
+3. Buscar la raíz de los términos que aparecen en la definición usando _mi_ [lematizador](http://www.datanalytics.com/blog/2011/12/13/un-lematizador-para-el-espanol-con-r-%C2%BFcutre-%C2%BFmejorable/).
+4. Crear una tabla con tres columnas:
 
-
-	  1. Descargar la lista de palabras definidas en el DRAE, disponibles [aquí](http://dirae.es/static/lemario-20110414.txt) y [aquí](http://dirae.es/static/lemasnuevos23edicion-20110415.txt).
-	  2. Consultar (programáticamente, por supuesto) en el DRAE cada una de ellas.
-	  3. Buscar la raíz de los términos que aparecen en la definición usando _mi_ [lematizador](http://www.datanalytics.com/blog/2011/12/13/un-lematizador-para-el-espanol-con-r-%C2%BFcutre-%C2%BFmejorable/).
-	  4. Crear una tabla con tres columnas:
-
-	    * lema
-	    * raíz del término que aparece en la definición
-	    * número de veces que aparece en la definición
+	* lema
+	* raíz del término que aparece en la definición
+	* número de veces que aparece en la definición
 
 
 Luego he analizado este conjunto de datos utilizando métodos de análisis de redes sociales. En efecto, considero que las palabras del diccionario, unas 88000, forman una red social en la que A es _amiga_ de B si A aparece en la definición de B.

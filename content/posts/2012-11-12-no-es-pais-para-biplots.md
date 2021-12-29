@@ -12,6 +12,7 @@ tags:
 - estadística
 - gráficos
 - periodismo de datos
+- biplots
 ---
 
 No, parece que aún no estamos preparados para los [biplots](http://en.wikipedia.org/wiki/Biplot). En el curso _Introduction to Infographics and Data Visualization_ de Alberto Cairo, nos pidieron sugierir mejoras y alternativas a este gráfico:

@@ -10,12 +10,13 @@ categories:
 tags:
 - excel
 - r
+- cursos
+- anuncios
 ---
 
 Hoy ha comenzado el [curso básico de R](http://www.datanalytics.com/blog/2012/06/01/curso-de-r-gratuito-no-presencial/). A [Juanjo Gibaja](http://jjgibaja.net/) y a mí nos ha sorprendido (muy agradablemente, por cierto) el espectacular recibimiento que ha merecido el curso: tenemos prácticamente 700 usuarios registrados.
 
 El programa de la primera semana cubre:
-
 
 * Los capítulos 1 a 6 de [_icebreakeR_](http://www.ms.unimelb.edu.au/~andrewpr/r-users/icebreakeR.pdf)
 * Los capitulos 1 a 6 de _[An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf)_

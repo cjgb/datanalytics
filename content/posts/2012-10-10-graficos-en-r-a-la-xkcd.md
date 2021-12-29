@@ -25,10 +25,7 @@ con el siguiente resultado:
 
 La respuesta por parte de la comunidad de usuarios de R, obviamente, no podía demorarse. Y es
 
-
 [![](/wp-uploads/2012/10/grafico_xkcd_r.jpg)
 ](/wp-uploads/2012/10/grafico_xkcd_r.jpg)
-
-
 
 El código puede encontrarse [aquí](http://drunks-and-lampposts.com/2012/10/02/clegg-vs-pleb-an-xkcd-esque-chart/). Y más información sobre el asunto, recomiendo este otro [enlace](http://stackoverflow.com/questions/12675147/xkcd-style-graphs-in-r).

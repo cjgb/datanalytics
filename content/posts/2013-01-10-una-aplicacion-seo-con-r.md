@@ -23,83 +23,66 @@ indica que el usuario buscó en `google.es` la cadena `breiman dos culturas esta
 
 Intrigado por el comportamiento de mis usuarios, tomé (parte de) mis _logs_, filtré los que contenían la cadena `google` y ejecuté el siguiente código:
 
+{{< highlight R "linenos=true" >}}
+tmp <- read.table("logs.log", sep = " ", header=F)
 
+cadena <- as.character(tmp$V9)   # posición del "referral"
+cadena <- strsplit(cadena, "&")
+cadena <- Filter( function(x) any(grepl("^q=",  x)), cadena )
+cadena <- Filter( function(x) any(grepl("^cd=", x)), cadena )
 
+res <- lapply(cadena, function(x){
+		c(x[grepl("^q=", x)], x[grepl("^cd=", x)])
+})
 
+res <- data.frame(do.call(rbind, res))
 
-
-
-
-    tmp <- read.table("logs.log", sep = " ", header=F)
-
-    cadena <- as.character(tmp$V9)   # posición del "referral"
-    cadena <- strsplit(cadena, "&")
-    cadena <- Filter( function(x) any(grepl("^q=",  x)), cadena )
-    cadena <- Filter( function(x) any(grepl("^cd=", x)), cadena )
-
-    res <- lapply(cadena, function(x){
-    		c(x[grepl("^q=", x)], x[grepl("^cd=", x)])
-    })
-
-    res <- data.frame(do.call(rbind, res))
-
-    res[,2] <- as.numeric( gsub("cd=", "", res[,2]) )
-    res[,1] <- sapply(as.character(res[,1]), URLdecode)
-    res[,1] <- gsub("q=", "", res[,1])
-    res <- res[res[,1] != "", ]
-
-
-
-
-
-
-
+res[,2] <- as.numeric( gsub("cd=", "", res[,2]) )
+res[,1] <- sapply(as.character(res[,1]), URLdecode)
+res[,1] <- gsub("q=", "", res[,1])
+res <- res[res[,1] != "", ]
+{{< / highlight >}}
 
 Con él he podido adquirir conocimientos tan profundos como que para la cadena
 
-
 `el niño que cumple años el 22 de mayo`
-
 
 estoy en primera posición en Google. Aunque también para otras tales como
 
-
-
-	  * año de la estadística
-	  * blog datanalytics
-	  * consultoría estadística
-	  * cual es mejor matlab r
-	  * datanalytics
-	  * datanalytics.com
-	  * descargar sas guide con licencia
-	  * diferencia entre riesgo e incertidumbre ejemplos de cada uno
-	  * el ine y el año internacional de la estadistica
-	  * elements of statistical leemos
-	  * grafica de tarta con sas 9.3
-	  * precio licencia de sas
-	  * que es la varianza explicada
-	  * r ordenar datos segun factor
-	  * rapidminer prediccion "series temporales"
-	  * regresion con cuantiles
-	  * regresion cuantiles en r
-	  * the risk of using spreadsheets for statistical analysis
-	  * trabajar con fechas en r
-	  * www.datanalytics.com
+* año de la estadística
+* blog datanalytics
+* consultoría estadística
+* cual es mejor matlab r
+* datanalytics
+* datanalytics.com
+* descargar sas guide con licencia
+* diferencia entre riesgo e incertidumbre ejemplos de cada uno
+* el ine y el año internacional de la estadistica
+* elements of statistical leemos
+* grafica de tarta con sas 9.3
+* precio licencia de sas
+* que es la varianza explicada
+* r ordenar datos segun factor
+* rapidminer prediccion "series temporales"
+* regresion con cuantiles
+* regresion cuantiles en r
+* the risk of using spreadsheets for statistical analysis
+* trabajar con fechas en r
+* www.datanalytics.com
 
 Y que, por otra parte, algunos de mis usuarios son contumaces y recorren y recorren las páginas de resultados de Google hasta que me encuentran. En la lista siguiente aparecen algunas cadenas y su posición en la lista de resultados:
 
-	  * breiman dos culturas estadistica, 21
-	  * ejemplos opencobol, 23
-	  * bajar sas estadistica, 68
-	  * vb6 statistical analysis, 43
-	  * alternativa a graficas de excel, 52
-	  * covarianza excel, 15
-	  * lenguaje de programacion r, 51
-	  * mapreduce ejemplos, 44
-	  * rapidminer prediccion series, 26
-	  * statistician resume matlab, 51
-	  * "fabrica+interactiva", 428
-
+* breiman dos culturas estadistica, 21
+* ejemplos opencobol, 23
+* bajar sas estadistica, 68
+* vb6 statistical analysis, 43
+* alternativa a graficas de excel, 52
+* covarianza excel, 15
+* lenguaje de programacion r, 51
+* mapreduce ejemplos, 44
+* rapidminer prediccion series, 26
+* statistician resume matlab, 51
+* "fabrica+interactiva", 428
 
 Finalmente, presento una gráfica del número de visitas según la posición (truncada en 10):
 

@@ -17,9 +17,7 @@ tags:
 [![](/wp-uploads/2013/01/rapidminer_logo.gif)
 ](/wp-uploads/2013/01/rapidminer_logo.gif)
 
-
-
-	  * El primero muestra el proceso de [instalación de Rapidminer](http://www.youtube.com/watch?v=FtBvxWI9QsA).
-	  * El segundo, muestra [cómo construir algunos modelos sencillos con RapidMiner](http://www.youtube.com/watch?v=h20-Ae_xQkA).
-	  * El tercero, sobre cómo [instalar extensiones en RapidMiner](http://www.youtube.com/watch?v=j8FUXK2JJus).
+* El primero muestra el proceso de [instalación de Rapidminer](http://www.youtube.com/watch?v=FtBvxWI9QsA).
+* El segundo, muestra [cómo construir algunos modelos sencillos con RapidMiner](http://www.youtube.com/watch?v=h20-Ae_xQkA).
+* El tercero, sobre cómo [instalar extensiones en RapidMiner](http://www.youtube.com/watch?v=j8FUXK2JJus).
 

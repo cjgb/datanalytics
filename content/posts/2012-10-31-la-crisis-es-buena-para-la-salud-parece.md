@@ -21,9 +21,7 @@ Leyendo el artículo uno se queda con la copla de que ha crecido tanto el tiempo
 
 Y eso debería llamar la atención de nuestros lectores. Al menos, de aquellos que no desconozcan la [ley de Little](http://en.wikipedia.org/wiki/Little's_law),
 
-
-$latex L = \lambda W,$
-
+$$ L = \lambda W,$$
 
 donde L es el número de clientes que hay una tienda, W el tiempo medio que pasan en ella y $latex \lambda$ la tasa promedio a la que entran.
 

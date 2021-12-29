@@ -9,6 +9,7 @@ categories:
 - r
 tags:
 - r
+- tiobe
 ---
 
 Más evidencias sobre la emergencia de R: ha entrado en el [_top 20_ de lenguajes de programación](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html) elaborado por [Tiobe](http://www.tiobe.com) por primera vez en enero de 2012:

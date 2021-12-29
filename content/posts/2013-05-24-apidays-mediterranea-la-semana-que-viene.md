@@ -15,11 +15,7 @@ tags:
 
 La semana que viene y con el lema
 
-
-
-<blockquote>The Web 1.0 was readable, the Web 2.0 was social, now the web is programmable through application programming interfaces (aka APIs)</blockquote>
-
-
+>The Web 1.0 was readable, the Web 2.0 was social, now the web is programmable through application programming interfaces (aka APIs)
 
 se celebrará en Madrid [APIdays Mediterranea](http://mediterranea.apidays.io/), un encuentro de entusiastas de las APIs.
 

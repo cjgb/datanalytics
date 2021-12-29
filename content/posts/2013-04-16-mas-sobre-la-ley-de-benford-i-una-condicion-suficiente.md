@@ -18,45 +18,27 @@ Las circunstancias —frente a las que soy dócil como el que más— me conduce
 
 Dado un número (p.e., 1234), lo podemos descomponer en dos: una potencia de 10 y otro entre 0 y 10:
 
+{{< highlight R "linenos=true" >}}
+n <- 1234     # por ejemplo
+suelo <- floor(log10(n))
+parte.decimal <- log10(n) - suelo
 
-
-
-
-
-
-
-    n <- 1234     # por ejemplo
-    suelo <- floor(log10(n))
-    parte.decimal <- log10(n) - suelo
-
-    10^suelo            # una potencia de 10
-    10^parte.decimal    # entre 0 y 10
-
-
-
-
-
-
-
+10^suelo            # una potencia de 10
+10^parte.decimal    # entre 0 y 10
+{{< / highlight >}}
 
 Si lo que llamamos `parte.decimal` tiene una distribución uniforme en el intervalo (0,1), entonces la probabilidad de que un número comience por, por ejemplo, 3, será
 
-
-$latex P\left( 10^{\text{parte.decimal}} \in [3,4) \right),$
-
+$$ P\left( 10^{\text{parte.decimal}} \in [3,4) \right),$$
 
 o bien
 
-
-$latex P\left( \log_{10} 3 \le \text{parte.decimal} < \log_{10} 4 \right),$
-
+$$ P\left( \log_{10} 3 \le \text{parte.decimal} < \log_{10} 4 \right),$$
 
 que no es otra cosa que $latex log_{10} 4- log_{10} 3$, el valor que corresponde a la [definición estándar de la ley en cuestión](http://es.wikipedia.org/wiki/Ley_de_Benford).
 
 Así que, en resumen:
 
-
-<blockquote>Una condición suficiente para que se verifique la Ley de Benford para una serie de valores $latex x_1, \dots, x_n$ es que la parte decimal de los valores $latex \log_{10} x_i$ tenga una distribución uniforme sobre el intervalo (0,1).</blockquote>
-
+>Una condición suficiente para que se verifique la Ley de Benford para una serie de valores $latex x_1, \dots, x_n$ es que la parte decimal de los valores $latex \log_{10} x_i$ tenga una distribución uniforme sobre el intervalo (0,1).
 
 (Nota: estoy obviando los signos).

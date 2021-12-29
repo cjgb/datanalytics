@@ -9,6 +9,8 @@ categories:
 - r
 tags:
 - r
+- entrevista
+- anuncios
 ---
 
 La serendipia me llevó a toparme con el RUGBCN, es decir, el [grupo de usuarios de R de Barcelona](http://rugbcn.wordpress.com/). Me puse en contacto con ellos y Lluis Ramon ha tenido la gentileza de ofrecerse a responder una serie de preguntas mías que espero que, por un lado, animen a los usuarios de R de BCN a acercarse a las reuniones y, por otro, sirvan de estímulo para la creación de grupos de usuarios similares en otros lugares.

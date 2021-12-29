@@ -25,11 +25,7 @@ Sin embargo, los lenguajes imperativos te obligan a crear punteros, reservar esp
 
 Y he aquí mi definición de grandes datos:
 
-
-
-<blockquote>Los grandes datos son aquellos que convierten _de facto_ los lenguajes declarativos en lenguajes imperativos.</blockquote>
-
-
+>Los grandes datos son aquellos que convierten _de facto_ los lenguajes declarativos en lenguajes imperativos.
 
 Y para que se entienda un par de ejemplos.
 

@@ -27,11 +27,15 @@ El objetivo es contar, para cada autor, las palabras que aparecen en el título 
 
 Si uno ejecuta en su _servidor central_
 
-`carlos@tiramisu:~/curso_dm/prog_03/src$ python wrdcount_mincemeat.py`
+{{< highlight bash "linenos=true" >}}
+carlos@tiramisu:~/curso_dm/prog_03/src$ python wrdcount_mincemeat.py
+{{< / highlight >}}
 
 este quedará esperando a que otras máquinas se ofrezcan a trabajar en el proyecto. En mi caso, que trabajo sólo en una, puedo lanzar en varias sesiones
 
-`carlos@tiramisu:~/curso_dm/prog_03/src$ python mincemeat.py -p changeme localhost`
+{{< highlight bash "linenos=true" >}}
+carlos@tiramisu:~/curso_dm/prog_03/src$ python mincemeat.py -p changeme localhost
+{{< / highlight >}}
 
 También podría lanzarlas en servidores distintos (en cuyo caso tendría que cambiar `localhost` por la IP del servidor central). Además, casi seguro, habría utilizado una contraseña, `changeme` en este caso, menos obvia.
 
@@ -39,83 +43,70 @@ En cualquier caso, las otras sesiones que lanzo (en la misma u otra máquina) re
 
 En `wrdcount_mincemeat.py` se definen dos funciones, `mapfn` y `reducefn` que son las que ejecutan los _mapeadores_ y los _reductores_, es decir, las sesiones a las que el servidor central asignan tareas, y que son en este caso
 
-`
+{{< highlight python "linenos=true" >}}
+def mapfn( key, value ):
 
-    def mapfn( key, value ):
+import re, string
 
-    	import re, string
+#Truncated because of lack of space
+#The original dict contained a few docen terms
+allStopWords={'about':1, 'above':1, 'after':1, 'again':1}
 
-            #Truncated because of lack of space
-            #The original dict contained a few docen terms
-            allStopWords={'about':1, 'above':1, 'after':1, 'again':1}
-
-
-            for line in value.splitlines():
-                    trozos = line.split(":::")
-
-                    autores = trozos[1].split("::")
-
-                    palabras = trozos[2].split(" ")
-                    palabras = [ re.sub('[\W_]', '', x).lower() for x in palabras]
-
-                    palabras = list( set(palabras) - set( allStopWords.keys() ) )
-
-                    for autor in autores:
-                            for palabra in palabras:
-                                    yield autor + "|" + palabra, 1
-
-`
+for line in value.splitlines():
+        trozos = line.split(":::")
+        autores = trozos[1].split("::")
+        palabras = trozos[2].split(" ")
+        palabras = [ re.sub('[\W_]', '', x).lower() for x in palabras]
+        palabras = list( set(palabras) - set( allStopWords.keys() ) )
+        for autor in autores:
+                for palabra in palabras:
+                        yield autor + "|" + palabra, 1
+{{< / highlight >}}
 
 y
 
-`
-
-    def reducefn(key, value):
-            return key, len(value)
-
-`
+{{< highlight python "linenos=true" >}}
+def reducefn(key, value):
+        return key, len(value)
+{{< / highlight >}}
 
 respectivamente. El resto del código en `wrdcount_mincemeat.py` se reduce a leer los ficheros de entrada,
 
 
-`
+{{< highlight python "linenos=true" >}}
+text_files = glob.glob( "../hw3data/*")
 
-    text_files = glob.glob( "../hw3data/*")
+def file_contents(file_name):
+        f = open(file_name)
+        try:
+                return f.read()
+        finally:
+                f.close()
 
-    def file_contents(file_name):
-            f = open(file_name)
-            try:
-                    return f.read()
-            finally:
-                    f.close()
-
-    source = dict((file_name, file_contents(file_name)) for file_name in text_files)
-
-`
+source = dict((file_name, file_contents(file_name)) for file_name in text_files)
+{{< / highlight >}}
 
 en un _diccionario_ (algo tal vez poco eficiente en términos de uso de la memoria) y a declarar un objeto de la clase `Server` y sus métodos `mapfn` y `reducefn` (así como recibir instrucciones sobre qué hacer con la salida del proceso) en
 
-`
+{{< highlight python "linenos=true" >}}
+s = mincemeat.Server()
 
-    s = mincemeat.Server()
+# The data source can be any dictionary-like object
+s.datasource = source
+s.mapfn = mapfn
+s.reducefn = reducefn
 
-    # The data source can be any dictionary-like object
-    s.datasource = source
-    s.mapfn = mapfn
-    s.reducefn = reducefn
+results = s.run_server(password="changeme")
 
-    results = s.run_server(password="changeme")
+f = open("outfile_mincemeat.txt", "w")
 
-    f = open("outfile_mincemeat.txt", "w")
+print results
 
-    print results
+for clave, contador in results.values():
+#f.write( key + " " + str(value) + "\n" )
+f.write( clave + " " + str(contador) + "\n" )
 
-    for clave, contador in results.values():
-    	#f.write( key + " " + str(value) + "\n" )
-    	f.write( clave + " " + str(contador) + "\n" )
-
-    f.close()
-
-`
+f.close()
+{{< / highlight >}}
 
 Nótese también cómo en ese pedazo de código se define la contraseña que deberán utilizar los _mapeadores_ y los _reductores_.

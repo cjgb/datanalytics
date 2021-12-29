@@ -9,12 +9,11 @@ categories:
 - estadística
 tags:
 - estadística
+- errores
 ---
 
 Mucha gente se hace un lío con los errores de tipo I y II. Para ellos, esta [regla nemotécnica](http://stats.stackexchange.com/questions/1610/is-there-a-way-to-remember-the-definitions-of-type-i-and-type-ii-errors):
 
-
-
-	  * Tipo I, un _false_: _I **falsely** think hypothesis is true_
-	  * Tipo II, dos _falses_: _I **falsely** think hypothesis is **false**_
+* Tipo I, un _false_: _I **falsely** think hypothesis is true_
+* Tipo II, dos _falses_: _I **falsely** think hypothesis is **false**_
 

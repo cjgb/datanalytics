@@ -11,6 +11,7 @@ categories:
 tags:
 - finanzas
 - r
+- libor
 ---
 
 Hace un tiempo [pregunté a la Fundéu](http://www.fundeu.es/consultas-O-over-the-counter-2734.html) cómo traducir la expresión _over the counter_. Pobres, tienen mucho trabajo en esta península asperjada de anglicismos. La respuesta, sinceramente, no me sirvió de mucho: me impedía hacerme entender con mis semejantes.
@@ -23,11 +24,9 @@ La noticia que ha sacudido la City (más apropiadamente, Canary Wharf) esta sema
 
 El Libor se calcula de la siguiente manera:
 
-
-
-	  1. Una serie de bancos (16 actualmente) indican el tipo de interés al que se financian —o podrían razonablemente haberse financiado si un día determinado de no necesitar fondos— en el mercado interbancario (OTC, como arriba) alrededor de las once de la mañana en distintos plazos.
-	  2. Reuters centraliza esa información y selecciona, de las 16 medidas (y para cada plazo), las 8 centrales. Y a estas les aplica la media (es decir, calcula una [media winsorizada](http://en.wikipedia.org/wiki/Winsorized_mean), término que espero la Fundéu dé por bueno).
-	  3. Esta media se convierte en el _numerito_ mágico que determina el importe de las cuotas de las hipotecas (entre otras cosas).
+1. Una serie de bancos (16 actualmente) indican el tipo de interés al que se financian —o podrían razonablemente haberse financiado si un día determinado de no necesitar fondos— en el mercado interbancario (OTC, como arriba) alrededor de las once de la mañana en distintos plazos.
+2. Reuters centraliza esa información y selecciona, de las 16 medidas (y para cada plazo), las 8 centrales. Y a estas les aplica la media (es decir, calcula una [media winsorizada](http://en.wikipedia.org/wiki/Winsorized_mean), término que espero la Fundéu dé por bueno).
+3. Esta media se convierte en el _numerito_ mágico que determina el importe de las cuotas de las hipotecas (entre otras cosas).
 
 Los valores que comunican las entidades son públicos. Y como el mercado presta aquellas entidades a las que considera débiles bajo condiciones más onerosas (quinceemes, observad: ¡el perro también come perro!), las entidades tienen cierto incentivo para comunicar valores por debajo de los reales y así transmitir sensación de fortaleza.
 
@@ -55,32 +54,34 @@ Pero sin que, entiendo, afectase al Libor gracias a la _winsorización_ de la me
 
 **Nota:** el código usado para realizar el segundo gráfico es el siguiente:
 
+{{< highlight R "linenos=true" >}}
+library(ggplot2)
+
+raw <- read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
+
+dat <- raw[,c(1,2,8)]
+names(dat) <- c("bank", "date", "Libor3M" )
+dat$date <- as.Date( as.character(dat$date), "%d/%m/%Y" )
+
+fix <- subset( dat, bank == "FIX - USD")
+banks <- subset( dat, bank != "FIX - USD")
+
+banks2 <- subset( banks, date > "2008-09-01" & date < "2008-12-01" )
+fix2   <- subset( fix, date > "2008-09-01" & date < "2008-12-01" )
+
+banks2 <- merge( banks2, fix2[,-1], by = "date" )
+colnames( banks2 ) <- c("date", "bank", "Libor3M", "fix")
+
+banks3 <- banks2
+banks3$curve <- rep("bank", nrow(banks2))
+tmp <- banks3
+tmp$Libor3M <- tmp$fix
+tmp$curve <- rep("fix", nrow(tmp))
+
+banks3 <- rbind( banks3, tmp )
+
+ggplot( banks3, aes( x = date, y = Libor3M, group = curve, colour = curve ) )
++ geom_line() + facet_wrap( ~ bank)
+{{< / highlight >}}
 
 
-    library(ggplot2)
-
-    raw <- read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
-
-    dat <- raw[,c(1,2,8)]
-    names(dat) <- c("bank", "date", "Libor3M" )
-    dat$date <- as.Date( as.character(dat$date), "%d/%m/%Y" )
-
-    fix <- subset( dat, bank == "FIX - USD")
-    banks <- subset( dat, bank != "FIX - USD")
-
-    banks2 <- subset( banks, date > "2008-09-01" & date < "2008-12-01" )
-    fix2   <- subset( fix, date > "2008-09-01" & date < "2008-12-01" )
-
-    banks2 <- merge( banks2, fix2[,-1], by = "date" )
-    colnames( banks2 ) <- c("date", "bank", "Libor3M", "fix")
-
-    banks3 <- banks2
-    banks3$curve <- rep("bank", nrow(banks2))
-    tmp <- banks3
-    tmp$Libor3M <- tmp$fix
-    tmp$curve <- rep("fix", nrow(tmp))
-
-    banks3 <- rbind( banks3, tmp )
-
-    ggplot( banks3, aes( x = date, y = Libor3M, group = curve, colour = curve ) )
-    + geom_line() + facet_wrap( ~ bank)

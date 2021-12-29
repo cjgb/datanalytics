@@ -22,7 +22,7 @@ En este blog ya nos hemos graduado del "Andalucía _first_" (sí, esa reiterada 
 Aquí nos llama la atención otro efecto que afecta a los segundos momentos: el "La Rioja por doquier". Verbigracia:
 
 >Principado de Asturias (68,8%), La Rioja (35,5%) y Comunidad de Madrid (10,2%) registran los mayores aumentos anuales en el número de sociedades mercantiles creadas
-> INE, un día cualquiera, en cualquier nota de prensa</blockquote>
+> INE, un día cualquiera, en cualquier nota de prensa
 
 Obvio. De hecho,
 

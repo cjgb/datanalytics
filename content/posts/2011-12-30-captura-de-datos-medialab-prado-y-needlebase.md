@@ -21,7 +21,7 @@ El día 12 de enero —y a ver qué invento para poder acudir— habrá una [ses
 
 Anoche vi el siguiente vídeo sobre esta herramienta,
 
-{{< youtube id="58Gzlq4zSDk">}}
+{{< youtube id="58Gzlq4zSDk" >}}
 
 y quedé impactado sobre las cosas que puede llegar a hacer.
 

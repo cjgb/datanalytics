@@ -14,5 +14,5 @@ tags:
 
 En el siguiente vídeo, Danny Modlin y Marc Huber, de SAS, entablan una _guerra estadística_ para tratar de dirimir qué técnica estadística es mejor para comparar la nota en unos exámenes según el sexo.
 
-http://www.youtube.com/watch?feature=player_embedded&v=jj8BX3g4JeA
+{{< youtube jj8BX3g4JeA >}}
 

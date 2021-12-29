@@ -25,10 +25,8 @@ No sé si alguien podrá ayudarme con este gráfico que he hecho con [Mondrian](
 
 Está construido a partir de los [microdatos](http://www.ine.es/prodyser/micro_epa.htm) de la última [EPA](http://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft22/e308_mnu&file=inebase&L=0) e indica el porcentaje de parados (resaltado en verde) dentro de las siguientes tres categorías:
 
-
-
-	  * Tramos de edad (ordenados)
-	  * Nivel de estudios (desde los que no han completado la primaria hasta los universitarios)
-	  * Sexos
+* Tramos de edad (ordenados)
+* Nivel de estudios (desde los que no han completado la primaria hasta los universitarios)
+* Sexos
 
 Desafortunadamente, he perdido las etiquetas. ¿Podría alguno de mis lectores ayudarme a identificar a qué categoría pertenece cada barra?

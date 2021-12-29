@@ -10,6 +10,7 @@ categories:
 tags:
 - electricidad
 - números
+- cambio climático
 ---
 
 Hacer una colada no es sencillo. Al menos si se tienen en cuenta todas las variables relevantes. En realidad, yo echo la ropa a la lavadora al tuntún y no sé de separar por colores ni por tipo de tela. Va todo junto. Y siempre uso el mismo programa, cantidad de detergente y del otro líquido azul que no sé para qué sirve.

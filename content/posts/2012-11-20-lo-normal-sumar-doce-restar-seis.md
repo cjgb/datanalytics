@@ -11,19 +11,18 @@ categories:
 tags:
 - probabilidad
 - r
+- trucos
 ---
 
 Un [truco para generar variables aleatorias normales](http://www.johndcook.com/blog/2009/02/12/sums-of-uniform-random-values/): sumar doce uniformes y restar seis.
 
 En efecto,
 
-
-
-    x <- replicate(1000, sum( runif(12) - 6 ))
-    qqnorm(x)
-    qqline(x, col=2)
-
-
+{{< highlight R "linenos=true" >}}
+x <- replicate(1000, sum( runif(12) - 6 ))
+qqnorm(x)
+qqline(x, col=2)
+{{< / highlight >}}
 
 produce
 

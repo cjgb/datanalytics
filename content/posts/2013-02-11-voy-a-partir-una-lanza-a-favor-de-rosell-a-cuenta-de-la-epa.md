@@ -11,6 +11,7 @@ categories:
 tags:
 - epa
 - estadística pública
+- cis
 ---
 
 Voy a partir una lanza a favor de Rosell. Aunque algún colega luego me quiera fusilar. Espero que lo podamos discutir todo luego amigablemente sea acá o en otros foros igualmente civilizados.
@@ -27,34 +28,21 @@ Pero, qué pasa cuando la pregunta es _¿a quién votó Vd. en las elecciones pa
 
 En el barómetro de enero de 2013 del CIS se tabulan las respuestas de 2483 personas (elegidas con criterio riguroso para que reflejen la _realidad_ de la sociedad española) a ciertas preguntas. Y la tabulación se realiza de acuerdo con su _recuerdo de voto_ en las últimas elecciones generales, las de 2011. Este recuerdo de voto debería ser mínimamente coincidente con los resultados reales en dichas elecciones, ¿verdad? Véamoslo. Haciendo en R
 
+{{< highlight R "linenos=true" >}}
+options(digits = 2)
 
+library(xtable)
 
+cis <- c(663, 545, 153, 79, 50, 154)
+reales <- c(10830693, 6973880, 1680810, 1140242, 1014263, 2299688)
+names(reales) <- names(cis) <- c("PP", "PSOE", "IU",  "UPyD", "CiU", "Otros")
 
+tmp <- data.frame( cis = 100 * cis / sum(cis), reales = 100 * reales / sum(reales))
+tmp$diff <- tmp$cis - tmp$reales
+tmp$diff.pc <- 100 * tmp$diff / tmp$reales
 
-
-
-
-    options(digits = 2)
-
-    library(<a href="http://inside-r.org/packages/cran/xtable">xtable)
-
-    cis <- c(663, 545, 153, 79, 50, 154)
-    reales <- c( 10830693, 6973880, 1680810, 1140242, 1014263, 2299688    )
-    names(reales) <- names(cis) <- c("PP", "PSOE", "IU",  "UPyD", "CiU", "Otros" )
-
-    tmp <- data.frame( cis = 100 * cis / sum(cis), reales = 100 * reales / sum(reales))
-    tmp$diff <- tmp$cis - tmp$reales
-    tmp$diff.pc <- 100 * tmp$diff / tmp$reales
-
-    print(<a href="http://inside-r.org/packages/cran/xtable">xtable(tmp), type = "html")
-
-
-
-
-
-
-
-
+print(xtable(tmp), type = "html")
+{{< / highlight >}}
 
 
 se obtiene
@@ -174,7 +162,6 @@ diff.pc
 </tr>
 </tbody>
 </table>
-
 
 donde la primera columna corresponde a los porcentajes de votos obtenidos en la encuesta del CIS, la segunda a los reales (descontados en ambos casos los nulos y blancos) y las demás son las diferencias. Cierto, quedan sin computar los 55 sujetos que no recuerdan su voto y los 196 que se negaron a contestar esa pregunta. Pero a ti, lector, ¿te parece que las discrepancias están _dentro de rango_?
 

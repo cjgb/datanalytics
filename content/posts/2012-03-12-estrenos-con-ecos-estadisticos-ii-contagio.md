@@ -11,6 +11,7 @@ categories:
 tags:
 - estadística
 - números
+- vacunas
 ---
 
 La [otra de las películas](http://www.datanalytics.com/blog/2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/) que vi durante mis vacaciones en que resonaban ecos estadísticos fue [Contagio](http://es.wikipedia.org/wiki/Contagio). Como casi todas las películas, personaliza. Y es que a la gente le gusta ver caras. Así nos cuenta la historia de una rubia, su marido, su hija, etc. Excipiente lacrimógeno.
@@ -29,19 +30,11 @@ El segundo aspecto relevante de la película tiene que ver con otro _trasunto_. 
 
 Evoca el caso de la [controversia alrededor de la vacuna triple vírica](http://en.wikipedia.org/wiki/MMR_vaccine_controversy): en 1998, una de las más prestigiosas revistas médicas, The Lancet, publicó un artículo sobre un posible vínculo causal entre dicha vacuna y el autismo. Se supo después que el autor principal, Andrew Wakefield, tenía intereses ocultos y que había manipulado los datos. Pero aunque el artículo fue retirado, e, incluso, se explusó a Wakefield de la carrera médica, mucha gente dio por bueno el bulo. Y, en efecto, tal y como cuenta la Wikipedia (mi traducción)
 
-
-
-<blockquote>Tras la controversia, la tasa de vacunación de la vacuna triple vírica en el Reino Unido descendió del 92% en 1996 al 84% en 2002. En 2006, la tasa de cobertura de la vacuna entre los menores de 2 años era del 85%, mientras que para el resto de las vacunas se situaba alrededor del 94%.</blockquote>
-
-
+>Tras la controversia, la tasa de vacunación de la vacuna triple vírica en el Reino Unido descendió del 92% en 1996 al 84% en 2002. En 2006, la tasa de cobertura de la vacuna entre los menores de 2 años era del 85%, mientras que para el resto de las vacunas se situaba alrededor del 94%.
 
 Y, en efecto, esto tuvo sus consecuencias:
 
-
-
-<blockquote>[...] la incidencia de las tres enfermedades creció de manera importante en el Reino Unido. Mientras que en 1998 sólo se confirmaron 56 casos de sarampión, en el 2006 hubo 449 durante los primeros cinco meses del año. Además, se registró la primera muerte por dicha causa desde 1992. Los casos afectaron a niños que no se habían vacunado adecuadamente. [...]</blockquote>
-
-
+>[...] la incidencia de las tres enfermedades creció de manera importante en el Reino Unido. Mientras que en 1998 sólo se confirmaron 56 casos de sarampión, en el 2006 hubo 449 durante los primeros cinco meses del año. Además, se registró la primera muerte por dicha causa desde 1992. Los casos afectaron a niños que no se habían vacunado adecuadamente. [...]
 
 Y, bueno, seguro que en todo esto algo de responsabilidad (o irresponsabilidad) tuvieron los medios... ¡pero esa es otra historia a la que, seguro, volveremos!
 

@@ -20,35 +20,21 @@ La parte fraccionaria de un número es, para entendernos, lo que va detrás de l
 
 Obviamente, si los números son enteros no. ¿Pero si siguen la distribución normal? Se puede probar, de hecho, que si la serie sigue una distribución de probabilidad que sea
 
-
-
-	  * **regular**, es decir, que no tenga picos extraños y, más en concreto, cuya función de densidad crezca hasta cierto punto y decrezca de él en adelante y
-	  * **extendida**, es decir, que cubra un rango amplio de valores (p.e., la recta real entera),
+* **regular**, es decir, que no tenga picos extraños y, más en concreto, cuya función de densidad crezca hasta cierto punto y decrezca de él en adelante y
+* **extendida**, es decir, que cubra un rango amplio de valores (p.e., la recta real entera),
 
 entonces la distribución de la parte fraccionaria de sus muestras serán aproximadamente uniformes. Y lo serán tanto más cuanto menor sea el máximo de la función de distribución. La referencia, el artículo [_Pourquoi la loi de Benford n’est pas mystérieuse_](http://www.ehess.fr/revue-msh/pdf/N182R1280.pdf?) de Nicolas Gauvrit y Jean-Paul Delahaye.
 
 Esto se verifica fácilmente en ciertos casos. Por ejemplo,
 
+{{< highlight R "linenos=true" >}}
+x <- rnorm(100000)
+x <- x - floor(x)
 
-
-
-
-
-
-
-    x <- rnorm(100000)
-    x <- x - floor(x)
-
-    par(mfrow=c(1,2))
-    hist(x, col = "grey")
-    qqplot(x, runif(100000), main = "qqplot")
-
-
-
-
-
-
-
+par(mfrow=c(1,2))
+hist(x, col = "grey")
+qqplot(x, runif(100000), main = "qqplot")
+{{< / highlight >}}
 
 que produce
 

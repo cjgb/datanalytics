@@ -4,7 +4,7 @@ date: 2012-05-14 06:57:21+00:00
 draft: false
 title: ¿Se puede predecir con Twitter?
 
-url: /2012/05/14/%c2%bfse-puede-predecir-con-twitter/
+url: /2012/05/14/se-puede-predecir-con-twitter/
 categories:
 - consultoría
 - estadística
@@ -24,10 +24,8 @@ Por eso es refrescante leer artículos como _[I Wanted to Predict Elections with
 
 En resumen:
 
-
-
-	  * No todo el mundo está en Twitter, por lo que las conclusiones que se obtengan a partir de él tienen un sesgo geográfico y demográfico. La gente, de hecho, lleva décadas escribiendo libros sobre muestreo por algún motivo.
-	  * Ni siquiera todo el mundo escribe sobre política (relevante a la hora de predecir elecciones) en su cuenta de Twitter.
-	  * No todo lo que aparece en Twitter es verdad: hay contenido generado por robots, cuentas falsas, etc. que puede sesgar los estudios.
-	  * Desentrañar el significado de un mensaje no es sencillo para una máquina cuando este está envuelto en sarcasmo, encierra juegos de palabras, etc.
+* No todo el mundo está en Twitter, por lo que las conclusiones que se obtengan a partir de él tienen un sesgo geográfico y demográfico. La gente, de hecho, lleva décadas escribiendo libros sobre muestreo por algún motivo.
+* Ni siquiera todo el mundo escribe sobre política (relevante a la hora de predecir elecciones) en su cuenta de Twitter.
+* No todo lo que aparece en Twitter es verdad: hay contenido generado por robots, cuentas falsas, etc. que puede sesgar los estudios.
+* Desentrañar el significado de un mensaje no es sencillo para una máquina cuando este está envuelto en sarcasmo, encierra juegos de palabras, etc.
 

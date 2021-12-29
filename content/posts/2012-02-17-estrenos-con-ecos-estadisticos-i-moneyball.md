@@ -11,6 +11,8 @@ categories:
 tags:
 - consultoría
 - estadística
+- películas
+- moneyball
 ---
 
 Mi extemporáneo periodo vacacional me ha dado, entre otras cosas, para ver dos películas en las que resuenan claros ecos relacionados con la estadística.

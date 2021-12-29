@@ -19,13 +19,11 @@ El otro día tropecé con un problema de rendimiento con R y al utilizar `Rprof(
 
 La principal sospechosa era la función `daply` (del paquete `plyr`) que parecía depender de bastantes otras. Uno puede navegar el código de las funciones para identificar esas dependencias, pero, mirad qué maravilla:
 
-
-
-    library(<a href="http://inside-r.org/packages/cran/mvbutils">mvbutils)
-    library(plyr)
-    foodweb(find.funs("package:plyr"), prune = "laply")
-
-
+{{< highlight R "linenos=true" >}}
+library(mvbutils)
+library(plyr)
+foodweb(find.funs("package:plyr"), prune = "laply")
+{{< / highlight >}}
 
 genera
 

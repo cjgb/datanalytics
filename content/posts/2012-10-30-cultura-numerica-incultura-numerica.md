@@ -19,10 +19,6 @@ No sé si conocéis [OWNI](http://fr.wikipedia.org/wiki/OWNI), un _Objet Web Non
 
 El segundo tiene esta entradilla (con mi traducción):
 
-
-
-<blockquote>El miedo a los números te deja a merced de los políticos, los medios y las empresas, de acuerdo con la Academia Británica. Su presidente, el profesor Sir Adam Roberts, afirma que la falta de habilidades numéricas te hace _vulnerable a la malinterpretación y a la toma de decisiones equivocadas_. ¿Son tus habilidades numéricas suficientes para defenderte de los argumentos engañosos de los políticos y los vendedores? Haz nuestra prueba de conocimientos estadísticos para averiguarlo. Cada pregunta mide tu capacidad para sortear falacias numéricas y estadísticas cada vez más sutiles.</blockquote>
-
-
+>El miedo a los números te deja a merced de los políticos, los medios y las empresas, de acuerdo con la Academia Británica. Su presidente, el profesor Sir Adam Roberts, afirma que la falta de habilidades numéricas te hace _vulnerable a la malinterpretación y a la toma de decisiones equivocadas_. ¿Son tus habilidades numéricas suficientes para defenderte de los argumentos engañosos de los políticos y los vendedores? Haz nuestra prueba de conocimientos estadísticos para averiguarlo. Cada pregunta mide tu capacidad para sortear falacias numéricas y estadísticas cada vez más sutiles.
 
 ¿Quieres hacer esa prueba? [Aquí está](http://www.guardian.co.uk/commentisfree/quiz/2012/oct/19/stats-quiz-test-spin ).

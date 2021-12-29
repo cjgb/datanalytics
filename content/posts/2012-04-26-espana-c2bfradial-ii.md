@@ -4,50 +4,47 @@ date: 2012-04-26 06:44:51+00:00
 draft: false
 title: España, ¿radial? (II)
 
-url: /2012/04/26/espana-%c2%bfradial-ii/
+url: /2012/04/26/espana-radial-ii/
 categories:
 - números
 - r
 tags:
 - r
 - redes sociales
+- grafos
+- españa
 ---
 
 Una de las principales objeciones que se le pueden hacer a mi entrada de ayer es que puede estar confundiendo la causa con efecto: puede que parte de la radialidad de la red que obtuve tenga que ver con el tamaño desproporcionado de Madrid que, a su vez, podría haber sido causado por la radialidad de la red tradicional de las comunicaciones españolas.
 
 Así que enviemos una partida de pescado en malas condiciones a Mercamadrid, convidemos a toda la provincia, veámosla fenecer víctima de contumaces diarreas y rehagamos la simulación suponiendo que
 
-
-
-    nodos.alt <- nodos
-    nodos.alt$pop[nodos.alt$prov == "Madrid"] <- 0
-
-
+{{< highlight R "linenos=true" >}}
+nodos.alt <- nodos
+nodos.alt$pop[nodos.alt$prov == "Madrid"] <- 0
+{{< / highlight >}}
 
 ¿Qué forma tendría ahora la red? Ejecutando
 
+{{< highlight R "linenos=true" >}}
+res  <- do.call(rbind, apply(aristas, 1, function(x) peso.tramos(x[1], x[2], g2, nodos.alt)))
+peso <- tapply(res$pop / (res$distancia)^(1), res$tramo, sum)
 
+col <- peso
+col[col < median(col)] <- 0
+col <- rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
+plot.grafo(g2, nodos, col = col)
 
-    res  <- do.call(rbind, apply(aristas, 1, function(x) peso.tramos(x[1], x[2], g2, nodos.alt)))
-    peso <- tapply(res$pop / (res$distancia)^(1), res$tramo, sum)
+g3 <- delete.edges(g2,edges=E(g2)[peso < median(peso)])
+col3 <- col[peso >= median(peso)]
+plot.grafo(g3, nodos, col = col3)
 
-    col <- peso
-    col[col < median(col)] <- 0
-    col <- rgb(0,0,0, 255 * col/max(col), maxColorValue=255)
-    plot.grafo(g2, nodos, col = col)
+E(g3)$weight <- peso[peso >= median(peso)]
 
-    g3 <- delete.edges(g2,edges=E(g2)[peso < median(peso)])
-    col3 <- col[peso >= median(peso)]
-    plot.grafo(g3, nodos, col = col3)
-
-    E(g3)$weight <- peso[peso >= median(peso)]
-
-    centralidad <- data.frame(nodo = V(g3)$name, centralidad = alpha.centrality(g3) )
-    centralidad <- centralidad[order(-centralidad$centralidad),]
-    centralidad
-
-
-
+centralidad <- data.frame(nodo = V(g3)$name, centralidad = alpha.centrality(g3) )
+centralidad <- centralidad[order(-centralidad$centralidad),]
+centralidad
+{{< / highlight >}}
 
 se obtiene
 
@@ -58,12 +55,10 @@ Esta vez la península se parte en dos reeditando una suerte de _Hispania Tarrac
 
 Si en lugar de esta versión tan extrema su ponemos que Madrid tiene una poblacion _promedio_, es decir,
 
-
-
-    nodos.alt <- nodos
-    nodos.alt$pop[nodos.alt$prov == "Madrid"] <- median( nodos$pop )
-
-
+{{< highlight R "linenos=true" >}}
+nodos.alt <- nodos
+nodos.alt$pop[nodos.alt$prov == "Madrid"] <- median( nodos$pop )
+{{< / highlight >}}
 
 se obtiene una configuración prácticamente similar:
 
@@ -72,12 +67,10 @@ se obtiene una configuración prácticamente similar:
 
 Y, finalmente, si toda la población está distribuida uniformemente en las provincias, es decir,
 
-
-
-    nodos.alt <- nodos
-    nodos.alt$pop <- mean( nodos$pop )
-
-
+{{< highlight R "linenos=true" >}}
+nodos.alt <- nodos
+nodos.alt$pop <- mean( nodos$pop )
+{{< / highlight >}}
 
 las cosas cambian de manera bastante sorprendente:
 

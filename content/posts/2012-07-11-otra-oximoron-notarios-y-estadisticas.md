@@ -21,10 +21,7 @@ Recientemente, con inusitado estruendo de medios, el siempre benigno sindicato n
 
 Así que [entré](http://www.notariado.org/liferay/web/cien/inicio), navegué a [estadísticas principales](http://www.notariado.org/liferay/web/cien/estadisticas-principales/inicio), de ahí a [sociedades ](http://www.notariado.org/liferay/web/cien/estadisticas-principales/sociedades)y, dentro de sus apartados, al de [capital medio en constituciones de sociedad limitada](http://www.notariado.org/liferay/web/cien/estadisticas-principales/sociedades/capital-medio-en-constituciones-de-sociedad-limitada). Porque al leer _medio _me temía lo peor. Pero me esperaba ahí lo pésimo, esto:
 
-
 [![](/wp-uploads/2012/07/estadistica_notariado.png)
 ](/wp-uploads/2012/07/estadistica_notariado.png)
-
-
 
 Lo siento: hui espantado de esas páginas y no me va a ser posible completar la crónica que tal vez esperaban mis lectores hoy. Tal vez haya alguno más intrépido que yo y más curado de aberraciones que quiera sumergirse en ese universo _excelianoide_ y pueda avisarnos de si, pese a los pésimos augurios, las largas URLs del notariado esconden algo que merezca la pena conocer.

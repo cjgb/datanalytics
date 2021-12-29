@@ -8,6 +8,7 @@ url: /2013/05/13/charla-un-lematizador-probabilistico-con-r/
 categories:
 - nlp
 - r
+- charlas
 tags:
 - lematizador
 - nlps
@@ -21,10 +22,8 @@ Hablaré sobre el proceso de lematizacion y trataré de mostrar su importancia d
 
 En la charla repasaré las tres grandes familias de soluciones para el problema de la lematización:
 
-
-
-	  * las basadas en _reglas duras_,
-	  * las basadas en diccionarios y, finalmente,
-	  * las más interesantes, las probabilísticas.
+* las basadas en _reglas duras_,
+* las basadas en diccionarios y, finalmente,
+* las más interesantes, las probabilísticas.
 
 Y, en particular, describiré con cierto detalle —aunque tratando de obviar los aspectos técnicos más áridos— un algoritmo que combina _oportunísticamente_ diccionarios y [modelos ocultos de Markov](http://es.wikipedia.org/wiki/Modelo_oculto_de_Markov) y que debería ver la luz _en producción_ dentro del conjunto de [APIs lingüísticas de Molino de Ideas](http://www.apicultur.com/).

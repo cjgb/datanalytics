@@ -12,6 +12,7 @@ tags:
 - consultoría
 - econometría
 - estadística
+- sesgo
 ---
 
 No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porque siempre he pensado que era poco menso que imposible. Pero hace unos pocos días [escribí sobre el asunto](http://www.datanalytics.com/blog/2012/04/09/3564/) y hoy traigo otro similar a colación.
@@ -26,11 +27,7 @@ En otro contexto en el que aparece es en el de la determinación de lo que llama
 
 Ahora me encuentro con la [corrección de Heckman](http://en.wikipedia.org/wiki/Heckman_correction), que le valió al susodicho el premio Nobel de economía. Traduzco de la Wikipedia:
 
-
-
-<blockquote>Supóngase que un investigador quiere estimar cuáles son los determinantes de las ofertas de salarios pero sólo tiene acceso a los salarios de aquellos que trabajan. Dado que quienes trabajan forman una muestra no aleatoria de la población, estudiar estos determinantes sobre este subconjunto introduciría un sesgo.</blockquote>
-
-
+>Supóngase que un investigador quiere estimar cuáles son los determinantes de las ofertas de salarios pero sólo tiene acceso a los salarios de aquellos que trabajan. Dado que quienes trabajan forman una muestra no aleatoria de la población, estudiar estos determinantes sobre este subconjunto introduciría un sesgo.
 
 Información adicional sobre esta corrección puede encontrarse [en este enlace](http://www.eco.uc3m.es/~ricmora/miccua/materials/S16T33_Spanish.pdf ).
 

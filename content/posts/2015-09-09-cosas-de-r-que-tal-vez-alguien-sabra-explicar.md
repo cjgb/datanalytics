@@ -21,6 +21,6 @@ En Twitter, leo
 > sum(c(1, 2), na.r=T)
 [1] 4
 >
-> -- John Myles White (@johnmyleswhite) [September 8, 2015](https://twitter.com/johnmyleswhite/status/641311405296230400)</blockquote>
+> -- John Myles White (@johnmyleswhite) [September 8, 2015](https://twitter.com/johnmyleswhite/status/641311405296230400)
 
 ¿Alguien puede explicar lo que ocurre? ¿Es tan grade como parece indicar sorna el autor del tuit?

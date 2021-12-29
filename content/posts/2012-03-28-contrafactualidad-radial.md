@@ -9,6 +9,9 @@ categories:
 - números
 tags:
 - números
+- contrafactual
+- libros
+- españa
 ---
 
 Leí estas navidades un libro sumamente recomendable, _España, capital París_, de Germà Bel. Su tesis ha vuelto a ser [glosada recientemente por César Molinas](http://economia.elpais.com/economia/2012/03/02/actualidad/1330712282_179577.html) dentro de una serie de artículos, igualmente recomendables, en El País.

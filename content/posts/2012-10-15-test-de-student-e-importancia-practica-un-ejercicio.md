@@ -9,6 +9,8 @@ categories:
 - estadística
 tags:
 - estadística
+- pruebas estadísticas
+- placebo
 ---
 
 Esto de los test estadísticos junto con un cierto tipo de formación estadística conduce a automatismos que, a menudo, nos cuesta sacudirnos. Tendemos a aceptar y rechazar hipótesis con escaso juicio. Y una de las dimensiones de un estudio que se ignoran en ocasiones es el de la importancia práctica. Que es, tal vez, aquel por el que se propuso la prueba en primer lugar.
@@ -22,10 +24,8 @@ Se comparan entonces dos grupos de pacientes. A uno se le administra un nuevo me
 
 ¿Puede el lector identificar los casos en que
 
-
-
-	  1. el test permite suponer que el nuevo tratamiento tiene importancia práctica,
-	  2. el test parece descartar que el nuevo tratamiento tenga importancia práctica y
-	  3. es imposible determinar si el tratamiento tiene o no importancia práctica
+1. el test permite suponer que el nuevo tratamiento tiene importancia práctica,
+2. el test parece descartar que el nuevo tratamiento tenga importancia práctica y
+3. es imposible determinar si el tratamiento tiene o no importancia práctica
 
 siempre con unos márgenes de error razonables?

@@ -11,29 +11,27 @@ categories:
 tags:
 - estadística
 - r
+- p-valores
+- t-test
 ---
 
 Imagina que trabajas en lo que Ionnidis, en su artículo [_Why Most Published Research Findings Are False_](http://www.datanalytics.com/blog/2011/03/03/%C2%BFcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos/), llama un _null field_; es decir, un área de investigación (tipo homeopatía o percepción extrasensorial) en la que no hay resultados ciertos, en la que las relaciones causa-efecto no pasan de ser _presuntas_. O tienes un conjunto de datos en un campo _no nulo_ pero que, por algún motivo, no recoge las variables necesarias para explicar un cierto fenómeno.
 
 Aun en esas circunstancias es posible, [como comentábamos ayer](http://www.datanalytics.com/blog/2012/08/23/ajustar-o-no-ajustar-esta-es-la-cuestion/), comenzar a plantear hipótesis, muchas hipótesis. Realizar un test de Student sobre cada una de ellas es como ejecutar la función
 
-
-
-    foo <- function(){
-    	x <- rnorm( 100 )
-    	y <- rnorm( 100 )
-    	t.test( x, y, alternative = "greater" )$p.value
-    }
-
-
+{{< highlight R "linenos=true" >}}
+foo <- function(){
+    x <- rnorm( 100 )
+    y <- rnorm( 100 )
+    t.test( x, y, alternative = "greater" )$p.value
+}
+{{< / highlight >}}
 
 ¿Y qué pasa si se ejecuta _muchas _veces? Esto:
 
-
-
-    plot( sort( replicate(1000, foo())))
-
-
+{{< highlight R "linenos=true" >}}
+plot(sort(replicate(1000, foo())))
+{{< / highlight >}}
 
 Que gráficamente, para los perezosos, tiene esta pinta:
 

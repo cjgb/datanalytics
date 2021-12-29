@@ -16,9 +16,7 @@ Llegó a mis manos el otro día un [artículo](http://www.elconfidencial.com/tec
 
 Y llegó a mis manos no tanto por el interés de quien me lo remitió por los teléfonos móviles o los arcanos del Talmud sino por el siguiente párrafo, en el que, entiendo, quiso ver algún quid (el subrayado está en el artículo):
 
-
-<blockquote>Israel tiene una población próxima a la de Cataluña o Madrid. Invierte cerca del 5% en 2011 en i+D+I, **más del doble que en España** [...]</blockquote>
-
+>Israel tiene una población próxima a la de Cataluña o Madrid. Invierte cerca del 5% en 2011 en i+D+I, **más del doble que en España** [...]
 
 Esta afirmación, cierta, puede quererse utilizar _prima facie_ para justificar el retraso tecnológico español frente a nuestro liliputesco vecino de enfrente, para significar algo así como: si España duplicase el gasto en I+D+i, nuestras empresas serían el no va más.
 
@@ -32,11 +30,9 @@ Pero de lo micro, o más bien, de mi visión micro, de mi sesgada e insuficiente
 
 De los recursos de I+D+i que fluyen a través de la universidad e instituciones similares, sé poco y dejo a otros que se expliquen. Pero he tropezado en alguna ocasión con esos fondos que bajo distintas denominaciones, concede el gobierno e instituciones públicas a empresas para que investiguen, desarrollen productos y lleven el pabellón rojigualda a las ferias de medio mundo.
 
-
-
-	  * Así, conocí de primera mano el caso de una empresa que solía (y no sé si suele) obtener sus 100000 o 200000 euros anuales con proyectos PROFIT de diversa naturaleza. Recuerdo el de un año: consitía en una herramienta para la predicción de precios del suelo (¡era la época feliz!) que nunca vi usado para ningún fin —que no fuese el de redactar la memoria justificativa, claro está— ni generó ningún proyecto o servicio que no se agotase en el fin mismo de cobrar la subvención. Y poco más o menos con los otros.
-	  * Un antiguo colega me llamó un día. Iba a lanzar una empresa con cierto personaje. Querían radicarla en Navarra. Dizque este individuo tenía buena relación con nosequé instituciones de allí y que sería fácil obtener subvenciones. ¿Para qué? Tanto da. Me podían haber dicho algo así como: "tenemos una idea cojonuda y estamos casi seguros de que vamos a conseguir financiación para desarrollarla; luego, ¡ya verás!" Pero no. La cuestión es que había acceso a la pasta y luego se vería bajo qué pretexto se ordeñaría la vaca pública.
-	  * También trabajé en una empresa en el desarrollo de cierto producto. Realmente, lo que tenía de I+D era software libre desarrollado por algún tercero que, seguramente, ignoraba que en las antípodas usábamos sus ideas para ganar algún dinerillo. Pero estaba bien. Molón. Pues oí cierto tiempo después que estaban preparando una versión descafeinada (es decir, eliminando _funcionalidad_) de esa herramienta para crear otra (¡un rutilante nuevo producto!) cuyo única razón de ser era optar a las ayudas de nosequé organismo.
+* Así, conocí de primera mano el caso de una empresa que solía (y no sé si suele) obtener sus 100000 o 200000 euros anuales con proyectos PROFIT de diversa naturaleza. Recuerdo el de un año: consitía en una herramienta para la predicción de precios del suelo (¡era la época feliz!) que nunca vi usado para ningún fin —que no fuese el de redactar la memoria justificativa, claro está— ni generó ningún proyecto o servicio que no se agotase en el fin mismo de cobrar la subvención. Y poco más o menos con los otros.
+* Un antiguo colega me llamó un día. Iba a lanzar una empresa con cierto personaje. Querían radicarla en Navarra. Dizque este individuo tenía buena relación con nosequé instituciones de allí y que sería fácil obtener subvenciones. ¿Para qué? Tanto da. Me podían haber dicho algo así como: "tenemos una idea cojonuda y estamos casi seguros de que vamos a conseguir financiación para desarrollarla; luego, ¡ya verás!" Pero no. La cuestión es que había acceso a la pasta y luego se vería bajo qué pretexto se ordeñaría la vaca pública.
+* También trabajé en una empresa en el desarrollo de cierto producto. Realmente, lo que tenía de I+D era software libre desarrollado por algún tercero que, seguramente, ignoraba que en las antípodas usábamos sus ideas para ganar algún dinerillo. Pero estaba bien. Molón. Pues oí cierto tiempo después que estaban preparando una versión descafeinada (es decir, eliminando _funcionalidad_) de esa herramienta para crear otra (¡un rutilante nuevo producto!) cuyo única razón de ser era optar a las ayudas de nosequé organismo.
 
 Me he entretenido en revisar, por ejemplo, las subvenciones concedidas dentro de la [convocatoria 2006 del plan PROFIT](http://www.boe.es/boe/dias/2007/02/17/pdfs/A07032-07046.pdf) para identificar algún producto, alguna idea, que al cabo de 6 años hubiese fructificado en productos o servicios estupendos. Y no he conseguido identificar, realmente, ninguno. Aunque pueda deberse a mi incompetencia, claro está.
 

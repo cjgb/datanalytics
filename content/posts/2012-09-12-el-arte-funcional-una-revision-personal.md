@@ -9,6 +9,8 @@ categories:
 - gráficos
 tags:
 - gráficos
+- libros
+- cairo
 ---
 
 Leí [El arte funcional](http://www.datanalytics.com/blog/2012/08/08/el-arte-funcional/) de Alberto Cairo y he aquí finalmente mi visión, muy personal, sobre el libro.

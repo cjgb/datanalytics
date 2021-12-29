@@ -20,7 +20,7 @@ La historia del pollo es conocido: que si un tipo se come un pollo y otro ningun
 Recogida de refugiados:
 Siempre bien. Incluso con efecto llamada. Toda la literatura sobre entrada de inmigrantes, refugiados, repatriados,... a un país con una sociedad y economía abiertas muestra efectos positivos.
 >
-> -- José Luis Ferreira (@JL_Ferr) [16 de junio de 2018](https://twitter.com/JL_Ferr/status/1008024971317334016?ref_src=twsrc%5Etfw)</blockquote>
+> -- José Luis Ferreira (@JL_Ferr) [16 de junio de 2018](https://twitter.com/JL_Ferr/status/1008024971317334016?ref_src=twsrc%5Etfw)
 
 que hablan de los efectos económicos positivos (o no particularmente negativos) de la llegada de inmigrantes (a ciertos lugares que cumplen determinadas condiciones).
 

@@ -14,10 +14,8 @@ tags:
 
 Tenía guardado un enlace de un artículo del periódico sobre [curiosidades de la lotería](http://www.elpais.com/articulo/espana/terminacion/repetida/Navidad/elpepunac/20111221elpepunac_2/Tes). Describe dos hechos curiosos:
 
-
-
-	  * Que la terminación más repetida, el 5, ha aparecido 32 ocasiones en 201 _gordos_ (se ve que ha habido 200 sorteos, pero un año hubo, cosas de la vida, dos _gordos_).
-	  * Que dos números, el 15640 y el 20297 han sido _gordos_ en dos ocasiones.
+* Que la terminación más repetida, el 5, ha aparecido 32 ocasiones en 201 _gordos_ (se ve que ha habido 200 sorteos, pero un año hubo, cosas de la vida, dos _gordos_).
+* Que dos números, el 15640 y el 20297 han sido _gordos_ en dos ocasiones.
 
 Una pregunta, pues, para mis lectores: ¿qué es más improbable, que la terminación más frecuente haya ocurrido en 32 (o más) ocasiones o que haya habido dos (o más) _gordos_ repetidos?
 

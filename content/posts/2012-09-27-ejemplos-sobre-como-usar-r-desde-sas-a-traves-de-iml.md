@@ -17,32 +17,21 @@ Quiero dar a conocer hoy un vídeo de SAS sobre cómo integrarlo con R a través
 
 El vídeo
 
-
-
-http://www.youtube.com/watch?feature=player_embedded&v=rUaTTre24kI#!
-
-
+{{< youtube rUaTTre24kI >}}
 
 ilustra a través de una serie de ejemplos, cómo combinar líneas de código de R dentro de SAS,
-
 
 [![](/wp-uploads/2012/09/sas_r_2.png)
 ](/wp-uploads/2012/09/sas_r_2.png)
 
-
 cómo invocar funciones de R,
-
 
 [![](/wp-uploads/2012/09/sas_r_3.png)
 ](/wp-uploads/2012/09/sas_r_3.png)
 
-
 y cómo pasar datos entre ambos entornos,
-
 
 [![](/wp-uploads/2012/09/sas_r_4.png)
 ](/wp-uploads/2012/09/sas_r_4.png)
-
-
 
 Esperemos que la nueva dirección de SAS España tenga finalmente a bien algún año venir a explicar con más detenimiento a los miembros de la comunidad de usuarios de R esta integración, sea en las [IV Jornadas](http://r-es.org/IV+Jornadas) o algunas de las que seguirán. Y que no se hagan los suecos como sucedió en las anteriores, claro.

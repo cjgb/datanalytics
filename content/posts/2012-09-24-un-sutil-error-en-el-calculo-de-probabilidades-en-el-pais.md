@@ -11,15 +11,12 @@ tags:
 - percepción del riesgo
 - probabilidad
 - riesgo
+- prensa
 ---
 
 [Leo en El País](http://economia.elpais.com/economia/2012/09/20/actualidad/1348166062_597975.html) que
 
-
-
-<blockquote>La aviación es el modo de transporte más seguro de cuantos existen. Los expertos califican una organización como ultrasegura cuando ofrece un ratio de un accidente por cada millón de operaciones. 2011 se cerró en Europa con cero accidentes aéreos. En todo el mundo se registraron 0,37 accidentes por cada millón de vuelos. Estadísticamente hablando, una persona que volara diariamente tendría un accidente en 3.000 años.</blockquote>
-
-
+>La aviación es el modo de transporte más seguro de cuantos existen. Los expertos califican una organización como ultrasegura cuando ofrece un ratio de un accidente por cada millón de operaciones. 2011 se cerró en Europa con cero accidentes aéreos. En todo el mundo se registraron 0,37 accidentes por cada millón de vuelos. Estadísticamente hablando, una persona que volara diariamente tendría un accidente en 3.000 años.
 
 Hummmm... a primera vista, sabiendo que 3000 años viene a ser un millón de días, me salían no 3000 años sino 9000, el triple. ¿Estaría en lo cierto?
 

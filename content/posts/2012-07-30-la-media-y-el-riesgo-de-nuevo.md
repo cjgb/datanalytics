@@ -13,6 +13,7 @@ tags:
 - finanzas
 - media
 - mediana
+- spiegelhalter
 ---
 
 Hoy me han preguntado una cosa algo rara. Era alguien del departamento de riesgos de una conocida entidad financiera que quería saber cómo calcular (con SAS) la media del LTV. El LTV, aunque tiene otras acepciones, significa en este contexto _loan to value_, el cociente entre el valor de un préstamo y valor del colateral que lo respalda.
@@ -23,10 +24,8 @@ El problema con el que se encontraba era que, en algunos casos, para ciertos con
 
 Mi respuesta automática: usa la mediana. Pero una sinapsis me ha hecho eco y ha rebotado la señal hacia capas más lúcidas de mi cerebro y me llevó a pensar cómo, para un departamento de riesgos, una medida de centralidad de la LTV es irrelevante. Por varios motivos.
 
-
-
-	  * En primer lugar por las ponderaciones: muchos préstamos pequeños con una LTV baja pueden enmascarar unos préstamos grandes con una LTV grande (y de mucho riesgo, por tanto). Y si se calcula la media de la LTV usando ponderando por el tamaño del préstamo, el resultado global es la suma del capital prestado dividido entre la suma del colateral. ¡Algo de masiado _rudimentario_ para todo un departamento de riesgos!
-	  * En segundo lugar, y de manera más importante, porque el riesgo puede no estar en la masa de préstamos con un LTV razonable sino en un subconjunto de los de mayor LTV. ¿Por qué entonces la media y no una selección de cuantiles altos? ¿Por qué no ya la misma distribución del LTV en lugar de resúmenes tan cuestionables como caducos?
+* En primer lugar por las ponderaciones: muchos préstamos pequeños con una LTV baja pueden enmascarar unos préstamos grandes con una LTV grande (y de mucho riesgo, por tanto). Y si se calcula la media de la LTV usando ponderando por el tamaño del préstamo, el resultado global es la suma del capital prestado dividido entre la suma del colateral. ¡Algo de masiado _rudimentario_ para todo un departamento de riesgos!
+* En segundo lugar, y de manera más importante, porque el riesgo puede no estar en la masa de préstamos con un LTV razonable sino en un subconjunto de los de mayor LTV. ¿Por qué entonces la media y no una selección de cuantiles altos? ¿Por qué no ya la misma distribución del LTV en lugar de resúmenes tan cuestionables como caducos?
 
 Luego se burlan de nosotros. Nos atribuyen un comentario gañán a eso de cuando alguien mete la cabeza en el horno y los pies en la nevera. Pero luego van los departamentos de riesgos y... media al canto. Y también [el Banco de España desaporta su granito de arena](http://www.datanalytics.com/blog/2012/06/12/por-que-me-quejo-del-banco-de-espana/).
 

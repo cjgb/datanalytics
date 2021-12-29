@@ -25,12 +25,8 @@ La gráfica compara el llamado _mix_ de producción eléctrica de la compañía 
 
 Pero lo grave es que descubro que el pequeño informe de Iberdrola, con sus tartas 3D y todo, responde al modelo establecido por la CNE, la Comisión Nacional de la Energía, tal y como figura en su portal de internet (sección [_Listado de Informes de Etiquetado de Electricidad_](http://gdo.cne.es/CNE/resumenGdo.do?anio=2011)). En los documentos PDF que uno puede descargarse allí, descubre el modelo (¿obligadorio?) de informe, que tras los párrafos
 
-
-
-<blockquote>Si bien la energía eléctrica que llega a nuestros hogares es indistinguible de la que consumen nuestros vecinos u otros consumidores conectados al mismo sistema eléctrico, ahora sí es posible garantizar el origen de la producción de energía eléctrica que usted consume.
-A estos efectos se proporciona el desglose de la mezcla de tecnologías de producción nacional para así comparar los porcentajes del promedio nacional con los correspondientes a la energía vendida por su Compañía Comercializadora.</blockquote>
-
-
+>Si bien la energía eléctrica que llega a nuestros hogares es indistinguible de la que consumen nuestros vecinos u otros consumidores conectados al mismo sistema eléctrico, ahora sí es posible garantizar el origen de la producción de energía eléctrica que usted consume.
+>A estos efectos se proporciona el desglose de la mezcla de tecnologías de producción nacional para así comparar los porcentajes del promedio nacional con los correspondientes a la energía vendida por su Compañía Comercializadora.
 
 pinta la siguiente calamidad:
 

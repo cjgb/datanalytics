@@ -47,3 +47,5 @@ https://datanalytics.com/2018/09/07/tres-titulares-alternativos-y-un-extracto-de
 https://datanalytics.com/2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-un-pollo-y-el-otro-no/
 
 /2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/
+
+/2013/04/15/tu-tasa-de-paro-en-medialab-prado/

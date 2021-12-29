@@ -21,46 +21,43 @@ Me ha dado por reimplementar el programa para realizar un [muestreo de Gibbs](ht
 Lo primero ha sido instalar Julia, para lo que basta con seguir las [instrucciones que aparecen en su página de github](https://github.com/JuliaLang/julia#readme). Y aviso: tarda bastante en descargar y compilar todas sus dependencias.
 
 El código de mi programa, para que quede constancia pública de que vengo a ser un pionero en España usándolo, es:
-``
 
 
-    function gibbs(n, thin)
-            x = 0.0
-            y = 0.0
-            for i=1:n
-                    for j=1:thin
-                            x = randg( 3 ) / ( y * y + 4 )
-                            y = randn() / sqrt( 2*x + 2 ) + 1 / (x + 1)
-                    end
-                    println( i, " ", x, " ", y )
-            end
-    end
+{{< highlight julia "linenos=true" >}}
+function gibbs(n, thin)
+        x = 0.0
+        y = 0.0
+        for i=1:n
+                for j=1:thin
+                        x = randg(3) / (y * y + 4)
+                        y = randn() / sqrt(2*x + 2) + 1 / (x + 1)
+                end
+                println(i, " ", x, " ", y)
+        end
+end
 
-    gibbs( 50000, 1000 )
-
+gibbs(50000, 1000)
+{{< / highlight >}}
 
 El programa en cuestión, tal cual viene en la página que cito arriba, en R, ha tardado en ejecutarse
 
+{{< highlight bash "linenos=true" >}}
+$ time Rscript mcmc00.R > data.tab
 
-    <code>$ time Rscript mcmc00.R > data.tab
-
-    real 8m31.259s
-    user 8m29.668s
-    sys 0m0.948s </code>
-
-
+real 8m31.259s
+user 8m29.668s
+sys 0m0.948s
+{{< / highlight >}}
 
 Y en Julia,
 
+{{< highlight bash "linenos=true" >}}
+$ time julia mcmc00.j > data.tab.j
 
-    <code>$ time julia mcmc00.j > data.tab.j
-
-    real 0m9.268s
-    user 0m9.113s s
-    ys 0m0.144s
-    </code>
-
-
+real 0m9.268s
+user 0m9.113s s
+ys 0m0.144s
+{{< / highlight >}}
 
 Es decir, del orden de 60 veces menos. Es de reseñar que este tipo de algoritmos son de los menos indicados para ser ejecutados con R: son imposibles de vectorizar. No en vano, MCMC (tal como aparece en los nombres de los programas) significa _Markov Chain Monte Carlo_ y en una cadena de Markov, cada valor depende del estado anterior. Hay que morir a hierro y construir un bucle.
 

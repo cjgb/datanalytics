@@ -28,10 +28,8 @@ Creo por tanto que comparar, por ejemplo, los resultados del [informe PISA](http
 
 Y cierro la entrada con dos reflexiones. La primera, trata sobre cómo debería tal vez haber planteado el artículo su autor. En primer lugar, la esperanza de vida es un indicador que está muy ligado a otros, como ilustra la siguiente captura de pantalla de [Gapminder](http://www.gapminder.org/):
 
-
 [![](/wp-uploads/2012/08/gapminder.png)
 ](/wp-uploads/2012/08/gapminder.png)
-
 
 En ella se aprecia cómo el nivel de renta influye decisivamente en la esperanza de vida. ¿Debería el articulista de El Correo haber controlado de alguna manera este tipo de factores? Obviamente no. Porque si lo hubiese hecho, no estaría escribiendo para El Correo sino para The Economist —y ganando bastante más dinero—; quien quiera ver cómo debería haberse planteado el artículo, que le eche un buen vistazo a [_No city for old men_](http://www.economist.com/node/21560888?fsrc=scn/tw/te/pe/nocityforoldmen) y aplique el correspondiente _mutatis mutandis_.
 

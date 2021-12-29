@@ -12,6 +12,7 @@ tags:
 - lematizador
 - nlps
 - r
+- charlas
 ---
 
 Acabo de subir a mi servidor las diapositivas de la [charla](http://www.datanalytics.com/blog/2013/05/13/charla-un-lematizador-probabilistico-con-r/) describiendo un lematizador desambiguado que anuncié el otro día. Gracias a Carlos Ortega y Pedro Concejero, [el vídeo de la charla está disponible en Vímeo](http://vimeo.com/66566980). Por su parte, las transparencias pueden descargarse [aquí](http://datanalytics.com/uploads/charla_nlp_gil_madrid.pdf).

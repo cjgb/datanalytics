@@ -9,6 +9,8 @@ categories:
 - r
 tags:
 - r
+- anuncios
+- madrid
 ---
 
 El miércoles 21 de marzo de 2012, en el aula N-130 del edificio de primer curso (también conocido como  _Prefabricado_) de la facultad de CC. Económicas de la UCM (Somosaguas) tendrá lugar la [primera reunión del grupo de usuarios de R de Madrid](http://r-es.org/Grupo+de+Usuarios+de+R+en+Madrid).

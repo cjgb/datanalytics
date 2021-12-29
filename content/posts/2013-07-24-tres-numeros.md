@@ -13,11 +13,8 @@ tags:
 
 Que el calor fríe las neuronas del autor de estas líneas es algo que sus lectores pueden haber colegido del espaciamiento de las entradas. Y hoy se contentará con yuxtaponer tres números que quizás ellos hayan visto escritos en lugares distintos. Pero que tienen tantos ceros y son de tal magnitud que apenas se pueden comparar sino entre sí. Son:
 
-
-
-	  * [40.000 millones](http://politica.elpais.com/politica/2013/01/08/actualidad/1357672895_538712.html) que hemos gastado en AVEs desde el de Sevilla hasta [el que tal vez un día llegue a Asturias](http://politica.elpais.com/politica/2013/06/07/actualidad/1370625907_891032.html).
-	  * [57.000 millones](http://www.rtve.es/noticias/20130609/rescate/680120.shtml) que hemos gastado en enderezar bancos.
-	  * [27.000 millones](http://cincodias.com/cincodias/2013/04/18/empresas/1366304570_744352.html) que llevamos gastados y no pagados de luz en los últimos diez o doce años.
-
+* [40.000 millones](http://politica.elpais.com/politica/2013/01/08/actualidad/1357672895_538712.html) que hemos gastado en AVEs desde el de Sevilla hasta [el que tal vez un día llegue a Asturias](http://politica.elpais.com/politica/2013/06/07/actualidad/1370625907_891032.html).
+* [57.000 millones](http://www.rtve.es/noticias/20130609/rescate/680120.shtml) que hemos gastado en enderezar bancos.
+* [27.000 millones](http://cincodias.com/cincodias/2013/04/18/empresas/1366304570_744352.html) que llevamos gastados y no pagados de luz en los últimos diez o doce años.
 
 En fin.

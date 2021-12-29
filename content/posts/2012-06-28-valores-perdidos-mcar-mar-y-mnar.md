@@ -9,6 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
+- missing values
 ---
 
 Espero que me excusen los autores del siguiente gráfico y que comprendan que mi interés por reproducirlo aquí es _pro bono publico_. Explica visualmente y a través de tres ejemplos tres modos en que se presenta el fenómeno de los valores perdidos (_missing data_, para algunos) en conjuntos de datos reales.

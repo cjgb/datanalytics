@@ -19,8 +19,6 @@ Ayer fue día de auditorías bancarias. A las cinco y media de la tarde se enfre
 
 Me he entretenido hojeando [uno de los informes de auditoría, el de Roland Berger](http://www.bde.es/webbde/en/secciones/prensa/info_interes/informe_rolandbergere.pdf). Son apenas 38 páginas, pocas de ellas realmente sustanciales. La consultora se ha limitado a repetir los [análisis del BdE y del FMI](http://www.datanalytics.com/blog/2012/06/12/por-que-me-quejo-del-banco-de-espana/) de los que ya nos hemos ocupado previamente:
 
-
-
 * crear dos escenarios (el FMI consideró tres en su día),
 
 	* el _baseline_, uno considerado probable por los analistas y

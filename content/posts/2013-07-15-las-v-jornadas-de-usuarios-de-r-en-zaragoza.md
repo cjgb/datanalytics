@@ -7,9 +7,11 @@ title: Las V Jornadas de Usuarios de R, en Zaragoza
 url: /2013/07/15/las-v-jornadas-de-usuarios-de-r-en-zaragoza/
 categories:
 - r
+- anuncios
 tags:
 - jornadas
 - r
+- anuncios
 ---
 
 Escribo para anunciar públicamente que están en marcha las [V Jornadas de Usuarios de R](http://r-es.org/V+Jornadas). Se celebrarán este año en Zaragoza, los días 12 y 13 de diciembre.

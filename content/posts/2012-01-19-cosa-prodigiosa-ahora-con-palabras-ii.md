@@ -20,69 +20,44 @@ Tal como prometí hace ahora una semana, voy a añadir las palabras que faltaban
 
 En la entrada original proponía tres juegos. El primero, descrito con código así,
 
+{{< highlight R "linenos=true" >}}
+jugar <- function( n, make.step ){
+  tmp <- rep( 0L, n)
+  for( i in 2:n )
+    tmp[i] <- make.step( tmp[i-1] )
+  tmp
+}
 
+juego.s <- function( x, prob.perder = 0.51 ){
+  x + ifelse( runif(1) < prob.perder, -1L, 1L )
+}
 
-
-
-
-
-
-    jugar <- function( n, make.step ){
-      tmp <- rep( 0L, n)
-      for( i in 2:n )
-        tmp[i] <- make.step( tmp[i-1] )
-      tmp
-    }
-
-    juego.s <- function( x, prob.perder = 0.51 ){
-      x + ifelse( runif(1) < prob.perder, -1L, 1L )
-    }
-
-    res.juego.s <- replicate( 1000, jugar( 1000, juego.s )[1000] )
-    hist( res.juego.s )
-    fivenum( res.juego.s )
-
-
-
-
-
-
-
+res.juego.s <- replicate( 1000, jugar( 1000, juego.s )[1000] )
+hist( res.juego.s )
+fivenum( res.juego.s )
+{{< / highlight >}}
 
 es simple: se tira una moneda y si sale cara, recibes un euro y, si sale cruz, lo pierdes. Aunque la moneda tiene un sesgo de manera que se gana/pierde con probabilidad 0.49/0.51. Como puede observarse, en el largo plazo se tiende a perder dinero si se juega repetidamente.
 
 El segundo juego es parecido al primero pero algo más complejo:
 
 
+{{< highlight R "linenos=true" >}}
+juego.c <- function( x ){
+  prob.perder <- ifelse( x %% 3 == 0, 0.905, 0.255 )
+  juego.s( x, prob.perder )
+}
 
+res.juego.c <- replicate( 1000, jugar( 1000, juego.c )[1000] )
 
-
-
-
-
-    juego.c <- function( x ){
-      prob.perder <- ifelse( x %% 3 == 0, 0.905, 0.255 )
-      juego.s( x, prob.perder )
-    }
-
-    res.juego.c <- replicate( 1000, jugar( 1000, juego.c )[1000] )
-
-    hist( res.juego.c )
-    fivenum( res.juego.c )
-
-
-
-
-
-
-
+hist( res.juego.c )
+fivenum( res.juego.c )
+{{< / highlight >}}
 
 Se juega con dos monedas:
 
-
-
-	  * si la cantidad ganada hasta la fecha es múltiplo de 3, se juega con una con la que la probabilidade de ganar es de sólo el 9.5 % pero
-	  * en el caso contrario, se juega con otra con la que la probabilidad de ganar es del 74.5 %.
+* si la cantidad ganada hasta la fecha es múltiplo de 3, se juega con una con la que la probabilidade de ganar es de sólo el 9.5 % pero
+* en el caso contrario, se juega con otra con la que la probabilidad de ganar es del 74.5 %.
 
 Este es otro juego en el que, jugando repetidamene, también se acaba perdiendo. Para verlo, sólo hay que darse cuenta de que las situaciones en que la cantidad ganada o perdida es múltiplo de 3 representan una especie de barrera probabilística: en ellas casi siempre se pierde. Y las probabilidades de ganar y perder con ambas monedas se han elegido de tal manera que es —un poquito — más probable pasar de tener `3n` euros a `3(n-1)` euros que a tener `3(n+1)` euros.
 
@@ -90,28 +65,16 @@ Así, si observamos el juego sólo cuando la cantidad acumulada es múltiplo de 
 
 El tercero de los juegos es más interesante. Es similar a los anteriores, sólo que utiliza una moneda más. En cada jugada, se tira la última moneda y, si sale cara (con probabilidad 0.5), se juega al primero de los juegos y, si sale cruz, al segundo:
 
+{{< highlight R "linenos=true" >}}
+juego.fin <- function( x ){
+  sample( c( juego.c, juego.s), 1 )[[1]](x)
+}
 
+res.juego.fin <- replicate( 1000, jugar( 1000, juego.fin )[1000] )
 
-
-
-
-
-
-    juego.fin <- function( x ){
-      sample( c( juego.c, juego.s), 1 )[[1]](x)
-    }
-
-    res.juego.fin <- replicate( 1000, jugar( 1000, juego.fin )[1000] )
-
-    hist( res.juego.fin )
-    fivenum( res.juego.fin )
-
-
-
-
-
-
-
+hist( res.juego.fin )
+fivenum( res.juego.fin )
+{{< / highlight >}}
 
 Lo sorprendente de este juego es que, con él, ¡se gana dinero! Es decir, jugando al azar a uno u otro juego perdedores, puedes acabar jugando a un juego ganador.
 

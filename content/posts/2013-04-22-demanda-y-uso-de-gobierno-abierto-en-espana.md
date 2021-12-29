@@ -17,37 +17,27 @@ Traigo a la consideración de mis lectores el [Estudio de demanda y uso de gobie
 
 Aborda, dice, las siguientes cuestiones que copio:
 
-
-
-	  * La visión de la ciudadanía sobre la Administración Pública
-	  * La valoración que hace de los servicios públicos.
-	  * El uso de la Administración Electrónica.
-	  * La importancia que concede a las actuaciones en materia de transparencia, participación y colaboración.
-	  * Las demandas más relevantes sobre transparencia y participación.
+* La visión de la ciudadanía sobre la Administración Pública
+* La valoración que hace de los servicios públicos.
+* El uso de la Administración Electrónica.
+* La importancia que concede a las actuaciones en materia de transparencia, participación y colaboración.
+* Las demandas más relevantes sobre transparencia y participación.
 
 Los principales resultados que _dice_ encontrar son:
 
-
-
-	  * El 65.5 % de la ciudadanía considera como buena o muy buena la calidad de los servicios públicos.
-	  * El 42.2 % realizan trámites electrónicamente con las administraciones públicas y el 65,2% consultan las webs públicas para informarse de actividades o actuaciones administrativas.
-	  * El 75 % de los encuestados creen que la transparencia mejoraría la confianza en el Gobierno.
-	  * El 81.4 % de la ciudadanía reclama nuevos canales para incrementar la participación y apuesta por la convivencia entre canales digitales y canales tradicionales.
-	  * El 53.6 % de los usuarios de Internet manifiestan interés en los asuntos políticos frente al 34.8 % de los que no lo son.
-
+* El 65.5 % de la ciudadanía considera como buena o muy buena la calidad de los servicios públicos.
+* El 42.2 % realizan trámites electrónicamente con las administraciones públicas y el 65,2% consultan las webs públicas para informarse de actividades o actuaciones administrativas.
+* El 75 % de los encuestados creen que la transparencia mejoraría la confianza en el Gobierno.
+* El 81.4 % de la ciudadanía reclama nuevos canales para incrementar la participación y apuesta por la convivencia entre canales digitales y canales tradicionales.
+* El 53.6 % de los usuarios de Internet manifiestan interés en los asuntos políticos frente al 34.8 % de los que no lo son.
 
 En realidad, el estudio consta de dos encuestas: una a nivel nacional y otra específica para el País Vasco —donde determinadas iniciativas de gobierno abierto han estado funcionando ya durante un cierto tiempo—. Y es en la discusión de la segunda que se leen unos parrafitos que, parece, desmerecen reseña alguna en el terso resumen ejecutivo:
 
-
-
-<blockquote>Del total de encuestados únicamente el 11.1 % afirma conocer alguno de los portales vascos relacionados con el Gobierno Abierto comentados anteriormente (Irekia, Adi! u Open Data Euskadi), por lo que el desconocimiento sobre estas iniciativas es muy elevado. El escaso tiempo que llevan en marcha estos portales de Gobierno Abierto puede influir en este hecho.
-
-El portal más conocido es Adi!, que conocen el 6.4 % de los encuestados. El resultado menos optimista lo obtiene Irekia, que sólo conocen el 3.8 % de los encuestados. Los medios a través de los cuales los ciudadanos encuestados manifiestan haber conocido estos portales son principalmente las campañas publicitarias a través de medios de comunicación de masas y por
-el boca a boca de conocidos.
-
-Teniendo en cuenta que únicamente el 1.3 % de los encuestados ha entrado alguna vez el portal Irekia o en el portal Adi!, y que sólo el 0.6 % ha visitado el portal Open Data Euskadi, es muy difícil establecer los impactos de estas iniciativas, los niveles de satisfacción de los usuarios con ellas o las demandas adicionales que tienen respecto a ellas.</blockquote>
-
-
+>Del total de encuestados únicamente el 11.1 % afirma conocer alguno de los portales vascos relacionados con el Gobierno Abierto comentados anteriormente (Irekia, Adi! u Open Data Euskadi), por lo que el desconocimiento sobre estas iniciativas es muy elevado. El escaso tiempo que llevan en marcha estos portales de Gobierno Abierto puede influir en este hecho.
+>
+>El portal más conocido es Adi!, que conocen el 6.4 % de los encuestados. El resultado menos optimista lo obtiene Irekia, que sólo conocen el 3.8 % de los encuestados. Los medios a través de los cuales los ciudadanos encuestados manifiestan haber conocido estos portales son principalmente las campañas publicitarias a través de medios de comunicación de masas y por el boca a boca de conocidos.
+>
+>Teniendo en cuenta que únicamente el 1.3 % de los encuestados ha entrado alguna vez el portal Irekia o en el portal Adi!, y que sólo el 0.6 % ha visitado el portal Open Data Euskadi, es muy difícil establecer los impactos de estas iniciativas, los niveles de satisfacción de los usuarios con ellas o las demandas adicionales que tienen respecto a ellas.
 
 (Nota: no estaría mal que, en aras de la transparencia que predican, Irekia, Open Data Euskadi, Adi!, etc. hiciesen públicos sus _logs_ de visitas.)
 

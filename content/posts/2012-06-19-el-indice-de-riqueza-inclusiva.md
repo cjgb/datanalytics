@@ -11,6 +11,7 @@ categories:
 tags:
 - estadística
 - números
+- indicadores
 ---
 
 Alguna vez hemos criticado aquí el PIB como indicador del progreso de una economía, además de algunos aspectos metodológicos de su cálculo y la manera en que, por decirlo de alguna manera, se presenta en sociedad.

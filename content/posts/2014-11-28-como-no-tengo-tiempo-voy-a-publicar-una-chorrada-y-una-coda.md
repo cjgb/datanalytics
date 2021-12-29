@@ -50,79 +50,54 @@ que viene a ser una versión de mi gráfico de barras (¿os habéis fijado que, 
 ¿Veis las diferencias tan notables que muestra el mapa anterior? ¿Serán _significativas_? Volveré a eso luego, pero quiero indicar primero que las variaciones en mi gráfico son espurias. La VMI que he representado es... la proporción de mujeres. Que varía mucho menos entre comunidades autónomas (INE dixit):
 
 
-
-
-
-
-
-
-    floor(fivenum(sexos$prop) * 10000) / 100
-    #[1] 49.65 50.24 50.49 51.07 52.10
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+floor(fivenum(sexos$prop) * 10000) / 100
+#[1] 49.65 50.24 50.49 51.07 52.10
+{{< / highlight >}}
 
 Si con una variable conocida podemos detectar una varianza tan grande, ¿de verdad podemos fiarnos de los resultados que afectan a otras desconocidas? ¿No estaremos [creando narrativas alrededor de ruido estadístico](http://xkcd.com/904/)?
 
 El problema es consencuencia, en parte, del minúsculo tamaño muestral. Véase el número de encuestas por comunidad autónoma:
 
-
-
-
-
-
-
-
-    sort(table(vmi$ccaa))
-    #c17 c06 c15 c04 c11 c02 c14 c03 c07 c05 c16 c08 c12 c10 c13 c09 c01
-    #  9  16  16  24  26  33  35  40  42  54  67  69  69 141 159 181 208
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+sort(table(vmi$ccaa))
+#c17 c06 c15 c04 c11 c02 c14 c03 c07 c05 c16 c08 c12 c10 c13 c09 c01
+#  9  16  16  24  26  33  35  40  42  54  67  69  69 141 159 181 208
+{{< / highlight >}}
 
 Después de lo cual, ahora más constructivamente, regreso al párrafo con el que la autora acompañaba el gráfico anterior,
 
 
-<blockquote>Confianza generalizada: Numerosos estudios han demostrado que el grado de “confianza generalizada” en una sociedad está fuertemente correlacionado con el desarrollo económico. Esta variable se mide con las respuestas a la pregunta: “En general, ¿diría usted que la mayoría de la gente es de fiar, o que hay que tener mucho cuidado en el trato con otra gente?”. De los encuestados en España, sólo el 19% afirmaba que la mayoría de la gente es de fiar. El mapa siguiente muestra considerable variación entre regiones (en todos los mapas, los cuatro colores dividen las regiones en cuartiles). El grado de confianza es relativamente bajo en Galicia, Cataluña, Aragón y Baleares, y alto en Madrid, Cantabria, La Rioja y Navarra.</blockquote>
+>Confianza generalizada: Numerosos estudios han demostrado que el grado de “confianza generalizada” en una sociedad está fuertemente correlacionado con el desarrollo económico. Esta variable se mide con las respuestas a la pregunta: “En general, ¿diría usted que la mayoría de la gente es de fiar, o que hay que tener mucho cuidado en el trato con otra gente?”. De los encuestados en España, sólo el 19% afirmaba que la mayoría de la gente es de fiar. El mapa siguiente muestra considerable variación entre regiones (en todos los mapas, los cuatro colores dividen las regiones en cuartiles). El grado de confianza es relativamente bajo en Galicia, Cataluña, Aragón y Baleares, y alto en Madrid, Cantabria, La Rioja y Navarra.
 
 
 y voy a ensayar un análisis utilizando técnicas de esas que<del>, se conoce, no se enseñan en econometría</del> [nos enseñan quienes saben del asunto](http://www.stat.wisc.edu/~larget/Stat998/Fall2013/GelmanMultipleComparisons.pdf).
 
 Inspirado por el artículo anterior, hago
 
+{{< highlight R "linenos=true" >}}
+library(lme4)
+library(lattice)
 
+# los datos están disponibles
+# en http://www.worldvaluessurvey.org/
+load("WorldValuesSurvey-Wave6-2010-2014_v2014-11-07.rdata")
 
-    library(<lme4)
-    library(lattice)
+wvs.all <- get("WorldValuesSurvey-Wave6-2010-2014_v2014-11-07")
+spain <- wvs.all[wvs.all$V2 == 724,]
 
-    # los datos están disponibles
-    # en http://www.worldvaluessurvey.org/
-    load("WorldValuesSurvey-Wave6-2010-2014_v2014-11-07.rdata")
+tmp <- spain[,c("V256", "V240", "V242", "V24")]
+colnames(tmp) <- c("ccaa", "sex", "age", "trust")
 
-    wvs.all <- get("WorldValuesSurvey-Wave6-2010-2014_v2014-11-07")
-    spain <- wvs.all[wvs.all$V2 == 724,]
+tmp <- tmp[tmp$trust > 0,]
+tmp$ccaa <- gsub("7240", "c", as.character(tmp$ccaa))
 
-    tmp <- spain[,c("V256", "V240", "V242", "V24")]
-    colnames(tmp) <- c("ccaa", "sex", "age", "trust")
+tmp$sex <- factor(tmp$sex)
 
-    tmp <- tmp[tmp$trust > 0,]
-    tmp$ccaa <- gsub("7240", "c", as.character(tmp$ccaa))
-
-    tmp$sex <- factor(tmp$sex)
-
-    mod3 <- lmer(<a href="http://inside-r.org/packages/cran/trust">trust ~ 1 + (1 | ccaa), data = tmp)
-    dotplot(ranef(mod3, condVar = TRUE))
-    qqmath(ranef(mod3, condVar = TRUE))
-
-
+mod3 <- lmer(<a href="http://inside-r.org/packages/cran/trust">trust ~ 1 + (1 | ccaa), data = tmp)
+dotplot(ranef(mod3, condVar = TRUE))
+qqmath(ranef(mod3, condVar = TRUE))
+{{< / highlight >}}
 
 para obtener
 
@@ -136,16 +111,14 @@ que nos indican que solo habría dos o tres comunidades en las que las diferenci
 
 Aunque bien podría argumentarse que lo que piden los datos es un modelo basado en `glmer`,
 
+{{< highlight R "linenos=true" >}}
+tmp$trust.bin <- tmp$trust == 1
 
-
-    tmp$trust.bin <- tmp$trust == 1
-
-    mod.glmer <- glmer(trust.bin ~ 1 + (1 | ccaa),
-                       family = binomial, data = tmp)
-    dotplot(ranef(mod.glmer, condVar = TRUE))
-    qqmath(ranef(mod.glmer, condVar = TRUE))
-
-
+mod.glmer <- glmer(trust.bin ~ 1 + (1 | ccaa),
+                    family = binomial, data = tmp)
+dotplot(ranef(mod.glmer, condVar = TRUE))
+qqmath(ranef(mod.glmer, condVar = TRUE))
+{{< / highlight >}}
 
 y obtener así
 

@@ -4,7 +4,7 @@ date: 2012-04-02 08:12:25+00:00
 draft: false
 title: ¿Creer o no creer?
 
-url: /2012/04/02/%c2%bfcreer-o-no-creer/
+url: /2012/04/02/creer-o-no-creer/
 categories:
 - estadística
 - números
@@ -28,8 +28,6 @@ Pero, ¿veis el porcentaje de uso de Linux? ¿Cómo puede ser que difiera tanto 
 
 Puede que la desviación se deba al modo en que se ha realizado la encuesta:
 
-
-<blockquote>Para la captación de la muestra, se han enviado por correo electrónico más de 10.000 invitaciones de participación en la encuesta, reforzadas con cinco recordatorios (mediante correo electrónico y teléfono) diferentes para poder maximizar la tasa de respuesta.</blockquote>
-
+ >Para la captación de la muestra, se han enviado por correo electrónico más de 10.000 invitaciones de participación en la encuesta, reforzadas con cinco recordatorios (mediante correo electrónico y teléfono) diferentes para poder maximizar la tasa de respuesta.
 
 O quién sabe a qué. Pero en tanto no nos expliquen de manera creíble unos porcentajes de penetración tan distintos de los que aparecen publicados por doquier, mejor tomar _cum grano salis_ los resultados del estudio.

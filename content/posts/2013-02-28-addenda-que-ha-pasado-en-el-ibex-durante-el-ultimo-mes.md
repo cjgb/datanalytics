@@ -24,10 +24,14 @@ Abundando en el tema de ayer, ahora, los mismos datos representados con mapas de
 
 Para obtenerlo, a lo que ya teníamos basta añadirle:
 
+{{< highlight R "linenos=true" >}}
+library(gplots)
+heatmap.2(
+    as.matrix(ibex.scaled),
+    Rowv=F, Colv=T, key=F, trace="none",
+    col=redgreen, xlab="valor", ylab="",
+    margins=c(5,10))
+{{< / highlight >}}
 
 
-    library(<a href="http://inside-r.org/packages/cran/gplots">gplots)
-    heatmap.2(as.matrix(ibex.scaled),
-              Rowv=F, Colv=T, key=F, trace="none",
-              col=redgreen, xlab="valor", ylab="",
-              margins=c(5,10))
+

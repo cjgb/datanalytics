@@ -18,9 +18,7 @@ Me reconozco entusiasta de la heterodoxia. Allá donde hay comunión de pensamie
 
 Por eso traigo a estas páginas la mención a [_Shadow Government Statistics_](http://www.shadowstats.com/), un portal que proporciona medidas alternativas de las principales magnitudes macroeconómicas (de los EE.UU.). Su autor, Walter J. Williams, ilustra así de descriptivamente su desencanto con las cifras oficiales:
 
-
-<blockquote>One of my early clients was a large manufacturer of commercial airplanes, who had developed an econometric model for predicting revenue passenger miles. The level of revenue passenger miles was their primary sales forecasting tool, and the model was heavily dependent on the GNP (now GDP) as reported by the Department of Commerce. Suddenly, their model stopped working, and they asked me if I could fix it. I realized the GNP numbers were faulty, corrected them for my client (official reporting was similarly revised a couple of years later) and the model worked again, at least for a while, until GNP methodological changes eventually made the underlying data worthless.</blockquote>
-
+>One of my early clients was a large manufacturer of commercial airplanes, who had developed an econometric model for predicting revenue passenger miles. The level of revenue passenger miles was their primary sales forecasting tool, and the model was heavily dependent on the GNP (now GDP) as reported by the Department of Commerce. Suddenly, their model stopped working, and they asked me if I could fix it. I realized the GNP numbers were faulty, corrected them for my client (official reporting was similarly revised a couple of years later) and the model worked again, at least for a while, until GNP methodological changes eventually made the underlying data worthless.
 
 Por ejemplo, en SGS, las [cifras del desempleo](http://www.shadowstats.com/alternate_data/unemployment-charts) se muestran así:
 
@@ -29,11 +27,8 @@ Por ejemplo, en SGS, las [cifras del desempleo](http://www.shadowstats.com/alter
 
 Su autor acompaña las cifras oficiales (que aparecen en el periódico, en rojo) de la medida de _desempleo amplio_, que suma a la anterior:
 
-
-
-	  * los desempleados desanimados a corto plazo, es decir, los que pudiendo trabajar, dicen no estar buscando empleo
-	  * los subempleados, aquellos que tienen trabajos a tiempo parcial con un número de horas que consideran insuficiente
-
+* los desempleados desanimados a corto plazo, es decir, los que pudiendo trabajar, dicen no estar buscando empleo
+* los subempleados, aquellos que tienen trabajos a tiempo parcial con un número de horas que consideran insuficiente
 
 Y sobre las curvas anteriores muestra en azul su propia estimación, que incluye la totalidad de los desempleados desanimados que, según él, fueron oficialmente declarados inexistentes tras la reforma metodológica de 1994.
 

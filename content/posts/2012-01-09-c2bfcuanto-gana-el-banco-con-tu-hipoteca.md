@@ -4,7 +4,7 @@ date: 2012-01-09 06:44:41+00:00
 draft: false
 title: ¿Cuánto gana el banco con tu hipoteca?
 
-url: /2012/01/09/%c2%bfcuanto-gana-el-banco-con-tu-hipoteca/
+url: /2012/01/09/cuanto-gana-el-banco-con-tu-hipoteca/
 categories:
 - finanzas
 - r
@@ -30,10 +30,10 @@ $$ \sum_{t=1}^{12 \times 25} \frac{474.21}{(1 + 0.3/12)^t} = 474.21 \sum_{t=1}^{
 
 Aunque la expresión anterior admite una forma cerrada, nos es más cómodo a los perezosos calcularla en R así
 
-
-    <code>> sum( ( 1 + 0.03 / 12) ^(-(1:(25 * 12)) ) ) * 474.21
-    [1] 99999.72</code>
-
+{{< highlight R "linenos=true" >}}
+sum( ( 1 + 0.03 / 12) ^(-(1:(25 * 12)) ) ) * 474.21
+# [1] 99999.72
+{{< / highlight >}}
 
 Y, efectivamente, se obtienen los 100k euros de partida.
 
@@ -43,15 +43,13 @@ Pues resulta que no todos los agentes económicos descuentan con los mismos tipo
 
 Supongamos que el banco que concede la anterior hipoteca es capaz de financiarla pagando el euribor, es decir, el 2%. ¿Cuál sería el valor presente neto de los flujos de dinero que supone el pago de las cuotas? Es
 
-
 $$ 474.21 \sum_{t=1}^{12 \times 25} \frac{1}{(1 + 0.2/12)^t}, $$
-
 
 que en R queda
 
-
-    <code>> sum( ( 1 + 0.02 / 12) ^(-(1:(25 * 12)) ) ) * 474.21
-    [1] 111880.4</code>
-
+{{< highlight R "linenos=true" >}}
+sum( ( 1 + 0.02 / 12) ^(-(1:(25 * 12)) ) ) * 474.21
+# [1] 111880.4
+{{< / highlight >}}
 
 Et voilá, el banco hace casi 12k euros con conceder dicha la hipoteca.

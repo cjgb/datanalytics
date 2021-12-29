@@ -11,59 +11,54 @@ categories:
 tags:
 - probabilidad
 - r
+- parrondo
 ---
 
 Hoy voy a hacer mención a una cosa prodigiosa. Pero sin palabras. Voy a regalar a mis lectores tres pedazos de código que son este
 
+{{< highlight R "linenos=true" >}}
+jugar <- function( n, make.step ){
+  tmp <- rep( 0L, n)
+  for( i in 2:n )
+    tmp[i] <- make.step( tmp[i-1] )
+  tmp
+}
 
+juego.s <- function( x, prob.perder = 0.51 ){
+  x + ifelse( runif(1) < prob.perder, -1L, 1L )
+}
 
-    jugar <- function( n, make.step ){
-      tmp <- rep( 0L, n)
-      for( i in 2:n )
-        tmp[i] <- make.step( tmp[i-1] )
-      tmp
-    }
-
-    juego.s <- function( x, prob.perder = 0.51 ){
-      x + ifelse( runif(1) < prob.perder, -1L, 1L )
-    }
-
-    res.juego.s <- replicate( 1000, jugar( 1000, juego.s )[1000] )
-    hist( res.juego.s )
-    fivenum( res.juego.s )
-
-
+res.juego.s <- replicate( 1000, jugar( 1000, juego.s )[1000] )
+hist( res.juego.s )
+fivenum( res.juego.s )
+{{< / highlight >}}
 
 este
 
+{{< highlight R "linenos=true" >}}
+juego.c <- function( x ){
+  prob.perder <- ifelse( x %% 3 == 0, 0.905, 0.255 )
+  juego.s( x, prob.perder )
+}
 
+res.juego.c <- replicate( 1000, jugar( 1000, juego.c )[1000] )
 
-    juego.c <- function( x ){
-      prob.perder <- ifelse( x %% 3 == 0, 0.905, 0.255 )
-      juego.s( x, prob.perder )
-    }
-
-    res.juego.c <- replicate( 1000, jugar( 1000, juego.c )[1000] )
-
-    hist( res.juego.c )
-    fivenum( res.juego.c )
-
-
+hist( res.juego.c )
+fivenum( res.juego.c )
+{{< / highlight >}}
 
 y este otro
 
+{{< highlight R "linenos=true" >}}
+juego.fin <- function( x ){
+  sample( c( juego.c, juego.s), 1 )[[1]](x)
+}
 
+res.juego.fin <- replicate( 1000, jugar( 1000, juego.fin )[1000] )
 
-    juego.fin <- function( x ){
-      sample( c( juego.c, juego.s), 1 )[[1]](x)
-    }
-
-    res.juego.fin <- replicate( 1000, jugar( 1000, juego.fin )[1000] )
-
-    hist( res.juego.fin )
-    fivenum( res.juego.fin )
-
-
+hist( res.juego.fin )
+fivenum( res.juego.fin )
+{{< / highlight >}}
 
 Es una cosa tan maravillosa que no les voy a robar la oportunidad de averiguar por sí mismos en qué consiste. La semana que viene, en la segunda entrega, comentaré el código anterior y explicaré a qué se refiere y, si nadie lo ha dado a conocer antes, dónde reside lo miraculoso del asunto.
 

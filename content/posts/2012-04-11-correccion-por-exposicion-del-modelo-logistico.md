@@ -23,66 +23,61 @@ Supongamos también, y esta es la novedad, que no todos los sujetos están expue
 
 Planteemos el problema en R:
 
+{{< highlight R "linenos=true" >}}
+# número de sujetos
+n <- 10000
+
+# coeficientes "verdaderos"
+beta.0 <- 1
+beta.1 <- -2
+
+# un factor que afecta a la probabilidad
+x <- factor( sample( c("a", "b"), n, replace = T ) )
+
+# número de días de "exposición"
+days <- sample( c( 1,2,3,4 ), n, replace = T )
+
+# probabilidad de que *no* ocurra el suceso
+p <- plogis( beta.0 + beta.1 * (x == "b") )^days
+
+# variable objetivo (1 significa que *no* ocurre el suceso)
+y <- rbinom( n, 1, p )
+
+# ¡gráfico!
+mosaicplot( table( days, x, y ) )
 
 
-    # número de sujetos
-    n <- 10000
-
-    # coeficientes "verdaderos"
-    beta.0 <- 1
-    beta.1 <- -2
-
-    # un factor que afecta a la probabilidad
-    x <- factor( sample( c("a", "b"), n, replace = T ) )
-
-    # número de días de "exposición"
-    days <- sample( c( 1,2,3,4 ), n, replace = T )
-
-    # probabilidad de que *no* ocurra el suceso
-    p <- plogis( beta.0 + beta.1 * (x == "b") )^days
-
-    # variable objetivo (1 significa que *no* ocurre el suceso)
-    y <- rbinom( n, 1, p )
-
-    # ¡gráfico!
-    mosaicplot( table( days, x, y ) )
-
-
-    # modelo logístico "normal"
-    dat <- data.frame( x = x, y = y, days = days )
-    m.0 <- glm( y ~ x, family = binomial(), data = dat )
-    m.0$coefficients
-
-
+# modelo logístico "normal"
+dat <- data.frame( x = x, y = y, days = days )
+m.0 <- glm( y ~ x, family = binomial(), data = dat )
+m.0$coefficients
+{{< / highlight >}}
 
 Adaptando [código ajeno](http://www.npwrc.usgs.gov/resource/birds/nestsurv/download/CreateLogisticExposureFamily.R) a nuestro contexto, podemos escribir:
 
-
-
-    logexp <- function(days)
-    {
-        linkfun <- function(mu) qlogis(mu^(1/days))
-        linkinv <- function(eta) plogis(eta)^(days)
-        mu.eta <- function(eta) days * plogis(eta)^(days-1) * .Call("logit_mu_eta", eta, PACKAGE = "stats")
-        valideta <- function(eta) TRUE
-        link <- paste("logexp(", days, ")", sep="")
-        structure(list(linkfun = linkfun, linkinv = linkinv,
-                       mu.eta = mu.eta, valideta = valideta, name = link),
-                  class = "link-glm")
-    }
-
-
-
+{{< highlight R "linenos=true" >}}
+logexp <- function(days)
+{
+    linkfun <- function(mu) qlogis(mu^(1/days))
+    linkinv <- function(eta) plogis(eta)^(days)
+    mu.eta <- function(eta) days * plogis(eta)^(days-1) *
+        .Call("logit_mu_eta", eta, PACKAGE = "stats")
+    valideta <- function(eta) TRUE
+    link <- paste("logexp(", days, ")", sep="")
+    structure(list(linkfun = linkfun,
+        linkinv = linkinv,
+        mu.eta = mu.eta, valideta = valideta, name = link),
+        class = "link-glm")
+}
+{{< / highlight >}}
 
 Esta definición de la función de enlace es bastante peculiar: depende del sujeto no sólo a través de mu_i, como es habitual y nos enseñan los libros, sino también a través de la variable tiempo, que depende del sujeto.
 
 Et voilá:
 
-
-
-    m.1 <- glm( y ~ x, family=binomial(logexp(days=dat$days)), data=dat )
-    m.1$coefficients
-
-
+{{< highlight R "linenos=true" >}}
+m.1 <- glm( y ~ x, family=binomial(logexp(days=dat$days)), data=dat )
+m.1$coefficients
+{{< / highlight >}}
 
 Prácticamente (y, en gran medida, gracias a que el número de observaciones es grande), recobramos el valor original de los coeficientes (cosa que como habrán comprobado los más diligentes de mis lectores, no ocurre con el primer modelo).

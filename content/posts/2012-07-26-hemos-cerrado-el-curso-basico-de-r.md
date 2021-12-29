@@ -66,7 +66,6 @@ De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso
 
 (Perdón por la [graficaca](http://www.datanalytics.com/blog/2011/03/02/1658/): son cosas de Google).
 
-
 De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso avanzado de R?
 
 [![](/wp-uploads/2012/07/avanzado.png)

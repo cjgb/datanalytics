@@ -20,10 +20,7 @@ Sin embargo, las probabilidades de ocurrencia de cada dígito dependen de la dis
 
 Ahora bien, Arthur Charpentier ha escrito sobre [la Ley de Benford en su bitácora Freakonometrics](http://freakonometrics.hypotheses.org/5214) recientemente explicando bajo qué condiciones son aplicables las probabilidades de los dígitos conocidas por todos, es decir,
 
-
 $$P(D=d) = \frac{\log(1+1/d)}{\log(10)}.$$
-
-
 
 La condición es que al cambiar la escala, no cambie la distribución del primer dígito. Lo cual viene a ser equivalente a que la función de densidad $latex f(x)$ sea proporcional a $latex f(kx)$ y eso conduce necesariamente a que $latex f(x) = x^{-1}$, un caso particular de la [distribución de Pareto](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Pareto).
 

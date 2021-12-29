@@ -17,19 +17,15 @@ Tropezó precisamente con este problema un compañero mío: ¿cuál es la manera
 
 Así que para referencia de todos, dejo aquí un enlace a [un artículo](http://solomonmessing.wordpress.com/2012/03/04/visualization-series-insight-from-cleveland-and-tufte-on-plotting-numeric-data-by-groups/) que encontré el otro día sobre este asunto del que extraigo y traduzco las observaciones fundamentales a la hora de representar conjuntos de datos tales como los que aparecen representados en el siguiente gráfico (en el que se usa un [_dotplot_](http://www.datanalytics.com/blog/2011/07/27/diagramas-de-puntos-dotplots/)):
 
-
 [![](/wp-uploads/2012/04/primarydot15.png)
 ](/wp-uploads/2012/04/primarydot15.png)
 
-
 Los consejos son:
 
-
-
-	  * Nunca uses representaciones en dos o tres dimensiones si una basta.
-	  * Nunca uses tartas, tartas en tres dimensiones, barras apiladas o barras en tres dimensiones.
-	  * Reduce la _[graficaca](http://www.datanalytics.com/blog/tag/graficaca/)_ al mínimo: sombras, bordes, etc.
-	  * Trata de representar el ruido presente en los datos usando intervalos de confianza o similares.
-	  * Para representar un mismo conjunto de datos en varios grupos distintos, usa gráficos multipanel. Sobre todo si el sobreimprimir los gráficos crea confusión.
-	  * Trata de eliminar la leyenda: casi nunca es necesaria.
+* Nunca uses representaciones en dos o tres dimensiones si una basta.
+* Nunca uses tartas, tartas en tres dimensiones, barras apiladas o barras en tres dimensiones.
+* Reduce la _[graficaca](http://www.datanalytics.com/blog/tag/graficaca/)_ al mínimo: sombras, bordes, etc.
+* Trata de representar el ruido presente en los datos usando intervalos de confianza o similares.
+* Para representar un mismo conjunto de datos en varios grupos distintos, usa gráficos multipanel. Sobre todo si el sobreimprimir los gráficos crea confusión.
+* Trata de eliminar la leyenda: casi nunca es necesaria.
 

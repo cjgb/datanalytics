@@ -10,6 +10,8 @@ categories:
 tags:
 - estadística
 - periodismo de datos
+- cursos
+- anuncios
 ---
 
 [Idescat](http://www.idescat.cat/), el instituto de estadística oficial de Cataluña, va a organizar el día 18 de mayo un [curso de estadística para periodistas](http://www.idescat.cat/formacio/?id=R178/2012&goback=%2Egde_3936488_member_115502576). Sus objetivos son, con mi traducción,
@@ -20,10 +22,8 @@ Además, se espera que las jornadas se conviertan en un canal de difusión perma
 
 El curso se organiza alrededor de cuatro sesiones sobre los siguientes temas:
 
-
-
-	  * Las trampas del lenguaje estadístico, acerca del significado e interpretación de los términos estadísticos.
-	  * Dónde encontrar información estadística y cómo interpretarla correctamente
-	  * Los gráficos en la comunicación estadística
-	  * El nuevo periodismo de datos
+* Las trampas del lenguaje estadístico, acerca del significado e interpretación de los términos estadísticos.
+* Dónde encontrar información estadística y cómo interpretarla correctamente
+* Los gráficos en la comunicación estadística
+* El nuevo periodismo de datos
 

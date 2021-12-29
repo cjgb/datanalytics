@@ -11,6 +11,7 @@ tags:
 - márketing
 - números
 - teoría de la decisión
+- arieli
 ---
 
 Estoy terminando de leer [Predictably Irrational](http://en.wikipedia.org/wiki/Predictably_Irrational). Es un libro que recomiendo encarecidamente.

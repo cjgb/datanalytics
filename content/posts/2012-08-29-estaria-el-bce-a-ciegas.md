@@ -19,10 +19,8 @@ tags:
 
 El artículo se resume en lo siguiente: si un día el Banco Central Europeo va a sumar a sus funciones la de la supervisión bancaria, va a encontrarse los dos problemas siguientes:
 
-
-
-	  * La confidencialidad de los datos
-	  * Sus niveles de desglose (y agregación)
+* La confidencialidad de los datos
+* Sus niveles de desglose (y agregación)
 
 Son dos problemas, además, interrelacionados. Por un lado, la supervisión bancaria exige un conocimiento íntimo de la cartera crediticia de las entidades. De hecho, son lo que el columnista llama _tail risks_, riesgos grandes que afectan a un número pequeño de préstamos, los que pueden tumbar al banco más pintado (véase [esto](http://www.datanalytics.com/blog/2012/06/12/por-que-me-quejo-del-banco-de-espana/) y [esto otro](http://www.datanalytics.com/blog/2012/06/22/las-auditorias-bancaria-de-ayer/)). Y estos riesgos _en la cola_ quedan opacados tras las agregaciones.
 

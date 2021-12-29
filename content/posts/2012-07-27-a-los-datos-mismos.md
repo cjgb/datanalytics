@@ -18,11 +18,7 @@ Me llamaron (y aún no tengo claro qué hay _de lo mío_ en el asunto) para un p
 
 Cada proceso $latex P_i$, se ve, consistía en una sucesión de subprocesos parametrizados, por lo que las duraciones podrían calcularse algo así como
 
-
-
-$latex P_i=p_{i1}+\dots+p_{ik}.$
-
-
+$$ P_i=p_{i1}+\dots+p_{ik}.$$
 
 Además, cada $latex p_{ij}$ dependía de ciertos parámetros, aunque eso no es lo más relevante para el caso.
 
@@ -34,9 +30,7 @@ En esa coyuntura, las distribuciones tienen una cola pesada y la media y la vari
 
 Además, las características del proyecto y sus distintas circunstancias me trajeron a la memoria un pequeño [artículo de Chris Anderson](http://www.wired.com/science/discoveries/magazine/16-07/pb_theory/) que, tras arrancar con la consabida cita de Box,
 
-
-<blockquote>Todos los modelos son falsos, pero algunos son útiles</blockquote>
-
+>Todos los modelos son falsos, pero algunos son útiles
 
 se lanza a criticar la _vieja_ ciencia a la vez que aportar evidencias de la emergencia de una nueva que rehuye los modelos tradicionales. Estos serían mecanismos simplificadores de la realidad y resumidores de datos que, en la era pre-Google, eran imposibles de comprehender en su conjunto.
 

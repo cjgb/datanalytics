@@ -9,6 +9,8 @@ categories:
 - probabilidad
 tags:
 - probabilidad
+- parrondo
+- martingala
 ---
 
 Escribo desde mi retiro vacacional, en el hemisferio inhabitual, sin _wifis_ y casi de memoria para completar [la historia que comencé hace dos semanas](http://www.datanalytics.com/blog/2012/01/12/cosa-prodigiosa-sin-palabras-i/) en esta bitácora.
@@ -17,10 +19,8 @@ Tropecé con el juego que describí en el libro _A Mathematician Plays The Stock
 
 Paulos cita a el trabajo del físico español [Juan Parrondo ](http://es.wikipedia.org/wiki/J._M._R._Parrondo), en cuya página hay una[ discusión muy accesible sobre estos juegos _paradójicos_](http://seneca.fis.ucm.es/parr/GAMES/inbrief.html) así como artículos algo más sesudos sobre el tema.
 
-
 [![](/wp-uploads/2012/01/rules.gif)
 ](/wp-uploads/2012/01/rules.gif)
-
 
 Y más allá de las referencias y las debidas gentilezas con respecto a mis fuentes, aprovecho de pasada para recordar a mis lectores el concepto de **supermartingala** y el que podría ser considerado su teorema más importante.
 
@@ -42,8 +42,6 @@ El tercero de los juegos, como consecuencia, es uno de esos ejemplos en que se v
 
 Cierro esta discusión con dos ejercicios para mis lectores:
 
-
-
-	  * Probar que con las probabilidades que se indican en el libro de Paulos, el ejemplo no funciona, i.e., que hay un error en su libro. ¡O no!
-	  * Identificar el otro _gran_ contraejemplo del del teorema del tiempo de espera que se cita por doquier y la ciudad rusa a la que se asocia.
+* Probar que con las probabilidades que se indican en el libro de Paulos, el ejemplo no funciona, i.e., que hay un error en su libro. ¡O no!
+* Identificar el otro _gran_ contraejemplo del del teorema del tiempo de espera que se cita por doquier y la ciudad rusa a la que se asocia.
 

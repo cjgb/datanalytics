@@ -9,7 +9,7 @@ categories:
 - nlp
 - r
 tags:
-- nlps
+- nlp
 - r
 - twitter
 ---

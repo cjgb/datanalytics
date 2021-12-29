@@ -20,61 +20,61 @@ Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al e
 
 Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
 
-
-
-    library(XML)
-    simbolos <- readHTMLTable(htmlParse("http://finance.yahoo.com/q/cp?s=%5EIBEX+Components"))
-    simbolos <- as.character(simbolos[[9]]$Symbol)
-    simbolos <- gsub("-P", "", simbolos)
-
-
+{{< highlight R "linenos=true" >}}
+library(XML)
+simbolos <- readHTMLTable(htmlParse("http://finance.yahoo.com/q/cp?s=%5EIBEX+Components"))
+simbolos <- as.character(simbolos[[9]]$Symbol)
+simbolos <- gsub("-P", "", simbolos)
+{{< / highlight >}}
 
 Luego, creo una pequeña función y se la aplico a cada símbolo:
 
+{{< highlight R "linenos=true" >}}
+library(tseries)
 
+foo  <- function( simbolo, final = Sys.time(), profundidad = 365 * 24 * 3600 ){
 
-    library(tseries)
+    tmp <- get.hist.quote(
+        instrument= simbolo, start = final - profundidad,
+        end= final, quote="AdjClose",
+        provider="yahoo", origin="1970-01-01",
+        compression="d", retclass="zoo")
 
-    foo  <- function( simbolo, final = Sys.time(), profundidad = 365 * 24 * 3600 ){
+    precios <- as.data.frame(tmp)
+    precios$fecha <- index(tmp)
+    rownames(precios) <- NULL
+    precios$simbolo <- simbolo
 
-      tmp <- get.hist.quote(instrument= simbolo, start = final - profundidad,
-                                end= final, quote="AdjClose",
-                                provider="yahoo", origin="1970-01-01",
-                                compression="d", retclass="zoo")
+    precios$AdjClose <- 100 * precios$AdjClose / precios$AdjClose[1]
+    precios$x <- as.numeric(precios$fecha)
+    precios$x <- 1 + precios$x - precios$x[1]
+    colnames(precios) <- c("precio", "fecha", "simbolo", "dias")
 
-      precios <- as.data.frame(tmp)
-      precios$fecha <- index(tmp)
-      rownames(precios) <- NULL
-      precios$simbolo <- simbolo
+    precios
+}
 
-      precios$AdjClose <- 100 * precios$AdjClose / precios$AdjClose[1]
-      precios$x <- as.numeric(precios$fecha)
-      precios$x <- 1 + precios$x - precios$x[1]
-      colnames(precios) <- c("precio", "fecha", "simbolo", "dias")
-
-      precios
-    }
-
-    res <- sapply(simbolos, foo, simplify = F)
-    res <- do.call(rbind, res)
-
-
+res <- sapply(simbolos, foo, simplify = F)
+res <- do.call(rbind, res)
+{{< / highlight >}}
 
 Finalmente, creo el gráfico:
 
+{{< highlight R "linenos=true" >}}
+library(googleVis)
+
+M <- gvisMotionChart(res,
+    idvar="simbolo", timevar="fecha",
+    xvar = "dias", yvar = "precio",
+    options = list(width = 1200,
+                showAdvancedPanel=T,
+                showChartButtons =F,
+                showSelectListComponent=F,
+                showXMetricPicker = F,
+                showYMetricPicker = F))
+plot(M)
+{{< / highlight >}}
 
 
-    library(googleVis)
-
-    M <- gvisMotionChart(res, idvar="simbolo", timevar="fecha",
-                         xvar = "dias", yvar = "precio",
-                         options = list(width = 1200,
-                                        showAdvancedPanel=T,
-                                        showChartButtons =F,
-                                        showSelectListComponent=F,
-                                        showXMetricPicker = F,
-                                        showYMetricPicker = F))
-    plot(M)
 
 
 

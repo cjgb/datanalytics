@@ -42,13 +42,9 @@ Ya lo hemos dicho más arriba: como empleados.
 
 Pues el año pasado lo éramos (empatados con Irlanda), con una tasa del 8% ([PDF](http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/3-19042013-BP/EN/3-19042013-BP-EN.PDF)).
 
-
-
 **Referencias:**
 
-
-
-	  * [Encuesta de Población Activa; Metodología 2005 ](http://www.ine.es/daco/daco43/resumetepa.pdf)
-	  * [Cuestionario de la EPA, metodología 2005](http://www.ine.es/daco/daco42/daco4211/epacues05.pdf)
-	  * [_Underemployment and potential additional labour force statistics_](http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Underemployment_and_potential_additional_labour_force_statistics)
+* [Encuesta de Población Activa; Metodología 2005 ](http://www.ine.es/daco/daco43/resumetepa.pdf)
+* [Cuestionario de la EPA, metodología 2005](http://www.ine.es/daco/daco42/daco4211/epacues05.pdf)
+* [_Underemployment and potential additional labour force statistics_](http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Underemployment_and_potential_additional_labour_force_statistics)
 

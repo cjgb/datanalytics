@@ -25,7 +25,7 @@ me llegó ayer por Twitter (vía [@unnombrealazar](https://twitter.com/unnombrea
 
 >[@gilbellosta](https://twitter.com/gilbellosta) [@unnombrealazar](https://twitter.com/unnombrealazar) inmigrantes que trabajan en el corredor del henares, familias con niños supongo
 >
-> -- jesus alfaro (@jesusalfar) [26 de marzo de 2017](https://twitter.com/jesusalfar/status/845991732726677504)</blockquote>
+> -- jesus alfaro (@jesusalfar) [26 de marzo de 2017](https://twitter.com/jesusalfar/status/845991732726677504)
 
 ¿Será cierto? A saber. Seguramente. Pero, ¿podemos comprobarlo?
 

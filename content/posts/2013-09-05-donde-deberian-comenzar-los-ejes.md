@@ -10,6 +10,7 @@ categories:
 tags:
 - graficaca
 - gráficos
+- ejes
 ---
 
 [Protesta eldiario.es esta imagen](http://www.eldiario.es/rastreador/paro-desaparece-solo-TVE_6_171542857.html) capturada de un informativo de TVE:
@@ -40,13 +41,10 @@ En el fondo, todos los gráficos adolecen del mismo fallo: no aciertan a encontr
 Y para cerrar, Lorca:
 
 
-<blockquote>
-
->
 > Señores guardias civiles;
-aquí pasó lo de siempre.
-Han muerto cuatro romanos
-y cinco cartagineses.
 >
+>aquí pasó lo de siempre.
 >
-</blockquote>
+>Han muerto cuatro romanos
+>
+>y cinco cartagineses.

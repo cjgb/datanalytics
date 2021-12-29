@@ -11,15 +11,13 @@ tags:
 - python
 - r
 - rpython
+- artículos
 ---
 
 El [Software Developer's Journal](http://sdjournal.org/) ha publicado estos días un [número dedicado exclusivamente a R](http://sdjournal.org/data-development-gems-software-developers-journal-052012/). Dicen que sus 260 páginas hacen de este número el más extenso que ha publicado jamás la revista.
 
-
 [![](/wp-uploads/2012/08/SDJ_DATA_cover4.jpg)
 ](/wp-uploads/2012/08/SDJ_DATA_cover4.jpg)
-
-
 
 Incluye, además, un artículo mío, _Rpython, a package for calling Python from R_.
 

@@ -13,6 +13,7 @@ tags:
 - finanzas
 - futuros
 - números
+- hipotecas
 ---
 
 Tengo una hipoteca. El tipo de interés que pago es el Euribor a 12 meses más un diferencial. He usado una calculadora de hipotecas y he descubierto que si el Euribor sube un 1%, mi cuota (anual, es decir, sumando los incrementos de los 12 meses) se incrementaría en 660 euros.
@@ -23,13 +24,11 @@ Y sí, existen los [futuros sobre el Euribor](http://www.euronext.com/trader/con
 
 Si compro un futuro hoy con fecha de expiración, digamos, el 1 de enero de 2014, y un precio de, por ejemplo, 99.10, entonces:
 
+* Hoy no pago nada, salvo una comisión de 10 euros.
+* El día 1 de enero de 2014
 
-
-	  * Hoy no pago nada, salvo una comisión de 10 euros.
-	  * El día 1 de enero de 2014
-
-	    * pagaría el interés que me daría un hipotético depósito de un millón de euros a tres meses con un tipo igual al Euribor en esa fecha y
-	    * recibiría el interés que me daría un hipotético depósito de un millón de euros a tres meses con un tipo igual a (100 - 99.10 =) 0.9%.
+	* pagaría el interés que me daría un hipotético depósito de un millón de euros a tres meses con un tipo igual al Euribor en esa fecha y
+	* recibiría el interés que me daría un hipotético depósito de un millón de euros a tres meses con un tipo igual a (100 - 99.10 =) 0.9%.
 
 
 Por ejemplo, si el 1 de enero de 2014 el Euribor es del 1%, pagaría 1000000 * 0.01 / 4 = 2.500 euros. Y recibiría 1000000 * 0.009 / 4 = 2.250 euros. En total, perdería 250 euros. Pero si el euribor baja y se queda en el 0.8%, ganaría 250 euros.

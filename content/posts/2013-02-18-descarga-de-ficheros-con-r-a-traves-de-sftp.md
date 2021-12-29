@@ -15,30 +15,15 @@ Llevo lo que parece un siglo sin escribir en estas páginas. Y es que, en gran p
 
 Lo que me ocupa hoy es esto:
 
-
-
-
-
-
-
-
-    fichero <- getURL("sftp://usuario:contraseña@máquina/home/bla/bla/bla/fichero.txt")
-
-
-
-
-
-
-
-
+{{< highlight R "linenos=true" >}}
+fichero <- getURL("sftp://usuario:contraseña@máquina/home/bla/bla/bla/fichero.txt")
+{{< / highlight >}}
 
 
 ¿Qué es? Es la manera de descargar directamente a R un fichero a través del [protocolo SFTP](http://es.wikipedia.org/wiki/SSH_File_Transfer_Protocol) (FTP seguro). En la cadena de conexión hay que indicar
 
-
-
-	  * el nombre de usuario (de ssh),
-	  * su contraseña,
-	  * la máquina donde reside el fichero (mediante su nombre o su IP) y, finalmente,
-	  * la ruta que conduce a él.
+* el nombre de usuario (de ssh),
+* su contraseña,
+* la máquina donde reside el fichero (mediante su nombre o su IP) y, finalmente,
+* la ruta que conduce a él.
 

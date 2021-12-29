@@ -17,7 +17,7 @@ Menos el de un presunto profesor,
 
 >La probabilidad de que 3030 votantes en la [#ANECUP](https://twitter.com/hashtag/ANECUP?src=hash) empaten con 1515 votos es 1 / 3029 = 0.00033014, lo que corresponde a un suceso imposible
 >
-> -- Mario Bilbao (@mario_bilbao) [December 27, 2015](https://twitter.com/mario_bilbao/status/681206256175083520)</blockquote>
+> -- Mario Bilbao (@mario_bilbao) [December 27, 2015](https://twitter.com/mario_bilbao/status/681206256175083520)
 
 todos los análisis que he visto al respecto ([1](http://www.elespanol.com/espana/20151228/90241027_0.html), [2](https://gallir.wordpress.com/2015/12/28/las-probabilidades-del-empate-de-la-cup/), [3](http://www.eldiario.es/piedrasdepapel/probable-empate-Asamblea-CUP_6_467263286.html)), [incluido el mío](http://www.datanalytics.com/2015/12/29/empates-electorales-sorteos-y-una-inadvertida-paradoja/), coinciden en señalar que la probabilidad de empate en el muy manido acto asambleario de la CUP es _relativamente alta_: alrededor del 1,5%. Y más todavía si se tienen en cuenta los resultados de las votaciones previas.
 
