@@ -17,7 +17,7 @@ tags:
 - anacor
 ---
 
-Abandonamos el otro día nuestra discusión sobre la [feliz conjunción estadístico-algebraica](http://www.datanalytics.com/blog/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) que subyace a esa técnica conocida como análisis de correspondencias en el punto en que habíamos descompuesto la matriz $latex B$ de la forma $latex B = PDQ^\prime$, donde $latex P$ y $latex Q$ son matrices cuyas columnas son vectores ortonormales $latex p_i$ y $latex q_j$ y $latex D$ es una matriz diagonal (aunque no necesariamente cuadrada) cuyos elementos de la diagonal (en orden decreciente) son $latex \lambda_k$.
+Abandonamos el otro día nuestra discusión sobre la [feliz conjunción estadístico-algebraica](http://www.datanalytics.com/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) que subyace a esa técnica conocida como análisis de correspondencias en el punto en que habíamos descompuesto la matriz $latex B$ de la forma $latex B = PDQ^\prime$, donde $latex P$ y $latex Q$ son matrices cuyas columnas son vectores ortonormales $latex p_i$ y $latex q_j$ y $latex D$ es una matriz diagonal (aunque no necesariamente cuadrada) cuyos elementos de la diagonal (en orden decreciente) son $latex \lambda_k$.
 
 Entonces, la matriz $latex B$ puede descomponerse como una suma de matrices de estructura más simple de la forma $latex B = PDQ^\prime = \sum_i \lambda_i p_i q^\prime_i.$
 

@@ -24,7 +24,7 @@ Hace un tiempo, un amigo me dijo que si en verano tiende a crecer la tasa de fal
 
 que echaba por tierra su hipótesis.
 
-Ahora quiero retomar el asunto aprovechando que he anunciado el [paquete MicroDatosEs](http://www.datanalytics.com/blog/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) para indicar cómo se pueden crear los tres ficheros de metadatos necesarios para leer ficheros de microdatos. En concreto, ese tipo de [ficheros de microdatos posicionales](http://publib.boulder.ibm.com/infocenter/dmndhelp/v6r1mx/index.jsp?topic=/com.ibm.wbit.610.help.config.doc/topics/rfixwidth.html) a los que tan aficionados son los institutos estadísticos españoles.
+Ahora quiero retomar el asunto aprovechando que he anunciado el [paquete MicroDatosEs](http://www.datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) para indicar cómo se pueden crear los tres ficheros de metadatos necesarios para leer ficheros de microdatos. En concreto, ese tipo de [ficheros de microdatos posicionales](http://publib.boulder.ibm.com/infocenter/dmndhelp/v6r1mx/index.jsp?topic=/com.ibm.wbit.610.help.config.doc/topics/rfixwidth.html) a los que tan aficionados son los institutos estadísticos españoles.
 
 El [primero](https://r-forge.r-project.org/scm/viewvc.php/pkg/inst/metadata/defun_2011_mdat1.txt?view=markup&revision=4&root=microdataes) tiene cinco columnas (separadas por tabuladores):
 

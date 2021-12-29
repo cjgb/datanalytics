@@ -15,7 +15,7 @@ tags:
 - r
 ---
 
-Hoy hablo en la reunión del [grupo de usuarios de R de Madrid](http://r-es.org/tiki-index.php?page=Grupo%20de%20Inter%C3%A9s%20Local%20de%20Madrid%20-%20GIL%20Madrid). Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi [paquete MicroDatosEs](http://www.datanalytics.com/blog/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) y voy a aprovechar para criticar, en mi estilo, enunciados como
+Hoy hablo en la reunión del [grupo de usuarios de R de Madrid](http://r-es.org/tiki-index.php?page=Grupo%20de%20Inter%C3%A9s%20Local%20de%20Madrid%20-%20GIL%20Madrid). Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi [paquete MicroDatosEs](http://www.datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) y voy a aprovechar para criticar, en mi estilo, enunciados como
 
 >El número de parados crece en 85.000 personas y alcanza la cifra de 5.778.100. La tasa de paro se incrementa 38 centésimas hasta el 25,02%.
 
@@ -26,7 +26,7 @@ En efecto, aprovechando que el paquete MicroDatosEs permite cargar fácilmente l
 [![](/wp-uploads/2012/11/variabilidad_tasa_paro-300x224.png)
 ](/wp-uploads/2012/11/variabilidad_tasa_paro.png)
 
-en el que se muestra en qué rangos podría estar variando la tasa de paro recogida por el INE si el azar hubiese hecho que los entrevistados fuesen otros que los unos que eligió finalmente el INE en 1000 universos paralelos idénticos al nuestro salvo por ese pequeño detalle. Los resultados no son escandalosamente distintos de los que con cuatro cifras significativas [reificaron](http://www.datanalytics.com/blog/2010/03/21/la-varianza-y-cifras-macroeconomicas/) los medios pero pone en cuestión nuestra manía por la ultraprecisión.
+en el que se muestra en qué rangos podría estar variando la tasa de paro recogida por el INE si el azar hubiese hecho que los entrevistados fuesen otros que los unos que eligió finalmente el INE en 1000 universos paralelos idénticos al nuestro salvo por ese pequeño detalle. Los resultados no son escandalosamente distintos de los que con cuatro cifras significativas [reificaron](http://www.datanalytics.com/2010/03/21/la-varianza-y-cifras-macroeconomicas/) los medios pero pone en cuestión nuestra manía por la ultraprecisión.
 
 Y luego, refinando la tortura, nos haremos la misma pregunta a niveles inferiores al nacional para ver si se cumple o no que la varianza decrece con la raíz cuadrada de `n` y qué pueden significar los números publicados aplicados a Soria, La Rioja o Melilla.
 

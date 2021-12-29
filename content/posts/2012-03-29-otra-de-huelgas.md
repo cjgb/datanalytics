@@ -16,7 +16,7 @@ tags:
 - huelgas
 ---
 
-Hoy, por motivos evidentes, e igual que en [septiembre de 2010](http://www.datanalytics.com/blog/2010/09/29/huelga-el-titulo-hoy/), voy a hablar de huelgas. De la misma fuente que entonces he descargado [este fichero](/uploads/pcaxis-623612450.px). Y he ejecutado
+Hoy, por motivos evidentes, e igual que en [septiembre de 2010](http://www.datanalytics.com/2010/09/29/huelga-el-titulo-hoy/), voy a hablar de huelgas. De la misma fuente que entonces he descargado [este fichero](/uploads/pcaxis-623612450.px). Y he ejecutado
 
 {{< highlight R "linenos=true" >}}
 library(pxR)

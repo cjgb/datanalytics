@@ -12,7 +12,7 @@ tags:
 - anuncios
 ---
 
-Hace ya unos meses hablé de cómo había unos cuantos [proyectos relacionados con R en el Google Summer of Code 2010](http://www.datanalytics.com/blog/2010/03/28/proyectos-de-r-en-el-google-summer-of-code-2010/). Recientemente se ha publicado un pequeño [resumen de los logros alcanzados](http://dirk.eddelbuettel.com/blog/2010/09/23/#gsoc2010_r_wrapup):
+Hace ya unos meses hablé de cómo había unos cuantos [proyectos relacionados con R en el Google Summer of Code 2010](http://www.datanalytics.com/2010/03/28/proyectos-de-r-en-el-google-summer-of-code-2010/). Recientemente se ha publicado un pequeño [resumen de los logros alcanzados](http://dirk.eddelbuettel.com/blog/2010/09/23/#gsoc2010_r_wrapup):
 
 
 * De las quince propuestas originales, arrancaron cinco.

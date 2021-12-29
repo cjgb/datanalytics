@@ -13,7 +13,7 @@ tags:
 - paquetes
 ---
 
-Si el otro día denuncié [un gráfico engañabobos](http://www.datanalytics.com/blog/2011/01/31/un-grafico-enganabobos/) (y algún otro me explayaré muy constructivamente sobre el intercambio de correos que mantuve con sus autores), hoy he querido reproducirlo con el [paquete googleVis de R](http://cran.r-project.org/web/packages/googleVis/index.html).
+Si el otro día denuncié [un gráfico engañabobos](http://www.datanalytics.com/2011/01/31/un-grafico-enganabobos/) (y algún otro me explayaré muy constructivamente sobre el intercambio de correos que mantuve con sus autores), hoy he querido reproducirlo con el [paquete googleVis de R](http://cran.r-project.org/web/packages/googleVis/index.html).
 
 Habedlo:
 

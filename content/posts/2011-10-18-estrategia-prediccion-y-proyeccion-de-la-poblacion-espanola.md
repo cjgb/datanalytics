@@ -15,7 +15,7 @@ tags:
 - ine
 ---
 
-Cayó el otro día en mis manos un artículo, _[Strategy under Uncertainty](https://www.mckinseyquarterly.com/Strategy_under_uncertainty_1064)_, que complementa bastante adecuadamente mi entrada del otro día sobre las [proyecciones a corto plazo de la población española](http://www.datanalytics.com/blog/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/) que realiza el INE.
+Cayó el otro día en mis manos un artículo, _[Strategy under Uncertainty](https://www.mckinseyquarterly.com/Strategy_under_uncertainty_1064)_, que complementa bastante adecuadamente mi entrada del otro día sobre las [proyecciones a corto plazo de la población española](http://www.datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/) que realiza el INE.
 
 La estrategia concierne a sucesos futuros. Por ser futuros, son inciertos. Y el artículo describe cuatro niveles distintos de incertidumbre a los que contrapone una serie de posibles estrategias. Los niveles son:
 

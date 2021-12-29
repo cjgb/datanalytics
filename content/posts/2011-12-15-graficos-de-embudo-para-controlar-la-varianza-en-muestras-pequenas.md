@@ -26,7 +26,7 @@ Publiqué hace un tiempo una entrada en esta bitácora sobre el problema que rep
 ](/wp-uploads/2011/08/kidney_cancer_map.gif)
 
 
-que muestra la incidencia del cáncer de riñón en distintas zonas de en EE.UU. Como indiqué entonces, los valores extremos se encuentran en zonas menos pobladas: [cuanto menor es la población, más probables son las proporciones inhabituales](http://www.datanalytics.com/blog/2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/).
+que muestra la incidencia del cáncer de riñón en distintas zonas de en EE.UU. Como indiqué entonces, los valores extremos se encuentran en zonas menos pobladas: [cuanto menor es la población, más probables son las proporciones inhabituales](http://www.datanalytics.com/2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/).
 
 Los _gráficos de embudo_ son una alternativa pensada para evitar este tipo de sesgos. Por ejemplo
 

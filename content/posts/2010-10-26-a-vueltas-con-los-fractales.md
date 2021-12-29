@@ -13,7 +13,7 @@ tags:
 - fractales
 ---
 
-Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](http://www.datanalytics.com/blog/2010/04/21/para-que-copien-peguen-y-disfruten-addenda/), mi tocayo Carlos Ortega (y ahora gentil colaborador) nos ha proporcionado un enlace en este blog a un pedazo de código que bien vale la pena replicar aquí para el solaz (y tal vez, incluso, provecho) de los lectores de estas páginas. Es:
+Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](http://www.datanalytics.com/2010/04/21/para-que-copien-peguen-y-disfruten-addenda/), mi tocayo Carlos Ortega (y ahora gentil colaborador) nos ha proporcionado un enlace en este blog a un pedazo de código que bien vale la pena replicar aquí para el solaz (y tal vez, incluso, provecho) de los lectores de estas páginas. Es:
 
 
 

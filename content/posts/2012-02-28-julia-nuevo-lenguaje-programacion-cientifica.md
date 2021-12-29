@@ -69,7 +69,7 @@ timeit("pi_sum_cjgb", pisum.cjgb, times=1)
 
 tarda 510 milisegundos, veinte veces menos.
 
-En cualquier caso, me viene sorprendiendo mucho la velocidad de JavaScript. ¿Recordáis mi [entrada sobre las ocho reinas](http://www.datanalytics.com/blog/2012/01/23/nueve-reinas-con-sas-y-r-tambien/)? La versión en JavaScript,
+En cualquier caso, me viene sorprendiendo mucho la velocidad de JavaScript. ¿Recordáis mi [entrada sobre las ocho reinas](http://www.datanalytics.com/2012/01/23/nueve-reinas-con-sas-y-r-tambien/)? La versión en JavaScript,
 
 {{< highlight html "linenos=true" >}}
 <body onload="javascript:cnt=0;

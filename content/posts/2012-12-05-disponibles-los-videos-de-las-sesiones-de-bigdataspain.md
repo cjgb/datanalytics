@@ -13,7 +13,7 @@ tags:
 - grandes datos
 ---
 
-Ya están disponibles los [vídeos](http://www.youtube.com/watch?v=7efDRf4q3lk&list=PL6O3g23-p8Tq6hD4-WuUmmDvtP17xTqBg&feature=plpp_play_all) de las sesiones de la [conferencia BigDataSpain](http://www.datanalytics.com/blog/2012/07/18/conferencia-sobre-grandes-datos/) que anunciamos hace un tiempo en estas páginas.
+Ya están disponibles los [vídeos](http://www.youtube.com/watch?v=7efDRf4q3lk&list=PL6O3g23-p8Tq6hD4-WuUmmDvtP17xTqBg&feature=plpp_play_all) de las sesiones de la [conferencia BigDataSpain](http://www.datanalytics.com/2012/07/18/conferencia-sobre-grandes-datos/) que anunciamos hace un tiempo en estas páginas.
 
 
 http://www.youtube.com/watch?v=7efDRf4q3lk

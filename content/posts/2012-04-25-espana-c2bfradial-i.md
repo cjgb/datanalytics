@@ -14,7 +14,7 @@ tags:
 - redes sociales
 ---
 
-Me propuse hace un tiempo combinar lo que aprendí creando [rutas callejeras por Zaragoza](http://www.datanalytics.com/blog/2012/04/16/rutas-por-zaragoza-con-r/) con una entrada que escribí sobre la [estructura radial de las vías de transporte de España](http://www.datanalytics.com/blog/2012/03/28/contrafactualidad-radial/). El problema que me planteo es si tiene sentido que la red de carreteras Española tenga estructura radial habida cuenta de la geometría peninsular bajo ciertas hipótesis, siempre discutibles y mejorables, de partida.
+Me propuse hace un tiempo combinar lo que aprendí creando [rutas callejeras por Zaragoza](http://www.datanalytics.com/2012/04/16/rutas-por-zaragoza-con-r/) con una entrada que escribí sobre la [estructura radial de las vías de transporte de España](http://www.datanalytics.com/2012/03/28/contrafactualidad-radial/). El problema que me planteo es si tiene sentido que la red de carreteras Española tenga estructura radial habida cuenta de la geometría peninsular bajo ciertas hipótesis, siempre discutibles y mejorables, de partida.
 
 Así que, en primer lugar, cargué los paquetes de R necesarios, un fichero que creé que contenía las capitales de provincia, su latitud, su longitud y la población de las respectivas provincias y fabriqué una red de carreteras muy ineficiente que unía todos los nodos entre sí:
 

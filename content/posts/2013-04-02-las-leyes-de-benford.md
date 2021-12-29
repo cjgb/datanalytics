@@ -14,7 +14,7 @@ tags:
 
 Escriribé hoy sobre las leyes de Benford. Así, en plural.
 
-Porque cuando [escribí sobre la Ley de Benford](http://www.datanalytics.com/blog/2011/09/15/la-ley-de-benford/) hace un tiempo, indiqué cómo la frecuencia de cada primer dígito es decreciente (del 1 al 9) siempre que la función de densidad de la serie de los números que se investigue sea ella misma decreciente. Este resultado trivial bien podría llamarse _Ley Débil de Benford_.
+Porque cuando [escribí sobre la Ley de Benford](http://www.datanalytics.com/2011/09/15/la-ley-de-benford/) hace un tiempo, indiqué cómo la frecuencia de cada primer dígito es decreciente (del 1 al 9) siempre que la función de densidad de la serie de los números que se investigue sea ella misma decreciente. Este resultado trivial bien podría llamarse _Ley Débil de Benford_.
 
 Sin embargo, las probabilidades de ocurrencia de cada dígito dependen de la distribución de la serie, como bien podrá comprobar quien visite esa antigua entrada mía.
 

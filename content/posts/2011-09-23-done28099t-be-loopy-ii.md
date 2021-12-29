@@ -14,7 +14,7 @@ tags:
 - sas
 ---
 
-Continúo en esta la [primera de las entradas ](http://www.datanalytics.com/blog/2011/08/11/dont-be-loopy/)que hice sobre el artículo _[Don't Be Loopy: Re-Sampling and Simulation the SAS® Way](http://www2.sas.com/proceedings/forum2007/183-2007.pdf)_.
+Continúo en esta la [primera de las entradas ](http://www.datanalytics.com/2011/08/11/dont-be-loopy/)que hice sobre el artículo _[Don't Be Loopy: Re-Sampling and Simulation the SAS® Way](http://www2.sas.com/proceedings/forum2007/183-2007.pdf)_.
 
 Trata sobre lo siguiente:
 

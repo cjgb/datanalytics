@@ -15,7 +15,7 @@ tags:
 
 Desde que dejé de ser uno de ellos, a esa gente que vive en un mundo en el que las cifras tienen un cero de más sólo me la tropiezo en los ascensores. Los oigo hablar de potencias de motores, de la piscina del chalé y de lo mal que está el servicio. Si de verdad tuviesen interés en aquello por lo que les pagan, seguro, leerían esta entrada y no se perderían ni una coma de lo que sigue a continuación.
 
-He de reconocer que no es mío: lo traduzco más o menos libremente de [aquí](http://www.information-management.com/blogs/sas_wps_r_steve_miller-10018465-1.html). Está está dirigido a los _CIOs_ de empresas _intensivas en SAS_ y escrito al hilo de la reciente sentencia en el [caso que enfrenta a SAS y WPS](http://www.datanalytics.com/blog/2010/08/12/¿ya-has-considerado-pasarte-a-wps/). Pero quienes toman cortados conmigo por la mañana me han oído alguna vez enumerar las siguientes buenas razones:
+He de reconocer que no es mío: lo traduzco más o menos libremente de [aquí](http://www.information-management.com/blogs/sas_wps_r_steve_miller-10018465-1.html). Está está dirigido a los _CIOs_ de empresas _intensivas en SAS_ y escrito al hilo de la reciente sentencia en el [caso que enfrenta a SAS y WPS](http://www.datanalytics.com/2010/08/12/¿ya-has-considerado-pasarte-a-wps/). Pero quienes toman cortados conmigo por la mañana me han oído alguna vez enumerar las siguientes buenas razones:
 
 
 1. Dado que SAS se compra/alquila _a la carta_, catalogar todas las licencias de productos de SAS e identificar las aplicaciones que utilizan cada una de ellas. Es increíble cómo muchas compañías —dice el autor y corroboro por experiencia personal— ignoran que han estado pagando por productos de SAS que llevan años sin utilizar.

@@ -21,4 +21,4 @@ Es decir, aunque Oracle posee sus propias herramientas de minería de datos, ha 
 
 De momento, sólo sé [esto](http://www.oracle.com/technetwork/database/options/odm/oracle-r-enterprise-oow11-517498.pdf) acerca del producto. Habrá que verlo funcionar. ¿Será realmente capaz de _in database analytics_?
 
-Solo espero que sea mucho, mucho mejor que el equivalente de Teradata, [TeradataR](http://www.datanalytics.com/blog/2011/04/18/teradata-r-y-las-iii-jornadas-de-usuarios-de-r/) , que es --y tengo pendiente explicar el motivo con detenimiento-- manifiestamente perfectible.
+Solo espero que sea mucho, mucho mejor que el equivalente de Teradata, [TeradataR](http://www.datanalytics.com/2011/04/18/teradata-r-y-las-iii-jornadas-de-usuarios-de-r/) , que es --y tengo pendiente explicar el motivo con detenimiento-- manifiestamente perfectible.

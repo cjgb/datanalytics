@@ -18,7 +18,7 @@ tags:
 - periodismo de datos
 ---
 
-... cuando dice que _hay que ver qué pasa y analizar las estadísticas_. En lo demás, no lo sé (ni lo pienso decir aquí). Pero traigo el asunto a colación porque hace un par de días hablé, un tanto exteporáneamente, sobre [desempleo y subsidios](http://www.datanalytics.com/blog/2012/02/22/desempleo-incentivos-y-geometria/). Y uno de mis lectores hizo un comentario del que extraigo
+... cuando dice que _hay que ver qué pasa y analizar las estadísticas_. En lo demás, no lo sé (ni lo pienso decir aquí). Pero traigo el asunto a colación porque hace un par de días hablé, un tanto exteporáneamente, sobre [desempleo y subsidios](http://www.datanalytics.com/2012/02/22/desempleo-incentivos-y-geometria/). Y uno de mis lectores hizo un comentario del que extraigo
 
 >No me gusta, no me gusta que se insinúe siempre que “España está llena de listos, que agotan el paro porque les sale mejor que trabajar”.
 

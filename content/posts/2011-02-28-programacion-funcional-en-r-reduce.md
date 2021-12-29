@@ -12,7 +12,7 @@ tags:
 - programación funcional
 ---
 
-Siguiendo con la serie de artículos sobre programación funcional que comencé [hablando de Filter()](http://www.datanalytics.com/blog/2010/11/24/programacion-funcional-en-r-filter/) hace un tiempo, trataré hoy la función Reduce(). El contenido de cuanto sigue debería ser familiar de quienes asistieron al Taller Avanzado de R en las [II Jornadas de Usuarios de R](http://www.datanalytics.com/blog/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/).
+Siguiendo con la serie de artículos sobre programación funcional que comencé [hablando de Filter()](http://www.datanalytics.com/2010/11/24/programacion-funcional-en-r-filter/) hace un tiempo, trataré hoy la función Reduce(). El contenido de cuanto sigue debería ser familiar de quienes asistieron al Taller Avanzado de R en las [II Jornadas de Usuarios de R](http://www.datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/).
 
 Reduce es el segundo de los tiempos de una abstracción popularizado por Google y otros pero que tiene sus raíces en los lenguajes funcionales (Lisp y otros): _map-reduce_. En resumen, _map_ es la transformación
 
@@ -143,5 +143,5 @@ El interesado en profundizar en el estudio de esta función puede ejercitarse co
 
 
 1. Vectorizar las funciones `cbind()` y `rbind()`
-2. Reescribir el código para reescribir el código que ofrecí en la entrada [A vueltas con los fractales](http://www.datanalytics.com/blog/2010/10/26/a-vueltas-con-los-fractales/) usando la función `Reduce()`
+2. Reescribir el código para reescribir el código que ofrecí en la entrada [A vueltas con los fractales](http://www.datanalytics.com/2010/10/26/a-vueltas-con-los-fractales/) usando la función `Reduce()`
 

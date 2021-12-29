@@ -12,7 +12,7 @@ tags:
 - r
 ---
 
-Hace no mucho, en un [blog hermano](http://erre-que-erre-paco.blogspot.com/), se habló de cómo podían utilizarse [símbolos distintos en los gráficos de R](http://erre-que-erre-paco.blogspot.com/2009/10/simbolos-para-los-datos.html). También hablé yo de [funcionarios y renta per cápita](http://www.datanalytics.com/blog/2010/05/31/de-numeros-y-funcionarios/).
+Hace no mucho, en un [blog hermano](http://erre-que-erre-paco.blogspot.com/), se habló de cómo podían utilizarse [símbolos distintos en los gráficos de R](http://erre-que-erre-paco.blogspot.com/2009/10/simbolos-para-los-datos.html). También hablé yo de [funcionarios y renta per cápita](http://www.datanalytics.com/2010/05/31/de-numeros-y-funcionarios/).
 
 Ahora combino ambas entradas y algo más de mi cosecha para mostrar un gráfico hecho con R utilizando símbolos arbitrarios (las banderas de cada país).
 

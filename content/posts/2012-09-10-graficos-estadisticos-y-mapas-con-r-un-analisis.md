@@ -14,7 +14,7 @@ tags:
 - mapas
 ---
 
-Me dispongo hoy a analizar el libro _[Gráficos estadísticos y mapas con R](http://www.datanalytics.com/blog/2012/07/02/graficos-estadisticos-y-mapas-con-r/)_ que anuncié hace unos días, aun sin haber tenido oportunidad de hojearlo.
+Me dispongo hoy a analizar el libro _[Gráficos estadísticos y mapas con R](http://www.datanalytics.com/2012/07/02/graficos-estadisticos-y-mapas-con-r/)_ que anuncié hace unos días, aun sin haber tenido oportunidad de hojearlo.
 
 Es un libro relativamente extenso, de casi cuatrocientas páginas a todo color. Y es poco perdonable que una editorial técnica como Díaz de Santos haya permitido que el código que aparece en el libro esté en Times New Roman. Pero bueno.
 

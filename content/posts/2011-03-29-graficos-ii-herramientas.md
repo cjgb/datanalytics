@@ -13,7 +13,7 @@ tags:
 
 Comenzaré por lo que en todo debiera ser el final: las herramientas. La herramienta tiene que ajustarse a la función y no a la inversa: no coge el carpintero por la mañana un martillo y busca clavos que clavar el resto de la jornada (igualmente tampoco debieran hablar las empresas en primera instancia con, por ejemplo, SAS a la hora de ahondar en sus capacidades analíticas; pero ésa es otra historia). Pero me permitiré alterar el orden lógico de las cosas porque nadie está obligado a leer cuanto esta bitácora contiene en el orden en que le dio la gana a mis musas sino en el que más le convenga.
 
-Aunque quienes siguen estas páginas recordarán cómo he hablado en ocasiones anteriores de [`ggplot2`](http://www.datanalytics.com/blog/2011/02/10/1440/), ahora voy a concentrarme en otras herramientas, libres y propietarias, de las que he recibido noticia en los últimos tiempos. Las más no las conozco sino de oídas: dejo al interesado la opción de evaluarlas por sí mismo. Y le invito, por supuesto, a que haga constar sus experiencias en la sección de comentarios.
+Aunque quienes siguen estas páginas recordarán cómo he hablado en ocasiones anteriores de [`ggplot2`](http://www.datanalytics.com/2011/02/10/1440/), ahora voy a concentrarme en otras herramientas, libres y propietarias, de las que he recibido noticia en los últimos tiempos. Las más no las conozco sino de oídas: dejo al interesado la opción de evaluarlas por sí mismo. Y le invito, por supuesto, a que haga constar sus experiencias en la sección de comentarios.
 
 En orden alfabético son:
 

@@ -14,7 +14,7 @@ tags:
 - migraciones
 ---
 
-El otro día [escribí sobre WPS](http://www.datanalytics.com/blog/2010/08/12/%C2%BFya-has-considerado-pasarte-a-wps/), un clon de SAS con unos costes de licencia sustancialmente menores.
+El otro día [escribí sobre WPS](http://www.datanalytics.com/2010/08/12/%C2%BFya-has-considerado-pasarte-a-wps/), un clon de SAS con unos costes de licencia sustancialmente menores.
 
 KDNuggets ha publicado los resultados de una[ encuesta entre usuarios actuales y potenciales de SAS](http://www.kdnuggets.com/polls/2010/switching-from-sas-to-wps.html) en la que se les preguntaba por su disposición a migrar a dicha plataforma.
 

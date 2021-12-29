@@ -44,7 +44,7 @@ Lo que venía yo a contar, sin embargo, es que estoy, de entrada, en contra de l
 La evaluación de los colegios debería darse a conocer por varios motivos:
 
 * Porque los pagamos entre todos y tenemos derecho a saber cómo funcionan y cuáles nos convienen.
-* Porque de alguna manera ya se realizan y los datos obtenidos no son propiedad exclusiva de las administraciones públicas: todos tenemos (o [deberíamos tener](http://www.datanalytics.com/blog/tag/datos-abiertos/)) derecho a echarles un ojo.
+* Porque de alguna manera ya se realizan y los datos obtenidos no son propiedad exclusiva de las administraciones públicas: todos tenemos (o [deberíamos tener](http://www.datanalytics.com/tag/datos-abiertos/)) derecho a echarles un ojo.
 * Porque, salvaguardando el secreto estadístico no hay motivo para no hacerlo (y este punto es, tal vez paradójicamente, el más importante: los datos deberían ser públicos no de haber un motivo para ello sino siempre que no hubiese un motivo para lo contrario).
 
 Eso sí, Sr. Wert. Y de esto sabe Vd. tanto o más que yo: no les dé forma de _ránking_. Cree más bien diversas dimensiones con la debida granularidad (y transparencia) y deje que seamos nosotros —que somos lo suficientemente mayorcitos como para, incluso, completar la declaración de la renta— los que demos a cada una de ellas el peso que nos venga en gana.

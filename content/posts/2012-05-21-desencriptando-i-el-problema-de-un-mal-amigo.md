@@ -72,7 +72,7 @@ cadena <- c(
 "z","t","g","s","w","u","z","j","r","k","e","k","g","w","t","s","g","b","r","g","w","g")
 {{< / highlight >}}
 
-Se trata de una cadena de 1144 caracteres que, aparentemente, encerraban algún tipo de mensaje. De hecho, era probable que se tratase de un mensaje codificado con una técnica que, dicen, ya empleaba Julio César en la campaña de las Galias y que [describí en otra ocasión](http://www.datanalytics.com/blog/2011/12/02/grandes-avances-criptograficos-segun-el-pais/): a saber, mediante una permutación de letras.
+Se trata de una cadena de 1144 caracteres que, aparentemente, encerraban algún tipo de mensaje. De hecho, era probable que se tratase de un mensaje codificado con una técnica que, dicen, ya empleaba Julio César en la campaña de las Galias y que [describí en otra ocasión](http://www.datanalytics.com/2011/12/02/grandes-avances-criptograficos-segun-el-pais/): a saber, mediante una permutación de letras.
 
 Desencriptar supone, por lo tanto, encontrar una permutación inversa. En mi autocita de más arriba cuento cómo Sherlock Holmes utilizó la frecuencia relativa de las letras para encontrar el significado oculto tras unos símbolos que parecían garabatos de niño. Sin embargo, yo usé una técnica algo más sofisticada y que dará pie a varias entradas que irán apareciendo en los próximos días según refine el método y establezca vínculos que no todos esperaréis. En particular, usé una técnica probabilística bastante conocida:
 

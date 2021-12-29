@@ -19,7 +19,7 @@ Pues no lo sé. Es imposible probarlo o refutarlo sin realizar el par de llamada
 
 
 
-Mis lectores más fieles recordarán que, tratando el mismo tema, [dejé escrito en febrero](http://www.datanalytics.com/blog/2011/02/18/divide-y-compararas/) lo siguiente:
+Mis lectores más fieles recordarán que, tratando el mismo tema, [dejé escrito en febrero](http://www.datanalytics.com/2011/02/18/divide-y-compararas/) lo siguiente:
 
 
 

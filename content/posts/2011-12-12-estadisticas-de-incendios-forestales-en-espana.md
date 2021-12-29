@@ -30,6 +30,6 @@ El Ministerio de Medio Ambiente recoge [estadísticas sobre incendios forestales
 
 Los datos de la estadística definitiva _proceden del proceso informático_ (¡menos mal!) _de los Partes de Incendio Forestal, [...] que recoge para cada incendio más de 150 campos_. Estos datos proceden de las comunidades autónomas, que los envían al ministerio _dentro del primer trimestre del año siguiente_ (¡inaudita presteza!).
 
-Finalmente, el ministerio emite un informe provisional de dos hojas para el año en curso y un libraco con todo tipo de rudimentos gráficos de Excel —con sobreabundancia, por supuesto, de [gráficos de tarta](http://www.datanalytics.com/blog/2011/03/02/1658/)—.
+Finalmente, el ministerio emite un informe provisional de dos hojas para el año en curso y un libraco con todo tipo de rudimentos gráficos de Excel —con sobreabundancia, por supuesto, de [gráficos de tarta](http://www.datanalytics.com/2011/03/02/1658/)—.
 
 ¿No podía, mejor, darnos acceso a los datos crudos para que podamos sacar nuestras propias conclusiones? ¿No somos ya mayorcitos?

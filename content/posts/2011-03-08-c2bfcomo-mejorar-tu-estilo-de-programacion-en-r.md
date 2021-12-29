@@ -24,4 +24,4 @@ En particular, el autor del primer mensaje del hilo criticaba varios usos que co
 
 Al respecto, Hadley Wickham, recomendó leer los [consejos que ha recogido en su wiki](https://github.com/hadley/devtools/wiki). Gabor Grothendieck recomendó una [discusión en Stackexchange](http://stats.stackexchange.com/questions/5418/first-r-packages-source-code-to-study-in-preparation-for-writing-own-package).
 
-El lector interesado podría también echar un vistazo a la muy mejorable [guía de estilo para la programación en R](http://www.datanalytics.com/blog/2010/11/01/una-propuesta-de-guia-de-estilo-de-r/) de la que ya hablamos en otra ocasión.
+El lector interesado podría también echar un vistazo a la muy mejorable [guía de estilo para la programación en R](http://www.datanalytics.com/2010/11/01/una-propuesta-de-guia-de-estilo-de-r/) de la que ya hablamos en otra ocasión.

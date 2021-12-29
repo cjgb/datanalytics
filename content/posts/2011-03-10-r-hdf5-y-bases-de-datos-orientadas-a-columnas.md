@@ -13,7 +13,7 @@ tags:
 - hdf5
 ---
 
-Tras escribir el otro día sobre [RevoscaleR](http://www.datanalytics.com/blog/2011/03/04/1680/), he tropezado con [un paquete de R, HDF5](http://cran.r-project.org/web/packages/hdf5/index.html) que le permite hacer cosas parecidas usando tecnologías libres. Puede encontrarse más información sobre HDF5 [en la Wikipedia](http://en.wikipedia.org/wiki/Hierarchical_Data_Format) y en la [página del proyecto](http://www.hdfgroup.org/HDF5/whatishdf5.html).
+Tras escribir el otro día sobre [RevoscaleR](http://www.datanalytics.com/2011/03/04/1680/), he tropezado con [un paquete de R, HDF5](http://cran.r-project.org/web/packages/hdf5/index.html) que le permite hacer cosas parecidas usando tecnologías libres. Puede encontrarse más información sobre HDF5 [en la Wikipedia](http://en.wikipedia.org/wiki/Hierarchical_Data_Format) y en la [página del proyecto](http://www.hdfgroup.org/HDF5/whatishdf5.html).
 
 [![](/wp-uploads/2011/03/hdf_logo.jpg)
 ](/wp-uploads/2011/03/hdf_logo.jpg)

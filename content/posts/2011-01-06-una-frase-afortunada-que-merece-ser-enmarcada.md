@@ -13,7 +13,7 @@ tags:
 - frases
 ---
 
-Si bien en [mi entrada de hace un par de días](http://www.datanalytics.com/blog/2011/01/05/1139/) critiqué aspectos manifiestamente perfectibles de un articulillo que he leído estos días, hay en él una frase estupenda. Una frase que merece ser emarcada. Una frase de la que, por evitar que se me traspapele y para solaz de mis lectores, voy a dejar aquí constancia. Es:
+Si bien en [mi entrada de hace un par de días](http://www.datanalytics.com/2011/01/05/1139/) critiqué aspectos manifiestamente perfectibles de un articulillo que he leído estos días, hay en él una frase estupenda. Una frase que merece ser emarcada. Una frase de la que, por evitar que se me traspapele y para solaz de mis lectores, voy a dejar aquí constancia. Es:
 
 
 >Knusel (2005) investigated tail probabilities of distributions using Excel 2003 and found that previously inaccurate algorithms in Excel have been replaced by new inaccurate algorithms.

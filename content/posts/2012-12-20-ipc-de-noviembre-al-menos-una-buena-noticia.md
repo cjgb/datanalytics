@@ -22,4 +22,4 @@ Según las [ponderaciones del IPC Nacional de subclases](http://www.ine.es/jaxiB
 
 De este país me creo ya casi cualquier cosa. Incluso que el gobierno es capaz de llamar a Repsol, Cepsa y BP y regatear con ellos tres décimillas de IPC a cambio de vaya Vd. a saber qué cosa.
 
-En cualquier caso la buena noticia, aquella de la que congratularnos, es que el número que tal vez marcara el ministro fue el de las antedichas empresas y [no el del mismo INE](http://www.datanalytics.com/blog/2012/02/27/desconfianza-en-la-estadistica-publica-argentina/).
+En cualquier caso la buena noticia, aquella de la que congratularnos, es que el número que tal vez marcara el ministro fue el de las antedichas empresas y [no el del mismo INE](http://www.datanalytics.com/2012/02/27/desconfianza-en-la-estadistica-publica-argentina/).

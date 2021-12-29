@@ -14,7 +14,7 @@ tags:
 - r
 ---
 
-Después de la [entrada de ayer](http://www.datanalytics.com/blog/2012/07/04/libor-libor-fundeu-y-barclays-claro/) y de
+Después de la [entrada de ayer](http://www.datanalytics.com/2012/07/04/libor-libor-fundeu-y-barclays-claro/) y de
 
 [![](/wp-uploads/2012/07/tuit_david_cabo.png)
 ](/wp-uploads/2012/07/tuit_david_cabo.png)

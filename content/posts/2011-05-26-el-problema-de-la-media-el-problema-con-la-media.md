@@ -14,7 +14,7 @@ tags:
 - media
 ---
 
-Debiera comenzar asumiendo y reconociendo mis deficiencias pedagógicas a la hora de elegir y presentar el [problema sobre la media de la semana pasada](http://www.datanalytics.com/blog/2011/05/20/problema-de-la-semana-sobre-la-media/). Espero que quienes hicieron comentarios al respecto —y quienes los pensaron sin escribirlos— no reciban esta entrada con el "buuuuu" que tal vez merezco.
+Debiera comenzar asumiendo y reconociendo mis deficiencias pedagógicas a la hora de elegir y presentar el [problema sobre la media de la semana pasada](http://www.datanalytics.com/2011/05/20/problema-de-la-semana-sobre-la-media/). Espero que quienes hicieron comentarios al respecto —y quienes los pensaron sin escribirlos— no reciban esta entrada con el "buuuuu" que tal vez merezco.
 
 El problema _de_ la media es más bien un problema _con_ la media. No es en él tan interesante _la_ solución —y nadie debería pensar que en estas páginas planteamos problemas rancios como aquéllos sobre cuadernos, lapiceros y pesetas con que entretuvimos alguna tarde de la infancia— como su discusión.
 

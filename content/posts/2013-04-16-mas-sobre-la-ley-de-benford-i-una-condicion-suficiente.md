@@ -14,7 +14,7 @@ tags:
 - r
 ---
 
-Las circunstancias —frente a las que soy dócil como el que más— me conducen a escribir de nuevo sobre la [Ley de Benford](http://www.datanalytics.com/blog/tag/ley-de-benford/). En concreto, voy a traer a la atención de mis lectores una condición suficiente para que se cumpla. Y de ella extraeremos conclusiones tal vez sorprendentes en sucesivas entradas de la serie que con esta inicio.
+Las circunstancias —frente a las que soy dócil como el que más— me conducen a escribir de nuevo sobre la [Ley de Benford](http://www.datanalytics.com/tag/ley-de-benford/). En concreto, voy a traer a la atención de mis lectores una condición suficiente para que se cumpla. Y de ella extraeremos conclusiones tal vez sorprendentes en sucesivas entradas de la serie que con esta inicio.
 
 Dado un número (p.e., 1234), lo podemos descomponer en dos: una potencia de 10 y otro entre 0 y 10:
 

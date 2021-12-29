@@ -12,7 +12,7 @@ tags:
 - programación funcional
 ---
 
-Quienes acudan a [Mieres la semana que viene](http://www.datanalytics.com/blog/2010/10/29/ii-jornadas-de-usuarios-de-r/) me oirán hablar de programación funcional en R. Algo de lo que no hablaré pero que dejaré acá escrito como abrebocas es un pequeño ejemplo de cómo la programación funcional hace tu vida más simple y, sobre todo, prolonga la vida de tu teclado.
+Quienes acudan a [Mieres la semana que viene](http://www.datanalytics.com/2010/10/29/ii-jornadas-de-usuarios-de-r/) me oirán hablar de programación funcional en R. Algo de lo que no hablaré pero que dejaré acá escrito como abrebocas es un pequeño ejemplo de cómo la programación funcional hace tu vida más simple y, sobre todo, prolonga la vida de tu teclado.
 
 Voy a ilustrar el uso de una función de R que echábamos de menos los usuarios de Python: Filter. Estaba ahí, sí, pero como escondida.
 

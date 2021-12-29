@@ -17,7 +17,7 @@ Todo el mundo entiende que los médicos, sólo por serlo, están sujetos a un ma
 
 Yo, durante un tiempo, me pregunté cuál sería el de los matemáticos, los estadísticos, los que nos dedicamos al análisis de datos. Y creí dar con una fórmula que hice mía: **ordenar y simplificar la información**.
 
-Cada vez hay [más información en el mundo](http://www.datanalytics.com/blog/2010/09/23/%C2%BFcuanta-informacion-hay-en-el-mundo/). Y sigue existiendo la tentación de [tergiversarla](http://www.malaprensa.com/2010/10/otro-grafico-asombroso.html) por vaya uno a saber qué subterráneos intereses. No obstante, pese a las dificultades y los cantos de sirena, deberíamos asumir el reto de siempre, siempre, siempre, **simplificar**; siempre, siempre, siempre, **ordenar**.
+Cada vez hay [más información en el mundo](http://www.datanalytics.com/2010/09/23/%C2%BFcuanta-informacion-hay-en-el-mundo/). Y sigue existiendo la tentación de [tergiversarla](http://www.malaprensa.com/2010/10/otro-grafico-asombroso.html) por vaya uno a saber qué subterráneos intereses. No obstante, pese a las dificultades y los cantos de sirena, deberíamos asumir el reto de siempre, siempre, siempre, **simplificar**; siempre, siempre, siempre, **ordenar**.
 
 Es tarea agotadora (y muy poco gratificante) cuando uno pasa ocho horas diarias sumergido en un espasmódico flujo de palabras no informativas y datos _a la virulé_. Lo confieso. Por eso uno se siente, cuando menos, ética e intelectualmente refrendado cuando oye a [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) afirmar que:
 

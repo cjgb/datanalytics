@@ -14,7 +14,7 @@ tags:
 - terremotos
 ---
 
-Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese [tantos terremotos](http://www.datanalytics.com/blog/2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/) (aunque mis amigos chilenos los llamarían de otra manera).
+Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese [tantos terremotos](http://www.datanalytics.com/2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/) (aunque mis amigos chilenos los llamarían de otra manera).
 
 En esta entrada voy a mostrar el siguiente mapa de actividad sísmica durante los últimos años,
 

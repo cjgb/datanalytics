@@ -14,7 +14,7 @@ tags:
 - spss
 ---
 
-Hemos tratado el tema previamente en entradas como [esta](http://www.datanalytics.com/blog/2010/01/29/addenda-excel-y-estadistica/) o [esta](http://www.datanalytics.com/blog/2010/01/25/excel-y-estadistica/). Pero es ahora IBM el que abunda en el tema mediante la publicación de un documento, [The Risks of Using Spreadsheets for Statistical Analysis](/uploads/The_Risks_of_Using_Spreadsheets_for_Statistical_Analysis.pdf), cuyo nombre lo dice, poco más o menos, todo.
+Hemos tratado el tema previamente en entradas como [esta](http://www.datanalytics.com/2010/01/29/addenda-excel-y-estadistica/) o [esta](http://www.datanalytics.com/2010/01/25/excel-y-estadistica/). Pero es ahora IBM el que abunda en el tema mediante la publicación de un documento, [The Risks of Using Spreadsheets for Statistical Analysis](/uploads/The_Risks_of_Using_Spreadsheets_for_Statistical_Analysis.pdf), cuyo nombre lo dice, poco más o menos, todo.
 
 Cierto que el documento tiene como objetivo promover el uso de SPSS como alternativa y de ello se ocupa largamente su segunda mitad. Por eso es la primera la más relevante para mis lectores.
 

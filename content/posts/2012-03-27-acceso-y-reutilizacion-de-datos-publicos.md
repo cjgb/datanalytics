@@ -24,7 +24,7 @@ Hoy me toca volver a hablar de leyes y de cómo afectan a la labor estadística.
 
 Desde el punto de vista del software, disponemos de R. Podemos acceder a él y podemos reutilizarlo, copiarlo, cederlo, regalarlo. También cedemos, distribuimos y permitimos que otros reutilicen nuestras propias aportaciones. Acceso y reutilización son dos caras de la misma moneda.
 
-¿Y respecto a los datos? Y en particular, ¿de los datos públicos? En España, está regulada por ley su [redistribución](http://www.boe.es/aeboe/consultas/bases_datos/doc.php?id=BOE-A-2007-19814) (otra cosa es que los organismos titulares de dichos datos, como el INE, no estén al corriente de ella). Y ¿el acceso (que se supone que debería ser, en pura lógica, previo)? Pues hubo un [borrador, del que hablé en otra ocasión,](http://www.datanalytics.com/blog/2011/08/02/el-borrador-de-ley-de-transparencia-disponible/) y que los avatares electorales convirtieron en papel mojado.
+¿Y respecto a los datos? Y en particular, ¿de los datos públicos? En España, está regulada por ley su [redistribución](http://www.boe.es/aeboe/consultas/bases_datos/doc.php?id=BOE-A-2007-19814) (otra cosa es que los organismos titulares de dichos datos, como el INE, no estén al corriente de ella). Y ¿el acceso (que se supone que debería ser, en pura lógica, previo)? Pues hubo un [borrador, del que hablé en otra ocasión,](http://www.datanalytics.com/2011/08/02/el-borrador-de-ley-de-transparencia-disponible/) y que los avatares electorales convirtieron en papel mojado.
 
 
 [![](/wp-uploads/2012/03/transparencia.png)

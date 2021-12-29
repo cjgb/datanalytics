@@ -12,7 +12,7 @@ tags:
 - números
 ---
 
-Habiendo hecho eco el otro día en esta bitácora del anuncio de un [estudio del grado de real de apertura de los datos del proyecto Aporta](http://www.datanalytics.com/blog/2011/10/28/%C2%BFes-abierto-todo-lo-que-reluce/), de rigor es que haga mención de [los resultados](http://amedioentender.blogspot.com/2011/11/el-proyecto-aporta-se-queda-al-3.html).
+Habiendo hecho eco el otro día en esta bitácora del anuncio de un [estudio del grado de real de apertura de los datos del proyecto Aporta](http://www.datanalytics.com/2011/10/28/%C2%BFes-abierto-todo-lo-que-reluce/), de rigor es que haga mención de [los resultados](http://amedioentender.blogspot.com/2011/11/el-proyecto-aporta-se-queda-al-3.html).
 
 En resumen:
 

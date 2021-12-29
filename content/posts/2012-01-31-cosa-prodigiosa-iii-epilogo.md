@@ -13,7 +13,7 @@ tags:
 - martingala
 ---
 
-Escribo desde mi retiro vacacional, en el hemisferio inhabitual, sin _wifis_ y casi de memoria para completar [la historia que comencé hace dos semanas](http://www.datanalytics.com/blog/2012/01/12/cosa-prodigiosa-sin-palabras-i/) en esta bitácora.
+Escribo desde mi retiro vacacional, en el hemisferio inhabitual, sin _wifis_ y casi de memoria para completar [la historia que comencé hace dos semanas](http://www.datanalytics.com/2012/01/12/cosa-prodigiosa-sin-palabras-i/) en esta bitácora.
 
 Tropecé con el juego que describí en el libro _A Mathematician Plays The Stock Market_, de John Allen Paulos. Y creo que se equivoca en las probabilidades de los juegos: si en lugar de las que indiqué en mi primera entrada utilizo las suyas, me da la impresión de que el tercer juego es perdedor. ¿Será un _bug_ en el libro? (¿O es que la dislexia me volvió a confundir?)
 

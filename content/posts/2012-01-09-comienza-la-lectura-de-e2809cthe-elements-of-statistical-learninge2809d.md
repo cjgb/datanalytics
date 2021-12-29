@@ -15,7 +15,7 @@ tags:
 - r
 ---
 
-Mediante la presente, notifico a los interesados en la [lectura de “The Elements of Statistical Learning”](http://www.datanalytics.com/blog/2011/12/23/%C2%BFnos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/) que esta semana tenemos que dar cuenta de los capítulos 1 (que es una introducción muy ligera) y 2 (donde comienza el tomate realmente).
+Mediante la presente, notifico a los interesados en la [lectura de “The Elements of Statistical Learning”](http://www.datanalytics.com/2011/12/23/%C2%BFnos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/) que esta semana tenemos que dar cuenta de los capítulos 1 (que es una introducción muy ligera) y 2 (donde comienza el tomate realmente).
 
 Esta noche [Juanjo Gibaja](http://www.jjgibaja.net/) y yo estudiaremos la mecánica de lectura en común.
 

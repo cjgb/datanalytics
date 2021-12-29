@@ -15,8 +15,8 @@ tags:
 
 Después de bastante trabajo, [rPython](http://cran.r-project.org/web/packages/rPython/) ya está disponible en CRAN, ya es un paquete _oficial_ de R.
 
-Se trata de un paquete del que ya nos hemos ocupado antes (véase [esto](http://www.datanalytics.com/blog/tag/rpython/) y [esto](http://www.datanalytics.com/blog/2010/07/13/rjython-un-nuevo-paquete-para-llamar-a-python-desde-r/)) y que permite llamar a Python desde R.
+Se trata de un paquete del que ya nos hemos ocupado antes (véase [esto](http://www.datanalytics.com/tag/rpython/) y [esto](http://www.datanalytics.com/2010/07/13/rjython-un-nuevo-paquete-para-llamar-a-python-desde-r/)) y que permite llamar a Python desde R.
 
 Por el momento, está disponible únicamente para plataformas UNIX (Linux, Mac) aunque estoy tratando de crear una versión que funcione en Windows.
 
-Además, estoy buscando aplicaciones de rPython (al estilo de [esta](http://www.datanalytics.com/blog/2013/03/06/datos-lidar-en-r/)). Así que si a alguien se le ocurre alguna...
+Además, estoy buscando aplicaciones de rPython (al estilo de [esta](http://www.datanalytics.com/2013/03/06/datos-lidar-en-r/)). Así que si a alguien se le ocurre alguna...

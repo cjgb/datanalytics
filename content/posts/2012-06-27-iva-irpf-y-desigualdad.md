@@ -15,7 +15,7 @@ tags:
 - números
 ---
 
-Nos hemos ocupado previamente de [estas cuestiones](http://www.datanalytics.com/blog/2012/01/02/iva-irpf-y-cosas-que-no-entiendo/). Abundo en ellas ahora a causa de un informe publicado por la [ONS](http://www.statistics.gov.uk) (Office of National Statistics, el INE británico) titulado _[The effects of taxes and benefits on household income, 2010/2011](http://www.ons.gov.uk/ons/dcp171778_267839.pdf)_. Extraigo de su resumen los siguientes puntos:
+Nos hemos ocupado previamente de [estas cuestiones](http://www.datanalytics.com/2012/01/02/iva-irpf-y-cosas-que-no-entiendo/). Abundo en ellas ahora a causa de un informe publicado por la [ONS](http://www.statistics.gov.uk) (Office of National Statistics, el INE británico) titulado _[The effects of taxes and benefits on household income, 2010/2011](http://www.ons.gov.uk/ons/dcp171778_267839.pdf)_. Extraigo de su resumen los siguientes puntos:
 
 * Antes de impuestos y beneficios sociales, el quintil más rico de los hogares tenía una renta media de £81.500, 16 veces superior a la del quintil más pobre, £5.100.
 * Globalmente, los impuestos y los beneficios sociales contribuyeron a redistribuir la riqueza: tras computarlos, el ratio se redujo a 4: £61.400 contra £15.200

@@ -17,7 +17,7 @@ tags:
 - r
 ---
 
-En esta entrada voy a ilustrar el uso del [paquete MicroDatosEs](http://www.datanalytics.com/blog/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) que anuncié el otro día. Como indiqué entonces, de momento sólo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
+En esta entrada voy a ilustrar el uso del [paquete MicroDatosEs](http://www.datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) que anuncié el otro día. Como indiqué entonces, de momento sólo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
 
 Como todavía no están disponibles los del segundo trimestre del 2012, utilizaré los del primero. Para ello, hay que ir a las [páginas del INE](http://www.ine.es/prodyser/micro_epa.htm) y seleccionar el fichero correspondiente al primer trimestre de 2012 (que los impacientes pueden descargar directamente de su [enlace directo](ftp://www.ine.es/temas/epa/datos_1t12.zip)).
 
@@ -68,7 +68,7 @@ tasa.paro$factorel <- tasa.paro$factorel / 100    # realmente no necesario
 
 se obtiene la consabida tasa de paro para el primer trimestre del año.
 
-¿Se ofrece alguien a completar los detalles hasta construir el [gráfico que mostré el otro día](http://www.datanalytics.com/blog/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/)?
+¿Se ofrece alguien a completar los detalles hasta construir el [gráfico que mostré el otro día](http://www.datanalytics.com/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/)?
 
 
 

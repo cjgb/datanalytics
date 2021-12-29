@@ -15,7 +15,7 @@ tags:
 - micromuertes
 ---
 
-Hablamos ya hace un tiempo de las [micromuertes](http://www.datanalytics.com/blog/2011/06/01/micromuertes/). Ahora toca traer a la atención de mis lectores un concepto asociado, el de las [microvidas](http://understandinguncertainty.org/microlives).
+Hablamos ya hace un tiempo de las [micromuertes](http://www.datanalytics.com/2011/06/01/micromuertes/). Ahora toca traer a la atención de mis lectores un concepto asociado, el de las [microvidas](http://understandinguncertainty.org/microlives).
 
 Una microvida corresponde a una esperanza de vida de media hora. _Malgasta_ una microvida quien fuma dos cigarros, bebe siete unidades de alcohol (equivalentes a  un litro de cerveza) o vive un día con un sobrepeso de 5 kg.
 

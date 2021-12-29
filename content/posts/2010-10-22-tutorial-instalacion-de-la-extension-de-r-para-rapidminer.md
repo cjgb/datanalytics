@@ -12,7 +12,7 @@ tags:
 - rapidminer
 ---
 
-Por popular demanda, voy a explorar cómo de dificultoso es instalar el [puente entre R y RapidMiner](http://www.datanalytics.com/blog/2010/09/08/mas-sobre-la-integracion-de-r-y-rapidminer/) en Windows y a dejar escrito cómo se hace. Lo instalé hace días en Linux (Ubuntu) sin mayor problema. Pero hay quien parece que haberlos tenido en la ubicua plataforma.
+Por popular demanda, voy a explorar cómo de dificultoso es instalar el [puente entre R y RapidMiner](http://www.datanalytics.com/2010/09/08/mas-sobre-la-integracion-de-r-y-rapidminer/) en Windows y a dejar escrito cómo se hace. Lo instalé hace días en Linux (Ubuntu) sin mayor problema. Pero hay quien parece que haberlos tenido en la ubicua plataforma.
 
 No sé mucho de Windows y las diferentes versiones y configuraciones que pueda tener. Sólo sé que que he probado los pasos de este tutorial sobre un Windows 7 Profesional (creo) de 32 bits.
 

@@ -12,7 +12,7 @@ tags:
 - r
 ---
 
-Esta entrada acompaña y remata para los usuarios de R la que escribí en general sobre los [códigos de caracteres](http://www.datanalytics.com/blog/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/). Es un pequeño experimento en el que comparo lo que pasa al leer un fichero de texto codificado de dos maneras distintas en dos plataformas, Linux y Windows, que usan códigos de caracteres distintos.
+Esta entrada acompaña y remata para los usuarios de R la que escribí en general sobre los [códigos de caracteres](http://www.datanalytics.com/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/). Es un pequeño experimento en el que comparo lo que pasa al leer un fichero de texto codificado de dos maneras distintas en dos plataformas, Linux y Windows, que usan códigos de caracteres distintos.
 
 Primero creo dos ficheros (en Linux) con el mismo contenido pero codificados de dos maneras distintas, `utf-8` y `latin1`:
 
@@ -62,6 +62,6 @@ Las llamadas tercera y sexta son más interesantes: en Linux falla tercera y fun
 
 Este es un detalle a tener en cuenta por quienes aspiran a desarrollar código _portable_, es decir, que puede ser usado por cualquiera y en cualquier plataforma para leer archivos de texto.
 
-**Nota:** este experimento tiene que ver con el desarrollo del [paquete pxR](http://www.datanalytics.com/blog/2011/07/28/el-paquete-pxr-en-cran/), que debería ser capaz de leer ficheros (y ejecutar `strsplit` sobre sus cadenas, entre otras funciones) en la plataforma de elección de sus usuarios (y sobre la que los autores no tenemos control). Aparentemente, los ficheros PC-Axis que queremos leer en R, según la documentación oficial, están en codificados en _formato Windows_.
+**Nota:** este experimento tiene que ver con el desarrollo del [paquete pxR](http://www.datanalytics.com/2011/07/28/el-paquete-pxr-en-cran/), que debería ser capaz de leer ficheros (y ejecutar `strsplit` sobre sus cadenas, entre otras funciones) en la plataforma de elección de sus usuarios (y sobre la que los autores no tenemos control). Aparentemente, los ficheros PC-Axis que queremos leer en R, según la documentación oficial, están en codificados en _formato Windows_.
 
 Nuestra actual implementación está basada en ideas extraidas del experimento anterior. Si alguien ve un error en las conclusiones (o conoce una manera más adecuada para garantizar la _portabilidad_), le rogaría que se pusiese en contacto conmigo para trasladarla al código.

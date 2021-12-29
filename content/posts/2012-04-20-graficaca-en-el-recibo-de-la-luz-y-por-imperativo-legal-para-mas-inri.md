@@ -14,7 +14,7 @@ tags:
 - números
 ---
 
-Tras una sobremesa en la que tratamos el ya manido tema de los [gráficos de tarta](http://www.datanalytics.com/blog/2011/03/02/1658/), me hace llegar mi tertuliano Jorge Sobrino una solapilla que le adjunta Iberdrola al recibo de la luz que parece una broma de mal gusto. Es muy parecida a la siguiente:
+Tras una sobremesa en la que tratamos el ya manido tema de los [gráficos de tarta](http://www.datanalytics.com/2011/03/02/1658/), me hace llegar mi tertuliano Jorge Sobrino una solapilla que le adjunta Iberdrola al recibo de la luz que parece una broma de mal gusto. Es muy parecida a la siguiente:
 
 [![](/wp-uploads/2012/04/mix_iberdrola.png)
 ](/wp-uploads/2012/04/mix_iberdrola.png)

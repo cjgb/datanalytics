@@ -22,7 +22,7 @@ El artículo se resume en lo siguiente: si un día el Banco Central Europeo va a
 * La confidencialidad de los datos
 * Sus niveles de desglose (y agregación)
 
-Son dos problemas, además, interrelacionados. Por un lado, la supervisión bancaria exige un conocimiento íntimo de la cartera crediticia de las entidades. De hecho, son lo que el columnista llama _tail risks_, riesgos grandes que afectan a un número pequeño de préstamos, los que pueden tumbar al banco más pintado (véase [esto](http://www.datanalytics.com/blog/2012/06/12/por-que-me-quejo-del-banco-de-espana/) y [esto otro](http://www.datanalytics.com/blog/2012/06/22/las-auditorias-bancaria-de-ayer/)). Y estos riesgos _en la cola_ quedan opacados tras las agregaciones.
+Son dos problemas, además, interrelacionados. Por un lado, la supervisión bancaria exige un conocimiento íntimo de la cartera crediticia de las entidades. De hecho, son lo que el columnista llama _tail risks_, riesgos grandes que afectan a un número pequeño de préstamos, los que pueden tumbar al banco más pintado (véase [esto](http://www.datanalytics.com/2012/06/12/por-que-me-quejo-del-banco-de-espana/) y [esto otro](http://www.datanalytics.com/2012/06/22/las-auditorias-bancaria-de-ayer/)). Y estos riesgos _en la cola_ quedan opacados tras las agregaciones.
 
 Así, si un banco tuviese los pies en el horno y la cabeza en la nevera, es probable que ni él mismo se diese cuenta de que está en problemas.
 

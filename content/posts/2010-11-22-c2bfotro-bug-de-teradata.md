@@ -16,7 +16,7 @@ Yo creo que es un _bug_, vamos. Y tengo tres motivos para creerlo:
 
 1. Teradata no hace lo que se espera que haga.
 2. No he encontrado por ahí motivo técnico alguno que proscriba razonadamente lo que intento hacer.
-3. He hablado con un señor empleado de Teradata, le he enviado el ejemplo y en lugar de explicarme mi error (de haberlo) ha hecho el avestruz (ya hablé de [lo que pasa cuando uno encuentra _bugs _en _software_ propietario](http://www.datanalytics.com/blog/2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/)).
+3. He hablado con un señor empleado de Teradata, le he enviado el ejemplo y en lugar de explicarme mi error (de haberlo) ha hecho el avestruz (ya hablé de [lo que pasa cuando uno encuentra _bugs _en _software_ propietario](http://www.datanalytics.com/2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/)).
 
 He aquí cómo reproducir el _bug_. Primero creo una tabla muy simple e inserto una única fila en ella.
 

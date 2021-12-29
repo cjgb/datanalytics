@@ -17,7 +17,7 @@ tags:
 - charlas
 ---
 
-Ya ha salido publicado el [vídeo](http://medialab-prado.es/mmedia/11637/view) de la [charla sobre la EPA](http://www.datanalytics.com/blog/2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/) (y más cosas) que anuncié el otro día.
+Ya ha salido publicado el [vídeo](http://medialab-prado.es/mmedia/11637/view) de la [charla sobre la EPA](http://www.datanalytics.com/2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/) (y más cosas) que anuncié el otro día.
 
 ![](http://medialab-prado.es/mmedia/11/11641/500_400.jpg)
 

@@ -12,7 +12,7 @@ tags:
 - series temporales
 ---
 
-El otro día [propuse un ejercicio de series temporales](http://www.datanalytics.com/blog/2012/05/17/para-los-expertos-en-series-temporales/), el análisis de una serie temporal bastante conocida. Entre otras cosas, para ver si alguien la reconocía. O si daba con un análisis más o menos adecuado de la misma. Y, ¡vaya!, no he tenido ninguna respuesta...
+El otro día [propuse un ejercicio de series temporales](http://www.datanalytics.com/2012/05/17/para-los-expertos-en-series-temporales/), el análisis de una serie temporal bastante conocida. Entre otras cosas, para ver si alguien la reconocía. O si daba con un análisis más o menos adecuado de la misma. Y, ¡vaya!, no he tenido ninguna respuesta...
 
 De todos modos, antes de realizar mi primera entrada pregunté a un amigo experto en la materia para ver si resultaba demasiado evidente. Le pedí expresamente que no perdiese mucho tiempo con ella. Y observó algunos patrones _interesantes_ (como que el número de valores distintos en la serie no excedían la treintena) así como una cierta estructura de correlación.
 

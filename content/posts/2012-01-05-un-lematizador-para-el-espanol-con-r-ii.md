@@ -12,7 +12,7 @@ tags:
 - nlp
 ---
 
-El otro día publiqué mi pequeño [lematizador para el español con R](http://www.datanalytics.com/blog/2011/12/13/un-lematizador-para-el-espanol-con-r-%C2%BFcutre-%C2%BFmejorable). Era el subproducto de un antiguo proyecto mío de cuyos resultados daré noticia en los próximos días.
+El otro día publiqué mi pequeño [lematizador para el español con R](http://www.datanalytics.com/2011/12/13/un-lematizador-para-el-espanol-con-r-%C2%BFcutre-%C2%BFmejorable). Era el subproducto de un antiguo proyecto mío de cuyos resultados daré noticia en los próximos días.
 
 Pero veo con infinita satisfacción que [Emilio Torres](http://directo.uniovi.es/catalogo/DetalleProfesor.asp?idprofesor=28365), viejo conocido de quienes, por ejemplo, hayáis asistido a las II o III Jornadas de Usuarios de R, ha estado abundando en el asunto y, ciertamente mejorándolo (cosa que, todo hay que decir, tiene escaso mérito): basta mirar los sus comentarios a la entrada original.
 

@@ -15,7 +15,7 @@ tags:
 - sesgo
 ---
 
-No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porque siempre he pensado que era poco menso que imposible. Pero hace unos pocos días [escribí sobre el asunto](http://www.datanalytics.com/blog/2012/04/09/3564/) y hoy traigo otro similar a colación.
+No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porque siempre he pensado que era poco menso que imposible. Pero hace unos pocos días [escribí sobre el asunto](http://www.datanalytics.com/2012/04/09/3564/) y hoy traigo otro similar a colación.
 
 La variable más importante a la hora de construir un modelo es, precisamente, la que se quiere predecir. Casi todos los textos asumen que se conoce sin ningún género de dudas en, al menos, una determinada muestra que, además, corresponde más o menos a la población subyacente: si el paciente sobrevive o no; si la hipoteca entra en mora o no; si el cliente responde a la oferta o no, etc.
 

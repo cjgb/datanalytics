@@ -12,7 +12,7 @@ tags:
 - paquetes
 ---
 
-Me complace anunciar la subida a CRAN de la versión 0.7 del [paquete `colbycol`](http://www.datanalytics.com/blog/2011/04/07/nueva-version-de-paquete-colbycol/).
+Me complace anunciar la subida a CRAN de la versión 0.7 del [paquete `colbycol`](http://www.datanalytics.com/2011/04/07/nueva-version-de-paquete-colbycol/).
 
 La diferencia esencial con respecto a la anterior es:
 

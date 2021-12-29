@@ -17,7 +17,7 @@ tags:
 - vídeos
 ---
 
-Ayer, tal y [como anuncié el otro día](http://www.datanalytics.com/blog/2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/), participé en el Taller InnovaData de periodismo de datos. El vídeo de mi intervención (a partir del minuto 2:02:00 aproximadamente) puede verse en
+Ayer, tal y [como anuncié el otro día](http://www.datanalytics.com/2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/), participé en el Taller InnovaData de periodismo de datos. El vídeo de mi intervención (a partir del minuto 2:02:00 aproximadamente) puede verse en
 
 {{< youtube HsSHVyk_448 >}}
 

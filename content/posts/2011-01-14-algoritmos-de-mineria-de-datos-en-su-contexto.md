@@ -12,7 +12,7 @@ tags:
 - algoritmos
 ---
 
-El otro día apareció publicada en esta bitácora la noticia de un artículo en el que se enumeraban [los _top 10_ de entre los algortimos de minería de datos](http://www.datanalytics.com/blog/2011/01/04/¿cuales-son-los-top-10-algoritmos-para-data-mining/). Nuestro compañero Andrés Gutiérrez [se hizo eco de la noticia](http://www.gutierrezandres.com/blog/2011/01/los-algoritmos-mas-utilizados-en-data-mining/) y, además, extrajo la lista.
+El otro día apareció publicada en esta bitácora la noticia de un artículo en el que se enumeraban [los _top 10_ de entre los algortimos de minería de datos](http://www.datanalytics.com/2011/01/04/¿cuales-son-los-top-10-algoritmos-para-data-mining/). Nuestro compañero Andrés Gutiérrez [se hizo eco de la noticia](http://www.gutierrezandres.com/blog/2011/01/los-algoritmos-mas-utilizados-en-data-mining/) y, además, extrajo la lista.
 
 He leído el artículo, he revisado la lista de los algoritmos elegidos, he leído los comentarios y tengo algunas objeciones que realizar.  No tanto por dejar constancia de ellas sino para evitar que los oropeles despisten a quienes se introducen en este mundo de la minería de datos.
 
