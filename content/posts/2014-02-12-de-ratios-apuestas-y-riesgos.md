@@ -52,8 +52,8 @@ $$ exp(\beta)=\frac{p_1/(1-p_1)}{p_0/(1-p_0)}$$,
 
 nuestro OR. Y claro, como $latex \beta$ tiene asociados intervalos de confianza, etc. uno puede _hacer estadística_ y, por ejemplo, construir gráficos tales como
 
-[![multiodds1](/wp-uploads/2014/02/multiodds1.png)
-](/wp-uploads/2014/02/multiodds1.png)
+[![multiodds1](/wp-uploads/2014/02/multiodds1.png#center)
+](/wp-uploads/2014/02/multiodds1.png#center)
 
 (Nota: el gráfico anterior está extraído de [aquí](http://strengejacke.wordpress.com/2014/01/29/comparing-multiple-glm-in-one-graph-rstats/), la bitácora del autor del [paquete `sjPlot`](http://cran.r-project.org/web/packages/sjPlot/), con el que se ha generado el gráfico anterior).
 

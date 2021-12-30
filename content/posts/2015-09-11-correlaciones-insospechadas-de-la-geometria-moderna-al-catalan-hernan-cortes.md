@@ -29,8 +29,8 @@ Una de las herramientas que usa para justificar que acontecimientos que creemos 
 
 Unos [señores desavisados](http://www.inh.cat/) sacaron de la biblioteca de su barrio el libro equivocado de Fomenko y, en lugar de convertirse en expertos en la teoría de las homologías, hicieron agua sus sesos de la peor de las maneras. A tanto llegó su quijotesca locura que, razonando sobre cuadros fomenkianos tales como
 
-[![pizarro_catalan](/wp-uploads/2015/09/pizarro_catalan.png)
-](/wp-uploads/2015/09/pizarro_catalan.png)
+[![pizarro_catalan](/wp-uploads/2015/09/pizarro_catalan.png#center)
+](/wp-uploads/2015/09/pizarro_catalan.png#center)
 
 llegaron a conclusiones tan disparatadas como que [Hernán Cortés era tan catalán como ellos mismos](http://www.inh.cat/articles/Hernan-Cortes:-%3Cem%3Ehidalgo%3C-em%3E-extremeny-o-descendent-de-sang-reial-catalana-).
 

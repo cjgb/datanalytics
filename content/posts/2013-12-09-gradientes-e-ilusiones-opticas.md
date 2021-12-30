@@ -21,5 +21,5 @@ Hoy, mirando
 
 y tratando de comparar Uruguay y España no he podido dejar de acordarme de
 
-[![](/wp-uploads/2013/12/Gradient-optical-illusion.png)
-](/wp-uploads/2013/12/Gradient-optical-illusion.png)
+[![](/wp-uploads/2013/12/Gradient-optical-illusion.png#center)
+](/wp-uploads/2013/12/Gradient-optical-illusion.png#center)

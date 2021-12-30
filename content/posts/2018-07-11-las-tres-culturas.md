@@ -16,15 +16,15 @@ tags:
 
 Breiman habló de [las dos](https://www.datanalytics.com/2016/11/07/las-dos-culturas-con-comentarios-de-2016/). Dice, y tiene razón, que:
 
-![](/wp-uploads/2018/07/breiman_nature.png)
+![](/wp-uploads/2018/07/breiman_nature.png#center)
 
 Según él, la estadística tradicional _rellena_ la caja negra con:
 
-![](/wp-uploads/2018/07/breiman_statistics.png)
+![](/wp-uploads/2018/07/breiman_statistics.png#center)
 
 ¡Aburrido, aburrido, aburrido! Aburrido y limitado (aunque, hay que admitirlo, útil en ocasiones muy concretas). Breiman sugiere sustituir las cajas negras que encontramos en la naturaleza por otras cajas negras conceptuales:
 
-![](/wp-uploads/2018/07/breiman_ml.png)
+![](/wp-uploads/2018/07/breiman_ml.png#center)
 
 Que es aún más aburrido y patrimonio, además, de toda suerte de _script kiddies_.
 

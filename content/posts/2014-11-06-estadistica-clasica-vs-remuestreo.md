@@ -17,8 +17,8 @@ Hace unos años, [Juanjo Gibaja](https://twitter.com/jjgibaja) y yo organizamos 
 
 Hoy uno de nuestros antiguos alumnos nos ha agradecido que _le señalásemos el camino de esos superpoderes_:
 
-[![cencerrilla](/wp-uploads/2014/11/cencerrilla.png)
-](/wp-uploads/2014/11/cencerrilla.png)
+[![cencerrilla](/wp-uploads/2014/11/cencerrilla.png#center)
+](/wp-uploads/2014/11/cencerrilla.png#center)
 
 Y nos ha regalado un vídeo, _Statistics Without the Agonizing Pain_,
 

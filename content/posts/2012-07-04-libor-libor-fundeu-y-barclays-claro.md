@@ -38,13 +38,13 @@ como puede apreciarse en el anterior [gráfico de The Guardian](http://www.guard
 
 Con esos datos he construido una gráfica de las diferencias por entidad entre el Libor (a tres meses) y el comunicado por las entidades. El primero, en una época _normal_, en que las diferencias entre entidades eran pequeñas (y la prima de riesgo era un arcano para los más)
 
-[![](/wp-uploads/2012/07/libor_2007.png)
-](/wp-uploads/2012/07/libor_2007.png)
+[![](/wp-uploads/2012/07/libor_2007.png#center)
+](/wp-uploads/2012/07/libor_2007.png#center)
 
 y luego, un año más tarde, cuando el mercado interbancario comenzó a discriminar entre entidades:
 
-[![](/wp-uploads/2012/07/libor_2008.png)
-](/wp-uploads/2012/07/libor_2008.png)
+[![](/wp-uploads/2012/07/libor_2008.png#center)
+](/wp-uploads/2012/07/libor_2008.png#center)
 
 Se ve claramente cómo Barclays estuvo sometido a presión en esa época.
 

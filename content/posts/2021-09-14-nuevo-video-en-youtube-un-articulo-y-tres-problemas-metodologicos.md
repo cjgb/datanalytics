@@ -25,7 +25,7 @@ He publicado esto en Youtube:
 
 Igual no lo debería haber hecho. Trata del manido tema "alguien ha publicado un artículo _científico_ con serios errores metodológicos". Que es una versión del más popular
 
-![](/wp-uploads/2021/09/450_1000.png)
+![](/wp-uploads/2021/09/450_1000.png#center)
 
 (No hace falta que indique la fuente, ¿verdad? Sabéis que sé que sabéis de dónde lo he sacado, ¿no?)
 

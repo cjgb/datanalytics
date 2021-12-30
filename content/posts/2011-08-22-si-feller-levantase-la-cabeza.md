@@ -30,8 +30,8 @@ No sé si el artículo que escribieron al respecto,[ _Deriving chemosensitivity 
 
 Y mencionan un caso que es con el que quiero amenizar a mis lectores. En ocasiones, los tratamientos se administran de manera combinada. A un paciente no se lo trata con un único fármaco sino con una combinación de ellos. Conocida la _probabilidad_ de que responda aun determinado tratamiento, ¿cuál sería la de que responda a una combinación de ellos?
 
-[![](/wp-uploads/2011/08/probability_combination.png)
-](/wp-uploads/2011/08/probability_combination.png)
+[![](/wp-uploads/2011/08/probability_combination.png#center)
+](/wp-uploads/2011/08/probability_combination.png#center)
 
 En los artículos se consideran varios fármacos: T, F, A, C y E. Conocidos P(T), P(F), P(A), P(C) y P(E) para cada paciente, ¿cuál sería, por ejemplo P(TFAC), la probabilidad de éxito de un tratamiento que combine T, F, A y F? En el artículo se menciona (la traducción y el subrayado son míos) que
 

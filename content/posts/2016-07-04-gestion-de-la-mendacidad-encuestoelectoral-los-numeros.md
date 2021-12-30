@@ -108,7 +108,7 @@ ggplot(res, aes(x = pct, fill = partido)) +
 
 produce
 
-![partidos_tarjetas](/wp-uploads/2016/07/partidos_tarjetas.png)
+![partidos_tarjetas](/wp-uploads/2016/07/partidos_tarjetas.png#center)
 
 que no está mal del todo.
 

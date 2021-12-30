@@ -26,7 +26,7 @@ plot(cumsum(x - .5), type = "l")
 
 produce
 
-![](/wp-uploads/2020/06/random_walk_hirsuto.png)
+![](/wp-uploads/2020/06/random_walk_hirsuto.png#center)
 
 mientras que
 
@@ -38,6 +38,6 @@ plot(cumsum(s - .5), type = "l")
 
 genera
 
-![](/wp-uploads/2020/06/random_walk_pocholo.png)
+![](/wp-uploads/2020/06/random_walk_pocholo.png#center)
 
 que tiene un cariz totalmente distinto.

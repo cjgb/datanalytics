@@ -14,7 +14,7 @@ tags:
 
 Este tipo de _programación_ se puso de moda en los noventa:
 
-![](/wp-uploads/2019/02/clementine.png)
+![](/wp-uploads/2019/02/clementine.png#center)
 
 Y yo decía: ¿dónde están mis bucles? ¿Y mis bifurcaciones?
 

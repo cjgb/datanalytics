@@ -71,8 +71,8 @@ ggplot(tmp, aes(x = incrementos, weights = pesos)) +
 
 para obtener
 
-[![seis_meses_despues](/wp-uploads/2014/02/seis_meses_despues.png)
-](/wp-uploads/2014/02/seis_meses_despues.png)
+[![seis_meses_despues](/wp-uploads/2014/02/seis_meses_despues.png#center)
+](/wp-uploads/2014/02/seis_meses_despues.png#center)
 
 Como puede apreciarse y si la historia es tan maestra como cuentan, es más probable que en seis meses la se encuentre por encima que por debajo de las actuales cotizaciones.
 

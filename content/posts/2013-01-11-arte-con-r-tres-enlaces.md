@@ -17,8 +17,8 @@ Traigo hoy a mi bitácora tres enlaces sobre la creación de _artefactos_ gráfi
 
 En el [primero](http://rpubs.com/kohske/R-de-illusion) (¡en japonés!) puede uno aprender a construir cosas como
 
-[![](/wp-uploads/2013/01/artefacto_01.png)
-](/wp-uploads/2013/01/artefacto_01.png)
+[![](/wp-uploads/2013/01/artefacto_01.png#center)
+](/wp-uploads/2013/01/artefacto_01.png#center)
 
 El [segundo](http://lamages.blogspot.com.es/2012/07/bridget-riley-exhibition-in-london.html) reproduce con R la siguiente obra de [Bridget Riley](http://www.tate.org.uk/art/artists/bridget-riley-1845):
 
@@ -27,5 +27,5 @@ El [segundo](http://lamages.blogspot.com.es/2012/07/bridget-riley-exhibition-in-
 
 Y el [tercero](http://r-de-jeu.blogspot.ch/2012/07/optical-art-with-r.html) es una elaboración sobre el anterior que permite generar gráficos tales como
 
-[![](/wp-uploads/2013/01/artefacto_03.png)
-](/wp-uploads/2013/01/artefacto_03.png)
+[![](/wp-uploads/2013/01/artefacto_03.png#center)
+](/wp-uploads/2013/01/artefacto_03.png#center)

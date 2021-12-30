@@ -16,8 +16,8 @@ No es lo más importante del mundo. Pero considero una descortesía de un tabula
 
 Por ejemplo, en el último [Informe Trimestral de la CMT](http://cmtdata.cmt.es/cmtdata/jsp/inf_trim.jsp) uno encuentra la información así:
 
-[![](/wp-uploads/2013/07/informe_cmt.png)
-](/wp-uploads/2013/07/informe_cmt.png)
+[![](/wp-uploads/2013/07/informe_cmt.png#center)
+](/wp-uploads/2013/07/informe_cmt.png#center)
 
 No es terrible, pero la información que más a mano aparece es la menos interesante, la del 2005. Para ver el último dato hay que desplazarse (i.e., _hacer scroll_) hasta el fondo a la derecha.
 

@@ -17,7 +17,7 @@ tags:
 
 Hace un par de días hablé de [la falacia del fiscal y granos de arroz](https://www.datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/). La entrada iba acompañada de
 
-![](/wp-uploads/2018/09/tiger_isnt.png)
+![](/wp-uploads/2018/09/tiger_isnt.png#center)
 
 y la lección era: es raro no encontrar ningún _clúster_ cuando se tiran al azar granos de arroz sobre una superficie. De lo que se derivaban más cosas que es ocioso repetir aquí.
 

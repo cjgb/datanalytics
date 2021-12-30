@@ -15,13 +15,13 @@ tags:
 
 [Esto](http://tex.stackexchange.com/questions/74878/create-xkcd-style-diagram-in-tex) fue un reto en toda regla: un _megafriqui_ publicó código en LaTeX para reproducir en dicho entorno gráficos como los que aparecen en [`xkcd.com`](http://xkcd.com/), es decir, del tipo de
 
-[![](/wp-uploads/2012/10/grafico_xkcd.png)
-](/wp-uploads/2012/10/grafico_xkcd.png)
+[![](/wp-uploads/2012/10/grafico_xkcd.png#center)
+](/wp-uploads/2012/10/grafico_xkcd.png#center)
 
 con el siguiente resultado:
 
-[![](/wp-uploads/2012/10/grafico_xkcd_latex.png)
-](/wp-uploads/2012/10/grafico_xkcd_latex.png)
+[![](/wp-uploads/2012/10/grafico_xkcd_latex.png#center)
+](/wp-uploads/2012/10/grafico_xkcd_latex.png#center)
 
 La respuesta por parte de la comunidad de usuarios de R, obviamente, no podía demorarse. Y es
 

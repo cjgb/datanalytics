@@ -43,7 +43,7 @@ ggplot(deuda.madrid, aes(x = fecha, y = deuda / 1e3)) + geom_line() +
 
 he construido
 
-![deuda_bruta_madrid](/wp-uploads/2016/06/deuda_bruta_madrid.png)
+![deuda_bruta_madrid](/wp-uploads/2016/06/deuda_bruta_madrid.png#center)
 
 
 y con
@@ -71,10 +71,10 @@ ggplot(incr.deuda.madrid, aes(x = fecha, y = deuda)) + geom_line(alpha = 0.6) +
 
 ,
 
-![deuda_ayto_madrid_incr](/wp-uploads/2016/06/deuda_ayto_madrid_incr.png)
+![deuda_ayto_madrid_incr](/wp-uploads/2016/06/deuda_ayto_madrid_incr.png#center)
 
 y
 
-![deuda_ayto_madrid_incr_trim](/wp-uploads/2016/06/deuda_ayto_madrid_incr_trim.png)
+![deuda_ayto_madrid_incr_trim](/wp-uploads/2016/06/deuda_ayto_madrid_incr_trim.png#center)
 
 Afortunadamente, no tengo que editorializar porque no sabría qué decir. Solo, si acaso, lo que no decir si uno quiere creerse sano de apofenia: que ha habido grandes y sustanciales cambios dentro del cuadrante gris.

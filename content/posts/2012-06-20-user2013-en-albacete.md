@@ -16,8 +16,8 @@ Aunque la noticia ya se sabe desde hace algunos días (y de hecho, la conocía d
 
 Los interesados pueden consultar la [página del congreso](http://www3.uclm.es/congresos/useR-2013/) o seguir su [cuenta en Twitter](https://twitter.com/#!/useR_2013).
 
-[![](/wp-uploads/2012/06/user2013.png)
-](/wp-uploads/2012/06/user2013.png)
+[![](/wp-uploads/2012/06/user2013.png#center)
+](/wp-uploads/2012/06/user2013.png#center)
 
 Quiero, por un lado agradecer a quienes han hecho posible que esto suceda y muy particularmente a Virgilio Gómez Rubio, a Emilio López Cano —que son, de entre ellos, los que conozco personalmente— su trabajo y desearles mucho éxito.
 

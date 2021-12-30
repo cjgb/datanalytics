@@ -29,7 +29,7 @@ Más:
 
 Veamos a dónde nos lleva esto:
 
-![laplace_verosimilitud](/wp-uploads/2016/09/laplace_verosimilitud.png)
+![laplace_verosimilitud](/wp-uploads/2016/09/laplace_verosimilitud.png#center)
 
 ¡Esa es la función de verosimilitud!
 

@@ -21,7 +21,7 @@ Y qué decir de México: eso anda de narcocorrido para arriba. En Egipto, aunque
 
 Me he entretenido en representar gráficamente algunos [datos de la ONU referentes a homicidios y asesinatos](http://www.unodc.org/unodc/en/data-and-analysis/homicide.html) (relativos a los años 2003-2008) y he aquí la figura resultante:
 
-![](/wp-uploads/2011/03/asesinatos_por_pais1.png)
+![](/wp-uploads/2011/03/asesinatos_por_pais1.png#center)
 
 A pesar de los errores que puedan esconder estos datos para algunos países (véanse a tal respecto las notas que aparecen en la fuente) espero que sirvan para desmontar algunos de esos mitos que los noticieros inyectan en nuestro subconsciente.
 

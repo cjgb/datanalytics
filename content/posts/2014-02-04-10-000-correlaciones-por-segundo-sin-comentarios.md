@@ -14,12 +14,12 @@ tags:
 
 Fijaros con lo que he tropezado:
 
-[![10kcorrelations](/wp-uploads/2014/02/10kcorrelations.png)
-](/wp-uploads/2014/02/10kcorrelations.png)
+[![10kcorrelations](/wp-uploads/2014/02/10kcorrelations.png#center)
+](/wp-uploads/2014/02/10kcorrelations.png#center)
 
 ¿Cómo funciona el invento? ¡Es capaz de calcular 10.000 correlaciones por segundo!
 
-[![10kcorrelations02](/wp-uploads/2014/02/10kcorrelations02.png)
-](/wp-uploads/2014/02/10kcorrelations02.png)
+[![10kcorrelations02](/wp-uploads/2014/02/10kcorrelations02.png#center)
+](/wp-uploads/2014/02/10kcorrelations02.png#center)
 
 Estos _servicios_ pueden contratarse [aquí](http://www.butlerscientifics.com/). Me abstengo de realizar comentarios.

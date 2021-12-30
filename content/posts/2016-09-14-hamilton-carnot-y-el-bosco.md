@@ -15,11 +15,11 @@ tags:
 
 Por culpa de una nevera que no enfriaba como era debido, veinte años después, estoy repasando mi termodinámica: entropía, ciclo de Carnot, etc.
 
-![ciclo_carnot](/wp-uploads/2016/09/ciclo_carnot.png)
+![ciclo_carnot](/wp-uploads/2016/09/ciclo_carnot.png#center)
 
 Por culpa de [Stan](http://mc-stan.org/) estoy repasando mi mecánica hamiltoniana.
 
-![hamiltonian_montecarlo](/wp-uploads/2016/09/hamiltonian_montecarlo.png)
+![hamiltonian_montecarlo](/wp-uploads/2016/09/hamiltonian_montecarlo.png#center)
 
 Y lo estoy disfrutando muchísimo.
 

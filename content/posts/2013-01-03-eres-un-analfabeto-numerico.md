@@ -17,7 +17,7 @@ Si quieres comparar tu nivel de alfabetización numérica con una muestra de per
 
 Se lo llama Berlin Numeracy Test y está descrito en este [artículo](http://journal.sjdm.org/11/11808/jdm11808.pdf). Y de él extraigo una tabla, la cinco,
 
-[![](/wp-uploads/2013/01/berlin_numeracy_test.png)
-](/wp-uploads/2013/01/berlin_numeracy_test.png)
+[![](/wp-uploads/2013/01/berlin_numeracy_test.png#center)
+](/wp-uploads/2013/01/berlin_numeracy_test.png#center)
 
 en la que aparecen los resultados del test en función de la combinación de país e idioma y ordenados por el  porcentaje de respuestas en los cuartiles superiores. Y no me llena ni de orgullo ni de satisfacción, la verdad sea dicha.

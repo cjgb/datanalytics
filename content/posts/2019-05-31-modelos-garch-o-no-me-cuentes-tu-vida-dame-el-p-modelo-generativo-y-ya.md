@@ -50,6 +50,6 @@ plot(sigma, type = "l", main = "sigma",
 {{< / highlight >}}
 
 
-![](/wp-uploads/2019/05/garch.R.png)
+![](/wp-uploads/2019/05/garch.R.png#center)
 
 

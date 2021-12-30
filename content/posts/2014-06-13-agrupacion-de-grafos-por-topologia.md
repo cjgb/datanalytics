@@ -50,7 +50,7 @@ plot(complex.subgraphs, vertex.label=NA,
 
 El resultado es algo así como
 
-[![topologia_correos](/wp-uploads/2014/06/topologia_correos.png)
-](/wp-uploads/2014/06/topologia_correos.png)
+[![topologia_correos](/wp-uploads/2014/06/topologia_correos.png#center)
+](/wp-uploads/2014/06/topologia_correos.png#center)
 
 donde se aprecian usuarios con muchas cuentas de correo, cuentas de correo compartidas por muchos usuarios y otras configuraciones de potencial interés para la Guardia Civil.

@@ -15,8 +15,8 @@ tags:
 Noticia fresca, recién salida del horno: [RStudio](http://www.rstudio.org/) [acaba de salir a la luz](http://blog.rstudio.org/). Se trata de un nuevo editor multiplataforma y de código abierto de R .
 
 
-[![](/wp-uploads/2011/03/rstudio-ubuntu.png)
-](/wp-uploads/2011/03/rstudio-ubuntu.png)
+[![](/wp-uploads/2011/03/rstudio-ubuntu.png#center)
+](/wp-uploads/2011/03/rstudio-ubuntu.png#center)
 
 
 

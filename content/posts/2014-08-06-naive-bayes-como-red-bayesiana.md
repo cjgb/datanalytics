@@ -18,15 +18,15 @@ Una red bayesiana es [algo de lo que ya hablé](http://www.datanalytics.com/2013
 
 Que, a su vez, es algo parecido a
 
-[![Directed_acyclic_graph](/wp-uploads/2014/08/Directed_acyclic_graph.png)
-](/wp-uploads/2014/08/Directed_acyclic_graph.png)
+[![Directed_acyclic_graph](/wp-uploads/2014/08/Directed_acyclic_graph.png#center)
+](/wp-uploads/2014/08/Directed_acyclic_graph.png#center)
 
 que es un grafo (obviamente), dirigido (tiene flechas) y acíclico porque siguiéndolas no se llega nunca al punto de partida. Se puede construir modelos probabilísticos sobre ellos. Basta con definir para cada nodo $latex x$ la probabilidad condicional $latex P(x|A(x))$, donde $latex A(x)$ son sus padres directos. Con estas probabilidades condicionales (y un poco de esfuerzo) se puede construir la función de probabilidad completa, $latex P(x_1, \dots, x_n)$.
 
 Los que no sepáis que es eso del [naive Bayes](http://es.wikipedia.org/wiki/Clasificador_bayesiano_ingenuo) estáis de enhorabuena porque os lo voy a contar: es una red bayesiana que tiene esta pinta:
 
-[![naive_bayes](/wp-uploads/2014/08/naive_bayes.png)
-](/wp-uploads/2014/08/naive_bayes.png)
+[![naive_bayes](/wp-uploads/2014/08/naive_bayes.png#center)
+](/wp-uploads/2014/08/naive_bayes.png#center)
 
 Pensad en $latex y$ como en la variable que indica si un mensaje es _spam_ o no y en $latex x_i$ como en un indicador de si el mensaje contiene alguna palabra clave (p.e., viagra). El hecho de que un mensaje sea o no _spam_ modifica la probabilidad de ocurrencia de dichas palabras. $latex P(x_i | y)$, valor que puede estimarse a partir de una muestra de mensajes.
 

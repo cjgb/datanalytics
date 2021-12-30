@@ -14,11 +14,11 @@ tags:
 
 El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en china que llegaron a tener un número importante de casos,
 
-![](/wp-uploads/2020/03/cases_china.png)
+![](/wp-uploads/2020/03/cases_china.png#center)
 
 pero donde ya no quedan casos activos:
 
-![](/wp-uploads/2020/03/active_china.png)
+![](/wp-uploads/2020/03/active_china.png#center)
 
 El otro es el escenario RU: el virus va a seguir entre nosotros y todos, en algún momento u otro vamos a pasar por él (o, más propiamente, a la inversa). En cuyo caso:
 

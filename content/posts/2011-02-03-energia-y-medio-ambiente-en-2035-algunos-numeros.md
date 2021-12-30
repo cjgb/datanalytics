@@ -31,15 +31,15 @@ Visto de otra manera: si el mundo contratase una hipoteca por valor de 18.000 mi
 El gráfico siguiente ilustra el esfuerzo que habría de realizarse, especialmente en lo que concierne al la intensidad de generación de CO2 en la generación de electricidad.
 
 
-[![](/wp-uploads/2011/02/esfuerzo_escenario_450.png)
-](/wp-uploads/2011/02/esfuerzo_escenario_450.png)
+[![](/wp-uploads/2011/02/esfuerzo_escenario_450.png#center)
+](/wp-uploads/2011/02/esfuerzo_escenario_450.png#center)
 
 
 Pero existen en el documento otros gráficos que tener en cuenta: el impacto económico de las subvenciones al precio de los productos energéticos por parte de diversos países. Los más importantes están reflejados en el siguiente gráfico:
 
 
-[![](/wp-uploads/2011/02/subvenciones_energia.png)
-](/wp-uploads/2011/02/subvenciones_energia.png)
+[![](/wp-uploads/2011/02/subvenciones_energia.png#center)
+](/wp-uploads/2011/02/subvenciones_energia.png#center)
 
 
 Las subvenciones de productos energéticos tienen dos efectos perversos (aunque alguien podría tal vez enumerar alguno positivo):

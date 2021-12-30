@@ -41,6 +41,6 @@ biplot(corresp(tabla, nf = 2))
 
 genero
 
-![partidos_cadenas](/wp-uploads/2016/05/partidos_cadenas.png)
+![partidos_cadenas](/wp-uploads/2016/05/partidos_cadenas.png#center)
 
 que a lo mejor no resulta demasiado interesante si no añado que las columnas se refieren a partidos políticos y las filas a cadenas en las que, [según el CIS](http://www.cis.es/cis/export/sites/default/-Archivos/Marginales/3120_3139/3126/cru3126votog2015.html), sus votantes prefieren para seguir la actualidad política. Eso sabido, ¿cuál es cuál?

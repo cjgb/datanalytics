@@ -14,8 +14,8 @@ tags:
 
 Hace años, al comienzo de los tiempos de la [Comunidad R Hispano](http://r-es.org/), se propusieron ciertos logos y se votó el actual,
 
-[![logo_comunidad_r_hispano](/wp-uploads/2015/12/logo_comunidad_r_hispano.png)
-](/wp-uploads/2015/12/logo_comunidad_r_hispano.png)
+[![logo_comunidad_r_hispano](/wp-uploads/2015/12/logo_comunidad_r_hispano.png#center)
+](/wp-uploads/2015/12/logo_comunidad_r_hispano.png#center)
 
 que tiene su gracia pero, también, dos inconvenientes graves:
 

@@ -42,8 +42,8 @@ plot(B - A, add = TRUE, col= "green", lty = 4)
 
 En el código anterior he creado dos números _fuzzy_ trapezoidales. Luego los he restado y la salida es otro número trapezoidal. La representación gráfica de los tres es (con la diferencia en verde):
 
-[![fuzzy_difference](/wp-uploads/2014/01/fuzzy_difference.png)
-](/wp-uploads/2014/01/fuzzy_difference.png)
+[![fuzzy_difference](/wp-uploads/2014/01/fuzzy_difference.png#center)
+](/wp-uploads/2014/01/fuzzy_difference.png#center)
 
 Lo cual, si se me permite, es una chapuza. No sé de dónde ha salido esa teoría _fuzzy_ y si quienes tuvieron la desvergüenza de ponerla en negro sobre blanco habían oído hablar del concepto de distribución de probabilidad. Malo es reinventar la rueda, pero peor es reinventarla cuadrada, ¿no? En particular:
 

@@ -19,7 +19,7 @@ Me han pedido (vía Twitter) que desarrolle cosas que tengo por ahí desperdigad
 
 **¿Algunos ejemplos del uso de distancias en _ciencia de datos_?** P.e., al aplicar técnicas de _clústering_, en los (muy habitualmente infraestimados) _k-vecinos_. Aunque también en lugares insospechados (corolarios del principio enunciado en el párrafo anterior) tales como [este](https://medium.com/responsibleml/whats-new-in-dalex-and-dalextra-a75e5cebff0e), donde para medir la bondad de, explicar y entender una predicción (construida con cualquier tipo de modelo), sugieren crear gráficos tales como
 
-![Image for post](https://miro.medium.com/max/3600/1*nuIA9zWQHEy_IzvK_VTm-Q.png)
+![Image for post](https://miro.medium.com/max/3600/1*nuIA9zWQHEy_IzvK_VTm-Q.png#center)
 
 donde se compara de cierta manera (que no ha lugar desarrollar aquí) la observación de interés con _sus 50 vecinos_.
 

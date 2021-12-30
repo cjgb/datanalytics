@@ -13,8 +13,8 @@ tags:
 
 Esta de hoy es una entrada muy _friqui_ que se sirve de la casi excusa de que [los creadores](http://databricks.com/) de [Apache Spark](https://spark.apache.org/) [han ganado](http://databricks.com/blog/2014/11/05/spark-officially-sets-a-new-record-in-large-scale-sorting.html) la [competición Gray Sort](http://sortbenchmark.org/) de 2014 para recomendar a sus lectores a estar alerta a las novedades que llegan.
 
-[![spark-logo](/wp-uploads/2014/11/spark-logo.png)
-](/wp-uploads/2014/11/spark-logo.png)
+[![spark-logo](/wp-uploads/2014/11/spark-logo.png#center)
+](/wp-uploads/2014/11/spark-logo.png#center)
 
 Todavía colea el siglo XX y todavía pagan dinero por cosas que algún día consideraremos tan entrañables como el [ZX Spectrum](http://en.wikipedia.org/wiki/ZX_Spectrum) de 48kB tales como:
 

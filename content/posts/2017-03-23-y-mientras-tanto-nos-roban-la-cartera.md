@@ -26,7 +26,7 @@ Mientras tanto, la mano es más rápida que el ojo, el ojo es más lento que la 
 
 Con este viejo truco:
 
-![](/wp-uploads/2017/03/predicciones_autopista_aragon.png)
+![](/wp-uploads/2017/03/predicciones_autopista_aragon.png#center)
 
 
 El [resto de la noticia](https://www.heraldo.es/noticias/aragon/2017/03/20/la-justicia-alarga-negociacion-para-evitar-liquidacion-autopista-autonomica-1165294-300.html) es lo de siempre: que urge [una autopista](https://es.wikipedia.org/wiki/ARA-A1), que construyamos unas _predicciones_ de tráfico, que redactemos unos pliegos autoleoninos, etc.

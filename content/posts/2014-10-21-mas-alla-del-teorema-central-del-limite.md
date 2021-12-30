@@ -17,8 +17,8 @@ Uno espera la media de un número suficiente de variables aleatorias razonableme
 
 Pero a veces uno tropieza con distribuciones _bootstrap_ tales como
 
-[![whentheoutlierisbigenough](/wp-uploads/2014/10/whentheoutlierisbigenough.png)
-](/wp-uploads/2014/10/whentheoutlierisbigenough.png)
+[![whentheoutlierisbigenough](/wp-uploads/2014/10/whentheoutlierisbigenough.png#center)
+](/wp-uploads/2014/10/whentheoutlierisbigenough.png#center)
 
 que le hacen recordar que existe un universo más allá de las hipótesis de esos teoremas tan manidos; que la teoría, al final, solo llega hasta donde llega y que, en definitiva, hay que estar siempre alerta y desconfiar del rituales y automatismos.
 

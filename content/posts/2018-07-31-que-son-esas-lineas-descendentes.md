@@ -12,6 +12,6 @@ tags:
 - oecd
 ---
 
-![](/wp-uploads/2018/07/impuesto_sociedades_oecd.png)
+![](/wp-uploads/2018/07/impuesto_sociedades_oecd.png#center)
 
 Pues son los [tipos del impuesto de sociedades de los países de la OECD](https://stats.oecd.org/index.aspx?DataSetCode=Table_II1#). Más info sobre la pendiente [aquí](https://www.washingtonpost.com/business/2018/07/24/across-globe-taxes-corporations-plummet).

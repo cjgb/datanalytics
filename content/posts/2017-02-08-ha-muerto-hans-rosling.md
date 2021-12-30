@@ -13,5 +13,5 @@ tags:
 - rosling
 ---
 
-![](/wp-uploads/2017/02/black-ribbon.png)
+![](/wp-uploads/2017/02/black-ribbon.png#center)
 

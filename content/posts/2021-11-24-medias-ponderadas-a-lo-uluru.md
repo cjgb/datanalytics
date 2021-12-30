@@ -18,7 +18,7 @@ Dicen que el brote de inflación que estamos viviendo es atípico (y [según alg
 
 Trae The Economist en su número del 6 de noviembre (de 2021) un artículo al respecto que tiene cierto interés estadístico. Comienza comparando la inflación de ahora con la de otros años donde el incremento de los precios fue, de acuerdo con cómo se computa tradicionalmente la inflación, _igual_, a través de la distribución de los incrementos de precios sobre las distintas categorías:
 
-![](/wp-uploads/2021/11/image-1.png)
+![](/wp-uploads/2021/11/image-1.png#center)
 
 En gris aparecen los incrementos de precios de las distintas categorías de productos en 1984 (¡gran año!) ordenadas de menor a mayor y sobre ella se muestran, en rojo, las de 2021. Se aprecia cómo la subida de precios de 1984 fue más sistemática, a través de toda la distribución, mientras que la de 2021 se concentra más en la cola de la derecha (o más propiamente, en una serie de productos anómalos).
 
@@ -26,7 +26,7 @@ La pregunta que se formula The Economist para el caso concreto de la inflación 
 
 Los gráficos con los que The Economist acompaña la discusión subsiguiente deberían ser rescatados para muchos manuales introductorios. Comienza con cómo se calcula actualmente la inflación _por antonomasia_:
 
-![](/wp-uploads/2021/11/image-2.png)
+![](/wp-uploads/2021/11/image-2.png#center)
 
 En ella, las distintas categorías de productos están distribuidas sobre el eje horizontal de menor (amarillo) a mayor (rojo) incrementos de precios. El eje vertical indica el peso que tienen en el índice global.
 
@@ -34,19 +34,19 @@ _[Nota: realmente, se usa una doble ponderación: existe una previa que consiste
 
 Luego, muestra cómo se calcula la llamada inflación _subyacente_:
 
-![](/wp-uploads/2021/11/image-3.png)
+![](/wp-uploads/2021/11/image-3.png#center)
 
 Es lo mismo, solo que el peso de algunas categorías de productos ha sido reducido a cero. (No vamos a entrar aquí en los motivos: está más que bien explicado en muchas otras partes.)
 
 La novedad consiste en usar medias recortadas, como se ve que ha propuesto algún organismo. En concreto, asignando pesos de la siguiente manera:
 
-![](/wp-uploads/2021/11/image-4.png)
+![](/wp-uploads/2021/11/image-4.png#center)
 
 Es decir, no sacando del índice ciertas categorías preestablecidas de productos sino precisamente aquellas que están en la cola de la distribución, sean ellas las que sean en cada periodo.
 
 Finalmente, la propuesta de The Economist consiste en usar _pesos Uluru_, es decir,
 
-![](/wp-uploads/2021/11/image-5.png)
+![](/wp-uploads/2021/11/image-5.png#center)
 
 que es una versión suave de lo anterior con la que la publicación hace sus pinitos en el mundo de la estadística robusta con una propuesta de lo más colorida.
 

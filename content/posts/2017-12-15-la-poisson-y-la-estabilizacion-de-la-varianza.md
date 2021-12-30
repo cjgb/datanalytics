@@ -27,7 +27,7 @@ res <- sapply(lambdas,
 
 para obtener
 
-![](/wp-uploads/2017/12/estabilizacion_varianza_poisson.png)
+![](/wp-uploads/2017/12/estabilizacion_varianza_poisson.png#center)
 
 y averiguar dónde funciona y dónde no.
 
@@ -39,7 +39,7 @@ res <- sapply(lambdas, function(lambda) sd((rpois(1e5, lambda)^(2/3))))
 
 obtendrás
 
-![](/wp-uploads/2017/12/estabilizacion_varianza_poisson_alt.png)
+![](/wp-uploads/2017/12/estabilizacion_varianza_poisson_alt.png#center)
 
 y te preguntarás mucho: ¡por qué, por qué, por qué!
 

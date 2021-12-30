@@ -25,8 +25,8 @@ Al gobierno de E se le ocurre lo siguiente: pagar un subsidio de 180 euros el pr
 * pagar 180 euros de subsidio el primer mes
 * reducir mensualmente la cuantía del subsidio en 20 euros
 
-[![](/wp-uploads/2012/02/subsidio_decreciente.png)
-](/wp-uploads/2012/02/subsidio_decreciente.png)
+[![](/wp-uploads/2012/02/subsidio_decreciente.png#center)
+](/wp-uploads/2012/02/subsidio_decreciente.png#center)
 
 En esta nueva situación:
 

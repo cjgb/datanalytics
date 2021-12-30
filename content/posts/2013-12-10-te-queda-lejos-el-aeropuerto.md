@@ -18,8 +18,8 @@ tags:
 
 He construido el mapa
 
-[![](/wp-uploads/2013/12/distancias_aropuertos.png)
-](/wp-uploads/2013/12/distancias_aropuertos.png)
+[![](/wp-uploads/2013/12/distancias_aropuertos.png#center)
+](/wp-uploads/2013/12/distancias_aropuertos.png#center)
 
 porque, a pesar de sus innegables deméritos gráficos, como la profusión de topos rojigualdas, pudiera resultar de interés. No tanto por lo que representa, la distancia de los puntos de la península Ibérica a una lista obsoleta de aeropuertos (en la que no consta, p.e., el de Logroño), sino por el procedimiento que tal vez alguien pueda en su día reaprovechar para un mejor fin.
 

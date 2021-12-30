@@ -31,7 +31,7 @@ A diferencia de otros años, no voy a repasar el contenido de las jornadas siste
 
 Y en eso han consistido las jornadas. Esencialmente, sí, pero no en su totalidad. De hecho, para mí, lo más valioso de las jornadas sucede fuera de ellas: en los pasillos, en la cafetería, en las cenas —y no sé si en los desayunos, que a esos nunca he llegado—. De las charlas informales con los colegas, del _y por qué no pruebas..._, del _en qué andas_, etc. he visto nacer proyectos, productos, paquetes y —esto vale el doble porque [lo escribe un tipo como yo](http://www.datanalytics.com/2014/07/02/hacer-amigos-vs-reponer-amigos-vs-reemplazar-amigos/)— amistades.
 
-[![BeerWare_Logo.svg](/wp-uploads/2014/10/BeerWare_Logo.svg_.png)
-](/wp-uploads/2014/10/BeerWare_Logo.svg_.png)
+[![BeerWare_Logo.svg](/wp-uploads/2014/10/BeerWare_Logo.svg_.png#center)
+](/wp-uploads/2014/10/BeerWare_Logo.svg_.png#center)
 
 Y termino con una nota de tipo más personal. Estoy pensando muy seriamente cambiar la licencia de mis paquetes por una de tipo [_beerware_](http://en.wikipedia.org/wiki/Beerware). Así que el año que viene, en Salamanca, igual...

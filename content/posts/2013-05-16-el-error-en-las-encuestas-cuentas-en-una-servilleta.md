@@ -55,8 +55,8 @@ probs <- probs / sum(probs)
 
 calcula `probs`, el vector de probabilidades correspondiente a la distribución a posteriori de $latex \theta$ sobre `0:N`, que tiene la siguiente pinta:
 
-[![](/wp-uploads/2013/05/distr_posteriori_encuesta.png)
-](/wp-uploads/2013/05/distr_posteriori_encuesta.png)
+[![](/wp-uploads/2013/05/distr_posteriori_encuesta.png#center)
+](/wp-uploads/2013/05/distr_posteriori_encuesta.png#center)
 
 Haciendo
 

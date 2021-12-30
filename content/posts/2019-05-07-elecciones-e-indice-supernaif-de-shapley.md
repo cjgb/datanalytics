@@ -21,7 +21,7 @@ tags:
 
 Aprovechando que el paquete [`GameTheoryAllocation`](https://cran.r-project.org/package=GameTheoryAllocation) ha emergido de mi FIFO de pendientes a los pocos días de conocerse los resultados de las [adjetivo superlativizado omitidísimo] elecciones generales, voy a calcular de la manera más naíf que se me ocurre el [índice de Shapley](https://en.wikipedia.org/wiki/Shapley_value) de los distintos partidos. Que es:
 
-![](/wp-uploads/2019/05/indice_shapley.png)
+![](/wp-uploads/2019/05/indice_shapley.png#center)
 
 Al  menos, de acuerdo con el siguiente código:
 

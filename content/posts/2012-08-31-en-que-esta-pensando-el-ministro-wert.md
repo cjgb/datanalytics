@@ -22,8 +22,8 @@ De entre todos ellos, destaco el ahora relevantísimo [_La sociedad civil ante e
 
 Identifica por el camino cuatro grupos de ciudadanos usando métodos de _clústering_ que etiqueta así: cumplidores responsables, liberales descreídos, estatistas e indiferentes descreídos.
 
-[![](/wp-uploads/2012/08/wert_impuestos.png)
-](/wp-uploads/2012/08/wert_impuestos.png)
+[![](/wp-uploads/2012/08/wert_impuestos.png#center)
+](/wp-uploads/2012/08/wert_impuestos.png#center)
 
 En la sección final de conclusiones identifica las siguientes _tendencias de opinión_:
 

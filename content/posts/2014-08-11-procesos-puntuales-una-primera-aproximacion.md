@@ -16,8 +16,8 @@ tags:
 
 Tengo una serie de datos que se parecen a lo que cierta gente llama procesos puntuales y que se parecen a los que se introducen (muuuuy prolijamente) [aquí](http://books.google.ch/books/about/Point_Process_Theory_and_Applications.html?id=mTgEAL7vtwoC). Gráficamente, tienen este aspecto:
 
-[![proceso_puntual](/wp-uploads/2014/08/proceso_puntual1.png)
-](/wp-uploads/2014/08/proceso_puntual1.png)
+[![proceso_puntual](/wp-uploads/2014/08/proceso_puntual1.png#center)
+](/wp-uploads/2014/08/proceso_puntual1.png#center)
 
 Sobre un determinado periodo de tiempo (eje horizontal) suceden eventos y los cuento por fecha. Pero no suceden independientemente (como si generados por un proceso de Poisson) sino que tienden a agruparse: el que suceda un evento tiende a incrementar la probabilidad de que suceda otro poco después. El proceso, en una mala traducción, se _autoexcita_.
 

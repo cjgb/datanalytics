@@ -90,7 +90,7 @@ Estas columnas parecen construirse sintéticamente a partir de las respuestas (q
 plot(dat[, c("WEALTH", "CULTPOSS", "HEDRES", "ESCS", "HOMEPOS")])
 {{< / highlight >}}
 
-![](/wp-uploads/2016/12/correlacion_variables_pisa.png)
+![](/wp-uploads/2016/12/correlacion_variables_pisa.png#center)
 
 Voy a centrarme en las resultados de matemáticas porque yo lo valgo:
 
@@ -102,7 +102,7 @@ dotchart(sort(tapply(dat$target, dat$CCAA, mean)))
 
 El gráfico resultante es desconcertante:
 
-![](/wp-uploads/2016/12/matematicas_pisa_2015_ccaa.png)
+![](/wp-uploads/2016/12/matematicas_pisa_2015_ccaa.png#center)
 
 Fundamentalmente, porque aunque los valores están en línea con los publicados en la prensa (p.e., [aquí](http://elpais.com/elpais/2016/12/05/media/1480958752_164797.html)) no coinciden con ellos cabalmente. O el resultado por alumno se calcula de otra manera, o el promedio por región tiene ajustes adicionales (seguro que sí: de ahí el paquete `intsvy`) que no contemplo, o existe algún tipo de factor de elevación que he omitido. Lo segundo que más me preocupa, en todo caso y para mis fines, es haberme equivocado en la manera de calcular el promedio por alumno; lo que más de todo, arrastrar en mi posible error a mis lectores, a los que advierto que avancen con cautela.
 
@@ -114,7 +114,7 @@ boxplot(dat$target ~ dat$PUBPRIV)
 
 i.e.,
 
-![](/wp-uploads/2016/12/pisa_2015_math_public_private.png)
+![](/wp-uploads/2016/12/pisa_2015_math_public_private.png#center)
 
 que [tanto irritan](https://www.datanalytics.com/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/) a los defensores de ese tipo de educación de [rectores copipaste](http://nadaesgratis.es/fernandez-villaverde/el-rector-y-los-plagios-mas-novedades).
 
@@ -177,14 +177,14 @@ dotplot(ranef(modelo, condVar = TRUE))
 
 dibuja, primero,
 
-![](/wp-uploads/2016/12/pisa_2015_pubpriv_ranef.png)
+![](/wp-uploads/2016/12/pisa_2015_pubpriv_ranef.png#center)
 
 
 donde se ve cómo la diferencia entre _los dos modelos educativos_ son más estrechos de lo que parecen sin controlar por el resto de los factores. El efecto es, cualitativamente, el que se detecta también [aquí](http://www.eldiario.es/piedrasdepapel/brecha-centros-publicos-privados-PISA_6_588001207.html) (aunque véase [esto](https://www.datanalytics.com/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/)) en términos del tamaño del efecto aunque da la sensación de que en mi caso las diferencias son menos significativas estadísticamente incluso. ¿Me acabarán invitando a colaborar en eldiario.es?
 
 Y también dibuja otra cosa mucho más, como dicen los modernos, dramática:
 
-![](/wp-uploads/2016/12/pisa_2015_math_ccaa_ranef.png)
+![](/wp-uploads/2016/12/pisa_2015_math_ccaa_ranef.png#center)
 
 
 Se trata del efecto de la comunidad autónoma. Aparentemente, muy por encima, se parece a la gráfica anterior, pero se aprecian dos efectos singulares. El primero, que el País Vasco cae a niveles del [_african dummy_](https://pierreenglebert.files.wordpress.com/2013/12/dummy.pdf). Y la segunda, (corred a contárselo a vuestros amigos de Podemos: veréis cómo les brilla el colmillo), que Madrid se derrumba.

@@ -23,7 +23,7 @@ Hoy voy a contar un ejemplo de cómo puede fallar tal estrategia.
 
 Por un lado he bajado datos de la [distribución de renta en España](https://www.ine.es/jaxiT3/Datos.htm?t=24992#!tabs-tabla) del INE:
 
-![](/wp-uploads/2020/06/distribucion_renta_2018.png)
+![](/wp-uploads/2020/06/distribucion_renta_2018.png#center)
 
 Por otro, me he dejado convencer temporalmente de que la [distribución de Burr ](https://en.wikipedia.org/wiki/Burr_distribution)podría ser conveniente para modelar la distribución de ingresos de los hogares (Wikipedia dixit!).
 

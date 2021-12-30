@@ -18,8 +18,8 @@ Aunque en un contexto un tanto exótico (la remodelación del currículo estadí
 
 Denuncia (alrededor de minuto 28) esa pereza intelectual que nos lleva a confundir _describir_ (unos datos) con _inferir_ (propiedades de la población que pueden deducirse de ellos). De ahí que se esfuerce en hacer que cuando alguien vea unos datos así
 
-[![](/wp-uploads/2011/08/box-only.png)
-](/wp-uploads/2011/08/box-only.png)
+[![](/wp-uploads/2011/08/box-only.png#center)
+](/wp-uploads/2011/08/box-only.png#center)
 
 en realidad, en su mente, esté viendo esto otro
 

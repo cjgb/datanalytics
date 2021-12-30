@@ -16,8 +16,8 @@ tags:
 
 Las _frecuencias naturales_ se utilizan como alternativa a los porcentajes para expresar probabilidades en lugar de, por ejemplo, porcentajes.
 
-[![frecuencias_naturales](/wp-uploads/2015/05/frecuencias_naturales.png)
-](/wp-uploads/2015/05/frecuencias_naturales.png)
+[![frecuencias_naturales](/wp-uploads/2015/05/frecuencias_naturales.png#center)
+](/wp-uploads/2015/05/frecuencias_naturales.png#center)
 
 El gráfico anterior está extraído de [este documento](http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000001633/01_chapter1.pdf?hosts=) en el que sus autores argumentan que transmite más eficazmente la idea de probabilidad que los porcentajes desnudos tan habituales.
 

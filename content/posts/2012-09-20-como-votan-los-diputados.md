@@ -122,8 +122,8 @@ cor.plot( mat.sort(cor.votos))
 
 la matriz de correlaciones entre los sentidos de los votos de los distintos diputados,
 
-[![](/wp-uploads/2012/09/correlacion_diputados.png)
-](/wp-uploads/2012/09/correlacion_diputados.png)
+[![](/wp-uploads/2012/09/correlacion_diputados.png#center)
+](/wp-uploads/2012/09/correlacion_diputados.png#center)
 
 en la que se aprecian claramente dos bloques diferenciados. Me llama la atención, en cualquier caso, la falta de tonos encarnados, muestra de pertinaz desacuerdo, en la figura. De hecho, la correlación más negativa, -0.45; la pareja de diputados tan desencontrados es la formada por [Celia Alberto Pérez](http://www.politicas-pi.com/el-congreso/celia-alberto-perez/) (PP) y [Joan Baldoví](http://es.wikipedia.org/wiki/Joan_Baldov%C3%AD), de un partido raro cuyo perfil leeré en la Wikipedia cuando encuentre un ratillo.
 
@@ -135,8 +135,8 @@ heatmap(matriz.votos, xlab = "Asuntos", ylab = "Diputados", scale = "none")
 
 que genera
 
-[![](/wp-uploads/2012/09/diputados_asuntos1.png)
-](/wp-uploads/2012/09/diputados_asuntos1.png)
+[![](/wp-uploads/2012/09/diputados_asuntos1.png#center)
+](/wp-uploads/2012/09/diputados_asuntos1.png#center)
 
 y que reordena diputados por un lado y asuntos por el otro para mostrar de qué manera _inciden_ los unos sobre los otros. Se aprecian bastante claramente los dos grandes grupos políticos y, para mi sorpresa, un par de bloques de asuntos relativamente amplios en los que votaron de acuerdo.
 

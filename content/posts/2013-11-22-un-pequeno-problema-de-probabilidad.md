@@ -16,8 +16,8 @@ tags:
 
 El _tuit_
 
-[![](/wp-uploads/2013/11/john_allen_paulos_e.png)
-](/wp-uploads/2013/11/john_allen_paulos_e.png)
+[![](/wp-uploads/2013/11/john_allen_paulos_e.png#center)
+](/wp-uploads/2013/11/john_allen_paulos_e.png#center)
 
 de John Allen Paulos me indujo a escribir
 

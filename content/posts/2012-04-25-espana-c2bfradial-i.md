@@ -71,8 +71,8 @@ plot.grafo(grafo, nodos)	# pequeño caos
 
 El resultado es este pequeño caos:
 
-[![](/wp-uploads/2012/04/mapa_grafo_completo.png)
-](/wp-uploads/2012/04/mapa_grafo_completo.png)
+[![](/wp-uploads/2012/04/mapa_grafo_completo.png#center)
+](/wp-uploads/2012/04/mapa_grafo_completo.png#center)
 
 Por simplificar, eliminé todas las _autovías_ que unían capitales de provincia cuando pudiera encontrar una ruta alternativa cuya longitud no excediese a la original por un factor de 1.2 haciendo
 
@@ -91,8 +91,8 @@ plot.grafo(g2, nodos)
 
 para obtener
 
-[![](/wp-uploads/2012/04/mapa_simplificado.png)
-](/wp-uploads/2012/04/mapa_simplificado.png)
+[![](/wp-uploads/2012/04/mapa_simplificado.png#center)
+](/wp-uploads/2012/04/mapa_simplificado.png#center)
 
 Finalmente, simulé trayectos entre provincias con este criterio: una persona viaja de A a B con una probabilidad directamente proporcional al producto de las poblaciones de dichas provincias e inversamente proporcional a la distancia (en línea recta) entre ellas. La regla del producto de la población de las provincias es compatible con una muestra aleatoria de parejas de personas sobre la población total modificada en segunda instancia por la distancia entre ellas. Así que haciendo
 
@@ -118,8 +118,8 @@ plot.grafo(g2, nodos, col = col)
 
 obtuve
 
-[![](/wp-uploads/2012/04/mapa_radial_00.png)
-](/wp-uploads/2012/04/mapa_radial_00.png)
+[![](/wp-uploads/2012/04/mapa_radial_00.png#center)
+](/wp-uploads/2012/04/mapa_radial_00.png#center)
 
 En este mapa sólo se han representado la mitad de los tramos de mayor importancia (de acuerdo con el criterio arriba especificado) y en el resto se ha modulado la intensidad en función también de ese criterio.
 
@@ -139,7 +139,7 @@ En este mapa sólo se han representado la mitad de los tramos de mayor importanc
 
 El resultado da preeminencia a Madrid y otras capitales de su entorno:
 
-[![](/wp-uploads/2012/04/centralidad_provincias.png)
-](/wp-uploads/2012/04/centralidad_provincias.png)
+[![](/wp-uploads/2012/04/centralidad_provincias.png#center)
+](/wp-uploads/2012/04/centralidad_provincias.png#center)
 
 La cuestión es: ¿está Madrid en el centro a causa de su población? ¿Es esta población de Madrid grande entre otras cosas, gracias a la estructura radial de las comunicaciones? En una nueva entrega sobre este asunto volveré a analizar el problema con hipótesis de partida distintas.

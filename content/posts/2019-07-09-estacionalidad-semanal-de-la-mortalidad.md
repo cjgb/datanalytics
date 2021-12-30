@@ -16,11 +16,11 @@ tags:
 
 Continúo con [esto](https://www.datanalytics.com/2019/07/04/mortalidad-y-domingos/).
 
-![](/wp-uploads/2019/07/mortalidad_nacional-1024x683.png)
+![](/wp-uploads/2019/07/mortalidad_nacional-1024x683.png#center)
 
 (El pico de primeros de agosto corresponde a la ola de calor).
 
-![](/wp-uploads/2019/07/mortalidad_madrid-1024x683.png)
+![](/wp-uploads/2019/07/mortalidad_madrid-1024x683.png#center)
 
 Resumen:
 

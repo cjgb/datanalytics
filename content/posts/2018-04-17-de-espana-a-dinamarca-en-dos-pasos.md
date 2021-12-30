@@ -18,7 +18,7 @@ tags:
 
 De acuerdo con [Eurostat](http://ec.europa.eu/eurostat/statistics-explained/index.php/Tax_revenue_statistics), el IRPF recauda en España aproximadamente el 7.5% del PIB nacional; en Dinamarca, como el 25%. Los [tipos impositivos en Dinamarca](https://home.kpmg.com/xx/en/home/insights/2011/12/Denmark-income-tax.html),
 
-![](/wp-uploads/2018/04/impuestos_dinamarca.png)
+![](/wp-uploads/2018/04/impuestos_dinamarca.png#center)
 
 son más altos que los españoles, pero tampoco puede decirse que estén desaforadamente por encima.
 

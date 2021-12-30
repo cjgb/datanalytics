@@ -52,8 +52,8 @@ Es curioso además constatar cómo declina entre 2003 y 2009 el número de activ
 El número de títulos publicados en España ha crecido durante la última década como se aprecia en el gráfico adjunto. Supongo que a la vista del bajón de 2004, todavía es temprano para decidir si el de 2009 se debe a la crisis, a una emigración masiva de musas, o a la competencia de los [próvidos _piratas_](http://www.ebookee.com).
 
 
-[![](/wp-uploads/2011/01/numero_titulos_publicados_espanna.png)
-](/wp-uploads/2011/01/numero_titulos_publicados_espanna.png)
+[![](/wp-uploads/2011/01/numero_titulos_publicados_espanna.png#center)
+](/wp-uploads/2011/01/numero_titulos_publicados_espanna.png#center)
 
 En resumen, parece que no vamos a quedarnos sin cultura. La gente ha cantado, actuado, compuesto y escrito con y sin imprenta, con y sin discos de vinilo, con y sin deuvedés, con y sin P2P. Y da la impresión de que seguirá haciéndolo. Ése no es el problema y los datos del INE, por mucho que peroren los ramoncines, son tozudos como una mula maña.
 

@@ -22,7 +22,7 @@ Representando datos, una animación es un gráfico en el que unas facetas (en te
 
 extraído de [aquí](https://twitter.com/cocteautriplets/status/986394792329465857?s=03) y que representa la evolución del tamaño (superficie) de los coches _habituales_ a lo largo del último siglo. Lo mismo pero evitando el indeseado efecto:
 
-![](/wp-uploads/2019/01/Rplot.png)
+![](/wp-uploads/2019/01/Rplot.png#center)
 
 El código:
 

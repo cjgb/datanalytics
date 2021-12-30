@@ -33,6 +33,6 @@ Con lo cual, reitero, sólo se puede acceder a él _desde dentro_. Pero yo estoy
 
 y a continuación configuro Firefox para que utilice un _proxy_ SOCKS a través de `localhost:2001`, para lo cual recorro `preferences`, `advanced`,`network`, `connection` y, finalmente, `settings` para dejar la configuración así:
 
-![socks_proxy](/wp-uploads/2016/03/socks_proxy.png)
+![socks_proxy](/wp-uploads/2016/03/socks_proxy.png#center)
 
 Entonces, en Firefox apunto a `http://localhost:8787/` y aparezco mágicamente en mi sesión remota de R (además de que navego por el resto de las páginas a través de mi servidor, lo cual no sé si es bueno o malo).

@@ -19,8 +19,8 @@ Al autor de estas páginas se le cae la baba con las _infografías_ del [New Yor
 Pero hoy [se me ha caído el alma a los pies](http://www.elpais.com/graficos/internacional/Gasto/militar/internacional/elpepuint/20110411elpepuint_1/Ges/). Fijáos, fijáos lectores:
 
 
-[![](/wp-uploads/2011/04/el_pais_gasto_militar_1.png)
-](/wp-uploads/2011/04/el_pais_gasto_militar_1.png)
+[![](/wp-uploads/2011/04/el_pais_gasto_militar_1.png#center)
+](/wp-uploads/2011/04/el_pais_gasto_militar_1.png#center)
 
 
 
@@ -29,8 +29,8 @@ Pero hoy [se me ha caído el alma a los pies](http://www.elpais.com/graficos/int
 Y mirad ahora con atención la otra pestaña:
 
 
-[![](/wp-uploads/2011/04/el_pais_gasto_militar_2.png)
-](/wp-uploads/2011/04/el_pais_gasto_militar_2.png)
+[![](/wp-uploads/2011/04/el_pais_gasto_militar_2.png#center)
+](/wp-uploads/2011/04/el_pais_gasto_militar_2.png#center)
 
 
 

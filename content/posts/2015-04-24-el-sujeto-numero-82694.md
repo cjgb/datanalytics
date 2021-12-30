@@ -19,8 +19,8 @@ tags:
 
 ¿Más menos cuánto? Según el INE, el _error de muestreo relativo_, $latex \sqrt{V(\hat{\sigma}}$ a nivel nacional en términos porcentuales es
 
-[![error_relativo](/wp-uploads/2015/04/error_relativo.png)
-](/wp-uploads/2015/04/error_relativo.png)
+[![error_relativo](/wp-uploads/2015/04/error_relativo.png#center)
+](/wp-uploads/2015/04/error_relativo.png#center)
 
 Es decir, el intervalo de confianza para la cifra de parados tendría una anchura como de 100k sujetos. Obviamente, eso impide calcular variaciones de un orden de magnitud menor.
 

@@ -86,6 +86,6 @@ Y que, por otra parte, algunos de mis usuarios son contumaces y recorren y recor
 
 Finalmente, presento una gráfica del número de visitas según la posición (truncada en 10):
 
-[![](/wp-uploads/2013/01/visitas_por_posicion1.png)
-](/wp-uploads/2013/01/visitas_por_posicion1.png)
+[![](/wp-uploads/2013/01/visitas_por_posicion1.png#center)
+](/wp-uploads/2013/01/visitas_por_posicion1.png#center)
 

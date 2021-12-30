@@ -25,7 +25,7 @@ y que me ha interesado porque argumenta alrededor de la pregunta _del millón_,
 
 Para responder a esa pregunta y darnos garantías de que aquí (en España) y ahora (en 2020) no tendríamos que preocuparnos por los efectos perniciosos (en el sentido antes indicado) de una política de transferencia de rentas del tipo de la que plantean, citan _un estudio riguroso de Banerjee et al_ que _sugiere que[ no hay evidencia robusta](https://economics.mit.edu/files/12488) que sostenga que las transferencias desincentivan sistemáticamente la participación en el mercado de trabajo_. Pero el estudio se refiere a una serie de experimentos realizados en los países que aparecen el siguiente gráfico:
 
-![](/wp-uploads/2020/05/estudio_transferencia_renta.png)
+![](/wp-uploads/2020/05/estudio_transferencia_renta.png#center)
 
 ¿En serio piensan los autores que resultados obtenidos en Nicaragua o Indonesia son extrapolables a Vallecas? ¿En serio?
 

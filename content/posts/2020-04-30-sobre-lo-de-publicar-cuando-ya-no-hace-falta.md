@@ -19,4 +19,4 @@ El otro día escribí (véase también [esto](https://www.datanalytics.com/2020/
 
 Y mirad:
 
-![](/wp-uploads/2020/04/calendario_ine.png)
+![](/wp-uploads/2020/04/calendario_ine.png#center)

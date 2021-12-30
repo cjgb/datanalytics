@@ -32,7 +32,7 @@ hist(tms, breaks = 100, main = "Proceso homogéneo de Poisson",
 
 Es decir,
 
-![](/wp-uploads/2019/04/proceso_homogeneo.png)
+![](/wp-uploads/2019/04/proceso_homogeneo.png#center)
 
 o bien una distribución uniforme en el tiempo. Pero bien puede ocurrir que una visita incremente la probabilidad de otra inmediatamente después, por lo que las visitas tenderían a arracimarse en determinados momentos. Con el paquete `[IHSEP](https://cran.r-project.org/package=IHSEP)` de R pueden simularse (y ajustarse) este tipo de modelos. Por ejemplo,
 
@@ -46,7 +46,7 @@ main = "Proceso autoexcitado",
 
 proporciona
 
-![](/wp-uploads/2019/04/proceso_autoexcitado.png)
+![](/wp-uploads/2019/04/proceso_autoexcitado.png#center)
 
 que es más realista. La magia es obra de la función `g`, que incrementa la probabilidad de nuevos eventos después de que ocurra alguno, aunque la estela que dejan decae exponencialmente (por construcción).
 

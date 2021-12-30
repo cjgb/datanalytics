@@ -15,7 +15,7 @@ Supongo que muchos de los lectores de esta bitácora conocerán ya el enlace que
 
 Para acceder a las diapositivas, pínchese sobre la imagen siguiente:
 
-[![](/wp-uploads/2012/01/analytics_kdnuggets.png)
+[![](/wp-uploads/2012/01/analytics_kdnuggets.png#center)
 ](http://www.slideshare.net/gpiatetskyshapiro/analytics-and-data-mining-industry-overview)
 
 

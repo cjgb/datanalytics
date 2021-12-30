@@ -15,8 +15,8 @@ tags:
 
 Hoy, ni estadística, ni R, ni nada de lo que estilo. Me limitaré a mostrar un gráfico sobre la deuda y el apalancamiento en algunas _economías notables_ extraído del [último informe del FMI](http://www.imf.org/External/Pubs/FT/GFSR/2012/01/index.htm)
 
-[![](/wp-uploads/2012/05/indebtness_leverage_2012.png)
-](/wp-uploads/2012/05/indebtness_leverage_2012.png)
+[![](/wp-uploads/2012/05/indebtness_leverage_2012.png#center)
+](/wp-uploads/2012/05/indebtness_leverage_2012.png#center)
 
 Aun sin ser experto, se me antoja realizar algunos comentarios:
 

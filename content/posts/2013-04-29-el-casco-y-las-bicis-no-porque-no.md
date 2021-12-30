@@ -27,8 +27,8 @@ Sentado lo cual, entro en materia. Y es la del aburridor y artificial debate que
 
 En este caso, hablaré de la oposición —poco razonable, a mi parecer— de ciertas asociaciones de ciclistas, como la [Coordinadora ConBici](http://www.conbici.org/) con la que mantuve algún intercambio de _tuits_ recientemente.
 
-[![](/wp-uploads/2013/04/conbici.png)
-](/wp-uploads/2013/04/conbici.png)
+[![](/wp-uploads/2013/04/conbici.png#center)
+](/wp-uploads/2013/04/conbici.png#center)
 
 Aclaro que no es la discusión sobre si el casco debiera o no exigirse lo que trae este asunto a mis páginas sino un examen crítico de los argumentos técnicos y científicos esgrimidos por los antiloquesea. Aclaro también que estoy siempre dispuesto a cambiar de opinión en cualquier asunto cuando la evidencia científica y técnica me induce a ello. Pero me rebelo —y entonces vengo a estas páginas y escribo— cuando se me intenta dar gato por liebre.
 

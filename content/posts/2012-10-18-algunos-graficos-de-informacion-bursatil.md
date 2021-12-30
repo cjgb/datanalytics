@@ -47,8 +47,8 @@ chart.TimeSeries(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual d
 
 se obtiene entonces
 
-[![](/wp-uploads/2012/10/rentabilidad_TEF-300x245.png)
-](/wp-uploads/2012/10/rentabilidad_TEF.png)
+[![](/wp-uploads/2012/10/rentabilidad_TEF-300x245.png#center)
+](/wp-uploads/2012/10/rentabilidad_TEF.png#center)
 
 Alternativamente, también puede hacerse
 
@@ -58,8 +58,8 @@ chart.Bar(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
 
 para obtener
 
-[![](/wp-uploads/2012/10/rentabilidad_TEF_barras-300x245.png)
-](/wp-uploads/2012/10/rentabilidad_TEF_barras.png)
+[![](/wp-uploads/2012/10/rentabilidad_TEF_barras-300x245.png#center)
+](/wp-uploads/2012/10/rentabilidad_TEF_barras.png#center)
 
 La función `chart.CumReturns` con los parámetros que aparecen en
 
@@ -72,8 +72,8 @@ chart.CumReturns(
 
 representa el valor a lo largo del tiempo de un euro invertido al principio de la serie temporal, es decir, este ruinoso negocio:
 
-[![](/wp-uploads/2012/10/rentabilidad_1_euro_TEF-300x245.png)
-](/wp-uploads/2012/10/rentabilidad_1_euro_TEF.png)
+[![](/wp-uploads/2012/10/rentabilidad_1_euro_TEF-300x245.png#center)
+](/wp-uploads/2012/10/rentabilidad_1_euro_TEF.png#center)
 
 Finalmente, haciendo
 
@@ -101,8 +101,8 @@ par(mfrow = c(1, 1))
 
 se construye el gráfico
 
-[![](/wp-uploads/2012/10/analisis_normalidad-300x300.png)
-](/wp-uploads/2012/10/analisis_normalidad.png)
+[![](/wp-uploads/2012/10/analisis_normalidad-300x300.png#center)
+](/wp-uploads/2012/10/analisis_normalidad.png#center)
 
 que permite investigar, por ejemplo, si es o no sensato suponer que las rentabilidades mensuales siguen una ley normal.
 

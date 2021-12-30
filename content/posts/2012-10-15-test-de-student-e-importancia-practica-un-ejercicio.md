@@ -19,8 +19,8 @@ Así que voy a proponer a mis lectores un ejercicio (copiado de algún lugar que
 
 Se comparan entonces dos grupos de pacientes. A uno se le administra un nuevo medicamento y al otro un placebo. Luego se aplica el test de Student para comparar las concentraciones medias de ambos grupos. En la tabla siguiente se muestran seis posibles resultados:
 
-[![](/wp-uploads/2012/10/resultados_test_student.png)
-](/wp-uploads/2012/10/resultados_test_student.png)
+[![](/wp-uploads/2012/10/resultados_test_student.png#center)
+](/wp-uploads/2012/10/resultados_test_student.png#center)
 
 ¿Puede el lector identificar los casos en que
 

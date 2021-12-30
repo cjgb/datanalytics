@@ -31,9 +31,9 @@ n.pres <- 2
 temp.global <- rnorm(n)
 pres.global <- rnorm(n)
 
-temp <- 0.2 * matrix(rnorm(n*n.temp), n, n.temp) + 
+temp <- 0.2 * matrix(rnorm(n*n.temp), n, n.temp) +
     temp.global
-pres <- 0.2 * matrix(rnorm(n*n.pres), n, n.pres) + 
+pres <- 0.2 * matrix(rnorm(n*n.pres), n, n.pres) +
     pres.global
 
 dat <- cbind(temp, pres)
@@ -73,8 +73,8 @@ screeplot(dat.pca)
 {{< / highlight >}}
 
 
-[![screeplot_temp_pres](/wp-uploads/2014/04/screeplot_temp_pres.png)
-](/wp-uploads/2014/04/screeplot_temp_pres.png)
+[![screeplot_temp_pres](/wp-uploads/2014/04/screeplot_temp_pres.png#center)
+](/wp-uploads/2014/04/screeplot_temp_pres.png#center)
 
 Como puede verse haciendo
 

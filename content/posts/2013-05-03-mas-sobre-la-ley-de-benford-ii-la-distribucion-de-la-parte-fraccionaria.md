@@ -38,7 +38,7 @@ qqplot(x, runif(100000), main = "qqplot")
 
 que produce
 
-[![](/wp-uploads/2013/05/dist_parte_fraccionaria.png)
-](/wp-uploads/2013/05/dist_parte_fraccionaria.png)
+[![](/wp-uploads/2013/05/dist_parte_fraccionaria.png#center)
+](/wp-uploads/2013/05/dist_parte_fraccionaria.png#center)
 
 En la siguiente entrega analizaremos qué tiene que ver esto con la ley de Benford.

@@ -14,7 +14,7 @@ tags:
 
 Es el de `b`:
 
-![](/wp-uploads/2017/11/intervalo_confianza.png)
+![](/wp-uploads/2017/11/intervalo_confianza.png#center)
 
 (A ver cuál es el primero de mis excolegas que protesta que pinto la unión de dos intervalos de confianza y no un intervalo propiamente dicho).
 

@@ -28,17 +28,17 @@ Esta manera de cocinar no deja de ser una hipótesis en tanto que no tengamos me
 
 El consenso, tal como lo tiene calculado Susana, tiene este aspecto:
 
-![](/wp-uploads/2017/09/consenso_encuestas.png)
+![](/wp-uploads/2017/09/consenso_encuestas.png#center)
 
 El ajuste es un tanto menos regular que los que se encuentran publicados por ahí porque solo utilizan información previa. Los _splines_ y demás, usan ventanas que incluyen puntos del futuro incognoscibles hoy.
 
 El sesgo (me limito al del PP aquí) por medio puede estimarse mediante una regresión lineal (donde la variable dependiente es la diferencia entre el valor publicado y el consenso y la independiente el medio) y no sorprenderá a nadie:
 
-![](/wp-uploads/2017/09/sesgo_encuestas.png)
+![](/wp-uploads/2017/09/sesgo_encuestas.png#center)
 
 Algunas de las predicciones obtenidas a toro pasado tienen esta pinta:
 
-![](/wp-uploads/2017/09/predicciones_encuestas.png)
+![](/wp-uploads/2017/09/predicciones_encuestas.png#center)
 
 Que no está mal del todo, aunque son las que dormirán en una estantería. Las más interesantes deberían ser las que debieran dar continuidad a este trabajo: una aplicación _web_ que anuncie los resultados que publicarían _mañana_ los distintos medios.
 

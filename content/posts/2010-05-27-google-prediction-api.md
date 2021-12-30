@@ -16,7 +16,7 @@ Tantas cosas que escribir en este blog, tantas cosas que leer y probar, tan herm
 A la lista de las cosas que probar y sobre las que aprender sumo hoy una que sólo acrecienta la admiración que siento por esa empresa que tan poco se parece a otras. Se resume gráficamente en:
 
 
-[](http://code.google.com/apis/predict/images/french.png)![Google Prediction API](http://code.google.com/apis/predict/images/french.png)
+[](http://code.google.com/apis/predict/images/french.png#center)![Google Prediction API](http://code.google.com/apis/predict/images/french.png#center)
 
 
 

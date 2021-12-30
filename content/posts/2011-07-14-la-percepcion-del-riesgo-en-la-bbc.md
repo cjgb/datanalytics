@@ -17,8 +17,8 @@ tags:
 
 La [percepción del riesgo](http://en.wikipedia.org/wiki/Risk_perception) es el juicio subjetivo que hacen las personas sobre la relevancia o _severidad_ de un riesgo. Esta percepción tiene una dimensión matemática por naturaleza y que tiene que ver con la habilidad del sujeto para manejarse con las cifras. Pero también tiene una dimensión no matemática: mucha gente, de hecho, reacciona de una manera que pudiera parecer incoherente con su visión racional de las probabilidades implicadas.
 
-[![](/wp-uploads/2011/07/bbc_risk_test.png)
-](/wp-uploads/2011/07/bbc_risk_test.png)
+[![](/wp-uploads/2011/07/bbc_risk_test.png#center)
+](/wp-uploads/2011/07/bbc_risk_test.png#center)
 
 Para comprender mejor este tipo de comportamiento, el [BBC Lab UK](http://www.bbc.co.uk/labuk/), junto con dos profesores de la Universidad de Cambridge, David Spiegelhalter y Mike Aitken, ha lanzado el [Big Risk Test](https://www.bbc.co.uk/labuk/experiments/risk/), un experimento para comprender mejor el fenómeno de la percepción del riesgo.
 

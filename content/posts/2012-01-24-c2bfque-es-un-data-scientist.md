@@ -15,8 +15,8 @@ Un _data scientist_ es un señor que sabe de varias cosas que no se enseñan ni 
 
 Extraigo de [dataists ](http://www.dataists.com/2010/09/the-data-science-venn-diagram/)el siguiente gráfico,
 
-[![](/wp-uploads/2012/01/Data_Science_VD.png)
-](/wp-uploads/2012/01/Data_Science_VD.png)
+[![](/wp-uploads/2012/01/Data_Science_VD.png#center)
+](/wp-uploads/2012/01/Data_Science_VD.png#center)
 
 que indica cuáles son los tres elementos técnicos —obviando los pertenecientes a otras dimensiones— fundamentales de los que se nutre una carrera como _científico de datos_.
 

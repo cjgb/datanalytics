@@ -14,6 +14,6 @@ tags:
 
 _Secuencias_ como
 
-![](/wp-uploads/2018/11/handwriting.png)
+![](/wp-uploads/2018/11/handwriting.png#center)
 
 pueden crearse con redes neuronales recurrentes como las que se describen en [_Generating Sequences With Recurrent Neural Networks_](https://arxiv.org/abs/1308.0850).

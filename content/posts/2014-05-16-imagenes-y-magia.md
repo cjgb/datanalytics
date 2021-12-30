@@ -18,7 +18,7 @@ No sé si imagen y magia comparten la misma raíz. Lo que me consta es que la ge
 
 Traigo aquí un ejemplo sobre técnicas para completar imágenes:
 
-[![image_reconstruction](/wp-uploads/2014/05/image_reconstruction.png)
-](/wp-uploads/2014/05/image_reconstruction.png)
+[![image_reconstruction](/wp-uploads/2014/05/image_reconstruction.png#center)
+](/wp-uploads/2014/05/image_reconstruction.png#center)
 
 El artículo completo, _Scene Completion Using Millions of Photographs_, y mucho material auxiliar puede revisarse [aquí](http://graphics.cs.cmu.edu/projects/scene-completion/).

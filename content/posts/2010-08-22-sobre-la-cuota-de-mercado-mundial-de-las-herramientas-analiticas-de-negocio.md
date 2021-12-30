@@ -20,8 +20,8 @@ Hace poco, [IDC](http://www.idc.com/) —una empresa que hace estudios de mercad
 
 
 
-[![](/wp-uploads/2010/08/cuota_mercado_data_mining_tools.png)
-](/wp-uploads/2010/08/cuota_mercado_data_mining_tools.png)
+[![](/wp-uploads/2010/08/cuota_mercado_data_mining_tools.png#center)
+](/wp-uploads/2010/08/cuota_mercado_data_mining_tools.png#center)
 
 
 

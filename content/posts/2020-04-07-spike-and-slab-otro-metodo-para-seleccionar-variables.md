@@ -24,10 +24,10 @@ Otra de las técnicas disponibles es la del _spike and slab_ (de la que oí habl
 
 En concreto, algo parecido a
 
-![](/wp-uploads/2020/04/Spike-and-slab-prior.png)
+![](/wp-uploads/2020/04/Spike-and-slab-prior.png#center)
 
 cuando a, b y $latex \delta$ tienden a lo que deben. El parámetro $latex \gamma$ (o más concretamente, su distribución a posteriori) determina la probabilidad de que el coeficiente sea 0. Aunque hoy en día se prefiera usar una mezcla de dos normales centradas en cero,
 
-![](/wp-uploads/2020/04/spike_slab.png)
+![](/wp-uploads/2020/04/spike_slab.png#center)
 
 La teoría de la cosa puede aprenderse en artículos como [este](http://www-stat.wharton.upenn.edu/~edgeorge/Research_papers/GeorgeMcCulloch97.pdf) (más antiguo, más accesible) o [este](https://arxiv.org/pdf/math/0505633.pdf) (más moderno, menos fácil de seguir) y la práctica, por doquier en R (p.e., [aquí](https://cran.r-project.org/web/packages/spikeslab/index.html)).

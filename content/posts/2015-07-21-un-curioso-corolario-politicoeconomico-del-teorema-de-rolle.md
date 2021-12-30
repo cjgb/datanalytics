@@ -13,8 +13,8 @@ tags:
 
 El [teorema de Rolle](https://en.wikipedia.org/wiki/Rolle%27s_theorem), que está en el programa de cálculo o análisis matemático de primero de cualquier carrera, dice que una función real $latex f$, continua, derivable y tal que $latex f(a) = f(b)$ tiene o un máximo o un mínimo en el intervalo $latex [a,b]$. La Wikipedia lo ilustra con el siguiente gráfico:
 
-[![teorema_rolle](/wp-uploads/2015/07/teorema_rolle.png)
-](/wp-uploads/2015/07/teorema_rolle.png)
+[![teorema_rolle](/wp-uploads/2015/07/teorema_rolle.png#center)
+](/wp-uploads/2015/07/teorema_rolle.png#center)
 
 Supongo que no será muy díficil de probar este corolario suyo (y creo recordar que fue un ejercicio o problema de examen de aquella época mía de estudiante): una función real $latex f$, continua, derivable y tal que $latex f(a) = f(b)$ y $latex f^\prime(x) < 0$ en la proximidad de $latex b$ tiene un máximo absoluto en el intervalo $latex (a,b)$.
 

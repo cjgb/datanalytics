@@ -17,7 +17,7 @@ tags:
 
 Inspirado por [esto](http://enelmargen.org/datascience/un-voting-patterns/) he generado
 
-![votos_onu](/wp-uploads/2016/09/votos_onu.png)
+![votos_onu](/wp-uploads/2016/09/votos_onu.png#center)
 
 usando
 

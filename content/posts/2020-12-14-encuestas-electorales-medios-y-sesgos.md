@@ -21,7 +21,7 @@ Me he entretenido estos días en crear un modelo que represente la siguiente hip
 
 Es un modelo en el que se introduce (y se mide) el sesgo que introduce cada  _casa_ en los resultados. De momento (¡no fiarse!, léase lo que viene después) he obtenido cosas como estas (para el PP):
 
-![](/wp-uploads/2020/12/sesgos_pp.png)
+![](/wp-uploads/2020/12/sesgos_pp.png#center)
 
 (El gráfico anterior muestra la evolución del sesgo aparente en las propensiones de voto al PP de los medios que más encuestas electorales han publicado en los últimos tiempos acompañado de su correspondiente intervalo de credibilidad del 50%.)
 

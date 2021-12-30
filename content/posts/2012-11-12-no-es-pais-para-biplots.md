@@ -29,8 +29,8 @@ En el curso aparecieron sugerencias tales como [esta](http://www.flickr.com/phot
 
 A mí se me ocurrió que los datos que aparecen en el gráfico original podía, con alguna salvedad y abusando del lenguaje, considerarse una especie de [tabla de contingencia](http://es.wikipedia.org/wiki/Tabla_de_contingencia) que incluía el número de personas que en cada país hacen uso de distintos tipos de servicios de internet. Y que entonces podría utilizar herramientas gráficas, tales como los _[biplots](http://en.wikipedia.org/wiki/Biplot)_ para visualizar los datos. El resultado fue
 
-[![](/wp-uploads/2012/11/internet_usage-300x300.png)
-](/wp-uploads/2012/11/internet_usage.png)
+[![](/wp-uploads/2012/11/internet_usage-300x300.png#center)
+](/wp-uploads/2012/11/internet_usage.png#center)
 
 que, aunque jamás vaya a hacerme merecedor de premio alguno a la mejor composición gráfica, tiene ciertos méritos que advertirá quien lo estudie con detalle. Por un lado, agrupa los países por similitudes de uso (véan, por ejemplo, cómo hace patente que los países asiáticos tienen comportamientos similares). Por otro, que hay actividades de internet que tienden a realizarse juntas (como subir fotos y vídeos a determinados servicios). Y también cómo mantener perfiles en redes sociales viene a ser, en general, una actividad que se realiza en detrimento de escribir en una bitácora.
 

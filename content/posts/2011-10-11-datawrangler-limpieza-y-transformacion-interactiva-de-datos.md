@@ -16,8 +16,8 @@ tags:
 
 Quiero dar a conocer hoy una alternativa a [Google Refine](http://www.datanalytics.com/2011/06/28/google-refine-para-analizar-estudiar-y-limpiar-los-datos/) de la que he tenido noticia no hace mucho: [DataWrangler](http://vis.stanford.edu/wrangler/).
 
-[![](/wp-uploads/2011/10/datawrangler.png)
-](/wp-uploads/2011/10/datawrangler.png)
+[![](/wp-uploads/2011/10/datawrangler.png#center)
+](/wp-uploads/2011/10/datawrangler.png#center)
 
 Se trata de una herramienta concebida para acelerar el proceso de manipulación de datos para crear tablas que exportar luego a Excel, R, etc.
 

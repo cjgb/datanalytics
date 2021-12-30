@@ -20,7 +20,7 @@ Cayeron en mis manos unos datos que no puedo publicar, pero me atreveré a prese
 
 La manera más rápida de comenzar, un `heatmap(cor(dat))`, para obtener
 
-![](/wp-uploads/2018/01/heatmap.png)
+![](/wp-uploads/2018/01/heatmap.png#center)
 
 Y luego PCA y todas esas cosas.
 
@@ -51,7 +51,7 @@ qgraph(modelo$pairwise$wadj,
 
 para obtener
 
-![](/wp-uploads/2018/01/mgm.png)
+![](/wp-uploads/2018/01/mgm.png#center)
 
 que podrá ser muchas cosas (algunas que aún desconozco) pero que nunca dejará de ser la mar de _molón_.
 

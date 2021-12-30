@@ -25,8 +25,8 @@ Y sí, en el último número que compré, me dio a entender que no lo habían de
 
 El ejemplo bien ilustra el efecto (pernicioso) de uno usar correctamente lo que en la nomenclatura de ggplot2 se llamarían escalas y facetas. Al partir una gráfica en varias facetas (o subgráficas) es fundamental mantener la homogeneidad de la escala para facilitar las comparaciones. El paquete ggplot2 lo hace automáticamente:
 
-[![](/wp-uploads/2011/09/crecimiento_pib.png)
-](/wp-uploads/2011/09/crecimiento_pib.png)
+[![](/wp-uploads/2011/09/crecimiento_pib.png#center)
+](/wp-uploads/2011/09/crecimiento_pib.png#center)
 
 Finalmente, el código utilizado:
 

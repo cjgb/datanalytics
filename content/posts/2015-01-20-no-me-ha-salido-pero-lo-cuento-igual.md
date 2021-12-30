@@ -86,8 +86,8 @@ boxplot(res, col = "gray")
 
 produce
 
-[![sim_simpson](/wp-uploads/2015/01/sim_simpson.png)
-](/wp-uploads/2015/01/sim_simpson.png)
+[![sim_simpson](/wp-uploads/2015/01/sim_simpson.png#center)
+](/wp-uploads/2015/01/sim_simpson.png#center)
 
 justo al contrario de lo esperado. ¡Carajo!
 

@@ -107,8 +107,8 @@ ggplot(tmp, aes(x=value)) +
 
 que genera
 
-[![posteriori_porteros_liga](/wp-uploads/2015/07/posteriori_porteros_liga.png)
-](/wp-uploads/2015/07/posteriori_porteros_liga.png)
+[![posteriori_porteros_liga](/wp-uploads/2015/07/posteriori_porteros_liga.png#center)
+](/wp-uploads/2015/07/posteriori_porteros_liga.png#center)
 
 y donde se ve el grado de solape entre las distintas distribuciones. Y otras cosas como, por ejemplo, las distribuciones de los porteros con menos tiros a puerta tienen mayor varianza.
 
@@ -133,8 +133,8 @@ levelplot(significativas)
 
 que genera
 
-[![diferencias_parejas_porteros](/wp-uploads/2015/07/diferencias_parejas_porteros.png)
-](/wp-uploads/2015/07/diferencias_parejas_porteros.png)
+[![diferencias_parejas_porteros](/wp-uploads/2015/07/diferencias_parejas_porteros.png#center)
+](/wp-uploads/2015/07/diferencias_parejas_porteros.png#center)
 
 y donde, de nuevo, apenas se encuentran diferencias significativas.
 
@@ -147,8 +147,8 @@ curve(foo, 0.3, 0.99)
 
 Es decir,
 
-[![beta_habilidad_general](/wp-uploads/2015/07/beta_habilidad_general.png)
-](/wp-uploads/2015/07/beta_habilidad_general.png)
+[![beta_habilidad_general](/wp-uploads/2015/07/beta_habilidad_general.png#center)
+](/wp-uploads/2015/07/beta_habilidad_general.png#center)
 
 (aunque, más propiamente, una familia de curvas similares a la anterior, porque los parámetros de esa beta tienen su propia distribución).
 

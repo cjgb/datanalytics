@@ -17,8 +17,8 @@ tags:
 
 Hoy he sabido vía Twitter lo siguiente:
 
-[![](/wp-uploads/2012/08/odds_ratio.png)
-](/wp-uploads/2012/08/odds_ratio.png)
+[![](/wp-uploads/2012/08/odds_ratio.png#center)
+](/wp-uploads/2012/08/odds_ratio.png#center)
 
 Como me ha intrigado el asunto de lo de la probabilidad, he acudido al [artículo original](http://www.nejm.org/doi/full/10.1056/NEJM199208133270705) donde he aprendido que (y, excúsenme: por primera vez no traduzco este tipo de citas):
 
@@ -32,8 +32,8 @@ donde $latex p_1$ y $latex p_2$ serían en este caso la probabilidad de suicidio
 
 La relación entre probabilidades y _odds ratios_ viene dada por el siguiente gráfico,
 
-[![](/wp-uploads/2012/08/odds_ratio_map.png)
-](/wp-uploads/2012/08/odds_ratio_map.png)
+[![](/wp-uploads/2012/08/odds_ratio_map.png#center)
+](/wp-uploads/2012/08/odds_ratio_map.png#center)
 
 también extraído de la Wikipedia, en el que se ve cómo las curvas _equiodsráticas_ comprenden parejas de probabilidades de muy diversa índole (**nota:** el gráfico muestra el logaritmo del _odds ratio_ y el logaritmo de 4,8 es alrededor de 1,5).
 

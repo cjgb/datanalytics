@@ -18,8 +18,8 @@ tags:
 
 Esto me pasa por madrugar en lunes. Me levanto y me tropiezo con noticias como esta:
 
-[![](/wp-uploads/2012/07/noticia_ine_ipc.png)
-](/wp-uploads/2012/07/noticia_ine_ipc.png)
+[![](/wp-uploads/2012/07/noticia_ine_ipc.png#center)
+](/wp-uploads/2012/07/noticia_ine_ipc.png#center)
 
 Ha sido reproducida en términos similares en otros medios. Es decir, incidiendo en la presunta causalidad de la subida del precio de los medicamentos en la subida del IPC de julio (el índice adelantado; el definitivo se conocerá a mediados de agosto). Sin embargo, la nota de prensa del INE, la única información con la que se cuenta a esta hora y que no incluye desgloses dice textualmente (aunque con mi subrayado):
 

@@ -49,7 +49,7 @@ ggplot(muertos, aes(x = year, y = muertos)) +
 
 Así construyo
 
-![](/wp-uploads/2018/01/serie_historica_muertos_carretera.png)
+![](/wp-uploads/2018/01/serie_historica_muertos_carretera.png#center)
 
 donde se aprecia:
 
@@ -67,7 +67,7 @@ plot(stl(tmp, s.window = "periodic", t.window = 25))
 
 Que pinta
 
-![](/wp-uploads/2018/01/descomp_serie_aditiva.png)
+![](/wp-uploads/2018/01/descomp_serie_aditiva.png#center)
 
 La tendencia obtenida refleja lo anteriormente discutido, aunque habría quien preferiría un modelo de estacionalidad multiplicativa y no aditiva a la vista de la serie. Haciéndoles caso,
 
@@ -81,7 +81,7 @@ plot(descomp)
 
 que da
 
-![](/wp-uploads/2018/01/descomp_escala_log.png)
+![](/wp-uploads/2018/01/descomp_escala_log.png#center)
 
 en la ininterpretable escala logarítmica, por lo que, en deferencia a las mentes lineales,
 
@@ -93,7 +93,7 @@ descomp <- stl(tmp, s.window = "periodic", t.window = 25)
 plot(descomp)
 {{< / highlight >}}
 
-![](/wp-uploads/2018/01/siniestralidad_tendencia_multiplicativa.png)
+![](/wp-uploads/2018/01/siniestralidad_tendencia_multiplicativa.png#center)
 
 que tiene la misma lectura que más arriba y, por completar la cosa,
 
@@ -103,7 +103,7 @@ plot(exp(descomp$time.series[1:12, 1]), type = "l",
         main = "Factores mensuales de siniestralidad")
 {{< / highlight >}}
 
-![](/wp-uploads/2018/01/siniestralidad_factores_mensuales.png)
+![](/wp-uploads/2018/01/siniestralidad_factores_mensuales.png#center)
 
 que nos dice cómo en agosto hay algo así como un 30% más de fallecidos y en febrero un 20% menos (con respecto a la media).
 
@@ -122,7 +122,7 @@ plot(vehiculos$year, vehiculos$vehiculos / 1e6,
         type = "l", xlab = "año", ylab = "millones de vehículos")
 {{< / highlight >}}
 
-![](/wp-uploads/2018/01/siniestralidad_numero_vehiculos.png)
+![](/wp-uploads/2018/01/siniestralidad_numero_vehiculos.png#center)
 
 Curiosamente, esta serie tiene un comportamiento _opuesto_ a la de la anterior: se estanca cuando aquella decrece, crece cuando aquella se estanca. Lo que nos invita a estudiar el ratio fallecidos por millón de vehículos:
 
@@ -139,7 +139,7 @@ y pintar la descomposición de la tasa (en escala logarítmica)
     plot(descomp)
 {{< / highlight >}}
 
-![](/wp-uploads/2018/01/siniestralidad_descomp_tasa.png)
+![](/wp-uploads/2018/01/siniestralidad_descomp_tasa.png#center)
 
 y su tendencia (en escala lineal)
 
@@ -149,6 +149,6 @@ y su tendencia (en escala lineal)
          main = "Tendencia histórica de los\nfallecidos en carretera\n(Muertos por millón de vehículos)")
 {{< / highlight >}}
 
-![](/wp-uploads/2018/01/sinistralidad_tendencia_ratio.png)
+![](/wp-uploads/2018/01/sinistralidad_tendencia_ratio.png#center)
 
 La interpretación de la serie histórica cambia sustancialmente, bien y malpensados quedan disminuidos en sus argumentos, el estancamiento de los últimos años sigue rigiendo y la prensa seguirá elevando a categoría de noticia lo que es puro ruido aleatorio. Sin duda.

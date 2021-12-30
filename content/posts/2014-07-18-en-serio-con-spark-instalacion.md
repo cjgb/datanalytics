@@ -41,5 +41,5 @@ print "Pi is roughly %f" % (4.0 * count / NUM_SAMPLES)
 
 Esta captura de `htop` lo dice todo:
 
-[![htop_spark](/wp-uploads/2014/07/htop_spark.png)
-](/wp-uploads/2014/07/htop_spark.png)
+[![htop_spark](/wp-uploads/2014/07/htop_spark.png#center)
+](/wp-uploads/2014/07/htop_spark.png#center)

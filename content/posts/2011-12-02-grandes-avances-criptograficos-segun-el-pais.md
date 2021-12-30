@@ -22,7 +22,7 @@ Aunque el artículo habla principalmente de la masonería, las normas, la histor
 
 Muy señora mía y articulista de El País: esa técnica para resolver lo que Vd. denomina _uno de los grandes retos de la criptografía_ viene ya descrita en una de mis lecturas juveniles, [Los Bailarines](http://es.wikipedia.org/wiki/Los_bailarines), un breve relato de las aventuras de Sherlock Holmes en el que el detective encuentra el significado oculto de mensajes con este aspecto:
 
-[![](/wp-uploads/2011/11/Dancing_men.png)
-](/wp-uploads/2011/11/Dancing_men.png)
+[![](/wp-uploads/2011/11/Dancing_men.png#center)
+](/wp-uploads/2011/11/Dancing_men.png#center)
 
 ¿No tienen a nadie en su redacción que escriba de matemáticas con más criterio? ¿No merecemos quienes hemos pagado dos euros largos por su edición dominical más respeto?

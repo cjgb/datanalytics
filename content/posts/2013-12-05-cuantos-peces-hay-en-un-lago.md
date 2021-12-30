@@ -45,8 +45,8 @@ abline(v = 4000, col = "red")
 
 Para obtener
 
-[![](/wp-uploads/2013/12/peces_en_el_lago.png)
-](/wp-uploads/2013/12/peces_en_el_lago.png)
+[![](/wp-uploads/2013/12/peces_en_el_lago.png#center)
+](/wp-uploads/2013/12/peces_en_el_lago.png#center)
 
 Por supuesto, en esos cursos que tomábamos, ese ejemplo servía para justificar la existencia sobre la faz de la tierra de la [distribución hipergeométrica](http://en.wikipedia.org/wiki/Hypergeometric_distribution). Lo que nunca nos contaron fue lo que se describe en _[The Body Counter](http://jointheclub.org/2012/04/the-body-counter/)_ y que resumo a continuación.
 

@@ -14,8 +14,8 @@ tags:
 
 Ayer leí el artículo [Las listas de espera se agravan](http://sociedad.elpais.com/sociedad/2012/10/27/actualidad/1351332873_157836.html) en El País que parece indicar indirectamente que la crisis tiene efectos beneficiosos para la salud.
 
-[![](/wp-uploads/2012/10/espera_pacientes.png)
-](/wp-uploads/2012/10/espera_pacientes.png)
+[![](/wp-uploads/2012/10/espera_pacientes.png#center)
+](/wp-uploads/2012/10/espera_pacientes.png#center)
 
 Leyendo el artículo uno se queda con la copla de que ha crecido tanto el tiempo medio de espera para los tratamientos médicos como el número de personas que los aguardan. Los números pueden verse en el gráfico anterior, extraído del artículo. Lo curioso es que las proporciones son desiguales.
 

@@ -19,12 +19,12 @@ Pero, ¿por qué no se etiquetan de igual manera las máquinas tragaperras? Un r
 
 Se ve que las probabilidades de obtener los distintos premios en Australia, según el autor, son
 
-[![](/wp-uploads/2012/05/tragaperras.png)
-](/wp-uploads/2012/05/tragaperras.png)
+[![](/wp-uploads/2012/05/tragaperras.png#center)
+](/wp-uploads/2012/05/tragaperras.png#center)
 
 por lo que, calculando el número de veces que es posible jugar en una hora, plantea el uso de etiquetas con información similar a la contenida en la siguiente tabla:
 
-[![](/wp-uploads/2012/05/etiqueta_tragaperras.png)
-](/wp-uploads/2012/05/etiqueta_tragaperras.png)
+[![](/wp-uploads/2012/05/etiqueta_tragaperras.png#center)
+](/wp-uploads/2012/05/etiqueta_tragaperras.png#center)
 
 Supongo que estos números conmoverían muy poco al ludópata mendicante de mi barrio. Pero convengo con el autor en que podrían ser útiles. Y quién sabe si contribuirían a la alfabetización numérica del país.

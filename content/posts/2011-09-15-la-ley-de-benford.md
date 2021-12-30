@@ -24,8 +24,8 @@ Y creo que le hice un disfavor. La página sobre la ley de Benford —y, especia
 
 La ley de Benford tiene que ver con la función de distribución de los valores de una lista de números. Generalmente, en la práctica, estos siguen distribuciones _de cola larga_: los ingresos de las personas, el tamaño de los municipios, la capitalización bursátil de las empresas, etc., tienen distribuciones similares a las de Weibull, exponencial, Pareto, etc.
 
-[![](/wp-uploads/2011/09/Long_tail.png)
-](/wp-uploads/2011/09/Long_tail.png)
+[![](/wp-uploads/2011/09/Long_tail.png#center)
+](/wp-uploads/2011/09/Long_tail.png#center)
 
 Siempre que la distribución tenga una forma similar a la de la gráfica (extraída de la Wikipedia) que aparece encima, el tramo [10, 20) será más probable que el [20,30) y este que el [30, 40). Lo mismo pasa con los tramos [100, 200) y [200,300). Etc. En resumen, hay ley de Benford porque la función de densidad es decreciente.
 

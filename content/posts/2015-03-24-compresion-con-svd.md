@@ -13,8 +13,8 @@ tags:
 - svd
 ---
 
-[![svd_greco](/wp-uploads/2015/03/svd_greco.png)
-](/wp-uploads/2015/03/svd_greco.png)
+[![svd_greco](/wp-uploads/2015/03/svd_greco.png#center)
+](/wp-uploads/2015/03/svd_greco.png#center)
 
 lo he creado con
 

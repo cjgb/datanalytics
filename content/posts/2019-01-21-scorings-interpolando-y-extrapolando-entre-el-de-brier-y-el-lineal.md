@@ -19,7 +19,7 @@ Una penalización de $latex (1-p)^\lambda$ (véanse las entradas enlazadas más 
 
 Modificando los valores de $latex \lambda$, se obtienen las curvas
 
-![](/wp-uploads/2019/01/scorings.png)
+![](/wp-uploads/2019/01/scorings.png#center)
 
 que muestran la relación entre las probabilidades reales (abscisas) y las que conviene manifestar al predictor. Solo en el caso en que $latex \lambda = 2$ la relación está dada por la curva $latex y = x$. Cuando $latex \lambda < 2$, al predictor le conviene exagerar y cuando $latex \lambda$ crece, ser conservador y quedarse próximo al 50%.
 

@@ -130,8 +130,8 @@ Ofrezco dos alternativas sustancialmente más sucintas en R. La primera es una r
 que corre en 2.46 segundos.
 
 
-[![](/wp-uploads/2011/09/bootstrap.png)
-](/wp-uploads/2011/09/bootstrap.png)
+[![](/wp-uploads/2011/09/bootstrap.png#center)
+](/wp-uploads/2011/09/bootstrap.png#center)
 
 
 El segundo utiliza el paquete `boot`,

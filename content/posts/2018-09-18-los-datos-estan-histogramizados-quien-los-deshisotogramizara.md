@@ -19,7 +19,7 @@ tags:
 
 Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dinamarca. Pero los [datos](http://www.skm.dk/english/facts-and-figures/progression-in-the-income-tax-system) estaban _histogramizados_:
 
-![](/wp-uploads/2018/09/datos_histogramizados.png)
+![](/wp-uploads/2018/09/datos_histogramizados.png#center)
 
 Gracias a [Freakonometrics](https://freakonometrics.hypotheses.org/18859) di con [`binequality`](https://cran.r-project.org/package=binequality). Adaptando su código, escribo
 
@@ -107,7 +107,7 @@ for(i in 1:(n-1))
 
 para obtener, entre otras cosas y sin mayores pretensiones gráficas,
 
-![](/wp-uploads/2018/09/distr_irfp_dk.png)
+![](/wp-uploads/2018/09/distr_irfp_dk.png#center)
 
 
 **Nota:** La distribución no ajusta bien, incluso después de un truco sucio en alguna parte del código para cargarme la parte más fea de la distrbución. Queda ahí no más como código de ejemplo.

@@ -63,7 +63,7 @@ Es decir, del orden de 60 veces menos. Es de reseñar que este tipo de algoritmo
 
 El resultado de ambas simulaciones puede apreciarse en el siguiente gráfico:
 
-[![](/wp-uploads/2012/03/simulations_output001.png)
-](/wp-uploads/2012/03/simulations_output001.png)
+[![](/wp-uploads/2012/03/simulations_output001.png#center)
+](/wp-uploads/2012/03/simulations_output001.png#center)
 
 Es cierto que en este ejemplo concreto, los números aleatorios podrían precalcularse en una única llamada a `rnorm` o `rgamma`, pero no he observado una ganancia sustancial de tiempos, que se pierden, fundamentalmene, en el código interpretado dentro del bucle.

@@ -27,8 +27,8 @@ Está de moda hablar de paro. Pero las discusiones al respecto adolecen de una s
 Interesa más pensar qué puede pasar en el futuro. Es complicado pero, aun así, hay fenómenos (como los demográficos) de una inercia ineluctable. Nuestros políticos, además, deberían estar pensando cuántos médicos, cuántos ingenieros, cuántos electricistas puede necesitar nuestra economía al cabo de los plazos multianuales que necesita la formación de nuevos profesionales. Para que no nos pase como en el pasado.
 
 Yo, _amateur_ en estos temas, voy a aventurar algunas proyecciones con un plazo de 10 o 20 años. En primer lugar, traigo a colación un [estudio de McKinsey sobre el _futuro del trabajo_](http://www.mckinsey.com/insights/mgi/research/labor_markets/future_of_work_in_advanced_economies):
-[![](/wp-uploads/2012/07/evolucion_mercado_trabajo.png)
-](/wp-uploads/2012/07/evolucion_mercado_trabajo.png)
+[![](/wp-uploads/2012/07/evolucion_mercado_trabajo.png#center)
+](/wp-uploads/2012/07/evolucion_mercado_trabajo.png#center)
 
 La tendencia es clara y existen motivos para pensar que seguirá en el tiempo: en las economías avanzadas descenderá la demanda de trabajadores poco cualificados y crecerá la de los cualificados. De hecho, los autores del estudio mencionan cómo
 
@@ -40,8 +40,8 @@ Existe otro estudio aún más amplio de McKinsey, [_The world at work: Jobs, pay
 
 Si damos por buena esta tendencia hacia la sofisticación del mercado laboral, el siguiente gráfico, extraído de los datos de la última EPA, como [los de una entrada anterior](http://www.datanalytics.com/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/), muestra cómo en unos años se le puede acabar dando la vuelta a [uno de los más manidos _axiomas_ relativos al mercado laboral](http://rpubs.com/joscani/esalarial):
 
-[![](/wp-uploads/2012/07/paro_hombres_mujeres.png)
-](/wp-uploads/2012/07/paro_hombres_mujeres.png)
+[![](/wp-uploads/2012/07/paro_hombres_mujeres.png#center)
+](/wp-uploads/2012/07/paro_hombres_mujeres.png#center)
 
 En él vuelvo a representar el porcentaje de parados (resaltado en verde) en función de
 

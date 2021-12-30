@@ -36,8 +36,8 @@ con otra que he elaborado yo con los mismos datos (solo que remontándome más a
 
 
 
-[![](/wp-uploads/2011/01/serie_historica.png)
-](/wp-uploads/2011/01/serie_historica.png)
+[![](/wp-uploads/2011/01/serie_historica.png#center)
+](/wp-uploads/2011/01/serie_historica.png#center)
 
 
 
@@ -58,8 +58,8 @@ Además, si se trata de analizar la evolución temporal del tamaño del crédito
 
 
 
-[![](/wp-uploads/2011/01/evolucion_porcentual1.png)
-](/wp-uploads/2011/01/evolucion_porcentual1.png)
+[![](/wp-uploads/2011/01/evolucion_porcentual1.png#center)
+](/wp-uploads/2011/01/evolucion_porcentual1.png#center)
 
 
 

@@ -14,7 +14,7 @@ tags:
 
 [No me lo invento](http://www.worldbackupday.com/es/).
 
-![](/wp-uploads/2017/03/juramento_copias_seguridad.png)
+![](/wp-uploads/2017/03/juramento_copias_seguridad.png#center)
 
 Dos personas que conozco han perdido todos sus datos del disco duro recientemente. Esas cosas pasan más frecuentemente de lo que parece.
 

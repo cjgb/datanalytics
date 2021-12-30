@@ -60,8 +60,8 @@ plot(flomarriage, vertex.cex=flomarriage %v% "wealth" / 20)
 
 para obtener (en la segunda sentencia) algo así como
 
-[![](/wp-uploads/2012/05/flomarriage.png)
-](/wp-uploads/2012/05/flomarriage.png)
+[![](/wp-uploads/2012/05/flomarriage.png#center)
+](/wp-uploads/2012/05/flomarriage.png#center)
 
 La parte interesante llega ahora: plantear un modelo que, por ejemplo, indique si las familias tienen propensión a enlazarse cuando la diferencia de riqueza entre ellas es grande. Por supuesto, controlando por el número de enlaces totales que hay en el modelo, que es el significado del térmimo `edges`:
 

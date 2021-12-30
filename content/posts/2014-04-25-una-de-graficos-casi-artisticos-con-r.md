@@ -18,7 +18,7 @@ Hoy traigo una selección a cuatro páginas en que podréis encontrar gráficos 
 
 En las dos siguientes, los autores construyen animaciones. Una de ellas para ilustrar el [mecanismo de la regresión local](http://simplystatistics.org/2014/02/13/loess-explained-in-a-gif/) y el segundo para crear [figuras en 3D](http://alstatr.blogspot.ch/2014/02/r-fun-with-surf3d-function.html).
 
-[![London](/wp-uploads/2014/04/London.png)
-](/wp-uploads/2014/04/London.png)
+[![London](/wp-uploads/2014/04/London.png#center)
+](/wp-uploads/2014/04/London.png#center)
 
 Y el último, trata [de mapas](http://flowingdata.com/2014/02/05/where-people-run/). En particular, de cómo sobreimponer sobre ellos datos de rutas.

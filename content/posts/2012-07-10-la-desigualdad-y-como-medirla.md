@@ -26,8 +26,8 @@ Y esto sucede porque los índices tradicionales y más usados de desigualdad no 
 
 Un artículo de F. Bourguignon, [_Decomposable Income Inequality Measures_](http://www.jstor.org/discover/10.2307/1914138?uid=3737952&uid=2&uid=4&sid=21100907325061) estudia unas cuantas de ellas y las clasifica en función de si cumplen una serie de criterios deseables:
 
-[![](/wp-uploads/2012/07/decomposable_inequality_measures.png)
-](/wp-uploads/2012/07/decomposable_inequality_measures.png)
+[![](/wp-uploads/2012/07/decomposable_inequality_measures.png#center)
+](/wp-uploads/2012/07/decomposable_inequality_measures.png#center)
 
 Estos son:
 

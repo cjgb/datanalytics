@@ -41,7 +41,7 @@ El objetivo del _kriging_ es poder realizar estimaciones en puntos no observados
 
 Por concretar, dados los valores
 
-![](/wp-uploads/2018/02/sinusoide_ruido.png)
+![](/wp-uploads/2018/02/sinusoide_ruido.png#center)
 
 podríamos querer obtener estimaciones de la función subyacente en alguno intermedio. O en una rejilla determinada. Sí, como si usásemos _loess_ o similar. Pero, en nuestro caso, usando el siguiente modelo:
 
@@ -57,7 +57,7 @@ Al modelo básico se le pueden añadir cascabeles variados:
 
 En nuestro caso, se puede estimar la función subyacente en una rejilla,
 
-![](/wp-uploads/2018/02/kriging_sinuoide.png)
+![](/wp-uploads/2018/02/kriging_sinuoide.png#center)
 
 con el código
 

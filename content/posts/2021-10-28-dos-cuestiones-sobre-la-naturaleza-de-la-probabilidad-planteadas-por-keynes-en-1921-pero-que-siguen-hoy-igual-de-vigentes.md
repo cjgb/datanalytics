@@ -33,7 +33,7 @@ Esa sección pertenece al capítulo III en el que Keynes razona que las probabil
 
 De hecho, una de las pocas ilustraciones del libro es
 
-![](/wp-uploads/2021/10/image-3.png)
+![](/wp-uploads/2021/10/image-3.png#center)
 
 donde O es la imposibilidad, I es la certeza absoluta y los segmentos representan comparaciones posibles. Así, las probabilidades de A y V son comparables, pero no la de U y V.
 

@@ -19,8 +19,8 @@ El otro día me llegó por correo el [Informe sobre el Uso del Software Libre en
 
 Una de las tablas de resultados es:
 
-[![](/wp-uploads/2012/04/linux_market_share_spain.png)
-](/wp-uploads/2012/04/linux_market_share_spain.png)
+[![](/wp-uploads/2012/04/linux_market_share_spain.png#center)
+](/wp-uploads/2012/04/linux_market_share_spain.png#center)
 
 Entiendo que los porcentajes de uso se refieren al universo de la población española, extrapolados mediante un [...] _muestreo por cuotas, donde se incluyen cuotas con afijación proporcional al peso real de la población objeto, obteniendo estos datos del Instituto Nacional de Estadística, en el período más actualizado_.
 

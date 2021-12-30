@@ -17,8 +17,8 @@ El [paquete _reshape_ de R](http://had.co.nz/reshape/) consta esencialmene de d
 
 La función `melt` se describe sucintamente con el siguiente gráfico:
 
-[![](/wp-uploads/2011/09/melt.png)
-](/wp-uploads/2011/09/melt.png)
+[![](/wp-uploads/2011/09/melt.png#center)
+](/wp-uploads/2011/09/melt.png#center)
 
 Es decir, toma un `data.frame` y lo _funde_ (¡dejaré de ser amigo de quien pronuncie _meltea_!) o, visto de otra manera, estira.
 

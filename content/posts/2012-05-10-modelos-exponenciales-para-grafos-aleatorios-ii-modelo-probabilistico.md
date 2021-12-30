@@ -27,8 +27,8 @@ donde $latex c$ es una constante normalizadora, $latex \eta_A$ es un parámetro 
 
 Una configuración es... un patrón. El concepto se comprende mejor a través de ejemplos. Y el más simple es el de una arista (que podría representar un vínculo de amistad entre Juan y Pedro). O un triángulo (Juan, Pedro y Tomás son mutuamente amigos). O cualquiera de los que aparecen en el siguiente gráfico:
 
-[![](/wp-uploads/2012/05/configuraciones_grafos.png)
-](/wp-uploads/2012/05/configuraciones_grafos.png)
+[![](/wp-uploads/2012/05/configuraciones_grafos.png#center)
+](/wp-uploads/2012/05/configuraciones_grafos.png#center)
 
 El modelo probabilístico para un grafo en el que cada arista $latex y_{ij}$ tiene una probabilidad dada de ocurrir sería, por lo tanto,
 

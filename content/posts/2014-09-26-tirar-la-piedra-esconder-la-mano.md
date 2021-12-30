@@ -17,8 +17,8 @@ tags:
 
 Hoy he encontrado esto en Twitter:
 
-[![escocia_independencia_pobreza](/wp-uploads/2014/09/escocia_independencia_pobreza.png)
-](/wp-uploads/2014/09/escocia_independencia_pobreza.png)
+[![escocia_independencia_pobreza](/wp-uploads/2014/09/escocia_independencia_pobreza.png#center)
+](/wp-uploads/2014/09/escocia_independencia_pobreza.png#center)
 
 Míralo bien. Vuelve a mirarlo. Efectivamente, los ricos votaron en contra de la independencia; los pobres, a favor. ¿Verdad?
 
@@ -26,8 +26,8 @@ Muchos, yo incluido, estamos inclinados a pensarlo así. Los resultados de una p
 
 Así que ha sucedido lo siguiente:
 
-[![escocia_independencia_pobreza_twitter](/wp-uploads/2014/09/escocia_independencia_pobreza_twitter.png)
-](/wp-uploads/2014/09/escocia_independencia_pobreza_twitter.png)
+[![escocia_independencia_pobreza_twitter](/wp-uploads/2014/09/escocia_independencia_pobreza_twitter.png#center)
+](/wp-uploads/2014/09/escocia_independencia_pobreza_twitter.png#center)
 
 Así que a pesar de toda mi cautela, de ese _podría_ condicional, he tenido que asumir que, efectivamente, el autor de ese gráfico está enteramente libre del pecado de falacia.
 

@@ -13,7 +13,7 @@ tags:
 - sicología
 ---
 
-![](/wp-uploads/2019/06/journal.pone_.0213522.g002-1024x726.png)
+![](/wp-uploads/2019/06/journal.pone_.0213522.g002-1024x726.png#center)
 
 , extraído de [_Verbal probabilities: Very likely to be somewhat more confusing than numbers_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213522), creo que es ya cultura general.
 

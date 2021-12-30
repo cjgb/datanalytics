@@ -25,7 +25,7 @@ Así que en el ejemplo del libro la cosa, más o menos, funciona. Como no podía
 
 Lo que podemos hacer es generar muchas secuencias de secuencias de números, aplicar el triquito a cada una de ellas y comparar el producto real con el estimado. Para secuencias de tres números (entre 1 y 10), se obtiene la siguiente distribución del log2 de los cocientes:
 
-![](/wp-uploads/2019/01/estimation_error.png)
+![](/wp-uploads/2019/01/estimation_error.png#center)
 
 Y el código:
 

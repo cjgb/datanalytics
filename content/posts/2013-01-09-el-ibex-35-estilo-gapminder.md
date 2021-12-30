@@ -80,7 +80,7 @@ plot(M)
 
 El resultado tiene un aspecto similar a la siguiente captura estática:
 
-[![](/wp-uploads/2013/01/ibex35_motionchart.png)
-](/wp-uploads/2013/01/ibex35_motionchart.png)
+[![](/wp-uploads/2013/01/ibex35_motionchart.png#center)
+](/wp-uploads/2013/01/ibex35_motionchart.png#center)
 
 No puedo insertar aquí el gráfico dinámico pero cualquiera que ejecute el código anterior en su máquina lo debería obtener en su propio navegador.

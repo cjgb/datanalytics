@@ -16,8 +16,8 @@ tags:
 
 Vi [esto](http://mathlesstraveled.com/2012/10/05/factorization-diagrams/) y me dije: yo también quiero. Así que dicho y hecho:
 
-[![100](/wp-uploads/2014/09/100.png)
-](/wp-uploads/2014/09/100.png)
+[![100](/wp-uploads/2014/09/100.png#center)
+](/wp-uploads/2014/09/100.png#center)
 
 Por si acaso, cada diagrama representa la descomposición en números primos de un número del 1 al 100.
 

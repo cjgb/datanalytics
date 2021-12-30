@@ -32,7 +32,7 @@ No tengo ni que decir que su correlación es prácticamente cero,
 
 y que en su diagrama de dispersión tampoco vamos a poder leer otra cosa:
 
-![](/wp-uploads/2017/02/disp_indep_xy.png)
+![](/wp-uploads/2017/02/disp_indep_xy.png#center)
 
 Ahora generamos otra variable independiente de las anteriores,
 
@@ -54,7 +54,7 @@ y calculamos el cociente de las primeras con respecto a esta:
     # 0.5277787
 {{< / highlight >}}
 
-![](/wp-uploads/2017/02/disp_ratio_xy.png)
+![](/wp-uploads/2017/02/disp_ratio_xy.png#center)
 
 Parece que no. Porque valores grandes del cociente aplastan a la vez a los valores de `x` e `y` y a la inversa. La correlación entre las nuevas variables crece con la del denominador, de hecho.
 

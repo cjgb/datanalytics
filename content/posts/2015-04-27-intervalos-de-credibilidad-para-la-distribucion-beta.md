@@ -23,8 +23,8 @@ Quiero construir un [intervalo de credibilidad](http://en.wikipedia.org/wiki/Cre
 
 Gráficamente,
 
-[![cred_beta](/wp-uploads/2015/04/cred_beta.png)
-](/wp-uploads/2015/04/cred_beta.png)
+[![cred_beta](/wp-uploads/2015/04/cred_beta.png#center)
+](/wp-uploads/2015/04/cred_beta.png#center)
 
 Y he aquí el código:
 

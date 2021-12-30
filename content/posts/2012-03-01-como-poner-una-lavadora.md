@@ -19,13 +19,13 @@ Lo que me preocupa, la variable que con más atención considero, es el impacto 
 
 Por eso, siempre, antes de ponerla, echo un vistazo a la única fuente de información de la que dispongo, la [página de REE](https://demanda.ree.es/demanda.html). Por ejemplo, a la hora en que la hice funcionar, la madrugada del domingo, como a las cuatro de la mañana, el consumo de energía eléctrica en España tenía esta pinta:
 
-[![](/wp-uploads/2012/02/consumo_electricidad_ree.png)
-](/wp-uploads/2012/02/consumo_electricidad_ree.png)
+[![](/wp-uploads/2012/02/consumo_electricidad_ree.png#center)
+](/wp-uploads/2012/02/consumo_electricidad_ree.png#center)
 
 Es decir, se estaban consumiendo unos 22 GW de energía eléctrica. Además, el porcentaje de energía renovable utilizada era relativamente alto y las emisiones de CO2, bajas:
 
-[![](/wp-uploads/2012/02/fuentes_produccion.png)
-](/wp-uploads/2012/02/fuentes_produccion.png)
+[![](/wp-uploads/2012/02/fuentes_produccion.png#center)
+](/wp-uploads/2012/02/fuentes_produccion.png#center)
 
 En efecto, cuando la demanda es baja (y a esas horas de la madrugada, especialmente en domingo, el consumo tiene sus valles), las centrales renovables son capaces de cubrir un porcentaje mayor de ella y las contaminantes, las que queman carbón o gas, trabajan a medio ídem.
 

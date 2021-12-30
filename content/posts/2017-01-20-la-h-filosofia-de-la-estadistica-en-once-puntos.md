@@ -25,6 +25,6 @@ tags:
 * Para que sea creíble, la investigación tiene que ser reproducible
 * Toda la manipulación de datos y el análisis estadístico tiene que ser reproducible
 
-![](/wp-uploads/2017/01/plot_summary.png)
+![](/wp-uploads/2017/01/plot_summary.png#center)
 
 No son míos, sino de [Frank Harrel](http://www.fharrell.com/2017/01/introduction.html). [Acaba de abrir su blog](http://www.fharrell.com/). Seguidlo.

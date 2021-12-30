@@ -71,20 +71,20 @@ mostrar.ubicaciones("Zaragoza, Spain", 14, res)
 
 En los últimos tiempos (no me he entretenido a mirar cuántos ni cuáles) he estado en varios lugares de Europa. No uso los datos del móvil y suelo tener la wifi y el GPS desconectados. Por eso, los puntos del siguiente mapa son todos los que están, pero no están todos los que son:
 
-[![ggmaps_google_paris](/wp-uploads/2014/10/ggmaps_google_paris.png)
-](/wp-uploads/2014/10/ggmaps_google_paris.png)
+[![ggmaps_google_paris](/wp-uploads/2014/10/ggmaps_google_paris.png#center)
+](/wp-uploads/2014/10/ggmaps_google_paris.png#center)
 
 Falta información de algunos viajes en los que, al parecer, estuve desconectado.
 
 Dentro de Madrid me traza por los alrededores de mi casa, en el aeropuerto y entre la una y el otro. Así de triste es mi vida. Hay un punto raro en el que no recuerdo haber estado en los últimos tiempos. Faltan algunos puntos por los alrededores de la ciudad universitaria por donde anduve este verano y el DataBeers de la semana pasada. ¡Apenas he estado en ningún otro sitio en los últimos meses!
 
-[![ggmaps_google_madrid](/wp-uploads/2014/10/ggmaps_google_madrid.png)
-](/wp-uploads/2014/10/ggmaps_google_madrid.png)
+[![ggmaps_google_madrid](/wp-uploads/2014/10/ggmaps_google_madrid.png#center)
+](/wp-uploads/2014/10/ggmaps_google_madrid.png#center)
 
 En Zúrich tengo punticos en casa, en el trabajo y uno en la estación de tren. Supongo que camino del aeropuerto. He estado en algún sitio más con la bici, pero, al parecer, desconectado.
 
-[![ggmaps_google_zurich](/wp-uploads/2014/10/ggmaps_google_zurich.png)
-](/wp-uploads/2014/10/ggmaps_google_zurich.png)
+[![ggmaps_google_zurich](/wp-uploads/2014/10/ggmaps_google_zurich.png#center)
+](/wp-uploads/2014/10/ggmaps_google_zurich.png#center)
 
 Etc.
 

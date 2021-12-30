@@ -22,6 +22,6 @@ Solo quiero abundar en el tema para recordaros que si os interesa mostrar mapas 
 
 Uno de los motivos puede ser que el mapa forme parte de una aplicación _seria_. Y las (o ciertas) capas por defecto de `leaflet` muestran hasta los puticlús,
 
-![](/wp-uploads/2020/10/leaflet_atocha.png)
+![](/wp-uploads/2020/10/leaflet_atocha.png#center)
 
 y eso puede hacer arquear alguna ceja. De hecho, en una reciente aplicación [nuestra](https://www.circiter.es), tuvimos problemas porque alguien, movido tal vez por el aburrimiento, hizo zum, zum, zum y arrastró y arrastró el mapa hasta un remoto confín. Y como quiera que advirtió que no mostraba los altos del Golán —o vaya uno a saber qué otro atribulado rincón del mundo— de acuerdo a como los da por buenos la sin par la diplomacia española, se armó un cristo de padre y muy señor mío.

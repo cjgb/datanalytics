@@ -34,8 +34,8 @@ Menciona el contador electrónico instalado en Times Square de Nueva York instal
 Pasa por utilizar la vieja operación que nos enseñaron en la escuela: dividir. Y utilizando un denominador adecuado, claro. Por ejemplo, la deuda a la que me refiero arriba asciende a 40.000 dólares por estadounidense, cifra mucho más sencilla de interpretar que el siguiente gráfico
 
 
-[![](/wp-uploads/2011/10/american_debt.png)
-](/wp-uploads/2011/10/american_debt.png)
+[![](/wp-uploads/2011/10/american_debt.png#center)
+](/wp-uploads/2011/10/american_debt.png#center)
 
 
 que representa el volumen de un montón de billetes de cien dólares que suma el tamaño total de la deuda y que he extraído de [aquí](http://usdebt.kleptocracy.us/).

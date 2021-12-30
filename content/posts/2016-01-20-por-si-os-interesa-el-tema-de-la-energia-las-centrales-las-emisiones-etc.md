@@ -50,8 +50,8 @@ ggplot(d$results, aes(x = lon, y = lat, size = elec_capacity_MW)) +
 
 y lo que genera, que es
 
-[![enipedia_centrales](/wp-uploads/2016/01/enipedia_centrales.png)
-](/wp-uploads/2016/01/enipedia_centrales.png)
+[![enipedia_centrales](/wp-uploads/2016/01/enipedia_centrales.png#center)
+](/wp-uploads/2016/01/enipedia_centrales.png#center)
 
 todo lo cual es manifiestamente mejorable.
 

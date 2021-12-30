@@ -22,8 +22,8 @@ Para muestrear la bola `n`-dimensional, hay que muestrear primero la esfera (com
 
 Efectivamente, $latex X_i/\| X_i \|$ proporciona la dirección. Y en cuanto a la distancia con respecto al centro hay que tener encuenta que la bola de radio r < 1 contiene sólo un $latex r^n$ del volumen de la bola unidad. Como $latex P( U_i < r ) = r$, entonces $latex P( U^{1/n} < r ) = P( U < r^n ) = r^n$.
 
-[![](/wp-uploads/2012/01/muestra_uniforme_esfera.png)
-](/wp-uploads/2012/01/muestra_uniforme_esfera.png)
+[![](/wp-uploads/2012/01/muestra_uniforme_esfera.png#center)
+](/wp-uploads/2012/01/muestra_uniforme_esfera.png#center)
 
 En R,
 

@@ -61,24 +61,24 @@ ggsave("jornadas_huelga_anno.png")
 para obtener, por un lado, el número de huelgas por mes desde enero de 1995 a noviembre de 2011:
 
 
-[![](/wp-uploads/2012/03/huelgas_por_mes.png)
-](/wp-uploads/2012/03/huelgas_por_mes.png)
+[![](/wp-uploads/2012/03/huelgas_por_mes.png#center)
+](/wp-uploads/2012/03/huelgas_por_mes.png#center)
 
 
 El número de huelgas por año, con el número de jornadas afectadas por las huelgas indicado por el diámetro de punto:
 
-[![](/wp-uploads/2012/03/huelgas_por_anno.png)
-](/wp-uploads/2012/03/huelgas_por_anno.png)
+[![](/wp-uploads/2012/03/huelgas_por_anno.png#center)
+](/wp-uploads/2012/03/huelgas_por_anno.png#center)
 
 El número de trabajadores que siguieron cada huelga en cada año:
 
-[![](/wp-uploads/2012/03/trabajadores_huelga_por_anno.png)
-](/wp-uploads/2012/03/trabajadores_huelga_por_anno.png)
+[![](/wp-uploads/2012/03/trabajadores_huelga_por_anno.png#center)
+](/wp-uploads/2012/03/trabajadores_huelga_por_anno.png#center)
 
 Finalmente, el número de jornadas afectadas por las huelgas en cada año.
 
-[![](/wp-uploads/2012/03/jornadas_huelga_anno.png)
-](/wp-uploads/2012/03/jornadas_huelga_anno.png)
+[![](/wp-uploads/2012/03/jornadas_huelga_anno.png#center)
+](/wp-uploads/2012/03/jornadas_huelga_anno.png#center)
 
 Es relativamente fácil ubicar la huelga general del 2002. La que hubo en septiembre de 2010... no lo tengo tan claro.
 

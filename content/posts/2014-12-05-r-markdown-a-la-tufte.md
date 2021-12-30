@@ -23,6 +23,6 @@ Han aparecido plantillas, p.e., [en LaTeX](http://www.ctan.org/pkg/tufte-latex),
 
 Ahora, además, existe una [plantilla de R Markdown](http://rmarkdown.rstudio.com/tufte_handout_format.html). Que tiene esta pinta:
 
-![tufte_handout](/wp-uploads/2014/12/tufte_handout.png)
+![tufte_handout](/wp-uploads/2014/12/tufte_handout.png#center)
 
 (El fichero completo en PDF puede descargarse [aquí](http://rmarkdown.rstudio.com/examples/tufte-handout.pdf)).

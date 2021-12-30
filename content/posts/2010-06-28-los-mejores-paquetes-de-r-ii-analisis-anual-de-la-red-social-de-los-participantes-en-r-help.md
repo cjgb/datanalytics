@@ -21,8 +21,8 @@ En la primera entrada hice un ránking de los participantes más activos en la l
 
 En primer lugar, ahí va el número de personas que han respondido correos en la la lista en cada año (nótese que el 2010 está truncado en abril):
 
-[![](/wp-uploads/2010/06/numero_respondedores_por_anno.png)
-](/wp-uploads/2010/06/numero_respondedores_por_anno.png)
+[![](/wp-uploads/2010/06/numero_respondedores_por_anno.png#center)
+](/wp-uploads/2010/06/numero_respondedores_por_anno.png#center)
 
 Luego, una vez calculados los pesos de cada una de ellas, muestro el podio en cada uno de los años:
 
@@ -49,7 +49,7 @@ El único español que ha ocupado los lugares de privilegio es _alobo_, al que n
 
 Finalmente, presento una gráfica que muestra la evolución histórica del peso agregado de los respondedores por decil: se aprecia un claro proceso de concentración: una élite de expertos en R —creciente también en número, todo hay que decirlo— está concentrando a los _líderes_ (en la terminología utilizada por los expertos en redes sociales) de la lista de correo de R.
 
-[![](/wp-uploads/2010/06/pesos_x_decil_y_anno1.png)
-](/wp-uploads/2010/06/pesos_x_decil_y_anno1.png)
+[![](/wp-uploads/2010/06/pesos_x_decil_y_anno1.png#center)
+](/wp-uploads/2010/06/pesos_x_decil_y_anno1.png#center)
 
 (Los lectores más inquietos habrán advertido cómo ciertas series se cortan cuando no lo debieran en el gráfico anterior. Se trata de un artefacto causado por empates en pesos.)

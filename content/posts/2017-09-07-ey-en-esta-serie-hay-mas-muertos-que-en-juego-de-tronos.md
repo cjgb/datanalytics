@@ -16,7 +16,7 @@ tags:
 
 La serie en cuestión es esta (abridla en otra pestaña para verla en la plenitud de su definición):
 
-![](/wp-uploads/2017/09/defunciones_historicas.png)
+![](/wp-uploads/2017/09/defunciones_historicas.png#center)
 
 
 Con tiene _todas_ (explicar por qué no son todas sería complicado, pero se puede dar el cuantificador casi por bueno) las defunciones (diarias) en España desde la fecha indicada.

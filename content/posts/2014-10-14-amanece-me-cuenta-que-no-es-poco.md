@@ -20,8 +20,8 @@ No obstante, el asunto de los husos horarios es del recurrente interés de mucho
 
 En ese artículo se muestra la diferencia en horas en el amanecer en dos días eminentes del año para muchos punticos del mapa. Yo voy a mostrar la diferencia en horas del amanecer para todos los días del año para un subconjunto eminente de ellos así:
 
-[![amanecer_horas](/wp-uploads/2014/10/amanecer_horas.png)
-](/wp-uploads/2014/10/amanecer_horas.png)
+[![amanecer_horas](/wp-uploads/2014/10/amanecer_horas.png#center)
+](/wp-uploads/2014/10/amanecer_horas.png#center)
 
 El código con el que lo he construido (muy instructivo para quien quiera realizar extensiones de lo anterior) es
 

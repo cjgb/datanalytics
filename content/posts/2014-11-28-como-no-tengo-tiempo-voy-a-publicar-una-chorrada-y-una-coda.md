@@ -25,8 +25,8 @@ Los datos del [World Values Survey](http://www.worldvaluessurvey.org/) ([aquí](
 
 La VMI es muy importante, como su nombre bien indica. Se ha usado en la mar de estudios, publicados y no, en las más diversas disciplinas. Me interesa hoy conocer su distribución en función de, por ejemplo, la comunidad autónoma en España. Así es:
 
-[![distribucion_vmi](/wp-uploads/2014/11/distribucion_vmi.png)
-](/wp-uploads/2014/11/distribucion_vmi.png)
+[![distribucion_vmi](/wp-uploads/2014/11/distribucion_vmi.png#center)
+](/wp-uploads/2014/11/distribucion_vmi.png#center)
 
 Verse puede cómo varía enormemente. En unas comunidades autónomas la barra es más alta, p.e., en la C15; en otras, más baja. Es muy baja en la C17, pero, ¿qué se puede esperar de la gente de la C17? ¡Si son todos de pueblo! Y no ni he ido ni quiero ir a la C17 jamás. ¿Para qué? Si despuntan en algo es en la variable mú importante... y para lo malo. Que yo sepa nunca salió de allá nada de provecho. Luego hay otras comunidades autónomas que están _in medio_, donde _stat virtus_. Ya lo decía Sancho Panza: tanto se pierde por carta de más como por carta de menos. Entre ellas se cuentan la próspera C06 y la C01. A pesar de que los de la C01 son un poco raritos, que conste.
 
@@ -42,8 +42,8 @@ Obviamente, estoy de coña. Yo nunca escribiría algo así. Para eso, hago lo de
 
 Pinta ella cosas del tipo
 
-[![Map1_confianza_generalizada](/wp-uploads/2014/11/Map1_confianza_generalizada.png)
-](/wp-uploads/2014/11/Map1_confianza_generalizada.png)
+[![Map1_confianza_generalizada](/wp-uploads/2014/11/Map1_confianza_generalizada.png#center)
+](/wp-uploads/2014/11/Map1_confianza_generalizada.png#center)
 
 que viene a ser una versión de mi gráfico de barras (¿os habéis fijado que, adrede, las barras no principian donde deben, en 0? ¡lo que me ha costado construirlo!) un poquito más elaborada —hay gente que tiene más tiempo que yo— y que tiene sobre el mío la ventaja de que nos recuerda la forma de Extremadura. Por lo demás, tanto el gráfico y las cifras que representa, como la inanidad de la narrativa que lo rodean en la publicación original son idénticos al mío.
 
@@ -101,11 +101,11 @@ qqmath(ranef(mod3, condVar = TRUE))
 
 para obtener
 
-[![trust_dotplot](/wp-uploads/2014/11/trust_dotplot.png)
-](/wp-uploads/2014/11/trust_dotplot.png)
+[![trust_dotplot](/wp-uploads/2014/11/trust_dotplot.png#center)
+](/wp-uploads/2014/11/trust_dotplot.png#center)
 y
-[![trust_qqmath](/wp-uploads/2014/11/trust_qqmath.png)
-](/wp-uploads/2014/11/trust_qqmath.png)
+[![trust_qqmath](/wp-uploads/2014/11/trust_qqmath.png#center)
+](/wp-uploads/2014/11/trust_qqmath.png#center)
 
 que nos indican que solo habría dos o tres comunidades en las que las diferencias en la variable confianza son realmente distintas de la media. Siendo la más extrema Navarra, en la que la diferencia (por eso el coeficiente tiene más variabilidad) está basada en apenas 15 encuestas.
 
@@ -122,12 +122,12 @@ qqmath(ranef(mod.glmer, condVar = TRUE))
 
 y obtener así
 
-[![trust_glmer_dotplot](/wp-uploads/2014/11/trust_glmer_dotplot.png)
-](/wp-uploads/2014/11/trust_glmer_dotplot.png)
+[![trust_glmer_dotplot](/wp-uploads/2014/11/trust_glmer_dotplot.png#center)
+](/wp-uploads/2014/11/trust_glmer_dotplot.png#center)
 
 y
 
-[![trust_glmer_qqmath](/wp-uploads/2014/11/trust_glmer_qqmath.png)
-](/wp-uploads/2014/11/trust_glmer_qqmath.png)
+[![trust_glmer_qqmath](/wp-uploads/2014/11/trust_glmer_qqmath.png#center)
+](/wp-uploads/2014/11/trust_glmer_qqmath.png#center)
 
 que vuelven a revelar que gran parte de lo que la autora afirma sobre la confianza es la verbalización de un zumbido browniano.

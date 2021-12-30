@@ -16,8 +16,8 @@ tags:
 
 Comparto con mis lectores la noticia que he recibido del paquete (aún en ciernes) [RDataMining](http://www.rdatamining.com/package). El objetivo de sus promotores es construirlo colaborativamente (¡se buscan programadores!) e incluir en él algoritmos publicados que no tengan todavía implementación en R.
 
-[![](/wp-uploads/2012/09/rdatamining.png)
-](/wp-uploads/2012/09/rdatamining.png)
+[![](/wp-uploads/2012/09/rdatamining.png#center)
+](/wp-uploads/2012/09/rdatamining.png#center)
 
 Existen en R muchos [paquetes útiles para la minería de datos](http://www.rdatamining.com/package). De todos ellos, me atrevería a recomendar el paquete `[caret](http://cran.r-project.org/web/packages/caret/index.html)` que, más allá de integrar diversos algoritmos, incluye funciones auxiliares útiles para seleccionar modelos, comparar la importancia de funciones, realizar validaciones cruzadas, etc. utilizando una sintaxis coherente y homogénea. Que es algo a lo que los autores de las APIs de los distintos paquetes prestan poca atención, desafortunadamente.
 

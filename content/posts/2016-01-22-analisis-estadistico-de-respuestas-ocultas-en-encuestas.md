@@ -95,7 +95,7 @@ hist(tmp$theta)
 
 Que genera
 
-[![parametro_oculto_encuestas](/wp-uploads/2016/01/parametro_oculto_encuestas.png)
-](/wp-uploads/2016/01/parametro_oculto_encuestas.png)
+[![parametro_oculto_encuestas](/wp-uploads/2016/01/parametro_oculto_encuestas.png#center)
+](/wp-uploads/2016/01/parametro_oculto_encuestas.png#center)
 
 sin mayores complicaciones (ni teóricas ni prácticas). Además, como ventaja adicional, uno siempre puede incluir la información previamente conocida sobre la distribución de $latex \theta$ en el lugar correspondiente en el código anterior.

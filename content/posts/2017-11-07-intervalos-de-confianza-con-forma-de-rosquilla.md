@@ -20,7 +20,7 @@ Envalentonado por el comentario de [Iñaki Úcar](https://twitter.com/Enchufa2) 
 
 Y aquí está:
 
-![](/wp-uploads/2017/11/intervalo_confianza_toro.png)
+![](/wp-uploads/2017/11/intervalo_confianza_toro.png#center)
 
 El modelo, el código y demás,
 

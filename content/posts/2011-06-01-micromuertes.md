@@ -20,12 +20,12 @@ Lo curioso de esta relación tan simple no es peculiar de España ni de ese año
 
 El cerebro humano tiene problemas para entender probabilidades pequeñas, un tema ya tratado previamente en esta bitácora. Por eso, el concepto de micromuerte es un instrumento muy útil a la hora de analizar y comparar riesgos. Por ejemplo, ¿qué es más peligroso, montar en bici 20 kms. o conducir 200? ¿Una hora de parapente o una hora de submarinismo?
 
-[![](/wp-uploads/2011/05/micromuertes1.png)
-](/wp-uploads/2011/05/micromuertes1.png)
+[![](/wp-uploads/2011/05/micromuertes1.png#center)
+](/wp-uploads/2011/05/micromuertes1.png#center)
 
 La Wikipedia (en inglés) muestra una serie de [acciones cuyo resultado es un incremento del riesgo de muerte en una micromuerte](http://en.wikipedia.org/wiki/Micromort). También discute su valor monetario: ¿cuánto estaría alguien dispuesto a pagar por evitar un riesgo equivalente a una micromuerte? Dicho de otra manera, si alguien te plantease jugar a la ruleta rusa con un revólver en el que hay espacio para un millón de balas (pero sólo una, claro): ¿cuál sería la cifra mínima por la que accederías a jugar?
 
-[![](/wp-uploads/2011/05/micromuertes_parto.png)
-](/wp-uploads/2011/05/micromuertes_parto.png)
+[![](/wp-uploads/2011/05/micromuertes_parto.png#center)
+](/wp-uploads/2011/05/micromuertes_parto.png#center)
 
 Sobre estas y otras cuestiones relativas a las micromuertes trata este [vídeo de David Spiegelhalter](http://understandinguncertainty.org/node/1270) (del que están extraídas las imágenes anteriores). No tiene desperdicio. Quien le eche un vistazo podrá saber qué es más peligroso: pelear un día en Afganistán o pasar una noche en un hospital de la Seguridad Social (arriesgándose a contraer una infección mortal en él).

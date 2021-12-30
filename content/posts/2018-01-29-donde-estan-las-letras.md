@@ -16,7 +16,7 @@ tags:
 
 Inspirado en [esto](http://www.56n.dk/where-do-letters-occur-in-words/) construí
 
-![](/wp-uploads/2018/01/frecuencia_letras_quijote.png)
+![](/wp-uploads/2018/01/frecuencia_letras_quijote.png#center)
 
 
 usando como texto el Quijote y como código una versión mucho más simple y limpia que (aunque inspirado en) la del enlace original:

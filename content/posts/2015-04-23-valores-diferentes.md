@@ -13,7 +13,7 @@ tags:
 - mapas
 ---
 
-[![valores_diferentes](/wp-uploads/2015/04/valores_diferentes.png)
-](/wp-uploads/2015/04/valores_diferentes.png)
+[![valores_diferentes](/wp-uploads/2015/04/valores_diferentes.png#center)
+](/wp-uploads/2015/04/valores_diferentes.png#center)
 
 La fúente [áqui](http://www.elmundo.es/grafico/economia/2015/03/15/5505ceb4268e3ea24c8b456e.html).

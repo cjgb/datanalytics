@@ -20,8 +20,8 @@ Y sé que existen las erratas. Y se puede meter la pata. Pero hay cosas que son 
 
 De hecho, el IDH y el PIB per cápita están estrechamente relacionados:
 
-[![](/wp-uploads/2012/05/HDI_GDPpercapitaPPP.png)
-](/wp-uploads/2012/05/HDI_GDPpercapitaPPP.png)
+[![](/wp-uploads/2012/05/HDI_GDPpercapitaPPP.png#center)
+](/wp-uploads/2012/05/HDI_GDPpercapitaPPP.png#center)
 
 Porque elementos que forman parte de este índice, como la educación y la sanidad, son, guste o no, escasos y, por lo tanto, caros (y bien que nos estamos dando cuenta ahora de eso en España).
 

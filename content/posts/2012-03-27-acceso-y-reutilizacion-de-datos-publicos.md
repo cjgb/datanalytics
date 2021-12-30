@@ -27,8 +27,8 @@ Desde el punto de vista del software, disponemos de R. Podemos acceder a él y p
 ¿Y respecto a los datos? Y en particular, ¿de los datos públicos? En España, está regulada por ley su [redistribución](http://www.boe.es/aeboe/consultas/bases_datos/doc.php?id=BOE-A-2007-19814) (otra cosa es que los organismos titulares de dichos datos, como el INE, no estén al corriente de ella). Y ¿el acceso (que se supone que debería ser, en pura lógica, previo)? Pues hubo un [borrador, del que hablé en otra ocasión,](http://www.datanalytics.com/2011/08/02/el-borrador-de-ley-de-transparencia-disponible/) y que los avatares electorales convirtieron en papel mojado.
 
 
-[![](/wp-uploads/2012/03/transparencia.png)
-](/wp-uploads/2012/03/transparencia.png)
+[![](/wp-uploads/2012/03/transparencia.png#center)
+](/wp-uploads/2012/03/transparencia.png#center)
 
 
 Pero ahora el gobierno ha sacado definitivamente a la luz (desde las cinco de la tarde de ayer) un [nuevo borrador de la Ley de Transparencia](http://www.leydetransparencia.gob.es/anteproyecto/index.htm#AR6) con la particularidad adicional de que ha puesto a disposición de la ciudadanía [un portal para que esta pueda realizar alegaciones y propuestas de mejora](http://www.leydetransparencia.gob.es/index.htm).

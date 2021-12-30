@@ -34,7 +34,7 @@ visitas <- wp_trend("R_(lenguaje_de_programaci%C3%B3n)",
 
 produce
 
-![](/wp-uploads/2017/02/visitas_wikipedia_r.png)
+![](/wp-uploads/2017/02/visitas_wikipedia_r.png#center)
 
 [Aquí podría añadir más ejemplos la peor prosa.]
 
@@ -49,4 +49,4 @@ plot(stl(dat, s.window = "per"))
 
 produce
 
-![](/wp-uploads/2017/02/wikipedia_r_decomposition.png)
+![](/wp-uploads/2017/02/wikipedia_r_decomposition.png#center)

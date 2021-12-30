@@ -19,13 +19,13 @@ Sin darnos cuenta, abusamos de ciertos términos. Uno de ellos es el de la _vari
 
 Tal vez sea más sencillo comenzar exponiendo la crítica realizada en esa página. Parte del análisis de la serie de muertes en Chicago entre 1987 y el 2000:
 
-[![](/wp-uploads/2012/03/mortalidad_chicago.png)
-](/wp-uploads/2012/03/mortalidad_chicago.png)
+[![](/wp-uploads/2012/03/mortalidad_chicago.png#center)
+](/wp-uploads/2012/03/mortalidad_chicago.png#center)
 
 A la serie le ajusta un modelo simple basado en [_splines_](http://en.wikipedia.org/wiki/Smoothing_spline), `y = f(t) + ruido`, que da el siguiente ajuste:
 
-[![](/wp-uploads/2012/03/mortalidad_chicago_predicha.png)
-](/wp-uploads/2012/03/mortalidad_chicago_predicha.png)
+[![](/wp-uploads/2012/03/mortalidad_chicago_predicha.png#center)
+](/wp-uploads/2012/03/mortalidad_chicago_predicha.png#center)
 
 El _R_2 del ajuste es 0.35 y el autor se pregunta: ¿es adecuado denominar a este número varianza _explicada_? Porque, ¿_explica_ realmente la fecha el que haya más o menos muertos en un día determinado? ¿No viene a ser eso, poco más o menos, lo que nos cuentan los fabricantes de horóscopos?
 

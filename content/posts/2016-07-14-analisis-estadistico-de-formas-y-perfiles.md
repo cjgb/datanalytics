@@ -16,7 +16,7 @@ tags:
 
 Siempre me intrigó cómo podía realizarse el análisis estadístico de _cosas_ que no son tablas. Por ejemplo, formas.
 
-![momocs_botellas](/wp-uploads/2016/07/momocs_botellas.png)
+![momocs_botellas](/wp-uploads/2016/07/momocs_botellas.png#center)
 
 Nótese que tales medidas deberían presentar invariancias frente a rotaciones, dilataciones, simetrías, etc.
 
@@ -24,6 +24,6 @@ Quien alimente también semejantes dudas podrá saciarlas (parcialmente, claro) 
 
 Particularmente interesante es el llamado análisis de Fourier elíptico, que busca descomponer una figura en elipses, tal como en
 
-![momocs_botellas_elipses](/wp-uploads/2016/07/momocs_botellas_elipses.png)
+![momocs_botellas_elipses](/wp-uploads/2016/07/momocs_botellas_elipses.png#center)
 
 No deja de ser un divertimento para los más de nosotros pero quién sabe qué cosas nos puede inspirar en el futuro.

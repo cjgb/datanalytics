@@ -15,8 +15,8 @@ tags:
 
 Pues sí, aquí están,
 
-[![funnel_plots_suicidios](/wp-uploads/2015/12/funnel_plots_suicidios.png)
-](/wp-uploads/2015/12/funnel_plots_suicidios.png)
+[![funnel_plots_suicidios](/wp-uploads/2015/12/funnel_plots_suicidios.png#center)
+](/wp-uploads/2015/12/funnel_plots_suicidios.png#center)
 
 recién copipegados del [documental de El Español sobre el suicidio](http://www.elespanol.com/documental/suicidios/#/chapters/el-contexto-title).
 

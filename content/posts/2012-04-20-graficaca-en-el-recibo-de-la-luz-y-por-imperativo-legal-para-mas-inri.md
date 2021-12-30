@@ -16,8 +16,8 @@ tags:
 
 Tras una sobremesa en la que tratamos el ya manido tema de los [gráficos de tarta](http://www.datanalytics.com/2011/03/02/1658/), me hace llegar mi tertuliano Jorge Sobrino una solapilla que le adjunta Iberdrola al recibo de la luz que parece una broma de mal gusto. Es muy parecida a la siguiente:
 
-[![](/wp-uploads/2012/04/mix_iberdrola.png)
-](/wp-uploads/2012/04/mix_iberdrola.png)
+[![](/wp-uploads/2012/04/mix_iberdrola.png#center)
+](/wp-uploads/2012/04/mix_iberdrola.png#center)
 
 La gráfica compara el llamado _mix_ de producción eléctrica de la compañía con el nacional en el periodo de referencia. O, al menos, ese parece ser su objetivo. Pero advertirán los más agudos de mis lectores cómo la elección de una gráfica de tartas dificulta la comparación, que es el presunto objetivo de esas manchas de colores con pretensiones cuantitativas. ¿No podían haber preferido, por ejemplo y sin pensar demasiado, barras adyacentes?
 
@@ -30,7 +30,7 @@ Pero lo grave es que descubro que el pequeño informe de Iberdrola, con sus tart
 
 pinta la siguiente calamidad:
 
-[![](/wp-uploads/2012/04/mix_cne.png)
-](/wp-uploads/2012/04/mix_cne.png)
+[![](/wp-uploads/2012/04/mix_cne.png#center)
+](/wp-uploads/2012/04/mix_cne.png#center)
 
 ¿Graficaca por imperativo legal?

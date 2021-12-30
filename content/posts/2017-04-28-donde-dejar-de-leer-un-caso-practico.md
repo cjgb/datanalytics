@@ -21,7 +21,7 @@ En una de las primeras diapositivas de la [VIII Encuesta de Percepción de la Ci
 
 Y un 16% de los fulanos/as, dizque por la _ciencia y la tecnología_. Mientras que solo el 5% por _temas de famosos_.
 
-![](/wp-uploads/2017/04/interes_ciencia.png)
+![](/wp-uploads/2017/04/interes_ciencia.png#center)
 
 
 Ahí es donde hay que dejar de leer. Porque moto véndese. Indubitablemente.

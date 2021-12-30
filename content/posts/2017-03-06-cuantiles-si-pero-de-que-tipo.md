@@ -42,7 +42,7 @@ plot(n.obs, log10(res), type = "l",
   main = "Diferencias entre los distintos tipos de cuantiles")
 {{< / highlight >}}
 
-![](/wp-uploads/2017/03/quantile_types.png)
+![](/wp-uploads/2017/03/quantile_types.png#center)
 
 Imagino que crecerán, por otro lado, con la dispersión de los datos implicados alrededor del cuantil de interés.
 

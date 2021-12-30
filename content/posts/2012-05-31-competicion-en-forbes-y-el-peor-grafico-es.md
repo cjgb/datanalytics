@@ -15,8 +15,8 @@ tags:
 
 ... este:
 
-[![](/wp-uploads/2012/05/cones-300x183.png)
-](/wp-uploads/2012/05/cones-300x183.png)
+[![](/wp-uploads/2012/05/cones-300x183.png#center)
+](/wp-uploads/2012/05/cones-300x183.png#center)
 
 Está hecho con Excel y representa los números 2, 4, 6 y 8. De acuerdo con la [página en la que se anuncia el resultado del concurso](http://www.forbes.com/sites/naomirobbins/2012/05/30/winner-of-the-bad-graph-contest-announced-2/),
 

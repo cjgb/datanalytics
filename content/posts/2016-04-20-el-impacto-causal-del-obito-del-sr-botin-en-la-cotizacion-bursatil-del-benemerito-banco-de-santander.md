@@ -73,7 +73,7 @@ plot(impact, metrics = c("original", "pointwise"))
 
 genera
 
-![causal_impact_santander](/wp-uploads/2016/04/causal_impact_santander.png)
+![causal_impact_santander](/wp-uploads/2016/04/causal_impact_santander.png#center)
 
 que indica (y `summary(impact)` cuantifica) cómo, de acuerdo con los tejemanejes del paquete en cuestión, parece haber un efecto lesivo para los intereses de los accionistas muy significativo.
 

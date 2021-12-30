@@ -30,18 +30,18 @@ Además, y efecto de los recortes y la política del nuevo gobierno británico:
 
 El siguiente gráfico muestra mediante un ejemplo el impacto de los impuestos y los beneficios sociales en un hogar concreto
 
-[![](/wp-uploads/2012/06/impuestos_beneficios.png)
-](/wp-uploads/2012/06/impuestos_beneficios.png)
+[![](/wp-uploads/2012/06/impuestos_beneficios.png#center)
+](/wp-uploads/2012/06/impuestos_beneficios.png#center)
 
 y este otro cómo lo hacen, globalmente, sobre cada uno de los cinco quintiles (por ingresos) de los hogares británicos:
 
-[![](/wp-uploads/2012/06/impacto_impuetos_hogares.png)
-](/wp-uploads/2012/06/impacto_impuetos_hogares.png)
+[![](/wp-uploads/2012/06/impacto_impuetos_hogares.png#center)
+](/wp-uploads/2012/06/impacto_impuetos_hogares.png#center)
 
 Esta otra figura muestra el impacto fiscal según el tipo de impuesto o beneficio:
 
-[![](/wp-uploads/2012/06/impacto_desglosado_hogares.png)
-](/wp-uploads/2012/06/impacto_desglosado_hogares.png)
+[![](/wp-uploads/2012/06/impacto_desglosado_hogares.png#center)
+](/wp-uploads/2012/06/impacto_desglosado_hogares.png#center)
 
 Los impuestos directos (IRPF) supusieron una media de £19.700 (el 24 % del ingreso bruto) para los hogares del quintil más rico, y de £1.300 per year (el 10 %) del más pobre. Sin embargo, este último quintil pagó el 31 % de su renta disponible en impuestos indirectos (IVA y demás) taxes mientras que al quintil más rico, estos solo le supusieron el 13 %.
 

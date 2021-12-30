@@ -25,7 +25,7 @@ Las columnas, además, están jerarquizadas, agrupadas en categorías de interé
 
 Mediante un proceso de reducción de la dimensionalidad, NMDS proporciona una versión bidimiensional de los datos (véase [esto](https://jonlefcheck.net/2012/10/24/nmds-tutorial-in-r/) para los detalles) y permite construir representaciones tales como
 
-![](/wp-uploads/2019/01/nmdsconvex.png)
+![](/wp-uploads/2019/01/nmdsconvex.png#center)
 
 en las que se muestran las zonas definidas por las dos categorías del estudio (los polígonos) y la afinidad relativa de los distintos sujetos (etiquetas rojas) a cada uno de ellos. En este caso existe una diferencia entre las categorías puesto que los polígonos son disjuntos, etc. Además, aparentemente, hay pruebas estadísticas (p.e., ANOSIM, que no tengo ni idea de qué hace) para medir la heterogeneidad de las categorías).
 

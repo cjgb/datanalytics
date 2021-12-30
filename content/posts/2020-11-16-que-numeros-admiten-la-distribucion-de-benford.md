@@ -52,7 +52,7 @@ ggplot(tmp, aes(x = endpoint, y = prob)) +
 
 Da como resultado
 
-![](/wp-uploads/2020/11/distribucion_benford.png)
+![](/wp-uploads/2020/11/distribucion_benford.png#center)
 
 Los valores que se obtienen en las abscisas enteras son Benford; los restantes, no. Obviamente (¿aparentemente?) hay convergencia: cada vez es menos relevante dónde ocurre el corte en la cola.
 

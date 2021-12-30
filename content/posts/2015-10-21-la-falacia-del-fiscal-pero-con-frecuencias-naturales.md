@@ -38,8 +38,8 @@ Sabíamos ya que $latex P(D|I)$ es una cantidad pequeña, 1/73e6. Pero también 
 
 De todos modos, el teorema de Bayes confunde a profanos y no profanos. No tengo claro que todo el mundo que haya leído hasta este punto haya quedado convencido con el argumento anterior. Y no lo digo yo, sino expertos en el arte de divulgar información probabilística (y de riesgos) como dos de los héroes de esta bitácora: D. Spiegelhalter y G. Gigerenzer, que abogan, más que por la aplicación del teorema de Bayes, por las frecuencias naturales.
 
-[![natural_probabilities](/wp-uploads/2015/10/natural_probabilities.png)
-](/wp-uploads/2015/10/natural_probabilities.png)
+[![natural_probabilities](/wp-uploads/2015/10/natural_probabilities.png#center)
+](/wp-uploads/2015/10/natural_probabilities.png#center)
 
 Imaginad una lista de 73 millones de puntos verdes: son mujeres que han tenido dos hijos. Casi todos los puntos son verdes. Pero hay uno azul y unos pocos rojos. El azul es el caso en el que ha habido una doble muerte súbita. Los rojos son los casos en que mujeres desequilibradas han asesinado a sus hijos.
 

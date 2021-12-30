@@ -18,8 +18,8 @@ En otros sistemas no opera ninguna regla de ese tipo. El resultado suele ser que
 
 Ahora, [el resultado de un experimento reciente](http://www.theguardian.com/uk-news/2016/jan/16/the-tube-at-a-standstill-why-tfl-stopped-people-walking-up-the-escalators) viene a poner en cuestión la anterior manera de entender esa dimensión de la vida que es ascender por las escaleras mecánicas.
 
-[![escaleras_mecanicas](/wp-uploads/2016/01/escaleras_mecanicas.png)
-](/wp-uploads/2016/01/escaleras_mecanicas.png)
+[![escaleras_mecanicas](/wp-uploads/2016/01/escaleras_mecanicas.png#center)
+](/wp-uploads/2016/01/escaleras_mecanicas.png#center)
 
 Del estudio parece deducirse, en lectura rápida, que es mejor evitar la norma de las dos filas. El número de viajeros por minuto que suben las escaleras crece (en situaciones de aglomeración) cuando ambas filas están enteramente ocupadas por individuos que no caminan. No obstante, el estudio parece haberse realizado en un tramo un tanto especial: es muy largo y, por lo tanto, hay un número muy pequeño de viajeros que tienen el incentivo (¡y la forma física necesaria!) para caminar.
 

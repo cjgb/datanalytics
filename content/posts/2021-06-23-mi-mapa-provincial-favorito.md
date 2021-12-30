@@ -15,11 +15,11 @@ tags:
 
 Mi mapa provincial de España favorito es este:
 
-![](/wp-uploads/2021/06/mapa_provincial_espana.png)
+![](/wp-uploads/2021/06/mapa_provincial_espana.png#center)
 
 O, en una versión más cruda,
 
-![](/wp-uploads/2021/06/mapa_provincial_2.png)
+![](/wp-uploads/2021/06/mapa_provincial_2.png#center)
 
 Cosas sobre él:
 

@@ -15,7 +15,7 @@ tags:
 
 Estoy con la maleta al hombro y sin tiempo. Así que os cuelgo este _biplot_
 
-[![](/wp-uploads/2012/11/presupuestos_generales_2008-2011.png)
-](/wp-uploads/2012/11/presupuestos_generales_2008-2011.png)
+[![](/wp-uploads/2012/11/presupuestos_generales_2008-2011.png#center)
+](/wp-uploads/2012/11/presupuestos_generales_2008-2011.png#center)
 
 que está basado en las principales partidas de los presupuestos generales del estado (español) durante los años 2008-2011 y si tenéis un rato, en los comentarios, os dejo que expliquéis qué puede significar.

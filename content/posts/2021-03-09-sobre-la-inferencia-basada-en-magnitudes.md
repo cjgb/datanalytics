@@ -28,7 +28,7 @@ Para centrar ideas, es un test de Student (sirve para comparar medias, de hecho)
 
 MBI tiene dos versiones. La primera es más o menos estándar (y, de hecho, recomendable). Se quieren comparar dos medias y lo que propone es esencialmente lo que indica el siguiente gráfico (extraído de [aquí](https://www.researchgate.net/publication/325217813_Magnitude-based_inference_What_is_it_How_does_it_work_and_is_it_appropriate)):
 
-![](/wp-uploads/2021/03/Magnitude-Based-Inference-Decisions-in-Magnitude-Based.png)
+![](/wp-uploads/2021/03/Magnitude-Based-Inference-Decisions-in-Magnitude-Based.png#center)
 
 Es decir, se crea un intervalo de confianza para la diferencia y se estudia no si no tanto si contiene al cero como su posición con respecto a un umbral que define la significancia material (y no necesariamente la estadística). Los cosas casos señalados en rojo en el gráfico distinguen ambos casos.
 

@@ -22,7 +22,7 @@ Un ejemplo ilustrativo del fenómeno que se me ocurrió el otro día era
 
 pero hace nada, ese señor lleno de paz y amor que es Putin, nos ha regalado otro:
 
-![](/wp-uploads/2020/09/infradispersion.png)
+![](/wp-uploads/2020/09/infradispersion.png#center)
 
 Hay más detalles [aquí](https://nadaesgratis.es/bagues/estadistica-y-fraude-electoral-lo-que-el-teorema-central-del-limite-nos-revela-acerca-del-regimen-de-putin), donde se discute el asunto, se _prueba_ que los datos no pueden proceder de una binomial, etc.
 

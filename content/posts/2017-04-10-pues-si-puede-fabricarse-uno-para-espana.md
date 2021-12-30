@@ -17,7 +17,7 @@ tags:
 
 Es
 
-![](/wp-uploads/2017/04/ggplot_spain_format.png)
+![](/wp-uploads/2017/04/ggplot_spain_format.png#center)
 
 responde a [mi entrada de la semana pasada](https://www.datanalytics.com/2017/04/07/podria-fabricarse-uno-para-espana/) y se lo debemos a la gentileza de [Sergio J](https://twitter.com/sergiojsj).
 

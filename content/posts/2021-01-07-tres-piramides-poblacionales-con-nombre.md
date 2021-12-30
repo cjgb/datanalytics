@@ -17,13 +17,13 @@ tags:
 
 La primera es esta, a la que muchos conocen como la pirámide de población española de 1992, pero que yo conozco como la pirámide de población de la **masificación universitaria**:
 
-![](/wp-uploads/2021/01/masificacion_universitaria.png)
+![](/wp-uploads/2021/01/masificacion_universitaria.png#center)
 
 Es posible que a muchos no os suene el concepto pero, ¿véis ese pico en la edad de la chavalería? Corresponde a todos esos a los que dio de repente por ponerse a estudiar ingeniería, derecho o matemáticas de forma que no cabían en las aulas. En este tiempo no era inhabitual ver en los telediarios imágenes de estudiantes tomando apuntes de álgebra lineal sentados en los radiadores.
 
 Esta otra, aunque denominada habitualmente pirámide de la población española en 2005, merece más aptamente el nombre de pirámide de la **burbuja inmobiliaria** (o pirámide del que se casa, quiere casa):
 
-![](/wp-uploads/2021/01/burbuja_inmobiliaria.png)
+![](/wp-uploads/2021/01/burbuja_inmobiliaria.png#center)
 
 Los de los radiadores, ahora en un pico que está 15 años más arriba, se graduaron, se casaron y se largaron a vivir por su cuenta. Compraron casas (o se las alquilaron a otros) y pasó lo que todos (ahora creo que sí) recordamos.
 

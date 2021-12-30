@@ -14,5 +14,5 @@ tags:
 
 A esto:
 
-![curso_r_gijon](/wp-uploads/2016/07/curso_r_gijon.png)
+![curso_r_gijon](/wp-uploads/2016/07/curso_r_gijon.png#center)
 

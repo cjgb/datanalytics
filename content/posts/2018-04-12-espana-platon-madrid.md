@@ -22,7 +22,7 @@ En total, 11 volúmenes de 250-350 páginas de texto no demasiado prieto.
 
 La distribución provincial de suscriptores fue:
 
-![](/wp-uploads/2018/04/platon_provincias.png)
+![](/wp-uploads/2018/04/platon_provincias.png#center)
 
 Ciertamente curiosa.
 

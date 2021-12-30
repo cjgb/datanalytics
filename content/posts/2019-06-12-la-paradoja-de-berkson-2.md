@@ -13,7 +13,7 @@ tags:
 - redes bayesianas
 ---
 
-![](/wp-uploads/2019/06/bergson_paradox.png)
+![](/wp-uploads/2019/06/bergson_paradox.png#center)
 
 * **a**: eres listo
 * **b**: has _estudiao_

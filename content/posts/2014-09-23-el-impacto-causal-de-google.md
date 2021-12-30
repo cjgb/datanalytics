@@ -35,7 +35,7 @@ El segundo comentario es que tampoco lo que nos trae Google es algo novísimo ba
 
 Que es, observarán mis lectores, muy similar al que ocho años después replantea Google. En la tercera gráfica del artículo, que reproduzco a continuación, los autores muestran cómo han sido capaces de dar con el efecto causal de la ley en cuestión.
 
-[![seatbelt](/wp-uploads/2014/09/seatbelt.png)
-](/wp-uploads/2014/09/seatbelt.png)
+[![seatbelt](/wp-uploads/2014/09/seatbelt.png#center)
+](/wp-uploads/2014/09/seatbelt.png#center)
 
 Salvo que dichos autores se abstuvieron de escribir _causal_ en su artículo. A diferencia de otros...

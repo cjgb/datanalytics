@@ -15,7 +15,7 @@ tags:
 
 Me instan a hablar de
 
-![](/wp-uploads/2017/06/canas_espana.png)
+![](/wp-uploads/2017/06/canas_espana.png#center)
 
 que procede de [aquí](http://cocinillas.elespanol.com/2017/06/cuanto-cuesta-una-cerveza/) y donde se compara el precio de una cerveza en la _plaza mayor_ de las capitales de provincia españolas (a propósito, ¿cuál es la plaza mayor de Zaragoza o Soria?). Dejando el resto (casi todas, de hecho) de las cuestiones de lado, nos centraremos en el gráfico.
 

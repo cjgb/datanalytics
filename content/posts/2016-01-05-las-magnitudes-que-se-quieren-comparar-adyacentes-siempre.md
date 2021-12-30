@@ -14,7 +14,7 @@ tags:
 
 No así hicieron los responsables de
 
-[![tartas_estudios](/wp-uploads/2016/01/tartas_estudios.png)
-](/wp-uploads/2016/01/tartas_estudios.png)
+[![tartas_estudios](/wp-uploads/2016/01/tartas_estudios.png#center)
+](/wp-uploads/2016/01/tartas_estudios.png#center)
 
 Reyes magos, regaladles un libro decente de visualización de datos, ¡por favor!

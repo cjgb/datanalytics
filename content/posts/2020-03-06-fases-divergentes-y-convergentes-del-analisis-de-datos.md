@@ -13,7 +13,7 @@ tags:
 
 [Aquí](https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/) se propone un método para el análisis de datos que resume
 
-![](/wp-uploads/2020/03/double_diamond_data_analysis-1024x724.png)
+![](/wp-uploads/2020/03/double_diamond_data_analysis-1024x724.png#center)
 
 Consta de dos procesos _divergentes_,
 

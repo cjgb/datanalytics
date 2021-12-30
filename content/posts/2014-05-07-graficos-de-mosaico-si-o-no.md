@@ -15,12 +15,12 @@ tags:
 
 Los [gráficos de mosaico](http://en.wikipedia.org/wiki/Mosaic_plot) son cosas parecidas a
 
-[![Mosaic-big](/wp-uploads/2014/05/Mosaic-big.png)
-](/wp-uploads/2014/05/Mosaic-big.png)
+[![Mosaic-big](/wp-uploads/2014/05/Mosaic-big.png#center)
+](/wp-uploads/2014/05/Mosaic-big.png#center)
 
 que sirven para representar tablas bidimensionales (como en el ejemplo anterior) o multidimensionales, como en
-[![mosaic_titanic](/wp-uploads/2014/05/mosaic_titanic.png)
-](/wp-uploads/2014/05/mosaic_titanic.png)
+[![mosaic_titanic](/wp-uploads/2014/05/mosaic_titanic.png#center)
+](/wp-uploads/2014/05/mosaic_titanic.png#center)
 
 Hay más al respecto sobre este tipo de gráficos [aquí](http://www.theusrus.de/blog/understanding-mosaic-plots/).
 

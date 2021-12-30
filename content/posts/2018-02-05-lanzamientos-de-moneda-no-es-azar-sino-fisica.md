@@ -23,7 +23,7 @@ que siempre obtiene caras (o cruces).
 
 El quid de la historia es que existen condiciones iniciales de lanzamiento (velocidad inicial, velocidad angular) _isoresultado_ (donde resultado es cara o cruz). Como en
 
-![](/wp-uploads/2018/02/coin_toss_initial_conditions.png)
+![](/wp-uploads/2018/02/coin_toss_initial_conditions.png#center)
 
 Es decir, si se tira una moneda primero y se obtiene cruz, tirándola otra vez ligeramente más despacio aunque con una rotación ligeramente más rápida (donde ambas velocidades guardan una determinada relación funcional), se vuelve a obtener cruz necesariamente.
 

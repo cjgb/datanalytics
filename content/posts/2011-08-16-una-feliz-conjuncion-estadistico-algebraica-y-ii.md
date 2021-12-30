@@ -61,8 +61,8 @@ y no podría descartarse la hipótesis de independencia.
 Es habitual realizar una representación gráfica de los principales efectos, típicamente los dos primeros. Por ejemplo, el comando `biplot(corresp(a, nf = 2))` produce
 
 
-[![](/wp-uploads/2011/08/biplot_correspondence_analysis.png)
-](/wp-uploads/2011/08/biplot_correspondence_analysis.png)
+[![](/wp-uploads/2011/08/biplot_correspondence_analysis.png#center)
+](/wp-uploads/2011/08/biplot_correspondence_analysis.png#center)
 
 
 

@@ -40,7 +40,7 @@ que vendría a ser un promedio de nuestro modelo anterior con peso $latex x$ y o
 
 Así funciona (y no siempre tan bien como sería deseable) [esto](https://momo.isciii.es/public/momocalor), de donde extraigo
 
-![](/wp-uploads/2019/07/mortalidad_calor.png)
+![](/wp-uploads/2019/07/mortalidad_calor.png#center)
 
 **Nota:** En el gráfico hay algo más, un poco más, que es lo que permite construir intervalos no muy confiables de confianza alrededor del estimador construido más o menos como se indica arriba.
 

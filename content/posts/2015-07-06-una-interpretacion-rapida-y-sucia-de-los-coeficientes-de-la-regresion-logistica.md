@@ -41,8 +41,8 @@ curve(lotgitinvprime, -3, 3,
 
 produce
 
-[![derivada_logistica_inversa](/wp-uploads/2015/07/derivada_logistica_inversa.png)
-](/wp-uploads/2015/07/derivada_logistica_inversa.png)
+[![derivada_logistica_inversa](/wp-uploads/2015/07/derivada_logistica_inversa.png#center)
+](/wp-uploads/2015/07/derivada_logistica_inversa.png#center)
 
 Obviamente, esta variación será menor el _score_ de la observación esté lejos de 0, que es donde está el máximo (de valor .25). Y estará lejos de cero cuando su probabilidad sea extrema: o muy alta o muy baja.
 

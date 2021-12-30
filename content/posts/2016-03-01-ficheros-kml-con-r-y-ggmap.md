@@ -45,6 +45,6 @@ ggmap(mapa) + geom_path(aes(x = X1, y = X2,
 
 produce
 
-![rutas_ciclistas_madrid](/wp-uploads/2016/02/rutas_ciclistas_madrid.png)
+![rutas_ciclistas_madrid](/wp-uploads/2016/02/rutas_ciclistas_madrid.png#center)
 
 Nota: KML es [esto](https://en.wikipedia.org/wiki/Keyhole_Markup_Language).

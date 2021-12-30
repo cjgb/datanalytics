@@ -16,8 +16,8 @@ tags:
 
 Este es el número (por año) de condenados por provocar incendios forestales en España ([según Civio](http://espanaenllamas.es/espana-sigue-en-llamas/)):
 
-[![condenados_incendios](/wp-uploads/2015/08/condenados_incendios.png)
-](/wp-uploads/2015/08/condenados_incendios.png)
+[![condenados_incendios](/wp-uploads/2015/08/condenados_incendios.png#center)
+](/wp-uploads/2015/08/condenados_incendios.png#center)
 
 Según la misma página, en esos años ha habido 223.783 incendios forestales, de los cuales el 55% fue intencionado.
 

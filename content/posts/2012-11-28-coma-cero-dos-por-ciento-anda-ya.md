@@ -23,8 +23,8 @@ que pueden encontrarse en la nota de prensa del INE que resume los resultados de
 
 En efecto, aprovechando que el paquete MicroDatosEs permite cargar fácilmente los microdatos de la EPA, voy a construir gráficos como
 
-[![](/wp-uploads/2012/11/variabilidad_tasa_paro-300x224.png)
-](/wp-uploads/2012/11/variabilidad_tasa_paro.png)
+[![](/wp-uploads/2012/11/variabilidad_tasa_paro-300x224.png#center)
+](/wp-uploads/2012/11/variabilidad_tasa_paro.png#center)
 
 en el que se muestra en qué rangos podría estar variando la tasa de paro recogida por el INE si el azar hubiese hecho que los entrevistados fuesen otros que los unos que eligió finalmente el INE en 1000 universos paralelos idénticos al nuestro salvo por ese pequeño detalle. Los resultados no son escandalosamente distintos de los que con cuatro cifras significativas [reificaron](http://www.datanalytics.com/2010/03/21/la-varianza-y-cifras-macroeconomicas/) los medios pero pone en cuestión nuestra manía por la ultraprecisión.
 

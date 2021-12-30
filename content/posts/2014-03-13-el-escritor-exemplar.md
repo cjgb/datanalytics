@@ -18,8 +18,8 @@ tags:
 
 Eso reza el pie de página de [El escritor exemplar](http://onomateca.com/exemplar.php) un artilugio que a veces crea frases tales como
 
-[![escritor_exemplar](/wp-uploads/2014/03/escritor_exemplar.png)
-](/wp-uploads/2014/03/escritor_exemplar.png)
+[![escritor_exemplar](/wp-uploads/2014/03/escritor_exemplar.png#center)
+](/wp-uploads/2014/03/escritor_exemplar.png#center)
 
 que debieran ser aleatorias, no muy distintas en estilo de las Novelas Ejemplares y, con muchísima suerte, inspiradoras.
 

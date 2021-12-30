@@ -15,8 +15,8 @@ Hoy voy a hablar del portal de la Comunidad R Hispano, [r-es.org](http://r-es.or
 
 Y hacerlo para invitar a todo el mundo a conocerlo, a visitarlo, a participar en él y a mejorarlo.
 
-[![](/wp-uploads/2012/06/comunidad_r_hispano.png)
-](/wp-uploads/2012/06/comunidad_r_hispano.png)
+[![](/wp-uploads/2012/06/comunidad_r_hispano.png#center)
+](/wp-uploads/2012/06/comunidad_r_hispano.png#center)
 
 Porque es posible. [Xavier de Pedro](http://www.linkedin.com/in/xavidp) lo ha diseñado utilizando [Tiki](http://tiki.org/), un gestor documental, que brinda a la comunidad de usuarios la posibilidad, otorga el derecho y, en cierto modo, según se mire, le impone la obligación de enriquecerlo con aportaciones.
 

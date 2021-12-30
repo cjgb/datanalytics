@@ -19,15 +19,15 @@ tags:
 
 Predicciones puntuales:
 
-![](/wp-uploads/2019/05/ctree_que_cuelga.png)
+![](/wp-uploads/2019/05/ctree_que_cuelga.png#center)
 
 O (sub)modelos:
 
-![](/wp-uploads/2014/09/residuos_mob_party.png)
+![](/wp-uploads/2014/09/residuos_mob_party.png#center)
 
 Y parece que ahora también distribuciones:
 
-![](/wp-uploads/2019/05/trtf_que_cuelga.png)
+![](/wp-uploads/2019/05/trtf_que_cuelga.png#center)
 
 **Notas:**
 

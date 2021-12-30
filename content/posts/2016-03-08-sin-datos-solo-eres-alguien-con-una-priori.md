@@ -14,7 +14,7 @@ tags:
 
 Que es una manera de matizar
 
-![sin_datos_deming](/wp-uploads/2016/03/sin_datos_deming.png)
+![sin_datos_deming](/wp-uploads/2016/03/sin_datos_deming.png#center)
 
 Porque, recordemos,
 

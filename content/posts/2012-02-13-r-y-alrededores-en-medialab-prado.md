@@ -15,8 +15,8 @@ tags:
 
 Con retraso —del que mis vacaciones en tierras australes tienen la culpa— doy noticia de la charla que dio Carlos Ortega, antiguo colaborador de esta bitácora, en MediaLab Prado, dentro del [ciclo de periodismo de datos](http://medialab-prado.es/article/sesion_formativa_periodismodatos_analisis_tratamiento_datos).
 
-[![](/wp-uploads/2012/02/presentacion_carlos_ortega.png)
-](/wp-uploads/2012/02/presentacion_carlos_ortega.png)
+[![](/wp-uploads/2012/02/presentacion_carlos_ortega.png#center)
+](/wp-uploads/2012/02/presentacion_carlos_ortega.png#center)
 
 La [presentación ](http://prezi.com/-3jqhcpmyqpq/r-y-alrededores/)que hizo y su [vídeo ](http://medialab-prado.es/article/r_y_larededores)pueden consultarse en línea.
 

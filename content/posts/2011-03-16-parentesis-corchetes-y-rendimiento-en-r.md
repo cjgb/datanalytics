@@ -101,8 +101,8 @@ F-statistic: 140.9 on 3 and 116 DF,  p-value: < 2.2e-16
 
 y el gráfico (¡nunca, nunca, nunca obviéis el gráfico!),
 
-[![](/wp-uploads/2011/03/rendimiento_parentesis_r.png)
-](/wp-uploads/2011/03/rendimiento_parentesis_r.png)
+[![](/wp-uploads/2011/03/rendimiento_parentesis_r.png#center)
+](/wp-uploads/2011/03/rendimiento_parentesis_r.png#center)
 
 Así que:
 

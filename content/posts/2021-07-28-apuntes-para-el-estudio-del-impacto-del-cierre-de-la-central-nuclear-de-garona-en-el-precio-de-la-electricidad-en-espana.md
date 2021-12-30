@@ -22,7 +22,7 @@ Vaya por delante, en mi descargo y como aviso para los que se cansan más de lee
 
 He utilizado los [datos](https://www.omie.es/es/file-access-list?parents%5B0%5D=/&parents%5B1%5D=Mercado%20Diario&parents%5B2%5D=3.%20Curvas&dir=Curvas%20agregadas%20de%20oferta%20y%20demanda%20del%20mercado%20diario&realdir=curva_pbc) correspondientes al día en que escribo, el de Santiago de 2021, que son los que subyacen a estas horribles curvas de demanda ([enlace](https://www.omie.es/es/market-results/daily/daily-market/aggragate-suply-curves?scope=daily&date=2021-07-25&hour=12)) con las que OMIE trata de ---y sin duda, lo logra--- confundirnos:
 
-![](/wp-uploads/2021/07/curvas_demanda_sector_electrico-1024x558.png)
+![](/wp-uploads/2021/07/curvas_demanda_sector_electrico-1024x558.png#center)
 
 _[¿En serio colocan el precio en las ordenadas y la energía en las abscisas? ¿En serio tienen que representar datos alejadísimos de los precios de casación? Quienquiera que haya tomado esas decisiones, necesita un consultor urgentemente.]_
 
@@ -72,7 +72,7 @@ abline(v = max(venta$price[venta$acum < approx(compra$price, compra$acum, venta$
 
 Es decir, generan esto:
 
-![](/wp-uploads/2021/07/curva_oferta_demanda_00.png)
+![](/wp-uploads/2021/07/curva_oferta_demanda_00.png#center)
 
 _[¿A que no se parecen a las de los libros que se enseñan en esas facultades donde los profes enseñan una cosa por la mañana y escriben un artículo en El País por la tarde sosteniendo exactamente lo contrario?]_
 
@@ -90,7 +90,7 @@ abline(v = max(venta$price[venta$acum + 460 < approx(compra$price, compra$acum, 
 
 y obtengo
 
-![](/wp-uploads/2021/07/curva_oferta_demanda_01.png)
+![](/wp-uploads/2021/07/curva_oferta_demanda_01.png#center)
 
 En términos de oferta, Garoña es casi inapreciable (¡un saludo desde aquí a los cuarentones que estén estrenando problemas de visión!) pero la curva de demanda es tan plana, que el impacto sobre el precio mayorista es muy significativo: tres euros.
 

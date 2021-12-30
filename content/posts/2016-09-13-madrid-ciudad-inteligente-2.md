@@ -26,6 +26,6 @@ Las promesas que más risas de payaso triste dan dos años después son las que 
 
 El ciudadano, armado de un móvil con cámara y _empoderado_ con una [aplicación móvil estupenda](https://play.google.com/store/apps/details?id=com.iam.lineaMadrid) iba a ser coprotagonista de esta revolución inteligente. La realidad se parece un poco más a
 
-![linea_madrid_opiniones](/wp-uploads/2016/09/linea_madrid_opiniones.png)
+![linea_madrid_opiniones](/wp-uploads/2016/09/linea_madrid_opiniones.png#center)
 
 Fueron 14 millones de euros, unos cuatro por madrileño, los que costó MiNT. No es mucho para un experimento, pero demasiado si no nos sirve para aprender a desconfiar cuando un tipo con corbata abra la boca para decir _smart city_.

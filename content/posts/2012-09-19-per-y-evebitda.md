@@ -19,8 +19,8 @@ El PER es el cociente entre la capitalización bursátil de una empresa (que es 
 
 Hoy traigo a colación otra desventaja quizás menos conocida: que el PER está muy influenciado por la estructura de capital de las empresas. Por ello no es un indicador adecuado para, sin más, realizar comparaciones. En efecto, de [McKinsey Quarterly](http://microcapclub.com/wp-content/uploads/2012/05/Whybadmultiples.pdf) extraigo el siguiente diagrama:
 
-[![](/wp-uploads/2012/09/per.png)
-](/wp-uploads/2012/09/per.png)
+[![](/wp-uploads/2012/09/per.png#center)
+](/wp-uploads/2012/09/per.png#center)
 
 En él se comparan dos empresas imaginarias _similares_, que solo se diferencian en su estructura de capital: la una tiene una deuda sustancial y la otra no.
 

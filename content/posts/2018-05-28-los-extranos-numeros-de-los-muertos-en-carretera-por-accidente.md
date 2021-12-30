@@ -19,7 +19,7 @@ tags:
 
 Escribo esta entrada con cierta prevención porque soy consciente de que dan pábulo a determinadas teorías conspiranoicas de las que soy declarado enemigo. Pero es que los números de muertos en carretera por accidente en España en los últimos años,
 
-![](/wp-uploads/2018/05/muertos_carretera.png)
+![](/wp-uploads/2018/05/muertos_carretera.png#center)
 
 (extraídos de [aquí](http://www.dgt.es/Galerias/prensa/2018/01/Presentacion-balance-siniestralidad-2017-completo..pdf)) dan que pensar: la varianza de las observaciones correspondientes a los años 2013, 2014 y 2015 es muy baja, demasiado baja. Al menos, si se da como bueno un modelo de Poisson para modelar esos conteos.
 

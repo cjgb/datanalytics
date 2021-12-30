@@ -37,8 +37,8 @@ qqline(alturas$altura, distribution = qnorm, col = "red")
 
 produce
 
-[![qqnorm_alturas](/wp-uploads/2015/07/qqnorm_alturas.png)
-](/wp-uploads/2015/07/qqnorm_alturas.png)
+[![qqnorm_alturas](/wp-uploads/2015/07/qqnorm_alturas.png#center)
+](/wp-uploads/2015/07/qqnorm_alturas.png#center)
 
 donde, efectivamente, constatamos la normalidad de los datos con una pequeña salvedad: que hay individuos más bajos de lo esperado. Eso resta a nuestro argumento, pero no mucho. Diríase que son individuos afectados por un único efecto (¿genético?) poderoso que viola el principio de la suma de pequeños efectos independientes de más arriba.
 
@@ -52,8 +52,8 @@ ggplot(alturas, aes(x = altura, fill = sexo)) +
 
 obtenemos
 
-[![alturas_sexo](/wp-uploads/2015/07/alturas_sexo.png)
-](/wp-uploads/2015/07/alturas_sexo.png)
+[![alturas_sexo](/wp-uploads/2015/07/alturas_sexo.png#center)
+](/wp-uploads/2015/07/alturas_sexo.png#center)
 
 y advertimos dos cosas. La primera es que algunos datos de altura están anotados _a ojo_: los picos que se aprecian corresponden a alturas redondeadas a la decena más próxima. Pero también que lo que creíamos una única distribución normal es, en realidad, la mezcla de dos: la de la alturas de los hombres y la de las mujeres.
 

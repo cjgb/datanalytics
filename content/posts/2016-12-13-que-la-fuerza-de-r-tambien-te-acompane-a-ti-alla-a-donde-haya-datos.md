@@ -15,7 +15,7 @@ tags:
 
 La fuerza de R siepre me acompaña allá donde tengo datos. De ello da fe la siguiente captura de pantalla de mi móvil:
 
-![](/wp-uploads/2016/12/teleR_messenger.png)
+![](/wp-uploads/2016/12/teleR_messenger.png#center)
 
 Si quieres que también te acompañe a ti:
 

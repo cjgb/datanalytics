@@ -17,6 +17,6 @@ Se atribuye a Neyman (y particular por su artículo de 1935 [On the Problem of C
 
 Lo interesante del tema es que, contrariamente a las [reinterpretaciones posteriores](https://www.datanalytics.com/2020/02/18/la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95/), los define tal y como se le ocurrirían a un lego medianamente inteligente:
 
-![](/wp-uploads/2020/10/neyman_intervalo_confianza_1.png)
+![](/wp-uploads/2020/10/neyman_intervalo_confianza_1.png#center)
 
-![](/wp-uploads/2020/10/neyman_intervalo_confianza_2.png)
+![](/wp-uploads/2020/10/neyman_intervalo_confianza_2.png#center)

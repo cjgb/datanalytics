@@ -19,6 +19,6 @@ Además, ¿qué es lo que vale casi 100 dólares? ¡Un barril! ¿Y qué carajos 
 
 Lo que voy a hacer en esta entrada es enmendarles la plana a los periodistas perezosos que copian y pegan de la prensa extranjera y maltraducen los comentarios concomitantes y mostrar dos parejas de series temporales. La primera es intermedia: la de los precios del barril de petróleo en euros y dólares:
 
-[![](/wp-uploads/2011/01/barril.png)
-](/wp-uploads/2011/01/barril.png)La segunda es una homotecia de la anterior: el precio en dólares y euros de un litro de petróleo:[![](/wp-uploads/2011/01/litro.png)
-](/wp-uploads/2011/01/litro.png) Los [precios](http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=M) han subido, pero no tan dramáticamente como en la otra orilla del nunca suficientemente ancho océano. Además, habida cuenta de que [de un litro de petróleo se genera, aproximadamente, un litro de productos destilados](http://www.eia.doe.gov/kids/energy.cfm?page=oil_home-basics) (y, en particular, 0,75 litros de gasolina y gasóil), los lectores del blog podrán extraer más significativas conclusiones acerca de lo que ocurre a pie de surtidor.
+[![](/wp-uploads/2011/01/barril.png#center)
+](/wp-uploads/2011/01/barril.png#center)La segunda es una homotecia de la anterior: el precio en dólares y euros de un litro de petróleo:[![](/wp-uploads/2011/01/litro.png#center)
+](/wp-uploads/2011/01/litro.png#center) Los [precios](http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=M) han subido, pero no tan dramáticamente como en la otra orilla del nunca suficientemente ancho océano. Además, habida cuenta de que [de un litro de petróleo se genera, aproximadamente, un litro de productos destilados](http://www.eia.doe.gov/kids/energy.cfm?page=oil_home-basics) (y, en particular, 0,75 litros de gasolina y gasóil), los lectores del blog podrán extraer más significativas conclusiones acerca de lo que ocurre a pie de surtidor.

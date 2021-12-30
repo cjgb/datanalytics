@@ -18,7 +18,7 @@ Sigo con ajustes robustos. Y cosas que como matemático, me ponen muy nervioso.
 
 Una de las maneras de hacer ajustes robustos es la de sustituir la función cuadrática por la _biweight_. Es decir, utilizar la función que aparece la derecha en
 
-![](/wp-uploads/2020/03/biweight.png)
+![](/wp-uploads/2020/03/biweight.png#center)
 
 en lugar de la de la izquierda. O, dicho de otra manera, en lugar de tratar de minimizar
 

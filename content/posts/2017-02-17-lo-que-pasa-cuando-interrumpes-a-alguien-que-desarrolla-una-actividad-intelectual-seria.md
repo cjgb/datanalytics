@@ -13,7 +13,7 @@ tags:
 - computing
 ---
 
-![](/wp-uploads/2017/02/ProgrammerInterrupted.png)
+![](/wp-uploads/2017/02/ProgrammerInterrupted.png#center)
 
 
 ¿Quién demonios inventó esos espacios de trabajo diáfanos?

@@ -35,8 +35,8 @@ plot(sort(replicate(1000, foo())))
 
 Que gráficamente, para los perezosos, tiene esta pinta:
 
-[![](/wp-uploads/2012/08/p_values.png)
-](/wp-uploads/2012/08/p_values.png)
+[![](/wp-uploads/2012/08/p_values.png#center)
+](/wp-uploads/2012/08/p_values.png#center)
 
 Este gráfico pone de manifiesto que los p-valores obtenidos siguen una ley uniforme (en [0,1]) tal y como cabe esperar de la teoría. Porque el p-valor no es otra cosa que $latex F^{-1}(X)$ donde en este caso, bajo la hipótesis nula, $latex X$ tiene la distribución dada por $latex F$.
 

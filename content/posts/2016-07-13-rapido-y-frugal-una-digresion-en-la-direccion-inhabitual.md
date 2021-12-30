@@ -18,7 +18,7 @@ Siempre (aténganse los puristas al contexto) recomiendo comenzar con un árbol 
 
 En la dirección opuesta se sitúan los árboles _rápidos y frugales_. Un árbol rápido y frugal es un tipo de árbol de decisión tal como
 
-![fast_frugal_tree](/wp-uploads/2016/07/fast_frugal_tree.png)
+![fast_frugal_tree](/wp-uploads/2016/07/fast_frugal_tree.png#center)
 
 La restricción que satisface (a diferencia de los árboles de decisión más habituales) es que:
 

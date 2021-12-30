@@ -41,8 +41,8 @@ Así que he acudido a [tal página](http://www.meh.es/es-ES/Estadistica%20e%20In
 
 
 
-[![](/wp-uploads/2010/12/datos_avance.png)
-](/wp-uploads/2010/12/datos_avance.png)
+[![](/wp-uploads/2010/12/datos_avance.png#center)
+](/wp-uploads/2010/12/datos_avance.png#center)
 
 
 ¡El último ejercicio disponible es el 2008! Además, tendremos datos de _avance_ del 2009... ¡en el primer trimestre del 2011!

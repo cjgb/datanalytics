@@ -45,7 +45,7 @@ ggplot(dat, aes(x = Periodo, y = ambos)) +
 
 para obtener
 
-![](/wp-uploads/2018/07/suicidios_espana.png)
+![](/wp-uploads/2018/07/suicidios_espana.png#center)
 
 Porque me gusta, puedo y sé, abundo (con la descomposición en tendencia, estacionalidad mensual y residuo):
 
@@ -55,7 +55,7 @@ descomposicion <- stl(tmp, s.window = "periodic")
 plot(descomposicion)
 {{< / highlight >}}
 
-![](/wp-uploads/2018/07/suicidios_espana_descomposicion.png)
+![](/wp-uploads/2018/07/suicidios_espana_descomposicion.png#center)
 
 
 Una de las cosas que nos enseña esta descoposición es que los suicidios tienden a ser más frecuentes en verano, con máximo en el mes que corre.
@@ -69,13 +69,13 @@ Un análisis hipersuperficial, sin tener en cuenta la distribución por edad de 
     plot(res)
 {{< / highlight >}}
 
-![](/wp-uploads/2018/07/suicidios_espana_cambio_regimen.png)
+![](/wp-uploads/2018/07/suicidios_espana_cambio_regimen.png#center)
 
 ¡Uaaaaahhhhhhh! ¡La fea cara del _austericidio_, reflejada en el gráfico! En promedio, unos 33 suicidios más por mes a partir del 2012, casi 400 al año. Un efecto mil veces menor que el especulado por los autores, más suficiente como para mantener en alto el pendón de la sociología normativa: causas tan horribles como la austeridad merecen sin duda efectos atroces.
 
 De todos modos, de esos 400, 200 como poco se explican fácil. Basta con reproducir aquí el [inverosímil gráfico de la evolución de los suicidios en la villa de Madrid](https://www.datanalytics.com/2015/12/03/el-curioso-caso-de-los-suicidios-en-la-villa-de-madrid/),
 
-![](/wp-uploads/2015/12/suicidios_municipio_madrid.png)
+![](/wp-uploads/2015/12/suicidios_municipio_madrid.png#center)
 
 (Ay, INE, INE... ¡qué cosas publicas!)
 

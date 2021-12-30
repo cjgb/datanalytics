@@ -22,23 +22,23 @@ Sin embargo, ¿cómo hacerlo con Excel? No es tan complicado, aunque infinitamen
 
 Tan fácil como parece, implementarlo en Excel es poco menos que una tortura. Partiendo de una matriz de covarianzas A1:C3,
 
-[![](/wp-uploads/2010/11/excel_covarianzas_1.png)
-](/wp-uploads/2010/11/excel_covarianzas_1.png)
+[![](/wp-uploads/2010/11/excel_covarianzas_1.png#center)
+](/wp-uploads/2010/11/excel_covarianzas_1.png#center)
 
 creamos una matriz adjunta de acuerdo con la fórmula que aparece en el gráfico:
 
-[![](/wp-uploads/2010/11/excel_covarianzas_2.png)
-](/wp-uploads/2010/11/excel_covarianzas_2.png)
+[![](/wp-uploads/2010/11/excel_covarianzas_2.png#center)
+](/wp-uploads/2010/11/excel_covarianzas_2.png#center)
 
 Copiamos la nueva matriz y la pegamos trasponiendo los datos:
 
-[![](/wp-uploads/2010/11/excel_covarianzas_3.png)
-](/wp-uploads/2010/11/excel_covarianzas_3.png)
+[![](/wp-uploads/2010/11/excel_covarianzas_3.png#center)
+](/wp-uploads/2010/11/excel_covarianzas_3.png#center)
 
 Finalmente, multiplicamos las tres matrices de acuerdo con la fórmula que aparece en el gráfico:
 
-[![](/wp-uploads/2010/11/excel_covarianzas_4.png)
-](/wp-uploads/2010/11/excel_covarianzas_4.png)
+[![](/wp-uploads/2010/11/excel_covarianzas_4.png#center)
+](/wp-uploads/2010/11/excel_covarianzas_4.png#center)
 
 Quien haya seguido estas instrucciones habrá aprendido dos cosas:
 

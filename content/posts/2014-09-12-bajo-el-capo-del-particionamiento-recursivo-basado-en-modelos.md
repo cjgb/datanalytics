@@ -83,8 +83,8 @@ par(mfrow=c(1,1))
 
 genera
 
-[![residuos_mob](/wp-uploads/2014/09/residuos_mob.png)
-](/wp-uploads/2014/09/residuos_mob.png)
+[![residuos_mob](/wp-uploads/2014/09/residuos_mob.png#center)
+](/wp-uploads/2014/09/residuos_mob.png#center)
 
 En ninguno de los gráficos de la primera fila (residuos contra predicción y variable explicativa) se aprecian artefactos. Tampoco en el de la esquina inferior derecha (residuos contra una variable que, por construcción, es independiente de `y`). Sin embargo, al ordenar los residuos según la variable `x2`, se aprecia una irregularidad. En efecto, el intercepto cambia según `x2>0` o no.
 
@@ -95,8 +95,8 @@ library(party)
 plot(mob(y ~ x1 | x2 + x3))
 {{< / highlight >}}
 
-[![residuos_mob_party](/wp-uploads/2014/09/residuos_mob_party.png)
-](/wp-uploads/2014/09/residuos_mob_party.png)
+[![residuos_mob_party](/wp-uploads/2014/09/residuos_mob_party.png#center)
+](/wp-uploads/2014/09/residuos_mob_party.png#center)
 
 En efecto, `mob` ha detectado el _cambio estructural_.
 

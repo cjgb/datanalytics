@@ -16,7 +16,7 @@ Usé a principios del verano una metáfora matemática como justificación de lo
 
 La metáfora está basada en el siguiente hecho: en dimensiones altas, casi toda la esfera unidad está a distancia ? de su corteza. En efecto, el volumen de una esfera de radio unitario en dimensión $latex d$ es $latex K_d$ y la de una esfera de radio $latex 1-\epsilon$ es $latex K_d (1-\epsilon)^d$. El ratio entre ambas cantidades es $latex (1-\epsilon)^{-d}$, que tiende a cero con $latex d$.
 
-![](/wp-uploads/2017/09/esfera.png)
+![](/wp-uploads/2017/09/esfera.png#center)
 
 Si damos por bueno que el conocimiento es (altamente) multidimensional y representamos lo que merece ser sabido como el contenido de la esfera unidad, basta con no saber demasiado, $latex K_d (1-\epsilon)^d$ (aunque debidamente elegido) para estar a un $latex \epsilon$ (una consulta a StackOverflow, una búsqueda en Google, una lectura diagonal sobre el capítulo de un libro adecuado) de todo.
 

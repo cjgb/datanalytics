@@ -16,7 +16,7 @@ tags:
 
 Dada una configuración de puntos tal como
 
-![](/wp-uploads/2017/03/whiteside_gas.png)
+![](/wp-uploads/2017/03/whiteside_gas.png#center)
 
 puede pensarse que existen dos grupos (_clústers_ los llaman casi todos menos el _neotroll_ de estas páginas y algún otro purista) de puntos organizados alrededor de unas rectas que se adivinan.
 
@@ -44,7 +44,7 @@ Pero tenemos una heurística a mano consistente en:
 
 Todo lo anterior hasta que no haya más reasignaciones. El siguiente gráfico ilustra patosamente los pasos anteriores:
 
-![](/wp-uploads/2017/03/whiteside_em.png)
+![](/wp-uploads/2017/03/whiteside_em.png#center)
 
 Notas varias:
 

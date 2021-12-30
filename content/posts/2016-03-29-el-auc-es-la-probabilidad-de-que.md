@@ -51,7 +51,7 @@ ggplot(res, aes(x=prob, fill=real)) +
 
 representa así:
 
-![predicciones_gam](/wp-uploads/2016/03/predicciones_gam.png)
+![predicciones_gam](/wp-uploads/2016/03/predicciones_gam.png#center)
 
 
 Me pregunto si el clasificador construido es _bueno_. Para lo cual voy a construir la curva ROC con
@@ -69,7 +69,7 @@ plot(q.si, q.no, type = "l")
 
 que produce
 
-![gam_curva_roc](/wp-uploads/2016/03/gam_curva_roc.png)
+![gam_curva_roc](/wp-uploads/2016/03/gam_curva_roc.png#center)
 
 (Inciso: la anterior no es la curva ROC; la curva ROC tal cual la conocen casi todos es `plot(1-q.no, 1-q.si, type = "l")`, que es una versión simétrica de la mía).
 

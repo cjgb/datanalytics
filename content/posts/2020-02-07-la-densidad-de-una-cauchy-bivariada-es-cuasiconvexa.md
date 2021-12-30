@@ -24,7 +24,7 @@ tmp$z <- log(dcauchy(tmp$x) * dcauchy(tmp$y))
 ggplot(tmp, aes(x = x, y = y, z = z)) + stat_contour()
 {{< / highlight >}}
 
-![](/wp-uploads/2020/02/curvas_nivel_cauchy.png)
+![](/wp-uploads/2020/02/curvas_nivel_cauchy.png#center)
 
 Lo de la cuasiconvexidad está contado [aquí](https://en.wikipedia.org/wiki/Quasiconvex_function).
 

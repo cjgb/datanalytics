@@ -42,7 +42,7 @@ Entonces, ¿por qué la suficiencia? Escuchemos (leamos) lo que Fisher tiene a b
 
 
 
-![](/wp-uploads/2021/10/image.png)
+![](/wp-uploads/2021/10/image.png#center)
 
 
 
@@ -59,7 +59,7 @@ Obviamente, discrepo —aunque dejo la crítica para otra ocasión—, pero se l
 
 
 
-![](/wp-uploads/2021/10/image-1.png)
+![](/wp-uploads/2021/10/image-1.png#center)
 
 
 
@@ -92,7 +92,7 @@ Pero también menciona otro criterio, el de la suficiencia:
 
 
 
-![](/wp-uploads/2021/10/image-2.png)
+![](/wp-uploads/2021/10/image-2.png#center)
 
 
 

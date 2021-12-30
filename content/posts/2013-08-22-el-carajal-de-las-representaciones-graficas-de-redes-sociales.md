@@ -14,7 +14,7 @@ tags:
 
 Seamos honestos: en representaciones gráficas de grafos similares a
 
-![](/wp-uploads/2013/08/grafo.png)
+![](/wp-uploads/2013/08/grafo.png#center)
 
 no vemos/entendemos un carajo. Al menos yo.
 

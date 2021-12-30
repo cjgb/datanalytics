@@ -14,15 +14,15 @@ tags:
 
 Tienes una función de supervivencia
 
-![](/wp-uploads/2020/05/hazard_00.png)
+![](/wp-uploads/2020/05/hazard_00.png#center)
 
 y piensas que es posible aproximarla usando segmentos de exponencial usando primero una _rejilla gruesa_,
 
-![](/wp-uploads/2020/05/hazard_01.png)
+![](/wp-uploads/2020/05/hazard_01.png#center)
 
 y luego cada vez más fina,
 
-![](/wp-uploads/2020/05/hazard_02.png)
+![](/wp-uploads/2020/05/hazard_02.png#center)
 
 hasta que sean _indistinguibles_.
 

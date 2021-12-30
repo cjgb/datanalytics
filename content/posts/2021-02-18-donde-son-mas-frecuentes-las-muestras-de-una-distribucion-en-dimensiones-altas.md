@@ -26,7 +26,7 @@ hist(abs(rnorm(10000)), breaks = 100,
     main = "distribución de la distancia al centro")
 {{< / highlight >}}
 
-![](/wp-uploads/2021/02/typical_set_n_1.png)
+![](/wp-uploads/2021/02/typical_set_n_1.png#center)
 
 Pero en dimensiones más altas (p.e., 10), la cosa cambia:
 
@@ -40,7 +40,7 @@ hist(distancias, breaks = 100,
      main = "distribución de la distancia al centro")
 {{< / highlight >}}
 
-![](/wp-uploads/2021/02/typical_set_n_10.png)
+![](/wp-uploads/2021/02/typical_set_n_10.png#center)
 
 Lo más frecuente es obtener observaciones ya no próximas al centro sino en un anillo alrededor de él y a cierta distancia del mismo. El centro sigue siendo el punto más probable, la moda, pero es demasiado chiquito para contener un porcentaje significativo de la muestra. Muy lejos, hay mucho espacio; pero tiene una probabilidad ínfima. El grueso de las observaciones hay que buscarlo en un anillo alrededor del centro.
 

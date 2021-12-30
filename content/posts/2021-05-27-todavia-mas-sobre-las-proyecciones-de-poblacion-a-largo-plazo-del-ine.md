@@ -24,7 +24,7 @@ y otros del mismo cariz que pueden encontrarse en el documento [España 2050](ht
 
 Así que he tomado las proyecciones a largo plazo de población que realiza el INE cada par de años y he construido el siguiente gráfico:
 
-![](/wp-uploads/2021/05/proyecciones_poblacion_ine_2014_20-1-1024x439.png)
+![](/wp-uploads/2021/05/proyecciones_poblacion_ine_2014_20-1-1024x439.png#center)
 
 En particular, ¿habéis visto la diferencia entre la población en 2020 y su predicción en 2014?
 

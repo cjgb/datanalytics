@@ -14,8 +14,8 @@ tags:
 
 Más evidencias sobre la emergencia de R: ha entrado en el [_top 20_ de lenguajes de programación](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html) elaborado por [Tiobe](http://www.tiobe.com) por primera vez en enero de 2012:
 
-[![](/wp-uploads/2012/01/top_20_tiobe.png)
-](/wp-uploads/2012/01/top_20_tiobe.png)
+[![](/wp-uploads/2012/01/top_20_tiobe.png#center)
+](/wp-uploads/2012/01/top_20_tiobe.png#center)
 
 La lista, según avisa el mismo Tiobe, no es _científica_: se basa en un índice de popularidad elaborado a partir de información de ofertas laborales, buscadores de internet, etc.
 

@@ -16,7 +16,7 @@ El otro día apareció una noticia en El País sobre los funcionarios en España
 
 Como me resultaron curiosos los datos relativos a nuestros vecinos, me entretuve en sacarles algo de punta. Así que fui a la Wikipedia y asocié a cada país su [renta per cápita PPA](http://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_PIB_%28PPA%29_per_c%C3%A1pita) (son datos del 2008, creo) y obtuve esto:
 
-[![Funcionarios en Europa según PPA](/wp-uploads/2010/05/funcionarios_ppa.png)
-](/wp-uploads/2010/05/funcionarios_ppa.png)
+[![Funcionarios en Europa según PPA](/wp-uploads/2010/05/funcionarios_ppa.png#center)
+](/wp-uploads/2010/05/funcionarios_ppa.png#center)
 
 Por respeto a la sagacidad de mis lectores (por ser lectores y míos los entiendo bien armados intelectualmente) me abstengo de realizar comentarios.

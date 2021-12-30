@@ -61,12 +61,12 @@ Sus dos primeros parámetros son vectores de longitud igual a la del número de 
 Se puede ver cómo ha ido convergiendo el proceso de minimización:
 
 
-[![](/wp-uploads/2010/06/minimizacion.png)
-](/wp-uploads/2010/06/minimizacion.png)
+[![](/wp-uploads/2010/06/minimizacion.png#center)
+](/wp-uploads/2010/06/minimizacion.png#center)
 
 
 Y después, finalmente, ver gráficamente los resultados:
 
 
-[![](/wp-uploads/2010/06/resultados.png)
-](/wp-uploads/2010/06/resultados.png)
+[![](/wp-uploads/2010/06/resultados.png#center)
+](/wp-uploads/2010/06/resultados.png#center)

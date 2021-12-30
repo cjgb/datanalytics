@@ -23,7 +23,7 @@ Yo, normativista a ultranza en todo lo que no implique madrugar, voy a ponerme e
 
 En efecto, como dice Elena en el artículo, han sido otras las tildes que han ido cayéndose en el pasado: _á_, _fé_, _fué_, etc. Y [aquí tenéis lo que pasó con _á_](https://books.google.com/ngrams/graph?content=%C3%A1%2Ca&year_start=1900&year_end=1930&corpus=21&smoothing=2&share=&direct_url=t1%3B%2C%C3%A1%3B%2Cc0%3B.t1%3B%2Ca%3B%2Cc0):
 
-![](/wp-uploads/2017/02/rae_a_tilde.png)
+![](/wp-uploads/2017/02/rae_a_tilde.png#center)
 
 Buscad otras parejas con y sin la tilde _demodé_ y veréis más gráficos de tenaza como el anterior.
 

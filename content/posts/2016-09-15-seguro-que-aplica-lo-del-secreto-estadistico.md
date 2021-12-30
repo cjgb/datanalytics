@@ -15,7 +15,7 @@ tags:
 
 En la nota de prensa de la estadística de transporte de viajeros del INE de julio de 2016 (no la enlazo porque, entiendo, las notas de prensa van siendo reemplazadas en su portal) aparece la tabla
 
-![transporte_viajeros](/wp-uploads/2016/09/transporte_viajeros.png)
+![transporte_viajeros](/wp-uploads/2016/09/transporte_viajeros.png#center)
 
 en la que el lector podrá encontrar valores ocultos con un puntero a la nota al pie. Que dice:
 

@@ -14,8 +14,8 @@ tags:
 De un [blog cuya lectura recomiendo](http://www.fedeablogs.net/economia/?p=9207), extraigo este gráfico:
 
 
-[![](/wp-uploads/2011/02/fig1b.png)
-](/wp-uploads/2011/02/fig1b.png)
+[![](/wp-uploads/2011/02/fig1b.png#center)
+](/wp-uploads/2011/02/fig1b.png#center)
 
 
 Se trata de la llamada [curva de Beveridge](http://en.wikipedia.org/wiki/Beveridge_curve) para España, que relaciona la tasa de paro con la de [puestos de trabajo vacantes](http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Glossary:Job_vacancy_rate).

@@ -45,7 +45,7 @@ plot(res)
 
 genera
 
-![cauchy_mean_max](/wp-uploads/2016/06/cauchy_mean_max.png)
+![cauchy_mean_max](/wp-uploads/2016/06/cauchy_mean_max.png#center)
 
 que muestra la dependencia existente en este caso entre la media y el mayor de los valores de la muestra. Dicho de otra manera, la influencia de esta mayor observación en la media muestral.
 

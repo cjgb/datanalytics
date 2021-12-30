@@ -22,7 +22,7 @@ tags:
 
 pinta una rama de hipérbola,
 
-![](/wp-uploads/2017/10/hiperbola.png)
+![](/wp-uploads/2017/10/hiperbola.png#center)
 
 que, una vez exponenciada, i.e.,
 
@@ -32,7 +32,7 @@ que, una vez exponenciada, i.e.,
 
 da
 
-![](/wp-uploads/2017/10/distr_hiperbolica.png)
+![](/wp-uploads/2017/10/distr_hiperbolica.png#center)
 
 
 Es decir, una curva algo menos esbelta que la normal pero que bien podemos dividir por su integral para obtener la llamada [distribución hiperbólica](https://en.wikipedia.org/wiki/Hyperbolic_distribution).

@@ -21,7 +21,7 @@ En el primer número de la novísima revista _[Spanish Journal of Statistics](ht
 
 Es decir, un artículo que nos puede permitir, por ejemplo, muestrear lo que la AEAT llama _rendimientos_ a partir de lo que publica ([aquí](https://www.agenciatributaria.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpf/2015/jrubik1afd6604dcf480f6a17a64bbd6945c9c007a460e.html)):
 
-![](/wp-uploads/2020/09/Screenshot-from-2020-09-09-13-50-00.png)
+![](/wp-uploads/2020/09/Screenshot-from-2020-09-09-13-50-00.png#center)
 
 Uno de los métodos de los que sostienen el ignominioso _a mí me funciona_ está basado en el modelo
 
@@ -51,7 +51,7 @@ hist(muestra, breaks = 40)
 
 que da algo así como
 
-![](/wp-uploads/2020/09/distribucion_renta.png)
+![](/wp-uploads/2020/09/distribucion_renta.png#center)
 
 Comparar los cuantiles de la nueva distribución con los originales es ejercicio que queda propuesto al lector.
 

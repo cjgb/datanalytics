@@ -26,7 +26,7 @@ Y no hay manera.
 
 Esta es la distribución de las variaciones diarias de las cifras de muertos en MoMo aun sin coronavirus:
 
-![](/wp-uploads/2020/05/variaciones_diarias.png)
+![](/wp-uploads/2020/05/variaciones_diarias.png#center)
 
 De un día para otro puedes encontrar variaciones de esa magnitud a nivel nacional por motivos puramente causales. Tanta es la variabilidad que el accidente del metro de Valencia de 2006 ni se notaría. El del Spanair de 2008, a costa de un cuarto de dioptría. Etc.
 

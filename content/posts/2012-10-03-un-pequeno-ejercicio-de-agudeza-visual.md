@@ -17,8 +17,8 @@ tags:
 
 Consiste en echarle un vistazo a
 
-[![](/wp-uploads/2012/10/verdadero_falso.png)
-](/wp-uploads/2012/10/verdadero_falso.png)
+[![](/wp-uploads/2012/10/verdadero_falso.png#center)
+](/wp-uploads/2012/10/verdadero_falso.png#center)
 
 y pensar si hay relación entre las variables x e y que aparecen en el gráfico.
 

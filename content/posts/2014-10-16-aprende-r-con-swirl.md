@@ -15,8 +15,8 @@ tags:
 
 Me pasó el otro día [Federico Castanedo](https://twitter.com/overfit) un enlace a [`swirl`](http://swirlstats.com/) que quiero compartir con mis lectores y, en particular, aquellos que quieren aprender (¡o enseñar!) R.
 
-[![swirl_new_large_final](/wp-uploads/2014/10/swirl_new_large_final1.png)
-](/wp-uploads/2014/10/swirl_new_large_final1.png)
+[![swirl_new_large_final](/wp-uploads/2014/10/swirl_new_large_final1.png#center)
+](/wp-uploads/2014/10/swirl_new_large_final1.png#center)
 
 ¿Cómo funciona? Sencillo:
 

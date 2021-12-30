@@ -21,8 +21,8 @@ El uso de tartas para visualizar fracciones está sancionado ([acepción segunda
 Pero es de notar que su uso es casi anecdótico en publicaciones científicas. Y hay sobradas razones para ello. Unas son sicológicas y tienen que ver con la inhabilidad con que el ojo percibe y compara ángulos y áreas. El siguiente gráfico, [extraído de la Wikipedia](http://en.wikipedia.org/wiki/Pie_chart#Use.2C_effectiveness_and_visual_perception), ilustra el fenómeno sin necesidad de más palabras:
 
 
-[![](/wp-uploads/2011/02/Piecharts.png)
-](/wp-uploads/2011/02/Piecharts.png)
+[![](/wp-uploads/2011/02/Piecharts.png#center)
+](/wp-uploads/2011/02/Piecharts.png#center)
 
 
 La Wikipedia añade (mi traducción):

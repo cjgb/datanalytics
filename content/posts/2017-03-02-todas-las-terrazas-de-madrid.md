@@ -15,7 +15,7 @@ tags:
 - terrazas
 ---
 
-![](/wp-uploads/2017/03/terrazas_madrid.png)
+![](/wp-uploads/2017/03/terrazas_madrid.png#center)
 
 es un mapa en el que, en rojo, figuran _todas_ (véase la coda) las terrazas de Madrid. Los datos están extraídos del [censo de locales, sus actividades y terrazas de hostelería y restauración](http://datos.madrid.es/sites/v/index.jsp?vgnextoid=66665cde99be2410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD) del ayuntamiento y están procesados con
 

@@ -18,7 +18,7 @@ _[El título de esta entrada tiene un + delante porque ya escribí sobre el asun
 
 Con la excusa de la reciente publicación del paquete [`ivreg`](https://CRAN.R-project.org/package=ivreg) (para el ajuste de modelos con variables instrumentales, por si el contexto no lo hace evidente),  he mirado a ver quién estaba construyendo y ajustando modelos generativos menos triviales que los míos (véase el enlace anterior) para que quede más claro de qué va la cosa. Porque la explicación típica, que adopta formas no muy distintas de
 
-![](/wp-uploads/2020/09/iv_j_fox.png)
+![](/wp-uploads/2020/09/iv_j_fox.png#center)
 
 no nos dicen mucho a casi nadie.
 

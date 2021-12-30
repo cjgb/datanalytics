@@ -29,8 +29,8 @@ Viene esto al siguiente párrafo (con mi subrayado):
 
 Que puede consultarse en la página dedicada a _[Víctimas mortales por violencia de género](http://www.ine.es/ss/Satellite?L=es_ES&c=INESeccion_C&cid=1259926144037&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout&param3=1259924822888)_ del INE. Por si cambiase el enlace, se accede a dicha página navegando a la sección _Delito y Violencia_ de la publicación gratuita _Hombres y mujeres en España_. La serie temporal que lo acompaña es:
 
-[![](/wp-uploads/2012/03/victimas_violencia_genero.png)
-](/wp-uploads/2012/03/victimas_violencia_genero.png)
+[![](/wp-uploads/2012/03/victimas_violencia_genero.png#center)
+](/wp-uploads/2012/03/victimas_violencia_genero.png#center)
 
 Y los datos correspondientes, `dat <- c(63, 50, 54, 71, 72, 57, 68, 71, 76, 55, 73)`.
 

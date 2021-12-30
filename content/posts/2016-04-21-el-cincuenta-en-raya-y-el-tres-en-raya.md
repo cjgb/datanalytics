@@ -15,7 +15,7 @@ tags:
 
 Supongo que todos conocéis el [tres en raya](https://es.wikipedia.org/wiki/Tres_en_l%C3%ADnea). El cincuenta en (casi) raya, sin embargo, es esto:
 
-![cincuenta_en_raya](/wp-uploads/2016/04/cincuenta_en_raya.png)
+![cincuenta_en_raya](/wp-uploads/2016/04/cincuenta_en_raya.png#center)
 
 Hay dos variables, (pluviosidad y ratio hombres/mujeres) y los cincuenta punticos casi en raya corresponden a los estados de EE.UU.
 
@@ -25,6 +25,6 @@ Hay dos variables, (pluviosidad y ratio hombres/mujeres) y los cincuenta puntico
 
 Gráficamente,
 
-![tres_en_raya](/wp-uploads/2016/04/tres_en_raya.png)
+![tres_en_raya](/wp-uploads/2016/04/tres_en_raya.png#center)
 
 ¡Cuidadín!

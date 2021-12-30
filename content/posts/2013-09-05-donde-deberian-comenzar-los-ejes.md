@@ -27,8 +27,8 @@ Propone eldiario.es y dibuja Belén Picazo este artefacto alternativo:
 
 Y uno se pregunta: ¿así deberían hacerse las cosas? Por ejemplo, el mismo día en que TVE publicó eso (y el anterior, y el suguiente), en otro medio aparecía este otro gráfico:
 
-[![](/wp-uploads/2013/09/ibex20130905.png)
-](/wp-uploads/2013/09/ibex20130905.png)
+[![](/wp-uploads/2013/09/ibex20130905.png#center)
+](/wp-uploads/2013/09/ibex20130905.png#center)
 
 Razones ideológicas aparte, ¿debería también Belén escandalizarse de él? ¿Están los periódicos engatusando a los inversores bursátiles al capar los ejes? ¿Existen motivos puramente gráficos (o sicológicos) para que arranquen de cero? ¿Se apreciaría la evolución de una sesión bursátil (con movimientos típicos al alza o la baja de menos de dos puntos) si siguiésemos las instrucciones de Belén?
 

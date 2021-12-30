@@ -15,8 +15,8 @@ tags:
 
 Hoy, al mostrar
 
-[![hdd_capacity_overtime](/wp-uploads/2015/12/hdd_capacity_overtime.png)
-](/wp-uploads/2015/12/hdd_capacity_overtime.png)
+[![hdd_capacity_overtime](/wp-uploads/2015/12/hdd_capacity_overtime.png#center)
+](/wp-uploads/2015/12/hdd_capacity_overtime.png#center)
 
 he dicho _exponencial_. Pero me he corregido rápido y he advertido a mis alumnos:
 

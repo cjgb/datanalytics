@@ -48,7 +48,7 @@ wordcloud(tmp, scale=c(5,0.5),
 
 que hace lo que dice, es decir,
 
-![presupuestos_participativos](/wp-uploads/2016/05/presupuestos_participativos.png)
+![presupuestos_participativos](/wp-uploads/2016/05/presupuestos_participativos.png#center)
 
 a partir de los títulos de las propuestas de los [presupuestos participativos del ayuntamieto de Madrid](https://decide.madrid.es/participatory_budget).
 

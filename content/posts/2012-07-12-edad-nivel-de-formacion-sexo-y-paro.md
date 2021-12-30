@@ -20,8 +20,8 @@ tags:
 
 No sé si alguien podrá ayudarme con este gráfico que he hecho con [Mondrian](http://stats.math.uni-augsburg.de/mondrian/):
 
-[![](/wp-uploads/2012/07/paro_sexo_edad_nivel_formacion.png)
-](/wp-uploads/2012/07/paro_sexo_edad_nivel_formacion.png)
+[![](/wp-uploads/2012/07/paro_sexo_edad_nivel_formacion.png#center)
+](/wp-uploads/2012/07/paro_sexo_edad_nivel_formacion.png#center)
 
 Está construido a partir de los [microdatos](http://www.ine.es/prodyser/micro_epa.htm) de la última [EPA](http://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft22/e308_mnu&file=inebase&L=0) e indica el porcentaje de parados (resaltado en verde) dentro de las siguientes tres categorías:
 

@@ -37,8 +37,8 @@ En la imagen anterior se ve dónde estaban los agujeros de bala en ciertos model
 
 Algo parecido puede suceder con los incendios. En primer lugar, no toda España está uniformemente cubierta de bosques. De alguna manera, habría que introducir información acerca del uso del suelo, como en
 
-[![](/wp-uploads/2012/08/uso_suelo_espana.png)
-](/wp-uploads/2012/08/uso_suelo_espana.png)
+[![](/wp-uploads/2012/08/uso_suelo_espana.png#center)
+](/wp-uploads/2012/08/uso_suelo_espana.png#center)
 
 Por otra parte, y relacionado con la nota anterior, habría que prestar atención no sólo a aquellos lugares donde sí se producen multitud de incendios forestales sino, muy particularmente, a aquellas masas de bosque donde la tasa de incendios es muy baja. Porque es de quienes las mantienen que se pueden aprender las mejores prácticas.
 

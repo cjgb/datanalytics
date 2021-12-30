@@ -13,8 +13,8 @@ tags:
 
 Sufro acoso por parte de una aspiradora de mano azul. Allá donde me dirijo, me la encuentro: en el periódico, en un blog de estadística,... ¡en todas partes! Quiere que la compre. Y es inasequible al desaliento.
 
-[![aspiradora_mano](/wp-uploads/2014/10/aspiradora_mano.png)
-](/wp-uploads/2014/10/aspiradora_mano.png)
+[![aspiradora_mano](/wp-uploads/2014/10/aspiradora_mano.png#center)
+](/wp-uploads/2014/10/aspiradora_mano.png#center)
 
 Me interesé por el producto en cuestión porque alguien me comentó que la había comprado en eBay pero que la recibió en una caja de Amazon. Algún arbitrajista vio alguna diferencia de precios y vendió en un sitio lo que compraba en el otro. Es un fenómeno tan frecuente que tiene nombre: [_drop selling_](http://es.wikipedia.org/wiki/Drop_shipment).
 

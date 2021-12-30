@@ -23,13 +23,13 @@ Buscándola, sin embargo, tropecé con [_¿Para qué sirve la epistemología?_](
 
 Quedé, pues, con la duda sobre la opinión de Bunge acerca de esas cuestiones y di con la siguiente obrita de 2008: [_Bayesianism, Science or Pseudoscience?_](https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge__2008__bayesianism.pdf) Tiene, como todo, alguna parte de provecho, pero uno encuentra cosas como
 
-![](/wp-uploads/2021/10/image-4.png)
+![](/wp-uploads/2021/10/image-4.png#center)
 
 que es un completo sinsentido (por cuantificarlo: es un sinsentido de esos que te hacen perder puntos en un examen de la licenciatura, uno que no cabe encontrar en una publicación revisada por pares, salvo que esos pares sean demasiado parejos). Precisamente este es, además, el ejemplo —aquí enteramente desarrollado— al que hacía Bunge alusión y no remataba en la charla que cito arriba.
 
 En otra sección del articulo escribe
 
-![](/wp-uploads/2021/10/image-5.png)
+![](/wp-uploads/2021/10/image-5.png#center)
 
 Llama la atención particularmente porque es la primera noticia que tengo de que puedan existir estadísticas _que no satisfagan la fórmula de Bayes_. Así que me entretuve en buscar qué cosa había dicho el tal Eddy en 1982 y encontré nada más ni nada menos que una micro-introducción sumamente estándar al teorema de Bayes con aplicaciones en medicina con ejemplos plusquanmanidos en la que Eddy se queja (¡otro más!) de cómo hay médicos que confunden P(A | B) y P(B | A). Eso es todo.
 

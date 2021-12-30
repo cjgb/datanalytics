@@ -16,7 +16,7 @@ tags:
 
 Me reencuentro con
 
-![](/wp-uploads/2018/04/picos.png)
+![](/wp-uploads/2018/04/picos.png#center)
 
 tiempo después ([fuente](http://nadaesgratis.es/visual/de-la-renta-de-los-ricos-y-de-los-pobres)). Llaman la atención sobremanera los picos. Que no tienen otra razón de ser que un cambio en los rangos del eje horizontal.
 

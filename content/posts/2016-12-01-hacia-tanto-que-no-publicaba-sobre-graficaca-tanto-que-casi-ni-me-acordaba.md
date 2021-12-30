@@ -14,7 +14,7 @@ tags:
 
 Hasta que, zas,
 
-![tarta_porcentajes](/wp-uploads/2016/11/tarta_porcentajes.png)
+![tarta_porcentajes](/wp-uploads/2016/11/tarta_porcentajes.png#center)
 
 El perpetrador, [bez.es](http://www.bez.es/950051653/anatomia-defraudador-hombres-directivos-mas-seis-anos-empresa.html).
 

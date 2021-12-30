@@ -69,5 +69,5 @@ El código es
 
 y el resultado,
 
-![ibex_kmlshape.R](/wp-uploads/2016/04/ibex_kmlshape.R.png)
+![ibex_kmlshape.R](/wp-uploads/2016/04/ibex_kmlshape.R.png#center)
 

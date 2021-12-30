@@ -14,8 +14,8 @@ tags:
 
 Llevo un tiempo prestando especial atención a los gráficos circulares. Y no me refiero a [los innombrables](http://www.datanalytics.com/2011/03/02/1658/). Hablo más bien de otros como
 
-[![procedencia_jugadores_futbol](/wp-uploads/2014/07/procedencia_jugadores_futbol.png)
-](/wp-uploads/2014/07/procedencia_jugadores_futbol.png)
+[![procedencia_jugadores_futbol](/wp-uploads/2014/07/procedencia_jugadores_futbol.png#center)
+](/wp-uploads/2014/07/procedencia_jugadores_futbol.png#center)
 
 extraído de [aquí](http://blog.revolutionanalytics.com/2014/06/world-cup.html) o
 

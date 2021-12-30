@@ -18,7 +18,7 @@ El día 2017-09-20 hubo gente que tomó el autobús en Madrid. Se montó en una 
 
 He contado, por horas, cuánta gente viajó en ese primer tramo, hacia el norte y quién lo hizo hacia el sur y he obtenido
 
-![](/wp-uploads/2017/09/norte_sur.png)
+![](/wp-uploads/2017/09/norte_sur.png#center)
 
 que es ---al contrario de los resultados presuntamente basados en datos pero, en el fondo ideológicamente sesgados con los que nos quieren tan frecuentemente vender motos--- totalmente compatible con lo que todos los que nos movemos por Madrid sabemos.
 

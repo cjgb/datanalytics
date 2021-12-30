@@ -17,13 +17,13 @@ tags:
 
 Gráficas que muestran la _velocidad_ a la que varía el PIB como
 
-![](/wp-uploads/2020/11/Screenshot-from-2020-11-03-04-44-46.png)
+![](/wp-uploads/2020/11/Screenshot-from-2020-11-03-04-44-46.png#center)
 
 han sido habituales para representar la evolución de la economía. En particular, porque antes de los espasmos de los últimos trimestres eran más o menos fáciles de intepretar. Pero ahora ya no.
 
 La velocidad es una medida útil en tanto que varía de manera más o menos suave. En momentos de botes y rebotes, es mejor saber dónde se está que a la velocidad a la que uno no sabe si sube o baja. Por eso es más ilustrativo
 
-![](/wp-uploads/2020/11/Screenshot-from-2020-11-03-04-50-52.png)
+![](/wp-uploads/2020/11/Screenshot-from-2020-11-03-04-50-52.png#center)
 
 
 extraído del INE. (Vale, habrá quien prefiera euros constantes y estos no lo son; o la serie desestacionalizada, pero a saber cómo quedará esta una vez pasada por el filtro.)

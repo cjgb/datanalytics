@@ -22,7 +22,7 @@ No podemos hacer caso a las estadísticas de ocupación hotelera del INE porque 
 
 ¿Cuál? Frontur, la estadística de movimientos turísticos en frontera del INE. (Sin enlace: los enlaces del INE van y vienen). Las cifras de Frontur proceden de encuestas a turistas que salen de España a los que se somete a un cuestionario y cuyos resultados se extrapolan al total de la población extranjera que circulan por las fronteras. Así que, a diferencia de la estadística de ocupación hotelera (donde el INE solo adquiere información de turistas que pernoctan en hoteles), en esta encuesta son los turistas, independientemente de donde hayan dormido, los que dicen dónde lo hicieron. Y los resultados son estos:
 
-![](/wp-uploads/2019/10/frontur_alojamiento.png)
+![](/wp-uploads/2019/10/frontur_alojamiento.png#center)
 
 (Cuidado al leer la escala de los distintos ejes: las pernoctaciones en hoteles son superiores casi de un orden de magnitud al resto).
 
@@ -32,7 +32,7 @@ Claro, estamos considerando solo los turistas extranjeros y no los nacionales, q
 
 Más. Uno podría encontrar que sí, que la cifra de pernoctaciones hoteleras crece y que, bueno, el turista resacoso de la frontera bien podría llamar hotel a lo que realmente es el 3ºB de tu bloque. Y sí, las pernoctaciones presuntamente hoteleras suben. Pero, mirad y asombraos de lo bien funciona la estadística oficial:
 
-![](/wp-uploads/2019/10/ocupacion_hotelera.png)
+![](/wp-uploads/2019/10/ocupacion_hotelera.png#center)
 
 Son cifras de la [nota de prensa de la encuesta de ocupación hotelera de agosto de 2019](https://www.ine.es/daco/daco42/prechote/cth0819.pdf). Son hoteles y hostales (de cinco, cuatro,... estrellas). Así que hoteles. No otra cosa. Número total de extranjeros, 6.521.490. ¿Y cuántos extranjeros dice Frontur que se alojaron en hoteles en dicho mes? 6.520.513. Una difrencia miraculósamente mínima que, seguro, explican otras causas mejor que la casualidad. Así que no, hoteles son hoteles y Airbnb está en otra parte.
 

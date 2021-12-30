@@ -18,16 +18,16 @@ Los patriotas españoles del siglo II a.C. peleaban por la estepa lusitana contr
 
 Y los españoles patriotas de junio de 2012 leemos el [informe de estabilidad financiera del Banco de España](http://www.bde.es/webbde/Secciones/Publicaciones/InformesBoletinesRevistas/InformesEstabilidadFinancera/12/Informe_Estabilidad_Financiera_Abril_2012.pdf). ¿Qué encontramos en él? Aparte de un poco de graficaca, como en el siguiente ejemplo
 
-[![](/wp-uploads/2012/06/graficaca_bde.png)
-](/wp-uploads/2012/06/graficaca_bde.png)
+[![](/wp-uploads/2012/06/graficaca_bde.png#center)
+](/wp-uploads/2012/06/graficaca_bde.png#center)
 
 un análisis _agregado_ de la situación de las entidades financieras españolas. Resalto el término _agregado_ porque da la impresión de que para el banco de España hubiese sólo una entidad. O que todas se pareciesen como gotas de agua.
 
 En efecto, estudia el informe con bastante detalle la cuenta de pérdidas y ganancias del sistema de las entidades financieras, resumido en el siguiente cuadro:
 
 
-[![](/wp-uploads/2012/06/perdidas_ganancias_bde.png)
-](/wp-uploads/2012/06/perdidas_ganancias_bde.png)
+[![](/wp-uploads/2012/06/perdidas_ganancias_bde.png#center)
+](/wp-uploads/2012/06/perdidas_ganancias_bde.png#center)
 
 
 Hay tres partidas en él que crecen sustancialmente. Y todas son de las que restan:
@@ -38,8 +38,8 @@ Hay tres partidas en él que crecen sustancialmente. Y todas son de las que rest
 
 Las dos últimas se refieren a las pérdidas en inversiones que hicieron los bancos y que acabaron de color hormiga. El párrafo que las explica es bastante confuso pero, afortunadamente, algún preclaro funcionario del BdE quiso acompañarlo de un gráfico que lo dice todo:
 
-[![](/wp-uploads/2012/06/media_mediana_bde.png)
-](/wp-uploads/2012/06/media_mediana_bde.png)
+[![](/wp-uploads/2012/06/media_mediana_bde.png#center)
+](/wp-uploads/2012/06/media_mediana_bde.png#center)
 
 Ahí tenemos a nuestros dos protagonistas: la media y la mediana. Paralelas, pero tremendamente desiguales. ¿Qué significa? No busquéis la sentido en la explicación, sumamente confusa y con faltas de ortografía, del BdE:
 

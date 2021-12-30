@@ -16,9 +16,9 @@ Buscando una versión pirata del libro _Show Me the Numbers_ de [Stephen Few](ht
 
 Y la respuesta, sin palabras:
 
-[![](/wp-uploads/2013/11/donde_van_los_ejes_00.png)
-](/wp-uploads/2013/11/donde_van_los_ejes_00.png)
+[![](/wp-uploads/2013/11/donde_van_los_ejes_00.png#center)
+](/wp-uploads/2013/11/donde_van_los_ejes_00.png#center)
 
-[![](/wp-uploads/2013/11/donde_van_los_ejes_01.png)
-](/wp-uploads/2013/11/donde_van_los_ejes_01.png)
+[![](/wp-uploads/2013/11/donde_van_los_ejes_01.png#center)
+](/wp-uploads/2013/11/donde_van_los_ejes_01.png#center)
 

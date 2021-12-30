@@ -18,8 +18,8 @@ Si se puede, claro.
 
 Con el gráfico
 
-[![evolucion_deuda](/wp-uploads/2014/11/evolucion_deuda.png)
-](/wp-uploads/2014/11/evolucion_deuda.png)
+[![evolucion_deuda](/wp-uploads/2014/11/evolucion_deuda.png#center)
+](/wp-uploads/2014/11/evolucion_deuda.png#center)
 
 que acompaña al artículo [_La deuda atenaza la recuperación_](http://economia.elpais.com/economia/2014/11/14/actualidad/1415994659_768247.html) el pobre ilustrador no lo tenía fácil. Por un lado tenía que comparar la evolución de una magnitud en dos momentos distintos y lo que más claro deja es que ni ha leído [_Displaying Change Between Two Points in Time_](http://www.perceptualedge.com/articles/visual_business_intelligence/displaying_change_between_two_points_in_time.pdf) ni le suena lo que reza. Y haré como que no he visto esos circulillos grises al pie.
 

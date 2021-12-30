@@ -20,7 +20,7 @@ El ayuntamiento de Madrid publica [información (desde 2015) de los avisos](http
 
 He bajado los datos y he pintado
 
-![](/wp-uploads/2017/04/avisos_madrid.png)
+![](/wp-uploads/2017/04/avisos_madrid.png#center)
 
 
 que es la suma acumulada de la diferencia entre los avisos entrantes y los resueltos día a día usando

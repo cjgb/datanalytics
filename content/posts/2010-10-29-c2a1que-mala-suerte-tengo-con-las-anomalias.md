@@ -24,8 +24,8 @@ precio <- 10 + c( 22, 21, 39, 18, 24, 26, 26,26,29, 28 ) / 100
 
 Los días son los discurridos desde que di una orden de adquisición de un fondo de inversión a través de dicha entidad financiera hasta que tuve constancia de que se había completado: el dinero se había adeudado de la cuenta corriente y las participaciones, aparecían listadas en la cuenta de valores. El precio contiene los valores liquidativos diarios del fondo durante tales días. He aquí su representación gráfica:
 
-[![](/wp-uploads/2010/10/precios_diarios_activo.png)
-](/wp-uploads/2010/10/precios_diarios_activo.png)
+[![](/wp-uploads/2010/10/precios_diarios_activo.png#center)
+](/wp-uploads/2010/10/precios_diarios_activo.png#center)
 
 El banco ---insistio en el calificativo de benéfico--- podía haber adquirido las participaciones en cualquiera de los días que median entre el primero y el último. Curiosamente, éstas fueron adquiridas si no en el día, al menos sí al precio de cotización que los más sagaces de mis lectores estarán intuyendo.
 

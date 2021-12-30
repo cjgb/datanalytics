@@ -19,7 +19,7 @@ tags:
 
 Este martes 17 de diciembre hablaré durante una hora sobre (cierto tipo de) _big data_ y modelos adecuados para modelizarlos en el [CodingClub de la Universidad Carlos III](https://codingclubuc3m.rbind.io/).
 
-![](/wp-uploads/2019/12/anuncio_charla_coding_club_uc3m.png)
+![](/wp-uploads/2019/12/anuncio_charla_coding_club_uc3m.png#center)
 
 * El contenido de la charla, entiendo, se publicará también después en el blog del CodingClub.
 * Los detalles (sitio, hora, etc.) están en el enlace indicado más arriba.

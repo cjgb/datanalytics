@@ -37,8 +37,8 @@ plot( log( prop ), type = "l", lwd = 2,
 
 obtendremos para cada valor entre `n.min` y `n.max` la desviación (positiva) con respecto al 50% esperado bajo la hipótesis nula —la moneda no está sesgada— suficiente como para que se encienda la luz roja del p-valor:
 
-[![](/wp-uploads/2011/09/optimal_stopping.png)
-](/wp-uploads/2011/09/optimal_stopping.png)
+[![](/wp-uploads/2011/09/optimal_stopping.png#center)
+](/wp-uploads/2011/09/optimal_stopping.png#center)
 
 Por ejemplo, como `prop[900]` es 2.55, bastaría con que en la prueba número 1000 (= 900 + 100) obtuviésemos una proporción del 52.55% de caras como para poder rechazar la hipótesis de que la moneda no está sesgada al límite usual de confianza.
 

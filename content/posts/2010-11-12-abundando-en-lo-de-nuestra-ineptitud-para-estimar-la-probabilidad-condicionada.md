@@ -59,8 +59,8 @@ $$\frac{P( X + Y = 2 , X + Y > 0 )}{ P( X + Y > 0 ) } = \frac{P( X + Y = 2 )}{ P
 También es evidente en la siguiente figura:
 
 
-[![](/wp-uploads/2010/11/grafico_probabilidad_condicional.png)
-](/wp-uploads/2010/11/grafico_probabilidad_condicional.png)
+[![](/wp-uploads/2010/11/grafico_probabilidad_condicional.png#center)
+](/wp-uploads/2010/11/grafico_probabilidad_condicional.png#center)
 
 
 La pregunta que ha dado origen al problema puede reformularse, al fin y al cabo así: ¿cuál es la posibilidad de _caer_ en la casilla gris oscuro si se sabe que se ha _caído_ en una casilla gris?

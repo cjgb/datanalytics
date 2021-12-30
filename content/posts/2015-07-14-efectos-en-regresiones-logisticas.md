@@ -33,8 +33,8 @@ plot(eff.cowles, type = "response")
 
 que genera
 
-[![effects](/wp-uploads/2015/07/effects.png)
-](/wp-uploads/2015/07/effects.png)
+[![effects](/wp-uploads/2015/07/effects.png#center)
+](/wp-uploads/2015/07/effects.png#center)
 
 un gráfico en el que se aprecia el efecto de las variables en la probabilidad de `volunteer`. Entre otras cosas, nos indica el efecto de `sex`, que coincide con el que podemos obtener haciendo
 

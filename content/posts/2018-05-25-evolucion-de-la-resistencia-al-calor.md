@@ -24,12 +24,12 @@ De ser cierta mi hipótesis de partida, debería observarse una tendencia global
 
 Pero:
 
-![](/wp-uploads/2018/05/coeficientes_mortalidad.png)
+![](/wp-uploads/2018/05/coeficientes_mortalidad.png#center)
 
 
 Lo cual es un éxito parcial. Sí que se aprecia una ligera tendencia negativa en los primeros años, pero algo pasa después que se me escapa. Y que puede ser... algo que mejorar en el modelo. O que el carácter excesivamente caluroso de los últimos veranos,
 
-![](/wp-uploads/2018/05/temperaturas_verano.png)
+![](/wp-uploads/2018/05/temperaturas_verano.png#center)
 
 
 haya afectado al modelo. O que...

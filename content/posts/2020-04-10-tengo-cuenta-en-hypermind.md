@@ -20,4 +20,4 @@ Acaban de notificarme que han aprobado mi cuenta en [Hypermind](https://predict.
 
 Ya iré contando. En tanto, una imagen extraída de uno de los enlaces anteriores que vale por mil palabras:
 
-![](/wp-uploads/2020/04/accuracy-en.png)
+![](/wp-uploads/2020/04/accuracy-en.png#center)

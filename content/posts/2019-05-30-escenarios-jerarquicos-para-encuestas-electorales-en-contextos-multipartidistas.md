@@ -23,7 +23,7 @@ Después de las elecciones, sobre todo de muchas de las últimas, el público si
 
 ¿Por qué no discretizar y asignar probabilidades a los distintos escenarios plausibles? Algo así ensayó Kiko Llaneras en [este artículo](https://elpais.com/politica/2019/04/27/actualidad/1556358041_818858.html). Aunque omitió lo principal: evaluar la probabilidad de cada uno de los escenarios que planteaba. [Le tengo especial cariño a ese artículo: la modificación de uno de esos escenarios me llevó a ganar la porra electoral y comer pizza de [López y López](https://www.tripadvisor.es/Restaurant_Review-g187514-d10202528-Reviews-Lopez_Lopez_Pizzeria-Madrid.html) a costa de otros.]
 
-![](/wp-uploads/2019/05/escenarios_electorales_llaneras-1024x966.png)
+![](/wp-uploads/2019/05/escenarios_electorales_llaneras-1024x966.png#center)
 
 es un mejor ensayo ([fuente](http://datos.elespanol.com/elecciones-generales/la-cocina-20d/)). En él se muestran escenarios más o menos realistas y sus correspondientes probabilidades de ocurrencia. En aquella ocasión, el escenario _central_ (PP+C's) no se dió, pese a tener asignada una probabilidad de ocurrencia del 66%. Pero, qué carajo, a veces también va el Zaragoza y gana algún partido fuera de la Romareda.
 

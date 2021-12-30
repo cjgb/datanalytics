@@ -19,7 +19,7 @@ tags:
 
 El argumento del artículo _[Paraísos Fiscales, Wealth Taxation, and Mobility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3676031)_ pivota esencialmente sobre el gráfico
 
-![](/wp-uploads/2021/05/causalidad_patrimonio_madrid.png)
+![](/wp-uploads/2021/05/causalidad_patrimonio_madrid.png#center)
 
 que resultará familiar a muchos lectores de este blog (y, si no, mirad [esto](https://www.datanalytics.com/tag/causalimpact/)). Se trata de un estudio causal _de libro_ en el que se pretende medir el efecto de una política ocurrida en 2010 sobre la línea roja y la línea azul.
 

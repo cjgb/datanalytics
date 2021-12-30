@@ -23,8 +23,8 @@ El segundo, [_Formulating State Space Models in R with Focus on Longitudinal Reg
 
 El tercero, _[The origin of bursts and heavy tails in human dynamics](http://arxiv.org/abs/cond-mat/0505371 )_, se plantea un problema muy interesante. En la sección (a) de
 
-[![](/wp-uploads/2012/09/human_dynamics.png)
-](/wp-uploads/2012/09/human_dynamics.png)
+[![](/wp-uploads/2012/09/human_dynamics.png#center)
+](/wp-uploads/2012/09/human_dynamics.png#center)
 
 se muestra una sucesión típica de sucesos generados por un [proceso de Poisson](http://es.wikipedia.org/wiki/Proceso_de_Poisson). En las secciones (b) y (c) se muestra el tiempo de espera entre sucesos consecutivos y su distribución. Sin embargo, en muchos procesos en que interviene el hombre, la distribución es más parecida a la que se muestra en (d). Por ejemplo, en el uso del correo electrónico: a periodos de mucho uso suelen seguir periodos de inactividad. El autor, Barabási, lista otra serie de ámbitos en los que se aprecian patrones similares. Y argumenta finalmente que este tipo de comportamiento es consistente con la coexistencia de varias _colas_ con distintos grados de prioridad.
 

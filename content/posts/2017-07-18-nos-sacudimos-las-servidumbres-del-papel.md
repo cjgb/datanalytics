@@ -25,4 +25,4 @@ No obstante, a pesar de todo el espacio blanco sobrante, el DRAE se empeña en u
 
 Podéis o no estar de acuerdo conmigo. Pero en el primer caso, cuidado con manifestar demasiado abiertamente vuestra postura o
 
-![](/wp-uploads/2017/07/hilo_twitter.png)
+![](/wp-uploads/2017/07/hilo_twitter.png#center)

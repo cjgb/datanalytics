@@ -15,8 +15,8 @@ tags:
 
 Este martes 6 de mayo tendrá lugar el primer encuentro de DataBeers de Madrid. A las 19:30 de la tarde, en [MartinaCocina](https://twitter.com/martinacocina) (plaza de Cascorro, 11), habrá minicharlas relacionadas con el mundo de los datos y cervezas.
 
-[![mad_data_beers](/wp-uploads/2014/05/mad_data_beers.png)
-](/wp-uploads/2014/05/mad_data_beers.png)
+[![mad_data_beers](/wp-uploads/2014/05/mad_data_beers.png#center)
+](/wp-uploads/2014/05/mad_data_beers.png#center)
 
 El programa, que incluye a algunos viejos conocidos, es el siguiente:
 

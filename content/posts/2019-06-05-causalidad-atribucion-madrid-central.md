@@ -39,7 +39,7 @@ Y uno piensa: ni harto de vino. Simplemente, no hay intervención que mejore nun
 
 Aunque podría ser, claro. Pero hay más motivos para la perplejidad, más información que no encaja con el modelo que uno tiene de las cosas:
 
-![](/wp-uploads/2019/06/madrid_central.png)
+![](/wp-uploads/2019/06/madrid_central.png#center)
 
 Hay bajadas increíbles de la concentración de NO2 en lugares que no tienen nada que ver con Madrid Central, donde no se ha observado un descenso manifiesto del tráfico y cuando, incluso, las condiciones meteorológicas son poco propicias para la calidad del aire:
 

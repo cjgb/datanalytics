@@ -19,7 +19,7 @@ No estoy muy al tanto de la regulación que afecta a la confección de encuestas
 
 Pero, y aunque sea alérgico a la regulación en general, me atrevo a apuntar una modificación que podría tener sus méritos. Está basada en algunas experiencias anteriores. Por ejemplo, la que sugiere [este artículo del NYT](http://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html). En él se cuenta cómo el periódico hizo llegar a cuatro grupos de expertos los datos brutos de una encuesta electoral en Florida. Los resultados obtenidos por esos grupos se resumen en la siguiente tabla:
 
-![resultados_encuestas](/wp-uploads/2016/09/resultados_encuestas.png)
+![resultados_encuestas](/wp-uploads/2016/09/resultados_encuestas.png#center)
 
 En el artículo figuran resúmenes de los métodos usados por los distintos grupos. Uno de los miembros de uno de uno de ellos ha escrito [más al respecto](http://andrewgelman.com/2016/09/23/trump-1-in-florida-or-a-quick-comment-on-that-5-groups-analyze-the-same-poll-exercise/).
 

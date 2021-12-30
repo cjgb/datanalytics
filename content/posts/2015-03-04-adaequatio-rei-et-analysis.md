@@ -14,8 +14,8 @@ tags:
 
 Tal será el título de la charla de una hora que daré en el [Big Data Science Fighters](http://datasciencefighters.com/) en abril.
 
-[![big_data_fighters](/wp-uploads/2015/03/big_data_fighters.png)
-](/wp-uploads/2015/03/big_data_fighters.png)
+[![big_data_fighters](/wp-uploads/2015/03/big_data_fighters.png#center)
+](/wp-uploads/2015/03/big_data_fighters.png#center)
 
 El título es una adaptación de [este latinajo](http://www.webdianoia.com/glosario/display.php?action=view&id=17) y lo usufructo más en la forma que en la sustancia, que la del original se me escapa. El mío servirá para condensar el cúmulo de problemas que he venido detectando en este mundo del análisis de datos: la falta de adecuación de las herramientas de almacenamiento, procesamiento y análisis de datos a la _cosa_. Y no me restringiré a las de hierro (¡o silicio!) o a las ristras de ceros y unos: también haré un repaso de algunas de las teóricas.
 

@@ -17,13 +17,13 @@ Encontré el otro día una [entrada en la bitácora de Bissantz](http://blog.bis
 
 El gráfico _malo_, en escala lineal, es
 
-[![](/wp-uploads/2011/11/pib_deuda_linear1.png)
-](/wp-uploads/2011/11/pib_deuda_linear1.png)
+[![](/wp-uploads/2011/11/pib_deuda_linear1.png#center)
+](/wp-uploads/2011/11/pib_deuda_linear1.png#center)
 
 que representa la evolución del PIB y la deuda estadounidense durante las últimas décadas y tiene una serie de carencias con respecto al gráfico de los mismos datos en escala logarítmica,
 
-[![](/wp-uploads/2011/11/pib_deuda_log.png)
-](/wp-uploads/2011/11/pib_deuda_log.png)[](/wp-uploads/2011/11/pib_deuda_linear.png)
+[![](/wp-uploads/2011/11/pib_deuda_log.png#center)
+](/wp-uploads/2011/11/pib_deuda_log.png#center)[](/wp-uploads/2011/11/pib_deuda_linear.png#center)
 
 El autor de la entrada indica cómo en la gráfica lineal apenas puede apreciarse la información de los primeros 25 años y algunas circunstancias sobre ciertos periodos significativos en que las gráficas parecen dar impresiones distintas. El autor juzga que la interpretación correcta es la que proporciona la escala logarítmica. Y yo creo que está en lo cierto, sin ser experto en la materia.
 

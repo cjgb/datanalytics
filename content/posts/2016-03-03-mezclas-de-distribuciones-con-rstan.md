@@ -67,11 +67,11 @@ En el código anterior no sé si queda claro cómo cada punto $latex y_i$ sigue 
 
 El resultado no es malo: los valores medianos de las muestras de los parámetros de los parámetros son próximos a los de partida, etc., como puede verse en
 
-![mixture_fitted_values](/wp-uploads/2016/03/mixture_fitted_values.png)
+![mixture_fitted_values](/wp-uploads/2016/03/mixture_fitted_values.png#center)
 
 Y una coda: en la primera aproximación al problema corrí cuatro cadenas (en lugar de una sola, como en el código que comparto) y el resultado era confuso. Entre otras cosas, las distribuciones de los pesos de la mezcla eran bimodales y los intervalos de confianza muy altos. Eso se debe fundamentalmente a la _no identificabilidad_ de los parámetros: algunas cadenas llamaban $latex \theta_1$ al peso de la normal centrada en 0 y otras a la centrada en 1. Esto puede apreciarse en el _traceplot_
 
-![mcmc_chains](/wp-uploads/2016/03/mcmc_chains.png)
+![mcmc_chains](/wp-uploads/2016/03/mcmc_chains.png#center)
 
 de esa primera ejecución del programa con cuatro cadenas.
 

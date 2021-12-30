@@ -21,8 +21,8 @@ tags:
 
 De lo último es ilustración esta "conversación" que tuve con la cuenta [@TeleR](https://telegram.me/Tele_R):
 
-[![telegram](/wp-uploads/2015/03/telegram.png)
-](/wp-uploads/2015/03/telegram.png)
+[![telegram](/wp-uploads/2015/03/telegram.png#center)
+](/wp-uploads/2015/03/telegram.png#center)
 
 Los detalles, [aquí](http://telemath.altervista.org/TeleR.html). Y el crédito, para [Rubén Tobalina](https://stat.ethz.ch/pipermail/r-help-es/2015-March/008693.html).
 

@@ -18,7 +18,7 @@ tags:
 
 Se ve que hace 4000 años existió una incipiente actividad comercial entre protociudades situadas en las actuales Turquía, Siria e Irak:
 
-![](/wp-uploads/2018/01/rutas_comercio_anatolia.png)
+![](/wp-uploads/2018/01/rutas_comercio_anatolia.png#center)
 
 Se han descubierto tablillas tales como
 

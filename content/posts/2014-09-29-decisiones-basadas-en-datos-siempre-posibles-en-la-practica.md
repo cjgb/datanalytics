@@ -18,8 +18,8 @@ Me gusta criticar. Bien lo saben quienes me siguen. Pero hoy toca aplaudir un ar
 
 Los métodos _data driven_ gozan del mayor de los predicamentos. Véase una pequeña muestra extraída de una reciente conversación en Twitter:
 
-[![data_driven](/wp-uploads/2014/09/data_driven.png)
-](/wp-uploads/2014/09/data_driven.png)
+[![data_driven](/wp-uploads/2014/09/data_driven.png#center)
+](/wp-uploads/2014/09/data_driven.png#center)
 
 Dirigidas por los datos están (o pretenden estar) las campañas publicitarias. Por ejemplo, las nada baratas que consisten en insertar cuñas publicitarias en los descansos de la Super Bowl. Y los efectos de estas intervenciones se miden utilizando técnicas como [estas](http://www.datanalytics.com/2014/09/23/el-impacto-causal-de-google/) (sí, promovidas por colegas de uno de los autores). Sin embargo, los efectos potenciales de esas campañas son tan minúsculos en comparación con otras fuentes de ruido que las pruebas estadísticas con los que se tratan de detectar están muy lejos de poseer la potencia necesaria para ello. Este razonamiento es el que desarrollan los autores del artículo para acabar enunciando y demostrando su _teorema de la imposibilidad de la Super Bowl_.
 

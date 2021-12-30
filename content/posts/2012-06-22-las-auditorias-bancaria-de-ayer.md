@@ -29,13 +29,13 @@ Me he entretenido hojeando [uno de los informes de auditoría, el de Roland Berg
 
 Los escenarios considerados están descritos en el siguiente cuadro:
 
-[![](/wp-uploads/2012/06/escenarios_bde.png)
-](/wp-uploads/2012/06/escenarios_bde.png)
+[![](/wp-uploads/2012/06/escenarios_bde.png#center)
+](/wp-uploads/2012/06/escenarios_bde.png#center)
 
 Los resultados para el caso maluco (que podría no llegar a darse, recordemos) son:
 
-[![](/wp-uploads/2012/06/resultados_bde.png)
-](/wp-uploads/2012/06/resultados_bde.png)
+[![](/wp-uploads/2012/06/resultados_bde.png#center)
+](/wp-uploads/2012/06/resultados_bde.png#center)
 
 Los 170 millardos de pérdidas globales, se cubrirían de la siguiente forma:
 
@@ -48,8 +48,8 @@ Así que estos 63 millardos representarían el tamaño máximo concebible de la 
 
 Por referencia dejo también el desglose de la pérdida por tipo de activos:
 
-[![](/wp-uploads/2012/06/desglose_bde.png)
-](/wp-uploads/2012/06/desglose_bde.png)
+[![](/wp-uploads/2012/06/desglose_bde.png#center)
+](/wp-uploads/2012/06/desglose_bde.png#center)
 
 Desafortunadamente, reitero, el desglose por entidad viene a ser secreto de estado.
 
@@ -92,8 +92,8 @@ $latex \frac{Y_t - \mu}{\sigma} \sim X_{it}$,
 * Han seleccionado de todas ellas la _mejor_, supongo que teniendo en cuenta la $latex R^2$.
 
 De hecho, deshaciendo la transformación queda la fórmula
-[![](/wp-uploads/2012/06/formula_bde.png)
-](/wp-uploads/2012/06/formula_bde.png)
+[![](/wp-uploads/2012/06/formula_bde.png#center)
+](/wp-uploads/2012/06/formula_bde.png#center)
 
 que aparece en el informe. La variable elegida ha sido en todos los casos el índice de desempleo excepto para las hipotecas, en que ha resultado ser el índice de precios de la vivienda.
 

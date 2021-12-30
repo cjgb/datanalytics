@@ -19,8 +19,8 @@ Nassin Taleb es uno de los míos. Habla tal vez demasiado. Pero no pendejea. Lla
 Pero a veces los dioses chochean.
 
 Verbigracia:
-[![taleb_probability](/wp-uploads/2014/03/taleb_probability.png)
-](/wp-uploads/2014/03/taleb_probability.png)
+[![taleb_probability](/wp-uploads/2014/03/taleb_probability.png#center)
+](/wp-uploads/2014/03/taleb_probability.png#center)
 
 Lo siento, Sr. Taleb. La base de la teoría de la probabilidad es la teoría de la medida. Se axiomatiza la medida y la integral se construye a partir de ella. La probabilidad no es sino un tipo muy particular de medida y no, <del>no hay tal cosa como medidas negativas</del> (se ve que [sí que los considera la literatura](http://en.wikipedia.org/wiki/Signed_measure) —gracias, Aleix— y que han servido de excusa a alguien para probar tres o cuatro teoremas; yo pondría a esos matemáticos a trabajar de verdad).
 

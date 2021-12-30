@@ -17,7 +17,7 @@ tags:
 
 Prometí escribir sobre
 
-[![](/wp-uploads/2021/01/curve_fitting.png)
+[![](/wp-uploads/2021/01/curve_fitting.png#center)
 ](https://xkcd.com/2048/)
 
 y, se conoce, ha llegado el día de hacerlo. Se trata en apariencia de un chiste matemático que, espero, capten todos los lectores de este blog en su sentido más llano.

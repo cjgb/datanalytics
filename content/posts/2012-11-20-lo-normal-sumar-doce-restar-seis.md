@@ -26,7 +26,7 @@ qqline(x, col=2)
 
 produce
 
-[![](/wp-uploads/2012/11/qqnorm.png)
-](/wp-uploads/2012/11/qqnorm.png)
+[![](/wp-uploads/2012/11/qqnorm.png#center)
+](/wp-uploads/2012/11/qqnorm.png#center)
 
 Ayuda a entender el motivo que la varianza de la distribución uniforme es 1/12 y que su media es 1/2.

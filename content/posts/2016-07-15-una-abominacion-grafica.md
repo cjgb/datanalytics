@@ -15,7 +15,7 @@ tags:
 
 Llega el verano, llega el relleno: rescato de mi disco duro una abominación gráfica,
 
-![mapa-mundo-compressor-1](/wp-uploads/2016/07/mapa-mundo-compressor-1.png)
+![mapa-mundo-compressor-1](/wp-uploads/2016/07/mapa-mundo-compressor-1.png#center)
 
 para el espanto de todos Vds.
 

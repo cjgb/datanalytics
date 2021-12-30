@@ -17,7 +17,7 @@ tags:
 
 El preludio esto:
 
-![](/wp-uploads/2018/01/menciones_franquismo.png)
+![](/wp-uploads/2018/01/menciones_franquismo.png#center)
 
 Que tiene el interés y la interpretación (muchas de ellas, como se podrá barruntar más abajo, de corte técnico) que cada uno quiera darle.
 

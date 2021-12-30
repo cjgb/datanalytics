@@ -17,8 +17,8 @@ La realidad es compleja y los más de los fenómenos son multivariados. Frente a
 
 Mi detector de pendejadas tuvo más trabajo del habitual mientras leía [_Equidad y élite_](http://sociedad.elpais.com/sociedad/2014/04/01/actualidad/1396374385_539515.html). El artículo, tengo la impresión, elabora sobre los datos
 
-[![pisa_vs_nivel_educativo_padres](/wp-uploads/2014/04/pisa_vs_nivel_educativo_padres.png)
-](/wp-uploads/2014/04/pisa_vs_nivel_educativo_padres.png)
+[![pisa_vs_nivel_educativo_padres](/wp-uploads/2014/04/pisa_vs_nivel_educativo_padres.png#center)
+](/wp-uploads/2014/04/pisa_vs_nivel_educativo_padres.png#center)
 
 recogidos en este [informe del Ministerio de Educación sobre los resultados de PISA para España en 2012](http://www.mecd.gob.es/dctm/inee/internacional/pisa2012-resolucionproblemas/pisa2012cba-1-4-2014-web.pdf?documentId=0901e72b8190478c). En realidad, no son los resultados de PISA sino de un estudio piloto paralelo sobre una submuestra de la muestra de estudiantes a los que se ha examinado por ordenador y no con el tradicional cuestionario de papel. Insisto: tengo la sensación de que son esos los datos porque el autor del artículo no cita sus fuentes sino vagamente.
 
@@ -34,8 +34,8 @@ Afortunadamente, la OCDE hila más fino que don Saturnino y ha creado su propio 
 
 En ese mismo informe de la OCDE aparecen tablas y gráficos que invitan a desconfiar de las conclusiones de don Saturnino. Por ejemplo
 
-[![pisa_vs_escs](/wp-uploads/2014/04/pisa_vs_escs.png)
-](/wp-uploads/2014/04/pisa_vs_escs.png)
+[![pisa_vs_escs](/wp-uploads/2014/04/pisa_vs_escs.png#center)
+](/wp-uploads/2014/04/pisa_vs_escs.png#center)
 
 es un segmento (porque no cabe el resto) de una gráfica que muestra los resultados de PISA en matemáticas según la ESCS. Para quienes quieran consultarla entera, está en la página 43 del informe _[PISA 2012 Results: Excellence through Equity (Volume II)](http://www.oecd-ilibrary.org/education/pisa-2012-results-excellence-through-equity-volume-ii_9789264201132-en)_ y cuyos datos subyacentes pueden encontrarse en formato Excel [aquí](http://dx.doi.org/10.1787/888932964813).
 
