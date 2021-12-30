@@ -1339,3 +1339,18 @@ textarea {
 		font-size: .6875rem;
 	}
 }
+
+/*
+
+Additions by @gilbellosta on 2021-12-30
+
+*/
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto;
+	/* see
+	http://www.ebadf.net/2016/10/19/centering-images-in-hugo/#the-solution
+	*/
+}

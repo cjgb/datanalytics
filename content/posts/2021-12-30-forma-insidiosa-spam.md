@@ -16,7 +16,7 @@ Durante el proceso de migración de mi blog a Hugo he descubierto ---pienso tamb
 
 Tenía, por ejemplo, enlaces al portal de un datatón ocurrido en mayo de 2011, el [Desafío Abredatos 2011](http://www.abredatos.es). Algunos fallaban, otros no. Al final, el problema era que solo estaba activo el subdominio principal, el consabido www. Pero al revisar el contenido, me llamó la atención que algunos de los enlaces que contiene el nuevo portal son algo... sospechosos: ¡apuntaban a páginas de _entretenimiento adulto_!
 
-![](/wp-uploads/2021/12/spam_insidioso.png)
+![](/wp-uploads/2021/12/spam_insidioso.png#center)
 
 Pensé que la página estaría _jaqueada_. Pero no. Lo que sucede es que ha sido adquirida, según nic.es, por un individuo (¿una organización?), Josue Emmanuel Gio Yah, que, aparentente ha mantenido el contenido original pero ha sustituido algunos de los enlaces existentes por otros que apuntan a las páginas de sus clientes finales. De hecho, una búsqueda en Google conduce a páginas como [esta](https://www.geeknetic.es/Noticia/22379/Descubren-enlaces-porno-ocultos-accesibles-desde-Paginas-Web-del-Gobierno-de-Espana.html) donde se da cuenta de otras de sus malandanzas.
 
