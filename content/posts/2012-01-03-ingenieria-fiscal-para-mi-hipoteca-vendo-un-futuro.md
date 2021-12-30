@@ -4,7 +4,7 @@ date: 2012-01-03 06:23:30+00:00
 draft: false
 title: 'Ingeniería fiscal para mi hipoteca: ¿vendo un futuro?'
 
-url: /2012/01/03/ingenieria-fiscal-para-mi-hipoteca-%c2%bfvendo-un-futuro/
+url: /2012/01/03/ingenieria-fiscal-para-mi-hipoteca-fvendo-un-futuro/
 categories:
 - finanzas
 - números
