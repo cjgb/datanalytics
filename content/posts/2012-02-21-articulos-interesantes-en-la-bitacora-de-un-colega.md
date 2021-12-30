@@ -9,6 +9,8 @@ categories:
 - consultoría
 tags:
 - consultoría
+- geomárketing
+- márketing
 ---
 
 Me envía Guillermo Córdoba, de [Unica360](http://www.unica360.com), una selección de entradas de su [bitácora](http://www.unica360.com/blog) que, creo, serán también del interés de mis lectores:

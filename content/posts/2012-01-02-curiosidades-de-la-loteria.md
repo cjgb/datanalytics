@@ -4,7 +4,7 @@ date: 2012-01-02 06:39:42+00:00
 draft: false
 title: ¿Curiosidades de la lotería?
 
-url: /2012/01/02/%c2%bfcuriosidades-de-la-loteria/
+url: /2012/01/02/curiosidades-de-la-loteria/
 categories:
 - probabilidad
 tags:

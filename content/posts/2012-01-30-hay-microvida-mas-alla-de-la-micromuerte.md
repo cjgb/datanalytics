@@ -19,8 +19,7 @@ Hablamos ya hace un tiempo de las [micromuertes](http://www.datanalytics.com/201
 
 Una microvida corresponde a una esperanza de vida de media hora. _Malgasta_ una microvida quien fuma dos cigarros, bebe siete unidades de alcohol (equivalentes a  un litro de cerveza) o vive un día con un sobrepeso de 5 kg.
 
-[![](/wp-uploads/2012/01/microvidas.png)
-](/wp-uploads/2012/01/microvidas.png)
+![](/wp-uploads/2012/01/microvidas.png)
 
 Microvidas y micromuertes son conceptos análogos, pero no enteramente equivalentes. Ambos nos ayudan a cuantificar pequeños riesgos. Sin embargo, el efecto de las microvidas es acumulativo mientras que el de las micromuertes no: quien haya terminado vivo su sesión de parapente, habrá puesto a cero su contador de micromuertes, pero no así quien haya fumado su segundo cigarro.
 
