@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-12-13
+date: 2021-12-29
 title: He migrado el blog a Hugo
 
 url: /2021/12/29/migracion-blog-hugo/
