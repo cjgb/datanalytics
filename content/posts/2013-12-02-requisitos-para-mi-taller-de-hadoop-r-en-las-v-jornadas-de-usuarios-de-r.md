@@ -26,7 +26,7 @@ Los requisitos son los siguientes:
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * ssh (via [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) en Windows)
-* La [máquina virtual](http://datanalytics.com/uploads/hortonworks_sandbox_rstudio.zip) (¡3GB!)
+* La máquina virtual (nota: esta máquina virtual ya no existe en el momento, 2021, de la revisión de esta entrada)
 
 Nótese que el tamaño de la máquina virtual (3GB) y del resto de los componentes hace imposible descargar todo el _software_ necesario el día de las jornadas. Hay que descargarlo de antemano.
 

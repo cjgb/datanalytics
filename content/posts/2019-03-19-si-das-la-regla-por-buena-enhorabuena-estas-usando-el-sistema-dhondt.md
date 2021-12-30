@@ -8,7 +8,7 @@ url: /2019/03/19/si-das-la-regla-por-buena-enhorabuena-estas-usando-el-sistema-d
 categories:
 - números
 tags:
-- d'Hondt
+- dhondt
 - elecciones
 ---
 

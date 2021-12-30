@@ -17,7 +17,7 @@ Sé lo justito sobre estos temas. Lo justito como para no entender nada. Seguro 
 
 En España hay dos grandes impuestos, IVA e IRPF. El IVA es un porcentaje (prácticamente) _fijo_ del consumo: si consumes 100 pagas el mismo porcentaje que si consumes 1000. El IRPF es un porcentaje _creciente_ de los ingresos: si ganas 100, pagas un porcentaje menor que si ganas 1000.
 
-Como, además, la gente con menos ingresos consume un porcentaje mayor de su renta (tiene menos disponibilidad para el ahorro), el pocentaje de lo que dedica al consumo suele ser mayor que el de la gente con mayor renta (que no paga IVA por el dinero que ahorra y no consume).
+Como, además, la gente con menos ingresos consume un porcentaje mayor de su renta (tiene menos disponibilidad para el ahorro), el porcentaje de lo que dedica al consumo suele ser mayor que el de la gente con mayor renta (que no paga IVA por el dinero que ahorra y no consume).
 
 De lo anterior se deduce que la gente con menos ingresos debería preferir que el peso del IVA fuese menor que el del IRPF. Y al revés la de más ingresos, ¿no?
 

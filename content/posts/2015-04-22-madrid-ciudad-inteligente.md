@@ -14,7 +14,7 @@ tags:
 - ayuntamiento
 ---
 
-[Madrid es la ciudad más inteligente de Europa](http://www.inarquia.es/eficiencia-energetica/noticias/actualidad/item/852-el-proyecto-mint-convertir%C3%A1-a-madrid-en-la-ciudad-m%C3%A1s-inteligente-de-europa). Gracias al proyecto MiNT, con un presupuesto de 14 millones, van a ocurrir cosas de lo más futurista:
+[Madrid es la ciudad más inteligente de Europa](https://inarquia.es/el-proyecto-mint-convertira-a-madrid-en-la-ciudad-mas-inteligente-de-europa/). Gracias al proyecto MiNT, con un presupuesto de 14 millones, van a ocurrir cosas de lo más futurista:
 
 >El sistema permite que cualquier ciudadano o revisor pueda comunicar cualquier incidente en tiempo real desde su propio terminal o teléfono móvil, mediante el envío de una fotografía con su correspondiente información geográfica. De esta manera, la herramienta de análisis INSA recibirá los datos y los pondrá a disposición del Ayuntamiento y de los proveedores para poder solucionarlo, y con el tiempo incluso, adelantarse a las posibles incidencias.
 

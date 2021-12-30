@@ -11,7 +11,7 @@ tags:
 - probabilidad
 ---
 
-Al tratar el [principio de Kelly](http://www.datanalytics.com/2011/05/12/%C2%BFque-nos-jugamos/) el otro día omití, craso error, decir que dicho criterio nos invita a no apostar en casi ninguna circunstancia. En efecto, siendo el tamaño de la apuesta —más propiamente, el porcentaje del capital que apostar— el que propone el citerio igual a
+Al tratar el [principio de Kelly](http://www.datanalytics.com/2011/05/12/que-nos-jugamos/) el otro día omití, craso error, decir que dicho criterio nos invita a no apostar en casi ninguna circunstancia. En efecto, siendo el tamaño de la apuesta —más propiamente, el porcentaje del capital que apostar— el que propone el citerio igual a
 
 
 

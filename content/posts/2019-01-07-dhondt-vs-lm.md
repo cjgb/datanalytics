@@ -8,7 +8,7 @@ url: /2019/01/07/dhondt-vs-lm/
 categories:
 - números
 tags:
-- d'Hondt
+- dhondt
 - elecciones
 ---
 

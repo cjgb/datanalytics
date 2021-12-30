@@ -18,7 +18,7 @@ tags:
 
 una frase que bifurcó mi paseo por internet y me llevó, por un lado, a dar con la licitación del [_arrendamiento de las suscripciones de productos software POSTGRES_](https://t.co/nb8JmnWk8g), cosa que amerita por sí misma una entrada específica y, por el otro, me hizo que volviera a acordarme del proyecto MiNT, del que me ocuparé hoy.
 
-El proyecto MiNT (buscad _proyecto mint madrid_ en Google) se vendió en 2014 como el que iba a llevar a Madrid al pelotón de cabeza de las ciudades inteligentes. Leed y veréis. Si tenéis dudas de por dónde empezar, probad con [esto](http://www.madrid.es/UnidadesDescentralizadas/RelacionesInternacionales/Publicaciones/CatalogoBuenasPracticas/Economia/MiNT%20Madrid%20Inteligente%2014.pdf).
+El proyecto MiNT (buscad _proyecto mint madrid_ en Google) se vendió en 2014 como el que iba a llevar a Madrid al pelotón de cabeza de las ciudades inteligentes. Leed y veréis. Si tenéis dudas de por dónde empezar, probad con [esto](https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2014/07Julio/07Lunes/Notasprensa/ProyectoMint/ficheros/Proyecto%20Mint.pdf).
 
 Las promesas que más risas de payaso triste dan dos años después son las que ilustra el siguiente gráfico:
 

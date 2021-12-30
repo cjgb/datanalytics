@@ -20,8 +20,7 @@ El título es sugerente: _[¿Cisne negro o pollo del montón? El déficit fiscal
 
 El artículo en cuestión responde a otro anterior de [Germà Bel](http://www.datanalytics.com/2012/03/28/contrafactualidad-radial/) según el cual el déficit fiscal de Cataluña representa una singularidad impensable en ningún otro tipo de país. Responde [Ángel de la Fuente](http://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=14&lang=ing) con el siguiente gráfico:
 
-[![](/wp-uploads/2012/10/balanza_fiscal_cataluña_eeuu.png)
-](/wp-uploads/2012/10/balanza_fiscal_cataluña_eeuu.png)
+![](/wp-uploads/2012/10/balanza_fiscal_cataluna_eeuu.png)
 
 En él, lo que se denomina _tasa de retorno_ es el número de euros recibidos por cada euro contribuido (a través de impuestos).
 

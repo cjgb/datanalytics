@@ -12,9 +12,10 @@ tags:
 - anonimidad
 - estadística
 - python
+- microdatos
 ---
 
-[DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) (véase también el correspondiente [artículo](https://github.com/DataResponsibly/DataSynthesizer/blob/master/cr-datasynthesizer-privacy.pdf)) es un programa en Python que:
+[DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) (véase también el correspondiente [artículo](https://github.com/DataResponsibly/DataSynthesizer/blob/master/docs/cr-datasynthesizer-privacy.pdf)) es un programa en Python que:
 
 1. Toma una tabla de datos (microdatos, de hecho) que contiene información confidencial.
 2. Genera otra _aleatoria_ pero que conserva (¿los conservará?) la estructura básica de la información subyacente (conteos, correlaciones, etc.).

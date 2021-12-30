@@ -18,7 +18,7 @@ Aunque quienes siguen estas páginas recordarán cómo he hablado en ocasiones a
 En orden alfabético son:
 
 
-* [Advizor](http://www.advizorsolutions.com/gallery/), un producto orientado a _business managers_ fatigados de las servidumbres de los mastodontes corporativos típicos (léase: Business Objects, Microstrategy, etc.)
+* [Advizor](http://www.advizorsolutions.com/), un producto orientado a _business managers_ fatigados de las servidumbres de los mastodontes corporativos típicos (léase: Business Objects, Microstrategy, etc.)
 * [Bime](http://bimeanalytics.com/), en cuyas páginas encontré este estupenda [_guía_ para la representación de datos](http://bimeanalytics.com/blog/the-designer-guide-to-data-visualization-infographic/); está concebido para crear los llamados cuadros de mandos para gestión.
 * [Centrifuge](http://www.centrifugesystems.com/), que hace hincapié en la interactibilidad.
 * [Data Desk](http://www.datadesk.com/)
@@ -29,7 +29,7 @@ En orden alfabético son:
 * [Miner3D](http://www.miner3d.com/), que tiene pinta de ser similar a Spotfire.
 * [Mondrian](http://mondrian.theusrus.de), cuyo uso recomiento encarecidamente a mis lectores. Además, interactúa bastante bien con R. Aunque una vez tuve problemas para representar mapas con él.
 * [OpenViz](http://www.avs.com/products/openviz/), también orientado a aplicaciones empresariales, creación de cuadros de mando, etc.
-* [Protovis](http://vis.stanford.edu/protovis), que es _software _libre desarrollado por la Universidad de Stanford y con el que se pueden crear visualizaciones limpias e impactantes a un tiempo.
+* [Protovis](http://vis.stanford.edu/protovis), que es _software_ libre desarrollado por la Universidad de Stanford y con el que se pueden crear visualizaciones limpias e impactantes a un tiempo.
 * [Quantum4D](http://www.quantum4d.com/)
 * [Spotfire](http://spotfire.tibco.com/), que era una herramienta que utilizaban unos clientes y del que, a pesar de ser _software _propietario, guardo un recuerdo muy positivo. ¡Lo que daría por encontrar una herramienta libre análoga!
 * [Starlight](http://starlight.pnl.gov/)

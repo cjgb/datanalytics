@@ -9,16 +9,17 @@ categories:
 - r
 tags:
 - r
+- rss
+- agregador
 ---
 
-Me es grato anunciar que está disponible (una versión beta de) un [agregador de noticias sobre R en español](http://datanalytics.com/r_blogs_mashup.html). Ha sido desarrollado con el objetivo de proporcionar a la comunidad de usuarios un punto de acceso único a cuantas noticias sobre R se publiquen en la blogosfera en español. Es equivalente a su [versión en inglés]( http://www.r-bloggers.com).
+Me es grato anunciar que está disponible (una versión beta de) un agregador de noticias sobre R en español. Ha sido desarrollado con el objetivo de proporcionar a la comunidad de usuarios un punto de acceso único a cuantas noticias sobre R se publiquen en la blogosfera en español. Es equivalente a su [versión en inglés]( http://www.r-bloggers.com).
 
-También está disponible como [RSS](http://datanalytics.com/r_blogs_mashup.rss  ).
+También está disponible como [RSS](http://datanalytics.com/r_blogs_mashup.rss).
 
 **Contenido agregable**
 
 Actualmente, el motor de agregación lista entradas en blogs que:
-
 
 1. Publican sus contenidos vía RSS.
 2. Tienen entradas con la etiqueta o categoría "R" (una única letra y en mayúscula).

@@ -14,7 +14,7 @@ tags:
 
 Los censos huelen a naftalina. Eso de ir contando exhaustivamente cabezas, críos, cabras y cabañas [ya lo hacía el rey David](http://www.datanalytics.com/2010/04/07/el-censo-del-rey-david-y-el-castigo-de-yahve/) en su época.
 
-Tampoco son operaciones no pequeñas. El último censo chino movilizó a [seis millones de encuestadores](http://www.china.org.cn/china/2010-07/11/content_20470243.htm) y [el de EE.UU.](http://www.genealogybranches.com/censuscosts.html) costó casi [como el AVE a Valencia](http://www.datanalytics.com/2011/12/21/%C2%BFcuanto-vale-un-billete-del-ave-a-valencia-una-cota-inferior/).
+Tampoco son operaciones no pequeñas. El último censo chino movilizó a [seis millones de encuestadores](http://www.china.org.cn/china/2010-07/11/content_20470243.htm) y [el de EE.UU.](http://www.genealogybranches.com/censuscosts.html) costó casi [como el AVE a Valencia](http://www.datanalytics.com/2011/12/21/cuanto-vale-un-billete-del-ave-a-valencia-una-cota-inferior/).
 
 {{< figure src="/wp-uploads/2014/01/coste_censo.png" title="Coste (absoluto y relativo) de los últimos censos de diversos países europeos." >}}
 

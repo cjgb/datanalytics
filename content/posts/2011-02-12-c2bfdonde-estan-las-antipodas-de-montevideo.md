@@ -11,7 +11,7 @@ tags:
 - nlp
 ---
 
-No sé si te lo habrás preguntado alguna vez. [Ni siquiera lo sabe Google](http://www.google.com/search?client=opera&rls=en&q=%C2%BFD%C3%B3nde+est%C3%A1n+las+ant%C3%ADpodas+de+Montevideo?&sourceid=opera&ie=utf-8&oe=utf-8).
+No sé si te lo habrás preguntado alguna vez. [Ni siquiera lo sabe Google](http://www.google.com/search?client=opera&rls=en&q=D%C3%B3nde+est%C3%A1n+las+ant%C3%ADpodas+de+Montevideo?&sourceid=opera&ie=utf-8&oe=utf-8).
 
 
 Sin embargo, me admira [esto](http://www.wolframalpha.com/input/?i=which+are+the+antipodes+of+montevideo%3F).

@@ -4,7 +4,7 @@ date: 2012-01-10 07:11:10+00:00
 draft: false
 title: Escribir el libro "Estadística con R" en tres meses, ¿quimera?
 
-url: /2012/01/10/escribir-el-libro-estadistica-con-r-en-tres-meses-%c2%bfquimera/
+url: /2012/01/10/escribir-el-libro-estadistica-con-r-en-tres-meses-quimera/
 categories:
 - r
 tags:

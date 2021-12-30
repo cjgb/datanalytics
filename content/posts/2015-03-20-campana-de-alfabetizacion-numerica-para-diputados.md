@@ -19,6 +19,8 @@ tags:
 >
 >[...]
 
-Así, pero en inglés, comienza [esta nota](http://www.rss.org.uk/RSS/Influencing_Change/Lobby_election_candidates/RSS/Influencing_Change/Lobby_election_candidates.aspx) de la Royal Statistical Society que sugiere a los votantes (del RU, desgraciadamente) invitar a sus candidatos a formarse en los rudimentos de la estadística y el análisis y comprensión de datos.
+Así, pero en inglés, comienza [esta nota](https://www.theguardian.com/politics/datablog/2015/apr/29/potential-mps-general-election-2015-stats-training-numeracy) de la Royal Statistical Society que sugiere a los votantes (del RU, desgraciadamente) invitar a sus candidatos a formarse en los rudimentos de la estadística y el análisis y comprensión de datos.
 
-Habida cuenta del notorio [sesgo profesional](http://vozpopuli.com/actualidad/57941-de-leguleyo-hasta-sacerdote-y-campesino-las-profesiones-de-sus-senorias-los-diputados) de nuestros representantes, cabe pensar que una campaña similar sería la mar de provechosa en estos nuestros lares.
+Habida cuenta del notorio [sesgo profesional](https://www.vozpopuli.com/espana/diputados-congreso_de_los_diputados-politicos-diputados-congreso-profesiones_politicos_0_782321772.html) de nuestros representantes, cabe pensar que una campaña similar sería la mar de provechosa en estos nuestros lares.
+
+**Nota:** El enlace al documento de la RSS se lo comió el gato años después. Lo he reemplazado por un enlace a un artículo de prensa que da cuenta de él.

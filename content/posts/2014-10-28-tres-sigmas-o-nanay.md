@@ -34,6 +34,6 @@ El resto del resumen describe la situación mejor que yo lo haría:
 
 Es decir, exigir [p-valores del orden del 0.003](http://blogs.scientificamerican.com/observations/2012/07/17/five-sigmawhats-that/).
 
-Ah, y el artículo de la literatura médica al que se refieren los autores está comentado [aquí](http://www.datanalytics.com/2011/03/03/%C2%BFcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).
+Ah, y el artículo de la literatura médica al que se refieren los autores está comentado [aquí](http://www.datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).
 
 

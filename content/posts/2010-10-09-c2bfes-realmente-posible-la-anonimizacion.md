@@ -11,7 +11,7 @@ tags:
 - ciencia de datos
 ---
 
-Pues depende a quién se lo pregunte uno. Por ejemplo, [el 56% de los encuestados por KDnuggets dijeron que sí](http://www.kdnuggets.com/polls/2010/is-anonymization-still-possible.html). En cambio, uno de los lectores de este blog aventuró [lo contrario](http://www.datanalytics.com/2010/10/03/%C2%BFpor-que-no-una-competicion/#comments).
+Pues depende a quién se lo pregunte uno. Por ejemplo, [el 56% de los encuestados por KDnuggets dijeron que sí](http://www.kdnuggets.com/polls/2010/is-anonymization-still-possible.html). En cambio, uno de los lectores de este blog aventuró [lo contrario](http://www.datanalytics.com/2010/10/03/por-que-no-una-competicion/#comments).
 
 Es curioso que este debate: pudo haberse abierto mucho tiempo atrás —p.e., son públicos los [microdatos de la EPA](http://www.ine.es/prodyser/micro_epa.htm) y de muchas otras encuestas en España— pero que, de no habérseme pasado por alto, sólo ha despegado con particular virulencia a raíz de la popularización de estas competiciones de minería de datos de las que he hablado en alguna ocasión.
 

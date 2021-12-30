@@ -8,7 +8,7 @@ url: /2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/
 categories:
 - estadística
 tags:
-- constrOptim
+- constroptim
 - estadística
 - mínimos cuadrados
 - modelos
@@ -20,7 +20,7 @@ Avisé en mi entrada del otro día: [no me preguntéis por qué](http://www.data
 
 Pero cuanto más pienso sobre ello, menos claro lo tengo. ¿Por qué restricciones?
 
-Primero, el contexto. O el casi contexto. Porque no es exactamente así. Pero sí parecido. Supongamos que queremos _predecir_ algo y construimos, p.e., 4 modelos. Se nos ocurre (y hay [buenas razones para ello](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5693450&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5693450)) combinar los predictores.
+Primero, el contexto. O el casi contexto. Porque no es exactamente así. Pero sí parecido. Supongamos que queremos _predecir_ algo y construimos, p.e., 4 modelos. Se nos ocurre (y hay [buenas razones para ello](https://ieeexplore.ieee.org/document/5693450)) combinar los predictores.
 
 Uno puede pensar en usar la media de las predicciones. O la mediana. O tratar de usar un peso revelado por los datos.
 

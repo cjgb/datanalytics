@@ -20,21 +20,16 @@ Parte de lo que quería contar acá ya lo ha hecho otro [aquí](http://gallir.w
 
 Pero tengo que decir que, además de lo que ya se ha comentado sobre el estudio en otros foros, me llama la atención su página seis. En ella se trata de responder a una pregunta interesante: ¿cuánto consumo ilegal podría convertirse en legal en función de la propensión de pago de los consumidores? La respuesta es la siguiente:
 
-[![](/wp-uploads/2010/11/pirateria_libros_2010.png)
-](/wp-uploads/2010/11/pirateria_libros_2010.png)
+![](/wp-uploads/2010/11/pirateria_libros_2010.png)
 
 Las conclusiones a las que hacen llegar estos datos al periodista de El País, por ejemplo, son los siguientes:
 
-
 >Así, el propio informe indica que solo el 58% de los usuarios estarían dispuestos a pagar el contenido que se descargan si se pusiera coto a la piratería, generando unos ingresos potenciales para todas estas industrias de 9.300 millones anuales en 2010, en lugar de los 3.100 millones que se alcanzarán.
-
 
 El mismo IDC dice:
 
-
->Nota: Estos datos han sido calculados con precios medios de mercado. En cualquier caso, conviene recordar que existen nuevos modelos de negocio legales en Internet que ofrecen contenidos gratuitos para el usuario y que podrían absorber parte de esta “nueva” demanda de contenidos legales. Estos datos son por tanto más interesantes como constatación de que hay espacio para un mercado legal si se pone coto a la piratería on-line.
-
+>Nota: Estos datos han sido calculados con precios medios de mercado. En cualquier caso, conviene recordar que existen nuevos modelos de negocio legales en Internet que ofrecen contenidos gratuitos para el usuario y que podrían absorber parte de esta “nueva” demanda de contenidos legales. Estos datos son por tanto más interesantes como constatación de que hay espacio para un mercado legal si se pone coto a la piratería on-line.
 
 Y yo me pregunto: si el casi 60% de los usuarios estuviesen dispuestos a adquirir los productos que ahora _piratean_ a los _precios de mercado_, ¿por qué no lo están haciendo ya?
 
-Con que sólo cinco de mis lectores me animen a hacerlo en los comentarios, le mandaré al Sr. Rafael Achaerandio, responsable del estudio, un correo electrónico invitándolo a leer el [código deontológico del International Statistical Institute](http://isi-web.org/about/declarationprofessionalethics-2010uk).
+Con que sólo cinco de mis lectores me animen a hacerlo en los comentarios, le mandaré al Sr. Rafael Achaerandio, responsable del estudio, un correo electrónico invitándolo a leer el [código deontológico del International Statistical Institute](http://isi-web.org/about/declarationprofessionalethics-2010uk).

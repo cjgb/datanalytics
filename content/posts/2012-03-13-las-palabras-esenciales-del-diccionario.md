@@ -34,7 +34,7 @@ Para conseguir mi objetivo he hecho lo siguiente:
 
 1. Descargar la lista de palabras definidas en el DRAE, disponibles [aquí](http://dirae.es/static/lemario-20110414.txt) y [aquí](http://dirae.es/static/lemasnuevos23edicion-20110415.txt).
 2. Consultar (programáticamente, por supuesto) en el DRAE cada una de ellas.
-3. Buscar la raíz de los términos que aparecen en la definición usando _mi_ [lematizador](http://www.datanalytics.com/2011/12/13/un-lematizador-para-el-espanol-con-r-%C2%BFcutre-%C2%BFmejorable/).
+3. Buscar la raíz de los términos que aparecen en la definición usando _mi_ [lematizador](http://www.datanalytics.com/2011/12/13/un-lematizador-para-el-espanol-con-r-cutre-mejorable/).
 4. Crear una tabla con tres columnas:
 
 	* lema

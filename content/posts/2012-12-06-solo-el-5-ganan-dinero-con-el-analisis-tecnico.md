@@ -13,7 +13,7 @@ tags:
 - mala ciencia
 ---
 
-Hojeando la prensa francesa di con este pequeño artículo en Les Echos, [_Pourquoi les particuliers sont perdants sur les devises_](http://www.lesechos.fr/entreprises-secteurs/finance-marches/actu/0202391738501-pourquoi-les-particuliers-sont-perdants-sur-les-devises-512855.php). Remite a un artículo reciente, [_Is Technical Analysis Profitable for Individual Currency Traders?_](http://www.iijournals.com/doi/abs/10.3905/jpm.2012.39.1.142) inasequible para quienes creemos que los 45 dólares que cuesta descargarlo tienen mejor empleo en otra parte (es curioso: en muchos otros ámbitos académicos es fácil conseguir los artículos gratis; en finanzas, casi imposible).
+Hojeando la prensa francesa di con este pequeño artículo en Les Echos, [_Pourquoi les particuliers sont perdants sur les devises_](https://www.lesechos.fr/2012/11/pourquoi-les-particuliers-sont-perdants-sur-les-devises-366876). Remite a un artículo reciente, [_Is Technical Analysis Profitable for Individual Currency Traders?_](http://www.iijournals.com/doi/abs/10.3905/jpm.2012.39.1.142) inasequible para quienes creemos que los 45 dólares que cuesta descargarlo tienen mejor empleo en otra parte (es curioso: en muchos otros ámbitos académicos es fácil conseguir los artículos gratis; en finanzas, casi imposible).
 
 ¿El resumen? Que prácticamente nadie gana dinero usando el llamado [análisis técnico](http://es.wikipedia.org/wiki/An%C3%A1lisis_t%C3%A9cnico). E incluso podría argumentarse que ese 5% podrían no ser sino el [sesgo de supervivencia](http://en.wikipedia.org/wiki/Survivorship_bias).
 

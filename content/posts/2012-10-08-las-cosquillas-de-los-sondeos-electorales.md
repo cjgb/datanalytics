@@ -20,8 +20,7 @@ El ministro Wert parece un tipo majo y con sentido del humor que nos cae mal a t
 
 Y es que El Periódico ha publicado los resultados de una encuesta electoral que resume en este gráfico:
 
-[![](/wp-uploads/2012/10/sondeo_cataluña.png)
-](/wp-uploads/2012/10/sondeo_cataluña.png)
+![](/wp-uploads/2012/10/sondeo_cataluna.png)
 
 Hay miles de maneras de leer esos resultados, pero la que llama especialmente la atención a quien suscribe y que motiva la presente entrada, es la extremada precisión que parecen tener las predicciones: CiU, por ejemplo, obtendría 64 o 65 escaños.
 

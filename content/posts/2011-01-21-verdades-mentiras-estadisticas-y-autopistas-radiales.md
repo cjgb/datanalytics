@@ -19,8 +19,6 @@ Pero conforme fue mejorando la red de infraestructuras españolas, la estimació
 
 Para resolver el problema contamos con la inestimable ayuda del capitalismo —nos dicen—: ningún sistema económico es capaz de realizar una [asignación de recursos](http://es.wikipedia.org/wiki/Asignaci%C3%B3n_de_recursos) de manera tan eficiente como él. El capitalismo y los capitalistas han corrido al auxilio del estado para ayudarnos a todos a seleccionar _científicamente_ las infraestructuras que realmente necesitamos. El procedimiento, simplificado, es el siguiente:
 
-
-
 1. El estado propone la construcción de una infraestructura para cederla en concesión.
 2. Empresas capitalistas, tras realizar _profundos_ estudios de rentabilidad, estimaciones a futuro de intensidad de uso, descuento de flujos de caja, exhaustivas simulaciones bajo distintos escenarios para estimar el riesgo, etc., deciden si vale la pena arriesgar el dinero de sus accionistas respondiendo a la propuesta afirmativamente o no.
 3. El estado elige una concesionaria que expropia, construye y gestiona la infraestructura.
@@ -37,18 +35,10 @@ Pero, ¿qué nos está sucediendo en España? Pues lo que nos cuentan artículos
 
 Confieso a mis lectores que comencé esta entrada hace mucho y que pensaba remartarla con un lamento sobre la incapacidad de los estadísticos patrios para realizar prognosis certeras (dado que en tanto erraron sus predicciones de tráfico). Pero, tras indagar sobre el asunto, sospecho que el problema es muy distinto. Aunque nos lo explican [aquí](http://www.sintetia.com/analisis/seleccion-adversa-en-los-contratos-de-las-administraciones-publicas), extraigo del enlace lo que será más relevante para la parroquia de esta bitácora:
 
-
 > Sin embargo, la ley de contratos establece que, en caso de quiebra del concesionario, se debe rescatar la concesión pagando el coste de la construcción de la autopista menos lo amortizado por el paso del tiempo. Esta cláusula cambia abruptamente el negocio al _establecer una opción de venta para el concesionario_, que si hace bien los cálculos puede conseguir que: "si va bien gano, si va regular empato y si va mal paga la administración".
-
-
-
 
 Así que:
 
-
-
-
 > Si se ponen unos tráficos desproporcionados y casi no se aporta capital propio, has conseguido quedarte con la parte positiva de las ganancias y reducir la parte negativa. A la administración le queda el gran riesgo, que en momentos de crisis económica en que los tráficos se reducen y la recaudación tributaria también, tenga que rescatar la concesión.
 
-
-Al estadístico de turno un jefe con corbata le pide —como a mí me pasó una vez— una estimación _que dé tanto_. Y viola—a punta de pistola finiquito— el [código deontológico](http://www.gutierrezandres.com/blog/2011/01/declaracion-sobre-etica-profesional-del-instituto-internacional-de-estadistica) y [nuestra profesión se banaliza de nuevo](http://www.sabidurias.com/cita/es/8562/mark-twain/hay-tres-clases-de-mentiras-la-mentira-la-maldita-mentira-y-las-estadisticas).
+Al estadístico de turno un jefe con corbata le pide ---como a mí me pasó una vez--- una estimación _que dé tanto_. Y viola—a punta de pistola finiquito— el [código deontológico](https://hagutierrezro.home.blog/2011/01/11/declaracion-sobre-etica-profesional-del-instituto-internacional-de-estadistica/) y [nuestra profesión se banaliza de nuevo](http://www.sabidurias.com/cita/es/8562/mark-twain/hay-tres-clases-de-mentiras-la-mentira-la-maldita-mentira-y-las-estadisticas).

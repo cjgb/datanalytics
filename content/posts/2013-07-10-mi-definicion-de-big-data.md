@@ -17,7 +17,7 @@ tags:
 
 No sin descaro, me atrevo a aportar una definición alternativa a eso que llaman _big data_ y que yo traduzco en ocasiones como _grandes datos_.
 
-No obstante, para comprenderla, considero necesaria una pequeña digresión de dos párrafos —con la que muchos, espero, no aprenderán nada que no traigan ya sabido— sobre los lenguajes de programación [declarativos](http://es.wikipedia.org/wiki/Programaci%C3%B3n_declarativa) e [imperativos](http://es.wikipedia.org/wiki/Programaci%C3%B3n_imperativa).
+No obstante, para comprenderla, considero necesaria una pequeña digresión de dos párrafos —con la que muchos, espero, no aprenderán nada que no traigan ya sabido— sobre los lenguajes de programación [declarativos e imperativos](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n#Clasificaci%C3%B3n_por_paradigmas).
 
 En los primeros, programar consiste esencialmente en escribir con cierta notación aquello que quieres: la suma de los elementos de un vector, el promedio de los valores de una columna de una tabla, la suma de los saldos de los clientes de Soria, etc. El intérprete se encarga de servirte los resultados en la proverbial bandeja.
 

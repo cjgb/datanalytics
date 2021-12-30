@@ -21,7 +21,7 @@ I will be presenting a hands-on workshop. Those attending it are invited to inst
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * ssh (via [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) on Windows)
-* The [virtual machine](http://datanalytics.com/uploads/hortonworks_sandbox_1.3_rstudio.zip) (3GB!)
+* The virtual machine (note: this virtual machine no longer exists as of 2021)
 
 The virtual machine is large (a 3GB compressed file) and it will be impossible to download it during the sessions. Attendees are advised to download the files (and test the installation) in advance.
 

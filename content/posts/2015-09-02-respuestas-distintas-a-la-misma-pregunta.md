@@ -30,7 +30,7 @@ Mismos datos, misma pregunta (o no: más sobre eso, luego), distintos métodos y
 
 En puridad, la pregunta a la que trataron de dar respuesta los distintos equipos no fue exactamente la misma. A la hora de concretar con precisión la hipótesis, uno puede plantear diversas variaciones y tener en cuenta (o no) distintos factores (p.e., la posición del jugador, la liga en la que juega, etc.).
 
-Hay una discusión que se resume en lo que cuenta el párrafo anterior [aquí](http://simplystatistics.org/2015/08/20/if-you-ask-different-quetions-you-get-different-asnwers-one-more-way-science-isnt-broken-it-is-just-really-hard/). El gráfico está extraído de [_FiveThirtyEight_](http://fivethirtyeight.com/features/science-isnt-broken/) y la discusión que lo acompaña merece también la pena: trata este y otros temas relacionados.
+Hay una discusión que se resume en lo que cuenta el párrafo anterior [aquí](https://simplystatistics.org/posts/2015-08-20-if-you-ask-different-quetions-you-get-different-asnwers-one-more-way-science-isnt-broken-it-is-just-really-hard/). El gráfico está extraído de [_FiveThirtyEight_](http://fivethirtyeight.com/features/science-isnt-broken/) y la discusión que lo acompaña merece también la pena: trata este y otros temas relacionados.
 
 Finalmente, a los que os dediquéis al análisis de datos, trabajéis en consultoría o tengáis guardada en la manga una agenda normativa que impulsar, ¡enhorabuena! Fácil tenéis encontrar ese numerito menor que 0.05 que tantas puertas abre.
 

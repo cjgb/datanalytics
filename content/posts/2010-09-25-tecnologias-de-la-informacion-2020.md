@@ -14,7 +14,7 @@ tags:
 Me consta que algunos de mis lectores piensan en reorientar sus carreras. Éstos se autoclasifican en dos grandes grupos:
 
 
-* Los candidatos a "dinosaurios" —según la terminología de Raúl, [mi  vecino de blog](http://analisisydecision.es/)— que aspiran a autoperpetuarse en una sinecura y que  encuentran [esta entrada](http://www.datanalytics.com/2010/07/03/%C2%BFprograma-vd-en-sas-%C2%A1aprenda-a-ser-indispensable/) de mi blog grandemente inspiradora.
+* Los candidatos a "dinosaurios" —según la terminología de Raúl, [mi  vecino de blog](http://analisisydecision.es/)— que aspiran a autoperpetuarse en una sinecura y que  encuentran [esta entrada](http://www.datanalytics.com/2010/07/03/programa-vd-en-sas-aprenda-a-ser-indispensable/) de mi blog grandemente inspiradora.
 * Los que pueden encontrar [este artículo](http://www.computerworld.com/s/article/350908/5_Indispensable_IT_Skills_of_the_Future) de provecho. O, más bien, parte de él, la parte que, por motivar la lectura, traduzco a continuación.
 
 
