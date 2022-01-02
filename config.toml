@@ -18,6 +18,7 @@ googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tra
   opengraph = true
   twitter_cards = true
   images = ["/carlos-gil-bellosta-twitter-card.png"]  # Twitter card image
+  card = "summary"
   readmore = false # Show "Read more" button in list if true
   authorbox = true
   pager = true
