@@ -29,7 +29,7 @@ googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tra
 [Twitter]
   twitter_cards = true
   images = ["/carlos-gil-bellosta-twitter-card.png"]  # Twitter card image
-  card = "summary"
+  #card = "summary"
 
 [Params.logo]
   subtitle = "Estadística, análisis de datos y más" # Logo subtitle
