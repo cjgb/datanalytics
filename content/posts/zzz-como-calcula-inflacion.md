@@ -49,3 +49,7 @@ https://datanalytics.com/2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-u
 /2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/
 
 /2013/04/15/tu-tasa-de-paro-en-medialab-prado/
+
+https://twitter.com/ryancbriggs/status/1478209283242139648
+
+https://statmodeling.stat.columbia.edu/2020/07/13/if-variation-in-effects-is-so-damn-important-and-so-damn-obvious-why-do-we-hear-so-little-about-it/

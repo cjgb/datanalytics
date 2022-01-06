@@ -46,7 +46,7 @@ Etc. Además de otros factores relativos a la autoselección de los sujetos, com
 
 Existe una tradición ultraviejuna y reaccionaria en el estadística, prácticamente desoída desde el XIX y cuyos ecos apenas resuenan hoy en día en algunas covachuelas de la llamada escuela austríaca de economía, recelosa de extender los métodos de las ciencias duras ---química, astronomía, etc.--- al ámbito de las ciencias sociales. Tuvieron cierto predicamento durante el siglo XIX y está asociada a nombres como Cournot o Keverberg que, en el fondo, no tenían claro eso de _sumar peras y manzanas_. Sus advertencias quedaron sepultadas por los bríos de esa nueva _metodología_ que la estadística traía a las ciencias sociales.
 
-Pero advierto cierto renacimiento de su escepticismo en esa escuela antimarginalista que no se contenta con un _efecto medio_ o una media de objetos heterogéneos, que se niega a razonar sobre ellos y que se interesa por lo que las descomposiciones ---_breakdowns--- revelan.
+Pero advierto cierto renacimiento de su escepticismo en esa escuela antimarginalista que no se contenta con un _efecto medio_ o una media de objetos heterogéneos, que se niega a razonar sobre ellos y que se interesa por lo que las descomposiciones ---_breakdowns_--- revelan.
 
 Ojalá envejezcan mal, pues, esas imágenes que hoy traigo.
 
