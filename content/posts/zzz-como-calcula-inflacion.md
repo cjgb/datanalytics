@@ -53,3 +53,4 @@ https://datanalytics.com/2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-u
 https://twitter.com/ryancbriggs/status/1478209283242139648
 
 https://statmodeling.stat.columbia.edu/2020/07/13/if-variation-in-effects-is-so-damn-important-and-so-damn-obvious-why-do-we-hear-so-little-about-it/
+https://statmodeling.stat.columbia.edu/2018/11/28/multilevel-models-multiple-comparisons-varying-treatment-effects/
