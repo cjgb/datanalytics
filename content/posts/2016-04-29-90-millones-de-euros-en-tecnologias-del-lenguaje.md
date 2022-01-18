@@ -17,3 +17,6 @@ El gobierno español [ha anunciado](http://www.mpr.gob.es/prencom/notas/Paginas/
 Veremos en unos años qué ha dado de sí la cosa. En particular, si habrá permitido que los usuarios de R dispongamos de herramientas libres (porque de momento, ya están cobrándonoslas vía Agencia Tributaria) para hacer nuestros cacharreos.
 
 O si, por contra, unos espabiladillos habrán sabido ordeñar la vaca con la excusa de desarrollar proyectos que acaben en una memoria que presentar en el ministerio de turno para justificar la subvención y unos zips en los discos duros de los ordenadores del fondo. Esas herramientas y proyectos, vamos, hechos a desgana y que, una vez cortado el chorro de la subvención, caen en el olvido.
+
+**Addenda:** Casi 6 años después de la cosa he recibido noticia, a través de [@tweetconhielo](https://twitter.com/tweetconhielo), de las actividades realizadas a cargo del anterior presupuesto y su evaluación, que puede consultarse en la página [_Plan de Impulso de las Tecnologías del Lenguaje_](https://plantl.mineco.gob.es/tecnologias-lenguaje/PTL/Paginas/plan-impulso-tecnologias-lenguaje.aspx) del Ministerio de Economía.
+
