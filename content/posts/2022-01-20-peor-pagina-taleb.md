@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-02
+date: 2022-01-20
 title: La peor página de N. Taleb
 url: /2022/01/20/peor-pagina-taleb/
 categories:
