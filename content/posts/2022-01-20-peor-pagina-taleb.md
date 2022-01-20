@@ -13,7 +13,7 @@ tags:
 
 Dicen algunos ---bueno, más bien, lo suelo decir yo--- que la intersección de lo nuevo, lo interesante y lo cierto es el conjunto vacío. Ahora, [N. Taleb nos regala una página](https://fooledbyrandomnessdotcom.wordpress.com/2021/09/07/estimating-medical-error-rate-an-intuitive-max-entropy-method/) en el que trata novedosamente un tema que lleva siendo intereante desde, al menos, lo puso encima de la mesa el reverendo (Bayes) hace 250 años. Ergo...
 
-Vamos qué nos cuenta. Se plantea el problema de unos experimentos (independientes) de Bernoulli con probabilidad de ocurrencia desconocida $p$. Hay $n$ ensayos y $m$ éxitos. Y afirma que el _mejor_ estimador es
+Veamos qué nos cuenta. Se plantea el problema de unos experimentos (independientes) de Bernoulli con probabilidad de ocurrencia desconocida $p$. Hay $n$ ensayos y $m$ éxitos. Y afirma que el _mejor_ estimador es
 
 $$\hat{p} = 1 - I^{-1}_{1/2}(n-m, m + 1),$$
 
@@ -21,7 +21,7 @@ donde $I$ es, dice, la función _beta regularizada_ (sí, la que en R se llama `
 
 (En realidad, creo que Taleb quiere escribir $\hat{p} = I^{-1}_{1/2}(m + 1, n-m)$, que da el mismo resultado y es más coherente con su argumento general, i.e., el de invertir la función de probabilidad (acumulada) de una beta.)
 
-Es decir, Taleb dice que el mejor estimador es la mediana de una variable aleatoria de beta con parámetros $n-m$ y $m+1$, que equivale a la _posteriori_ (en el sentido bayesiano) correspondiente a una priori beta de parámetros 0 y 1 (que solo existe en _cierto sentido_ generalizado).
+Es decir, Taleb dice que el mejor estimador es la mediana de una variable aleatoria beta con parámetros $n-m$ y $m+1$, que equivale a la _posteriori_ (en el sentido bayesiano) correspondiente a una priori beta de parámetros 0 y 1 (que solo existe en _cierto sentido_ generalizado).
 
 Además, carga contra las dos aproximaciones _habituales_,
 
