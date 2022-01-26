@@ -1,8 +1,8 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-17
-title: TBA
-url: /2022/01/25/TBA/
+date: 2022-01-25
+title: "Universo y muestra: un ejemplo muy didáctico en el que La Caixa lo hace todo mal"
+url: /2022/01/25/universo-muestra-la-caixa/
 categories:
 - estadística
 tags:
@@ -38,15 +38,15 @@ El universo del estudio es _las familias_ (españolas) y en eso no hay problema.
 
 Para empezar, que la muestra está conformada por clientes de La Caixa, lo cual implica, para empezar, grandes sesgos territoriales y, sin duda, otros relativos a edades, niveles de ingresos, etc. (Para el que no lo sepa, las carteras de clientes minoristas de los distintos bancos españoles tienen _sesgos_ muy marcados y, aunque no se diga abiertamente, se _sabe_ que el banco tal es _de viejos_, etc.)
 
-Pero es todavía más grave que esa muestra cambia mes a mes. No está claro si todos los clientes del primer mes están en el segundo, si aparecen otros nuevos, si estos nuevos son cualitativamente distintos de los primeros, etc. En particular, a la base de datos de clientes de La Caixa se añadieron los de la antigua Bankia durante el periodo en cuestión.
+Pero es todavía más grave que esa muestra cambia mes a mes. No está claro si todos los clientes del primer mes están en el segundo, si aparecen otros nuevos, si estos nuevos son cualitativamente distintos de los primeros, etc. En particular, a la base de datos de clientes de La Caixa se añadieron los de la antigua Bankia durante el periodo en cuestión. ¿Se habrá tenido en cuenta? Poco parece importar a los autores aclarárnoslo.
 
 
 ### Notas finales
 
-El estudio al que me refiero hoy está _todo mal_. Tanto que da para discutir e ilustrar muchos problemas distintos. Me he centrado arriba en los relativos a la muestra y su sesgo, pero podría haber considerado otros enfoques.
+El estudio al que me refiero hoy está _todo mal_. Tanto que da para discutir e ilustrar varios problemas distintos. Me he centrado arriba en los relativos a la muestra y su sesgo, pero podría haber considerado otros enfoques.
 
-Por ejemplo, que hayan realizado un diseño inter-sujeto y no intra-sujeto. En un diseño inter-sujeto habrían construido las trayectorias de un conjunto de sujetos durante el tiempo y habrían analizado sus tendencias. Aquí, sin embargo, han analizado la evolución del _sujeto mediano_ en el tiempo represente este lo que quiera representar. Un estudio inter-sujeto es informativo en tanto que los sujetos son similares (átomos, hormigas, etc.) y cabe agruparlos. Cuando son disímiles (personas, consumos eléctricos, etc.), lo suyo es decantarse por el estudio intra-sujeto y realizar lo que se llama un estudio longitudinal. Da para otra entrada.
+Por ejemplo, que hayan realizado un diseño inter-sujeto y no intra-sujeto. En un diseño inter-sujeto habrían construido las trayectorias de un conjunto de hogares durante el tiempo y habrían analizado sus tendencias. Aquí, sin embargo, han analizado la evolución del _sujeto mediano_ en el tiempo represente este lo que quiera representar. Un estudio inter-sujeto es informativo en tanto que los sujetos son similares (átomos, hormigas, etc.) y cabe agruparlos. Cuando son disímiles (personas, consumos eléctricos, etc.), lo suyo es decantarse por el estudio intra-sujeto y realizar lo que se llama un estudio longitudinal. Da para otra entrada.
 
 O podría haberme centrado en la relación que tiene el estudio con ese debate acerca del _big data_ vs estadística tradicional (vía muestreo). Aunque este estudio no da ni para eso. El debate es relevante cuando el _big data_ contiene _todos_ los datos. Ahí pasan cosas de cierta enjundia como las que se discuten brevemente [aquí](/2014/02/27/d-hand-sobre-estadistica-y-mineria-de-datos/). Pero en este estudio no se presume de tener _todos los datos_ sino, simplemente, una muestra _muy grande_.
 
-Final y muy oportunamente, me ha llegado recientemente [esta entrada](https://marginalrevolution.com/marginalrevolution/2020/01/big-datasmall-bias.html) que abunda sobre estas cuestiones.
+Final y muy oportunamente, me ha llegado recientemente [este artículo](https://marginalrevolution.com/marginalrevolution/2020/01/big-datasmall-bias.html) que abunda sobre estas cuestiones.
