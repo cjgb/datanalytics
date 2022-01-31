@@ -1,7 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2010-09-06 22:41:11+00:00
-draft: false
 title: 'Una tarea para mis lectores: ¡resultados!'
 
 url: /2010/09/06/tarea-lectores-resultados/
