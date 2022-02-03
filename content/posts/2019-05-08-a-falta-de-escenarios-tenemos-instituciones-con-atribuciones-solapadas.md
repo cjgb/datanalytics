@@ -18,7 +18,7 @@ tags:
 
 Si yo fuera rey, expropiaría el edificio sito en el número 212 de la Castellana de Madrid, derruiría lo existente y construiría uno imagen especular de
 
-![](/wp-uploads/2019/05/Edificio_del_I.N.E._Madrid_03.jpg)
+![](/wp-uploads/2019/05/Edificio_del_I.N.E._Madrid_03.jpg#center)
 
 que es el que queda justo enfrente y que contiene eso que conocemos como Instituto Nacional de Estadística. Lo llamaría, por mantener la especularidad, ENI y lo poblaría de estadísticos con una misión:
 
