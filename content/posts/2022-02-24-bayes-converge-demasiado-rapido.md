@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2022-02-24
-title: ¿Bayes converge demasiado rápido?
+title: ¿Converge Bayes demasiado rápido?
 url: /2022/02/24/bayes-converge-demasiado-rapido/
 categories:
 - estadística
