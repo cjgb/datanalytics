@@ -1,9 +1,8 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-08 09:13:36+00:00
-draft: false
+date: 2019-05-08
+lastmod: 2022-02-03
 title: A falta de escenarios, tenemos instituciones con atribuciones solapadas
-
 url: /2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/
 categories:
 - estadística
@@ -30,3 +29,5 @@ Así tendríamos dos censos, dos EPAs, dos _brechas salariales_, dos de cada cos
 Pero a falta de ENI, tenemos AIReF. Gracias al cual podemos deleitarnos con cosas como [estas](http://nadaesgratis.es/j-ignacio-conde-ruiz/nuevas-proyecciones-demograficas-ine-vs-airef).
 
 [**_Coda encorchetada:_** ¿Cuánto más costaría el ENI que los actuales 17+1 INEs?]
+
+**Addenda** (2022-02-03): No es exactamente lo que proponía, pero se parece. El INE ha calculado la inflación de 2021 de una manera y CaixaBank dizque [_calcula que el INE sobreestimó en casi un punto el IPC de 2021 por no medir bien el precio de la luz_](https://www.eldiario.es/economia/caixabank-calcula-ine-sobreestimo-punto-ipc-2021-no-medir-precio-luz_1_8710070.html). No es exactamente lo que proponía, pero la lección que nos enseña es la misma.
