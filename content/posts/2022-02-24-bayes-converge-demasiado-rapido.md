@@ -24,7 +24,7 @@ Obtenemos un valor de $y$ y resulta ser 1. Está únicamente a una $\sigma$ de 0
 
 > Step back a bit, and it’s saying that you’ll offer 5-to-1 odds that theta>0 after seeing an observation that is statistically indistinguishable from noise. That can’t make sense. Go around offering 5:1 bets based on pure noise and you’ll go bankrupt real fast.
 
-(El resto de la entrada y algunos de los comentarios no tienen desperdicio.)
+El resto de la entrada y algunos de los comentarios no tienen desperdicio. En particular, los míos (que pueden considerarse una extensión a la presente entrada y la subsiguiente respuesta de Gelman).
 
 
 
