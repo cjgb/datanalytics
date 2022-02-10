@@ -15,9 +15,9 @@ Todos tenemos una serie de neuronas en la cabeza que se chutan de dopamina cuand
 
 ![](/wp-uploads/2022/02/sesgo_supervivencia.png#center)
 
-en nuestra imaginación.
+en nuestra imaginación. Pero existen alternativas.
 
-La primera alternativa es la que describe Émile-Auguste Chartier en su obra _Propos d'un Normand 1906-1914_ de 1908 cuando habla de cómo se diseñan las canoas polinesias:
+La primera es la que describe Émile-Auguste Chartier en su obra _Propos d'un Normand 1906-1914_ de 1908 cuando habla de cómo se diseñan las canoas polinesias:
 
 > Tout bateau est copié sur un autre batea... Raisonnons là-dessus à la manière de Darwin. Il est clair qu'un bateau très mal fait s'en ira par le fond après une ou deux campagnes, et ainsi ne sera jamais copié… On peut donc dire, en toute rigueur, que c'est la mer elle-même qui façonne les bateaux, choisit ceux qui conviennent et détruit les autres.
 
