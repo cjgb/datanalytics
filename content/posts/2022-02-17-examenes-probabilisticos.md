@@ -1,8 +1,8 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-18
+date: 2022-02-17
 title: Exámenes probabilísticos
-url: /2022/02/18/examenes-probabilisticos/
+url: /2022/02/17/examenes-probabilisticos/
 categories:
 - estadística
 tags:
