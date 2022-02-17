@@ -15,7 +15,7 @@ tags:
 
 Es habitual tener dos modelos $m_1$ y $m_2$ y querer compararlos. Supongamos que son modelos de clasificación binaria ---aunque nada de lo que sigue cambia realmente si son de clasificación categórica en un sentido más amplio---; vamos a suponer también que son modelos probabilísticos, en el sentido de que no producen directamente una predicción sino una probabilidad que puede luego convertirse en una predicción de acuerdo con cierta regla (p.e., predecir la categoría más probable).
 
-¿Cómo se comparan los modelos? Se toma un conjunto de datos, se los pone a predecir y se comparan los resultados usando _scorings_.
+¿Cómo se evalúan los modelos? Se toma un conjunto de datos, se los pone a predecir y se comparan los resultados usando _scorings_.
 
 **II.**
 
@@ -56,4 +56,4 @@ Un examen de respuesta múltiple (o binaria) no es otra cosa que un procedimient
 
 1. El hecho de que tendría más sentido usar un _scoring_ propio nos lo revela, además, el hecho de que en muchos exámenes de respuesta múltiple se penaliza más el error que el dejar la respuesta en blanco. ¡Es una manera rudimentaria de evitar los problemas que plantea que el _accuracy_ sea impropio!
 2. Seguro que no soy el primero al que se le ha ocurrido la idea y que de adentrarme en la literatura sobre la cosa encontraría muchas referencias a resultados empíricos acerca de por qué mi propuesta no funcionaría. Pero no, no voy a convertirme en abogado de una quimera; me interesa más la discusión sobre los _scorings_ propios e impropios que sus presuntas aplicaciones a este o aquel problema particular.
-3. Quizás a alguien le interese probar algunos de los ejercicios que aparecen en [_A List of Probability Calibration Exercises_](https://www.lesswrong.com/posts/LdFbx9oqtKAAwtKF3/list-of-probability-calibration-exercises). Son enlaces a _exámenes_ de cultura más o menos general donde uno puede indicar la confianza con que elige una u otra opción. No son propiamente ejercicios de calibración (el título es, pues, engañoso) sino de evaluación propiamente dicha. La calibración es otra cosa: una predicción que predijese siempre la respuesta A con una confianza del 50% estaría bien calibrada pero no valdría para un carajo.
+3. Quizás a alguien le interese probar algunos de los ejercicios que aparecen en [_A List of Probability Calibration Exercises_](https://www.lesswrong.com/posts/LdFbx9oqtKAAwtKF3/list-of-probability-calibration-exercises). Son enlaces a _exámenes_ de cultura más o menos general donde uno puede indicar la confianza con que elige una u otra opción. No son propiamente ejercicios de calibración (el título es, pues, engañoso) sino de evaluación propiamente dicha. La calibración es otra cosa: una predicción que predijese siempre la respuesta A con una confianza del 50% estaría bien calibrada pero no valdría para un carajo (en la mayoría de los casos de uso que se me ocurren ahora).
