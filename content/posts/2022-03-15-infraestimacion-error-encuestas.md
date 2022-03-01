@@ -1,8 +1,8 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2122-03-03
+date: 2022-03-15
 title: Sobre la sistemática infraestimación del error en las encuestas
-url: /2122/03/03/sistematica-infraestimacion-error-encuestas/
+url: /2122/03/15/sistematica-infraestimacion-error-encuestas/
 categories:
 - estadística
 tags:

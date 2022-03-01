@@ -10,6 +10,8 @@ tags:
 - regresión lineal
 - sesgo
 - varianza
+- stan
+- r
 ---
 
 El otro día publiqué un [minihilo en Twitter](https://twitter.com/gilbellosta/status/1498670875847139329)
