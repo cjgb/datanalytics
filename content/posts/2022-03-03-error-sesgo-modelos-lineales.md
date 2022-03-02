@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2022-03-02
 title: '"Proxys": error y sesgo en modelos lineales'
-url: /2022/03/02/sistematica-infraestimacion-error-encuestas/
+url: /2022/03/02/proxys-error-sesgo-modelos-lineales/
 categories:
 - estadística
 tags:
