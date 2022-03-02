@@ -23,8 +23,8 @@ El otro día publiqué un [minihilo en Twitter](https://twitter.com/gilbellosta/
 
 La pregunta que planteé consistía en elegir entre las siguientes tres opciones:
 
-1. $b_1$ es un estimador bueno (sin sesgo, mismo error) de $a_0$.
-2. $b_1$ es un estimador sin sesgo pero con más varianza que $a_0$.
+1. $b_1$ es un estimador bueno (sin sesgo, mismo error) de $a_1$.
+2. $b_1$ es un estimador sin sesgo pero con más varianza que $a_1$.
 3. $b_1$ está sesgado.
 
 Hay varias cosas que decir sobre este problema. En primer lugar, que es muy frecuente, mucho más de lo que parece. Ejemplos:
