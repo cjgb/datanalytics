@@ -23,7 +23,7 @@ indica que el usuario buscó en `google.es` la cadena `breiman dos culturas esta
 
 Intrigado por el comportamiento de mis usuarios, tomé (parte de) mis _logs_, filtré los que contenían la cadena `google` y ejecuté el siguiente código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- read.table("logs.log", sep = " ", header=F)
 
 cadena <- as.character(tmp$V9)   # posición del "referral"

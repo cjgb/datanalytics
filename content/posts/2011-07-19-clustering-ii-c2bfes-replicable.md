@@ -51,7 +51,7 @@ Mala será la replicabilidad del método cuando uno es capaz de encontrar clases
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( cluster )
 n.dim  <- 5
 n.obs  <- 200
@@ -82,7 +82,7 @@ De nuevo, podemos hacer otro experimento con el siguiente trozo de código, que 
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library( cluster )
     n.dim  <- 5
     n.obs  <- 200

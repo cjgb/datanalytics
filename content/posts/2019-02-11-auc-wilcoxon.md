@@ -17,7 +17,7 @@ tags:
 
 Construyo unos datos,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 30
 si <- data.frame(res = "si",
     score = rnorm(n, 1, 1))
@@ -30,14 +30,14 @@ que simulan los _scorings_ de un modelo hipótetico en el que comparo unos casos
 
 Comparo con el test de Wilcoxon el _scoring_ según la etiqueta y normalizo (adecuadamente):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 test <- wilcox.test(score ~ res, data = dat)$statistic
 test / n^2
 {{< / highlight >}}
 
 Por otro lado calculo el AUC:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pROC)
 my_roc <- roc(dat$res, dat$score)
 auc(my_roc)

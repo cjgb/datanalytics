@@ -13,7 +13,7 @@ tags:
 - random
 ---
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 suppressWarnings(set.seed(exp(pi * complex(imaginary = 1))))
 runif(1)
 #[1] 0.4866672

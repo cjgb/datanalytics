@@ -17,7 +17,7 @@ tags:
 
 Sí, había restricciones. No me preguntéis por qué, pero los coeficientes tenían que ser positivos y sumar uno. Es decir, buscaba la combinación convexa de cuatro vectores que más se aproximase a `y` en alguna métrica razonable. Y lo resolví así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # prepare constrained optimization
 
 y <- dat.clean$actual

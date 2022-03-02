@@ -18,7 +18,7 @@ Me propuse hace un tiempo combinar lo que aprendí creando [rutas callejeras por
 
 Así que, en primer lugar, cargué los paquetes de R necesarios, un fichero que creé que contenía las capitales de provincia, su latitud, su longitud y la población de las respectivas provincias y fabriqué una red de carreteras muy ineficiente que unía todos los nodos entre sí:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(maptools)
 library(pxR)
 library(igraph)
@@ -76,7 +76,7 @@ El resultado es este pequeño caos:
 
 Por simplificar, eliminé todas las _autovías_ que unían capitales de provincia cuando pudiera encontrar una ruta alternativa cuya longitud no excediese a la original por un factor de 1.2 haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 exceso.edge <- function(g, e){
   a <- shortest.paths(g)
   b <- shortest.paths(delete.edges(g, e))
@@ -96,7 +96,7 @@ para obtener
 
 Finalmente, simulé trayectos entre provincias con este criterio: una persona viaja de A a B con una probabilidad directamente proporcional al producto de las poblaciones de dichas provincias e inversamente proporcional a la distancia (en línea recta) entre ellas. La regla del producto de la población de las provincias es compatible con una muestra aleatoria de parejas de personas sobre la población total modificada en segunda instancia por la distancia entre ellas. Así que haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 peso.tramos <- function(a, b, g, nodos){
   data.frame(
     tramo = as.numeric(E(g2, path = get.shortest.paths(g2, from=a, to = b)[[1]])),
@@ -125,7 +125,7 @@ En este mapa sólo se han representado la mitad de los tramos de mayor importanc
 
 ¿Es una estructura radial? Podemos recurrir de nuevo a la teoría de grafos para medir la _centralidad _de los nodos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     g3 <- delete.edges(g2,edges=E(g2)[peso < median(peso)])
     col3 <- col[peso >= median(peso)]
     plot.grafo(g3, nodos, col = col3)

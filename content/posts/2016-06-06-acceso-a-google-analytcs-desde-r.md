@@ -15,7 +15,7 @@ tags:
 
 Google Analytics puede usarse desde su consola o bien descargando datos y procesándolos por tu cuenta. Para lo cual, desde R,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 require(RGoogleAnalytics)
 
 client.id <- "1415926535-u377en6un7lugar2de7lamancha0de1cuyo5nombre0m.apps.googleusercontent.com"
@@ -34,7 +34,7 @@ Obviamente, para lo anterior:
 Además, puedes descomentar la última línea si quieres guardar tus credenciales para futuros usos (con las debidas medidas de seguridad). Tras lo cual,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 query.list <- Init(start.date = "2016-05-01",
     end.date = "2016-05-31",
     dimensions = "ga:date,ga:region",

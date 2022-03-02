@@ -25,7 +25,7 @@ y
 
 se me han venido a la mente los adjetivos _hirsuto_ y _pocholo_ para calificar las respectivas _formas de aleatoriedad_ que representan. La primera es el resultado del habitual
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 200
 x <- runif(n)
 y <- runif(n)
@@ -34,7 +34,7 @@ plot(x, y, pch = 16)
 
 mientras que la segunda exige el más sofisticado
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(randtoolbox)
 s <- sobol(n, 2, scrambling = 3)
 x <- s[,1]

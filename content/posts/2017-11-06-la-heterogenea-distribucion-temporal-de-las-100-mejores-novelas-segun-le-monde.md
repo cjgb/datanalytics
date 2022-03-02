@@ -22,7 +22,7 @@ Me ha interesado no obstante la distribución de su fecha de publicación. Si su
 
 El código, por si a alguno le aprovecha,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 
 res <- read_html("https://en.m.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century")

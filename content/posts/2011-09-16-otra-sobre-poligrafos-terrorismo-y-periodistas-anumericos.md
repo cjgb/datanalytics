@@ -40,7 +40,7 @@ Supongamos que el sistema efectivamente atrapa al 90% de los terroristas. Pero s
 Supongamos que se hace pasar por el artilugio a un millón de personas. Y que, exagerando mucho, hay 100 terroristas entre ellos. Entonces podríamos utilizar el siguiente código
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 N <- 1000000
 terroristas <- 100
 inocentes <- N - terroristas
@@ -64,7 +64,7 @@ para obtener la siguiente tabla de contingencia:
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
             carcel  vuela
 terroristas     90     10
 inocentes     1000 998900

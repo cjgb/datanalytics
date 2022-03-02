@@ -22,7 +22,7 @@ Sea para lo bueno o para lo malo, vivimos tiempos que en eso se parecen a aquell
 He bajado [datos del Banco de España](http://www.bde.es/webbde/es/estadis/infoest/htmls/cdp.html), he extraído penosamente la información relativa a la deuda de Madrid y con
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 library(plyr)
 
@@ -49,7 +49,7 @@ he construido
 y con
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 incr.deuda.madrid <- data.frame(fecha = deuda.madrid$fecha[-1], deuda = diff(deuda.madrid$deuda) / 1000)
 incr.deuda.madrid$mes <- months(incr.deuda.madrid$fecha)
 

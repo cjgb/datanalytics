@@ -18,7 +18,7 @@ Tengo un grafo, `g` cuyas aristas pueden ser cualquier cosa susceptible de _cont
 
 Se me ocurre probar esa hipótesis así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(igraph)
 
 # mi grafo

@@ -21,19 +21,19 @@ Existe una [viñeta](https://cloud.r-project.org/web/packages/hunspell/vignettes
 
 Cargamos el paquete:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(hunspell)
 {{< / highlight >}}
 
 `hunspell` utiliza los diccionarios de Hunspell. Por efecto, el paquete usa los diccionarios correspondientes a `en_US`, pero nosotros utilizaremos el `es_ES`. Si están instalados, todo podría funcionar (luego veremos que  no) haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 esp <- dictionary("es_ES")
 {{< / highlight >}}
 
 Ese comando define el diccionario que usaremos después. El paquete es listo y sabe ubicar a partir de su argumento-indicio los ficheros correspondientes del disco duro, que en mi caso son
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 /usr/share/hunspell/es_ES.aff
 /usr/share/hunspell/es_ES.dic
 {{< / highlight >}}
@@ -42,13 +42,13 @@ Desafortunadamente, ese diccionario para mi distribución está codificado en IS
 
 Tras descargarlos, defino mi diccionario así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 esp <- dictionary("/home/carlos/Downloads/hunspell_es_ES/Spanish.dic")
 {{< / highlight >}}
 
 Y, ahora sí, a triunfar:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 words <- c("albañil", "piscina", "veníamos", "escojió")
 correct <- hunspell_check(words, dict = esp)
 correct
@@ -61,7 +61,7 @@ hunspell_suggest(words[!correct], dict = esp)
 
 También es posible extraer lemas de términos o etiquetarlos gramaticalmente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 words <- c("casas", "quería", "patrañas")
 hunspell_stem(words, dict = esp)
 # [[1]]
@@ -86,7 +86,7 @@ hunspell_analyze(words, dict = esp)
 
 Estos análisis también pueden realizarse sobre frases completas (es decir, el sistema incluye un _tokenizador_):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 bad <- hunspell("hay gente que escribe escojer porque es gañana", dict = esp)
 bad[[1]]
 # [1] "escojer" "gañana"
@@ -101,7 +101,7 @@ hunspell_suggest(bad[[1]], dict = esp)
 
 O, incluso, documentos completos en diversos formatos, entre ellos, el PDF:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 const1812 <- pdftools::pdf_text("http://www2.uca.es/grup-invest/lapepa/pdf/constituciones/cons_1812.pdf")
 bad_words <- hunspell(const1812, dict = esp)
 # tokenizador

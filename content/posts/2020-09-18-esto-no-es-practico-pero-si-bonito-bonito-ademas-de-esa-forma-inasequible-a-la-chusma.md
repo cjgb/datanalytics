@@ -17,7 +17,7 @@ tags:
 
 Va de muestrear los números $latex 1, \dots, n$ que tienen asignadas probabilidades $latex p_1, \dots, p_n$. Una manera muy impráctica (en R, basta usar `sample`) y nada intuitiva de hacerlo es recurriendo a la distribución de Gumbel:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(evd)
 
 pes <- runif(5)
@@ -29,7 +29,7 @@ muestra <- which.max(gammas + x)
 
 O, en masa, aplicando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 get_samples <- function(n){
     replicate(n, {
         x <- rgumbel(length(pes))

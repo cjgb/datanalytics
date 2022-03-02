@@ -20,7 +20,7 @@ Diríase que sí. La altura de un individuo está sujeta a multitud de factores 
 Y en efecto, (una vez descargados los [microdatos de la Encuesta Nacional de Salud de 2011](http://www.msssi.gob.es/estadisticas/microdatos.do)),
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 adultos <- readLines("MicrodatoAdultos.txt")
 
 sexo <- substring(adultos, 14, 14)
@@ -44,7 +44,7 @@ donde, efectivamente, constatamos la normalidad de los datos con una pequeña sa
 
 ¿Estamos satisfechos, pues, con lo de la normalidad de los datos? Si hacemos
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 ggplot(alturas, aes(x = altura, fill = sexo)) +
     geom_density(alpha = 0.5)

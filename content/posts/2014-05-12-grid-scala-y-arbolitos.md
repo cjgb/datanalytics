@@ -25,7 +25,7 @@ Inspirado por
 
 me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurriría a un neoingeniero al que solo le han enseñado MatLab y que, por lo tanto, tiene vetado el acceso a cualquier tipo de empresa tecnológica puntera). Me ha quedado así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(grid)
 
 grid.newpage()

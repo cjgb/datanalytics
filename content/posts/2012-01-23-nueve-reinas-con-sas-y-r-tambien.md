@@ -29,7 +29,7 @@ $$\forall i \ne j, \left| i - j \right| \ne \left| \sigma(i) - \sigma(j) \right|
 
 El código de SAS con el que resuelven este problema es así de estético, expresivo y comprensible:
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 %Macro FirstOf(List);%Scan(&List;,1)%Mend;
 %Macro RestOf(List);
   %Local lth;
@@ -71,7 +71,7 @@ El código de SAS con el que resuelven este problema es así de estético, expre
 
 Pero me he entretenido en implementar el mismo algoritmo con R y he aquí el resultado:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 perm <- function( p, l ){
   foo <- function( x )
     ( a <- length( p ) ) == 0 || all( abs( a:1 ) != abs( l[x] - p ) )

@@ -21,7 +21,7 @@ Yo creo que es un _bug_, vamos. Y tengo tres motivos para creerlo:
 He aquí cómo reproducir el _bug_. Primero creo una tabla muy simple e inserto una única fila en ella.
 
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 create table borrar_cjgb (
     a char(3)
 );
@@ -33,7 +33,7 @@ insert into borrar_cjgb values(  'P21' );
 Selecciono el prefijo, "P", del valor que he insertado:
 
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 select
     cast( substr( ltrim( rtrim(a) ), 1,1 ) AS CHAR(3) ) as prefijo
     from borrar_cjgb
@@ -44,7 +44,7 @@ select
 Sin embargo, por peregrinas razones, ¡Teradata no me deja encapsular mi consulta en una vista! La creación de la vista
 
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 replace view borrar_cjgb_v as (
     select
         cast( substr( ltrim( rtrim(a) ), 1,1 ) AS CHAR(3) ) as prefijo
@@ -56,7 +56,7 @@ replace view borrar_cjgb_v as (
 falla con error
 
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 3706: Syntax error: Data Type "rtrim" does not match a Defined Type name.
 {{< / highlight >}}
 

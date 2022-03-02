@@ -19,7 +19,7 @@ Sí, el artículo deja R por los suelos. En el fondo, no tanto, porque viene a d
 
 He tratado de vectorizarlo y sí, el código se ha quedado en nada. Después de precalcular todo lo precalculable, los cuatro bucles del código original se han quedado en algo así como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 consumption <- lapply(1:5,
   function(n) (1-bbeta)*log( - outer(vGridCapital,
     mOutput[,n], "-")))

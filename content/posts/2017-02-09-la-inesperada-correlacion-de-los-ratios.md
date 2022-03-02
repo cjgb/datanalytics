@@ -16,7 +16,7 @@ tags:
 
 Tomemos dos variables aleatorias independientes y positivas,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     set.seed(123)
     n <- 100
     x <- runif(n) + 0.5
@@ -25,7 +25,7 @@ Tomemos dos variables aleatorias independientes y positivas,
 
 No tengo ni que decir que su correlación es prácticamente cero,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     cor(x,y)
     #-0.0872707
 {{< / highlight >}}
@@ -36,20 +36,20 @@ y que en su diagrama de dispersión tampoco vamos a poder leer otra cosa:
 
 Ahora generamos otra variable independiente de las anteriores,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     z <- runif(n) + 0.5
 {{< / highlight >}}
 
 y calculamos el cociente de las primeras con respecto a esta:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     xz <- x / z
     yz <- y / z
 {{< / highlight >}}
 
 ¿Independientes? Hummmm...
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     cor(xz, yz)
     # 0.5277787
 {{< / highlight >}}

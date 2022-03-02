@@ -15,7 +15,7 @@ tags:
 
 Es esta:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 156.67 * 100
 # 15667
 as.integer(156.67 * 100)

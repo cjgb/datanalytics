@@ -46,7 +46,7 @@ prohibir la actividad laboral central de más del 90% de los _científicos de da
 
 El ministerio de economía debería saber que seguiremos perfilando personas en función de su conducta (por centrar ideas: el mero escribir un
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 if(compra contains "cocacola")
 then print "Cupón pepsicola"
 {{< / highlight >}}

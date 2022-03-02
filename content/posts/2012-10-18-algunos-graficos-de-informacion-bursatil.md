@@ -20,7 +20,7 @@ Hoy voy a presentar algunos gráficos de información bursátil adaptados a part
 
 Por si pueden servir de algo a otros, los reproduzco y comento aquí. Primero, hay que importar las librerías necesarias:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(PerformanceAnalytics)
 library(zoo)
 library(tseries)
@@ -28,7 +28,7 @@ library(tseries)
 
 Luego, descargar datos de cotizaciones (de Telefónica, cuyo símbolo es TEF.MC) de Yahoo.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 precios.TEF <- get.hist.quote(
     instrument="TEF.MC", start="1998-01-01",
     end="2012-10-15", quote="AdjClose",
@@ -41,7 +41,7 @@ Nótese que estoy solicitando datos desde 1998 hasta el 15 de octubre de 2012. A
 
 Haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 chart.TimeSeries(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
 {{< / highlight >}}
 
@@ -52,7 +52,7 @@ se obtiene entonces
 
 Alternativamente, también puede hacerse
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 chart.Bar(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
 {{< / highlight >}}
 
@@ -63,7 +63,7 @@ para obtener
 
 La función `chart.CumReturns` con los parámetros que aparecen en
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 chart.CumReturns(
     diff(precios.TEF)/lag(precios.TEF, k = -1),
     legend.loc="topleft", wealth.index = TRUE,
@@ -77,7 +77,7 @@ representa el valor a lo largo del tiempo de un euro invertido al principio de l
 
 Finalmente, haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ret.mat <- coredata(rent.TEF)
 
 # here are the 4 panel plots

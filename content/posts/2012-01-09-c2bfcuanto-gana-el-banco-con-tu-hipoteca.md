@@ -30,7 +30,7 @@ $$ \sum_{t=1}^{12 \times 25} \frac{474.21}{(1 + 0.3/12)^t} = 474.21 \sum_{t=1}^{
 
 Aunque la expresión anterior admite una forma cerrada, nos es más cómodo a los perezosos calcularla en R así
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sum( ( 1 + 0.03 / 12) ^(-(1:(25 * 12)) ) ) * 474.21
 # [1] 99999.72
 {{< / highlight >}}
@@ -47,7 +47,7 @@ $$ 474.21 \sum_{t=1}^{12 \times 25} \frac{1}{(1 + 0.2/12)^t}, $$
 
 que en R queda
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sum( ( 1 + 0.02 / 12) ^(-(1:(25 * 12)) ) ) * 474.21
 # [1] 111880.4
 {{< / highlight >}}

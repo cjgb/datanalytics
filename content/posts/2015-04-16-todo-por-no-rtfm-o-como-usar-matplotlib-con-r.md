@@ -18,7 +18,7 @@ Quien escribió [Call matplotlib from R](http://gallery.rcpp.org/articles/matplo
 
 Le bastaba hacer
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rPython)
 
 x <- seq(0, 2*pi, length = 100)

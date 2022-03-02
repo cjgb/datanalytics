@@ -14,13 +14,13 @@ tags:
 
 A elige dos números con una distribución de probabilidad _cualquiera_,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 generador <- function() rlnorm(2, 3, 4)
 {{< / highlight >}}
 
 y los guarda ocultos. A B le deja ver uno al azar (sin pérdida de generalidad, el primero). Y B tiene que decidir si el que ve es el más alto de los dos (en cuyo caso, gana un premio, etc.). Veamos a B actuar de manera naive:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 estrategia.naive <- function(observed) {
   sample(1:2, 1)
 }
@@ -28,7 +28,7 @@ estrategia.naive <- function(observed) {
 
 Dejemos a A y B jugar repetidamente a este juego:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 juego <- function(estrategia){
   x <- generador()
   choice <- estrategia(x[1])
@@ -43,7 +43,7 @@ Pues sí, como cabe esperar, B tiene una probabilidad de .5 de acertar en el lar
 
 Sin embargo, B tiene una estrategia superior a la de elegir al azar:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 otro_generador <- function() rexp(1, 1)
 estrategia.guay <- function(observed){
   y <- otro_generador()
@@ -65,7 +65,7 @@ Y funciona, tú.
 
 Todo junto (por si quieres probar con otras distribuciones):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 generador <- function() rlnorm(2, 3, 4)
 
 estrategia.naive <- function(observed){

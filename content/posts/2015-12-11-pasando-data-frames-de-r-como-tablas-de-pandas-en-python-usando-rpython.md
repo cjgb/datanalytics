@@ -18,7 +18,7 @@ Un usuario de [`rPython`](https://cran.r-project.org/web/packages/rPython/index.
 
 En R hay tablas de serie. En Python no. La [librería pandas de Python](http://pandas.pydata.org/) implementa algo parecido a los `data.frames`. Solo que nada garantiza que un usuario de Python la tenga instalada. Por eso no hay un formato de destino claro y universal para las tablas de R a través de rPython. Y por eso, en Python, si se tiene `pandas` instalado, el usuario tiene que hacer _algo_, lo siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rPython)
 
 python.assign('iris', iris)

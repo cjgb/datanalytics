@@ -20,7 +20,7 @@ Tal como prometí hace ahora una semana, voy a añadir las palabras que faltaban
 
 En la entrada original proponía tres juegos. El primero, descrito con código así,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 jugar <- function( n, make.step ){
   tmp <- rep( 0L, n)
   for( i in 2:n )
@@ -42,7 +42,7 @@ es simple: se tira una moneda y si sale cara, recibes un euro y, si sale cruz, l
 El segundo juego es parecido al primero pero algo más complejo:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 juego.c <- function( x ){
   prob.perder <- ifelse( x %% 3 == 0, 0.905, 0.255 )
   juego.s( x, prob.perder )
@@ -65,7 +65,7 @@ Así, si observamos el juego sólo cuando la cantidad acumulada es múltiplo de 
 
 El tercero de los juegos es más interesante. Es similar a los anteriores, sólo que utiliza una moneda más. En cada jugada, se tira la última moneda y, si sale cara (con probabilidad 0.5), se juega al primero de los juegos y, si sale cruz, al segundo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 juego.fin <- function( x ){
   sample( c( juego.c, juego.s), 1 )[[1]](x)
 }

@@ -16,7 +16,7 @@ Uno de mis últimos _pet projects_ tiene que ver con el análisis de las compone
 
 Voy a limitarme a copiar el código para referencia mía y de otros. Creo que se autoexplica:
 
-{{< highlight scala "linenos=true" >}}
+{{< highlight scala >}}
 import org.apache.spark.graphx._
 import org.apache.spark.graphx.util.GraphGenerators
 

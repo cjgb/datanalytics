@@ -17,7 +17,7 @@ Pues no lo sé. Seguramente, nadie. Pero como he visto [esto](http://vote.sparkl
 
 Es el siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # creo la matriz de transición
 cols <- c("r", "python", "otros")
 mt <- c(227, 108, 33, 31, 140, 7, 58, 27, 68 + 73)

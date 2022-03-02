@@ -18,7 +18,7 @@ tags:
 
 Ayer asistí a una charla sobre `errors`. Brevemente (porque está estupendamente explicado, motivado y documentado por su autor, al que aprovecho la ocasión para saludar), hace esto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(errors)
 valores <- unlist(list(a = 1, b = 2, c = 3))
 vars    <- c(1, 1, 1)    # varianzas de esos datos/medidas
@@ -35,7 +35,7 @@ Y nuestro viejo, clásico, manido, infrautilizado, semidesconocido mas no por el
 
 Pues no, el método delta vive, colea y pega soberanas patadas en el culo. Así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(car)
 deltaMethod(valores, vcov. = diag(vars), "a * sin(b)^3")
 #                Estimate       SE    2.5 %   97.5 %

@@ -35,14 +35,14 @@ Una opción es crear histogramas por rango de edades. Otra, utilizar regresión 
 
 Veamos cómo se haría en R. Cargamos primero los paquetes necesarios para el ejemplo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(quantreg)
 library(splines)
 {{< / highlight >}}
 
 Cargamos el [famoso conjunto de datos de Engel](http://www2.bc.edu/~lewbel/palengel.pdf) (no el Engel de siempre; otro), que relaciona el ingreso con el gasto en alimentación de decimonónicos obreros belgas:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 data( engel )
 head( engel )
 income foodexp
@@ -56,7 +56,7 @@ income foodexp
 
 Representamos los datos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 with( engel, plot( log( income ), log( foodexp ),
         xlab = "Log - Income",
         ylab = "Log - Food Expense",
@@ -68,7 +68,7 @@ with( engel, plot( log( income ), log( foodexp ),
 
 Y creamos una función auxiliar:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function( x, y, tau ){
     fit <- rq( y ~ bs( x, df=5 ), tau = tau )
     xx <- sort ( unique( x ) )
@@ -78,7 +78,7 @@ foo <- function( x, y, tau ){
 
 Nótese cómo en ella ajustamos un modelo de regresión por cuantiles, _fit_, usando la función _rq_ del paquete quantreg y cómo también elegimos un regresor basado en _splines_, la función _bs_ del paquete_ splines_. Sin incurrir en tanta pedantería, podíamos también haber especificado el modelo de la forma
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     fit <- rq( y ~ x, tau = tau ),
 {{< / highlight >}}
 
@@ -86,7 +86,7 @@ dejándose el estudio del resultado de esta alternativa como ejercicio al lector
 
 El parámetro tau indica el cuantil que se desea estimar, que ha de ser, por lo tanto, un valor entre 0 y 1. Ahora podemos añadir a nuestro gráfico anterior las curvas estimación de los cuantiles 0,2; 0,5 y 0,8 de la distribución de la siguiente manera:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     with( engel, lines( foo( log( income ), log( foodexp) , 0.2 ),
        col="gray") )
     with( engel, lines( foo( log( income ), log( foodexp) , 0.8 ),

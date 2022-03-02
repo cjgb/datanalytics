@@ -35,7 +35,7 @@ que es una gráfica de la intensidad (horaria) del viento en las estaciones mete
 
 Lo cual, por un lado, me echa abajo una entrada que podría haber sido mucho más interesante que la que me ha tocado escribir. Pero que ha servido como excusa para ilustrar el uso del paquete [`stationaRy`](https://cran.r-project.org/package=stationaRy) (que permite descargar datos meteorológicos horarios de 30k estaciones mundiales, incluidos los que AEMET atesora para sí, para sí y solo para sí):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(stationaRy)
 library(ggplot2)
 

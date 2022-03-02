@@ -22,7 +22,7 @@ Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es u
 
 El anterior es el gráfico construido con los datos de ejemplo del [paquete `AnomalyDetection`](https://github.com/twitter/AnomalyDetection). De hecho, así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(AnomalyDetection)
 
 data(raw_data)
@@ -34,7 +34,7 @@ res$plot
 
 Aparentemente, `AnomalyDetectionTs` hace lo que cabría sospechar. Primero, una descomposición de la serie temporal, tal como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 myts <- raw_data$count
 myts <- ts(myts, start = c(1, 841), frequency = 24 * 60)
 plot(stl(myts, "per"))

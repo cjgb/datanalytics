@@ -24,7 +24,7 @@ El problema planteado consiste entonces en partir una cadena por un determinado 
 
 Así que me manché las manos y he aquí la solución con la que vine a dar:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(stringr)
 
 a <- '1,2,"algo;todo"; 3,"¿cósa"; 4,2,3,7;'

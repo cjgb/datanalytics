@@ -19,7 +19,7 @@ La distribución de Poisson se utiliza de oficio cuando se quiere modelar datos 
 
 Muy frecuentemente se observan datos con **sobredispersión**. Si $latex \lambda$ es 1000, el número esperado de eventos está contenido en un intervalo demasiado estrecho,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 qpois(c(0.025, 0.975), 1000)
 #[1]  938 1062
 {{< / highlight >}}
@@ -30,7 +30,7 @@ En otras situaciones más raras, se observa el fenómeno contrario, la **infradi
 
 El otro día se me ocurrió otro: el número de duchas diarias. Si tiene, p.e., media de 1, la distribución tiene una pinta, de nuevo, poco realista:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 table(rpois(1000, 1))
 #  0   1   2   3   4   5   6   7
 #371 365 184  60  16   1   2   1

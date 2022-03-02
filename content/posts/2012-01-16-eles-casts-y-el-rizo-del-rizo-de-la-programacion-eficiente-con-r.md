@@ -16,7 +16,7 @@ tags:
 
 Ante las preguntas de alguno de mis lectores, voy a proporcionar una explicación acerca de la misteriosa `L`. Bueno, voy más bien a dejar que la deduzcan ellos mismos a partir de la siguiente serie de bloques de código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- rep( 0, 10 )
 typeof( a )
 object.size( a )

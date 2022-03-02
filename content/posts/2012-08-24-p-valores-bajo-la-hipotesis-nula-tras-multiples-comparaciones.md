@@ -19,7 +19,7 @@ Imagina que trabajas en lo que Ionnidis, en su artículo [_Why Most Published Re
 
 Aun en esas circunstancias es posible, [como comentábamos ayer](http://www.datanalytics.com/2012/08/23/ajustar-o-no-ajustar-esta-es-la-cuestion/), comenzar a plantear hipótesis, muchas hipótesis. Realizar un test de Student sobre cada una de ellas es como ejecutar la función
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(){
     x <- rnorm( 100 )
     y <- rnorm( 100 )
@@ -29,7 +29,7 @@ foo <- function(){
 
 ¿Y qué pasa si se ejecuta _muchas _veces? Esto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot(sort(replicate(1000, foo())))
 {{< / highlight >}}
 

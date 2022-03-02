@@ -38,7 +38,7 @@ El siguiente código —y supongo que las mejoras que a él realicen los lectore
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     av.dist <- function( n.dim, n.iter ){
            a <- b <- rep( 0, n.dim )
            a[1] <- 0.5

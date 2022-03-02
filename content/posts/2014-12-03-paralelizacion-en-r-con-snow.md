@@ -28,7 +28,7 @@ Pero si
 
 y, entonces, ejecutas
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 cluster.def <- list(user = "linux_user_name", nodes = data.frame(
     host = c("localhost", "10.65.243.58"), cores = c(2,4)))
 

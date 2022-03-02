@@ -28,7 +28,7 @@ Pero voy a aprovechar la coyuntura para sacarle un poco de punta al asunto.
 
 Aprovechando que [la DGT publica datos](http://www.dgt.es/es/seguridad-vial/estadisticas-e-indicadores/accidentes-30dias/series-historicas/) (¡solo hasta diciembre de 2015!), voy a echarle un vistazo a la serie histórica:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(reshape2)
 library(ggplot2)
 
@@ -60,7 +60,7 @@ donde se aprecia:
 
 Por dejarlo todo más claro, voy a desestacionalizar la serie. Usando, además, el `stl` de toda la vida, a pesar de que sé de un lector que fruncirá el ceño por no utilizar X-13-ARIMA-SEATS (i.e., [el paquete `seasonal` de R](https://cran.r-project.org/web/packages/seasonal/index.html)):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- ts(muertos$muertos, start = c(1993, 1), frequency = 12)
 plot(stl(tmp, s.window = "periodic", t.window = 25))
 {{< / highlight >}}
@@ -73,7 +73,7 @@ La tendencia obtenida refleja lo anteriormente discutido, aunque habría quien p
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- ts(log(muertos$muertos), start = c(1993, 1), frequency = 12)
 descomp <- stl(tmp, s.window = "periodic", t.window = 25)
 plot(descomp)
@@ -87,7 +87,7 @@ en la ininterpretable escala logarítmica, por lo que, en deferencia a las mente
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- ts(log(muertos$muertos), start = c(1993, 1), frequency = 12)
 descomp <- stl(tmp, s.window = "periodic", t.window = 25)
 plot(descomp)
@@ -97,7 +97,7 @@ plot(descomp)
 
 que tiene la misma lectura que más arriba y, por completar la cosa,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot(exp(descomp$time.series[1:12, 1]), type = "l",
         xlab = "mes", ylab = "factor",
         main = "Factores mensuales de siniestralidad")
@@ -113,7 +113,7 @@ Cuando se evalúan hospitales, por ejemplo, se muestran [indicadores ajustados p
 
 No así aquí, donde, en la medida de la disponibilidad de datos públicos, trataremos de realizar algún mínimo ajuste. Por ejemplo, incorporando el número total de vehículos,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 vehiculos <- read.table("csv/series_parque_2016.csv", header = TRUE, skip = 2, sep = "\t", dec = ",")
 vehiculos <- vehiculos[, c(1, ncol(vehiculos))]
 colnames(vehiculos) <- c("year", "vehiculos")
@@ -126,14 +126,14 @@ plot(vehiculos$year, vehiculos$vehiculos / 1e6,
 
 Curiosamente, esta serie tiene un comportamiento _opuesto_ a la de la anterior: se estanca cuando aquella decrece, crece cuando aquella se estanca. Lo que nos invita a estudiar el ratio fallecidos por millón de vehículos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 muertos <- merge(muertos, vehiculos)
 muertos$ratio <- 1e6 * muertos$muertos / muertos$vehiculos
 {{< / highlight >}}
 
 y pintar la descomposición de la tasa (en escala logarítmica)
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     tmp <- ts(log(muertos$ratio), start = c(1993, 1), frequency = 12)
     descomp <- stl(tmp, s.window = "periodic", t.window = 25)
     plot(descomp)
@@ -143,7 +143,7 @@ y pintar la descomposición de la tasa (en escala logarítmica)
 
 y su tendencia (en escala lineal)
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     plot(exp(descomp$time.series[,2]),
          xlab = "mes", ylab = "fallecidos",
          main = "Tendencia histórica de los\nfallecidos en carretera\n(Muertos por millón de vehículos)")

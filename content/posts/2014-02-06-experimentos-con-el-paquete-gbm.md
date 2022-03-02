@@ -19,7 +19,7 @@ No conocía el [paquete `gbm`](http://cran.r-project.org/web/packages/gbm/index.
 
 Bueno, la cuestión es que había que ajustar un modelo para el que yo habría hecho algo parecido a
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- read.csv("http://www.ats.ucla.edu/stat/data/poisson_sim.csv")
 summary(m.glm <- glm(num_awards ~ prog + math, family = "poisson", data = dat))
 # Call:
@@ -50,7 +50,7 @@ como en [esta página](http://www.ats.ucla.edu/stat/r/dae/poissonreg.htm).
 
 La alternativa con el paquete `gbm` es esta:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library(gbm)
     summary(m.gbm <- gbm(num_awards ~ prog + math, distribution = "poisson", data = dat))
     # var rel.inf

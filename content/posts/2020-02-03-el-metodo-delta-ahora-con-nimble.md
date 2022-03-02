@@ -18,7 +18,7 @@ tags:
 
 Casi autoexplicativo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(nimble)
 
 src <- nimbleCode({

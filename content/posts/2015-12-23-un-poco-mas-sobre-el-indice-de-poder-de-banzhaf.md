@@ -21,7 +21,7 @@ Ni idea de dónde saqué eso. Ni siquiera descarto que fuese una malinterpretaci
 
 Merecido es que reimplemente la función teniendo encuenta la que parece ser la verdadera definición del índice. Es la siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 banzhaf <- function(x, mayoria = sum(x) / 2){
   tmp <- rep(list(c(TRUE, FALSE)), length(x))
   tmp <- expand.grid(tmp)
@@ -37,7 +37,7 @@ banzhaf <- function(x, mayoria = sum(x) / 2){
 Y prometo que la función da [los mismos resultados que los ejemplos que aparecen en la Wikipedia](https://en.wikipedia.org/wiki/Banzhaf_power_index). Ahora,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 escannos <- c(123, 90, 69, 40, 9, 8, 6, 2, 2, 1)
 res <- banzhaf(escannos)
 names(res) <- c( "pp", "psoe", "pod", "c's", "erc", "dl", "pnv", "iu", "bildu", "cc")

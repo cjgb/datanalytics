@@ -15,7 +15,7 @@ tags:
 
 Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(parallel)
 
 cl <- makeCluster(8)

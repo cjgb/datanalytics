@@ -46,7 +46,7 @@ Y uno se pregunta: ¿en serio? Y si es verdad, ¿por qué? Y como ya somos mayor
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tef <- read.table( "table_tef.csv", sep = ",", header = T )
 tef <- tef[ order( tef$Date ), ]
 
@@ -97,7 +97,7 @@ Y en 20 años de cotización del IBEX 35, ¿cuáles serían los resultados? Helo
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ibex    <- read.table( "table_ibex.csv", sep = ",", header = T )
 ibex    <- ibex[ order( ibex$Date ), ]
 tmp     <- sapply( 1:nrow( ibex ),

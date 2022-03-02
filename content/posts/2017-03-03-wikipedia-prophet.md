@@ -18,7 +18,7 @@ El otro día escribí sobre [visitas a la Wikipedia](https://www.datanalytics.co
 
 Hoy con
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(wikipediatrend)
 library(prophet)
 library(ggplot2)

@@ -22,7 +22,7 @@ tenga un valor finito, cosa que, por ejemplo, no cumple la de Cauchy. Igual hay 
 
 Además, siempre se puede calcular la media empírica de cualquier distribución (con `mean` en R p.e.). ¿Qué pasa pues si, simplemente, ignorando los _caveats_ matemáticos, vamos y lo tomamos medias? Pues cosas peculiares que comprobará quien corra un código similar a
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(123)
 res <- replicate(1000, mean(rcauchy(1e5)))
 hist(res, breaks = 50)
@@ -32,7 +32,7 @@ es decir, la inestabilidad de esos promedios. Abundando en este caso concreto, d
 
 Más aún,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res <- replicate(1000, {
   x <- rcauchy(1e5)
   c(max(x), mean(x))

@@ -22,7 +22,7 @@ Estos días me ha tocado subir a una base de datos tablas bastante grandes y las
 
 El código que he preparado es (se parece a) el siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(RJDBC)
  
 conn <- dbConnect(drv, connection.string, user, password)
@@ -68,7 +68,7 @@ Ahora, los comentarios.
 
 En el ejemplo anterior solo he insertado 150 filas. Para inserciones más grandes, habría que entreverar las líneas
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 .jcall(ps,"[I","executeBatch")
 dbCommit(conn)
 {{< / highlight >}}

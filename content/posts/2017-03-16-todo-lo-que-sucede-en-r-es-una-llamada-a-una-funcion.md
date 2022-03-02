@@ -16,13 +16,13 @@ tags:
 
 En serio, es así. ¿También `if`? Pues también. De hecho,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 `if`(1 == 3, print("a"), print("b"))
 {{< / highlight >}}
 
 Y eso permite, por ejemplo, que funcionen expresiones tales como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- if (1 == 3) 4 else 5
 {{< / highlight >}}
 

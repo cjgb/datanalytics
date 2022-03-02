@@ -48,7 +48,7 @@ En el caso 2, estoy con Taleb ---y con todos, creo, salvo tal vez algún rarito-
 
 Pero, vamos, eso es solo una intuición. Quien quiera conocer la verdad _aprox_, que corra esto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 alphas <- seq(0.1, 4, length.out = 100)
 
 entropy <- sapply(alphas, function(alpha) {

@@ -18,7 +18,7 @@ tags:
 Con los datos
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 pcts <- cbind(
   c(35.7, 19.6, 6.6, 16.6, 9.6),
   c(0.3, 0.2, 0.2, 0.3, 0.8),
@@ -34,7 +34,7 @@ tabla <- round(t(pcts * totales / 100))
 
 y el concurso de
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(MASS)
 biplot(corresp(tabla, nf = 2))
 {{< / highlight >}}

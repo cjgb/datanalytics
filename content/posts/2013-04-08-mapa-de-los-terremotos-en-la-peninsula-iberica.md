@@ -23,7 +23,7 @@ En esta entrada voy a mostrar el siguiente mapa de actividad sísmica durante lo
 
 que he construido con el siguiente código en R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggmap)
 
 url <- "http://comcat.cr.usgs.gov/earthquakes/feed/search.php?maxEventLatitude=45&minEventLatitude=35&minEventLongitude=-10&maxEventLongitude=5&minEventTime=953683200000&maxEventTime=1364688000000&minEventMagnitude=-1.0&maxEventMagnitude=10&minEventDepth=0.0&maxEventDepth=800.0&format=csv"

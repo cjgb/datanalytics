@@ -20,7 +20,7 @@ Advierto que ha cambiado sustancialmente la API de SparkR. Entre otras _novedade
 
 Se pueden crear un `DataFrame` (tablas distribuidas de Spark) a partir de un data.frame de R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 irisDF <- createDataFrame(sqlContext, iris)
 first(irisDF)
 # Sepal_Length Sepal_Width Petal_Length Petal_Width Species
@@ -39,14 +39,14 @@ Es decir, en la misma invocación tienes que indicar que vas a usar la librería
 
 Luego ya funciona, por ejemplo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 flights <- read.df(sqlContext, "/home/carlos/Downloads/airports.csv", "com.databricks.spark.csv", header="true")
 {{< / highlight >}}
 
 [Rebuscando](https://github.com/databricks/spark-csv/blob/master/src/test/scala/com/databricks/spark/csv/CsvSuite.scala), (porque no, no esperes dar con ello en la documentación) he encontrado cómo cargar, por ejemplo, ficheros separados con tabulador:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 movimientos <- read.df(sqlContext, "/home/carlos/Downloads/Movimientos.csv", "com.databricks.spark.csv", header="true", delimiter = "\t")
 {{< / highlight >}}
 

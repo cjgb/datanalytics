@@ -22,7 +22,7 @@ Mi primera línea de defensa contra las pérdidas de información es la sincroni
 
 `tiramisu` es máster; `kropotkin `esclavo. Para sincronizar ambos, desde el segundo, periódicamente, ejecuto
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 rsync -av -e "ssh -l carlos" --delete \
 carlos@192.168.0.192:/home/carlos/.bck/ .bck
 {{< / highlight >}}
@@ -44,7 +44,7 @@ Los ficheros de los directorios contenidos en `folders` son enlaces duros al fic
 
 Es decir:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 #!/bin/bash
 
 # Variable definitions
@@ -106,7 +106,7 @@ El proceso tiene dos caveats. El primero es que estoy expuesto a [colisiones de 
 
 La segunda y más seria es que mantener +100k ficheros en un disco formateado con `ext3` hace que se degrade el rendimiento de los `ls` y comandos similares. La solución que he ideado recientemente —aunque reconozco que igual debería probar con otro sistema de ficheros más avanzado que `ext3`— consiste en utilizar el primer dígito del _hash_ como nombre de directorio (de manera que en `files` no tengo 100k ficheros sino 16 directorios (con nombres `0`-`f`) con menos de 10k ficheros en promedio. Por eso la línea
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 file_hash=`md5sum "$file" | cut -f1 -d" " |
 sed -e "s;\(.\)\(.*\);\1/\2;"`
 {{< / highlight >}}

@@ -29,7 +29,7 @@ donde $latex X$ es una variable aleatoria que toma los valores $latex a$ y $late
 
 Pero, ¿qué pasa si $latex n_a = 0$? El estimador es $latex -\infty$; aunque, en realidad, acabo de ver que R se come la tostada:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1)
 N <- 100
 x <- rep(c("a", "b"), each = N)
@@ -59,7 +59,7 @@ summary(modelo)
 
 El coeficiente `xb` es, efectivamente
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 log(sum(y) / N)
 # [1] 0.009950331
 {{< / highlight >}}

@@ -19,7 +19,7 @@ tags:
 
 He intentado replicar los resultados de la [entrada de ayer](https://www.datanalytics.com/2020/07/22/aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson/) con GAM (vía [`mgcv`](https://CRAN.R-project.org/package=mgcv)) así (véase el enlace anterior para la definición de los datos):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(mgcv)
 modelo_gam <- gam(
     y ~ x + s(id, bs = "re"),

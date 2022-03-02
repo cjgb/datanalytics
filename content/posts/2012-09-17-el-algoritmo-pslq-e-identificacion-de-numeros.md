@@ -21,7 +21,7 @@ donde, obviamente, no todos los $latex a_i$ son cero. Aproximadamente significa 
 
 No existe, que yo sepa, una implementación en R. Pero sí en Python, usando librerías que permiten utilizar números de precisión arbitraria, como `[mpmath](https://code.google.com/p/mpmath/)`. Veamos un ejemplo:
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 from mpmath import *
 pslq([-1, pi], tol=0.01)
 # [22, 7]

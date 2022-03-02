@@ -24,7 +24,7 @@ Por si acaso, cada diagrama representa la descomposición en números primos de 
 El código (que no he adecentado lo que suelo) es un pequeño ejercicio con el paquete `grid` y unos elementos de recursividad (como en [Grid, Scala y arbolitos fractales](http://www.datanalytics.com/2014/05/12/grid-scala-y-arbolitos/)):
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(grid)
 library(gmp)
 

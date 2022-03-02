@@ -18,7 +18,7 @@ Hoy he subido una nueva versión del paquete `MicroDatosEs` a [r-forge](https://
 
 Aún no está en CRAN, pero estáis invitados a probarla instalando la versión de desarrollo mediante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 install.packages("MicroDatosEs", repos="http://R-Forge.R-project.org")
 {{< / highlight >}}
 

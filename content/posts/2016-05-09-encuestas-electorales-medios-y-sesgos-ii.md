@@ -21,7 +21,7 @@ tags:
 
 ¿Métodos? Mejorables: se suaviza la intención de voto (con _loess_) y se estima la diferencia con un modelo de efectos mixtos, i.e.,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo<- lmer(delta ~ 1 + (1 | medio),
     data = misdatos)
 {{< / highlight >}}
@@ -30,7 +30,7 @@ modelo<- lmer(delta ~ 1 + (1 | medio),
 
 Y termino con el código completo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rjson)
 library(plyr)
 

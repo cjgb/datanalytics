@@ -18,7 +18,7 @@ tags:
 
 Abundo sobre mi [entrada del otro día](https://www.datanalytics.com/2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/). Usando números aleatorios hirsutos,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 200
 x <- runif(n)
 plot(cumsum(x - .5), type = "l")
@@ -30,7 +30,7 @@ produce
 
 mientras que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(randtoolbox)
 s <- sobol(n, 1, scrambling = 3)
 plot(cumsum(s - .5), type = "l")

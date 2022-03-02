@@ -39,7 +39,7 @@ Nótese que, de entrada, la probabilidad es, a lo sumo, la mitad de 1.5%: ¡una 
 
 El código que planteo es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(n){
   cuantos <- sample(desde:hasta, n, replace = T)
   p <- .4 + .2 * runif(n)

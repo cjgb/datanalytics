@@ -20,7 +20,7 @@ No obstante, existe una función no documentada de SAS que permite implementar c
 He aquí [un ejemplo](http://www.amadeus.co.uk/sas-technical-services/tips-and-techniques/a-to-z-of-data-step-functions/the-monotonic-function/):
 
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 proc sql;
   create table results as
     select
@@ -39,7 +39,7 @@ quit;
 He aquí otro de mi factura para muestrear la cuarta parte de las observaciones de una tabla:
 
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 proc sql;
   create table muestreo as
     select *

@@ -17,7 +17,7 @@ tags:
 
 [Ad]Mirad esta pequeña maravilla de código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 dat <- data.frame(
   y = rnorm(100),

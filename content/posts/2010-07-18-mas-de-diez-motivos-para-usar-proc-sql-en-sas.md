@@ -30,7 +30,7 @@ Las tres primeras son anecdóticas:
 
 La legibilidad es condición imprescindible para que el código sea bueno. Dejando aparte el hecho de que un código legible suele ser más eficiente que otro que no lo es, la legibilidad es condición indispensable para la mantenibilidad. Y comparemos dos pedazos de código aparecidos en un [artículo que ya conocemos](http://www.caloxy.com/papers/80JobSecuritySpecialist.pdf). El primero es el código feo y malo:
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 proc sort data=sales;
 by region;
 
@@ -49,7 +49,7 @@ data report;
 
 El segundo es una reescritura del primero usando SQL:
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 proc sql;
 	create table report as
 	select * from sales

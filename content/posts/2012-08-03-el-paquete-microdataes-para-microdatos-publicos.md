@@ -37,7 +37,7 @@ Por el momento, el catálogo contiene únicamente información para la lectura d
 
 El paquete está [disponible en R-Forge](https://r-forge.r-project.org/projects/microdataes/) y puede instalarse en R haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 install.packages("MicroDatosEs",
 	repos="http://R-Forge.R-project.org")
 {{< / highlight >}}

@@ -57,7 +57,7 @@ Los datos de pluviosidad histórica están en AEMET, pero sacarlos de ahí es ta
 
 También el código, para referencia de todos. La magia, en todo caso, es producto del maravilloso [paquete `INLA` de R](http://www.r-inla.org/). La parte más relevante del código es el lugar donde defino el modelo. La más discutible, es donde extraigo las estimaciones de los parámetros (me quedo con la moda de la posteriori). Pero es mejorable con poco esfuerzo.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 library(lubridate)
 library(INLA)

@@ -23,7 +23,7 @@ he decidido mirar a ver qué impacto puede haber tenido el fraude de Barclays, u
 
 El procedimiento por el que se calcula el Libor lo describí ayer. Y también indiqué de dónde descargar los datos históricos que proporciona The Guardian. Así que puedo comenzar cargando los datos en R,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 raw <- read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
 
 dat <- raw[,c(1,2,8)]
@@ -38,7 +38,7 @@ para obtener dos conjuntos de datos: `fix`, con el Libor a 3 meses publicado por
 
 Con
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 my.fix <- tapply( banks$Libor3M, banks$date, mean, trim = 0.25 )
 max( abs( fix$Libor3M - my.fix ) )
 # 0.00125
@@ -48,7 +48,7 @@ compruebo que el _fix_ (el Libor a 3 meses) que calculo a partir de los datos de
 
 Así se puede medir el error que se cometería al utilizar información falseada:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ubi.barclays <- which( banks$bank == "Barclays" )
 
 deltas <- sample( c(0.1, -0.1), length(ubi.barclays), replace = T )
@@ -69,7 +69,7 @@ En este ejercicio he creado una perturbación aleatoria según la cual Barclays 
 
 Si Barclays hubiese alterado los datos en 20 puntos básicos (arriba o abajo), se habría obtenido
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 deltas <- sample( c(0.2, -0.2), length(ubi.barclays), replace = T )
 print( bad.fix( deltas ) )
 #     90%      95%      99%    99.5%    99.9%     100%
@@ -78,7 +78,7 @@ print( bad.fix( deltas ) )
 
 Finalmente, distribuyendo la desviación uniformemente entre el -0.5 % y el -0.5 %, se obtendría
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 deltas <- runif( length(ubi.barclays) ) - 0.5
 print( bad.fix( deltas ) )
 #       90%        95%        99%      99.5%      99.9%       100%
@@ -87,7 +87,7 @@ print( bad.fix( deltas ) )
 
 En lugar de simulaciones, es interesante también ver cuál habría sido la influencia máxima de Barclays en el valor final del Libor día a día. Haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 b <- banks
 b[ ubi.barclays, ]$Libor3M <- -100
 my.min.fix <- tapply( b$Libor3M, b$date, mean, trim = 0.25 )

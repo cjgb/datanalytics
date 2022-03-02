@@ -27,7 +27,7 @@ Efectivamente, $latex X_i/\| X_i \|$ proporciona la dirección. Y en cuanto a la
 
 En R,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 d <- 2
 
@@ -41,7 +41,7 @@ points( x * u^{1/d} / x.norma, col = "blue" )
 
 Y si alguien quiere ver las rodajas de una distribución uniforme sobre la esfera 5-dimensional, por ejemplo, puede ejecutar
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 d <- 5
 

@@ -17,7 +17,7 @@ tags:
 
 **Solución:**
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     gen_foo <- function(expr){
         my_args <- all.vars(parse(text = expr))
         expr <- paste0("function(",
@@ -29,7 +29,7 @@ tags:
 
 **Demostración:**
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     multiplica <- gen_foo("a * b")
     multiplica(5, 31)
 {{< / highlight >}}

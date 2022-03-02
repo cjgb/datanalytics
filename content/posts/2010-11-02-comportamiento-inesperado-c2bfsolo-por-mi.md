@@ -15,7 +15,7 @@ tags:
 El otro día, bajo el encabezamiento _Unexpected behabiour of min, tapply and POSIXct/POSIXlt classes?_, mandé a la lista de desarrolladores de R el siguiente pedazo de código:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 before <- Sys.time()
 Sys.sleep( 1 )
 now1 <- now2 <- Sys.time()

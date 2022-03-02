@@ -26,7 +26,7 @@ Una organización seria no debería almacenar, como todas las que conozco hasta 
 
 ¿Cómo se puede obtener el número de policía? Por ejemplo, usando [`caRtociudad`](https://github.com/rOpenSpain/caRtociudad) así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(caRtociudad)
 
 location <- cartociudad_geocode("garcía arista 13, zaragoza")

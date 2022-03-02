@@ -19,7 +19,7 @@ El otro día me entretuve pintando [curvas de equiprobabilidad de la distribuci�
 
 Y el código,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
 library(ggplot2)
 

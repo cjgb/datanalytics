@@ -24,7 +24,7 @@ Hay algunos procedimientos para hacerlo. Sin ir más lejos, véanse las referenc
 
 Lo que he hecho se parece mucho a
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(<a href="http://inside-r.org/packages/cran/party">party)
 
 enes <- c(rpois(10, 7), rpois(20, 1), rpois(10, 5))
@@ -40,7 +40,7 @@ que es algo que cualquiera que lea la documentación de las funciones empleadas 
 
 Sustituyendo arriba la línea relevante por algo como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 enes <- c(rpois(10, 70), rpois(20, 1), rpois(100, 50))
 {{< / highlight >}}
 

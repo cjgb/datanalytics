@@ -19,7 +19,7 @@ Pues precedidos del mi favorito de todos ellos, Felixmarte de Hircania, el del d
 
 dentro del texto del Quijote. El código para obtener el gráfico anterior es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(qdap)
 
 quijote.raw <- readLines("http://www.gutenberg.org/cache/epub/2000/pg2000.txt",

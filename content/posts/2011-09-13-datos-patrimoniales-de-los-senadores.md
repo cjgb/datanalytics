@@ -20,7 +20,7 @@ Rápidamente logró completarse la tarea. Y ahora me he molestado en extraer una
 No estoy particularmente inspirado en estos días. Así que no voy a tratar de crear ningún tipo de visualización ni de realizar ningún análisis. Presento el código que aparece a continuación a modo de ejemplo por si alguien quiere dedicarle unos minutos. ¡Le agradecería que me indicase lo que ha llegado a hacer y averiguar!
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 senado <- read.table("http://www.datanalytics.com/uploads/declaracion_bienes_senadores.csv", header = T, sep = ";", dec = ",")
 table(senado$grupo)
 

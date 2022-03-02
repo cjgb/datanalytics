@@ -24,7 +24,7 @@ La [nota de prensa que acompaña a los resultados definitivos de la EES de 2014]
 Para poder replicar esa cifra y poder comparar manzanas con manzanas hay que preprocesar los datos crudos de la EES así:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(MicroDatosEs)
 dat <- ees2010("md_EES_2014.txt")
 
@@ -42,7 +42,7 @@ dat$SALANUAL = (365/dat$DIASANO) *
 
 Ahora sí que se puede definir, por ejemplo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 salario.medio.anual <- function(x){
     sum(x$SALANUAL * x$FACTOTAL) / sum(x$FACTOTAL)
 }
@@ -50,14 +50,14 @@ salario.medio.anual <- function(x){
 
 y calcular
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 salario.medio.anual(dat)
 #[1] 22858.16
 {{< / highlight >}}
 
 en cuasiasombrosa consonancia con la cifra _oficial_, e incluso
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 salario.medio.anual(dat[dat$SEXO == "Hombre",])
 #[1] 25727.05
 salario.medio.anual(dat[dat$SEXO == "Mujer",])

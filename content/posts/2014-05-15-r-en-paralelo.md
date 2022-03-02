@@ -33,7 +33,7 @@ Y aún me sobrarían 5 núcleos y bastante RAM. La pregunta es: ¿cómo?
 Inspirado en [esto](http://stackoverflow.com/questions/10815622/running-multiple-jobs-in-background-at-same-time-parallel-in-r), últimamente hago:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(parallel)
 tasks <- list(
   job1 = function() calcula.A(args.A),

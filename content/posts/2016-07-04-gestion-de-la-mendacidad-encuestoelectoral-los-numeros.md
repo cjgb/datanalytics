@@ -20,7 +20,7 @@ Continuando con la [entrada anterior](https://www.datanalytics.com/2016/06/30/ge
 
 Primero, el planteamiento (cuatro partidos, etc.):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 probs <- c(4, 3, 2, 1)
 probs <- probs / sum(probs)
 partidos <- letters[1:length(probs)]
@@ -28,7 +28,7 @@ partidos <- letters[1:length(probs)]
 
 Nos hará falta más adelante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
 library(rstan)
 library(ggplot2)
@@ -37,7 +37,7 @@ library(reshape2)
 
 Sigo con el proceso de muestreo. Reitero: cada encuestador enseña al encuestado una tarjeta al azar donde aparece el nombre de dos partidos y le pregunta si ha votado (o piensa votar) a alguno de ellos.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 3000
 resultados <- data.frame(
   tarjeta = sample(1:nrow(tarjetas), n, replace = T),
@@ -61,7 +61,7 @@ resultados.agg <- ddply(
 
 Y
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 codigo <- '
 data {
   int<lower=1> N;

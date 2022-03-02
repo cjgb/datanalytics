@@ -37,7 +37,7 @@ Y aquí van los resultados crudísimos de un modelo crudísimo y seguramente err
 
 Y el código es:
 
-{{< highlight c "linenos=true" >}}
+{{< highlight c >}}
 data {
   int<lower=0> N;
   int<lower=0> dia0;
@@ -83,7 +83,7 @@ y
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 library(reshape2)
 library(plyr)

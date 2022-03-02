@@ -16,7 +16,7 @@ tags:
 
 A la pregunta, tal vez con una formulación mejorable de un usuario de la lista de R, sobre cómo representar una distribución normal bivariada con correlación 0.5 en 3D di ayer esta solución:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(mvtnorm )
 
 x <- y <- -20:20 / 10
@@ -34,7 +34,7 @@ persp(x, y, z )
 
 No obstante, la solución alternativa de Carlos Ortega es toda una virguería que merece ser reproducida en estas páginas:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(fMultivar)
 library(rgl)
 

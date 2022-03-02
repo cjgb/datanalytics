@@ -22,7 +22,7 @@ El artículo muestra lo que debería ser el estado del arte para realizar este t
 El artículo recomienda no utilizar bucles. Y mucho menos, bucles usando las llamadas macros. Propone usar el `PROC SURVEYSELECT` para muestrear los datos. Incluso, dado que `SURVEYSELECT` lee el fichero de entrada del disco una vez por muestra —es decir, 1000 veces en total en el ejemplo—, propone el comando `sasfile` para copiar los datos en RAM. La sintaxis es la siguiente:
 
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 sasfile YourData load;
 proc surveyselect data=YourData ...;
 run;
@@ -34,7 +34,7 @@ sasfile YourData close;
 El código recomendado para resolver en SAS este problema es
 
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 data YourData;
     do i = 1 to 50000;
         x = ranuni(1234);
@@ -71,7 +71,7 @@ run;
 En mi ordenador necesita 70 segundos para ejecutarse y crea un fichero, `outboot.sas7bdat`, que ocupa 1,2 GB en mi disco duro. El código equivalente en R es
 
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 library( moments )
 dat <- runif( 50000 )
 kurtosis.dat <- replicate( 1000,

@@ -19,7 +19,7 @@ Si su respuesta es 0.5 va a tener que seguir leyendo el resto del artículo. Per
 
 Quería basarme en datos de familias del INE para probar lo incorrecto del valor 0.5, pero no existe en la contabilidad nacional un informe del número de hijos por sexo y familia. Así que he fabricado un país artificial con R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # Para facilitar la replicabilidad del experimento
 set.seed( 1234 )
 

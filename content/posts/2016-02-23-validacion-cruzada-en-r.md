@@ -17,7 +17,7 @@ tags:
 
 Está de moda [usar `caret`](http://topepo.github.io/caret/training.html) para estas cosas, pero yo estoy todavía acostumbrado a hacerlas a mano. Creo, además, que es poco instructivo ocultar estas cuestiones detrás de funciones de tipo caja-negra-maravillosa a quienes se inician en el mundo de la construcción y comparación de modelos. Muestro, por tanto, código bastante simple para la validación cruzada de un modelo con R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # genero ids
 ids <- rep(1:10, length.out = nrow(cars))
 

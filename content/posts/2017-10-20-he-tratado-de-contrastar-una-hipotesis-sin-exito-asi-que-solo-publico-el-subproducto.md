@@ -19,7 +19,7 @@ Las cosas, o se hacen bien, o no se hacen. Como mi análisis se ha complicado co
 
 Como subproducto, esto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(xml2)
 library(stringr)
 library(plyr)

@@ -67,7 +67,7 @@ Todos los compiladores para Windows, que el autor conozca, incorporan la posibil
 Supóngase que se ha creado el fichero funciones.c que contiene una serie de funciones escritas en C que se desean invocar desde R.  Dichas funciones, por supuesto, deben atenerse a una serie de requisitos específicos que se explicitarán más adelante, pero, por el momento, y esto vale para cualquier aplicación, baste decir que el comando mínimo necesario para crear una DLL que se llame funciones.dll a partir de funciones.c utilizando el compilador MinGW que hay que introducir en la ventana de MS-DOS es
 
 
-{{< highlight c "linenos=true" >}}
+{{< highlight c >}}
 gcc -shared -o funciones.dll funciones.c
 {{< / highlight >}}
 
@@ -79,19 +79,19 @@ Por supuesto, tanto gcc, contenido en el directorio bin de donde quiera que se h
 
 Supóngase que se ha creado funciones.dll de acuerdo con el procedimiento anterior.  Para poder acceder a las funciones que contiene, R tiene, en primera instancia, que cargar la DLL.  Esto se consigue mediante la función dyn.load().  Suponiendo que funciones.dll está contenida en el directorio C:/MisDLLs, basta teclear
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dyn.load("C:/MisDLLs/funciones.dll")
 {{< / highlight >}}
 
 para cargarla.  Una vez deja de ser necesaria, se la puede descargar tecleando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dyn.unload("C:/MisDLLs/funciones.dll")
 {{< / highlight >}}
 
 Una vez cargada funciones.dll, si éste contiene una función denominada func1, se puede comprobar si en efecto está disponible tecleando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 is.loaded("func1")
 {{< / highlight >}}
 
@@ -113,7 +113,7 @@ Pero estas cuestiones se discuten mejor frente a un ejemplo concreto.
 
 Supóngase como arriba que el fichero funciones.c es
 
-{{< highlight c "linenos=true" >}}
+{{< highlight c >}}
 void func1(double *v1, double *v2, int *longitud, double*producto){
 	int i;
 	*producto = 0;
@@ -125,7 +125,7 @@ void func1(double *v1, double *v2, int *longitud, double*producto){
 
 Esta función implementa el producto escalar entre dos vectores de dimensión dada por *longitud que pasan por referencia a través de v1 y v2, devolviéndolo a través del puntero producto.  Si este fichero se compila como se indica más arriba para crear funciones.dll y se carga en R, el código
 
-{{< highlight c "linenos=true" >}}
+{{< highlight c >}}
 a <- rnorm(14)
 b <- rnorm(14)
 producto <- .C("func1", as.double(a), as.double(b), as.integer(14), resultado=double(1))$resultado

@@ -17,7 +17,7 @@ Es entretenido echar un vistazo a las causas de muerte más comunes (y todavía 
 
 Se puede jugar más con el asunto corriendo
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 select ?cod (count(distinct ?who) as ?count)
 where {?who <http://dbpedia.org/ontology/deathCause> ?cod.}
 order by desc(?count)

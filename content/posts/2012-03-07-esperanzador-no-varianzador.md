@@ -40,7 +40,7 @@ Hay que advertir también que sólo el 0.029% de las mueres fallecidas en el 200
 
 Habida cuenta de lo infrecuente del fenómeno, es decir, el asesinato de una mujer por parte de su pareja, y de la posible independencia entre este tipo de sucesos, cabe pensar que el número anual de casos sigue una [ley de Poisson](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Poisson). De ser así, su parámetro (estimado por máxima verosimilitud) sería `mean(dat)`, es decir, 64.54. Dado que el tamaño de la muestra es tan pequeño, no se me ocurre ningún procedimiento para evaluar la bondad del ajuste. No obstante,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 range(dat )
 # 50 76
 fivenum(replicate(1000, max(rpois(length(dat), mean(dat ) ) ) ) )

@@ -17,7 +17,7 @@ De acuerdo con el saber popular, pruebas que rechazan acompañan a intervalos de
 
 Pero
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(N, p = 0.7){
   n <- qbinom(0.975, N, p)
   tmp <- binom.test(n, N, p)

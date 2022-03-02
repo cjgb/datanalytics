@@ -21,7 +21,7 @@ Inspirado por [esto](http://enelmargen.org/datascience/un-voting-patterns/) he g
 
 usando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(unvotes)
 library(reshape2)
 library(gplots)

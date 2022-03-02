@@ -22,7 +22,7 @@ No sé si ertéaiss o no de adeurco en que fncniuoa o no, es dicer, que los ttoe
 
 El cdógio, cmoo pormíeta,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 texto <- "Pensando en cómo escribir a prueba de rectores
 plagiarios contumaces recordé esto y lo he implementado
 en R.

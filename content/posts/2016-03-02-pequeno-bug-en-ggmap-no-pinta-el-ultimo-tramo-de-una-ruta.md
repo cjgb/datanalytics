@@ -20,7 +20,7 @@ La mayor parte del mérito en el descubrimiento, en cualquier caso, es de una al
 Y el _bug_ se manifiesta así:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggmap)
 
 mapa <- get_map("calle Embajadores 10, Madrid", zoom = 18)

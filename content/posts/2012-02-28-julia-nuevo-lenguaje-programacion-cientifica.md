@@ -21,7 +21,7 @@ Bueno, pues estoy un poco enfadado con ellos. Me pasa un poco como a los catalan
 
 El original es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(R.utils)
 
 assert = function(bool) {
@@ -56,7 +56,7 @@ y tarda 10760 milisegundos en mi máquina.
 
 El código alternativo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 pisum.cjgb <- function() {
     for (j in 1:500)
         t <- sum( (1:10000)^(-2) )
@@ -71,7 +71,7 @@ tarda 510 milisegundos, veinte veces menos.
 
 En cualquier caso, me viene sorprendiendo mucho la velocidad de JavaScript. ¿Recordáis mi [entrada sobre las ocho reinas](http://www.datanalytics.com/2012/01/23/nueve-reinas-con-sas-y-r-tambien/)? La versión en JavaScript,
 
-{{< highlight html "linenos=true" >}}
+{{< highlight html >}}
 <body onload="javascript:cnt=0;
 
 function backTrack(trial,next){

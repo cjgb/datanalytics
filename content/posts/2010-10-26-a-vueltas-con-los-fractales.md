@@ -17,7 +17,7 @@ Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library(fields)         # for tim.colors
     library(caTools)        # for write.gif
     m = 400                 # grid size

@@ -19,7 +19,7 @@ _[Nota aclaratoria para lectores de otros sitios o de un futuro lejano: hay un d
 
 Esencialmente, en el estudio, como tienen acceso a la base de datos de movimientos bancarios de los clientes de La Caixa, los autores pueden hacer
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 select
   year, month, median(amount)
 from

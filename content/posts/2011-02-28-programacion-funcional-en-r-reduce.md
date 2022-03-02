@@ -48,7 +48,7 @@ El primer ejemplo es simple: vectorizar una función. Tambén es impráctico por
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     f <- function(x, y) ifelse(x > y, x, y)     # máximo de dos valores
     v <- rnorm(100)
     Reduce(f, v)
@@ -69,7 +69,7 @@ El segundo tiene que ver con [fracciones continuas](http://es.wikipedia.org/wiki
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     f <- function(x, y) y + 1 / x
     v <- rep(1, 12)
     Reduce(f, v, accumulate = T)
@@ -89,7 +89,7 @@ El interesado puede también probar a definir
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     f(x, y) = x + 1 / y
 {{< / highlight >}}
 
@@ -111,7 +111,7 @@ El código es así:
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     n <- 10000      # n periodos de 1 minuto
     lambda1 <- .3   # intensidad de las llegadas
     lambda2 <- .4   # intensidad del tiempo de servicio

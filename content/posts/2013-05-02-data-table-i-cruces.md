@@ -16,7 +16,7 @@ tags:
 
 Los protagonistas (tres tablas _grandecitas_):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dim(qjilm)
 # [1] 3218575 5
 dim(tf)
@@ -42,14 +42,14 @@ head(tfe, 2)
 
 El objetivo (cruzarlas por los campos comunes):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res <- merge(merge(tf, tfe), qjilm)
 {{< / highlight >}}
 
 El tiempo (usando `merge`):
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res <- merge(merge(tf, tfe), qjilm)
 #user system elapsed
 #442.991 2.496 446.832
@@ -60,7 +60,7 @@ dim(res)
 
 Y con [`data.table`](http://cran.r-project.org/web/packages/data.table/index.html):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(data.table)
 
 system.time({
@@ -84,7 +84,7 @@ dim(res.dt)
 Y, finalmente, suponiendo que los `data.tables` ya tienen asociado un _índice_ de antemano:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tf.dt  <- data.table( tf,  key = c("en", "es"))
 tfe.dt <- data.table( tfe, key = c("en", "es"))
 

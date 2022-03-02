@@ -26,7 +26,7 @@ Dada una muestra de la distribución lognormal (y supuesto, por simplificar, $la
 
 y uno pensaría que los valores deberían ser similares. Mas pero sin embargo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 
 set.seed(123)

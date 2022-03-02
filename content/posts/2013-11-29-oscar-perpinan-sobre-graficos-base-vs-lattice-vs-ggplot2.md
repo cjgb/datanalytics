@@ -25,7 +25,7 @@ La ventaja esencial de los gráficos _grid_ (`lattice` y `ggplot2`) frente a lo
 `lattice` es una implementación de los gráficos Trellis propuestos por Cleveland y otros (una matriz rectangular de paneles). Usa una interfaz basada en las fórmulas de R para especificar la relación entre las variables que componen el gráfico. Por ejemplo, `y ~ x | g1 * g2 `representa la variable `y` frente a `x` condicionada a las variables `g1 `y `g2`. Cada combinación de estas variables `g1` y `g2` determina un subconjunto de `x` e `y`, y por tanto el contenido de cada panel de la matriz del gráfico Trellis. Por ejemplo, el siguiente código representa la variable `wt` frente a `mpg` usando los niveles de la variable `cyl` para controlar el color y la variable `am` para definir
 los paneles:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 xyplot(wt ~ mpg | am, data = mtcars, groups = cyl)
 {{< / highlight >}}
 
@@ -33,7 +33,7 @@ En cierto sentido, este enfoque puede ser algo rígido para algunos gráficos, 
 
 `ggplot2` es una implementación de "La gramática de los gráficos" propuesta por Wilkinson en 1999. Este esquema divide un gráfico en componentes tales como escalas y capas. Por tanto, la definición de un gráfico con este enfoque se realiza combinando varias funciones que proporcionan la definición de cada componente implicado. Normalmente un gráfico se construye de forma incremental a partir de la función `ggplot` usando el operador `+` para añadir capas al objeto definido con `ggplot`. Por ejemplo, para representar el mismo gráfico anterior (la variable `wt` frente a `mpg` usando los niveles de la variable `cyl `para controlar el color y la variable `am` para definir los paneles) se usa este código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ggplot(mtcars, aes(mpg, wt)) +
 geom_point(aes(colour=factor(cyl))) +
 facet_grid(. ~ am)

@@ -13,7 +13,7 @@ tags:
 - dplyr
 ---
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
 
 dat <- data.frame( a = sample(c("x", "y"),    100, replace = T),

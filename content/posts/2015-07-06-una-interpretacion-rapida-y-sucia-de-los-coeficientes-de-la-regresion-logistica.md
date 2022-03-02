@@ -30,7 +30,7 @@ $$ \Delta p_i \approx \frac{\partial \text{logit}^{-1}}{\partial x}(a_0 + a_1 x_
 
 Es un cuarto porque (me da pereza calcular derivadas, ni aun con Wolfram Alfa)
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 lotgitinvprime <- function(x)
   (plogis(x + 0.001) - plogis(x) ) / 0.001
 

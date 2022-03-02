@@ -16,7 +16,7 @@ tags:
 
 A partir de los comentarios de Olivier Núñez a mi [entrada anterior casi homónima](http://www.datanalytics.com/2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/), se nos ha ocurrido a ambos de forma independiente y simultánea una manera alternativa de calcular el intervalo: minimizando su longitud.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- 3
 b <- 5
 alfa <- 0.05

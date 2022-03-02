@@ -17,7 +17,7 @@ tags:
 
 Contexto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo <- lm(dist ~ speed, data = cars)
 {{< / highlight >}}
 
@@ -29,7 +29,7 @@ Intervalos de confianza:
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 head(predict(modelo, interval = "confidence"))
 #        fit        lwr       upr
 #1 -1.849460 -12.329543  8.630624
@@ -42,7 +42,7 @@ head(predict(modelo, interval = "confidence"))
 
 Intervalos de predicción:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 head(predict(modelo, interval = "prediction"))
 #        fit       lwr      upr
 #1 -1.849460 -34.49984 30.80092

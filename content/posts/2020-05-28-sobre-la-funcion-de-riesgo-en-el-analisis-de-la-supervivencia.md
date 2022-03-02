@@ -42,7 +42,7 @@ Ah, y sí, $latex \lambda(t)$ es la función de riesgo.
 
 **PD:** Por si alguien quiere jugar con el código que ha servido para pintar lo anterior,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 S <- function(x) 1 - pweibull(x, 2, 5)
 
 from = 0

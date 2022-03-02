@@ -20,7 +20,7 @@ Para todos aquellos, [flygskam](/uploads/flygskam.csv).
 
 Que es un fichero que he construido haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(plyr)
 

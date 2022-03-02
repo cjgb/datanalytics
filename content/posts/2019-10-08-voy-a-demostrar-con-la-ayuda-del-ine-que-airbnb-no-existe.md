@@ -40,7 +40,7 @@ Si es que está, claro.
 
 Y de colofón, el código que genera la gráfica anterior, del que lo más aprovechable es el acceso a los datos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pxR)
 library(ggplot2)
 

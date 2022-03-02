@@ -19,7 +19,7 @@ El programa `src.R` genera entonces el gráfico utilizando dos paquetes de R: [g
 
 La magia la proporciona la función `grid.symbols` dentro del siguiente pedazo de código (que utiliza la función `xyplot` del paquete `lattice`):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 xyplot( ppa ~ func_pct,
     groups = pais, data = dat,
     xlab = "% funcionarios", ylab = "renta per cápita",

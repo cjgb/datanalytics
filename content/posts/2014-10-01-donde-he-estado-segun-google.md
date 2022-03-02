@@ -24,7 +24,7 @@ Google guarda datos de tus ubicaciones: tu tableta, tu ordenador, tu teléfono A
 El código que he utilizado el el siguiente:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(RJSONIO)
 library(plyr)
 library(ggmap)

@@ -19,7 +19,7 @@ Revisito mi artículo sobre la [ley de Benford](http://www.datanalytics.com/2011
 Lo hago porque me pliego a la demanda popular: voy a explicar con más detalle el código que dejé allí escrito y que, por referencia, es
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 benford <- function( foo, ..., n = 100000 ){
   tmp <- foo( n, ... )
   tmp <- as.character( tmp[ tmp > 0] )
@@ -43,7 +43,7 @@ benford( rweibull, shape = 1 )
 Puede llamar la atención que el primer argumento de la función `benford` sea, precisamente, otra función. Nada del otro mundo. El siguiente es un ejemplo en el que se muestra el uso aislado para una mejor comprensión:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 funcion.que.llama <- function( foo, ... ){
   foo(...)
 }
@@ -58,7 +58,7 @@ La función `funcion.que.llama` recibe una función como argumento. También rec
 Después uso las funciones `as.character` (para convertir el número en una cadena de texto) y `strsplit`, función análoga a la que existe en otros lenguajes. Su particularidad en R es que, aplicada a un vector de caracteres, devuelve una lista de la misma longitud que el vector original. No hay más que saber sobre dicha función que entender cuál es la salida de
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 strsplit( c("Hola", "caracola"), "l")
 {{< / highlight >}}
 

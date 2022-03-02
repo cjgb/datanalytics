@@ -16,13 +16,13 @@ Conforme se populariza el uso de R, cobran creciente importancia las cuestiones 
 
 Dentro de este contexto de preocupación sobre el rendimiento de R, han aflorado algunas cuestiones acerca de la eficiencia del intérprete a la hora de resolver expresiones matemáticas. Por ejemplo, Radford Neal estudió el [desigual desempeño de R](http://radfordneal.wordpress.com/2010/08/15/two-surpising-things-about-r/) frente a ciertas expresiones matemáticas equivalentes: en particular, la expresión
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 1/{a*{b+c}}
 {{< / highlight >}}
 
 frente a
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 1/(a*(b+c))
 {{< / highlight >}}
 
@@ -36,7 +36,7 @@ Lo que resulta curioso, cuando no denunciable, es que los autores de todos estos
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ## seis funciones de distinto grado de complejidad
 
 # con paréntesis
@@ -77,7 +77,7 @@ boxplot(tiempo ~ sep + factor(complejidad), data = dat,
 
 La salida que obtengo en mi máquina es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 Call:
 lm(formula = tiempo ~ sep + factor(complejidad), data = dat)
 

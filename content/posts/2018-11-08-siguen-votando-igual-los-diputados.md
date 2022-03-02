@@ -21,7 +21,7 @@ Hace seis años escribí [esto](https://www.datanalytics.com/2012/09/20/como-vot
 
 Y, por supuesto, el código (que he tenido que reescribir en gran medida):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(xml2)
 library(reshape2)
 library(plyr)

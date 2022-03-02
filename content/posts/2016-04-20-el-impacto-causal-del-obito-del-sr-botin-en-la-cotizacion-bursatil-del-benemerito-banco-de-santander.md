@@ -23,7 +23,7 @@ Comienzo pues.
 Primero los datos:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(tseries)
 library(CausalImpact)
 
@@ -59,7 +59,7 @@ Los datos que descargo de Yahoo! son el [cierre ajustado](https://help.yahoo.com
 Ahora voy a ver qué me cuenta [`CausalImpact`](https://google.github.io/CausalImpact/CausalImpact.html), i.e.,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 impact <- CausalImpact(cotizaciones,
     c(min(index(cotizaciones)), obito.botin - 1),
     c(obito.botin, max(index(cotizaciones))))
@@ -67,7 +67,7 @@ impact <- CausalImpact(cotizaciones,
 
 sobre el efecto causal motivo de esta entrada. Lo que hace la función, lo miráis por ahí. Pero mirad los resultados:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot(impact, metrics = c("original", "pointwise"))
 {{< / highlight >}}
 

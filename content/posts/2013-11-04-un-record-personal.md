@@ -16,7 +16,7 @@ tags:
 
 El otro día, casi por error, cargué este dataframe en R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dim(raw)
 # [1] 115318140         4
 {{< / highlight >}}

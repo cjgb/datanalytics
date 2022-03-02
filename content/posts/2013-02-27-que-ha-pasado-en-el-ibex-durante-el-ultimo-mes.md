@@ -26,7 +26,7 @@ Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros do
 
 Y, como siempre, el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(tseries)
 library(zoo)
 library(XML)

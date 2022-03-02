@@ -18,7 +18,7 @@ _[Esta entrada abunda sobre [la de ayer](https://www.datanalytics.com/2020/07/16
 
 Generemos unos datos, las `x`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 1000
 sigma <- .5
 x <- rep(-2:2, each = n)
@@ -29,13 +29,13 @@ En el bloque anterior hemos creado una/la variable observada, `x`, el término l
 
 Generamos las `y`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 y <- sapply(x_real, function(lambda) rpois(1, exp(lambda)))
 {{< / highlight >}}
 
 Realidad, y según la teoría bajo la que cabe aplicar el modelo de Poisson, los vectores
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tapply(y, x, var)
 #        -2        -1         0         1         2
 # 0.1750711 0.2701892 0.4400561 0.8555716 1.5842683
@@ -43,14 +43,14 @@ tapply(y, x, var)
 
 y
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 exp(-1 + .5 * (-2:2))
 # [1] 0.1353353 0.2231302 0.3678794 0.6065307 1.0000000
 {{< / highlight >}}
 
 deberían ser aproximadamente iguales. De hecho, casi lo son si forzamos $latex \sigma = 0$:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 y <- sapply(-1 + .5 * x, function(lambda) rpois(1, exp(lambda)))
 tapply(y, x, var)
 exp(-1 + .5 * (-2:2))
@@ -58,7 +58,7 @@ exp(-1 + .5 * (-2:2))
 
 Si hacemos
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 datos <- data.frame(
     x = x,
     y = y
@@ -70,7 +70,7 @@ summary(modelo_glm)
 
 Obtenemos
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 Call:
 glm(formula = y ~ x, family = poisson, data = datos)
 
@@ -96,14 +96,14 @@ Number of Fisher Scoring iterations: 6
 
 Mientras que si nos decantamos por el modelo quasi-Poisson,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo_quasi <- glm(y ~ x, data = datos, family = quasipoisson)
 summary(modelo_quasi)
 {{< / highlight >}}
 
 obtenemos algo parecido,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 Call:
 glm(formula = y ~ x, family = quasipoisson, data = datos)
 
@@ -131,7 +131,7 @@ con la salvedad de que el modelo _quasi_ nos advirte que existe una sobredispers
 
 De hecho,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tapply(y, x, var) / predict(modelo_glm, data.frame(x = -2:2), type = "response")
 #        -2        -1         0         1         2
 # 1.1426982 0.9928202 1.1523015 1.3737663 1.3469143
@@ -139,7 +139,7 @@ tapply(y, x, var) / predict(modelo_glm, data.frame(x = -2:2), type = "response")
 
 que es un vector cuya media coincide prácticamente con el parámetro de dispersión, 1.2017. Pero es que con este planteamiento en particular, la sobredispersión ni siquiera es proporcional al valor de $latex \hat{\mu}$, como demuestra la siguiente simulación,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x <- runif(100000, -2, 5)
 
 y <- exp(x + rnorm(length(x), 0, .2))

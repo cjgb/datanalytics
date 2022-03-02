@@ -20,7 +20,7 @@ Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al e
 
 Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(XML)
 simbolos <- readHTMLTable(htmlParse("http://finance.yahoo.com/q/cp?s=%5EIBEX+Components"))
 simbolos <- as.character(simbolos[[9]]$Symbol)
@@ -29,7 +29,7 @@ simbolos <- gsub("-P", "", simbolos)
 
 Luego, creo una pequeña función y se la aplico a cada símbolo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(tseries)
 
 foo  <- function( simbolo, final = Sys.time(), profundidad = 365 * 24 * 3600 ){
@@ -59,7 +59,7 @@ res <- do.call(rbind, res)
 
 Finalmente, creo el gráfico:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(googleVis)
 
 M <- gvisMotionChart(res,

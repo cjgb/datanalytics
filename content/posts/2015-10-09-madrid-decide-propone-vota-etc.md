@@ -30,7 +30,7 @@ Con esos antecedentes, ¿habrá alguna petición que alcance alguna vez los 53k 
 
 Con el muy perfectible
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 
 ids <- 1:3000

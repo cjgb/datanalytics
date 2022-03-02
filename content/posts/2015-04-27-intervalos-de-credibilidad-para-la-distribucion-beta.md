@@ -28,7 +28,7 @@ Gráficamente,
 
 Y he aquí el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- 3
 b <- 5
 

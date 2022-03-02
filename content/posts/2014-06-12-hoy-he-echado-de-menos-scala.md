@@ -16,7 +16,7 @@ tags:
 
 Hoy he escrito
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 last.date <- max(Filter(function(x) format(x, "%m") == "03",
 	all.filled.data$Date))
 {{< / highlight >}}

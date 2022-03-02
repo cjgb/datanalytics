@@ -19,7 +19,7 @@ El objetivo final es contar con criterios empíricos para la optimización de ci
 
 La query tiene este aspecto:
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 select * from ( un carajal de tablas y subconsultas ) where
 fecha = :fecha: and
 unidad = :unidad: and
@@ -34,7 +34,7 @@ Además, se observa que la carga de la base de datos varía mucho en función de
 
 Por tanto, analizaremos los tiempos de ejecución de la _query_ en función de unit.size, account.size y, finalmente, de los factores no controlados. Para ello, se selecionamos 200 _queries_, es decir, 200 combinaciones de unidad, cuenta y fecha. Cada una de las queries se ejecuta 5 veces.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 20
 unidades <- sample( unidades, n )
 epigrafes <- sample( epigrafes, n )
@@ -43,14 +43,14 @@ fechas <- sample( fechas, n, replace = TRUE )
 
 Además, se aleatoriza con respecto al tiempo. Esto se hace para evitar que el efecto de las fluctuaciones de carga del servidor se confundan con el efecto de las distintas _queries_. Distribuyendo aleatoriamente en el tiempo el momento de la ejecución de una misma _query_ se reduce la posibilidad de que todas las iteraciones de una de ellas se realicen en periodos de carga anormalmente alta o baja (los puristas del diseño experimental nos aplaudirían en este punto sólo a medias).
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n.rep <- 5
 iter.order <- sample( rep( 1:n, n.rep ) )
 {{< / highlight >}}
 
 Finalmente, se construye el conjunto de datos mediante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 salida <- do.call( rbind, sapply( iter.order, foo.sample, simplify = F ) )
 {{< / highlight >}}
 
@@ -65,7 +65,7 @@ Los datos resultantes pueden descargarse [aquí](/uploads/query_time_analysis.cs
 Descargamos y normalizamos en primer lugar los datos:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- read.table( url(
     "http://www.datanalytics.com/uploads/query_time_analysis.csv" ),
     header = T )
@@ -79,14 +79,14 @@ dat$id <- factor( dat$id )
 
 (La normalización se hace especialmente para facilitar la interpretación del modelo que se plantea más abajo). A continuación, creamos un objeto de la clase `groupedData`,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( nlme )
 dat <- groupedData( query.time ~ unit.size + account.size  | id, data = dat )
 {{< / highlight >}}
 
 que viene a ser un data.frame con información sobre cómo ciertas filas están asociadas entre sí. De forma que si uno hace
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot( groupedData( query.time ~ 1 | id, data = dat ) )
 {{< / highlight >}}
 
@@ -95,7 +95,7 @@ se obtiene el siguiente gráfico:
 [![](/wp-uploads/2010/08/grouped_data.png#center)
 ](/wp-uploads/2010/08/grouped_data.png#center)Se aprecia en él cómo la varianza de los tiempos de ejecución crece con éstos. Además, por consideraciones relativas a la construcción de los datos —un cruce de varias tablas de cada una de las cuales se extrae un número variable de filas— hay razones para intuir una estructura multiplicativa en los datos. Eso nos hace considerar el uso de logaritmos. De hecho,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot( groupedData( log(query.time) ~ 1 | id, data = dat ) )
 {{< / highlight >}}
 
@@ -108,7 +108,7 @@ que tiene mejor aspecto. No es todo lo bueno que uno quisiera, pero tiene mejor 
 
 Finalmente, planteamos el modelo mixto usando la función lme del paquete nlme:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     modelo <- lme( log2( query.time ) ~ unit.size + account.size,
        random = ~1 | id , data = dat )
 {{< / highlight >}}
@@ -117,7 +117,7 @@ El modelo consta términos fijos (`unit.size` y `account.size`) y de una parte a
 
 Alternativamente, usando modelos no mixtos, podría plantearse el modelo _equivalente_
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo.lm <- lm( log2( query.time ) ~
     id + unit.size + account.size, data = dat )
 {{< / highlight >}}
@@ -126,13 +126,13 @@ que haría aparecer 200 (técnicamente, 199 porque no se ha eliminado el términ
 
 Mediante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 summary( modelo )
 {{< / highlight >}}
 
 se obtiene:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 Linear mixed-effects model fit by REML
 Data: dat
 AIC    BIC  logLik
@@ -171,7 +171,7 @@ De la salida anterior interesan varios valores:
 
 Finalmente, puede verse un gráfico de diagnóstico del modelo haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot( modelo )
 {{< / highlight >}}
 

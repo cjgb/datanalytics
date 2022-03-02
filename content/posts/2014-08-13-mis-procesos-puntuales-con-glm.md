@@ -19,7 +19,7 @@ Lo que escribí hace un par de días sobre [procesos puntuales](http://www.datan
 
 Ejecuto el código del otro día y obtengo (para un caso nuevo)
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
           mu       alfa verosimilitud delta
     1  0.4493158 0.50000000      340.6141     1
     2  0.2675349 0.40457418      307.3939     2
@@ -37,7 +37,7 @@ que significa que el parámetro _óptimo_ es `delta = 5`, `mu = 0.124` y `alfa =
 
 Ahora hago
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     cuantos.previos <- function(i, muestra, delta){
       indices <- Filter(function(x) x < i & x > i - delta, 1:n)
       cuantos <- sum(muestra[indices])
@@ -60,7 +60,7 @@ Ahora hago
 
 y obtengo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     delta        mu       alfa      aic
     1      1 0.4493151         NA 683.2282
     2      2 0.2675337 0.40457432 618.7877

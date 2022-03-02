@@ -23,7 +23,7 @@ Antes, responderé a una pregunta: ¿por qué reordenar niveles en factores? La 
 La forma básica es la siguiente:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # creamos un factor con tres niveles, a, b y c
 mi.factor <-factor(sample(letters[1:3], 20, replace = T))
 levels(mi.factor)    # a, b, c
@@ -40,7 +40,7 @@ Es manual y hay que _fabricar_ a mano la permutación de los índices.
 La forma sofisticada puede emplearse cuando la permutación puede definirse mediante una función. Por ejemplo, para ordenarlos alfabéticamente, puede hacerse
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mi.factor <-factor(mi.factor, levels = sort(levels(mi.factor)))
 levels(mi.factor)    # a, b, c
 {{< / highlight >}}
@@ -49,7 +49,7 @@ levels(mi.factor)    # a, b, c
 o también, de una manera algo más general, esto otro:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mi.factor <-factor(mi.factor, levels = levels(mi.factor)[order(levels(mi.factor))])
 levels(mi.factor)    # a, b, c
 {{< / highlight >}}
@@ -58,7 +58,7 @@ levels(mi.factor)    # a, b, c
 El orden puede determinarlo otra variable. Por ejemplo, en el pedazo de código siguiente, queremos ordenar los niveles del factor según el máximo de los valores correspondientes de un vector numérico de la misma longitud:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mis.valores <- runif(20)
 tmp <- tapply(mis.valores, mi.factor, max)
 mi.factor <-factor(mi.factor, levels = levels(mi.factor)[order(tmp)])
@@ -68,7 +68,7 @@ mi.factor <-factor(mi.factor, levels = levels(mi.factor)[order(tmp)])
 Para este último tipo de transformaciones (muy frecuente para ordenar gráficos) existe un atajo, la función reorder:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mis.valores <- runif(20)
 mi.factor <- reorder(mi.factor, mis.valores, max)
 {{< / highlight >}}

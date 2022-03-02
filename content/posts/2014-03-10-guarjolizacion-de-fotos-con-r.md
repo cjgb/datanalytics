@@ -18,7 +18,7 @@ tags:
 
 Inspirado en [esto](http://aschinchon.wordpress.com/2014/03/03/warholing-grace-with-clara/) aunque con la intención de mejorar el horrible código adjunto, escribí el otro día esto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library("biOps")
 library("cluster")
 

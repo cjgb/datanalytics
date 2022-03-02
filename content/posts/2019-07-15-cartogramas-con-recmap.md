@@ -22,7 +22,7 @@ He construido
 
 que, obviamente no es la gran maravilla, basándome en [_Rectangular Statistical Cartograms in R:  The recmap Package_](https://www.jstatsoft.org/article/view/v086c01) y usando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rgdal)
 library(pxR)
 library(recmap)

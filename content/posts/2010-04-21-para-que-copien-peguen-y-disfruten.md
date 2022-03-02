@@ -15,7 +15,7 @@ El otro día [hablé de una señora que había hecho algunos comentarios poco av
 
 Para incrementar la probabilidad de que cuando esto vuelva a ocurrir el código pegado _de internet_ sea más bonito que el arriba mencionado dejo acá éste (e invito a mis lectores a ejecutarlo):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 v.x <- c(0,1,2)
 v.y <- c(0,1,0)
 vec <- sample(1:3, 100000, replace = T)

@@ -61,7 +61,7 @@ En nuestro caso, se puede estimar la función subyacente en una rejilla,
 
 con el código
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 library(reshape2)
 library(ggplot2)
@@ -116,7 +116,7 @@ lines(tmp$x, tmp$y, type = "l", col = "red")
 
 que tira de
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 data {
 int<lower=1> N1; // number of data points
 int<lower=1> N2; // number of grid points

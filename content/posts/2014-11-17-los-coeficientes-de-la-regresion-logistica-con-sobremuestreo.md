@@ -22,7 +22,7 @@ Y la cuestión tiene que ver con la conveniencia de utilizar una muestra equilib
 Yo quiero mostrar aquí qué sucede con los coeficientes de una regresión logística cuando se submuestrean los ceros. Para eso voy a crear muchos conjuntos de datos con la siguiente estructura:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x1 <- rep(0:1, times = c(n, reps * n))
 x2 <- runif(n * (reps + 1))
 y <- exp(-1 - 4 * x1)
@@ -34,7 +34,7 @@ Hay dos variables independientes, `x1` y `x2`. La segunda es puro ruido. La prim
 
 Simulemos pues:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(parallel)
 
 n    <- 100

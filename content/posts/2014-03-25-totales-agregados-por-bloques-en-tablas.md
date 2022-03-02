@@ -17,7 +17,7 @@ tags:
 
 En ocasiones uno quiere añadir un total calculado en ciertos bloques a una tabla. Por ejemplo, en la tabla
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 ventas.orig <- data.frame(
     cliente = rep(1:10, each = 5),
@@ -29,23 +29,23 @@ tenemos clientes, productos e importes. Y nos preguntamos por el porcentaje en t
 
 Una manera natural pero torpe de realizar este cálculo consiste en usar un objeto intermedio y `merge`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
-tmp <- ddply(ventas.orig, .(cliente), 
+tmp <- ddply(ventas.orig, .(cliente),
     summarize, total = sum(importe))
 ventas <- merge(ventas.orig, tmp)
-ventas$pct.producto <- 100 * ventas$importe / 
+ventas$pct.producto <- 100 * ventas$importe /
     ventas$total
 {{< / highlight >}}
 
 No os asustéis, se puede hacer aún peor (p.e., usando `sqldf`). Pero existen dos maneras, cuando menos, de hacerlo mejor. La primera es usando `data.table`.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(data.table)
 
 ventas <- data.table(ventas.orig)
 ventas[, total.cliente := sum(importe), by = cliente]
-ventas$pct.producto <- 100 * ventas$importe / 
+ventas$pct.producto <- 100 * ventas$importe /
     ventas$total.cliente
 {{< / highlight >}}
 
@@ -53,10 +53,10 @@ El operador `:=` es el que hace la magia en la segunda línea. Una ventaja de da
 
 También es posible hacerlo todavía más sucintamente con `plyr`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
-ventas <- ddply(ventas.orig, .(cliente), 
-    transform, 
+ventas <- ddply(ventas.orig, .(cliente),
+    transform,
     pct.producto = 100 * importe / sum(importe))
 {{< / highlight >}}
 

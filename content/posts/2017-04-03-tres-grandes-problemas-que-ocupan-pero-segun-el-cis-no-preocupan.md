@@ -27,7 +27,7 @@ De hecho, el porcentaje que se muestra indica la proporción de los encuestados 
 
 El análisis de los otros dos graves problemas a los que se refiere el periodista, los propongo como ejercicio. Como pista, el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(zoo)
 library(xts)

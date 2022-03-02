@@ -18,7 +18,7 @@ Imagínate que quieres _estabilizar la varianza_ (¡para qué!) de una distribuc
 
 Si en lugar de mirar en libros viejunos prestas atención a tus propios ojos, harás algo parecido a:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 lambdas <- -10:10
 lambdas <- 2^lambdas
 res <- sapply(lambdas,
@@ -33,7 +33,7 @@ y averiguar dónde funciona y dónde no.
 
 Si usas la transformación $latex f(x) = x^{2/3}$, como recomiendan en cierto artículo que no viene a cuento identificar, harás
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res <- sapply(lambdas, function(lambda) sd((rpois(1e5, lambda)^(2/3))))
 {{< / highlight >}}
 

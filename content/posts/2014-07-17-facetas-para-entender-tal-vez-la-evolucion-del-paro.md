@@ -29,7 +29,7 @@ También aparecen publicados regularmente en prensa. Y los expertos opinan sobre
 
 Así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 library(plyr)
 

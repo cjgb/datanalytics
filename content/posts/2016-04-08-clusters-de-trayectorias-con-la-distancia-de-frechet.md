@@ -22,7 +22,7 @@ El paquete [`kmlShape`](https://cran.r-project.org/web/packages/kmlShape/index.h
 El código es
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library(kmlShape)
     library(tseries)
     library(zoo)

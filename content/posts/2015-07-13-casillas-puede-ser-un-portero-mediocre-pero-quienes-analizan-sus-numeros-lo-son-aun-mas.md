@@ -28,7 +28,7 @@ Me preocupa aún más el hecho de que se ignoren los intervalos de confianza, de
 Analicemos los datos como se espera que hagan los medios de una sociedad madura. El código
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(plyr)
 library(ggplot2)
@@ -62,7 +62,7 @@ descarga el número de tiros a puerta y el de paradas de una página donde const
 donde se aprecia un manifiesto solapamiento de los intervalos de confianza (al 95%) construidos con `prop.test`. Las diferencias dejan de parecer ser tan manifiestas. Aún más,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(lattice)
 
 foo <- function(p1, p2){

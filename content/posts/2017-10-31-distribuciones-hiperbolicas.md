@@ -15,7 +15,7 @@ tags:
 - r
 ---
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     curve(-sqrt(x^2 + 1), -5, 5)
 {{< / highlight >}}
 
@@ -26,7 +26,7 @@ pinta una rama de hipérbola,
 
 que, una vez exponenciada, i.e.,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     curve(exp(-sqrt(x^2 + 1)), -5, 5)
 {{< / highlight >}}
 

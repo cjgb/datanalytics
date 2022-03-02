@@ -18,7 +18,7 @@ El otro día propuse y [resolví un problema de encriptación con R](http://www.
 
 Este método funcionó con una cadena relativamente larga para desencriptar pero falla con otras más cortas. Por ejemplo, con
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 cadena <-c("u","r","i","b","y","r","l","g","m","h","e","r","y",
 "b","g","m","a","c","p","y","c","m","d","r","h","z","y",
 "r","e","i","c","l","r","i","n","e","c","t","d","t","c","z",
@@ -28,7 +28,7 @@ cadena <-c("u","r","i","b","y","r","l","g","m","h","e","r","y",
 
 Si ejecuto el código que presenté el otro día,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 quijote <- readLines( "http://www.gutenberg.org/cache/epub/2000/pg2000.txt", encoding = "UTF-8" )
 tmp <- sapply( quijote, function(x) strsplit(x, ""))
 tmp <- do.call( c, tmp )
@@ -88,7 +88,7 @@ while( TRUE ){
 
 obtengo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 hostrocunylortunzagranioyprolsacosqlabibaparadovirelomaraqumasunorisdo
 {{< / highlight >}}
 
@@ -99,7 +99,7 @@ Nota: ciertamente, por diseño, el código no termina propiamente, pero uno pued
 
 Lo que propongo hoy es una pequeña modificación del algoritmo del otro día para que, en lugar de buscar un óptimo, navegue por entre las permutaciones más probables con la esperanza de que la óptima (y, probablemente, la original) sea una de ellas. El código queda así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 quijote <- readLines( "http://www.gutenberg.org/cache/epub/2000/pg2000.txt", encoding = "UTF-8" )
 tmp <- sapply( quijote, function(x) strsplit(x, ""))
 tmp <- do.call( c, tmp )
@@ -166,7 +166,7 @@ sort(contador)
 
 Las cadenas más probables (las asociadas a un contador más elevado), son
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 fermueviclteumichaquacoelbuetraverstayoyabauadegountejauasijariceuorde
 wentrelosmuertosyagrasiembreunalenpuacicabaradevirqueharapohanoserinde
 gentrecospuertosyabrasieplreunacenmuavivalaradefirqueharamohanoserinde

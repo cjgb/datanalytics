@@ -21,7 +21,7 @@ Comenzamos a optar. Primera elección _subjetiva_: son muestras de una Poisson d
 
 Una manera de estudiar lo anterior es plantear
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 1160 ~ poisson(lambda * (1 + incr))
 1131 ~ poisson(lambda)
 {{< / highlight >}}
@@ -30,7 +30,7 @@ y estudiar la distribución de <code>incr</code>. Que a saber qué distribución
 
 Mejor que rebuscar a ver qué distribución podría tener la cosa, basta con envolverlo en un poco de seudo-C++,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 stancode <- '
   parameters{
     real<lower = 0> lambda;
@@ -46,7 +46,7 @@ stancode <- '
 
 y luego, dejar que la magia surta efecto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 fit <- stan(model_code = stancode, chains = 1,
             iter = 12000, warmup = 2000, thin = 10)
@@ -59,7 +59,7 @@ summary(fit)$summary[1:2, c("mean", "2.5%", "97.5%")]
 
 Y se podrían pintar los histogramas, etc. También podemos de alguna manera estimar la probabilidad de que la accidentalidad haya subido, si es que la pregunta tiene sentido:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- as.data.frame(fit)
 mean(tmp$incr > 0)
 #[1] 0.732

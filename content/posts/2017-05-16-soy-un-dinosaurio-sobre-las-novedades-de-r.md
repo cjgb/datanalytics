@@ -34,13 +34,13 @@ Nunca he sido particularmente partidario de `dplyr` por varios motivos:
 
 Ocultar al neófito todo lo que hubo tiene ciertas ventajas (las conozco) pero también un grave inconveniente: esa gente no sabrá leer código ajeno, código anterior. Creo que es mejor enseñar el canon y luego, una vez que alguien sabe escribir
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- foo(b)
 {{< / highlight >}}
 
 advertirle que hay gente que también escribe, y que es lo mismo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- b %>% foo
 {{< / highlight >}}
 
@@ -48,7 +48,7 @@ O que una vez que hace suya la operación (abstracta) _groupby_, decirle que no 
 
 ¿Y sobre los gráficos? Bien, los de `ggplot2` son resultones. Concedido. Pero muchos no usamos R (solo) para hacer gráficos chulos. Usamos R para analizar datos. Y queremos poder inspeccionar la columna `edad` con un brevísimo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 hist(dat$edad)
 {{< / highlight >}}
 

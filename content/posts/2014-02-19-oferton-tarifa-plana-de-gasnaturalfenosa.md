@@ -18,7 +18,7 @@ La entrada de hoy es el debido ejercicio acerca de si me conviene o no contratar
 
 Primero, el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 
 # tramos tarifas planas

@@ -23,7 +23,7 @@ En los últimos tiempos se ha puesto de moda un subgénero periodístico que es 
 
 No sabiéndome sustraer al encanto del último grito, he escrito y corrido
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(rjson)
 library(plyr)

@@ -21,7 +21,7 @@ La función `plot` es genérica. Uno puede aplicársela a un `data.frame` o a un
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 methods(plot)
 {{< / highlight >}}
 
@@ -41,7 +41,7 @@ Podemos hacer un pequeño experimento creando una función genérica, `foo`, bas
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     foo <- function( x ) UseMethod( "foo", x )
     foo.data.frame <- function( x ) plot( x )
     foo.integer <- function( x ) sum( x )
@@ -66,7 +66,7 @@ También es posible crear nuevos métodos para funciones genéricas existentes. 
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot.hola.hola <- function( x ) print( "caracola" )
 a <- list()
 class( a ) <- "hola.hola"
@@ -102,7 +102,7 @@ En primer lugar, **crear la función genérica**. Por ejemplo,
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 as.px <- function ( x, ... ){
     UseMethod( "as.px", x )
 }
@@ -124,7 +124,7 @@ Después se pueden **crear los métodos necesarios**. Por ejemplo, en nuestro ca
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 as.px.array  <- function (x, skeleton.px = NULL, list.keys = NULL  )
 {{< / highlight >}}
 
@@ -148,7 +148,7 @@ El único punto delicado y que se desvía de la _norma_ radica en los ficheros d
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 \name{as.px}
 \alias{as.px}
 \alias{as.px.array}
@@ -164,7 +164,7 @@ Es decir, utilizando un _alias_ para el método de manera que cuando alguien esc
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ?as.px
 {{< / highlight >}}
 
@@ -182,7 +182,7 @@ o
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ?as.px.array
 {{< / highlight >}}
 
@@ -200,7 +200,7 @@ se muestre el fichero en cuestión. La sección `usage` quedaría así:
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 \usage{
 as.px( x, ... )
 \S3method{as.px}{array}( x, skeleton.px = NULL, list.keys = NULL, ...  )
@@ -223,7 +223,7 @@ Hay que advertir el peculiar formato de la llamada al método en el que queda de
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 S3method( plot, mi.clase )
 {{< / highlight >}}
 

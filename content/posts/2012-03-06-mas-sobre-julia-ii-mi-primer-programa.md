@@ -23,7 +23,7 @@ Lo primero ha sido instalar Julia, para lo que basta con seguir las [instruccion
 El código de mi programa, para que quede constancia pública de que vengo a ser un pionero en España usándolo, es:
 
 
-{{< highlight julia "linenos=true" >}}
+{{< highlight julia >}}
 function gibbs(n, thin)
         x = 0.0
         y = 0.0
@@ -41,7 +41,7 @@ gibbs(50000, 1000)
 
 El programa en cuestión, tal cual viene en la página que cito arriba, en R, ha tardado en ejecutarse
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 $ time Rscript mcmc00.R > data.tab
 
 real 8m31.259s
@@ -51,7 +51,7 @@ sys 0m0.948s
 
 Y en Julia,
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 $ time julia mcmc00.j > data.tab.j
 
 real 0m9.268s

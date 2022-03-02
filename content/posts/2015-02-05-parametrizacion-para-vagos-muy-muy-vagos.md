@@ -17,7 +17,7 @@ tags:
 
 Un ejemplo sencillo. Tengo un programa que contiene, por ejemplo, una consulta tal que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 query <- "select * from mitabla
     where country = 24 and year = 2014"
 {{< / highlight >}}
@@ -26,7 +26,7 @@ Hay gente sumamente diligente, con una enorme capacidad de trabajo y con vocaci�
 
 Otros hemos sido bendecidos con la paradójica virtud de la pereza creativa. La pareza creativa es un no hacer las cosas por estar uno ocupado discurriendo cómo conseguir que se hagan solas. Así, uno acaba ensayando soluciones del tipo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 query <- "select * from mitabla
     where country = @countryid and year = @year"
 query <- gsub("@countryid", my.country")
@@ -35,7 +35,7 @@ query <- gsub("@year", my.year)
 
 Pero un vago de verdad, un profesional de la procrastinación, un alérgico al estajanovismo reconoce humildemente que no transita en absoluto por terreno virgen, que millones se han enfrentado previamente al mismo problema y que a algún otro tiene que habérsele ocurrido tiempo ha la feliz idea. Excusa ideal para sumergirse en Google y dar con lo necesario para escribir algo tal como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(whisker)
 
 # idealmente, leído de un fichero de configuración

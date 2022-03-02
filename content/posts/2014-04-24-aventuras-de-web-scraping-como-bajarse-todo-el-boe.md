@@ -15,7 +15,7 @@ tags:
 
 Rescato aquí para futura o ajena referencia un pedazo de código que utilicé un día para un proyecto que se abortó y que tenía que ver con el análisis del texto del BOE. Reza así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 setwd("~/boe/boes")
 
 library(RCurl)

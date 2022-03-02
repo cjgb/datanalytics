@@ -21,7 +21,7 @@ Veamos: la distribución de Benford aplica a los primeros dígitos de los númer
 
 Para ilustrar lo que ocurre realmente, simulemos la distribución del los primeros dígitos de $latex 10^X$ donde $latex X$ es una variable aleatoria uniforme definida en $latex [0, x]$ para una seleción de valores entre 0 y 4:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 
 nsim <- 100000

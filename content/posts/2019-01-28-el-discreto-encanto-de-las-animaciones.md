@@ -26,7 +26,7 @@ extraído de [aquí](https://twitter.com/cocteautriplets/status/9863947923294658
 
 El código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 
 datos <- structure(list(year = c(1930L,

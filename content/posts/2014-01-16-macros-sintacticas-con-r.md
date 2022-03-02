@@ -20,7 +20,7 @@ Pero el otro día leí [_Stop Writing JavaScript Compilers! Make Macros Instead_
 
 No tengo todavía muy claro hasta dónde pueden llevarme y cuáles de sus usos son convenientes para mis fines. Porque no, yo no construyo sublenguajes o minilenguajes. Pero entiendo que pueden servir para construir código aún más breve y expresivo, como en el siguiente ejemplo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(gtools)
 
 intercambia <- defmacro(a, b, expr = {
@@ -44,7 +44,7 @@ La función `defmacro` del paquete `gtools` permite definir macros sintácticas.
 
 El ejemplo anterior sirve también para ilustrar algunos _caveats_ de las macros (al menos de la actual implementación de R): que no son [higiénicas](http://en.wikipedia.org/wiki/Hygienic_macro):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- 7
 intercambia(x,y)
 tmp

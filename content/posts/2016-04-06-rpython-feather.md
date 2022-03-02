@@ -18,7 +18,7 @@ Supongo que a estas alturas todos conoceréis [`feather`](http://blog.rstudio.or
 
 Primero solo en R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(feather)
 path <- "/tmp/my_data.feather"
 write_feather(cars, path)
@@ -27,7 +27,7 @@ my_cars <- read_feather(path)
 
 Ahora, para pasarle datos a Python:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rPython)
 python.exec("import feather")
 python.exec("a = feather.read_dataframe('/tmp/my_data.feather')")
@@ -36,7 +36,7 @@ python.exec("print a")
 
 Y, finalmente, para crear datos _grandes_ en Python y devolvéselos a R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 python.exec("import numpy as np")
 python.exec("import pandas as pd")
 python.exec("arr = np.random.randn(10000000)")

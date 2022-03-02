@@ -19,7 +19,7 @@ Trabajar con [Spark](http://spark.apache.org/) usando [Scala](http://www.scala-l
 
 ¿O no?
 
-{{< highlight scala "linenos=true" >}}
+{{< highlight scala >}}
 import org.apache.spark.sql.types.StructField;
 import org.apache.spark.sql.types.StructType;
 import org.apache.spark.sql.types.StringType;

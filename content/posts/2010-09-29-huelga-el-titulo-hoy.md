@@ -12,7 +12,7 @@ tags:
 ---
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- read.table("http://www.datanalytics.com/uploads/jornadas_huelga.csv", header = T)
 huelgas <- as.numeric( dat )
 huelgas <- ts( huelgas, start = 1990, frequency = 12 )

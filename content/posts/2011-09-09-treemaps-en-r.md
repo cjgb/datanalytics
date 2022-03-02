@@ -35,7 +35,7 @@ No estoy seguro de hasta qué punto ese tipo de gráficos resultan superiores a 
 
 **Nota:** Como siempre, el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( ggplot2 )
 library( treemap )
 

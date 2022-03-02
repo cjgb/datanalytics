@@ -27,7 +27,7 @@ El código utilizado para generarlo es:
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(googleVis)
 library(reshape)
 

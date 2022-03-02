@@ -28,7 +28,7 @@ Pero esos datos fueron la excusa perfecta para ensayar algo que todavía no teng
 
 Así que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo <- mgm(as.matrix(dat),
     type = rep("g", ncol(dat)),
     level = rep(1, ncol(dat)),
@@ -38,7 +38,7 @@ modelo <- mgm(as.matrix(dat),
 
 y luego
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 qgraph(modelo$pairwise$wadj,
     layout = 'spring', repulsion = 1.3,
     edge.color = modelo$pairwise$edgecolor,

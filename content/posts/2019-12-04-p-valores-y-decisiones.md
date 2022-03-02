@@ -25,7 +25,7 @@ Pero como tenemos dudas acerca del proceso de partición ---que no controlamos n
 
 Parece compensado, pero, ¿qué nos dice la estadística frecuentista de toda la vida? Ejecutando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n1 <- 363523
 n2 <- 372664
 op1 <- 119072

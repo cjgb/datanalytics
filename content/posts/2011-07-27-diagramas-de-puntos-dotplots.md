@@ -35,7 +35,7 @@ Leí hace poco un artículo de Naomi Robbins en el que se proponían los [gráf
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 require(Hmisc)
 example(dotchart2)
 {{< / highlight >}}

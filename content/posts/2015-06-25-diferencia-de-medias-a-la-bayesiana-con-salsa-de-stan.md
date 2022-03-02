@@ -24,7 +24,7 @@ $$ y_{ji} \sim N(\mu_j, \sigma)$$
 
 e interesa saber si $latex \mu_1 = \mu_2$. Obviamente, se desconoce $latex \sigma$. De [cómo resolvió Gosset](http://www.datanalytics.com/2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/) el problema están los libros de estadística llenos. En R,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 N1 <- 50
 N2 <- 50
@@ -51,7 +51,7 @@ t.test(y1, y2)
 
 En [`rstan`](http://mc-stan.org/rstan.html),
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
  
 standat <- list(N1 = length(y1),
@@ -102,7 +102,7 @@ La parte más importante es `model` que, como las demás, es autoexplicativa y m
 
 El resultado de la cosa es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 print(fit)
 # Inference for Stan model: stanmodelcode.
 # 4 chains, each with iter=12000; warmup=2000; thin=10;
@@ -125,7 +125,7 @@ donde puede apreciarse que la estimación de las medias, el intervalo de confian
 
 Además,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 pairs(fit, pars=c("mu", "sigma1", "sigma2", "diff"))
 {{< / highlight >}}
 

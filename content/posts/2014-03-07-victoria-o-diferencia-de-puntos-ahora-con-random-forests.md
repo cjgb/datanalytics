@@ -20,7 +20,7 @@ Después de hablar con tirios y troyanos sobre mi [entrada sobre los efectos de 
 
 Aquí va el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(randomForest)
 
 set.seed(1234)
@@ -39,24 +39,24 @@ test.error <- function(){
   X <- as.data.frame(X)
   X$Y <- Y
 
-  modelo <- randomForest(Y ~ ., 
+  modelo <- randomForest(Y ~ .,
     data = X[train,])
   pred <- predict(modelo, X[-train,])
-  error.cont <- length(pred) - 
+  error.cont <- length(pred) -
     sum(diag(table(pred >0, Y[-train]>0)))
 
   X$Y <- Y.bin
-  modelo <- randomForest(Y ~ ., 
+  modelo <- randomForest(Y ~ .,
     data = X[train,])
   pred <- predict(modelo, X[-train,])
-  error.bin <- length(pred) - 
+  error.bin <- length(pred) -
     sum(diag(table(pred, Y.bin[-train])))
 
-  data.frame(error.cont = error.cont, 
+  data.frame(error.cont = error.cont,
     error.bin = error.bin)
 }
 
-errores <- do.call(rbind, 
+errores <- do.call(rbind,
   replicate(1000, test.error(), simplify = F))
 
 sapply(errores, fivenum)

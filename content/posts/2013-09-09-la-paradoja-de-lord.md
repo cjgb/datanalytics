@@ -22,13 +22,13 @@ El objetivo era el obvio: ¿es mejor el nuevo tratamiento? Parece sencillo, ¿ve
 
 Hay dos mecanismos obvios para tratar de verificar la hipótesis. El primero es un t-test sobre
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 (después - antes) ~ tratamiento
 {{< / highlight >}}
 
 que recibe, en la jerga, el nombre de GSA (o _gain score analysis_). El segundo, la siguiente ANCOVA:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 después ~ tratamiento + antes
 {{< / highlight >}}
 

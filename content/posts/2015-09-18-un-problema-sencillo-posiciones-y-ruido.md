@@ -16,7 +16,7 @@ tags:
 
 Voy a describir la solución un problema _sencillo_. Se trata de un objeto que se mueve a una velocidad no necesariamente constante en línea recta. Este objeto emite su posición y velocidad periódicamente (p.e., cada segundo). Por centrar ideas, su posición y velocidad reales en esos momentos es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 v.real <- rnorm(n, 1, 0.2)
 x.real <- cumsum(v.real)
@@ -26,7 +26,7 @@ x.real <- cumsum(v.real)
 
 Sin embargo, el canal por el que el objeto transmite esa información tiene ruido. La señal recibida es, por tanto,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sigma.x <- 0.2
 sigma.v <- 0.2
 v0 <- v.real + rnorm(n, 0, sigma.v)
@@ -39,7 +39,7 @@ También podemos leer y aplicar [esto](https://en.wikipedia.org/wiki/Kalman_filt
 
 Así que he dejado que R lo haga casi todo por mí:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 
 standat <- list(N = n, x0 = x0, v0 = v0,

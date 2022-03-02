@@ -19,7 +19,7 @@ tags:
 Tomemos una tabla de contingencia, p.e.,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(MASS)
 a <- as.matrix(caith)
 
@@ -36,7 +36,7 @@ que se refiere a los habitantes de una población de Escocia clasificados según
 La teoría nos dice que podemos aplicar un test de independencia y obtener
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 summary(as.table(a))
 # Number of cases in table: 5387
 # Number of factors: 2
@@ -51,7 +51,7 @@ Es decir, parece haber una relación entre filas y columnas de la tabla que excl
 Pero podemos proceder de otra manera. De existir independencia, las frecuencias esperadas en la tabla serían
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- sum(a)
 
 prop.filas    <- rowSums( a ) / n
@@ -70,7 +70,7 @@ a.hat <- n * outer( prop.filas, prop.columnas )
 ¿En qué medida difieren `a` y `a.hat`? Consideremos su diferencia
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a - a.hat
 
 #             fair         red     medium       dark     black
@@ -84,7 +84,7 @@ a - a.hat
 Esta diferencia muestra la desviación en términos absolutos entre los conteos obtenidos y los esperados y ofrece cierta información acerca de la estructura de la tabla (¿nadie aprecia una cierta estructura diagonal en los datos?). No obstante, una diferencia de 10 cuando el valor esperado es 100 no es tan _grave_ como una diferencia de 10 cuando el valor esperado es 5. Eso sugiere realizar algún tipo de normalización. Por ejemplo (y la justificaremos en un momento), se puede hacer
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 b <- (a - a.hat) / sqrt(a.hat)
 
 #             fair         red    medium       dark     black
@@ -98,7 +98,7 @@ b <- (a - a.hat) / sqrt(a.hat)
 La estructura diagonal de la matriz de diferencias es ahora más clara (¿o sólo me lo parece a mí?). El motivo de elegir ese factor de normalización y no otro es que
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sum(b^2)
 # 1240.039
 {{< / highlight >}}
@@ -107,7 +107,7 @@ sum(b^2)
 coincide con el valor obtenido para el estadístico $latex \chi^2$ más arriba. En efecto, hemos construido a mano el estadístico del test de independencia, que sigue una distribución $latex \chi^2$ con (4-1)(5-1) = 12 grados de libertad. En efecto,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 pchisq( sum( b^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
 # 4.123993e-258
 {{< / highlight >}}
@@ -120,7 +120,7 @@ La feliz coincidencia a la que se refiere el título de esta entrada se refiere 
 Así,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sum( diag( t(b) %*% b ) )
 # 1240.039
 {{< / highlight >}}
@@ -129,7 +129,7 @@ sum( diag( t(b) %*% b ) )
 Y, ¿por qué es útil esa relación? Pues porque la traza de $latex A^\prime A$ es la suma de los vectores propios de dicha matriz, que son, por otra parte, el cuadrado de sus valores singulares. En efecto,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sum( ( svd( b )$d )^2 )
 # 1240.039
 {{< / highlight >}}

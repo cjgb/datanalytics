@@ -25,7 +25,7 @@ Existe un método, el [índice de poder de Banzhaf](http://www.esi2.us.es/~mbilb
 
 Veamos cómo calcular este índice con R y lo utilizaremos para cuantificar el valor de ese escaño:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 escannos <- c(17,12,10,5,1)
 names(escannos) <- c( "psoe", "fac", "pp", "iu", "upyd")
 
@@ -58,7 +58,7 @@ banzhaf(escannos)
 
 El resultado es:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # iu upyd  fac   pp psoe
 #  0.4  0.4  0.6  0.6  0.6
 {{< / highlight >}}
@@ -69,7 +69,7 @@ Existen limitaciones obvias a este indicador que resultarán evidentes a quien p
 
 Pero sí que dejaré, por referencia, otra aplicación de este índice al resultado de las últimas elecciones generales:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 generales <- c(186,110,16,11,7,5,5,3,2,2,1,1,1)
 names(generales) <- c("pp", "psoe", "ciu", "iu", "amaiur", "upyd",
     "pnv", "esquerra", "bng", "cc", "compromis", "fac", "gbai")

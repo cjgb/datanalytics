@@ -54,7 +54,7 @@ Pero sin que, entiendo, afectase al Libor gracias a la _winsorización_ de la me
 
 **Nota:** el código usado para realizar el segundo gráfico es el siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 
 raw <- read.csv( "LIBOR Combined - USD - Sheet 1.csv" )

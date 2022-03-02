@@ -25,7 +25,7 @@ Sucede así con los terremotos (réplicas que se agrupan en el tiempo después d
 
 En la entrada de hoy voy a mostrar código para, primero, simular este tipo de procesos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # parámetros iniciales
 
 mu <- 0.1
@@ -69,7 +69,7 @@ $$ P(x_1, \dots, x_n) = \prod P(x_i | \lambda(x_1, \dots, x_{i-1}))$$
 
 por lo que la verosimilitud tiene una forma no particularmente fea:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 verosimilitud <- function(muestra, mu, alfa, delta){
   lambdas <- sapply(1:length(muestra),
   function(i) lambda(i, muestra, mu, alfa, delta))

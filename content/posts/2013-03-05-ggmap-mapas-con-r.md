@@ -19,7 +19,7 @@ Me mandó [Alberto González Paje](http://www.ekonlab.com/) código para represe
 
 Es el siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggmap)
 
 # ubico mi alma mater

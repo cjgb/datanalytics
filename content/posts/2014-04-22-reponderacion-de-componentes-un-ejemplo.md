@@ -21,7 +21,7 @@ Si uno quiere trabajar con las principales componentes de un PCA sobre unos dato
 
 Voy a presentar uno. Se trata de un _clústering_ simple:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 m <- matrix(rnorm(2 * n), n, 2)
 m[, 1] <- m[, 1] * 3
@@ -39,7 +39,7 @@ plot(m, col = tmp$cluster, asp = 1)
 
 Pero puede darse el caso de que haya motivos para pensar que la dirección NO-SE tiene demasiado peso en el resultado final. Es posible entonces reducir la distancia en esa dirección:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 m.pca <- princomp(m, 2)$scores
 
 head(m.pca)
@@ -59,7 +59,7 @@ plot(m.pca, asp = 1, col = tmp$cluster)
 
 Ahí estan las dos componentes. La más importante es la primera, que tiene el rango (-3, 3) mientras que la otra va de -1 a 1 (aproximadamente). Pero es posible comprimir la primera dirección
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 m.pca.squeezed <- m.pca
 m.pca.squeezed[, 1] <- 0.2 * m.pca.squeezed[, 1]
 {{< / highlight >}}
@@ -67,7 +67,7 @@ m.pca.squeezed[, 1] <- 0.2 * m.pca.squeezed[, 1]
 para entonces usar `kmeans` sobre las componentes reponderadas
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp.squeezed <- kmeans(m.pca.squeezed, 2)
 plot(m.pca.squeezed, col = tmp.squeezed$cluster, asp = 1)
 {{< / highlight >}}
@@ -77,7 +77,7 @@ plot(m.pca.squeezed, col = tmp.squeezed$cluster, asp = 1)
 
 Finalmente, es posible representar los _clústers_ sobre las variables originales:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp.squeezed <- kmeans(m.pca.squeezed, 2)
 plot(m, col = tmp.squeezed$cluster, asp = 1)
 {{< / highlight >}}

@@ -18,7 +18,7 @@ tags:
 Dando vueltas (infructuosas) al asunto de los [cartogramas](http://www.datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/) he dado con un subproducto con el que, por hoy, me conformo: crear un grafo a partir de relaciones de vecindad entre polígonos. La magia, obra de `[spdep::poly2nb](http://www.inside-r.org/packages/cran/spdep/docs/poly2nb)`; el código,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(maptools)
 library(spdep)
 library(igraph)
@@ -33,7 +33,7 @@ plot(aragon)
 ](/wp-uploads/2015/05/aragon_ine.png#center)
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 aragon.nb <- poly2nb(aragon)
 
 # vértices

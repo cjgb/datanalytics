@@ -25,7 +25,7 @@ Si se puede hacer [para Japón](http://blog.revolutionanalytics.com/2016/02/japa
 
 El código,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(idbr)
 library(ggplot2)
 library(animation)

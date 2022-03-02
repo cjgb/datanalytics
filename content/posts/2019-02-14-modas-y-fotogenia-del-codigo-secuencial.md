@@ -20,7 +20,7 @@ Y yo decía: ¿dónde están mis bucles? ¿Y mis bifurcaciones?
 
 Este tipo de _programación_ está de moda últimamente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 hourly_delay <- flights %>%
   filter(!is.na(dep_delay)) %>%
   group_by(date, hour) %>%

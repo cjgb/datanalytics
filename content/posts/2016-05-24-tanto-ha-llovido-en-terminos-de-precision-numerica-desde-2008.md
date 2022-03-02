@@ -16,7 +16,7 @@ tags:
 
 Acabo de ejecutar
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 
 x <- runif(1e6)

@@ -20,7 +20,7 @@ Comienzo por el final:
 
 En el gráfico anterior se aprecian unos datos, generados mediante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 x <- 1:n
 
@@ -36,7 +36,7 @@ a los que se ha ido añadiendo un ruido progresivamente, es decir, una serie de 
 
 Las líneas rojas representan la predicción realizada mediante un modelo _de segundo orden de Fourier_ (si se me permite), es decir,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo <- lm(y ~ cos1 + cos2, data = out)
 {{< / highlight >}}
 

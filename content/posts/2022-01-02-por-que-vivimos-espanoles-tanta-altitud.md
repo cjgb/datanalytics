@@ -45,7 +45,7 @@ El resultado, con los países ordenados por altitud mediana, es este:
 
 Y el código, por referencia,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(terra)
 library(giscoR)
 library(sf)

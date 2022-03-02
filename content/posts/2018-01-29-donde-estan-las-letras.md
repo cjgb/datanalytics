@@ -21,7 +21,7 @@ Inspirado en [esto](http://www.56n.dk/where-do-letters-occur-in-words/) constru�
 
 usando como texto el Quijote y como código una versión mucho más simple y limpia que (aunque inspirado en) la del enlace original:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(stringr)
 library(plyr)
 library(ggplot2)

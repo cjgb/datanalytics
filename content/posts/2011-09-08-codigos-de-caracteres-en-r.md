@@ -17,7 +17,7 @@ Esta entrada acompaña y remata para los usuarios de R la que escribí en genera
 Primero creo dos ficheros (en Linux) con el mismo contenido pero codificados de dos maneras distintas, `utf-8` y `latin1`:
 
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 $ echo "hóla;adiós" > hola_utf8.txt
 $ file hola_utf8.txt
 hola_utf8.txt: UTF-8 Unicode text
@@ -35,7 +35,7 @@ La codificación interna de caracteres en Linux (al menos, en el mío) es `utf-8
 Mi experimento consiste en ejecutar tanto en Linux como en Windows el siguiente código:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function( file, encoding ){
     a <- scan( file, what = "character",
                 fileEncoding = encoding )

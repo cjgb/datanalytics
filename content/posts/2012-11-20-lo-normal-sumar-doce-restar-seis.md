@@ -18,7 +18,7 @@ Un [truco para generar variables aleatorias normales](http://www.johndcook.com/b
 
 En efecto,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x <- replicate(1000, sum( runif(12) - 6 ))
 qqnorm(x)
 qqline(x, col=2)

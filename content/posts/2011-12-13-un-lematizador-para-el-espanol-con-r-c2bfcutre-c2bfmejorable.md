@@ -23,7 +23,7 @@ Sinceramente, no sé a qué se dedican —me consta que los hay— los lingüist
 Y me ha servido para construir un lematizador rudimentario y francamente perfectible:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 require(XML)
 
 lematiza <- function(frase){
@@ -45,7 +45,7 @@ lematiza <- function(frase){
 Con él, desde R,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 > lematiza( "des" )
 [1] "DAR"
 > lematiza( "anduve" )

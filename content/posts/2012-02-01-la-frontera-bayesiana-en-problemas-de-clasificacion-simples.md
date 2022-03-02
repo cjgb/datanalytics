@@ -22,7 +22,7 @@ Voy a plantear aquí una discusión así como código en R para representarla (e
 
 Supongamos que hay que crear un clasificador que distinga entre puntos rojos y verdes con la siguiente pinta,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(mvtnorm)
 library(MASS)
 
@@ -55,7 +55,7 @@ es decir, así:
 
 Los puntos rojos están distribuidos según $latex P(x|R)$, una mezcla de tres distribuciones normales esféricas con centros en los puntos (-1,1), (0,0) y (1,-1) y desviación estándar 0.5. Los verdes, según $latex P(x|V)$, una distribución similar aunque con centros en (-1,-1) y (1,1):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 veros <- function(w, medias, sigma = 5){
     mean(dmvnorm(medias, w, sigma = diag(length(w)) / sigma))
 }
@@ -106,7 +106,7 @@ $$ \frac{ P(R|x)}{P(V|x)} = \frac{ P(x|R)}{P(x|V)}$$
 y, no habiendo penalizaciones asimétricas según la dirección del error, el criterio óptimo de clasificación es asignar la clase R cuando $latex P(R|x) > P(V|x)$ y, de acuerdo con la fórmula anterior, cuando $latex P(x|R) > P(x|V)$. Es decir, la _frontera_ entre las zonas en que es más probable que una observación proceda de una u otra distribución (es decir, sea de una u otra clase) es
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 contour(x=tmp,y=tmp,
         z=matrix(bayes.v - bayes.r, length(tmp)),
         levels = 0, labels = "")

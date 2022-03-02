@@ -14,7 +14,7 @@ tags:
 
 El otro tropezamos con el siguiente _artefacto_:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- list(aa = 12, bb = 14)
 is.null(a$a)
 #[1] FALSE
@@ -28,7 +28,7 @@ No es un _bug_ de R, por que la documentación reza:
 
 Y se pueden constrastar:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a[["a", exact = FALSE]]
 a[["a", exact = TRUE]]
 {{< / highlight >}}

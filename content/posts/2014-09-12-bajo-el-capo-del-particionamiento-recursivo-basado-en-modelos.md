@@ -21,7 +21,7 @@ Una de las mayores contrariedades de estar sentado cerca de alguien que es más 
 
 Primero, unos datos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 
 n <- 100
@@ -37,7 +37,7 @@ y <- 0.3 + 0.2 * x1 + 0.5 * (x2 > 0) + 0.2 * rnorm(n)
 Luego, un modelo:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo <- lm(y ~ x1)
 summary(modelo)
 
@@ -66,7 +66,7 @@ Pocos que no entiendan cómo se han generado los datos advertirían lo malo de s
 Sin embargo,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 par(mfrow=c(2,2))
 plot(predict(modelo), resid(modelo),
         ylab = "residuals", xlab = "predicted values",
@@ -90,7 +90,7 @@ En ninguno de los gráficos de la primera fila (residuos contra predicción y va
 
 Veamos qué hace la función `mob` de `party`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(party)
 plot(mob(y ~ x1 | x2 + x3))
 {{< / highlight >}}

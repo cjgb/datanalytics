@@ -27,7 +27,7 @@ De hecho, ejecutando
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- c(1134, 1132, 1131)
 lambda <- mean(dat)
 sd(dat)
@@ -38,7 +38,7 @@ mean(sds < sd(dat))
 
 se ve cómo apenas en 1 de cada 1000 tiradas aleatorias de tres variables aleatorias independientes de Poisson con parámetro ~1132 se obtienen varianzas tan bajas. Y ejecutando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(){
   muestra <- rpois(57, lambda)
 

@@ -24,7 +24,7 @@ Se trata de variables categóricas con tres niveles: en / por encima de / por de
 
 Haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo <- lm(QualityScore ~ PostClickQualityScore +
     SearchPredictedCtr + CreativeQualityScore,
     data = tmp)
@@ -34,7 +34,7 @@ summary(modelo)
 
 se obtiene
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 Call:
 lm(formula = QualityScore ~ PostClickQualityScore + SearchPredictedCtr +
     CreativeQualityScore, data = tmp)

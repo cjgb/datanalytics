@@ -17,7 +17,7 @@ tags:
 
 El siempre muy benéfico Banco de Santander me ha proporcionado ---onerosamente: veráse el porqué--- un conjunto de datos con el que ilustrar a los lectores de este blog en el uso del paquete `outliers` de R.  Los datos son los siguientes:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dia <- 17:26
 precio <- 10 + c( 22, 21, 39, 18, 24, 26, 26,26,29, 28 ) / 100
 {{< / highlight >}}
@@ -41,7 +41,7 @@ $$ P(t) = \exp( \mu t + \sigma B(t) $$
 
 donde $latex \mu$ está relacionado con la tendencia creciente del mercado y $latex B(t)$ es un movimiento browniano. En periodos de tiempo cortos, las variaciones de precios son (muy) aproximadamente normales. Así que volviendo a R,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dixon.test( precio )
 
 #    Dixon test for outliers

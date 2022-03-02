@@ -18,14 +18,14 @@ Tengo acceso a una máquina que, aunque anda un poco corta de memoria, cuenta co
 
 En el fondo, es una trivialidad. Supongamos que la función que implementa la simulación se llama foo. Habitualmente, haríamos
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n.iter <- 1000
 resultados <- replicate( n.iter, foo() )
 {{< / highlight >}}
 
 y las simulaciones se ejecutarían secuencialmente.  Con el [paquete `multicore`](http://cran.r-project.org/web/packages/multicore/index.html), la tarea podría distribuirse por 6 (por ejemplo: es que si uso las ocho me riñen) de las CPUs así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( multicore )
 resultados <- mclapply( 1:n.iter, foo, mc.set.seed = TRUE, mc.cores = 6 )
 {{< / highlight >}}
@@ -40,7 +40,7 @@ El paquete multicore incluye algunas funciones de más bajo nivel (`parallel`, `
 
 Y para acabar, números:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( multicore )
 n.iter <- 1000
 foo <- function(i) mean( rnorm( 100000 ) )  

@@ -29,7 +29,7 @@ Lo que podemos hacer es generar muchas secuencias de secuencias de números, apl
 
 Y el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 simplificar <- function(x){
   if (x < 1.7)
     return(1L)

@@ -19,7 +19,7 @@ Tras leer el otro día [Visualizando la matriz de acuerdo legislativo](http://co
 
 He aquí pues el código concomitante que fue apareciendo en mi sesión de RStudio:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(XML)
 library(reshape)
 library(corrgram)
@@ -67,7 +67,7 @@ Con él se pueden bajar unas docenas de ficheros XML correspondientes a ciertos 
 
 Haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- res[ ! unlist(lapply(res, is.null) ) ]
 names(tmp) <- paste( "votacion", 1:length(tmp), sep = "_")
 tmp <- lapply( names(tmp), function(x) data.frame( votacion = x, tmp[[x]]))
@@ -78,7 +78,7 @@ votos <- votos[,-2]          # elimino el "asiento"
 
 genero un objeto, `votos`, cuyas seis primeras filas tienen este aspecto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 votacion                            Diputado Voto
 1 votacion_1          Muñoz González, Pedro José   Sí
 2 votacion_1         González Vázquez, Sebastián   Sí
@@ -92,14 +92,14 @@ En total, hay 350 diputados que han votado 438 asuntos.
 
 Si uno hace
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ausentes <- subset(votos, Voto == "No vota")
 sort(table(ausentes$Diputado))
 {{< / highlight >}}
 
 puede saber cuáles son los que han dejado de votar en más ocasiones por los motivos que sean. Dejaré que sean otros los que publiquen la salida de estas sentencias. Porque a mí me interesan más las correlaciones. Para lo cual, creo así
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 votos$ind <- 0
 votos$ind[votos$Voto == "Sí"] <- 1
 votos$ind[votos$Voto == "No"] <- -1
@@ -115,7 +115,7 @@ matriz.votos <- as.matrix(tmp[,-1])
 
 la matriz `matriz.votos` que tiene diputados en sus filas y votaciones en sus columnas. Esto permite representar mediante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 cor.votos <- cor(t(matriz.votos))
 cor.plot( mat.sort(cor.votos))
 {{< / highlight >}}
@@ -129,7 +129,7 @@ en la que se aprecian claramente dos bloques diferenciados. Me llama la atenció
 
 También puede hacerse un gráfico de calor,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 heatmap(matriz.votos, xlab = "Asuntos", ylab = "Diputados", scale = "none")
 {{< / highlight >}}
 

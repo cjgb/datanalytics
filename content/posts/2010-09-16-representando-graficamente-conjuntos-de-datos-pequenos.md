@@ -14,7 +14,7 @@ tags:
 
 Últimamente me están llegando conjuntos de datos para analizar con muy pocos registros. He aquí un subconjunto de uno de ellos (de hoy y debidamente anonimizado):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 nivel.proteina <- c( 11.56, 10.43, 11.00, 10.92, 10.08, 9.98, 10.35,
   9.55, 9.19, 7.00, 6.72, 6.43, 7.43, 7.26, 6.67,  7.49, 8.03, 8.17,
   6.79, 7.68, 7.01, 7.51, 6.90, 7.27, 7.56, 8.61, 8.16, 7.12 )
@@ -28,7 +28,7 @@ Le he estado dando vueltas a la manera de representar gráficamente este tipo de
 
 Sin pensar demasiado, a uno se le ocurre utilizar diagramas de cajas mediante un —posiblemente demasiado— espartano
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 boxplot( nivel.proteina ~ grupo, dat = datos )
 {{< / highlight  >}}
 
@@ -37,7 +37,7 @@ que genera esto:[![](/wp-uploads/2010/09/boxplot.png#center)
 
 Pero para conjuntos de datos tan pequeños, las cajas no acaban de satisfacerme: sustituyen —tal vez demasiado _filosóficamente_— el dato mismo por una respresentación conceptual suya: es como llamar bosque a un conjunto de tan sólo 18 árboles. Así que utilizando unos gráficos que vi en el [libro de Pinheiro y Bates](http://stat.bell-labs.com/NLME/MEMSS/index.html), hice
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(nlme)
 datos.agrupados <- groupedData(nivel.proteina ~ 1 | grupo, data = datos )
 plot(datos.agrupados)

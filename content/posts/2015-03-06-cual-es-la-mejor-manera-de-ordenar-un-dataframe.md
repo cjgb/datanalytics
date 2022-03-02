@@ -15,19 +15,19 @@ tags:
 
 El título de esta entrada es una pregunta honesta. Yo siempre he utilizado `order` así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     iris[order(iris$Petal.Length),]
 {{< / highlight >}}
 
 Y para ordenar por dos (o  más columnas), así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     iris[order(iris$Petal.Length, iris$Petal.Width),]
 {{< / highlight >}}
 
 Es a lo que estoy acostumbrado. Sin embargo, la construcción anterior desconcierta a quienes dan sus primeros pasos en R. `dplyr` dispone de la función `arrange` con una sintaxis un tanto más natural:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library(dplyr)
     arrange(iris, Petal.Length, Petal.Width)
 {{< / highlight >}}

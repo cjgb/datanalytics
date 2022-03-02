@@ -15,7 +15,7 @@ tags:
 
 Voy a comenzar con una simulación bastante inofensiva:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1)
 n <- 10000
 x <- runif(n)
@@ -55,7 +55,7 @@ Este es el típico modelo de las ciencias _duras_: los datos se refieren a entid
 
 El planteamiento de partida para ciencias más blanditas vendría a ser:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 beta_a <- 3
 beta_b <- 3
 b_1 <- rbeta(n, beta_a, beta_b)
@@ -64,7 +64,7 @@ y_1 <- indep + x * b_1 + error
 
 es decir, existe un efecto cuyo valor promedio es .5 pero que no es siempre igual a ese valor ---porque depende del sujeto y estos son heterogéneos--- sino que _lo ronda_. Sin embargo, los asalariados de esas disciplinas siguen aplicando sistemáticamente los mismos modelos ---más sobre esto, debajo; que nadie se me enfade aún---, es decir,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo_1 <- lm(y_1 ~ x)
 {{< / highlight >}}
 

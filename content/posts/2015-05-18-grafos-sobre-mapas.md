@@ -26,7 +26,7 @@ La red va a ser la de [guifi.net](http://guifi.net/es) en los derredores de Barc
 
 En este primer pedazo de código voy a descargar de los servidores de guifi.net el fichero CNML (un dialecto de XML) que describe la estructura de la red en la zona de interés:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(XML)
 library(plyr)
 library(igraph)
@@ -62,7 +62,7 @@ lista.links <- lista.links[lista.links$to != lista.links$from,]
 
 A continuación voy a crear la red, recuperar la componente conexa principal (ignorando nodos aislados, etc.) y calcular algunas estadísticas de interés (el famoso _betweenness_):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 g <- graph.data.frame(lista.links, directed = F, lista.nodos)
 g.working <- subgraph(g, V(g)$status %in% c("Working"))
 
@@ -82,7 +82,7 @@ g.wc <- set.vertex.attribute(g.wc, name = "btw",
 
 Podemos representar la red con
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 my_layout <- layout.fruchterman.reingold(g.wc)
 plot(g.wc, layout = my_layout, vertex.label = NA,
       vertex.size = (1 + V(g.wc)$btw) / 3000)
@@ -95,7 +95,7 @@ para obtener
 
 pero podemos usar otro _layout_ geográfico para situar cada punto... donde está, es decir, hacer
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 geom.layout <- cbind(as.numeric(V(g.wc)$lon),
                       as.numeric(V(g.wc)$lat))
 plot(g.wc, layout = geom.layout, vertex.label = NA,
@@ -115,7 +115,7 @@ En lo que sigue voy a representar esa red sobre una capa con referencias geográ
 
 Así que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 map.bcn <- get_map("Barcelona", maptype="satellite", zoom = 12)
 tmp <- as.popgraph(g.wc)
 tmp <- set.vertex.attribute(tmp, name = "Longitude", V(tmp),

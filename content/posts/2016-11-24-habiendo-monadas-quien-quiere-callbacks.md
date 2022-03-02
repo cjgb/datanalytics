@@ -27,7 +27,7 @@ Y aunque
 
 inspirado por todo lo anterior, el otro día escribí este pequeño bloque de código que, aun siendo mío, me maravilla:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(magrittr)
 library(future)
 

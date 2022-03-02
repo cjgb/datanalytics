@@ -21,7 +21,7 @@ tags:
 
 Hoy voy a ilustrar el uso de este paquete adaptando un ejemplo de sus autores para encontrar la ruta _óptima_ entre dos puntos de Zaragoza, la [mercería Bell](http://www.comerciozaragoza.es/comercio/Bell) y el [colegio La Salle Montemolín](http://www.lasalle.es/lasallemontemolin/), ambos lugares muy vinculados a mi _prehistoria_. Comenzaré cargando los paquetes necesarios y los datos de OpenStreetMap correspondientes a Zaragoza:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( igraph )
 library( osmar )
 
@@ -32,7 +32,7 @@ zgz <- get_osm(box, source = api)
 
 En segundo lugar, voy a usar las funciones auxiliares del paquete para extraer las calles del objeto `zgz` y representarlas geométricamente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 hways_zgz <- subset(zgz, way_ids = find(zgz, way(tags(k == "highway"))))
 hways <- find(hways_zgz, way(tags(k == "name")))
 hways <- find_down(zgz, way(hways))
@@ -49,7 +49,7 @@ El resultado es
 
 A continuación, selecciono los puntos incial y final de mi ruta:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 id <- find(zgz, node(tags(v == "Moda infantil Bell")))[1]
 hway_start_node <- find_nearest_node(zgz, id, way(tags(k == "highway")))
 hway_start <- subset(zgz, node(hway_start_node))
@@ -61,7 +61,7 @@ hway_end <- subset(zgz, node(hway_end_node))
 
 Puedo representarlos mediante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot_nodes(hway_start, add = TRUE, col = "red", pch = 19, cex = 1)
 plot_nodes(hway_end, add = TRUE, col = "blue", pch = 19, cex = 1)
 {{< / highlight >}}
@@ -73,7 +73,7 @@ para obtener
 
 Finalmente, utilizo la infraestructura proporcionada por el paquete `igraph` (para el análisis de redes sociales) para calcular la ruta más corta entre ambos puntos haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 gr_zgz <- as_igraph(hways_zgz)
 route <- get.shortest.paths(gr_zgz,
                             from = as.character(hway_start_node),
@@ -87,7 +87,7 @@ route_zgz
 
 y puedo finalmente representarla en el mapa mediante
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot_ways(route_zgz, add = TRUE, col = "black", lwd = 2)
 {{< / highlight >}}
 

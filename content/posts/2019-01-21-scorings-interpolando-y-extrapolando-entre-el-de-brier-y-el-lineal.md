@@ -27,7 +27,7 @@ Esto que es cierto matemáticamente parece casi una lección de vida. Frente a c
 
 Y para terminar y como referencia, el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(alpha){
   exponente <- 1 / (alpha - 1)
   curve(x^exponente / (x^exponente + (1 - x)^exponente), 0, 1,

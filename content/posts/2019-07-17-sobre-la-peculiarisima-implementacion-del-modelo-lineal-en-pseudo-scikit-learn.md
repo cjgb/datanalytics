@@ -17,7 +17,7 @@ tags:
 
 Si ejecutas
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
@@ -33,13 +33,13 @@ reg.coef_
 
 se obtiene más o menos lo esperado. Pero si añades una columna linealmente dependiente,
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 X = np.column_stack((X, 1 * X[:,1]))
 {{< / highlight >}}
 
 ocurren cosas de la más calamitosa especie:
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 Y = np.dot(X, np.array([1, 2, 1])) + 1 + np.random.randn(n) / 2
 reg = LinearRegression().fit(X, Y)
 reg.coef_

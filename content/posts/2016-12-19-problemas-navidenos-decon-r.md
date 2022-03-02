@@ -21,7 +21,7 @@ Uno de ellos, advierto, y les he advertido (porque yo, no siendo rector de unive
 
 Construye una matriz que dada una entrada del tipo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- c('NAME:Maria /COUNTRY:uruguay /EMAIL:mariaUY@gmail.com',
 'NAME:Paul/COUNTRY:UK /EMAIL:PaulUK@gmail.com',
 'NAME:Jhon /COUNTRY:USA /EMAIL:JhonUSA@gmail.com',
@@ -35,7 +35,7 @@ devuelva un tabla con columnas `name`, `country` y `email` (con los datos corres
 Crea un paquete de R con dos o tres funciones tontas. Una de ellas tiene que llamarse `suma.dos.numeros` y tiene que aceptar dos parámetros: los números que quieres sumar. Luego súbelo a Github.
 Para puntuar en este ejercicio, me tienes que pasar una versión del siguiente código,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(devtools)
 install_github("url del paquete")
 library("nombre del paquete")
@@ -55,7 +55,7 @@ Crea una función que admita como argumento dos cadenas de texto y compruebe si 
 
 Crea una función que dado la lista de nombres de ficheros tales como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- c("ventas_norte_20161225.txt", "propuestas_sur_20161211.csv")
 {{< / highlight >}}
 

@@ -20,7 +20,7 @@ En efecto, uno quiere estimar la cantidad de madera que hay en un monte. Uno ent
 
 Sin embargo, los datos LIDAR se generan habitualmente en un formato, LAS, libre pero binario e ilegible. Que no parecen poder leerse con R aún. Aunque [sí con Python](http://www.liblas.org/python.html), así que...
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rPython)
 library(ggplot2)
 

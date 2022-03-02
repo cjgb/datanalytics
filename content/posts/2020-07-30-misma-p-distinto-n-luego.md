@@ -18,7 +18,7 @@ tags:
 
 Tres situaciones. La primera:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 20
 y <- 15
 test <- prop.test(y, n, p = .5)
@@ -30,7 +30,7 @@ test$conf.int
 
 La segunda:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 200
 y <- 115
 test <- prop.test(y, n, p = 0.5)
@@ -42,7 +42,7 @@ test$conf.int
 
 Y la tercera:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 2000
 y <- 1046
 test <- prop.test(y, n, p = 0.5)

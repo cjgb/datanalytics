@@ -22,7 +22,7 @@ Como consecuencia, `<-` es más eficiente desde el punto de vista de la gestión
 
 ¿Será cierto? ¿Qué nos dirá [`tracemem`](http://www.datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/) al respecto? No seáis vagos y probad
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- 1:10
 b.0 <- a
 b.1 = a

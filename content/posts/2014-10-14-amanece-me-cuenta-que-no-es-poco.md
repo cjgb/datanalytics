@@ -26,7 +26,7 @@ En ese artículo se muestra la diferencia en horas en el amanecer en dos días e
 El código con el que lo he construido (muy instructivo para quien quiera realizar extensiones de lo anterior) es
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(StreamMetabolism)
 library(lubridate)
 library(ggplot2)

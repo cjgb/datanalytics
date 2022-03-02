@@ -25,7 +25,7 @@ porque, a pesar de sus innegables deméritos gráficos, como la profusión de to
 
 Para ello, primero, he descargado las coordenadas de los aeropuertos de [aquí](http://www.partow.net/miscellaneous/airportdatabase/#Download) (nota: un tipo [procesó y tradujo al español](http://dev4bloggers.blogspot.com.es/2010/06/base-datos-aeropuertos-mundo.html) el fichero anterior pero olvidó cambiar el signo de las latitudes al oeste del meridiano 0; ¡cuidado con lo que te bajas de internet!) y las he cargado en R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 aeropuertos <- read.table("GlobalAirportDatabase.txt", sep = ":", header = F, quote = "")
 aeropuertos <- subset(aeropuertos, V5 == "SPAIN" & V2 != "N/A")
 
@@ -43,7 +43,7 @@ colnames(aeropuertos) <- c("nombre", "lat", "lon")
 
 Luego he descargado y procesado el mapa que me proporciona el contorno de la España peninsular:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(maptools)
 tmp <- readShapePoly("ESP_adm0.shp")
 peninsula <- tmp@polygons[[1]]@Polygons[[187]]
@@ -58,7 +58,7 @@ El _shapefile_ están descargado de [GADM](http://www.gadm.org/). La función `p
 
 Luego he creado una malla de puntos a partir de los extremos de la península y he utilizado el paquete `geosphere` para calcular la distancia entre puntos expresados en términos de su latitud/longitud.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(<a href="http://inside-r.org/packages/cran/geosphere">geosphere)
 
 extremos <- apply(peninsula@coords, 2, range)
@@ -77,7 +77,7 @@ res <- outer(grid.lon, grid.lat, distancia)
 
 Finalmente,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(raster)
 
 resk <- SpatialPoints(expand.grid(grid.lon, grid.lat))

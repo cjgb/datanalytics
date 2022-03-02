@@ -20,7 +20,7 @@ Me pasó el otro día [Federico Castanedo](https://twitter.com/overfit) un enlac
 
 ¿Cómo funciona? Sencillo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 install.packages("swirl")
 library("swirl")
 swirl()

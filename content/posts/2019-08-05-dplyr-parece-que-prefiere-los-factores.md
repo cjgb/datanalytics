@@ -15,7 +15,7 @@ tags:
 
 Con datos bajados de [aquí](ftp://www.ine.es/temas/censopv/cen11/Microdatos_personas_nacional.zip):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(MicroDatosEs)
 library(dplyr)
 library(microbenchmark)

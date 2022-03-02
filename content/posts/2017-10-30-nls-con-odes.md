@@ -17,7 +17,7 @@ tags:
 
 Más sobre secuencia de [entradas acerca de ajustes no lineales](https://www.datanalytics.com/2017/10/16/modelos-no-lineales-directos-e-inversos/). Con (casi) los mismos datos que entonces:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(155)
 
 n <- 100
@@ -42,7 +42,7 @@ Nota: este es un caso trivial y simple de otro en donde la ecuación diferencial
 
 La cosa es que podemos ajustar directamente el modelo sin pasar por la fórmula cerrada. Así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(deSolve)
 
 my_ode <- function(t, state, parms){
@@ -71,7 +71,7 @@ En el código anterior hemos definido la ecuación diferencial como lo exige el 
 
 El resultado, si lo probáis, no es muy distinto del que se obtendría haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo_cerrado <- nls(y ~ exp(a * x + b),
   data = dat, start = list(a = 10, b = 2))
 summary(modelo_cerrado)

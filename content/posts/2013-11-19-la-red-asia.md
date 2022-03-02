@@ -38,7 +38,7 @@ Las probabilidades condicionales indican en qué medida unas causas inducen unos
 
 Y, ¿cómo analizamos esta red bayesiana? Podemos usar R, Google para ubicar [esto](https://stat.ethz.ch/pipermail/r-help/2011-September/291116.html) y escribir:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(gRain)
 
 yn <- c("yes", "no")
@@ -57,7 +57,7 @@ BN <-grain(plist,smooth=0)
 
 Con eso hemos definido y _compilado_ la red bayesiana. Y entonces podemos hacer consultas sobre ella. Por ejemplo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 querygrain( BN, nodes = c("lung", "bronc"), type = "marginal")
 # $lung
 # lung
@@ -77,7 +77,7 @@ querygrain( BN, nodes = c("lung", "bronc"), type = "joint")
 
 O de otra manera,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- setFinding(BN, nodes = c("asia", "dysp"), states = c("yes", "yes"))
 querygrain(tmp, nodes = c("lung", "bronc"))
 # $lung

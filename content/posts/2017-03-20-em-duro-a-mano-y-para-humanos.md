@@ -57,7 +57,7 @@ Notas varias:
 
 Y el código, por referencia:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(MASS)
 library(plyr)
 

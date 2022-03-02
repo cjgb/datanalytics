@@ -16,7 +16,7 @@ Tengo una moneda de la suerte. Es una moneda de cinco duros, del mundial 82. No 
 
 De hecho, el otro día hice un experimento: la tiré al aire 20 veces y obtuve 14 caras. De acuerdo con R,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 1 - pbinom( 14, 20, 0.5 )
 [1] 0.02069473
 {{< / highlight >}}
@@ -25,7 +25,7 @@ puedo rechazar la hipótesis de que es una moneda cabal con un nivel de confianz
 
 Pero mi gato dijo que 20 era poco y, como es gato y tiene más tiempo libre que yo, repitió el experimento lanzándola al aire 2000 veces. Y obtuvo 1045 caras. Como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 1 - pbinom( 1045, 2000, 0.5 )
 [1] 0.020921
 {{< / highlight >}}

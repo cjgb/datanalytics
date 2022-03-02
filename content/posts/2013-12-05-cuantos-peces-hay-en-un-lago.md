@@ -30,7 +30,7 @@ Esencialmente, lo que puede hacerse (dado que es imposible realizar un censo com
 
 Con R puede hacerse una estimación (incluso del error), así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 4000
 p1 <- 300
 p2 <- 300

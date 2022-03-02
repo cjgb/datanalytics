@@ -16,7 +16,7 @@ tags:
 
 Tengo un muy mal amigo que, sabiendo cómo soy para esas cosas y de qué manera me quitan el sueño, quiso alterar mi solaz enviándome esto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 cadena <- c(
 "s","u","t","k","r","k","b","s","w","f","s","t","s","u","z","k","q","x","p","k","s","r",
 "t","z","z","a","s","r","f","q","z","u","s","r","w","z","u","t","g","f","s","b","k","y",
@@ -91,7 +91,7 @@ Con mi definición de probabilidad, penalizo aquellas permutaciones que dan luga
 
 Para construir $latex M$ utilicé un texto que tenía a mano, el Quijote, y lo procesé de la siguiente manera:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 quijote <- readLines( "http://www.gutenberg.org/cache/epub/2000/pg2000.txt", encoding = "UTF-8" )
 tmp <- sapply( quijote, function(x) strsplit(x, ""))
 tmp <- do.call( c, tmp )
@@ -121,7 +121,7 @@ El objeto `res` que crea es dicha matriz de transiciones (mirad la fila _q_, por
 
 Para calcular la probabilidad asociada a una cadena utilicé la función
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 m <- res
 
 markov <- function(x, m){
@@ -142,7 +142,7 @@ En particular, a partir de una determinada permutación, se puede generar otra s
 
 Esto es lo que hace el siguiente pedazo de código (no particularmente bien pulido):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 while( TRUE ){
     cadena.alt <- factor( cadena )
     cambiar <- sample( nlevels(cadena.alt), 2 )

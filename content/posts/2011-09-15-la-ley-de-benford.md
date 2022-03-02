@@ -32,7 +32,7 @@ Siempre que la distribución tenga una forma similar a la de la gráfica (extra�
 Además, las probabilidades de ocurrencia de cada cifra no son taumatúrgicamente las que nos quieren hacer creer los _wikipedistas_. Son las que son en cada caso como demuestra el siguiente bloque de código:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 benford <- function( foo, ..., n = 100000 ){
   tmp <- foo( n, ... )
   tmp <- as.character(tmp[tmp > 0])

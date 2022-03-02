@@ -24,7 +24,7 @@ la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponie
 
 En realidad, el número de aciertos, así considerado, es una mezcla de dos binomiales, una con probabilidad de acierto del 100% y otra del 33.3%. Así que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 
 N <- 782

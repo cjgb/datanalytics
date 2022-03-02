@@ -16,7 +16,7 @@ Esta visita adicional al tema es consecuencia de mi revisión de todo el asunto 
 
 En particular,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 binom.test(79, 100, 0.7)
 
 # Exact binomial test

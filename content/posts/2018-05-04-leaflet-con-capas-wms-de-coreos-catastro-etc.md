@@ -22,7 +22,7 @@ Esta entrada es un subproducto del trabajo que pocería que he realizado estos d
 
 La cosa es que mejorando `caRtociudad::get_cartociudad_map`, se me ha pasado por la cabeza la posibilidad de realizar la integración no ya con `ggmap` sino con `leaflet`. Y así (¡probadlos!), para los códigos postales,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(leaflet)
 
 leaflet() %>% addTiles() %>%
@@ -39,7 +39,7 @@ leaflet() %>% addTiles() %>%
 
 Para las secciones censales,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 leaflet() %>% addTiles() %>%
   setView(-3.703399, 40.41688, zoom = 14) %>%
   addWMSTiles(
@@ -54,7 +54,7 @@ leaflet() %>% addTiles() %>%
 
 Para los distritos censales,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 leaflet() %>% addTiles() %>%
   setView(-3.703399, 40.41688, zoom = 14) %>%
   addWMSTiles(
@@ -69,7 +69,7 @@ leaflet() %>% addTiles() %>%
 
 Y para las/ciertas cosas catastrales,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 leaflet() %>% addTiles() %>%
   setView(-3.703399, 40.41688, zoom = 14) %>%
   addWMSTiles(

@@ -34,7 +34,7 @@ Y la de los decenales,
 
 No sé si separando por sexos (cosa que dejo como ejercicio) aparecerán patrones más pronunciados. Por si acaso, dejo el código utilizado:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pxR)
 library(plyr)
 library(ggplot2)

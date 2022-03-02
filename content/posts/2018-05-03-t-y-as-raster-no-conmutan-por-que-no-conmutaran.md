@@ -14,7 +14,7 @@ tags:
 
 Creo una minimatriz, la convierto en un _raster_ y la represento:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 m <- matrix(c(0, 0, 0.33, 0.66, .9, .9), 2, 3)
 m
 #      [,1] [,2] [,3]
@@ -34,7 +34,7 @@ plot(r, interpolate = FALSE)
 
 Ahora, con la matriz traspuesta,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 r_t_1 <- as.raster(t(m))
 r_t_1
 #           [,1]      [,2]
@@ -49,7 +49,7 @@ obtengo
 
 que difiere de cuando invierto el orden de las operaciones, i.e.,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 r_t_2 <- t(as.raster(m))
 r_t_2
 #           [,1]      [,2]

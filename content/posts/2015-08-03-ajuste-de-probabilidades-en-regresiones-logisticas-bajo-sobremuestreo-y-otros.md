@@ -34,7 +34,7 @@ Este ajuste puede ayudarnos a resolver el siguiente problema en R: se ha ajustad
 
 porque las probabilidades asignadas estarían sesgadas. Lo que puede hacerse es usar la función
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 prediccion.calibracion <- function(model, newdata, proporciones){
   tmp <- predict(model, newdata = newdata)
   offset <- log( (1 - proporciones[1]) / proporciones[1] *

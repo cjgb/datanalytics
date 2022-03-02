@@ -20,7 +20,7 @@ Sugiere José Luis el uso del paquete [`effects`](http://cran.r-project.org/web/
 
 Nos copia el código
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(effects)
 mod.cowles <- glm(volunteer ~ sex + neuroticism*extraversion,
     data = Cowles, family = binomial)
@@ -39,7 +39,7 @@ que genera
 un gráfico en el que se aprecia el efecto de las variables en la probabilidad de `volunteer`. Entre otras cosas, nos indica el efecto de `sex`, que coincide con el que podemos obtener haciendo
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tapply(Cowles$volunteer == "yes", Cowles$sex, mean)
 #female      male
 #0.4474359 0.3868955

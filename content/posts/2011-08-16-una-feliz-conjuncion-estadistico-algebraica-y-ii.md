@@ -24,7 +24,7 @@ Entonces, la matriz $latex B$ puede descomponerse como una suma de matrices de e
 En el caso que estudiábamos el otro día, podemos hacer
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 b.i <- function( i ) svd.b$d[i] * outer( svd.b$u[,i], svd.b$v[,i] )
 b.i( 1 ) # primer sumando
 b.i( 2 ) # segundo sumando
@@ -41,7 +41,7 @@ Nótese, además, cómo las componentes de $latex p_1$ y $latex q_1$ son (casi, 
 Si el otro día descompusimos el valor del estadístico $latex \chi^2$ como la suma de los valores $latex \lambda_i^2$, ahora podemos advertir cómo $latex \lambda_1^2$ representa el 87 % del mismo y, por lo tanto, deducir que gran parte de la falta de independencia en la tabla se debe al efecto previamente identificado. Si tal efecto no existiese, entonces
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 pchisq( sum( svd.b$d[-1]^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
 # 2.248518e-29
 {{< / highlight >}}
@@ -50,7 +50,7 @@ pchisq( sum( svd.b$d[-1]^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F 
 indica que la falta de independencia todavía sería significativa. Pero si no existiesen ninguno de los dos principales efectos, se tendría
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 pchisq( sum( svd.b$d[-(1:2)]^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
 # 0.9692099
 {{< / highlight >}}

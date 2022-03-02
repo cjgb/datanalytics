@@ -24,7 +24,7 @@ Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnica
 
 Los datos son:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
 library(lme4)
 
@@ -57,7 +57,7 @@ dat$y <- intercepto + dat$efecto_fijo + dat$efecto_aleatorio + rnorm(nrow(dat), 
 
 Y las regresiones tradicional y multinivel producen
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo_lm <- lm(y ~ fijo + aleatorio, data = dat)
 summary(modelo_lm)
 
@@ -101,7 +101,7 @@ summary(modelo_lm)
 
 y
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 modelo_lmer <- lmer(y ~ fijo + (1 | aleatorio), data = dat)
 summary(modelo_lmer)
 # Linear mixed model fit by REML ['lmerMod']
@@ -132,7 +132,7 @@ summary(modelo_lmer)
 
 respectivamente. La estimación del efecto fijo es similar en ambos casos, pero hay una diferencia notable en el ajuste del término independiente. Veamos qué sucede si repetimos el proceso anterior muchas veces:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(){
 tmp <- sample(rep(0:1, each = n_niveles * n_reps /2))
 

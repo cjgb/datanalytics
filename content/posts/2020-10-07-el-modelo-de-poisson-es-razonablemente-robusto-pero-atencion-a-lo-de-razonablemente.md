@@ -32,7 +32,7 @@ no es muy distinto del modelo lineal estándar
 
 como ponen en evidencia tanto los consabidos teoremas de aproximación a la  normal de la Poisson (haced `qqnorm(rpois(1000, 100))`) como por el siguiente ejemplo numérico:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 a <- 7
 b <- 1

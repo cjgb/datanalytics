@@ -21,7 +21,7 @@ Pasaba yo por un pasillo cuando uno de los responsables de la traducción del c�
 
 Una de mis primeras conclusiones fue que los consultores primigenios cobraban a tanto la hora: tres folios enteros de código servían para calcular la raíz cuadrada de una matriz de covarianzas, tres folios que pudimos resumir en una línea tal como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     R = chol(M)
 {{< / highlight >}}
 
@@ -33,7 +33,7 @@ El problema consistía en que el estupendo paquete estadístico de onerosa licen
 
 Sin embargo, sobre mi portátil barato, con [un lenguaje de programación abierto](http://www.r-project.org), obtenía, por ejemplo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 > qbeta(0.001, 0.001, 27)[1] 3.861125e-268
 Warning message:full precision was not achieved in'qbeta'
 > qbeta(0.001, 0.01, 27)[1] 2.135598e-302

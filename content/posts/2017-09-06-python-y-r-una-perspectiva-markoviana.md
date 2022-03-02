@@ -20,7 +20,7 @@ Hoy he visto
 
 [aquí](http://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html) y he escrito
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 m <- matrix(c(74, 15, 10, 1, 11, 50, 38, 1,
             5, 4, 90, 1, 17, 4, 19, 60),
             4, 4, byrow = TRUE)
@@ -29,7 +29,7 @@ m <- m / 100
 
 luego
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m%*% m%*% m%*% m%*% m%*% m%*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m%*% m%*% m%*% m%*% m%*% m%*% m
 #          [,1]      [,2]      [,3]       [,4]
 #[1,] 0.1926676 0.1133218 0.6696203 0.02439024
@@ -40,7 +40,7 @@ m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m %*% m%*% m%*
 
 y finalmente
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res <- eigen(t(m))
 res$vectors[,1] / sum(res$vectors[,1])
 #[1] 0.19266473 0.11332059 0.66962444 0.02439024

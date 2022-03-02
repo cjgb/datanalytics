@@ -18,7 +18,7 @@ A primeros de julio impartí un [curso de estadística bayesiana aplicada con St
 
 En un país, se extrae una muestra de 2000 hombres y mujeres con la siguiente distribución:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 men   <- 170 + 3 * rt(1000, 6)
 women <- 160 + 2 * rt(1000, 5)
 heights <- c(men, women)

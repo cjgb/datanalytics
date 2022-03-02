@@ -26,7 +26,7 @@ Me llama la atención que el crecimiento se esté ralentizando.
 
 El código, por si alguien le encuentra alguna tara, es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(XML)
 library(ggplot2)
 

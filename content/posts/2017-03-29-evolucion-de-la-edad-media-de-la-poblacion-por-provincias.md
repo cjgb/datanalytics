@@ -27,7 +27,7 @@ Se aprecian claramente los rejuvenecimientos relativos de Guadalajara y, en meno
 
 Los [datos son del INE](http://www.ine.es/jaxiT3/Tabla.htm?t=3199) y descargados en formato PC-Axis. El código,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pxR)
 library(ggplot2)
 

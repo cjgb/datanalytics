@@ -18,7 +18,7 @@ tags:
 
 En España hay pruebas de acceso a la universidad que y [en algunos sitios publican las notas de corte](http://elpais.com/especiales/universidades/) para acceder a determinados estudios. Las he bajado _escrapeando_ El País así
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(plyr)
 library(rstan)
@@ -72,7 +72,7 @@ $latex \text{nota\_observada} = \max(5, \text{nota})$
 
 Así que toca renuniciar a `lmer` y utilizar el sustancialmente más flexible `rstan`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n_rows   <- nrow(notas)
 n_cens   <- sum(notas$nota == 5)
 n_no_cens <- sum(notas$nota > 5)
@@ -130,7 +130,7 @@ En `rstan`, una de las maneras de introducir la censura en observaciones es cons
 
 Una vez corrida la cosa,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 coefs.sedes <- res[,grep("^beta_sedes", colnames(res))]
 coefs.sedes$id <- 1:nrow(coefs.sedes)
 coefs.sedes <- melt(coefs.sedes, id.vars = "id")
@@ -150,7 +150,7 @@ genera algo así como
 
 y
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 coefs.carreras <- res[,grep("^beta_carreras", colnames(res))]
 coefs.carreras$id <- 1:nrow(coefs.carreras)
 coefs.carreras <- melt(coefs.carreras, id.vars = "id")

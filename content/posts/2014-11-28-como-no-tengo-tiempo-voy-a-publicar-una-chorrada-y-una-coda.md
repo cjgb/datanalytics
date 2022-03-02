@@ -50,7 +50,7 @@ que viene a ser una versión de mi gráfico de barras (¿os habéis fijado que, 
 ¿Veis las diferencias tan notables que muestra el mapa anterior? ¿Serán _significativas_? Volveré a eso luego, pero quiero indicar primero que las variaciones en mi gráfico son espurias. La VMI que he representado es... la proporción de mujeres. Que varía mucho menos entre comunidades autónomas (INE dixit):
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 floor(fivenum(sexos$prop) * 10000) / 100
 #[1] 49.65 50.24 50.49 51.07 52.10
 {{< / highlight >}}
@@ -59,7 +59,7 @@ Si con una variable conocida podemos detectar una varianza tan grande, ¿de verd
 
 El problema es consencuencia, en parte, del minúsculo tamaño muestral. Véase el número de encuestas por comunidad autónoma:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sort(table(vmi$ccaa))
 #c17 c06 c15 c04 c11 c02 c14 c03 c07 c05 c16 c08 c12 c10 c13 c09 c01
 #  9  16  16  24  26  33  35  40  42  54  67  69  69 141 159 181 208
@@ -75,7 +75,7 @@ y voy a ensayar un análisis utilizando técnicas de esas que<del>, se conoce, n
 
 Inspirado por el artículo anterior, hago
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(lme4)
 library(lattice)
 
@@ -111,7 +111,7 @@ que nos indican que solo habría dos o tres comunidades en las que las diferenci
 
 Aunque bien podría argumentarse que lo que piden los datos es un modelo basado en `glmer`,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp$trust.bin <- tmp$trust == 1
 
 mod.glmer <- glmer(trust.bin ~ 1 + (1 | ccaa),

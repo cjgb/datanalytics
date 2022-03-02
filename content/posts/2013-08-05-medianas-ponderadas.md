@@ -20,7 +20,7 @@ La mediana de `1:3` es 2. Pero puede ser que queramos dar a `1:3` los pesos 2, 1
 
 Mientras los pesos sean enteros, todavía pueden usarse trucos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x <- 1:3
 pesos <- c(2,1,2)
 median(rep(x, times = pesos ))
@@ -28,7 +28,7 @@ median(rep(x, times = pesos ))
 
 ¿Pero qué hacemos cuando hay pesos fraccionarios? Bueno, en realidad, podemos _ordenar_:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 1000
 
 x <- runif(n)
@@ -41,7 +41,7 @@ x.o[min(which(cumsum(pesos.o) > .5 * sum(pesos.o)))]
 
 Pero me parece más limpio usar el [paquete `quantreg`](http://www.datanalytics.com/2010/05/18/regresion-por-cuantiles-en-r-y-sas/):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(quantreg)
 rq(x ~ 1, tau = 0.5, weights=pesos)$coef
 {{< / highlight >}}

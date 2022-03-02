@@ -32,7 +32,7 @@ Puede verse la discusión del artículo de Gelman y compañía para entender el 
 
 El problema de ajustar el modelo en cuestión nos lo resuelve [`stan`](http://mc-stan.org/):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(plyr)
 library(reshape2)
@@ -88,7 +88,7 @@ fit <- stan(model_code = stanmodelcode,
 
 Podemos ver la estimación de la distribución a posteriori de las habilidades de los porteros así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- as.data.frame(fit)
 tmp$id <- 1:nrow(tmp)
 tmp <- melt(tmp, id.vars = "id")
@@ -114,7 +114,7 @@ y donde se ve el grado de solape entre las distintas distribuciones. Y otras cos
 
 Siguiendo a Gelman et al., una manera de estimar las diferencias entre parejas de porteros sería encontrar el porcentaje de simulaciones en que el estimador de la habilidad de uno de ellos supera al del otro:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(p1, p2){
   sim1  <- tmp$value[tmp$portero == p1]
   sim2  <- tmp$value[tmp$portero == p2]
@@ -140,7 +140,7 @@ y donde, de nuevo, apenas se encuentran diferencias significativas.
 
 Finalmente, ¿cuál es esa distribución de la habilidad de los porteros de la primera división? `print(fit)` nos da, entre otras cosas, el valor mediano de $latex \alpha$ y $latex \beta$, 18.14 y 8.27 respectivamente, lo que determina una distribución tal que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(x) dbeta(x, 18.14, 8.27)
 curve(foo, 0.3, 0.99)
 {{< / highlight >}}

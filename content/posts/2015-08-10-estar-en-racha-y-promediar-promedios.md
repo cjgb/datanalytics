@@ -16,7 +16,7 @@ Suponemos que observamos rachas de longitud `2 + rpois(1, 10)` de un juego en el
 
 El observador ve rachas y calcula el número de veces que a un éxito le sigue un éxito y el número de veces que a un éxito le sigue un fracaso así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 racha <- function(){
     n.tiros <- 2 + rpois(1, 10)
     x <- rbinom(n.tiros, 1, 0.5)
@@ -34,13 +34,13 @@ res <- data.frame(t(replicate(100000, racha())))
 
 Por supuesto, ignora los casos en que no sucede ningún éxito, donde no hay sustancia para distinguir si hay o no rachas:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res <- res[rowSums(res) > 0, ]
 {{< / highlight >}}
 
 Y sí, como cabe esperar, el número de secuencias éxito-éxito viene ser el mismo que el de secuencias éxito-fracaso:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 colSums(res)
 #    X1     X2
 # 274366 275400
@@ -48,13 +48,13 @@ colSums(res)
 
 Ahora bien, nuestro observador no es capaz de sumar el número de combinaciones éxito-éxito y éxito-fracaso. Nuestro observador ve las tiradas una a una y calcula las probabilidades de obtener una combinación éxito-éxito, es decir,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 probs <- res[,2] / (rowSums(res))
 {{< / highlight >}}
 
 y en su cabeza se hace una idea de lo probable que es una racha éxito-éxito promediando dichas probabilidades así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mean(probs)
 {{< / highlight >}}
 

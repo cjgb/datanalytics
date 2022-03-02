@@ -21,7 +21,7 @@ Y llega a conclusiones que no es necesario manifestar explícitamente a quien ej
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x <- rnorm(50000)
 
 foo.mean <- function(){ mean(x) }

@@ -19,7 +19,7 @@ Hoy hablaremos de [_exploratory factorial analysis_](http://en.wikipedia.org/wik
 
 Comencemos. Primero, voy a realizar un análisis factorial (exploratorio) basándome en `?varimax`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 fa <- factanal( ~., 2, data = swiss, rotation = "none")
 fa
 
@@ -64,7 +64,7 @@ Rotaciones como las que produce varimax facilitan la _interpretabilidad_ de los 
 
 Pero, ¿qué se pierde? Veámoslo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 varimax(loadings(fa), normalize = FALSE)
 # $loadings
 #

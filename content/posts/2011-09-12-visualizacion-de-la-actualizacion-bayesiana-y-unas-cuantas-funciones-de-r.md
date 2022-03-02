@@ -20,7 +20,7 @@ Me ha llegado noticia de una entrada en un _blog_, [Visualizing Bayesian Updati
 Yo me limitaré a ofrecer una nueva versión del código —que no funcionaba copiando y pegando sin más— en el que he introducido ciertas modificaciones. Es el siguiente:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sim.bayes <- function(p=0.5, N=10, y.lim=15)
 {
   plot( 1, xlim = c(0,1), ylim = c(0, y.lim),

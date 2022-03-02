@@ -24,7 +24,7 @@ Catástrofe:
 
 Priori.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 for (i in 1:n_ccaa)
     Cccaa[i] ~ cauchy(0, 20);
 {{< / highlight >}}

@@ -27,7 +27,7 @@ Es decir, sugiere esencialmente la codificación por impacto. Y diríase que `rp
 
 Por si acaso, un experimento. Primero, datos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 1000
 x1 <- sample(letters[1:10], n, replace = T)
 x2 <- runif(n)
@@ -41,7 +41,7 @@ Con el código anterior construyo una tabla con una variable objetivo numérica,
 
 Ahora,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rpart)
 
 # creo x3 recodificando por impacto
@@ -59,7 +59,7 @@ Corredlo cuantas veces queráis y veréis: pura diagonal.
 
 Podéis probar con `party`, pero no tendréis tanta suerte. Es _casi_ diagonal, pero con _excepcioncitas_ (¿qué hará?):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(party)
 
 # creo x3 recodificando por impacto

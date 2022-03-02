@@ -22,7 +22,7 @@ El truco se llama _parada condicional_: puedes hacer prueba tras prueba hasta qu
 
 Pero vamos a ver si es cierto. Comenzamos seleccionando un número mínimo de pruebas, `n.min` y, para no caer en bucles infinitos un número máximo, `n.max`. Luego, usando el código
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n.max <- 1000000
 n.min <- 100
 
@@ -44,7 +44,7 @@ Por ejemplo, como `prop[900]` es 2.55, bastaría con que en la prueba número 10
 
 Ahora podemos comenzar a hacer experimentos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function( ){
   x <- 100 * ( ( cumsum( rbinom( n.max, 1, 0.5 ) ) / 1:n.max )[ n.min:n.max ] - 0.5 )
   min( which( x > prop ) )

@@ -32,7 +32,7 @@ Que es un conocimiento que cabe esperar en un lector atento de [Kahneman y cía]
 
 Y, por referencia, el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pxR)
 library(reshape2)
 library(plyr)

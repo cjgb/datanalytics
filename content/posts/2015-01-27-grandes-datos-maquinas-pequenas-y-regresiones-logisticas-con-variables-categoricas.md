@@ -20,7 +20,7 @@ Preguntaba el otro día Emilio Torres [esto](https://stat.ethz.ch/pipermail/r-he
 El código de Emilio (cuyos resultados no podemos reproducir porque no nos ha contado qué similla usa) es
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 logisticsimulation <- function(n){
   dat <- data.frame(x1=sample(0:1, n,replace=TRUE),
                     x2=sample(0:1, n,replace=TRUE))
@@ -54,7 +54,7 @@ Alternativamente, uno puede plantearse (como hizo Olivier Núñez en una de las 
 
 Veámoslo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 logisticsimulation <- function(n){
   dat <- data.frame(
     x1 = rep(0:1),

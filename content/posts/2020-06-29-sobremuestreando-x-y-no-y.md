@@ -19,7 +19,7 @@ tags:
 
 Construyo unos datos (artificiales, para conocer _la verdad_):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 10000
 x1 <- rnorm(n)
 x2 <- rnorm(n)
@@ -31,7 +31,7 @@ dat <- data.frame(y = y, x1 = x1, x2 = x2)
 
 Construyo un modelo de clasificación (logístico, que hoy no hace falta _inventar_, aunque podría ser cualquier otro):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 summary(glm(y ~ x1 + x2, data = dat, family = binomial))
 #Call:
 #glm(formula = y ~ x1 + x2, family = binomial, data = dat)
@@ -61,7 +61,7 @@ Correcto.
 
 Sobremuestreo. Por construcción, hay más casos 1 que 0. Así que igualo las clases y reajusto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- split(dat, dat$y)
 tmp[["0"]] <- tmp[["0"]][sample(1:nrow(tmp[["0"]]), nrow(tmp[["1"]])),]
 dat_oversampling <- do.call(rbind, tmp)
@@ -94,7 +94,7 @@ Aparece un sesgo. Estamos incrementando la probabilidad de 1. En la regresión l
 
 Lo que ocurre es que hay otra manera de muestrear: usando una variable muy correlacionada con `y` pero que no sea `y`. P.e., una variable muy predictiva en el modelo. Existen muchas variantes de la cosa, pero aquí utilizaré la variante más simple conceptualmente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat$split <- dat$x1 > .5
 tmp <- split(dat, dat$split)
 tmp[["FALSE"]] <- tmp[["FALSE"]][sample(1:nrow(tmp[["FALSE"]]), nrow(tmp[["TRUE"]])),]
@@ -103,7 +103,7 @@ dat_oversampling <- do.call(rbind, tmp)
 
 Así las cosas,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 summary(glm(y ~ x1 + x2, data = dat_oversampling, family = binomial))
 #Call:
 #glm(formula = y ~ x1 + x2, family = binomial, data = dat_oversampling)

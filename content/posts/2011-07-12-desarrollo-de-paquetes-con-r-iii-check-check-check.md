@@ -21,7 +21,7 @@ Confieso no saber cómo hacer un _check_ sobre Windows, la verdad. Por eso me vo
 
 
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 R CMD check mi_paquete
 {{< / highlight >}}
 
@@ -30,7 +30,7 @@ R CMD check mi_paquete
 R crea un directorio adicional, `mi_paquete.Rcheck`, en el directorio de trabajo. Por mantener limpio mi disco, suelo proceder así:
 
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 cd /tmp
 ln -s $HOME/src/r/mi_paquete
 R CMD check mi_paquete

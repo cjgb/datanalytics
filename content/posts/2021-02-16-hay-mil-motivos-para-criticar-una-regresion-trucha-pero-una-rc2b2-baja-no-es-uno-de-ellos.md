@@ -26,7 +26,7 @@ Hay mil argumentos para criticar una regresión de ese estilo y mi favorita es _
 
 En primer lugar, genero varios conjuntos de datos con la misma estructura probabilística pero haciendo variar (crecer) el error irreductible, es decir, la $latex \sigma$ del error normal:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 3000
 x <- rnorm(n)
 
@@ -46,7 +46,7 @@ res <- do.call(
 
 Los datos tienen este aspecto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 ggplot(res, aes(x = x, y = y)) + geom_point(alpha = .2) +
   geom_smooth(method = "lm", col = "red") +
@@ -57,7 +57,7 @@ ggplot(res, aes(x = x, y = y)) + geom_point(alpha = .2) +
 
 El ajuste es siempre el mismo y es ---queda propuesto como ejercicio para el lector--- perfectamente compatible con la formulación original del modelo. Sin embargo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 r.squared <- unique(res[, c("sigma", "r.squared")])
 
 plot(r.squared$sigma,

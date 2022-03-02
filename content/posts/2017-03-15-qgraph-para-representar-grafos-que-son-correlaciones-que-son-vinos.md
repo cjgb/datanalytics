@@ -17,7 +17,7 @@ tags:
 
 Me vais a permitir que escriba una entrada sin mayores pretensiones, inspirada en y adaptada de [aquí](https://dmwiig.net/2017/03/10/the-r-qgraph-package-using-r-to-visualize-complex-relationships-among-variables-in-a-large-dataset-part-one/) y que sirva solo de que para representar correlaciones entre variables podemos recurrir a los grafos como en
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(qgraph)
 wine.quality <- read.csv("https://goo.gl/0Fz1S8",
                             sep = ";")

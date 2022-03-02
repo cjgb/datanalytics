@@ -15,7 +15,7 @@ tags:
 
 Esta es una nota que me dejo a mí mismo sobre paralelización en R para no tener que ir buscándola en otras partes:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(parallel)
 
 foo <- function(i){

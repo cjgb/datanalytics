@@ -31,7 +31,7 @@ Quien disponga de unos minutos que perder en pro de los intereados en la interac
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- 1:4
 b <- 5:8
 python.exec( c( "def concat(a,b):", "\treturn a+b" ) )

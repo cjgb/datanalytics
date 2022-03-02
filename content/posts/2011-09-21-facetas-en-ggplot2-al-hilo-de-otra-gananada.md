@@ -30,7 +30,7 @@ El ejemplo bien ilustra el efecto (pernicioso) de uno usar correctamente lo que 
 
 Finalmente, el código utilizado:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 crecimiento <- c(13, 1, 4, 2, 4, 2, 1, 1, 9, 0, 2, 2, 1,3,0,0, 8, 2, 2, 1,7, 2,2,2) / 10
 pais <- rep(c("de", "es", "fr", "it", "euroz", "ue27"), each = 4)

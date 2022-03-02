@@ -19,7 +19,7 @@ tags:
 
 Fácil:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(maptools)
 library(ggmap)
 

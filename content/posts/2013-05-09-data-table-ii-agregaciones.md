@@ -19,7 +19,7 @@ Sigo con mi [lacónica serie sobre `data.table`](http://www.datanalytics.com/201
 
 La protagonista:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 frases[sample(1:nrow(frases), 3),]
 #pos.es pos.en length.es length.en en        es frase          tfe      qjilm          num
 #1:     15     43        72        72  i        de  2632 4.881416e-02 0.01369863 6.686871e-04
@@ -31,7 +31,7 @@ dim(frases)
 
 El tiempo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 system.time({
     setkey(frases, "frase", "es")
     denominadores <- frases[, sum(num), by = key(frases)]
@@ -45,7 +45,7 @@ system.time({
 
 En particular,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 system.time( denominadores <- frases[, sum(num), by = key(frases)] )
 #user  system elapsed
 #0.228   0.000   0.228

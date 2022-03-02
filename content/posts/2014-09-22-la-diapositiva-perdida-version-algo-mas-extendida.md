@@ -24,7 +24,7 @@ Tuve que saltarme una diapositiva en el [DataBeers de Madrid](http://www.datanal
 La decimonona, de la que trata la entrada, viene a hablar de lo siguiente. Tenemos una base de datos con sujetos (`ids`) que hacen cosas en determinados momentos. No es inhabitual calcular la _frecuencia_ de esos sujetos así:
 
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 select id, count(*) as freq
 from mytabla
 where fecha between current_date - 7 and current_date
@@ -36,7 +36,7 @@ Esa variable se utiliza frecuentemente ya sea como descriptor de los sujetos o c
 
 No obstante, hacer lo anterior implica suponer que los eventos de cada sujeto siguen un proceso de Poisson homogéneo y que calculamos su frecuencia por máxima verosimilitud. En efecto,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- data.frame(y = c(3,2), x = letters[1:2])
 res <- glm(y~-1 + x, data = dat, family = poisson())
 exp(coefficients(res))

@@ -23,7 +23,7 @@ Supongamos que queremos construir un modelo para predecir quién ganará un dete
 
 Podemos utilizar una regresión logística así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 
 my.coefs <- -2:2
@@ -39,13 +39,13 @@ test.error.glm <- function(){
   X <- as.data.frame(X)
   X$Y <- Y
 
-  mod.glm <- glm(Y ~ ., data = X[train,], 
+  mod.glm <- glm(Y ~ ., data = X[train,],
     family = binomial)
 
-  glm.pred <- predict(mod.glm, X[-train,], 
+  glm.pred <- predict(mod.glm, X[-train,],
     type = "response")
 
-  error <- length(glm.pred) - 
+  error <- length(glm.pred) -
     sum(diag(table(glm.pred > 0.5, Y[-train,])))
 }
 
@@ -64,7 +64,7 @@ Nótese que la variable objetivo es binaria por construcción.
 
 Alternativamente podemos utilizar el modelo lineal para estimar una variable alternativa (y conocida): la diferencia de puntos entre los equipos. El código es similar al anterior:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 test.error.lm <- function(){
   X <- matrix(rnorm(n*5), n, 5)
   Y <- 0.2 + X %*% my.coefs + rnorm(n)
@@ -78,7 +78,7 @@ test.error.lm <- function(){
 
   lm.pred <- predict(mod.lm, X[-train,])
 
-  error <- length(lm.pred) - 
+  error <- length(lm.pred) -
     sum(diag(table(lm.pred > 0, Y[-train,] > 0)))
 }
 

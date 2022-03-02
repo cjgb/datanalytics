@@ -26,7 +26,7 @@ El ejercicio procede en dos momentos que son sucesivos pero que están (a difere
 
 En lo concerniente a (1), llegan a dar por buena una distribución N(160, 60). Pero lo relevante es que el artículo razona y llega a una conclusión tan razonable e intuitiva como inhabitual, de que la apuesta no tiene que ser la moda de la distribución (o el EMV), 160, sino el que maximize el beneficio esperado. Es decir,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x <- 1:300
 which.max(x * dnorm(x, 160, 60))
 #[1] 180
@@ -34,7 +34,7 @@ which.max(x * dnorm(x, 160, 60))
 
 en lugar de
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 which.max(dnorm(x, 160, 60))
 #[1] 160
 {{< / highlight >}}

@@ -32,28 +32,28 @@ Pero parece que esta técnica está mandada a recoger, i.e., desaconsejada, y su
 
 Para ello, primero cargamos el paquete e importamos un conjunto de datos, `flo`.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ergm)
 data(flo)
 {{< / highlight >}}
 
 `flo` es una matriz de incidencia: contiene ceros y unos y estos últimos indican que una determinada pareja de familias florentinas mantuvieron en su día vínculos matrimoniales. A partir de dicha matriz se puede crear una red:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 flomarriage <- network(flo, directed = FALSE)
 flomarriage
 {{< / highlight >}}
 
 Y también añadir atributos a sus nodos (en este caso, la riqueza relativa de las familias):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 flomarriage %v% "wealth" <- c(10,36,27,146,55,44,20,8,42,103,48,49,10,48,32,3)
 flomarriage
 {{< / highlight >}}
 
 Obviamente, las redes pueden representarse gráficamente haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot( flomarriage )
 plot(flomarriage, vertex.cex=flomarriage %v% "wealth" / 20)
 {{< / highlight >}}
@@ -65,14 +65,14 @@ para obtener (en la segunda sentencia) algo así como
 
 La parte interesante llega ahora: plantear un modelo que, por ejemplo, indique si las familias tienen propensión a enlazarse cuando la diferencia de riqueza entre ellas es grande. Por supuesto, controlando por el número de enlaces totales que hay en el modelo, que es el significado del térmimo `edges`:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 gest <- ergm(flomarriage ~ edges + absdiff("wealth"))
 summary(gest)
 {{< / highlight >}}
 
 La salida es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # ==========================
 # Summary of model fit
 # ==========================
@@ -100,7 +100,7 @@ Los términos que aparecen a la derecha de la fórmula del modelo representan co
 
 Los lectores interesados en el asunto pueden encontrar gratificante el ejercicio consistente en relacionar el coeficiente obtenido para el parámetro `edges` al modelar redes creadas con sentencias del tipo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mi.red <- network(25, directed=FALSE, density=0.1)
 {{< / highlight >}}
 

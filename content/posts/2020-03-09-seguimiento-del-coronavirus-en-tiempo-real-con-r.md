@@ -14,7 +14,7 @@ tags:
 
 Mi código (guarrongo) para seguir la evolución del coronavirus por país en cuasi-tiempo real:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(reshape2)
 library(ggplot2)
 

@@ -28,7 +28,7 @@ y debido a la correlación entre _X_ y $latex \varepsilon$, está sesgado.
 
 La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con _X_ pero no con $latex \varepsilon$. La siguiente simulación en R ilustra el problema:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(MASS)
 library(AER)
 
@@ -68,7 +68,7 @@ Lo que se hace en ella es construir 1000 conjuntos de datos con las variables `y
 
 Luego, se construye `y` como `b.0 + b.1 * x + e`. Finalmente, se comparan los coeficientes obtenidos por la regresión por mínimos cuadrados tradicional con la que se obtiene usando `z` como variable instrumental. La comparación de los coeficientes obtenidos puede observarse gráficamente haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 library(reshape)
 

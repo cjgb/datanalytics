@@ -22,7 +22,7 @@ Uno de los tipos de modelos más crípticos es el de los _[random forests](http:
 
 Una [reciente pregunta en la lista de correo de R en español](https://stat.ethz.ch/pipermail/r-help-es/2010-June/001048.html), imagino, fue motivada por este tipo de cuestiones (aunque se centrase en los detalles técnicos). Pero he creído relevante traer acá la discusión y comenzar, pues, construyendo uno de tales modelos. Tomaremos el más simple, que es el que viene en los ejemplos con una manipulación mínima:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(randomForest)
 ozone.rf <- randomForest(Ozone ~ Solar.R + Wind + Temp,
     data=airquality, mtry=3, na.action=na.omit)
@@ -30,7 +30,7 @@ ozone.rf <- randomForest(Ozone ~ Solar.R + Wind + Temp,
 
 Ya tenemos pues nuestro modelo. Con datos de nivel de contaminación, radiación solar, viento y temperatura medidas en el sitio y tiempo que averiguará quien consulte la ayuda del conjunto de datos `airquality` en R, se crea un modelo que trata de predecir la primera en función de los valores de las otras tres variables. Sobre él podemos, por ejemplo, realizar predicciones:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 new.data = data.frame( Solar.R = 150, Wind = 30, Temp = 60 )
 predict( ozone.rf, newdata = new.data )
 {{< / highlight >}}
@@ -39,7 +39,7 @@ Sin embargo, el modelo no tiene coeficientes ni forma funcional alguna que se pu
 
 Para eso definimos primero la función
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 evaluate <- function( x )
     predict(ozone.rf,
             newdata = data.frame(Solar.R = x[1], Wind = x[2], Temp = x[3]))
@@ -47,7 +47,7 @@ evaluate <- function( x )
 
 y llamamos a la función rbga del paquete genalg:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(genalg)
 rbga.results <- rbga(
     c(0, 0, 50),

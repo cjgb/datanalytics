@@ -19,7 +19,7 @@ Hoy voy a hablar de esa especie de oxímoron que es el el _bootstrap_ bayesiano.
 
 La respuesta de [Efron (1979)](http://projecteuclid.org/euclid.aos/1176344552) es esta:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 replicate(n, mean(sample(x, length(x), replace = TRUE)))
 {{< / highlight >}}
 
@@ -32,7 +32,7 @@ Lo anterior puede replantearse así:
 
 Dos años después, a [Rubin (1981)](http://projecteuclid.org/euclid.aos/1176345338) se le ocurrió el _bootstrap_ bayesiano que consiste, esencialmente, en relajar la condición de que los pesos sean enteros. Es decir, se le ocurrió reemplazar la línea de código de Efron por
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(gtools)
 rdirichlet(n, rep(1, length(x))) %*% x
 {{< / highlight >}}

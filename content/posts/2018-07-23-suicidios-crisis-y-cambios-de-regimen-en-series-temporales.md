@@ -22,7 +22,7 @@ El [capo de los diletantes](https://www.datanalytics.com/2018/07/19/que-no-que-e
 
 Veamos pues dónde están esos suicidios. Los encontramos en el INE y podemos hacer cosas tales como:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pxR)
 library(reshape2)
 library(changepoint)
@@ -49,7 +49,7 @@ para obtener
 
 Porque me gusta, puedo y sé, abundo (con la descomposición en tendencia, estacionalidad mensual y residuo):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- ts(dat$ambos, start = c(1980, 1), frequency = 12)
 descomposicion <- stl(tmp, s.window = "periodic")
 plot(descomposicion)
@@ -64,7 +64,7 @@ Y vamos con las apreciaciones del señor que publicó esa cosa que nadie más qu
 
 Un análisis hipersuperficial, sin tener en cuenta la distribución por edad de la población subyacente ni ninguna de las otras consideraciones de rigor, pero que incluyo aunque solo sea por ilustrar el uso de [`changepoint`](https://cran.r-project.org/web/packages/changepoint/index.html), nos dice que:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     res <- cpt.meanvar(tmp, test.stat = "Poisson", method = "BinSeg")
     plot(res)
 {{< / highlight >}}

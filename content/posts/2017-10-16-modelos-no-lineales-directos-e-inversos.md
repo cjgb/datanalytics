@@ -26,7 +26,7 @@ $$ x = f^{-1}_\alpha(y) + \epsilon$$
 
 Un ejemplo. Que arranca con unos datos autoexplicativos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100
 
 a <- 1
@@ -39,7 +39,7 @@ y <- exp(a * x + b) + rnorm(n, 0, sigma)
 
 El modelo _directo_ da:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mod_directo <- nls(y ~ exp(a * x + b),
                     start = list(a = 0.1, b = 0.1))
 summary(mod_directo)
@@ -61,7 +61,7 @@ summary(mod_directo)
 
 Y el _inverso_,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mod_inverso <- nls(x ~ (log(y) - b) / a, start = list(a = 0.1, b = 0.1))
 summary(mod_inverso)
 

@@ -25,7 +25,7 @@ No obstante lo cual, no es infrecuente construir árboles muy grandes. Y el tama
 
 He aquí el código incrustado en un ejemplo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(party)
 library(ggplot2)
 library(plyr)

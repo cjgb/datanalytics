@@ -18,7 +18,7 @@ La cosa va de lo siguiente.
 
 A veces, programando (en este caso, en R), tienes una lista (en sentido genérico) de objetos etiquetados. Como eso de _lista de objetos_ etiquetados igual no se entiende, fabrico una:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100000
 dat <- data.frame( id = paste( "id", 1:n, sep = "_" ),
                     valor = rnorm( n ), stringsAsFactors = F )
@@ -30,7 +30,7 @@ En el programa (retomando el hilo), de vez en cuando, se necesita el valor corre
 
 Voy a plantear varias opciones y es tarea de los lectores más diligentes explorar su rendimiento. De los valores creados anteriormente vamos a extraer los del vector
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n.sample <- 20000
 seleccion <- sample( dat$id, n.sample )
 {{< / highlight >}}
@@ -40,14 +40,14 @@ uno a uno. En una situación más real, las llamadas están repartidas dentro de
 
 Con vectores:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 system.time( res <- sapply( seleccion,
                 function( x ) dat$valor[ dat$id == seleccion ] ) )
 {{< / highlight >}}
 
 Con listas:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mi.lista <- sapply(dat$valor, I, simplify = F)
 names(mi.lista) <- dat$id
 system.time(res <- sapply(seleccion, function(x) mi.lista[[x]]))
@@ -56,7 +56,7 @@ system.time(res <- sapply(seleccion, function(x) mi.lista[[x]]))
 
 Con entornos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mi.entorno.0 <- new.env()
 invisible(sapply(1:n, function(i)
                 assign(dat$id[i], dat$valor[i], env = mi.entorno.0)))
@@ -66,7 +66,7 @@ system.time(res <- sapply( seleccion, function( x ) mi.entorno.0[[x]]))
 
 Con el paquete data.table:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 require(data.table)
 tmp.dat <- dat
 tmp.dat$id <- factor(tmp.dat$id)
@@ -79,7 +79,7 @@ system.time(res <- sapply(seleccion,
 
 Con _hashes_ (existe el [paquete hash](http://cran.r-project.org/web/packages/hash/index.html), pero no lo usaremos acá; no obstante, (1) internamente usa entornos como los que aquí utilizo y (2) mis lectores están invitados a explorar dicha opción, por supuesto):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mi.entorno.1 <- new.env( hash = T )
 invisible(sapply(1:n, function(i)
                 assign(dat$id[i], dat$valor[i], env = mi.entorno.1)))

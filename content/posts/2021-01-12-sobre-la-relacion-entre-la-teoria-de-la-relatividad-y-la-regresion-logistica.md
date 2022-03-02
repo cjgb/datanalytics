@@ -16,7 +16,7 @@ tags:
 
 Según la teoría de la relatividad, las velocidades (lineales) se suman así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 v1 <- 100000
 v2 <- 100000
 velocidad_luz <- 300000
@@ -31,7 +31,7 @@ suma_relativista(v1, v2)
 
 Lo que es todavía menos conocido es que esa operación es equivalente a la suma ordinaria de velocidades a través de una transformación de ida y vuelta vía la arcotangente hiperbólica (véase [esto](https://www.johndcook.com/blog/2020/12/29/relativistic-addition/)). En concreto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 f1 <- function(x) {
   atanh(x / velocidad_luz)
 }
@@ -46,7 +46,7 @@ f2(f1(v1) + f1(v2))
 
 Ahora imaginemos un universo donde la velocidad máxima no es la de la luz, sino que solo están permitidas las velocidades entre 0 y 1:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 p1 <- .9
 p2 <- .9
 

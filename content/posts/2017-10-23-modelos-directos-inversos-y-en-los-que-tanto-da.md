@@ -27,7 +27,7 @@ Podemos ensayarlo usando el paquete [`onls`](https://cran.r-project.org/web/pack
 
 Voilá (usando los datos de la entrada anterior):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     mod_directo <- onls(y ~ exp(a * x + b),
                         start = list(a = 0.1, b = 0.1))
     summary(mod_directo)
@@ -50,7 +50,7 @@ Voilá (usando los datos de la entrada anterior):
 
 y
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     mod_inverso <- onls(x ~ (log(y) - b) / a, start = list(a = 0.1, b = 0.1))
     summary(mod_inverso)
 

@@ -30,7 +30,7 @@ Así que si alguien tiene una idea al respecto... ¡Que no deje pasar la ocasió
 
 Finalmente, por si alguien quiere echarle un vistazo a los datos, los puede bajar así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 
 res <- read_html("http://micro4tercios.com/foro/viewtopic.php?f=5&t;=26600")

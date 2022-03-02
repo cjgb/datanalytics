@@ -37,7 +37,7 @@ En el enlace, al cabo de mucho desarrollo de Taylor, de despejar, etc., llega a 
 
 Pero siempre se pueden hacer cosas como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 k_mean <- -0.035
 k_sd   <- 0.00195
 

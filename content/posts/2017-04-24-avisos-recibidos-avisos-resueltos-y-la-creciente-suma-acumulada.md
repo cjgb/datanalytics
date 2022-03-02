@@ -25,7 +25,7 @@ He bajado los datos y he pintado
 
 que es la suma acumulada de la diferencia entre los avisos entrantes y los resueltos día a día usando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(data.table)
 library(xts)
 

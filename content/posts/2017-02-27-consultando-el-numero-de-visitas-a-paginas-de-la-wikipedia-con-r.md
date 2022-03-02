@@ -18,7 +18,7 @@ Hace un tiempo probé el [paquete `wikipediatrend` de R](https://cran.r-project.
 
 Una [reciente entrada de Antonio Chinchón en su blog](https://fronkonstin.com/2017/02/21/who-is-alan-turing/) me ha invitado a revisitar la cuestión y ahora, al parecer, `stats.grok.se` vuelve a estar levantado. Por lo que se pueden hacer cosas como:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 visitas <- wp_trend("R_(lenguaje_de_programaci%C3%B3n)",
     from = "2010-01-01", to = Sys.Date(),
     lang = "es")
@@ -26,7 +26,7 @@ visitas <- wp_trend("R_(lenguaje_de_programaci%C3%B3n)",
 
 [Aquí ahorro al lector unos párrafos de pésima literatura.]
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     plot(visitas$date, visitas$count, type = "l",
          main = "Visitas a la página de R en la Wikipedia (es)",
          xlab = "fecha", ylab = "número de visitas")
@@ -38,7 +38,7 @@ produce
 
 [Aquí podría añadir más ejemplos la peor prosa.]
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- visitas[-(1:274),]
 dat$date[1]
 #"2010-10-02"

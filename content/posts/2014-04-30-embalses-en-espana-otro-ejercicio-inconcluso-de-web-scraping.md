@@ -19,7 +19,7 @@ La respuesta es [afirmativa](http://www.seprem.es/presases.php?p=1).
 
 El código para bajarse (y adecentar un poco) la base de datos es:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(XML)
 
 ## bajada de datos
@@ -67,7 +67,7 @@ res$finalizada[is.na(res$finalizada)] <- 2015
 En cuanto a qué hacer con ellos, me limitaré a mostrar la salida de
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 indices <- res$finalizada > 1900 & res$finalizada < 2014
 dat <- tapply(res$hm3[indices], res$finalizada[indices], sum)
 plot(as.numeric(names(dat)), dat, type = "l",

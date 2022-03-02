@@ -36,7 +36,7 @@ Descargué primero el paquete de la página arriba indicada —para lo que hube 
 Y comencé el análisis de TeratataR:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library( teradataR )
     #Loading required package: RODBC
     tdConnect( "prod" )           # servidor de producción
@@ -62,7 +62,7 @@ Y comencé el análisis de TeratataR:
 Pero a partir de este punto comenzaron mis infortunios. Aunque pude ejecutar
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     summary( tdf )
 {{< / highlight >}}
 
@@ -70,7 +70,7 @@ Pero a partir de este punto comenzaron mis infortunios. Aunque pude ejecutar
 sin más problemas que el de una excesiva demora para obtener una salida equivalente a `summary` sobre un `dataframe` habitual, el mismo comando con una tabla algo sustancialmente más teradatesca (es decir, grande) devolvió
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     summary( tdf )
     #Error in quan[[3]] : subscript out of bounds
 {{< / highlight >}}
@@ -79,7 +79,7 @@ sin más problemas que el de una excesiva demora para obtener una salida equival
 después de media hora de ejecución. Por otra parte, `hist( tdf )` sobre la tabla más pequeña creó una cosa que no era un histograma sino un amazacotado gráfico de puntos en el que no se sacaba nada en claro. Además, en la tabla grande, al tratar de calcular la mediana de una columna numérica, obtuve
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     median( tdf["IMPORTE_TOTAL"] )
     # [1] NA NA
     # Warning message:

@@ -29,7 +29,7 @@ El código,
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(mvtnorm)
 library(rstan)
 library(psych)

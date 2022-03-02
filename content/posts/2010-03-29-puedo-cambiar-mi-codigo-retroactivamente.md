@@ -19,7 +19,7 @@ La verdad, no tengo excusa. Incluso [se habló de ella](http://erre-que-erre-pac
 
 Y es que nunca me había percatado de la potencia de la función `mapply`. He aquí el problema: se tienen dos listas de la misma longitud y se quieren transformar los objetos de la primera en función de datos extraídos de los objetos correspondientes de la segunda. En los tiempos oscuros que duraron hasta anteayer, me veía abocado a utilizar un bucle que llevase la contabilidad del índice para poder recorrer ambas listas simultáneamente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 salida <- list()
 for (i in 1:length(lista1)){
     salida <- c(salida, haz.algo.con(lista1[[i]], lista2[[i]])

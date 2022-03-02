@@ -19,7 +19,7 @@ Probablemente no habéis utilizado nunca [Redis](https://en.wikipedia.org/wiki/R
 
 Si queréis probar algo parecido, además de los diccionarios y los entornos, podéis probar con [`storr` ](https://cran.r-project.org/web/packages/storr/index.html), un paquete reciente de R. Aquí tenéis una minisesión de ejemplo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(storr)
 
 my.dir <- "/tmp/storr00"

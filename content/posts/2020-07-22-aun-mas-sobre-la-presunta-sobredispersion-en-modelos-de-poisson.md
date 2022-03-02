@@ -24,7 +24,7 @@ Las dos entradas anteriores de la serie se resumen en que:
 
 Si el error en el modelo de Poisson entra (también) en el término lineal,  podemos modelar ese error explícitamente. Podría haber implementado la solución INLA o Stan del problema, pero me conformaré con la `lme4`. Primero, generaré los datos (igual que en las entradas anteriores) y añadiré una variable categórica que identifique cada registro:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 1000
 sigma <- .5
 x <- rep(-5:5, each = n)
@@ -43,7 +43,7 @@ datos <- data.frame(
 
 Como se aprecia, he añadido un error normal con $latex \sigma = .5$ en el término lineal. Y ahora,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(lme4)
 modelo_glmer <- glmer(
     y ~ x + (1 | id),
@@ -54,7 +54,7 @@ summary(modelo_glmer)
 
 da
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
   Family: poisson  ( log )
 Formula: y ~ x + (1 | id)

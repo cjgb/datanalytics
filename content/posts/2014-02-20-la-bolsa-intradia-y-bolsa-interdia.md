@@ -24,7 +24,7 @@ Dicho lo cual:
 
 Juan y Pedro llevan operando así desde el 1 de enero de 2000. ¿Cuál de los dos se ha llevado el gato al agua? Veámoslo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(tseries)
 library(zoo)
 

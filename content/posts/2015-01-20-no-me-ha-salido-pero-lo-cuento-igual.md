@@ -19,7 +19,7 @@ Creo que todos sabéis la historia de las admisiones de la Universidad de Berkel
 
 En R puede resumirse en
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(reshape2)
 library(plyr)
 
@@ -46,7 +46,7 @@ La idea es comparar las regresiones logísticas anteriores: una que incluya `Dep
 
 Pues parece que algo se me ha escapado porque, salvo error u omisión,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 accept.rate <- dcast(raw, Dept ~ <a href="http://inside-r.org/packages/cran/AdMit">Admit, fun.aggregate = sum, value.var = "Freq")
 accept.rate$size <- accept.rate$Admitted + accept.rate$Rejected
 accept.rate$rate <- accept.rate$Admitted / accept.rate$size

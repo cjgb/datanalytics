@@ -24,7 +24,7 @@ De eso hablo hoy aquí. E incluyo una protorespuesta.
 
 Primero, genero datos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n  <- 20000
 v1 <- sample(0:1, n, replace = T)
 v2 <- sample(0:1, n, replace = T)
@@ -53,7 +53,7 @@ Como se ve, efectivamente, la variable `v3` (fila inferior) no tiene ningún efe
 
 Ahora,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(party)
 modelo <- mob(y ~ treat | v1 + v2 + v3,
     data = dat, family = binomial())

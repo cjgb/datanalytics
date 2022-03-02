@@ -26,7 +26,7 @@ Antes de entrar en materia, una observación. Lo de PISA es muy serio, pero quie
 
 Cargo datos en R (después de bajarlos del preceptivo enlace, descomprimirlos, etc.; cuidado: el fichero ocupa un giga largo):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(foreign)
 
 tmp <- read.spss("CY6_MS_CMB_STU_QQQ.sav",
@@ -39,7 +39,7 @@ rm(tmp); gc()
 
 Aquitán:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dim(alumnos)
 #[1] 6736  921
 {{< / highlight >}}
@@ -48,7 +48,7 @@ También se puede ver que hay unos doscientos colegios y si uno se baja el fiche
 
 Selecciono las colunnas de interés y relleno (¡primer _caveat_!) los nulos (no muchos) con la mediana:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- alumnos[, c("CNTSTUID", "CNTSCHID",
     "WEALTH", "CULTPOSS",
     "HEDRES", "HOMEPOS", "ICTRES",
@@ -86,7 +86,7 @@ Las columnas de interés son:
 
 Estas columnas parecen construirse sintéticamente a partir de las respuestas (que también aparecen en el fichero) a una encuesta concomitante. Muchas de estas columnas están muy correlacionadas entre sí, tanto como yo con alguien que no sé si me leerá:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot(dat[, c("WEALTH", "CULTPOSS", "HEDRES", "ESCS", "HOMEPOS")])
 {{< / highlight >}}
 
@@ -94,7 +94,7 @@ plot(dat[, c("WEALTH", "CULTPOSS", "HEDRES", "ESCS", "HOMEPOS")])
 
 Voy a centrarme en las resultados de matemáticas porque yo lo valgo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 targets <- grep("^PV[0-9]+MATH$", colnames(alumnos))
 dat$target <- rowMeans(alumnos[, targets])
 dotchart(sort(tapply(dat$target, dat$CCAA, mean)))
@@ -108,7 +108,7 @@ Fundamentalmente, porque aunque los valores están en línea con los publicados 
 
 Con la información disponible se pueden construir gráficas tales que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 boxplot(dat$target ~ dat$PUBPRIV)
 {{< / highlight >}}
 
@@ -120,7 +120,7 @@ que [tanto irritan](https://www.datanalytics.com/2016/12/07/enhorabuena-a-eldiar
 
 Pero vamos a la chicha:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(lme4)
 library(lattice)
 
@@ -171,7 +171,7 @@ Hay una correlación insidiosa (aunque prevista) entre algunas de las variables 
 
 Eso en cuanto a lo fijo. En cuanto a lo aleatorio,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dotplot(ranef(modelo, condVar = TRUE))
 {{< / highlight >}}
 

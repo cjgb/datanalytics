@@ -16,7 +16,7 @@ tags:
 Pues eso, que me piqué —y parte de la culpa la tiene [este sujeto](http://eliasron.com/)— con [el otro problema del cumpleaños](http://www.datanalytics.com/2014/02/05/el-otro-problema-del-cumpleanos/) y he aquí el código —exacto salvo redondeos, no mediante simulaciones— que he usado para _resolverlo_:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 f <- function(n, k = 365, v = NULL){
 
   if(is.null(v))

@@ -33,7 +33,7 @@ Y yo me pregunto lo siguiente:
 
 He querido responderme a mí mismo descargando de [aquí](http://research.stlouisfed.org/fred2/series/DJIA/downloaddata?cid=32255) las cotizaciones de Dow Jones desde la época de Cánovas y Sagasta y después he ejecutado
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- readLines("DJIA.txt")
 dat <- dat[-(1:18)]
 dat <- gsub("  *", "\t", dat)

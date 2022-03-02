@@ -21,7 +21,7 @@ El gráfico, construido por uno de los respondedores, Ignacio Larrosa Cañestro,
 
 Mi solución (puro uso del [teorema del seno](https://es.wikipedia.org/wiki/Teorema_de_los_senos)):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(nleqslv)
 
 ab <- 11

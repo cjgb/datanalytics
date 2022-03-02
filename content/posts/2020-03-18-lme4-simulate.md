@@ -19,7 +19,7 @@ Esta entrada es casi una referencia para mí. Cada vez _tiro_ más de [`lme4`](h
 
 Véamoslo en funcionamiento.  Primero, datos (_ANOVA-style_) y el modelo que piden a gritos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
 library(lme4)
 
@@ -34,7 +34,7 @@ modelo <- lmer(y ~ (1 | x), data = datos)
 
 El resumen del modelo está niquelado:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 summary(modelo)
 
 # Linear mixed model fit by REML ['lmerMod']
@@ -66,7 +66,7 @@ En particular,
 
 Ahora, la simulación. Así,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 sims.u.false <- simulate(modelo, nsim = 1000, use.u = FALSE)
 hist(apply(sims.u.false, 1, mean))
 {{< / highlight >}}
@@ -77,7 +77,7 @@ obtengo
 
 donde se ha ignorado el valor preespecificado de los efectos aleatorios (el valor de `x`) en los datos. En jerga estadística, es la predicción incondicional. Pero podemos exigir que se condicione en los valores de `x` (es decir, tener en cuenta de que hay observaciones con valores x predefinidos) así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     sims.u.true <- simulate(modelo, nsim = 1000, use.u = TRUE)
     hist(apply(sims.u.true, 1, mean))
 {{< / highlight >}}
@@ -90,7 +90,7 @@ que tiene mucha mejor pinta. Nótese que en los datos originales hay sujetos cuy
 
 Finalmente, se pueden añadir observaciones con un nivel de `x` desconocido. La simulación condicional lo es para aquellas observaciones con niveles conocidos del factor aleatorio y, por decirlo de alguna manera, incondicional para las que no (y hay que usar la opción `allow.new.levels = TRUE`):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 new_data <- data.frame(x = c(factors, "z"))
 sims.u.true.alt <- simulate(modelo, nsim = 1000, use.u = TRUE, allow.new.levels = TRUE, newdata = new_data)
 t(apply(sims.u.true.alt, 1, function(x) c(mean(x), sd(x))))

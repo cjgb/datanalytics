@@ -23,7 +23,7 @@ El muy reciente paquete `future` incorpora a R un mecanismo disponible en otros 
 Mirad el código de entonces y comparadlo con:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(future)
 
 plan(multiprocess)

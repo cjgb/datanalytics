@@ -20,7 +20,7 @@ Fueron mis modelos favoritos un tiempo, cuando modelaba visitas y revisitas de u
 
 Si las visitas fuesen _aleatorias_ (en cierto sentido), tendrían un aspecto no muy distinto del que se obtiene haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(IHSEP)
 
 suppressWarnings(set.seed(exp(pi * complex(imaginary = 1))))
@@ -36,7 +36,7 @@ Es decir,
 
 o bien una distribución uniforme en el tiempo. Pero bien puede ocurrir que una visita incremente la probabilidad de otra inmediatamente después, por lo que las visitas tenderían a arracimarse en determinados momentos. Con el paquete `[IHSEP](https://cran.r-project.org/package=IHSEP)` de R pueden simularse (y ajustarse) este tipo de modelos. Por ejemplo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res <- simHawkes1(nu = function(x) .1,
     g = function(x) .5 * exp(-x), cens =1000)
 hist(unlist(res), breaks = 100,

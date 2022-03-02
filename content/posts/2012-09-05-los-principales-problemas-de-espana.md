@@ -26,7 +26,7 @@ Los datos proceden del [barómetro del CIS](http://www.cis.es/cis/opencms/ES/11_
 
 Utilizando el código de Gregorio Serrano con algunos retoques, es decir, haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(XML)
 library(zoo)
 library(ggplot2)

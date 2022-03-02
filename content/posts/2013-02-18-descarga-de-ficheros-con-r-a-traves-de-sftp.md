@@ -15,7 +15,7 @@ Llevo lo que parece un siglo sin escribir en estas páginas. Y es que, en gran p
 
 Lo que me ocupa hoy es esto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 fichero <- getURL("sftp://usuario:contraseña@máquina/home/bla/bla/bla/fichero.txt")
 {{< / highlight >}}
 

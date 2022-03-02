@@ -34,7 +34,7 @@ es una media y, por tanto, aplicando el teorema central del límite (¿aplica?),
 
 ¡Puf! Vale, concedo que $latex \sqrt{n} \mu_X$ podría seguir una normal. Pero, ¿tiene el denominador una distribución que pueda parecerse a una chi-cuadrado con n-1 grados de libertad? Ni jarto de vino. El que quiera convencerse de ello, que ejecute
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(n, m){
   res <- c(rep(0,n), abs(rcauchy(m)))
   var(res)

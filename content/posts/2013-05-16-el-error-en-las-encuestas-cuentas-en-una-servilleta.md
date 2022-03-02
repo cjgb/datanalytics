@@ -22,7 +22,7 @@ La cuestión es que el otro día una colega me preguntó lo siguiente: efectivam
 
 El resto de los datos, a continuación:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 N <- 546   # número de sujetos en la población
 n <- 182   # número de sujetos muestreados
 
@@ -47,7 +47,7 @@ $$ P(\theta | x) \propto P(x | \theta).$$
 
 Y ahora
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n.reales <- 0:N
 probs <- sapply(n.reales, function(y) dhyper(x, y, N-y, n, log = FALSE))
 probs <- probs / sum(probs)
@@ -60,7 +60,7 @@ calcula `probs`, el vector de probabilidades correspondiente a la distribución 
 
 Haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- n.reales[order(probs)]
 tmp <- tmp[cumsum(sort(probs)) > 0.05 ]
 range(tmp) / N * 100

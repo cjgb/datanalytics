@@ -20,7 +20,7 @@ Al grano.
 
 Supongamos que tenemos un sistema con sensores que miden la temperatura (5) y la presión (2) en diversos puntos. Los dejamos recoger datos durante 100 periodos y obtenemos
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 
 n <- 100
@@ -60,7 +60,7 @@ Ahora llega un señor importante, de los de corbata, uno de esos devoradores de 
 Y a nosotros se nos ocurre reducir la dimensionalidad del problema usando componentes principales (PCA) así:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat.pca <- princomp(dat)
 {{< / highlight >}}
 
@@ -68,7 +68,7 @@ dat.pca <- princomp(dat)
 Las dos primeras componentes principales tienen casi toda la varianza (como cabía esperar en nuestros datos artificiales):
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 screeplot(dat.pca)
 {{< / highlight >}}
 
@@ -78,7 +78,7 @@ screeplot(dat.pca)
 
 Como puede verse haciendo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 loadings(dat.pca)
 
 # Loadings:

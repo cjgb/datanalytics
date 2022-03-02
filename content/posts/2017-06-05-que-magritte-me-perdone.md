@@ -17,7 +17,7 @@ tags:
 
 ¿Qué es `%>%`? ¿Para qué sirve? Hoy he hecho la presentación más sesgada y parcial del operador para neófitos en R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(magrittr)
 
 8 %>% sin %>% exp

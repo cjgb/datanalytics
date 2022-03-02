@@ -19,7 +19,7 @@ Especulando sobre la diferencia en la práctica entre distintas métricas ($late
 En la Wikipedia se comparan gráficamente $latex l_1$, $latex l_2$ (o euclídea y Manhattan). Mi código,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(data.table)
 library(reshape2)
 library(grid)

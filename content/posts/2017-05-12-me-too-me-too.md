@@ -21,7 +21,7 @@ Las alturas corresponden a una cierta potencia de la población residente en la 
 
 El código,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library(ggplot2)
     options(expressions = 10000)
 

@@ -18,7 +18,7 @@ tags:
 
 lo he creado con
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(png)
 
 tmp.file <- tempfile()

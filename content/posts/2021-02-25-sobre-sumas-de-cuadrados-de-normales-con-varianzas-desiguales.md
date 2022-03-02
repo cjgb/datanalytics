@@ -26,7 +26,7 @@ La entrada tiene tres partes en la que se examinará tres casos de creciente gra
 
 El caso conocido de todos está ilustrado por
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 10
 muestra <- replicate(10000, {
   muestra <- rnorm(n, 0, 1)
@@ -49,7 +49,7 @@ El código genera `n` variables aleatorias normales estándar, las eleva al cuad
 
 El caso de varianzas distintas se reduce al anterior dividiendo la muestra por dicha varianza. Eso sí, hay que tener en cuenta que no es la suma de los cuadrados la que tiene distribución $latex \chi^2$ sino esta dividida por la varianza de cada una de las normales (o su varianza media, como se verá luego):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 10
 sds <- 1.5
 
@@ -74,7 +74,7 @@ Que produce
 
 En esta tercera parte se van a sumar cuadrados de variables aleatorias normales con varianzas desiguales:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(2021)
 
 n <- 10
@@ -97,7 +97,7 @@ Con lo que se obtiene
 
 Obviamente, el soporte de ese histograma va a depender críticamente de la varianza de las observaciones, por lo que, extendiendo la corrección de la sección anterior, se escala
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 muestra <- muestra / mean(sds^2)
 {{< / highlight >}}
 
@@ -105,7 +105,7 @@ de manera que el resultado sigue pareciendo a ojo $latex \chi^2$. Pero, ¿con qu
 
 Pero en este blog somos gente de orden y la programación no nos es ajena. Por eso vamos a tratar de maximizar la verosimilitud:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function(nu)
   sum(dchisq(muestra, nu, log = TRUE))
 

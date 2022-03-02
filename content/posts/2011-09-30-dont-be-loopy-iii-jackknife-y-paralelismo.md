@@ -22,7 +22,7 @@ Primero, el código SAS que recomienda el autor del artículo, que calcula la cu
 
 
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 data test;
     do i = 1 to 10000;
         x = ranuni(1234);
@@ -66,7 +66,7 @@ Tarda en ejecutarse 110 segundos en mi máquina. He probado también a aplicar e
 En R tenemos varias alternativas. Tal vez la más simple sea
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( bootstrap )
 library( moments )
 
@@ -82,7 +82,7 @@ que utiliza la función jackknife del paquete `bootstrap` y tarda 13.12 segundos
 Para ello, utilizaremos el paquete `doSMP`:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(doSMP)
 w <- startWorkers(workerCount = 2)
 registerDoSMP(w)
@@ -96,7 +96,7 @@ Para ejecutar las tareas se utiliza foreach. Esta función es, en cierto modo, s
 El código (con las dos opciones) es:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # en paralelo
 res <- foreach( i = 1:N, packages = "moments" ) %dopar%
     kurtosis( x[-i] )

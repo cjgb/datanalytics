@@ -23,7 +23,7 @@ En primera derivada, un banco es un señor que pone 10, capta 90 en depósitos d
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 capital <- 10
 depositos <- 90
 
@@ -63,7 +63,7 @@ Repitamos pues los cálculos anteriores teniendo en cuenta que un determinado po
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 capital <- 10
 depositos <- 90
 tasa.morosidad <- 0.02

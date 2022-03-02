@@ -90,7 +90,7 @@ $$ \frac{bp-(1-p)}{b}.$$
 Finalmente, y para que mis lectores puedan cacharrear, adjunto el código ---un tanto vergonzante--- con el que he creado los gráficos de esta entrada:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     game.payoff <- function(f, trials = 100, p = 0.9, b = 0.5, quantile = 0.5){
     	wins  <- qbinom(quantile, trials, p)
     	loses <- trials - wins

@@ -25,7 +25,7 @@ Aprovechando que el paquete [`GameTheoryAllocation`](https://cran.r-project.org/
 
 Al  menos, de acuerdo con el siguiente código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(GameTheoryAllocation)
 
 partidos <- c(123, 66, 57, 35, 24, 15, 7, 7,

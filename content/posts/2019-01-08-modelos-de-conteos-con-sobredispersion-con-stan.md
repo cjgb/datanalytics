@@ -25,7 +25,7 @@ Una mejor aproximación es interpretar la sobredispersión de la Poisson como ef
 
 Para lo cual, genero datos (obviamente, de acuerdo con mi modelo):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # sujetos por experimento
 n <- 5000
 
@@ -54,7 +54,7 @@ Y ahora modelo en Stan:
 
 
 
-{{< highlight c "linenos=true" >}}
+{{< highlight c >}}
 data {
   int n;
   int control[n];
@@ -82,7 +82,7 @@ model {
 
 Y ejecuto:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 
 fit <- stan("disp_poisson.stan",

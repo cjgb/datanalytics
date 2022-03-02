@@ -15,7 +15,7 @@ tags:
 
 Primero, las curvas de nivel:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x <- seq(-50, 50, length.out = 1000)
 
 tmp <- expand.grid(x = x, y = x)

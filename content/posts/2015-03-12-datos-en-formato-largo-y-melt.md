@@ -17,7 +17,7 @@ tags:
 En ocasiones uno recibe datos no muy distintos de
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 aragon <- read.table("http://datanalytics.com/uploads/pob_aragon",
                         header = T, sep = "\t")
 aragon
@@ -35,7 +35,7 @@ aragon
 Los mismos datos en _formato largo_ son:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(reshape2)
 
 aragon.largo <- melt(aragon, id.vars = c("Provincias", "Periodo"))
@@ -69,7 +69,7 @@ El segundo es que es el formato más conveniente para **filtrar**. Cualquier fil
 Tercero, que es el formato más conveniente para realizar cierto tipo de **agregaciones** (p.e., eliminando dimensiones para extraer totales). Verbigracia,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(plyr)
 
 aragon.totales <- ddply(aragon.largo,

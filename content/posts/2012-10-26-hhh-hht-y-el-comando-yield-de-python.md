@@ -24,7 +24,7 @@ Este pequeño (¿y sorprendente?) ejercicio probabilístico me ha servido de exc
 
 El código es:
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 from random import choice
 
 def cadena():
@@ -62,19 +62,19 @@ for x in HHT:
 
 La magia está en el comando `yield` en la función `cadena`. Al hacer
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 gen = cadena()
 {{< / highlight >}}
 
 se _inicia_ el iterador. Cada vez que uno llama entonces a
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 seq = gen.next()
 {{< / highlight >}}
 
 se ejecuta una iteración del bucle
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 while(True):
         a, b, c = b, c, choice("HT")
         yield a,b,c

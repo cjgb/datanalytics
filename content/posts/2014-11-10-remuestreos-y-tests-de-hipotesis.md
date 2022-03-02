@@ -17,7 +17,7 @@ tags:
 No sé si visteis [el vídeo que colgué el otro día](http://www.datanalytics.com/2014/11/06/estadistica-clasica-vs-remuestreo/). Trataba el problema de determinar si dos poblaciones
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 beer  <- c(27, 20, 21, 26, 27, 31, 24,
         21, 20, 19, 23, 24,
         18, 19, 24, 29, 18, 20, 17,
@@ -29,7 +29,7 @@ water <- c(21, 22, 15, 12, 21, 16, 19,
 
 tienen o no la misma media. Más concretamente, si la población `beer` tiene una media superior a la de `water` como en efecto sucede:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mean(beer)
 #[1] 23.2
 mean(water)
@@ -40,7 +40,7 @@ mean(water)
 
 Muchos plantearían un t-test:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 t.test(beer, water, alternative = "greater")
 # Welch Two Sample t-test
 #
@@ -56,7 +56,7 @@ t.test(beer, water, alternative = "greater")
 
 Pero en el vídeo se propone una alternativa basada en remuestreos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 remuestreo <- function(beer, water){
     x <- c(beer, water)
     new.beer  <- sample(x, length(beer),  replace = T)
@@ -89,7 +89,7 @@ En artículos como [_Bootstrap hypothesis testing for some common statistical pr
 Efectivamente, la distribución construida por remuestreo podría no recoger adecuadamente las especificidades concretas de la hipótesis nula en cuestión, la igualdad de medias en nuestro caso. Lo que entiendo que propone el autor del artículo —¡y enmiéndeseme si yerro!— es corregir como en
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 remuestreo <- function(beer, water){
     # adaptamos la distribución a la hipótesis nula
     beer <- beer - mean(beer) + mean(water)

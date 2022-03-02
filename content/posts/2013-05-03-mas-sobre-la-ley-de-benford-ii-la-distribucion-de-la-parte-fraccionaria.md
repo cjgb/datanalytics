@@ -27,7 +27,7 @@ entonces la distribución de la parte fraccionaria de sus muestras serán aproxi
 
 Esto se verifica fácilmente en ciertos casos. Por ejemplo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 x <- rnorm(100000)
 x <- x - floor(x)
 

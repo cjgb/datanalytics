@@ -26,7 +26,7 @@ El paquete contiene muchas llamadas a funciones (`median`, `mean`, `summary`, et
 Pero un día tuve la buena suerte de que mi gato se paseó por encima del teclado y hete aquí lo que se ve que la bestia dio por componer:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 summary.td.data.frame
 teradataR:::.td.genmedian
 {{< / highlight >}}
@@ -36,7 +36,7 @@ teradataR:::.td.genmedian
 
 La consulta que genera `td.genmedian` es algo así como:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 SELECT "median"
 FROM (
   SELECT

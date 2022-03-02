@@ -24,7 +24,7 @@ Me escriben pidiendo consejo sobre cómo leer datos contenidos en (una serie lar
 
 No tengo ni curiosidad por averiguar de dónde proceden. Simplemente,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(foreign)
 res <-read.dbf("R0010.DBF")
 {{< / highlight >}}
@@ -35,7 +35,7 @@ funciona de maravilla.
 
 Estos sí que sé de dónde vienen (y me guardo la opinión). El problema aquí no era leer directamente tablas contenidas en hojas sino ir extrayendo celdas y rangos de hojas. Así que:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(readxl)
 
 f <- "blablabla.xlsx"

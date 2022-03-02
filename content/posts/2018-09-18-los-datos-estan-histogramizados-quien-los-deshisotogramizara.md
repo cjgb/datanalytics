@@ -23,7 +23,7 @@ Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dina
 
 Gracias a [Freakonometrics](https://freakonometrics.hypotheses.org/18859) di con [`binequality`](https://cran.r-project.org/package=binequality). Adaptando su código, escribo
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(plyr)
 
@@ -74,7 +74,7 @@ irpf_dk$rango <- NULL
 
 para bajar y preprocesar los datos y después
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(binequality)
 
 irpf_dk <- irpf_dk[-1,]

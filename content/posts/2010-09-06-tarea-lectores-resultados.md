@@ -15,7 +15,7 @@ El otro día dejé planteada[ una tarea para mis lectores](http://www.datanalyti
 
 Acá van los resultados:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 100000
 dat <- data.frame( id = paste( "id", 1:n, sep = "_" ),
     valor = rnorm( n ), stringsAsFactors = F )

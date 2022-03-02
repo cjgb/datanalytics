@@ -13,7 +13,7 @@ tags:
 - trucos
 ---
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(microbenchmark)
 library(ggplot2)
 

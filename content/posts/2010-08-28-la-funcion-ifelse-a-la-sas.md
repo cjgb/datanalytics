@@ -14,7 +14,7 @@ tags:
 
 Una función muy útil de R es ifelse:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 val <- 0
 var <- ifelse( val == 1, "uno", "cero" )
 print( var )
@@ -24,7 +24,7 @@ print( var )
 
 Un programador en SAS haría algo así como
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 %macro test(val);
     %if &val=1 %then %let var=one;
     %else %let var=zero;
@@ -38,7 +38,7 @@ Un programador en SAS haría algo así como
 
 SAS, sin embargo, [recomienda hacerlo así](http://support.sas.com/kb/40/271.html):
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 %let val=0;
 %let var=%sysfunc(ifc(&val=1,one,zero));
 %put &var;

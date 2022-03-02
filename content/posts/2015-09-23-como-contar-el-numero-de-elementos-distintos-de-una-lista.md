@@ -21,7 +21,7 @@ Por ese motivo, existen algoritmos que aproximan el número de elementos distint
 
 Veamos una versión simplificada de uno de ellos. A cada elemento se le calcula un _hash_. Un _hash_ es una función no continua. Por ejemplo, como esta:
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 carlos@chino:~$ echo "hola" | md5sum
 916f4c31aaa35d6b867dae9a7f54270d
 {{< / highlight >}}

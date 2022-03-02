@@ -35,7 +35,7 @@ donde $latex \Phi $ es una variable aleatoria N(0,1). Esta probabilidad puede ca
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 1 - pnorm(0.1 * sqrt(15))
 1 - pnorm(0.1 * sqrt(45))
 {{< / highlight >}}

@@ -18,7 +18,7 @@ tags:
 
 Tienes una variable binaria `y` y 100 variables predictoras de las cuales 99 son puro ruido y la última es igual a `y`. En código,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 1000
 y <- as.factor(rbinom(n, 1, .4))
 x <- matrix(rnorm(n*100), n, 100)

@@ -29,7 +29,7 @@ La manera en la que recomiendo comenzar a crear un paquete es partiendo de una s
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo <- function( x ) 2 * x
 bar <- function( y ) 2 * y
 {{< / highlight >}}
@@ -48,7 +48,7 @@ Si abrimos una nueva sesión de R —para que no haya funciones ni objetos adici
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 package.skeleton( "mipaquete" )
 {{< / highlight >}}
 

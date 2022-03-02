@@ -18,7 +18,7 @@ tags:
 
 Hoy, gelmaneo así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 bar <- function(n, reps = 1e4){
   foo <- function(n){
     x <- rnorm(n)

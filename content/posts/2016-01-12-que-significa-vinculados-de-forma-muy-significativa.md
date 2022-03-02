@@ -48,14 +48,14 @@ El efecto es, según los autores, significativo, pero no está claro que sea rel
 El segundo gran tema es que un resultado (o coeficiente) puede resultar o no significativo dependiendo de lo que uno haga, las variables que utilice, etc. Aquí echo de menos ese párrafo que he omitido más arriba sobre los perversos incentivos de la academia. Como los autores (otra cosa para la que no tienen mayor incentivo) no han hecho públicos los datos (o no los han publicitado lo suficientemente bien como para que los encuentre), [los he recopilado yo mismo](/uploads/datos_suicidio_espana.txt). Se puede hacer
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 dat <- read.table("/uploads/datos_suicidio_espana.txt")
 summary(dat)
 {{< / highlight >}}
 
 para cargarlos y ver que los míos coinciden mayormente con los de los autores (comparando el `summary` con la tabla 2 del artículo y luego, por ejemplo, una cosa muy razonable,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(<lme4)
 mod.lmer.paro <- lmer(tasa.suicidio ~  edad.media +
     esperanza.vida + tasa.fecundidad + ratio.sexos +

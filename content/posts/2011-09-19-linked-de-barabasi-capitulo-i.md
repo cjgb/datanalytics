@@ -31,7 +31,7 @@ El código
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     n.nodos <- 1000
 
     build.network <- function( n.nodos, n.enlaces ){
@@ -124,7 +124,7 @@ La siguiente figura ilustra la situación:
 En ella se representa el término de la izquierda,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 curve( I, 0, 1, xlab = "", ylab = "" )
 {{< / highlight >}}
 
@@ -132,7 +132,7 @@ curve( I, 0, 1, xlab = "", ylab = "" )
 como una línea negra sólida y luego el término de la derecha con los valores _z_ = 2
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 curve( 1 - exp( - 2 * x), add = T, lty = 2 )
 {{< / highlight >}}
 
@@ -140,7 +140,7 @@ curve( 1 - exp( - 2 * x), add = T, lty = 2 )
 y _z_ = 0.5
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 curve( 1 - exp( - 0.5 * x), add = T, lty = 2 )
 {{< / highlight >}}
 
@@ -150,7 +150,7 @@ con líneas punteadas. Como podrá comprobar quién aún se derivan funciones, l
 En resumen, cuando _z_ < 1 no existe componente gigante y la red es una especie de sopa de letras. Pero si _z_ > 1, aparece una supercomponente que contiene un porcentaje de los nodos dado por la solución de la ecuación anterior. Raíz que puede obtenerse con R así:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 foo.optim <- function( x, z = 3 ) ( x - 1 + exp( -z * x) )**2
 optimize( foo.optim, z = 2, interval = c(0,1))$minimum
 optimize( foo.optim, z = 1.5, interval = c(0,1))$minimum
@@ -162,7 +162,7 @@ Para terminar esta larga entrada, vamos a ver si podemos fiarnos o no de Erdös.
 Para eso vamos a crear muchas redes aleatorias con distintos valores de _z_ y calcular el tamaño de la componente más grande para después compararlo con el calculado teóricamente. Y efectivamente, corriendo
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( igraph )
 
 prop.giant.component <- function( z, n.nodos = 1000 ){

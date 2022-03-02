@@ -25,20 +25,20 @@ Centrémonos en (B), sabiendo que, por simetría, lo que cuento se aplica tambi�
 
 Supongamos que tenemos dos grupos, cada uno de ellos de
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 1000000
 {{< / highlight >}}
 
 personas para estar en las asíntotas que aman los frecuentistas. Estos grupos tienen distribuciones distintas de un factor de riesgo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 p.group.1 <- rbeta(n, 3, 2)
 p.group.2 <- rbeta(n, 2, 3)
 {{< / highlight >}}
 
 y se observan
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 y.group.1 <- sapply(p.group.1, function(p) rbinom(1, 1, p))
 y.group.2 <- sapply(p.group.2, function(p) rbinom(1, 1, p))
 {{< / highlight >}}
@@ -48,7 +48,7 @@ Construimos un modelo perfecto, que a cada sujeto le asigne exactamente su proba
 Por otro lado, la clase negativa a la que se refiere (B) son los sujetos para los que `y = 0`. Para ser _justo_, debería suceder que
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mean(p.group.1[y.group.1 == 0])
 mean(p.group.2[y.group.2 == 0])
 {{< / highlight >}}

@@ -30,7 +30,7 @@ Y por entretenerme, traté de generarlo con R. Y creo que de una manera algo má
 
 El código es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # funciones auxiliares
 
 rotar <- function( x, rads ){

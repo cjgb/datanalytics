@@ -22,7 +22,7 @@ Decidí comprobar si esta tarea que una instalación de Teradata de varios millo
 
 Tras algunas modificaciones en los datos (cambios de tipos y nombres de las columnas, etc.) obtuve dos _dataframes_:
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
 > head(epi)
     cta prtda
 1 8301 77920
@@ -36,7 +36,7 @@ Tras algunas modificaciones en los datos (cambios de tipos y nombres de las colu
 
 de 150.000 filas que asigna a cada cuenta, `cta`, una serie de partidas, `prtda`, y
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
 > head( saldos )
  fec cta ofi
 [1,]   1   4  40
@@ -51,7 +51,7 @@ de 12 millones de filas que para cada fecha, fec, y oficina, ofi, lista los corr
 
 Estas tablas cruzan por el campo cta, cuenta. A cada cuenta le corresponde una partida y el objetivo final era saber para cada fecha (fec), cuántas combinaciones de oficina (ofi) y partida existían. Un `merge` directo requería más memoria de la disponible, así que fabriqué el cruce a mano mediante el siguiente código:
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
 foo <- function( prtda ){
     tmp <- epi$cta[ epi$prtda == prtda ]
     unique(subset(saldos, cta %in% tmp, select = c(fec, ofi)))
@@ -74,7 +74,7 @@ Para implementar correctamente el algoritmo de los bucles anidados uno debe reco
 
 En R no hay índices y, de hecho, casi todo el tiempo de ejecución se consume en
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
     subset(saldos, cta %in% tmp, select = 1:2)
 {{< / highlight >}}
 
@@ -87,7 +87,7 @@ Aunque esas operaciones son muy rápidas para tablas pequeñas (para las que R f
 
 Pero el paquete data.table enriquece R con una nueva estructura de datos, las data.tables, que vienen a ser data.frames indexados. Usando dicho paquete, se puede hacer
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
 saldos <- data.table( saldos )
 setkey( saldos, cta )
 foo <- function( prtda ){
@@ -99,7 +99,7 @@ foo <- function( prtda ){
 
 La primera línea transforma saldos de un data.frame en un data.table. La segunda, lo indexa por la columna cta. La única diferencia en la función es que para filtrar por tmp se utiliza la expresión
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
 saldos[ J(tmp), j = c( "fec", "ofi" ), mult = "all", with = FALSE ]
 {{< / highlight >}}
 
@@ -107,7 +107,7 @@ que busca en saldos utilizando el índice sobre cta. El porqué de esta sintaxis
 
 Los tiempos de ejecución para la primera alternativa son de
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
 > system.time( kk <- sapply( unique( epi$prtda ), foo, simplify = F ) )
  user  system elapsed
 5566.15  873.94 7088.15
@@ -115,7 +115,7 @@ Los tiempos de ejecución para la primera alternativa son de
 
 mientras que para la segunda quedan en:
 
-{{< highlight go "linenos=true" >}}
+{{< highlight R >}}
 > system.time( tmp <- sapply( unique( epi$prtda ), foo, simplify = F ) )
  user  system elapsed
     994.96   18.63 1776.70

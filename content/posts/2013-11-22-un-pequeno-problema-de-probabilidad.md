@@ -21,7 +21,7 @@ El _tuit_
 
 de John Allen Paulos me indujo a escribir
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 number.numbers <- function(n){
   sum(cumsum(sample(0:n)) < n) + 1
 }

@@ -18,7 +18,7 @@ Durante la [charla de Carlos Ortega del pasado jueves sobre el paquete `caret` y
 
 Cuando un determinado algoritmo depende de, p.e., cuatro parámetros, se puede definir una rejilla como en
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 gbmGrid <-  expand.grid(interaction.depth = c(1, 5, 9),
       n.trees = (1:30)*50,
       shrinkage = 0.1,
@@ -29,7 +29,7 @@ y `caret` se encarga de ajustar el modelo bajo todas esas combinaciones de pará
 
 Jorge Ayuso me planteó la siguiente pregunta: ¿cabría, en lugar de recorrer todas las combinaciones, utilizar un algoritmo de optimización que encontrase un óptimo en el espacio 4-dimensional de parámetros? En principio, la idea es sugerente, aunque está sujeta a dos consideraciones. La primera, pesimista, que el error que se quiere minimizar está sujeto a error. No es un valor fijo como cuando uno quiere maximizar $latex f(x)=x^2$. De hecho, la salida de `caret` es de la forma
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 interaction.depth  n.trees  Accuracy   Kappa      Accuracy SD  Kappa SD
 1                   50      0.7705490  0.5350650  0.10073946   0.2037707
 1                  100      0.7944632  0.5835422  0.09419873   0.1914364

@@ -47,10 +47,10 @@ utilizar `stop()` para generar mensajes de error
 
 * **Nombres de ficheros.** Los nombres de ficheros deben tener la extensión `.R` y, por supuesto, ser significativos.
 
-{{< highlight R "linenos=true" >}}
-# BIEN: 
+{{< highlight R >}}
+# BIEN:
 predict_ad_revenue.R
-# MAL: 
+# MAL:
 foo.R
 {{< / highlight >}}
 
@@ -60,35 +60,35 @@ foo.R
   * los nombres de funciones deben ser palabras con su primera letra en mayúsculas y, las demás, en minúsculas y no se usarán puntos para separarlas (ejemplo: CapWords);
   * para las constantes se seguirá la misma convención que para las funciones aunque se utilizará el prefijo `k`.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # nombres de variables
-# BIEN: 
+# BIEN:
 avg.clicks
 
-# MAL: 
+# MAL:
 avg_Clicks
 avgClicks
 
 # nombres de funciones
-# BIEN: 
+# BIEN:
 CalculateAvgClicks
 
-# MAL: 
+# MAL:
 calculate_avg_clicks
 calculateAvgClicks`
 {{< / highlight >}}
 
-* Usa verbos como nombres de funciones. _Excepción: al trabajar con objetos, el nombre de la función (constructor) y la clase deben coincidir (p.e., lm)._  
+* Usa verbos como nombres de funciones. _Excepción: al trabajar con objetos, el nombre de la función (constructor) y la clase deben coincidir (p.e., lm)._
 
 
-### Sintaxis 
+### Sintaxis
 
 * **Longitud de línea:** No más de 80 caracteres.
 * **Indentación:** Usar dos espacios para indentar. Nunca mezclar espacios y tabuladores. _Excepción: cuando la línea se corte dentro de unos paréntesis, hay que alinear la línea siguiente con el primer caracter dentro del los paréntesis._
 * **Espaciado:** Usar espacios alrededor de todos los operadores binarios (`=`, `+`, `-`, `<-`, etc.). _Excepción: los espacios alrededor de `=` son opcionales en las llamadas a una función._
 * Usar espacios siempre después de las comas, pero nunca antes de ellas.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # BIEN:
 
 tabPrior <- table(df[df$daysFromOpt < 0, "campaignid"])
@@ -107,17 +107,17 @@ total <- sum(x[ ,1])  # Necesita un espacio después de la coma, no antes<
 
 * Usa un espacio delante del paréntesis izquierdo, salvo en llamadas a funciones.
 
-{{< highlight R "linenos=true" >}}
-# BIEN: 
+{{< highlight R >}}
+# BIEN:
 if (debug) ...
 
-# MAL: 
+# MAL:
 if(debug) ...
 {{< / highlight >}}
 
 * El espacio adicional en una línea (más de uno en una fila) es permisible si mejora la alineación del código.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 plot(x    = xCoord,
       y    = dataMat[, makeColName(metric, ptiles[1], "roiOpt")],
       ylim = ylim,
@@ -129,7 +129,7 @@ plot(x    = xCoord,
 
 * No usar espacios alrededor de código en paréntesis o corchetes. _Excepción: Usar espacio siempre antes de una coma._
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # BIEN:
 
 if (debug)
@@ -144,7 +144,7 @@ x[1,]  # Hace falta un espacio tras la coma</code>
 
 * **Llaves.** Una llave nunca se abre en una línea nueva; sin embargo, siempre se cierran en una línea nueva.Las llaves pueden omitirse cuando encierren una única expresión; sin embargo, esta regla debe seguirse de manera _consistente_.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     if (is.null(ylim)) {
       ylim <- c(0, 0.06)
     }
@@ -152,14 +152,14 @@ x[1,]  # Hace falta un espacio tras la coma</code>
 
 xor (no los dos a la vez)
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     if (is.null(ylim))
       ylim <- c(0, 0.06)
 {{< / highlight >}}
 
 * Hay que comenzar el cuerpo de un nuevo bloque en una línea nueva.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # MAL:
 
 if (is.null(ylim))
@@ -171,10 +171,10 @@ if (is.null(ylim))
 
 * **Asignaciones:** Usar `<-`, no `=`, para realizar asignaciones.
 
-{{< highlight R "linenos=true" >}}
-# BIEN: 
+{{< highlight R >}}
+# BIEN:
 x <- 5
-# MAL: 
+# MAL:
 x = 5
 {{< / highlight >}}
 
@@ -196,7 +196,7 @@ x = 5
 
 * **Comentarios.** Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de éste por dos espacios, un `#` y un espacio más.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # Crear histograma de frecuencias de campañas según porcentaje del presupuesto
 hist(df$pctSpent,
       breaks = "scott",  # método para elegir el número de buckets
@@ -212,7 +212,7 @@ hist(df$pctSpent,
     * En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneas sólo deben separar asignaciones.
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # BIEN:
 
 PredictCTR <- function(query, property, numDays,
@@ -220,15 +220,15 @@ PredictCTR <- function(query, property, numDays,
 
 # MAL:
 
-PredictCTR <- function(query, property, numDays, showPlot = 
+PredictCTR <- function(query, property, numDays, showPlot =
   TRUE)
 {{< / highlight >}}
-	    
+
 * **Documentación de funciones.** Las funciones deberían tener una sección de comentarios inmediatamente debajo de la línea de definición de la función. Tales comentarios deberían consistir en una frase que definiese la función, una lista de los argumentos de la función precedida por `Args:` con una descripción de cada uno de ellos, incluido su tipo y una descripción del valor devuelto por la función precedido por `Returns:`. Los comentarios deberían ser lo suficientemente descriptivos como para que un usuario pudiera utilizar la función sin tener que leer su código.
 
 * **Ejemplo de función**
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
   # Computes the sample covariance between two vectors.
   #
@@ -276,7 +276,7 @@ CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
 ### Excepciones
 
 Las convenciones expresadas más arriba deberían ser seguidas de no haber un buen motivo para seguir otro criterio: por ejemplo, al usar código antiguo o de terceras partes.
-	  
+
 ### Consideraciones finales
 
 * Usa el sentido común y SÉ CONSISTENTE.
@@ -285,14 +285,14 @@ Las convenciones expresadas más arriba deberían ser seguidas de no haber un bu
 * El objetivo de tener un código de estilo es el usar un vocabulario común para poder concentrarse en lo que estás diciendo más que en cómo lo estás diciendo.
 * Al presentar unas reglas globales de estilo intentamos que se use un vocabulario común. Pero el estilo local es importante. Si el código que añades a un fichero sigue una convención distinta, la discontinuidad provocará el rechazo de quienes lo hereden. Trata de evitar eso.
 * Bien, y una vez finalizada la tarea sobre cómo escribir código, podemos comenzar a escribirlo, que es mucho más interesante. ¡Disfrutémoslo!
-	  
+
 ### Referencias
 
 * [R Coding Conventions](http://www.maths.lth.se/help/R/RCC/)
 * [Para usuarios de emacs](http://ess.r-project.org/)
 * [Guía de estilo de R de Google](https://google.github.io/styleguide/Rguide.xml) (en inglés)
 
-### Notas 
+### Notas
 
 Esta guía de estilo de R es una traducción literal de [la de Google](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.
 

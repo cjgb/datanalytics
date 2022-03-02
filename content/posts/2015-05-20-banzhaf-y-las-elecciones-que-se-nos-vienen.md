@@ -19,7 +19,7 @@ Es pertinente rescatar una entrada de hace tres años [sobre D’Hondt y Banzhaf
 
 Me limitaré a actualizar el código de la función para que muestre las alianzas (algunas enteramente esperpénticas) posibles, que queda de la forma
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 banzhaf <- function(x){
   x <- -sort(-x)
   x <- x/sum(x)
@@ -48,7 +48,7 @@ y a aplicarlo sobre algunos casos de la más rabiosa actualidad que [Leda Duelo]
 
 Para las elecciones de marzo de 2015 en Andalucía, queda:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 escannos <- c(47,33,15,9,5)
 names(escannos) <- c( "psoe", "pp", "podemos", "ciudadanos", "iulv")
 banzhaf( escannos )
@@ -73,7 +73,7 @@ banzhaf( escannos )
 De acuerdo con alguna de esas encuestas sobre los resultados para el ayuntamiento de Madrid que van a ser papel mojado en unos días,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 escannos <- c(22,14,11,10)
 names(escannos) <- c( "PP", "AM", "PSOE", "Ciudadanos")
 banzhaf(escannos)
@@ -100,7 +100,7 @@ Nota para mis lectores de dentro de unos años a los que tal vez ya no suenen la
 Finalmente, usando datos de otras encuestas para Barcelona, tenemos
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 escannos <- c(10,9,6,5,5,5,2)
 names(escannos) <- c( "Ciu", "Bcomun", "Ciudadanos", "PSC", "PP", "ERC", "CUP")
 banzhaf(escannos)

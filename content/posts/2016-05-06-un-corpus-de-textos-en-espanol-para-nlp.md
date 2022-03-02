@@ -27,7 +27,7 @@ Necesito una colección de textos en español con ciertas características:
 Así que he decidido poner en valor otra de esas onerosas reliquias de la cultura analógica y de letras que es el Museo Thyssen; en particular, las descripciones que constan en las fichas de los cuadros. De hecho, corriendo esto:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(RCurl)
 library(XML)
 library(stringi)

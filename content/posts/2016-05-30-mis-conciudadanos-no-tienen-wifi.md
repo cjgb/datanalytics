@@ -17,7 +17,7 @@ tags:
 
 A alguien leí el otro día que decía que en un bar de carretera habían colocado un cartel diciendo: "Hemos quitado el periódico y hemos puesto wifi". Viene esto a cuento de
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(<a href="http://inside-r.org/packages/cran/tm">tm)
 library(wordcloud)

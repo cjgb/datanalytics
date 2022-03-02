@@ -22,7 +22,7 @@ Imaginemos un banco que construye modelos para determinar si se concede o no un 
 Esa restricción impediría potencialmente usar modelos de caja negra como el que construyo a continuación:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(randomForest)
 
 raw <- read.table("http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data",
@@ -37,7 +37,7 @@ modelo <- randomForest(V16 ~ ., data = dat)
 
 Fijémonos en el sujeto `100`, a quien se le deniega el crédito (suponiendo, ¡mal hecho!, que el punto de corte de la probabilidad para concederlo es el 50%), y la variable $V8$. Podemos ver cuál sería el _score_ del cliente modificando esa variable entre su valor real y el máximo del rango dejando las demás tal cual:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 20
 tmp <- dat[100,]
 tmp <- tmp[rep(1, n),]

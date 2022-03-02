@@ -16,7 +16,7 @@ tags:
 
 Hoy voy a hacer mención a una cosa prodigiosa. Pero sin palabras. Voy a regalar a mis lectores tres pedazos de código que son este
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 jugar <- function( n, make.step ){
   tmp <- rep( 0L, n)
   for( i in 2:n )
@@ -35,7 +35,7 @@ fivenum( res.juego.s )
 
 este
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 juego.c <- function( x ){
   prob.perder <- ifelse( x %% 3 == 0, 0.905, 0.255 )
   juego.s( x, prob.perder )
@@ -49,7 +49,7 @@ fivenum( res.juego.c )
 
 y este otro
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 juego.fin <- function( x ){
   sample( c( juego.c, juego.s), 1 )[[1]](x)
 }

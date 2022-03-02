@@ -23,7 +23,7 @@ responde a [mi entrada de la semana pasada](https://www.datanalytics.com/2017/04
 
 El código, con mínimas modificaciones mías (para automatizar la descarga de los datos) es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pxR)
 library(dplyr)
 library(tidyr)

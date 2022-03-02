@@ -15,7 +15,7 @@ tags:
 
 Dentro de unos días voy a hablar de [estadística bayesiana](http://www.datanalytics.com/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/) en [Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/). Plantearé una distribución _a priori_ muy poco informativa:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 alfa ~ gamma(10, 1);
 beta ~ gamma(10, 1);
 {{< / highlight >}}

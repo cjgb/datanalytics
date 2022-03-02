@@ -20,7 +20,7 @@ Contexto (disfrazado). Hay usuarios que tienen correos electrónicos. La relaci�
 
 No puedo compartir los datos aquí, pero sí un poco de código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(igraph)
 
 # creo el grafo

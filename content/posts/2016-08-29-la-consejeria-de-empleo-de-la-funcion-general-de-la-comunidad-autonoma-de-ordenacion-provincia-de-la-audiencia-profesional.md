@@ -19,7 +19,7 @@ Ese es el nombre agramatical de una nueva consejería pergeñada por una red neu
 
 El código, adaptado de [aquí](http://mxnet.readthedocs.io/en/latest/packages/r/CharRnnModel.html) y sustancialmente mejorado, es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(mxnet)
 
 batch.size     <- 32

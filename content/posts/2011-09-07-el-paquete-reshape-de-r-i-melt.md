@@ -25,7 +25,7 @@ Es decir, toma un `data.frame` y lo _funde_ (¡dejaré de ser amigo de quien pro
 He aquí unos ejemplos:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(reshape)
 iris.m <- melt(iris)
 iris.m
@@ -35,7 +35,7 @@ iris.m
 Nótese cómo `melt` es inteligente y no necesita (en muchas ocasiones) que se le especifiquen cosas evidentes. De hecho, la expresión anterior es equivalente a las siguientes:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 iris.m <- melt( iris, id.vars = "Species" )
 iris.m <- melt( iris, id.vars = 5 )
 iris.m <- melt( iris, id.vars = "Species", measure.vars = 1:4 )
@@ -46,7 +46,7 @@ iris.m <- melt( iris, id.vars = 5, measure.vars = 1:4 )
 Un ejemplo un poco más sofisticado es el siguiente:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( plm )
 data( Produc )
 produc.m <- melt( Produc )
@@ -57,7 +57,7 @@ produc.m
 Que no produce los efectos deseados. Más bien, queremos
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 produc.m <- melt(Produc, id = c("state", "year") )
 produc.m
 {{< / highlight >}}

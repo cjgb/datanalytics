@@ -28,7 +28,7 @@ El fenómeno no es solo español: consúltese [este estudio sueco](https://ikash
 
 El código, salvo la descarga de los datos del INE (a ver si la próxima vez uso la [API JSON](http://www.ine.es/dyngs/DataLab/es/manual.html?&cid=45), que para eso está), aquí:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(pxR)
 library(ggplot2)
 library(reshape2)

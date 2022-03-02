@@ -18,7 +18,7 @@ El tema que sigue a tan críptico introito es el de las _queries_ recursivas, qu
 
 Comenzaremos, como abreboca, calculando el factorial de un número mediante una _query_ recursiva.
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 with recursive factorial as (
     select 1 as n, 1 as fact
         union all
@@ -36,7 +36,7 @@ La última línea de la _query_ es simple: toma todo lo que lo precede como una 
 
 Una cláusula with permite definir una tabla temporal que se usa al vuelo en una consulta subsiguiente. Es mero [azúcar sintáctico](http://es.wikipedia.org/wiki/Azúcar_sintáctica) para simplificar la construcción de _queries_ complejas. Un ejemplo trivial es:
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 with tabla_temporal as ( select 1 as valor )
 select * from tabla_temporal;
 {{< / highlight >}}
@@ -107,7 +107,7 @@ La tabla anterior puede contener sólo la relación directa: el ala izquierda "e
 
 La _query_
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 with recursive tmp(cod_padre, cod_hijo) as (
     select
         cod_padre, cod_hijo

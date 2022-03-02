@@ -19,7 +19,7 @@ Me llegan noticias de una pobre señora que, se conoce, tiene un blog en el que 
 
 Vamos, que no cree en R y que, además, esa idea suya le parece la más obvia del mundo. Para apoyar su argumento, muestra el siguiente ejemplo de código en R, supuestamente muy feo (más, de hecho de lo que se imagina):
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a<--0.45
 sigma<-0.00000
 y<-a*x+xnorm*sigma

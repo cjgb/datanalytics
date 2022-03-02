@@ -22,7 +22,7 @@ He perdido el rato comparando la ley de reutilización de datos del sector públ
 
 La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detectar diferencias entre ambas. El código que sigue implementa la siguiente idea: descargar el texto de ambas normas, tabular las palabras y estudiar (vía `prop.test`) cuáles aparecen con distinta frecuencia en ambos textos:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     library(XML)
     library(<a href="http://inside-r.org/packages/cran/tm">tm)
 

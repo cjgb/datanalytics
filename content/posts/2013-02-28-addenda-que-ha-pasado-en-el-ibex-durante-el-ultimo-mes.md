@@ -24,7 +24,7 @@ Abundando en el tema de ayer, ahora, los mismos datos representados con mapas de
 
 Para obtenerlo, a lo que ya teníamos basta añadirle:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(gplots)
 heatmap.2(
     as.matrix(ibex.scaled),

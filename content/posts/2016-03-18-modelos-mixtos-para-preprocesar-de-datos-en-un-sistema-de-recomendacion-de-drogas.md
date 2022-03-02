@@ -26,7 +26,7 @@ extraído de la página enlazada más arriba resume parte de los resultados. No 
 
 [Aquí](https://matloff.wordpress.com/2015/11/15/partools-recommender-systems-and-more/) y en sus enlaces se habla de una manera más sofisticada de corregir ese sesgo: modelos mixtos. Tales como
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(xlsx)
 library(reshape2)
 library(lme4)

@@ -18,7 +18,7 @@ O tal dice lo que expongo a continuación.
 
 Paquetes necesarios:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(caRtociudad)
 library(reshape2)
@@ -31,7 +31,7 @@ library(TSP)
 Extracción de las provincias y sus capitales (de la Wikipedia):
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 capitales <- read_html("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n")
 capitales <- html_nodes(capitales, "table")
 capitales <- html_table(capitales[[1]])$Ciudad
@@ -48,7 +48,7 @@ capitales <- capitales[!capitales %in%
 Y sus coordenadas:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 coordenadas <- ldply(capitales, function(x) {
     tmp <- cartociudad_geocode(x)[1,]
     res <- data.frame(ciudad = x, provincia = tmp$province, lat = tmp$latitude, lon = tmp$longitude)
@@ -70,7 +70,7 @@ coordenadas$lon[coordenadas$ciudad == "Logroño"] <- coords.logrono$lon
 Construcción de la matriz simétrica de distancias (¡tarda un buen rato!):
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 distancias <- expand.grid(desde = capitales, hasta = capitales)
 distancias$desde <- as.character(distancias$desde)
 distancias$hasta <- as.character(distancias$hasta)
@@ -106,7 +106,7 @@ diag(distancias.capitales) <- 0
 La [magia](https://cran.r-project.org/web/packages/TSP/vignettes/TSP.pdf):
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 distancias.capitales <- TSP(
   distancias.capitales,
   labels = colnames(distancias.capitales))
@@ -117,7 +117,7 @@ res <- solve_TSP(distancias.capitales)
 Y el remate,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 trazar.ruta <- function(ruta){
   ruta.coordenadas <- data.frame(desde = ruta[-length(ruta)], hasta = ruta[-1])
   desde.coordenadas <- coordenadas[match(ruta.coordenadas$desde, coordenadas$ciudad),]

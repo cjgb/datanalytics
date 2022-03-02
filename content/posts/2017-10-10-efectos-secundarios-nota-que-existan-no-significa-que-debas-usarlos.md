@@ -18,7 +18,7 @@ Una función no debería cambiar nada de cuanto la rodea. Debería devolver algo
 
 R deja que los usuarios se disparen en el pie permitiendo hacer cosas tan peligrosas como:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a <- new.env()
 
 a$1     # error

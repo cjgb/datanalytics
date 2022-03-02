@@ -15,7 +15,7 @@ tags:
 - stan
 ---
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 y <- c(rnorm(1000), rnorm(2000, 1, 0.5))
 {{< / highlight >}}
 
@@ -24,7 +24,7 @@ es una mezcla de dos normales (N(0, 1) y N(1, 0.5)) con pesos 1/3 y 2/3 respecti
 Se puede usar, p.e., [`flexmix`](https://cran.r-project.org/web/packages/flexmix/index.html), que implementa eso del EM. Pero en el librillo de este maestrillo dice
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 
 y <- c(rnorm(1000), rnorm(2000, 1, 0.5))

@@ -19,7 +19,7 @@ El código usado en
 
 es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(reshape2)
 library(ggplot2)
 library(plyr)

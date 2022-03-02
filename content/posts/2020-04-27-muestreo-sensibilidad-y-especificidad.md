@@ -17,7 +17,7 @@ tags:
 
 El bloque de código
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n_pop <- 47e6
 prev <- .02
 n_muestra <- 60e3
@@ -40,7 +40,7 @@ supongo que para que dentro de unos años, cuando ya a nadie le importe, se publ
 
 Allende las pullas, simulemos por ver qué ocurre:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 pop <- rep(0, n_pop)
 pop[1:round(n_pop * prev)] <- 1
 

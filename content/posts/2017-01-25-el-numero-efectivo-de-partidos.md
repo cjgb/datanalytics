@@ -30,7 +30,7 @@ Aplicada a España (usando datos del CIS como _proxy_),
 
 Como casi siempre, el código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rvest)
 library(rvest)
 library(reshape2)

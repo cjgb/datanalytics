@@ -26,7 +26,7 @@ Y paso a describir el problema de hoy (en Teradata, por centrar ideas). En prime
 
 El objetivo es cruzar **A**, **b** y **c** para después agregar por ciertos campos de **A** y **c**. Veamos la _query_ (simplificada en extremo):
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 select
      A.c1, A.c2, c.c3, c.c4, sum( A.c5 ) as c5
 from
@@ -50,7 +50,7 @@ Quoi faire?
 
 Existe un ardid, un ardid universal, un ardid ladino, que merece ser anotado en la primera página de todos los vademécums de ardides y que consiste en reescribir así la _query_:
 
-{{< highlight sql "linenos=true" >}}
+{{< highlight sql >}}
 select
      A.c1, A.c2, c.c3, c.c4, sum( A.c5 ) as c5
 from

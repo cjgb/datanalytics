@@ -19,7 +19,7 @@ tags:
 
 Una pregunta reciente en [r-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es) se refería a la comparación en R de las proporciones en tres grupos. Obviando algunas pequeñas complicaciones en el problema, la respuesta canónica podría ser esta:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 total <- c(56, 49,51)
 positivos <- c(14, 10, 17)
 prop.test(tmp$positivos, tmp$positivos + tmp$negativos)
@@ -38,7 +38,7 @@ Los grupos no parecen ser desiguales.
 
 Tengo la sospecha de que gran parte de lo que se enseña como pruebas estadísticas podría subsumirse en el estudio de modelos. Por ejemplo, así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 tmp <- data.frame(positivos = positivos,
         negativos = total - positivos,
         grupos = grupos)
@@ -64,7 +64,7 @@ La comparación de los dos modelos nos indica que la variable `grupos` no parece
 Además,
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(effects)
 effects <- Effect("grupos", mod.1)
 plot(effects)

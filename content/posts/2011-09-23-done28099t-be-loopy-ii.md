@@ -30,7 +30,7 @@ El código en SAS es el siguiente:
 
 
 
-{{< highlight sas "linenos=true" >}}
+{{< highlight sas >}}
 /* 0: data creation */
 data temp1;
     x=1; y=45; output;
@@ -107,7 +107,7 @@ Ofrezco dos alternativas sustancialmente más sucintas en R. La primera es una r
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
     x <- 2:29
     y <- 3 * x + 6 * rnorm( length(x) )
     x <- c( 1, x, 30 )
@@ -142,7 +142,7 @@ El segundo utiliza el paquete `boot`,
 
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library( boot )
 
 datos <- data.frame( y = yhat, x = x, res = res )

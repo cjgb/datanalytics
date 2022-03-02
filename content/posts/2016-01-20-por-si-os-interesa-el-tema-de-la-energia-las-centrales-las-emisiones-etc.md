@@ -21,7 +21,7 @@ Esta entrada será del interés de a quien le atraigan dos temas bastante indepe
 
 Allá va el código
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(SPARQL)
 library(ggplot2)
 

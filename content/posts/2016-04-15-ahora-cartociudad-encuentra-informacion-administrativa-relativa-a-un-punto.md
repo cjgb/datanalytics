@@ -16,7 +16,7 @@ tags:
 
 Y lo hace así:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(caRtociudad)
 get_cartociudad_location_info(40.473219,-3.7227241, year = 2015)
 # $seccion

@@ -24,7 +24,7 @@ Y he pensado que tal vez podría hacer una virguería con R.
 
 Así que he escrito lo siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rjson)
 
 # tmp <- readLines("http://www.zaragoza.es/trafico/estado/tramos23030.json")
@@ -78,7 +78,7 @@ Que da como resultado (a la hora en la que lo he ejecutado, cuando los zaragozan
 Pero me ha sabido a poco y he querido hacerlo todavía más a lo maño. Así que he añadido
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(OpenStreetMap)
 
 map <- openmap(c(max(tmp$lat), min(tmp$lon)), c(min(tmp$lat), max(tmp$lon)), type = "osm")

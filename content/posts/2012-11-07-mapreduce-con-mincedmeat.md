@@ -27,13 +27,13 @@ El objetivo es contar, para cada autor, las palabras que aparecen en el título 
 
 Si uno ejecuta en su _servidor central_
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 carlos@tiramisu:~/curso_dm/prog_03/src$ python wrdcount_mincemeat.py
 {{< / highlight >}}
 
 este quedará esperando a que otras máquinas se ofrezcan a trabajar en el proyecto. En mi caso, que trabajo sólo en una, puedo lanzar en varias sesiones
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 carlos@tiramisu:~/curso_dm/prog_03/src$ python mincemeat.py -p changeme localhost
 {{< / highlight >}}
 
@@ -43,7 +43,7 @@ En cualquier caso, las otras sesiones que lanzo (en la misma u otra máquina) re
 
 En `wrdcount_mincemeat.py` se definen dos funciones, `mapfn` y `reducefn` que son las que ejecutan los _mapeadores_ y los _reductores_, es decir, las sesiones a las que el servidor central asignan tareas, y que son en este caso
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 def mapfn( key, value ):
 
 import re, string
@@ -65,7 +65,7 @@ for line in value.splitlines():
 
 y
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 def reducefn(key, value):
         return key, len(value)
 {{< / highlight >}}
@@ -73,7 +73,7 @@ def reducefn(key, value):
 respectivamente. El resto del código en `wrdcount_mincemeat.py` se reduce a leer los ficheros de entrada,
 
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 text_files = glob.glob( "../hw3data/*")
 
 def file_contents(file_name):
@@ -88,7 +88,7 @@ source = dict((file_name, file_contents(file_name)) for file_name in text_files)
 
 en un _diccionario_ (algo tal vez poco eficiente en términos de uso de la memoria) y a declarar un objeto de la clase `Server` y sus métodos `mapfn` y `reducefn` (así como recibir instrucciones sobre qué hacer con la salida del proceso) en
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 s = mincemeat.Server()
 
 # The data source can be any dictionary-like object

@@ -54,7 +54,7 @@ Porque es el que aparece de manera natural cuando las distribuciones subyacentes
 
 Además, es fácil de calcular y admite tratamiento analítico (tiene derivadas continuas, etc.). Pero no debería ser universalmente recetado como método ''urbi et orbi''. Porque, por ejemplo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mean.cauchy <- replicate( 100, mean( rcauchy( 1000 ) ) )
 mean( mean.cauchy )     # 2.9944
 sd( mean.cauchy )       # 30.097

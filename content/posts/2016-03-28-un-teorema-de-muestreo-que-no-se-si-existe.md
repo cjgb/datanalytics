@@ -18,7 +18,7 @@ Imaginemos que queremos muestrear una variable aleatoria cuya función de densid
 
 Supongamos que no sabemos hacer
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 shape <- 3
 rate  <- 3
@@ -27,7 +27,7 @@ m0 <- rgamma(1000, shape = shape, rate = rate)
 
 Pero supongamos que sí que sabemos muestrear la distribución exponencial, lo que permite escribir:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # una muestra de la exponencial
 m1 <- rexp(1e5, rate)
 # asignamos "pesos" de acuerdo con la otra distribución

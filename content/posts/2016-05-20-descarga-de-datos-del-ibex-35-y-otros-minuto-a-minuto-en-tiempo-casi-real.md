@@ -22,7 +22,7 @@ tags:
 
 El código es
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(httr)
 library(plyr)
  

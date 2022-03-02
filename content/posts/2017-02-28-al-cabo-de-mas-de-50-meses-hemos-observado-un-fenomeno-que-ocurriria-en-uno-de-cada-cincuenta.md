@@ -17,7 +17,7 @@ tags:
 
 En efecto,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 mean(rpois(100000, 28 * 60 / 365) >= 10)
 #[1] 0.01964
 {{< / highlight >}}

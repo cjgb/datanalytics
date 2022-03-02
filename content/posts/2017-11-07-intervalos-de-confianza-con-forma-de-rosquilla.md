@@ -24,7 +24,7 @@ Y aquí está:
 
 El modelo, el código y demás,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 library(ggplot2)
 

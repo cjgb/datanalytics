@@ -23,7 +23,7 @@ En cambio, ves el [código (o seudocódigo) del modelo generativo](https://mc-st
 
 Bonus:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 a0 <- .1
 a1 <- .2
 a2 <- .5

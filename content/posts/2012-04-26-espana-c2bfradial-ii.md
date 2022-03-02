@@ -19,14 +19,14 @@ Una de las principales objeciones que se le pueden hacer a mi entrada de ayer es
 
 Así que enviemos una partida de pescado en malas condiciones a Mercamadrid, convidemos a toda la provincia, veámosla fenecer víctima de contumaces diarreas y rehagamos la simulación suponiendo que
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 nodos.alt <- nodos
 nodos.alt$pop[nodos.alt$prov == "Madrid"] <- 0
 {{< / highlight >}}
 
 ¿Qué forma tendría ahora la red? Ejecutando
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 res  <- do.call(rbind, apply(aristas, 1, function(x) peso.tramos(x[1], x[2], g2, nodos.alt)))
 peso <- tapply(res$pop / (res$distancia)^(1), res$tramo, sum)
 
@@ -55,7 +55,7 @@ Esta vez la península se parte en dos reeditando una suerte de _Hispania Tarrac
 
 Si en lugar de esta versión tan extrema su ponemos que Madrid tiene una poblacion _promedio_, es decir,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 nodos.alt <- nodos
 nodos.alt$pop[nodos.alt$prov == "Madrid"] <- median( nodos$pop )
 {{< / highlight >}}
@@ -67,7 +67,7 @@ se obtiene una configuración prácticamente similar:
 
 Y, finalmente, si toda la población está distribuida uniformemente en las provincias, es decir,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 nodos.alt <- nodos
 nodos.alt$pop <- mean( nodos$pop )
 {{< / highlight >}}

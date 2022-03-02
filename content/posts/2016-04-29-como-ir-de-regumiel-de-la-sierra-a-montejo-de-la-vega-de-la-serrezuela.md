@@ -46,7 +46,7 @@ O al menos, eso dice la novísima función `caRtociudad::get_cartociudad_route`.
 El código, como de habitual, aquí:
 
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(caRtociudad)
 
 origen  <- cartociudad_geocode("Regumiel de la Sierra, Soria")

@@ -26,7 +26,7 @@ Sin embargo, la superficie de una [zona esférica ](http://es.wikipedia.org/wiki
 
 Por tanto, es posible muestrear aleatoriamente sobre h (o el rango de h definido por el bb) y para convertir de nuevo esos puntos en grados. El código en R que permite hacer lo anterior es el siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # bb de la península Ibérica
 lat.lims <- c(36, 44)
 lon.lims <- c(-10, 4)

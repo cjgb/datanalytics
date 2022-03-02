@@ -18,7 +18,7 @@ Las circunstancias —frente a las que soy dócil como el que más— me conduce
 
 Dado un número (p.e., 1234), lo podemos descomponer en dos: una potencia de 10 y otro entre 0 y 10:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 n <- 1234     # por ejemplo
 suelo <- floor(log10(n))
 parte.decimal <- log10(n) - suelo

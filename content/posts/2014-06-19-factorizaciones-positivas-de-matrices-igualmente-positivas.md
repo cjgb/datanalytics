@@ -23,7 +23,7 @@ Y no, las matrices positivas, es decir, sin elementos negativos, no son una rare
 
 Al grano. Dada $latex A =(a_{ij})$ donde cada $latex a_{ij} > 0$ es posible encontrar dos matrices $latex W$ y $latex H$ también positivas tales que $latex A \approx WH$. La no demostración por ejemplo y construcción mediante caja negra es la siguiente:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(MASS)
 library(<a href="http://inside-r.org/packages/cran/NMF">NMF)
  

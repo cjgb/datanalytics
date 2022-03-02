@@ -23,7 +23,7 @@ Supongamos también, y esta es la novedad, que no todos los sujetos están expue
 
 Planteemos el problema en R:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 # número de sujetos
 n <- 10000
 
@@ -55,7 +55,7 @@ m.0$coefficients
 
 Adaptando [código ajeno](http://www.npwrc.usgs.gov/resource/birds/nestsurv/download/CreateLogisticExposureFamily.R) a nuestro contexto, podemos escribir:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 logexp <- function(days)
 {
     linkfun <- function(mu) qlogis(mu^(1/days))
@@ -75,7 +75,7 @@ Esta definición de la función de enlace es bastante peculiar: depende del suje
 
 Et voilá:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 m.1 <- glm( y ~ x, family=binomial(logexp(days=dat$days)), data=dat )
 m.1$coefficients
 {{< / highlight >}}

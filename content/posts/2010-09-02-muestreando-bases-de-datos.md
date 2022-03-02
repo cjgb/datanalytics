@@ -40,7 +40,7 @@ El interesado en realizar muestreos de dicha manera, deberían considerar la inf
 
 De todos modos, los que no podemos salir de casa sin [Python](http://www.python.org/) en el _pendrive_ siempre tenemos la opción de volcar las tablas a un fichero de texto y recurrir a una versión del siguiente _script_:
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
   import random
   from sys import argv, exit
   import os

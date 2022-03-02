@@ -25,7 +25,7 @@ Los pasos son los siguientes:
 
 En la consola, ahora, se puede ejecutar:
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 from random import random
 
 def sample(p):

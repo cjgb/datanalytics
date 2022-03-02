@@ -14,14 +14,14 @@ tags:
 
 La función `textConnection `de R es útil para leer el contenido de una variable como si fuese un fichero de texto. Verbigracia,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 zz <- textConnection(LETTERS)
 readLines(zz, 2)
 {{< / highlight >}}
 
 Pero cuando uno hace
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 ?textConnection
 {{< / highlight >}}
 
@@ -33,7 +33,7 @@ Vamos, que desaconseja usar dicha función por motivos de rendimiento cuando no 
 
 Veámoslo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 quijote <- readLines(
   "http://www.gutenberg.org/cache/epub/2000/pg2000.txt",
   encoding = "UTF-8")

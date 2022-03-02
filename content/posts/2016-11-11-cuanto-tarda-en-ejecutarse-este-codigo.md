@@ -16,7 +16,7 @@ tags:
 
 Es:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(future)
 
 plan(multiprocess, workers = 4)

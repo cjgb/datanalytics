@@ -19,7 +19,7 @@ Esas son interacciones _conceptuales_ (la terminología no es mía; luego indica
 
 La función
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 my_prob <- function(x1, x2, a = 0.2, b1 = 1, b2 = -0.5){
   res <- a + b1 * x1 + b2 * x2
   1 / (1 + exp(-res))
@@ -30,7 +30,7 @@ predice la probabilidad de un modelo logístico (hipotético) en el que la varia
 
 El código siguiente muestra las diferencias entre la probabilidad estimada al aumentar variar la variable `x2` de 2 a 3 a distintos niveles (-1, 2 y 5) de la variable `x1`.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 diff(my_prob(-1, c(2, 3)))
 # [1] -0.0507281
 diff(my_prob(2, c(2, 3)))

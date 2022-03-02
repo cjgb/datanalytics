@@ -20,7 +20,7 @@ Busqué en vano solución adecuada. Con `data.table` es posible construir un `ra
 
 Hoy se me ha ocurrido una solución mucho mejor que las anteriores basada en `duplicated` y que resumo aquí:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(data.table)
 
 set.seed(1234)

@@ -29,7 +29,7 @@ Por otro, me he dejado convencer temporalmente de que la [distribución de Burr 
 
 Así que he corrido
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(actuar)
 library(pxR)
 

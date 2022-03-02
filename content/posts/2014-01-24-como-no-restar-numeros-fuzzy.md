@@ -30,7 +30,7 @@ El segundo asunto es [este](https://github.com/Rexamine/FuzzyNumbers), es decir,
 
 De igual manera, podemos decir que la tasa de paro está _alrededor_ del 26%. Así que veamos qué nos pueden ofrecer estos números raros:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(FuzzyNumbers)
 
 A <- TrapezoidalFuzzyNumber(0, 1, 2, 3)

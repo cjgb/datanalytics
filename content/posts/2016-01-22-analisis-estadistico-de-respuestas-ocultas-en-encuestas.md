@@ -25,7 +25,7 @@ $$ \hat{\theta} = \frac{1 - q - \hat{p}}{1 - 2q}.$$
 
 Así,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(12)
 n <- 10000
 unknown.par <- 0.2
@@ -42,7 +42,7 @@ Y todo es estupendo.
 
 ¿Y si queremos intervalos de confianza, etc., del parámetro estimado? Podemos muestrear una $latex B(\hat{p})$ y ver cuál sería la distribución resultante de $latex \theta$:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 muestras <- replicate(1000,
   mean(rbinom(n, 1, unknown.par) == biased.coin))
 muestras <- sapply(muestras, function(x)
@@ -59,7 +59,7 @@ Pero el procedimiento anterior tiene algunos caveats:
 
 Afortunadamente, existe un procedimiento alternativo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 standat <- list(N = n, pcoin = coin.par, x = sum(results))
 

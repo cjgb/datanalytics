@@ -14,7 +14,7 @@ tags:
 
 No. Por ejemplo,
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(155)
 n <- 1000
 

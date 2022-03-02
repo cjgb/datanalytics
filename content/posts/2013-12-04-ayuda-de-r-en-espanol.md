@@ -14,7 +14,7 @@ tags:
 
 He ejecutado hoy tres ficheros secuencialmente:
 
-{{< highlight bash "linenos=true" >}}
+{{< highlight bash >}}
 #!/bin/bash
 
 wget -nd -r -l1 --accept gz https://stat.ethz.ch/pipermail/r-help-es/
@@ -24,7 +24,7 @@ rm *.gz
 
 en sh,
 
-{{< highlight python "linenos=true" >}}
+{{< highlight python >}}
 #!/usr/bin/python
 
 import mailbox
@@ -38,7 +38,7 @@ for message in mailbox.mbox('all_mails'):
 
 en Python y finalmente
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 #!/usr/bin/Rscript
 
 library(zoo)

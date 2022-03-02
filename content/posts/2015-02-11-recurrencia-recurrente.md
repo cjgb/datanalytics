@@ -18,7 +18,7 @@ Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imagi
 
 La respuesta está en la recurrencia. He aquí mi versión del código:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(ggplot2)
 library(gridExtra)
 
