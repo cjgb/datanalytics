@@ -99,3 +99,5 @@ Como se aprecia, $x$ está modelado como lo que es: un vector de parámetros des
 ![](/wp-uploads/2022/03/proxys_bias.png#center)
 
 que, como se dice, nos produce mucho orgullo y satisfacción.
+
+**Coda:** Parece que el problema aquí discutido (¡gracias, [José R. Berrendero](https://twitter.com/JRBerrendero)!) es un caso particular del [_modelo de errores en variables_](https://en.wikipedia.org/wiki/Errors-in-variables_models). En concreto, es una variante en la que las varianzas de los errores ---y esto no sé hasta qué punto es generalizable--- se dan por conocidas. Igual me entretengo investigando hasta qué punto se pueden relajar las hipótesis de partida del modelo y saco una entrada adicional en el futuro.
