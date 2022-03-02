@@ -1,8 +1,8 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-03
+date: 2022-03-02
 title: '"Proxys": error y sesgo en modelos lineales'
-url: /2022/03/03/sistematica-infraestimacion-error-encuestas/
+url: /2022/03/02/sistematica-infraestimacion-error-encuestas/
 categories:
 - estadística
 tags:
@@ -49,7 +49,7 @@ Efectivamente, una manera de sortear el problema planteado por el uso injustific
 
 Primero, voy a generar datos de acuerdo con el esquema anterior. Nótese que también genero $x$ (necesariamente) aunque después, obviamente, no lo usaré en la modelización.
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 set.seed(1234)
 n <- 1000
 x <- rnorm(n)  # unknown data
@@ -64,7 +64,7 @@ y <- beta0+beta1*x + epsilon
 
 Ahora, el modelo:
 
-{{< highlight R "linenos=true" >}}
+{{< highlight R >}}
 library(rstan)
 stan_code <- "
 data {
