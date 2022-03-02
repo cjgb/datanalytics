@@ -18,7 +18,7 @@ El otro día publiqué un [minihilo en Twitter](https://twitter.com/gilbellosta/
  que terminaba con una encuesta. Proponía el siguiente problema:
 
 1. Quiero, abusando del lenguaje, estimar el efecto de $x$ sobre $y$ usando el modelo lineal clásico $y = a_0 + a_1 x + \epsilon_1$.
-2. Pero no puedo medir $x$ con precisión. Solo tengo una medida ruidosa/aproximada de $x$, $z = x + \eta$, donde $η$ es normal, independiente de $\epsilon_1$, etc.
+2. Pero no puedo medir $x$ con precisión. Solo tengo una medida ruidosa/aproximada de $x$, $z = x + \eta$, donde $\eta$ es normal, independiente de $\epsilon_1$, etc.
 3. Uso el modelo $y = b_0 + b_1 z + \epsilon_2$.
 
 La pregunta que planteé consistía en elegir entre las siguientes tres opciones:
