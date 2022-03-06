@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 date: 2022-03-08
 title: Estadística en las ciencias blandas
 url: /2022/03/08/estadistica-ciencias-blandas/
-draft: true
 categories:
 - estadística
 tags:
@@ -13,16 +12,20 @@ tags:
 - r
 ---
 
-Voy a comenzar con una simulación bastante inofensiva:
+Voy a comenzar con una simulación inofensiva,
 
 {{< highlight R >}}
 set.seed(1)
 n <- 10000
+sigma <- .1
 x <- runif(n)
-error <- rnorm(n, 0, .1)
+# coeficientes:
 indep <- -1
 b_0 <- .5
+# variable objetivo:
+error <- rnorm(n, 0, sigma)
 y_0 <- indep + x * b_0 + error
+# modelo:
 modelo_0 <- lm(y_0 ~ x)
 summary(modelo_0)
 {{< / highlight >}}
@@ -41,8 +44,6 @@ Coefficients:
              Estimate Std. Error t value Pr(>|t|)
 (Intercept) -1.001951   0.001967  -509.5   <2e-16 ***
 x            0.500706   0.003398   147.3   <2e-16 ***
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 0.0989 on 9998 degrees of freedom
 Multiple R-squared:  0.6847,	Adjusted R-squared:  0.6846
@@ -100,6 +101,6 @@ donde todo está mal:
 
 Alguno me tachará de injusto porque en su ciencia blandengue particular, en un semestre de cierta optativa del doctorado, dizque se nombran los modelos mixtos (jerárquicos, o como quiera que se den en llamar en la disciplina en cuestión) de pasada, que son precisamente los que aplicarían en este caso. Replicaría que entre los artículos que veo glosados (y sistemáticamente ensalzados) en los blogs que sigo (¿seguía?) de ciencias blandengues, jamás de los jamases veo aplicados esas técnicas. Más bien, las del `modelo_1` anterior, tal vez controlando aquí o allá por alguna variable y poco más. De la variabilidad del efecto, _niente_. Diríase tema tabú.
 
-Cuando dicen "si aplicamos tratamiento X a una población A se obtiene una respuesta Y" hay que pensar siempre que la respuesta de los miembros de la población A no es homogénea y que tal vez, sí, globalmente, en promedio sea Y; pero de ahí a poder...
+Cuando dicen _si aplicamos tratamiento X a una población A se obtiene una respuesta Y_ hay que pensar siempre que la respuesta de los miembros de la población A no es homogénea y que tal vez, sí, globalmente, en promedio sea Y; pero de ahí a poder...
 
 
