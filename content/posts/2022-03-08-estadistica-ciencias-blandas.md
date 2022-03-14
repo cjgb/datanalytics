@@ -10,6 +10,8 @@ tags:
 - mala ciencia
 - modelos mixtos
 - r
+- causalidad
+- efectos heterogéneos
 ---
 
 Voy a comenzar con una simulación inofensiva,
@@ -97,10 +99,17 @@ donde todo está mal:
 * La incertidumbre obviada sobre el coeficiente anterior aflora en el error del modelo en forma de sobreestimación: debería ser .1, pero da .15.
 * La R² se desploma (¿resulta familiar?)
 
-**Comentarios:**
+## Comentarios
 
 Alguno me tachará de injusto porque en su ciencia blandengue particular, en un semestre de cierta optativa del doctorado, dizque se nombran los modelos mixtos (jerárquicos, o como quiera que se den en llamar en la disciplina en cuestión) de pasada, que son precisamente los que aplicarían en este caso. Replicaría que entre los artículos que veo glosados (y sistemáticamente ensalzados) en los blogs que sigo (¿seguía?) de ciencias blandengues, jamás de los jamases veo aplicados esas técnicas. Más bien, las del `modelo_1` anterior, tal vez controlando aquí o allá por alguna variable y poco más. De la variabilidad del efecto, _niente_. Diríase tema tabú.
 
 Cuando dicen _si aplicamos tratamiento X a una población A se obtiene una respuesta Y_ hay que pensar siempre que la respuesta de los miembros de la población A no es homogénea y que tal vez, sí, globalmente, en promedio sea Y; pero de ahí a poder...
+
+## Más comentarios
+
+Después de escrito todo lo anterior he dado con [_Nothing Scales_](https://jasonkerwin.com/nonparibus/2021/11/03/nothing-scales/), un ensayo que trata desde lo concreto el mismo problema que yo abordo desde lo abstracto. Ahí se lee, por ejemplo,
+
+>But trying to analyze this is very rare, which is a disaster for social science research. Good empirical social science almost always focuses on estimating a causal relationship: what is β in Y = α + βX + ϵ? But these relationships are all over the place: there is no underlying β to be estimated! Let’s ignore nonlinearity for a second, and say we are happy with the best linear approximation to the underlying function. The right answer here still potentially differs for every person, and at every point in time.* Your estimate is just some weighted average of a bunch of unit-specific βs, even if you avoid randomized experiments and run some other causal inference approach on the entire population.
+
 
 
