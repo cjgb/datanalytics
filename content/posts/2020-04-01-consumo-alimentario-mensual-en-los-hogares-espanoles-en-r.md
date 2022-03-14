@@ -15,7 +15,7 @@ tags:
 
 [Coge aire: aquí arranca una frase muy larga] Simplemente, que he creado un repositorio en GitHub para extraer información de los ficheros excel y sus muchas pestañas que componen el sistema de difusión de datos estadísticos sobre consumo de alimentos y bebidas de las familias que realiza el ministerio de como se llame ahora.
 
-La página de ministerio es [esta](https://www.mapa.gob.es/es/alimentacion/temas/consumo-y-comercializacion-y-distribucion-alimentaria/panel-de-consumo-alimentario/series-anuales/); el repositorio, [este](https://github.com/cjgb/consumo_mensual_alimentos).
+La página de ministerio es [esta](https://www.mapa.gob.es/es/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/series-anuales/default.aspx); el repositorio, [este](https://github.com/cjgb/consumo_mensual_alimentos).
 
 **Nota:** hay mucha información muy buena que merece ser más conocida y mejor explotada.
 
