@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2022-03-18
 title: 'Diagramas causales hiperbásicos (II): ¿qué significa "controlar por" una variable?'
-url: /2022/03/18/diagramas-causales-hiperbasicos-01-variables-omitidas/
+url: /2022/03/18/diagramas-causales-hiperbasicos-02-controlar-variable/
 categories:
 - estadística
 - causalidad
