@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2022-04-07
-title: "Un experimento físico (y su relación con la causalidad) (II)"
+title: "Doxa, episteme y gnosis: una reinterpretación bayesiana"
 url: /2022/04/07/doxa-episteme-gnosis-interpretacion-bayesiana/
 categories:
 - estadística bayesiana
