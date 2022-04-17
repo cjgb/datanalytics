@@ -12,7 +12,7 @@ categories:
 tags:
 - estadística
 - estimación
-- hipergeométrica
+- distribución hipergeométrica
 - lago
 - peces
 - probabilidad
