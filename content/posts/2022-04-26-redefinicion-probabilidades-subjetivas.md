@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-04-26
 title: 'Probabilidades subjetivas: una redefinición "profesional"'
 description: 'Una redefinición "profesional" del concepto subjetivo de la probabilidad'
-url: /2022/04/26/que-es-seguro/
+url: /2022/04/26/redefinicion-probabilidades-subjetivas/
 categories:
 - probabilidad
 tags:
