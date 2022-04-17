@@ -13,7 +13,7 @@ tags:
 - estadística bayesiana
 - probabilidad
 - fundamentos de probabilidad
-- subjetivismo
+- subjetividad
 ---
 
 Esta entrada es una contestación a

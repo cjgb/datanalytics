@@ -11,7 +11,7 @@ tags:
 - babilonia
 - historia
 - matemáticas
-- tablilla
+- tablillas
 ---
 
 Supongo que en agosto todo vale en prensa. Así [_Solucionado un enigma matemático de 3.700 años_](https://elpais.com/elpais/2017/08/24/ciencia/1503599508_412430.html) y otros del mismo tenor en medios españoles y extranjeros (de algunos de los cuales se espera más). En el que cito dan pábulo a citas como:
