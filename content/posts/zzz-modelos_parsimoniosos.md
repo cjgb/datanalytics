@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2100-12-13
 title: Modelos parsimoniosos como regularización de otros más precisos
 
-url: /asdf/
+url: /asdf1/
 categories:
 - estadística
 - números
@@ -13,7 +13,7 @@ tags:
 - mortalidad
 ---
 
-Una de las fuentes de error en la modelación estadística es el error de modelo. Existe un modelo físico, real y típicamente desconocido que tratamos de aproximar mediante una función más o menos compleja.
+Una de las fuentes más importantes, más desconocida y menos tratada de error en la modelación estadística es, precisamente, el error de modelo. Existe un modelo físico, real y típicamente desconocido que tratamos de aproximar mediante una función más o menos compleja. En tanto que el modelo teórico que planteamos difiere del desconocido, vamos a estar 
 
 Uno de los consejos más añejos en el oficio es el de decantarse por la parsimonia (o simplicidad, o...). Sea $latex M_0$ nuestro candidato parsimonioso. Pero como somos guays, nos tienta usar otros modelos menos parsimoniosos $latex M_i$ (que podemos suponer que extienden $latex M_0$) para luego preguntarnos con cuál quedarnos.
 
