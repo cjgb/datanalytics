@@ -1,22 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2100-12-13
+date: 2022-05-22
 title: Cómo se calcula (vs cómo podría calcularse) la inflación
-
-url: /como-calcula-inflacion/
+description: 'Una propuesta para introducir variabilidad en la estimación de la inflación'
+url: /2022/05/17/causalidad-individualismo-metodologico/
 categories:
 - estadística
 - números
 tags:
 - inflación
-- momo
-- mortalidad
 - ine
+- variabilidad
+- efectos
 ---
 
 En resumidas cuentas, el INE calcula la inflación asi:
 
-1. A partir de la encuesta de presupuestos familiares, crea una "cesta" de productos.
+1. A partir de la encuesta de presupuestos familiares, crea una _cesta típica_ de productos.
 2. A partir de "datos de campo" evalúa la variación de los precios que forman parte de esa cesta de productos.
 
 Comentarios:
@@ -36,21 +36,12 @@ Un procedimiento alternativo para el cálculo del IPC sería:
 * Publicar el correspondiente histograma para la ilustración de todos.
 * Calcular el IPC "publicado" a partir de algún tipo de media adecuadamente ponderada, winsorizada, [ullurizada](http://www.datanalytics.com/...), etc. de esos IPCs particulares.
 
-Ver [esto](http://www.datanalytics.com/2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/)
-
-Ver esto: http://www.datanalytics.com/2020/07/14/sobre-el-efecto-medio/
-
-Más cosas sobre efectos en subgrupos_: /2020/02/06/model4you/ /2020/01/24/estan-los-hogares-preparados-para-una-nueva-recesion/
-
-https://datanalytics.com/2018/09/07/tres-titulares-alternativos-y-un-extracto-de-mala-ciencia/ (último párrafo)
-
-https://datanalytics.com/2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-un-pollo-y-el-otro-no/
-
-/2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/
-
-/2013/04/15/tu-tasa-de-paro-en-medialab-prado/
-
-https://twitter.com/ryancbriggs/status/1478209283242139648
-
-https://statmodeling.stat.columbia.edu/2020/07/13/if-variation-in-effects-is-so-damn-important-and-so-damn-obvious-why-do-we-hear-so-little-about-it/
-https://statmodeling.stat.columbia.edu/2018/11/28/multilevel-models-multiple-comparisons-varying-treatment-effects/
+Permítaseme terminar recopilando una serie de enlaces a estas y otras páginas sobre asuntos relativos a la cuestión de hoy. Primero, sobre la inflación, escribí ya en 2010 en líneas muy parecidas a las de esta entrada
+[aquí](http://www.datanalytics.com/2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/). Luego, sobre la variabilidad de los efectos en subgrupos ya he escrito en varias ocasiones, como
+[aquí](http://www.datanalytics.com/2020/07/14/sobre-el-efecto-medio/),
+[aquí](http://www.datanalytics.com/2020/01/24/estan-los-hogares-preparados-para-una-nueva-recesion/),
+[aquí](http://www.datanalytics.com/2013/04/15/tu-tasa-de-paro-en-medialab-prado/)
+o [aquí](http://www.datanalytics.com/2020/02/06/model4you/)
+y tengo además una colección de artículos ajenos sobre el mismo tema de entre los que destaco
+[este](https://statmodeling.stat.columbia.edu/2020/07/13/if-variation-in-effects-is-so-damn-important-and-so-damn-obvious-why-do-we-hear-so-little-about-it/)
+o [este](https://statmodeling.stat.columbia.edu/2018/11/28/multilevel-models-multiple-comparisons-varying-treatment-effects/).
