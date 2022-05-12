@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-22
+date: 2022-05-17
 title: Cómo se calcula (vs cómo podría calcularse) la inflación
 description: 'Una propuesta para introducir variabilidad en la estimación de la inflación'
 url: /2022/05/17/causalidad-individualismo-metodologico/
