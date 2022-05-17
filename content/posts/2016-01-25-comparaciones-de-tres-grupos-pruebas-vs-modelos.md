@@ -9,7 +9,7 @@ categories:
 - estadística
 - r
 tags:
-- efectos
+- tamaño del efecto
 - estadística
 - modelos
 - prop.test

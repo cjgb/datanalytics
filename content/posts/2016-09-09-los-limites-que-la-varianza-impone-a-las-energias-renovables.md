@@ -27,7 +27,7 @@ about the destabilising power spikes arriving from Germany through international
 
 Incluye, además, inigualables muestras de humor alemán:
 
->_Storing dirty dishes and laundry for months before they would be washed is  theoretically possible, but that would probably involve owning a closet like Paris Hilton's or cupboards as big as that of a Hilton hotel.
+> Storing dirty dishes and laundry for months before they would be washed is  theoretically possible, but that would probably involve owning a closet like Paris Hilton's or cupboards as big as that of a Hilton hotel.
 
 El que sin dejar de ser chistoso parece muy de otras latitudes es que
 

@@ -11,7 +11,7 @@ tags:
 - inflación
 - ine
 - variabilidad
-- efectos
+- efectos heterogéneos
 ---
 
 En resumidas cuentas, el INE calcula la inflación asi:
