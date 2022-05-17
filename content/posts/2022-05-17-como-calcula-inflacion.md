@@ -34,7 +34,7 @@ Un procedimiento alternativo para el cálculo del IPC sería:
 * Tomar las cestas "efectivas" de cada uno de los hogares que forman parte del panel de la encuesta de presupuestos familiares.
 * Calcular el IPC particular para cada una de ellas.
 * Publicar el correspondiente histograma para la ilustración de todos.
-* Calcular el IPC "publicado" a partir de algún tipo de media adecuadamente ponderada, winsorizada, [ullurizada](http://www.datanalytics.com/...), etc. de esos IPCs particulares.
+* Calcular el IPC "publicado" a partir de algún tipo de media adecuadamente ponderada, winsorizada, [ulurizada](2021/11/24/medias-ponderadas-a-lo-uluru/), etc. de esos IPCs particulares.
 
 Permítaseme terminar recopilando una serie de enlaces a estas y otras páginas sobre asuntos relativos a la cuestión de hoy. Primero, sobre la inflación, escribí ya en 2010 en líneas muy parecidas a las de esta entrada
 [aquí](http://www.datanalytics.com/2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/). Luego, sobre la variabilidad de los efectos en subgrupos ya he escrito en varias ocasiones, como
