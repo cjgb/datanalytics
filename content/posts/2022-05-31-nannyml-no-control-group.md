@@ -43,3 +43,7 @@ como un mecanismo para medir el error cometido por los modelos sin usar ningún 
 ### Coda
 
 Admito que el artículo anterior puede tener muchas lecturas. Además, que unas pueden ser más caritativas que otras. Tengo la sospecha ---y resultados experimentales con $n = 1$--- de que busca premeditadamente atraer la atención de gente nueva en la profesión ávida de trucos para evaluar modelos obviando el enojoso trámite del conjunto de control. En el peor de los casos, además, para llevar la contra a otros más sabidos con aquello de que _pues vi en internet que..._. En previsión de tales males y por si puede servir de ayuda a otros, dejo escrito todo lo anterior.
+
+### Nota final
+
+Esta entrada fue motivada por una discusión al respecto con José Luis Cañadas, que escribió su propia _versión de los hechos_ [aquí](https://muestrear-no-es-pecado.netlify.app/2022/05/29/no-mentir-s/). Nos preocupa a ambos el haber contribuido a difundir el conocimiento de esta técnica entre quienes, nos consta, la van a usar mal. Pero, ¿qué se le va a hacer?
