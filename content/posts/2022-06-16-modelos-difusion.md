@@ -64,8 +64,8 @@ que, como se aprecia, es un conjunto de muestras próximas a la moda de la distr
 
 Ahora, el caso de interés.
 
-En este, obviamente, la distribución de partida es _rara_. Supongamos que $f$ es una red neuronal que distingue fotos de gatitos de otras. Es decir, es una función de $R^{N\times N}$ en el intervalo $[0,1]$, que toma valores altos para valores $x \in R^{N\times N}$ que se parecen (interpretados como fotos) a gatitos.
+En este, obviamente, la distribución de partida es _rara_. Supongamos que $f$ es una red neuronal que distingue fotos de gatitos de otras. Es decir, es una función de $R^{N\times N}$ en el intervalo $[0,1]$ que toma valores altos para valores $x \in R^{N\times N}$ que se parecen (interpretados como fotos) a gatitos.
 
-A partir de esa función, normalizándola adecuadamente (aunque eso no es estrictamente necesario), se construye una probabilidad de partida $p_0$ que tiene valores altos para valores $x$ que parecen gatitos y bajos donde no. Para generar imágenes de gatitos tenemos que muestrear las regiones del espacio donde $p_0(x)$ es alto (o, dicho de otra manera, donde la probabilidad de que $x$ se parezca a un gatito es alta).
+A partir de esa función, normalizándola adecuadamente ---aunque eso no sea estrictamente necesario---, se construye una probabilidad de partida $p_0$ que tiene valores altos para valores $x$ que parecen gatitos y bajos donde no. Para generar imágenes de gatitos tenemos que muestrear las regiones del espacio donde $p_0(x)$ es alto (o, dicho de otra manera, donde la probabilidad de que $x$ se parezca a un gatito es alta).
 
 Y no otra cosa es lo que se ha resuelto arriba. Ahora, obviamente, la optimización no es tan sencilla. Y, por algún motivo técnico que se me escapa, la difusión no se hace _de una_ sino en pequeños saltos, añadiendo más y más _ruido normal_ en cada iteración. Pero la idea subyacente es la misma.
