@@ -31,7 +31,7 @@ o <- rnorm(1, 0, sqrt(101))
 
 El siguiente paso consiste en _invertir la difusión_. En concreto, consiste en encontrar el valor $X$ que hace más probable ese valor de `o`; o, lo que es lo mismo,  encontrar el $x$ que maximiza $p(x | 0)$. Como sabemos (vía Bayes) que
 
-$$p(x | o) \prop p(o | x) p(x) = p_d(o -x) p_0(x),$$
+$$p(x | o) \propto p(o | x) p(x) = p_d(o -x) p_0(x),$$
 
 donde $p_d$ es la densidad de una $N(0, 10)$ y $p_0$ es nuestra densidad original, podemos encontrar el $x$ más probable haciendo
 
