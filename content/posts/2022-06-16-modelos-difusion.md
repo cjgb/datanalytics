@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-06-16
 title: 'Un matemático visita los modelos de difusión (generativos)'
 description: 'Una explicación minimalista de los modelos generativos de difusión'
-url: /2022/06/16/modelos-generativos-difusión/
+url: /2022/06/16/modelos-generativos-difusion/
 categories:
 - estadística
 tags:
