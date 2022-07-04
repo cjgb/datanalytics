@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-07-07
 title: 'L-momentos: en busca de la intuición'
 description: 'Tratando de encontrar la intuición en el concepto de los l-momentos'
-url: /2022/07/05/l-momentos/
+url: /2022/07/07/l-momentos/
 categories:
 - estadística
 tags:

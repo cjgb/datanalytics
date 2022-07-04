@@ -15,6 +15,8 @@ tags:
 - ostagram
 ---
 
+_[Tiempo después de la publicación de esta entrada hice otra, [esta](https://www.datanalytics.com/2022/07/12/transferencia-estilo-rrnn/), en la que se ahonda en la función de pérdida usada en la reconstrucción del estilo o textura de las imágenes y que en esta serie no se trató con el detalle que el asunto requiere.]_
+
 En esta tercera entrada de la serie (aquí está la [primera](https://www.datanalytics.com/2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/) y la [segunda](https://www.datanalytics.com/2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/)) quiero ocuparme de las que llamé $latex f_1$ y $f_2$, las funciones involucradas. Que son las que obran la magia, por supuesto. Con casi cualquier otra opción se habría obtenido una patochada, pero estas son funciones especiales.
 
 Las funciones en cuestión están extraídas de esta,
@@ -33,12 +35,4 @@ Una colección de enlaces relevantes y puede que interesantes es:
 * El [código](https://github.com/google/deepdream) asociado a la anterior entrada
 * [Ostagram: cosa fina](http://www.ostagram.ru/)
 * [_A Neural Algorithm of Artistic Style_](https://arxiv.org/abs/1508.06576), una versión en pdf y subida a arXiv de lo que he contado estos días
-
-
-
-
-
-
-
-
 
