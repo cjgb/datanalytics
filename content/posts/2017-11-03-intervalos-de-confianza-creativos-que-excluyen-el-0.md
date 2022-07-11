@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
-- intervalos de confianza
+- intervalo de confianza
 ---
 
 Es el de `b`:

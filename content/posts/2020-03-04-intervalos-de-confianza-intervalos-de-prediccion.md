@@ -10,7 +10,7 @@ categories:
 tags:
 - estadística
 - intervalo de confianza
-- intervalos de predicción
+- intervalo de predicción
 - predicción
 - r
 ---

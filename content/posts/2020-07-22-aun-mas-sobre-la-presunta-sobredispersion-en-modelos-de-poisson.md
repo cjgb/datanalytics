@@ -12,7 +12,7 @@ tags:
 - glm
 - poisson
 - sobredispersión
-- intervalos de predicción
+- intervalo de predicción
 ---
 
 _[Esta entrada continúa el ciclo al que he dedicado [esta](https://www.datanalytics.com/2020/07/17/mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson/) y [esta otra](https://www.datanalytics.com/2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/) entradas durante los últimos días.]_

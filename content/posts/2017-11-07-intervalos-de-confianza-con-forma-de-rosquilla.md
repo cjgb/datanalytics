@@ -11,7 +11,7 @@ categories:
 tags:
 - coeficientes
 - estadística
-- intervalos de confianza
+- intervalo de confianza
 - r
 - stan
 ---

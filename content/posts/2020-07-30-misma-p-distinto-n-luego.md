@@ -13,7 +13,7 @@ tags:
 - p-valor
 - prop.test
 - r
-- intervalos de confianza
+- intervalo de confianza
 ---
 
 Tres situaciones. La primera:
