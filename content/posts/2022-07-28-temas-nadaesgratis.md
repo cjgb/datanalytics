@@ -1,9 +1,9 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-07-21
+date: 2022-07-28
 title: 'npl(nadaesgratis.es): el subproducto'
 description: 'Un subproducto del análisis NLP de las entradas de nadaesgratis.es'
-url: /2022/07/21/nadaesgratis-temas/
+url: /2022/07/28/nadaesgratis-temas/
 categories:
 - ciencia de datos
 tags:
