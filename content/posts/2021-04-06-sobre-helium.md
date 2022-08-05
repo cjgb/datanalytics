@@ -102,3 +102,7 @@ Este dinero va a parar a:
 * Los primeros en poner nodos a _minar_, en tanto que hayan tenido la prevención de permutar por dólares antes del previsible colapso de la cotización del HNT.
 
 Quienes entren después tras haber adquirido el hardware de un nodo por unos 400 dólares habrán contribuido un porcentaje sustancial de ellos al beneficio de los sujetos arriba señalados y, como consolación, dispondrán de un dispositivo que, por piezas, apenas vale 100 dólares (una antena, una tarjeta LoRa y una Raspberry Pi de última generación).
+
+## Addenda
+
+En agosto de 2022, un año largo después de la entrada original, encontré [esto](https://blog.dshr.org/2022/08/helium.html) sobre Helium.
