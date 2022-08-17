@@ -11,7 +11,7 @@ tags:
 - r
 ---
 
-Desde esta bitácora hemos seguido atentamente el a veces espinoso asunto del rendimiento de R. De ello es muestra entradas como [ésta](http://www.datanalytics.com/2011/03/16/parentesis-corchetes-y-rendimiento-en-r/). Por eso retomamos el asunto para comentar desde una óptica distinta un análisis publicado hace un mes cuyo autor estudia la [ineficiencia de funciones básicas como la media y otras similares](http://lookingatdata.blogspot.com/2011/04/speeding-up-r-computations.html).
+Desde esta bitácora hemos seguido atentamente el a veces espinoso asunto del rendimiento de R. De ello es muestra entradas como [ésta](http://www.datanalytics.com/2011/03/16/parentesis-llaves-y-rendimiento-en-r/). Por eso retomamos el asunto para comentar desde una óptica distinta un análisis publicado hace un mes cuyo autor estudia la [ineficiencia de funciones básicas como la media y otras similares](http://lookingatdata.blogspot.com/2011/04/speeding-up-r-computations.html).
 
 Y llega a conclusiones que no es necesario manifestar explícitamente a quien ejecute esto en R:
 

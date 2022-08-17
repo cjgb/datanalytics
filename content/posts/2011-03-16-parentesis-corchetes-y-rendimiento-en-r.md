@@ -2,9 +2,9 @@
 author: Carlos J. Gil Bellosta
 date: 2011-03-16 09:31:45+00:00
 draft: false
-title: Paréntesis, corchetes y rendimiento en R
+title: Paréntesis, llaves y rendimiento en R
 
-url: /2011/03/16/parentesis-corchetes-y-rendimiento-en-r/
+url: /2011/03/16/parentesis-llaves-y-rendimiento-en-r/
 categories:
 - r
 tags:
@@ -44,7 +44,7 @@ p1 <-  function(x) 1/(1+x)
 p2 <-  function(x) (1/(1+x))
 p3 <-  function(x) (((1 /(((x + 1))))))
 
-# con corchetes
+# con llaves
 ll1 <- function(x) 1/{1+x}
 ll2 <- function(x) {1/{1+x}}
 ll3 <- function(x) {{{1 /{{{ x + 1} }} } } }
@@ -109,7 +109,7 @@ Así que:
 
 
 * se aprecia una diferencia entre los tiempos de ejecución de según la complejidad de la expresión,
-* aunque no entre el uso de paréntesis o corchetes.
+* aunque no entre el uso de paréntesis o llaves.
 
 Y para acabar, dejo a mis lectores como tarea:
 
