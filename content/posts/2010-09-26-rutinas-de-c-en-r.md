@@ -12,6 +12,8 @@ tags:
 - programación
 ---
 
+_[Nota: esta entrada está totalmente desactualizada y la mantengo en en blog por una mezcla de sentimentalismo y fidelidad a la "memoria histórica"; el interesado en cómo interconectar R y C (o C++) hoy hará bien en buscar en otra parte.]_
+
 Esta entrada que ahora hago es un pequeño tutorial que publiqué en mi primera página de internet a principios de siglo, cuando todavía usaba Windows regularmente. Es posible que gran parte de lo que en ella cuente esté ya mandado a recoger. No obstante, tampoco hace tanto, eché mano de lo que en ella había dejado escrito para ver cómo migrar a Windows algo que había hecho en Linux y... todavía funcionó.
 
 Si tuviese más interés por desarrollar en Windows, le haría una buena revisión. No teniéndolo, vuelvo a hacer público lo que hubo, por lo que si alguien detectase en ello desactualización, error u omisión culposa, agradecería que me lo hiciera saber para poder corregirlo.
