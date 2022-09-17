@@ -19,5 +19,9 @@ tags:
 
 Ya ha salido publicado el [vídeo](https://www.medialab-matadero.es/videos/la-encuesta-de-poblacion-activa-y-sus-limitaciones) de la [charla sobre la EPA](http://www.datanalytics.com/2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/) (y más cosas) que anuncié el otro día.
 
-![](http://medialab-prado.es/mmedia/11/11641/500_400.jpg)
+### Coda
+
+El enlace anterior puede no estar ya operativo. He logrado rescatar el vídeo y subirlo a mi canal de Youtube. Ahora puede verse [aquí](http://localhost:1313/2022/08/22/nuevo-video-en-youtube-charla-epa/).
+
+
 
