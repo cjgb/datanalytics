@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-09-27
 title: 'Uso y abuso de los "embeddings"'
 
-url: /2022/08/27/uso-abuso-embeddings/
+url: /2022/09/27/uso-abuso-embeddings/
 categories:
 - ciencia de datos
 tags:

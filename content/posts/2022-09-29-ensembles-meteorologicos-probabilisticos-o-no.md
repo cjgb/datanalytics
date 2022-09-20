@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-09-29
 title: '"Ensembles" meteorológicos: ¿probabilísticos o no?'
 
-url: /2022/08/29/ensembles-meteorologicos-probabilisticos/
+url: /2022/09/29/ensembles-meteorologicos-probabilisticos/
 categories:
 - probabilidad
 tags:

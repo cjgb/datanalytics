@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-09-22
 title: 'Nuevo vídeo en YouTube: "Una charla de 2013 sobre la EPA"'
 
-url: /2022/08/22/nuevo-video-en-youtube-charla-epa/
+url: /2022/09/22/nuevo-video-en-youtube-charla-epa/
 categories:
 - youtube
 tags:
