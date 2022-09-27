@@ -6,10 +6,10 @@ from collections import Counter
 post_dir = "../content/posts"
 target_file = "../content/paginas/por_etiqueta.md"
 
-md_header = """
+md_header = f"""
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-30 12:01:22+00:00
+date: {datetime.date.today().strftime('%Y-%m-%d')}
 draft: false
 title: Por tema
 type: page
