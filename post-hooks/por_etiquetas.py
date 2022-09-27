@@ -33,7 +33,7 @@ def get_header(fname):
 headers = [get_header(f) for f in all_posts]
 headers = [h for h in headers if 'tags' in h]
 tags = [h['tags'] for h in headers if h['date'] < datetime.date.today()]
-tags = [t for lt in tags for t in lt]
+tags = [t for lt in tags for t in lt if t is not None]
 freqs = list([(k, k.replace(" ", "-").lower(), v) for (k, v) in Counter(tags).items()])
 
 freqs_00 = [f for f in freqs if f[2] > 50]
