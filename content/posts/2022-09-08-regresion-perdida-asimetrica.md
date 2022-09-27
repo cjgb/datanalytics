@@ -127,7 +127,7 @@ res_asimetrico = minimize(perdida_asimetrica, (1,1))
 
 pasa por multiplicar la capacidad eólica por 8.2 y la solar por 4.
 
-La evolución de las variables más importantes del problema tienen el siguiente aspecto:
+La evolución de las variables más importantes del problema tiene el siguiente aspecto:
 
 ![](/wp-uploads/2022/09/asimetrico-energia-almacenada.png#center)
 
