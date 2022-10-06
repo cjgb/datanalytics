@@ -32,5 +32,5 @@ $$L(\hat{\theta}) = \int_\theta \int_X L(\theta, \hat{\theta}) p(X | \theta) p(\
 
 cuyo mínimo he visto llamar en alguna ocasión _error de Bayes_ (aunque en su interpretación más habitual es otra cosa; y aunque en algunos casos, como los que veremos, ambas definiciones coinciden).
 
-La peculiar manera en la que se resuelvan el anterior problema de minimización da lugar a las dos grandes perspectivas dentro de la estadística (y explica, además, por qué en cierto sentido solo puede haber dos; aunque también cóm y por qué pueden surgir perspectivas híbridas, tipo Bayes objetivo, los modelos de _efectos aleatorios_, etc.), la frecuentista y la bayesiana.
+La peculiar manera en la que se resuelvan el anterior problema de minimización da lugar a las dos grandes perspectivas dentro de la estadística (y explica, además, por qué en cierto sentido solo puede haber dos; aunque también cómo y por qué pueden surgir perspectivas híbridas, tipo Bayes objetivo, los modelos de _efectos aleatorios_, etc.), la frecuentista y la bayesiana.
 
