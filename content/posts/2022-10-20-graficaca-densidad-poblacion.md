@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2022-10-20
-title: 'TAB'
+title: "¡Cuidado con las discontinuidades (subrepticias o no) en las escalas de color!"
 
 url: /2022/10/20/graficaca-densidad-poblacion/
 categories:
