@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-10-27
 title: "Los muchos nombres de la inflación"
 
-url: /2022/10/25/los-muchos-nombres-inflacion/
+url: /2022/10/27/los-muchos-nombres-inflacion/
 categories:
 - números
 tags:
