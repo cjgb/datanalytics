@@ -11,7 +11,7 @@ tags:
 - números
 ---
 
-El IPC es el valor de una canasta artitraria de bienes de consumo a la que en un momento arbitrario de la historia se le dio un precio arbitrario de 100.
+El IPC es el valor de una canasta arbitraria de bienes de consumo a la que en un momento arbitrario de la historia se le dio un precio arbitrario de 100.
 
 ![](/wp-uploads/2022/10/ipc-nacional-2022.png#center)
 
