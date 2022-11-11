@@ -8,6 +8,8 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tracking id
 rssLimit = 10
 
+enableRobotsTXT = true
+
 [Author]
   name = "Carlos J. Gil Bellosta"
   bio = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es). Más sobre él, [aquí](http://www.datanalytics.com/bio)."
