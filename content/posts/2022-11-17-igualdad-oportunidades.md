@@ -1,9 +1,9 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-11-16
+date: 2022-11-17
 title: 'Operacionalización de la "igualdad de opotunidades"'
 
-url: /2022/11/08/igualdad-oportunidades/
+url: /2022/11/17/igualdad-oportunidades/
 categories:
 - estadística
 tags:

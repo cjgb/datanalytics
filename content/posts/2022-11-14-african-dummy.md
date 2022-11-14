@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-11-14
 title: 'Sobre la "African dummy"'
 
-url: /2022/11/08/african-dummy/
+url: /2022/11/14/african-dummy/
 categories:
 - estadística
 tags:
