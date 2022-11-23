@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-11-22
 title: 'RSA para exmatemáticos'
 
-url: /2022/11/22/igualdad-oportunidades/
+url: /2022/11/22/rsa-para-exmatematicos/
 categories:
 - varios
 tags:
