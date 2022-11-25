@@ -1,9 +1,9 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2122-11-24
+date: 2022-11-24
 title: 'Sobre la llamada ley del estadístico inconsciente'
 
-url: /2122/11/24/ley-estadistico-inconsciente/
+url: /2022/11/24/ley-estadistico-inconsciente/
 categories:
 - estadística
 tags:
