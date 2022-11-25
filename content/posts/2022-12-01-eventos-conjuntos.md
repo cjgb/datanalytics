@@ -7,11 +7,11 @@ url: /2022/12/01/eventos-conjuntos/
 categories:
 - probabilidad
 tags:
-- variables aleatorias
-- historia
+- eventos
+- kolmogorov
 ---
 
-## I. Tidyverse
+## I. Tidyverse (como ejemplo a no seguir)
 
 Uno de los grandes problemas del _`tidyverse`_ en R es que para él, todo son tablas. Existe solo una manera de agrupar información: las tablas. Fuera de ese estrecho marco, existen otras estructuras de datos: árboles, listas, diccionarios, tablas _hash_, vectores, tuplas, listas _linkadas_, listas doblemente _linkadas_, etc. Todo aquello, en definitiva, que en otros lenguajes de programación se explica en el capítulo "Colecciones" del manual.
 
