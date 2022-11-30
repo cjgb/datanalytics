@@ -13,7 +13,7 @@ tags:
 - estadística pública
 ---
 
-Estos días ha salido publicado un artículo mío, [_Microdata and k-anonymity: a quantitative approach in the Spanish context_](http://www.seio.es/BEIO/Microdata-and-k-anonymity-a-quantitative-approach-in-the-Spanish-context.html) en la Revista BEIO. Trata de algunos temas de los que ya nos hemos ocupado antes en estas páginas: la [anonimidad](http://www.datanalytics.com/tag/anonimidad/) que cabe esperar en ficheros de microdatos. Y, en este caso, cuando hacen referencia a personas que viven en España.
+Estos días ha salido publicado un artículo mío, [_Microdata and k-anonymity: a quantitative approach in the Spanish context_](https://www.seio.es/beio/BEIOVol29Num1.pdf) en la Revista BEIO. Trata de algunos temas de los que ya nos hemos ocupado antes en estas páginas: la [anonimidad](http://www.datanalytics.com/tag/anonimidad/) que cabe esperar en ficheros de microdatos. Y, en este caso, cuando hacen referencia a personas que viven en España.
 
 Supongamos que se hacen públicos unos ficheros de datos en los que se han eliminado los identificadores (nombre, DNI, etc.) pero muestra ciertos datos de individuos (población de residencia, fecha de nacimiento, sexo, etc.) y otros datos (enfermedades padecidas, si ha estado en la cárcel, etc.). Es posible que haya invidiuos únicos en el fichero, es decir, que exista solo uno con esos atributos. Eso los hace reidentificables. Por ejemplo, es probable que en Ólvega (provincia de Soria) solo resida una señora nacida en una fecha determinada de los años cincuenta.
 
