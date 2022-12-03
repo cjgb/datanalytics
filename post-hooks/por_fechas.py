@@ -42,16 +42,16 @@ headers.sort(key = lambda x: x['date'], reverse = True)
 year = headers[0]['date'].year
 month = headers[0]['date'].month
 
-out = [f"* {year}", f"  * {mes[month]}"]
+out = [f"* {year}", f"  * {mes[month]} {year}"]
 
 for h in headers:
     if h['date'].year < year:
         year = h['date'].year
         month = h['date'].month
-        out.extend([f"* {year}", f"  * {mes[month]}"])
+        out.extend([f"* {year}", f"  * {mes[month]} {year}"])
     elif h['date'].month < month:
         month = h['date'].month
-        out.extend([f"  * {mes[month]}"])
+        out.extend([f"  * {mes[month]} {year}"])
     out.append(f"    * [{h['title']}]({h['url']})")
 
 with open(target_file, "w") as f:
