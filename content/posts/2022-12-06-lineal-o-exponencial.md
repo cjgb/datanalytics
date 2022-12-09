@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2022-12-08
-title: 'Si no podemos saber si algo crece lineal o exponencialmente, ¿qué podemos saber?'
+title: 'Si no podemos dilucidar si algo crece lineal o exponencialmente, ¿qué podemos saber?'
 
 url: /2022/12/08/lineal-o-exponencial
 categories:
