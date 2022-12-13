@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-10-18
 title: 'Nuevo vídeo en YouTube: "¿Por qué nos volvemos bayesianos con la edad?"'
 
-url: /2022/10/18/nuevo-video-en-youtube-charla-epa/
+url: /2022/10/18/nuevo-video-en-youtube-bayesianos-edad/
 categories:
 - youtube
 tags:
