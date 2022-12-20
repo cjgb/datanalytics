@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-12-22
 title: "Sobre la correlación entre Y y la predicción de Y"
 
-url: /2022/12/20/correlacion-y-y-hat/
+url: /2022/12/22/correlacion-y-y-hat/
 categories:
 - estadística
 tags:
