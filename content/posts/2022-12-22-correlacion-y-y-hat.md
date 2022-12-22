@@ -24,7 +24,7 @@ De hecho, con 1-vecinos, $\hat{y}_1^\prime = y_1^\prime > y_1 = \hat{y}_1$. Es f
 
 Eso quiere decir que existe una correlación entre $y_i$ e $\hat{y_i}$. El modelo, en entrenamiento, no solo aprende $\mu_i$ sino que también se contamina de la variabilidad de $Y_i$ alrededor de $\mu_i$.
 
-Por eso, el error en entrenamiento es, en promedio, superior al error en validación:
+Por eso, el error en validación es, en promedio, superior al error en entrenamiento:
 
 * El error promedio en entrenamiento es la distancia media entre las variables aleatorias $Y$, con distribución $F$ e $\hat{Y}$, correlacionada con $Y$.
 * El error promedio en validación es la distancia media entre las variables aleatorias $Z$, con distribución $F$ y $\hat{Y}$, independiente de ella.
