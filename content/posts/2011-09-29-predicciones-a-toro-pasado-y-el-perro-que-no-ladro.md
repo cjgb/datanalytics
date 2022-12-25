@@ -15,23 +15,20 @@ tags:
 
 Es fácil predecir a toro pasado. Casi tan fácil que asestarle una gran lanzada al moro muerto (el refranero es así de incorrecto políticamente, lo siento).
 
-Esas son las ideas que me sugirieron fundamentalmente la lectura del un tanto hagiográfico [_Superordenadores para 'predecir' revoluciones_](http://innovacion.ticbeat.com/superordenadores-predecir-revoluciones/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed:+rwwes+(TICbeat)) y del artículo al que se refería, _[Culturomics 2.0: Forecasting large-scale human behavior using news media tone in time and space](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3663/3040)_.
+Esas son las ideas que me sugirieron fundamentalmente la lectura del un tanto hagiográfico [_Superordenadores para 'predecir' revoluciones_](http://innovacion.ticbeat.com/superordenadores-predecir-revoluciones/) y del artículo al que se refería, [_Culturomics 2.0: Forecasting large-scale human behavior using news media tone in time and space_](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3663/3040).
 
 El artículo nos explica cómo utilizando resúmenes de noticias de diversas fuentes era posible haber predicho las revoluciones de Egipto, Túnez y Libia. Y, casi, casi, cómo haber encontrado a Bin Laden.
 
 
-[![](/wp-uploads/2011/09/culturomics_egypt.jpg)
-](/wp-uploads/2011/09/culturomics_egypt.jpg)
+![](/wp-uploads/2011/09/culturomics_egypt.jpg#center)
+
 
 
 Pero como en aquel episodio de Sherlock Holmes en el que el perro no ladró, la pieza fundamental no es lo que se cuenta sino lo que se calla: ¿qué otras _revoluciones_ se predijeron erróneamente? ¿Qué de los falsos positivos? ¿No habremos redescubierto una suerte de Nostradamus de silicio?
 
 Merece también la pena echar un vistazo al mapa de _civilizaciones_ que revela el dispositivo:
 
-
-[![](/wp-uploads/2011/09/culturomics_civilizations.jpg)
-](/wp-uploads/2011/09/culturomics_civilizations.jpg)
-
+![](/wp-uploads/2011/09/culturomics_civilizations.jpg#center)
 
 ¿Son Francia y Suráfrica parte de la misma _civilización_? ¿Y Suiza y Afganistán? ¿Y Canadá está más próximo a Marruecos o Irán que a EE.UU.? ¿Y qué tendrán que ver Noruega y Marruecos?
 
