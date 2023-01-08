@@ -1,9 +1,9 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-12-27
+date: 2022-12-29
 title: 'Aristóteles sobre lo probable y lo improbable (y, más concretamente, sobre la frecuencia de eventos muy improbables)'
 
-url: /2022/12/27/aristoteles-probable-improbable/
+url: /2022/12/29/aristoteles-probable-improbable/
 categories:
 - probabilidad
 tags:
