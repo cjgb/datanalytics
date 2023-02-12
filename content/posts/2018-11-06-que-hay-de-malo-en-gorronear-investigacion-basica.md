@@ -6,7 +6,7 @@ title: ¿Qué hay de malo en gorronear investigación básica?
 
 url: /2018/11/06/que-hay-de-malo-en-gorronear-investigacion-basica/
 categories:
-- ciencia
+- varios
 tags:
 - ciencia
 - economía
