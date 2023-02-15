@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-02-14
 title: 'Programación: aspectos sicológicos'
 
-url: /2023/02/14/sicología-programación/
+url: /2023/02/14/sicologia-programacion/
 categories:
 - programación
 tags:
