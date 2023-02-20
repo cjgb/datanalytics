@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-02-21
 title: 'Todo sobre la wifi'
 
-url: /2023/02/16/todo-sobre-wifi/
+url: /2023/02/21/todo-sobre-wifi/
 categories:
 - varios
 tags:
