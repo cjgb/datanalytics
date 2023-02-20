@@ -19,4 +19,6 @@ Puedes hacer la cuenta a mano, pero también puedes usar
 [esta herramienta](http://priors.datanalytics.com/)
 autoexplicativa.
 
+Y sí, una gamma con cuantiles al 5% y 95% en 1 y 7 respectivamente tiene parámetros 3.26 y 0.95.
+
 (Para notificar errores, sugerencias de mejora, etc., escríbaseme.)
