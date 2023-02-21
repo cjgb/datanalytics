@@ -27,7 +27,7 @@ Imaginemos que solo hubiese un canal habilitado para la wifi compartido por todo
 
 La manera en la que el protocolo administra el espectro está basado en el principio de la _collision avoidance_ (evitar colisiones), parecido a otro, el _collision detection_ (detectar colisiones), que:
 
-- se usa en conexiones cableadas
+- se _usa_ (propiamente, usaba) en conexiones cableadas
 - porque en conexiones cableadas se puede escuchar a la vez que se emite
 - y eso permite detectar cuando otro dispositivo está emitiendo
 - y entonces se pueden tomar medidas para evitar el uso simultáneo del cable;
@@ -107,7 +107,7 @@ Algún día, algún día me hará menos duelo que hoy.
 - Usa (también) la banda de los 5 GHz. Suele estar menos congestionada; entre otras cosas, porque es más local.
 - En la banda de los 2.5 GHz, usa uno de los canales 1, 6 u 11.
 - Yo, a falta de un analizador de espectro, suelo elegir el que presumo menos congestionado de entre ellos. Esencialmente, aplico el minimax: aquel en el que es menor la máxima de las potencias de emisión ajenas.
-- Los dispositivos _fijos_ y _cañeros_, usa cable, no wifi.
+- Para los dispositivos _fijos_ y _cañeros_, usa cable, no wifi.
 - No seas un capullo gilipollas.
 - Enteráte de cuáles son tus vecinos capullos y gilipollas y mételes una noche la cabeza de un caballo muerto en la cama.
 - Cómprate una hucha y guarda en ella las vueltas del café. Igual en cuatro o cinco años te da para un analizador de espectro _pro_.
