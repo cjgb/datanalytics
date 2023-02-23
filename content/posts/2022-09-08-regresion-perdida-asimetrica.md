@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-09-08
 title: 'Un ejemplo de regresión con pérdidas asimétricas'
 description: 'Regresión lineal con pérdidas asimétricas'
-url: /2022/09/06/regresion-perdidas-asimétricas/
+url: /2022/09/08/regresion-perdidas-asimetricas/
 categories:
 - estadística
 tags:

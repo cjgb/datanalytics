@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-05-19
 title: "Algunos números sobre el cambio climático: servicios en la nube"
 description: 'Una reevaluación del coste climático de nuestro día a día en la nube'
-url: /2022/05/19/numeros-cambio-climático/
+url: /2022/05/19/numeros-cambio-climatico/
 categories:
 - números
 tags:

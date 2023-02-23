@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2022-03-01
 title: Usos de la versión barata de la entropía
-url: /2022/03/01/usos-version-barata-entropía/
+url: /2022/03/01/usos-version-barata-entropia/
 categories:
 - estadística
 tags:

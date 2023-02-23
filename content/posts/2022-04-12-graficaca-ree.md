@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2022-04-12
 title: "Gráficos mejorables en REE"
 description: "REE debería replantearse cuál es la manera más efectiva de representar la 'estructura de generación' eléctrica"
-url: /2022/04/12/gráficos-mejorables-ree/
+url: /2022/04/12/graficos-mejorables-ree/
 categories:
 - gráficos
 tags:
