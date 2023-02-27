@@ -12,7 +12,7 @@ tags:
 - números
 ---
 
-Una vez oí que 70000 millones, de los que 7000 estaban vivos actualmente. Oí mal porque, buscando, he encontrado [esto](http://www.prb.org/Publications/Articles/2002/HowManyPeopleHaveEverLivedonEarth.aspx), de donde extraigo:
+Una vez oí que 70000 millones, de los que 7000 estaban vivos actualmente. Oí mal porque, buscando, he encontrado [esto](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/), de donde extraigo:
 
 [![tabla_vivos](/wp-uploads/2015/06/tabla_vivos.png#center)
 ](/wp-uploads/2015/06/tabla_vivos.png#center)
