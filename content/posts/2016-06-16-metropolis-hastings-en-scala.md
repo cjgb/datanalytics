@@ -25,7 +25,7 @@ Primero, genero datos en R:
 {{< highlight R >}}
 datos <- rnorm(500, 0.7, 1)
 writeLines(as.character(datos), "/tmp/datos.txt")
-{{< highlight R >}}
+{{< / highlight >}}
 
 Son de una normal con media 0.7. En el modelo que vamos a crear, suponemos conocida (e igual a 1) la varianza de la normal y trataremos de estimar la media suponiéndole una distribución a priori normal estándar. Y con Scala, así:
 
