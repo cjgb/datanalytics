@@ -30,11 +30,18 @@ $P_i$ es la potencia máxima que da de sí la instalación eléctrica por el gro
 
 El más jugoso es $P_c$, que es el de la potencia contratada. Si uno contrata, por ejemplo, como yo, 3.3 kW tiene realmente 3.45 kW (sí, en ciertos ámbitos, 3.3 = 3.45). Esa es la línea roja que aparece en el gráfico (y la línea azul corresponde a la otra potencia popular, la de 2.2 kW, creo). Al contratar 3.3 kW, la compañía eléctrica se compromete a proveerte de hasta 3.45 kW por un módico precio de unos 16 céntimos por kW y día (es decir, medio euro al día en mi caso). Tal es el precio del milagro cotidiano de que se encienda una luz al pulsar un interruptor.
 
+## III.
+
 La teoría dice, en primera aproximación, que si se excede ese consumo, se corta la luz. Pero como se ve en la gráfica anterior, los macarrones del sábado llevaron durante nueve minutos el consumo hasta por encima de los 5 kW.
 
 De hecho, es complicado no exceder los 3.45 kW habida cuenta de que la vitrocerámica consume casi 2 kW; la cafetera 1 kW; el microondas, casi otro; el lavavajillas, 1.5 kW ---aunque no durante todo el ciclo de lavado---; etc. Apenas enchufas simultáneamente dos o tres cacharros que ocupan, calientan o hacen mucho ruido y rebasas los 3.45. Por eso, el interruptor de $P_c$, IPC para los disléxicos, tiene cierta _tolerancia_.
 
-¿Cuánta? Es tema de enconado debate rodeado de cifras míticas. Un ejemplo más de cómo se comporta la masa anumérica enfrentada a curvas no lineales. Otros casos paradigmáticos en los que las respuestas de la plebe son parecidas tienen que ver con los logaritmos y los tipos del IRPF. En este caso en concreto, aparentemente, las tolerancias vienen marcadas por la curva
+¿Cuánta? Es tema de enconado debate rodeado de cifras míticas. Un ejemplo más de cómo se comporta la masa anumérica enfrentada a curvas no lineales. Otros casos paradigmáticos en los que las respuestas de la plebe son parecidas tienen que ver con los logaritmos y los tipos del IRPF. En este caso en concreto, aparentemente, las tolerancias vienen indicadas por la _curva gorda_
 
 ![](/wp-uploads/2023/curva-icp.gif#center)
 
+(sí: parece que las tolerancias tienen tolerancias) extraída de la llamada norma UNE que, al parecer, está vigente.
+
+## IV.
+
+No sé bien por qué he dejado todo esto escrito por aquí: tiene que ver solo marginalmente con lo que suelo tratar. Pero creo que a quien lo lea con atención le resonarán temas de relevancia estadística como el de la forma de la distribución del consumo, la naturaleza estadística de $P_c$, el problema de detección del uso de electrodomésticos por el perfil de consumo, la cuenta de cuánto habría que almacenar y cómo para _aplanar la curva_ y pasar de una tarifa de 3.45 kW a una inferior (y si compensa), etc. O tal vez no. En todo caso, ahí queda.
