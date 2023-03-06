@@ -1,9 +1,9 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2023-03-07
-title: 'TBA'
+title: 'Un estadístico le echa un vistazo a su consumo eléctrico en tiempo real'
 
-url: /2023/03/07/tba/
+url: /2023/03/07/consumo-electrico-tiempo-real/
 categories:
 - varios
 tags:
