@@ -32,9 +32,9 @@ El más jugoso es $P_c$, que es el de la potencia contratada. Si uno contrata, p
 
 ## III.
 
-La teoría dice, en primera aproximación, que si se excede ese consumo, se corta la luz. Pero como se ve en la gráfica anterior, los macarrones del sábado llevaron durante nueve minutos el consumo hasta por encima de los 5 kW.
+La teoría ---en primera aproximación--- dice que si $P_r > P_c$, se corta la luz. Pero como se ve en la gráfica anterior, los macarrones del sábado llevaron el consumo por encima de los 5 kW durante nueve minutos.
 
-De hecho, es complicado no exceder los 3.45 kW habida cuenta de que la vitrocerámica consume casi 2 kW; la cafetera 1 kW; el microondas, casi otro; el lavavajillas, 1.5 kW ---aunque no durante todo el ciclo de lavado---; etc. Apenas enchufas simultáneamente dos o tres cacharros que ocupan, calientan o hacen mucho ruido y rebasas los 3.45. Por eso, el interruptor de $P_c$, IPC para los disléxicos, tiene cierta _tolerancia_.
+De hecho, es complicado no exceder los 3.45 kW habida cuenta de que la vitrocerámica consume casi 2 kW; la cafetera 1 kW; el microondas, casi otro; el lavavajillas, 1.5 kW ---aunque no durante todo el ciclo de lavado---; etc. Apenas enchufas simultáneamente dos o tres cacharros que ocupan, calientan o hacen mucho ruido, rebasas los 3.45. Por eso, el interruptor de $P_c$, IPC para los disléxicos, tiene cierta _tolerancia_.
 
 ¿Cuánta? Es tema de enconado debate rodeado de cifras míticas. Un ejemplo más de cómo se comporta la masa anumérica enfrentada a curvas no lineales. Otros casos paradigmáticos en los que las respuestas de la plebe son parecidas tienen que ver con los logaritmos y los tipos del IRPF. En este caso en concreto, aparentemente, las tolerancias vienen indicadas por la _curva gorda_
 
@@ -45,3 +45,8 @@ De hecho, es complicado no exceder los 3.45 kW habida cuenta de que la vitrocer�
 ## IV.
 
 No sé bien por qué he dejado todo esto escrito por aquí: tiene que ver solo marginalmente con lo que suelo tratar. Pero creo que a quien lo lea con atención le resonarán temas de relevancia estadística como el de la forma de la distribución del consumo, la naturaleza estadística de $P_c$, el problema de detección del uso de electrodomésticos por el perfil de consumo, la cuenta de cuánto habría que almacenar y cómo para _aplanar la curva_ y pasar de una tarifa de 3.45 kW a una inferior (y si compensa), etc. O tal vez no. En todo caso, ahí queda.
+
+
+## Coda
+
+El concepto de _curva gorda_ hace referencia al afamado _teorema del punto gordo_.
