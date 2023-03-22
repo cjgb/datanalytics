@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-03-16
 title: 'El negocio bancario como corolario del teorema central del límite (y sí, de paso, sobre SVB)'
 
-url: /2023/03/16/paradoja-patata/
+url: /2023/03/16/negocio-bancario-tcl/
 categories:
 - estadística
 tags:
