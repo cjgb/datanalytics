@@ -6,9 +6,10 @@ title: Hoy es el día mundial de la copia de seguridad
 
 url: /2015/03/31/hoy-es-el-dia-mundial-de-la-copia-de-seguridad/
 categories:
-- programación
+- varios
 tags:
-- programación
+- backups
+- hardware
 ---
 
 Así que ya sabéis qué tenéis que hacer.

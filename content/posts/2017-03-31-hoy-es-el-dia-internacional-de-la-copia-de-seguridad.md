@@ -8,7 +8,7 @@ url: /2017/03/31/hoy-es-el-dia-internacional-de-la-copia-de-seguridad/
 categories:
 - varios
 tags:
-- copias de seguridad
+- backups
 - hardware
 ---
 
