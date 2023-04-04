@@ -10,7 +10,7 @@ categories:
 - probabilidad
 tags:
 - exponencial
-- logística
+- función logística
 ---
 
 Hoy, al mostrar
