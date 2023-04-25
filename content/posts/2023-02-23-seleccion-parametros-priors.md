@@ -1,9 +1,9 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2023-02-23
-title: 'Una "app" para la selección de parámetros de prioris infomativas'
+title: 'Una "app" para la selección de parámetros de prioris informativas'
 
-url: /2023/02/23/todo-sobre-wifi/
+url: /2023/02/23/seleccion-parametros-prioris-informativas/
 categories:
 - estadística
 tags:
