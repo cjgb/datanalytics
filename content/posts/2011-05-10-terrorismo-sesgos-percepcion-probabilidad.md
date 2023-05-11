@@ -17,16 +17,12 @@ En el Financial Times del 3 de mayo aparece un artículo de Gideon Rachman que e
 
 El artículo, aunque trata otros temas, pivota argumentalmente alrededor de dos observaciones:
 
-
-
 * De acuerdo con [John Mueller](http://en.wikipedia.org/wiki/John_Mueller), el número de estadounidenses muertos en ataques terroristas desde 1960 viene a ser el mismo que el debido a accidentes provocados por ciervos.
 * Según Brian Jenkings, de la Rand Corporation, la probabilidad que tuvo un estadounidense medio de haber muerto en un accidente de tráfico entre el 11 de septiembre de 2001 (incluido) y el 11 de septiembre de 2006 era de una entre 9.000 y de ser asesinado, de una entre 18.000. Pero de haber muerto en un acto terrorista (y eso que se incluyen los fallecidos el manido día que abre el periodo), únicamente de una entre medio millón.
 
 Y todos sabemos cuántos recursos económicos se han _invertido_ —uso cursivas por motivos obvios— en esa histérica guerra contra el terrorismo que hemos sufragado a golpe de IRPF desde hace diez años. Sólo en uno de sus corolarios, la Guerra de Irak, estima Stiglitz que se han gastado [tres billones de dólares](http://threetrilliondollarwar.org/) (equivalente a dos años de PIB español). Esta descabellada asignación de recursos obedece a motivos —políticos, etc.— sobre los que otros (Gideon Rachman, sin ir más lejos) saben infinitamente más que yo. Pero la hace posible, en el fondo, una anomalía sicológica que nos impide a los humanos calibrar cabalmente el impacto de probabilidades pequeñas.
 
 Es un tema bien estudiado —y sabido, sobre todo, por políticos, publicistas y otras molestas estirpes— dentro de la llamada [teoría de las perspectivas](http://es.wikipedia.org/wiki/Teor%C3%ADa_de_las_perspectivas). Una de sus áreas estudia las decisiones que se toman frente a situaciones de riesgo muy improbables. El lector interesado en el tema encontrará provechosa la lectura de artículos tales como:
-
-
 
 * [Decisions From Experience and the Effect of Rare Events in Risky Choice](http://www.socialbehavior.uzh.ch/teaching/semsocialneurosciencespring09/hertwig-psysci04.pdf )
 * [Are probabilities overweighted or underweighted when rare outcomes are experienced (rarely)? ](http://wrap.warwick.ac.uk/1097/1/WRAP_Ungemach_8573940-200709-ungemach_chater_stewart_2009.pdf)
