@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-10 06:56:11+00:00
+date: 2011-06-10
 draft: false
 title: Datos públicos, datos DUP
 
@@ -9,6 +9,8 @@ categories:
 - números
 tags:
 - números
+- datos públicos
+- estadística pública
 ---
 
 Hoy en día, en España, salvo por unas cuantas honrosas excepciones no existen datos públicos, sólo datos manejados dentro de las administraciones públicas (y a los que los ciudadanos no tienen acceso).
