@@ -15,7 +15,7 @@ tags:
 
 A nadie se le escapa que los mercados energéticos viven tiempos convulsos. Sin embargo, a pesar de que el problema es fundamentalmente económico, la gentecilla blande argumentos de lo más variopinto (e, indefectiblemente, desencaminado).
 
-Para paliar el general desconocimiento de los fundamentos económicos de la cosa, he creado [este cuadro de mandos](http://beta.circiter.es/shiny/levelized_cost_energy/).
+Para paliar el general desconocimiento de los fundamentos económicos de la cosa, he creado [este cuadro de mandos](http://shiny.circiter.es/levelized_cost_energy/).
 Implementa dinámicamente las hojas de cálculo que subyacen al documento [_Levelized Cost of Energy Analysis (v. 15.0)_](
 https://www.lazard.com/media/451905/lazards-levelized-cost-of-energy-version-150-vf.pdf)
 de [Lazard](https://www.lazard.com/),
