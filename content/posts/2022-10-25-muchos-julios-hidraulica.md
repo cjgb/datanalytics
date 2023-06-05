@@ -10,6 +10,7 @@ tags:
 - energía
 - energía hidráulica
 - españa
+- david mackay
 ---
 
 La entrada de hoy es un ejercicio intrascendente inspirado en cálculos similares, pero aplicados al RU, en el octavo capítulo del muy recomendable librito
