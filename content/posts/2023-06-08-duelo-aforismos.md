@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2026-06-08
+date: 2023-06-08
 title: "Un duelo de aforismos sobre datos"
 
 url: /2023/06/08/duelo-aforismos/
