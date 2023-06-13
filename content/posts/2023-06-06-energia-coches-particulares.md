@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2026-06-06
+date: 2023-06-06
 title: "Vehículos particulares: estimación del número de kWh/día por conductor en España"
 
 url: /2023/06/06/consumo-vehculos-particulares-per-capita/
