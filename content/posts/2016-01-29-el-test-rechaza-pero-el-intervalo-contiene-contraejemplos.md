@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - intervalo de confianza
-- p-valor
+- p-valores
 - prueba de hipótesis
 ---
 

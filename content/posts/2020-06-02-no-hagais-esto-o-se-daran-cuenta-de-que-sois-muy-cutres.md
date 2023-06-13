@@ -10,7 +10,7 @@ categories:
 tags:
 - estadística
 - modelos
-- p-valor
+- p-valores
 ---
 
 Lo que no hay que hacer nunca si no quieres que se enteren de que eres inmensamente cutre es escribir código en las líneas del siguiente seudocódigo:

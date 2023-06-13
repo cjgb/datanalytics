@@ -11,7 +11,7 @@ tags:
 - estadística
 - estadística bayesiana
 - intervalo de confianza
-- p-valor
+- p-valores
 - prueba de hipótesis
 ---
 

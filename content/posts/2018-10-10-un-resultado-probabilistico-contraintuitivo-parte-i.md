@@ -8,7 +8,7 @@ url: /2018/10/10/un-resultado-probabilistico-contraintuitivo-parte-i/
 categories:
 - probabilidad
 tags:
-- paradoja
+- paradojas
 - probabilidad
 ---
 

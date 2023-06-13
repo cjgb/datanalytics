@@ -9,7 +9,7 @@ categories:
 - probabilidad
 tags:
 - encuestas
-- paradoja
+- paradojas
 ---
 
 La [paradoja de Bertrand](https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)) se formula así: tómense una cuerda al azar en una circunferencia; ¿cuál es la probabilidad de que sea más larga que el lado del triángulo equilátero inscrito?

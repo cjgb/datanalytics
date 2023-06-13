@@ -8,7 +8,7 @@ url: /2018/07/30/el-problema-de-la-bella-durmiente/
 categories:
 - probabilidad
 tags:
-- paradoja
+- paradojas
 - probabilidad
 ---
 

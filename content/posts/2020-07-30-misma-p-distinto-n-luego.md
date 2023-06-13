@@ -10,7 +10,7 @@ categories:
 - r
 tags:
 - estadística
-- p-valor
+- p-valores
 - prop.test
 - r
 - intervalo de confianza

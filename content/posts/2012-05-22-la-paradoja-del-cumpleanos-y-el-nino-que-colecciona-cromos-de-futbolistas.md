@@ -8,7 +8,7 @@ url: /2012/05/22/la-paradoja-del-cumpleanos-y-el-nino-que-colecciona-cromos-de-f
 categories:
 - probabilidad
 tags:
-- paradoja
+- paradojas
 - probabilidad
 ---
 

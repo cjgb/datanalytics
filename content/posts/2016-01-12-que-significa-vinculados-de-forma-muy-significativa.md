@@ -12,7 +12,7 @@ tags:
 - datos públicos
 - lme4
 - lmer
-- p-valor
+- p-valores
 - suicidio
 - causalidad
 ---

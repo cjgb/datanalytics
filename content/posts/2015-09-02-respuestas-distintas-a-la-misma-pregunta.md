@@ -12,7 +12,7 @@ tags:
 - mala ciencia
 - estadística
 - fútbol
-- p-valor
+- p-valores
 ---
 
 Hará ya un par de años, un señor muy importante divulgaba en su bitácora los resultados de un estudio relativo a la educación en España que acababa de publicar. Dedicaba una pequeña parte de la entrada a cuestiones metodológicas y el resto a cuestiones normativas: _dado que he encontrado esto y aquello con un p-valor de tal, no otro remedio queda que aplicar todas estas medidas que aquí enumero_, era el resumen de todo.

@@ -12,7 +12,7 @@ tags:
 - ciencia
 - estadística
 - p-hacking
-- p-valor
+- p-valores
 - mala ciencia
 ---
 

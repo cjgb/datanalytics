@@ -12,7 +12,7 @@ tags:
 - artículos
 - efron
 - estimación
-- p-valor
+- p-valores
 - predicción
 ---
 

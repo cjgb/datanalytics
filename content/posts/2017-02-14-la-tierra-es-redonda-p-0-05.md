@@ -11,7 +11,7 @@ tags:
 - artículos
 - cohen
 - nhst
-- p-valor
+- p-valores
 ---
 
 A sus 72 años, en 1994, [J. Cohen](https://en.wikipedia.org/wiki/Jacob_Cohen_(statistician)) dejó casi para la posteridad un excelente artículo, [_The earth is round (p < .05)_](http://www.ics.uci.edu/~sternh/courses/210/cohen94_pval.pdf).

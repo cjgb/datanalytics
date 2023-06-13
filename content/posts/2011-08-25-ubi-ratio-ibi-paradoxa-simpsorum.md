@@ -13,7 +13,7 @@ tags:
 - españa
 - estadística
 - finanzas
-- paradoja
+- paradojas
 - paradoja de simpson
 - productividad
 ---
