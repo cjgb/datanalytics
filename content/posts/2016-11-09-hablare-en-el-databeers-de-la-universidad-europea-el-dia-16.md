@@ -6,10 +6,10 @@ title: Hablaré en el Databeers de la Universidad Europea el día 16
 
 url: /2016/11/09/hablare-en-el-databeers-de-la-universidad-europea-el-dia-16/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - databeers
 ---
 

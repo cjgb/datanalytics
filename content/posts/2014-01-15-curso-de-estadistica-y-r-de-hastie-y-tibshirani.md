@@ -9,7 +9,7 @@ categories:
 - estadística
 - r
 tags:
-- curso
+- cursos
 - estadística
 - r
 ---

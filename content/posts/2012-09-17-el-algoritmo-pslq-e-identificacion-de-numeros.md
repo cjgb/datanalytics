@@ -10,7 +10,7 @@ categories:
 tags:
 - programación
 - python
-- aproximación
+- aproximaciones
 ---
 
 El [algoritmo PSLQ](http://mathworld.wolfram.com/PSLQAlgorithm.html) se usa para resolver aproximadamente ecuaciones con coeficientes enteros $latex a_i$ de la forma

@@ -8,7 +8,7 @@ url: /2015/02/06/romain-francois-y-francisco-viciana-en-el-grupo-de-usuarios-de-
 categories:
 - r
 tags:
-- charla
+- charlas
 - r
 ---
 

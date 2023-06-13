@@ -6,12 +6,12 @@ title: Programa Profesional de Iniciación a R II
 
 url: /2015/10/05/programa-profesional-de-iniciacion-a-r-ii/
 categories:
-- anuncios
+- anuncio
 - cursos
 - r
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - kschool
 - r
 ---

@@ -11,7 +11,7 @@ tags:
 - estadística
 - periodismo de datos
 - cursos
-- anuncios
+- anuncio
 ---
 
 [Idescat](http://www.idescat.cat/), el instituto de estadística oficial de Cataluña, va a organizar el día 18 de mayo un [curso de estadística para periodistas](http://www.idescat.cat/formacio/?id=R178/2012&goback=%2Egde_3936488_member_115502576). Sus objetivos son, con mi traducción,

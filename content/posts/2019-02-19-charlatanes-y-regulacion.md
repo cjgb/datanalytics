@@ -9,7 +9,7 @@ categories:
 - ciencia de datos
 - consultoría
 tags:
-- charlatanes
+- charlastanes
 - consultoría
 - regulación
 ---

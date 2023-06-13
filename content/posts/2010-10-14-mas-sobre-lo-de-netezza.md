@@ -6,7 +6,7 @@ title: Más sobre lo de Netezza
 
 url: /2010/10/14/mas-sobre-lo-de-netezza/
 categories:
-- anuncios
+- anuncio
 tags:
 - sql
 - netezza

@@ -6,10 +6,10 @@ title: 'Un libro de R: mi libro de R'
 
 url: /2018/04/05/un-libro-de-r-mi-libro-de-r/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - libros
 - r
 ---

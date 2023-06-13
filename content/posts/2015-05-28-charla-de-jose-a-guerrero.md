@@ -6,11 +6,11 @@ title: Charla de José A. Guerrero
 
 url: /2015/05/28/charla-de-jose-a-guerrero/
 categories:
-- anuncios
+- anuncio
 - ciencia de datos
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - kaggle
 ---
 

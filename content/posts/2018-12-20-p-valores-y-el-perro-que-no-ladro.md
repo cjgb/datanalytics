@@ -11,7 +11,7 @@ categories:
 tags:
 - ciencia
 - mala ciencia
-- p-valor
+- p-valores
 - replicabilidad
 - reproducibilidad
 ---

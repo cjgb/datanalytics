@@ -10,7 +10,7 @@ categories:
 tags:
 - clústering
 - finanzas
-- ibex
+- ibex35
 - kmlshape
 - r
 ---

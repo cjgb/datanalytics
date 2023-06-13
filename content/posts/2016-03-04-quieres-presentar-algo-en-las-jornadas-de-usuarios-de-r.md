@@ -6,10 +6,10 @@ title: ¿Quieres presentar algo en las Jornadas de Usuarios de R?
 
 url: /2016/03/04/quieres-presentar-algo-en-las-jornadas-de-usuarios-de-r/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - jornadas
 - r
 ---

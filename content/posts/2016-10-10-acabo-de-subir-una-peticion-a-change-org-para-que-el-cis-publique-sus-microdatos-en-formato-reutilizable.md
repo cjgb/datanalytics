@@ -7,7 +7,7 @@ title: Acabo de subir una petición a change.org para que el CIS publique sus mi
 
 url: /2016/10/10/acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable/
 categories:
-- anuncios
+- anuncio
 tags:
 - cis
 - microdatos

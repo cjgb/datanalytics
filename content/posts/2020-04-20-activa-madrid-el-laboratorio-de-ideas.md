@@ -6,9 +6,9 @@ title: 'Activa Madrid: el laboratorio de ideas'
 
 url: /2020/04/20/activa-madrid-el-laboratorio-de-ideas/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - coronavirus
 - hackatón
 - madrid

@@ -6,7 +6,7 @@ title: 'Global Urban Datafest: seré juez pero no parte'
 
 url: /2015/03/02/global-urban-datafest-sere-juez-pero-no-parte/
 categories:
-- anuncios
+- anuncio
 tags:
 - datatón
 - madrid

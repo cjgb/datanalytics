@@ -9,7 +9,7 @@ url: /2014/05/20/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la
 categories:
 - cursos
 tags:
-- curso
+- cursos
 - grandes datos
 - r
 - seio

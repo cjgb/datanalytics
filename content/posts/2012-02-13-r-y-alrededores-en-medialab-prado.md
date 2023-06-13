@@ -10,7 +10,7 @@ categories:
 tags:
 - periodismo de datos
 - r
-- anuncios
+- anuncio
 ---
 
 Con retraso —del que mis vacaciones en tierras australes tienen la culpa— doy noticia de la charla que dio Carlos Ortega, antiguo colaborador de esta bitácora, en MediaLab Prado, dentro del [ciclo de periodismo de datos](http://medialab-prado.es/article/sesion_formativa_periodismodatos_analisis_tratamiento_datos).

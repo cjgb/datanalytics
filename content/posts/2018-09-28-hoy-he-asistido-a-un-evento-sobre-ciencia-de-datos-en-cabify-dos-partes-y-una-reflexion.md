@@ -10,7 +10,7 @@ categories:
 - charlas
 tags:
 - cabify
-- charla
+- charlas
 ---
 
 ### La primera parte

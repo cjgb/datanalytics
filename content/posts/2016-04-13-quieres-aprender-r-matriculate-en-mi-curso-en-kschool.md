@@ -6,12 +6,12 @@ title: ¿Quieres aprender R? ¡Matricúlate en mi curso en KSchool!
 
 url: /2016/04/13/quieres-aprender-r-matriculate-en-mi-curso-en-kschool/
 categories:
-- anuncios
+- anuncio
 - cursos
 - r
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - kschool
 - r
 ---

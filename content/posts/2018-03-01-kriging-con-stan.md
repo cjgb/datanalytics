@@ -8,7 +8,7 @@ url: /2018/03/01/kriging-con-stan/
 categories:
 - estadística
 tags:
-- curso
+- cursos
 - kriging
 - stan
 - stan

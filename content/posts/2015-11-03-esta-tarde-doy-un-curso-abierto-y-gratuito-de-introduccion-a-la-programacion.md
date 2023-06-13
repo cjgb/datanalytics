@@ -8,8 +8,8 @@ url: /2015/11/03/esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la
 categories:
 - cursos
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - kschool
 ---
 

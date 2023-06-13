@@ -6,11 +6,11 @@ title: Daré una charla en el Betabeers Madrid (especial OpenData)
 
 url: /2017/03/10/dare-una-charla-en-el-betabeers-madrid-especial-opendata/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - datos abiertos
 - madrid
 ---

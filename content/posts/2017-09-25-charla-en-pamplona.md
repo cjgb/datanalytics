@@ -8,7 +8,7 @@ url: /2017/09/25/charla-en-pamplona/
 categories:
 - charlas
 tags:
-- charla
+- charlas
 - pamplona
 ---
 

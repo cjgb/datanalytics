@@ -7,9 +7,9 @@ title: 'IV Meetup Machine Learning Spain: factorización no negativa de matrices
 
 url: /2015/03/03/iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones/
 categories:
-- anuncios
+- anuncio
 tags:
-- charla
+- charlas
 - factorización
 - matrices
 - nmf

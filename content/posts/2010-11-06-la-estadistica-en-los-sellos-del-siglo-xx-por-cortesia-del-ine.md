@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
-- anuncios
+- anuncio
 ---
 
 Con motivo del [Día Mundial de la Estadística](http://www.datanalytics.com/2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/), el INE publicó en su página de internet una [muestra de sellos relacionados con la estadística](http://www.ine.es/diamundesta/sellos/diamundesta_sellos_en.htm) catalogados por país, década y tema.

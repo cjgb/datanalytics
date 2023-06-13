@@ -12,7 +12,7 @@ categories:
 - r
 tags:
 - gráficos
-- p-valor
+- p-valores
 - r
 - redes sociales
 ---

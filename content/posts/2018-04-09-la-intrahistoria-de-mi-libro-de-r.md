@@ -6,7 +6,7 @@ title: La intrahistoria de mi libro de R
 
 url: /2018/04/09/la-intrahistoria-de-mi-libro-de-r/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
 - libros

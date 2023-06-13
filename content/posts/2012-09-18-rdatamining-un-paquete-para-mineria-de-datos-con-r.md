@@ -11,7 +11,7 @@ categories:
 tags:
 - ciencia de datos
 - r
-- anuncios
+- anuncio
 ---
 
 Comparto con mis lectores la noticia que he recibido del paquete (aún en ciernes) [RDataMining](http://www.rdatamining.com/package). El objetivo de sus promotores es construirlo colaborativamente (¡se buscan programadores!) e incluir en él algoritmos publicados que no tengan todavía implementación en R.

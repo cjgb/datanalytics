@@ -11,7 +11,7 @@ categories:
 - youtube
 - causalidad
 tags:
-- anuncios
+- anuncio
 - causalidad
 - correlación
 - youtube

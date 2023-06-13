@@ -13,7 +13,7 @@ tags:
 - consultoría
 - estadística
 - ciencia de datos
-- anuncios
+- anuncio
 ---
 
 En esta entrada de hoy, hija de la pereza, reproduzco un vídeo que el lector puede encontrar igualmente en [Medialab Prado](http://medialab-prado.es/article/google_refine_datos). Es una presentación de [Javier de la Torre](http://vizzuality.com/employees/jatorre), de [Vizzuality](http://vizzuality.com/), una compañía que trabaja en un campo del que nos hemos venido ocupando en estas páginas: la visualización de la información.

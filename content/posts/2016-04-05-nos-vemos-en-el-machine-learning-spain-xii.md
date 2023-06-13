@@ -6,10 +6,10 @@ title: ¿Nos vemos en el Machine Learning Spain XII?
 
 url: /2016/04/05/nos-vemos-en-el-machine-learning-spain-xii/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - estadística bayesiana
 - r
 - stan

@@ -9,7 +9,7 @@ categories:
 - r
 tags:
 - r
-- anuncios
+- anuncio
 ---
 
 Bebilda, que no sé quién es (misterio que me he propuesto resolver pronto) ha arrancado dos proyectos bastante interesantes:

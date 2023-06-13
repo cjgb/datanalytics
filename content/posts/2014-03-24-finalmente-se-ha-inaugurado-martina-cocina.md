@@ -6,7 +6,7 @@ title: Finalmente, se ha inaugurado Martina Cocina
 
 url: /2014/03/24/finalmente-se-ha-inaugurado-martina-cocina/
 categories:
-- anuncios
+- anuncio
 tags:
 - arieli
 - optimización

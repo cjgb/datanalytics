@@ -16,7 +16,7 @@ tags:
 - json
 - plyr
 - r
-- ibex 35
+- ibex35
 - webscraping
 ---
 

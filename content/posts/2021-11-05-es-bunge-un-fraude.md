@@ -10,7 +10,7 @@ categories:
 - varios
 tags:
 - bunge
-- charla
+- charlas
 - estadística bayesiana
 - fraude
 ---

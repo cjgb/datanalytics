@@ -6,10 +6,10 @@ title: Anunciado el programa de las VII Jornadas de Usuarios de R
 
 url: /2015/09/28/anunciado-el-programa-de-las-vii-jornadas-de-usuarios-de-r/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - jornadas
 - r
 ---

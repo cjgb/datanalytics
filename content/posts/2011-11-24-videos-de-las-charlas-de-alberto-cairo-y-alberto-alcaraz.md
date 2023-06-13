@@ -11,7 +11,7 @@ categories:
 tags:
 - gráficos
 - números
-- anuncios
+- anuncio
 - cairo
 ---
 

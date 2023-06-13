@@ -8,7 +8,7 @@ url: /2016/04/19/diapositivas-de-mi-charla-sobre-feather/
 categories:
 - r
 tags:
-- charla
+- charlas
 - feather
 - r
 - paquetes

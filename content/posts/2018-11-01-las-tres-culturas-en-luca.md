@@ -6,10 +6,10 @@ title: Las tres culturas (en LUCA)
 
 url: /2018/11/01/las-tres-culturas-en-luca/
 categories:
-- anuncios
+- anuncio
 - estadística
 tags:
-- anuncios
+- anuncio
 - estadística
 - breiman
 ---

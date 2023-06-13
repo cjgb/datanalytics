@@ -6,9 +6,9 @@ title: '"Quién es Quién del Big Data en España 2015" y yo'
 
 url: /2015/08/05/quien-es-quien-del-big-data-en-espana-2015-y-yo/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - big data
 ---
 

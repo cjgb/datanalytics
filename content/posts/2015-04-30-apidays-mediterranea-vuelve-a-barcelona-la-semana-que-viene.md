@@ -8,7 +8,7 @@ url: /2015/04/30/apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene/
 categories:
 - programación
 tags:
-- anuncios
+- anuncio
 - apidays
 - apis
 - programación

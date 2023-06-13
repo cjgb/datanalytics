@@ -9,7 +9,7 @@ url: /2021/06/29/nuevo-video-en-youtube-sobre-el-futuro-a-corto-y-medio-plazos-d
 categories:
 - youtube
 tags:
-- anuncios
+- anuncio
 - consultoría
 - economía
 - youtube

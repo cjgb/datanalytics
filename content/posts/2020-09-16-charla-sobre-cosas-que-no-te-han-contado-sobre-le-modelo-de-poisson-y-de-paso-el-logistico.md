@@ -7,12 +7,12 @@ title: Charla sobre cosas que no te han contado sobre le modelo de Poisson (y de
 
 url: /2020/09/16/charla-sobre-cosas-que-no-te-han-contado-sobre-le-modelo-de-poisson-y-de-paso-el-logistico/
 categories:
-- anuncios
+- anuncio
 - charlas
 - estadística
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - glm
 - mortalidad
 - poisson

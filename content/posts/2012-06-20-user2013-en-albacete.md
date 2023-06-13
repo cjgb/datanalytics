@@ -7,7 +7,7 @@ title: useR2013, en Albacete
 url: /2012/06/20/user2013-en-albacete/
 categories:
 - r
-- anuncios
+- anuncio
 tags:
 - r
 ---

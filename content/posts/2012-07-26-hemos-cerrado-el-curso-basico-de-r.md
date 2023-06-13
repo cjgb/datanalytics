@@ -8,7 +8,7 @@ url: /2012/07/26/hemos-cerrado-el-curso-basico-de-r/
 categories:
 - r
 tags:
-- curso
+- cursos
 - r
 ---
 

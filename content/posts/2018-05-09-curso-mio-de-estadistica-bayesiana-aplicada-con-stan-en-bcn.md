@@ -6,11 +6,11 @@ title: Curso (mío) de estadística bayesiana aplicada con Stan en BCN
 
 url: /2018/05/09/curso-mio-de-estadistica-bayesiana-aplicada-con-stan-en-bcn/
 categories:
-- anuncios
+- anuncio
 - cursos
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - estadística bayesiana
 - upc
 ---

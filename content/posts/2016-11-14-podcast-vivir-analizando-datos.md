@@ -6,10 +6,10 @@ title: 'Podcast: "Vivir analizando datos"'
 
 url: /2016/11/14/podcast-vivir-analizando-datos/
 categories:
-- anuncios
+- anuncio
 - consultoría
 tags:
-- anuncios
+- anuncio
 - entrevista
 - podcast
 ---

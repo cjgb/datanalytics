@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
-- pruebas estadísticas
+- prueba de hipótesis
 - placebo
 ---
 

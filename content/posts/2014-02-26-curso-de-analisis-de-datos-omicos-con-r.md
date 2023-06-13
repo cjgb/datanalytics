@@ -7,11 +7,11 @@ title: Curso de análisis de datos 'ómicos' con R
 url: /2014/02/26/curso-de-analisis-de-datos-omicos-con-r/
 categories:
 - r
-- anuncios
+- anuncio
 - cursos
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - omics
 - r
 ---

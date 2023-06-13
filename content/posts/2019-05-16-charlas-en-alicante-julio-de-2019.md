@@ -6,12 +6,12 @@ title: Charlas en Alicante, julio de 2019
 
 url: /2019/05/16/charlas-en-alicante-julio-de-2019/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
 - alicante
-- anuncios
-- charla
+- anuncio
+- charlas
 - matemáticas
 ---
 

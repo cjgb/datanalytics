@@ -6,9 +6,9 @@ title: 'IX Jornadas de Usuarios de R: noviembre en Granada'
 
 url: /2017/04/17/ix-jornadas-de-usuarios-de-r-noviembre-en-granada/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - granada
 - jornadas
 ---

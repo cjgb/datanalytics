@@ -6,7 +6,7 @@ title: François Husson en las X Jornadas de Usuarios de R
 
 url: /2018/06/11/francois-husson-en-las-x-jornadas-de-usuarios-de-r/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
 - factominer

@@ -7,7 +7,7 @@ title: Noticia de las VI Jornadas de Usuarios de R
 url: /2014/10/27/noticia-de-las-vi-jornadas-de-usuarios-de-r/
 categories:
 - r
-- anuncios
+- anuncio
 tags:
 - jornadas
 - r

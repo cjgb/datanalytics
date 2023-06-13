@@ -6,12 +6,12 @@ title: Hoy estoy participando en un evento sobre "big data"
 
 url: /2018/06/20/hoy-estoy-participando-en-un-evento-sobre-big-data/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
-- anuncios
+- anuncio
 - big data
-- charla
+- charlas
 ---
 
 Hoy estoy participando en la mesa redonda que cierra [este evento](http://www.eventosyconferenciasue.com/eventos/big-data). Espero dejar claro, cuando menos:

@@ -6,7 +6,7 @@ title: ¿Sabes estadística? ¿Quieres ganar 100K dólares? Pues lee...
 
 url: /2010/03/07/sabes-estadistica-quieres-ganar-100k-dolares-pues-lee/
 categories:
-- anuncios
+- anuncio
 tags:
 - estadística
 ---

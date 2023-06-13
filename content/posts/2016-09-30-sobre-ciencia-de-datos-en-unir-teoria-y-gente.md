@@ -6,10 +6,10 @@ title: 'Sobre ciencia de datos en UNIR: teoría y gente'
 
 url: /2016/09/30/sobre-ciencia-de-datos-en-unir-teoria-y-gente/
 categories:
-- anuncios
+- anuncio
 - varios
 tags:
-- anuncios
+- anuncio
 - big data
 ---
 

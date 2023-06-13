@@ -15,7 +15,7 @@ tags:
 - rv
 - simulación
 - álgebra de variables aleatorias
-- errores
+- error
 - propagación de errores
 ---
 

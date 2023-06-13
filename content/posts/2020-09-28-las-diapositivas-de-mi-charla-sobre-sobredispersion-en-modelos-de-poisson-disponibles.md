@@ -9,7 +9,7 @@ url: /2020/09/28/las-diapositivas-de-mi-charla-sobre-sobredispersion-en-modelos-
 categories:
 - charlas
 tags:
-- charla
+- charlas
 - diapositivas
 - poisson
 - sobredispersión

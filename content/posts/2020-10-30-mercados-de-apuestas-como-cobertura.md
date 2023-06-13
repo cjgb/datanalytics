@@ -10,7 +10,7 @@ categories:
 tags:
 - apuestas
 - encuestas electorales
-- mercados de apuestas
+- mercados de predicciones
 - teoría de la decisión
 ---
 

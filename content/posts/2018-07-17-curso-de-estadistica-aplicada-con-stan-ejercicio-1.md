@@ -8,7 +8,7 @@ url: /2018/07/17/curso-de-estadistica-aplicada-con-stan-ejercicio-1/
 categories:
 - estadística
 tags:
-- curso
+- cursos
 - estadística bayesiana
 - stan
 - mezclas

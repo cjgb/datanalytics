@@ -6,9 +6,9 @@ title: Interpretación de modelos predictivos (en LUCA)
 
 url: /2018/11/29/interpretacion-de-modelos-predictivos-en-luca/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - estadística
 - interpretación
 - lime

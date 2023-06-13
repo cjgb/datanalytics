@@ -8,7 +8,7 @@ url: /2016/11/18/diapositivas-de-modelos-rapidos-y-frugales-mi-charla-en-databee
 categories:
 - cursos
 tags:
-- charla
+- charlas
 - databeers
 - frugal
 - gigerenzer

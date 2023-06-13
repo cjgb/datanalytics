@@ -7,7 +7,7 @@ url: /2023/03/21/reduccion-error-tests-ab/
 categories:
 - estadística
 tags:
-- estadistica
+- estadística
 - prueba de hipótesis
 - tests ab
 - cuped

@@ -10,7 +10,7 @@ categories:
 - ciencia de datos
 - consultoría
 tags:
-- charla
+- charlas
 - diapositivas
 - programación
 ---

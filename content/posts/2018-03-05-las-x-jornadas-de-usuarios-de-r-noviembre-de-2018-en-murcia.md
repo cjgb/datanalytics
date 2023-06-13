@@ -6,9 +6,9 @@ title: 'Las X Jornadas de Usuarios de R: noviembre de 2018, en Murcia'
 
 url: /2018/03/05/las-x-jornadas-de-usuarios-de-r-noviembre-de-2018-en-murcia/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - jornadas
 ---
 

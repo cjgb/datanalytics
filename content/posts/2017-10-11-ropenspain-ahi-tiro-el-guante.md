@@ -6,10 +6,10 @@ title: 'rOpenSpain: ahí tiro el guante'
 
 url: /2017/10/11/ropenspain-ahi-tiro-el-guante/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - cis
 - epa
 - españa

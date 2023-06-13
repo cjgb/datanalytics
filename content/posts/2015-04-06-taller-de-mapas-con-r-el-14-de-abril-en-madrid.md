@@ -6,11 +6,11 @@ title: Taller de mapas con R el 14 de abril en Madrid
 
 url: /2015/04/06/taller-de-mapas-con-r-el-14-de-abril-en-madrid/
 categories:
-- anuncios
+- anuncio
 - gráficos
 - r
 tags:
-- anuncios
+- anuncio
 - gráficos
 - mapas
 - r

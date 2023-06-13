@@ -6,9 +6,9 @@ title: 'ILOVEFS + rOpenSpain: 13 y 14 de febrero en Medialab Prado'
 
 url: /2018/02/12/ilovefs-ropenspain-13-y-14-de-febrero-en-medialab-prado/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - medialab prado
 - ropenspain
 ---

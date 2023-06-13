@@ -6,9 +6,9 @@ title: 'Visualizar''15 Datos para el bien común: convocatoria de proyectos'
 
 url: /2015/04/01/visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - datatón
 - datos abiertos
 - medialab prado

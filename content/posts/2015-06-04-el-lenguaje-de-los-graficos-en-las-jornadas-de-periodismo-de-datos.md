@@ -6,9 +6,9 @@ title: El lenguaje de los gráficos en las Jornadas de Periodismo de Datos
 
 url: /2015/06/04/el-lenguaje-de-los-graficos-en-las-jornadas-de-periodismo-de-datos/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - gráficos
 - periodismo de datos
 ---

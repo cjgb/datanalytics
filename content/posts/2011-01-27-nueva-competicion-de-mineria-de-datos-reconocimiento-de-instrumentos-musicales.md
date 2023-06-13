@@ -9,7 +9,7 @@ categories:
 - ciencia de datos
 tags:
 - ciencia de datos
-- anuncios
+- anuncio
 ---
 
 [TunedIT ](http://tunedit.org)ha organizado una nueva competición de minería de datos, [ISMIS 2011 Contest: Music Information Retrieval](http://tunedit.org/challenge/music-retrieval),  que forma parte del _[19th International Symposium on Methodologies for Intelligent Systems](http://ismis2011.ii.pw.edu.pl)_.

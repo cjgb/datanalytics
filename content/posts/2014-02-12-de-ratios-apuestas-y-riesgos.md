@@ -12,6 +12,7 @@ categories:
 tags:
 - estadística
 - odds ratio
+- odds
 - percepción del riesgo
 - probabilidad
 - r

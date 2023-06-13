@@ -6,10 +6,10 @@ title: 'Charla en Visualizar''15: la tríada del análisis de datos'
 
 url: /2015/05/04/charla-en-visualizar15/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - medialab prado
 ---
 

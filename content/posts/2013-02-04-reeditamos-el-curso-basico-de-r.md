@@ -9,7 +9,7 @@ categories:
 - cursos
 - r
 tags:
-- curso
+- cursos
 - r
 ---
 

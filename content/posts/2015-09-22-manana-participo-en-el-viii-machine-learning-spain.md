@@ -6,11 +6,11 @@ title: Mañana participo en el "VIII Machine Learning Spain"
 
 url: /2015/09/22/manana-participo-en-el-viii-machine-learning-spain/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 ---
 
 Por si alguien quiere acudir. Los datos, programa, etc., están [aquí](http://www.meetup.com/MachineLearningSpain/events/224236875/).

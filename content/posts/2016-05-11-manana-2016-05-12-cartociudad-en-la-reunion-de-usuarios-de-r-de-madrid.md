@@ -8,7 +8,7 @@ url: /2016/05/11/manana-2016-05-12-cartociudad-en-la-reunion-de-usuarios-de-r-de
 categories:
 - r
 tags:
-- anuncios
+- anuncio
 - cartociudad
 - r
 - geolocalización

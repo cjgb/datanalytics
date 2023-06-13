@@ -6,10 +6,10 @@ title: 'Con tiempo: encuentro de usuarios de R de Latinoamérica en enero de 201
 
 url: /2018/02/23/con-tiempo-encuentro-de-usuarios-de-r-de-latinoamerica-en-enero-de-2019/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - costa rica
 - hispanoamérica
 - jornadas

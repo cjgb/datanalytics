@@ -10,7 +10,7 @@ categories:
 tags:
 - jornadas
 - r
-- anuncios
+- anuncio
 ---
 
 Como imagino que ya sabréis, las [IV Jornadas de Usuarios de R](http://r-es.org/IV+Jornadas) están aquí. El anuncio oficial, reproducido debajo, se hizo ayer:

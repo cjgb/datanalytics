@@ -7,13 +7,13 @@ title: Charla el día 27 en el Taller InnovaData de periodismo de datos
 url: /2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/
 categories:
 - cursos
-- anuncios
+- anuncio
 tags:
 - competición
-- curso
+- cursos
 - estadística
 - periodismo de datos
-- anuncios
+- anuncio
 ---
 
 El lunes que viene, día 27 de mayo, impartiré un taller de... bueno, según el programa, de _[Principios básicos de estadística](https://www.centrodeinnovacionbbva.com/contents/21636-innovadata-taller-sobre-periodismo-de-datos)_. En realidad quiero hablar principalmente de cómo evitar incurrir en el poco conocido error de tipo III —dar la respuesta correcta al problema equivocado— y, en particular, de tres de los fenómenos que nos conducen hacia él:

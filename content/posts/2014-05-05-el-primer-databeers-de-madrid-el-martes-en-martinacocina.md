@@ -8,7 +8,7 @@ url: /2014/05/05/el-primer-databeers-de-madrid-el-martes-en-martinacocina/
 categories:
 - números
 tags:
-- charla
+- charlas
 - databeers
 - estadística
 ---

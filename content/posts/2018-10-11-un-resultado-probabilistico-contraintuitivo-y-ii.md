@@ -8,7 +8,7 @@ url: /2018/10/11/un-resultado-probabilistico-contraintuitivo-y-ii/
 categories:
 - probabilidad
 tags:
-- paradoja
+- paradojas
 - probabilidad
 - feller
 ---

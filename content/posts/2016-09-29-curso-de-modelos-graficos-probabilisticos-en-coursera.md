@@ -6,11 +6,11 @@ title: Curso de modelos gráficos probabilísticos en Coursera
 
 url: /2016/09/29/curso-de-modelos-graficos-probabilisticos-en-coursera/
 categories:
-- anuncios
+- anuncio
 - cursos
 tags:
 - coursera
-- curso
+- cursos
 - modelos gráficos
 - mooc
 ---

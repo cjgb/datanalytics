@@ -9,7 +9,7 @@ categories:
 - ciencia de datos
 - cursos
 tags:
-- charla
+- charlas
 - databeers
 - ciencia de datos
 - modelos

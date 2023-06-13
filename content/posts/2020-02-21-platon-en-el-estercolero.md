@@ -8,7 +8,7 @@ url: /2020/02/21/platon-en-el-estercolero/
 categories:
 - charlas
 tags:
-- charla
+- charlas
 - matemáticas
 ---
 

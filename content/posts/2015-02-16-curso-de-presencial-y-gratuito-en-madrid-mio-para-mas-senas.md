@@ -7,12 +7,12 @@ title: Curso de presencial y gratuito en Madrid (mío, para más señas)
 url: /2015/02/16/curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas/
 categories:
 - cursos
-- anuncios
+- anuncio
 - r
 tags:
-- curso
+- cursos
 - r
-- anuncios
+- anuncio
 ---
 
 Voy a impartir un [curso básico de R en Madrid](https://www.eventbrite.es/e/entradas-curso-de-r-basico-15778229108). El curso es

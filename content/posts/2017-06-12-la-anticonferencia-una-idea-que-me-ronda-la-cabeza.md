@@ -6,14 +6,14 @@ title: 'La anticonferencia: una idea que me ronda la cabeza'
 
 url: /2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/
 categories:
-- anuncios
+- anuncio
 - charlas
 - r
 tags:
 - anticonferencia
-- anuncios
+- anuncio
 - apis
-- charla
+- charlas
 - httr
 - r
 - ropensci

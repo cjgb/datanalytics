@@ -9,8 +9,8 @@ categories:
 - cursos
 - estadística
 tags:
-- charla
-- anuncios
+- charlas
+- anuncio
 - databeers
 ---
 

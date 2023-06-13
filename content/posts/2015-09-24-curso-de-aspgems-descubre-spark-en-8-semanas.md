@@ -8,8 +8,8 @@ url: /2015/09/24/curso-de-aspgems-descubre-spark-en-8-semanas/
 categories:
 - cursos
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - spark
 ---
 

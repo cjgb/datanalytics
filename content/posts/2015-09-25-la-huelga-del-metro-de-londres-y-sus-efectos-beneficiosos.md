@@ -8,7 +8,7 @@ url: /2015/09/25/la-huelga-del-metro-de-londres-y-sus-efectos-beneficiosos/
 categories:
 - números
 tags:
-- huelga
+- huelgas
 - londres
 - metro
 - números

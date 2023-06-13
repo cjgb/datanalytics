@@ -6,11 +6,11 @@ title: Charla en el CodingClub de la UC3M este martes
 
 url: /2019/12/16/charla-en-el-codingclub-de-la-uc3m-este-martes/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - python
 - r
 - uc3m

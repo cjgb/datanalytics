@@ -10,8 +10,8 @@ categories:
 - cursos
 - estadística
 tags:
-- charla
-- curso
+- charlas
+- cursos
 - grandes datos
 - hadoop
 - mapreduce

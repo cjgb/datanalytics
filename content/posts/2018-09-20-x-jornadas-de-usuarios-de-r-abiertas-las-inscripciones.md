@@ -6,7 +6,7 @@ title: 'X Jornadas de Usuarios de R: ¡abiertas las inscripciones!'
 
 url: /2018/09/20/x-jornadas-de-usuarios-de-r-abiertas-las-inscripciones/
 categories:
-- anuncios
+- anuncio
 - charlas
 - r
 tags:

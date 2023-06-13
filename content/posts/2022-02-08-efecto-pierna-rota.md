@@ -8,7 +8,7 @@ categories:
 - estadística
 tags:
 - libros
-- predicciones
+- predicción
 - subjetividad
 - meehl
 ---

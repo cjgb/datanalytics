@@ -10,7 +10,7 @@ categories:
 - r
 tags:
 - finanzas
-- ibex
+- ibex35
 - intradiario
 - r
 ---

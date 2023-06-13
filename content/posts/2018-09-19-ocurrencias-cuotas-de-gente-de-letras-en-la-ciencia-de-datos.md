@@ -8,7 +8,7 @@ url: /2018/09/19/ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos/
 categories:
 - varios
 tags:
-- charla
+- charlas
 - politikon
 ---
 

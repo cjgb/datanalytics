@@ -11,7 +11,7 @@ tags:
 - excel
 - r
 - cursos
-- anuncios
+- anuncio
 ---
 
 Hoy ha comenzado el [curso básico de R](http://www.datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). A [Juanjo Gibaja](http://jjgibaja.net/) y a mí nos ha sorprendido (muy agradablemente, por cierto) el espectacular recibimiento que ha merecido el curso: tenemos prácticamente 700 usuarios registrados.

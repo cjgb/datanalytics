@@ -6,12 +6,12 @@ title: 'Inferencia causal: entrevista a Pearl (el 2020-11-17, es decir, mañana)
 
 url: /2020/11/16/inferencia-causal-entrevista-a-pearl-el-2020-11-17/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
-- anuncios
+- anuncio
 - causalidad
-- charla
+- charlas
 - pearl
 - vídeos
 - youtube

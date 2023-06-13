@@ -8,7 +8,7 @@ url: /2015/02/09/ejercicios-de-mi-clase-de-r/
 categories:
 - r
 tags:
-- curso
+- cursos
 - r
 ---
 

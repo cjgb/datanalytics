@@ -6,9 +6,9 @@ title: Las VII Jornadas de Usuarios de R buscan patrocinadores
 
 url: /2015/05/05/las-vii-jornadas-de-usuarios-de-r-buscan-patrocinadores/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - jornadas
 - r
 ---

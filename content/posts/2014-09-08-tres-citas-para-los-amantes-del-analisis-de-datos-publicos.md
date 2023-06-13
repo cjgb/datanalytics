@@ -6,7 +6,7 @@ title: Tres citas para los amantes del análisis de datos públicos
 
 url: /2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/
 categories:
-- anuncios
+- anuncio
 tags:
 - datos abiertos
 - datos públicos

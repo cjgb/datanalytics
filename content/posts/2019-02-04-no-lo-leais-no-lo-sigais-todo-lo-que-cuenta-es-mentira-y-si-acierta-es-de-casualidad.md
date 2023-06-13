@@ -7,10 +7,10 @@ title: No lo léais, no lo sigáis; todo lo que cuenta es mentira y si acierta e
 
 url: /2019/02/04/no-lo-leais-no-lo-sigais-todo-lo-que-cuenta-es-mentira-y-si-acierta-es-de-casualidad/
 categories:
-- anuncios
+- anuncio
 - estadística
 tags:
-- anuncios
+- anuncio
 - blogs
 - estadística
 ---

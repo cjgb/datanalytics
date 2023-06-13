@@ -6,11 +6,11 @@ title: 'Dos noticias: entrevista y cursos en Alicante'
 
 url: /2019/07/08/dos-noticias-entrevista-y-cursos-en-alicante/
 categories:
-- anuncios
+- anuncio
 tags:
-- charla
+- charlas
 - entrevista
-- anuncios
+- anuncio
 ---
 
 Dos noticias para la entrada de hoy:

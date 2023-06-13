@@ -11,7 +11,7 @@ tags:
 - estadística
 - formas
 - momocs
-- distancias
+- distancia
 ---
 
 Siempre me intrigó cómo podía realizarse el análisis estadístico de _cosas_ que no son tablas. Por ejemplo, formas.

@@ -8,7 +8,7 @@ url: /2014/03/25/totales-agregados-por-bloques-en-tablas/
 categories:
 - r
 tags:
-- data.t
+- data.table
 - dplyr
 - plyr
 - r

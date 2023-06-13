@@ -6,7 +6,7 @@ title: Un foro de discusión para usuarios de SAS
 
 url: /2010/10/02/un-foro-de-discusion-para-usuarios-de-sas/
 categories:
-- anuncios
+- anuncio
 tags:
 - sas
 - foros

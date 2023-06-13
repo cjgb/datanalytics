@@ -6,9 +6,9 @@ title: Más capítulos del libro de estadística (y otras cosas y proyectos para
 
 url: /2021/01/14/mas-capitulos-del-libro-de-estadistica-y-otras-cosas-y-proyectos-para-2021/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - estadística
 - libros
 ---

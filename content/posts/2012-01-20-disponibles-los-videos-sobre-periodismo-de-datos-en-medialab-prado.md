@@ -11,7 +11,7 @@ tags:
 - números
 - periodismo de datos
 - vídeos
-- anuncios
+- anuncio
 ---
 
 Informaba el otro día en estas páginas sobre la [formación en captura de datos](http://www.datanalytics.com/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/) que hubo, dentro del ciclo charlas sobre de periodismo de datos, en MediaLab Prado.

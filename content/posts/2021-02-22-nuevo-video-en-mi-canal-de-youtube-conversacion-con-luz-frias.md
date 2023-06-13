@@ -8,7 +8,7 @@ url: /2021/02/22/nuevo-video-en-mi-canal-de-youtube-conversacion-con-luz-frias/
 categories:
 - youtube
 tags:
-- anuncios
+- anuncio
 - vídeos
 - youtube
 ---

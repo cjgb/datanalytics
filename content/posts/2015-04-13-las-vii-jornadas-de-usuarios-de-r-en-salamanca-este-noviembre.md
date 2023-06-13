@@ -6,10 +6,10 @@ title: Las VII Jornadas de Usuarios de R, en Salamanca este noviembre
 
 url: /2015/04/13/las-vii-jornadas-de-usuarios-de-r-en-salamanca-este-noviembre/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - jornadas
 - r
 ---

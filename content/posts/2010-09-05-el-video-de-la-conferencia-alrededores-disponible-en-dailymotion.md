@@ -7,11 +7,11 @@ title: El vídeo de la conferencia "alRededores" disponible en DailyMotion
 url: /2010/09/05/el-video-de-la-conferencia-alrededores-disponible-en-dailymotion/
 categories:
 - r
-- anuncios
+- anuncio
 - charlas
 tags:
 - r
-- anuncios
+- anuncio
 - charlas
 ---
 

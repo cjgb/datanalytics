@@ -8,7 +8,7 @@ url: /2013/01/23/mapa-mental-de-mi-primera-clase-del-semestre/
 categories:
 - cursos
 tags:
-- curso
+- cursos
 - datos abiertos
 ---
 

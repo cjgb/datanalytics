@@ -6,11 +6,11 @@ title: rstan y rstanarm en Medialab-Prado este jueves
 
 url: /2016/02/08/rstan-y-rstanarm-en-medialab-prado-este-jueves/
 categories:
-- anuncios
+- anuncio
 - estadística
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - estadística bayesiana
 - medialab prado
 - stan

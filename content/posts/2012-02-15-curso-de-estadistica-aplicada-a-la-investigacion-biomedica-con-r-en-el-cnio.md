@@ -11,7 +11,7 @@ categories:
 tags:
 - estadística
 - r
-- anuncios
+- anuncio
 - cursos
 ---
 

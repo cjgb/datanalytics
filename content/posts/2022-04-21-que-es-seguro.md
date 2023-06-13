@@ -7,7 +7,7 @@ url: /2022/04/21/que-es-seguro/
 categories:
 - estadística
 tags:
-- prioris
+- priori
 - riesgo
 - jaynes
 ---

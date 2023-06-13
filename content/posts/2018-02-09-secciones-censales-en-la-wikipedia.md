@@ -6,7 +6,7 @@ title: Secciones censales en la Wikipedia
 
 url: /2018/02/09/secciones-censales-en-la-wikipedia/
 categories:
-- anuncios
+- anuncio
 - estadística
 tags:
 - estadística

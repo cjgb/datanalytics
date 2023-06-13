@@ -9,7 +9,7 @@ categories:
 - probabilidad
 tags:
 - probabilidad
-- anuncios
+- anuncio
 ---
 
 Hace poco me hicieron llegar el [vídeo de una conferencia](http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries.html) pronunciada en el seno del[ TED](http://www.ted.com).

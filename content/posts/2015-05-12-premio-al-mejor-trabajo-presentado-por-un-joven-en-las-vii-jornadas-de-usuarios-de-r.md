@@ -7,7 +7,7 @@ title: Premio al mejor trabajo presentado por un joven en las VII Jornadas de Us
 
 url: /2015/05/12/premio-al-mejor-trabajo-presentado-por-un-joven-en-las-vii-jornadas-de-usuarios-de-r/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
 - competición

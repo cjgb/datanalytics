@@ -6,10 +6,10 @@ title: Conferencia de APis predictivas en Valencia (14-15 de Marzo de 2016)
 
 url: /2016/01/07/conferencia-de-apis-predictivas-en-valencia-14-15-de-marzo-de-2016/
 categories:
-- anuncios
+- anuncio
 tags:
 - ai
-- anuncios
+- anuncio
 - apis
 - ml
 ---

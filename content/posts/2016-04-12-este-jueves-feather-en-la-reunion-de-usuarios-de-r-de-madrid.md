@@ -6,10 +6,10 @@ title: Este jueves, Feather en la reunión de usuarios de R de Madrid
 
 url: /2016/04/12/este-jueves-feather-en-la-reunion-de-usuarios-de-r-de-madrid/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
-- anuncios
+- anuncio
 - feather
 - r
 ---

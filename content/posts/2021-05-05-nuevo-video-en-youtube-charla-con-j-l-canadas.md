@@ -6,7 +6,7 @@ title: 'Nuevo vídeo en YouTube: charla con J.L. Cañadas'
 
 url: /2021/05/05/nuevo-video-en-youtube-charla-con-j-l-canadas/
 categories:
-- anuncios
+- anuncio
 - youtube
 tags:
 - entrevista

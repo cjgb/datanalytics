@@ -9,7 +9,7 @@ categories:
 - números
 tags:
 - números
-- anuncios
+- anuncio
 - datatón
 ---
 

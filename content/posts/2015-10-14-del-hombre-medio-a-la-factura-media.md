@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
-- factura
+- facturas
 - media
 - números
 ---

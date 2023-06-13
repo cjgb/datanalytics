@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - estadística
-- errores
+- error
 ---
 
 Mucha gente se hace un lío con los errores de tipo I y II. Para ellos, esta [regla nemotécnica](http://stats.stackexchange.com/questions/1610/is-there-a-way-to-remember-the-definitions-of-type-i-and-type-ii-errors):

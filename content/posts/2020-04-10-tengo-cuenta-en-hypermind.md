@@ -12,7 +12,7 @@ tags:
 - calibración
 - discriminación
 - hypermind
-- mercados de apuestas
+- mercados de predicciones
 - predicción
 ---
 

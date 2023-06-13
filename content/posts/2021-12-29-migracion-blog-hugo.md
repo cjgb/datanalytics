@@ -5,9 +5,9 @@ title: He migrado el blog a Hugo
 
 url: /2021/12/29/migracion-blog-hugo/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - hugo
 - wordpress
 ---

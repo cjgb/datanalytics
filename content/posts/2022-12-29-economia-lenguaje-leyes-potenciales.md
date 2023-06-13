@@ -9,7 +9,7 @@ categories:
 tags:
 - r
 - visualización
-- curso
+- cursos
 - luz frías
 ---
 

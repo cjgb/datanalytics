@@ -9,8 +9,8 @@ categories:
 - cursos
 - r
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - kschool
 - r
 ---

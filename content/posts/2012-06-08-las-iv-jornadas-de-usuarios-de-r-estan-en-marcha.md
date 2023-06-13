@@ -10,7 +10,7 @@ categories:
 tags:
 - r
 - jornadas
-- anuncios
+- anuncio
 ---
 
 Entusiastas de R todos, regocijémonos: las IV Jornadas de Usuarios de R están en marcha. Aunque el anuncio oficial todavía no se ha hecho, estoy en condiciones de adelantar que este invierno, como viene siendo tradicional y si no se tuercen las cosas, nos veremos todos de nuevo en Barcelona.

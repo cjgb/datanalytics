@@ -6,9 +6,9 @@ title: Cambios, cambios, cambios
 
 url: /2014/01/21/cambios-cambios-cambios/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 ---
 
 Cambios en mi página. Desaparece toda mi oferta de consultoría. Porque la abandono.

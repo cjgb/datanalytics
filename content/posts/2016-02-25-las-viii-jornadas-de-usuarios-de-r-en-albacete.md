@@ -6,7 +6,7 @@ title: Las VIII Jornadas de Usuarios de R, en Albacete
 
 url: /2016/02/25/las-viii-jornadas-de-usuarios-de-r-en-albacete/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
 - jornadas

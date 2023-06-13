@@ -7,10 +7,10 @@ title: Requisitos para mi taller en el "I International Workshop on Advances in 
 
 url: /2015/11/09/requisitos-para-mi-taller-en-el-i-international-workshop-on-advances-in-functional-data-analysis/
 categories:
-- anuncios
+- anuncio
 tags:
 - big data
-- charla
+- charlas
 ---
 
 El jueves día 12 tengo un taller de cuatro horas en el [_I International Workshop on Advances in Functional Data Analysis_](http://www.est.uc3m.es/iwafda/). Siendo internacional (y el material está en inglés), me vais a permitir escribir el resto de la entrada _urbi et orbi_.

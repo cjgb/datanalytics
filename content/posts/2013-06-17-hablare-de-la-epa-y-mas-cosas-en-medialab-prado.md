@@ -7,14 +7,14 @@ title: Hablaré de la EPA (y más cosas) en Medialab Prado
 url: /2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/
 categories:
 - estadística
-- anuncios
+- anuncio
 tags:
-- charla
-- curso
+- charlas
+- cursos
 - epa
 - estadística pública
 - r
-- anuncios
+- anuncio
 ---
 
 Este miércoles (2013-06-19 en [formato ISO 8601](http://es.wikipedia.org/wiki/ISO_8601): a ver si os vais acostumbrando a él de una bendita vez) [hablaré en MediaLab Prado](http://medialab-prado.es/article/13_periodismo_datos) sobre la EPA y más cosas.

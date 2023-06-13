@@ -9,7 +9,7 @@ categories:
 - estadística
 tags:
 - causalidad
-- curso
+- cursos
 - estadística
 - multidimensionalidad
 - periodismo de datos

@@ -8,7 +8,7 @@ url: /2012/12/11/prueba-r-gentileza-de-code-school-com/
 categories:
 - r
 tags:
-- curso
+- cursos
 - r
 ---
 

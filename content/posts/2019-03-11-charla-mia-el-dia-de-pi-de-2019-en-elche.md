@@ -6,12 +6,12 @@ title: Charla (mía) el día de pi (de 2019) en Elche
 
 url: /2019/03/11/charla-mia-el-dia-de-pi-de-2019-en-elche/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
-- anuncios
+- anuncio
 - caret
-- charla
+- charlas
 - pi
 - xgboost
 ---

@@ -10,7 +10,7 @@ categories:
 - ciencia de datos
 - estadística
 tags:
-- charla
+- charlas
 - homeopatía
 - kaggle
 - ml

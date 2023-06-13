@@ -7,12 +7,12 @@ title: satRday... ¡en Santiago de Compostela!
 url: /2020/02/28/satrday-en-santiago-de-compostela/
 categories:
 - charlas
-- anuncios
+- anuncio
 - r
 tags:
 - r
 - charlas
-- anuncios
+- anuncio
 ---
 
 Los (o _ciertos_) usuarios de R de Galicia están organizando una conferencia alrededor del mundo R de la mano de [satRdays](https://satrdays.org/). Serán el sábado 12 de septiembre (de 2020) y los interesados en saber más al respecto, harán bien en visitar [esta página](https://compostela2020.satrdays.org/).

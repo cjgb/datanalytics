@@ -6,12 +6,12 @@ title: Curso de introducción a R en Gijón
 
 url: /2017/05/02/curso-de-introduccion-a-r-en-gijon/
 categories:
-- anuncios
+- anuncio
 - cursos
 - r
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - r
 ---
 

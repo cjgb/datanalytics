@@ -10,7 +10,7 @@ categories:
 - charlas
 tags:
 - betabeers
-- charla
+- charlas
 - datos abiertos
 - diapositivas
 ---

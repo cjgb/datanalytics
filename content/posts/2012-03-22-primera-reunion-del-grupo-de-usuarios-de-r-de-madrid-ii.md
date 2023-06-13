@@ -9,7 +9,7 @@ categories:
 - r
 tags:
 - r
-- anuncios
+- anuncio
 - madrid
 ---
 

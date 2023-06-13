@@ -7,7 +7,7 @@ url: /2022/12/20/significativo-vs-significativo/
 categories:
 - estadística
 tags:
-- pruebas de hipótesis
+- prueba de hipótesis
 - significancia
 - salarios
 - salud pública

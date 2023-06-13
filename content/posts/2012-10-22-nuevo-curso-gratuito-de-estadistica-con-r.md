@@ -8,7 +8,7 @@ url: /2012/10/22/nuevo-curso-gratuito-de-estadistica-con-r/
 categories:
 - r
 tags:
-- curso
+- cursos
 - r
 - anuncio
 ---

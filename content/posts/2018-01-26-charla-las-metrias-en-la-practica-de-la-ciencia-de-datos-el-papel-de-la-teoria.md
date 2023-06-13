@@ -7,12 +7,12 @@ title: 'Charla: las *-metrías en la práctica de la ciencia de datos: el papel 
 
 url: /2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/
 categories:
-- anuncios
+- anuncio
 - charlas
 - estadística
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - econometría
 - estadística
 - kschool

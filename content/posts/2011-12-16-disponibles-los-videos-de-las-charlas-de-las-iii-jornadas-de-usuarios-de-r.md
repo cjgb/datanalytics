@@ -9,7 +9,7 @@ categories:
 - r
 tags:
 - r
-- anuncios
+- anuncio
 ---
 
 En las Jornadas de Usuarios de R _íbamos_ a tener la posibilidad de grabar las charlas en vídeo pero resultó que no: aunque la EOI nos brindaba la infraestructura necesaria para la grabación y la retransmisión de las jornadas, corría por cuentra nuestra el pagar al operador de las cámaras, etc. Y éramos pobres.

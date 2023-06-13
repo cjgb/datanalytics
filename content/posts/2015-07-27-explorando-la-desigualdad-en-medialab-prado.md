@@ -6,10 +6,10 @@ title: Explorando la desigualdad en Medialab-Prado
 
 url: /2015/07/27/explorando-la-desigualdad-en-medialab-prado/
 categories:
-- anuncios
+- anuncio
 - estadística
 tags:
-- anuncios
+- anuncio
 - desigualdad
 - estadística pública
 - medialab prado

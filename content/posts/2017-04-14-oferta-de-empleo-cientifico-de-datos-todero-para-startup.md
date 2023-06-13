@@ -6,9 +6,9 @@ title: 'Oferta de empleo: científico de datos todero para "startup"'
 
 url: /2017/04/14/oferta-de-empleo-cientifico-de-datos-todero-para-startup/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - empleo
 - oferta
 ---

@@ -12,7 +12,7 @@ tags:
 - medialab prado
 - números
 - periodismo de datos
-- anuncios
+- anuncio
 ---
 
 Ya he hablado en ocasiones anteriores en este foro de MediaLab Prado. Y también de los talleres que está realizando sobre periodismo de datos.

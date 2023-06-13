@@ -9,7 +9,7 @@ categories:
 - charlas
 - estadística
 tags:
-- charla
+- charlas
 - ciencia de datos
 - estadística
 - pamplona

@@ -7,7 +7,7 @@ title: Edición especial del Journal of Statistical Software sobre GUIs para R
 url: /2010/02/28/edicion-especial-del-journal-of-statistical-software-sobre-guis-para-r/
 categories:
 - r
-- anuncios
+- anuncio
 tags:
 - r
 - guis

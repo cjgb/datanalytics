@@ -10,7 +10,7 @@ categories:
 - varios
 tags:
 - consultoría
-- ibex
+- ibex35
 - trabajo
 ---
 

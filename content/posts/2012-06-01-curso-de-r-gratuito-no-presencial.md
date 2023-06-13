@@ -8,7 +8,7 @@ url: /2012/06/01/curso-de-r-gratuito-no-presencial/
 categories:
 - r
 tags:
-- curso
+- cursos
 - r
 ---
 

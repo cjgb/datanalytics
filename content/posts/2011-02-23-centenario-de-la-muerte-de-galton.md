@@ -13,7 +13,7 @@ tags:
 - probabilidad
 - galton
 - quincuncio
-- animación
+- animaciones
 ---
 
 Al cumplirse cien años de la muerte de [Francis Galton](http://es.wikipedia.org/wiki/Francis_Galton) (1822-1911), mostraré una animación relacionada con una de sus más curiosas invenciones, el _[quincunx](http://en.wikipedia.org/wiki/Bean_machine)_ o quincuncio:

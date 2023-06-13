@@ -9,7 +9,7 @@ categories:
 - r
 tags:
 - complutense
-- curso
+- cursos
 - grandes datos
 - r
 ---

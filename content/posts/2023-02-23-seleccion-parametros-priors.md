@@ -9,7 +9,7 @@ categories:
 tags:
 - estadística bayesiana
 - estadística
-- prioris
+- priori
 - prioris informativas
 ---
 

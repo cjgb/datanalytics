@@ -10,7 +10,7 @@ categories:
 tags:
 - r
 - trucos
-- errores
+- error
 ---
 
 {{< highlight R >}}

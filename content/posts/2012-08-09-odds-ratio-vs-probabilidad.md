@@ -11,6 +11,7 @@ categories:
 tags:
 - estadística
 - odds ratio
+- odds
 - probabilidad
 - riesgo
 ---

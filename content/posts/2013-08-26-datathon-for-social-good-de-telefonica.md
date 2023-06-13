@@ -8,7 +8,7 @@ url: /2013/08/26/datathon-for-social-good-de-telefonica/
 categories:
 - ciencia de datos
 - estadística
-- anuncios
+- anuncio
 tags:
 - competición
 - datos abiertos

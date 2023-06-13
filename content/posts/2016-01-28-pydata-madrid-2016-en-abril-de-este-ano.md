@@ -8,8 +8,8 @@ url: /2016/01/28/pydata-madrid-2016-en-abril-de-este-ano/
 categories:
 - programación
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - python
 - rpython
 ---

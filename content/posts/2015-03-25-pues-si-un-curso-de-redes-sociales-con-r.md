@@ -8,8 +8,8 @@ url: /2015/03/25/pues-si-un-curso-de-redes-sociales-con-r/
 categories:
 - r
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - r
 - redes sociales
 - sna

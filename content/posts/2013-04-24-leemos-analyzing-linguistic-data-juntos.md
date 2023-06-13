@@ -8,7 +8,7 @@ url: /2013/04/24/leemos-analyzing-linguistic-data-juntos/
 categories:
 - estadística
 tags:
-- curso
+- cursos
 - lingüística
 - r
 ---

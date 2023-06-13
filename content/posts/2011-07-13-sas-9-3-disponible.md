@@ -6,7 +6,7 @@ title: SAS 9.3, disponible
 
 url: /2011/07/13/sas-9-3-disponible/
 categories:
-- anuncios
+- anuncio
 tags:
 - sas
 ---

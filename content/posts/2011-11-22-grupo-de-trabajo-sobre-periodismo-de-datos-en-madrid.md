@@ -11,7 +11,7 @@ categories:
 tags:
 - números
 - r
-- anuncios
+- anuncio
 - medialab prado
 ---
 

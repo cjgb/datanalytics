@@ -6,7 +6,7 @@ title: Ofertas de trabajo en estadística, para consultores SAS, etc.
 
 url: /2010/03/04/ofertas-de-trabajo-en-estadistica-para-consultores-sas-etc/
 categories:
-- anuncios
+- anuncio
 tags:
 - estadística
 - sas

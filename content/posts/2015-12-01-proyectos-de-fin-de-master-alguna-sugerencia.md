@@ -8,7 +8,7 @@ url: /2015/12/01/proyectos-de-fin-de-master-alguna-sugerencia/
 categories:
 - ciencia de datos
 tags:
-- curso
+- cursos
 - proyectos
 ---
 

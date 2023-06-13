@@ -6,9 +6,9 @@ title: Encuentro Big Data 2015 (.co)
 
 url: /2015/10/16/encuentro-big-data-2015-co/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - big data
 ---
 

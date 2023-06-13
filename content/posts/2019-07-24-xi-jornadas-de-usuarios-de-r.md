@@ -8,7 +8,7 @@ url: /2019/07/24/xi-jornadas-de-usuarios-de-r/
 categories:
 - r
 tags:
-- anuncios
+- anuncio
 - jornadas
 - madrid
 - r

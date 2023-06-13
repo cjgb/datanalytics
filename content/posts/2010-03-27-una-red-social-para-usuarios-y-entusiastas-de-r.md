@@ -6,7 +6,7 @@ title: Una red social para usuarios y entusiastas de SAS
 
 url: /2010/03/27/una-red-social-para-usuarios-y-entusiastas-de-r/
 categories:
-- anuncios
+- anuncio
 tags:
 - sas
 ---

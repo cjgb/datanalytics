@@ -8,7 +8,7 @@ url: /2021/03/06/nuevo-video-en-youtube-son-las-probabilidades-subjetivas-existe
 categories:
 - youtube
 tags:
-- anuncios
+- anuncio
 - probabilidad
 - fundamentos de probabilidad
 - youtube

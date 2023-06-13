@@ -6,7 +6,7 @@ title: 'Recordatorio: las VIII Jornadas de Usuarios de R'
 
 url: /2016/10/07/recordatorio-las-viii-jornadas-de-usuarios-de-r/
 categories:
-- anuncios
+- anuncio
 tags:
 - jornadas
 - r

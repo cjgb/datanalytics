@@ -9,7 +9,7 @@ categories:
 - estadística
 - r
 tags:
-- charla
+- charlas
 - jornadas
 - r
 ---

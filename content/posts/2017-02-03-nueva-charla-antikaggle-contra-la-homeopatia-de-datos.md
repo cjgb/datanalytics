@@ -8,7 +8,7 @@ url: /2017/02/03/nueva-charla-antikaggle-contra-la-homeopatia-de-datos/
 categories:
 - charlas
 tags:
-- charla
+- charlas
 - ciencia de datos
 - kaggle
 ---

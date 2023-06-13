@@ -10,7 +10,7 @@ categories:
 tags:
 - estadística
 - estereotipos
-- prioris
+- priori
 - ética
 ---
 

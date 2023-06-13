@@ -9,7 +9,7 @@ categories:
 - programación
 tags:
 - grandes datos
-- anuncios
+- anuncio
 ---
 
 Permítanme mis lectores matar dos pájaros con una misma entrada. La primera es anunciar que se está organizando una[ conferencia sobre Grandes Datos en Madrid](http://www.bigdataspain.com/) este invierno. Tendrá lugar los días 14, 15 y 16 de noviembre. Los organizadores la anuncian así:

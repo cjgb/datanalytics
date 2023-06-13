@@ -6,11 +6,11 @@ title: 'Charla en Barcelona: Si yo fuera rey...'
 
 url: /2017/05/03/charla-en-barcelona-si-yo-fuera-rey/
 categories:
-- anuncios
+- anuncio
 - charlas
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 ---
 
 El día 11 (ISO: 2017-05-11) [hablo en Barcelona](http://kschool.com/comunidad-kschool/the-digital-change/#).

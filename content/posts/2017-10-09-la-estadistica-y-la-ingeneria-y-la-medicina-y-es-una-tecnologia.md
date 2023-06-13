@@ -9,7 +9,7 @@ categories:
 - charlas
 - estadística
 tags:
-- charla
+- charlas
 - estadística
 - pamplona
 - técnica

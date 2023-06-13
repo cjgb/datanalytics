@@ -6,7 +6,7 @@ title: Nuevo vídeo en YouTube. Esta vez, sobre la falacia ecológica
 
 url: /2021/06/20/nuevo-video-en-youtube-esta-vez-sobre-la-falacia-ecologica/
 categories:
-- anuncios
+- anuncio
 - estadística
 - youtube
 tags:

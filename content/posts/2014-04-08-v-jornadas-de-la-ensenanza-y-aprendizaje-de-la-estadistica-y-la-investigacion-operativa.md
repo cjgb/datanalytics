@@ -11,8 +11,8 @@ categories:
 - cursos
 - estadística
 tags:
-- anuncios
-- curso
+- anuncio
+- cursos
 - grandes datos
 - ciencia de datos
 - seio

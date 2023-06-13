@@ -6,12 +6,12 @@ title: 'Charla: predicciones y decisiones, más allá de los errores cuadrático
 
 url: /2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/
 categories:
-- anuncios
+- anuncio
 - charlas
 - estadística
 tags:
-- anuncios
-- charla
+- anuncio
+- charlas
 - estadística
 - kschool
 ---

@@ -7,7 +7,7 @@ title: '"Introducción a la probabilidad y la estadística para científicos de 
 
 url: /2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/
 categories:
-- anuncios
+- anuncio
 - estadística
 - libros
 tags:

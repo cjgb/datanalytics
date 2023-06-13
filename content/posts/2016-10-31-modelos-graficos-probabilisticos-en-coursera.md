@@ -9,7 +9,7 @@ categories:
 - probabilidad
 tags:
 - coursera
-- curso
+- cursos
 - modelos gráficos
 - probabilidad
 ---

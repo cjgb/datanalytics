@@ -8,10 +8,10 @@ url: /2012/07/17/dos-cursos-de-r-en-la-u-de-murcia/
 categories:
 - r
 tags:
-- curso
+- cursos
 - r
 - taller
-- anuncios
+- anuncio
 ---
 
 La Universidad de Murcia ha organizado dos talleres sobre R:

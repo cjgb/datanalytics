@@ -6,9 +6,9 @@ title: rOpenSpain está en marcha
 
 url: /2018/02/02/ropenspain-esta-en-marcha/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - ropenspain
 ---
 

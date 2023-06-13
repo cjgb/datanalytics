@@ -8,9 +8,9 @@ url: /2014/01/13/nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza/
 categories:
 - ciencia de datos
 - r
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - grandes datos
 - hadoop
 - ciencia de datos

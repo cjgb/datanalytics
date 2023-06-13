@@ -12,7 +12,7 @@ tags:
 - contaminación
 - estadística
 - predicción
-- temperatura
+- temperaturas
 - le verrier
 ---
 

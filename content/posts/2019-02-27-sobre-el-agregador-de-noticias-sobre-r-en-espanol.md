@@ -6,7 +6,7 @@ title: Sobre el agregador de noticias sobre R en español
 
 url: /2019/02/27/sobre-el-agregador-de-noticias-sobre-r-en-espanol/
 categories:
-- anuncios
+- anuncio
 - r
 tags:
 - agregador

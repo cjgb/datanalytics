@@ -10,7 +10,7 @@ categories:
 tags:
 - datos abiertos
 - números
-- anuncios
+- anuncio
 ---
 
 Me llega la noticia de que el 3 de diciembre tendrá lugar el [Open Data Day](http://www.opendataday.org/index-es.html),

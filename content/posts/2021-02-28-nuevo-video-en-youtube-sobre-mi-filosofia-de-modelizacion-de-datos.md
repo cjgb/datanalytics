@@ -8,7 +8,7 @@ url: /2021/02/28/nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-da
 categories:
 - youtube
 tags:
-- anuncios
+- anuncio
 - vídeos
 - youtube
 - metodología

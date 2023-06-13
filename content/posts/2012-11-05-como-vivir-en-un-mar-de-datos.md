@@ -10,7 +10,7 @@ categories:
 tags:
 - grandes datos
 - charlas
-- anuncios
+- anuncio
 ---
 
 Pues martes, miércoles y jueves de esta semana voy a tratar de averiguarlo acudiendo a las [Primeras jornadas “Vivir en un mar de datos” (del Big Data a la Smart Society)](http://www.fundacion.telefonica.com/es/que_hacemos/convocatorias/detalle/06_11_2012_esp_3546) organizados por la Fundación Telefónica.

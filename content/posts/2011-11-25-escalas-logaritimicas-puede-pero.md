@@ -9,7 +9,7 @@ categories:
 - gráficos
 tags:
 - gráficos
-- logaritmos
+- logaritmo
 - ejes
 ---
 

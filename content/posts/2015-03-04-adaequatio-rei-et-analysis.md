@@ -6,9 +6,9 @@ title: Adaequatio rei et analysis
 
 url: /2015/03/04/adaequatio-rei-et-analysis/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - big data
 ---
 

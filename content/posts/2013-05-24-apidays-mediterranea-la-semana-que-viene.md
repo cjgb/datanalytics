@@ -9,7 +9,7 @@ categories:
 - r
 tags:
 - apis
-- curso
+- cursos
 - r
 ---
 

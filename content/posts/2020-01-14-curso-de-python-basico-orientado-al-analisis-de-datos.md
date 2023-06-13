@@ -6,12 +6,12 @@ title: Curso de python básico orientado al análisis de datos
 
 url: /2020/01/14/curso-de-python-basico-orientado-al-analisis-de-datos/
 categories:
-- anuncios
+- anuncio
 - cursos
 - python
 tags:
 - ciencia de datos
-- curso
+- cursos
 - python
 ---
 

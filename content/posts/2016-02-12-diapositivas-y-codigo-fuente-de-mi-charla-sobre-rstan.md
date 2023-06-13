@@ -8,7 +8,7 @@ url: /2016/02/12/diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan/
 categories:
 - estadística
 tags:
-- charla
+- charlas
 - diapositivas
 - r
 - stan

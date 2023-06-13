@@ -6,9 +6,9 @@ title: Ya que estamos de resaca electoral, ¡Hacking elections!
 
 url: /2015/05/25/ya-que-estamos-de-resaca-electoral-hacking-elections/
 categories:
-- anuncios
+- anuncio
 tags:
-- anuncios
+- anuncio
 - datatón
 - elecciones
 - hackatón
