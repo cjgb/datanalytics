@@ -1,9 +1,9 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-06-11
+date: 2023-06-13
 title: "Si Pearson hubiese tenido un ordenador como el mío..."
 
-url: /2023/06/11/pearson-ordenadores/
+url: /2023/06/13/pearson-ordenadores/
 categories:
 - estadística
 tags:
