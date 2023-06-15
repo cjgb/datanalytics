@@ -18,7 +18,7 @@ El primero,
 
 de W. E. Deming, es pura estadística _pop_. El segundo, con el que tropecé releyendo unas presentaciones de Brian Ripley, dice
 
-> “No one trusts a model except the person who wrote it; everyone trusts an observation, except the person who made it.
+> No one trusts a model except the person who wrote it; everyone trusts an observation, except the person who made it.
 
 y parece ser que se la debemos a un tal
 [H. Shapley](https://en.wikipedia.org/wiki/Harlow_Shapley).
