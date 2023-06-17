@@ -1,15 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-09-09 07:58:44+00:00
-draft: false
+date: 2013-09-09
 title: La paradoja de Lord
 
 url: /2013/09/09/la-paradoja-de-lord/
+
 categories:
 - estadística
 tags:
 - bioestadística
 - estadística
+- paradoja de lord
+- paradojas
 ---
 
 Hace unos meses una clienta me propuso un problema relativamente (¿aparentemente?) sencillo. Era el siguiente:
@@ -32,7 +34,10 @@ que recibe, en la jerga, el nombre de GSA (o _gain score analysis_). El segundo,
 después ~ tratamiento + antes
 {{< / highlight >}}
 
-El hecho de que ambos análisis puedan dar respuestas divergentes se conoce como paradoja de Lord. Existe una literatura extensa sobre el fenómeno. A mí me sirvió, p.e., [este artículo](http://pareonline.net/getvn.asp?v=14&n=6). No obstante, [dicen](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_college_student_development/v045/45.3pike01.html) que
+El hecho de que ambos análisis puedan dar respuestas divergentes se conoce como paradoja de Lord. Existe una literatura extensa sobre el fenómeno. A mí me sirvió, p.e.,
+[este artículo](http://pareonline.net/getvn.asp?v=14&n=6).
+No obstante,
+[dicen](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_college_student_development/v045/45.3pike01.html) que
 
 
 >What remains uncontested is Lord's (1965, p. 305) conclusion from his first article: "with the data usually available for such studies, there simply is no logical or statistical procedure that can be counted on to make proper allowances for uncontrolled pre-existing differences between groups."
