@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-07-31
+date: 2023-07-06
 title: 'Un gráfico con dos lecturas muy distintas'
 
 url: /2023/07/06/co2-e-medios-transporte/
