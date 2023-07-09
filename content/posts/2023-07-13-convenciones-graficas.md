@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-07-13
 title: 'Subversión de convenciones gráficas: un ejemplo'
 
-url: /2023/07/11/subversion-convenciones-graficas/
+url: /2023/07/13/subversion-convenciones-graficas/
 categories:
 - gráficos
 tags:
