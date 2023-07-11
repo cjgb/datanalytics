@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-07-18
 title: 'La energía nuclear, ¿salvará el mundo?'
 
-url: /2023/07/18/subversion-convenciones-graficas/
+url: /2023/07/18/energia-nuclear-salvara-mundo/
 categories:
 - números
 tags:
@@ -24,10 +24,11 @@ La casi totalidad de la literatura seria al respecto se puede resumir en lo sigu
 
 _[Luego, claro, hay otra literatura seudocientífica que viene a decir cómo 1, 2 y 3 son irresolubles por mucho que se agrave 4. Pero este es un blog serio y sin tiempo para tonterías.]_
 
-Si quieres escribir un libro a favor de la energía nuclear, la estrategia es obvia: escribes cómo solucionar 1, 2 y 3 pero obvias su impacto en 4.
+Si quieres escribir un libro a favor de la energía nuclear, la estrategia es obvia: escribes cómo solucionar 1, 2 y 3 pero obvias su impacto sobre 4.
 
 Tómese el ejemplo del afamado libro
-[_La enegía nuclear salvará el mundo_](https://www.goodreads.com/es/book/show/51103229) y búsquense secuencias de caracteres como _precio_ (20 apariciones, frecuentemente formando parte de otras como _preciosas_), coste (27 apariciones), euros (2 apariciones) o dólar (3). Eso nos permite identificar los episodios del libro que pudieran tener algo que ver con 4. Así nos encontramos con párrafos como:
+[_La enegía nuclear salvará el mundo_](https://www.goodreads.com/es/book/show/51103229)
+y búsquense secuencias de caracteres como _precio_ (20 apariciones, frecuentemente formando parte de otras como _preciosas_), _coste_ (27 apariciones), _euros_ (2) o _dólares_ (3). Eso nos permite identificar los episodios del libro que pudieran tener algo que ver con 4. Así nos encontramos con párrafos como:
 
 > El apagón nuclear obligó a aumentar la producción eléctrica de las centrales térmicas convencionales, alimentadas por carbón y gas natural, lo que incrementó las emisiones contaminantes (cuyas consecuencias podrían ser motivo de otro estudio) y repercutió al alza en el precio de la electricidad. Muchas personas no podían pagar la factura eléctrica y pasaban los inviernos sin encender la calefacción, aumentando de este modo la mortalidad. Parece una cadena de desdichas macabras.
 
@@ -41,7 +42,7 @@ que tampoco. Hay otros como
 
 que efectivamente nos cuentan cómo gracias a 4 se buscan soluciones a los problemas 1, 2 y 3, pero eso ya lo sabíamos.
 
-De todos ellos, los únicos extractos (en un libro de 80k palabras) que hacen referencia explícita a 4 son dos. El primero, con mi subrayado, es:
+De todos ellos, los únicos extractos ---en un libro de 80k palabras--- que hacen referencia explícita a 4 son dos. El primero, con mi subrayado, es:
 
 >  Un mito muy extendido sobre la gestión de los residuos radiactivos es que los ciudadanos la costeamos con nuestros impuestos. En España, la empresa pública ENRESA realiza la gestión, financiada con la aportación de las empresas que generan los residuos radiactivos, como obliga el Plan General de Residuos Radiactivos desde 2006. **Las empresas propietarias de las centrales nucleares no pueden repercutir el coste de la gestión de sus residuos en la factura eléctrica, porque no tienen potestad para marcar el precio que cobran por la electricidad que producen, ya que proviene de una compleja subasta.** También es habitual que muchas personas desconozcan que la provisión de fondos también incluye la construcción del almacenamiento geológico profundo, que también te explicaré en un capítulo posterior. Este almacén, una vez sellado, dejará de tener gastos porque se diseña para no necesitar supervisión ni mantenimiento.
 
@@ -55,8 +56,8 @@ El segundo párrafo que discute algún aspecto relacionado con los costes es:
 
 Y no hay más.
 
-El libro, pues, es un publirreportaje, uno de esos anuncios larguísimos, en los que se cuentan las virtudes de un producto pero se cuida mucho de mencionar el precio. En el Corte Inglés ya es primavera y la energía nuclear salvará al mundo. Pasen y paguen.
+El libro, pues, es un publirreportaje, uno de esos anuncios larguísimos en los que se glosan las innumerables virtudes de un producto pero se cuida mucho de mencionar el precio. En el Corte Inglés ya es primavera y la energía nuclear salvará al mundo. Pasen y paguen.
 
-Así las cosas, la gran cuestión sobre la energía nuclear sigue siendo si, habida cuenta del coste que supone la seguridad, ya no es si habrá de salvar al mundo sino, simplemente, si es viable. La respuesta no se encuentra ---por pura incomparecencia--- en el libro antes comentado. Yo tampoco la tengo ---esta vez, por pura incompetencia--- pero si alguien tiene tiempo e interés, bien hará en leer el libro
+Así las cosas, la gran cuestión sobre la energía nuclear sigue siendo, habida cuenta del coste que supone la seguridad, ya no es si habrá de salvar al mundo sino, simplemente, si es viable. La respuesta no se encuentra ---por pura incomparecencia--- en el libro antes comentado. Yo tampoco la tengo ---esta vez, por pura incompetencia--- pero si alguien tiene tiempo e interés, bien hará en leer el libro
 [_Why Nuclear Power has been a Flop (at Solving the Gordian Knot of Electricity Poverty and Global Warming)_](https://www.goodreads.com/book/show/61349843-why-nuclear-power-has-been-a-flop),
 ---escrito por un partidario acérrimo de la energía nuclear--- que toma verdaderamente por los cuernos el toro del coste y llega a la conclusión que resume el título.
