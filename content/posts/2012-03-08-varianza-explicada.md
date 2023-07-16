@@ -1,7 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-08 07:44:41+00:00
-draft: false
+date: 2012-03-08
 title: ¿Varianza explicada?
 
 url: /2012/03/08/varianza-explicada/
@@ -27,7 +26,7 @@ A la serie le ajusta un modelo simple basado en [_splines_](http://en.wikipedia.
 [![](/wp-uploads/2012/03/mortalidad_chicago_predicha.png#center)
 ](/wp-uploads/2012/03/mortalidad_chicago_predicha.png#center)
 
-El _R_2 del ajuste es 0.35 y el autor se pregunta: ¿es adecuado denominar a este número varianza _explicada_? Porque, ¿_explica_ realmente la fecha el que haya más o menos muertos en un día determinado? ¿No viene a ser eso, poco más o menos, lo que nos cuentan los fabricantes de horóscopos?
+La R² del ajuste es 0.35 y el autor se pregunta: ¿es adecuado denominar a este número varianza _explicada_? Porque, ¿_explica_ realmente la fecha el que haya más o menos muertos en un día determinado? ¿No viene a ser eso, poco más o menos, lo que nos cuentan los fabricantes de horóscopos?
 
 Tal vez, por usar este tipo de términos, involuntariamente, estamos sugiriendo causalidad. Tal vez, demasiado frecuentemente, nos autosugestionamos.
 
