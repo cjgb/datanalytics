@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-09-14
 title: 'Gestión de la liquidez en tiempos de inflación'
 
-url: /2023/09/12/gestion-liquidez/
+url: /2023/09/14/gestion-liquidez/
 categories:
 - varios
 tags:
