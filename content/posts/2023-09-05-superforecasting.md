@@ -34,7 +34,7 @@ No obstante, haría falta tener un lamentable nivel de comprensión lectora de r
 
 Un caso particular del problema de la predicción es la de estimar la probabilidad de eventos que aún no se han producido jamás.
 
-Así hace Guillermo Lujik en una entrada reciente ---aprovecho para informar de que todo su blog es muy recomendable---:
+Así hace Guillermo Luijk en una entrada reciente ---aprovecho para informar de que todo su blog es muy recomendable---:
 [_¿Qué probabilidad tienes de vivir una guerra nuclear?_](https://www.overfitting.net/2023/08/que-probabilidad-tienes-de-vivir-una.html). El que en los casi setenta años que han discurrido desde que comenzaron a proliferar las armas nucleares no se haya producido ninguno acota necesariamente la probabilidad anual de _holocausto nuclear_. Esas cotas pueden usarse luego para realizar estimaciones prospectivas: ¿qué nos pueden deparar, p.e, los próximos treinta años?
 
 Es problema, así formulado ---o simplificado---, es bien conocido. Si el evento en cuestión ha tenido N ocasiones ---con la misma probabilidad--- de ocurrir pero no se ha materializado nunca, se puede aplicar la llamada _regla del tres_ de la que escribí
