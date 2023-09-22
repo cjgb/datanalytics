@@ -21,7 +21,7 @@ Por supuesto ---y las palabras del título están muy medidas--- no quiere dar a
 
 ### II.
 
-He dividido el capital que invierto en renta fija de esta manera:
+He dividido el capital que invierto en renta variable de esta manera:
 
 * 75% en una _cartera geográfica_; dentro de ella:
     - 50% en EEUU
