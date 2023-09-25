@@ -98,7 +98,7 @@ $$P < 0.3 \times (12.3 + 0.91 A) - 1 = 2.69 + 0.273 A \sim 2.5 + A / 4.$$
 
 Mi nuevo monitor sería A si consumiese unos 7.5 W en lugar de 35.
 
-La fórmula tiene una _interpretación_ obvia: para tener la máxima calificación, se permite un consumo de:
+La fórmula tiene una _interpretación_ obvia: para tener la máxima calificación, hay que alcanzar un consumo de:
 
 - 0.25 W por dm² y
 - 2.5 W para _asuntos propios_: pérdidas del transformador y el resto de la electrónica.
