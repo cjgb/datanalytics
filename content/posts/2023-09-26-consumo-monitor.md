@@ -67,11 +67,11 @@ El EEI se calcula, a su vez, usando la fórmula
 
 que tiene como parámetros:
 
-* La potencia P (en W) en funcionamiento (aunque se distinguen dos modos distintos de ellos, que dan lugar, potencialmente, a dos etiquetas distintas)
+* La potencia P (en W) en funcionamiento (aunque se distinguen dos modos distintos de ellos, que dan lugar, potencialmente, a dos etiquetas distintas; de hecho, en la ficha, aparecen dos etiquetas, la _normal_ asociada el modo SDR de funcionamiento y otra más sutilmente indicada correspondiente al modo HDR).
 * El área de la pantalla en dm².
-* Un coeficiente corrector, que es 0 para monitores y televisores.
+* Un coeficiente corrector, que es ignorable porque se define como $0$ para monitores y televisores.
 
-La fórmula es de lo más curiosa e intrigante. Ni idea de dónde puede haber salido. Pero tiene toda la pinta de un _sujétame el cubata_ de un ingeniero guasón a los burócratas de la UE. El denominador es sin duda intimidante, pero se parece muy sospechosamente a lo que se conoce popularmente como _recta_; en efecto, si uno hace
+La fórmula es de lo más curiosa e intrigante. Ni idea de dónde puede haber salido. Pero tiene toda la pinta de un _sujétame el cubata_ de un ingeniero guasón a los burócratas de la UE: el denominador es sin duda intimidante, pero se parece muy sospechosamente a lo que se conoce popularmente como _recta_; en efecto, si uno hace
 
 {{< highlight python >}}
 den <- function(x)
@@ -86,7 +86,7 @@ obtiene
 
 ![](/wp-uploads/2023/monitor_certificacion_recta_regulatoria.png#center)
 
-La gráfica anterior cubre con creces el rango típico de tamaños en dm² de los monitores: el que se me murió tenía 10 dm² y el actual, 20 dm².
+La gráfica anterior cubre (¡con creces!) el rango típico de tamaños en dm² de los monitores: el que se me murió tenía 10 dm²; el actual, 20 dm².
 
 La recta que _mejor_ aproxima la curva regulatoria del denominador es $12.3 + 0.91 A$, por lo que la ecuación de la regulación es, aproximadamente,
 
@@ -94,14 +94,20 @@ $$\text{IEE} = \frac{P + 1}{12.3 + 0.91 A},$$
 
 de donde se deduce que para conseguir una certificación de A, la cota de la potencia es
 
-$$P < 0.3 * (12.3 + 0.91 A) - 1 = 2.69 + 0.273 A \sim 2.5 + A / 4.$$
+$$P < 0.3 \times (12.3 + 0.91 A) - 1 = 2.69 + 0.273 A \sim 2.5 + A / 4.$$
 
-Mi nuevo monitor sería A si gastase unos 7.5 W en lugar de 35.
+Mi nuevo monitor sería A si consumiese unos 7.5 W en lugar de 35.
+
+La fórmula tiene una _interpretación_ obvia: para tener la máxima calificación, se permite un consumo de:
+
+- 0.25 W por dm² y
+- 2.5 W para _asuntos propios_: pérdidas del transformador y el resto de la electrónica.
 
 
 ### V.
 
-- Cualquier dispositivo electrónico que consuma menos de 2.5 W puede venderse en la UE como monitor con la máxima nota en términos de eficiencia energética siempre que su superficie de visión sea nula.
+- Hay que celebrar que, a pesar de todo, los fundamentos físicos de la cosa parecen firmes: antes de ver nada, antes de mirar datos o fórmulas, parece evidente que la eficiencia energética tiene que ver con algún cociente entre potencia y área para que el modelo, al menos, sea _dimensionalmente correcto_.
+- Cualquier dispositivo electrónico que consuma menos de 2.5 W puede venderse en la UE como monitor con la máxima nota en términos de eficiencia energética siempre que su superficie de visión sea nula. Bueno, no, no sería posible, pero es entretenido ---¡e instructivo!--- jugar a ver qué pasa en los extremos de los rangos de las regresiones.
 - Se me escapan enteramente los criterios de la clasificación para monitores. Si alguien les ve justificación alguna y quiere aclararnos el asunto a todos, tiene a su disposición los comentarios.
-- No obstante, he estado especulando con que para obtener la A hace falta gastar poco más o menos la cantidad de energía que contienen en el límite teórico los fotones necesarios para poder leer lo que se escribe. A saber.
+- No obstante, he estado especulando con que para obtener la etiqueta A hace falta gastar poco más o menos la cantidad de energía que contienen en el límite teórico los fotones necesarios para poder leer lo que se escribe. A saber.
 - Por lo demás, no tengo claro a dónde conduce todo este análisis. Lo de que el mundo es un gran circo ya lo sabíamos al principio.
