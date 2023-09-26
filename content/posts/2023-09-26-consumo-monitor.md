@@ -14,9 +14,9 @@ tags:
 
 ### I.
 
-La semana pasada, tras 18 años de buen servicio ---ha estado encendido ininiterrumpidamente desde, por lo menos, el confinamiento---, falleció que el degradé a segundo monitor: un
+La semana pasada, tras 18 años de buen servicio ---ha estado encendido ininiterrumpidamente desde, por lo menos, el confinamiento---, falleció el que degradé a segundo monitor: un
 [LG Flatron L1910S](https://www.lg.com/es/posventa/producto/lg-L1910S.*******)
-de 19 pulgadas y una resolución hoy mísera que compré en Carrefor y me costó 500 euros del ala. Podría haberlo reparado porque su único problema, casi seguro, es un fallo superficial en la alimentación pero me he dejado llevar por el consumismo. De paso, he jubilado uno de los últimos cables VGA que deben de quedar operativos al norte del Manzanares.
+de 19 pulgadas y una resolución hoy mísera que compré en Carrefor y me costó 500 euros del ala. Podría haberlo reparado porque su único problema, casi seguro, es un fallo superficial en la alimentación; pero me he dejado llevar por el consumismo. De paso, he jubilado uno de los últimos cables VGA que deben de quedar operativos al norte del Manzanares.
 
 El reemplazo ha sido un
 [LG 27UL550](https://www.lg.com/us/monitors/lg-27ul550-w-4k-uhd-led-monitor),
@@ -46,7 +46,7 @@ que dizque merece una A, parecen erratas; más adelante se explica por qué.
 
 ### III.
 
-Esa manera de evaluar las cosas en la que todos suspenden sorprendería a más de un pedagogo, supongo. Quienes presten atención a la etiqueta de eficiencia energética antes y no, como yo, después de adquirir los cachivaches andarán muy frustrados. Habrá que ver si se han resignado a usar micromonitores y gafas.
+Esa manera de evaluar las cosas en la que todos suspenden sorprendería a más de un pedagogo, supongo. Quienes presten atención a la etiqueta de eficiencia energética antes y no, como yo, después de adquirir los cachivaches andarán muy frustrados. Habrá que ver si se han resignado a usar micromonitores y gafas de culo de vaso.
 
 Lo que queda claro es que a la hora de asignar etiquetas no se hace evalúa, como tantas veces con los exámenes, _por la normal_ sino que se usan otros criterios.
 
@@ -71,7 +71,7 @@ que tiene como parámetros:
 * El área de la pantalla en dm².
 * Un coeficiente corrector, que es ignorable porque se define como $0$ para monitores y televisores.
 
-La fórmula es de lo más curiosa e intrigante. Ni idea de dónde puede haber salido. Pero tiene toda la pinta de un _sujétame el cubata_ de un ingeniero guasón a los burócratas de la UE: el denominador es sin duda intimidante, pero se parece muy sospechosamente a lo que se conoce popularmente como _recta_; en efecto, si uno hace
+La fórmula es de lo más curiosa e intrigante. Ni idea de dónde puede haber salido. Pero tiene toda la pinta de un _sujétame el cubata_ de un ingeniero guasón a los burócratas de la UE: el denominador es sin duda intimidante, pero se parece muy sospechosamente a lo que se conoce popularmente como _recta_. En efecto, si uno hace
 
 {{< highlight python >}}
 den <- function(x)
