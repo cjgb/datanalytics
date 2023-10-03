@@ -23,7 +23,7 @@ Supongamos que **X** es una población determinada. A alguien le interesa estudi
 
 ### II.
 
-Supongamos que a alguien le interesa aprender sobre cierto aspecto de una población **X**. Lo que tiene que hacer es buscar publicaciones en que lo hayan estudiado como se indica en I. Seguramente hay muchas más fuentes que hablen de ese aspecto de la población **X**, pero si se han redactado siguiendo el esquema anterior o están basados en fuentes primarias que lo hayan hecho así, solo acertarán, si lo hacen, de casualidad.
+Supongamos que a alguien le interesa aprender sobre cierto aspecto de una población **X**. Lo que tiene que hacer es buscar publicaciones en que lo hayan estudiado como se indica en I. Seguramente hay muchas más fuentes que hablen de ese aspecto de la población **X**, pero si no se han redactado siguiendo el esquema anterior o no están basados en fuentes primarias que lo hayan hecho así, solo acertarán, si lo hacen, de casualidad.
 
 El tiempo que uno invierte en consultar esas fuentes es no solo tiempo perdido sino, además, contraproducente casi siempre: es muy probable que le llenen a uno la cabeza de conocimientos falsos.
 

@@ -29,6 +29,6 @@ El motor que las genera, que es producto de mi cacumen —por lo que a él y sol
 
 Debí haberlo refinado en su día porque, en particular, la transición de la primera a la segunda palabra incurre en ocasiones en el anacoluto.
 
-Finalmente, un vídeo que explica mucho mejor de cómo lo podría hacer yo la matemática subyacente:
+Finalmente, un vídeo que explica la matemática subyacente mucho mejor que como lo podría hacer yo:
 
 {{< youtube 3pRR8OK4UfE >}}
