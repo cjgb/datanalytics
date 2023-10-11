@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-10-10
 title: '¿Y si calculamos la potencia de un test a posteriori?'
 
-url: /2023/09/28/potencia-tests-estadisticos-ii/
+url: /2023/10/10/potencia-tests-estadisticos-ii/
 categories:
 - estadística
 tags:

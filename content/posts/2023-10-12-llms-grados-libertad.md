@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2023-10-12
 title: 'LLMs: grados de libertad en la generación de texto'
 
-url: /2023/10/03/llms-grados-libertad
+url: /2023/10/12/llms-grados-libertad
 categories:
 - ciencia de datos
 tags:
