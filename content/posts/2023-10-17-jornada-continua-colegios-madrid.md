@@ -13,9 +13,9 @@ tags:
 - madrid
 ---
 
-La anterior es una lista de los 21 distritos del municipio de Madrid en un orden muy concreto. Si se te ocurre alguna, casi seguro, te has equivocado.
+La anterior es una lista de los 21 distritos del municipio de Madrid en un orden muy concreto. Si se te ocurre alguno, casi seguro, te has equivocado.
 
-Se trata de una lista en estricto orden de porcentaje de colegios públicos de primaria (CEIP) que ofrecen clases en modalidad de jornada continua:
+Porque se trata de una lista en estricto orden de porcentaje de colegios públicos de primaria (CEIP) que ofrecen clases en modalidad de jornada continua:
 
 ![](/wp-uploads/2023/colegios_jornada_continua_madrid_2023.png#center)
 
