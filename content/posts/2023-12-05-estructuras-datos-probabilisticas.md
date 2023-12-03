@@ -4,7 +4,7 @@ date: 2023-12-05
 draft: false
 title: Estructuras de datos probabilísticas
 
-url: /2023/11/28/estructuras-datos-probabilísticas/
+url: /2023/12/05/estructuras-datos-probabilísticas/
 categories:
 - probabilidad
 tags:
