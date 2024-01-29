@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-01-16
 title: "Causalidad en el EuroMedioMillón"
-url: /2024/01/11/causalidad-conocimiento/
+url: /2024/01/16/causalidad-conocimiento/
 categories:
 - causalidad
 tags:

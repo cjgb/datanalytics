@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-01-25
 title: 'Una aplicación inesperada de la detección de "outliers"'
-url: /2024/01/11/antimediana-fotos/
+url: /2024/01/25/antimediana-fotos/
 categories:
 - estadística
 tags:

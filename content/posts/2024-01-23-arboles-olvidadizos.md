@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-01-23
 title: "El discreto encanto de los árboles olvidadizos"
-url: /2024/01/11/oblivious-trees/
+url: /2024/01/23/oblivious-trees/
 categories:
 - ciencia de datos
 tags:

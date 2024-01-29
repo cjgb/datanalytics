@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-01-18
 title: "Nueva (y espero que última) versión de MicrodatosEs"
-url: /2024/01/11/microdatoses-ultima-version/
+url: /2024/01/18/microdatoses-ultima-version/
 categories:
 - r
 tags:
