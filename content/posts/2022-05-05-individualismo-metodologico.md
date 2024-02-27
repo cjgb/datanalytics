@@ -23,7 +23,7 @@ Frecuentemente, además, $C$ y $E$ hacen referencia a magnitudes _macro_: una ca
 
 (que, de nuevo, puede estar _decorado_ con variables confusoras, etc. adicionales) donde los $S_i$ son sujetos que conforman una población determinada y para cada uno de los cuales la causa $C$ induce un efecto parcial $E_i$. Estos $E_i$ quedan luego subsumidos en una variable macro $E$ ---que podría ser en muchos casos una estimación de su suma---.
 
-Esta observación, aunque obvia, es de lo más inhabitual. Tanto, que tiene nombre: _individualismo metodológico_ (aunque en física se la conozca como _mecánica estadísica_). Y tiene una serie de consecuencias, entre las que destaco dos.
+Esta observación, aunque obvia, es de lo más inhabitual. Tanto, que tiene nombre: _individualismo metodológico_ (aunque en física se la conozca como _mecánica estadística_). Y tiene una serie de consecuencias, entre las que destaco dos.
 
 La primera que ---en general, aunque pudiera haber algún tipo de excepción cuando los $S_i$ son sumamente homogéneos--- no puede hablarse del _efecto_ $E$ sino de su distribución. Decir que el efecto de $C$ es _positivo_ (i.e., > 0) es tan engañoso (o absurdo) como decir que la altura de los españoles es superior a 1.60 m.
 
