@@ -5,7 +5,7 @@ DefaultContentLanguage = "es"
 paginate = "13" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tracking id
+#googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tracking id
 rssLimit = 10
 
 enableRobotsTXT = true
