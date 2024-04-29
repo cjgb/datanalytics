@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-04-30 00:00:00
+date: 2024-04-30
 title: 'Más sobre la falacia ecológica'
 url: /2024/4/30/falacia-ecologica
 categories:
