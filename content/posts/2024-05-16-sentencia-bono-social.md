@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-05-16
 title: 'Ideas alrededor de la sentencia de lo del bono social de la luz'
-url: /2024/05/16/neutralidad-red
+url: /2024/05/16/sentencia-bono-social-luz-i
 categories:
 - varios
 tags:
