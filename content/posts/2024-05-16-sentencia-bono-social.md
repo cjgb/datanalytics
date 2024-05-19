@@ -61,7 +61,7 @@ y el sistema produce algo así como
 
 automáticamente.
 
-Si el RdE hubiese escrito el algoritmo para la concesión del bono social en ese dialecto de JSON en el BOE, el problema entero al que se refieren todos esos ríos de tinta malgastados habría padecido una dichosa muerte fetal ultratemprana.
+Si el RdE hubiese escrito el algoritmo para la concesión del bono social en ese dialecto de YAML en el BOE, el problema entero al que se refieren todos esos ríos de tinta malgastados habría padecido una dichosa muerte fetal ultratemprana.
 
 Aclarado esto, se comprenderá que todo lo demás que se lea al respecto tiene, sobre todo, interés antropológico: son relatos sobre los mecanismos rituales a través de los que una serie de sujetos carpetovetónicos demarcan parcelas de poder.
 
