@@ -4,9 +4,12 @@ date: 2024-05-16
 title: 'Ideas alrededor de la sentencia de lo del bono social de la luz'
 url: /2024/05/16/neutralidad-red
 categories:
-- tba
+- varios
 tags:
-- tba
+- derecho
+- publicodes
+- programación
+- ia
 ---
 
 ### I.
