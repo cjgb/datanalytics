@@ -40,7 +40,7 @@ Lo evidente es que el RdE (Reino de España, en lo que sigue) no quería mostrar
 
 De todos modos, el asunto suscita algunas cuestiones, de entre las que hoy trataré las dos más breves, para dejar la tercera para una futura ocasión.
 
-### II.
+### III.
 
 Pongámonos serios: el problema fundamentalmente estriba en que el RdE desconoce una herramienta muy conveniente que ha desarrollado la República Francesa, [`publicodes`](https://publi.codes/),
 
@@ -68,7 +68,7 @@ Si el RdE hubiese escrito el algoritmo para la concesión del bono social en ese
 
 Aclarado esto, se comprenderá que todo lo demás que se lea al respecto tiene, sobre todo, interés antropológico: son relatos sobre los mecanismos rituales a través de los que una serie de sujetos carpetovetónicos demarcan parcelas de poder.
 
-### III.
+### IV.
 
 Es de ayernacidos dar por sentado que porque alguien haya escrito en algún sitio un seudocódigo ---sobre todo, si lo hace en lenguaje natural---, las distintas implementaciones que se hagan de él van a coincidir en todo. El contraejemplo concreto sobre el que ---casi seguro--- más se ha escrito en España se refiere al siguiente seudocódigo:
 
@@ -91,7 +91,7 @@ Lo raro de la cosa es que:
 Es decir, que no exista un mecanismo por el cual el código de BOSCO converja hacia el que esperan las instancias que tienen poder para resolver vinculantemente las ambigüedades cuando estas tienen ocasión de manifestarse.
 
 
-### IV.
+### V.
 
 En el derecho penal existe un principio general: _in dubio pro reo_. Podría decirse que funciona como un `ELSE` implícito en todas las bifurcaciones.
 
