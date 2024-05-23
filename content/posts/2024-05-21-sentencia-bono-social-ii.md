@@ -1,57 +1,44 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-21
-title: 'Más ideas alrededor de la sentencia de lo del bono social de la luz'
-url: /2024/05/21/sentencia-bono-social-luz-ii
+date: 2024-05-23
+title: '¿Hizo disminuir el covid la esperanza de vida en 2020? No y sí, según se mire.'
+url: /2024/05/23/covid-esperanza-vida
 categories:
-- varios
+- estadística
 tags:
-- derecho
-- publicodes
-- programación
-- ia
+- demografía
+- covid
+- esperanza de vida
 ---
-
-[En esta entrada abundo en lo escrito la [semana pasada](/2024/05/16/sentencia-bono-social-luz-i/) sobre el mismo asunto centrándome esta vez en la extraña interpretación que hace el derecho de la automatización, los _algoritmos_, la _IA_ y todas esas cosas.]
 
 ### I.
 
-Comienzo con un par de historias que al principio podría parecer que no vienen al caso.
+La esperanza de vida en 2020 es el número de años que en promedio vivirá un crío nacido ese año.
 
-Realicé mi primera declaración de la renta allá por el 93. En esa época, uno iba a un estanco y por 45 pesetas adquiría un sobre grande en el que venían:
+El problema de esa definición estriba en que para calcularla rectamente habría que esperar hasta, no sé, 2140, para:
 
-- Dos juegos de impresos para la presentación del IRPF, en triple papel de copia (blanco, azul y amarillo).
-- Un libro de 200 o 300 páginas de instrucciones. Allí venía descrito _el algoritmo_.
+* Contar el número N de nacidos en 2020.
+* Calcular la suma $\sum_i x_i$ de las edades a las que fallecieron (suponiendo que en 2140 ya han muerto todos).
+* Dividir la segunda de las cifras por la primera.
 
-Uno rellenaba las casillas con lapicero, operaba con la Casio según las instrucciones del tomito y cuando finalmente quedaba medianamente convencido de que todo cuadraba, lo pasaba todo _a limpio_ en boli, firmaba los impresos a mano, se quedaba uno una de las copias para el archivo ---aún guardo las mías de aquella época--- y hacía llegar las otras dos a la administración.
-
-Realizo declaraciones trimestrales del IVA desde el 2005. Las primeras se presentaban con una tecnología no muy distinta de la que describo en los párrafos anteriores. Cuando pasaba temporadas largas trabajando en el extranjero, tenía que organizar unos tejemanejes de padre y muy señor mío para poder firmar ---de nuevo, a mano--- los impresos físicos que luego presentaba en Hacienda.
-
-Llegó un momento en el que todos comenzamos a protestar mucho y a preguntarnos por qué no existía un programa ---entonces aún no se decía _algoritmo_ ni _IA_--- como tantos otros que existían en el sector privado o en otros países ---según nos contaban--- para liquidar nuestros impuestos. Programa que, finalmente, llegó ---¿recordáis cómo no se podían apreciar bien los colores después de haber pasado unas horas trabajando sobre el tono amarillo chillón de la interfaz del programa PADRE?--- y nos hizo a todos muy felices.
-
-Curiosamente, a nadie se le ocurrió decir que era una máquina y no una persona la que decide de manera totalmente automática a cuánto asciende nuestra liquidación trimestral del IVA. Los datos de todos los autónomos se procesan automáticamente y un dinero desaparece de su cuenta el día 20 del mes posterior al cierre del trimestre sin que aquello pase por las manos físicas de funcionario alguno.
+Y no, no es factible esperar 120 años en publicar una estadística. Ni siquiera para el INE.
 
 ## II.
 
-La administración responsable del programa BOSCO pecó de ingenua. De haber sido yo el responsable de la cosa, habría procedido de la siguiente manera: en primer lugar, aquellos interesados en solicitar el bono social, tendrían que redactar una instancia a la vieja usanza, con buena letra y sin faltas de ortografía, ajuntando copias debidamente compulsadas de la documentación necesaria. Este ejercicio, además de propiciar la alfabetización de las clases menesterosas, retrasar la aparición de los síntomas del Alzheimer y reducir el consumo de telebasura, también movería a multitud de ONGs a implorar de la administración un programa que agilizase el proceso. Entonces les daría el programa BOSCO como quien echa pienso a los pollos. Seguro que así nadie le habría encontrado ninguna pega.
+Así que la esperanza de vida _es_ ---en esta segunda definición uso cursivas--- otra cosa, el resultado de una operación matemática distinta que tiene la particularidad de que puede rematarse el 1 de enero del año siguiente al de interés, 119 años antes que con el algoritmo del apartado anterior.
 
-### III.
+Al final de 2020 se puede calcular cuántos niños de 0-1 años han fallecido de esa _cohorte_. Pero no cuántos fallecerán entre las edades de 1 y 2 años. Así que en ese tramo se usa la mortalidad ya conocida en 2020 de los niños que nacieron en 2019. Y así, para estimar la mortalidad de los niños nacidos en 2020 cuando tengan 60 años, se usa la mortalidad en 2020 de los nacidos en 1960, etc.
 
-Pero la sección II es un contrafactual. Como lo primero que se hizo fue BOSCO, alguien dijo ñiñiñí. Y para que les hicieran más casito, armó un relato en el que mezcló y confundió todo lo que pudo, citó a la [reina de pelo azul de los ñiñiñís](http://localhost:1313/2017/01/16/weapons-of-math-destruction/) y vino a decirnos que tres en cadena `if-elses+` son IA, que esta tiene que estar bien amarrada, etc.
+## III.
 
-Y no, no es IA. Si BOSCO fuese _IA_, sus autores habrían escrito en su CV: "yo trabajé en BOSCO", con eso habrían ido a Silicon Valley, habrían conseguido trabajo en Anthropic u OpenAI, estarían ganando un chorro de dinero y viendo este debate tan tonto por televisión. Pero BOSCO, señores, tiene la complejidad algorítmica de un ascensor.
+Pero claro, en 2020 murieron más de los nacidos en 1940 de lo que es habitual. Eso significa que el algoritmo descrito en II se ve afectado por una perturbación que no está claro que tenga que afectar a los nacidos en 2020 en el año 2100 (cuando tengan la misma edad que los nacidos en 1940 en 2020).
 
+Es decir, se trata de un artefacto del algoritmo.
 
-### IV.
+A ver, el _artefacto_ es informativo: cae la _esperanza de vida_ y se puede comparar esta caída con otras que se hayan observado en otros tiempos y lugares para comparar cuantitativamente este tipo de fenómenos. Pero, por lo demás, afecta solo a o que la esperanza de vida _es_ y no a lo que es.
 
-Llegado aquí, debería decir algo sobre esos otros modelos que tienen un núcleo estadístico.
+## IV.
 
-* En general, en el debate entre las decisiones humanas y las automatizadas, tiendo a inclinarme por la [postura de Meehl](/2023/05/25/evaluacion-algoritmos-vs-alternativas/): sistemáticamente, las segundas son superiores a las primeras.
-* Precisamente, estaba hoy leyendo un pasaje de [_The Laws of Trading_](https://www.lawsoftrading.com/) donde el autor explicaba cómo gran parte de la infraestructura informática que opera en los _hedge funds_ está pensada y diseñada para corregir los sesgos humanos en la toma de decisiones (de inversión). En esos entornos tan competitivos, no es, como dicen algunos, que un humano haya de supervisar a la máquina, sino que, más bien, las máquinas supervisan a los humanos.
-* Un _hedge fund_ no competitivo desaparece. Un estado ineficiente puede seguir operando prácticamente _sine die_ y puede adoptar medidas cacotáxicas por motivos _filosóficos_ o estéticos sin graves perjuicios para sí en el corto y medio plazo.
-* Aunque cuando uno se zambulle en la _factoría de los modelos_, se observan demasiadas prácticas... manifiestamente perfectibles. Lo cual introduce un elemento de sospecha en la primera de las ideas aquí enumeradas.
-* Además, aunque nadie hable explícitamente de ella ---o tache sus preceptos de simples errores---, existe una rama esotérica de la estadística ---que no tiene nombre oficial pero a la que suelo referirme como _sofística estadística_--- que consiste en la construcción de modelos y argumentos estadísticos acordes a los intereses de quienes los financian. La existencia de tal disciplina introduce un elemento adicional de sospecha.
-* Finalmente, el argumento más manido en contra de las decisiones automatizadas es precisamente el más débil. Se trata de ese según el cual individuos con unas prioris muy acentuadas denuncian que el proceso de entrenamiento de un determinado modelo lo ha hecho separarse de aquellas. Que los datos no refrenden sus ideas preconcebidas es un incordio. Entonces lo llaman sesgado, etc. Desafortunadamente, aun siendo débil, opera porque hemos decidido hacerles casito.
+En puridad, no habría que usar la mortalidad de quienes tienen X años en 2020 para estimar la mortalidad de esa cohorte en el año 2020 + X. Lo que debería usarse es la proyección de la mortalidad de los que tienen X años en 2020, 2019, 2018, etc. hacia el futuro, hacia 2020 + X y usar esa. De procederse así, 2020 habría podido considerarse un _outlier_, etc.
 
-Es obvio que la discusión podría y debería extenderse, pero, ¿para qué? El colapso no ocurrirá ni cinco minutos después porque lo haya intentado.
-
+Pero, ¡qué sabré yo de esas cosas!
