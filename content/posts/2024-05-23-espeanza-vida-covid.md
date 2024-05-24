@@ -18,14 +18,14 @@ La esperanza de vida en 2020 es el número de años que en promedio vivirá un c
 El problema de esa definición estriba en que para calcularla rectamente habría que esperar hasta, no sé, 2140, para:
 
 * Contar el número N de nacidos en 2020.
-* Calcular la suma $\sum_i x_i$ de las edades a las que fallecieron (suponiendo que en 2140 ya han muerto todos).
+* Calcular la suma $\sum_i x_i$ de las edades a las que fallecieron (suponiendo que en 2140 ya hayan muerto todos).
 * Dividir la segunda de las cifras por la primera.
 
 Y no, no es factible esperar 120 años en publicar una estadística. Ni siquiera para el INE.
 
 ## II.
 
-Así que la esperanza de vida _es_ ---en esta segunda definición uso cursivas--- otra cosa, el resultado de una operación matemática distinta que tiene la particularidad de que puede rematarse el 1 de enero del año siguiente al de interés, 119 años antes que con el algoritmo del apartado anterior.
+Así que la esperanza de vida _es_ ---en esta segunda definición uso cursivas--- otra cosa: el resultado de una operación matemática distinta que tiene la particularidad de que puede rematarse el 1 de enero del año siguiente al de interés, 119 años antes que con el algoritmo del apartado anterior.
 
 Al final de 2020 se puede calcular cuántos niños de 0-1 años han fallecido de esa _cohorte_. Pero no cuántos fallecerán entre las edades de 1 y 2 años. Así que en ese tramo se usa la mortalidad ya conocida en 2020 de los niños que nacieron en 2019. Y así, para estimar la mortalidad de los niños nacidos en 2020 cuando tengan 60 años, se usa la mortalidad en 2020 de los nacidos en 1960, etc.
 
@@ -35,7 +35,7 @@ Pero claro, en 2020 murieron más de los nacidos en 1940 de lo que es habitual. 
 
 Es decir, se trata de un artefacto del algoritmo.
 
-A ver, el _artefacto_ es informativo: cae la _esperanza de vida_ y se puede comparar esta caída con otras que se hayan observado en otros tiempos y lugares para comparar cuantitativamente este tipo de fenómenos. Pero, por lo demás, afecta solo a o que la esperanza de vida _es_ y no a lo que es.
+Por supuesto, el _artefacto_ es informativo: cae la _esperanza de vida_ y se puede comparar esta caída con otras que se hayan observado en otros tiempos y lugares para comparar cuantitativamente este tipo de fenómenos. Pero, por lo demás, afecta solo a o que la esperanza de vida _es_ y no a lo que es.
 
 ## IV.
 
