@@ -11,6 +11,7 @@ tags:
 - sicología
 - estadística bayesiana
 - incertidumbre
+- descuento hiperbólico
 ---
 
 Por un lado, nos enseñan que para descontar flujos de caja futuros tenemos que usar la función exponencial ---para una determinada tasa de descuento o, en algunos contextos, tipo de interés---:
