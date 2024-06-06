@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2024-06-06
-title: 'Cortos - datanalytics'
+title: 'Embeddings, LLMs y algunas de sus aplicaciones a mediados de 2024'
 url: /2024/06/06/cortos
 categories:
 - cortos
