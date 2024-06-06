@@ -14,8 +14,9 @@ tags:
 
 ### I.
 
-Están apareciendo herramientas basadas en LLMs para industrializar la investigación. Tengo recopiladas, por el momento, tres:
+Están apareciendo herramientas basadas en LLMs para industrializar la investigación. Tengo recopiladas, por el momento, cuatro:
 [Consensus](https://consensus.app/search/),
+[Elicit](https://elicit.com/),
 [Tavily](https://docs.tavily.com/blog/building-gpt-researcher) y
 [FutureSearch](https://futuresearch.ai/). De vez en cuando pruebo Consensus para valorar cómo va mejorando. Y le queda: la última vez, al preguntarle sobre el procedimiento científico para reproducir la dipladenia por esquejes, me sugirió algo así como aplicarle rayos gamma (!).
 
