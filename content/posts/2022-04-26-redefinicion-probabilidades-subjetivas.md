@@ -10,9 +10,10 @@ tags:
 - probabilidad
 - probabilidad subjetiva
 - fundamentos de probabilidad
+- libro holandés
 ---
 
-Hace un tiempo reproduje en estas páginas
+Hace un tiempo traje a estas páginas
  ([aquí](/2020/05/18/como-pensar-en-la-probabilidad-de-un-evento/))
  la definición de probabilidad (en su variante subjetivísima) que dizque Sam Savage aprendió de su padre. La reproduzco aquí:
 
