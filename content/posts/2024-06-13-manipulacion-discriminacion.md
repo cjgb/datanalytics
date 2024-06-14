@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2024-06-13
-title: 'Manipulacíón y discriminación'
+title: 'Manipulación y discriminación'
 url: /2024/06/13/manipulacion-discriminacion
 categories:
 - estadística
