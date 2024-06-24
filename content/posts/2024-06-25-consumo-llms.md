@@ -47,6 +47,8 @@ El coste del entrenamiento puede ser una fracción del coste de la llamada _infe
 
 Nota: 4 J es una cantidad bastante redonda y memorable: es, aproximadamente, una caloría, la cantidad de energía necesaria para calentar un gramo de agua un grado. Si [mi tinglado de LLMs](https://datanalytics.com/2024/02/06/llms-pocket-obsidian/) está generando unos 4000 _tokens_ al día (un par de folios de texto), está consumiendo la energía necesaria para calentar 1 grado 4 litros de agua. En orden de magnitud, el Quijote equivale a una ducha.
 
+Esto no es decir que el negocio de la inferencia consumirá poco. De hecho, cuanto más eficiente se vuelva, más consumirá (Jevons, de nuevo). Recuérdese cómo hubo un tiempo en el que la gente mantenía los alimentos frescos en esos electrodomésticos mágicos que acababan de aparecer y que conocemos neveras. Hoy no solo enfriamos los alimentos, sino los edificios enteros. Gastamos mucha más energía, sí, pero no porque nos hayamos vuelto menos eficientes sino precisamente por lo contrario.
+
 ### IV.
 
 Puede que los LLMs traigan consigo una serie de problemas, los conocidos y los por conocer. Pero, desde luego, el consumo de energía no parece ser uno de de ellos. Solo, tal vez, en mentes anuméricas.
