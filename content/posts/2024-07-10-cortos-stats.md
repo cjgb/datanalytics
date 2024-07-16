@@ -50,6 +50,7 @@ $$\frac{\sum_j p_j^2}{p_i}.$$
 
 En
 [_If you fit a model with multiply imputed data, you can still plot the line_](https://solomonkurz.netlify.app/blog/2021-10-21-if-you-fit-a-model-with-multiply-imputed-data-you-can-still-plot-the-line/)
+(y también [aquí](https://statmodeling.stat.columbia.edu/2024/05/03/combining-multiply-imputed-datasets-never-easy/))
 se discute un problema que, espero, en unos años no tendremos:
 - Tienes datos con algunos _missings_.
 - Realizas imputación múltiple, con lo aue obtienes varios conjuntos de datos _completos_.
