@@ -13,6 +13,7 @@ tags:
 - regresión
 - causalidad
 - modelos
+- nadaesgratis
 ---
 
 Esta entrada es una illustración de otra de no hace mucho, _[Análisis de la discontinuidad + polinomios de grado alto = ...](https://www.datanalytics.com/2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/)_ Mirad:

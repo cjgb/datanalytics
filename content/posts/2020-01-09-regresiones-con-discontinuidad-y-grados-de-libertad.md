@@ -13,6 +13,7 @@ tags:
 - econometría
 - regresión
 - mala ciencia
+- nadaesgratis
 ---
 
 Muy falto de ideas para el blog tendría que estar para traer a la consideración de sus lectores
