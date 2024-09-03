@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2034-06-20
+date: 2024-09-03
 title: 'Unas cuantas aplicaciones de los LLMs'
 url: /2024/09/03/cortos-llms
 categories:
