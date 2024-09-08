@@ -76,6 +76,26 @@ En lo que describo también resuenan ecos de esa entrada de Andrew Gelman titula
 Obviamente, si uno se dedica a la ciencia política no hay ni preguntas ni respuestas útiles ---salvo para publicar y medrar en la academia---. Pero muchas _preguntas causales inversas_ ---¿fue el ayuntamiento el causante / culpable de las contusiones del señor que se precipitó por la alcantarilla?--- ciertamente lo son.
 
 
-## Coda
+## ¿Quiénes son esos "sujetos" que tienen modelos del mundo?
+
+Uno escribe _subjetivo_ con cierto sobrecogimiento, temiendo que algún lector piense que sujetos son él, su familia, sus vecinos y poco más. Que es cierto, pero hay que extender la noción a entes como "el consenso de la física", por ejemplo. Recuérdese el [caso de Le Verrier](https://datanalytics.com/2021/10/19/causalidad-inversa-mas-sobre-los-momentos-le-verrier/): Neptuno se descubrió porque algo no encajaba en la órbita de Urano de acuerdo con el momento existente en la época y la _causa_ fue, precisamente, el efecto que sobre él ejercía un planeta desconocido hasta la fecha. También se ha mencionado arriba _el derecho_ como _sujeto_ que tiene un modelo del mundo: el que subyace a las leyes, ordenanzas, etc.
+
+En definitiva, igual que cuando se habla del homo oeconomicus no ha de suponerse que ese _homo_ sea solo de carne y hueso ---en tanto que empresas y otras instituciones son también agentes que operan en la órbita económica---, el sustrato de los modelos subjetivos no son únicamente las desiguales materias grises de _la gente_.
+
+
+## Causalidad, técnica y tecnología
+
+Técnica es un procedimiento para conseguir un fin. Tecnología es una técnica cuya eficacia ha sido validada por la ciencia. Hay técnicas ---como la adivinación basada en horóscopos--- que aun siendo _técnicas_ con un fin determinado, no valen para gran cosa.
+
+En mi discusión anterior echo en falta una pareja de términos análogos que discriminen entre causas. Porque cualquier ocurrencia podría pasar como tal. Entiendo que tal discusión debería estar basada en la calidad de $M$, $M^\prime$ ---es decir, lo eficazmente que representen el mundo, es decir, si son buenos mapas de la realidad--- y la coherencia de la relación $M^\prime = f(M, C)$.
+
+##  Coda 1
 
 ¡Ya me gustaría haber llegado a una conclusión distinta! ¡Ya me hubiese gustado haber podido encontrar indicios de la causalidad en el mundo objetivo y fuera de la esfera de lo subjetivo! Yo quería llegar, realmente, a disponer de un baremo para poder atizar al prójimo ---¡hay cada uno!--- cuando abriese la boca para proferir cualquier tontería. Pero no, fuera de la relación (que ciertamente ha de cumplirse) $M^\prime = f(M, C)$, cada cual es dueño de su $M$ y, por lo tanto, su $C$.
+
+
+## Coda 2
+
+Al realizar la analogía del modelo como _mapa de la realidad_ y hablar del modelo del observador omnisciente, alguien habrá querido encontrar vínculos con aquello de
+
+> Con el tiempo, estos Mapas Desmesurados no satisficieron y los Colegios de Cartógrafos levantaron un Mapa del Imperio, que tenía el tamaño del Imperio y coincidía puntualmente con él.
