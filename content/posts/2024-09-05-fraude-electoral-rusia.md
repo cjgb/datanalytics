@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-09-05
 title: '(Estadística y fraude electoral) vs (fraude electoral y fraude estadístico)'
-url: /2024/09/0/cortos-llms
+url: /2024/09/05/fraude-electoral-estadistico
 categories:
 - estadística
 tags:
