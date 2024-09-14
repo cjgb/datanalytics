@@ -13,7 +13,7 @@ tags:
 - probabilidad
 ---
 
-Lo dicen Diaconis y sus coautores en [_Dynamical Bias in the Coin Toss_](http://statweb.stanford.edu/~susan/papers/headswithJ.pdf).
+Lo dicen Diaconis y sus coautores en [_Dynamical Bias in the Coin Toss_](https://www.stat.berkeley.edu/users/aldous/157/Papers/diaconis_coinbias.pdf).
 
 Que es un artículo en el que modelan la física de lanzamientos de moneda e incluso y llegan a construir una máquina con el aspecto
 
