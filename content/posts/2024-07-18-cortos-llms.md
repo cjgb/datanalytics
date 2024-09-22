@@ -16,6 +16,7 @@ tags:
 
 Recopilo aquí cuatro enlaces vagamente hermanados por su relación con la visualización (y los LLMs):
 - Exploración interaectiva de la arquitecturas de ciertos LLMs, [aquí](https://bbycroft.net/llm).
+- Una visualización/animación sobre cómo funcionan los _transformers_, [aquí](https://poloclub.github.io/transformer-explainer/).
 - [Aquí](https://www.youtube.com/watch?v=eMlx5fFNoYc), en vídeo.
 - Y dos para _tokens_, [este](https://huggingface.co/spaces/Xenova/the-tokenizer-playground) y [este](https://chunkviz.up.railway.app/).
 
@@ -29,7 +30,6 @@ sobre la inteligencia de los LLMs. De la primera rescato eso de que estamos movi
 Y [otro enlace más](https://www.lesswrong.com/posts/k38sJNLk7YbJA72ST/llm-generality-is-a-timeline-crux)
 especulando con la posibilidad de que los LLMs no alcancen jamás el _pensamiento lento_. ¿Tocará volver a correr la portería de su sitio?
 
-
 ### III. Aplicaciones
 
 Una serie de aplicaciones de los LLMs:
@@ -37,7 +37,6 @@ Una serie de aplicaciones de los LLMs:
 - Crear _tarjetas_ tipo Anki para repasar, [aquí](https://www.alexejgossmann.com/LLMs-for-spaced-repetition/). Tengo montado algo parecido en mi servidor doméstico.
 - Algo parecido a los NotebookLM de Google, pero ahora de Anthropic, [aquí](https://simonwillison.net/2024/Jun/25/claude-projects/).
 - Crear mensajes de _commit_ en git, [aquí](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)
-
 
 ### IV. Multimodalidad
 
