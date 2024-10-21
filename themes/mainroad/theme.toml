@@ -9,9 +9,6 @@ tags = ["blog", "responsive", "light", "multilingual", "customizable", "widgets"
 features = ["blog", "responsive", "multilingual", "widgets", "rss", "disqus", "wordpress"]
 min_version = "0.48"
 
-[author]
-  name = "Vimux"
-  homepage = "https://github.com/vimux"
 
 # If porting an existing theme
 [original]

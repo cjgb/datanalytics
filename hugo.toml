@@ -10,11 +10,6 @@ rssLimit = 10
 
 enableRobotsTXT = true
 
-[Author]
-  name = "Carlos J. Gil Bellosta"
-  bio = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es). Más sobre él, [aquí](http://www.datanalytics.com/bio)."
-  avatar = "https://www.datanalytics.com/carlos-gil-bellosta-twitter-card.png"
-
 [Params]
   copyright = "Carlos J. Gil Bellosta"
   description = "Carlos J. Gil Bellosta - Estadística, análisis de datos y más" # Description of your site
@@ -28,6 +23,11 @@ enableRobotsTXT = true
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+
+[Params.Author]
+  name = "Carlos J. Gil Bellosta"
+  bio = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es). Más sobre él, [aquí](http://www.datanalytics.com/bio)."
+  avatar = "https://www.datanalytics.com/carlos-gil-bellosta-twitter-card.png"
 
 [Twitter]
   twitter_cards = true
