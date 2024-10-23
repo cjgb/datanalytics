@@ -2,12 +2,13 @@
 <html>
 <head>
     <title>Bee-Bot Game</title>
+    <meta charset="UTF-8">
     <style>
         .game-container {
             text-align: center;
             font-family: Arial, sans-serif;
         }
-        
+
         .grid {
             display: inline-grid;
             grid-template-columns: repeat(6, 60px);
@@ -16,7 +17,7 @@
             padding: 10px;
             margin: 20px;
         }
-        
+
         .cell {
             width: 60px;
             height: 60px;
@@ -27,11 +28,11 @@
             justify-content: center;
             font-size: 24px;
         }
-        
+
         .controls {
             margin: 20px;
         }
-        
+
         .sequence {
             min-height: 40px;
             margin: 10px;
@@ -42,14 +43,14 @@
             justify-content: center;
             gap: 5px;
         }
-        
+
         button {
             margin: 5px;
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
         }
-        
+
         .command {
             display: inline-block;
             padding: 5px 10px;
@@ -90,7 +91,7 @@
         let flowerPosition = { x: 0, y: 0 };
         let beeDirection = '→';
         let sequence = [];
-        
+
         function initializeGame() {
             // Create grid
             const grid = document.getElementById('grid');
@@ -103,24 +104,24 @@
                     grid.appendChild(cell);
                 }
             }
-            
+
             // Place bee and flower randomly
             beePosition = {
                 x: Math.floor(Math.random() * GRID_SIZE),
                 y: Math.floor(Math.random() * GRID_SIZE)
             };
-            
+
             do {
                 flowerPosition = {
                     x: Math.floor(Math.random() * GRID_SIZE),
                     y: Math.floor(Math.random() * GRID_SIZE)
                 };
             } while (flowerPosition.x === beePosition.x && flowerPosition.y === beePosition.y);
-            
+
             updateGrid();
             clearSequence();
         }
-        
+
         function updateGrid() {
             // Clear grid
             for (let i = 0; i < GRID_SIZE; i++) {
@@ -128,40 +129,40 @@
                     document.getElementById(`cell-${j}-${i}`).innerHTML = '';
                 }
             }
-            
+
             // Place flower
             document.getElementById(`cell-${flowerPosition.x}-${flowerPosition.y}`).innerHTML = '🌸';
-            
+
             // Place bee with direction
             document.getElementById(`cell-${beePosition.x}-${beePosition.y}`).innerHTML = '🐝' + beeDirection;
         }
-        
+
         function addCommand(command) {
             sequence.push(command);
             updateSequenceDisplay();
         }
-        
+
         function clearSequence() {
             sequence = [];
             updateSequenceDisplay();
         }
-        
+
         function updateSequenceDisplay() {
             const sequenceDiv = document.getElementById('sequence');
-            sequenceDiv.innerHTML = sequence.map(cmd => 
+            sequenceDiv.innerHTML = sequence.map(cmd =>
                 `<span class="command">${cmd}</span>`
             ).join('');
         }
-        
+
         async function execute() {
             const originalPosition = {...beePosition};
             const originalDirection = beeDirection;
             let currentPosition = {...beePosition};
             let currentDirection = beeDirection;
-            
+
             for (let cmd of sequence) {
                 await new Promise(resolve => setTimeout(resolve, 500));
-                
+
                 if (typeof cmd === 'number') {
                     // Move forward
                     for (let i = 0; i < cmd; i++) {
@@ -171,7 +172,7 @@
                             case '↑': currentPosition.y--; break;
                             case '↓': currentPosition.y++; break;
                         }
-                        
+
                         // Check if out of bounds
                         if (currentPosition.x < 0 || currentPosition.x >= GRID_SIZE ||
                             currentPosition.y < 0 || currentPosition.y >= GRID_SIZE) {
@@ -181,7 +182,7 @@
                             updateGrid();
                             return;
                         }
-                        
+
                         beePosition = {...currentPosition};
                         updateGrid();
                         await new Promise(resolve => setTimeout(resolve, 300));
@@ -193,7 +194,7 @@
                     updateGrid();
                 }
             }
-            
+
             // Check if bee reached flower
             if (currentPosition.x === flowerPosition.x && currentPosition.y === flowerPosition.y) {
                 alert('Congratulations! The bee found the flower! 🎉');
@@ -202,7 +203,7 @@
                 alert('Almost there! Try again to help the bee find the flower!');
             }
         }
-        
+
         // Initialize game when page loads
         initializeGame();
     </script>
