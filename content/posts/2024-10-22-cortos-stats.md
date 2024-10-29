@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-10-22
 title: 'Cinco asuntos breves sobre modelización estadística'
-url: /2024/10/12/cortos-estadística
+url: /2024/10/22/cortos-estadística
 categories:
 - cortos
 tags:
