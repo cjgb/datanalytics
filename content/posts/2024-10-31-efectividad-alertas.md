@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-10-31
 title: 'Los estadísticos, hasta cierto momento, no hicieron más que interpretar de diversos modos el mundo; luego, cuando quisieron transformarlo, se encontraron con una serie de problemas que no anticiparon'
-url: /2024/10/31/claude-artifacts-bee-bot
+url: /2024/10/31/efectividad-alertas
 categories:
 - estadística
 tags:
