@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2024-11-14
 title: 'La paradoja (de Simpson) detrás de ciertos argumentos en pro de una subida generalizada de salarios'
-url: /2024/11/014/productividad-simpson
+url: /2024/11/14/productividad-simpson
 categories:
 - estadística
 tags:
