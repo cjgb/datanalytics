@@ -14,10 +14,10 @@ tags:
 
 ### ¿Qué fue antes, la ciencia o la ingeniería?
 
-Tengo dos entradas al respecto.
+Tengo tres entradas al respecto.
 [La primera](https://statmodeling.stat.columbia.edu/2023/04/12/which-came-first-science-or-engineering/) arranca con una serie de comentarios sobre cómo el _aprendizaje automático_ parece más ingeniería que ciencia propiamente dicha y cómo se suma a la lista de ejemplos que parecen _demostrar_ cómo la ingeniería precedió a la ciencia (tesis que el autor considera una priori fuerte al entrar a discutir cada caso particular).
 
-La segunda acompaña muy bien a la primera, aunque tiene más interés como entretenimiento que como prueba de nada. Discute nada menos que la historia de los [primeros remedios para el escorbuto](https://www.ageofinvention.xyz/p/age-of-invention-plague-of-the-sea).
+Las otras son ilustraciones concretas de la tensión entre ciencia e ingeniería. Una de ellas discute nada menos que la historia de los [primeros remedios para el escorbuto](https://www.ageofinvention.xyz/p/age-of-invention-plague-of-the-sea) y la segunda, muy apropiadamente, tiene el nombre de [_What learning by looking looks like_](https://www.construction-physics.com/p/what-learning-by-doing-looks-like).
 
 ### Ciencia como decantación vs ciencia como fábrica de salchichas
 
