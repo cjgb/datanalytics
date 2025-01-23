@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2025-01-16
 title: 'Causalidad, utilidad y teoría de la decisión'
-url: /2025/01/16/causalidad-sujeto-verbo-objeto
+url: /2025/01/16/causalidad-util
 categories:
 - causalidad
 tags:
