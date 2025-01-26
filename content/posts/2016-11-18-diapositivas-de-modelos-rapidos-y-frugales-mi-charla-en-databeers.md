@@ -18,7 +18,7 @@ Están disponibles las [diapositivas de mi charla _Modelos rápidos y frugales_]
 
 Y sí, no solo me afianzo en la heterodoxia sino que, además, se me empieza a notar demasiado:
 
-{{< twitter user="r_vaquerizo" id="798967707135836164" >}}
+{{< x user="r_vaquerizo" id="798967707135836164" >}}
 
 
 

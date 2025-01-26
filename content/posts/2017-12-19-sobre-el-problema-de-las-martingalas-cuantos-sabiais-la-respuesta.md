@@ -18,7 +18,7 @@ tags:
 
 Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefirió dejarse llevar por la intuición y errar. Pero volvamos a los hechos. Dado
 
-{{< twitter user="gilbellosta" id="939898283832553472" >}}
+{{< x user="gilbellosta" id="939898283832553472" >}}
 
 la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?), la distribución del número de respuestas correctas sería $latex pN + X$, donde $latex N$ es el número total de respuestas, $latex p$ es la proporción de quienes sabe la respuesta y $latex X \sim B(N - pN, 1/3)$, suponiendo siempre que $latex pN$ es entero.
 
@@ -77,4 +77,4 @@ para obtener el vergonzante
 
 {{< figure src="/wp-uploads/2017/12/probabilidad_saber_respuesta.png" >}}
 
-De todos modos, debo añadir que durante las primeras horas de la <em>encuesta</em>, el porcentaje de aciertos llegó a estar en el entorno del 50%. Después fue retuiteado y el porcentaje descendió lastimosamente. Quiere eso decir cosas muy buenas de quienes me siguen en Twitter. Al menos, en términos relativos.
+De todos modos, debo añadir que durante las primeras horas de la _encuesta_, el porcentaje de aciertos llegó a estar en el entorno del 50%. Después fue retuiteado y el porcentaje descendió lastimosamente. Quiere eso decir cosas muy buenas de quienes me siguen en Twitter. Al menos, en términos relativos.

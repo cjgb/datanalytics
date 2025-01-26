@@ -18,7 +18,7 @@ tags:
 
 Esta entrada es una contestación a
 
-{{< twitter user="AnaBayes" id="1213446900743122945" >}}
+{{< x user="AnaBayes" id="1213446900743122945" >}}
 
 **I.**
 

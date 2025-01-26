@@ -17,13 +17,13 @@ tags:
 
 El desafortunado tuit
 
-{{< twitter user="gilbellosta" id="1219196123094700032" >}}
+{{< x user="gilbellosta" id="1219196123094700032" >}}
 
 es de lo más parecido a que me repitan unos chorizos que me ha ocurrido últimamente. Salvo que en lugar de chorizos, lo que se me manifestaban fueron años estudiando matemáticas y, por extensión, las partes más analíticas de la estadística.
 
 Con inmerecida delicadeza, se me respondió:
 
-{{< twitter user="joscani" id="1219350615987511297" >}}
+{{< x user="joscani" id="1219350615987511297" >}}
 
 Y sí, hay que cerrar con siete llaves el sepulcro del método delta o, en su defecto, activar el _pin_ parental el día que toque.
 

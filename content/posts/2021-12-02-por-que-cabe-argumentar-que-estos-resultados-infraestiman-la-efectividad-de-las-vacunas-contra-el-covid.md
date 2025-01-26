@@ -18,7 +18,7 @@ tags:
 
 Me refiero a los mostrados en el siguiente gráfico (del que he sido una microcausa):
 
-{{< twitter user="picanumeros" id="1463964359755972618" >}}
+![](/wp-uploads/2021/12/covid.png#center)
 
 En él  se ve,  por ejemplo, como la probabilidad de acabar en la UCI para la gente entre 60 y 80 años es hasta 23 veces mayor entre los  no vacunados que entre los vacunados.
 

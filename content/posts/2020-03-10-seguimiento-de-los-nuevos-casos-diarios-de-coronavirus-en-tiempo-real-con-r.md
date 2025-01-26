@@ -15,7 +15,7 @@ tags:
 
 El código usado en
 
-{{< twitter user="gilbellosta" id="1237443017663041537" >}}
+{{< x user="gilbellosta" id="1237443017663041537" >}}
 
 es
 

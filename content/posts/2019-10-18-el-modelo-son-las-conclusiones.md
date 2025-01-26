@@ -21,7 +21,7 @@ El título es un tanto exagerado, tal vez tanto como el [aforismo de McLuhan](ht
 
 acompañado del tuit
 
-{{< twitter user="FraArechavala" id="1183621364399390721" >}}
+`Nota: la cuenta (y el tuit correspondiente) ya no existen`
 
 Es increíble: un mapa de contaminación por NO2 con una enorme resolución tanto espacial (a nivel de manzana, prácticamente) como temporal (¡correla con la intensidad del tráfico!).
 

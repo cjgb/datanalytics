@@ -19,19 +19,15 @@ Esta brecha entre lo que se sabe y se hace en unos cuantos doctos despachos y lo
 
 En Inglaterra, donde en estas y muchas otras cosas están más avanzados, la Royal Statistical Society, en lugar de limitarse a seguir rutinariamente las exigencias mínimas de sus estatutos, ha lanzado [getstats](http://www.rss.org.uk/site/cms/contentChapterView.asp?chapter=25), una campaña ambiciosa para fomentar el conocimiento de la estadística por parte de la sociedad. Como reza su página:
 
-
-
 >Los números están en todas partes. Pero casi nunca llegamos a comprenderlos, incluso cuando son esenciales para tomar decisiones importantes en nuestras vidas.
 >
 >La campaña getstats quiere cambiar esto, quiere dotar a todo el mundo de las herramientas y la confianza para usar los números bien.
 >
 >Si no, como individuos y como sociedad, seguiremos perdiendo oportunidades.
 
-
-
 Uno de los ámbitos en los que la RSS quiere actuar de oficio es en el del periodismo. De su esfuerzo da fe el siguiente vídeo de una conferencia en la escuela de periodismo de la BBC:
 
-<object width="512" height="400"><embed src="http://www.bbc.co.uk/emp/external/player.swf" allowscriptaccess="always" height="400" width="512" allowfullscreen="true" type="application/x-shockwave-flash" flashvars="playlist=http%3A%2F%2Fwww%2Ebbc%2Eco%2Euk%2Fiplayer%2Fplaylist%2Fp00ckkft&config=http%3A%2F%2Fwww%2Ebbc%2Eco%2Euk%2Femp%2Fiplayer%2Fconfig%2Exml&config_settings_skin=silver&config_settings_suppressRelatedLinks=true&config_plugin_autoResumePlugin_recentlyPlayed=false&config_settings_showPopoutButton=false&config_settings_showPopoutCta=false&config_settings_bitrateFloor=400&config_settings_showUpdatedInFooter=true&config_settings_showFooter=true&"></embed></object>
+
 
 En otro sitio he encontrado también una lista (no llega ni a la envergadura de curso) de [recursos básicos de estadística para periodistas y escritores](http://www.robertniles.com/stats/). Me gusta porque sin abandonar un nivel expositivo llano y claro, aborda valientemente los aspectos más conflictivos de la materia: leánse por ejemplo, los _caveats_ que plantea al uso de la media y otros estadísticos.
 

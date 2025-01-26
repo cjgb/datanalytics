@@ -29,7 +29,7 @@ Escribo casi al vuelo e inspirado por la idea de que:
 
 La idea la he expresado  públicamente en:
 
-{{< twitter user="gilbellosta" id="1240666690888830978" >}}
+{{< x user="gilbellosta" id="1240666690888830978" >}}
 
 Y aquí van los resultados crudísimos de un modelo crudísimo y seguramente erróneo cuya convergencia ni he constrastado ni nada:
 

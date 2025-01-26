@@ -31,7 +31,7 @@ Pero en _[Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Or
 
 Mi propia microencuesta entre médicos identificó un patrón similar. Y la que propuse en Twitter, de incuestionable rigor metodológico, como bien se sabe, arrojó las siguientes cifras:
 
-{{< twitter user="gilbellosta" id="1257036756471484423" >}}
+{{< x user="gilbellosta" id="1257036756471484423" >}}
 
 ### ¿Es _tan_ contagioso el coronavirus?
 

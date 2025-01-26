@@ -30,7 +30,7 @@ con
 [![previsiones_fecundidad_ine](/wp-uploads/2014/11/previsiones_fecundidad_ine.png#center)
 ](/wp-uploads/2014/11/previsiones_fecundidad_ine.png#center)
 
-Finalmente, déjeseme comparar las <del>previsiones</del> digo <del>estimaciones</del> digo _operaciones_ del INE realizadas en 2009 con las del 2012 (y poniendo, además, el origen del eje `y` donde le ha dado la gana a `ggplot2`):
+Finalmente, déjeseme comparar las ~~previsiones~~ digo ~~estimaciones~~ digo _operaciones_ del INE realizadas en 2009 con las del 2012 (y poniendo, además, el origen del eje `y` donde le ha dado la gana a `ggplot2`):
 
 [![2009vs2012](/wp-uploads/2014/11/2009vs2012.png#center)
 ](/wp-uploads/2014/11/2009vs2012.png#center)

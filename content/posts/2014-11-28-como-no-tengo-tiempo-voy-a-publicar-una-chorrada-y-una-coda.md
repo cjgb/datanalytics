@@ -71,7 +71,7 @@ Después de lo cual, ahora más constructivamente, regreso al párrafo con el qu
 >Confianza generalizada: Numerosos estudios han demostrado que el grado de “confianza generalizada” en una sociedad está fuertemente correlacionado con el desarrollo económico. Esta variable se mide con las respuestas a la pregunta: “En general, ¿diría usted que la mayoría de la gente es de fiar, o que hay que tener mucho cuidado en el trato con otra gente?”. De los encuestados en España, sólo el 19% afirmaba que la mayoría de la gente es de fiar. El mapa siguiente muestra considerable variación entre regiones (en todos los mapas, los cuatro colores dividen las regiones en cuartiles). El grado de confianza es relativamente bajo en Galicia, Cataluña, Aragón y Baleares, y alto en Madrid, Cantabria, La Rioja y Navarra.
 
 
-y voy a ensayar un análisis utilizando técnicas de esas que<del>, se conoce, no se enseñan en econometría</del> [nos enseñan quienes saben del asunto](http://www.stat.wisc.edu/~larget/Stat998/Fall2013/GelmanMultipleComparisons.pdf).
+y voy a ensayar un análisis utilizando técnicas de esas que, ~~se conoce, no se enseñan en econometría~~ [nos enseñan quienes saben del asunto](http://www.stat.wisc.edu/~larget/Stat998/Fall2013/GelmanMultipleComparisons.pdf).
 
 Inspirado por el artículo anterior, hago
 

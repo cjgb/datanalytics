@@ -14,7 +14,7 @@ tags:
 
 El otro día publiqué en Twitter un problema que copié de algún sitio (sinceramente, no recuerdo cuál),
 
-{{< twitter user="gilbellosta" id="939898283832553472" >}}
+{{< x user="gilbellosta" id="939898283832553472" >}}
 
 que resultó megaviral en mi humilde _tuitescala_.
 

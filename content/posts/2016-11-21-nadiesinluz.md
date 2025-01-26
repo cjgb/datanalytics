@@ -16,7 +16,7 @@ tags:
 
 Está siendo _tremending topic_ en Twitter según escribo. Uno de los trinos asociados al caudal es
 
-{{< twitter user="CuleFer" id="798636224009248768" >}}
+{{< x user="CuleFer" id="798636224009248768" >}}
 
 que remite a un Observatorio Social de las Personas Mayores, el de 2015 específicamente. No vale [el de 2016](http://www.1mayo.ccoo.es/nova/files/1018/ObservatorioSocial2016.pdf) o [el de 2014](http://www.1mayo.ccoo.es/nova/files/1018/Mayores2014.pdf) porque en ninguno de ellos hace referencia a tan abultada y, diríamos, significantísima cifra.
 

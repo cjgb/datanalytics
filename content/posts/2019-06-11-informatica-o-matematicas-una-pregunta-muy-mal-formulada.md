@@ -13,7 +13,7 @@ tags:
 - matemáticas
 ---
 
-{{< twitter user="victorianoi" id="1134367301703282688" >}}
+{{< x user="victorianoi" id="1134367301703282688" >}}
 
 es el tuit que lo comenzó todo. Hay más sobre su impacto [aquí](https://medium.com/@victoriano/inform%C3%A1tica-o-matem%C3%A1ticas-qu%C3%A9-carrera-estudiar-si-te-quieres-dedicar-al-mundo-de-los-datos-62670c465e40). No voy a comentarlo.
 

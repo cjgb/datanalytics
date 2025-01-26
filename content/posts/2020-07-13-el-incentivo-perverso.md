@@ -18,7 +18,7 @@ tags:
 
 Viene a cuenta de este tuit,
 
-{{< twitter user="Demografia_CSIC" id="1281931763888066560" >}}
+{{< x user="Demografia_CSIC" id="1281931763888066560" >}}
 
 que hace referencia a este parrafito en el artículo enlazado:
 

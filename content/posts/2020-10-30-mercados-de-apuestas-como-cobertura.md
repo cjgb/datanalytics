@@ -17,7 +17,7 @@ tags:
 Cierta gente, mucha, está mostrando su sorpresa en estos días acerca de las discrepancias entre lo que dicen las encuestas por un lado y el consenso de los mercados de apuestas con respecto a lo de Trump. Por ejemplo, [aquí](https://statmodeling.stat.columbia.edu/2020/06/19/forecast-betting-odds/), [aquí](https://www.lesswrong.com/posts/bSKWSPM927oZZqN7f/predictit-presidential-market-is-increasingly-wrong) o
 
 
-{{< twitter user="kikollan" id="1321833905943707651" >}}
+{{< x user="kikollan" id="1321833905943707651" >}}
 
 Esencialmente, muestran su sorpresa acerca del hecho de que los mercados de apuestas estén básicamente regalando dinero. Es mucho más propicio apostar por Biden que por el 12321 en la lotería de navidad.
 

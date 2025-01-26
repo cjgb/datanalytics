@@ -18,7 +18,7 @@ tags:
 
 Hoy toca esto:
 
-{{< twitter user="iescolar" id= "933661144052625408" >}}
+{{< x user="iescolar" id= "933661144052625408" >}}
 
 Se trata de una invitación para leer el artículo [_Los picos de contaminación coinciden con un aumento radical en los ingresos hospitalarios_](http://www.eldiario.es/madrid/alta-contaminacion-afecta-pulmones-Madrid_0_473502958.html), un cúmulo de desafueros epilogados por el ya habitual
 

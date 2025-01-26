@@ -26,7 +26,7 @@ Una manera de estudiar lo anterior es plantear
 1131 ~ poisson(lambda)
 {{< / highlight >}}
 
-y estudiar la distribución de <code>incr</code>. Que a saber qué distribución tendrá (teóricamente). Pero, ¿importa?
+y estudiar la distribución de `incr`. Que a saber qué distribución tendrá (teóricamente). Pero, ¿importa?
 
 Mejor que rebuscar a ver qué distribución podría tener la cosa, basta con envolverlo en un poco de seudo-C++,
 
@@ -65,6 +65,6 @@ mean(tmp$incr > 0)
 #[1] 0.732
 {{< / highlight >}}
 
-Es decir, podíamos decir que hay un 25% de probabilidades de que <a href="http://www.elmundo.es/motor/2017/01/04/586bf1b422601d63628b4655.html">los neocríticos de la DGT</a> estén equivocados.
+Es decir, podíamos decir que hay un 25% de probabilidades de que [los neocríticos de la DGT](http://www.elmundo.es/motor/2017/01/04/586bf1b422601d63628b4655.html) estén equivocados.
 
 

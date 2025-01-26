@@ -17,7 +17,7 @@ tags:
 
 Lo que más me ha llamado la atención de
 
-{{< twitter user="iunida" id="1252916608919654400" >}}
+{{< x user="iunida" id="1252916608919654400" >}}
 
 es que hayan pretendido que el tiempo fluya de derecha a izquierda y no, como estamos hiperacostumbrados, de izquierda a derecha. Pero, ¿por qué sucede así y no al revés? ¿Por qué sucede así en todos los sitios menos en Izquierda Unida?
 
@@ -31,4 +31,4 @@ Total, que he salido por certezas y vuelvo con más dudas que al principio.
 
 **Coda:** Y a propósito de la foto de Lenin, otra de cuando gastaba barba:
 
-{{< twitter user="gilbellosta" id="526681216855322624" >}}
+{{< x user="gilbellosta" id="526681216855322624" >}}

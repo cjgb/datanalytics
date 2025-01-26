@@ -15,7 +15,7 @@ tags:
 
 El otro día escribí (véase también [esto](https://www.datanalytics.com/2020/04/09/deberian-publicarse-datos-en-beta/)):
 
-{{< twitter user="gilbellosta" id="1253605582495498240" >}}
+{{< x user="gilbellosta" id="1253605582495498240" >}}
 
 Y mirad:
 

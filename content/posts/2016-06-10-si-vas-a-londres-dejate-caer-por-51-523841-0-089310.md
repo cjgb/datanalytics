@@ -22,7 +22,7 @@ o
 
 y luego tuitear cosas como
 
-{{< twitter user="aschinchon" id="739112311206629376" >}}
+{{< x user="aschinchon" id="739112311206629376" >}}
 
 Para mayor referencia (y por tenerlo a mano cuando vuelva),
 

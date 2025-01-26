@@ -20,6 +20,4 @@ Le debo a Guillermo, un excompañero de SAS, la noticia que aquí publico: [Goog
 
 {{< youtube id= "yNccGtn3Wb0" >}}
 
-<object width="640" height="390"><embed src="http://www.youtube.com/v/yNccGtn3Wb0&hl=en_US&feature=player_embedded&version=3" allowscriptaccess="always" height="390" width="640" allowfullscreen="true" type="application/x-shockwave-flash"></embed></object>
-
 y no he podido resistir la tentación de escribir algo al respecto. Tiene una pinta increíble y creo que el lunes a más no tardar podré contar mis impresiones personales sobre la herramienta. ¿Será que se me adelanta alguno de mis lectores?

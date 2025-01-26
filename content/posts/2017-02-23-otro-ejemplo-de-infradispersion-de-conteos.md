@@ -13,6 +13,6 @@ tags:
 - probabilidad
 ---
 
-{{< twitter user="RadiactivoMan" id="832287769330380801" >}}
+{{< x user="RadiactivoMan" id="832287769330380801" >}}
 
 Esta entrada, obviamente, viene a cuento de [esta otra](https://www.datanalytics.com/2017/02/01/infradispersion-de-conteos-buenos-ejemplos/).

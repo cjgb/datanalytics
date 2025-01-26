@@ -16,12 +16,12 @@ tags:
 
 Hace unos días publiqué esto en Twitter:
 
-{{< twitter user="gilbellosta" id="586440992292601856" >}}
+{{< x user="gilbellosta" id="586440992292601856" >}}
 
 
 David Cabo, muy oportunamente, denunció
 
-{{< twitter user="dcabo" id="586473395166044161" >}}
+{{< x user="dcabo" id="586473395166044161" >}}
 
 Cosa que no niego. La frase que resumía el enlace tiene esa pintaza. No obstante, [el artículo al que apunta](http://www.caffereggio.net/2015/01/13/corrupcion-y-regeneracion-de-germa-bel-en-la-vanguardia/) es una elaboración de esa frase. El artículo, además, incluye (y no es habitual) referencias a dos artículos académicos (que no he consultado) que, entiendo, tratan y desarrollan la cuestión.
 

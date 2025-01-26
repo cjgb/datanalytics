@@ -16,7 +16,7 @@ tags:
 
 Supongo que
 
-{{< twitter user="minimaxir" id="1103676561809539072" >}}
+{{< x user="minimaxir" id="1103676561809539072" >}}
 
 es conocido de todos. Según la orientación de la imagen, la red neuronal correspondiente la categoriza bien como conejo o bien como pato.
 

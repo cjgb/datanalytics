@@ -53,7 +53,7 @@ Al modelo básico se le pueden añadir cascabeles variados:
 
 * Sumarle a $latex \Sigma$ una matriz diagonal que recoja el error de medición.
 * Variables independientes y sus coeficientes en la determinación de la media $latex \mu$.
-* Funciones de enlace para que $Y$ sea no el valor deseado sino $latex \log(\lambda)$ en un modelo de Poisson o la <em>invlogis</em> de una probabilidad.
+* Funciones de enlace para que $Y$ sea no el valor deseado sino $latex \log(\lambda)$ en un modelo de Poisson o la _invlogis_ de una probabilidad.
 
 En nuestro caso, se puede estimar la función subyacente en una rejilla,
 

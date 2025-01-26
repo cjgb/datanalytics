@@ -18,7 +18,7 @@ tags:
 
 Ayer se leía en Twitter que
 
-{{< twitter user="joscani" id="1249017607199621123" >}}
+{{< x user="joscani" id="1249017607199621123" >}}
 
 Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnicas. Obviamente, hay muchos tipos de datos y supongo que los resultados variarán según qué variante se utilice. Aquí voy a centrarme en unos donde hay medidas repetidas de un factor aleatorio. También voy a situarme en un contexto académico, en el que interesan más las estimaciones de los efectos fijos, que en uno más próximo a mi mundo, la consultoría, donde son más relevantes las estimaciones regularizadas de los efectos aleatorios.
 

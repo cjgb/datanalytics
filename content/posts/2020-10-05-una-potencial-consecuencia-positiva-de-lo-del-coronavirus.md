@@ -15,7 +15,7 @@ tags:
 
 Veo
 
-{{< twitter user="jseabold" id="1312415608764600325" >}}
+{{< x user="jseabold" id="1312415608764600325" >}}
 
 y consulto en uno (de los más usados y famosos) de esos manuales españoles (ergo, hiperclásicos) de introducción a la modelización de series temporales y no veo capítulo con el que pueda tratarse razonablemente.
 

@@ -18,7 +18,7 @@ tags:
 
 Hablo de MOMO de nuevo. Esta vez por culpa de la sobreestimación de las defunciones esperadas:
 
-{{< twitter user="buceadorestadi3" id="1317061603905490944" >}}
+{{< x user="buceadorestadi3" id="1317061603905490944" >}}
 
 ¿Cómo estima MOMO las defunciones esperadas? Lo voy a explicar en tres pasos que se afinan secuencialmente.
 

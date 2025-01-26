@@ -30,4 +30,4 @@ Y existen propuestas para crear un indicador de la riqueza más fidedignas de la
 
 No hay datos todavía para España, pero puede consultarse el [informe 2012 completo](http://www.ihdp.unu.edu/file/download/9927.pdf) y un [resumen ejecutivo](http://www.economist.com/blogs/graphicdetail/2012/06/daily-chart-10?fsrc=scn/tw/te/dc/buymeariver).
 
-(**Nota:** por consejo de gente que sabe mucho más que yo de estos temas, he cambiado la traducción del nombre del índice de índice de la riqueza <del>inclusiva</del> por índice de la riqueza _integral_, mucho más apropiado).
+(**Nota:** por consejo de gente que sabe mucho más que yo de estos temas, he cambiado la traducción del nombre del índice de índice de la riqueza ~~inclusiva~~ por índice de la riqueza _integral_, mucho más apropiado).

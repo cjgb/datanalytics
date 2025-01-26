@@ -20,4 +20,4 @@ Lo más interesante de esta publicación para quienes siguen esta bitácora es e
 
 >Las bases de datos que Vía52 utilice o elabore serán difundidas en un [catálogo abierto](http://buzzdata.com/via52) a disposición de otros periodistas para que puedan utilizarlas en sus propios trabajos.
 
-Tengo entendido, además, que próximamente van a sacar un número muy jugoso... y hasta ahí puedo <del>leer</del> escribir.
+Tengo entendido, además, que próximamente van a sacar un número muy jugoso... y hasta ahí puedo ~~leer~~ escribir.

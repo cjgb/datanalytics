@@ -27,11 +27,11 @@ Han llegado a apilar "todos" encima de los subsegmentos.
 
 ¿Y el tuiterío? A lo suyo:
 
-{{< twitter user="lfaci" id="803509356897693696" >}}
+{{< x user="lfaci" id="803509356897693696" >}}
 
 Peor aún. El tal fulano, ufano, lo ha _perfectibilizado_:
 
-{{< twitter user="lfaci" id="803510468472164352" >}}
+{{< x user="lfaci" id="803510468472164352" >}}
 
 Luis, así se ve mejor, sin duda, (pero no te voy a decir qué, que te ofenderías).
 

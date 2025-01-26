@@ -21,6 +21,6 @@ Siempre he visto todo lo que rodea a los factores de bayes un tufillo a hamburgu
 
 De ahí,
 
-{{< twitter user="JCesarPL" id="1197226533183729669" >}}
+{{< x user="JCesarPL" id="1197226533183729669" >}}
 
 que, aparte de diagnosticar el problema, propone una mejor solución: se describe la posterior... y tal (y, o fin).

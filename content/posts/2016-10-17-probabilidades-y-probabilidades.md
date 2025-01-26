@@ -13,7 +13,7 @@ tags:
 
 Leo hoy que
 
-{{< twitter user="kikollan" id="787594944106098689" >}}
+{{< x user="kikollan" id="787594944106098689" >}}
 
 Pero:
 

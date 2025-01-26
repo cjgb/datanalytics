@@ -58,51 +58,6 @@ Y, retomando el tema con el que se encabezaba esta entrada, indicaré que el uso
 |1002| 1004|
 |...| ...|
 
-<table style="text-align:center;" align="center" >
-<tbody >
-<tr >
-
-<td >**cod_padre**
-</td>
-
-<td style="text-align:center;" >**cod_hijo**
-</td>
-</tr>
-<tr >
-
-<td >1001
-</td>
-
-<td >1002
-</td>
-</tr>
-<tr >
-
-<td >1001
-</td>
-
-<td >1003
-</td>
-</tr>
-<tr >
-
-<td >1002
-</td>
-
-<td >1004
-</td>
-</tr>
-<tr >
-
-<td >...
-</td>
-
-<td >...
-</td>
-</tr>
-</tbody>
-</table>
-
 La tabla anterior puede contener sólo la relación directa: el ala izquierda "es parte" del fuselaje, pero no "directamente" del avión. ¿Cómo enumerar las arandelas que forman parte del ala derecha del avión? ¿Cómo descender por la cadena jerárquica representada por la tabla anterior?
 
 La _query_

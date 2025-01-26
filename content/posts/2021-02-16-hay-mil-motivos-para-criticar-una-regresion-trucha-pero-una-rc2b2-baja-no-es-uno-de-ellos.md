@@ -18,7 +18,7 @@ tags:
 
 Todo esto arranca con el tuit:
 
-{{< twitter user="juanrallo" id="1356242130746941443" >}}
+{{< x user="juanrallo" id="1356242130746941443" >}}
 
 Esa gráfica, extraída de un documento de la OCDE, creo, fue uno de los argumentos esgrimidos por JR Rallo para defender cierta postura que no viene al caso. Lo relevante para estas páginas es que fue contestado y protestado por muchos ---de algunos de los cuales, dada su autoproclamada condición de divulgadores científicos, cabría esperar más--- en términos exclusivamente de lo pequeño de la R².
 

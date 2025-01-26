@@ -81,21 +81,4 @@ En fin, lo siento por Sokal: conmigo, le ha salido el tiro por la culata. En mi 
 
 Y, como colofón:
 
-{{< twitter user="algoya_dat" id="1343764319490727937" >}}
-
-
-
-
-
-
-https://twitter.com/algoya_dat/status/1343764319490727937
-
-
-
-
-
-
-
-
-
-
+{{< x user="algoya_dat" id="1343764319490727937" >}}
