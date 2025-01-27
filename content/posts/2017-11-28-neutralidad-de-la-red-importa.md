@@ -9,7 +9,7 @@ categories:
 - varios
 tags:
 - internet
-- neutralidad
+- neutralidad en la red
 ---
 
 Mi opinión, en tanto que nadie me dé argumentos para reconsiderarla, es que no.

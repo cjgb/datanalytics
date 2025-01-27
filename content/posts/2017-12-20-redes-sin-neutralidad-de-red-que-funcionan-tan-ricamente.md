@@ -10,7 +10,7 @@ categories:
 - varios
 tags:
 - economía
-- neutralidad
+- neutralidad en la red
 - redes
 ---
 

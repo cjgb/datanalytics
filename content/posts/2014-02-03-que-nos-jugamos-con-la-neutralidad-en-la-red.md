@@ -9,7 +9,7 @@ categories:
 - números
 tags:
 - internet
-- neutralidad
+- neutralidad en la red
 - números
 ---
 
