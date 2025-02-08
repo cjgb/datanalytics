@@ -1,6 +1,6 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-03-06
+date: 2025-02-06
 title: 'Una variante del problema de Monty Hall'
 url: /2025/02/06/monty-hall
 categories:
