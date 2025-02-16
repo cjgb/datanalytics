@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addition Game for Kids</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f2f5;
+        }
+
+        .container {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .problem {
+            font-size: 3rem;
+            margin: 2rem 0;
+        }
+
+        .number1, .plus, .number2 { 
+            display: inline-block;
+            margin: 0 0.5rem;
+        }
+
+        .number1 { color: #6366f1; }
+        .number2 { color: #10b981; }
+        .plus { color: #6b7280; }
+
+        .buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            justify-content: center;
+            margin-top: 2rem;
+        }
+
+        button {
+            font-size: 1.25rem;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 0.5rem;
+            background-color: #3b82f6;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        button:hover {
+            background-color: #2563eb;
+        }
+
+        .feedback {
+            font-size: 1.5rem;
+            margin: 1rem 0;
+            min-height: 2rem;
+        }
+
+        .correct {
+            color: #10b981;
+        }
+
+        .incorrect {
+            color: #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Addition Game!</h1>
+        <div class="problem">
+            <span class="number1"></span>
+            <span class="plus">+</span>
+            <span class="number2"></span>
+            <span class="equals">=</span>
+            <span>?</span>
+        </div>
+        <div class="feedback"></div>
+        <div class="buttons"></div>
+    </div>
+
+    <script>
+        let num1, num2;
+        const feedbackElement = document.querySelector('.feedback');
+        const buttonsContainer = document.querySelector('.buttons');
+
+        function generateProblem() {
+            num1 = Math.floor(Math.random() * 10);
+            num2 = Math.floor(Math.random() * 10);
+            
+            document.querySelector('.number1').textContent = num1;
+            document.querySelector('.number2').textContent = num2;
+            feedbackElement.textContent = '';
+            feedbackElement.className = 'feedback';
+        }
+
+        function createButtons() {
+            // Create buttons for numbers 0-20
+            for (let i = 0; i <= 20; i++) {
+                const button = document.createElement('button');
+                button.textContent = i;
+                button.onclick = () => checkAnswer(i);
+                buttonsContainer.appendChild(button);
+            }
+        }
+
+        function checkAnswer(answer) {
+            const correctAnswer = num1 + num2;
+            if (answer === correctAnswer) {
+                feedbackElement.textContent = '🎉 Great job!';
+                feedbackElement.className = 'feedback correct';
+                setTimeout(generateProblem, 1500);
+            } else {
+                feedbackElement.textContent = '😊 Try again!';
+                feedbackElement.className = 'feedback incorrect';
+            }
+        }
+
+        // Initialize the game
+        createButtons();
+        generateProblem();
+    </script>
+</body>
+</html>
