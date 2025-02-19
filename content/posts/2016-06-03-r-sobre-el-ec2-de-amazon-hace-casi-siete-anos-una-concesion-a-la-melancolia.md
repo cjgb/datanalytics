@@ -14,7 +14,7 @@ tags:
 - r
 ---
 
-Corría el año 2009 cuando comencé mi segunda aventura bloguera (nadie, yo incluido, quiere rememorar la segunda) cuando Raúl Vaquerizo tuvo la caridad de aceptarme como colaborador en [Análisis y Decisión](http://analisisydecision.es/).
+Corría el año 2009 cuando comencé mi segunda aventura bloguera (nadie, yo incluido, quiere rememorar la primera) cuando Raúl Vaquerizo tuvo la caridad de aceptarme como colaborador en [Análisis y Decisión](http://analisisydecision.es/).
 
 En diciembre de aquel año escribí cómo utilizar R en una cosa que entonces comenzaba a sonar: _la nube_ y, en concreto, el servicio EC2 de Amazon.
 

@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 date: 2025-02-18
-title: 'tba'
+title: 'La recurrente vuelta de la frenología y algunos asuntos más'
 url: /2025/02/18/cortos-stats
 categories:
 - cortos
@@ -12,8 +12,6 @@ tags:
 - frenología
 ---
 
-
-## Notas
 
 En [A Conversation with Sir David Cox](https://projecteuclid.org/journals/statistical-science/volume-9/issue-3/A-Conversation-with-Sir-David-Cox/10.1214/ss/1177010394.full) se lee:
 
