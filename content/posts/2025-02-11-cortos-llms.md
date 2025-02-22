@@ -26,7 +26,7 @@ He hablado al menos dos veces del asunto,
 
 Éramos pocos y [_Barcelona estrena el primer supercomputador cuántico de España con tecnología europea_](https://www.eldiario.es/catalunya/barcelona-dispone-primer-supercomputador-cuantico-espana-tecnologia-europea_1_12032553.html). El artículo en cuestión recoge todo lo que está mal política, en ciencia, en divulgación y en periodismo. Valga como resumen de todo la cita que recogen del ministro del ramo: "los beneficios para la ciencia serán enormes, puesto que abre la puerta a la predicción de enfermedades, por ejemplo".
 
-En Google se implementó un mercado de predicciones interno. Al parecer, fracasó y se cerro. Ahora vuelven a intentarlo. A ver qué pasa. Información adicional,
+En Google se implementó un mercado de predicciones interno. Al parecer, fracasó y se cerró. Ahora vuelven a intentarlo. A ver qué pasa. Información adicional,
 [aquí](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google).
 
 [Otro estudio](https://www.nber.org/papers/w33428) bayesiano más sobre el origen (zoonosis vs escape) del covid. Este, a diferencia de [otros](https://www.astralcodexten.com/p/practically-a-book-review-rootclaim), se inclina por el escape. Qué más da, supongo.

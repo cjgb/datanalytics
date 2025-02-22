@@ -81,4 +81,4 @@ En fin, lo siento por Sokal: conmigo, le ha salido el tiro por la culata. En mi 
 
 Y, como colofón:
 
-{{< x user="algoya_dat" id="1343764319490727937" >}}
+_[Nota: aquí iba un tuit de `@algoya_dat`con id `1343764319490727937`que ha desaparecido porque a su autor, se ve, le parece mal continuar en la plataforma X. Nos privó de su ciencia.]_
