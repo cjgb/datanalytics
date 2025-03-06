@@ -25,7 +25,7 @@ Hace no tanto, en 2023, se publicó [este artículo](https://source.opennews.org
 
 Los interesados en el estado de las tecnologías de almacenamiento de electricidad deberían echar un vistazo a la sección correspondiente de [esto](https://www.construction-physics.com/p/reading-list-022225) y sus enlaces, que incluyen una presentación de 500 diapositivas sobre el asunto.
 
-Gelman recoge y discute la gráfica
+Andrew Gelman recoge y discute la gráfica
 
 ![](/wp-uploads/2025/low-r2.png#center)
 
@@ -33,7 +33,7 @@ extraída de un artículo de dos nóbeles en economía [aquí](https://statmodel
 [aquí](https://statmodeling.stat.columbia.edu/2025/02/22/why-dont-machine-learning-and-large-language-model-evaluations-report-uncertainty/)
 se pregunta por qué los métodos _modernos_ de aprendizaje automático y los LLMs son reticentes a discutir la incertidumbre.
 
-Explain Extended es un blog que en el que se escribe una entrada al año (y que se publica el 31 de diciembre). Los temas de los últimos años son:
+[Explain Extended](https://explainextended.com/) es un blog que en el que se escribe una entrada al año (y que se publica el 31 de diciembre). Los temas de los últimos años son:
 - La implementación de un modelo de generación de imágenes por difusión en 700 líneas de _SQL puro_.
 - GPT en 500 líneas de SQL.
 - Resolución del cubo de Rubik en SQL.
