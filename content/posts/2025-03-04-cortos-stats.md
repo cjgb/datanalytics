@@ -21,7 +21,7 @@ La noticia anterior da pie, sin duda, a
 
 con lo que se puede estar más o menos de acuerdo pero que está ---es innegable--- muy bien traído.
 
-Hace no tanto, en 2023, se publicó [este artículo](https://source.opennews.org/articles/our-search-best-ocr-tool-2023/) sobre el estado del arte de aquel entonces en la tecnología OCR. Las cosas han cambiado mucho desde entonces de la mano de los LLMs y han surgido herramientas como [olmOCR](https://simonwillison.net/2025/Feb/26/olmocr/) que tienen pinta de poder hacerlo mucho, mucho mejor.
+Hace no tanto, en 2023, se publicó [este artículo](https://source.opennews.org/articles/our-search-best-ocr-tool-2023/) sobre el estado del arte de aquel entonces en la tecnología OCR. Las cosas han cambiado mucho desde entonces de la mano de los LLMs y han surgido herramientas como [olmOCR](https://simonwillison.net/2025/Feb/26/olmocr/) que tienen pinta de poder hacerlo mucho, mucho mejor. (Addenda 2025-03-07: [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)).
 
 Los interesados en el estado de las tecnologías de almacenamiento de electricidad deberían echar un vistazo a la sección correspondiente de [esto](https://www.construction-physics.com/p/reading-list-022225) y sus enlaces, que incluyen una presentación de 500 diapositivas sobre el asunto.
 
