@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 date: 2025-03-18
 title: 'De H3, Z3 y R2 al "vive coding" pasando por algunos asuntos más'
 description: "Una serie de notas sobre tecnología, LLMs, vibe coding, H3, geodesia, Z3, solvers, postgres y otros asuntos contados con afán divulgativo."
-url: /2025/03/18/cortos-tecnología
+url: /2025/03/18/cortos-tecnologia
 categories:
 - cortos
 tags:
