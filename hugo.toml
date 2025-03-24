@@ -6,7 +6,6 @@ theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 #googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tracking id
 rssLimit = 10
-
 enableRobotsTXT = true
 
 
@@ -15,7 +14,7 @@ enableRobotsTXT = true
 
 [Params]
   copyright = "Carlos J. Gil Bellosta"
-  description = "Carlos J. Gil Bellosta - Estadística, análisis de datos y más" # Description of your site
+  description = "Blog de Carlos J. Gil Bellosta - Estadística, análisis de datos, inteligencia artificial, machine learning, data science y más"
   opengraph = true
   readmore = false # Show "Read more" button in list if true
   authorbox = true
@@ -24,7 +23,7 @@ enableRobotsTXT = true
   dateformat = "2006-1-2"
   googleFontsLink = "https://fonts.googleapis.com/css?family=Fira Code|Alegreya:400,400i,700"
   mathjax = true # Enable MathJax
-  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
 [Params.Author]
@@ -44,7 +43,7 @@ enableRobotsTXT = true
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
-  widgets = ["recent"] # Enable widgets in given order
+  widgets = ["recent", "categories"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
