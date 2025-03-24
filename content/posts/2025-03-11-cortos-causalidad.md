@@ -2,6 +2,7 @@
 author: Carlos J. Gil Bellosta
 date: 2025-03-11
 title: 'Varios asuntos relacionados con la causalidad'
+description: "Una serie de enlaces relacionados con la causalidad, el modelo de Neyman-Rubin y la inferencia causal, sobre todo en presencia de 'missing values'."
 url: /2025/03/11/cortos-causalidad
 categories:
 - cortos
