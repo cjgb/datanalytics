@@ -12,7 +12,7 @@ tags:
 - consultoría
 - media
 - números
-- valores extremos
+- outliers
 - riesgo
 ---
 

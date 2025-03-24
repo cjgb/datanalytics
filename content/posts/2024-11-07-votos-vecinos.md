@@ -8,7 +8,7 @@ categories:
 tags:
 - encuestas
 - elecciones
-- mercados predicciones
+- mercados de predicciones
 ---
 
 La historia, telegráficamente, es así:

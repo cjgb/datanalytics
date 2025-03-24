@@ -10,7 +10,7 @@ categories:
 - estadística
 - r
 tags:
-- p-valor
+- p-valores
 - prueba de hipótesis
 - r
 - remuestreo

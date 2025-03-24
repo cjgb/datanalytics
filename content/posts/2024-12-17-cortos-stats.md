@@ -7,7 +7,7 @@ categories:
 - cortos
 tags:
 - encuestas
-- mercados predicciones
+- mercados de predicciones
 - censos
 ---
 

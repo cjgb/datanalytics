@@ -8,7 +8,7 @@ categories:
 - estadística
 tags:
 - estadística
-- test de hipótesis
+- prueba de hipótesis
 - potencia
 ---
 
