@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-16 08:13:41+00:00
-draft: false
-title: Modelos no lineales directos e inversos
-
-url: /2017/10/16/modelos-no-lineales-directos-e-inversos/
 categories:
 - estadística
 - r
+date: 2017-10-16 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T19:08:40.134454'
+related:
+- 2017-10-23-modelos-directos-inversos-y-en-los-que-tanto-da.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - estadística
 - modelos
 - r
+title: Modelos no lineales directos e inversos
+url: /2017/10/16/modelos-no-lineales-directos-e-inversos/
 ---
 
 Las malandanzas de [Circiter](http://www.circiter.es) la han conducido al siguiente entuerto: estimar $latex \alpha$ donde

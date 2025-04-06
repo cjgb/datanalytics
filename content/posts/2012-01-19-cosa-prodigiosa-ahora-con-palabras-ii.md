@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-19 06:32:41+00:00
-draft: false
-title: Cosa prodigiosa, ahora con palabras (II)
-
-url: /2012/01/19/cosa-prodigiosa-ahora-con-palabras-ii/
 categories:
 - probabilidad
 - r
+date: 2012-01-19 06:32:41+00:00
+draft: false
+lastmod: '2025-04-06T18:45:51.919680'
+related:
+- 2012-01-31-cosa-prodigiosa-iii-epilogo.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2012-01-12-cosa-prodigiosa-sin-palabras-i.md
+- 2011-05-12-c2bfque-nos-jugamos.md
+- 2022-09-15-perder-ganando.md
 tags:
 - martingala
 - probabilidad
 - r
+title: Cosa prodigiosa, ahora con palabras (II)
+url: /2012/01/19/cosa-prodigiosa-ahora-con-palabras-ii/
 ---
 
 Tal como prometí hace ahora una semana, voy a añadir las palabras que faltaban en [aquella entrada](http://www.datanalytics.com/2012/01/12/cosa-prodigiosa-sin-palabras-i/). Pero primero, imaginad un bar en el que se venden cafés y cervezas. El coste de servir un café es de 1.10 euros pero se vende por 1. El coste de servir una cerveza es 1.30 euros pero se vende por 1.10. Entran los clientes y piden o café o cerveza. ¡Y resulta que a fin de mes el bar hace dinero!

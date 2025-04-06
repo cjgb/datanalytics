@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-12-29
-title: He migrado el blog a Hugo
-
-url: /2021/12/29/migracion-blog-hugo/
 categories:
 - anuncio
+date: 2021-12-29
+lastmod: '2025-04-06T19:05:29.732417'
+related:
+- 2025-02-20-analisis-y-decision.md
+- 2021-12-30-forma-insidiosa-spam.md
+- 2014-01-21-cambios-cambios-cambios.md
+- 2010-10-03-cambios-cosmeticos-en-el-blog.md
+- 2023-12-14-metodologias-viejunas.md
 tags:
 - anuncio
 - hugo
 - wordpress
+title: He migrado el blog a Hugo
+url: /2021/12/29/migracion-blog-hugo/
 ---
 
 He migrado el blog a Hugo (como bien podrá comprobarse). He aprovechado para realizar algunas modificaciones estéticas, sobre todo en lo concerniente al tipo de letra. Creo que ahora invita mucho más a leer.

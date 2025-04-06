@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-07-10 08:13:24+00:00
-draft: false
-title: Estereotipos y estadística (II)
-
-url: /2017/07/10/estereotipos-y-estadistica-ii/
 categories:
 - estadística
+date: 2017-07-10 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T19:03:26.429364'
+related:
+- 2016-11-25-estereotipos-y-estadistica.md
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - estadística
 - estereotipos
+title: Estereotipos y estadística (II)
+url: /2017/07/10/estereotipos-y-estadistica-ii/
 ---
 
 Hace tiempo [escribí](https://www.datanalytics.com/2016/11/25/estereotipos-y-estadistica/):

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-11-14 07:58:37+00:00
-draft: false
-title: Anumerismo en los medios (y seudoperiodismo de datos)
-
-url: /2012/11/14/anumerismo-en-los-medios-y-seudoperiodismo-de-datos/
 categories:
 - números
+date: 2012-11-14 07:58:37+00:00
+draft: false
+lastmod: '2025-04-06T18:59:39.745311'
+related:
+- 2011-02-03-energia-y-medio-ambiente-en-2035-algunos-numeros.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2011-01-12-el-precio-del-petroleo-reflejo-del-anumerismo-de-la-prensa.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
 tags:
 - números
 - cambio climático
 - energía
+title: Anumerismo en los medios (y seudoperiodismo de datos)
+url: /2012/11/14/anumerismo-en-los-medios-y-seudoperiodismo-de-datos/
 ---
 
 El otro día asistí a un congreso sobre big data, datos públicos, periodismo de datos y ese tipo de cosas. Cuando el panel de periodistas de datos comenzó la rueda de preguntas, estuve por levantar la mano y formular la mía en términos, más o menos, como estos:

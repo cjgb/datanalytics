@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-06 08:13:18+00:00
-draft: false
-title: Que hagan lo que quieran en Plaza de España; yo, la verdad, no tengo tiempo
-  para leer 350 MB de documentación
-
-url: /2016/10/06/que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion/
 categories:
 - varios
+date: 2016-10-06 08:13:18+00:00
+draft: false
+lastmod: '2025-04-06T19:03:36.766076'
+related:
+- 2015-10-09-madrid-decide-propone-vota-etc.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
+- 2018-12-03-sobre-madrid-central.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2014-07-23-si-participase-en-maddata.md
 tags:
 - democracia directa
 - madrid
+title: Que hagan lo que quieran en Plaza de España; yo, la verdad, no tengo tiempo
+  para leer 350 MB de documentación
+url: /2016/10/06/que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion/
 ---
 
 Ha salido lo de la [votación de plaza de España](https://decide.madrid.es/proceso/plaza-espana). Un festival para la democracia.

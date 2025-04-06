@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-05-27 07:27:54+00:00
-draft: false
-title: Inserción eficiente (?) de datos vía RJDBC
-
-url: /2014/05/27/insercion-eficiente-de-datos-via-rjdbc/
 categories:
 - r
+date: 2014-05-27 07:27:54+00:00
+draft: false
+lastmod: '2025-04-06T19:11:53.037333'
+related:
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2013-07-10-mi-definicion-de-big-data.md
 tags:
 - r
 - rjava
 - rjdbc
 - sql
+title: Inserción eficiente (?) de datos vía RJDBC
+url: /2014/05/27/insercion-eficiente-de-datos-via-rjdbc/
 ---
 
 Las bases de datos son instrumentos magníficos con dos defectos fundamentales: es difícil meter datos en ellas y es difícil sacar datos de ellas. Pero guardarlos... los guardan estupendamente.

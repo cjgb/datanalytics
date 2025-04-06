@@ -1,13 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-03-11
-title: 'Varios asuntos relacionados con la causalidad'
-description: "Una serie de enlaces relacionados con la causalidad, el modelo de Neyman-Rubin y la inferencia causal, sobre todo en presencia de 'missing values'."
-url: /2025/03/11/cortos-causalidad
 categories:
 - cortos
+date: 2025-03-11
+description: Una serie de enlaces relacionados con la causalidad, el modelo de Neyman-Rubin
+  y la inferencia causal, sobre todo en presencia de 'missing values'.
+lastmod: '2025-04-06T19:03:42.996439'
+related:
+- 2024-10-08-cortos-stats.md
+- 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-05-05-individualismo-metodologico.md
+- 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md
 tags:
 - causalidad
+title: Varios asuntos relacionados con la causalidad
+url: /2025/03/11/cortos-causalidad
 ---
 
 ### I.

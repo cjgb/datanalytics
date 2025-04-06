@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-25 08:13:47+00:00
-draft: false
-title: El número efectivo de partidos
-
-url: /2017/01/25/el-numero-efectivo-de-partidos/
 categories:
 - estadística
 - r
+date: 2017-01-25 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T18:46:03.195171'
+related:
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2018-11-08-siguen-votando-igual-los-diputados.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2011-09-13-datos-patrimoniales-de-los-senadores.md
+- 2019-05-07-elecciones-e-indice-supernaif-de-shapley.md
 tags:
 - cis
 - estadística
@@ -16,6 +20,8 @@ tags:
 - reshape2
 - rvest
 - zoo
+title: El número efectivo de partidos
+url: /2017/01/25/el-numero-efectivo-de-partidos/
 ---
 
 El _número efectivo de partidos_ es el [nombre de una página de la Wikipedia](https://en.wikipedia.org/wiki/Effective_number_of_parties), que contiene la fórmula

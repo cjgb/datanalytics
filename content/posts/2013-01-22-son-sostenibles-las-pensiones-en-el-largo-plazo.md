@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-22 07:39:41+00:00
-draft: false
-title: ¿Son sostenibles las pensiones en el largo plazo?
-
-url: /2013/01/22/son-sostenibles-las-pensiones-en-el-largo-plazo/
 categories:
 - números
+date: 2013-01-22 07:39:41+00:00
+draft: false
+lastmod: '2025-04-06T18:53:23.167725'
+related:
+- 2011-01-28-pensiones-c2bfduros-a-pesetas.md
+- 2011-02-25-1605.md
+- 2018-10-05-licitaciones-por-insaculacion-ponderada.md
+- 2023-11-16-coaliciones-politica-economica.md
+- 2024-10-03-ergodicidad.md
 tags:
 - números
 - pensiones
+title: ¿Son sostenibles las pensiones en el largo plazo?
+url: /2013/01/22/son-sostenibles-las-pensiones-en-el-largo-plazo/
 ---
 
 Me voy a meter en terrenos pantanosos. El tema que traigo hoy a mis páginas es, sin duda, espinoso. Pero quiero dejar en negro sobre blanco una serie de ideas básicas que se han convertido en el punto de partida de cuanto puedo opinar sobre este tema, la esencia pura del mismo (tal y como yo lo entiendo) antes de que abogados, políticos, financieros, etc., lo compliquen.
@@ -36,4 +42,3 @@ Es evidente que la situación en 2030 puede no ser peor que la actual: sería po
 * Que efectivamente crezca la productividad.
 * Que efectivamente existan mecanismos que permitan expropiar una cantidad mayor de patatas de quienes las producen.
 * Y, finalmente —una condición no explícita en mi razonamiento anterior y que algunos puedan entender como exógena y tal vez innecesaria pero que para mí no deja de ser importante— que el reparto se haga ateniéndose a criterios de justicia y equidad.
-

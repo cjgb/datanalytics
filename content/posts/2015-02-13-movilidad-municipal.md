@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-13 08:13:23+00:00
-draft: false
-title: Movilidad municipal
-
-url: /2015/02/13/movilidad-municipal/
 categories:
 - varios
+date: 2015-02-13 08:13:23+00:00
+draft: false
+lastmod: '2025-04-06T19:09:29.396161'
+related:
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2011-04-19-graficos-v-mapas.md
+- 2021-05-27-todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - ine
 - municipios
 - movilidad
+title: Movilidad municipal
+url: /2015/02/13/movilidad-municipal/
 ---
 
 Esto que cuento hoy es algo que, creo yo, pocos saben. Pero que han sufrido grandemente quienes hayan trabajando con datos municipales históricos: que de año en año, ocurren altas, bajas y modificaciones en esa lista que uno consideraría fija.

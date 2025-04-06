@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-28
-title: '¿Cuántas copias vende un libro?'
-url: /2024/05/28/copias-vende-libro
 categories:
 - estadística
+date: 2024-05-28
+lastmod: '2025-04-06T19:09:09.479150'
+related:
+- 2017-11-06-la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde.md
+- 2023-11-21-sumas-lognormales.md
+- 2010-11-09-la-pirateria-de-libros-se-dispara-en-2010-nos-dicen.md
+- 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
+- 2020-01-27-estadistica-basica-edulcorada.md
 tags:
 - libros
 - estimación
+title: ¿Cuántas copias vende un libro?
+url: /2024/05/28/copias-vende-libro
 ---
 
 Es muy difícil saber cuántas copias vende un libro. Lo es por muchos motivos:

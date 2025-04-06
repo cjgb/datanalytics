@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-06-28 02:22:59+00:00
-draft: false
-title: 'Los "mejores" paquetes de R (II): análisis anual de la red social de los participantes
-  en r-help'
-
-url: /2010/06/28/los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help/
 categories:
 - r
+date: 2010-06-28 02:22:59+00:00
+draft: false
+lastmod: '2025-04-06T18:46:22.010124'
+related:
+- 2010-04-18-los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help.md
+- 2013-12-04-ayuda-de-r-en-espanol.md
+- 2018-12-11-siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano.md
+- 2011-11-21-iii-jornadas-de-usuarios-de-r-algunas-reflexiones.md
+- 2013-01-10-una-aplicacion-seo-con-r.md
 tags:
 - r
 - redes sociales
+title: 'Los "mejores" paquetes de R (II): análisis anual de la red social de los participantes
+  en r-help'
+url: /2010/06/28/los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help/
 ---
 
 Hace un tiempo comencé una serie de entradas, que serán finalmente tres, sobre [los "mejores" paquetes de R](http://www.datanalytics.com/2010/04/18/los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help). Esta va a ser la segunda entrega. Siento haber tardado tanto en realizarla: quienes me conocen saben que ocioso no he permanecido. De mis actividades de este periodo daré cumplida cuenta en entradas subsiguientes.

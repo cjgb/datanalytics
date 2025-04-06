@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-16 07:17:15+00:00
-draft: false
-title: Rutas por Zaragoza con R
-
-url: /2012/04/16/rutas-por-zaragoza-con-r/
 categories:
 - r
+date: 2012-04-16 07:17:15+00:00
+draft: false
+lastmod: '2025-04-06T19:06:01.540236'
+related:
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2012-04-25-espana-c2bfradial-i.md
+- 2016-04-29-como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela.md
+- 2015-05-18-grafos-sobre-mapas.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
 tags:
 - mapas
 - r
 - redes sociales
 - rutas
 - zaragoza
+title: Rutas por Zaragoza con R
+url: /2012/04/16/rutas-por-zaragoza-con-r/
 ---
 
 [Óscar Perpiñán](http://procomun.wordpress.com/) me puso el otro día al tanto del [paquete `osmar` de R](http://osmar.r-forge.r-project.org/), que
@@ -104,4 +110,3 @@ Interesante, ¿eh?
 
 * No he conseguido calcular rutas en zonas más amplias: descargar los mapas de carreteras/calles de toda España, por ejemplo, no es tan sencillo como descargar los de zonas más pequeñas (una ciudad, por ejemplo). El API por defecto de OpenStreetMap, el que he usado, sólo permite descargar zonas que ocupen menos de la cuarta parte de un _grado cuadrado_. Existen procedimientos para extracciones más amplias, pero no las he probado.
 * Para otras ubicaciones distintas de las que he probado (y que existen como tales en el objeto `zgz` como, por ejemplo, el campus de la Universidad de Zaragoza) el código que he mostrado falla de manera que no he podido todavía explicar.
-

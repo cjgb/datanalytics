@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-04-13
-title: '¿Qué distribución usar? ¡Examina el proceso generativo!'
-
-url: /2023/04/13/distribuciones-procesos-generativos/
 categories:
 - probabilidad
+date: 2023-04-13
+lastmod: '2025-04-06T19:09:31.511380'
+related:
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
+- 2012-07-27-a-los-datos-mismos.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - probabilidad
 - estadística
 - modelos generativos
 - distribuciones
 - artículos
+title: ¿Qué distribución usar? ¡Examina el proceso generativo!
+url: /2023/04/13/distribuciones-procesos-generativos/
 ---
 
 Tenía pendiente contar algo sobre el (oscuro) artículo

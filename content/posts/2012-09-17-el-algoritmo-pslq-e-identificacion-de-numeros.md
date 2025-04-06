@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-17 07:22:17+00:00
-draft: false
-title: El algoritmo PSLQ e identificación de números
-
-url: /2012/09/17/el-algoritmo-pslq-e-identificacion-de-numeros/
 categories:
 - programación
+date: 2012-09-17 07:22:17+00:00
+draft: false
+lastmod: '2025-04-06T19:10:16.450557'
+related:
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2016-05-24-tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md
 tags:
 - programación
 - python
 - aproximaciones
+title: El algoritmo PSLQ e identificación de números
+url: /2012/09/17/el-algoritmo-pslq-e-identificacion-de-numeros/
 ---
 
 El [algoritmo PSLQ](http://mathworld.wolfram.com/PSLQAlgorithm.html) se usa para resolver aproximadamente ecuaciones con coeficientes enteros $latex a_i$ de la forma

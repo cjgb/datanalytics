@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-03 07:38:41+00:00
-draft: false
-title: El paquete MicroDatosEs para microdatos públicos
-
-url: /2012/08/03/el-paquete-microdataes-para-microdatos-publicos/
 categories:
 - estadística
 - r
+date: 2012-08-03 07:38:41+00:00
+draft: false
+lastmod: '2025-04-06T18:45:42.569797'
+related:
+- 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
+- 2015-06-18-la-encuesta-de-presupuestos-familiares-en-microdatoses.md
+- 2012-08-13-fallecimientos-y-microdatos.md
+- 2014-06-27-disponible-una-nueva-version-de-microdatoses.md
+- 2024-01-18-microdatoses-ultima-version.md
 tags:
 - datos abiertos
 - estadística
 - estadística pública
 - microdatoses
 - r
+title: El paquete MicroDatosEs para microdatos públicos
+url: /2012/08/03/el-paquete-microdataes-para-microdatos-publicos/
 ---
 
 Comencé hace un tiempo un pequeño paquete de R, `MicroDataEs`, para importar automáticamente a R ficheros de microdatos distribuidos por los diversos organismos estadísticos (españoles, por acotar el ámbito). El objetivo es facilitar el análisis de este tipo de datos a los usuarios de R y como consecuencia:

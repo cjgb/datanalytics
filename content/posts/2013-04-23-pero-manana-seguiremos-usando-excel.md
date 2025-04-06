@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-23 07:54:14+00:00
-draft: false
-title: Pero mañana seguiremos usando Excel
-
-url: /2013/04/23/pero-manana-seguiremos-usando-excel/
 categories:
 - consultoría
 - números
+date: 2013-04-23 07:54:14+00:00
+draft: false
+lastmod: '2025-04-06T18:46:20.686234'
+related:
+- 2011-12-26-ibm-sobre-excel-como-herramienta-estadistica.md
+- 2010-01-25-excel-y-estadistica.md
+- 2010-01-29-addenda-excel-y-estadistica.md
+- 2020-11-26-a-que-les-ha-jugado-una-mala-pasada-el-excel.md
+- 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
 tags:
 - consultoría
 - excel
+title: Pero mañana seguiremos usando Excel
+url: /2013/04/23/pero-manana-seguiremos-usando-excel/
 ---
 
 Inmerso en asuntos que los más catalogarían de _friquis_, he permanecido ignorante de los más de los infelices sucesos que nos ha regalado el mundo durante los últimos días.

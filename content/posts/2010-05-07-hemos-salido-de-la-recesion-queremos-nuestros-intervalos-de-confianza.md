@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-07 19:39:38+00:00
-draft: false
-title: ¿Hemos salido de la recesión? ¡Queremos nuestros intervalos de confianza!
-
-url: /2010/05/07/hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza/
 categories:
 - estadística
 - finanzas
+date: 2010-05-07 19:39:38+00:00
+draft: false
+lastmod: '2025-04-06T19:04:45.142057'
+related:
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2011-02-25-1605.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2015-02-23-mas-sobre-el-error-de-medida.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 tags:
 - estadística
 - finanzas
+title: ¿Hemos salido de la recesión? ¡Queremos nuestros intervalos de confianza!
+url: /2010/05/07/hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza/
 ---
 
 Ha aparecido publicado recientemente en [prensa](http://www.elpais.com/articulo/economia/Espana/lograr/dejar/recesion/trimestres/despues/elpepueco/20100507elpepueco_4/Tes) que, según el Banco de España, hemos salido de la recesión (por si acaso: _nosotros_ significa los españoles): en su [Boletín Económico](http://www.bde.es/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/10/Abr/Fich/be1004.pdf) del mes de abril, el banco emisor dice textualmente que:

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-27 07:57:19+00:00
-draft: false
-title: Desconfianza en la estadística pública Argentina
-
-url: /2012/02/27/desconfianza-en-la-estadistica-publica-argentina/
 categories:
 - estadística
 - números
+date: 2012-02-27 07:57:19+00:00
+draft: false
+lastmod: '2025-04-06T19:11:36.474037'
+related:
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2012-04-30-contar-c2bffacil.md
 tags:
 - estadística
 - estadística pública
+title: Desconfianza en la estadística pública Argentina
+url: /2012/02/27/desconfianza-en-la-estadistica-publica-argentina/
 ---
 
 Pasé recientemente unas semanas en Argentina. Abundan las razones para que todos hiciesen eso alguna vez en la vida.

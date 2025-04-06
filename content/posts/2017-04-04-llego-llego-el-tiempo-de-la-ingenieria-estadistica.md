@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-04 08:13:32+00:00
-draft: false
-title: Llegó (¿llegó?) el tiempo de la ingeniería estadística
-
-url: /2017/04/04/llego-llego-el-tiempo-de-la-ingenieria-estadistica/
 categories:
 - estadística
+date: 2017-04-04 08:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:52:54.227859'
+related:
+- 2012-06-26-ciencia-e-ingenieria-estadistica-y-y-que.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
+- 2017-10-09-la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia.md
 tags:
 - estadística
 - ingeniería estadística
+title: Llegó (¿llegó?) el tiempo de la ingeniería estadística
+url: /2017/04/04/llego-llego-el-tiempo-de-la-ingenieria-estadistica/
 ---
 
 Mucho se habla de ciencia de datos pero poco de una disciplina emergente de la que me ocupé hace tiempo en una entrada que entre las más de 1300 que llevo no ubico: la ingeniería estadística.

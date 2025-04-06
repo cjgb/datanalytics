@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-09 08:13:28+00:00
-draft: false
-title: Los límites que la varianza impone a las energías renovables
-
-url: /2016/09/09/los-limites-que-la-varianza-impone-a-las-energias-renovables/
 categories:
 - estadística
+date: 2016-09-09 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T19:01:44.191744'
+related:
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2021-11-18-sobre-el-almacenamiento-industrial-de-la-energia-electrica.md
+- 2023-07-18-energia-nuclear-salvara-mundo.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
 tags:
 - estadística
 - renovables
 - series temporales
 - varianza
+title: Los límites que la varianza impone a las energías renovables
+url: /2016/09/09/los-limites-que-la-varianza-impone-a-las-energias-renovables/
 ---
 
 El asunto de las energías renovables, a partir de cierto umbral de capacidad instalada, se convierte en uno de gestión de la varianza.
@@ -36,8 +42,3 @@ El que sin dejar de ser chistoso parece muy de otras latitudes es que
 En definitiva, una lectura muy recomendada. Especialísimamente, su último párrafo que dice (esta vez sí traduzco):
 
 >A la vista de todas estas dificultades, la comunidad mundial debería observar con cuidado el resultado del experimento alemán antes de lanzarse a imitarlo desmantelando las plantas nucleares.
-
-
-
-
-

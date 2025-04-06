@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-23 09:39:55+00:00
-draft: false
-title: 'Nuestro mandato: ordenar y simplificar'
-
-url: /2010/11/23/nuestro-mandato-ordenar-y-simplificar/
 categories:
 - consultoría
 - estadística
+date: 2010-11-23 09:39:55+00:00
+draft: false
+lastmod: '2025-04-06T19:01:30.771911'
+related:
+- 2017-10-24-tres-de-seis-consejos-para-mejorar-las-regresiones.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
 tags:
 - consultoría
 - estadística
+title: 'Nuestro mandato: ordenar y simplificar'
+url: /2010/11/23/nuestro-mandato-ordenar-y-simplificar/
 ---
 
 Todo el mundo entiende que los médicos, sólo por serlo, están sujetos a un mandato específico: luchar contra la enfermedad. Puede que otros gremios (como los maestros o los jueces) tengan otros tan escuetos como significativos.

@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-05 08:13:46+00:00
-draft: false
-title: Barómetros del CIS con R
-
-url: /2016/10/05/barometros-del-cis-con-r/
 categories:
 - estadística
 - r
+date: 2016-10-05 08:13:46+00:00
+draft: false
+lastmod: '2025-04-06T19:12:26.638139'
+related:
+- 2012-08-13-fallecimientos-y-microdatos.md
+- 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
+- 2016-10-10-acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
 tags:
 - barómetros
 - cis
@@ -15,6 +19,8 @@ tags:
 - datos públicos
 - microdatos
 - r
+title: Barómetros del CIS con R
+url: /2016/10/05/barometros-del-cis-con-r/
 ---
 
 El CIS realiza [barómetros](http://www.cis.es/cis/opencm/ES/11_barometros/index.jsp) todos los meses menos uno. Pasado un tiempo (es octubre y el último publicado es de julio) coloca los microdatos en su [banco de datos](http://www.cis.es/cis/opencm/ES/11_barometros/depositados.jsp).

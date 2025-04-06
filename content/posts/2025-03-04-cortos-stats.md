@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-03-04
-title: 'GPT en 500 líneas de SQL y algunos asuntos más'
-url: /2025/03/04/cortos-stats
 categories:
 - cortos
+date: 2025-03-04
+lastmod: '2025-04-06T19:06:41.625351'
+related:
+- 2024-03-21-cortos.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2023-10-05-llms-historia.md
+- 2025-03-18-cortos-tecnologia.md
+- 2025-02-11-cortos-llms.md
 tags:
 - tecnología
 - ocr
 - modelización
+title: GPT en 500 líneas de SQL y algunos asuntos más
+url: /2025/03/04/cortos-stats
 ---
 
 Creo que vamos a oír hablar bastante en los próximos meses sobre el uso de _algoritmos_ en la administración. Civio abrió fuego hace casi un año con [el caso de BOSCO](/2024/05/16/sentencia-bono-social-luz-i) y vuelve a la carga con

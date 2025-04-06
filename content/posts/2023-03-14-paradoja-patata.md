@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-14
-title: 'De la paradoja de la patata a los neo-Protágoras de la estadística'
-
-url: /2023/03/14/paradoja-patata/
 categories:
 - números
+date: 2023-03-14
+lastmod: '2025-04-06T19:10:23.384556'
+related:
+- 2023-06-22-paradoja-lord.md
+- 2015-01-14-rarezas-estadistica-algebraica.md
+- 2014-10-13-los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera.md
+- 2024-10-17-interpretacion-modelos.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
 tags:
 - estadística
 - sofística
 - funciones no lineales
+title: De la paradoja de la patata a los neo-Protágoras de la estadística
+url: /2023/03/14/paradoja-patata/
 ---
 
 ## I

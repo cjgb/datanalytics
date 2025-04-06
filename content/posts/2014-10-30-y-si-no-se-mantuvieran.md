@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-30 07:13:25+00:00
-draft: false
-title: ¿Y si no se mantuvieran?
-
-url: /2014/10/30/y-si-no-se-mantuvieran/
 categories:
 - estadística
 - números
+date: 2014-10-30 07:13:25+00:00
+draft: false
+lastmod: '2025-04-06T19:09:08.072220'
+related:
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2021-05-27-todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine.md
+- 2014-11-14-proyecciones-estimaciones-previsiones-operaciones-y-churros.md
+- 2020-09-23-este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita.md
+- 2017-01-31-proyecciones-probabilisticas-de-poblacion.md
 tags:
 - estadística pública
 - ine
 - proyecciones
+title: ¿Y si no se mantuvieran?
+url: /2014/10/30/y-si-no-se-mantuvieran/
 ---
 
 Comienzo mi entrada de hoy con una foto de Madrid en la nochevieja de 1964.

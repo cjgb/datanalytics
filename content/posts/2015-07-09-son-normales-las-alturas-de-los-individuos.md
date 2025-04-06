@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-09 08:13:44+00:00
-draft: false
-title: ¿Son normales las alturas (de los individuos)?
-
-url: /2015/07/09/son-normales-las-alturas-de-los-individuos/
 categories:
 - estadística
 - r
+date: 2015-07-09 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T18:55:23.981403'
+related:
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2015-03-09-unas-preguntas-incomodas.md
+- 2017-03-01-sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2022-03-08-estadistica-ciencias-blandas.md
 tags:
 - alturas
 - bioestadística
 - estadística
 - r
+title: ¿Son normales las alturas (de los individuos)?
+url: /2015/07/09/son-normales-las-alturas-de-los-individuos/
 ---
 
 Diríase que sí. La altura de un individuo está sujeta a multitud de factores que suman y restan. Está la genética (que es el resultado de la suma y resta del impacto de muchos genes individuales). Está la dieta, está... Diríase, insisto, que la altura es el promedio de muchos efectos pequeños y no demasiado dependientes entre ellos.

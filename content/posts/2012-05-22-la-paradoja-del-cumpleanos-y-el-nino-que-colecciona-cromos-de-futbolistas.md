@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-22 07:40:52+00:00
-draft: false
-title: La paradoja del cumpleaños y el niño que colecciona cromos de futbolistas
-
-url: /2012/05/22/la-paradoja-del-cumpleanos-y-el-nino-que-colecciona-cromos-de-futbolistas/
 categories:
 - probabilidad
+date: 2012-05-22 07:40:52+00:00
+draft: false
+lastmod: '2025-04-06T18:53:19.788361'
+related:
+- 2014-02-05-el-otro-problema-del-cumpleanos.md
+- 2017-02-06-1e-por-doquier.md
+- 2014-02-13-mi-solucion-al-otro-problema-del-cumpleanos.md
+- 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
 tags:
 - paradojas
 - probabilidad
+title: La paradoja del cumpleaños y el niño que colecciona cromos de futbolistas
+url: /2012/05/22/la-paradoja-del-cumpleanos-y-el-nino-que-colecciona-cromos-de-futbolistas/
 ---
 
 El otro día vi el programa [Descifrar las probabilidades en la vida](http://www.redesparalaciencia.com/7252/redes/redes-125-descifrar-las-probabilidades-e-la-vida) de Punset en el que se repasan varios problemas más o menos prácticos en los que el cálculo de las probabilidades juega cierto papel.

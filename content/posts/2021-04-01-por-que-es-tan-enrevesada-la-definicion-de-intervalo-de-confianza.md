@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-01 09:13:00+00:00
-draft: false
-title: ¿Por qué es tan enrevesada la definición de intervalo de confianza?
-
-url: /2021/04/01/por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza/
 categories:
 - estadística
+date: 2021-04-01 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:57.582491'
+related:
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2020-02-18-la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95.md
+- 2024-04-04-sobre-cis.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
 tags:
 - estadística
 - fisher
 - intervalo de confianza
+title: ¿Por qué es tan enrevesada la definición de intervalo de confianza?
+url: /2021/04/01/por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza/
 ---
 
 En esta entrada voy a tratar de reconstruir históricamente el concepto de intervalo de confianza (IC) para tratar de explicar por qué el concepto ha llegado a tener una definición e interpretación tan precisa como confusa (e inútil). La interpretación de lo que _realmente_ son los IC son el coco ---el que se lleva a los diletantes que saben poco--- con el que amenazar a quienes tienen inseguridades metodológicas y una marca de erudición incontestable para quienes son capaces de enunciarla sin que se les trabe la lengua.

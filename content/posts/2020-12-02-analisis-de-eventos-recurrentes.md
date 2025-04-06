@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-02 09:13:00+00:00
-draft: false
-title: Análisis de eventos recurrentes
-
-url: /2020/12/02/analisis-de-eventos-recurrentes/
 categories:
 - estadística
 - r
+date: 2020-12-02 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:58:14.966163'
+related:
+- 2020-03-11-analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas.md
+- 2018-11-05-cuatro-paquetes-interesantes-de-r.md
+- 2019-07-03-modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia.md
+- 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md
+- 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
 tags:
 - bart
 - paquetes
 - r
 - recurrente
+title: Análisis de eventos recurrentes
+url: /2020/12/02/analisis-de-eventos-recurrentes/
 ---
 
 He sido fan del análisis de los eventos recurrentes desde antes incluso de saber que existía tal cosa formalmente.

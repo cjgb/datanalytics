@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-02 09:13:36+00:00
-draft: false
-title: ¿Vale realmente el "bootstrap" para comparar modelos?
-
-url: /2019/04/02/vale-realmente-el-bootstrap-para-comparar-modelos/
 categories:
 - ciencia de datos
 - estadística
+date: 2019-04-02 09:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:12:53.912379'
+related:
+- 2014-10-10-bootstrap-bayesiano.md
+- 2024-09-24-cortos-stats.md
+- 2014-11-10-remuestreos-y-tests-de-hipotesis.md
+- 2011-09-23-done28099t-be-loopy-ii.md
+- 2024-10-22-cortos-stats.md
 tags:
 - bootstrap
 - ciencia de datos
 - estadística
 - harrell
 - validación cruzada
+title: ¿Vale realmente el "bootstrap" para comparar modelos?
+url: /2019/04/02/vale-realmente-el-bootstrap-para-comparar-modelos/
 ---
 
 Es una pregunta legítima ---en el sentido de que ignoro la respuesta--- que tengo. Para plantearla en sus debidos términos:

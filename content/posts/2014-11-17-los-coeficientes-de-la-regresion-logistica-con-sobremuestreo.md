@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-17 07:13:30+00:00
-draft: false
-title: Los coeficientes de la regresión logística con sobremuestreo
-
-url: /2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/
 categories:
 - estadística
+date: 2014-11-17 07:13:30+00:00
+draft: false
+lastmod: '2025-04-06T18:48:53.628386'
+related:
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2015-08-03-ajuste-de-probabilidades-en-regresiones-logisticas-bajo-sobremuestreo-y-otros.md
 tags:
 - estadística
 - regresión logística
 - sobremuestreo
+title: Los coeficientes de la regresión logística con sobremuestreo
+url: /2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/
 ---
 
 Esta entrada viene a cuento de [una pregunta en r-help-es](https://stat.ethz.ch/pipermail/r-help-es/2014-November/008343.html) con, por referencia, este contexto:

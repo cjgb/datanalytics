@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-14 08:20:38+00:00
-draft: false
-title: '"Democratic people''s republic" de algo que empieza por ge'
-
-url: /2018/05/14/democratic-peoples-republic-de-algo-que-empieza-por-ge/
 categories:
 - varios
+date: 2018-05-14 08:20:38+00:00
+draft: false
+lastmod: '2025-04-06T18:58:43.032993'
+related:
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
+- 2017-11-29-antropocentrismo-cansino.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 tags:
 - gdpr
 - internet
 - privacidad
+title: '"Democratic people''s republic" de algo que empieza por ge'
+url: /2018/05/14/democratic-peoples-republic-de-algo-que-empieza-por-ge/
 ---
 
 Hay gente que es del parecer de que existen contubernios sanitarios (constituidos por empresas farmacéuticas y profesionales de la salud conchabados con ellos) que proceden de la siguiente manera:

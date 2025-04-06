@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-06-14 07:17:37+00:00
-draft: false
-title: Teruel, Orense, Palencia... y adenoidectomías
-
-url: /2013/06/14/teruel-orense-palencia-y-adenoidectomias/
 categories:
 - estadística
 - gráficos
+date: 2013-06-14 07:17:37+00:00
+draft: false
+lastmod: '2025-04-06T19:06:34.578315'
+related:
+- 2012-08-14-incendios-en-espana.md
+- 2017-10-18-ardeasturias-ardeaviles-ah-mierda.md
+- 2012-07-20-deshaucios-en-espana-y-su-estructura-geografica.md
+- 2013-08-16-mapas-mapas-mapas-y.md
+- 2011-04-19-graficos-v-mapas.md
 tags:
 - estadística
 - estadística pública
 - gráficos
+title: Teruel, Orense, Palencia... y adenoidectomías
+url: /2013/06/14/teruel-orense-palencia-y-adenoidectomias/
 ---
 
 Quien haya recorrido Teruel, Orense, Palencia, la zona de Almadén y otras partes del interior de España abandonadas a su suerte desde hace siglos no habrá visto demasiado crío. Me acabo de enterar que a lo que se conoce como _operar de vegetaciones_ recibe el nombre de adenoidectomía. Y he visto el mapa

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-19 17:48:07+00:00
-draft: false
-title: 'Casos de coronavirus en Madrid provincia: un modelo muy crudo basado en la
-  mortalidad'
-
-url: /2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/
 categories:
 - r
+date: 2020-03-19 17:48:07+00:00
+draft: false
+lastmod: '2025-04-06T18:49:03.052163'
+related:
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2020-03-09-seguimiento-del-coronavirus-en-tiempo-real-con-r.md
+- 2020-03-10-seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r.md
+- 2023-03-28-se-iguales.md
 tags:
 - coronavirus
 - defunciones
 - madrid
 - r
 - stan
+title: 'Casos de coronavirus en Madrid provincia: un modelo muy crudo basado en la
+  mortalidad'
+url: /2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/
 ---
 
 _[Nota: si no sabes interpretar las hipótesis embebidas en el código que publico, que operan como enormes caveats, no hagas caso en absoluto a los resultados. He publicado esto para ver si otros que saben más que yo lo pulen y consiguen un modelo más razonable usándolo tal vez, ojalá, como núcleo.]_

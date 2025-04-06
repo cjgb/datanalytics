@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-24 08:06:40+00:00
-draft: false
-title: Cómo no restar números fuzzy
-
-url: /2014/01/24/como-no-restar-numeros-fuzzy/
 categories:
 - estadística
+date: 2014-01-24 08:06:40+00:00
+draft: false
+lastmod: '2025-04-06T19:05:07.728864'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
 tags:
 - covarianza
 - encuestas
@@ -14,6 +18,8 @@ tags:
 - estadística
 - fuzzy
 - varianza
+title: Cómo no restar números fuzzy
+url: /2014/01/24/como-no-restar-numeros-fuzzy/
 ---
 
 Esta entrada viene motivada por varios asuntos relacionados que me han sucedido en los últimos tiempos. El primero es un colega que me preguntó sobre si el paro había subido o bajado comparando datos de un par de trimestres.

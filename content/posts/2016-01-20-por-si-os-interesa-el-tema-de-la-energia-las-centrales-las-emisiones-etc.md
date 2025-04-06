@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-20 08:13:51+00:00
-draft: false
-title: Por si os interesa el tema de la energía, las centrales, las emisiones, etc.
-
-url: /2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/
 categories:
 - r
+date: 2016-01-20 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T18:48:58.975433'
+related:
+- 2022-04-12-graficaca-ree.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2022-10-25-muchos-julios-hidraulica.md
+- 2021-11-18-sobre-el-almacenamiento-industrial-de-la-energia-electrica.md
 tags:
 - energía
 - ggplot2
 - r
 - sparql
+title: Por si os interesa el tema de la energía, las centrales, las emisiones, etc.
+url: /2016/01/20/por-si-os-interesa-el-tema-de-la-energia-las-centrales-las-emisiones-etc/
 ---
 
 Esta entrada será del interés de a quien le atraigan dos temas bastante independientes entre sí:

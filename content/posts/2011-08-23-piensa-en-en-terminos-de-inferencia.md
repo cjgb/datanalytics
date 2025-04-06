@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-23 07:25:54+00:00
-draft: false
-title: Piensa en en términos de inferencia
-
-url: /2011/08/23/piensa-en-en-terminos-de-inferencia/
 categories:
 - estadística
+date: 2011-08-23 07:25:54+00:00
+draft: false
+lastmod: '2025-04-06T18:54:25.757197'
+related:
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2013-01-23-mapa-mental-de-mi-primera-clase-del-semestre.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2023-10-03-muestreo-superricos.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - estadística
 - inferencia
+title: Piensa en en términos de inferencia
+url: /2011/08/23/piensa-en-en-terminos-de-inferencia/
 ---
 
 Recomiendo a mis lectores [este estupendo vídeo](http://www.stat.auckland.ac.nz/~wild/09.wild.USCOTS.html). Es una conferencia de casi una hora que nos invita a pensar en los datos en términos de inferencia.

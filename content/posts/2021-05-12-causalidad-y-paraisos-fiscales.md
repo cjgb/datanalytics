@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-05-12 09:13:00+00:00
-draft: false
-title: Causalidad y paraísos fiscales
-
-url: /2021/05/12/causalidad-y-paraisos-fiscales/
 categories:
 - estadística
 - causalidad
 - mala ciencia
+date: 2021-05-12 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:07.653804'
+related:
+- 2024-01-16-causalidad-conocimiento.md
+- 2011-02-25-1605.md
+- 2018-04-17-de-espana-a-dinamarca-en-dos-pasos.md
+- 2012-06-27-iva-irpf-y-desigualdad.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 tags:
 - artículos
 - causalidad
 - economía
 - impuestos
 - mixtape
+title: Causalidad y paraísos fiscales
+url: /2021/05/12/causalidad-y-paraisos-fiscales/
 ---
 
 El argumento del artículo _[Paraísos Fiscales, Wealth Taxation, and Mobility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3676031)_ pivota esencialmente sobre el gráfico

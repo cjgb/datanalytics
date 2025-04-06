@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-03 07:03:22+00:00
-draft: false
-title: The Elements of Statistical Craftsmanship
-
-url: /2014/04/03/the-elements-of-statistical-artisany/
 categories:
 - estadística
+date: 2014-04-03 07:03:22+00:00
+draft: false
+lastmod: '2025-04-06T18:54:13.008771'
+related:
+- 2013-12-05-cuantos-peces-hay-en-un-lago.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2021-07-21-quien-invento-los-random-forests.md
+- 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
 tags:
 - artesanía estadística
 - estadística
@@ -15,6 +19,8 @@ tags:
 - peces
 - siria
 - breiman
+title: The Elements of Statistical Craftsmanship
+url: /2014/04/03/the-elements-of-statistical-artisany/
 ---
 
 En [_How Statistics lifts the fog of war in Syria_](http://blog.revolutionanalytics.com/2014/03/hrdag-strata.html) se describe una solución al problema de estimar el número de víctimas en cierto lance de la guerra de Siria. Lo complicado del problema es que existen diversos recuentos independientes y las víctimas pueden aparecer en todos, alguno o ninguno.

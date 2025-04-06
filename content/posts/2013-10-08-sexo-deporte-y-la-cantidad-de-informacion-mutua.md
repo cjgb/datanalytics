@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-10-08 07:46:13+00:00
-draft: false
-title: Sexo, deporte y la cantidad de información mutua
-
-url: /2013/10/08/sexo-deporte-y-la-cantidad-de-informacion-mutua/
 categories:
 - consultoría
 - estadística
 - r
+date: 2013-10-08 07:46:13+00:00
+draft: false
+lastmod: '2025-04-06T18:59:40.485876'
+related:
+- 2011-09-22-anonimidad-y-cantidad-de-informacion.md
+- 2024-06-20-mas-r-cuadrado.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
 tags:
 - consultoría
 - estadística
 - r
+title: Sexo, deporte y la cantidad de información mutua
+url: /2013/10/08/sexo-deporte-y-la-cantidad-de-informacion-mutua/
 ---
 
 Perdón por el titular. No soy inasequible a las modas.
@@ -84,4 +90,3 @@ mi.plugin(tvcable.deporte, unit = "log2")
 {{< / highlight >}}
 
 Y la variable sexo aporta casi el triple de información que la otra.
-

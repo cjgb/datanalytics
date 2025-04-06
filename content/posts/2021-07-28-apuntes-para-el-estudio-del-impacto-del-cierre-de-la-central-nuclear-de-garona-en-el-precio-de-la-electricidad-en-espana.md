@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-07-28 09:17:09+00:00
-draft: false
-title: Apuntes para el estudio del impacto del cierre de la central nuclear de Garoña
-  en el precio de la electricidad en España
-
-url: /2021/07/28/apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana/
 categories:
 - números
 - varios
+date: 2021-07-28 09:17:09+00:00
+draft: false
+lastmod: '2025-04-06T18:44:48.956446'
+related:
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2022-07-26-hueco-termico.md
+- 2024-03-14-precio-medio-diario-electricidad.md
+- 2023-07-18-energia-nuclear-salvara-mundo.md
+- 2022-01-25-universo-muestra-big-data.md
 tags:
 - energía nuclear
 - garoña
 - mercado eléctrico
 - números
+title: Apuntes para el estudio del impacto del cierre de la central nuclear de Garoña
+  en el precio de la electricidad en España
+url: /2021/07/28/apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana/
 ---
 
 Nada más ni nada menos.

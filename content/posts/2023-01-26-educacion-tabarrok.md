@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-26
-title: 'Esta entrada no tiene título porque no se me ocurre ninguno sin "spoilers"'
-
-url: /2023/01/26/valor-anadido-educacion-privada/
 categories:
 - números
+date: 2023-01-26
+lastmod: '2025-04-06T18:53:20.501797'
+related:
+- 2024-01-09-regresiones_pisa.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2014-04-23-demasiado-simple.md
+- 2012-06-13-rankings-de-colegios-problemas-y-alternativas.md
+- 2016-12-07-enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es.md
 tags:
 - números
 - educación
 - tabarrok
 - pisa
+title: Esta entrada no tiene título porque no se me ocurre ninguno sin "spoilers"
+url: /2023/01/26/valor-anadido-educacion-privada/
 ---
 
 Esta entrada principia con el siguiente gráfico:

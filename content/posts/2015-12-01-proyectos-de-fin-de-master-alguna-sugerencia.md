@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-01 15:24:02+00:00
-draft: false
-title: 'Proyectos de fin de máster: ¿alguna sugerencia?'
-
-url: /2015/12/01/proyectos-de-fin-de-master-alguna-sugerencia/
 categories:
 - ciencia de datos
+date: 2015-12-01 15:24:02+00:00
+draft: false
+lastmod: '2025-04-06T19:12:27.335197'
+related:
+- 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
+- 2016-09-19-un-curso-de-15-horas-de-introduccion-a-la-programacion.md
+- 2016-10-31-modelos-graficos-probabilisticos-en-coursera.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2015-03-19-un-curso-de-redes-sociales-con-r.md
 tags:
 - cursos
 - proyectos
+title: 'Proyectos de fin de máster: ¿alguna sugerencia?'
+url: /2015/12/01/proyectos-de-fin-de-master-alguna-sugerencia/
 ---
 
 Doy clase en algunos máster de ciencia de datos. Estos máster suelen concluir con la realización de algún proyecto completo.

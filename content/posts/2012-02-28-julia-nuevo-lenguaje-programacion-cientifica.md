@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-28 08:02:29+00:00
-draft: false
-title: Julia, un nuevo lenguaje para la programación científica
-
-url: /2012/02/28/julia-nuevo-lenguaje-programacion-cientifica/
 categories:
 - r
+date: 2012-02-28 08:02:29+00:00
+draft: false
+lastmod: '2025-04-06T18:58:18.843051'
+related:
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2012-03-06-mas-sobre-julia-ii-mi-primer-programa.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
+- 2010-10-06-matlab-es-mas-rapido-que-r-c2bfy.md
 tags:
 - julia
 - r
 - javascript
+title: Julia, un nuevo lenguaje para la programación científica
+url: /2012/02/28/julia-nuevo-lenguaje-programacion-cientifica/
 ---
 
 No sé si conocéis [Julia](http://julialang.org/), un lenguaje de programación orientado al cálculo científico. Os dejaré echarle un vistazo a su página.

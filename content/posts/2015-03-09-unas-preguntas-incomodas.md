@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-09 08:13:39+00:00
-draft: false
-title: Unas preguntas incómodas
-
-url: /2015/03/09/unas-preguntas-incomodas/
 categories:
 - números
+date: 2015-03-09 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:54:43.545027'
+related:
+- 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
+- 2019-03-21-encuesta-de-estructura-salarial-y-r-propedeutica.md
+- 2019-01-04-sobre-la-brecha-salarial-de-belleza.md
+- 2017-07-04-dudas-razonables-que-me-asaltan.md
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
 tags:
 - ees
 - ine
 - microdatos
 - microdatoses
 - salarios
+title: Unas preguntas incómodas
+url: /2015/03/09/unas-preguntas-incomodas/
 ---
 
 Que la mujer promedio gana menos que el hombre promedio es un hecho conocido. A los usuarios de R que estén al tanto de mi paquete [MicroDatosEs](https://www.datanalytics.com/tags/microdatoses/) no hace falta siquiera que se lo cuenten: pueden bajar los datos de la [Encuesta de Estructura Salarial](http://www.ine.es/prodyser/microdatos.htm) del INE y hacer el cálculo por sí mismos.
@@ -28,4 +34,3 @@ La primera tiene que ver con que los datos que recoge la EES (y en la que se bas
 La segunda, con que que gran parte de los trabajadores tienen como pagador a la administración pública o a una gran empresa. Y en ambos mundos existen unos baremos salariales claramente establecidos y que se supone (entiendo que incluso por ley en el caso de la administración) que se atienen a criterios de mérito y en ningún caso discriminan por sexo. Mi experiencia al respecto (en grandes empresas) es limitada, pero jamás he encontrado el caso de una mujer en el mismo puesto que un hombre y que gane menos que él. La gente a la que he preguntado, tampoco. Pero, de nuevo, mi universo está un tanto sesgado y no sé qué pueda ocurrir en, p.e., pequeñas empresas industriales. La pregunta entonces es: ¿debo creer a mis propios ojos o a la EES? ¿Estoy equivocado o es la EES —tal vez por los problemas que planteo más arriba— la que yerra? ¿No debería la EES mostrar igualdad salarial en esos sectores que menciono? ¿O es que existen mecanismos de discriminación subterráneos que pervierten los mecanismos aparentemente basados en mérito y que la EES permite aflorar?
 
 Hummm...
-

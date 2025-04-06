@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-13 07:26:00+00:00
-draft: false
-title: Agrupación de grafos por topología
-
-url: /2014/06/13/agrupacion-de-grafos-por-topologia/
 categories:
 - programación
 - estadística
+date: 2014-06-13 07:26:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:10.876190'
+related:
+- 2015-05-18-grafos-sobre-mapas.md
+- 2014-09-15-componentes-conexas-de-grafos-en-spark.md
+- 2010-04-18-los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help.md
+- 2015-05-27-grafos-por-vecindad-en-mapas.md
+- 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md
 tags:
 - igraph
 - r
 - redes sociales
+title: Agrupación de grafos por topología
+url: /2014/06/13/agrupacion-de-grafos-por-topologia/
 ---
 
 Anuncio algo que no he conseguido hacer: agrupar grafos por topología. Pero no me he quedado lejos. Y espero que si alguien tiene alguna idea al respecto, nos lo haga saber al resto en la coda.

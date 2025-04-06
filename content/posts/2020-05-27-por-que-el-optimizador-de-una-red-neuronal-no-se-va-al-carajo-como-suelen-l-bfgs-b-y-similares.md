@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-27 09:13:00+00:00
-draft: false
-title: ¿Por qué el optimizador de una red neuronal no se va al carajo (como suelen
-  L-BFGS-B y similares)?
-
-url: /2020/05/27/por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares/
 categories:
 - ciencia de datos
+date: 2020-05-27 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:00:24.546531'
+related:
+- 2023-04-27-problemas-matematicos-deep-learning.md
+- 2019-07-01-optimizacion-dos-escuelas-y-una-pregunta.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2024-07-04-optimizacion-altas-dimensiones.md
+- 2024-02-01-optimizacion-generalizacion.md
 tags:
 - optim
 - optimización
 - redes neuronales
+title: ¿Por qué el optimizador de una red neuronal no se va al carajo (como suelen
+  L-BFGS-B y similares)?
+url: /2020/05/27/por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares/
 ---
 
 Vale, admito que no funciona siempre. Pero una manera de distinguir a un matemático de un ingeniero es por una casi imperceptible pausa que los primeros realizan antes de pronunciar _optimización_. Un matemático nunca conjuga el verbo optimizar en vano.

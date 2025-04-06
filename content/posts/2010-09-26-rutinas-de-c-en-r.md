@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-26 23:13:39+00:00
-draft: false
-title: Rutinas de C en R
-
-url: /2010/09/26/rutinas-de-c-en-r/
 categories:
 - r
+date: 2010-09-26 23:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:58:58.371810'
+related:
+- 2010-10-22-tutorial-instalacion-de-la-extension-de-r-para-rapidminer.md
+- 2011-05-18-solipsismo-comunidad-y-rendimiento.md
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
 tags:
 - r
 - programación
+title: Rutinas de C en R
+url: /2010/09/26/rutinas-de-c-en-r/
 ---
 
 _[Nota: esta entrada está totalmente desactualizada y la mantengo en en blog por una mezcla de sentimentalismo y fidelidad a la "memoria histórica"; el interesado en cómo interconectar R y C (o C++) hoy hará bien en buscar en otra parte.]_

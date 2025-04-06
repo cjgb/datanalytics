@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-05-07 06:59:50+00:00
-draft: false
-title: 'Gráficos de mosaico: ¿sí o no?'
-
-url: /2014/05/07/graficos-de-mosaico-si-o-no/
 categories:
 - gráficos
+date: 2014-05-07 06:59:50+00:00
+draft: false
+lastmod: '2025-04-06T19:02:49.977550'
+related:
+- 2016-10-13-dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing.md
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md
 tags:
 - gráficos
 - mondrian
 - mosaico
+title: 'Gráficos de mosaico: ¿sí o no?'
+url: /2014/05/07/graficos-de-mosaico-si-o-no/
 ---
 
 Los [gráficos de mosaico](http://en.wikipedia.org/wiki/Mosaic_plot) son cosas parecidas a

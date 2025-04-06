@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-12 08:13:07+00:00
-draft: false
-title: 'Experimentos con "extremely small data": la media muestral de pocas betas'
-
-url: /2017/04/12/experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas/
 categories:
 - estadística
 - r
+date: 2017-04-12 08:13:07+00:00
+draft: false
+lastmod: '2025-04-06T19:08:55.346988'
+related:
+- 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
 tags:
 - beta
 - media
 - r
 - verosimilitud
 - welch
+title: 'Experimentos con "extremely small data": la media muestral de pocas betas'
+url: /2017/04/12/experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas/
 ---
 
 Aquí, contracorriente. Dejamos aparcado el _big data_ y le damos a lo que nos da de comer. Entre otras cosas, este pequeño experimento con muy pequeños datos (¿tres?).

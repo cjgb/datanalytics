@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-27 07:07:36+00:00
-draft: false
-title: Diagramas de puntos (dotplots)
-
-url: /2011/07/27/diagramas-de-puntos-dotplots/
 categories:
 - gráficos
 - r
+date: 2011-07-27 07:07:36+00:00
+draft: false
+lastmod: '2025-04-06T18:56:19.506807'
+related:
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2012-04-23-graficos-dinamita-desaconsejados.md
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
+- 2011-11-08-bump-charts-para-comparar-graficamente-proporciones-entre-periodos.md
 tags:
 - dotplots
 - gráficos
 - r
+title: Diagramas de puntos (dotplots)
+url: /2011/07/27/diagramas-de-puntos-dotplots/
 ---
 
 Aunque los diagramas de puntos fueron introducidos por [Cleveland ](http://www.stat.purdue.edu/~wsc/) en los años ochenta, a pesar de sus ventajas, no gozan de la popularidad de otros métodos de representación gráfica.

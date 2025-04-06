@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-01 08:13:04+00:00
-draft: false
-title: Odds = probabilidades
-
-url: /2015/09/01/odds-probabilidades/
 categories:
 - probabilidad
+date: 2015-09-01 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T18:59:54.920814'
+related:
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2012-08-09-odds-ratio-vs-probabilidad.md
+- 2024-12-19-promediar-predicciones.md
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2020-10-30-mercados-de-apuestas-como-cobertura.md
 tags:
 - apuestas
 - odds
 - probabilidad
+title: Odds = probabilidades
+url: /2015/09/01/odds-probabilidades/
 ---
 
 El otro día medio participé en una conversación en Twitter sobre el significado de los _odds_. Recientemente leí una entrada en la bitácora de un holandés que se quejaba de lo difícil que resulta encontrar un equivalente de esa palabra a su idioma. Pasa lo mismo en español: no existe una traducción directa; no existe, siquiera, el concepto.
@@ -39,8 +45,3 @@ Pero.
 De ahí se deduce la estrategia que siguen las casas de apuestas: sus _odds_ deberían acomodarse al dinero que hay detrás para que la cantidad que se reparta en premios no exceda su margen.
 
 En resumen, _odds_ = probabilidades, salvo cuando hay márgenes de por medio.
-
-
-
-
-

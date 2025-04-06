@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-14 07:32:10+00:00
-draft: false
-title: Memoria de decaimiento exponencial y canutos asíncronos
-
-url: /2014/02/14/memoria-de-decaimiento-exponencial-y-canutos-asincronos/
 categories:
 - consultoría
 - estadística
+date: 2014-02-14 07:32:10+00:00
+draft: false
+lastmod: '2025-04-06T19:06:39.061516'
+related:
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
+- 2023-10-24-timesnet.md
+- 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
+- 2024-12-05-beta-binomial-deriva.md
 tags:
 - decaimiento exponencial
 - frecuencia
 - recencia
+title: Memoria de decaimiento exponencial y canutos asíncronos
+url: /2014/02/14/memoria-de-decaimiento-exponencial-y-canutos-asincronos/
 ---
 
 Primero, canuto es como llamo yo a los _streams_: lugares por donde nos llegan datos —de sujetos que sacan dinero del cajero, de sensores de lo que sea, de clientes que llaman por teléfono—, típicamente en forma asíncrona. Es decir, que los eventos suceden cuando se les antoja, sin una periodicidad preestablecida.

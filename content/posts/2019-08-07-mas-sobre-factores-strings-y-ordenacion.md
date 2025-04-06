@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-08-07 09:13:34+00:00
-draft: false
-title: Más sobre factores, strings y ordenación
-
-url: /2019/08/07/mas-sobre-factores-strings-y-ordenacion/
 categories:
 - r
+date: 2019-08-07 09:13:34+00:00
+draft: false
+lastmod: '2025-04-06T19:11:56.148296'
+related:
+- 2019-08-05-dplyr-parece-que-prefiere-los-factores.md
+- 2011-02-15-como-reordenar-niveles-de-factores-en-r.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2015-03-06-cual-es-la-mejor-manera-de-ordenar-un-dataframe.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
 tags:
 - r
 - radix
 - sort
 - order
 - trucos
+title: Más sobre factores, strings y ordenación
+url: /2019/08/07/mas-sobre-factores-strings-y-ordenacion/
 ---
 
 Esta entrada debería ser un comentario más en [esta otra](https://www.datanalytics.com/2019/08/05/dplyr-parece-que-prefiere-los-factores/#comments), pero voy a abusar del privilegio de ser dueño de la plataforma para promocionarla.

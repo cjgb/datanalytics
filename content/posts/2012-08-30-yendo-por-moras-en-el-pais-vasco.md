@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-30 07:18:47+00:00
-draft: false
-title: Yendo por moras en el País Vasco
-
-url: /2012/08/30/yendo-por-moras-en-el-pais-vasco/
 categories:
 - estadística
 - números
+date: 2012-08-30 07:18:47+00:00
+draft: false
+lastmod: '2025-04-06T18:54:25.093638'
+related:
+- 2014-11-28-como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda.md
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
 tags:
 - estadística
 - números
 - varianza
+title: Yendo por moras en el País Vasco
+url: /2012/08/30/yendo-por-moras-en-el-pais-vasco/
 ---
 
 Publicaba el otro día El Correo cómo [_Las mujeres vascas son las más longevas de Europa_](http://www.elcorreo.com/vizcaya/v/20120822/pvasco-espana/mujeres-vascas-longevas-europa-20120822.html). El artículo, realmente chirriante, mereció la [réplica de Josu Mezo en Malaprensa](http://www.malaprensa.com/2012/08/oye-patxi-que-las-vascas-viven-mas-que.html).

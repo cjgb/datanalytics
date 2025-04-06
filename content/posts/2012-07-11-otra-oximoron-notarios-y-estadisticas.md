@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-11 06:48:55+00:00
-draft: false
-title: 'Otra oxímoron: notarios y estadísticas'
-
-url: /2012/07/11/otra-oximoron-notarios-y-estadisticas/
 categories:
 - estadística
 - gráficos
 - números
+date: 2012-07-11 06:48:55+00:00
+draft: false
+lastmod: '2025-04-06T18:52:54.896046'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2010-12-28-lo-prometo-no-es-una-broma.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
 tags:
 - estadística pública
 - graficaca
 - gráficos
+title: 'Otra oxímoron: notarios y estadísticas'
+url: /2012/07/11/otra-oximoron-notarios-y-estadisticas/
 ---
 
 El otro día fui al notario. Una notaría es un sitio lleno de papelotes. Decía yo: "todos los legajos de ese estante caben en mi _pendrive_". Y me hacían chistar por si mis palabras podían llegar a oídos susceptibles. Luego, por unos papeles (por triplicado y todos con grandes sellos y rúbricas) impresos a partir de plantillas de Word en cuyas casillas teclea un administrativo tus apellidos, te sacan 120 euros. ¡Son tan españolas las notarías!

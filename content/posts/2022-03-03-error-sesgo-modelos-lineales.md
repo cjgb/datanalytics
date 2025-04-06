@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-02
-title: '"Proxys": error y sesgo en modelos lineales'
-url: /2022/03/02/proxys-error-sesgo-modelos-lineales/
 categories:
 - estadística
+date: 2022-03-02
+lastmod: '2025-04-06T18:46:24.759662'
+related:
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
 tags:
 - error
 - regresión lineal
@@ -12,6 +17,8 @@ tags:
 - varianza
 - stan
 - r
+title: '"Proxys": error y sesgo en modelos lineales'
+url: /2022/03/02/proxys-error-sesgo-modelos-lineales/
 ---
 
 El otro día publiqué un [minihilo en Twitter](https://twitter.com/gilbellosta/status/1498670875847139329)

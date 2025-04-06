@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-02 07:50:42+00:00
-draft: false
-title: 'Varimax: lo que se gana, lo que se pierde'
-
-url: /2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/
 categories:
 - estadística
+date: 2014-04-02 07:50:42+00:00
+draft: false
+lastmod: '2025-04-06T18:47:08.403159'
+related:
+- 2014-04-07-analisis-factorial-e-ideas-que-se-resisten-a-morir.md
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
 tags:
 - análisis factorial
 - componentes principales
 - estadística
 - varianza
 - varimax
+title: 'Varimax: lo que se gana, lo que se pierde'
+url: /2014/04/02/varimax-lo-que-se-gana-lo-que-se-pierde/
 ---
 
 Hoy hablaremos de [_exploratory factorial analysis_](http://en.wikipedia.org/wiki/Exploratory_factor_analysis) y en particular aprovecharé para dejar constancia de que dejo resuelta una duda que siempre me ha dado pereza resolver: qué se pierde —lo que se gana ya nos lo han contado por doquier— al realizar una [rotación varimax](http://en.wikipedia.org/wiki/VARIMAX).

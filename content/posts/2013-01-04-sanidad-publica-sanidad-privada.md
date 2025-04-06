@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-04 07:25:59+00:00
-draft: false
-title: 'Sanidad pública, sanidad privada '
-
-url: /2013/01/04/sanidad-publica-sanidad-privada/
 categories:
 - estadística
 - gráficos
+date: 2013-01-04 07:25:59+00:00
+draft: false
+lastmod: '2025-04-06T18:55:00.463544'
+related:
+- 2011-02-25-1605.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2023-01-26-educacion-tabarrok.md
+- 2011-01-31-un-grafico-enganabobos.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - estadística pública
 - gráficos
 - sanidad
+title: 'Sanidad pública, sanidad privada '
+url: /2013/01/04/sanidad-publica-sanidad-privada/
 ---
 
 Lo siento. El título es engañoso. No voy a abundar en el tema de modelo sanitario. Aunque esté de moda. Traje a este debate ideas preconcebidas que se me han ido pegando durante años de andar sobre la faz de la tierra. Y mis esfuerzos me ha costado desprenderme cartesianamente de ellas para quedarme a la espera de que alguien me ilumine de manera _clara y distinta_. Solo sospecho que la respuesta no puede resumirse en un monosílabo, que es mixta y con ejércitos de demonios camuflados tras los detalles. Pero lo que opine es prácticamente irrelevante.

@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-02-25
-title: 'Modelos gratuitos en OpenRouter y algunos asuntos más'
-url: /2025/02/25/cortos-stats
 categories:
 - cortos
+date: 2025-02-25
+lastmod: '2025-04-06T18:56:51.006625'
+related:
+- 2024-03-21-cortos.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2024-11-26-cortos-llms.md
+- 2025-02-04-cortos-llms.md
+- 2024-07-18-cortos-llms.md
 tags:
 - llms
 - grok
@@ -12,6 +17,8 @@ tags:
 - mala ciencia
 - scihub
 - visualización
+title: Modelos gratuitos en OpenRouter y algunos asuntos más
+url: /2025/02/25/cortos-stats
 ---
 
 Las dos noticias del siglo de la semana en el mundo de los LLMs:
@@ -38,4 +45,3 @@ SciHub no solo tiene página web sino que [publica estadísticas](https://sci-hu
 Si te interesa la intersección (no vacía, parece ser) entre la estadística y los cómics, puedes echarle un vistazo al artículo [_Statistical Graphics and Comics: Parallel Histories of Visual Storytelling_](https://sites.stat.columbia.edu/gelman/research/unpublished/graphics_bd.pdf) de Gelman y alguien más (que, por lo que se ve, [no encuentra una revista que quiera publicarlo](https://statmodeling.stat.columbia.edu/2025/01/18/where-should-we-publish-our-paper-statistical-graphics-and-comics-parallel-histories-of-visual-storytelling/)).
 
 Prácticamente, he migrado a [OpenRouter](https://openrouter.ai) (si entras y en dos minutos no te has enamorado, es que no te interesa en asunto). Ofrece incluso acceso gratuito a modelos que en otros sitios cuestan dinero. Rige, supongo, aquello de que cuando el producto es gratuito es que el producto eres tú; pero habiendo estudiado en una universidad pública y acudido el otro día en un hospital de la seguridad social, ¿qué sentido tiene ahora que le quiera otorgar algún tipo de eficacia a la frasecita?
-

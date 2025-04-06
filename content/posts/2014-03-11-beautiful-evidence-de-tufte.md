@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-11 07:14:15+00:00
-draft: false
-title: '"Beautiful evidence", de Tufte'
-
-url: /2014/03/11/beautiful-evidence-de-tufte/
 categories:
 - gráficos
+date: 2014-03-11 07:14:15+00:00
+draft: false
+lastmod: '2025-04-06T19:01:19.261372'
+related:
+- 2012-09-12-el-arte-funcional-una-revision-personal.md
+- 2014-12-05-r-markdown-a-la-tufte.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2014-05-13-visual-explanations-de-tufte-el-primer-grafico-estadistico.md
+- 2011-04-26-graficos-vi-teoria.md
 tags:
 - graficaca
 - gráficos
@@ -14,6 +18,8 @@ tags:
 - powerpoint
 - tufte
 - visualización
+title: '"Beautiful evidence", de Tufte'
+url: /2014/03/11/beautiful-evidence-de-tufte/
 ---
 
 Acabo de leer Beautiful Evidence, el último de los libros de [E. Tufte](http://en.wikipedia.org/wiki/Edward_Tufte) y voy a recoger aquí unas notas sobre él mismo. Espero que sirvan tanto a los interesados en el asunto como a mí mismo.

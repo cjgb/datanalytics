@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-08 09:13:00+00:00
-draft: false
-title: Sobre las probabilidades de eventos que ocurren una única vez
-
-url: /2021/04/08/sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez/
 categories:
 - probabilidad
+date: 2021-04-08 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:46:03.891241'
+related:
+- 2022-12-01-eventos-conjuntos.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2020-01-07-la-probabilidad-algo-subjetivo.md
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
 tags:
 - kolmogorov
 - probabilidad
 - fundamentos de probabilidad
+title: Sobre las probabilidades de eventos que ocurren una única vez
+url: /2021/04/08/sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez/
 ---
 
 La probabilidad se predica de eventos de muy distintas características. Existe un arco entero de casos en cuyos extremos opuestos podemos encontrar los eventos:

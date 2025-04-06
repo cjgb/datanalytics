@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-06 08:13:15+00:00
-draft: false
-title: Una interpretación (rápida y sucia) de los coeficientes de la regresión logística
-
-url: /2015/07/06/una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica/
 categories:
 - estadística
 - r
+date: 2015-07-06 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:00:42.884146'
+related:
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
+- 2015-08-03-ajuste-de-probabilidades-en-regresiones-logisticas-bajo-sobremuestreo-y-otros.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - estadística
 - r
 - regresión logística
+title: Una interpretación (rápida y sucia) de los coeficientes de la regresión logística
+url: /2015/07/06/una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica/
 ---
 
 Los coeficientes de la regresión logística tienen una interpretación _recta_ en términos de _odds ratio_. Que es un concepto sobre el que puede que alguien tenga algún tipo de intuición. Pero yo no.

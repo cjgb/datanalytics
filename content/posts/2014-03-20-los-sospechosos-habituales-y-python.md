@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-20 08:44:17+00:00
-draft: false
-title: Los sospechosos habituales y Python
-
-url: /2014/03/20/los-sospechosos-habituales-y-python/
 categories:
 - ciencia de datos
 - estadística
 - r
+date: 2014-03-20 08:44:17+00:00
+draft: false
+lastmod: '2025-04-06T19:09:05.965754'
+related:
+- 2022-09-20-tools-etl-memory.md
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2013-12-18-cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2015-12-11-pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython.md
 tags:
 - estadística
 - ciencia de datos
 - python
 - r
+title: Los sospechosos habituales y Python
+url: /2014/03/20/los-sospechosos-habituales-y-python/
 ---
 
 Llamo sospechosos habituales a esos programas y lenguajes para el análisis de datos distintos de R cuya decreciente popularidad nos parece tan natural a los partidarios de este último. Abundan los análisis de cuotas de mercado tales como [_What Analytic Software are People Discussing?_](http://r4stats.com/2013/02/12/what-analytic-software-are-people-discussing/)

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-10-08 09:13:31+00:00
-draft: false
-title: Voy a demostrar (con la ayuda del INE) que Airbnb no existe
-
-url: /2019/10/08/voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe/
 categories:
 - números
 - r
+date: 2019-10-08 09:13:31+00:00
+draft: false
+lastmod: '2025-04-06T18:57:59.896996'
+related:
+- 2018-09-26-asi-de-floja-esta-la-evidencia-cientifica-sobre-el-impacto-de-airbnb-en-el-mercado-inmobiliario.md
+- 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
+- 2016-09-15-seguro-que-aplica-lo-del-secreto-estadistico.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
 tags:
 - airbnb
 - datos públicos
 - ine
 - r
 - turismo
+title: Voy a demostrar (con la ayuda del INE) que Airbnb no existe
+url: /2019/10/08/voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe/
 ---
 
 Tan vasto es el fenómeno Airbnb que malo será no haya dejado traza en las estadísticas oficiales. Que como oficiales, son verdad.
@@ -57,4 +63,3 @@ ggplot(datos, aes(x = Periodo, y = value)) +
     facet_wrap(~Tipo.de.alojamiento, ncol = 2,
                 scales = "free_y")
 {{< / highlight >}}
-

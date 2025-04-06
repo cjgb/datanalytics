@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-07-18
-title: 'La energía nuclear, ¿salvará el mundo?'
-
-url: /2023/07/18/energia-nuclear-salvara-mundo/
 categories:
 - números
+date: 2023-07-18
+lastmod: '2025-04-06T18:51:15.192961'
+related:
+- 2014-01-22-catorce-mitos-sobre-el-mercado-electrico.md
+- 2011-02-03-energia-y-medio-ambiente-en-2035-algunos-numeros.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
 tags:
 - libros
 - energía nuclear
 - energía
+title: La energía nuclear, ¿salvará el mundo?
+url: /2023/07/18/energia-nuclear-salvara-mundo/
 ---
 
 La energía nuclear tiene varios problemas:

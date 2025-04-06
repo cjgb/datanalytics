@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-09 07:35:49+00:00
-draft: false
-title: Balanzas fiscales y periodismo basado en datos
-
-url: /2012/10/09/balanzas-fiscales-y-periodismo-basado-en-datos/
 categories:
 - estadística
 - números
+date: 2012-10-09 07:35:49+00:00
+draft: false
+lastmod: '2025-04-06T19:00:48.900605'
+related:
+- 2012-04-13-balanzas-fiscales-asi-en-plural.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2011-02-25-1605.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 tags:
 - finanzas
 - números
 - periodismo de datos
+title: Balanzas fiscales y periodismo basado en datos
+url: /2012/10/09/balanzas-fiscales-y-periodismo-basado-en-datos/
 ---
 
 Dudo al escribir sobre el asunto porque el contexto del artículo que traigo a colación es ajeno al interés de esta bitácora. Pero me ha parecido un ejercicio inigualable de lo que debería ser el periodismo de datos.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-12-07
-draft: false
-title: Basta una línea para mejorar tus mapas; pero, ¿cuál?
-
-url: /2023/12/07/r-mapas-proyecciones/
 categories:
 - r
+date: 2023-12-07
+draft: false
+lastmod: '2025-04-06T18:59:38.305032'
+related:
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2019-07-15-cartogramas-con-recmap.md
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2022-04-28-principios-geodesia.md
+- 2017-03-02-todas-las-terrazas-de-madrid.md
 tags:
 - gráficos
 - mapas
 - cartografía
 - proyecciones
+title: Basta una línea para mejorar tus mapas; pero, ¿cuál?
+url: /2023/12/07/r-mapas-proyecciones/
 ---
 
 A la vista de los mapas

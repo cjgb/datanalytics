@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-02-04
-title: 'Unas cuantas noticias sobre LLMs'
-url: /2025/02/04/cortos-llms
 categories:
 - cortos
+date: 2025-02-04
+lastmod: '2025-04-06T18:56:53.376891'
+related:
+- 2025-01-21-cortos-llms.md
+- 2024-03-21-cortos.md
+- 2024-10-01-cortos-llms.md
+- 2025-03-25-cortos-llms.md
+- 2025-02-25-cortos-stats.md
 tags:
 - llms
 - deepseek
 - nvidia
 - agentes
+title: Unas cuantas noticias sobre LLMs
+url: /2025/02/04/cortos-llms
 ---
 
 DeepSeek V3 llevaba publicado desde diciembre; R1, desde hacía más de una semana; pero solo fue el lunes 27 de enero cuando NVDIA sufrió un descalabro y DeepSeek apareció repentinamente ---hasta entonces no había rebasado los habituales foros friquis--- en boca de todos (véase

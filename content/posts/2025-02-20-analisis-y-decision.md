@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-02-20
-title: 'Adiós, Análisis y Decisión'
-url: /2025/02/20/analisis-decision
 categories:
 - varios
+date: 2025-02-20
+lastmod: '2025-04-06T18:45:21.692333'
+related:
+- 2016-06-03-r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia.md
+- 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2019-12-05-ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado.md
+- 2016-11-17-hoy-no-estare-donde-deberia-las-viii-jornadas-de-r.md
 tags:
 - blogs
 - estadística
+title: Adiós, Análisis y Decisión
+url: /2025/02/20/analisis-decision
 ---
 
 [Escribí](/2016/06/03/r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia/) en 2016:

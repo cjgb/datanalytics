@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-17 21:21:45+00:00
-draft: false
-title: Sin sexo por decisión judicial
-
-url: /2010/10/17/sin-sexo-por-decision-judicial/
 categories:
 - ciencia de datos
 - consultoría
+date: 2010-10-17 21:21:45+00:00
+draft: false
+lastmod: '2025-04-06T19:10:10.993377'
+related:
+- 2021-02-11-solo-el-modelo-vacio-pasa-todos-los-checks.md
+- 2018-11-07-cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy.md
+- 2019-01-04-sobre-la-brecha-salarial-de-belleza.md
+- 2015-03-09-unas-preguntas-incomodas.md
+- 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
 tags:
 - consultoría
 - ciencia de datos
+title: Sin sexo por decisión judicial
+url: /2010/10/17/sin-sexo-por-decision-judicial/
 ---
 
 Pues sí, nos quedamos sin sexo. Por culpa de unos jueces y una interpretación tan recta como corta de miras de nosequé leyes europeas.

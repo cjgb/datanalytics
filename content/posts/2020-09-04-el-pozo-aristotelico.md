@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-04 09:13:00+00:00
-draft: false
-title: El pozo aristotélico
-
-url: /2020/09/04/el-pozo-aristotelico/
 categories:
 - varios
+date: 2020-09-04 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:47:43.092197'
+related:
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2024-12-10-cortos-stats.md
 tags:
 - aristóteles
 - artículos
 - ciencia
 - física
+title: El pozo aristotélico
+url: /2020/09/04/el-pozo-aristotelico/
 ---
 
 _[Hoy voy a tratar ciertas reflexiones suscitadas por el artículo más relevante que he leído este verano.]_

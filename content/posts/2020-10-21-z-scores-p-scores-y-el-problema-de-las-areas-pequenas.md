@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-21 09:13:00+00:00
-draft: false
-title: z-scores, p-scores y el problema de las áreas pequeñas
-
-url: /2020/10/21/z-scores-p-scores-y-el-problema-de-las-areas-pequenas/
 categories:
 - estadística
 - números
+date: 2020-10-21 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:21.853556'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2022-07-21-critica-critica-momo.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
+- 2020-04-21-defunciones-ine-vs-momo.md
 tags:
 - momo
 - momocalor
 - mortalidad
 - z-score
+title: z-scores, p-scores y el problema de las áreas pequeñas
+url: /2020/10/21/z-scores-p-scores-y-el-problema-de-las-areas-pequenas/
 ---
 
 Uno de los problemas que encuentra uno al monitorizar series temporales en diversas escalas es la de encontrar una métrica de _desviaciones de la normalidad_ (al menos en tanto que los sectores en los que trabajo no se pueblen de postmodernistas que comiencen a cuestionar qué es eso de la normalidad y a argumentar que si es un constructo tan injusto como inasequible) que cumpla una serie de requisitos:

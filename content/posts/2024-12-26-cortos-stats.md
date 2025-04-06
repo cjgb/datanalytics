@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-26
-title: 'Predicción conforme, visualización y otros comentarios breves'
-url: /2024/12/26/cortos-estadística
 categories:
 - cortos
+date: 2024-12-26
+lastmod: '2025-04-06T18:51:17.182859'
+related:
+- 2023-03-02-conformal-prediction.md
+- 2024-09-24-cortos-stats.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2020-11-02-distancias-i-el-planteamiento-del-problema.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - predicción conforme
 - gráficos
+title: Predicción conforme, visualización y otros comentarios breves
+url: /2024/12/26/cortos-estadística
 ---
 
 ### Predicción conforme

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-14 08:13:22+00:00
-draft: false
-title: 'Modelos y sesgos (discriminatorios): unas preguntas'
-
-url: /2018/11/14/modelos-y-sesgos-discriminatorios-unas-preguntas/
 categories:
 - ciencia de datos
 - consultoría
+date: 2018-11-14 08:13:22+00:00
+draft: false
+lastmod: '2025-04-06T18:48:25.259916'
+related:
+- 2022-11-17-igualdad-oportunidades.md
+- 2023-05-25-evaluaciones-clinicas-actuariales.md
+- 2019-11-18-los-ejemplos-son-las-conclusiones.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
+- 2020-02-26-algoritmos-y-acatarrantes-definiciones-de-justicia.md
 tags:
 - ciencia de datos
 - impuestos
 - sesgo
 - teoría de la decisión
+title: 'Modelos y sesgos (discriminatorios): unas preguntas'
+url: /2018/11/14/modelos-y-sesgos-discriminatorios-unas-preguntas/
 ---
 
 A raíz de mi [entrada del otro día](https://www.datanalytics.com/2018/11/07/cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy/) he tenido una serie de intercambios de ideas. Que han sido infructuosos porque no han dejado medianamente asentadas las respuestas a una serie de preguntas relevantes.

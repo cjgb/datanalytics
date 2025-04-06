@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-12-27 07:50:07+00:00
-draft: false
-title: 'Tres artículos curiosos sobre gráficos '
-
-url: /2013/12/27/tres-articulos-curiosos-sobre-graficos/
 categories:
 - gráficos
+date: 2013-12-27 07:50:07+00:00
+draft: false
+lastmod: '2025-04-06T18:49:37.189283'
+related:
+- 2011-04-26-graficos-vi-teoria.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2011-04-14-graficos-iv-tutoriales-2.md
 tags:
 - r
+title: 'Tres artículos curiosos sobre gráficos '
+url: /2013/12/27/tres-articulos-curiosos-sobre-graficos/
 ---
 
 El primero es [_How to display data badly_](http://www.stat.umn.edu/~sandy/courses/8801/handouts/04.tabular/wainer1984.pdf), de H. Wainer. Es un poco viejo, de 1984; pero, desgraciadamente, tan vigente si no más. Trata, como puede preverse, del mismo y ya algo manido tema: cómo crear gráficos que representen datos clara y eficazmente. Se agradece que el autor, no sin ironía, lo haya planteado a modo de recetario para conseguir justo lo contrario.

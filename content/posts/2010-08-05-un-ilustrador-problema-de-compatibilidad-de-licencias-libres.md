@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-05 14:40:52+00:00
-draft: false
-title: Un ilustrador problema de compatibilidad de licencias libres
-
-url: /2010/08/05/un-ilustrador-problema-de-compatibilidad-de-licencias-libres/
 categories:
 - r
+date: 2010-08-05 14:40:52+00:00
+draft: false
+lastmod: '2025-04-06T19:04:38.282853'
+related:
+- 2016-03-07-sutilezas-de-las-licencias-libres.md
+- 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 tags:
 - jython
 - python
 - r
+title: Un ilustrador problema de compatibilidad de licencias libres
+url: /2010/08/05/un-ilustrador-problema-de-compatibilidad-de-licencias-libres/
 ---
 
 >This whole thing is such a nuisance. It seems one can't even give something away these days!

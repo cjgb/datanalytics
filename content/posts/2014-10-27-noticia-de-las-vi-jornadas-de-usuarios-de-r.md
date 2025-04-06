@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-27 07:13:34+00:00
-draft: false
-title: Noticia de las VI Jornadas de Usuarios de R
-
-url: /2014/10/27/noticia-de-las-vi-jornadas-de-usuarios-de-r/
 categories:
 - r
 - anuncio
+date: 2014-10-27 07:13:34+00:00
+draft: false
+lastmod: '2025-04-06T18:55:13.061314'
+related:
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
+- 2010-02-26-febrero.md
+- 2014-05-05-las-vi-jornadas-de-usuarios-de-r-en-santiago.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2016-11-17-hoy-no-estare-donde-deberia-las-viii-jornadas-de-r.md
 tags:
 - jornadas
 - r
+title: Noticia de las VI Jornadas de Usuarios de R
+url: /2014/10/27/noticia-de-las-vi-jornadas-de-usuarios-de-r/
 ---
 
 Regreso de las [VI Jornadas de Usuarios de R](http://r-es.org/VI+Jornadas) y, como otros años he hecho (véase [esto](http://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/), [esto](http://www.datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/) y [esto](http://www.datanalytics.com/2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/)), al volver a casa, quiero escribir sobre este par de días estupendos que he pasado en Santiago.

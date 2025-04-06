@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-08-31 08:13:00+00:00
-draft: false
-title: Sobre la muy necesaria "Oficina del Dato"
-
-url: /2020/08/31/sobre-la-muy-necesaria-oficina-del-dato/
 categories:
 - varios
+date: 2020-08-31 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:08.834072'
+related:
+- 2020-09-01-cdo-de-p-e-espana-nah.md
+- 2020-07-29-un-instituto-nacional-de-datos.md
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2016-08-29-la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional.md
 tags:
 - cdo
 - datos abiertos
 - datos públicos
 - ine
+title: Sobre la muy necesaria "Oficina del Dato"
+url: /2020/08/31/sobre-la-muy-necesaria-oficina-del-dato/
 ---
 
 Hace no tanto propuse la creación de un segundo INE axialmente (eje: la Castellana) simétrico al actualmente existente que elaborase un segundo censo, una segunda EPA, etc. por lo mucho que podríamos aprender acerca de la varianza (y los límites de la estadística) gracias a la simultánea publicación de parejas de cifras oficiales desiguales.

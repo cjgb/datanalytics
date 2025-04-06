@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-14 08:13:47+00:00
-draft: false
-title: El IVA y las exportaciones
-
-url: /2016/10/14/el-iva-y-las-exportaciones/
 categories:
 - números
+date: 2016-10-14 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T19:11:24.299023'
+related:
+- 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
+- 2011-02-25-1605.md
+- 2021-04-20-mas-sobre-ese-corolario-del-teorema-de-rolle-que-es-la-curva-de-laffer.md
+- 2011-08-24-tasa-tobin-una-discusion-casi-empirica.md
+- 2015-02-23-mas-sobre-el-error-de-medida.md
 tags:
 - economía
 - iva
+title: El IVA y las exportaciones
+url: /2016/10/14/el-iva-y-las-exportaciones/
 ---
 
 Los viernes me concedo ciertas libertades Como la de escribir sobre temas distintos de los habituales. Hoy toca economía. Quiero dejar escrito algo que echa por tierra cosas que _creía_. Es decir, cosas que había leído, me habían parecido razonables y había dado por buenas sin más.

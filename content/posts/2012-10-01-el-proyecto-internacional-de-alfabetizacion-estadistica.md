@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-01 06:42:52+00:00
-draft: false
-title: El Proyecto Internacional de Alfabetización Estadística
-
-url: /2012/10/01/el-proyecto-internacional-de-alfabetizacion-estadistica/
 categories:
 - estadística
+date: 2012-10-01 06:42:52+00:00
+draft: false
+lastmod: '2025-04-06T18:58:48.787819'
+related:
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2015-03-20-campana-de-alfabetizacion-numerica-para-diputados.md
+- 2011-06-27-estadistica-como-dios-manda.md
+- 2012-10-30-cultura-numerica-incultura-numerica.md
 tags:
 - estadística
 - anumerismo
+title: El Proyecto Internacional de Alfabetización Estadística
+url: /2012/10/01/el-proyecto-internacional-de-alfabetizacion-estadistica/
 ---
 
 Sí, existe un [Proyecto Internacional de Alfabetización Estadística](http://www.stat.auckland.ac.nz/~iase/islp/home) (oficialmente, _International Statistical Literacy Project_). Tiene como objetivo

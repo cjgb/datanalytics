@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-11 08:13:16+00:00
-draft: false
-title: 'rOpenSpain: ahí tiro el guante'
-
-url: /2017/10/11/ropenspain-ahi-tiro-el-guante/
 categories:
 - anuncio
 - r
+date: 2017-10-11 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T18:59:46.122511'
+related:
+- 2018-02-02-ropenspain-esta-en-marcha.md
+- 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
+- 2017-06-12-la-anticonferencia-una-idea-que-me-ronda-la-cabeza.md
+- 2018-03-26-un-voluntario-para-aggiornar-microdatoses.md
+- 2018-05-16-casos-de-uso-de-microdatoses.md
 tags:
 - anuncio
 - cis
@@ -18,6 +22,8 @@ tags:
 - r
 - ropensci
 - ropenspain
+title: 'rOpenSpain: ahí tiro el guante'
+url: /2017/10/11/ropenspain-ahi-tiro-el-guante/
 ---
 
 La gente de [`rOpenSci`](https://ropensci.org/) hace cosas a las que merece la pena atento. Tanto por los objetivos como por medios y las formas. Recomiendo seguir sus últimas publicaciones acerca de la profesionalización del proceso de desarrollo de código.

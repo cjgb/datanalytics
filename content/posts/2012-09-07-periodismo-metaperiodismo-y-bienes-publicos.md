@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-07 07:00:01+00:00
-draft: false
-title: Periodismo, metaperiodismo y bienes públicos
-
-url: /2012/09/07/periodismo-metaperiodismo-y-bienes-publicos/
 categories:
 - números
+date: 2012-09-07 07:00:01+00:00
+draft: false
+lastmod: '2025-04-06T19:04:28.352887'
+related:
+- 2014-07-07-por-que-soy-esceptico-con-respecto-al-periodismo-de-datos.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2019-09-17-los-modelos-mixtos-en-python-son-un-bien-publico-pero-quienes-debieran-proveerlo-estan-a-otra-cosa.md
 tags:
 - números
 - periodismo
+title: Periodismo, metaperiodismo y bienes públicos
+url: /2012/09/07/periodismo-metaperiodismo-y-bienes-publicos/
 ---
 
 El metaperiodismo es lo que hacen los periodistas cuando escriben sobre su propio trabajo. Actualmente es un género de moda. En el metaperiodismo español abundan los lamentos: que si hay EREs aquí, que si han cerrado un periódico allá, que si no queremos trabajar gratis. Los metaperiodistas anglosajones no paran de hablar de _paywalls_ y cómo _monetizar_ contenidos en un mundo plagado de cacharrillos electrónicos y wifis. Además, suelen escribir artículos larguísimos, con un [índice de complejidad de Kolmogorov](http://en.wikipedia.org/wiki/Kolmogorov_complexity) de, prácticamente, uno (es decir, un tostón).

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-17 08:13:36+00:00
-draft: false
-title: El anómalo verano de 2018
-
-url: /2018/09/17/el-anomalo-verano-de-2018/
 categories:
 - números
+date: 2018-09-17 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T18:57:03.255167'
+related:
+- 2018-05-25-evolucion-de-la-resistencia-al-calor.md
+- 2020-09-14-recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola.md
+- 2019-07-09-estacionalidad-semanal-de-la-mortalidad.md
+- 2019-06-07-vigilancia-de-la-mortalidad-diaria-asociada-al-exceso-de-temperatura.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 tags:
 - mortalidad
 - temperaturas
+title: El anómalo verano de 2018
+url: /2018/09/17/el-anomalo-verano-de-2018/
 ---
 
 Las temperaturas diarias máximas _promedio_ durante el verano de 2018 en España han sido

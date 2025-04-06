@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-07-14 08:13:26+00:00
-draft: false
-title: Análisis estadístico de formas y perfiles
-
-url: /2016/07/14/analisis-estadistico-de-formas-y-perfiles/
 categories:
 - estadística
+date: 2016-07-14 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:53:07.949969'
+related:
+- 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md
+- 2020-11-02-distancias-i-el-planteamiento-del-problema.md
+- 2024-12-26-cortos-stats.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2015-11-11-ad-more-geometrico.md
 tags:
 - estadística
 - formas
 - momocs
 - distancia
+title: Análisis estadístico de formas y perfiles
+url: /2016/07/14/analisis-estadistico-de-formas-y-perfiles/
 ---
 
 Siempre me intrigó cómo podía realizarse el análisis estadístico de _cosas_ que no son tablas. Por ejemplo, formas.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-29 08:13:18+00:00
-draft: false
-title: La intersección de lo interesante, lo sorprendente, lo cierto y lo basado en
-  datos
-
-url: /2015/12/29/la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos/
 categories:
 - varios
+date: 2015-12-29 08:13:18+00:00
+draft: false
+lastmod: '2025-04-06T18:57:58.347426'
+related:
+- 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2014-04-15-una-cosa-que-me-irrita-de-muchos-articulos-de-estadistica.md
+- 2011-08-23-piensa-en-en-terminos-de-inferencia.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
 tags:
 - estadística
 - ciencia de datos
+title: La intersección de lo interesante, lo sorprendente, lo cierto y lo basado en
+  datos
+url: /2015/12/29/la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos/
 ---
 
 Me interesan, obviamente, los problemas interesantes.

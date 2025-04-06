@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-29 09:13:00+00:00
-draft: false
-title: Una nota sobre el artículo "retractado" porque sus autores habían omitido vínculos
-  con la industria del tabaco
-
-url: /2021/04/29/una-nota-sobre-el-articulo-retractado-porque-sus-autores-habian-omitido-vinculos-con-la-industria-del-tabaco/
 categories:
 - mala ciencia
+date: 2021-04-29 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:53:47.435633'
+related:
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2024-07-03-cortos-stats.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - ciencia
 - economía
 - sociología
 - filosofía de la ciencia
+title: Una nota sobre el artículo "retractado" porque sus autores habían omitido vínculos
+  con la industria del tabaco
+url: /2021/04/29/una-nota-sobre-el-articulo-retractado-porque-sus-autores-habian-omitido-vinculos-con-la-industria-del-tabaco/
 ---
 
 Hace unos días se retractó un artículo sobre la relación entre el tabaco y el covid _porque_ los autores habían omitido cierta presunto conflicto de intereses (los detalles, [aquí](https://www.theguardian.com/science/2021/apr/22/scientific-paper-claiming-smokers-less-likely-to-acquire-covid-retracted-over-tobacco-industry-links)).

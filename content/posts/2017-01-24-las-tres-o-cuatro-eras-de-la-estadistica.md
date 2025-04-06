@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-24 08:13:15+00:00
-draft: false
-title: Las tres (o cuatro) eras de la estadística
-
-url: /2017/01/24/las-tres-o-cuatro-eras-de-la-estadistica/
 categories:
 - estadística
+date: 2017-01-24 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:12:08.976317'
+related:
+- 2014-06-23-dos-citas-de-1983-sobre-estadistica-y-metodos-computacionales.md
+- 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md
+- 2016-09-20-tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno.md
+- 2022-06-28-que-hace-avanzar-la-estadistica.md
+- 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
 tags:
 - efron
 - estadística
 - fisher
 - historia
 - quetelet
+title: Las tres (o cuatro) eras de la estadística
+url: /2017/01/24/las-tres-o-cuatro-eras-de-la-estadistica/
 ---
 
 Las cosas, frecuentemente, son como son y no de otra manera, especulativamente, mejor por razones históricas. Es lo que hay. La respuesta a muchas preguntas es "porque A llegó antes que B".

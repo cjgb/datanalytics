@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-08 07:48:04+00:00
-draft: false
-title: 'La ley de Benford en muestras pequeñas: algunas evidencias'
-
-url: /2013/02/08/la-ley-de-benford-en-muestras-pequenas-algunas-evidencias/
 categories:
 - estadística
+date: 2013-02-08 07:48:04+00:00
+draft: false
+lastmod: '2025-04-06T19:07:58.146402'
+related:
+- 2011-09-15-la-ley-de-benford.md
+- 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md
+- 2013-04-16-mas-sobre-la-ley-de-benford-i-una-condicion-suficiente.md
+- 2013-04-02-las-leyes-de-benford.md
+- 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md
 tags:
 - estadística
 - ley de benford
+title: 'La ley de Benford en muestras pequeñas: algunas evidencias'
+url: /2013/02/08/la-ley-de-benford-en-muestras-pequenas-algunas-evidencias/
 ---
 
 Hoy he cogido medio millón de números correspondientes a cuantías de dinero, en diversas monedas y he mirado a ver si cumplían la [Ley de Benford](http://en.wikipedia.org/wiki/Benford%27s_law) utilizando [código de Gregorio Serrano](http://www.grserrano.es/wp/2010/11/ejemplo-r-ley-de-benford-en-las-elecciones-catalanas-2/) (véase también [esto](http://www.datanalytics.com/2011/09/15/la-ley-de-benford/)). El resultado ha sido

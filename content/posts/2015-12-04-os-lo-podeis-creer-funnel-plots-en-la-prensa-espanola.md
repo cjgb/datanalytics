@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-04 08:13:42+00:00
-draft: false
-title: ¿Os lo podéis creer? ¡"Funnel plots" en la prensa española!
-
-url: /2015/12/04/os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola/
 categories:
 - gráficos
+date: 2015-12-04 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:50:30.969506'
+related:
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2011-12-15-graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas.md
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2017-06-15-vaya-vaya-vaya-y-hay-motivo-para-retractar.md
 tags:
 - estadística
 - gráficos
 - suicidio
+title: ¿Os lo podéis creer? ¡"Funnel plots" en la prensa española!
+url: /2015/12/04/os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola/
 ---
 
 Pues sí, aquí están,
@@ -30,8 +36,3 @@ En resumen,
 
 1. invitados estáis todos a hojear, si no leer en profundidad el reportaje, y
 2. por agradecida dése [Leyre Pejenaute](https://twitter.com/leyretxuu) (qué envidia de apellido) por haber confiado y hecho caso al viejo gruñón que suscribe.
-
-
-
-
-

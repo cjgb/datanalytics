@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-12-19
-draft: false
-title: Chocolatada informacional
-url: /2023/12/19/informacion-posicional-transformers/
 categories:
 - ciencia de datos
+date: 2023-12-19
+draft: false
+lastmod: '2025-04-06T19:12:56.219553'
+related:
+- 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md
+- 2022-09-27-uso-abuso-embeddings.md
+- 2024-05-07-cortos.md
+- 2016-09-01-mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa.md
+- 2024-07-18-cortos-llms.md
 tags:
 - ai
 - información
 - redes neuronales
 - llms
+title: Chocolatada informacional
+url: /2023/12/19/informacion-posicional-transformers/
 ---
 
 Supongamos que el vector $u$ codifica cierta información A y el vector $v$ (de la misma dimensión), la información B. Hay quien sostiene que, entonces, el vector $u + v$ codifica simultáneamente A y B. En esta entrada voy a _demostrar_ que la afirmación anterior es falsa. Luego, también, que es cierta. Terminaré explicando por qué el asunto es relevante.

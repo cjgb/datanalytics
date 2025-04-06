@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-14 09:20:33+00:00
-draft: false
-title: Algoritmos de minería de datos en su contexto
-
-url: /2011/01/14/algoritmos-de-mineria-de-datos-en-su-contexto/
 categories:
 - ciencia de datos
+date: 2011-01-14 09:20:33+00:00
+draft: false
+lastmod: '2025-04-06T19:08:38.733289'
+related:
+- 2013-01-10-una-aplicacion-seo-con-r.md
+- 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md
+- 2012-11-22-las-ocho-peores-tecnicas-analiticas.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 tags:
 - ciencia de datos
 - algoritmos
+title: Algoritmos de minería de datos en su contexto
+url: /2011/01/14/algoritmos-de-mineria-de-datos-en-su-contexto/
 ---
 
 El otro día apareció publicada en esta bitácora la noticia de un artículo en el que se enumeraban [los _top 10_ de entre los algortimos de minería de datos](http://www.datanalytics.com/2011/01/04/¿cuales-son-los-top-10-algoritmos-para-data-mining/). Nuestro compañero Andrés Gutiérrez [se hizo eco de la noticia](http://www.gutierrezandres.com/blog/2011/01/los-algoritmos-mas-utilizados-en-data-mining/) y, además, extrajo la lista.

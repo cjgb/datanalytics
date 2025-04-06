@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-01 07:31:39+00:00
-draft: false
-title: A esa gente le había hecho falta un matemático
-
-url: /2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/
 categories:
 - consultoría
 - números
+date: 2011-04-01 07:31:39+00:00
+draft: false
+lastmod: '2025-04-06T19:01:15.537953'
+related:
+- 2010-07-04-exagerados.md
+- 2011-09-06-codigos-de-caracteres-unicode-y-utf-8.md
+- 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
 tags:
 - consultoría
 - números
 - programación
+title: A esa gente le había hecho falta un matemático
+url: /2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/
 ---
 
 A esa gente le había hecho falta, en efecto, un matemático. Les hubiera bastado saber mi número de teléfono y no habrían cometido tamaña tontería y habrían tenido a sus accionistas más satisfechos. Explicaré el asunto. Será muy instructivo para quienes opinan que no valemos para gran cosa.

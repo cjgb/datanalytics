@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-02-26 09:13:00+00:00
-draft: false
-title: '"Algoritmos" y acatarrantes definiciones de "justicia"'
-
-url: /2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/
 categories:
 - probabilidad
 - r
+date: 2020-02-26 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:44:45.634513'
+related:
+- 2022-11-17-igualdad-oportunidades.md
+- 2020-02-27-una-version-aun-mas-sencilla.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
 tags:
 - algoritmos
 - discriminación
@@ -15,6 +19,8 @@ tags:
 - ludismo
 - r
 - sesgo
+title: '"Algoritmos" y acatarrantes definiciones de "justicia"'
+url: /2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/
 ---
 
 Lee _[Justicia: los límites de la inteligencia artificial... y humana](https://nadaesgratis.es/anxo-sanchez/justicia-los-limites-de-la-inteligencia-artificial)_ y cuando acabes, te propongo un pequeño experimento probabilístico. Por referencia, reproduzco aquí los criterios de _justicia_ del artículo que glosa el que enlazo:

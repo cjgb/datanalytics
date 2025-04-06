@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-27 09:13:00+00:00
-draft: false
-title: CausalImpact me ha complacido mucho
-
-url: /2020/03/27/causalimpact-me-ha-complacido-mucho/
 categories:
 - ciencia de datos
 - consultoría
 - r
 - causalidad
+date: 2020-03-27 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:08:39.443989'
+related:
+- 2020-02-06-model4you.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2014-09-23-el-impacto-causal-de-google.md
 tags:
 - causalimpact
 - paquetes
 - r
 - causalidad
+title: CausalImpact me ha complacido mucho
+url: /2020/03/27/causalimpact-me-ha-complacido-mucho/
 ---
 
 Estoy aquí analizando datos para un cliente interesado en estudiar si como consecuencia de uno de esos impuestos _modennos_ con los que las administraciones nos quieren hacer más sanos y robustos. En concreto, le he echado un vistazo a si el impuesto ha encarecido el precio de los productos gravados (sí) y si ha disminuido su demanda (no) usando [`CausalImpact`](https://CRAN.R-project.org/package=CausalImpact) y me ha complacido mucho que la salida de `summary(model, "report")` sea, literalmente, esta:

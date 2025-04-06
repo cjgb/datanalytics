@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-06-13
-title: "Si Pearson hubiese tenido un ordenador como el mío..."
-
-url: /2023/06/13/pearson-ordenadores/
 categories:
 - estadística
+date: 2023-06-13
+lastmod: '2025-04-06T19:04:36.019662'
+related:
+- 2019-12-04-p-valores-y-decisiones.md
+- 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - pearson
 - p-valores
@@ -13,6 +17,8 @@ tags:
 - dados
 - r
 - multinomial
+title: Si Pearson hubiese tenido un ordenador como el mío...
+url: /2023/06/13/pearson-ordenadores/
 ---
 
 ... muchas cosas serían muy distintas hoy en día. Hoy quiero elaborar sobre su artículo de 1900 [_X. On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling_](http://dx.doi.org/10.1080/14786440009463897)

@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-16
-title: 'Ideas alrededor de la sentencia de lo del bono social de la luz'
-url: /2024/05/16/sentencia-bono-social-luz-i
 categories:
 - varios
+date: 2024-05-16
+lastmod: '2025-04-06T19:06:25.825897'
+related:
+- 2024-05-21-sentencia-bono-social-ii.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
 tags:
 - derecho
 - publicodes
 - programación
 - ia
+title: Ideas alrededor de la sentencia de lo del bono social de la luz
+url: /2024/05/16/sentencia-bono-social-luz-i
 ---
 
 ### I.

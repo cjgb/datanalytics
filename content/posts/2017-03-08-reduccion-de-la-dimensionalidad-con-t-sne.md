@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-08 08:13:41+00:00
-draft: false
-title: Reducción de la dimensionalidad con t-SNE
-
-url: /2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/
 categories:
 - estadística
 - probabilidad
 - r
+date: 2017-03-08 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T19:13:17.694465'
+related:
+- 2022-11-04-umap-tsne-etc.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2023-01-10-stable-diffusion-1d.md
 tags:
 - estadística
 - multidimensionalidad
 - probabilidad
 - r
 - t-sne
+title: Reducción de la dimensionalidad con t-SNE
+url: /2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/
 ---
 
 Voy a explicar aquí lo que he aprendido recientemente sobre t-SNE, una técnica para reducir la dimensionalidad de conjuntos de datos. Es una alternativa moderna a [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling) o [PCA](https://www.datanalytics.com/2014/07/24/datos-antes-y-despues-del-pca/).

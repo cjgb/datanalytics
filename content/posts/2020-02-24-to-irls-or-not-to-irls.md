@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-02-24 09:13:00+00:00
-draft: false
-title: To IRLS or not to IRLS
-
-url: /2020/02/24/to-irls-or-not-to-irls/
 categories:
 - estadística
 - r
+date: 2020-02-24 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:35.257697'
+related:
+- 2020-05-22-optimizacion-estocastica.md
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2016-03-21-caret-y-rejillas-es-necesario-utilizar-fuerza-bruta.md
+- 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
 tags:
 - deoptimr
 - mass
@@ -17,6 +21,8 @@ tags:
 - paquetes
 - r
 - robustbase
+title: To IRLS or not to IRLS
+url: /2020/02/24/to-irls-or-not-to-irls/
 ---
 
 A veces tomas un artículo de vaya uno a saber qué disciplina, sismología, p.e., y no dejas de pensar: los métodos estadísticos que usa esta gente son de hace 50 años. Luego cabe preguntarse: ¿pasará lo mismo en estadística con respecto a otras disciplinas?

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-28 07:08:40+00:00
-draft: false
-title: Predictores con varianza casi nula, inflación, loterías y línea de comandos
-
-url: /2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/
 categories:
 - programación
 - estadística
+date: 2014-03-28 07:08:40+00:00
+draft: false
+lastmod: '2025-04-06T19:10:21.968937'
+related:
+- 2022-05-17-como-calcula-inflacion.md
+- 2024-07-10-cortos-stats.md
+- 2023-10-19-errores-chatgpt.md
+- 2024-07-03-cortos-stats.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
 tags:
 - programación
 - estadística
 - inflación
 - lotería
 - varianza
+title: Predictores con varianza casi nula, inflación, loterías y línea de comandos
+url: /2014/03/28/predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos/
 ---
 
 Hoy viernes vuelvo a traer a mis páginas cuatro enlaces interesantes. El primero de ellos es como las malas películas: un arranque espléndido, un planteamiento prometedor y, al final, humo. Pero no trata de chico-conoce-chica sino de qué hacer con esas [variables que tienen una varianza casi nula](http://tgmstat.wordpress.com/2014/03/06/near-zero-variance-predictors/) (a la hora de crear modelos estadísticos, se entiende). Me llegó tan oportunamente que pensé que alguien que vela por mí desde lo alto me lo enviaba para sacarme de mi semanal atolladero. Pero no fue el caso.

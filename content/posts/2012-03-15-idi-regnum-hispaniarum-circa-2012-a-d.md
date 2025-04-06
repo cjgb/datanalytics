@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-15 08:01:46+00:00
-draft: false
-title: I+D+i, Regnum Hispaniarum, circa 2012 A.D.
-
-url: /2012/03/15/idi-regnum-hispaniarum-circa-2012-a-d/
 categories:
 - números
+date: 2012-03-15 08:01:46+00:00
+draft: false
+lastmod: '2025-04-06T18:45:33.025130'
+related:
+- 2021-04-15-el-mejor-negocio-de-la-decada.md
+- 2011-02-25-1605.md
+- 2013-08-28-que-ha-hecho-el-csic-por-mi.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
 tags:
 - i+d+i
 - números
+title: I+D+i, Regnum Hispaniarum, circa 2012 A.D.
+url: /2012/03/15/idi-regnum-hispaniarum-circa-2012-a-d/
 ---
 
 Llegó a mis manos el otro día un [artículo](http://www.elconfidencial.com/tecnologia/2012/03/03/no-diga-siliconvaley-diga-israel-un-verdadero-ejercito-de-startups-1939/) sobre el reciente [Mobile World Congress](http://www.mobileworldcongress.com) de BCN y en particular, sobre la significativa presencia de empresas de Israel en el mismo.

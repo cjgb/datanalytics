@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-14 08:13:21+00:00
-draft: false
-title: Cualquier parecido con la realidad es pura coincidencia
-
-url: /2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/
 categories:
 - estadística
 - números
+date: 2015-05-14 08:13:21+00:00
+draft: false
+lastmod: '2025-04-06T18:49:26.359242'
+related:
+- 2018-03-22-poblacion-el-padron-y-la-otra-cosa.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md
 tags:
 - epa
 - periodismo de datos
+title: Cualquier parecido con la realidad es pura coincidencia
+url: /2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/
 ---
 
 [@adolflow](https://twitter.com/adolflow) (en persona) viene hoy y me dice si lo he visto. ¿Qué cosa? Se refiere a lo que han publicado en El Español, [España en Cifras](http://espanaencifras.elespanol.com/). Lo miro por encima y encuentro

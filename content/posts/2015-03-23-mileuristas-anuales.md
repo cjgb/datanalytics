@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-23 08:13:12+00:00
-draft: false
-title: Mileuristas... anuales
-
-url: /2015/03/23/mileuristas-anuales/
 categories:
 - números
+date: 2015-03-23 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T19:04:56.898827'
+related:
+- 2011-02-25-1605.md
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
+- 2011-01-28-pensiones-c2bfduros-a-pesetas.md
+- 2013-01-14-algunos-resultados-de-la-encuesta-trimestral-de-coste-laboral.md
+- 2019-03-21-encuesta-de-estructura-salarial-y-r-propedeutica.md
 tags:
 - números
 - salarios
+title: Mileuristas... anuales
+url: /2015/03/23/mileuristas-anuales/
 ---
 
 Publicaba el otro día El País una nómina de Franco de noviembre de 1935 con un líquido a percibir de 2.429,98 pesetas. Según el articulista,

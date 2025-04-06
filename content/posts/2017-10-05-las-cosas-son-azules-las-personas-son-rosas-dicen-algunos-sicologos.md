@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-05 08:13:49+00:00
-draft: false
-title: Las cosas son azules, las personas son rosas (dicen algunos sicólogos)
-
-url: /2017/10/05/las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos/
 categories:
 - números
+date: 2017-10-05 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T18:52:10.719130'
+related:
+- 2014-11-28-como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda.md
+- 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2019-01-04-sobre-la-brecha-salarial-de-belleza.md
+- 2015-03-09-unas-preguntas-incomodas.md
 tags:
 - desigualdad
 - números
 - sicología
+title: Las cosas son azules, las personas son rosas (dicen algunos sicólogos)
+url: /2017/10/05/las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos/
 ---
 
 El otro día hablé con un amigo. Estaba un tanto preocupado por lo que cuento a continuación. Trabaja en un lugar que organiza conferencias, seminarios, etc. y frecuentemente suben los vídeos a Youtube. Al examinar el perfil demográfico de los _yutuvidentes _advertía con desazón que entre los de los vídeos de unas charlas de tecnología muy friquis apenas había un 10% de mujeres.

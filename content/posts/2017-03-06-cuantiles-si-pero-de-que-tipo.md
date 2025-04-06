@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-06 08:13:16+00:00
-draft: false
-title: Cuantiles, sí, pero ¿de qué tipo?
-
-url: /2017/03/06/cuantiles-si-pero-de-que-tipo/
 categories:
 - estadística
 - r
+date: 2017-03-06 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:12:10.380558'
+related:
+- 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
+- 2013-08-05-medianas-ponderadas.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
 tags:
 - cuantiles
 - r
 - trucos
+title: Cuantiles, sí, pero ¿de qué tipo?
+url: /2017/03/06/cuantiles-si-pero-de-que-tipo/
 ---
 
 Porque resulta que los hay de varios tipos. En R, hasta nueve de ellos:

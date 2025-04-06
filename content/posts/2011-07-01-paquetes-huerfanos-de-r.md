@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-01 07:13:49+00:00
-draft: false
-title: Paquetes huérfanos de R
-
-url: /2011/07/01/paquetes-huerfanos-de-r/
 categories:
 - r
+date: 2011-07-01 07:13:49+00:00
+draft: false
+lastmod: '2025-04-06T19:12:29.453287'
+related:
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
+- 2013-11-10-5000-paquetes-de-r-en-cran.md
+- 2011-07-28-el-paquete-pxr-en-cran.md
+- 2023-04-20-dejar-morir-pxr.md
 tags:
 - r
 - paquetes
+title: Paquetes huérfanos de R
+url: /2011/07/01/paquetes-huerfanos-de-r/
 ---
 
 Ayer hablaba con Juan José Gibaja (al que finalmente conocí en persona) y me contaba cómo había usado un paquete de R —no recuerdo cuál— que misteriosamente había desaparecido de [CRAN](http://cran.r-project.org/web/packages/).

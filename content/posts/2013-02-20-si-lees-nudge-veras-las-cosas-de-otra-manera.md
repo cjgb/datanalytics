@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-20 07:54:26+00:00
-draft: false
-title: Si lees "Nudge" verás las cosas de otra manera
-
-url: /2013/02/20/si-lees-nudge-veras-las-cosas-de-otra-manera/
 categories:
 - libros
+date: 2013-02-20 07:54:26+00:00
+draft: false
+lastmod: '2025-04-06T18:54:42.204068'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2023-09-14-gestion-liquidez.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 tags:
 - libros
 - economía
 - sicología
 - thaler
 - sunstein
+title: Si lees "Nudge" verás las cosas de otra manera
+url: /2013/02/20/si-lees-nudge-veras-las-cosas-de-otra-manera/
 ---
 
 Si acabas, como yo, de leer [Nudge](http://en.wikipedia.org/wiki/Nudge_(book)), es probable que comiences a ver las cosas de otra manera.

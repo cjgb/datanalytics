@@ -1,11 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-10
-title: "Diagramas causales hiperbásicos (I): variables omitidas y sus consecuencias"
-url: /2022/03/10/diagramas-causales-hiperbasicos-01-variables-omitidas/
 categories:
 - estadística
 - causalidad
+date: 2022-03-10
+lastmod: '2025-04-06T18:48:23.164320'
+related:
+- 2022-03-22-diagramas-causales-hipersimples-3-mediadores.md
+- 2022-03-18-diagramas-causales-hipersimples-2-control.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md
 tags:
 - causalidad
 - redes bayesianas
@@ -13,6 +18,8 @@ tags:
 - error
 - varianza
 - r
+title: 'Diagramas causales hiperbásicos (I): variables omitidas y sus consecuencias'
+url: /2022/03/10/diagramas-causales-hiperbasicos-01-variables-omitidas/
 ---
 
 Comienzo hoy una serie de cuatro entradas (¡creo!) sobre diagramas causales supersimples que involucran a tres variables aleatorias: $X$, $Y$ y $Z$. En todos los casos, estaré argumentaré alrededor de en las regresiones lineales `Y ~ X` e `Y ~ X + Z` porque nos permiten leer, interpretar y comparar rápida y familiarmente los resultados obtenidos. En particular, me interesará la estimación del efecto (causal, si se quiere) de $X$ sobre $Y$, identificable a través del coeficiente de $X$ en las regresiones.
@@ -76,6 +83,3 @@ o
 que son esta misma entrada escrita de otra manera.
 
 Porque, efectivamente, en las ciencias _duras_ existen pocas $Z$ desconocidas: ciertas condiciones de laboratorio y poco más. Por eso _gozan_ de $R^2$ elevadas. Sin embargo, en las ciencias _blandengues_, hay más variables $Z$ ensuciando los modelos que los que una vida entera dedicada al asunto permitiría enumerar y los que viven de ellas tienen que conformarse con $R^2$ bajos. Este, además, no sería un problema si las $Z$ obedeciesen el diagrama causal motivo de la entrada de hoy: como se ha visto, la estimación del coeficiente de $X$ no se ha visto alterada por la inclusión o exclusión de $Z$. El problema surge realmente cuando se complica la relación causal entre las variables. Pero ese es tema para las subsiguientes entradas de la serie.
-
-
-

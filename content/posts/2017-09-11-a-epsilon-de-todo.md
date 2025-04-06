@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-11 02:50:20+00:00
-draft: false
-title: A épsilon de todo
-
-url: /2017/09/11/a-epsilon-de-todo/
 categories:
 - varios
+date: 2017-09-11 02:50:20+00:00
+draft: false
+lastmod: '2025-04-06T18:58:59.842316'
+related:
+- 2019-08-15-relevante-para-entender-la-maldicion-de-la-dimensionalidad.md
+- 2019-04-15-las-altas-dimensiones-son-campo-minado-para-la-intuicion.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2022-11-04-umap-tsne-etc.md
+- 2012-01-17-muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones.md
 tags:
 - matemáticas
 - multidimensionalidad
+title: A épsilon de todo
+url: /2017/09/11/a-epsilon-de-todo/
 ---
 
 Usé a principios del verano una metáfora matemática como justificación de los contenidos de un curso que dicté pero que se puede extender al conocimiento en general. Más bien, a una estrategia para adquirirlos. La estrategia de estar a un ? de todo.

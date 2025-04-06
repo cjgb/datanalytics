@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-11-26
-title: 'LLMs: ajedrez, poesía, "ciencia normal", "prompts" y "RAG"'
-url: /2024/11/26/cortos-llms
 categories:
 - cortos
+date: 2024-11-26
+lastmod: '2025-04-06T18:51:00.450288'
+related:
+- 2024-03-21-cortos.md
+- 2025-02-25-cortos-stats.md
+- 2023-10-05-llms-historia.md
+- 2025-03-25-cortos-llms.md
+- 2024-05-07-cortos.md
 tags:
 - llms
 - ajedrez
@@ -12,6 +17,8 @@ tags:
 - ciencia
 - prompts
 - rag
+title: 'LLMs: ajedrez, poesía, "ciencia normal", "prompts" y "RAG"'
+url: /2024/11/26/cortos-llms
 ---
 
 ### Poesía

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-17 09:13:00+00:00
-draft: false
-title: 'Dos escenarios mutuamente incompatibles: extinción o cronificación'
-
-url: /2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/
 categories:
 - varios
+date: 2020-03-17 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:37.578460'
+related:
+- 2020-05-07-coronavirus-cualitativo.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2020-03-24-se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 tags:
 - coronavirus
 - epidemiología
+title: 'Dos escenarios mutuamente incompatibles: extinción o cronificación'
+url: /2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/
 ---
 
 El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en china que llegaron a tener un número importante de casos,

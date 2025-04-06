@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-26 07:13:37+00:00
-draft: false
-title: Tirar la piedra, esconder la mano
-
-url: /2014/09/26/tirar-la-piedra-esconder-la-mano/
 categories:
 - estadística
+date: 2014-09-26 07:13:37+00:00
+draft: false
+lastmod: '2025-04-06T18:59:32.320150'
+related:
+- 2023-10-03-muestreo-superricos.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 tags:
 - escocia
 - estadística
 - falacias
 - falacia ecológica
 - mala ciencia
+title: Tirar la piedra, esconder la mano
+url: /2014/09/26/tirar-la-piedra-esconder-la-mano/
 ---
 
 Hoy he encontrado esto en Twitter:

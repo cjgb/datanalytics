@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-03-06
-title: '¿Por qué seleccionar "el mejor" modelo?'
-url: /2025/03/06/seleccion-modelos
 categories:
 - estadística
+date: 2025-03-06
+lastmod: '2025-04-06T19:10:42.214476'
+related:
+- 2024-09-12-cortos-stats.md
+- 2019-03-18-las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria.md
+- 2011-07-04-miscelanea-de-citas.md
+- 2024-10-17-interpretacion-modelos.md
+- 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md
 tags:
 - estadística
 - modelización
+title: ¿Por qué seleccionar "el mejor" modelo?
+url: /2025/03/06/seleccion-modelos
 ---
 
 Tiene Ripley, el gran Ripley, un artículo de hace 20 años titulado _Selecting Amongst Large Classes of Models_ donde discute la cuestión ---la del título de esta entrada--- y dice:

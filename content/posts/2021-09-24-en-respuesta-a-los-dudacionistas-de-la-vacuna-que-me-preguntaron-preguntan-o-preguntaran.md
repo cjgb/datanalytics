@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-09-24 09:13:00+00:00
-draft: false
-title: En respuesta a los "dudacionistas" de la vacuna que me preguntaron, preguntan
-  o preguntarán
-
-url: /2021/09/24/en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran/
 categories:
 - varios
+date: 2021-09-24 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:01:58.320180'
+related:
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
+- 2021-12-02-por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid.md
+- 2012-03-12-estrenos-con-ecos-estadisticos-ii-contagio.md
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 tags:
 - coronavirus
 - teoría de la decisión
 - vacuna
+title: En respuesta a los "dudacionistas" de la vacuna que me preguntaron, preguntan
+  o preguntarán
+url: /2021/09/24/en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran/
 ---
 
 Previo:

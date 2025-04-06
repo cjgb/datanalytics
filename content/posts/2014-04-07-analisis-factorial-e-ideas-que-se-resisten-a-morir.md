@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-07 07:00:56+00:00
-draft: false
-title: Análisis factorial e ideas que se resisten a morir
-
-url: /2014/04/07/analisis-factorial-e-ideas-que-se-resisten-a-morir/
 categories:
 - estadística
+date: 2014-04-07 07:00:56+00:00
+draft: false
+lastmod: '2025-04-06T19:11:43.022050'
+related:
+- 2014-04-02-varimax-lo-que-se-gana-lo-que-se-pierde.md
+- 2015-11-30-estadistica-cualitativa.md
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2015-01-14-rarezas-estadistica-algebraica.md
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 tags:
 - análisis factorial
 - estadística
+title: Análisis factorial e ideas que se resisten a morir
+url: /2014/04/07/analisis-factorial-e-ideas-que-se-resisten-a-morir/
 ---
 
 Estoy escribiendo mucho sobre métodos de reducción de la dimensionalidad estos días. Digamos que son gajes del oficio. Espero no resultar repetitivo.

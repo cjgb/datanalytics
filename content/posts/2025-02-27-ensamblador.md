@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-02-27
-title: '¿Acabaremos programando todos en ensamblador?'
-url: /2025/02/27/programacion-ensamblador
 categories:
 - programación
+date: 2025-02-27
+lastmod: '2025-04-06T19:11:56.859679'
+related:
+- 2023-02-14-sicologia-programacion.md
+- 2025-03-25-cortos-llms.md
+- 2024-07-18-cortos-llms.md
+- 2015-11-03-esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion.md
+- 2020-06-04-programacion-lineal-de-nuevo.md
 tags:
 - programación
 - ensamblador
 - llms
 - python
+title: ¿Acabaremos programando todos en ensamblador?
+url: /2025/02/27/programacion-ensamblador
 ---
 
 Un lenguaje de programación es un lenguaje que media entre el que nos es familiar a los humanos y el que reconocen las computadoras. Los lenguajes de alto nivel nos resultan más cómodos; los de bajo nivel, más crípticos. Todos conocemos, pienso, el _trade-off_.

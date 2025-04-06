@@ -1,13 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-06-28
-title: '"Frente a la aspiración de una representación precisa, debemos considerar las limitaciones conceptuales, matemáticas y computacionales"'
-description: 'Una cita de Gelman que describe los mecanismos que regulan el avance de la estadística'
-url: /2022/06/28/que-hace-avanzar-la-estadistica/
 categories:
 - estadística
+date: 2022-06-28
+description: Una cita de Gelman que describe los mecanismos que regulan el avance
+  de la estadística
+lastmod: '2025-04-06T18:54:24.431442'
+related:
+- 2024-10-17-interpretacion-modelos.md
+- 2021-11-03-mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia.md
+- 2014-06-23-dos-citas-de-1983-sobre-estadistica-y-metodos-computacionales.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
 tags:
 - estadística
+title: '"Frente a la aspiración de una representación precisa, debemos considerar
+  las limitaciones conceptuales, matemáticas y computacionales"'
+url: /2022/06/28/que-hace-avanzar-la-estadistica/
 ---
 
 La cita que da título a la entrada procede ---con mi ¿mala? traducción--- del artículo
@@ -29,4 +38,3 @@ por el simple motivo de que había que realizar menos operaciones (recuérdese: 
 Es un fenómeno del que han dado cuenta muchos autores (p.e., Efron en su [_Computer Age Statistical Inference: Algorithms, Evidence, and Data Science_](https://www.goodreads.com/book/show/30462852-computer-age-statistical-inference)) y parece una obviedad abundar sobre ello.
 
 Sin embargo, la persistencia de métodos viejunos en la estadística académica y, casi por extensión, en la estadística no académica que realizan muchos estadísticos con todavía excesivas adherencias académicas, nos hace sospechar que ese conocimiento que presumo arriba no se ha perfeccionado en resultados concretos y, particularmente, en el concomitante cambio curricular y cultural.
-

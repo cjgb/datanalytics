@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-04-25 18:57:17+00:00
-draft: false
-title: Y yo que pensaba que lo de Will Smith y SAS era una leyenda urbana...
-
-url: /2010/04/25/y-yo-que-pensaba-que-lo-de-will-smith-y-sas-era-una-leyenda-urbana/
 categories:
 - varios
+date: 2010-04-25 18:57:17+00:00
+draft: false
+lastmod: '2025-04-06T19:00:01.812502'
+related:
+- 2014-10-20-roi-de-ida-y-vuelta.md
+- 2023-10-03-muestreo-superricos.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
+- 2010-07-13-use-sas-para-predecir-como-un-pulpo.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
 tags:
 - sas
 - modelos
 - cine
 - will smith
+title: Y yo que pensaba que lo de Will Smith y SAS era una leyenda urbana...
+url: /2010/04/25/y-yo-que-pensaba-que-lo-de-will-smith-y-sas-era-una-leyenda-urbana/
 ---
 
 Durante un tiempo, pensé que esa historia que circulaba por ahí sobre [Will Smith](http://es.wikipedia.org/wiki/Will_Smith) y SAS era un bulo. Contaban (y nunca me creí del todo) que al principio de la carrera cinematográfica del actor, éste había encargado un estudio para determinar qué tipo de guiones debía aceptar para hacer la mayor cantidad de dinero posible. Que se habían tomado unas cuantas películas muy exitosas, se habían metido en la batidora de SAS y que éste le había proporcionado las pistas para hacer de un _rapero_ de poca monta una estrella de Hollywood.

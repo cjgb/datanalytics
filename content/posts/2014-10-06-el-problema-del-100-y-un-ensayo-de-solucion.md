@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-06 07:13:56+00:00
-draft: false
-title: El problema del 100% (y un ensayo de solución)
-
-url: /2014/10/06/el-problema-del-100-y-un-ensayo-de-solucion/
 categories:
 - consultoría
 - estadística
+date: 2014-10-06 07:13:56+00:00
+draft: false
+lastmod: '2025-04-06T18:54:29.745016'
+related:
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2024-12-05-beta-binomial-deriva.md
 tags:
 - artesanía estadística
 - estadística bayesiana
+title: El problema del 100% (y un ensayo de solución)
+url: /2014/10/06/el-problema-del-100-y-un-ensayo-de-solucion/
 ---
 
 Te encargan un _modelo_. Por ejemplo, relacionado con el uso de tarjetas de débito y crédito (aunque a lo que me referiré ocurre en mil otros contextos). Una variable que consideras importante es la proporción de veces que se usa para sacar dinero de cajeros (y no para pagar en establecimientos). Así que, para cada cliente, divides el número de retiradas por el número de veces que la tarjeta se ha usado y obtienes ese número entre el 0 y el 1 (o entre el 0% y el 100%).
@@ -26,6 +32,3 @@ El motivo es simple y casi siempre el mismo: en ese extremo, en ese 100%, tienes
 Si tienes prisa y no quieres leer lo que sigue, en lugar de $latex n/N$ haz $latex \frac{n + 0.5}{N+1}$ y las cosas mejorarán, casi seguro.
 
 Si tienes más tiempo, tómatelo para aprender sobre la [distribución beta](http://en.wikipedia.org/wiki/Beta_distribution) y en particular, sobre la [inferencia bayesiana con prioris beta](http://en.wikipedia.org/wiki/Beta_distribution#Bayesian_inference). En nada lo invertirás mejor.
-
-
-

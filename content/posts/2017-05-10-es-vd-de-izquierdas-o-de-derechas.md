@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-05-10 08:13:23+00:00
-draft: false
-title: ¿Es Vd. de izquierdas o de derechas?
-
-url: /2017/05/10/es-vd-de-izquierdas-o-de-derechas/
 categories:
 - números
+date: 2017-05-10 08:13:23+00:00
+draft: false
+lastmod: '2025-04-06T18:59:30.019404'
+related:
+- 2014-11-04-dislexia-probabilistica.md
+- 2018-05-11-cis-ideologia-graficos-y-si-este-blog.md
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2014-11-28-como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda.md
 tags:
 - cis
 - encuestas
 - escepticismo
+title: ¿Es Vd. de izquierdas o de derechas?
+url: /2017/05/10/es-vd-de-izquierdas-o-de-derechas/
 ---
 
 En una escala (de enteros) del 1 al 10, ¿cuál es el punto medio? ¿Cuál indicaría indiferencia entre ambas opciones? No, no es 5; es 5.5.

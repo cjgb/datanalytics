@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-11 08:13:41+00:00
-draft: false
-title: Pasando data.frames de R como tablas de pandas en Python usando rPython
-
-url: /2015/12/11/pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython/
 categories:
 - r
+date: 2015-12-11 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T18:52:47.525869'
+related:
+- 2013-04-01-rpython-ya-esta-en-cran.md
+- 2014-03-20-los-sospechosos-habituales-y-python.md
+- 2022-09-20-tools-etl-memory.md
+- 2016-04-06-rpython-feather.md
+- 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md
 tags:
 - pandas
 - python
 - r
 - rpython
+title: Pasando data.frames de R como tablas de pandas en Python usando rPython
+url: /2015/12/11/pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython/
 ---
 
 Un usuario de [`rPython`](https://cran.r-project.org/web/packages/rPython/index.html), David González Knowles, me ha facilitado su código para pasar una tabla, `iris` en este caso, de R a una tabla de pandas en Python usando mi paquete.

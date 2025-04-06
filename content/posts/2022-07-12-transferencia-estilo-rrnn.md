@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-07-12
-title: 'El estilo es la coocurrencia de patrones'
-description: 'Un análisis del concepto de estilo en una imagen'
-url: /2022/07/12/transferencia-estilo-rrnn/
 categories:
 - estadística
+date: 2022-07-12
+description: Un análisis del concepto de estilo en una imagen
+lastmod: '2025-04-06T18:49:42.013081'
+related:
+- 2016-09-05-mezclas-de-vectores-iii-las-funciones-involucradas.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2011-08-16-una-feliz-conjuncion-estadistico-algebraica-y-ii.md
+- 2023-01-10-stable-diffusion-1d.md
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
 tags:
 - momentos
 - distribuciones
+title: El estilo es la coocurrencia de patrones
+url: /2022/07/12/transferencia-estilo-rrnn/
 ---
 
 _[Aquí, entre otras cosas, se abunda una serie de tres que realicé hace seis años sobre el asunto y que puede consultarse [aquí](https://www.datanalytics.com/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/).]_

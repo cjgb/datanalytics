@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-18 07:45:20+00:00
-draft: false
-title: Solipsismo, comunidad y rendimiento
-
-url: /2011/05/18/solipsismo-comunidad-y-rendimiento/
 categories:
 - r
+date: 2011-05-18 07:45:20+00:00
+draft: false
+lastmod: '2025-04-06T19:11:17.454568'
+related:
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
 tags:
 - r
+title: Solipsismo, comunidad y rendimiento
+url: /2011/05/18/solipsismo-comunidad-y-rendimiento/
 ---
 
 Desde esta bitácora hemos seguido atentamente el a veces espinoso asunto del rendimiento de R. De ello es muestra entradas como [ésta](http://www.datanalytics.com/2011/03/16/parentesis-llaves-y-rendimiento-en-r/). Por eso retomamos el asunto para comentar desde una óptica distinta un análisis publicado hace un mes cuyo autor estudia la [ineficiencia de funciones básicas como la media y otras similares](http://lookingatdata.blogspot.com/2011/04/speeding-up-r-computations.html).

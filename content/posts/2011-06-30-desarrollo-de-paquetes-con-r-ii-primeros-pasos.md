@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-30 07:36:54+00:00
-draft: false
-title: 'Desarrollo de paquetes con R (II): primeros pasos'
-
-url: /2011/06/30/desarrollo-de-paquetes-con-r-ii-primeros-pasos/
 categories:
 - r
+date: 2011-06-30 07:36:54+00:00
+draft: false
+lastmod: '2025-04-06T19:04:01.637448'
+related:
+- 2011-07-12-desarrollo-de-paquetes-con-r-iii-check-check-check.md
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
+- 2011-06-08-gestion-de-proyectos-en-r.md
+- 2022-06-02-orgamizacion-proyectos-datos.md
 tags:
 - r
 - paquetes
 - programación
+title: 'Desarrollo de paquetes con R (II): primeros pasos'
+url: /2011/06/30/desarrollo-de-paquetes-con-r-ii-primeros-pasos/
 ---
 
 La segunda entrada en mi serie sobre la creación de paquetes con R cubre los primeros pasos en la creación de uno. Bastan para tener una primera versión de un paquete en minutos. Pero antes, unos consejos generales:

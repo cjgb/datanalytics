@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-07 07:13:53+00:00
-draft: false
-title: Juegos justos con monedas truchas
-
-url: /2015/01/07/juegos-justos-con-monedas-truchas/
 categories:
 - probabilidad
+date: 2015-01-07 07:13:53+00:00
+draft: false
+lastmod: '2025-04-06T18:54:05.697072'
+related:
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2012-10-26-hhh-hht-y-el-comando-yield-de-python.md
+- 2021-10-28-monty-hall-reformulado.md
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2012-01-31-cosa-prodigiosa-iii-epilogo.md
 tags:
 - probabilidad
 - problemas
+title: Juegos justos con monedas truchas
+url: /2015/01/07/juegos-justos-con-monedas-truchas/
 ---
 
 —¿Cara (H) o cruz (T)?

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-22 08:13:19+00:00
-draft: false
-title: 'Población: el padrón y la otra cosa'
-
-url: /2018/03/22/poblacion-el-padron-y-la-otra-cosa/
 categories:
 - estadística
 - números
+date: 2018-03-22 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T18:58:24.288884'
+related:
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2023-04-24-estadistica-creativa.md
+- 2015-04-24-el-sujeto-numero-82694.md
 tags:
 - censo
 - demografía
 - ine
 - padrón
 - población
+title: 'Población: el padrón y la otra cosa'
+url: /2018/03/22/poblacion-el-padron-y-la-otra-cosa/
 ---
 
 En un proyecto necesitábamos cifras de población por provincias durante los últimos años. Así que usamos los datos del padrón proporcionados por el INE (el INE es guay; AEMET es kk). Pero alguien nos dijo que era mejor usar los otros datos de población, los nosequé (sí, las estimaciones intercensales, si es que se llaman así) porque eran _más mejores_.

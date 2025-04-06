@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-06 07:37:28+00:00
-draft: false
-title: La tragedia del buen rollito
-
-url: /2011/06/06/la-tragedia-del-buen-rollito/
 categories:
 - consultoría
+date: 2011-06-06 07:37:28+00:00
+draft: false
+lastmod: '2025-04-06T19:00:56.244159'
+related:
+- 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
+- 2018-09-21-una-anecdota-sobre-el-mercado-electrico-y-sus-mermas.md
+- 2019-03-26-hay-algo-podrido-en-la-microeconomia-normativa.md
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
+- 2024-10-03-ergodicidad.md
 tags:
 - consultoría
 - economía
+title: La tragedia del buen rollito
+url: /2011/06/06/la-tragedia-del-buen-rollito/
 ---
 
 No sé si mis lectores están al tanto del problema conocido como [tragedia de los comunes](http://es.wikipedia.org/wiki/Tragedia_de_los_comunes) (que, más bien, debería denominarse tragedia de las _dehesas_). Consiste en que una serie de agentes económicos (ganaderos) comparten un bien común, que no pertenece a nadie (una dehesa), en la que hacen pastar sus vacas. Todos ellos están interesados en hacer pastar el máximo número posible de ellas. Pero la capacidad de generar pasto de la dehesa es limitada y llega un momento en que ésta se sobreexplota y es incapaz de alimentar tanta vaca. Todos los ganaderos pierden, pero a ninguno le interesa reducir unilateralmente el tamaño de su cañada.

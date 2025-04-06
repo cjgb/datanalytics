@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-26 11:48:47+00:00
-draft: false
-title: ¿A que les ha jugado una mala pasada el Excel?
-
-url: /2020/11/26/a-que-les-ha-jugado-una-mala-pasada-el-excel/
 categories:
 - artículos
 - números
 - mala ciencia
+date: 2020-11-26 11:48:47+00:00
+draft: false
+lastmod: '2025-04-06T19:07:04.383076'
+related:
+- 2012-06-06-definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2024-01-09-regresiones_pisa.md
+- 2012-07-16-el-paro-cosa-de-hombres.md
 tags:
 - artículos
 - estadística
@@ -16,6 +20,8 @@ tags:
 - excel
 - bde
 - eurostat
+title: ¿A que les ha jugado una mala pasada el Excel?
+url: /2020/11/26/a-que-les-ha-jugado-una-mala-pasada-el-excel/
 ---
 
 Se ha dado por cabal en muchos medios lo que espero que no llegue a más que a un borrador. Ha sido publicado por el Banco de España y contiene párrafos como

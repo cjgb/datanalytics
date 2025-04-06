@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-12 07:35:00+00:00
-draft: false
-title: 'Desarrollo de paquetes con R (III): check, check, check'
-
-url: /2011/07/12/desarrollo-de-paquetes-con-r-iii-check-check-check/
 categories:
 - r
+date: 2011-07-12 07:35:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:57.799086'
+related:
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
+- 2015-12-17-cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso.md
+- 2011-06-08-gestion-de-proyectos-en-r.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
 tags:
 - r
 - paquetes
 - programación
+title: 'Desarrollo de paquetes con R (III): check, check, check'
+url: /2011/07/12/desarrollo-de-paquetes-con-r-iii-check-check-check/
 ---
 
 Uno de los pasos más importantes en el desarrollo de un paquete es verificar que funciona correctamente. Un _check_ comprueba la estructura del paquete, la consistencia entre el código y la documentación, que no faltan secciones importantes en esta última, que los ejemplos pueden ejecutarse sin problemas, etc.
@@ -38,5 +44,3 @@ R CMD check mi_paquete
 
 
 De esta manera, los directorios adicionales creados por R quedan en `/tmp` y se eliminan por sí solos al apagar el equipo.
-
-

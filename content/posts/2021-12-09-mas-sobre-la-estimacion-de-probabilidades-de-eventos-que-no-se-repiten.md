@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-12-09 09:13:00+00:00
-draft: false
-title: Más sobre la estimación de probabilidades de eventos que no se repiten
-
-url: /2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/
 categories:
 - estadística
 - libros
+date: 2021-12-09 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:49:19.654063'
+related:
+- 2023-09-05-superforecasting.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2020-10-20-como-asignar-probabilidades-simetria-y-universalidad.md
 tags:
 - calibración
 - predicción
 - superforecasting
 - tetlock
 - principio de indiferencia
+title: Más sobre la estimación de probabilidades de eventos que no se repiten
+url: /2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/
 ---
 
 Hace un tiempo hablé sobre la estimación de [probabilidades de eventos que ocurren una única vez](https://www.datanalytics.com/2021/04/08/sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez/): elecciones, etc. Argumentaba cómo pueden ser descompuestos en dos partes muy distintas cualitativamente: una asociada a eventos que sí que se han repetido; otra, específica y única. El tamaño relativo de ambas componentes afecta a eficacia del mecanismo de estimación.

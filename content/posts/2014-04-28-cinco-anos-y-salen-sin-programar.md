@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-28 07:42:00+00:00
-draft: false
-title: ¿Cinco años y salen sin programar?
-
-url: /2014/04/28/cinco-anos-y-salen-sin-programar/
 categories:
 - programación
+date: 2014-04-28 07:42:00+00:00
+draft: false
+lastmod: '2025-04-06T19:10:30.311030'
+related:
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md
+- 2019-06-11-informatica-o-matematicas-una-pregunta-muy-mal-formulada.md
+- 2019-07-02-aprender-deprisa-aprender-despacio.md
 tags:
 - programación
 - consultoría
 - economía
 - educación
+title: ¿Cinco años y salen sin programar?
+url: /2014/04/28/cinco-anos-y-salen-sin-programar/
 ---
 
 Sí, hay gente que pasa cinco años en una de esas instituciones encopetadas que son las universidades y sale de ellas sin saber programar.

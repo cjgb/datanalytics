@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-04 08:13:43+00:00
-draft: false
-title: offset, porque el coeficiente es 1 necesariamente
-
-url: /2019/03/04/offset-porque-el-coeficiente-es-1-necesariamente/
 categories:
 - estadística
 - r
+date: 2019-03-04 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T19:06:11.959967'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2018-11-16-colinealidad-y-posterioris.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2019-07-17-sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
 tags:
 - coeficientes
 - lm
 - offset
 - r
+title: offset, porque el coeficiente es 1 necesariamente
+url: /2019/03/04/offset-porque-el-coeficiente-es-1-necesariamente/
 ---
 
 Estos días me han preguntado sobre un modelo lineal tal que $latex y \sim x_1 + \dots$ donde el coeficiente de $latex x_1$ no se entiende si no es igual a 1. Es como si los datos se creasen de la forma

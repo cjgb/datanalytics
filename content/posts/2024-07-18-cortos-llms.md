@@ -1,15 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-18
-title: 'Argumentos para discutir sobre la inteligencia de los LLMs y cuatro asuntos más'
-url: /2024/07/18/cortos-llms
 categories:
 - cortos
+date: 2024-07-18
+lastmod: '2025-04-06T18:44:42.196997'
+related:
+- 2024-04-19-cortos.md
+- 2025-03-25-cortos-llms.md
+- 2024-03-21-cortos.md
+- 2024-09-03-cortos-llms.md
+- 2024-06-06-cortos-llms.md
 tags:
 - llms
 - tokenización
 - visualización
 - multimodalidad
+title: Argumentos para discutir sobre la inteligencia de los LLMs y cuatro asuntos
+  más
+url: /2024/07/18/cortos-llms
 ---
 
 ### I. Visualización
@@ -54,4 +62,3 @@ que nos advierte de cómo esos LLMs multimodales son _ciegos_ a ciertas caracter
 - Jina y, particularísimamente, su [_reader_](https://jina.ai/reader/).
 - Este [resumidor de vídeos](https://notegpt.io/youtube-video-summarizer).
 - Y uno también puede [_chatear_ con Friedman](https://friedman.ai/) (el economista).
-

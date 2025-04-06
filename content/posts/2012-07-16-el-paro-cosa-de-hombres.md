@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-16 07:52:33+00:00
-draft: false
-title: El paro, ¿cosa de hombres?
-
-url: /2012/07/16/el-paro-cosa-de-hombres/
 categories:
 - estadística
 - gráficos
 - números
+date: 2012-07-16 07:52:33+00:00
+draft: false
+lastmod: '2025-04-06T19:05:08.484392'
+related:
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
+- 2015-03-09-unas-preguntas-incomodas.md
+- 2012-07-12-edad-nivel-de-formacion-sexo-y-paro.md
+- 2011-02-24-c2a1que-trabaje-su-tia.md
+- 2020-11-26-a-que-les-ha-jugado-una-mala-pasada-el-excel.md
 tags:
 - eda
 - epa
@@ -16,6 +20,8 @@ tags:
 - gráficos
 - mondrian
 - números
+title: El paro, ¿cosa de hombres?
+url: /2012/07/16/el-paro-cosa-de-hombres/
 ---
 
 Está de moda hablar de paro. Pero las discusiones al respecto adolecen de una serie de carencias:
@@ -57,4 +63,3 @@ Por eso se puede aventurar que:
 
 * el parado español del futuro será hombre y que
 * si se sigue sin controlar por otras variables, las mujeres ganarán más.
-

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-19 06:42:33+00:00
-draft: false
-title: Visualización de la incertidumbre sobre el futuro
-
-url: /2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/
 categories:
 - consultoría
 - estadística
 - gráficos
+date: 2011-10-19 06:42:33+00:00
+draft: false
+lastmod: '2025-04-06T19:03:49.162716'
+related:
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2010-09-27-c2bfque-grafico-es-mejor.md
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2011-11-25-escalas-logaritimicas-puede-pero.md
 tags:
 - graficaca
 - gráficos
 - percepción del riesgo
 - spiegelhalter
+title: Visualización de la incertidumbre sobre el futuro
+url: /2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/
 ---
 
 Recomiendo a mis lectores el artículo _[Visualizing Uncertainty About the Future](http://understandinguncertainty.org/visualising-uncertainty)_ de D. Spiegelhalter, M. Pearson e I. Short. Trata sobre qué tipo de representaciones gráficas son más adecuadas para transmitir información acerca de la probabilidad de fenómenos futuros a distintos tipos de audiencias, incluidas las más anuméricas.
@@ -35,4 +41,3 @@ Algunos de los consejos que dan los autores son:
 4. Para evitar el _sesgo del marco_, proporcionar porcentajes o frecuencias que muestren los resultados en las dos alternativas que se contrasten y utilizar denominadores de igual tamaño para las proporciones.
 5. Tratar de evitar recursos que produzcan una respuesta emotiva o afectiva.
 6. Evitar la graficaca y el uso de, por ejemplo, el área para representar magnitudes.
-

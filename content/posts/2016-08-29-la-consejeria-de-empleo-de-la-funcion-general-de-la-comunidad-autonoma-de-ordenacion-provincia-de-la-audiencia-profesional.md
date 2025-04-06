@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-08-29 08:13:19+00:00
-draft: false
-title: La Consejería de Empleo de la Función General de la Comunidad Autónoma de Ordenación
-  Provincia de la Audiencia Profesional
-
-url: /2016/08/29/la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional/
 categories:
 - ciencia de datos
+date: 2016-08-29 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:11:13.678482'
+related:
+- 2023-10-05-llms-historia.md
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
+- 2016-06-13-censura-a-la-izquierda-en-las-universidades-espanolas.md
 tags:
 - boe
 - mxnet
 - r
 - rnn
+title: La Consejería de Empleo de la Función General de la Comunidad Autónoma de Ordenación
+  Provincia de la Audiencia Profesional
+url: /2016/08/29/la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional/
 ---
 
 Ese es el nombre agramatical de una nueva consejería pergeñada por una red neuronal recurrente que he ajustado usando [un año de BOEs](https://www.datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/).

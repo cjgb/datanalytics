@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-01 20:16:39+00:00
-draft: false
-title: Una (propuesta de) guía de estilo de R
-
-url: /2010/11/01/una-propuesta-de-guia-de-estilo-de-r/
 categories:
 - r
+date: 2010-11-01 20:16:39+00:00
+draft: false
+lastmod: '2025-04-06T19:11:03.794574'
+related:
+- 2014-01-27-guia-de-estilo-de-r-de-google.md
+- 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
+- 2015-09-04-guias-de-estilo-para-programar-en-r.md
 tags:
 - r
 - google
+title: Una (propuesta de) guía de estilo de R
+url: /2010/11/01/una-propuesta-de-guia-de-estilo-de-r/
 ---
 
 Síntoma del creciente interés por R es el hecho de que Google haya elaborado y publicado [una guía de estilo para R](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html). Me he tomado la libertad de [traducirla](http://www.datanalytics.com/2014/01/27/guia-de-estilo-de-r-de-google/). Espero que a Google no le importe.
@@ -29,4 +35,3 @@ En general, la guía de Google representa un paso importante (y con un marchamo 
 
 * Desarrollo de paquetes como mecanismo de documentación.
 * Elaboración de las recomendaciones desde R y para R mejor que tratando de trasladar las que rigen en otros lenguajes de programación de manera que se eliminen algunas inconsistencias y completen algunos huecos.
-

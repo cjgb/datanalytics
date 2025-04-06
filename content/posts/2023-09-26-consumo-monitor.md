@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-09-26
-title: 'Sobre la etiqueta medioambiental de los monitores'
-
-url: /2023/09/26/etiqueta-medioambiental-monitores/
 categories:
 - varios
+date: 2023-09-26
+lastmod: '2025-04-06T19:04:35.284290'
+related:
+- 2022-07-26-hueco-termico.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
+- 2015-11-13-gam.md
+- 2022-04-12-graficaca-ree.md
 tags:
 - monitores
 - etiqueta medioambiental
 - cambio climático
+title: Sobre la etiqueta medioambiental de los monitores
+url: /2023/09/26/etiqueta-medioambiental-monitores/
 ---
 
 ### I.

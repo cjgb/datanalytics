@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-17 08:13:56+00:00
-draft: false
-title: Evolución histórica de la deuda del ayuntamiento de Madrid
-
-url: /2016/06/17/evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid/
 categories:
 - números
 - r
+date: 2016-06-17 08:13:56+00:00
+draft: false
+lastmod: '2025-04-06T18:50:46.216035'
+related:
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 tags:
 - datos abiertos
 - datos públicos
 - ggplot2
 - números
+title: Evolución histórica de la deuda del ayuntamiento de Madrid
+url: /2016/06/17/evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid/
 ---
 
 Una de las cosas de las que me acuerdo de cuando leía es un parrafito de _Mi idolatrado hijo Sisí_ en el que Delibes ponía en la boca no sé si de alguno de sus protagonistas o del narrador en el que se daba cuenta de la anormalidad histórica que supuso el tiempo de la II República: de repente, la gente hacía cosas que nunca había hecho y que nunca había vuelto a hacer: hablar a todas horas y con todo el mundo de política. La política entraba en los círculos de amigos, en la sobremesa de las familias, etc.

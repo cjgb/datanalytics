@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-31 08:13:26+00:00
-draft: false
-title: Modelos gráficos probabilísticos en Coursera
-
-url: /2016/10/31/modelos-graficos-probabilisticos-en-coursera/
 categories:
 - probabilidad
+date: 2016-10-31 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:53:16.203556'
+related:
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2016-09-29-curso-de-modelos-graficos-probabilisticos-en-coursera.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2016-09-19-un-curso-de-15-horas-de-introduccion-a-la-programacion.md
+- 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md
 tags:
 - coursera
 - cursos
 - modelos gráficos
 - probabilidad
+title: Modelos gráficos probabilísticos en Coursera
+url: /2016/10/31/modelos-graficos-probabilisticos-en-coursera/
 ---
 
 Acabo de terminar el primero de los [tres cursos sobre modelos gráficos probabilísticos de Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models).

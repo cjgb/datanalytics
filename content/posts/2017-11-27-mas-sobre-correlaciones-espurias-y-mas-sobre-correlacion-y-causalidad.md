@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-27 08:13:17+00:00
-draft: false
-title: Más sobre correlaciones espurias y más sobre correlación y causalidad
-
-url: /2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/
 categories:
 - estadística
+date: 2017-11-27 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T19:11:53.817555'
+related:
+- 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
+- 2024-10-08-cortos-stats.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2011-04-20-causalidad-o-asociacion-indicios-de-la-primera.md
+- 2025-03-11-cortos-causalidad.md
 tags:
 - causalidad
 - contaminación
@@ -14,6 +18,8 @@ tags:
 - eldiario
 - madrid
 - prensa
+title: Más sobre correlaciones espurias y más sobre correlación y causalidad
+url: /2017/11/27/mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad/
 ---
 
 Hoy toca esto:

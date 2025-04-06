@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-03 08:13:23+00:00
-draft: false
-title: '"Intervalos" de confianza creativos que excluyen el 0'
-
-url: /2017/11/03/intervalos-de-confianza-creativos-que-excluyen-el-0/
 categories:
 - estadística
+date: 2017-11-03 08:13:23+00:00
+draft: false
+lastmod: '2025-04-06T18:56:52.494529'
+related:
+- 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md
+- 2020-02-18-la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95.md
+- 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
 tags:
 - estadística
 - intervalo de confianza
+title: '"Intervalos" de confianza creativos que excluyen el 0'
+url: /2017/11/03/intervalos-de-confianza-creativos-que-excluyen-el-0/
 ---
 
 Es el de `b`:

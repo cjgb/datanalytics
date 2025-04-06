@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-18 08:13:47+00:00
-draft: false
-title: Zu den Sachen selbst
-
-url: /2017/04/18/zu-den-sachen-selbst/
 categories:
 - números
+date: 2017-04-18 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T19:06:55.098388'
+related:
+- 2012-10-30-cultura-numerica-incultura-numerica.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2018-06-07-posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori.md
+- 2023-10-03-muestreo-superricos.md
+- 2013-01-23-mapa-mental-de-mi-primera-clase-del-semestre.md
 tags:
 - números
 - bulos
+title: Zu den Sachen selbst
+url: /2017/04/18/zu-den-sachen-selbst/
 ---
 
 Circulan _verdades alternativas_, _postverdades_. Se caracterizan (atributo que comparten con muchas _verdades_) por su carácter secundario.

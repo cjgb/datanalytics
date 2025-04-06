@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-07 07:51:04+00:00
-draft: false
-title: 'Esperanzador no: varianzador'
-
-url: /2012/03/07/esperanzador-no-varianzador/
 categories:
 - estadística
 - números
 - r
+date: 2012-03-07 07:51:04+00:00
+draft: false
+lastmod: '2025-04-06T19:02:01.374323'
+related:
+- 2014-12-10-hubo-alguna-vez-un-millon-de-palentinas.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
 tags:
 - estadística
 - estadística pública
 - ine
 - r
+title: 'Esperanzador no: varianzador'
+url: /2012/03/07/esperanzador-no-varianzador/
 ---
 
 Que conste que soy un partidario de los adjetivos. Supongo que por sentimentalismo. Me caen simpáticos excepto

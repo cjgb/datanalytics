@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-12 08:13:30+00:00
-draft: false
-title: Goodhart, Lucas y todas esas cosas
-
-url: /2018/11/12/goodhart-lucas-y-todas-esas-cosas/
 categories:
 - estadística
+date: 2018-11-12 08:13:30+00:00
+draft: false
+lastmod: '2025-04-06T19:10:35.013458'
+related:
+- 2022-04-05-intervenciones-buenistas.md
+- 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md
+- 2022-05-05-individualismo-metodologico.md
+- 2012-04-19-variables-instrumentales-con-r.md
+- 2011-10-13-causalidad-y-metodo-cientifico-en-el-pais.md
 tags:
 - causalidad
 - correlación
 - econometría
 - goodhart
 - lucas
+title: Goodhart, Lucas y todas esas cosas
+url: /2018/11/12/goodhart-lucas-y-todas-esas-cosas/
 ---
 
 Como me da vergüenza que una búsqueda de Goodhart en mi blog no dé resultados, allá voy. Lo de Goodhart, independientemente de lo que os hayan contado, tiene que ver con

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-27 08:13:56+00:00
-draft: false
-title: R es un vago
-
-url: /2016/06/27/r-es-un-vago/
 categories:
 - programación
 - r
+date: 2016-06-27 08:13:56+00:00
+draft: false
+lastmod: '2025-04-06T19:09:58.288379'
+related:
+- 2017-03-16-todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion.md
+- 2020-01-21-de-texto-a-funcion.md
+- 2015-02-11-recurrencia-recurrente.md
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
 tags:
 - programación
 - r
 - trucos
 - lazy evaluation
+title: R es un vago
+url: /2016/06/27/r-es-un-vago/
 ---
 
 Si creo la función

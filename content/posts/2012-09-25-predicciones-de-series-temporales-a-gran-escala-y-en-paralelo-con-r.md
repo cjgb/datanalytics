@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-25 07:50:49+00:00
-draft: false
-title: Predicciones de series temporales a gran escala y en paralelo con R
-
-url: /2012/09/25/predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r/
 categories:
 - programación
 - r
+date: 2012-09-25 07:50:49+00:00
+draft: false
+lastmod: '2025-04-06T18:59:45.419324'
+related:
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2014-05-15-r-en-paralelo.md
+- 2014-06-06-validacion-cruzada-en-paralelo.md
+- 2014-12-03-paralelizacion-en-r-con-snow.md
+- 2016-11-04-r-en-paralelo-pero-ahora-con-futuros.md
 tags:
 - programación
 - google
 - mapreduce
 - r
 - series temporales
+title: Predicciones de series temporales a gran escala y en paralelo con R
+url: /2012/09/25/predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r/
 ---
 
 En el artículo [Large-Scale Parallel Statistical Forecasting Computations in R](http://research.google.com/pubs/pub37483.html) encontrarán los interesados información sobre cómo está usando Google R para realizar predicciones de series temporales a gran escala usando cálculos en paralelo.

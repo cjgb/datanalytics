@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-05 07:56:43+00:00
-draft: false
-title: Disponible el borrador de la ley de acceso a la información
-
-url: /2011/07/05/disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion/
 categories:
 - números
+date: 2011-07-05 07:56:43+00:00
+draft: false
+lastmod: '2025-04-06T18:51:13.193186'
+related:
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2016-05-18-transparencia-ley-de-transparencia-y-todas-esas-cosas.md
 tags:
 - números
 - datos públicos
 - datos abiertos
+title: Disponible el borrador de la ley de acceso a la información
+url: /2011/07/05/disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion/
 ---
 
 Ha sido publicado recientemente un borrador de lo que pudiera convertirse en la futura [Ley de Transparencia española](http://www.access-info.org/documents/Access_Docs/Advancing/Spain/Espana_Anteproyecto_Ley_Transparencia.pdf). Quiere esta ley regular las obligaciones de las administraciones públicas en lo concerniente a la difusión de los datos que obran en su poder y no tiene desperdicio su exposición de motivos, que comienza así:

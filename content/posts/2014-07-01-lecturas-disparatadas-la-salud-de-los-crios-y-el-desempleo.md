@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-01 07:00:55+00:00
-draft: false
-title: 'Lecturas disparatadas: la salud de los críos y el desempleo'
-
-url: /2014/07/01/lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo/
 categories:
 - estadística
+date: 2014-07-01 07:00:55+00:00
+draft: false
+lastmod: '2025-04-06T18:44:56.937908'
+related:
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2011-02-25-1605.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2018-03-21-a-mayor-efecto-sobre-todo-si-es-novedoso-mayor-escepticismo.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - econometría
 - estadística
+title: 'Lecturas disparatadas: la salud de los críos y el desempleo'
+url: /2014/07/01/lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo/
 ---
 
 Hay gente que en lugar de escribir cosas debería invertir su tiempo en leer [otras](http://www.datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/). Pero como

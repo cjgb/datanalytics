@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-09 09:13:00+00:00
-draft: false
-title: No es tanto sobre la media como sobre la maldición de la multidimensionalidad
-
-url: /2020/11/09/no-es-tanto-sobre-la-media-como-sobre-la-maldicion-de-la-multidimensionalidad/
 categories:
 - ciencia de datos
 - estadística
+date: 2020-11-09 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:28.750592'
+related:
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2023-10-26-bmi.md
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
+- 2015-07-09-son-normales-las-alturas-de-los-individuos.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - media
 - multidimensionalidad
 - quetelet
+title: No es tanto sobre la media como sobre la maldición de la multidimensionalidad
+url: /2020/11/09/no-es-tanto-sobre-la-media-como-sobre-la-maldicion-de-la-multidimensionalidad/
 ---
 
 El artículo que motiva esta entrada, _[When U.S. air force discovered the flaw of averages](https://www.thestar.com/news/insight/2016/01/16/when-us-air-force-discovered-the-flaw-of-averages.html)_, no lo es tanto sobre la media como sobre la maldición de la multidimensionalidad.

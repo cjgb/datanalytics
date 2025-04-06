@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-05-11 08:13:05+00:00
-draft: false
-title: Cosas de Twitter (y encuestas)
-
-url: /2017/05/11/cosas-de-twitter-y-encuestas/
 categories:
 - números
+date: 2017-05-11 08:13:05+00:00
+draft: false
+lastmod: '2025-04-06T18:55:04.032959'
+related:
+- 2016-05-05-encuestas-electorales-medios-y-sesgos-i.md
+- 2016-06-01-alguien-podria-identificar-tirios-y-troyanos.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
+- 2018-05-11-cis-ideologia-graficos-y-si-este-blog.md
 tags:
 - cis
 - encuestas
+title: Cosas de Twitter (y encuestas)
+url: /2017/05/11/cosas-de-twitter-y-encuestas/
 ---
 
 Hoy (día en que escribo, no en que lees) se han publicado los resultados de intención electoral del CIS (los de los barómetros), de cuya cocina ha salido

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-01-05 09:13:00+00:00
-draft: false
-title: 'Mis prioris sobre la vacuna: ¿por qué estarían tan desviadas?'
-
-url: /2021/01/05/mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas/
 categories:
 - varios
+date: 2021-01-05 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:05:13.149474'
+related:
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
+- 2021-09-24-en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran.md
+- 2021-12-02-por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid.md
+- 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
+- 2012-03-12-estrenos-con-ecos-estadisticos-ii-contagio.md
 tags:
 - covid
 - priori
 - vacuna
+title: 'Mis prioris sobre la vacuna: ¿por qué estarían tan desviadas?'
+url: /2021/01/05/mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas/
 ---
 
 **I.**
@@ -64,6 +70,3 @@ Lo que aparentemente sucede, sin embargo, es que no paran de aparecer vacunas, a
 
 
 He encontrado relatos sobre las vacunas y su desarrollo que sí, efectivamente tratan sobre ella. Pero apenas ninguno que explique y me ayude a comprender la gran brecha existente entre mis _prioris_ originales y lo que le hacen leer a mis mismos ojos.
-
-
-

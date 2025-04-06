@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-10-07 09:13:11+00:00
-draft: false
-title: ¿Una versión intuitiva del problema de Monty Hall?
-
-url: /2019/10/07/una-version-intuitiva-del-problema-de-monty-hall/
 categories:
 - probabilidad
+date: 2019-10-07 09:13:11+00:00
+draft: false
+lastmod: '2025-04-06T18:58:45.273227'
+related:
+- 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md
+- 2021-10-28-monty-hall-reformulado.md
+- 2015-02-19-decisiones-a-ojo-de-buen-cubero.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2025-02-06-monty-hall.md
 tags:
 - monty hall
 - sicología
+title: ¿Una versión intuitiva del problema de Monty Hall?
+url: /2019/10/07/una-version-intuitiva-del-problema-de-monty-hall/
 ---
 
 Creo que es innecesario hacer las presentaciones con el [problema de Monty Hall](https://es.wikipedia.org/wiki/Problema_de_Monty_Hall). Me limitaré a decir que es tremendamente antiintuitivo y que, de hecho, siguen publicándose artículos sobre _trucos mentales_ para evitar que la gente _caiga_, como, p.e., _[The Psychology of the Monty Hall Problem: Discovering Psychological Mechanisms for Solving a Tenacious Brain Teaser](http://usd-apps.usd.edu/xtwanglab/Papers/MontyHallPaper.pdf)_. Discuten, claro está, todo lo que tiene que ver con las _frecuencias naturales_, etc.

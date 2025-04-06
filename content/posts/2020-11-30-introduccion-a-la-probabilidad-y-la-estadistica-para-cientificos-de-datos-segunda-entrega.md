@@ -1,21 +1,27 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-30 09:13:00+00:00
-draft: false
-title: '"Introducción a la probabilidad y la estadística para científicos de datos":
-  segunda entrega'
-
-url: /2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/
 categories:
 - anuncio
 - estadística
 - libros
+date: 2020-11-30 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:09:32.220273'
+related:
+- 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
+- 2021-01-14-mas-capitulos-del-libro-de-estadistica-y-otras-cosas-y-proyectos-para-2021.md
+- 2017-11-10-estadisticas-y-el-dedo-de-dios.md
+- 2020-01-27-estadistica-basica-edulcorada.md
+- 2011-01-19-dos-mapas-de-distribuciones-de-probabilidad.md
 tags:
 - densidad
 - estadística
 - histograma
 - libros
 - probabilidad
+title: '"Introducción a la probabilidad y la estadística para científicos de datos":
+  segunda entrega'
+url: /2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/
 ---
 
 Acabo de [subir](https://datanalytics.com/libro_estadistica/):

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-10 09:25:23+00:00
-draft: false
-title: R, HDF5 y bases de datos orientadas a columnas
-
-url: /2011/03/10/r-hdf5-y-bases-de-datos-orientadas-a-columnas/
 categories:
 - r
+date: 2011-03-10 09:25:23+00:00
+draft: false
+lastmod: '2025-04-06T19:12:22.428668'
+related:
+- 2011-04-07-nueva-version-de-paquete-colbycol.md
+- 2011-03-04-1680.md
+- 2013-07-10-mi-definicion-de-big-data.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2011-09-28-datos-grandes-colas-largas.md
 tags:
 - r
 - paquetes
 - hdf5
+title: R, HDF5 y bases de datos orientadas a columnas
+url: /2011/03/10/r-hdf5-y-bases-de-datos-orientadas-a-columnas/
 ---
 
 Tras escribir el otro día sobre [RevoscaleR](http://www.datanalytics.com/2011/03/04/1680/), he tropezado con [un paquete de R, HDF5](http://cran.r-project.org/web/packages/hdf5/index.html) que le permite hacer cosas parecidas usando tecnologías libres. Puede encontrarse más información sobre HDF5 [en la Wikipedia](http://en.wikipedia.org/wiki/Hierarchical_Data_Format) y en la [página del proyecto](http://www.hdfgroup.org/HDF5/whatishdf5.html).

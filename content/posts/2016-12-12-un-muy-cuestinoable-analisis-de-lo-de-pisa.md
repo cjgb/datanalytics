@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-12-12 08:13:00+00:00
-draft: false
-title: Un muy cuestionable análisis de lo de PISA
-
-url: /2016/12/12/un-muy-cuestinoable-analisis-de-lo-de-pisa/
 categories:
 - estadística
 - r
+date: 2016-12-12 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:47:07.044194'
+related:
+- 2014-04-23-demasiado-simple.md
+- 2024-01-09-regresiones_pisa.md
+- 2023-01-26-educacion-tabarrok.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
 tags:
 - educación
 - lmer
 - pisa
 - r
+title: Un muy cuestionable análisis de lo de PISA
+url: /2016/12/12/un-muy-cuestinoable-analisis-de-lo-de-pisa/
 ---
 
 Voy a realizar un más que cuestionable (debajo desgranaré los _caveats_) de los resultados de las pruebas PISA del 2015 en España.

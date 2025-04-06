@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-07-19 08:13:13+00:00
-draft: false
-title: Que no, que es imposible esconder medio millón de muertos (y que la cordialidad
-  está de más)
-
-url: /2018/07/19/que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas/
 categories:
 - estadística
 - números
+date: 2018-07-19 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T18:51:33.794533'
+related:
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2018-02-22-mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - artículos
 - mortalidad
+title: Que no, que es imposible esconder medio millón de muertos (y que la cordialidad
+  está de más)
+url: /2018/07/19/que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas/
 ---
 
 Esta entrada viene a cuento de esta entrada, [_Cuidado con los estudios científicos que dicen cosas raras, raras_](http://www.malaprensa.com/2018/07/cuidado-con-los-estudios-cientificos.html) en Malaprensa. Que hay que leer para entender lo que sigue.

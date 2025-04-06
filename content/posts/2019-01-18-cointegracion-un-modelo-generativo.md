@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-18 08:13:51+00:00
-draft: false
-title: 'Cointegración: un modelo generativo'
-
-url: /2019/01/18/cointegracion-un-modelo-generativo/
 categories:
 - estadística
+date: 2019-01-18 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T18:46:22.674905'
+related:
+- 2018-11-16-colinealidad-y-posterioris.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
+- 2020-09-08-mas-sobre-variables-instrumentales-con-r.md
+- 2019-05-31-modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - cointegración
 - series temporales
 - stan
+title: 'Cointegración: un modelo generativo'
+url: /2019/01/18/cointegracion-un-modelo-generativo/
 ---
 
 _[Esta entrada tiene que ver con una nueva manía que he adquirido con la edad: construir modelos generativos para esos modelos explicados siempre de una manera sumamente críptica.]_

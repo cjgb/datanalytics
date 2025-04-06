@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-12-26 07:10:39+00:00
-draft: false
-title: Muestreos aleatorios sobre la península Ibérica, por ejemplo
-
-url: /2013/12/26/muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo/
 categories:
 - probabilidad
 - r
+date: 2013-12-26 07:10:39+00:00
+draft: false
+lastmod: '2025-04-06T19:09:01.671553'
+related:
+- 2013-12-10-te-queda-lejos-el-aeropuerto.md
+- 2024-03-12-dorling-cartograms.md
+- 2022-01-02-por-que-vivimos-espanoles-tanta-altitud.md
+- 2012-01-17-muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
 tags:
 - gráficos
 - mapas
 - probabilidad
 - r
+title: Muestreos aleatorios sobre la península Ibérica, por ejemplo
+url: /2013/12/26/muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo/
 ---
 
 El problema fue sugerido por Eloy Ortiz en [un mensaje a r-help-es](https://stat.ethz.ch/pipermail/r-help-es/attachments/20131222/38c76ad8/attachment.pl). Quería saber cómo muestrear aleatoriamente (i.e., uniformemente) puntos sobre una región de la superficie terrestre delimitada por su _bounding box_ (i.e., las coordenadas que definen un _rectángulo_ sobre la esfera).
@@ -51,4 +57,3 @@ plot(lon.sample, lat.sample)
 {{< / highlight >}}
 
 Y sí, sé que debería pintar esos puntos sobre un mapa, etc., pero...
-

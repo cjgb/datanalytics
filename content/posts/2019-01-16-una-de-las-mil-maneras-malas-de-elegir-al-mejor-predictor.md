@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-16 08:13:36+00:00
-draft: false
-title: Una de las mil maneras malas de elegir al mejor predictor
-
-url: /2019/01/16/una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor/
 categories:
 - estadística
+date: 2019-01-16 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:12:38.868076'
+related:
+- 2019-01-17-mejores-predictores-un-ejemplo-el-de-brier.md
+- 2019-01-15-quien-sera-el-mejor-predictor-como-se-podra-medir.md
+- 2022-02-17-examenes-probabilisticos.md
+- 2024-12-19-promediar-predicciones.md
+- 2019-01-21-scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal.md
 tags:
 - predicción
 - scorings
+title: Una de las mil maneras malas de elegir al mejor predictor
+url: /2019/01/16/una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor/
 ---
 
 El contexto, [ayer](https://www.datanalytics.com/2019/01/15/quien-sera-el-mejor-predictor-como-se-podra-medir/).

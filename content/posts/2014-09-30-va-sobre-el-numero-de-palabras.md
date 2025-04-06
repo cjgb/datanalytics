@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-30 07:13:05+00:00
-draft: false
-title: Va sobre el número de palabras
-
-url: /2014/09/30/va-sobre-el-numero-de-palabras/
 categories:
 - números
+date: 2014-09-30 07:13:05+00:00
+draft: false
+lastmod: '2025-04-06T18:58:06.662878'
+related:
+- 2012-10-18-algunos-graficos-de-informacion-bursatil.md
+- 2022-07-28-temas-nadaesgratis.md
+- 2018-01-29-donde-estan-las-letras.md
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2011-09-09-treemaps-en-r.md
 tags:
 - finanzas
 - números
 - palabras
 - nlp
+title: Va sobre el número de palabras
+url: /2014/09/30/va-sobre-el-numero-de-palabras/
 ---
 
 Trataré de usar pocas hoy. El otro día vi

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-24 07:47:56+00:00
-draft: false
-title: 'Aventuras de "web scraping": cómo bajarse todo el BOE'
-
-url: /2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/
 categories:
 - r
+date: 2014-04-24 07:47:56+00:00
+draft: false
+lastmod: '2025-04-06T19:11:00.751220'
+related:
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2016-05-20-descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
+- 2014-11-12-descargar-ficheros-gz-detras-de-https-con-r.md
+- 2014-04-30-embalses-en-espana-otro-ejercicio-inconcluso-de-web-scraping.md
 tags:
 - boe
 - r
 - webscraping
+title: 'Aventuras de "web scraping": cómo bajarse todo el BOE'
+url: /2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/
 ---
 
 Rescato aquí para futura o ajena referencia un pedazo de código que utilicé un día para un proyecto que se abortó y que tenía que ver con el análisis del texto del BOE. Reza así:

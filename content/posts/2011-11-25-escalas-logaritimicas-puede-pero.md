@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-25 07:01:42+00:00
-draft: false
-title: ¿Escalas logarítimicas? Puede, pero...
-
-url: /2011/11/25/escalas-logaritimicas-puede-pero/
 categories:
 - gráficos
+date: 2011-11-25 07:01:42+00:00
+draft: false
+lastmod: '2025-04-06T19:01:46.310427'
+related:
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2011-01-31-un-grafico-enganabobos.md
 tags:
 - gráficos
 - logaritmo
 - ejes
+title: ¿Escalas logarítimicas? Puede, pero...
+url: /2011/11/25/escalas-logaritimicas-puede-pero/
 ---
 
 Encontré el otro día una [entrada en la bitácora de Bissantz](http://blog.bissantz.com/linear-vs-logarithmic-scales), una empresa alemana de herramientas de visualización y minería de datos que trataba sobre las ventajas y desventajas del uso de escalas lineales y logarítmicas en cierto tipo de gráficos. Y los ilustraba con un ejemplo que me hizo pensar si no habría _algo más_.
@@ -32,5 +38,3 @@ Pero pienso, además, ¿es el uso de la escala logarítmica en sí la que soluci
 Creo que la medida relevante para mostrar en el gráfico no son tanto los dólares nominales (de PIB y de deuda) como los dólares constantes o, incluso, los dólares constantes por estadounidense. Como tanto la pérdida de valor del dinero como la evolución de la población son (aproximadamente) exponenciales, la escala logarítmica corrige en gran medida el efecto distorsionador de la extrema diacronía de los datos. Pero no deja de ser una aproximación a la solución _correcta_.
 
 Pero puestos a corregir, pienso yo, bien habría valido la pena aplicar los multiplicadores correspondientes para que las magnitudes resultasen comparablesa lo largo del tiempo .
-
-

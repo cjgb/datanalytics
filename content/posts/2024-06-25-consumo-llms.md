@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-06-25
-title: 'Pero, ¿cuánto consumen los LLMs?'
-url: /2024/06/25/consumo-llms
 categories:
 - llms
+date: 2024-06-25
+lastmod: '2025-04-06T19:03:37.508188'
+related:
+- 2025-01-21-cortos-llms.md
+- 2022-05-19-algunos-numeros-cambio-climatico.md
+- 2024-03-21-cortos.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2012-03-01-como-poner-una-lavadora.md
 tags:
 - llms
 - energía
 - cambio climático
+title: Pero, ¿cuánto consumen los LLMs?
+url: /2024/06/25/consumo-llms
 ---
 
 ### I.
@@ -52,4 +59,3 @@ Esto no es decir que el negocio de la inferencia consumirá poco. De hecho, cuan
 ### IV.
 
 Puede que los LLMs traigan consigo una serie de problemas, los conocidos y los por conocer. Pero, desde luego, el consumo de energía no parece ser uno de de ellos. Solo, tal vez, en mentes anuméricas.
-

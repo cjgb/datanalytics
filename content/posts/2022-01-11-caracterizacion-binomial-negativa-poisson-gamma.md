@@ -1,17 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-11
-title: La (mejor) caracterización de la binomial negativa (en términos de la Poisson y la gamma)
-
-url: /2022/01/11/caracterizacion-binomial-negativa-poisson-gamma/
 categories:
 - estadística
+date: 2022-01-11
+lastmod: '2025-04-06T18:51:32.464062'
+related:
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2011-08-21-comparacion-de-variables-aleatorias-de-poisson.md
 tags:
 - distribuciones
 - binomial negativa
 - poisson
 - gamma
 - mezclas
+title: La (mejor) caracterización de la binomial negativa (en términos de la Poisson
+  y la gamma)
+url: /2022/01/11/caracterizacion-binomial-negativa-poisson-gamma/
 ---
 
 Estamos acostumbrados a la caracterización habitual de la distribución binomial negativa como el aburrido número de _fracasos_ en una serie de ensayos de Bernoulli hasta lograr $r$ _éxitos_. Esto, junto con un poco de matemáticas de primero de BUP ---todo aquello de combinaciones, etc.--- lleva a la expresión conocida de su función de probabilidad,
@@ -38,4 +45,3 @@ Pero se da la circunstancia de que si esa distribución desconocida es gamma, en
 En definitiva, la distribución binomial positiva es una mezcla de distribuciones de Poisson cuando su parámetro sigue una distribución gamma. O en lo que se convierte la distribución de Poisson cuando hay incertidumbre ---y esa incertidumbre tiene una forma concreta--- acerca de su parámetro. Lo cual tiene, obviamente, una interpretación bayesiana: la distribución binomial negativa es la posteriori asociada a la Poisson con una priori gamma.
 
 Un buen motivo, pues, para usar la binomial negativa en modelos de conteos y trascender así las limitaciones de la distribución de Poisson.
-

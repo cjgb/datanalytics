@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-01 08:13:44+00:00
-draft: false
-title: Acerca del CIS y la cocina
-
-url: /2018/10/01/acerca-del-cis-y-la-cocina/
 categories:
 - números
+date: 2018-10-01 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T18:49:21.639660'
+related:
+- 2020-11-18-la-cocina-para-anumeristas-y-conspiranoicos.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2022-03-15-infraestimacion-error-encuestas.md
+- 2016-09-26-encuestas-electorales-una-propuesta.md
 tags:
 - cis
 - cocina
 - encuestas
 - estadística pública
 - sociología
+title: Acerca del CIS y la cocina
+url: /2018/10/01/acerca-del-cis-y-la-cocina/
 ---
 
 Escribo hoy acerca del CIS y la cocina de la intención de voto. Lo hago desde la ignorancia informada en esos temas y sin pretensión alguna de ser o parecer más listo que otros.

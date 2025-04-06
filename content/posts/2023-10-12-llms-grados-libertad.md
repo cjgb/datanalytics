@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-10-12
-title: 'LLMs: grados de libertad en la generación de texto'
-
-url: /2023/10/12/llms-grados-libertad
 categories:
 - ciencia de datos
+date: 2023-10-12
+lastmod: '2025-04-06T18:58:01.404827'
+related:
+- 2023-10-05-llms-historia.md
+- 2023-10-19-errores-chatgpt.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2024-03-21-cortos.md
 tags:
 - ciencia de datos
 - llms
 - nlp
+title: 'LLMs: grados de libertad en la generación de texto'
+url: /2023/10/12/llms-grados-libertad
 ---
 
 Me he entretenido _dibujando_

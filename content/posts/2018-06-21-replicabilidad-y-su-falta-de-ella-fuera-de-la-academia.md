@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-06-21 08:13:56+00:00
-draft: false
-title: Replicabilidad (y su falta de ella, fuera de la academia)
-
-url: /2018/06/21/replicabilidad-y-su-falta-de-ella-fuera-de-la-academia/
 categories:
 - consultoría
+date: 2018-06-21 08:13:56+00:00
+draft: false
+lastmod: '2025-04-06T19:09:18.085691'
+related:
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2024-07-03-cortos-stats.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2022-04-05-intervenciones-buenistas.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
 - consultoría
 - replicabilidad
 - reproducibilidad
+title: Replicabilidad (y su falta de ella, fuera de la academia)
+url: /2018/06/21/replicabilidad-y-su-falta-de-ella-fuera-de-la-academia/
 ---
 
 Se habla mucho de replicabilidad (y la falta de ella) como indicio de una crisis en ese complejo de intereses económicos, de poder y, en ocasiones, fornicatorios en que ha devenido la ciencia. Pero qué más nos da que se publique un artículo más o un artículo menos o que una ocurrencia irrelevante, gracias a un sinfín de artefactos propios de la industria de la salchicha, sea cohonestada con un p-valor menor o mayor que 0.05. Qué más da.

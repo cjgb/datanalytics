@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-03-14 00:00:00
-title: 'El "precio medio de la electricidad" no es el precio medio de la electricidad'
-url: /2024/3/14/precio-medio-electricidad
 categories:
 - números
+date: 2024-03-14 00:00:00
+lastmod: '2025-04-06T19:02:22.224256'
+related:
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2014-04-16-menos-econometria-y-mas-precioestatos.md
+- 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
+- 2019-09-18-mi-consumo-de-electricidad-hora-a-hora.md
 tags:
 - mercado eléctrico
 - media
+title: El "precio medio de la electricidad" no es el precio medio de la electricidad
+url: /2024/3/14/precio-medio-electricidad
 ---
 
 Por ahí se ven cosas como esta:

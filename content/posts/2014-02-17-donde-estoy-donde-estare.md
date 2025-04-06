@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-17 07:47:33+00:00
-draft: false
-title: ¿Dónde estoy? ¿Dónde estaré?
-
-url: /2014/02/17/donde-estoy-donde-estare/
 categories:
 - números
+date: 2014-02-17 07:47:33+00:00
+draft: false
+lastmod: '2025-04-06T18:59:30.737420'
+related:
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2011-11-03-2872.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
+- 2014-07-22-ni-nis-y-estados-transitorios.md
 tags:
 - demografía
 - epa
 - números
 - emigración
+title: ¿Dónde estoy? ¿Dónde estaré?
+url: /2014/02/17/donde-estoy-donde-estare/
 ---
 
 Me hace cierta gracia leer [_España: El éxodo en cifras. Desaparecen 1,7 millones de personas entre los 16 y los 39 años_](http://www.gurusblog.com/archives/espana-el-exodo-en-cifras-epa/23/01/2014/). El artículo razona alrededor de la tabla
@@ -50,10 +56,3 @@ Así que no todos estamos en Zúrich. Algunos, simplemente, no somos fantasmas d
 * Las cifras de mis tablas se refieren a población absoluta, no activa, que es un subconjunto de aquella. Simplemente indican cómo evoluciona el total de las que estas forman parte.
 * Estas cifras tampoco tienen en cuenta otros factores como la emigración/inmigración, la mortandad, etc.
 * El objeto de esta entrada, por las consideraciones anteriores, se limita a apuntar otra causa (que, además, estimo importante) para explicar el comportamiento de las cifras en la tabla original. Soy consciente de que el fenómeno es el resultado de estos y otros factores.
-
-
-
-
-
-
-

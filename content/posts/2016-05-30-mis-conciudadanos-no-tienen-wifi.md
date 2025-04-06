@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-30 08:13:01+00:00
-draft: false
-title: ¿Mis conciudadanos no tienen wifi?
-
-url: /2016/05/30/mis-conciudadanos-no-tienen-wifi/
 categories:
 - r
+date: 2016-05-30 08:13:01+00:00
+draft: false
+lastmod: '2025-04-06T18:55:08.985443'
+related:
+- 2015-01-08-tres-libros-mas-una-biblioteca-menos.md
+- 2017-03-21-asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion.md
+- 2019-06-04-feria-del-libro-2019.md
+- 2010-12-22-mahoma-su-proverbial-montana-y-la-wikipedia.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
 tags:
 - bibliotecas
 - nlp
 - r
 - tm
 - wordcloud
+title: ¿Mis conciudadanos no tienen wifi?
+url: /2016/05/30/mis-conciudadanos-no-tienen-wifi/
 ---
 
 A alguien leí el otro día que decía que en un bar de carretera habían colocado un cartel diciendo: "Hemos quitado el periódico y hemos puesto wifi". Viene esto a cuento de

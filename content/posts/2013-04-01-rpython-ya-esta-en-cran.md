@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-01 07:08:19+00:00
-draft: false
-title: rPython ya está en CRAN
-
-url: /2013/04/01/rpython-ya-esta-en-cran/
 categories:
 - r
+date: 2013-04-01 07:08:19+00:00
+draft: false
+lastmod: '2025-04-06T19:10:33.452959'
+related:
+- 2013-11-20-rpython-ya-en-windows.md
+- 2011-05-24-se-buscan-alpha-testers-para-rpython.md
+- 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md
+- 2015-01-02-publicada-una-nueva-version-de-rpython-win.md
+- 2015-12-11-pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython.md
 tags:
 - python
 - r
 - rpython
+title: rPython ya está en CRAN
+url: /2013/04/01/rpython-ya-esta-en-cran/
 ---
 
 Después de bastante trabajo, [rPython](http://cran.r-project.org/web/packages/rPython/) ya está disponible en CRAN, ya es un paquete _oficial_ de R.

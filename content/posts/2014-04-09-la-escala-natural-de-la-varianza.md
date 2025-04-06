@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-09 07:43:12+00:00
-draft: false
-title: La escala natural de la varianza
-
-url: /2014/04/09/la-escala-natural-de-la-varianza/
 categories:
 - estadística
+date: 2014-04-09 07:43:12+00:00
+draft: false
+lastmod: '2025-04-06T19:09:11.716759'
+related:
+- 2014-04-22-reponderacion-de-componentes-un-ejemplo.md
+- 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
+- 2011-08-16-una-feliz-conjuncion-estadistico-algebraica-y-ii.md
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
+- 2021-06-01-pca-robusto.md
 tags:
 - componentes principales
 - estadística
 - mfa
 - pca
+title: La escala natural de la varianza
+url: /2014/04/09/la-escala-natural-de-la-varianza/
 ---
 
 Supongo que lo que voy a contar hoy es conocido de muchos de mis lectores. Desafortunadamente, uno tropieza con más frecuencia de lo deseable con quienes no lo son. (Eso sí, uno de los mayores placeres de esta vida es coincidir con alguien que te reconoce y te dice: "¿tú tienes un blog que se llama datanalytics, ¿verdad?"; pero esa es otra historia).

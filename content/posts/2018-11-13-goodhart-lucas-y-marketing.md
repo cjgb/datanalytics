@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-13 08:13:46+00:00
-draft: false
-title: Goodhart, Lucas y márketing
-
-url: /2018/11/13/goodhart-lucas-y-marketing/
 categories:
 - consultoría
+date: 2018-11-13 08:13:46+00:00
+draft: false
+lastmod: '2025-04-06T18:45:39.732772'
+related:
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md
+- 2018-11-12-goodhart-lucas-y-todas-esas-cosas.md
+- 2018-03-06-soy-parte-del-concilabulo-heteropatriarcal.md
+- 2019-03-18-las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria.md
 tags:
 - goodhart
 - lucas
 - márketing
+title: Goodhart, Lucas y márketing
+url: /2018/11/13/goodhart-lucas-y-marketing/
 ---
 
 Abundo sobre [lo de ayer](https://www.datanalytics.com/2018/11/12/goodhart-lucas-y-todas-esas-cosas/).

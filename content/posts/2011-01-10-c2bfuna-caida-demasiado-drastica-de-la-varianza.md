@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-10 09:39:18+00:00
-draft: false
-title: ¿Una caída demasiado drástica de la varianza?
-
-url: /2011/01/10/una-caida-demasiado-drastica-de-la-varianza/
 categories:
 - probabilidad
+date: 2011-01-10 09:39:18+00:00
+draft: false
+lastmod: '2025-04-06T18:49:20.316511'
+related:
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2024-12-05-beta-binomial-deriva.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
+- 2022-01-20-peor-pagina-taleb.md
 tags:
 - probabilidad
+title: ¿Una caída demasiado drástica de la varianza?
+url: /2011/01/10/una-caida-demasiado-drastica-de-la-varianza/
 ---
 
 El otro día me pidieron modelar (estadísticamente, no con plastilina) nosequé fenómeno. Digo _nosequé_ porque me lo describieron alegóricamente. No sé si la respuesta que di redundará en beneficio o perjuicio de la humanidad. Pero no quiero hablar de eso sino del problema en sí y de unas cuestiones sobre la varianza asintótica a las que me referiré después. El problema se resume en:

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-27 09:13:56+00:00
-draft: false
-title: 'Internet: la frutería y el sushi bar'
-
-url: /2016/01/27/internet-la-fruteria-y-el-sushi-bar/
 categories:
 - varios
+date: 2016-01-27 09:13:56+00:00
+draft: false
+lastmod: '2025-04-06T19:06:33.853479'
+related:
+- 2010-12-22-mahoma-su-proverbial-montana-y-la-wikipedia.md
+- 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2024-05-14-neutralidad-red.md
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
 tags:
 - internet
+title: 'Internet: la frutería y el sushi bar'
+url: /2016/01/27/internet-la-fruteria-y-el-sushi-bar/
 ---
 
 Internet es en gran medida (y lo fue aún más) una especie de frutería: si quieres manzanas, vas a donde las manzanas; si quieres peras, vas a donde las peras, etc. Esta manera de organizar la información en internet tiene que ver con su sustrato tecnológico: la gente conecta servidores y en ellos coloca información sobre temas diversos. Luego, los buscadores nos ayudan a ubicar aquello en lo que estamos interesados.

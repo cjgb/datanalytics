@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-20 08:13:56+00:00
-draft: false
-title: Banzhaf y las elecciones que se nos vienen
-
-url: /2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/
 categories:
 - estadística
 - números
+date: 2015-05-20 08:13:56+00:00
+draft: false
+lastmod: '2025-04-06T18:59:16.766671'
+related:
+- 2012-04-04-de-dhondt-a-banzhaf.md
+- 2015-12-22-coaliciones-de-banzhaf-en-el-20d.md
+- 2015-12-23-un-poco-mas-sobre-el-indice-de-poder-de-banzhaf.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2012-09-20-como-votan-los-diputados.md
 tags:
 - banzhaf
 - elecciones
 - estadística
 - números
+title: Banzhaf y las elecciones que se nos vienen
+url: /2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/
 ---
 
 Es pertinente rescatar una entrada de hace tres años [sobre D’Hondt y Banzhaf](http://www.datanalytics.com/2012/04/04/de-dhondt-a-banzhaf/). En el enlace, los detalles.
@@ -178,6 +184,3 @@ banzhaf(escannos)
 El número de coaliciones ganadores mínimas es 22, muchas de ellas contranatura (¿aún se puede decir _contranatura_?). Es curioso, además, cómo Ciudadanos, con menos concejales que Bcomun, tiene más _Banzhafpower_. Tiene pinta de _bug_, pero he revisado y creo que el código está bien.
 
 Y espero que no hayas llegado hasta aquí. Porque deberías estar buscando el _qué hay de lo mío_ por entre los programas electorales. Que luego pasarán cosas, te quejarás y habrá sido por tu culpa.
-
-
-

@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-09-05
-title: '(Estadística y fraude electoral) vs (fraude electoral y fraude estadístico)'
-url: /2024/09/05/fraude-electoral-estadistico
 categories:
 - estadística
+date: 2024-09-05
+lastmod: '2025-04-06T18:48:41.525481'
+related:
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2014-11-04-dislexia-probabilistica.md
 tags:
 - mala ciencia
 - fraude
 - elecciones
 - nadaesgratis
+title: (Estadística y fraude electoral) vs (fraude electoral y fraude estadístico)
+url: /2024/09/05/fraude-electoral-estadistico
 ---
 
 Hay un blog que conoció mejores tiempos, lleva varios años en caída libre y estoy por quitar de mi lista de RSS: [NadaEsgratis](https://nadaesgratis.es/). Para aprender de lo que trata hay mejores sitios. Y de lo único que informa, el lastimoso estado de la disciplina en cuestión en España, es agua sobre mojado.

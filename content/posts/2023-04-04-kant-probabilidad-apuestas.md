@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-04-04
-title: 'Kant: probabilidad y apuestas'
-
-url: /2023/04/04/kant-probabilidad-apuestas/
 categories:
 - probabilidad
+date: 2023-04-04
+lastmod: '2025-04-06T19:00:01.080166'
+related:
+- 2022-04-26-redefinicion-probabilidades-subjetivas.md
+- 2020-05-18-como-pensar-en-la-probabilidad-de-un-evento.md
+- 2011-04-27-incertidumbre-juicios-y-sesgos.md
+- 2020-01-07-la-probabilidad-algo-subjetivo.md
+- 2011-03-11-riesgo-e-incertidumbre.md
 tags:
 - historia
 - kant
 - savage
+title: 'Kant: probabilidad y apuestas'
+url: /2023/04/04/kant-probabilidad-apuestas/
 ---
 
 Hace tres años mencioné

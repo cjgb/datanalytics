@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-03-28 00:00:00
-title: '¿Cómo se interpretan los resultados de estas regresiones'
-url: /2024/3/28/interpretacion-regresion
 categories:
 - estadística
+date: 2024-03-28 00:00:00
+lastmod: '2025-04-06T19:02:30.931428'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2024-05-02-falacia-ecologica.md
+- 2024-06-20-mas-r-cuadrado.md
+- 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md
 tags:
 - regresión
 - paradojas
+title: ¿Cómo se interpretan los resultados de estas regresiones
+url: /2024/3/28/interpretacion-regresion
 ---
 
 Esta entrada trata sobre las aparentes contradicciones que surgen cuando se comparan las regresiones $y \sim x$ y $x \sim y$. En particular, [aqui](https://marginalrevolution.com/marginalrevolution/2021/07/a-regression-puzzle.html) se muestran
@@ -60,6 +67,3 @@ como uno quiera; en todos ellos, los puntos sólidos rojos son los _rodgers_.
 Por si alguien no la conoce, enlazo la [discusión de Andrew Gelman](https://statmodeling.stat.columbia.edu/2021/12/13/the-nfl-regression-puzzle-and-my-discussion-of-possible-solutions/) sobre el asunto.
 
 La mía es más o menos así: este ejemplo pone de manifiesto un _bug_ de la regresión lineal que uno puede convertir en _feature_ cuando lo que le interesa es invertir el significado de unos números. Dicho de otra manera, dado que hoy en día está de moda despejar (como en una ecuación) la figura del relator y hacer que sean los propios números los que armen las historias, ese relator oculto entre las bambalinas puede ---no siempre se da la feliz circunstancia, como evidencian los gráficos anteriores--- tener la opción de elegir entre $y \sim x$ o $x \sim y$ para que los corolarios sean del agrado de quien ha de pagarle la nómina.
-
-
-

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-18 09:13:00+00:00
-draft: false
-title: lme4 + simulate
-
-url: /2020/03/18/lme4-simulate/
 categories:
 - estadística
 - r
+date: 2020-03-18 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:55:56.266968'
+related:
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
 tags:
 - estadística
 - lme4
 - r
 - simulación
+title: lme4 + simulate
+url: /2020/03/18/lme4-simulate/
 ---
 
 Esta entrada es casi una referencia para mí. Cada vez _tiro_ más de [`lme4`](https://CRAN.R-project.org/package=lme4) en mis modelos y en uno en concreto que tengo entre manos toca simular escenarios. Para lo cual, [`simulate.merMod`](https://www.rdocumentation.org/packages/lme4/versions/1.1-21/topics/simulate.merMod).
@@ -110,6 +116,3 @@ t(apply(sims.u.true.alt, 1, function(x) c(mean(x), sd(x))))
 En particular, se aprecia cómo las simulaciones asociadas a la última observación, la que tiene el nivel _desconocido_ de `x` `z`, están mucho más próximas a cero.
 
 **Autonota:**  Tengo que revisar por qué la varianza de esta última observación es similar a las que tienen el nivel conocido `a`. Deberían tener una varianza más grande, ¿no?
-
-
-

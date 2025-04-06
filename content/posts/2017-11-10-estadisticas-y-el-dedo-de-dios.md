@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-10 08:13:12+00:00
-draft: false
-title: Estadística(s) y el dedo de Dios
-
-url: /2017/11/10/estadisticas-y-el-dedo-de-dios/
 categories:
 - estadística
+date: 2017-11-10 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T18:52:37.570835'
+related:
+- 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md
+- 2018-04-13-un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios.md
+- 2020-10-20-como-asignar-probabilidades-simetria-y-universalidad.md
+- 2017-02-21-videos-sobre-estadistica-pero-que-conste-esto-no-es-una-recomendacion.md
+- 2021-11-09-nuevo-video-en-youtube-street-fighting-statistics-2-n.md
 tags:
 - estadística
 - histograma
 - probabilidad
+title: Estadística(s) y el dedo de Dios
+url: /2017/11/10/estadisticas-y-el-dedo-de-dios/
 ---
 
 He usado el vídeo

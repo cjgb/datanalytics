@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-10-28 07:51:25+00:00
-draft: false
-title: Contando hexágonos en paralelo
-
-url: /2013/10/28/contando-hexagonos-en-paralelo/
 categories:
 - gráficos
 - r
+date: 2013-10-28 07:51:25+00:00
+draft: false
+lastmod: '2025-04-06T18:59:51.217963'
+related:
+- 2012-05-23-patrones-hexagonales-con-r.md
+- 2016-05-27-coordenadas-polares-por-doquier.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
+- 2015-09-08-voronois-con-distintas-distancias.md
+- 2014-05-12-grid-scala-y-arbolitos.md
 tags:
 - gráficos
 - hexágonos
 - r
+title: Contando hexágonos en paralelo
+url: /2013/10/28/contando-hexagonos-en-paralelo/
 ---
 
 Dicen que para realizar gráficos de dispersión con muchos datos [no es desaconsejable usar celosías hexagonales](http://cran.r-project.org/web/packages/hexbin/vignettes/hexagon_binning.pdf). Por motivos que no vienen al caso, me interesa poder realizarlas en paralelo.

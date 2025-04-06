@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-17 07:13:54+00:00
-draft: false
-title: Facetas para entender, tal vez, la evolución del paro
-
-url: /2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/
 categories:
 - gráficos
 - números
 - r
+date: 2014-07-17 07:13:54+00:00
+draft: false
+lastmod: '2025-04-06T19:11:04.733274'
+related:
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2013-01-24-tu-tasa-de-paro-personal.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2012-03-29-otra-de-huelgas.md
 tags:
 - desempleo
 - epa
@@ -17,6 +21,8 @@ tags:
 - gráficos
 - números
 - pequeños múltiplos
+title: Facetas para entender, tal vez, la evolución del paro
+url: /2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/
 ---
 
 La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas [URLs que tienen pinta de cambiar con cualquier soplo](http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t42/p04/l1/&file=1800001.px&type=pcaxis&L=1) (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los [datos a día de hoy](/uploads/paro_mensual.txt).
@@ -64,5 +70,3 @@ Cada recuadro corresponde a un mes (identificado por su número, obviamente). El
 Se aprecia cómo últimamente estamos volviendo al los entornos de la mediana. Incluso situándonos por debajo de ella puntualmente.
 
 Acabo con una nota técnica para mí: así es como hay que hacer, i.e., usando `geom_hline` para añadir rectas horizontales a las facetas de `ggplot2`.
-
-

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-01 07:13:20+00:00
-draft: false
-title: 'Gráficos e interactividad: una ocasión desaprovechada'
-
-url: /2014/12/01/graficos-e-interactividad-una-ocasion-desaprovechada/
 categories:
 - gráficos
 - números
+date: 2014-12-01 07:13:20+00:00
+draft: false
+lastmod: '2025-04-06T18:50:54.273379'
+related:
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2012-11-12-no-es-pais-para-biplots.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
 tags:
 - gráficos
 - interactividad
 - mapas
+title: 'Gráficos e interactividad: una ocasión desaprovechada'
+url: /2014/12/01/graficos-e-interactividad-una-ocasion-desaprovechada/
 ---
 
 Cuando los gráficos son estáticos, los compromisos mandan. ¿Mostramos las diferencias relativas? ¿O las magnitudes absolutas? Ocurre casi indefectiblemente que cuando uno opta por una opción siempre alguien en la audiencia levanta el dedo y sugiere la alternativa. ¿Mostramos ambas a la vez? Entonces abusamos de la usualmente limitada _superficie construible_ de nuestro informe y, además, violentamos ese principio de que _lo bué, si bré, dos ve bué_.

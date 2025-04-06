@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-16 09:13:57+00:00
-draft: false
-title: ¿Cómo era el regulador en 1973?
-
-url: /2016/03/16/como-era-el-regulador-en-1973/
 categories:
 - estadística
+date: 2016-03-16 09:13:57+00:00
+draft: false
+lastmod: '2025-04-06T18:48:42.945666'
+related:
+- 2021-04-27-un-articulo-muy-poco-bde-del-bde.md
+- 2024-06-12-cortos.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 tags:
 - glm
 - regulación
+title: ¿Cómo era el regulador en 1973?
+url: /2016/03/16/como-era-el-regulador-en-1973/
 ---
 
 Estos días he estado haciendo de campaña promoviendo el uso de nuevas técnicas de análisis de datos en ámbitos como, p.e., el riesgo de crédito, uno de esos campos sujetos al parecer de un regulador (el Banco de España, en este caso).

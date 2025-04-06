@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-16
-draft: false
-title: Hoy, y sin que sirva de precedente, voy a hablar de economía y política
-
-url: /2023/11/16/coaliciones-economia-politica/
 categories:
 - varios
+date: 2023-11-16
+draft: false
+lastmod: '2025-04-06T19:03:57.932296'
+related:
+- 2013-01-22-son-sostenibles-las-pensiones-en-el-largo-plazo.md
+- 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md
+- 2024-10-03-ergodicidad.md
+- 2012-04-04-de-dhondt-a-banzhaf.md
+- 2011-02-25-1605.md
 tags:
 - varios
 - economía
 - política
+title: Hoy, y sin que sirva de precedente, voy a hablar de economía y política
+url: /2023/11/16/coaliciones-economia-politica/
 ---
 
 Aunque, por supuesto, en términos abstractos y con, a lo más, una muy tenue relación con hechos de la más rabiosa actualidad en la fecha en que esto se redacta.

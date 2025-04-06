@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-10 08:13:49+00:00
-draft: false
-title: Repensando la codificación por impacto
-
-url: /2017/01/10/repensando-la-codificacion-por-impacto/
 categories:
 - r
+date: 2017-01-10 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T18:54:31.077909'
+related:
+- 2013-11-06-importancia-de-variables-en-arboles.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2019-02-18-9857.md
+- 2020-03-16-interacciones-y-seleccion-de-modelos.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
 tags:
 - árboles de decisión
 - ciencia de datos
 - ctree
 - party
 - rpart
+title: Repensando la codificación por impacto
+url: /2017/01/10/repensando-la-codificacion-por-impacto/
 ---
 
 Hay una entrada mía, [esta](https://www.datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/), que me ronda la cabeza y con la que no sé si estoy completamente de acuerdo. Trata de justificar la [_codificación por impacto_](http://www.win-vector.com/blog/2012/07/modeling-trick-impact-coding-of-categorical-variables-with-many-levels/) de variables categóricas en modelos lineales (generalizados o no) y cuanto más la releo, menos me la creo. O, más bien, comienzo a cuestinarme más seriamente contextos en los que funciona y contextos en los que no.
@@ -74,6 +80,3 @@ table(data.frame(rama0 = modelo.0@where,
 {{< / highlight >}}
 
 ¿A dónde va todo esto? A que en principio, la codificación por importancia no debería afectar a ningún método basado en árboles (¡y eso incluye a muchos de los métodos _boost_!) y, si lo hace, debería ser más por una cuestión de implementación que por otra cosa.
-
-
-

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-09-21
-title: 'Cómo gestiono mis inversiones a largo plazo en renta variable'
-
-url: /2023/09/21/inversiones-renta-variable/
 categories:
 - varios
+date: 2023-09-21
+lastmod: '2025-04-06T18:49:46.692455'
+related:
+- 2023-09-14-gestion-liquidez.md
+- 2024-02-29-letf.md
+- 2011-12-28-es-rentable-invertir-en-bolsa-en-el-largo-plazo.md
+- 2012-10-18-algunos-graficos-de-informacion-bursatil.md
+- 2023-06-20-goals-based-investment.md
 tags:
 - finanzas
 - inversiones
+title: Cómo gestiono mis inversiones a largo plazo en renta variable
+url: /2023/09/21/inversiones-renta-variable/
 ---
 
 ### I.

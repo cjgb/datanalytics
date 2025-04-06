@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-06 07:36:24+00:00
-draft: false
-title: 'Limpieza de cartera: tres artículos'
-
-url: /2012/09/06/limpieza-de-cartera-tres-articulos/
 categories:
 - estadística
 - nlp
 - r
+date: 2012-09-06 07:36:24+00:00
+draft: false
+lastmod: '2025-04-06T19:12:32.283664'
+related:
+- 2012-07-27-a-los-datos-mismos.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md
+- 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md
+- 2023-01-18-modelo-poisson-numpyro.md
 tags:
 - estadística
 - nlp
 - r
+title: 'Limpieza de cartera: tres artículos'
+url: /2012/09/06/limpieza-de-cartera-tres-articulos/
 ---
 
 Estoy limpiando mi cartera y antes de mandar unos cuantos legajos al archivador (o al contenedor de reciclaje) quiero dejar nota de sus contenidos para referencia mía y, quién sabe, si inspiración de otros.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-26 08:13:36+00:00
-draft: false
-title: LDA para dummies (y con un ejemplo)
-
-url: /2018/02/26/lda-para-dummies-y-con-un-ejemplo/
 categories:
 - estadística
+date: 2018-02-26 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:09:57.549016'
+related:
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2014-11-04-dislexia-probabilistica.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 tags:
 - dirichlet
 - estadística
 - lda
+title: LDA para dummies (y con un ejemplo)
+url: /2018/02/26/lda-para-dummies-y-con-un-ejemplo/
 ---
 
 Tema de hoy: LDA (_Latent Dirichlet Allocation_). A raíz de la pregunta de una atenta lectora que quiere saber de qué va la cosa. Con un ejemplo: reproducir el mecanismo mental para tratar de averiguar a qué partido vota alguien.

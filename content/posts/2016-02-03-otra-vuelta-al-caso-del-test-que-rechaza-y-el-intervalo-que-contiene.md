@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-02-03 09:13:57+00:00
-draft: false
-title: Otra vuelta al caso del test que rechaza y el intervalo que contiene
-
-url: /2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/
 categories:
 - estadística
+date: 2016-02-03 09:13:57+00:00
+draft: false
+lastmod: '2025-04-06T19:13:16.908003'
+related:
+- 2016-01-29-el-test-rechaza-pero-el-intervalo-contiene-contraejemplos.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2020-02-18-la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2019-12-04-p-valores-y-decisiones.md
 tags:
 - intervalo de confianza
 - prueba de hipótesis
+title: Otra vuelta al caso del test que rechaza y el intervalo que contiene
+url: /2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/
 ---
 
 Esta visita adicional al tema es consecuencia de mi revisión de todo el asunto de las pruebas de hipótesis. En particular, en el caso de prueba binomial, como en [esta entrada](http://www.datanalytics.com/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/), de la que la que lees es continuación.

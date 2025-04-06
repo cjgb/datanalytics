@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-07 07:55:34+00:00
-draft: false
-title: Nueva versión de paquete colbycol
-
-url: /2011/04/07/nueva-version-de-paquete-colbycol/
 categories:
 - r
+date: 2011-04-07 07:55:34+00:00
+draft: false
+lastmod: '2025-04-06T19:04:11.515006'
+related:
+- 2010-01-26-r-y-conjuntos-de-datos-grandes.md
+- 2011-03-04-1680.md
+- 2011-05-23-la-version-0-7-del-paquete-colbycol-en-cran.md
+- 2011-03-10-r-hdf5-y-bases-de-datos-orientadas-a-columnas.md
+- 2014-07-09-estrategias-escalables-con-r.md
 tags:
 - r
 - paquetes
+title: Nueva versión de paquete colbycol
+url: /2011/04/07/nueva-version-de-paquete-colbycol/
 ---
 
 Hace unos días subí a CRAN la última versión de mi [paquete `colbycol`](http://cran.r-project.org/web/packages/colbycol/index.html). Incluí algunas mejoras sugeridas por uno de sus usuarios así como otras que estaban esperando a que liberase mi agenda. Además, añadí un [pequeño tutorial](http://colbycol.r-forge.r-project.org/) en la página del paquete.

@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-13 08:03:37+00:00
-draft: false
-title: Nueva edición de mi taller de R y Hadoop en Zaragoza
-
-url: /2014/01/13/nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza/
 categories:
 - ciencia de datos
 - r
 - anuncio
+date: 2014-01-13 08:03:37+00:00
+draft: false
+lastmod: '2025-04-06T19:09:10.182149'
+related:
+- 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
+- 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
+- 2015-04-21-programa-profesional-de-iniciacion-a-r.md
+- 2017-05-02-curso-de-introduccion-a-r-en-gijon.md
+- 2012-07-17-dos-cursos-de-r-en-la-u-de-murcia.md
 tags:
 - anuncio
 - grandes datos
@@ -17,6 +21,8 @@ tags:
 - r
 - taller
 - zaragoza
+title: Nueva edición de mi taller de R y Hadoop en Zaragoza
+url: /2014/01/13/nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza/
 ---
 
 Los días 17 y 18 de enero impartiré una versión extendida (¡siete horas!) de mi taller de R y Hadoop en Zaragoza. Para los interesados:

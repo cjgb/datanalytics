@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-04 07:00:02+00:00
-draft: false
-title: Errores de tipo M y de tipo S
-
-url: /2014/06/04/errores-de-tipo-m-y-de-tipo-s/
 categories:
 - estadística
+date: 2014-06-04 07:00:02+00:00
+draft: false
+lastmod: '2025-04-06T19:13:16.177244'
+related:
+- 2012-03-16-error-de-tipo-i-error-de-tipo-ii-y-como-no-confundirlos.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2022-09-13-errores-cierto-tipo-encuestas.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2023-09-28-potencia-tests.md
 tags:
 - error
 - estadística
 - grandes datos
+title: Errores de tipo M y de tipo S
+url: /2014/06/04/errores-de-tipo-m-y-de-tipo-s/
 ---
 
 A los estadísticos se nos acusa en ocasiones de [contestar preguntas tontas en las que nadie está interesado](http://wmbriggs.com/blog/?p=5222).

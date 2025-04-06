@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-26 08:13:59+00:00
-draft: false
-title: bellostamisc y una moraleja
-
-url: /2015/02/26/bellostamisc-y-una-moraleja/
 categories:
 - consultoría
 - varios
+date: 2015-02-26 08:13:59+00:00
+draft: false
+lastmod: '2025-04-06T18:52:59.086487'
+related:
+- 2024-10-29-cortos-stats.md
+- 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 tags:
 - varios
+title: bellostamisc y una moraleja
+url: /2015/02/26/bellostamisc-y-una-moraleja/
 ---
 
 Antier recibí un correo inesperado. Me agradecía el paquete `bellostamisc`, sabía de mi salida de eBay y me ofrecía trabajo en su empresa.

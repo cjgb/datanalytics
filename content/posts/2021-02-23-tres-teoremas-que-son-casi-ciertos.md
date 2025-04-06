@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-02-23 09:13:00+00:00
-draft: false
-title: Tres "teoremas" que son casi ciertos
-
-url: /2021/02/23/tres-teoremas-que-son-casi-ciertos/
 categories:
 - probabilidad
+date: 2021-02-23 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:33.895646'
+related:
+- 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2023-11-21-sumas-lognormales.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
 tags:
 - distribuciones
 - lognormal
 - probabilidad
 - welch
+title: Tres "teoremas" que son casi ciertos
+url: /2021/02/23/tres-teoremas-que-son-casi-ciertos/
 ---
 
 **I.**

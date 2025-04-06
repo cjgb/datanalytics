@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-26 07:35:14+00:00
-draft: false
-title: 'Clústering (IV): una digresión real como la vida misma'
-
-url: /2011/08/26/clustering-iv-una-digresion-real-como-la-vida-misma/
 categories:
 - consultoría
 - estadística
+date: 2011-08-26 07:35:14+00:00
+draft: false
+lastmod: '2025-04-06T18:44:29.058375'
+related:
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - clústering
 - consultoría
 - estadística
+title: 'Clústering (IV): una digresión real como la vida misma'
+url: /2011/08/26/clustering-iv-una-digresion-real-como-la-vida-misma/
 ---
 
 Entré a trabajar en una consultora hace un tiempo ?no diré si mucho o poco? y uno de mis primeros encargos fue el de supervisar el desarrollo e implementación de unos modelos que habían creado unos compañeros. Les eché un vistazo y me sorprendió que sin mayor miramiento habían eliminado aquellas observaciones cuya variable objetivo tomaba el 4% de los valores más altos y el 4% de los más pequeños.

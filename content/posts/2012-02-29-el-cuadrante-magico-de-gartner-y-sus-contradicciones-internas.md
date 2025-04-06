@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-29 07:09:28+00:00
-draft: false
-title: El cuadrante mágico de Gartner y sus contradicciones internas
-
-url: /2012/02/29/el-cuadrante-magico-de-gartner-y-sus-contradicciones-internas/
 categories:
 - consultoría
+date: 2012-02-29 07:09:28+00:00
+draft: false
+lastmod: '2025-04-06T18:57:01.848992'
+related:
+- 2010-10-14-mas-sobre-lo-de-netezza.md
+- 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md
+- 2013-06-10-bi-survey-13-el-veredicto-del-cliente.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2011-08-18-2507.md
 tags:
 - consultoría
 - software
 - gartner
+title: El cuadrante mágico de Gartner y sus contradicciones internas
+url: /2012/02/29/el-cuadrante-magico-de-gartner-y-sus-contradicciones-internas/
 ---
 
 A la gente de Gartner le encanta su (impropiamente denominado) _cuadrante mágico_, que es una cosa tal como

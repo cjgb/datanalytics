@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-05 09:13:37+00:00
-draft: false
-title: Simulación de procesos de Poisson no homogéneos y autoexcitados
-
-url: /2019/04/05/simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados/
 categories:
 - consultoría
 - estadística
 - r
+date: 2019-04-05 09:13:37+00:00
+draft: false
+lastmod: '2025-04-06T19:10:20.393439'
+related:
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md
+- 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2012-07-27-a-los-datos-mismos.md
 tags:
 - paquetes
 - poisson
 - procesos puntuales
 - r
+title: Simulación de procesos de Poisson no homogéneos y autoexcitados
+url: /2019/04/05/simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados/
 ---
 
 Fueron mis modelos favoritos un tiempo, cuando modelaba visitas y revisitas de usuarios a cierto malhadado portal.

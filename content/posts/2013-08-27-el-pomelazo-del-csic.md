@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-27 07:08:53+00:00
-draft: false
-title: El pomelazo del CSIC
-
-url: /2013/08/27/el-pomelazo-del-csic/
 categories:
 - gráficos
+date: 2013-08-27 07:08:53+00:00
+draft: false
+lastmod: '2025-04-06T18:50:11.634711'
+related:
+- 2013-08-28-que-ha-hecho-el-csic-por-mi.md
+- 2010-05-17-que-hago-estos-dias.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
 tags:
 - graficaca
 - csic
+title: El pomelazo del CSIC
+url: /2013/08/27/el-pomelazo-del-csic/
 ---
 
 Dado que el CSIC nos está pidiendo que hagamos algo por él, perdí un rato el otro día tratando de averiguar qué había hecho él por mí.

@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-04 07:15:23+00:00
-draft: false
-title: De D'Hondt a Banzhaf
-
-url: /2012/04/04/de-dhondt-a-banzhaf/
 categories:
 - estadística
 - números
 - r
+date: 2012-04-04 07:15:23+00:00
+draft: false
+lastmod: '2025-04-06T19:09:53.662645'
+related:
+- 2015-12-23-un-poco-mas-sobre-el-indice-de-poder-de-banzhaf.md
+- 2015-12-22-coaliciones-de-banzhaf-en-el-20d.md
+- 2015-05-20-banzhaf-y-las-elecciones-que-se-nos-vienen.md
+- 2019-05-07-elecciones-e-indice-supernaif-de-shapley.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
 tags:
 - estadística
 - números
 - r
 - dhondt
 - banzhaf
+title: De D'Hondt a Banzhaf
+url: /2012/04/04/de-dhondt-a-banzhaf/
 ---
 
 Hablé el otro día con Emilio Torres y comentamos de pasada la situación política en Asturias, donde vive, después de las últimas elecciones. El escaño obtenido por UPyD otorgaba a tal partido un poder en exceso del tamaño de su representación porque era clave para formar el futuro gobierno del principado. Pero, ¿cuánto poder realmente supone ese escaño en esas condiciones? ¿Puede cuantificarse?
@@ -78,5 +84,3 @@ banzhaf( generales )
 # pp
 #  1
 {{< / highlight >}}
-
-

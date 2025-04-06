@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-21
-title: 'Reducción del error en tests A/B (y similares)'
-
-url: /2023/03/21/reduccion-error-tests-ab/
 categories:
 - estadística
+date: 2023-03-21
+lastmod: '2025-04-06T19:05:44.427696'
+related:
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2016-01-25-comparaciones-de-tres-grupos-pruebas-vs-modelos.md
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
 tags:
 - estadística
 - prueba de hipótesis
 - tests ab
 - cuped
+title: Reducción del error en tests A/B (y similares)
+url: /2023/03/21/reduccion-error-tests-ab/
 ---
 
 Hoy, cuatro maneras distintas de realizar un test A/B. Comienzo con unos datos simulados que tienen este aspecto:
@@ -129,5 +135,3 @@ Eso nos lleva a la siguiente reflexión:
 - No está claro qué le gana CUPED al método clásico de la regresión completa.
 - Las diferencias serán tanto menores cuanto mayor sea el tamaño de la muestra (porque menor será la correlación entre la variable del tratamiento y cualquier otra variable).
 - Las diferencias entre los modelos II, III y IV se explican, precisamente, por esas pequeñas correlaciones residuales entre la variable de tratamiento e $y1$ (en este caso).
-
-

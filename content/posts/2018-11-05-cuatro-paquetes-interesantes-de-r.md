@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-05 08:13:50+00:00
-draft: false
-title: Cuatro paquetes interesantes de R
-
-url: /2018/11/05/cuatro-paquetes-interesantes-de-r/
 categories:
 - r
+date: 2018-11-05 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T18:51:59.828382'
+related:
+- 2018-10-02-planes-de-busqueda-y-rescate-con-r.md
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2019-01-31-hay-demasiados-paquetes-en-r.md
+- 2012-09-18-rdatamining-un-paquete-para-mineria-de-datos-con-r.md
+- 2020-12-02-analisis-de-eventos-recurrentes.md
 tags:
 - paquetes
 - r
+title: Cuatro paquetes interesantes de R
+url: /2018/11/05/cuatro-paquetes-interesantes-de-r/
 ---
 
 Son paquetes que marcado como potencialmente relevantes pero que aún no he revisado como debiera. Tal vez alguien tenga algo más que decir sobre ellos. Tiene los comentarios, por supuesto, abiertos.

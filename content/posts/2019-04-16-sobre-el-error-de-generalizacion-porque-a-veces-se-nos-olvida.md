@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-16 09:13:23+00:00
-draft: false
-title: Sobre el error de generalización (porque a veces se  nos olvida)
-
-url: /2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/
 categories:
 - ciencia de datos
 - estadística
+date: 2019-04-16 09:13:23+00:00
+draft: false
+lastmod: '2025-04-06T19:08:06.461634'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2022-12-22-correlacion-y-y-hat.md
+- 2020-09-22-una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm.md
 tags:
 - ciencia de datos
 - error
 - validación cruzada
+title: Sobre el error de generalización (porque a veces se  nos olvida)
+url: /2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/
 ---
 
 Al construir modelos, queremos minimizar

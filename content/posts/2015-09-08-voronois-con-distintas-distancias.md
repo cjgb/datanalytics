@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-08 08:13:57+00:00
-draft: false
-title: Voronois con distintas distancias
-
-url: /2015/09/08/voronois-con-distintas-distancias/
 categories:
 - estadística
+date: 2015-09-08 08:13:57+00:00
+draft: false
+lastmod: '2025-04-06T18:46:32.102084'
+related:
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2018-03-01-kriging-con-stan.md
+- 2014-01-24-como-no-restar-numeros-fuzzy.md
+- 2012-01-17-muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones.md
 tags:
 - clústering
 - distancia
 - estadística
 - r
+title: Voronois con distintas distancias
+url: /2015/09/08/voronois-con-distintas-distancias/
 ---
 
 Especulando sobre la diferencia en la práctica entre distintas métricas ($latex l_1$, $latex l_2$, $latex l_\infty$, etc.), construi una serie de [diagramas de Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) usado métricas arbitrarias.

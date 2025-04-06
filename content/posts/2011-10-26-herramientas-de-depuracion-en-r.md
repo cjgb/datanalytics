@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-26 06:48:56+00:00
-draft: false
-title: Herramientas de depuración en R
-
-url: /2011/10/26/herramientas-de-depuracion-en-r/
 categories:
 - r
+date: 2011-10-26 06:48:56+00:00
+draft: false
+lastmod: '2025-04-06T18:45:54.582737'
+related:
+- 2015-07-02-mejores-mensajes-de-error-con-deparse-substitute.md
+- 2011-05-13-consejos-para-utilizar-r-en-produccion.md
+- 2014-01-27-guia-de-estilo-de-r-de-google.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2010-11-24-programacion-funcional-en-r-filter.md
 tags:
 - programación
 - r
+title: Herramientas de depuración en R
+url: /2011/10/26/herramientas-de-depuracion-en-r/
 ---
 
 R dispone de un conjunto de herramientas para depurar (_debug_) programas. Yo suelo usar la función `debug `de manera casi exclusiva y sistemática, pero leyendo _The Art of R Programming_ he dado con una discusión sistemática sobre el proceso de depuración así como algunas herramientas adicionales.

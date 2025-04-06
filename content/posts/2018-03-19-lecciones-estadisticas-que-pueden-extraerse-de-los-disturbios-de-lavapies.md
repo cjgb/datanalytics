@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-19 11:32:56+00:00
-draft: false
-title: Lecciones estadísticas que pueden extraerse de los disturbios de Lavapiés
-
-url: /2018/03/19/lecciones-estadisticas-que-pueden-extraerse-de-los-disturbios-de-lavapies/
 categories:
 - estadística
 - números
+date: 2018-03-19 11:32:56+00:00
+draft: false
+lastmod: '2025-04-06T19:06:47.225378'
+related:
+- 2018-02-09-secciones-censales-en-la-wikipedia.md
+- 2011-11-03-2872.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2013-08-16-mapas-mapas-mapas-y.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 tags:
 - estadística pública
 - ine
 - sección censal
+title: Lecciones estadísticas que pueden extraerse de los disturbios de Lavapiés
+url: /2018/03/19/lecciones-estadisticas-que-pueden-extraerse-de-los-disturbios-de-lavapies/
 ---
 
 Mi barrio ha sufrido una serie de sobresaltos provocados por la incontinencia de la plebe frumentaria a raíz de la muerte por infarto de un mantero. Ha salido en las noticias y no merece la pena abundar en ello.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-02 09:13:00+00:00
-draft: false
-title: Hoy sí, sobre tetas y culos (e Instagram, como excipiente)
-
-url: /2020/09/02/hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente/
 categories:
 - ciencia de datos
+date: 2020-09-02 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:55:36.682181'
+related:
+- 2018-04-02-sobre-lo-de-cambridge-analytica.md
+- 2023-06-01-vender-algoritmos.md
+- 2023-10-03-muestreo-superricos.md
+- 2023-10-19-errores-chatgpt.md
+- 2014-04-10-colusion-de-anunciantes-en-perjuicio-de-navegantes.md
 tags:
 - instagram
 - recomendaciones
 - redes sociales
 - sistemas de recomendación
+title: Hoy sí, sobre tetas y culos (e Instagram, como excipiente)
+url: /2020/09/02/hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente/
 ---
 
 Hoy voy a aprovechar una excusa peregrina para hablar de lo que por algún motivo se me antoja imperiosamente, que son tetas y culos. Que (este pronombre es un puntero a _excusa_) es

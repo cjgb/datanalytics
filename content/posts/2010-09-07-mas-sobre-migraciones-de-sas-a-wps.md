@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-07 19:38:59+00:00
-draft: false
-title: Más sobre migraciones de SAS a WPS
-
-url: /2010/09/07/mas-sobre-migraciones-de-sas-a-wps/
 categories:
 - consultoría
+date: 2010-09-07 19:38:59+00:00
+draft: false
+lastmod: '2025-04-06T18:56:30.705219'
+related:
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
+- 2010-08-22-mas-sobre-el-caso-wps-vs-sas.md
+- 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md
+- 2010-03-20-leyendo-tablas-de-sas-sin-sas.md
 tags:
 - consultoría
 - sas
 - wps
 - migraciones
+title: Más sobre migraciones de SAS a WPS
+url: /2010/09/07/mas-sobre-migraciones-de-sas-a-wps/
 ---
 
 El otro día [escribí sobre WPS](http://www.datanalytics.com/2010/08/12/ya-has-considerado-pasarte-a-wps/), un clon de SAS con unos costes de licencia sustancialmente menores.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-19 06:58:54+00:00
-draft: false
-title: ¿La correlación "del siglo XXI"?
-
-url: /2011/12/19/la-correlacion-del-siglo-xxi/
 categories:
 - ciencia de datos
 - estadística
+date: 2011-12-19 06:58:54+00:00
+draft: false
+lastmod: '2025-04-06T19:11:35.003171'
+related:
+- 2022-02-15-mas-correlaciones-siglo-xxi.md
+- 2019-08-29-la-multivarianza-total-de-la-distancia-no-implica-causalidad.md
+- 2014-12-08-la-correlacion-ni-siquiera-implica-correlacion.md
+- 2018-11-16-colinealidad-y-posterioris.md
+- 2018-03-27-que-mas-se-supo-de-la-correlacion-del-s-xxi.md
 tags:
 - correlación
 - estadística
 - ciencia de datos
+title: ¿La correlación "del siglo XXI"?
+url: /2011/12/19/la-correlacion-del-siglo-xxi/
 ---
 
 Bajo el título [Detecting Novel Associations in Large Data Sets](http://www.sciencemag.org/content/334/6062/1518.abstract) se ha publicado recientemente en Science un coeficiente alternativo a la correlación _de toda la vida_ para cuantificar la relación funcional entre dos variables.

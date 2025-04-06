@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-31 07:12:22+00:00
-draft: false
-title: ¿En qué está pensando el ministro Wert?
-
-url: /2012/08/31/en-que-esta-pensando-el-ministro-wert/
 categories:
 - estadística
+date: 2012-08-31 07:12:22+00:00
+draft: false
+lastmod: '2025-04-06T19:12:48.859073'
+related:
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
+- 2011-02-25-1605.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - estadística
 - wert
+title: ¿En qué está pensando el ministro Wert?
+url: /2012/08/31/en-que-esta-pensando-el-ministro-wert/
 ---
 
 Eso he visto que se preguntaban algunos en Twitter estos días. Lo particular del caso es que, a diferencia de muchos otros ministros que tenemos y hemos tenido (salvo algunas notables excepciones, como Borrell), el ministro Wert tiene una relativamente extensa [colección de artículos publicados](http://dialnet.unirioja.es/servlet/autor?codigo=860534).

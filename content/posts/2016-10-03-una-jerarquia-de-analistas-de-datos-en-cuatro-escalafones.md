@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-03 08:13:31+00:00
-draft: false
-title: Una jerarquía de analistas de datos en cuatro escalafones
-
-url: /2016/10/03/una-jerarquia-de-analistas-de-datos-en-cuatro-escalafones/
 categories:
 - consultoría
+date: 2016-10-03 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T18:57:27.334663'
+related:
+- 2020-03-06-fases-divergentes-y-convergentes-del-analisis-de-datos.md
+- 2023-12-14-metodologias-viejunas.md
+- 2011-06-13-minitutorial-de-subversion.md
+- 2017-05-15-diapositivas-sobre-mi-charla-acerca-del-stack-analitico.md
+- 2022-06-02-orgamizacion-proyectos-datos.md
 tags:
 - consultoría
 - programación
+title: Una jerarquía de analistas de datos en cuatro escalafones
+url: /2016/10/03/una-jerarquia-de-analistas-de-datos-en-cuatro-escalafones/
 ---
 
 Es:

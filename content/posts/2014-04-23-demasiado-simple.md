@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-23 07:44:56+00:00
-draft: false
-title: Demasiado simple
-
-url: /2014/04/23/demasiado-simple/
 categories:
 - números
+date: 2014-04-23 07:44:56+00:00
+draft: false
+lastmod: '2025-04-06T18:52:00.663799'
+related:
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2024-01-09-regresiones_pisa.md
+- 2023-01-26-educacion-tabarrok.md
+- 2023-05-11-nivel-estudios-vs-progenitores.md
+- 2011-11-02-twain-grecia-pisa-cataluna-y-deontologia.md
 tags:
 - números
 - pisa
 - educación
+title: Demasiado simple
+url: /2014/04/23/demasiado-simple/
 ---
 
 La realidad es compleja y los más de los fenómenos son multivariados. Frente a casi cualquier afirmación del tipo A causa B, el detector de pendejadas debería hacer saltar la alarma y hacernos pensar que tal vez sea demasiado simple.

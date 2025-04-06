@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-02
-title: 'Una lectura muy esclarecedora sobre la prelación entre ciencia e ingeniería'
-url: /2024/07/02/prelacion-ciencia-ingenieria
 categories:
 - otros
+date: 2024-07-02
+lastmod: '2025-04-06T18:49:56.717602'
+related:
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2024-06-27-vida-media-neutrones.md
+- 2024-12-26-cortos-stats.md
+- 2023-10-05-llms-historia.md
+- 2024-05-07-cortos.md
 tags:
 - ciencia
 - ingeniería
 - fusión nuclear
 - llms
+title: Una lectura muy esclarecedora sobre la prelación entre ciencia e ingeniería
+url: /2024/07/02/prelacion-ciencia-ingenieria
 ---
 
 Hay gente que discute a veces sobre cuál es el carro y cuál es el burro en el binomio ciencia-ingeniería. Mi opinión al respecto es irrelevante porque no va a cambiar nunca nada en ninguna parte. Pero aquél que quiera asentar la suya, debería leer con atención y desde esa perspectiva [_Will We Ever Get Fusion Power?_](https://www.construction-physics.com/p/will-we-ever-get-fusion-power).
@@ -21,4 +28,3 @@ Lectura de la que extraigo (y, por el camino, traduzco):
 Dos comentarios al respecto:
 - Cámbiese _tokamak_ por LLM en el texto anterior y... ¿a que suena familiar?
 - Así visto, da que pensar que no tengamos fusión todavía, ¿no?
-

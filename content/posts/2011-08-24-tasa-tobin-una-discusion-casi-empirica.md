@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-24 07:42:51+00:00
-draft: false
-title: 'Tasa Tobin: una discusión casi empírica'
-
-url: /2011/08/24/tasa-tobin-una-discusion-casi-empirica/
 categories:
 - finanzas
+date: 2011-08-24 07:42:51+00:00
+draft: false
+lastmod: '2025-04-06T19:04:53.349095'
+related:
+- 2023-09-14-gestion-liquidez.md
+- 2011-02-25-1605.md
+- 2024-01-16-causalidad-conocimiento.md
+- 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
+- 2023-03-16-negocio-bancario.md
 tags:
 - bolsa
 - finanzas
 - tasa tobin
+title: 'Tasa Tobin: una discusión casi empírica'
+url: /2011/08/24/tasa-tobin-una-discusion-casi-empirica/
 ---
 
 ---¿Me prestas 10.000 euros al 2%?

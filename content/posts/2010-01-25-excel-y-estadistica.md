@@ -1,13 +1,20 @@
 ---
-title: Excel y estadística
 author: Carlos J. Gil Bellosta
-date: 2010-01-25
-url: /2010/01/25/excel-y-estadistica/
 categories:
 - estadística
+date: 2010-01-25
+lastmod: '2025-04-06T18:46:01.812549'
+related:
+- 2011-12-26-ibm-sobre-excel-como-herramienta-estadistica.md
+- 2010-01-29-addenda-excel-y-estadistica.md
+- 2013-04-23-pero-manana-seguiremos-usando-excel.md
+- 2011-01-06-una-frase-afortunada-que-merece-ser-enmarcada.md
+- 2013-04-30-por-que-no-deberias-compartir-tu-codigo-diez-motivos.md
 tags:
 - estadística
 - excel
+title: Excel y estadística
+url: /2010/01/25/excel-y-estadistica/
 ---
 
 Un buen amigo me comentó que para ver crecer el número de visitas a su blog hablaba de Excel. Como todavía no he tenido ninguna, con su venia, tomaré prestada la idea. Por otra parte, siendo éste un blog dedicado a la estadística, la minería de datos y asuntos concomitantes, enumeraré motivos por los que, en dichos ámbitos, se desaconseja su uso.

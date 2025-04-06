@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-14 09:13:05+00:00
-draft: false
-title: Análisis de la discontinuidad + polinomios de grado alto = ...
-
-url: /2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/
 categories:
 - estadística
+date: 2019-05-14 09:13:05+00:00
+draft: false
+lastmod: '2025-04-06T19:10:49.933105'
+related:
+- 2020-01-09-regresiones-con-discontinuidad-y-grados-de-libertad.md
+- 2019-05-29-y-si-quitamos-el-puntico-de-arriba-a-la-izquierda.md
+- 2020-10-28-que-metodos-estadisticos-utilizar-si-el-pan-de-tus-hijos-depende-de-que-las-p-sean-pequenajas.md
+- 2020-10-01-regression-models-that-claim-to-reach-causal-conclusions-as-favoured-by-economists.md
+- 2024-09-12-cortos-stats.md
 tags:
 - causalidad
 - causalimpact
@@ -14,6 +18,8 @@ tags:
 - polinomios
 - regresión
 - gelman
+title: Análisis de la discontinuidad + polinomios de grado alto = ...
+url: /2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/
 ---
 
 Una técnica que, al parecer, es muy del gusto de los economistas es lo del análisis de la discontinuidad. Es como todo lo que tiene que ver con [`causalImpact`](https://google.github.io/CausalImpact/CausalImpact.html) pero usando técnicas setenteras (regresiones independientes a ambos lados del punto de corte).

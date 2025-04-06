@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-19 08:34:17+00:00
-draft: false
-title: 'Ofertón: tarifa plana de GasNaturalFenosa'
-
-url: /2014/02/19/oferton-tarifa-plana-de-gasnaturalfenosa/
 categories:
 - r
+date: 2014-02-19 08:34:17+00:00
+draft: false
+lastmod: '2025-04-06T18:51:16.515836'
+related:
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2024-03-14-precio-medio-diario-electricidad.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2019-09-18-mi-consumo-de-electricidad-hora-a-hora.md
+- 2014-03-31-graficaca-en-gas-natural-fenosa.md
 tags:
 - electricidad
 - r
+title: 'Ofertón: tarifa plana de GasNaturalFenosa'
+url: /2014/02/19/oferton-tarifa-plana-de-gasnaturalfenosa/
 ---
 
 En medio del fragor mediático sobre el precio de la electricidad, me ha llegado un _ofertón_ de GasNaturalFenosa: la posibilidad de contratar una [tarifa plana para la electricidad](http://www.gasnaturalfenosa.es/es/inicio/hogar/gas+natural+y+electricidad/1297118395381/tarifa+plana+de+gas+y+luz.html).

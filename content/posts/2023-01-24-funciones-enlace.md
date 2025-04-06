@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-24
-title: 'Funciones de enlace "por defecto" en (ciertos) GLMs'
-
-url: /2023/01/24/funciones-enlace-defecto-glm/
 categories:
 - estadística
+date: 2023-01-24
+lastmod: '2025-04-06T18:56:29.229860'
+related:
+- 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-09-22-una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - estadística
 - r
@@ -13,6 +17,8 @@ tags:
 - regresión de poisson
 - glms
 - función de enlace
+title: Funciones de enlace "por defecto" en (ciertos) GLMs
+url: /2023/01/24/funciones-enlace-defecto-glm/
 ---
 
 Después de publicar

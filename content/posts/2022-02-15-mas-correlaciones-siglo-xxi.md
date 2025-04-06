@@ -1,13 +1,19 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-15
-title: "Otra correlación del siglo XXI"
-
-url: /2022/02/15/otra-correlacion-siglo-xxi/
 categories:
 - estadística
+date: 2022-02-15
+lastmod: '2025-04-06T18:49:58.055007'
+related:
+- 2018-03-27-que-mas-se-supo-de-la-correlacion-del-s-xxi.md
+- 2011-12-19-la-correlacion-del-siglo-xxi.md
+- 2019-08-29-la-multivarianza-total-de-la-distancia-no-implica-causalidad.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md
 tags:
 - correlación
+title: Otra correlación del siglo XXI
+url: /2022/02/15/otra-correlacion-siglo-xxi/
 ---
 
 En 2011 escribí sobre [_la correlación del siglo XXI_](https://www.datanalytics.com/2011/12/19/la-correlacion-del-siglo-xxi/), un esfuerzo por crear un tipo de coeficiente de correlacion _mejor_. En 2018 [me volví a preguntar sobre el estado de la cosa](https://www.datanalytics.com/2018/03/27/que-mas-se-supo-de-la-correlacion-del-s-xxi/) y a dónde había conducido. Tengo la sensación de que se publicó y, realmente, nunca más se supo del asunto.

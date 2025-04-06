@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-01-30
-title: 'Sobre la interpretación de los indicadores económicos'
-url: /2024/01/30/indicadores-economicos/
 categories:
 - estadística
+date: 2024-01-30
+lastmod: '2025-04-06T19:04:00.200512'
+related:
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2011-01-13-el-misterio-de-la-reduccion-del-paro-en-diciembre.md
+- 2013-02-25-estadisticas-oficiales-alternativas.md
 tags:
 - economía
 - estadística pública
+title: Sobre la interpretación de los indicadores económicos
+url: /2024/01/30/indicadores-economicos/
 ---
 
 The Economist tiene a bien publicar una serie de tablas comparativas de los indicadores económicos más importantes de las distintas economías. Si uno se fija en la fila de Tailandia verá que sistemáticamente tiene unas cifras de desempleo ridículas. Por ejemplo, es el 0.9% en la última edición.

@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-03-07 00:00:00
-title: 'Errores en modelos. Zillow. Control de alquileres.'
-url: /2024/3/7/errores-modelos-zillow-control-alquileres
 categories:
 - estadística
+date: 2024-03-07 00:00:00
+lastmod: '2025-04-06T18:49:10.330470'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2016-06-21-gbm-i-una-mentira-sugerente.md
+- 2017-12-18-el-z-score-es-una-medida-inadecuada-de-la-perpejidad.md
+- 2018-09-26-asi-de-floja-esta-la-evidencia-cientifica-sobre-el-impacto-de-airbnb-en-el-mercado-inmobiliario.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
 tags:
 - estadística
 - economía
 - alquiler
 - errores
 - zillow
+title: Errores en modelos. Zillow. Control de alquileres.
+url: /2024/3/7/errores-modelos-zillow-control-alquileres
 ---
 
 ### I. Errores en modelos

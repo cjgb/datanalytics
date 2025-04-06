@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-24
-title: 'Claude y el desafío matemático navideño de 2024'
-url: /2024/12/24/claude-desafio-matematico
 categories:
 - llms
+date: 2024-12-24
+lastmod: '2025-04-06T18:54:56.861494'
+related:
+- 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md
+- 2022-11-22-rsa-exmatematicos.md
+- 2011-09-22-anonimidad-y-cantidad-de-informacion.md
+- 2012-01-02-curiosidades-de-la-loteria.md
+- 2013-04-16-mas-sobre-la-ley-de-benford-i-una-condicion-suficiente.md
 tags:
 - llms
 - matemáticas
+title: Claude y el desafío matemático navideño de 2024
+url: /2024/12/24/claude-desafio-matematico
 ---
 
 Dice [Gaussianos](https://www.gaussianos.com/desafios-matematicos-en-el-pais-desafio-extraordinario-de-navidad-2024-tu-decimo-esconde-una-x/):

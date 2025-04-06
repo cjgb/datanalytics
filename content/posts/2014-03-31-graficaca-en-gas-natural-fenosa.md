@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-31 07:20:15+00:00
-draft: false
-title: Graficaca en Gas Natural Fenosa
-
-url: /2014/03/31/graficaca-en-gas-natural-fenosa/
 categories:
 - gráficos
+date: 2014-03-31 07:20:15+00:00
+draft: false
+lastmod: '2025-04-06T19:02:54.932561'
+related:
+- 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
+- 2022-04-12-graficaca-ree.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2014-02-19-oferton-tarifa-plana-de-gasnaturalfenosa.md
 tags:
 - electricidad
 - graficaca
 - gráficos
+title: Graficaca en Gas Natural Fenosa
+url: /2014/03/31/graficaca-en-gas-natural-fenosa/
 ---
 
 Hoy he querido entrar a la página de Gas Natural Fenosa para echarles un vistazo a mis facturas y he encontrado el siguiente y magnífico ejemplar de [graficaca](http://www.datanalytics.com/tag/graficaca/):
@@ -29,4 +35,3 @@ Compárense esos gráficos con
 ](/wp-uploads/2014/03/consumo_electricidad_singapur_02.png#center)
 
 que, se conoce, proporcionan las compañías equivalentes en Singapur. Y que no me diga nadie que hacer las cosas en condiciones cuesta tanto, carajo.
-

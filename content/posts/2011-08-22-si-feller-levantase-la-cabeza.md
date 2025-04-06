@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-22 07:55:14+00:00
-draft: false
-title: Si Feller levantase la cabeza...
-
-url: /2011/08/22/si-feller-levantase-la-cabeza/
 categories:
 - estadística
 - probabilidad
+date: 2011-08-22 07:55:14+00:00
+draft: false
+lastmod: '2025-04-06T18:53:54.172022'
+related:
+- 2011-10-04-puedes-probar-cualquier-cosa-con-paciencia.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2014-06-24-causalidad-a-la-pearl-y-el-operador-do.md
+- 2022-01-20-peor-pagina-taleb.md
+- 2010-10-25-una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas.md
 tags:
 - estadística
 - probabilidad
 - feller
 - mala ciencia
+title: Si Feller levantase la cabeza...
+url: /2011/08/22/si-feller-levantase-la-cabeza/
 ---
 
 Tengo un amigo físico que trabaja supervisando el funcionamiento una máquina de radioterapia. Se dedica, esencialmente, a achicharrar células cancerígenas con chorros de radioactividad. Me contaba recientemente cómo hay pacientes que responden positivamente y cómo con otros con un perfil similar, aun sometidos a dosis de radioactividad muy superiores, no hay forma humana de hacer que el tumor remita. Éste y muchos otros casos análogos hacen pensar a la comunidad médica que no hay enfermedades sino enfermos y que los remedios que bien valen para uno, pueden no valer para otro.

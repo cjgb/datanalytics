@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-02-18 09:13:00+00:00
-draft: false
-title: La probabilidad de que el parámetro esté en el intervalo de confianza es .95
-
-url: /2020/02/18/la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95/
 categories:
 - estadística
+date: 2020-02-18 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:49:28.366901'
+related:
+- 2024-04-04-sobre-cis.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
+- 2020-10-26-intervalos-de-confianza-y-la-velocidad-de-la-luz.md
+- 2016-02-03-otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene.md
 tags:
 - estadística
 - intervalo de confianza
+title: La probabilidad de que el parámetro esté en el intervalo de confianza es .95
+url: /2020/02/18/la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95/
 ---
 
 Si dices lo anterior, corres el riesgo de que un estadístico gruñón frunza mucho el ceño.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-24 08:13:15+00:00
-draft: false
-title: Mis respuestas en una entrevista sobre "big data", periodismo de datos, etc.
-
-url: /2015/07/24/mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc/
 categories:
 - números
+date: 2015-07-24 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:12:43.451028'
+related:
+- 2022-01-25-universo-muestra-big-data.md
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
+- 2018-04-02-sobre-lo-de-cambridge-analytica.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2011-09-28-datos-grandes-colas-largas.md
 tags:
 - big data
 - periodismo de datos
+title: Mis respuestas en una entrevista sobre "big data", periodismo de datos, etc.
+url: /2015/07/24/mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc/
 ---
 
 _Aunque no hay una definición exacta sobre la minería de datos… ¿cómo definiría usted Big Data?¿Qué herramientas utiliza usted para la búsqueda de datos? (públicas o privadas)_

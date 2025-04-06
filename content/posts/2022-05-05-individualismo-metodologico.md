@@ -1,14 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-05
-title: 'Causalidad e individualismo metodológico'
-description: 'El individualismo metodológico como instrumento para criticar relaciones de causalidad'
-url: /2022/05/05/causalidad-individualismo-metodologico/
 categories:
 - causalidad
+date: 2022-05-05
+description: El individualismo metodológico como instrumento para criticar relaciones
+  de causalidad
+lastmod: '2025-04-06T19:07:40.791081'
+related:
+- 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2025-03-11-cortos-causalidad.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 tags:
 - causalidad
 - individualismo metodológico
+title: Causalidad e individualismo metodológico
+url: /2022/05/05/causalidad-individualismo-metodologico/
 ---
 
 Frecuentemente, se postulan y estudian relaciones causales del tipo

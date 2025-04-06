@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-30 07:13:14+00:00
-draft: false
-title: La media y el riesgo (de nuevo)
-
-url: /2012/07/30/la-media-y-el-riesgo-de-nuevo/
 categories:
 - estadística
 - finanzas
+date: 2012-07-30 07:13:14+00:00
+draft: false
+lastmod: '2025-04-06T19:05:18.449145'
+related:
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
 tags:
 - estadística
 - finanzas
 - media
 - mediana
 - spiegelhalter
+title: La media y el riesgo (de nuevo)
+url: /2012/07/30/la-media-y-el-riesgo-de-nuevo/
 ---
 
 Hoy me han preguntado una cosa algo rara. Era alguien del departamento de riesgos de una conocida entidad financiera que quería saber cómo calcular (con SAS) la media del LTV. El LTV, aunque tiene otras acepciones, significa en este contexto _loan to value_, el cociente entre el valor de un préstamo y valor del colateral que lo respalda.

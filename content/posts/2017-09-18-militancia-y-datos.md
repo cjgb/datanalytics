@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-18 08:13:14+00:00
-draft: false
-title: Militancia y datos
-
-url: /2017/09/18/militancia-y-datos/
 categories:
 - estadística
 - varios
+date: 2017-09-18 08:13:14+00:00
+draft: false
+lastmod: '2025-04-06T18:45:34.361362'
+related:
+- 2018-06-07-posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2018-05-22-existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas.md
+- 2015-09-07-prioris-subjetivas.md
+- 2017-05-31-dizque-al-sexto-mes-pero-y-los-datos.md
 tags:
 - estadística bayesiana
 - posteriori
 - prensa
 - priori
+title: Militancia y datos
+url: /2017/09/18/militancia-y-datos/
 ---
 
 Allá por el 2007 publicó [The Independent](http://www.independent.co.uk/) una portada en que se retractaba. El diario había sido un histórico defensor de la legalización de la marihuana. Ese día hizo público su cambio de postura. Al parecer, motivada por las evidencias sobre los efectos sobre la salud mental.

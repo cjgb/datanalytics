@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-01-28 09:13:00+00:00
-draft: false
-title: GoF para modelos bayesianos
-
-url: /2020/01/28/gof-para-modelos-bayesianos/
 categories:
 - artículos
 - estadística
+date: 2020-01-28 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:09:38.435166'
+related:
+- 2020-02-04-comparacion-y-seleccion-de-modelos-bayesianos.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2024-10-17-interpretacion-modelos.md
+- 2024-02-13-outliers-dos-modos.md
 tags:
 - artículos
 - estadística
 - estadística bayesiana
 - modelos
 - comparación de modelos
+title: GoF para modelos bayesianos
+url: /2020/01/28/gof-para-modelos-bayesianos/
 ---
 
 Existe una muy perezosa escuela de pensamiento que sostiene que dado que las probabilidades son subjetivas, cualquier modelo y, en particular, los bayesianos, como expresión de la subjetividad de sus autores, no necesita ser contrastado con la realidad. Porque, de hecho, la realidad no existe y es una construcción que cada cual hace a su manera, deberían añadir.

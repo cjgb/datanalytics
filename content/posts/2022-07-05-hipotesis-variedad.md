@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-07-05
-title: 'Sobre la hipótesis de la variedad'
-description: 'Una discusión sobre la "manifold hypothesis" en ciencia de datos'
-url: /2022/07/05/hipotesis-variedad/
 categories:
 - estadística
+date: 2022-07-05
+description: Una discusión sobre la "manifold hypothesis" en ciencia de datos
+lastmod: '2025-04-06T18:46:48.192823'
+related:
+- 2023-01-10-stable-diffusion-1d.md
+- 2019-04-15-las-altas-dimensiones-son-campo-minado-para-la-intuicion.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2014-10-07-como-leais-esta-entrada-aprendereis-tanto-como-lo-que-desaprendereis.md
+- 2017-09-11-a-epsilon-de-todo.md
 tags:
 - ciencia de datos
 - fundamentos
 - hipótesis de la variedad
+title: Sobre la hipótesis de la variedad
+url: /2022/07/05/hipotesis-variedad/
 ---
 
 Dice (y traduzco) François Chollet en su libro sobre aprendizaje profundo:
@@ -31,4 +38,3 @@ Y sí, funciona. No voy a pretender que lo hace con cualquier dimensionalidad de
 Para más info, [esto](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73).
 
 Y, para acabar, una pregunta para mis excolegas matemáticos: si nuestra información está contenida en una esfera de $R^3$ y el espacio intermedio tiene dimensión dos, ¿qué resultados nos garantizan la imposibilidad de una reconstrucción razonable? ¿Cuál sería la diferencia, por ejemplo, con el caso en el que la información estuviese contenida en una parábola de $R^2$ y el espacio intermedio tuviese dimensión uno?
-

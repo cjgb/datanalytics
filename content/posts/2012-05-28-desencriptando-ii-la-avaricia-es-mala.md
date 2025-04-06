@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-28 07:07:51+00:00
-draft: false
-title: 'Desencriptando (II): la avaricia es mala'
-
-url: /2012/05/28/desencriptando-ii-la-avaricia-es-mala/
 categories:
 - probabilidad
 - r
+date: 2012-05-28 07:07:51+00:00
+draft: false
+lastmod: '2025-04-06T19:01:51.272540'
+related:
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
+- 2014-04-29-todo-el-mundo-habla-de-cadenas-de-markov.md
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
+- 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md
 tags:
 - criptografía
 - probabilidad
 - r
+title: 'Desencriptando (II): la avaricia es mala'
+url: /2012/05/28/desencriptando-ii-la-avaricia-es-mala/
 ---
 
 El otro día propuse y [resolví un problema de encriptación con R](http://www.datanalytics.com/2012/05/21/desencriptando-i-el-problema-de-un-mal-amigo/). Utilizaba uno de los llamados métodos _avariciosos_ (o _greedy_) para hallar el máximo de una función (que era, en esencia, la función de verosimilitud de una determinada permutación de caracteres dentro del espacio probabilístico de todas ellas).
@@ -183,5 +189,3 @@ y no sé si mis lectores reconocerán en ellas una frase de Galdós que aparecí
 Dista de ser perfecto, pero como que, más o menos, podemos sentirnos satisfechos con la descencriptación.
 
 En la próxima entrega de esta serie daré un pequeño rodeo y dejaré para la última la teoría de la cosa.
-
-

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-13 09:13:17+00:00
-draft: false
-title: ¡Bien por AIReF!
-
-url: /2019/05/13/bien-por-airef/
 categories:
 - gráficos
+date: 2019-05-13 09:13:17+00:00
+draft: false
+lastmod: '2025-04-06T19:05:13.934804'
+related:
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2018-10-22-mas-sobre-las-proyecciones-de-poblacion-del-ine.md
+- 2013-06-13-la-cosa-mas-friqui-que-he-visto-en.md
+- 2017-10-18-ardeasturias-ardeaviles-ah-mierda.md
 tags:
 - airef
 - gráficos
 - predicción
 - riesgo
+title: ¡Bien por AIReF!
+url: /2019/05/13/bien-por-airef/
 ---
 
 Años ha, cuando quería mostrar gráficos como

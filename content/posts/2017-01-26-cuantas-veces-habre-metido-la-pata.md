@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-26 08:13:06+00:00
-draft: false
-title: ¿Cuántas veces habré metido la pata?
-
-url: /2017/01/26/cuantas-veces-habre-metido-la-pata/
 categories:
 - varios
+date: 2017-01-26 08:13:06+00:00
+draft: false
+lastmod: '2025-04-06T18:56:15.713013'
+related:
+- 2016-11-30-la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado.md
+- 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
+- 2014-11-04-dislexia-probabilistica.md
+- 2017-02-06-1e-por-doquier.md
+- 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md
 tags:
 - correcciones
 - error
+title: ¿Cuántas veces habré metido la pata?
+url: /2017/01/26/cuantas-veces-habre-metido-la-pata/
 ---
 
 Ayer escribí

@@ -1,19 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-12 08:13:49+00:00
-draft: false
-title: Sr. Python, muchas gracias por su candidatura; ya le llamaremos cuando... tenga modelos mixtos
-
-url: /2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/
 categories:
 - python
 - r
+date: 2019-02-12 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T19:09:43.001227'
+related:
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2017-09-06-python-y-r-una-perspectiva-markoviana.md
+- 2013-12-18-cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos.md
+- 2016-02-29-los-tres-contraargumentos-habituales.md
+- 2014-03-20-los-sospechosos-habituales-y-python.md
 tags:
 - mcmc
 - modelos mixtos
 - python
 - r
 - recomendaciones
+title: Sr. Python, muchas gracias por su candidatura; ya le llamaremos cuando... tenga
+  modelos mixtos
+url: /2019/02/12/sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos/
 ---
 
 Era casi todavía el siglo XX cuando yo, desesperado por hacer cosas que consideraba _normales_ y que SAS no me permitía, pregunté a un profesor por algo _como C pero para estadística_. Y el profesor me contó que conocía a alguien que conocía a alguien que conocía a alguien que usaba una cosa nueva que se llamaba R y que podía servirme.

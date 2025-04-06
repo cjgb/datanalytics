@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-07-04 17:44:53+00:00
-draft: false
-title: Exagerados
-
-url: /2010/07/04/exagerados/
 categories:
 - números
+date: 2010-07-04 17:44:53+00:00
+draft: false
+lastmod: '2025-04-06T18:46:38.731152'
+related:
+- 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md
+- 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md
+- 2015-06-11-cuanta-gente-ha-habido-sobre-la-faz-de-la-tierra.md
+- 2014-07-28-60-generaciones.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 tags:
 - números
 - libros
+title: Exagerados
+url: /2010/07/04/exagerados/
 ---
 
 Gracias a la entrañable huelga del Metro de Madrid (digo entrañable porque espero que sea la última y la recordemos con añoranza cuando los conductores de carbono hayan sido sustituidos por otros de silicio más diligentes) he terminado de leer [este libro](http://espaciolibros.com/el-fin-del-trabajo-de-jeremy-rifkin/). Podría decir muchas cosas sobre él, pero me centraré en un párrafo que aparece en la página 333 de la edición española de Paidós (de la reedición de marzo de 2010, por referencia). Se trata de una cita del libro _Silicon Shock_ de un tal Goeff Simons, escrito en de 1985 (atención a la fecha!) que dice así:

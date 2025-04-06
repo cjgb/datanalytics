@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-23 07:26:24+00:00
-draft: false
-title: R y la distribución de Rayleigh
-
-url: /2012/03/23/r-y-la-distribucion-de-rayleigh/
 categories:
 - probabilidad
 - r
+date: 2012-03-23 07:26:24+00:00
+draft: false
+lastmod: '2025-04-06T18:44:54.943545'
+related:
+- 2018-03-01-kriging-con-stan.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2012-01-17-muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2021-09-21-aun-mas-sobre-propagacion-de-errores-y-rv.md
 tags:
 - probabilidad
 - r
+title: R y la distribución de Rayleigh
+url: /2012/03/23/r-y-la-distribucion-de-rayleigh/
 ---
 
 En la reunión de usuarios de R de Madrid de ayer, Carlos Ortega estudió la [distribución en el tiempo del número de _bugs_ que aparecen en el código de R](http://prezi.com/wkkftr7hmsnt/bugs-en-r/) en cada versión. Indicó que es plausible que sigan una [distribución de Rayleigh](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Rayleigh), relativamente frecuente en ese tipo de contextos. E indicó que esta distribución, no tan conocida, tiene que ver (he olvidado lo que dijo exactamente) con dos normales independientes.

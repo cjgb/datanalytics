@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-07 08:13:02+00:00
-draft: false
-title: En contra del estado "de derecho"
-
-url: /2017/03/07/en-contra-del-estado-de-derecho/
 categories:
 - estadística
 - varios
+date: 2017-03-07 08:13:02+00:00
+draft: false
+lastmod: '2025-04-06T19:05:36.846495'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
 tags:
 - ciencia
 - derecho
 - estadística
+title: En contra del estado "de derecho"
+url: /2017/03/07/en-contra-del-estado-de-derecho/
 ---
 
 Nos engañaron malamente. Nos prometieron que estudiar matemáticas nos abriría la puerta de los misterios más sutiles del conocimiento y ahora no hacemos otra cosa que celebrar como gilipollas [el día de $latex \pi$](http://www.piday.es/) a golpe de retuiteo. Nos dijeron que aprendiendo ingeniería conoceríamos el funcionamiento de las cosas y acabamos usando ordenadores armados con pegamento. Con la estadística seríamos capaces de estudiar y entender los movimientos y cambios sociales, el funcionamiento de los mercados financieros, etc. y nunca pasamos de los k-vecinos.

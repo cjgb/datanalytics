@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-11 08:13:03+00:00
-draft: false
-title: Pues los SVMs, al final, no son tan exóticos
-
-url: /2017/09/11/pues-los-svms-al-final-no-son-tan-exoticos/
 categories:
 - ciencia de datos
 - estadística
+date: 2017-09-11 08:13:03+00:00
+draft: false
+lastmod: '2025-04-06T18:46:12.017004'
+related:
+- 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2018-03-01-kriging-con-stan.md
+- 2022-11-04-umap-tsne-etc.md
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
 tags:
 - estadística
 - gcdnet
 - regresión logística
 - svm
+title: Pues los SVMs, al final, no son tan exóticos
+url: /2017/09/11/pues-los-svms-al-final-no-son-tan-exoticos/
 ---
 
 Impartí un curso sobre máquinas de vector soporte (SVMs en lo que sigue) en Lima el pasado mes de agosto.
@@ -42,7 +48,3 @@ Resumiendo, en el fondo, estamos haciendo, casi, regresión logística (con o si
 * Me encantan los resultados que subsumen unas cosas en otras.
 * Busqué y no encontré referencias a cuándo fue y de mano de quién que vino a obtenerse esta reformulación. ¿Será del mismo Vapnik? ¿Será de otro? ¿Será [esta](http://cbcl.mit.edu/publications/ps/evgeniou-reviewall.pdf)? ¿Le sabría malo?
 * Es posible ajustar _modelos_ SVM sin tener que plantear un programa cuadrático, etc. Basta con minimizar la función de pérdida anterior directamente, como hace el paquete [`gcdnet`](https://cran.r-project.org/web/packages/gcdnet/index.html) de R.
-
-
-
-

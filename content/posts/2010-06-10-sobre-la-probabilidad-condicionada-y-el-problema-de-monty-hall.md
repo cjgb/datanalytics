@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-06-10 20:11:30+00:00
-draft: false
-title: Sobre la probabilidad condicionada y el problema de Monty Hall
-
-url: /2010/06/10/sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall/
 categories:
 - estadística
+date: 2010-06-10 20:11:30+00:00
+draft: false
+lastmod: '2025-04-06T19:01:50.518231'
+related:
+- 2019-10-07-una-version-intuitiva-del-problema-de-monty-hall.md
+- 2021-10-28-monty-hall-reformulado.md
+- 2015-02-19-decisiones-a-ojo-de-buen-cubero.md
+- 2025-02-06-monty-hall.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
 tags:
 - estadística
 - monty hall
+title: Sobre la probabilidad condicionada y el problema de Monty Hall
+url: /2010/06/10/sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall/
 ---
 
 Cuando era estudiante, hace ya demasiado, un compañero mío me comentaba los problemas que tenía para hacer comprender a sus alumnos resultados básicos sobre cálculo de probabilidad, probabilidades condicionadas y similares: a aquellos alumnos el resultado que aparecía en la pizarra les parecía ilógico y no parecía haber manera de sacarlos de su empecinamiento.

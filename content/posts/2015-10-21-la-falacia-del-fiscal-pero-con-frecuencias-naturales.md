@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-10-21 08:13:28+00:00
-draft: false
-title: La falacia del fiscal (pero con frecuencias naturales)
-
-url: /2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/
 categories:
 - estadística
 - probabilidad
+date: 2015-10-21 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:47:59.959971'
+related:
+- 2022-09-06-problema-estadistica-frecuencias-naturales.md
+- 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
+- 2017-11-30-de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen.md
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
 tags:
 - falacias
 - fiscal
 - frecuencias naturales
 - gigerenzer
 - spiegelhalter
+title: La falacia del fiscal (pero con frecuencias naturales)
+url: /2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/
 ---
 
 No sé si alguien conoce [la historia de Sally Clark](https://en.wikipedia.org/wiki/Sally_Clark). Fue condenada por el asesinato de sus dos hijos. Ambos padecieron, según ella, el síndrome de la muerte súbita del lactante. La probabilidad, sin embargo, de que sus dos hijos lo padecieran (supuesto que son eventos independientes, i.e., que no hay, por ejemplo, factores genéticos comunes) era muy baja: una de 73 millones. Por eso la enchironaron.

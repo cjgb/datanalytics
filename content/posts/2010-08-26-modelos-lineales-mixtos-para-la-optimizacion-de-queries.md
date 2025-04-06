@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-26 22:11:41+00:00
-draft: false
-title: Modelos lineales mixtos para la optimización de queries
-
-url: /2010/08/26/modelos-lineales-mixtos-para-la-optimizacion-de-queries/
 categories:
 - estadística
+date: 2010-08-26 22:11:41+00:00
+draft: false
+lastmod: '2025-04-06T19:04:23.646658'
+related:
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2011-09-28-datos-grandes-colas-largas.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2012-03-08-varianza-explicada.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
 tags:
 - estadística
 - modelos mixtos
 - sql
+title: Modelos lineales mixtos para la optimización de queries
+url: /2010/08/26/modelos-lineales-mixtos-para-la-optimizacion-de-queries/
 ---
 
 Hoy aprovecho que pasan dos pájaros por el cielo para pegar un tiro que, seguro, es del interés de mis lectores: voy a utilizar un modelo lineal mixto para estudiar los factores que afectan al rendimiento de una familia de _queries_ de SQL complejas.
@@ -196,4 +202,3 @@ Finalmente, doy respuesta a lo que más de uno se estará preguntando: todo esto
 
 * El primero, que parece necesario identificar ventanas temporales en las que el servidor esté desocupado para realizar pruebas de rendimiento: dos desviaciones estándar de _ruido intra-query_ multiplican los tiempos de ejecución en un factor de 5.4264 (=2^(2*1.22) ). Es algo que se intuía pero no se cuantificaba. Y que ponía en entredicho pruebas de rendimiento realizadas anteriormente.
 * El segundo, que las dependencias del tiempo de ejecución con respecto al tamaño de las _subqueries_ no son, como se suponía un tanto cándidamente, O(1). Más bien, son O(n*m). Y esto sugirió [alterar el orden de los cruces de las tablas](http://www.datanalytics.com/2010/05/19/¿en-que-se-parecen-oracle-y-teradata-a-excel-y-word/) para lograr un plan de ejecución alternativo más rápido y robusto (que, de hecho, se encontró).
-

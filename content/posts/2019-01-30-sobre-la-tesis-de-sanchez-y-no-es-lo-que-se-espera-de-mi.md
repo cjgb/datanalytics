@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-30 08:13:39+00:00
-draft: false
-title: Sobre la tesis de Sánchez (y no es lo que se espera de mí)
-
-url: /2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/
 categories:
 - consultoría
 - estadística
 - varios
+date: 2019-01-30 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:45:23.028920'
+related:
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2020-11-26-a-que-les-ha-jugado-una-mala-pasada-el-excel.md
 tags:
 - noticias
 - paripé
 - tesis
 - excel
+title: Sobre la tesis de Sánchez (y no es lo que se espera de mí)
+url: /2019/01/30/sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi/
 ---
 
 Me preguntaron mucho (antes de los últimos seis o siete circos mediáticos) sobre la tesis de Sánchez, cuando _estaba en el candelabro_. La bajé, la leí en parte (muchas de las páginas más infumables en diagonal, lo reconozco) y me centré en la parte estadística.

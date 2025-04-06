@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-09 15:28:47+00:00
-draft: false
-title: 'Datatables: tablas con búsqueda binaria en R'
-
-url: /2010/05/09/datatables-tablas-con-busqueda-binaria-en-r/
 categories:
 - r
+date: 2010-05-09 15:28:47+00:00
+draft: false
+lastmod: '2025-04-06T19:10:01.301166'
+related:
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2013-05-02-data-table-i-cruces.md
+- 2011-12-09-bajo-el-capo-de-teradatar.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
 tags:
 - r
 - sql
 - paquetes
 - data.table
+title: 'Datatables: tablas con búsqueda binaria en R'
+url: /2010/05/09/datatables-tablas-con-busqueda-binaria-en-r/
 ---
 
 No hace mucho me enfrenté con un problema en el trabajo. Quería cruzar dos tablas, una de algunos miles de millones de registros y otra de algunos cientos de miles para, simplemente, contar el número de filas finales que aparecían por fecha.

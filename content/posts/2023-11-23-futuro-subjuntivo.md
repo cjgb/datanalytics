@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-23
-draft: false
-title: En defensa del futuro del subjuntivo
-
-url: /2023/11/23/futuro-subjuntivo/
 categories:
 - probabilidad
+date: 2023-11-23
+draft: false
+lastmod: '2025-04-06T19:00:16.626556'
+related:
+- 2022-12-29-aristoteles-probable-improbable.md
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2016-02-17-evidencialidad.md
+- 2019-06-24-existiria-la-cosa-de-la-que-voy-a-hablar-lo-veo-muy-poco-probable.md
+- 2015-07-01-condicional-e-incertidumbre.md
 tags:
 - lingüística
 - incertidumbre
+title: En defensa del futuro del subjuntivo
+url: /2023/11/23/futuro-subjuntivo/
 ---
 
 Compárense las tres frases:

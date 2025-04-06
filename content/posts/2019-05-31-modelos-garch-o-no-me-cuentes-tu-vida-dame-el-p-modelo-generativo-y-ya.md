@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-31 09:11:07+00:00
-draft: false
-title: 'Modelos GARCH (o: no me cuentes tu vida, dame el pxxx modelo generativo y
-  ya)'
-
-url: /2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/
 categories:
 - estadística
 - r
+date: 2019-05-31 09:11:07+00:00
+draft: false
+lastmod: '2025-04-06T19:05:42.906957'
+related:
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md
+- 2018-10-23-abc-2.md
+- 2015-11-13-gam.md
 tags:
 - garch
 - modelos generativos
 - r
 - series temporales
 - stan
+title: 'Modelos GARCH (o: no me cuentes tu vida, dame el pxxx modelo generativo y
+  ya)'
+url: /2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/
 ---
 
 Los modelos GARCH son otra de esas cosas de las que oyes hablar y como nunca se convierten en problemas de los _de carne en el asador_, preocupan poco y ocupan menos (más allá de que sabes que se trata de modelos similares a los de series temporales _de toda la vida_ donde la varianza varía de cierta forma a lo largo del tiempo).  Pero comienzas a leer cosas como [esta](https://ntguardian.wordpress.com/2019/01/28/problems-estimating-garch-parameters-r-part-2-rugarch/) y no te enteras de nada: solo hay letras y llamadas a funciones oscuras y oscurantistas.
@@ -51,5 +57,3 @@ plot(sigma, type = "l", main = "sigma",
 
 
 ![](/wp-uploads/2019/05/garch.R.png#center)
-
-

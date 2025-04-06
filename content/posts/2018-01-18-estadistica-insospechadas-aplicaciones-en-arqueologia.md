@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-18 08:13:26+00:00
-draft: false
-title: Insospechadas aplicaciones de la estadística en arqueología
-
-url: /2018/01/18/estadistica-insospechadas-aplicaciones-en-arqueologia/
 categories:
 - estadística
+date: 2018-01-18 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:56:38.409660'
+related:
+- 2017-11-23-arqueologos-bayesianos.md
+- 2020-11-20-distancias-iv-la-solucion-rapida-y-sucia.md
+- 2018-03-01-kriging-con-stan.md
+- 2018-10-23-abc-2.md
+- 2014-05-13-visual-explanations-de-tufte-el-primer-grafico-estadistico.md
 tags:
 - arqueología
 - comercio
@@ -14,6 +18,8 @@ tags:
 - gravedad
 - tablillas
 - turquía
+title: Insospechadas aplicaciones de la estadística en arqueología
+url: /2018/01/18/estadistica-insospechadas-aplicaciones-en-arqueologia/
 ---
 
 Se ve que hace 4000 años existió una incipiente actividad comercial entre protociudades situadas en las actuales Turquía, Siria e Irak:

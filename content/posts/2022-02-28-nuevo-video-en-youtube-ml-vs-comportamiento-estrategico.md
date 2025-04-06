@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-28
-title: 'Nuevo vídeo en YouTube: "Modelos estadísticos vs comportamiento estratégico"'
-
-url: /2022/02/28/nuevo-video-en-youtube-modelos-estadisticos-comportamiento-estrategico/
 categories:
 - youtube
+date: 2022-02-28
+lastmod: '2025-04-06T18:48:57.632965'
+related:
+- 2023-06-27-seeing-like-market.md
+- 2021-09-14-nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos.md
+- 2021-11-09-nuevo-video-en-youtube-street-fighting-statistics-2-n.md
+- 2022-02-08-efecto-pierna-rota.md
+- 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md
 tags:
 - estadística
 - libros
 - vídeos
 - youtube
 - economía
+title: 'Nuevo vídeo en YouTube: "Modelos estadísticos vs comportamiento estratégico"'
+url: /2022/02/28/nuevo-video-en-youtube-modelos-estadisticos-comportamiento-estrategico/
 ---
 
 {{< youtube id="oVmZnZB-nJA" >}}
@@ -24,4 +30,3 @@ En el vídeo se hace referencia a una serie de materiales. Sus coordenadas son:
 - El libro de Paul Meehl [_Clinical vs statistical prediction_](https://www.goodreads.com/book/show/3183060-clinical-versus-statistical-prediction)
 - El artículo de Akerlof [_The_Market_for_Lemons_](https://en.wikipedia.org/wiki/The_Market_for_Lemons)
 - Yo sobre el [efecto "pierna rota"](https://www.datanalytics.com/2022/02/08/efecto-pierna-rota/)
-

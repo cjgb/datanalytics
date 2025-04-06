@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-05-14 07:00:28+00:00
-draft: false
-title: 'Nueva versión de MicroDatosEs: héroes, villanos y mejoras'
-
-url: /2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/
 categories:
 - r
+date: 2014-05-14 07:00:28+00:00
+draft: false
+lastmod: '2025-04-06T19:03:08.654236'
+related:
+- 2014-06-27-disponible-una-nueva-version-de-microdatoses.md
+- 2024-01-18-microdatoses-ultima-version.md
+- 2012-08-13-fallecimientos-y-microdatos.md
+- 2018-06-12-un-aplauso-para-el-ine.md
+- 2015-06-18-la-encuesta-de-presupuestos-familiares-en-microdatoses.md
 tags:
 - censo
 - epa
 - memisc
 - microdatoses
 - r
+title: 'Nueva versión de MicroDatosEs: héroes, villanos y mejoras'
+url: /2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/
 ---
 
 Ayer odié mucho a José Luis Cañadas —que sigue no obstante siendo amigo: véase más abajo— por esto:

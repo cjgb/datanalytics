@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-24 09:13:00+00:00
-draft: false
-title: Un decepcionante método de "inferencia robusta" para GLMs de Poisson
-
-url: /2020/09/24/un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson/
 categories:
 - estadística
+date: 2020-09-24 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:21.221448'
+related:
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2020-07-16-no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - estadística robusta
 - glm
 - poisson
 - sobredispersión
+title: Un decepcionante método de "inferencia robusta" para GLMs de Poisson
+url: /2020/09/24/un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson/
 ---
 
 _[Quod si sal evanuerit in quo sallietur ad nihilum valet ultra nisi ut mittatur foras et conculcetur ab hominibus_._]_

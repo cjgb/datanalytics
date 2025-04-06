@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-20 08:13:16+00:00
-draft: false
-title: Redes sin neutralidad de red que funcionan tan ricamente
-
-url: /2017/12/20/redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente/
 categories:
 - números
 - varios
+date: 2017-12-20 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:04:00.913151'
+related:
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
+- 2024-05-14-neutralidad-red.md
+- 2017-11-28-neutralidad-de-la-red-importa.md
+- 2018-12-03-sobre-madrid-central.md
+- 2012-03-28-contrafactualidad-radial.md
 tags:
 - economía
 - neutralidad en la red
 - redes
+title: Redes sin neutralidad de red que funcionan tan ricamente
+url: /2017/12/20/redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente/
 ---
 
 Existen muchas redes de distribución. La red vial es una de ellas. La de pan, leche y huevos, otra. La de electricidad. La telefónica. Y la de paquetes de datos internet.

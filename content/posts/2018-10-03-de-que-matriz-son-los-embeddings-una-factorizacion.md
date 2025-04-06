@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-03 08:13:49+00:00
-draft: false
-title: ¿De qué matriz son los "embeddings" una factorización?
-
-url: /2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/
 categories:
 - ciencia de datos
+date: 2018-10-03 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T19:12:25.235075'
+related:
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2022-09-01-tf-idf.md
+- 2018-10-15-dos-ejercicios-propuestos-sobre-embeddings.md
+- 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
+- 2018-10-04-embeddings-y-analisis-del-carrito-de-la-compra.md
 tags:
 - embeddings
 - matrices
 - nlp
 - texto
+title: ¿De qué matriz son los "embeddings" una factorización?
+url: /2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/
 ---
 
 Hoy, _embeddings_. Esto va de reducir la dimensionalidad de un espacio generado por palabras (procedentes de textos). Si a cada palabra le asignamos un vector índice (todo ceros y un uno donde le corresponde), la dimensión del espacio de palabras es excesiva.

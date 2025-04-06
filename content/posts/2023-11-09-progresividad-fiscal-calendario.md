@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-09
-title: "La progresividad fiscal: una perspectiva temporal"
-
-url: /2023/11/09/progresividad-fiscal-temporal/
 categories:
 - varios
+date: 2023-11-09
+lastmod: '2025-04-06T19:01:49.712278'
+related:
+- 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md
+- 2011-02-25-1605.md
+- 2018-04-17-de-espana-a-dinamarca-en-dos-pasos.md
 tags:
 - r
 - impuestos
+title: 'La progresividad fiscal: una perspectiva temporal'
+url: /2023/11/09/progresividad-fiscal-temporal/
 ---
 
 En

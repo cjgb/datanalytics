@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-15 06:47:59+00:00
-draft: false
-title: 'Test de Student e importancia práctica: un ejercicio'
-
-url: /2012/10/15/test-de-student-e-importancia-practica-un-ejercicio/
 categories:
 - estadística
+date: 2012-10-15 06:47:59+00:00
+draft: false
+lastmod: '2025-04-06T19:07:47.186471'
+related:
+- 2012-10-23-test-de-student-e-importancia-practica-una-solucion-para-su-discusion.md
+- 2023-09-28-potencia-tests.md
+- 2023-03-21-reduccion-error-tests-ab.md
+- 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
+- 2021-03-09-sobre-la-inferencia-basada-en-magnitudes.md
 tags:
 - estadística
 - prueba de hipótesis
 - placebo
+title: 'Test de Student e importancia práctica: un ejercicio'
+url: /2012/10/15/test-de-student-e-importancia-practica-un-ejercicio/
 ---
 
 Esto de los test estadísticos junto con un cierto tipo de formación estadística conduce a automatismos que, a menudo, nos cuesta sacudirnos. Tendemos a aceptar y rechazar hipótesis con escaso juicio. Y una de las dimensiones de un estudio que se ignoran en ocasiones es el de la importancia práctica. Que es, tal vez, aquel por el que se propuso la prueba en primer lugar.

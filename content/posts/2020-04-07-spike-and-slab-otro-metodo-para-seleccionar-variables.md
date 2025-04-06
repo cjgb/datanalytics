@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-07 09:13:00+00:00
-draft: false
-title: 'Spike and slab: otro método para seleccionar variables'
-
-url: /2020/04/07/spike-and-slab-otro-metodo-para-seleccionar-variables/
 categories:
 - estadística
 - r
+date: 2020-04-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:01.724159'
+related:
+- 2018-01-12-abc.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2018-10-23-abc-2.md
+- 2018-03-01-kriging-con-stan.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
 tags:
 - estadística bayesiana
 - r
 - variables categóricas
 - varian
+title: 'Spike and slab: otro método para seleccionar variables'
+url: /2020/04/07/spike-and-slab-otro-metodo-para-seleccionar-variables/
 ---
 
 Me sorprende ver todavía a gente utilizar técnicas _stepwise_ para la selección de variables en modelos. Sobre todo, existiendo herramientas como _elastic net_ o _lasso_.

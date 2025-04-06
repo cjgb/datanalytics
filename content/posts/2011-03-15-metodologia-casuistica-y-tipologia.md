@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-15 09:30:09+00:00
-draft: false
-title: Metodología, casuística y tipología
-
-url: /2011/03/15/metodologia-casuistica-y-tipologia/
 categories:
 - consultoría
+date: 2011-03-15 09:30:09+00:00
+draft: false
+lastmod: '2025-04-06T18:48:16.259981'
+related:
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2017-10-09-la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia.md
+- 2023-05-25-evaluaciones-clinicas-actuariales.md
+- 2011-02-14-c2bfmas-optimo-uffff.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
 tags:
 - consultoría
+title: Metodología, casuística y tipología
+url: /2011/03/15/metodologia-casuistica-y-tipologia/
 ---
 
 Me enterneció el otro día encontrar un [artículo](http://blogs.elpais.com/lluis_bassets/2011/03/contra-gadafi-guerra-justa-.html) en el que la palabra _casuística _se utilizaba de manera recta. Y es que cifro el abuso que se hace de los términos _metodología_, _casuística _y _tipología_—junto con la expresión _más óptimo_, de la que [ya nos ocupamos otro día](http://www.datanalytics.com/2011/02/14/mas-optimo-uffff/)—  entre los más irritantes que comete el hablante poco versado en temas ortográficos y léxicos que trata de aparentar lo que no es.  Y abundan tristemente en el mundo de la consultoría, que es el que más me compete. Hago constar pues mi denuncia razonada para que no se entienda que mi silencio al respecto es connivencia o, peor aún, ignorancia.

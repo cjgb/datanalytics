@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-19 08:13:24+00:00
-draft: false
-title: Fedatarios, blockchain y bitcoin
-
-url: /2017/09/19/fedatarios-blockchain-y-bitcoin/
 categories:
 - varios
+date: 2017-09-19 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:57:25.174674'
+related:
+- 2017-11-08-todo-sobre-bitcoin-y-por-que-he-decidido-cogerle-mania.md
+- 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md
+- 2019-02-08-ya-pero-es-viable-un-fact-check-descentralizado-entonces-que-hacer.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
 tags:
 - bitcoin
 - blockchain
 - bitcoin
+title: Fedatarios, blockchain y bitcoin
+url: /2017/09/19/fedatarios-blockchain-y-bitcoin/
 ---
 
 Dos veces me han preguntado al respecto. Por no aburrir ni aburrirme y poder contestar con una URL, escribo esta entrada en la que deslindo tres conceptos que por razones históricas y de la misma complejidad del asunto, se entreveran y confunden.

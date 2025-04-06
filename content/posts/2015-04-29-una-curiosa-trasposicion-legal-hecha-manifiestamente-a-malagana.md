@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-29 08:13:04+00:00
-draft: false
-title: Una curiosa trasposición legal (hecha, manifiestamente, a malagana)
-
-url: /2015/04/29/una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana/
 categories:
 - nlp
 - r
+date: 2015-04-29 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T19:06:06.197242'
+related:
+- 2016-08-29-la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional.md
+- 2016-06-13-censura-a-la-izquierda-en-las-universidades-espanolas.md
+- 2012-09-20-como-votan-los-diputados.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
 tags:
 - nlp
 - r
 - reutilización
+title: Una curiosa trasposición legal (hecha, manifiestamente, a malagana)
+url: /2015/04/29/una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana/
 ---
 
 El parlamento de la Unión Europea aprueba [directivas](http://es.wikipedia.org/wiki/Directiva_%28Derecho_de_la_Uni%C3%B3n_Europea%29). Los parlamentos nacionales las _trasponen_, es decir, las convierten en leyes nacionales (véase el enlace anterior).
@@ -113,4 +119,3 @@ Diferencias apreciables:
 * La directiva habla de tarifas y la ley de tasas. Pequeña cosa.
 * La directiva habla del mercados y en la ley parece importar más las administraciones; pero eso era adivinable: ¡estamos es España y quienes redactaron la ley crecieron viendo [esto](https://www.youtube.com/watch?v=Pqd6Ue44X94) en la tele!
 * En la ley aparece una sección de infracciones. La palabra grave, de hecho, se refiere ellas. ¡Por supuesto! Los ciudadanos tenemos que exigir que la administración persiga y castigue a los perversos reutilizadores de información pública que aviesamente omitan la fecha de última actualización de esos datos encasquetándoles una infracción (leve en este caso), con multa asociada de 1000 a 10000 euracos.
-

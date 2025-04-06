@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-30 08:13:13+00:00
-draft: false
-title: 'Sobre ciencia de datos en UNIR: teoría y gente'
-
-url: /2016/09/30/sobre-ciencia-de-datos-en-unir-teoria-y-gente/
 categories:
 - anuncio
 - varios
+date: 2016-09-30 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T18:51:03.877355'
+related:
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2024-03-21-cortos.md
+- 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
+- 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md
+- 2023-10-05-llms-historia.md
 tags:
 - anuncio
 - big data
+title: 'Sobre ciencia de datos en UNIR: teoría y gente'
+url: /2016/09/30/sobre-ciencia-de-datos-en-unir-teoria-y-gente/
 ---
 
 Hoy (jueves) he participado en un _desayuno de trabajo_ organizado en la [UNIR](http://www.unir.net/) como pistoletazo de salida a un curso de inteligencia artificial en el que tendré una pequeña participación.

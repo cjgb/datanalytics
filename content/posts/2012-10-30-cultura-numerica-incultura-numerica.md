@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-30 07:49:35+00:00
-draft: false
-title: Cultura numérica, incultura numérica
-
-url: /2012/10/30/cultura-numerica-incultura-numerica/
 categories:
 - números
+date: 2012-10-30 07:49:35+00:00
+draft: false
+lastmod: '2025-04-06T19:09:20.410484'
+related:
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2013-01-03-eres-un-analfabeto-numerico.md
+- 2015-03-20-campana-de-alfabetizacion-numerica-para-diputados.md
 tags:
 - anumerismo
 - datos abiertos
 - periodismo de datos
+title: Cultura numérica, incultura numérica
+url: /2012/10/30/cultura-numerica-incultura-numerica/
 ---
 
 Traigo hoy dos enlaces relacionados a mi bitácora.

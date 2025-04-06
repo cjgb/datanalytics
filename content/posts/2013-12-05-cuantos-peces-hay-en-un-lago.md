@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-12-05 07:14:48+00:00
-draft: false
-title: ¿Cuántos peces hay en un lago?
-
-url: /2013/12/05/cuantos-peces-hay-en-un-lago/
 categories:
 - estadística
 - probabilidad
 - r
+date: 2013-12-05 07:14:48+00:00
+draft: false
+lastmod: '2025-04-06T19:02:31.644991'
+related:
+- 2014-04-03-the-elements-of-statistical-artisany.md
+- 2015-12-10-una-revisita-a-cuantos-peces-hay-en-un-lago.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2022-12-15-raking.md
 tags:
 - estadística
 - estimación
@@ -17,6 +21,8 @@ tags:
 - peces
 - probabilidad
 - r
+title: ¿Cuántos peces hay en un lago?
+url: /2013/12/05/cuantos-peces-hay-en-un-lago/
 ---
 
 Quien haya estudiado estadística o probabilidad en algún tipo de institución que ofrece educación reglada se habrá topado con el problema de estimar el número de peces de un lago.

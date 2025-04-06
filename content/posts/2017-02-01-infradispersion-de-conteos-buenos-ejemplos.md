@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-01 08:13:15+00:00
-draft: false
-title: 'Infradispersión de conteos: ¿buenos ejemplos?'
-
-url: /2017/02/01/infradispersion-de-conteos-buenos-ejemplos/
 categories:
 - estadística
+date: 2017-02-01 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:08:35.761323'
+related:
+- 2020-09-15-infradispersion-en-la-logistica.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
 tags:
 - dispersión
 - estadística
 - poisson
 - infradispersión
 - sobredispersión
+title: 'Infradispersión de conteos: ¿buenos ejemplos?'
+url: /2017/02/01/infradispersion-de-conteos-buenos-ejemplos/
 ---
 
 La distribución de Poisson se utiliza de oficio cuando se quiere modelar datos relativos a conteos. Sin embargo, tiene un problema serio: la varianza está fijada a la media: ambas son $latex \lambda$, el parámetro de la distribución.

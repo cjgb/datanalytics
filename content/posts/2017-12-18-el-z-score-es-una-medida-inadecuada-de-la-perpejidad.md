@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-18 08:13:26+00:00
-draft: false
-title: El z-score es una medida inadecuada de la perplejidad
-
-url: /2017/12/18/el-z-score-es-una-medida-inadecuada-de-la-perpejidad/
 categories:
 - estadística
 - probabilidad
+date: 2017-12-18 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:48:27.353583'
+related:
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-10-21-z-scores-p-scores-y-el-problema-de-las-areas-pequenas.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - modelos
 - poisson
 - probabilidad
 - z-score
+title: El z-score es una medida inadecuada de la perplejidad
+url: /2017/12/18/el-z-score-es-una-medida-inadecuada-de-la-perpejidad/
 ---
 
 Tenemos un dato y un valor de referencia. Por ejemplo, el valor predicho por uno modelo y el observado. Queremos medir la distancia entre ambos. ¿En qué unidades?
@@ -28,6 +34,3 @@ Y es inferior, entre otros motivos, por su limitado ámbito de aplicación. ¿Qu
 Estas probabilidades, además, deberían tener una distribución uniforme, con lo que verificar la bondad de los modelos sería una trivialidad.
 
 Pero como no es así y estamos anclados en lo viejuno, con errores de Poisson y muchos otros, tenemos que hacer mil malabares para simetrizar y normalizar los residuos (como [aquí](https://www.datanalytics.com/2017/12/15/la-poisson-y-la-estabilizacion-de-la-varianza/)), etc.
-
-
-

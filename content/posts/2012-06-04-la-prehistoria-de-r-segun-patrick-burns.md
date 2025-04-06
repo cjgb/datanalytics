@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-04 07:29:16+00:00
-draft: false
-title: La prehistoria de R, según Patrick Burns
-
-url: /2012/06/04/la-prehistoria-de-r-segun-patrick-burns/
 categories:
 - r
+date: 2012-06-04 07:29:16+00:00
+draft: false
+lastmod: '2025-04-06T18:50:39.565660'
+related:
+- 2017-05-08-como-fue-r-antes-de-r.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2013-06-24-pqr-un-r-mas-rapido.md
 tags:
 - r
 - historia
+title: La prehistoria de R, según Patrick Burns
+url: /2012/06/04/la-prehistoria-de-r-segun-patrick-burns/
 ---
 
 Para muchos de nosotros, R es algo del siglo XXI. [Patrick Burns](http://www.portfolioprobe.com/), sin embargo, es capaz de estirar la memoria hasta hace casi 30 años, 1984, momento en el que S, que era entonces un proyecto experimental de los laboratorios Bell, _salió al mundo_.

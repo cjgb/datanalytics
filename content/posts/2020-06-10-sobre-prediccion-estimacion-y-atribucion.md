@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-10 09:13:00+00:00
-draft: false
-title: Sobre "Predicción, estimación y atribución"
-
-url: /2020/06/10/sobre-prediccion-estimacion-y-atribucion/
 categories:
 - ciencia de datos
 - estadística
+date: 2020-06-10 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:47:38.136859'
+related:
+- 2024-10-17-interpretacion-modelos.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2021-01-26-que-modelas-cuando-modelas.md
+- 2024-02-01-optimizacion-generalizacion.md
 tags:
 - artículos
 - efron
 - estimación
 - p-valores
 - predicción
+title: Sobre "Predicción, estimación y atribución"
+url: /2020/06/10/sobre-prediccion-estimacion-y-atribucion/
 ---
 
 Subrayo hoy aquí tres cuestiones que considero importantes del reciente artículo _[Prediction, Estimation, and Attribution](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2020.1762613?needAccess=true)_ de B. Efron (para otra visión, véase [esto](https://muestrear-no-es-pecado.netlify.app/2020/06/07/predicci%C3%B3n-estimaci%C3%B3n-atribuci%C3%B3n/)).

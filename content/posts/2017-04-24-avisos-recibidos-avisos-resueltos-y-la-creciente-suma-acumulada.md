@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-24 08:13:24+00:00
-draft: false
-title: Avisos recibidos, avisos resueltos y la creciente suma acumulada
-
-url: /2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/
 categories:
 - números
+date: 2017-04-24 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T19:12:05.433882'
+related:
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2012-09-05-los-principales-problemas-de-espana.md
 tags:
 - ayuntamiento
 - data.table
@@ -14,6 +18,8 @@ tags:
 - datos públicos
 - madrid
 - xts
+title: Avisos recibidos, avisos resueltos y la creciente suma acumulada
+url: /2017/04/24/avisos-recibidos-avisos-resueltos-y-la-creciente-suma-acumulada/
 ---
 
 El ayuntamiento de Madrid publica [información (desde 2015) de los avisos](https://goo.gl/gzFH6I) recibidos por los ciudadanos a través de los distintos canales puestos a su disposición (010, [LineaMadrid](https://twitter.com/Lineamadrid), la [_app_](https://goo.gl/WLFzNU), etc.).

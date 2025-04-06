@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-25 09:13:00+00:00
-draft: false
-title: Los orígenes de la sicología WEIRD
-
-url: /2020/09/25/los-origenes-de-la-sicologia-weird/
 categories:
 - artículos
 - varios
+date: 2020-09-25 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:09.494916'
+related:
+- 2021-05-20-por-que-nos-habremos-acostumbrado-a-esto.md
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
+- 2023-06-27-seeing-like-market.md
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2019-07-02-aprender-deprisa-aprender-despacio.md
 tags:
 - artículos
 - sicología
+title: Los orígenes de la sicología WEIRD
+url: /2020/09/25/los-origenes-de-la-sicologia-weird/
 ---
 
 Es oportuno en estos tiempos que corren aprender los unos y recordar los otros por qué los WEIRD (occidentales, educados, industrializados, ricos y democráticos, recuerdo) somos excepcionales (en las acepciones del término que a cada cual le plazcan más).

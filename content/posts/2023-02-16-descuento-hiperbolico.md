@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-02-16
-title: 'Descuento hiperbólico: una perspectiva bayesiana'
-
-url: /2023/02/16/descuento-hiperbolico-bayesiano/
 categories:
 - estadística bayesiana
+date: 2023-02-16
+lastmod: '2025-04-06T19:05:33.955883'
+related:
+- 2024-06-03-descuento-hiperbolico.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
+- 2024-12-05-beta-binomial-deriva.md
 tags:
 - economía
 - sicología
 - estadística bayesiana
 - incertidumbre
 - descuento hiperbólico
+title: 'Descuento hiperbólico: una perspectiva bayesiana'
+url: /2023/02/16/descuento-hiperbolico-bayesiano/
 ---
 
 Por un lado, nos enseñan que para descontar flujos de caja futuros tenemos que usar la función exponencial ---para una determinada tasa de descuento o, en algunos contextos, tipo de interés---:

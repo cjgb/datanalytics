@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-26 08:13:09+00:00
-draft: false
-title: 'PIB y progreso: ¿mide lo que debe medir?'
-
-url: /2016/05/26/pib-y-progreso-mide-lo-que-debe-medir/
 categories:
 - números
+date: 2016-05-26 08:13:09+00:00
+draft: false
+lastmod: '2025-04-06T18:45:36.397176'
+related:
+- 2011-02-25-1605.md
+- 2011-01-11-pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
+- 2010-05-31-de-numeros-y-funcionarios.md
 tags:
 - economía
 - estadística pública
 - ine
 - pib
+title: 'PIB y progreso: ¿mide lo que debe medir?'
+url: /2016/05/26/pib-y-progreso-mide-lo-que-debe-medir/
 ---
 
 Anoche me busqué a mí mismo en el [Registro Mercantil](http://www.registradores.org). Sudé la gota gorda y cuando me encontré, es decir, recibí una notificación de que mis registros habían sido ubicados por el buscador, me apareció una aviso: si quería proceder a ver los resultados de la búsqueda tenía que abonar 1.78 euros (creo).

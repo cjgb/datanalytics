@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-10 09:13:23+00:00
-draft: false
-title: Un resultado contraintuitivo
-
-url: /2019/04/10/un-resultado-contraintuitivo/
 categories:
 - estadística
+date: 2019-04-10 09:13:23+00:00
+draft: false
+lastmod: '2025-04-06T19:01:21.378613'
+related:
+- 2019-03-13-mezclas-y-regularizacion.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2016-02-29-los-tres-contraargumentos-habituales.md
+- 2019-12-02-sobre-los-coeficientes-de-los-glm-en-scikit-learn.md
 tags:
 - estadística
 - estadística bayesiana
 - priori
 - regresión ridge
+title: Un resultado contraintuitivo
+url: /2019/04/10/un-resultado-contraintuitivo/
 ---
 
 [Esta entrada recoge la pregunta y la duda que motivó una conversación con [Javier Nogales](https://twitter.com/fjnogales) en Twitter hace unos días.]
@@ -34,6 +40,3 @@ Reflexiones:
 * Pero a la vez penaliza que los coeficientes se alejen demasiado, por lo que se reduciría su varianza potencial.
 
 De todos modos modos, tal y como lo he planteado, el resultado es bien contraintuitivo.
-
-
-

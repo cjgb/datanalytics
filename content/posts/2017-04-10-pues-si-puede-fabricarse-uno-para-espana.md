@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-10 08:13:28+00:00
-draft: false
-title: Pues sí, puede fabricarse uno para España
-
-url: /2017/04/10/pues-si-puede-fabricarse-uno-para-espana/
 categories:
 - r
+date: 2017-04-10 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T19:04:48.304683'
+related:
+- 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
+- 2018-02-27-estructura-poblacional-de-espana-2010-2050.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
 tags:
 - españa
 - ggplot2
 - gráficos
 - r
 - pequeños múltiplos
+title: Pues sí, puede fabricarse uno para España
+url: /2017/04/10/pues-si-puede-fabricarse-uno-para-espana/
 ---
 
 Es

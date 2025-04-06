@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-29 00:16:28+00:00
-draft: false
-title: ¡Qué mala suerte tengo con las anomalías!
-
-url: /2010/10/29/que-mala-suerte-tengo-con-las-anomalias/
 categories:
 - estadística
 - finanzas
+date: 2010-10-29 00:16:28+00:00
+draft: false
+lastmod: '2025-04-06T18:49:43.361311'
+related:
+- 2014-02-18-el-yuyuplot-en-perspectiva.md
+- 2012-07-05-afecto-el-fraude-de-barclays-al-libor.md
+- 2012-10-18-algunos-graficos-de-informacion-bursatil.md
+- 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
 tags:
 - finanzas
 - r
 - outliers
 - paquetes
+title: ¡Qué mala suerte tengo con las anomalías!
+url: /2010/10/29/que-mala-suerte-tengo-con-las-anomalias/
 ---
 
 El siempre muy benéfico Banco de Santander me ha proporcionado ---onerosamente: veráse el porqué--- un conjunto de datos con el que ilustrar a los lectores de este blog en el uso del paquete `outliers` de R.  Los datos son los siguientes:

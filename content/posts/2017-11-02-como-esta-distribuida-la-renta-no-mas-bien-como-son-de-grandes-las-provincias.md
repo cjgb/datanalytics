@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-02 08:13:04+00:00
-draft: false
-title: ¿Cómo está distribuida la renta? No, más bien, cómo son de grandes las provincias
-
-url: /2017/11/02/como-esta-distribuida-la-renta-no-mas-bien-como-son-de-grandes-las-provincias/
 categories:
 - estadística
+date: 2017-11-02 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T19:08:01.318695'
+related:
+- 2022-01-02-por-que-vivimos-espanoles-tanta-altitud.md
+- 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2011-11-03-2872.md
+- 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
 tags:
 - estadística
 - gráficos
 - provincias
 - varianza
 - áreas pequeñas
+title: ¿Cómo está distribuida la renta? No, más bien, cómo son de grandes las provincias
+url: /2017/11/02/como-esta-distribuida-la-renta-no-mas-bien-como-son-de-grandes-las-provincias/
 ---
 
 El gráfico
@@ -39,4 +45,3 @@ En Europa se usan las regiones NUTS-3, que vienen a equivaler a las provincias e
 Lo cual por sí solo puede explicar ciertas cosas.
 
 Termino señalando que también viene al caso [esto](https://elpais.com/economia/2017/10/17/actualidad/1508262262_409357.html). Y la [ipsohemeroteca](https://www.datanalytics.com/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/). ¡Cuidadín con el tamaño de las cosas!
-

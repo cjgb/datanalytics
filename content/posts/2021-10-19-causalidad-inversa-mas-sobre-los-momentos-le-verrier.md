@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-10-19 09:13:00+00:00
-draft: false
-title: 'Causalidad inversa: más sobre los momentos "Le Verrier"'
-
-url: /2021/10/19/causalidad-inversa-mas-sobre-los-momentos-le-verrier/
 categories:
 - estadística
 - varios
+date: 2021-10-19 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:11:44.637641'
+related:
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2021-10-01-esos-felices-momentos-le-verrier.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2024-10-08-cortos-stats.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
 - causalidad
 - modelos
 - predicción
 - le verrier
+title: 'Causalidad inversa: más sobre los momentos "Le Verrier"'
+url: /2021/10/19/causalidad-inversa-mas-sobre-los-momentos-le-verrier/
 ---
 
 Escribí el otro día sobre los llamados [momentos Le Verrier](https://www.datanalytics.com/2021/10/01/esos-felices-momentos-le-verrier/). Que, siguiendo la nomenclatura de _[Why ask why? Forward causal inference and reverse causal questions](https://www.nber.org/system/files/working_papers/w19614/w19614.pdf)_ no son otra cosa que ejercicios de causalidad inversa con final feliz.

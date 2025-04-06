@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-11-18 09:13:00+00:00
-draft: false
-title: Sobre el almacenamiento "industrial" de la energía eléctrica
-
-url: /2021/11/18/sobre-el-almacenamiento-industrial-de-la-energia-electrica/
 categories:
 - números
+date: 2021-11-18 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:08:19.540621'
+related:
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2022-10-25-muchos-julios-hidraulica.md
+- 2016-09-09-los-limites-que-la-varianza-impone-a-las-energias-renovables.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2023-07-18-energia-nuclear-salvara-mundo.md
 tags:
 - electricidad
 - energía
@@ -14,6 +18,8 @@ tags:
 - números
 - baterías
 - cambio climático
+title: Sobre el almacenamiento "industrial" de la energía eléctrica
+url: /2021/11/18/sobre-el-almacenamiento-industrial-de-la-energia-electrica/
 ---
 
 Este es un tema sobre el que sé tan poco que hoy mismo (que no es el día en el que se publica esto) he metido la pata dos veces en Twitter por citar datos que no eran.

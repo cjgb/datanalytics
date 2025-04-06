@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-13 08:13:41+00:00
-draft: false
-title: Martingalas, tiempos de parada y tuits cuasivirales
-
-url: /2017/12/13/martingalas-tiempos-de-parada-y-tuits-cuasivirales/
 categories:
 - probabilidad
+date: 2017-12-13 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T18:50:44.881175'
+related:
+- 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md
+- 2012-01-31-cosa-prodigiosa-iii-epilogo.md
+- 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md
+- 2014-04-29-todo-el-mundo-habla-de-cadenas-de-markov.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 tags:
 - martingala
 - probabilidad
+title: Martingalas, tiempos de parada y tuits cuasivirales
+url: /2017/12/13/martingalas-tiempos-de-parada-y-tuits-cuasivirales/
 ---
 
 El otro día publiqué en Twitter un problema que copié de algún sitio (sinceramente, no recuerdo cuál),

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-05 08:13:30+00:00
-draft: false
-title: Taxis (y su huelga) y tráfico (en Madrid)
-
-url: /2019/02/05/taxis-y-su-huelga-y-trafico-en-madrid/
 categories:
 - varios
+date: 2019-02-05 08:13:30+00:00
+draft: false
+lastmod: '2025-04-06T18:48:17.805183'
+related:
+- 2018-12-03-sobre-madrid-central.md
+- 2012-06-29-idea-peregrina-el-taxivan.md
+- 2023-07-06-co2-e-medios-transporte.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
 tags:
 - madrid
 - sistemas complejos
 - taxis
 - tráfico
+title: Taxis (y su huelga) y tráfico (en Madrid)
+url: /2019/02/05/taxis-y-su-huelga-y-trafico-en-madrid/
 ---
 
 El tráfico (rodado) en una ciudad grande (como Madrid) es un sistema complejo.

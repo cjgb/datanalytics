@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-12-20 06:56:52+00:00
-draft: false
-title: 'IPC de noviembre: al menos, una buena noticia'
-
-url: /2012/12/20/ipc-de-noviembre-al-menos-una-buena-noticia/
 categories:
 - estadística
+date: 2012-12-20 06:56:52+00:00
+draft: false
+lastmod: '2025-04-06T18:46:56.821334'
+related:
+- 2012-07-30-no-es-pais-para-estadisticos.md
+- 2011-02-25-1605.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2011-01-13-el-misterio-de-la-reduccion-del-paro-en-diciembre.md
+- 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md
 tags:
 - estadística pública
 - ipc
+title: 'IPC de noviembre: al menos, una buena noticia'
+url: /2012/12/20/ipc-de-noviembre-al-menos-una-buena-noticia/
 ---
 
 Se ha hablado mucho del dato del IPC de noviembre. En parte porque, se ve, es el usado para calcular la revalorización de las pensiones. Al parecer, el dato ha sido algo anómalo. Y tanto que ha conseguido algo inusitado: poner de acuerdo a la [prensa de izquierdas](http://www.lahaine.org/index.php?p=65928) con la de [derechas](http://www.libremercado.com/2012-12-07/asi-se-cocino-el-ipc-de-noviembre-para-suavizar-la-congelacion-de-las-pensiones-1276476298/). Dizque el gobierno ha orquestado una transferencia de renta de quienes reciben pensiones hacia quienes las financiamos (algo que, por otra parte, a nadie he visto subrayar: ¡como si el gobierno pagase las pensiones de su bolsillo!).

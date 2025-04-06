@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-07 08:13:40+00:00
-draft: false
-title: Cuando oigáis que los algoritmos discriminan, acordaos de esto que cuento hoy
-
-url: /2018/11/07/cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy/
 categories:
 - ciencia de datos
+date: 2018-11-07 08:13:40+00:00
+draft: false
+lastmod: '2025-04-06T18:52:28.845427'
+related:
+- 2021-02-11-solo-el-modelo-vacio-pasa-todos-los-checks.md
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
+- 2010-10-17-sin-sexo-por-decision-judicial.md
+- 2020-02-26-algoritmos-y-acatarrantes-definiciones-de-justicia.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - ciencia de datos
 - discriminación
 - sesgo
+title: Cuando oigáis que los algoritmos discriminan, acordaos de esto que cuento hoy
+url: /2018/11/07/cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy/
 ---
 
 Generalmente, cuando construyes uno de esos modelos para clasificar gente entre merecedores de una hipoteca o no; de un descuento o no; de... vamos, lo que hacen cientos de _científicos de datos_ a diario, se utilizan dos tipos de fuentes de datos: individuales y grupales.

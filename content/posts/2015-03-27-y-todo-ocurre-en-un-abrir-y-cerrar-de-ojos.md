@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-27 08:13:33+00:00
-draft: false
-title: Y todo ocurre en un abrir y cerrar de ojos
-
-url: /2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/
 categories:
 - programación
 - consultoría
+date: 2015-03-27 08:13:33+00:00
+draft: false
+lastmod: '2025-04-06T19:01:32.205690'
+related:
+- 2014-04-10-colusion-de-anunciantes-en-perjuicio-de-navegantes.md
+- 2010-05-10-c2a1hasta-microsoft.md
+- 2010-05-27-google-prediction-api.md
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 tags:
 - big data
 - internet
 - rtb
+title: Y todo ocurre en un abrir y cerrar de ojos
+url: /2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/
 ---
 
 Abres una aplicación en tu móvil que diseñó un programador búlgaro. Ipso facto aparece un insidioso _banner_ de, p.e., Jazztel. ¿Cuáles son los mecanismos que ponen en contacto al búlgaro con Jazztel? ¿De qué manera recibe aquél una compensación de esta?

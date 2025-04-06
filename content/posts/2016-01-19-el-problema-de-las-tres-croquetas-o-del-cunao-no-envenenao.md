@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-19 08:13:33+00:00
-draft: false
-title: El problema de las tres croquetas (o del cuñao [no] envenenao)
-
-url: /2016/01/19/el-problema-de-las-tres-croquetas-o-del-cunao-no-envenenao/
 categories:
 - probabilidad
+date: 2016-01-19 08:13:33+00:00
+draft: false
+lastmod: '2025-04-06T19:08:30.792300'
+related:
+- 2021-10-28-monty-hall-reformulado.md
+- 2015-02-19-decisiones-a-ojo-de-buen-cubero.md
+- 2025-02-06-monty-hall.md
+- 2019-10-07-una-version-intuitiva-del-problema-de-monty-hall.md
+- 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md
 tags:
 - croquetas
 - monty hall
+title: El problema de las tres croquetas (o del cuñao [no] envenenao)
+url: /2016/01/19/el-problema-de-las-tres-croquetas-o-del-cunao-no-envenenao/
 ---
 
 Estás comiendo donde tu suegra y te muestra un plato con tres croquetas. Tus espías en la cocina te han informado de que una de ellas contiene dosis letales de estricnina. Eliges una y no te la comes todavía porque ves pasar a tu _cuñao_, que no sabe nada de lo que pasa, y le invitas a coger una de las dos croquetas restantes. Él toma una, se la come y no se muere.

@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-09-20
-title: 'Herramientas para ETLs en memoria'
-description: 'Un repaso a las herramientas disponibles en R y Python para realizar ETLs en memoria'
-url: /2022/09/20/herramientas-etl-en-memoria/
 categories:
 - programación
+date: 2022-09-20
+description: Un repaso a las herramientas disponibles en R y Python para realizar
+  ETLs en memoria
+lastmod: '2025-04-06T18:45:17.594395'
+related:
+- 2014-03-20-los-sospechosos-habituales-y-python.md
+- 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2015-01-28-la-profesionalizacion-de-r.md
 tags:
 - r
 - python
--
+title: Herramientas para ETLs en memoria
+url: /2022/09/20/herramientas-etl-en-memoria/
 ---
 
 _[Antes de nada, un aviso: léase la fecha de publicación de esta entrada. Es fácil estés visitándola en algún momento futuro en el que ya esté más que caduca.]_
@@ -71,4 +78,3 @@ Y el resultado ---opinión a la que he llegado después de mis tres primeras hor
 1. Habría que justificar mucho en un proyecto de datos el utilizar una herramienta de ETL que no fuese directamente, código en R, Python o similares corriendo en memoria.
 2. Solo usaría las alternativas del mundo R si el resto del proyecto fuese 100% R.
 3. `pandas` parece la única vía en el mundo Python, pero `polars` merece, si no una oportunidad, al menos, que se le eche un muy buen vistazo.
-

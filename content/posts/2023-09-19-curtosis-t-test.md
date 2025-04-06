@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-09-18
-title: 'Más sobre extensiones (bayesianas, pero no necesariamente) del t-test'
-
-url: /2023/09/18/curtosis-t-test/
 categories:
 - estadística
+date: 2023-09-18
+lastmod: '2025-04-06T18:45:06.997728'
+related:
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
 tags:
 - estadística bayesiana
 - t-test
 - curtosis
+title: Más sobre extensiones (bayesianas, pero no necesariamente) del t-test
+url: /2023/09/18/curtosis-t-test/
 ---
 
 En
@@ -43,5 +49,3 @@ Un ejemplo de lo que eso significa lo ofrecen los mismos Box y Tiao al principio
 > Sin embargo, cabe esperar que cierto tipo de mediciones no sigan una distribución normal. Un ejemplo es la resistencia a la rotura del hilo. Si pensamos en el hilo como si estuviera compuesto por una serie de eslabones (como una cadena), con la rotura ocurriendo en el eslabón más débil, y si la distribución de la resistencia de un eslabón individual fuera normal, entonces la resistencia a la rotura se distribuiría como la distribución de la observación más pequeña de una muestra normal. Esta distribución de valores extremos es asimétrica y altamente leptocúrtica.
 
 Un caso más en el que los primeros principios ofrecen la información necesaria para que un artesano de la estadística moldee _a mano_ una distribución específica para un fin determinado.
-
-

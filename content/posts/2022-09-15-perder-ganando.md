@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-09-15
-title: 'Perder ganando (o a la inversa)'
-description: 'Perder ganando: consecuencias de la no ergodicidad'
-url: /2022/09/15/perder-ganando/
 categories:
 - finanzas
+date: 2022-09-15
+description: 'Perder ganando: consecuencias de la no ergodicidad'
+lastmod: '2025-04-06T19:01:39.943110'
+related:
+- 2024-10-03-ergodicidad.md
+- 2011-05-12-c2bfque-nos-jugamos.md
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2014-01-09-como-apostar-si-tienes-que.md
+- 2011-05-16-c2bfque-nos-jugamos-addenda-no-queremos-jugarnos-nada.md
 tags:
 - finanzas
 - economía
+title: Perder ganando (o a la inversa)
+url: /2022/09/15/perder-ganando/
 ---
 
 Partes con un capital de 100 euros y te ofrecen un juego: se tira una moneda al aire y si sale cara, tu capital se multiplica por 1.5 (te dan 50 euros); pero si sale cruz, te quedas con el 60% de él (pierdes 40 euros).

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-10 09:06:32+00:00
-draft: false
-title: Déjese asesorar por Microsoft para reorientar su carrera
-
-url: /2010/11/10/dejese-asesorar-por-microsoft-para-reorientar-su-carrera/
 categories:
 - consultoría
+date: 2010-11-10 09:06:32+00:00
+draft: false
+lastmod: '2025-04-06T18:46:42.189372'
+related:
+- 2010-09-25-tecnologias-de-la-informacion-2020.md
+- 2019-12-05-ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado.md
+- 2019-06-11-informatica-o-matematicas-una-pregunta-muy-mal-formulada.md
+- 2010-05-10-c2a1hasta-microsoft.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 tags:
 - consultoría
+title: Déjese asesorar por Microsoft para reorientar su carrera
+url: /2010/11/10/dejese-asesorar-por-microsoft-para-reorientar-su-carrera/
 ---
 
 Por algún motivo, tal vez la crisis, últimamente hay quienes preguntan sobre cómo (re)enfocar sus carreras en este mundillo que tiene que ver con lo que hago y escribo. Voy a hacerles el favor de responderles globalmente con lo que opina alguien cuyo _net present worth _es en muchos órdenes de magnitud superior al mío.

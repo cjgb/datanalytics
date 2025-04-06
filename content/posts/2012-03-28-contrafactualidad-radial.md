@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-28 07:47:05+00:00
-draft: false
-title: Contrafactualidad radial
-
-url: /2012/03/28/contrafactualidad-radial/
 categories:
 - números
+date: 2012-03-28 07:47:05+00:00
+draft: false
+lastmod: '2025-04-06T18:46:46.860899'
+related:
+- 2012-04-25-espana-c2bfradial-i.md
+- 2012-04-26-espana-c2bfradial-ii.md
+- 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
+- 2018-12-03-sobre-madrid-central.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
 tags:
 - números
 - contrafactual
 - libros
 - españa
+title: Contrafactualidad radial
+url: /2012/03/28/contrafactualidad-radial/
 ---
 
 Leí estas navidades un libro sumamente recomendable, _España, capital París_, de Germà Bel. Su tesis ha vuelto a ser [glosada recientemente por César Molinas](http://economia.elpais.com/economia/2012/03/02/actualidad/1330712282_179577.html) dentro de una serie de artículos, igualmente recomendables, en El País.

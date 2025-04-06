@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-21 07:14:31+00:00
-draft: false
-title: Mis copias de seguridad
-
-url: /2013/08/21/mis-copias-de-seguridad/
 categories:
 - programación
+date: 2013-08-21 07:14:31+00:00
+draft: false
+lastmod: '2025-04-06T18:44:21.950611'
+related:
+- 2022-06-02-orgamizacion-proyectos-datos.md
+- 2011-06-08-gestion-de-proyectos-en-r.md
+- 2023-03-31-dia-internacional-copia-seguridad.md
+- 2019-09-11-sobre-mi-nueva-infraestructura-de-backups.md
+- 2015-09-23-como-contar-el-numero-de-elementos-distintos-de-una-lista.md
 tags:
 - programación
 - linux
 - shell script
 - backups
+title: Mis copias de seguridad
+url: /2013/08/21/mis-copias-de-seguridad/
 ---
 
 Por referencia mía y de otros, voy a dejar acá escrito y explicado cómo gestiono mis copias de seguridad. Porque los discos duros se rompen y los ordenadores desaparecen. Etc.

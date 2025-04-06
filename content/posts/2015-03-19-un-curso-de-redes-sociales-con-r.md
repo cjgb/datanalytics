@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-19 08:13:03+00:00
-draft: false
-title: ¿Un curso de redes sociales con R?
-
-url: /2015/03/19/un-curso-de-redes-sociales-con-r/
 categories:
 - cursos
 - r
+date: 2015-03-19 08:13:03+00:00
+draft: false
+lastmod: '2025-04-06T18:46:18.700123'
+related:
+- 2015-03-25-pues-si-un-curso-de-redes-sociales-con-r.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
+- 2015-04-06-taller-de-mapas-con-r-el-14-de-abril-en-madrid.md
+- 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md
 tags:
 - cursos
 - r
 - redes sociales
+title: ¿Un curso de redes sociales con R?
+url: /2015/03/19/un-curso-de-redes-sociales-con-r/
 ---
 
 Se me ha propuesto organizar un curso, taller o similar de redes sociales y su análisis con R. De nuevo, presencial.

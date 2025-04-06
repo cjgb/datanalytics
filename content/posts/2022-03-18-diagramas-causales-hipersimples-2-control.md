@@ -1,11 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-18
-title: 'Diagramas causales hiperbásicos (II): ¿qué significa "controlar por" una variable?'
-url: /2022/03/18/diagramas-causales-hiperbasicos-02-controlar-variable/
 categories:
 - estadística
 - causalidad
+date: 2022-03-18
+lastmod: '2025-04-06T18:48:50.313076'
+related:
+- 2022-03-22-diagramas-causales-hipersimples-3-mediadores.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2012-04-19-variables-instrumentales-con-r.md
+- 2022-03-08-estadistica-ciencias-blandas.md
 tags:
 - causalidad
 - redes bayesianas
@@ -13,6 +18,8 @@ tags:
 - error
 - sesgo
 - r
+title: 'Diagramas causales hiperbásicos (II): ¿qué significa "controlar por" una variable?'
+url: /2022/03/18/diagramas-causales-hiperbasicos-02-controlar-variable/
 ---
 
 Esta es la segunda entrada de la serie sobre diagramas causales hiperbásicos. No se entenderá sin ---y remito a--- la
@@ -91,4 +98,3 @@ Una complicación adicional a la hora de controla por variables que algún contr
 Parecería ---y el ejemplo hipersimple de esta entrada parece señalarlo--- que bastaría con _controlar_ por los _confusores_ ---sí, he omitido el nombre formal que reciben variables como $Z$ muy conscientemente hasta este el momento--- para obtener estimaciones insesgadas de los efectos. Pero en [_No, you have not controlled for confounders_](https://davidlindelof.com/no-you-have-not-controlled-for-confounders/) se nos advierte que podría no ser tan sencillo.
 
 Más evidencias al respecto pueden encontrarse en [_Interaction Effects Need Interaction Controls_](https://datacolada.org/80), donde se nos advierte que cuando existen interacciones (¿cuándo no?) es necesario también usar interacciones en los controles.
-

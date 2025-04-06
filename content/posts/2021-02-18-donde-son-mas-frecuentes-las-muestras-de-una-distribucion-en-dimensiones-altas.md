@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-02-18 09:13:00+00:00
-draft: false
-title: ¿Dónde son más frecuentes las muestras de una distribución en dimensiones altas?
-
-url: /2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/
 categories:
 - estadística
 - r
+date: 2021-02-18 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:19.834519'
+related:
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2014-10-21-mas-alla-del-teorema-central-del-limite.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2019-04-15-las-altas-dimensiones-son-campo-minado-para-la-intuicion.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
 tags:
 - entropía
 - estadística bayesiana
 - información
 - mcmc
+title: ¿Dónde son más frecuentes las muestras de una distribución en dimensiones altas?
+url: /2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/
 ---
 
 Esta es una cosa bastante contraintituiva. Uno diría que en la moda, pero no es _exactamente_ así.

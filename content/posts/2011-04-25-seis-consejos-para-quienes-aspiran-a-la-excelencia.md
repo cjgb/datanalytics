@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-25 07:09:54+00:00
-draft: false
-title: Seis consejos para quienes aspiran a la excelencia
-
-url: /2011/04/25/seis-consejos-para-quienes-aspiran-a-la-excelencia/
 categories:
 - consultoría
+date: 2011-04-25 07:09:54+00:00
+draft: false
+lastmod: '2025-04-06T18:53:59.553214'
+related:
+- 2015-06-05-herramientas-y-consejos-para-avanzar-en-tu-carrera.md
+- 2013-11-27-cuatro-principios-para-tomar-mejores-decisiones.md
+- 2011-02-14-c2bfmas-optimo-uffff.md
+- 2019-06-11-informatica-o-matematicas-una-pregunta-muy-mal-formulada.md
+- 2011-07-29-los-siete-pecados-capitales-de-la-mineria-de-datos.md
 tags:
 - consultoría
+title: Seis consejos para quienes aspiran a la excelencia
+url: /2011/04/25/seis-consejos-para-quienes-aspiran-a-la-excelencia/
 ---
 
 Esta bitácora tiene aspiraciones de excelencia (aunque no siempre lo consigue: por ejemplo, en esta entrada utiliza excelencia de una manera que es un calco del inglés incorrecto en español). De ahí que nos interese siempre estar al tanto de técnicas que nos ayuden a superarnos.

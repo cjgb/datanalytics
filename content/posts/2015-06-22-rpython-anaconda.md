@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-06-22 08:13:28+00:00
-draft: false
-title: rPython & Anaconda
-
-url: /2015/06/22/rpython-anaconda/
 categories:
 - r
+date: 2015-06-22 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:47:45.898218'
+related:
+- 2019-06-06-mi-infraestructura-para-python.md
+- 2011-05-24-se-buscan-alpha-testers-para-rpython.md
+- 2013-04-01-rpython-ya-esta-en-cran.md
+- 2015-01-21-donde-guardar-los-paquetes-de-r-en-linux-al-menos.md
+- 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md
 tags:
 - anaconda
 - python
 - r
 - rpython
+title: rPython & Anaconda
+url: /2015/06/22/rpython-anaconda/
 ---
 
 _Nota: publico hoy en inglés en atención al público potencial de la entrada._
@@ -27,4 +33,3 @@ However, when it is loaded (via `library(rPython)`), it will search for the righ
 Options? For instance, you can `ldconfig` to register Anaconda libs in the system (but do beware of unintended side effects!). You can also try to add `$ANACONDA_HOME/lib` to `/etc/R/ldpaths`, but something may also break; in my case, R refuses to start, in fact.
 
 In summary, I have no idea how to solve this problem. But perhaps some of my readers know!
-

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-14 19:22:02+00:00
-draft: false
-title: Piedrecitas y pepitas de oro
-
-url: /2020/03/14/piedrecitas-y-pepitas-de-oro/
 categories:
 - estadística
 - números
+date: 2020-03-14 19:22:02+00:00
+draft: false
+lastmod: '2025-04-06T19:04:03.877100'
+related:
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
+- 2023-03-14-paradoja-patata.md
+- 2019-03-06-quienes-ignoran-la-estadistica-estan-condenados-a-reinventarla.md
 tags:
 - bayes
 - especificidad
 - sensibilidad
+title: Piedrecitas y pepitas de oro
+url: /2020/03/14/piedrecitas-y-pepitas-de-oro/
 ---
 
 Este buscador de oro busca pepitas en su tramo de río. El río arrastra piedrecitas, muchas piedrecitas, y pepitas de oro, pocas pepitas de oro.

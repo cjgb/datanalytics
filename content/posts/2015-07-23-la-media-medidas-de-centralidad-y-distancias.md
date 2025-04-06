@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-23 08:13:31+00:00
-draft: false
-title: La media, medidas de centralidad y distancias
-
-url: /2015/07/23/la-media-medidas-de-centralidad-y-distancias/
 categories:
 - estadística
+date: 2015-07-23 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T18:51:53.813185'
+related:
+- 2010-05-25-sobre-la-media-y-la-mediana.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2013-08-05-medianas-ponderadas.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
 tags:
 - estadística
 - media
 - mediana
+title: La media, medidas de centralidad y distancias
+url: /2015/07/23/la-media-medidas-de-centralidad-y-distancias/
 ---
 
 El problema de hoy viene sugerido por la manera de encontrar un valor central --una _medida de centralidad_-- en una serie de números $latex x_1,\dots, x_n$. A uno se le viene a la mente la media de dichos puntos, por supuesto. Pero la media no es sino el valor $latex \theta$ que minimiza

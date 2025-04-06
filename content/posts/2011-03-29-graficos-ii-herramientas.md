@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-29 09:01:13+00:00
-draft: false
-title: 'Gráficos (II): Herramientas'
-
-url: /2011/03/29/graficos-ii-herramientas/
 categories:
 - gráficos
+date: 2011-03-29 09:01:13+00:00
+draft: false
+lastmod: '2025-04-06T19:04:51.947824'
+related:
+- 2012-10-24-veinte-herramientas-de-visualizacion.md
+- 2011-04-05-graficos-iii-bitacoras.md
+- 2024-05-09-cortos-tecnologia.md
+- 2011-06-07-ncomva-y-visualizacion-de-datos-publicos.md
+- 2014-03-20-los-sospechosos-habituales-y-python.md
 tags:
 - gráficos
+title: 'Gráficos (II): Herramientas'
+url: /2011/03/29/graficos-ii-herramientas/
 ---
 
 Comenzaré por lo que en todo debiera ser el final: las herramientas. La herramienta tiene que ajustarse a la función y no a la inversa: no coge el carpintero por la mañana un martillo y busca clavos que clavar el resto de la jornada (igualmente tampoco debieran hablar las empresas en primera instancia con, por ejemplo, SAS a la hora de ahondar en sus capacidades analíticas; pero ésa es otra historia). Pero me permitiré alterar el orden lógico de las cosas porque nadie está obligado a leer cuanto esta bitácora contiene en el orden en que le dio la gana a mis musas sino en el que más le convenga.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-19 08:13:24+00:00
-draft: false
-title: 'Mezcolanza: de INLA a GAM pasando por la frenología'
-
-url: /2017/12/19/mezcolanza-de-inla-a-gam-pasando-por-la-frenologia/
 categories:
 - varios
+date: 2017-12-19 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T19:11:46.574221'
+related:
+- 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md
+- 2024-03-11-cortos-01.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
 tags:
 - vademécum
 - varios
 - gam
 - frenología
+title: 'Mezcolanza: de INLA a GAM pasando por la frenología'
+url: /2017/12/19/mezcolanza-de-inla-a-gam-pasando-por-la-frenologia/
 ---
 
 Combino en uno cuatro asuntos demasiado prolijos para Twitter pero sobre los que no sé lo suficiente como para desarrollarlos en una entrada entera.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-28 17:24:29+00:00
-draft: false
-title: La función ifelse "a la SAS"
-
-url: /2010/08/28/la-funcion-ifelse-a-la-sas/
 categories:
 - r
+date: 2010-08-28 17:24:29+00:00
+draft: false
+lastmod: '2025-04-06T19:12:54.664044'
+related:
+- 2017-03-16-todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion.md
+- 2012-09-27-ejemplos-sobre-como-usar-r-desde-sas-a-traves-de-iml.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
+- 2014-01-16-macros-sintacticas-con-r.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
 tags:
 - r
 - sas
+title: La función ifelse "a la SAS"
+url: /2010/08/28/la-funcion-ifelse-a-la-sas/
 ---
 
 Una función muy útil de R es ifelse:

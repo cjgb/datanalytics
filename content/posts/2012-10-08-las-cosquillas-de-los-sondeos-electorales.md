@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-08 07:26:14+00:00
-draft: false
-title: Las cosquillas de los sondeos electorales
-
-url: /2012/10/08/las-cosquillas-de-los-sondeos-electorales/
 categories:
 - estadística
 - números
+date: 2012-10-08 07:26:14+00:00
+draft: false
+lastmod: '2025-04-06T19:11:06.601520'
+related:
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2022-03-15-infraestimacion-error-encuestas.md
+- 2014-11-04-dislexia-probabilistica.md
 tags:
 - encuestas
 - estadística
 - números
 - encuestas electorales
 - wert
+title: Las cosquillas de los sondeos electorales
+url: /2012/10/08/las-cosquillas-de-los-sondeos-electorales/
 ---
 
 El ministro Wert parece un tipo majo y con sentido del humor que nos cae mal a todos porque lo hemos conocido en el sitio y el momento equivocados. Pero tiene un par de artículos (_[No le contéis a mi madre que hago encuestas políticas. Ella cree aún que soy pianista en un burdel](http://www.reis.cis.es/REIS/jsp/REIS.jsp?opcion=articulo&ktitulo=1667&autor=JOS%C9+IGNACIO+WERT)_ y _[Mucho mejor que no haya encuestas](http://dialnet.unirioja.es/servlet/articulo?codigo=2420608)_) la mar de amenos y cuya lectura recomiendo encarecidamente sobre el tema que hoy nos ocupa.

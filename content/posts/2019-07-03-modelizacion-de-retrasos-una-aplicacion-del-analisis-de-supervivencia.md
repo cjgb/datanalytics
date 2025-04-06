@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-07-03 09:13:52+00:00
-draft: false
-title: 'Modelización de retrasos: una aplicación del análisis de supervivencia'
-
-url: /2019/07/03/modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia/
 categories:
 - ciencia de datos
 - estadística
+date: 2019-07-03 09:13:52+00:00
+draft: false
+lastmod: '2025-04-06T18:45:50.585408'
+related:
+- 2017-09-13-trucos-cutrebayesianos.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
 tags:
 - bayes
 - epidemiología
 - estimación
+title: 'Modelización de retrasos: una aplicación del análisis de supervivencia'
+url: /2019/07/03/modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia/
 ---
 
 En vigilancia epidemiológica contamos eventos (p.e., muertes o casos de determinadas enfermedades). Lo que pasa es que el caso ocurrido en el día 0 puede notificarse con un retraso de 1, 2, 3... o incluso más días. En algunas aplicaciones, incluso semanas.

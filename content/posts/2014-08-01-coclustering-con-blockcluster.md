@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-08-01 07:13:18+00:00
-draft: false
-title: Coclustering con blockcluster
-
-url: /2014/08/01/coclustering-con-blockcluster/
 categories:
 - r
+date: 2014-08-01 07:13:18+00:00
+draft: false
+lastmod: '2025-04-06T18:52:21.471089'
+related:
+- 2014-03-10-guarjolizacion-de-fotos-con-r.md
+- 2018-07-20-kamila-clustering-con-variables-categoricas.md
+- 2016-05-27-coordenadas-polares-por-doquier.md
+- 2020-04-14-consensus-clustering.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
 tags:
 - clústering
 - cran
 - r
+title: Coclustering con blockcluster
+url: /2014/08/01/coclustering-con-blockcluster/
 ---
 
 Guardo desde hace un tiempo el enlace al paquete [`blockcluster`](http://cran.r-project.org/web/packages/blockcluster/index.html) de R que igual puede ser del interés de alguno de mis lectores.
@@ -33,4 +39,3 @@ o representar documentos (y frecuencias de términos):
 ](/wp-uploads/2014/07/coclustering01.png#center)
 
 Estoy convencido de que cualquier día le doy un buen uso. Y si alguien se me adelanta... ¡que avise en los comentarios!
-

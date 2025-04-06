@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-08-12 07:13:53+00:00
-draft: false
-title: ¿Tienen sentido las tasas municipales de desempleo?
-
-url: /2014/08/12/tienen-sentido-las-tasas-municipales-de-desempleo/
 categories:
 - números
+date: 2014-08-12 07:13:53+00:00
+draft: false
+lastmod: '2025-04-06T19:11:52.282750'
+related:
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2023-04-24-estadistica-creativa.md
+- 2011-01-13-el-misterio-de-la-reduccion-del-paro-en-diciembre.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
 tags:
 - números
 - varianza
 - desempleo
 - ine
+title: ¿Tienen sentido las tasas municipales de desempleo?
+url: /2014/08/12/tienen-sentido-las-tasas-municipales-de-desempleo/
 ---
 
 Sigo los [artículos de periodismo de datos de El Confidencial](http://www.elconfidencial.com/tags/temas/periodismo-de-datos-9977/). Los recomiendo, de hecho. Es bueno que alguien se encargue de divulgar noticias que tienen que ver con números.

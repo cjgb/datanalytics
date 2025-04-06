@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-02 07:49:29+00:00
-draft: false
-title: Quiero violar la ley y no sé cómo
-
-url: /2013/08/02/quiero-violar-la-ley-y-no-se-como/
 categories:
 - números
+date: 2013-08-02 07:49:29+00:00
+draft: false
+lastmod: '2025-04-06T18:44:40.169825'
+related:
+- 2015-05-06-podra-que-significara-podra.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2015-04-28-peticion-al-ine-deseadme-suerte.md
 tags:
 - datos abiertos
 - números
 - reutilización
+title: Quiero violar la ley y no sé cómo
+url: /2013/08/02/quiero-violar-la-ley-y-no-se-como/
 ---
 
 He decidido violar la ley. Quiero demostrar al mundo y a mí mismo que no me es necesario transitar aborregadamente las sendas de los cobardes que tanto temen a Dios y al alguacilaje.

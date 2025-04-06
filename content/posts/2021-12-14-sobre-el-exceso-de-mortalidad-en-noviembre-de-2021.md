@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-12-13
-title: Sobre el exceso de mortalidad en noviembre de 2021
-
-url: /2021/12/09/sobre-exceso-mortalidad-noviembre-2021/
 categories:
 - estadística
 - números
+date: 2021-12-13
+lastmod: '2025-04-06T19:13:20.001612'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2022-07-21-critica-critica-momo.md
+- 2020-09-14-recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola.md
 tags:
 - be-momo
 - euromomo
@@ -14,6 +18,8 @@ tags:
 - momo
 - mortalidad
 - modelos
+title: Sobre el exceso de mortalidad en noviembre de 2021
+url: /2021/12/09/sobre-exceso-mortalidad-noviembre-2021/
 ---
 
 _[Nota: trabajé ---pero desde hace muchos meses ya no--- en MoMo. Así que algo sé al respecto. No obstante, las opiniones reflejadas aquí son enteramente mías. Además, están escritas desde una perspectiva estadística, no epidemiológica o, por extensión, médica.]_
@@ -53,6 +59,3 @@ Y, efectivamente, a la pregunta de si noviembre ha sido anómalo, [AEMET ha teni
 >AEMET acaba de hacer público el balance climático mensual correspondiente a noviembre; el pasado mes ha tenido en conjunto un carácter muy frío, con una temperatura media en la España peninsular de 8,2 ºC, 1,2 ºC por debajo de la media de este mes (periodo de referencia: 1981-2010). Se ha tratado del décimo noviembre más frío desde el comienzo de la serie en 1961, y del cuarto más frío del siglo XXI, por detrás de los meses de noviembre de 2008, 2001 y 2010.
 
 Así que lo más sensato que se me ocurre decir acerca de las desviaciones ---relativamente pequeñas, además--- de la mortalidad del mes de noviembre es que reflejan, entre otras cosas ---recuérdese que aún _estamos en pandemia_--- un adelanto del invierno que el modelo base no puede detectar. Obviamente, esta es una hipótesis que habría que contrastar con lo ocurrido en otros países (aunque sí, EuroMOMO parece apuntar a que ese pudiera ser el caso también, aunque la evidencia está confundida con el impacto de la sexta (¿sexta?) ola) o en el desglose por provincias o CCAA de las series de MOMO.
-
-
-

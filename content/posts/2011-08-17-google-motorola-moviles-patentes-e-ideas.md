@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-17 07:16:07+00:00
-draft: false
-title: Google, Motorola, móviles, patentes e ideas
-
-url: /2011/08/17/google-motorola-moviles-patentes-e-ideas/
 categories:
 - números
+date: 2011-08-17 07:16:07+00:00
+draft: false
+lastmod: '2025-04-06T18:46:38.065612'
+related:
+- 2018-11-06-que-hay-de-malo-en-gorronear-investigacion-basica.md
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
+- 2013-12-31-palabras-y-pelas-un-ejercicio-apenas-incoado.md
 tags:
 - números
 - google
+title: Google, Motorola, móviles, patentes e ideas
+url: /2011/08/17/google-motorola-moviles-patentes-e-ideas/
 ---
 
 La noticia de que Google acaba de comprar la división de telefonía móvil de Motorola ha suscitado una doble justificación por parte de los analistas:

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-06 09:13:28+00:00
-draft: false
-title: rPython + feather
-
-url: /2016/04/06/rpython-feather/
 categories:
 - r
+date: 2016-04-06 09:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:57:32.486060'
+related:
+- 2013-05-02-data-table-i-cruces.md
+- 2015-12-11-pasando-data-frames-de-r-como-tablas-de-pandas-en-python-usando-rpython.md
+- 2011-03-04-1680.md
+- 2014-03-20-los-sospechosos-habituales-y-python.md
+- 2010-09-06-tarea-lectores-resultados.md
 tags:
 - feather
 - python
 - r
 - rpython
+title: rPython + feather
+url: /2016/04/06/rpython-feather/
 ---
 
 Supongo que a estas alturas todos conoceréis [`feather`](http://blog.rstudio.org/2016/03/29/feather/) y [`rPython`](https://www.datanalytics.com/2013/04/01/rpython-ya-esta-en-cran/). Hoy los vais a ver trabajar juntos.
@@ -50,4 +56,3 @@ dim(python.data)
 {{< / highlight >}}
 
 Los tiempos, que los mida cada cual.
-

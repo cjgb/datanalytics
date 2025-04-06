@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-28 08:13:00+00:00
-draft: false
-title: Entre lo fofo y lo hierático,modelos loglineales
-
-url: /2019/02/28/entre-fofo-hieratico-modelos-loglineales/
 categories:
 - ciencia de datos
 - estadística
 - nlp
+date: 2019-02-28 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:06:43.253359'
+related:
+- 2024-07-18-cortos-llms.md
+- 2014-03-17-sobre-el-articulo-de-domingos.md
+- 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md
+- 2017-12-19-mezcolanza-de-inla-a-gam-pasando-por-la-frenologia.md
+- 2020-11-11-codificacion-de-categoricas-de-1-a-a-b-a.md
 tags:
 - expresiones regulares
 - loglineal
 - nlp
 - regex
 - tensorflow
+title: Entre lo fofo y lo hierático,modelos loglineales
+url: /2019/02/28/entre-fofo-hieratico-modelos-loglineales/
 ---
 
 El contexto, por fijar ideas, el problema de _taguear_ fechas en textos.

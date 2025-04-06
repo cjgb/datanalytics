@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-16 07:10:15+00:00
-draft: false
-title: Mapas, mapas, mapas... ¿y?
-
-url: /2013/08/16/mapas-mapas-mapas-y/
 categories:
 - estadística
 - gráficos
+date: 2013-08-16 07:10:15+00:00
+draft: false
+lastmod: '2025-04-06T18:50:04.204677'
+related:
+- 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md
+- 2014-11-28-como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2012-08-30-yendo-por-moras-en-el-pais-vasco.md
+- 2017-03-02-todas-las-terrazas-de-madrid.md
 tags:
 - estadística pública
 - gráficos
 - mapas
+title: Mapas, mapas, mapas... ¿y?
+url: /2013/08/16/mapas-mapas-mapas-y/
 ---
 
 No paro de decir para mis adentros "¿y?" según hojeo el recién publicado [Atlas de mortalidad en municipios y unidades censales de España](http://www.fbbva.es/TLFU/microsites/atlasmortalidad/js/archivos/atles_protegit.pdf).

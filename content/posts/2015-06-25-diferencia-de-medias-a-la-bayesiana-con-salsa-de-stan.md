@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-06-25 08:13:35+00:00
-draft: false
-title: Diferencia de medias a la bayesiana con salsa de stan
-
-url: /2015/06/25/diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan/
 categories:
 - estadística
 - r
+date: 2015-06-25 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T19:05:22.100420'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2014-11-10-remuestreos-y-tests-de-hipotesis.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2016-03-03-mezclas-de-distribuciones-con-rstan.md
+- 2018-03-01-kriging-con-stan.md
 tags:
 - estadística bayesiana
 - gosset
@@ -16,6 +20,8 @@ tags:
 - stan
 - student
 - t-test
+title: Diferencia de medias a la bayesiana con salsa de stan
+url: /2015/06/25/diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan/
 ---
 
 El habitual problema de la diferencia de medias suele formularse de la siguiente manera: hay observaciones $latex y_{1i}$ e $latex y_{2i}$ donde

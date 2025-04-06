@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-24 09:13:00+00:00
-draft: false
-title: ¿Se puede calcular la letalidad (del coronavirus, digamos) sin el análisis de
-  la supervivencia?
-
-url: /2020/03/24/se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia/
 categories:
 - artículos
+date: 2020-03-24 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:53:09.363939'
+related:
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2019-07-03-modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia.md
+- 2024-05-23-espeanza-vida-covid.md
+- 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
+- 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
 tags:
 - artículos
 - coronavirus
 - letalidad
 - supervivencia
+title: ¿Se puede calcular la letalidad (del coronavirus, digamos) sin el análisis
+  de la supervivencia?
+url: /2020/03/24/se-puede-calcular-la-letalidad-del-cornavirus-digamos-sin-el-analisis-de-la-supervivencia/
 ---
 
 Pues no lo sé. Pero con él, sí, según _[Methods for estimating the case fatality ratio for a novel, emerging infectious disease](https://www.ncbi.nlm.nih.gov/pubmed/16076827)_:

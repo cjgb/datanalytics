@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-09-17
-title: 'Una propuesta para cambiar la sintaxis de SQL y cuatro asuntos más'
-url: /2024/09/17/cortos-tecnologia
 categories:
 - cortos
+date: 2024-09-17
+lastmod: '2025-04-06T19:07:52.327715'
+related:
+- 2024-05-09-cortos-tecnologia.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2010-07-18-mas-de-diez-motivos-para-usar-proc-sql-en-sas.md
+- 2025-03-18-cortos-tecnologia.md
+- 2015-06-08-una-de-las-cosas-que-me-irritan-de-r.md
 tags:
 - python
 - javascript
 - sql
+title: Una propuesta para cambiar la sintaxis de SQL y cuatro asuntos más
+url: /2024/09/17/cortos-tecnologia
 ---
 
 [Mesop](https://google.github.io/mesop/), una herramienta de Google para crear "AI apps" en Python.

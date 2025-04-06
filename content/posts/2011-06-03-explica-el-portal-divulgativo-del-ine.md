@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-03 07:17:44+00:00
-draft: false
-title: Explica, el portal divulgativo del INE
-
-url: /2011/06/03/explica-el-portal-divulgativo-del-ine/
 categories:
 - estadística
 - gráficos
+date: 2011-06-03 07:17:44+00:00
+draft: false
+lastmod: '2025-04-06T19:03:41.462458'
+related:
+- 2011-03-22-graficos-i-introduccion.md
+- 2022-02-22-grafico-quitarse-sombrero.md
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2010-09-27-c2bfque-grafico-es-mejor.md
+- 2015-12-04-os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola.md
 tags:
 - estadística
 - gráficos
+title: Explica, el portal divulgativo del INE
+url: /2011/06/03/explica-el-portal-divulgativo-del-ine/
 ---
 
 [![](/wp-uploads/2011/06/explica_ine.png#center)

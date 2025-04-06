@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-03-05
-title: 'Los modelos bayesianos, ¿condenados a sobreajustar?'
-url: /2024/03/05/sobreajuste-modelos-bayesianos/
 categories:
 - estadística
+date: 2024-03-05
+lastmod: '2025-04-06T18:59:53.467007'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2023-03-02-conformal-prediction.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
 tags:
 - estadística bayesiana
 - sobreajuste
 - generalización
+title: Los modelos bayesianos, ¿condenados a sobreajustar?
+url: /2024/03/05/sobreajuste-modelos-bayesianos/
 ---
 
 Por ese micromundo en el que muevo, circuló recientemente una polémica sobre si los métodos bayesianos _sobreajustan_ necesaria e irremisiblemente. El desencadenante fue la publicación

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-23 09:56:13+00:00
-draft: false
-title: 'R y Excel: una alternativa'
-
-url: /2011/03/23/r-y-excel-una-alternativa/
 categories:
 - r
+date: 2011-03-23 09:56:13+00:00
+draft: false
+lastmod: '2025-04-06T18:50:28.241020'
+related:
+- 2011-12-01-creacion-de-un-r-portable.md
+- 2011-07-28-el-paquete-pxr-en-cran.md
+- 2013-04-01-rpython-ya-esta-en-cran.md
+- 2017-11-24-dbf-c2b7-xlsx-c2b7-pdf.md
+- 2014-03-21-cuatro-enlaces-sobre-r-excel-c-csv-y-paralelizacion.md
 tags:
 - excel
 - r
 - paquetes
 - xlconnect
+title: 'R y Excel: una alternativa'
+url: /2011/03/23/r-y-excel-una-alternativa/
 ---
 
 Los amantes de Excel están de enhorabuena. Ahora tienen una alternativa a [RExcel](http://en.wikipedia.org/wiki/RExcel), una extensión de Excel que le permite interactuar con R: [XLConnect](http://miraisolutions.wordpress.com/2011/02/28/xlconnect/), un [paquete multiplataforma de R](http://cran.r-project.org/web/packages/XLConnect/index.html) que permite:

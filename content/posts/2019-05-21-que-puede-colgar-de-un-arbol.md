@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-21 09:13:54+00:00
-draft: false
-title: ¿Qué puede colgar de un árbol?
-
-url: /2019/05/21/que-puede-colgar-de-un-arbol/
 categories:
 - r
+date: 2019-05-21 09:13:54+00:00
+draft: false
+lastmod: '2025-04-06T19:05:20.619911'
+related:
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2019-02-18-9857.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2019-09-12-que-mas-puede-colgar-de-un-arbol.md
+- 2018-12-18-data-tree-porque-no-todos-los-datos-son-tabulares.md
 tags:
 - cran
 - ctree
@@ -15,6 +19,8 @@ tags:
 - party
 - r
 - trtf
+title: ¿Qué puede colgar de un árbol?
+url: /2019/05/21/que-puede-colgar-de-un-arbol/
 ---
 
 Predicciones puntuales:

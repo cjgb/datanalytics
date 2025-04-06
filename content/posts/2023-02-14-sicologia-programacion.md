@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-02-14
-title: 'Programación: aspectos sicológicos'
-
-url: /2023/02/14/sicologia-programacion/
 categories:
 - programación
+date: 2023-02-14
+lastmod: '2025-04-06T19:06:07.185368'
+related:
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2025-02-27-ensamblador.md
+- 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
 tags:
 - programación
 - sicología
+title: 'Programación: aspectos sicológicos'
+url: /2023/02/14/sicologia-programacion/
 ---
 
 Esta entrada tiene una doble (o triple) motivación. Por un lado, servir de de introducción a otra en la que se tratará la sicología de la estadística y la ciencia de datos. Por otro, plantear una serie de cuestiones ---sin intención de aportar solución alguna--- relevantes sobre el asunto. Y si se me permite, una tercera: dejar constancia que en su día semileí el librito [_The Psychology of Computer Programming_](https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming), que fue el que me ha hecho pensar de vez en cuando sobre estos asuntos y prestarles atención desde entonces.

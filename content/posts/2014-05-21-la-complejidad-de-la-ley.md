@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-05-21 07:00:59+00:00
-draft: false
-title: La complejidad de la ley
-
-url: /2014/05/21/la-complejidad-de-la-ley/
 categories:
 - nlp
+date: 2014-05-21 07:00:59+00:00
+draft: false
+lastmod: '2025-04-06T18:51:36.450304'
+related:
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2012-05-07-por-un-irpf-ergonomico.md
+- 2024-05-16-sentencia-bono-social.md
+- 2023-10-05-llms-historia.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 tags:
 - boe
 - complejidad
 - ley
 - nlp
+title: La complejidad de la ley
+url: /2014/05/21/la-complejidad-de-la-ley/
 ---
 
 El otro día publiqué [código para bajar el BOE](http://www.datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/) completo. Pero no conté qué me llevó a escribirlo.

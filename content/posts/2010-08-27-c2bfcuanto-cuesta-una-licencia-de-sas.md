@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-27 18:21:17+00:00
-draft: false
-title: ¿Cuánto cuesta una licencia de SAS?
-
-url: /2010/08/27/cuanto-cuesta-una-licencia-de-sas/
 categories:
 - varios
+date: 2010-08-27 18:21:17+00:00
+draft: false
+lastmod: '2025-04-06T19:00:58.449387'
+related:
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
+- 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2010-08-22-mas-sobre-el-caso-wps-vs-sas.md
 tags:
 - sas
 - licencias
+title: ¿Cuánto cuesta una licencia de SAS?
+url: /2010/08/27/cuanto-cuesta-una-licencia-de-sas/
 ---
 
 Nada si tienes los contactos necesarios o te manejas por la parte turbia de internet. Y no tienes inconveniente en mantenerte del lado equivocado de la ley.

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-07 07:13:01+00:00
-draft: false
-title: Como leáis esta entrada aprenderéis tanto como lo que desaprenderéis
-
-url: /2014/10/07/como-leais-esta-entrada-aprendereis-tanto-como-lo-que-desaprendereis/
 categories:
 - ciencia de datos
+date: 2014-10-07 07:13:01+00:00
+draft: false
+lastmod: '2025-04-06T18:59:42.609608'
+related:
+- 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md
+- 2014-03-17-sobre-el-articulo-de-domingos.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
 tags:
 - ciencia de datos
+title: Como leáis esta entrada aprenderéis tanto como lo que desaprenderéis
+url: /2014/10/07/como-leais-esta-entrada-aprendereis-tanto-como-lo-que-desaprendereis/
 ---
 
 En serio, aviso: aprenderéis tanto como desaprenderéis si leéis [esto](http://home.comcast.net/~tom.fawcett/public_html/ML-gallery/pages/).

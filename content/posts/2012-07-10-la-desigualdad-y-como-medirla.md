@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-10 06:48:45+00:00
-draft: false
-title: La desigualdad y cómo medirla
-
-url: /2012/07/10/la-desigualdad-y-como-medirla/
 categories:
 - estadística
 - finanzas
+date: 2012-07-10 06:48:45+00:00
+draft: false
+lastmod: '2025-04-06T18:47:04.405898'
+related:
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
+- 2011-02-25-1605.md
+- 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md
+- 2024-01-30-indicadores-economicos.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
 tags:
 - econometría
 - estadística
 - estadística pública
 - finanzas
 - desigualdad
+title: La desigualdad y cómo medirla
+url: /2012/07/10/la-desigualdad-y-como-medirla/
 ---
 
 Últimamente he tenido bastantes visitas del extranjero. Las llevo a pasear por el centro de Madrid, ¡qué remedio! Y siempre surge el mismo comentario: habiendo crisis que nos cuentan los periódicos, ¿cómo es que están las terrazas a rebosar? Y mi respuesta es siempre la misma: lo que se ve no es la crisis; lo que se ve, en el fondo, es la desigualdad.

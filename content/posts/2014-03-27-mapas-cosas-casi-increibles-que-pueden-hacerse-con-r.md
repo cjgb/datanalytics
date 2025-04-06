@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-27 07:23:26+00:00
-draft: false
-title: 'Mapas: cosas casi increíbles que pueden hacerse con R'
-
-url: /2014/03/27/mapas-cosas-casi-increibles-que-pueden-hacerse-con-r/
 categories:
 - gráficos
 - r
+date: 2014-03-27 07:23:26+00:00
+draft: false
+lastmod: '2025-04-06T19:02:46.459341'
+related:
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2023-10-03-muestreo-superricos.md
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2015-04-14-la-informacion-es-sorpresa.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - gráficos
 - mapas
 - r
+title: 'Mapas: cosas casi increíbles que pueden hacerse con R'
+url: /2014/03/27/mapas-cosas-casi-increibles-que-pueden-hacerse-con-r/
 ---
 
 Nunca pude ser un [erizo](http://tambuzi.wordpress.com/2008/02/21/la-fabula-del-zorro-y-el-erizo/). Lo intenté durante años y acabé en el sicólogo. Si el cuerpo me hubiese dado, ahora, tal vez, como algunos compañeros de promoción, sería un experto en un área diminuta del conocimiento y corregiría exámenes los fines de semana. Descubrí con tiempo y muchas sesiones de a 60 euros la hora que había nacido para ser [un zorro](http://fivethirtyeight.com/features/what-the-fox-knows/), un merodeador que olisquea aquí y allá.

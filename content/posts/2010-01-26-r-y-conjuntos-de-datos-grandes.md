@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-01-26
-draft: false
-title: R y conjuntos de datos "grandes"
-url: /2010/01/26/r-y-conjuntos-de-datos-grandes/
 categories:
 - r
+date: 2010-01-26
+draft: false
+lastmod: '2025-04-06T18:53:29.184140'
+related:
+- 2011-04-07-nueva-version-de-paquete-colbycol.md
+- 2014-07-09-estrategias-escalables-con-r.md
+- 2013-11-04-un-record-personal.md
+- 2011-03-04-1680.md
+- 2013-05-02-data-table-i-cruces.md
 tags:
 - grandes datos
 - r
+title: R y conjuntos de datos "grandes"
+url: /2010/01/26/r-y-conjuntos-de-datos-grandes/
 ---
 
 Leer datos grandes con R produce inmensos quebraderos de cabeza. Existen dos soluciones extra-R: filtrar los datos cuanto antes y comprar más RAM. Desde R existen trucos y alternativas y hace un tiempo, aunque sin aspiraciones de exhaustividad, quise explorar algunas.

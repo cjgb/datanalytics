@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-05-18 09:13:00+00:00
-draft: false
-title: Un viejo truco para que R vuele
-
-url: /2021/05/18/un-viejo-truco-para-que-r-vuele/
 categories:
 - r
+date: 2021-05-18 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:49:09.666414'
+related:
+- 2011-05-18-solipsismo-comunidad-y-rendimiento.md
+- 2014-03-10-guarjolizacion-de-fotos-con-r.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2013-08-05-medianas-ponderadas.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
 tags:
 - c++
 - eficiencia
@@ -14,6 +18,8 @@ tags:
 - r
 - rcpp
 - trucos
+title: Un viejo truco para que R vuele
+url: /2021/05/18/un-viejo-truco-para-que-r-vuele/
 ---
 
 Existe un viejo truco ---mas no por ello conocido--- para que R vuele. Lo aprendí en una conferencia de uno de los padres de R (aunque ya no recuerdo quién era) en la primera década del siglo. El problema que tenía entre manos era el de ajustar unos cuantos miles de regresiones logísticas. Además de hacer uso de los métodos de paralelización, aún muy rudimentarios en la época, uno de los trucos más efectivos que utilizaba era el de _desnudar_ las funciones.
@@ -77,6 +83,3 @@ _**Nota:** en lo anterior, he reducido a la centésima parte el tamaño del prob
 Podéis ejecutar el código vosotros mismos. Espero que obtengáis el mismo resultado que yo: que el ratio `t0 / t3` es aproximadamente de 15, es decir, la misma ganancia que usando C++.
 
 Lo cual tiene sentido porque en el fondo, `.Internal(sort(x, TRUE))` es, casi seguro, una llamada a código nativo compilado, tan bueno o más como el que se pueda obtener con Rcpp.
-
-
-

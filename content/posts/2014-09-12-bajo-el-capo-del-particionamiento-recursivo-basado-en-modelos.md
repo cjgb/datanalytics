@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-12 07:13:31+00:00
-draft: false
-title: Bajo el capó del particionamiento recursivo basado en modelos
-
-url: /2014/09/12/bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos/
 categories:
 - estadística
 - r
+date: 2014-09-12 07:13:31+00:00
+draft: false
+lastmod: '2025-04-06T18:51:02.467293'
+related:
+- 2014-07-30-incrementalidad-via-particionamiento-recursivo-basado-en-modelos.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2020-03-18-lme4-simulate.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 tags:
 - árboles de decisión
 - estadística
@@ -15,6 +19,8 @@ tags:
 - r
 - regresión
 - resíduos
+title: Bajo el capó del particionamiento recursivo basado en modelos
+url: /2014/09/12/bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos/
 ---
 
 Una de las mayores contrariedades de estar sentado cerca de alguien que es más matemático que un servidor (de Vds., no de silicio) es que oye siempre preguntar por qué. Una letanía de preguntas me condujo a leer papelotes que ahora resumo.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-23 07:13:07+00:00
-draft: false
-title: El impacto (causal) de Google
-
-url: /2014/09/23/el-impacto-causal-de-google/
 categories:
 - estadística
+date: 2014-09-23 07:13:07+00:00
+draft: false
+lastmod: '2025-04-06T18:52:39.558919'
+related:
+- 2025-03-11-cortos-causalidad.md
+- 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
+- 2024-10-08-cortos-stats.md
+- 2017-05-31-dizque-al-sexto-mes-pero-y-los-datos.md
+- 2016-09-23-importa-mas-la-causalidad-hoy-en-dia.md
 tags:
 - causalidad
 - estadística
 - google
 - paquetes
 - r
+title: El impacto (causal) de Google
+url: /2014/09/23/el-impacto-causal-de-google/
 ---
 
 Voy a escribir sobre un artículo como no debe hacerse: sin haberlo leído. Los bayesianos dirían que esta opinión que aquí voy a vertir es mi _prior_ para cuando encuentre el tiempo y bajo la cual matizaré lo que en el se diga. Lo advierto, en todo caso, para que quien me lea no renuncie al sanísimo escepticismo.

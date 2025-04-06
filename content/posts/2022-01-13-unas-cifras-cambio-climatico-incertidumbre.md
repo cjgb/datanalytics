@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-13
-title: Cambio climático e incertidumbre
-url: /2022/01/03/cambio-climatico-incertidumbre/
 categories:
 - números
+date: 2022-01-13
+lastmod: '2025-04-06T18:56:48.085471'
+related:
+- 2011-02-03-energia-y-medio-ambiente-en-2035-algunos-numeros.md
+- 2023-07-18-energia-nuclear-salvara-mundo.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
+- 2022-05-17-como-calcula-inflacion.md
+- 2020-03-25-cuantificacion-y-riesgo.md
 tags:
 - cambio climático
 - incertidumbre
 - co2
+title: Cambio climático e incertidumbre
+url: /2022/01/03/cambio-climatico-incertidumbre/
 ---
 
 Aunque todavía no haya calado a la población en general ---dígolo con las cifras de los _tres principales problemas que existen actualmente en España_ del CIS en mano--- son muchas y reputadas las voces que nos advierten del grave riesgo que supone el cambio climático. Tantas y tan conspicuas que, sin duda, habrá que hacerles caso.

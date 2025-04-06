@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-23 08:13:24+00:00
-draft: false
-title: ¿Admitirá finalmente el DLE la acepción "algoritmo" de "logaritmo"?
-
-url: /2018/03/23/admitira-finalmente-el-dle-la-acepcion-algoritmo-de-logaritmo/
 categories:
 - varios
+date: 2018-03-23 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:59:41.909137'
+related:
+- 2023-06-01-vender-algoritmos.md
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2016-10-11-el-rmse-es-dios-y-xgboost-su-profeta.md
+- 2015-03-04-adaequatio-rei-et-analysis.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
 tags:
 - cocreta
 - logaritmo
 - rae
+title: ¿Admitirá finalmente el DLE la acepción "algoritmo" de "logaritmo"?
+url: /2018/03/23/admitira-finalmente-el-dle-la-acepcion-algoritmo-de-logaritmo/
 ---
 
 Estaba ayer todavía en la cama a una hora muy aristocrática cuando en RNE invitaron a un presunto experto en _big data_ a hablar de quién sabe qué. Aquel pobre hombre habló sobre los problemas que plantean, en particular, los _logaritmos_. Cuando quería decir, claro, _algoritmos_.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-20 08:13:30+00:00
-draft: false
-title: 6602.767 km alrededor de España para visitar todas sus capitales de provincia
-
-url: /2016/06/20/6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia/
 categories:
 - r
+date: 2016-06-20 08:13:30+00:00
+draft: false
+lastmod: '2025-04-06T18:53:13.401038'
+related:
+- 2012-04-25-espana-c2bfradial-i.md
+- 2013-12-10-te-queda-lejos-el-aeropuerto.md
+- 2016-04-29-como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela.md
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2022-01-02-por-que-vivimos-espanoles-tanta-altitud.md
 tags:
 - mapas
 - provincias
 - r
 - tsp
+title: 6602.767 km alrededor de España para visitar todas sus capitales de provincia
+url: /2016/06/20/6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia/
 ---
 
 O tal dice lo que expongo a continuación.
@@ -144,4 +150,3 @@ trazar.ruta(ruta)
 que genera
 
 ![rutas_provincias](/wp-uploads/2016/06/rutas_provincias.png#center)
-

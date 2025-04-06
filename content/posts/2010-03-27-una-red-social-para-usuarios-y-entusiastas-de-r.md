@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-27 17:00:20+00:00
-draft: false
-title: Una red social para usuarios y entusiastas de SAS
-
-url: /2010/03/27/una-red-social-para-usuarios-y-entusiastas-de-r/
 categories:
 - anuncio
+date: 2010-03-27 17:00:20+00:00
+draft: false
+lastmod: '2025-04-06T18:49:29.694709'
+related:
+- 2010-10-02-un-foro-de-discusion-para-usuarios-de-sas.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2011-05-19-sas-el-futuro-una-perspectiva-demografica.md
+- 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
 tags:
 - sas
+title: Una red social para usuarios y entusiastas de SAS
+url: /2010/03/27/una-red-social-para-usuarios-y-entusiastas-de-r/
 ---
 
 Es encomiable el esfuerzo realizado por SAS para crear una comunidad integrada de usuarios y entusiastas.

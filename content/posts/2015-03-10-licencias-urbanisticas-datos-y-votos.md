@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-10 08:13:11+00:00
-draft: false
-title: 'Licencias urbanísticas: datos y votos'
-
-url: /2015/03/10/licencias-urbanisticas-datos-y-votos/
 categories:
 - números
+date: 2015-03-10 08:13:11+00:00
+draft: false
+lastmod: '2025-04-06T19:04:12.235106'
+related:
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2015-06-29-licencias-urbanisticas-no-viables-y-fin.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2014-07-23-si-participase-en-maddata.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 tags:
 - datos abiertos
 - datos públicos
 - microdatos
+title: 'Licencias urbanísticas: datos y votos'
+url: /2015/03/10/licencias-urbanisticas-datos-y-votos/
 ---
 
 Una de mis aficiones recientes es la de echarle un vistazo a las licencias de apertura de los locales de Madrid. Son un cartelito que suelen tener colgado en la puerta (con una H verde y grande en hostelería) donde se indica, entre otras cosas, el aforo y la fecha de concesión.
@@ -26,4 +32,3 @@ Lo de la concesión de las licencias (y quién las solicitó lo sabe) es un proc
 Pero las cosas pueden cambiar. El ayuntamiento de Madrid está haciendo un gran trabajo en publicar y diseminar información de todo tipo en su [portal de datos abiertos](http://datos.madrid.es/portal/site/egob/). En él acabo de realizar una petición de datos titulada _[Histórico de tramitación de licencias urbanísticas](http://goo.gl/yqco93)_ (si no funciona el enlace, id a la pestaña _Colabora_ de [http://datos.madrid.es](http://datos.madrid.es) y buscadla en la lista) que podéis ayudar a promover votándola y divulgándola.
 
 Y si un día se liberan esos datos, podremos hacer (o facilitar que otros hagan) grandes cosas con ellas. En particular, aumentar el número de ojos fiscalizadores.
-

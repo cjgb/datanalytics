@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-28 09:13:20+00:00
-draft: false
-title: Sobre la función de riesgo en el análisis de la supervivencia
-
-url: /2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/
 categories:
 - estadística
+date: 2020-05-28 09:13:20+00:00
+draft: false
+lastmod: '2025-04-06T19:11:38.579507'
+related:
+- 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
+- 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2014-02-14-memoria-de-decaimiento-exponencial-y-canutos-asincronos.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
 tags:
 - riesgo
 - supervivencia
+title: Sobre la función de riesgo en el análisis de la supervivencia
+url: /2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/
 ---
 
 Tienes una función de supervivencia
@@ -65,5 +71,3 @@ for(init in seq(from, to, by = incr)){
 curve(S(x), from = from, to = to,
     xlab = "t", ylab = "S(t)", add = T)
 {{< / highlight >}}
-
-

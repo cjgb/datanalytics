@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-21 09:13:00+00:00
-draft: false
-title: Análisis de arquetipos
-
-url: /2020/07/21/analisis-de-arquetipos/
 categories:
 - artículos
 - ciencia de datos
 - estadística
+date: 2020-07-21 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:38.042067'
+related:
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2019-01-24-nmds-y-un-poquito-mas-alla.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
+- 2024-02-13-outliers-dos-modos.md
+- 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
 tags:
 - arquetipos
 - artículos
 - breiman
 - lda
 - nmf
+title: Análisis de arquetipos
+url: /2020/07/21/analisis-de-arquetipos/
 ---
 
 De eso trata [un artículo de los noventa de Breiman](https://digitalassets.lib.berkeley.edu/sdtr/ucb/text/379.pdf). Es decir, de encontrar dentro de conjuntos de datos conjuntos finitos de _sujetos puros_ que permiten representar cualquier otro como una mezcla (o combinación convexa) de ellos.

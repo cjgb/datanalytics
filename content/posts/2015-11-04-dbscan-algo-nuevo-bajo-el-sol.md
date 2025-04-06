@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-11-04 08:13:28+00:00
-draft: false
-title: DBSCAN, ¿algo nuevo bajo el sol?
-
-url: /2015/11/04/dbscan-algo-nuevo-bajo-el-sol/
 categories:
 - ciencia de datos
+date: 2015-11-04 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T19:03:09.411311'
+related:
+- 2016-04-18-visualizacion-de-k-medias-y-dbscan.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2020-11-02-distancias-i-el-planteamiento-del-problema.md
 tags:
 - clústering
 - dbscan
 - ciencia de datos
+title: DBSCAN, ¿algo nuevo bajo el sol?
+url: /2015/11/04/dbscan-algo-nuevo-bajo-el-sol/
 ---
 
 Ha sido en latitudes otras que las habituales que he aprendido y leído (mas no probado) sobre [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN). Se conoce que es un nuevo (aunque ya tiene sus añitos: algo así como 20) método de _clústering_.

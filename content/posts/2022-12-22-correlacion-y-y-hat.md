@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-12-22
-title: "Sobre la correlación entre Y y la predicción de Y"
-
-url: /2022/12/22/correlacion-y-y-hat/
 categories:
 - estadística
+date: 2022-12-22
+lastmod: '2025-04-06T18:44:36.345060'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2023-03-21-reduccion-error-tests-ab.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
 tags:
 - ciencia de datos
 - correlación
 - entrenamiento
 - validación cruzada
 - train-test
+title: Sobre la correlación entre Y y la predicción de Y
+url: /2022/12/22/correlacion-y-y-hat/
 ---
 
 Supongamos que tenemos un modelo construido sobre unos datos $(x_i, y_i)$. Para cada $x_i$, el valor $y_i$ es una realización de una variable aleatoria $Y_i$ con distribución $F_i(y)$. Por simplificar, podemos suponer, además, que para el ajuste se utiliza el error cuadrático.

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-25 09:11:44+00:00
-draft: false
-title: ¿"Acaban" las descargas "ilegales" con la cultura?
-
-url: /2011/01/25/acaban-las-descargas-ilegales-con-la-cultura/
 categories:
 - números
+date: 2011-01-25 09:11:44+00:00
+draft: false
+lastmod: '2025-04-06T19:13:26.674826'
+related:
+- 2010-11-09-la-pirateria-de-libros-se-dispara-en-2010-nos-dicen.md
+- 2011-01-11-pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2011-02-25-1605.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
 tags:
 - números
+title: ¿"Acaban" las descargas "ilegales" con la cultura?
+url: /2011/01/25/acaban-las-descargas-ilegales-con-la-cultura/
 ---
 
 Corre por ahí la especie de que las descargas impropiamente llamadas ilegales, la piratería y algunos otros apocalípticos jinetes de la modernidad van a _acabar con XXX_ (sustitúyase XXX por _la música_, _la cultura_, _el cine_ o _los libros_).

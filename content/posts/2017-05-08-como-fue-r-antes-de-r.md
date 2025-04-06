@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-05-08 08:13:16+00:00
-draft: false
-title: ¿Cómo fue R antes de R?
-
-url: /2017/05/08/como-fue-r-antes-de-r/
 categories:
 - r
+date: 2017-05-08 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:02:06.556890'
+related:
+- 2012-06-04-la-prehistoria-de-r-segun-patrick-burns.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md
+- 2017-07-05-syberia-tiene-muy-buena-pinta-pero.md
+- 2014-01-16-macros-sintacticas-con-r.md
 tags:
 - historia
 - r
+title: ¿Cómo fue R antes de R?
+url: /2017/05/08/como-fue-r-antes-de-r/
 ---
 
 La década le ha dejado nuevas sintaxis a R. Algunos, precarcas, fruncimos el entrecejo. Esta entrada nos administrará un poco de medicina histórica.

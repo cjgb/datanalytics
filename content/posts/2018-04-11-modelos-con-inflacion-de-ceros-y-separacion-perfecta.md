@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-11 08:13:13+00:00
-draft: false
-title: Modelos con inflación de ceros y separación perfecta
-
-url: /2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/
 categories:
 - estadística
 - r
+date: 2018-04-11 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T18:56:48.827631'
+related:
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
+- 2010-10-25-una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - ceros
 - inflación
 - regresión logística
 - separación
+title: Modelos con inflación de ceros y separación perfecta
+url: /2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/
 ---
 
 Al estudiar problemas de conteos, la llamada inflación de ceros ocurre frecuentemente: los datos contienen más ceros de los que  ocurrirían según las distribuciones habituales (Poisson, binomial negativa). Un modelo con inflación de ceros es una mezcla (mixtura) de un modelo de conteos y una distribución de Dirac (en cero).

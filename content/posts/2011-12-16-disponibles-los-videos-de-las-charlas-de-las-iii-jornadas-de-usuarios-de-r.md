@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-16 06:51:52+00:00
-draft: false
-title: Disponibles los vídeos de las charlas de las III Jornadas de Usuarios de R
-
-url: /2011/12/16/disponibles-los-videos-de-las-charlas-de-las-iii-jornadas-de-usuarios-de-r/
 categories:
 - r
+date: 2011-12-16 06:51:52+00:00
+draft: false
+lastmod: '2025-04-06T18:52:03.344621'
+related:
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2014-11-05-disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2010-09-05-el-video-de-la-conferencia-alrededores-disponible-en-dailymotion.md
+- 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md
+- 2010-06-21-user-2010.md
 tags:
 - r
 - anuncio
+title: Disponibles los vídeos de las charlas de las III Jornadas de Usuarios de R
+url: /2011/12/16/disponibles-los-videos-de-las-charlas-de-las-iii-jornadas-de-usuarios-de-r/
 ---
 
 En las Jornadas de Usuarios de R _íbamos_ a tener la posibilidad de grabar las charlas en vídeo pero resultó que no: aunque la EOI nos brindaba la infraestructura necesaria para la grabación y la retransmisión de las jornadas, corría por cuentra nuestra el pagar al operador de las cámaras, etc. Y éramos pobres.

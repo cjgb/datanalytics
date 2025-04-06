@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-21
-title: 'Más ideas alrededor de la sentencia de lo del bono social de la luz'
-url: /2024/05/21/sentencia-bono-social-luz-ii
 categories:
 - varios
+date: 2024-05-21
+lastmod: '2025-04-06T18:59:27.182065'
+related:
+- 2024-05-16-sentencia-bono-social.md
+- 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2023-05-25-evaluaciones-clinicas-actuariales.md
+- 2016-08-29-la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional.md
 tags:
 - derecho
 - publicodes
 - programación
 - ia
+title: Más ideas alrededor de la sentencia de lo del bono social de la luz
+url: /2024/05/21/sentencia-bono-social-luz-ii
 ---
 
 [En esta entrada abundo en lo escrito la [semana pasada](/2024/05/16/sentencia-bono-social-luz-i/) sobre el mismo asunto centrándome esta vez en la extraña interpretación que hace el derecho de la automatización, los _algoritmos_, la _IA_ y todas esas cosas.]
@@ -54,4 +61,3 @@ Llegado aquí, debería decir algo sobre esos otros modelos que tienen un núcle
 * Finalmente, el argumento más manido en contra de las decisiones automatizadas es precisamente el más débil. Se trata de ese según el cual individuos con unas prioris muy acentuadas denuncian que el proceso de entrenamiento de un determinado modelo lo ha hecho separarse de aquellas. Que los datos no refrenden sus ideas preconcebidas es un incordio. Entonces lo llaman sesgado, etc. Desafortunadamente, aun siendo débil, opera porque hemos decidido hacerles casito.
 
 Es obvio que la discusión podría y debería extenderse, pero, ¿para qué? El colapso no ocurrirá ni cinco minutos después porque lo haya intentado.
-

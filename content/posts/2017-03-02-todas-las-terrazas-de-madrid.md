@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-02 08:13:23+00:00
-draft: false
-title: '"Todas" las terrazas de Madrid'
-
-url: /2017/03/02/todas-las-terrazas-de-madrid/
 categories:
 - números
+date: 2017-03-02 08:13:23+00:00
+draft: false
+lastmod: '2025-04-06T19:10:19.657937'
+related:
+- 2011-04-19-graficos-v-mapas.md
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
+- 2022-01-02-por-que-vivimos-espanoles-tanta-altitud.md
+- 2013-08-16-mapas-mapas-mapas-y.md
 tags:
 - ggmap
 - madrid
 - r
 - rgdal
 - terrazas
+title: '"Todas" las terrazas de Madrid'
+url: /2017/03/02/todas-las-terrazas-de-madrid/
 ---
 
 ![](/wp-uploads/2017/03/terrazas_madrid.png#center)

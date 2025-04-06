@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-04-21 21:53:21+00:00
-draft: false
-title: 'Para que copien, peguen y disfruten: addenda'
-
-url: /2010/04/21/para-que-copien-peguen-y-disfruten-addenda/
 categories:
 - r
+date: 2010-04-21 21:53:21+00:00
+draft: false
+lastmod: '2025-04-06T18:47:25.004952'
+related:
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2017-06-28-les-dara-un-patatus-a-mis-excolegas.md
+- 2012-05-23-patrones-hexagonales-con-r.md
+- 2013-10-28-contando-hexagonos-en-paralelo.md
 tags:
 - r
 - fractales
 - gráficos
+title: 'Para que copien, peguen y disfruten: addenda'
+url: /2010/04/21/para-que-copien-peguen-y-disfruten-addenda/
 ---
 
 Ayer dejé publicadas [unas cuantas líneas de R](http://datanalytics.wordpress.com/2010/04/21/para-que-copien-peguen-y-disfruten/) y la promesa de contar de qué iba la cosa. Adelantando acontecimientos, he recibido comentarios públicos y privados al respecto que en esta entrada trataré de contestar.

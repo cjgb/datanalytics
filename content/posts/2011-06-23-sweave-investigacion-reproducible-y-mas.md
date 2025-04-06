@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-23 07:08:45+00:00
-draft: false
-title: Sweave, investigación reproducible... y más
-
-url: /2011/06/23/sweave-investigacion-reproducible-y-mas/
 categories:
 - consultoría
 - r
+date: 2011-06-23 07:08:45+00:00
+draft: false
+lastmod: '2025-04-06T19:07:25.659956'
+related:
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2014-10-16-aprende-r-con-swirl.md
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
 tags:
 - consultoría
 - r
 - paquetes
 - sweave
 - reproducibilidad
+title: Sweave, investigación reproducible... y más
+url: /2011/06/23/sweave-investigacion-reproducible-y-mas/
 ---
 
 Me consta que algunos de mis lectores están al tanto de eso que llaman _investigación reproducible_. De acuerdo con la [Wikipedia](http://en.wikipedia.org/wiki/Reproducibility#Reproducible_research) (en inglés),

@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-02-15
-title: 'Unos números sobre los márgenes de la distribución'
-url: /2024/02/15/margenes-distribucion/
 categories:
 - números
+date: 2024-02-15
+lastmod: '2025-04-06T19:04:06.222994'
+related:
+- 2023-11-21-sumas-lognormales.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2018-09-21-una-anecdota-sobre-el-mercado-electrico-y-sus-mermas.md
+- 2015-10-14-del-hombre-medio-a-la-factura-media.md
 tags:
 - estadística pública
 - distribución
 - economía
 - margen comercial
+title: Unos números sobre los márgenes de la distribución
+url: /2024/02/15/margenes-distribucion/
 ---
 
 Estos días han estado tirios y troyanos tirándose los muebles a la cabeza por el asunto de los márgenes comerciales; en particular, los de frutas y verduras en los supermercados. Constantando lo desencaminados que andan muchos y como sobre el asunto he podido aprender un poco durante mi carrera, oso hoy presentar algunos conceptos y números para centrar el debate. Al final, tal vez me atreva a publicar mi propia opinión sobre el asunto. De hacerlo, advertiré convenientemente a los lectores para que puedan omitirlo felizmente.

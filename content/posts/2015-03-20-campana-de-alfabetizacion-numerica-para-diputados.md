@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-20 08:13:46+00:00
-draft: false
-title: Campaña de alfabetización numérica... para diputados
-
-url: /2015/03/20/campana-de-alfabetizacion-numerica-para-diputados/
 categories:
 - números
+date: 2015-03-20 08:13:46+00:00
+draft: false
+lastmod: '2025-04-06T19:08:57.576858'
+related:
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2014-11-04-dislexia-probabilistica.md
+- 2012-10-30-cultura-numerica-incultura-numerica.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
 tags:
 - anumerismo
 - números
 - política
+title: Campaña de alfabetización numérica... para diputados
+url: /2015/03/20/campana-de-alfabetizacion-numerica-para-diputados/
 ---
 
 >¿Sabe de números tu próximo representante?

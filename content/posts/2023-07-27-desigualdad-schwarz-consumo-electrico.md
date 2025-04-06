@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-07-27
-title: 'Desigualdad de Schwarz y su aplicación al consumo eléctrico doméstico'
-
-url: /2023/07/27/desigualdad-schwarz-consumo-electrico/
 categories:
 - varios
+date: 2023-07-27
+lastmod: '2025-04-06T19:12:28.051962'
+related:
+- 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
+- 2023-03-07-contador-electricidad.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2024-03-14-precio-medio-diario-electricidad.md
 tags:
 - electricidad
 - desigualdades
 - física
+title: Desigualdad de Schwarz y su aplicación al consumo eléctrico doméstico
+url: /2023/07/27/desigualdad-schwarz-consumo-electrico/
 ---
 
 Como saben los viejos del sitio, instalé un dispositivo en el cuadro que mide mi consumo eléctrico en tiempo real. Lo que hace el dispositivo es muy simple. Por un lado, mide las funciones $i(t)$ y $v(t)$ (intensidad y voltaje); por el otro lado, calcula las integrales

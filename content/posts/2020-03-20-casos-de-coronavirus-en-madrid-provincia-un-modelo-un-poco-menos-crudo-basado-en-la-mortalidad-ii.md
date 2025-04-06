@@ -1,18 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-20 09:18:28+00:00
-draft: false
-title: 'Casos de coronavirus en Madrid provincia: un modelo un poco menos crudo basado en la mortalidad (II)'
-
-url: /2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/
 categories:
 - r
 - estadística
+date: 2020-03-20 09:18:28+00:00
+draft: false
+lastmod: '2025-04-06T19:12:11.085069'
+related:
+- 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
+- 2020-05-07-coronavirus-cualitativo.md
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
 tags:
 - coronavirus
 - mortalidad
 - r
 - stan
+title: 'Casos de coronavirus en Madrid provincia: un modelo un poco menos crudo basado
+  en la mortalidad (II)'
+url: /2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii/
 ---
 
 _[Nota: el código relevante sigue estando [en GitHub](https://github.com/cjgb/covid_madrid). No es EL código sino UN código que sugiere todos los cambios que se te puedan ocurrir. Entre otras cosas, ilustra cómo de dependientes son los resultados de la formulación del modelo, cosa muchas veces obviada.]_
@@ -42,6 +49,3 @@ donde se comparan los casos oficiales  (en rojo) con las estimaciones del modelo
 ![](/wp-uploads/2020/03/Rplot01-972x1024.png#center)
 
 que muestra los casos estimados _hoy_.
-
-
-

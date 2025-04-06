@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-03 08:13:33+00:00
-draft: false
-title: Tres grandes problemas que ocupan pero, según el CIS, no preocupan
-
-url: /2017/04/03/tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupan/
 categories:
 - estadística
 - r
+date: 2017-04-03 08:13:33+00:00
+draft: false
+lastmod: '2025-04-06T18:47:59.267624'
+related:
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2010-11-25-transforma-los-graficos-de-espana.md
+- 2018-10-17-los-tres-retos-de-la-inferencia-estadistica.md
+- 2016-10-05-barometros-del-cis-con-r.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
 tags:
 - cis
 - encuestas
 - estadística
 - r
+title: Tres grandes problemas que ocupan pero, según el CIS, no preocupan
+url: /2017/04/03/tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupan/
 ---
 
 [Plañe el periodista](http://www.bez.es/168888980/Los-tres-graves-problemas-que-menos-preocupan-a-los-espanoles.html) porque dizque hay tres graves problemas que, a pesar de lo que ocupan (en los medios), a la hora del CIS, no preocupan.

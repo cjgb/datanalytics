@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-23 06:41:01+00:00
-draft: false
-title: Gráficos "dinamita", desaconsejados
-
-url: /2012/04/23/graficos-dinamita-desaconsejados/
 categories:
 - gráficos
+date: 2012-04-23 06:41:01+00:00
+draft: false
+lastmod: '2025-04-06T19:11:07.425228'
+related:
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2011-11-08-bump-charts-para-comparar-graficamente-proporciones-entre-periodos.md
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2011-07-27-diagramas-de-puntos-dotplots.md
+- 2011-01-05-1139.md
 tags:
 - graficaca
 - gráficos
+title: Gráficos "dinamita", desaconsejados
+url: /2012/04/23/graficos-dinamita-desaconsejados/
 ---
 
 No sé por qué se llaman así. Ni idea. Vine a enterarme de tal nombre a través de un comentario de Carlos Ortega en la lista de usuarios de R. Parece que se usan habitualmente en diversas áreas y tienen el siguiente aspecto:

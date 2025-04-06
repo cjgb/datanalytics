@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-02 08:13:16+00:00
-draft: false
-title: Decisiones bajo incertidumbre (I)
-
-url: /2016/11/02/decisiones-bajo-incertidumbre-i/
 categories:
 - probabilidad
+date: 2016-11-02 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T18:58:34.220490'
+related:
+- 2020-01-07-la-probabilidad-algo-subjetivo.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2013-11-19-la-red-asia.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
 tags:
 - modelos gráficos
 - redes bayesianas
 - teoría de la decisión
+title: Decisiones bajo incertidumbre (I)
+url: /2016/11/02/decisiones-bajo-incertidumbre-i/
 ---
 
 Frecuentemente nos interesan unos efectos (E), tales como:

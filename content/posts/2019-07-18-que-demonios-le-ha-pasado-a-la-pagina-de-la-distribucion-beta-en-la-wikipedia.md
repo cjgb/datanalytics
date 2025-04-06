@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-07-18 09:13:14+00:00
-draft: false
-title: ¿Qué demonios le ha pasado a la página de la distribución beta en la Wikipedia?
-
-url: /2019/07/18/que-demonios-le-ha-pasado-a-la-pagina-de-la-distribucion-beta-en-la-wikipedia/
 categories:
 - estadística
+date: 2019-07-18 09:13:14+00:00
+draft: false
+lastmod: '2025-04-06T19:00:38.295815'
+related:
+- 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md
+- 2020-10-13-ign-r-leaflet.md
+- 2010-11-15-la-wikipedia-te-necesita.md
+- 2021-12-30-forma-insidiosa-spam.md
+- 2016-07-15-una-abominacion-grafica.md
 tags:
 - distribuciones
 - beta
 - wikipedia
+title: ¿Qué demonios le ha pasado a la página de la distribución beta en la Wikipedia?
+url: /2019/07/18/que-demonios-le-ha-pasado-a-la-pagina-de-la-distribucion-beta-en-la-wikipedia/
 ---
 
 Era como

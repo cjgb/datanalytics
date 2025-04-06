@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-07 08:13:49+00:00
-draft: false
-title: Para los que buscáis proyectos de análisis / visualización de datos
-
-url: /2015/05/07/para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos/
 categories:
 - nlp
+date: 2015-05-07 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T18:58:35.755029'
+related:
+- 2018-01-05-preludio-de-mas-por-venir.md
+- 2022-07-28-temas-nadaesgratis.md
+- 2019-03-22-analisis-clasificacion-etc-de-textos-muy-cortos.md
+- 2014-04-24-aventuras-de-web-scraping-como-bajarse-todo-el-boe.md
+- 2012-09-28-tutorial-como-analizar-datos-de-twitter-con-r.md
 tags:
 - boe
 - nlp
 - scraping
+title: Para los que buscáis proyectos de análisis / visualización de datos
+url: /2015/05/07/para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos/
 ---
 
 Igual hay alguien que busca un proyecto interesante de análisis / visualización de datos. Tengo uno en mente para el que ando sin tiempo. Así que lo sugiero aquí por si alguien quiere hincarle el diente.

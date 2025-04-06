@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-21 09:13:00+00:00
-draft: false
-title: 'Defunciones: INE vs MoMo'
-
-url: /2020/04/21/defunciones-ine-vs-momo/
 categories:
 - números
+date: 2020-04-21 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:58:30.279305'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
+- 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
 tags:
 - coronavirus
 - defunciones
@@ -14,6 +18,8 @@ tags:
 - isciii
 - momo
 - mortalidad
+title: 'Defunciones: INE vs MoMo'
+url: /2020/04/21/defunciones-ine-vs-momo/
 ---
 
 _[Fe de errores: en varias secciones de lo que sigue se hace referencia a 2018 como año completo. En realidad, solo se están usando los datos de los trimestres 2, 3 y 4 de 2018, que es en los que hay solapamiento entre los datos del INE y de MoMo.]_
@@ -54,4 +60,3 @@ Cosas:
 | CB| 3358| 4253| 26.7  |
 | RI| 1790| 2309| 29.0  |
 | CL| 16233| 20999| 29.4 |
-

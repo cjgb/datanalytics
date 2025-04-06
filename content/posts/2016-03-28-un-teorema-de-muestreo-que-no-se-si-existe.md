@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-28 09:13:26+00:00
-draft: false
-title: Un ejemplo de "importance sampling" (que no sé cómo traducir)
-
-url: /2016/03/28/un-teorema-de-muestreo-que-no-se-si-existe/
 categories:
 - probabilidad
+date: 2016-03-28 09:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:49:25.697988'
+related:
+- 2018-10-23-abc-2.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-09-18-esto-no-es-practico-pero-si-bonito-bonito-ademas-de-esa-forma-inasequible-a-la-chusma.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
 tags:
 - muestreo
 - probabilidad
 - teorema
 - importance sampling
+title: Un ejemplo de "importance sampling" (que no sé cómo traducir)
+url: /2016/03/28/un-teorema-de-muestreo-que-no-se-si-existe/
 ---
 
 Imaginemos que queremos muestrear una variable aleatoria cuya función de densidad es (proporcional a) el producto de otras dos (no necesariamente propias). Por ejemplo, la gamma, cuya función de densidad es $latex K x^{k-1} \exp(-\lambda x)$, el producto de una exponencial y una distribución impropia con densidad $latex x^{k-1}$.

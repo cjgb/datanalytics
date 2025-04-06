@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-20 06:29:25+00:00
-draft: false
-title: p, n y mi moneda de la suerte
-
-url: /2011/12/20/p-n-y-mi-moneda-de-la-suerte/
 categories:
 - estadística
+date: 2011-12-20 06:29:25+00:00
+draft: false
+lastmod: '2025-04-06T19:09:19.637849'
+related:
+- 2020-07-30-misma-p-distinto-n-luego.md
+- 2011-10-04-puedes-probar-cualquier-cosa-con-paciencia.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2023-09-28-potencia-tests.md
+- 2019-12-04-p-valores-y-decisiones.md
 tags:
 - estadística
 - p-valores
+title: p, n y mi moneda de la suerte
+url: /2011/12/20/p-n-y-mi-moneda-de-la-suerte/
 ---
 
 Tengo una moneda de la suerte. Es una moneda de cinco duros, del mundial 82. No es tanto de la suerte (en esta bitácora somos gente seria, carajo) como —tengo razones para sospechar— una moneda sesgada.

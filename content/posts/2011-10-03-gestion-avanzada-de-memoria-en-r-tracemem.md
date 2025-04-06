@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-03 07:15:16+00:00
-draft: false
-title: 'Gestión avanzada de memoria en R: tracemem'
-
-url: /2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/
 categories:
 - r
+date: 2011-10-03 07:15:16+00:00
+draft: false
+lastmod: '2025-04-06T19:09:16.473554'
+related:
+- 2011-10-14-gestion-avanzada-de-memoria-en-r-tracemem-ii.md
+- 2012-01-16-eles-casts-y-el-rizo-del-rizo-de-la-programacion-eficiente-con-r.md
+- 2015-11-10-asignacion-en-r-flecha-o-lo-innombrable.md
+- 2016-06-27-r-es-un-vago.md
+- 2011-10-26-herramientas-de-depuracion-en-r.md
 tags:
 - r
 - programación
 - memoria
 - tracemem
+title: 'Gestión avanzada de memoria en R: tracemem'
+url: /2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/
 ---
 
 Muchos usuarios de R se enfrentan en alguna ocasión a problemas con el uso y gestión de la memoria. La función `tracemem` es útil a la hora de identificar ineficiencias en el código.

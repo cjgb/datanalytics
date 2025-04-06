@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-06-27 08:13:12+00:00
-draft: false
-title: Cartuchos malbaratados
-
-url: /2017/06/27/cartuchos-malbaratados/
 categories:
 - gráficos
+date: 2017-06-27 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T19:12:04.722142'
+related:
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2011-11-08-bump-charts-para-comparar-graficamente-proporciones-entre-periodos.md
 tags:
 - gráficos
 - mapas
 - prensa
+title: Cartuchos malbaratados
+url: /2017/06/27/cartuchos-malbaratados/
 ---
 
 Me instan a hablar de

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-05 08:13:29+00:00
-draft: false
-title: Preludio (de más por venir)
-
-url: /2018/01/05/preludio-de-mas-por-venir/
 categories:
 - números
+date: 2018-01-05 08:13:29+00:00
+draft: false
+lastmod: '2025-04-06T19:01:32.997060'
+related:
+- 2015-05-07-para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos.md
+- 2022-07-28-temas-nadaesgratis.md
+- 2011-03-28-por-la-apertura-de-los-datos-publicos.md
+- 2018-10-29-enlaces-parasociologicos.md
+- 2017-11-14-advertencias-sobre-el-uso-de-los-n-gramas-de-google.md
 tags:
 - nlp
 - números
 - ocr
 - país
 - prensa
+title: Preludio (de más por venir)
+url: /2018/01/05/preludio-de-mas-por-venir/
 ---
 
 El preludio esto:

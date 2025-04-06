@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-12 07:18:12+00:00
-draft: false
-title: ¿Qué nos jugamos?
-
-url: /2011/05/12/que-nos-jugamos/
 categories:
 - probabilidad
 - r
+date: 2011-05-12 07:18:12+00:00
+draft: false
+lastmod: '2025-04-06T19:05:39.151292'
+related:
+- 2011-05-16-c2bfque-nos-jugamos-addenda-no-queremos-jugarnos-nada.md
+- 2014-01-09-como-apostar-si-tienes-que.md
+- 2022-09-15-perder-ganando.md
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2012-01-31-cosa-prodigiosa-iii-epilogo.md
 tags:
 - probabilidad
 - r
+title: ¿Qué nos jugamos?
+url: /2011/05/12/que-nos-jugamos/
 ---
 
 Imagine que le proponen participar reiteradamente en un juego de azar. Dispone de una cantidad de dinero inicial, $latex a$ euros, y puede apostar en un juego en el que o gana con probabilidad $latex p$ $latex b$ veces la apuesta o la pierde enteramente. Puede repetir el juego cuantas veces quiera  y apostar el porcentaje que desee de su dinero.
@@ -112,8 +118,3 @@ Finalmente, y para que mis lectores puedan cacharrear, adjunto el código ---un 
     lines(tmp[5,], type = "l", col = "red")
     abline(v = 70, lty = 2)
 {{< / highlight >}}
-
-
-
-
-

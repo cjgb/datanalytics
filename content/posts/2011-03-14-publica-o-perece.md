@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-14 09:15:57+00:00
-draft: false
-title: Publica o perece
-
-url: /2011/03/14/publica-o-perece/
 categories:
 - números
+date: 2011-03-14 09:15:57+00:00
+draft: false
+lastmod: '2025-04-06T18:46:26.756553'
+related:
+- 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
+- 2024-01-11-gino-ariely-fraude.md
+- 2018-09-11-la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha.md
+- 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - números
 - ciencia
+title: Publica o perece
+url: /2011/03/14/publica-o-perece/
 ---
 
 Quienes trabajamos circunstancianmente para investigadores heredamos parte de esa presión que sufren para publicar a toda costa so pena de perecer académicamente. Esa presión introduce en demasiadas ocasiones los sesgos, desviaciones con respecto a la ortodoxia metodológica, etc., cuyos excesos ha generado una creciente ola de escepticismo frente a los resultados que aparecen en la literatura, tal y [como comentábamos el otro día en estas páginas](http://www.datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).

@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-02-08 09:13:00+00:00
-draft: false
-title: El teorema de Bayes como la versión modal del modus tollens
-
-url: /2021/02/08/el-teorema-de-bayes-como-la-version-modal-del-modus-tollens/
 categories:
 - probabilidad
+date: 2021-02-08 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:24.075829'
+related:
+- 2021-03-18-la-teoria-de-la-probabilidad-no-extiende-la-logica.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
 tags:
 - lógica
 - probabilidad
@@ -14,6 +18,8 @@ tags:
 - fundamentos de probabilidad
 - estadística bayesiana
 - jaynes
+title: El teorema de Bayes como la versión modal del modus tollens
+url: /2021/02/08/el-teorema-de-bayes-como-la-version-modal-del-modus-tollens/
 ---
 
 El otro día alguien [argumentaba](https://www.lesswrong.com/posts/cWmiWPHyHaqpAYwas/what-s-the-big-deal-about-bayes-theorem) (de una manera que no voy a adjetivar):

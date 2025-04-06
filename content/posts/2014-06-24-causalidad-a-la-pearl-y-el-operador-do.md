@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-24 07:06:49+00:00
-draft: false
-title: Causalidad a la Pearl y el operador do
-
-url: /2014/06/24/causalidad-a-la-pearl-y-el-operador-do/
 categories:
 - estadística
 - probabilidad
+date: 2014-06-24 07:06:49+00:00
+draft: false
+lastmod: '2025-04-06T18:44:54.274795'
+related:
+- 2024-09-10-causalidad.md
+- 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2022-03-08-estadistica-ciencias-blandas.md
 tags:
 - causalidad
 - estadística
 - pearl
 - probabilidad
+title: Causalidad a la Pearl y el operador do
+url: /2014/06/24/causalidad-a-la-pearl-y-el-operador-do/
 ---
 
 Un tipo me pasó el librito de Pearl, [_Causality_](http://bayes.cs.ucla.edu/BOOK-2K/index.html), y se ha pasado varios días dando la vara con que si me había leído ya el epígrafe. Pues sí, lo he leído este finde. Y no solo lo he leído sino que voy a escribir sobre ello.
@@ -49,4 +55,3 @@ No obstante, dos observaciones de mi cosecha:
 
 * Parece que Pearl es el enésimo ingeniero barra físico barra loquesea que se empeña matematizar lo muy difícilmente matematizable y estudiar fenómenos biológicos y sociales _more geometrico_. ¡Sea bienvenido al club!
 * El ejemplito que desarrolla Pearl en el epígrafe me recuerda a cuando me enseñaban a integrar por partes. Uno llegaba a casa del colegio pensando que no iba a haber función que se le resistiera. Pero jamás le contaban que había que perder la esperanza: salvo unas cuantas funcioncitas bastante excepcionales, las de la hoja de problemas y pocas más, prácticamente ninguna tiene integral indefinida cerrada. Me da la sensación de que el álgebra de Pearl resolverá estupendamente siete ejemplos imprácticos y no tendrá apenas qué decir en el resto de los casos.
-

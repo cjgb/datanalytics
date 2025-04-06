@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-15 09:13:51+00:00
-draft: false
-title: ¿Se puede explicar la predicción de un modelo de caja negra?
-
-url: /2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/
 categories:
 - ciencia de datos
 - estadística
 - r
+date: 2016-03-15 09:13:51+00:00
+draft: false
+lastmod: '2025-04-06T18:55:52.310837'
+related:
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
+- 2014-10-06-el-problema-del-100-y-un-ensayo-de-solucion.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2020-10-14-explicacion-de-los-scorings-de-ciertos-modelos.md
+- 2021-02-11-solo-el-modelo-vacio-pasa-todos-los-checks.md
 tags:
 - cajas negras
 - crédito
 - modelos
 - r
 - random forests
+title: ¿Se puede explicar la predicción de un modelo de caja negra?
+url: /2016/03/15/se-puede-explicar-la-prediccion-de-un-modelo-de-caja-negra/
 ---
 
 Imaginemos un banco que construye modelos para determinar si se concede o no un crédito. Este banco tiene varias opciones para crear el modelo. Sin embargo, en algunos países el regulador exige que el banco pueda explicar el motivo de la denegación de un crédito cuando un cliente lo solicite.

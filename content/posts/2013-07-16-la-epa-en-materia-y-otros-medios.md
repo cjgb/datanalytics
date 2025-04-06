@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-07-16 07:52:48+00:00
-draft: false
-title: La EPA, en Materia (y otros medios)
-
-url: /2013/07/16/la-epa-en-materia-y-otros-medios/
 categories:
 - estadística
+date: 2013-07-16 07:52:48+00:00
+draft: false
+lastmod: '2025-04-06T19:01:09.511377'
+related:
+- 2011-11-03-2872.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2013-06-26-video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2011-04-12-c2a1que-prensa-tan-mala.md
 tags:
 - epa
 - estadística pública
+title: La EPA, en Materia (y otros medios)
+url: /2013/07/16/la-epa-en-materia-y-otros-medios/
 ---
 
 Ha salido publicado recientemente un artículo en Materia sobre la EPA. Abunda sobre los [temas que traté en una charla anterior](http://www.datanalytics.com/2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/). Y agradezco a su autor, [Daniel Mediavilla](https://twitter.com/danimateria) tanto el haberse interesado por el asunto como el mencionarme en el artículo.

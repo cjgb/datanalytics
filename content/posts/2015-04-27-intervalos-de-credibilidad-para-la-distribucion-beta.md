@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-27 08:13:36+00:00
-draft: false
-title: Intervalos de credibilidad para la distribución beta
-
-url: /2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/
 categories:
 - estadística
 - r
+date: 2015-04-27 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T18:52:40.218131'
+related:
+- 2015-05-05-intervalos-de-credibilidad-para-la-beta-una-alternativa.md
+- 2022-01-20-peor-pagina-taleb.md
+- 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 tags:
 - beta
 - estadística bayesiana
 - r
+title: Intervalos de credibilidad para la distribución beta
+url: /2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/
 ---
 
 Tengo un parámetro, la `p` de una binomial, que supongo distribuido según una beta. Me da igual para el caso si la distribución _a priori_ es o no informativa. Solo digo que la distribución _a posteriori_ es otra beta con parámetros `a` y `b`.

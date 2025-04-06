@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-13 07:19:32+00:00
-draft: false
-title: ¿Suben o bajan?
-
-url: /2013/08/13/suben-o-bajan/
 categories:
 - estadística
+date: 2013-08-13 07:19:32+00:00
+draft: false
+lastmod: '2025-04-06T18:54:53.036908'
+related:
+- 2021-01-28-simpson-sobre-la-desigualdad.md
+- 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md
+- 2024-11-14-simpson-productividad.md
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
+- 2011-08-25-ubi-ratio-ibi-paradoxa-simpsorum.md
 tags:
 - estadística
 - estadística pública
 - paradoja de simpson
+title: ¿Suben o bajan?
+url: /2013/08/13/suben-o-bajan/
 ---
 
 La respuesta es sí, obviamente. Pero no todo el mundo maneja la lógica retorcidamente y aplicado a la mediana de los salarios estadounidenses los más comenzaríamos a hacer distingos en lugar de encerrarnos en la tautología.

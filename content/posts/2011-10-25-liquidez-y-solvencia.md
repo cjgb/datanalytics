@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-25 06:27:08+00:00
-draft: false
-title: Liquidez y solvencia
-
-url: /2011/10/25/liquidez-y-solvencia/
 categories:
 - finanzas
 - números
+date: 2011-10-25 06:27:08+00:00
+draft: false
+lastmod: '2025-04-06T18:47:30.067954'
+related:
+- 2023-09-14-gestion-liquidez.md
+- 2023-03-16-negocio-bancario.md
+- 2012-05-30-deuda-y-apalancamiento.md
+- 2024-02-22-probabilidad-banca.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
 tags:
 - finanzas
 - números
 - banca
+title: Liquidez y solvencia
+url: /2011/10/25/liquidez-y-solvencia/
 ---
 
 El bombardeo matinal de noticias a que nos tiene acostumbrada la prensa en los últimos tiempos debería tener el efecto secundario positivo de acrecentar nuestra cultura financiera. Pero no estoy seguro de que sea así.

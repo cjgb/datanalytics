@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-31
-title: 'LLMs: ModernBERT y algunos asuntos más'
-url: /2024/12/31/cortos-llms
 categories:
 - cortos
+date: 2024-12-31
+lastmod: '2025-04-06T18:47:23.683977'
+related:
+- 2024-07-25-cortos-llms.md
+- 2024-09-03-cortos-llms.md
+- 2024-03-21-cortos.md
+- 2025-03-25-cortos-llms.md
+- 2024-06-06-cortos-llms.md
 tags:
 - llms
 - bert
+title: 'LLMs: ModernBERT y algunos asuntos más'
+url: /2024/12/31/cortos-llms
 ---
 
 ### Aplicaciones

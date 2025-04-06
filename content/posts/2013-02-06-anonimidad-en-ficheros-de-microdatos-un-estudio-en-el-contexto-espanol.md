@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-06 07:49:29+00:00
-draft: false
-title: 'Anonimidad en ficheros de microdatos: un estudio en el contexto español'
-
-url: /2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/
 categories:
 - estadística
+date: 2013-02-06 07:49:29+00:00
+draft: false
+lastmod: '2025-04-06T19:05:31.143636'
+related:
+- 2019-08-27-mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2010-10-09-c2bfes-realmente-posible-la-anonimizacion.md
+- 2011-09-22-anonimidad-y-cantidad-de-informacion.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
 tags:
 - anonimidad
 - datos abiertos
 - estadística pública
+title: 'Anonimidad en ficheros de microdatos: un estudio en el contexto español'
+url: /2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/
 ---
 
 Estos días ha salido publicado un artículo mío, [_Microdata and k-anonymity: a quantitative approach in the Spanish context_](https://www.seio.es/beio/BEIOVol29Num1.pdf) en la Revista BEIO. Trata de algunos temas de los que ya nos hemos ocupado antes en estas páginas: la [anonimidad](http://www.datanalytics.com/tag/anonimidad/) que cabe esperar en ficheros de microdatos. Y, en este caso, cuando hacen referencia a personas que viven en España.

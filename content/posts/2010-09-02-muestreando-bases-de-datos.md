@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-02 23:07:22+00:00
-draft: false
-title: Muestreando bases de datos
-
-url: /2010/09/02/muestreando-bases-de-datos/
 categories:
 - ciencia de datos
+date: 2010-09-02 23:07:22+00:00
+draft: false
+lastmod: '2025-04-06T19:03:39.801498'
+related:
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
+- 2011-12-09-bajo-el-capo-de-teradatar.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2011-09-28-datos-grandes-colas-largas.md
 tags:
 - ciencia de datos
 - sql
+title: Muestreando bases de datos
+url: /2010/09/02/muestreando-bases-de-datos/
 ---
 
 Aunque el concepto de minería de datos esté casi indisolublemente asociado al de bases de datos _enormes_, en la práctica, el análisis y desarrollo de los modelos se realizan sobre muestras _pequeñas_.

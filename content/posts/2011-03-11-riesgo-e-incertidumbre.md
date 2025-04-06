@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-11 09:33:27+00:00
-draft: false
-title: Riesgo e incertidumbre
-
-url: /2011/03/11/riesgo-e-incertidumbre/
 categories:
 - finanzas
 - números
 - probabilidad
+date: 2011-03-11 09:33:27+00:00
+draft: false
+lastmod: '2025-04-06T18:45:39.062940'
+related:
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2020-03-25-cuantificacion-y-riesgo.md
+- 2015-02-19-decisiones-a-ojo-de-buen-cubero.md
 tags:
 - finanzas
 - números
@@ -16,6 +20,8 @@ tags:
 - riesgo
 - incertidumbre
 - knight
+title: Riesgo e incertidumbre
+url: /2011/03/11/riesgo-e-incertidumbre/
 ---
 
 He encontrado dos (¿cuatro?) definiciones contradictorias de _riesgo _e _incertidumbre_. La primera está implícita en una frase del artículo [_The ratings game_](http://www.brookings.edu/articles/1999/07useconomics_mayer.aspx) de Martin Mayer y dice, según mi traducción, así:

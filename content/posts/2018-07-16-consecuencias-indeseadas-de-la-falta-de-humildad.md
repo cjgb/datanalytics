@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-07-16 08:13:00+00:00
-draft: false
-title: Consecuencias indeseadas de la falta de humildad
-
-url: /2018/07/16/consecuencias-indeseadas-de-la-falta-de-humildad/
 categories:
 - números
+date: 2018-07-16 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:30.458273'
+related:
+- 2015-09-29-la-funesta-mania-de-querer-acertar.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
+- 2023-09-05-superforecasting.md
 tags:
 - anumerismo
 - azar
 - predicción
 - prensa
+title: Consecuencias indeseadas de la falta de humildad
+url: /2018/07/16/consecuencias-indeseadas-de-la-falta-de-humildad/
 ---
 
 Me refiero a estas:

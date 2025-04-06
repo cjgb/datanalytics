@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-14 07:13:13+00:00
-draft: false
-title: 'Rarezas: estadística algebraica'
-
-url: /2015/01/14/rarezas-estadistica-algebraica/
 categories:
 - estadística
+date: 2015-01-14 07:13:13+00:00
+draft: false
+lastmod: '2025-04-06T19:06:35.305426'
+related:
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
+- 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md
+- 2014-01-24-como-no-restar-numeros-fuzzy.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2024-03-04-cortos-00.md
 tags:
 - estadística
 - álgebra
+title: 'Rarezas: estadística algebraica'
+url: /2015/01/14/rarezas-estadistica-algebraica/
 ---
 
 Matemáticas y estadística son peras y manzanas. La una es la ciencia del ser; la otra, del parecer. Se encuentran en la teoría de la probabilidad, pero se miran de reojo y con recelo. Por eso este [curso de estadística algebraica](https://math.berkeley.edu/~bernd/owl.pdf) es toda una rareza.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-13 08:13:32+00:00
-draft: false
-title: 'Un problema: cómo muestrear histogramas con medias.  La vía de los trapecios'
-
-url: /2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios/
 categories:
 - estadística
+date: 2018-04-13 08:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:53:39.952298'
+related:
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2016-03-03-mezclas-de-distribuciones-con-rstan.md
+- 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md
+- 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
 tags:
 - estadística
 - histogramas
 - media
 - muestreo
+title: 'Un problema: cómo muestrear histogramas con medias.  La vía de los trapecios'
+url: /2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios/
 ---
 
 Me refiero muy impropiamente con _histogramas con medias_ a algo parecido a

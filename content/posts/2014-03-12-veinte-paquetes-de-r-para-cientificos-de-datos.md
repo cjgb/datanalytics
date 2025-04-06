@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-12 07:11:28+00:00
-draft: false
-title: Veinte paquetes de R para científicos de datos
-
-url: /2014/03/12/veinte-paquetes-de-r-para-cientificos-de-datos/
 categories:
 - r
+date: 2014-03-12 07:11:28+00:00
+draft: false
+lastmod: '2025-04-06T18:54:14.999752'
+related:
+- 2022-09-20-tools-etl-memory.md
+- 2014-09-24-plyr-dplyr-data-table-que-opinas.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2014-03-20-los-sospechosos-habituales-y-python.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
 tags:
 - ggplot2
 - paquetes
 - paralelización
 - r
+title: Veinte paquetes de R para científicos de datos
+url: /2014/03/12/veinte-paquetes-de-r-para-cientificos-de-datos/
 ---
 
 Me llegó recientemente un artículo con una lista de [veinte paquetes de R para _data scientists_](http://datascientistinsights.com/2013/02/25/20-r-packages-that-should-impact-every-data-scientist/). Y no la encuentro afortunada. Voy a agrupar esos veinte paquetes en algunas categorías y añadiré comentarios. La primera de ellas es la de manipulación de datos, tal vez la más amplia, que recoge los siguientes: `sqldf`, `plyr`, `stringr` (para procesar texto), `lubridate` (para procesar fechas),`reshape2` y los paquetes de acceso a bases de datos.

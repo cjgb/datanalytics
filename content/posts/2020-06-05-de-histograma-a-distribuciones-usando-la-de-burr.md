@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-05 09:13:00+00:00
-draft: false
-title: De histogramas a distribuciones (usando la de Burr)
-
-url: /2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/
 categories:
 - estadística
 - r
+date: 2020-06-05 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:55:51.510820'
+related:
+- 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md
+- 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
 tags:
 - burr
 - histograma
@@ -15,6 +19,8 @@ tags:
 - ine
 - r
 - renta
+title: De histogramas a distribuciones (usando la de Burr)
+url: /2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/
 ---
 
 Tengo una entrada perpetuamente pendiente que se pospone, entre otras cosas, porque aún no he encontrado una manera satisfactoria para muestrear histogramas. Una de las vías sería dar con (y ajustar) una distribución subyacente que generase unos histogramas similares.
@@ -72,4 +78,3 @@ curve(dburr(x, res$par[1], res$par[2], res$par[3], res$par[4]),
 y me he convencido de que no.
 
 **Addenda:** Varios meses después ensayé otro procedimiento para tratar de resolver el mismo problema. Véase [esto](http://www.datanalytics.com/2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/).
-

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-15 08:13:29+00:00
-draft: false
-title: gam vs rrff (y, en general, modelos generativos vs cajas negras)
-
-url: /2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/
 categories:
 - consultoría
 - estadística
+date: 2018-05-15 08:13:29+00:00
+draft: false
+lastmod: '2025-04-06T18:56:21.880949'
+related:
+- 2024-09-12-cortos-stats.md
+- 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
+- 2018-07-11-las-tres-culturas.md
+- 2017-12-19-mezcolanza-de-inla-a-gam-pasando-por-la-frenologia.md
+- 2019-05-31-modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya.md
 tags:
 - breiman
 - estadística
 - gam
 - random forests
 - series temporales
+title: gam vs rrff (y, en general, modelos generativos vs cajas negras)
+url: /2018/05/15/gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras/
 ---
 
 Para modelizar una serie temporal, y simplificándolo mucho, ¿gam o rrff? Como todo, depende. El otro día oí de un caso en el que los segundos vencían a los primeros claramente. Natural.

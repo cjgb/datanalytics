@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-23 07:13:36+00:00
-draft: false
-title: Si participase en MadData...
-
-url: /2014/07/23/si-participase-en-maddata/
 categories:
 - números
+date: 2014-07-23 07:13:36+00:00
+draft: false
+lastmod: '2025-04-06T18:46:45.516550'
+related:
+- 2015-03-10-licencias-urbanisticas-datos-y-votos.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2014-07-21-maddata-dataton-de-datos-abiertos.md
+- 2019-01-22-es-madrid-ciudad-para-startups-relacionadas-con-los-datos.md
+- 2014-03-24-finalmente-se-ha-inaugurado-martina-cocina.md
 tags:
 - big data
 - datatón
@@ -14,6 +18,8 @@ tags:
 - datos públicos
 - madrid
 - números
+title: Si participase en MadData...
+url: /2014/07/23/si-participase-en-maddata/
 ---
 
 El otro día ayudé a divulgar por aquí [MadData](http://www.datanalytics.com/2014/07/21/maddata-dataton-de-datos-abiertos/), el datatón de datos abiertos del ayuntamiento de Madrid. Algunos me habéis preguntado si participaré. Pero estoy lejos (y, muy, muy ocupado).

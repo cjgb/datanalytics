@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-14 07:43:29+00:00
-draft: false
-title: 'Gestión avanzada de memoria en R: tracemem (II)'
-
-url: /2011/10/14/gestion-avanzada-de-memoria-en-r-tracemem-ii/
 categories:
 - r
+date: 2011-10-14 07:43:29+00:00
+draft: false
+lastmod: '2025-04-06T18:56:45.776241'
+related:
+- 2011-10-03-gestion-avanzada-de-memoria-en-r-tracemem.md
+- 2012-01-16-eles-casts-y-el-rizo-del-rizo-de-la-programacion-eficiente-con-r.md
+- 2015-11-10-asignacion-en-r-flecha-o-lo-innombrable.md
+- 2011-04-07-nueva-version-de-paquete-colbycol.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
 tags:
 - r
 - programación
 - memoria
 - tracemem
+title: 'Gestión avanzada de memoria en R: tracemem (II)'
+url: /2011/10/14/gestion-avanzada-de-memoria-en-r-tracemem-ii/
 ---
 
 He leído estos días el capítulo 14 de _The Art of R Programming_ que trata problemas y trucos para mejorar el rendimiento de R en términos de velocidad y memoria. Menciona la función `tracemem` de la que nos ocupamos [el otro día](http://www.datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/).
@@ -71,8 +77,3 @@ m[1] <- 8L
 
 
 para evitar la copia.
-
-
-
-
-

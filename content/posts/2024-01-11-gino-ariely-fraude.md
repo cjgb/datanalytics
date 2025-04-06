@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-01-11
-title: "Sobre lo de Ariely, Gino, etc."
-url: /2024/01/11/ariely-gino-fraude/
 categories:
 - estadística
+date: 2024-01-11
+lastmod: '2025-04-06T18:47:05.730729'
+related:
+- 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
+- 2023-10-03-muestreo-superricos.md
+- 2014-09-26-tirar-la-piedra-esconder-la-mano.md
+- 2024-07-03-cortos-stats.md
+- 2015-04-14-la-informacion-es-sorpresa.md
 tags:
 - mala ciencia
 - estadística
+title: Sobre lo de Ariely, Gino, etc.
+url: /2024/01/11/ariely-gino-fraude/
 ---
 
 ### I.

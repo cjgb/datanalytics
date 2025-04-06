@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-10
-draft: false
-title: Datos públicos, datos DUP
-
-url: /2011/06/10/datos-publicos-datos-dup/
 categories:
 - números
+date: 2011-06-10
+draft: false
+lastmod: '2025-04-06T18:51:01.781238'
+related:
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2011-03-24-c2bfdonde-obtengo-mis-datos-c2a1pregunta.md
 tags:
 - números
 - datos públicos
 - estadística pública
+title: Datos públicos, datos DUP
+url: /2011/06/10/datos-publicos-datos-dup/
 ---
 
 Hoy en día, en España, salvo por unas cuantas honrosas excepciones no existen datos públicos, sólo datos manejados dentro de las administraciones públicas (y a los que los ciudadanos no tienen acceso).

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-20 06:59:36+00:00
-draft: false
-title: Graficaca en el recibo de la luz (y por imperativo legal, para más inri)
-
-url: /2012/04/20/graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri/
 categories:
 - gráficos
 - números
+date: 2012-04-20 06:59:36+00:00
+draft: false
+lastmod: '2025-04-06T19:01:05.639589'
+related:
+- 2022-04-12-graficaca-ree.md
+- 2014-03-31-graficaca-en-gas-natural-fenosa.md
+- 2022-07-26-hueco-termico.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2022-09-08-regresion-perdida-asimetrica.md
 tags:
 - graficaca
 - gráficos
 - números
+title: Graficaca en el recibo de la luz (y por imperativo legal, para más inri)
+url: /2012/04/20/graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri/
 ---
 
 Tras una sobremesa en la que tratamos el ya manido tema de los [gráficos de tarta](http://www.datanalytics.com/2011/03/02/1658/), me hace llegar mi tertuliano Jorge Sobrino una solapilla que le adjunta Iberdrola al recibo de la luz que parece una broma de mal gusto. Es muy parecida a la siguiente:

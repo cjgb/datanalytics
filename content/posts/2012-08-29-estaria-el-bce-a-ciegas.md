@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-29 07:22:21+00:00
-draft: false
-title: ¿Estaría el BCE a ciegas?
-
-url: /2012/08/29/estaria-el-bce-a-ciegas/
 categories:
 - estadística
 - números
+date: 2012-08-29 07:22:21+00:00
+draft: false
+lastmod: '2025-04-06T19:01:27.131207'
+related:
+- 2012-06-12-por-que-me-quejo-del-banco-de-espana.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2024-02-22-probabilidad-banca.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
 tags:
 - finanzas
 - media
 - números
 - riesgo
+title: ¿Estaría el BCE a ciegas?
+url: /2012/08/29/estaria-el-bce-a-ciegas/
 ---
 
 [David Cabo](https://twitter.com/dcabo) me hizo llegar el otro día este artículo, _[To what degree is the ECB flying blind?](http://ftalphaville.ft.com/blog/2012/08/07/1109211/to-what-degree-is-the-ecb-flying-blind/)_ Y con buen criterio, porque, como veremos, toca temas ya conocidos de los lectores de estas páginas.

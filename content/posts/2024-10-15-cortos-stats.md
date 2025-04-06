@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-10-15
-title: 'Cómo exprimir la prueba de Kolmogorov-Smirnov y unos cuantos asuntos más'
-url: /2024/10/15/cortos-estadística
 categories:
 - cortos
+date: 2024-10-15
+lastmod: '2025-04-06T19:00:04.135272'
+related:
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2024-07-10-cortos-stats.md
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2024-09-05-fraude-electoral-rusia.md
+- 2023-09-28-potencia-tests.md
 tags:
 - prueba de hipótesis
 - etfs
 - left
 - fraude
 - probabilidades pequeñas
+title: Cómo exprimir la prueba de Kolmogorov-Smirnov y unos cuantos asuntos más
+url: /2024/10/15/cortos-estadística
 ---
 
 Suponía que era de conocimiento universal. Pero si John D. Cook siente la necesidad de recordarnos que las [probabilidades pequeñas se suman pero las grandes no](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/), será por algo.

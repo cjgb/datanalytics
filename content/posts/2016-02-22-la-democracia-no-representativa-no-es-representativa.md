@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-02-22 09:13:40+00:00
-draft: false
-title: La democracia no representativa no es representativa
-
-url: /2016/02/22/la-democracia-no-representativa-no-es-representativa/
 categories:
 - estadística
+date: 2016-02-22 09:13:40+00:00
+draft: false
+lastmod: '2025-04-06T18:55:24.686995'
+related:
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
+- 2023-05-16-promedio-predicciones-electorales.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
+- 2022-03-15-infraestimacion-error-encuestas.md
+- 2016-10-06-que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion.md
 tags:
 - democracia directa
 - estadística
 - muestreo
 - política
 - sesgo
+title: La democracia no representativa no es representativa
+url: /2016/02/22/la-democracia-no-representativa-no-es-representativa/
 ---
 
 En estadística, una muestra representativa _tiene que contener las características relevantes de la población en las mismas proporciones en que están incluidas en tal población_ ([referencia](http://www.sai.com.ar/metodologia/rahycs/rahycs_v7_n2_06.htm)).

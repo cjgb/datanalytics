@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-07
-title: 'Un estadístico le echa un vistazo a su consumo eléctrico en tiempo real'
-
-url: /2023/03/07/consumo-electrico-tiempo-real/
 categories:
 - varios
+date: 2023-03-07
+lastmod: '2025-04-06T18:58:37.946230'
+related:
+- 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2023-07-27-desigualdad-schwarz-consumo-electrico.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2024-03-14-precio-medio-diario-electricidad.md
 tags:
 - estadística
 - electricidad
 - mercado eléctrico
+title: Un estadístico le echa un vistazo a su consumo eléctrico en tiempo real
+url: /2023/03/07/consumo-electrico-tiempo-real/
 ---
 
 ## I.

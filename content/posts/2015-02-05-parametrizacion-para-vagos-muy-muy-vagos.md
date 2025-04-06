@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-05 07:13:14+00:00
-draft: false
-title: Parametrización para vagos muy, muy vagos
-
-url: /2015/02/05/parametrizacion-para-vagos-muy-muy-vagos/
 categories:
 - r
+date: 2015-02-05 07:13:14+00:00
+draft: false
+lastmod: '2025-04-06T19:12:50.316568'
+related:
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 tags:
 - parametrización
 - r
 - paquetes
 - whisker
 - sql
+title: Parametrización para vagos muy, muy vagos
+url: /2015/02/05/parametrizacion-para-vagos-muy-muy-vagos/
 ---
 
 Un ejemplo sencillo. Tengo un programa que contiene, por ejemplo, una consulta tal que

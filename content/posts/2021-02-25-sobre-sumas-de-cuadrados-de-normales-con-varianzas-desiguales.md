@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-02-25 09:13:00+00:00
-draft: false
-title: Sobre sumas de cuadrados de normales con varianzas desiguales
-
-url: /2021/02/25/sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales/
 categories:
 - probabilidad
 - r
+date: 2021-02-25 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:36.632980'
+related:
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - aproximaciones
 - chi cuadrado
 - probabilidad
 - t-test
 - welch
+title: Sobre sumas de cuadrados de normales con varianzas desiguales
+url: /2021/02/25/sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales/
 ---
 
 En mi entrada anterior mencioné cómo la suma de cuadrados de normales, aun cuando tengan varianzas desiguales, sigue siendo aproximadamente $latex \chi^2$. Es el resultado que subyace, por ejemplo, a la aproximación de Welch que usa R por defecto en `t.test`. Puede verse una discusión teórica sobre el asunto así como enlaces a la literatura relevante [aquí](https://statisticaloddsandends.wordpress.com/2020/07/03/welchs-t-test-and-the-welch-satterthwaite-equation/).

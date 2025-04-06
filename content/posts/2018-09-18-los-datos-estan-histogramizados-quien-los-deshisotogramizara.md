@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-18 08:13:51+00:00
-draft: false
-title: Los datos están histogramizados... ¿quién los deshisotogramizará?
-
-url: /2018/09/18/los-datos-estan-histogramizados-quien-los-deshisotogramizara/
 categories:
 - números
 - r
+date: 2018-09-18 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T19:12:06.861394'
+related:
+- 2020-06-05-de-histograma-a-distribuciones-usando-la-de-burr.md
+- 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
+- 2016-12-19-problemas-navidenos-decon-r.md
+- 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
+- 2018-04-17-de-espana-a-dinamarca-en-dos-pasos.md
 tags:
 - binequality
 - dinamarca
@@ -15,6 +19,8 @@ tags:
 - paquetes
 - r
 - histogramas
+title: Los datos están histogramizados... ¿quién los deshisotogramizará?
+url: /2018/09/18/los-datos-estan-histogramizados-quien-los-deshisotogramizara/
 ---
 
 Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dinamarca. Pero los [datos](http://www.skm.dk/english/facts-and-figures/progression-in-the-income-tax-system) estaban _histogramizados_:

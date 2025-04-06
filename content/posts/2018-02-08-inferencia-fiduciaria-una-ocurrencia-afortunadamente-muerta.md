@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-08 08:12:06+00:00
-draft: false
-title: 'Inferencia fiduciaria: una ocurrencia, afortunadamente, muerta'
-
-url: /2018/02/08/inferencia-fiduciaria-una-ocurrencia-afortunadamente-muerta/
 categories:
 - estadística
+date: 2018-02-08 08:12:06+00:00
+draft: false
+lastmod: '2025-04-06T19:03:20.394006'
+related:
+- 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
+- 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md
+- 2021-11-03-mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia.md
+- 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - estadística
 - inferencia fiduciaria
 - fisher
+title: 'Inferencia fiduciaria: una ocurrencia, afortunadamente, muerta'
+url: /2018/02/08/inferencia-fiduciaria-una-ocurrencia-afortunadamente-muerta/
 ---
 
 Hay ocurrencias la mar de extravagantes que sobreviven el paso del tiempo (p.e., la homeopatía o el marxismo). Otras mueren. Como requetemuertas que están, no somos conscientes de que alguna vez existieron.

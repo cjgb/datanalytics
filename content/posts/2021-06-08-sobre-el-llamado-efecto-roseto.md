@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-06-08 09:13:00+00:00
-draft: false
-title: Sobre el llamado "efecto Roseto"
-
-url: /2021/06/08/sobre-el-llamado-efecto-roseto/
 categories:
 - estadística
+date: 2021-06-08 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:19.877009'
+related:
+- 2024-10-08-cortos-stats.md
+- 2018-09-11-la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha.md
+- 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md
+- 2013-08-16-mapas-mapas-mapas-y.md
+- 2018-03-21-a-mayor-efecto-sobre-todo-si-es-novedoso-mayor-escepticismo.md
 tags:
 - estadística
 - libros
@@ -14,6 +18,8 @@ tags:
 - sociología
 - mala ciencia
 - feyerabend
+title: Sobre el llamado "efecto Roseto"
+url: /2021/06/08/sobre-el-llamado-efecto-roseto/
 ---
 
 Escribí ya hace tiempo ([aquí](https://www.datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/)):

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-10 08:05:09+00:00
-draft: false
-title: Error de tipo I, error de tipo II
-
-url: /2014/01/10/error-de-tipo-i-error-de-tipo-ii/
 categories:
 - estadística
+date: 2014-01-10 08:05:09+00:00
+draft: false
+lastmod: '2025-04-06T19:01:31.479399'
+related:
+- 2016-08-30-terremotos-consecuencias-y-lecciones.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2024-10-31-efectividad-alertas.md
+- 2020-03-25-cuantificacion-y-riesgo.md
 tags:
 - error
 - estadística
 - predicción
 - teoría de la decisión
+title: Error de tipo I, error de tipo II
+url: /2014/01/10/error-de-tipo-i-error-de-tipo-ii/
 ---
 
 Aquí está la noticia sobre el resultado de un error de tipo I: [_Danone takes legal action over milk scare_](http://www.ft.com/cms/s/0/9dc84772-78b4-11e3-831c-00144feabdc0.html).

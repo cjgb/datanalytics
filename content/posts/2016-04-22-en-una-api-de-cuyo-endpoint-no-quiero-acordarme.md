@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-22 09:13:16+00:00
-draft: false
-title: En una API de cuyo endpoint no quiero acordarme...
-
-url: /2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/
 categories:
 - programación
+date: 2016-04-22 09:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:12:20.246978'
+related:
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2012-10-05-datos-sobre-los-presupuestos-del-pais-vasco.md
+- 2020-06-17-un-mecanismo-para-fomentar-la-provision-privada-de-bienes-pubicos.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
 tags:
 - apis
 - impuestos
+title: En una API de cuyo endpoint no quiero acordarme...
+url: /2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/
 ---
 
 ... rigen los siguientes términos de servicio (que traduzco, porque el original vienen en inglés):

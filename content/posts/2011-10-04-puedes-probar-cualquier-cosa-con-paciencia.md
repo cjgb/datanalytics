@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-04 07:10:42+00:00
-draft: false
-title: Puedes probar cualquier cosa (con paciencia)
-
-url: /2011/10/04/puedes-probar-cualquier-cosa-con-paciencia/
 categories:
 - estadística
 - probabilidad
+date: 2011-10-04 07:10:42+00:00
+draft: false
+lastmod: '2025-04-06T18:45:26.352927'
+related:
+- 2023-09-28-potencia-tests.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2023-06-13-p-valores-pearson.md
 tags:
 - estadística
 - probabilidad
 - feller
+title: Puedes probar cualquier cosa (con paciencia)
+url: /2011/10/04/puedes-probar-cualquier-cosa-con-paciencia/
 ---
 
 Puedes _probar _prácticamente cualquier cosa. Con paciencia, claro. Por ejemplo, coge una moneda de tu bolsillo. Puedes _probar_ que tiene un sesgo: salen más caras (o cruces, da igual) de lo que cabría esperar.

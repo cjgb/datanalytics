@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-10 07:13:58+00:00
-draft: false
-title: Remuestreos y tests de hipótesis
-
-url: /2014/11/10/remuestreos-y-tests-de-hipotesis/
 categories:
 - estadística
 - r
+date: 2014-11-10 07:13:58+00:00
+draft: false
+lastmod: '2025-04-06T19:03:57.224042'
+related:
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
+- 2016-01-25-comparaciones-de-tres-grupos-pruebas-vs-modelos.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2023-03-21-reduccion-error-tests-ab.md
 tags:
 - estadística
 - r
 - remuestreo
+title: Remuestreos y tests de hipótesis
+url: /2014/11/10/remuestreos-y-tests-de-hipotesis/
 ---
 
 No sé si visteis [el vídeo que colgué el otro día](http://www.datanalytics.com/2014/11/06/estadistica-clasica-vs-remuestreo/). Trataba el problema de determinar si dos poblaciones

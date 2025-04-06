@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-12-31 07:42:46+00:00
-draft: false
-title: 'Palabras y pelas: un ejercicio apenas incoado'
-
-url: /2013/12/31/palabras-y-pelas-un-ejercicio-apenas-incoado/
 categories:
 - nlp
+date: 2013-12-31 07:42:46+00:00
+draft: false
+lastmod: '2025-04-06T18:47:37.438202'
+related:
+- 2019-12-10-electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos.md
+- 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2023-07-18-energia-nuclear-salvara-mundo.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
 tags:
 - electricidad
 - endesa
 - nlp
+title: 'Palabras y pelas: un ejercicio apenas incoado'
+url: /2013/12/31/palabras-y-pelas-un-ejercicio-apenas-incoado/
 ---
 
 Nos encantan las palabras (¡y los mapas, pero esa es [otra historia](http://www.datanalytics.com/2013/03/19/mapas-realmente-necesarios/)!). En estos días de tanto discurso hay mucho interés por examinar con lupa qué palabras dijo quién y cuándo en una exégesis cuantitativa y (¿tal vez por eso?) falta de calado.

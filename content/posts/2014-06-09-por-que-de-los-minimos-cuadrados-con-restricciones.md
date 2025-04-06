@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-09 07:15:06+00:00
-draft: false
-title: El porqué de los mínimos cuadrados con restricciones
-
-url: /2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/
 categories:
 - estadística
+date: 2014-06-09 07:15:06+00:00
+draft: false
+lastmod: '2025-04-06T19:09:03.084791'
+related:
+- 2014-06-05-minimos-cuadrados-con-restricciones.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 tags:
 - constroptim
 - estadística
@@ -14,6 +18,8 @@ tags:
 - modelos
 - optimización
 - predicción
+title: El porqué de los mínimos cuadrados con restricciones
+url: /2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/
 ---
 
 Avisé en mi entrada del otro día: [no me preguntéis por qué](http://www.datanalytics.com/2014/06/05/minimos-cuadrados-con-restricciones/) (imponer restricciones en un problema de mínimos cuadrados).

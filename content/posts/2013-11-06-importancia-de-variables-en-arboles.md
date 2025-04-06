@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-11-06 07:49:59+00:00
-draft: false
-title: Importancia de variables en árboles
-
-url: /2013/11/06/importancia-de-variables-en-arboles/
 categories:
 - ciencia de datos
 - gráficos
 - r
+date: 2013-11-06 07:49:59+00:00
+draft: false
+lastmod: '2025-04-06T18:53:48.105632'
+related:
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2020-10-14-explicacion-de-los-scorings-de-ciertos-modelos.md
+- 2022-06-07-generalized-random-forests.md
+- 2019-02-18-9857.md
+- 2011-09-09-treemaps-en-r.md
 tags:
 - ctree
 - ggplot2
 - gráficos
 - party
 - r
+title: Importancia de variables en árboles
+url: /2013/11/06/importancia-de-variables-en-arboles/
 ---
 
 Los árboles (o árboles de inferencia condicional) valen fundamentalmente para hacerse una idea de cómo y en qué grado opera una variable en un modelo controlando por el efecto del resto. Su valor reside fundamentalmente en la interpretabilidad.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-06-28 22:36:10+00:00
-draft: false
-title: 'Gráficos en R con símbolos arbitrarios: código, comentarios y fin'
-
-url: /2010/06/28/graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin/
 categories:
 - r
+date: 2010-06-28 22:36:10+00:00
+draft: false
+lastmod: '2025-04-06T19:09:02.376131'
+related:
+- 2010-06-18-graficos-en-r-con-simbolos-arbitrarios.md
+- 2012-10-10-graficos-en-r-a-la-xkcd.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2013-11-29-oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2.md
+- 2011-12-29-graficos-de-pares-de-variables-mejorados-con-r.md
 tags:
 - gráficos
 - r
 - paquetes
+title: 'Gráficos en R con símbolos arbitrarios: código, comentarios y fin'
+url: /2010/06/28/graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin/
 ---
 
 Prometí el otro día revelar los secretos (pensaba que no lo eran tanto) del gráfico que mostré en esta [entrada](http://www.datanalytics.com/2010/06/18/graficos-en-r-con-simbolos-arbitrarios/). Los impacientes tienen [aquí](/uploads/grafico_banderas.zip) todo lo que necesitan. Tienen que ejecutar primero el guión `svg2ps.sh` que invoca inkscape para transformar los ficheros svg (incluidos en la descarga) de las banderas (obtenidos de la Wikipedia) en ficheros _postscript_.

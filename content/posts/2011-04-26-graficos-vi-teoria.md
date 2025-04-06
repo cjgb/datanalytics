@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-26 09:53:52+00:00
-draft: false
-title: 'Gráficos (VI): teoría'
-
-url: /2011/04/26/graficos-vi-teoria/
 categories:
 - gráficos
+date: 2011-04-26 09:53:52+00:00
+draft: false
+lastmod: '2025-04-06T19:05:36.060375'
+related:
+- 2011-04-14-graficos-iv-tutoriales-2.md
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2011-04-05-graficos-iii-bitacoras.md
 tags:
 - gráficos
+title: 'Gráficos (VI): teoría'
+url: /2011/04/26/graficos-vi-teoria/
 ---
 
 La última entrega de esta serie sobre gráficos, que tal vez debiera haber sido la primera, mostrará algunos enlaces a recursos en los que educarse en este _cienciarte_ que es el de la representación gráfica de datos.

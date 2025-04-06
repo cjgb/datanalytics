@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-09-16 09:13:00+00:00
-draft: false
-title: Sobre la economía conductual
-
-url: /2021/09/16/sobre-la-economia-conductual/
 categories:
 - mala ciencia
+date: 2021-09-16 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:09:13.964417'
+related:
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
+- 2025-01-28-cortos-stats.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
 tags:
 - economía
 - economía conductual
 - von neumann
+title: Sobre la economía conductual
+url: /2021/09/16/sobre-la-economia-conductual/
 ---
 
 _[Esta entrada recoge una serie de notas y reflexiones sobre el asunto del título desgajadas de un proyecto de vídeo que vengo posponiendo varias semanas y que toca el asunto semitangencialmente.]_

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-07 08:13:43+00:00
-draft: false
-title: 'Liberalismo: los axiomas y sus corolarios'
-
-url: /2018/05/07/liberalismo-los-axiomas-y-sus-corolarios/
 categories:
 - libros
+date: 2018-05-07 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T19:07:09.166222'
+related:
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
+- 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
+- 2018-07-18-sociologia-normativa-el-estudio-de-cuales-deberian-ser-las-causas-de-los-problemas-sociales.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 tags:
 - economía
 - libros
 - política
 - von mises
+title: 'Liberalismo: los axiomas y sus corolarios'
+url: /2018/05/07/liberalismo-los-axiomas-y-sus-corolarios/
 ---
 
 Una malhadada fisura en la rótula me ha tenido boca arriba más horas de las habituales durante el último mes. Por evitar el aburrimiento, no me ha quedado otra que interponer una tableta entre cara y techo de la que leer más o menos desordenadamente. Uno de los volúmenes que ha devorado mi sobrevenida afición por la lectura ha sido _[Liberalismo](https://mises.org/library/liberalism-classical-tradition)_, de von Mises.

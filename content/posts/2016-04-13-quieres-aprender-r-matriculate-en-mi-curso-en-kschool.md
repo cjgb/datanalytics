@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-13 09:13:01+00:00
-draft: false
-title: ¿Quieres aprender R? ¡Matricúlate en mi curso en KSchool!
-
-url: /2016/04/13/quieres-aprender-r-matriculate-en-mi-curso-en-kschool/
 categories:
 - anuncio
 - cursos
 - r
+date: 2016-04-13 09:13:01+00:00
+draft: false
+lastmod: '2025-04-06T18:52:09.387100'
+related:
+- 2015-04-21-programa-profesional-de-iniciacion-a-r.md
+- 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md
+- 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2012-06-11-hoy-ha-comenzado-el-curso-basico-de-r.md
 tags:
 - anuncio
 - cursos
 - kschool
 - r
+title: ¿Quieres aprender R? ¡Matricúlate en mi curso en KSchool!
+url: /2016/04/13/quieres-aprender-r-matriculate-en-mi-curso-en-kschool/
 ---
 
 Si quieres aprender R, bien puedes matricularte en [el curso que voy a impartir en KSchool](http://kschool.com/cursos/madrid/programa-profesional-de-iniciacion-a-r/). Es un programa de iniciación a R centrado en aquellos aspectos de R que más usan en la práctica diaria quienes trabajan con datos (y no son estadísticos _duros_). ¡Y ya vamos por la tercera edición!

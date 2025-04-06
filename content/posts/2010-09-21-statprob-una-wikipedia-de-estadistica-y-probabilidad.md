@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-21 23:03:07+00:00
-draft: false
-title: 'StatProb: una wikipedia de estadística y probabilidad'
-
-url: /2010/09/21/statprob-una-wikipedia-de-estadistica-y-probabilidad/
 categories:
 - estadística
+date: 2010-09-21 23:03:07+00:00
+draft: false
+lastmod: '2025-04-06T18:56:05.155905'
+related:
+- 2010-11-15-la-wikipedia-te-necesita.md
+- 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
+- 2020-01-27-estadistica-basica-edulcorada.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2013-11-18-statistics-online-computational-resource.md
 tags:
 - estadística
+title: 'StatProb: una wikipedia de estadística y probabilidad'
+url: /2010/09/21/statprob-una-wikipedia-de-estadistica-y-probabilidad/
 ---
 
 Me enteré de esta iniciativa y me ha faltado tiempo para divulgarla entre los lectores de mi blog: [StatProb, una enciclopedia de estadística y probabilidad ](http://statprob.com/)patrocinada por varias asociaciones con interés en la materia.

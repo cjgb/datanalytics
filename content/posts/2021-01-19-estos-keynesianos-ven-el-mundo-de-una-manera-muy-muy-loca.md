@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-01-19 09:13:00+00:00
-draft: false
-title: Estos keynesianos ven el mundo de una manera muy, muy loca
-
-url: /2021/01/19/estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca/
 categories:
 - probabilidad
+date: 2021-01-19 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:21.142106'
+related:
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2022-12-01-eventos-conjuntos.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2020-01-07-la-probabilidad-algo-subjetivo.md
 tags:
 - keynes
 - hacking
 - kolmogorov
 - probabilidad
 - fundamentos de probabilidad
+title: Estos keynesianos ven el mundo de una manera muy, muy loca
+url: /2021/01/19/estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca/
 ---
 
 _[Y no, no me refiero (hoy) a los seguidores del Keynes de la "Teoría general del empleo, el interés y el dinero" sino a los de su "Tratado sobre probabilidades". Misma persona, distinto libro, distinta disciplina. Y excúseme el "clickbait": no podía no hacerlo.]_

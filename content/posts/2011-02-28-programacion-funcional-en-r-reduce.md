@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-02-28 09:07:36+00:00
-draft: false
-title: 'Programación funcional en R: Reduce'
-
-url: /2011/02/28/programacion-funcional-en-r-reduce/
 categories:
 - r
+date: 2011-02-28 09:07:36+00:00
+draft: false
+lastmod: '2025-04-06T19:10:15.608070'
+related:
+- 2015-02-25-todos-contra-todos.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
+- 2012-11-07-mapreduce-con-mincedmeat.md
 tags:
 - r
 - programación funcional
+title: 'Programación funcional en R: Reduce'
+url: /2011/02/28/programacion-funcional-en-r-reduce/
 ---
 
 Siguiendo con la serie de artículos sobre programación funcional que comencé [hablando de Filter()](http://www.datanalytics.com/2010/11/24/programacion-funcional-en-r-filter/) hace un tiempo, trataré hoy la función Reduce(). El contenido de cuanto sigue debería ser familiar de quienes asistieron al Taller Avanzado de R en las [II Jornadas de Usuarios de R](http://www.datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/).
@@ -144,4 +150,3 @@ El interesado en profundizar en el estudio de esta función puede ejercitarse co
 
 1. Vectorizar las funciones `cbind()` y `rbind()`
 2. Reescribir el código para reescribir el código que ofrecí en la entrada [A vueltas con los fractales](http://www.datanalytics.com/2010/10/26/a-vueltas-con-los-fractales/) usando la función `Reduce()`
-

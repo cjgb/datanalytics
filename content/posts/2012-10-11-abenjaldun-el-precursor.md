@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-11 07:33:30+00:00
-draft: false
-title: Abenjaldún, el precursor
-
-url: /2012/10/11/abenjaldun-el-precursor/
 categories:
 - números
+date: 2012-10-11 07:33:30+00:00
+draft: false
+lastmod: '2025-04-06T19:00:53.299554'
+related:
+- 2016-01-06-visualizando-los-quinientos-millones-de-la-begun.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2010-07-04-exagerados.md
+- 2011-09-29-predicciones-a-toro-pasado-y-el-perro-que-no-ladro.md
+- 2010-04-07-el-censo-del-rey-david-y-el-castigo-de-yahve.md
 tags:
 - números
 - historia
 - abenjaldún
+title: Abenjaldún, el precursor
+url: /2012/10/11/abenjaldun-el-precursor/
 ---
 
 El otro día, en una [reunión madrileña de escépticos](http://todoloqueseaverdad.blogspot.com.es/2012/10/la-edad-media-en-escepticos-en-el-pub.html), me pusieron sobre la pista de un tal [Abenjaldún](http://es.wikipedia.org/wiki/Ibn_Jald%C3%BAn) . Lo presentaron, poco más o menos, como el primer historiador moderno. Nótese que era tunecino de ascendencia sevillana, musulmán y vivió en el siglo XIV.

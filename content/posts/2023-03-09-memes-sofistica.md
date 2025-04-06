@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-09
-title: 'Memes, memes estadísticos y sofística'
-
-url: /2023/03/09/memes-sofistica/
 categories:
 - números
+date: 2023-03-09
+lastmod: '2025-04-06T18:47:25.820335'
+related:
+- 2011-02-25-1605.md
+- 2011-01-11-pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar.md
+- 2023-04-24-estadistica-creativa.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - estadística
 - memes
 - sofística
 - pib
 - economía
+title: Memes, memes estadísticos y sofística
+url: /2023/03/09/memes-sofistica/
 ---
 
 ## I. Memes

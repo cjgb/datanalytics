@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-06 08:13:52+00:00
-draft: false
-title: 1/e por doquier
-
-url: /2017/02/06/1e-por-doquier/
 categories:
 - probabilidad
+date: 2017-02-06 08:13:52+00:00
+draft: false
+lastmod: '2025-04-06T19:00:49.645227'
+related:
+- 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
+- 2014-02-13-mi-solucion-al-otro-problema-del-cumpleanos.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
+- 2015-01-14-rarezas-estadistica-algebraica.md
 tags:
 - bootstrap
 - matemáticas
 - probabilidad
 - permutaciones
+title: 1/e por doquier
+url: /2017/02/06/1e-por-doquier/
 ---
 
 Leía [_¿Es muy difícil (estadísticamente) no dar ni una?_](http://elpais.com/elpais/2017/01/18/el_aleph/1484694639_020312.html), donde se discute la probabilidad de que $latex s(i) \neq i$ $latex \forall i$ cuando $latex s$ es una permutación. El problema está relacionado, como podrá ver quien visite el enlace, con la probabilidad de repetición del sorteo en el juego del amigo invisible.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-01-28 09:13:00+00:00
-draft: false
-title: Simpson sobre la desigualdad
-
-url: /2021/01/28/simpson-sobre-la-desigualdad/
 categories:
 - estadística
+date: 2021-01-28 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:01:16.942477'
+related:
+- 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md
+- 2013-08-13-suben-o-bajan.md
+- 2024-11-14-simpson-productividad.md
+- 2019-06-03-un-esquema-simpsoniano-para-repensar-el-presunto-incremento-de-la-desigualdad.md
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
 tags:
 - desigualdad
 - economía
 - paradoja de simpson
+title: Simpson sobre la desigualdad
+url: /2021/01/28/simpson-sobre-la-desigualdad/
 ---
 
 Simpson, [un viejo amigo de estas páginas](https://www.datanalytics.com/tag/paradoja-de-simpson/), nos enseña, por ejemplo, cómo es posible que los salarios desciendan a lo largo de todas sus subcategorías y que, a la vez, crezcan en promedio en el tiempo. Basta para ello que se reduzca el peso la proporción de los trabajos peor pagados en la economía.

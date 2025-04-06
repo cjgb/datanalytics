@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-23 08:13:44+00:00
-draft: false
-title: Polinomios monótonos
-
-url: /2017/01/23/polinomios-monotonos/
 categories:
 - r
+date: 2017-01-23 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T18:50:55.595997'
+related:
+- 2020-07-07-regresion-polinomica-vs-redes-neuronales.md
+- 2023-01-18-modelo-poisson-numpyro.md
+- 2017-10-23-modelos-directos-inversos-y-en-los-que-tanto-da.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2023-01-24-funciones-enlace.md
 tags:
 - MonoPoly
 - polinomios
 - r
 - regresión
+title: Polinomios monótonos
+url: /2017/01/23/polinomios-monotonos/
 ---
 
 Recibí un mensaje el otro día sobre polinomios monótonos. Mejor dicho, sobre el ajuste de datos usando polinomios monótonos. Frente a un modelo del tipo `y ~ x` (`x` e `y` reales) donde la relación entre las dos variables es

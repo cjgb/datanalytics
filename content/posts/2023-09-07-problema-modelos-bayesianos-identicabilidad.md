@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-09-07
-title: 'De cómo la estadística bayesiana ha descompuesto la solución a un problema que la estadística clásica tenía plusquamsolucionado'
-
-url: /2023/09/07/identificabilidad-terminos-independientes-modelos-bayesianos/
 categories:
 - estadística
+date: 2023-09-07
+lastmod: '2025-04-06T18:57:22.357295'
+related:
+- 2023-07-20-coeficientes-no-identificables.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2022-03-08-estadistica-ciencias-blandas.md
 tags:
 - estadística bayesiana
 - modelos lineales
 - identificabilidad
+title: De cómo la estadística bayesiana ha descompuesto la solución a un problema
+  que la estadística clásica tenía plusquamsolucionado
+url: /2023/09/07/identificabilidad-terminos-independientes-modelos-bayesianos/
 ---
 
 ### I.
@@ -61,4 +68,3 @@ Tampoco es grave para la predicción. Pero sigue siendo tremendamente antifotog�
 
 El problema es conocido y uno puede ver una discusión del mismo en, p.e., la
 [guía de usuario de Stan](https://mc-stan.org/docs/stan-users-guide/multilevel-regression-and-poststratification.html). Pero ninguno de los remedios que sugiere pueden elevarse a la categoría de soluciones. ¡Qué se le va a hacer!
-

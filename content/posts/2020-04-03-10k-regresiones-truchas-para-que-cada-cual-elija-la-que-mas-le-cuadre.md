@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-03 09:13:00+00:00
-draft: false
-title: 10k regresiones truchas para que cada cual elija la que más le cuadre
-
-url: /2020/04/03/10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre/
 categories:
 - estadística
+date: 2020-04-03 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:59.619584'
+related:
+- 2020-01-10-son-todos-igualitos.md
+- 2017-11-06-la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde.md
+- 2018-12-05-tiene-sentido-plantearse-un-objetivo-que-no-se-puede-medir.md
+- 2019-05-28-causalidad-y-desigualdad.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - desigualdad
 - libros
 - regresión
+title: 10k regresiones truchas para que cada cual elija la que más le cuadre
+url: /2020/04/03/10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre/
 ---
 
 ¿Recordáis la época en que existía una monocausa omnicacoexplicativa? Era la desigualdad que, a través de inefables mecanismos, generaba todo tipo de calamidades: infelicidad, enfermedad, inestabilidad política, etc.

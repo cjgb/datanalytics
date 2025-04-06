@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-25 08:13:31+00:00
-draft: false
-title: Diapositivas con reveal.js y yeoman
-
-url: /2018/04/25/diapositivas-con-reveal-js-y-yeoman/
 categories:
 - consultoría
+date: 2018-04-25 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T19:05:32.543301'
+related:
+- 2017-06-26-como-preambulais-vuestros-rmd.md
+- 2024-02-06-llm-obsidian.md
+- 2016-04-28-rmarkdown-en-el-panel-principal-de-shiny.md
+- 2016-05-25-rmd2r-un-conversor-de-lo-que-su-propio-nombre-indica.md
+- 2020-09-28-las-diapositivas-de-mi-charla-sobre-sobredispersion-en-modelos-de-poisson-disponibles.md
 tags:
 - nodejs
 - presentaciones
 - reveal
 - yeoman
+title: Diapositivas con reveal.js y yeoman
+url: /2018/04/25/diapositivas-con-reveal-js-y-yeoman/
 ---
 
 Alguna vez me han preguntado cómo construyo diapositivas como [estas](https://datanalytics.com/uploads/charla_stack_analitico/charla_stack_analitico_201705.html#/).

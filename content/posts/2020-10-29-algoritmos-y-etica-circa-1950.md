@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-29 09:13:00+00:00
-draft: false
-title: Algoritmos y ética circa 1950
-
-url: /2020/10/29/algoritmos-y-etica-circa-1950/
 categories:
 - libros
+date: 2020-10-29 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:17.465560'
+related:
+- 2023-05-25-evaluaciones-clinicas-actuariales.md
+- 2014-06-16-tan-actual-25-anos-despues.md
+- 2022-02-08-efecto-pierna-rota.md
+- 2010-07-12-contandoles-las-papelinas-a-los-expertos.md
+- 2024-06-12-cortos.md
 tags:
 - algoritmos
 - ética
@@ -15,6 +19,8 @@ tags:
 - sesgo
 - tetlock
 - superforecasting
+title: Algoritmos y ética circa 1950
+url: /2020/10/29/algoritmos-y-etica-circa-1950/
 ---
 
 Estoy corrigiendo las partes de [mi libro](https://www.datanalytics.com/libro_estadistica/) que tienen que ver con la teoría del a probabilidad para hacerlas más prácticas para quienes llegan a ese mundo no para aprender una serie de reglas operativas que le sirvan para resolver un examen y pasar a otra cosa sino para su trabajo y su vida. Es decir, para [asignar probabilidades a eventos](https://en.wikipedia.org/wiki/Problem_of_points).

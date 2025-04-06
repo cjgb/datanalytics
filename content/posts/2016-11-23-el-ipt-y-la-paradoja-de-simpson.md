@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-23 08:13:38+00:00
-draft: false
-title: El IPT y la paradoja de Simpson
-
-url: /2016/11/23/el-ipt-y-la-paradoja-de-simpson/
 categories:
 - estadística
+date: 2016-11-23 08:13:38+00:00
+draft: false
+lastmod: '2025-04-06T19:13:25.784686'
+related:
+- 2021-01-28-simpson-sobre-la-desigualdad.md
+- 2013-08-13-suben-o-bajan.md
+- 2024-11-14-simpson-productividad.md
+- 2011-08-25-ubi-ratio-ibi-paradoxa-simpsorum.md
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
 tags:
 - economía
 - ine
 - ipt
 - paradoja de simpson
 - salarios
+title: El IPT y la paradoja de Simpson
+url: /2016/11/23/el-ipt-y-la-paradoja-de-simpson/
 ---
 
 El INE ha comenzado a publicar una nueva estadística, el IPT o índice de precios del trabajo. Su primera entrega ha sido glosada por la prensa en artículos como [este](http://economia.elpais.com/economia/2016/11/18/actualidad/1479466426_164468.html) o [este](http://www.elmundo.es/economia/2016/11/18/582ed6d222601dfb728b45c2.html).

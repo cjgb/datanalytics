@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-09 07:07:31+00:00
-draft: false
-title: El Ibex 35 al estilo GapMinder
-
-url: /2013/01/09/el-ibex-35-estilo-gapminder/
 categories:
 - finanzas
 - gráficos
 - r
+date: 2013-01-09 07:07:31+00:00
+draft: false
+lastmod: '2025-04-06T19:11:22.046097'
+related:
+- 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2016-04-08-clusters-de-trayectorias-con-la-distancia-de-frechet.md
+- 2013-02-28-addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2016-05-20-descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real.md
+- 2012-10-18-algunos-graficos-de-informacion-bursatil.md
 tags:
 - finanzas
 - gráficos
 - mercados financieros
 - r
+title: El Ibex 35 al estilo GapMinder
+url: /2013/01/09/el-ibex-35-estilo-gapminder/
 ---
 
 Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al estilo GapMinder. En concreto, usando un [MotionChart](https://developers.google.com/chart/interactive/docs/gallery/motionchart) de Google.

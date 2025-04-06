@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-24 08:13:36+00:00
-draft: false
-title: 'Prioris informativas: un ejemplo'
-
-url: /2018/05/24/prioris-informativas-un-ejemplo/
 categories:
 - estadística
+date: 2018-05-24 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:09:50.208069'
+related:
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2012-07-27-a-los-datos-mismos.md
+- 2015-09-07-prioris-subjetivas.md
+- 2016-01-11-prioris-muy-informativas-y-vagamente-informativas-un-ejemplo.md
+- 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
 tags:
 - estadística
 - estadística bayesiana
 - modelos longitudinales
 - modelos mixtos
 - priori
+title: 'Prioris informativas: un ejemplo'
+url: /2018/05/24/prioris-informativas-un-ejemplo/
 ---
 
 Imagina que tienes que generar (reitero: generar) datos compatibles con el siguiente modelo:

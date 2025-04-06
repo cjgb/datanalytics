@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-08-28 08:13:32+00:00
-draft: false
-title: Todos los errores son iguales, pero algunos son más iguales que otros
-
-url: /2015/08/28/todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros/
 categories:
 - ciencia de datos
 - estadística
+date: 2015-08-28 08:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:50:06.844125'
+related:
+- 2023-03-28-se-iguales.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
+- 2024-02-13-outliers-dos-modos.md
+- 2020-12-16-la-interpretacion-de-significativo-en-un-caso-muy-concreto.md
+- 2015-11-13-gam.md
 tags:
 - artesanía estadística
 - estadística
 - ciencia de datos
 - svm
+title: Todos los errores son iguales, pero algunos son más iguales que otros
+url: /2015/08/28/todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros/
 ---
 
 Por eso, en la práctica, el [RMSE](https://es.wikipedia.org/wiki/Error_cuadr%C3%A1tico_medio) y similares son irrelevantes. Aunque eso, desgraciadamente, no quiera decir que no sean utilizados.

@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-15
-title: Sobre la sistemática infraestimación del error en las encuestas
-url: /2122/03/15/sistematica-infraestimacion-error-encuestas/
 categories:
 - estadística
+date: 2022-03-15
+lastmod: '2025-04-06T19:01:26.407780'
+related:
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2015-11-12-encuestas-censos-elecciones.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 tags:
 - encuestas
 - política
 - error
 - escepticismo
+title: Sobre la sistemática infraestimación del error en las encuestas
+url: /2122/03/15/sistematica-infraestimacion-error-encuestas/
 ---
 
 Las encuestas que se publican suelen estar acompañadas de una ficha técnica en la que, entre otras cosas, se especifica el error muestral. El error muestral está relacionado con la posibilidad de que la muestra no represente fidedignamente la población de interés, que tenga un sesgo producto exclusivamente del azar. Es decir, ignora el resto de los posibles sesgos que tengan una causa distinta.
@@ -24,5 +31,3 @@ Allí, el autor argumenta que 4% podría ser una estimación de ese error irredu
 ### Coda
 
 Aunque, como digo arriba, este tema no es mi guerra, sí que lo he tratado en alguna ocasión previa como [aquí](/2016/01/21/a-cuantos-zombis-conoces/), [aquí](/2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/) o [aquí](/2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/). Estas entradas describen técnicas bastante conocidas para trasladar el error producto de la insinceridad al _error metodológico_ que es el que agrega el estrictamente muestral y el que subproducen estas técnicas oblicuas.
-
-

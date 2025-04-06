@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-09-08
-title: 'Un ejemplo de regresión con pérdidas asimétricas'
-description: 'Regresión lineal con pérdidas asimétricas'
-url: /2022/09/08/regresion-perdidas-asimetricas/
 categories:
 - estadística
+date: 2022-09-08
+description: Regresión lineal con pérdidas asimétricas
+lastmod: '2025-04-06T19:00:42.111955'
+related:
+- 2022-07-26-hueco-termico.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
+- 2022-10-25-muchos-julios-hidraulica.md
 tags:
 - regresión lineal
 - rmse
 - mercado eléctrico
 - renovables
+title: Un ejemplo de regresión con pérdidas asimétricas
+url: /2022/09/08/regresion-perdidas-asimetricas/
 ---
 
 En los libros de texto, imperan las funciones de pérdida simétricas, como el RMSE o el MAE. Pero hay casos ---muchos, de hecho, en la práctica--- en que las pérdidas son asimétricas: es más oneroso pasarse, p.e., que no llegar. En esta entrada voy a analizar un ejemplo motivado por el siguiente tuit:
@@ -138,4 +145,3 @@ La evolución de las variables más importantes del problema tiene el siguiente 
 Obviamente, en un ejercicio menos delirante y más realista habría que tener en cuenta todas las cuestiones apuntadas al inicio de la entrada, lo cual excede con mucho el alcance pretendido de esta entrada que consiste, recuérdese, en ilustrar y catalogar un ejemplo en el que un modelo estadístico ---¿sigue siéndolo realmente? ¿o debería decir tal vez _econométrico_ en tanto que no hay ni modelo probabilístico subyacente ni nada más que lo eleve a la categoría de propiamente estadístico?--- usa una función de error asimétrica.
 
 **Nota:** Tengo que repetir este ejercicio dejando la nuclear enchufada para ver hasta qué punto puede servir, como parece ser opinión de algunos, como complemento a la generación renovable. Mis sospechas es que, planteado en estos términos, empeorará la situación. Pero habrá que dejar que los números hablen un poquito.
-

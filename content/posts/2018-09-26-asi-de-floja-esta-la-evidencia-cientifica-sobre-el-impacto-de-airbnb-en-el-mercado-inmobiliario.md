@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-26 08:13:12+00:00
-draft: false
-title: Así de floja está la evidencia científica (sobre el impacto de Airbnb en el
-  mercado inmobiliario)
-
-url: /2018/09/26/asi-de-floja-esta-la-evidencia-cientifica-sobre-el-impacto-de-airbnb-en-el-mercado-inmobiliario/
 categories:
 - mala ciencia
 - artículos
+date: 2018-09-26 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T19:07:31.365621'
+related:
+- 2019-10-08-voy-a-demostrar-con-la-ayuda-del-ine-que-airbnb-no-existe.md
+- 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
+- 2024-03-07-errores-zillow-alquileres.md
+- 2020-01-20-0-7-nyc-mad-3.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
 tags:
 - airbnb
 - alquiler
 - artículos
 - finanzas
 - mala ciencia
+title: Así de floja está la evidencia científica (sobre el impacto de Airbnb en el
+  mercado inmobiliario)
+url: /2018/09/26/asi-de-floja-esta-la-evidencia-cientifica-sobre-el-impacto-de-airbnb-en-el-mercado-inmobiliario/
 ---
 
 Un reciente artículo de El País tiene un título que lo dice todo: [Los informes que refutan a la CNMC: Airbnb sí infla el precio de la vivienda en EE UU](https://elpais.com/economia/2018/08/14/actualidad/1534253546_081610.html). Dice en la entradilla:

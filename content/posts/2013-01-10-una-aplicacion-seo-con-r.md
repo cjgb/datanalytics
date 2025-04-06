@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-10 07:29:36+00:00
-draft: false
-title: Una aplicación SEO con R
-
-url: /2013/01/10/una-aplicacion-seo-con-r/
 categories:
 - r
+date: 2013-01-10 07:29:36+00:00
+draft: false
+lastmod: '2025-04-06T18:44:50.945891'
+related:
+- 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
+- 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2017-02-27-consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
 tags:
 - r
+title: Una aplicación SEO con R
+url: /2013/01/10/una-aplicacion-seo-con-r/
 ---
 
 Leyendo [_Bad Data_](http://shop.oreilly.com/product/0636920024422.do) vine a saber que Google deja en los _logs_ de Apache información muy relevante sobre la optimización del sitio. En efecto, cuando alguien encuentra tu página en Google, Apache deja (casi siempre) en los logs una línea similar a
@@ -88,4 +94,3 @@ Finalmente, presento una gráfica del número de visitas según la posición (tr
 
 [![](/wp-uploads/2013/01/visitas_por_posicion1.png#center)
 ](/wp-uploads/2013/01/visitas_por_posicion1.png#center)
-

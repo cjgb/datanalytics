@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-21 08:13:28+00:00
-draft: false
-title: 'GBM (I): Una mentira sugerente'
-
-url: /2016/06/21/gbm-i-una-mentira-sugerente/
 categories:
 - estadística
+date: 2016-06-21 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T19:08:30.082618'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2014-09-12-bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - estadística
 - gbm
+title: 'GBM (I): Una mentira sugerente'
+url: /2016/06/21/gbm-i-una-mentira-sugerente/
 ---
 
 Hace un tiempo resumí los GBMs (_Gradient Boosting Machines_) [en una línea](https://www.datanalytics.com/2016/03/11/gbm-sintetizado-en-una-linea/). Hoy comienzo una serie de varias entradas para que nadie tenga excusa de no saber de qué va la cosa. Arranco con _una mentira sugerente_. Porque lo que voy a contar no es del todo cierto, pero motiva lo que vendrá después.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-14 07:13:55+00:00
-draft: false
-title: Amanece, me cuentan, que no es poco
-
-url: /2014/10/14/amanece-me-cuenta-que-no-es-poco/
 categories:
 - números
 - r
+date: 2014-10-14 07:13:55+00:00
+draft: false
+lastmod: '2025-04-06T18:50:51.614734'
+related:
+- 2022-11-08-que-hora-deberia-ser.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2015-11-13-gam.md
 tags:
 - ggplot2
 - horarios
 - r
+title: Amanece, me cuentan, que no es poco
+url: /2014/10/14/amanece-me-cuenta-que-no-es-poco/
 ---
 
 El amanecer es una cosa que ocurre a diario, me cuentan, pero que yo apenas he visto. Casi hablo de lo que no sé. Por otra parte, la discusión de los horarios, de si deberíamos tener la hora de Londres y no la de Berlín, me parece puro nominalismo. Unos llaman a la hora a la que se levantan _sechs_, otros _seven_, otros _huit_ y yo diez y veinte. Y no pasa nada.

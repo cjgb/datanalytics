@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-10 07:35:33+00:00
-draft: false
-title: Colusión de anunciantes en perjuicio de navegantes
-
-url: /2014/04/10/colusion-de-anunciantes-en-perjuicio-de-navegantes/
 categories:
 - programación
+date: 2014-04-10 07:35:33+00:00
+draft: false
+lastmod: '2025-04-06T18:58:34.989229'
+related:
+- 2018-04-02-sobre-lo-de-cambridge-analytica.md
+- 2020-09-02-hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
 tags:
 - internet
 - redes sociales
 - sna
+title: Colusión de anunciantes en perjuicio de navegantes
+url: /2014/04/10/colusion-de-anunciantes-en-perjuicio-de-navegantes/
 ---
 
 O algo así. Aunque alguno puede pensar que no es en su perjuicio sino en su beneficio. A saber.

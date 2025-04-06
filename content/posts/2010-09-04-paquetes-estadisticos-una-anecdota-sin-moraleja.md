@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-04 13:11:19+00:00
-draft: false
-title: 'Paquetes estadísticos: una anécdota sin moraleja'
-
-url: /2010/09/04/paquetes-estadisticos-una-anecdota-sin-moraleja/
 categories:
 - consultoría
 - r
+date: 2010-09-04 13:11:19+00:00
+draft: false
+lastmod: '2025-04-06T19:12:18.142526'
+related:
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2012-07-27-a-los-datos-mismos.md
+- 2024-10-10-elbo.md
+- 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 tags:
 - consultoría
 - r
+title: 'Paquetes estadísticos: una anécdota sin moraleja'
+url: /2010/09/04/paquetes-estadisticos-una-anecdota-sin-moraleja/
 ---
 
 Un banco que gana mucho dinero quiso gastarse un nada desdeñable pellizco de sus ingresos contratando a unos consultores muy resabidos de un país extranjero donde, es fama, todos saben mucho. El resultado fue una documentación ininteligible y un larguísimo programa en VB sin apenas comentarios que se demoraba horas en realizar una simulación trivial.
@@ -48,4 +54,3 @@ En fin, que le deseo mucha suerte al banco que gana mucho dinero con su programa
 * De cuatro a seis horas en la versión VB sobre un ordenador de sobremesa potente. El código ocupaba unos cuantos miles de líneas.
 * De 15 a 20 minutos sobre un servidor poderoso usando el afamado paquete estadístico (del orden de 600 líneas de código).
 * De 10 a 15 segundos en mi portátil barato usando el misterioso lenguaje de programación abierto (alrededor de 30 líneas de código).
-

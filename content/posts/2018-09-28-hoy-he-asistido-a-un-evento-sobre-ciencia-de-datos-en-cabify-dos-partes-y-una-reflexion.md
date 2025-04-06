@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-28 08:13:56+00:00
-draft: false
-title: 'Hoy he asistido a un "evento" sobre ciencia de datos en Cabify: dos partes
-  y una reflexión'
-
-url: /2018/09/28/hoy-he-asistido-a-un-evento-sobre-ciencia-de-datos-en-cabify-dos-partes-y-una-reflexion/
 categories:
 - charlas
+date: 2018-09-28 08:13:56+00:00
+draft: false
+lastmod: '2025-04-06T19:02:33.799345'
+related:
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2016-11-15-una-fina-tenue-somera-capa-de-sintaxis.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - cabify
 - charlas
+title: 'Hoy he asistido a un "evento" sobre ciencia de datos en Cabify: dos partes
+  y una reflexión'
+url: /2018/09/28/hoy-he-asistido-a-un-evento-sobre-ciencia-de-datos-en-cabify-dos-partes-y-una-reflexion/
 ---
 
 ### La primera parte

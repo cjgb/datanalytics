@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-18 08:13:03+00:00
-draft: false
-title: Grafos sobre mapas
-
-url: /2015/05/18/grafos-sobre-mapas/
 categories:
 - r
+date: 2015-05-18 08:13:03+00:00
+draft: false
+lastmod: '2025-04-06T19:03:30.925699'
+related:
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2012-04-25-espana-c2bfradial-i.md
+- 2015-05-27-grafos-por-vecindad-en-mapas.md
+- 2012-04-26-espana-c2bfradial-ii.md
+- 2012-03-14-c2a1mano-que-mapa.md
 tags:
 - ggmap
 - gráficos
@@ -16,6 +20,8 @@ tags:
 - r
 - redes sociales
 - sna
+title: Grafos sobre mapas
+url: /2015/05/18/grafos-sobre-mapas/
 ---
 
 He escrito de grafos, he escrito de mapas; hoy hablaré de la combinación de ambas cosas.

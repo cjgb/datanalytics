@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-08-31 08:13:15+00:00
-draft: false
-title: Tod[rep('a', 831)]s y tod[rep('o', 6450)]s los autores de paquetes de R
-
-url: /2016/08/31/todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r/
 categories:
 - r
+date: 2016-08-31 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:01:11.850668'
+related:
+- 2022-12-15-raking.md
+- 2012-09-20-como-votan-los-diputados.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2010-04-18-los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help.md
 tags:
 - autores
 - paquetes
 - r
 - rvest
 - scraping
+title: Tod[rep('a', 831)]s y tod[rep('o', 6450)]s los autores de paquetes de R
+url: /2016/08/31/todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r/
 ---
 
 En los últimos tiempos se ha puesto de moda un subgénero periodístico que es una manera de generar artículos de acuerdo con el siguiente algoritmo:

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-02
-title: 'Breve introducción crítica a la llamada "predicción conforme"'
-
-url: /2023/03/02/prediccion-conforme/
 categories:
 - estadística
+date: 2023-03-02
+lastmod: '2025-04-06T19:07:50.871672'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2024-10-17-interpretacion-modelos.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - predicción
 - predicción conforme
 - error
 - varianza
+title: Breve introducción crítica a la llamada "predicción conforme"
+url: /2023/03/02/prediccion-conforme/
 ---
 
 Pensé que había hablado antes de la llamada predicción conforme. Lo habré soñado. Así que me pongo con ello.

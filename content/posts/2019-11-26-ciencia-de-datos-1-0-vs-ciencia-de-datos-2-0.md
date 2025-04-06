@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-11-26 09:13:00+00:00
-draft: false
-title: Ciencia de datos 1.0 vs ciencia de datos 2.0
-
-url: /2019/11/26/ciencia-de-datos-1-0-vs-ciencia-de-datos-2-0/
 categories:
 - ciencia de datos
+date: 2019-11-26 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:26.420452'
+related:
+- 2023-10-19-errores-chatgpt.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2021-01-21-mas-sobre-el-mito-de-la-objetividad-especialmente-la-data-driven.md
+- 2020-03-06-fases-divergentes-y-convergentes-del-analisis-de-datos.md
+- 2016-11-15-una-fina-tenue-somera-capa-de-sintaxis.md
 tags:
 - ciencia de datos
 - pareto
 - consultoría
+title: Ciencia de datos 1.0 vs ciencia de datos 2.0
+url: /2019/11/26/ciencia-de-datos-1-0-vs-ciencia-de-datos-2-0/
 ---
 
 _[Mil perdones por utilizar el término ciencia de datos; lo he hecho por darme a entender sin enredarme en distingos.]_
@@ -24,6 +30,3 @@ Tal es la _ciencia de datos 1.0_.También conocida como recoger la _low hanging 
 Mejorar esos sistemas y modelos 1.0 será (o está siendo) duro. Solo pocas entidades, las que tengan un volumen suficiente, podrán tal vez compensar los costes fijos de la _ciencia de datos 2.0_ (sí, la de las técnicas y tecnologías _molonas_) con la mejora de eficiencia, si alguna, que supongan con respecto a las de la generación anterior.
 
 **Nota final:** Muchos hablan de la _burbuja_ de la ciencia de datos y del miedo que tienen a que se pinche. Y yo añado: pinchará en el momento en el que comience a ser incuestionable que la realidad de la ciencia de datos 2.0 en muchas ocasiones queda muy por debajo de las expectativas que algunos generan.
-
-
-

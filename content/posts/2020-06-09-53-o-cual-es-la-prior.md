@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-09 09:13:00+00:00
-draft: false
-title: 53 (o, ¿cuál es la prior?)
-
-url: /2020/06/09/53-o-cual-es-la-prior/
 categories:
 - estadística
+date: 2020-06-09 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:46:00.893360'
+related:
+- 2020-06-16-coronavirus-prevalencia-sensibilidad-y-especificidad.md
+- 2020-04-27-muestreo-sensibilidad-y-especificidad.md
+- 2020-05-21-analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida.md
+- 2020-05-15-un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 tags:
 - coronavirus
 - enecovid19
@@ -14,6 +18,8 @@ tags:
 - estadística
 - ine
 - isciii
+title: 53 (o, ¿cuál es la prior?)
+url: /2020/06/09/53-o-cual-es-la-prior/
 ---
 
 En la [documentación técnica del estudio ENE-COVID19](https://www.mscbs.gob.es/ciudadanos/ene-covid/docs/ESTUDIO_ENE-COVID19_INFORME_FINAL.pdf) (recuérdese: INE + ISCIII) se describe un estudio de fiabilidad previo del test rápido (sección A1.2) que se anuncia así:

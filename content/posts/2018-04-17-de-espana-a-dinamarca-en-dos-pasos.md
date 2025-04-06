@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-17 08:13:10+00:00
-draft: false
-title: De España a Dinamarca en dos pasos
-
-url: /2018/04/17/de-espana-a-dinamarca-en-dos-pasos/
 categories:
 - finanzas
 - números
+date: 2018-04-17 08:13:10+00:00
+draft: false
+lastmod: '2025-04-06T19:10:55.130597'
+related:
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
+- 2012-06-27-iva-irpf-y-desigualdad.md
+- 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md
+- 2023-11-09-progresividad-fiscal-calendario.md
 tags:
 - dinamarca
 - españa
 - impuestos
 - irpf
 - renta
+title: De España a Dinamarca en dos pasos
+url: /2018/04/17/de-espana-a-dinamarca-en-dos-pasos/
 ---
 
 De acuerdo con [Eurostat](http://ec.europa.eu/eurostat/statistics-explained/index.php/Tax_revenue_statistics), el IRPF recauda en España aproximadamente el 7.5% del PIB nacional; en Dinamarca, como el 25%. Los [tipos impositivos en Dinamarca](https://home.kpmg.com/xx/en/home/insights/2011/12/Denmark-income-tax.html),

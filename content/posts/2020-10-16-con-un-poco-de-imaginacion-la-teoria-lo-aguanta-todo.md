@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-16 09:13:00+00:00
-draft: false
-title: Con un poco de imaginación, la teoría lo aguanta todo
-
-url: /2020/10/16/con-un-poco-de-imaginacion-la-teoria-lo-aguanta-todo/
 categories:
 - mala ciencia
+date: 2020-10-16 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:52.938022'
+related:
+- 2010-03-14-la-fabula-del-tendero-la-bascula-y-la-caneca-y-su-desasosegadora-moraleja.md
+- 2019-03-13-mezclas-y-regularizacion.md
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2024-09-26-exigencias-aisladas-rigor.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
 tags:
 - ciencia
 - mala ciencia
 - vitruvio
+title: Con un poco de imaginación, la teoría lo aguanta todo
+url: /2020/10/16/con-un-poco-de-imaginacion-la-teoria-lo-aguanta-todo/
 ---
 
 Si no, oigamos a [Vitruvio](http://bdh-rd.bne.es/viewer.vm?id=0000012956) explicándonos todo sobre la cal:

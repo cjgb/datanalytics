@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-07-05 08:13:54+00:00
-draft: false
-title: Syberia tiene muy buena pinta [pero...]
-
-url: /2017/07/05/syberia-tiene-muy-buena-pinta-pero/
 categories:
 - r
+date: 2017-07-05 08:13:54+00:00
+draft: false
+lastmod: '2025-04-06T18:44:24.056499'
+related:
+- 2014-05-14-y-sin-embargo-te-quiero.md
+- 2015-11-17-agate-analisis-de-datos-optimizado-para-humanos-y-no-para-maquinas.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md
 tags:
 - lisp
 - programación
 - r
 - syberia
+title: Syberia tiene muy buena pinta [pero...]
+url: /2017/07/05/syberia-tiene-muy-buena-pinta-pero/
 ---
 
 Echadle un vistazo a [Syberia](https://github.com/syberia/syberia) (y me contáis qué tal os va). Tiene muy buena pinta y puede ser útil para _produccionalizar_ código.

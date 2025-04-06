@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-28 09:13:28+00:00
-draft: false
-title: PyData Madrid 2016, en abril de este año
-
-url: /2016/01/28/pydata-madrid-2016-en-abril-de-este-ano/
 categories:
 - programación
+date: 2016-01-28 09:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:49:46.020774'
+related:
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md
+- 2016-03-04-quieres-presentar-algo-en-las-jornadas-de-usuarios-de-r.md
+- 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md
+- 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md
 tags:
 - anuncio
 - charlas
 - python
 - rpython
+title: PyData Madrid 2016, en abril de este año
+url: /2016/01/28/pydata-madrid-2016-en-abril-de-este-ano/
 ---
 
 Me llegan noticias de [PyData Madrid 2016](http://pydata.org/madrid2016/), que tendrá lugar en abril de este año en Madrid:
@@ -33,4 +39,3 @@ Me llegan noticias de [PyData Madrid 2016](http://pydata.org/madrid2016/), que t
 >NumFocus es una asociación sin ánimo de lucro que [promueve el desarrollo de herramientas científicas en abierto](http://www.numfocus.org/open-source-projects.html), entre otras cosas. Da cobijo a DataCarpentry, SoftwareCarpentry (talleres para enseñar a los científicos a programar, en R y Python, principalmente), Julia, rOpenSci, Numpy, Pandas,...
 
 Yo ya he enviado mi propuesta de charla: una sobre [rPython](https://cran.r-project.org/web/packages/rPython/index.html).
-

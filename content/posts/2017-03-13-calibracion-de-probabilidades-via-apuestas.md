@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-13 08:13:16+00:00
-draft: false
-title: Calibración de probabilidades vía apuestas
-
-url: /2017/03/13/calibracion-de-probabilidades-via-apuestas/
 categories:
 - probabilidad
+date: 2017-03-13 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T18:47:36.730133'
+related:
+- 2022-02-17-examenes-probabilisticos.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2015-09-01-odds-probabilidades.md
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
 tags:
 - apuestas
 - fútbol
 - probabilidad
+title: Calibración de probabilidades vía apuestas
+url: /2017/03/13/calibracion-de-probabilidades-via-apuestas/
 ---
 
 Después de la remontada del F.C. Barcelona es muy de agradecer ver la publicación de artículos como [_Cómo de improbable era la remontada del Barcelona_](http://politica.elpais.com/politica/2017/03/09/ratio/1489084524_912833.html) de Kiko Llaneras. En la misma entradilla, indica que _[u]n modelo estadístico y las apuestas le daban el 7% de opciones_. Un 7% viene a ser más o menos, dice correctamente, como sacar un 11 o un 12 en una tirada de dos dados.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-22 09:13:00+00:00
-draft: false
-title: ¿Modelos para ordenar datos?
-
-url: /2020/10/22/modelos-para-ordenar-datos/
 categories:
 - artículos
 - programación
 - estadística
+date: 2020-10-22 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:52.812292'
+related:
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
+- 2019-08-07-mas-sobre-factores-strings-y-ordenacion.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2023-10-19-errores-chatgpt.md
+- 2011-01-14-algoritmos-de-mineria-de-datos-en-su-contexto.md
 tags:
 - artículos
 - programación
 - muestreo
+title: ¿Modelos para ordenar datos?
+url: /2020/10/22/modelos-para-ordenar-datos/
 ---
 
 Ayer leí [este resumen](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/) de [este artículo](https://dl.acm.org/doi/10.1145/3318464.3389752) que propone y discute un algoritmo novedoso y _basado en ciencia de datos_ para ordenar datos y hacerle la competencia a _quicksort_ y demás. Reza y promete:

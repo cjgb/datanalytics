@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-09 07:13:30+00:00
-draft: false
-title: Ejercicios de mi clase de R
-
-url: /2015/02/09/ejercicios-de-mi-clase-de-r/
 categories:
 - r
+date: 2015-02-09 07:13:30+00:00
+draft: false
+lastmod: '2025-04-06T19:01:25.697496'
+related:
+- 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2016-12-19-problemas-navidenos-decon-r.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
 tags:
 - cursos
 - r
+title: Ejercicios de mi clase de R
+url: /2015/02/09/ejercicios-de-mi-clase-de-r/
 ---
 
 Ya conté que participo (como profesor) en el [Experto en _Data Science_ de la U-tad](http://www.datanalytics.com/2014/10/09/experto-en-data-science-en-la-u-tad/). Voy a copiar aquí los ejercicios que propuse en la asignatura de preparación de datos con R. Por si alguien les quiere hincar el diente. En lo que sigue he eliminado algunos detalles que no vienen a cuento. He dejado el resto.

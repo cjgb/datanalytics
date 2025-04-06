@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-06-04 09:13:32+00:00
-draft: false
-title: Feria del libro, 2019
-
-url: /2019/06/04/feria-del-libro-2019/
 categories:
 - libros
 - varios
+date: 2019-06-04 09:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:58:10.412336'
+related:
+- 2015-01-08-tres-libros-mas-una-biblioteca-menos.md
+- 2016-05-30-mis-conciudadanos-no-tienen-wifi.md
+- 2017-03-21-asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion.md
+- 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 tags:
 - libros
 - feria del libro
+title: Feria del libro, 2019
+url: /2019/06/04/feria-del-libro-2019/
 ---
 
 Fui a la Feria del Libro. El calor era el de L'Étranger. Comencé por la caseta uno. TOC. Riguroso orden hasta la _cientiypico_.

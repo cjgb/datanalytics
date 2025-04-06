@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-19 07:01:38+00:00
-draft: false
-title: Factorizaciones positivas de matrices igualmente positivas
-
-url: /2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/
 categories:
 - estadística
 - r
+date: 2014-06-19 07:01:38+00:00
+draft: false
+lastmod: '2025-04-06T18:54:05.033108'
+related:
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
+- 2014-07-16-dos-descomposiciones-positivas-de-tablas-de-contingencia.md
+- 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
+- 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md
+- 2011-08-16-una-feliz-conjuncion-estadistico-algebraica-y-ii.md
 tags:
 - estadística
 - factorización
 - matrices
 - nmf
+title: Factorizaciones positivas de matrices igualmente positivas
+url: /2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/
 ---
 
 Cuando tenía 18 años, pensaba, llegué a aprender todo lo que había que saber sobre factorización de matrices. Incluida la [inutilidad de Jordan](http://en.wikipedia.org/wiki/Jordan_normal_form). El otro día, con un ciento y pico por ciento más de años, he descubierto una clase entera de factorizaciones que aquellos planes de estudios viejunos no contemplaban y que, ¡carajo!, aparte de útiles engarzan con otras ideas la mar de interesantes.
@@ -70,4 +76,3 @@ Algunas cuestiones adicionales que me planteo respecto al asunto de hoy se refie
 * La posibilidad de incrementar el número de ceros en las matrices (de manera similar a como se hace con las rotaciones de los componentes principales)
 * Si eso que llaman trabajo pero que, en el fondo, es solo ruido, me va a dejar tiempo para seguir indagando en la materia
 * Cómo demonios voy a factorizar algunas matrizotas que tengo en el disco duro
-

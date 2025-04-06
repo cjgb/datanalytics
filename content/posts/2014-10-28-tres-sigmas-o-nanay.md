@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-28 07:13:24+00:00
-draft: false
-title: Tres sigmas o nanay
-
-url: /2014/10/28/tres-sigmas-o-nanay/
 categories:
 - estadística
 - finanzas
+date: 2014-10-28 07:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:46:57.481405'
+related:
+- 2024-07-03-cortos-stats.md
+- 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
+- 2023-09-28-potencia-tests.md
+- 2023-10-03-muestreo-superricos.md
+- 2022-03-08-estadistica-ciencias-blandas.md
 tags:
 - mala ciencia
 - bolsa
 - escepticismo
 - estadística
 - finanzas
+title: Tres sigmas o nanay
+url: /2014/10/28/tres-sigmas-o-nanay/
 ---
 
 El otro día hablaba con una colega sobre una charla a la que habíamos asistido. Yo le decía que sí, que estaba bien, pero que todo lo que habían contado era mentira. Debí haber sido más preciso y decir que _no era verdad_, que es distinto. Pero las canapescas circunstancias no eran propicias para el distingo. Mi interlocutora me escuchaba, pienso, entre sorprendida e incrédula. Todavía está en la edad en la que hay que creérselo todo —sí, esa edad y esa obligación existe— y tiempo tendrá de dejarse envenenar por el nihilismo. Es lo suficientemente lista como para eso.
@@ -35,5 +41,3 @@ El resto del resumen describe la situación mejor que yo lo haría:
 Es decir, exigir [p-valores del orden del 0.003](http://blogs.scientificamerican.com/observations/2012/07/17/five-sigmawhats-that/).
 
 Ah, y el artículo de la literatura médica al que se refieren los autores está comentado [aquí](http://www.datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).
-
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-04-20
-title: '¿Dejar morir pxR?'
-
-url: /2023/04/20/dejar-morir-pxR/
 categories:
 - r
+date: 2023-04-20
+lastmod: '2025-04-06T18:49:08.345618'
+related:
+- 2011-07-28-el-paquete-pxr-en-cran.md
+- 2011-09-08-codigos-de-caracteres-en-r.md
+- 2024-01-18-microdatoses-ultima-version.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2013-03-04-cortar-una-cadena-por-un-caracter-solo-cuando-no-forme-parte-de-una-subcadena-entrecomillada.md
 tags:
 - r
 - paquetes
 - pxr
 - estadística oficial
+title: ¿Dejar morir pxR?
+url: /2023/04/20/dejar-morir-pxR/
 ---
 
 ¿Dejar morir [`pxR`](https://cran.rstudio.com/web/packages/pxR/index.html)? He ahí la cuestión.

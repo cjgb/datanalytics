@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-05 08:13:45+00:00
-draft: false
-title: 'Mezclas de vectores (III): las funciones involucradas'
-
-url: /2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/
 categories:
 - varios
+date: 2016-09-05 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T19:05:50.812755'
+related:
+- 2022-07-12-transferencia-estilo-rrnn.md
+- 2016-09-02-mezclas-de-vectores-ii-un-caso-de-uso.md
+- 2023-01-10-stable-diffusion-1d.md
+- 2016-09-01-mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa.md
+- 2022-06-16-modelos-difusion.md
 tags:
 - fotografía
 - matemáticas
 - mezclas
 - redes neuronales
 - ostagram
+title: 'Mezclas de vectores (III): las funciones involucradas'
+url: /2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/
 ---
 
 _[Tiempo después de la publicación de esta entrada hice otra, [esta](https://www.datanalytics.com/2022/07/12/transferencia-estilo-rrnn/), en la que se ahonda en la función de pérdida usada en la reconstrucción del estilo o textura de las imágenes y que en esta serie no se trató con el detalle que el asunto requiere.]_
@@ -35,4 +41,3 @@ Una colección de enlaces relevantes y puede que interesantes es:
 * El [código](https://github.com/google/deepdream) asociado a la anterior entrada
 * [Ostagram: cosa fina](http://www.ostagram.ru/)
 * [_A Neural Algorithm of Artistic Style_](https://arxiv.org/abs/1508.06576), una versión en pdf y subida a arXiv de lo que he contado estos días
-

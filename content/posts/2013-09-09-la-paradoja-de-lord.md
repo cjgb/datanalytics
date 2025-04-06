@@ -1,17 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-09-09
-title: La paradoja de Lord
-
-url: /2013/09/09/la-paradoja-de-lord/
-
 categories:
 - estadística
+date: 2013-09-09
+lastmod: '2025-04-06T19:08:43.261692'
+related:
+- 2020-11-13-de-a-b-a-did.md
+- 2023-06-22-paradoja-lord.md
+- 2016-01-25-comparaciones-de-tres-grupos-pruebas-vs-modelos.md
+- 2013-09-17-la-paradoja-de-simpson-en-el-6eiiic.md
+- 2019-12-04-p-valores-y-decisiones.md
 tags:
 - bioestadística
 - estadística
 - paradoja de lord
 - paradojas
+title: La paradoja de Lord
+url: /2013/09/09/la-paradoja-de-lord/
 ---
 
 Hace unos meses una clienta me propuso un problema relativamente (¿aparentemente?) sencillo. Era el siguiente:

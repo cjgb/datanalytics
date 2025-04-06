@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-09-27
-title: 'Uso y abuso de los "embeddings"'
-
-url: /2022/09/27/uso-abuso-embeddings/
 categories:
 - ciencia de datos
+date: 2022-09-27
+lastmod: '2025-04-06T19:10:29.577699'
+related:
+- 2018-10-15-dos-ejercicios-propuestos-sobre-embeddings.md
+- 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md
+- 2014-12-29-modelos-mixtos-por-doquier.md
+- 2023-12-19-suma-informacion.md
+- 2024-06-06-cortos-llms.md
 tags:
 - redes neuronales
 - embeddings
 - nlp
+title: Uso y abuso de los "embeddings"
+url: /2022/09/27/uso-abuso-embeddings/
 ---
 
 La variable feota por excelencia de nuestra profesión es el código postal: es categórica, tiene miles de niveles, muchos son infrecuentes, etc. Así que cuando se inventaron los [_embeddings_](https://en.wikipedia.org/wiki/Word_embedding), hace la tira, se me ocurrió crear uno por defecto. Es decir, una representación en baja dimensión de esa variable que pudiera aplicarse a una variedad de modelos. Y así fue hasta que al cabo de unos minutos se me ocurrió que ya existía una, muy natural, en dos dimensiones, que difícilmente iba a poder ser batida por un constructo ciego a la realidad: latitud y longitud.

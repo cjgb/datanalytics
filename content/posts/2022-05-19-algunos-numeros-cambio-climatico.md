@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-19
-title: "Algunos números sobre el cambio climático: servicios en la nube"
-description: 'Una reevaluación del coste climático de nuestro día a día en la nube'
-url: /2022/05/19/numeros-cambio-climatico/
 categories:
 - números
+date: 2022-05-19
+description: Una reevaluación del coste climático de nuestro día a día en la nube
+lastmod: '2025-04-06T18:54:38.864177'
+related:
+- 2024-06-25-consumo-llms.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2023-06-06-energia-coches-particulares.md
+- 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md
+- 2022-07-26-hueco-termico.md
 tags:
 - números
 - cambio climático
+title: 'Algunos números sobre el cambio climático: servicios en la nube'
+url: /2022/05/19/numeros-cambio-climatico/
 ---
 
 Hay un reciente artículo en El País, [_Tu día a día en internet contamina al año tanto como un viaje en coche de más de 1.000 kilómetros_](https://elpais.com/tecnologia/2022-04-01/la-actividad-privada-de-un-usuario-en-la-red-contamina-al-ano-tanto-como-un-viaje-en-coche-de-mas-de-1000-kilometros.html), que es todo un ejercicio de valentía por parte de su autor: se enfrenta a la bestia parda de los periodistas que no es otra cosa que el de la correcta gestión de los órdenes de magnitud.

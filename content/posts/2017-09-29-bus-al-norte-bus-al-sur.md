@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-29 08:13:35+00:00
-draft: false
-title: Bus al norte, bus al sur
-
-url: /2017/09/29/bus-al-norte-bus-al-sur/
 categories:
 - números
+date: 2017-09-29 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T18:53:17.634208'
+related:
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2012-04-25-espana-c2bfradial-i.md
+- 2016-04-29-como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela.md
+- 2018-09-25-disponible-el-fichero-de-datos-abiertos-mas-goloso-de-ambas-castillas-las-rutas-de-bicimad.md
+- 2012-04-16-rutas-por-zaragoza-con-r.md
 tags:
 - datos públicos
 - emt
 - madrid
 - movilidad
+title: Bus al norte, bus al sur
+url: /2017/09/29/bus-al-norte-bus-al-sur/
 ---
 
 El día 2017-09-20 hubo gente que tomó el autobús en Madrid. Se montó en una determinada parada y la siguiente estaba situada o bien al norte o bien al sur de la anterior.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-24 08:13:42+00:00
-draft: false
-title: ¿Un detector de nepotismo?
-
-url: /2017/02/24/un-detector-de-nepotismo/
 categories:
 - estadística
+date: 2017-02-24 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T19:11:28.254670'
+related:
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md
+- 2010-11-08-una-revision-neoliberal-del-principio-de-peter.md
+- 2017-07-04-dudas-razonables-que-me-asaltan.md
+- 2018-10-05-licitaciones-por-insaculacion-ponderada.md
 tags:
 - chi cuadrado
 - nepotismo
+title: ¿Un detector de nepotismo?
+url: /2017/02/24/un-detector-de-nepotismo/
 ---
 
 Un conocido quiere cambiar de vida, dejar la hostelería y formalizarse. Es decir, buscarse un empleo fijo, con horario definido y, a poder ser, cobrando o del Estado o de alguna de sus submanifestaciones administrativas.

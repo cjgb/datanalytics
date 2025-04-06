@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-22 09:29:04+00:00
-draft: false
-title: ¿Otro bug de Teradata?
-
-url: /2010/11/22/otro-bug-de-teradata/
 categories:
 - programación
+date: 2010-11-22 09:29:04+00:00
+draft: false
+lastmod: '2025-04-06T19:11:34.211458'
+related:
+- 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2011-12-09-bajo-el-capo-de-teradatar.md
+- 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md
+- 2010-07-18-mas-de-diez-motivos-para-usar-proc-sql-en-sas.md
 tags:
 - sql
 - bugs
+title: ¿Otro bug de Teradata?
+url: /2010/11/22/otro-bug-de-teradata/
 ---
 
 Yo creo que es un _bug_, vamos. Y tengo tres motivos para creerlo:

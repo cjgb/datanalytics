@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-11 08:13:50+00:00
-draft: false
-title: Un resultado probabilístico contraintuitivo (y II)
-
-url: /2018/10/11/un-resultado-probabilistico-contraintuitivo-y-ii/
 categories:
 - probabilidad
+date: 2018-10-11 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T19:09:34.486694'
+related:
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2014-01-09-como-apostar-si-tienes-que.md
+- 2020-10-30-mercados-de-apuestas-como-cobertura.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - paradojas
 - probabilidad
 - feller
+title: Un resultado probabilístico contraintuitivo (y II)
+url: /2018/10/11/un-resultado-probabilistico-contraintuitivo-y-ii/
 ---
 
 Va sobre [lo de ayer](http://www.datanalytics.com/2018/10/10/un-resultado-probabilistico-contraintuitivo-parte-i/). Hay una demostración de ese resultado contraintutivo [aquí](https://math.stackexchange.com/questions/655972/help-rules-of-a-game-whose-details-i-dont-remember/656426#656426). Hay una referencia [aquí](http://www-isl.stanford.edu/~cover/papers/paper73.pdf). Existen discusiones sobre si este resultado se debe a Feller; si no lo es, bien pudiera haberlo sido; la verdad, es muy como de él.
@@ -40,9 +46,3 @@ Pero el problema es muy similar al planteado ayer:
 Diráse: las dos distribuciones son distintas, sí, pero _parecidas_. Concedido. Pero ser distinto es una mera cuestión de grado y la demostración del resultado muestra hasta dónde pueden desviarse las dos distribuciones para que el resultado se mantenga.
 
 Segundo, B ha elegido un _valor de referencia_ de su distribución. Y sí, un valor de referencia. Que puede ser la media, un cuantil determinado o, por qué, no, una muestra de tamaño uno.
-
-
-
-
-
-

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-27 09:13:00+00:00
-draft: false
-title: Un artículo muy poco BdE del BdE
-
-url: /2021/04/27/un-articulo-muy-poco-bde-del-bde/
 categories:
 - estadística
+date: 2021-04-27 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:10:14.013773'
+related:
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
 tags:
 - aprendizaje automático
 - banca
 - estadística
 - estadística viejuna
+title: Un artículo muy poco BdE del BdE
+url: /2021/04/27/un-articulo-muy-poco-bde-del-bde/
 ---
 
 En tiempos, cuando me dedicaba a esas cosas, el principal motivo por el que en los bancos que conocí por dentro no usaban otra cosa que GLMs era el BdE. Más concretamente, el carpetovetonismo del BdE: el BdE quería y esperaba GLMs, los bancos construían y mostraban GLMs a los reguladores y todo el mundo vivía feliz y despreocupado de las novedades en su covacha.

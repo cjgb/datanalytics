@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-30 09:13:25+00:00
-draft: false
-title: Funciones de densidad log-cóncavas
-
-url: /2016/03/30/funciones-de-densidad-log-concavas/
 categories:
 - probabilidad
+date: 2016-03-30 09:13:25+00:00
+draft: false
+lastmod: '2025-04-06T18:50:43.558909'
+related:
+- 2020-02-07-la-densidad-de-una-cauchy-bivariada-es-cuasiconvexa.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
 tags:
 - probabilidad
+title: Funciones de densidad log-cóncavas
+url: /2016/03/30/funciones-de-densidad-log-concavas/
 ---
 
 Las [funciones de densidad log-cóncavas](https://en.wikipedia.org/wiki/Logarithmically_concave_function) son aquellas cuyo logaritmo es una función cóncava. Por ejemplo, la normal: el  logaritmo de su función de densidad es, constantes aparte, $latex -x^2/2$.

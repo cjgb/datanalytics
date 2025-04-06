@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-02
-title: 'Aún más sobre la falacia ecológica'
-url: /2024/05/02/falacia-ecologica-aun-mas
 categories:
 - estadística
+date: 2024-05-02
+lastmod: '2025-04-06T19:12:35.825988'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md
 tags:
 - falacia ecológica
 - estadística
 - paradoja de simpson
 - causalidad
+title: Aún más sobre la falacia ecológica
+url: /2024/05/02/falacia-ecologica-aun-mas
 ---
 
 #### I.

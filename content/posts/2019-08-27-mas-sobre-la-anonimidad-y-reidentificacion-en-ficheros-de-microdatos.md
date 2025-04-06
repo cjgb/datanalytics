@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-08-27 09:13:40+00:00
-draft: false
-title: Más sobre la anonimidad y reidentificación en ficheros de microdatos
-
-url: /2019/08/27/mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos/
 categories:
 - estadística
+date: 2019-08-27 09:13:40+00:00
+draft: false
+lastmod: '2025-04-06T18:55:28.277580'
+related:
+- 2013-02-06-anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2010-10-09-c2bfes-realmente-posible-la-anonimizacion.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2018-04-16-proteccion-de-los-datos-de-los-muertos.md
 tags:
 - anonimidad
 - datos abiertos
 - estadística pública
+title: Más sobre la anonimidad y reidentificación en ficheros de microdatos
+url: /2019/08/27/mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos/
 ---
 
 Ha tenido cierta repercusión durante el verano el articulo _[Estimating the success of re-identifications in incomplete datasets using generative models](https://www.nature.com/articles/s41467-019-10933-3)_, del que se han publicado resúmenes tales como _[Bastan tres datos para identificar a cualquiera en una base anónima](https://www.technologyreview.es/s/11326/bastan-tres-datos-para-identificar-cualquiera-en-una-base-anonima)_. Cosa sobradamene conocida desde hace la tira.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-24 07:46:44+00:00
-draft: false
-title: Finalmente, se ha inaugurado Martina Cocina
-
-url: /2014/03/24/finalmente-se-ha-inaugurado-martina-cocina/
 categories:
 - anuncio
+date: 2014-03-24 07:46:44+00:00
+draft: false
+lastmod: '2025-04-06T18:54:54.614221'
+related:
+- 2014-07-23-si-participase-en-maddata.md
+- 2015-03-10-licencias-urbanisticas-datos-y-votos.md
+- 2014-05-05-el-primer-databeers-de-madrid-el-martes-en-martinacocina.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md
 tags:
 - arieli
 - optimización
 - turnos
+title: Finalmente, se ha inaugurado Martina Cocina
+url: /2014/03/24/finalmente-se-ha-inaugurado-martina-cocina/
 ---
 
 Esta entrada tiene un notable contenido publicitario: el pasado viernes se inauguró [Martina Cocina](http://martinacocina.es/) (nota: la página es provisional), una cafetería-restaurante en el que ostento una participación del 50%.

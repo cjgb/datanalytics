@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-18 08:13:03+00:00
-draft: false
-title: Frecuencias naturales (y consumo de cerveza)
-
-url: /2015/05/18/frecuencias-naturales-y-consumo-de-cerveza/
 categories:
 - estadística
 - números
+date: 2015-05-18 08:13:03+00:00
+draft: false
+lastmod: '2025-04-06T18:49:18.987283'
+related:
+- 2016-12-19-problemas-navidenos-decon-r.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2011-11-03-2872.md
+- 2012-04-02-c2bfcreer-o-no-creer.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 tags:
 - anumerismo
 - frecuencias naturales
 - periodismo de datos
+title: Frecuencias naturales (y consumo de cerveza)
+url: /2015/05/18/frecuencias-naturales-y-consumo-de-cerveza/
 ---
 
 Las _frecuencias naturales_ se utilizan como alternativa a los porcentajes para expresar probabilidades en lugar de, por ejemplo, porcentajes.

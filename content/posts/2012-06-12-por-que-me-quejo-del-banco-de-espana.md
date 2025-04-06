@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-12 06:37:25+00:00
-draft: false
-title: ¿Por qué me quejo del Banco de España?
-
-url: /2012/06/12/por-que-me-quejo-del-banco-de-espana/
 categories:
 - finanzas
 - números
+date: 2012-06-12 06:37:25+00:00
+draft: false
+lastmod: '2025-04-06T19:03:34.614436'
+related:
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
+- 2012-08-29-estaria-el-bce-a-ciegas.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
 tags:
 - finanzas
 - números
 - bde
+title: ¿Por qué me quejo del Banco de España?
+url: /2012/06/12/por-que-me-quejo-del-banco-de-espana/
 ---
 
 Siempre que puedo, aprovecho para hablar bien del Banco de España. Trabajé en él seis meses, precisamente en algo que se llamaba algo así como el sistema informacional de la central de riesgos (bancarios). A quien no tiene prisa me gusta contarle lo que ahí hice con SAS y Oracle, uno de esos pocos trabajos que me han dejado completar a mi gusto.

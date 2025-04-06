@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-21 09:13:00+00:00
-draft: false
-title: En defensa de iris
-
-url: /2020/09/21/en-defensa-de-iris/
 categories:
 - r
+date: 2020-09-21 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:58:02.171668'
+related:
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md
 tags:
 - iris
 - r
 - estadística
 - gráficos
+title: En defensa de iris
+url: /2020/09/21/en-defensa-de-iris/
 ---
 
 El archiconocido conjunto de datos `iris` es víctima reciente de un ataque relacionado con su pecado original: haber tenido unos padres estigmatizados hoy por su otrora popular idea de que gracias a la ciencia podríamos construir un futuro mejor.

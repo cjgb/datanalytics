@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-30 07:13:24+00:00
-draft: false
-title: Incrementalidad via particionamiento recursivo basado en modelos
-
-url: /2014/07/30/incrementalidad-via-particionamiento-recursivo-basado-en-modelos/
 categories:
 - ciencia de datos
 - estadística
+date: 2014-07-30 07:13:24+00:00
+draft: false
+lastmod: '2025-04-06T19:01:38.432394'
+related:
+- 2014-09-12-bajo-el-capo-del-particionamiento-recursivo-basado-en-modelos.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
 tags:
 - árboles de decisión
 - incrementalidad
 - mob
 - party
 - r
+title: Incrementalidad via particionamiento recursivo basado en modelos
+url: /2014/07/30/incrementalidad-via-particionamiento-recursivo-basado-en-modelos/
 ---
 
 Planteas un modelo tal como `resp ~ treat` y no encuentras diferencia significativa. O incluso puede ser negativa. Globalmente.
@@ -68,4 +74,3 @@ hace la magia. El resultado es
 que muestra cómo [`mob`](http://cran.r-project.org/web/packages/party/vignettes/MOB.pdf) ha detectado un efecto diferencial del tratamiento en la región de interés.
 
 Y sí, podría hablar de `mob`, pero, si os interesa saber más, acudid a lo que sobre la función escribieron sus autores. No tiene desperdicio.
-

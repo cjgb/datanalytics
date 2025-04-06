@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-01 06:48:37+00:00
-draft: false
-title: Creación de un "R portable"
-
-url: /2011/12/01/creacion-de-un-r-portable/
 categories:
 - r
+date: 2011-12-01 06:48:37+00:00
+draft: false
+lastmod: '2025-04-06T18:59:05.454133'
+related:
+- 2012-10-29-liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia.md
+- 2013-11-20-rpython-ya-en-windows.md
+- 2011-06-15-una-herramienta-para-construir-paquetes-de-r-sobre-windows.md
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
+- 2015-01-21-donde-guardar-los-paquetes-de-r-en-linux-al-menos.md
 tags:
 - r
 - anuncio
+title: Creación de un "R portable"
+url: /2011/12/01/creacion-de-un-r-portable/
 ---
 
 Se supone que R, que está disponible en una multitud de plataformas y sin coste, debería poder instalarse por doquier. Pero sucede en ocasiones que sus usuarios sólo disponen de plataformas muy cerradas, sin acceso a privilegios de administración, en organizaciones hostiles al _software_ libre, etc.
@@ -21,5 +27,3 @@ La solución para poder seguir disfrutando del poder de R en tales circunstancia
 Incluso proporcionó un [enlace a su propia versión](http://www.megaupload.com/?d=M0LOT99F), que incluye algunas herramientas adicionales, como [Red-R](http://www.red-r.org/).
 
 ¡Espero que resulte útil!
-
-

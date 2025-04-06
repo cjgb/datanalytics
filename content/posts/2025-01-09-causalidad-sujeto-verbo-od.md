@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-01-09
-title: 'Dizque "allí donde hay un objeto, un verbo y un sujeto, hay causalidad"'
-url: /2025/01/09/causalidad-sujeto-verbo-objeto
 categories:
 - causalidad
+date: 2025-01-09
+lastmod: '2025-04-06T19:00:43.649588'
+related:
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2024-09-10-causalidad.md
+- 2024-03-19_perspectivismo.md
+- 2022-04-14-causalidad-defensa-hume.md
 tags:
 - causalidad
 - subjetivismo
 - perspectivismo
+title: Dizque "allí donde hay un objeto, un verbo y un sujeto, hay causalidad"
+url: /2025/01/09/causalidad-sujeto-verbo-objeto
 ---
 
 Estaba revisando algunos artículos relacionados que tenía guardados sobre el asunto de la causalidad,

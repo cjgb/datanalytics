@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-11-22
-title: 'RSA para exmatemáticos'
-
-url: /2022/11/22/rsa-para-exmatematicos/
 categories:
 - varios
+date: 2022-11-22
+lastmod: '2025-04-06T18:46:51.513936'
+related:
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2011-12-02-grandes-avances-criptograficos-segun-el-pais.md
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
+- 2012-09-17-el-algoritmo-pslq-e-identificacion-de-numeros.md
+- 2022-11-04-umap-tsne-etc.md
 tags:
 - rsa
 - criptografía
+title: RSA para exmatemáticos
+url: /2022/11/22/rsa-para-exmatematicos/
 ---
 
 Me he escrito a mí mismo lo siguiente:

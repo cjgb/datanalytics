@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-09-05 07:20:30+00:00
-draft: false
-title: ¿Dónde deberían comenzar los ejes?
-
-url: /2013/09/05/donde-deberian-comenzar-los-ejes/
 categories:
 - gráficos
+date: 2013-09-05 07:20:30+00:00
+draft: false
+lastmod: '2025-04-06T18:44:39.074272'
+related:
+- 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2010-11-25-transforma-los-graficos-de-espana.md
+- 2022-02-22-grafico-quitarse-sombrero.md
 tags:
 - graficaca
 - gráficos
 - ejes
+title: ¿Dónde deberían comenzar los ejes?
+url: /2013/09/05/donde-deberian-comenzar-los-ejes/
 ---
 
 [Protesta eldiario.es esta imagen](http://www.eldiario.es/rastreador/paro-desaparece-solo-TVE_6_171542857.html) capturada de un informativo de TVE:

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-28 07:13:08+00:00
-draft: false
-title: La profesionalización de R
-
-url: /2015/01/28/la-profesionalizacion-de-r/
 categories:
 - r
+date: 2015-01-28 07:13:08+00:00
+draft: false
+lastmod: '2025-04-06T18:53:10.729020'
+related:
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md
+- 2022-09-20-tools-etl-memory.md
+- 2015-07-03-r-consortium.md
 tags:
 - r
 - consultoría
+title: La profesionalización de R
+url: /2015/01/28/la-profesionalizacion-de-r/
 ---
 
 Tenía en mente escribir estas líneas desde hace un tiempo. La reciente noticia de la [adquisición de Revolution Analytics por parte de Microsoft](http://blog.revolutionanalytics.com/2015/01/revolution-acquired.html) la ha adelantado, como mucho, unos pocos días.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-13 07:23:19+00:00
-draft: false
-title: Mi solución al otro problema del cumpleaños
-
-url: /2014/02/13/mi-solucion-al-otro-problema-del-cumpleanos/
 categories:
 - probabilidad
 - r
+date: 2014-02-13 07:23:19+00:00
+draft: false
+lastmod: '2025-04-06T19:05:39.945803'
+related:
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2017-02-06-1e-por-doquier.md
+- 2012-01-12-cosa-prodigiosa-sin-palabras-i.md
+- 2015-08-10-estar-en-racha-y-promediar-promedios.md
+- 2014-10-10-bootstrap-bayesiano.md
 tags:
 - cumpleaños
 - r
+title: Mi solución al otro problema del cumpleaños
+url: /2014/02/13/mi-solucion-al-otro-problema-del-cumpleanos/
 ---
 
 Pues eso, que me piqué —y parte de la culpa la tiene [este sujeto](http://eliasron.com/)— con [el otro problema del cumpleaños](http://www.datanalytics.com/2014/02/05/el-otro-problema-del-cumpleanos/) y he aquí el código —exacto salvo redondeos, no mediante simulaciones— que he usado para _resolverlo_:

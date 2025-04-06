@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-13 09:13:00+00:00
-draft: false
-title: Formalismos y modelos
-
-url: /2021/04/13/formalismos-y-modelos/
 categories:
 - varios
+date: 2021-04-13 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:38.394803'
+related:
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2024-10-17-interpretacion-modelos.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
 - economía
 - física
 - lógica
 - filosofía de la ciencia
+title: Formalismos y modelos
+url: /2021/04/13/formalismos-y-modelos/
 ---
 
 Una de las cosas más provechosas que hice durante el encierro consecuencia de la consabida pandemia fue repasar con detenimiento la lógica matemática. En particular, leyendo meticulosamente de tapa a tapa  la _Introduction to Mathematical Logic_ de Walicki.

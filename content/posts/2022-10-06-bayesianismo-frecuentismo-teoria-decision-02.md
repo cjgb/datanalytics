@@ -1,16 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-10-06
-title: 'Bayesianismo y frecuentismo bajo la óptica de la teoría de la decisión, II'
-
-url: /2022/10/06/bayesianismo-frecuentismo-teoria-decision-02/
-
 categories:
 - estadística
+date: 2022-10-06
+lastmod: '2025-04-06T19:01:04.044377'
+related:
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - teoría de la decisión
 - frecuentismo
 - bayesianismo
+title: Bayesianismo y frecuentismo bajo la óptica de la teoría de la decisión, II
+url: /2022/10/06/bayesianismo-frecuentismo-teoria-decision-02/
 ---
 
 _[Esta es la segunda de una serie de tres o cuatro entradas sobre el tema que se anuncia en el título.]_
@@ -33,4 +38,3 @@ $$L(\hat{\theta}) = \int_\theta \int_X L(\theta, \hat{\theta}) p(X | \theta) p(\
 cuyo mínimo he visto llamar en alguna ocasión _error de Bayes_ (aunque en su interpretación más habitual es otra cosa; y aunque en algunos casos, como los que veremos, ambas definiciones coinciden).
 
 La peculiar manera en la que se resuelvan el anterior problema de minimización da lugar a las dos grandes perspectivas dentro de la estadística (y explica, además, por qué en cierto sentido solo puede haber dos; aunque también cómo y por qué pueden surgir perspectivas híbridas, tipo Bayes objetivo, los modelos de _efectos aleatorios_, etc.), la frecuentista y la bayesiana.
-

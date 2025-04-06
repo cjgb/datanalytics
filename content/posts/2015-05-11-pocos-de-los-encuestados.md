@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-11 08:13:39+00:00
-draft: false
-title: Pocos de los encuestados...
-
-url: /2015/05/11/pocos-de-los-encuestados/
 categories:
 - estadística
+date: 2015-05-11 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:54:27.761907'
+related:
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2011-11-03-2872.md
+- 2023-04-24-estadistica-creativa.md
+- 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 tags:
 - aragonés
 - encuestas
 - estadística
+title: Pocos de los encuestados...
+url: /2015/05/11/pocos-de-los-encuestados/
 ---
 
 Como aragonés, a veces me interesa el estado de ese idioma que algunos quieren convencerme de que me es propio. En la Wikipedia hay un mapa que indica la [presunta distribución de las distintas lenguas en Aragón](http://es.wikipedia.org/wiki/Idioma_aragon%C3%A9s) y tienen marcado de rojo zonas que no conozco mal y en las que jamás he oído hablar en tal cosa.

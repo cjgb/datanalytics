@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-20 09:13:00+00:00
-draft: false
-title: Más sobre ese corolario del teorema de Rolle que es la curva de Laffer
-
-url: /2021/04/20/mas-sobre-ese-corolario-del-teorema-de-rolle-que-es-la-curva-de-laffer/
 categories:
 - varios
+date: 2021-04-20 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:49.929477'
+related:
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2011-02-25-1605.md
+- 2024-11-14-simpson-productividad.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2024-01-16-causalidad-conocimiento.md
 tags:
 - economía
 - laffer
 - rolle
 - impuestos
+title: Más sobre ese corolario del teorema de Rolle que es la curva de Laffer
+url: /2021/04/20/mas-sobre-ese-corolario-del-teorema-de-rolle-que-es-la-curva-de-laffer/
 ---
 
 Es fácil nunca dar con algo que no quieres encontrar: basta con buscarlo donde sabes que no está.

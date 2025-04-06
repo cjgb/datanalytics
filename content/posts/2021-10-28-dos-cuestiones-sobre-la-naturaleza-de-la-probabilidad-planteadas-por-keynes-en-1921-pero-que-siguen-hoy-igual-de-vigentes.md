@@ -1,21 +1,27 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-10-28 00:36:19+00:00
-draft: false
-title: Dos cuestiones sobre la naturaleza de la probabilidad planteadas por Keynes
-  en 1921 pero que siguen hoy igual de vigentes
-
-url: /2021/10/28/dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes/
 categories:
 - estadística
 - libros
 - probabilidad
+date: 2021-10-28 00:36:19+00:00
+draft: false
+lastmod: '2025-04-06T18:53:10.058499'
+related:
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2011-03-11-riesgo-e-incertidumbre.md
 tags:
 - estadística
 - keynes
 - libros
 - probabilidad
 - fundamentos de la probabilidad
+title: Dos cuestiones sobre la naturaleza de la probabilidad planteadas por Keynes
+  en 1921 pero que siguen hoy igual de vigentes
+url: /2021/10/28/dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes/
 ---
 
 **I.**

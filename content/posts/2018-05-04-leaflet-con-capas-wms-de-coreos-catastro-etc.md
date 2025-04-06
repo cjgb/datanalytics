@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-04 08:13:55+00:00
-draft: false
-title: Leaflet con capas WMS de Correos, Catastro, etc.
-
-url: /2018/05/04/leaflet-con-capas-wms-de-coreos-catastro-etc/
 categories:
 - r
+date: 2018-05-04 08:13:55+00:00
+draft: false
+lastmod: '2025-04-06T19:04:18.254405'
+related:
+- 2020-10-13-ign-r-leaflet.md
+- 2019-07-15-cartogramas-con-recmap.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2018-02-19-podeis-probarme-le-catastro-porfa.md
+- 2016-04-15-ahora-cartociudad-encuentra-informacion-administrativa-relativa-a-un-punto.md
 tags:
 - catastro
 - correos
@@ -14,6 +18,8 @@ tags:
 - leaflet
 - mapas
 - r
+title: Leaflet con capas WMS de Correos, Catastro, etc.
+url: /2018/05/04/leaflet-con-capas-wms-de-coreos-catastro-etc/
 ---
 
 Esta entrada es un subproducto del trabajo que pocería que he realizado estos días en [`caRtociudad`](https://github.com/rOpenSpain/caRtociudad).

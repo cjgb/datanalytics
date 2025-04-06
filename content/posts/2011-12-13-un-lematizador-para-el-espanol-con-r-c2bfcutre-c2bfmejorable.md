@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-13 07:23:56+00:00
-draft: false
-title: Un lematizador para el español con R... ¿cutre? ¿mejorable?
-
-url: /2011/12/13/un-lematizador-para-el-espanol-con-r-cutre-mejorable/
 categories:
 - nlp
 - r
+date: 2011-12-13 07:23:56+00:00
+draft: false
+lastmod: '2025-04-06T18:45:29.027235'
+related:
+- 2012-01-05-un-lematizador-para-el-espanol-con-r-ii.md
+- 2017-02-20-probando-hunspell-para-el-procesamiento-de-texto-en-espanol.md
+- 2013-05-13-charla-un-lematizador-probabilistico-con-r.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
 tags:
 - lematizador
 - nlp
 - r
+title: Un lematizador para el español con R... ¿cutre? ¿mejorable?
+url: /2011/12/13/un-lematizador-para-el-espanol-con-r-cutre-mejorable/
 ---
 
 Uno de los pasos previos para realizar lo que se viene llamando _minería de texto_ es [lematizar](http://es.wikipedia.org/wiki/Lematizaci%C3%B3n) el texto. Desafortunadamente, no existen buenos lematizadores en español. Al menos, buenos lematizadores libres.
@@ -62,7 +68,3 @@ Con él, desde R,
 No es rapidísimo, debería mejorar el tratamiento de la [codificación](http://www.datanalytics.com/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/) y muchas cosas más.
 
 ¿Se anima a mejorarlo alguno de mis lectores?
-
-
-
-

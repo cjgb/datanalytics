@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-11-19
-title: 'LLMs: algunas herramientas (potencialmente) útiles'
-url: /2024/11/19/cortos-llms
 categories:
 - cortos
+date: 2024-11-19
+lastmod: '2025-04-06T19:02:24.462271'
+related:
+- 2025-03-25-cortos-llms.md
+- 2024-07-18-cortos-llms.md
+- 2024-04-19-cortos.md
+- 2024-02-06-llm-obsidian.md
+- 2025-02-25-cortos-stats.md
 tags:
 - llms
 - claude
 - ocr
 - nlp
+title: 'LLMs: algunas herramientas (potencialmente) útiles'
+url: /2024/11/19/cortos-llms
 ---
 
 ### Artefactos de Claude

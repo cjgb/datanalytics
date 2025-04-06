@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-02 22:18:21+00:00
-draft: false
-title: Comportamiento inesperado... ¿sólo por mí?
-
-url: /2010/11/02/comportamiento-inesperado-solo-por-mi/
 categories:
 - r
+date: 2010-11-02 22:18:21+00:00
+draft: false
+lastmod: '2025-04-06T18:59:37.565866'
+related:
+- 2011-02-02-1387.md
+- 2017-12-11-cuidado-con-los.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2010-03-29-puedo-cambiar-mi-codigo-retroactivamente.md
 tags:
 - r
 - programación
+title: Comportamiento inesperado... ¿sólo por mí?
+url: /2010/11/02/comportamiento-inesperado-solo-por-mi/
 ---
 
 El otro día, bajo el encabezamiento _Unexpected behabiour of min, tapply and POSIXct/POSIXlt classes?_, mandé a la lista de desarrolladores de R el siguiente pedazo de código:
@@ -63,4 +69,3 @@ Invito a mis lectores a lo siguiente:
 3. A releer el título del mensaje que envié a la lista de desarrolladores (por referencia, _Unexpected behabiour of min, tapply and POSIXct/POSIXlt classes?_)
 4. A leer [lo que me contestó un tal Joris](http://comments.gmane.org/gmane.comp.lang.r.devel/25864)
 5. A explicarme qué tiene que ver unas cosas con otras (porque yo no entiendo nada de nada de nada)
-

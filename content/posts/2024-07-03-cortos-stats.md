@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-03
-title: '"El problema de la academia" y cuatro asuntos más'
-url: /2024/07/03/cortos-estadística
 categories:
 - cortos
+date: 2024-07-03
+lastmod: '2025-04-06T19:00:48.111696'
+related:
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2018-12-20-p-valores-y-el-perro-que-no-ladro.md
+- 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
+- 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - estadística
 - economía
 - correlación
 - academia
+title: '"El problema de la academia" y cuatro asuntos más'
+url: /2024/07/03/cortos-estadística
 ---
 
 ### I.
@@ -48,5 +55,3 @@ y, sobre todo, qué sentido pueden tener. El artículo cita [algunos casos de us
 ### V.
 
 El autor de [esta entrada](https://www.r-bloggers.com/2024/03/very-simple-rejection-monte-carlo/) se mofa criticando esta [ridícula reinvención de la rueda](https://arxiv.org/pdf/2402.17096). Curiosamente, el primer enlace lo es a un agregador de entradas. Y la original ha sido borrada. ¡A saber qué habrá pasado! (Recuérdese el punto **I.**: ¡perro no come perro!)
-
-

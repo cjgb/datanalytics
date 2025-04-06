@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-10-18
-title: 'Nuevo vídeo en YouTube: "¿Por qué nos volvemos bayesianos con la edad?"'
-
-url: /2022/10/18/nuevo-video-en-youtube-bayesianos-edad/
 categories:
 - youtube
+date: 2022-10-18
+lastmod: '2025-04-06T18:57:31.741600'
+related:
+- 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md
+- 2017-02-21-videos-sobre-estadistica-pero-que-conste-esto-no-es-una-recomendacion.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
+- 2022-12-13-nuevo-video-en-youtube-sobre-chatgpt.md
+- 2021-06-20-nuevo-video-en-youtube-esta-vez-sobre-la-falacia-ecologica.md
 tags:
 - estadística
 - estadística bayesiana
+title: 'Nuevo vídeo en YouTube: "¿Por qué nos volvemos bayesianos con la edad?"'
+url: /2022/10/18/nuevo-video-en-youtube-bayesianos-edad/
 ---
 
 El vídeo que anuncio hoy,

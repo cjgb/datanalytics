@@ -1,14 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-10
-title: 'Si yo fuera rey, ¿cómo serían las encuestas electorales?'
-description: 'Cómo replantear las encuestas electorales para que den respuesta a las preguntas que realmente importan'
-url: /2022/05/10/encuestas-electorales-cualitativas/
 categories:
 - estadística
+date: 2022-05-10
+description: Cómo replantear las encuestas electorales para que den respuesta a las
+  preguntas que realmente importan
+lastmod: '2025-04-06T19:08:27.161109'
+related:
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
 tags:
 - estadística
 - encuestas electorales
+title: Si yo fuera rey, ¿cómo serían las encuestas electorales?
+url: /2022/05/10/encuestas-electorales-cualitativas/
 ---
 
 El otro día ---más bien, aquel día en el que tomé las notas que uso en esta entrada--- hubo elecciones regionales en Castilla y León. Durante las semanas anteriores se publicaron los resultados de una serie de encuestas electorales al uso, similares a estos:

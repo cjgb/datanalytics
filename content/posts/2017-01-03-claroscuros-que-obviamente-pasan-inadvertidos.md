@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-03 08:13:20+00:00
-draft: false
-title: Claroscuros que, obviamente, pasan inadvertidos
-
-url: /2017/01/03/claroscuros-que-obviamente-pasan-inadvertidos/
 categories:
 - mala ciencia
+date: 2017-01-03 08:13:20+00:00
+draft: false
+lastmod: '2025-04-06T19:02:29.529766'
+related:
+- 2018-09-11-la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha.md
+- 2017-09-15-dos-argumentos-racionales-en-pro-de-la-homeopatia.md
+- 2014-02-07-no-sin-evidencia.md
+- 2018-01-24-la-dieta-de-hambre-en-dias-alternos-en-la-alimentacion-de-los-viejos.md
+- 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md
 tags:
 - ciencia
 - mala ciencia
 - eco
+title: Claroscuros que, obviamente, pasan inadvertidos
+url: /2017/01/03/claroscuros-que-obviamente-pasan-inadvertidos/
 ---
 
 Entre tanto óbito farandulero en las postrimerías del año que se fue (¿dónde quedó el pobre de [Eco](https://es.wikipedia.org/wiki/Umberto_Eco)?) ha pasado medio desapercibido otro sustancialmente más interesante: el del doctor Henry Heimlich.

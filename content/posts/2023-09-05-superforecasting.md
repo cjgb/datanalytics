@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-09-05
-title: '[Super]forecasting'
-
-url: /2023/09/05/superforecasting/
 categories:
 - probabilidad
+date: 2023-09-05
+lastmod: '2025-04-06T18:48:36.808519'
+related:
+- 2021-12-09-mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2020-03-25-cuantificacion-y-riesgo.md
 tags:
 - predicciones
 - libros
 - guerra nuclear
+title: '[Super]forecasting'
+url: /2023/09/05/superforecasting/
 ---
 
 ### I.

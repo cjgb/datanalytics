@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-07 08:28:42+00:00
-draft: false
-title: ¿No sin evidencia?
-
-url: /2014/02/07/no-sin-evidencia/
 categories:
 - estadística
+date: 2014-02-07 08:28:42+00:00
+draft: false
+lastmod: '2025-04-06T19:04:54.075075'
+related:
+- 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2012-08-23-ajustar-o-no-ajustar-esta-es-la-cuestion.md
+- 2013-09-09-la-paradoja-de-lord.md
 tags:
 - bioestadística
 - doble ciego
@@ -14,6 +18,8 @@ tags:
 - estadística
 - homeopatía
 - paracaídas
+title: ¿No sin evidencia?
+url: /2014/02/07/no-sin-evidencia/
 ---
 
 Un cascarrabias escribió el otro día el siguiente alegato en contra de la homeopatía: [_Contra la estupidez… y la estafa_](http://www.fedeablogs.net/economia/?p=34893). Menciona incluso a gentes aún más cascarrabias que han propuesto el manifiesto [_No sin evidencia_](http://nosinevidencia.wordpress.com/manifiesto/).

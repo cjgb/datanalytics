@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-07-11
-title: 'Números aleatorios, estado interno y su relación con el paralelismo'
-
-url: /2023/07/11/numeros-aleatorios-paralelismo/
 categories:
 - programación
+date: 2023-07-11
+lastmod: '2025-04-06T19:05:37.636494'
+related:
+- 2010-09-01-el-paquete-multicore-de-r.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2021-09-21-aun-mas-sobre-propagacion-de-errores-y-rv.md
 tags:
 - números aleatorios
 - jax
 - r
 - paralelismo
+title: Números aleatorios, estado interno y su relación con el paralelismo
+url: /2023/07/11/numeros-aleatorios-paralelismo/
 ---
 
 ## I.

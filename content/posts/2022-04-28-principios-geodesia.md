@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-28
-title: 'Principios de geodesia'
-description: 'Principios de geodesia'
-url: /2022/04/28/principios-geodesia/
 categories:
 - varios
+date: 2022-04-28
+description: Principios de geodesia
+lastmod: '2025-04-06T19:02:57.371411'
+related:
+- 2022-05-03-wgs84-etrs89-ed50-mad1870.md
+- 2023-12-07-mapas-basta-una-linea.md
+- 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
+- 2017-03-02-todas-las-terrazas-de-madrid.md
+- 2022-11-04-umap-tsne-etc.md
 tags:
 - geodesia
+title: Principios de geodesia
+url: /2022/04/28/principios-geodesia/
 ---
 
 [Estas son notas que tenía guardadas para mí en mi Obsidian particular pero que he decidido hacer públicas con una edición mínima por si a alguien les pueden resultar útiles. Seguro que les chirriarán a los muy expertos en el tema. Pero la culpa es suya por no expresarse con claridad y obligarnos a los diletantes a tratar de hacerlo.]

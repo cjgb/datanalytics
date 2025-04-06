@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-25 07:53:33+00:00
-draft: false
-title: Ubi ratio, ibi paradoxa (Simpsorum)
-
-url: /2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/
 categories:
 - estadística
 - finanzas
 - números
+date: 2011-08-25 07:53:33+00:00
+draft: false
+lastmod: '2025-04-06T18:48:05.642586'
+related:
+- 2024-11-14-simpson-productividad.md
+- 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md
+- 2021-01-28-simpson-sobre-la-desigualdad.md
+- 2013-08-13-suben-o-bajan.md
+- 2011-02-25-1605.md
 tags:
 - españa
 - estadística
@@ -16,6 +20,8 @@ tags:
 - paradojas
 - paradoja de simpson
 - productividad
+title: Ubi ratio, ibi paradoxa (Simpsorum)
+url: /2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/
 ---
 
 Efectivamente, ahí donde hay ratios, aparece con frecuencia la llamada [paradoja de Simpson](http://es.wikipedia.org/wiki/Paradoja_de_Simpson) (a propósito, en enlace anterior a la Wikipedia es un despropósito: a ver si alguno de mis lectores con tiempo deja la página a la altura de lo que merece una lengua de cultura).

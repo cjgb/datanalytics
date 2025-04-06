@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-21 08:13:41+00:00
-draft: false
-title: '#NadieSinLuz'
-
-url: /2016/11/21/nadiesinluz/
 categories:
 - números
+date: 2016-11-21 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T18:55:07.123789'
+related:
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2024-10-08-cortos-stats.md
+- 2017-12-07-un-articulo-que-esta-esperando-a-ser-escrito.md
+- 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md
 tags:
 - error
 - estadística
 - números
 - pobreza
+title: '#NadieSinLuz'
+url: /2016/11/21/nadiesinluz/
 ---
 
 Está siendo _tremending topic_ en Twitter según escribo. Uno de los trinos asociados al caudal es

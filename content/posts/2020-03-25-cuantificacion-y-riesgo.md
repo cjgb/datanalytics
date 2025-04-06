@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-25 09:13:00+00:00
-draft: false
-title: Cuantificación y riesgo
-
-url: /2020/03/25/cuantificacion-y-riesgo/
 categories:
 - artículos
 - varios
+date: 2020-03-25 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:57.132260'
+related:
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2024-10-17-interpretacion-modelos.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - artículos
 - eficiencia
 - libros
 - riesgo
+title: Cuantificación y riesgo
+url: /2020/03/25/cuantificacion-y-riesgo/
 ---
 
 [_Economics After Neoliberalism_](https://bostonreview.net/forum/suresh-naidu-dani-rodrik-gabriel-zucman-economics-after-neoliberalism), es una reescritura más de un argumento bastante manido y que se ha visto tratar desde la izquierda, como en esta ocasión, como desde la derecha: el libro _[Seeing Like a State](https://www.datanalytics.com/2018/12/10/libros-y-el-indice-de-compresibilidad/)_ es una perífrasis libertaria de casi 500 páginas que viene a decir lo mismo. O, según se mire, lo contrario.

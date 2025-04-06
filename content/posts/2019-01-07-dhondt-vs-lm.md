@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-07 08:13:26+00:00
-draft: false
-title: d’Hondt vs lm
-
-url: /2019/01/07/dhondt-vs-lm/
 categories:
 - números
+date: 2019-01-07 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T19:00:05.662253'
+related:
+- 2019-03-19-si-das-la-regla-por-buena-enhorabuena-estas-usando-el-sistema-dhondt.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2012-04-04-de-dhondt-a-banzhaf.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 tags:
 - dhondt
 - elecciones
+title: d’Hondt vs lm
+url: /2019/01/07/dhondt-vs-lm/
 ---
 
 Se cuestiona Malaprensa ([aquí](http://www.malaprensa.com/2019/01/podria-vox-sacar-45-diputados-con-un.html)) si con un 12.9% de los votos podría Vox obtener 45 escaños. Precisamente porque es lo que le correspondería con una regla de tres. Pero todo el mundo sabe que entre lo uno y lo otro media la regla de d'Hondt, causa de resabidas distorsiones.

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-23 07:13:19+00:00
-draft: false
-title: La aspiradora acosadora
-
-url: /2014/10/23/la-aspiradora-acosadora/
 categories:
 - varios
+date: 2014-10-23 07:13:19+00:00
+draft: false
+lastmod: '2025-04-06T18:57:03.972853'
+related:
+- 2023-12-21-casi-todo-acos.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2019-11-27-sobre-la-burbuja-del-online-advertising.md
+- 2019-03-06-quienes-ignoran-la-estadistica-estan-condenados-a-reinventarla.md
+- 2010-03-15-los-portatiles-c2bfobjetos-falicos.md
 tags:
 - internet
+title: La aspiradora acosadora
+url: /2014/10/23/la-aspiradora-acosadora/
 ---
 
 Sufro acoso por parte de una aspiradora de mano azul. Allá donde me dirijo, me la encuentro: en el periódico, en un blog de estadística,... ¡en todas partes! Quiere que la compre. Y es inasequible al desaliento.

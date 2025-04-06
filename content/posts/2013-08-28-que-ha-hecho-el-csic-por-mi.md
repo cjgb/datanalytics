@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-28 07:28:33+00:00
-draft: false
-title: ¿Qué ha hecho el CSIC por mí?
-
-url: /2013/08/28/que-ha-hecho-el-csic-por-mi/
 categories:
 - números
+date: 2013-08-28 07:28:33+00:00
+draft: false
+lastmod: '2025-04-06T18:46:02.499070'
+related:
+- 2013-08-27-el-pomelazo-del-csic.md
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2016-01-15-vive-la-ciencia-y-su-prestigio-de-las-rentas-del-pasado.md
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
 tags:
 - números
 - csic
 - ciencia
+title: ¿Qué ha hecho el CSIC por mí?
+url: /2013/08/28/que-ha-hecho-el-csic-por-mi/
 ---
 
 Reconozco que, [al hablar del CSIC el otro día](http://www.datanalytics.com/2013/08/27/el-pomelazo-del-csic), tendí el trapo. Alguien entró a él en los comentarios y acabé escribiendo algo que vengo rumiando últimamente pero que me daba pereza poner en negro sobre blanco.

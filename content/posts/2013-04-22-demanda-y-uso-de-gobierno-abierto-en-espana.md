@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-22 07:58:41+00:00
-draft: false
-title: Demanda y uso de gobierno abierto en España
-
-url: /2013/04/22/demanda-y-uso-de-gobierno-abierto-en-espana/
 categories:
 - números
+date: 2013-04-22 07:58:41+00:00
+draft: false
+lastmod: '2025-04-06T19:01:20.668149'
+related:
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
 tags:
 - datos abiertos
 - encuestas
 - estadística pública
+title: Demanda y uso de gobierno abierto en España
+url: /2013/04/22/demanda-y-uso-de-gobierno-abierto-en-espana/
 ---
 
 Traigo a la consideración de mis lectores el [Estudio de demanda y uso de gobierno abierto en España](http://www.ontsi.red.es/ontsi/es/estudios-informes/estudio-de-la-demanda-y-uso-de-gobierno-abierto-en-espa%C3%B1-edici%C3%B3n-2013) que con fecha de primeros de este año ha realizado el Observatorio Nacional de las Telecomunicaciones y otros asuntos afines.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-06 08:13:43+00:00
-draft: false
-title: ¿Qué hay de malo en gorronear investigación básica?
-
-url: /2018/11/06/que-hay-de-malo-en-gorronear-investigacion-basica/
 categories:
 - varios
+date: 2018-11-06 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T18:57:48.550034'
+related:
+- 2011-08-17-google-motorola-moviles-patentes-e-ideas.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 tags:
 - ciencia
 - economía
 - romer
+title: ¿Qué hay de malo en gorronear investigación básica?
+url: /2018/11/06/que-hay-de-malo-en-gorronear-investigacion-basica/
 ---
 
 El artículo [_Endogenous Technological Change_](http://web.stanford.edu/~klenow/Romer_1990.pdf) de Paul Romer (nóbel de economia de este año) ofrece algunas pistas sobre la relación entre investigación (o I+D o como quiera llamarse) y desarrollo económico. En él se lee (con mi subrayado):

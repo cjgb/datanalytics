@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-09-14 09:13:00+00:00
-draft: false
-title: 'Nuevo vídeo en YouTube: un artículo y tres problemas metodológicos'
-
-url: /2021/09/14/nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos/
 categories:
 - artículos
 - estadística
 - youtube
+date: 2021-09-14 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:24.473944'
+related:
+- 2021-06-20-nuevo-video-en-youtube-esta-vez-sobre-la-falacia-ecologica.md
+- 2024-07-03-cortos-stats.md
+- 2017-02-21-videos-sobre-estadistica-pero-que-conste-esto-no-es-una-recomendacion.md
+- 2021-02-28-nuevo-video-en-youtube-sobre-mi-filosofia-de-modelizacion-de-datos.md
+- 2021-05-25-nuevo-video-en-youtube-se-pueden-estimar-probabilidades-pequenas-con-pocas-observaciones.md
 tags:
 - artículos
 - causalidad
@@ -17,6 +21,8 @@ tags:
 - metodología
 - vídeos
 - youtube
+title: 'Nuevo vídeo en YouTube: un artículo y tres problemas metodológicos'
+url: /2021/09/14/nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos/
 ---
 
 He publicado esto en Youtube:

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-22
-title: Un gráfico para quitarse el sombrero
-url: /2022/02/22/grafico-quitarse-sombrero/
 categories:
 - gráficos
+date: 2022-02-22
+lastmod: '2025-04-06T19:11:15.953690'
+related:
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2013-08-22-el-carajal-de-las-representaciones-graficas-de-redes-sociales.md
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2011-03-22-graficos-i-introduccion.md
 tags:
 - graficaca
 - tve
 - comunicación
+title: Un gráfico para quitarse el sombrero
+url: /2022/02/22/grafico-quitarse-sombrero/
 ---
 
 No existe un curso de idiomas que lleve por título algo así como _Aprenda a decir la verdad, toda la verdad y solo la verdad en búlgaro_ y donde te enseñen a construir frases justas, necesarias y adheridas a la evidencia científica y nunca lo contrario. Uno aprende búlgaro y lo usa para aquello que más le convenga. Los niños, al comenzar a hablar, usan el lenguaje tanto para decir verdades como mentiras; frecuentemente, además, para manipular todavía más eficazmente a los demás. Y nadie se escandaliza.
@@ -26,4 +33,3 @@ Pero, a pesar de que cada mimbre pasa el filtro, su conjunto está orquestados d
 ![](/wp-uploads/2022/02/asi_esta_el_percal.jpeg#center)
 
 ¡Delicioso!
-

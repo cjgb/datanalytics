@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-23 06:58:43+00:00
-draft: false
-title: Don’t be loopy! (II)
-
-url: /2011/09/23/dont-be-loopy-ii/
 categories:
 - r
+date: 2011-09-23 06:58:43+00:00
+draft: false
+lastmod: '2025-04-06T19:04:05.423104'
+related:
+- 2011-08-11-dont-be-loopy.md
+- 2011-09-30-dont-be-loopy-iii-jackknife-y-paralelismo.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - bootstrap
 - estadística
 - r
 - sas
+title: Don’t be loopy! (II)
+url: /2011/09/23/dont-be-loopy-ii/
 ---
 
 Continúo en esta la [primera de las entradas ](http://www.datanalytics.com/2011/08/11/dont-be-loopy/)que hice sobre el artículo _[Don't Be Loopy: Re-Sampling and Simulation the SAS® Way](http://www2.sas.com/proceedings/forum2007/183-2007.pdf)_.

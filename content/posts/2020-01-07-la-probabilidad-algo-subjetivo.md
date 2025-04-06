@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-01-07 09:13:00+00:00
-draft: false
-title: La probabilidad, ¿algo subjetivo?
-
-url: /2020/01/07/la-probabilidad-algo-subjetivo/
 categories:
 - estadística
 - probabilidad
+date: 2020-01-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:49.245479'
+related:
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2024-10-17-interpretacion-modelos.md
+- 2022-12-01-eventos-conjuntos.md
+- 2024-03-19_perspectivismo.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
 tags:
 - estadística
 - estadística bayesiana
 - probabilidad
 - fundamentos de probabilidad
 - subjetividad
+title: La probabilidad, ¿algo subjetivo?
+url: /2020/01/07/la-probabilidad-algo-subjetivo/
 ---
 
 Esta entrada es una contestación a

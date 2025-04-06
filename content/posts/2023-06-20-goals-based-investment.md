@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-06-20
-title: '"Goals based investment" (y su relación con la modelización probabilística)'
-
-url: /2023/06/20/goals-based-investment/
 categories:
 - probabilidad
+date: 2023-06-20
+lastmod: '2025-04-06T18:52:38.238137'
+related:
+- 2023-09-21-inversiones-renta-variable.md
+- 2023-09-14-gestion-liquidez.md
+- 2014-01-09-como-apostar-si-tienes-que.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
+- 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md
 tags:
 - inversiones
 - goals based investment
 - probabilidad
+title: '"Goals based investment" (y su relación con la modelización probabilística)'
+url: /2023/06/20/goals-based-investment/
 ---
 
 El motivo para hablar del _goals based investment_ ---GBI en lo que sigue--- aquí hoy tiene que ver, como se comprobará más abajo, con su relación con la modelización probabilística, la optimización, etc. Se trata de una aproximación a la gestión de las inversiones muy de moda en la banca privada, pero que plantea problemas matemáticos y computacionales entretenidos. Y que, desde luego, no pueden resolverse ---al menos, bien--- con Excel.

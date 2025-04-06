@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-03 08:13:35+00:00
-draft: false
-title: t y as.raster no conmutan; ¿por qué no conmutarán?
-
-url: /2018/05/03/t-y-as-raster-no-conmutan-por-que-no-conmutaran/
 categories:
 - r
+date: 2018-05-03 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T19:11:35.758654'
+related:
+- 2017-09-06-python-y-r-una-perspectiva-markoviana.md
+- 2014-05-12-grid-scala-y-arbolitos.md
+- 2011-10-14-gestion-avanzada-de-memoria-en-r-tracemem-ii.md
+- 2014-03-10-guarjolizacion-de-fotos-con-r.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
 tags:
 - r
 - raster
+title: t y as.raster no conmutan; ¿por qué no conmutarán?
+url: /2018/05/03/t-y-as-raster-no-conmutan-por-que-no-conmutaran/
 ---
 
 Creo una minimatriz, la convierto en un _raster_ y la represento:

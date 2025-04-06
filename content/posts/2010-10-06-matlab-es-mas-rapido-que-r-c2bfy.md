@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-06 21:50:44+00:00
-draft: false
-title: Matlab es más rápido que R... ¿y?
-
-url: /2010/10/06/matlab-es-mas-rapido-que-r-y/
 categories:
 - r
+date: 2010-10-06 21:50:44+00:00
+draft: false
+lastmod: '2025-04-06T19:11:22.822353'
+related:
+- 2019-10-02-blas-eficiencia-y-lme4.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
 tags:
 - matlab
 - r
+title: Matlab es más rápido que R... ¿y?
+url: /2010/10/06/matlab-es-mas-rapido-que-r-y/
 ---
 
 No sé si alguna vez en la vida he visto una copia legal de Matlab. Creo que no. Ni forzando la memoria consigo recordar haber conocido a alguien que haya pagado los [2000 euros que cuesta una licencia comercial en España](http://www.mathworks.com/store/priceListLink.do).

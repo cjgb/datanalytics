@@ -1,12 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-10-31
-title: 'Los estadísticos, hasta cierto momento, no hicieron más que interpretar de diversos modos el mundo; luego, cuando quisieron transformarlo, se encontraron con una serie de problemas que no anticiparon'
-url: /2024/10/31/efectividad-alertas
 categories:
 - estadística
+date: 2024-10-31
+lastmod: '2025-04-06T18:44:40.843340'
+related:
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md
+- 2023-03-28-se-iguales.md
+- 2022-09-29-ensembles-meteorologicos-probabilisticos-o-no.md
+- 2022-06-09-el-modelo-es-y.md
 tags:
 - predicciones
+title: Los estadísticos, hasta cierto momento, no hicieron más que interpretar de
+  diversos modos el mundo; luego, cuando quisieron transformarlo, se encontraron con
+  una serie de problemas que no anticiparon
+url: /2024/10/31/efectividad-alertas
 ---
 
 A veces los estadísticos analizan datos. Desde afuera de mundo, dan su visión sobre hechos pasados. Fin de la historia.

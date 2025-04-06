@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-18 16:40:33+00:00
-draft: false
-title: R, en el 'top 20' de Tiobe
-
-url: /2012/01/18/r-en-el-top-20-de-tiobe/
 categories:
 - r
+date: 2012-01-18 16:40:33+00:00
+draft: false
+lastmod: '2025-04-06T19:05:35.353659'
+related:
+- 2010-10-27-c2bfsiete-lenguajes-de-programacion-emergentes.md
+- 2014-05-14-y-sin-embargo-te-quiero.md
+- 2013-01-10-una-aplicacion-seo-con-r.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md
 tags:
 - r
 - tiobe
+title: R, en el 'top 20' de Tiobe
+url: /2012/01/18/r-en-el-top-20-de-tiobe/
 ---
 
 Más evidencias sobre la emergencia de R: ha entrado en el [_top 20_ de lenguajes de programación](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html) elaborado por [Tiobe](http://www.tiobe.com) por primera vez en enero de 2012:

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-04-18 19:43:28+00:00
-draft: false
-title: 'Los "mejores" paquetes de R (I): la red social de los participantes en r-help'
-
-url: /2010/04/18/los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help/
 categories:
 - estadística
 - r
+date: 2010-04-18 19:43:28+00:00
+draft: false
+lastmod: '2025-04-06T18:56:50.281245'
+related:
+- 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md
+- 2013-12-04-ayuda-de-r-en-espanol.md
+- 2016-08-31-todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r.md
+- 2013-01-10-una-aplicacion-seo-con-r.md
+- 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md
 tags:
 - estadística
 - r
 - redes sociales
+title: 'Los "mejores" paquetes de R (I): la red social de los participantes en r-help'
+url: /2010/04/18/los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help/
 ---
 
 Hace no mucho leí un [articulillo de SAS](http://support.sas.com/resources/papers/proceedings09/109-2009.pdf) sobre el impacto de ciertas marcas en determinadas [redes sociales](http://es.wikipedia.org/wiki/Red_social). Como este tema, así como sus posibles aplicaciones, siempre me ha intrigado, llevado de la curiosidad y del aburrimiento, decidí realizar un estudio análogo.

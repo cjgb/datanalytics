@@ -1,14 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-24
-title: "Log scoring = máxima verosimilitud"
-description: 'Seleccionar modelos usando el log scoring es usar el principio de la máxima verosimilitud'
-url: /2022/05/24/log-scoring-es-maxima-verosimilitud/
 categories:
 - estadística
+date: 2022-05-24
+description: Seleccionar modelos usando el log scoring es usar el principio de la
+  máxima verosimilitud
+lastmod: '2025-04-06T19:07:53.041293'
+related:
+- 2020-12-09-maxima-verosimilitud-vs-decisiones.md
+- 2022-02-17-examenes-probabilisticos.md
+- 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md
+- 2019-01-17-mejores-predictores-un-ejemplo-el-de-brier.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
 tags:
 - máxima verosimilitud
 - scorings
+title: Log scoring = máxima verosimilitud
+url: /2022/05/24/log-scoring-es-maxima-verosimilitud/
 ---
 
 Hay dos técnicas en estadística que son una sola. Pero como se usan en contextos aparentemente distintos, tienen una historia diferente, se tratan con un lenguaje particular, posiblemente en _asignaturas de distinto año_, etc. y nadie se ha molestado en tender puentes, se consideran, prácticamente inconmensurables cuando, en el fondo, son la misma cosa.

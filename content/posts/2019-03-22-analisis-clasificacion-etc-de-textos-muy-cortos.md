@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-22 08:13:37+00:00
-draft: false
-title: Análisis (clasificación, etc.) de textos muy cortos
-
-url: /2019/03/22/analisis-clasificacion-etc-de-textos-muy-cortos/
 categories:
 - nlp
 - r
+date: 2019-03-22 08:13:37+00:00
+draft: false
+lastmod: '2025-04-06T18:53:56.184031'
+related:
+- 2015-05-07-para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos.md
+- 2012-09-28-tutorial-como-analizar-datos-de-twitter-con-r.md
+- 2022-07-28-temas-nadaesgratis.md
+- 2012-09-18-rdatamining-un-paquete-para-mineria-de-datos-con-r.md
+- 2012-01-05-un-lematizador-para-el-espanol-con-r-ii.md
 tags:
 - lda
 - nlp
 - paquetes
 - r
+title: Análisis (clasificación, etc.) de textos muy cortos
+url: /2019/03/22/analisis-clasificacion-etc-de-textos-muy-cortos/
 ---
 
 Uno de mis proyectos permanentemente pospuestos es el del análisis de textos muy cortos. Se citarán Twitter y similares, aunque el € está en otros sitios, como los mensajes asociados a transferencias bancarias, reseñas o _keywords_.

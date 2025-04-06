@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-03 07:13:37+00:00
-draft: false
-title: Españoles hererodoxos (¿outliers patrios?)
-
-url: /2014/11/03/espanoles-hererodoxos-outliers-patrios/
 categories:
 - varios
+date: 2014-11-03 07:13:37+00:00
+draft: false
+lastmod: '2025-04-06T18:44:29.915449'
+related:
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 tags:
 - varios
 - patentes
 - i+d+i
+title: Españoles hererodoxos (¿outliers patrios?)
+url: /2014/11/03/espanoles-hererodoxos-outliers-patrios/
 ---
 
 Esta pretendía ser una entrada seria que guardaba en recocina desde aquella mala hora en que me pregunté [qué había hecho el CSIC por mí](http://www.datanalytics.com/2013/08/28/que-ha-hecho-el-csic-por-mi/). Pero salió bufa. A pesar de eso, acabó entroncando con dos de mis otras aficiones: las vidas y costumbres de los españoles heterodoxos y los fenómenos que suceden a muchas sigmas de las medias.

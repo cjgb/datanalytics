@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-08-08 07:13:03+00:00
-draft: false
-title: 'Procesos de Poisson no homogéneos: la historia de un fracaso'
-
-url: /2014/08/08/procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso/
 categories:
 - estadística
+date: 2014-08-08 07:13:03+00:00
+draft: false
+lastmod: '2025-04-06T19:12:42.039512'
+related:
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md
+- 2012-07-27-a-los-datos-mismos.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2019-04-05-simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados.md
 tags:
 - estadística
 - party
 - poisson
 - r
+title: 'Procesos de Poisson no homogéneos: la historia de un fracaso'
+url: /2014/08/08/procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso/
 ---
 
 Partamos el tiempo en, p.e., días y contemos una serie de eventos que suceden en ellos. Es posible que esos recuentos se distribuyan según un proceso de Poisson de parámetro $latex \lambda$, que es un valor que regula la intensidad.

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-10-01
-title: 'Cinco breves notas sobre LLMs'
-url: /2024/10/01/cortos-llms
 categories:
 - cortos
+date: 2024-10-01
+lastmod: '2025-04-06T18:53:46.764302'
+related:
+- 2024-03-21-cortos.md
+- 2025-02-04-cortos-llms.md
+- 2025-01-21-cortos-llms.md
+- 2024-07-18-cortos-llms.md
+- 2025-02-11-cortos-llms.md
 tags:
 - llms
 - regulación
 - hardware
+title: Cinco breves notas sobre LLMs
+url: /2024/10/01/cortos-llms
 ---
 
 ### I.

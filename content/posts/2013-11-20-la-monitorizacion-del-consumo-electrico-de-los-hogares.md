@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-11-20 07:15:46+00:00
-draft: false
-title: La monitorización del consumo eléctrico de los hogares
-
-url: /2013/11/20/la-monitorizacion-del-consumo-electrico-de-los-hogares/
 categories:
 - números
+date: 2013-11-20 07:15:46+00:00
+draft: false
+lastmod: '2025-04-06T19:04:31.406049'
+related:
+- 2012-03-01-como-poner-una-lavadora.md
+- 2019-09-18-mi-consumo-de-electricidad-hora-a-hora.md
+- 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
+- 2024-03-14-precio-medio-diario-electricidad.md
+- 2019-10-15-consumismo-de-fricadas-openzmeter.md
 tags:
 - electricidad
 - monitorización
+title: La monitorización del consumo eléctrico de los hogares
+url: /2013/11/20/la-monitorizacion-del-consumo-electrico-de-los-hogares/
 ---
 
 Una de mis manías más imprácticas es la de consultar el [consumo de electricidad en tiempo real de Red Eléctrica Española](https://demanda.ree.es/demanda.html) antes de poner una lavadora. Me gusta hacerlo en los valles de consumo; o cuando para hacer circular electrones por cables de cobre contribuye menos a calentar el planeta. Aunque eso resulte en ruidos a deshora.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-09 07:13:26+00:00
-draft: false
-title: Treemaps en R
-
-url: /2011/09/09/treemaps-en-r/
 categories:
 - gráficos
 - r
+date: 2011-09-09 07:13:26+00:00
+draft: false
+lastmod: '2025-04-06T19:08:51.466393'
+related:
+- 2012-10-18-algunos-graficos-de-informacion-bursatil.md
+- 2013-01-09-el-ibex-35-estilo-gapminder.md
+- 2013-02-28-addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2011-11-08-bump-charts-para-comparar-graficamente-proporciones-entre-periodos.md
 tags:
 - gráficos
 - r
 - treemaps
+title: Treemaps en R
+url: /2011/09/09/treemaps-en-r/
 ---
 
 Hay cierto interés por los _[treemaps](http://en.wikipedia.org/wiki/Treemapping)_ en general y existen paquetes como [`treemap`](http://cran.r-project.org/web/packages/treemap/) y la función `map.market` del paquete [`portfolio`](http://cran.r-project.org/web/packages/portfolio/index.html) que permiten construirlos y obtener gráficos como este

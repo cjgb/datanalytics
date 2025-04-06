@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-13 07:18:27+00:00
-draft: false
-title: Gosset, el remuestreador de la infinita paciencia
-
-url: /2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/
 categories:
 - estadística
+date: 2012-09-13 07:18:27+00:00
+draft: false
+lastmod: '2025-04-06T18:47:50.877253'
+related:
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
+- 2022-12-06-gosset-cave.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2014-11-10-remuestreos-y-tests-de-hipotesis.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
 tags:
 - bootstrap
 - estadística
 - historia
 - student
+title: Gosset, el remuestreador de la infinita paciencia
+url: /2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/
 ---
 
 He estado buscando estos días material relacionado con algo que se ha dado en llamar _estadística moderna_, que enfatiza el cálculo (asistido por ordenador) y la simulación a la hora de afrontar problemas estadísticos. La estadística _clásica_, por el contrario, tiende a hacer uso de hipótesis acerca de la distribución de los datos y a utilizar mecanismos más analíticos. La estadística moderna es _moderna_ porque los ordenadores que la hicieron posible llegaron antes que la teoría subyacente a la teoría clásica.

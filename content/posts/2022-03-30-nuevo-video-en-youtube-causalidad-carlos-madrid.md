@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-30
-title: 'Nuevo vídeo en YouTube: "Causalidad: una charla con Carlos M. Madrid Casado"'
-
-url: /2022/02/28/nuevo-video-en-youtube-causalidad-charla-carlos-madrid-casado/
 categories:
 - youtube
+date: 2022-03-30
+lastmod: '2025-04-06T18:56:10.814777'
+related:
+- 2025-01-09-causalidad-sujeto-verbo-od.md
+- 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2025-03-11-cortos-causalidad.md
+- 2022-05-05-individualismo-metodologico.md
 tags:
 - estadística
 - causalidad
 - filosofía
+title: 'Nuevo vídeo en YouTube: "Causalidad: una charla con Carlos M. Madrid Casado"'
+url: /2022/02/28/nuevo-video-en-youtube-causalidad-charla-carlos-madrid-casado/
 ---
 
 {{< youtube id="wjcrpsadOn4" >}}

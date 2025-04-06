@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-27 08:13:42+00:00
-draft: false
-title: Organicemos un referéndum para determinar qué causa las mareas
-
-url: /2016/09/27/organicemos-un-referendum-para-determinar-que-causa-las-mareas/
 categories:
 - varios
+date: 2016-09-27 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T19:07:45.058642'
+related:
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2022-11-08-que-hora-deberia-ser.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - física
 - mareas
+title: Organicemos un referéndum para determinar qué causa las mareas
+url: /2016/09/27/organicemos-un-referendum-para-determinar-que-causa-las-mareas/
 ---
 
 Hasta hace un par de días no me había tratado de formar una opinión adulta sobre las causas de las mareas. Supongo que durante la EGB leí en algún sitio que era cosa de la gravedad y la luna y ahí lo dejé estar.

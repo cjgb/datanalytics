@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-10
-title: 'Otro índice de sorpresa y algún que otro asunto más'
-url: /2024/07/10/cortos-stats
 categories:
 - cortos
+date: 2024-07-10
+lastmod: '2025-04-06T18:51:25.140448'
+related:
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2014-03-28-predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos.md
+- 2024-07-03-cortos-stats.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - filosofía de la ciencia
 - monedas
 - sorpresa
 - imputación múltiple
+title: Otro índice de sorpresa y algún que otro asunto más
+url: /2024/07/10/cortos-stats
 ---
-
 
 ### I.
 

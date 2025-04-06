@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-11-24 09:13:00+00:00
-draft: false
-title: Medias ponderadas a lo Uluru
-
-url: /2021/11/24/medias-ponderadas-a-lo-uluru/
 categories:
 - estadística
+date: 2021-11-24 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:09:56.799641'
+related:
+- 2022-05-17-como-calcula-inflacion.md
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
+- 2022-01-27-inflacion-media.md
+- 2022-10-27-los-muchos-nombres-inflacion.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
 tags:
 - economía
 - estadística robusta
 - inflación
 - media
+title: Medias ponderadas a lo Uluru
+url: /2021/11/24/medias-ponderadas-a-lo-uluru/
 ---
 
 Dicen que el brote de inflación que estamos viviendo es atípico (y [según algunos, menos preocupante](https://www.vozpopuli.com/opinion/mancha-inflacion.html)) porque no está _generalizada_ sino concentrada en un número pequeño de productos.

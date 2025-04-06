@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-10
-title: "El sesgo de supervivencia: más allá del manido avión de la IIGM"
-
-url: /2022/02/10/sesgo-supervivencia-canoas-avion-iigm/
 categories:
 - estadística
+date: 2022-02-10
+lastmod: '2025-04-06T19:06:09.681875'
+related:
+- 2014-11-03-espanoles-hererodoxos-outliers-patrios.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2024-04-30-falacia-ecologica.md
+- 2024-11-12-cortos-stats.md
+- 2024-12-10-cortos-stats.md
 tags:
 - sesgo de supervivencia
 - canoas
+title: 'El sesgo de supervivencia: más allá del manido avión de la IIGM'
+url: /2022/02/10/sesgo-supervivencia-canoas-avion-iigm/
 ---
 
 Todos tenemos una serie de neuronas en la cabeza que se chutan de dopamina cuando oyen "sesgo de supervivencia" y proyectan

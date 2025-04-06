@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-05-18 08:13:45+00:00
-draft: false
-title: Me siento mal porque han sido muy majos conmigo y ahora no sé qué hacer con
-  lo que me han mandado
-
-url: /2017/05/18/me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado/
 categories:
 - números
+date: 2017-05-18 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T18:59:51.973583'
+related:
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
+- 2015-06-29-licencias-urbanisticas-no-viables-y-fin.md
+- 2015-03-10-licencias-urbanisticas-datos-y-votos.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 tags:
 - datos abiertos
 - datos públicos
 - madrid
+title: Me siento mal porque han sido muy majos conmigo y ahora no sé qué hacer con
+  lo que me han mandado
+url: /2017/05/18/me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado/
 ---
 
 Recibo esto en mi correo electrónico:

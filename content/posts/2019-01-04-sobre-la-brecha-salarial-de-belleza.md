@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-04 08:13:48+00:00
-draft: false
-title: Sobre la brecha salarial... de belleza
-
-url: /2019/01/04/sobre-la-brecha-salarial-de-belleza/
 categories:
 - números
+date: 2019-01-04 08:13:48+00:00
+draft: false
+lastmod: '2025-04-06T19:04:19.042295'
+related:
+- 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
+- 2015-03-09-unas-preguntas-incomodas.md
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2010-10-17-sin-sexo-por-decision-judicial.md
+- 2012-07-16-el-paro-cosa-de-hombres.md
 tags:
 - brecha
 - ine
 - libros
 - salarios
+title: Sobre la brecha salarial... de belleza
+url: /2019/01/04/sobre-la-brecha-salarial-de-belleza/
 ---
 
 ¿Por qué existe un debate público sobre la brecha salarial de _género_ y no sobre la brecha salarial por cualquier otra presunta causa? La hay, p.e., por nivel de estudios. Pero, claro, uno siempre puede argumentar en términos meritocráticos. ¿Por sector económico? Ahí está menos claro y discutirlo nos llevaría muy lejos.

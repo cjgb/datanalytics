@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-28 07:13:59+00:00
-draft: false
-title: El estado y  la educación, según Gabriel Tortella
-
-url: /2013/01/28/el-estado-y-la-educacion-segun-gabriel-tortella/
 categories:
 - números
+date: 2013-01-28 07:13:59+00:00
+draft: false
+lastmod: '2025-04-06T19:02:54.226793'
+related:
+- 2023-01-26-educacion-tabarrok.md
+- 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
+- 2012-03-28-contrafactualidad-radial.md
+- 2024-01-09-regresiones_pisa.md
+- 2011-08-24-tasa-tobin-una-discusion-casi-empirica.md
 tags:
 - números
+title: El estado y  la educación, según Gabriel Tortella
+url: /2013/01/28/el-estado-y-la-educacion-segun-gabriel-tortella/
 ---
 
 Mi copia de [El desarrollo de la España contemporánea](http://dialnet.unirioja.es/servlet/libro?codigo=97563), de [Gabriel Tortella](http://es.wikipedia.org/wiki/Gabriel_Tortella), ya amarillea. Igual hace 15 años que lo compré y lo leí.

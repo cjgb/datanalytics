@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-02-15 02:10:57+00:00
-draft: false
-title: Cómo reordenar niveles de factores en R
-
-url: /2011/02/15/como-reordenar-niveles-de-factores-en-r/
 categories:
 - r
+date: 2011-02-15 02:10:57+00:00
+draft: false
+lastmod: '2025-04-06T19:11:11.395641'
+related:
+- 2012-08-01-reetiquetar-factores-en-r.md
+- 2015-03-06-cual-es-la-mejor-manera-de-ordenar-un-dataframe.md
+- 2019-08-07-mas-sobre-factores-strings-y-ordenacion.md
+- 2019-08-06-hagan-sus-apuestas-luego-corran-el-siguiente-codigo.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
 tags:
 - r
 - programación
+title: Cómo reordenar niveles de factores en R
+url: /2011/02/15/como-reordenar-niveles-de-factores-en-r/
 ---
 
 En esta entrada voy a mostrar tres maneras (que vienen a ser la misma) de ordenar los niveles de un factor en R:

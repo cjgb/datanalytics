@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-09 09:13:50+00:00
-draft: false
-title: 'Gestión del riesgo: una perífrasis con hitos aprovechables'
-
-url: /2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/
 categories:
 - estadística
+date: 2019-04-09 09:13:50+00:00
+draft: false
+lastmod: '2025-04-06T18:52:24.828983'
+related:
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2020-03-25-cuantificacion-y-riesgo.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2011-10-18-estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola.md
 tags:
 - covarianza
 - estadística
@@ -14,6 +18,8 @@ tags:
 - riesgo
 - teoría de la decisión
 - varianza
+title: 'Gestión del riesgo: una perífrasis con hitos aprovechables'
+url: /2019/04/09/gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables/
 ---
 
 Traigo a la consideración de mis lectores [_Sobre la Sostenibilidad Fiscal de España (II)_](http://nadaesgratis.es/fernandez-villaverde/sobre-la-sostenibilidad-fiscal-de-espana-ii), un artículo de hace un tiempo que es una larga perífrasis alrededor de principios cualitativos muy contrastados sobre la gestión de riesgo (bajo incertidumbre, si se me tolera el pleonasmo). La conclusión es bien sabida pero el camino recorre una serie de hitos que mucho tienen que ver con lo que suelo escribir por aquí. Arranca con una afirmación desconcertante:

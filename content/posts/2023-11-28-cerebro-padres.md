@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-28
-draft: false
-title: ¿Se encoge el cerebro de los hombres cuando tienen un su primer crío?
-
-url: /2023/11/28/encogimiento-cerebro-padres/
 categories:
 - estadística
+date: 2023-11-28
+draft: false
+lastmod: '2025-04-06T19:00:07.249170'
+related:
+- 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2023-10-03-muestreo-superricos.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md
 tags:
 - mala ciencia
 - estadística
 - causalidad
+title: ¿Se encoge el cerebro de los hombres cuando tienen un su primer crío?
+url: /2023/11/28/encogimiento-cerebro-padres/
 ---
 
 Si uno atiende

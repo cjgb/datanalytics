@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-09 07:13:03+00:00
-draft: false
-title: Factorización de enteros con grid
-
-url: /2014/09/09/factorizacion-de-enteros-con-grid/
 categories:
 - gráficos
 - r
+date: 2014-09-09 07:13:03+00:00
+draft: false
+lastmod: '2025-04-06T19:09:52.817635'
+related:
+- 2014-05-12-grid-scala-y-arbolitos.md
+- 2015-03-24-compresion-con-svd.md
+- 2015-02-11-recurrencia-recurrente.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2012-05-23-patrones-hexagonales-con-r.md
 tags:
 - gráficos
 - grid
 - r
+title: Factorización de enteros con grid
+url: /2014/09/09/factorizacion-de-enteros-con-grid/
 ---
 
 Vi [esto](http://mathlesstraveled.com/2012/10/05/factorization-diagrams/) y me dije: yo también quiero. Así que dicho y hecho:

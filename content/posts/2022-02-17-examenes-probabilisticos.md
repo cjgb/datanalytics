@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-17
-title: Exámenes probabilísticos
-url: /2022/02/17/examenes-probabilisticos/
 categories:
 - estadística
+date: 2022-02-17
+lastmod: '2025-04-06T18:49:31.093987'
+related:
+- 2019-01-23-reglas-de-scoring-impropias-un-ejemplo.md
+- 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md
+- 2023-03-02-conformal-prediction.md
+- 2022-06-21-matriz-confusion-sensibilidad-etc.md
+- 2019-12-04-p-valores-y-decisiones.md
 tags:
 - exámenes
 - scorings
 - brier
+title: Exámenes probabilísticos
+url: /2022/02/17/examenes-probabilisticos/
 ---
 
 **I.**

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-18 08:41:17+00:00
-draft: false
-title: El yuyuplot en perspectiva
-
-url: /2014/02/18/el-yuyuplot-en-perspectiva/
 categories:
 - r
+date: 2014-02-18 08:41:17+00:00
+draft: false
+lastmod: '2025-04-06T18:45:33.698082'
+related:
+- 2012-10-18-algunos-graficos-de-informacion-bursatil.md
+- 2013-01-09-el-ibex-35-estilo-gapminder.md
+- 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2010-10-29-c2a1que-mala-suerte-tengo-con-las-anomalias.md
+- 2011-12-27-el-lucero-del-alba.md
 tags:
 - bolsa
 - finanzas
 - mercados financieros
 - r
+title: El yuyuplot en perspectiva
+url: /2014/02/18/el-yuyuplot-en-perspectiva/
 ---
 
 El _yuyuplot_ al que me refiero es
@@ -75,4 +81,3 @@ para obtener
 ](/wp-uploads/2014/02/seis_meses_despues.png#center)
 
 Como puede apreciarse y si la historia es tan maestra como cuentan, es más probable que en seis meses la se encuentre por encima que por debajo de las actuales cotizaciones.
-

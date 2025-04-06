@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-09 08:13:32+00:00
-draft: false
-title: Secciones censales en la Wikipedia
-
-url: /2018/02/09/secciones-censales-en-la-wikipedia/
 categories:
 - anuncio
 - estadística
+date: 2018-02-09 08:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:53:32.520471'
+related:
+- 2018-03-19-lecciones-estadisticas-que-pueden-extraerse-de-los-disturbios-de-lavapies.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
+- 2015-11-12-encuestas-censos-elecciones.md
+- 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 tags:
 - estadística
 - estadística pública
 - ine
 - sección censal
+title: Secciones censales en la Wikipedia
+url: /2018/02/09/secciones-censales-en-la-wikipedia/
 ---
 
 Era una vergüenza que tantos de nosotros estemos dándole vueltas periódicamente al concepto de sección censal y este no tenga una mala entrada en la Wikipedia.

@@ -1,14 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-12
-title: 'Bajo hipótesis razonables, hacen falta 16 veces más observaciones para estimar una interacción que para estimar un efecto principal'
-url: /2024/12/12/estimacion-interacciones
 categories:
 - estadística
+date: 2024-12-12
+lastmod: '2025-04-06T18:57:16.612108'
+related:
+- 2017-07-13-gelmaneando.md
+- 2020-07-14-sobre-el-efecto-medio.md
+- 2023-09-28-potencia-tests.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
 tags:
 - estadística
 - interacciones
 - potencia
+title: Bajo hipótesis razonables, hacen falta 16 veces más observaciones para estimar
+  una interacción que para estimar un efecto principal
+url: /2024/12/12/estimacion-interacciones
 ---
 
 Uno de los grandes temas de estas páginas es que el efecto principal de un tratamiento es un indicador demasiado burdo. Casi siempre queremos ver ese efecto propiamente desglosado: a unos sujetos les afecta más, a otro menos.

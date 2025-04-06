@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-29 11:21:46+00:00
-draft: false
-title: 'La lista de la vergüenza: los municipios con registros civiles no informatizados'
-
-url: /2020/04/29/la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados/
 categories:
 - números
+date: 2020-04-29 11:21:46+00:00
+draft: false
+lastmod: '2025-04-06T18:45:05.006369'
+related:
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2020-04-21-defunciones-ine-vs-momo.md
+- 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
+- 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md
+- 2015-05-20-banzhaf-y-las-elecciones-que-se-nos-vienen.md
 tags:
 - datos abiertos
 - datos públicos
 - registro civil
+title: 'La lista de la vergüenza: los municipios con registros civiles no informatizados'
+url: /2020/04/29/la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados/
 ---
 
 _[Nota: la lista pudiera contener errores. Se ha extraído de un sistema de la informatización o no de los registros civiles está deducida indirectamente.]_
@@ -127,6 +133,3 @@ La lista de la vergüenza de los municipios cuyos registros civiles no están in
 | Zaragoza| Puebla de Alfindén, La| 6028 |
 
 El resto de la tabla, de 4200 filas en total, puede descargarse de [aquí](/uploads/municipios_no_informatizados.zip).
-
-
-

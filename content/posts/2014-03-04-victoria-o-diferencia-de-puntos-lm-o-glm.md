@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-04 07:08:18+00:00
-draft: false
-title: ¿Victoria o diferencia de puntos? ¿lm o glm?
-
-url: /2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/
 categories:
 - estadística
 - r
+date: 2014-03-04 07:08:18+00:00
+draft: false
+lastmod: '2025-04-06T18:48:58.300456'
+related:
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2015-07-15-un-modelo-jerarquico-para-lo-de-casillas.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
 tags:
 - baloncesto
 - estadística
@@ -17,6 +21,8 @@ tags:
 - modelo lineal
 - r
 - regresión logística
+title: ¿Victoria o diferencia de puntos? ¿lm o glm?
+url: /2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/
 ---
 
 Supongamos que queremos construir un modelo para predecir quién ganará un determinado partido de baloncesto basándonos en datos diversos. Y en un histórico, por supuesto.

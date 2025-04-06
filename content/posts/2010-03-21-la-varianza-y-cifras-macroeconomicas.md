@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-21 15:50:20+00:00
-draft: false
-title: La varianza y cifras macroeconómicas
-
-url: /2010/03/21/la-varianza-y-cifras-macroeconomicas/
 categories:
 - estadística
+date: 2010-03-21 15:50:20+00:00
+draft: false
+lastmod: '2025-04-06T18:52:02.671292'
+related:
+- 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
+- 2011-02-25-1605.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2014-12-09-ruido-en-las-estadisticas-oficiales.md
+- 2015-02-23-mas-sobre-el-error-de-medida.md
 tags:
 - estadística
 - números
+title: La varianza y cifras macroeconómicas
+url: /2010/03/21/la-varianza-y-cifras-macroeconomicas/
 ---
 
 De la pobre varianza sólo se acuerdan los vándalos: el [historial de su página en la Wikipedia](http://es.wikipedia.org/w/index.php?title=Varianza&action=history) refleja la incesante actividad de unos cuantos desaprensivos empeñados en sustituir su definición o propiedades por declaraciones de amor perpetuo a sus novias circunstanciales u otras lindezas.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-10 07:47:14+00:00
-draft: false
-title: De la varianza en muestras pequeñas (y el problema del hospital)
-
-url: /2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/
 categories:
 - estadística
+date: 2011-08-10 07:47:14+00:00
+draft: false
+lastmod: '2025-04-06T18:52:05.405694'
+related:
+- 2011-12-15-graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2022-09-06-problema-estadistica-frecuencias-naturales.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - estadística
 - varianza
 - muestras pequeñas
+title: De la varianza en muestras pequeñas (y el problema del hospital)
+url: /2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/
 ---
 
 En un [artículo que enlacé hace un tiempo](http://www.datanalytics.com/2011/04/27/incertidumbre-juicios-y-sesgos/) se planteó el que después recibiría el nombre del problema del hospital:

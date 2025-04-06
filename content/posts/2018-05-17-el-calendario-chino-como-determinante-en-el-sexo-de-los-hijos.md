@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-17 08:13:04+00:00
-draft: false
-title: El calendario chino como determinante en el sexo de los hijos
-
-url: /2018/05/17/el-calendario-chino-como-determinante-en-el-sexo-de-los-hijos/
 categories:
 - estadística
+date: 2018-05-17 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T19:03:05.628374'
+related:
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2022-09-06-problema-estadistica-frecuencias-naturales.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - calendario
 - chino
 - elpaís
 - estadística
 - sexo
+title: El calendario chino como determinante en el sexo de los hijos
+url: /2018/05/17/el-calendario-chino-como-determinante-en-el-sexo-de-los-hijos/
 ---
 
 No a la hora en la que escribo esto pero, probablemente y por lo que me han dicho, sí a la hora en la que se publique esto, aparecerá en [la revista Buena Vida de El País](https://elpais.com/elpais/buenavida.html) un artículo en el que se me menciona como _experto_ y que se refiere a lo que encabeza esta entrada.

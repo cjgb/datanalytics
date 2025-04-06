@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-30 08:13:38+00:00
-draft: false
-title: De nuevo, la falacia del fiscal (aplicada a fiscales que fenecen)
-
-url: /2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/
 categories:
 - probabilidad
+date: 2017-11-30 08:13:38+00:00
+draft: false
+lastmod: '2025-04-06T18:59:23.179903'
+related:
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2015-10-21-la-falacia-del-fiscal-pero-con-frecuencias-naturales.md
+- 2012-04-30-contar-c2bffacil.md
+- 2014-11-04-dislexia-probabilistica.md
+- 2022-12-29-aristoteles-probable-improbable.md
 tags:
 - falacias
 - fiscal
+title: De nuevo, la falacia del fiscal (aplicada a fiscales que fenecen)
+url: /2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/
 ---
 
 Cosas altamente improbables ocurren a diario. Es altamente improbable que no ocurran eventos altamente improbables.

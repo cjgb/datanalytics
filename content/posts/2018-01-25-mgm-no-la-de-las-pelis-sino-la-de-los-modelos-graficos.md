@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-25 08:13:12+00:00
-draft: false
-title: mgm (no la de las pelis sino la de los modelos gráficos)
-
-url: /2018/01/25/mgm-no-la-de-las-pelis-sino-la-de-los-modelos-graficos/
 categories:
 - estadística
 - r
+date: 2018-01-25 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T18:55:35.268888'
+related:
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2017-09-06-python-y-r-una-perspectiva-markoviana.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
+- 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md
 tags:
 - estadística
 - mgm
 - modelos gráficos
 - paquetes
 - r
+title: mgm (no la de las pelis sino la de los modelos gráficos)
+url: /2018/01/25/mgm-no-la-de-las-pelis-sino-la-de-los-modelos-graficos/
 ---
 
 Cayeron en mis manos unos datos que no puedo publicar, pero me atreveré a presentar algunos resultados anonimizados. Se trata de una tabla de puntuaciones numéricas (18 en total, cada una en su columna) proporcionadas por unos cuantos centenares de sujetos (filas). Era de interés un estudio cualitativo de las posibles relaciones de dependencia entre las variables.

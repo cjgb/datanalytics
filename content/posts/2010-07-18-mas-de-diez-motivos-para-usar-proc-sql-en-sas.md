@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-07-18 16:01:59+00:00
-draft: false
-title: Más de diez motivos para usar PROC SQL en SAS
-
-url: /2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/
 categories:
 - programación
+date: 2010-07-18 16:01:59+00:00
+draft: false
+lastmod: '2025-04-06T18:53:03.213861'
+related:
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
 tags:
 - sas
 - sql
 - programación
+title: Más de diez motivos para usar PROC SQL en SAS
+url: /2010/07/18/mas-de-diez-motivos-para-usar-proc-sql-en-sas/
 ---
 
 Hace no mucho escribí una [entrada](http://www.datanalytics.com/2010/07/03/¿programa-vd-en-sas-¡aprenda-a-ser-indispensable/) en este blog sobre, bromas aparte, cómo no escribir código SAS. Habría respondido _in situ_ a uno de los comentarios que hicieron mis lectores pero, abusando de mi condición de dueño del blog, lo voy a hacer desde más encumbrado púlpito: una entrada _ad hoc_. Conste que escribo para discrepar. Pero conste también que lo hago desde la más genuina cordialidad y con la esperanza de generar un debate que a todos nos enriquezca.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-31 07:13:02+00:00
-draft: false
-title: El problema de la estimación inversa
-
-url: /2014/12/31/el-problema-de-la-estimacion-inversa/
 categories:
 - estadística
+date: 2014-12-31 07:13:02+00:00
+draft: false
+lastmod: '2025-04-06T18:46:06.706670'
+related:
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2017-10-23-modelos-directos-inversos-y-en-los-que-tanto-da.md
+- 2015-07-08-un-problema-inverso-de-regresion.md
+- 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
 tags:
 - estadística
 - regresión
+title: El problema de la estimación inversa
+url: /2014/12/31/el-problema-de-la-estimacion-inversa/
 ---
 
 Supongamos que tenemos unos niños de los que sabemos las edades $latex x_i$ y las alturas $latex y_i$. Supongamos además que podemos estimar las segundas en función de las primeras con un modelo lineal clásico

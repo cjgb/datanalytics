@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-19 09:13:00+00:00
-draft: false
-title: Micromuertes y coronavirus
-
-url: /2020/05/19/micromuertes-y-coronavirus/
 categories:
 - estadística
 - números
+date: 2020-05-19 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:56.598827'
+related:
+- 2011-06-01-micromuertes.md
+- 2012-01-30-hay-microvida-mas-alla-de-la-micromuerte.md
+- 2020-05-07-coronavirus-cualitativo.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
 tags:
 - coronavirus
 - micromuertes
 - riesgo
+title: Micromuertes y coronavirus
+url: /2020/05/19/micromuertes-y-coronavirus/
 ---
 
 _[Esta entrada abunda en [la que escribí hace nueve años sobre las micromuertes](https://www.datanalytics.com/2011/06/01/micromuertes/) y sin la cual no se entiende.]_

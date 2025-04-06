@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-28 08:13:46+00:00
-draft: false
-title: ¿Cómo se escribía "verosimilitud" en francés en 1774?
-
-url: /2016/09/28/como-se-escribia-verosimilitud-en-frances-en-1774/
 categories:
 - estadística
+date: 2016-09-28 08:13:46+00:00
+draft: false
+lastmod: '2025-04-06T18:56:57.314405'
+related:
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2022-06-30-sumas-bernuillis-heterogenas.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
 tags:
 - historia
 - laplace
 - verosimilitud
 - fundamentos de probabilidad
+title: ¿Cómo se escribía "verosimilitud" en francés en 1774?
+url: /2016/09/28/como-se-escribia-verosimilitud-en-frances-en-1774/
 ---
 
 Lo cuento luego, después del (por mí traducido) contexto:

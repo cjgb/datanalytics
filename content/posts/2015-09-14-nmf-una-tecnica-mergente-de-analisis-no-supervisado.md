@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-14 08:13:50+00:00
-draft: false
-title: 'NMF: una técnica mergente de análisis no supervisado'
-
-url: /2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/
 categories:
 - ciencia de datos
 - r
+date: 2015-09-14 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T19:09:18.881520'
+related:
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2019-01-24-nmds-y-un-poquito-mas-alla.md
+- 2014-07-16-dos-descomposiciones-positivas-de-tablas-de-contingencia.md
+- 2018-10-04-embeddings-y-analisis-del-carrito-de-la-compra.md
+- 2020-07-21-analisis-de-arquetipos.md
 tags:
 - encuestas
 - ciencia de datos
@@ -15,6 +19,8 @@ tags:
 - paquetes
 - r
 - svd
+title: 'NMF: una técnica mergente de análisis no supervisado'
+url: /2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/
 ---
 
 [N]NMF (se encuentra con una o dos enes) es una técnica de análisis no supervisado emergente. Se cuenta [entre mis favoritas](http://www.datanalytics.com/tag/nmf/).

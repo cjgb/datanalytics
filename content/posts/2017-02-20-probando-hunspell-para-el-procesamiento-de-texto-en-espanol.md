@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-20 08:13:50+00:00
-draft: false
-title: Probando hunspell para el procesamiento de texto en español
-
-url: /2017/02/20/probando-hunspell-para-el-procesamiento-de-texto-en-espanol/
 categories:
 - nlp
 - r
+date: 2017-02-20 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T19:09:35.296593'
+related:
+- 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2011-09-08-codigos-de-caracteres-en-r.md
+- 2016-05-06-un-corpus-de-textos-en-espanol-para-nlp.md
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
 tags:
 - hunspell
 - nlp
 - paquetes
 - r
+title: Probando hunspell para el procesamiento de texto en español
+url: /2017/02/20/probando-hunspell-para-el-procesamiento-de-texto-en-espanol/
 ---
 
 El [paquete `hunspell` de R](https://cran.r-project.org/package=hunspell) permite procesar texto utilizando como soporte la infraestructura proporcionada por [Hunspell](http://hunspell.github.io/), el corrector ortográfico que subyace a muchas aplicaciones en R.

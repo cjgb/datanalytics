@@ -1,18 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-21
-draft: false
-title: El "teorema" sobre las sumas de lognormales no es solo falso sino que, además, es innecesario (en muchos casos)
-
-url: /2023/11/21/sobre-sumas-lognormales/
 categories:
 - probabilidad
+date: 2023-11-21
+draft: false
+lastmod: '2025-04-06T18:44:18.458793'
+related:
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2024-02-15-margenes-distribucion.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
 tags:
 - distribuciones
 - lognormal
 - probabilidad
 - estadística bayesiana
 - modelos jerárquicos
+title: El "teorema" sobre las sumas de lognormales no es solo falso sino que, además,
+  es innecesario (en muchos casos)
+url: /2023/11/21/sobre-sumas-lognormales/
 ---
 
 ## I.

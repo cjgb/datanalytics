@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-08 08:13:05+00:00
-draft: false
-title: ¿Quién demonios lee el segundo párrafo?
-
-url: /2016/09/08/quien-demonios-lee-el-segundo-parrafo/
 categories:
 - estadística
 - números
+date: 2016-09-08 08:13:05+00:00
+draft: false
+lastmod: '2025-04-06T19:08:10.074702'
+related:
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2015-12-04-os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola.md
 tags:
 - prensa
 - sesgo
 - suicidio
+title: ¿Quién demonios lee el segundo párrafo?
+url: /2016/09/08/quien-demonios-lee-el-segundo-parrafo/
 ---
 
 Me llega por Twitter lo que lleva por título [_Más suicidios y peor salud mental por la crisis en España y Grecia_](http://www.agenciasinc.es/Noticias/Mas-suicidios-y-peor-salud-mental-por-la-crisis-en-Espana-y-Grecia).

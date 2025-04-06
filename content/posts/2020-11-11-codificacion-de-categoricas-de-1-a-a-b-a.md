@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-11 09:13:00+00:00
-draft: false
-title: 'Codificación de categóricas: de (1 | A) a (B | A)'
-
-url: /2020/11/11/codificacion-de-categoricas-de-1-a-a-b-a/
 categories:
 - ciencia de datos
 - estadística
+date: 2020-11-11 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:05:22.903921'
+related:
+- 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2016-04-25-discretizacion-de-variables-continuas-con-arboles.md
+- 2014-12-29-modelos-mixtos-por-doquier.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
 tags:
 - ciencia de datos
 - codificación
 - estadística
 - modelos mixtos
 - variables categóricas
+title: 'Codificación de categóricas: de (1 | A) a (B | A)'
+url: /2020/11/11/codificacion-de-categoricas-de-1-a-a-b-a/
 ---
 
 La notación y la justificación de `(1 | A)` está [aquí](https://www.datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/), una vieja entrada que no estoy seguro de que no tenga que retocar para que no me gruña el ministerio de la verdad.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-14 08:35:49+00:00
-draft: false
-title: ¡Maño qué mapa!
-
-url: /2012/03/14/mano-que-mapa/
 categories:
 - r
+date: 2012-03-14 08:35:49+00:00
+draft: false
+lastmod: '2025-04-06T19:05:19.164590'
+related:
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2012-04-25-espana-c2bfradial-i.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2014-10-01-donde-he-estado-segun-google.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
 tags:
 - datos abiertos
 - mapas
 - r
 - tráfico
+title: ¡Maño qué mapa!
+url: /2012/03/14/mano-que-mapa/
 ---
 
 Esta mañana casi me da esa tontería de sentirme orgulloso de ser de donde soy, Zaragoza. Al fin y al cabo, podría haber sido de cualquier otro lugar. Pero es que Zaragoza tiene uno de los [portales de datos públicos municipales](http://www.zaragoza.es/ciudad/risp/presentacion.htm) más avanzados. En eso es una ciudad pionera.
@@ -104,4 +110,3 @@ Hay algunas cosas que me gustaría poder añadir, minucias, pero que estoy demas
 
 * ¿Cómo poner un título al segundo gráfico?
 * ¿Cómo difuminar la imagen de fondo para que resalten más los tramos de tráfico sobre el excesivo detalle del mapa subyacente?
-

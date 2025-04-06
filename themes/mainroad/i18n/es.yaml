@@ -53,6 +53,10 @@
 - id: recent_title
   translation: "Más Recientes"
 
+# Related Posts widget
+- id: related_posts_title
+  translation: "Entradas relacionadas"
+
 # Social widget
 - id: social_title
   translation: "Social"

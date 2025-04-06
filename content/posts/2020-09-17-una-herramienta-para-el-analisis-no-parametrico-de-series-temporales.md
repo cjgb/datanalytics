@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-17 09:13:00+00:00
-draft: false
-title: Una herramienta para el análisis no paramétrico de series temporales
-
-url: /2020/09/17/una-herramienta-para-el-analisis-no-parametrico-de-series-temporales/
 categories:
 - r
+date: 2020-09-17 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:05.119466'
+related:
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
+- 2019-11-04-analisis-y-prediccion-de-series-temporales-intermitentes.md
+- 2018-09-10-series-temporales-y-motifs.md
 tags:
 - paquetes
 - r
 - series temporales
+title: Una herramienta para el análisis no paramétrico de series temporales
+url: /2020/09/17/una-herramienta-para-el-analisis-no-parametrico-de-series-temporales/
 ---
 
 Sí, es un ejemplar de mi colección de rarezas estadísticas, técnicas que no entran dentro del currículo estándar pero que pudieran resultar útiles en algún momento, para algún caso particular.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-11 09:50:46+00:00
-draft: false
-title: 'Correlaciones insospechadas: de la geometría moderna al catalán Hernán Cortés'
-
-url: /2015/09/11/correlaciones-insospechadas-de-la-geometria-moderna-al-catalan-hernan-cortes/
 categories:
 - estadística
+date: 2015-09-11 09:50:46+00:00
+draft: false
+lastmod: '2025-04-06T19:03:07.086615'
+related:
+- 2014-11-03-espanoles-hererodoxos-outliers-patrios.md
+- 2015-11-11-ad-more-geometrico.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2017-11-22-la-viejunisima-escuela.md
+- 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md
 tags:
 - correlación
 - estadística
 - fomenko
+title: 'Correlaciones insospechadas: de la geometría moderna al catalán Hernán Cortés'
+url: /2015/09/11/correlaciones-insospechadas-de-la-geometria-moderna-al-catalan-hernan-cortes/
 ---
 
 Hace muchos, muchos años, era yo un fan de la Geometría Moderna de Dubrovin, Fomenko y Novikov.
@@ -35,4 +41,3 @@ Unos [señores desavisados](http://www.inh.cat/) sacaron de la biblioteca de su 
 llegaron a conclusiones tan disparatadas como que [Hernán Cortés era tan catalán como ellos mismos](http://www.inh.cat/articles/Hernan-Cortes:-%3Cem%3Ehidalgo%3C-em%3E-extremeny-o-descendent-de-sang-reial-catalana-).
 
 ¿Conocerá alguien uso más extravagante de la bendita correlación?
-

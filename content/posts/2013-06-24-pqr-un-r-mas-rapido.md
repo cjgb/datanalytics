@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-06-24 07:27:52+00:00
-draft: false
-title: 'pqR: un R más rápido'
-
-url: /2013/06/24/pqr-un-r-mas-rapido/
 categories:
 - estadística
 - r
+date: 2013-06-24 07:27:52+00:00
+draft: false
+lastmod: '2025-04-06T18:53:21.165552'
+related:
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
+- 2012-02-28-julia-nuevo-lenguaje-programacion-cientifica.md
+- 2014-04-11-no-hay-motivo-para-no-actualizar-tu-r-a-la-ultima-version.md
+- 2012-06-04-la-prehistoria-de-r-segun-patrick-burns.md
+- 2010-10-06-matlab-es-mas-rapido-que-r-c2bfy.md
 tags:
 - r
 - programación
+title: 'pqR: un R más rápido'
+url: /2013/06/24/pqr-un-r-mas-rapido/
 ---
 
 Hace no mucho, [Radford Neal publicó pqR](http://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/), una versión de R _más rápida_. Y algunos os preguntaréis qué es y de dónde salió esa reimplementación.

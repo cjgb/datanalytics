@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-10 09:13:12+00:00
-draft: false
-title: Hoy que me he puesto traje y corbata...
-
-url: /2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/
 categories:
 - estadística
+date: 2016-03-10 09:13:12+00:00
+draft: false
+lastmod: '2025-04-06T18:51:37.114121'
+related:
+- 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2015-09-29-la-funesta-mania-de-querer-acertar.md
+- 2015-12-04-os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
 tags:
 - gráficos
 - media
 - varianza
+title: Hoy que me he puesto traje y corbata...
+url: /2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/
 ---
 
 ... (por motivos que importan pero no debo revelar a mis lectores) aprovecho para criticar a esos tipos que, vistiendo como yo, insisten reiteradamente a sus analistas en que les proporcionen un número. Un número que tiene que ser cerrado, indiscutible, pivotal.

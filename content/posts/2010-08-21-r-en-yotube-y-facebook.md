@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-21 12:52:31+00:00
-draft: false
-title: R en Yotube y Facebook
-
-url: /2010/08/21/r-en-yotube-y-facebook/
 categories:
 - r
+date: 2010-08-21 12:52:31+00:00
+draft: false
+lastmod: '2025-04-06T19:06:08.877590'
+related:
+- 2011-01-18-navegando-por-ahi-un-otro-curso-de-estadistica-con-r.md
+- 2011-02-16-animaciones-estadisticas-con-r.md
+- 2012-06-11-hoy-ha-comenzado-el-curso-basico-de-r.md
+- 2015-03-19-un-curso-de-redes-sociales-con-r.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
 tags:
 - r
 - anuncio
+title: R en Yotube y Facebook
+url: /2010/08/21/r-en-yotube-y-facebook/
 ---
 
 Bebilda, que no sé quién es (misterio que me he propuesto resolver pronto) ha arrancado dos proyectos bastante interesantes:

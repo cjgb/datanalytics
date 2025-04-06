@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-10-21 09:13:18+00:00
-draft: false
-title: Se non è vero, non è vero (¡qué se le va a hacer!)
-
-url: /2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/
 categories:
 - números
 - r
+date: 2019-10-21 09:13:18+00:00
+draft: false
+lastmod: '2025-04-06T18:53:51.488782'
+related:
+- 2022-07-26-hueco-termico.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2017-12-04-la-magnitud-de-la-sequia.md
+- 2022-10-25-muchos-julios-hidraulica.md
 tags:
 - electricidad
 - energía
@@ -15,6 +19,8 @@ tags:
 - r
 - stationaRy
 - tenerife
+title: Se non è vero, non è vero (¡qué se le va a hacer!)
+url: /2019/10/21/si-non-e-vero-non-e-vero-que-se-le-va-a-hacer/
 ---
 
 Me llegó por fuentes habitualmente fiables el vídeo

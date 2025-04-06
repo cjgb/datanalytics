@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-22 07:18:23+00:00
-draft: false
-title: Nuevo curso (gratuito) de estadística con R
-
-url: /2012/10/22/nuevo-curso-gratuito-de-estadistica-con-r/
 categories:
 - r
+date: 2012-10-22 07:18:23+00:00
+draft: false
+lastmod: '2025-04-06T18:52:01.335483'
+related:
+- 2014-11-06-estadistica-clasica-vs-remuestreo.md
+- 2013-02-04-reeditamos-el-curso-basico-de-r.md
+- 2012-06-01-curso-de-r-gratuito-no-presencial.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 tags:
 - cursos
 - r
 - anuncio
+title: Nuevo curso (gratuito) de estadística con R
+url: /2012/10/22/nuevo-curso-gratuito-de-estadistica-con-r/
 ---
 
 Hace unos meses, [Juanjo Gibaja](http://jjgibaja.net/) y yo lanzamos el un [curso básico de R](http://www.datanalytics.com/2012/06/11/hoy-ha-comenzado-el-curso-basico-de-r/). Animados por el éxito de crítica y público, volvemos a la carga con uno nuevo. Esta vez el curso se titula _Introducción a la estadística moderna con R_. Y su presentación es:
@@ -28,4 +34,3 @@ Hace unos meses, [Juanjo Gibaja](http://jjgibaja.net/) y yo lanzamos el un [curs
 Como la vez anterior, el curso es no presencial, gratuito y, por supuesto, no se va a expedir título ni certificado alguno a la finalización. Los interesados pueden encontrar detalles sobre los contenidos y la manera de inscribirse [aquí](https://docs.google.com/document/d/164svC1XxP1cpnJeczpZIlIQ2-sAoe0z6d47fDLgtIyM/edit); también es recomendable que le echen un buen vistazo a [este otro documento](https://docs.google.com/document/d/164svC1XxP1cpnJeczpZIlIQ2-sAoe0z6d47fDLgtIyM/edit). La plataforma pedagógica está construida con [OSQA](http://www.osqa.net/) y se encuentra alojada en [cursorstats.usar.org.es](http://cursorstats.usar.org.es/).
 
 Agradeceremos que nos ayudes a publicitar el curso entre los potenciales interesados.
-

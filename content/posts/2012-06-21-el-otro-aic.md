@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-21 06:14:49+00:00
-draft: false
-title: El otro AIC
-
-url: /2012/06/21/el-otro-aic/
 categories:
 - estadística
 - números
+date: 2012-06-21 06:14:49+00:00
+draft: false
+lastmod: '2025-04-06T19:06:05.315360'
+related:
+- 2011-02-25-1605.md
+- 2023-05-04-ine-satisfaccion-vida.md
+- 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
+- 2012-05-04-numeros-rojos-y-perfectibles.md
 tags:
 - estadística
 - números
 - eurostat
 - akaike
+title: El otro AIC
+url: /2012/06/21/el-otro-aic/
 ---
 
 Para los estadísticos, las siglas AIC remiten a Akaike. A partir de ahora, tal vez menos. AIC es también el _[Actual individual consumption](http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Glossary:Actual_individual_consumption_(AIC))_, o consumo individual real, un indicador que trata de medir

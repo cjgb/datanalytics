@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-29 07:41:32+00:00
-draft: false
-title: Otra de huelgas
-
-url: /2012/03/29/otra-de-huelgas/
 categories:
 - estadística
 - números
 - r
+date: 2012-03-29 07:41:32+00:00
+draft: false
+lastmod: '2025-04-06T19:05:12.302334'
+related:
+- 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
+- 2010-09-29-huelga-el-titulo-hoy.md
+- 2022-07-26-hueco-termico.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
 tags:
 - estadística
 - números
 - r
 - huelgas
+title: Otra de huelgas
+url: /2012/03/29/otra-de-huelgas/
 ---
 
 Hoy, por motivos evidentes, e igual que en [septiembre de 2010](http://www.datanalytics.com/2010/09/29/huelga-el-titulo-hoy/), voy a hablar de huelgas. De la misma fuente que entonces he descargado [este fichero](/uploads/pcaxis-623612450.px). Y he ejecutado

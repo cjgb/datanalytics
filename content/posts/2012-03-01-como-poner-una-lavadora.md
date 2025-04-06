@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-01 08:13:55+00:00
-draft: false
-title: Cómo poner una lavadora
-
-url: /2012/03/01/como-poner-una-lavadora/
 categories:
 - números
+date: 2012-03-01 08:13:55+00:00
+draft: false
+lastmod: '2025-04-06T19:11:37.181749'
+related:
+- 2014-04-16-menos-econometria-y-mas-precioestatos.md
+- 2013-11-20-la-monitorizacion-del-consumo-electrico-de-los-hogares.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2022-07-26-hueco-termico.md
+- 2024-03-14-precio-medio-diario-electricidad.md
 tags:
 - electricidad
 - números
 - cambio climático
+title: Cómo poner una lavadora
+url: /2012/03/01/como-poner-una-lavadora/
 ---
 
 Hacer una colada no es sencillo. Al menos si se tienen en cuenta todas las variables relevantes. En realidad, yo echo la ropa a la lavadora al tuntún y no sé de separar por colores ni por tipo de tela. Va todo junto. Y siempre uso el mismo programa, cantidad de detergente y del otro líquido azul que no sé para qué sirve.

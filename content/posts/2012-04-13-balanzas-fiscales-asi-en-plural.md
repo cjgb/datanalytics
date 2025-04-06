@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-13 07:32:54+00:00
-draft: false
-title: Balanzas fiscales (así, en plural)
-
-url: /2012/04/13/balanzas-fiscales-asi-en-plural/
 categories:
 - números
+date: 2012-04-13 07:32:54+00:00
+draft: false
+lastmod: '2025-04-06T18:44:56.270970'
+related:
+- 2012-10-09-balanzas-fiscales-y-periodismo-basado-en-datos.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2011-02-25-1605.md
+- 2011-11-03-2872.md
 tags:
 - economía
 - números
@@ -14,6 +18,8 @@ tags:
 - varianza
 - anumerismo
 - reificación
+title: Balanzas fiscales (así, en plural)
+url: /2012/04/13/balanzas-fiscales-asi-en-plural/
 ---
 
 En España, lo de las balanzas fiscales es como lo de las manifestaciones: un número que se tiran a la cabeza y con muy mala baba tirios y troyanos. La cantinela que más se oye es la de la _prensa periférica_ (perdón, prensa de la parte este de la periferia: existen otras _periferias_ que callan como palabras de cuatro letras): dizque Cataluña aporta mucho más a la hacienda pública que lo que después recibe de ella por inversiones y servicios.

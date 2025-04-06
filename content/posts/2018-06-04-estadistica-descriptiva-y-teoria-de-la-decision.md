@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-06-04 08:13:12+00:00
-draft: false
-title: Estadística descriptiva y teoría de la decisión
-
-url: /2018/06/04/estadistica-descriptiva-y-teoria-de-la-decision/
 categories:
 - estadística
+date: 2018-06-04 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T18:49:54.029154'
+related:
+- 2018-05-22-existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2015-11-30-estadistica-cualitativa.md
+- 2024-10-17-interpretacion-modelos.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
 tags:
 - estadística
 - estadística descriptiva
 - teoría de la decisión
+title: Estadística descriptiva y teoría de la decisión
+url: /2018/06/04/estadistica-descriptiva-y-teoria-de-la-decision/
 ---
 
 Agradezco mucho el comentario de José Luis a mi entrada/pregunta [_¿Existiría algún caso de uso de la estadística que no sea materia prima para la toma de decisiones informadas?_](https://www.datanalytics.com/2018/05/22/existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas/). Dice:

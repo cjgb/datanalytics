@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-11-30 12:26:23+00:00
-draft: false
-title: ¿Estadística cualitativa?
-
-url: /2015/11/30/estadistica-cualitativa/
 categories:
 - estadística
+date: 2015-11-30 12:26:23+00:00
+draft: false
+lastmod: '2025-04-06T19:11:10.547440'
+related:
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2024-10-17-interpretacion-modelos.md
+- 2018-06-04-estadistica-descriptiva-y-teoria-de-la-decision.md
 tags:
 - estadística
 - estadística cualitativa
+title: ¿Estadística cualitativa?
+url: /2015/11/30/estadistica-cualitativa/
 ---
 
 La estadística cualitativa es una disciplina que, creo, no existe. Igual, simplemente, no existe porque no tiene razón de ser. No he buscado aún sistemáticamente, pero mi memoria no da con algo que se le parezca.

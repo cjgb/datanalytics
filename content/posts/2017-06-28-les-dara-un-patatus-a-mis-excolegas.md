@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-06-28 08:13:28+00:00
-draft: false
-title: ¿Les dará un patatús a mis excolegas?
-
-url: /2017/06/28/les-dara-un-patatus-a-mis-excolegas/
 categories:
 - r
+date: 2017-06-28 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T19:11:55.336011'
+related:
+- 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
+- 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
+- 2012-05-23-patrones-hexagonales-con-r.md
+- 2018-03-01-kriging-con-stan.md
+- 2024-02-08-elipses.md
 tags:
 - geometría
 - r
+title: ¿Les dará un patatús a mis excolegas?
+url: /2017/06/28/les-dara-un-patatus-a-mis-excolegas/
 ---
 
 En Gaussianos publicaron [este problema](http://gaussianos.com/segmento-desconocido-en-un-triangulo):
@@ -49,4 +55,3 @@ foo(z$x, print.answer = T)
 {{< / highlight >}}
 
 A ver qué dicen.
-

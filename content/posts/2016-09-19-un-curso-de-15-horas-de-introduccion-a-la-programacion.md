@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-19 08:13:31+00:00
-draft: false
-title: Un curso de 15 horas de introducción a la programación
-
-url: /2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/
 categories:
 - programación
 - anuncio
+date: 2016-09-19 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T18:52:48.191001'
+related:
+- 2015-04-21-programa-profesional-de-iniciacion-a-r.md
+- 2015-11-03-esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion.md
+- 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md
+- 2016-04-13-quieres-aprender-r-matriculate-en-mi-curso-en-kschool.md
+- 2016-01-28-pydata-madrid-2016-en-abril-de-este-ano.md
 tags:
 - anuncio
 - cursos
 - jupyter
 - python
 - r
+title: Un curso de 15 horas de introducción a la programación
+url: /2016/09/19/un-curso-de-15-horas-de-introduccion-a-la-programacion/
 ---
 
 Hoy comienzo a enseñar un curso de introducción a la programación para recién graduados que comenzarán un máster de matemáticas aplicadas con incursiones en la llamada ciencia de datos. Serán 4 sesiones con el siguiente contenido:

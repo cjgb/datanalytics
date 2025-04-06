@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-05 08:09:35+00:00
-draft: false
-title: Más sobre Julia
-
-url: /2012/03/05/mas-sobre-julia/
 categories:
 - programación
+date: 2012-03-05 08:09:35+00:00
+draft: false
+lastmod: '2025-04-06T19:08:11.497939'
+related:
+- 2012-02-28-julia-nuevo-lenguaje-programacion-cientifica.md
+- 2016-01-28-pydata-madrid-2016-en-abril-de-este-ano.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md
 tags:
 - programación
 - julia
+title: Más sobre Julia
+url: /2012/03/05/mas-sobre-julia/
 ---
 
 Unos días después de la primera [noticia acerca de Julia](http://www.datanalytics.com/2012/02/28/3327/) en esta bitácora me llegan, como suele ser habitual en estos casos, otras.

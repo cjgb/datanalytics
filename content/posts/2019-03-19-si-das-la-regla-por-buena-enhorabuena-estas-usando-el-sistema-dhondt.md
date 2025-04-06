@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-19 16:55:07+00:00
-draft: false
-title: Si das la regla por buena, enhorabuena, estás usando el sistema d'Hondt
-
-url: /2019/03/19/si-das-la-regla-por-buena-enhorabuena-estas-usando-el-sistema-dhondt/
 categories:
 - números
+date: 2019-03-19 16:55:07+00:00
+draft: false
+lastmod: '2025-04-06T18:50:36.918502'
+related:
+- 2019-01-07-dhondt-vs-lm.md
+- 2012-04-04-de-dhondt-a-banzhaf.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2015-12-29-empates-electorales-sorteos-y-una-inadvertida-paradoja.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
 tags:
 - dhondt
 - elecciones
+title: Si das la regla por buena, enhorabuena, estás usando el sistema d'Hondt
+url: /2019/03/19/si-das-la-regla-por-buena-enhorabuena-estas-usando-el-sistema-dhondt/
 ---
 
 En una circunscripción un partido obtiene $latex N$ votos. Si manda al congreso $latex n$ diputados, cada uno de ellos representaría a $latex N/n$ votantes.

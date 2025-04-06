@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-11 07:13:27+00:00
-draft: false
-title: ¿Un 30% de probabilidad de que llueva mañana?
-
-url: /2014/11/11/un-30-de-probabilidad-de-que-llueva-manana/
 categories:
 - probabilidad
+date: 2014-11-11 07:13:27+00:00
+draft: false
+lastmod: '2025-04-06T18:52:11.379370'
+related:
+- 2022-06-09-el-modelo-es-y.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2015-09-01-odds-probabilidades.md
+- 2017-12-04-la-magnitud-de-la-sequia.md
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
 tags:
 - anumerismo
 - percepción del riesgo
 - probabilidad
 - gigerenzer
+title: ¿Un 30% de probabilidad de que llueva mañana?
+url: /2014/11/11/un-30-de-probabilidad-de-que-llueva-manana/
 ---
 
 ¿Qué significa que [los servicios meteorológicos digan que] hay un 30% de probabilidad de que llueva mañana? Pues resulta que significa distintas cosas para distintas personas, al menos, según [_A 30% Chance of Rain Tomorrow: How Does the Public Understand Probabilistic Weather Forecasts?_](http://library.mpib-berlin.mpg.de/ft/gg/GG_30_Chance_2005.pdf)

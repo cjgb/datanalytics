@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-19 06:52:26+00:00
-draft: false
-title: El índice de riqueza integral
-
-url: /2012/06/19/el-indice-de-riqueza-inclusiva/
 categories:
 - estadística
 - números
+date: 2012-06-19 06:52:26+00:00
+draft: false
+lastmod: '2025-04-06T18:47:57.220529'
+related:
+- 2011-02-25-1605.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
+- 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
+- 2012-05-04-numeros-rojos-y-perfectibles.md
 tags:
 - estadística
 - números
 - indicadores
+title: El índice de riqueza integral
+url: /2012/06/19/el-indice-de-riqueza-inclusiva/
 ---
 
 Alguna vez hemos criticado aquí el PIB como indicador del progreso de una economía, además de algunos aspectos metodológicos de su cálculo y la manera en que, por decirlo de alguna manera, se presenta en sociedad.

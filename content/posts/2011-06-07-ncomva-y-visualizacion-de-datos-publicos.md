@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-07 07:27:49+00:00
-draft: false
-title: NComVa y visualización de datos públicos
-
-url: /2011/06/07/ncomva-y-visualizacion-de-datos-publicos/
 categories:
 - estadística
 - gráficos
+date: 2011-06-07 07:27:49+00:00
+draft: false
+lastmod: '2025-04-06T18:47:05.068830'
+related:
+- 2011-03-29-graficos-ii-herramientas.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2010-04-11-google-public-data-explorer.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2011-04-05-graficos-iii-bitacoras.md
 tags:
 - estadística
 - gráficos
+title: NComVa y visualización de datos públicos
+url: /2011/06/07/ncomva-y-visualizacion-de-datos-publicos/
 ---
 
 A la lista de herramientas de visualización y de análisis visual de datos públicos de las que ya hemos hablado en alguna ocasión, tales como [Gapminder ](http://www.gapminder.org/)o [Many Eyes](http://www-958.ibm.com/software/data/cognos/manyeyes/), añado hoy unas de cuya existencia he venido a enterarme recientemente: las desarrolladas por la empresa sueca [NComVa](http://test.ncomva.com/).

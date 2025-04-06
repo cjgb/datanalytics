@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-20 08:13:17+00:00
-draft: false
-title: El principio de información
-
-url: /2016/10/20/el-principio-de-informacion/
 categories:
 - ciencia de datos
 - estadística
+date: 2016-10-20 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T19:13:21.522504'
+related:
+- 2011-09-28-datos-grandes-colas-largas.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2018-06-07-posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori.md
+- 2024-10-17-interpretacion-modelos.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - estadística
 - información
 - ciencia de datos
+title: El principio de información
+url: /2016/10/20/el-principio-de-informacion/
 ---
 
 Tramontando el recetariado, llegamos a los principios. Y el más útil de todos ellos es el de la información (o cantidad de información).

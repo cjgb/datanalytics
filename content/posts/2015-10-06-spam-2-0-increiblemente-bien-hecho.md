@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-10-06 08:13:50+00:00
-draft: false
-title: Spam 2.0 (increíblemente bien hecho)
-
-url: /2015/10/06/spam-2-0-increiblemente-bien-hecho/
 categories:
 - programación
+date: 2015-10-06 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T18:56:09.756947'
+related:
+- 2014-06-12-hoy-he-echado-de-menos-scala.md
+- 2012-09-28-tutorial-como-analizar-datos-de-twitter-con-r.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2012-03-05-mas-sobre-julia.md
+- 2021-12-30-forma-insidiosa-spam.md
 tags:
 - scala
 - spam
+title: Spam 2.0 (increíblemente bien hecho)
+url: /2015/10/06/spam-2-0-increiblemente-bien-hecho/
 ---
 
 Recibí recientemente este correo (con los enlaces que aparecen en él; solo he eliminado el apellido de la remitente):

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-28 08:13:17+00:00
-draft: false
-title: 'Charla: predicciones y decisiones, más allá de los errores cuadráticos'
-
-url: /2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/
 categories:
 - anuncio
 - charlas
 - estadística
+date: 2018-11-28 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T19:09:44.681445'
+related:
+- 2018-01-26-charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
+- 2019-01-14-clasificacion-vs-prediccion.md
+- 2019-03-18-las-decisiones-son-lo-primario-la-estadistica-es-subsidiaria.md
+- 2013-05-22-charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos.md
 tags:
 - anuncio
 - charlas
 - estadística
 - kschool
+title: 'Charla: predicciones y decisiones, más allá de los errores cuadráticos'
+url: /2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/
 ---
 
 El próximo 29 de noviembre (de 2018) de febrero daré una charla dentro del ciclo de [_Data Konferences_](http://kschool.com/blog/eventos/kschool-convoca-las-primeras-data-konferences/) de Kschool.

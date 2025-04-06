@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-10-09 08:13:44+00:00
-draft: false
-title: Madrid decide, propone, vota, etc.
-
-url: /2015/10/09/madrid-decide-propone-vota-etc/
 categories:
 - números
 - r
+date: 2015-10-09 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T18:58:00.667171'
+related:
+- 2016-10-06-que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion.md
+- 2012-09-20-como-votan-los-diputados.md
+- 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
+- 2018-11-08-siguen-votando-igual-los-diputados.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
 tags:
 - democracia directa
 - madrid
 - números
 - r
 - scraping
+title: Madrid decide, propone, vota, etc.
+url: /2015/10/09/madrid-decide-propone-vota-etc/
 ---
 
 De siempre, no sé por qué motivo, me interesaron esas cosas relacionadas con la democracia directa. En la feria del libro del año nosecuántos compré un libro al respecto (que presté y no me han devuelto). He seguido de cerca del desarrollo de plataformas como [Agora](https://agoravoting.com/) y conozco a alguno de sus desarrolladores. Di guerrita en Suiza a los locales para que me explicasen pros, contras y funcionamientos de lo que allí tienen instalado. Estoy al tanto de los problemas que ha planteado la democracia directa en California (sobre lo que recomiendo [esto](http://www.economist.com/node/18548119)). Etc.

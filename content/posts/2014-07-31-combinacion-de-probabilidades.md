@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-31 07:13:26+00:00
-draft: false
-title: Combinación de probabilidades
-
-url: /2014/07/31/combinacion-de-probabilidades/
 categories:
 - estadística
+date: 2014-07-31 07:13:26+00:00
+draft: false
+lastmod: '2025-04-06T19:06:54.257260'
+related:
+- 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
+- 2022-09-06-problema-estadistica-frecuencias-naturales.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
 tags:
 - estadística
 - estadística bayesiana
+title: Combinación de probabilidades
+url: /2014/07/31/combinacion-de-probabilidades/
 ---
 
 Hace unos días alguien me pasó una fórmula que tiene una pinta no muy distinta de

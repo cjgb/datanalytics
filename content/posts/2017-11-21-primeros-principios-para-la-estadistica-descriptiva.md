@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-21 08:13:50+00:00
-draft: false
-title: ¿Primeros principios para la estadística descriptiva?
-
-url: /2017/11/21/primeros-principios-para-la-estadistica-descriptiva/
 categories:
 - estadística
+date: 2017-11-21 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T19:07:39.387752'
+related:
+- 2015-11-30-estadistica-cualitativa.md
+- 2018-06-04-estadistica-descriptiva-y-teoria-de-la-decision.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - estadística descriptiva
 - primeros principios
+title: ¿Primeros principios para la estadística descriptiva?
+url: /2017/11/21/primeros-principios-para-la-estadistica-descriptiva/
 ---
 
 Hay disciplinas que parecen puras colecciones de anécdotas, recetarios _ad hoc_ y listas de contraejemplos. Tal se ha predicado, por ejemplo, de la [economía conductual](https://es.wikipedia.org/wiki/Econom%C3%ADa_conductual).

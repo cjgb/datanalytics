@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-20 08:13:43+00:00
-draft: false
-title: La función de pérdida es una API entre los "stakeholders" de un análisis estadístico
-
-url: /2017/11/20/la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico/
 categories:
 - estadística
+date: 2017-11-20 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T19:11:01.461681'
+related:
+- 2018-11-28-charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos.md
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-10-17-interpretacion-modelos.md
+- 2019-12-04-p-valores-y-decisiones.md
 tags:
 - error
 - estadística
 - kaggle
 - pérdida
+title: La función de pérdida es una API entre los "stakeholders" de un análisis estadístico
+url: /2017/11/20/la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico/
 ---
 
 El objeto único de la estadística es informar decisiones.

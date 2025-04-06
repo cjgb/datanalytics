@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-21 08:13:25+00:00
-draft: false
-title: Votos en la ONU con R
-
-url: /2016/09/21/votos-en-la-onu-con-r/
 categories:
 - números
 - r
+date: 2016-09-21 08:13:25+00:00
+draft: false
+lastmod: '2025-04-06T19:10:08.755804'
+related:
+- 2018-11-08-siguen-votando-igual-los-diputados.md
+- 2012-09-20-como-votan-los-diputados.md
+- 2018-10-29-enlaces-parasociologicos.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 tags:
 - onu
 - r
 - unvotes
 - política
+title: Votos en la ONU con R
+url: /2016/09/21/votos-en-la-onu-con-r/
 ---
 
 Inspirado por [esto](http://enelmargen.org/datascience/un-voting-patterns/) he generado

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-03 06:23:30+00:00
-draft: false
-title: 'Ingeniería fiscal para mi hipoteca: ¿vendo un futuro?'
-
-url: /2012/01/03/ingenieria-fiscal-para-mi-hipoteca-fvendo-un-futuro/
 categories:
 - finanzas
 - números
+date: 2012-01-03 06:23:30+00:00
+draft: false
+lastmod: '2025-04-06T18:54:16.995401'
+related:
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2023-09-14-gestion-liquidez.md
+- 2024-02-29-letf.md
+- 2012-07-04-libor-libor-fundeu-y-barclays-claro.md
+- 2023-09-21-inversiones-renta-variable.md
 tags:
 - euribor
 - finanzas
 - futuros
 - números
 - hipotecas
+title: 'Ingeniería fiscal para mi hipoteca: ¿vendo un futuro?'
+url: /2012/01/03/ingenieria-fiscal-para-mi-hipoteca-fvendo-un-futuro/
 ---
 
 Tengo una hipoteca. El tipo de interés que pago es el Euribor a 12 meses más un diferencial. He usado una calculadora de hipotecas y he descubierto que si el Euribor sube un 1%, mi cuota (anual, es decir, sumando los incrementos de los 12 meses) se incrementaría en 660 euros.

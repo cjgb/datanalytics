@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-10 07:13:55+00:00
-draft: false
-title: Bootstrap bayesiano
-
-url: /2014/10/10/bootstrap-bayesiano/
 categories:
 - estadística
 - r
+date: 2014-10-10 07:13:55+00:00
+draft: false
+lastmod: '2025-04-06T19:04:04.665374'
+related:
+- 2014-10-21-mas-alla-del-teorema-central-del-limite.md
+- 2011-09-23-done28099t-be-loopy-ii.md
+- 2011-09-12-visualizacion-de-la-actualizacion-bayesiana-y-unas-cuantas-funciones-de-r.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 tags:
 - bootstrap
 - estadística
 - estadística bayesiana
 - r
+title: Bootstrap bayesiano
+url: /2014/10/10/bootstrap-bayesiano/
 ---
 
 Hoy voy a hablar de esa especie de oxímoron que es el el _bootstrap_ bayesiano. Comenzaré planteando un pequeño problema bien conocido: tenemos números $latex x_1, \dots, x_n$ y hemos calculado su media. Pero nos preguntamos cómo podría variar dicha media (de realizarse otras muestras).

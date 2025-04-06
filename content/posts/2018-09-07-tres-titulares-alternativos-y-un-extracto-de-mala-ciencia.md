@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-07 08:13:01+00:00
-draft: false
-title: Tres titulares alternativos y un extracto de "Mala ciencia"
-
-url: /2018/09/07/tres-titulares-alternativos-y-un-extracto-de-mala-ciencia/
 categories:
 - artículos
+date: 2018-09-07 08:13:01+00:00
+draft: false
+lastmod: '2025-04-06T19:10:43.697826'
+related:
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2018-09-04-podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2013-01-04-sanidad-publica-sanidad-privada.md
 tags:
 - artículos
 - inmigración
 - sanidad
 - mala ciencia
+title: Tres titulares alternativos y un extracto de "Mala ciencia"
+url: /2018/09/07/tres-titulares-alternativos-y-un-extracto-de-mala-ciencia/
 ---
 
 En 2012 el gobierno español [retiró la tarjeta sanitaria](https://elpais.com/politica/2012/08/31/actualidad/1346438706_297231.html) a gente que no cumplía una serie de requisitos mínimos. Hoy parece que [se la ha devuelto](https://www.elconfidencial.com/espana/2018-09-06/el-congreso-luz-verde-universalizacion-sanidad_1612374/).

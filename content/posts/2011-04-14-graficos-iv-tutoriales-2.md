@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-14 07:26:11+00:00
-draft: false
-title: 'Gráficos (IV): tutoriales'
-
-url: /2011/04/14/graficos-iv-tutoriales-2/
 categories:
 - gráficos
+date: 2011-04-14 07:26:11+00:00
+draft: false
+lastmod: '2025-04-06T19:05:23.735695'
+related:
+- 2011-04-26-graficos-vi-teoria.md
+- 2011-04-05-graficos-iii-bitacoras.md
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2011-03-22-graficos-i-introduccion.md
 tags:
 - gráficos
+title: 'Gráficos (IV): tutoriales'
+url: /2011/04/14/graficos-iv-tutoriales-2/
 ---
 
 La mala vida me ha obligado a posponer hasta el jueves esta nueva entrada sobre mi serie sobre gráficos que tenía prometida para el martes. Espero ser excusado.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-10 08:13:40+00:00
-draft: false
-title: Ayer me puse el sombrero negro
-
-url: /2015/09/10/ayer-me-puse-el-sombrero-negro/
 categories:
 - estadística
+date: 2015-09-10 08:13:40+00:00
+draft: false
+lastmod: '2025-04-06T19:08:07.162811'
+related:
+- 2015-04-17-si-un-dia-faltan-21-63-euros-en-caja.md
+- 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2024-07-03-cortos-stats.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
 - estadística
 - mala ciencia
+title: Ayer me puse el sombrero negro
+url: /2015/09/10/ayer-me-puse-el-sombrero-negro/
 ---
 
 Ayer tuve una visita: un amigo me pidió que le echara una mano a otro que andaba muy perdido con su tesis de máster. No era estadístico pero estaba construyendo regresiones y pruebas de hipótesis y no entendía los resultados. Como a veces pasa, había comenzado por las conclusiones (tal vez razonables) con la esperanza de que los datos acabasen dándole la razón.

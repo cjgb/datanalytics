@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-01-22 09:13:00+00:00
-draft: false
-title: Siete llaves al sepulcro del método delta
-
-url: /2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/
 categories:
 - estadística
+date: 2020-01-22 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:31.033863'
+related:
+- 2017-05-24-aquellos-que-ignoran-la-estadistica-etcetera.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2020-09-24-un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson.md
 tags:
 - estadística
 - método delta
 - r
 - remuestreo
 - varianza
+title: Siete llaves al sepulcro del método delta
+url: /2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/
 ---
 
 El desafortunado tuit

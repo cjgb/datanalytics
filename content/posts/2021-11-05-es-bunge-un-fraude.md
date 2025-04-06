@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-11-05 09:36:00+00:00
-draft: false
-title: ¿Es Bunge un fraude?
-
-url: /2021/11/05/es-bunge-un-fraude/
 categories:
 - probabilidad
 - varios
+date: 2021-11-05 09:36:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:38.432480'
+related:
+- 2014-10-10-bootstrap-bayesiano.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
 tags:
 - bunge
 - charlas
 - estadística bayesiana
 - fraude
+title: ¿Es Bunge un fraude?
+url: /2021/11/05/es-bunge-un-fraude/
 ---
 
 Mi primer contacto con la obra de Mario Bunge fue en mi época de estudiante en Zaragoza. Por algún motivo —probablemente, porque en aquella época repasar los lomos de los libros en las bibliotecas y librerias era el equivalente al _perder el tiempo en internet_ de hogaño— cayó en mis manos un libro suyo. Solo recuerdo que leerlo requirió más empeño que aprovechamiento _trujo_ a aquel chaval de provincias.

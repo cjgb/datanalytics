@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-04 12:14:46+00:00
-draft: false
-title: Programación lineal, de nuevo
-
-url: /2020/06/04/programacion-lineal-de-nuevo/
 categories:
 - python
 - varios
+date: 2020-06-04 12:14:46+00:00
+draft: false
+lastmod: '2025-04-06T18:46:44.857686'
+related:
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
+- 2019-07-17-sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
+- 2025-02-27-ensamblador.md
+- 2019-12-02-sobre-los-coeficientes-de-los-glm-en-scikit-learn.md
 tags:
 - cbc
 - coin-or
@@ -16,6 +20,8 @@ tags:
 - programación lineal
 - pulp
 - python
+title: Programación lineal, de nuevo
+url: /2020/06/04/programacion-lineal-de-nuevo/
 ---
 
 Hoy me he retrasado en escribir por haber estado probando (y _estresando_, como hay quien dice), _software_ para resolver problemas de programación lineal. En total, nada, unos diez millones de variables unos treinta  millones de restricciones.

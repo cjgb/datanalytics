@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-07-09 07:47:28+00:00
-draft: false
-title: 'Conceptos estadísticos que desaprender: suficiencia'
-
-url: /2013/07/09/conceptos-estadisticos-que-desaprender-suficiencia/
 categories:
 - estadística
+date: 2013-07-09 07:47:28+00:00
+draft: false
+lastmod: '2025-04-06T19:02:33.100901'
+related:
+- 2021-11-03-mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - estadística
 - suficiencia
+title: 'Conceptos estadísticos que desaprender: suficiencia'
+url: /2013/07/09/conceptos-estadisticos-que-desaprender-suficiencia/
 ---
 
 Leí hace unos días en alguna bitácora que el autor, de tener que retirarse una larga temporada a una isla desierta, llevaría consigo un ejemplar de la inferencia estadística de Casella y Berger. Así que me picó la curiosidad, lo bajé de internet y comencé a leerlo por el primer capítulo que me pareció interesante, el sexto, titulado _Principles of Data Reduction_.

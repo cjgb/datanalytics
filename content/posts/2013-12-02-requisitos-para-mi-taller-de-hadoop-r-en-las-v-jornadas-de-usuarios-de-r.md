@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-12-02 07:18:55+00:00
-draft: false
-title: Requisitos para mi taller de Hadoop + R en las V Jornadas de Usuarios de R
-
-url: /2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/
 categories:
 - estadística
 - r
+date: 2013-12-02 07:18:55+00:00
+draft: false
+lastmod: '2025-04-06T19:07:41.499458'
+related:
+- 2015-11-09-requisitos-para-mi-taller-en-el-i-international-workshop-on-advances-in-functional-data-analysis.md
+- 2010-10-22-tutorial-instalacion-de-la-extension-de-r-para-rapidminer.md
+- 2014-07-09-estrategias-escalables-con-r.md
+- 2014-07-18-en-serio-con-spark-instalacion.md
+- 2014-01-13-nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza.md
 tags:
 - cursos
 - hadoop
 - jornadas
 - ciencia de datos
 - r
+title: Requisitos para mi taller de Hadoop + R en las V Jornadas de Usuarios de R
+url: /2013/12/02/requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r/
 ---
 
 El jueves 12 de diciembre impartiré un taller titulado [_Big data analytics: R + Hadoop_](http://r-es.org/Programa+de+las+V+Jornadas) en las [V Jornadas de Usuarios de R](http://r-es.org/V+Jornadas).

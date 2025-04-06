@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-04 08:13:59+00:00
-draft: false
-title: R en paralelo (pero ahora, con futuros)
-
-url: /2016/11/04/r-en-paralelo-pero-ahora-con-futuros/
 categories:
 - r
+date: 2016-11-04 08:13:59+00:00
+draft: false
+lastmod: '2025-04-06T19:09:10.952631'
+related:
+- 2016-11-11-cuanto-tarda-en-ejecutarse-este-codigo.md
+- 2014-05-15-r-en-paralelo.md
+- 2015-06-15-paralelismo-en-r-memorandum.md
+- 2016-11-24-habiendo-monadas-quien-quiere-callbacks.md
+- 2010-09-01-el-paquete-multicore-de-r.md
 tags:
 - futuros
 - paquetes
 - paralelización
 - r
+title: R en paralelo (pero ahora, con futuros)
+url: /2016/11/04/r-en-paralelo-pero-ahora-con-futuros/
 ---
 
 Esta entrada extiende y mejora una [homónima de 2014](https://www.datanalytics.com/2014/05/15/r-en-paralelo/).
@@ -44,5 +50,3 @@ system.time(
 {{< / highlight >}}
 
 Para más detalles, [las viñetas](https://cran.r-project.org/web/packages/future/index.html).
-
-

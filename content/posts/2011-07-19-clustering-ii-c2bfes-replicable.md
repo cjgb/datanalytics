@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-19 07:00:56+00:00
-draft: false
-title: 'Clústering (II): ¿es replicable?'
-
-url: /2011/07/19/clustering-ii-es-replicable/
 categories:
 - ciencia de datos
 - consultoría
 - estadística
+date: 2011-07-19 07:00:56+00:00
+draft: false
+lastmod: '2025-04-06T19:06:22.980764'
+related:
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - clústering
 - consultoría
 - estadística
 - márketing
 - ciencia de datos
+title: 'Clústering (II): ¿es replicable?'
+url: /2011/07/19/clustering-ii-es-replicable/
 ---
 
 Sólo conozco un estudio ?y lo digo _bona fide_; si alguno de mis lectores conoce otro, le ruego que me lo indique? en el que las técnicas de _clústering_ hayan sido rectamente aplicadas. Se trata del artículo [_Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring_](http://www.sciencemag.org/content/286/5439/531.short) de cuyo resumen extraigo y traduzco lo siguiente:

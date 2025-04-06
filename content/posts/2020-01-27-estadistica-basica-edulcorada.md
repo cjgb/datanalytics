@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-01-27 09:13:00+00:00
-draft: false
-title: '"Estadística Básica Edulcorada"'
-
-url: /2020/01/27/estadistica-basica-edulcorada/
 categories:
 - estadística
+date: 2020-01-27 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:24.809007'
+related:
+- 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
+- 2016-04-07-un-libro-recomendable-de-estadistica-basica.md
+- 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md
+- 2010-09-21-statprob-una-wikipedia-de-estadistica-y-probabilidad.md
+- 2021-01-14-mas-capitulos-del-libro-de-estadistica-y-otras-cosas-y-proyectos-para-2021.md
 tags:
 - estadística
 - libros
+title: '"Estadística Básica Edulcorada"'
+url: /2020/01/27/estadistica-basica-edulcorada/
 ---
 
 Quiero contribuir a dar a conocer el libro _[Estadística Básica Edulcorada](https://bookdown.org/aquintela/EBE/)_ de [Alejandro Quintela](https://www.alejandroquintela.com/).

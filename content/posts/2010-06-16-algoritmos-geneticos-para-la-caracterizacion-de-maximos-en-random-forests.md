@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-06-16 23:37:02+00:00
-draft: false
-title: Algoritmos genéticos para la caracterización de máximos en random forests
-
-url: /2010/06/16/algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests/
 categories:
 - r
+date: 2010-06-16 23:37:02+00:00
+draft: false
+lastmod: '2025-04-06T18:45:35.728295'
+related:
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
+- 2022-06-07-generalized-random-forests.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2015-11-13-gam.md
 tags:
 - algoritmos genéticos
 - ciencia de datos
 - r
 - random forests
+title: Algoritmos genéticos para la caracterización de máximos en random forests
+url: /2010/06/16/algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests/
 ---
 
 En minería de datos se buscan modelos que permitan hacer predicciones acerca del comportamiento de los sujetos del estudio. Pero, típicamente, cuanto más complejas son las técnicas, menos intuición ofrecen acerca del porqué de la predicción, pierden inteligibilidad. Existe una omnipresente tensión entre inteligibilidad (una propiedad altamente deseable, incluso, en ocasiones, por requisito legal) y precisión.

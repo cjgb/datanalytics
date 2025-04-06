@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-02 09:13:00+00:00
-draft: false
-title: 'Socialismo y fascismo en Italia: una reflexión sobre la causalidad y las microcausas'
-
-url: /2020/10/02/socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas/
 categories:
 - artículos
 - mala ciencia
 - causalidad
+date: 2020-10-02 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:09:45.497300'
+related:
+- 2022-05-05-individualismo-metodologico.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2025-03-11-cortos-causalidad.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
 tags:
 - artículos
 - causalidad
 - mala ciencia
 - variables instrumentales
+title: 'Socialismo y fascismo en Italia: una reflexión sobre la causalidad y las microcausas'
+url: /2020/10/02/socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas/
 ---
 
 _[Una entrada más bien especulativa acerca de esbozos de ideas ocurridas durante un paseo vespertino por Madrid y que apunto aquí por  no tener una servilleta a mano.]_

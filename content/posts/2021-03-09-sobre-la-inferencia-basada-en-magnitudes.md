@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-03-09 16:21:00+00:00
-draft: false
-title: Sobre la "inferencia basada en magnitudes"
-
-url: /2021/03/09/sobre-la-inferencia-basada-en-magnitudes/
 categories:
 - artículos
 - estadística
+date: 2021-03-09 16:21:00+00:00
+draft: false
+lastmod: '2025-04-06T18:44:31.352072'
+related:
+- 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2023-09-28-potencia-tests.md
+- 2024-10-22-cortos-stats.md
+- 2024-02-13-outliers-dos-modos.md
 tags:
 - estadística
 - intervalo de confianza
 - metodología
 - muestras pequeñas
 - excel
+title: Sobre la "inferencia basada en magnitudes"
+url: /2021/03/09/sobre-la-inferencia-basada-en-magnitudes/
 ---
 
 [Este artículo](https://statmodeling.stat.columbia.edu/2021/02/21/statisticians-dont-use-statistical-evidence-to-decide-what-statistical-methods-to-use-also-the-way-of-the-physicist/)  (sobre si los estadísticos se autoaplican el mismo rigor metodológico a la hora de seleccionar herramientas de análisis que luego exigen a otros) me llevó a [este otro artículo](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01444) donde se menciona una técnica, la _inferencia basada en magnitudes_, MBI en lo que sigue, por sus siglas en inglés, de la que trata lo que sigue.

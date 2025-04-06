@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-11-29 07:53:47+00:00
-draft: false
-title: 'Errores de las encuestas electorales en Cataluña: una hipótesis sugerente'
-
-url: /2012/11/29/errores-de-las-encuestas-electorales-en-cataluna-una-hipotesis-sugerente/
 categories:
 - estadística
+date: 2012-11-29 07:53:47+00:00
+draft: false
+lastmod: '2025-04-06T19:00:12.342317'
+related:
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2022-03-15-infraestimacion-error-encuestas.md
 tags:
 - encuestas
 - estadística pública
+title: 'Errores de las encuestas electorales en Cataluña: una hipótesis sugerente'
+url: /2012/11/29/errores-de-las-encuestas-electorales-en-cataluna-una-hipotesis-sugerente/
 ---
 
 Pedro Concejero sugirió ayer en la reunión del grupo de usuarios de R de Madrid una hipótesis muy sugerente para explicar parte del error cometido por las encuestas electorales publicadas en Cataluña. Voy a elaborarla en esta entrada pero subrayando antes de todo que desconozco el detalle del funcionamiento de recogida de datos y que lo que voy a contar aquí no pasa de ser una hipótesis que correspondería a otros tratar de verificar.

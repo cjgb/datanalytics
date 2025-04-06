@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-10-22
-title: 'Cinco asuntos breves sobre modelización estadística'
-url: /2024/10/22/cortos-estadística
 categories:
 - cortos
+date: 2024-10-22
+lastmod: '2025-04-06T19:08:44.912439'
+related:
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2024-10-17-interpretacion-modelos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - modelos
 - suavizado exponencial
@@ -12,6 +17,8 @@ tags:
 - heterogeneidad
 - tests ab
 - superviviencia
+title: Cinco asuntos breves sobre modelización estadística
+url: /2024/10/22/cortos-estadística
 ---
 
 Hoy, cinco breves comentarios sobre dos temas distintos relacionados con la modelización estadística. Sobre el primero, técnicas _alternativas_ de modelización, tres enlaces:

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-04-30
-title: 'Más sobre la falacia ecológica'
-url: /2024/4/30/falacia-ecologica
 categories:
 - estadística
+date: 2024-04-30
+lastmod: '2025-04-06T18:44:19.152646'
+related:
+- 2020-11-25-sobre-los-origenes-de-la-falacia-ecologica.md
+- 2024-05-02-falacia-ecologica.md
+- 2013-09-17-la-paradoja-de-simpson-en-el-6eiiic.md
+- 2014-09-26-tirar-la-piedra-esconder-la-mano.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - falacia ecológica
 - estadística
 - paradoja de simpson
+title: Más sobre la falacia ecológica
+url: /2024/4/30/falacia-ecologica
 ---
 
 El de la falacia ecológica es un asunto que ya he tratado en [alguna ocasión](https://datanalytics.com/tags/falacia-ecol%C3%B3gica/). Lo retomo porque he encontrado una

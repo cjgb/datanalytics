@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-16 12:05:57+00:00
-draft: false
-title: 'No, tus datos no "tienen sobredispersión": es que el gato de Nelder se ha
-  merendado la epsilon'
-
-url: /2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/
 categories:
 - estadística
+date: 2020-07-16 12:05:57+00:00
+draft: false
+lastmod: '2025-04-06T19:12:47.351661'
+related:
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-09-22-una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
 tags:
 - estadística
 - glm
 - poisson
 - sobredispersión
+title: 'No, tus datos no "tienen sobredispersión": es que el gato de Nelder se ha
+  merendado la epsilon'
+url: /2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/
 ---
 
 El modelo de Poisson viene a decir que si `y` es una variable con valores 0, 1,... y `x1`,..., `xn` son variables explicativas tiene cierto sentido en algunos casos plantear un modelo de la forma

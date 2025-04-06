@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-11 07:20:25+00:00
-draft: false
-title: 'Arte con R: tres enlaces'
-
-url: /2013/01/11/arte-con-r-tres-enlaces/
 categories:
 - gráficos
 - r
+date: 2013-01-11 07:20:25+00:00
+draft: false
+lastmod: '2025-04-06T19:04:29.107892'
+related:
+- 2014-04-25-una-de-graficos-casi-artisticos-con-r.md
+- 2011-08-29-2570.md
+- 2014-03-10-guarjolizacion-de-fotos-con-r.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2010-06-18-graficos-en-r-con-simbolos-arbitrarios.md
 tags:
 - gráficos
 - r
+title: 'Arte con R: tres enlaces'
+url: /2013/01/11/arte-con-r-tres-enlaces/
 ---
 
 Traigo hoy a mi bitácora tres enlaces sobre la creación de _artefactos_ gráficos con R.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-19 07:13:31+00:00
-draft: false
-title: Primer elemento de un grupo dentro de un dataframe de R
-
-url: /2014/09/19/primer-elemento-de-un-grupo-dentro-de-un-dataframe-de-r/
 categories:
 - r
+date: 2014-09-19 07:13:31+00:00
+draft: false
+lastmod: '2025-04-06T19:11:49.118647'
+related:
+- 2013-05-02-data-table-i-cruces.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2014-03-25-totales-agregados-por-bloques-en-tablas.md
 tags:
 - r
 - trucos
+title: Primer elemento de un grupo dentro de un dataframe de R
+url: /2014/09/19/primer-elemento-de-un-grupo-dentro-de-un-dataframe-de-r/
 ---
 
 Hoy he encontrado una solución decente a un problema que venía arrastrando desde hace un tiempo en R. Tengo una tabla muy grande (decenas de millones de registros) con su `id`. Me interesa quedarme con el subconjunto de la tabla original en que para cada `id` el valor de una determinada variable es mínimo.
@@ -54,4 +60,3 @@ Comentarios:
 * Si tus datos son pequeños, casi cualquier cosa que intentes funcionará. Pero si no,...
 * A veces pierdes horas y horas porque Google te conduce a [una página](http://stats.stackexchange.com/questions/7884/fast-ways-in-r-to-get-the-first-row-of-a-data-frame-grouped-by-an-identifier) (en la que ninguna de las opciones resulta convincente) en lugar de a [otra](http://stackoverflow.com/questions/13279582/select-only-the-first-rows-for-each-unique-value-of-a-column-in-r) donde aguardaba la respuesta a mis problemas.
 * El hecho de que una solución que considerabas ingeniosa haya sido antes descrita por otro antes no hace sino recordarnos que, independientemente quién seas, para quién trabajes o dónde estés, casi todo el talento, casi todas las buenas ideas, casi todas las respuetas, están fuera, no entre esas cuatro paredes que ves ahora mismo a tu alrededor.
-

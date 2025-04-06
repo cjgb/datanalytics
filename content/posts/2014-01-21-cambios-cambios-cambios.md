@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-21 06:56:22+00:00
-draft: false
-title: Cambios, cambios, cambios
-
-url: /2014/01/21/cambios-cambios-cambios/
 categories:
 - anuncio
+date: 2014-01-21 06:56:22+00:00
+draft: false
+lastmod: '2025-04-06T18:49:02.390782'
+related:
+- 2015-02-10-vuelvo-a-espana.md
+- 2010-10-03-cambios-cosmeticos-en-el-blog.md
+- 2021-12-29-migracion-blog-hugo.md
+- 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
 tags:
 - anuncio
+title: Cambios, cambios, cambios
+url: /2014/01/21/cambios-cambios-cambios/
 ---
 
 Cambios en mi página. Desaparece toda mi oferta de consultoría. Porque la abandono.

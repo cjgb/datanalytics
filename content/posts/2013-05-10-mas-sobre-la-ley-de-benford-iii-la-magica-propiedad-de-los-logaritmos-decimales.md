@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-05-10 07:08:38+00:00
-draft: false
-title: 'Más sobre la ley de Benford (III): la "mágica" propiedad de los logaritmos
-  decimales'
-
-url: /2013/05/10/mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales/
 categories:
 - estadística
+date: 2013-05-10 07:08:38+00:00
+draft: false
+lastmod: '2025-04-06T18:57:31.007633'
+related:
+- 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md
+- 2013-04-02-las-leyes-de-benford.md
+- 2013-04-16-mas-sobre-la-ley-de-benford-i-una-condicion-suficiente.md
+- 2013-05-03-mas-sobre-la-ley-de-benford-ii-la-distribucion-de-la-parte-fraccionaria.md
+- 2011-09-15-la-ley-de-benford.md
 tags:
 - estadística
 - ley de benford
+title: 'Más sobre la ley de Benford (III): la "mágica" propiedad de los logaritmos
+  decimales'
+url: /2013/05/10/mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales/
 ---
 
 Esta entrada tiene como prerrequisito las dos que la preceden: [esta](http://www.datanalytics.com/2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente/) y [esta](http://www.datanalytics.com/2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente/).

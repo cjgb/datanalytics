@@ -1,11 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-07-14
-title: 'Medidas de similitud entre distribuciones'
-description: 'Una introducción al MMD'
-url: /2022/07/14/similitud-distribuciones-mmd/
 categories:
 - estadística
+date: 2022-07-14
+description: Una introducción al MMD
+lastmod: '2025-04-06T18:52:12.045688'
+related:
+- 2022-11-04-umap-tsne-etc.md
+- 2018-03-01-kriging-con-stan.md
+- 2022-07-07-lmomentos.md
+- 2017-03-08-reduccion-de-la-dimensionalidad-con-t-sne.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 tags:
 - momentos
 - distribuciones
@@ -13,6 +18,8 @@ tags:
 - similitud
 - kernel trick
 - mmd
+title: Medidas de similitud entre distribuciones
+url: /2022/07/14/similitud-distribuciones-mmd/
 ---
 
 Por motivos que quedarán claros en entradas futuras, he estado investigando sobre medidas de proximidad entre distribuciones de probabilidad. En mi caso concreto, además, multidimensionales (y de dimensión alta, en $R^N$, con $N$ del orden de docenas o centenas).

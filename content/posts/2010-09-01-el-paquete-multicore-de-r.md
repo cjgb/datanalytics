@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-01 22:24:44+00:00
-draft: false
-title: El paquete multicore de R
-
-url: /2010/09/01/el-paquete-multicore-de-r/
 categories:
 - r
+date: 2010-09-01 22:24:44+00:00
+draft: false
+lastmod: '2025-04-06T18:53:54.844806'
+related:
+- 2011-04-08-paralelizacion-de-bucles-con-foreach.md
+- 2014-05-15-r-en-paralelo.md
+- 2011-09-30-dont-be-loopy-iii-jackknife-y-paralelismo.md
+- 2015-06-15-paralelismo-en-r-memorandum.md
+- 2014-12-03-paralelizacion-en-r-con-snow.md
 tags:
 - r
 - paquetes
 - programación
 - paralelización
+title: El paquete multicore de R
+url: /2010/09/01/el-paquete-multicore-de-r/
 ---
 
 Tengo acceso a una máquina que, aunque anda un poco corta de memoria, cuenta con ocho CPUs. Tenía unas simulaciones bastante pesadas que correr y quise aprovechar su naturaleza perfectamente paralelizable. Y, de paso, hacer con R lo mismo por lo que he visto a un consultor de SAS cobrar a razón de 3.000 dólares diarios.

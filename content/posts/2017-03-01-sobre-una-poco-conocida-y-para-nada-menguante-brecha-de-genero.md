@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-01 08:13:51+00:00
-draft: false
-title: Sobre una poco conocida y para nada menguante "brecha de género"
-
-url: /2017/03/01/sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero/
 categories:
 - números
+date: 2017-03-01 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T19:08:47.238920'
+related:
+- 2019-12-03-la-poblacion-envejece-pero-envejecen-tambien-los-grupos-de-edad.md
+- 2018-01-31-mortalidad-y-tramos-de-edad-gordotes.md
+- 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
+- 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 tags:
 - ine
 - mortalidad
 - r
+title: Sobre una poco conocida y para nada menguante "brecha de género"
+url: /2017/03/01/sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero/
 ---
 
 Con [datos del INE](http://www.ine.es/jaxiT3/Tabla.htm?t=14817&L=0) sobre mortalidad he construido el gráfico

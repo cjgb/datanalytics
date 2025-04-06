@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-04 09:13:00+00:00
-draft: false
-title: Intervalos de confianza, intervalos de predicción
-
-url: /2020/03/04/intervalos-de-confianza-intervalos-de-prediccion/
 categories:
 - estadística
+date: 2020-03-04 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:07.728255'
+related:
+- 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
+- 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2015-05-05-intervalos-de-credibilidad-para-la-beta-una-alternativa.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
 tags:
 - estadística
 - intervalo de confianza
 - intervalo de predicción
 - predicción
 - r
+title: Intervalos de confianza, intervalos de predicción
+url: /2020/03/04/intervalos-de-confianza-intervalos-de-prediccion/
 ---
 
 Contexto:

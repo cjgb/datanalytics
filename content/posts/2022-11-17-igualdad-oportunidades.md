@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-11-17
-title: 'Operacionalización de la "igualdad de opotunidades"'
-
-url: /2022/11/17/igualdad-oportunidades/
 categories:
 - estadística
+date: 2022-11-17
+lastmod: '2025-04-06T19:12:57.721621'
+related:
+- 2020-02-26-algoritmos-y-acatarrantes-definiciones-de-justicia.md
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
+- 2020-02-27-una-version-aun-mas-sencilla.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - estadística
 - justicia
+title: Operacionalización de la "igualdad de opotunidades"
+url: /2022/11/17/igualdad-oportunidades/
 ---
 
 Tiene Google (o una parte de él) un vídeo en Youtube,
@@ -45,7 +51,3 @@ Y lo que se propone en el vídeo es usar dos puntos de corte, $\alpha_A$ y $\alp
 * condicionada a que se cumpla la condición de _igualdad de oportunidades_ expresada  más arriba.
 
 Yo, que tengo una opinión al respecto que a nadie interesa pero que estoy en el mismo negocio que Google ---crear modelos y cobrar por ellos---, aplaudo esta forma de entender el mundo y la justicia y me presto a ayudar ---por un precio justo--- a quienes quieran implementar modelos sujetos a la restricción de _igualdad de oportunidades_ ya no solo dos grupos, $A$ y $B$, sino que haya que garantizar la no discriminación por varias variables entrecruzadas, algunas de las cuales sean continuas (p.e., edad) y toque estimar prácticamente un umbral $\alpha_x$ por individuo.
-
-
-
-

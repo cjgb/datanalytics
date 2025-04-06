@@ -1,16 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-10-11
-title: 'Bayesianismo y frecuentismo bajo la óptica de la teoría de la decisión, III'
-
-url: /2022/10/11/bayesianismo-frecuentismo-teoria-decision-03/
-
 categories:
 - estadística
+date: 2022-10-11
+lastmod: '2025-04-06T19:13:22.231263'
+related:
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 tags:
 - teoría de la decisión
 - frecuentismo
 - bayesianismo
+title: Bayesianismo y frecuentismo bajo la óptica de la teoría de la decisión, III
+url: /2022/10/11/bayesianismo-frecuentismo-teoria-decision-03/
 ---
 
 _[Esta es la tercera de una serie de cuatro o cinco entradas sobre el tema que se anuncia en el título.]_

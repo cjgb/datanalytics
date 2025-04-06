@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-08-13 07:13:55+00:00
-draft: false
-title: (Mis) procesos puntuales con glm
-
-url: /2014/08/13/mis-procesos-puntuales-con-glm/
 categories:
 - estadística
 - r
+date: 2014-08-13 07:13:55+00:00
+draft: false
+lastmod: '2025-04-06T18:45:12.295381'
+related:
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2016-07-06-glms-con-prioris-casi-a-voluntad.md
 tags:
 - poisson
 - procesos puntuales
 - r
 - glm
+title: (Mis) procesos puntuales con glm
+url: /2014/08/13/mis-procesos-puntuales-con-glm/
 ---
 
 Lo que escribí hace un par de días sobre [procesos puntuales](http://www.datanalytics.com/2014/08/11/procesos-puntuales-una-primera-aproximacion/), ahora me doy cuenta, podía haberse resuelto con nuestro viejo amigo `glm`.

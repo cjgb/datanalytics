@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-12-20 08:13:46+00:00
-draft: false
-title: p-valores y el perro que no ladró
-
-url: /2018/12/20/p-valores-y-el-perro-que-no-ladro/
 categories:
 - estadística
 - mala ciencia
+date: 2018-12-20 08:13:46+00:00
+draft: false
+lastmod: '2025-04-06T18:49:25.033366'
+related:
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2024-07-03-cortos-stats.md
+- 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
 tags:
 - ciencia
 - mala ciencia
 - p-valores
 - replicabilidad
 - reproducibilidad
+title: p-valores y el perro que no ladró
+url: /2018/12/20/p-valores-y-el-perro-que-no-ladro/
 ---
 
 Tengo un montón de artículos por ahí guardados que fueron escritos a raíz de la publicación de [_The ASA's Statement on p-Values: Context, Process, and Purpose_](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108#.W5QULB_nhhG), ya en 2016, que ponía en cuestión el uso indiscriminado y acrítico de los p-valores. Algunos de ellos son [este](https://andrewgelman.com/2016/03/07/29212/), [este](https://matloff.wordpress.com/2016/03/09/further-comments-on-the-asa-manifesto/), [este](https://www.r-statistics.com/2016/03/its-not-the-p-values-fault-reflections-on-the-recent-asa-statement/) o [este](https://plus.maths.org/content/stop-taking-p).

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-14 07:29:08+00:00
-draft: false
-title: La estadística del número tres
-
-url: /2011/09/14/la-estadistica-del-numero-tres/
 categories:
 - consultoría
 - estadística
+date: 2011-09-14 07:29:08+00:00
+draft: false
+lastmod: '2025-04-06T19:09:28.676877'
+related:
+- 2011-02-22-solo-quiero-saber-si-basta-con-tres-casos.md
+- 2016-11-30-la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado.md
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2015-12-29-la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos.md
+- 2018-04-27-redundancias-o-por-que-empenarnos-en-tener-tantos-datos-cuando-con-una-fraccion-sobra.md
 tags:
 - estadística
+title: La estadística del número tres
+url: /2011/09/14/la-estadistica-del-numero-tres/
 ---
 
 Una consulta que he recibido hoy me ha hecho acordar que tenía pendiente una entrada sobre la estadística del número tres, es decir, ¿qué hacer cuando tenemos sólo tres casos?

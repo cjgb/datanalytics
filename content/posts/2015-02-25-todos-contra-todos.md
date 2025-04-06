@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-25 08:13:35+00:00
-draft: false
-title: Todos contra todos
-
-url: /2015/02/25/todos-contra-todos/
 categories:
 - r
+date: 2015-02-25 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T18:49:29.034218'
+related:
+- 2011-02-28-programacion-funcional-en-r-reduce.md
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
 tags:
 - outer
 - r
 - trucos
+title: Todos contra todos
+url: /2015/02/25/todos-contra-todos/
 ---
 
 ¿Cómo se suman los cuadrados de un vector de números en un paradigma _tradicional_ de programación? Se crea un bucle que lo recorre y que guarda las sumas parciales en un acumulador. Sumamente económico en términos de memoria: apenas consume unos pocos bytes en la pila. La versión funcional de la cosa se parece más a `sum(x^2)`, que implica generar un vector de cuadrados y dilapidar memoria.

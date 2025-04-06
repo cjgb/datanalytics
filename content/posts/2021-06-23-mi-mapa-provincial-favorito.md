@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-06-23 09:13:00+00:00
-draft: false
-title: Mi mapa provincial favorito
-url: /2021/06/23/mi-mapa-provincial-favorito/
 categories:
 - gráficos
+date: 2021-06-23 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:47:23.019761'
+related:
+- 2011-04-19-graficos-v-mapas.md
+- 2012-03-28-contrafactualidad-radial.md
+- 2023-12-07-mapas-basta-una-linea.md
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2020-10-13-ign-r-leaflet.md
 tags:
 - ine
 - mapas
 - momo
 - españa
+title: Mi mapa provincial favorito
+url: /2021/06/23/mi-mapa-provincial-favorito/
 ---
 
 Mi mapa provincial de España favorito es este:

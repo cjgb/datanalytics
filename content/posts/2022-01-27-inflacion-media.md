@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-27
-title: Inflación... ¿media?
-url: /2022/01/27/inflacion-interanual-inflacion-media/
 categories:
 - economía
+date: 2022-01-27
+lastmod: '2025-04-06T19:01:52.030821'
+related:
+- 2022-10-27-los-muchos-nombres-inflacion.md
+- 2022-05-17-como-calcula-inflacion.md
+- 2021-11-24-medias-ponderadas-a-lo-uluru.md
+- 2012-07-30-no-es-pais-para-estadisticos.md
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
 tags:
 - economía
 - inflación
 - ine
+title: Inflación... ¿media?
+url: /2022/01/27/inflacion-interanual-inflacion-media/
 ---
 
 Estos días se oye que la inflación del 2021 fue del 6.5% pero a la vez y sin solución de continuidad, que fue del 3.1%. Esta entrada sirve para aclarar de dónde salen esas cifras y para qué son útiles.

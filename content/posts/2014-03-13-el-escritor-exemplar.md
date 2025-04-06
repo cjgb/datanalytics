@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-13 07:45:27+00:00
-draft: false
-title: El escritor exemplar
-
-url: /2014/03/13/el-escritor-exemplar/
 categories:
 - nlp
 - r
+date: 2014-03-13 07:45:27+00:00
+draft: false
+lastmod: '2025-04-06T18:47:31.571892'
+related:
+- 2014-04-29-todo-el-mundo-habla-de-cadenas-de-markov.md
+- 2014-10-03-lengua-y-markov-en-martinacocina-este-sabado.md
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
+- 2013-05-13-charla-un-lematizador-probabilistico-con-r.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 tags:
 - markov
 - nlp
 - r
+title: El escritor exemplar
+url: /2014/03/13/el-escritor-exemplar/
 ---
 
 >El escritor exemplar es un experimento de escritura automática realizado por [Molino de Ideas](http://www.molinodeideas.com/) sobre una idea de [Mario Tascón](https://twitter.com/mtascon) y con la colaboración de [Carlos J. Gil Bellosta](https://twitter.com/gilbellosta) en conmemoración por los 400 años de la publicación de Las Novelas Ejemplares.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-22 07:10:15+00:00
-draft: false
-title: El carajal de las representaciones gráficas de "redes sociales"
-
-url: /2013/08/22/el-carajal-de-las-representaciones-graficas-de-redes-sociales/
 categories:
 - gráficos
+date: 2013-08-22 07:10:15+00:00
+draft: false
+lastmod: '2025-04-06T18:57:43.845498'
+related:
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2022-02-22-grafico-quitarse-sombrero.md
+- 2012-11-12-no-es-pais-para-biplots.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
 tags:
 - gráficos
 - redes sociales
+title: El carajal de las representaciones gráficas de "redes sociales"
+url: /2013/08/22/el-carajal-de-las-representaciones-graficas-de-redes-sociales/
 ---
 
 Seamos honestos: en representaciones gráficas de grafos similares a

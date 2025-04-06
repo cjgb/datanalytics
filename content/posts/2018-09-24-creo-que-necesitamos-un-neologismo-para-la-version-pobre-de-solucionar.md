@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-24 08:13:43+00:00
-draft: false
-title: Creo que necesitamos un neologismo para la versión pobre de solucionar
-
-url: /2018/09/24/creo-que-necesitamos-un-neologismo-para-la-version-pobre-de-solucionar/
 categories:
 - varios
+date: 2018-09-24 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T18:53:56.854376'
+related:
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 tags:
 - solucionismo
+title: Creo que necesitamos un neologismo para la versión pobre de solucionar
+url: /2018/09/24/creo-que-necesitamos-un-neologismo-para-la-version-pobre-de-solucionar/
 ---
 
 Mis colegas tecnólogos son casi todos víctimas de una confusión del pensamiento que se ha dado en llamar _solucionismo tecnológico_: identifican problemas y se les ocurren líneas de código en Python que podrían _solucionarlos_. Les recomiendo una incursión por las páginas de [_To Solve Everything Click Here_](https://www.goodreads.com/book/show/13587160-to-save-everything-click-here).

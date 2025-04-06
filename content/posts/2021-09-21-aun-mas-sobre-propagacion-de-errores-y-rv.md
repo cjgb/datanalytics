@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-09-21 09:13:00+00:00
-draft: false
-title: Aún más sobre propagación de errores (y rv)
-
-url: /2021/09/21/aun-mas-sobre-propagacion-de-errores-y-rv/
 categories:
 - r
 - probabilidad
+date: 2021-09-21 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:04:21.317673'
+related:
+- 2020-03-10-mas-sobre-el-metodo-delta-propagate.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2017-05-24-aquellos-que-ignoran-la-estadistica-etcetera.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
 tags:
 - paquetes
 - probabilidad
@@ -17,6 +21,8 @@ tags:
 - álgebra de variables aleatorias
 - error
 - propagación de errores
+title: Aún más sobre propagación de errores (y rv)
+url: /2021/09/21/aun-mas-sobre-propagacion-de-errores-y-rv/
 ---
 
 _[Menos mal que se me ha ocurrido buscar en mi propio blog sobre el asunto y descubrir ---no lo recordaba--- que ya había tratado el asunto previamente en entradas como [esta](https://www.datanalytics.com/2020/03/10/mas-sobre-el-metodo-delta-propagate/), [esta](https://www.datanalytics.com/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/) o [esta](https://www.datanalytics.com/2020/02/03/el-metodo-delta-ahora-con-nimble/).]_
@@ -41,6 +47,3 @@ Lo hace, además, no siguiendo ninguno de los dos métodos mencionados más arri
 Lo cual es una muy buena noticia.
 
 Y ahora, lo malo: todo este programa funciona en tanto en cuento las variables aleatorias implicadas sean independientes (como caso particular, ¿es $latex X + X = 2X$ distribucionalmente?). No tengo nada claro cómo funcionará el paquete con variables aleatorias correlacionadas y, en general, la aplicación práctica para problemas más allá de lo trivial, exige poder operar con ellas. Mi apuesta para el futuro a largo plazo es que nunca veremos el caso general _---_es decir, un álgebra que nos permita operar con distribuciones como lo hacemos con números_---_ resuelto.
-
-
-

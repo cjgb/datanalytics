@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-04 07:25:04+00:00
-draft: false
-title: Ley de Transparencia y anonimidad en ficheros de microdatos (II)
-
-url: /2012/10/04/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii/
 categories:
 - estadística
 - números
+date: 2012-10-04 07:25:04+00:00
+draft: false
+lastmod: '2025-04-06T19:01:11.107673'
+related:
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2016-05-18-transparencia-ley-de-transparencia-y-todas-esas-cosas.md
+- 2013-02-06-anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 tags:
 - anonimidad
 - datos abiertos
 - estadística
 - estadística pública
 - números
+title: Ley de Transparencia y anonimidad en ficheros de microdatos (II)
+url: /2012/10/04/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii/
 ---
 
 Escribí hace un tiempo sobre el asunto de la [transparencia y la privacidad](http://www.datanalytics.com/2011/10/06/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos/) y quiero retomar el tema. Comienzo reafirmando mi preferencia por y compromiso con la causa de la transparencia en las administraciones públicas, fe de lo cual da esta misma bitácora. Pero la serendipia me ha llevado a tropezar con un ciertas circunstancias que han sembrado de matices mi inicial entusiasmo. No son insalvables, convengo. Pero me siento en la obligación de, cuando menos —y, pensando que pueden no ser de universal conocimiento— dejar constancia escrita de ellas.

@@ -1,12 +1,19 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-09-10
-title: 'Causalidad'
-url: /2024/09/10/causalidad
 categories:
 - causalidad
+date: 2024-09-10
+lastmod: '2025-04-06T18:48:42.251973'
+related:
+- 2014-06-24-causalidad-a-la-pearl-y-el-operador-do.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2025-03-11-cortos-causalidad.md
+- 2024-10-08-cortos-stats.md
 tags:
 - causalidad
+title: Causalidad
+url: /2024/09/10/causalidad
 ---
 
 ## Introducción

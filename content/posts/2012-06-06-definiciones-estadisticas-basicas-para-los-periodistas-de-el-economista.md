@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-06 07:09:01+00:00
-draft: false
-title: Definiciones estadísticas básicas (para los periodistas de "El economista")
-
-url: /2012/06/06/definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista/
 categories:
 - estadística
 - números
+date: 2012-06-06 07:09:01+00:00
+draft: false
+lastmod: '2025-04-06T18:57:18.772094'
+related:
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2020-11-26-a-que-les-ha-jugado-una-mala-pasada-el-excel.md
+- 2013-04-26-todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc.md
+- 2024-01-30-indicadores-economicos.md
+- 2011-01-13-el-misterio-de-la-reduccion-del-paro-en-diciembre.md
 tags:
 - estadística pública
 - números
+title: Definiciones estadísticas básicas (para los periodistas de "El economista")
+url: /2012/06/06/definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista/
 ---
 
 Muy señores míos periodistas de El Economista: déjenme que les recuerde una definición estadística básica para que no vuelvan a meter la pata como en su reciente artículo _[¿Está la mitad de los jóvenes en paro? La tasa real sería del 18%](http://www.eleconomista.es/economia/noticias/4019425/06/12/Esta-la-mitad-de-los-jovenes-espanoles-en-paro-El-dato-es-enganoso-la-tasa-seria-del-18.html)_.

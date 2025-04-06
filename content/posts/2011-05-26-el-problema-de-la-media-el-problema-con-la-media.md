@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-26 07:50:58+00:00
-draft: false
-title: El problema de la media, el problema con la media
-
-url: /2011/05/26/el-problema-de-la-media-el-problema-con-la-media/
 categories:
 - estadística
 - números
+date: 2011-05-26 07:50:58+00:00
+draft: false
+lastmod: '2025-04-06T18:46:25.443028'
+related:
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2010-05-25-sobre-la-media-y-la-mediana.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 tags:
 - estadística
 - números
 - media
+title: El problema de la media, el problema con la media
+url: /2011/05/26/el-problema-de-la-media-el-problema-con-la-media/
 ---
 
 Debiera comenzar asumiendo y reconociendo mis deficiencias pedagógicas a la hora de elegir y presentar el [problema sobre la media de la semana pasada](http://www.datanalytics.com/2011/05/20/problema-de-la-semana-sobre-la-media/). Espero que quienes hicieron comentarios al respecto —y quienes los pensaron sin escribirlos— no reciban esta entrada con el "buuuuu" que tal vez merezco.

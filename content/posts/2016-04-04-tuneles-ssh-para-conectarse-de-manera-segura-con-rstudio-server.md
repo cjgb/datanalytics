@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-04 09:13:39+00:00
-draft: false
-title: Túneles ssh para conectarse de manera segura con RStudio Server
-
-url: /2016/04/04/tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server/
 categories:
 - programación
 - r
+date: 2016-04-04 09:13:39+00:00
+draft: false
+lastmod: '2025-04-06T19:02:22.958207'
+related:
+- 2016-04-01-redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server.md
+- 2013-02-18-descarga-de-ficheros-con-r-a-traves-de-sftp.md
+- 2015-04-10-restauracion-de-ficheros-bak-sin-windows.md
+- 2011-01-31-r-node-una-interfaz-web-para-r.md
+- 2014-12-03-paralelizacion-en-r-con-snow.md
 tags:
 - r
 - rstudio
 - ssh
+title: Túneles ssh para conectarse de manera segura con RStudio Server
+url: /2016/04/04/tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server/
 ---
 
 La [solución que presenté el otro día](https://www.datanalytics.com/2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/) para resolver el problema en cuestión, tal como indicó [Iñaki Úcar](http://www.enchufa2.es/), es demasiado aparatosa. La alternativa a mi propuesta

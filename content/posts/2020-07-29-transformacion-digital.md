@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-29 09:13:00+00:00
-draft: false
-title: '"Transformación digital"'
-
-url: /2020/07/29/transformacion-digital/
 categories:
 - varios
+date: 2020-07-29 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:01:43.487670'
+related:
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
+- 2020-07-29-un-instituto-nacional-de-datos.md
+- 2015-03-10-licencias-urbanisticas-datos-y-votos.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2015-02-13-movilidad-municipal.md
 tags:
 - digitalización
 - registro civil
+title: '"Transformación digital"'
+url: /2020/07/29/transformacion-digital/
 ---
 
 **2010:** _[Todos los registros civiles municipales ya están digitalizados](https://www.agenciasinc.es/Noticias/Todos-los-registros-civiles-municipales-ya-estan-digitalizados)_:

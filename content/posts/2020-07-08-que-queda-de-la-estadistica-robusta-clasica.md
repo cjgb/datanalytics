@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-08 09:13:00+00:00
-draft: false
-title: ¿Qué queda de la "estadística robusta" clásica?
-
-url: /2020/07/08/que-queda-de-la-estadistica-robusta-clasica/
 categories:
 - artículos
 - estadística
+date: 2020-07-08 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:19.580656'
+related:
+- 2021-10-14-una-nueva-aficion-para-los-proximos-10-15-anos.md
+- 2020-02-24-to-irls-or-not-to-irls.md
+- 2020-10-07-el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2020-09-24-un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson.md
 tags:
 - artículos
 - estadística
 - estadística robusta
+title: ¿Qué queda de la "estadística robusta" clásica?
+url: /2020/07/08/que-queda-de-la-estadistica-robusta-clasica/
 ---
 
 Estos días estoy muy atento a todo lo que tiene que ver con estadística robusta. El motivo es doble:

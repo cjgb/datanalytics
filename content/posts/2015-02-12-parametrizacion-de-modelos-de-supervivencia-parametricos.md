@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-12 08:13:34+00:00
-draft: false
-title: Parametrización de modelos de supervivencia (paramétricos)
-
-url: /2015/02/12/parametrizacion-de-modelos-de-supervivencia-parametricos/
 categories:
 - estadística
+date: 2015-02-12 08:13:34+00:00
+draft: false
+lastmod: '2025-04-06T18:55:14.663629'
+related:
+- 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
+- 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2010-10-25-una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - churn
 - estadística
 - supervivencia
+title: Parametrización de modelos de supervivencia (paramétricos)
+url: /2015/02/12/parametrizacion-de-modelos-de-supervivencia-parametricos/
 ---
 
 He participado directa o indirectamente en algunas decenas de los llamados proyectos de _churn_. Estoy al tanto de aún más de los que he hablado con otros colegas.

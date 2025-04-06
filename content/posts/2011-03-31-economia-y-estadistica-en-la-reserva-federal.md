@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-31 09:53:54+00:00
-draft: false
-title: Economía y estadística en la Reserva Federal
-
-url: /2011/03/31/economia-y-estadistica-en-la-reserva-federal/
 categories:
 - números
+date: 2011-03-31 09:53:54+00:00
+draft: false
+lastmod: '2025-04-06T19:02:40.143411'
+related:
+- 2010-04-11-google-public-data-explorer.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2011-01-31-un-grafico-enganabobos.md
+- 2012-09-26-coursera-es-ya.md
 tags:
 - números
+title: Economía y estadística en la Reserva Federal
+url: /2011/03/31/economia-y-estadistica-en-la-reserva-federal/
 ---
 
 El [grupo de investigación y estadística](http://www.newyorkfed.org/research/index.html) de la sede de la Reserva Federal en Nueva York ha iniciado un encomiable proyecto de divulgación: [una bitácora](http://libertystreeteconomics.newyorkfed.org/) en la que presentar con un lenguaje accesible los asuntos sobre los que trabajan. Además, y según sus propias palabras, aspiran a entablar un diálogo con sus lectores participando en los debates que se abran en la sección de comentarios.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-07 09:13:00+00:00
-draft: false
-title: En respuesta a los que me preguntan si pondré "la vacuna"
-
-url: /2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/
 categories:
 - varios
+date: 2020-12-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:53:58.861189'
+related:
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
+- 2021-12-02-por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid.md
+- 2021-09-24-en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran.md
+- 2012-03-12-estrenos-con-ecos-estadisticos-ii-contagio.md
+- 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
 tags:
 - ciencia
 - coronavirus
 - vacuna
+title: En respuesta a los que me preguntan si pondré "la vacuna"
+url: /2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/
 ---
 
 _[Dejo aquí por escrito la respuesta detallada a esa pregunta por, primero, una cuestión de eficiencia: poder contestarla con un enlace cuando me vengan de nuevo con ella. Pero también por la relación que guarda con temas como el riesgo o la teoría de la decisión que a estas página mías no les son ajenos.]_

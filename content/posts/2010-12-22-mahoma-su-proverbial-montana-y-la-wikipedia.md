@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-12-22 09:07:18+00:00
-draft: false
-title: Mahoma, su proverbial montaña y la Wikipedia
-
-url: /2010/12/22/mahoma-su-proverbial-montana-y-la-wikipedia/
 categories:
 - consultoría
+date: 2010-12-22 09:07:18+00:00
+draft: false
+lastmod: '2025-04-06T18:48:10.633713'
+related:
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2012-09-26-coursera-es-ya.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
 tags:
 - wikipedia
+title: Mahoma, su proverbial montaña y la Wikipedia
+url: /2010/12/22/mahoma-su-proverbial-montana-y-la-wikipedia/
 ---
 
 El azar (¡y la suerte también!) me ha llevado a lo largo de estas semanas pasadas a departir con miembros de un gremio con el que apenas he tenido relación en años, el de los docentes: he tenido la suerte de compartir mesas y sobremesas con profesores tanto de bachillerato como de universidad.

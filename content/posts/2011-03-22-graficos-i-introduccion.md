@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-22 09:13:43+00:00
-draft: false
-title: 'Gráficos (I): introducción'
-
-url: /2011/03/22/graficos-i-introduccion/
 categories:
 - gráficos
+date: 2011-03-22 09:13:43+00:00
+draft: false
+lastmod: '2025-04-06T19:07:54.571971'
+related:
+- 2011-04-26-graficos-vi-teoria.md
+- 2012-09-12-el-arte-funcional-una-revision-personal.md
+- 2014-03-11-beautiful-evidence-de-tufte.md
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
+- 2013-03-19-mapas-realmente-necesarios.md
 tags:
 - gráficos
+title: 'Gráficos (I): introducción'
+url: /2011/03/22/graficos-i-introduccion/
 ---
 
 De no mediar contratiempos, a lo largo de los próximos cinco o seis martes iré subiendo a mi bitácora una serie de entradas sobre una (sub)disciplina en alza. Se la conoce por diversos nombres de desigual empaque —infografía, _information design_, etc.— pero las ubicaré bajo un epígrafe algo más humilde: gráficos.

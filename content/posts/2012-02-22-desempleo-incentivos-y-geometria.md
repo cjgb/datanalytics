@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-22 08:18:13+00:00
-draft: false
-title: Desempleo, incentivos y geometría
-
-url: /2012/02/22/desempleo-incentivos-y-geometria/
 categories:
 - números
+date: 2012-02-22 08:18:13+00:00
+draft: false
+lastmod: '2025-04-06T18:51:19.168725'
+related:
+- 2012-12-07-el-escaso-beneficio-marginal-de-trabajar.md
+- 2012-02-24-estoy-muy-de-acuerdo-con-la-ceoe.md
+- 2024-11-14-simpson-productividad.md
+- 2011-01-28-pensiones-c2bfduros-a-pesetas.md
+- 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
 tags:
 - números
 - desempleo
 - subsidios
+title: Desempleo, incentivos y geometría
+url: /2012/02/22/desempleo-incentivos-y-geometria/
 ---
 
 En un país hipotético, E, tienen un mecanismo de protección social que garantiza a los desempleados un subsidio consistente en nueve mensualidades de 100 euros (por simplificar). En este país viven cuatro ciudadanos, A, B, C y D:
@@ -44,4 +50,3 @@ Notas finales:
 * Algo parecido, pero más a lo bruto, existe en un país llamado España: su Seguridad Social, en determinados casos, paga la cuantía íntegra del subsidio de desempleo si el beneficiario abre una empresa (o algo así).
 * Esta manera de proceder me parece más razonable que [las de algún cavernícola](http://economia.elpais.com/economia/2012/02/20/actualidad/1329754223_145409.html).
 * El autor de esta bitácora piensa que los economistas y los políticos no exploran lo suficiente las posibilidades que ofrece la geometría a la hora de diseñar determinado tipo de políticas y normas.
-

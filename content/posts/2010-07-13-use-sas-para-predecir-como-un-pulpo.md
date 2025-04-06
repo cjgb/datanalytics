@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-07-13 21:25:16+00:00
-draft: false
-title: Use SAS para predecir como un pulpo
-
-url: /2010/07/13/use-sas-para-predecir-como-un-pulpo/
 categories:
 - ciencia de datos
 - consultoría
+date: 2010-07-13 21:25:16+00:00
+draft: false
+lastmod: '2025-04-06T19:01:35.352717'
+related:
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2014-10-20-roi-de-ida-y-vuelta.md
+- 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md
+- 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
 tags:
 - consultoría
 - ciencia de datos
 - sas
 - pulpo
 - predicción
+title: Use SAS para predecir como un pulpo
+url: /2010/07/13/use-sas-para-predecir-como-un-pulpo/
 ---
 
 Para el otoño volverá a tener lugar el congreso de usuarios de SAS en España. El [anuncio](http://www.sas.com/mailings/camp2007/c20921.html) que me acaba de llegar —con su referencia al ubicuo pulpo Paul— no puede ser más desafortunado. Por si desaparece el enlace, reproduzco con una captura de pantalla aquí lo más sustancioso del mismo:

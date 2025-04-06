@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-10-18 09:13:47+00:00
-draft: false
-title: El modelo son las conclusiones
-
-url: /2019/10/18/el-modelo-son-las-conclusiones/
 categories:
 - ciencia de datos
 - estadística
+date: 2019-10-18 09:13:47+00:00
+draft: false
+lastmod: '2025-04-06T18:44:32.768604'
+related:
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md
+- 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - contaminación
 - modelos
 - teoría
 - valencia
+title: El modelo son las conclusiones
+url: /2019/10/18/el-modelo-son-las-conclusiones/
 ---
 
 El título es un tanto exagerado, tal vez tanto como el [aforismo de McLuhan](https://en.wikipedia.org/wiki/The_medium_is_the_message) que lo inspira. Pero no pudo dejar de ocurrírseme al ver el gráfico

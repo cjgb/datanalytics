@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-02-11 09:13:00+00:00
-draft: false
-title: Solo el modelo vacío pasa todos los "checks"
-
-url: /2021/02/11/solo-el-modelo-vacio-pasa-todos-los-checks/
 categories:
 - ciencia de datos
+date: 2021-02-11 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:34.462244'
+related:
+- 2018-11-07-cuando-oigais-que-los-algoritmos-discriminan-acordaos-de-esto-que-cuento-hoy.md
+- 2019-11-18-los-ejemplos-son-las-conclusiones.md
+- 2010-10-17-sin-sexo-por-decision-judicial.md
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
+- 2022-11-17-igualdad-oportunidades.md
 tags:
 - ética
 - ludismo
 - sesgo
+title: Solo el modelo vacío pasa todos los "checks"
+url: /2021/02/11/solo-el-modelo-vacio-pasa-todos-los-checks/
 ---
 
 Cuando uno crea uno de esos modelos que tanta mala fama tienen hoy en día ---y sí, me refiero a esos de los que dependen las concesiones de hipotecas, etc.--- solo tiene dos fuentes de datos:

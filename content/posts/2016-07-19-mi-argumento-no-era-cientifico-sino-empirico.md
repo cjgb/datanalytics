@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-07-19 08:13:53+00:00
-draft: false
-title: '"Mi argumento no era científico, sino empírico"'
-
-url: /2016/07/19/mi-argumento-no-era-cientifico-sino-empirico/
 categories:
 - varios
+date: 2016-07-19 08:13:53+00:00
+draft: false
+lastmod: '2025-04-06T19:12:52.475426'
+related:
+- 2014-09-26-tirar-la-piedra-esconder-la-mano.md
+- 2019-08-28-esto-no-trata-sobre-lo-que-la-ciencia-es.md
+- 2019-01-25-cerebros-hackeados.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
 tags:
 - cercas
 - ciencia
 - política
 - prensa
+title: '"Mi argumento no era científico, sino empírico"'
+url: /2016/07/19/mi-argumento-no-era-cientifico-sino-empirico/
 ---
 
 En _[El triunfo de los descerebrados](http://elpaissemanal.elpais.com/columna/triunfo-los-descerebrados/)_ escribe Javier Cercas una frase que le vale no tanto la fama como una mención veraniega en mis páginas. Es la que titula la entrada y que no voy a comentar más.

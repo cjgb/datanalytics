@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-04 09:13:00+00:00
-draft: false
-title: ¿42.000 muertes por coronavirus? Una corrección de la heterogeneidad
-
-url: /2020/05/04/42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad/
 categories:
 - estadística
 - números
+date: 2020-05-04 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:01:08.765235'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2020-04-21-defunciones-ine-vs-momo.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
 tags:
 - coronavirus
 - epidemiología
 - momo
 - registro civil
+title: ¿42.000 muertes por coronavirus? Una corrección de la heterogeneidad
+url: /2020/05/04/42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad/
 ---
 
 Publica hoy (cuando escribo) El Confidencial el artículo _[42.000 muertes por covid: un estudio eleva la mortalidad un 76% sobre la cifra oficial](https://www.elconfidencial.com/espana/2020-05-02/covid-19-coronavirus-muertes-datos-politecnica_2576635/)_ citando el _[Estudio del exceso de mortalidad motivado por pandemia de Covid-19](https://www.ecestaticos.com/file/81baca974274944fa45796d7dae8e127/1588437509-articulo-rafael-cascon-exceso-mortalidad-momo2.pdf)_ de unos ingenieros de la UPM que corrige al alza los números de MoMo.

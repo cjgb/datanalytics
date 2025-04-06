@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-13 08:13:29+00:00
-draft: false
-title: Madrid, ¿"ciudad inteligente"?
-
-url: /2016/09/13/madrid-ciudad-inteligente-2/
 categories:
 - números
+date: 2016-09-13 08:13:29+00:00
+draft: false
+lastmod: '2025-04-06T19:02:35.928994'
+related:
+- 2015-04-22-madrid-ciudad-inteligente.md
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
+- 2014-07-23-si-participase-en-maddata.md
+- 2018-12-03-sobre-madrid-central.md
+- 2019-01-22-es-madrid-ciudad-para-startups-relacionadas-con-los-datos.md
 tags:
 - madrid
 - smart city
+title: Madrid, ¿"ciudad inteligente"?
+url: /2016/09/13/madrid-ciudad-inteligente-2/
 ---
 
 [Aquí](http://www.economiadigital.es/es/notices/2015/06/carmena-se-lo-toma-con-calma-a-la-hora-de-licitar-nuevos-contratos-73419.php) leí cómo

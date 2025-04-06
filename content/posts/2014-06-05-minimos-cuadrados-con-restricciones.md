@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-05 07:09:02+00:00
-draft: false
-title: Mínimos cuadrados con restricciones
-
-url: /2014/06/05/minimos-cuadrados-con-restricciones/
 categories:
 - estadística
 - r
+date: 2014-06-05 07:09:02+00:00
+draft: false
+lastmod: '2025-04-06T19:07:37.857704'
+related:
+- 2014-06-09-por-que-de-los-minimos-cuadrados-con-restricciones.md
+- 2016-09-01-mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa.md
+- 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2016-03-21-caret-y-rejillas-es-necesario-utilizar-fuerza-bruta.md
 tags:
 - constrOptim
 - estadística
 - optimización
 - r
+title: Mínimos cuadrados con restricciones
+url: /2014/06/05/minimos-cuadrados-con-restricciones/
 ---
 
 Sí, había restricciones. No me preguntéis por qué, pero los coeficientes tenían que ser positivos y sumar uno. Es decir, buscaba la combinación convexa de cuatro vectores que más se aproximase a `y` en alguna métrica razonable. Y lo resolví así:
@@ -50,4 +56,3 @@ Objetos aparte de `x` e `y`, hay:
 * `ci`, un vector, que restringen las soluciones factibles a aquellas que cumplen que `ui %*% x  > ci`.
 * `theta` que es un valor inicial que tiene que cumplir la restricción anterior.
 * `constrOptim`, que hace toda la magia.
-

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-12-04 07:43:34+00:00
-draft: false
-title: Ayuda de R en español
-
-url: /2013/12/04/ayuda-de-r-en-espanol/
 categories:
 - r
+date: 2013-12-04 07:43:34+00:00
+draft: false
+lastmod: '2025-04-06T18:49:59.381786'
+related:
+- 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md
+- 2010-04-18-los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2011-07-28-el-paquete-pxr-en-cran.md
+- 2012-06-07-hoy-hablaremos-de-r-es-org.md
 tags:
 - r
 - r-help-es
+title: Ayuda de R en español
+url: /2013/12/04/ayuda-de-r-en-espanol/
 ---
 
 He ejecutado hoy tres ficheros secuencialmente:

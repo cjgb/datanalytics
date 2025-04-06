@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-06 08:07:56+00:00
-draft: false
-title: Experimentos con el paquete gbm
-
-url: /2014/02/06/experimentos-con-el-paquete-gbm/
 categories:
 - ciencia de datos
 - estadística
+date: 2014-02-06 08:07:56+00:00
+draft: false
+lastmod: '2025-04-06T19:08:24.217470'
+related:
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - gbm
 - glm
 - poisson
 - stepwise
+title: Experimentos con el paquete gbm
+url: /2014/02/06/experimentos-con-el-paquete-gbm/
 ---
 
 No conocía el [paquete `gbm`](http://cran.r-project.org/web/packages/gbm/index.html). Pero como ahora ando rodeado de _data scientists_ que no son estadísticos...

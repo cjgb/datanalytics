@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-08-06 08:13:17+00:00
-draft: false
-title: Dos análisis y una pregunta
-
-url: /2015/08/06/dos-analisis-y-una-pregunta/
 categories:
 - números
+date: 2015-08-06 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T18:47:39.544055'
+related:
+- 2011-02-25-1605.md
+- 2024-11-14-simpson-productividad.md
+- 2011-08-25-ubi-ratio-ibi-paradoxa-simpsorum.md
+- 2013-01-14-algunos-resultados-de-la-encuesta-trimestral-de-coste-laboral.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
 tags:
 - números
 - productividad
 - mala ciencia
 - economía
 - ruido
+title: Dos análisis y una pregunta
+url: /2015/08/06/dos-analisis-y-una-pregunta/
 ---
 
 El primero:

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-14 08:13:31+00:00
-draft: false
-title: Las distribuciones (y platos) con nombre
-
-url: /2016/06/14/las-distribuciones-con-nombre-son-como-los-platos-con-nombre/
 categories:
 - estadística
+date: 2016-06-14 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T18:51:42.454953'
+related:
+- 2011-01-19-dos-mapas-de-distribuciones-de-probabilidad.md
+- 2014-06-25-el-indice-de-birrieza-para-distribuciones-de-probabilidad.md
+- 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
+- 2014-10-13-los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera.md
+- 2023-11-21-sumas-lognormales.md
 tags:
 - distribuciones
 - estadística
 - probabilidad
+title: Las distribuciones (y platos) con nombre
+url: /2016/06/14/las-distribuciones-con-nombre-son-como-los-platos-con-nombre/
 ---
 
 Hay platos con nombre. P.e., tortilla de patata o tiramisú. También hay distribuciones (de probabilidad) con nombre. P.e., normal, binomial, Poisson, hipergeométrica.

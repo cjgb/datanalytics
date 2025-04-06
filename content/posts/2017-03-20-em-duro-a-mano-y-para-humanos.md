@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-20 08:13:22+00:00
-draft: false
-title: EM (duro) a mano (y para humanos)
-
-url: /2017/03/20/em-duro-a-mano-y-para-humanos/
 categories:
 - estadística
 - r
+date: 2017-03-20 08:13:22+00:00
+draft: false
+lastmod: '2025-04-06T18:44:58.261080'
+related:
+- 2018-03-01-kriging-con-stan.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2020-04-14-consensus-clustering.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 tags:
 - em
 - estadística
 - r
+title: EM (duro) a mano (y para humanos)
+url: /2017/03/20/em-duro-a-mano-y-para-humanos/
 ---
 
 Dada una configuración de puntos tal como

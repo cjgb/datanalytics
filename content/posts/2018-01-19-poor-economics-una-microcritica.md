@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-19 08:13:30+00:00
-draft: false
-title: '"Poor economics": una microcrítica'
-
-url: /2018/01/19/poor-economics-una-microcritica/
 categories:
 - libros
+date: 2018-01-19 08:13:30+00:00
+draft: false
+lastmod: '2025-04-06T19:01:14.063325'
+related:
+- 2020-05-26-poor-economics-el-resumen.md
+- 2017-07-04-dudas-razonables-que-me-asaltan.md
+- 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 tags:
 - libros
 - pobreza
+title: '"Poor economics": una microcrítica'
+url: /2018/01/19/poor-economics-una-microcritica/
 ---
 
 Me interesó [_Poor Economics_](https://www.pooreconomics.com/) porque alguien en un canal de Telegram que medio sigo dijo que era un libro que tenía siempre en la mesilla. Así que lo bajé de [`libgen`](https://en.wikipedia.org/wiki/Library_Genesis) y lo fui leyendo en el metro.

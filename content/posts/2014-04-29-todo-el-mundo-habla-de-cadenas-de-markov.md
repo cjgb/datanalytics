@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-29 07:19:00+00:00
-draft: false
-title: Todo el mundo habla de cadenas de Markov
-
-url: /2014/04/29/todo-el-mundo-habla-de-cadenas-de-markov/
 categories:
 - programación
 - estadística
 - probabilidad
+date: 2014-04-29 07:19:00+00:00
+draft: false
+lastmod: '2025-04-06T19:10:59.341238'
+related:
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2013-05-13-charla-un-lematizador-probabilistico-con-r.md
+- 2014-03-13-el-escritor-exemplar.md
+- 2019-01-09-cadenas-de-markov-para-generar-trayectorias-posibles-de-huracanes.md
+- 2014-10-03-lengua-y-markov-en-martinacocina-este-sabado.md
 tags:
 - estadística
 - markov
 - probabilidad
+title: Todo el mundo habla de cadenas de Markov
+url: /2014/04/29/todo-el-mundo-habla-de-cadenas-de-markov/
 ---
 
 Todo el mundo habla últimamente de cadenas de Markov. ¿No os habéis dado cuenta? ¿O seré yo el que saca a relucir el asunto venga o no al caso? Sea que se haya puesto de moda o que esté mi misma obsesión por el asunto sesgando mi impresión sobre sobre (me encanta escribir dos preposiciones seguidas) lo que la gente habla, es el caso que el otro día me comprometí a escribir sobre

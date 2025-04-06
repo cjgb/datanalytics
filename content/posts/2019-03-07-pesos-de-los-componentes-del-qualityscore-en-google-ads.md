@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-07 08:13:34+00:00
-draft: false
-title: Pesos de los componentes del QualityScore en Google Ads
-
-url: /2019/03/07/pesos-de-los-componentes-del-qualityscore-en-google-ads/
 categories:
 - consultoría
 - r
+date: 2019-03-07 08:13:34+00:00
+draft: false
+lastmod: '2025-04-06T18:59:36.832204'
+related:
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2024-06-20-mas-r-cuadrado.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
 tags:
 - google ads
 - regresión lineal
 - r
+title: Pesos de los componentes del QualityScore en Google Ads
+url: /2019/03/07/pesos-de-los-componentes-del-qualityscore-en-google-ads/
 ---
 
 El llamado QualityScore tiene su relevancia en Google Ads. Es un indicador con valores entre 1 y 10 asignado por Google que se basa en tres variables que están descritas por ahí:

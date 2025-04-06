@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-27 08:13:29+00:00
-draft: false
-title: Varianzas y variaciones de netos
-
-url: /2015/02/27/varianzas-y-variaciones-de-netos/
 categories:
 - números
+date: 2015-02-27 08:13:29+00:00
+draft: false
+lastmod: '2025-04-06T19:05:24.548396'
+related:
+- 2015-02-23-mas-sobre-el-error-de-medida.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2015-04-24-el-sujeto-numero-82694.md
+- 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md
+- 2015-02-20-error-de-medida.md
 tags:
 - números
 - varianza
+title: Varianzas y variaciones de netos
+url: /2015/02/27/varianzas-y-variaciones-de-netos/
 ---
 
 Muchas cifras de interés son netos de dos magnitudes. Por ejemplo el déficit/superávit comercial, que es la diferencia entre exportaciones e importaciones; o los beneficios/pérdidas de una empresa, diferencia de ingresos y gastos.

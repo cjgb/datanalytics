@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-15 08:13:53+00:00
-draft: false
-title: 'Distribuciones sin media: ¿qué pueden suponer en la práctica?'
-
-url: /2016/06/15/distribuciones-sin-media-que-pueden-suponer-en-la-practica/
 categories:
 - estadística
 - probabilidad
+date: 2016-06-15 08:13:53+00:00
+draft: false
+lastmod: '2025-04-06T18:51:54.473607'
+related:
+- 2010-05-25-sobre-la-media-y-la-mediana.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - cauchy
 - distribuciones
 - media
+title: 'Distribuciones sin media: ¿qué pueden suponer en la práctica?'
+url: /2016/06/15/distribuciones-sin-media-que-pueden-suponer-en-la-practica/
 ---
 
 Aunque esta entrada es sin duda resabida de los más de mis lectores, quedarán los que aún no sepan que ciertas distribuciones no tienen media. Condición necesaria para que una distribución la tenga es que

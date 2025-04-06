@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-26 09:13:00+00:00
-draft: false
-title: Densidades unidimensionales en R
-
-url: /2020/03/26/densidades-unidimensionales-en-r/
 categories:
 - r
+date: 2020-03-26 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:47:43.799433'
+related:
+- 2018-03-01-kriging-con-stan.md
+- 2020-02-24-to-irls-or-not-to-irls.md
+- 2020-09-24-un-decepcionante-metodo-de-inferencia-robusta-para-glms-de-poisson.md
+- 2022-11-04-umap-tsne-etc.md
+- 2016-03-03-mezclas-de-distribuciones-con-rstan.md
 tags:
 - artículos
 - ash
@@ -15,6 +19,8 @@ tags:
 - logspline
 - paquetes
 - r
+title: Densidades unidimensionales en R
+url: /2020/03/26/densidades-unidimensionales-en-r/
 ---
 
 Es un asunto tangencial que, además, se soluciona las más de las veces con `density`. Pero parece que tiene mucha más ciencia detrás.

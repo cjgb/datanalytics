@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-22 08:13:24+00:00
-draft: false
-title: Análisis estadístico de respuestas ocultas en encuestas
-
-url: /2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/
 categories:
 - estadística
+date: 2016-01-22 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T19:12:14.631941'
+related:
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2018-10-23-abc-2.md
+- 2022-09-13-errores-cierto-tipo-encuestas.md
 tags:
 - encuestas
 - estadística bayesiana
 - r
 - stan
+title: Análisis estadístico de respuestas ocultas en encuestas
+url: /2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/
 ---
 
 A veces se hacen encuestas sobre temas sobre los que los encuestados son reticentes a revelar la verdad (p.e., [¿es Vd. un zombi?](http://www.datanalytics.com/2016/01/21/a-cuantos-zombis-conoces/)). Un procedimiento conocido para recabar tal tipo de información es el siguiente:

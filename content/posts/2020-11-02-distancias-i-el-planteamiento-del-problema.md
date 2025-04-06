@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-02 09:13:00+00:00
-draft: false
-title: 'Distancias (I): el planteamiento del problema'
-
-url: /2020/11/02/distancias-i-el-planteamiento-del-problema/
 categories:
 - consultoría
 - estadística
+date: 2020-11-02 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:47:34.625572'
+related:
+- 2020-11-23-distancias-v-el-colofon-ironico-especulativo.md
+- 2020-11-03-distancias-ii-las-distancias-no-son-distancias.md
+- 2020-11-20-distancias-iv-la-solucion-rapida-y-sucia.md
+- 2020-11-06-distancias-iii-la-gran-pregunta.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 tags:
 - consultoría
 - distancia
+title: 'Distancias (I): el planteamiento del problema'
+url: /2020/11/02/distancias-i-el-planteamiento-del-problema/
 ---
 
 Me han pedido (vía Twitter) que desarrolle cosas que tengo por ahí desperdigadas (p.e., en las notas de esos cursos que ya no daré y puede que en algunas entradas viejunas de este blog) sobre distancias.

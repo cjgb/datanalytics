@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-27 06:39:02+00:00
-draft: false
-title: El lucero del alba
-
-url: /2011/12/27/el-lucero-del-alba/
 categories:
 - finanzas
 - r
+date: 2011-12-27 06:39:02+00:00
+draft: false
+lastmod: '2025-04-06T19:12:59.666958'
+related:
+- 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2014-02-20-la-bolsa-intradia-y-bolsa-interdia.md
+- 2013-01-09-el-ibex-35-estilo-gapminder.md
+- 2014-02-18-el-yuyuplot-en-perspectiva.md
+- 2012-10-18-algunos-graficos-de-informacion-bursatil.md
 tags:
 - anumerismo
 - bolsa
 - finanzas
 - r
+title: El lucero del alba
+url: /2011/12/27/el-lucero-del-alba/
 ---
 
 Puede que algunos de mis lectores sepan que el [lucero del alba](http://es.wikipedia.org/wiki/Lucero_del_alba) es el nombre con que se conoce al planeta Venus cuando es visible en el cielo al amanecer.

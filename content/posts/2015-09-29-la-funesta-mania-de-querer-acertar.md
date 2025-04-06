@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-29 08:13:51+00:00
-draft: false
-title: La funesta manía de querer acertar
-
-url: /2015/09/29/la-funesta-mania-de-querer-acertar/
 categories:
 - estadística
+date: 2015-09-29 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T18:59:12.345200'
+related:
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 tags:
 - elecciones
 - encuestas
 - estadística
 - predicción
+title: La funesta manía de querer acertar
+url: /2015/09/29/la-funesta-mania-de-querer-acertar/
 ---
 
 Vayan dos cosas por delante:

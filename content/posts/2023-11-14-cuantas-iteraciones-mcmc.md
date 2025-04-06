@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-14
-draft: false
-title: ¿Cuántas iteraciones necesita mi MCMC?
-
-url: /2023/11/14/charla-oviedo-sistemas-recomendacion/
 categories:
 - estadística
+date: 2023-11-14
+draft: false
+lastmod: '2025-04-06T18:56:20.329734'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2016-03-03-mezclas-de-distribuciones-con-rstan.md
+- 2016-03-21-caret-y-rejillas-es-necesario-utilizar-fuerza-bruta.md
 tags:
 - estadística
 - estadística bayesiana
 - mcmc
+title: ¿Cuántas iteraciones necesita mi MCMC?
+url: /2023/11/14/charla-oviedo-sistemas-recomendacion/
 ---
 
 Es el tema de

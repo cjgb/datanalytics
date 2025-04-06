@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-18 09:13:00+00:00
-draft: false
-title: La "cocina", para anumeristas y conspiranoicos
-
-url: /2020/11/18/la-cocina-para-anumeristas-y-conspiranoicos/
 categories:
 - estadística
 - varios
+date: 2020-11-18 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:06.360364'
+related:
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-09-26-encuestas-electorales-una-propuesta.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2017-09-05-predecir-a-los-predictores-por-incordiar.md
 tags:
 - cis
 - cocina
 - encuestas
 - política
+title: La "cocina", para anumeristas y conspiranoicos
+url: /2020/11/18/la-cocina-para-anumeristas-y-conspiranoicos/
 ---
 
 El otro día ---no importa dónde--- presencié los denodados y desencaminados esfuerzos de alguien ---tampoco importa quién--- por explicar primero y convencer después de los beneficios de la llamada _cocina_ de las encuestas electorales. Constantado la inoperancia de los argumentos técnicos, estuve pensando un buen rato en buscar símiles cotidianos. Di con este, que es el que comparto por referencia para mí y puede que para otros.

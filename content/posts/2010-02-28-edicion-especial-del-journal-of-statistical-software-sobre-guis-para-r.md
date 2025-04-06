@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-02-28 04:27:58+00:00
-draft: false
-title: Edición especial del Journal of Statistical Software sobre GUIs para R
-
-url: /2010/02/28/edicion-especial-del-journal-of-statistical-software-sobre-guis-para-r/
 categories:
 - r
 - anuncio
+date: 2010-02-28 04:27:58+00:00
+draft: false
+lastmod: '2025-04-06T18:59:21.665551'
+related:
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2012-07-02-graficos-estadisticos-y-mapas-con-r.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
 tags:
 - r
 - guis
+title: Edición especial del Journal of Statistical Software sobre GUIs para R
+url: /2010/02/28/edicion-especial-del-journal-of-statistical-software-sobre-guis-para-r/
 ---
 
 Se ha [anunciado](http://permalink.gmane.org/gmane.comp.lang.r.devel/23721) recientemente una edición especial del [Journal of Statistical Software](http://www.jstatsoft.org/) acerca de interfaces gráficas para R. Los editores son [Pedro Valero Mora](http://www.uv.es/valerop/) y Rubén Ledesma.

@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-01 09:13:25+00:00
-draft: false
-title: Ficheros KML con R y ggmap
-
-url: /2016/03/01/ficheros-kml-con-r-y-ggmap/
 categories:
 - gráficos
 - r
+date: 2016-03-01 09:13:25+00:00
+draft: false
+lastmod: '2025-04-06T18:53:22.499431'
+related:
+- 2013-03-05-ggmap-mapas-con-r.md
+- 2016-04-08-clusters-de-trayectorias-con-la-distancia-de-frechet.md
+- 2016-03-02-pequeno-bug-en-ggmap-no-pinta-el-ultimo-tramo-de-una-ruta.md
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2015-05-27-grafos-por-vecindad-en-mapas.md
 tags:
 - ggmap
 - gráficos
@@ -15,6 +19,8 @@ tags:
 - mapas
 - maptools
 - r
+title: Ficheros KML con R y ggmap
+url: /2016/03/01/ficheros-kml-con-r-y-ggmap/
 ---
 
 Fácil:

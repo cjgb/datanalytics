@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-22 07:13:49+00:00
-draft: false
-title: La diapositiva perdida, versión algo más extendida
-
-url: /2014/09/22/la-diapositiva-perdida-version-algo-mas-extendida/
 categories:
 - ciencia de datos
 - estadística
 - r
+date: 2014-09-22 07:13:49+00:00
+draft: false
+lastmod: '2025-04-06T18:54:50.862135'
+related:
+- 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
 tags:
 - estadística
 - glm
 - poisson
 - procesos puntuales
 - r
+title: La diapositiva perdida, versión algo más extendida
+url: /2014/09/22/la-diapositiva-perdida-version-algo-mas-extendida/
 ---
 
 Tuve que saltarme una diapositiva en el [DataBeers de Madrid](http://www.datanalytics.com/2014/09/18/recordatorio-esta-tarde-participo-en-el-databeers-de-madrid/) del pasado jueves.

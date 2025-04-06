@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-10
-title: '"Denoising diffusion" en una dimensión (entre otras simplificaciones)'
-
-url: /2023/01/10/denoising-difussion-1d/
 categories:
 - ciencia de datos
+date: 2023-01-10
+lastmod: '2025-04-06T18:49:55.374952'
+related:
+- 2022-06-16-modelos-difusion.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2018-03-01-kriging-con-stan.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - ciencia de datos
 - stable diffusion
 - denoising diffusion
 - r
 - deep learning
+title: '"Denoising diffusion" en una dimensión (entre otras simplificaciones)'
+url: /2023/01/10/denoising-difussion-1d/
 ---
 
 ### I. Motivación e introducción

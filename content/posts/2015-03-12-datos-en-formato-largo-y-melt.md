@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-12 08:13:21+00:00
-draft: false
-title: Datos en formato largo y melt
-
-url: /2015/03/12/datos-en-formato-largo-y-melt/
 categories:
 - r
+date: 2015-03-12 08:13:21+00:00
+draft: false
+lastmod: '2025-04-06T18:56:35.372195'
+related:
+- 2011-09-07-el-paquete-reshape-de-r-i-melt.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
+- 2013-05-02-data-table-i-cruces.md
+- 2014-03-25-totales-agregados-por-bloques-en-tablas.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
 tags:
 - melt
 - r
 - reshape2
 - paquetes
+title: Datos en formato largo y melt
+url: /2015/03/12/datos-en-formato-largo-y-melt/
 ---
 
 En ocasiones uno recibe datos no muy distintos de

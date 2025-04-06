@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-01-16
-title: "Causalidad en el EuroMedioMillón"
-url: /2024/01/16/causalidad-conocimiento/
 categories:
 - causalidad
+date: 2024-01-16
+lastmod: '2025-04-06T19:11:57.577280'
+related:
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2011-02-25-1605.md
+- 2022-05-05-individualismo-metodologico.md
+- 2016-09-07-loteria-y-elecciones-se-non-e-vero.md
 tags:
 - causalidad
 - economía
 - loterías
+title: Causalidad en el EuroMedioMillón
+url: /2024/01/16/causalidad-conocimiento/
 ---
 
 Esta entrada trata sobre la causalidad; en particular, sobre que sobre ella nos enseña el artículo

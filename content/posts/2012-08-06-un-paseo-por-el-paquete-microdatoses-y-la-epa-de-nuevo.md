@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-06 07:31:47+00:00
-draft: false
-title: Un paseo por el paquete MicroDatosEs (y la EPA, de nuevo)
-
-url: /2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/
 categories:
 - estadística
 - r
+date: 2012-08-06 07:31:47+00:00
+draft: false
+lastmod: '2025-04-06T19:05:59.247711'
+related:
+- 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
+- 2012-08-13-fallecimientos-y-microdatos.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
+- 2012-07-12-edad-nivel-de-formacion-sexo-y-paro.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 tags:
 - datos abiertos
 - epa
@@ -15,6 +19,8 @@ tags:
 - ine
 - microdatoses
 - r
+title: Un paseo por el paquete MicroDatosEs (y la EPA, de nuevo)
+url: /2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/
 ---
 
 En esta entrada voy a ilustrar el uso del [paquete MicroDatosEs](http://www.datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) que anuncié el otro día. Como indiqué entonces, de momento sólo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
@@ -69,6 +75,3 @@ tasa.paro$factorel <- tasa.paro$factorel / 100    # realmente no necesario
 se obtiene la consabida tasa de paro para el primer trimestre del año.
 
 ¿Se ofrece alguien a completar los detalles hasta construir el [gráfico que mostré el otro día](http://www.datanalytics.com/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/)?
-
-
-

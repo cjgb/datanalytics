@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-03 09:36:40+00:00
-draft: false
-title: ¿Casi todos los resultados científicos que se publican son falsos?
-
-url: /2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/
 categories:
 - estadística
+date: 2011-03-03 09:36:40+00:00
+draft: false
+lastmod: '2025-04-06T19:12:36.538755'
+related:
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2012-08-23-ajustar-o-no-ajustar-esta-es-la-cuestion.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2023-09-28-potencia-tests.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 tags:
 - estadística
 - ciencia
+title: ¿Casi todos los resultados científicos que se publican son falsos?
+url: /2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/
 ---
 
 La falsabilidad es una exigencia de la ciencia que la distinguen, por ejemplo, de la seudociencia. Todo enunciado de valor científico tiene que ser potencialmente refutable. Los resultados científicos, de alguna manera, no son tanto ciertos como refutables y no refutados.

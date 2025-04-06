@@ -1,18 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-02-05 09:13:42+00:00
-draft: false
-title: Los resultados de esta investigación tienen puntos en común con la metodología
-  científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención que la tenga
-
-url: /2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/
 categories:
 - estadística
+date: 2016-02-05 09:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:54:32.536111'
+related:
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2024-10-08-cortos-stats.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md
+- 2019-10-18-el-modelo-son-las-conclusiones.md
 tags:
 - causalidad
 - contaminación
 - estadística
 - prensa
+title: Los resultados de esta investigación tienen puntos en común con la metodología
+  científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención
+  que la tenga
+url: /2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/
 ---
 
 ¡Olé!

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-25 08:13:56+00:00
-draft: false
-title: Cerebros "hackeados"
-
-url: /2019/01/25/cerebros-hackeados/
 categories:
 - ciencia de datos
+date: 2019-01-25 08:13:56+00:00
+draft: false
+lastmod: '2025-04-06T18:57:38.165288'
+related:
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2018-04-02-sobre-lo-de-cambridge-analytica.md
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - albedrío
 - ciencia de datos
 - harari
 - prensa
 - programación
+title: Cerebros "hackeados"
+url: /2019/01/25/cerebros-hackeados/
 ---
 
 Tengo delante _[Los cerebros ‘hackeados’ votan](https://elpais.com/internacional/2019/01/04/actualidad/1546602935_606381.html)_ de Harari, autor de cierta y reciente fama. Elabora sobre un argumento simple y manido: el cerebro funciona como un ordenador y los seres humanos somos no solo perfectamente predecibles sino también perfectamente manipulables. De lo que se derivan muchas funestas consecuencias en lo político y en lo social.

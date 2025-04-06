@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-31 07:34:08+00:00
-draft: false
-title: Graficaca en el FT
-
-url: /2011/05/31/graficaca-en-el-ft/
 categories:
 - estadística
 - gráficos
+date: 2011-05-31 07:34:08+00:00
+draft: false
+lastmod: '2025-04-06T18:51:12.526066'
+related:
+- 2014-02-18-el-yuyuplot-en-perspectiva.md
+- 2011-11-25-escalas-logaritimicas-puede-pero.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2011-01-31-un-grafico-enganabobos.md
+- 2021-11-24-medias-ponderadas-a-lo-uluru.md
 tags:
 - estadística
 - gráficos
+title: Graficaca en el FT
+url: /2011/05/31/graficaca-en-el-ft/
 ---
 
 La gente que escribe en el Financial Times y mucha de la que lo lee suele vestir de traje. Son gente que sabe de lo que habla y están versados en muchos temas no triviales. Podrían ir en chanclas, pantalones cortos y camisetas viejas sin que eso afectase a su conocimiento y entendimiento de las cosas. Si fuese el caso, con cuatro frases que intercambiásemos con ellos nos daríamos cuenta de que la _impresión_ que tal vez no causasen no se corresponde con su erudita esencia. Pero el hecho es que gastan corbata.

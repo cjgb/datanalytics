@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-01 07:08:49+00:00
-draft: false
-title: Dos aplicaciones (¿sorprendentes?) del análisis de la correlación canónica
-
-url: /2011/08/01/dos-aplicaciones-sorprendentes-del-analisis-de-la-correlacion-canonica/
 categories:
 - ciencia de datos
 - estadística
+date: 2011-08-01 07:08:49+00:00
+draft: false
+lastmod: '2025-04-06T18:54:46.871778'
+related:
+- 2015-01-14-rarezas-estadistica-algebraica.md
+- 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-07-14-proximidad-distribuciones.md
 tags:
 - cca
 - estadística
 - ciencia de datos
+title: Dos aplicaciones (¿sorprendentes?) del análisis de la correlación canónica
+url: /2011/08/01/dos-aplicaciones-sorprendentes-del-analisis-de-la-correlacion-canonica/
 ---
 
 Cuando estudiaba en la primavera del 93 álgebra lineal para mis segundos examénes parciales, tenía en el temario ---que no sé si denominar _correctito_--- dos asuntos a los que nuestra profesora ---y es difícil, ¿eh?, aunque admito que entonces no había internet--- no supo sacar punta. Uno era el asunto entero de los valores propios. Recuerdo ahora que me sugerían constantemente la pregunta _¿para qué?_

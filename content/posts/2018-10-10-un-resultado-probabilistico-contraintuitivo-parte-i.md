@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-10 08:13:03+00:00
-draft: false
-title: Un resultado probabilístico contraintuitivo (parte I)
-
-url: /2018/10/10/un-resultado-probabilistico-contraintuitivo-parte-i/
 categories:
 - probabilidad
+date: 2018-10-10 08:13:03+00:00
+draft: false
+lastmod: '2025-04-06T18:44:24.762970'
+related:
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2015-08-10-estar-en-racha-y-promediar-promedios.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2014-01-09-como-apostar-si-tienes-que.md
 tags:
 - paradojas
 - probabilidad
+title: Un resultado probabilístico contraintuitivo (parte I)
+url: /2018/10/10/un-resultado-probabilistico-contraintuitivo-parte-i/
 ---
 
 A elige dos números con una distribución de probabilidad _cualquiera_,

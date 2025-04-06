@@ -1,14 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-25
-title: "Universo y muestra: un ejemplo muy didáctico en el que La Caixa lo hace todo mal"
-url: /2022/01/25/universo-muestra-la-caixa/
 categories:
 - estadística
+date: 2022-01-25
+lastmod: '2025-04-06T18:52:42.205931'
+related:
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - estadística
 - muestreo
 - big data
+title: 'Universo y muestra: un ejemplo muy didáctico en el que La Caixa lo hace todo
+  mal'
+url: /2022/01/25/universo-muestra-la-caixa/
 ---
 
 Los manuales de estadística al uso introducen los conceptos de universo y muestra y tienden a ilustrarlos con ejemplos _buenos_. Pero los ejemplos _buenos_ son útiles solo hasta cierto punto: ilustran, como digo, pero ni caracterizan ni delimitan. Los ejemplos malos, sin embargo, son muy útiles porque ayudan a trazar una frontera entre lo que es y lo que no es permisible.

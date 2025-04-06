@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-22 13:31:31+00:00
-draft: false
-title: Más sobre el caso WPS vs. SAS
-
-url: /2010/08/22/mas-sobre-el-caso-wps-vs-sas/
 categories:
 - varios
+date: 2010-08-22 13:31:31+00:00
+draft: false
+lastmod: '2025-04-06T18:49:44.690575'
+related:
+- 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2010-03-20-leyendo-tablas-de-sas-sin-sas.md
 tags:
 - sas
 - software
 - wps
+title: Más sobre el caso WPS vs. SAS
+url: /2010/08/22/mas-sobre-el-caso-wps-vs-sas/
 ---
 
 Ayer quise publicar un comentario a [este artículo](http://www.informationweek.com/news/business_intelligence/analytics/showArticle.jhtml;jsessionid=34KXP4YZ520ALQE1GHRSKHWATMY32JVN?articleID=226500288&pgno=1&queryText=&isPrev=) sobre el reciente veredicto del caso SAS vs. WPS. Aunque ya hablé de eso el otro día, como no me lo publicaron (por ingnotas razones), hago constancia de mi comentario aquí:

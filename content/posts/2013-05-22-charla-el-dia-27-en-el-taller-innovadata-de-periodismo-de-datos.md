@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-05-22 10:30:03+00:00
-draft: false
-title: Charla el día 27 en el Taller InnovaData de periodismo de datos
-
-url: /2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/
 categories:
 - cursos
 - anuncio
+date: 2013-05-22 10:30:03+00:00
+draft: false
+lastmod: '2025-04-06T18:52:06.068087'
+related:
+- 2013-05-29-video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos.md
+- 2017-09-25-charla-en-pamplona.md
+- 2018-11-28-charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos.md
+- 2015-05-04-charla-en-visualizar15.md
+- 2016-04-05-nos-vemos-en-el-machine-learning-spain-xii.md
 tags:
 - competición
 - cursos
 - estadística
 - periodismo de datos
 - anuncio
+title: Charla el día 27 en el Taller InnovaData de periodismo de datos
+url: /2013/05/22/charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos/
 ---
 
 El lunes que viene, día 27 de mayo, impartiré un taller de... bueno, según el programa, de _[Principios básicos de estadística](https://www.centrodeinnovacionbbva.com/contents/21636-innovadata-taller-sobre-periodismo-de-datos)_. En realidad quiero hablar principalmente de cómo evitar incurrir en el poco conocido error de tipo III —dar la respuesta correcta al problema equivocado— y, en particular, de tres de los fenómenos que nos conducen hacia él:

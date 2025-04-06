@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-06-03
-title: "Descuento hiperbólico: lo que es y lo que no es"
-url: /2024/06/03/descuento-hiperbolico
 categories:
 - varios
+date: 2024-06-03
+lastmod: '2025-04-06T18:55:39.035777'
+related:
+- 2023-02-16-descuento-hiperbolico.md
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
+- 2014-02-14-memoria-de-decaimiento-exponencial-y-canutos-asincronos.md
+- 2024-10-03-ergodicidad.md
 tags:
 - descuento hiperbólico
 - sicología
 - economía
 - matemáticas
+title: 'Descuento hiperbólico: lo que es y lo que no es'
+url: /2024/06/03/descuento-hiperbolico
 ---
 
 ### I.

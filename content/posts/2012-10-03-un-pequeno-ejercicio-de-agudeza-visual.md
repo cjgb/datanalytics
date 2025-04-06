@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-03 07:15:30+00:00
-draft: false
-title: Un pequeño ejercicio de agudeza visual
-
-url: /2012/10/03/un-pequeno-ejercicio-de-agudeza-visual/
 categories:
 - estadística
 - números
+date: 2012-10-03 07:15:30+00:00
+draft: false
+lastmod: '2025-04-06T18:58:32.691411'
+related:
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2011-11-25-escalas-logaritimicas-puede-pero.md
+- 2011-11-03-2872.md
+- 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
 tags:
 - datos abiertos
 - estadística
 - números
 - periodismo de datos
+title: Un pequeño ejercicio de agudeza visual
+url: /2012/10/03/un-pequeno-ejercicio-de-agudeza-visual/
 ---
 
 Consiste en echarle un vistazo a

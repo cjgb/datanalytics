@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-23 09:13:00+00:00
-draft: false
-title: Hospitales y camas en la Comunidad de Madrid
-
-url: /2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/
 categories:
 - números
+date: 2020-03-23 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:48:22.472835'
+related:
+- 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2020-05-12-cuando-sea-mayor-quiero-escribir-informes-como-esos.md
 tags:
 - coronavirus
 - hospitales
 - madrid
 - sanidad
+title: Hospitales y camas en la Comunidad de Madrid
+url: /2020/03/23/hospitales-y-camas-en-la-comunidad-de-madrid/
 ---
 
 _[Enhorabuena, pienses lo que pienses, en esta entrada vas a encontrar argumentos que reforzarán tus prioris.]_

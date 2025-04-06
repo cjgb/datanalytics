@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-11-28
-title: 'Unas cuantas herramientas tecnológicas'
-url: /2024/11/28/cortos-estadística
 categories:
 - cortos
+date: 2024-11-28
+lastmod: '2025-04-06T18:50:30.303579'
+related:
+- 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
+- 2025-03-04-cortos-stats.md
+- 2010-09-19-jdm-fuese-y-no-hubo-nada.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - estadística
 - tecnología
 - bases de datos
 - z3
 - bm25
+title: Unas cuantas herramientas tecnológicas
+url: /2024/11/28/cortos-estadística
 ---
 
 ### Modelos directamente en base de datos

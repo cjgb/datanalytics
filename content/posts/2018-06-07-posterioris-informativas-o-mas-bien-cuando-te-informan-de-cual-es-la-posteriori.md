@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-06-07 08:13:55+00:00
-draft: false
-title: Posterioris informativas (o más bien, cuando te informan de cuál es la posteriori)
-
-url: /2018/06/07/posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori/
 categories:
 - consultoría
+date: 2018-06-07 08:13:55+00:00
+draft: false
+lastmod: '2025-04-06T18:45:00.311661'
+related:
+- 2015-09-07-prioris-subjetivas.md
+- 2019-03-15-si-los-prejuicios-son-prioris-entonces.md
+- 2016-03-08-sin-datos-solo-eres-alguien-con-una-priori.md
+- 2016-01-04-las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas.md
+- 2016-10-20-el-principio-de-informacion.md
 tags:
 - ciencia de datos
 - consultoría
 - posteriori
 - priori
+title: Posterioris informativas (o más bien, cuando te informan de cuál es la posteriori)
+url: /2018/06/07/posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori/
 ---
 
 El otro día, en la ronda de preguntas tras mi charla en la Universidad de Zaragoza, después de mi enconada defensa de las _prioris_ informativas, alguien apostilló muy agudamente: si tenemos prioris muy informativas, ¿para qué queremos datos?

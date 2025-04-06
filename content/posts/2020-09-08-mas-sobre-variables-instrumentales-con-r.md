@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-08 09:13:00+00:00
-draft: false
-title: Más sobre variables instrumentales con R
-
-url: /2020/09/08/mas-sobre-variables-instrumentales-con-r/
 categories:
 - r
+date: 2020-09-08 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:05:52.298187'
+related:
+- 2012-04-19-variables-instrumentales-con-r.md
+- 2018-11-16-colinealidad-y-posterioris.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2015-01-26-cuando-dicen-que-la-variable-x-es-exogena-quieren-decir.md
+- 2017-11-07-intervalos-de-confianza-con-forma-de-rosquilla.md
 tags:
 - econometría
 - r
 - stan
 - variables instrumentales
+title: Más sobre variables instrumentales con R
+url: /2020/09/08/mas-sobre-variables-instrumentales-con-r/
 ---
 
 _[El título de esta entrada tiene un + delante porque ya escribí sobre el asunto[ tiempo atrás](https://www.datanalytics.com/2012/04/19/variables-instrumentales-con-r/).]_
@@ -28,4 +34,3 @@ En resumen:
 
 * Las dos ecuaciones (o conjuntos de ecuaciones) se ajustan simultáneamente extendiendo (apilando) las variables objetivo de ambas ecuaciones y creando la matriz de diseño correspondiente. Es precisamente en la construcción de la matriz de diseño que hay que proceder en dos pasos: primero se generan estimaciones de las varaiables endógenas y luego estas se usan para crear las estimaciones de las objetivo.
 * La covarianza entre los términos de error se modela explícitamente. El autor de los dos documentos anteriores usa una parametrización de la matriz de covarianzas en términos de escala y correlación.
-

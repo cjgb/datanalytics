@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-27 07:39:31+00:00
-draft: false
-title: Sobre la economía del lenguaje
-
-url: /2011/09/27/sobre-la-economia-del-lenguaje/
 categories:
 - estadística
 - nlp
 - probabilidad
+date: 2011-09-27 07:39:31+00:00
+draft: false
+lastmod: '2025-04-06T18:52:20.067232'
+related:
+- 2023-10-05-llms-historia.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2010-08-16-leyendo-en-diagonal-pero-con-cuidado.md
+- 2022-09-01-tf-idf.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - estadística
 - nlp
 - probabilidad
 - economía
+title: Sobre la economía del lenguaje
+url: /2011/09/27/sobre-la-economia-del-lenguaje/
 ---
 
 De acuerdo con una observación de [Zipf](http://es.wikipedia.org/wiki/George_Kingsley_Zipf) (y supongo que de muchos otros y que no hay que confundir con [su ley](http://es.wikipedia.org/wiki/Ley_de_Zipf)), la longitud de las palabras más corrientes es menor que las que se usan menos frecuentemente.

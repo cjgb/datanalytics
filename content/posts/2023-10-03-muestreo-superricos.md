@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-10-03
-title: 'Si tus datos son minúsculos y están hipersesgados, no los tires a la basura: aquí te contamos cómo reciclarlos.'
-
-url: /2023/10/03/muestrear-superricos
 categories:
 - estadística
+date: 2023-10-03
+lastmod: '2025-04-06T19:11:05.514796'
+related:
+- 2018-04-02-sobre-lo-de-cambridge-analytica.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
+- 2024-07-03-cortos-stats.md
+- 2012-05-14-c2bfse-puede-predecir-con-twitter.md
 tags:
 - estadística
 - sociología
 - muestreo
+title: 'Si tus datos son minúsculos y están hipersesgados, no los tires a la basura:
+  aquí te contamos cómo reciclarlos.'
+url: /2023/10/03/muestrear-superricos
 ---
 
 ### I.

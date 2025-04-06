@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-27 09:13:00+00:00
-draft: false
-title: Anomalías, cantidad de información e "isolation forests"
-
-url: /2020/10/27/anomalias-cantidad-de-informacion-e-isolation-forests/
 categories:
 - ciencia de datos
+date: 2020-10-27 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:53:03.882655'
+related:
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2024-02-13-outliers-dos-modos.md
+- 2022-03-24-infradispersion-fraude.md
+- 2020-07-21-analisis-de-arquetipos.md
 tags:
 - anomalías
 - ciencia de datos
 - isolation forest
 - outliers
+title: Anomalías, cantidad de información e "isolation forests"
+url: /2020/10/27/anomalias-cantidad-de-informacion-e-isolation-forests/
 ---
 
 Identificar a un tipo raro es sencillo: el que lleva tatuada a su madre en la frente. Identificar a un tipo normal es más complicado: altura... normal, pelo... ¿moreno? Es... como... normal, ni gordo ni flaco...

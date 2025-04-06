@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-04 09:13:00+00:00
-draft: false
-title: 'PIB trimestral: una alternativa gráfica a la representación tradicional para
-  los tiempos del coronavirus'
-
-url: /2020/11/04/pib-trimestral-una-alternativa-grafica-a-la-representacion-tradicional-para-los-tiempos-del-coronavirus/
 categories:
 - gráficos
+date: 2020-11-04 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:55:18.603974'
+related:
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
+- 2011-11-25-escalas-logaritimicas-puede-pero.md
+- 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
 tags:
 - coronavirus
 - economía
 - gráficos
 - pib
+title: 'PIB trimestral: una alternativa gráfica a la representación tradicional para
+  los tiempos del coronavirus'
+url: /2020/11/04/pib-trimestral-una-alternativa-grafica-a-la-representacion-tradicional-para-los-tiempos-del-coronavirus/
 ---
 
 Gráficas que muestran la _velocidad_ a la que varía el PIB como

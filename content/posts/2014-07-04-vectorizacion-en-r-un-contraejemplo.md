@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-04 07:13:15+00:00
-draft: false
-title: 'Vectorización en R: un contraejemplo'
-
-url: /2014/07/04/vectorizacion-en-r-un-contraejemplo/
 categories:
 - programación
+date: 2014-07-04 07:13:15+00:00
+draft: false
+lastmod: '2025-04-06T18:50:18.308785'
+related:
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2011-05-18-solipsismo-comunidad-y-rendimiento.md
+- 2012-03-06-mas-sobre-julia-ii-mi-primer-programa.md
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
 tags:
 - econometría
 - r
 - vectorización
+title: 'Vectorización en R: un contraejemplo'
+url: /2014/07/04/vectorizacion-en-r-un-contraejemplo/
 ---
 
 No hay regla sin excepción, dicen. Para la recomendación casi única para quienes se quejan de la lentitud de R, es decir, ¡vectoriza!, he encontrado hoy [una](http://www.fedeablogs.net/economia/?p=38514).

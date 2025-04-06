@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-10-08
-title: 'Algunos apuntes sueltos sobre causalidad'
-url: /2024/10/08/cortos-estadística
 categories:
 - cortos
+date: 2024-10-08
+lastmod: '2025-04-06T19:08:09.344690'
+related:
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2025-03-11-cortos-causalidad.md
+- 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
 tags:
 - causalidad
 - diferencias en diferencias
 - mortalidad
+title: Algunos apuntes sueltos sobre causalidad
+url: /2024/10/08/cortos-estadística
 ---
 
 Bajo cierto punto de vista, el estudio estadístico de la causalidad viene a consistir en la estimación de _modelos incompletos_. Un modelo completo es uno que contiene todas las ecuaciones / relaciones causales que afectan a un fenómeno. En uno incompleto, las variables y ecuaciones faltantes introducen sesgos de distinta naturaleza. Uno de los sitios donde mejor lo he visto contar es en [_Simulating confounders, colliders and mediators_](http://freerangestats.info/blog/2023/06/04/causality-sims.html), de donde extraigo, además, el siguiente gráfico:

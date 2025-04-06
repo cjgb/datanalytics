@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-30 06:52:59+00:00
-draft: false
-title: 'Dont be loopy! (III: jackknife y paralelismo)'
-
-url: /2011/09/30/dont-be-loopy-iii-jackknife-y-paralelismo/
 categories:
 - r
+date: 2011-09-30 06:52:59+00:00
+draft: false
+lastmod: '2025-04-06T18:54:45.532195'
+related:
+- 2011-08-11-dont-be-loopy.md
+- 2011-09-23-done28099t-be-loopy-ii.md
+- 2010-09-01-el-paquete-multicore-de-r.md
+- 2011-04-08-paralelizacion-de-bucles-con-foreach.md
+- 2014-06-06-validacion-cruzada-en-paralelo.md
 tags:
 - jackknife
 - paralelización
 - r
 - sas
+title: 'Dont be loopy! (III: jackknife y paralelismo)'
+url: /2011/09/30/dont-be-loopy-iii-jackknife-y-paralelismo/
 ---
 
 Esta es la tercera entrega de una serie de artículos en los que comparo SAS y R a la hora de realizar diversos tipos de simulaciones basados en _[Don't Be Loopy: Re-Sampling and Simulation the SAS® Way](http://www.pnwsug.org/sites/test.pnwsug.org/files/proceedings/David%20Cassell%20-%20Don't%20Be%20Loopy.pdf)_.
@@ -109,4 +115,3 @@ res <- foreach( i = 1:N, packages = "moments" ) %do%
 Es necesario pasarle a `foreach` el nombre de los paquetes necesarios para ejecutar el código subsiguiente: si ejecutamos las líneas anteriores omitiendo el parámetro `.packages`, R se quejará por no poder encontrar la función `kurtosis`.
 
 Los resultados no han resultado particularmente satisfactorios. Con la segunda opción, la secuencial, ha tardado 23 segundos. Con la primera, en paralelo, 14.58. Parece que el uso de `foreach` implica una sobrecarga computacional sustancial que consume los beneficios de la paralelización.
-

@@ -1,14 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-14 09:13:00+00:00
-draft: false
-title: 'Recordatorio: no olvidéis restar los fallecimientos atribuibles al calor en
-  la estimación del efecto de la "segunda ola"'
-
-url: /2020/09/14/recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola/
 categories:
 - estadística
 - números
+date: 2020-09-14 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:25.189386'
+related:
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2021-12-16-mas-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2022-07-21-critica-critica-momo.md
+- 2018-05-25-evolucion-de-la-resistencia-al-calor.md
 tags:
 - coronavirus
 - ine
@@ -16,6 +19,9 @@ tags:
 - momo
 - momocalor
 - mortalidad
+title: 'Recordatorio: no olvidéis restar los fallecimientos atribuibles al calor en
+  la estimación del efecto de la "segunda ola"'
+url: /2020/09/14/recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola/
 ---
 
 La estimación de la mortalidad atribuible a la gripe estacional (que no, que no se hace consultando la causa de muerte que consignan los médicos medio al buen tuntún por motivos administrativos y que luego recoge el INE, como parece que dan a entender estos [beneméritos verificadores](https://maldita.es/malditodato/2020/08/27/espana-muertes-causadas-gripe-covid-19/) para la confusión de quienes den su palabra por buena) tiene una complicación sustancial: ocurre simultánea y co-casualmente con el frío, que incrementa las defunciones por motivos otros. En términos estadísticos, es un problema de práctica colinealidad entre dos regresores cuyos coeficientes miden el impacto de la gripe y el frío respectivamente.

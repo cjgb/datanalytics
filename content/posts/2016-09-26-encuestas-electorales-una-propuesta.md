@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-26 08:13:19+00:00
-draft: false
-title: 'Encuestas electorales: una propuesta'
-
-url: /2016/09/26/encuestas-electorales-una-propuesta/
 categories:
 - estadística
+date: 2016-09-26 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:06:32.347502'
+related:
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-06-30-gestion-de-la-mendacidad-encuestoelectoral.md
 tags:
 - cis
 - encuestas
 - estadística
 - encuestas electorales
 - gelman
+title: 'Encuestas electorales: una propuesta'
+url: /2016/09/26/encuestas-electorales-una-propuesta/
 ---
 
 No estoy muy al tanto de la regulación que afecta a la confección de encuestas electorales. Me consta la existencia de algunas normas, como la prohibición de publicarlas durante los últimos días de la campaña. No sé si fiarme de mi memoria a la hora de añadir alguna relativa a cuestiones técnicas, como la de que vayan acompañadas de una ficha metodológica.

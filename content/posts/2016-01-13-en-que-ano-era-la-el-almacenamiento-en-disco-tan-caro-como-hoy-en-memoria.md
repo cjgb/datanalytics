@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-13 08:13:07+00:00
-draft: false
-title: ¿En qué año era la el almacenamiento en disco tan caro como hoy en memoria?
-
-url: /2016/01/13/en-que-ano-era-la-el-almacenamiento-en-disco-tan-caro-como-hoy-en-memoria/
 categories:
 - r
+date: 2016-01-13 08:13:07+00:00
+draft: false
+lastmod: '2025-04-06T19:10:24.103436'
+related:
+- 2011-03-04-1680.md
+- 2013-11-04-un-record-personal.md
+- 2016-05-23-tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas.md
+- 2010-09-02-muestreando-bases-de-datos.md
+- 2014-02-18-el-yuyuplot-en-perspectiva.md
 tags:
 - hardware
 - memoria
 - r
+title: ¿En qué año era la el almacenamiento en disco tan caro como hoy en memoria?
+url: /2016/01/13/en-que-ano-era-la-el-almacenamiento-en-disco-tan-caro-como-hoy-en-memoria/
 ---
 
 La respuesta a sea pregunta, y siempre de acuerdo con los [datos de John C. McCallum](http://www.jcmit.com/), la da

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-06-12 09:13:26+00:00
-draft: false
-title: Más sobre la paradoja de Berkson
-
-url: /2019/06/12/mas-sobre-la-paradoja-de-berkson/
 categories:
 - probabilidad
+date: 2019-06-12 09:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:53:26.500572'
+related:
+- 2015-10-19-la-paradoja-de-berkson.md
+- 2015-08-07-una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta.md
+- 2021-03-18-la-teoria-de-la-probabilidad-no-extiende-la-logica.md
+- 2023-07-20-coeficientes-no-identificables.md
+- 2021-03-04-sobre-el-teorema-de-aumann.md
 tags:
 - berkson
 - paradoja de berkson
 - redes bayesianas
+title: Más sobre la paradoja de Berkson
+url: /2019/06/12/mas-sobre-la-paradoja-de-berkson/
 ---
 
 ![](/wp-uploads/2019/06/bergson_paradox.png#center)

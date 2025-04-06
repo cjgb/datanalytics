@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-02 07:12:20+00:00
-draft: false
-title: Grandes avances criptográficos... según El País
-
-url: /2011/12/02/grandes-avances-criptograficos-segun-el-pais/
 categories:
 - números
+date: 2011-12-02 07:12:20+00:00
+draft: false
+lastmod: '2025-04-06T18:45:25.028599'
+related:
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2011-09-06-codigos-de-caracteres-unicode-y-utf-8.md
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
 tags:
 - números
 - criptografía
+title: Grandes avances criptográficos... según El País
+url: /2011/12/02/grandes-avances-criptograficos-segun-el-pais/
 ---
 
 Apenas sé de criptografía y no es un tema que me interese demasiado. Sin embargo leí un artículo en El País de la semana pasada titulado _[Desvelado el significado oculto del 'Copiale Cipher'](http://www.elpais.com/articulo/reportajes/Desvelado/significado/oculto/Copiale/Cipher/elpepusocdmg/20111113elpdmgrep_5/Tes)_. Se refiere a un libro que contenía los estatutos de cierta secta masónica de mediados del siglo XVIII. Y dice textualmente .

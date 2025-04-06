@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-09 06:50:57+00:00
-draft: false
-title: Bajo el capó de teradataR
-
-url: /2011/12/09/bajo-el-capo-de-teradatar/
 categories:
 - r
+date: 2011-12-09 06:50:57+00:00
+draft: false
+lastmod: '2025-04-06T18:52:53.567850'
+related:
+- 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2010-11-22-c2bfotro-bug-de-teradata.md
+- 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
 tags:
 - r
 - sql
 - teradata
+title: Bajo el capó de teradataR
+url: /2011/12/09/bajo-el-capo-de-teradatar/
 ---
 
 Me gustaría haber podido indagar bajo el capó de teradataR, el [paquete de R desarrollado por Teradata](http://developer.teradata.com/applications/articles/in-database-analytics-with-teradata-r) que permite que R realice lo que llaman por ahí _in database analytics _utilizando dicha plataforma propietaria.

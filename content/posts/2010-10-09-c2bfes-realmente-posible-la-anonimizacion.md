@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-09 23:01:06+00:00
-draft: false
-title: ¿Es realmente posible la anonimización?
-
-url: /2010/10/09/es-realmente-posible-la-anonimizacion/
 categories:
 - ciencia de datos
+date: 2010-10-09 23:01:06+00:00
+draft: false
+lastmod: '2025-04-06T19:05:46.112693'
+related:
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2019-08-27-mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos.md
+- 2013-02-06-anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2011-09-22-anonimidad-y-cantidad-de-informacion.md
 tags:
 - ciencia de datos
+title: ¿Es realmente posible la anonimización?
+url: /2010/10/09/es-realmente-posible-la-anonimizacion/
 ---
 
 Pues depende a quién se lo pregunte uno. Por ejemplo, [el 56% de los encuestados por KDnuggets dijeron que sí](http://www.kdnuggets.com/polls/2010/is-anonymization-still-possible.html). En cambio, uno de los lectores de este blog aventuró [lo contrario](http://www.datanalytics.com/2010/10/03/por-que-no-una-competicion/#comments).

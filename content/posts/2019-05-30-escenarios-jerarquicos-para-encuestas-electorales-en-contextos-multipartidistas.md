@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-30 09:13:55+00:00
-draft: false
-title: ¿Escenarios jerárquicos? (para encuestas electorales en contextos multipartidistas)
-
-url: /2019/05/30/escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas/
 categories:
 - varios
+date: 2019-05-30 09:13:55+00:00
+draft: false
+lastmod: '2025-04-06T19:02:08.798383'
+related:
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2015-09-29-la-funesta-mania-de-querer-acertar.md
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
 tags:
 - elecciones
 - encuestas electorales
 - predicción
+title: ¿Escenarios jerárquicos? (para encuestas electorales en contextos multipartidistas)
+url: /2019/05/30/escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas/
 ---
 
 Existe una brecha conceptual entre los pronósticos electorales,

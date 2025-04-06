@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-12 09:47:53+00:00
-draft: false
-title: El precio del petróleo, reflejo del anumerismo de la prensa
-
-url: /2011/01/12/el-precio-del-petroleo-reflejo-del-anumerismo-de-la-prensa/
 categories:
 - números
+date: 2011-01-12 09:47:53+00:00
+draft: false
+lastmod: '2025-04-06T19:11:54.566685'
+related:
+- 2011-11-10-741-millones-de-barriles-de-petroleo-c2bfmucho-o-poco.md
+- 2011-05-20-problema-de-la-semana-sobre-la-media.md
+- 2012-11-14-anumerismo-en-los-medios-y-seudoperiodismo-de-datos.md
+- 2013-08-14-tres-grandes-numeros-con-enmienda.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
 tags:
 - números
+title: El precio del petróleo, reflejo del anumerismo de la prensa
+url: /2011/01/12/el-precio-del-petroleo-reflejo-del-anumerismo-de-la-prensa/
 ---
 
 Nunca sé para quién escribe la gente de los periódicos. Luego [se quejan de que nadie los compra](http://www.elconfidencial.com/cache/2009/03/25/comunicacion_59.html). Cuando me preguntan por qué no lo compro yo, suelo contestar de que no me gusta curiosear conversaciones ajenas. Y es que aunque no sepa para quién escriben, me consta que no lo hacen para mí.

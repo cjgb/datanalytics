@@ -1,17 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-06-15
-title: "Paralelismos entre textos vía embeddings: el caso, por poner uno, de los evangelios de Mateo y Marcos"
-
-url: /2023/06/15/paralelismo-textos/
 categories:
 - estadística
+date: 2023-06-15
+lastmod: '2025-04-06T18:54:41.519004'
+related:
+- 2023-10-31-paralelismo-embeddings.md
+- 2018-10-15-dos-ejercicios-propuestos-sobre-embeddings.md
+- 2023-10-19-errores-chatgpt.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2018-01-29-donde-estan-las-letras.md
 tags:
 - openai
 - embeddings
 - nlp
 - python
 - evangelios
+title: 'Paralelismos entre textos vía embeddings: el caso, por poner uno, de los evangelios
+  de Mateo y Marcos'
+url: /2023/06/15/paralelismo-textos/
 ---
 
 Hace un tiempo tuve que leerlo _todo_ sobre cierto tema. Entre otras cosas, cinco libros bastante parecidos entre sí. Era una continua sensación de _déjà vu_: el capitulo 5 de uno de ellos era casi como el tres de otro, etc. Pensé que podría ser útil ---y hacerme perder menos tiempo--- poder observar el solapamiento _en bloques_ ---sígase leyendo para entender mejor el significado de lo que pretendía---.

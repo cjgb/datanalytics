@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-07-14 09:13:00+00:00
-draft: false
-title: 'Mi apuesta para el larguísimo plazo: Julia'
-
-url: /2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/
 categories:
 - ciencia de datos
 - programación
 - r
+date: 2021-07-14 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:45.120123'
+related:
+- 2019-02-12-sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2012-02-28-julia-nuevo-lenguaje-programacion-cientifica.md
+- 2012-03-06-mas-sobre-julia-ii-mi-primer-programa.md
+- 2022-09-20-tools-etl-memory.md
 tags:
 - ciencia de datos
 - programación
@@ -17,9 +21,11 @@ tags:
 - r
 - sas
 - spss
+title: 'Mi apuesta para el larguísimo plazo: Julia'
+url: /2021/07/14/mi-apuesta-para-el-larguisimo-plazo-julia/
 ---
 
-  * _Larguísimo_, arriba, significa algo así como 10 o 20 años. Vamos, como cuando comencé con R allá por el 2001.
+* _Larguísimo_, arriba, significa algo así como 10 o 20 años. Vamos, como cuando comencé con R allá por el 2001.
   * R es, reconozcámoslo, un carajal. Pocas cosas mejores que [esta](https://www.youtube.com/watch?v=VdD0nHbcyk4) para convencerse.
   * No dejo de pensar en aquello que me dijo un profesor en 2001: que R no podría desplazar a SAS porque no tenía soporte modelos mixtos. Yo no sabía qué eran los modelos mixtos en esa época pero, desde entonces,  vine a entender y considerar que "tener soporte para modelos mixtos" venía a ser como aquello que convertía a un lenguaje para el análisis de datos en una alternativa viable y seria a _lo existente_. Y mirad [esto](https://github.com/JuliaStats/MixedModels.jl).
   * Obviamente, lo de los modelos mixtos no es más que una _metáfora_. Realmente significa algo así como "el sistema X tiene muchas cosas y su alternativa, Y, es un mero juguete". Pero no hay nada que impida que Y comience a implementar todo aquello que le falta. Además, mucho más rápida y eficientemente. P.e., ¿cuánto tardó R en dotarse de su gramática de los gráficos? Pues bien, Juilia ya los tiene. (¿Cómo se dice _leapfrog_ en español?)

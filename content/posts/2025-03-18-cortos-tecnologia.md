@@ -1,11 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-03-18
-title: 'De H3, Z3 y R2 al "vibe coding" pasando por algunos asuntos más'
-description: "Una serie de notas sobre tecnología, LLMs, vibe coding, H3, geodesia, Z3, solvers, postgres y otros asuntos contados con afán divulgativo."
-url: /2025/03/18/cortos-tecnologia
 categories:
 - cortos
+date: 2025-03-18
+description: Una serie de notas sobre tecnología, LLMs, vibe coding, H3, geodesia,
+  Z3, solvers, postgres y otros asuntos contados con afán divulgativo.
+lastmod: '2025-04-06T18:46:49.519484'
+related:
+- 2024-05-09-cortos-tecnologia.md
+- 2025-03-04-cortos-stats.md
+- 2024-02-06-llm-obsidian.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2025-03-25-cortos-llms.md
 tags:
 - geodesia
 - z3
@@ -19,6 +25,8 @@ tags:
 - web-scraping
 - energía solar
 - vibe coding
+title: De H3, Z3 y R2 al "vibe coding" pasando por algunos asuntos más
+url: /2025/03/18/cortos-tecnologia
 ---
 
 Uber ha desarrollado [H3](https://h3geo.org/),

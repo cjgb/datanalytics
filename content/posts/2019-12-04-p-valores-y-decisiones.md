@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-12-04 09:13:00+00:00
-draft: false
-title: P-valores y decisiones
-
-url: /2019/12/04/p-valores-y-decisiones/
 categories:
 - consultoría
 - estadística
 - r
+date: 2019-12-04 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:53:36.592890'
+related:
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2016-01-25-comparaciones-de-tres-grupos-pruebas-vs-modelos.md
 tags:
 - p-valores
 - prueba de hipótesis
 - r
 - remuestreo
+title: P-valores y decisiones
+url: /2019/12/04/p-valores-y-decisiones/
 ---
 
 Los números de esta entrada son reales aunque disfrazados: proceden de un proyecto real. Para medir la efectividad de una serie de modelos que hemos creado en [Circiter](http://www.circiter.es), hemos pedido al cliente lo de siempre: que parta la lista de sujetos en dos _al azar_ para después poder medir los éxitos y fracasos usando dos procedimientos distintos.

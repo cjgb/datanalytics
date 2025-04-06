@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-10-10
-title: '¿Y si calculamos la potencia de un test a posteriori?'
-
-url: /2023/10/10/potencia-tests-estadisticos-ii/
 categories:
 - estadística
+date: 2023-10-10
+lastmod: '2025-04-06T19:08:22.692227'
+related:
+- 2023-09-28-potencia-tests.md
+- 2017-07-13-gelmaneando.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2016-02-03-otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 tags:
 - estadística
 - prueba de hipótesis
 - potencia
+title: ¿Y si calculamos la potencia de un test a posteriori?
+url: /2023/10/10/potencia-tests-estadisticos-ii/
 ---
 
 Esta entrada continúa

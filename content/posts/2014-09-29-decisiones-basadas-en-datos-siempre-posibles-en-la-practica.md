@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-29 07:13:08+00:00
-draft: false
-title: 'Decisiones basadas en datos: ¿siempre posibles en la práctica?'
-
-url: /2014/09/29/decisiones-basadas-en-datos-siempre-posibles-en-la-practica/
 categories:
 - estadística
+date: 2014-09-29 07:13:08+00:00
+draft: false
+lastmod: '2025-04-06T18:53:48.832096'
+related:
+- 2019-07-22-proporciones-pequenas-y-teoremas-de-imposibilidad.md
+- 2018-05-29-guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy.md
+- 2024-07-08-cortos-stats.md
+- 2022-04-05-intervenciones-buenistas.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 tags:
 - campañas
 - estadística
 - publicidad
 - teoría de la decisión
+title: 'Decisiones basadas en datos: ¿siempre posibles en la práctica?'
+url: /2014/09/29/decisiones-basadas-en-datos-siempre-posibles-en-la-practica/
 ---
 
 Me gusta criticar. Bien lo saben quienes me siguen. Pero hoy toca aplaudir un artículo tan raro como valiente. Que no hace sino criticar por mí. Se titula _[On the Near Impossibility of Measuring the Returns to Advertising](http://justinmrao.com/lewis_rao_nearimpossibility.pdf)_. Sus autores, quiero subrayarlo aquí, trabajan en Google y Microsoft.

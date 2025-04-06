@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-17 07:54:12+00:00
-draft: false
-title: Sobre el artículo de Domingos
-
-url: /2014/03/17/sobre-el-articulo-de-domingos/
 categories:
 - ciencia de datos
+date: 2014-03-17 07:54:12+00:00
+draft: false
+lastmod: '2025-04-06T19:10:24.866624'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2023-03-02-conformal-prediction.md
+- 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
 tags:
 - ciencia de datos
 - domingos
+title: Sobre el artículo de Domingos
+url: /2014/03/17/sobre-el-articulo-de-domingos/
 ---
 
 Leí el otro día [_A Few Useful Things to Know about Machine Learning_](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) de [Pedro Domingos](http://homes.cs.washington.edu/~pedrod/), que me dejó ojiplático. Os cuento por qué.

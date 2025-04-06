@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-20
-title: La peor página de N. Taleb
-url: /2022/01/20/peor-pagina-taleb/
 categories:
 - estadística
+date: 2022-01-20
+lastmod: '2025-04-06T18:52:22.131596'
+related:
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md
 tags:
 - estadística
 - estadística bayesiana
 - taleb
+title: La peor página de N. Taleb
+url: /2022/01/20/peor-pagina-taleb/
 ---
 
 Dicen algunos ---bueno, más bien, lo suelo decir yo--- que la intersección de lo nuevo, lo interesante y lo cierto es el conjunto vacío. Ahora, [N. Taleb nos regala una página](https://fooledbyrandomnessdotcom.wordpress.com/2021/09/07/estimating-medical-error-rate-an-intuitive-max-entropy-method/) en el que trata novedosamente un tema que lleva siendo intereante desde, al menos, lo puso encima de la mesa el reverendo (Bayes) hace 250 años. Ergo...

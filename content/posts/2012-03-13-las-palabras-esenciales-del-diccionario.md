@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-13 07:49:13+00:00
-draft: false
-title: Las palabras esenciales del diccionario
-
-url: /2012/03/13/las-palabras-esenciales-del-diccionario/
 categories:
 - números
+date: 2012-03-13 07:49:13+00:00
+draft: false
+lastmod: '2025-04-06T19:06:42.497195'
+related:
+- 2010-08-16-leyendo-en-diagonal-pero-con-cuidado.md
+- 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
+- 2010-03-11-madre-teresa-patriotas-idiotas-y-queries-recursivas.md
+- 2022-12-01-eventos-conjuntos.md
+- 2011-03-15-metodologia-casuistica-y-tipologia.md
 tags:
 - números
 - redes sociales
 - nlp
 - diccionario
 - drae
+title: Las palabras esenciales del diccionario
+url: /2012/03/13/las-palabras-esenciales-del-diccionario/
 ---
 
 Me he entretenido en los últimos tiempos tratando de responder una pregunta que, sin inquietarme, no dejaba de despertar mi curiosidad.

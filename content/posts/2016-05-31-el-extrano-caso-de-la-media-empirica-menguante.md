@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-31 08:13:28+00:00
-draft: false
-title: El extraño caso de la media empírica menguante
-
-url: /2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/
 categories:
 - estadística
 - probabilidad
+date: 2016-05-31 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:45:41.152758'
+related:
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2010-05-25-sobre-la-media-y-la-mediana.md
 tags:
 - bolsa
 - finanzas
@@ -15,6 +19,8 @@ tags:
 - distribuciones
 - media
 - varianza
+title: El extraño caso de la media empírica menguante
+url: /2016/05/31/el-extrano-caso-de-la-media-empirica-menguante/
 ---
 
 La [distribución lognormal](https://en.wikipedia.org/wiki/Log-normal_distribution) es la exponencial de una distribución normal. Su media, Wikipedia dixit, es $latex \exp(\mu + \sigma^2 /2)$.

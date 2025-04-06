@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-06-18 08:13:36+00:00
-draft: false
-title: Inmigrantes y la historia del que se comió un pollo y el otro no
-
-url: /2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-un-pollo-y-el-otro-no/
 categories:
 - estadística
 - números
+date: 2018-06-18 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:05:26.846513'
+related:
+- 2024-01-09-regresiones_pisa.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
+- 2018-03-21-a-mayor-efecto-sobre-todo-si-es-novedoso-mayor-escepticismo.md
+- 2024-01-16-causalidad-conocimiento.md
 tags:
 - estadística
 - inmigración
+title: Inmigrantes y la historia del que se comió un pollo y el otro no
+url: /2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-un-pollo-y-el-otro-no/
 ---
 
 La historia del pollo es conocido: que si un tipo se come un pollo y otro ninguno, el estadístico de turno diría que se han comido medio cada uno. Lo de los inmigrantes viene a cuenta de noticias de la índole de

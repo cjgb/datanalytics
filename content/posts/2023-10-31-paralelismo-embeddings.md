@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-10-31
-title: "Más sobre paralelismos entre textos vía embeddings"
-
-url: /2023/10/31/paralelismo-embeddings/
 categories:
 - estadística
+date: 2023-10-31
+lastmod: '2025-04-06T18:48:31.488206'
+related:
+- 2023-06-15-paralelismo-textos.md
+- 2018-10-15-dos-ejercicios-propuestos-sobre-embeddings.md
+- 2024-06-06-cortos-llms.md
+- 2024-11-26-cortos-llms.md
+- 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md
 tags:
 - embeddings
 - nlp
 - python
 - evangelios
+title: Más sobre paralelismos entre textos vía embeddings
+url: /2023/10/31/paralelismo-embeddings/
 ---
 
 Retomo el asunto de los paralelismos entre textos, que ya traté

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-12 07:02:03+00:00
-draft: false
-title: Visualización de la actualización bayesiana (y unas cuantas funciones de R)
-
-url: /2011/09/12/visualizacion-de-la-actualizacion-bayesiana-y-unas-cuantas-funciones-de-r/
 categories:
 - estadística
 - r
+date: 2011-09-12 07:02:03+00:00
+draft: false
+lastmod: '2025-04-06T19:01:55.192618'
+related:
+- 2014-10-10-bootstrap-bayesiano.md
+- 2018-10-23-abc-2.md
+- 2018-01-12-abc.md
+- 2016-07-06-glms-con-prioris-casi-a-voluntad.md
+- 2015-02-11-recurrencia-recurrente.md
 tags:
 - estadística
 - estadística bayesiana
 - gráficos
 - r
+title: Visualización de la actualización bayesiana (y unas cuantas funciones de R)
+url: /2011/09/12/visualizacion-de-la-actualizacion-bayesiana-y-unas-cuantas-funciones-de-r/
 ---
 
 Me ha llegado noticia de una entrada en un _blog_, [Visualizing Bayesian Updating](http://bayesianbiologist.wordpress.com/2011/09/10/visualizing-bayesian-updating/), en el que se muestra visualmente cómo se actualiza la distribución a posteriori conforme aumenta el número de ensayos en un problema bayesiano simple. Explica también los fundamentos estadísticos del asunto.

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-18 09:13:34+00:00
-draft: false
-title: Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas
-
-url: /2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/
 categories:
 - estadística
 - r
+date: 2016-03-18 09:13:34+00:00
+draft: false
+lastmod: '2025-04-06T19:02:51.397337'
+related:
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2020-03-18-lme4-simulate.md
+- 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
+- 2019-02-12-sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos.md
 tags:
 - drogas
 - lme4
 - modelos mixtos
 - r
 - recomendaciones
+title: Modelos mixtos para preprocesar datos en un sistema de recomendación de drogas
+url: /2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/
 ---
 
 Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado ([aquí](http://slatestarcodex.com/2016/03/01/2016-nootropics-survey-results/)) un [conjunto datos](/uploads/recomendador_drogas.xlsx) muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— [nootrópicos](https://es.wikipedia.org/wiki/Nootr%C3%B3picos).
@@ -71,5 +77,3 @@ que produce, entre otros, el gráfico
 ![nootropics_image_ci](/wp-uploads/2016/03/nootropics_image_ci.png#center)
 
 Esencialmente, el orden se mantiene (salvo alguna excepción). Pero ahora se aprecian los intervalos de confianza (debidos a la desigual popularidad de los ítems).
-
-

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-02-18
-title: 'La recurrente vuelta de la frenología y algunos asuntos más'
-url: /2025/02/18/cortos-stats
 categories:
 - cortos
+date: 2025-02-18
+lastmod: '2025-04-06T18:53:33.191931'
+related:
+- 2024-06-12-cortos.md
+- 2023-09-05-superforecasting.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2023-10-03-muestreo-superricos.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 tags:
 - supervivencia
 - prioris
 - probabilidad
 - frenología
+title: La recurrente vuelta de la frenología y algunos asuntos más
+url: /2025/02/18/cortos-stats
 ---
-
 
 En [A Conversation with Sir David Cox](https://projecteuclid.org/journals/statistical-science/volume-9/issue-3/A-Conversation-with-Sir-David-Cox/10.1214/ss/1177010394.full) se lee:
 
@@ -49,4 +55,3 @@ Un [comentario muy bueno de Andrew Gelman](https://statmodeling.stat.columbia.ed
 Gelman les recomienda dejar de estudiar datos y escribir más bien sobre sus fortísimas prioris.
 
 En un cierto sentido, lo anterior enlaza con lo que Frank Harrell escribe bajo el rótulo [_Traditional Frequentist Inference Uses Unrealistic Priors_](https://www.fharrell.com/post/uprior/).
-

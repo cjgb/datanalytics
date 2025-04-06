@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-12 07:02:09+00:00
-draft: false
-title: 'El arte funcional: una revisión personal'
-
-url: /2012/09/12/el-arte-funcional-una-revision-personal/
 categories:
 - gráficos
+date: 2012-09-12 07:02:09+00:00
+draft: false
+lastmod: '2025-04-06T19:08:48.066215'
+related:
+- 2013-08-29-una-revisita-a-el-arte-funcional.md
+- 2014-03-11-beautiful-evidence-de-tufte.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2011-11-24-videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz.md
+- 2011-04-26-graficos-vi-teoria.md
 tags:
 - gráficos
 - libros
 - cairo
+title: 'El arte funcional: una revisión personal'
+url: /2012/09/12/el-arte-funcional-una-revision-personal/
 ---
 
 Leí [El arte funcional](http://www.datanalytics.com/2012/08/08/el-arte-funcional/) de Alberto Cairo y he aquí finalmente mi visión, muy personal, sobre el libro.

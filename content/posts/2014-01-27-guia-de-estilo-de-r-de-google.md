@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-27 08:21:42+00:00
-draft: false
-title: Guía de estilo de R (de Google)
-
-url: /2014/01/27/guia-de-estilo-de-r-de-google/
 categories:
 - r
+date: 2014-01-27 08:21:42+00:00
+draft: false
+lastmod: '2025-04-06T19:10:36.902588'
+related:
+- 2010-11-01-una-propuesta-de-guia-de-estilo-de-r.md
+- 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
+- 2017-05-16-soy-un-dinosaurio-sobre-las-novedades-de-r.md
+- 2012-08-13-fallecimientos-y-microdatos.md
 tags:
 - estilo
 - programación
 - r
+title: Guía de estilo de R (de Google)
+url: /2014/01/27/guia-de-estilo-de-r-de-google/
 ---
 
 R es un lenguaje de programación de alto nivel que se usa principalmente en aplicaciones estadísticas y para la generación de gráficos.
@@ -295,4 +301,3 @@ Las convenciones expresadas más arriba deberían ser seguidas de no haber un bu
 ### Notas
 
 Esta guía de estilo de R es una traducción literal de [la de Google](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html) que he tomado la libertad de traducir para referencia y discusión propia y ajena. Datanalytics se hace responsable de todos los errores de traducción. Por otra parte, no se arroga (explícita o implícitamente) ningún tipo de derecho de copiright, autoría o similares: todos pertenecen a Google.
-

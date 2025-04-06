@@ -1,17 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-17
-title: Cómo se calcula (vs cómo podría calcularse) la inflación
-description: 'Una propuesta para introducir variabilidad en la estimación de la inflación'
-url: /2022/05/17/como-calcula-ine-inflacion/
 categories:
 - estadística
 - números
+date: 2022-05-17
+description: Una propuesta para introducir variabilidad en la estimación de la inflación
+lastmod: '2025-04-06T18:46:27.424717'
+related:
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
+- 2021-11-24-medias-ponderadas-a-lo-uluru.md
+- 2022-01-27-inflacion-media.md
+- 2024-01-02-medida-inflacion-stealthflaction.md
+- 2022-10-27-los-muchos-nombres-inflacion.md
 tags:
 - inflación
 - ine
 - variabilidad
 - efectos heterogéneos
+title: Cómo se calcula (vs cómo podría calcularse) la inflación
+url: /2022/05/17/como-calcula-ine-inflacion/
 ---
 
 En resumidas cuentas, el INE calcula la inflación asi:

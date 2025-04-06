@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-01 08:13:00+00:00
-draft: false
-title: 'Mezclas de vectores (I): casi todas las matemáticas de la cosa'
-
-url: /2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/
 categories:
 - varios
+date: 2016-09-01 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:58:02.899415'
+related:
+- 2016-09-02-mezclas-de-vectores-ii-un-caso-de-uso.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2014-06-05-minimos-cuadrados-con-restricciones.md
+- 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
 tags:
 - matemáticas
 - mezclas
+title: 'Mezclas de vectores (I): casi todas las matemáticas de la cosa'
+url: /2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/
 ---
 
 Arranco con esta una serie que estimo que será de tres entradas sobre cómo mezclar vectores con una aplicacioncilla que tal vez sorprenda a alguno.

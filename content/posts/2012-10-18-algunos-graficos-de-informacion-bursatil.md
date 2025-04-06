@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-18 07:07:41+00:00
-draft: false
-title: Algunos gráficos de información bursátil
-
-url: /2012/10/18/algunos-graficos-de-informacion-bursatil/
 categories:
 - finanzas
 - r
+date: 2012-10-18 07:07:41+00:00
+draft: false
+lastmod: '2025-04-06T18:50:04.862762'
+related:
+- 2014-02-18-el-yuyuplot-en-perspectiva.md
+- 2013-01-09-el-ibex-35-estilo-gapminder.md
+- 2023-09-21-inversiones-renta-variable.md
+- 2011-09-09-treemaps-en-r.md
+- 2010-10-29-c2a1que-mala-suerte-tengo-con-las-anomalias.md
 tags:
 - finanzas
 - gráficos
 - r
 - coursera
 - mooc
+title: Algunos gráficos de información bursátil
+url: /2012/10/18/algunos-graficos-de-informacion-bursatil/
 ---
 
 Hoy voy a presentar algunos gráficos de información bursátil adaptados a partir de código de Eric Zivot, el instructor del curso [_Introduction to Computational Finance and Financial Econometrics_](http://class.coursera.org/compfinance-2012-001) que estoy siguiendo (un poco como puta por rastrojo: siempre me las arreglo para resolver los ejercicios en el último minuto y antes de haber revisado la teoría) en Coursera.
@@ -105,4 +111,3 @@ se construye el gráfico
 ](/wp-uploads/2012/10/analisis_normalidad.png#center)
 
 que permite investigar, por ejemplo, si es o no sensato suponer que las rentabilidades mensuales siguen una ley normal.
-

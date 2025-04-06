@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-29 09:13:32+00:00
-draft: false
-title: ¿Y si quitamos el puntico de arriba a la izquierda?
-
-url: /2019/05/29/y-si-quitamos-el-puntico-de-arriba-a-la-izquierda/
 categories:
 - estadística
+date: 2019-05-29 09:13:32+00:00
+draft: false
+lastmod: '2025-04-06T19:05:58.488437'
+related:
+- 2020-01-09-regresiones-con-discontinuidad-y-grados-de-libertad.md
+- 2019-05-14-analisis-de-la-discontinuidad-polinomios-de-grado-alto.md
+- 2020-01-10-son-todos-igualitos.md
+- 2024-06-12-cortos.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 tags:
 - discontinuidad
 - polinomios
@@ -14,6 +18,8 @@ tags:
 - causalidad
 - modelos
 - nadaesgratis
+title: ¿Y si quitamos el puntico de arriba a la izquierda?
+url: /2019/05/29/y-si-quitamos-el-puntico-de-arriba-a-la-izquierda/
 ---
 
 Esta entrada es una illustración de otra de no hace mucho, _[Análisis de la discontinuidad + polinomios de grado alto = ...](https://www.datanalytics.com/2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/)_ Mirad:

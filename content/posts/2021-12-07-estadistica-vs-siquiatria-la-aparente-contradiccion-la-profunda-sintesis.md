@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-12-07 09:13:00+00:00
-draft: false
-title: 'Estadística vs siquiatría: la aparente contradicción, la profunda síntesis'
-
-url: /2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/
 categories:
 - estadística
+date: 2021-12-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:57:33.205322'
+related:
+- 2024-10-17-interpretacion-modelos.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2024-02-13-outliers-dos-modos.md
+- 2023-10-03-muestreo-superricos.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - estadística
 - modelos
 - outliers
 - siquiatría
+title: 'Estadística vs siquiatría: la aparente contradicción, la profunda síntesis'
+url: /2021/12/07/estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis/
 ---
 
 _[Nota: esta entrada está indirectamente motivada por mi asistencia a la presentación (y posterior adquisición) del libro "Los peligros de la moralidad" de Pablo Malo hoy día 3 de diciembre de 2021.]_
@@ -38,6 +44,3 @@ Pero no hay nada más revelador en estadística que el presunto _outlier_. Su ex
 De ahí el interés en escuchar lo que tengan a bien decirnos.
 
 _[Nota final: no he leído aún el libro de Pablo Malo. He dicho que acabo de comprarlo. Pero sí he seguido [su blog](https://evolucionyneurociencias.blogspot.com/) en los últimos tiempos. Así que  no creo tanto que vaya a sorprenderme como a organizar esas ideas que he ido encontrando en él. Si no es el caso, aviso en una futura entrada.]_
-
-
-

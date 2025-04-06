@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-12-01
-title: '¿Por qué son los eventos (en probabilidad) conjuntos y no otra cosa?'
-
-url: /2022/12/01/eventos-conjuntos/
 categories:
 - probabilidad
+date: 2022-12-01
+lastmod: '2025-04-06T19:11:02.205371'
+related:
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2020-01-07-la-probabilidad-algo-subjetivo.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - eventos
 - kolmogorov
+title: ¿Por qué son los eventos (en probabilidad) conjuntos y no otra cosa?
+url: /2022/12/01/eventos-conjuntos/
 ---
 
 ## I. Tidyverse (como ejemplo a no seguir)
@@ -58,6 +64,3 @@ Hay unos que dicen que el mundo es una especie de plato sostenido a lomos de un 
 ![](/wp-uploads/2022/12/tortugas-hasta-abajo.jpeg#center)
 
 Igual los eventos son eso: eventos dentro de eventos, dentro de eventos, y así sucesivamente hasta donde se pierde la vista.
-
-
-

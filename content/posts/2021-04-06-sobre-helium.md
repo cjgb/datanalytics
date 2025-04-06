@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-06 09:13:00+00:00
-draft: false
-title: 'Sobre Helium: ¿un esquema piramidal?'
-
-url: /2021/04/06/sobre-helium-esquema-piramidal/
 categories:
 - varios
+date: 2021-04-06 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:57:42.441040'
+related:
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
+- 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md
+- 2023-02-21-todo-sobre-el-wifi.md
+- 2022-07-26-hueco-termico.md
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
 tags:
 - criptomonedas
 - helium
 - economía
 - iot
+title: 'Sobre Helium: ¿un esquema piramidal?'
+url: /2021/04/06/sobre-helium-esquema-piramidal/
 ---
 
 Por motivos que no vienen al caso, he estado investigando estos días de reojo [Helium](https://www.helium.com/), una cosa muy críptica y cuya página web no ayuda en gran medida a clarificar y cuyas deficiencias esta entrada mía contribuya a rectificar. Esta entrada va a ser larga, dividida en varias secciones y con varias de propedéutica antes de entrar en materia.

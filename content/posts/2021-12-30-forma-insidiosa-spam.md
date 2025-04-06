@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-12-30
-title: Una forma insidiosa de spam
-
-url: /2021/12/30/forma-insidiosa-spam/
 categories:
 - varios
+date: 2021-12-30
+lastmod: '2025-04-06T18:47:42.388624'
+related:
+- 2015-04-14-la-informacion-es-sorpresa.md
+- 2021-12-29-migracion-blog-hugo.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2018-12-11-siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
 tags:
 - internet
 - spam
 - marketing
+title: Una forma insidiosa de spam
+url: /2021/12/30/forma-insidiosa-spam/
 ---
 
 Durante el proceso de migración de mi blog a Hugo he descubierto ---pienso también que tal vez sea algo inocente y haya tropezado con algo requetesabido--- con una forma particularmente insidiosa de _spam_. Una de las cosas en las que me he entretenido es en buscar enlaces rotos. Hay muchísimos, habida cuenta de que hay muchas entradas, más de 2000, con una antigüedad media de unos cinco años y máxima de más de diez.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-09 07:41:25+00:00
-draft: false
-title: Las preguntas oportunas brillan por su ausencia
-
-url: /2012/03/09/las-preguntas-oportunas-brillan-por-su-ausencia/
 categories:
 - ciencia de datos
 - consultoría
+date: 2012-03-09 07:41:25+00:00
+draft: false
+lastmod: '2025-04-06T18:58:57.673263'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2018-05-17-el-calendario-chino-como-determinante-en-el-sexo-de-los-hijos.md
+- 2018-04-02-sobre-lo-de-cambridge-analytica.md
 tags:
 - consultoría
 - ciencia de datos
+title: Las preguntas oportunas brillan por su ausencia
+url: /2012/03/09/las-preguntas-oportunas-brillan-por-su-ausencia/
 ---
 
 Se levantó un revuelo hace unos días en la profesión a raíz de la noticia de que [Target había descubierto que una adolescente estaba embarazada antes que sus mismos padres](http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/). En el artículo se explica cómo lo hacen:

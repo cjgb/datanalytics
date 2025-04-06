@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-19 08:13:06+00:00
-draft: false
-title: 'Sobre el problema de las martingalas: ¿cuántos sabíais la respuesta?'
-
-url: /2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/
 categories:
 - estadística
+date: 2017-12-19 08:13:06+00:00
+draft: false
+lastmod: '2025-04-06T19:11:12.144791'
+related:
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2022-09-13-errores-cierto-tipo-encuestas.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 tags:
 - binomial
 - encuestas
@@ -14,6 +18,8 @@ tags:
 - stan
 - stan
 - twitter
+title: 'Sobre el problema de las martingalas: ¿cuántos sabíais la respuesta?'
+url: /2017/12/19/sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta/
 ---
 
 Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefirió dejarse llevar por la intuición y errar. Pero volvamos a los hechos. Dado

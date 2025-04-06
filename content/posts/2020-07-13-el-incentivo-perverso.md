@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-13 09:13:00+00:00
-draft: false
-title: El incentivo perverso
-
-url: /2020/07/13/el-incentivo-perverso/
 categories:
 - varios
 - mala ciencia
+date: 2020-07-13 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:55:40.420582'
+related:
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
+- 2024-07-03-cortos-stats.md
+- 2015-04-14-la-informacion-es-sorpresa.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - ciencia
 - mala ciencia
 - ine
 - isciii
 - incentivos
+title: El incentivo perverso
+url: /2020/07/13/el-incentivo-perverso/
 ---
 
 Viene a cuenta de este tuit,

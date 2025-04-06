@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-01-23
-title: "El discreto encanto de los árboles olvidadizos"
-url: /2024/01/23/oblivious-trees/
 categories:
 - ciencia de datos
+date: 2024-01-23
+lastmod: '2025-04-06T19:02:44.339374'
+related:
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2024-12-03-cortos-stats.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2023-10-19-errores-chatgpt.md
+- 2021-07-21-quien-invento-los-random-forests.md
 tags:
 - árboles
 - ciencia de datos
 - árboles olvidadizos
 - gbm
 - catboost
+title: El discreto encanto de los árboles olvidadizos
+url: /2024/01/23/oblivious-trees/
 ---
 
 ### I.
@@ -59,9 +66,3 @@ Obviamente, este algoritmo es mucho más simple que CART, por ejemplo. Es necesa
 ¿Por qué es todo esto relevante? Entre otros motivos, por el interés en entender este algoritmo, `catboost`, tan popular. Hay cosas escritas sobre él, como
 [el tratamiento que hace de las variables categóricas](https://muestrear-no-es-pecado.netlify.app/2023/06/09/categoricas_a_lo_catboost_pensamientos/index.html),
 que no tienen sentido salvo que se entienda que se aplican a árboles olvidadizos y no a los habituales.
-
-
-
-
-
-

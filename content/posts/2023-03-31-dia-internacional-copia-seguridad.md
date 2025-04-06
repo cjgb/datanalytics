@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-30
-title: 'Mañana vuelve a ser el día internacional de la copia de seguridad'
-
-url: /2023/03/30/dia-internacional-copia-seguridad/
 categories:
 - varios
+date: 2023-03-30
+lastmod: '2025-04-06T18:46:54.166090'
+related:
+- 2025-03-31-dia-internacional-copia-seguridad.md
+- 2024-03-31-dia-internacional-copia-seguridad.md
+- 2017-03-31-hoy-es-el-dia-internacional-de-la-copia-de-seguridad.md
+- 2015-03-31-hoy-es-el-dia-mundial-de-la-copia-de-seguridad.md
+- 2013-08-21-mis-copias-de-seguridad.md
 tags:
 - backups
 - hardware
+title: Mañana vuelve a ser el día internacional de la copia de seguridad
+url: /2023/03/30/dia-internacional-copia-seguridad/
 ---
 
 Mañana, como cada 31 de marzo, se celebra lo que equivaldría a la navidad de los ficheros, la _fecha más señalada_ para todos ellos. Si yo fuera rey, saldría en la tele dando un discurso con un _background youtuber_.

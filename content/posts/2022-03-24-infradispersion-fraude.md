@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-24
-title: 'La infradispersión como indicio de fraude'
-url: /2022/03/24/infradispersion-fraude/
 categories:
 - estadística
+date: 2022-03-24
+lastmod: '2025-04-06T18:48:47.658234'
+related:
+- 2020-09-15-infradispersion-en-la-logistica.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2017-02-01-infradispersion-de-conteos-buenos-ejemplos.md
+- 2024-10-15-cortos-stats.md
+- 2017-02-23-otro-ejemplo-de-infradispersion-de-conteos.md
 tags:
 - infradispersión
 - fraude
+title: La infradispersión como indicio de fraude
+url: /2022/03/24/infradispersion-fraude/
 ---
 
 Hay gente que colecciona sellos, monedas, etc. Yo, fenómenos que presentan infradispersión manifiesta. La infradispersión es un fenómeno raro, mucho más infrecuente que la sobredispersión, del que ya me he ocupado [previamente](https://www.datanalytics.com/tags/infradispersi%C3%B3n/).
@@ -23,5 +30,3 @@ Aunque, por supuesto, la baja varianza en unos conteos no siempre es consecuenci
 ![](/wp-uploads/2022/03/dgt-fallecidos-trafico.jpg#center)
 
 que, como bien todos sabemos, son recopiladas por seres de luz.
-
-

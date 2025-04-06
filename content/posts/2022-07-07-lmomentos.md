@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-07-07
-title: 'L-momentos: en busca de la intuición'
-description: 'Tratando de encontrar la intuición en el concepto de los l-momentos'
-url: /2022/07/07/l-momentos/
 categories:
 - estadística
+date: 2022-07-07
+description: Tratando de encontrar la intuición en el concepto de los l-momentos
+lastmod: '2025-04-06T18:51:08.338394'
+related:
+- 2022-07-14-proximidad-distribuciones.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - momentos
 - distribuciones
+title: 'L-momentos: en busca de la intuición'
+url: /2022/07/07/l-momentos/
 ---
 
 Existen esquinitas de la estadística con las que uno solo tropieza cuando su práctica lo expone a sus aplicaciones menos habituales. Estos días ha sido el asunto de los l-momentos. En esta entrada exploro la intuición acerca del concepto ---porque uno no la hallará ni [aquí](https://en.wikipedia.org/wiki/L-moment) ni en ninguno de los artículos que he consultado al respecto--- y, más en general, el interés que pueda tener fuera del ámbito en el que los he encontrado.

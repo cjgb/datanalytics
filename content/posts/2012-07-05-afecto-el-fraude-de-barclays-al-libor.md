@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-05 06:02:59+00:00
-draft: false
-title: ¿Afectó el fraude de Barclays al Libor?
-
-url: /2012/07/05/afecto-el-fraude-de-barclays-al-libor/
 categories:
 - finanzas
 - r
+date: 2012-07-05 06:02:59+00:00
+draft: false
+lastmod: '2025-04-06T18:49:32.519217'
+related:
+- 2012-07-04-libor-libor-fundeu-y-barclays-claro.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2010-10-29-c2a1que-mala-suerte-tengo-con-las-anomalias.md
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2014-02-18-el-yuyuplot-en-perspectiva.md
 tags:
 - finanzas
 - libor
 - r
+title: ¿Afectó el fraude de Barclays al Libor?
+url: /2012/07/05/afecto-el-fraude-de-barclays-al-libor/
 ---
 
 Después de la [entrada de ayer](http://www.datanalytics.com/2012/07/04/libor-libor-fundeu-y-barclays-claro/) y de

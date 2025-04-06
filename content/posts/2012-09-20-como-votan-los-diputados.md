@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-20 07:24:25+00:00
-draft: false
-title: ¿Cómo votan los diputados?
-
-url: /2012/09/20/como-votan-los-diputados/
 categories:
 - estadística
 - números
+date: 2012-09-20 07:24:25+00:00
+draft: false
+lastmod: '2025-04-06T18:53:24.500211'
+related:
+- 2018-11-08-siguen-votando-igual-los-diputados.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2016-09-21-votos-en-la-onu-con-r.md
 tags:
 - datos abiertos
 - estadística
 - números
 - política
+title: ¿Cómo votan los diputados?
+url: /2012/09/20/como-votan-los-diputados/
 ---
 
 Tras leer el otro día [Visualizando la matriz de acuerdo legislativo](http://computandocienciapolitica.blogspot.com.es/2011/12/visualuzacion-matriz-de-acuerdo.html), pensé que esta bitácora no podía quedarse atrás. Casi desisto. Pero cerrando ya casi el navegador vi que en la [página de las votaciones del Congreso de los Diputados](http://www.congreso.es/portal/page/portal/Congreso/Congreso/Actualidad/Votaciones) había dos enlaces aprovechables: en uno ponía XML y en el otro, "histórico".

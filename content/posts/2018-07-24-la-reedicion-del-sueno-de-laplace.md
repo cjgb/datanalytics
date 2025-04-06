@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-07-24 08:13:33+00:00
-draft: false
-title: La reedición del sueño de Laplace
-
-url: /2018/07/24/la-reedicion-del-sueno-de-laplace/
 categories:
 - estadística
+date: 2018-07-24 08:13:33+00:00
+draft: false
+lastmod: '2025-04-06T19:02:34.513182'
+related:
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2024-10-17-interpretacion-modelos.md
+- 2011-07-15-nassim-taleb-y-el-problema-de-la-inferencia.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2025-02-11-cortos-llms.md
 tags:
 - ai
 - azar
 - big data
 - laplace
+title: La reedición del sueño de Laplace
+url: /2018/07/24/la-reedicion-del-sueno-de-laplace/
 ---
 
 Dejó escrito Laplace:

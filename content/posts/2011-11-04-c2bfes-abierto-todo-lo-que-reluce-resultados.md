@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-04 07:17:03+00:00
-draft: false
-title: ¿Es abierto todo lo que reluce? Resultados
-
-url: /2011/11/04/es-abierto-todo-lo-que-reluce-resultados/
 categories:
 - números
+date: 2011-11-04 07:17:03+00:00
+draft: false
+lastmod: '2025-04-06T18:55:16.194390'
+related:
+- 2011-10-28-c2bfes-abierto-todo-lo-que-reluce.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2011-03-28-por-la-apertura-de-los-datos-publicos.md
+- 2011-06-10-datos-publicos-datos-dup.md
 tags:
 - datos abiertos
 - números
+title: ¿Es abierto todo lo que reluce? Resultados
+url: /2011/11/04/es-abierto-todo-lo-que-reluce-resultados/
 ---
 
 Habiendo hecho eco el otro día en esta bitácora del anuncio de un [estudio del grado de real de apertura de los datos del proyecto Aporta](http://www.datanalytics.com/2011/10/28/es-abierto-todo-lo-que-reluce/), de rigor es que haga mención de [los resultados](http://amedioentender.blogspot.com/2011/11/el-proyecto-aporta-se-queda-al-3.html).

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-21 01:04:35+00:00
-draft: false
-title: Hoy me he enamorado en el metro
-
-url: /2010/10/21/hoy-me-he-enamorado-en-el-metro/
 categories:
 - estadística
+date: 2010-10-21 01:04:35+00:00
+draft: false
+lastmod: '2025-04-06T18:50:36.254918'
+related:
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2011-02-10-1440.md
+- 2011-04-26-graficos-vi-teoria.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
 tags:
 - estadística
 - gráficos
 - ggplot2
+title: Hoy me he enamorado en el metro
+url: /2010/10/21/hoy-me-he-enamorado-en-el-metro/
 ---
 
 Hoy me he enamorado en el metro. Apenas comenzaba a leer mi articulillo cuando he tropezado con esta frase:

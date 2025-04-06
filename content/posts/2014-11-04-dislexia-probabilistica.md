@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-04 07:13:14+00:00
-draft: false
-title: Dislexia probabilística
-
-url: /2014/11/04/dislexia-probabilistica/
 categories:
 - números
 - probabilidad
+date: 2014-11-04 07:13:14+00:00
+draft: false
+lastmod: '2025-04-06T18:56:17.244219'
+related:
+- 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 tags:
 - estadística bayesiana
 - falacias
 - números
 - podemos
 - probabilidad
+title: Dislexia probabilística
+url: /2014/11/04/dislexia-probabilistica/
 ---
 
 Esta entrada trata de cuadrados. Tales como estos
@@ -49,4 +55,3 @@ Y para acabar, dos notas.
 
 * La primera es que suponiendo que votar en el pasado al PP equivalga a haberlo votado en el 2011, [ateniéndonos al último barómetro publicado por el CIS, el de julio de 2014](http://www.cis.es/cis/export/sites/default/-Archivos/Marginales/3020_3039/3033/cru3033votog2011.html) (aunque Podemos pudiera estar refiriéndose a otras encuestas distintas, que para gustos hay colores), y haciendo suposiciones no necesariamente válidas (p.e., que los [coeficientes de elevación](http://es.wikipedia.org/wiki/Muestreo_(estad%C3%ADstica)) de los encuestados son prácticamente iguales), uno podría llegar a una cifra de exvotantes del PP que votarían a Podemos de alrededor del 6%. Pero esto ni prueba ni refuta la afirmación —difícilmente falsable, por otro lado— de Podemos.
 * La segunda, que debo el tema de la entrada a mi colega Daniel Taboas: él me ha puesto sobre la pista de esta que llama _burrada monumental_.
-

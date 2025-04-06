@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-16 08:13:08+00:00
-draft: false
-title: Metropolis-Hastings en Scala
-
-url: /2016/06/16/metropolis-hastings-en-scala/
 categories:
 - programación
 - estadística
 - r
+date: 2016-06-16 08:13:08+00:00
+draft: false
+lastmod: '2025-04-06T18:59:35.424229'
+related:
+- 2018-01-12-abc.md
+- 2018-10-23-abc-2.md
+- 2017-09-06-python-y-r-una-perspectiva-markoviana.md
+- 2018-03-01-kriging-con-stan.md
+- 2024-10-10-elbo.md
 tags:
 - estadística bayesiana
 - mcmc
 - muestreo
 - scala
+title: Metropolis-Hastings en Scala
+url: /2016/06/16/metropolis-hastings-en-scala/
 ---
 
 Tengo la sensación de que un lenguaje funcional (como Scala) está particularmente bien adaptado al tipo de operaciones que exige MCMC.
@@ -77,4 +83,3 @@ hist(posterior, breaks = 50)
 {{< / highlight >}}
 
 ![posteriori_scala](/wp-uploads/2016/06/posteriori_scala.png#center)
-

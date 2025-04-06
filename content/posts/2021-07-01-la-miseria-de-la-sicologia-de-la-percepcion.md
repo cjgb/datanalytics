@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-07-01 09:13:00+00:00
-draft: false
-title: La miseria de la sicología de la percepción
-
-url: /2021/07/01/la-miseria-de-la-sicologia-de-la-percepcion/
 categories:
 - gráficos
+date: 2021-07-01 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:55:53.092249'
+related:
+- 2011-04-26-graficos-vi-teoria.md
+- 2014-03-11-beautiful-evidence-de-tufte.md
+- 2014-01-07-diagramas-de-caja-44-anos-despues.md
+- 2011-03-02-tartas-no-gracias.md
+- 2012-09-12-el-arte-funcional-una-revision-personal.md
 tags:
 - gráficos
 - percepción
@@ -17,6 +21,8 @@ tags:
 - tukey
 - tartas
 - tufte
+title: La miseria de la sicología de la percepción
+url: /2021/07/01/la-miseria-de-la-sicologia-de-la-percepcion/
 ---
 
 A autores como Playfair (tartas), Tukey (diagramas de cajas) o Tufte (pequeños múltiplos) debemos algunas de las técnicas de representación gráfica de datos que usamos habitualmente y a las que el público, mal  que bien, está acostumbrado.

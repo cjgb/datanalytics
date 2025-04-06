@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-02-20
-title: 'Sobre el muy necesario "Rolling Journal of Sociology"'
-url: /2024/02/20/rolling-journal-sociology/
 categories:
 - estadística
+date: 2024-02-20
+lastmod: '2025-04-06T18:45:51.250960'
+related:
+- 2016-05-23-tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2020-12-11-la-loteria-del-hardware-y-la-camara-de-resonancia-academica.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - sociología
 - estadística
 - estadística viejuna
+title: Sobre el muy necesario "Rolling Journal of Sociology"
+url: /2024/02/20/rolling-journal-sociology/
 ---
 
 ### I.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-08 06:47:15+00:00
-draft: false
-title: El arte funcional
-
-url: /2012/08/08/el-arte-funcional/
 categories:
 - gráficos
+date: 2012-08-08 06:47:15+00:00
+draft: false
+lastmod: '2025-04-06T18:58:07.479503'
+related:
+- 2011-11-24-videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz.md
+- 2012-09-12-el-arte-funcional-una-revision-personal.md
+- 2013-08-29-una-revisita-a-el-arte-funcional.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
 tags:
 - gráficos
 - libros
 - cairo
+title: El arte funcional
+url: /2012/08/08/el-arte-funcional/
 ---
 
 Hoy no voy a escribir una entrada propiamente porque me acabo de comprar _[El arte funcional](http://www.elartefuncional.com/)_ y voy a estar entretenido devorándolo estos días. 

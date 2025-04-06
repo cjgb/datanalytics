@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-02-01
-title: 'Ajuste de modelos: Optimización vs generalización'
-url: /2024/02/01/model-generalization/
 categories:
 - estadística
+date: 2024-02-01
+lastmod: '2025-04-06T18:53:23.835252'
+related:
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
+- 2023-03-02-conformal-prediction.md
 tags:
 - modelos
 - generalización
 - validación cruzada
 - estadística bayesiana
 - optimización
+title: 'Ajuste de modelos: Optimización vs generalización'
+url: /2024/02/01/model-generalization/
 ---
 
 He escrito esta entrada como una introducción a lo que se cuenta

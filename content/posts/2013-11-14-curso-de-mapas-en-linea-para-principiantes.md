@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-11-14 11:43:43+00:00
-draft: false
-title: Curso de mapas en línea para principiantes
-
-url: /2013/11/14/curso-de-mapas-en-linea-para-principiantes/
 categories:
 - gráficos
 - anuncio
+date: 2013-11-14 11:43:43+00:00
+draft: false
+lastmod: '2025-04-06T19:08:33.638586'
+related:
+- 2016-05-11-manana-2016-05-12-cartociudad-en-la-reunion-de-usuarios-de-r-de-madrid.md
+- 2016-07-28-onodo-redes-para-contar-historias.md
+- 2013-02-04-reeditamos-el-curso-basico-de-r.md
+- 2015-04-06-taller-de-mapas-con-r-el-14-de-abril-en-madrid.md
+- 2011-04-14-graficos-iv-tutoriales-2.md
 tags:
 - cartodb
 - gráficos
 - mapas
 - postgis
 - anuncio
+title: Curso de mapas en línea para principiantes
+url: /2013/11/14/curso-de-mapas-en-linea-para-principiantes/
 ---
 
 Cuando me preguntan por [Vizzuality](http://vizzuality.com/) siempre digo lo mismo: juegan en otra liga. Y no, no me han pagado jamás una cena. Solo los he seguido por las redes sociales, me los he tropezado en charlas, etc. Y se nota.

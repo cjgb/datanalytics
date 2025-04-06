@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-13 08:13:39+00:00
-draft: false
-title: Censura a la izquierda en las universidades españolas
-
-url: /2016/06/13/censura-a-la-izquierda-en-las-universidades-espanolas/
 categories:
 - r
+date: 2016-06-13 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:59:02.301411'
+related:
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
 tags:
 - r
 - stan
 - selectividad
 - universidad
+title: Censura a la izquierda en las universidades españolas
+url: /2016/06/13/censura-a-la-izquierda-en-las-universidades-espanolas/
 ---
 
 (Aviso: esta entrada podría competir dignamente en una competición de titulares engañosos. Es posible que si no sepas de qué hablo regularmente te interese más [esto](http://www.eldiario.es/)).
@@ -173,6 +179,3 @@ Y termino con avisos varios:
 * Metí la pata al considerar la sede y no la sede/universidad; así que todo Madrid me ha salido agregado en una única sede.
 * Algunas de esas cosas raras de letras parecen estar codeándose en los puestos de cabeza con carreras serias. ¡A saber!
 * Supongo que hay más variables implicadas no tenidas en cuenta; para eso, supongo, está la sigma.
-
-
-

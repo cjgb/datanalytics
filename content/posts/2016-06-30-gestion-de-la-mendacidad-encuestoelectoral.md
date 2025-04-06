@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-30 08:13:41+00:00
-draft: false
-title: Gestión de la mendacidad encuestoelectoral
-
-url: /2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/
 categories:
 - estadística
+date: 2016-06-30 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T18:47:09.066361'
+related:
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2016-09-26-encuestas-electorales-una-propuesta.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
 tags:
 - encuestas
 - estadística
 - encuestas electorales
+title: Gestión de la mendacidad encuestoelectoral
+url: /2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/
 ---
 
 Lo de que la gente que miente al ser encuestada se ha esgrimido frecuentemente en los últimos días. Inspirado en [esto](https://www.datanalytics.com/2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/), se me ha ocurrido (posiblemente reocurrido: es fácil que la idea sea conocida, sobre todo si resulta ser buena) el siguiente procedimiento para la realización de encuestas electorales.

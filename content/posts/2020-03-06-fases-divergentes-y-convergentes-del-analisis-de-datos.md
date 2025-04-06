@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-06 09:13:00+00:00
-draft: false
-title: Fases divergentes y convergentes del análisis de datos
-
-url: /2020/03/06/fases-divergentes-y-convergentes-del-analisis-de-datos/
 categories:
 - consultoría
+date: 2020-03-06 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:06:52.589569'
+related:
+- 2024-02-13-outliers-dos-modos.md
+- 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2016-11-15-una-fina-tenue-somera-capa-de-sintaxis.md
 tags:
 - consultoría
+title: Fases divergentes y convergentes del análisis de datos
+url: /2020/03/06/fases-divergentes-y-convergentes-del-analisis-de-datos/
 ---
 
 [Aquí](https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/) se propone un método para el análisis de datos que resume

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-20 07:50:27+00:00
-draft: false
-title: UbiData.org, disponible en beta
-
-url: /2011/06/20/ubidata-org-disponible-en-beta/
 categories:
 - números
+date: 2011-06-20 07:50:27+00:00
+draft: false
+lastmod: '2025-04-06T19:05:55.339520'
+related:
+- 2011-03-24-c2bfdonde-obtengo-mis-datos-c2a1pregunta.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2012-06-07-hoy-hablaremos-de-r-es-org.md
+- 2013-04-22-demanda-y-uso-de-gobierno-abierto-en-espana.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 tags:
 - números
+title: UbiData.org, disponible en beta
+url: /2011/06/20/ubidata-org-disponible-en-beta/
 ---
 
 He hablado en estas páginas de [zanran](http://www.zanran.com/q/), un _Google para datos_, y de [GetTheData](http://getthedata.org/), su versión _social_. Hora es cumplida de que mencione a [UbiData](http://ubidata.org/), el GetTheData en español.
@@ -27,4 +33,3 @@ No hay mucho más que contar al respecto; sólo invitar a mis lectores a
 * visitar la página, registrarse... ¡y **animarse a usarla**!
 * avisar de errores, frases mal traducidas o cualquier otra incidencia
 * darla a conocer entre sus conocidos potencialmente interesados
-

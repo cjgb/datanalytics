@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-06-29 08:13:26+00:00
-draft: false
-title: Licencias urbanísticas, no viables (y fin)
-
-url: /2015/06/29/licencias-urbanisticas-no-viables-y-fin/
 categories:
 - números
+date: 2015-06-29 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:53:27.845878'
+related:
+- 2015-03-10-licencias-urbanisticas-datos-y-votos.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
 tags:
 - ayuntamiento
 - datos abiertos
 - licencias
 - madrid
+title: Licencias urbanísticas, no viables (y fin)
+url: /2015/06/29/licencias-urbanisticas-no-viables-y-fin/
 ---
 
 ¿Recordáis mi [solicitud de datos sobre licencias urbanísticas al ayuntamiento de Madrid](http://www.datanalytics.com/2015/03/10/licencias-urbanisticas-datos-y-votos/)? Hoy me he interesado por [su estado](http://datos.madrid.es/portal/site/egob/menuitem.d3089948cb18b1bb68d8a521ecd08a0c/?vgnextoid=e06faba3ecdfb410VgnVCM2000000c205a0aRCRD&vgnextchannel=102612b9ace9f310VgnVCM100000171f5a0aRCRD) y he encontrado esto:

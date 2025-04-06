@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-05 07:15:29+00:00
-draft: false
-title: Medias y medianas en el Banco de España
-
-url: /2012/06/05/medias-y-medianas-en-el-banco-de-espana/
 categories:
 - estadística
 - finanzas
+date: 2012-06-05 07:15:29+00:00
+draft: false
+lastmod: '2025-04-06T18:50:02.215750'
+related:
+- 2012-06-12-por-que-me-quejo-del-banco-de-espana.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
+- 2023-09-14-gestion-liquidez.md
 tags:
 - estadística
 - finanzas
 - media
+title: Medias y medianas en el Banco de España
+url: /2012/06/05/medias-y-medianas-en-el-banco-de-espana/
 ---
 
 Los patriotas españoles del siglo II a.C. peleaban por la estepa lusitana contra los romanos y abominaban del alcantarillado y los acueductos. Los del siglo XVI, seguían el caminar del sol sobre el azul del mar para blanquear un subcontinente con el empuje de sus caderas. Los del XIX fusilaban a alcaldes liberales en las plazas de las villas altonavarras.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-03 08:13:31+00:00
-draft: false
-title: Homeopatía de datos
-
-url: /2016/11/03/homeopatia-de-datos/
 categories:
 - ciencia de datos
+date: 2016-11-03 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T18:51:14.524639'
+related:
+- 2017-02-03-nueva-charla-antikaggle-contra-la-homeopatia-de-datos.md
+- 2017-02-13-diapositivas-de-antikaggle-contra-la-homeopatia-de-datos.md
+- 2016-10-11-el-rmse-es-dios-y-xgboost-su-profeta.md
+- 2019-12-05-ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
 tags:
 - ciencia de datos
 - homeopatía
 - ciencia de datos
+title: Homeopatía de datos
+url: /2016/11/03/homeopatia-de-datos/
 ---
 
 Me mandan un _whatsapp_. Es de alguien que está en una charla de _ciencia de datos_. Acaba de oír decir al ponente que en una de esas competiciones de Kaggle le ha servido optimizar a lo largo del conjunto de semillas aleatorias. Sí, del `set.seed()`.

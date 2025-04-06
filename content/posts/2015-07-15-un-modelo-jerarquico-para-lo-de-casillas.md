@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-15 08:13:42+00:00
-draft: false
-title: Un modelo jerárquico para lo de Casillas
-
-url: /2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/
 categories:
 - estadística
 - r
+date: 2015-07-15 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:48:07.042659'
+related:
+- 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md
+- 2023-07-20-coeficientes-no-identificables.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - casillas
 - estadística bayesiana
 - modelos jerárquicos
 - r
 - stan
+title: Un modelo jerárquico para lo de Casillas
+url: /2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/
 ---
 
 Vuelvo a lo de Casillas inspirándome en el primer ejemplo de [este artículo](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf) de Gelman et al.

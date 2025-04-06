@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-18 08:13:13+00:00
-draft: false
-title: ¿Vernacularidades? No, gracias
-
-url: /2015/02/18/vernacularidades-no-gracias/
 categories:
 - consultoría
+date: 2015-02-18 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T19:01:42.776740'
+related:
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2019-06-11-informatica-o-matematicas-una-pregunta-muy-mal-formulada.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
 tags:
 - consultoría
+title: ¿Vernacularidades? No, gracias
+url: /2015/02/18/vernacularidades-no-gracias/
 ---
 
 Como sabéis, [vuelvo a España](http://www.datanalytics.com/2015/02/10/vuelvo-a-espana/). Otro proyecto que termina. Habrá momentos para la nostalgia. Pero también, al menos, dos motivos para autofelicitarme. El primero tiene que ver con todo lo aprendido en estos doce meses.

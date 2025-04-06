@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-14 07:35:22+00:00
-draft: false
-title: La percepción del riesgo, en la BBC
-
-url: /2011/07/14/la-percepcion-del-riesgo-en-la-bbc/
 categories:
 - estadística
 - probabilidad
+date: 2011-07-14 07:35:22+00:00
+draft: false
+lastmod: '2025-04-06T18:45:48.580874'
+related:
+- 2011-04-27-incertidumbre-juicios-y-sesgos.md
+- 2013-01-03-eres-un-analfabeto-numerico.md
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2011-10-19-visualizacion-de-la-incertidumbre-sobre-el-futuro.md
 tags:
 - estadística
 - media
 - percepción del riesgo
 - riesgo
+title: La percepción del riesgo, en la BBC
+url: /2011/07/14/la-percepcion-del-riesgo-en-la-bbc/
 ---
 
 La [percepción del riesgo](http://en.wikipedia.org/wiki/Risk_perception) es el juicio subjetivo que hacen las personas sobre la relevancia o _severidad_ de un riesgo. Esta percepción tiene una dimensión matemática por naturaleza y que tiene que ver con la habilidad del sujeto para manejarse con las cifras. Pero también tiene una dimensión no matemática: mucha gente, de hecho, reacciona de una manera que pudiera parecer incoherente con su visión racional de las probabilidades implicadas.

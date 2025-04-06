@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-22 18:37:05+00:00
-draft: false
-title: ¿153 días de verdad de la buena?
-
-url: /2010/09/22/153-dias-de-verdad-de-la-buena/
 categories:
 - números
+date: 2010-09-22 18:37:05+00:00
+draft: false
+lastmod: '2025-04-06T18:57:50.784340'
+related:
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2021-11-18-sobre-el-almacenamiento-industrial-de-la-energia-electrica.md
+- 2022-07-26-hueco-termico.md
+- 2022-10-25-muchos-julios-hidraulica.md
+- 2024-06-25-consumo-llms.md
 tags:
 - números
+title: ¿153 días de verdad de la buena?
+url: /2010/09/22/153-dias-de-verdad-de-la-buena/
 ---
 
 Hoy he encontrado una cifra en el periódico: [153 días](http://blogs.elpais.com/eco-lab/2010/09/lo-que-contamina-un-aerogenerador.html). Se refiere al tiempo que presuntamente tarda un aerogenerador en producir la energía que consume su construcción.

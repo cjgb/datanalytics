@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-06 07:14:49+00:00
-draft: false
-title: ¿Cuál es la esencia de la estadística?
-
-url: /2011/04/06/cual-es-la-esencia-de-la-estadistica/
 categories:
 - ciencia de datos
 - estadística
+date: 2011-04-06 07:14:49+00:00
+draft: false
+lastmod: '2025-04-06T19:08:32.943153'
+related:
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2018-01-26-charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria.md
+- 2013-01-02-sobre-los-limites-de-la-mineria-de-datos.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2022-06-28-que-hace-avanzar-la-estadistica.md
 tags:
 - estadística
 - ciencia de datos
+title: ¿Cuál es la esencia de la estadística?
+url: /2011/04/06/cual-es-la-esencia-de-la-estadistica/
 ---
 
 ¿Qué tienen que ver minería de datos y estadística? Podría opinar personalmente sobre el asunto, pero serviré en esta ocasión de pregonero de las [ideas que Jerome H. Friedman dejó escritas al respecto](http://www.salford-systems.com/doc/dm-stat.pdf). Aunque el artículo tiene ya sus casi quince años, las ideas que contiene están todavía en plena vigencia.

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-18
-title: Las reglas generales son para lacayos; el contexto, para reyes
-url: /2022/01/18/reglas-generales-lacayos-contexto-reyes/
 categories:
 - consultoría
+date: 2022-01-18
+lastmod: '2025-04-06T18:48:15.519318'
+related:
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2015-06-04-el-lenguaje-de-los-graficos-en-las-jornadas-de-periodismo-de-datos.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
 tags:
 - formación
 - frases
 - gráficos
+title: Las reglas generales son para lacayos; el contexto, para reyes
+url: /2022/01/18/reglas-generales-lacayos-contexto-reyes/
 ---
 
 La frase
@@ -33,4 +40,3 @@ Existen muchos artículos, funciones, implementaciones de métodos estadísticos
 Etc.
 
 Esa ha sido siempre para mí _la miseria de la formación_. Cuando pienso qué enseñar a unos chavales, siempre me enfrento a ese debate: ¿reglas generales _estilizadas_ que luego, al final, no aplican nunca? ¿Ejemplos _contextuales_ de los que ir extrayendo lecciones? Es fácil educar lacayos pero, ¿cómo convertirlos en reyes?
-

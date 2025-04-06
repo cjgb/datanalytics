@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-12-08
-title: 'Si no podemos dilucidar si algo crece lineal o exponencialmente, ¿qué podemos saber?'
-
-url: /2022/12/08/lineal-o-exponencial
 categories:
 - economía
+date: 2022-12-08
+lastmod: '2025-04-06T18:56:16.448362'
+related:
+- 2011-11-25-escalas-logaritimicas-puede-pero.md
+- 2023-01-24-funciones-enlace.md
+- 2023-02-28-curvas-crecientes-o-no.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2024-11-14-simpson-productividad.md
 tags:
 - economía
 - modelos
@@ -15,6 +19,9 @@ tags:
 - solow
 - artículos
 - epistemología
+title: Si no podemos dilucidar si algo crece lineal o exponencialmente, ¿qué podemos
+  saber?
+url: /2022/12/08/lineal-o-exponencial
 ---
 
 Todos sabemos qué es el crecimiento lineal y el exponencial. Todos sabemos que las funciones lineales y exponenciales tienen un aspecto muy distinto. Sería ocioso ---¿insultante incluso?--- sustentar gráficamente esas afirmaciones.

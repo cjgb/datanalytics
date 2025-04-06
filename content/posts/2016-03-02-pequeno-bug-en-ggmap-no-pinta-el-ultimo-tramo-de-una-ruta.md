@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-02 09:13:04+00:00
-draft: false
-title: 'Pequeño bug en ggmap: no pinta el último tramo de una ruta'
-
-url: /2016/03/02/pequeno-bug-en-ggmap-no-pinta-el-ultimo-tramo-de-una-ruta/
 categories:
 - r
+date: 2016-03-02 09:13:04+00:00
+draft: false
+lastmod: '2025-04-06T19:11:59.808055'
+related:
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2016-04-29-como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2016-03-01-ficheros-kml-con-r-y-ggmap.md
+- 2012-03-14-c2a1mano-que-mapa.md
 tags:
 - bug
 - ggmap
 - r
+title: 'Pequeño bug en ggmap: no pinta el último tramo de una ruta'
+url: /2016/03/02/pequeno-bug-en-ggmap-no-pinta-el-ultimo-tramo-de-una-ruta/
 ---
 
 Supongo que no debería escribirlo aquí sino comunicárselo a quien mantiene [`ggmap`](https://cran.r-project.org/web/packages/ggmap/index.html). Pero ya tuve una experiencia mejorable con él y dos no serán. Así que lo cuento por acá.

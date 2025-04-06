@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-06-03 02:11:19+00:00
-draft: false
-title: Agregador de noticias sobre R en español
-
-url: /2010/06/03/agregador-de-noticias-sobre-r-en-espanol/
 categories:
 - r
+date: 2010-06-03 02:11:19+00:00
+draft: false
+lastmod: '2025-04-06T18:44:26.162510'
+related:
+- 2019-02-27-sobre-el-agregador-de-noticias-sobre-r-en-espanol.md
+- 2017-04-17-ix-jornadas-de-usuarios-de-r-noviembre-en-granada.md
+- 2012-02-14-guia-de-econometria-basica-con-r.md
+- 2013-12-04-ayuda-de-r-en-espanol.md
+- 2012-06-07-hoy-hablaremos-de-r-es-org.md
 tags:
 - r
 - rss
 - agregador
+title: Agregador de noticias sobre R en español
+url: /2010/06/03/agregador-de-noticias-sobre-r-en-espanol/
 ---
 
 Me es grato anunciar que está disponible (una versión beta de) un agregador de noticias sobre R en español. Ha sido desarrollado con el objetivo de proporcionar a la comunidad de usuarios un punto de acceso único a cuantas noticias sobre R se publiquen en la blogosfera en español. Es equivalente a su [versión en inglés]( http://www.r-bloggers.com).

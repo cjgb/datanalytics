@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-18 07:00:06+00:00
-draft: false
-title: Estrategia, predicción y proyección de la población española
-
-url: /2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/
 categories:
 - consultoría
 - números
+date: 2011-10-18 07:00:06+00:00
+draft: false
+lastmod: '2025-04-06T18:51:26.461725'
+related:
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2020-09-29-un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2014-11-14-proyecciones-estimaciones-previsiones-operaciones-y-churros.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
 tags:
 - consultoría
 - estadística pública
 - riesgo
 - ine
+title: Estrategia, predicción y proyección de la población española
+url: /2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/
 ---
 
 Cayó el otro día en mis manos un artículo, _[Strategy under Uncertainty](https://www.mckinseyquarterly.com/Strategy_under_uncertainty_1064)_, que complementa bastante adecuadamente mi entrada del otro día sobre las [proyecciones a corto plazo de la población española](http://www.datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/) que realiza el INE.

@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-08
-lastmod: 2022-02-03
-title: A falta de escenarios, tenemos instituciones con atribuciones solapadas
-url: /2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/
 categories:
 - estadística
+date: 2019-05-08
+lastmod: '2025-04-06T19:03:11.737213'
+related:
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2014-11-14-proyecciones-estimaciones-previsiones-operaciones-y-churros.md
+- 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
+- 2022-05-17-como-calcula-inflacion.md
 tags:
 - airef
 - estadística pública
@@ -13,6 +17,8 @@ tags:
 - población
 - proyecciones
 - varianza
+title: A falta de escenarios, tenemos instituciones con atribuciones solapadas
+url: /2019/05/08/a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas/
 ---
 
 Si yo fuera rey, expropiaría el edificio sito en el número 212 de la Castellana de Madrid, derruiría lo existente y construiría uno imagen especular de

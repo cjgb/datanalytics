@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-27 08:13:49+00:00
-draft: false
-title: Coordenadas polares por doquier
-
-url: /2016/05/27/coordenadas-polares-por-doquier/
 categories:
 - r
+date: 2016-05-27 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T19:06:02.252015'
+related:
+- 2014-03-10-guarjolizacion-de-fotos-con-r.md
+- 2014-05-12-grid-scala-y-arbolitos.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2013-10-28-contando-hexagonos-en-paralelo.md
+- 2014-08-01-coclustering-con-blockcluster.md
 tags:
 - clara
 - cluster
@@ -16,6 +20,8 @@ tags:
 - pam
 - plotrix
 - r
+title: Coordenadas polares por doquier
+url: /2016/05/27/coordenadas-polares-por-doquier/
 ---
 
 El otro día pasé por uno de esos sitios en los que exponen en las paredes obras de artistas medianos con el precio debajo. Me quedé mirando una muy... concéntrica porque me recordaba a [lo que nos regala a menudo Antonio Chinchón](https://aschinchon.wordpress.com/tag/r/). Pregunté de qué trataba la cosa y tuvieron la paciencia de explicármelo: al lado había una foto enorme y, se conoce, las cosas concéntricas eran una reordenación de los píxels de la primera. Una especie de tortilla de patata deconstruida a lo Adriá, pero con fotos.

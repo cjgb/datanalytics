@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-04-27
-title: 'Siete problemas matemáticos que plantea el "deep learning"'
-
-url: /2023/04/27/problemas-matematicos-deep-learning/
 categories:
 - ciencia de datos
+date: 2023-04-27
+lastmod: '2025-04-06T19:00:25.273563'
+related:
+- 2020-01-30-deep-learning-una-evaluacion-critica.md
+- 2020-05-27-por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares.md
+- 2014-03-17-sobre-el-articulo-de-domingos.md
+- 2023-03-02-conformal-prediction.md
+- 2019-07-01-optimizacion-dos-escuelas-y-una-pregunta.md
 tags:
 - ciencia de datos
 - deep learning
 - matemáticas
+title: Siete problemas matemáticos que plantea el "deep learning"
+url: /2023/04/27/problemas-matematicos-deep-learning/
 ---
 
 La emergencia (y el éxito) del llamado aprendizaje profundo (_deep learning_) plantea innumerables cuestiones matemáticas. Algunos algoritmos _funcionan_ (y otros muchos que han quedado en los cajones no, obviamente) y no está muy claro por qué. He aquí una lista de siete problemas que el aprendizaje profundo ha colocado enfrente de la comunidad matemática:

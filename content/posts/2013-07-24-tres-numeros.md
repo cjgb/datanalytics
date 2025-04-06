@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-07-24 07:01:54+00:00
-draft: false
-title: Tres grandes números
-
-url: /2013/07/24/tres-numeros/
 categories:
 - números
+date: 2013-07-24 07:01:54+00:00
+draft: false
+lastmod: '2025-04-06T18:54:17.691634'
+related:
+- 2013-08-14-tres-grandes-numeros-con-enmienda.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2011-10-07-numerismo-interruptus-en-el-ft.md
+- 2017-09-07-ey-en-esta-serie-hay-mas-muertos-que-en-juego-de-tronos.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
 tags:
 - números
+title: Tres grandes números
+url: /2013/07/24/tres-numeros/
 ---
 
 Que el calor fríe las neuronas del autor de estas líneas es algo que sus lectores pueden haber colegido del espaciamiento de las entradas. Y hoy se contentará con yuxtaponer tres números que quizás ellos hayan visto escritos en lugares distintos. Pero que tienen tantos ceros y son de tal magnitud que apenas se pueden comparar sino entre sí. Son:

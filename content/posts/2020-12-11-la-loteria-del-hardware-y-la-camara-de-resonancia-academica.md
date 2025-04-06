@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-11 09:13:00+00:00
-draft: false
-title: La lotería del hardware y la cámara de resonancia académica
-
-url: /2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/
 categories:
 - artículos
 - estadística
+date: 2020-12-11 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:46.470474'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2020-04-06-en-primavera-en-serio-ni-de-cona.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2014-03-28-predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos.md
+- 2024-06-12-cortos.md
 tags:
 - artículos
 - epidemiología
 - estadística
 - hardware
 - serfling
+title: La lotería del hardware y la cámara de resonancia académica
+url: /2020/12/11/la-loteria-del-hardware-y-la-camara-de-resonancia-academica/
 ---
 
 El artículo _[The Hardware Lottery](https://hardwarelottery.github.io/)_ es, hasta cierto punto, informativo. En el fondo, no dice nada que no supiésemos ya: que ciertas ideas, algoritmos, procedimientos, métodos, en diversas disciplinas (¡no en matemáticas!) triunfan esencialmente porque les toca la lotería del _hardware_. No es que sean las mejores desde una perspectiva actual —podría usar aquí los términos _etic_ y _emic_ [a lo ovetense](http://www.filosofia.org/filomat/df237.htm#:~:text=La%20perspectiva%20emic%20describe%20los,%2C%20juez%2C%20etc.)— sino que fueron afortunados y bendecidos por el hecho de estar a la (típicamente, medianeja) altura de los tiempos medidos en términos del desarrollo del _hardware_.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-02 07:12:47+00:00
-draft: false
-title: Twain, Grecia, Pisa, Cataluña y deontología
-
-url: /2011/11/02/twain-grecia-pisa-cataluna-y-deontologia/
 categories:
 - estadística
 - números
+date: 2011-11-02 07:12:47+00:00
+draft: false
+lastmod: '2025-04-06T19:10:39.309369'
+related:
+- 2024-01-09-regresiones_pisa.md
+- 2014-04-23-demasiado-simple.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2016-12-07-enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es.md
+- 2023-01-26-educacion-tabarrok.md
 tags:
 - estadística
 - números
 - pisa
 - ética
+title: Twain, Grecia, Pisa, Cataluña y deontología
+url: /2011/11/02/twain-grecia-pisa-cataluna-y-deontologia/
 ---
 
 Leí un chiste el otro día: aparecía el ministro de economía de Grecia en su despacho revisando unos informes y comentándole a su asesor: "La única solución es volver a mentir". No sin cierta dosis de razón nos recuerdan de vez en cuando la cita —de problemática [atribución a Mark Twain](http://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics)—: _Hay tres tipos de mentiras: mentiras pequeñas, mentiras grandes y estadísticas_.

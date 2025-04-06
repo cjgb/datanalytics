@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-10-29
-title: 'Más allá del "software" libre y algunos asuntos más'
-url: /2024/10/29/cortos-estadística
 categories:
 - cortos
+date: 2024-10-29
+lastmod: '2025-04-06T18:55:46.357410'
+related:
+- 2010-08-05-un-ilustrador-problema-de-compatibilidad-de-licencias-libres.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2015-02-26-bellostamisc-y-una-moraleja.md
+- 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md
+- 2012-10-29-liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia.md
 tags:
 - jax
 - postgres
@@ -12,6 +17,8 @@ tags:
 - código abierto
 - gpl
 - stan
+title: Más allá del "software" libre y algunos asuntos más
+url: /2024/10/29/cortos-estadística
 ---
 
 1. Últimamente, casi siempre que se usan las palabras _tecnología_ y _enseñanza_ en una misma frase es para denunciar los _perniciosos_ efectos de la primera en la segunda. No obstante, [aquí_](https://nadaesgratis.es/cabrales/puede-servir-la-tecnologia-para-mejorar-la-atencion-a-la-diversidad-escolar) se señala una de sus potenciales atractivos: adecuadamente usada, podría permitir gestionar la _varianza_ (por no usar el término tabú, _desigualdad_), en el desempeño escolar.

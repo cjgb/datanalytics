@@ -1,16 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-03-25
-title: 'Una nueva selección de novedades relevantes del mundo de los LLMs'
-description: "Colección de enlaces sobre LLMs, IA generativa, embeddings y asuntos relacionados, con particular énfasis en las aplicaciones para el desarrollo de código."
-url: /2025/03/25/cortos-llms
 categories:
 - cortos
+date: 2025-03-25
+description: Colección de enlaces sobre LLMs, IA generativa, embeddings y asuntos
+  relacionados, con particular énfasis en las aplicaciones para el desarrollo de código.
+lastmod: '2025-04-06T18:51:23.815659'
+related:
+- 2024-07-18-cortos-llms.md
+- 2024-04-19-cortos.md
+- 2025-02-04-cortos-llms.md
+- 2024-06-06-cortos-llms.md
+- 2024-02-06-llm-obsidian.md
 tags:
 - llms
 - mcp
 - embeddings
 - agentes
+title: Una nueva selección de novedades relevantes del mundo de los LLMs
+url: /2025/03/25/cortos-llms
 ---
 
 Todo el mundo lleva días hablando del [MCP](https://www.anthropic.com/news/model-context-protocol). Creo que ni merece la pena decir qué cosa es.

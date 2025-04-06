@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-16 08:13:58+00:00
-draft: false
-title: Weapons of Math Destruction
-
-url: /2017/01/16/weapons-of-math-destruction/
 categories:
 - estadística
+date: 2017-01-16 08:13:58+00:00
+draft: false
+lastmod: '2025-04-06T18:56:59.614869'
+related:
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2023-10-03-muestreo-superricos.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - estadística
 - estadística bayesiana
 - libros
+title: Weapons of Math Destruction
+url: /2017/01/16/weapons-of-math-destruction/
 ---
 
 Así se titula un libro que no he leído y que, pese a lo cual, como los malos críticos, voy a comentar. Los libros suelen estar plagados de hojarasca, tal vez porque de otra manera no se puede hacer crecer un par de ideas más o menos originales a las cientoypico páginas como mínimo que uno espera encontrar entre dos tapas. El relato corto no da caché. Y yo ando corto de tiempo.

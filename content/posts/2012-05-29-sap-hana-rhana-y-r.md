@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-29 06:52:15+00:00
-draft: false
-title: SAP, HANA, RHANA y R
-
-url: /2012/05/29/sap-hana-rhana-y-r/
 categories:
 - r
+date: 2012-05-29 06:52:15+00:00
+draft: false
+lastmod: '2025-04-06T18:46:05.369354'
+related:
+- 2010-03-01-r-en-the-economist.md
+- 2012-10-16-r-como-herramienta-de-captura-de-datos.md
+- 2011-02-07-c2bfun-torpedo-bajo-la-linea-de-flotacion-de-sas.md
+- 2011-03-10-r-hdf5-y-bases-de-datos-orientadas-a-columnas.md
+- 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
 tags:
 - hana
 - r
+title: SAP, HANA, RHANA y R
+url: /2012/05/29/sap-hana-rhana-y-r/
 ---
 
 SAP es tal vez la mayor empresa europea de _software_. Aunque es principalmente conocida por sus programas de gestión empresarial, ha hecho sus pinitos en el mundo de los gestores de bases de datos con [HANA](http://en.wikipedia.org/wiki/SAP_HANA). Una de sus principales peculiaridades es que almacena la información en memoria, beneficiándose, por un lado, del abaratamiento del _hardware_ y, por el otro, de la velocidad de acceso.

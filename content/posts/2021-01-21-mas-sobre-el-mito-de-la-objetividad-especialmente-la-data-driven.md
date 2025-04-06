@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-01-21 09:13:00+00:00
-draft: false
-title: Más sobre el mito de la objetividad (especialmente, la "data-driven")
-
-url: /2021/01/21/mas-sobre-el-mito-de-la-objetividad-especialmente-la-data-driven/
 categories:
 - mala ciencia
+date: 2021-01-21 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:48:39.482152'
+related:
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
+- 2023-10-03-muestreo-superricos.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - ciencia
 - extrapolación
 - ideología
 - interpolación
 - xkcd
+title: Más sobre el mito de la objetividad (especialmente, la "data-driven")
+url: /2021/01/21/mas-sobre-el-mito-de-la-objetividad-especialmente-la-data-driven/
 ---
 
 Prometí escribir sobre

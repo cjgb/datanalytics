@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-12 08:13:43+00:00
-draft: false
-title: ¿Qué significa "vinculados de forma muy significativa"?
-
-url: /2016/01/12/que-significa-vinculados-de-forma-muy-significativa/
 categories:
 - estadística
 - números
+date: 2016-01-12 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T19:05:48.473675'
+related:
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2016-09-08-quien-demonios-lee-el-segundo-parrafo.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
 tags:
 - datos públicos
 - lme4
@@ -15,6 +19,8 @@ tags:
 - p-valores
 - suicidio
 - causalidad
+title: ¿Qué significa "vinculados de forma muy significativa"?
+url: /2016/01/12/que-significa-vinculados-de-forma-muy-significativa/
 ---
 
 Diríase que dos fenómenos _vinculados de forma muy significativa_ guardan una potente relación causal. Creo que eso es lo que entendería cualquiera.

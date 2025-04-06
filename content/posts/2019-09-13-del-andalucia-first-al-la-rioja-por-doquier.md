@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-09-13 09:13:21+00:00
-draft: false
-title: Del "Andalucía 'first'" al "La Rioja por doquier"
-
-url: /2019/09/13/del-andalucia-first-al-la-rioja-por-doquier/
 categories:
 - estadística
 - números
+date: 2019-09-13 09:13:21+00:00
+draft: false
+lastmod: '2025-04-06T19:05:03.726880'
+related:
+- 2011-11-03-2872.md
+- 2023-04-24-estadistica-creativa.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
 tags:
 - andalucía
 - estadística pública
@@ -15,6 +19,8 @@ tags:
 - r
 - rioja
 - varianza
+title: Del "Andalucía 'first'" al "La Rioja por doquier"
+url: /2019/09/13/del-andalucia-first-al-la-rioja-por-doquier/
 ---
 
 En este blog ya nos hemos graduado del "Andalucía _first_" (sí, esa reiterada manía a recordarnos que en Andalucía siempre hay más de todo lo que correlacione más o menos directamente con el número de habitantes).

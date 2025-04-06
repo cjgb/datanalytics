@@ -1,15 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-11-14
-title: 'La paradoja (de Simpson) detrás de ciertos argumentos en pro de una subida generalizada de salarios'
-url: /2024/11/14/productividad-simpson
 categories:
 - estadística
+date: 2024-11-14
+lastmod: '2025-04-06T18:53:46.098956'
+related:
+- 2011-08-25-ubi-ratio-ibi-paradoxa-simpsorum.md
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
+- 2021-01-28-simpson-sobre-la-desigualdad.md
+- 2013-08-13-suben-o-bajan.md
+- 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md
 tags:
 - estadística
 - economía
 - productividad
 - paradoja de simpson
+title: La paradoja (de Simpson) detrás de ciertos argumentos en pro de una subida
+  generalizada de salarios
+url: /2024/11/14/productividad-simpson
 ---
 
 Trae El Confidencial un artículo de Javier Jorrín ---según Jesús Fernández-Villaverde,

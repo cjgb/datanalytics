@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-14 09:13:00+00:00
-draft: false
-title: Explicación de los scorings de "ciertos" modelos
-
-url: /2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/
 categories:
 - ciencia de datos
 - estadística
+date: 2020-10-14 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:00:13.072621'
+related:
+- 2020-10-09-explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
+- 2013-11-06-importancia-de-variables-en-arboles.md
+- 2020-03-16-interacciones-y-seleccion-de-modelos.md
 tags:
 - explicación
 - lime
 - modelos
 - nmf
 - ranger
+title: Explicación de los scorings de "ciertos" modelos
+url: /2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/
 ---
 
 Esta entrada la hago por petición popular y para rematar de alguna manera lo que [incoé hace unos días](https://www.datanalytics.com/2020/10/09/explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring/). Seré breve hasta lo telegráfico:
@@ -31,4 +37,3 @@ Notas:
 * No me interesa (al menos en el caso de uso que motivó el desarrollo del algoritmo anterior) explicar _todas_ las predicciones sino solamente las que tienen _scorings_ más altos. El resto, no se usan para nada.
 * Los métodos al uso para explicar predicciones lo hacen en términos de las variables del modelo. Sin embargo, los usuarios finales de la explicación pueden no tener mucha idea de qué puede llegar a significar una variable como `max_call_device_usage_period`. Porque también existen conjuntos de datos que  no son `Titanic`. Se hace necesario _postprocesar_ reglas basadas en la intervención de variables de ese estilo en _motivos_ comprensibles.
 * Podría añadirse el sentido del corte en las variables, es decir, registrar no solo que la observación ha pasado por una bifurcación de un árbol en que interviene `edad` sino también si lo ha hecho por la rama del `>` o del `<`.
-

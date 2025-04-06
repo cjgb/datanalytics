@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-07-04 09:13:16+00:00
-draft: false
-title: Mortalidad y domingos
-
-url: /2019/07/04/mortalidad-y-domingos/
 categories:
 - estadística
 - números
+date: 2019-07-04 09:13:16+00:00
+draft: false
+lastmod: '2025-04-06T18:45:28.357918'
+related:
+- 2019-07-09-estacionalidad-semanal-de-la-mortalidad.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 tags:
 - domingo
 - mortalidad
+title: Mortalidad y domingos
+url: /2019/07/04/mortalidad-y-domingos/
 ---
 
 Es sabido que [nacen menos niños en domingo](https://pubag.nal.usda.gov/catalog/3054578), efecto, parece de la planificación de partos. Tengo cierto indicio, que voy a ver cuándo (y si) puedo corroborar, de que también hay menos fallecimientos. Mírese

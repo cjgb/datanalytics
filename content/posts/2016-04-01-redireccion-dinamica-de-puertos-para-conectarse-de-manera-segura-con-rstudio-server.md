@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-01 09:13:32+00:00
-draft: false
-title: Redirección dinámica de puertos para conectarse de manera segura con RStudio
-  Server
-
-url: /2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/
 categories:
 - programación
 - r
+date: 2016-04-01 09:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:55:49.295442'
+related:
+- 2016-04-04-tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server.md
+- 2013-02-18-descarga-de-ficheros-con-r-a-traves-de-sftp.md
+- 2015-04-10-restauracion-de-ficheros-bak-sin-windows.md
+- 2011-01-31-r-node-una-interfaz-web-para-r.md
+- 2014-12-03-paralelizacion-en-r-con-snow.md
 tags:
 - r
 - rstudio
 - socks
 - ssh
+title: Redirección dinámica de puertos para conectarse de manera segura con RStudio
+  Server
+url: /2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/
 ---
 
 Finalmente, instalé [RStudio Server](https://www.rstudio.com/products/rstudio/) en la máquina que está sirviéndote esta página. Pero no dejo abierto el puerto 8787 al exterior ni _jarto_ de vino.

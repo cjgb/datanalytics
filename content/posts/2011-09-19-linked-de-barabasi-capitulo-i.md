@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-19 07:23:49+00:00
-draft: false
-title: Linked, de Barabasi, capítulo I
-
-url: /2011/09/19/linked-de-barabasi-capitulo-i/
 categories:
 - probabilidad
 - r
+date: 2011-09-19 07:23:49+00:00
+draft: false
+lastmod: '2025-04-06T19:12:16.736121'
+related:
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
+- 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md
+- 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
+- 2014-08-06-naive-bayes-como-red-bayesiana.md
 tags:
 - r
 - redes sociales
+title: Linked, de Barabasi, capítulo I
+url: /2011/09/19/linked-de-barabasi-capitulo-i/
 ---
 
 No sé si seguir leyendo libros. Sus autores los llenan de letras. Y es un lujo poder disponer del tiempo de leerlas todas.

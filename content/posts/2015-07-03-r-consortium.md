@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-03 10:40:34+00:00
-draft: false
-title: R Consortium
-
-url: /2015/07/03/r-consortium/
 categories:
 - r
+date: 2015-07-03 10:40:34+00:00
+draft: false
+lastmod: '2025-04-06T19:06:53.433604'
+related:
+- 2015-01-28-la-profesionalizacion-de-r.md
+- 2011-11-21-iii-jornadas-de-usuarios-de-r-algunas-reflexiones.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2016-02-01-premoniciones-de-tirole-sobre-sobre-el-r-consortium.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - r
 - r-consortium
+title: R Consortium
+url: /2015/07/03/r-consortium/
 ---
 
 Acaba de nacer el [R Consortium](https://www.r-consortium.org/) con no sé qué objetivos. Los declarados son
@@ -28,7 +34,3 @@ Habrá quien lo vea como una especie de golpe de estado corporativo: grandes emp
 * Que sin unos cuantos logos reconocibles detrás, no veremos R ni en el Santander ni en el Banco de España (lo que no implica que con ellos los hayamos de ver).
 * Que para llegar _altius_, _citius_ y _fortius_, mejor el logo de Google que la firma de Ripley.
 * Que algún talibán pesadísimo del _software_ libre (que no de la libertad de _software_) va a bufar mucho, pero que me da igual.
-
-
-
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-12-02 08:13:44+00:00
-draft: false
-title: No soy yo, sos vos; repito, sos vos
-
-url: /2016/12/02/no-soy-yo-sos-vos-repito-sos-vos/
 categories:
 - gráficos
+date: 2016-12-02 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:09:21.884487'
+related:
+- 2016-03-10-hoy-que-me-he-puesto-traje-y-corbata.md
+- 2022-02-22-grafico-quitarse-sombrero.md
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2016-12-01-hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-me-acordaba.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
 tags:
 - anumerismo
 - graficaca
 - gráficos
+title: No soy yo, sos vos; repito, sos vos
+url: /2016/12/02/no-soy-yo-sos-vos-repito-sos-vos/
 ---
 
 Hoy he visto

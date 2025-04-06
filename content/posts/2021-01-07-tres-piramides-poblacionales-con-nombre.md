@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-01-07 09:13:00+00:00
-draft: false
-title: Tres pirámides poblacionales con nombre
-
-url: /2021/01/07/tres-piramides-poblacionales-con-nombre/
 categories:
 - gráficos
 - números
+date: 2021-01-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:46:10.678098'
+related:
+- 2014-02-17-donde-estoy-donde-estare.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2018-02-27-estructura-poblacional-de-espana-2010-2050.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2023-04-24-estadistica-creativa.md
 tags:
 - españa
 - pirámide de edad
 - población
 - demografía
+title: Tres pirámides poblacionales con nombre
+url: /2021/01/07/tres-piramides-poblacionales-con-nombre/
 ---
 
 La primera es esta, a la que muchos conocen como la pirámide de población española de 1992, pero que yo conozco como la pirámide de población de la **masificación universitaria**:

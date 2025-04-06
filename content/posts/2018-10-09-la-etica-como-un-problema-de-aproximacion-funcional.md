@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-09 08:13:42+00:00
-draft: false
-title: La ética, como un problema de aproximación funcional
-
-url: /2018/10/09/la-etica-como-un-problema-de-aproximacion-funcional/
 categories:
 - varios
+date: 2018-10-09 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:59:58.011502'
+related:
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2024-10-17-interpretacion-modelos.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 tags:
 - ética
 - vapnik
 - rawls
 - interpolación
+title: La ética, como un problema de aproximación funcional
+url: /2018/10/09/la-etica-como-un-problema-de-aproximacion-funcional/
 ---
 
 Hoy, las notas primero.

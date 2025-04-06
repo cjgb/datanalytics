@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-28 07:07:46+00:00
-draft: false
-title: 'R en la enseñanza: unos comentarios a los comentarios'
-
-url: /2011/11/28/r-en-la-ensenanza-unos-comentarios-a-los-comentarios/
 categories:
 - estadística
 - r
+date: 2011-11-28 07:07:46+00:00
+draft: false
+lastmod: '2025-04-06T19:01:03.223071'
+related:
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2015-01-28-la-profesionalizacion-de-r.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2010-02-26-febrero.md
 tags:
 - estadística
 - r
 - sas
 - enseñanza
 - universidad
+title: 'R en la enseñanza: unos comentarios a los comentarios'
+url: /2011/11/28/r-en-la-ensenanza-unos-comentarios-a-los-comentarios/
 ---
 
 Iba a responder a los comentarios de [mi entrada sobre las Jornadas de R](http://www.datanalytics.com/2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/) y, muy en particular a los de Fernando Fernández, uno de los más fieles lectores de esta bitácora, y me he extendido tanto que he acabado convirtiéndola en una nueva. Pido excusas por haber tal vez abusado de mis prerrogativas para auparme de esta manera.

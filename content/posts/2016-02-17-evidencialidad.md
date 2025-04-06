@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-02-17 09:13:44+00:00
-draft: false
-title: Evidencialidad
-
-url: /2016/02/17/evidencialidad/
 categories:
 - probabilidad
+date: 2016-02-17 09:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:06:36.714894'
+related:
+- 2019-06-24-existiria-la-cosa-de-la-que-voy-a-hablar-lo-veo-muy-poco-probable.md
+- 2015-07-01-condicional-e-incertidumbre.md
+- 2023-11-23-futuro-subjuntivo.md
+- 2022-12-29-aristoteles-probable-improbable.md
+- 2015-09-07-prioris-subjetivas.md
 tags:
 - condicional
 - evidencialidad
 - incertidumbre
 - probabilidad
+title: Evidencialidad
+url: /2016/02/17/evidencialidad/
 ---
 
 Por afición y, últimamente, por motivos laborales también, me ha preocupado cómo se refleja la incertidumbre en el lenguaje y cómo este sirve para transmitir aquella (véase, por ejemplo, [esto](http://www.datanalytics.com/2015/07/01/condicional-e-incertidumbre/)).
@@ -27,4 +33,3 @@ En el español tenemos algunos recursos para manifestar grados de certidumbre (e
 Para saber más del asunto, [esto](https://en.wikipedia.org/wiki/Evidentiality).
 
 (Y gracias a [Elena Álvarez](https://twitter.com/lirondos) por el hilo).
-

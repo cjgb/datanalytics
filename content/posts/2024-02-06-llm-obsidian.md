@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-02-06
-title: 'Mi última aplicación de los LLMs en producción'
-url: /2024/02/06/llms-pocket-obsidian/
 categories:
 - computación
+date: 2024-02-06
+lastmod: '2025-04-06T19:04:09.337488'
+related:
+- 2025-03-25-cortos-llms.md
+- 2012-11-07-mapreduce-con-mincedmeat.md
+- 2024-05-09-cortos-tecnologia.md
+- 2024-07-18-cortos-llms.md
+- 2024-04-19-cortos.md
 tags:
 - llms
 - obsidian
 - lectura
 - pocket
 - computación
+title: Mi última aplicación de los LLMs en producción
+url: /2024/02/06/llms-pocket-obsidian/
 ---
 
 Esta entrada bien podría llamarse también _Mi primera aplicación de los LLMs en producción_, siendo que ninguna versión falta a la verdad. También es cierto que no es la primera que construyo ---pero sin que haya trascendido---; y que hay que cualificar la expresión _en producción_ siendo que corre en mi servidor doméstico y para mis propios fines personales.

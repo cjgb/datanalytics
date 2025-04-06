@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-04-07 00:43:10+00:00
-draft: false
-title: El censo del Rey David y el castigo de Yahvé
-
-url: /2010/04/07/el-censo-del-rey-david-y-el-castigo-de-yahve/
 categories:
 - estadística
+date: 2010-04-07 00:43:10+00:00
+draft: false
+lastmod: '2025-04-06T19:09:42.293958'
+related:
+- 2013-01-21-el-primer-analisis-clinico-en-la-biblia.md
+- 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
+- 2012-10-11-abenjaldun-el-precursor.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md
 tags:
 - estadística
+title: El censo del Rey David y el castigo de Yahvé
+url: /2010/04/07/el-censo-del-rey-david-y-el-castigo-de-yahve/
 ---
 
 A la vuelta de la Semana Santa, voy a escribir sobre una historia que leí en un librito muy recomendable de [I.B. Cohen](http://es.wikipedia.org/wiki/Bernard_Cohen), _El triunfo de los números_. Imagino que mis lectores, más eruditos que yo, seguramente, la conocerán de antiguo.

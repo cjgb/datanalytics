@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-08-11 07:13:21+00:00
-draft: false
-title: 'Procesos puntuales: una primera aproximación'
-
-url: /2014/08/11/procesos-puntuales-una-primera-aproximacion/
 categories:
 - estadística
 - r
+date: 2014-08-11 07:13:21+00:00
+draft: false
+lastmod: '2025-04-06T19:00:35.481062'
+related:
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md
+- 2012-07-27-a-los-datos-mismos.md
 tags:
 - poisson
 - procesos puntuales
 - r
+title: 'Procesos puntuales: una primera aproximación'
+url: /2014/08/11/procesos-puntuales-una-primera-aproximacion/
 ---
 
 Tengo una serie de datos que se parecen a lo que cierta gente llama procesos puntuales y que se parecen a los que se introducen (muuuuy prolijamente) [aquí](http://books.google.ch/books/about/Point_Process_Theory_and_Applications.html?id=mTgEAL7vtwoC). Gráficamente, tienen este aspecto:

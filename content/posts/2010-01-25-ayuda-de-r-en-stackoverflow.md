@@ -1,12 +1,19 @@
 ---
-title: Ayuda de R en StackOverflow
 author: Carlos J. Gil Bellosta
-date: 2010-01-25
-url: /2010/01/25/ayuda-de-r-en-stackoverflow/
 categories:
 - r
+date: 2010-01-25
+lastmod: '2025-04-06T19:07:24.953770'
+related:
+- 2013-12-04-ayuda-de-r-en-espanol.md
+- 2010-06-03-agregador-de-noticias-sobre-r-en-espanol.md
+- 2014-06-23-grupo-de-usuarios-de-r-de-portugal.md
+- 2011-01-31-r-node-una-interfaz-web-para-r.md
+- 2012-06-07-hoy-hablaremos-de-r-es-org.md
 tags:
 - r
+title: Ayuda de R en StackOverflow
+url: /2010/01/25/ayuda-de-r-en-stackoverflow/
 ---
 
 Los usuarios de R que necesiten ayuda pueden obtenerla de diversas fuentes, entre las que cabe destacar:

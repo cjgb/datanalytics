@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-12-20
-title: "Significativo vs significativo"
-
-url: /2022/12/20/significativo-vs-significativo/
 categories:
 - estadística
+date: 2022-12-20
+lastmod: '2025-04-06T18:52:28.167872'
+related:
+- 2019-03-14-lo-que-las-diferencias-de-medias-evocan.md
+- 2017-10-25-mismo-trabajo-noseque-cosa.md
+- 2012-10-23-test-de-student-e-importancia-practica-una-solucion-para-su-discusion.md
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - prueba de hipótesis
 - significancia
 - salarios
 - salud pública
 - política
+title: Significativo vs significativo
+url: /2022/12/20/significativo-vs-significativo/
 ---
 
 Con esta entrada voy a abundar en una literatura ya muy extensa y que muchos encontrarán ya, con razón, aburrida, sobre las diferencias entre significativo y significativo.

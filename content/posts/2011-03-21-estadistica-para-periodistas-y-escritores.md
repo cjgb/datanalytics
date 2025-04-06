@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-21 09:55:42+00:00
-draft: false
-title: Estadística para periodistas y escritores
-
-url: /2011/03/21/estadistica-para-periodistas-y-escritores/
 categories:
 - estadística
 - números
+date: 2011-03-21 09:55:42+00:00
+draft: false
+lastmod: '2025-04-06T18:45:20.934731'
+related:
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2011-06-27-estadistica-como-dios-manda.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2012-10-30-cultura-numerica-incultura-numerica.md
 tags:
 - estadística
 - números
+title: Estadística para periodistas y escritores
+url: /2011/03/21/estadistica-para-periodistas-y-escritores/
 ---
 
 Hace tiempo, mucho ya, decidí que no me interesaba desarrollar una carrera dentro de la academia. Pesó en la decisión el hecho de que entre las cosas punteras, entre el _estado del arte_ a cuyo progreso se dedican nuestras universidades y lo que de ellas absorbe la sociedad (léase: empresas, instituciones oficiales, la prensa, el vulgo) mediaba una extensa tierra de nadie en la que poder plantar mi alegórica tienda.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-04 09:13:00+00:00
-draft: false
-title: Sobre la "Carta de Derechos  Digitales"
-
-url: /2020/12/04/sobre-la-carta-de-derechos-digitales/
 categories:
 - ciencia de datos
 - varios
+date: 2020-12-04 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:01:13.334352'
+related:
+- 2020-08-31-sobre-la-muy-necesaria-oficina-del-dato.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2020-07-29-un-instituto-nacional-de-datos.md
+- 2021-09-16-sobre-la-economia-conductual.md
 tags:
 - ciencia de datos
 - derecho
 - economía
 - márketing
+title: Sobre la "Carta de Derechos  Digitales"
+url: /2020/12/04/sobre-la-carta-de-derechos-digitales/
 ---
 
 No cualquier ministerio sino precisamente el de economía (lo subrayo: es muy relevante para lo que sigue) ha colgado de su portal una (propuesta de) _[Carta de Derechos Digitales](https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/participacion_publica/audiencia/ficheros/SEDIACartaDerechosDigitales.pdf)_ para su [pública consulta](https://portal.mineco.gob.es/es-es/ministerio/participacionpublica/audienciapublica/Paginas/SEDIA_Carta_Derechos_Digitales.aspx).

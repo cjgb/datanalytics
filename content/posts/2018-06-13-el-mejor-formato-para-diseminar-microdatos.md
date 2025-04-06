@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-06-13 08:13:04+00:00
-draft: false
-title: ¿El mejor formato para diseminar microdatos?
-
-url: /2018/06/13/el-mejor-formato-para-diseminar-microdatos/
 categories:
 - estadística
+date: 2018-06-13 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T19:02:38.747902'
+related:
+- 2012-08-13-fallecimientos-y-microdatos.md
+- 2024-01-18-microdatoses-ultima-version.md
+- 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
+- 2018-06-12-un-aplauso-para-el-ine.md
+- 2016-10-05-barometros-del-cis-con-r.md
 tags:
 - ine
 - json-stat
 - microdatos
 - sdmx
+title: ¿El mejor formato para diseminar microdatos?
+url: /2018/06/13/el-mejor-formato-para-diseminar-microdatos/
 ---
 
 A raíz de mi entrada de ayer, se han iniciado en mi derredor algunas discusiones sobre cuál podría ser el formato indicado para diseminar microdatos. En particular, los del INE. Y el asunto no es trivial.

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-09-24
-title: 'Los boxplots como "herramientas de entretiempo" y cuatro asuntos más'
-url: /2024/09/24/cortos-estadística
 categories:
 - cortos
+date: 2024-09-24
+lastmod: '2025-04-06T19:05:27.597555'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-10-17-interpretacion-modelos.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
+- 2024-09-12-cortos-stats.md
+- 2024-12-03-cortos-stats.md
 tags:
 - visualización
 - modelos
 - metodología
+title: Los boxplots como "herramientas de entretiempo" y cuatro asuntos más
+url: /2024/09/24/cortos-estadística
 ---
 
 ### I.

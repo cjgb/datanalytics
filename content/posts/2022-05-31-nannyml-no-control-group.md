@@ -1,15 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-31
-title: "NannyML: ¿estima realmente la bondad de un modelo sin grupo de control?"
-description: 'Evaluando NannyML y la promesa de que estima la bondad de un modelo sin necesidad de un grupo de control'
-url: /2022/05/31/nannyml/
 categories:
 - estadística
+date: 2022-05-31
+description: Evaluando NannyML y la promesa de que estima la bondad de un modelo sin
+  necesidad de un grupo de control
+lastmod: '2025-04-06T19:05:10.818831'
+related:
+- 2023-03-02-conformal-prediction.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2022-12-22-correlacion-y-y-hat.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - modelización
 - nannyml
 - grupo de control
+title: 'NannyML: ¿estima realmente la bondad de un modelo sin grupo de control?'
+url: /2022/05/31/nannyml/
 ---
 
 Imaginemos que tenemos un modelo para resolver un problema de clasificación binaria. Supongamos, sin pérdida de generalidad (cámbiese lo que haya de cambiarse), que se trata de un árbol.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-24 06:49:02+00:00
-draft: false
-title: Jugar empobrece
-
-url: /2012/05/24/jugar-empobrece/
 categories:
 - números
 - probabilidad
+date: 2012-05-24 06:49:02+00:00
+draft: false
+lastmod: '2025-04-06T18:55:28.981143'
+related:
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2015-09-01-odds-probabilidades.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2011-06-01-micromuertes.md
 tags:
 - números
 - probabilidad
+title: Jugar empobrece
+url: /2012/05/24/jugar-empobrece/
 ---
 
 Fumar mata. Cien gramos de barritas de cereales (cuatro unidades) contienen 0.2 gramos de sodio. Y unos carteles amarillos indican que hay que tener cuidado al pisar porque acaban de fregar el suelo. El estado quiere que dejemos de fumar, tengamos una dieta sana y no nos descalabremos.

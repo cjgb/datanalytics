@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-09 08:13:34+00:00
-draft: false
-title: La estadística (y la ingenería, y la medicina, y...) es una tecnología
-
-url: /2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/
 categories:
 - charlas
 - estadística
+date: 2017-10-09 08:13:34+00:00
+draft: false
+lastmod: '2025-04-06T18:45:12.955373'
+related:
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2011-03-15-metodologia-casuistica-y-tipologia.md
+- 2017-04-04-llego-llego-el-tiempo-de-la-ingenieria-estadistica.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2019-08-28-esto-no-trata-sobre-lo-que-la-ciencia-es.md
 tags:
 - charlas
 - estadística
 - pamplona
 - técnica
 - tecnología
+title: La estadística (y la ingenería, y la medicina, y...) es una tecnología
+url: /2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/
 ---
 
 Abundo aquí en un punto polémico de [mi charla de Pamplona](https://www.datanalytics.com/2017/09/25/charla-en-pamplona/): el que define la estadística como una tecnología (bajo una definición bastante particular de ella).

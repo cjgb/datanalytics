@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-10-26 09:13:00+00:00
-draft: false
-title: Sobre las R² pequeñas y sus interpretaciones
-
-url: /2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/
 categories:
 - estadística
+date: 2021-10-26 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:09.645581'
+related:
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-06-20-mas-r-cuadrado.md
 tags:
 - r cuadrado
 - regresión lineal
+title: Sobre las R² pequeñas y sus interpretaciones
+url: /2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/
 ---
 
 Hace unos meses escribí una [entrada en defensa (parcial) de una regresión lineal con una R² pequeña](https://www.datanalytics.com/2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r2-baja-no-es-uno-de-ellos/). He vuelto a pensar sobre ella y retomo la discusión para esclarecer ---sobre todo, para profanos--- qué mide la R² y cómo interpretarla según el contexto.

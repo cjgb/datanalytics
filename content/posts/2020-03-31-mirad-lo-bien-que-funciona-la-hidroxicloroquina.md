@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-31 09:13:00+00:00
-draft: false
-title: Mirad lo bien que funciona la hidroxicloroquina
-
-url: /2020/03/31/mirad-lo-bien-que-funciona-la-hidroxicloroquina/
 categories:
 - artículos
 - mala ciencia
+date: 2020-03-31 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:10.302857'
+related:
+- 2020-05-07-coronavirus-cualitativo.md
+- 2018-01-24-la-dieta-de-hambre-en-dias-alternos-en-la-alimentacion-de-los-viejos.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 tags:
 - artículos
 - coronavirus
 - mala ciencia
+title: Mirad lo bien que funciona la hidroxicloroquina
+url: /2020/03/31/mirad-lo-bien-que-funciona-la-hidroxicloroquina/
 ---
 
 Habréis oído hablar del [artículo de la hidroxicloroquina](http://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf) (como tratamiento para el coronavirus). Lo resumo.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-03 02:42:06+00:00
-draft: false
-title: ¿Por qué no una competición?
-
-url: /2010/10/03/por-que-no-una-competicion/
 categories:
 - consultoría
+date: 2010-10-03 02:42:06+00:00
+draft: false
+lastmod: '2025-04-06T18:57:41.703044'
+related:
+- 2011-03-09-una-propuesta-de-crowdsourcing-analitico.md
+- 2010-03-07-c2bfsabes-estadistica-c2bfquieres-ganar-100k-dolares-pues-lee.md
+- 2010-10-09-c2bfes-realmente-posible-la-anonimizacion.md
+- 2011-01-27-nueva-competicion-de-mineria-de-datos-reconocimiento-de-instrumentos-musicales.md
+- 2010-04-22-goldcorp-netflix-kaggle-mineria-de-datos-y-la-nueva-economia.md
 tags:
 - consultoría
 - ciencia de datos
+title: ¿Por qué no una competición?
+url: /2010/10/03/por-que-no-una-competicion/
 ---
 
 Después de haber hablado de [competiciones de minería de datos](http://www.datanalytics.com/2010/04/22/goldcorp-netflix-kaggle-mineria-de-datos-y-la-nueva-economia/), [participado en una con mediano éxito](http://www.datanalytics.com/2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/) y entrado en contacto con sus organizadores a raíz de eso, escribo para pulsar la opinión de mis lectores acerca de si es plausible que en un futuro empresas y organizaciones varias vean como una opción viable para resolver sus problemas analíticos el plantearlos como una competición abierta a quien quiera participar en ella.

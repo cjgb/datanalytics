@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-03 08:13:00+00:00
-draft: false
-title: Contrariamente a lo que creía recordar, "Hot deck" != LOCF
-
-url: /2020/09/03/contrariamente-a-lo-que-creia-recordar-hot-deck-locf/
 categories:
 - estadística
 - r
+date: 2020-09-03 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:10.968234'
+related:
+- 2011-05-30-dos-perspectivas-sobre-el-problema-de-los-valores-no-informados.md
+- 2024-07-10-cortos-stats.md
+- 2022-06-07-generalized-random-forests.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2024-02-13-outliers-dos-modos.md
 tags:
 - imputación
 - paquetes
 - r
+title: Contrariamente a lo que creía recordar, "Hot deck" != LOCF
+url: /2020/09/03/contrariamente-a-lo-que-creia-recordar-hot-deck-locf/
 ---
 
 Imputación (que es algo en lo que muy a regañadientes estoy trabajando estos días).

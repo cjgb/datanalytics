@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-06-08 21:39:09+00:00
-draft: false
-title: '20-10-2010: Día Mundial de la Estadística (y terremotos)'
-
-url: /2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/
 categories:
 - estadística
+date: 2010-06-08 21:39:09+00:00
+draft: false
+lastmod: '2025-04-06T18:45:35.067236'
+related:
+- 2010-10-19-c2a1feliz-dia-de-la-estadistica.md
+- 2010-11-06-la-estadistica-en-los-sellos-del-siglo-xx-por-cortesia-del-ine.md
+- 2012-03-26-2013-ano-internacional-de-la-estadistica.md
+- 2011-06-03-explica-el-portal-divulgativo-del-ine.md
+- 2014-11-14-proyecciones-estimaciones-previsiones-operaciones-y-churros.md
 tags:
 - estadística
+title: '20-10-2010: Día Mundial de la Estadística (y terremotos)'
+url: /2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/
 ---
 
 El 3 de junio, la ONU declaró [Día Mundial de la Estadística](http://unstats.un.org/unsd/wsd/) el 20 de octubre de 2010 con el objeto de _celebrar los muchos éxitos alcanzados por los sistemas y organismos de estadística oficial_.

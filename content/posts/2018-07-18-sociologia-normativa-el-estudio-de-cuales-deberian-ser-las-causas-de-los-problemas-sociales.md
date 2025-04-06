@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-07-18 08:13:57+00:00
-draft: false
-title: 'Sociología normativa: el estudio de cuáles deberían ser las causas de los
-  problemas sociales'
-
-url: /2018/07/18/sociologia-normativa-el-estudio-de-cuales-deberian-ser-las-causas-de-los-problemas-sociales/
 categories:
 - números
 - varios
+date: 2018-07-18 08:13:57+00:00
+draft: false
+lastmod: '2025-04-06T19:07:34.924356'
+related:
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2018-05-07-liberalismo-los-axiomas-y-sus-corolarios.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - priori
 - sociología normativa
 - urbanismo
 - von mises
+title: 'Sociología normativa: el estudio de cuáles deberían ser las causas de los
+  problemas sociales'
+url: /2018/07/18/sociologia-normativa-el-estudio-de-cuales-deberian-ser-las-causas-de-los-problemas-sociales/
 ---
 
 Muy útil el concepto de [_sociología normativa_](http://induecourse.ca/on-the-problem-of-normative-sociology/), el estudio de cuáles deberían ser las causas de los problemas. Por supuesto, deberían ser de acuerdo con preconcepciones que uno trae de casa, totalmente inasequibles al dato.

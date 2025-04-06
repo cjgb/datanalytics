@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-13 08:13:39+00:00
-draft: false
-title: 'Dos técnicas fundamentales para gráficos dinámicos de datos: "linking" y "brushing"'
-
-url: /2016/10/13/dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing/
 categories:
 - gráficos
+date: 2016-10-13 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T19:08:02.098833'
+related:
+- 2014-05-07-graficos-de-mosaico-si-o-no.md
+- 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md
+- 2011-03-29-graficos-ii-herramientas.md
+- 2011-07-27-diagramas-de-puntos-dotplots.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
 tags:
 - gráficos
 - mondrian
 - eda
+title: 'Dos técnicas fundamentales para gráficos dinámicos de datos: "linking" y "brushing"'
+url: /2016/10/13/dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing/
 ---
 
 El otro día me tocó enseñar algo de lo que no sé mucho: gráficos interactivos con R. Hay [muchos paquetes](https://www.datanalytics.com/2016/04/27/graficos-interactivos-con-r-un-resumen/) que vienen a hacer más o menos lo mismo. Es tentador limitarse a eso, a exponerlas. O más bien, a exponer unas vías de entrada, a establecer unas cabezas de playa desde las cuales el interesado pueda avanzar autónomamente.

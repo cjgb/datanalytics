@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-10-15 08:13:06+00:00
-draft: false
-title: Google Maps (o CartoDB, etc.) "says 'NO'"
-
-url: /2015/10/15/google-maps-o-cartodb-etc-says-no/
 categories:
 - gráficos
+date: 2015-10-15 08:13:06+00:00
+draft: false
+lastmod: '2025-04-06T18:47:24.344863'
+related:
+- 2011-04-19-graficos-v-mapas.md
+- 2015-10-13-que-primitivos-eran-aquellos-antepasados-nuestros-o-no.md
+- 2024-03-12-dorling-cartograms.md
+- 2020-10-13-ign-r-leaflet.md
+- 2014-05-13-visual-explanations-de-tufte-el-primer-grafico-estadistico.md
 tags:
 - cartodb
 - googlemaps
 - mapas
 - pergamino
 - tufte
+title: Google Maps (o CartoDB, etc.) "says 'NO'"
+url: /2015/10/15/google-maps-o-cartodb-etc-says-no/
 ---
 
 Si no sabéis a qué hace referencia el título, no os perdáis [esto](https://www.youtube.com/watch?v=NYklvrt-rNM) (y otros vídeos de la serie).

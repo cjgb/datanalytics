@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-15 15:06:44+00:00
-draft: false
-title: La causa de muerte no es la causa de muerte
-
-url: /2020/03/15/la-causa-de-muerte-no-es-la-causa-de-muerte/
 categories:
 - estadística
 - números
+date: 2020-03-15 15:06:44+00:00
+draft: false
+lastmod: '2025-04-06T19:06:00.052637'
+related:
+- 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
+- 2018-02-22-mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro.md
+- 2012-04-30-contar-c2bffacil.md
+- 2020-09-14-recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola.md
+- 2019-11-13-a-mas-gripe-menos-mortalidad-en-determinados-submundos-frecuentistas-si.md
 tags:
 - epidemiología
 - gripe
 - ine
 - mortalidad
+title: La causa de muerte no es la causa de muerte
+url: /2020/03/15/la-causa-de-muerte-no-es-la-causa-de-muerte/
 ---
 
 _[Este es un aviso para todos aquellos que depositan una excesiva fe en lo que nos cuenta el INE.]_

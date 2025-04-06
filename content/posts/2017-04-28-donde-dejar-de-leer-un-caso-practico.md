@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-28 08:13:54+00:00
-draft: false
-title: ¿Dónde dejar de leer? Un caso práctico
-
-url: /2017/04/28/donde-dejar-de-leer-un-caso-practico/
 categories:
 - estadística
 - números
+date: 2017-04-28 08:13:54+00:00
+draft: false
+lastmod: '2025-04-06T19:00:28.319033'
+related:
+- 2015-12-29-la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos.md
+- 2023-10-03-muestreo-superricos.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md
 tags:
 - ciencia
 - encuestas
+title: ¿Dónde dejar de leer? Un caso práctico
+url: /2017/04/28/donde-dejar-de-leer-un-caso-practico/
 ---
 
 Hay mucho por leer. El tiempo es finito y valioso. Es imperativo contar con criterios para dejar de leer. Identificar señales tempranas que indiquen que no merece la pena seguir. Generalmente, porque te están tratando de vender una moto.

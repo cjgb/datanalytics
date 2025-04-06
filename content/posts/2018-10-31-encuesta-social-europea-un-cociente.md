@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-31 08:13:59+00:00
-draft: false
-title: 'Encuesta Social Europea: un cociente'
-
-url: /2018/10/31/encuesta-social-europea-un-cociente/
 categories:
 - números
+date: 2018-10-31 08:13:59+00:00
+draft: false
+lastmod: '2025-04-06T19:07:03.603334'
+related:
+- 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2017-05-11-cosas-de-twitter-y-encuestas.md
+- 2012-06-21-el-otro-aic.md
+- 2012-04-02-c2bfcreer-o-no-creer.md
 tags:
 - cis
 - encuestas
+title: 'Encuesta Social Europea: un cociente'
+url: /2018/10/31/encuesta-social-europea-un-cociente/
 ---
 
 Leo ([fuente](http://www.congreso.es/portal/page/portal/Congreso/PopUpCGI?CMD=VERLST&BASE=pu12&FMT=PUWTXDTS.fmt&DOCS=1-1&QUERY=(DSCD-12-CO-491.CODI.))):

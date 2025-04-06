@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-21
-title: '¿Qué es "seguro"?'
-description: "E.T. Jaynes hablando de lo que es seguro, modelos e hipótesis previas"
-url: /2022/04/21/que-es-seguro/
 categories:
 - estadística
+date: 2022-04-21
+description: E.T. Jaynes hablando de lo que es seguro, modelos e hipótesis previas
+lastmod: '2025-04-06T18:54:37.538763'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2012-08-23-ajustar-o-no-ajustar-esta-es-la-cuestion.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2020-03-25-cuantificacion-y-riesgo.md
+- 2024-10-08-cortos-stats.md
 tags:
 - priori
 - riesgo
 - jaynes
+title: ¿Qué es "seguro"?
+url: /2022/04/21/que-es-seguro/
 ---
 
 Esta entrada es un resumen junto con una traducción libre de un capitulito excelente del libro _Probability Theory, The Logic of Science_ de E.T. Jaynes que lleva por título _What is safe?_.

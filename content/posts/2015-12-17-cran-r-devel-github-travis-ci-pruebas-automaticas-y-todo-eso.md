@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-17 08:13:13+00:00
-draft: false
-title: CRAN, r-devel, GitHub, Travis CI, pruebas automáticas y todo eso
-
-url: /2015/12/17/cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso/
 categories:
 - r
+date: 2015-12-17 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T19:12:06.158486'
+related:
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2011-07-12-desarrollo-de-paquetes-con-r-iii-check-check-check.md
+- 2011-06-15-una-herramienta-para-construir-paquetes-de-r-sobre-windows.md
+- 2011-05-24-se-buscan-alpha-testers-para-rpython.md
 tags:
 - cran
 - github
 - r
 - travis
+title: CRAN, r-devel, GitHub, Travis CI, pruebas automáticas y todo eso
+url: /2015/12/17/cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso/
 ---
 
 Estoy harto. La gente de CRAN me devolvió (con errores) un paquete que trataba de subir. Había hecho el prescriptivo

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-06 08:13:47+00:00
-draft: false
-title: Podrá... ¿qué significará podrá?
-
-url: /2015/05/06/podra-que-significara-podra/
 categories:
 - varios
+date: 2015-05-06 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T19:01:36.838225'
+related:
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2013-08-02-quiero-violar-la-ley-y-no-se-como.md
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
 tags:
 - boe
 - reutilización
 - ley
 - datos públicos
+title: Podrá... ¿qué significará podrá?
+url: /2015/05/06/podra-que-significara-podra/
 ---
 
 El artículo 8 de la [Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-19814) dice, (con mi subrayado):
@@ -46,9 +52,3 @@ _Podrá_ significa, entiendo, que los propietarios de los datos pueden establece
 >c) Sanción de multa de 1.000 a 10.000 euros. Por la comisión de infracciones leves.
 
 ¿No se dio cuenta nadie de que el articulado no tiene coherencia lógica? ¿Cómo se envía un _bug report_ al Congreso?
-
-
-
-
-
-

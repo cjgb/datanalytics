@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-25 07:45:50+00:00
-draft: false
-title: Totales agregados por bloques en tablas
-
-url: /2014/03/25/totales-agregados-por-bloques-en-tablas/
 categories:
 - r
+date: 2014-03-25 07:45:50+00:00
+draft: false
+lastmod: '2025-04-06T19:10:12.517071'
+related:
+- 2016-07-12-dos-nuevos-tutoriales-sobre-data-table-y-dplyr.md
+- 2019-08-05-dplyr-parece-que-prefiere-los-factores.md
+- 2013-05-02-data-table-i-cruces.md
+- 2022-09-20-tools-etl-memory.md
+- 2014-09-24-plyr-dplyr-data-table-que-opinas.md
 tags:
 - data.table
 - dplyr
 - plyr
 - r
 - sql
+title: Totales agregados por bloques en tablas
+url: /2014/03/25/totales-agregados-por-bloques-en-tablas/
 ---
 
 En ocasiones uno quiere añadir un total calculado en ciertos bloques a una tabla. Por ejemplo, en la tabla

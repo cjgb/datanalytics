@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-09-17 07:07:26+00:00
-draft: false
-title: La paradoja de Simpson en el 6eiiic
-
-url: /2013/09/17/la-paradoja-de-simpson-en-el-6eiiic/
 categories:
 - cursos
 - estadística
+date: 2013-09-17 07:07:26+00:00
+draft: false
+lastmod: '2025-04-06T18:59:13.927458'
+related:
+- 2018-09-04-podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita.md
+- 2024-05-02-falacia-ecologica.md
+- 2021-01-28-simpson-sobre-la-desigualdad.md
+- 2024-04-30-falacia-ecologica.md
+- 2024-11-14-simpson-productividad.md
 tags:
 - charlas
 - paradoja de simpson
 - anuncio
+title: La paradoja de Simpson en el 6eiiic
+url: /2013/09/17/la-paradoja-de-simpson-en-el-6eiiic/
 ---
 
 El día 26 de septiembre, alrededor del mediodía, [participaré en el VI Encuentro Internacional de Investigación en Información y Comunicación](http://www.eiiic.org/programa/#sec-2-2).

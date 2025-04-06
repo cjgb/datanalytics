@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-06-06 09:13:52+00:00
-draft: false
-title: Mi infraestructura para Python
-
-url: /2019/06/06/mi-infraestructura-para-python/
 categories:
 - programación
 - python
+date: 2019-06-06 09:13:52+00:00
+draft: false
+lastmod: '2025-04-06T18:57:33.931771'
+related:
+- 2015-06-22-rpython-anaconda.md
+- 2016-03-17-jupyter-me-quedo-con-rodeo-creo.md
+- 2024-07-09-positron.md
+- 2014-03-20-los-sospechosos-habituales-y-python.md
+- 2013-11-20-rpython-ya-en-windows.md
 tags:
 - anaconda
 - linux
@@ -16,6 +20,8 @@ tags:
 - spyder
 - vscode
 - ide
+title: Mi infraestructura para Python
+url: /2019/06/06/mi-infraestructura-para-python/
 ---
 
 Resumen:
@@ -31,4 +37,3 @@ Finalmente, el fichero `requirements.txt` de los entornos son enlaces blandos a 
 **Nota final:** Uso Ubuntu 18.04.
 
 **Addenda:** Actualizo esta entrada a finales de 2021 para enmendarme. Actualmente estoy usando VSCode como IDE y `pipenv` para gestionar mis entornos. Sigue sin gustarme Jupyter: no es ágil para explorar. Durante un tiempo me atrajo Spyder, que tiene un aspecto más parecido a RStudio y lo considero marginalmente superior a VSCode para el análisis de datos (mejor integración de los gráficos y de IPython, para mi gusto), pero creo que podría no ser el caballo ganador a medio plazo.
-

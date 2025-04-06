@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-02-07 09:52:19+00:00
-draft: false
-title: ¿Un torpedo bajo la línea de flotación de SAS?
-
-url: /2011/02/07/un-torpedo-bajo-la-linea-de-flotacion-de-sas/
 categories:
 - r
+date: 2011-02-07 09:52:19+00:00
+draft: false
+lastmod: '2025-04-06T18:55:45.594308'
+related:
+- 2011-03-04-1680.md
+- 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
+- 2011-03-10-r-hdf5-y-bases-de-datos-orientadas-a-columnas.md
+- 2015-01-28-la-profesionalizacion-de-r.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
 tags:
 - r
 - sas
 - revoscaler
+title: ¿Un torpedo bajo la línea de flotación de SAS?
+url: /2011/02/07/un-torpedo-bajo-la-linea-de-flotacion-de-sas/
 ---
 
 [Revolution Analytics](http://www.revolutionanalytics.com/) ha disparado un torpedo apuntando bajo la línea de flotación de SAS. Se trata del _[SAS to R challenge](http://www.revolutionanalytics.com/sas-challenge/)_, una muy inteligente campaña de publicidad por la que se compromete a reescribir en R gratuitamente código SAS de clientes potenciales si el primero es más eficaz que el segundo.

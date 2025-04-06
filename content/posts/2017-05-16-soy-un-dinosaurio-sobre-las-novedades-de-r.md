@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-05-16 08:13:51+00:00
-draft: false
-title: ¿Soy un dinosauRio? Sobre las novedades de R
-
-url: /2017/05/16/soy-un-dinosaurio-sobre-las-novedades-de-r/
 categories:
 - r
+date: 2017-05-16 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T19:08:58.352337'
+related:
+- 2022-09-20-tools-etl-memory.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2015-01-28-la-profesionalizacion-de-r.md
+- 2016-11-15-una-fina-tenue-somera-capa-de-sintaxis.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 tags:
 - r
 - tidyverse
 - dplyr
 - magriter
+title: ¿Soy un dinosauRio? Sobre las novedades de R
+url: /2017/05/16/soy-un-dinosaurio-sobre-las-novedades-de-r/
 ---
 
 Trato de estar abierto a _lo nuevo_. Tantos años soportando dinosaurios me han vacunado contra el conservadurismo tecnológico. De hecho, me produce arcadas. La experiencia, no obstante, me ha hecho permeable al [efecto Lindy](https://en.wikipedia.org/wiki/Lindy_effect), lo que me da ocasión de saludar a mis amigos _emaqueros_.

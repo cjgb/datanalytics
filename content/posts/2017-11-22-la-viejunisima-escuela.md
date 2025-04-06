@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-22 08:13:45+00:00
-draft: false
-title: La viejunísima escuela
-
-url: /2017/11/22/la-viejunisima-escuela/
 categories:
 - mala ciencia
+date: 2017-11-22 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T19:03:17.163127'
+related:
+- 2024-07-03-cortos-stats.md
+- 2023-10-05-llms-historia.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2010-12-22-mahoma-su-proverbial-montana-y-la-wikipedia.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - mala ciencia
 - corpus
 - escohotado
 - historia
 - nlp
+title: La viejunísima escuela
+url: /2017/11/22/la-viejunisima-escuela/
 ---
 
 Leí [esto](http://parerga-und-paralipomena.blogspot.com.es/2015/06/conferencia-de-antonio-escohotado-los.html). Me asaltó la pregunta obvia, la manifiesta, la fundamental, la sine qua non.

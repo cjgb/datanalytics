@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-04-25
-title: 'Estadísticas creativas: el "peso del paro"'
-
-url: /2023/04/25/estadistica-creativa-peso-paro/
 categories:
 - estadística
+date: 2023-04-25
+lastmod: '2025-04-06T19:00:10.114662'
+related:
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2011-11-03-2872.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2018-03-22-poblacion-el-padron-y-la-otra-cosa.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 tags:
 - estadística pública
 - paro
 - sofística
 - política
 - andalucía
+title: 'Estadísticas creativas: el "peso del paro"'
+url: /2023/04/25/estadistica-creativa-peso-paro/
 ---
 
 Mirad que trato de abstraerme del mundanal ruido y de las marcianadas de tirios y troyanos. Me he comprado una segunda EPS32, le he instalado Micropython y solo aspiro a que se me deje en paz.

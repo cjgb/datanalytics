@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-11 08:13:12+00:00
-draft: false
-title: CIS, ideología, gráficos y, sí, este blog
-
-url: /2018/05/11/cis-ideologia-graficos-y-si-este-blog/
 categories:
 - varios
+date: 2018-05-11 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T18:46:36.075403'
+related:
+- 2017-05-11-cosas-de-twitter-y-encuestas.md
+- 2016-06-01-alguien-podria-identificar-tirios-y-troyanos.md
+- 2014-11-04-dislexia-probabilistica.md
+- 2017-05-10-es-vd-de-izquierdas-o-de-derechas.md
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
 tags:
 - barómetros
 - cis
 - politibot
 - política
+title: CIS, ideología, gráficos y, sí, este blog
+url: /2018/05/11/cis-ideologia-graficos-y-si-este-blog/
 ---
 
 Si no estáis suscritos a [`@politibot`](https://politibot.io/) en Telegram, hacedlo (y si no usáis Telegram, hacedlo también).

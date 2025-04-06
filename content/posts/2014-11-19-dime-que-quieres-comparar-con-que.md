@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-19 07:13:54+00:00
-draft: false
-title: Dime, ¿qué quieres comparar con qué?
-
-url: /2014/11/19/dime-que-quieres-comparar-con-que/
 categories:
 - gráficos
+date: 2014-11-19 07:13:54+00:00
+draft: false
+lastmod: '2025-04-06T18:52:16.739223'
+related:
+- 2011-11-08-bump-charts-para-comparar-graficamente-proporciones-entre-periodos.md
+- 2012-04-23-graficos-dinamita-desaconsejados.md
+- 2011-01-31-un-grafico-enganabobos.md
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2011-11-25-escalas-logaritimicas-puede-pero.md
 tags:
 - graficaca
 - gráficos
+title: Dime, ¿qué quieres comparar con qué?
+url: /2014/11/19/dime-que-quieres-comparar-con-que/
 ---
 
 A veces alguien me pregunta cómo representar gráficamente ciertos datos. Yo respondo casi siempre igual, casi siempre con la misma pregunta: ¿qué quieres comparar con qué? Luego se trata solo de disponer las magnitudes que se desea comparar próximas, paralelas y con un mismo eje de referencia.

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-21 07:53:08+00:00
-draft: false
-title: Comparación de variables aleatorias de Poisson
-
-url: /2011/08/21/comparacion-de-variables-aleatorias-de-poisson/
 categories:
 - estadística
 - probabilidad
 - r
+date: 2011-08-21 07:53:08+00:00
+draft: false
+lastmod: '2025-04-06T18:49:05.696985'
+related:
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
+- 2015-07-15-un-modelo-jerarquico-para-lo-de-casillas.md
+- 2012-03-07-esperanzador-no-varianzador.md
 tags:
 - estadística
 - poisson
 - probabilidad
 - r
+title: Comparación de variables aleatorias de Poisson
+url: /2011/08/21/comparacion-de-variables-aleatorias-de-poisson/
 ---
 
 El otro día apareció publicado en Significance una [comparación entre el número de tarjetas recibidas por las selecciones inglesas de fúlbol masculina y femenina](http://www.significancemagazine.org/details/webexclusive/1248403/The-fairer-sex-Comparing-cautions-in-men-and-womens-football.html).

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-11-04
-title: "UMAP, tSNE y todas esas cosas"
-
-url: /2022/11/04/umap-tsne/
 categories:
 - estadística
+date: 2022-11-04
+lastmod: '2025-04-06T18:47:52.279101'
+related:
+- 2017-03-08-reduccion-de-la-dimensionalidad-con-t-sne.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2020-11-20-distancias-iv-la-solucion-rapida-y-sucia.md
 tags:
 - multidimensionalidad
 - estadística
 - umap
 - tsne
+title: UMAP, tSNE y todas esas cosas
+url: /2022/11/04/umap-tsne/
 ---
 
 Estaba repasando cosas sobre reducción de la dimensionalidad y, en concreto, UMAP y tSNE. Me ha parecido conveniente replantear las cosas sobre primeros principios para que todo se entienda mejor.
@@ -71,5 +77,3 @@ Hay una incoherencia en mi argumentación de más arriba. En realidad, $f(x, y) 
 
 1. Si has podido captar el problema, estoy seguro de que también intuyes cuál es la solución y por qué la objeción, en el fondo, no es relevante.
 2. Si no has captado el problema y das el argumento por bueno, habrás aplicado con éxito una de esas heurísticas provechosas que tanto gustan a los estudiosos de la [racionalidad limitada](https://en.wikipedia.org/wiki/Bounded_rationality).
-
-

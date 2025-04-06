@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-06-29 08:13:36+00:00
-draft: false
-title: 'Hoy, como excepción, gritaré y justificaré: ¡Malditos logaritmos!'
-
-url: /2017/06/29/hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos/
 categories:
 - estadística
 - r
+date: 2017-06-29 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:01:24.265958'
+related:
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2017-10-23-modelos-directos-inversos-y-en-los-que-tanto-da.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
 tags:
 - estadística
 - logaritmo
 - nls
 - r
+title: 'Hoy, como excepción, gritaré y justificaré: ¡Malditos logaritmos!'
+url: /2017/06/29/hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos/
 ---
 
 Dados unos números positivos hay que justificar por que **no** tomar logaritmos y no al revés. La carga de la prueba recae sobre quien no lo hace.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-15 07:03:49+00:00
-draft: false
-title: La ley de Benford
-
-url: /2011/09/15/la-ley-de-benford/
 categories:
 - estadística
 - r
+date: 2011-09-15 07:03:49+00:00
+draft: false
+lastmod: '2025-04-06T18:51:23.143750'
+related:
+- 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md
+- 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md
+- 2013-04-02-las-leyes-de-benford.md
+- 2013-05-03-mas-sobre-la-ley-de-benford-ii-la-distribucion-de-la-parte-fraccionaria.md
+- 2013-02-08-la-ley-de-benford-en-muestras-pequenas-algunas-evidencias.md
 tags:
 - estadística
 - ley de benford
 - r
+title: La ley de Benford
+url: /2011/09/15/la-ley-de-benford/
 ---
 
 El otro día me preguntó una compañera el motivo por el que un proceso (de transformación de datos) se ejecutaba tan lentamente. De oficio, siempre hago lo mismo —además, lo saben: ¿para qué seguirán preguntando?—: ejecutar el proceso sólo sobre un porcentaje de los datos.

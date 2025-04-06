@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-09-28
-title: '¿Qué catástrofes cabe esperar de las pruebas estadísticas con poca potencia?'
-
-url: /2023/09/28/potencia-tests-estadisticos/
 categories:
 - estadística
+date: 2023-09-28
+lastmod: '2025-04-06T19:10:32.674870'
+related:
+- 2017-07-13-gelmaneando.md
+- 2023-10-10-potencia-tests-ii.md
+- 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
+- 2023-03-21-reduccion-error-tests-ab.md
+- 2019-12-04-p-valores-y-decisiones.md
 tags:
 - estadística
 - prueba de hipótesis
 - potencia
+title: ¿Qué catástrofes cabe esperar de las pruebas estadísticas con poca potencia?
+url: /2023/09/28/potencia-tests-estadisticos/
 ---
 
 Desde cierto punto de vista, lo ideal a la hora de realizar una prueba estadística es que:

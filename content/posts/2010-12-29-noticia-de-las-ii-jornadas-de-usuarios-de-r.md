@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-12-29 09:43:31+00:00
-draft: false
-title: Noticia de las II Jornadas de Usuarios de R
-
-url: /2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/
 categories:
 - r
+date: 2010-12-29 09:43:31+00:00
+draft: false
+lastmod: '2025-04-06T19:09:04.548863'
+related:
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md
+- 2010-02-26-febrero.md
 tags:
 - r
+title: Noticia de las II Jornadas de Usuarios de R
+url: /2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/
 ---
 
 Hace un año, al acabar las I Jornadas de Usuarios de R, [escribí un pequeño resumen](http://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/) de lo habido en ellas en el blog de mi compañero de penas y oficios Raúl Vaquerizo. Este año, con cierta demora (justificada documentalmente) me dispongo a hacer lo mismo con lo que vivimos hace unos días en las [II Jornadas en Mieres](http://epm.uniovi.es/actividades/-/asset_publisher/0012/content/ii-jornadas-de-usuarios-de-r-en-castellano).

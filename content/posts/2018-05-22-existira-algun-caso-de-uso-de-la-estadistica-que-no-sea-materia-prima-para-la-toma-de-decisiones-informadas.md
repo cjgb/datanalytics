@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-22 08:13:41+00:00
-draft: false
-title: ¿Existirá algún caso de uso de la estadística que no sea materia prima para
-  la toma de decisiones informadas?
-
-url: /2018/05/22/existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas/
 categories:
 - estadística
 - libros
+date: 2018-05-22 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T18:49:49.374803'
+related:
+- 2018-06-04-estadistica-descriptiva-y-teoria-de-la-decision.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2020-12-09-maxima-verosimilitud-vs-decisiones.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 tags:
 - estadística
 - libros
 - teoría de la decisión
+title: ¿Existirá algún caso de uso de la estadística que no sea materia prima para
+  la toma de decisiones informadas?
+url: /2018/05/22/existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas/
 ---
 
 Estoy escribiendo unas notas muy _punk_ sobre estadística. Desde cero. Hasta la luna. Pero que no se parecen en absoluto a nada de lo que he visto habitualmente escrito sobre la materia. Uno de sus capítulos, el primero, habla en general de la estadística. Abre con

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-10 08:13:24+00:00
-draft: false
-title: Pesadumbre e incertidumbre desencadenadas
-
-url: /2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/
 categories:
 - estadística
+date: 2016-11-10 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:45:40.398850'
+related:
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2015-11-12-encuestas-censos-elecciones.md
+- 2016-09-26-encuestas-electorales-una-propuesta.md
+- 2022-03-15-infraestimacion-error-encuestas.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
 tags:
 - encuestas
 - error
 - estadística
 - varianza
+title: Pesadumbre e incertidumbre desencadenadas
+url: /2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/
 ---
 
 Hoy escribo afectado por un derrame de pesadumbre. Pero esa es solo una opinión que igual no importa nadie.

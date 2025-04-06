@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-29 09:13:40+00:00
-draft: false
-title: El AUC es la probabilidad de que...
-
-url: /2016/03/29/el-auc-es-la-probabilidad-de-que/
 categories:
 - estadística
+date: 2016-03-29 09:13:40+00:00
+draft: false
+lastmod: '2025-04-06T19:12:44.228640'
+related:
+- 2019-02-11-auc-wilcoxon.md
+- 2019-05-24-cotas-superiores-para-el-auc.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2022-02-17-examenes-probabilisticos.md
 tags:
 - auc
 - estadística
 - roc
+title: El AUC es la probabilidad de que...
+url: /2016/03/29/el-auc-es-la-probabilidad-de-que/
 ---
 
 Voy a constuir unos datos artificiales y un modelo de clasificación binaria,
@@ -83,9 +89,3 @@ mean(foo(sies$prob) > foo(noes$prob))
 {{< / highlight >}}
 
 arroja no solo un valor muy similar al de `pROC::roc(res$real, res$prob)$auc` sino que, además, proporciona una interpretación interesante de este indicador: el AUC es la probabilidad de que, tomados un caso positivo y uno negativo al azar, el _scoring_ del modelo para el primero sea superior al segundo.
-
-
-
-
-
-

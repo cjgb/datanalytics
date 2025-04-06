@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-22 07:51:25+00:00
-draft: false
-title: Grupo de trabajo sobre periodismo de datos en Madrid
-
-url: /2011/11/22/grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid/
 categories:
 - números
 - r
+date: 2011-11-22 07:51:25+00:00
+draft: false
+lastmod: '2025-04-06T19:01:00.860507'
+related:
+- 2012-02-13-r-y-alrededores-en-medialab-prado.md
+- 2011-11-24-videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz.md
+- 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md
+- 2013-04-15-tu-tasa-de-paro-en-medialab-prado.md
+- 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
 tags:
 - números
 - r
 - anuncio
 - medialab prado
+title: Grupo de trabajo sobre periodismo de datos en Madrid
+url: /2011/11/22/grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid/
 ---
 
 El miércoles pasado, en el [Medialab Prado](http://medialab-prado.es/) de Madrid tuvo lugar la [primera reunión del grupo de trabajo sobre Periodismo de datos](http://medialab-prado.es/article/1_reunion_trabajo_grupo_periodismo_de_datos). Contó con la presencia de Alberto Cairo, cuyo reciente libro, _[El arte funcional](http://elartefuncional.com/)_, espero que pase a engrosar mi colección pronto.

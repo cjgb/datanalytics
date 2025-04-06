@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-04 08:13:28+00:00
-draft: false
-title: La magnitud de la sequía
-
-url: /2017/12/04/la-magnitud-de-la-sequia/
 categories:
 - estadística
 - r
+date: 2017-12-04 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:49:16.331013'
+related:
+- 2022-06-09-el-modelo-es-y.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2015-11-13-gam.md
+- 2021-10-01-esos-felices-momentos-le-verrier.md
 tags:
 - inla
 - lluvia
 - madrid
 - r
 - sequía
+title: La magnitud de la sequía
+url: /2017/12/04/la-magnitud-de-la-sequia/
 ---
 
 Cuando tienes una serie temporal _al uso_ (sin entrar a definir qué es eso), uno puede aplicar descomposiciones tmabién _al uso_, como `stl`, para extraer tendencia y estacionalidad, de la forma

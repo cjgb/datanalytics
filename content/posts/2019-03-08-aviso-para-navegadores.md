@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-08 08:13:02+00:00
-draft: false
-title: Aviso para navegadores
-
-url: /2019/03/08/aviso-para-navegadores/
 categories:
 - varios
+date: 2019-03-08 08:13:02+00:00
+draft: false
+lastmod: '2025-04-06T19:02:58.835738'
+related:
+- 2014-04-10-colusion-de-anunciantes-en-perjuicio-de-navegantes.md
+- 2018-04-02-sobre-lo-de-cambridge-analytica.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2011-03-24-c2bfdonde-obtengo-mis-datos-c2a1pregunta.md
+- 2015-03-27-y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos.md
 tags:
 - antivirus
 - avast
@@ -14,6 +18,8 @@ tags:
 - google ads
 - jumpshot
 - privacidad
+title: Aviso para navegadores
+url: /2019/03/08/aviso-para-navegadores/
 ---
 
 Ayer estuvimos pensando de dónde se podían obtener ejemplos de búsquedas de usuarios (sí, lo que la gente escribe en, p.e., Google cuando busca algo). Y parece que hay empresas que venden ese tipo de datos.

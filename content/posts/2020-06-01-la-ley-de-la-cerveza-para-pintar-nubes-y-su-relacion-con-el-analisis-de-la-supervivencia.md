@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-01 09:13:00+00:00
-draft: false
-title: La ley de la cerveza para pintar nubes (y su relación con el análisis de la
-  supervivencia)
-
-url: /2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/
 categories:
 - estadística
+date: 2020-06-01 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:06:44.982935'
+related:
+- 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
+- 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md
+- 2022-05-12-principio-mediocridad.md
+- 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
+- 2020-12-16-la-interpretacion-de-significativo-en-un-caso-muy-concreto.md
 tags:
 - nubes
 - riesgo
 - supervivencia
 - ley de beer
+title: La ley de la cerveza para pintar nubes (y su relación con el análisis de la
+  supervivencia)
+url: /2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/
 ---
 
 ![](/wp-uploads/2020/05/nubes.jpg)
@@ -28,6 +34,3 @@ Es una aplicación de la [ley de Beer](https://en.wikipedia.org/wiki/Beer%E2%80%
 $$ S(t) = \exp\left(-\int_0^t h(x) dx\right)$$
 
 (tal vez con otra notación), que es precisamente [de la que hablé el otro día](https://www.datanalytics.com/2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/).
-
-
-

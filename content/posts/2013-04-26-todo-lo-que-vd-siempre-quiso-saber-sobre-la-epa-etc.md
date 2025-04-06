@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-26 07:45:11+00:00
-draft: false
-title: Todo lo que Vd. siempre quiso saber sobre la EPA (etc.)
-
-url: /2013/04/26/todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc/
 categories:
 - números
+date: 2013-04-26 07:45:11+00:00
+draft: false
+lastmod: '2025-04-06T19:03:52.442664'
+related:
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2012-06-06-definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista.md
+- 2011-01-13-el-misterio-de-la-reduccion-del-paro-en-diciembre.md
+- 2012-02-24-estoy-muy-de-acuerdo-con-la-ceoe.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 tags:
 - epa
 - estadística pública
+title: Todo lo que Vd. siempre quiso saber sobre la EPA (etc.)
+url: /2013/04/26/todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc/
 ---
 
 **¿A quién considera la EPA con trabajo?**
@@ -47,4 +53,3 @@ Pues el año pasado lo éramos (empatados con Irlanda), con una tasa del 8% ([PD
 * [Encuesta de Población Activa; Metodología 2005 ](http://www.ine.es/daco/daco43/resumetepa.pdf)
 * [Cuestionario de la EPA, metodología 2005](http://www.ine.es/daco/daco42/daco4211/epacues05.pdf)
 * [_Underemployment and potential additional labour force statistics_](http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Underemployment_and_potential_additional_labour_force_statistics)
-

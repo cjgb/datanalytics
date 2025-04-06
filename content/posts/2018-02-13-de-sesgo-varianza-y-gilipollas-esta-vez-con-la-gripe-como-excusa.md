@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-13 08:13:17+00:00
-draft: false
-title: De sesgo, varianza y gilipollas (esta vez, con la gripe como excusa)
-
-url: /2018/02/13/de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa/
 categories:
 - estadística
 - números
+date: 2018-02-13 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T19:10:13.279048'
+related:
+- 2020-03-15-la-causa-de-muerte-no-es-la-causa-de-muerte.md
+- 2018-02-22-mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro.md
+- 2020-05-07-coronavirus-cualitativo.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
 tags:
 - epidemiología
 - estadística
 - gripe
 - prensa
+title: De sesgo, varianza y gilipollas (esta vez, con la gripe como excusa)
+url: /2018/02/13/de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa/
 ---
 
 Un gilipollas se delatará por preferir una mentira exacta a una verdad aproximada. Y me refiero a [_La gripe ha causado ya más muertes en España que la pandemia de 2009_](http://www.abc.es/sociedad/abci-gripe-causado-mas-muertes-espana-pandemia-2009-201802111835_noticia.html), donde se lee que

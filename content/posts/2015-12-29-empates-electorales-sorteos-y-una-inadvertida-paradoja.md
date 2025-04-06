@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-29 08:13:19+00:00
-draft: false
-title: Empates electorales, sorteos y una inadvertida paradoja
-
-url: /2015/12/29/empates-electorales-sorteos-y-una-inadvertida-paradoja/
 categories:
 - números
+date: 2015-12-29 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T18:48:46.303462'
+related:
+- 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
+- 2016-11-29-probabilidades-de-empates-en-elecciones.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2014-11-04-dislexia-probabilistica.md
 tags:
 - elecciones
 - sorteos
+title: Empates electorales, sorteos y una inadvertida paradoja
+url: /2015/12/29/empates-electorales-sorteos-y-una-inadvertida-paradoja/
 ---
 
 Ayer hubo en España una asamblea en la que 3030 personas votaron sobre un cierto asunto: 1515 votaron que sí y otras tantas, que no. La cosa acabó en empate.

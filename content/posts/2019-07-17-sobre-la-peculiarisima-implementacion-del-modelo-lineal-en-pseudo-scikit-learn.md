@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-07-17 09:13:55+00:00
-draft: false
-title: Sobre la peculiarísima implementación del modelo lineal en (pseudo-)scikit-learn
-
-url: /2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/
 categories:
 - estadística
 - python
+date: 2019-07-17 09:13:55+00:00
+draft: false
+lastmod: '2025-04-06T18:49:10.994833'
+related:
+- 2019-12-02-sobre-los-coeficientes-de-los-glm-en-scikit-learn.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2019-03-04-offset-porque-el-coeficiente-es-1-necesariamente.md
 tags:
 - modelo lineal
 - python
 - scikit-learn
 - variables categóricas
+title: Sobre la peculiarísima implementación del modelo lineal en (pseudo-)scikit-learn
+url: /2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/
 ---
 
 Si ejecutas

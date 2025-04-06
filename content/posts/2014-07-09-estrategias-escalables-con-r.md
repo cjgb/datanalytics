@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-09 07:13:41+00:00
-draft: false
-title: Estrategias escalables (con R)
-
-url: /2014/07/09/estrategias-escalables-con-r/
 categories:
 - programación
 - r
+date: 2014-07-09 07:13:41+00:00
+draft: false
+lastmod: '2025-04-06T18:56:46.523272'
+related:
+- 2015-07-22-estrategias-escalables-con-r-2.md
+- 2010-01-26-r-y-conjuntos-de-datos-grandes.md
+- 2013-11-04-un-record-personal.md
+- 2013-07-10-mi-definicion-de-big-data.md
+- 2011-03-04-1680.md
 tags:
 - bigmemory
 - paralelización
 - parallel
 - r
 - spark
+title: Estrategias escalables (con R)
+url: /2014/07/09/estrategias-escalables-con-r/
 ---
 
 Hay quienes preguntan cómo cargar con R un csv de 8GB en un portátil de 4GB de RAM. La verdad, he leído respuestas la mar de extravagantes a este tipo de cuestiones: p.e., recomendar SQLite.

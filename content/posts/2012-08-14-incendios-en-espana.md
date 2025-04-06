@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-14 07:03:50+00:00
-draft: false
-title: Incendios en España
-
-url: /2012/08/14/incendios-en-espana/
 categories:
 - estadística
 - números
+date: 2012-08-14 07:03:50+00:00
+draft: false
+lastmod: '2025-04-06T19:01:41.368374'
+related:
+- 2011-12-12-estadisticas-de-incendios-forestales-en-espana.md
+- 2012-07-20-deshaucios-en-espana-y-su-estructura-geografica.md
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
 tags:
 - datos abiertos
 - estadística
 - gráficos
 - números
 - periodismo de datos
+title: Incendios en España
+url: /2012/08/14/incendios-en-espana/
 ---
 
 Quienes siguen de antiguo estas páginas recordarán que ya me ocupé de la [cuestión de los incendios forestales](http://www.datanalytics.com/2011/12/12/estadisticas-de-incendios-forestales-en-espana/) hace un tiempo. Después han pasado cosas.

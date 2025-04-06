@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-06-01 08:13:24+00:00
-draft: false
-title: Este también buscaba la precisión donde tal vez menos importaba
-
-url: /2017/06/01/este-tambien-buscaba-la-precision-donde-tal-vez-menos-importaba/
 categories:
 - estadística
+date: 2017-06-01 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:46:12.720561'
+related:
+- 2014-05-05-accurate-acurado-preciso-y-todas-esas-cosas.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
+- 2019-06-18-bayes-no-habia-previsto-esto.md
+- 2022-06-28-que-hace-avanzar-la-estadistica.md
+- 2020-11-18-la-cocina-para-anumeristas-y-conspiranoicos.md
 tags:
 - estadística
 - muestreo
+title: Este también buscaba la precisión donde tal vez menos importaba
+url: /2017/06/01/este-tambien-buscaba-la-precision-donde-tal-vez-menos-importaba/
 ---
 
 Esta no va de prensa sino de una reunión de vecinos. Al terminar, hablo con uno de ellos y me cuenta que siempre se había dedicado a la construcción y que en alguna ocasión tocó la estadística. En particular, en el estudio, relevantísimo, que describo a continuación.

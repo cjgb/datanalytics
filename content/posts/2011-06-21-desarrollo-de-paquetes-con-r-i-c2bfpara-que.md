@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-21 07:17:10+00:00
-draft: false
-title: 'Desarrollo de paquetes con R (I): ¿para qué?'
-
-url: /2011/06/21/desarrollo-de-paquetes-con-r-i-para-que/
 categories:
 - r
+date: 2011-06-21 07:17:10+00:00
+draft: false
+lastmod: '2025-04-06T18:54:08.349617'
+related:
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
+- 2019-01-31-hay-demasiados-paquetes-en-r.md
+- 2010-11-01-una-propuesta-de-guia-de-estilo-de-r.md
+- 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md
 tags:
 - r
 - paquetes
+title: 'Desarrollo de paquetes con R (I): ¿para qué?'
+url: /2011/06/21/desarrollo-de-paquetes-con-r-i-para-que/
 ---
 
 Por popular demanda, voy a comenzar una serie de entradas sobre desarrollo de paquetes con R. Mi idea consiste en establecer un diálogo con mis lectores que me permita pulirlas para acabar escribiendo un documento que pueda resultar útil a los usuarios de R.
@@ -31,4 +37,3 @@ A todos los que os enfrentéis a una tesis, a un nuevo proyecto en vuestra empre
 * repensar qué funciones forman el núcleo de vuestra aplicación
 * crear un paquete con ellas y, llegado el caso,
 * pensar si vale la pena hacerlas públicas.
-

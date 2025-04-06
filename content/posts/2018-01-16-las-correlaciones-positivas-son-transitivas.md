@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-16 08:13:02+00:00
-draft: false
-title: Las correlaciones positivas, ¿son transitivas?
-
-url: /2018/01/16/las-correlaciones-positivas-son-transitivas/
 categories:
 - probabilidad
+date: 2018-01-16 08:13:02+00:00
+draft: false
+lastmod: '2025-04-06T18:50:58.911973'
+related:
+- 2017-02-09-la-inesperada-correlacion-de-los-ratios.md
+- 2014-12-08-la-correlacion-ni-siquiera-implica-correlacion.md
+- 2018-11-16-colinealidad-y-posterioris.md
+- 2022-03-22-diagramas-causales-hipersimples-3-mediadores.md
+- 2019-08-29-la-multivarianza-total-de-la-distancia-no-implica-causalidad.md
 tags:
 - correlación
 - probabilidad
+title: Las correlaciones positivas, ¿son transitivas?
+url: /2018/01/16/las-correlaciones-positivas-son-transitivas/
 ---
 
 No. Por ejemplo,
@@ -34,4 +40,3 @@ print(cor(m), digits = 2)
 La correlación de `x` con `y` es positiva; también la de `y` con `z`. Pero `x` y `z` guardan correlación negativa.
 
 Nota: sacado de [aquí](https://www.causeweb.org/wiki/chance/index.php/Chance_News_104).
-

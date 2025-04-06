@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-09-03 07:18:58+00:00
-draft: false
-title: AVE vs. TGV (o la intensidad de uso del capital ferroviario fijo)
-
-url: /2013/09/03/ave-vs-tgv-o-la-intensidad-de-uso-del-capital-ferroviario-fijo/
 categories:
 - números
+date: 2013-09-03 07:18:58+00:00
+draft: false
+lastmod: '2025-04-06T18:47:33.065826'
+related:
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2012-03-28-contrafactualidad-radial.md
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2011-04-19-graficos-v-mapas.md
+- 2014-10-01-donde-he-estado-segun-google.md
 tags:
 - números
+title: AVE vs. TGV (o la intensidad de uso del capital ferroviario fijo)
+url: /2013/09/03/ave-vs-tgv-o-la-intensidad-de-uso-del-capital-ferroviario-fijo/
 ---
 
 Hoy he recibido el siguiente _tuit_:

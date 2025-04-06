@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-13 07:58:02+00:00
-draft: false
-title: Consejos para utilizar R "en producción"
-
-url: /2011/05/13/consejos-para-utilizar-r-en-produccion/
 categories:
 - consultoría
 - r
+date: 2011-05-13 07:58:02+00:00
+draft: false
+lastmod: '2025-04-06T19:12:24.530138'
+related:
+- 2011-05-18-solipsismo-comunidad-y-rendimiento.md
+- 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2011-10-26-herramientas-de-depuracion-en-r.md
 tags:
 - consultoría
 - r
 - programación
+title: Consejos para utilizar R "en producción"
+url: /2011/05/13/consejos-para-utilizar-r-en-produccion/
 ---
 
 El otro día di con una entrada en una bitácora con [cinco consejos para utilizar R en producción](http://erehweb.wordpress.com/2011/02/02/r-in-production-systems/). Cuatro de ellos son razonables:

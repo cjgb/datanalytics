@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-11-14
-title: 'Sobre la "African dummy"'
-
-url: /2022/11/14/african-dummy/
 categories:
 - estadística
+date: 2022-11-14
+lastmod: '2025-04-06T18:53:58.189923'
+related:
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - estadística
 - econometría
 - justicia
+title: Sobre la "African dummy"
+url: /2022/11/14/african-dummy/
 ---
 
 2022 es un mal año para recordar un asunto sobre el que tenía anotado hablar desde los inicios del blog, allá por 2010: la llamada _African dummy_. Mentiría, sin embargo, si dijese que no es oportuno: está relacionado con temas que hoy se consideran importantes, aunque tratado al estilo de los noventa. Es decir, de una manera inaceptablemente ---para el paladar de hogaño--- distinta.
@@ -23,5 +29,3 @@ Supe del asunto a través de un artículo que jamás llegué tampoco a comentar 
 de un egregio compatriota. Y se ve que durante una serie de años el asunto intrigó a los expertos en el tema y concitó un debate del que hoy poco queda. (Aunque una búsqueda rápida lleva a [esto](https://arxiv.org/abs/1903.02357), de 2019, donde parece indicarse que la _significancia_ de la variable en cuestión ha ido decreciendo en el tiempo y que ahora ya no lo sería como lo fue hace treinta años.)
 
 ¿Qué nos enseña todo esto? Sin duda, que hubo unos tiempos muy bárbaros en los que lo importante era que los modelos ajustasen bien, gustase a quien gustase. Si eso conllevaba sacarse de la manga variables que podrían molestar a ciertos sectores de la población ---y precisamente esos que merecen nuestra especial atención y cuidado--- se hacía. Ahora hemos progresado, compartimos valores que están por encima de la R² y no metemos un regresor en OLS sin consultarlo primero con el capellán y recibir el _nihil obstat_ de nunciatura. Menos mal.
-
-

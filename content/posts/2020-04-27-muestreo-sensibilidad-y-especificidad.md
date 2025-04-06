@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-27 08:13:00+00:00
-draft: false
-title: Muestreo, sensibilidad y especificidad
-
-url: /2020/04/27/muestreo-sensibilidad-y-especificidad/
 categories:
 - estadística
 - r
+date: 2020-04-27 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:00.058630'
+related:
+- 2020-06-16-coronavirus-prevalencia-sensibilidad-y-especificidad.md
+- 2020-06-09-53-o-cual-es-la-prior.md
+- 2020-05-21-analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
 tags:
 - coronavirus
 - especificidad
 - muestreo
 - sensibilidad
+title: Muestreo, sensibilidad y especificidad
+url: /2020/04/27/muestreo-sensibilidad-y-especificidad/
 ---
 
 El bloque de código

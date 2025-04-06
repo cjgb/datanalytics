@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-08 08:13:09+00:00
-draft: false
-title: Todo sobre bitcoin (y por qué he decidido cogerle manía)
-
-url: /2017/11/08/todo-sobre-bitcoin-y-por-que-he-decidido-cogerle-mania/
 categories:
 - varios
+date: 2017-11-08 08:13:09+00:00
+draft: false
+lastmod: '2025-04-06T18:50:16.301611'
+related:
+- 2017-09-19-fedatarios-blockchain-y-bitcoin.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
+- 2024-05-21-sentencia-bono-social-ii.md
+- 2023-09-14-gestion-liquidez.md
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
 tags:
 - bitcoin
 - criptomonedas
+title: Todo sobre bitcoin (y por qué he decidido cogerle manía)
+url: /2017/11/08/todo-sobre-bitcoin-y-por-que-he-decidido-cogerle-mania/
 ---
 
 Esencialmente, un usuario de _bitcoin_ puede hacer las mismas operaciones que un cliente bancario: ver su saldo, recibir _bitcoins_, transferir _bitcoins_. En ese aspecto, nada nuevo bajo el sol. Lo particular del caso es que, a diferencia del sistema bancario, sumamente centralizado, en el mundo del _bitcoin_ operan multitud de agentes sin necesidad de una autoridad central.

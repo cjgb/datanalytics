@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-02-04 09:13:51+00:00
-draft: false
-title: Y termino con lo de los intervalos
-
-url: /2016/02/04/y-termino-con-lo-de-los-intervalos/
 categories:
 - estadística
+date: 2016-02-04 09:13:51+00:00
+draft: false
+lastmod: '2025-04-06T19:07:06.776553'
+related:
+- 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
+- 2020-02-18-la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2016-02-03-otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene.md
 tags:
 - estadística
 - estadística bayesiana
 - intervalo de confianza
 - p-valores
 - prueba de hipótesis
+title: Y termino con lo de los intervalos
+url: /2016/02/04/y-termino-con-lo-de-los-intervalos/
 ---
 
 Y termino con lo de los intervalos. Me refiero a [esto](http://www.datanalytics.com/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/) y [esto](http://www.datanalytics.com/2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/).

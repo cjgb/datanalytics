@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-19 16:28:26+00:00
-draft: false
-title: 'JDM: fuese y no hubo nada'
-
-url: /2010/09/19/jdm-fuese-y-no-hubo-nada/
 categories:
 - ciencia de datos
+date: 2010-09-19 16:28:26+00:00
+draft: false
+lastmod: '2025-04-06T19:12:48.088129'
+related:
+- 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
+- 2024-11-28-cortos-stats.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2023-12-14-metodologias-viejunas.md
+- 2010-05-27-google-prediction-api.md
 tags:
 - ciencia de datos
+title: 'JDM: fuese y no hubo nada'
+url: /2010/09/19/jdm-fuese-y-no-hubo-nada/
 ---
 
 Por salvaguardar del olvido algunas entradas que hice en un blog que ya no existe años ha, reproduzco acá otra que sólo se entenderá retrasando las manecillas de los relojes y reemplazando hojas en los anaqueles hasta hará cosa de cinco años atrás.

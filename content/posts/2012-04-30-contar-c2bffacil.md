@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-30 06:41:04+00:00
-draft: false
-title: Contar, ¿fácil?
-url: /2012/04/30/contar-facil/
 categories:
 - estadística
 - números
+date: 2012-04-30 06:41:04+00:00
+draft: false
+lastmod: '2025-04-06T19:11:47.460895'
+related:
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
+- 2017-01-18-va-de-si-hay-una-o-dos-lambdas.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
 tags:
 - estadística
 - números
+title: Contar, ¿fácil?
+url: /2012/04/30/contar-facil/
 ---
 
 Contar debería ser fácil. Sobre todo, cifras relativamente pequeñas. Y más para el Estado, con todo su —aunque menguante, según algunos— poder.
@@ -27,4 +34,3 @@ El quid de la cuestión reside en si se cuentan como muertes relacionadas con el
 * Un camión se sale de su carril y aplasta un vehículo en el que mueren todos sus ocupantes. Pueden ser uno. O cinco. Incluso ninguno por un felicísimo azar. ¿No debería esta variabilidad corregir de alguna manera las cifras finales de fallecidos?
 * Un desglose de fallecidos por tipo de accidente (urbano contra, por exceso de alcohol, por la lluvia, por exceso de velocidad, etc.) que pudiera compararse de año en año, ¿no serviría para comprender mejor el fenómeno de la siniestralidad que un agregado absoluto? ¿Por qué no se publican y discuten estas cifras desagregadas? ¿Se nos considera demasiado inmaduros para comprenderlas adecuadamente?
 * Finalmente, para poder decidir sobre la bondad de un determinada política o un equipo gestor de la DGT, no debería haber un estadístico que calculase el p-valor asociado a la hipótesis nula _nuestra nueva política circulatoria es igual de buena que la antigua_?
-

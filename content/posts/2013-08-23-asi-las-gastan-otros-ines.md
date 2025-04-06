@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-23 07:46:19+00:00
-draft: false
-title: Así las gastan otros INEs
-
-url: /2013/08/23/asi-las-gastan-otros-ines/
 categories:
 - estadística
+date: 2013-08-23 07:46:19+00:00
+draft: false
+lastmod: '2025-04-06T19:04:37.538201'
+related:
+- 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
+- 2014-12-09-ruido-en-las-estadisticas-oficiales.md
+- 2015-06-30-rapapolvos-al-ine.md
+- 2019-05-08-a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
 tags:
 - estadística pública
 - ine
+title: Así las gastan otros INEs
+url: /2013/08/23/asi-las-gastan-otros-ines/
 ---
 
 [Este vídeo](http://www.significancemagazine.org/details/webexclusive/5102921/Refereeing-the-abusers-of-statistics.html) es una entrevista de la BBC a

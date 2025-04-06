@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-27 08:13:50+00:00
-draft: false
-title: Sobre el agregador de noticias sobre R en español
-
-url: /2019/02/27/sobre-el-agregador-de-noticias-sobre-r-en-espanol/
 categories:
 - anuncio
 - r
+date: 2019-02-27 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T18:46:44.193162'
+related:
+- 2010-06-03-agregador-de-noticias-sobre-r-en-espanol.md
+- 2017-04-17-ix-jornadas-de-usuarios-de-r-noviembre-en-granada.md
+- 2012-02-14-guia-de-econometria-basica-con-r.md
+- 2013-12-04-ayuda-de-r-en-espanol.md
+- 2017-10-11-ropenspain-ahi-tiro-el-guante.md
 tags:
 - agregador
 - blogs
 - noticias
 - r
+title: Sobre el agregador de noticias sobre R en español
+url: /2019/02/27/sobre-el-agregador-de-noticias-sobre-r-en-espanol/
 ---
 
 Aprovecho que acabo de actualizar mi agregador de noticias sobre R en español para escribir este recordatorio.

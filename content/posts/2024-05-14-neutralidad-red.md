@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-14
-title: 'Neutralidad en la red (en mayo de 2024)'
-url: /2024/05/14/neutralidad-red
 categories:
 - varios
+date: 2024-05-14
+lastmod: '2025-04-06T19:08:49.102361'
+related:
+- 2017-11-28-neutralidad-de-la-red-importa.md
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
+- 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md
+- 2016-01-27-internet-la-fruteria-y-el-sushi-bar.md
+- 2025-01-28-cortos-stats.md
 tags:
 - neutralidad en la red
 - internet
 - regulación
+title: Neutralidad en la red (en mayo de 2024)
+url: /2024/05/14/neutralidad-red
 ---
 
 Hay un buen motivo para que el tema de la neutralidad en la red no esté de moda: que es una solución regulatoria salomónica para un problema que existió en su día pero que  prácticamente ha desaparecido por sí solo. El de la neutralidad en la red es un criterio para racionar un recurso que fue muy escaso, el ancho de banda. Pero hoy sobra por todas partes. Ya no hay nada que racionar: estamos sentados en un jamón comiendo de otro.

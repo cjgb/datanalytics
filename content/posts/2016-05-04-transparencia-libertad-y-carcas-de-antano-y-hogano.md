@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-04 08:13:40+00:00
-draft: false
-title: Transparencia, libertad y carcas (de antaño y hogaño)
-
-url: /2016/05/04/transparencia-libertad-y-carcas-de-antano-y-hogano/
 categories:
 - varios
+date: 2016-05-04 08:13:40+00:00
+draft: false
+lastmod: '2025-04-06T18:54:02.384081'
+related:
+- 2016-05-18-transparencia-ley-de-transparencia-y-todas-esas-cosas.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2010-12-28-lo-prometo-no-es-una-broma.md
+- 2012-06-13-rankings-de-colegios-problemas-y-alternativas.md
 tags:
 - datos abiertos
 - datos públicos
 - educación
 - transparencia
+title: Transparencia, libertad y carcas (de antaño y hogaño)
+url: /2016/05/04/transparencia-libertad-y-carcas-de-antano-y-hogano/
 ---
 
 Me cuenta Google que Hegel defendía eso de que _la historia es el relato del desarrollo de la libertad humana_ (o algo parecido y en alemán). Y si algo ha de desarrollarse (y, además, al lento ritmo de la historia) en lugar de extenderse como las epidemias en esas pelis de catástrofes, es porque ha de vencer resistencias.
@@ -26,4 +32,3 @@ Termino con un par de predicciones:
 
 * ni nadie va a realizar una petición de esos datos amparándose en la Ley de Transparencia
 * ni se van a filtrar.
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-20 07:13:12+00:00
-draft: false
-title: ROI de ida y vuelta
-
-url: /2014/10/20/roi-de-ida-y-vuelta/
 categories:
 - consultoría
+date: 2014-10-20 07:13:12+00:00
+draft: false
+lastmod: '2025-04-06T18:50:00.097221'
+related:
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 tags:
 - consultoría
 - roi
 - sas
+title: ROI de ida y vuelta
+url: /2014/10/20/roi-de-ida-y-vuelta/
 ---
 
 Hace años, allá por el 2004, trabajaba en SAS. Íbamos a hacer una propuesta para la detección del fraude en una empresa de telefonía móvil de las de entoces. Habían medido el importe anual del fraude en X miles de euros. Nosotros íbamos a implantar un sistema que ayudase a prevenir un determinado porcentaje de él. El quid de la cuestión era cuál: alrededor de esa cuestión gravitaban los números en negrita de la propuesta que estábamos por elaborar.
@@ -33,6 +39,3 @@ Y dos notas:
 
 * Lo que he contado sobre SAS es delictivo o habitual y consuetudinario, según se mire. La historia es más un ejemplo de cómo cierta gente hace las cosas en España a veces que del quehacer de SAS.
 * Dos veces —pequé de cándido en ambas— me han hecho en esta vida firmar cosas con las que no estaba de acuerdo. No ha vuelto a suceder.
-
-
-

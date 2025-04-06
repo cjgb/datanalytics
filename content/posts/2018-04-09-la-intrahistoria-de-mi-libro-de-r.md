@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-09 08:13:44+00:00
-draft: false
-title: La intrahistoria de mi libro de R
-
-url: /2018/04/09/la-intrahistoria-de-mi-libro-de-r/
 categories:
 - anuncio
 - r
+date: 2018-04-09 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T18:51:47.813419'
+related:
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2015-04-21-programa-profesional-de-iniciacion-a-r.md
+- 2018-12-11-siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano.md
 tags:
 - libros
 - r
+title: La intrahistoria de mi libro de R
+url: /2018/04/09/la-intrahistoria-de-mi-libro-de-r/
 ---
 
 Una de las preguntas más fértiles que pueden formularse frente a algo es la del motivo de su existencia: ¿por qué existe en lugar de, simplemente, no existir?
@@ -50,4 +56,3 @@ Entonces se le dio la vuelta al calcetín. En lugar de código con muchos coment
 Aparecieron más ejercicios, cambió un poco el estilo de redacción (aunque siempre trató de conservarse terso, sin concesiones a la pluma) y se añadió algún contenido satelital. Pero poco más. El libro sigue fiel a sus principios originales: conducir lo más rápidamente posible a sus lectores a los tres objetivos arriba indicados.
 
 Por lo demás, dejé de dar cursos abiertos y gratis para gente formal del asunto; dejé luego de impartir el curso de introducción a R en KSchool (de hecho, ahora lo imparte un alumno de mi primera promoción, cosa que habla muy bien tanto de él como de mí) y ha sido el material con el que se ha impartido internamente en varias empresas, tanto por mi propia cuenta como de la mano de mi socia Luz Frías.
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-19 07:09:26+00:00
-draft: false
-title: PER y EV/EBITDA
-
-url: /2012/09/19/per-y-evebitda/
 categories:
 - finanzas
+date: 2012-09-19 07:09:26+00:00
+draft: false
+lastmod: '2025-04-06T18:49:20.973975'
+related:
+- 2011-08-09-2452.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2024-02-29-letf.md
+- 2023-09-21-inversiones-renta-variable.md
 tags:
 - finanzas
 - mercados financieros
 - riesgo
+title: PER y EV/EBITDA
+url: /2012/09/19/per-y-evebitda/
 ---
 
 Muchos portales financieros incluyen información sobre uno de los llamados múltiplos (asociados a empresas que cotizan en bolsa), el [PER](http://es.wikipedia.org/wiki/Price_to_Earnings_Ratio). Es fácil de calcular a partir de información pública más o menos fiable y se usa en la práctica para estimar muy a groso modo si determinadas empresas (o mercados) están o no sobrepreciadas.

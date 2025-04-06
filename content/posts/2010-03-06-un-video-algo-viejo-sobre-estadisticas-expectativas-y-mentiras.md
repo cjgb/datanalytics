@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-06 16:38:53+00:00
-draft: false
-title: Un vídeo algo viejo sobre estadísticas, expectativas y mentiras
-
-url: /2010/03/06/un-video-algo-viejo-sobre-estadisticas-expectativas-y-mentiras/
 categories:
 - probabilidad
+date: 2010-03-06 16:38:53+00:00
+draft: false
+lastmod: '2025-04-06T18:45:18.264407'
+related:
+- 2012-08-09-odds-ratio-vs-probabilidad.md
+- 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2015-10-21-la-falacia-del-fiscal-pero-con-frecuencias-naturales.md
+- 2022-09-06-problema-estadistica-frecuencias-naturales.md
 tags:
 - probabilidad
 - anuncio
+title: Un vídeo algo viejo sobre estadísticas, expectativas y mentiras
+url: /2010/03/06/un-video-algo-viejo-sobre-estadisticas-expectativas-y-mentiras/
 ---
 
 Hace poco me hicieron llegar el [vídeo de una conferencia](http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries.html) pronunciada en el seno del[ TED](http://www.ted.com).

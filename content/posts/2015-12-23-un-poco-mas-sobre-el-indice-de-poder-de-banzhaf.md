@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-23 08:13:51+00:00
-draft: false
-title: Un poco más sobre el índice de poder de Banzhaf
-
-url: /2015/12/23/un-poco-mas-sobre-el-indice-de-poder-de-banzhaf/
 categories:
 - r
+date: 2015-12-23 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T18:52:25.489635'
+related:
+- 2012-04-04-de-dhondt-a-banzhaf.md
+- 2015-12-22-coaliciones-de-banzhaf-en-el-20d.md
+- 2015-05-20-banzhaf-y-las-elecciones-que-se-nos-vienen.md
+- 2019-05-07-elecciones-e-indice-supernaif-de-shapley.md
+- 2017-01-25-el-numero-efectivo-de-partidos.md
 tags:
 - banzhaf
 - política
 - r
+title: Un poco más sobre el índice de poder de Banzhaf
+url: /2015/12/23/un-poco-mas-sobre-el-indice-de-poder-de-banzhaf/
 ---
 
 En el año 2012 escribí [esto](http://www.datanalytics.com/2012/04/04/de-dhondt-a-banzhaf/), que incluye

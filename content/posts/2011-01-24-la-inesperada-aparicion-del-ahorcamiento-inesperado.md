@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-24 11:18:09+00:00
-draft: false
-title: La inesperada aparición del ahorcamiento inesperado
-
-url: /2011/01/24/la-inesperada-aparicion-del-ahorcamiento-inesperado/
 categories:
 - números
+date: 2011-01-24 11:18:09+00:00
+draft: false
+lastmod: '2025-04-06T18:59:58.811284'
+related:
+- 2024-07-10-cortos-stats.md
+- 2014-10-14-amanece-me-cuenta-que-no-es-poco.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2015-04-14-la-informacion-es-sorpresa.md
 tags:
 - números
+title: La inesperada aparición del ahorcamiento inesperado
+url: /2011/01/24/la-inesperada-aparicion-del-ahorcamiento-inesperado/
 ---
 
 Procrastinando, he dado con [este artículo](http://www.fedeablogs.net/economia/?p=8878) en una bitácora que sigo esporádicamente. Mis lectores no van a entender ni papa de lo que sigue si no siguen el enlace y se enteran de qué va.

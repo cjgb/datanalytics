@@ -1,16 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-03-19 00:00:00
-title: 'El "perspectivismo" en el debate sobre la naturaleza, objetiva o subjetiva, de la probabilidad'
-url: /2024/3/19/perspectivismo
 categories:
 - probabilidad
+date: 2024-03-19 00:00:00
+lastmod: '2025-04-06T18:48:19.302833'
+related:
+- 2020-01-07-la-probabilidad-algo-subjetivo.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2025-01-09-causalidad-sujeto-verbo-od.md
+- 2017-11-09-probabilismo-probabilorismo-y-todas-esas-cosas.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
 tags:
 - probabilidad
 - perspectivismo
 - estadística bayesiana
 - probabilidades subjetivas
 - ortega
+title: El "perspectivismo" en el debate sobre la naturaleza, objetiva o subjetiva,
+  de la probabilidad
+url: /2024/3/19/perspectivismo
 ---
 
 [_How probabilities came to be objective and subjective_](https://doi.org/10.1006/hmat.1994.1028) es un artículo que se resume así:
@@ -28,4 +36,3 @@ y su relevancia y oportunidad son evindentes.
 ### Coda
 
 Es muy habitual retomar ---aburrida y reiterativamente--- discusiones de hace X años usando conceptos de la época, cuando, tal vez, desde hace X/2 años existen instrumentos conceptuales más adecuados para tratarlos. Sucede mucho con concepciones extravagantes de la probabilidad pre-Kolmogorov. Cuando tropiezo con alguno y quiero pensarlo con cuidado, consulto en primer lugar la fecha en que fue planteado. Si es anterior a 1932, el modelo mental más adecuado para analizarlo es: casi seguro que Kolmogorov lo resolvió rotunda y definitivamente.
-

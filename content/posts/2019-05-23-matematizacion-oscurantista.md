@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-23 09:13:15+00:00
-draft: false
-title: Matematización oscurantista
-
-url: /2019/05/23/matematizacion-oscurantista/
 categories:
 - estadística
 - números
+date: 2019-05-23 09:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:04:59.955649'
+related:
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md
+- 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
 tags:
 - artículos
 - estadística
 - policía
 - riesgo
 - violencia
+title: Matematización oscurantista
+url: /2019/05/23/matematizacion-oscurantista/
 ---
 
 Hoy he participado en una discusión en Twitter acerca del artículo [_Eficacia predictiva de la valoración policial del riesgo de la violencia de género_](https://www.sciencedirect.com/science/article/pii/S1132055915000496) que sus autores resumen así:
@@ -36,6 +42,3 @@ Acerca del primer punto, lo que sí que se hace en el artículo es agregar los c
 Por lo demás, sí, han transcrito muy correctitamente los estadísticos que SPSS en su vigésima versión ofrece a quien aprendió a navegar sus vericuetosos menúes.
 
 **Nota:** Uso prestado en el título de esta entrada nomenclatura de Gustavo Bueno. Las matemáticas y la estadística, al igual que los mitos, pueden ser utilizadas para aclarar e iluminar, pero también para confundir y oscurecer.
-
-
-

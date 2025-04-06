@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-16 23:24:46+00:00
-draft: false
-title: Representando gráficamente conjuntos de datos pequeños
-
-url: /2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/
 categories:
 - r
+date: 2010-09-16 23:24:46+00:00
+draft: false
+lastmod: '2025-04-06T18:52:04.732687'
+related:
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2018-02-14-diagramas-de-cajas-lo-que-hay-que-saber-y-muchas-otras-cosas-que-no-hacen-tanta-falta-pero-que-son-entretenidas.md
 tags:
 - gráficos
 - r
+title: Representando gráficamente conjuntos de datos pequeños
+url: /2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/
 ---
 
 Últimamente me están llegando conjuntos de datos para analizar con muy pocos registros. He aquí un subconjunto de uno de ellos (de hoy y debidamente anonimizado):

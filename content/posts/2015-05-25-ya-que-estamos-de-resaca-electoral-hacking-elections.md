@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-25 08:13:06+00:00
-draft: false
-title: Ya que estamos de resaca electoral, ¡Hacking elections!
-
-url: /2015/05/25/ya-que-estamos-de-resaca-electoral-hacking-elections/
 categories:
 - anuncio
+date: 2015-05-25 08:13:06+00:00
+draft: false
+lastmod: '2025-04-06T19:05:53.819217'
+related:
+- 2018-11-08-siguen-votando-igual-los-diputados.md
+- 2017-10-11-ropenspain-ahi-tiro-el-guante.md
+- 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
+- 2018-10-29-enlaces-parasociologicos.md
+- 2023-06-01-vender-algoritmos.md
 tags:
 - anuncio
 - datatón
 - elecciones
 - hackatón
+title: Ya que estamos de resaca electoral, ¡Hacking elections!
+url: /2015/05/25/ya-que-estamos-de-resaca-electoral-hacking-elections/
 ---
 
 Un pelo del perro que te mordió, decían, curaba la rabia. Un vaso de vino, la resaca de lo mismo. Si te has levantado hoy con dolor de cabeza de resaca electoral, estás de enhorabuena: tienes a mano participar en [_Hacking Elections_](http://hackathon.elconfidencial.com/).

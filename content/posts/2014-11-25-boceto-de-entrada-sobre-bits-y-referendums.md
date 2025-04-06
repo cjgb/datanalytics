@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-25 07:13:38+00:00
-draft: false
-title: Boceto de entrada sobre bits y referéndums
-
-url: /2014/11/25/boceto-de-entrada-sobre-bits-y-referendums/
 categories:
 - números
+date: 2014-11-25 07:13:38+00:00
+draft: false
+lastmod: '2025-04-06T18:52:08.060922'
+related:
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2023-04-24-estadistica-creativa.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
 tags:
 - números
 - referéndums
+title: Boceto de entrada sobre bits y referéndums
+url: /2014/11/25/boceto-de-entrada-sobre-bits-y-referendums/
 ---
 
 El tema tenía que salir por ser español —y todos sabemos que es recurrente allá— y pasar muchos días al mes en Suiza, país en el que se piensa cuando se habla de referéndums. Más que salir —corrijo— me lo sacan tanto aquí como allá. Así que escribo sobre él. Pero en lugar de una entrada bien articulada, para la que no tengo tiempo, voy a limitarme a esbozar una serie de argumentos, los que, cuando llega el caso y tengo ocasión, pongo sobre la mesa.
@@ -43,8 +49,3 @@ Finalmente, hay evidencia publicada (cito de memoria y no enlazo a nada porque e
 y otros de análoga naturaleza? La implementación en la práctica de mecanismos de democracia directa iba a resultar un peñazo. Si ni siquiera acudimos a las reuniones de vecinos, ¡carajo!
 
 Y eso es todo. A ver si un día ordeno esos apuntes que he desparramado en los párrafos anteriores y armo una entrada como Dios manda.
-
-
-
-
-

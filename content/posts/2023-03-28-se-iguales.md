@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-28
-title: 'Todos los SE son iguales, pero algunos son más iguales que otros'
-
-url: /2023/03/28/todos-los-se-iguales/
 categories:
 - programación
+date: 2023-03-28
+lastmod: '2025-04-06T18:55:10.681335'
+related:
+- 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
+- 2015-08-28-todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - home server
 - python
 - kivy
 - domótica
+title: Todos los SE son iguales, pero algunos son más iguales que otros
+url: /2023/03/28/todos-los-se-iguales/
 ---
 
 SE significa arriba_squared errors_, pero lo que aplica a cualquier otro tipo de error, incluso los que son más apropiados que los cuadráticos. El problema de los SE es que se tienden a considerar _iguales_ y por eso se los promedia en engendros como el RMSE y similares. Pero incluso entre los SE hay jerarquías, como evidencia la siguiente historia.

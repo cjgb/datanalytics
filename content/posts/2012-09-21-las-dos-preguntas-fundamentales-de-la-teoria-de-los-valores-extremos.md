@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-21 07:23:35+00:00
-draft: false
-title: Las dos preguntas fundamentales de la teoría de los valores extremos
-
-url: /2012/09/21/las-dos-preguntas-fundamentales-de-la-teoria-de-los-valores-extremos/
 categories:
 - estadística
 - probabilidad
+date: 2012-09-21 07:23:35+00:00
+draft: false
+lastmod: '2025-04-06T18:50:17.641875'
+related:
+- 2016-01-18-el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 tags:
 - estadística
 - evt
 - probabilidad
 - riesgo
+title: Las dos preguntas fundamentales de la teoría de los valores extremos
+url: /2012/09/21/las-dos-preguntas-fundamentales-de-la-teoria-de-los-valores-extremos/
 ---
 
 En muchos ocasiones es necesario realizar estimaciones sobre el máximo de una serie de valores aleatorios.

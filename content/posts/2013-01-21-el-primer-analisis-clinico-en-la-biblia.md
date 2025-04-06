@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-21 07:07:25+00:00
-draft: false
-title: El primer análisis clínico, ¿en la Biblia?
-
-url: /2013/01/21/el-primer-analisis-clinico-en-la-biblia/
 categories:
 - estadística
+date: 2013-01-21 07:07:25+00:00
+draft: false
+lastmod: '2025-04-06T18:55:20.241067'
+related:
+- 2010-04-07-el-censo-del-rey-david-y-el-castigo-de-yahve.md
+- 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md
+- 2018-01-24-la-dieta-de-hambre-en-dias-alternos-en-la-alimentacion-de-los-viejos.md
+- 2014-10-29-analisis-discriminante-a-la-ortega-y-gasset.md
+- 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md
 tags:
 - estadística
+title: El primer análisis clínico, ¿en la Biblia?
+url: /2013/01/21/el-primer-analisis-clinico-en-la-biblia/
 ---
 
 [Ben Goldacre](http://en.wikipedia.org/wiki/Ben_Goldacre) es un médico inglés algo friqui. No se conforma con lo que le cuentan los vademécum al uso. Y mucho menos, los visitadores médicos, es decir, los representantes comerciales de las compañías farmacéuticas. Le gusta navegar por la literatura científica y ver qué se ha publicado sobre los diversos tratamientos. E incluso, lo que no ha llegado a publicarse (ya sabéis, el [sesgo de publicación](http://en.wikipedia.org/wiki/Publication_bias#File_drawer_effect)).

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-07
-title: "Dibujar y modelar: ¿en qué se parecen?"
-
-url: /2023/11/07/dibujar-modelar/
 categories:
 - estadística
+date: 2023-11-07
+lastmod: '2025-04-06T19:01:40.657099'
+related:
+- 2024-10-17-interpretacion-modelos.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2021-04-13-formalismos-y-modelos.md
 tags:
 - estadística
 - laffer
 - modelización estadística
+title: 'Dibujar y modelar: ¿en qué se parecen?'
+url: /2023/11/07/dibujar-modelar/
 ---
 
 Los economistas de hogaño tienden a coincidir en no encontrar sustancia detrás de la llamada

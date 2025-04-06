@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-12-29
-title: 'Curso en línea: "R para visualización de datos"'
-
-url: /2022/12/29/curso-visualizacion-datos/
 categories:
 - r
+date: 2022-12-29
+lastmod: '2025-04-06T18:52:48.860768'
+related:
+- 2022-12-27-curso-luz-frias.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2020-01-14-curso-de-python-basico-orientado-al-analisis-de-datos.md
+- 2012-06-01-curso-de-r-gratuito-no-presencial.md
+- 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md
 tags:
 - r
 - visualización
 - cursos
 - luz frías
+title: 'Curso en línea: "R para visualización de datos"'
+url: /2022/12/29/curso-visualizacion-datos/
 ---
 
 Entrada breve solo para anunciar el curso/libro/manual gratuito y en línea

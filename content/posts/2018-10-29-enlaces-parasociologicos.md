@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-29 08:13:21+00:00
-draft: false
-title: Enlaces parasociológicos
-
-url: /2018/10/29/enlaces-parasociologicos/
 categories:
 - estadística
+date: 2018-10-29 08:13:21+00:00
+draft: false
+lastmod: '2025-04-06T19:07:55.280608'
+related:
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2023-05-16-promedio-predicciones-electorales.md
 tags:
 - encuestas
 - encuestas electorales
 - estadística
 - jags
 - r
+title: Enlaces parasociológicos
+url: /2018/10/29/enlaces-parasociologicos/
 ---
 
 Tenía tan bien guardados en el disco duro una serie de enlaces de interés [parasociológico](https://elpais.com/politica/2018/10/05/actualidad/1538756423_074388.html) que no había forma humana de dar con ellos.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-07-12 08:13:44+00:00
-draft: false
-title: ¿Alguien sabe por qué es tan pequeño este número?
-
-url: /2017/07/12/alguien-sabe-por-que-es-tan-pequeno-este-numero/
 categories:
 - finanzas
 - números
+date: 2017-07-12 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T18:46:07.365218'
+related:
+- 2012-01-11-una-cifra-ya-que-estamos-con-el-irpf.md
+- 2011-02-25-1605.md
+- 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 tags:
 - datos públicos
 - impuestos
 - números
+title: ¿Alguien sabe por qué es tan pequeño este número?
+url: /2017/07/12/alguien-sabe-por-que-es-tan-pequeno-este-numero/
 ---
 
 Hay una cifra que me intriga. Ya [hablé sobre ella hace años](https://www.datanalytics.com/2012/01/11/una-cifra-ya-que-estamos-con-el-irpf/).
@@ -27,4 +33,3 @@ Hipótesis que barajo:
 * Que ese número no signifique lo que y pienso que significa.
 * Que en el denominador hay autónomos inactivos, autónomos a tiempo ultraparcial, autónomos que se dieron de alta un ratico para cobrar una factura pírrica, etc.
 * Que alguien que ni es autónomo ni lo ha sido; que ni ha creado un puesto de trabajo ni es probable que lo cree nunca (ni siquiera para sí mismo) escribirá un comentario que contenga la palabra _fraude_ rodeado del habitual blablablá.
-

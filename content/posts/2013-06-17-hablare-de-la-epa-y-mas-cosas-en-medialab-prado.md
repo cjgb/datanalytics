@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-06-17 07:47:13+00:00
-draft: false
-title: Hablaré de la EPA (y más cosas) en Medialab Prado
-
-url: /2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/
 categories:
 - estadística
 - anuncio
+date: 2013-06-17 07:47:13+00:00
+draft: false
+lastmod: '2025-04-06T19:09:40.780330'
+related:
+- 2013-06-26-video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado.md
+- 2013-04-15-tu-tasa-de-paro-en-medialab-prado.md
+- 2022-09-22-nuevo-video-en-youtube-charla-epa.md
+- 2017-09-27-estadistica-ciencia-de-datos-y-la-revalorizacion-del-no.md
+- 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md
 tags:
 - charlas
 - cursos
@@ -15,6 +19,8 @@ tags:
 - estadística pública
 - r
 - anuncio
+title: Hablaré de la EPA (y más cosas) en Medialab Prado
+url: /2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/
 ---
 
 Este miércoles (2013-06-19 en [formato ISO 8601](http://es.wikipedia.org/wiki/ISO_8601): a ver si os vais acostumbrando a él de una bendita vez) [hablaré en MediaLab Prado](http://medialab-prado.es/article/13_periodismo_datos) sobre la EPA y más cosas.

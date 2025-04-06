@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-02-11
-title: 'Computación cuántica en Barcelona (al lado de ALIA) y algunos asuntos más'
-url: /2025/02/11/cortos-llms
 categories:
 - cortos
+date: 2025-02-11
+lastmod: '2025-04-06T19:06:10.406447'
+related:
+- 2023-10-19-errores-chatgpt.md
+- 2024-03-21-cortos.md
+- 2024-10-01-cortos-llms.md
+- 2023-10-05-llms-historia.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - computación cuántica
 - covid
 - llms
 - opciones
 - incertidumbre
+title: Computación cuántica en Barcelona (al lado de ALIA) y algunos asuntos más
+url: /2025/02/11/cortos-llms
 ---
 
 Mandar una petición a un LLM equivale a usar un ordenador (bastante potente) un _ratico_. El consumo de electricidad no puede ser _tan_ alto. Tiene que ser infinitamente inferior al de actividades cotidianas que involucren calentar cosas, por ejemplo. Pero el que quiera los números concretos, puede echarle un vistazo a [_Individual AI use is not bad for the environment_](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for).

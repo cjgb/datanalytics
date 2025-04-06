@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-10 09:13:00+00:00
-draft: false
-title: Distribuciones (¿de renta? ¿solo de renta?) a partir de histogramas
-
-url: /2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/
 categories:
 - artículos
 - r
+date: 2020-09-10 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:38.648292'
+related:
+- 2020-06-05-de-histograma-a-distribuciones-usando-la-de-burr.md
+- 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md
+- 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2016-12-19-problemas-navidenos-decon-r.md
 tags:
 - artículos
 - cuantiles
@@ -15,6 +19,8 @@ tags:
 - r
 - renta
 - economía
+title: Distribuciones (¿de renta? ¿solo de renta?) a partir de histogramas
+url: /2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/
 ---
 
 En el primer número de la novísima revista _[Spanish Journal of Statistics](https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952184169&p=1259952184169&pagename=RevEstadistica%2FSJSLayout)_ aparece un artículo con un título tentador: _[Recovering income distributions from aggregated data via micro-simulations](https://www.ine.es/art/sjs/sjs_2019_01_03.pdf)_.
@@ -56,4 +62,3 @@ que da algo así como
 Comparar los cuantiles de la nueva distribución con los originales es ejercicio que queda propuesto al lector.
 
 **Addenda:** Véase [esta entrada anterior](http://www.datanalytics.com/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/).
-

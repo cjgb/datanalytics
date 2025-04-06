@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-14 08:13:11+00:00
-draft: false
-title: Construcción de prioris informativas a la de Finetti
-
-url: /2016/01/14/construccion-de-prioris-informativas-a-la-de-finetti/
 categories:
 - estadística
+date: 2016-01-14 08:13:11+00:00
+draft: false
+lastmod: '2025-04-06T18:46:58.142183'
+related:
+- 2014-10-06-el-problema-del-100-y-un-ensayo-de-solucion.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
+- 2024-12-05-beta-binomial-deriva.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
 tags:
 - estadística bayesiana
 - priori
+title: Construcción de prioris informativas a la de Finetti
+url: /2016/01/14/construccion-de-prioris-informativas-a-la-de-finetti/
 ---
 
 Un banco tiene clientes. Los clientes usan la tarjeta de débito. La pueden usar de dos maneras: en cajero o para pagar (por productos y servicios). De cada cliente se tiene una secuencia de transacciones, etiquetadas como 1 o 0 según la use en cajero o no.

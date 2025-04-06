@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-29 08:13:28+00:00
-draft: false
-title: Guasa tiene que habiendo tanto economista por ahí tenga yo que escribir esta
-  cosa hoy
-
-url: /2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/
 categories:
 - ciencia de datos
 - consultoría
+date: 2018-05-29 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:52:46.191690'
+related:
+- 2014-09-29-decisiones-basadas-en-datos-siempre-posibles-en-la-practica.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - ciencia de datos
 - economía
 - política
 - ruido
 - meritocracia
+title: Guasa tiene que habiendo tanto economista por ahí tenga yo que escribir esta
+  cosa hoy
+url: /2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/
 ---
 
 Tiene que ver mi entrada de hoy con [_Why did Big Data fail Clinton?_](http://www.statisticsviews.com/details/news/10094321/Why_did_Big_Data_fail_Clinton.html), que trata de lo que el título indica: toda la tontería que se ha escrito de [Cambridge Analytica](https://www.datanalytics.com/2018/04/02/sobre-lo-de-cambridge-analytica/). Enlazo todo lo demás, por otro lado, con el [nóbel de economía de 2016 (Hart y otro)](https://marginalrevolution.com/marginalrevolution/2016/10/performance-pay-nobel.html).

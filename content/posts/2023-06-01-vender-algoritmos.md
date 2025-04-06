@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-06-01
-title: 'Cómo "vender" los "algoritmos"'
-
-url: /2023/06/01/como-vender-algoritmos/
 categories:
 - estadística
+date: 2023-06-01
+lastmod: '2025-04-06T18:46:30.108676'
+related:
+- 2023-05-25-evaluaciones-clinicas-actuariales.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2018-03-23-admitira-finalmente-el-dle-la-acepcion-algoritmo-de-logaritmo.md
+- 2024-05-21-sentencia-bono-social-ii.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 tags:
 - ia
 - consultoría
 - ludismo
+title: Cómo "vender" los "algoritmos"
+url: /2023/06/01/como-vender-algoritmos/
 ---
 
 He leído ---consecuencia del aburrimiento y la inercia--- en diagonal el artículo

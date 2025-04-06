@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-29
-title: "Un experimento físico (y su relación con la causalidad) (I)"
-url: /2022/03/29/experimento-fisico-relacion-causalidad-i/
 categories:
 - causalidad
+date: 2022-03-29
+lastmod: '2025-04-06T18:55:43.992756'
+related:
+- 2022-03-31-experimento-fisico-causalidad-ii.md
+- 2024-09-10-causalidad.md
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2014-06-24-causalidad-a-la-pearl-y-el-operador-do.md
+- 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md
 tags:
 - física
 - causalidad
 - aleatoriedad
+title: Un experimento físico (y su relación con la causalidad) (I)
+url: /2022/03/29/experimento-fisico-relacion-causalidad-i/
 ---
 
 En esta entrada voy a plantear y explicar el resultado de un experimento físico. Dejo para la siguiente la discusión de su relevancia para la discusión de la causalidad ya no tanto desde el punto de cuantificarla una vez postulada sino de su misma naturaleza.

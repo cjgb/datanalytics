@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-16 07:50:40+00:00
-draft: false
-title: Virguería con R
-
-url: /2012/02/16/virgueria-con-r/
 categories:
 - r
+date: 2012-02-16 07:50:40+00:00
+draft: false
+lastmod: '2025-04-06T19:07:18.161743'
+related:
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2012-03-23-r-y-la-distribucion-de-rayleigh.md
+- 2012-01-17-muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones.md
+- 2015-03-24-compresion-con-svd.md
+- 2015-02-11-recurrencia-recurrente.md
 tags:
 - r
 - gráficos
 - 3d
 - animaciones
+title: Virguería con R
+url: /2012/02/16/virgueria-con-r/
 ---
 
 A la pregunta, tal vez con una formulación mejorable de un usuario de la lista de R, sobre cómo representar una distribución normal bivariada con correlación 0.5 en 3D di ayer esta solución:

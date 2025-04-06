@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-27 19:44:51+00:00
-draft: false
-title: ¡A los datos mismos!
-
-url: /2012/07/27/a-los-datos-mismos/
 categories:
 - consultoría
 - estadística
+date: 2012-07-27 19:44:51+00:00
+draft: false
+lastmod: '2025-04-06T19:04:14.408698'
+related:
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2014-08-08-procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2014-09-22-la-diapositiva-perdida-version-algo-mas-extendida.md
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
 tags:
 - consultoría
 - estadística
 - poisson
+title: ¡A los datos mismos!
+url: /2012/07/27/a-los-datos-mismos/
 ---
 
 Me llamaron (y aún no tengo claro qué hay _de lo mío_ en el asunto) para un proyecto. Consistía en estimar el tiempo que lleva completar determinados _procesos_ en una conocida empresa.

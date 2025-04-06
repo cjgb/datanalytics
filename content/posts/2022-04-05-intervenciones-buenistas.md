@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-05
-title: "¿Por qué no funcionan las intervenciones buenistas?"
-url: /2022/04/05/por-que-no-funcionan-intervenciones-buenistas/
 categories:
 - estadística
+date: 2022-04-05
+lastmod: '2025-04-06T18:55:38.241341'
+related:
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2020-05-26-poor-economics-el-resumen.md
+- 2025-03-11-cortos-causalidad.md
+- 2017-09-26-ajustad-vuestras-prioris-la-mayoria-de-los-programas-sociales-carecen-de-efectos-positivos.md
+- 2024-07-08-cortos-stats.md
 tags:
 - mala ciencia
 - modelos mixtos
 - causalidad
 - efectos heterogéneos
+title: ¿Por qué no funcionan las intervenciones buenistas?
+url: /2022/04/05/por-que-no-funcionan-intervenciones-buenistas/
 ---
 
 El otro día, en mi entrada sobre la [estadística en las ciencias blandengues](/2022/03/08/estadistica-ciencias-blandas/),
@@ -28,4 +35,3 @@ Y el tercero, como apunta Andrew Gelman [aquí](https://statmodeling.stat.columb
 ignorar la _maldición del ganador_. En efecto, que _un_ RCT haya _dado positivo_ puede ser simplemente producto de eso, de la maldición del ganador. Puede ser uno de esos 5% casos que la teoría detrás de todo eso de los p-valores resulten _significativos_ sin serlo. Al fin y al cabo, se hacen cientos de RCTs en muchas áreas de las ciencias blandengues al año (véase, p.e., el libro [_Poor Economics_](/2020/05/26/poor-economics-el-resumen/)). Aquella intervención que resulte significativa no solo pudiera _no replicar_ sino que, además, es posible que parezca tener un _efecto_ muy superior al real.
 
 Es ilustrativo el caso de la renta básica universal. Ha habido ya [varios experimentos al respecto](https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map) con resultados, si alguno, más bien discretos. El día que consigan vendernos como positivo alguno de ellos ---o de los que vengan en el futuro--- será difícil no verlo _escalar_. Y cuando este _escalamiento_ se caiga con estrépito, recordad: lo leísteis aquí antes que en ningún otro sitio.
-

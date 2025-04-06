@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-08
-title: Estadística en las ciencias blandas
-url: /2022/03/08/estadistica-ciencias-blandas/
 categories:
 - estadística
+date: 2022-03-08
+lastmod: '2025-04-06T18:58:09.653286'
+related:
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2022-04-05-intervenciones-buenistas.md
+- 2022-03-22-diagramas-causales-hipersimples-3-mediadores.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
 tags:
 - ciencia
 - mala ciencia
@@ -12,6 +17,8 @@ tags:
 - r
 - causalidad
 - efectos heterogéneos
+title: Estadística en las ciencias blandas
+url: /2022/03/08/estadistica-ciencias-blandas/
 ---
 
 Voy a comenzar con una simulación inofensiva,
@@ -110,6 +117,3 @@ Cuando dicen _si aplicamos tratamiento X a una población A se obtiene una respu
 Después de escrito todo lo anterior he dado con [_Nothing Scales_](https://jasonkerwin.com/nonparibus/2021/11/03/nothing-scales/), un ensayo que trata desde lo concreto el mismo problema que yo abordo desde lo abstracto. Ahí se lee, por ejemplo,
 
 >But trying to analyze this is very rare, which is a disaster for social science research. Good empirical social science almost always focuses on estimating a causal relationship: what is β in Y = α + βX + ϵ? But these relationships are all over the place: there is no underlying β to be estimated! Let’s ignore nonlinearity for a second, and say we are happy with the best linear approximation to the underlying function. The right answer here still potentially differs for every person, and at every point in time.* Your estimate is just some weighted average of a bunch of unit-specific βs, even if you avoid randomized experiments and run some other causal inference approach on the entire population.
-
-
-

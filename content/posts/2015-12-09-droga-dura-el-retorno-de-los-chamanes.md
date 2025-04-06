@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-09 08:13:08+00:00
-draft: false
-title: 'Droga dura: El retorno de los chamanes'
-
-url: /2015/12/09/droga-dura-el-retorno-de-los-chamanes/
 categories:
 - varios
+date: 2015-12-09 08:13:08+00:00
+draft: false
+lastmod: '2025-04-06T19:07:27.075303'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
 tags:
 - lapuente
 - libros
 - política
+title: 'Droga dura: El retorno de los chamanes'
+url: /2015/12/09/droga-dura-el-retorno-de-los-chamanes/
 ---
 
 He pasado unos días enganchado a [El retorno de los chamanes](http://www.casadellibro.com/libro-el-retorno-de-los-chamanes/9788499424408/2595089), un libro de mi paisano [Víctor Lapuente](https://twitter.com/VictorLapuente).

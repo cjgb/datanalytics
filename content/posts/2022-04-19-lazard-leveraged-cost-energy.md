@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-19
-title: "El coste nivelado de la energía: la plantilla"
-description: "Una plantilla para calcular el coste nivelado de la energía"
-url: /2022/04/19/coste-nivelado-energia/
 categories:
 - varios
+date: 2022-04-19
+description: Una plantilla para calcular el coste nivelado de la energía
+lastmod: '2025-04-06T18:51:10.512245'
+related:
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2023-07-18-energia-nuclear-salvara-mundo.md
+- 2016-02-15-energia-solar-instalaciones-industriales-vs-paneles-en-tejados.md
+- 2014-01-22-catorce-mitos-sobre-el-mercado-electrico.md
+- 2018-09-21-una-anecdota-sobre-el-mercado-electrico-y-sus-mermas.md
 tags:
 - economía
 - energía
 - electricidad
 - lazard
+title: 'El coste nivelado de la energía: la plantilla'
+url: /2022/04/19/coste-nivelado-energia/
 ---
 
 A nadie se le escapa que los mercados energéticos viven tiempos convulsos. Sin embargo, a pesar de que el problema es fundamentalmente económico, la gentecilla blande argumentos de lo más variopinto (e, indefectiblemente, desencaminado).

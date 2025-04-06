@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-03 08:13:19+00:00
-draft: false
-title: Vivir del ruido
-
-url: /2017/10/03/vivir-del-ruido/
 categories:
 - estadística
+date: 2017-10-03 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:04:36.737360'
+related:
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
+- 2017-01-09-en-lugar-de-dar-la-lata-hablando-de-ruido-estadistico-doy-dos-puntos-a-aquellos-de-mis-alumnos-que-solucionen-en-siguiente-problema.md
+- 2016-06-08-ruido-de-alarmas-ruido-de-p-valores-mucho-mucho-ruido-tanto-tanto-ruido.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
 tags:
 - correlación
 - epidemiología
 - estadística
 - ruido
+title: Vivir del ruido
+url: /2017/10/03/vivir-del-ruido/
 ---
 
 1. Tienes acceso a la serie histórica de hospitalizaciones (p.e. en Madrid) por diversas (muchas) causas.
@@ -33,4 +39,3 @@ tags:
     * _Emergency multiple sclerosis hospital admissions attributable to chemical and acoustic pollution: Madrid (Spain), 2001-2009_
 
 ¡Eso es a lo que Lakatos llama un señor [programa de investigación científica](https://en.wikipedia.org/wiki/Imre_Lakatos#Research_programmes)!
-

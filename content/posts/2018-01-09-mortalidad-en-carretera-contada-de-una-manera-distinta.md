@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-09 08:13:17+00:00
-draft: false
-title: Mortalidad en carretera (contada de una manera distinta)
-
-url: /2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/
 categories:
 - estadística
 - números
 - r
+date: 2018-01-09 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T19:00:51.105936'
+related:
+- 2012-04-30-contar-c2bffacil.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2017-01-18-va-de-si-hay-una-o-dos-lambdas.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2017-03-01-sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero.md
 tags:
 - accidentes
 - defunciones
@@ -18,6 +22,8 @@ tags:
 - r
 - series temporales
 - stl
+title: Mortalidad en carretera (contada de una manera distinta)
+url: /2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/
 ---
 
 Con motivo de fin de año se ha hablado de fallecidos en accidentes de tráfico como por ejemplo en [El Mundo](http://www.elmundo.es/motor/2018/01/03/5a4cb63a468aeb18298b45c4.html) o en [El País](https://elpais.com/elpais/2018/01/06/hechos/1515272812_112078.html). Y sí, parece que el número observado de muertos ha aumentado.

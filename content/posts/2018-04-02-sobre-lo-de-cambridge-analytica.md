@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-02 08:13:24+00:00
-draft: false
-title: Sobre lo de Cambridge Analytica
-
-url: /2018/04/02/sobre-lo-de-cambridge-analytica/
 categories:
 - números
+date: 2018-04-02 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:55:32.794631'
+related:
+- 2023-10-03-muestreo-superricos.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2020-09-02-hoy-si-sobre-tetas-y-culos-e-instagram-como-excipiente.md
+- 2019-01-25-cerebros-hackeados.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
 tags:
 - anonimidad
 - big data
 - cambridge analytica
 - facebook
 - privacidad
+title: Sobre lo de Cambridge Analytica
+url: /2018/04/02/sobre-lo-de-cambridge-analytica/
 ---
 
 Ni de lejos mi tema favorito. De todo este tinglado de la práctica comercial de la _ciencia de datos_, lo que tiene como sujetos a sujetos de carne y hueso es lo que menos me atrae. No quiero saber nada sobre escarbar en Twitter, Facebook o Linkedin. Me aburre soberanamente todo lo relativo a las leyes de protección de datos y trato en la medida de lo posible mantenerme al margen de discusiones sobre privacidad, _big data_ y similares, que son puros contrastes de ocurrencias.
@@ -65,4 +71,3 @@ Finalmente, sobre lo que pasará, me aventuro a hacer varias predicciones:
 * El hueco que deje Cambridge Analytica será ocupado por otras empresas similares pero con un perfil más bajo.
 * Habrá regulación sobre los asuntos relativos a la privacidad, pero servirá principalmente a los intereses de los principales actores actuales (Facebook, Google, etc.) impidiendo de facto la emergencia de competidores.
 * La regulación será más potente en Europa que en EE.UU. porque aquí ni hay ni se esperan empresas con esas características y jamás se ha regulado para quien a lo mejor un día vendrá; la regulación es siempre producto de los que ya están sentados a la mesa.
-

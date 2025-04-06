@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-23 22:05:13+00:00
-draft: false
-title: ¿Cuánta información hay en el mundo?
-
-url: /2010/09/23/cuanta-informacion-hay-en-el-mundo/
 categories:
 - números
+date: 2010-09-23 22:05:13+00:00
+draft: false
+lastmod: '2025-04-06T18:58:56.912079'
+related:
+- 2011-06-17-grandes-numeros.md
+- 2010-07-04-exagerados.md
+- 2022-05-19-algunos-numeros-cambio-climatico.md
+- 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md
+- 2016-01-27-internet-la-fruteria-y-el-sushi-bar.md
 tags:
 - números
+title: ¿Cuánta información hay en el mundo?
+url: /2010/09/23/cuanta-informacion-hay-en-el-mundo/
 ---
 
 Este documento consta de 2232 caracteres. Al escribirlo, he incrementado la cantidad de información disponible en el mundo en 2232 bytes. De haber empleado dicho tiempo en tomar una foto al sol poniéndose con Carabanchel como horizonte, la habría incrementado en unos 100 Kb.
@@ -46,4 +52,3 @@ Quien compone una canción, la incrementa en unos 4 MB. Y así, todos, diariamen
 * El correo electrónico, 400.000 terabytes de información anual.
 
 **Nota:** esta entrada pertenece (es la antepenúltima) de las que rescato de mi antiguo blog. La información está necesariamente desactualizada porque los tiempos cambian una barbaridad.
-

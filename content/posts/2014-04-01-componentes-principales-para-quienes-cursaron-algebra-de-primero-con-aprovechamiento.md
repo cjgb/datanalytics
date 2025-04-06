@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-01 07:37:42+00:00
-draft: false
-title: Componentes principales para quienes cursaron álgebra de primero con aprovechamiento
-
-url: /2014/04/01/componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento/
 categories:
 - ciencia de datos
 - estadística
+date: 2014-04-01 07:37:42+00:00
+draft: false
+lastmod: '2025-04-06T19:07:23.418746'
+related:
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2014-04-09-la-escala-natural-de-la-varianza.md
+- 2021-06-01-pca-robusto.md
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
+- 2014-04-22-reponderacion-de-componentes-un-ejemplo.md
 tags:
 - componentes principales
 - estadística
 - ciencia de datos
 - pca
+title: Componentes principales para quienes cursaron álgebra de primero con aprovechamiento
+url: /2014/04/01/componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento/
 ---
 
 Quienes cursaron su álgebra de primero con aprovechamiento —los que no, pueden [ponerse al día en 3:47 minutos](https://www.youtube.com/watch?v=JEYLfIVvR9I)— aprendieron que una matriz $latex X$ puede descomponerse de la forma

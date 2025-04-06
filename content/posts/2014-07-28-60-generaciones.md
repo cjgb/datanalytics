@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-28 07:13:00+00:00
-draft: false
-title: 60 generaciones
-
-url: /2014/07/28/60-generaciones/
 categories:
 - números
+date: 2014-07-28 07:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:59:43.307965'
+related:
+- 2023-12-28-origen-ancestros.md
+- 2010-07-04-exagerados.md
+- 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md
+- 2010-03-11-madre-teresa-patriotas-idiotas-y-queries-recursivas.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
 tags:
 - grafos
 - números
+title: 60 generaciones
+url: /2014/07/28/60-generaciones/
 ---
 
 Tú eres un conjunto de cardinalidad 1. Tú y tus padres conformáis un conjunto de cardinalidad 3. Añade a tus abuelos y tendrás un conjunto de cardinalidad 7. Aplica la inducción y tendrás conjuntos de cardinalidad $latex 2^n -1$.

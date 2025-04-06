@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-16 07:44:50+00:00
-draft: false
-title: 'Más sobre la ley de Benford (I): una condición suficiente'
-
-url: /2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente/
 categories:
 - estadística
 - r
+date: 2013-04-16 07:44:50+00:00
+draft: false
+lastmod: '2025-04-06T18:58:31.051296'
+related:
+- 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md
+- 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md
+- 2013-05-03-mas-sobre-la-ley-de-benford-ii-la-distribucion-de-la-parte-fraccionaria.md
+- 2013-04-02-las-leyes-de-benford.md
+- 2011-09-15-la-ley-de-benford.md
 tags:
 - estadística
 - ley de benford
 - r
+title: 'Más sobre la ley de Benford (I): una condición suficiente'
+url: /2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente/
 ---
 
 Las circunstancias —frente a las que soy dócil como el que más— me conducen a escribir de nuevo sobre la [Ley de Benford](http://www.datanalytics.com/tag/ley-de-benford/). En concreto, voy a traer a la atención de mis lectores una condición suficiente para que se cumpla. Y de ella extraeremos conclusiones tal vez sorprendentes en sucesivas entradas de la serie que con esta inicio.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-12 09:13:00+00:00
-draft: false
-title: Explicación de modelos
-
-url: /2020/06/12/explicacion-de-modelos/
 categories:
 - ciencia de datos
 - estadística
+date: 2020-06-12 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:28.529440'
+related:
+- 2020-05-14-la-gramatica-del-analisis-explicativo-interactivo-de-modelos.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
+- 2018-02-14-diagramas-de-cajas-lo-que-hay-que-saber-y-muchas-otras-cosas-que-no-hacen-tanta-falta-pero-que-son-entretenidas.md
+- 2024-10-17-interpretacion-modelos.md
+- 2024-09-24-cortos-stats.md
 tags:
 - cajas negras
 - estadística
 - explicación
 - aprendizaje automático
+title: Explicación de modelos
+url: /2020/06/12/explicacion-de-modelos/
 ---
 
 Este es el primer año en el que en mi curso de _ciencia de datos_ (hasta ahora en el EAE; a partir del año que viene, vaya uno a saber si y dónde) introduzco una sección sobre explicación de modelos.

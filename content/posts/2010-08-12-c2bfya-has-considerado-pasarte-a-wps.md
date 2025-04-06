@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-12 20:35:29+00:00
-draft: false
-title: ¿Ya has considerado pasarte a WPS?
-
-url: /2010/08/12/ya-has-considerado-pasarte-a-wps/
 categories:
 - varios
+date: 2010-08-12 20:35:29+00:00
+draft: false
+lastmod: '2025-04-06T18:48:09.243909'
+related:
+- 2010-08-22-mas-sobre-el-caso-wps-vs-sas.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md
+- 2010-03-20-leyendo-tablas-de-sas-sin-sas.md
 tags:
 - sas
 - software
 - wps
+title: ¿Ya has considerado pasarte a WPS?
+url: /2010/08/12/ya-has-considerado-pasarte-a-wps/
 ---
 
 Ya no recuerdo si he hablado antes de [WPS](http://www.teamwpc.co.uk/products/wps) en este blog. Puede que lo haya hecho en algún otro. No estoy muy contento con esa empresa (con la que he tratado de manera inexplicablemente infructuosa de realizar algún tipo de negocio en el pasado) pero no está de más que los lectores de este blog tengan noticia de su existencia y naturaleza.

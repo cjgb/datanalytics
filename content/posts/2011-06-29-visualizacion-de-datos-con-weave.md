@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-29 07:06:49+00:00
-draft: false
-title: Visualización de datos con Weave
-
-url: /2011/06/29/visualizacion-de-datos-con-weave/
 categories:
 - gráficos
+date: 2011-06-29 07:06:49+00:00
+draft: false
+lastmod: '2025-04-06T18:46:58.891406'
+related:
+- 2011-03-29-graficos-ii-herramientas.md
+- 2014-05-23-plot-ly-visualizacion-de-datos-multilenguaje.md
+- 2011-06-07-ncomva-y-visualizacion-de-datos-publicos.md
+- 2012-10-24-veinte-herramientas-de-visualizacion.md
+- 2011-10-11-datawrangler-limpieza-y-transformacion-interactiva-de-datos.md
 tags:
 - gráficos
+title: Visualización de datos con Weave
+url: /2011/06/29/visualizacion-de-datos-con-weave/
 ---
 
 Weave es una plataforma de visualización de datos desarrollada por el [Institute for Visualization and Perception Research](http://www.uml.edu/centers/ivpr/) de la Universidad de Massachusetts en colaboración con el [Open Indicators Consortium](http://www.openindicators.org/).

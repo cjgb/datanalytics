@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-07-24 15:24:19+00:00
-draft: false
-title: Un curioso bug de R
-
-url: /2010/07/24/un-curioso-bug-de-r/
 categories:
 - r
+date: 2010-07-24 15:24:19+00:00
+draft: false
+lastmod: '2025-04-06T18:45:19.599642'
+related:
+- 2017-12-11-cuidado-con-los.md
+- 2012-01-12-cosa-prodigiosa-sin-palabras-i.md
+- 2015-09-09-cosas-de-r-que-tal-vez-alguien-sabra-explicar.md
+- 2014-09-19-primer-elemento-de-un-grupo-dentro-de-un-dataframe-de-r.md
+- 2020-01-29-x.md
 tags:
 - r
+title: Un curioso bug de R
+url: /2010/07/24/un-curioso-bug-de-r/
 ---
 
 A vueltas con los _bugs_, el otro día leí sobre uno [bastante curioso de R](http://r.789695.n4.nabble.com/Table-vs-unique-td2297029.html). En resumen:

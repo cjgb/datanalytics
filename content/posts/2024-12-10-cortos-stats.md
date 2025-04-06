@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-10
-title: 'Unas cuantas notas sobre filosofía de la ciencia'
-url: /2024/12/10/cortos-estadística
 categories:
 - cortos
+date: 2024-12-10
+lastmod: '2025-04-06T19:12:18.837740'
+related:
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2020-12-29-sobre-el-programa-fuerte-de-la-sociologia-de-la-ciencia-una-vision-desde-la-ciencia-de-datos.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
+- 2017-10-09-la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia.md
+- 2024-03-19_perspectivismo.md
 tags:
 - filosofía de la ciencia
 - ciencia
 - tecnología
 - perspectivismo
+title: Unas cuantas notas sobre filosofía de la ciencia
+url: /2024/12/10/cortos-estadística
 ---
 
 ### ¿Qué fue antes, la ciencia o la ingeniería?

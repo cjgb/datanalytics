@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-29 07:50:38+00:00
-draft: false
-title: 'Liberado BioStatFLOSS, una colección de recursos libres para la bioestadística
-  y la epidemiología '
-
-url: /2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/
 categories:
 - estadística
 - r
+date: 2012-10-29 07:50:38+00:00
+draft: false
+lastmod: '2025-04-06T18:57:09.291941'
+related:
+- 2011-12-01-creacion-de-un-r-portable.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
+- 2010-02-27-creando-paquetes-con-r-r-forge.md
+- 2011-07-28-el-paquete-pxr-en-cran.md
 tags:
 - bioestadística
 - epidemiología
 - r
 - software
+title: 'Liberado BioStatFLOSS, una colección de recursos libres para la bioestadística
+  y la epidemiología '
+url: /2012/10/29/liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia/
 ---
 
 Quiero publicitar hoy [BioStatFLOSS](http://www.sergas.es/MostrarContidos_N3_T01.aspx?IdPaxina=62658&idioma=es), una recopilación de _software_ (libre, como el propio nombre indica) para Windows, especialmente indicado a la hora de realizar trabajos en el campo de la bioestadística y la epidemiología (pero que también se puede utilizar para la realización de estudios estadísticos más generales).

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-07-02 09:13:48+00:00
-draft: false
-title: Aprender deprisa, aprender despacio
-
-url: /2019/07/02/aprender-deprisa-aprender-despacio/
 categories:
 - varios
+date: 2019-07-02 09:13:48+00:00
+draft: false
+lastmod: '2025-04-06T18:47:46.611257'
+related:
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2019-06-11-informatica-o-matematicas-una-pregunta-muy-mal-formulada.md
+- 2010-08-16-leyendo-en-diagonal-pero-con-cuidado.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 tags:
 - educación
 - libros
 - sicología
+title: Aprender deprisa, aprender despacio
+url: /2019/07/02/aprender-deprisa-aprender-despacio/
 ---
 
 Aviso: hoy incursiono en el minado campo de la sicología _pop_. Seguramente todo lo que escriba sea mentira, esté superadísimo o las dos cosas a la vez.

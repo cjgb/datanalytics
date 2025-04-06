@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-02 07:27:52+00:00
-draft: false
-title: Sobre los límites de la minería de datos
-
-url: /2013/01/02/sobre-los-limites-de-la-mineria-de-datos/
 categories:
 - ciencia de datos
 - consultoría
 - estadística
+date: 2013-01-02 07:27:52+00:00
+draft: false
+lastmod: '2025-04-06T18:59:08.539577'
+related:
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2014-03-17-sobre-el-articulo-de-domingos.md
+- 2023-03-02-conformal-prediction.md
 tags:
 - consultoría
 - estadística
 - ciencia de datos
+title: Sobre los límites de la minería de datos
+url: /2013/01/02/sobre-los-limites-de-la-mineria-de-datos/
 ---
 
 Guardaba en la cartera un artículo que ya pronto cumple sus cinco años. Sirve de contrapunto a toda esa literatura que describe la minería de datos como una suerte de panacea, la cómoda senda hacia un futuro de armonía y color.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-05-30
-title: 'La ley fuerte de los números pequeños'
-
-url: /2023/05/30/ley-fuerte-numeros-pequenos/
 categories:
 - estadística
+date: 2023-05-30
+lastmod: '2025-04-06T18:46:50.852396'
+related:
+- 2021-03-24-gigerenzer-sobre-riesgo-e-incertidumbre.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
+- 2023-10-03-muestreo-superricos.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2011-08-23-piensa-en-en-terminos-de-inferencia.md
 tags:
 - estadística
 - curiosidades
 - matemáticas
+title: La ley fuerte de los números pequeños
+url: /2023/05/30/ley-fuerte-numeros-pequenos/
 ---
 
 [Richard K. Guy](https://en.wikipedia.org/wiki/Richard_K._Guy) tiene un artículo, [_The Strong Law of Small Numbers_], bastante ameno en el que se encuentran cosas como

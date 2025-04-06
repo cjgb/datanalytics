@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-16 06:52:30+00:00
-draft: false
-title: Una feliz conjunción estadístico-algebraica (y II)
-
-url: /2011/08/16/una-feliz-conjuncion-estadistico-algebraica-y-ii/
 categories:
 - estadística
 - r
+date: 2011-08-16 06:52:30+00:00
+draft: false
+lastmod: '2025-04-06T19:07:30.661690'
+related:
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
 tags:
 - estadística
 - r
@@ -15,6 +19,8 @@ tags:
 - cca
 - svd
 - anacor
+title: Una feliz conjunción estadístico-algebraica (y II)
+url: /2011/08/16/una-feliz-conjuncion-estadistico-algebraica-y-ii/
 ---
 
 Abandonamos el otro día nuestra discusión sobre la [feliz conjunción estadístico-algebraica](http://www.datanalytics.com/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) que subyace a esa técnica conocida como análisis de correspondencias en el punto en que habíamos descompuesto la matriz $latex B$ de la forma $latex B = PDQ^\prime$, donde $latex P$ y $latex Q$ son matrices cuyas columnas son vectores ortonormales $latex p_i$ y $latex q_j$ y $latex D$ es una matriz diagonal (aunque no necesariamente cuadrada) cuyos elementos de la diagonal (en orden decreciente) son $latex \lambda_k$.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-08 09:13:00+00:00
-draft: false
-title: Aleatoriedad hirsuta, aleatoriedad pochola
-
-url: /2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/
 categories:
 - estadística
 - r
+date: 2020-06-08 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:59:33.070287'
+related:
+- 2020-06-15-cuidado-con-la-aleatoriedad-pochola.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2015-02-11-recurrencia-recurrente.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
 tags:
 - estadística
 - paquetes
 - r
 - sobol
+title: Aleatoriedad hirsuta, aleatoriedad pochola
+url: /2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/
 ---
 
 Contemplando y comparando

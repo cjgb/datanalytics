@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-22 08:05:49+00:00
-draft: false
-title: Noticia de la primera reunión del grupo de usuarios de R de Madrid
-
-url: /2012/03/22/primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii/
 categories:
 - r
+date: 2012-03-22 08:05:49+00:00
+draft: false
+lastmod: '2025-04-06T18:50:32.953223'
+related:
+- 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
+- 2012-02-20-entrevista-con-los-promotores-de-rugbcn.md
+- 2012-02-13-r-y-alrededores-en-medialab-prado.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
 tags:
 - r
 - anuncio
 - madrid
+title: Noticia de la primera reunión del grupo de usuarios de R de Madrid
+url: /2012/03/22/primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii/
 ---
 
 Acaba de terminar la primera reunión del grupo de usuarios de R de Madrid. No hemos disfrutado de la más primaveral de las tardes. Y la ubicación era un tanto excéntrica. Pero hemos tenido tres charlas muy interesantes (y luego, la mía, claro), nueve asistentes (¡espero haber contado bien!) y, sobre todo, unos intercambio de ideas sumamente provechosos.

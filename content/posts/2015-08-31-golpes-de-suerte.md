@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-08-31 08:13:28+00:00
-draft: false
-title: Golpes de suerte
-
-url: /2015/08/31/golpes-de-suerte/
 categories:
 - probabilidad
+date: 2015-08-31 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T19:08:15.078264'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2024-10-03-ergodicidad.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
 tags:
 - azar
 - progreso
 - varianza
+title: Golpes de suerte
+url: /2015/08/31/golpes-de-suerte/
 ---
 
 Rescato para el día de hoy los dos primeros párrafos de [un artículo de Ignacio Vidal-Foch](http://elpais.com/elpais/2015/07/31/opinion/1438363349_531600.html). Tiene más, pero menos interesante en nuestro contexto.

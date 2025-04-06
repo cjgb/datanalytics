@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-02-21 09:12:26+00:00
-draft: false
-title: 'Minería de datos: promesas y realidades'
-
-url: /2011/02/21/mineria-de-datos-promesas-y-realidades/
 categories:
 - ciencia de datos
 - consultoría
+date: 2011-02-21 09:12:26+00:00
+draft: false
+lastmod: '2025-04-06T18:56:14.822325'
+related:
+- 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md
+- 2024-10-31-efectividad-alertas.md
+- 2011-09-29-predicciones-a-toro-pasado-y-el-perro-que-no-ladro.md
+- 2019-05-23-matematizacion-oscurantista.md
+- 2011-09-16-otra-sobre-poligrafos-terrorismo-y-periodistas-anumericos.md
 tags:
 - consultoría
 - ciencia de datos
 - redes sociales
+title: 'Minería de datos: promesas y realidades'
+url: /2011/02/21/mineria-de-datos-promesas-y-realidades/
 ---
 
 Incluso a los que conocemos el mercado desde dentro, la lectura de [artículos como éste](http://www.economist.com/node/16910031) nos descubre un asombroso _brave new world_. Tanto los nuevos métodos con que dizque se afrontan los problemas más pedestres (como la detección de fraude, la retención de los mejores clientes, etc.) como la misma naturaleza de las áreas en las que se aplican (lucha antiterrorista, predicción de motines, elecciones _sangrientas_, actos de represión,... ¡e incluso el lanzamiento de cohetes por parte de Hizbolá!) parecen anunciar que ya tocamos lo que Asimov llamaba [psicohistoria](http://es.wikipedia.org/wiki/Psicohistoria_%28ficci%C3%B3n%29) con la yema de los dedos.

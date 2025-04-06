@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-03 08:13:44+00:00
-draft: false
-title: 'Causalidad: malo lo uno, pero tampoco bueno lo otro'
-
-url: /2018/04/03/causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro/
 categories:
 - estadística
+date: 2018-04-03 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:13:03.430063'
+related:
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2024-01-16-causalidad-conocimiento.md
+- 2022-05-05-individualismo-metodologico.md
+- 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
+- 2021-10-19-causalidad-inversa-mas-sobre-los-momentos-le-verrier.md
 tags:
 - causalidad
 - circiter
 - economía
+title: 'Causalidad: malo lo uno, pero tampoco bueno lo otro'
+url: /2018/04/03/causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro/
 ---
 
 Leo en [_Las causalidades en Economía_](https://www.vozpopuli.com/opinion/causalidades-Economia-critica-paul-romer_0_1122788121.html) a Manuel Alejandro Hidalgo dignándose a dar réplica al panfletillo [_Curva de Laffer: Montoro bajó por fin el IRPF… y recaudó un 6% más_](https://www.libremercado.com/2018-03-27/curva-de-laffer-montoro-bajo-por-fin-el-irpf-y-recaudo-un-6-mas-1276616123/).

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-12 13:44:48+00:00
-draft: false
-title: Monitorización diaria de la mortalidad
-
-url: /2020/03/12/monitorizacion-diaria-de-la-mortalidad/
 categories:
 - números
 - varios
+date: 2020-03-12 13:44:48+00:00
+draft: false
+lastmod: '2025-04-06T18:56:07.510413'
+related:
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md
+- 2020-04-21-defunciones-ine-vs-momo.md
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
 tags:
 - coronavirus
 - isciii
 - mortalidad
+title: Monitorización diaria de la mortalidad
+url: /2020/03/12/monitorizacion-diaria-de-la-mortalidad/
 ---
 
 _[En esta entrada deambulo peligrosamente por los límites de un NDA; sin embargo, me siento obligado a exponerme a las posibles consecuencias debido a la gravedad de las circunstancias actuales.]_

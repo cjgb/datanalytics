@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-11-29 06:58:02+00:00
-draft: false
-title: Óscar Perpiñán sobre gráficos base vs. lattice vs ggplot2
-
-url: /2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/
 categories:
 - gráficos
 - r
+date: 2013-11-29 06:58:02+00:00
+draft: false
+lastmod: '2025-04-06T18:58:17.206597'
+related:
+- 2011-02-10-1440.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2010-06-28-graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin.md
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2011-07-27-diagramas-de-puntos-dotplots.md
 tags:
 - ggplot2
 - gráficos
 - lattice
 - r
 - trellis
+title: Óscar Perpiñán sobre gráficos base vs. lattice vs ggplot2
+url: /2013/11/29/oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2/
 ---
 
 Óscar Perpiñán es alguien a quien tenéis que conocer necesariamente si os interesan, entre otras cosas, temas como la [visualización de datos espaciotemporales](http://oscarperpinan.github.io/spacetime-vis/). Y tiene un [blog muy recomendable](http://procomun.wordpress.com/).

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-12-02 09:13:00+00:00
-draft: false
-title: Sobre los coeficientes de los GLM en Scikit-learn
-
-url: /2019/12/02/sobre-los-coeficientes-de-los-glm-en-scikit-learn/
 categories:
 - estadística
 - python
+date: 2019-12-02 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:52:23.460985'
+related:
+- 2019-07-17-sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2019-08-21-glms-con-coeficientes-0-p-e.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2019-02-25-modelos-log-lineales-y-glms-con-regularizacion.md
 tags:
 - coeficientes
 - glm
 - python
 - ridge
 - scikit-learn
+title: Sobre los coeficientes de los GLM en Scikit-learn
+url: /2019/12/02/sobre-los-coeficientes-de-los-glm-en-scikit-learn/
 ---
 
 Pensé que ya había escrito sobre el asunto porque tropecé con él en un proyecto hace un tiempo. Pero mi menoria se había confundido con otra entrada, _[Sobre la peculiarisima implementacion del modelo lineal en (pseudo-)Scikit-learn](https://www.datanalytics.com/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/)_, donde se discute, precisamente, un problema similar si se lo mira de cierta manera o diametralmente opuesto si se ve con otra perspectiva.

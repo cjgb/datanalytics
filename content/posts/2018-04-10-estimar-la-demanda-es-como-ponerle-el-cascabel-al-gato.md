@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-10 07:43:39+00:00
-draft: false
-title: Estimar la demanda es como ponerle el cascabel al gato
-
-url: /2018/04/10/estimar-la-demanda-es-como-ponerle-el-cascabel-al-gato/
 categories:
 - consultoría
 - estadística
+date: 2018-04-10 07:43:39+00:00
+draft: false
+lastmod: '2025-04-06T19:07:05.901783'
+related:
+- 2018-03-06-soy-parte-del-concilabulo-heteropatriarcal.md
+- 2024-01-02-medida-inflacion-stealthflaction.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2021-01-28-simpson-sobre-la-desigualdad.md
 tags:
 - consultoría
 - estadística
 - precios
+title: Estimar la demanda es como ponerle el cascabel al gato
+url: /2018/04/10/estimar-la-demanda-es-como-ponerle-el-cascabel-al-gato/
 ---
 
 Alborozábanse los ratones al oír de sus líderes la solución definitiva al problema de aquel gato que los diezmaba inmisericordemente: ¡colóquesele un cascabel!

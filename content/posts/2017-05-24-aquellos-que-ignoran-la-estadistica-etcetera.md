@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-05-24 08:13:13+00:00
-draft: false
-title: Aquellos que ignoran la estadística etcétera
-
-url: /2017/05/24/aquellos-que-ignoran-la-estadistica-etcetera/
 categories:
 - estadística
 - r
+date: 2017-05-24 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T18:59:10.059943'
+related:
+- 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md
+- 2021-09-21-aun-mas-sobre-propagacion-de-errores-y-rv.md
+- 2020-03-10-mas-sobre-el-metodo-delta-propagate.md
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2018-10-23-abc-2.md
 tags:
 - car
 - estadística
 - r
 - método delta
 - propagación
+title: Aquellos que ignoran la estadística etcétera
+url: /2017/05/24/aquellos-que-ignoran-la-estadistica-etcetera/
 ---
 
 Ayer asistí a una charla sobre `errors`. Brevemente (porque está estupendamente explicado, motivado y documentado por su autor, al que aprovecho la ocasión para saludar), hace esto:

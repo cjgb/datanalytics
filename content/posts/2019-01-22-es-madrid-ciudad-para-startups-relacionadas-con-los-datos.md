@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-22 08:13:01+00:00
-draft: false
-title: ¿Es Madrid ciudad para startups (relacionadas con los datos)?
-
-url: /2019/01/22/es-madrid-ciudad-para-startups-relacionadas-con-los-datos/
 categories:
 - consultoría
 - varios
+date: 2019-01-22 08:13:01+00:00
+draft: false
+lastmod: '2025-04-06T18:57:01.128762'
+related:
+- 2014-07-23-si-participase-en-maddata.md
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
 tags:
 - consultoría
 - ibex35
 - trabajo
+title: ¿Es Madrid ciudad para startups (relacionadas con los datos)?
+url: /2019/01/22/es-madrid-ciudad-para-startups-relacionadas-con-los-datos/
 ---
 
 _[Esta entrada, simplemente, plantea una hipótesis altamente especulativa; expone una serie de argumentos su pro pero deja la pregunta abierta y la respuesta al buen criterio del lector.]_

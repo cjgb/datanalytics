@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-13 07:01:53+00:00
-draft: false
-title: ¿Nos leen (y más) en El País?
-
-url: /2011/04/13/nos-leen-y-mas-en-el-pais/
 categories:
 - números
+date: 2011-04-13 07:01:53+00:00
+draft: false
+lastmod: '2025-04-06T19:01:04.841498'
+related:
+- 2011-02-18-divide-y-compararas.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2022-01-25-universo-muestra-big-data.md
+- 2013-08-14-tres-grandes-numeros-con-enmienda.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - números
+title: ¿Nos leen (y más) en El País?
+url: /2011/04/13/nos-leen-y-mas-en-el-pais/
 ---
 
 Pues no lo sé. Es imposible probarlo o refutarlo sin realizar el par de llamadas que no haré. Pero leyendo el reportaje _[Aquí no caben todos](http://www.elpais.com/articulo/primer/plano/caben/todos/elpepueconeg/20110410elpneglse_2/Tes)_ del día 10 de abril firmado por Ramón Muñoz sobre las fabulosas cotizaciones bursátiles potenciales que se atribuyen a las redes sociales, tropecé con el siguiente párrafo:

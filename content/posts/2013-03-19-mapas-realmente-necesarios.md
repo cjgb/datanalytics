@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-03-19 07:56:22+00:00
-draft: false
-title: Mapas, ¿realmente necesarios?
-
-url: /2013/03/19/mapas-realmente-necesarios/
 categories:
 - gráficos
+date: 2013-03-19 07:56:22+00:00
+draft: false
+lastmod: '2025-04-06T18:47:17.066667'
+related:
+- 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2017-06-27-cartuchos-malbaratados.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2013-08-22-el-carajal-de-las-representaciones-graficas-de-redes-sociales.md
 tags:
 - graficaca
 - gráficos
 - mapas
+title: Mapas, ¿realmente necesarios?
+url: /2013/03/19/mapas-realmente-necesarios/
 ---
 
 Creo que [no](http://www.datanalytics.com/2012/07/25/graficaca-2-0/). Lo reitero a cuenta de la entrada [_Sencillo, espectacular, falso_ de malaprensa.com](http://www.malaprensa.com/2013/03/sencillo-espectacular-falso.html), en que se critica el gráfico

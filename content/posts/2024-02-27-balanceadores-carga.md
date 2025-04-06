@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-02-27
-title: 'Un truco probabilístico para balanceadores de carga'
-url: /2024/02/27/probabilidad-balanceadores-carga/
 categories:
 - computación
-- probabiliad
+- probabilidad
+date: 2024-02-27
+lastmod: '2025-04-06T18:50:32.290064'
+related:
+- 2011-09-28-datos-grandes-colas-largas.md
+- 2014-02-13-mi-solucion-al-otro-problema-del-cumpleanos.md
+- 2012-07-27-a-los-datos-mismos.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2010-09-01-el-paquete-multicore-de-r.md
 tags:
 - computación
 - probabilidad
 - balanceadores de carga
 - distribución uniforme
+title: Un truco probabilístico para balanceadores de carga
+url: /2024/02/27/probabilidad-balanceadores-carga/
 ---
 
 Tienes N servidores y un _balanceador de carga_. Las peticiones de trabajo llegan al balanceador y este las enruta hacia un servidor que se encarga de procesarlas. El objetivo del balanceador es tratar de conseguir un reparto más o menos uniforme de las tareas para que ningún servidor esté sobrecargado mientras otros permanecen ociosos. En términos probabilísticos, tratar de obtener una distribución uniforme (de la carga de trabajo).
@@ -27,7 +34,3 @@ Y se me ocurre pensar:
 - ¿Realmente es mejor mandar tareas a servidores al azar que recorrerlos cíclicamente? Casi seguro que no.
 - Supongo que no es viable que el balanceador interrogue a todos los servidores.
 - Y también imagino que la regla de consultar solo dos servidores habrá que replanteársela (e interrogar a más) cuando N sea grande. Al fin y al cabo, si el problema consiste en descubrir servidores con poca carga, si N es grande, aun interrogando de dos en dos, es fácil que no se acaben descubriendo máquinas con poca carga. Supongo que alguien podrá calcular el f(N) óptimo de acuerdo con algún criterio razonable de éxito.
-
-
-
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-26 07:04:39+00:00
-draft: false
-title: ¿Cómo vota la gente?
-
-url: /2013/02/26/como-vota-la-gente/
 categories:
 - consultoría
 - estadística
+date: 2013-02-26 07:04:39+00:00
+draft: false
+lastmod: '2025-04-06T19:06:22.199458'
+related:
+- 2012-05-14-c2bfse-puede-predecir-con-twitter.md
+- 2024-11-07-votos-vecinos.md
+- 2015-10-09-madrid-decide-propone-vota-etc.md
+- 2016-06-30-gestion-de-la-mendacidad-encuestoelectoral.md
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
 tags:
 - consultoría
 - estadística
+title: ¿Cómo vota la gente?
+url: /2013/02/26/como-vota-la-gente/
 ---
 
 La gente vota de muchas maneras. A bote pronto, uno diría que lo hace cada cuatro años con papeletas y en medio de parafernalia de listas cerradas, mítines y similares aditamentos.
@@ -29,4 +35,3 @@ Pero desde hace años vengo pensando que, en realidad, la gente vota con la tarj
 {{< highlight sql >}}
 `select * from credit_card_transactions where ...`
 {{< / highlight >}}
-

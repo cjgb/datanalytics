@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-07 08:13:27+00:00
-draft: false
-title: Prioris, ¿subjetivas?
-
-url: /2015/09/07/prioris-subjetivas/
 categories:
 - estadística
+date: 2015-09-07 08:13:27+00:00
+draft: false
+lastmod: '2025-04-06T18:53:00.434689'
+related:
+- 2016-01-04-las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas.md
+- 2018-10-23-abc-2.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2018-06-07-posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
 tags:
 - estadística bayesiana
 - priori
 - subjetividad
+title: Prioris, ¿subjetivas?
+url: /2015/09/07/prioris-subjetivas/
 ---
 
 Dentro de unos días voy a hablar de [estadística bayesiana](http://www.datanalytics.com/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/) en [Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/). Plantearé una distribución _a priori_ muy poco informativa:

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-09 10:23:00+00:00
-draft: false
-title: Máxima verosimilitud vs decisiones
-
-url: /2020/12/09/maxima-verosimilitud-vs-decisiones/
 categories:
 - ciencia de datos
 - estadística
+date: 2020-12-09 10:23:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:00.767283'
+related:
+- 2022-05-24-log-scoring-mv.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2018-05-22-existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas.md
 tags:
 - ciencia de datos
 - estadística
 - teoría de la decisión
 - verosimilitud
+title: Máxima verosimilitud vs decisiones
+url: /2020/12/09/maxima-verosimilitud-vs-decisiones/
 ---
 
 En _[Some Class-Participation Demonstrations for Introductory Probability and Statistics](https://www.researchgate.net/publication/247256806_Some_Class-Participation_Demonstrations_for_Introductory_Probability_and_Statistics)_ tienen los autores un ejemplo muy ilustrativo sobre lo lo relativo (en oposición a fundamental) del papel de la máxima verosimilitud (y de la estadística puntual, en sentido lato) cuando la estadística deja de ser un fin en sí mismo y se inserta en un proceso más amplio que implica la toma de decisiones _óptimas_.

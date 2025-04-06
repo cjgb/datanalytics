@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-16 08:31:50+00:00
-draft: false
-title: Macros sintácticas con R
-
-url: /2014/01/16/macros-sintacticas-con-r/
 categories:
 - r
 - programación
+date: 2014-01-16 08:31:50+00:00
+draft: false
+lastmod: '2025-04-06T18:46:08.695456'
+related:
+- 2010-08-28-la-funcion-ifelse-a-la-sas.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
+- 2010-03-29-puedo-cambiar-mi-codigo-retroactivamente.md
+- 2017-03-16-todo-lo-que-sucede-en-r-es-una-llamada-a-una-funcion.md
+- 2017-05-08-como-fue-r-antes-de-r.md
 tags:
 - macros
 - r
 - sas
+title: Macros sintácticas con R
+url: /2014/01/16/macros-sintacticas-con-r/
 ---
 
 Creo que muchos hemos tropezado con las macros alguna vez. Yo conocía las del [preprocesador de C](http://es.wikipedia.org/wiki/Preprocesador_de_C) o el [tinglado que tiene SAS](http://support.sas.com/documentation/cdl/en/mcrolref/61885/HTML/default/viewer.htm#macro-stmt.htm). Y nunca fui muy amigo de ellas.

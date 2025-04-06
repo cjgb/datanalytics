@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-07-11 08:13:24+00:00
-draft: false
-title: k-medias es como las elecciones; k-vecinos, como los cumpleaños
-
-url: /2016/07/11/k-medias-es-como-las-elecciones-k-vecinos-como-los-cumpleanos/
 categories:
 - ciencia de datos
 - estadística
+date: 2016-07-11 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:44:19.856514'
+related:
+- 2020-04-14-consensus-clustering.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
 tags:
 - estadística
 - k-medias
 - k-vecinos
 - ciencia de datos
+title: k-medias es como las elecciones; k-vecinos, como los cumpleaños
+url: /2016/07/11/k-medias-es-como-las-elecciones-k-vecinos-como-los-cumpleanos/
 ---
 
 El otro día asistí a la enésima confusión sobre k-medias y k-vecinos. Que lo es, más en general, sobre el clústering contra modelos locales de la clase que sean, desde k-vecinos hasta el filtrado colaborativo. Veamos si esta comparación que traigo hoy a mis páginas contribuye a erradicar dicha confusión.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-14 23:18:35+00:00
-draft: false
-title: Más sobre lo de Netezza
-
-url: /2010/10/14/mas-sobre-lo-de-netezza/
 categories:
 - anuncio
+date: 2010-10-14 23:18:35+00:00
+draft: false
+lastmod: '2025-04-06T19:06:16.339414'
+related:
+- 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
+- 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md
+- 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2011-08-18-2507.md
 tags:
 - sql
 - netezza
+title: Más sobre lo de Netezza
+url: /2010/10/14/mas-sobre-lo-de-netezza/
 ---
 
 El otro día, al hablar de la compra de Netezza por parte de IBM, hice referencia a un comentario del blog que es casi el flotador al que me asgo cuando quiero averiguar la verdad de las cosas que se me tuercen (últimamente). Dediqué en mi entrada una única línea para referirme a un único párrafo de la otra. Una visión tan parcial y puntual puede haber generado malinterpretaciones que me apresuro a enmendar con la profusión que el tema merita.

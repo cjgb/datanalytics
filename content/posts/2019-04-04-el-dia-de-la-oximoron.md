@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-04 09:13:18+00:00
-draft: false
-title: El día del oxímoron
-
-url: /2019/04/04/el-dia-de-la-oximoron/
 categories:
 - varios
+date: 2019-04-04 09:13:18+00:00
+draft: false
+lastmod: '2025-04-06T18:49:07.023403'
+related:
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2016-01-15-vive-la-ciencia-y-su-prestigio-de-las-rentas-del-pasado.md
+- 2024-07-03-cortos-stats.md
+- 2020-07-13-el-incentivo-perverso.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
 tags:
 - ciencia
 - economía
@@ -14,6 +18,8 @@ tags:
 - investigación
 - prensa
 - trabajo
+title: El día del oxímoron
+url: /2019/04/04/el-dia-de-la-oximoron/
 ---
 
 Han aparecido dos artículos publicados en prensa hoy, en el mismo día:

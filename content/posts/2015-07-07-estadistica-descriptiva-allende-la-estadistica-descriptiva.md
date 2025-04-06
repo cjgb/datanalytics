@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-07 08:13:16+00:00
-draft: false
-title: Estadística descriptiva allende la estadística descriptiva
-
-url: /2015/07/07/estadistica-descriptiva-allende-la-estadistica-descriptiva/
 categories:
 - estadística
+date: 2015-07-07 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:04:33.656622'
+related:
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2020-07-28-modelos-como-hechos-estilizados.md
 tags:
 - estadística
 - indultos
+title: Estadística descriptiva allende la estadística descriptiva
+url: /2015/07/07/estadistica-descriptiva-allende-la-estadistica-descriptiva/
 ---
 
 Este fin de semana me toca enseñar estadística en el [máster de _data science_ de la UTAD](https://www.u-tad.com/estudios/experto-en-data-science/). Heredo un programa que incluye una sección importante de estadística descriptiva (que pienso subvertir, claro está).
@@ -27,4 +33,3 @@ Concluyen los autores del estudio cosas tan peregrinas como que a las mujeres se
 Lo siento, pero ese estudio, si aporta algún tipo de información descriptiva sobre el conjunto de datos en cuestión, lo hace de casualidad.
 
 **Nota:** y no es esa la cuestión más preocupante del estudio. Hay otras como, por ejemplo, el sesgo que puede haber introducido su muy peculiar construcción del universo de datos. Pero esa es otra historia.
-

@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-16 15:41:00+00:00
-draft: false
-title: Interacciones y selección de modelos
-
-url: /2020/03/16/interacciones-y-seleccion-de-modelos/
 categories:
 - ciencia de datos
 - estadística
 - r
+date: 2020-03-16 15:41:00+00:00
+draft: false
+lastmod: '2025-04-06T19:05:30.436378'
+related:
+- 2020-03-18-k-vecinos-lmer.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2023-11-02-origen-interacciones.md
+- 2024-09-12-cortos-stats.md
+- 2020-03-18-lme4-simulate.md
 tags:
 - ciencia de datos
 - interacciones
@@ -18,6 +22,8 @@ tags:
 - lme4
 - r
 - random forests
+title: Interacciones y selección de modelos
+url: /2020/03/16/interacciones-y-seleccion-de-modelos/
 ---
 
 Desafortunadamente, el concepto de interacción, muy habitual en modelización estadística, no ha penetrado la literatura del llamado ML. Esencialmente, el concepto de interacción recoge el hecho de que un fenómeno puede tener un efecto distinto en subpoblaciones distintas que se identifican por un nivel en una variable categórica.

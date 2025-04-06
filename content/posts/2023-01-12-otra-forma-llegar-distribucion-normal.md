@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-12
-title: 'Otra forma de llegar a la distribución normal'
-
-url: /2023/01/12/otra-forma-llegar-distribucion-normal/
 categories:
 - probabilidad
+date: 2023-01-12
+lastmod: '2025-04-06T18:48:21.770593'
+related:
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2012-03-23-r-y-la-distribucion-de-rayleigh.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2022-07-07-lmomentos.md
 tags:
 - probabilidad
 - distribución normal
 - física
 - termodinámica
 - maxwell-boltzmann
+title: Otra forma de llegar a la distribución normal
+url: /2023/01/12/otra-forma-llegar-distribucion-normal/
 ---
 
 ¿Cómo llegamos a la distribución normal? Típicamente, por aplicación ---implícita, explícita, rutinaria o litúrgica--- del teorema central del límite: una variable aleatoria es normal porque la creemos consecuencia de pequeñas perturbaciones independientes.

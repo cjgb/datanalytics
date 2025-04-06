@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-24 08:13:19+00:00
-draft: false
-title: Compresión con SVD
-
-url: /2015/03/24/compresion-con-svd/
 categories:
 - gráficos
+date: 2015-03-24 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:03:16.359294'
+related:
+- 2014-09-09-factorizacion-de-enteros-con-grid.md
+- 2011-08-05-svd-de-matrices-enormes-con-r.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2012-02-16-virgueria-con-r.md
+- 2010-06-28-graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin.md
 tags:
 - gráficos
 - r
 - svd
+title: Compresión con SVD
+url: /2015/03/24/compresion-con-svd/
 ---
 
 [![svd_greco](/wp-uploads/2015/03/svd_greco.png#center)

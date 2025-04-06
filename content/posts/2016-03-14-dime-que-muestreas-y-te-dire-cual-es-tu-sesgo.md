@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-14 09:13:24+00:00
-draft: false
-title: Dime qué muestreas y te diré cuál es tu sesgo
-
-url: /2016/03/14/dime-que-muestreas-y-te-dire-cual-es-tu-sesgo/
 categories:
 - estadística
+date: 2016-03-14 09:13:24+00:00
+draft: false
+lastmod: '2025-04-06T19:08:56.084543'
+related:
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2023-10-03-muestreo-superricos.md
+- 2022-01-25-universo-muestra-big-data.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2019-10-04-varian-sobre-el-muestreo.md
 tags:
 - estadística
 - muestreo
 - sesgo
+title: Dime qué muestreas y te diré cuál es tu sesgo
+url: /2016/03/14/dime-que-muestreas-y-te-dire-cual-es-tu-sesgo/
 ---
 
 El telón de Aquiles del _big data_ es el sesgo. Me gustaría hablar más de ello, pero me agarra de la pluma uno de esos NDAs. Así que hablaré de otra cosa.

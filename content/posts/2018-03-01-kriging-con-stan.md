@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-01 08:13:08+00:00
-draft: false
-title: Kriging con Stan
-
-url: /2018/03/01/kriging-con-stan/
 categories:
 - estadística
+date: 2018-03-01 08:13:08+00:00
+draft: false
+lastmod: '2025-04-06T19:09:46.319356'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2018-10-23-abc-2.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - cursos
 - kriging
 - stan
 - stan
 - upc
+title: Kriging con Stan
+url: /2018/03/01/kriging-con-stan/
 ---
 
 Este mes de julio, cuórum mediante, impartiré en la UPC un curso que he maltitulado, mor de brevedad, _Estadística Bayesiana Aplicada_.

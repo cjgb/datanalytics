@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-24 08:13:43+00:00
-draft: false
-title: NMDS y un poquito más allá
-
-url: /2019/01/24/nmds-y-un-poquito-mas-alla/
 categories:
 - estadística
+date: 2019-01-24 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T18:54:58.321480'
+related:
+- 2015-09-14-nmf-una-tecnica-mergente-de-analisis-no-supervisado.md
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2018-01-25-mgm-no-la-de-las-pelis-sino-la-de-los-modelos-graficos.md
+- 2020-07-21-analisis-de-arquetipos.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
 tags:
 - anosim
 - ecología
 - mds
 - vegan
 - paquetes
+title: NMDS y un poquito más allá
+url: /2019/01/24/nmds-y-un-poquito-mas-alla/
 ---
 
 Nunca he sido muy partidario de esas técnicas a medio camino entre lo descriptivo (con descripciones que apenas nadie entiende) y lo inferencial (con inferencias que pocos se creen). Entre ellas, MDS (_multidimensional scaling_). Pero este fin de semana y por exigencias del guión (¿se acentúa guión aún?) he tenido que replicar unos análisis en que se usaba NMDS a la [`vegan`](https://CRAN.R-project.org/package=vegan).

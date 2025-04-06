@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-16 08:13:45+00:00
-draft: false
-title: Protección de los datos de los muertos
-
-url: /2018/04/16/proteccion-de-los-datos-de-los-muertos/
 categories:
 - consultoría
 - varios
+date: 2018-04-16 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T18:48:35.473059'
+related:
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 tags:
 - datos abiertos
 - datos públicos
 - legislación
 - lopd
+title: Protección de los datos de los muertos
+url: /2018/04/16/proteccion-de-los-datos-de-los-muertos/
 ---
 
 Me toca lidiar con datos relativos a muertos. No de muertos hace mil años, o quinientos, o de las guerras carlistas, sino, casi, casi con muertos de cadáver caliente y viuda con mocos.

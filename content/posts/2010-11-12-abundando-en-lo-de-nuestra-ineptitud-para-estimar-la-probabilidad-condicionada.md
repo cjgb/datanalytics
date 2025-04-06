@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-12 09:38:03+00:00
-draft: false
-title: Abundando en lo de nuestra ineptitud para estimar la probabilidad condicionada
-
-url: /2010/11/12/abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada/
 categories:
 - probabilidad
+date: 2010-11-12 09:38:03+00:00
+draft: false
+lastmod: '2025-04-06T19:10:18.883432'
+related:
+- 2022-09-06-problema-estadistica-frecuencias-naturales.md
+- 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2014-07-31-combinacion-de-probabilidades.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
 tags:
 - probabilidad
+title: Abundando en lo de nuestra ineptitud para estimar la probabilidad condicionada
+url: /2010/11/12/abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada/
 ---
 
 Antes de seguir leyendo, trate de responder a la siguiente pregunta:

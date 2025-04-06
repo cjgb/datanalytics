@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-20 09:13:00+00:00
-draft: false
-title: 'Activa Madrid: el laboratorio de ideas'
-
-url: /2020/04/20/activa-madrid-el-laboratorio-de-ideas/
 categories:
 - anuncio
+date: 2020-04-20 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:12.613242'
+related:
+- 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
+- 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
+- 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md
+- 2011-03-09-una-propuesta-de-crowdsourcing-analitico.md
+- 2014-07-21-maddata-dataton-de-datos-abiertos.md
 tags:
 - anuncio
 - coronavirus
 - hackatón
 - madrid
+title: 'Activa Madrid: el laboratorio de ideas'
+url: /2020/04/20/activa-madrid-el-laboratorio-de-ideas/
 ---
 
 Reproduzco de [aquí](https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/El-Ayuntamiento-de-Madrid-presenta-el-hackathon-Reactiva-Madrid/?vgnextfmt=default&vgnextoid=11fe60ff77781710VgnVCM2000001f4a900aRCRD&vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD):

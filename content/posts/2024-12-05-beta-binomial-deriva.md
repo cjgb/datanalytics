@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-05
-title: 'Sobre el modelo beta-binomial con "deriva"'
-url: /2024/12/05/beta-binomial
 categories:
 - estadística
+date: 2024-12-05
+lastmod: '2025-04-06T18:52:12.723678'
+related:
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - estadística
 - ciencia de datos
@@ -12,6 +17,8 @@ tags:
 - binomial
 - beta
 - deriva
+title: Sobre el modelo beta-binomial con "deriva"
+url: /2024/12/05/beta-binomial
 ---
 
 ### Planteamiento del problema
@@ -41,4 +48,3 @@ En el fondo, es pura heurística.
 ### ¿Qué dice la ciencia al respecto?
 
 He estado buscando artículos al respecto y la sensación que me da es la academia ha convertido variaciones sobre los principios básicos de la heruística anterior en un pequeño subgénero dentro del nada comedido flujo de publicaciones científicas. Hay un artículo-resumen de hace diez años, [_A survey on concept drift adaptation_](https://dl.acm.org/doi/10.1145/2523813) que ilustra cómo, efectivamente, no hay apenas nada más allá de reinterpretaciones y variaciones _ad hoc_ de los procedimientos mencionados en la sección anterior. Dudo ---aunque tal vez algún lector pueda sacarme del error--- que el asunto haya quedado zanjado en los diez años subsiguientes.
-

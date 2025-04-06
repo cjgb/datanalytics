@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-09-12
-title: 'Comparaciones vs efectos y cuatro asuntos más'
-url: /2024/09/12/cortos-estadística
 categories:
 - cortos
+date: 2024-09-12
+lastmod: '2025-04-06T18:49:52.038368'
+related:
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
+- 2020-02-06-model4you.md
+- 2020-03-16-interacciones-y-seleccion-de-modelos.md
+- 2022-03-08-estadistica-ciencias-blandas.md
 tags:
 - estadística
 - variables instrumentales
 - estadística bayesiana
+title: Comparaciones vs efectos y cuatro asuntos más
+url: /2024/09/12/cortos-estadística
 ---
 
 [Aquí](https://statmodeling.stat.columbia.edu/2024/08/06/he-wants-to-compute-the-effect-of-a-predictor-that-is-an-average-predictive-comparison-for-a-hierarchical-mixture-model-you-can-do-it-in-stan/) se lee:

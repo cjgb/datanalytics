@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-16 08:13:12+00:00
-draft: false
-title: Hamilton al rescate de Metropolis-Hastings
-
-url: /2016/09/16/hamilton-al-rescate-de-metropolis-hastings/
 categories:
 - probabilidad
+date: 2016-09-16 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T18:50:10.152879'
+related:
+- 2022-06-23-kalman.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2018-10-23-abc-2.md
+- 2016-06-16-metropolis-hastings-en-scala.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
 tags:
 - física
 - mcmc
 - mecánica
 - metropolis
 - probabilidad
+title: Hamilton al rescate de Metropolis-Hastings
+url: /2016/09/16/hamilton-al-rescate-de-metropolis-hastings/
 ---
 
 El [algoritmo de Metropolis-Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) se usa para muestrear una variable aleatoria con función de densidad $latex p$. Permite crear una sucesión de puntos $latex x_i$ que se distribuye según $latex p$.

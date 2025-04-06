@@ -1,15 +1,19 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-15 06:43:13+00:00
-draft: false
-title: Gráficos de embudo para controlar la varianza en muestras pequeñas
-
-url: /2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/
 categories:
 - estadística
 - gráficos
 - números
 - r
+date: 2011-12-15 06:43:13+00:00
+draft: false
+lastmod: '2025-04-06T18:57:20.939099'
+related:
+- 2011-08-10-de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital.md
+- 2015-12-04-os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola.md
+- 2015-07-17-la-variacion-y-sus-negacionistas.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
 tags:
 - estadística
 - gráficos
@@ -17,6 +21,8 @@ tags:
 - r
 - sas
 - muestras pequeñas
+title: Gráficos de embudo para controlar la varianza en muestras pequeñas
+url: /2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/
 ---
 
 Publiqué hace un tiempo una entrada en esta bitácora sobre el problema que representa la desigualdad de los tamaños muestrales a la hora de comprender cierto tipo de datos, como por ejemplo, los que trata de representar el gráfico
@@ -40,4 +46,3 @@ El que quiera saber más al respecto, tiene un [artículo de Spiegelhalter sobre
 * una [herramienta en línea](http://tools.erpho.org.uk/poisson.aspx),
 * [R](http://blog.ouseful.info/2011/10/31/power-tools-for-aspiring-data-journalists-r/) e,
 * incluso, [en SAS](http://blogs.sas.com/content/iml/2011/11/23/funnel-plots-for-proportions/) (usando SAS/IML).
-

@@ -1,21 +1,27 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-27 08:13:04+00:00
-draft: false
-title: 'Estructura poblacional de España: 2010-2050'
-
-url: /2018/02/27/estructura-poblacional-de-espana-2010-2050/
 categories:
 - estadística
 - gráficos
 - números
 - r
+date: 2018-02-27 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T18:52:44.200832'
+related:
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
+- 2017-05-12-me-too-me-too.md
+- 2017-03-01-sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
 tags:
 - apis
 - censo
 - demografía
 - españa
 - proyecciones
+title: 'Estructura poblacional de España: 2010-2050'
+url: /2018/02/27/estructura-poblacional-de-espana-2010-2050/
 ---
 
 Si se puede hacer [para Japón](http://blog.revolutionanalytics.com/2016/02/japans-ageing-population-animated-with-r.html), también se puede hacer para España:

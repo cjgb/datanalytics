@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-07-23 14:45:54+00:00
-draft: false
-title: Suicidios, crisis, y cambios de régimen en series temporales
-
-url: /2018/07/23/suicidios-crisis-y-cambios-de-regimen-en-series-temporales/
 categories:
 - números
+date: 2018-07-23 14:45:54+00:00
+draft: false
+lastmod: '2025-04-06T18:53:38.592986'
+related:
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2015-09-30-el-curioso-caso-de-los-suicidios-en-madrid.md
+- 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
 tags:
 - mortalidad
 - suicidio
@@ -14,6 +18,8 @@ tags:
 - r
 - changepoint
 - cambios estructurales
+title: Suicidios, crisis, y cambios de régimen en series temporales
+url: /2018/07/23/suicidios-crisis-y-cambios-de-regimen-en-series-temporales/
 ---
 
 El [capo de los diletantes](https://www.datanalytics.com/2018/07/19/que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas/), en [declaraciones a El País](https://elpais.com/elpais/2018/07/18/ciencia/1531909943_997080.html), dijo:

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-03-04 07:31:46+00:00
-draft: false
-title: Cortar una cadena por un caracter solo cuando no forme parte de una subcadena
-  entrecomillada
-
-url: /2013/03/04/cortar-una-cadena-por-un-caracter-solo-cuando-no-forme-parte-de-una-subcadena-entrecomillada/
 categories:
 - r
+date: 2013-03-04 07:31:46+00:00
+draft: false
+lastmod: '2025-04-06T19:06:25.119327'
+related:
+- 2011-09-08-codigos-de-caracteres-en-r.md
+- 2023-04-20-dejar-morir-pxr.md
+- 2011-07-28-el-paquete-pxr-en-cran.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
 tags:
 - programación
 - r
 - texto
+title: Cortar una cadena por un caracter solo cuando no forme parte de una subcadena
+  entrecomillada
+url: /2013/03/04/cortar-una-cadena-por-un-caracter-solo-cuando-no-forme-parte-de-una-subcadena-entrecomillada/
 ---
 
 Algunos usuarios del [paquete pxR](http://pxr.r-forge.r-project.org/) han avisado de un error de implementación. Según las especificaciones del [formato de datos PC-Axis](http://www.scb.se/upload/PC-Axis/Support/Documents/PC-Axis_fileformat.pdf), las líneas de ese tipo de ficheros acaban en punto y coma (y no necesariamente en un salto de línea).

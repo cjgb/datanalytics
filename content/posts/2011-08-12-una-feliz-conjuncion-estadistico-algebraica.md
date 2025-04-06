@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-12 07:17:48+00:00
-draft: false
-title: Una feliz conjunción estadístico-algebraica
-
-url: /2011/08/12/una-feliz-conjuncion-estadistico-algebraica/
 categories:
 - estadística
 - r
+date: 2011-08-12 07:17:48+00:00
+draft: false
+lastmod: '2025-04-06T18:58:52.444388'
+related:
+- 2011-08-16-una-feliz-conjuncion-estadistico-algebraica-y-ii.md
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
+- 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - estadística
 - r
 - tablas de contingencia
 - cca
 - svd
+title: Una feliz conjunción estadístico-algebraica
+url: /2011/08/12/una-feliz-conjuncion-estadistico-algebraica/
 ---
 
 Tomemos una tabla de contingencia, p.e.,

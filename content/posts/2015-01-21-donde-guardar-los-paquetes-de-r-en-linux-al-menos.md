@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-21 07:13:02+00:00
-draft: false
-title: Dónde guardar los paquetes de R (en Linux, al menos)
-
-url: /2015/01/21/donde-guardar-los-paquetes-de-r-en-linux-al-menos/
 categories:
 - r
+date: 2015-01-21 07:13:02+00:00
+draft: false
+lastmod: '2025-04-06T19:13:23.661124'
+related:
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2011-12-01-creacion-de-un-r-portable.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
+- 2010-10-22-tutorial-instalacion-de-la-extension-de-r-para-rapidminer.md
+- 2011-06-08-gestion-de-proyectos-en-r.md
 tags:
 - linux
 - paquetes
 - r
 - trucos
+title: Dónde guardar los paquetes de R (en Linux, al menos)
+url: /2015/01/21/donde-guardar-los-paquetes-de-r-en-linux-al-menos/
 ---
 
 En todos mis Linux, desde el principio de los tiempos, R guardaba los paquetes en

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-02-04 08:13:00+00:00
-draft: false
-title: Comparación y selección de modelos bayesianos
-
-url: /2020/02/04/comparacion-y-seleccion-de-modelos-bayesianos/
 categories:
 - estadística
+date: 2020-02-04 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:11:45.641361'
+related:
+- 2020-01-28-gof-para-modelos-bayesianos.md
+- 2024-09-12-cortos-stats.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
+- 2016-02-29-los-tres-contraargumentos-habituales.md
 tags:
 - estadística
 - estadística bayesiana
 - comparación de modelos
+title: Comparación y selección de modelos bayesianos
+url: /2020/02/04/comparacion-y-seleccion-de-modelos-bayesianos/
 ---
 
 En el mundo bayesiano existen, cuando menos, dos escuelas:

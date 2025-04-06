@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-16 08:13:13+00:00
-draft: false
-title: Así no (o los sesgos de las encuestas de respuesta voluntaria)
-
-url: /2015/09/16/asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria/
 categories:
 - números
+date: 2015-09-16 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T19:00:15.204505'
+related:
+- 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2016-10-06-que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
 tags:
 - encuestas
 - números
+title: Así no (o los sesgos de las encuestas de respuesta voluntaria)
+url: /2015/09/16/asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria/
 ---
 
 Suscribo enteramente unas declaraciones de la alcaldesa de Madrid en las que se mostraba perpleja ante el hecho de que en la motivación de las sucesivas reformas del código penal se hablase de cómo el anterior no había funcionado o cómo el actual venía a subsanar deficiencias del anterior pero que no se acompañasen de una memoria bien fundada en la que se detallasen y cuantificasen esos problemas.

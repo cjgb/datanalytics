@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-26 07:55:41+00:00
-draft: false
-title: ¿Qué es un banco? ¿Qué son las pruebas de resistencia? (En primera derivada)
-
-url: /2011/07/26/que-es-un-banco-que-son-las-pruebas-de-resistencia-en-primera-derivada/
 categories:
 - finanzas
 - números
 - r
+date: 2011-07-26 07:55:41+00:00
+draft: false
+lastmod: '2025-04-06T18:55:30.412101'
+related:
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2024-02-22-probabilidad-banca.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2023-09-14-gestion-liquidez.md
+- 2023-03-16-negocio-bancario.md
 tags:
 - finanzas
 - números
 - r
+title: ¿Qué es un banco? ¿Qué son las pruebas de resistencia? (En primera derivada)
+url: /2011/07/26/que-es-un-banco-que-son-las-pruebas-de-resistencia-en-primera-derivada/
 ---
 
 En primera derivada, un banco es un señor que pone 10, capta 90 en depósitos de ahorradores —a los que da un interés del 4 %— y presta 100 al 5 %. El código en R que aparece a continuación indica cuál es el beneficio del señor:

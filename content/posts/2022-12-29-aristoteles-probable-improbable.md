@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-12-29
-title: 'Aristóteles sobre lo probable y lo improbable (y, más concretamente, sobre la frecuencia de eventos muy improbables)'
-
-url: /2022/12/29/aristoteles-probable-improbable/
 categories:
 - probabilidad
+date: 2022-12-29
+lastmod: '2025-04-06T18:50:14.315981'
+related:
+- 2023-11-23-futuro-subjuntivo.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2016-11-29-probabilidades-de-empates-en-elecciones.md
+- 2019-06-24-existiria-la-cosa-de-la-que-voy-a-hablar-lo-veo-muy-poco-probable.md
 tags:
 - probabilidad
 - aristóteles
 - eventos improbables
+title: Aristóteles sobre lo probable y lo improbable (y, más concretamente, sobre
+  la frecuencia de eventos muy improbables)
+url: /2022/12/29/aristoteles-probable-improbable/
 ---
 
 Un pasaje de un libro que no viene a cuento me puso sobre la pista de una cita de Aristóteles (Retórica, Libro II, Cap. 24), que dice así:

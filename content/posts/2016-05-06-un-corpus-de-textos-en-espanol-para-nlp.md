@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-06 08:13:49+00:00
-draft: false
-title: Un corpus de textos en español para NLP
-
-url: /2016/05/06/un-corpus-de-textos-en-espanol-para-nlp/
 categories:
 - nlp
+date: 2016-05-06 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T18:46:42.857119'
+related:
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2017-02-20-probando-hunspell-para-el-procesamiento-de-texto-en-espanol.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
 tags:
 - corpus
 - nlp
 - r
 - thyssen
+title: Un corpus de textos en español para NLP
+url: /2016/05/06/un-corpus-de-textos-en-espanol-para-nlp/
 ---
 
 Mañana doy clase de NLP en el [máster de ciencia de datos de KSchool](http://kschool.com/cursos/madrid/master-en-data-science/). Para lo que necesito un corpus decente. Los hay en inglés a tutiplén, pero las hordas de lingüistas hispanoparlantes que se pagan los vicios a costa de tajadas de mi IRPF han sido incapaces de colgar ninguno en español que pueda ubicar y reutilizar.

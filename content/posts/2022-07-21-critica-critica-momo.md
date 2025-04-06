@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-07-21
-title: 'Una crítica a una crítica de MoMo'
-description: 'Respondiendo a una crítica hecha a MoMo'
-url: /2022/07/21/critica-critica-momo/
 categories:
 - estadística
+date: 2022-07-21
+description: Respondiendo a una crítica hecha a MoMo
+lastmod: '2025-04-06T19:00:15.907577'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2020-07-27-un-recordatorio-momocalor-esta-up-and-running.md
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
 tags:
 - mortalidad
 - epidemiología
 - momo
+title: Una crítica a una crítica de MoMo
+url: /2022/07/21/critica-critica-momo/
 ---
 
 [_Hoy puede que acabe escribiendo algo que lo que pasado un tiempo tal vez no me sienta muy orgulloso. Sospecho que puedo llegar a ser injusto. Pero dejaría de ser yo si me abstuviese de publicar lo que sigue._]
@@ -57,12 +64,3 @@ En resumen, poco o nada lo que cuentan los autores del artículo podría incorpo
 Y, sí, vale, puedo estar siendo injusto. Tal vez debería haber leído todos los artículos relevantes de ambos expertos. Pero tengo la sospecha de que seguiría sin aprender nada aprovechable que rentabilizase el tiempo invertido.
 
 Al final, en esto, después de haber repasado durante un tiempo la literatura, solo hay cuatro o cinco ideas y modelos circulando. Y fin, y no más. Unos le dan más importancia a la dimensión geográfica; otros a la temporal. Pero al final del día, nadie deja de usar modelos de Poisson (o sus generalizaciones), _splines_ ---salvo [algunos trogloditas que usan senos y cosenos](/2021/12/09/sobre-exceso-mortalidad-noviembre-2021/)--- y ya. En este submundo de la epidemiología no hay nada que con una base decente no se aprenda en un finde. Luego, eso sí, toca ajustar y refinar detalles, tocar parámetros tratar de conseguir un ajuste decente y, a ser posible, robusto. Pero esa es otra historia.
-
-
-
-
-
-
-
-
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-21 09:27:56+00:00
-draft: false
-title: Verdades, mentiras, estadísticas... y autopistas radiales
-
-url: /2011/01/21/verdades-mentiras-estadisticas-y-autopistas-radiales/
 categories:
 - consultoría
 - números
+date: 2011-01-21 09:27:56+00:00
+draft: false
+lastmod: '2025-04-06T19:11:30.445728'
+related:
+- 2012-03-28-contrafactualidad-radial.md
+- 2016-10-04-si-se-estudio-que-las-autopistas-eran-viables-por-que-estan-ahora-en-quiebra.md
+- 2023-09-14-gestion-liquidez.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
 tags:
 - consultoría
 - números
+title: Verdades, mentiras, estadísticas... y autopistas radiales
+url: /2011/01/21/verdades-mentiras-estadisticas-y-autopistas-radiales/
 ---
 
 Sin ser un as de las finanzas, resulta más que evidente que la inversión que en su día se hizo para convertir el tramo Madrid-Zaragoza de la N-II en autovía fue más que rentable. La obra fue financiada por el estado y su uso fue gratuito desde el primer día.

@@ -1,14 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-06-02
-title: "Cómo organizar un proyecto de análisis de datos: primeros pasos"
-description: 'Consejos para arrancar y estructurar un proyecto de datos: directorios, etc.'
-url: /2022/06/02/organizacion-proyecto-datos/
 categories:
 - consultoría
+date: 2022-06-02
+description: 'Consejos para arrancar y estructurar un proyecto de datos: directorios,
+  etc.'
+lastmod: '2025-04-06T18:44:44.287707'
+related:
+- 2011-06-08-gestion-de-proyectos-en-r.md
+- 2023-12-14-metodologias-viejunas.md
+- 2013-08-21-mis-copias-de-seguridad.md
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
 tags:
 - gestión de proyectos
 - ciencia de datos
+title: 'Cómo organizar un proyecto de análisis de datos: primeros pasos'
+url: /2022/06/02/organizacion-proyecto-datos/
 ---
 
 Esta es una entrada básica orientada a quienes comienzan en el mundo del análisis de datos y se enfrentan a uno de sus primeros retos en solitario. Contiene consejos que no son de aplicación universal, dependen del contexto y están sometidos a revisión y adecuación a las circunstancias concretas. Cada maestrillo tiene su librillo y esta es una versión simplificada del mío.

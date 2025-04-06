@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-30 07:27:45+00:00
-draft: false
-title: Tolstoi, sobre los mercados ineficientes
-
-url: /2012/03/30/tolstoi-sobre-los-mercados-ineficientes/
 categories:
 - estadística
 - finanzas
+date: 2012-03-30 07:27:45+00:00
+draft: false
+lastmod: '2025-04-06T18:49:18.321237'
+related:
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2024-07-03-cortos-stats.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
 tags:
 - estadística
 - finanzas
 - tolstoi
+title: Tolstoi, sobre los mercados ineficientes
+url: /2012/03/30/tolstoi-sobre-los-mercados-ineficientes/
 ---
 
 Arranca Tolstoi en Ana Karenina con esta frase mítica: _Todas las familias felices se parecen entre sí; las infelices son desgraciadas en su propia manera_.

@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-25
-title: 'Mamba vs "transformers" y cuatro asuntos más'
-url: /2024/07/25/cortos-llms
 categories:
 - cortos
+date: 2024-07-25
+lastmod: '2025-04-06T19:06:56.593188'
+related:
+- 2024-03-21-cortos.md
+- 2024-12-31-cortos-llms.md
+- 2025-03-25-cortos-llms.md
+- 2024-04-19-cortos.md
+- 2024-09-03-cortos-llms.md
 tags:
 - llms
 - groq
 - mamba
 - gpt-2
 - prompts
+title: Mamba vs "transformers" y cuatro asuntos más
+url: /2024/07/25/cortos-llms
 ---
 
 ### I. Lo que hemos aprendido

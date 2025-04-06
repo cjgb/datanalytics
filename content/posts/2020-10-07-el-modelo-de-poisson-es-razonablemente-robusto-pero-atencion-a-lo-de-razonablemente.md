@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-07 09:13:00+00:00
-draft: false
-title: El modelo de Poisson es razonablemente robusto (pero atención a lo de "razonablemente")
-
-url: /2020/10/07/el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente/
 categories:
 - estadística
+date: 2020-10-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:31.629416'
+related:
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
+- 2023-01-24-funciones-enlace.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
 tags:
 - estadística robusta
 - glm
 - poisson
+title: El modelo de Poisson es razonablemente robusto (pero atención a lo de "razonablemente")
+url: /2020/10/07/el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente/
 ---
 
 Una de las consencuencias del coronavirus es que vamos a tener que [replantearnos lo que significa ajustar series temporales](https://www.datanalytics.com/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/). Es decir, comenzar a ajustar series temporales y no repetir la consabida teoría que subyace a los modelos ARIMA simplemente porque es _guay_.
@@ -44,6 +50,3 @@ coef(lm(log(y) ~ x))
 {{< / highlight >}}
 
 Como consecuencia, para procesos con conteos relativamente altos (o, al menos, para ellos), el logaritmo protege de los excesos.
-
-
-

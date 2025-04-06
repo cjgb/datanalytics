@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-28 09:13:00+00:00
-draft: false
-title: Más sobre el consumo alimentario mensual en los hogares españoles en R
-
-url: /2020/04/28/mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/
 categories:
 - números
 - r
+date: 2020-04-28 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:15.635576'
+related:
+- 2020-04-01-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2014-06-27-disponible-una-nueva-version-de-microdatoses.md
 tags:
 - datos abiertos
 - datos públicos
 - r
+title: Más sobre el consumo alimentario mensual en los hogares españoles en R
+url: /2020/04/28/mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/
 ---
 
 He actualizado el repositorio que anuncié [aquí](https://www.datanalytics.com/2020/04/01/consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/), es decir, [este](https://github.com/cjgb/consumo_mensual_alimentos), con una función adicional cuya razón de ser es la siguiente:

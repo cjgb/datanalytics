@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-02-10 18:00:00+00:00
-draft: false
-title: Sobre la normalización de las direcciones postales
-
-url: /2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/
 categories:
 - ciencia de datos
 - consultoría
 - r
+date: 2020-02-10 18:00:00+00:00
+draft: false
+lastmod: '2025-04-06T19:10:56.222313'
+related:
+- 2016-04-15-ahora-cartociudad-encuentra-informacion-administrativa-relativa-a-un-punto.md
+- 2020-04-29-la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados.md
+- 2022-09-27-uso-abuso-embeddings.md
+- 2016-06-13-censura-a-la-izquierda-en-las-universidades-espanolas.md
+- 2011-09-26-anumerismo-atenuante-o-agravante.md
 tags:
 - cartociudad
 - ciencia de datos
@@ -16,6 +20,8 @@ tags:
 - españa
 - normalización
 - r
+title: Sobre la normalización de las direcciones postales
+url: /2020/02/10/sobre-la-normalizacion-de-las-direcciones-postales/
 ---
 
 Lo de las direcciones postales es un caos. Trabajar con ellas, una tortura. Y cualquier proyecto _de ciencia de datos_ que las emplee se convierte en la n-ésima reinvención de la rueda: normalización y tal.
@@ -37,6 +43,3 @@ numero_policia
 {{< / highlight >}}
 
 **Coda:** todo lo relativo al número de policía podría considerarse un _outlier_ dentro los ratios entre los grados de utilidad y de conocimiento de las herramientas y estrategias necesarias para hacer (cierto tipo de) _ciencia de datos_ en España. No obstante, yo lo dejo aquí escrito y fechado como referencia mía y aviso para los demás.
-
-
-

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-06-22
-title: "La paradoja de Lord, de nuevo"
-
-url: /2023/06/22/paradoja-lord/
 categories:
 - estadística
+date: 2023-06-22
+lastmod: '2025-04-06T19:02:47.870552'
+related:
+- 2013-09-09-la-paradoja-de-lord.md
+- 2020-11-13-de-a-b-a-did.md
+- 2024-05-02-falacia-ecologica.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - paradojas
 - estadística
 - causalidad
+title: La paradoja de Lord, de nuevo
+url: /2023/06/22/paradoja-lord/
 ---
 
 Escribí sobre la paradoja de Lord

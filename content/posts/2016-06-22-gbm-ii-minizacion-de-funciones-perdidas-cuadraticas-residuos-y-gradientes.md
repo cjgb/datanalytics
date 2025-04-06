@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-22 08:13:18+00:00
-draft: false
-title: 'GBM (II): Minización de funciones, pérdidas cuadráticas, residuos y gradientes'
-
-url: /2016/06/22/gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes/
 categories:
 - estadística
+date: 2016-06-22 08:13:18+00:00
+draft: false
+lastmod: '2025-04-06T18:54:44.204361'
+related:
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2016-06-21-gbm-i-una-mentira-sugerente.md
 tags:
 - estadística
 - gbm
+title: 'GBM (II): Minización de funciones, pérdidas cuadráticas, residuos y gradientes'
+url: /2016/06/22/gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes/
 ---
 
 Para minimizar una función $latex \phi(x)$ es habitual utilizar un procedimiento iterativo: a partir de un punto inicial $latex x_0$ se _salta_ a $latex x_1 = x_0 - \lambda \nabla \phi(x_0)$ (donde $latex \lambda$ es un número pequeño predefinido de antemano), y de ahí, sucesivamente, a

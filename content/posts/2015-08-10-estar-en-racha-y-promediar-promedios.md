@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-08-10 08:13:27+00:00
-draft: false
-title: Estar en racha (y promediar promedios)
-
-url: /2015/08/10/estar-en-racha-y-promediar-promedios/
 categories:
 - probabilidad
+date: 2015-08-10 08:13:27+00:00
+draft: false
+lastmod: '2025-04-06T18:49:56.044212'
+related:
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2024-12-19-promediar-predicciones.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2019-12-04-p-valores-y-decisiones.md
 tags:
 - probabilidad
 - r
+title: Estar en racha (y promediar promedios)
+url: /2015/08/10/estar-en-racha-y-promediar-promedios/
 ---
 
 Suponemos que observamos rachas de longitud `2 + rpois(1, 10)` de un juego en el que se tiene éxito (1) o se fracasa (0) con probabilidad 1/2. Nos interesa saber si existe eso de las _rachas de suerte_, es decir, si es más probable que a un éxito le suceda otro o lo contrario.

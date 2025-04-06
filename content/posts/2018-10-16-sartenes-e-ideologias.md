@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-16 08:13:28+00:00
-draft: false
-title: Sartenes e ideologías
-
-url: /2018/10/16/sartenes-e-ideologias/
 categories:
 - varios
+date: 2018-10-16 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:44:46.963500'
+related:
+- 2023-06-27-seeing-like-market.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - ideología
+title: Sartenes e ideologías
+url: /2018/10/16/sartenes-e-ideologias/
 ---
 
 Si alguien me hubiese preguntado hace 15 años qué era para mí una sartén, le habría contestado: "un utensilio para hacer paellas". Efectivamente, hace 15 años yo hacía unas paellas (y muy ricas, además) en una sartén. Y todos tenéis en mente la pregunta que debiera haberme realizado mi interlocutor.

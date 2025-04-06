@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-30 07:32:32+00:00
-draft: false
-title: Hay (micro)vida más allá de la (micro)muerte
-
-url: /2012/01/30/hay-microvida-mas-alla-de-la-micromuerte/
 categories:
 - estadística
 - probabilidad
+date: 2012-01-30 07:32:32+00:00
+draft: false
+lastmod: '2025-04-06T19:07:32.078021'
+related:
+- 2011-06-01-micromuertes.md
+- 2020-05-19-micromuertes-y-coronavirus.md
+- 2017-12-05-como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2022-05-12-principio-mediocridad.md
 tags:
 - estadística
 - percepción del riesgo
 - probabilidad
 - micromuertes
+title: Hay (micro)vida más allá de la (micro)muerte
+url: /2012/01/30/hay-microvida-mas-alla-de-la-micromuerte/
 ---
 
 Hablamos ya hace un tiempo de las [micromuertes](http://www.datanalytics.com/2011/06/01/micromuertes/). Ahora toca traer a la atención de mis lectores un concepto asociado, el de las [microvidas](http://understandinguncertainty.org/microlives).

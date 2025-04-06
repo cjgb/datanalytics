@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-06-06
-title: "Vehículos particulares: estimación del número de kWh/día por conductor en España"
-
-url: /2023/06/06/consumo-vehculos-particulares-per-capita/
 categories:
 - números
+date: 2023-06-06
+lastmod: '2025-04-06T18:45:13.612291'
+related:
+- 2022-10-25-muchos-julios-hidraulica.md
+- 2022-05-19-algunos-numeros-cambio-climatico.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2022-07-26-hueco-termico.md
+- 2012-03-01-como-poner-una-lavadora.md
 tags:
 - energía
 - coches
 - españa
 - david mackay
+title: 'Vehículos particulares: estimación del número de kWh/día por conductor en
+  España'
+url: /2023/06/06/consumo-vehculos-particulares-per-capita/
 ---
 
 En

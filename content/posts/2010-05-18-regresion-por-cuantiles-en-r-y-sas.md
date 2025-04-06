@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-18 20:52:08+00:00
-draft: false
-title: Regresión por cuantiles en R y SAS
-
-url: /2010/05/18/regresion-por-cuantiles-en-r-y-sas/
 categories:
 - estadística
 - r
+date: 2010-05-18 20:52:08+00:00
+draft: false
+lastmod: '2025-04-06T18:55:04.739736'
+related:
+- 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
+- 2013-08-05-medianas-ponderadas.md
+- 2018-03-01-kriging-con-stan.md
+- 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - estadística
 - r
@@ -15,6 +19,8 @@ tags:
 - cuantiles
 - regresión
 - regresión por cuantiles
+title: Regresión por cuantiles en R y SAS
+url: /2010/05/18/regresion-por-cuantiles-en-r-y-sas/
 ---
 
 Hace un tiempo, con la aburridora perspectiva de un largo viaje en metro hasta mi casa ensombreciendo mi futuro más inminente, decidí regalarme algún tipo de amena lectura. A tal fin, imprimí un [articulillo](http://www2.sas.com/proceedings/sugi30/213-30.pdf) que, bajo la perspectiva de SAS, me introducía a una técnica que se vino a mí como por azar. O, bajo otro punto de vista, una técnica que, también por azar, había esquivado hasta tal fecha un encontronazo con mi husmeadora curiosidad.

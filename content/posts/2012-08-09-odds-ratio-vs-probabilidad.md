@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-09 06:54:23+00:00
-draft: false
-title: Odds ratio vs probabilidad
-
-url: /2012/08/09/odds-ratio-vs-probabilidad/
 categories:
 - estadística
 - probabilidad
+date: 2012-08-09 06:54:23+00:00
+draft: false
+lastmod: '2025-04-06T18:59:29.320315'
+related:
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2015-09-01-odds-probabilidades.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
+- 2024-12-19-promediar-predicciones.md
 tags:
 - estadística
 - odds ratio
 - odds
 - probabilidad
 - riesgo
+title: Odds ratio vs probabilidad
+url: /2012/08/09/odds-ratio-vs-probabilidad/
 ---
 
 Hoy he sabido vía Twitter lo siguiente:

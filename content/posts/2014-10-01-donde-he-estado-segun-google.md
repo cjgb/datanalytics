@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-01 07:13:47+00:00
-draft: false
-title: ¿Dónde he estado (según Google)?
-
-url: /2014/10/01/donde-he-estado-segun-google/
 categories:
 - gráficos
 - r
+date: 2014-10-01 07:13:47+00:00
+draft: false
+lastmod: '2025-04-06T18:48:32.147656'
+related:
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2011-04-19-graficos-v-mapas.md
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
 tags:
 - google
 - gráficos
 - mapas
 - r
+title: ¿Dónde he estado (según Google)?
+url: /2014/10/01/donde-he-estado-segun-google/
 ---
 
 Leí [esto](http://educate-r.org//2014/09/26/googlelocations/) el otro día. Lo voy a replicar con mis datos.

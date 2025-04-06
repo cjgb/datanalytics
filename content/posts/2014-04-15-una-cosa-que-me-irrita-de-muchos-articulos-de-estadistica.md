@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-15 07:17:44+00:00
-draft: false
-title: Una cosa que me irrita de muchos artículos de estadística
-
-url: /2014/04/15/una-cosa-que-me-irrita-de-muchos-articulos-de-estadistica/
 categories:
 - estadística
+date: 2014-04-15 07:17:44+00:00
+draft: false
+lastmod: '2025-04-06T18:52:15.393307'
+related:
+- 2024-07-03-cortos-stats.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
+- 2024-02-13-outliers-dos-modos.md
+- 2021-03-09-sobre-la-inferencia-basada-en-magnitudes.md
+- 2016-09-12-big-vs-small-data-en-estadistica-aplicada-aplicada.md
 tags:
 - estadística
+title: Una cosa que me irrita de muchos artículos de estadística
+url: /2014/04/15/una-cosa-que-me-irrita-de-muchos-articulos-de-estadistica/
 ---
 
 Hay una cosa que encuentro irritante en muchos artículos de estadística. Supongamos que existe una técnica A y que invento una técnica B. Entonces escribo un artículo en el que hablo de A, describo B, pruebo si procede algún teorema y, finalmente, me dispongo a compararlo con A.

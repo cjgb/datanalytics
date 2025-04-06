@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-03 09:13:13+00:00
-draft: false
-title: Mezclas de distribuciones con Stan
-
-url: /2016/03/03/mezclas-de-distribuciones-con-stan/
 categories:
 - estadística
+date: 2016-03-03 09:13:13+00:00
+draft: false
+lastmod: '2025-04-06T18:59:36.133560'
+related:
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2018-03-01-kriging-con-stan.md
 tags:
 - em
 - flexmix
 - mezclas
 - r
 - stan
+title: Mezclas de distribuciones con Stan
+url: /2016/03/03/mezclas-de-distribuciones-con-stan/
 ---
 
 {{< highlight R >}}

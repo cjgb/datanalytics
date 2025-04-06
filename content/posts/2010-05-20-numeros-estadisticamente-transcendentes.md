@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-20 19:29:12+00:00
-draft: false
-title: Números estadísticamente transcendentes
-
-url: /2010/05/20/numeros-estadisticamente-transcendentes/
 categories:
 - números
+date: 2010-05-20 19:29:12+00:00
+draft: false
+lastmod: '2025-04-06T18:49:22.298987'
+related:
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 tags:
 - números
+title: Números estadísticamente transcendentes
+url: /2010/05/20/numeros-estadisticamente-transcendentes/
 ---
 
 Mi reciente lectura del libro [_La política de los grandes números_](http://www.madrimasd.org/blogs/salud_publica/2007/06/29/68972) de [Alain Desrosières](http://es.wikipedia.org/wiki/Alain_Desrosières) y la más accesible de [_El triunfo de los números_](http://divulgamat.ehu.es/weborriak/publicacionesdiv/libros/LiburuakDet.asp?Id=463) me animaron a comenzar una serie de artículos sobre números, sobre la descripción del estado de las cosas vistas a través de los números, la _novedosa_ —que lo fue hace mucho, pero tampoco demasiado, tiempo atrás— perspectiva de interpretar los fenómenos a partir de números, que devino en la disciplina que conocemos como estadística.

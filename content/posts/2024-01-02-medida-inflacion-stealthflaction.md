@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-01-02
-title: Sobre los retos asociados a la "stealthflation"
-url: /2024/01/02/stealthflation/
 categories:
 - estadística
+date: 2024-01-02
+lastmod: '2025-04-06T18:52:07.391740'
+related:
+- 2022-05-17-como-calcula-inflacion.md
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
+- 2021-11-24-medias-ponderadas-a-lo-uluru.md
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
+- 2023-09-14-gestion-liquidez.md
 tags:
 - estadística pública
 - inflación
 - stealthflation
+title: Sobre los retos asociados a la "stealthflation"
+url: /2024/01/02/stealthflation/
 ---
 
 Estoy aficionándome a usar el
@@ -29,4 +36,3 @@ Hay dos maneras distintas de enfrentarse a este problema. La primera, es la habi
 De la desalineación entre el concepto real-economómico y el estadístico-administrativo del concepto de nivel de precios da cuenta el hecho de que uno (de entre los varios) motivos que se alegan para que el objetivo de inflación sea (en muchos sitios) del 2% (y no del 0%) es, precisamente, que _es sabido_ que las cifras oficiales lo sobreestiman. En efecto, quienquiera que esté encargado de determinar cuánto valen las patatas en España tiene muchos menos incentivos en encontrar las buenas, bonitas y baratas que el _consumidor promedio_.
 
 La otra manera, mucho más impráctica y especulativa, es una fuente potencial de experimentos mentales y ejercicios en clases de muestreo (y no solo de muestreo): ¿qué tipo de técnicas habría que aplicar para capturar y entender todas esas fluctuaciones a nivel micro? ¿Se podría de alguna manera estimar el tamaño de la _stealthflaction_ a nivel macro (p.e., comparando el coste _real_ de los productos tal como se obtienen en la EPF con el teórico resultante de aplicar los precios usados para calcular el índice de inflación)? Etc. No deja de tener su intríngulis, ¿no?
-

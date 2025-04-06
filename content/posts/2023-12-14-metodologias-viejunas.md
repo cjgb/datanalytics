@@ -1,17 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-12-14
-draft: false
-title: Organización de proyectos... ¿viejuna?
-url: /2023/12/14/orgamizacion-proyectos-viejuna/
 categories:
 - ciencia de datos
+date: 2023-12-14
+draft: false
+lastmod: '2025-04-06T18:55:55.539555'
+related:
+- 2022-06-02-orgamizacion-proyectos-datos.md
+- 2011-06-08-gestion-de-proyectos-en-r.md
+- 2011-06-13-minitutorial-de-subversion.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - ciencia de datos
 - metodología
 - proyectos
 - git
 - gcp
+title: Organización de proyectos... ¿viejuna?
+url: /2023/12/14/orgamizacion-proyectos-viejuna/
 ---
 
 ## I.

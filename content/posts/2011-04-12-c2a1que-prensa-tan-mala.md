@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-12 07:41:46+00:00
-draft: false
-title: ¡Qué prensa tan mala!
-
-url: /2011/04/12/que-prensa-tan-mala/
 categories:
 - gráficos
 - números
+date: 2011-04-12 07:41:46+00:00
+draft: false
+lastmod: '2025-04-06T18:45:27.015664'
+related:
+- 2010-11-25-transforma-los-graficos-de-espana.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2010-05-31-de-numeros-y-funcionarios.md
+- 2012-11-12-no-es-pais-para-biplots.md
+- 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
 tags:
 - gráficos
 - números
 - prensa
+title: ¡Qué prensa tan mala!
+url: /2011/04/12/que-prensa-tan-mala/
 ---
 
 Al autor de estas páginas se le cae la baba con las _infografías_ del [New York Times](http://learning.blogs.nytimes.com/2011/04/08/data-visualized-more-on-teaching-with-infographics/?scp=1&sq=infographics&st=cse) (¿sabéis que [en ese periódico usan R](http://www.drewconway.com/zia/?p=2658)?) y de [The Guardian](http://www.guardian.co.uk/news/datablog). Y esperaba, ¡qué menos!, algo si no ya similar, al menos sí decente del, dicen, más serio de los periódicos españoles.

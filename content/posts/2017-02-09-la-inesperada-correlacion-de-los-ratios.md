@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-09 08:13:13+00:00
-draft: false
-title: La inesperada correlación de los ratios
-
-url: /2017/02/09/la-inesperada-correlacion-de-los-ratios/
 categories:
 - estadística
+date: 2017-02-09 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T19:07:37.095175'
+related:
+- 2018-01-16-las-correlaciones-positivas-son-transitivas.md
+- 2018-11-16-colinealidad-y-posterioris.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2019-07-19-un-truco-para-reducir-la-varianza-de-un-estimador.md
+- 2012-04-19-variables-instrumentales-con-r.md
 tags:
 - estadística
 - independencia
 - probabilidad
 - correlación
+title: La inesperada correlación de los ratios
+url: /2017/02/09/la-inesperada-correlacion-de-los-ratios/
 ---
 
 Tomemos dos variables aleatorias independientes y positivas,

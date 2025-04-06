@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-12 09:13:00+00:00
-draft: false
-title: Cuando sea mayor, quiero escribir informes como esos
-
-url: /2020/05/12/cuando-sea-mayor-quiero-escribir-informes-como-esos/
 categories:
 - artículos
 - números
+date: 2020-05-12 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:33.222893'
+related:
+- 2013-01-04-sanidad-publica-sanidad-privada.md
+- 2014-02-21-cuatro-enlaces-sanidad-correos-electronicos-leyes-y-errores-de-programacion.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2010-11-25-transforma-los-graficos-de-espana.md
+- 2018-09-07-tres-titulares-alternativos-y-un-extracto-de-mala-ciencia.md
 tags:
 - artículos
 - sanidad
+title: Cuando sea mayor, quiero escribir informes como esos
+url: /2020/05/12/cuando-sea-mayor-quiero-escribir-informes-como-esos/
 ---
 
 Ayer buscaba información sobre la historia de la sanidad española y de la pública en particular. Quería averiguar por qué acabamos con un sistema britanoide en lugar del centroeuropeo:

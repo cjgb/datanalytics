@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-04-14 22:36:49+00:00
-draft: false
-title: La opinión sobre R de una pobre señora
-
-url: /2010/04/14/la-opinion-sobre-r-de-una-pobre-senora/
 categories:
 - r
+date: 2010-04-14 22:36:49+00:00
+draft: false
+lastmod: '2025-04-06T19:07:02.861745'
+related:
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md
+- 2014-07-04-vectorizacion-en-r-un-contraejemplo.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2014-05-14-y-sin-embargo-te-quiero.md
 tags:
 - r
+title: La opinión sobre R de una pobre señora
+url: /2010/04/14/la-opinion-sobre-r-de-una-pobre-senora/
 ---
 
 Me llegan noticias de una pobre señora que, se conoce, tiene un blog en el que [habla de cosas que, da la impresion, le trascienden](http://www.thejuliagroup.com/blog/?p=433). Dice lo siguiente:

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-22 07:13:35+00:00
-draft: false
-title: Ni-nis y estados transitorios
-
-url: /2014/07/22/ni-nis-y-estados-transitorios/
 categories:
 - números
+date: 2014-07-22 07:13:35+00:00
+draft: false
+lastmod: '2025-04-06T19:04:10.100536'
+related:
+- 2014-02-17-donde-estoy-donde-estare.md
+- 2012-06-06-definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista.md
+- 2012-07-16-el-paro-cosa-de-hombres.md
+- 2024-01-30-indicadores-economicos.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 tags:
 - desempleo
 - epa
 - ninis
 - números
+title: Ni-nis y estados transitorios
+url: /2014/07/22/ni-nis-y-estados-transitorios/
 ---
 
 Imaginemos un país feliz en el que mucha gente trabaja durante dos años y luego se toma un mes para buscar otro trabajo mejor. ¿Cuál sería su tasa de paro? Del 4 %: la gente pasaría en el paro uno de cada 25 meses. Ese estado transitorio de un mes se manifestaría así en la EPA de dicho país, como un _stock_ de desempleados.

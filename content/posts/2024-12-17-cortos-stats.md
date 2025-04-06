@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-17
-title: 'Una serie de asuntos sobre encuestas, mercados de predicciones y su intersección'
-url: /2024/12/17/cortos-estadística
 categories:
 - cortos
+date: 2024-12-17
+lastmod: '2025-04-06T18:50:28.899184'
+related:
+- 2016-09-26-encuestas-electorales-una-propuesta.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
 tags:
 - encuestas
 - mercados de predicciones
 - censos
+title: Una serie de asuntos sobre encuestas, mercados de predicciones y su intersección
+url: /2024/12/17/cortos-estadística
 ---
 
 [Este](https://statmodeling.stat.columbia.edu/2024/11/09/polling-by-asking-people-about-their-neighbors-when-does-this-work/)
@@ -23,4 +30,3 @@ dentro del entramado de las predicciones electorales: que se convertirán en un 
 
 Dentro del debate sobre si reemplazar el censo clásico por un sistema basado en registros administrativos, The Economist ha publicado una pieza muy recomendable:
 [_Counting Britain’s beauties and leech-bleeders_](https://www.economist.com/britain/2024/01/10/counting-britains-beauties-and-leech-bleeders). Además de lo sustancial, viene plagado de anécdotas simpáticas, como por ejemplo esa de que Galton intentó en su día estudiar la distribución de la belleza femenina en el RU (la historia está mejor contada [aquí](https://www.sciencedirect.com/science/article/abs/pii/S0191886908001724)).
-

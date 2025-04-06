@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-02-16 09:13:00+00:00
-draft: false
-title: Hay mil motivos para criticar una regresión "trucha", pero una R² baja no es
-  uno de ellos
-
-url: /2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r2-baja-no-es-uno-de-ellos/
 categories:
 - estadística
 - r
+date: 2021-02-16 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:12:51.013555'
+related:
+- 2024-06-20-mas-r-cuadrado.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md
+- 2024-05-02-falacia-ecologica.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - r
 - r cuadrado
 - regresión
 - regresión lineal
+title: Hay mil motivos para criticar una regresión "trucha", pero una R² baja no es
+  uno de ellos
+url: /2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r2-baja-no-es-uno-de-ellos/
 ---
 
 Todo esto arranca con el tuit:

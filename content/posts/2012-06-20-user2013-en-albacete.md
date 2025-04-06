@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-20 07:18:00+00:00
-draft: false
-title: useR2013, en Albacete
-
-url: /2012/06/20/user2013-en-albacete/
 categories:
 - r
 - anuncio
+date: 2012-06-20 07:18:00+00:00
+draft: false
+lastmod: '2025-04-06T18:52:14.738451'
+related:
+- 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md
+- 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2011-07-06-user-en-warwick-dentro-de-un-mes.md
+- 2011-11-11-hoy-el-primer-encuentro-del-grupo-de-usuarios-de-r-de-argentina.md
 tags:
 - r
+title: useR2013, en Albacete
+url: /2012/06/20/user2013-en-albacete/
 ---
 
 Aunque la noticia ya se sabe desde hace algunos días (y de hecho, la conocía desde antes de que se hiciese oficialmente pública), quiero dejar constancia aquí de ella: el congreso internacional de usuarios de R del año 2013, useR2013!, tendrán lugar en Albacete, en el mes de julio.

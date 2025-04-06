@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-05-20 07:42:50+00:00
-draft: false
-title: V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación
-  Operativa
-
-url: /2014/05/20/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2/
 categories:
 - cursos
+date: 2014-05-20 07:42:50+00:00
+draft: false
+lastmod: '2025-04-06T18:51:44.452683'
+related:
+- 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
+- 2012-07-18-conferencia-sobre-grandes-datos.md
+- 2014-01-13-nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza.md
+- 2014-12-30-como-no-nacio-el-big-data.md
+- 2015-10-16-encuentro-big-data-2015-co.md
 tags:
 - cursos
 - grandes datos
 - r
 - seio
 - taller
+title: V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación
+  Operativa
+url: /2014/05/20/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2/
 ---
 
 Los días 16 y 17 de junio tendrán lugar en Madrid las [V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación Operativa](http://www.defensa.gob.es/genaeio2014/index.html). Cosa de la que tal vez no hubiese llegado a tener constancia de no haber sido por la gentileza de la organización, que me ha invitado a impartir un taller introductorio al _big data_.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-06 09:13:37+00:00
-draft: false
-title: Elecciones, mapas... y mi favorito
-
-url: /2019/05/06/elecciones-mapas-y-mi-favorito/
 categories:
 - gráficos
 - números
+date: 2019-05-06 09:13:37+00:00
+draft: false
+lastmod: '2025-04-06T18:57:28.072285'
+related:
+- 2015-05-22-cartogramas-vs-huertogramas.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2022-10-20-graficaca-densidad-poblacion.md
+- 2023-05-09-encuestas-predicciones-electorales.md
 tags:
 - cartogramas
 - elecciones
 - españa
 - mapas
+title: Elecciones, mapas... y mi favorito
+url: /2019/05/06/elecciones-mapas-y-mi-favorito/
 ---
 
 De entre lo bueno que pudan haber traído las últimas elecciones generales (las [españolas de abril de 2019](https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2019), para quien requiera mayor precisión) puede contarse una pequeña revolución en la _cartografía electoral_.

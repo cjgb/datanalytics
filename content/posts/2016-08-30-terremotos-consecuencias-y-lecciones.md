@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-08-30 08:13:54+00:00
-draft: false
-title: Terremotos, consecuencias y lecciones
-
-url: /2016/08/30/terremotos-consecuencias-y-lecciones/
 categories:
 - números
+date: 2016-08-30 08:13:54+00:00
+draft: false
+lastmod: '2025-04-06T19:02:18.289337'
+related:
+- 2014-01-10-error-de-tipo-i-error-de-tipo-ii.md
+- 2024-10-31-efectividad-alertas.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2012-04-30-contar-c2bffacil.md
+- 2020-06-26-criptobayesianismo.md
 tags:
 - percepción del riesgo
 - riesgo
 - terremotos
 - probabilidades pequeñas
+title: Terremotos, consecuencias y lecciones
+url: /2016/08/30/terremotos-consecuencias-y-lecciones/
 ---
 
 En 2009 hubo un [terremoto en l'Aquila](https://es.wikipedia.org/wiki/Terremoto_de_L%27Aquila_de_2009), Italia, que dejó 308 muertos, etc.

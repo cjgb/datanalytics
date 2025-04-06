@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-05 06:38:07+00:00
-draft: false
-title: Los principales problemas de España
-
-url: /2012/09/05/los-principales-problemas-de-espana/
 categories:
 - estadística
 - números
+date: 2012-09-05 06:38:07+00:00
+draft: false
+lastmod: '2025-04-06T18:48:52.298666'
+related:
+- 2017-04-03-tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupan.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2010-11-25-transforma-los-graficos-de-espana.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2016-10-05-barometros-del-cis-con-r.md
 tags:
 - datos abiertos
 - estadística
 - estadística pública
 - gráficos
 - números
+title: Los principales problemas de España
+url: /2012/09/05/los-principales-problemas-de-espana/
 ---
 
 Llevo unos días mostrando bastante poca diligencia en lo que a mi bitácora concierne. El calor con el que agosto ha maltratado los montes también ha contribuido a disipar mis ideas. También a enflaquecer la ya de por sí no muy robusta voluntad.

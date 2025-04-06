@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-04 07:09:29+00:00
-draft: false
-title: Números rojos (y perfectibles)
-
-url: /2012/05/04/numeros-rojos-y-perfectibles/
 categories:
 - números
+date: 2012-05-04 07:09:29+00:00
+draft: false
+lastmod: '2025-04-06T18:54:42.876283'
+related:
+- 2011-02-25-1605.md
+- 2018-12-12-fui-a-costa-rica-y-volvi-convencido-de-que-el-indice-goblal-de-felicidad-es-una-basura.md
+- 2011-04-12-c2a1que-prensa-tan-mala.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2012-06-19-el-indice-de-riqueza-inclusiva.md
 tags:
 - números
 - periodismo de datos
+title: Números rojos (y perfectibles)
+url: /2012/05/04/numeros-rojos-y-perfectibles/
 ---
 
 El otro día compré un número de [Números Rojos](http://www.revistanumerosrojos.com/). En parte, por curiosidad. En parte, por deformación profesional. Y también porque escribían Peces-Barba, Mayor Zaragoza y algún otro.

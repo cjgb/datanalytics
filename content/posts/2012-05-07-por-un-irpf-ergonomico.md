@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-07 07:37:56+00:00
-draft: false
-title: Por un IRPF ergonómico
-
-url: /2012/05/07/por-un-irpf-ergonomico/
 categories:
 - números
+date: 2012-05-07 07:37:56+00:00
+draft: false
+lastmod: '2025-04-06T18:53:14.070252'
+related:
+- 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
+- 2014-05-21-la-complejidad-de-la-ley.md
+- 2024-05-21-sentencia-bono-social-ii.md
+- 2023-11-09-progresividad-fiscal-calendario.md
+- 2011-02-25-1605.md
 tags:
 - finanzas
 - números
+title: Por un IRPF ergonómico
+url: /2012/05/07/por-un-irpf-ergonomico/
 ---
 
 Sé que es un ejercicio vano. Pero lo hago igualmente.

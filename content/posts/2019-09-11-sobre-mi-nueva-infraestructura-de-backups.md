@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-09-11 09:13:29+00:00
-draft: false
-title: Sobre mi nueva infraestructura de backups
-
-url: /2019/09/11/sobre-mi-nueva-infraestructura-de-backups/
 categories:
 - programación
 - varios
+date: 2019-09-11 09:13:29+00:00
+draft: false
+lastmod: '2025-04-06T19:07:56.712989'
+related:
+- 2013-08-21-mis-copias-de-seguridad.md
+- 2017-03-31-hoy-es-el-dia-internacional-de-la-copia-de-seguridad.md
+- 2023-03-31-dia-internacional-copia-seguridad.md
+- 2011-09-05-un-paseo-por-cloudnumbers.md
+- 2023-12-14-metodologias-viejunas.md
 tags:
 - backups
 - linux
 - sistemas
+title: Sobre mi nueva infraestructura de backups
+url: /2019/09/11/sobre-mi-nueva-infraestructura-de-backups/
 ---
 
 Tengo dos ordenadores, `tiramisu` y `ede`. Uno va conmigo y el otro me espera en casa.

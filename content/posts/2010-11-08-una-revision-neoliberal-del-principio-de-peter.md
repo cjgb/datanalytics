@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-08 10:14:56+00:00
-draft: false
-title: Una revisión neoliberal del principio de Peter
-
-url: /2010/11/08/una-revision-neoliberal-del-principio-de-peter/
 categories:
 - consultoría
+date: 2010-11-08 10:14:56+00:00
+draft: false
+lastmod: '2025-04-06T18:53:18.338835'
+related:
+- 2018-10-05-licitaciones-por-insaculacion-ponderada.md
+- 2024-11-14-simpson-productividad.md
+- 2022-11-17-igualdad-oportunidades.md
+- 2023-01-26-educacion-tabarrok.md
+- 2011-06-06-la-tragedia-del-buen-rollito.md
 tags:
 - consultoría
+title: Una revisión neoliberal del principio de Peter
+url: /2010/11/08/una-revision-neoliberal-del-principio-de-peter/
 ---
 
 El premio [Ig-Nobel](http://es.wikipedia.org/wiki/Premio_Ig_Nobel) de Gestión del año 2010 se lo llevó un [equipo de investigadores de la Universidad de Catania](http://oldweb.ct.infn.it/cactus/peter_principle_sup_material.html) por un estudio sobre el [principio de Peter](http://es.wikipedia.org/wiki/Principio_de_Peter). Su formulación es la siguiente:

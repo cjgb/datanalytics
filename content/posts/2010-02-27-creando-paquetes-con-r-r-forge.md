@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-02-27 19:58:01+00:00
-draft: false
-title: 'Creando paquetes con R: r-forge'
-
-url: /2010/02/27/creando-paquetes-con-r-r-forge/
 categories:
 - estadística
 - r
+date: 2010-02-27 19:58:01+00:00
+draft: false
+lastmod: '2025-04-06T19:11:59.033533'
+related:
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2011-06-15-una-herramienta-para-construir-paquetes-de-r-sobre-windows.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
+- 2015-12-17-cran-r-devel-github-travis-ci-pruebas-automaticas-y-todo-eso.md
+- 2011-07-12-desarrollo-de-paquetes-con-r-iii-check-check-check.md
 tags:
 - estadística
 - r
 - programación
+title: 'Creando paquetes con R: r-forge'
+url: /2010/02/27/creando-paquetes-con-r-r-forge/
 ---
 
 Hace poco no asistí a una conferencia del profesor [Campo Elías Pardo](http://www.docentes.unal.edu.co/cepardot/) en la Universidad Nacional de Colombia sobre la creación de paquetes de R. Me penó no poder asistir porque sospeché primero y corroboré después que se había obviado en ella una herramienta muy útil para la creación de paquetes con R: la _[forja oficial](http://r-forge.r-project.org/)_.

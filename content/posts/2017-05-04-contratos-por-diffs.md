@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-05-04 08:13:29+00:00
-draft: false
-title: Contratos por diffs
-
-url: /2017/05/04/contratos-por-diffs/
 categories:
 - varios
+date: 2017-05-04 08:13:29+00:00
+draft: false
+lastmod: '2025-04-06T18:54:09.688376'
+related:
+- 2015-05-06-podra-que-significara-podra.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - contratos
 - varios
+title: Contratos por diffs
+url: /2017/05/04/contratos-por-diffs/
 ---
 
 Hace unos días recibí de mi banco una actualización del _contrato general de prestación de servicios_. El nuevo contrato es un PDF de 76 páginas, más largo y mucho más farragoso —diríase que redactado por abogados aficionados a Benet— que, por ejemplo, la vigente constitución española.

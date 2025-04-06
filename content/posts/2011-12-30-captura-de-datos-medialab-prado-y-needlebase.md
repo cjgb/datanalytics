@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-30 06:22:41+00:00
-draft: false
-title: Captura de datos, MediaLab Prado y NeedleBase
-
-url: /2011/12/30/captura-de-datos-medialab-prado-y-needlebase/
 categories:
 - números
+date: 2011-12-30 06:22:41+00:00
+draft: false
+lastmod: '2025-04-06T18:48:04.243451'
+related:
+- 2012-01-20-disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-prado.md
+- 2012-04-17-periodismo-de-datos-en-via52-com.md
+- 2011-11-22-grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid.md
+- 2013-04-15-tu-tasa-de-paro-en-medialab-prado.md
+- 2018-01-05-preludio-de-mas-por-venir.md
 tags:
 - datos abiertos
 - medialab prado
 - números
 - periodismo de datos
 - anuncio
+title: Captura de datos, MediaLab Prado y NeedleBase
+url: /2011/12/30/captura-de-datos-medialab-prado-y-needlebase/
 ---
 
 Ya he hablado en ocasiones anteriores en este foro de MediaLab Prado. Y también de los talleres que está realizando sobre periodismo de datos.

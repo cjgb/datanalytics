@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-02-18 09:34:57+00:00
-draft: false
-title: Divide y compararás
-
-url: /2011/02/18/divide-y-compararas/
 categories:
 - finanzas
 - números
+date: 2011-02-18 09:34:57+00:00
+draft: false
+lastmod: '2025-04-06T18:54:21.726934'
+related:
+- 2011-04-13-c2bfnos-leen-y-mas-en-el-pais.md
+- 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md
+- 2011-06-17-grandes-numeros.md
+- 2014-09-30-va-sobre-el-numero-de-palabras.md
+- 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md
 tags:
 - finanzas
 - números
+title: Divide y compararás
+url: /2011/02/18/divide-y-compararas/
 ---
 
 De este [artículo sobre Facebook ](http://seekingalpha.com/article/245157-betting-against-facebook) extraigo dos cifras:

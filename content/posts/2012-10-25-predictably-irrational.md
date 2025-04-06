@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-25 07:45:27+00:00
-draft: false
-title: '"Predictably irrational"'
-
-url: /2012/10/25/predictably-irrational/
 categories:
 - números
+date: 2012-10-25 07:45:27+00:00
+draft: false
+lastmod: '2025-04-06T18:46:08.028550'
+related:
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2013-02-20-si-lees-nudge-veras-las-cosas-de-otra-manera.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2023-06-27-seeing-like-market.md
 tags:
 - márketing
 - números
 - teoría de la decisión
 - arieli
+title: '"Predictably irrational"'
+url: /2012/10/25/predictably-irrational/
 ---
 
 Estoy terminando de leer [Predictably Irrational](http://en.wikipedia.org/wiki/Predictably_Irrational). Es un libro que recomiendo encarecidamente.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-01 07:47:11+00:00
-draft: false
-title: Micromuertes
-
-url: /2011/06/01/micromuertes/
 categories:
 - estadística
+date: 2011-06-01 07:47:11+00:00
+draft: false
+lastmod: '2025-04-06T18:50:54.939242'
+related:
+- 2020-05-19-micromuertes-y-coronavirus.md
+- 2012-01-30-hay-microvida-mas-alla-de-la-micromuerte.md
+- 2012-04-30-contar-c2bffacil.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - estadística
 - micromuertes
+title: Micromuertes
+url: /2011/06/01/micromuertes/
 ---
 
 En 2008 (último año publicado), en España, según el INE, 16.000 personas perfectamente sanas se levantaron una mañana como si tal y por la noche estaban en el tanatorio metidas en una caja de pino rodeadas de sollozantes deudos.

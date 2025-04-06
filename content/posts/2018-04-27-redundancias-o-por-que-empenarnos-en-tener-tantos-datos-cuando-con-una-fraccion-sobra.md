@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-27 08:13:47+00:00
-draft: false
-title: Redundancias (o por qué empeñarnos en tener tantos datos cuando con una fracción
-  sobra)
-
-url: /2018/04/27/redundancias-o-por-que-empenarnos-en-tener-tantos-datos-cuando-con-una-fraccion-sobra/
 categories:
 - estadística
+date: 2018-04-27 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T18:57:39.561351'
+related:
+- 2016-09-12-big-vs-small-data-en-estadistica-aplicada-aplicada.md
+- 2021-01-26-que-modelas-cuando-modelas.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - estadística
 - grados libertad
+title: Redundancias (o por qué empeñarnos en tener tantos datos cuando con una fracción
+  sobra)
+url: /2018/04/27/redundancias-o-por-que-empenarnos-en-tener-tantos-datos-cuando-con-una-fraccion-sobra/
 ---
 
 _[Esta entrada no contiene ni respuestas ni, tan siquiera, buenas preguntas. Solo vuelco en ella ideas más o menos inconexas que me rondan la cabeza. Tal vez alguien sepa reformularlas mejor, plantear la pregunta concreta que exige el asunto y, con suerte, responderla con claridad y distinción.]_

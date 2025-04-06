@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-12-10 07:39:16+00:00
-draft: false
-title: ¿Te queda lejos el aeropuerto?
-
-url: /2013/12/10/te-queda-lejos-el-aeropuerto/
 categories:
 - gráficos
 - r
+date: 2013-12-10 07:39:16+00:00
+draft: false
+lastmod: '2025-04-06T18:47:40.944009'
+related:
+- 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
+- 2024-03-12-dorling-cartograms.md
+- 2012-04-25-espana-c2bfradial-i.md
+- 2013-04-08-mapa-de-los-terremotos-en-la-peninsula-iberica.md
 tags:
 - aeropuertos
 - geosphere
 - mapas
 - r
 - sp
+title: ¿Te queda lejos el aeropuerto?
+url: /2013/12/10/te-queda-lejos-el-aeropuerto/
 ---
 
 He construido el mapa

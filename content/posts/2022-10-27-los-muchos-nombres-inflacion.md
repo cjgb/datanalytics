@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-10-27
-title: "Los muchos nombres de la inflación"
-
-url: /2022/10/27/los-muchos-nombres-inflacion/
 categories:
 - números
+date: 2022-10-27
+lastmod: '2025-04-06T19:10:41.470167'
+related:
+- 2022-01-27-inflacion-media.md
+- 2022-05-17-como-calcula-inflacion.md
+- 2021-11-24-medias-ponderadas-a-lo-uluru.md
+- 2012-07-30-no-es-pais-para-estadisticos.md
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
 tags:
 - inflación
 - números
+title: Los muchos nombres de la inflación
+url: /2022/10/27/los-muchos-nombres-inflacion/
 ---
 
 El IPC es el valor de una canasta arbitraria de bienes de consumo a la que en un momento arbitrario de la historia se le dio un precio arbitrario de 100.

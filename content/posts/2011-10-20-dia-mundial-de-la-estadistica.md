@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-20 07:33:10+00:00
-draft: false
-title: Día mundial de la estadística
-
-url: /2011/10/20/dia-mundial-de-la-estadistica/
 categories:
 - estadística
+date: 2011-10-20 07:33:10+00:00
+draft: false
+lastmod: '2025-04-06T18:52:22.792967'
+related:
+- 2012-02-27-desconfianza-en-la-estadistica-publica-argentina.md
+- 2024-04-18-estadistica-individuos.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2020-11-18-la-cocina-para-anumeristas-y-conspiranoicos.md
+- 2011-11-02-twain-grecia-pisa-cataluna-y-deontologia.md
 tags:
 - estadística
 - estadística pública
+title: Día mundial de la estadística
+url: /2011/10/20/dia-mundial-de-la-estadistica/
 ---
 
 Hoy día 20 de octubre celebramos el segundo día mundial de la estadística. También es el día mundial del chef, supongo que por casualidad.

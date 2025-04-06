@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-20 08:13:59+00:00
-draft: false
-title: No uses el test de Wilcoxon, nos dice Gelman
-
-url: /2015/07/20/no-uses-el-test-de-wilcoxon-nos-dice-gelman/
 categories:
 - estadística
+date: 2015-07-20 08:13:59+00:00
+draft: false
+lastmod: '2025-04-06T18:49:42.693313'
+related:
+- 2022-06-28-que-hace-avanzar-la-estadistica.md
+- 2019-02-11-auc-wilcoxon.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2017-12-18-el-z-score-es-una-medida-inadecuada-de-la-perpejidad.md
+- 2010-11-23-nuestro-mandato-ordenar-y-simplificar.md
 tags:
 - stan
 - wilcoxon
 - gelman
+title: No uses el test de Wilcoxon, nos dice Gelman
+url: /2015/07/20/no-uses-el-test-de-wilcoxon-nos-dice-gelman/
 ---
 
 Andrew Gelman nos invita a [no usar más el test de Wilcoxon](http://andrewgelman.com/2015/07/13/dont-do-the-wilcoxon/).

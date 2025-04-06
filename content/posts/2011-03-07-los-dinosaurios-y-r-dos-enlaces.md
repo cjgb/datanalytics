@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-07 09:59:38+00:00
-draft: false
-title: 'Los dinosaurios y R: dos enlaces'
-
-url: /2011/03/07/los-dinosaurios-y-r-dos-enlaces/
 categories:
 - r
+date: 2011-03-07 09:59:38+00:00
+draft: false
+lastmod: '2025-04-06T18:58:39.503164'
+related:
+- 2011-10-27-oracle-r-enterprise.md
+- 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md
+- 2011-02-07-c2bfun-torpedo-bajo-la-linea-de-flotacion-de-sas.md
+- 2010-03-01-r-en-the-economist.md
+- 2011-12-09-bajo-el-capo-de-teradatar.md
 tags:
 - r
 - sas
 - sql
+title: 'Los dinosaurios y R: dos enlaces'
+url: /2011/03/07/los-dinosaurios-y-r-dos-enlaces/
 ---
 
 Quiero compartir con mis lectores dos enlaces relacionados. Puede que a alguno le interese su sustancia misma. A mí no tanto. A mí me interesan en cuanto que ilustran la emergencia de R y el papel protagónico que está asumiendo en el _universo de las cosas analíticas_. Tan protagónico que hasta dos viejos dinosaurios pasan voluntariamente por su aro.

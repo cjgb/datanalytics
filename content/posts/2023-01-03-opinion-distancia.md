@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-03
-title: 'Variaciones de la opinión sobre fenómenos pretéritos'
-
-url: /2023/01/03/opinion-distancia/
 categories:
 - números
+date: 2023-01-03
+lastmod: '2025-04-06T18:49:51.374276'
+related:
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
 tags:
 - números
 - encuestas
 - opinión
+title: Variaciones de la opinión sobre fenómenos pretéritos
+url: /2023/01/03/opinion-distancia/
 ---
 
 Los fabricantes de encuestas suelen estudiar opinión de la ciudadanía acerca de un fenómeno futuro: unas elecciones, etc. Esas opiniones suelen variar en el tiempo, dando lugar a los sesudos análisis que nos regala la prensa habitual.

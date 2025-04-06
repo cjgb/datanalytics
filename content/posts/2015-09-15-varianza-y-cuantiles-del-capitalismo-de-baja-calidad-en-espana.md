@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-15 08:13:38+00:00
-draft: false
-title: Varianza y cuantiles (del capitalismo de baja calidad en España)
-
-url: /2015/09/15/varianza-y-cuantiles-del-capitalismo-de-baja-calidad-en-espana/
 categories:
 - números
+date: 2015-09-15 08:13:38+00:00
+draft: false
+lastmod: '2025-04-06T18:54:38.197635'
+related:
+- 2020-03-25-cuantificacion-y-riesgo.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
 tags:
 - cuantil
 - números
 - varianza
+title: Varianza y cuantiles (del capitalismo de baja calidad en España)
+url: /2015/09/15/varianza-y-cuantiles-del-capitalismo-de-baja-calidad-en-espana/
 ---
 
 Uno de los argumentos más habitualmente esgrimidos en contra del capitalismo es su caracter _cíclico_. Cuando dicen cíclico, entiendo, quieren decir aleatorio (¿quién sabe predecir los _ciclos_?). Eso no sé si lo hace, en la terminología de Taleb, frágil o antifrágil. En cualquier caso, uno de los objetivos de quienes llevan las riendas de la política económica es embridar la aleatoriedad con, por ejemplo, medidas anticíclicas.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-02 09:28:36+00:00
-draft: false
-title: ¿Tartas? No gracias
-
-url: /2011/03/02/tartas-no-gracias/
 categories:
 - estadística
+date: 2011-03-02 09:28:36+00:00
+draft: false
+lastmod: '2025-04-06T19:11:43.760614'
+related:
+- 2021-07-01-la-miseria-de-la-sicologia-de-la-percepcion.md
+- 2011-01-05-1139.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2011-03-22-graficos-i-introduccion.md
 tags:
 - estadística
 - excel
 - gráficos
 - tartas
+title: ¿Tartas? No gracias
+url: /2011/03/02/tartas-no-gracias/
 ---
 
 Voy a dejar aquí escrito mi argumento. Para que conste. Para tener que repetirlo cada vez que un _exceladicto_ osa objetar. Por pereza. Para no tener sino que dar el enlace y pasar a otra cosa. Porque vamos para la primavera y es mejor dedicar el tiempo a cosas mejores que a dar vueltas sobre el mismo asunto.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-10 07:12:00+00:00
-draft: false
-title: 741 millones de barriles de petróleo, ¿mucho o poco?
-
-url: /2011/11/10/741-millones-de-barriles-de-petroleo-mucho-o-poco/
 categories:
 - números
+date: 2011-11-10 07:12:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:28.422604'
+related:
+- 2011-01-12-el-precio-del-petroleo-reflejo-del-anumerismo-de-la-prensa.md
+- 2011-05-20-problema-de-la-semana-sobre-la-media.md
+- 2012-11-14-anumerismo-en-los-medios-y-seudoperiodismo-de-datos.md
+- 2013-08-14-tres-grandes-numeros-con-enmienda.md
+- 2011-04-29-c2bfcuanto-cuesta-criar-un-buey.md
 tags:
 - números
 - petróleo
 - energía
 - argentina
+title: 741 millones de barriles de petróleo, ¿mucho o poco?
+url: /2011/11/10/741-millones-de-barriles-de-petroleo-mucho-o-poco/
 ---
 
 Nos amaneció el otro día la prensa con la noticia de que [Repsol YPF ha descubierto 741 millones de barriles de petróleo en Argentina](https://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/repsol-ypf-confirms-giant-oil-find-in-argentina/article4097616/). De hecho, periódicamente se realizan hallazgos de mayor o menor cuantía.

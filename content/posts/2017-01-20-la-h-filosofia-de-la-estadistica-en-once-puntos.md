@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-20 08:13:22+00:00
-draft: false
-title: La h-filosofía de la estadística en once puntos
-
-url: /2017/01/20/la-h-filosofia-de-la-estadistica-en-once-puntos/
 categories:
 - estadística
+date: 2017-01-20 08:13:22+00:00
+draft: false
+lastmod: '2025-04-06T19:06:50.963986'
+related:
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2024-09-24-cortos-stats.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2022-06-28-que-hace-avanzar-la-estadistica.md
 tags:
 - estadística
 - estadística bayesiana
 - hmisc
+title: La h-filosofía de la estadística en once puntos
+url: /2017/01/20/la-h-filosofia-de-la-estadistica-en-once-puntos/
 ---
 
 * La estadística tiene que estar totalmente integrada en la investigación: el diseño experimental es fundamental.

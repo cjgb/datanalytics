@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-10 23:10:48+00:00
-draft: false
-title: ¡Hasta Microsoft!
-
-url: /2010/05/10/hasta-microsoft/
 categories:
 - r
+date: 2010-05-10 23:10:48+00:00
+draft: false
+lastmod: '2025-04-06T18:56:42.181986'
+related:
+- 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
+- 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md
+- 2015-01-28-la-profesionalizacion-de-r.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 tags:
 - r
 - microsoft
+title: ¡Hasta Microsoft!
+url: /2010/05/10/hasta-microsoft/
 ---
 
 El otro día incurrí de nuevo en la tan habitual como aburridora conversación acerca del papel que pueda jugar R en la empresa; más propiamente, tal vez, en determinadas áreas de determinadas empresas.

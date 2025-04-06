@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-11 08:13:45+00:00
-draft: false
-title: 'La falacia del fiscal: la/mi mejor explicación para profanos hasta la fecha'
-
-url: /2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/
 categories:
 - probabilidad
+date: 2018-09-11 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T18:46:55.500899'
+related:
+- 2024-10-08-cortos-stats.md
+- 2021-06-08-sobre-el-llamado-efecto-roseto.md
+- 2012-03-12-estrenos-con-ecos-estadisticos-ii-contagio.md
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md
 tags:
 - falacias
 - fiscal
+title: 'La falacia del fiscal: la/mi mejor explicación para profanos hasta la fecha'
+url: /2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/
 ---
 
 Leyendo [_The Tiger That Isn't_](https://en.wikipedia.org/wiki/The_Tiger_That_Isn't) di con una manera alternativa para explicar la llamada falacia del fiscal de la que ya me he ocupado [aquí](https://www.datanalytics.com/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/) y [aquí](https://www.datanalytics.com/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/).
@@ -32,4 +38,3 @@ Pero para condenar a la antena (y remito a mis entradas anteriores para los deta
 **Nota final:** Pero, ¡ay!, [John Snow](https://en.wikipedia.org/wiki/John_Snow) (el otro John Snow será siempre _el otro John Snow_ en este blog) hizo lo mismo y ahora es considerado un pionero de la epidemiología.
 
 ![](/wp-uploads/2018/09/cholera.jpg)
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-11-03 08:13:51+00:00
-draft: false
-title: Esta tarde doy un curso abierto y gratuito de introducción a la programación
-
-url: /2015/11/03/esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion/
 categories:
 - cursos
+date: 2015-11-03 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T19:09:33.726666'
+related:
+- 2015-04-21-programa-profesional-de-iniciacion-a-r.md
+- 2012-06-01-curso-de-r-gratuito-no-presencial.md
+- 2016-04-13-quieres-aprender-r-matriculate-en-mi-curso-en-kschool.md
+- 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md
+- 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md
 tags:
 - anuncio
 - cursos
 - kschool
+title: Esta tarde doy un curso abierto y gratuito de introducción a la programación
+url: /2015/11/03/esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion/
 ---
 
 Efectivamente, esta tarde doy un curso de unas tres horas de introducción a la programación. Es gratuito y está abierto a quien quiera pasarse (hasta completar aforo). Será en las [oficinas de KSchool](https://www.google.es/maps/place/KSchool/) de 18:30 a 21:00. Los interesados pueden escribir a `elsa.duran en kschool punto com` para reservar la plaza.

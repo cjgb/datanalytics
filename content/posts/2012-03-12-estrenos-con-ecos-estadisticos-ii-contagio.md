@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-12 07:44:21+00:00
-draft: false
-title: 'Estrenos con ecos estadísticos (II): Contagio'
-
-url: /2012/03/12/estrenos-con-ecos-estadisticos-ii-contagio/
 categories:
 - estadística
 - números
+date: 2012-03-12 07:44:21+00:00
+draft: false
+lastmod: '2025-04-06T19:02:45.760819'
+related:
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
+- 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
+- 2020-05-07-coronavirus-cualitativo.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - estadística
 - números
 - vacunas
+title: 'Estrenos con ecos estadísticos (II): Contagio'
+url: /2012/03/12/estrenos-con-ecos-estadisticos-ii-contagio/
 ---
 
 La [otra de las películas](http://www.datanalytics.com/2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/) que vi durante mis vacaciones en que resonaban ecos estadísticos fue [Contagio](http://es.wikipedia.org/wiki/Contagio). Como casi todas las películas, personaliza. Y es que a la gente le gusta ver caras. Así nos cuenta la historia de una rubia, su marido, su hija, etc. Excipiente lacrimógeno.

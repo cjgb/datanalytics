@@ -1,21 +1,27 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-26 08:13:21+00:00
-draft: false
-title: 'Charla: las *-metrías en la práctica de la ciencia de datos: el papel de la
-  teoría'
-
-url: /2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/
 categories:
 - anuncio
 - charlas
 - estadística
+date: 2018-01-26 08:13:21+00:00
+draft: false
+lastmod: '2025-04-06T18:51:40.430895'
+related:
+- 2018-11-28-charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2020-11-02-distancias-i-el-planteamiento-del-problema.md
+- 2017-09-25-charla-en-pamplona.md
+- 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
 tags:
 - anuncio
 - charlas
 - econometría
 - estadística
 - kschool
+title: 'Charla: las *-metrías en la práctica de la ciencia de datos: el papel de la
+  teoría'
+url: /2018/01/26/charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria/
 ---
 
 El próximo 8 de febrero daré una charla dentro del ciclo de [_Data Konferences_](http://kschool.com/blog/eventos/kschool-convoca-las-primeras-data-konferences/).

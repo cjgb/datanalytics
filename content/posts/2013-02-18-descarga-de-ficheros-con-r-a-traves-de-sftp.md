@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-18 07:34:27+00:00
-draft: false
-title: Descarga de ficheros con R a través de sftp
-
-url: /2013/02/18/descarga-de-ficheros-con-r-a-traves-de-sftp/
 categories:
 - r
+date: 2013-02-18 07:34:27+00:00
+draft: false
+lastmod: '2025-04-06T19:12:49.565698'
+related:
+- 2014-11-12-descargar-ficheros-gz-detras-de-https-con-r.md
+- 2016-04-04-tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server.md
+- 2016-04-01-redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server.md
+- 2013-04-04-textconnection-y-ficheros-anonimos.md
+- 2015-04-10-restauracion-de-ficheros-bak-sin-windows.md
 tags:
 - r
+title: Descarga de ficheros con R a través de sftp
+url: /2013/02/18/descarga-de-ficheros-con-r-a-traves-de-sftp/
 ---
 
 Llevo lo que parece un siglo sin escribir en estas páginas. Y es que, en gran parte, el nuevo [curso de R](http://cursorbasico2.usar.org.es/) me consume. Y también otros asuntos jugosos y relacionados con R que iré, sin duda, desgranando en futuras, aunque previsiblemente más esporádicas, entradas.
@@ -26,4 +32,3 @@ fichero <- getURL("sftp://usuario:contraseña@máquina/home/bla/bla/bla/fichero.
 * su contraseña,
 * la máquina donde reside el fichero (mediante su nombre o su IP) y, finalmente,
 * la ruta que conduce a él.
-

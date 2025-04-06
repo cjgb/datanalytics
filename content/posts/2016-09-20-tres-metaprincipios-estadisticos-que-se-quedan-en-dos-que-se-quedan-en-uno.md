@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-20 08:13:23+00:00
-draft: false
-title: Tres metaprincipios estadísticos que se quedan en dos que se quedan en uno
-
-url: /2016/09/20/tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno/
 categories:
 - estadística
+date: 2016-09-20 08:13:23+00:00
+draft: false
+lastmod: '2025-04-06T18:58:48.089141'
+related:
+- 2018-10-17-los-tres-retos-de-la-inferencia-estadistica.md
+- 2016-10-19-recetas-y-principios.md
+- 2024-10-17-interpretacion-modelos.md
+- 2017-01-24-las-tres-o-cuatro-eras-de-la-estadistica.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 tags:
 - estadística
 - información
 - modelización
+title: Tres metaprincipios estadísticos que se quedan en dos que se quedan en uno
+url: /2016/09/20/tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno/
 ---
 
 [Son](http://www.stat.columbia.edu/~gelman/research/published/gelman_discussion_of_efron.pdf):
@@ -20,4 +26,3 @@ tags:
 3. Y otro más que no acabo de entender del todo; o tal vez sí pero que no veo como encajar aquí.
 
 Esos dos principios, tal vez a causa de mi actual _estado epistemológico_, los dejaría solo en el primero. Tenedlo en cuenta.
-

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-02 08:12:25+00:00
-draft: false
-title: ¿Creer o no creer?
-
-url: /2012/04/02/creer-o-no-creer/
 categories:
 - estadística
 - números
+date: 2012-04-02 08:12:25+00:00
+draft: false
+lastmod: '2025-04-06T19:09:00.966601'
+related:
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
+- 2011-11-03-2872.md
+- 2014-11-04-dislexia-probabilistica.md
 tags:
 - encuestas
 - estadística
 - linux
 - números
+title: ¿Creer o no creer?
+url: /2012/04/02/creer-o-no-creer/
 ---
 
 El otro día me llegó por correo el [Informe sobre el Uso del Software Libre en los Hogares Españoles 2011](http://www.cenatic.es/dossier/panel-informe-hogar2011). Lo realiza el [CENATIC](http://www.cenatic.es/), Centro Nacional de Referencia de Aplicación de las Tecnologías de Información y la Comunicación basadas en Fuentes Abiertas, por lo que uno espera, de antemano, cierto sesgo.

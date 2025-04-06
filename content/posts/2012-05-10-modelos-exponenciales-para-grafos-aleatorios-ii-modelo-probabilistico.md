@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-10 06:46:30+00:00
-draft: false
-title: 'Modelos exponenciales para grafos aleatorios (II): modelo probabilístico'
-
-url: /2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/
 categories:
 - estadística
 - probabilidad
+date: 2012-05-10 06:46:30+00:00
+draft: false
+lastmod: '2025-04-06T19:05:02.265581'
+related:
+- 2012-05-09-modelos-exponenciales-para-grafos-aleatorios-i-motivacion.md
+- 2012-05-18-modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia.md
+- 2011-09-19-linked-de-barabasi-capitulo-i.md
+- 2016-02-26-hay-una-epidemia-en-mi-grafo.md
+- 2014-08-06-naive-bayes-como-red-bayesiana.md
 tags:
 - estadística
 - probabilidad
 - redes sociales
 - grafos
+title: 'Modelos exponenciales para grafos aleatorios (II): modelo probabilístico'
+url: /2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/
 ---
 
 Ayer dejamos abierto el [problema de la inferencia en grafos](http://www.datanalytics.com/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). La idea fundamental es la de suponer que un grafo determinado no es tanto _un grafo en sí_ como una realización de un proceso aleatorio de generación de aristas entre un determinado número de nodos.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-22 07:10:32+00:00
-draft: false
-title: Anonimidad y cantidad de información
-
-url: /2011/09/22/anonimidad-y-cantidad-de-informacion/
 categories:
 - estadística
 - números
+date: 2011-09-22 07:10:32+00:00
+draft: false
+lastmod: '2025-04-06T18:51:29.795418'
+related:
+- 2013-02-06-anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol.md
+- 2013-10-08-sexo-deporte-y-la-cantidad-de-informacion-mutua.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - anonimidad
 - estadística
 - números
+title: Anonimidad y cantidad de información
+url: /2011/09/22/anonimidad-y-cantidad-de-informacion/
 ---
 
 Juguemos a un juego: pienso el nombre de uno de los 45M de ciudadanos españoles y tenéis que acertarlo. Me podéis hacer preguntas, pero sólo de esas cuya respuesta es sí o no. ¿Cuántas preguntas deberíais hacerme?

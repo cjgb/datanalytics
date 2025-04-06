@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-09 07:07:57+00:00
-draft: false
-title: Hitler era comunista y judío
-
-url: /2011/05/09/hitler-era-comunista-y-judio/
 categories:
 - nlp
+date: 2011-05-09 07:07:57+00:00
+draft: false
+lastmod: '2025-04-06T18:54:04.371777'
+related:
+- 2023-10-05-llms-historia.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
 tags:
 - nlp
+title: Hitler era comunista y judío
+url: /2011/05/09/hitler-era-comunista-y-judio/
 ---
 
 O así nos cuenta Google. Y me explico rápidamente para que no me demande nadie.

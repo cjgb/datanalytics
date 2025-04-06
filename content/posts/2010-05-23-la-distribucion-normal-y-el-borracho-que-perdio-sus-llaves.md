@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-23 22:33:16+00:00
-draft: false
-title: La distribución normal y el borracho que perdió sus llaves
-
-url: /2010/05/23/la-distribucion-normal-y-el-borracho-que-perdio-sus-llaves/
 categories:
 - estadística
+date: 2010-05-23 22:33:16+00:00
+draft: false
+lastmod: '2025-04-06T19:07:55.996892'
+related:
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2023-09-19-curtosis-t-test.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - estadística
 - distribución normal
+title: La distribución normal y el borracho que perdió sus llaves
+url: /2010/05/23/la-distribucion-normal-y-el-borracho-que-perdio-sus-llaves/
 ---
 
 Leí una vez un chiste sobre estadísticos. Lo tengo, de hecho, en algún lugar de mi disco duro y prometo incluir una referencia a la fuente una vez lo ubique.

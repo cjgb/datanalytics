@@ -1,16 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-01-14
-title: 'Sobre los nombres de persona asociados a coeficientes intelectuales bajos y algunos otros asuntos más'
-url: /2025/01/14/cortos-estadística
 categories:
 - cortos
+date: 2025-01-14
+lastmod: '2025-04-06T18:53:39.258704'
+related:
+- 2024-06-12-cortos.md
+- 2025-02-25-cortos-stats.md
+- 2023-10-24-timesnet.md
+- 2025-02-11-cortos-llms.md
+- 2024-03-21-cortos.md
 tags:
 - gam
 - series temporales
 - llms
 - bulos
 - superpredictores
+title: Sobre los nombres de persona asociados a coeficientes intelectuales bajos y
+  algunos otros asuntos más
+url: /2025/01/14/cortos-estadística
 ---
 
 En [_Dear Political Scientists: Don't Bin, GAM Instead_](https://datacolada.org/121) se discute una ocurrencia concreta de una disyuntiva más general que aparece frecuentemente en la práctica: crear varios modelos simples con bloques diferentes de datos contra utilizar un modelo global flexible que englobe todos los datos. Tengo la sospecha de que se ha optado históricamente por la primera aproximación por motivos ---entre otros--- computacionales que ya no operan.

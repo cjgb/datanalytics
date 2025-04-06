@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-29 07:06:39+00:00
-draft: false
-title: ¿Cuánto cuesta criar un buey?
-
-url: /2011/04/29/cuanto-cuesta-criar-un-buey/
 categories:
 - números
+date: 2011-04-29 07:06:39+00:00
+draft: false
+lastmod: '2025-04-06T18:58:59.077403'
+related:
+- 2011-01-12-el-precio-del-petroleo-reflejo-del-anumerismo-de-la-prensa.md
+- 2011-11-10-741-millones-de-barriles-de-petroleo-c2bfmucho-o-poco.md
+- 2011-05-20-problema-de-la-semana-sobre-la-media.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2022-07-26-hueco-termico.md
 tags:
 - números
+title: ¿Cuánto cuesta criar un buey?
+url: /2011/04/29/cuanto-cuesta-criar-un-buey/
 ---
 
 Por ser viernes, por estar aún de vacaciones en un país famoso por sus vacas y porque mis lectores estén al tanto de [una bitácora que no hay que perderse](http://oilcrash.net/) —que es de la que extraigo las dos imágenes que aparecen a continuación—, va una de bueyes.

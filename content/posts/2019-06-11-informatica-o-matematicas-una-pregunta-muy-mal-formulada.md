@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-06-11 09:13:38+00:00
-draft: false
-title: ¿Informática o matemáticas? Una pregunta muy mal formulada
-
-url: /2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/
 categories:
 - ciencia de datos
+date: 2019-06-11 09:13:38+00:00
+draft: false
+lastmod: '2025-04-06T18:58:20.433776'
+related:
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
+- 2015-02-18-vernacularidades-no-gracias.md
+- 2019-07-02-aprender-deprisa-aprender-despacio.md
 tags:
 - ciencia de datos
 - formación
 - matemáticas
+title: ¿Informática o matemáticas? Una pregunta muy mal formulada
+url: /2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/
 ---
 
 {{< x user="victorianoi" id="1134367301703282688" >}}
@@ -43,6 +49,3 @@ Y si eres un chaval que está en bachillerato y planteándose qué estudiar para
 * Cuando acabes de estudiar, plantéate entrar a una consultora de las que pican carne de novato (Accenture o similares). Eso te expondrá a distintos negocios, distintas maneras de hacer las cosas, distintos puntos de vista, a todo lo que tiene que ver con incentivos y las excepciones a todas las reglas generales en que consiste la educación formal. Trabajarás lo que deberías trabajar haciendo un máster. Dormirás igual de poco que deberías dormir si hicieses un máster en condiciones. Pero te pagarán por ello y aprenderás más.
 
 Y luego, a los ventibastantes, te sientas un día a contemplar la puesta de sol a la sombra de un naranjo y piensa a ver si te convence eso de la ciencia de datos.
-
-
-

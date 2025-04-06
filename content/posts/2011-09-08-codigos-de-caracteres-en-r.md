@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-08 07:00:47+00:00
-draft: false
-title: Códigos de caracteres en R
-
-url: /2011/09/08/codigos-de-caracteres-en-r/
 categories:
 - r
+date: 2011-09-08 07:00:47+00:00
+draft: false
+lastmod: '2025-04-06T18:59:18.487717'
+related:
+- 2011-09-06-codigos-de-caracteres-unicode-y-utf-8.md
+- 2013-03-04-cortar-una-cadena-por-un-caracter-solo-cuando-no-forme-parte-de-una-subcadena-entrecomillada.md
+- 2023-04-20-dejar-morir-pxr.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2017-02-20-probando-hunspell-para-el-procesamiento-de-texto-en-espanol.md
 tags:
 - programación
 - r
+title: Códigos de caracteres en R
+url: /2011/09/08/codigos-de-caracteres-en-r/
 ---
 
 Esta entrada acompaña y remata para los usuarios de R la que escribí en general sobre los [códigos de caracteres](http://www.datanalytics.com/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/). Es un pequeño experimento en el que comparo lo que pasa al leer un fichero de texto codificado de dos maneras distintas en dos plataformas, Linux y Windows, que usan códigos de caracteres distintos.

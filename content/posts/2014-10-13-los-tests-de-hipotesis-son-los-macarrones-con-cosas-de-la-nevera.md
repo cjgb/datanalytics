@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-13 07:13:29+00:00
-draft: false
-title: Los tests de hipótesis son los macarrones "con cosas de la nevera"
-
-url: /2014/10/13/los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera/
 categories:
 - estadística
+date: 2014-10-13 07:13:29+00:00
+draft: false
+lastmod: '2025-04-06T18:46:59.561018'
+related:
+- 2016-02-29-los-tres-contraargumentos-habituales.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2024-09-24-cortos-stats.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
 - estadística
 - grandes datos
 - regresión logística
+title: Los tests de hipótesis son los macarrones "con cosas de la nevera"
+url: /2014/10/13/los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera/
 ---
 
 Todos hemos comido macarrones _con cosas de la nevera_. Estás en casa, tienes hambre y, si no hay otra cosa, son estupendos. Distinto es ir a un bodorrio de alto copete y decirle al camarero:

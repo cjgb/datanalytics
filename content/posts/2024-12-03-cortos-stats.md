@@ -1,16 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-03
-title: 'Seis asuntos sobre modelización estadística, incluyendo un problema que no parece del todo trivial'
-url: /2024/12/03/cortos-estadística
 categories:
 - cortos
+date: 2024-12-03
+lastmod: '2025-04-06T19:06:31.492897'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
 tags:
 - estadística
 - catboost
 - censura
 - clústering
 - modelización
+title: Seis asuntos sobre modelización estadística, incluyendo un problema que no
+  parece del todo trivial
+url: /2024/12/03/cortos-estadística
 ---
 
 ### Sobre catboost
@@ -54,5 +62,3 @@ Me recuerda mucho a
 [lo que escribí hace unos meses sobre la causalidad](/2024/09/10/causalidad/)
 [esto](https://statmodeling.stat.columbia.edu/2024/11/13/make-a-hypothesis-about-what-you-expect-to-see-every-step-of-the-way-a-manifesto/)
 que nos trae Andrew Gelman acerca del proceso del análisis estadístico, la construcción de modelos, gráficos, etc.
-
-

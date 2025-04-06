@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-21 08:13:19+00:00
-draft: false
-title: A mayor efecto (sobre todo, si es novedoso), mayor escepticismo
-
-url: /2018/03/21/a-mayor-efecto-sobre-todo-si-es-novedoso-mayor-escepticismo/
 categories:
 - estadística
 - números
+date: 2018-03-21 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T18:50:23.605125'
+related:
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2024-01-09-regresiones_pisa.md
 tags:
 - artículos
 - efectos
 - estadística
+title: A mayor efecto (sobre todo, si es novedoso), mayor escepticismo
+url: /2018/03/21/a-mayor-efecto-sobre-todo-si-es-novedoso-mayor-escepticismo/
 ---
 
 El [NYT resume un artículo recentísimo](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html) sobre esas cosas que preocupan tanto en EE.UU. y que viene a decir, en términos sucintísimos, lo siguiente:

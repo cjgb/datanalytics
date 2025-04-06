@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-06-05 09:13:59+00:00
-draft: false
-title: Causalidad. Atribución. Madrid Central.
-
-url: /2019/06/05/causalidad-atribucion-madrid-central/
 categories:
 - estadística
 - números
+date: 2019-06-05 09:13:59+00:00
+draft: false
+lastmod: '2025-04-06T19:13:19.255955'
+related:
+- 2018-12-03-sobre-madrid-central.md
+- 2019-10-18-el-modelo-son-las-conclusiones.md
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
 tags:
 - atribución
 - ayuntamiento
 - causalidad
 - contaminación
 - madrid
+title: Causalidad. Atribución. Madrid Central.
+url: /2019/06/05/causalidad-atribucion-madrid-central/
 ---
 
 Si hay algo inaprensible, es la causalidad. No la que entiende Maripili, claro, sino [esta](https://www.inference.vc/untitled/). Pero vivimos en tiempos de tremendamente polémicas y presuntamente potentísimas y causas eficientes. Verbigracia, la desigualdad... y Madrid Central:

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-12-05 09:13:00+00:00
-draft: false
-title: Ser científico de datos, ¿puede ser menos sexi de lo que te han contado?
-
-url: /2019/12/05/ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado/
 categories:
 - ciencia de datos
+date: 2019-12-05 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:07:42.952557'
+related:
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2023-10-19-errores-chatgpt.md
+- 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2016-10-11-el-rmse-es-dios-y-xgboost-su-profeta.md
 tags:
 - automl
 - ciencia de datos
 - consultoría
 - prensa
 - retina
+title: Ser científico de datos, ¿puede ser menos sexi de lo que te han contado?
+url: /2019/12/05/ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado/
 ---
 
 Puede que sí, pero no por [las razones expuestas en Retina](https://retina.elpais.com/retina/2019/11/29/innovacion/1575037699_308141.html).

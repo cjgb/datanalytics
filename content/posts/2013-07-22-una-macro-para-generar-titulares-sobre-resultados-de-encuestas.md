@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-07-22 07:28:00+00:00
-draft: false
-title: Una macro para generar titulares sobre resultados de encuestas
-
-url: /2013/07/22/una-macro-para-generar-titulares-sobre-resultados-de-encuestas/
 categories:
 - estadística
+date: 2013-07-22 07:28:00+00:00
+draft: false
+lastmod: '2025-04-06T18:49:07.682301'
+related:
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
 tags:
 - encuestas
 - estadística
 - periodismo de datos
+title: Una macro para generar titulares sobre resultados de encuestas
+url: /2013/07/22/una-macro-para-generar-titulares-sobre-resultados-de-encuestas/
 ---
 
 Tropecé el otro día con [un artículo en el NYT](http://www.nytimes.com/2013/07/13/world/europe/spains-real-crisis-is-a-leadership-void-analysts-say.html) del que reproduzco (incluido el enlace) un párrafo:

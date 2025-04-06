@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-08 07:13:36+00:00
-draft: false
-title: Tres citas para los amantes del análisis de datos públicos
-
-url: /2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/
 categories:
 - anuncio
+date: 2014-09-08 07:13:36+00:00
+draft: false
+lastmod: '2025-04-06T18:52:18.077934'
+related:
+- 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
+- 2014-07-21-maddata-dataton-de-datos-abiertos.md
+- 2013-04-15-tu-tasa-de-paro-en-medialab-prado.md
+- 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
+- 2015-01-29-hackaton-de-datos-abiertos-21-de-febrero-en-madrid.md
 tags:
 - datos abiertos
 - datos públicos
 - periodismo de datos
+title: Tres citas para los amantes del análisis de datos públicos
+url: /2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/
 ---
 
 En estos días van a celebrarse tres eventos (de los que tengo noticia) relacionados con el análisis de datos. El primero es la [Segunda Edición del Taller de Periodismo de Datos](http://medialab-prado.es/article/iitallerdeperiodismodedatosconvocatoriadeproyectos), en Madrid. Extraigo de su convocatoria lo siguiente:

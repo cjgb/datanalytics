@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-29 07:47:26+00:00
-draft: false
-title: Una revisita a "El arte funcional"
-
-url: /2013/08/29/una-revisita-a-el-arte-funcional/
 categories:
 - gráficos
+date: 2013-08-29 07:47:26+00:00
+draft: false
+lastmod: '2025-04-06T18:52:04.063556'
+related:
+- 2012-09-12-el-arte-funcional-una-revision-personal.md
+- 2014-03-11-beautiful-evidence-de-tufte.md
+- 2011-11-24-videos-de-las-charlas-de-alberto-cairo-y-alberto-alcaraz.md
+- 2021-07-01-la-miseria-de-la-sicologia-de-la-percepcion.md
+- 2023-07-13-convenciones-graficas.md
 tags:
 - gráficos
 - libros
 - kahneman
 - tversky
 - cairo
+title: Una revisita a "El arte funcional"
+url: /2013/08/29/una-revisita-a-el-arte-funcional/
 ---
 
 Hace casi precisamente un año escribí sobre [El Arte Funcional](http://www.datanalytics.com/2012/09/12/el-arte-funcional-una-revision-personal/), un libro muy recomendable de Alberto Cairo.

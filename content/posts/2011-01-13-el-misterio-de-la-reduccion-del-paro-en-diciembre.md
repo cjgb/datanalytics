@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-13 09:24:51+00:00
-draft: false
-title: El misterio de la reducción del paro en diciembre
-
-url: /2011/01/13/el-misterio-de-la-reduccion-del-paro-en-diciembre/
 categories:
 - números
+date: 2011-01-13 09:24:51+00:00
+draft: false
+lastmod: '2025-04-06T18:48:34.132945'
+related:
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2024-01-30-indicadores-economicos.md
 tags:
 - números
 - paro
+title: El misterio de la reducción del paro en diciembre
+url: /2011/01/13/el-misterio-de-la-reduccion-del-paro-en-diciembre/
 ---
 
 Hace poco nos contaron que el [paro había descendido en España en 10.000 personas durante el mes de diciembre](http://www.nuevatribuna.es/noticia/43950/ECONOM%C3%8DA/paro-baja-diciembre-10221-personas.html). Son dos las cosas sorprendentes alrededor de la noticia:

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-12 12:07:23+00:00
-draft: false
-title: Estadísticas de incendios forestales en España
-
-url: /2011/12/12/estadisticas-de-incendios-forestales-en-espana/
 categories:
 - gráficos
 - números
+date: 2011-12-12 12:07:23+00:00
+draft: false
+lastmod: '2025-04-06T18:47:06.387733'
+related:
+- 2012-08-14-incendios-en-espana.md
+- 2015-03-30-datos-datos-datos-pero-que-datos.md
+- 2012-07-20-deshaucios-en-espana-y-su-estructura-geografica.md
+- 2015-08-04-estamos-todos-anumericos-o-que.md
+- 2012-09-05-los-principales-problemas-de-espana.md
 tags:
 - datos abiertos
 - graficaca
 - gráficos
 - números
+title: Estadísticas de incendios forestales en España
+url: /2011/12/12/estadisticas-de-incendios-forestales-en-espana/
 ---
 
 El Ministerio de Medio Ambiente recoge [estadísticas sobre incendios forestales](http://www.marm.es/es/biodiversidad/temas/defensa-contra-incendios-forestales/estadisticas-de-incendios-forestales/). Lo hace, por así decirlo, a la vieja usanza:

@@ -1,20 +1,27 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-27 09:13:01+00:00
-draft: false
-title: Sobre la (necesaria) validación a posteriori de modelos de caja negra
-
-url: /2019/03/27/sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra/
 categories:
 - ciencia de datos
 - estadística
+date: 2019-03-27 09:13:01+00:00
+draft: false
+lastmod: '2025-04-06T19:04:43.610055'
+related:
+- 2023-03-02-conformal-prediction.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2020-06-12-explicacion-de-modelos.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - aprendizaje automático
 - ciencia de datos
 - dalex
 - estadística
 - modelos
+title: Sobre la (necesaria) validación a posteriori de modelos de caja negra
+url: /2019/03/27/sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra/
 ---
+
 Esta entrada viene a cuento de una conversación que tuve el otro día con un economista _clásico_ que me preguntaba mi opinión sobre los métodos del ML aplicados en su disciplina (y no solo en ella). Le causaba cierto desasosiego, muy razonable, el hecho de que le pusieran delante cajas negras que _presuntamente_, y eso era artículo de fe, predecían ciertos fenómenos macroeconómicos. ¿Qué ---decía--- si los modelos están recogiendo las correlaciones erróneas? (Y sí, el mundo del ML está plagado de casos de ese tipo; por ejemplo, léase la motivación de _[Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)_).
 
 Típicamente, tradicionalmente, uno define un modelo (digamos que generativo) con una serie de variables de las que uno espera un comportamiento predefinido, etc. Y  uno valida el modelo en términos de la bondad de ajuste, la capacidad predictiva... pero no solo eso. El hecho de que las variables (su tamaño, su signo) operen de la manera esperada sirve como comprobación adicional para poder darlo por bueno.

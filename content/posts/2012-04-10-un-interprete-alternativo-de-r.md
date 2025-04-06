@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-10 06:56:04+00:00
-draft: false
-title: Un intérprete alternativo de R
-
-url: /2012/04/10/un-interprete-alternativo-de-r/
 categories:
 - r
+date: 2012-04-10 06:56:04+00:00
+draft: false
+lastmod: '2025-04-06T18:58:55.509972'
+related:
+- 2012-09-27-ejemplos-sobre-como-usar-r-desde-sas-a-traves-de-iml.md
+- 2021-07-14-mi-apuesta-para-el-larguisimo-plazo-julia.md
+- 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2011-05-24-se-buscan-alpha-testers-para-rpython.md
 tags:
 - java
 - r
 - sas
 - wps
+title: Un intérprete alternativo de R
+url: /2012/04/10/un-interprete-alternativo-de-r/
 ---
 
 Java es un lenguaje de programación que puede ejecutarse sobre muchas máquinas virtuales distintas: la de Sun, la de IBM, etc. Algo parecido pasa con SAS, que puede ejecutarse sobre el intérprete de SAS Institute o sobre el de [WPS](http://www.datanalytics.com/2010/08/12/ya-has-considerado-pasarte-a-wps/).

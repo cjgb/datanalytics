@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-13 08:13:31+00:00
-draft: false
-title: Mezclas y regularización
-
-url: /2019/03/13/mezclas-y-regularizacion/
 categories:
 - ciencia de datos
 - estadística
+date: 2019-03-13 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T19:11:51.504207'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2019-04-10-un-resultado-contraintuitivo.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
 tags:
 - estadística
 - lasso
 - mezclas
 - regularización
 - regresión ridge
+title: Mezclas y regularización
+url: /2019/03/13/mezclas-y-regularizacion/
 ---
 
 Cuando mezclas agua y tierra obtienes barro, una sustancia que comparte propiedades de sus ingredientes. Eso lo tenía muy claro de pequeño. Lo que en esa época me sorprendió mucho es que el agua fuese una _mezcla_ de oxígeno e hidrógeno: ¡era muy distinta de sus componentes!
@@ -38,6 +44,3 @@ donde los valores $latex b_j = 0$ corresponden a los coeficientes del modelo nul
 **Nota final:** todo lo discutido aquí es un corolario tonto de la reformulación bayesiana de la cuestión. Pero esa es otra historia.
 
 **Addenda:** Véase [esto](http://www.datanalytics.com/2019/04/10/un-resultado-contraintuitivo/) donde se retoma la discusión y se llega a una conclusión muy contraintuitiva.
-
-
-

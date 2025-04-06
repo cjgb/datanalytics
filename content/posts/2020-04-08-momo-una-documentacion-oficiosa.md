@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-08 09:13:00+00:00
-draft: false
-title: 'MoMo: una documentación oficiosa'
-
-url: /2020/04/08/momo-una-documentacion-oficiosa/
 categories:
 - estadística
+date: 2020-04-08 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:47:01.757806'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2022-07-21-critica-critica-momo.md
+- 2020-03-12-monitorizacion-diaria-de-la-mortalidad.md
 tags:
 - isciii
 - modelos
 - mortalidad
+title: 'MoMo: una documentación oficiosa'
+url: /2020/04/08/momo-una-documentacion-oficiosa/
 ---
 
 Estos días se habla de [MoMo](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/MoMo.aspx) y por primera vez en quince años largos, el público está contemplando gráficas como

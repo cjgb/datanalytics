@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-01-09
-title: "Inmigración y PISA: ¿en qué quedamos? (si es que merece la pena)"
-url: /2024/01/09/pisa-dos-regresiones/
 categories:
 - estadística
+date: 2024-01-09
+lastmod: '2025-04-06T18:47:48.018026'
+related:
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2014-04-23-demasiado-simple.md
+- 2023-01-26-educacion-tabarrok.md
+- 2016-12-07-enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es.md
+- 2011-11-02-twain-grecia-pisa-cataluna-y-deontologia.md
 tags:
 - regresión
 - pisa
 - estadística
 - educación
+title: 'Inmigración y PISA: ¿en qué quedamos? (si es que merece la pena)'
+url: /2024/01/09/pisa-dos-regresiones/
 ---
 
 ### I.

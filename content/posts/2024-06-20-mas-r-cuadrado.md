@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-06-20
-title: 'Más sobre las R² pequeñas'
-url: /2024/6/20/mas-r-cuadrado-pequenas
 categories:
 - estadística
+date: 2024-06-20
+lastmod: '2025-04-06T19:12:25.934901'
+related:
+- 2021-02-16-hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-rc2b2-baja-no-es-uno-de-ellos.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 tags:
 - regresión lineal
 - r cuadrado
+title: Más sobre las R² pequeñas
+url: /2024/6/20/mas-r-cuadrado-pequenas
 ---
 
 ### I.
@@ -72,6 +79,3 @@ Entonces, el modelo nos cuenta que el estado `x = 0` es (profundamente) demócra
 Este ejemplo está hermanado con esos en los que se confronta la significancia estadística y la no estadística. Podría decirse aquí también que la R² está _correlacionada_ con el concepto de interés extra-estadístico, pero que no está perfectamente identificado con él.
 
 Y, por supuesto, recuérdese [_Sobre las R² pequeñas y sus interpretaciones_](/2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/).
-
-
-

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-15 21:41:40+00:00
-draft: false
-title: Los portátiles, ¿objetos fálicos?
-
-url: /2010/03/15/los-portatiles-objetos-falicos/
 categories:
 - programación
+date: 2010-03-15 21:41:40+00:00
+draft: false
+lastmod: '2025-04-06T18:51:49.159840'
+related:
+- 2016-05-23-tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas.md
+- 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md
+- 2015-02-18-vernacularidades-no-gracias.md
+- 2019-06-04-feria-del-libro-2019.md
+- 2024-02-20-rolling-journal-sociology.md
 tags:
 - hardware
+title: Los portátiles, ¿objetos fálicos?
+url: /2010/03/15/los-portatiles-objetos-falicos/
 ---
 
 Yo siempre he creído que eso de los portátiles tiene algo de fálico. Ya no gastamos puñal ni espada. Ni escribimos con tachuelas _Biba mi dueño_ en el mango de navajas de valleinclanianas. Pero salimos a la calle con portátiles y los celamos (yo, al menos) como antaño se guardaban de la sucia mano ajena los afilados depositarios de la virilidad carpetovetónica.

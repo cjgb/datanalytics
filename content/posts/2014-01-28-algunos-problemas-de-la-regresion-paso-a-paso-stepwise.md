@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-28 08:58:55+00:00
-draft: false
-title: Algunos problemas de la regresión paso a paso ("stepwise")
-
-url: /2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/
 categories:
 - consultoría
 - estadística
+date: 2014-01-28 08:58:55+00:00
+draft: false
+lastmod: '2025-04-06T18:55:05.499649'
+related:
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2024-07-03-cortos-stats.md
 tags:
 - glm
 - stepwise
+title: Algunos problemas de la regresión paso a paso ("stepwise")
+url: /2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/
 ---
 
 Fueron problemas planteados por Frank Harrell, recopilados [aquí](http://www.stata.com/support/faqs/statistics/stepwise-regression-problems/) y ahora traducidos por mí para mi bitácora.

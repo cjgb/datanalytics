@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-10 07:07:47+00:00
-draft: false
-title: Guarjolización de fotos con R
-
-url: /2014/03/10/guarjolizacion-de-fotos-con-r/
 categories:
 - programación
 - gráficos
 - r
+date: 2014-03-10 07:07:47+00:00
+draft: false
+lastmod: '2025-04-06T19:05:56.131853'
+related:
+- 2014-08-01-coclustering-con-blockcluster.md
+- 2016-05-27-coordenadas-polares-por-doquier.md
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
+- 2015-03-24-compresion-con-svd.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
 tags:
 - clústering
 - fotos
 - imágenes
 - r
+title: Guarjolización de fotos con R
+url: /2014/03/10/guarjolizacion-de-fotos-con-r/
 ---
 
 Inspirado en [esto](http://aschinchon.wordpress.com/2014/03/03/warholing-grace-with-clara/) aunque con la intención de mejorar el horrible código adjunto, escribí el otro día esto:
@@ -56,4 +62,3 @@ Obviamente, podéis cambiar la foto y hacer variar el número de _clústers_. Pe
 
 * Es posible realizar manipulaciones de imágenes con R
 * Operar con matrices/arrays es generalmente mucho más rápido y eficiente que con _dataframes_, como hace el autor de la entrada original.
-

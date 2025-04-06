@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-13 07:36:38+00:00
-draft: false
-title: Causalidad y método científico en El País
-
-url: /2011/10/13/causalidad-y-metodo-cientifico-en-el-pais/
 categories:
 - estadística
 - finanzas
+date: 2011-10-13 07:36:38+00:00
+draft: false
+lastmod: '2025-04-06T18:52:29.513674'
+related:
+- 2025-03-11-cortos-causalidad.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2025-01-28-cortos-stats.md
+- 2024-01-16-causalidad-conocimiento.md
 tags:
 - causalidad
 - estadística
 - finanzas
 - causalidad
 - ciencia
+title: Causalidad y método científico en El País
+url: /2011/10/13/causalidad-y-metodo-cientifico-en-el-pais/
 ---
 
 A raíz de la concesión del último (mal llamado) premio Nobel de Economía, han aparecido publicados en el diario El País el artículo [_Un premio al método científico_](http://www.elpais.com/articulo/economia/premio/metodo/cientifico/elpepieco/20111011elpepieco_11/Tes) de Ramón Marimón y el reportaje _[Causa y efecto en la economía](http://www.elpais.com/articulo/economia/Causa/efecto/economia/elpepieco/20111011elpepieco_10/Tes)_, sorprendentes ambos tanto por el título como por el contenido. Creo que bien merecen el protoanálisis que sigue.

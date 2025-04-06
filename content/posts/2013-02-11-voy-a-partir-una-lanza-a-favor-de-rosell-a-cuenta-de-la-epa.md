@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-11 07:54:16+00:00
-draft: false
-title: Voy a partir una lanza a favor de Rosell a cuenta de la EPA
-
-url: /2013/02/11/voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa/
 categories:
 - estadística
 - números
+date: 2013-02-11 07:54:16+00:00
+draft: false
+lastmod: '2025-04-06T19:08:05.755254'
+related:
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2013-07-22-una-macro-para-generar-titulares-sobre-resultados-de-encuestas.md
+- 2012-09-20-como-votan-los-diputados.md
 tags:
 - epa
 - estadística pública
 - cis
+title: Voy a partir una lanza a favor de Rosell a cuenta de la EPA
+url: /2013/02/11/voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa/
 ---
 
 Voy a partir una lanza a favor de Rosell. Aunque algún colega luego me quiera fusilar. Espero que lo podamos discutir todo luego amigablemente sea acá o en otros foros igualmente civilizados.

@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-13 08:13:09+00:00
-draft: false
-title: Una cosa buena, una cosa mala
-
-url: /2019/02/13/una-cosa-buena-una-cosa-mala/
 categories:
 - ciencia de datos
 - r
+date: 2019-02-13 08:13:09+00:00
+draft: false
+lastmod: '2025-04-06T19:06:21.441485'
+related:
+- 2017-10-11-ropenspain-ahi-tiro-el-guante.md
+- 2018-06-12-un-aplauso-para-el-ine.md
+- 2020-04-28-mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2024-01-18-microdatoses-ultima-version.md
 tags:
 - apis
 - estadística pública
@@ -15,6 +19,8 @@ tags:
 - istac
 - paquetes
 - r
+title: Una cosa buena, una cosa mala
+url: /2019/02/13/una-cosa-buena-una-cosa-mala/
 ---
 
 Que son la misma: [esta](https://github.com/eDatos?tab=repositories).

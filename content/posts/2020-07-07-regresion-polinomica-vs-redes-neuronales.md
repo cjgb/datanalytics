@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-07 09:13:00+00:00
-draft: false
-title: Regresión polinómica vs redes neuronales
-
-url: /2020/07/07/regresion-polinomica-vs-redes-neuronales/
 categories:
 - artículos
 - ciencia de datos
+date: 2020-07-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:55:15.411192'
+related:
+- 2017-01-23-polinomios-monotonos.md
+- 2012-11-22-las-ocho-peores-tecnicas-analiticas.md
+- 2020-06-24-la-regresion-logistica-como-el-modelo-mas-simple-posible-que.md
+- 2020-01-09-regresiones-con-discontinuidad-y-grados-de-libertad.md
+- 2024-02-01-optimizacion-generalizacion.md
 tags:
 - artículos
 - polinomios
 - redes neuronales
+title: Regresión polinómica vs redes neuronales
+url: /2020/07/07/regresion-polinomica-vs-redes-neuronales/
 ---
 
 Hace un tiempo se publicó un artículo, _[Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/abs/1806.06850)_, que se anunciaba como lo que anuncia su título: que usar redes neuronales (clásicas, al menos), equivalía a hacer regresión polinómica.

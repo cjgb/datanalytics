@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-07-26
-title: 'El hueco térmico: una caracterización vía kmeans'
-description: 'Análisis del hueco térmico a través de un anállisis clúster'
-url: /2022/07/26/hueco-termico-kmeans/
 categories:
 - estadística
+date: 2022-07-26
+description: Análisis del hueco térmico a través de un anállisis clúster
+lastmod: '2025-04-06T19:10:53.638277'
+related:
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2012-03-29-otra-de-huelgas.md
 tags:
 - mercado eléctrico
 - kmeans
 - estadística
+title: 'El hueco térmico: una caracterización vía kmeans'
+url: /2022/07/26/hueco-termico-kmeans/
 ---
 
 El hueco térmico es una variable aleatoria que representa la necesidad de utilizar energía térmica tradicional y no renovable para abastecer el mercado eléctrico. Tiene dos fuentes principales de variabilidad:
@@ -148,4 +155,3 @@ ggplot(centers, aes(x = ts, y = value)) +
   scale_x_datetime(breaks = breaks_width("6 hour"),labels=date_format("%H:%M")) +
   theme_bw()
 {{< / highlight >}}
-

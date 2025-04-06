@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-11-07
-title: '¿A quién crees que van a votar tus vecinos?'
-url: /2024/11/07/votan-vecinos
 categories:
 - estadística
+date: 2024-11-07
+lastmod: '2025-04-06T18:49:04.371981'
+related:
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2020-10-30-mercados-de-apuestas-como-cobertura.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
 tags:
 - encuestas
 - elecciones
 - mercados de predicciones
+title: ¿A quién crees que van a votar tus vecinos?
+url: /2024/11/07/votan-vecinos
 ---
 
 La historia, telegráficamente, es así:

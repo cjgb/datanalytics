@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-08 08:13:23+00:00
-draft: false
-title: ¿Podría ser la solución que almas caritativas creasen viñetas espontáneamente?
-
-url: /2018/03/08/podria-ser-la-solucion-que-almas-caritativas-creasen-vinetas-espontaneamente/
 categories:
 - r
+date: 2018-03-08 08:13:23+00:00
+draft: false
+lastmod: '2025-04-06T18:44:46.298517'
+related:
+- 2019-04-05-simulacion-de-procesos-de-poisson-no-homogeneos-y-autoexcitados.md
+- 2019-01-31-hay-demasiados-paquetes-en-r.md
+- 2012-09-18-rdatamining-un-paquete-para-mineria-de-datos-con-r.md
+- 2015-06-24-busco-vinetista-para-microdatoses.md
+- 2024-06-26-cortos-r.md
 tags:
 - paquetes
 - r
 - viñetas
+title: ¿Podría ser la solución que almas caritativas creasen viñetas espontáneamente?
+url: /2018/03/08/podria-ser-la-solucion-que-almas-caritativas-creasen-vinetas-espontaneamente/
 ---
 
 Uno de los modelos más útiles potencialmente y que menos atención recibe es el de los modelos de conteos autoexcitados. Es decir, aquellos en los que un evento incrementa durante cierto tiempo la probabilidad de que ocurra otro. Creedme, ocurre así muy a menudo en muchas aplicaciones.

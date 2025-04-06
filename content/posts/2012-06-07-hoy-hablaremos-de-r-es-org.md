@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-07 06:40:17+00:00
-draft: false
-title: Hoy hablaremos de r-es.org
-
-url: /2012/06/07/hoy-hablaremos-de-r-es-org/
 categories:
 - r
+date: 2012-06-07 06:40:17+00:00
+draft: false
+lastmod: '2025-04-06T18:56:28.477774'
+related:
+- 2013-06-27-nos-ayudais-a-mejorar-r-es-org.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2014-06-23-grupo-de-usuarios-de-r-de-portugal.md
+- 2013-12-04-ayuda-de-r-en-espanol.md
+- 2017-10-11-ropenspain-ahi-tiro-el-guante.md
 tags:
 - r
+title: Hoy hablaremos de r-es.org
+url: /2012/06/07/hoy-hablaremos-de-r-es-org/
 ---
 
 Hoy voy a hablar del portal de la Comunidad R Hispano, [r-es.org](http://r-es.org/). Quiero aprovechar la inusitada popularidad de mi bitácora desde que se anunció el [curso básico de R](http://cursorbasico.usar.org.es/) para hacerlo.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-08
-title: 'Descuentos para RCTs algunos asuntos más'
-url: /2024/07/08/cortos-stats
 categories:
 - cortos
+date: 2024-07-08
+lastmod: '2025-04-06T19:08:07.869351'
+related:
+- 2024-05-27-cortos.md
+- 2022-04-05-intervenciones-buenistas.md
+- 2019-07-22-proporciones-pequenas-y-teoremas-de-imposibilidad.md
+- 2023-09-05-superforecasting.md
+- 2025-01-07-cortos-stats-causalidad.md
 tags:
 - regla de eldlin
 - rcts
 - teoremas de imposibilidad
 - prioris
+title: Descuentos para RCTs algunos asuntos más
+url: /2024/07/08/cortos-stats
 ---
-
 
 ### I.
 

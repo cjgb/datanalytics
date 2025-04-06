@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-10-17 08:13:59+00:00
-draft: false
-title: Probabilidades y probabilidades
-
-url: /2016/10/17/probabilidades-y-probabilidades/
 categories:
 - probabilidad
+date: 2016-10-17 08:13:59+00:00
+draft: false
+lastmod: '2025-04-06T18:59:17.641493'
+related:
+- 2016-11-29-probabilidades-de-empates-en-elecciones.md
+- 2022-12-29-aristoteles-probable-improbable.md
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-03-10-hoy-que-me-he-puesto-traje-y-corbata.md
 tags:
 - probabilidad
+title: Probabilidades y probabilidades
+url: /2016/10/17/probabilidades-y-probabilidades/
 ---
 
 Leo hoy que

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-06 09:13:00+00:00
-draft: false
-title: ¿En primavera? ¿En serio? Ni de coña
-
-url: /2020/04/06/en-primavera-en-serio-ni-de-cona/
 categories:
 - números
+date: 2020-04-06 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:48:24.571421'
+related:
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
 tags:
 - datos públicos
 - ine
 - mortalidad
 - política
+title: ¿En primavera? ¿En serio? Ni de coña
+url: /2020/04/06/en-primavera-en-serio-ni-de-cona/
 ---
 
 Hubo un tiempo en el que había que hacer caso a Aristóteles. Era lo que se esperaba de toda persona culta de la época. Así que, supongo, o te fiabas de lo que ven tus propios ojos o dabas por bueno que [las mujeres tenían menos dientes](http://www.hugepatheticforce.org/blog/aristotle-on-womens-teeth.html).

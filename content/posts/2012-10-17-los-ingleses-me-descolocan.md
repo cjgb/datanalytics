@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-17 07:38:03+00:00
-draft: false
-title: Los ingleses me descolocan
-
-url: /2012/10/17/los-ingleses-me-descolocan/
 categories:
 - números
+date: 2012-10-17 07:38:03+00:00
+draft: false
+lastmod: '2025-04-06T19:11:29.007373'
+related:
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
+- 2012-02-22-desempleo-incentivos-y-geometria.md
+- 2011-06-06-la-tragedia-del-buen-rollito.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
+- 2013-02-20-si-lees-nudge-veras-las-cosas-de-otra-manera.md
 tags:
 - números
 - opciones
 - teoría de la decisión
+title: Los ingleses me descolocan
+url: /2012/10/17/los-ingleses-me-descolocan/
 ---
 
 Los ingleses me descolocan. Hace unos días me enteré de una propuesta de George Osborne, el ministro de hacienda del Reino Unido, que se conoce como _[shares for rights](http://www.guardian.co.uk/politics/2012/oct/08/george-osborne-shares-rights-scheme)_ (acciones a cambio de derechos). Consiste esencialmente en ofrecer a los empleados la opción (nunca la obligación) de recibir una recompensa económica a cambio de que renuncien a una serie de derechos laborales.

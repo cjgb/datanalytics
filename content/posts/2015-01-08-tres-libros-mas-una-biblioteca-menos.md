@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-08 07:13:40+00:00
-draft: false
-title: Tres libros más, una biblioteca menos
-
-url: /2015/01/08/tres-libros-mas-una-biblioteca-menos/
 categories:
 - varios
+date: 2015-01-08 07:13:40+00:00
+draft: false
+lastmod: '2025-04-06T19:13:09.573250'
+related:
+- 2019-06-04-feria-del-libro-2019.md
+- 2016-05-30-mis-conciudadanos-no-tienen-wifi.md
+- 2017-03-21-asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
 tags:
 - libros
+title: Tres libros más, una biblioteca menos
+url: /2015/01/08/tres-libros-mas-una-biblioteca-menos/
 ---
 
 Todos los años tengo el vicio de comprar algún libro. Aprovecho mi viaje a Zaragoza para dejarme caer por mis librerías favoritas (o las que quedan de ellas) y llevarme algo a casa.

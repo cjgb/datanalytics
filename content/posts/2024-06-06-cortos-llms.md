@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-06-06
-title: 'Embeddings, LLMs y algunas de sus aplicaciones a mediados de 2024'
-url: /2024/06/06/cortos
 categories:
 - cortos
+date: 2024-06-06
+lastmod: '2025-04-06T19:07:57.420130'
+related:
+- 2025-03-25-cortos-llms.md
+- 2024-07-18-cortos-llms.md
+- 2022-09-01-tf-idf.md
+- 2024-04-18-cortos.md
+- 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md
 tags:
 - llms
 - embeddings
 - aplicaciones
 - economía
+title: Embeddings, LLMs y algunas de sus aplicaciones a mediados de 2024
+url: /2024/06/06/cortos
 ---
 
 ### I.
@@ -50,8 +57,3 @@ Diríase que  _embeddings_ son el hermanito feo de los LLMs. Están envueltos po
 - [_Embeddings: What they are and why they matter_](https://simonwillison.net/2023/Oct/23/embeddings/)
 - [_Introducing Nomic Embed: A Truly Open Embedding Model_](https://blog.nomic.ai/posts/nomic-embed-text-v1) y el correspondiente [_playground_](https://simonwillison.net/2024/Feb/15/adaptive-retrieval-with-matryoshka-embeddings/)
 - [_Cohere int8 & binary Embeddings - Scale Your Vector Database to Large Datasets_](https://simonwillison.net/2024/Mar/26/cohere-int8-binary-embeddings/), que ilustra cómo también el mundo de los _embeddings_ participa de la carrera hacia la baja precisión numérica.
-
-
-
-
-

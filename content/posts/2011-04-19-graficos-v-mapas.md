@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-19 09:52:38+00:00
-draft: false
-title: 'Gráficos (V): mapas'
-
-url: /2011/04/19/graficos-v-mapas/
 categories:
 - gráficos
+date: 2011-04-19 09:52:38+00:00
+draft: false
+lastmod: '2025-04-06T18:54:11.015073'
+related:
+- 2021-06-23-mi-mapa-provincial-favorito.md
+- 2017-03-02-todas-las-terrazas-de-madrid.md
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2020-10-13-ign-r-leaflet.md
+- 2014-10-01-donde-he-estado-segun-google.md
 tags:
 - gráficos
 - mapas
+title: 'Gráficos (V): mapas'
+url: /2011/04/19/graficos-v-mapas/
 ---
 
 En la quinta entrega de mi serie de artículos sobre gráficos quiero mostrar algunos enlaces que he recopilado sobre un asunto que sería más propiamente contenido para nuestros vecinos de [GMK](http://geomarketingspain.blogspot.com/): los mapas.

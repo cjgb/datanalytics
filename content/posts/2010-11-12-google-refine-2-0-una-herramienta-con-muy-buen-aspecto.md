@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-12 00:51:16+00:00
-draft: false
-title: Google Refine 2.0, una herramienta con muy buen aspecto
-
-url: /2010/11/12/google-refine-2-0-una-herramienta-con-muy-buen-aspecto/
 categories:
 - ciencia de datos
 - consultoría
 - estadística
+date: 2010-11-12 00:51:16+00:00
+draft: false
+lastmod: '2025-04-06T19:08:38.007751'
+related:
+- 2011-06-28-google-refine-para-analizar-estudiar-y-limpiar-los-datos.md
+- 2011-10-11-datawrangler-limpieza-y-transformacion-interactiva-de-datos.md
+- 2010-09-08-mas-sobre-la-integracion-de-r-y-rapidminer.md
+- 2011-03-29-graficos-ii-herramientas.md
+- 2010-09-30-liberado-knime-2-2-2.md
 tags:
 - consultoría
 - estadística
 - ciencia de datos
 - google
+title: Google Refine 2.0, una herramienta con muy buen aspecto
+url: /2010/11/12/google-refine-2-0-una-herramienta-con-muy-buen-aspecto/
 ---
 
 Le debo a Guillermo, un excompañero de SAS, la noticia que aquí publico: [Google Refine](http://google-opensource.blogspot.com/2010/11/announcing-google-refine-20-power-tool.html). Acabo de ver

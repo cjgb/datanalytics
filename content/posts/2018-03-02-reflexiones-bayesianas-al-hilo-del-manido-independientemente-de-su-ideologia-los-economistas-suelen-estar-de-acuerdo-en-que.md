@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-02 10:33:15+00:00
-draft: false
-title: 'Reflexiones bayesianas al hilo del manido: "Independientemente de su ideología,
-  los economistas suelen estar de acuerdo en que..."'
-
-url: /2018/03/02/reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que/
 categories:
 - varios
+date: 2018-03-02 10:33:15+00:00
+draft: false
+lastmod: '2025-04-06T18:57:46.227716'
+related:
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2018-07-18-sociologia-normativa-el-estudio-de-cuales-deberian-ser-las-causas-de-los-problemas-sociales.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
+- 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
 tags:
 - bayes
 - economía
 - ideología
 - priori
+title: 'Reflexiones bayesianas al hilo del manido: "Independientemente de su ideología,
+  los economistas suelen estar de acuerdo en que..."'
+url: /2018/03/02/reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que/
 ---
 
 Podría hacerse un _ránking_ de disciplinas académicas según el grado de acuerdo entre quienes las cultivan. Supongo que lo lideraríamos los matemáticos. Salvo los constructivistas y esos raritos que dan por malo el [axioma de elección](https://es.wikipedia.org/wiki/Axiomas_de_Zermelo-Fraenkel), no contamos con familias heterodoxas. En el otro extremo, aventuro, se ubicarían los que hacen crítica literaria y políticas. Pero, seguro, dentro de las ciencias humanas, los economistas quedarían en bastante buen lugar.

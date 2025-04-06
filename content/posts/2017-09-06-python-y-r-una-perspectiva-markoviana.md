@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-06 08:13:16+00:00
-draft: false
-title: 'Python y R: una perspectiva markoviana'
-
-url: /2017/09/06/python-y-r-una-perspectiva-markoviana/
 categories:
 - r
+date: 2017-09-06 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T18:46:36.739246'
+related:
+- 2013-12-18-cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2019-02-12-sr-python-muchas-gracias-por-su-candidatura-ya-le-llamaremos-cuando-tenga-modelos-mixtos.md
+- 2016-06-16-metropolis-hastings-en-scala.md
+- 2018-01-25-mgm-no-la-de-las-pelis-sino-la-de-los-modelos-graficos.md
 tags:
 - markov
 - python
 - r
+title: 'Python y R: una perspectiva markoviana'
+url: /2017/09/06/python-y-r-una-perspectiva-markoviana/
 ---
 
 Hoy he visto

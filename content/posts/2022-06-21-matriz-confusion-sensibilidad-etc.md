@@ -1,11 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-06-21
-title: 'Matrices de confusión, sensibilidad, especificidad, curva ROC, AUC y todas esas cosas'
-description: 'Una breve introducción a los conceptos de matriz de confusión, sensibilidad, especificidad, curva ROC y AUC'
-url: /2022/06/21/matriz-confusion-sensibilidad-especificidad-etc/
 categories:
 - estadística
+date: 2022-06-21
+description: Una breve introducción a los conceptos de matriz de confusión, sensibilidad,
+  especificidad, curva ROC y AUC
+lastmod: '2025-04-06T18:55:08.094083'
+related:
+- 2022-02-17-examenes-probabilisticos.md
+- 2023-03-02-conformal-prediction.md
+- 2012-04-09-3564.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
 tags:
 - ciencia de datos
 - estadística
@@ -14,6 +20,9 @@ tags:
 - curva roc
 - auc
 - matriz de confusión
+title: Matrices de confusión, sensibilidad, especificidad, curva ROC, AUC y todas
+  esas cosas
+url: /2022/06/21/matriz-confusion-sensibilidad-especificidad-etc/
 ---
 
 Esta entrada es una breve introducción a los conceptos indicados en el título. Está motivada por una pregunta que se formuló en Twitter acerca de la existencia o no de lo que voy a escribir en español y a que ninguna de las respuestas aportadas me satisfizo.
@@ -120,4 +129,3 @@ La respuesta está en los costes. Más bien, en la asimetría de costes entre in
 Por poner un ejemplo e interpretando el sistema judicial como un _modelo_ que predice culpabilidad, en un estado de derecho habría que tratar de minimizar los falsos positivos (inocentes declarados culpables); pero un régimen policial menos benevolente podría estar más preocupado de los falsos negativos.
 
 El lector aquí llegado debería plantearse una serie de contextos (p.e., detección de fraude, detección de enfermedades, predicción de la criminalidad, selección de personal, selección de destinatarios de una campaña publicitaria por correo electrónico, etc.) en los que podrían aplicarse modelos y determinar ---haciendo uso del sentido común, por supuesto--- a qué indicador de la bondad del ajuste debería prestársele más atención en cada uno de ellos.
-

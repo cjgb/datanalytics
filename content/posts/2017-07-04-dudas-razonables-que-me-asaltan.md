@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-07-04 08:13:44+00:00
-draft: false
-title: Dudas ¿razonables? que me asaltan
-
-url: /2017/07/04/dudas-razonables-que-me-asaltan/
 categories:
 - estadística
+date: 2017-07-04 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:12:00.800626'
+related:
+- 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
+- 2015-03-09-unas-preguntas-incomodas.md
+- 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
+- 2013-05-14-la-media-la-mediana-y-el-bundesbank.md
+- 2024-01-30-indicadores-economicos.md
 tags:
 - escepticismo
 - estadística
 - ine
 - pobreza
+title: Dudas ¿razonables? que me asaltan
+url: /2017/07/04/dudas-razonables-que-me-asaltan/
 ---
 
 Casi siempre que leo artículos como [_La pobreza severa baja en España pero la desigualdad no se corrige_](http://economia.elpais.com/economia/2017/04/25/actualidad/1493110323_613931.html) en que se habla de pobreza, renta, deciles y demás, me asaltan siempre las mismas dudas que no sé si razonables o no. Sobre todo cuando enfatizan la situación de los deciles más extremos.

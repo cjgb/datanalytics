@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-26 07:59:26+00:00
-draft: false
-title: coursera.es, ya
-
-url: /2012/09/26/coursera-es-ya/
 categories:
 - varios
+date: 2012-09-26 07:59:26+00:00
+draft: false
+lastmod: '2025-04-06T18:47:13.690802'
+related:
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2010-12-22-mahoma-su-proverbial-montana-y-la-wikipedia.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 tags:
 - formación
 - mooc
 - coursera
+title: coursera.es, ya
+url: /2012/09/26/coursera-es-ya/
 ---
 
 Estoy tomando un [curso en coursera.org](https://class.coursera.org/compfinance-2012-001/auth/welcome?type=logout&visiting=%2Fcompfinance-2012-001%2Fclass%2Findex) sobre finanzas computacionales. Aunque, modestia aparte, no creo que vaya a aprender en él mucho que no sepa ya, llevaba tiempo interesado tener una experiencia de primera mano en el funcionamiento de estas plataformas. Cuyas virtudes, muy oportunamente, han sido glosadas recientemente [en prensa](http://economia.elpais.com/economia/2012/09/21/actualidad/1348225294_720111.html).

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-13 09:13:00+00:00
-draft: false
-title: 'En defensa de Simón: variaciones diarias de la  mortalidad'
-
-url: /2020/05/13/en-defensa-de-simon-variaciones-diarias-de-la-mortalidad/
 categories:
 - estadística
 - números
+date: 2020-05-13 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:59:34.004587'
+related:
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2012-04-30-contar-c2bffacil.md
+- 2017-01-18-va-de-si-hay-una-o-dos-lambdas.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
 tags:
 - coronavirus
 - varianza
 - estadística
+title: 'En defensa de Simón: variaciones diarias de la  mortalidad'
+url: /2020/05/13/en-defensa-de-simon-variaciones-diarias-de-la-mortalidad/
 ---
 
 Qué cafres tenéis que ser para que tenga que salir yo ---precisamente yo, que tantas cosas no buenas tengo para decir del buen hombre--- en defensa de Simón. Tiene delito que de todo lo que se le pueda echar en cara os hayáis fijado en una intervención en la que os trataba de desasnar para que no le anduviéseis buscando tres pies a la varianza.

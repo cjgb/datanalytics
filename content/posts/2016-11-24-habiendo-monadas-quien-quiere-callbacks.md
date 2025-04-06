@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-24 08:13:35+00:00
-draft: false
-title: Habiendo mónadas, ¿quién quiere callbacks?
-
-url: /2016/11/24/habiendo-monadas-quien-quiere-callbacks/
 categories:
 - r
+date: 2016-11-24 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T19:02:15.145787'
+related:
+- 2016-11-04-r-en-paralelo-pero-ahora-con-futuros.md
+- 2016-11-11-cuanto-tarda-en-ejecutarse-este-codigo.md
+- 2011-04-08-paralelizacion-de-bucles-con-foreach.md
+- 2015-02-11-recurrencia-recurrente.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
 tags:
 - future
 - futuros
@@ -14,6 +18,8 @@ tags:
 - programación
 - programación funcional
 - r
+title: Habiendo mónadas, ¿quién quiere callbacks?
+url: /2016/11/24/habiendo-monadas-quien-quiere-callbacks/
 ---
 
 Nunca me he visto en la tesitura de tener que usar _callbacks_ porque no son mi guerra. Pero por lo que he oído de la gente que sabe mucho más que yo, son uno de esos infiernos de los que hay que huir con el mismo pavor que de los _fors_, los _ifs_, los _elses_ (¡argggg! ¡he escrito _else_!) y los _whiles_.

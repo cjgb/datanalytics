@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-09 08:56:29+00:00
-draft: false
-title: Cómo apostar si tienes que
-
-url: /2014/01/09/como-apostar-si-tienes-que/
 categories:
 - estadística
 - finanzas
+date: 2014-01-09 08:56:29+00:00
+draft: false
+lastmod: '2025-04-06T19:08:49.906520'
+related:
+- 2011-05-12-c2bfque-nos-jugamos.md
+- 2011-05-16-c2bfque-nos-jugamos-addenda-no-queremos-jugarnos-nada.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
+- 2012-01-31-cosa-prodigiosa-iii-epilogo.md
 tags:
 - bolsa
 - estadística
@@ -17,6 +21,8 @@ tags:
 - savage
 - utilidad
 - varianza
+title: Cómo apostar si tienes que
+url: /2014/01/09/como-apostar-si-tienes-que/
 ---
 
 Hace unos días recibí esto,

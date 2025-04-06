@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-02 09:13:00+00:00
-draft: false
-title: Sobre los peligros del "Tukey biweight"
-
-url: /2020/03/02/sobre-los-peligros-del-tukey-biweight/
 categories:
 - estadística
+date: 2020-03-02 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:04:25.992129'
+related:
+- 2020-02-24-to-irls-or-not-to-irls.md
+- 2019-04-16-sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida.md
+- 2022-11-04-umap-tsne-etc.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - error
 - estadística
 - estadística robusta
 - tukey
+title: Sobre los peligros del "Tukey biweight"
+url: /2020/03/02/sobre-los-peligros-del-tukey-biweight/
 ---
 
 Sigo con ajustes robustos. Y cosas que como matemático, me ponen muy nervioso.
@@ -33,6 +39,3 @@ Obviamente, una implementación satisfactoria del problema de minimización nece
 En fin.
 
 **Nota final:** No hay secta más hermética que la de la gente que se dedica a los ajustes robustos. Creo que lo hacen a propósito para darse importancia.
-
-
-

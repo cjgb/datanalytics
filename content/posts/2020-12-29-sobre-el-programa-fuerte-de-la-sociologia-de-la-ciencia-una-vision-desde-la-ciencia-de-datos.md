@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-29 09:13:00+00:00
-draft: false
-title: 'Sobre el "programa fuerte" de la sociología de la ciencia: una visión desde
-  la "ciencia de datos"'
-
-url: /2020/12/29/sobre-el-programa-fuerte-de-la-sociologia-de-la-ciencia-una-vision-desde-la-ciencia-de-datos/
 categories:
 - mala ciencia
 - libros
+date: 2020-12-29 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:17.877591'
+related:
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
+- 2023-10-03-muestreo-superricos.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
 tags:
 - artículos
 - libros
 - relativismo
 - sokal
 - latour
+title: 'Sobre el "programa fuerte" de la sociología de la ciencia: una visión desde
+  la "ciencia de datos"'
+url: /2020/12/29/sobre-el-programa-fuerte-de-la-sociologia-de-la-ciencia-una-vision-desde-la-ciencia-de-datos/
 ---
 
 **I.**

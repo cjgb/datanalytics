@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-12-28 09:58:09+00:00
-draft: false
-title: 'Lo prometo: no es una broma'
-
-url: /2010/12/28/lo-prometo-no-es-una-broma/
 categories:
 - números
+date: 2010-12-28 09:58:09+00:00
+draft: false
+lastmod: '2025-04-06T19:01:02.373099'
+related:
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2016-05-18-transparencia-ley-de-transparencia-y-todas-esas-cosas.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 tags:
 - números
+title: 'Lo prometo: no es una broma'
+url: /2010/12/28/lo-prometo-no-es-una-broma/
 ---
 
 En serio, a pesar de la fecha, lo que cuento hoy acá no es una broma: todo está documentado. Lo prometo.

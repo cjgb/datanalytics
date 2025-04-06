@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-02
-title: ¿Por qué vivimos tantos españoles a tanta altitud?
-
-url: /2022/01/02/por-que-vivimos-espanoles-tanta-altitud/
 categories:
 - r
 - gráficos
+date: 2022-01-02
+lastmod: '2025-04-06T19:05:21.371243'
+related:
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
+- 2017-05-12-me-too-me-too.md
+- 2013-12-10-te-queda-lejos-el-aeropuerto.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
 tags:
 - r
 - mapas
@@ -14,6 +18,8 @@ tags:
 - terra
 - sf
 - españa
+title: ¿Por qué vivimos tantos españoles a tanta altitud?
+url: /2022/01/02/por-que-vivimos-espanoles-tanta-altitud/
 ---
 
 Perdóneseme haber usado lenguaje causal en el título de esta entrada siendo así que no encontrará el lector indicios sólidos de respuesta en lo que sigue. Y, sobre todo, que no se confunda y me tome por un sociólogo a la violeta o un economista posmo: no, soy matemático.
@@ -122,10 +128,3 @@ ggplot(kk, aes(x = altitude)) +
 ggsave("/tmp/distribucion_altitudes_europa.png",
        height = 21, width = 12, units = "cm")
 {{< / highlight >}}
-
-
-
-
-
-
-

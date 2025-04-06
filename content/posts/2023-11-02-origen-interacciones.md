@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-02
-title: "¿De dónde vienen las interacciones?"
-
-url: /2023/11/02/origen-interacciones/
 categories:
 - estadística
+date: 2023-11-02
+lastmod: '2025-04-06T19:08:36.492664'
+related:
+- 2020-03-16-interacciones-y-seleccion-de-modelos.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2024-09-12-cortos-stats.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-02-06-model4you.md
 tags:
 - estadística
 - interacciones
 - r
+title: ¿De dónde vienen las interacciones?
+url: /2023/11/02/origen-interacciones/
 ---
 
 El contexto es, esencialmente, la creación de modelos lineales ---no necesariamente los clásicos---, aunque la discusión podría extenderse más allá. Una cosa que nos suelen enseñar los libros es que si en un modelo de la pinta

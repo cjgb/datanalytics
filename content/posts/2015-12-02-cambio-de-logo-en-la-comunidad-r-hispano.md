@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-02 08:13:27+00:00
-draft: false
-title: Cambio de logo en la Comunidad R Hispano
-
-url: /2015/12/02/cambio-de-logo-en-la-comunidad-r-hispano/
 categories:
 - r
+date: 2015-12-02 08:13:27+00:00
+draft: false
+lastmod: '2025-04-06T19:13:00.458296'
+related:
+- 2016-02-18-hoy-se-ha-anunciado-la-propuesta-de-nueva-pagina-de-la-comunidad-r-hispano.md
+- 2015-07-03-r-consortium.md
+- 2018-12-11-siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano.md
+- 2012-06-07-hoy-hablaremos-de-r-es-org.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - logo
 - r
+title: Cambio de logo en la Comunidad R Hispano
+url: /2015/12/02/cambio-de-logo-en-la-comunidad-r-hispano/
 ---
 
 Hace años, al comienzo de los tiempos de la [Comunidad R Hispano](http://r-es.org/), se propusieron ciertos logos y se votó el actual,

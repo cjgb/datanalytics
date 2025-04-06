@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-21 08:13:48+00:00
-draft: false
-title: ¿Que no suben los salarios?
-
-url: /2018/02/21/que-no-suben-los-salarios/
 categories:
 - estadística
 - números
+date: 2018-02-21 08:13:48+00:00
+draft: false
+lastmod: '2025-04-06T18:53:05.243969'
+related:
+- 2024-11-14-simpson-productividad.md
+- 2022-01-04-la-altura-media-animales-zoo-madrid.md
+- 2013-01-14-algunos-resultados-de-la-encuesta-trimestral-de-coste-laboral.md
+- 2013-08-13-suben-o-bajan.md
+- 2017-07-04-dudas-razonables-que-me-asaltan.md
 tags:
 - economía
 - salarios
+title: ¿Que no suben los salarios?
+url: /2018/02/21/que-no-suben-los-salarios/
 ---
 
 Hoy me he desayunado con [_El último misterio de la economía: ¿por qué no suben los salarios?_](https://www.elconfidencial.com/economia/2018-02-18/salarios-bce-paro-pib-weidmann-precios-inflaicon-ipc-globalizacion-multinacionales-devaluacion-fmi-la-caixa_1520874/) Y me ha parecido una noticia muy rara.

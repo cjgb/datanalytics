@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-15 08:13:48+00:00
-draft: false
-title: Spark ha muerto, ¡larga vida (y buena migración) a Shinyapps!
-
-url: /2015/04/15/spark-ha-muerto-larga-vida-y-buena-migracion-a-shinyapps/
 categories:
 - r
+date: 2015-04-15 08:13:48+00:00
+draft: false
+lastmod: '2025-04-06T18:59:23.926502'
+related:
+- 2015-06-17-liberado-spark-1-4.md
+- 2013-05-06-mi-primera-aplicacion-en-shiny-un-detector-de-idiomas.md
+- 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md
+- 2015-06-23-sparkr-1-4-carga-de-ficheros-csv.md
+- 2014-07-18-en-serio-con-spark-instalacion.md
 tags:
 - r
 - shiny
 - shinyapps
+title: Spark ha muerto, ¡larga vida (y buena migración) a Shinyapps!
+url: /2015/04/15/spark-ha-muerto-larga-vida-y-buena-migracion-a-shinyapps/
 ---
 
 Primero, y por evitar confusiones, [este](https://spark.apache.org/) no es el Spark que se nos muere. Se muere un servidor de RStudio donde se colgaban aplicaciones desarrolladas en `shiny`, `spark.rstudio.com`.
@@ -22,4 +28,3 @@ Migrar aplicaciones, como mi [vetusto detector de idiomas](http://www.datanalyti
 1. Abrir una cuenta en `shinyapps.io`
 2. Instalar el paquete shinyapps de Github (i.e., `devtools::install_github('rstudio/shinyapps')`)
 3. Subir tu aplicación: `shinyapps::deployApp('path/to/app')`
-

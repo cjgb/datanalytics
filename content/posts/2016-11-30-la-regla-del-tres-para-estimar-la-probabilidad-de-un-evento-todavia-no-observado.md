@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-30 08:13:04+00:00
-draft: false
-title: La regla del tres (para estimar la probabilidad de un evento todavía no observado)
-
-url: /2016/11/30/la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado/
 categories:
 - estadística
+date: 2016-11-30 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T18:49:14.998953'
+related:
+- 2011-09-14-la-estadistica-del-numero-tres.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2014-11-04-dislexia-probabilistica.md
 tags:
 - estadística
 - probabilidad
 - trucos
+title: La regla del tres (para estimar la probabilidad de un evento todavía no observado)
+url: /2016/11/30/la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado/
 ---
 
 Me acusan (quien lo hizo, si me lee, sabrá identificarse) de repetirme, de contar una historia dos, y sino me paran los pies, tres y más veces. Ya me pasó una vez por aquí. Espero que no me esté volviendo a suceder hoy porque habría jurado haber mencionado este asunto antes.

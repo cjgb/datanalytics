@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-22 08:13:12+00:00
-draft: false
-title: Las gráficas en la prensa (de allá)
-
-url: /2017/02/22/las-graficas-en-la-prensa-de-alla/
 categories:
 - gráficos
+date: 2017-02-22 08:13:12+00:00
+draft: false
+lastmod: '2025-04-06T19:11:09.795428'
+related:
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2011-04-12-c2a1que-prensa-tan-mala.md
+- 2016-12-01-hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-me-acordaba.md
+- 2011-05-31-graficaca-en-el-ft.md
+- 2011-01-31-un-grafico-enganabobos.md
 tags:
 - gráficos
 - prensa
+title: Las gráficas en la prensa (de allá)
+url: /2017/02/22/las-graficas-en-la-prensa-de-alla/
 ---
 
 La gráfica

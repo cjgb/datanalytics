@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-29 07:46:19+00:00
-draft: false
-title: Los siete pecados capitales de la minería de datos
-
-url: /2011/07/29/los-siete-pecados-capitales-de-la-mineria-de-datos/
 categories:
 - ciencia de datos
 - r
+date: 2011-07-29 07:46:19+00:00
+draft: false
+lastmod: '2025-04-06T18:56:45.028687'
+related:
+- 2011-06-22-diez-mandamientos-del-analisis-de-datos.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2015-03-04-adaequatio-rei-et-analysis.md
+- 2013-01-23-mapa-mental-de-mi-primera-clase-del-semestre.md
+- 2018-11-28-charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos.md
 tags:
 - ciencia de datos
 - r
 - sas
+title: Los siete pecados capitales de la minería de datos
+url: /2011/07/29/los-siete-pecados-capitales-de-la-mineria-de-datos/
 ---
 
 Por ser viernes, traigo a estas páginas un vídeo tan pedagógico como ameno. Es la conferencia de Dick De Veaux dentro la [M2010 Data Mining Conference](http://www.sas.com/events/dmconf/m2010/) auspiciada por SAS.

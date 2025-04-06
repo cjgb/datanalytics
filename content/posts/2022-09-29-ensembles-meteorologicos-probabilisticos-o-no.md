@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-09-29
-title: '"Ensembles" meteorológicos: ¿probabilísticos o no?'
-
-url: /2022/09/29/ensembles-meteorologicos-probabilisticos/
 categories:
 - probabilidad
+date: 2022-09-29
+lastmod: '2025-04-06T18:52:26.151984'
+related:
+- 2022-06-09-el-modelo-es-y.md
+- 2024-10-31-efectividad-alertas.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
+- 2024-12-19-promediar-predicciones.md
 tags:
 - ensembles
 - meteorología
 - probabilidad
+title: '"Ensembles" meteorológicos: ¿probabilísticos o no?'
+url: /2022/09/29/ensembles-meteorologicos-probabilisticos/
 ---
 
 Primero, una brevísima introducción al uso de _ensembles_ en meteorología:

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-02 08:13:19+00:00
-draft: false
-title: Detección de "outliers" locales
-
-url: /2016/06/02/deteccion-de-outliers-locales/
 categories:
 - estadística
 - r
+date: 2016-06-02 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:05:29.028621'
+related:
+- 2024-02-13-outliers-dos-modos.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-12-16-la-interpretacion-de-significativo-en-un-caso-muy-concreto.md
+- 2015-09-08-voronois-con-distintas-distancias.md
+- 2020-07-21-analisis-de-arquetipos.md
 tags:
 - outliers
 - r
 - rlof
 - paquetes
+title: Detección de "outliers" locales
+url: /2016/06/02/deteccion-de-outliers-locales/
 ---
 
 Aunque _outlier local_ parezca oxímoron, es [un concepto que tiene sentido](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf).

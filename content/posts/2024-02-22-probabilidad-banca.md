@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-02-22
-title: 'Probabilidad y banca'
-url: /2024/02/22/fundamentos-probabilidad-banca/
 categories:
 - estadística
+date: 2024-02-22
+lastmod: '2025-04-06T18:54:51.529128'
+related:
+- 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md
+- 2023-03-16-negocio-bancario.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 tags:
 - probabilidad
 - banca
-
+title: Probabilidad y banca
+url: /2024/02/22/fundamentos-probabilidad-banca/
 ---
 
 Traduzco y adapto un texto de Matt Levine ([fuente](https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing)), cuya relevancia para lo que aquí se suele tratar es más que evidente:
@@ -20,6 +26,3 @@ Traduzco y adapto un texto de Matt Levine ([fuente](https://www.bloomberg.com/op
 > La mayor parte del tiempo, los bancos funcionan así, en sus nubes de probabilidades. Pero alguna vez sucederá algo que colapse las probabilidades y los obligue a encontrar un número real. Alguna vez, algún banco tendrá que, en efecto, vender todos sus activos durante un fin de semana. A menudo, lo que causa esto es malo: fuga de depósitos, una pérdida de confianza, una emergencia. Cuando esto sucede, es probable que los activos se vendan con descuento. Si el descuento es más del 10%, más que el colchón capital social, entonces los accionistas se quedan sin nada.
 
 Habrá alguno de mis lectores que viva de especular sobre esas distribuciones de probabilidad y calcularles el VaR (valor en riesgo), _estresarlas_ y quién sabe si _montecarloarlas_. Pero habrá también viva cómodamente convencido de que esos números que a veces se publican son la verdad verdadera y no resúmenes estadísticos de distribuciones que a veces se mueven locamente.
-
-
-

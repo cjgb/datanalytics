@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-06-07
-title: '"Generalized random forests": una introducción'
-description: 'Una introducción a los generalized random forests'
-url: /2022/06/07/generalized-random-forests/
 categories:
 - estadística
+date: 2022-06-07
+description: Una introducción a los generalized random forests
+lastmod: '2025-04-06T19:01:36.110779'
+related:
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2010-06-16-algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
 tags:
 - random forests
 - generalized random forests
 - ciencia de datos
 - causalidad
+title: '"Generalized random forests": una introducción'
+url: /2022/06/07/generalized-random-forests/
 ---
 
 Los _generalized random forests_ (GRF en lo sucesivo) han cobrado cierta relevancia recientemente porque una de sus potenciales variantes son los llamados _causal forests_: RRFF _adaptados_ para medir el tamaño de una _intervención causal_.

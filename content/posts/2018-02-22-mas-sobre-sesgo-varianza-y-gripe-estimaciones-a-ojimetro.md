@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-22 08:13:45+00:00
-draft: false
-title: 'Más sobre sesgo, varianza y gripe: estimaciones a ojímetro'
-
-url: /2018/02/22/mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro/
 categories:
 - números
+date: 2018-02-22 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T18:46:40.067166'
+related:
+- 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2020-03-15-la-causa-de-muerte-no-es-la-causa-de-muerte.md
+- 2019-11-13-a-mas-gripe-menos-mortalidad-en-determinados-submundos-frecuentistas-si.md
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
 tags:
 - anumerismo
 - gripe
 - mortalidad
 - prensa
+title: 'Más sobre sesgo, varianza y gripe: estimaciones a ojímetro'
+url: /2018/02/22/mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro/
 ---
 
 Después de mi entrada del otro día [sobre sesgo, varianza y gripe (¡y gilipollas!)](https://www.datanalytics.com/2018/02/13/de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa/) hablé al respecto con una periodista que me tropecé.
@@ -28,4 +34,3 @@ Así que envalentonado por mi éxito predictivo, explicito mi razonamiento hiper
 * El invierno dura tres meses, unos 100 días.
 
 Pim, pam, pam, 10k.
-

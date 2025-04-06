@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-05-09 07:52:45+00:00
-draft: false
-title: 'data.table (II): agregaciones'
-
-url: /2013/05/09/data-table-ii-agregaciones/
 categories:
 - programación
 - r
+date: 2013-05-09 07:52:45+00:00
+draft: false
+lastmod: '2025-04-06T18:58:42.322497'
+related:
+- 2013-05-02-data-table-i-cruces.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2017-09-06-python-y-r-una-perspectiva-markoviana.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
 tags:
 - programación
 - data.table
 - ciencia de datos
 - r
+title: 'data.table (II): agregaciones'
+url: /2013/05/09/data-table-ii-agregaciones/
 ---
 
 Sigo con mi [lacónica serie sobre `data.table`](http://www.datanalytics.com/2013/05/02/data-table-i-cruces/).

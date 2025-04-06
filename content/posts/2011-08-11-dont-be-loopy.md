@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-11 07:28:36+00:00
-draft: false
-title: Don't be loopy!
-
-url: /2011/08/11/dont-be-loopy/
 categories:
 - estadística
 - r
+date: 2011-08-11 07:28:36+00:00
+draft: false
+lastmod: '2025-04-06T18:57:43.140463'
+related:
+- 2011-09-23-done28099t-be-loopy-ii.md
+- 2011-09-30-dont-be-loopy-iii-jackknife-y-paralelismo.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2011-03-04-1680.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
 tags:
 - estadística
 - r
 - sas
 - programación
+title: Don't be loopy!
+url: /2011/08/11/dont-be-loopy/
 ---
 
 _[Don't be loopy!](http://www.pnwsug.org/sites/test.pnwsug.org/files/proceedings/David%20Cassell%20-%20Don't%20Be%20Loopy.pdf)_ es el título de una presentación realizada en el SAS Global Forum de 2007. Tiene que ver con el motivo que me hizo en mi día abandonar SAS y buscar —entonces aún no lo conocía— el cobijo de R: sus limitaciones para todo lo que tiene que ver con simulaciones, remuestreos, _jackknifes_, _bootstraps _y similares.

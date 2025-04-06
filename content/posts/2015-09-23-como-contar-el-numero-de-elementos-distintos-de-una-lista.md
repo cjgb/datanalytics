@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-23 08:13:47+00:00
-draft: false
-title: ¿Cómo contar el número de elementos distintos de una lista?
-
-url: /2015/09/23/como-contar-el-numero-de-elementos-distintos-de-una-lista/
 categories:
 - programación
 - probabilidad
+date: 2015-09-23 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T18:50:05.520127'
+related:
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2011-09-22-anonimidad-y-cantidad-de-informacion.md
+- 2013-08-21-mis-copias-de-seguridad.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
 tags:
 - hash
 - hyperloglog
+title: ¿Cómo contar el número de elementos distintos de una lista?
+url: /2015/09/23/como-contar-el-numero-de-elementos-distintos-de-una-lista/
 ---
 
 El problema es sencillo: se cuentan y ya.
@@ -35,11 +41,3 @@ Con eso y un poquito más, se tiene [`HyperLogLog`](http://antirez.com/news/75).
 (Nota: el _poquito_ más es un truco para tener varios máximos en lugar de solo uno y poder afinar la predicción).
 
 (Otra nota: en el [artículo](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf) en el que se publicó el algoritmo no dice _likelihood_ en ninguna parte. ¡Raro!)
-
-
-
-
-
-
-
-

@@ -1,15 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-06-30
-title: 'Sumas de variables de Bernuilli heterogénas'
-description: 'Análisis de la suma de variables de Bernoulli heterogéneas más notas sobre su importancia real e histórica'
-url: /2022/06/30/sumas-bernoullis-heterogeneas/
 categories:
 - estadística
+date: 2022-06-30
+description: Análisis de la suma de variables de Bernoulli heterogéneas más notas
+  sobre su importancia real e histórica
+lastmod: '2025-04-06T18:50:27.575663'
+related:
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2023-07-20-coeficientes-no-identificables.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - estadística
 - bernoulli
 - historia de la estadística
+title: Sumas de variables de Bernuilli heterogénas
+url: /2022/06/30/sumas-bernoullis-heterogeneas/
 ---
 
 ## I.
@@ -43,6 +51,3 @@ Afortunadamente, el resultado anterior nos dice que el error cometido por esa es
 ## IV.
 
 Este problema tiene 160 años de historia, como poco. Fue tratado por [Cournot](https://en.wikipedia.org/wiki/Antoine_Augustin_Cournot), más conocido por sus aportaciones a la economía que a la estadística, hacia 1840. Lo hizo dentro de un siglo en el que uno de los principales hilos del debate alrededor de la estadística era en qué medida podían matematizarse ---es decir, tratarse con las técnicas estadísticas propias de las ciencias duras--- los fenómenos sociales. Porque en una ciencia dura, las propensiones de los sujetos serían las mismas (por homogeneidad), mientras que en las ciencias sociales cabría esperar heterogeneidad entre los distintos individuos.
-
-
-

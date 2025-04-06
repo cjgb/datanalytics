@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-10 07:08:20+00:00
-draft: false
-title: Gráficos en R a la xkcd
-
-url: /2012/10/10/graficos-en-r-a-la-xkcd/
 categories:
 - gráficos
 - r
+date: 2012-10-10 07:08:20+00:00
+draft: false
+lastmod: '2025-04-06T19:04:44.391026'
+related:
+- 2013-06-13-la-cosa-mas-friqui-que-he-visto-en.md
+- 2010-06-28-graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2010-06-18-graficos-en-r-con-simbolos-arbitrarios.md
+- 2011-08-29-2570.md
 tags:
 - gráficos
 - r
+title: Gráficos en R a la xkcd
+url: /2012/10/10/graficos-en-r-a-la-xkcd/
 ---
 
 [Esto](http://tex.stackexchange.com/questions/74878/create-xkcd-style-diagram-in-tex) fue un reto en toda regla: un _megafriqui_ publicó código en LaTeX para reproducir en dicho entorno gráficos como los que aparecen en [`xkcd.com`](http://xkcd.com/), es decir, del tipo de

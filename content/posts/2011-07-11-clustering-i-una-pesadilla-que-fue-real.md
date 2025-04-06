@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-11 07:19:32+00:00
-draft: false
-title: 'Clustering (I): una pesadilla que fue real'
-
-url: /2011/07/11/clustering-i-una-pesadilla-que-fue-real/
 categories:
 - ciencia de datos
 - estadística
+date: 2011-07-11 07:19:32+00:00
+draft: false
+lastmod: '2025-04-06T19:05:19.916943'
+related:
+- 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
 tags:
 - clústering
 - estadística
 - ciencia de datos
+title: 'Clustering (I): una pesadilla que fue real'
+url: /2011/07/11/clustering-i-una-pesadilla-que-fue-real/
 ---
 
 Comienzo hoy una serie de entradas en seis entregas sobre una muy utilizada técnica de análisis de datos de la que soy un profundo detractor. Reconozco que uno de los motivos, aunque menores, de esta postura estriba en que carece de un nombre castizo y reconocido en español. Aunque por ahí gusta _agrupación_ o _agrupamiento_, yo siempre he preferido _arracimamiento_: aparte de su valor visual, descarga el término _grupo_, manifiestamente sobreutilizado en muchos ámbitos.

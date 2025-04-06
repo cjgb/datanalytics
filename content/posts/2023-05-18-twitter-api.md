@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-05-18
-title: 'Twitter API: cómo usar una única cuenta para tuitear en nombre de terceros'
-
-url: /2023/05/18/twitter-api/
 categories:
 - programación
+date: 2023-05-18
+lastmod: '2025-04-06T18:59:14.636259'
+related:
+- 2016-04-22-en-una-api-de-cuyo-endpoint-no-quiero-acordarme.md
+- 2010-05-27-google-prediction-api.md
+- 2024-02-06-llm-obsidian.md
+- 2014-06-13-agrupacion-de-grafos-por-topologia.md
+- 2016-08-31-todrepa-831s-y-todrepo-6450s-los-autores-de-paquetes-de-r.md
 tags:
 - apis
 - twitter
 - python
+title: 'Twitter API: cómo usar una única cuenta para tuitear en nombre de terceros'
+url: /2023/05/18/twitter-api/
 ---
 
 ## I. El problema original

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-24 09:13:00+00:00
-draft: false
-title: ¿Por qué fluye el tiempo de izquierda a derecha?
-
-url: /2020/04/24/por-que-fluye-el-tiempo-de-izquierda-a-derecha/
 categories:
 - varios
+date: 2020-04-24 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:12:12.508695'
+related:
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2015-09-11-correlaciones-insospechadas-de-la-geometria-moderna-al-catalan-hernan-cortes.md
+- 2010-08-16-leyendo-en-diagonal-pero-con-cuidado.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
 tags:
 - abscisas
 - ejes
 - números
 - ordenadas
 - tiempo
+title: ¿Por qué fluye el tiempo de izquierda a derecha?
+url: /2020/04/24/por-que-fluye-el-tiempo-de-izquierda-a-derecha/
 ---
 
 Lo que más me ha llamado la atención de

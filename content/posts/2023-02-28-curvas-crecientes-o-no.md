@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-02-28
-title: '¿Se puede levantar la mano y decir que la curva, esencialmente, crece y no decrece?'
-
-url: /2023/02/28/la-curva-crece-o-decrece/
 categories:
 - estadística
+date: 2023-02-28
+lastmod: '2025-04-06T18:54:34.560880'
+related:
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2022-12-06-lineal-o-exponencial.md
+- 2021-01-21-mas-sobre-el-mito-de-la-objetividad-especialmente-la-data-driven.md
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2011-05-31-graficaca-en-el-ft.md
 tags:
 - gráficos
 - graficaca
 - sofística
+title: ¿Se puede levantar la mano y decir que la curva, esencialmente, crece y no
+  decrece?
+url: /2023/02/28/la-curva-crece-o-decrece/
 ---
 
 Mirad el gráfico

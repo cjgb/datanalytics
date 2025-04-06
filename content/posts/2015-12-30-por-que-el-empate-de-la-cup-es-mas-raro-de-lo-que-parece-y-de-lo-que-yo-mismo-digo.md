@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-30 08:13:03+00:00
-draft: false
-title: ¿Por qué el empate de la CUP es más raro de lo que parece (y de lo que yo mismo
-  digo)?
-
-url: /2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/
 categories:
 - números
+date: 2015-12-30 08:13:03+00:00
+draft: false
+lastmod: '2025-04-06T19:05:28.318763'
+related:
+- 2014-11-04-dislexia-probabilistica.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2015-12-29-empates-electorales-sorteos-y-una-inadvertida-paradoja.md
 tags:
 - binomial
 - elecciones
+title: ¿Por qué el empate de la CUP es más raro de lo que parece (y de lo que yo mismo
+  digo)?
+url: /2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/
 ---
 
 Menos el de un presunto profesor,

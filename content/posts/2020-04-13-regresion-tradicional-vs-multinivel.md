@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-13 09:13:00+00:00
-draft: false
-title: Regresión tradicional vs multinivel
-
-url: /2020/04/13/regresion-tradicional-vs-multinivel/
 categories:
 - estadística
 - r
+date: 2020-04-13 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:53:52.824735'
+related:
+- 2020-03-18-lme4-simulate.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
 tags:
 - estadística bayesiana
 - lm
 - lme4
 - modelos mixtos
 - r
+title: Regresión tradicional vs multinivel
+url: /2020/04/13/regresion-tradicional-vs-multinivel/
 ---
 
 Ayer se leía en Twitter que

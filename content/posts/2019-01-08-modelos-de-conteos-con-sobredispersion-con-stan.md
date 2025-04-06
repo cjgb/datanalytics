@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-08 08:13:00+00:00
-draft: false
-title: Modelos de conteos con sobredispersión (con Stan)
-
-url: /2019/01/08/modelos-de-conteos-con-sobredispersion-con-stan/
 categories:
 - r
+date: 2019-01-08 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:54:55.444456'
+related:
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
+- 2020-07-16-no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon.md
+- 2017-12-15-la-poisson-y-la-estabilizacion-de-la-varianza.md
 tags:
 - ceros
 - inflación
 - poisson
 - stan
 - sobredispersión
+title: Modelos de conteos con sobredispersión (con Stan)
+url: /2019/01/08/modelos-de-conteos-con-sobredispersion-con-stan/
 ---
 
 Esta entrada muestra cómo afrontar (con Stan) un problema que encontré el otro día en un lugar que no puedo mencionar pero en el que sé que me leen (y los destinatarios sabrán que va por ellos).

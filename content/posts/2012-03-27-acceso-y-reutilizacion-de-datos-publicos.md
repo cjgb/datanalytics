@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-27 07:53:37+00:00
-draft: false
-title: Acceso y reutilización de datos públicos
-
-url: /2012/03/27/acceso-y-reutilizacion-de-datos-publicos/
 categories:
 - estadística
 - números
+date: 2012-03-27 07:53:37+00:00
+draft: false
+lastmod: '2025-04-06T19:12:37.278196'
+related:
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
 tags:
 - datos abiertos
 - estadística
 - números
+title: Acceso y reutilización de datos públicos
+url: /2012/03/27/acceso-y-reutilizacion-de-datos-publicos/
 ---
 
 Las leyes son un carajal. Últimamente he tenido que enfrentarme a algunas y me doy cuenta de que es un error que los abogados (y los legisladores) no hayan seguido nunca un buen curso de geometría euclídea.

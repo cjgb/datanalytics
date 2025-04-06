@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-28 08:13:32+00:00
-draft: false
-title: Los extraños números de los muertos en carretera por accidente
-
-url: /2018/05/28/los-extranos-numeros-de-los-muertos-en-carretera-por-accidente/
 categories:
 - números
 - probabilidad
+date: 2018-05-28 08:13:32+00:00
+draft: false
+lastmod: '2025-04-06T19:11:39.276011'
+related:
+- 2017-01-18-va-de-si-hay-una-o-dos-lambdas.md
+- 2012-04-30-contar-c2bffacil.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - accidentes
 - defunciones
@@ -15,6 +19,8 @@ tags:
 - probabilidad
 - varianza
 - infradispersión
+title: Los extraños números de los muertos en carretera por accidente
+url: /2018/05/28/los-extranos-numeros-de-los-muertos-en-carretera-por-accidente/
 ---
 
 Escribo esta entrada con cierta prevención porque soy consciente de que dan pábulo a determinadas teorías conspiranoicas de las que soy declarado enemigo. Pero es que los números de muertos en carretera por accidente en España en los últimos años,

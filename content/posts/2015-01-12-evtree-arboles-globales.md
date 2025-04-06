@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-12 07:13:44+00:00
-draft: false
-title: 'evtree: árboles globales'
-
-url: /2015/01/12/evtree-arboles-globales/
 categories:
 - programación
 - estadística
 - r
+date: 2015-01-12 07:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:05:16.228493'
+related:
+- 2016-07-13-rapido-y-frugal-una-digresion-en-la-direccion-inhabitual.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2018-12-18-data-tree-porque-no-todos-los-datos-son-tabulares.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2016-04-25-discretizacion-de-variables-continuas-con-arboles.md
 tags:
 - árboles de decisión
 - ctree
@@ -16,6 +20,8 @@ tags:
 - optimización
 - r
 - rpart
+title: 'evtree: árboles globales'
+url: /2015/01/12/evtree-arboles-globales/
 ---
 
 Tengo por delante otro proyecto que tiene mucho de análisis exploratorio de datos. Sospecho que más de un árbol construiré. Los árboles son como la Wikipedia: prácticamente nunca el último pero casi siempre el primer recurso.

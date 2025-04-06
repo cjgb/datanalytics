@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-26 09:13:29+00:00
-draft: false
-title: Repensando la tiranía de la anarquía
-
-url: /2016/01/26/repensando-la-tirania-de-la-anarquia/
 categories:
 - varios
+date: 2016-01-26 09:13:29+00:00
+draft: false
+lastmod: '2025-04-06T19:00:39.030294'
+related:
+- 2015-09-25-la-huelga-del-metro-de-londres-y-sus-efectos-beneficiosos.md
+- 2016-06-13-censura-a-la-izquierda-en-las-universidades-espanolas.md
+- 2018-12-03-sobre-madrid-central.md
+- 2012-04-30-contar-c2bffacil.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
 tags:
 - artículos
 - escaleras
+title: Repensando la tiranía de la anarquía
+url: /2016/01/26/repensando-la-tirania-de-la-anarquia/
 ---
 
 Tener y cumplir reglas te puede hacer libre. La falta de reglas o su incumplimiento puede restringir tu libertad. Mi ejemplo favorito es el de las escaleras mecánicas del metro. En muchas ciudades opera y se cumple una regla no siempre escrita: si quieres permanecer quieto, quédate en el lado derecho y deja el lado izquierdo para quienes quieran subir más aprisa. Esa regla (o costumbre) te permite optar: lado derecho y no caminar; lado izquierdo y avanzar más rápido.
@@ -27,6 +33,3 @@ Así que las preguntas que plantea el estudio son:
 
 * ¿Se obtendrían los mismos resultados en tramos más cortos?
 * ¿Se perdería eficiencia global si los resultados obtenidos en tramos muy largos se extrapolasen a todos?
-
-
-

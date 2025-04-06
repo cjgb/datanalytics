@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-02 07:13:11+00:00
-draft: false
-title: El borrador de Ley de transparencia, disponible
-
-url: /2011/08/02/el-borrador-de-ley-de-transparencia-disponible/
 categories:
 - estadística
 - números
+date: 2011-08-02 07:13:11+00:00
+draft: false
+lastmod: '2025-04-06T19:13:12.519130'
+related:
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
+- 2015-05-06-podra-que-significara-podra.md
+- 2016-05-18-transparencia-ley-de-transparencia-y-todas-esas-cosas.md
 tags:
 - datos abiertos
 - estadística
 - números
 - datos públicos
+title: El borrador de Ley de transparencia, disponible
+url: /2011/08/02/el-borrador-de-ley-de-transparencia-disponible/
 ---
 
 Hace unos días, el mismo en el que se anunciaron las elecciones anticipadas (en España) fue publicado el [borrador de lo que podría llegar a convertirse en la futura Ley de transparencia](http://www.access-info.org/documents/BORRADOR_LTI_para_CM_290711_conExpoMotivos.pdf).

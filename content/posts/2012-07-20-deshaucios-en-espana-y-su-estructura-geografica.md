@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-20 07:10:45+00:00
-draft: false
-title: Deshaucios en España y su estructura geográfica
-
-url: /2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/
 categories:
 - gráficos
 - números
+date: 2012-07-20 07:10:45+00:00
+draft: false
+lastmod: '2025-04-06T18:48:06.341884'
+related:
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2012-08-14-incendios-en-espana.md
+- 2011-11-03-2872.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2012-03-29-otra-de-huelgas.md
 tags:
 - datos abiertos
 - gráficos
 - números
 - periodismo de datos
+title: Deshaucios en España y su estructura geográfica
+url: /2012/07/20/deshaucios-en-espana-y-su-estructura-geografica/
 ---
 
 Participo (de manera muy pasiva) en un foro de periodismo de datos de Barcelona. En él se planteó la posibilidad de desarrollar un proyecto para recopilar información sobre deshaucios y entender mejor este fenómeno.

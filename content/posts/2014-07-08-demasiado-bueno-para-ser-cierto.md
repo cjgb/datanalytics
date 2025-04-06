@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-08 07:13:48+00:00
-draft: false
-title: Demasiado bueno para ser cierto
-
-url: /2014/07/08/demasiado-bueno-para-ser-cierto/
 categories:
 - números
+date: 2014-07-08 07:13:48+00:00
+draft: false
+lastmod: '2025-04-06T18:58:56.209274'
+related:
+- 2024-02-13-outliers-dos-modos.md
+- 2010-10-29-c2a1que-mala-suerte-tengo-con-las-anomalias.md
+- 2014-07-07-por-que-soy-esceptico-con-respecto-al-periodismo-de-datos.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2016-06-02-deteccion-de-outliers-locales.md
 tags:
 - gotham
 - gowex
 - outliers
+title: Demasiado bueno para ser cierto
+url: /2014/07/08/demasiado-bueno-para-ser-cierto/
 ---
 
 O el porqué de la importancia de los _outliers_.

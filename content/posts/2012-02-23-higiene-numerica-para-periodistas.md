@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-23 08:36:13+00:00
-draft: false
-title: Higiene numérica para periodistas
-
-url: /2012/02/23/higiene-numerica-para-periodistas/
 categories:
 - estadística
 - números
+date: 2012-02-23 08:36:13+00:00
+draft: false
+lastmod: '2025-04-06T18:59:04.652711'
+related:
+- 2012-04-30-contar-c2bffacil.md
+- 2012-06-13-rankings-de-colegios-problemas-y-alternativas.md
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
 tags:
 - estadística
 - números
 - periodismo de datos
+title: Higiene numérica para periodistas
+url: /2012/02/23/higiene-numerica-para-periodistas/
 ---
 
 De la bitácora de [Getstats ](http://www.getstats.org.uk/)y a través de un enlace publicado por [Alberto Cairo](http://www.thefunctionalart.com/) en su cuenta de Twitter, he llegado a _[lo que los periodistas deberían saber](http://www.getstats.org.uk/2012/01/31/what-journalists-need-to-know/)_ (para informar correctamente cuando el asunto tiene tintes cuantitativos).
@@ -30,4 +36,3 @@ Proporciona un enlace a un documento que me tomo la libertad de traducir aquí. 
 10. Una buena información debe ofrecer una visión equilibrada entre las cifras a las que se refiere. Es mejor centrarse en el número más probable que en los más extremos. Por ejemplo, en las historias sobre los efectos de una epidemia de gripe, en lugar de fórmulas como _podría llegar a alcanzar valores tan altos como..._ son preferibles las del tipo _es improbable que exceda... _. Como los números pueden ser malinterpretados, es preferible eliminar el sesgo.
 11. El riesgo es arriesgado. Por ejemplo, la frase _comer panceta diariamente aumenta el riesgo de llegar a padecer cáncer de intestino en un 20%_ viene a decir lo mismo que _de cada 100 personas que comen panceta diariamente, una más acabarás sufriendo cáncer de intestino_. Pero la primera es alarmista e inexacta. De estar disponible, es conveniente expresar la información en términos del número de afectados por cada cien o cien mil personas.
 12. Los medios digitales permiten mostrar datos de manera más dinámica e imaginativa. En cualquier caso, siempre hay que preguntarse: ¿son claros los gráficos? ¿Cuentan la misma historia que el texto?
-

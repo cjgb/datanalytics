@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-30 07:48:59+00:00
-draft: false
-title: Dos perspectivas sobre el problema de los valores no informados
-
-url: /2011/05/30/dos-perspectivas-sobre-el-problema-de-los-valores-no-informados/
 categories:
 - estadística
 - r
+date: 2011-05-30 07:48:59+00:00
+draft: false
+lastmod: '2025-04-06T18:55:22.513306'
+related:
+- 2020-09-03-contrariamente-a-lo-que-creia-recordar-hot-deck-locf.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-03-18-lme4-simulate.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - estadística
 - r
 - missing values
 - paquetes
+title: Dos perspectivas sobre el problema de los valores no informados
+url: /2011/05/30/dos-perspectivas-sobre-el-problema-de-los-valores-no-informados/
 ---
 
 Me llegó el otro día información acerca de un curso sobre métodos para afrontar el problema planteado por los valores no informados (_missing observations_) que su autor agrupaba bajo etiquetas bastante simpáticas: el bueno, el malo y el impensable. Tal vez faltaba el feo, tal vez porque lo son todos ellos, igual que el bendito problema que suponen. Añadía, sin mayores abundamientos, que

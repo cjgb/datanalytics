@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-28 09:13:00+00:00
-draft: false
-title: Modelos como "hechos estilizados"
-
-url: /2020/07/28/modelos-como-hechos-estilizados/
 categories:
 - estadística
+date: 2020-07-28 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:02:17.480799'
+related:
+- 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
+- 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
 tags:
 - hechos estilizados
 - modelos
 - mala ciencia
+title: Modelos como "hechos estilizados"
+url: /2020/07/28/modelos-como-hechos-estilizados/
 ---
 
 El otro día,  una remesa de nuevos datos rompió un modelo (no mío) en producción. El modelo suponía que la forma de los datos era muy concreta y estos se rebelaron.

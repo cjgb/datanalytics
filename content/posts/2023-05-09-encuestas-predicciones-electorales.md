@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-05-09
-title: 'Encuestas vs predicciones electorales'
-
-url: /2023/05/09/encuestas-predicciones-electorales/
 categories:
 - estadística
+date: 2023-05-09
+lastmod: '2025-04-06T18:51:35.786805'
+related:
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
+- 2023-05-16-promedio-predicciones-electorales.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2015-09-29-la-funesta-mania-de-querer-acertar.md
 tags:
 - encuestas
 - predicción
 - españa
+title: Encuestas vs predicciones electorales
+url: /2023/05/09/encuestas-predicciones-electorales/
 ---
 
 ## I.

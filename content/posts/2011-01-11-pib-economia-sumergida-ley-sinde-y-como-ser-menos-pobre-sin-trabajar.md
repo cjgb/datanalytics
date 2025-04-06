@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-11 09:36:04+00:00
-draft: false
-title: PIB, economía sumergida, Ley Sinde y cómo ser menos pobre sin trabajar
-
-url: /2011/01/11/pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar/
 categories:
 - números
+date: 2011-01-11 09:36:04+00:00
+draft: false
+lastmod: '2025-04-06T19:01:45.598874'
+related:
+- 2011-02-25-1605.md
+- 2010-11-09-la-pirateria-de-libros-se-dispara-en-2010-nos-dicen.md
+- 2011-01-25-c2bfacaban-las-descargas-ilegales-con-la-cultura.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
 tags:
 - números
+title: PIB, economía sumergida, Ley Sinde y cómo ser menos pobre sin trabajar
+url: /2011/01/11/pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar/
 ---
 
 Estaba mirando por ahí maneras imaginativas para salir de la crisis. Que conste que he tirado la toalla con respecto a los tradicionales: trabajando más y mejor no va a ser. Es imposible. Me di cuenta de eso el viernes mientras trataba de importar un fichero de datos que me había hecho llegar un _profesional_ de la informática. (Hasta que no dejemos a éste y otros _profesionales_ análogos en una patera en los mares del sur con una garrafa de agua y una biblia, no saldremos adelante por la vía de las naciones decentes).

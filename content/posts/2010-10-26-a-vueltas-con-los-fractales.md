@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-26 21:27:06+00:00
-draft: false
-title: A vueltas con los fractales
-
-url: /2010/10/26/a-vueltas-con-los-fractales/
 categories:
 - r
+date: 2010-10-26 21:27:06+00:00
+draft: false
+lastmod: '2025-04-06T19:12:16.026210'
+related:
+- 2012-02-16-virgueria-con-r.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
+- 2014-05-12-grid-scala-y-arbolitos.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2011-08-29-2570.md
 tags:
 - r
 - gráficos
 - fractales
+title: A vueltas con los fractales
+url: /2010/10/26/a-vueltas-con-los-fractales/
 ---
 
 Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](http://www.datanalytics.com/2010/04/21/para-que-copien-peguen-y-disfruten-addenda/), mi tocayo Carlos Ortega (y ahora gentil colaborador) nos ha proporcionado un enlace en este blog a un pedazo de código que bien vale la pena replicar aquí para el solaz (y tal vez, incluso, provecho) de los lectores de estas páginas. Es:

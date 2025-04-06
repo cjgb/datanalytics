@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-22 13:50:11+00:00
-draft: false
-title: Sobre la cuota de mercado mundial de las herramientas analíticas de negocio
-
-url: /2010/08/22/sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio/
 categories:
 - r
+date: 2010-08-22 13:50:11+00:00
+draft: false
+lastmod: '2025-04-06T19:04:49.073275'
+related:
+- 2014-03-20-los-sospechosos-habituales-y-python.md
+- 2011-06-02-sobre-la-encuesta-sobre-mineria-de-datos-de-rexer-analytics.md
+- 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md
+- 2010-10-14-mas-sobre-lo-de-netezza.md
+- 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md
 tags:
 - ciencia de datos
 - r
 - sas
 - software
+title: Sobre la cuota de mercado mundial de las herramientas analíticas de negocio
+url: /2010/08/22/sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio/
 ---
 
 Hace poco, [IDC](http://www.idc.com/) —una empresa que hace estudios de mercado a nivel global de distintas herramientas de _sofware_ y _hardware_ — hizo público su informe periódico _Worldwide Business Intelligence Tools 2009 Vendor Shares_. En su página 8, la más jugosa del informe, aparece la tabla que reproduzco a continuación:

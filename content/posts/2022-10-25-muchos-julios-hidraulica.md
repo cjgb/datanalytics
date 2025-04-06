@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-10-25
-title: "2.551879e+18 julios anuales"
-
-url: /2022/10/25/potencial-hidraulico-total-espana/
 categories:
 - números
+date: 2022-10-25
+lastmod: '2025-04-06T18:53:05.921054'
+related:
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2023-06-06-energia-coches-particulares.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2021-11-18-sobre-el-almacenamiento-industrial-de-la-energia-electrica.md
+- 2022-07-26-hueco-termico.md
 tags:
 - energía
 - energía hidráulica
 - españa
 - david mackay
+title: 2.551879e+18 julios anuales
+url: /2022/10/25/potencial-hidraulico-total-espana/
 ---
 
 La entrada de hoy es un ejercicio intrascendente inspirado en cálculos similares, pero aplicados al RU, en el octavo capítulo del muy recomendable librito

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-11-16 09:13:00+00:00
-draft: false
-title: Garantías de robustez en inferencia causal
-
-url: /2021/11/16/garantias-de-robustez-en-inferencia-causal/
 categories:
 - artículos
 - estadística
+date: 2021-11-16 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:49:16.991979'
+related:
+- 2024-09-12-cortos-stats.md
+- 2024-02-13-outliers-dos-modos.md
+- 2022-03-18-diagramas-causales-hipersimples-2-control.md
+- 2025-01-07-cortos-stats-causalidad.md
+- 2019-10-25-gente-que-toma-la-causalidad-en-vano.md
 tags:
 - artículos
 - causalidad
 - inferencia
+title: Garantías de robustez en inferencia causal
+url: /2021/11/16/garantias-de-robustez-en-inferencia-causal/
 ---
 
 Por motivos que no vienen al caso, me ha tocado ponderar el artículo _[The use of controls in interrupted time series studies of public health interventions](https://pubmed.ncbi.nlm.nih.gov/29982445/)_. Lo comento hoy porque hace referencia a temas que me ha gustado tratar en el pasado.

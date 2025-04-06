@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-09 09:13:00+00:00
-draft: false
-title: Este vídeo es un resumen en 15 minutos de años de entradas de este blog, solo
-  que contado todo al revés
-
-url: /2020/09/09/este-video-es-un-resumen-en-15-minutos-de-anos-de-entradas-de-este-blog-solo-que-contado-todo-al-reves/
 categories:
 - estadística
 - números
+date: 2020-09-09 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:48:50.972628'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2017-02-21-videos-sobre-estadistica-pero-que-conste-esto-no-es-una-recomendacion.md
+- 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
+- 2021-06-20-nuevo-video-en-youtube-esta-vez-sobre-la-falacia-ecologica.md
+- 2023-10-03-muestreo-superricos.md
 tags:
 - apuestas
 - estadística
 - tipsters
+title: Este vídeo es un resumen en 15 minutos de años de entradas de este blog, solo
+  que contado todo al revés
+url: /2020/09/09/este-video-es-un-resumen-en-15-minutos-de-anos-de-entradas-de-este-blog-solo-que-contado-todo-al-reves/
 ---
 
 El vídeo es este:

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-21 07:13:32+00:00
-draft: false
-title: 'Mi querido colega de Iberia:'
-
-url: /2014/11/21/mi-querido-colega-de-iberia/
 categories:
 - consultoría
+date: 2014-11-21 07:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:47:30.875348'
+related:
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2012-03-28-contrafactualidad-radial.md
+- 2012-03-14-c2a1mano-que-mapa.md
 tags:
 - churn
 - clústering
 - consultoría
 - iberia
 - segmentación
+title: 'Mi querido colega de Iberia:'
+url: /2014/11/21/mi-querido-colega-de-iberia/
 ---
 
 Te escribo desde Zúrich. Tenía, o eso creía yo, un vuelo a Madrid esta tarde. Pero al llegar al aeropuerto, no constaba en la lista de viajeros. El motivo figura en una subsubsubpágina de vuestro portal: si un viajero pierde el vuelo de ida, como me ocurrió el lunes pasado, se cancela automáticamente el de vuelta.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-19 20:48:10+00:00
-draft: false
-title: ¿En qué se parecen Oracle y Teradata a Excel y Word?
-
-url: /2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/
 categories:
 - programación
+date: 2010-05-19 20:48:10+00:00
+draft: false
+lastmod: '2025-04-06T18:49:06.358191'
+related:
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2011-12-09-bajo-el-capo-de-teradatar.md
+- 2011-04-18-teradata-r-y-las-iii-jornadas-de-usuarios-de-r.md
+- 2010-03-11-madre-teresa-patriotas-idiotas-y-queries-recursivas.md
+- 2010-07-18-mas-de-diez-motivos-para-usar-proc-sql-en-sas.md
 tags:
 - excel
 - sql
+title: ¿En qué se parecen Oracle y Teradata a Excel y Word?
+url: /2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/
 ---
 
 Y, para el caso, Postgres y OpenOffice.

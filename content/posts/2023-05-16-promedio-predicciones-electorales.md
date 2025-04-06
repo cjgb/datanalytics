@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-05-16
-title: 'Problemas de los promedios de encuestas electorales'
-
-url: /2023/05/16/problemas-promedios-encuestas-electorales/
 categories:
 - estadística
+date: 2023-05-16
+lastmod: '2025-04-06T19:04:54.771272'
+related:
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2016-05-05-encuestas-electorales-medios-y-sesgos-i.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
 tags:
 - encuestas
 - promedios
 - sesgos
+title: Problemas de los promedios de encuestas electorales
+url: /2023/05/16/problemas-promedios-encuestas-electorales/
 ---
 
 El otro día,
@@ -32,7 +38,3 @@ Resumen del problema:
 4. Cuando, realmente, son únicamente ruido instrumental.
 
 En el enlace se discute una posible solución. Alega el autor que no basta con promediar: también hay que _sesgar_. Es decir, hay que _manipular_ ---en el sentido más literal y menos connotativo del término--- los valores de los que se realizan las medias.
-
-
-
-

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-12-10 08:13:02+00:00
-draft: false
-title: Libros y el índice de compresibilidad
-
-url: /2018/12/10/libros-y-el-indice-de-compresibilidad/
 categories:
 - libros
+date: 2018-12-10 08:13:02+00:00
+draft: false
+lastmod: '2025-04-06T19:02:45.052042'
+related:
+- 2015-04-08-adaequatio-rei-et-intellectus.md
+- 2020-01-27-estadistica-basica-edulcorada.md
+- 2017-11-06-la-heterogenea-distribucion-temporal-de-las-100-mejores-novelas-segun-le-monde.md
+- 2020-10-15-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-primera-entrega.md
+- 2020-04-03-10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre.md
 tags:
 - libros
+title: Libros y el índice de compresibilidad
+url: /2018/12/10/libros-y-el-indice-de-compresibilidad/
 ---
 
 Los libros contienen palabras e ideas. Un libro con un índice de compresibilidad del 0% es uno para el que transmitir el, p.e., 30% de las ideas que contiene hacen falta, como poco, el 30% de las palabras. Muchos libros de matemáticas o estadística tienen ratios de ese nivel.

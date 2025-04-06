@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-05-11
-title: 'Nivel de estudios: padres vs hijos'
-
-url: /2023/05/11/nivel-estudios-padres-hijos/
 categories:
 - números
+date: 2023-05-11
+lastmod: '2025-04-06T18:48:09.940242'
+related:
+- 2014-04-23-demasiado-simple.md
+- 2012-07-12-edad-nivel-de-formacion-sexo-y-paro.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2024-01-09-regresiones_pisa.md
+- 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
 tags:
 - estadística pública
 - educación
 - movilidad social
 - españa
+title: 'Nivel de estudios: padres vs hijos'
+url: /2023/05/11/nivel-estudios-padres-hijos/
 ---
 
 Navegando ---y no por capricho--- por esa gran pila de estiércol que es la parte visible de la estadística pública española (es decir, tablas, series, etc. publicados por distintos organismos públicos) he tropezado con unos datos que puede que interesen a alguien.
@@ -26,5 +32,3 @@ Y si por centrar el tiro nos restringimos al tramo de edad 25-44,
 ![](/wp-uploads/2023/nivel_estudios_progenitores_25_44.png#center)
 
 Nada más.
-
-

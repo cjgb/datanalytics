@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-12 18:35:17+00:00
-draft: false
-title: El índice de inflación sostenible (que no existe)
-
-url: /2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/
 categories:
 - finanzas
 - números
+date: 2010-10-12 18:35:17+00:00
+draft: false
+lastmod: '2025-04-06T19:09:25.594527'
+related:
+- 2022-05-17-como-calcula-inflacion.md
+- 2021-11-24-medias-ponderadas-a-lo-uluru.md
+- 2024-01-02-medida-inflacion-stealthflaction.md
+- 2011-02-25-1605.md
+- 2012-06-19-el-indice-de-riqueza-inclusiva.md
 tags:
 - números
 - inflación
 - ine
+title: El índice de inflación sostenible (que no existe)
+url: /2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/
 ---
 
 La estadística oficial (tal como la entienden el INE y organismos similares) ejercen un, así lo llamamos los pedantes, pernicioso efecto reificador. Me explico: todos tenemos una idea intuitiva sobre lo que significa la inflación, la tasa de desempleo o el producto nacional bruto. Pero la inflación, la tasa de desempleo o el producto nacional bruto _son_ —en _realidad_ y para todos los efectos— lo que nos dice el INE que son: unos números que publican días, semanas o incluso años después de ocurrido el hecho medible.

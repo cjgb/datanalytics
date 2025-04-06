@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-07-19 22:00:40+00:00
-draft: false
-title: Qué hacer (y no hacer) con los bichitos que uno encuentra
-
-url: /2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/
 categories:
 - consultoría
+date: 2010-07-19 22:00:40+00:00
+draft: false
+lastmod: '2025-04-06T18:47:14.349355'
+related:
+- 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
+- 2010-08-05-un-ilustrador-problema-de-compatibilidad-de-licencias-libres.md
+- 2010-11-22-c2bfotro-bug-de-teradata.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2023-04-20-dejar-morir-pxr.md
 tags:
 - consultoría
 - software
+title: Qué hacer (y no hacer) con los bichitos que uno encuentra
+url: /2010/07/19/que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra/
 ---
 
 No sé si es porque gano agudeza visual, porque me vuelvo cascarrabias o, simplemente, porque tengo mala suerte. Pero cada vez me tropiezo con más bichitos de esos que en inglés se llaman _bugs_. Y me refiero a esos que son consustanciales a todo proyecto de _software_.

@@ -1,14 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-06-09
-title: 'Vale, el modelo es y = f(x) + error y f es importante, pero lo que le da significado es y'
-description: 'La semántica de los modelos está proporcionada por la y'
-url: /2022/06/09/y-es-la-semantica-modelos/
 categories:
 - estadística
+date: 2022-06-09
+description: La semántica de los modelos está proporcionada por la y
+lastmod: '2025-04-06T18:56:02.926900'
+related:
+- 2017-12-04-la-magnitud-de-la-sequia.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2024-10-17-interpretacion-modelos.md
+- 2022-09-29-ensembles-meteorologicos-probabilisticos-o-no.md
+- 2021-01-26-que-modelas-cuando-modelas.md
 tags:
 - modelización
 - estadística
+title: Vale, el modelo es y = f(x) + error y f es importante, pero lo que le da significado
+  es y
+url: /2022/06/09/y-es-la-semantica-modelos/
 ---
 
 Esta es una entrada sobre la _semántica_ de los modelos que resume mi planteamiento en una discusión que tuve hace un tiempo en Twitter. La he buscado sin éxito, así que la resumo. Alguien ---no recuerdo bien--- quería explicar cómo hace AEMET las predicciones meteorológicas _probabilísticas_. Pero con un error de planteamiento. Venía a decir que una predicción meteorológica probabilística (p.e., la probabilidad de que mañana llueva en Madrid) no _significa_ algo así como que de tantos días parecidos a los de hoy, al día siguiente llovió en tal proporción sino otra cosa distinta.
@@ -27,4 +35,3 @@ Tampoco puedo dejar de mencionar cómo también el asunto de qué significan, c�
 Pero retomo el asunto de la confusión conceptual. Y es que quienquiera que diseño la $f(x)$ que proporciona las predicciones probabilísticas tuvo delante de sí innumerables opciones para construirla (poéticamente: transitaba en el borgiano [jardín de los senderos que se bifurcan](http://datanalytics.com/2016/04/11/y-viene-del-espanol-tu/)) y lo que le hizo decantarse por la particular versión de $f$ que describe AEMET en en libro anterior es su _compatibilidad_ con $y$, es decir, los registros existentes de días en que llovió y no llovió. Es precisamente $y$ la que da ---dió--- forma al modelo y la que, finalmente, explica lo que hace.
 
 El cómo, la $f$, es otra cuestión distinta.
-

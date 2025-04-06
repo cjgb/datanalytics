@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-16 08:13:02+00:00
-draft: false
-title: Detrás de la detección de anomalías en series temporales
-
-url: /2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/
 categories:
 - estadística
 - r
+date: 2016-11-16 08:13:02+00:00
+draft: false
+lastmod: '2025-04-06T18:56:40.590646'
+related:
+- 2020-09-17-una-herramienta-para-el-analisis-no-parametrico-de-series-temporales.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
+- 2024-02-13-outliers-dos-modos.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
+- 2023-01-16-autoencoders-consejos.md
 tags:
 - anomalías
 - anomalydetection
 - paquetes
 - r
 - series temporales
+title: Detrás de la detección de anomalías en series temporales
+url: /2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/
 ---
 
 Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es un problema que tiene que ver con dónde colocar las marcas azules en

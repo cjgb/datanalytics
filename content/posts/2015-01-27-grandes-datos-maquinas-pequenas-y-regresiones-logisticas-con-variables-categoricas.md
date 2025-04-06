@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-27 07:13:49+00:00
-draft: false
-title: Grandes datos, máquinas pequeñas (y regresiones logísticas con variables categóricas)
-
-url: /2015/01/27/grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas/
 categories:
 - estadística
 - r
+date: 2015-01-27 07:13:49+00:00
+draft: false
+lastmod: '2025-04-06T19:10:28.820602'
+related:
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2020-03-18-lme4-simulate.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - estadística
 - glm
 - r
 - regresión logística
+title: Grandes datos, máquinas pequeñas (y regresiones logísticas con variables categóricas)
+url: /2015/01/27/grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas/
 ---
 
 Preguntaba el otro día Emilio Torres [esto](https://stat.ethz.ch/pipermail/r-help-es/2015-January/008447.html) en [R-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es). Resumo la pregunta. Se trata de una simulación de unos datos y su ajuste mediante una regresión logística para ver si los coeficientes obtenidos son o no los esperados (teóricamente y por construcción).
@@ -81,7 +87,3 @@ plot(as.data.frame(res))
 
 
 En cada iteración, el conjunto de datos `dat` tiene solo 4 filas que resumen el problema anterior para un conjunto de datos de 4e5 filas. El truco consiste en utilizar la notación `glm(cbind(exito, fracaso) ~ x1*x2, data = dat, family = binomial())` para el modelo logístico, que puede ser utilizada para abreviar cálculos con grandes datos en otras situaciones.
-
-
-
-

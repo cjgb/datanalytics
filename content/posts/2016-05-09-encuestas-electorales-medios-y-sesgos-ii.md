@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-09 08:13:27+00:00
-draft: false
-title: 'Encuestas electorales: medios y sesgos (II)'
-
-url: /2016/05/09/encuestas-electorales-medios-y-sesgos-ii/
 categories:
 - estadística
+date: 2016-05-09 08:13:27+00:00
+draft: false
+lastmod: '2025-04-06T18:58:50.201622'
+related:
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2018-11-08-siguen-votando-igual-los-diputados.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
 tags:
 - elecciones
 - encuestas
@@ -15,6 +19,8 @@ tags:
 - lme4
 - modelos mixtos
 - r
+title: 'Encuestas electorales: medios y sesgos (II)'
+url: /2016/05/09/encuestas-electorales-medios-y-sesgos-ii/
 ---
 
 [Aquí](https://www.datanalytics.com/2016/05/05/encuestas-electorales-medios-y-sesgos-i/) quedó pendiente hablar de datos y métodos. Los primeros proceden de [El Mundo](http://www.elmundo.es/grafico/espana/2015/10/15/561fe19422601dd7728b45ef.html). Solicité a [Marta Ley](https://twitter.com/leymarta), una coautora, los datos pero, antes de que contestase que sí (¡gracias!), me di cuenta de que [podía obtenerlos solito](https://spreadsheets.google.com/feeds/list/1vyVTJPr7ZpuQI4m17cekWl485cQ-Zh6O9Yb6zXkPpYI/od6/public/values?alt=json): basta con capturar la llamada que el javascript local hace al servidor.

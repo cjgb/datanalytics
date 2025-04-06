@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-16 04:20:30+00:00
-draft: false
-title: Leyendo en diagonal (pero con cuidado)
-
-url: /2010/08/16/leyendo-en-diagonal-pero-con-cuidado/
 categories:
 - ciencia de datos
+date: 2010-08-16 04:20:30+00:00
+draft: false
+lastmod: '2025-04-06T18:49:22.964502'
+related:
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2013-12-31-palabras-y-pelas-un-ejercicio-apenas-incoado.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2012-03-13-las-palabras-esenciales-del-diccionario.md
 tags:
 - nlp
+title: Leyendo en diagonal (pero con cuidado)
+url: /2010/08/16/leyendo-en-diagonal-pero-con-cuidado/
 ---
 
 Un profesor mío de historia en primero de BUP nos confesó un día que para corregir exámenes leía en diagonal: pasaba la vista de la esquina superior izquierda de la hoja a la inferior derecha y según las palabras que entendía por el camino ponía una nota u otra.

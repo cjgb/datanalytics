@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-12-05 08:30:37+00:00
-draft: false
-title: ¿Tiene sentido plantearse un objetivo que no se puede medir?
-
-url: /2018/12/05/tiene-sentido-plantearse-un-objetivo-que-no-se-puede-medir/
 categories:
 - estadística
+date: 2018-12-05 08:30:37+00:00
+draft: false
+lastmod: '2025-04-06T18:45:41.897984'
+related:
+- 2020-03-25-cuantificacion-y-riesgo.md
+- 2012-07-10-la-desigualdad-y-como-medirla.md
+- 2019-01-04-sobre-la-brecha-salarial-de-belleza.md
+- 2019-05-08-a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas.md
+- 2020-04-03-10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre.md
 tags:
 - desigualdad
 - estadística pública
 - libros
 - reificación
+title: ¿Tiene sentido plantearse un objetivo que no se puede medir?
+url: /2018/12/05/tiene-sentido-plantearse-un-objetivo-que-no-se-puede-medir/
 ---
 
 Por ejemplo, el de la _igualdad_. Aquí [un artículo en el que se dice que no](http://nadaesgratis.es/bentolila/ha-crecido-la-desigualdad-en-espana-hmm) y [otro del mismo autor en el que se dice que sí](http://nadaesgratis.es/bentolila/ha-crecido-la-desigualdad-en-espana-ii-pues-va-a-ser-que-si) (parece que todo se reduce a cuestiones metodológicas).

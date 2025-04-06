@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-25 14:04:15+00:00
-draft: false
-title: Tecnologías de la información 2020
-
-url: /2010/09/25/tecnologias-de-la-informacion-2020/
 categories:
 - consultoría
+date: 2010-09-25 14:04:15+00:00
+draft: false
+lastmod: '2025-04-06T19:00:02.535549'
+related:
+- 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
+- 2012-01-24-c2bfque-es-un-data-scientist.md
+- 2012-11-21-260gb-es-big-data.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2013-07-10-mi-definicion-de-big-data.md
 tags:
 - consultoría
+title: Tecnologías de la información 2020
+url: /2010/09/25/tecnologias-de-la-informacion-2020/
 ---
 
 Me consta que algunos de mis lectores piensan en reorientar sus carreras. Éstos se autoclasifican en dos grandes grupos:

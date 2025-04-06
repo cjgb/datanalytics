@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-10-19 08:13:09+00:00
-draft: false
-title: La paradoja de Berkson
-
-url: /2015/10/19/la-paradoja-de-berkson/
 categories:
 - probabilidad
+date: 2015-10-19 08:13:09+00:00
+draft: false
+lastmod: '2025-04-06T19:04:30.674804'
+related:
+- 2019-06-12-la-paradoja-de-berkson-2.md
+- 2015-08-07-una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2022-09-06-problema-estadistica-frecuencias-naturales.md
+- 2014-07-31-combinacion-de-probabilidades.md
 tags:
 - paradojas
 - probabilidad
+title: La paradoja de Berkson
+url: /2015/10/19/la-paradoja-de-berkson/
 ---
 
 Queremos calentar unas empanadas en el horno y, ¡oh desgracia!, no funciona. Pueden pasar dos cosas (independientes entre sí):

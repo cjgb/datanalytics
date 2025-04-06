@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-20 08:13:17+00:00
-draft: false
-title: La tierra gira alrededor del sol, sí, pero... ¿cuánta gente lo sabe?
-
-url: /2017/04/20/la-tierra-gira-alrededor-del-sol-si-pero-cuanta-gente-lo-sabe/
 categories:
 - estadística
+date: 2017-04-20 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T18:49:35.853076'
+related:
+- 2022-09-13-errores-cierto-tipo-encuestas.md
+- 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
 tags:
 - encuestas
 - estimación
 - geocentrismo
 - excel
+title: La tierra gira alrededor del sol, sí, pero... ¿cuánta gente lo sabe?
+url: /2017/04/20/la-tierra-gira-alrededor-del-sol-si-pero-cuanta-gente-lo-sabe/
 ---
 
 Pues según la [VIII Encuesta de Percepción de la Ciencia realizado por la Fundación Española para la Ciencia y la Tecnología (Fecyt)](https://www.fecyt.es/sites/default/files/news/attachments/2017/04/epscyt2016_informe_final_web_fecyt.pdf), el 88.3% de los españoles (mayores de cierta edad y tal, supongo).

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-30 07:54:47+00:00
-draft: false
-title: El cuarteto de Anscombe
-
-url: /2013/08/30/el-cuarteto-de-anscombe/
 categories:
 - estadística
 - r
+date: 2013-08-30 07:54:47+00:00
+draft: false
+lastmod: '2025-04-06T18:58:37.240771'
+related:
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
+- 2011-04-26-graficos-vi-teoria.md
+- 2012-07-02-graficos-estadisticos-y-mapas-con-r.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2015-07-17-la-variacion-y-sus-negacionistas.md
 tags:
 - estadística
 - r
+title: El cuarteto de Anscombe
+url: /2013/08/30/el-cuarteto-de-anscombe/
 ---
 
 F. Anscombe escribió en 1973 el artículo [_Graphs in Statistical Analysis_](http://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf) para subrayar la importancia de los gráficos en el análisis estadístico.

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-06 22:41:11+00:00
-title: 'Una tarea para mis lectores: ¡resultados!'
-
-url: /2010/09/06/tarea-lectores-resultados/
 categories:
 - r
+date: 2010-09-06 22:41:11+00:00
+lastmod: '2025-04-06T19:10:31.055050'
+related:
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2013-05-09-data-table-ii-agregaciones.md
+- 2013-05-02-data-table-i-cruces.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2019-08-05-dplyr-parece-que-prefiere-los-factores.md
 tags:
 - r
 - programación
+title: 'Una tarea para mis lectores: ¡resultados!'
+url: /2010/09/06/tarea-lectores-resultados/
 ---
 
 El otro día dejé planteada[ una tarea para mis lectores](http://www.datanalytics.com/2010/08/17/una-tarea-para-mis-lectores/) (que han sido menos diligentes que yo, incluso). Trataba de una comparación entre varios métodos para acceder a diccionarios (o _hashes_) de datos desde R para tratar de identificar el más eficiente en términos de velocidad de acceso.

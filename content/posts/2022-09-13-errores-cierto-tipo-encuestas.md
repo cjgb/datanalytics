@@ -1,15 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-09-13
-title: 'Errores en cierto tipo de encuestas'
-description: 'Sobre un tipo de errores en cierto tipo de encuestas que no se suele tener en cuenta'
-url: /2022/09/13/errores-cierto-tipo-encuestas/
 categories:
 - estadística
+date: 2022-09-13
+description: Sobre un tipo de errores en cierto tipo de encuestas que no se suele
+  tener en cuenta
+lastmod: '2025-04-06T18:44:30.651543'
+related:
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 tags:
 - estadística bayesiana
 - encuestas
 - abc
+title: Errores en cierto tipo de encuestas
+url: /2022/09/13/errores-cierto-tipo-encuestas/
 ---
 
 En las encuestas a las que estamos acostumbrados se le pregunta a la gente cosas del tipo: ¿tiene Vd. perro? Luego, las respuestas se tabulan, etc. y se publican los resultados.

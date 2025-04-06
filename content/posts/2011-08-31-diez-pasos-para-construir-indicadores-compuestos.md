@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-31 07:19:45+00:00
-draft: false
-title: Diez pasos para construir indicadores compuestos
-
-url: /2011/08/31/diez-pasos-para-construir-indicadores-compuestos/
 categories:
 - estadística
 - números
+date: 2011-08-31 07:19:45+00:00
+draft: false
+lastmod: '2025-04-06T18:49:11.657123'
+related:
+- 2023-05-04-ine-satisfaccion-vida.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2012-04-30-contar-c2bffacil.md
+- 2022-05-17-como-calcula-inflacion.md
+- 2011-10-19-visualizacion-de-la-incertidumbre-sobre-el-futuro.md
 tags:
 - estadística
 - estadística pública
 - números
+title: Diez pasos para construir indicadores compuestos
+url: /2011/08/31/diez-pasos-para-construir-indicadores-compuestos/
 ---
 
 >"[...] es difícil imaginar que el debate sobre el uso de indicadores agregados llegue algún día zanjarse  [...] los estadísticos desconfían de ellos puesto que gran parte del trabajo de recolección y análisis de datos se "desvirtúa" o "esconde" detrás de un único número de dudoso valor. Otros, por su parte, encuentran irresistiblemente tentadora la posibilidad de resumir procesos complejos y lábiles (por ejemplo, sostenibilidad, etc.) en una cifra con la que comparar el desempeño de los distintos países."
@@ -35,4 +41,3 @@ En resumen, las recomendaciones son:
 8. A la vista de los datos de partida, estudiar cuáles son los **indicadores subyacentes que tienen más peso** en el indicador agregado (corrigiéndolo si estuviese excesivamente influido por alguno de ellos).
 9. Estudiar la (cor)relación del nuevo indicador con otros y ''**desarrollar narrativas**'' basadas en los resultados obtenidos.
 10. Planificar cómo han de visualizarse, presentarse y **divulgarse** los resultados obtenidos a su público objetivo.
-

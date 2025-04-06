@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-26 07:07:07+00:00
-draft: false
-title: Hemos cerrado el curso básico de R
-
-url: /2012/07/26/hemos-cerrado-el-curso-basico-de-r/
 categories:
 - r
+date: 2012-07-26 07:07:07+00:00
+draft: false
+lastmod: '2025-04-06T18:55:11.459893'
+related:
+- 2013-02-04-reeditamos-el-curso-basico-de-r.md
+- 2012-06-01-curso-de-r-gratuito-no-presencial.md
+- 2012-06-11-hoy-ha-comenzado-el-curso-basico-de-r.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - cursos
 - r
+title: Hemos cerrado el curso básico de R
+url: /2012/07/26/hemos-cerrado-el-curso-basico-de-r/
 ---
 
 El [curso básico de R](http://cursorbasico.usar.org.es) ha concluido. Hemos tenido 904 inscritos (aunque de ellos sólo un porcentaje pequeño ha tenido una participación activa) que a lo largo de 5 semanas han seguido el [programa ](http://cursorbasico.usar.org.es/etiquetas/programa/)que planteamos [Juanjo Gibaja](http://jjgibaja.net/) y yo.

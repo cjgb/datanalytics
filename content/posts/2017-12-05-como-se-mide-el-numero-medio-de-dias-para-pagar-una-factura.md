@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-05 08:13:00+00:00
-draft: false
-title: ¿Cómo se mide el número medio de días para pagar una factura?
-
-url: /2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/
 categories:
 - números
+date: 2017-12-05 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:01:22.112840'
+related:
+- 2020-05-29-no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2022-05-12-principio-mediocridad.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2015-10-14-del-hombre-medio-a-la-factura-media.md
 tags:
 - anumerismo
 - facturas
@@ -14,6 +18,8 @@ tags:
 - noticias
 - semivida
 - supervivencia
+title: ¿Cómo se mide el número medio de días para pagar una factura?
+url: /2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/
 ---
 
 _[Esta entrada tiene una errata de la que doy fe [aquí](https://www.datanalytics.com/2020/05/29/no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire/).]_

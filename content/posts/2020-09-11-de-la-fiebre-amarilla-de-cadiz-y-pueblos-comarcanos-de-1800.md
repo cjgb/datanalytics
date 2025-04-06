@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-11 09:13:00+00:00
-draft: false
-title: De "la fiebre amarilla de Cádiz y pueblos comarcanos" de 1800
-
-url: /2020/09/11/de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800/
 categories:
 - estadística
+date: 2020-09-11 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:08:27.954715'
+related:
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2020-05-07-coronavirus-cualitativo.md
+- 2020-03-23-hospitales-y-camas-en-la-comunidad-de-madrid.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - epidemiología
 - estadística
 - mapas
 - historia
+title: De "la fiebre amarilla de Cádiz y pueblos comarcanos" de 1800
+url: /2020/09/11/de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800/
 ---
 
 Esta entrada está motivada, en última instancia, por la lectura del libro (muy recomendable, por otra parte), _The Art of Statistics: Learning From Data_, de David Spiegelhalter. Sus muchas virtudes hacen, por contraste, que relumbre particularmente un defecto característico de toda esa creciente literatura sobre el tema: su aburridor anglocentrismo. Que si el médico devenido asesino en serie, que si los cirujanos de Bristol, que si el manidísimo John Snow (que esta vez, en este libro, de casualidad,  no aparece),...

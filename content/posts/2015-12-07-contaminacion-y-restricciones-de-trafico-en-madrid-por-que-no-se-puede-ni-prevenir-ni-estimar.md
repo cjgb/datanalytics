@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-07 08:13:26+00:00
-draft: false
-title: 'Contaminación y restricciones de tráfico en Madrid: ¿por qué no se puede ni
-  prevenir ni "estimar"?'
-
-url: /2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar/
 categories:
 - estadística
 - números
+date: 2015-12-07 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T19:02:37.335268'
+related:
+- 2019-10-18-el-modelo-son-las-conclusiones.md
+- 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2024-10-31-efectividad-alertas.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
 tags:
 - contaminación
 - estadística
 - madrid
 - predicción
+title: 'Contaminación y restricciones de tráfico en Madrid: ¿por qué no se puede ni
+  prevenir ni "estimar"?'
+url: /2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar/
 ---
 
 Aparentemente, porque así lo establece el [_protocolo de actuación_](http://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2015/02Febrero/05Jueves/Notasprensa/Contaminaci%C3%B3n/ficheros/Protocolo%20Di%C3%B3xidoNitr%C3%B3geno.pdf), del ayuntamiento de la villa. Lo resume la imagen

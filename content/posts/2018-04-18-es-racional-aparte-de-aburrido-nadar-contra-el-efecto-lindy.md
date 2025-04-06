@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-04-18 09:02:44+00:00
-draft: false
-title: ¿Es racional (aparte de aburrido) nadar contra el efecto Lindy?
-
-url: /2018/04/18/es-racional-aparte-de-aburrido-nadar-contra-el-efecto-lindy/
 categories:
 - varios
+date: 2018-04-18 09:02:44+00:00
+draft: false
+lastmod: '2025-04-06T18:58:47.382609'
+related:
+- 2017-09-15-dos-argumentos-racionales-en-pro-de-la-homeopatia.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2020-09-11-de-la-fiebre-amarilla-de-cadiz-y-pueblos-comarcanos-de-1800.md
+- 2018-09-06-el-pionero-de-la-matematizacion-de-la-estadistica.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
 tags:
 - homeopatía
 - lindy
+title: ¿Es racional (aparte de aburrido) nadar contra el efecto Lindy?
+url: /2018/04/18/es-racional-aparte-de-aburrido-nadar-contra-el-efecto-lindy/
 ---
 
 ¿Cuántas veces se habrá escrito este artículo ya? Su [renovada manifestación](https://elpais.com/elpais/2018/04/10/ciencia/1523356145_297099.html) trae la entradilla

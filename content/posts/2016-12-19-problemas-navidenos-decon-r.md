@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-12-19 08:13:22+00:00
-draft: false
-title: Problemas navideños de/con R
-
-url: /2016/12/19/problemas-navidenos-decon-r/
 categories:
 - r
+date: 2016-12-19 08:13:22+00:00
+draft: false
+lastmod: '2025-04-06T19:13:27.620446'
+related:
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
+- 2018-09-18-los-datos-estan-histogramizados-quien-los-deshisotogramizara.md
+- 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
 tags:
 - ejercicios
 - r
 - formación
+title: Problemas navideños de/con R
+url: /2016/12/19/problemas-navidenos-decon-r/
 ---
 
 Acabo de sugerir a mis alumnos de [KSchool](http://kschool.com/) una lista de problemas después de sus 10 primeras horas de contacto con R.

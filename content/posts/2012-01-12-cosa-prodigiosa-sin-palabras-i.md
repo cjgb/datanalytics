@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-12 07:14:49+00:00
-draft: false
-title: Cosa prodigiosa, sin palabras (I)
-
-url: /2012/01/12/cosa-prodigiosa-sin-palabras-i/
 categories:
 - probabilidad
 - r
+date: 2012-01-12 07:14:49+00:00
+draft: false
+lastmod: '2025-04-06T18:53:11.393618'
+related:
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 tags:
 - probabilidad
 - r
 - parrondo
+title: Cosa prodigiosa, sin palabras (I)
+url: /2012/01/12/cosa-prodigiosa-sin-palabras-i/
 ---
 
 Hoy voy a hacer mención a una cosa prodigiosa. Pero sin palabras. Voy a regalar a mis lectores tres pedazos de código que son este

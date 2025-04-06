@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-27 07:20:02+00:00
-draft: false
-title: D. Hand sobre estadística y minería de datos
-
-url: /2014/02/27/d-hand-sobre-estadistica-y-mineria-de-datos/
 categories:
 - estadística
+date: 2014-02-27 07:20:02+00:00
+draft: false
+lastmod: '2025-04-06T18:44:22.649085'
+related:
+- 2011-04-06-c2bfcual-es-la-esencia-de-la-estadistica.md
+- 2013-01-02-sobre-los-limites-de-la-mineria-de-datos.md
+- 2017-04-04-llego-llego-el-tiempo-de-la-ingenieria-estadistica.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
+- 2024-02-13-outliers-dos-modos.md
 tags:
 - estadística
 - inferencia
 - ciencia de datos
+title: D. Hand sobre estadística y minería de datos
+url: /2014/02/27/d-hand-sobre-estadistica-y-mineria-de-datos/
 ---
 
 Voy a comentar y recomendar hoy un artículo, _[Statistics and data mining: intersecting disciplines](http://dl.acm.org/citation.cfm?id=846171)_ (lo siento, he perdido el enlace para su libre descarga), del siempre recomendable David Hand. Trata de un asunto que para muchos de los que seáis estadísticos y trabajéis en el asunto rodeados de gente procedente de otras disciplinas —¡ay, esos ingenieros!—, seguro, os produce dolores de cabeza: esa brecha que separa los mundos de la estadística y de la llamada minería de datos (y de otras maneras más recientemente).

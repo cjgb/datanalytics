@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-28 07:13:31+00:00
-draft: false
-title: Como no tengo tiempo, voy a publicar una chorrada (y una coda)
-
-url: /2014/11/28/como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda/
 categories:
 - estadística
 - números
+date: 2014-11-28 07:13:31+00:00
+draft: false
+lastmod: '2025-04-06T19:02:15.925564'
+related:
+- 2012-08-30-yendo-por-moras-en-el-pais-vasco.md
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2012-03-07-esperanzador-no-varianzador.md
 tags:
 - confianza
 - estadística
@@ -15,6 +19,8 @@ tags:
 - lme4
 - lmer
 - mapas
+title: Como no tengo tiempo, voy a publicar una chorrada (y una coda)
+url: /2014/11/28/como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda/
 ---
 
 Como no tengo tiempo, voy a publicar una chorrada. Voy a coger unos datos que encuentre por ahí, voy a tomar alguna variable, voy a pintarla (en un mapa, si puede ser) y luego voy a construir una narrativa. Espero que no os deis cuenta y me lo creáis todo.

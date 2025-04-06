@@ -1,15 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-14
-title: "Causalidad: en defensa de Hume"
-description: "Es habitual hacer constar un defecto lógico en la definición de causalidad de Hume que aquí interpreto bajo una óptica distinta de la habitual"
-url: /2022/04/14/causalidad-definicion-hume/
 categories:
 - causalidad
+date: 2022-04-14
+description: Es habitual hacer constar un defecto lógico en la definición de causalidad
+  de Hume que aquí interpreto bajo una óptica distinta de la habitual
+lastmod: '2025-04-06T19:04:22.878141'
+related:
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2025-01-09-causalidad-sujeto-verbo-od.md
+- 2020-10-20-como-asignar-probabilidades-simetria-y-universalidad.md
+- 2024-09-10-causalidad.md
+- 2011-04-20-causalidad-o-asociacion-indicios-de-la-primera.md
 tags:
 - filosofía
 - hume
 - bayes
+title: 'Causalidad: en defensa de Hume'
+url: /2022/04/14/causalidad-definicion-hume/
 ---
 
 En 1748, Hume propuso la siguiente (archifamosa, archidiscutida y archicontrovertida) definición de causalidad:

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-06 07:00:44+00:00
-draft: false
-title: Códigos de caracteres, unicode y UTF-8
-
-url: /2011/09/06/codigos-de-caracteres-unicode-y-utf-8/
 categories:
 - r
+date: 2011-09-06 07:00:44+00:00
+draft: false
+lastmod: '2025-04-06T18:48:49.650758'
+related:
+- 2011-09-08-codigos-de-caracteres-en-r.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2023-04-20-dejar-morir-pxr.md
+- 2011-04-01-a-esa-gente-le-habia-hecho-falta-un-matematico.md
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
 tags:
 - programación
 - r
 - unicode
+title: Códigos de caracteres, unicode y UTF-8
+url: /2011/09/06/codigos-de-caracteres-unicode-y-utf-8/
 ---
 
 Unos quebraderos de cabeza en el desarrollo del [paquete pxR](http://www.datanalytics.com/2011/07/28/el-paquete-pxr-en-cran/) concernientes a los distintos códigos de caracteres en que hay que transfomar los datos me han obligado a profundizar en este enojoso asunto.

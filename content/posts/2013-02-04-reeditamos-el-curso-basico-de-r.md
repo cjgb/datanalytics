@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-04 07:37:07+00:00
-draft: false
-title: ¡Reeditamos el curso básico de R!
-
-url: /2013/02/04/reeditamos-el-curso-basico-de-r/
 categories:
 - cursos
 - r
+date: 2013-02-04 07:37:07+00:00
+draft: false
+lastmod: '2025-04-06T19:08:16.545189'
+related:
+- 2012-06-01-curso-de-r-gratuito-no-presencial.md
+- 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
+- 2012-06-11-hoy-ha-comenzado-el-curso-basico-de-r.md
+- 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md
+- 2012-10-22-nuevo-curso-gratuito-de-estadistica-con-r.md
 tags:
 - cursos
 - r
+title: ¡Reeditamos el curso básico de R!
+url: /2013/02/04/reeditamos-el-curso-basico-de-r/
 ---
 
 El año pasado, [Juanjo Gibaja](http://jjgibaja.net/) y yo organizamos nuestro [primer Curso Básico de R](http://www.datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). En esta entrada quiero anunciar su inminente reedición: ¡comienza el 11 de febrero!

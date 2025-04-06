@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-30 09:02:36+00:00
-draft: false
-title: No es país para estadísticos
-
-url: /2012/07/30/no-es-pais-para-estadisticos/
 categories:
 - estadística
 - números
+date: 2012-07-30 09:02:36+00:00
+draft: false
+lastmod: '2025-04-06T19:07:24.185361'
+related:
+- 2012-12-20-ipc-de-noviembre-al-menos-una-buena-noticia.md
+- 2022-01-27-inflacion-media.md
+- 2022-10-27-los-muchos-nombres-inflacion.md
+- 2022-05-17-como-calcula-inflacion.md
+- 2015-02-23-mas-sobre-el-error-de-medida.md
 tags:
 - estadística
 - estadística pública
 - ipc
 - números
 - periodismo de datos
+title: No es país para estadísticos
+url: /2012/07/30/no-es-pais-para-estadisticos/
 ---
 
 Esto me pasa por madrugar en lunes. Me levanto y me tropiezo con noticias como esta:

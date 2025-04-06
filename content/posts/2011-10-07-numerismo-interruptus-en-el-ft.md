@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-07 12:00:38+00:00
-draft: false
-title: Numerismo "interruptus" en el FT
-
-url: /2011/10/07/numerismo-interruptus-en-el-ft/
 categories:
 - finanzas
 - números
+date: 2011-10-07 12:00:38+00:00
+draft: false
+lastmod: '2025-04-06T18:45:45.232004'
+related:
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2013-08-14-tres-grandes-numeros-con-enmienda.md
+- 2012-07-04-libor-libor-fundeu-y-barclays-claro.md
+- 2013-07-24-tres-numeros.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - anumerismo
 - finanzas
 - mercados financieros
 - números
+title: Numerismo "interruptus" en el FT
+url: /2011/10/07/numerismo-interruptus-en-el-ft/
 ---
 
 Cuando era menos pobre, antes de la crisis, me desayunaba todos los días con el Financial Times. Me lo daban gratis en el hotel. Al cabo de un año leyéndome cada letra de cada edición, los principales columnistas acabaron siendo como de la familia.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-03-16 08:13:54+00:00
-draft: false
-title: Invertir relaciones causales plausibles exige mucha, mucha explicación
-
-url: /2018/03/16/invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion/
 categories:
 - causalidad
+date: 2018-03-16 08:13:54+00:00
+draft: false
+lastmod: '2025-04-06T18:54:53.795060'
+related:
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2024-09-10-causalidad.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
 tags:
 - causalidad
 - prensa
+title: Invertir relaciones causales plausibles exige mucha, mucha explicación
+url: /2018/03/16/invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion/
 ---
 
 Si yo digo que X llegó a vivir 95 años con salud y añado que siempre siguió una dieta sana, nos parecería muy raro que alguien nos contestase: ¿para qué se sometió X a una dieta sana si, al final, iba a vivir 95 años?

@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-26
-title: 'Probabilidades subjetivas: una redefinición "profesional"'
-description: 'Una redefinición "profesional" del concepto subjetivo de la probabilidad'
-url: /2022/04/26/redefinicion-probabilidades-subjetivas/
 categories:
 - probabilidad
+date: 2022-04-26
+description: Una redefinición "profesional" del concepto subjetivo de la probabilidad
+lastmod: '2025-04-06T19:08:26.407320'
+related:
+- 2020-05-18-como-pensar-en-la-probabilidad-de-un-evento.md
+- 2023-04-04-kant-probabilidad-apuestas.md
+- 2011-04-27-incertidumbre-juicios-y-sesgos.md
+- 2020-10-30-mercados-de-apuestas-como-cobertura.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
 tags:
 - probabilidad
 - probabilidad subjetiva
 - fundamentos de probabilidad
 - libro holandés
+title: 'Probabilidades subjetivas: una redefinición "profesional"'
+url: /2022/04/26/redefinicion-probabilidades-subjetivas/
 ---
 
 Hace un tiempo traje a estas páginas

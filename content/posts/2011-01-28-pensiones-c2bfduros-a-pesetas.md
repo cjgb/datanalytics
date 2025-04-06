@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-28 09:31:43+00:00
-draft: false
-title: 'Pensiones: ¿duros a pesetas?'
-
-url: /2011/01/28/pensiones-duros-a-pesetas/
 categories:
 - números
+date: 2011-01-28 09:31:43+00:00
+draft: false
+lastmod: '2025-04-06T18:54:22.392898'
+related:
+- 2013-01-22-son-sostenibles-las-pensiones-en-el-largo-plazo.md
+- 2015-03-23-mileuristas-anuales.md
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md
+- 2012-02-22-desempleo-incentivos-y-geometria.md
 tags:
 - números
 - pensiones
+title: 'Pensiones: ¿duros a pesetas?'
+url: /2011/01/28/pensiones-duros-a-pesetas/
 ---
 
 El exministro de trabajo Luis Martínez Novalha escrito [un artículo en El País sobre el sistema de reparto en las pensiones](http://www.elpais.com/articulo/opinion/defensa/sistema/reparto/elpepuopi/20110121elpepiopi_12/Tes). Como economista que es, defiende su tesis con datos. Comienza calculando las cotizaciones de un _ucrónico _español que hubiera de jubilarse hoy:

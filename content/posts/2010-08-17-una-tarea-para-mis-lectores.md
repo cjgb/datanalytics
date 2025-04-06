@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-08-17 21:09:38+00:00
-draft: false
-title: Una tarea para mis lectores
-
-url: /2010/08/17/una-tarea-para-mis-lectores/
 categories:
 - r
+date: 2010-08-17 21:09:38+00:00
+draft: false
+lastmod: '2025-04-06T18:48:01.448582'
+related:
+- 2010-09-06-tarea-lectores-resultados.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
+- 2014-09-19-primer-elemento-de-un-grupo-dentro-de-un-dataframe-de-r.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
 tags:
 - r
 - programación
+title: Una tarea para mis lectores
+url: /2010/08/17/una-tarea-para-mis-lectores/
 ---
 
 Ayer me dieron los resultados de unos análisis de sangre y, contra todo pronóstico, la médica me dijo que tengo el colesterol bajo control. ¡Con razón —me dije—, si en el blog lo hago yo todo! Así que para mejorar la circulación sanguínea de mis lectores, esta entrada es un ejercicio para quienes me leen. Espero pues que, a pesar de lo vacacional de las fechas, tengan tiempo de completar lo que queda sin hacer y lo hagan constar —antes de que pase lista— en un comentario explicando sus averiguaciones.

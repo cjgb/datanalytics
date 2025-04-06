@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-24 07:19:27+00:00
-draft: false
-title: Sobre el libro "The flaw of averages"
-
-url: /2011/06/24/sobre-el-libro-the-flaw-of-averages/
 categories:
 - consultoría
 - estadística
 - probabilidad
+date: 2011-06-24 07:19:27+00:00
+draft: false
+lastmod: '2025-04-06T19:00:14.505529'
+related:
+- 2024-12-19-promediar-predicciones.md
+- 2021-09-21-aun-mas-sobre-propagacion-de-errores-y-rv.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2011-03-11-riesgo-e-incertidumbre.md
 tags:
 - consultoría
 - estadística
@@ -16,6 +20,8 @@ tags:
 - probabilidad
 - libros
 - savage
+title: Sobre el libro "The flaw of averages"
+url: /2011/06/24/sobre-el-libro-the-flaw-of-averages/
 ---
 
 Leí hace un tiempo [_The flaw of averages_](http://www.flawofaverages.com/), un libro poco convencional que recomiendo a mis lectores. Su objetivo último es encomiable: conseguir que personas sin mayor preparación matemática o estadística pero obligadas a tomar decisiones frente a la incertidumbre apliquen el sentido común y entiendan claramente unos principios mínimos.

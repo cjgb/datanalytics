@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-04 08:13:05+00:00
-draft: false
-title: Las prioris no informativas están manifiestamente sobrevaloradas
-
-url: /2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/
 categories:
 - estadística
+date: 2016-01-04 08:13:05+00:00
+draft: false
+lastmod: '2025-04-06T18:45:08.983927'
+related:
+- 2015-09-07-prioris-subjetivas.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
+- 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
+- 2018-06-07-posterioris-informativas-o-mas-bien-cuando-te-informan-de-cual-es-la-posteriori.md
 tags:
 - beta
 - binomial
 - elecciones
 - estadística bayesiana
 - información
+title: Las prioris no informativas están manifiestamente sobrevaloradas
+url: /2016/01/04/las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas/
 ---
 
 La estadística bayesiana se enseña en cursos de estadística (y, frecuentemente, envuelto en un aparataje matemático tan ofuscante como innecesario). Lo malo es que en los cursos y textos de estadística no existe información previa. La información previa sobre los fenómenos en los que se utilizaría la estadística bayesiana están en las aplicaciones, extramuros del muy agnóstico mundo de la estadística y la matemática.

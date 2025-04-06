@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-05-02 07:16:30+00:00
-draft: false
-title: 'data.table (I): cruces'
-
-url: /2013/05/02/data-table-i-cruces/
 categories:
 - programación
 - r
+date: 2013-05-02 07:16:30+00:00
+draft: false
+lastmod: '2025-04-06T18:56:39.147811'
+related:
+- 2013-05-09-data-table-ii-agregaciones.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2014-09-19-primer-elemento-de-un-grupo-dentro-de-un-dataframe-de-r.md
+- 2014-03-25-totales-agregados-por-bloques-en-tablas.md
 tags:
 - programación
 - ciencia de datos
 - r
+title: 'data.table (I): cruces'
+url: /2013/05/02/data-table-i-cruces/
 ---
 
 Los protagonistas (tres tablas _grandecitas_):
@@ -102,4 +108,3 @@ Resumen:
 * Anoche, `data.table` me sacó de un apuro muy serio.
 * Ahora soy _fan_.
 * Gracias a `data.table`, el límite de tamaño de los conjuntos de datos con los que soy capaz de trabajar razonablemente con R ha crecido en todo un orden de magnitud: ya no me asusta que me hablen de _millones_.
-

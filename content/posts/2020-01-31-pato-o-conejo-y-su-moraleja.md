@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-01-31 09:13:00+00:00
-draft: false
-title: ¿Pato o conejo? (Y su moraleja)
-
-url: /2020/01/31/pato-o-conejo-y-su-moraleja/
 categories:
 - ciencia de datos
+date: 2020-01-31 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:36.936542'
+related:
+- 2023-03-02-conformal-prediction.md
+- 2019-11-18-los-ejemplos-son-las-conclusiones.md
+- 2014-03-17-sobre-el-articulo-de-domingos.md
+- 2024-07-16-monosemanticidad.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - deep learning
 - ética
 - google
 - sesgo
+title: ¿Pato o conejo? (Y su moraleja)
+url: /2020/01/31/pato-o-conejo-y-su-moraleja/
 ---
 
 Supongo que

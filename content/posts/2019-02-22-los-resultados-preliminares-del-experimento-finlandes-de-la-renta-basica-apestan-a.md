@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-22 08:13:57+00:00
-draft: false
-title: Los resultados preliminares del experimento finlandés de la renta básica apestan
-  a...
-
-url: /2019/02/22/los-resultados-preliminares-del-experimento-finlandes-de-la-renta-basica-apestan-a/
 categories:
 - estadística
 - números
+date: 2019-02-22 08:13:57+00:00
+draft: false
+lastmod: '2025-04-06T19:02:47.163980'
+related:
+- 2020-05-20-estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta.md
+- 2022-04-05-intervenciones-buenistas.md
+- 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md
+- 2023-09-28-potencia-tests.md
+- 2017-09-26-ajustad-vuestras-prioris-la-mayoria-de-los-programas-sociales-carecen-de-efectos-positivos.md
 tags:
 - estadística
 - experimento
 - finlandia
 - renta básica
+title: Los resultados preliminares del experimento finlandés de la renta básica apestan
+  a...
+url: /2019/02/22/los-resultados-preliminares-del-experimento-finlandes-de-la-renta-basica-apestan-a/
 ---
 
 Por si alguien acaba de despertar después de un coma de tres o más años de duración, lo del experimento finlandés de la renta básica y un somero análisis (junto con una serie de conclusiones extravagantes) está descrito [aquí](https://ctxt.es/es/20190213/Politica/24395/renta-basica-Finlandia-trabajo-bienestar-Alberto-Tena.htm).

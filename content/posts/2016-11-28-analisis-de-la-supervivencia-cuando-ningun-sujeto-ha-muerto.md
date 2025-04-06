@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-28 08:13:21+00:00
-draft: false
-title: Análisis de la supervivencia cuando ningún sujeto ha muerto
-
-url: /2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/
 categories:
 - estadística
 - r
+date: 2016-11-28 08:13:21+00:00
+draft: false
+lastmod: '2025-04-06T19:00:31.512672'
+related:
+- 2020-03-11-analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas.md
+- 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
+- 2024-05-23-espeanza-vida-covid.md
+- 2019-07-03-modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia.md
+- 2020-05-29-no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire.md
 tags:
 - problema
 - r
 - supervivencia
+title: Análisis de la supervivencia cuando ningún sujeto ha muerto
+url: /2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/
 ---
 
 Me ha sobrevenido un problema de análisis de supervivencia curioso: ningún sujeto ha muerto. Dicho de otra manera, todas mis observaciones están censuradas por la derecha.

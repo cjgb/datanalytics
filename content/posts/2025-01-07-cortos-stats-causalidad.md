@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-01-07
-title: 'Varios apuntes sobre causalidad'
-url: /2025/01/07/cortos-estadística
 categories:
 - cortos
+date: 2025-01-07
+lastmod: '2025-04-06T19:01:19.959243'
+related:
+- 2025-03-11-cortos-causalidad.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2023-11-02-origen-interacciones.md
+- 2024-10-08-cortos-stats.md
+- 2022-04-05-intervenciones-buenistas.md
 tags:
 - causalidad
 - nadaesgratis
@@ -12,6 +17,8 @@ tags:
 - software
 - d de cohen
 - t-test
+title: Varios apuntes sobre causalidad
+url: /2025/01/07/cortos-estadística
 ---
 
 Lo más satisfactorio de la entrada [_Resolving disputes between J. Pearl and D. Rubin on causal inference_](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/) es constatar cómo el autor, Andrew Gelman, también encuentra _opacos_ conceptos muy _pearlianos_ como el de _collider of an M-structure_.
@@ -40,5 +47,3 @@ Las [_5 different reasons why it’s important to include pre-treatment variable
 1. Poder generalizar a una población con una distribución diferente de x.
 
 Es decir, hay cinco motivos menos para usar antiguallas como el t-test y similares.
-
-

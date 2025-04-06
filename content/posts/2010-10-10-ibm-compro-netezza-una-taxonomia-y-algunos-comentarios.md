@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-10 23:22:35+00:00
-draft: false
-title: 'IBM compró Netezza: una taxonomía y algunos comentarios'
-
-url: /2010/10/10/ibm-compro-netezza-una-taxonomia-y-algunos-comentarios/
 categories:
 - consultoría
+date: 2010-10-10 23:22:35+00:00
+draft: false
+lastmod: '2025-04-06T19:03:55.819197'
+related:
+- 2010-10-14-mas-sobre-lo-de-netezza.md
+- 2011-09-28-datos-grandes-colas-largas.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md
+- 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
 tags:
 - consultoría
 - sql
 - ibm
+title: 'IBM compró Netezza: una taxonomía y algunos comentarios'
+url: /2010/10/10/ibm-compro-netezza-una-taxonomia-y-algunos-comentarios/
 ---
 
 El primero tiene que ver con coches. En el ascensor, en las conversaciones que oigo en el ascensor, que es donde pulso los intereses de mis cotidianos coadláteres, soy mudo testigo de multitud de conversaciones. Las más tratan de coches. Es increíble cómo la gente está al día de marcas, modelos, motores y potencias. Aunque luego les preguntas _por lo de su oficio_ y te das cuenta de que, sorprendentemente, no saben por dónde les pega el aire. Así, nuestro teórico máximo sabedor sobre la base de datos con la que trabajamos ni siquiera estaba al corriente de que existía una _cosa_ llamada Postgres. (Le tuve que deletrear el nombre, lo apuntó en un papel y me dijo que lo buscaría en internet; cualquier día le pregunto hasta dónde lo ha llevado su afán de saber).

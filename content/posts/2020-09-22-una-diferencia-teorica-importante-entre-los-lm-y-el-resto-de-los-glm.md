@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-22 09:13:00+00:00
-draft: false
-title: Una diferencia teórica importante entre los lm y el resto de los glm
-
-url: /2020/09/22/una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm/
 categories:
 - estadística
+date: 2020-09-22 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:05:11.564918'
+related:
+- 2020-07-16-no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2023-01-24-funciones-enlace.md
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
 tags:
 - estadística
 - glm
 - probabilidad
 - poisson
 - sobredispersión
+title: Una diferencia teórica importante entre los lm y el resto de los glm
+url: /2020/09/22/una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm/
 ---
 
 _[Este es un extracto, una píldora atómica, de mi charla del otro día sobre el modelo de Poisson y al sobredispersión.]_

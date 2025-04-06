@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-14 08:13:14+00:00
-draft: false
-title: Modas y fotogenia del código secuencial
-
-url: /2019/02/14/modas-y-fotogenia-del-codigo-secuencial/
 categories:
 - r
+date: 2019-02-14 08:13:14+00:00
+draft: false
+lastmod: '2025-04-06T19:09:54.415317'
+related:
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2015-02-11-recurrencia-recurrente.md
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
+- 2012-01-12-cosa-prodigiosa-sin-palabras-i.md
 tags:
 - programación
 - r
+title: Modas y fotogenia del código secuencial
+url: /2019/02/14/modas-y-fotogenia-del-codigo-secuencial/
 ---
 
 Este tipo de _programación_ se puso de moda en los noventa:

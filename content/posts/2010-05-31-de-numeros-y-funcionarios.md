@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-31 21:08:42+00:00
-draft: false
-title: De números y funcionarios
-
-url: /2010/05/31/de-numeros-y-funcionarios/
 categories:
 - números
+date: 2010-05-31 21:08:42+00:00
+draft: false
+lastmod: '2025-04-06T19:03:06.342310'
+related:
+- 2011-04-12-c2a1que-prensa-tan-mala.md
+- 2011-11-03-2872.md
+- 2012-01-11-una-cifra-ya-que-estamos-con-el-irpf.md
+- 2011-02-25-1605.md
+- 2020-10-08-usa-uno-u-otro-mapa-segun-tus-intereses.md
 tags:
 - números
 - r
+title: De números y funcionarios
+url: /2010/05/31/de-numeros-y-funcionarios/
 ---
 
 El otro día apareció una noticia en El País sobre los funcionarios en España y el resto de Europa, en el que aparecía [este gráfico](http://www.elpais.com/graficos/economia/funcionarios/Espana/Europa/elpgraeco/20100528elpepueco_1/Ges/).

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-06 07:37:36+00:00
-draft: false
-title: Ley de Transparencia y anonimidad en ficheros de microdatos
-
-url: /2011/10/06/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos/
 categories:
 - números
+date: 2011-10-06 07:37:36+00:00
+draft: false
+lastmod: '2025-04-06T18:57:19.496489'
+related:
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2013-02-06-anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2010-10-09-c2bfes-realmente-posible-la-anonimizacion.md
+- 2019-08-27-mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos.md
 tags:
 - anonimidad
 - datos abiertos
 - números
+title: Ley de Transparencia y anonimidad en ficheros de microdatos
+url: /2011/10/06/ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos/
 ---
 
 El adelanto electoral puede afectar el debate y aprobación de una ley largamente anunciada, la [Ley de Transparencia](http://periodismohumano.com/sociedad/la-ley-de-las-respuestas-se-queda-en-incognita.html).

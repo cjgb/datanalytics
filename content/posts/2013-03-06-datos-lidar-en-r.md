@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-03-06 07:13:58+00:00
-draft: false
-title: Datos LIDAR en R
-
-url: /2013/03/06/datos-lidar-en-r/
 categories:
 - r
+date: 2013-03-06 07:13:58+00:00
+draft: false
+lastmod: '2025-04-06T18:50:22.931837'
+related:
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
+- 2019-07-15-cartogramas-con-recmap.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 tags:
 - lidar
 - python
 - r
 - rpython
+title: Datos LIDAR en R
+url: /2013/03/06/datos-lidar-en-r/
 ---
 
 En la reunión del [grupo de interés local (GIL) de R de Madrid](http://r-es.org/Grupo+de+Inter%C3%A9s+Local+de+Madrid+-+GIL+Madrid), Francisco Mauro habló de aplicaciones de R a conjuntos de datos [LIDAR](http://es.wikipedia.org/wiki/LIDAR).

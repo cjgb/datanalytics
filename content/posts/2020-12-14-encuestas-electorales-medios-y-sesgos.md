@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-14 09:13:00+00:00
-draft: false
-title: Encuestas (electorales), medios y sesgos
-
-url: /2020/12/14/encuestas-electorales-medios-y-sesgos/
 categories:
 - estadística
+date: 2020-12-14 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:01:59.075584'
+related:
+- 2017-09-05-predecir-a-los-predictores-por-incordiar.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-05-05-encuestas-electorales-medios-y-sesgos-i.md
 tags:
 - elecciones
 - encuestas electorales
 - estadística
 - estadística bayesiana
 - stan
+title: Encuestas (electorales), medios y sesgos
+url: /2020/12/14/encuestas-electorales-medios-y-sesgos/
 ---
 
 Me he entretenido estos días en crear un modelo que represente la siguiente hipótesis de trabajo:

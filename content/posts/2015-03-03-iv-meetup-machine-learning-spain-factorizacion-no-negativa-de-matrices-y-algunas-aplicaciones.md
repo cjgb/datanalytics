@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-03 08:13:34+00:00
-draft: false
-title: 'IV Meetup Machine Learning Spain: factorización no negativa de matrices y
-  algunas aplicaciones'
-
-url: /2015/03/03/iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones/
 categories:
 - anuncio
+date: 2015-03-03 08:13:34+00:00
+draft: false
+lastmod: '2025-04-06T18:49:14.323787'
+related:
+- 2015-03-05-iv-meetup-machine-learning-spain-diapositivas-y-enlaces.md
+- 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md
+- 2014-10-03-lengua-y-markov-en-martinacocina-este-sabado.md
+- 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
+- 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md
 tags:
 - charlas
 - factorización
 - matrices
 - nmf
+title: 'IV Meetup Machine Learning Spain: factorización no negativa de matrices y
+  algunas aplicaciones'
+url: /2015/03/03/iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones/
 ---
 
 Me han invitado a hablar en el [IV Meetup Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/events/220799458/). Será el miércoles 4 de marzo en el lugar que en el enlace anterior indica.

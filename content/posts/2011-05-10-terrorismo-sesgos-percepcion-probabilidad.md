@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-10 07:02:01+00:00
-draft: false
-title: Terrorismo y sesgos en la percepción de la improbabilidad
-
-url: /2011/05/10/terrorismo-sesgos-percepcion-improbabilidad/
 categories:
 - números
 - probabilidad
+date: 2011-05-10 07:02:01+00:00
+draft: false
+lastmod: '2025-04-06T18:48:29.497888'
+related:
+- 2023-09-05-superforecasting.md
+- 2012-04-30-contar-c2bffacil.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2020-03-25-cuantificacion-y-riesgo.md
 tags:
 - números
 - probabilidad
+title: Terrorismo y sesgos en la percepción de la improbabilidad
+url: /2011/05/10/terrorismo-sesgos-percepcion-improbabilidad/
 ---
 
 En el Financial Times del 3 de mayo aparece un artículo de Gideon Rachman que es de los pocos que merece ser leído sobre el fatigoso y como se verá poco relevante tema de la muerte de Bin Laden. Y es interesante —y relevante para los lectores de esta bitácora— porque toca un tema del que ya nos hemos ocupado y que seguro que revisitaremos: el de las probabilidades subjetivas y, en particular, el de las distorsiones con las que los seres humanos percibimos y calibramos probabilidades pequeñas.

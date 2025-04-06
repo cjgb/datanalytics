@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-23 08:13:42+00:00
-draft: false
-title: ¡Terror! ¡Las máquinas nos van a quitar los trabajos! ¡Oh, oh, oh! ¡Uh, uh,
-  uh!
-
-url: /2018/01/23/terror-las-maquinas-nos-van-a-quitar-los-trabajos-oh-oh-oh-uh-uh-uh/
 categories:
 - varios
+date: 2018-01-23 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:45:56.633394'
+related:
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2019-03-26-hay-algo-podrido-en-la-microeconomia-normativa.md
+- 2017-10-04-circiter.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
 tags:
 - automatización
 - circiter
 - tecnología
 - trabajo
 - varios
+title: ¡Terror! ¡Las máquinas nos van a quitar los trabajos! ¡Oh, oh, oh! ¡Uh, uh,
+  uh!
+url: /2018/01/23/terror-las-maquinas-nos-van-a-quitar-los-trabajos-oh-oh-oh-uh-uh-uh/
 ---
 
 Habréis leído por ahí relatos apocalípticoides sobre un futuro gris en el que las máquinas nos dejarán sin trabajo. Clic. Otra gente memos agorera opina que, más que trabajos, la máquinas eliminarán tareas (i.e., partes aburridas de los trabajos).

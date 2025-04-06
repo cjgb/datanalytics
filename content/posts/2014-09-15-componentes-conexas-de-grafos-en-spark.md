@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-15 07:13:46+00:00
-draft: false
-title: Componentes conexas (de grafos) en Spark
-
-url: /2014/09/15/componentes-conexas-de-grafos-en-spark/
 categories:
 - programación
+date: 2014-09-15 07:13:46+00:00
+draft: false
+lastmod: '2025-04-06T19:03:14.814398'
+related:
+- 2015-05-27-grafos-por-vecindad-en-mapas.md
+- 2016-05-17-melt-y-cast-en-spark-con-scala.md
+- 2014-06-13-agrupacion-de-grafos-por-topologia.md
+- 2014-07-18-en-serio-con-spark-instalacion.md
+- 2014-05-12-grid-scala-y-arbolitos.md
 tags:
 - grafos
 - spark
+title: Componentes conexas (de grafos) en Spark
+url: /2014/09/15/componentes-conexas-de-grafos-en-spark/
 ---
 
 Uno de mis últimos _pet projects_ tiene que ver con el análisis de las componentes conexas de unos grafos muy grandes. Como [aquí](http://www.datanalytics.com/2014/06/13/agrupacion-de-grafos-por-topologia/) pero con datos de un tamaño muchos órdenes de magnitud mayores. Usando Spark, claro. Y ya que lo cito, aprovecho la ocasión para regalar un consejo a mis lectores más jóvenes: no esperéis a los cuarenta para aprender Scala y Spark.

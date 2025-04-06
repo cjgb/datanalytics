@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-05 08:13:07+00:00
-draft: false
-title: 'Encuestas electorales: medios y sesgos (I)'
-
-url: /2016/05/05/encuestas-electorales-medios-y-sesgos-i/
 categories:
 - estadística
+date: 2016-05-05 08:13:07+00:00
+draft: false
+lastmod: '2025-04-06T18:47:03.746401'
+related:
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2023-05-16-promedio-predicciones-electorales.md
+- 2017-05-11-cosas-de-twitter-y-encuestas.md
+- 2022-05-10-encuestas-electorales-cualitativas.md
 tags:
 - elecciones
 - encuestas
 - estadística
 - r
+title: 'Encuestas electorales: medios y sesgos (I)'
+url: /2016/05/05/encuestas-electorales-medios-y-sesgos-i/
 ---
 
 Existen las encuestas electorales. Las publican medios. Algunos, se dice, tienen sesgos. Lo he estudiado y a continuación muestro resultados.

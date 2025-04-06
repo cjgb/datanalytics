@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-10-19
-title: 'Cuidado con ChatGPT (advertencia núm. 232923423)'
-
-url: /2023/10/19/errores-chatgpt
 categories:
 - estadística
+date: 2023-10-19
+lastmod: '2025-04-06T19:04:42.109393'
+related:
+- 2019-12-04-p-valores-y-decisiones.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2023-10-05-llms-historia.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2022-03-08-estadistica-ciencias-blandas.md
 tags:
 - ciencia de datos
 - llms
 - chatgpt
 - árboles de decisión
+title: Cuidado con ChatGPT (advertencia núm. 232923423)
+url: /2023/10/19/errores-chatgpt
 ---
 
 ### I.

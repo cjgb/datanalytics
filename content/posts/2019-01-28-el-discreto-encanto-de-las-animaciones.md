@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-28 08:13:45+00:00
-draft: false
-title: El discreto encanto de las animaciones
-
-url: /2019/01/28/el-discreto-encanto-de-las-animaciones/
 categories:
 - gráficos
 - r
+date: 2019-01-28 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T18:58:22.037173'
+related:
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
+- 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
+- 2017-04-07-podria-fabricarse-uno-para-espana.md
 tags:
 - animaciones
 - ggplot2
 - gráficos
 - r
 - visualización
+title: El discreto encanto de las animaciones
+url: /2019/01/28/el-discreto-encanto-de-las-animaciones/
 ---
 
 Representando datos, una animación es un gráfico en el que unas facetas (en terminología de `ggplot2`) ocultan el resto, como en
@@ -47,6 +53,3 @@ ggplot(datos, aes(xmin = 0, ymin = 0,
   ylab("anchura (m)") +
   ggtitle("Evolución de la superficie\ndel coche 'promedio'")
 {{< / highlight >}}
-
-
-

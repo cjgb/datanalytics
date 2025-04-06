@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-20 09:13:32+00:00
-draft: false
-title: El impacto causal del óbito del Sr. Botín en la cotización bursátil del benemérito
-  Banco de Santander
-
-url: /2016/04/20/el-impacto-causal-del-obito-del-sr-botin-en-la-cotizacion-bursatil-del-benemerito-banco-de-santander/
 categories:
 - r
+date: 2016-04-20 09:13:32+00:00
+draft: false
+lastmod: '2025-04-06T19:09:05.265249'
+related:
+- 2012-07-05-afecto-el-fraude-de-barclays-al-libor.md
+- 2016-01-12-que-significa-vinculados-de-forma-muy-significativa.md
+- 2014-02-18-el-yuyuplot-en-perspectiva.md
+- 2011-08-09-2452.md
+- 2010-10-29-c2a1que-mala-suerte-tengo-con-las-anomalias.md
 tags:
 - botín
 - causalidad
 - causalimpact
 - r
 - santander
+title: El impacto causal del óbito del Sr. Botín en la cotización bursátil del benemérito
+  Banco de Santander
+url: /2016/04/20/el-impacto-causal-del-obito-del-sr-botin-en-la-cotizacion-bursatil-del-benemerito-banco-de-santander/
 ---
 
 El [Sr. Botín](https://es.wikipedia.org/wiki/Emilio_Bot%C3%ADn), presidente que fue del Banco de Santander, falleció el 2014-09-10. Cabe preguntarse por el [impacto causal _à la Google_](https://www.datanalytics.com/2014/09/23/el-impacto-causal-de-google/) de no continuidad de su gestión a cargo de dicha institución.
@@ -83,6 +89,3 @@ Y ahora, las concomitancias:
 * La causalidad es problemática y pudiera ser, incluso, en dirección contraria (que la muerte se debiese a...)
 * Abundando en lo anterior, dada la complejidad del mundo en que vivimos, es plausible que la causa fuese otra.
 * Me habría sentido más cómodo [estudiando `diff(cotizaciones)` en lugar de `cotizaciones`](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), pero en tal caso el p-valor se crece más allá del 0.05.
-
-
-

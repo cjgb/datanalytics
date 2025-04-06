@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-07-15 09:13:02+00:00
-draft: false
-title: Cartogramas con recmap
-
-url: /2019/07/15/cartogramas-con-recmap/
 categories:
 - r
+date: 2019-07-15 09:13:02+00:00
+draft: false
+lastmod: '2025-04-06T18:50:40.224893'
+related:
+- 2016-05-10-cartogramas-rectangulares-con-r.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
+- 2017-05-12-me-too-me-too.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2015-05-27-grafos-por-vecindad-en-mapas.md
 tags:
 - cartogramas
 - mapas
@@ -14,6 +18,8 @@ tags:
 - población
 - r
 - recmap
+title: Cartogramas con recmap
+url: /2019/07/15/cartogramas-con-recmap/
 ---
 
 He construido
@@ -70,12 +76,3 @@ plot.recmap(cartogram, col.text = "black",
 {{< / highlight >}}
 
 Como los datos los he bajado de por ahí y no recuerdo dónde, dejo como referencia el objeto arriba llamado `tmp` [aquí](/uploads/datos_cartograma.rds).
-
-
-
-
-
-
-
-
-

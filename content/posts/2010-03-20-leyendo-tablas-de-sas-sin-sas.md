@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-20 16:00:32+00:00
-draft: false
-title: Leyendo tablas de SAS... sin SAS
-
-url: /2010/03/20/leyendo-tablas-de-sas-sin-sas/
 categories:
 - varios
+date: 2010-03-20 16:00:32+00:00
+draft: false
+lastmod: '2025-04-06T18:57:37.446193'
+related:
+- 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md
+- 2011-07-13-sas-9-3-disponible.md
 tags:
 - sas
+title: Leyendo tablas de SAS... sin SAS
+url: /2010/03/20/leyendo-tablas-de-sas-sin-sas/
 ---
 
 No era atípico en aquella época en que SAS todavía se utilizaba como herramienta estadística que a uno le enviasen conjuntos de datos con la arcana extensión `.sas7bdat`, completamente imposibles de abrir con programa asequible alguno. Era una asombrosa manía dado que SAS (al igual que Excel) ni siquiera es compatible consigo mismo: los ficheros generados en SAS sobre Windows son incompatibles con los generados sobre UNIX, por ejemplo.

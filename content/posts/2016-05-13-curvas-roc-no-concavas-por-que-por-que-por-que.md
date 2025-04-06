@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-13 08:13:42+00:00
-draft: false
-title: 'Curvas ROC no cóncavas: ¿por qué, por qué, por qué?'
-
-url: /2016/05/13/curvas-roc-no-concavas-por-que-por-que-por-que/
 categories:
 - estadística
+date: 2016-05-13 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:53:30.514731'
+related:
+- 2020-07-09-sobre-la-curva-roc-como-medida-de-bondad-de-clasificadores.md
+- 2016-03-29-el-auc-es-la-probabilidad-de-que.md
+- 2020-02-07-la-densidad-de-una-cauchy-bivariada-es-cuasiconvexa.md
+- 2019-05-24-cotas-superiores-para-el-auc.md
+- 2020-02-20-curvas-de-equiprobabilidad-de-la-t-bivariada.md
 tags:
 - clasificación
 - estadística
 - roc
 - convexidad
+title: 'Curvas ROC no cóncavas: ¿por qué, por qué, por qué?'
+url: /2016/05/13/curvas-roc-no-concavas-por-que-por-que-por-que/
 ---
 
 El otro día me enseñaron una rareza: una curva ROC no cóncava. Digamos que como

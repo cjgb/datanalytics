@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-10 09:13:00+00:00
-draft: false
-title: La pregunta a la que el TCL es una muy particular (y mucho menos importante
-  de lo que habitualmente se cree) respuesta
-
-url: /2020/07/10/la-pregunta-a-la-que-el-tcl-es-una-muy-particular-y-mucho-menos-importante-de-lo-que-habitualmente-se-cree-respuesta/
 categories:
 - probabilidad
+date: 2020-07-10 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:52:14.078680'
+related:
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2014-10-21-mas-alla-del-teorema-central-del-limite.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2021-02-18-donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
 tags:
 - probabilidad
 - tcl
+title: La pregunta a la que el TCL es una muy particular (y mucho menos importante
+  de lo que habitualmente se cree) respuesta
+url: /2020/07/10/la-pregunta-a-la-que-el-tcl-es-una-muy-particular-y-mucho-menos-importante-de-lo-que-habitualmente-se-cree-respuesta/
 ---
 
 El TCL ([teorema central del límite](https://es.wikipedia.org/wiki/Teorema_del_l%C3%ADmite_central)) ayuda a responder una pregunta en algunos casos concretos. Pero a veces se nos olvida que lo importante es la pregunta y sus muchas otras potenciales respuestas.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-11-28 06:52:41+00:00
-draft: false
-title: ¿... coma cero dos por ciento? ¡Anda ya!
-
-url: /2012/11/28/coma-cero-dos-por-ciento-anda-ya/
 categories:
 - estadística
 - r
+date: 2012-11-28 06:52:41+00:00
+draft: false
+lastmod: '2025-04-06T19:10:14.783218'
+related:
+- 2015-04-24-el-sujeto-numero-82694.md
+- 2011-11-03-2872.md
+- 2013-01-24-tu-tasa-de-paro-personal.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 tags:
 - epa
 - estadística pública
 - microdatoses
 - r
+title: ¿... coma cero dos por ciento? ¡Anda ya!
+url: /2012/11/28/coma-cero-dos-por-ciento-anda-ya/
 ---
 
 Hoy hablo en la reunión del [grupo de usuarios de R de Madrid](http://r-es.org/tiki-index.php?page=Grupo%20de%20Inter%C3%A9s%20Local%20de%20Madrid%20-%20GIL%20Madrid). Voy a reciclar la charla que di en las IV Jornadas de Usuarios de R sobre mi [paquete MicroDatosEs](http://www.datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) y voy a aprovechar para criticar, en mi estilo, enunciados como

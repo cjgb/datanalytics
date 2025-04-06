@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-20 07:11:53+00:00
-draft: false
-title: La ley de Benford, revisitada
-
-url: /2011/09/20/la-ley-de-benford-revisitada/
 categories:
 - estadística
 - r
+date: 2011-09-20 07:11:53+00:00
+draft: false
+lastmod: '2025-04-06T19:07:44.348661'
+related:
+- 2011-09-15-la-ley-de-benford.md
+- 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2020-01-29-x.md
+- 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md
 tags:
 - estadística
 - ley de benford
 - r
+title: La ley de Benford, revisitada
+url: /2011/09/20/la-ley-de-benford-revisitada/
 ---
 
 Revisito mi artículo sobre la [ley de Benford](http://www.datanalytics.com/2011/09/15/la-ley-de-benford) no tanto por hacer mención a las entradas [una](http://www.grserrano.es/wp/2010/10/ejemplo-r-ley-de-benford/), [dos](http://www.grserrano.es/wp/2010/11/ejemplo-r-ley-de-benford-en-las-elecciones-catalanas-1/) y [tres](http://www.grserrano.es/wp/2010/11/ejemplo-r-ley-de-benford-en-las-elecciones-catalanas-2/) que hizo Gregorio Serrano en su bitácora ni al [oportunísimo artículo de The Guardian](http://www.guardian.co.uk/commentisfree/2011/sep/16/bad-science-dodgy-stats?CMP=twt_gu) al respecto. Ni siquiera para mencionar la existencia de este sesudo [artículo sobre el tema](http://econpapers.repec.org/article/blagermec/v_3a10_3ay_3a2009_3ai_3a_3ap_3a339-351.htm).

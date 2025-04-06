@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-04 07:10:22+00:00
-draft: false
-title: Libor, líbor, Fundéu y Barclays, claro
-
-url: /2012/07/04/libor-libor-fundeu-y-barclays-claro/
 categories:
 - finanzas
 - r
+date: 2012-07-04 07:10:22+00:00
+draft: false
+lastmod: '2025-04-06T18:48:54.961466'
+related:
+- 2012-07-05-afecto-el-fraude-de-barclays-al-libor.md
+- 2012-06-22-las-auditorias-bancaria-de-ayer.md
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2023-09-14-gestion-liquidez.md
 tags:
 - finanzas
 - r
 - libor
+title: Libor, líbor, Fundéu y Barclays, claro
+url: /2012/07/04/libor-libor-fundeu-y-barclays-claro/
 ---
 
 Hace un tiempo [pregunté a la Fundéu](http://www.fundeu.es/consultas-O-over-the-counter-2734.html) cómo traducir la expresión _over the counter_. Pobres, tienen mucho trabajo en esta península asperjada de anglicismos. La respuesta, sinceramente, no me sirvió de mucho: me impedía hacerme entender con mis semejantes.
@@ -83,5 +89,3 @@ banks3 <- rbind( banks3, tmp )
 ggplot( banks3, aes( x = date, y = Libor3M, group = curve, colour = curve ) )
 + geom_line() + facet_wrap( ~ bank)
 {{< / highlight >}}
-
-

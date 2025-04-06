@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-05 07:13:44+00:00
-draft: false
-title: R Markdown a la Tufte
-
-url: /2014/12/05/r-markdown-a-la-tufte/
 categories:
 - varios
+date: 2014-12-05 07:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:06:17.062015'
+related:
+- 2014-03-11-beautiful-evidence-de-tufte.md
+- 2011-04-26-graficos-vi-teoria.md
+- 2012-03-21-un-articulillo-de-tukey.md
+- 2014-05-13-visual-explanations-de-tufte-el-primer-grafico-estadistico.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
 tags:
 - r
 - rmarkdown
 - tufte
+title: R Markdown a la Tufte
+url: /2014/12/05/r-markdown-a-la-tufte/
 ---
 
 El Sr. Tufte debiera ser un conocido de los habituales de estas páginas. Los desavisados siempre pueden ponerse al día [aquí](http://en.wikipedia.org/wiki/Edward_Tufte).

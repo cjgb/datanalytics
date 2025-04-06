@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-13 09:13:00+00:00
-draft: false
-title: IGN + R + leaflet
-
-url: /2020/10/13/ign-r-leaflet/
 categories:
 - gráficos
 - r
+date: 2020-10-13 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:49:01.066415'
+related:
+- 2018-05-04-leaflet-con-capas-wms-de-coreos-catastro-etc.md
+- 2011-04-19-graficos-v-mapas.md
+- 2019-07-15-cartogramas-con-recmap.md
+- 2015-06-08-una-de-las-cosas-que-me-irritan-de-r.md
+- 2013-03-05-ggmap-mapas-con-r.md
 tags:
 - gráficos
 - ign
 - mapas
 - r
 - leaflet
+title: IGN + R + leaflet
+url: /2020/10/13/ign-r-leaflet/
 ---
 
 Iba a escribir una entrada técnica al respecto, pero resulta que [ya la había hecho hace un tiempo](https://www.datanalytics.com/2018/05/04/leaflet-con-capas-wms-de-coreos-catastro-etc/) y no me acordaba.

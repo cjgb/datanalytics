@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-18 06:21:44+00:00
-draft: false
-title: Conferencia sobre Grandes Datos
-
-url: /2012/07/18/conferencia-sobre-grandes-datos/
 categories:
 - programación
+date: 2012-07-18 06:21:44+00:00
+draft: false
+lastmod: '2025-04-06T18:52:38.902836'
+related:
+- 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
+- 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
+- 2012-12-05-disponibles-los-videos-de-las-sesiones-de-bigdataspain.md
+- 2012-12-18-infografia-sobre-big-data-spain.md
+- 2015-03-04-adaequatio-rei-et-analysis.md
 tags:
 - grandes datos
 - anuncio
+title: Conferencia sobre Grandes Datos
+url: /2012/07/18/conferencia-sobre-grandes-datos/
 ---
 
 Permítanme mis lectores matar dos pájaros con una misma entrada. La primera es anunciar que se está organizando una[ conferencia sobre Grandes Datos en Madrid](http://www.bigdataspain.com/) este invierno. Tendrá lugar los días 14, 15 y 16 de noviembre. Los organizadores la anuncian así:
@@ -24,4 +30,3 @@ La segunda, de la que ya se habrá dado cuenta alguno de mis lectores, es que ya
 Grandes Datos, con su alteración del orden normal del adjetivo en español, se convierte en algo más, algo distinto de la suma de _datos_ y _grandes_. Igual que los términos alta dirección, Alta Velocidad o Grandes Líneas (los dos últimos, servicios de Renfe) significan algo distinto de lo que serían con el orden tradicional de adjetivación.
 
 ¡Ahí lo lanzo!
-

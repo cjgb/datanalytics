@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-16 08:13:33+00:00
-draft: false
-title: Colinealidad y posterioris
-
-url: /2018/11/16/colinealidad-y-posterioris/
 categories:
 - estadística
 - r
+date: 2018-11-16 08:13:33+00:00
+draft: false
+lastmod: '2025-04-06T18:50:47.581311'
+related:
+- 2019-03-04-offset-porque-el-coeficiente-es-1-necesariamente.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2016-07-06-glms-con-prioris-casi-a-voluntad.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - correlación
 - estadística
@@ -16,6 +20,8 @@ tags:
 - lm
 - r
 - stan
+title: Colinealidad y posterioris
+url: /2018/11/16/colinealidad-y-posterioris/
 ---
 
 En esta entrada voy a crear un conjunto de datos donde dos variables tienen una correlación muy alta, ajustar un modelo de regresión y obtener la siguiente representación de la distribución a posteriori de los coeficientes,

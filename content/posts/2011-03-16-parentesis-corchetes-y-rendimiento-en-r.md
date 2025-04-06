@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-16 09:31:45+00:00
-draft: false
-title: Paréntesis, llaves y rendimiento en R
-
-url: /2011/03/16/parentesis-llaves-y-rendimiento-en-r/
 categories:
 - r
+date: 2011-03-16 09:31:45+00:00
+draft: false
+lastmod: '2025-04-06T18:57:02.555668'
+related:
+- 2011-05-18-solipsismo-comunidad-y-rendimiento.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - programación
 - r
+title: Paréntesis, llaves y rendimiento en R
+url: /2011/03/16/parentesis-llaves-y-rendimiento-en-r/
 ---
 
 Conforme se populariza el uso de R, cobran creciente importancia las cuestiones concernientes a su rendimiento, su gestión de la memoria, etc. Hasta el punto que incluso uno de sus creadores, Ross Ihaka, ha expresado últimamente su [descontento con las limitaciones de R](http://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf) (el enlace es gentileza de Daniel Castro) sugiriendo que sus componentes puramente estadísticos deberían construirse sobre la base de un lenguaje distinto, posiblemente Lisp.
@@ -115,4 +121,3 @@ Y para acabar, dejo a mis lectores como tarea:
 
 1. Estudiar si vale la pena o no considerar la interacción entre las dos variables.
 2. Estudiar más rigurosamente el hecho de que la variable `sep` no tiene influencia comparando un modelo con ella y un modelo sin ella.
-

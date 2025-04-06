@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-07 08:13:03+00:00
-draft: false
-title: Las dos culturas, con comentarios de 2016
-
-url: /2016/11/07/las-dos-culturas-con-comentarios-de-2016/
 categories:
 - estadística
+date: 2016-11-07 08:13:03+00:00
+draft: false
+lastmod: '2025-04-06T18:59:49.006960'
+related:
+- 2018-07-11-las-tres-culturas.md
+- 2021-07-21-quien-invento-los-random-forests.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md
+- 2014-01-23-en-recuerdo-de-leo-breiman.md
 tags:
 - breiman
 - estadística
 - ciencia de datos
+title: Las dos culturas, con comentarios de 2016
+url: /2016/11/07/las-dos-culturas-con-comentarios-de-2016/
 ---
 
 En 2012 mencioné de pasada ese [artículo de Breiman](https://www.datanalytics.com/2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/) al que hace referencia el título. Estaba bien, tenía su gracia.

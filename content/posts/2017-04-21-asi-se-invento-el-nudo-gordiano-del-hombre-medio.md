@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-21 08:13:39+00:00
-draft: false
-title: Así se inventó el nudo gordiano del "hombre medio"
-
-url: /2017/04/21/asi-se-invento-el-nudo-gordiano-del-hombre-medio/
 categories:
 - ciencia de datos
 - estadística
+date: 2017-04-21 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T19:12:08.272383'
+related:
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2015-10-14-del-hombre-medio-a-la-factura-media.md
+- 2020-11-09-no-es-tanto-sobre-la-media-como-sobre-la-maldicion-de-la-multidimensionalidad.md
+- 2012-09-13-gosset-el-remuestreador-de-la-infinita-paciencia.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 tags:
 - ciencia de datos
 - estadística
 - historia
 - media
 - quetelet
+title: Así se inventó el nudo gordiano del "hombre medio"
+url: /2017/04/21/asi-se-invento-el-nudo-gordiano-del-hombre-medio/
 ---
 
 Lo cuenta muy bien Todd Rose en [_How the Idea of a ‘Normal’ Person Got Invented_](https://www.theatlantic.com/business/archive/2016/02/the-invention-of-the-normal-person/463365/).

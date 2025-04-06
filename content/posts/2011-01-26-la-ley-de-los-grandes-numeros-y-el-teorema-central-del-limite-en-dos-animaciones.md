@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-26 09:21:40+00:00
-draft: false
-title: La ley de los grandes números y el teorema central del límite en dos animaciones
-
-url: /2011/01/26/la-ley-de-los-grandes-numeros-y-el-teorema-central-del-limite-en-dos-animaciones/
 categories:
 - probabilidad
 - r
+date: 2011-01-26 09:21:40+00:00
+draft: false
+lastmod: '2025-04-06T18:47:53.683015'
+related:
+- 2011-02-16-animaciones-estadisticas-con-r.md
+- 2014-10-21-mas-alla-del-teorema-central-del-limite.md
+- 2020-07-10-la-pregunta-a-la-que-el-tcl-es-una-muy-particular-y-mucho-menos-importante-de-lo-que-habitualmente-se-cree-respuesta.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2011-09-15-la-ley-de-benford.md
 tags:
 - probabilidad
 - r
+title: La ley de los grandes números y el teorema central del límite en dos animaciones
+url: /2011/01/26/la-ley-de-los-grandes-numeros-y-el-teorema-central-del-limite-en-dos-animaciones/
 ---
 
 No las voy a reproducir aquí por si se enfada el autor. Me limitaré a mostrar una captura de la animación correspondiente a la [ley de los grandes números](http://es.wikipedia.org/wiki/Ley_de_los_grandes_n%C3%BAmeros),

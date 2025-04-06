@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-23 08:13:29+00:00
-draft: false
-title: Unos lo creen mucho; otros, poco; pero nadie sabe cuánto
-
-url: /2016/06/23/unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto/
 categories:
 - números
+date: 2016-06-23 08:13:29+00:00
+draft: false
+lastmod: '2025-04-06T18:49:45.358052'
+related:
+- 2017-07-12-alguien-sabe-por-que-es-tan-pequeno-este-numero.md
+- 2011-02-25-1605.md
+- 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
+- 2018-04-17-de-espana-a-dinamarca-en-dos-pasos.md
+- 2011-01-28-pensiones-c2bfduros-a-pesetas.md
 tags:
 - impuestos
 - números
+title: Unos lo creen mucho; otros, poco; pero nadie sabe cuánto
+url: /2016/06/23/unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto/
 ---
 
 Imaginad que tenéis una empresa que un año, después de pagar insumos, salarios, tasas, IVAs, etc. tiene un beneficio de **1000 euros**. La pregunta a la que trata de responder esta entrada es la siguiente: ¿por valor de cuánto podréis comprar bienes y servicios personales?

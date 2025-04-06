@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-25 08:13:46+00:00
-draft: false
-title: Mismo trabajo, nosequé cosa
-
-url: /2017/10/25/mismo-trabajo-noseque-cosa/
 categories:
 - estadística
+date: 2017-10-25 08:13:46+00:00
+draft: false
+lastmod: '2025-04-06T18:51:05.263819'
+related:
+- 2015-03-09-unas-preguntas-incomodas.md
+- 2019-03-26-hay-algo-podrido-en-la-microeconomia-normativa.md
+- 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
+- 2012-07-27-a-los-datos-mismos.md
+- 2013-01-14-algunos-resultados-de-la-encuesta-trimestral-de-coste-laboral.md
 tags:
 - estadística
 - salarios
 - trabajo
+title: Mismo trabajo, nosequé cosa
+url: /2017/10/25/mismo-trabajo-noseque-cosa/
 ---
 
 Hoy han surgido _tuits_ reclamando que a _mismo trabajo_ correspondiesen yo qué sé que cosas estupendas. Razonaré que son peticiones propias de quienes ignoran de qué va el mundo.

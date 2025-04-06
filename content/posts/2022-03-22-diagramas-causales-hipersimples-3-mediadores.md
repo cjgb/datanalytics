@@ -1,11 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-03-22
-title: 'Diagramas causales hiperbásicos (III): mediadores'
-url: /2022/03/22/diagramas-causales-hiperbasicos-03-mediadores/
 categories:
 - estadística
 - causalidad
+date: 2022-03-22
+lastmod: '2025-04-06T19:04:46.805079'
+related:
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2022-03-18-diagramas-causales-hipersimples-2-control.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
 tags:
 - causalidad
 - redes bayesianas
@@ -13,6 +18,8 @@ tags:
 - error
 - sesgo
 - r
+title: 'Diagramas causales hiperbásicos (III): mediadores'
+url: /2022/03/22/diagramas-causales-hiperbasicos-03-mediadores/
 ---
 
 Esta es la tercera entrada de la serie sobre diagramas causales hiperbásicos, que, como la segunda, no se entenderá sin ---y remito a--- la

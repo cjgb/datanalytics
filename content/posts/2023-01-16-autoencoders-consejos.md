@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-16
-title: 'Autoencoders: una serie de lecciones aprendidas'
-
-url: /2023/01/16/autoencoders-lecciones-consejos/
 categories:
 - ciencia de datos
+date: 2023-01-16
+lastmod: '2025-04-06T18:52:32.834432'
+related:
+- 2024-02-13-outliers-dos-modos.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2024-12-03-cortos-stats.md
+- 2023-01-10-stable-diffusion-1d.md
 tags:
 - ciencia de datos
 - pca
@@ -13,6 +17,8 @@ tags:
 - keras
 - deep learning
 - outliers
+title: 'Autoencoders: una serie de lecciones aprendidas'
+url: /2023/01/16/autoencoders-lecciones-consejos/
 ---
 
 Estos días pasados he tenido que usar _autoencoders_ como mecanismos para _reducir la dimensión_ de una serie de conjuntos de datos. El principal problema al que me he enfrentado ---cómo no--- ha sido el de diseñar una arquitectura adecuada para el problema en cuestión. El principal motivo es que la práctica totalidad de los tutoriales, ejemplos, etc. disponibles por ahí tienen como aplicación principal el tratamiento de imágenes y en mi caso no.

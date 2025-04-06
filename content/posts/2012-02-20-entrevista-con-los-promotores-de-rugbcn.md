@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-20 07:19:25+00:00
-draft: false
-title: Entrevista con los promotores de RUGBCN
-
-url: /2012/02/20/entrevista-con-los-promotores-de-rugbcn/
 categories:
 - r
+date: 2012-02-20 07:19:25+00:00
+draft: false
+lastmod: '2025-04-06T19:00:40.602239'
+related:
+- 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2012-03-20-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
+- 2014-11-18-sevilla-otro-grupo-local-de-usuarios-de-r.md
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
 tags:
 - r
 - entrevista
 - anuncio
+title: Entrevista con los promotores de RUGBCN
+url: /2012/02/20/entrevista-con-los-promotores-de-rugbcn/
 ---
 
 La serendipia me llevó a toparme con el RUGBCN, es decir, el [grupo de usuarios de R de Barcelona](http://rugbcn.wordpress.com/). Me puse en contacto con ellos y Lluis Ramon ha tenido la gentileza de ofrecerse a responder una serie de preguntas mías que espero que, por un lado, animen a los usuarios de R de BCN a acercarse a las reuniones y, por otro, sirvan de estímulo para la creación de grupos de usuarios similares en otros lugares.
@@ -40,4 +46,3 @@ Que no se lo piensen mucho y que lo hagan. Que tampoco necesita mucha planificac
 _Finalmente, ¿nos veremos en las IV Jornadas de R?_
 
 Me gustaría mucho, aunque no sé si será compatible con mi trabajo. Lo que estoy seguro es que alguien de RUGBCN sí que irá y nos mantendrá informados de cómo han ido y qué se ha presentado.
-

@@ -1,16 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-09-06
-title: 'Un problema no tan simple de probabilidades resuelto usando frecuencias naturales'
-description: 'Un problema no tan simple de probabilidades resuelto usando frecuencias naturales'
-url: /2022/09/06/problema-probabilidad-frecuencias-naturales/
 categories:
 - probabilidad
+date: 2022-09-06
+description: Un problema no tan simple de probabilidades resuelto usando frecuencias
+  naturales
+lastmod: '2025-04-06T18:54:11.679494'
+related:
+- 2010-11-12-abundando-en-lo-de-nuestra-ineptitud-para-estimar-la-probabilidad-condicionada.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
 tags:
 - probabilidad
 - teorema de bayes
 - frecuencias naturales
 - odds
+title: Un problema no tan simple de probabilidades resuelto usando frecuencias naturales
+url: /2022/09/06/problema-probabilidad-frecuencias-naturales/
 ---
 
 El otro día se propuso un problema de probabilidad sencillo en su planteamiento aunque de solución no trivial (véase el

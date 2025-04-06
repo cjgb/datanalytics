@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-15 08:13:42+00:00
-draft: false
-title: Dos argumentos racionales en pro de la homeopatía
-
-url: /2017/09/15/dos-argumentos-racionales-en-pro-de-la-homeopatia/
 categories:
 - varios
+date: 2017-09-15 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:51:11.178018'
+related:
+- 2018-04-18-es-racional-aparte-de-aburrido-nadar-contra-el-efecto-lindy.md
+- 2019-08-28-esto-no-trata-sobre-lo-que-la-ciencia-es.md
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - ciencia
 - homeopatía
 - escepticismo
+title: Dos argumentos racionales en pro de la homeopatía
+url: /2017/09/15/dos-argumentos-racionales-en-pro-de-la-homeopatia/
 ---
 
 La homeopatía es la bestia negra del movimiento escéptico. Su visceralidad contra la homeopatía es tal que bien podría servir de definición positiva y operativa de dicho movimiento demarcándolo mejor que otras, más etéreas y confusas, que refieran sus aspiraciones y objetivos.

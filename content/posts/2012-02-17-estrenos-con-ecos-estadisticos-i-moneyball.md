@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-17 07:44:41+00:00
-draft: false
-title: 'Estrenos con ecos estadísticos (I): Moneyball'
-
-url: /2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/
 categories:
 - consultoría
 - estadística
+date: 2012-02-17 07:44:41+00:00
+draft: false
+lastmod: '2025-04-06T18:57:59.170505'
+related:
+- 2014-09-29-decisiones-basadas-en-datos-siempre-posibles-en-la-practica.md
+- 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md
+- 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md
+- 2025-02-18-cortos-stats.md
+- 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
 tags:
 - consultoría
 - estadística
 - películas
 - moneyball
+title: 'Estrenos con ecos estadísticos (I): Moneyball'
+url: /2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/
 ---
 
 Mi extemporáneo periodo vacacional me ha dado, entre otras cosas, para ver dos películas en las que resuenan claros ecos relacionados con la estadística.

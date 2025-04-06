@@ -1,12 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-16 08:13:39+00:00
-draft: false
-title: Pasión y curiosidad
-
-url: /2017/02/16/pasion-y-curiosidad/
 categories:
 - varios
+date: 2017-02-16 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T19:05:45.204695'
+related:
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2023-10-03-muestreo-superricos.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2013-12-31-palabras-y-pelas-un-ejercicio-apenas-incoado.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+title: Pasión y curiosidad
+url: /2017/02/16/pasion-y-curiosidad/
 ---
 
 En mi [charla del viernes pasado](https://www.datanalytics.com/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/), alguien me preguntó si seguía teniendo la pasión con la que se conoce participé en [aquella competición de ciencia de datos que glosé](https://www.datanalytics.com/2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/).

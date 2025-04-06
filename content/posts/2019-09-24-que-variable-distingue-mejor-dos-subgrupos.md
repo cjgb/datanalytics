@@ -1,21 +1,27 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-09-24 09:13:25+00:00
-draft: false
-title: ¿Qué variable distingue mejor dos subgrupos?
-
-url: /2019/09/24/que-variable-distingue-mejor-dos-subgrupos/
 categories:
 - ciencia de datos
 - consultoría
 - python
 - r
+date: 2019-09-24 09:13:25+00:00
+draft: false
+lastmod: '2025-04-06T19:10:27.233971'
+related:
+- 2020-11-02-distancias-i-el-planteamiento-del-problema.md
+- 2017-03-20-em-duro-a-mano-y-para-humanos.md
+- 2020-11-06-distancias-iii-la-gran-pregunta.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2020-11-20-distancias-iv-la-solucion-rapida-y-sucia.md
 tags:
 - cluster
 - emd
 - python
 - r
 - wasserstein
+title: ¿Qué variable distingue mejor dos subgrupos?
+url: /2019/09/24/que-variable-distingue-mejor-dos-subgrupos/
 ---
 
 Es una pregunta que surge reiteradamente. Por ejemplo, cuando se compara un _clúster_ con el resto de la población y uno busca las variables que mejor lo caracterizan. Y crear gráficos como

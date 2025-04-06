@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-29 07:39:28+00:00
-draft: false
-title: 'El casco y las bicis: no porque no'
-
-url: /2013/04/29/el-casco-y-las-bicis-no-porque-no/
 categories:
 - números
+date: 2013-04-29 07:39:28+00:00
+draft: false
+lastmod: '2025-04-06T19:01:42.069151'
+related:
+- 2012-04-30-contar-c2bffacil.md
+- 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2011-11-29-2958.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - estadística
 - números
+title: 'El casco y las bicis: no porque no'
+url: /2013/04/29/el-casco-y-las-bicis-no-porque-no/
 ---
 
 Vaya por delante que:

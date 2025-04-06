@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-17 20:17:15+00:00
-draft: false
-title: Qué hago estos días
-
-url: /2010/05/17/que-hago-estos-dias/
 categories:
 - consultoría
+date: 2010-05-17 20:17:15+00:00
+draft: false
+lastmod: '2025-04-06T18:45:03.682336'
+related:
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - consultoría
+title: Qué hago estos días
+url: /2010/05/17/que-hago-estos-dias/
 ---
 
 Esta entrada, un tanto alejada del meollo temático de mi bitácora, tiene un tanto de biográfico, otro de folclórico (rayano de la denuncia del poliédrico sistema educativo español) y otro de descriptivo de lo tenaz que puede llegar a resultar el sufrido oficio de consultor.

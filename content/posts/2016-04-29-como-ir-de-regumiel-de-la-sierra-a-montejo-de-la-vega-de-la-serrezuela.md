@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-29 08:13:11+00:00
-draft: false
-title: Cómo ir de Regumiel de la Sierra a Montejo de la Vega de la Serrezuela
-
-url: /2016/04/29/como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela/
 categories:
 - r
+date: 2016-04-29 08:13:11+00:00
+draft: false
+lastmod: '2025-04-06T19:09:22.603253'
+related:
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2012-04-25-espana-c2bfradial-i.md
+- 2012-03-14-c2a1mano-que-mapa.md
 tags:
 - cartociudad
 - r
 - geolocalización
+title: Cómo ir de Regumiel de la Sierra a Montejo de la Vega de la Serrezuela
+url: /2016/04/29/como-ir-de-regumiel-de-la-sierra-a-montejo-de-la-vega-de-la-serrezuela/
 ---
 
 Pues así:

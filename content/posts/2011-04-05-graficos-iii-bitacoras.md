@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-05 15:49:21+00:00
-draft: false
-title: 'Gráficos (III): bitácoras'
-
-url: /2011/04/05/graficos-iii-bitacoras/
 categories:
 - gráficos
+date: 2011-04-05 15:49:21+00:00
+draft: false
+lastmod: '2025-04-06T19:07:58.910432'
+related:
+- 2011-04-26-graficos-vi-teoria.md
+- 2011-04-14-graficos-iv-tutoriales-2.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2012-10-24-veinte-herramientas-de-visualizacion.md
+- 2011-03-29-graficos-ii-herramientas.md
 tags:
 - gráficos
+title: 'Gráficos (III): bitácoras'
+url: /2011/04/05/graficos-iii-bitacoras/
 ---
 
 En la tercera entrega de la serie de gráficos quiero dar a conocer una serie de bitácoras que tratan este tema, muchas de ellas escritas por profesionales de la infografía. En orden alfabético son:

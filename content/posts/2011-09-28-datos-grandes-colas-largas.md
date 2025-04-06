@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-28 06:57:52+00:00
-draft: false
-title: Datos grandes, colas largas
-
-url: /2011/09/28/datos-grandes-colas-largas/
 categories:
 - consultoría
+date: 2011-09-28 06:57:52+00:00
+draft: false
+lastmod: '2025-04-06T19:03:19.583835'
+related:
+- 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
+- 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
+- 2013-07-10-mi-definicion-de-big-data.md
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - consultoría
 - sql
 - grandes datos
+title: Datos grandes, colas largas
+url: /2011/09/28/datos-grandes-colas-largas/
 ---
 
 Codd desarrolló el modelo relacional —la base de casi todos los actuales sistemas de bases de datos— a finales de los años sesenta. El [modelo relacional](http://en.wikipedia.org/wiki/Relational_model), basado en la lógica proposicional, suponía una ventaja sustancial con respecto a los métodos anteriores de almacenar información y bien implementado permite resolver una serie de problemas que afectaban a los sistemas anteriores:

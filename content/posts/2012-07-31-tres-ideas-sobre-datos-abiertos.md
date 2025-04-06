@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-31 07:31:48+00:00
-draft: false
-title: Tres ideas sobre datos abiertos
-
-url: /2012/07/31/tres-ideas-sobre-datos-abiertos/
 categories:
 - números
+date: 2012-07-31 07:31:48+00:00
+draft: false
+lastmod: '2025-04-06T18:57:54.521233'
+related:
+- 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2011-10-28-c2bfes-abierto-todo-lo-que-reluce.md
+- 2011-03-28-por-la-apertura-de-los-datos-publicos.md
+- 2020-07-29-un-instituto-nacional-de-datos.md
 tags:
 - datos abiertos
 - números
 - periodismo de datos
+title: Tres ideas sobre datos abiertos
+url: /2012/07/31/tres-ideas-sobre-datos-abiertos/
 ---
 
 1. Primero, colgar los datos en internet (aunque protegiendo al máximo el derecho a la privacidad).

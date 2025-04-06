@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-27 22:12:54+00:00
-draft: false
-title: Google Prediction API
-
-url: /2010/05/27/google-prediction-api/
 categories:
 - consultoría
+date: 2010-05-27 22:12:54+00:00
+draft: false
+lastmod: '2025-04-06T19:04:34.542624'
+related:
+- 2010-09-19-jdm-fuese-y-no-hubo-nada.md
+- 2024-03-21-cortos.md
+- 2012-09-25-predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r.md
+- 2018-01-05-preludio-de-mas-por-venir.md
+- 2023-01-05-busquedas-internet.md
 tags:
 - ciencia de datos
+title: Google Prediction API
+url: /2010/05/27/google-prediction-api/
 ---
 
 Tantas cosas que escribir en este blog, tantas cosas que leer y probar, tan hermosa que está la primavera allende la ventana y... me callo porque uno nunca sabe quién puede acabar leyendo lo que escribo.

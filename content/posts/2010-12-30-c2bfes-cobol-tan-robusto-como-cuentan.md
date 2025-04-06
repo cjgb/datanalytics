@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-12-30 09:05:51+00:00
-draft: false
-title: ¿Es Cobol tan robusto como cuentan?
-
-url: /2010/12/30es-cobol-tan-robusto-como-cuentan/
 categories:
 - consultoría
+date: 2010-12-30 09:05:51+00:00
+draft: false
+lastmod: '2025-04-06T19:00:56.944864'
+related:
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2024-05-21-sentencia-bono-social-ii.md
+- 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
 tags:
 - consultoría
 - programación
+title: ¿Es Cobol tan robusto como cuentan?
+url: /2010/12/30es-cobol-tan-robusto-como-cuentan/
 ---
 
 El diario [El País se ha hecho eco de algo](http://www.elpais.com/articulo/sociedad/estudiar/elpepisoc/20101228elpepisoc_1/Tes) que no hace falta ser particularmente perspicaz para advertir. Y no me refiero tanto a la tesis global del artículo como a este parrafito,

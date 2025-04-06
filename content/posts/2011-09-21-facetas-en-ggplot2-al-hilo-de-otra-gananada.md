@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-21 07:33:55+00:00
-draft: false
-title: Facetas en ggplot2 (al hilo de otra gañanada)
-
-url: /2011/09/21/facetas-en-ggplot2-al-hilo-de-otra-gananada/
 categories:
 - estadística
 - números
 - r
+date: 2011-09-21 07:33:55+00:00
+draft: false
+lastmod: '2025-04-06T18:44:37.703537'
+related:
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md
+- 2019-01-28-el-discreto-encanto-de-las-animaciones.md
+- 2017-04-07-podria-fabricarse-uno-para-espana.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
 tags:
 - números
 - r
+title: Facetas en ggplot2 (al hilo de otra gañanada)
+url: /2011/09/21/facetas-en-ggplot2-al-hilo-de-otra-gananada/
 ---
 
 Hace años que no leo Expansión con la frecuencia de antaño. Los motivos son muchos. Pero el otro día, casi por nostalgia, pagué los 1.60 euros que no vale.

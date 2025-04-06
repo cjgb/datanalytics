@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-04-18
-title: 'Estadística: lo general y lo particular'
-url: /2024/04/18/estadística-generalizacion-individuos
 categories:
 - estadística
+date: 2024-04-18
+lastmod: '2025-04-06T18:53:12.058040'
+related:
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
 tags:
 - generalización
 - microfundamentos
+title: 'Estadística: lo general y lo particular'
+url: /2024/04/18/estadística-generalizacion-individuos
 ---
 
 No hay que perder de vista la etimología de la palabra estadística: viene de _estado_. La estadística es particularmente útil si eres el ministro de algo. Pero los más no lo somos. Los más nos enfrentamos a problemas como los que describo a continuación.

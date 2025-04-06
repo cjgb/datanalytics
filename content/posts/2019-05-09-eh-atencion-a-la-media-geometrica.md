@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-09 09:13:57+00:00
-draft: false
-title: ¡Eh! ¡Atención a la media geométrica!
-
-url: /2019/05/09/eh-atencion-a-la-media-geometrica/
 categories:
 - estadística
+date: 2019-05-09 09:13:57+00:00
+draft: false
+lastmod: '2025-04-06T18:54:21.060430'
+related:
+- 2010-05-25-sobre-la-media-y-la-mediana.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2011-11-03-2872.md
+- 2024-12-19-promediar-predicciones.md
 tags:
 - logaritmo
 - media geométrica
 - prensa
 - extremistán
 - normalistán
+title: ¡Eh! ¡Atención a la media geométrica!
+url: /2019/05/09/eh-atencion-a-la-media-geometrica/
 ---
 
 El insomnio y la serendipia me han hecho transitar por unas líneas en las que se lee:

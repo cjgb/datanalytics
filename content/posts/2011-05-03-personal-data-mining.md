@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-05-03 07:33:22+00:00
-draft: false
-title: Personal data mining
-
-url: /2011/05/03/personal-data-mining/
 categories:
 - ciencia de datos
+date: 2011-05-03 07:33:22+00:00
+draft: false
+lastmod: '2025-04-06T18:58:29.490322'
+related:
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2025-02-18-cortos-stats.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2013-01-02-sobre-los-limites-de-la-mineria-de-datos.md
 tags:
 - ciencia de datos
+title: Personal data mining
+url: /2011/05/03/personal-data-mining/
 ---
 
 La [Edge Foundation](http://edge.org/) es una organización que se postula algo así como el club de los hombres extraordinarios. Quienes forman parte de ella no dejan de hablar bien de sí mismos y se autoepitetan de multitud de cosas la mar de estupendas: brillantes, sagaces, etc.

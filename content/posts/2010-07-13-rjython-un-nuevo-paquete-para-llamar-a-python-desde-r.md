@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-07-13 22:18:03+00:00
-draft: false
-title: 'rJython: un nuevo paquete para llamar a Python desde R'
-
-url: /2010/07/13/rjython-un-nuevo-paquete-para-llamar-a-python-desde-r/
 categories:
 - r
+date: 2010-07-13 22:18:03+00:00
+draft: false
+lastmod: '2025-04-06T18:45:55.912764'
+related:
+- 2011-05-24-se-buscan-alpha-testers-para-rpython.md
+- 2013-04-01-rpython-ya-esta-en-cran.md
+- 2010-08-05-un-ilustrador-problema-de-compatibilidad-de-licencias-libres.md
+- 2015-01-02-publicada-una-nueva-version-de-rpython-win.md
+- 2013-11-20-rpython-ya-en-windows.md
 tags:
 - jython
 - python
 - r
 - paquetes
+title: 'rJython: un nuevo paquete para llamar a Python desde R'
+url: /2010/07/13/rjython-un-nuevo-paquete-para-llamar-a-python-desde-r/
 ---
 
 Ya está disponible el paquete `rJython` que permite llamar a Python desde R. Aunque todavía no se ha subido a CRAN, puede instalarse así:
@@ -69,4 +75,3 @@ Existe un paquete en CRAN, [RPyGeo](http://cran.r-project.org/web/packages/RPyGe
 La respuesta de Gabor Grothendieck a una pregunta mía en [R-devel](http://www.mail-archive.com/r-devel@r-project.org/msg16867.html) apuntaba a un paquete suyo, [RSymPy](http://code.google.com/p/rsympy/), en el que había resuelto el problema de la manera que elabora rJython. En comunicaciones posteriores con él decidimos colaborar para construir un paquete que abundase en su idea original y que pudiese servir de plataforma de comunicación entre R y Python.
 
 Ahora se libera una versión, la 0.0-2, que en justicia podría adoptar el sobrenombre de _alfísima_.
-

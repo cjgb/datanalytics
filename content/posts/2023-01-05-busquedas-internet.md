@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-05
-title: 'Google vs Goodhart vs GPT-n vs el nuevo (y desconocido) equilibrio'
-
-url: /2023/01/05/busquedas-internet/
 categories:
 - varios
+date: 2023-01-05
+lastmod: '2025-04-06T19:11:12.914445'
+related:
+- 2023-10-19-errores-chatgpt.md
+- 2017-11-14-advertencias-sobre-el-uso-de-los-n-gramas-de-google.md
+- 2010-05-27-google-prediction-api.md
+- 2010-12-22-mahoma-su-proverbial-montana-y-la-wikipedia.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 tags:
 - google
 - goodhart
 - gpt
+title: Google vs Goodhart vs GPT-n vs el nuevo (y desconocido) equilibrio
+url: /2023/01/05/busquedas-internet/
 ---
 
 ## Google

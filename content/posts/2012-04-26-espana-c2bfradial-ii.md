@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-26 06:44:51+00:00
-draft: false
-title: España, ¿radial? (II)
-
-url: /2012/04/26/espana-radial-ii/
 categories:
 - números
 - r
+date: 2012-04-26 06:44:51+00:00
+draft: false
+lastmod: '2025-04-06T18:52:26.811555'
+related:
+- 2012-04-25-espana-c2bfradial-i.md
+- 2012-03-28-contrafactualidad-radial.md
+- 2015-05-18-grafos-sobre-mapas.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
+- 2018-12-03-sobre-madrid-central.md
 tags:
 - r
 - redes sociales
 - grafos
 - españa
+title: España, ¿radial? (II)
+url: /2012/04/26/espana-radial-ii/
 ---
 
 Una de las principales objeciones que se le pueden hacer a mi entrada de ayer es que puede estar confundiendo la causa con efecto: puede que parte de la radialidad de la red que obtuve tenga que ver con el tamaño desproporcionado de Madrid que, a su vez, podría haber sido causado por la radialidad de la red tradicional de las comunicaciones españolas.

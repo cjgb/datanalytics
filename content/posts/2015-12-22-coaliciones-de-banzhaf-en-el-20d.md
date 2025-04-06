@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-22 08:13:22+00:00
-draft: false
-title: Coaliciones de Banzhaf en el 20D
-
-url: /2015/12/22/coaliciones-de-banzhaf-en-el-20d/
 categories:
 - r
+date: 2015-12-22 08:13:22+00:00
+draft: false
+lastmod: '2025-04-06T19:11:41.554359'
+related:
+- 2015-12-23-un-poco-mas-sobre-el-indice-de-poder-de-banzhaf.md
+- 2012-04-04-de-dhondt-a-banzhaf.md
+- 2015-05-20-banzhaf-y-las-elecciones-que-se-nos-vienen.md
+- 2019-05-07-elecciones-e-indice-supernaif-de-shapley.md
+- 2015-12-30-por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo.md
 tags:
 - banzhaf
 - política
 - r
+title: Coaliciones de Banzhaf en el 20D
+url: /2015/12/22/coaliciones-de-banzhaf-en-el-20d/
 ---
 
 Usando [código de una entrada anterior](http://www.datanalytics.com/2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/) voy a medir [el poder de cada partido político de acuerdo con Banzhaf](https://en.wikipedia.org/wiki/Banzhaf_power_index) tras las elecciones de diciembre de 2015.

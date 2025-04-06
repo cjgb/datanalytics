@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-23 06:43:08+00:00
-draft: false
-title: Ajustar o no ajustar, esta es la cuestión
-
-url: /2012/08/23/ajustar-o-no-ajustar-esta-es-la-cuestion/
 categories:
 - estadística
+date: 2012-08-23 06:43:08+00:00
+draft: false
+lastmod: '2025-04-06T19:02:27.394550'
+related:
+- 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2023-09-28-potencia-tests.md
+- 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
+- 2014-11-10-remuestreos-y-tests-de-hipotesis.md
 tags:
 - estadística
 - epidemiología
 - comparaciones múltiples
+title: Ajustar o no ajustar, esta es la cuestión
+url: /2012/08/23/ajustar-o-no-ajustar-esta-es-la-cuestion/
 ---
 
 Hoy traigo a colación dos artículos que dicen, en esencia, lo contrario. El primero, [_No Adjustments Are Needed for Multiple Comparisons_](http://academic.research.microsoft.com/Publication/32904827/no-adjustments-are-needed-for-multiple-comparisons) dice... lo que su título indica. Su resumen plantea el asunto un tanto menos sucintamente:

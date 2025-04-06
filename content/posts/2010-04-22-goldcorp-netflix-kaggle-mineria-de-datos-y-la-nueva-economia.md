@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-04-22 23:29:06+00:00
-draft: false
-title: Goldcorp, Netflix, Kaggle, minería de datos y la nueva economía
-
-url: /2010/04/22/goldcorp-netflix-kaggle-mineria-de-datos-y-la-nueva-economia/
 categories:
 - estadística
+date: 2010-04-22 23:29:06+00:00
+draft: false
+lastmod: '2025-04-06T18:55:02.607472'
+related:
+- 2010-03-07-c2bfsabes-estadistica-c2bfquieres-ganar-100k-dolares-pues-lee.md
+- 2010-10-03-c2bfpor-que-no-una-competicion.md
+- 2021-04-15-el-mejor-negocio-de-la-decada.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
 tags:
 - estadística
+title: Goldcorp, Netflix, Kaggle, minería de datos y la nueva economía
+url: /2010/04/22/goldcorp-netflix-kaggle-mineria-de-datos-y-la-nueva-economia/
 ---
 
 Hasta hace no mucho trabajé durante unos meses en la [vieja economía](http://www.everis.com). Ahora, de algún modo, sigo en ella aunque en otro estilo.

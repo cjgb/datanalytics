@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-14 08:58:31+00:00
-draft: false
-title: 'Selección de enlaces: censos, el Titanic, periodistas y mapas'
-
-url: /2014/03/14/seleccion-de-enlaces-censos-el-titanic-periodistas-y-mapas/
 categories:
 - estadística
 - r
+date: 2014-03-14 08:58:31+00:00
+draft: false
+lastmod: '2025-04-06T19:01:07.186434'
+related:
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2013-09-17-la-paradoja-de-simpson-en-el-6eiiic.md
+- 2012-10-22-nuevo-curso-gratuito-de-estadistica-con-r.md
+- 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
+- 2018-10-29-enlaces-parasociologicos.md
 tags:
 - censo
 - enlaces
 - estadística
 - mapas
 - r
+title: 'Selección de enlaces: censos, el Titanic, periodistas y mapas'
+url: /2014/03/14/seleccion-de-enlaces-censos-el-titanic-periodistas-y-mapas/
 ---
 
 El primer enlace de la selección de esta semana es [_The evolution of the modern census_](http://www.statslife.org.uk/significance/1268-the-evolution-of-the-modern-census). Todos sabemos que lo que llevó a José y María a Belén hace más de 2000 años fue dizque tenían que censarse. Hay noticias de [censos anteriores](http://www.datanalytics.com/2010/04/07/el-censo-del-rey-david-y-el-castigo-de-yahve/). Desde entonces hasta ahora ha habido muchos, muchísimos censos, pero su mismo concepto y finalidad ha ido cambiando a lo largo de la historia: ya no se trata solamente de contar, medir la riqueza o el poderío militar. Ahora nos interesan otros aspectos relacionados ya no tanto con el cuántos sino con el cómo somos.

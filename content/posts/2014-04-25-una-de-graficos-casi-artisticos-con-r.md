@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-25 07:38:35+00:00
-draft: false
-title: Una de gráficos casi artísticos con R
-
-url: /2014/04/25/una-de-graficos-casi-artisticos-con-r/
 categories:
 - gráficos
 - r
+date: 2014-04-25 07:38:35+00:00
+draft: false
+lastmod: '2025-04-06T18:52:18.739821'
+related:
+- 2013-01-11-arte-con-r-tres-enlaces.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2011-08-29-2570.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2014-05-12-grid-scala-y-arbolitos.md
 tags:
 - enlaces
 - gráficos
 - r
+title: Una de gráficos casi artísticos con R
+url: /2014/04/25/una-de-graficos-casi-artisticos-con-r/
 ---
 
 Hoy traigo una selección a cuatro páginas en que podréis encontrar gráficos casi artísticos creados con R. En la primera de ellas se construye el [fractal de Collatz](http://aschinchon.wordpress.com/2014/04/04/the-collatz-fractal/).

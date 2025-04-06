@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-01-20 07:13:54+00:00
-draft: false
-title: No me ha salido, pero lo cuento igual
-
-url: /2015/01/20/no-me-ha-salido-pero-lo-cuento-igual/
 categories:
 - estadística
 - r
+date: 2015-01-20 07:13:54+00:00
+draft: false
+lastmod: '2025-04-06T19:08:29.367784'
+related:
+- 2013-01-29-casi-un-ejemplo-perfecto.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2024-05-02-falacia-ecologica.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2018-09-04-podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita.md
 tags:
 - glm
 - paradoja de simpson
 - r
 - regresión logística
+title: No me ha salido, pero lo cuento igual
+url: /2015/01/20/no-me-ha-salido-pero-lo-cuento-igual/
 ---
 
 Creo que todos sabéis la historia de las admisiones de la Universidad de Berkeley y la paradoja de Simpson. Con palabras, muchas palabras, está contado, por ejemplo, [aquí](https://matloff.wordpress.com/2014/04/21/simpsons-paradox-is-back/). Y si buscáis _ubc admissions simpson_ en Google la encontraréis también en modo `--verbose` en muchos más sitios.

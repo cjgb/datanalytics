@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-08 08:13:00+00:00
-draft: false
-title: Colaboración con adversarios
-
-url: /2018/05/08/colaboracion-con-adversarios/
 categories:
 - varios
+date: 2018-05-08 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:11:32.676806'
+related:
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2016-04-26-la-ciencia-dos-puntos-de-vista.md
+- 2013-04-29-el-casco-y-las-bicis-no-porque-no.md
+- 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
 tags:
 - adversarios
 - ciencia
+title: Colaboración con adversarios
+url: /2018/05/08/colaboracion-con-adversarios/
 ---
 
 ¿Debe usarse casco para circular con bici por las ciudades? Pues la respuesta, incluso la _data driven_, [depende a quién leas](https://www.datanalytics.com/2013/04/29/el-casco-y-las-bicis-no-porque-no/). Ídem con cualquier otro asunto.

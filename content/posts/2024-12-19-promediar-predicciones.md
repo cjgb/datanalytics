@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-12-19
-title: 'Una justificación desapasionada del promedio como mecanismo para agregar predicciones'
-url: /2024/12/19/promedio-predicciones
 categories:
 - estadística
+date: 2024-12-19
+lastmod: '2025-04-06T18:59:55.628255'
+related:
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md
+- 2022-01-20-peor-pagina-taleb.md
 tags:
 - predicciones
 - teoría de la decisión
 - expertos
+title: Una justificación desapasionada del promedio como mecanismo para agregar predicciones
+url: /2024/12/19/promedio-predicciones
 ---
 
 Existe incertidumbre sobre el resultado, 0 o 1, de un evento de interés $X$. Se convoca a $n$ expertos que hacen predicciones $p_1, \dots, p_n$ sobre dicho evento, i.e., el experto $i$ considera que $P(X = 1) = p_i$. Entonces, ¿cómo se pueden combinar las predicciones $p_i$ para obtener una predicción conjunta $p$?

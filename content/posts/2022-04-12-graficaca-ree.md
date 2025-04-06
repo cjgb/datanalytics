@@ -1,15 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-12
-title: "Gráficos mejorables en REE"
-description: "REE debería replantearse cuál es la manera más efectiva de representar la 'estructura de generación' eléctrica"
-url: /2022/04/12/graficos-mejorables-ree/
 categories:
 - gráficos
+date: 2022-04-12
+description: REE debería replantearse cuál es la manera más efectiva de representar
+  la 'estructura de generación' eléctrica
+lastmod: '2025-04-06T18:53:49.497961'
+related:
+- 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2014-03-31-graficaca-en-gas-natural-fenosa.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2022-07-26-hueco-termico.md
 tags:
 - graficaca
 - ree
 - electricidad
+title: Gráficos mejorables en REE
+url: /2022/04/12/graficos-mejorables-ree/
 ---
 
 Creo que REE debería replantearse cómo representar la _estructura de generación_ eléctrica en su portal. Me refiero, por supuesto, [esto](https://demanda.ree.es/visiona/peninsula/demanda/acumulada/).
@@ -34,5 +42,3 @@ Tal vez, la buena gente de REE se limita a cumplir un expediente: tiene unos dat
 Honestamente, ignoro a qué pregunta da respuesta satisfactoria el gráfico que nos regala REE. Manifiestamente, ninguna de las que considero más naturales.
 
 Si yo fuese REE, convocaría un concurso de ideas para renovar la manera en la que presentar esa información tan importante. Seas quien seas, aunque seas Google, hay más talento fuera que dentro.
-
-

@@ -1,12 +1,19 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-01-16
-title: 'Causalidad, utilidad y teoría de la decisión'
-url: /2025/01/16/causalidad-util
 categories:
 - causalidad
+date: 2025-01-16
+lastmod: '2025-04-06T18:51:21.817981'
+related:
+- 2025-01-09-causalidad-sujeto-verbo-od.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2021-10-19-causalidad-inversa-mas-sobre-los-momentos-le-verrier.md
+- 2022-04-14-causalidad-defensa-hume.md
 tags:
 - causalidad
+title: Causalidad, utilidad y teoría de la decisión
+url: /2025/01/16/causalidad-util
 ---
 
 Scott Sumner escribe [aquí](https://scottsumner.substack.com/p/the-china-malaise):

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-10-03
-title: 'Ergodicidad, Birkoff, Pareto, Sidgwick, utilitarismo y todas esas cosas'
-url: /2024/10/03/ergodicidad-utilitarismo
 categories:
 - varios
+date: 2024-10-03
+lastmod: '2025-04-06T18:45:00.975272'
+related:
+- 2022-09-15-perder-ganando.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-06-30-sumas-bernuillis-heterogenas.md
+- 2024-11-14-simpson-productividad.md
 tags:
 - ergodicidad
 - ética
 - pareto
+title: Ergodicidad, Birkoff, Pareto, Sidgwick, utilitarismo y todas esas cosas
+url: /2024/10/03/ergodicidad-utilitarismo
 ---
 
 ### I.

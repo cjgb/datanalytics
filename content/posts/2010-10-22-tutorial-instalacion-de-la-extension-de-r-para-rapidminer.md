@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-22 22:59:24+00:00
-draft: false
-title: 'Tutorial: instalación de la extensión de R para RapidMiner'
-
-url: /2010/10/22/tutorial-instalacion-de-la-extension-de-r-para-rapidminer/
 categories:
 - r
+date: 2010-10-22 22:59:24+00:00
+draft: false
+lastmod: '2025-04-06T18:53:55.517810'
+related:
+- 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md
+- 2013-01-30-tutoriales-de-rapidminer-en-youtube.md
+- 2010-09-26-rutinas-de-c-en-r.md
+- 2015-01-21-donde-guardar-los-paquetes-de-r-en-linux-al-menos.md
+- 2013-11-20-rpython-ya-en-windows.md
 tags:
 - r
 - rapidminer
+title: 'Tutorial: instalación de la extensión de R para RapidMiner'
+url: /2010/10/22/tutorial-instalacion-de-la-extension-de-r-para-rapidminer/
 ---
 
 Por popular demanda, voy a explorar cómo de dificultoso es instalar el [puente entre R y RapidMiner](http://www.datanalytics.com/2010/09/08/mas-sobre-la-integracion-de-r-y-rapidminer/) en Windows y a dejar escrito cómo se hace. Lo instalé hace días en Linux (Ubuntu) sin mayor problema. Pero hay quien parece que haberlos tenido en la ubicua plataforma.

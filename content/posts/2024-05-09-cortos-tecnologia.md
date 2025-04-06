@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-09
-title: 'Algunas novedades tecnológicas que he recopilado en los últimos tiempos (no todas rompedoramente nuevas)'
-url: /2024/05/09/novedades-tecnologia
 categories:
 - cortos
+date: 2024-05-09
+lastmod: '2025-04-06T18:57:34.628559'
+related:
+- 2025-03-25-cortos-llms.md
+- 2024-02-06-llm-obsidian.md
+- 2011-03-29-graficos-ii-herramientas.md
+- 2025-03-18-cortos-tecnologia.md
+- 2022-09-20-tools-etl-memory.md
 tags:
 - python
 - tecnología
@@ -13,6 +18,9 @@ tags:
 - mapas
 - pytimetk
 - archlinux
+title: Algunas novedades tecnológicas que he recopilado en los últimos tiempos (no
+  todas rompedoramente nuevas)
+url: /2024/05/09/novedades-tecnologia
 ---
 
 Últimamente he creado muchas pequeños _scripts_ en Python con parámetros de todo tipo. Tanto

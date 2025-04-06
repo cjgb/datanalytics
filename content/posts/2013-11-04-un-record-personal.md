@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-11-04 07:05:09+00:00
-draft: false
-title: Un récord personal
-
-url: /2013/11/04/un-record-personal/
 categories:
 - ciencia de datos
 - r
+date: 2013-11-04 07:05:09+00:00
+draft: false
+lastmod: '2025-04-06T18:52:56.256765'
+related:
+- 2014-07-09-estrategias-escalables-con-r.md
+- 2010-01-26-r-y-conjuntos-de-datos-grandes.md
+- 2011-03-04-1680.md
+- 2016-05-23-tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas.md
+- 2013-07-10-mi-definicion-de-big-data.md
 tags:
 - grandes datos
 - hardware
 - r
+title: Un récord personal
+url: /2013/11/04/un-record-personal/
 ---
 
 El otro día, casi por error, cargué este dataframe en R:

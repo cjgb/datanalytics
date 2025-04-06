@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-03-12
-title: 'Cartogramas "de Dorling"'
-url: /2024/3/12/cartogramas-dorling
 categories:
 - r
+date: 2024-03-12
+lastmod: '2025-04-06T18:45:06.327173'
+related:
+- 2019-07-15-cartogramas-con-recmap.md
+- 2013-12-10-te-queda-lejos-el-aeropuerto.md
+- 2017-05-12-me-too-me-too.md
+- 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
+- 2012-04-25-espana-c2bfradial-i.md
 tags:
 - r
 - mapas
 - cartogramas
+title: Cartogramas "de Dorling"
+url: /2024/3/12/cartogramas-dorling
 ---
 
 Motivado por [esta entrada](https://statmodeling.stat.columbia.edu/2024/03/03/hey-heres-some-r-code-to-make-colored-maps-using-circle-sizes-proportional-to-county-population/)
@@ -45,5 +52,3 @@ que transforma las coordenadas originales de los datos en coordenadas _proyectad
 Antes de usar `cartogram_dorling` pensé cómo podría programar algo parecido a mano. La primera idea que a uno se le ocurre es la programación lineal ---que, en este caso no sería lineal sino.... ¿cuadrática?---; pero, casi seguro, el tamaño del problema con todas las restricciones potenciales lo hace computacionalmente inviable. Casi seguro, hay que recurrir a heurísticas para obtener una solución razonable.
 
 Mirando el resultado para la península, parece adivinarse la que usa la función: en caso de intersección de dos bolas, estas se empujan radialmente hacia el exterior hasta que se vuelven tangentes. Y se itera. Eso explicaría, por ejemplo, cómo Barcelona (y también Valencia) parece expulsada al Mediterráneo por su periferia. Tiene sentido hacerlo así, pero no me he entretenido ni en probarlo ni en refutarlo. Con dar a conocer la existencia de estos _cartogramas de Dorling_ ---otro de los grandes fabricantes de problemas sociales---, me basta por hoy.
-
-

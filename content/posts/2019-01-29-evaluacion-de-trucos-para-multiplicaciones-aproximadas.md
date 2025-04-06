@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-29 08:13:40+00:00
-draft: false
-title: Evaluación de trucos para multiplicaciones aproximadas
-
-url: /2019/01/29/evaluacion-de-trucos-para-multiplicaciones-aproximadas/
 categories:
 - r
 - varios
+date: 2019-01-29 08:13:40+00:00
+draft: false
+lastmod: '2025-04-06T19:02:10.323955'
+related:
+- 2013-08-05-medianas-ponderadas.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
+- 2012-01-12-cosa-prodigiosa-sin-palabras-i.md
+- 2014-09-09-factorizacion-de-enteros-con-grid.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
 tags:
 - aproximaciones
 - libros
 - r
 - trucos
+title: Evaluación de trucos para multiplicaciones aproximadas
+url: /2019/01/29/evaluacion-de-trucos-para-multiplicaciones-aproximadas/
 ---
 
 En [_Street Fighting Mathematics_](https://mitpress.mit.edu/books/street-fighting-mathematics) (leedlo) hay un capítulo en el que se discuten trucos para realizar mental y aproximadamente operaciones del tipo 3600 × 4.4 × 10^4 × 32.
@@ -75,4 +81,3 @@ hist(log2(res[,1] / res[,2]), breaks = 50,
 abline(v = -1, col = "red")
 abline(v =  1, col = "red")
 {{< / highlight >}}
-

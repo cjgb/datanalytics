@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-17 06:56:36+00:00
-draft: false
-title: Muestreando la distribución uniforme sobre la esfera unidad en n dimensiones
-
-url: /2012/01/17/muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones/
 categories:
 - probabilidad
 - r
+date: 2012-01-17 06:56:36+00:00
+draft: false
+lastmod: '2025-04-06T19:06:48.741388'
+related:
+- 2012-03-23-r-y-la-distribucion-de-rayleigh.md
+- 2022-07-14-proximidad-distribuciones.md
+- 2015-09-08-voronois-con-distintas-distancias.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2012-02-16-virgueria-con-r.md
 tags:
 - probabilidad
 - r
 - simulación
+title: Muestreando la distribución uniforme sobre la esfera unidad en n dimensiones
+url: /2012/01/17/muestreando-la-distribucion-uniforme-sobre-la-esfera-unidad-en-n-dimensiones/
 ---
 
 Debo esta entrada a la diligencia de [Juanjo Gibaja](http://jjgibaja.net/), que se tomó la molestia de ubicar los teoremas relevantes en el libro _Simulation and the Monte Carlo Method_ de Rubinstein y Kroese.

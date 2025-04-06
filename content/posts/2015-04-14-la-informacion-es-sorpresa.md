@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-14 08:13:28+00:00
-draft: false
-title: La información es sorpresa
-
-url: /2015/04/14/la-informacion-es-sorpresa/
 categories:
 - estadística
 - números
+date: 2015-04-14 08:13:28+00:00
+draft: false
+lastmod: '2025-04-06T18:47:41.694253'
+related:
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2010-12-28-lo-prometo-no-es-una-broma.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
 tags:
 - estadística
 - información
 - sorpresa
+title: La información es sorpresa
+url: /2015/04/14/la-informacion-es-sorpresa/
 ---
 
 Hace unos días publiqué esto en Twitter:

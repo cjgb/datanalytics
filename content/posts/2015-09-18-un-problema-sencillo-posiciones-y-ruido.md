@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-18 08:13:23+00:00
-draft: false
-title: 'Un problema "sencillo": posiciones y ruido'
-
-url: /2015/09/18/un-problema-sencillo-posiciones-y-ruido/
 categories:
 - estadística
 - r
+date: 2015-09-18 08:13:23+00:00
+draft: false
+lastmod: '2025-04-06T19:10:40.012569'
+related:
+- 2022-06-23-kalman.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2018-03-01-kriging-con-stan.md
+- 2018-10-23-abc-2.md
+- 2016-03-03-mezclas-de-distribuciones-con-rstan.md
 tags:
 - kalman
 - r
 - stan
+title: 'Un problema "sencillo": posiciones y ruido'
+url: /2015/09/18/un-problema-sencillo-posiciones-y-ruido/
 ---
 
 Voy a describir la solución un problema _sencillo_. Se trata de un objeto que se mueve a una velocidad no necesariamente constante en línea recta. Este objeto emite su posición y velocidad periódicamente (p.e., cada segundo). Por centrar ideas, su posición y velocidad reales en esos momentos es

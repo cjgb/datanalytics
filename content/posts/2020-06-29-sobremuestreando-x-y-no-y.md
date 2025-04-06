@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-06-29 09:13:00+00:00
-draft: false
-title: Sobremuestreando x (y no y)
-
-url: /2020/06/29/sobremuestreando-x-y-no-y/
 categories:
 - ciencia de datos
 - estadística
 - r
+date: 2020-06-29 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:38.241861'
+related:
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - ciencia de datos
 - estadística
 - r
 - regresión logística
 - sobremuestreo
+title: Sobremuestreando x (y no y)
+url: /2020/06/29/sobremuestreando-x-y-no-y/
 ---
 
 Construyo unos datos (artificiales, para conocer _la verdad_):

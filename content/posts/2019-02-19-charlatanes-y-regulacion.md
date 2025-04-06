@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-19 08:13:57+00:00
-draft: false
-title: Charlatanes y regulación
-
-url: /2019/02/19/charlatanes-y-regulacion/
 categories:
 - ciencia de datos
 - consultoría
+date: 2019-02-19 08:13:57+00:00
+draft: false
+lastmod: '2025-04-06T18:52:50.855128'
+related:
+- 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
+- 2020-09-07-muchos-cocineros-con-la-misma-receta.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2016-09-26-encuestas-electorales-una-propuesta.md
+- 2018-11-13-goodhart-lucas-y-marketing.md
 tags:
 - charlastanes
 - consultoría
 - regulación
+title: Charlatanes y regulación
+url: /2019/02/19/charlatanes-y-regulacion/
 ---
 
 Así resumen sus autores _[Regulation of Charlatans in High-Skill Professions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2979134)_:

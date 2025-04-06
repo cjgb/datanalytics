@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-02-03 09:05:08+00:00
-draft: false
-title: 'Energía y medio ambiente en 2035: algunos números'
-
-url: /2011/02/03/energia-y-medio-ambiente-en-2035-algunos-numeros/
 categories:
 - números
+date: 2011-02-03 09:05:08+00:00
+draft: false
+lastmod: '2025-04-06T19:11:58.292908'
+related:
+- 2012-11-14-anumerismo-en-los-medios-y-seudoperiodismo-de-datos.md
+- 2022-01-13-unas-cifras-cambio-climatico-incertidumbre.md
+- 2023-07-18-energia-nuclear-salvara-mundo.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2022-09-08-regresion-perdida-asimetrica.md
 tags:
 - números
+title: 'Energía y medio ambiente en 2035: algunos números'
+url: /2011/02/03/energia-y-medio-ambiente-en-2035-algunos-numeros/
 ---
 
 Energía y medio ambiente concitan una gran atención de los medios. Sin embargo, éstos ofrecen discusiones parciales, sesgadas y, sobre todo, cortoplacistas. Para forjarse una idea más global de lo que pasa y puede pasar hay que acudir a otras fuentes. Una de las más pertinentes es el [World Energy Outlook 2010](http://www.worldenergyoutlook.org) de la que, a modo de abreboca, extraigo algunos de los hechos más significativos.

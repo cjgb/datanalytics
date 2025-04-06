@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-11-18 09:13:56+00:00
-draft: false
-title: Los ejemplos son las conclusiones
-
-url: /2019/11/18/los-ejemplos-son-las-conclusiones/
 categories:
 - ciencia de datos
+date: 2019-11-18 09:13:56+00:00
+draft: false
+lastmod: '2025-04-06T19:00:11.595435'
+related:
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
+- 2021-02-11-solo-el-modelo-vacio-pasa-todos-los-checks.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2023-05-25-evaluaciones-clinicas-actuariales.md
+- 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
 - ai
 - ciencia de datos
 - ética
 - gdpr
+title: Los ejemplos son las conclusiones
+url: /2019/11/18/los-ejemplos-son-las-conclusiones/
 ---
 
 _[Ahí va otro aforismo en la línea de [este otro](https://www.datanalytics.com/2019/10/18/el-modelo-son-las-conclusiones/)]._

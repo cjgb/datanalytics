@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-02-21
-title: 'Todo sobre la wifi'
-
-url: /2023/02/21/todo-sobre-wifi/
 categories:
 - varios
+date: 2023-02-21
+lastmod: '2025-04-06T19:02:25.981061'
+related:
+- 2021-04-06-sobre-helium.md
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
+- 2015-05-18-grafos-sobre-mapas.md
+- 2023-12-19-suma-informacion.md
+- 2014-04-10-colusion-de-anunciantes-en-perjuicio-de-navegantes.md
 tags:
 - tecnología
 - wifi
+title: Todo sobre la wifi
+url: /2023/02/21/todo-sobre-wifi/
 ---
 
 Voy a hacer una entrada un poco inusual dentro de lo que viene siendo la trayectoria de este blog por dos motivos: para dejar por escrito cosas que de otra manera se me olvidarán y para, con suerte, ayudar a otros. Sí, porque voy a escribir sobre la wifi, sus mitos, problemas y puede que hasta soluciones.

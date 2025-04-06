@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-21 06:55:12+00:00
-draft: false
-title: 'III Jornadas de Usuarios de R: algunas reflexiones'
-
-url: /2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/
 categories:
 - r
+date: 2011-11-21 06:55:12+00:00
+draft: false
+lastmod: '2025-04-06T18:45:43.901910'
+related:
+- 2011-11-07-disponible-el-programa-de-las-iii-jornadas-de-usuarios-de-r.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md
+- 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md
+- 2011-10-24-necesitamos-una-asociacion-de-usuarios-de-r.md
 tags:
 - r
 - anuncio
 - jornadas
+title: 'III Jornadas de Usuarios de R: algunas reflexiones'
+url: /2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/
 ---
 
 La semana pasada no actualicé mi bitácora. Nunca había dejado pasar tanto tiempo sin escribir. Y es que, por si alguien no se había enterado aún, el jueves y el viernes tuvieron lugar las [III Jornadas de Usuarios de R](http://usar.org.es/).

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-06 08:13:18+00:00
-draft: false
-title: Interacciones "mecánicas" en regresiones logísticas
-
-url: /2018/02/06/interacciones-mecanicas-en-regresiones-logisticas/
 categories:
 - estadística
+date: 2018-02-06 08:13:18+00:00
+draft: false
+lastmod: '2025-04-06T19:13:11.051790'
+related:
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2022-03-22-diagramas-causales-hipersimples-3-mediadores.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2022-03-18-diagramas-causales-hipersimples-2-control.md
 tags:
 - estadística
 - interacciones
 - regresión logística
+title: Interacciones "mecánicas" en regresiones logísticas
+url: /2018/02/06/interacciones-mecanicas-en-regresiones-logisticas/
 ---
 
 En general, dos variables _interaccionan_ cuando el efecto de una cambia al modificarse el nivel de la otra. Un caso particular (aunque notable) de interacción es el habitual en los modelos lineales, generalizados o no. En ellos, al introducir en el modelo términos del tipo `x1 * x2`, estamos indicando que el coeficiente de la segunda variable, $latex x_2$, es $latex \alpha + \beta x_1$. El efecto de un incremento de una unidad de $latex x_2$ depende entonces de $latex x_1$.
@@ -44,4 +50,3 @@ diff(my_prob(5, c(2, 3)))
 Más aún, pueden construirse ejemplos en los que exista una interacción positiva entre dos variables pero poder encontrar valores para los que la relación se vuelve negativa (i.e., al incrementar la una, decrece el efecto de la otra).
 
 Ejemplos de lo anterior, referencias, etc. pueden consultarse [aquí](http://datacolada.org/57).
-

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-02 01:52:00+00:00
-draft: false
-title: Un foro de discusión para usuarios de SAS
-
-url: /2010/10/02/un-foro-de-discusion-para-usuarios-de-sas/
 categories:
 - anuncio
+date: 2010-10-02 01:52:00+00:00
+draft: false
+lastmod: '2025-04-06T19:11:27.497227'
+related:
+- 2010-03-27-una-red-social-para-usuarios-y-entusiastas-de-r.md
+- 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
+- 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
+- 2011-07-13-sas-9-3-disponible.md
+- 2010-08-27-c2bfcuanto-cuesta-una-licencia-de-sas.md
 tags:
 - sas
 - foros
+title: Un foro de discusión para usuarios de SAS
+url: /2010/10/02/un-foro-de-discusion-para-usuarios-de-sas/
 ---
 
 Quien no esté interesado en la literatura que viene después, [puede acudir directamente a él](http://support.sas.com/forums/index.jspa). Encontrará subforos que discuten distintos aspectos y productos de SAS, podrá enviar preguntas, hacer gratis el trabajo que debería corresponder al soporte técnico de SAS si las responde, aprender cosas navegando, etc.

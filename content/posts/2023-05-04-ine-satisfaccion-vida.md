@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-05-04
-title: 'Buscándole las cosquillas al "Indicador Multidimensional de Calidad de Vida"'
-
-url: /2023/05/04/ine-satisfaccion-vida/
 categories:
 - estadística
+date: 2023-05-04
+lastmod: '2025-04-06T18:52:58.260886'
+related:
+- 2011-08-31-diez-pasos-para-construir-indicadores-compuestos.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2010-10-12-el-indice-de-inflacion-sostenible-que-no-existe.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - ine
 - encuestas
 - números
 - españa
+title: Buscándole las cosquillas al "Indicador Multidimensional de Calidad de Vida"
+url: /2023/05/04/ine-satisfaccion-vida/
 ---
 
 El IMCV es

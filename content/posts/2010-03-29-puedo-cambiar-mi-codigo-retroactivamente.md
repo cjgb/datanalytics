@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-29 01:45:50+00:00
-draft: false
-title: ¿Puedo cambiar mi código retroactivamente?
-
-url: /2010/03/29/puedo-cambiar-mi-codigo-retroactivamente/
 categories:
 - r
+date: 2010-03-29 01:45:50+00:00
+draft: false
+lastmod: '2025-04-06T18:55:39.728866'
+related:
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2011-03-08-c2bfcomo-mejorar-tu-estilo-de-programacion-en-r.md
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
+- 2015-02-11-recurrencia-recurrente.md
 tags:
 - r
 - trucos
 - programación
+title: ¿Puedo cambiar mi código retroactivamente?
+url: /2010/03/29/puedo-cambiar-mi-codigo-retroactivamente/
 ---
 
 La verdad, me gustaría, Me gustaría volver atrás y modificar algunas docenas de código en R que malescribí como un diletante por no estar al tanto de una función de R cuya verdadera utilidad descubrí recientemente (gracias le sean dadas, de nuevo, a Jorge Iván Vélez).

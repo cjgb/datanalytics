@@ -1,16 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-10-13
-title: 'Bayesianismo y frecuentismo bajo la óptica de la teoría de la decisión, y IV'
-
-url: /2022/10/13/bayesianismo-frecuentismo-teoria-decision-04/
-
 categories:
 - estadística
+date: 2022-10-13
+lastmod: '2025-04-06T18:56:31.449133'
+related:
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - teoría de la decisión
 - frecuentismo
 - bayesianismo
+title: Bayesianismo y frecuentismo bajo la óptica de la teoría de la decisión, y IV
+url: /2022/10/13/bayesianismo-frecuentismo-teoria-decision-04/
 ---
 
 _[Esta es la cuarta y última (por el momento) de una serie de entradas sobre el tema que se anuncia en el título.]_

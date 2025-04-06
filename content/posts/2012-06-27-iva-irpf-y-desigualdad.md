@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-27 06:44:12+00:00
-draft: false
-title: IVA, IRPF y desigualdad
-
-url: /2012/06/27/iva-irpf-y-desigualdad/
 categories:
 - estadística
 - finanzas
 - números
+date: 2012-06-27 06:44:12+00:00
+draft: false
+lastmod: '2025-04-06T19:03:30.213387'
+related:
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2018-04-17-de-espana-a-dinamarca-en-dos-pasos.md
+- 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
+- 2023-11-09-progresividad-fiscal-calendario.md
+- 2011-02-25-1605.md
 tags:
 - estadística
 - finanzas
 - números
+title: IVA, IRPF y desigualdad
+url: /2012/06/27/iva-irpf-y-desigualdad/
 ---
 
 Nos hemos ocupado previamente de [estas cuestiones](http://www.datanalytics.com/2012/01/02/iva-irpf-y-cosas-que-no-entiendo/). Abundo en ellas ahora a causa de un informe publicado por la [ONS](http://www.statistics.gov.uk) (Office of National Statistics, el INE británico) titulado _[The effects of taxes and benefits on household income, 2010/2011](http://www.ons.gov.uk/ons/dcp171778_267839.pdf)_. Extraigo de su resumen los siguientes puntos:

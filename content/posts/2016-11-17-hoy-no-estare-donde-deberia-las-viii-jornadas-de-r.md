@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-17 08:00:47+00:00
-draft: false
-title: 'Hoy no estaré donde debería: las VIII Jornadas de R'
-
-url: /2016/11/17/hoy-no-estare-donde-deberia-las-viii-jornadas-de-r/
 categories:
 - r
+date: 2016-11-17 08:00:47+00:00
+draft: false
+lastmod: '2025-04-06T18:55:50.795313'
+related:
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2018-12-11-siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano.md
+- 2010-02-26-febrero.md
+- 2010-06-21-user-2010.md
+- 2011-11-21-iii-jornadas-de-usuarios-de-r-algunas-reflexiones.md
 tags:
 - albacete
 - jornadas
 - r
+title: 'Hoy no estaré donde debería: las VIII Jornadas de R'
+url: /2016/11/17/hoy-no-estare-donde-deberia-las-viii-jornadas-de-r/
 ---
 
 A la hora en que salga publicada esta entrada se estarán inaugurando las VIII Jornadas de Usuarios de R, las primeras a las que no asisto. Es por culpa de vaya uno saber qué tipo de microorganismos, que han decidido medir sus fuerzas con la Seguridad Social en algún recoveco de mis vías urinarias, y que me han obligado a cancelar el viaje a última hora.

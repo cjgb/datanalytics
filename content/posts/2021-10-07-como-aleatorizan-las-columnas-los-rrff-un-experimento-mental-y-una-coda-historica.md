@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-10-07 09:13:00+00:00
-draft: false
-title: '¿Cómo aleatorizan las columnas los RRFF?: un experimento mental y una coda
-  histórica'
-
-url: /2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica/
 categories:
 - ciencia de datos
+date: 2021-10-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:31.700312'
+related:
+- 2021-07-21-quien-invento-los-random-forests.md
+- 2022-06-07-generalized-random-forests.md
+- 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2014-10-10-bootstrap-bayesiano.md
 tags:
 - breiman
 - historia
 - random forests
+title: '¿Cómo aleatorizan las columnas los RRFF?: un experimento mental y una coda
+  histórica'
+url: /2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica/
 ---
 
 **I. El experimento mental**

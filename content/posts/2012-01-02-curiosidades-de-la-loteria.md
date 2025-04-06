@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-02 06:39:42+00:00
-draft: false
-title: ¿Curiosidades de la lotería?
-
-url: /2012/01/02/curiosidades-de-la-loteria/
 categories:
 - probabilidad
+date: 2012-01-02 06:39:42+00:00
+draft: false
+lastmod: '2025-04-06T19:01:06.403276'
+related:
+- 2017-02-28-al-cabo-de-mas-de-50-meses-hemos-observado-un-fenomeno-que-ocurriria-en-uno-de-cada-cincuenta.md
+- 2012-05-22-la-paradoja-del-cumpleanos-y-el-nino-que-colecciona-cromos-de-futbolistas.md
+- 2017-02-06-1e-por-doquier.md
+- 2017-11-30-de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen.md
+- 2020-07-30-misma-p-distinto-n-luego.md
 tags:
 - lotería
 - probabilidad
+title: ¿Curiosidades de la lotería?
+url: /2012/01/02/curiosidades-de-la-loteria/
 ---
 
 Tenía guardado un enlace de un artículo del periódico sobre [curiosidades de la lotería](http://www.elpais.com/articulo/espana/terminacion/repetida/Navidad/elpepunac/20111221elpepunac_2/Tes). Describe dos hechos curiosos:

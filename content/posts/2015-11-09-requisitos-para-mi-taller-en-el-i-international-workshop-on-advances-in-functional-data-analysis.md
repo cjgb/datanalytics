@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-11-09 08:13:49+00:00
-draft: false
-title: Requisitos para mi taller en el "I International Workshop on Advances in Functional
-  Data Analysis"
-
-url: /2015/11/09/requisitos-para-mi-taller-en-el-i-international-workshop-on-advances-in-functional-data-analysis/
 categories:
 - anuncio
+date: 2015-11-09 08:13:49+00:00
+draft: false
+lastmod: '2025-04-06T19:07:49.328943'
+related:
+- 2013-12-02-requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r.md
+- 2015-04-06-taller-de-mapas-con-r-el-14-de-abril-en-madrid.md
+- 2014-01-13-nueva-edicion-de-mi-taller-de-r-y-hadoop-en-zaragoza.md
+- 2014-07-18-en-serio-con-spark-instalacion.md
+- 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
 tags:
 - big data
 - charlas
+title: Requisitos para mi taller en el "I International Workshop on Advances in Functional
+  Data Analysis"
+url: /2015/11/09/requisitos-para-mi-taller-en-el-i-international-workshop-on-advances-in-functional-data-analysis/
 ---
 
 El jueves día 12 tengo un taller de cuatro horas en el [_I International Workshop on Advances in Functional Data Analysis_](http://www.est.uc3m.es/iwafda/). Siendo internacional (y el material está en inglés), me vais a permitir escribir el resto de la entrada _urbi et orbi_.

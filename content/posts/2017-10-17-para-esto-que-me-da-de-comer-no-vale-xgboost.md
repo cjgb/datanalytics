@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-17 08:13:05+00:00
-draft: false
-title: Para esto que me da de comer no vale XGBoost
-
-url: /2017/10/17/para-esto-que-me-da-de-comer-no-vale-xgboost/
 categories:
 - ciencia de datos
 - estadística
+date: 2017-10-17 08:13:05+00:00
+draft: false
+lastmod: '2025-04-06T19:09:24.040884'
+related:
+- 2016-10-11-el-rmse-es-dios-y-xgboost-su-profeta.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2024-10-17-interpretacion-modelos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2019-07-16-abundando-en-la-discusion-sobre-matematicas-y-o-informatica.md
 tags:
 - ciencia de datos
 - estadística
 - xgboost
+title: Para esto que me da de comer no vale XGBoost
+url: /2017/10/17/para-esto-que-me-da-de-comer-no-vale-xgboost/
 ---
 
 Los físicos crean modelos teóricos. Los economistas crean modelos teóricos. Los sicólogos crean modelos teóricos. Todo el mundo crea modelos teóricos: epidemiólogos, sismólogos, etc.

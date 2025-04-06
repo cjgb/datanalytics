@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-22 07:09:56+00:00
-draft: false
-title: 'Reponderación de componentes: un ejemplo'
-
-url: /2014/04/22/reponderacion-de-componentes-un-ejemplo/
 categories:
 - estadística
 - r
+date: 2014-04-22 07:09:56+00:00
+draft: false
+lastmod: '2025-04-06T18:52:33.518652'
+related:
+- 2014-04-09-la-escala-natural-de-la-varianza.md
+- 2014-04-01-componentes-principales-para-quienes-cursaron-algebra-de-primero-con-aprovechamiento.md
+- 2021-06-01-pca-robusto.md
+- 2011-08-16-una-feliz-conjuncion-estadistico-algebraica-y-ii.md
+- 2014-07-24-datos-antes-y-despues-del-pca.md
 tags:
 - componentes principales
 - estadística
 - pca
 - r
+title: 'Reponderación de componentes: un ejemplo'
+url: /2014/04/22/reponderacion-de-componentes-un-ejemplo/
 ---
 
 Esta entrada es la continuación de _[La escala natural de la varianza](http://www.datanalytics.com/2014/04/09/la-escala-natural-de-la-varianza/)_. En ella vimos cómo los componentes de un PCA pueden tener un peso que pudiera no guardar relación con su importancia práctica.

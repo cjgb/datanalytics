@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-07-06 06:28:00+00:00
-draft: false
-title: El precio de la desigualdad (i.e., el bosón de Higgs y fracciones)
-
-url: /2012/07/06/el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones/
 categories:
 - números
+date: 2012-07-06 06:28:00+00:00
+draft: false
+lastmod: '2025-04-06T18:59:34.722561'
+related:
+- 2012-07-10-la-desigualdad-y-como-medirla.md
+- 2011-02-25-1605.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
 tags:
 - anumerismo
 - números
 - stiglitz
 - desigualdad
+title: El precio de la desigualdad (i.e., el bosón de Higgs y fracciones)
+url: /2012/07/06/el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones/
 ---
 
 Esta semana me he enterado (con un mes de retraso, ¡qué vergüenza!) de que Stiglitz ha publicado un nuevo libro: [El precio de la desigualdad](http://www.amazon.com/The-Price-Inequality-Endangers-ebook/dp/B007MKCQ30). Se ve que en él argumenta el nóbel cómo esta no solo es mala para la economía sino que también afecta a la democracia.

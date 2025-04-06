@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-04-11 23:51:41+00:00
-draft: false
-title: Google public data explorer
-
-url: /2010/04/11/google-public-data-explorer/
 categories:
 - estadística
+date: 2010-04-11 23:51:41+00:00
+draft: false
+lastmod: '2025-04-06T19:10:25.621426'
+related:
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2011-06-07-ncomva-y-visualizacion-de-datos-publicos.md
+- 2011-03-28-por-la-apertura-de-los-datos-publicos.md
+- 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
+- 2018-01-10-lo-publico-y-nos-echamos-unas-risas-todos.md
 tags:
 - estadística
 - datos públicos
 - rosling
 - google
+title: Google public data explorer
+url: /2010/04/11/google-public-data-explorer/
 ---
 
 Participo últimamente en un proyecto dentro de un banco español bastante grande (sobre el que no abundaré ahora) que tiene como objetivo diseminar información financiera y comercial del mismo para los responsables de su dirección y gestión.

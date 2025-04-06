@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-21 08:13:13+00:00
-draft: false
-title: 'Scorings: interpolando (y extrapolando) entre el de Brier y el lineal'
-
-url: /2019/01/21/scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal/
 categories:
 - estadística
+date: 2019-01-21 08:13:13+00:00
+draft: false
+lastmod: '2025-04-06T18:53:34.532089'
+related:
+- 2019-01-17-mejores-predictores-un-ejemplo-el-de-brier.md
+- 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md
+- 2022-02-17-examenes-probabilisticos.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2019-01-23-reglas-de-scoring-impropias-un-ejemplo.md
 tags:
 - predicción
 - scorings
 - brier
+title: 'Scorings: interpolando (y extrapolando) entre el de Brier y el lineal'
+url: /2019/01/21/scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal/
 ---
 
 Rápidamente y para poner el limpio unas cosas que tenía en borrador. El _scoring_ lineal del que me he ocupado en entradas anteriores (p.e., [esta](https://www.datanalytics.com/2019/01/17/mejores-predictores-un-ejemplo-el-de-brier/) o [esta](https://www.datanalytics.com/2019/01/16/una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor/)) está asociado a un exponente $latex \lambda = 1$ y el de Brier, a $latex \lambda = 2$. Entre ambos (y a la derecha del 2) hay otros _scorings_ posibles.
@@ -43,5 +49,3 @@ par(mfrow = c(3, 3))
 sapply(alphas, foo)
 par(mfrow = c(1, 1))
 {{< / highlight >}}
-
-

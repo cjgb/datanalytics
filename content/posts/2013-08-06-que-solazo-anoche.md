@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-06 14:32:48+00:00
-draft: false
-title: ¡Qué solazo anoche!
-
-url: /2013/08/06/que-solazo-anoche/
 categories:
 - números
+date: 2013-08-06 14:32:48+00:00
+draft: false
+lastmod: '2025-04-06T18:57:25.886152'
+related:
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2022-11-08-que-hora-deberia-ser.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
 tags:
 - números
+title: ¡Qué solazo anoche!
+url: /2013/08/06/que-solazo-anoche/
 ---
 
 Pues sí, anoche debió hacer un buen solazo. Yo dormía y no lo vi, pero lo deduzco de [lo que me cuenta Red Eléctrica](https://demanda.ree.es/generacion_acumulada.html):

@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-07 09:13:00+00:00
-draft: false
-title: Coronavirus cualitativo
-
-url: /2020/05/07/coronavirus-cualitativo/
 categories:
 - varios
+date: 2020-05-07 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:12.302132'
+related:
+- 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md
+- 2018-02-13-de-sesgo-varianza-y-gilipollas-esta-vez-con-la-gripe-como-excusa.md
+- 2020-05-19-micromuertes-y-coronavirus.md
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 tags:
 - coronavirus
+title: Coronavirus cualitativo
+url: /2020/05/07/coronavirus-cualitativo/
 ---
 
 Una de las pocas cosas rescatables de la antigua dialéctica es aquella [ley de la transformación de los cambios cuantitativos en cualitativos](https://movimientopoliticoderesistencia.blogspot.com/2013/04/la-ley-de-la-transformacion-de-los.html).

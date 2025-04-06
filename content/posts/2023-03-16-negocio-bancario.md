@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-03-16
-title: 'El negocio bancario como corolario del teorema central del límite (y sí, de paso, sobre SVB)'
-
-url: /2023/03/16/negocio-bancario-tcl/
 categories:
 - estadística
+date: 2023-03-16
+lastmod: '2025-04-06T19:00:17.370483'
+related:
+- 2023-09-14-gestion-liquidez.md
+- 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md
+- 2024-02-22-probabilidad-banca.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
 tags:
 - estadística
 - banca
 - teorema central del límite
 - svb
+title: El negocio bancario como corolario del teorema central del límite (y sí, de
+  paso, sobre SVB)
+url: /2023/03/16/negocio-bancario-tcl/
 ---
 
 Todo lo que voy a contar aquí es cierto y a la vez falso. Es cierto en primera aproximación ---en esa en la que las vacas son esféricas--- y falso cuando se examinan los términos de orden superior del desarrollo de Taylor de lo que cuento. Advertido lo cual, comienzo.

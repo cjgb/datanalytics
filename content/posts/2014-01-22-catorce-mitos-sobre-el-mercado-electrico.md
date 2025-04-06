@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-22 08:35:46+00:00
-draft: false
-title: Catorce mitos sobre el mercado eléctrico
-
-url: /2014/01/22/catorce-mitos-sobre-el-mercado-electrico/
 categories:
 - finanzas
+date: 2014-01-22 08:35:46+00:00
+draft: false
+lastmod: '2025-04-06T19:10:10.251650'
+related:
+- 2023-07-18-energia-nuclear-salvara-mundo.md
+- 2018-09-21-una-anecdota-sobre-el-mercado-electrico-y-sus-mermas.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2022-09-08-regresion-perdida-asimetrica.md
 tags:
 - electricidad
 - finanzas
 - renovables
+title: Catorce mitos sobre el mercado eléctrico
+url: /2014/01/22/catorce-mitos-sobre-el-mercado-electrico/
 ---
 
 Estos catorce mitos son, en realidad, siete y siete. Los primeros, [de FEDEA](http://www.fedeablogs.net/economia/?p=34816):

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-08-05 09:13:50+00:00
-draft: false
-title: dplyr parece que prefiere los factores
-
-url: /2019/08/05/dplyr-parece-que-prefiere-los-factores/
 categories:
 - r
+date: 2019-08-05 09:13:50+00:00
+draft: false
+lastmod: '2025-04-06T18:59:44.717383'
+related:
+- 2014-03-25-totales-agregados-por-bloques-en-tablas.md
+- 2010-09-06-tarea-lectores-resultados.md
+- 2014-09-24-plyr-dplyr-data-table-que-opinas.md
+- 2016-07-12-dos-nuevos-tutoriales-sobre-data-table-y-dplyr.md
+- 2019-08-07-mas-sobre-factores-strings-y-ordenacion.md
 tags:
 - dplyr
 - factorización
 - r
+title: dplyr parece que prefiere los factores
+url: /2019/08/05/dplyr-parece-que-prefiere-los-factores/
 ---
 
 Con datos bajados de [aquí](ftp://www.ine.es/temas/censopv/cen11/Microdatos_personas_nacional.zip):

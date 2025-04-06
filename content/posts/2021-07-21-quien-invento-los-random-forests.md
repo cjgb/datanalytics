@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-07-21 09:13:00+00:00
-draft: false
-title: ¿Quién inventó los "random forests"?
-
-url: /2021/07/21/quien-invento-los-random-forests/
 categories:
 - ciencia de datos
+date: 2021-07-21 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:59:15.350740'
+related:
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2016-11-07-las-dos-culturas-con-comentarios-de-2016.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2014-01-23-en-recuerdo-de-leo-breiman.md
 tags:
 - breiman
 - historia
 - random forests
+title: ¿Quién inventó los "random forests"?
+url: /2021/07/21/quien-invento-los-random-forests/
 ---
 
 [_Este artículo tiene una corrección ---tachado en el texto que sigue--- posterior a la fecha de publicación original. Véase la entrada  ["¿Cómo aleatorizan las columnas los RRFF?: un experimento mental y una coda histórica"](https://www.datanalytics.com/2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica/) para obtener más información al respecto.]_

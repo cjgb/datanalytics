@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-08
-title: 'El efecto "pierna rota"'
-
-url: /2022/02/08/efecto-pierna-rota/
 categories:
 - estadística
+date: 2022-02-08
+lastmod: '2025-04-06T19:02:23.720651'
+related:
+- 2023-05-25-evaluaciones-clinicas-actuariales.md
+- 2024-10-17-interpretacion-modelos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2014-06-16-tan-actual-25-anos-despues.md
+- 2022-03-18-diagramas-causales-hipersimples-2-control.md
 tags:
 - libros
 - predicción
 - subjetividad
 - meehl
+title: El efecto "pierna rota"
+url: /2022/02/08/efecto-pierna-rota/
 ---
 
 Esa entrada tiene que ver con dos cosas. Una, [la que escribí hace un tiempo](https://www.datanalytics.com/2021/10/01/esos-felices-momentos-le-verrier/) sobre el análisis de modelos a la vista de información que nosotros tenemos y ellos, por lo que sea, no. La segunda, que es además la que da nombre a esta, un fenómeno que menciona Paul Meehl en su libro [_Clinical Versus Statistical Prediction_](https://www.goodreads.com/book/show/3183060-clinical-versus-statistical-prediction).

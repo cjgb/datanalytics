@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-09-08 19:54:09+00:00
-draft: false
-title: 'Datanalytics: segunda posición en competición internacional de minería de datos'
-
-url: /2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/
 categories:
 - ciencia de datos
+date: 2010-09-08 19:54:09+00:00
+draft: false
+lastmod: '2025-04-06T18:57:05.598492'
+related:
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
+- 2011-01-27-nueva-competicion-de-mineria-de-datos-reconocimiento-de-instrumentos-musicales.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2010-10-03-c2bfpor-que-no-una-competicion.md
+- 2011-01-14-algoritmos-de-mineria-de-datos-en-su-contexto.md
 tags:
 - ciencia de datos
+title: 'Datanalytics: segunda posición en competición internacional de minería de
+  datos'
+url: /2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/
 ---
 
 Me es más que grato anunciar que he alcanzado la segunda posición en el _[IEEE ICDM Contest: TomTom Traffic Prediction for Intelligent GPS Navigation](http://tunedit.org/challenge/IEEE-ICDM-2010/traffic?m=leaderboard)_ (sección de tráfico):

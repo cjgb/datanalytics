@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-07-06 08:13:34+00:00
-draft: false
-title: GLMs con prioris (casi) a voluntad
-
-url: /2016/07/06/glms-con-prioris-casi-a-voluntad/
 categories:
 - estadística
 - r
+date: 2016-07-06 08:13:34+00:00
+draft: false
+lastmod: '2025-04-06T19:05:05.457305'
+related:
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
 tags:
 - arm
 - estadística bayesiana
 - r
+title: GLMs con prioris (casi) a voluntad
+url: /2016/07/06/glms-con-prioris-casi-a-voluntad/
 ---
 
 Esto que cuento hoy puede ser muy útil: cómo mejorar los GLMs mediante la introducción de prioris (casi) a voluntad sobre los coeficientes. Usando el [paquete `arm` de R](https://cran.r-project.org/web/packages/arm/index.html), claro.

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-11-29
-title: 'El origen de uso moderno del término "variable aleatoria" podría estar en un artículo publicado en italiano en una revista oscura en 1913'
-
-url: /2022/11/29/origen-termino-variable-aleatoria/
 categories:
 - probabilidad
+date: 2022-11-29
+lastmod: '2025-04-06T19:11:33.470537'
+related:
+- 2022-11-24-ley-estadistico-inconsciente.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2022-12-01-eventos-conjuntos.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
 tags:
 - variables aleatorias
 - historia
+title: El origen de uso moderno del término "variable aleatoria" podría estar en un
+  artículo publicado en italiano en una revista oscura en 1913
+url: /2022/11/29/origen-termino-variable-aleatoria/
 ---
 
 Sería muy difícil haber aprendido algo de probabilidad sin haber oído o leído a alguien quejarse de que el término "variable aleatoria" es desafortunado; que, en puridad, una "variable aleatoria" es una función; pero que todo el mundo lo hace y que no queda otra que cargar ---¡una vez más!--- con el peso del consenso y la tradición.

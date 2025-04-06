@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-06 08:13:46+00:00
-draft: false
-title: Acceso a Google Analytcs desde R
-
-url: /2016/06/06/acceso-a-google-analytcs-desde-r/
 categories:
 - r
+date: 2016-06-06 08:13:46+00:00
+draft: false
+lastmod: '2025-04-06T18:50:26.909593'
+related:
+- 2013-01-10-una-aplicacion-seo-con-r.md
+- 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2010-05-27-google-prediction-api.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
 tags:
 - google
 - r
 - google analytics
+title: Acceso a Google Analytcs desde R
+url: /2016/06/06/acceso-a-google-analytcs-desde-r/
 ---
 
 Google Analytics puede usarse desde su consola o bien descargando datos y procesándolos por tu cuenta. Para lo cual, desde R,

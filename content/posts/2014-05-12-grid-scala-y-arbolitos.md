@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-05-12 07:39:06+00:00
-draft: false
-title: Grid, Scala y arbolitos fractales
-
-url: /2014/05/12/grid-scala-y-arbolitos/
 categories:
 - programación
 - r
+date: 2014-05-12 07:39:06+00:00
+draft: false
+lastmod: '2025-04-06T19:08:53.740515'
+related:
+- 2012-05-23-patrones-hexagonales-con-r.md
+- 2014-09-09-factorizacion-de-enteros-con-grid.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2016-05-27-coordenadas-polares-por-doquier.md
+- 2015-02-11-recurrencia-recurrente.md
 tags:
 - fractal
 - gráficos
 - grid
 - r
 - scala
+title: Grid, Scala y arbolitos fractales
+url: /2014/05/12/grid-scala-y-arbolitos/
 ---
 
 Inspirado por

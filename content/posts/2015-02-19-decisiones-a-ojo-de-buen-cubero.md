@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-19 08:13:31+00:00
-draft: false
-title: Decisiones "a ojo de buen cubero"
-
-url: /2015/02/19/decisiones-a-ojo-de-buen-cubero/
 categories:
 - estadística
 - probabilidad
+date: 2015-02-19 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T19:10:17.309284'
+related:
+- 2010-06-10-sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall.md
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
+- 2021-10-28-monty-hall-reformulado.md
 tags:
 - gigerenzer
 - incertidumbre
 - probabilidad
 - riesgo
 - teoría de la decisión
+title: Decisiones "a ojo de buen cubero"
+url: /2015/02/19/decisiones-a-ojo-de-buen-cubero/
 ---
 
 ¿Os acordáis del [problema de la carta](http://www.datanalytics.com/2015/02/17/un-problema-de-cartas/) del otro día? Lo extraje del libro [Risk Savvy](http://www.datanalytics.com/2015/01/08/tres-libros-mas-una-biblioteca-menos/) de [G. Gigerenzer](http://www.datanalytics.com/2014/11/11/un-30-de-probabilidad-de-que-llueva-manana/).

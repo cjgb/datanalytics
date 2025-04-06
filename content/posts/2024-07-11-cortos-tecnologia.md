@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-11
-title: 'Algunos apuntes sobre tecnología moderna y no tan moderna'
-url: /2024/07/11/cortos-tecnología
 categories:
 - cortos
+date: 2024-07-11
+lastmod: '2025-04-06T19:03:42.217597'
+related:
+- 2024-06-25-consumo-llms.md
+- 2025-03-18-cortos-tecnologia.md
+- 2024-07-18-cortos-llms.md
+- 2025-02-27-ensamblador.md
+- 2025-03-25-cortos-llms.md
 tags:
 - linux
 - compiladores
 - copilots
 - energía
+title: Algunos apuntes sobre tecnología moderna y no tan moderna
+url: /2024/07/11/cortos-tecnología
 ---
-
 
 ### I.
 
@@ -36,4 +42,3 @@ Alguien hizo ingeniería inversa de Github Copilot y escribió [esto](https://th
 
 [Aquí](https://cacm.acm.org/blogcacm/the-energy-footprint-of-humans-and-large-language-models/)
 no solo se estima el consumo de energía que realiza un LLM al generar texto sino que también se compara con el del sujeto al que reemplazaría. Eso sí, no menciona a Jevons por ninguna parte.
-

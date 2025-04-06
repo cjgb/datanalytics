@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-07-06
-title: 'Un gráfico con dos lecturas muy distintas'
-
-url: /2023/07/06/co2-e-medios-transporte/
 categories:
 - números
+date: 2023-07-06
+lastmod: '2025-04-06T19:08:02.813273'
+related:
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2019-10-18-el-modelo-son-las-conclusiones.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2018-12-03-sobre-madrid-central.md
+- 2012-04-30-contar-c2bffacil.md
 tags:
 - co2
 - cambio climático
 - urbanismo
 - libros
+title: Un gráfico con dos lecturas muy distintas
+url: /2023/07/06/co2-e-medios-transporte/
 ---
 
 Hoy voy a discutir el siguiente gráfico:
@@ -26,6 +32,3 @@ La otra es la lectura _en margen_: ¿cuánto contamina _un viaje más_? Ahí hay
 Tiene sentido que un urbanista ---como el autor del libro--- que escribe para otros urbanistas subraye la interpretación _en la media_ del gráfico. A los lectores de a pie, sin embargo, nos aplica más la marginal.
 
 Sin embargo, sabemos cómo todas estas sutilezas se perderán en el fragor de las redes sociales como lágrimas en la lluvia. Es hora de comer macarrones.
-
-
-

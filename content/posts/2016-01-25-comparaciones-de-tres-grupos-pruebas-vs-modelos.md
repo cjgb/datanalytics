@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-25 09:13:59+00:00
-draft: false
-title: 'Comparaciones de tres grupos: pruebas vs modelos'
-
-url: /2016/01/25/comparaciones-de-tres-grupos-pruebas-vs-modelos/
 categories:
 - estadística
 - r
+date: 2016-01-25 09:13:59+00:00
+draft: false
+lastmod: '2025-04-06T18:46:37.399742'
+related:
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2023-03-21-reduccion-error-tests-ab.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2014-11-10-remuestreos-y-tests-de-hipotesis.md
 tags:
 - tamaño del efecto
 - estadística
@@ -15,6 +19,8 @@ tags:
 - prop.test
 - r
 - regresión logística
+title: 'Comparaciones de tres grupos: pruebas vs modelos'
+url: /2016/01/25/comparaciones-de-tres-grupos-pruebas-vs-modelos/
 ---
 
 Una pregunta reciente en [r-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es) se refería a la comparación en R de las proporciones en tres grupos. Obviando algunas pequeñas complicaciones en el problema, la respuesta canónica podría ser esta:

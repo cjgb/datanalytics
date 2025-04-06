@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-18 07:13:59+00:00
-draft: false
-title: 'En serio con Spark: instalación'
-
-url: /2014/07/18/en-serio-con-spark-instalacion/
 categories:
 - programación
+date: 2014-07-18 07:13:59+00:00
+draft: false
+lastmod: '2025-04-06T19:00:33.934411'
+related:
+- 2014-09-15-componentes-conexas-de-grafos-en-spark.md
+- 2014-07-09-estrategias-escalables-con-r.md
+- 2014-11-20-spark-gana-la-competicion-gray-sort-de-2014.md
+- 2014-12-03-paralelizacion-en-r-con-snow.md
+- 2015-06-17-liberado-spark-1-4.md
 tags:
 - big data
 - instalación
 - python
 - spark
+title: 'En serio con Spark: instalación'
+url: /2014/07/18/en-serio-con-spark-instalacion/
 ---
 
 Me he puesto en modo _estoy serio_ con Spark. Lo instalé en mi ya manida máquina virtual (voy a subir una nueva versión de ella pronto), pero hoy la voy a instalar en mi portátil. Y con la idea de, en los próximos días, montar un _clúster_ en condiciones.

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-09-19 08:13:19+00:00
-draft: false
-title: 'Ocurrencias: cuotas de gente de letras en la "ciencia de datos"'
-
-url: /2018/09/19/ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos/
 categories:
 - varios
+date: 2018-09-19 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:09:24.847491'
+related:
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2019-12-05-ser-cientifico-de-datos-puede-ser-menos-sexi-de-lo-que-te-han-contado.md
 tags:
 - charlas
 - politikon
+title: 'Ocurrencias: cuotas de gente de letras en la "ciencia de datos"'
+url: /2018/09/19/ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos/
 ---
 
 Cada vez me dejo ver menos por Meetups y similares. Pero el otro día no pude decir que no a pasar por un evento organizado por la gente de [Politikon](https://politikon.es/) sobre el futuro del trabajo, el trabajo del futuro y otras cosas que no vienen al caso.

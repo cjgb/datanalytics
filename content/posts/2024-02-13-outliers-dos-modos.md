@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-02-13
-title: '"Outliers": las dos aproximaciones'
-url: /2024/02/13/outliers-dos-aproximaciones/
 categories:
 - estadística
+date: 2024-02-13
+lastmod: '2025-04-06T19:08:05.054651'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - estadística
 - outliers
+title: '"Outliers": las dos aproximaciones'
+url: /2024/02/13/outliers-dos-aproximaciones/
 ---
 
 Leyendo [_Taking Outlier Treatment to the Next Level_](https://joachim-gassen.github.io/2021/07/outliers/) me entretuve en pensar cómo la literatura sobre el tratamiento de los _outliers_ tiende a ignorar y confundir los dos modos ---o más bien, circunstancias--- de enfrentarse a ellos. Por ejemplo, en ese enlace se discute alrededor de los datos y el modelo representado en,

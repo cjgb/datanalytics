@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-05 08:13:24+00:00
-draft: false
-title: Licitaciones por insaculación ponderada
-
-url: /2018/10/05/licitaciones-por-insaculacion-ponderada/
 categories:
 - probabilidad
 - varios
+date: 2018-10-05 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:57:47.137612'
+related:
+- 2010-11-08-una-revision-neoliberal-del-principio-de-peter.md
+- 2014-11-25-boceto-de-entrada-sobre-bits-y-referendums.md
+- 2022-11-17-igualdad-oportunidades.md
+- 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md
+- 2023-10-05-llms-historia.md
 tags:
 - insaculación
 - licitaciones
 - peter
 - probabilidad
+title: Licitaciones por insaculación ponderada
+url: /2018/10/05/licitaciones-por-insaculacion-ponderada/
 ---
 
 Hace unos años, cuando aún no me había avivado en estos temas, recibí una llamada que me puso muy contento: en un ayuntamiento de nosedónde reconocían mis muchos méritos estadísticos y computacionales y me invitaban a participar en una licitación a vaya Vd. a saber qué cosa. Pero, vamos, lo que pasaba, como tantísimas veces, es que tenían ya escogido a un proveedor y necesitaban a dos comparsas para salvar el trámite burocrático de contar con tres propuestas.

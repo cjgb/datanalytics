@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-11 08:13:19+00:00
-draft: false
-title: El extraño y extremoso caso de los empleados fantasma de Galapagar
-
-url: /2017/04/11/el-extrano-y-extremoso-caso-de-los-empleados-fantasma-de-galapagar/
 categories:
 - números
+date: 2017-04-11 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T18:54:13.670402'
+related:
+- 2011-01-13-el-misterio-de-la-reduccion-del-paro-en-diciembre.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
+- 2013-02-25-estadisticas-oficiales-alternativas.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 tags:
 - desempleo
 - madrid
+title: El extraño y extremoso caso de los empleados fantasma de Galapagar
+url: /2017/04/11/el-extrano-y-extremoso-caso-de-los-empleados-fantasma-de-galapagar/
 ---
 
 **El planteamiento:**
@@ -32,8 +38,3 @@ Es, en versión extendida, [_Misterio resuelto: los nuevos empleos de Galapagar 
 * _Artefacto administrativo_ siempre es una posible (y típicamente, la más probable) causa de este tipo de incongruencias.
 * Los datos de afiliación [no son un _proxy_ sino de sí mismos](https://www.datanalytics.com/2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/).
 * Cuando los [tirios atizan a los troyanos](http://ecodiario.eleconomista.es/espana/noticias/8252941/03/17/Madrid-mato-asegura-que-en-la-capital-la-afiliacion-a-la-seguridad-crece-al-doble-que-en-la-comunidad-y-al-triple-que-en-espana.html) (o los tirios a los troyanos, que también lo han hecho aunque no encuentro el enlace ahora) con cifras de afiliación a la Seguridad Social en mano, nos están tratando como gilipollas porque lo somos y, en el fondo, nos encanta.
-
-
-
-
-

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-02 07:13:39+00:00
-draft: false
-title: Sobre la encuesta sobre minería de datos de Rexer Analytics
-
-url: /2011/06/02/sobre-la-encuesta-sobre-mineria-de-datos-de-rexer-analytics/
 categories:
 - ciencia de datos
 - r
+date: 2011-06-02 07:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:51:22.480629'
+related:
+- 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md
+- 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md
+- 2014-03-20-los-sospechosos-habituales-y-python.md
+- 2011-05-04-un-rol-de-herramientas-de-mineria-de-datos.md
+- 2011-01-14-algoritmos-de-mineria-de-datos-en-su-contexto.md
 tags:
 - ciencia de datos
 - r
+title: Sobre la encuesta sobre minería de datos de Rexer Analytics
+url: /2011/06/02/sobre-la-encuesta-sobre-mineria-de-datos-de-rexer-analytics/
 ---
 
 Hace unos días se publicaron los resultado de la cuarta encuesta anual de minería de datos realizada por [Rexer Analytics](http://www.RexerAnalytics.com) en la que 735 participantes de 60 países completaron sus 50 preguntas. Los hechos más relevantes que contiene son:

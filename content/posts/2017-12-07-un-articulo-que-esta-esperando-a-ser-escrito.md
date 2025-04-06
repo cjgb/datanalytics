@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-12-07 08:13:00+00:00
-draft: false
-title: Un artículo que está esperando a ser escrito
-
-url: /2017/12/07/un-articulo-que-esta-esperando-a-ser-escrito/
 categories:
 - estadística
+date: 2017-12-07 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:55.806806'
+related:
+- 2016-11-21-nadiesinluz.md
+- 2018-05-25-evolucion-de-la-resistencia-al-calor.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2021-12-16-mas-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2024-10-08-cortos-stats.md
 tags:
 - estadística
 - mortalidad
+title: Un artículo que está esperando a ser escrito
+url: /2017/12/07/un-articulo-que-esta-esperando-a-ser-escrito/
 ---
 
 Alguno de mis lectores, supongo, estará metido en ese mundo de ir escribiendo cosas y cosechado méritos, impactos y _anecosas_ para salir del precariado y pillar moscosos. Que dejen de leer. Es una orden.

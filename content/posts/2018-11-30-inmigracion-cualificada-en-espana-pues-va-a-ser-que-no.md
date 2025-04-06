@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-30 08:13:52+00:00
-draft: false
-title: ¿Inmigración cualificada en España? Pues va a ser que no
-
-url: /2018/11/30/inmigracion-cualificada-en-espana-pues-va-a-ser-que-no/
 categories:
 - varios
+date: 2018-11-30 08:13:52+00:00
+draft: false
+lastmod: '2025-04-06T18:53:44.070564'
+related:
+- 2019-01-22-es-madrid-ciudad-para-startups-relacionadas-con-los-datos.md
+- 2017-04-11-el-extrano-y-extremoso-caso-de-los-empleados-fantasma-de-galapagar.md
+- 2011-02-24-c2a1que-trabaje-su-tia.md
+- 2024-01-09-regresiones_pisa.md
+- 2012-12-07-el-escaso-beneficio-marginal-de-trabajar.md
 tags:
 - inmigración
 - paro
 - economía
+title: ¿Inmigración cualificada en España? Pues va a ser que no
+url: /2018/11/30/inmigracion-cualificada-en-espana-pues-va-a-ser-que-no/
 ---
 
 Hace unos años, una empresa Suiza se puso en contacto conmigo, nos gustamos mutuamente y allá que me fui a teclear como empleado suyo. Pero supongamos que una empresa española se pone en contacto con un estadístico de Senegal, se gustan mutuamente y se lo quiere traer. ¿Puede?

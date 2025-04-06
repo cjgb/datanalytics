@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-01 08:49:29+00:00
-draft: false
-title: ¿CDO de, p.e., España? Nah...
-
-url: /2020/09/01/cdo-de-p-e-espana-nah/
 categories:
 - varios
+date: 2020-09-01 08:49:29+00:00
+draft: false
+lastmod: '2025-04-06T18:51:28.463234'
+related:
+- 2020-08-31-sobre-la-muy-necesaria-oficina-del-dato.md
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
+- 2020-07-29-un-instituto-nacional-de-datos.md
+- 2011-06-10-datos-publicos-datos-dup.md
 tags:
 - cdo
 - datos abiertos
 - datos públicos
 - ine
+title: ¿CDO de, p.e., España? Nah...
+url: /2020/09/01/cdo-de-p-e-espana-nah/
 ---
 
 Dizque hace falta un CDO (_chief data officer_) de esa parte de España que es el estado español (aunque no sabemos si con autoridad solo dentro de la administración central o también en sus tentáculos semiautónomos) porque es una figura con creciente importancia en las empresas y con un rol muy definido en ellas.

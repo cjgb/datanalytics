@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-12-11 08:13:55+00:00
-draft: false
-title: Siete años después, dejo la presidencia de la Comunidad R Hispano
-
-url: /2018/12/11/siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano/
 categories:
 - r
+date: 2018-12-11 08:13:55+00:00
+draft: false
+lastmod: '2025-04-06T18:56:55.766611'
+related:
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2016-11-17-hoy-no-estare-donde-deberia-las-viii-jornadas-de-r.md
+- 2011-11-21-iii-jornadas-de-usuarios-de-r-algunas-reflexiones.md
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
 tags:
 - comunidad
 - r
 - r-es
+title: Siete años después, dejo la presidencia de la Comunidad R Hispano
+url: /2018/12/11/siete-anos-despues-dejo-la-presidencia-de-la-comunidad-r-hispano/
 ---
 
 Eso, que dejo la comunidad de la [Comunidad R Hispano](http://r-es.org/). Ocho años después, que ya son. La noticia, en todo caso, no es tanto que abandone la presidencia sino las circunstancias que me condujeron a ella. Noticias viejas, pero noticias al fin y al cabo, que sirven para entender por qué lo fui entonces y por qué dejo de serlo ahora.

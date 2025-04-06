@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-05-25 19:37:59+00:00
-draft: false
-title: Sobre la media y la mediana
-
-url: /2010/05/25/sobre-la-media-y-la-mediana/
 categories:
 - estadística
+date: 2010-05-25 19:37:59+00:00
+draft: false
+lastmod: '2025-04-06T18:55:03.318411'
+related:
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2014-06-10-a-vueltas-con-el-t-test.md
+- 2015-07-23-la-media-medidas-de-centralidad-y-distancias.md
+- 2016-06-15-distribuciones-sin-media-que-pueden-suponer-en-la-practica.md
 tags:
 - estadística
 - media
 - mediana
+title: Sobre la media y la mediana
+url: /2010/05/25/sobre-la-media-y-la-mediana/
 ---
 
 Esta entrada viene a cuento de una discusión en un grupo de [Linkedin](http://www.linkedin.com). Alguien preguntó literalmente:

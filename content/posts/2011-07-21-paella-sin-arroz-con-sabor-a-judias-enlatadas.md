@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-21 07:00:14+00:00
-draft: false
-title: Paella sin arroz con sabor a judías enlatadas
-
-url: /2011/07/21/paella-sin-arroz-con-sabor-a-judias-enlatadas/
 categories:
 - finanzas
 - probabilidad
+date: 2011-07-21 07:00:14+00:00
+draft: false
+lastmod: '2025-04-06T18:47:18.386876'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2012-03-30-tolstoi-sobre-los-mercados-ineficientes.md
+- 2024-07-03-cortos-stats.md
+- 2014-03-28-predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos.md
+- 2014-10-28-tres-sigmas-o-nanay.md
 tags:
 - finanzas
 - mercados financieros
 - probabilidad
 - simulación
+title: Paella sin arroz con sabor a judías enlatadas
+url: /2011/07/21/paella-sin-arroz-con-sabor-a-judias-enlatadas/
 ---
 
 El otro día leí el artículo [_A Prototype Model of Stock Exchange_](http://econpapers.repec.org/paper/arxpapers/cond-mat_2f9709118.htm)de G. Caldarelli, M. Marsili y Y.C. Zhang. La promesa que me ofrecía era la de la creación de un sistema relativamente realista de los agentes que operan en los mercados financieros que diese lugar a una evolución de precios con propiedades similares a las observadas.

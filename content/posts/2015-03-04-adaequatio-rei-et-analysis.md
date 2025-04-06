@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-03-04 08:13:10+00:00
-draft: false
-title: Adaequatio rei et analysis
-
-url: /2015/03/04/adaequatio-rei-et-analysis/
 categories:
 - anuncio
+date: 2015-03-04 08:13:10+00:00
+draft: false
+lastmod: '2025-04-06T18:44:16.344459'
+related:
+- 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
+- 2018-06-20-hoy-estoy-participando-en-un-evento-sobre-big-data.md
+- 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
+- 2012-07-18-conferencia-sobre-grandes-datos.md
+- 2012-11-05-como-vivir-en-un-mar-de-datos.md
 tags:
 - anuncio
 - big data
+title: Adaequatio rei et analysis
+url: /2015/03/04/adaequatio-rei-et-analysis/
 ---
 
 Tal será el título de la charla de una hora que daré en el [Big Data Science Fighters](http://datasciencefighters.com/) en abril.

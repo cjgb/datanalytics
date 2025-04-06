@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-12-16 20:11:37+00:00
-draft: false
-title: La interpretación de "significativo" en un caso muy concreto
-
-url: /2020/12/16/la-interpretacion-de-significativo-en-un-caso-muy-concreto/
 categories:
 - estadística
+date: 2020-12-16 20:11:37+00:00
+draft: false
+lastmod: '2025-04-06T18:45:15.595312'
+related:
+- 2020-10-07-el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente.md
+- 2024-02-13-outliers-dos-modos.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - estadística
 - fourier
 - outliers
 - modelos
+title: La interpretación de "significativo" en un caso muy concreto
+url: /2020/12/16/la-interpretacion-de-significativo-en-un-caso-muy-concreto/
 ---
 
 Comienzo por el final:

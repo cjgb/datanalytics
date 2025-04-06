@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-10-14 08:13:25+00:00
-draft: false
-title: Del hombre medio a la factura media
-
-url: /2015/10/14/del-hombre-medio-a-la-factura-media/
 categories:
 - estadística
+date: 2015-10-14 08:13:25+00:00
+draft: false
+lastmod: '2025-04-06T19:12:42.741931'
+related:
+- 2018-02-07-politicas-y-tarifas-medias-y-deciles.md
+- 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
+- 2010-05-25-sobre-la-media-y-la-mediana.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2024-02-15-margenes-distribucion.md
 tags:
 - estadística
 - facturas
 - media
 - números
+title: Del hombre medio a la factura media
+url: /2015/10/14/del-hombre-medio-a-la-factura-media/
 ---
 
 Del hombre medio (u _homme moyen_ de Quetelet para los eruditos) ya hemos hablado antes: es un concepto decimonónico, de la época de los albores de la estadística, que permite argumentar alrededor de una construcción inexistente: el sujeto que está en la media de todo, la medida de la normalidad.

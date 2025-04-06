@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-24 07:54:41+00:00
-draft: false
-title: Veinte herramientas de visualización
-
-url: /2012/10/24/veinte-herramientas-de-visualizacion/
 categories:
 - gráficos
 - r
+date: 2012-10-24 07:54:41+00:00
+draft: false
+lastmod: '2025-04-06T18:52:20.772365'
+related:
+- 2011-03-29-graficos-ii-herramientas.md
+- 2016-04-27-graficos-interactivos-con-r-un-resumen.md
+- 2011-04-05-graficos-iii-bitacoras.md
+- 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
+- 2011-04-14-graficos-iv-tutoriales-2.md
 tags:
 - gráficos
 - r
+title: Veinte herramientas de visualización
+url: /2012/10/24/veinte-herramientas-de-visualizacion/
 ---
 
 Este es un listado de 20 herramientas de visualización que he extraído de [aquí](http://www.netmagazine.com/features/top-20-data-visualisation-tools). Están divididas en varios grupos:

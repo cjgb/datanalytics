@@ -1,14 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-20 08:13:54+00:00
-draft: false
-title: Descarga de datos del Ibex 35 (¿y otros?) minuto a minuto en tiempo (casi)
-  real
-
-url: /2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/
 categories:
 - finanzas
 - r
+date: 2016-05-20 08:13:54+00:00
+draft: false
+lastmod: '2025-04-06T18:57:40.266835'
+related:
+- 2013-01-09-el-ibex-35-estilo-gapminder.md
+- 2014-04-24-aventuras-de-web-scraping-como-bajarse-todo-el-boe.md
+- 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2013-02-28-addenda-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
+- 2016-04-08-clusters-de-trayectorias-con-la-distancia-de-frechet.md
 tags:
 - bolsa
 - finanzas
@@ -18,6 +21,9 @@ tags:
 - r
 - ibex35
 - webscraping
+title: Descarga de datos del Ibex 35 (¿y otros?) minuto a minuto en tiempo (casi)
+  real
+url: /2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo-casi-real/
 ---
 
 El código es

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-26 07:37:15+00:00
-draft: false
-title: '"Datathon for Social Good" de Telefónica'
-
-url: /2013/08/26/datathon-for-social-good-de-telefonica/
 categories:
 - ciencia de datos
 - estadística
 - anuncio
+date: 2013-08-26 07:37:15+00:00
+draft: false
+lastmod: '2025-04-06T19:06:49.492100'
+related:
+- 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md
+- 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
+- 2014-07-21-maddata-dataton-de-datos-abiertos.md
+- 2011-05-25-los-finalistas-del-desafio-abredatos-2011.md
+- 2012-11-05-como-vivir-en-un-mar-de-datos.md
 tags:
 - competición
 - datos abiertos
 - estadística
 - ciencia de datos
+title: '"Datathon for Social Good" de Telefónica'
+url: /2013/08/26/datathon-for-social-good-de-telefonica/
 ---
 
 El _[Datathon for Social Good](http://new.dynamicinsights.telefonica.com/674/the-details)_ es una iniciativa de Telefónica para desarrollar aplicaciones analíticas que redunden en un _bien social_ que está teniendo lugar estos días (¡aún hay tiempo para [registrarse](http://new.dynamicinsights.telefonica.com/765/enter-the-datathon)!).

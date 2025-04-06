@@ -1,16 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-01-28
-title: 'Sobre los argumentos de David Deutsch contra el bayesianismo y algunos asuntos más'
-url: /2025/01/28/cortos-stats
 categories:
 - cortos
+date: 2025-01-28
+lastmod: '2025-04-06T18:57:14.453229'
+related:
+- 2025-03-11-cortos-causalidad.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2021-09-16-sobre-la-economia-conductual.md
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
 tags:
 - neutralidad en la red
 - universidad
 - libros
 - bayesianismo
 - prerregistro
+title: Sobre los argumentos de David Deutsch contra el bayesianismo y algunos asuntos
+  más
+url: /2025/01/28/cortos-stats
 ---
 
 Tiene Tyler Cowen un artículo en Bloomberg sobre la neutralidad en la red que un LLM me resume así:

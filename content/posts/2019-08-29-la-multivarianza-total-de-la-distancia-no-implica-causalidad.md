@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-08-29 09:13:30+00:00
-draft: false
-title: La multivarianza total de la distancia no implica causalidad
-
-url: /2019/08/29/la-multivarianza-total-de-la-distancia-no-implica-causalidad/
 categories:
 - estadística
+date: 2019-08-29 09:13:30+00:00
+draft: false
+lastmod: '2025-04-06T18:49:54.705521'
+related:
+- 2014-12-08-la-correlacion-ni-siquiera-implica-correlacion.md
+- 2011-12-19-la-correlacion-del-siglo-xxi.md
+- 2018-03-27-que-mas-se-supo-de-la-correlacion-del-s-xxi.md
+- 2022-02-15-mas-correlaciones-siglo-xxi.md
+- 2024-07-03-cortos-stats.md
 tags:
 - artículos
 - correlación
 - multivarianza
+title: La multivarianza total de la distancia no implica causalidad
+url: /2019/08/29/la-multivarianza-total-de-la-distancia-no-implica-causalidad/
 ---
 
 Quería ser el primero en escribirlo. Para la posteridad.

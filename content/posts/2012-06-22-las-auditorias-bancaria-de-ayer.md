@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-22 06:26:12+00:00
-draft: false
-title: Las auditorías bancarias de ayer
-
-url: /2012/06/22/las-auditorias-bancaria-de-ayer/
 categories:
 - estadística
 - números
+date: 2012-06-22 06:26:12+00:00
+draft: false
+lastmod: '2025-04-06T18:59:26.467671'
+related:
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2010-05-07-hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2012-06-12-por-que-me-quejo-del-banco-de-espana.md
+- 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md
 tags:
 - estadística
 - finanzas
 - números
 - riesgo
+title: Las auditorías bancarias de ayer
+url: /2012/06/22/las-auditorias-bancaria-de-ayer/
 ---
 
 Ayer fue día de auditorías bancarias. A las cinco y media de la tarde se enfrentaron un secretario de estado y el subgobernador del Banco de España a un pelotón de periodistas anuméricos con hambre de una sola cifra (pero de muchos ceros) con la que saciar el hambre también de una sola cifra de un país merecidamente atribulado (a más de, no se sabe si por emanación o reflejo, igualmente anumérico).

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-27 08:13:18+00:00
-draft: false
-title: Consultando el número de visitas a páginas de la Wikipedia con R
-
-url: /2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/
 categories:
 - r
+date: 2017-02-27 08:13:18+00:00
+draft: false
+lastmod: '2025-04-06T19:08:40.973449'
+related:
+- 2017-03-03-wikipedia-prophet.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
+- 2013-01-10-una-aplicacion-seo-con-r.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
 tags:
 - r
 - series temporales
 - stl
 - wikipedia
+title: Consultando el número de visitas a páginas de la Wikipedia con R
+url: /2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/
 ---
 
 Hace un tiempo probé el [paquete `wikipediatrend` de R](https://cran.r-project.org/package=wikipediatrend) ya no recuerdo para qué. Desafortunadamente, el servicio que consulta debía de estar caído y no funcionó. Ahí quedó la cosa.

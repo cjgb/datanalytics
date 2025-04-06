@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-12 07:49:19+00:00
-draft: false
-title: De ratios, apuestas y riesgos
-
-url: /2014/02/12/de-ratios-apuestas-y-riesgos/
 categories:
 - estadística
 - probabilidad
 - r
+date: 2014-02-12 07:49:19+00:00
+draft: false
+lastmod: '2025-04-06T19:11:08.290523'
+related:
+- 2012-08-09-odds-ratio-vs-probabilidad.md
+- 2015-09-01-odds-probabilidades.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2024-12-19-promediar-predicciones.md
+- 2015-08-10-estar-en-racha-y-promediar-promedios.md
 tags:
 - estadística
 - odds ratio
@@ -19,6 +23,8 @@ tags:
 - regresión logística
 - riesgo relativo
 - spiegelhalter
+title: De ratios, apuestas y riesgos
+url: /2014/02/12/de-ratios-apuestas-y-riesgos/
 ---
 
 Nunca he entendido eso de los _odds_. Me refiero a eso que mencionan las películas: ocho contra uno a favor de tal, cinco contra tres a favor de cual. Y no creo que sea el único al que le son ajenos. De hecho, la página de la Wikipedia en español correspondiente a la inglesa para _odds_ se refiere a ellas como [_cuotas_](http://es.wikipedia.org/wiki/Cuota_(estad%C3%ADstica)), término que jamás hasta hoy había visto así usado. Tampoco lo han visto, se concoce, los lexicógrafos de la RAE.

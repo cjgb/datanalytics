@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-03 07:13:13+00:00
-draft: false
-title: Paralelización en R con snow
-
-url: /2014/12/03/paralelizacion-en-r-con-snow/
 categories:
 - programación
 - r
+date: 2014-12-03 07:13:13+00:00
+draft: false
+lastmod: '2025-04-06T18:50:26.250236'
+related:
+- 2014-05-15-r-en-paralelo.md
+- 2015-06-15-paralelismo-en-r-memorandum.md
+- 2010-09-01-el-paquete-multicore-de-r.md
+- 2011-04-08-paralelizacion-de-bucles-con-foreach.md
+- 2014-06-06-validacion-cruzada-en-paralelo.md
 tags:
 - programación
 - paralelización
 - r
+title: Paralelización en R con snow
+url: /2014/12/03/paralelizacion-en-r-con-snow/
 ---
 
 Suelo trabajar un servidor con ocho CPUs. Cuando quiero paralelizar código en R, suelo utilizar `[parallel::mclapply](https://stat.ethz.ch/R-manual/R-devel/library/parallel/html/mclapply.html)` (como [aquí](http://www.datanalytics.com/2014/05/15/r-en-paralelo/)). Pero no tengo una máquina. Tengo varias. Y antes, de hecho, muchas.
@@ -40,7 +46,3 @@ stopCluster(cl)
 {{< / highlight >}}
 
 dormirás (en el sentido de `Sys.sleep`) como tal vez nunca: en varios hilos simultáneos a la vez que corren en las dos máquinas indicadas en la especificación del _clúster_.
-
-
-
-

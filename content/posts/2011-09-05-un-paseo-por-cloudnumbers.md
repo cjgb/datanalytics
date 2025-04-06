@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-05 07:57:03+00:00
-draft: false
-title: Un paseo por cloudnumbers
-
-url: /2011/09/05/un-paseo-por-cloudnumbers/
 categories:
 - r
+date: 2011-09-05 07:57:03+00:00
+draft: false
+lastmod: '2025-04-06T18:44:57.602175'
+related:
+- 2012-09-25-predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r.md
+- 2015-04-10-restauracion-de-ficheros-bak-sin-windows.md
+- 2011-03-04-1680.md
+- 2016-06-03-r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia.md
+- 2015-01-21-donde-guardar-los-paquetes-de-r-en-linux-al-menos.md
 tags:
 - cloudnumbers
 - r
+title: Un paseo por cloudnumbers
+url: /2011/09/05/un-paseo-por-cloudnumbers/
 ---
 
 [Cloudnumbers](http://cloudnumbers.com/) es una empresa que ofrece servicios de [computación de alto rendimiento](http://es.wikipedia.org/wiki/Computaci%C3%B3n_de_alto_rendimiento) en la nube con especial énfasis en aplicaciones que corren sobre R. Me ofrecieron una cuenta temporal y gratuita el otro día y en la entrada de hoy voy a describir mis primeros pasos en su plataforma.

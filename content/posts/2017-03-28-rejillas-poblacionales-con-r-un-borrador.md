@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-28 08:13:06+00:00
-draft: false
-title: Rejillas poblacionales con R (un borrador)
-
-url: /2017/03/28/rejillas-poblacionales-con-r-un-borrador/
 categories:
 - r
+date: 2017-03-28 08:13:06+00:00
+draft: false
+lastmod: '2025-04-06T19:06:02.983721'
+related:
+- 2017-04-19-guadalajara-joven-guadalajara-inconclusa.md
+- 2019-07-15-cartogramas-con-recmap.md
+- 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2017-05-12-me-too-me-too.md
 tags:
 - demografía
 - españa
@@ -17,6 +21,8 @@ tags:
 - maptools
 - r
 - sp
+title: Rejillas poblacionales con R (un borrador)
+url: /2017/03/28/rejillas-poblacionales-con-r-un-borrador/
 ---
 
 ![](/wp-uploads/2017/03/C719aiTXkAAzFqX.jpg)

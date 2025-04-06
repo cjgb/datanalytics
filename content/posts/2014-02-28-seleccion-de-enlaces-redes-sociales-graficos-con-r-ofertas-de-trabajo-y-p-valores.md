@@ -1,20 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-28 08:21:09+00:00
-draft: false
-title: 'Selección de enlaces: redes sociales, gráficos con R, ofertas de trabajo y
-  p-valores'
-
-url: /2014/02/28/seleccion-de-enlaces-redes-sociales-graficos-con-r-ofertas-de-trabajo-y-p-valores/
 categories:
 - estadística
 - gráficos
 - r
+date: 2014-02-28 08:21:09+00:00
+draft: false
+lastmod: '2025-04-06T19:11:48.328612'
+related:
+- 2011-03-21-estadistica-para-periodistas-y-escritores.md
+- 2010-06-28-los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help.md
+- 2022-12-15-raking.md
+- 2011-06-10-datos-publicos-datos-dup.md
+- 2014-03-28-predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos.md
 tags:
 - gráficos
 - p-valores
 - r
 - redes sociales
+title: 'Selección de enlaces: redes sociales, gráficos con R, ofertas de trabajo y
+  p-valores'
+url: /2014/02/28/seleccion-de-enlaces-redes-sociales-graficos-con-r-ofertas-de-trabajo-y-p-valores/
 ---
 
 Acá va otra selección de cuatro enlaces relevantes –que no necesariamente nuevos— de la semana. El primero, _[Using Metadata to find Paul Revere](http://kieranhealy.org//blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)_ recoge a modo de historia, que algunos encontrarán amena, una aplicación de rudimentos del álgebra lineal al análisis de redes sociales. Dada una matriz de incidencia `A` (personas que pertenecen a clubes) es posible calcular índices de proximidad entre personas (o entre clubes) calculando no más `AA'`. El resto hasta ganar el [premio de Netflix](http://en.wikipedia.org/wiki/Netflix_Prize) es pura heurística.

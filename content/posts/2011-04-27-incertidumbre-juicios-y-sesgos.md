@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-27 07:25:57+00:00
-draft: false
-title: Incertidumbre, juicios y sesgos
-
-url: /2011/04/27/incertidumbre-juicios-y-sesgos/
 categories:
 - estadística
 - probabilidad
+date: 2011-04-27 07:25:57+00:00
+draft: false
+lastmod: '2025-04-06T19:12:41.299963'
+related:
+- 2020-05-18-como-pensar-en-la-probabilidad-de-un-evento.md
+- 2023-04-04-kant-probabilidad-apuestas.md
+- 2022-04-26-redefinicion-probabilidades-subjetivas.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
 tags:
 - estadística
 - probabilidad
+title: Incertidumbre, juicios y sesgos
+url: /2011/04/27/incertidumbre-juicios-y-sesgos/
 ---
 
 Recomiendo encarecidamente la lectura del artículo _[Judgment under Uncertainty: Heuristics and Biases](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf)_ de [D. Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman) y [A. Tversky](http://en.wikipedia.org/wiki/Amos_Tversky). En pocas palabras, trata sobre dos cosas:

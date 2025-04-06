@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-23 08:13:43+00:00
-draft: false
-title: Y mientras tanto... nos roban la cartera
-
-url: /2017/03/23/y-mientras-tanto-nos-roban-la-cartera/
 categories:
 - estadística
+date: 2017-03-23 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T18:46:19.357773'
+related:
+- 2016-10-04-si-se-estudio-que-las-autopistas-eran-viables-por-que-estan-ahora-en-quiebra.md
+- 2017-09-29-bus-al-norte-bus-al-sur.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2012-04-30-contar-c2bffacil.md
 tags:
 - mala ciencia
 - autopistas
 - prensa
 - proyecciones
+title: Y mientras tanto... nos roban la cartera
+url: /2017/03/23/y-mientras-tanto-nos-roban-la-cartera/
 ---
 
 Hablamos de [ondículas](http://elpais.com/elpais/2017/03/21/ciencia/1490102988_761922.html).

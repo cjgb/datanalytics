@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-09 06:44:41+00:00
-draft: false
-title: ¿Cuánto gana el banco con tu hipoteca?
-
-url: /2012/01/09/cuanto-gana-el-banco-con-tu-hipoteca/
 categories:
 - finanzas
 - r
+date: 2012-01-09 06:44:41+00:00
+draft: false
+lastmod: '2025-04-06T18:55:58.429043'
+related:
+- 2012-01-03-ingenieria-fiscal-para-mi-hipoteca-vendo-un-futuro.md
+- 2023-09-14-gestion-liquidez.md
+- 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md
+- 2012-07-04-libor-libor-fundeu-y-barclays-claro.md
+- 2024-06-03-descuento-hiperbolico.md
 tags:
 - finanzas
 - hipotecas
 - r
+title: ¿Cuánto gana el banco con tu hipoteca?
+url: /2012/01/09/cuanto-gana-el-banco-con-tu-hipoteca/
 ---
 
 Parece mentira, pero hay gente que lo calcula fatal. Hace tiempo, un antiguo colega mío, matemático él, había propuesto el ejercicio a sus alumnos y estimó, me contó, que el banco recibía, aproximadamente, _el doble_ de lo que prestaba. La operación que había realizado era muy sencilla: calcular el saldo vivo inicial con la suma de todas las cuotas mensuales. Pero la operación es incorrecta. Veamos por qué. Y obtengamos, de paso, alguna estimación más ajustada.

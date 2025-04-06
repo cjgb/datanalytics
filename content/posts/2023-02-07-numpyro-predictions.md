@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-02-07
-title: 'Ajuste de modelos lineales y predicción de valores con numpyro'
-
-url: /2023/02/07/modelo-lineal-prediccion-numpyro/
 categories:
 - estadística
+date: 2023-02-07
+lastmod: '2025-04-06T18:57:28.784290'
+related:
+- 2023-01-18-modelo-poisson-numpyro.md
+- 2022-07-26-hueco-termico.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2024-10-10-elbo.md
+- 2023-10-19-errores-chatgpt.md
 tags:
 - python
 - numpyro
@@ -13,6 +17,8 @@ tags:
 - predicción
 - mercados de predicciones
 - hypermind
+title: Ajuste de modelos lineales y predicción de valores con numpyro
+url: /2023/02/07/modelo-lineal-prediccion-numpyro/
 ---
 
 Una de mis aficiones más excusables es la de participar en el _mercado de predicciones_ de Hypermind. Una de las preguntas que se suele plantear anualmente ---y en la que, gracias a apostar contra el común/apocalíptico sentir, logré _pingües beneficios_ el año pasado--- tiene que ver con cuándo nos vamos a morir todos. De otra manera:

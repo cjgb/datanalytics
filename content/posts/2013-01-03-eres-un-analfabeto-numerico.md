@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-03 07:46:36+00:00
-draft: false
-title: ¿Eres un analfabeto numérico?
-
-url: /2013/01/03/eres-un-analfabeto-numerico/
 categories:
 - probabilidad
+date: 2013-01-03 07:46:36+00:00
+draft: false
+lastmod: '2025-04-06T18:48:40.811012'
+related:
+- 2012-10-30-cultura-numerica-incultura-numerica.md
+- 2011-07-14-la-percepcion-del-riesgo-en-la-bbc.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2015-03-20-campana-de-alfabetizacion-numerica-para-diputados.md
+- 2023-07-20-coeficientes-no-identificables.md
 tags:
 - percepción del riesgo
 - probabilidad
 - riesgo
+title: ¿Eres un analfabeto numérico?
+url: /2013/01/03/eres-un-analfabeto-numerico/
 ---
 
 Si quieres comparar tu nivel de alfabetización numérica con una muestra de personas con estudios universitarios de muchas partes del mundo, puedes realizar [este test](http://www.riskliteracy.org/dnn/).

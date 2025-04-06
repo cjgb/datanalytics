@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-04-21 08:13:21+00:00
-draft: false
-title: El cincuenta en raya (y el tres en raya)
-
-url: /2016/04/21/el-cincuenta-en-raya-y-el-tres-en-raya/
 categories:
 - estadística
+date: 2016-04-21 08:13:21+00:00
+draft: false
+lastmod: '2025-04-06T18:55:32.048568'
+related:
+- 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2017-05-12-me-too-me-too.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2011-11-03-2872.md
 tags:
 - correlación
 - estadística
 - regresión lineal
+title: El cincuenta en raya (y el tres en raya)
+url: /2016/04/21/el-cincuenta-en-raya-y-el-tres-en-raya/
 ---
 
 Supongo que todos conocéis el [tres en raya](https://es.wikipedia.org/wiki/Tres_en_l%C3%ADnea). El cincuenta en (casi) raya, sin embargo, es esto:

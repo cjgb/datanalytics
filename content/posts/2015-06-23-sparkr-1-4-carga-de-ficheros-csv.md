@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-06-23 08:13:36+00:00
-draft: false
-title: 'SparkR 1.4: carga de ficheros CSV'
-
-url: /2015/06/23/sparkr-1-4-carga-de-ficheros-csv/
 categories:
 - r
+date: 2015-06-23 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:01:07.958768'
+related:
+- 2015-06-17-liberado-spark-1-4.md
+- 2011-03-04-1680.md
+- 2016-07-07-r-io-o-rio.md
+- 2011-04-07-nueva-version-de-paquete-colbycol.md
+- 2014-07-09-estrategias-escalables-con-r.md
 tags:
 - csv
 - r
 - spark
 - sparkr
+title: 'SparkR 1.4: carga de ficheros CSV'
+url: /2015/06/23/sparkr-1-4-carga-de-ficheros-csv/
 ---
 
 He instalado [Spark 1.4](http://www.datanalytics.com/2015/06/17/liberado-spark-1-4/) recientemente y he comenzado a cacharrear. Antes de nada, quiero cargar datos.

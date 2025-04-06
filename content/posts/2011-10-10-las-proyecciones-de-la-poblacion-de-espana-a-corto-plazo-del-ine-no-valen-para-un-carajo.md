@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-10 07:00:03+00:00
-draft: false
-title: Las proyecciones de la población de España a corto plazo del INE no valen para
-  un carajo
-
-url: /2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/
 categories:
 - estadística
 - números
+date: 2011-10-10 07:00:03+00:00
+draft: false
+lastmod: '2025-04-06T18:51:21.155348'
+related:
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2017-01-31-proyecciones-probabilisticas-de-poblacion.md
+- 2014-11-14-proyecciones-estimaciones-previsiones-operaciones-y-churros.md
+- 2020-09-29-un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine.md
+- 2021-05-27-todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine.md
 tags:
 - estadística pública
 - números
 - ine
 - proyecciones
+title: Las proyecciones de la población de España a corto plazo del INE no valen para
+  un carajo
+url: /2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/
 ---
 
 Las proyecciones de la población de España a corto plazo del INE no valen para un puto carajo. Tal vez sí para conseguir unos cuantos titulares en prensa como [este](https://www.larazon.es/historico/6058-crisis-demografica-por-primera-vez-espana-pierde-poblacion-MLLA_RAZON_403087/), [este](http://www.publico.es/espana/400562/espana-perdera-500-000-habitantes-antes-de-2021) o este [otro](http://www.elpais.com/articulo/sociedad/Espana/perdera/medio/millon/habitantes/proxima/decada/mantiene/tendencia/demografica/elpepusoc/20111007elpepusoc_4/Tes).

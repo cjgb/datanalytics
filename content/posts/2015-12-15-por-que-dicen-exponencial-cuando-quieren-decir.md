@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-15 08:13:31+00:00
-draft: false
-title: ¿Por qué dicen "exponencial" cuando quieren decir...?
-
-url: /2015/12/15/por-que-dicen-exponencial-cuando-quieren-decir/
 categories:
 - números
 - probabilidad
+date: 2015-12-15 08:13:31+00:00
+draft: false
+lastmod: '2025-04-06T19:04:27.585761'
+related:
+- 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
+- 2011-11-25-escalas-logaritimicas-puede-pero.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2023-01-24-funciones-enlace.md
+- 2014-02-14-memoria-de-decaimiento-exponencial-y-canutos-asincronos.md
 tags:
 - exponencial
 - función logística
+title: ¿Por qué dicen "exponencial" cuando quieren decir...?
+url: /2015/12/15/por-que-dicen-exponencial-cuando-quieren-decir/
 ---
 
 Hoy, al mostrar

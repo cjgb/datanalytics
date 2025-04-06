@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-10 06:44:37+00:00
-draft: false
-title: '"Gráficos estadísticos y mapas con R", un análisis'
-
-url: /2012/09/10/graficos-estadisticos-y-mapas-con-r-un-analisis/
 categories:
 - gráficos
 - r
+date: 2012-09-10 06:44:37+00:00
+draft: false
+lastmod: '2025-04-06T19:10:45.878417'
+related:
+- 2012-07-02-graficos-estadisticos-y-mapas-con-r.md
+- 2011-04-26-graficos-vi-teoria.md
+- 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
+- 2013-11-29-oscar-perpinan-sobre-graficos-base-vs-lattice-vs-ggplot2.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 tags:
 - gráficos
 - r
 - mapas
+title: '"Gráficos estadísticos y mapas con R", un análisis'
+url: /2012/09/10/graficos-estadisticos-y-mapas-con-r-un-analisis/
 ---
 
 Me dispongo hoy a analizar el libro _[Gráficos estadísticos y mapas con R](http://www.datanalytics.com/2012/07/02/graficos-estadisticos-y-mapas-con-r/)_ que anuncié hace unos días, aun sin haber tenido oportunidad de hojearlo.

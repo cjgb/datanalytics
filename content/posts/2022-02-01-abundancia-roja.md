@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-02-01
-title: "Abundancia roja: una miniperspectiva matemática e informática"
-
-url: /2022/02/01/abundancia-roja/
 categories:
 - estadística
 - números
+date: 2022-02-01
+lastmod: '2025-04-06T18:49:47.366500'
+related:
+- 2018-03-02-reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que.md
+- 2010-12-30-c2bfes-cobol-tan-robusto-como-cuentan.md
+- 2021-07-07-hayek-vs-machin-lenin.md
+- 2011-06-06-la-tragedia-del-buen-rollito.md
+- 2021-04-15-el-mejor-negocio-de-la-decada.md
 tags:
 - libros
 - spufford
 - economía
 - urss
+title: 'Abundancia roja: una miniperspectiva matemática e informática'
+url: /2022/02/01/abundancia-roja/
 ---
 
 Este, a mitad de la tarde del día en cuya mañana he debido personarme en el quinto pino cargado de originales y sus correspondientes fotocopias para que una enjuta y adusta funcionaria de una de esas onerosas manifestaciones del estado metiese la entrometida nariz en un contrato firmado libérrimamente por dos mayores de edad en pleno uso y disfrute de sus facultades mentales [pausa, pausa, ¡pausa!], es momento sin igual para minirreseñar

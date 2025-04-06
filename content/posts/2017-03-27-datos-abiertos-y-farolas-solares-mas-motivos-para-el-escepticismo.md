@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-27 08:13:15+00:00
-draft: false
-title: 'Datos abiertos y farolas solares: más motivos para el escepticismo'
-
-url: /2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/
 categories:
 - varios
+date: 2017-03-27 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T18:50:19.629685'
+related:
+- 2022-07-26-hueco-termico.md
+- 2012-03-01-como-poner-una-lavadora.md
+- 2021-11-18-sobre-el-almacenamiento-industrial-de-la-energia-electrica.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
 tags:
 - datos abiertos
 - democracia directa
 - electricidad
 - madrid
+title: 'Datos abiertos y farolas solares: más motivos para el escepticismo'
+url: /2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/
 ---
 
 La semana pasada hice constar [mi escepticismo acerca del poder transformativo de los datos abiertos](https://www.datanalytics.com/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/). Mencionaba dos ámbitos en los que existen datos no solo abiertos, sino abundantes y en tiempo real: el de los deportes y el de las finanzas. Y cómo, a pesar de ello, seguimos siendo, como sociedad, mendrugos tanto en lo deportivo como en lo financiero.

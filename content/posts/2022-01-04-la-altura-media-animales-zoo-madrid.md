@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-01-04
-title: ¿Cómo ha evolucionado la altura media de los animales del zoo de Madrid en los últimos años?
-
-url: /2022/01/04/altura-media-animales-zoo-madrid/
 categories:
 - estadística
+date: 2022-01-04
+lastmod: '2025-04-06T19:07:09.894992'
+related:
+- 2024-11-14-simpson-productividad.md
+- 2021-01-28-simpson-sobre-la-desigualdad.md
+- 2013-08-13-suben-o-bajan.md
+- 2019-03-14-lo-que-las-diferencias-de-medias-evocan.md
+- 2012-07-16-el-paro-cosa-de-hombres.md
 tags:
 - media
 - salarios
@@ -13,6 +17,9 @@ tags:
 - economía
 - normalistán
 - extremistán
+title: ¿Cómo ha evolucionado la altura media de los animales del zoo de Madrid en
+  los últimos años?
+url: /2022/01/04/altura-media-animales-zoo-madrid/
 ---
 
 Antes de explicar el por qué del título de la entrada y justificarla propiamente, permítaseme mostrar esto:
@@ -51,4 +58,3 @@ Pero advierto cierto renacimiento de su escepticismo en esa escuela antimarginal
 Ojalá envejezcan mal, pues, esas imágenes que hoy traigo.
 
 **Coda:** Esta entrada justifica un tuit que hice el otro día al hilo de esas imágenes y en la que tal vez quedé como un _troll_ sin otro afán que el de terciar sin causa. Con esto, espero, me explico y, en definitiva, redimo.
-

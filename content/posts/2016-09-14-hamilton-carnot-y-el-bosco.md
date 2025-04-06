@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-14 08:13:00+00:00
-draft: false
-title: Hamilton, Carnot y el Bosco
-
-url: /2016/09/14/hamilton-carnot-y-el-bosco/
 categories:
 - varios
+date: 2016-09-14 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:45:52.580206'
+related:
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2021-10-01-esos-felices-momentos-le-verrier.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2017-03-21-asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion.md
+- 2016-10-06-que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion.md
 tags:
 - cultura
 - física
 - stan
+title: Hamilton, Carnot y el Bosco
+url: /2016/09/14/hamilton-carnot-y-el-bosco/
 ---
 
 Por culpa de una nevera que no enfriaba como era debido, veinte años después, estoy repasando mi termodinámica: entropía, ciclo de Carnot, etc.

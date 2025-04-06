@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-24 08:13:26+00:00
-draft: false
-title: 'GBM (III): Más allá de las pérdidas cuadráticas'
-
-url: /2016/06/24/gbm-iii-mas-alla-de-las-perdidas-cuadraticas/
 categories:
 - estadística
+date: 2016-06-24 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T18:44:47.629567'
+related:
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2016-06-22-gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2016-06-21-gbm-i-una-mentira-sugerente.md
+- 2016-03-11-gbm-sintetizado-en-una-linea.md
 tags:
 - estadística
 - gbm
@@ -14,6 +18,8 @@ tags:
 - supervivencia
 - regresión lineal
 - glm
+title: 'GBM (III): Más allá de las pérdidas cuadráticas'
+url: /2016/06/24/gbm-iii-mas-alla-de-las-perdidas-cuadraticas/
 ---
 
 Liberados del estrecho ámbito de nuestra [original mentira sugerente](https://www.datanalytics.com/2016/06/21/gbm-i-una-mentira-sugerente/) gracias a la [relación que descubrimos entre residuos y gradientes cuando las pérdidas son cuadráticas](https://www.datanalytics.com/2016/06/22/gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes/) podemos adentrarnos en ámbitos más extensos.

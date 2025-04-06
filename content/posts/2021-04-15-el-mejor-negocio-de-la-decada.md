@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-04-15 09:13:00+00:00
-draft: false
-title: El mejor negocio de la década
-
-url: /2021/04/15/el-mejor-negocio-de-la-decada/
 categories:
 - varios
+date: 2021-04-15 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:46:14.051309'
+related:
+- 2012-03-15-idi-regnum-hispaniarum-circa-2012-a-d.md
+- 2020-12-04-sobre-la-carta-de-derechos-digitales.md
+- 2013-12-31-palabras-y-pelas-un-ejercicio-apenas-incoado.md
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2018-09-21-una-anecdota-sobre-el-mercado-electrico-y-sus-mermas.md
 tags:
 - economía
+title: El mejor negocio de la década
+url: /2021/04/15/el-mejor-negocio-de-la-decada/
 ---
 
 El mejor negocio del mundo sigue siendo ---reza el chiste--- comprar un argentino por lo que vale y venderlo por lo que dice que vale.

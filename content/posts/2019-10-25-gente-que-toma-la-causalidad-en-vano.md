@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-10-25 09:13:51+00:00
-draft: false
-title: Gente que toma la causalidad en vano
-
-url: /2019/10/25/gente-que-toma-la-causalidad-en-vano/
 categories:
 - artículos
 - estadística
 - mala ciencia
+date: 2019-10-25 09:13:51+00:00
+draft: false
+lastmod: '2025-04-06T18:52:41.545814'
+related:
+- 2025-03-11-cortos-causalidad.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2014-06-24-causalidad-a-la-pearl-y-el-operador-do.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
+- 2022-05-05-individualismo-metodologico.md
 tags:
 - airbnb
 - barcelona
@@ -16,6 +20,8 @@ tags:
 - econometría
 - estadística espacial
 - mala ciencia
+title: Gente que toma la causalidad en vano
+url: /2019/10/25/gente-que-toma-la-causalidad-en-vano/
 ---
 
 Me refiero a los autores de [_El impacto de Airbnb en el mercado de vivienda de Barcelona_](https://nadaesgratis.es/admin/el-impacto-de-airbnb-en-el-mercado-de-vivienda-de-barcelona), que a partir de datos puramente observacionales y en un artículo de apenas 1500 palabras, mencionan la causalidad siete veces. Además, escriben joyas como

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-04-06
-title: 'Extrapolar es difícil (¿imposible?); hoy, con "sigmoides"'
-
-url: /2023/04/06/extrapolacion-imposible-sigmoides/
 categories:
 - estadística
+date: 2023-04-06
+lastmod: '2025-04-06T18:52:10.051515'
+related:
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2024-02-13-outliers-dos-modos.md
 tags:
 - extrapolación
 - estadística
 - artículos
 - sigmoide
 - función logísitica
+title: Extrapolar es difícil (¿imposible?); hoy, con "sigmoides"
+url: /2023/04/06/extrapolacion-imposible-sigmoides/
 ---
 
 La extrapolación problemática. Que es la manera erudita de decir que _ni de coña_.
@@ -34,5 +40,3 @@ que significa lo siguiente:
 > Por el camino haremos como que nos vamos sorprendiendo de encontrar resultados análogos a los trilladísimos en el caso de la regresión lineal ---solo que elevados al cubo--- y si tenemos suerte y nos lo publican, tendremos un renglón más en el CV.
 
 Un desperdicio de tiempo y talento.
-
-

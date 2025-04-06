@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-24 08:13:18+00:00
-draft: false
-title: El señor de las ondículas
-
-url: /2017/03/24/el-senor-de-las-ondiculas/
 categories:
 - varios
 - mala ciencia
+date: 2017-03-24 08:13:18+00:00
+draft: false
+lastmod: '2025-04-06T18:59:25.638730'
+related:
+- 2011-12-02-grandes-avances-criptograficos-segun-el-pais.md
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
+- 2014-11-03-espanoles-hererodoxos-outliers-patrios.md
 tags:
 - ciencia
 - prensa
 - mala ciencia
+title: El señor de las ondículas
+url: /2017/03/24/el-senor-de-las-ondiculas/
 ---
 
 Un enanito encuentra un anillo. Eso le lleva a abandonar la comodidad de su Comarca para comenzar la más trepidante de las aventuras que le conducirá a salvar el mundo.

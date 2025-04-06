@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-16 07:23:33+00:00
-draft: false
-title: Otra sobre polígrafos, terrorismo y periodistas anuméricos
-
-url: /2011/09/16/otra-sobre-poligrafos-terrorismo-y-periodistas-anumericos/
 categories:
 - estadística
 - números
 - r
+date: 2011-09-16 07:23:33+00:00
+draft: false
+lastmod: '2025-04-06T18:49:39.241554'
+related:
+- 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md
+- 2011-02-21-mineria-de-datos-promesas-y-realidades.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2012-09-24-un-sutil-error-en-el-calculo-de-probabilidades-en-el-pais.md
+- 2012-04-30-contar-c2bffacil.md
 tags:
 - estadística
 - números
 - r
 - anumerismo
+title: Otra sobre polígrafos, terrorismo y periodistas anuméricos
+url: /2011/09/16/otra-sobre-poligrafos-terrorismo-y-periodistas-anumericos/
 ---
 
 Dice el diario El País que [_científicos británicos desarrollan un sistema que permite saber si alguien no está diciendo la verdad analizando su rostro_](http://www.elpais.com/articulo/sociedad/Mentiroso/cara/elpepusoc/20110914elpepusoc_1/Tes).
@@ -67,4 +73,3 @@ Hay cosas que no entiendo:
 
 * Que todo el mundo que inventa un cacharrillo o algoritmo lo juzgue utilísimo para afrontar un problema, el del terrorismo, que [causa en EE.UU. menos muertes que los ciervos](http://www.datanalytics.com/2011/05/10/terrorismo-sesgos-percepcion-improbabilidad/).
 * Que un periódico que se considera tan serio sea incapaz de ofrecer un análisis más completo e inteligente de lo que publica y se limite a copiar del teletipo.
-

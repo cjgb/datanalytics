@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-16
-title: 'Monosemanticidad: una introducción para despistados'
-url: /2024/07/16/monosemanticidad
 categories:
 - llms
+date: 2024-07-16
+lastmod: '2025-04-06T18:48:14.116232'
+related:
+- 2024-05-07-cortos.md
+- 2023-10-05-llms-historia.md
+- 2024-07-18-cortos-llms.md
+- 2025-02-25-cortos-stats.md
+- 2024-03-21-cortos.md
 tags:
 - llms
 - monosemanticidad
 - ia
+title: 'Monosemanticidad: una introducción para despistados'
+url: /2024/07/16/monosemanticidad
 ---
 
 ### I.

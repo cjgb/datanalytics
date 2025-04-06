@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-03 07:04:20+00:00
-draft: false
-title: 'Clústering (III): sobresimplificación'
-
-url: /2011/08/03/clustering-iii-sobresimplificacion/
 categories:
 - ciencia de datos
 - consultoría
 - estadística
+date: 2011-08-03 07:04:20+00:00
+draft: false
+lastmod: '2025-04-06T19:00:39.818936'
+related:
+- 2011-08-26-clustering-iv-una-digresion-real-como-la-vida-misma.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md
+- 2022-12-15-raking.md
 tags:
 - clústering
 - consultoría
@@ -16,6 +20,8 @@ tags:
 - márketing
 - ciencia de datos
 - quetelet
+title: 'Clústering (III): sobresimplificación'
+url: /2011/08/03/clustering-iii-sobresimplificacion/
 ---
 
 ¿Quién fue el segundo hombre en pisar la luna? ¿Y el tercero? Aunque a veces pareciese lo contrario, ¿sabe que hay futbolistas que no son ni Ronaldo ni Messi? ¿Y otros ciclistas además de Contador e Induráin? ¿Y que la Fórmula 1 no se reduce a un tal Alonso?
@@ -66,4 +72,3 @@ Queda como ejercicio para mis lectores estimar el tamaño —en proporción del 
 En resumen, el éxito del llamado análisis clúster responde en muchos casos y aplicaciones a una inercia sicológica que empuja al ser humano a la sobresimplificación. Dejada aparte la irreproducibilidad, sus efectos distorsionadores aumentan con el número de variables. Y, finalmente, muchos profesionales que aplican este tipo de estudios hacen dejación de sus responsabilidades —o las ignoran— cuando soslayan la variabilidad de los sujetos alrededor de sus prototipos y pasan or encima del problema que suponen las zonas grises.
 
 Y la semana que viene, más.
-

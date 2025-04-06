@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-06-08 08:13:34+00:00
-draft: false
-title: Una de las cosas que me irritan de R
-
-url: /2015/06/08/una-de-las-cosas-que-me-irritan-de-r/
 categories:
 - r
+date: 2015-06-08 08:13:34+00:00
+draft: false
+lastmod: '2025-04-06T18:48:12.025493'
+related:
+- 2019-07-15-cartogramas-con-recmap.md
+- 2015-05-27-grafos-por-vecindad-en-mapas.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2017-05-12-me-too-me-too.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 tags:
 - r
+title: Una de las cosas que me irritan de R
+url: /2015/06/08/una-de-las-cosas-que-me-irritan-de-r/
 ---
 
 R (y su comunidad) es en ocasiones irritante. Os cuento por qué.
@@ -22,18 +28,3 @@ Pero, ¿qué es `popgraph`? Es un paquete para construir y manipular _population
 Si este, en lugar de ser un académico aislado del resto de la humanidad por los caprichos de los urbanistas que diseñan campus universitarios, hubiese sido una empresa interesada en divulgarlo, habríamos tenido un resultado muy distinto: nos lo venderían como una solución para casi cualquier problema analítico que, además, envía correo y gestiona la lista de la compra. Y mi entrada, en tal caso, habría denunciado que el paquete _solo y exclusivamente_ pinta grafos sobre mapas.
 
 ¿Tanto cuesta decir que `popgraph` pinta grafos sobre mapas y que, efectivamente, como corolario, puede también pintar sobre mapas grafos que representan poblaciones de las que son del interés fundamental de su autor?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

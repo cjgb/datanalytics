@@ -1,10 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-11-05
-title: 'Un argumento en contra del redondeo y cuatro breves asuntos más'
-url: /2024/11/05/cortos-estadística
 categories:
 - cortos
+date: 2024-11-05
+lastmod: '2025-04-06T18:44:55.610916'
+related:
+- 2024-07-03-cortos-stats.md
+- 2024-07-10-cortos-stats.md
+- 2024-10-10-elbo.md
+- 2016-02-29-los-tres-contraargumentos-habituales.md
+- 2025-02-11-cortos-llms.md
 tags:
 - estadísica
 - stan
@@ -12,6 +17,8 @@ tags:
 - bmi
 - left
 - redondeo
+title: Un argumento en contra del redondeo y cuatro breves asuntos más
+url: /2024/11/05/cortos-estadística
 ---
 
 1. Ahora se pueden correr Stan en el navegador (vía WebAssembly) [aquí](https://stan-playground.flatironinstitute.org/).

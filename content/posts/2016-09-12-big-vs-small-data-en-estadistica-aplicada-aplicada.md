@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-09-12 08:13:19+00:00
-draft: false
-title: Big vs small data en estadística aplicada aplicada
-
-url: /2016/09/12/big-vs-small-data-en-estadistica-aplicada-aplicada/
 categories:
 - estadística
+date: 2016-09-12 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T18:57:12.141362'
+related:
+- 2018-04-27-redundancias-o-por-que-empenarnos-en-tener-tantos-datos-cuando-con-una-fraccion-sobra.md
+- 2023-09-28-potencia-tests.md
+- 2019-10-04-varian-sobre-el-muestreo.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
 tags:
 - big data
 - diseño experimental
 - estadística
 - muestras pequeñas
+title: Big vs small data en estadística aplicada aplicada
+url: /2016/09/12/big-vs-small-data-en-estadistica-aplicada-aplicada/
 ---
 
 Tengo un proyecto entre manos. Trata de medir un efecto pequeño bajo una condición experimental (una palanca que se puede subir y bajar) con un enorme ruido de fondo (debido a factores para los que no existe la susodicha palanca). Existen dos aproximaciones que, en su versión resumida, son:

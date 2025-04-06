@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-29 08:13:32+00:00
-draft: false
-title: Por una vez, accedo a hablar de algo de lo que no sé
-
-url: /2016/06/29/por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se/
 categories:
 - estadística
+date: 2016-06-29 08:13:32+00:00
+draft: false
+lastmod: '2025-04-06T18:50:20.287070'
+related:
+- 2022-03-15-infraestimacion-error-encuestas.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
+- 2022-09-13-errores-cierto-tipo-encuestas.md
 tags:
 - encuestas
 - estadística
 - muestreo
+title: Por una vez, accedo a hablar de algo de lo que no sé
+url: /2016/06/29/por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se/
 ---
 
 Me piden que opine sobre lo de las encuestas electorales y su error. Vaya por delante mi confesión de que de eso sé poco. Soy matemático, no estadístico, y uno de los mayores huecos (¿simas?) de mi formación estadística tiene que ver con todo lo relativo al muestreo. Así que, con la valentía que aporta la ignorancia, procedo.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-29 06:48:17+00:00
-draft: false
-title: Predicciones a toro pasado y el perro que no ladró
-
-url: /2011/09/29/predicciones-a-toro-pasado-y-el-perro-que-no-ladro/
 categories:
 - ciencia de datos
 - nlp
+date: 2011-09-29 06:48:17+00:00
+draft: false
+lastmod: '2025-04-06T19:08:18.046674'
+related:
+- 2011-02-21-mineria-de-datos-promesas-y-realidades.md
+- 2023-09-05-superforecasting.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2025-01-14-cortos-stats.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
 tags:
 - ciencia de datos
 - nlp
+title: Predicciones a toro pasado y el perro que no ladró
+url: /2011/09/29/predicciones-a-toro-pasado-y-el-perro-que-no-ladro/
 ---
 
 Es fácil predecir a toro pasado. Casi tan fácil que asestarle una gran lanzada al moro muerto (el refranero es así de incorrecto políticamente, lo siento).

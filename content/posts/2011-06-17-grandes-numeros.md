@@ -1,18 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-17 07:16:50+00:00
-draft: false
-title: Grandes números
-
-url: /2011/06/17/grandes-numeros/
 categories:
 - consultoría
 - números
+date: 2011-06-17 07:16:50+00:00
+draft: false
+lastmod: '2025-04-06T18:57:40.976345'
+related:
+- 2010-09-23-c2bfcuanta-informacion-hay-en-el-mundo.md
+- 2012-11-21-260gb-es-big-data.md
+- 2011-04-13-c2bfnos-leen-y-mas-en-el-pais.md
+- 2010-09-25-tecnologias-de-la-informacion-2020.md
+- 2015-07-24-mis-respuestas-en-una-entrevista-sobre-big-data-periodismo-de-datos-etc.md
 tags:
 - consultoría
 - números
+title: Grandes números
+url: /2011/06/17/grandes-numeros/
 ---
-
 
 * 400 euros cuesta un disco duro en el que almacenar _toda la música del mundo_
 * Hay 5.000 millones de teléfonos móviles funcionado

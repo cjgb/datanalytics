@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-02-05 08:13:39+00:00
-draft: false
-title: 'Lanzamientos de moneda: no es azar sino física'
-
-url: /2018/02/05/lanzamientos-de-moneda-no-es-azar-sino-fisica/
 categories:
 - probabilidad
+date: 2018-02-05 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:58:04.412799'
+related:
+- 2022-09-15-perder-ganando.md
+- 2015-01-07-juegos-justos-con-monedas-truchas.md
+- 2015-08-27-tres-monedas-y-un-argumento-falaz.md
+- 2022-03-29-experimento-fisico-causalidad-i.md
+- 2021-04-08-sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez.md
 tags:
 - artículos
 - monedas
 - probabilidad
+title: 'Lanzamientos de moneda: no es azar sino física'
+url: /2018/02/05/lanzamientos-de-moneda-no-es-azar-sino-fisica/
 ---
 
 Lo dicen Diaconis y sus coautores en [_Dynamical Bias in the Coin Toss_](https://www.stat.berkeley.edu/users/aldous/157/Papers/diaconis_coinbias.pdf).

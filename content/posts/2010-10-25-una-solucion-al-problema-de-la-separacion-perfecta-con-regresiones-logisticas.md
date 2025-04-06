@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-10-25 22:56:39+00:00
-draft: false
-title: Una solución al problema de la separación perfecta con regresiones logísticas
-
-url: /2010/10/25/una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas/
 categories:
 - estadística
 - r
+date: 2010-10-25 22:56:39+00:00
+draft: false
+lastmod: '2025-04-06T18:58:22.868188'
+related:
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - estadística
 - r
+title: Una solución al problema de la separación perfecta con regresiones logísticas
+url: /2010/10/25/una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas/
 ---
 
 Cuando el otro día planteé al mis lectores el problema de [cómo representar de manera efectiva un conjunto de datos pequeños](http://www.datanalytics.com/2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/), no lo hice de manera enteramente ociosa. Eran datos reales de un cliente que tropezó con el llamado problema de la separación perfecta al intentar aplicar una regresión logística.

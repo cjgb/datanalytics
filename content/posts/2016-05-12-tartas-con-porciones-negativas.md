@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-12 08:13:58+00:00
-draft: false
-title: Tartas con porciones negativas
-
-url: /2016/05/12/tartas-con-porciones-negativas/
 categories:
 - gráficos
+date: 2016-05-12 08:13:58+00:00
+draft: false
+lastmod: '2025-04-06T18:57:07.047718'
+related:
+- 2012-04-20-graficaca-en-el-recibo-de-la-luz-y-por-imperativo-legal-para-mas-inri.md
+- 2022-04-12-graficaca-ree.md
+- 2015-06-26-extraido-de-un-libro-de-educacion-primaria.md
+- 2014-03-31-graficaca-en-gas-natural-fenosa.md
+- 2012-03-01-como-poner-una-lavadora.md
 tags:
 - gráficos
 - tartas
 - graficaca
+title: Tartas con porciones negativas
+url: /2016/05/12/tartas-con-porciones-negativas/
 ---
 
 Aunque te pueda costar imaginarlas, existen:

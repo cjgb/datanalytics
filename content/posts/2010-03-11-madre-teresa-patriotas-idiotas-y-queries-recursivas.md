@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-11 20:00:14+00:00
-draft: false
-title: Madre Teresa, patriotas, idiotas... y queries recursivas
-
-url: /2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/
 categories:
 - programación
+date: 2010-03-11 20:00:14+00:00
+draft: false
+lastmod: '2025-04-06T19:10:02.789439'
+related:
+- 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2011-12-09-bajo-el-capo-de-teradatar.md
+- 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
 tags:
 - sql
 - programación
+title: Madre Teresa, patriotas, idiotas... y queries recursivas
+url: /2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/
 ---
 
 No es éste foro para opinar sobre si nos interesa la Madre Teresa o si los patriotas son idiotas, pero sí para mostrar nuestro desacuerdo con la [canción](http://www.youtube.com/watch?v=f2gtfJQ7YK0) (por abreviar, acá está [su letra](http://www.coveralia.com/letras/cara-al-culo-la-polla-records.php)) y dejar claro que las jerarquías no son una porquería. Si no que se lo digan a un indirecto cliente mío que consume lo que no nos devuelve a los accionistas como dividendo en pagar hordas de consultores poco avisados de lo que acá cuento. Y lo cuento y dejo públicamente escrito para que tengan todavía menos excusa.

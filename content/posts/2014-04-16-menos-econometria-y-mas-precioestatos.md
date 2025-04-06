@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-16 07:39:14+00:00
-draft: false
-title: Menos econometría y más precioestatos
-
-url: /2014/04/16/menos-econometria-y-mas-precioestatos/
 categories:
 - finanzas
 - números
+date: 2014-04-16 07:39:14+00:00
+draft: false
+lastmod: '2025-04-06T18:52:44.862405'
+related:
+- 2012-03-01-como-poner-una-lavadora.md
+- 2024-03-14-precio-medio-diario-electricidad.md
+- 2013-11-20-la-monitorizacion-del-consumo-electrico-de-los-hogares.md
+- 2019-12-10-electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos.md
+- 2022-11-08-que-hora-deberia-ser.md
 tags:
 - econometría
 - electricidad
 - finanzas
 - precioestato
+title: Menos econometría y más precioestatos
+url: /2014/04/16/menos-econometria-y-mas-precioestatos/
 ---
 
 ¿Será necesario un doctorado en econometría para poner una lavadora? Con eso ironiza el autor de [_El nuevo sistema de precios para la electricidad (I): Entre la tarifa gusiluz y la tarifa batamanta_](http://www.fedeablogs.net/economia/?p=35419).

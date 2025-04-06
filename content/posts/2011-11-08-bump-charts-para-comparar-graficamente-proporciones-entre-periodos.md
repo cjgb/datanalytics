@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-11-08 06:56:14+00:00
-draft: false
-title: '"Bump charts" para comparar gráficamente proporciones entre periodos'
-
-url: /2011/11/08/bump-charts-para-comparar-graficamente-proporciones-entre-periodos/
 categories:
 - gráficos
+date: 2011-11-08 06:56:14+00:00
+draft: false
+lastmod: '2025-04-06T19:00:44.461623'
+related:
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
+- 2012-04-23-graficos-dinamita-desaconsejados.md
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
 tags:
 - bump charts
 - graficaca
 - gráficos
+title: '"Bump charts" para comparar gráficamente proporciones entre periodos'
+url: /2011/11/08/bump-charts-para-comparar-graficamente-proporciones-entre-periodos/
 ---
 
 Hojeaba el otro día en [informe Reporta 2011](http://informereporta.es/), que evalúa la calidad de la información que sobre su actividad publican las empresas cotizadas en las bolsas españolas. Y aunque haya que valorar la intención de los autores, resultan tan manifiestas ciertas carencias analíticas que mal servicio les haría de no afeárselas desde mi bitácora. Que conste que no me refiero a errores de fondo, materia en la que no entro, sino a los mecanismos para tratar y presentar resultados numéricos a la hora de armar el informe.

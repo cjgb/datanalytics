@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-23 07:25:13+00:00
-draft: false
-title: Patrones hexagonales con R
-
-url: /2012/05/23/patrones-hexagonales-con-r/
 categories:
 - r
+date: 2012-05-23 07:25:13+00:00
+draft: false
+lastmod: '2025-04-06T19:09:06.668666'
+related:
+- 2013-10-28-contando-hexagonos-en-paralelo.md
+- 2011-08-29-2570.md
+- 2014-05-12-grid-scala-y-arbolitos.md
+- 2016-05-27-coordenadas-polares-por-doquier.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
 tags:
 - gráficos
 - r
 - hexágonos
+title: Patrones hexagonales con R
+url: /2012/05/23/patrones-hexagonales-con-r/
 ---
 
 Navegando por internet di con el gráfico

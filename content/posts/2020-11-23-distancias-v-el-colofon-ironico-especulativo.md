@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-23 09:13:00+00:00
-draft: false
-title: 'Distancias (V): el colofón irónico-especulativo'
-
-url: /2020/11/23/distancias-v-el-colofon-ironico-especulativo/
 categories:
 - ciencia de datos
 - consultoría
 - estadística
+date: 2020-11-23 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:50:13.660421'
+related:
+- 2020-11-02-distancias-i-el-planteamiento-del-problema.md
+- 2020-11-06-distancias-iii-la-gran-pregunta.md
+- 2020-11-20-distancias-iv-la-solucion-rapida-y-sucia.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - ciencia de datos
 - consultoría
 - distancia
 - estadística
+title: 'Distancias (V): el colofón irónico-especulativo'
+url: /2020/11/23/distancias-v-el-colofon-ironico-especulativo/
 ---
 
 Remato la serie sobre distancias con una entrega especulativa. Según se la mire, o bien nunca se ha hecho esa cosa o bien nunca ha dejado de hacerse.

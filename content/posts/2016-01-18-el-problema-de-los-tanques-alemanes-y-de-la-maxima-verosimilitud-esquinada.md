@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-18 08:13:11+00:00
-draft: false
-title: El problema de los tanques alemanes y de la máxima verosimilitud esquinada
-
-url: /2016/01/18/el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada/
 categories:
 - probabilidad
+date: 2016-01-18 08:13:11+00:00
+draft: false
+lastmod: '2025-04-06T18:44:25.460124'
+related:
+- 2012-09-21-las-dos-preguntas-fundamentales-de-la-teoria-de-los-valores-extremos.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2017-12-19-sobre-el-problema-de-las-martingalas-cuantos-sabiais-la-respuesta.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
 tags:
 - estadística bayesiana
 - probabilidad
 - verosimilitud
+title: El problema de los tanques alemanes y de la máxima verosimilitud esquinada
+url: /2016/01/18/el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada/
 ---
 
 El problema en cuestión, que se ve, surgió durante la II Guerra Mundial, es el siguiente: se capturan tanques del enemigo y se anotan los números de serie, supuestos sucesivos. ¿Cuál es la mejor estimación del número total de tanques fabricados por el enemigo?

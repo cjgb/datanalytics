@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-12-29 06:51:03+00:00
-draft: false
-title: Gráficos de pares de variables mejorados (con R)
-
-url: /2011/12/29/graficos-de-pares-de-variables-mejorados-con-r/
 categories:
 - gráficos
 - r
+date: 2011-12-29 06:51:03+00:00
+draft: false
+lastmod: '2025-04-06T18:56:36.143076'
+related:
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2010-09-16-representando-graficamente-conjuntos-de-datos-pequenos.md
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
+- 2010-06-28-graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin.md
+- 2012-07-02-graficos-estadisticos-y-mapas-con-r.md
 tags:
 - gráficos
 - r
 - paquetes
+title: Gráficos de pares de variables mejorados (con R)
+url: /2011/12/29/graficos-de-pares-de-variables-mejorados-con-r/
 ---
 
 Un gráfico de _pares_ de variables —que no he sabido traducir mejor desde el original inglés _pairplot_— es algo como lo siguiente:

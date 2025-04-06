@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-03-30 09:13:00+00:00
-draft: false
-title: Sobre rectángulos largos y estrechos
-
-url: /2021/03/30/sobre-rectangulos-largos-y-estrechos/
 categories:
 - varios
+date: 2021-03-30 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:04:58.446613'
+related:
+- 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2024-12-26-cortos-stats.md
+- 2011-09-28-datos-grandes-colas-largas.md
+- 2023-02-28-curvas-crecientes-o-no.md
 tags:
 - ética
 - visualización
 - conclusión repugnante
 - utilitarismo
 - rectángulos
+title: Sobre rectángulos largos y estrechos
+url: /2021/03/30/sobre-rectangulos-largos-y-estrechos/
 ---
 
 Una de las notas que tenía de la lectura del [libro de visualización de datos de Healy](https://www.datanalytics.com/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/) se refería a los problemas de comparación que crean los rectángulos largos y estrechos. Es decir, cuando el tamaño de ciertas variables se codifica usando el área de rectángulos con dimensiones muy desiguales.

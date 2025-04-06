@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-05-14 07:29:52+00:00
-draft: false
-title: La media, la mediana y el Bundesbank
-
-url: /2013/05/14/la-media-la-mediana-y-el-bundesbank/
 categories:
 - números
+date: 2013-05-14 07:29:52+00:00
+draft: false
+lastmod: '2025-04-06T19:04:56.192276'
+related:
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2019-03-14-lo-que-las-diferencias-de-medias-evocan.md
+- 2011-11-03-2872.md
+- 2012-06-12-por-que-me-quejo-del-banco-de-espana.md
 tags:
 - estadística pública
 - media
 - mediana
+title: La media, la mediana y el Bundesbank
+url: /2013/05/14/la-media-la-mediana-y-el-bundesbank/
 ---
 
 El Banco Central Europeo publicó un [estudio sobre la riqueza de los hogares europeos](http://www.ecb.int/home/html/researcher_hfcn.en.html) en abril de 2013. A partir de él, el Bundesbank publicó otro informe que subrayaba las diferencias en riqueza entre los hogares alemanes y, supongo que entre otros, los españoles.

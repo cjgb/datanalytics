@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-16 09:13:00+00:00
-draft: false
-title: ¿Qué números admiten la distribución de Benford?
-
-url: /2020/11/16/que-numeros-admiten-la-distribucion-de-benford/
 categories:
 - estadística
 - probabilidad
+date: 2020-11-16 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:12:02.310965'
+related:
+- 2011-09-15-la-ley-de-benford.md
+- 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md
+- 2013-04-16-mas-sobre-la-ley-de-benford-i-una-condicion-suficiente.md
+- 2013-05-03-mas-sobre-la-ley-de-benford-ii-la-distribucion-de-la-parte-fraccionaria.md
+- 2013-04-02-las-leyes-de-benford.md
 tags:
 - ley de benford
 - logaritmo
+title: ¿Qué números admiten la distribución de Benford?
+url: /2020/11/16/que-numeros-admiten-la-distribucion-de-benford/
 ---
 
 _[Esta entrada es casi una caracterización de lo que promete el título. Quitarle el casi sería prolijo. Pero creo que casi, casi, se adivina de lo que sigue.]_

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-07-21 07:13:19+00:00
-draft: false
-title: 'MadData: datatón de datos abiertos'
-
-url: /2014/07/21/maddata-dataton-de-datos-abiertos/
 categories:
 - cursos
 - gráficos
+date: 2014-07-21 07:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:04:15.933298'
+related:
+- 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
+- 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md
+- 2015-01-29-hackaton-de-datos-abiertos-21-de-febrero-en-madrid.md
+- 2012-07-18-conferencia-sobre-grandes-datos.md
+- 2014-07-23-si-participase-en-maddata.md
 tags:
 - big data
 - datatón
 - datos abiertos
 - datos públicos
 - madrid
+title: 'MadData: datatón de datos abiertos'
+url: /2014/07/21/maddata-dataton-de-datos-abiertos/
 ---
 
 Copio (adaptándolo) de [aquí](http://medialab-prado.es/article/maddata):

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-06-30 08:13:19+00:00
-draft: false
-title: ¿Una perspectiva económica del lenguaje?
-
-url: /2017/06/30/una-perspectiva-economica-del-lenguaje/
 categories:
 - varios
+date: 2017-06-30 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:03:31.627588'
+related:
+- 2017-10-06-una-comparacion-de-lenguajes-de-programacion-en-una-esquinita-pequena-de-la-economia.md
+- 2022-07-28-temas-nadaesgratis.md
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2017-11-14-advertencias-sobre-el-uso-de-los-n-gramas-de-google.md
+- 2011-09-27-sobre-la-economia-del-lenguaje.md
 tags:
 - economía
 - lenguaje
+title: ¿Una perspectiva económica del lenguaje?
+url: /2017/06/30/una-perspectiva-economica-del-lenguaje/
 ---
 
 La gente cuyo campo de interés es el lenguaje lo ha hecho tradicionalmente de manera discursiva (blablablá, diríase), donde casi todo vale con tal de que esté escrito con un poco de gracia. Solo recientemente (hablamos de unas pocas décadas) han comenzado a usar herramientas computacionales.

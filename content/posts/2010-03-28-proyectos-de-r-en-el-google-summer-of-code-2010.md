@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-03-28 14:09:18+00:00
-draft: false
-title: Proyectos de R en el Google Summer of Code 2010
-
-url: /2010/03/28/proyectos-de-r-en-el-google-summer-of-code-2010/
 categories:
 - r
+date: 2010-03-28 14:09:18+00:00
+draft: false
+lastmod: '2025-04-06T18:44:35.663325'
+related:
+- 2010-09-29-proyectos-de-r-en-el-google-summer-of-code-2010-ii.md
+- 2017-10-11-ropenspain-ahi-tiro-el-guante.md
+- 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2011-07-28-el-paquete-pxr-en-cran.md
 tags:
 - r
+title: Proyectos de R en el Google Summer of Code 2010
+url: /2010/03/28/proyectos-de-r-en-el-google-summer-of-code-2010/
 ---
 
 El [Google Summer of Code](http://code.google.com/soc/) es una iniciativa de Google por la cual la empresa otorga becas a estudiantes para que estos colaboren en determinados proyectos de código abierto. Y las becas no son _moco de pavo_: [cada estudiante aceptado recibiría 5000 dólares](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#administrivia) de Google.

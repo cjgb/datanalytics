@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-12-21
-draft: false
-title: Casi todo sobre el ACOS
-url: /2023/12/21/todo-sobre-acos/
 categories:
 - ciencia de datos
+date: 2023-12-21
+draft: false
+lastmod: '2025-04-06T18:51:49.831408'
+related:
+- 2023-11-21-sumas-lognormales.md
+- 2014-10-23-la-aspiradora-acosadora.md
+- 2024-02-15-margenes-distribucion.md
+- 2022-11-17-igualdad-oportunidades.md
+- 2018-10-05-licitaciones-por-insaculacion-ponderada.md
 tags:
 - amazon
 - acos
 - subastas
 - internet
+title: Casi todo sobre el ACOS
+url: /2023/12/21/todo-sobre-acos/
 ---
 
 Alguien vende cachivaches en internet por, p.e., Amazon. El cachivache se vende, digamos, por 10 y Amazon se queda, por ejemplo, con 1. Se ha dado en llamar ACOS a la fracción 1 / 10; de otra manera, al cacho que Amazon se queda de cada compra.

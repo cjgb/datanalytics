@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-03-21 08:13:41+00:00
-draft: false
-title: 'Encuesta de Estructura Salarial y R: propedéutica'
-
-url: /2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/
 categories:
 - estadística
 - r
+date: 2019-03-21 08:13:41+00:00
+draft: false
+lastmod: '2025-04-06T19:00:57.649637'
+related:
+- 2015-03-09-unas-preguntas-incomodas.md
+- 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
+- 2013-01-14-algunos-resultados-de-la-encuesta-trimestral-de-coste-laboral.md
+- 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 tags:
 - ees
 - encuestas
@@ -15,6 +19,8 @@ tags:
 - microdatos
 - microdatoses
 - salarios
+title: 'Encuesta de Estructura Salarial y R: propedéutica'
+url: /2019/03/21/encuesta-de-estructura-salarial-y-r-propedeutica/
 ---
 
 La [nota de prensa que acompaña a los resultados definitivos de la EES de 2014](https://www.ine.es/prensa/np996.pdf) reza:
@@ -69,6 +75,3 @@ si uno osa aventurarse en los procelosísismos corolarios de
 >El salario medio anual de las mujeres fue de 19.744,82 euros, con un crecimiento del 1,2% respecto a 2013. El de los hombres fue de 25.727,24 euros, con un aumento del 0,2.
 
 **Coda:** Casi se me olvida comentar que he probado sin éxito el diletantísimo código en R con el que ahora acompaña el INE a los microdatos de la EES. [`MicroDatosEs`](https://cran.r-project.org/web/packages/MicroDatosEs/index.html)funciona mejor (y, al menos, funciona). Y me reservo la opinión sobre quienes reinventan la rueda a mi costa.
-
-
-

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-18 22:11:00+00:00
-draft: false
-title: k-vecinos + lmer
-
-url: /2020/03/19/k-vecinos-lmer/
 categories:
 - estadística
 - r
+date: 2020-03-18 22:11:00+00:00
+draft: false
+lastmod: '2025-04-06T18:59:16.060649'
+related:
+- 2020-03-16-interacciones-y-seleccion-de-modelos.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2019-09-16-un-modelo-que-alimenta-una-simulacion.md
+- 2020-03-18-lme4-simulate.md
+- 2024-11-12-cortos-stats.md
 tags:
 - interacciones
 - k-vecinos
 - lme4
 - predicción
+title: k-vecinos + lmer
+url: /2020/03/19/k-vecinos-lmer/
 ---
 
 El de los k-vecinos es uno de mis métodos favoritos de modelización. Al menos, teóricamente: luego, en la práctica, es complicado construir una función de distancias decente. Pero tiene la ventaja indiscutible de ser tremendamente local: las predicciones para una observación concreta dependen únicamente de su entorno.

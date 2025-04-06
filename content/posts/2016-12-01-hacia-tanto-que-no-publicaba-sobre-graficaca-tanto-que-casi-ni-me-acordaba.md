@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-12-01 08:13:33+00:00
-draft: false
-title: Hacía tanto que no publicaba sobre graficaca, tanto, que casi ni me acordaba
-
-url: /2016/12/01/hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-me-acordaba/
 categories:
 - gráficos
+date: 2016-12-01 08:13:33+00:00
+draft: false
+lastmod: '2025-04-06T19:12:55.416976'
+related:
+- 2011-04-12-c2a1que-prensa-tan-mala.md
+- 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md
+- 2016-03-10-hoy-que-me-he-puesto-traje-y-corbata.md
+- 2013-08-22-el-carajal-de-las-representaciones-graficas-de-redes-sociales.md
+- 2014-03-31-graficaca-en-gas-natural-fenosa.md
 tags:
 - graficaca
 - prensa
+title: Hacía tanto que no publicaba sobre graficaca, tanto, que casi ni me acordaba
+url: /2016/12/01/hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-me-acordaba/
 ---
 
 Hasta que, zas,

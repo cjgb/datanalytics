@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-18 09:13:00+00:00
-draft: false
-title: ¿Cómo pensar en la probabilidad de un evento?
-
-url: /2020/05/18/como-pensar-en-la-probabilidad-de-un-evento/
 categories:
 - probabilidad
+date: 2020-05-18 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:09:47.070596'
+related:
+- 2022-04-26-redefinicion-probabilidades-subjetivas.md
+- 2023-04-04-kant-probabilidad-apuestas.md
+- 2011-04-27-incertidumbre-juicios-y-sesgos.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - libros
 - probabilidad
 - savage
 - fundamentos de probabilidad
+title: ¿Cómo pensar en la probabilidad de un evento?
+url: /2020/05/18/como-pensar-en-la-probabilidad-de-un-evento/
 ---
 
 _[Esta entrada lo es, además de por su propio mérito, en preparación de la que habrá de ocurrir mañana o pasado.]_

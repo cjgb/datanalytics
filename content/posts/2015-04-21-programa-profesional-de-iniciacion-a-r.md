@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-21 08:13:04+00:00
-draft: false
-title: Programa Profesional de Iniciación a R
-
-url: /2015/04/21/programa-profesional-de-iniciacion-a-r/
 categories:
 - cursos
 - r
+date: 2015-04-21 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T18:54:23.732105'
+related:
+- 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md
+- 2016-04-13-quieres-aprender-r-matriculate-en-mi-curso-en-kschool.md
+- 2012-06-11-hoy-ha-comenzado-el-curso-basico-de-r.md
+- 2015-02-16-curso-de-presencial-y-gratuito-en-madrid-mio-para-mas-senas.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 tags:
 - anuncio
 - cursos
 - kschool
 - r
+title: Programa Profesional de Iniciación a R
+url: /2015/04/21/programa-profesional-de-iniciacion-a-r/
 ---
 
 Del 9 de junio al 9 de julio impartiré un [curso de iniciación a R](http://kschool.com/cursos/programa-profesional-de-iniciacion-r/).

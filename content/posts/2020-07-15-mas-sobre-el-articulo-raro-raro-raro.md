@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-15 09:13:00+00:00
-draft: false
-title: Más sobre el artículo raro, raro, raro
-
-url: /2020/07/15/mas-sobre-el-articulo-raro-raro-raro/
 categories:
 - artículos
 - mala ciencia
+date: 2020-07-15 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:12:28.754493'
+related:
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
+- 2016-01-04-las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas.md
+- 2024-07-03-cortos-stats.md
+- 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - artículos
 - estadística bayesiana
 - priori
 - sicología
 - mala ciencia
+title: Más sobre el artículo raro, raro, raro
+url: /2020/07/15/mas-sobre-el-articulo-raro-raro-raro/
 ---
 
 No he podido evitar darle vueltas al artículo que comenté el otro día [aquí](https://www.datanalytics.com/2020/07/06/un-articulo-muy-raro-raro-raro/), _[Bayesian Estimation with Informative Priors is Indistinguishable from Data Falsification](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FFAB96BDC5EE3C64B144ECF8F90F31E9/S1138741619000416a.pdf/bayesian_estimation_with_informative_priors_is_indistinguishable_from_data_falsification.pdf)_, de la manera más caritativa posible. En particular, me he preguntado:

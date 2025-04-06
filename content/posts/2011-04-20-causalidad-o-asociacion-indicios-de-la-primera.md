@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-20 07:44:02+00:00
-draft: false
-title: 'Causalidad o asociación: indicios de la primera'
-
-url: /2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/
 categories:
 - estadística
 - causalidad
+date: 2011-04-20 07:44:02+00:00
+draft: false
+lastmod: '2025-04-06T18:57:21.645226'
+related:
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2022-03-30-nuevo-video-en-youtube-causalidad-carlos-madrid.md
+- 2025-03-11-cortos-causalidad.md
+- 2022-05-05-individualismo-metodologico.md
+- 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
 tags:
 - estadística
 - causalidad
 - correlación
+title: 'Causalidad o asociación: indicios de la primera'
+url: /2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/
 ---
 
 Distinguir adecuadamente causalidad de asociación es un tema sobre el que se han vertido ríos de tinta. Parte de la formación de un estadístico consiste en reconfigurar su arquitectura neuronal de manera que sienta infinito recelo ante proclamas de causalidad de una manera tan instintiva como la del perro de Paulov.
@@ -32,4 +38,3 @@ Las enumero en el mismo orden de importancia que Hill:
 7. La **coherencia**: ¿está alineada la presunta relación de causalidad con lo que se conoce de la causa y su efecto?
 8. La **experimentación**: ¿es posible recurrir a evidencia (semi)experimental de una manera más o menos informal? ¿Puede realizarse un micro-experimento?
 9. La **analogía**: si se sabe que A causa B y C es muy similar a A podría suponerse que la relación aparente entre C y B pudiera encerrar un elemento de causalidad.
-

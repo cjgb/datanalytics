@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-22 08:13:25+00:00
-draft: false
-title: Cartogramas vs huertogramas
-
-url: /2015/05/22/cartogramas-vs-huertogramas/
 categories:
 - estadística
 - gráficos
+date: 2015-05-22 08:13:25+00:00
+draft: false
+lastmod: '2025-04-06T18:58:53.236989'
+related:
+- 2019-05-06-elecciones-mapas-y-mi-favorito.md
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2022-10-20-graficaca-densidad-poblacion.md
+- 2011-04-19-graficos-v-mapas.md
+- 2019-07-15-cartogramas-con-recmap.md
 tags:
 - cartodb
 - cartogramas
 - graficaca
 - mapas
+title: Cartogramas vs huertogramas
+url: /2015/05/22/cartogramas-vs-huertogramas/
 ---
 
 Esto es un huertograma:

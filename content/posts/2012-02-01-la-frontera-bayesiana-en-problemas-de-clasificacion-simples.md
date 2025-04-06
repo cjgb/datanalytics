@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-02-01 00:32:20+00:00
-draft: false
-title: La frontera bayesiana en problemas de clasificación (simples)
-
-url: /2012/02/01/la-frontera-bayesiana-en-problemas-de-clasificacion-simples/
 categories:
 - estadística
 - probabilidad
 - r
+date: 2012-02-01 00:32:20+00:00
+draft: false
+lastmod: '2025-04-06T18:50:56.258797'
+related:
+- 2016-07-06-glms-con-prioris-casi-a-voluntad.md
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2015-04-27-intervalos-de-credibilidad-para-la-distribucion-beta.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2018-03-01-kriging-con-stan.md
 tags:
 - estadística
 - estadística bayesiana
 - probabilidad
 - r
+title: La frontera bayesiana en problemas de clasificación (simples)
+url: /2012/02/01/la-frontera-bayesiana-en-problemas-de-clasificacion-simples/
 ---
 
 Una de las preguntas formuladas dentro del foro desde el que seguimos la lectura del libro _The Elements of Statistsical Learning_ se refiere a cómo [construir la frontera bayesiana óptima](http://esl.ubidata.org/preguntas/18/optimal-bayes-decision-boundary) en ciertos problemas de clasificación.

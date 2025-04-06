@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-05-04 09:13:00+00:00
-draft: false
-title: Más sobre si la estadística es una ciencia
-
-url: /2021/05/04/mas-sobre-si-la-estadistica-es-una-ciencia/
 categories:
 - estadística
+date: 2021-05-04 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:10:08.004550'
+related:
+- 2017-10-09-la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia.md
+- 2017-04-04-llego-llego-el-tiempo-de-la-ingenieria-estadistica.md
+- 2015-11-30-estadistica-cualitativa.md
+- 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
+- 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 tags:
 - ciencia
 - estadística
 - tecnología
 - filosofía de la ciencia
+title: Más sobre si la estadística es una ciencia
+url: /2021/05/04/mas-sobre-si-la-estadistica-es-una-ciencia/
 ---
 
 A veces nos encontramos con problemas como:

@@ -1,17 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-04-11
-title: 'El impacto de la contaminación de los diésel: dos perspectivas sobre el "Volkswagen affaire"'
-
-url: /2023/04/11/volkswagen-affaire-contaminacion/
 categories:
 - números
+date: 2023-04-11
+lastmod: '2025-04-06T18:59:57.168738'
+related:
+- 2019-10-18-el-modelo-son-las-conclusiones.md
+- 2017-11-20-la-funcion-de-perdida-es-una-api-entre-los-stakeholders-de-un-analisis-estadistico.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md
 tags:
 - mala ciencia
 - artículos
 - volkswagen
 - diesel
 - contaminación
+title: 'El impacto de la contaminación de los diésel: dos perspectivas sobre el "Volkswagen
+  affaire"'
+url: /2023/04/11/volkswagen-affaire-contaminacion/
 ---
 
 Creo que todo el mundo sabe a qué me refiero con lo del _affaire Volkswagen_: en 2015 se supo que algunos modelos de ese fabricante contaban con dispositivos que cambiaban el régimen del motor precisamente cuando se realizaban pruebas y medidas de emisiones ---la ITV, para entendernos--- y las restablecían a sus valores originales al terminarse estas.

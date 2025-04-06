@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-17 11:40:51+00:00
-draft: false
-title: Vivimos en un mundo opaco e interconectado
-
-url: /2017/01/17/vivimos-en-un-mundo-opaco-e-interconectado/
 categories:
 - r
 - mala ciencia
+date: 2017-01-17 11:40:51+00:00
+draft: false
+lastmod: '2025-04-06T19:06:18.532030'
+related:
+- 2018-09-19-ocurrencias-cuotas-de-gente-de-letras-en-la-ciencia-de-datos.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
+- 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
+- 2019-01-25-cerebros-hackeados.md
 tags:
 - ciencia
 - r
 - stan
 - mala ciencia
+title: Vivimos en un mundo opaco e interconectado
+url: /2017/01/17/vivimos-en-un-mundo-opaco-e-interconectado/
 ---
 
 Vivimos en un mundo opaco: como en los cuentecillos de Asimov, somos usuarios de tecnologías que ni conocemos ni controlamos. Parametrizamos nuestras máquinas y las echamos a correr. Poco más podemos hacer que fiarnos de quienes nos las proporcionan.

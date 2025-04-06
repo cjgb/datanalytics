@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-10-20
-title: "¡Cuidado con las discontinuidades (subrepticias o no) en las escalas de color!"
-
-url: /2022/10/20/graficaca-densidad-poblacion/
 categories:
 - gráficos
+date: 2022-10-20
+lastmod: '2025-04-06T18:49:52.701171'
+related:
+- 2017-05-12-me-too-me-too.md
+- 2013-03-19-mapas-realmente-necesarios.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
+- 2019-05-06-elecciones-mapas-y-mi-favorito.md
+- 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
 tags:
 - graficaca
 - mapas
 - demografía
+title: ¡Cuidado con las discontinuidades (subrepticias o no) en las escalas de color!
+url: /2022/10/20/graficaca-densidad-poblacion/
 ---
 
 El tema de hoy es el mapa

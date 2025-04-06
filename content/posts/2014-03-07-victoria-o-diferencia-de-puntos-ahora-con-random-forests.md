@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-07 07:35:05+00:00
-draft: false
-title: Victoria o diferencia de puntos, ahora con "random forests"
-
-url: /2014/03/07/victoria-o-diferencia-de-puntos-ahora-con-random-forests/
 categories:
 - estadística
 - r
+date: 2014-03-07 07:35:05+00:00
+draft: false
+lastmod: '2025-04-06T19:09:07.368230'
+related:
+- 2014-03-04-victoria-o-diferencia-de-puntos-lm-o-glm.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2010-06-16-algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests.md
+- 2024-09-12-cortos-stats.md
 tags:
 - estadística
 - ciencia de datos
 - predicción
 - r
 - random forests
+title: Victoria o diferencia de puntos, ahora con "random forests"
+url: /2014/03/07/victoria-o-diferencia-de-puntos-ahora-con-random-forests/
 ---
 
 Después de hablar con tirios y troyanos sobre mi [entrada sobre los efectos de binarizar una variable objetivo continua](http://www.datanalytics.com/2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/), he decidido tomarme la justicia por mi mano y llamar a la caballería. Es decir, utilizar _random forests_.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-02-11 08:13:50+00:00
-draft: false
-title: Recurrencia recurrente
-
-url: /2015/02/11/recurrencia-recurrente/
 categories:
 - gráficos
 - r
+date: 2015-02-11 08:13:50+00:00
+draft: false
+lastmod: '2025-04-06T19:01:24.973804'
+related:
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2014-05-12-grid-scala-y-arbolitos.md
+- 2011-09-12-visualizacion-de-la-actualizacion-bayesiana-y-unas-cuantas-funciones-de-r.md
+- 2010-10-26-a-vueltas-con-los-fractales.md
+- 2011-08-29-2570.md
 tags:
 - gráficos
 - r
 - recursividad
+title: Recurrencia recurrente
+url: /2015/02/11/recurrencia-recurrente/
 ---
 
 Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imaginativa de [esto](https://aschinchon.wordpress.com/2015/02/10/mixing-waves/), es decir, el código. Él, y muchos diríamos que correctamente, autocritica el uso de `eval` + `parse` para plagar el `namespace` de funciones.

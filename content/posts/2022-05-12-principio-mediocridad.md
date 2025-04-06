@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-05-12
-title: 'El principio de mediocridad como instrumento para estimar duraciones'
-description: 'El principio de mediocridad como instrumento para estimar duraciones'
-url: /2022/05/12/causalidad-individualismo-metodologico/
 categories:
 - estadística
+date: 2022-05-12
+description: El principio de mediocridad como instrumento para estimar duraciones
+lastmod: '2025-04-06T18:57:51.545164'
+related:
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2015-02-12-parametrizacion-de-modelos-de-supervivencia-parametricos.md
+- 2019-07-03-modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia.md
+- 2012-07-27-a-los-datos-mismos.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
 tags:
 - supervivencia
 - probabilidad
 - principio de mediocridad
 - trucos
+title: El principio de mediocridad como instrumento para estimar duraciones
+url: /2022/05/12/causalidad-individualismo-metodologico/
 ---
 
 Esta entrada trata de explicar cómo utilizar el llamado principio de mediocridad para la estimación de la duración de _cosas_ cuando apenas se sabe nada al respecto. En ese sentido, extiende y fundamente lo que puede leerse

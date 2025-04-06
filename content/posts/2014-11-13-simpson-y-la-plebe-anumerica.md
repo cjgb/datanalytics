@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-13 07:13:19+00:00
-draft: false
-title: Simpson y la plebe anumérica
-
-url: /2014/11/13/simpson-y-la-plebe-anumerica/
 categories:
 - consultoría
 - estadística
 - probabilidad
+date: 2014-11-13 07:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:02:05.132598'
+related:
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2018-09-04-podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2024-05-02-falacia-ecologica.md
 tags:
 - consultoría
 - estadística
 - paradoja de simpson
 - probabilidad
+title: Simpson y la plebe anumérica
+url: /2014/11/13/simpson-y-la-plebe-anumerica/
 ---
 
 Supongamos que los habitantes de un país tienen una probabilidad determinada (y no necesariamente igual) $latex p_i$ de comprar un determinado producto. Supongamos que se lanza una campaña publicitaria que incrementa en una cantidad fija $latex \epsilon$, p.e., 5%, esa probabilidad.

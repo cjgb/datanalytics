@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-03-03 07:52:39+00:00
-draft: false
-title: El chocheo de los dioses
-
-url: /2014/03/03/el-chocheo-de-los-dioses/
 categories:
 - probabilidad
+date: 2014-03-03 07:52:39+00:00
+draft: false
+lastmod: '2025-04-06T18:48:59.635712'
+related:
+- 2011-07-15-nassim-taleb-y-el-problema-de-la-inferencia.md
+- 2022-01-20-peor-pagina-taleb.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
 tags:
 - probabilidad
 - taleb
+title: El chocheo de los dioses
+url: /2014/03/03/el-chocheo-de-los-dioses/
 ---
 
 Uno tiene —o tuvo— _dioses_. Sentir admiración por alguien (y su obra) tiene, lo admito, una dimensión infantil. Es también, por supuesto, una sobre simplificación de la realidad. Porque la verdad no la escriben cuatro plumas: las ideas valiosas emergen por doquier. Desafortunadamente, nadie tiene tiempo para filtrar el flujo diario de noticias, libros, conceptos. Así que creo que es excusable que, por simplificar, uno eleve personal y subjetivamente a una serie de individuos a la categoría de _dioses_, de encargados de filtrar la información. De alguna manera, se conviertan en oráculos personales que desentrañan la complejidad del día a día y se convierten en fuente de preguntas y acaso respuestas.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-11-30
-draft: false
-title: 'Aprendizaje por refuerzo: ¿Q o no Q?'
-
-url: /2023/11/30/reinforcement-learning-q/
 categories:
 - ciencia de datos
+date: 2023-11-30
+draft: false
+lastmod: '2025-04-06T19:13:15.338483'
+related:
+- 2022-07-26-hueco-termico.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2022-09-08-regresion-perdida-asimetrica.md
+- 2021-01-26-que-modelas-cuando-modelas.md
+- 2024-10-17-interpretacion-modelos.md
 tags:
 - aprendizaje por refuerzo
 - Q*
 - ciencia de datos
+title: 'Aprendizaje por refuerzo: ¿Q o no Q?'
+url: /2023/11/30/reinforcement-learning-q/
 ---
 
 Esta entrada está motivada por mis cavilaciones alrededor de un potencial futuro proyecto de Circiter. Es posible que por primera vez tengamos que recurrir a técnicas de aprendizaje por refuerzo y quiero aprovechar para dejar por escrito algunas cuestiones al respecto. En particular, algunas potenciales simplificaciones con respecto a la teoría general que, afortunadamente, aplicarían a nuestro caso particular.

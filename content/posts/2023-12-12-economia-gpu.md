@@ -1,16 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-12-12
-draft: false
-title: ¿Qué precio debería tener una hora de GPU?
-url: /2023/12/12/precio-hora-gpu/
 categories:
 - varios
+date: 2023-12-12
+draft: false
+lastmod: '2025-04-06T19:02:39.442511'
+related:
+- 2024-06-25-consumo-llms.md
+- 2025-01-21-cortos-llms.md
+- 2024-10-01-cortos-llms.md
+- 2024-03-21-cortos.md
+- 2025-02-04-cortos-llms.md
 tags:
 - gpu
 - llms
 - deep learning
 - hardware
+title: ¿Qué precio debería tener una hora de GPU?
+url: /2023/12/12/precio-hora-gpu/
 ---
 
 Advertencia previa: esta entrada está plusquamcondicionada por la fecha de publicación. Quien aterrice en ella meses o años después, habrá de saber que lo que sigue únicamente tiene, tirando por alto, interés paleontológico.

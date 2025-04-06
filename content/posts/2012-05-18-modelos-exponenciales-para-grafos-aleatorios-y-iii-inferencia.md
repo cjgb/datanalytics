@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-18 07:20:48+00:00
-draft: false
-title: 'Modelos exponenciales para grafos aleatorios (y III): inferencia'
-
-url: /2012/05/18/modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia/
 categories:
 - estadística
 - probabilidad
+date: 2012-05-18 07:20:48+00:00
+draft: false
+lastmod: '2025-04-06T18:48:18.591004'
+related:
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
+- 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
 tags:
 - estadística
 - probabilidad
 - redes sociales
 - regresión logística
+title: 'Modelos exponenciales para grafos aleatorios (y III): inferencia'
+url: /2012/05/18/modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia/
 ---
 
 Me quedé el otro día en el [modelo probabilístico](http://www.datanalytics.com/2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/) de los [grafos aleatorios exponenciales](http://www.datanalytics.com/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). Quedaba una última parte y al ensayar su redacción me di cuenta de que me había metido en un huerto: la cosa es mucho más vasta de lo que a primera vista parecía.

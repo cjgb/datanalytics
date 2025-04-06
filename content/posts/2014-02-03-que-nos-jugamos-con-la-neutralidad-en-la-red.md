@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-03 08:57:25+00:00
-draft: false
-title: ¿Qué nos jugamos con la neutralidad en la red?
-
-url: /2014/02/03/que-nos-jugamos-con-la-neutralidad-en-la-red/
 categories:
 - números
+date: 2014-02-03 08:57:25+00:00
+draft: false
+lastmod: '2025-04-06T18:56:54.155177'
+related:
+- 2024-05-14-neutralidad-red.md
+- 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md
+- 2017-11-28-neutralidad-de-la-red-importa.md
+- 2025-01-28-cortos-stats.md
+- 2012-03-28-contrafactualidad-radial.md
 tags:
 - internet
 - neutralidad en la red
 - números
+title: ¿Qué nos jugamos con la neutralidad en la red?
+url: /2014/02/03/que-nos-jugamos-con-la-neutralidad-en-la-red/
 ---
 
 El título de esta entrada es una pregunta en el sentido estricto del término: no sé qué nos estamos jugando con el anunciado fin de la neutralidad en la red y cómo podría modificar la manera en que consumimos y producimos información. Eso sí, he recopilado una serie de artículos de tirios y troyanos sobre el asunto.

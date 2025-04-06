@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-05-28 08:13:00+00:00
-draft: false
-title: Charla de José A. Guerrero
-
-url: /2015/05/28/charla-de-jose-a-guerrero/
 categories:
 - anuncio
 - ciencia de datos
+date: 2015-05-28 08:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:46:21.349219'
+related:
+- 2017-02-03-nueva-charla-antikaggle-contra-la-homeopatia-de-datos.md
+- 2015-05-04-charla-en-visualizar15.md
+- 2019-12-16-charla-en-el-codingclub-de-la-uc3m-este-martes.md
+- 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md
+- 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
 tags:
 - anuncio
 - charlas
 - kaggle
+title: Charla de José A. Guerrero
+url: /2015/05/28/charla-de-jose-a-guerrero/
 ---
 
 El 9 de julio de 2015, José A. Guerrero dará una charla con título "_Machine learning_ como nuevo deporte intelectual" y programa:

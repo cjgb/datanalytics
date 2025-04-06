@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-12 23:14:47+00:00
-draft: false
-title: Localidad, globalidad y maldición de la dimensionalidad
-
-url: /2012/01/13/localidad-globalidad-y-maldicion-de-la-dimensionalidad/
 categories:
 - ciencia de datos
 - estadística
+date: 2012-01-12 23:14:47+00:00
+draft: false
+lastmod: '2025-04-06T18:51:56.470212'
+related:
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2023-07-20-coeficientes-no-identificables.md
 tags:
 - esl
 - ciencia de datos
 - sesgo
 - varianza
+title: Localidad, globalidad y maldición de la dimensionalidad
+url: /2012/01/13/localidad-globalidad-y-maldicion-de-la-dimensionalidad/
 ---
 
 Escribo hoy al hilo de una pregunta de la lista de correo de quienes estamos leyendo _[The elements of statistical learning](http://www.datanalytics.com/2011/12/23/nos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/)_.

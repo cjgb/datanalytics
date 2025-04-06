@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-11-05 08:13:42+00:00
-draft: false
-title: Cultura viejuna y anumerismo
-
-url: /2015/11/05/cultura-viejuna-y-anumerismo/
 categories:
 - números
+date: 2015-11-05 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T18:45:27.693217'
+related:
+- 2017-01-16-weapons-of-math-destruction.md
+- 2012-10-30-cultura-numerica-incultura-numerica.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
+- 2014-04-23-demasiado-simple.md
 tags:
 - anumerismo
 - cultura
 - sumatorio
+title: Cultura viejuna y anumerismo
+url: /2015/11/05/cultura-viejuna-y-anumerismo/
 ---
 
 Intolerable.

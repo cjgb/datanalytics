@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-03-10 18:23:28+00:00
-draft: false
-title: Seguimiento de los nuevos casos diarios de coronavirus en «tiempo real» con
-  R
-
-url: /2020/03/10/seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r/
 categories:
 - r
+date: 2020-03-10 18:23:28+00:00
+draft: false
+lastmod: '2025-04-06T19:06:00.806152'
+related:
+- 2020-03-09-seguimiento-del-coronavirus-en-tiempo-real-con-r.md
+- 2020-03-19-casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2020-03-09-una-r-referencia-con-referencias-para-epidemiologos-circunstanciales.md
+- 2011-02-17-enredando-con-el-paquete-googlevis-de-r.md
 tags:
 - coronavirus
 - r
+title: Seguimiento de los nuevos casos diarios de coronavirus en «tiempo real» con
+  R
+url: /2020/03/10/seguimiento-de-los-nuevos-casos-diarios-de-coronavirus-en-tiempo-real-con-r/
 ---
 
 El código usado en
@@ -60,5 +66,3 @@ ggplot(res, aes(x = fecha, y = casos)) +
 ggsave("/tmp/new_daily_cases.png", width = 12,
     height = 8, units = "cm")
 {{< / highlight >}}
-
-

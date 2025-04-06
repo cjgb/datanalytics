@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-11-25 08:13:45+00:00
-draft: false
-title: Estereotipos y estadística
-
-url: /2016/11/25/estereotipos-y-estadistica/
 categories:
 - estadística
+date: 2016-11-25 08:13:45+00:00
+draft: false
+lastmod: '2025-04-06T19:07:42.204425'
+related:
+- 2017-07-10-estereotipos-y-estadistica-ii.md
+- 2023-10-03-muestreo-superricos.md
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
 tags:
 - estadística
 - estereotipos
 - priori
 - ética
+title: Estereotipos y estadística
+url: /2016/11/25/estereotipos-y-estadistica/
 ---
 
 El porcentaje de mosquitos que pueden transmitir enfermedades es pequeño, muy pequeño. Sin embargo, decimos mosquitos transmiten enfermedades sin empacho.

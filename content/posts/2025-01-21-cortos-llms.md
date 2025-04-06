@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2025-01-21
-title: 'Unas cuantas noticias sobre LLMs'
-url: /2025/01/21/cortos-llms
 categories:
 - cortos
+date: 2025-01-21
+lastmod: '2025-04-06T19:12:21.730666'
+related:
+- 2025-01-23-alia.md
+- 2025-02-04-cortos-llms.md
+- 2024-06-25-consumo-llms.md
+- 2024-03-21-cortos.md
+- 2024-10-01-cortos-llms.md
 tags:
 - llms
 - deepseek
 - chatgpt
+title: Unas cuantas noticias sobre LLMs
+url: /2025/01/21/cortos-llms
 ---
 
 GPT-4 se entrenó usando un clúster de 25k GPUs, Musk planea construir un centro de datos con 100k GPUs y Meta, uno de 350k. Sin embargo, parece que tecnologías emergentes como

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-14 06:57:21+00:00
-draft: false
-title: ¿Se puede predecir con Twitter?
-
-url: /2012/05/14/se-puede-predecir-con-twitter/
 categories:
 - consultoría
 - estadística
+date: 2012-05-14 06:57:21+00:00
+draft: false
+lastmod: '2025-04-06T19:04:51.243717'
+related:
+- 2023-10-03-muestreo-superricos.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
 tags:
 - consultoría
 - estadística
 - twitter
+title: ¿Se puede predecir con Twitter?
+url: /2012/05/14/se-puede-predecir-con-twitter/
 ---
 
 Tal y como quedaron establecidos hace 80 años los parámetros para determinar si una hipótesis es o no plausible —por no calificarla de significativa o, más malévolamente, publicable— sólo una de cada veinte lo serían.
@@ -28,4 +34,3 @@ En resumen:
 * Ni siquiera todo el mundo escribe sobre política (relevante a la hora de predecir elecciones) en su cuenta de Twitter.
 * No todo lo que aparece en Twitter es verdad: hay contenido generado por robots, cuentas falsas, etc. que puede sesgar los estudios.
 * Desentrañar el significado de un mensaje no es sencillo para una máquina cuando este está envuelto en sarcasmo, encierra juegos de palabras, etc.
-

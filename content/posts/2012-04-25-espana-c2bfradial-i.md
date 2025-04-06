@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-25 07:05:16+00:00
-draft: false
-title: España, ¿radial? (I)
-
-url: /2012/04/25/espana-radial-i/
 categories:
 - números
 - r
+date: 2012-04-25 07:05:16+00:00
+draft: false
+lastmod: '2025-04-06T18:54:36.779735'
+related:
+- 2012-04-26-espana-c2bfradial-ii.md
+- 2016-06-20-6602-767-km-alrededor-de-espana-para-visitar-todas-sus-capitales-de-provincia.md
+- 2012-04-16-rutas-por-zaragoza-con-r.md
+- 2012-03-14-c2a1mano-que-mapa.md
+- 2012-03-28-contrafactualidad-radial.md
 tags:
 - números
 - r
 - redes sociales
+title: España, ¿radial? (I)
+url: /2012/04/25/espana-radial-i/
 ---
 
 Me propuse hace un tiempo combinar lo que aprendí creando [rutas callejeras por Zaragoza](http://www.datanalytics.com/2012/04/16/rutas-por-zaragoza-con-r/) con una entrada que escribí sobre la [estructura radial de las vías de transporte de España](http://www.datanalytics.com/2012/03/28/contrafactualidad-radial/). El problema que me planteo es si tiene sentido que la red de carreteras Española tenga estructura radial habida cuenta de la geometría peninsular bajo ciertas hipótesis, siempre discutibles y mejorables, de partida.

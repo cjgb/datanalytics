@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-09 09:51:47+00:00
-draft: false
-title: Una propuesta de "crowdsourcing analítico"
-
-url: /2011/03/09/una-propuesta-de-crowdsourcing-analitico/
 categories:
 - consultoría
+date: 2011-03-09 09:51:47+00:00
+draft: false
+lastmod: '2025-04-06T19:07:27.806644'
+related:
+- 2010-10-03-c2bfpor-que-no-una-competicion.md
+- 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md
+- 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
+- 2011-06-20-ubidata-org-disponible-en-beta.md
+- 2011-06-06-la-tragedia-del-buen-rollito.md
 tags:
 - consultoría
+title: Una propuesta de "crowdsourcing analítico"
+url: /2011/03/09/una-propuesta-de-crowdsourcing-analitico/
 ---
 
 Pido excusas en primer lugar por usar la palabra _crowdsourcing_. No sé si tiene una traducción a este idioma con tan pocos valedores que trato de usar habitualmente. Creo que no. La causa, seguramente, es sociológica. Pero no es ése el tema que hoy me ocupa.

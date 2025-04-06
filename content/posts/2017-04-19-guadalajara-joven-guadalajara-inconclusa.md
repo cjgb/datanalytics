@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-19 08:13:24+00:00
-draft: false
-title: Guadalajara joven, Guadalajara inconclusa
-
-url: /2017/04/19/guadalajara-joven-guadalajara-inconclusa/
 categories:
 - gráficos
 - números
+date: 2017-04-19 08:13:24+00:00
+draft: false
+lastmod: '2025-04-06T18:53:57.523484'
+related:
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2017-03-29-evolucion-de-la-edad-media-de-la-poblacion-por-provincias.md
+- 2017-05-12-me-too-me-too.md
+- 2011-09-21-facetas-en-ggplot2-al-hilo-de-otra-gananada.md
 tags:
 - demografía
 - guadalajara
 - mapas
 - siane
+title: Guadalajara joven, Guadalajara inconclusa
+url: /2017/04/19/guadalajara-joven-guadalajara-inconclusa/
 ---
 
 Continuando con [mi serie sobre la Guadalajara demográfica](https://www.datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/),

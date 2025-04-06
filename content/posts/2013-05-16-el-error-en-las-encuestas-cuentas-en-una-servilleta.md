@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-05-16 07:31:52+00:00
-draft: false
-title: 'El error en las encuestas: cuentas en una servilleta'
-
-url: /2013/05/16/el-error-en-las-encuestas-cuentas-en-una-servilleta/
 categories:
 - estadística
+date: 2013-05-16 07:31:52+00:00
+draft: false
+lastmod: '2025-04-06T19:04:19.813391'
+related:
+- 2022-09-13-errores-cierto-tipo-encuestas.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 tags:
 - encuestas
 - estadística bayesiana
+title: 'El error en las encuestas: cuentas en una servilleta'
+url: /2013/05/16/el-error-en-las-encuestas-cuentas-en-una-servilleta/
 ---
 
 Bien escondidita en las encuestas que se publican, puede encontrarse a veces una ficha técnica. Y esta suele contener una frase de esta guisa: _Partiendo de los criterios del muestreo aleatorio simple, para un nivel de confianza del 95 % (que es el habitualmente adoptado) y en la hipótesis más desfavorable de máxima indeterminación (p=q=0.5), el margen de error de los datos referidos al total de la muestra es de 3.2 puntos._

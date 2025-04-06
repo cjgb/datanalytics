@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-10 08:13:51+00:00
-draft: false
-title: Restauración de ficheros .bak sin Windows
-
-url: /2015/04/10/restauracion-de-ficheros-bak-sin-windows/
 categories:
 - programación
+date: 2015-04-10 08:13:51+00:00
+draft: false
+lastmod: '2025-04-06T18:46:47.534343'
+related:
+- 2011-09-05-un-paseo-por-cloudnumbers.md
+- 2013-02-18-descarga-de-ficheros-con-r-a-traves-de-sftp.md
+- 2016-04-04-tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server.md
+- 2013-08-21-mis-copias-de-seguridad.md
+- 2016-04-01-redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server.md
 tags:
 - amazon
 - ec2
 - sql
 - sql server
+title: Restauración de ficheros .bak sin Windows
+url: /2015/04/10/restauracion-de-ficheros-bak-sin-windows/
 ---
 
 Tengo un fichero `.bak`. Un fichero `.bak` (el mío, al menos) es una copia de seguridad de SQL Server y no hay forma humana de acceder a sus contenidos sin otro SQL Server (que yo sepa). No me preguntéis de dónde lo he sacado. La cuestión es que contiene datos que tengo que leer.

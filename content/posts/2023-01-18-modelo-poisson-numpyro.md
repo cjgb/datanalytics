@@ -1,11 +1,15 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-01-18
-title: 'Una regresión de Poisson casi trivial con numpyro'
-
-url: /2023/01/18/regresion-poisson-numpyro/
 categories:
 - estadística
+date: 2023-01-18
+lastmod: '2025-04-06T18:47:02.420102'
+related:
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2023-01-24-funciones-enlace.md
 tags:
 - estadística
 - python
@@ -13,6 +17,8 @@ tags:
 - regresión de poisson
 - glms
 - splines
+title: Una regresión de Poisson casi trivial con numpyro
+url: /2023/01/18/regresion-poisson-numpyro/
 ---
 
 El otro día hubo, parece, cierto interés por modelar la siguiente serie histórica de datos:

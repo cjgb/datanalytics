@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-06-12 08:13:16+00:00
-draft: false
-title: 'La anticonferencia: una idea que me ronda la cabeza'
-
-url: /2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/
 categories:
 - anuncio
 - charlas
 - r
+date: 2017-06-12 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:08:50.739978'
+related:
+- 2017-10-11-ropenspain-ahi-tiro-el-guante.md
+- 2016-01-28-pydata-madrid-2016-en-abril-de-este-ano.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2016-03-04-quieres-presentar-algo-en-las-jornadas-de-usuarios-de-r.md
+- 2017-10-02-catastro-un-paquete-de-r-para-consultar-la-api-del-catastro.md
 tags:
 - anticonferencia
 - anuncio
@@ -17,6 +21,8 @@ tags:
 - httr
 - r
 - ropensci
+title: 'La anticonferencia: una idea que me ronda la cabeza'
+url: /2017/06/12/la-anticonferencia-una-idea-que-me-ronda-la-cabeza/
 ---
 
 La anticonferencia me ronda la cabeza.

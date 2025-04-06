@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-24 07:57:24+00:00
-draft: false
-title: Un (¿sutil?) error en el cálculo de probabilidades en El País
-
-url: /2012/09/24/un-sutil-error-en-el-calculo-de-probabilidades-en-el-pais/
 categories:
 - probabilidad
+date: 2012-09-24 07:57:24+00:00
+draft: false
+lastmod: '2025-04-06T18:46:06.037850'
+related:
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2012-04-30-contar-c2bffacil.md
+- 2017-01-18-va-de-si-hay-una-o-dos-lambdas.md
+- 2020-05-13-en-defensa-de-simon-variaciones-diarias-de-la-mortalidad.md
+- 2011-06-01-micromuertes.md
 tags:
 - percepción del riesgo
 - probabilidad
 - riesgo
 - prensa
+title: Un (¿sutil?) error en el cálculo de probabilidades en El País
+url: /2012/09/24/un-sutil-error-en-el-calculo-de-probabilidades-en-el-pais/
 ---
 
 [Leo en El País](http://economia.elpais.com/economia/2012/09/20/actualidad/1348166062_597975.html) que

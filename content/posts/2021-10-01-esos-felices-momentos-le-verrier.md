@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-10-01 09:13:00+00:00
-draft: false
-title: Esos felices "momentos Le Verrier"
-
-url: /2021/10/01/esos-felices-momentos-le-verrier/
 categories:
 - estadística
 - varios
+date: 2021-10-01 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:44:23.344827'
+related:
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2015-12-07-contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar.md
+- 2021-10-19-causalidad-inversa-mas-sobre-los-momentos-le-verrier.md
+- 2021-01-26-que-modelas-cuando-modelas.md
+- 2017-12-04-la-magnitud-de-la-sequia.md
 tags:
 - contaminación
 - estadística
 - predicción
 - temperaturas
 - le verrier
+title: Esos felices "momentos Le Verrier"
+url: /2021/10/01/esos-felices-momentos-le-verrier/
 ---
 
 Son muy infrecuentes, lo admito. Pero cuando ocurren, le dan a uno ganas de poner los pies encima la mesa y fumarse un puro.
@@ -25,6 +31,3 @@ Así que apartas la vista de la pantalla, te pones a pensar y se te ocurre: ¿y 
 Me (nos; era, de hecho, un trabajo de [Luz Frías](https://twitter.com/koldLight)) ocurrió hace tiempo con datos de la contaminación de Madrid (pensé que tenía una referencia al caso en el blog y, me temo, parece que no; y eso que es relevante: explica por qué todos los intentos _amateur_ de estimar los episodios de contaminación alta en Madrid están abocados al fracaso). Me (nos, de nuevo, en otro trabajo con Luz Frías otra vez) ocurrió recientemente con la lluvia al tratar de estimar la temperatura de ciertos dispositivos y sobre los que no puedo dar ---ni merece la pena que dé--- más detalles. Y no sé si alguna otra contada vez más.
 
 Ah, ¿y por qué Le Verrier? Por [esto](https://en.wikipedia.org/wiki/Urbain_Le_Verrier#Discovery_of_Neptune).
-
-
-

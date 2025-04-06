@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-11-11 09:13:00+00:00
-draft: false
-title: La miseria de la inferencia causal vivida
-
-url: /2021/11/11/la-miseria-de-la-inferencia-causal-vivida/
 categories:
 - artículos
 - causalidad
 - estadística
 - mala ciencia
+date: 2021-11-11 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:34.607491'
+related:
+- 2020-10-02-socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalidad-y-las-microcausas.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
+- 2014-09-23-el-impacto-causal-de-google.md
+- 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
 tags:
 - artículos
 - causalidad
 - internet
+title: La miseria de la inferencia causal vivida
+url: /2021/11/11/la-miseria-de-la-inferencia-causal-vivida/
 ---
 
 X escribe en 2020:

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-03-08
-title: ¿Varianza explicada?
-
-url: /2012/03/08/varianza-explicada/
 categories:
 - programación
 - estadística
+date: 2012-03-08
+lastmod: '2025-04-06T19:02:08.048089'
+related:
+- 2010-08-26-modelos-lineales-mixtos-para-la-optimizacion-de-queries.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
 tags:
 - programación
 - estadística
 - sql
 - varianza
+title: ¿Varianza explicada?
+url: /2012/03/08/varianza-explicada/
 ---
 
 Sin darnos cuenta, abusamos de ciertos términos. Uno de ellos es el de la _varianza explicada_. Después de años utilizándolo como por inercia, he venido a darme cuenta por dos vías distintas de su impropiedad: [una de mis recientes lecturas](http://cscs.umich.edu/~crshalizi/weblog/874.html) y una experiencia profesional.

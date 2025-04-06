@@ -1,13 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-07-04
-title: '¿Por qué es "tan fácil" la optimización en altas dimensiones?'
-url: /2024/07/04/optimizacion-altas-dimensiones
 categories:
 - estadística
+date: 2024-07-04
+lastmod: '2025-04-06T18:44:58.936774'
+related:
+- 2020-05-27-por-que-el-optimizador-de-una-red-neuronal-no-se-va-al-carajo-como-suelen-l-bfgs-b-y-similares.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2019-07-01-optimizacion-dos-escuelas-y-una-pregunta.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2010-06-16-algoritmos-geneticos-para-la-caracterizacion-de-maximos-en-random-forests.md
 tags:
 - llms
 - optimización
+title: ¿Por qué es "tan fácil" la optimización en altas dimensiones?
+url: /2024/07/04/optimizacion-altas-dimensiones
 ---
 
 Esta es la [función de Rosenbrock](https://en.wikipedia.org/wiki/Rosenbrock_function), también conocida como función plátano o ---en algunos contextos--- como _el coco_:

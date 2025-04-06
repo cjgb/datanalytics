@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-05-25 08:13:36+00:00
-draft: false
-title: Evolución de la resistencia al calor
-
-url: /2018/05/25/evolucion-de-la-resistencia-al-calor/
 categories:
 - estadística
 - números
+date: 2018-05-25 08:13:36+00:00
+draft: false
+lastmod: '2025-04-06T19:02:49.281276'
+related:
+- 2020-09-14-recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola.md
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
+- 2018-09-17-el-anomalo-verano-de-2018.md
+- 2022-07-21-critica-critica-momo.md
 tags:
 - defunciones
 - modelos
 - mortalidad
+title: Evolución de la resistencia al calor
+url: /2018/05/25/evolucion-de-la-resistencia-al-calor/
 ---
 
 En [2003 hubo una ola de calor](https://es.wikipedia.org/wiki/Ola_de_calor_en_Europa_en_2003) de tal magnitud que el ministerio de sanidad puso en marcha un [plan especial](https://www.msssi.gob.es/ciudadanos/saludAmbLaboral/planAltasTemp/2017/Plan_nacional_actuaciones_preventivas.htm) de seguimiento, prevención, monitorización, etc. de ese tipo de fenómenos.

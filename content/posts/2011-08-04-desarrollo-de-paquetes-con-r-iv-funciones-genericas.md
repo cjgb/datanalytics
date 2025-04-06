@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-08-04 07:26:52+00:00
-draft: false
-title: 'Desarrollo de paquetes con R (IV): funciones genéricas'
-
-url: /2011/08/04/desarrollo-de-paquetes-con-r-iv-funciones-genericas/
 categories:
 - r
+date: 2011-08-04 07:26:52+00:00
+draft: false
+lastmod: '2025-04-06T19:08:21.918823'
+related:
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2015-02-11-recurrencia-recurrente.md
+- 2010-11-01-una-propuesta-de-guia-de-estilo-de-r.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
+- 2023-04-20-dejar-morir-pxr.md
 tags:
 - r
 - paquetes
 - programación
+title: 'Desarrollo de paquetes con R (IV): funciones genéricas'
+url: /2011/08/04/desarrollo-de-paquetes-con-r-iv-funciones-genericas/
 ---
 
 La función `plot` es genérica. Uno puede aplicársela a un `data.frame` o a un objeto de la clase `lm`. Y en el fondo, `plot` sólo elige cuál de sus _métodos_, es decir, las funciones que realizan el trabajo verdaderamente, aplicar. Para ver cuáles son los métodos asociados a `plot` basta con ejecutar en R

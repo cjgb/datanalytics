@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-23 07:15:44+00:00
-draft: false
-title: Nueve reinas con SAS (y R también)
-
-url: /2012/01/23/nueve-reinas-con-sas-y-r-tambien/
 categories:
 - r
+date: 2012-01-23 07:15:44+00:00
+draft: false
+lastmod: '2025-04-06T19:06:11.163553'
+related:
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
+- 2012-01-12-cosa-prodigiosa-sin-palabras-i.md
+- 2010-08-28-la-funcion-ifelse-a-la-sas.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
 tags:
 - r
 - sas
 - programación
+title: Nueve reinas con SAS (y R también)
+url: /2012/01/23/nueve-reinas-con-sas-y-r-tambien/
 ---
 
 No sé si habéis visto la película argentina [Nueve reinas](http://es.wikipedia.org/wiki/Nueve_reinas). Trata de unos timadores que engatusan a incautos para sacarles la platica.

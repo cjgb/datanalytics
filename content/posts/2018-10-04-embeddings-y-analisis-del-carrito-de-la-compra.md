@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-10-04 08:13:34+00:00
-draft: false
-title: '"Embeddings" y análisis del carrito de la compra'
-
-url: /2018/10/04/embeddings-y-analisis-del-carrito-de-la-compra/
 categories:
 - consultoría
 - estadística
+date: 2018-10-04 08:13:34+00:00
+draft: false
+lastmod: '2025-04-06T18:54:40.854723'
+related:
+- 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
+- 2018-10-03-de-que-matriz-son-los-embeddings-una-factorizacion.md
+- 2014-07-16-dos-descomposiciones-positivas-de-tablas-de-contingencia.md
+- 2015-09-14-nmf-una-tecnica-mergente-de-analisis-no-supervisado.md
+- 2022-09-01-tf-idf.md
 tags:
 - arules
 - embeddings
@@ -15,6 +19,8 @@ tags:
 - nmf
 - paquetes
 - r
+title: '"Embeddings" y análisis del carrito de la compra'
+url: /2018/10/04/embeddings-y-analisis-del-carrito-de-la-compra/
 ---
 
 Escribiendo la [entrada del otro día sobre _embeddings_](https://www.datanalytics.com/2018/10/03/de-que-matriz-son-los-embeddings-una-factorizacion/#comments), no se me pasó por alto que la fórmula

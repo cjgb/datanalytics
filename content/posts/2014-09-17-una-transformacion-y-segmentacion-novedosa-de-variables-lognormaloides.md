@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-09-17 07:13:57+00:00
-draft: false
-title: Una transformación (y segmentación) novedosa de variables (lognormaloides)
-
-url: /2014/09/17/una-transformacion-y-segmentacion-novedosa-de-variables-lognormaloides/
 categories:
 - consultoría
+date: 2014-09-17 07:13:57+00:00
+draft: false
+lastmod: '2025-04-06T18:48:44.974486'
+related:
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2023-11-21-sumas-lognormales.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
 tags:
 - consultoría
 - logaritmo
+title: Una transformación (y segmentación) novedosa de variables (lognormaloides)
+url: /2014/09/17/una-transformacion-y-segmentacion-novedosa-de-variables-lognormaloides/
 ---
 
 -- La variable `gasto` tiene una distribución muy fea que tiene un impacto en el modelo. He optado por transformarla.

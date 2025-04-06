@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-02-25 07:26:34+00:00
-draft: false
-title: Estadísticas oficiales alternativas
-
-url: /2013/02/25/estadisticas-oficiales-alternativas/
 categories:
 - estadística
+date: 2013-02-25 07:26:34+00:00
+draft: false
+lastmod: '2025-04-06T18:49:13.661328'
+related:
+- 2014-12-09-ruido-en-las-estadisticas-oficiales.md
+- 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
+- 2024-01-30-indicadores-economicos.md
+- 2011-02-25-1605.md
 tags:
 - epa
 - estadística pública
 - finanzas
 - inflación
+title: Estadísticas oficiales alternativas
+url: /2013/02/25/estadisticas-oficiales-alternativas/
 ---
 
 Me reconozco entusiasta de la heterodoxia. Allá donde hay comunión de pensamiento, siento la necesidad imperativa de abrir las ventanas y orear el ambiente. Y en pocos ámbitos la hay menos que en el de las estadísticas oficiales, que se toman como trasunto mismo de la realidad que aspiran a medir.

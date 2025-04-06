@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-12 07:28:55+00:00
-draft: false
-title: Cuando falta la variable más importante (II)
-
-url: /2012/04/12/cuando-falta-la-variable-mas-importante-ii/
 categories:
 - consultoría
 - estadística
+date: 2012-04-12 07:28:55+00:00
+draft: false
+lastmod: '2025-04-06T19:10:31.870246'
+related:
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
+- 2012-04-09-3564.md
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
 tags:
 - consultoría
 - econometría
 - estadística
 - sesgo
+title: Cuando falta la variable más importante (II)
+url: /2012/04/12/cuando-falta-la-variable-mas-importante-ii/
 ---
 
 No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porque siempre he pensado que era poco menso que imposible. Pero hace unos pocos días [escribí sobre el asunto](http://www.datanalytics.com/2012/04/09/3564/) y hoy traigo otro similar a colación.

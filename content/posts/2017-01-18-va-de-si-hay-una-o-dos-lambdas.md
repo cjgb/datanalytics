@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-18 08:13:16+00:00
-draft: false
-title: Va de si hay una o dos lambdas
-
-url: /2017/01/18/va-de-si-hay-una-o-dos-lambdas/
 categories:
 - r
+date: 2017-01-18 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:08:37.238182'
+related:
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
+- 2012-04-30-contar-c2bffacil.md
+- 2017-01-09-en-lugar-de-dar-la-lata-hablando-de-ruido-estadistico-doy-dos-puntos-a-aquellos-de-mis-alumnos-que-solucionen-en-siguiente-problema.md
 tags:
 - accidentes
 - poisson
 - r
 - stan
 - dgt
+title: Va de si hay una o dos lambdas
+url: /2017/01/18/va-de-si-hay-una-o-dos-lambdas/
 ---
 
 Un año, el 2016, mueren 1160 personas en accidentes de tráfico. El anterior, 1131, i.e., 29 menos. Ruido estadístico aparte, ¿aumentan?
@@ -66,5 +72,3 @@ mean(tmp$incr > 0)
 {{< / highlight >}}
 
 Es decir, podíamos decir que hay un 25% de probabilidades de que [los neocríticos de la DGT](http://www.elmundo.es/motor/2017/01/04/586bf1b422601d63628b4655.html) estén equivocados.
-
-

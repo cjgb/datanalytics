@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-11-12 07:34:13+00:00
-draft: false
-title: No es país para "biplots"
-
-url: /2012/11/12/no-es-pais-para-biplots/
 categories:
 - estadística
 - gráficos
+date: 2012-11-12 07:34:13+00:00
+draft: false
+lastmod: '2025-04-06T19:02:09.576953'
+related:
+- 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md
+- 2013-08-22-el-carajal-de-las-representaciones-graficas-de-redes-sociales.md
+- 2011-03-22-graficos-i-introduccion.md
+- 2011-04-12-c2a1que-prensa-tan-mala.md
+- 2014-11-19-dime-que-quieres-comparar-con-que.md
 tags:
 - estadística
 - gráficos
 - periodismo de datos
 - biplots
+title: No es país para "biplots"
+url: /2012/11/12/no-es-pais-para-biplots/
 ---
 
 No, parece que aún no estamos preparados para los [biplots](http://en.wikipedia.org/wiki/Biplot). En el curso _Introduction to Infographics and Data Visualization_ de Alberto Cairo, nos pidieron sugierir mejoras y alternativas a este gráfico:

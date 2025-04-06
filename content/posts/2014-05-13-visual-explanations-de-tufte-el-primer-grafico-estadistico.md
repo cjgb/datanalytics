@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-05-13 07:33:38+00:00
-draft: false
-title: '"Visual Explanations" de Tufte: el primer gráfico estadístico'
-
-url: /2014/05/13/visual-explanations-de-tufte-el-primer-grafico-estadistico/
 categories:
 - gráficos
+date: 2014-05-13 07:33:38+00:00
+draft: false
+lastmod: '2025-04-06T18:56:44.272097'
+related:
+- 2014-03-11-beautiful-evidence-de-tufte.md
+- 2012-09-12-el-arte-funcional-una-revision-personal.md
+- 2011-04-26-graficos-vi-teoria.md
+- 2021-07-01-la-miseria-de-la-sicologia-de-la-percepcion.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
 tags:
 - dotplots
 - gráficos
 - tufte
+title: '"Visual Explanations" de Tufte: el primer gráfico estadístico'
+url: /2014/05/13/visual-explanations-de-tufte-el-primer-grafico-estadistico/
 ---
 
 Aprovecho los tiempos muertos de aviones y aeropuertos para ir leyendo esos libritos de Tufte que, no sé de qué manera, acabaron apareciendo como pedeefes en mi tableta. El otro día hablé de y resumí [Beautiful Evidence](http://www.datanalytics.com/2014/03/11/beautiful-evidence-de-tufte/). Esta vez le toca el turno a _Visual Explanations_.

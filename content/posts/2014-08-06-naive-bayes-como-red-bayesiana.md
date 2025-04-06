@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-08-06 07:13:12+00:00
-draft: false
-title: Naive Bayes como red bayesiana
-
-url: /2014/08/06/naive-bayes-como-red-bayesiana/
 categories:
 - estadística
+date: 2014-08-06 07:13:12+00:00
+draft: false
+lastmod: '2025-04-06T19:11:02.979116'
+related:
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
+- 2012-05-10-modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico.md
+- 2011-09-19-linked-de-barabasi-capitulo-i.md
+- 2014-07-31-combinacion-de-probabilidades.md
+- 2018-02-26-lda-para-dummies-y-con-un-ejemplo.md
 tags:
 - estadística
 - estadística bayesiana
 - naive bayes
 - redes bayesianas
+title: Naive Bayes como red bayesiana
+url: /2014/08/06/naive-bayes-como-red-bayesiana/
 ---
 
 Una red bayesiana es [algo de lo que ya hablé](http://www.datanalytics.com/2013/11/19/la-red-asia/) (y que me está volviendo a interesar mucho últimamente). En esencia, es un modelo probabilístico construido sobre un [grafo dirigido acíclico](http://es.wikipedia.org/wiki/Grafo_ac%C3%ADclico_dirigido).

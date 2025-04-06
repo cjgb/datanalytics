@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-25 06:27:35+00:00
-draft: false
-title: Para los expertos en series temporales (II)
-
-url: /2012/06/25/para-los-expertos-en-series-estadisticas-ii/
 categories:
 - estadística
+date: 2012-06-25 06:27:35+00:00
+draft: false
+lastmod: '2025-04-06T18:48:28.064296'
+related:
+- 2012-05-17-para-los-expertos-en-series-temporales.md
+- 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
+- 2014-02-14-memoria-de-decaimiento-exponencial-y-canutos-asincronos.md
+- 2020-09-17-una-herramienta-para-el-analisis-no-parametrico-de-series-temporales.md
+- 2017-10-20-he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-publico-el-subproducto.md
 tags:
 - estadística
 - series temporales
+title: Para los expertos en series temporales (II)
+url: /2012/06/25/para-los-expertos-en-series-estadisticas-ii/
 ---
 
 El otro día [propuse un ejercicio de series temporales](http://www.datanalytics.com/2012/05/17/para-los-expertos-en-series-temporales/), el análisis de una serie temporal bastante conocida. Entre otras cosas, para ver si alguien la reconocía. O si daba con un análisis más o menos adecuado de la misma. Y, ¡vaya!, no he tenido ninguna respuesta...

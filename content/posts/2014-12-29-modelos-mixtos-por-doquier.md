@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-29 07:13:48+00:00
-draft: false
-title: Modelos mixtos por doquier
-
-url: /2014/12/29/modelos-mixtos-por-doquier/
 categories:
 - ciencia de datos
 - estadística
+date: 2014-12-29 07:13:48+00:00
+draft: false
+lastmod: '2025-04-06T18:57:13.751231'
+related:
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
+- 2020-03-18-lme4-simulate.md
+- 2017-01-10-repensando-la-codificacion-por-impacto.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
 - estadística
 - ciencia de datos
 - modelos mixtos
 - random forests
+title: Modelos mixtos por doquier
+url: /2014/12/29/modelos-mixtos-por-doquier/
 ---
 
 Los códigos postales, por ejemplo, son un problema a la hora de crear modelos predictivos: son variables categóricas con demasiados niveles. Así, por ejemplo, los bosques aleatorios de R solo admiten variables categóricas con no más de 32 niveles.

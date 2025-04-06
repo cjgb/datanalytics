@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-25 07:11:26+00:00
-draft: false
-title: El índice de birrieza para distribuciones de probabilidad
-
-url: /2014/06/25/el-indice-de-birrieza-para-distribuciones-de-probabilidad/
 categories:
 - estadística
+date: 2014-06-25 07:11:26+00:00
+draft: false
+lastmod: '2025-04-06T19:10:07.248535'
+related:
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2014-10-21-mas-alla-del-teorema-central-del-limite.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2014-01-24-como-no-restar-numeros-fuzzy.md
 tags:
 - birrieza
 - estadística
 - distribuciones
 - feller
+title: El índice de birrieza para distribuciones de probabilidad
+url: /2014/06/25/el-indice-de-birrieza-para-distribuciones-de-probabilidad/
 ---
 
 Pido disculpas por usar _birrieza_, que no es una palabra que no existe. Si a alguien se le ocurre otro término mejor, que lo sugiera. Pero es que hay distribuciones de probabilidad que son una birria. Y de ellas me voy a ocupar hoy.

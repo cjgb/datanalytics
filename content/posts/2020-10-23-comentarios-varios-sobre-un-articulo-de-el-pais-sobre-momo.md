@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-23 09:13:00+00:00
-draft: false
-title: Comentarios varios sobre un artículo de El País sobre MOMO
-
-url: /2020/10/23/comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo/
 categories:
 - artículos
 - estadística
+date: 2020-10-23 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:15.852489'
+related:
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2022-07-21-critica-critica-momo.md
+- 2020-04-21-defunciones-ine-vs-momo.md
 tags:
 - elpaís
 - momo
 - mortalidad
 - covid
+title: Comentarios varios sobre un artículo de El País sobre MOMO
+url: /2020/10/23/comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo/
 ---
 
 _[Esta entrada ha sido enmendado con respecto a cómo fue publicada originalmente por los motivos que abajo se indican.]_

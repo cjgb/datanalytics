@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-04 07:13:40+00:00
-draft: false
-title: Sí, señor ministro... y encuestas
-
-url: /2014/12/04/si-senor-ministro-y-encuestas/
 categories:
 - estadística
 - números
+date: 2014-12-04 07:13:40+00:00
+draft: false
+lastmod: '2025-04-06T18:53:02.530227'
+related:
+- 2024-04-18-estadistica-individuos.md
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
+- 2011-08-23-piensa-en-en-terminos-de-inferencia.md
+- 2022-03-15-infraestimacion-error-encuestas.md
 tags:
 - encuestas
 - estadística
 - números
+title: Sí, señor ministro... y encuestas
+url: /2014/12/04/si-senor-ministro-y-encuestas/
 ---
 
 Cayó en mis manos

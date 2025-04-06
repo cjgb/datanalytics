@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-01 08:13:47+00:00
-draft: false
-title: Demasiados colores (para el hijo de un daltónico)
-
-url: /2019/02/01/demasiados-colores-para-el-hijo-de-un-daltonico/
 categories:
 - r
+date: 2019-02-01 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T18:50:35.602802'
+related:
+- 2016-05-27-coordenadas-polares-por-doquier.md
+- 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
+- 2016-05-10-cartogramas-rectangulares-con-r.md
+- 2014-10-07-como-leais-esta-entrada-aprendereis-tanto-como-lo-que-desaprendereis.md
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 tags:
 - colores
 - paquetes
 - r
+title: Demasiados colores (para el hijo de un daltónico)
+url: /2019/02/01/demasiados-colores-para-el-hijo-de-un-daltonico/
 ---
 
 Mi padre  me enseñó muchas cosas (leer, sumar, etc.). Pero mi infancia fue monocromática porque era daltónico. Siempre dibujé con lápiz (primero) y tinta (después). Las témperas y los rotuladores fueron mi tormento.

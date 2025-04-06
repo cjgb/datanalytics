@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-10-05
-title: 'LLMs en perspectiva '
-
-url: /2023/10/03/llms-dialectica
 categories:
 - ciencia de datos
+date: 2023-10-05
+lastmod: '2025-04-06T19:00:04.903635'
+related:
+- 2016-08-29-la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional.md
+- 2024-10-17-interpretacion-modelos.md
+- 2024-03-21-cortos.md
+- 2023-10-19-errores-chatgpt.md
+- 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 tags:
 - ciencia de datos
 - llms
 - nlp
+title: 'LLMs en perspectiva '
+url: /2023/10/03/llms-dialectica
 ---
 
 ### I.
@@ -75,5 +81,3 @@ Es comprensible que GPT-2 y lo que vino después, particularmente tras la public
 Dicho lo cual, el aspecto extratécnico de los LLMs que más me llama la atención es el de cómo ilustra aquello de que
 [_More is different_](https://www.science.org/doi/abs/10.1126/science.177.4047.393)
 y cómo, siguiendo a rajatabla las viejas leyes del Diamat, el _mero_ incremento del tamaño de los modelos está acompañado de la emergencia de propiedades cualitativas, de habilidades, sorprendentes e insospechadas.
-
-

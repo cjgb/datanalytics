@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-10-26 07:18:38+00:00
-draft: false
-title: HHH, HHT y el comando "yield" de Python
-
-url: /2012/10/26/hhh-hht-y-el-comando-yield-de-python/
 categories:
 - probabilidad
 - r
+date: 2012-10-26 07:18:38+00:00
+draft: false
+lastmod: '2025-04-06T18:52:45.528514'
+related:
+- 2015-01-07-juegos-justos-con-monedas-truchas.md
+- 2012-01-12-cosa-prodigiosa-sin-palabras-i.md
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
 tags:
 - probabilidad
 - python
 - r
+title: HHH, HHT y el comando "yield" de Python
+url: /2012/10/26/hhh-hht-y-el-comando-yield-de-python/
 ---
 
 Variable aleatoria X: tiramos una moneda al aire sucesivamente y contamos el número de veces que lo hacemos hasta obtener el patrón HHH (tres caras) en las tres últimas tiradas.

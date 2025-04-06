@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-01-23 07:17:45+00:00
-draft: false
-title: De los datos al conocimiento científico
-
-url: /2013/01/23/mapa-mental-de-mi-primera-clase-del-semestre/
 categories:
 - cursos
+date: 2013-01-23 07:17:45+00:00
+draft: false
+lastmod: '2025-04-06T18:56:12.346955'
+related:
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2012-01-25-limpieza-de-cartera-y-miscelanea-de-articulos.md
+- 2011-08-23-piensa-en-en-terminos-de-inferencia.md
+- 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md
+- 2016-11-15-una-fina-tenue-somera-capa-de-sintaxis.md
 tags:
 - cursos
 - datos abiertos
+title: De los datos al conocimiento científico
+url: /2013/01/23/mapa-mental-de-mi-primera-clase-del-semestre/
 ---
 
 Hoy he impartido la primera de mis clases dentro de la asignatura _Data Analysis and Visualization for Environmental Magamement_ del [_Master in Environmental Management_](http://mem.blogs.ie.edu/) del [Instituto de Empresa](http://www.ie.edu/). El tema, _From Data to Scientific Knowledge_, todo en 80 minutos.

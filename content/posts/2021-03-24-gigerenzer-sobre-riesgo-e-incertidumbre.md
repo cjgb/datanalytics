@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-03-24 13:05:00+00:00
-draft: false
-title: Gigerenzer sobre riesgo e incertidumbre
-
-url: /2021/03/24/gigerenzer-sobre-riesgo-e-incertidumbre/
 categories:
 - estadística
+date: 2021-03-24 13:05:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:47.536342'
+related:
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2020-03-25-cuantificacion-y-riesgo.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
+- 2022-11-24-ley-estadistico-inconsciente.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
 tags:
 - gigerenzer
 - hayek
 - incertidumbre
 - riesgo
 - youtube
+title: Gigerenzer sobre riesgo e incertidumbre
+url: /2021/03/24/gigerenzer-sobre-riesgo-e-incertidumbre/
 ---
 
 Esta es una entrada breve no tanto para comentar el vídeo
@@ -32,4 +38,3 @@ Cierro con una nota personal:
 * Hace un tiempo decidí reducir la frecuencia de las entradas de este blog a tres a la semana y así poder atender mi blog _secreto_ y mi experimento en YouTube.
 * Por cuestiones coyunturales me veo obligado a reducirla a una, con suerte, a la semana.
 * Además, llevo dos semanas medio afónico y no tengo forma de subir nuevos vídeos a YouTube que no den todavía más lástima que los habituales.
-

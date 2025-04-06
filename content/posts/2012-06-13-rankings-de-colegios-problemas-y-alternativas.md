@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-06-13 06:34:16+00:00
-draft: false
-title: 'Rankings de colegios: problemas y alternativas'
-
-url: /2012/06/13/rankings-de-colegios-problemas-y-alternativas/
 categories:
 - estadística
 - números
+date: 2012-06-13 06:34:16+00:00
+draft: false
+lastmod: '2025-04-06T19:08:15.791932'
+related:
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2023-01-26-educacion-tabarrok.md
+- 2012-10-08-las-cosquillas-de-los-sondeos-electorales.md
+- 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
+- 2016-05-04-transparencia-libertad-y-carcas-de-antano-y-hogano.md
 tags:
 - datos abiertos
 - estadística
 - números
 - rankings
 - wert
+title: 'Rankings de colegios: problemas y alternativas'
+url: /2012/06/13/rankings-de-colegios-problemas-y-alternativas/
 ---
 
 Me voy a sumar al rol de bitácoras que hablan del ministro Wert. No lo conocía de nada pero el día de su nombramiento, El País publicó un artículo suyo —que no he podido ubicar— en el que, como sociólogo, analizaba ciertos resultados electorales. Ese detalle me hizo pensar que me iba a caer bien el hombre. Y, pobre, no para de dar y recibir disgustos.

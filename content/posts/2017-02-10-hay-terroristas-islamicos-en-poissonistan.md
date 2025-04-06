@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-10 08:13:35+00:00
-draft: false
-title: ¿Hay terroristas islámicos en Poissonistán?
-
-url: /2017/02/10/hay-terroristas-islamicos-en-poissonistan/
 categories:
 - estadística
+date: 2017-02-10 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T18:57:49.259258'
+related:
+- 2022-01-11-caracterizacion-binomial-negativa-poisson-gamma.md
+- 2017-02-01-infradispersion-de-conteos-buenos-ejemplos.md
+- 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
 tags:
 - outliers
 - poisson
 - terrorismo
+title: ¿Hay terroristas islámicos en Poissonistán?
+url: /2017/02/10/hay-terroristas-islamicos-en-poissonistan/
 ---
 
 La distribución binomial (de parámetro `n`, `p`) es una suma de `n` variables aleatorias de Bernoulli independientes de parámetro `p`.

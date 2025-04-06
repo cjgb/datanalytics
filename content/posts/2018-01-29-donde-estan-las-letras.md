@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-01-29 08:13:53+00:00
-draft: false
-title: Dónde están las letras
-
-url: /2018/01/29/donde-estan-las-letras/
 categories:
 - nlp
 - varios
+date: 2018-01-29 08:13:53+00:00
+draft: false
+lastmod: '2025-04-06T19:08:53.006350'
+related:
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
+- 2014-09-30-va-sobre-el-numero-de-palabras.md
+- 2014-12-11-donde-estan-aquellos-caballeros-andantes.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 tags:
 - letras
 - quijote
 - texto
+title: Dónde están las letras
+url: /2018/01/29/donde-estan-las-letras/
 ---
 
 Inspirado en [esto](http://www.56n.dk/where-do-letters-occur-in-words/) construí
@@ -69,7 +75,3 @@ ggplot(res, aes(x = posicion)) +
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank())
 {{< / highlight >}}
-
-
-
-

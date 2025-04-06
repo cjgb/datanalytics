@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-11-19 07:33:28+00:00
-draft: false
-title: La red Asia
-
-url: /2013/11/19/la-red-asia/
 categories:
 - estadística
 - r
+date: 2013-11-19 07:33:28+00:00
+draft: false
+lastmod: '2025-04-06T19:09:32.938756'
+related:
+- 2016-11-02-decisiones-bajo-incertidumbre-i.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2012-02-01-la-frontera-bayesiana-en-problemas-de-clasificacion-simples.md
+- 2014-08-06-naive-bayes-como-red-bayesiana.md
+- 2017-11-27-mas-sobre-correlaciones-espurias-y-mas-sobre-correlacion-y-causalidad.md
 tags:
 - estadística
 - gRain
 - r
 - red asia
 - redes bayesianas
+title: La red Asia
+url: /2013/11/19/la-red-asia/
 ---
 
 La red Asia es esto:

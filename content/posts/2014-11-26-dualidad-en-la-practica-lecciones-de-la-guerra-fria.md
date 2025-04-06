@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-11-26 07:13:05+00:00
-draft: false
-title: 'Dualidad en la práctica: lecciones de la guerra fría'
-
-url: /2014/11/26/dualidad-en-la-practica-lecciones-de-la-guerra-fria/
 categories:
 - varios
+date: 2014-11-26 07:13:05+00:00
+draft: false
+lastmod: '2025-04-06T18:55:47.077595'
+related:
+- 2022-02-01-abundancia-roja.md
+- 2012-03-28-contrafactualidad-radial.md
+- 2024-07-02-ciencia-ingenieria.md
+- 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md
+- 2021-07-07-hayek-vs-machin-lenin.md
 tags:
 - dualidad
 - ferrocarriles
+title: 'Dualidad en la práctica: lecciones de la guerra fría'
+url: /2014/11/26/dualidad-en-la-practica-lecciones-de-la-guerra-fria/
 ---
 
 Uno de los conceptos más lábiles y menos aprehensibles que he encontrado en los libros desde mis tiempos de primero de carrera es el de la dualidad. El caso histórico que traigo hoy a estas páginas os ayudará a desabstraerlo. O, en el peor de los casos, os entretendrá.

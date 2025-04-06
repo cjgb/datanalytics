@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-05-25
-title: '¿Estamos tratando justamente a los "algoritmos"?'
-
-url: /2023/05/25/evaluacion-algoritmos-vs-alternativas/
 categories:
 - estadística
+date: 2023-05-25
+lastmod: '2025-04-06T18:44:48.293806'
+related:
+- 2020-10-29-algoritmos-y-etica-circa-1950.md
+- 2018-11-14-modelos-y-sesgos-discriminatorios-unas-preguntas.md
+- 2022-02-08-efecto-pierna-rota.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2014-06-16-tan-actual-25-anos-despues.md
 tags:
 - estadística
 - algoritmos
 - teoría de la decisión
 - meehl
+title: ¿Estamos tratando justamente a los "algoritmos"?
+url: /2023/05/25/evaluacion-algoritmos-vs-alternativas/
 ---
 
 ## I.

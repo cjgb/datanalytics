@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-06-08 07:36:35+00:00
-draft: false
-title: Gestión de proyectos en R
-
-url: /2011/06/08/gestion-de-proyectos-en-r/
 categories:
 - consultoría
 - r
+date: 2011-06-08 07:36:35+00:00
+draft: false
+lastmod: '2025-04-06T19:11:49.899548'
+related:
+- 2022-06-02-orgamizacion-proyectos-datos.md
+- 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
+- 2011-07-12-desarrollo-de-paquetes-con-r-iii-check-check-check.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2023-12-14-metodologias-viejunas.md
 tags:
 - consultoría
 - r
 - programación
+title: Gestión de proyectos en R
+url: /2011/06/08/gestion-de-proyectos-en-r/
 ---
 
 Muchos de mis lectores tienen, seguro, maneras distintas —y probablemente mejores— de organizar sus proyectos en R que yo. Pero me consta que a algunos les cuesta no convertir sus carpetas en un caos en los que sólo ellos se manejan —hasta que pasa el tiempo, se olvidan y tienen que volver sobre ello—. Para ellos, para sugerirles un procedimiento eficiente de trabajo, va esta entrada. En ella describo cómo organizo mis propios proyectos con R.

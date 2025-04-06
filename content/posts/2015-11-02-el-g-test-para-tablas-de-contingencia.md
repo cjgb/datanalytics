@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-11-02 08:13:26+00:00
-draft: false
-title: El g-test para tablas de contingencia
-
-url: /2015/11/02/el-g-test-para-tablas-de-contingencia/
 categories:
 - estadística
 - r
+date: 2015-11-02 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T19:10:42.962024'
+related:
+- 2011-12-19-la-correlacion-del-siglo-xxi.md
+- 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2018-01-25-mgm-no-la-de-las-pelis-sino-la-de-los-modelos-graficos.md
+- 2016-01-25-comparaciones-de-tres-grupos-pruebas-vs-modelos.md
 tags:
 - estadística
 - g-test
 - r
 - tablas de contingencia
 - verosimilitud
+title: El g-test para tablas de contingencia
+url: /2015/11/02/el-g-test-para-tablas-de-contingencia/
 ---
 
 Hace unos días recibí una consulta de [una vieja amiga lingüista](https://twitter.com/lirondos). Ella trabaja en algo que creo que se llama cocolocación: el estudio de palabras que aparecen o que tiendan a aparecer juntas en textos. Digamos que es algo así como una correlación o una [regla de asociación](https://en.wikipedia.org/wiki/Association_rule_learning).
@@ -27,4 +33,3 @@ Pues sí, claro. Solo que, según [esto](https://en.wikipedia.org/wiki/Mutual_in
 A propósito, el g-test puede aplicarse en R [así](https://www.rforge.net/doc/packages/Deducer/likelihood.test.html) (¿habrá alguna manera más?).
 
 Confieso que no había oído hablar del g-test hasta el otro día. Y me consuela saber que lo mismo le pasaba a una serie de estadísticos con los que he tenido ocasión de compartir unos tinticos (cafés en Colombia) estos días pasados.
-

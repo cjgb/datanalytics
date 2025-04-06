@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-05-20 09:13:00+00:00
-draft: false
-title: ¿Estos son los argumentos para "un debate riguroso sobre las transferencias
-  de renta"?
-
-url: /2020/05/20/estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta/
 categories:
 - artículos
 - números
+date: 2020-05-20 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:53:35.927516'
+related:
+- 2017-07-04-dudas-razonables-que-me-asaltan.md
+- 2021-05-12-causalidad-y-paraisos-fiscales.md
+- 2024-07-30-rbu-bcn.md
+- 2022-04-05-intervenciones-buenistas.md
+- 2019-02-22-los-resultados-preliminares-del-experimento-finlandes-de-la-renta-basica-apestan-a.md
 tags:
 - artículos
 - pobreza
 - renta básica
+title: ¿Estos son los argumentos para "un debate riguroso sobre las transferencias
+  de renta"?
+url: /2020/05/20/estos-son-los-argumentos-para-un-debate-riguroso-sobre-las-transferencias-de-renta/
 ---
 
 Eso, que he estado leyendo _[Un debate riguroso sobre las transferencias de renta](https://nadaesgratis.es/admin/un-debate-riguroso-sobre-las-transferencias-de-renta)_, donde se anuncia que

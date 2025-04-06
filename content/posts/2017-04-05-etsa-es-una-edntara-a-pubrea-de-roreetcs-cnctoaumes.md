@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-04-05 08:13:07+00:00
-draft: false
-title: Etsa es una edntara a pubrea de roreetcs cnctoaumes
-
-url: /2017/04/05/etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes/
 categories:
 - r
 - varios
+date: 2017-04-05 08:13:07+00:00
+draft: false
+lastmod: '2025-04-06T18:56:13.084095'
+related:
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2011-12-02-grandes-avances-criptograficos-segun-el-pais.md
+- 2012-01-23-nueve-reinas-con-sas-y-r-tambien.md
+- 2018-01-29-donde-estan-las-letras.md
 tags:
 - permutaciones
 - r
 - varios
+title: Etsa es una edntara a pubrea de roreetcs cnctoaumes
+url: /2017/04/05/etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes/
 ---
 
 Psandeno en cómo ebiisrcr a pbruea de roceetrs plaigoaris couetmacns rodecré [esto](http://www.mrc-cbu.cam.ac.uk/people/matt.davis/Cmabrigde/rawlinson/) y lo he idepmneatlmo en R.

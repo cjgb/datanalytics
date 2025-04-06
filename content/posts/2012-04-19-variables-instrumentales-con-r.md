@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-04-19 07:30:54+00:00
-draft: false
-title: Variables instrumentales con R
-
-url: /2012/04/19/variables-instrumentales-con-r/
 categories:
 - estadística
 - r
+date: 2012-04-19 07:30:54+00:00
+draft: false
+lastmod: '2025-04-06T19:07:36.353878'
+related:
+- 2022-03-10-diagramas-causales-hipersimples-1-errores.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2020-09-08-mas-sobre-variables-instrumentales-con-r.md
+- 2022-03-18-diagramas-causales-hipersimples-2-control.md
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
 tags:
 - econometría
 - estadística
 - r
 - variables instrumentales
 - iv
+title: Variables instrumentales con R
+url: /2012/04/19/variables-instrumentales-con-r/
 ---
 
 Los economistas usan unas _cosas_ a las que llaman variables instrumentales con las que uno apenas se tropieza fuera de contextos econométricos. El problema se plantea en el contexto de la regresión
@@ -97,4 +103,3 @@ El lector interesado hará bien en:
 * Estudiar el efecto de cambiar la correlación entre `x` y `z` en la anchura de la campana.
 * Leer la [entrada de la Wikipedia sobre variables instrumentales](http://en.wikipedia.org/wiki/Instrumental_variable) para entender cómo se extiende este caso univariante al general.
 * Echarle un vistazo al artículo _[Instrumental Variables Estimation in Political Science: A Readers's Guide](http://vote.research.yale.edu/Sovey%20&%20Green%20--%20Instrumental%20Variables%20in%20PS.pdf)_ para conocer mejor el uso y el abuso de este tipo de técnicas en aplicaciones reales.
-

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-04 07:48:59+00:00
-draft: false
-title: 'textConnection y ficheros anónimos: cuestión de rendimiento'
-
-url: /2013/04/04/textconnection-y-ficheros-anonimos/
 categories:
 - r
+date: 2013-04-04 07:48:59+00:00
+draft: false
+lastmod: '2025-04-06T18:51:06.006754'
+related:
+- 2010-09-06-tarea-lectores-resultados.md
+- 2014-11-12-descargar-ficheros-gz-detras-de-https-con-r.md
+- 2011-09-08-codigos-de-caracteres-en-r.md
+- 2013-02-18-descarga-de-ficheros-con-r-a-traves-de-sftp.md
+- 2011-03-04-1680.md
 tags:
 - programación
 - r
+title: 'textConnection y ficheros anónimos: cuestión de rendimiento'
+url: /2013/04/04/textconnection-y-ficheros-anonimos/
 ---
 
 La función `textConnection `de R es útil para leer el contenido de una variable como si fuese un fichero de texto. Verbigracia,
@@ -62,5 +68,3 @@ system.time(tmp <- file.io(quijote))
 #user  system elapsed
 #0.31    0.09    0.41
 {{< / highlight >}}
-
-

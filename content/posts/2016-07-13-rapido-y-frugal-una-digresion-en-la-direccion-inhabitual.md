@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-07-13 08:13:39+00:00
-draft: false
-title: 'Rápido y frugal: una digresión en la dirección inhabitual'
-
-url: /2016/07/13/rapido-y-frugal-una-digresion-en-la-direccion-inhabitual/
 categories:
 - estadística
 - r
+date: 2016-07-13 08:13:39+00:00
+draft: false
+lastmod: '2025-04-06T18:54:10.352775'
+related:
+- 2016-04-25-discretizacion-de-variables-continuas-con-arboles.md
+- 2024-01-23-arboles-olvidadizos.md
+- 2021-10-07-como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica.md
+- 2015-01-12-evtree-arboles-globales.md
+- 2018-05-15-gam-vs-rrff-y-en-general-modelos-generativos-vs-cajas-negras.md
 tags:
 - árboles de decisión
 - gigerenzer
 - r
+title: 'Rápido y frugal: una digresión en la dirección inhabitual'
+url: /2016/07/13/rapido-y-frugal-una-digresion-en-la-direccion-inhabitual/
 ---
 
 Siempre (aténganse los puristas al contexto) recomiendo comenzar con un árbol de decisión para, sobre esa base, ensayar métodos más potentes. Sobre todo si la precisión conviene más que la interpretabilidad.

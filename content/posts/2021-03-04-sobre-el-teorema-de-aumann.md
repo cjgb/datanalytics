@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-03-04 09:13:55+00:00
-draft: false
-title: Sobre el teorema de Aumann
-
-url: /2021/03/04/sobre-el-teorema-de-aumann/
 categories:
 - estadística
+date: 2021-03-04 09:13:55+00:00
+draft: false
+lastmod: '2025-04-06T18:44:17.050969'
+related:
+- 2019-05-10-un-reciproco-para-el-teorema-de-bernstein-von-mises.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2015-09-07-prioris-subjetivas.md
+- 2018-10-24-abc-2-2.md
 tags:
 - aumann
 - estadística bayesiana
+title: Sobre el teorema de Aumann
+url: /2021/03/04/sobre-el-teorema-de-aumann/
 ---
 
 _[[Del que ya hablé](https://www.datanalytics.com/2019/05/10/un-reciproco-para-el-teorema-de-bernstein-von-mises/) hace un tiempo desde una perspectiva diferente.]_

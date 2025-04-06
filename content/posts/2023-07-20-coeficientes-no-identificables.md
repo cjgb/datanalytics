@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-07-20
-title: 'Coeficientes "no identificables": un ejemplo y sus consecuencias'
-
-url: /2023/07/20/coeficientes-no-identificables/
 categories:
 - estadística
+date: 2023-07-20
+lastmod: '2025-04-06T19:01:14.835118'
+related:
+- 2023-07-04-modelo-3pl.md
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2015-07-15-un-modelo-jerarquico-para-lo-de-casillas.md
+- 2012-01-12-localidad-globalidad-y-maldicion-de-la-dimensionalidad.md
 tags:
 - estadística bayesiana
 - modelos
+title: 'Coeficientes "no identificables": un ejemplo y sus consecuencias'
+url: /2023/07/20/coeficientes-no-identificables/
 ---
 
 Hoy voy a abundar sobre el

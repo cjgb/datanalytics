@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-13 08:13:29+00:00
-draft: false
-title: Trucos cutrebayesianos
-
-url: /2017/09/13/trucos-cutrebayesianos/
 categories:
 - consultoría
 - estadística
+date: 2017-09-13 08:13:29+00:00
+draft: false
+lastmod: '2025-04-06T19:05:17.729503'
+related:
+- 2019-07-03-modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
+- 2024-12-05-beta-binomial-deriva.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 tags:
 - estadística
 - estadística bayesiana
 - estimación
+title: Trucos cutrebayesianos
+url: /2017/09/13/trucos-cutrebayesianos/
 ---
 
 **El contexto**

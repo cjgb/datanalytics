@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-02-02 08:13:14+00:00
-draft: false
-title: ¿Cuánto durará la sólo-nostalgia?
-
-url: /2017/02/02/cuanto-durara-la-solo-nostalgia/
 categories:
 - estadística
+date: 2017-02-02 08:13:14+00:00
+draft: false
+lastmod: '2025-04-06T19:05:14.711765'
+related:
+- 2013-09-05-donde-deberian-comenzar-los-ejes.md
+- 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
+- 2012-03-13-las-palabras-esenciales-del-diccionario.md
+- 2010-08-16-leyendo-en-diagonal-pero-con-cuidado.md
+- 2012-06-25-para-los-expertos-en-series-estadisticas-ii.md
 tags:
 - kaplan-meier
 - lingüística
 - rae
 - solo
 - supervivencia
+title: ¿Cuánto durará la sólo-nostalgia?
+url: /2017/02/02/cuanto-durara-la-solo-nostalgia/
 ---
 
 Mi vieja amiga Elena Álvarez me sorprendió el otro día publicando nada menos que en el periódico de mis contraejemplos, el muy apriorístico ElDiario.es, el artículo [_"Sólo" y la tilde de la nostalgia_](http://www.eldiario.es/zonacritica/Solo-tilde-nostalgia_6_601299895.html). Trata temas que hay había hablado con ella y sobre los que vi que había publicado bastante en otros sitios.

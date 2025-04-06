@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-13 08:13:07+00:00
-draft: false
-title: Es imposible enseñar nada a alguien cuyo sueldo depende de no aprender
-
-url: /2017/01/13/es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender/
 categories:
 - mala ciencia
+date: 2017-01-13 08:13:07+00:00
+draft: false
+lastmod: '2025-04-06T19:08:14.369862'
+related:
+- 2018-06-21-replicabilidad-y-su-falta-de-ella-fuera-de-la-academia.md
+- 2018-12-20-p-valores-y-el-perro-que-no-ladro.md
+- 2020-07-13-el-incentivo-perverso.md
+- 2024-07-03-cortos-stats.md
+- 2013-08-28-que-ha-hecho-el-csic-por-mi.md
 tags:
 - mala ciencia
 - reproducibilidad
+title: Es imposible enseñar nada a alguien cuyo sueldo depende de no aprender
+url: /2017/01/13/es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender/
 ---
 
 O algo así reza una cita que no ubico. Viene a cuento de un artículo que se acaba de publicar en Nature, _[A manifesto for reproducible science](http://www.nature.com/articles/s41562-016-0021)_, que se resume así:

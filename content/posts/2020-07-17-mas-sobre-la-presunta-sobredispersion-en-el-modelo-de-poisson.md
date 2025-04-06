@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-07-17 17:17:38+00:00
-draft: false
-title: Más sobre la presunta sobredispersión en el modelo de Poisson
-
-url: /2020/07/17/mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson/
 categories:
 - estadística
+date: 2020-07-17 17:17:38+00:00
+draft: false
+lastmod: '2025-04-06T18:50:45.537486'
+related:
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2020-07-16-no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon.md
+- 2021-02-05-separacion-perfecta-en-el-modelo-de-poisson.md
 tags:
 - estadística
 - poisson
 - sobredispersión
 - glm
+title: Más sobre la presunta sobredispersión en el modelo de Poisson
+url: /2020/07/17/mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson/
 ---
 
 _[Esta entrada abunda sobre [la de ayer](https://www.datanalytics.com/2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/) y sin la cual no se entiende.]_

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-30 09:13:00+00:00
-draft: false
-title: ¿Mercados de apuestas como cobertura?
-
-url: /2020/10/30/mercados-de-apuestas-como-cobertura/
 categories:
 - varios
+date: 2020-10-30 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:06:17.794491'
+related:
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2018-10-11-un-resultado-probabilistico-contraintuitivo-y-ii.md
+- 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
+- 2015-09-29-la-funesta-mania-de-querer-acertar.md
+- 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
 tags:
 - apuestas
 - encuestas electorales
 - mercados de predicciones
 - teoría de la decisión
+title: ¿Mercados de apuestas como cobertura?
+url: /2020/10/30/mercados-de-apuestas-como-cobertura/
 ---
 
 Cierta gente, mucha, está mostrando su sorpresa en estos días acerca de las discrepancias entre lo que dicen las encuestas por un lado y el consenso de los mercados de apuestas con respecto a lo de Trump. Por ejemplo, [aquí](https://statmodeling.stat.columbia.edu/2020/06/19/forecast-betting-odds/), [aquí](https://www.lesswrong.com/posts/bSKWSPM927oZZqN7f/predictit-presidential-market-is-increasingly-wrong) o

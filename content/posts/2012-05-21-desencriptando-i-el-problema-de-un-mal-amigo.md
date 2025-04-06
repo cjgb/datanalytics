@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-05-21 07:01:29+00:00
-draft: false
-title: 'Desencriptando (I): el problema de un mal amigo'
-
-url: /2012/05/21/desencriptando-i-el-problema-de-un-mal-amigo/
 categories:
 - estadística
 - probabilidad
+date: 2012-05-21 07:01:29+00:00
+draft: false
+lastmod: '2025-04-06T19:10:22.677136'
+related:
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2012-05-28-desencriptando-ii-la-avaricia-es-mala.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2016-12-02-no-soy-yo-sos-vos-repito-sos-vos.md
+- 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
 tags:
 - criptografía
 - estadística
 - probabilidad
+title: 'Desencriptando (I): el problema de un mal amigo'
+url: /2012/05/21/desencriptando-i-el-problema-de-un-mal-amigo/
 ---
 
 Tengo un muy mal amigo que, sabiendo cómo soy para esas cosas y de qué manera me quitan el sueño, quiso alterar mi solaz enviándome esto:

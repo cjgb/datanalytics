@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-02 07:44:47+00:00
-draft: false
-title: Las leyes de Benford
-
-url: /2013/04/02/las-leyes-de-benford/
 categories:
 - estadística
+date: 2013-04-02 07:44:47+00:00
+draft: false
+lastmod: '2025-04-06T18:50:40.885774'
+related:
+- 2013-05-10-mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales.md
+- 2020-11-16-que-numeros-admiten-la-distribucion-de-benford.md
+- 2011-09-15-la-ley-de-benford.md
+- 2013-05-03-mas-sobre-la-ley-de-benford-ii-la-distribucion-de-la-parte-fraccionaria.md
+- 2013-04-16-mas-sobre-la-ley-de-benford-i-una-condicion-suficiente.md
 tags:
 - estadística
 - ley de benford
+title: Las leyes de Benford
+url: /2013/04/02/las-leyes-de-benford/
 ---
 
 Escriribé hoy sobre las leyes de Benford. Así, en plural.
@@ -27,5 +33,3 @@ La condición es que al cambiar la escala, no cambie la distribución del primer
 Más aún, Charpentier analiza en qué casos las primeras cifras de muestras de algunas otras distribuciones siguen la ley $latex P(D=d)$ anterior y encuentra cómo los resultados no son enteramente disconformes en algunos (¡pero no todos!).
 
 Y este es el hecho que bien podría venir en llamarse _Ley Fuerte de Benford_. Quedaría no obstante pendiente la tarea de caracterizar —de ser posible, claro— aquellas distribuciones a las que resultase aplicable.
-
-

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-02 08:13:43+00:00
-draft: false
-title: Respuestas distintas, ¿a la misma pregunta?
-
-url: /2015/09/02/respuestas-distintas-a-la-misma-pregunta/
 categories:
 - estadística
+date: 2015-09-02 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T19:10:02.054302'
+related:
+- 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md
+- 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
+- 2019-12-04-p-valores-y-decisiones.md
+- 2022-03-08-estadistica-ciencias-blandas.md
+- 2015-07-15-un-modelo-jerarquico-para-lo-de-casillas.md
 tags:
 - ciencia
 - mala ciencia
 - estadística
 - fútbol
 - p-valores
+title: Respuestas distintas, ¿a la misma pregunta?
+url: /2015/09/02/respuestas-distintas-a-la-misma-pregunta/
 ---
 
 Hará ya un par de años, un señor muy importante divulgaba en su bitácora los resultados de un estudio relativo a la educación en España que acababa de publicar. Dedicaba una pequeña parte de la entrada a cuestiones metodológicas y el resto a cuestiones normativas: _dado que he encontrado esto y aquello con un p-valor de tal, no otro remedio queda que aplicar todas estas medidas que aquí enumero_, era el resumen de todo.
@@ -33,5 +39,3 @@ En puridad, la pregunta a la que trataron de dar respuesta los distintos equipos
 Hay una discusión que se resume en lo que cuenta el párrafo anterior [aquí](https://simplystatistics.org/posts/2015-08-20-if-you-ask-different-quetions-you-get-different-asnwers-one-more-way-science-isnt-broken-it-is-just-really-hard/). El gráfico está extraído de [_FiveThirtyEight_](http://fivethirtyeight.com/features/science-isnt-broken/) y la discusión que lo acompaña merece también la pena: trata este y otros temas relacionados.
 
 Finalmente, a los que os dediquéis al análisis de datos, trabajéis en consultoría o tengáis guardada en la manga una agenda normativa que impulsar, ¡enhorabuena! Fácil tenéis encontrar ese numerito menor que 0.05 que tantas puertas abre.
-
-

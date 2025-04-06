@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-06-09 08:12:02+00:00
-draft: false
-title: Oh, no, ¡datastepr!
-
-url: /2015/06/09/oh-no-datastepr/
 categories:
 - r
+date: 2015-06-09 08:12:02+00:00
+draft: false
+lastmod: '2025-04-06T18:59:06.244389'
+related:
+- 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
+- 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md
+- 2024-01-18-microdatoses-ultima-version.md
+- 2014-05-14-nueva-version-de-microdatoses-heroes-villanos-y-mejoras.md
+- 2014-10-20-roi-de-ida-y-vuelta.md
 tags:
 - paquetes
 - r
 - sas
+title: Oh, no, ¡datastepr!
+url: /2015/06/09/oh-no-datastepr/
 ---
 
 Hoy no estoy de humor. He tratado de completar mi primer [anillo](http://www.anilloverdeciclista.es/) en dos años y ha resultado un total fracaso. Mi bici buena estaba pinchada: me he enterado a un kilómetro de casa. He tenido que salir en otra, una de esas viejas de Decathlon, que no sé bien cómo apareció una vez en mi casa, que pesa un quintal y que cambia de marchas cuando y como quiere.

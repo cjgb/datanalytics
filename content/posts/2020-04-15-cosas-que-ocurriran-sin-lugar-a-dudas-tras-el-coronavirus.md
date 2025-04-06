@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-04-15 09:13:00+00:00
-draft: false
-title: Cosas que ocurrirán sin lugar a dudas tras el coronavirus
-
-url: /2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/
 categories:
 - números
+date: 2020-04-15 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:08:21.201322'
+related:
+- 2020-05-25-the-great-reset.md
+- 2020-03-25-cuantificacion-y-riesgo.md
+- 2015-09-29-la-funesta-mania-de-querer-acertar.md
+- 2020-10-05-una-potencial-consecuencia-positiva-de-lo-del-coronavirus.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
 tags:
 - coronavirus
 - predicción
 - regresión
+title: Cosas que ocurrirán sin lugar a dudas tras el coronavirus
+url: /2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/
 ---
 
 Hay mucha incertidumbre sobre cómo será el mundo post-coronavirus. Pero una cosa es segura: tendremos gráficas tales como

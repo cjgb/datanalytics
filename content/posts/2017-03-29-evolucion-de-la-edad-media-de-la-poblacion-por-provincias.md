@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-03-29 08:13:44+00:00
-draft: false
-title: Evolución de la edad media de la población por provincias
-
-url: /2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/
 categories:
 - estadística
 - r
+date: 2017-03-29 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:03:46.050449'
+related:
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2017-03-28-rejillas-poblacionales-con-r-un-borrador.md
+- 2018-02-27-estructura-poblacional-de-espana-2010-2050.md
+- 2017-05-12-me-too-me-too.md
+- 2017-04-19-guadalajara-joven-guadalajara-inconclusa.md
 tags:
 - demografía
 - españa
@@ -15,6 +19,8 @@ tags:
 - ine
 - pxR
 - r
+title: Evolución de la edad media de la población por provincias
+url: /2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/
 ---
 
 Abundo en la [entrada de ayer](https://www.datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/). Lo hago para mostrar

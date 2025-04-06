@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-01-17 09:27:21+00:00
-draft: false
-title: ¿Por qué la otra cola siempre se mueve más aprisa?
-
-url: /2011/01/17/por-que-la-otra-cola-siempre-se-mueve-mas-aprisa/
 categories:
 - probabilidad
+date: 2011-01-17 09:27:21+00:00
+draft: false
+lastmod: '2025-04-06T18:50:12.989110'
+related:
+- 2014-11-21-mi-querido-colega-de-iberia.md
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2014-02-12-de-ratios-apuestas-y-riesgos.md
+- 2020-06-15-cuidado-con-la-aleatoriedad-pochola.md
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
 tags:
 - probabilidad
+title: ¿Por qué la otra cola siempre se mueve más aprisa?
+url: /2011/01/17/por-que-la-otra-cola-siempre-se-mueve-mas-aprisa/
 ---
 
 Me pasó mi buen amigo Raúl (que tiene [un blog más friqui que el mío](http://codinglab.blogspot.com/)) un vídeo con un título tan promisorio y mendaz como el de esta entrada:

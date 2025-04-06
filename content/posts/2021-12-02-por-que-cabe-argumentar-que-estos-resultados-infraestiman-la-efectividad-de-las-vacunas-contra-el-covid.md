@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-12-02 09:13:00+00:00
-draft: false
-title: ¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de
-  las vacunas contra el covid?
-
-url: /2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/
 categories:
 - estadística
 - gráficos
+date: 2021-12-02 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:56:26.278610'
+related:
+- 2020-12-07-en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna.md
+- 2021-01-05-mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas.md
+- 2021-09-24-en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2021-05-25-nuevo-video-en-youtube-se-pueden-estimar-probabilidades-pequenas-con-pocas-observaciones.md
 tags:
 - covid
 - encuestas
 - vacuna
 - sesgos
+title: ¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de
+  las vacunas contra el covid?
+url: /2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/
 ---
 
 Me refiero a los mostrados en el siguiente gráfico (del que he sido una microcausa):

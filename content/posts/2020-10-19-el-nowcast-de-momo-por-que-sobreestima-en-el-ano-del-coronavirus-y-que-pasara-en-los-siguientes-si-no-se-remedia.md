@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-19 09:13:00+00:00
-draft: false
-title: El "nowcast" de MOMO, por qué sobreestima en el año del coronavirus y qué pasará
-  en los siguientes si no se remedia
-
-url: /2020/10/19/el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia/
 categories:
 - estadística
 - números
+date: 2020-10-19 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:11:40.042114'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2021-12-14-sobre-el-exceso-de-mortalidad-en-noviembre-de-2021.md
+- 2022-07-21-critica-critica-momo.md
+- 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md
 tags:
 - mediana
 - momo
 - nowcast
 - outliers
+title: El "nowcast" de MOMO, por qué sobreestima en el año del coronavirus y qué pasará
+  en los siguientes si no se remedia
+url: /2020/10/19/el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia/
 ---
 
 Hablo de MOMO de nuevo. Esta vez por culpa de la sobreestimación de las defunciones esperadas:

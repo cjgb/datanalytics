@@ -1,15 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-11-21
-title: 'Sobre la verosimilitud de distribuciones "compuestas"'
-url: /2024/11/21/verosimilitud-distribuciones-compuestas
 categories:
 - estadística
+date: 2024-11-21
+lastmod: '2025-04-06T18:53:33.861191'
+related:
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - verosimilitud
 - distribuciones
 - mixturas
 - supervivencia
+title: Sobre la verosimilitud de distribuciones "compuestas"
+url: /2024/11/21/verosimilitud-distribuciones-compuestas
 ---
 
 Si tenemos una distribución continua (que depende de un parámetro $\alpha$) $f_\alpha$ y una muestra blablablá $x_1, \dots, x_n$, _la_ verosimilitud asociada es

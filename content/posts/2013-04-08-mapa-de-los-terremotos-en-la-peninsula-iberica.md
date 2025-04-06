@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-04-08 07:27:21+00:00
-draft: false
-title: Mapa de los terremotos en la península ibérica
-
-url: /2013/04/08/mapa-de-los-terremotos-en-la-peninsula-iberica/
 categories:
 - gráficos
 - r
+date: 2013-04-08 07:27:21+00:00
+draft: false
+lastmod: '2025-04-06T18:48:40.144481'
+related:
+- 2013-12-10-te-queda-lejos-el-aeropuerto.md
+- 2019-07-15-cartogramas-con-recmap.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2017-05-12-me-too-me-too.md
+- 2024-03-12-dorling-cartograms.md
 tags:
 - gráficos
 - r
 - terremotos
+title: Mapa de los terremotos en la península ibérica
+url: /2013/04/08/mapa-de-los-terremotos-en-la-peninsula-iberica/
 ---
 
 Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese [tantos terremotos](http://www.datanalytics.com/2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/) (aunque mis amigos chilenos los llamarían de otra manera).

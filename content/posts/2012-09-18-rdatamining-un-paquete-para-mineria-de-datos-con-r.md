@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-09-18 07:02:55+00:00
-draft: false
-title: RDataMining, un paquete para minería de datos con R
-
-url: /2012/09/18/rdatamining-un-paquete-para-mineria-de-datos-con-r/
 categories:
 - ciencia de datos
 - r
+date: 2012-09-18 07:02:55+00:00
+draft: false
+lastmod: '2025-04-06T18:57:55.281598'
+related:
+- 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md
+- 2018-11-05-cuatro-paquetes-interesantes-de-r.md
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2011-07-28-el-paquete-pxr-en-cran.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
 tags:
 - ciencia de datos
 - r
 - anuncio
+title: RDataMining, un paquete para minería de datos con R
+url: /2012/09/18/rdatamining-un-paquete-para-mineria-de-datos-con-r/
 ---
 
 Comparto con mis lectores la noticia que he recibido del paquete (aún en ciernes) [RDataMining](http://www.rdatamining.com/package). El objetivo de sus promotores es construirlo colaborativamente (¡se buscan programadores!) e incluir en él algoritmos publicados que no tengan todavía implementación en R.

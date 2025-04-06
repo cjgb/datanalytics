@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-12-10 09:13:00+00:00
-draft: false
-title: Electricidad, clima, incentivos y... ¿fetichismo de la ciencia de datos?
-
-url: /2019/12/10/electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos/
 categories:
 - números
 - varios
+date: 2019-12-10 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:08:23.474503'
+related:
+- 2013-12-31-palabras-y-pelas-un-ejercicio-apenas-incoado.md
+- 2017-03-27-datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo.md
+- 2024-03-14-precio-medio-diario-electricidad.md
+- 2014-04-16-menos-econometria-y-mas-precioestatos.md
+- 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
 tags:
 - big data
 - electricidad
 - endesa
+title: Electricidad, clima, incentivos y... ¿fetichismo de la ciencia de datos?
+url: /2019/12/10/electricidad-clima-incentivos-y-fetichismo-de-la-ciencia-de-datos/
 ---
 
 En una época hube de aprender los entresijos del mercado eléctrico español. Tan lejana que el _garbage collector_ ha hecho almoneda de todos los conocimientos monetizables que pude haber adquirido. Solo he sabido conservar cierta curiosidad por esa API que el sistema tiene para conmigo que son las tarifas y las facturas.

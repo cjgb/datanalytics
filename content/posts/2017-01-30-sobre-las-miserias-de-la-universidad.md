@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-01-30 08:13:33+00:00
-draft: false
-title: Sobre las miserias de la universidad
-
-url: /2017/01/30/sobre-las-miserias-de-la-universidad/
 categories:
 - varios
+date: 2017-01-30 08:13:33+00:00
+draft: false
+lastmod: '2025-04-06T19:00:07.975698'
+related:
+- 2014-04-28-cinco-anos-y-salen-sin-programar.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2017-03-14-he-visto-que-eran-de-la-rey-juan-carlos-y-hasta-ahi-he-podido-leer.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2024-07-03-cortos-stats.md
 tags:
 - plagio
 - universidad
+title: Sobre las miserias de la universidad
+url: /2017/01/30/sobre-las-miserias-de-la-universidad/
 ---
 
 En los últimos años de carrera me metí _en política_: fui delegado de mis distintas clases y participé como tal, aunque con más oído que voz y más voz que voto, en las discusiones de antaño, muy previas al plan Bolonia, sobre la reorganización del plan de estudios de la licenciatura de matemáticas.

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-05-23
-title: '¿Redujo el covid la esperanza de vida en 2020? No y sí, según se mire.'
-url: /2024/05/23/covid-esperanza-vida
 categories:
 - estadística
+date: 2024-05-23
+lastmod: '2025-04-06T19:11:40.850040'
+related:
+- 2020-10-23-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo.md
+- 2020-10-19-el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia.md
+- 2020-04-08-momo-una-documentacion-oficiosa.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
 tags:
 - demografía
 - covid
 - esperanza de vida
+title: ¿Redujo el covid la esperanza de vida en 2020? No y sí, según se mire.
+url: /2024/05/23/covid-esperanza-vida
 ---
 
 ### I.

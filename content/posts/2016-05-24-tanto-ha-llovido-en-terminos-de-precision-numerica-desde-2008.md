@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-24 08:13:42+00:00
-draft: false
-title: ¿Tanto ha llovido (en términos de precisión numérica) desde 2008?
-
-url: /2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/
 categories:
 - programación
 - r
+date: 2016-05-24 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T19:12:30.881128'
+related:
+- 2014-08-13-mis-procesos-puntuales-con-glm.md
+- 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md
+- 2017-05-24-aquellos-que-ignoran-la-estadistica-etcetera.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2013-05-09-data-table-ii-agregaciones.md
 tags:
 - programación
 - precisión
 - varianza
+title: ¿Tanto ha llovido (en términos de precisión numérica) desde 2008?
+url: /2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/
 ---
 
 Acabo de ejecutar

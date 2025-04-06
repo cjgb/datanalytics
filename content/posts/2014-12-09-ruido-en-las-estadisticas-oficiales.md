@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-09 07:13:20+00:00
-draft: false
-title: Ruido en las estadísticas oficiales
-
-url: /2014/12/09/ruido-en-las-estadisticas-oficiales/
 categories:
 - estadística
+date: 2014-12-09 07:13:20+00:00
+draft: false
+lastmod: '2025-04-06T19:01:53.627508'
+related:
+- 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md
+- 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
+- 2013-02-25-estadisticas-oficiales-alternativas.md
+- 2015-04-24-el-sujeto-numero-82694.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 tags:
 - epa
 - estadística pública
 - pib
 - varianza
+title: Ruido en las estadísticas oficiales
+url: /2014/12/09/ruido-en-las-estadisticas-oficiales/
 ---
 
 Hacía tiempo que no hablaba de este tema. Pero han salido de mi LIFO de artículos potencialmente interesantes dos a los que merece la pena echar un ojo. El primero, [este](http://www.voxeu.org/article/uncertainty-official-statistics), arranca con

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-05 06:42:00+00:00
-draft: false
-title: Un lematizador para el español con R (II)
-
-url: /2012/01/05/un-lematizador-para-el-espanol-con-r-ii/
 categories:
 - r
+date: 2012-01-05 06:42:00+00:00
+draft: false
+lastmod: '2025-04-06T18:46:46.194059'
+related:
+- 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md
+- 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
+- 2013-05-13-charla-un-lematizador-probabilistico-con-r.md
+- 2013-05-23-diapositivas-de-mi-charla-sobre-un-lematizador-desambiguado-con-r.md
+- 2022-07-28-temas-nadaesgratis.md
 tags:
 - lematizador
 - nlp
+title: Un lematizador para el español con R (II)
+url: /2012/01/05/un-lematizador-para-el-espanol-con-r-ii/
 ---
 
 El otro día publiqué mi pequeño [lematizador para el español con R](http://www.datanalytics.com/2011/12/13/un-lematizador-para-el-espanol-con-r-cutre-mejorable). Era el subproducto de un antiguo proyecto mío de cuyos resultados daré noticia en los próximos días.

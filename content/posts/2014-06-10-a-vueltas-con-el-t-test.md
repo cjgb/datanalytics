@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-06-10 07:28:17+00:00
-draft: false
-title: A vueltas con el t-test
-
-url: /2014/06/10/a-vueltas-con-el-t-test/
 categories:
 - estadística
 - r
+date: 2014-06-10 07:28:17+00:00
+draft: false
+lastmod: '2025-04-06T19:06:23.695449'
+related:
+- 2023-09-19-curtosis-t-test.md
+- 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2015-06-25-diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan.md
 tags:
 - chi cuadrado
 - estadística
 - r
 - student
 - t-test
+title: A vueltas con el t-test
+url: /2014/06/10/a-vueltas-con-el-t-test/
 ---
 
 Me gustaría no tener que hacer más _t-tests_ en la vida, pero no va a ser el caso.

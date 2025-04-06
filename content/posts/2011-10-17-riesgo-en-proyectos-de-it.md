@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-10-17 07:08:24+00:00
-draft: false
-title: Riesgo en proyectos de IT
-
-url: /2011/10/17/riesgo-en-proyectos-de-it/
 categories:
 - consultoría
 - números
+date: 2011-10-17 07:08:24+00:00
+draft: false
+lastmod: '2025-04-06T19:03:36.049033'
+related:
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2012-07-27-a-los-datos-mismos.md
 tags:
 - consultoría
 - media
 - números
 - outliers
 - riesgo
+title: Riesgo en proyectos de IT
+url: /2011/10/17/riesgo-en-proyectos-de-it/
 ---
 
 Tu proyecto de IT puede contener más riesgo del que piensas. De verdad. Dan [fe de ello](https://archive.harvardbusiness.org/cla/web/pl/product.seam?c=573&i=13776&cs=3f74e2532c7a49925809f974db8bcb41) Bent Flyvbjerg y Alexander Budzier.

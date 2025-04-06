@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-07-25
-title: 'Tutorial de numpyro (I): modelos probabilísticos'
-
-url: /2023/07/25/tutorial-numpyro-modelos-probabilisticos/
 categories:
 - estadística
+date: 2023-07-25
+lastmod: '2025-04-06T18:48:25.956439'
+related:
+- 2023-07-04-modelo-3pl.md
+- 2023-07-20-coeficientes-no-identificables.md
+- 2021-01-26-que-modelas-cuando-modelas.md
+- 2024-10-17-interpretacion-modelos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
 tags:
 - numpyro
 - estadística
 - modelos
 - modelos probabilísticos
+title: 'Tutorial de numpyro (I): modelos probabilísticos'
+url: /2023/07/25/tutorial-numpyro-modelos-probabilisticos/
 ---
 
 ### I.

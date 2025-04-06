@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-30 08:13:52+00:00
-draft: false
-title: nls con odes
-
-url: /2017/10/30/nls-con-odes/
 categories:
 - estadística
 - r
+date: 2017-10-30 08:13:52+00:00
+draft: false
+lastmod: '2025-04-06T18:57:24.473662'
+related:
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2017-10-23-modelos-directos-inversos-y-en-los-que-tanto-da.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2023-01-18-modelo-poisson-numpyro.md
+- 2023-01-24-funciones-enlace.md
 tags:
 - desolve
 - kgode
 - nls
 - odes
+title: nls con odes
+url: /2017/10/30/nls-con-odes/
 ---
 
 Más sobre secuencia de [entradas acerca de ajustes no lineales](https://www.datanalytics.com/2017/10/16/modelos-no-lineales-directos-e-inversos/). Con (casi) los mismos datos que entonces:
@@ -78,7 +84,3 @@ summary(modelo_cerrado)
 {{< / highlight >}}
 
 Lo de hoy tiene dos ramificaciones relevantes. La primera, cómo abreviar el ajuste [reescribiendo la ecuación diferencial directamente en C](https://cran.r-project.org/web/packages/deSolve/vignettes/compiledCode.pdf). La segunda, explorar el [paquete `KGode`](https://cran.r-project.org/web/packages/KGode/index.html), que parece que es relevante para este tipo de problemas.
-
-
-
-

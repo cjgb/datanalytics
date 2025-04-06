@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-07 08:13:44+00:00
-draft: false
-title: '"Intervalos" de confianza con forma de rosquilla'
-
-url: /2017/11/07/intervalos-de-confianza-con-forma-de-rosquilla/
 categories:
 - estadística
 - r
+date: 2017-11-07 08:13:44+00:00
+draft: false
+lastmod: '2025-04-06T19:00:06.457178'
+related:
+- 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
+- 2020-03-04-intervalos-de-confianza-intervalos-de-prediccion.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2016-02-04-y-termino-con-lo-de-los-intervalos.md
+- 2014-01-24-como-no-restar-numeros-fuzzy.md
 tags:
 - coeficientes
 - estadística
 - intervalo de confianza
 - r
 - stan
+title: '"Intervalos" de confianza con forma de rosquilla'
+url: /2017/11/07/intervalos-de-confianza-con-forma-de-rosquilla/
 ---
 
 Envalentonado por el comentario de [Iñaki Úcar](https://twitter.com/Enchufa2) a mi [entrada del otro día](https://www.datanalytics.com/2017/11/03/intervalos-de-confianza-creativos-que-excluyen-el-0/), que me remitía a [este artículo](https://www.sciencedirect.com/science/article/pii/0378475490900117), decidí rizar el rizo y crear intervalos de confianza no ya discontinuos sino con otra propiedad topológica imposible: homeomorfos con un toro.

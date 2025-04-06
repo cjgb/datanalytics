@@ -1,14 +1,18 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-12-30 07:13:55+00:00
-draft: false
-title: Cómo no nació el "big data"
-
-url: /2014/12/30/como-no-nacio-el-big-data/
 categories:
 - ciencia de datos
 - cursos
 - estadística
+date: 2014-12-30 07:13:55+00:00
+draft: false
+lastmod: '2025-04-06T19:00:18.969359'
+related:
+- 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
+- 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
+- 2015-03-04-adaequatio-rei-et-analysis.md
+- 2012-07-18-conferencia-sobre-grandes-datos.md
+- 2012-12-18-infografia-sobre-big-data-spain.md
 tags:
 - charlas
 - cursos
@@ -17,6 +21,8 @@ tags:
 - mapreduce
 - r
 - rmr2
+title: Cómo no nació el "big data"
+url: /2014/12/30/como-no-nacio-el-big-data/
 ---
 
 En julio anuncié en mi cuenta de Twitter (léase de abajo a arriba):

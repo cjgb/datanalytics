@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-05-18 08:13:37+00:00
-draft: false
-title: Transparencia, ley de transparencia y todas esas cosas
-
-url: /2016/05/18/transparencia-ley-de-transparencia-y-todas-esas-cosas/
 categories:
 - números
+date: 2016-05-18 08:13:37+00:00
+draft: false
+lastmod: '2025-04-06T19:00:30.036117'
+related:
+- 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
+- 2016-05-04-transparencia-libertad-y-carcas-de-antano-y-hogano.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
+- 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
 tags:
 - datos abiertos
 - datos públicos
 - educación
 - transparencia
+title: Transparencia, ley de transparencia y todas esas cosas
+url: /2016/05/18/transparencia-ley-de-transparencia-y-todas-esas-cosas/
 ---
 
 Hace un tiempo se aprobó la ley de Transparencia ([ver en el BOE](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-12887)). Son muy interesantes el preámbulo y las excepciones, a las que volveré después.
@@ -25,4 +31,3 @@ Efectivamente, es tarde para lágrimas de cocodrilo. Fue cuando se discutió la 
 (Es muy interesante leer los comentarios de los lectores a esas noticias y compararlos con [los del artículo que, indirectamente, justifica esta entrada](http://www.eldiario.es/zonacritica/Evaluacion-externa-ranking-colegios_6_510309004.html)).
 
 Pareciere que a veces es _superguay_ pensar una cosa y, a veces, lo contrario.
-

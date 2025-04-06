@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-01-03 07:11:48+00:00
-draft: false
-title: Los censos huelen a naftalina (y son muy caros)
-
-url: /2014/01/03/los-censos-huelen-a-naftalina-y-son-muy-caros/
 categories:
 - estadística
+date: 2014-01-03 07:11:48+00:00
+draft: false
+lastmod: '2025-04-06T18:53:31.179030'
+related:
+- 2014-01-17-mas-y-distinto-sobre-los-censos.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2019-05-08-a-falta-de-escenarios-tenemos-instituciones-con-atribuciones-solapadas.md
+- 2010-05-20-numeros-estadisticamente-transcendentes.md
+- 2013-01-14-algunos-resultados-de-la-encuesta-trimestral-de-coste-laboral.md
 tags:
 - censo
 - estadística
+title: Los censos huelen a naftalina (y son muy caros)
+url: /2014/01/03/los-censos-huelen-a-naftalina-y-son-muy-caros/
 ---
 
 Los censos huelen a naftalina. Eso de ir contando exhaustivamente cabezas, críos, cabras y cabañas [ya lo hacía el rey David](http://www.datanalytics.com/2010/04/07/el-censo-del-rey-david-y-el-castigo-de-yahve/) en su época.

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-02-21 08:42:59+00:00
-draft: false
-title: 'Cuatro enlaces: sanidad, correos electrónicos, leyes y errores de programación'
-
-url: /2014/02/21/cuatro-enlaces-sanidad-correos-electronicos-leyes-y-errores-de-programacion/
 categories:
 - números
 - r
+date: 2014-02-21 08:42:59+00:00
+draft: false
+lastmod: '2025-04-06T19:13:25.059941'
+related:
+- 2015-04-29-una-curiosa-trasposicion-legal-hecha-manifiestamente-a-malagana.md
+- 2014-05-21-la-complejidad-de-la-ley.md
+- 2020-05-12-cuando-sea-mayor-quiero-escribir-informes-como-esos.md
+- 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 tags:
 - números
 - r
 - sanidad
+title: 'Cuatro enlaces: sanidad, correos electrónicos, leyes y errores de programación'
+url: /2014/02/21/cuatro-enlaces-sanidad-correos-electronicos-leyes-y-errores-de-programacion/
 ---
 
 El primero es _[Freer trade in European and Spanish health care services](http://marginalrevolution.com/marginalrevolution/2014/02/freer-trade-in-european-and-spanish-health-care-services.html)_ y trata sobre los efectos en el sistema sanitario español de una directiva europea que liberaliza el acceso a los ciudadanos de al unión a los servicios de salud de otros países.

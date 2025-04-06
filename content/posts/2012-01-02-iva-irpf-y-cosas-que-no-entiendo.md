@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-02 07:07:28+00:00
-draft: false
-title: IVA, IRPF y cosas que no entiendo
-
-url: /2012/01/02/iva-irpf-y-cosas-que-no-entiendo/
 categories:
 - números
+date: 2012-01-02 07:07:28+00:00
+draft: false
+lastmod: '2025-04-06T18:45:24.368402'
+related:
+- 2018-04-17-de-espana-a-dinamarca-en-dos-pasos.md
+- 2011-02-25-1605.md
+- 2012-06-27-iva-irpf-y-desigualdad.md
+- 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md
+- 2023-11-09-progresividad-fiscal-calendario.md
 tags:
 - números
 - iva
 - irpf
+title: IVA, IRPF y cosas que no entiendo
+url: /2012/01/02/iva-irpf-y-cosas-que-no-entiendo/
 ---
 
 Sé lo justito sobre estos temas. Lo justito como para no entender nada. Seguro que las cosas no son tan fáciles como yo creo entenderlas y estoy seguro de que algún lector me las sabrá _complicar_ (con algún párrafo que comience algo así como _no son tan fáciles las cosas porque..._) para que las comprenda.

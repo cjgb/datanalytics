@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-02-08 08:13:15+00:00
-draft: false
-title: Ya, pero ¿es viable un fact check descentralizado? Entonces, ¿qué hacer?
-
-url: /2019/02/08/ya-pero-es-viable-un-fact-check-descentralizado-entonces-que-hacer/
 categories:
 - varios
+date: 2019-02-08 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:09:13.215532'
+related:
+- 2014-07-07-por-que-soy-esceptico-con-respecto-al-periodismo-de-datos.md
+- 2016-09-26-encuestas-electorales-una-propuesta.md
+- 2024-07-03-cortos-stats.md
+- 2010-12-28-lo-prometo-no-es-una-broma.md
+- 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
 tags:
 - periodismo
 - periodismo de datos
+title: Ya, pero ¿es viable un fact check descentralizado? Entonces, ¿qué hacer?
+url: /2019/02/08/ya-pero-es-viable-un-fact-check-descentralizado-entonces-que-hacer/
 ---
 
 Me llegó ayer por Twitter lo siguiente:

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-04-07
-title: "Doxa, episteme y gnosis: una reinterpretación bayesiana"
-url: /2022/04/07/doxa-episteme-gnosis-interpretacion-bayesiana/
 categories:
 - estadística bayesiana
+date: 2022-04-07
+lastmod: '2025-04-06T19:08:12.237675'
+related:
+- 2016-09-20-tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2016-01-04-las-prioris-no-informativas-estan-manifiestamente-sobrevaloradas.md
+- 2020-07-06-un-articulo-muy-raro-raro-raro.md
+- 2016-11-02-decisiones-bajo-incertidumbre-i.md
 tags:
 - epistemología
 - filosofía
 - conocimiento
+title: 'Doxa, episteme y gnosis: una reinterpretación bayesiana'
+url: /2022/04/07/doxa-episteme-gnosis-interpretacion-bayesiana/
 ---
 
 Dícese que los griegos distinguían tres (cuando menos) tipos de conocimiento:

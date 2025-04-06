@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2022-11-24
-title: 'Sobre la llamada ley del estadístico inconsciente'
-
-url: /2022/11/24/ley-estadistico-inconsciente/
 categories:
 - estadística
+date: 2022-11-24
+lastmod: '2025-04-06T18:45:02.347266'
+related:
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2022-10-06-bayesianismo-frecuentismo-teoria-decision-02.md
+- 2019-07-19-un-truco-para-reducir-la-varianza-de-un-estimador.md
+- 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
 tags:
 - estadística
 - media
 - matemáticas
+title: Sobre la llamada ley del estadístico inconsciente
+url: /2022/11/24/ley-estadistico-inconsciente/
 ---
 
 Es innegable que el rótulo

@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-23 08:13:26+00:00
-draft: false
-title: Arqueólogos bayesianos
-
-url: /2017/11/23/arqueologos-bayesianos/
 categories:
 - estadística
 - r
+date: 2017-11-23 08:13:26+00:00
+draft: false
+lastmod: '2025-04-06T19:00:32.280312'
+related:
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2016-01-18-el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada.md
+- 2014-10-10-bootstrap-bayesiano.md
+- 2022-09-13-errores-cierto-tipo-encuestas.md
+- 2017-09-13-trucos-cutrebayesianos.md
 tags:
 - archeochron
 - estadística bayesiana
 - paquetes
 - r
 - arqueología
+title: Arqueólogos bayesianos
+url: /2017/11/23/arqueologos-bayesianos/
 ---
 
 Se ve que hay arqueólogos bayesianos. Un problema con el que se encuentran es que tropiezan con cacharros antiguos y quieren estimar su antigüedad.

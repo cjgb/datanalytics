@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-18 09:16:19+00:00
-draft: false
-title: Asesinatos en perspectiva
-
-url: /2011/03/18/asesinatos-en-perspectiva/
 categories:
 - números
+date: 2011-03-18 09:16:19+00:00
+draft: false
+lastmod: '2025-04-06T19:04:29.863463'
+related:
+- 2012-03-07-esperanzador-no-varianzador.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2012-04-30-contar-c2bffacil.md
+- 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
 tags:
 - números
+title: Asesinatos en perspectiva
+url: /2011/03/18/asesinatos-en-perspectiva/
 ---
 
 En Colombia hay mucho asesinato. Uno va para allá y si del aeropuerto para el hotel no lo han separado de su equipaje, su cartera o de la vida, puede darse por afortunado.
@@ -24,5 +30,3 @@ Me he entretenido en representar gráficamente algunos [datos de la ONU referent
 ![](/wp-uploads/2011/03/asesinatos_por_pais1.png#center)
 
 A pesar de los errores que puedan esconder estos datos para algunos países (véanse a tal respecto las notas que aparecen en la fuente) espero que sirvan para desmontar algunos de esos mitos que los noticieros inyectan en nuestro subconsciente.
-
-

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-03-02 09:13:46+00:00
-draft: false
-title: 'Un argumento para usar la normal: la maximización de la entropía'
-
-url: /2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia/
 categories:
 - probabilidad
+date: 2021-03-02 09:13:46+00:00
+draft: false
+lastmod: '2025-04-06T19:03:32.328386'
+related:
+- 2022-10-11-bayesianismo-frecuentismo-teoria-decision-03.md
+- 2022-10-13-bayesianismo-frecuentismo-teoria-decision-04.md
+- 2016-05-31-el-extrano-caso-de-la-media-empirica-menguante.md
+- 2021-02-23-tres-teoremas-que-son-casi-ciertos.md
+- 2022-01-20-peor-pagina-taleb.md
 tags:
 - distribuciones
 - entropía
 - probabilidad
 - jaynes
+title: 'Un argumento para usar la normal: la maximización de la entropía'
+url: /2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia/
 ---
 
 Llegaré a la normal. Antes, algo sobre la entropía.
@@ -58,6 +64,3 @@ Ahora, supóngase que de una variable aleatoria solo se sabe que, por ejemplo, e
 Y, para cerrar, un resultado desasosegante. El contexto es el de la modelización bayesiana, de nuevo, con prioris informativas. Lo de la media y la varianza, que justificaría el uso de la normal, está entrañablemente _demodé_. Un usuario te puede decir: habitualmente, **X** está entre a y b. Lo cual se puede interpretar como que **X** es normal con media (a + b) / 2 y aquella varianza tal que los cuantiles 0.025 y 0.975 sean a y b; o alternativamente como que **X** debería ser aquella distribución de máxima entropía tal que sus cuantiles correspondientes son a y b.
 
 Desafortunadamente, esa distribución sería constante entre a y b y fuera de ese intervalo... no está claro. Unos dirían que si una uniforme degenerada (¿cuánto?) y otros más prudentes recomendarían utilizar una exponencial. En cualquier caso, un engendro de padre y muy señor mío.
-
-
-

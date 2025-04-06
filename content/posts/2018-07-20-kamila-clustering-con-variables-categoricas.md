@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-07-20 08:13:58+00:00
-draft: false
-title: 'kamila: Clústering con variables categóricas'
-
-url: /2018/07/20/kamila-clustering-con-variables-categoricas/
 categories:
 - estadística
 - r
+date: 2018-07-20 08:13:58+00:00
+draft: false
+lastmod: '2025-04-06T18:59:03.869105'
+related:
+- 2014-08-01-coclustering-con-blockcluster.md
+- 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md
+- 2011-07-19-clustering-ii-c2bfes-replicable.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2020-04-14-consensus-clustering.md
 tags:
 - cluster
 - estadística
 - paquetes
 - r
+title: 'kamila: Clústering con variables categóricas'
+url: /2018/07/20/kamila-clustering-con-variables-categoricas/
 ---
 
 La codificación de las variables categóricas en problemas de clústering es la fuente de la mayor parte de los problemas con que se encuentran los desdichados que se ven forzados a aplicar este tipo de técnicas.

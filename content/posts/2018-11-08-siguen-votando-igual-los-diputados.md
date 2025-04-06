@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-11-08 08:13:19+00:00
-draft: false
-title: ¿Siguen votando igual los diputados?
-
-url: /2018/11/08/siguen-votando-igual-los-diputados/
 categories:
 - números
+date: 2018-11-08 08:13:19+00:00
+draft: false
+lastmod: '2025-04-06T19:12:17.438548'
+related:
+- 2012-09-20-como-votan-los-diputados.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2016-09-21-votos-en-la-onu-con-r.md
+- 2011-09-13-datos-patrimoniales-de-los-senadores.md
 tags:
 - diputados
 - heatmap
 - parlamento
 - r
 - votaciones
+title: ¿Siguen votando igual los diputados?
+url: /2018/11/08/siguen-votando-igual-los-diputados/
 ---
 
 Hace seis años escribí [esto](https://www.datanalytics.com/2012/09/20/como-votan-los-diputados/). Hoy actualizo aquella entrada para crear

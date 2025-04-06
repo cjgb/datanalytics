@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-04-30 06:51:55+00:00
-draft: false
-title: 'Embalses en España: otro ejercicio inconcluso de "web scraping"'
-
-url: /2014/04/30/embalses-en-espana-otro-ejercicio-inconcluso-de-web-scraping/
 categories:
 - r
+date: 2014-04-30 06:51:55+00:00
+draft: false
+lastmod: '2025-04-06T18:44:34.957942'
+related:
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
+- 2011-11-03-2872.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
 tags:
 - embalses
 - r
 - scraping
+title: 'Embalses en España: otro ejercicio inconcluso de "web scraping"'
+url: /2014/04/30/embalses-en-espana-otro-ejercicio-inconcluso-de-web-scraping/
 ---
 
 Vi el otro día que alguien había conseguido datos de la entrada en funcionamiento de las presas de EE.UU. y me picó la curiosidad: ¿se podrán conseguir también para España?

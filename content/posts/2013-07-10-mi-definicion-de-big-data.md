@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-07-10 07:33:03+00:00
-draft: false
-title: Mi definición de "big data"
-
-url: /2013/07/10/mi-definicion-de-big-data/
 categories:
 - ciencia de datos
 - programación
+date: 2013-07-10 07:33:03+00:00
+draft: false
+lastmod: '2025-04-06T18:52:19.400935'
+related:
+- 2014-07-09-estrategias-escalables-con-r.md
+- 2011-09-28-datos-grandes-colas-largas.md
+- 2012-11-21-260gb-es-big-data.md
+- 2011-03-10-r-hdf5-y-bases-de-datos-orientadas-a-columnas.md
+- 2012-07-18-conferencia-sobre-grandes-datos.md
 tags:
 - programación
 - grandes datos
 - ciencia de datos
 - software
+title: Mi definición de "big data"
+url: /2013/07/10/mi-definicion-de-big-data/
 ---
 
 No sin descaro, me atrevo a aportar una definición alternativa a eso que llaman _big data_ y que yo traduzco en ocasiones como _grandes datos_.

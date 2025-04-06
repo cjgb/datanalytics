@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-06-01 09:13:44+00:00
-draft: false
-title: ¿Alguien podría identificar tirios y troyanos?
-
-url: /2016/06/01/alguien-podria-identificar-tirios-y-troyanos/
 categories:
 - estadística
+date: 2016-06-01 09:13:44+00:00
+draft: false
+lastmod: '2025-04-06T18:45:11.633686'
+related:
+- 2017-05-11-cosas-de-twitter-y-encuestas.md
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
+- 2016-05-05-encuestas-electorales-medios-y-sesgos-i.md
+- 2014-11-04-dislexia-probabilistica.md
 tags:
 - cis
 - correspondencias
 - encuestas
 - tablas de contingencia
 - cca
+title: ¿Alguien podría identificar tirios y troyanos?
+url: /2016/06/01/alguien-podria-identificar-tirios-y-troyanos/
 ---
 
 Con los datos

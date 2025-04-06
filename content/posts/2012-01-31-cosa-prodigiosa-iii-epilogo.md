@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-01-31 06:49:32+00:00
-draft: false
-title: 'Cosa prodigiosa (III): epílogo'
-
-url: /2012/01/31/cosa-prodigiosa-iii-epilogo/
 categories:
 - probabilidad
+date: 2012-01-31 06:49:32+00:00
+draft: false
+lastmod: '2025-04-06T18:45:16.922449'
+related:
+- 2012-01-19-cosa-prodigiosa-ahora-con-palabras-ii.md
+- 2014-01-09-como-apostar-si-tienes-que.md
+- 2018-10-10-un-resultado-probabilistico-contraintuitivo-parte-i.md
+- 2011-05-12-c2bfque-nos-jugamos.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
 tags:
 - probabilidad
 - parrondo
 - martingala
+title: 'Cosa prodigiosa (III): epílogo'
+url: /2012/01/31/cosa-prodigiosa-iii-epilogo/
 ---
 
 Escribo desde mi retiro vacacional, en el hemisferio inhabitual, sin _wifis_ y casi de memoria para completar [la historia que comencé hace dos semanas](http://www.datanalytics.com/2012/01/12/cosa-prodigiosa-sin-palabras-i/) en esta bitácora.
@@ -44,4 +50,3 @@ Cierro esta discusión con dos ejercicios para mis lectores:
 
 * Probar que con las probabilidades que se indican en el libro de Paulos, el ejemplo no funciona, i.e., que hay un error en su libro. ¡O no!
 * Identificar el otro _gran_ contraejemplo del del teorema del tiempo de espera que se cita por doquier y la ciudad rusa a la que se asocia.
-

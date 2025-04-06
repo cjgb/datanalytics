@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-08-03 08:13:17+00:00
-draft: false
-title: Ajuste de probabilidades en regresiones logísticas bajo sobremuestreo ( y otros)
-
-url: /2015/08/03/ajuste-de-probabilidades-en-regresiones-logisticas-bajo-sobremuestreo-y-otros/
 categories:
 - estadística
 - r
+date: 2015-08-03 08:13:17+00:00
+draft: false
+lastmod: '2025-04-06T19:09:15.713439'
+related:
+- 2014-11-17-los-coeficientes-de-la-regresion-logistica-con-sobremuestreo.md
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2015-07-06-una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica.md
+- 2015-01-27-grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-variables-categoricas.md
+- 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
 tags:
 - estadística
 - r
 - regresión logística
+title: Ajuste de probabilidades en regresiones logísticas bajo sobremuestreo ( y otros)
+url: /2015/08/03/ajuste-de-probabilidades-en-regresiones-logisticas-bajo-sobremuestreo-y-otros/
 ---
 
 En ocasiones el conjunto de datos sobre el que se ajusta una regresión logística está desequilibrado con respecto a la población subyacente. Por ejemplo, puede suceder que la tasa de casos positivos en los datos sea del 20% mientras que en la población general es del 5%.

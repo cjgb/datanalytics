@@ -1,22 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-11-03 09:13:00+00:00
-draft: false
-title: 'Más sobre aquel concepto estadístico que aconsejé desaprender: la suficiencia'
-
-url: /2021/11/03/mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia/
 categories:
 - artículos
 - estadística
+date: 2021-11-03 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:03:29.495645'
+related:
+- 2013-07-09-conceptos-estadisticos-que-desaprender-suficiencia.md
+- 2022-06-28-que-hace-avanzar-la-estadistica.md
+- 2024-10-17-interpretacion-modelos.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
 tags:
 - artículos
 - estadística
 - fisher
 - suficiencia
+title: 'Más sobre aquel concepto estadístico que aconsejé desaprender: la suficiencia'
+url: /2021/11/03/mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia/
 ---
-
-
-
 
 En esta entrada abundo en una que escribí hace ocho años: [Conceptos estadísticos que desaprender: la suficiencia](https://www.datanalytics.com/2013/07/09/conceptos-estadisticos-que-desaprender-suficiencia/). Lo hago porque casualmente he tropezado con su origen y justificación primera, el afamado artículo _[On the Mathematical Foundations of Theoretical Statistics](http://l.academicdirect.org/Horticulture/GAs/Refs/Fisher_1922_Estimation.pdf)_ del nunca suficientemente encarecido R.A. Fisher.
 

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-24 08:13:42+00:00
-draft: false
-title: ¿13.100 más/menos cuántos parados menos?
-
-url: /2015/04/24/el-sujeto-numero-82694/
 categories:
 - estadística
 - números
+date: 2015-04-24 08:13:42+00:00
+draft: false
+lastmod: '2025-04-06T19:06:57.468222'
+related:
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+- 2014-12-09-ruido-en-las-estadisticas-oficiales.md
+- 2018-03-22-poblacion-el-padron-y-la-otra-cosa.md
+- 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
+- 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 tags:
 - encuestas
 - epa
 - ine
 - varianza
+title: ¿13.100 más/menos cuántos parados menos?
+url: /2015/04/24/el-sujeto-numero-82694/
 ---
 
 ¿Cuál es la cifra de variación del número de parados de la que hablan la última EPA y los medios? [13100](http://economia.elpais.com/economia/2015/04/23/empleo/1429775090_629440.html).

@@ -1,14 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2024-09-26
-title: 'Exigencias aisladas de rigor (estadístico)'
-url: /2024/09/26/exigencias-aisladas-rigor
 categories:
 - estadística
+date: 2024-09-26
+lastmod: '2025-04-06T18:57:56.065707'
+related:
+- 2023-10-03-muestreo-superricos.md
+- 2024-07-03-cortos-stats.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2021-12-07-estadistica-vs-siquiatria-la-aparente-contradiccion-la-profunda-sintesis.md
+- 2023-06-27-seeing-like-market.md
 tags:
 - estadística
 - mala ciencia
 - metodología
+title: Exigencias aisladas de rigor (estadístico)
+url: /2024/09/26/exigencias-aisladas-rigor
 ---
 
 ### I.

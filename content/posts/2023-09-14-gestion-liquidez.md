@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2023-09-14
-title: 'Gestión de la liquidez en tiempos de inflación'
-
-url: /2023/09/14/gestion-liquidez/
 categories:
 - varios
+date: 2023-09-14
+lastmod: '2025-04-06T18:49:34.514263'
+related:
+- 2023-09-21-inversiones-renta-variable.md
+- 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
+- 2011-10-25-liquidez-y-solvencia.md
+- 2023-03-16-negocio-bancario.md
+- 2011-07-26-c2bfque-es-un-banco-c2bfque-son-las-pruebas-de-resistencia-en-primera-derivada.md
 tags:
 - finanzas
 - inversiones
+title: Gestión de la liquidez en tiempos de inflación
+url: /2023/09/14/gestion-liquidez/
 ---
 
 ### I.

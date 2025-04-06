@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-01-21 08:13:04+00:00
-draft: false
-title: ¿A cuántos zombis conoces?
-
-url: /2016/01/21/a-cuantos-zombis-conoces/
 categories:
 - estadística
+date: 2016-01-21 08:13:04+00:00
+draft: false
+lastmod: '2025-04-06T18:59:20.012694'
+related:
+- 2023-10-03-muestreo-superricos.md
+- 2016-01-22-analisis-estadistico-de-respuestas-ocultas-en-encuestas.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2020-05-07-coronavirus-cualitativo.md
+- 2020-03-11-analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas.md
 tags:
 - encuestas
 - estadística
 - zombis
+title: ¿A cuántos zombis conoces?
+url: /2016/01/21/a-cuantos-zombis-conoces/
 ---
 
 El artículo cuya lectura propongo hoy comienza así:

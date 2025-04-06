@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-09-07 07:45:36+00:00
-draft: false
-title: 'El paquete reshape de R (I): melt'
-
-url: /2011/09/07/el-paquete-reshape-de-r-i-melt/
 categories:
 - r
+date: 2011-09-07 07:45:36+00:00
+draft: false
+lastmod: '2025-04-06T18:56:09.047646'
+related:
+- 2016-05-17-melt-y-cast-en-spark-con-scala.md
+- 2015-03-12-datos-en-formato-largo-y-melt.md
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2022-09-20-tools-etl-memory.md
 tags:
 - r
 - reshape
 - paquetes
+title: 'El paquete reshape de R (I): melt'
+url: /2011/09/07/el-paquete-reshape-de-r-i-melt/
 ---
 
 El [paquete _reshape_ de R](http://had.co.nz/reshape/) consta esencialmene de dos funciones, `melt` y `cast`, muy útiles para determinado tipo de transformaciones de de datos.
@@ -64,5 +70,3 @@ produc.m
 
 
 El próximo día nos ocuparamos de su función compañera, `cast`.
-
-

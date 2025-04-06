@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-08-05 07:57:34+00:00
-draft: false
-title: Medianas ponderadas en R
-
-url: /2013/08/05/medianas-ponderadas/
 categories:
 - estadística
 - r
+date: 2013-08-05 07:57:34+00:00
+draft: false
+lastmod: '2025-04-06T19:04:41.344411'
+related:
+- 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
+- 2017-04-12-experimentos-con-extremely-small-data-la-media-muestral-de-pocas-betas.md
+- 2014-06-09-por-que-de-los-minimos-cuadrados-con-restricciones.md
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2021-05-18-un-viejo-truco-para-que-r-vuele.md
 tags:
 - cuantil
 - estadística
 - mediana
 - r
 - regresión
+title: Medianas ponderadas en R
+url: /2013/08/05/medianas-ponderadas/
 ---
 
 La mediana de `1:3` es 2. Pero puede ser que queramos dar a `1:3` los pesos 2, 1, 2. En ese caso, el cálculo de la mediana sigue siendo sencillo (y sigue siendo 2). Pero la situación puede complicarse más.

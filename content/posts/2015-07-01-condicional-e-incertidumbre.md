@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-01 08:13:43+00:00
-draft: false
-title: Condicional e incertidumbre
-
-url: /2015/07/01/condicional-e-incertidumbre/
 categories:
 - números
+date: 2015-07-01 08:13:43+00:00
+draft: false
+lastmod: '2025-04-06T19:13:18.500525'
+related:
+- 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2014-11-04-dislexia-probabilistica.md
+- 2016-11-29-probabilidades-de-empates-en-elecciones.md
+- 2016-11-10-pesadumbre-e-incertidumbre-desencadenadas.md
 tags:
 - condicional
 - incertidumbre
 - prensa
+title: Condicional e incertidumbre
+url: /2015/07/01/condicional-e-incertidumbre/
 ---
 
 En una charla hace un tiempo critiqué que no se usase el condicional en [titulares](http://politica.elpais.com/politica/2015/05/07/actualidad/1430996420_482987.html) tales como

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-08-01 07:11:51+00:00
-draft: false
-title: Reetiquetar factores en R
-
-url: /2012/08/01/reetiquetar-factores-en-r/
 categories:
 - r
+date: 2012-08-01 07:11:51+00:00
+draft: false
+lastmod: '2025-04-06T18:54:59.034077'
+related:
+- 2011-02-15-como-reordenar-niveles-de-factores-en-r.md
+- 2018-01-08-recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda.md
+- 2014-09-19-primer-elemento-de-un-grupo-dentro-de-un-dataframe-de-r.md
+- 2010-08-17-una-tarea-para-mis-lectores.md
+- 2019-08-05-dplyr-parece-que-prefiere-los-factores.md
 tags:
 - r
 - trucos
+title: Reetiquetar factores en R
+url: /2012/08/01/reetiquetar-factores-en-r/
 ---
 
 La operación que voy a discutir hoy es una que plantea problemas a muchos programadores nuevos en R: cómo renombrar niveles de un factor. Un caso típico ocurre al leer una tabla que contiene datos no normalizados. Por ejemplo,

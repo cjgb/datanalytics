@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2013-05-08 07:17:59+00:00
-draft: false
-title: Dependencias funcionales en R con foodweb
-
-url: /2013/05/08/dependencias-funcionales-en-r-con-foodweb/
 categories:
 - programación
 - r
+date: 2013-05-08 07:17:59+00:00
+draft: false
+lastmod: '2025-04-06T19:06:38.217728'
+related:
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2014-09-24-plyr-dplyr-data-table-que-opinas.md
+- 2019-08-05-dplyr-parece-que-prefiere-los-factores.md
+- 2016-07-12-dos-nuevos-tutoriales-sobre-data-table-y-dplyr.md
+- 2011-10-26-herramientas-de-depuracion-en-r.md
 tags:
 - programación
 - mvbutils
 - plyr
 - r
+title: Dependencias funcionales en R con foodweb
+url: /2013/05/08/dependencias-funcionales-en-r-con-foodweb/
 ---
 
 El otro día tropecé con un problema de rendimiento con R y al utilizar `Rprof()` encontré muchas llamadas a funciones que yo no hacía directamente.

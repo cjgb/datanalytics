@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-11-20 09:13:00+00:00
-draft: false
-title: 'Distancias (IV): la solución rápida y sucia'
-
-url: /2020/11/20/distancias-iv-la-solucion-rapida-y-sucia/
 categories:
 - ciencia de datos
 - consultoría
 - estadística
+date: 2020-11-20 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:44:50.279435'
+related:
+- 2020-11-23-distancias-v-el-colofon-ironico-especulativo.md
+- 2020-11-03-distancias-ii-las-distancias-no-son-distancias.md
+- 2020-11-02-distancias-i-el-planteamiento-del-problema.md
+- 2020-11-06-distancias-iii-la-gran-pregunta.md
+- 2022-11-04-umap-tsne-etc.md
 tags:
 - ciencia de datos
 - consultoría
 - distancia
 - estadística
+title: 'Distancias (IV): la solución rápida y sucia'
+url: /2020/11/20/distancias-iv-la-solucion-rapida-y-sucia/
 ---
 
 [Prometí](https://www.datanalytics.com/2020/11/06/distancias-iii-la-gran-pregunta/) (d)escribir una solución rápida y sucia para la construcción de distancias cuando fallan las _prêt à porter_ (euclídeas, Gower, etc.).

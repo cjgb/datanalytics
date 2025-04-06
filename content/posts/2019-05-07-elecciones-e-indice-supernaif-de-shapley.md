@@ -1,23 +1,26 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-05-07 09:13:34+00:00
-draft: false
-title: Elecciones e índice (supernaíf) de Shapley
-
-url: /2019/05/07/elecciones-e-indice-supernaif-de-shapley/
 categories:
 - estadística
 - r
+date: 2019-05-07 09:13:34+00:00
+draft: false
+lastmod: '2025-04-06T19:06:30.628454'
+related:
+- 2016-07-04-gestion-de-la-mendacidad-encuestoelectoral-los-numeros.md
+- 2015-12-23-un-poco-mas-sobre-el-indice-de-poder-de-banzhaf.md
+- 2017-01-25-el-numero-efectivo-de-partidos.md
+- 2012-04-04-de-dhondt-a-banzhaf.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
 tags:
 - atribución
 - paquetes
 - r
 - shapley
 - teoría de juegos
+title: Elecciones e índice (supernaíf) de Shapley
+url: /2019/05/07/elecciones-e-indice-supernaif-de-shapley/
 ---
-
-
-
 
 Aprovechando que el paquete [`GameTheoryAllocation`](https://cran.r-project.org/package=GameTheoryAllocation) ha emergido de mi FIFO de pendientes a los pocos días de conocerse los resultados de las [adjetivo superlativizado omitidísimo] elecciones generales, voy a calcular de la manera más naíf que se me ocurre el [índice de Shapley](https://en.wikipedia.org/wiki/Shapley_value) de los distintos partidos. Que es:
 

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2014-10-29 07:13:49+00:00
-draft: false
-title: Análisis discriminante a la Ortega y Gasset
-
-url: /2014/10/29/analisis-discriminante-a-la-ortega-y-gasset/
 categories:
 - varios
+date: 2014-10-29 07:13:49+00:00
+draft: false
+lastmod: '2025-04-06T18:50:33.615821'
+related:
+- 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2014-04-23-demasiado-simple.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - números
 - ortega
+title: Análisis discriminante a la Ortega y Gasset
+url: /2014/10/29/analisis-discriminante-a-la-ortega-y-gasset/
 ---
 
 Los eventos que han sucedido en los últimos días en España (y los que habrán de acontecer muy pronto) me han traído a la memoria y me han urgido a reproducir un breve escrito de Ortega. Pensado para su lectura por _los niños españoles_ —que, se ve, no le hicieron mucho caso— y datado en 1928, es necesario como nunca para los adultos de hoy.

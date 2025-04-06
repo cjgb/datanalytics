@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-17 22:53:32+00:00
-draft: false
-title: Siete consejos para expertos en análisis de datos
-
-url: /2010/11/17/siete-consejos-para-expertos-en-analisis-de-datos/
 categories:
 - consultoría
 - estadística
+date: 2010-11-17 22:53:32+00:00
+draft: false
+lastmod: '2025-04-06T18:49:00.382278'
+related:
+- 2022-09-20-tools-etl-memory.md
+- 2015-02-09-ejercicios-de-mi-clase-de-r.md
+- 2014-03-12-veinte-paquetes-de-r-para-cientificos-de-datos.md
+- 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
+- 2011-03-04-1680.md
 tags:
 - consultoría
 - estadística
 - ciencia de datos
+title: Siete consejos para expertos en análisis de datos
+url: /2010/11/17/siete-consejos-para-expertos-en-analisis-de-datos/
 ---
 
 En mis deambulaciones por internet topé con una [página interesante](http://dataspora.com/blog/the-seven-secrets-of-successful-data-scientists/) que bien merece ser comentada en este blog. Enumera siete técnicas (o secretos en su formulación primigenia) que habrían de hacer suyas los expertos en análisis de datos. Son:
@@ -60,4 +66,3 @@ Las ideas ingeniosas no escalan. La simplicidad sí. Atente a los estándares, n
 
 * Crear módulos en C que accediesen a las estructuras de datos primitivas de R y Python y las tradujesen.
 * Usar[ JSON](http://es.wikipedia.org/wiki/JSON): muchos de los objetos de R pueden codificarse decodificarse como objetos JSON; lo mismo pasa con Python. Por lo tanto, es fácil trasferir objetos entre uno y otro. Más aún, la biblioteca de manipulación de objetos JSON de R era tremendamente ineficiente. Y eso generaba un cuello de botella importante en mi código. Sin embargo, el autor de la biblioteca decidió reescribirla para mejorar su eficiencia. Como consecuencia, yo, sin hacer nada en absoluto, me beneficié de su esfuerzo: ¡la ineficiencia se arregló sola!
-

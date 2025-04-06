@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-02-14 09:51:19+00:00
-draft: false
-title: ¿Más óptimo? Uffff...
-
-url: /2011/02/14/mas-optimo-uffff/
 categories:
 - consultoría
 - varios
+date: 2011-02-14 09:51:19+00:00
+draft: false
+lastmod: '2025-04-06T19:06:55.880031'
+related:
+- 2018-10-09-la-etica-como-un-problema-de-aproximacion-funcional.md
+- 2011-03-15-metodologia-casuistica-y-tipologia.md
+- 2015-12-09-droga-dura-el-retorno-de-los-chamanes.md
+- 2014-10-29-analisis-discriminante-a-la-ortega-y-gasset.md
+- 2017-01-30-sobre-las-miserias-de-la-universidad.md
 tags:
 - consultoría
+title: ¿Más óptimo? Uffff...
+url: /2011/02/14/mas-optimo-uffff/
 ---
 
 No voy a descubrir nada diciendo que cada gremio utiliza una jerga característica. Y que la que se maneja en disciplinas tales como la consultoría, la informática y la práctica de las ciencias aplicadas está tremendamente influida por lenguas extranjeras.

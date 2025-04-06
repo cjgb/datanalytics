@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-07-13 08:13:02+00:00
-draft: false
-title: Casillas puede ser un portero mediocre, pero quienes analizan sus números lo
-  son aún más
-
-url: /2015/07/13/casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas/
 categories:
 - estadística
 - r
+date: 2015-07-13 08:13:02+00:00
+draft: false
+lastmod: '2025-04-06T18:56:32.295250'
+related:
+- 2015-07-15-un-modelo-jerarquico-para-lo-de-casillas.md
+- 2015-09-02-respuestas-distintas-a-la-misma-pregunta.md
+- 2011-08-03-clustering-iii-sobresimplificacion.md
+- 2012-02-23-higiene-numerica-para-periodistas.md
+- 2011-08-21-comparacion-de-variables-aleatorias-de-poisson.md
 tags:
 - casillas
 - estadística
 - fútbol
 - prop.test
+title: Casillas puede ser un portero mediocre, pero quienes analizan sus números lo
+  son aún más
+url: /2015/07/13/casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas/
 ---
 
 Voy a hablar de fútbol. Voy a comentar [esto](http://www.elespanol.com/actualidad/el-declive-de-iker-casillas-en-datos/). Contiene y argumenta alrededor de
@@ -97,4 +103,3 @@ Y cierro con tres comentarios:
 * A veces, los números no dicen nada y es mejor callarse. Afortunadamente, estoy en una situación en que me puedo permitir aplicarme el cuento. A otros se les exigen resultados, sean ciertos o no, para ganarse el pan. ¡Pobrecicos!
 * La eficiencia de un hospital se mide en términos de estadísticos ajustados por riesgo. No es lo mismo dejarse morir a un infartado que a alguien con una dolencia mucho más leve. Igualmente, no es lo mismo parar un tiro a quemarropa que otro flojón desde fuera del área que da tiempo al portero a peinarse el flequillo. Afortunadamente, nuestra sociedad no está tan enferma como para recoger información detallada sobre la peligrosidad de los tiros a puerta.
 * Pese a mis manifestaciones de rigor matemático, he sido muy consciente mientras escribía lo que precede de [este artículo](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf) en el que se critica lo que he hecho. A ver si saco tiempo estos días para rehacer el estudio como Gelman manda.
-

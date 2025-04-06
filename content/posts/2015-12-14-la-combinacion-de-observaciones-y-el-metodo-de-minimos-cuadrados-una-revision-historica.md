@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-12-14 08:13:35+00:00
-draft: false
-title: 'La combinación de observaciones y el método de mínimos cuadrados: una revisión
-  histórica'
-
-url: /2015/12/14/la-combinacion-de-observaciones-y-el-metodo-de-minimos-cuadrados-una-revision-historica/
 categories:
 - estadística
+date: 2015-12-14 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T19:08:46.539519'
+related:
+- 2021-10-26-sobre-las-r2-pequenas-y-sus-interpretaciones.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2020-02-24-to-irls-or-not-to-irls.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2024-03-05-sobreajuste-modelos-bayesianos.md
 tags:
 - estadística
 - historia
 - mínimos cuadrados
+title: 'La combinación de observaciones y el método de mínimos cuadrados: una revisión
+  histórica'
+url: /2015/12/14/la-combinacion-de-observaciones-y-el-metodo-de-minimos-cuadrados-una-revision-historica/
 ---
 
 Sabemos y se sabe desde hace mucho que un sistema lineal de n ecuaciones con m incógnitas, cuando n > m (y especialmente cuando n >> m), muy probablemente no tenga solución. No obstante, sistemas así ocurren naturalmente: ahí está el modelo lineal.

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-01-17 08:13:15+00:00
-draft: false
-title: 'Mejores predictores: un ejemplo (el de Brier)'
-
-url: /2019/01/17/mejores-predictores-un-ejemplo-el-de-brier/
 categories:
 - estadística
+date: 2019-01-17 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T18:48:32.813552'
+related:
+- 2019-01-21-scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal.md
+- 2019-01-16-una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor.md
+- 2022-02-17-examenes-probabilisticos.md
+- 2022-05-24-log-scoring-mv.md
+- 2022-05-26-crps.md
 tags:
 - predicción
 - scorings
 - brier
+title: 'Mejores predictores: un ejemplo (el de Brier)'
+url: /2019/01/17/mejores-predictores-un-ejemplo-el-de-brier/
 ---
 
 La entrada de hoy casi me la escribe un comentarista (al que le estoy muy agradecido) ayer. Retomo el tema.

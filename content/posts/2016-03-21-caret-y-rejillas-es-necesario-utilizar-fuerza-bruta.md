@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2016-03-21 09:13:25+00:00
-draft: false
-title: 'Caret y rejillas: ¿es necesario utilizar fuerza bruta?'
-
-url: /2016/03/21/caret-y-rejillas-es-necesario-utilizar-fuerza-bruta/
 categories:
 - ciencia de datos
 - r
+date: 2016-03-21 09:13:25+00:00
+draft: false
+lastmod: '2025-04-06T18:52:24.161113'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2017-09-11-pues-los-svms-al-final-no-son-tan-exoticos.md
+- 2020-02-24-to-irls-or-not-to-irls.md
+- 2023-11-14-cuantas-iteraciones-mcmc.md
+- 2024-12-03-cortos-stats.md
 tags:
 - caret
 - optimización
 - r
+title: 'Caret y rejillas: ¿es necesario utilizar fuerza bruta?'
+url: /2016/03/21/caret-y-rejillas-es-necesario-utilizar-fuerza-bruta/
 ---
 
 Durante la [charla de Carlos Ortega del pasado jueves sobre el paquete `caret` y sus concomitancias](https://prezi.com/0gsib_jcetim/bombas-r-caret-modelos-y-otros-animales/), se planteó el asunto de la optimización de los parámetros de un modelo usando rejillas (_grids_) de búsqueda.

@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2012-11-07 14:41:14+00:00
-draft: false
-title: MapReduce con mincedmeat
-
-url: /2012/11/07/mapreduce-con-mincedmeat/
 categories:
 - programación
 - nlp
+date: 2012-11-07 14:41:14+00:00
+draft: false
+lastmod: '2025-04-06T19:05:02.990171'
+related:
+- 2024-02-06-llm-obsidian.md
+- 2010-11-17-siete-consejos-para-expertos-en-analisis-de-datos.md
+- 2011-02-28-programacion-funcional-en-r-reduce.md
+- 2012-09-25-predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r.md
+- 2022-06-02-orgamizacion-proyectos-datos.md
 tags:
 - programación
 - mapreduce
 - nlp
 - python
+title: MapReduce con mincedmeat
+url: /2012/11/07/mapreduce-con-mincedmeat/
 ---
 
 Hace unos días implementé un proceso MapReduce usando [`mincedmeat`](https://github.com/michaelfairley/mincemeatpy), un pequeño entorno en Python para desarrollar este tipo de procesos distribuidos. El código y los datos pueden descargarse de [este enlace](http://datanalytics.com/uploads/mapreduce.zip).

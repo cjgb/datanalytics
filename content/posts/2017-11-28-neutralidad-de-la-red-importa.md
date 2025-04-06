@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-11-28 08:13:47+00:00
-draft: false
-title: 'Neutralidad de la red: ¿importa?'
-
-url: /2017/11/28/neutralidad-de-la-red-importa/
 categories:
 - varios
+date: 2017-11-28 08:13:47+00:00
+draft: false
+lastmod: '2025-04-06T19:13:24.355131'
+related:
+- 2024-05-14-neutralidad-red.md
+- 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md
+- 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
+- 2012-10-04-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos-ii.md
+- 2025-01-28-cortos-stats.md
 tags:
 - internet
 - neutralidad en la red
+title: 'Neutralidad de la red: ¿importa?'
+url: /2017/11/28/neutralidad-de-la-red-importa/
 ---
 
 Mi opinión, en tanto que nadie me dé argumentos para reconsiderarla, es que no.

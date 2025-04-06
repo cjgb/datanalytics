@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-01-26 17:59:00+00:00
-draft: false
-title: ¿Qué modelas cuando modelas?
-
-url: /2021/01/26/que-modelas-cuando-modelas/
 categories:
 - ciencia de datos
 - estadística
+date: 2021-01-26 17:59:00+00:00
+draft: false
+lastmod: '2025-04-06T18:59:00.752704'
+related:
+- 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
+- 2023-09-07-problema-modelos-bayesianos-identicabilidad.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2024-02-01-optimizacion-generalizacion.md
+- 2020-04-13-regresion-tradicional-vs-multinivel.md
 tags:
 - breiman
 - ciencia de datos
 - estadística
 - modelos
+title: ¿Qué modelas cuando modelas?
+url: /2021/01/26/que-modelas-cuando-modelas/
 ---
 
 Ahora que estoy trabajando en el capítulo dedicado a la modelización (clásica, frecuentista) de mi [libro](https://datanalytics.com/libro_estadistica/), me veo obligado no ya a resolver sino encontrar una vía razonable entre las tres ---¿hay más?--- posibles respuestas a esa pregunta.

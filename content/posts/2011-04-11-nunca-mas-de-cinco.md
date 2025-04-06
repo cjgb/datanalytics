@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-04-11 07:11:44+00:00
-draft: false
-title: Nunca más de cinco
-
-url: /2011/04/11/nunca-mas-de-cinco/
 categories:
 - consultoría
+date: 2011-04-11 07:11:44+00:00
+draft: false
+lastmod: '2025-04-06T18:58:40.914506'
+related:
+- 2023-10-03-muestreo-superricos.md
+- 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
+- 2010-08-16-leyendo-en-diagonal-pero-con-cuidado.md
+- 2024-07-03-cortos-stats.md
 tags:
 - consultoría
+title: Nunca más de cinco
+url: /2011/04/11/nunca-mas-de-cinco/
 ---
 
 Me preguntan a veces que por qué me gusta leer _The Economist_ (¿porque se nota que lo escribe gente muy inteligente, para variar?). Y me pregunto yo por qué leo a veces [McKinsey Quarterly](http://www.mckinseyquarterly.com/) (¿porque es gratis? ¿porque me aburro?). Lo que tiene la primera publicación de agudo, lo tiene la segunda de fome.

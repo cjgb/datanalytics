@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-01 09:13:27+00:00
-draft: false
-title: ¿Irán por aquí los tiros en el futuro de la "ciencia de datos"?
-
-url: /2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/
 categories:
 - artículos
 - ciencia de datos
 - programación
 - estadística
+date: 2019-04-01 09:13:27+00:00
+draft: false
+lastmod: '2025-04-06T18:58:16.459508'
+related:
+- 2013-07-10-mi-definicion-de-big-data.md
+- 2017-03-09-un-parrafo-afortunadisimo-sobre-las-nuevas-aptitudes.md
+- 2019-10-04-varian-sobre-el-muestreo.md
+- 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
+- 2014-07-09-estrategias-escalables-con-r.md
 tags:
 - big data
 - estadística bayesiana
+title: ¿Irán por aquí los tiros en el futuro de la "ciencia de datos"?
+url: /2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/
 ---
 
 Para muchos, el futuro de la llamada ciencia de datos seguirá la estela dejada por

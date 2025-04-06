@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-22 08:13:59+00:00
-draft: false
-title: No, la trigonometría babilónica no era "novedosa"
-
-url: /2017/09/22/no-la-trigonometria-babilonica-no-era-novedosa/
 categories:
 - varios
+date: 2017-09-22 08:13:59+00:00
+draft: false
+lastmod: '2025-04-06T19:11:23.566339'
+related:
+- 2015-09-11-correlaciones-insospechadas-de-la-geometria-moderna-al-catalan-hernan-cortes.md
+- 2017-03-07-en-contra-del-estado-de-derecho.md
+- 2015-11-11-ad-more-geometrico.md
+- 2012-03-13-las-palabras-esenciales-del-diccionario.md
+- 2020-07-15-mas-sobre-el-articulo-raro-raro-raro.md
 tags:
 - babilonia
 - historia
 - matemáticas
 - tablillas
+title: No, la trigonometría babilónica no era "novedosa"
+url: /2017/09/22/no-la-trigonometria-babilonica-no-era-novedosa/
 ---
 
 Supongo que en agosto todo vale en prensa. Así [_Solucionado un enigma matemático de 3.700 años_](https://elpais.com/elpais/2017/08/24/ciencia/1503599508_412430.html) y otros del mismo tenor en medios españoles y extranjeros (de algunos de los cuales se espera más). En el que cito dan pábulo a citas como:

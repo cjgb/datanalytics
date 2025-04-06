@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-04-22 08:13:16+00:00
-draft: false
-title: Madrid, ¿ciudad inteligente? ¿O tal vez solo un poco menos sorda?
-
-url: /2015/04/22/madrid-ciudad-inteligente/
 categories:
 - números
+date: 2015-04-22 08:13:16+00:00
+draft: false
+lastmod: '2025-04-06T19:03:15.590885'
+related:
+- 2016-09-13-madrid-ciudad-inteligente-2.md
+- 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
+- 2019-06-05-causalidad-atribucion-madrid-central.md
+- 2018-12-03-sobre-madrid-central.md
+- 2016-10-06-que-hagan-lo-que-quieran-en-plaza-de-espana-yo-la-verdad-no-tengo-tiempo-para-leer-350-mb-de-documentacion.md
 tags:
 - ciudad inteligente
 - iot
 - madrid
 - ayuntamiento
+title: Madrid, ¿ciudad inteligente? ¿O tal vez solo un poco menos sorda?
+url: /2015/04/22/madrid-ciudad-inteligente/
 ---
 
 [Madrid es la ciudad más inteligente de Europa](https://inarquia.es/el-proyecto-mint-convertira-a-madrid-en-la-ciudad-mas-inteligente-de-europa/). Gracias al proyecto MiNT, con un presupuesto de 14 millones, van a ocurrir cosas de lo más futurista:

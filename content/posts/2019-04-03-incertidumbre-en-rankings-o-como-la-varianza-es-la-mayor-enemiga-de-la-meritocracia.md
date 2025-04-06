@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-03 19:27:36+00:00
-draft: false
-title: Incertidumbre en ránkings (o cómo la varianza es la mayor enemiga de la meritocracia)
-
-url: /2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/
 categories:
 - artículos
 - estadística
+date: 2019-04-03 19:27:36+00:00
+draft: false
+lastmod: '2025-04-06T19:07:59.663837'
+related:
+- 2012-06-13-rankings-de-colegios-problemas-y-alternativas.md
+- 2020-02-06-model4you.md
+- 2024-07-03-cortos-stats.md
+- 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
+- 2012-07-06-el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones.md
 tags:
 - mérito
 - modelos mixtos
 - rankings
 - spiegelhalter
 - varianza
+title: Incertidumbre en ránkings (o cómo la varianza es la mayor enemiga de la meritocracia)
+url: /2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/
 ---
 
 Tengo por ahí leído y encolado el artículo _[League Tables and Their Limitations: Statistical Issues in Comparisons of Institutional Performance](http://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/statistical-issues-for-league-tables1.pdf)_ del perínclito Spiegelhalter que toma una serie de _ránkings_ (de colegios, de hospitales) y trata de medir cuánto tienen de sustancia y cuánto de ruido.

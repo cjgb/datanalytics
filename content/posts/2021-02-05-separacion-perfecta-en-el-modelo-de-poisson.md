@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2021-02-05 09:13:00+00:00
-draft: false
-title: Separación perfecta en el modelo de Poisson
-
-url: /2021/02/05/separacion-perfecta-en-el-modelo-de-poisson/
 categories:
 - estadística
 - r
+date: 2021-02-05 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:51:47.130127'
+related:
+- 2020-06-29-sobremuestreando-x-y-no-y.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
+- 2020-07-22-aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson.md
+- 2014-02-06-experimentos-con-el-paquete-gbm.md
+- 2010-10-25-una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas.md
 tags:
 - poisson
 - separación
 - zeileis
+title: Separación perfecta en el modelo de Poisson
+url: /2021/02/05/separacion-perfecta-en-el-modelo-de-poisson/
 ---
 
 El asunto de la separación perfecta en el modelo logístico es [sobradamente conocido](https://caminosaleatorios.wordpress.com/2017/11/29/regresion-logistica-y-datos-con-grupos-linealmente-separables/). Solo quiero añadir al respecto dos cosas que no se suelen decir:
@@ -69,6 +75,3 @@ aunque `glm` nos engaña y da por convergida una regresión que no lo está. De 
 Para saber más, y para que quede constancia de de dónde he sacado todo lo anterior, _[Bias Reduction as a Remedy to the Consequences of Infinite Estimates in Poisson and Tobit Regression](https://arxiv.org/abs/2101.07141)_ del, entre otros, genial y nunca suficientemente apreciado A. Zeileis.
 
 **Coda:** Apenas acabo lo anterior, me doy cuenta de que [ya había hablado del tema](https://www.datanalytics.com/2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/) de pasada hace un par de años largos.
-
-
-

@@ -1,17 +1,23 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2019-04-22 09:13:08+00:00
-draft: false
-title: ML y estadística, ¿cosas distintas?
-
-url: /2019/04/22/ml-y-estadistica-cosas-distintas/
 categories:
 - ciencia de datos
 - estadística
+date: 2019-04-22 09:13:08+00:00
+draft: false
+lastmod: '2025-04-06T18:54:47.537535'
+related:
+- 2020-07-24-rarezas-ml-algebraico.md
+- 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md
+- 2017-04-04-llego-llego-el-tiempo-de-la-ingenieria-estadistica.md
+- 2014-03-17-sobre-el-articulo-de-domingos.md
+- 2014-10-07-como-leais-esta-entrada-aprendereis-tanto-como-lo-que-desaprendereis.md
 tags:
 - aprendizaje automático
 - ciencia de datos
 - estadística
+title: ML y estadística, ¿cosas distintas?
+url: /2019/04/22/ml-y-estadistica-cosas-distintas/
 ---
 
 Recomiendo, sin comentarlo, un artículo muy desasosegador en el que se leen cosas como:

@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-24 08:13:40+00:00
-draft: false
-title: Tres de seis consejos para mejorar las regresiones
-
-url: /2017/10/24/tres-de-seis-consejos-para-mejorar-las-regresiones/
 categories:
 - estadística
+date: 2017-10-24 08:13:40+00:00
+draft: false
+lastmod: '2025-04-06T18:48:23.859102'
+related:
+- 2024-02-01-optimizacion-generalizacion.md
+- 2011-06-22-diez-mandamientos-del-analisis-de-datos.md
+- 2020-05-11-agregar-antes-de-modelar.md
+- 2015-07-10-calcular-una-regresion-a-mano-o-con-un-programa-puede-ser-mas-preciso.md
+- 2012-05-03-representacion-de-datos-asociados-a-grupos.md
 tags:
 - estadística
 - gelman
 - regresión
+title: Tres de seis consejos para mejorar las regresiones
+url: /2017/10/24/tres-de-seis-consejos-para-mejorar-las-regresiones/
 ---
 
 Por si alguien se lo perdió, están [aquí](http://andrewgelman.com/2015/01/29/six-quick-tips-improve-regression-modeling/). De los seis, mencionaré tres que me están resultando muy útiles en un proyecto actual.

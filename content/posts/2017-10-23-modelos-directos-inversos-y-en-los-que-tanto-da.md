@@ -1,13 +1,17 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-10-23 08:13:15+00:00
-draft: false
-title: Modelos directos, inversos y en los que tanto da
-
-url: /2017/10/23/modelos-directos-inversos-y-en-los-que-tanto-da/
 categories:
 - estadística
 - r
+date: 2017-10-23 08:13:15+00:00
+draft: false
+lastmod: '2025-04-06T19:05:06.240231'
+related:
+- 2017-10-16-modelos-no-lineales-directos-e-inversos.md
+- 2022-03-03-error-sesgo-modelos-lineales.md
+- 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
+- 2017-10-30-nls-con-odes.md
+- 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 tags:
 - estadística
 - nls
@@ -15,6 +19,8 @@ tags:
 - paquetes
 - r
 - regresión
+title: Modelos directos, inversos y en los que tanto da
+url: /2017/10/23/modelos-directos-inversos-y-en-los-que-tanto-da/
 ---
 
 Continúo con [esto](https://www.datanalytics.com/2017/10/16/modelos-no-lineales-directos-e-inversos/) que concluí con una discusión que me negué a resolver sobre la geometría de los errores.
@@ -69,6 +75,3 @@ y
     # Number of iterations to convergence: 11
     # Achieved convergence tolerance: 1.49e-08
 {{< / highlight >}}
-
-
-

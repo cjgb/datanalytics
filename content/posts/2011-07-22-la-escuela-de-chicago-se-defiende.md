@@ -1,16 +1,22 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-07-22 07:05:04+00:00
-draft: false
-title: La escuela de Chicago se defiende
-
-url: /2011/07/22/la-escuela-de-chicago-se-defiende/
 categories:
 - finanzas
 - números
+date: 2011-07-22 07:05:04+00:00
+draft: false
+lastmod: '2025-04-06T19:13:01.982250'
+related:
+- 2020-06-26-criptobayesianismo.md
+- 2011-07-15-nassim-taleb-y-el-problema-de-la-inferencia.md
+- 2024-07-03-cortos-stats.md
+- 2014-10-28-tres-sigmas-o-nanay.md
+- 2014-03-03-el-chocheo-de-los-dioses.md
 tags:
 - finanzas
 - mercados financieros
+title: La escuela de Chicago se defiende
+url: /2011/07/22/la-escuela-de-chicago-se-defiende/
 ---
 
 El [vídeo de Taleb](http://www.datanalytics.com/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/) que publiqué la semana pasada recoge un ataque frontal a un presunto vicio del entramado económico-financiero actual: su excesiva dependencia en la teoría y la _matematización_ de los mercados financieros. Hasta tal punto se ha cuestionado el papel de las matemáticas (y su responsabilidad en la reciente crisis financiera y bancaria) que la llamada Escuela de Chicago, cuna de toda esta arquitectura, está a la defensiva.

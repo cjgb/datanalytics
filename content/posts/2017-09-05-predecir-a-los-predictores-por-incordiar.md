@@ -1,12 +1,16 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2017-09-05 08:13:18+00:00
-draft: false
-title: Predecir a los predictores por incordiar
-
-url: /2017/09/05/predecir-a-los-predictores-por-incordiar/
 categories:
 - estadística
+date: 2017-09-05 08:13:18+00:00
+draft: false
+lastmod: '2025-04-06T18:52:30.845116'
+related:
+- 2020-12-14-encuestas-electorales-medios-y-sesgos.md
+- 2016-05-09-encuestas-electorales-medios-y-sesgos-ii.md
+- 2023-05-09-encuestas-predicciones-electorales.md
+- 2016-06-29-por-una-vez-accedo-a-hablar-de-algo-de-lo-que-no-se.md
+- 2018-10-01-acerca-del-cis-y-la-cocina.md
 tags:
 - elecciones
 - encuestas
@@ -14,6 +18,8 @@ tags:
 - sesgo
 - mala ciencia
 - estadística
+title: Predecir a los predictores por incordiar
+url: /2017/09/05/predecir-a-los-predictores-por-incordiar/
 ---
 
 Sirve esta entrada para hacer saber lo fundamental del trabajo de fin de master (TFM en lo que sigue) de [Susana Huedo](https://www.linkedin.com/in/susana-huedo-garc%C3%ADa-7478b1143/) (que busca trabajo y es una chica muy sabida, aplicada y espabilada) en el [CIFF](http://www.ciff.net/). Los TFM que propongo y acabo supervisando jamás tienen vocación de criogénesis anaquélica. A Susana le sugerí un tema muy _punk_ y con recorrido: [tratar de] predecir a los predictores. Fundamentalmente, para joder.

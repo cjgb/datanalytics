@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2015-09-09 08:13:14+00:00
-draft: false
-title: Cosas de R (¿que tal vez alguien sabrá explicar?)
-
-url: /2015/09/09/cosas-de-r-que-tal-vez-alguien-sabra-explicar/
 categories:
 - r
+date: 2015-09-09 08:13:14+00:00
+draft: false
+lastmod: '2025-04-06T19:08:52.196090'
+related:
+- 2013-11-22-un-pequeno-problema-de-probabilidad.md
+- 2010-04-21-para-que-copien-peguen-y-disfruten.md
+- 2015-02-25-todos-contra-todos.md
+- 2017-09-06-python-y-r-una-perspectiva-markoviana.md
+- 2014-10-16-aprende-r-con-swirl.md
 tags:
 - r
 - trucos
+title: Cosas de R (¿que tal vez alguien sabrá explicar?)
+url: /2015/09/09/cosas-de-r-que-tal-vez-alguien-sabra-explicar/
 ---
 
 En Twitter, leo

@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2011-03-08 09:59:28+00:00
-draft: false
-title: ¿Cómo mejorar tu estilo de programación en R?
-
-url: /2011/03/08/como-mejorar-tu-estilo-de-programacion-en-r/
 categories:
 - r
+date: 2011-03-08 09:59:28+00:00
+draft: false
+lastmod: '2025-04-06T18:49:17.655530'
+related:
+- 2010-11-01-una-propuesta-de-guia-de-estilo-de-r.md
+- 2014-01-27-guia-de-estilo-de-r-de-google.md
+- 2015-09-04-guias-de-estilo-para-programar-en-r.md
+- 2011-05-13-consejos-para-utilizar-r-en-produccion.md
+- 2011-06-21-desarrollo-de-paquetes-con-r-i-c2bfpara-que.md
 tags:
 - r
 - programación
+title: ¿Cómo mejorar tu estilo de programación en R?
+url: /2011/03/08/como-mejorar-tu-estilo-de-programacion-en-r/
 ---
 
 En un hilo reciente en la lista de desarrollo de R ha habido una discusión interesante acerca de [buenas prácticas a la hora programar con R](http://r.789695.n4.nabble.com/Request-Suggestions-for-quot-good-teaching-quot-packages-esp-with-C-code-td3307289.html) y concretamente, para desarrollar paquetes que contuviesen llamadas a código desarrollado en C/C++.

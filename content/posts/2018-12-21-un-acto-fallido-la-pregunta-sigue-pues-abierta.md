@@ -1,18 +1,24 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2018-12-21 08:13:35+00:00
-draft: false
-title: 'Un acto fallido: la pregunta sigue, pues, abierta'
-
-url: /2018/12/21/un-acto-fallido-la-pregunta-sigue-pues-abierta/
 categories:
 - números
 - varios
+date: 2018-12-21 08:13:35+00:00
+draft: false
+lastmod: '2025-04-06T18:48:14.822655'
+related:
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2017-01-16-weapons-of-math-destruction.md
 tags:
 - contrafactual
 - economía
 - historia
 - jotdown
+title: 'Un acto fallido: la pregunta sigue, pues, abierta'
+url: /2018/12/21/un-acto-fallido-la-pregunta-sigue-pues-abierta/
 ---
 
 [Jot Down](http://www.jotdown.es) es una publicación recomendable. Aunque frecuentemente peque de a lo que tienden las publicaciones _de letras_ (en el sentido menos amable del término): que prime el escribir bonito sobre la sustancia, el argumento y su coherencia.

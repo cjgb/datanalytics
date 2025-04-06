@@ -1,14 +1,20 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2010-11-25 09:25:30+00:00
-draft: false
-title: Transforma (los gráficos de) España
-
-url: /2010/11/25/transforma-los-graficos-de-espana/
 categories:
 - consultoría
+date: 2010-11-25 09:25:30+00:00
+draft: false
+lastmod: '2025-04-06T18:53:31.850230'
+related:
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2012-09-05-los-principales-problemas-de-espana.md
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 tags:
 - gráficos
+title: Transforma (los gráficos de) España
+url: /2010/11/25/transforma-los-graficos-de-espana/
 ---
 
 Ha aparecido en diversos medios la [noticia](http://www.fundacioneveris.es/sala-de-prensa/noticias/2010/transforma-espana.html) de la presentación al rey de una propuesta de la [Fundación Everis](http://www.fundacioneveris.es/) que ha venido a titular TransformaEspaña (así, junto). El estudio que define la propuesta

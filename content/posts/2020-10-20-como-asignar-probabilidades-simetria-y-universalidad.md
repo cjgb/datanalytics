@@ -1,15 +1,21 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-10-20 09:13:00+00:00
-draft: false
-title: ¿Cómo asignar probabilidades? Simetría y universalidad
-
-url: /2020/10/20/como-asignar-probabilidades-simetria-y-universalidad/
 categories:
 - probabilidad
+date: 2020-10-20 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T19:08:10.784144'
+related:
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
+- 2020-01-07-la-probabilidad-algo-subjetivo.md
+- 2014-06-25-el-indice-de-birrieza-para-distribuciones-de-probabilidad.md
 tags:
 - libros
 - probabilidad
+title: ¿Cómo asignar probabilidades? Simetría y universalidad
+url: /2020/10/20/como-asignar-probabilidades-simetria-y-universalidad/
 ---
 
 En los minutos 18 y unos pocos de los siguientes de

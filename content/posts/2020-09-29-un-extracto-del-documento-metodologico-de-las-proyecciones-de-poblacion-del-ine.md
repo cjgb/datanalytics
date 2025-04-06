@@ -1,19 +1,25 @@
 ---
 author: Carlos J. Gil Bellosta
-date: 2020-09-29 09:13:00+00:00
-draft: false
-title: Un extracto del documento metodológico de las proyecciones de población del
-  INE
-
-url: /2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/
 categories:
 - estadística
 - números
+date: 2020-09-29 09:13:00+00:00
+draft: false
+lastmod: '2025-04-06T18:48:12.732629'
+related:
+- 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
+- 2014-11-14-proyecciones-estimaciones-previsiones-operaciones-y-churros.md
+- 2020-09-23-este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita.md
+- 2011-10-18-estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola.md
+- 2021-05-27-todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine.md
 tags:
 - demografía
 - ine
 - proyecciones
 - simulación
+title: Un extracto del documento metodológico de las proyecciones de población del
+  INE
+url: /2020/09/29/un-extracto-del-documento-metodologico-de-las-proyecciones-de-poblacion-del-ine/
 ---
 
 Está extraído de [aquí](https://www.ine.es/metodologia/t20/meto_propob_2018_2068.pdf) y dice los siguiente:
@@ -33,6 +39,3 @@ Está extraído de [aquí](https://www.ine.es/metodologia/t20/meto_propob_2018_2
 ¿Le veis el sentido?
 
 P.D.: Véase [esto](https://www.datanalytics.com/2017/01/31/proyecciones-probabilisticas-de-poblacion/), de hace solo tres años.
-
-
-
