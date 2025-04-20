@@ -6,8 +6,9 @@ categories:
 - probabilidad
 date: 2025-04-03
 tags:
-- llms
-- hugo
+- probabilidad
+- epistemología
+- distribuciones
 url: /2025/04/03/distribuciones-probabilidad-naturaleza
 ---
 
