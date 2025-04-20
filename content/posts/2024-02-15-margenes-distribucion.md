@@ -12,7 +12,8 @@ related:
 - 2015-10-14-del-hombre-medio-a-la-factura-media.md
 tags:
 - estadística pública
-- distribución
+- distribución de electricidad
+- mercado eléctrico
 - economía
 - margen comercial
 title: Unos números sobre los márgenes de la distribución
