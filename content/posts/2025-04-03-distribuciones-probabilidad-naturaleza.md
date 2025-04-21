@@ -5,13 +5,13 @@ categories:
 date: 2025-04-03
 description: Si la incertidumbre es solo epistemológica, ¿por qué observamos distribuciones
   de probabilidad en la naturaleza?
-lastmod: '2025-04-21T13:33:45.095707'
+lastmod: '2025-04-21T13:55:29.409930'
 related:
-- 2015-03-04-adaequatio-rei-et-analysis.md
-- 2021-03-04-sobre-el-teorema-de-aumann.md
-- 2019-08-15-relevante-para-entender-la-maldicion-de-la-dimensionalidad.md
-- 2023-11-21-sumas-lognormales.md
-- 2024-04-30-falacia-ecologica.md
+- 2021-10-28-dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteadas-por-keynes-en-1921-pero-que-siguen-hoy-igual-de-vigentes.md
+- 2011-03-11-riesgo-e-incertidumbre.md
+- 2016-09-28-como-se-escribia-verosimilitud-en-frances-en-1774.md
+- 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
+- 2022-11-24-ley-estadistico-inconsciente.md
 tags:
 - probabilidad
 - epistemología
