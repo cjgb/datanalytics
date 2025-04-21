@@ -1,14 +1,22 @@
 ---
-title: ¿Si la incertidumbre existe solamente en la mente, entonces, por qué...?
-description: "Si la incertidumbre es solo epistemológica, ¿por qué observamos distribuciones de probabilidad en la naturaleza?"
 author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2025-04-03
+description: Si la incertidumbre es solo epistemológica, ¿por qué observamos distribuciones
+  de probabilidad en la naturaleza?
+lastmod: '2025-04-21T13:33:45.095707'
+related:
+- 2015-03-04-adaequatio-rei-et-analysis.md
+- 2021-03-04-sobre-el-teorema-de-aumann.md
+- 2019-08-15-relevante-para-entender-la-maldicion-de-la-dimensionalidad.md
+- 2023-11-21-sumas-lognormales.md
+- 2024-04-30-falacia-ecologica.md
 tags:
 - probabilidad
 - epistemología
 - distribuciones
+title: ¿Si la incertidumbre existe solamente en la mente, entonces, por qué...?
 url: /2025/04/03/distribuciones-probabilidad-naturaleza
 ---
 
@@ -36,4 +44,3 @@ que aparecen en los libros que discuten las propiedades matemáticas de la incer
 ![Distribución normal en una puerta](/wp-uploads/2025/dist_04.jpg#center)
 
 , o tantas otras imágenes de la misma naturaleza? ¿Por que estarían empeñada la realidad en imitar formas que escondemos en lo hondo de nuestras mentes?
-
