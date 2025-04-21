@@ -16,7 +16,7 @@ tags:
 - probabilidad
 - epistemología
 - distribuciones
-title: ¿Si la incertidumbre existe solamente en la mente, entonces, por qué...?
+title: Si la incertidumbre existe solamente en la mente, entonces, ¿por qué...?
 url: /2025/04/03/distribuciones-probabilidad-naturaleza
 ---
 
