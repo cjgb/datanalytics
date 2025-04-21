@@ -14,6 +14,7 @@ related:
 tags:
 - paradojas
 - probabilidad
+- berkson
 title: La paradoja de Berkson
 url: /2015/10/19/la-paradoja-de-berkson/
 ---
