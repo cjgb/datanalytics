@@ -15,6 +15,7 @@ related:
 tags:
 - árboles de decisión
 - gigerenzer
+- árboles frugales
 - r
 title: 'Rápido y frugal: una digresión en la dirección inhabitual'
 url: /2016/07/13/rapido-y-frugal-una-digresion-en-la-direccion-inhabitual/
