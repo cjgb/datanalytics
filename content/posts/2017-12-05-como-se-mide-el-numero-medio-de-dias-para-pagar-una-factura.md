@@ -22,7 +22,7 @@ title: ¿Cómo se mide el número medio de días para pagar una factura?
 url: /2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/
 ---
 
-_[Esta entrada tiene una errata de la que doy fe [aquí](https://www.datanalytics.com/2020/05/29/no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire/).]_
+_[Esta entrada tiene una errata de la que doy fe [aquí](https://datanalytics.com/2020/05/29/no-leais-nada-de-lo-que-diga-este-inepto-no-sabe-por-donde-le-pega-el-aire/).]_
 
 Pues casi seguro que mal. Por eso hay que enfrentarse a noticia como [esta](https://elpais.com/economia/2017/12/02/actualidad/1512236215_757573.html) con escepticismo. En el cuerpo del artículo aparece el gráfico
 

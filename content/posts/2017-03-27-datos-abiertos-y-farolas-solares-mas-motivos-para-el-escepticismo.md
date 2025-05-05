@@ -20,7 +20,7 @@ title: 'Datos abiertos y farolas solares: más motivos para el escepticismo'
 url: /2017/03/27/datos-abiertos-y-farolas-solares-mas-motivos-para-el-escepticismo/
 ---
 
-La semana pasada hice constar [mi escepticismo acerca del poder transformativo de los datos abiertos](https://www.datanalytics.com/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/). Mencionaba dos ámbitos en los que existen datos no solo abiertos, sino abundantes y en tiempo real: el de los deportes y el de las finanzas. Y cómo, a pesar de ello, seguimos siendo, como sociedad, mendrugos tanto en lo deportivo como en lo financiero.
+La semana pasada hice constar [mi escepticismo acerca del poder transformativo de los datos abiertos](https://datanalytics.com/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/). Mencionaba dos ámbitos en los que existen datos no solo abiertos, sino abundantes y en tiempo real: el de los deportes y el de las finanzas. Y cómo, a pesar de ello, seguimos siendo, como sociedad, mendrugos tanto en lo deportivo como en lo financiero.
 
 Valga un tercer caso que dispongo a exponer.
 

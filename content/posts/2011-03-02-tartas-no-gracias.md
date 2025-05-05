@@ -35,7 +35,7 @@ La Wikipedia añade (mi traducción):
 
 >[...] es más difícil comparar el tamaño de los objetos de una gráfica cuando éstos, en lugar de en longitud, varían en área o forma. De acuerdo con la[ ley de las potencias de Stevens](http://en.wikipedia.org/wiki/Stevens%27_power_law), el exponente asociado al área es 0,7, mientras que el de la longitud es 1. Esto sugiere que la longitud es mejor escala: las diferenicas percibidas se corresponden linealmente con las verdaderas.
 
-La segunda tiene que ver con la violación de los tres principios más básicos del arte de la representación gráfica de datos, de los que [ya hablé previamente](http://www.datanalytics.com/2010/09/27/que-grafico-es-mejor/).  En particular, no son nada económicas: tienen un pésimo ratio información-tinta, como evidencia el siguiente gráfico,
+La segunda tiene que ver con la violación de los tres principios más básicos del arte de la representación gráfica de datos, de los que [ya hablé previamente](https://datanalytics.com/2010/09/27/que-grafico-es-mejor/).  En particular, no son nada económicas: tienen un pésimo ratio información-tinta, como evidencia el siguiente gráfico,
 
 [![](/wp-uploads/2011/02/analytics_piechart.jpg)
 ](/wp-uploads/2011/02/analytics_piechart.jpg)

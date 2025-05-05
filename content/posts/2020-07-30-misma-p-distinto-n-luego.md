@@ -68,4 +68,4 @@ En resumen:
 
 La pregunta: ¿qué circunstancia es más favorable? Una respuesta, [aquí](https://statmodeling.stat.columbia.edu/2015/10/13/what-do-you-learn-from-p-05-this-example-from-carl-morris-will-blow-your-mind/).
 
-**Coda:** Había olvidado que había escrito sobre el mismo asunto años atrás. Precisamente, en [_p, n y mi moneda de la suerte_](https://www.datanalytics.com/2011/12/20/p-n-y-mi-moneda-de-la-suerte/).
+**Coda:** Había olvidado que había escrito sobre el mismo asunto años atrás. Precisamente, en [_p, n y mi moneda de la suerte_](https://datanalytics.com/2011/12/20/p-n-y-mi-moneda-de-la-suerte/).

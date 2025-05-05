@@ -20,7 +20,7 @@ title: Remuestreos y tests de hipótesis
 url: /2014/11/10/remuestreos-y-tests-de-hipotesis/
 ---
 
-No sé si visteis [el vídeo que colgué el otro día](http://www.datanalytics.com/2014/11/06/estadistica-clasica-vs-remuestreo/). Trataba el problema de determinar si dos poblaciones
+No sé si visteis [el vídeo que colgué el otro día](https://datanalytics.com/2014/11/06/estadistica-clasica-vs-remuestreo/). Trataba el problema de determinar si dos poblaciones
 
 
 {{< highlight R >}}

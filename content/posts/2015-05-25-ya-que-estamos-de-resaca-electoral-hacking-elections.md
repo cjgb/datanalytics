@@ -24,4 +24,4 @@ Un pelo del perro que te mordió, decían, curaba la rabia. Un vaso de vino, la 
 
 Los detalles, mucho mejor contados que podría hacerlo yo, en el enlace anterior.
 
-**Nota:** no podré asistir por compromisos laborales y personales; pero no me lo habría perdido. Tengo un par de ideas sobre cómo podría montar un [cartograma](http://www.datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/) combinando los paquetes `sp` e `igraph` de R y pocos sitios como _Hacking Elections_ para tratar de ponerlas en negro sobre blanco.
+**Nota:** no podré asistir por compromisos laborales y personales; pero no me lo habría perdido. Tengo un par de ideas sobre cómo podría montar un [cartograma](https://datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/) combinando los paquetes `sp` e `igraph` de R y pocos sitios como _Hacking Elections_ para tratar de ponerlas en negro sobre blanco.

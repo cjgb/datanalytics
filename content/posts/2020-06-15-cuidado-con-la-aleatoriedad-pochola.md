@@ -22,7 +22,7 @@ title: Cuidado con la aleatoriedad "pochola"
 url: /2020/06/15/cuidado-con-la-aleatoriedad-pochola/
 ---
 
-Abundo sobre mi [entrada del otro día](https://www.datanalytics.com/2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/). Usando números aleatorios hirsutos,
+Abundo sobre mi [entrada del otro día](https://datanalytics.com/2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/). Usando números aleatorios hirsutos,
 
 {{< highlight R >}}
 n <- 200

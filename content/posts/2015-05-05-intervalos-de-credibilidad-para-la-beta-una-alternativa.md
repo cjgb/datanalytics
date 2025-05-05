@@ -20,7 +20,7 @@ title: 'Intervalos de credibilidad para la beta: una alternativa'
 url: /2015/05/05/intervalos-de-credibilidad-para-la-beta-una-alternativa/
 ---
 
-A partir de los comentarios de Olivier Núñez a mi [entrada anterior casi homónima](http://www.datanalytics.com/2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/), se nos ha ocurrido a ambos de forma independiente y simultánea una manera alternativa de calcular el intervalo: minimizando su longitud.
+A partir de los comentarios de Olivier Núñez a mi [entrada anterior casi homónima](https://datanalytics.com/2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/), se nos ha ocurrido a ambos de forma independiente y simultánea una manera alternativa de calcular el intervalo: minimizando su longitud.
 
 {{< highlight R >}}
 a <- 3

@@ -20,7 +20,7 @@ url: /2011/09/14/la-estadistica-del-numero-tres/
 
 Una consulta que he recibido hoy me ha hecho acordar que tenía pendiente una entrada sobre la estadística del número tres, es decir, ¿qué hacer cuando tenemos sólo tres casos?
 
-Hace tiempo publiqué en estas páginas [un vídeo sobre este asunto](http://www.datanalytics.com/2011/02/22/solo-quiero-saber-si-basta-con-tres-casos/). Lo que no sabía entonces es que existen (o existieron) estadísticos que estudiaron concienzudamente el problema. He aquí unas cuantas referencias:
+Hace tiempo publiqué en estas páginas [un vídeo sobre este asunto](https://datanalytics.com/2011/02/22/solo-quiero-saber-si-basta-con-tres-casos/). Lo que no sabía entonces es que existen (o existieron) estadísticos que estudiaron concienzudamente el problema. He aquí unas cuantas referencias:
 
 
 

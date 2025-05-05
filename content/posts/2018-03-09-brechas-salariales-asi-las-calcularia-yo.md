@@ -42,4 +42,4 @@ No lo he visto nunca. Lo he propuesto alguna vez sin éxito. Igual alguien coge 
 
 **Caveats:**
 
-Todo el mundo usa la EES (la encuesta antes mencionada) para este fin. Esa encuesta no vale para medir lo que aquí se propone por razones muy obvias y ya [discutidas previamente](https://www.datanalytics.com/2015/03/09/unas-preguntas-incomodas/). Mientras siga dando la razón a los poderes fácticos, no habrá presión para reformarla. Así que ajo y agua.
+Todo el mundo usa la EES (la encuesta antes mencionada) para este fin. Esa encuesta no vale para medir lo que aquí se propone por razones muy obvias y ya [discutidas previamente](https://datanalytics.com/2015/03/09/unas-preguntas-incomodas/). Mientras siga dando la razón a los poderes fácticos, no habrá presión para reformarla. Así que ajo y agua.

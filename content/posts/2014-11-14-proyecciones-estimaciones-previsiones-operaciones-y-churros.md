@@ -20,7 +20,7 @@ title: Proyecciones, estimaciones, previsiones, operaciones... y churros
 url: /2014/11/14/proyecciones-estimaciones-previsiones-operaciones-y-churros/
 ---
 
-¿Os acordáis de lo de las [proyecciones de población a largo plazo del INE](http://www.datanalytics.com/2014/10/30/y-si-no-se-mantuvieran/)? Atentos a lo que dice el _instituto_ sobre ellas [aquí](http://www.ine.es/dynt3/metadatos/es/RespuestaDatos.htm?oe=30270) (en la sección de acuracidad):
+¿Os acordáis de lo de las [proyecciones de población a largo plazo del INE](https://datanalytics.com/2014/10/30/y-si-no-se-mantuvieran/)? Atentos a lo que dice el _instituto_ sobre ellas [aquí](http://www.ine.es/dynt3/metadatos/es/RespuestaDatos.htm?oe=30270) (en la sección de acuracidad):
 
 >La elaboración de esta operación no está basada en una estimación estocástica de la evolución demográfica futura. En rigor, sus resultados no deben considerarse como una estimación del futuro, ni siquiera como una previsión. No cabe, por tanto, hablar de precisión o acuracidad de los mismos.
 

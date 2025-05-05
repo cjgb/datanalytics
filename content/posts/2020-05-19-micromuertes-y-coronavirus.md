@@ -20,7 +20,7 @@ title: Micromuertes y coronavirus
 url: /2020/05/19/micromuertes-y-coronavirus/
 ---
 
-_[Esta entrada abunda en [la que escribí hace nueve años sobre las micromuertes](https://www.datanalytics.com/2011/06/01/micromuertes/) y sin la cual no se entiende.]_
+_[Esta entrada abunda en [la que escribí hace nueve años sobre las micromuertes](https://datanalytics.com/2011/06/01/micromuertes/) y sin la cual no se entiende.]_
 
 El concepto de micromuerte sirve para anclar y comparar adecuadamente riesgos diminutos. De acuerdo con la entrada que referencio arriba, una micromuerte equivale al riesgo (recuérdese: ¡promedio!) de caminar 15 km o conducir 250. Pasar una noche en el hospital _consume_ 75 de ellos (por riesgo de contagios que no tengan que ver con el motivo de ingreso) y dar a luz, alrededor de 100.
 

@@ -34,7 +34,7 @@ que es la rentabilidad de carteras de inversión (sospecho que no necesariamente
 
 ¿No os llama la atención esa rentabilidad >600%? ¿Cómo se puede alcanzar? ¿Es ese señor —a quien no conozco— un hacha de las inversiones?
 
-Dos ideas me vienen a la cabeza. Una es [esta](http://www.datanalytics.com/2011/05/12/que-nos-jugamos/) que, pienso, no aplica. Y no lo hace porque, en particular, y como ya escribí, _la apuesta de Kelly maximiza la mediana de las ganancias_, pero ignora su varianza. Que, por lo que veremos luego, es el quid de la cuestión.
+Dos ideas me vienen a la cabeza. Una es [esta](https://datanalytics.com/2011/05/12/que-nos-jugamos/) que, pienso, no aplica. Y no lo hace porque, en particular, y como ya escribí, _la apuesta de Kelly maximiza la mediana de las ganancias_, pero ignora su varianza. Que, por lo que veremos luego, es el quid de la cuestión.
 
 La otra cosa que me viene a la mente es un pequeño librito que guardo por casa: _Inequalities for Stochastic Processes_, de Dubin y Savage. Sabréis que la gente opina de los libros que no lee por el título y con este hago yo algo parecido: opinar por el subtítulo, _How to Gamble If You Must_.
 

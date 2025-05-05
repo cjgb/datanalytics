@@ -23,7 +23,7 @@ Igual hay alguien que busca un proyecto interesante de análisis / visualizació
 
 Consiste en:
 
-* [Bajarse el BOE](http://www.datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/) hasta cuando hay texto en formatos decentes (principios de los 90, si no recuerdo mal)
+* [Bajarse el BOE](https://datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/) hasta cuando hay texto en formatos decentes (principios de los 90, si no recuerdo mal)
 * Extraer los [1,2,3,¿4?-gramas](http://en.wikipedia.org/wiki/N-gram)
 * Construir algo [parecido a esto](https://books.google.com/ngrams/graph?content=energ%C3%ADa+nuclear%2C+energ%C3%ADa+e%C3%B3lica&year_start=1800&year_end=2000&corpus=21&smoothing=3&share=&direct_url=t1%3B%2Cenerg%C3%ADa%20nuclear%3B%2Cc0%3B.t1%3B%2Cenerg%C3%ADa%20e%C3%B3lica%3B%2Cc0)
 * Ponerme en la letra chiquita de los créditos y pagarme una cerveza

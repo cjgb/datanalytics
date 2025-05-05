@@ -22,7 +22,7 @@ title: Más sobre la estimación de probabilidades de eventos que no se repiten
 url: /2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/
 ---
 
-Hace un tiempo hablé sobre la estimación de [probabilidades de eventos que ocurren una única vez](https://www.datanalytics.com/2021/04/08/sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez/): elecciones, etc. Argumentaba cómo pueden ser descompuestos en dos partes muy distintas cualitativamente: una asociada a eventos que sí que se han repetido; otra, específica y única. El tamaño relativo de ambas componentes afecta a eficacia del mecanismo de estimación.
+Hace un tiempo hablé sobre la estimación de [probabilidades de eventos que ocurren una única vez](https://datanalytics.com/2021/04/08/sobre-las-probabilidades-de-eventos-que-ocurren-una-unica-vez/): elecciones, etc. Argumentaba cómo pueden ser descompuestos en dos partes muy distintas cualitativamente: una asociada a eventos que sí que se han repetido; otra, específica y única. El tamaño relativo de ambas componentes afecta a eficacia del mecanismo de estimación.
 
 Esta vez quiero ilustrarlo con un ejemplo extraído, traducido y adaptado de [aquí](https://slatestarcodex.com/2016/02/04/book-review-superforecasting/) que ilustra el procedimiento.
 

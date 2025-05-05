@@ -19,7 +19,7 @@ title: 'Palabras y pelas: un ejercicio apenas incoado'
 url: /2013/12/31/palabras-y-pelas-un-ejercicio-apenas-incoado/
 ---
 
-Nos encantan las palabras (¡y los mapas, pero esa es [otra historia](http://www.datanalytics.com/2013/03/19/mapas-realmente-necesarios/)!). En estos días de tanto discurso hay mucho interés por examinar con lupa qué palabras dijo quién y cuándo en una exégesis cuantitativa y (¿tal vez por eso?) falta de calado.
+Nos encantan las palabras (¡y los mapas, pero esa es [otra historia](https://datanalytics.com/2013/03/19/mapas-realmente-necesarios/)!). En estos días de tanto discurso hay mucho interés por examinar con lupa qué palabras dijo quién y cuándo en una exégesis cuantitativa y (¿tal vez por eso?) falta de calado.
 
 Porque lo que dijo este o aquel, al fin y al cabo, no deja de ser predecible y poco interesante. Rara vez se dice nada que lo sea en horario de máxima audiencia y en fechas _tan señaladas_.
 

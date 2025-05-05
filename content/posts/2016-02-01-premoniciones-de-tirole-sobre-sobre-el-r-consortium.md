@@ -27,4 +27,4 @@ En la sección sobre la reacción de las compañías de _software_ frente al fen
 
 >Los subsidios de las compañías comerciales a los proyectos de código abierto deberían ser pequeños a no ser que los potenciales beneficiarios logren organizar un consorcio (para limitar el problema de los oportunistas).
 
-Esta entrada, por lo tanto, complementa [lo que dije tiempo atrás sobre el R Consortium](http://www.datanalytics.com/2015/07/03/r-consortium/).
+Esta entrada, por lo tanto, complementa [lo que dije tiempo atrás sobre el R Consortium](https://datanalytics.com/2015/07/03/r-consortium/).

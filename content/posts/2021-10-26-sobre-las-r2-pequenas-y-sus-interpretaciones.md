@@ -18,7 +18,7 @@ title: Sobre las R² pequeñas y sus interpretaciones
 url: /2021/10/26/sobre-las-r2-pequenas-y-sus-interpretaciones/
 ---
 
-Hace unos meses escribí una [entrada en defensa (parcial) de una regresión lineal con una R² pequeña](https://www.datanalytics.com/2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r2-baja-no-es-uno-de-ellos/). He vuelto a pensar sobre ella y retomo la discusión para esclarecer ---sobre todo, para profanos--- qué mide la R² y cómo interpretarla según el contexto.
+Hace unos meses escribí una [entrada en defensa (parcial) de una regresión lineal con una R² pequeña](https://datanalytics.com/2021/02/16/hay-mil-motivos-para-criticar-una-regresion-trucha-pero-una-r2-baja-no-es-uno-de-ellos/). He vuelto a pensar sobre ella y retomo la discusión para esclarecer ---sobre todo, para profanos--- qué mide la R² y cómo interpretarla según el contexto.
 
 Comienzo por un experimento físico mental. En un laboratorio se realiza un experimento para medir la relación entre dos magnitudes físicas, un efecto $latex y$ y una causa $latex x$. La teoría especifica una relación del tipo $y = a + b x$ y experimentalmente (y en condiciones de laboratorio ideales) se obtienen una serie de datos $latex (x_i, y_i)$. La relación entre ambos es de la consabida forma
 

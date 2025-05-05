@@ -18,7 +18,7 @@ title: Componentes conexas (de grafos) en Spark
 url: /2014/09/15/componentes-conexas-de-grafos-en-spark/
 ---
 
-Uno de mis últimos _pet projects_ tiene que ver con el análisis de las componentes conexas de unos grafos muy grandes. Como [aquí](http://www.datanalytics.com/2014/06/13/agrupacion-de-grafos-por-topologia/) pero con datos de un tamaño muchos órdenes de magnitud mayores. Usando Spark, claro. Y ya que lo cito, aprovecho la ocasión para regalar un consejo a mis lectores más jóvenes: no esperéis a los cuarenta para aprender Scala y Spark.
+Uno de mis últimos _pet projects_ tiene que ver con el análisis de las componentes conexas de unos grafos muy grandes. Como [aquí](https://datanalytics.com/2014/06/13/agrupacion-de-grafos-por-topologia/) pero con datos de un tamaño muchos órdenes de magnitud mayores. Usando Spark, claro. Y ya que lo cito, aprovecho la ocasión para regalar un consejo a mis lectores más jóvenes: no esperéis a los cuarenta para aprender Scala y Spark.
 
 Voy a limitarme a copiar el código para referencia mía y de otros. Creo que se autoexplica:
 

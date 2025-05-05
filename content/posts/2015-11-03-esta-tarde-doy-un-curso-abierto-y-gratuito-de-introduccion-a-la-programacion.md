@@ -23,7 +23,7 @@ Efectivamente, esta tarde doy un curso de unas tres horas de introducción a la 
 
 La sesión es un preámbulo a mi [curso de R](http://kschool.com/cursos/programa-profesional-de-iniciacion-r/) pero independiente del mismo. Está pensado para aquellos que no han programado apenas y que quieren tomarlo. Pero es de interés general y, reitero, independiente del antedicho curso.
 
-Pero, ¿por qué programar? Todos usamos programas: para escribir correos, para llevar nuestra contabilidad, etc. Para casi el 100% de las actividades que realizamos diariamente, nos basta con usar un programa hecho por otros. Pero no hay nada prefabricado que haga cosas como [este análisis](http://www.datanalytics.com/2015/10/09/madrid-decide-propone-vota-etc/). No es nada del otro mundo, pero nadie se ha tomado nunca la molestia de crear una _app_ o similar que haga precisamente eso. Y en muchas ocasiones queremos hacer cosas que, desgraciadamente, nadie ha tenido antes en cuenta.
+Pero, ¿por qué programar? Todos usamos programas: para escribir correos, para llevar nuestra contabilidad, etc. Para casi el 100% de las actividades que realizamos diariamente, nos basta con usar un programa hecho por otros. Pero no hay nada prefabricado que haga cosas como [este análisis](https://datanalytics.com/2015/10/09/madrid-decide-propone-vota-etc/). No es nada del otro mundo, pero nadie se ha tomado nunca la molestia de crear una _app_ o similar que haga precisamente eso. Y en muchas ocasiones queremos hacer cosas que, desgraciadamente, nadie ha tenido antes en cuenta.
 
 Por eso queremos, necesitamos, aprender a construir nuestras propias soluciones.
 

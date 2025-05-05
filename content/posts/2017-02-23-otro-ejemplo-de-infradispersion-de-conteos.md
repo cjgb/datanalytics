@@ -21,4 +21,4 @@ url: /2017/02/23/otro-ejemplo-de-infradispersion-de-conteos/
 
 {{< x user="RadiactivoMan" id="832287769330380801" >}}
 
-Esta entrada, obviamente, viene a cuento de [esta otra](https://www.datanalytics.com/2017/02/01/infradispersion-de-conteos-buenos-ejemplos/).
+Esta entrada, obviamente, viene a cuento de [esta otra](https://datanalytics.com/2017/02/01/infradispersion-de-conteos-buenos-ejemplos/).

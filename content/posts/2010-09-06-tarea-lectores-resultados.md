@@ -17,7 +17,7 @@ title: 'Una tarea para mis lectores: ¡resultados!'
 url: /2010/09/06/tarea-lectores-resultados/
 ---
 
-El otro día dejé planteada[ una tarea para mis lectores](http://www.datanalytics.com/2010/08/17/una-tarea-para-mis-lectores/) (que han sido menos diligentes que yo, incluso). Trataba de una comparación entre varios métodos para acceder a diccionarios (o _hashes_) de datos desde R para tratar de identificar el más eficiente en términos de velocidad de acceso.
+El otro día dejé planteada[ una tarea para mis lectores](https://datanalytics.com/2010/08/17/una-tarea-para-mis-lectores/) (que han sido menos diligentes que yo, incluso). Trataba de una comparación entre varios métodos para acceder a diccionarios (o _hashes_) de datos desde R para tratar de identificar el más eficiente en términos de velocidad de acceso.
 
 Acá van los resultados:
 

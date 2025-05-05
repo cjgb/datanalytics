@@ -21,7 +21,7 @@ title: Una versión aún más sencilla
 url: /2020/02/27/una-version-aun-mas-sencilla/
 ---
 
-... que la de _["Algoritmos" y acatarrantes definiciones de "justicia"](https://www.datanalytics.com/2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/)_. Que es casi una versión de la anterior reduciendo la varianza de las betas.
+... que la de _["Algoritmos" y acatarrantes definiciones de "justicia"](https://datanalytics.com/2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/)_. Que es casi una versión de la anterior reduciendo la varianza de las betas.
 
 Las dos poblaciones de interés tienen una tasa de probabilidad (o de riesgo, en la terminología del artículo original) de .4 y .6 respectivamente. Aproximadamente el 40% de los primeros y el 60% de los segundos tienen `y = 1`.
 

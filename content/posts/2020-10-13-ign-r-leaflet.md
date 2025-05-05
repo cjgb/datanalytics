@@ -22,7 +22,7 @@ title: IGN + R + leaflet
 url: /2020/10/13/ign-r-leaflet/
 ---
 
-Iba a escribir una entrada técnica al respecto, pero resulta que [ya la había hecho hace un tiempo](https://www.datanalytics.com/2018/05/04/leaflet-con-capas-wms-de-coreos-catastro-etc/) y no me acordaba.
+Iba a escribir una entrada técnica al respecto, pero resulta que [ya la había hecho hace un tiempo](https://datanalytics.com/2018/05/04/leaflet-con-capas-wms-de-coreos-catastro-etc/) y no me acordaba.
 
 Solo quiero abundar en el tema para recordaros que si os interesa mostrar mapas de España vía [`leaflet`](https://rstudio.github.io/leaflet/), en lugar de usar las capas por defecto, que vaya a saber uno de dónde las sacan, uno siempre puede tirar de la [cartografía oficial](https://www.ign.es/web/ign/portal/ide-area-nodo-ide-ign).
 

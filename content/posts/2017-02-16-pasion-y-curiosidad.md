@@ -15,7 +15,7 @@ title: Pasión y curiosidad
 url: /2017/02/16/pasion-y-curiosidad/
 ---
 
-En mi [charla del viernes pasado](https://www.datanalytics.com/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/), alguien me preguntó si seguía teniendo la pasión con la que se conoce participé en [aquella competición de ciencia de datos que glosé](https://www.datanalytics.com/2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/).
+En mi [charla del viernes pasado](https://datanalytics.com/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/), alguien me preguntó si seguía teniendo la pasión con la que se conoce participé en [aquella competición de ciencia de datos que glosé](https://datanalytics.com/2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/).
 
 Estuve a punto de responder que a los 42 uno está un poco más allá de la pasión y un poco más acá de la colonoscopia. Aunque, lo reconozco, más que porque es una repuesta graciosa que porque refleje verdad alguna.
 

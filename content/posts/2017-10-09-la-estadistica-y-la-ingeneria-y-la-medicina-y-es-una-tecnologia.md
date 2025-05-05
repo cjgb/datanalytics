@@ -22,7 +22,7 @@ title: La estadística (y la ingenería, y la medicina, y...) es una tecnología
 url: /2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/
 ---
 
-Abundo aquí en un punto polémico de [mi charla de Pamplona](https://www.datanalytics.com/2017/09/25/charla-en-pamplona/): el que define la estadística como una tecnología (bajo una definición bastante particular de ella).
+Abundo aquí en un punto polémico de [mi charla de Pamplona](https://datanalytics.com/2017/09/25/charla-en-pamplona/): el que define la estadística como una tecnología (bajo una definición bastante particular de ella).
 
 Pero es conveniente comenzar por el concepto de _técnica_. Que el DRAE define horripilantemente:
 

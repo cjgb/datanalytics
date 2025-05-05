@@ -44,7 +44,7 @@ En realidad, hay pocos estudios donde no digan cosas del tipo: quiero estudiar e
 
 Obviamente, la respuesta a la pregunta anterior ---que discutiré a más abajo--- tiene mucho que decir sobre la validez del subterfugio anterior.
 
-En segundo lugar, hay varios caminos para obtener una respuesta a la pregunta planteada arriba. Uno es el teórico, que es farragoso y aburrido. Otro es simular. Pero prefiero un experimento mental (sí, a lo [_street fighting statistics_](https://www.datanalytics.com/2021/11/09/nuevo-video-en-youtube-street-fighting-statistics-2-n/)):
+En segundo lugar, hay varios caminos para obtener una respuesta a la pregunta planteada arriba. Uno es el teórico, que es farragoso y aburrido. Otro es simular. Pero prefiero un experimento mental (sí, a lo [_street fighting statistics_](https://datanalytics.com/2021/11/09/nuevo-video-en-youtube-street-fighting-statistics-2-n/)):
 
 1. Si $z$ es prácticamente igual a $x$ (digamos que el ruido es tan pequeño que solo lo afecta de la vigésima cifra significativa de $x$ en adelante), entonces $a_1$ es prácticamente igual a $b_1$ por razones obvias. Si esto no fuese cierto, estaríamos haciendo homeopatía de datos en lugar de ciencia de datos.
 2. Si $z$ es prácticamente ruido y la señal, $x$, es comparativamente muy pequeña (digamos que la señal solo afecta de la vigésima cifra significativa del ruido en adelante), $b_1$ es prácticamente cero sea cual sea el valor de $a_1$.

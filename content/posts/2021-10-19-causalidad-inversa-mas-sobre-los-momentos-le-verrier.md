@@ -21,7 +21,7 @@ title: 'Causalidad inversa: más sobre los momentos "Le Verrier"'
 url: /2021/10/19/causalidad-inversa-mas-sobre-los-momentos-le-verrier/
 ---
 
-Escribí el otro día sobre los llamados [momentos Le Verrier](https://www.datanalytics.com/2021/10/01/esos-felices-momentos-le-verrier/). Que, siguiendo la nomenclatura de _[Why ask why? Forward causal inference and reverse causal questions](https://www.nber.org/system/files/working_papers/w19614/w19614.pdf)_ no son otra cosa que ejercicios de causalidad inversa con final feliz.
+Escribí el otro día sobre los llamados [momentos Le Verrier](https://datanalytics.com/2021/10/01/esos-felices-momentos-le-verrier/). Que, siguiendo la nomenclatura de _[Why ask why? Forward causal inference and reverse causal questions](https://www.nber.org/system/files/working_papers/w19614/w19614.pdf)_ no son otra cosa que ejercicios de causalidad inversa con final feliz.
 
 Efectivamente, según el artículo, las cuestiones de índole causal son de dos tipos: prospectivas y retrospectivas (o inversas), en una traducción muy libre. Las primeras, más habituales, se refieren a cuáles serán los efectos de una causa. ¿Qué pasará si aumento mi presupuesto de publicidad? ¿Qué pasará con la temperatura de un dispositivo si aumento la potencia? Etc. Son preguntas a las que responden los modelos, sea a través del estudio de una serie de coeficientes, realizando predicciones, etc.
 

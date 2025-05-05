@@ -27,4 +27,4 @@ Según _[Methods Matter: P-Hacking and Publication Bias in Causal Analysis in Ec
 
 >Applying multiple approaches to over 21,000 hypothesis tests published in 25 leading economics journals we find that the extent of p-hacking and publication bias varies greatly by method. IV (and to a lesser extent DID) are particularly problematic.
 
-Es curioso que se estudie también la regresión con discontinuidades y que no acabe en el podio. Sospecho que es tan cantosa que [no pasa los filtros de los editores y revisores](https://www.datanalytics.com/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/).
+Es curioso que se estudie también la regresión con discontinuidades y que no acabe en el podio. Sospecho que es tan cantosa que [no pasa los filtros de los editores y revisores](https://datanalytics.com/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/).

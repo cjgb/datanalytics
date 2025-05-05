@@ -18,7 +18,7 @@ title: 'Lecturas disparatadas: la salud de los críos y el desempleo'
 url: /2014/07/01/lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo/
 ---
 
-Hay gente que en lugar de escribir cosas debería invertir su tiempo en leer [otras](http://www.datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/). Pero como
+Hay gente que en lugar de escribir cosas debería invertir su tiempo en leer [otras](https://datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/). Pero como
 
 * no me hacen caso,
 * escribiendo cosillas escalan poquito a poco escalafones académicos y, encima,

@@ -33,4 +33,4 @@ Es una aplicación de la [ley de Beer](https://en.wikipedia.org/wiki/Beer%E2%80%
 
 $$ S(t) = \exp\left(-\int_0^t h(x) dx\right)$$
 
-(tal vez con otra notación), que es precisamente [de la que hablé el otro día](https://www.datanalytics.com/2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/).
+(tal vez con otra notación), que es precisamente [de la que hablé el otro día](https://datanalytics.com/2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/).

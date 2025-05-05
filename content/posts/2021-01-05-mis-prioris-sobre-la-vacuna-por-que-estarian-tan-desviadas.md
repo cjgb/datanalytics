@@ -61,7 +61,7 @@ Obviamente, construida con esos mimbres, mi _priori_ era bastante pesimista.
 
 
 
-Lo que aparentemente sucede, sin embargo, es que no paran de aparecer vacunas, a cual más efectiva y sin efectos secundarios reseñables. Hasta los rusos, de quienes se decía que carecían de una industria significativa en dicho área están exportando la suya. Y, con un poco de suerte, el Reino de España, sí, [el mismísimo Reino de España podría llegar a desarrollar la propia](https://www.elindependiente.com/vida-sana/salud/2020/10/22/el-csic-prepara-la-vacuna-mas-compleja-del-mundo-que-aspira-a-ser-100-eficaz/) (aunque sea _[INE style](https://www.datanalytics.com/2020/04/09/deberian-publicarse-datos-en-beta/)_, es decir, que llegue cuando ya no haga falta).
+Lo que aparentemente sucede, sin embargo, es que no paran de aparecer vacunas, a cual más efectiva y sin efectos secundarios reseñables. Hasta los rusos, de quienes se decía que carecían de una industria significativa en dicho área están exportando la suya. Y, con un poco de suerte, el Reino de España, sí, [el mismísimo Reino de España podría llegar a desarrollar la propia](https://www.elindependiente.com/vida-sana/salud/2020/10/22/el-csic-prepara-la-vacuna-mas-compleja-del-mundo-que-aspira-a-ser-100-eficaz/) (aunque sea _[INE style](https://datanalytics.com/2020/04/09/deberian-publicarse-datos-en-beta/)_, es decir, que llegue cuando ya no haga falta).
 
 
 

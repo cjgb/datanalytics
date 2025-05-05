@@ -22,7 +22,7 @@ url: /2014/06/27/disponible-una-nueva-version-de-microdatoses/
 
 Acabo de subir a CRAN una nueva versión de [MicroDatosEs](http://cran.r-project.org/web/packages/MicroDatosEs/index.html), un paquete para procesar automáticamente en R ficheros de microdatos públicos españoles.
 
-A los cambios y mejoras a los que me referí [el otro día](http://www.datanalytics.com/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/), esta nueva versión añade otras, obra de Carlos Neira, que es ahora contribuidor oficial del paquete.
+A los cambios y mejoras a los que me referí [el otro día](https://datanalytics.com/2014/05/14/nueva-version-de-microdatoses-heroes-villanos-y-mejoras/), esta nueva versión añade otras, obra de Carlos Neira, que es ahora contribuidor oficial del paquete.
 
 Carlos también contribuyó a detectar y corregir un _error_ inducido por el INE, que cambió el formato del fichero introduciendo una nueva variable sin aviso previo.
 

@@ -23,7 +23,7 @@ Hojeando la prensa francesa di con este pequeño artículo en Les Echos, [_Pourq
 
 ¿El resumen? Que prácticamente nadie gana dinero usando el llamado [análisis técnico](http://es.wikipedia.org/wiki/An%C3%A1lisis_t%C3%A9cnico). E incluso podría argumentarse que ese 5% podrían no ser sino el [sesgo de supervivencia](http://en.wikipedia.org/wiki/Survivorship_bias).
 
-He leído _algo_ sobre análisis técnico y he realizado [algunas comprobaciones](http://www.datanalytics.com/2011/12/27/el-lucero-del-alba/) por mi cuenta en alguna ocasión. Y cuanto más leo y más analizo, más convencido estoy de que detrás de todo esto no hay sino [seudociencia](http://es.wikipedia.org/wiki/Pseudociencia). Entonces,
+He leído _algo_ sobre análisis técnico y he realizado [algunas comprobaciones](https://datanalytics.com/2011/12/27/el-lucero-del-alba/) por mi cuenta en alguna ocasión. Y cuanto más leo y más analizo, más convencido estoy de que detrás de todo esto no hay sino [seudociencia](http://es.wikipedia.org/wiki/Pseudociencia). Entonces,
 
 * ¿qué os parece a vosotros? ¿sois de la misma opinión?
 * y más aún, ¿deberían los organismos públicos pertinentes tomar cartas en el asunto (igual que hacen las autoridades sanitarias con determinados remedios mágicos que ponen en peligro la salud y la cartera de la ciudadanía)?

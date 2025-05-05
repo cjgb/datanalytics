@@ -19,7 +19,7 @@ title: 'Test de Student e importancia práctica: una solución (para su discusi�
 url: /2012/10/23/test-de-student-e-importancia-practica-una-solucion-para-su-discusion/
 ---
 
-El [ejercicio que planteé hace unos días](http://www.datanalytics.com/2012/10/15/test-de-student-e-importancia-practica-un-ejercicio/) está extraido (casi literalmente) de [aquí](http://www.jerrydallal.com/LHSP/pval.htm). Veamos cómo razona su autor en cada caso:
+El [ejercicio que planteé hace unos días](https://datanalytics.com/2012/10/15/test-de-student-e-importancia-practica-un-ejercicio/) está extraido (casi literalmente) de [aquí](http://www.jerrydallal.com/LHSP/pval.htm). Veamos cómo razona su autor en cada caso:
 
 * **Caso 1:** Existe una diferencia estadísticamente significativa entre los tratamientos. Pero carece de importancia práctica porque es improbable que supere los 3 mg/dl.
 * **Caso 2:** La diferencia es estadísticamente significativa y tiene importancia práctica a pesar de que el intervalo de confianza tiene una anchura de 20 mg/dl. Y es que un intervalo de confianza ancho no es necesariamente algo negativo: en este caso, por ejemplo, todos los puntos del rango tienen una misma interpretación. El nuevo tratamiento funciona, aunque sea imposible acotar con mucha precisión el rango de mejora.

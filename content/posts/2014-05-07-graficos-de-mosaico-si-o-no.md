@@ -30,7 +30,7 @@ que sirven para representar tablas bidimensionales (como en el ejemplo anterior)
 
 Hay más al respecto sobre este tipo de gráficos [aquí](http://www.theusrus.de/blog/understanding-mosaic-plots/).
 
-Personalmente, los utilizo bastante como herramienta exploratoria. En particular, usando [Mondrian](http://www.theusrus.de/Mondrian/). Mondrian permite crear estos y otros tipos de gráficos similares (p.e., [estos](http://www.datanalytics.com/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/)) de manera, además, interactiva.
+Personalmente, los utilizo bastante como herramienta exploratoria. En particular, usando [Mondrian](http://www.theusrus.de/Mondrian/). Mondrian permite crear estos y otros tipos de gráficos similares (p.e., [estos](https://datanalytics.com/2012/07/12/edad-nivel-de-formacion-sexo-y-paro/)) de manera, además, interactiva.
 
 Me gustan porque permiten representar simultáneamente muchas variables. Pero tengo mis reservas: casi siempre me resultan difíciles de interpretar y también, mucho más, de explicar.
 

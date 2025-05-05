@@ -26,7 +26,7 @@ url: /2021/02/23/tres-teoremas-que-son-casi-ciertos/
 
 Puede entenderse como un corolario práctico del teorema central del límite habida cuenta de que la varianza de $latex X_i$ es 1/12 y su media es 1/2.
 
-**Es útil porque**, se ve, en algunos dispositivos embebidos no se dispone de una librería matemática extensa y, se ve, a veces hace falta muestrear la normal. Más, [aquí](https://www.datanalytics.com/2012/11/20/lo-normal-sumar-doce-restar-seis/).
+**Es útil porque**, se ve, en algunos dispositivos embebidos no se dispone de una librería matemática extensa y, se ve, a veces hace falta muestrear la normal. Más, [aquí](https://datanalytics.com/2012/11/20/lo-normal-sumar-doce-restar-seis/).
 
 **II.**
 

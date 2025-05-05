@@ -21,7 +21,7 @@ title: La Consejería de Empleo de la Función General de la Comunidad Autónoma
 url: /2016/08/29/la-consejeria-de-empleo-de-la-funcion-general-de-la-comunidad-autonoma-de-ordenacion-provincia-de-la-audiencia-profesional/
 ---
 
-Ese es el nombre agramatical de una nueva consejería pergeñada por una red neuronal recurrente que he ajustado usando [un año de BOEs](https://www.datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/).
+Ese es el nombre agramatical de una nueva consejería pergeñada por una red neuronal recurrente que he ajustado usando [un año de BOEs](https://datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/).
 
 El código, adaptado de [aquí](http://mxnet.readthedocs.io/en/latest/packages/r/CharRnnModel.html) y sustancialmente mejorado, es
 

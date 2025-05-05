@@ -21,7 +21,7 @@ title: Aún más sobre la presunta sobredispersión en modelos de Poisson
 url: /2020/07/22/aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson/
 ---
 
-_[Esta entrada continúa el ciclo al que he dedicado [esta](https://www.datanalytics.com/2020/07/17/mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson/) y [esta otra](https://www.datanalytics.com/2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/) entradas durante los últimos días.]_
+_[Esta entrada continúa el ciclo al que he dedicado [esta](https://datanalytics.com/2020/07/17/mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson/) y [esta otra](https://datanalytics.com/2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/) entradas durante los últimos días.]_
 
 Las dos entradas anteriores de la serie se resumen en que:
 

@@ -22,7 +22,7 @@ title: Sobre los coeficientes de los GLM en Scikit-learn
 url: /2019/12/02/sobre-los-coeficientes-de-los-glm-en-scikit-learn/
 ---
 
-Pensé que ya había escrito sobre el asunto porque tropecé con él en un proyecto hace un tiempo. Pero mi menoria se había confundido con otra entrada, _[Sobre la peculiarisima implementacion del modelo lineal en (pseudo-)Scikit-learn](https://www.datanalytics.com/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/)_, donde se discute, precisamente, un problema similar si se lo mira de cierta manera o diametralmente opuesto si se ve con otra perspectiva.
+Pensé que ya había escrito sobre el asunto porque tropecé con él en un proyecto hace un tiempo. Pero mi menoria se había confundido con otra entrada, _[Sobre la peculiarisima implementacion del modelo lineal en (pseudo-)Scikit-learn](https://datanalytics.com/2019/07/17/sobre-la-peculiarisima-implementacion-del-modelo-lineal-en-pseudo-scikit-learn/)_, donde se discute, precisamente, un problema similar si se lo mira de cierta manera o diametralmente opuesto si se ve con otra perspectiva.
 
 Allí el problema era que Scikit-learn gestionaba muy _sui generis_ el insidioso problema de la colinealidad. Precisamente, porque utiliza un optimizador _ad hoc_ y no estándar para ajustar el modelo lineal.
 

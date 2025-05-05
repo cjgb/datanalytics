@@ -25,4 +25,4 @@ Podemos hacerlo seleccionando aleatoriamente (uniformemente)
 
 Obviamente, los tres mecanismos anteriores generarán distribuciones de muestreo diferentes (¿cuáles?).
 
-Una trivialidad, tal vez, que tiene que ver con [esto](https://en.wikipedia.org/wiki/Jeffreys_prior) y con [esto](http://www.datanalytics.com/2015/08/07/una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta/).
+Una trivialidad, tal vez, que tiene que ver con [esto](https://en.wikipedia.org/wiki/Jeffreys_prior) y con [esto](https://datanalytics.com/2015/08/07/una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-pregunta/).

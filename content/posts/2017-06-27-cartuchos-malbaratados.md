@@ -27,7 +27,7 @@ que procede de [aquí](http://cocinillas.elespanol.com/2017/06/cuanto-cuesta-una
 
 ¿Qué nos dice la teoría sobre gráficos como este? Primero, que de entre todas las _estéticas_ (usando la nomenclatura propia de `ggplot2`), las que mejor captura el ojo son `x` e `y`. Es decir, las distancias horizontales y verticales. Luego vienen el color, la pendiente, la forma, la transparencia, etc.
 
-En este caso, los autores han preferido codificar la variable más importante, el precio, como un color. Con los [problemas que eso conlleva](https://www.datanalytics.com/2013/12/09/gradientes-e-ilusiones-opticas/).
+En este caso, los autores han preferido codificar la variable más importante, el precio, como un color. Con los [problemas que eso conlleva](https://datanalytics.com/2013/12/09/gradientes-e-ilusiones-opticas/).
 
 Y han preferido utilizar las estéticas más potentes para recordarnos nuevamente dónde está Murcia (es decir, para pintar un mapa). Que sería justificable si la variable de interés tuviese una clara correlación con la posición geográfica (como pasa, por ejemplo, con el paro). Pero que no ocurre aquí.
 

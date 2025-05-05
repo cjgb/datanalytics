@@ -27,7 +27,7 @@ Debemos agradecérselo al equipo de Kiko Llaneras en El País, que nos han regal
 
 _[Nota: no sé si estoy cometiendo injusticias en el párrafo anterior por omisión o confusión en las prelaciones; si alguien dispone de más o mejor información sobre la intrahistoria de esas publicaciones, que me avise.]_
 
-De todos modos, este tipo de representaciones en España sigue estando condicionada por [el problema de los huertogramas](https://www.datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/). Que, además, por la peculiar configuración de la población española, es de mal resolver con técnicas, como los cartogramas, que tan buenos resultados han proporcionado en otros lugares.
+De todos modos, este tipo de representaciones en España sigue estando condicionada por [el problema de los huertogramas](https://datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/). Que, además, por la peculiar configuración de la población española, es de mal resolver con técnicas, como los cartogramas, que tan buenos resultados han proporcionado en otros lugares.
 
 Por eso quiero mencionar esto:
 

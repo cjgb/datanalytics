@@ -20,7 +20,7 @@ title: rPython + feather
 url: /2016/04/06/rpython-feather/
 ---
 
-Supongo que a estas alturas todos conoceréis [`feather`](http://blog.rstudio.org/2016/03/29/feather/) y [`rPython`](https://www.datanalytics.com/2013/04/01/rpython-ya-esta-en-cran/). Hoy los vais a ver trabajar juntos.
+Supongo que a estas alturas todos conoceréis [`feather`](http://blog.rstudio.org/2016/03/29/feather/) y [`rPython`](https://datanalytics.com/2013/04/01/rpython-ya-esta-en-cran/). Hoy los vais a ver trabajar juntos.
 
 Primero solo en R:
 

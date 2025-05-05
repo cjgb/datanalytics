@@ -19,7 +19,7 @@ title: 'Scorings: interpolando (y extrapolando) entre el de Brier y el lineal'
 url: /2019/01/21/scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal/
 ---
 
-Rápidamente y para poner el limpio unas cosas que tenía en borrador. El _scoring_ lineal del que me he ocupado en entradas anteriores (p.e., [esta](https://www.datanalytics.com/2019/01/17/mejores-predictores-un-ejemplo-el-de-brier/) o [esta](https://www.datanalytics.com/2019/01/16/una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor/)) está asociado a un exponente $latex \lambda = 1$ y el de Brier, a $latex \lambda = 2$. Entre ambos (y a la derecha del 2) hay otros _scorings_ posibles.
+Rápidamente y para poner el limpio unas cosas que tenía en borrador. El _scoring_ lineal del que me he ocupado en entradas anteriores (p.e., [esta](https://datanalytics.com/2019/01/17/mejores-predictores-un-ejemplo-el-de-brier/) o [esta](https://datanalytics.com/2019/01/16/una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor/)) está asociado a un exponente $latex \lambda = 1$ y el de Brier, a $latex \lambda = 2$. Entre ambos (y a la derecha del 2) hay otros _scorings_ posibles.
 
 Una penalización de $latex (1-p)^\lambda$ (véanse las entradas enlazadas más arriba para averiguar a qué me refiero), un predictor tiene un incentivo para modificar su predicción para alcanzar un _scoring_ más alto, salvo en el caso en que $latex \lambda = 2$, en el que le compensa ser lo más sincero posible.
 

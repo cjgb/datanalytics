@@ -37,7 +37,7 @@ Dicho lo cual, entro propiamente en materia, que es la exégesis de estos dos gr
 
 Que no merece la pena recalcar que se parecen mucho más a la evolución de las alturas de los animales del zoo que a la de los españoles. Y que, bien mirado, aportan tan poca información sobre el fenómeno que presuntamente se desea medir como el primero.
 
-Recuérdese, sin mir más lejos, [aquella entrada del blog de 2013](https://www.datanalytics.com/2013/08/13/suben-o-bajan/) en la que se lee:
+Recuérdese, sin mir más lejos, [aquella entrada del blog de 2013](https://datanalytics.com/2013/08/13/suben-o-bajan/) en la que se lee:
 
 > Leo en Revolutions cómo dicha mediana [la de los salarios en EEUU] ha crecido un 1% anualmente desde el 2000. Pero, a la vez, la mediana ha descendido en cada uno de los grupos definidos por el nivel de estudios (sin, bachillerato, universitarios, etc.).
 

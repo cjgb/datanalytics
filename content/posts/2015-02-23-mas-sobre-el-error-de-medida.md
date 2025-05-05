@@ -19,7 +19,7 @@ title: Más sobre el error de medida
 url: /2015/02/23/mas-sobre-el-error-de-medida/
 ---
 
-En el [periódico del domingo](http://economia.elpais.com/economia/2015/02/20/actualidad/1424451143_267060.html) nos regala Ángel Laborda un parrafito delicioso que abunda en el tema tratado en mi última entrada sobre el  una [error de medida](http://www.datanalytics.com/2015/02/20/error-de-medida/).
+En el [periódico del domingo](http://economia.elpais.com/economia/2015/02/20/actualidad/1424451143_267060.html) nos regala Ángel Laborda un parrafito delicioso que abunda en el tema tratado en mi última entrada sobre el  una [error de medida](https://datanalytics.com/2015/02/20/error-de-medida/).
 
 Así dice:
 

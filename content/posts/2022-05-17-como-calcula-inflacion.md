@@ -41,14 +41,14 @@ Un procedimiento alternativo para el cálculo del IPC sería:
 * Tomar las cestas "efectivas" de cada uno de los hogares que forman parte del panel de la encuesta de presupuestos familiares.
 * Calcular el IPC particular para cada una de ellas.
 * Publicar el correspondiente histograma para la ilustración de todos.
-* Calcular el IPC "publicado" a partir de algún tipo de media adecuadamente ponderada, [_winsorizada_](https://en.wikipedia.org/wiki/Winsorized_mean), [ulurizada](http://www.datanalytics.com/2021/11/24/medias-ponderadas-a-lo-uluru/), etc. de esos IPCs particulares.
+* Calcular el IPC "publicado" a partir de algún tipo de media adecuadamente ponderada, [_winsorizada_](https://en.wikipedia.org/wiki/Winsorized_mean), [ulurizada](https://datanalytics.com/2021/11/24/medias-ponderadas-a-lo-uluru/), etc. de esos IPCs particulares.
 
 Permítaseme terminar recopilando una serie de enlaces a estas y otras páginas sobre asuntos relativos a la cuestión de hoy. Primero, sobre la inflación, escribí ya en 2010 en líneas muy parecidas a las de esta entrada
-[aquí](http://www.datanalytics.com/2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/). Luego, sobre la variabilidad de los efectos en subgrupos ya he escrito en varias ocasiones, como
-[aquí](http://www.datanalytics.com/2020/07/14/sobre-el-efecto-medio/),
-[aquí](http://www.datanalytics.com/2020/01/24/estan-los-hogares-preparados-para-una-nueva-recesion/),
-[aquí](http://www.datanalytics.com/2013/04/15/tu-tasa-de-paro-en-medialab-prado/)
-o [aquí](http://www.datanalytics.com/2020/02/06/model4you/)
+[aquí](https://datanalytics.com/2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/). Luego, sobre la variabilidad de los efectos en subgrupos ya he escrito en varias ocasiones, como
+[aquí](https://datanalytics.com/2020/07/14/sobre-el-efecto-medio/),
+[aquí](https://datanalytics.com/2020/01/24/estan-los-hogares-preparados-para-una-nueva-recesion/),
+[aquí](https://datanalytics.com/2013/04/15/tu-tasa-de-paro-en-medialab-prado/)
+o [aquí](https://datanalytics.com/2020/02/06/model4you/)
 y tengo además una colección de artículos ajenos sobre el mismo tema de entre los que destaco
 [este](https://statmodeling.stat.columbia.edu/2020/07/13/if-variation-in-effects-is-so-damn-important-and-so-damn-obvious-why-do-we-hear-so-little-about-it/)
 o [este](https://statmodeling.stat.columbia.edu/2018/11/28/multilevel-models-multiple-comparisons-varying-treatment-effects/).

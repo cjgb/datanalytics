@@ -28,5 +28,5 @@ Según el operacionalismo, los conceptos teóricos de la ciencia se agotan en aq
 
 Más sobre el mismo tema:
 
-  * Esta [entrada de 2010](https://www.datanalytics.com/2010/05/07/hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza/) donde, mucho más joven e iluso que hoy, reclamaba intervalos de confianza para la estimación del PIB. Incluye un enlace a un estudio histórico de los errores cometidos en las estimaciones tempranas del PIB con respecto a sus revisiones posteriores.
-  * Esta[ otra de 2014 ](https://www.datanalytics.com/2014/12/09/ruido-en-las-estadisticas-oficiales/)donde ilustro cómo el Banco de Inglaterra añade intervalos de confianza a las estimaciones del PIB tanto a futuro como a pasado, aparte de otras cuestiones también relevantes para la presente discusión.
+  * Esta [entrada de 2010](https://datanalytics.com/2010/05/07/hemos-salido-de-la-recesion-queremos-nuestros-intervalos-de-confianza/) donde, mucho más joven e iluso que hoy, reclamaba intervalos de confianza para la estimación del PIB. Incluye un enlace a un estudio histórico de los errores cometidos en las estimaciones tempranas del PIB con respecto a sus revisiones posteriores.
+  * Esta[ otra de 2014 ](https://datanalytics.com/2014/12/09/ruido-en-las-estadisticas-oficiales/)donde ilustro cómo el Banco de Inglaterra añade intervalos de confianza a las estimaciones del PIB tanto a futuro como a pasado, aparte de otras cuestiones también relevantes para la presente discusión.

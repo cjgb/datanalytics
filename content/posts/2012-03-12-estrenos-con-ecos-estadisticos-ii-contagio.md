@@ -20,7 +20,7 @@ title: 'Estrenos con ecos estadísticos (II): Contagio'
 url: /2012/03/12/estrenos-con-ecos-estadisticos-ii-contagio/
 ---
 
-La [otra de las películas](http://www.datanalytics.com/2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/) que vi durante mis vacaciones en que resonaban ecos estadísticos fue [Contagio](http://es.wikipedia.org/wiki/Contagio). Como casi todas las películas, personaliza. Y es que a la gente le gusta ver caras. Así nos cuenta la historia de una rubia, su marido, su hija, etc. Excipiente lacrimógeno.
+La [otra de las películas](https://datanalytics.com/2012/02/17/estrenos-con-ecos-estadisticos-i-moneyball/) que vi durante mis vacaciones en que resonaban ecos estadísticos fue [Contagio](http://es.wikipedia.org/wiki/Contagio). Como casi todas las películas, personaliza. Y es que a la gente le gusta ver caras. Así nos cuenta la historia de una rubia, su marido, su hija, etc. Excipiente lacrimógeno.
 
 (Aunque alguien pueda querer ver en la rubia la trasunta de [Gaëtan Dugas](http://en.wikipedia.org/wiki/Ga%C3%ABtan_Dugas), el [_paciente cero_](http://en.wikipedia.org/wiki/Index_case); igual que —según algunos— Dugas, es la primera persona en contagiarse de un virus letal y lo transporta a EE.UU., donde se desencadena una epidemia).
 

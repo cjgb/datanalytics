@@ -20,7 +20,7 @@ title: 'Más sobre la ley de Benford (II): la distribución de la parte fraccion
 url: /2013/05/03/mas-sobre-la-ley-de-benford-ii-la-distribucion-de-la-parte-fraccionaria/
 ---
 
-Continuamos hoy [nuestra serie sobre la llamada ley de Benford](http://www.datanalytics.com/2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente) discutiendo la distribución de la parte fraccionaria de las muestras de una distribución.
+Continuamos hoy [nuestra serie sobre la llamada ley de Benford](https://datanalytics.com/2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente) discutiendo la distribución de la parte fraccionaria de las muestras de una distribución.
 
 La parte fraccionaria de un número es, para entendernos, lo que va detrás de la coma. Técnicamente, `x - floor(x)`. ¿Le sorprendería a alguien la parte fraccionaria de una secuencia _aleatoria_ de números no tenga una distribución uniforme sobre [0,1)?
 

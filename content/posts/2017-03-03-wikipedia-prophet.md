@@ -20,7 +20,7 @@ title: Wikipedia + prophet
 url: /2017/03/03/wikipedia-prophet/
 ---
 
-El otro día escribí sobre [visitas a la Wikipedia](https://www.datanalytics.com/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/). El otro día (posiblemente otro) oí hablar de [`prophet`](https://cran.r-project.org/web/packages/prophet/index.html).
+El otro día escribí sobre [visitas a la Wikipedia](https://datanalytics.com/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/). El otro día (posiblemente otro) oí hablar de [`prophet`](https://cran.r-project.org/web/packages/prophet/index.html).
 
 Hoy con
 
@@ -61,4 +61,4 @@ construyo
 
 que muestra la predicción del número de visitas a la [página de R en la Wikipedia](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)) basada en las primeras 1500 observaciones de la serie. Para las restantes, el gráfico muestra tanto los valores predichos como los reales (en rojo pálido).
 
-`prophet`, obviamente, es incapaz de predecir el cambio de régimen en la tendencia que tiene la serie (véase [esto](https://www.datanalytics.com/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/)) por lo que la predicción está un tanto sesgada. Pero, bueno, ahí queda para referencia de todos.
+`prophet`, obviamente, es incapaz de predecir el cambio de régimen en la tendencia que tiene la serie (véase [esto](https://datanalytics.com/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/)) por lo que la predicción está un tanto sesgada. Pero, bueno, ahí queda para referencia de todos.

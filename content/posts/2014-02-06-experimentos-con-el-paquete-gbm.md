@@ -74,7 +74,7 @@ La alternativa con el paquete `gbm` es esta:
 El resultado es bastante sorprendente. Al menos, a mí me sorprende. Así que voy a tratar de invertir un tiempo estos días tratando de entender:
 
 * Cómo funciona `gbm`
-* Si la selección de variables que parece que realiza internamente es útil (véase [esto](http://www.datanalytics.com/2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/))
+* Si la selección de variables que parece que realiza internamente es útil (véase [esto](https://datanalytics.com/2014/01/28/algunos-problemas-de-la-regresion-paso-a-paso-stepwise/))
 * Y, sobre todo, por qué demonios `glm` y `gbm` no se ponen de acuerdo en cuál es la variable menos relevante en el modelo.
 
 Mientras tanto, si algún lector tiene alguna pista sobre la respuesta a alguna de las preguntas anteriores...

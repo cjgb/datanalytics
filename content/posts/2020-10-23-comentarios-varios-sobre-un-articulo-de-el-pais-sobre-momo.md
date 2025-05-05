@@ -25,7 +25,7 @@ _[Esta entrada ha sido enmendado con respecto a cómo fue publicada originalment
 
 El artículo es _[El Instituto de Salud Carlos III subestima las muertes de la segunda ola](https://elpais.com/sociedad/2020-10-20/el-instituto-de-salud-carlos-iii-subestima-las-muertes-de-la-segunda-ola.html)_ y los comentarios, estos:
 
-El artículo trata un tema conocido de muchos, la infraestimación que hace el actual sistema MOMO de los excesos de mortalidad y cuyos motivos [comenté extensamente el otro día](https://www.datanalytics.com/2020/10/19/el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia/). Dice, muy acertadamente:
+El artículo trata un tema conocido de muchos, la infraestimación que hace el actual sistema MOMO de los excesos de mortalidad y cuyos motivos [comenté extensamente el otro día](https://datanalytics.com/2020/10/19/el-nowcast-de-momo-por-que-sobreestima-en-el-ano-del-coronavirus-y-que-pasara-en-los-siguientes-si-no-se-remedia/). Dice, muy acertadamente:
 
 >Las discrepancias están en las muertes esperadas. El exceso se basa en calcular la diferencia entre las muertes observadas y la cantidad que se esperaría en condiciones normales.
 

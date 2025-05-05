@@ -21,7 +21,7 @@ title: (Mis) procesos puntuales con glm
 url: /2014/08/13/mis-procesos-puntuales-con-glm/
 ---
 
-Lo que escribí hace un par de días sobre [procesos puntuales](http://www.datanalytics.com/2014/08/11/procesos-puntuales-una-primera-aproximacion/), ahora me doy cuenta, podía haberse resuelto con nuestro viejo amigo `glm`.
+Lo que escribí hace un par de días sobre [procesos puntuales](https://datanalytics.com/2014/08/11/procesos-puntuales-una-primera-aproximacion/), ahora me doy cuenta, podía haberse resuelto con nuestro viejo amigo `glm`.
 
 Ejecuto el código del otro día y obtengo (para un caso nuevo)
 

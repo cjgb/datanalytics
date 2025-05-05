@@ -22,7 +22,7 @@ title: Más sobre las proyecciones de población del INE
 url: /2018/10/22/mas-sobre-las-proyecciones-de-poblacion-del-ine/
 ---
 
-Bastante he hablado de las proyecciones de población del INE (p.e., [aquí](https://www.datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/) o [aquí](https://www.datanalytics.com/2014/10/30/y-si-no-se-mantuvieran/)). Insisto porque el gráfico que aparece en la segunda página de la [nota de prensa de las últimas](http://www.ine.es/prensa/pp_2018_2068.pdf), a saber,
+Bastante he hablado de las proyecciones de población del INE (p.e., [aquí](https://datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/) o [aquí](https://datanalytics.com/2014/10/30/y-si-no-se-mantuvieran/)). Insisto porque el gráfico que aparece en la segunda página de la [nota de prensa de las últimas](http://www.ine.es/prensa/pp_2018_2068.pdf), a saber,
 
 ![](/wp-uploads/2018/10/proyecciones_poblacion_ine.png#center)
 

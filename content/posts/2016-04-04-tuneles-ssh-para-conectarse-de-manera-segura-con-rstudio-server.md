@@ -20,7 +20,7 @@ title: Túneles ssh para conectarse de manera segura con RStudio Server
 url: /2016/04/04/tuneles-ssh-para-conectarse-de-manera-segura-con-rstudio-server/
 ---
 
-La [solución que presenté el otro día](https://www.datanalytics.com/2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/) para resolver el problema en cuestión, tal como indicó [Iñaki Úcar](http://www.enchufa2.es/), es demasiado aparatosa. La alternativa a mi propuesta
+La [solución que presenté el otro día](https://datanalytics.com/2016/04/01/redireccion-dinamica-de-puertos-para-conectarse-de-manera-segura-con-rstudio-server/) para resolver el problema en cuestión, tal como indicó [Iñaki Úcar](http://www.enchufa2.es/), es demasiado aparatosa. La alternativa a mi propuesta
 
 `ssh -ND 2001 miusuario@datanalytics.com`
 

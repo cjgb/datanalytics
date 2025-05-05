@@ -23,9 +23,9 @@ Ha tenido cierta repercusión durante el verano el articulo _[Estimating the suc
 
 De hecho, se ha publicado [esta herramienta](https://cpg.doc.ic.ac.uk/individual-risk/) para conocer tu riesgo de ser reidentificado, caso de que vivas en EEUU o el RU.
 
-¿Y si vives en España? Siempre puedes leer [esto](http://www.seio.es/BEIO/Microdata-and-k-anonymity-a-quantitative-approach-in-the-Spanish-context.html), de lo que ya hablé (y resumí) [aquí](https://www.datanalytics.com/2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/).
+¿Y si vives en España? Siempre puedes leer [esto](http://www.seio.es/BEIO/Microdata-and-k-anonymity-a-quantitative-approach-in-the-Spanish-context.html), de lo que ya hablé (y resumí) [aquí](https://datanalytics.com/2013/02/06/anonimidad-en-ficheros-de-microdatos-un-estudio-en-el-contexto-espanol/).
 
-Y, finalmente, si quieres un tratamiento distinto (y más general, basado en teoría de la información) al del artículo sobre cuánta información permite la reidentificación de gente... échale un vistazo a [esto](https://www.datanalytics.com/2011/09/22/anonimidad-y-cantidad-de-informacion/).
+Y, finalmente, si quieres un tratamiento distinto (y más general, basado en teoría de la información) al del artículo sobre cuánta información permite la reidentificación de gente... échale un vistazo a [esto](https://datanalytics.com/2011/09/22/anonimidad-y-cantidad-de-informacion/).
 
 **Nota:** Buscándome, he encontrado [esto](https://www.aepd.es/media/notas-tecnicas/nota-tecnica-kanonimidad.pdf). ¡Me cita un estudio de la Agencia de Protección de Datos!
 

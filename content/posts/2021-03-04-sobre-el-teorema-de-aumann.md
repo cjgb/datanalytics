@@ -18,7 +18,7 @@ title: Sobre el teorema de Aumann
 url: /2021/03/04/sobre-el-teorema-de-aumann/
 ---
 
-_[[Del que ya hablé](https://www.datanalytics.com/2019/05/10/un-reciproco-para-el-teorema-de-bernstein-von-mises/) hace un tiempo desde una perspectiva diferente.]_
+_[[Del que ya hablé](https://datanalytics.com/2019/05/10/un-reciproco-para-el-teorema-de-bernstein-von-mises/) hace un tiempo desde una perspectiva diferente.]_
 
 **Prioris**
 

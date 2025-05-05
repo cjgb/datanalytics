@@ -67,7 +67,7 @@ run;
 
 Tarda en ejecutarse 110 segundos en mi máquina. He probado también a aplicar el procedimiento a conjuntos de datos con 50k muestras, pero el sistema no ha dado de sí: se ha quedado sin espacio en disco.
 
-(Nota: véanse los [comentarios a algunas de las entradas anteriores de la serie](http://www.datanalytics.com/2011/09/23/don%E2%80%99t-be-loopy-ii/). Algunos de los lectores de esta bitácora, de alguna manera, han logrado evitar el cuello de botella que para SAS supone depender del acceso a disco manteniendo un uso de CPU decente que yo, dicho sea de paso, no he visto casi nunca: una CPU al 100% en un ordenador que corre SAS es una rareza digna de fotografiarse.)
+(Nota: véanse los [comentarios a algunas de las entradas anteriores de la serie](https://datanalytics.com/2011/09/23/don%E2%80%99t-be-loopy-ii/). Algunos de los lectores de esta bitácora, de alguna manera, han logrado evitar el cuello de botella que para SAS supone depender del acceso a disco manteniendo un uso de CPU decente que yo, dicho sea de paso, no he visto casi nunca: una CPU al 100% en un ordenador que corre SAS es una rareza digna de fotografiarse.)
 
 En R tenemos varias alternativas. Tal vez la más simple sea
 

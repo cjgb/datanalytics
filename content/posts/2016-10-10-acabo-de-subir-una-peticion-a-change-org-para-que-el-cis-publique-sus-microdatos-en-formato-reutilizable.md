@@ -20,4 +20,4 @@ title: Acabo de subir una petición a change.org para que el CIS publique sus mi
 url: /2016/10/10/acabo-de-subir-una-peticion-a-change-org-para-que-el-cis-publique-sus-microdatos-en-formato-reutilizable/
 ---
 
-Pues lo que digo en el título. La petición, que se autoexplica, es [esta](https://goo.gl/5qx9Vy), tiene que ver con [esto](https://www.datanalytics.com/2016/10/05/barometros-del-cis-con-r/) y si la firmas estarás contribuyendo a un buen fin.
+Pues lo que digo en el título. La petición, que se autoexplica, es [esta](https://goo.gl/5qx9Vy), tiene que ver con [esto](https://datanalytics.com/2016/10/05/barometros-del-cis-con-r/) y si la firmas estarás contribuyendo a un buen fin.

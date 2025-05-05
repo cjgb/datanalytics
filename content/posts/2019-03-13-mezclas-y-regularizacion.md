@@ -43,4 +43,4 @@ donde los valores $latex b_j = 0$ corresponden a los coeficientes del modelo nul
 
 **Nota final:** todo lo discutido aquí es un corolario tonto de la reformulación bayesiana de la cuestión. Pero esa es otra historia.
 
-**Addenda:** Véase [esto](http://www.datanalytics.com/2019/04/10/un-resultado-contraintuitivo/) donde se retoma la discusión y se llega a una conclusión muy contraintuitiva.
+**Addenda:** Véase [esto](https://datanalytics.com/2019/04/10/un-resultado-contraintuitivo/) donde se retoma la discusión y se llega a una conclusión muy contraintuitiva.

@@ -23,4 +23,4 @@ El caso es el siguiente: alguien hace la colada y al ir a tender, observa que lo
 
 La solución por máxima verosimilitud es infinitos calcetines. En efecto, cuantos más calcetines hubiese en la lavadora, más probable es obtener 11 de ellos distintos. Y la respuesta es tremendamente insatisfactoria.
 
-Comentario adicional: este problema está relacionado con este [otro](https://www.datanalytics.com/2016/01/18/el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada/), en el que la estimación del parámetro de interés por máxima verosimilitud está en una esquina muy sosa.
+Comentario adicional: este problema está relacionado con este [otro](https://datanalytics.com/2016/01/18/el-problema-de-los-tanques-alemanes-y-de-la-maxima-verosimilitud-esquinada/), en el que la estimación del parámetro de interés por máxima verosimilitud está en una esquina muy sosa.

@@ -19,7 +19,7 @@ title: Abundando en la discusión sobre matemáticas y/o informática
 url: /2019/07/16/abundando-en-la-discusion-sobre-matematicas-y-o-informatica/
 ---
 
-Voy a abundar sobre la entrada de hace unos días, _[¿Informática o matemáticas?, una pregunta muy mal planteada](https://www.datanalytics.com/2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/)_, mostrando simplemente un ejemplo del tipo de cosas que se espera de los matemáticos y/o estadísticos cuando trabajan en _ciencia de datos_ y para las cuales los informáticos no están particularmente mejor entrenados (_de serie_) que otras especies faunísticas.
+Voy a abundar sobre la entrada de hace unos días, _[¿Informática o matemáticas?, una pregunta muy mal planteada](https://datanalytics.com/2019/06/11/informatica-o-matematicas-una-pregunta-muy-mal-formulada/)_, mostrando simplemente un ejemplo del tipo de cosas que se espera de los matemáticos y/o estadísticos cuando trabajan en _ciencia de datos_ y para las cuales los informáticos no están particularmente mejor entrenados (_de serie_) que otras especies faunísticas.
 
 Es [este](https://www.briancallander.com/posts/customer_lifetime_value/recency_frequency.html).
 

@@ -24,7 +24,7 @@ url: /2017/09/05/predecir-a-los-predictores-por-incordiar/
 
 Sirve esta entrada para hacer saber lo fundamental del trabajo de fin de master (TFM en lo que sigue) de [Susana Huedo](https://www.linkedin.com/in/susana-huedo-garc%C3%ADa-7478b1143/) (que busca trabajo y es una chica muy sabida, aplicada y espabilada) en el [CIFF](http://www.ciff.net/). Los TFM que propongo y acabo supervisando jamás tienen vocación de criogénesis anaquélica. A Susana le sugerí un tema muy _punk_ y con recorrido: [tratar de] predecir a los predictores. Fundamentalmente, para joder.
 
-Los chefs de encuestas electorales tienen dos discursos —uno previo y otro posterior a la publicación de los resultados—, una serie de recetas y datos que solo [excepcionalmente](https://www.datanalytics.com/2012/10/08/las-cosquillas-de-los-sondeos-electorales/) publican. Dirán que se ciñen a una metodología científica, etc. Literatura.
+Los chefs de encuestas electorales tienen dos discursos —uno previo y otro posterior a la publicación de los resultados—, una serie de recetas y datos que solo [excepcionalmente](https://datanalytics.com/2012/10/08/las-cosquillas-de-los-sondeos-electorales/) publican. Dirán que se ciñen a una metodología científica, etc. Literatura.
 
 Existe una _metodología_ alternativa, una hipótesis malévola, que es la que explora el TFM: que los _chefs_ ignoran sus datos y, simplemente, emplatan el _consenso_ de las últimas encuestas publicadas con aliño del sesgo ideológico del medio que apoquina. En términos matematicoides,
 

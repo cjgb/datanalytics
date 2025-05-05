@@ -19,7 +19,7 @@ title: ¿Quién inventó los "random forests"?
 url: /2021/07/21/quien-invento-los-random-forests/
 ---
 
-[_Este artículo tiene una corrección ---tachado en el texto que sigue--- posterior a la fecha de publicación original. Véase la entrada  ["¿Cómo aleatorizan las columnas los RRFF?: un experimento mental y una coda histórica"](https://www.datanalytics.com/2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica/) para obtener más información al respecto.]_
+[_Este artículo tiene una corrección ---tachado en el texto que sigue--- posterior a la fecha de publicación original. Véase la entrada  ["¿Cómo aleatorizan las columnas los RRFF?: un experimento mental y una coda histórica"](https://datanalytics.com/2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-una-coda-historica/) para obtener más información al respecto.]_
 
 Si hacemos caso, por ejemplo, a la gente que estaba allí entonces, la que estaba al día de todo lo que se publicaba en la época, la que conocía personalmente a los presuntos implicados y la que seguramente había tenido constancia previa de la idea en alguna pizarra o en la servilleta de una cafetería, fue Leo Breiman en 2001. Así nos lo cuentan, por ejemplo, Hastie et al. al principio del capítulo 15 de _The Elements of Statistical Learning_ (2ª edición):
 

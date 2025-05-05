@@ -21,7 +21,7 @@ title: Una revisita a "El arte funcional"
 url: /2013/08/29/una-revisita-a-el-arte-funcional/
 ---
 
-Hace casi precisamente un año escribí sobre [El Arte Funcional](http://www.datanalytics.com/2012/09/12/el-arte-funcional-una-revision-personal/), un libro muy recomendable de Alberto Cairo.
+Hace casi precisamente un año escribí sobre [El Arte Funcional](https://datanalytics.com/2012/09/12/el-arte-funcional-una-revision-personal/), un libro muy recomendable de Alberto Cairo.
 
 Hice una crítica sobre una de las secciones del libro:
 

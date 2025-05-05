@@ -19,7 +19,7 @@ title: Gestión de la mendacidad encuestoelectoral
 url: /2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/
 ---
 
-Lo de que la gente que miente al ser encuestada se ha esgrimido frecuentemente en los últimos días. Inspirado en [esto](https://www.datanalytics.com/2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/), se me ha ocurrido (posiblemente reocurrido: es fácil que la idea sea conocida, sobre todo si resulta ser buena) el siguiente procedimiento para la realización de encuestas electorales.
+Lo de que la gente que miente al ser encuestada se ha esgrimido frecuentemente en los últimos días. Inspirado en [esto](https://datanalytics.com/2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/), se me ha ocurrido (posiblemente reocurrido: es fácil que la idea sea conocida, sobre todo si resulta ser buena) el siguiente procedimiento para la realización de encuestas electorales.
 
 * El encuestador va provisto de una colección de cartulinas en las que aparecen parejas de nombres de partidos políticos.
 * El encuestador muestra al encuestado una cartulina al azar dentro de su colección.

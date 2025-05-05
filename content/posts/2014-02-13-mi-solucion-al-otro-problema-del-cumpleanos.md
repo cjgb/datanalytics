@@ -19,7 +19,7 @@ title: Mi solución al otro problema del cumpleaños
 url: /2014/02/13/mi-solucion-al-otro-problema-del-cumpleanos/
 ---
 
-Pues eso, que me piqué —y parte de la culpa la tiene [este sujeto](http://eliasron.com/)— con [el otro problema del cumpleaños](http://www.datanalytics.com/2014/02/05/el-otro-problema-del-cumpleanos/) y he aquí el código —exacto salvo redondeos, no mediante simulaciones— que he usado para _resolverlo_:
+Pues eso, que me piqué —y parte de la culpa la tiene [este sujeto](http://eliasron.com/)— con [el otro problema del cumpleaños](https://datanalytics.com/2014/02/05/el-otro-problema-del-cumpleanos/) y he aquí el código —exacto salvo redondeos, no mediante simulaciones— que he usado para _resolverlo_:
 
 
 {{< highlight R >}}
@@ -50,6 +50,6 @@ La solución es recursiva y está basada en el hecho de que la probabilidad busc
 
 Y que la probabilidad de dejar solo m urnas vacías se reduce al problema anterior: hay que seleccionar las m urnas (el número combinatorio), forzar a que todas las bolas, n, caigan en las k-m urnas restantes y, finalmente, que no queden huecos dentro de las k-m urnas.
 
-Y algebraicamente (para parecer un tipo serio y confundir todavía más a quienes leen [esto](http://www.datanalytics.com/2014/02/07/no-sin-evidencia/) y luego creen que lo hago de veras, veras):
+Y algebraicamente (para parecer un tipo serio y confundir todavía más a quienes leen [esto](https://datanalytics.com/2014/02/07/no-sin-evidencia/) y luego creen que lo hago de veras, veras):
 
 $$ p_k^n=1-\sum_{j=1}^k\binom{k}{j}\left(\frac{k-j}{k}\right)^np_{k-j}^n$$

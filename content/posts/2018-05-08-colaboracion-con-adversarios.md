@@ -18,7 +18,7 @@ title: Colaboración con adversarios
 url: /2018/05/08/colaboracion-con-adversarios/
 ---
 
-¿Debe usarse casco para circular con bici por las ciudades? Pues la respuesta, incluso la _data driven_, [depende a quién leas](https://www.datanalytics.com/2013/04/29/el-casco-y-las-bicis-no-porque-no/). Ídem con cualquier otro asunto.
+¿Debe usarse casco para circular con bici por las ciudades? Pues la respuesta, incluso la _data driven_, [depende a quién leas](https://datanalytics.com/2013/04/29/el-casco-y-las-bicis-no-porque-no/). Ídem con cualquier otro asunto.
 
 Por eso es relevante la propuesta de [colaboración con adversarios](http://slatestarcodex.com/2018/04/26/call-for-adversarial-collaborations/). Que se resume en:
 

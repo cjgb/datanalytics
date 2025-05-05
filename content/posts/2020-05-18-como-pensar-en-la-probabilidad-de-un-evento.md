@@ -28,4 +28,4 @@ Así:
 >
 > Sam Savage, 2004 ([fuente](https://pubsonline.informs.org/do/10.1287/orms.2004.03.14/full/))
 
-La cita está reproducida (aunque reduciendo la cifra de la apuesta a un dólar) en el libro del mismo autor _[The Flaw of Averages](https://www.datanalytics.com/2011/06/24/sobre-el-libro-the-flaw-of-averages/)_, cuyos méritos glosé por aquí hace mucho, mucho tiempo.
+La cita está reproducida (aunque reduciendo la cifra de la apuesta a un dólar) en el libro del mismo autor _[The Flaw of Averages](https://datanalytics.com/2011/06/24/sobre-el-libro-the-flaw-of-averages/)_, cuyos méritos glosé por aquí hace mucho, mucho tiempo.

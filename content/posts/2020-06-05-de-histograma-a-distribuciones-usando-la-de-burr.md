@@ -77,4 +77,4 @@ curve(dburr(x, res$par[1], res$par[2], res$par[3], res$par[4]),
 
 y me he convencido de que no.
 
-**Addenda:** Varios meses después ensayé otro procedimiento para tratar de resolver el mismo problema. Véase [esto](http://www.datanalytics.com/2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/).
+**Addenda:** Varios meses después ensayé otro procedimiento para tratar de resolver el mismo problema. Véase [esto](https://datanalytics.com/2020/09/10/distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas/).

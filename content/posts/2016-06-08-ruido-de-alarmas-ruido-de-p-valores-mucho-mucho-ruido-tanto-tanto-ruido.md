@@ -29,6 +29,6 @@ Son todas noticias relacionadas con la publicación de [esto](http://www.thelanc
 * antes del tratamiento presentaban diferencias significativas en 3 de 24 pruebas cognitivas y
 * después del tratamiento, presentaban diferencias significativas en... ¡4!
 
-Los p-valores, etc., aun ignorando todo eso de los [caminos que se bifurcan](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), lo que se haya quedado en los cajones, los problemas de homogeneidad de las subpoblaciones, el mísero tamaño muestral, etc., pues eso, bien.
+Los p-valores, etc., aun ignorando todo eso de los [caminos que se bifurcan](https://datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), lo que se haya quedado en los cajones, los problemas de homogeneidad de las subpoblaciones, el mísero tamaño muestral, etc., pues eso, bien.
 
 Pero si antes del tratamiento había diferencias reseñables en tres de las pruebas y, después, en cuatro, bien habría motivos para sospechar que solo estamos leyendo ruido, mucho, mucho ruido, tanto, tanto ruido que al final...

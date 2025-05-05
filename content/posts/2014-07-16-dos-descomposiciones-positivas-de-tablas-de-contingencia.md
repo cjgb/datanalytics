@@ -20,7 +20,7 @@ title: Dos descomposiciones positivas de tablas de contingencia
 url: /2014/07/16/dos-descomposiciones-positivas-de-tablas-de-contingencia/
 ---
 
-Voy a seguir poco a poco con este tema mío tan recurrente de las factorizaciones (aproximadas) [positivas de matrices (también positivas)](http://www.datanalytics.com/2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/). No escribo más porque, como [casi todo lo que llamamos trabajo es, simplemente ruido](http://www.blackswanreport.com/blog/2014/05/a-lot-of-what-we-call-work-is-noise/), las cosas que llevan a otras nunca pasan por el asunto en cuestión.
+Voy a seguir poco a poco con este tema mío tan recurrente de las factorizaciones (aproximadas) [positivas de matrices (también positivas)](https://datanalytics.com/2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/). No escribo más porque, como [casi todo lo que llamamos trabajo es, simplemente ruido](http://www.blackswanreport.com/blog/2014/05/a-lot-of-what-we-call-work-is-noise/), las cosas que llevan a otras nunca pasan por el asunto en cuestión.
 
 Pero hay dos descomposiciones positivas de matrices positivas bien conocidas de todos. La primera es esta: $latex X=IX$, donde $latex X$ es una matriz de dimensión nxm e $latex I$ es la cosa más parecida a la matriz identidad de dicha dimensión. No aporta gran cosa. En particular, no compresión y no comprensión de la estructura de la matriz.
 

@@ -23,7 +23,7 @@ title: Modelos directos, inversos y en los que tanto da
 url: /2017/10/23/modelos-directos-inversos-y-en-los-que-tanto-da/
 ---
 
-Continúo con [esto](https://www.datanalytics.com/2017/10/16/modelos-no-lineales-directos-e-inversos/) que concluí con una discusión que me negué a resolver sobre la geometría de los errores.
+Continúo con [esto](https://datanalytics.com/2017/10/16/modelos-no-lineales-directos-e-inversos/) que concluí con una discusión que me negué a resolver sobre la geometría de los errores.
 
 Que es la manera de entender que los problemas directos e inversos no son exactamente el mismo. Digamos que no es una medida invariante frente a reflexiones del plano (que es lo que hacemos realmente al considerar el modelo inverso).
 

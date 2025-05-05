@@ -21,7 +21,7 @@ title: Y termino con lo de los intervalos
 url: /2016/02/04/y-termino-con-lo-de-los-intervalos/
 ---
 
-Y termino con lo de los intervalos. Me refiero a [esto](http://www.datanalytics.com/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/) y [esto](http://www.datanalytics.com/2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/).
+Y termino con lo de los intervalos. Me refiero a [esto](https://datanalytics.com/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/) y [esto](https://datanalytics.com/2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/).
 
 Nunca me habría atrevido a escribir sobre el tema, y exponerme, de paso, a la muy razonadas explicaciones de quienes tuvieron a bien comentarlas, si no hubiese sido por un tema personal: el recuerdo de la frustración que me supuso hacerme en su día con la teoría subyacente tanto a las pruebas de hipótesis como a la construcción de intervalos de confianza.
 

@@ -45,7 +45,7 @@ pesos.o <- pesos[o]
 x.o[min(which(cumsum(pesos.o) > .5 * sum(pesos.o)))]
 {{< / highlight >}}
 
-Pero me parece más limpio usar el [paquete `quantreg`](http://www.datanalytics.com/2010/05/18/regresion-por-cuantiles-en-r-y-sas/):
+Pero me parece más limpio usar el [paquete `quantreg`](https://datanalytics.com/2010/05/18/regresion-por-cuantiles-en-r-y-sas/):
 
 {{< highlight R >}}
 library(quantreg)

@@ -28,7 +28,7 @@ Se trata de una ley que daría derecho a los ciudadanos a obtener datos que obre
 ](/wp-uploads/2011/09/distribucion_gasto_publico.png#center)
 
 
-La principal reserva confesable (aunque haya mil de las otras) en contra de la liberación de los datos es el de la salvaguardia de la privacidad de los individuos y, en definitiva, que los datos liberados estén debidamente anonimizados. No es tema baladí y [ya me he ocupado de él](http://www.datanalytics.com/2011/09/22/anonimidad-y-cantidad-de-informacion/) en una ocasión en esta bitácora.
+La principal reserva confesable (aunque haya mil de las otras) en contra de la liberación de los datos es el de la salvaguardia de la privacidad de los individuos y, en definitiva, que los datos liberados estén debidamente anonimizados. No es tema baladí y [ya me he ocupado de él](https://datanalytics.com/2011/09/22/anonimidad-y-cantidad-de-informacion/) en una ocasión en esta bitácora.
 
 Los interesados en estos asuntos (y que residan por la zona de Madrid) tendrán ocasión de [oírme hablar del tema en el Seminario del Departamento de Fundamentos del Análisis Económico I y II de la Universidad Complutense el 18 de octubre](http://www.ucm.es/info/icae/seminario/).
 

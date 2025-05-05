@@ -32,4 +32,4 @@ Podría pensarse que es una crítica a la teoría del _hombre medio_ de Quetelet
 
 Dicho de otra manera, al crecer el número de dimensiones, todos somos _outliers_. Una lección muy a tener en cuenta tanto cuando se diseñan cabinas de aviones de combate como cuando se pretende describir _clústers_.
 
-**Addenda:** Alguien querrá también mirar [esto](https://www.datanalytics.com/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/), que fue escrito meses después de publicada esta entrada y que trata, prácticamente, el mismo problema desde una óptima más abstracta.
+**Addenda:** Alguien querrá también mirar [esto](https://datanalytics.com/2021/02/18/donde-son-mas-frecuentes-las-muestras-de-una-distribucion-en-dimensiones-altas/), que fue escrito meses después de publicada esta entrada y que trata, prácticamente, el mismo problema desde una óptima más abstracta.

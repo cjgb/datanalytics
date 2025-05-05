@@ -21,7 +21,7 @@ title: Por qué soy escéptico con respecto al periodismo de datos
 url: /2014/07/07/por-que-soy-esceptico-con-respecto-al-periodismo-de-datos/
 ---
 
-Lo dejé dicho hace un tiempo: en algún momento de [esta charla](http://www.datanalytics.com/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/) expresé mis motivos.
+Lo dejé dicho hace un tiempo: en algún momento de [esta charla](https://datanalytics.com/2013/05/29/video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos/) expresé mis motivos.
 
 Hay iniciativas muy encomiables que abogan por la apertura de datos. Convengo que la disponibilidad de datos de organizaciones púbicas y privadas facilitaría su fiscalización. En particular, la fiscalización que realiza la prensa: su acción sería más eficaz de no tener que jugar al gato y al ratón.
 

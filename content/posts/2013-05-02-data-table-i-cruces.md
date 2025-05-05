@@ -104,7 +104,7 @@ dim(res)
 
 Resumen:
 
-* Había hecho unas [pruebas con _data.table_](http://www.datanalytics.com/2010/09/06/536/) previamente que no resultaron del todo satisfactorias.
+* Había hecho unas [pruebas con _data.table_](https://datanalytics.com/2010/09/06/536/) previamente que no resultaron del todo satisfactorias.
 * Anoche, `data.table` me sacó de un apuro muy serio.
 * Ahora soy _fan_.
 * Gracias a `data.table`, el límite de tamaño de los conjuntos de datos con los que soy capaz de trabajar razonablemente con R ha crecido en todo un orden de magnitud: ya no me asusta que me hablen de _millones_.

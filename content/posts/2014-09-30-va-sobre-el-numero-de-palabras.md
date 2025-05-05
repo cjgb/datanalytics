@@ -29,4 +29,4 @@ Trataré de usar pocas hoy. El otro día vi
 
 Nota: curioso el gráfico anterior. Una de las variables es un stock y la otra es un flujo.
 
-Otra nota: ahora que veo el gráfico me acuerdo de [esto](http://www.datanalytics.com/2011/05/31/graficaca-en-el-ft/). Superpones dos funciones más o menos monótonas en una gráfica de doble escala y ya tienes la entrada/artículo del día.
+Otra nota: ahora que veo el gráfico me acuerdo de [esto](https://datanalytics.com/2011/05/31/graficaca-en-el-ft/). Superpones dos funciones más o menos monótonas en una gráfica de doble escala y ya tienes la entrada/artículo del día.

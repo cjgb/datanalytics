@@ -22,7 +22,7 @@ title: El porqué de los mínimos cuadrados con restricciones
 url: /2014/06/09/por-que-de-los-minimos-cuadrados-con-restricciones/
 ---
 
-Avisé en mi entrada del otro día: [no me preguntéis por qué](http://www.datanalytics.com/2014/06/05/minimos-cuadrados-con-restricciones/) (imponer restricciones en un problema de mínimos cuadrados).
+Avisé en mi entrada del otro día: [no me preguntéis por qué](https://datanalytics.com/2014/06/05/minimos-cuadrados-con-restricciones/) (imponer restricciones en un problema de mínimos cuadrados).
 
 Pero cuanto más pienso sobre ello, menos claro lo tengo. ¿Por qué restricciones?
 

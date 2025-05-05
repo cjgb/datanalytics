@@ -19,7 +19,7 @@ title: Las dos culturas, con comentarios de 2016
 url: /2016/11/07/las-dos-culturas-con-comentarios-de-2016/
 ---
 
-En 2012 mencioné de pasada ese [artículo de Breiman](https://www.datanalytics.com/2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/) al que hace referencia el título. Estaba bien, tenía su gracia.
+En 2012 mencioné de pasada ese [artículo de Breiman](https://datanalytics.com/2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/) al que hace referencia el título. Estaba bien, tenía su gracia.
 
 ![leo_breiman](/wp-uploads/2016/11/Leo_Breiman.jpg)
 

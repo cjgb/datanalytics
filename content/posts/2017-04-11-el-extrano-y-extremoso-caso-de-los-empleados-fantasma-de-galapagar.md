@@ -36,5 +36,5 @@ Es, en versión extendida, [_Misterio resuelto: los nuevos empleos de Galapagar 
 
 * Los funcionarios encargados de recopilar cifras (como, en particular, las que motivan esta entrada) serán muchas cosas no todas buenas ni deseables, pero trabajan abnegadamente y ajustándose a la norma.
 * _Artefacto administrativo_ siempre es una posible (y típicamente, la más probable) causa de este tipo de incongruencias.
-* Los datos de afiliación [no son un _proxy_ sino de sí mismos](https://www.datanalytics.com/2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/).
+* Los datos de afiliación [no son un _proxy_ sino de sí mismos](https://datanalytics.com/2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/).
 * Cuando los [tirios atizan a los troyanos](http://ecodiario.eleconomista.es/espana/noticias/8252941/03/17/Madrid-mato-asegura-que-en-la-capital-la-afiliacion-a-la-seguridad-crece-al-doble-que-en-la-comunidad-y-al-triple-que-en-espana.html) (o los tirios a los troyanos, que también lo han hecho aunque no encuentro el enlace ahora) con cifras de afiliación a la Seguridad Social en mano, nos están tratando como gilipollas porque lo somos y, en el fondo, nos encanta.

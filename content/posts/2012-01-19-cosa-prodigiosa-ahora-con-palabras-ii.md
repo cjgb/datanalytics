@@ -20,7 +20,7 @@ title: Cosa prodigiosa, ahora con palabras (II)
 url: /2012/01/19/cosa-prodigiosa-ahora-con-palabras-ii/
 ---
 
-Tal como prometí hace ahora una semana, voy a añadir las palabras que faltaban en [aquella entrada](http://www.datanalytics.com/2012/01/12/cosa-prodigiosa-sin-palabras-i/). Pero primero, imaginad un bar en el que se venden cafés y cervezas. El coste de servir un café es de 1.10 euros pero se vende por 1. El coste de servir una cerveza es 1.30 euros pero se vende por 1.10. Entran los clientes y piden o café o cerveza. ¡Y resulta que a fin de mes el bar hace dinero!
+Tal como prometí hace ahora una semana, voy a añadir las palabras que faltaban en [aquella entrada](https://datanalytics.com/2012/01/12/cosa-prodigiosa-sin-palabras-i/). Pero primero, imaginad un bar en el que se venden cafés y cervezas. El coste de servir un café es de 1.10 euros pero se vende por 1. El coste de servir una cerveza es 1.30 euros pero se vende por 1.10. Entran los clientes y piden o café o cerveza. ¡Y resulta que a fin de mes el bar hace dinero!
 
 ¿Es posible eso? No, obviamente... ¿o sí? Sigamos leyendo.
 

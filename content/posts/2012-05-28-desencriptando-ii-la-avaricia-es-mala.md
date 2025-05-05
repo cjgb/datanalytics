@@ -20,7 +20,7 @@ title: 'Desencriptando (II): la avaricia es mala'
 url: /2012/05/28/desencriptando-ii-la-avaricia-es-mala/
 ---
 
-El otro día propuse y [resolví un problema de encriptación con R](http://www.datanalytics.com/2012/05/21/desencriptando-i-el-problema-de-un-mal-amigo/). Utilizaba uno de los llamados métodos _avariciosos_ (o _greedy_) para hallar el máximo de una función (que era, en esencia, la función de verosimilitud de una determinada permutación de caracteres dentro del espacio probabilístico de todas ellas).
+El otro día propuse y [resolví un problema de encriptación con R](https://datanalytics.com/2012/05/21/desencriptando-i-el-problema-de-un-mal-amigo/). Utilizaba uno de los llamados métodos _avariciosos_ (o _greedy_) para hallar el máximo de una función (que era, en esencia, la función de verosimilitud de una determinada permutación de caracteres dentro del espacio probabilístico de todas ellas).
 
 Este método funcionó con una cadena relativamente larga para desencriptar pero falla con otras más cortas. Por ejemplo, con
 

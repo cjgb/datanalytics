@@ -26,4 +26,4 @@ Y esa es la entrada que nunca escribí en su día. Y ahora llego tarde porque [a
 
 (Gracias se le deben a Gema Mora, exalumna de mi [curso de R en KSchool](http://kschool.com/cursos/madrid/programa-profesional-de-iniciacion-a-r/), que me ha pasado la nota; me alegro mucho de verla activa en estos menesteres).
 
-**Addenda:** atención al tercer punto de [esto](http://www.datanalytics.com/2017/01/20/la-h-filosofia-de-la-estadistica-en-once-puntos/).
+**Addenda:** atención al tercer punto de [esto](https://datanalytics.com/2017/01/20/la-h-filosofia-de-la-estadistica-en-once-puntos/).

@@ -20,7 +20,7 @@ title: ¿Afectó el fraude de Barclays al Libor?
 url: /2012/07/05/afecto-el-fraude-de-barclays-al-libor/
 ---
 
-Después de la [entrada de ayer](http://www.datanalytics.com/2012/07/04/libor-libor-fundeu-y-barclays-claro/) y de
+Después de la [entrada de ayer](https://datanalytics.com/2012/07/04/libor-libor-fundeu-y-barclays-claro/) y de
 
 [![](/wp-uploads/2012/07/tuit_david_cabo.png#center)
 ](/wp-uploads/2012/07/tuit_david_cabo.png#center)

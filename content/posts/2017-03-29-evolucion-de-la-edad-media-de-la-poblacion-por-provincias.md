@@ -23,7 +23,7 @@ title: Evolución de la edad media de la población por provincias
 url: /2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/
 ---
 
-Abundo en la [entrada de ayer](https://www.datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/). Lo hago para mostrar
+Abundo en la [entrada de ayer](https://datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/). Lo hago para mostrar
 
 ![](/wp-uploads/2017/03/evolucion_edad_media_provincias.png#center)
 

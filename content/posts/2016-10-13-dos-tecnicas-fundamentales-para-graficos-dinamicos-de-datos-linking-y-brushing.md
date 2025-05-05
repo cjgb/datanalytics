@@ -19,7 +19,7 @@ title: 'Dos técnicas fundamentales para gráficos dinámicos de datos: "linking
 url: /2016/10/13/dos-tecnicas-fundamentales-para-graficos-dinamicos-de-datos-linking-y-brushing/
 ---
 
-El otro día me tocó enseñar algo de lo que no sé mucho: gráficos interactivos con R. Hay [muchos paquetes](https://www.datanalytics.com/2016/04/27/graficos-interactivos-con-r-un-resumen/) que vienen a hacer más o menos lo mismo. Es tentador limitarse a eso, a exponerlas. O más bien, a exponer unas vías de entrada, a establecer unas cabezas de playa desde las cuales el interesado pueda avanzar autónomamente.
+El otro día me tocó enseñar algo de lo que no sé mucho: gráficos interactivos con R. Hay [muchos paquetes](https://datanalytics.com/2016/04/27/graficos-interactivos-con-r-un-resumen/) que vienen a hacer más o menos lo mismo. Es tentador limitarse a eso, a exponerlas. O más bien, a exponer unas vías de entrada, a establecer unas cabezas de playa desde las cuales el interesado pueda avanzar autónomamente.
 
 Tanto (tentador) que uno pasa por alto la razón de ser misma de querer incorporar interactividad a los gráficos. Por el camino, dos técnicas fundamentales y muy útiles para tal fin: _linking_ y _brushing_.
 

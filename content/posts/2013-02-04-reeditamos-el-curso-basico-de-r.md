@@ -19,7 +19,7 @@ title: ¡Reeditamos el curso básico de R!
 url: /2013/02/04/reeditamos-el-curso-basico-de-r/
 ---
 
-El año pasado, [Juanjo Gibaja](http://jjgibaja.net/) y yo organizamos nuestro [primer Curso Básico de R](http://www.datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). En esta entrada quiero anunciar su inminente reedición: ¡comienza el 11 de febrero!
+El año pasado, [Juanjo Gibaja](http://jjgibaja.net/) y yo organizamos nuestro [primer Curso Básico de R](https://datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). En esta entrada quiero anunciar su inminente reedición: ¡comienza el 11 de febrero!
 
 Las características del curso van a seguir siendo, esencialmente, las mismas:
 

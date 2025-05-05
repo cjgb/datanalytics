@@ -59,6 +59,6 @@ _[Nota: desgraciadamente, el mismo Keynes pide no confundir el grado de certeza 
 
 Estas cuestiones que plantea Keynes no son especulativas: vienen motivadas por la práctica de la teoría de la probabilidad. Sus respuestas no son las que nos parecen hoy en día las correctas. Pero muchos siguen todavía o resolviéndolas incorrectamente o, lo que es aún más reprochable, ignorándolas.
 
-Seguimos, por ejemplo, confiando ciegamente en los ránkings (véase [esto](https://www.datanalytics.com/2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/), por ejemplo), ignorando intervalos de confianza (o credibilidad), haciendo exégesis del segundo decimal de una estimación del INE, etc.
+Seguimos, por ejemplo, confiando ciegamente en los ránkings (véase [esto](https://datanalytics.com/2019/04/03/incertidumbre-en-rankings-o-como-la-varianza-es-la-mayor-enemiga-de-la-meritocracia/), por ejemplo), ignorando intervalos de confianza (o credibilidad), haciendo exégesis del segundo decimal de una estimación del INE, etc.
 
 ¿Podría ser, planteo, porque ahora contamos con una teoría más asentada que nos hace avanzar en modo _piloto automático_ desestimando consideraciones muy naturales que en otra época tal vez eran más conspicuas?

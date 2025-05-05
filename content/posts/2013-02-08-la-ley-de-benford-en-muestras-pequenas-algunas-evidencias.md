@@ -18,7 +18,7 @@ title: 'La ley de Benford en muestras pequeñas: algunas evidencias'
 url: /2013/02/08/la-ley-de-benford-en-muestras-pequenas-algunas-evidencias/
 ---
 
-Hoy he cogido medio millón de números correspondientes a cuantías de dinero, en diversas monedas y he mirado a ver si cumplían la [Ley de Benford](http://en.wikipedia.org/wiki/Benford%27s_law) utilizando [código de Gregorio Serrano](http://www.grserrano.es/wp/2010/11/ejemplo-r-ley-de-benford-en-las-elecciones-catalanas-2/) (véase también [esto](http://www.datanalytics.com/2011/09/15/la-ley-de-benford/)). El resultado ha sido
+Hoy he cogido medio millón de números correspondientes a cuantías de dinero, en diversas monedas y he mirado a ver si cumplían la [Ley de Benford](http://en.wikipedia.org/wiki/Benford%27s_law) utilizando [código de Gregorio Serrano](http://www.grserrano.es/wp/2010/11/ejemplo-r-ley-de-benford-en-las-elecciones-catalanas-2/) (véase también [esto](https://datanalytics.com/2011/09/15/la-ley-de-benford/)). El resultado ha sido
 
 [![](/wp-uploads/2013/02/todos.png#center)
 ](/wp-uploads/2013/02/todos.png#center)

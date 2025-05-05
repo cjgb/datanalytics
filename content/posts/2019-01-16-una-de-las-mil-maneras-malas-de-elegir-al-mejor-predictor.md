@@ -18,7 +18,7 @@ title: Una de las mil maneras malas de elegir al mejor predictor
 url: /2019/01/16/una-de-las-mil-maneras-malas-de-elegir-al-mejor-predictor/
 ---
 
-El contexto, [ayer](https://www.datanalytics.com/2019/01/15/quien-sera-el-mejor-predictor-como-se-podra-medir/).
+El contexto, [ayer](https://datanalytics.com/2019/01/15/quien-sera-el-mejor-predictor-como-se-podra-medir/).
 
 La cosa es que se nos podría ocurrir premiar a los predictores cuando asignan probabilidad alta a los sucesos que ocurrieron y baja a los que no. Por ejemplo, si el evento $latex i$ ocurre, premiar al predictor con $latex p_i$ y si no ocurre, con $latex 1 - p_i$. Escrito de otra manera, con $latex p_i(X_i)$ (que quiere decir la probabilidad correspondiente al evento observado).
 

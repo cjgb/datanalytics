@@ -24,7 +24,7 @@ Recibí recientemente este correo (con los enlaces que aparecen en él; solo he 
 >
 >Hi Carlos,
 >
->I was doing some research for our students here at Udemy on people using Scala resources and when I came across [your site](http://www.datanalytics.com/2014/06/12/hoy-he-echado-de-menos-scala/), saw you were using the tutorial from [Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language)).
+>I was doing some research for our students here at Udemy on people using Scala resources and when I came across [your site](https://datanalytics.com/2014/06/12/hoy-he-echado-de-menos-scala/), saw you were using the tutorial from [Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language)).
 >
 >We really like that resource, and actually created our own that we think is a perfect supplement! This [Scala tutorial](https://blog.udemy.com/scala-tutorial-getting-started-with-scala/) is text-and image based, easy to search for quick answers, and super helpful for anyone: as a base for learning or as a reference guide.
 >

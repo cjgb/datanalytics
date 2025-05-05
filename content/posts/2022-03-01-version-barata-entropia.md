@@ -18,7 +18,7 @@ title: Usos de la versión barata de la entropía
 url: /2022/03/01/usos-version-barata-entropia/
 ---
 
-[Aquí](https://www.datanalytics.com/2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia/)
+[Aquí](https://datanalytics.com/2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia/)
 argumenté que
 
 $$\sum_i p^2_i$$

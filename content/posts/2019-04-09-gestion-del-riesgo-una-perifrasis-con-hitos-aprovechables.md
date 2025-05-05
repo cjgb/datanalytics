@@ -28,7 +28,7 @@ Traigo a la consideración de mis lectores [_Sobre la Sostenibilidad Fiscal de E
 
 ¿En serio? ¡No jodas, hermano! A otro que no fuera Fernández Villaverde, por mucho menos, lo habría dejado de leer a perpetuidad (por mucha [referencia académica](http://www.jstor.org/stable/1910260) que se aportase). Afortunadamente, el resto del artículo no deja de ser una acumulación de evidencias por las que precisamente lo contrario es, si no cierto, al menos, sensato.
 
-Así, cita y se refiere a la diferencia entre incertidumbre y riesgo a lo Knight ([ya tratado hace tiempo en estas páginas](https://www.datanalytics.com/2011/03/11/riesgo-e-incertidumbre/)), subrayando primero la manifiesta existencia de escenarios con distintas probabilidades de ocurrencia y, después, muy a lo Taleb, el hecho incuestionable de que los positivos y los negativos tienen _payoffs_ asimétricos y que, en concreto:
+Así, cita y se refiere a la diferencia entre incertidumbre y riesgo a lo Knight ([ya tratado hace tiempo en estas páginas](https://datanalytics.com/2011/03/11/riesgo-e-incertidumbre/)), subrayando primero la manifiesta existencia de escenarios con distintas probabilidades de ocurrencia y, después, muy a lo Taleb, el hecho incuestionable de que los positivos y los negativos tienen _payoffs_ asimétricos y que, en concreto:
 
 >[...] nos deben de preocupar mucho más que la cosas vayan peor que lo que asumimos en la primera entrada (que bien pudiera ser el caso) que nos consuela en el que puedan ir mejor si todas las condiciones se alinean correctamente [...]
 

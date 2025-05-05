@@ -70,7 +70,7 @@ De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso
 ](/wp-uploads/2012/07/estadistica.png#center)
 
 
-(Perdón por la [graficaca](http://www.datanalytics.com/2011/03/02/1658/): son cosas de Google).
+(Perdón por la [graficaca](https://datanalytics.com/2011/03/02/1658/): son cosas de Google).
 
 De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso avanzado de R?
 

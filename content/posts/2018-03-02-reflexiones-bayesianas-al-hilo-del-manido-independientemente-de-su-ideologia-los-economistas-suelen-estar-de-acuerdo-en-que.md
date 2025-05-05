@@ -27,7 +27,7 @@ Así que si aceptáis mis premisas (_postmisas_: vienen después), tendréis que
 
 >La distribución a posteriori es asintóticamente independiente de la distribución a priori conforme crece el tamaño de la muestra.
 
-La primera de mis premisas, ya [discutida antes de pasada en estas páginas](https://www.datanalytics.com/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/), es que la ideología opera (subrayo que uso _opera_ y no _es_, por si acaso me meto en un huerto) como una priori.
+La primera de mis premisas, ya [discutida antes de pasada en estas páginas](https://datanalytics.com/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/), es que la ideología opera (subrayo que uso _opera_ y no _es_, por si acaso me meto en un huerto) como una priori.
 
 ![](/wp-uploads/2018/02/primate.png#center)
 

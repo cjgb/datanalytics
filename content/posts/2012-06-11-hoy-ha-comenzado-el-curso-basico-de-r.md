@@ -20,7 +20,7 @@ title: Hoy ha comenzado el curso básico de R
 url: /2012/06/11/hoy-ha-comenzado-el-curso-basico-de-r/
 ---
 
-Hoy ha comenzado el [curso básico de R](http://www.datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). A [Juanjo Gibaja](http://jjgibaja.net/) y a mí nos ha sorprendido (muy agradablemente, por cierto) el espectacular recibimiento que ha merecido el curso: tenemos prácticamente 700 usuarios registrados.
+Hoy ha comenzado el [curso básico de R](https://datanalytics.com/2012/06/01/curso-de-r-gratuito-no-presencial/). A [Juanjo Gibaja](http://jjgibaja.net/) y a mí nos ha sorprendido (muy agradablemente, por cierto) el espectacular recibimiento que ha merecido el curso: tenemos prácticamente 700 usuarios registrados.
 
 El programa de la primera semana cubre:
 

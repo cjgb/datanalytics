@@ -21,6 +21,6 @@ title: ¿Por que slt-ear si puedes stR-ear?
 url: /2018/07/25/por-que-slt-ear-si-puedes-str-ear/
 ---
 
-La función `stl` (véase [aquí](https://www.datanalytics.com/2018/07/23/suicidios-crisis-y-cambios-de-regimen-en-series-temporales/) un ejemplo de uso). Pero tiene sus limitaciones.
+La función `stl` (véase [aquí](https://datanalytics.com/2018/07/23/suicidios-crisis-y-cambios-de-regimen-en-series-temporales/) un ejemplo de uso). Pero tiene sus limitaciones.
 
 El paquete [`stR`](https://cran.r-project.org/web/packages/stR/vignettes/stRvignette.html) la extiende y permite, entre otras cosas, introducir distintos tipos de estacionalidades (p.e., anuales y semanales).

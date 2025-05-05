@@ -28,7 +28,7 @@ url: /2018/01/09/mortalidad-en-carretera-contada-de-una-manera-distinta/
 
 Con motivo de fin de año se ha hablado de fallecidos en accidentes de tráfico como por ejemplo en [El Mundo](http://www.elmundo.es/motor/2018/01/03/5a4cb63a468aeb18298b45c4.html) o en [El País](https://elpais.com/elpais/2018/01/06/hechos/1515272812_112078.html). Y sí, parece que el número observado de muertos ha aumentado.
 
-Lo cual es mucho menos relevante de lo que se da a entender. Si tiras una moneda al aire 100 veces y sacas 48 caras y luego repites el experimento, podrías sacar 53 (y habría aumentado el número observado de caras) o 45 (y habría disminuido). Lo relevante es si ha cambiado o no la probabilidad de cara de la moneda. De lo cual, y volviendo al caso de la siniestralidad, [ya me ocupé en su día](https://www.datanalytics.com/2017/01/18/va-de-si-hay-una-o-dos-lambdas/).
+Lo cual es mucho menos relevante de lo que se da a entender. Si tiras una moneda al aire 100 veces y sacas 48 caras y luego repites el experimento, podrías sacar 53 (y habría aumentado el número observado de caras) o 45 (y habría disminuido). Lo relevante es si ha cambiado o no la probabilidad de cara de la moneda. De lo cual, y volviendo al caso de la siniestralidad, [ya me ocupé en su día](https://datanalytics.com/2017/01/18/va-de-si-hay-una-o-dos-lambdas/).
 
 Pero voy a aprovechar la coyuntura para sacarle un poco de punta al asunto.
 

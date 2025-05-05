@@ -36,6 +36,6 @@ Lo siento, ese era otro chiste. Comienzo de nuevo.
 
 —Convengo.
 
-**P.D.:** Esta entrada me recuerda [esta otra](http://www.datanalytics.com/2012/10/26/hhh-hht-y-el-comando-yield-de-python/) que recomiendo a quien haya quedado con ganas de más.
+**P.D.:** Esta entrada me recuerda [esta otra](https://datanalytics.com/2012/10/26/hhh-hht-y-el-comando-yield-de-python/) que recomiendo a quien haya quedado con ganas de más.
 
 **P.P.D.:** Tengo la sensación de que Google ha decidido comenzar a borrar de su memoria entradas antiguas de esta bitácora.

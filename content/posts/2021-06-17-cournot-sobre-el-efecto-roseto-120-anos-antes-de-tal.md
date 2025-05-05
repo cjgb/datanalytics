@@ -23,7 +23,7 @@ title: Cournot sobre el "efecto Roseto", 120 años antes de tal
 url: /2021/06/17/cournot-sobre-el-efecto-roseto-120-anos-antes-de-tal/
 ---
 
-Esta entrada abunda sobre una de la semana pasada sobre el llamado [_efecto Roseto_](https://www.datanalytics.com/2021/06/08/sobre-el-llamado-efecto-roseto/). El Cournot al que alude el titulo es el Cournot famoso (1801-1877) al que, a pesar de ser más conocido por sus aportaciones a la economía, debemos una [_Exposition de la théorie des chances et des probabilités_](https://arxiv.org/pdf/1902.02781.pdf) de 1843.
+Esta entrada abunda sobre una de la semana pasada sobre el llamado [_efecto Roseto_](https://datanalytics.com/2021/06/08/sobre-el-llamado-efecto-roseto/). El Cournot al que alude el titulo es el Cournot famoso (1801-1877) al que, a pesar de ser más conocido por sus aportaciones a la economía, debemos una [_Exposition de la théorie des chances et des probabilités_](https://arxiv.org/pdf/1902.02781.pdf) de 1843.
 
 En su párrafo 114 critica explícitamente el tipo de conclusiones a las que llegan los descuidados exégetas del asunto Roseto y que Stigler comenta así:
 

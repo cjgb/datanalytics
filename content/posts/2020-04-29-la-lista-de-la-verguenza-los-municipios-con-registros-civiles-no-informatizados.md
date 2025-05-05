@@ -21,7 +21,7 @@ url: /2020/04/29/la-lista-de-la-verguenza-los-municipios-con-registros-civiles-n
 
 _[Nota: la lista pudiera contener errores. Se ha extraído de un sistema de la informatización o no de los registros civiles está deducida indirectamente.]_
 
-Se ha hablado últimamente de las [discrepancias entre los datos de mortalidad del INE y de MoMo](https://www.datanalytics.com/2020/04/21/defunciones-ine-vs-momo/) y creo que a estas alturas del partido ya sabemos casi todos que se deben a que el segundo sistema solo se nutre de datos de los registros civiles informatizados.
+Se ha hablado últimamente de las [discrepancias entre los datos de mortalidad del INE y de MoMo](https://datanalytics.com/2020/04/21/defunciones-ine-vs-momo/) y creo que a estas alturas del partido ya sabemos casi todos que se deben a que el segundo sistema solo se nutre de datos de los registros civiles informatizados.
 
 Lo de la informatización de los registros civiles es una especie de vergüenza nacional que expone a la luz lo peor de las partes interesadas ---ministerio, funcionarios, sindicatos, etc.--- como una somera revisión de los resultados que ofrece Google cuando se le pregunta por el tema pone de manifiesto. Como consecuencia (o como motivo, según se mire), es imposible saber en qué estado se encuentran los registros civiles.
 

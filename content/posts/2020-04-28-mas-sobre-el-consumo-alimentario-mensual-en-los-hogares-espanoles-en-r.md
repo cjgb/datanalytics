@@ -20,7 +20,7 @@ title: Más sobre el consumo alimentario mensual en los hogares españoles en R
 url: /2020/04/28/mas-sobre-el-consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/
 ---
 
-He actualizado el repositorio que anuncié [aquí](https://www.datanalytics.com/2020/04/01/consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/), es decir, [este](https://github.com/cjgb/consumo_mensual_alimentos), con una función adicional cuya razón de ser es la siguiente:
+He actualizado el repositorio que anuncié [aquí](https://datanalytics.com/2020/04/01/consumo-alimentario-mensual-en-los-hogares-espanoles-en-r/), es decir, [este](https://github.com/cjgb/consumo_mensual_alimentos), con una función adicional cuya razón de ser es la siguiente:
 
 * El ministerio de la cosa hace una encuesta sobre hábitos de compra y consumo de alimentos en España.
 * Luego proporciona dos _vistas_ sobre los mismos datos:

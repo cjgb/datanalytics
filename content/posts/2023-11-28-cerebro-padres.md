@@ -39,6 +39,6 @@ Finalmente, y habida cuenta de cómo tachan de carpetovetónicos a los inasequib
 
 * Por un lado, la ciencia nos dice lo que el artículo reza y los medios recogen.
 * Por otro lado, la ciencia nos advierte también acerca de lo problemático de los resultados causales, del problema de la medición de fenómenos sujetos a variaciones aleatorias, de lo inconclusivos ---e, incluso, engañosos--- que pueden llegar a ser los
-[estudios de baja potencia](https://www.datanalytics.com/2023/09/28/potencia-tests-estadisticos/) y también de los efectos de los incentivos perversos de los _facedores_ de artículos científicos.
+[estudios de baja potencia](https://datanalytics.com/2023/09/28/potencia-tests-estadisticos/) y también de los efectos de los incentivos perversos de los _facedores_ de artículos científicos.
 
 Lectores míos, elegid trinchera.

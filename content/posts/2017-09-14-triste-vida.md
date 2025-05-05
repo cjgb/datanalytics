@@ -21,7 +21,7 @@ title: Triste vida
 url: /2017/09/14/triste-vida/
 ---
 
-* Recorrer multitud de [senderos que se bifurcan](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/).
+* Recorrer multitud de [senderos que se bifurcan](https://datanalytics.com/2016/04/11/y-viene-del-espanol-tu/).
 * Maximizar la correlación.
 * Alegar causalidad.
 * Facturar.

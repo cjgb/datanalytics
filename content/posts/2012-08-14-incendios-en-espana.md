@@ -22,7 +22,7 @@ title: Incendios en España
 url: /2012/08/14/incendios-en-espana/
 ---
 
-Quienes siguen de antiguo estas páginas recordarán que ya me ocupé de la [cuestión de los incendios forestales](http://www.datanalytics.com/2011/12/12/estadisticas-de-incendios-forestales-en-espana/) hace un tiempo. Después han pasado cosas.
+Quienes siguen de antiguo estas páginas recordarán que ya me ocupé de la [cuestión de los incendios forestales](https://datanalytics.com/2011/12/12/estadisticas-de-incendios-forestales-en-espana/) hace un tiempo. Después han pasado cosas.
 
 Por un lado, vía [Alberto González Paje](http://www.ekonlab.com/) di con [esta página](http://www.ekonlab.com/?p=352), que utiliza datos del informe estadístico que publica el Ministerio de Medio Ambiente (y de otras cosas más, según la legislatura en cuestión).
 

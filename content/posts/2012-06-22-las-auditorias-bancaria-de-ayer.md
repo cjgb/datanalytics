@@ -23,7 +23,7 @@ url: /2012/06/22/las-auditorias-bancaria-de-ayer/
 
 Ayer fue día de auditorías bancarias. A las cinco y media de la tarde se enfrentaron un secretario de estado y el subgobernador del Banco de España a un pelotón de periodistas anuméricos con hambre de una sola cifra (pero de muchos ceros) con la que saciar el hambre también de una sola cifra de un país merecidamente atribulado (a más de, no se sabe si por emanación o reflejo, igualmente anumérico).
 
-Me he entretenido hojeando [uno de los informes de auditoría, el de Roland Berger](http://www.bde.es/webbde/en/secciones/prensa/info_interes/informe_rolandbergere.pdf). Son apenas 38 páginas, pocas de ellas realmente sustanciales. La consultora se ha limitado a repetir los [análisis del BdE y del FMI](http://www.datanalytics.com/2012/06/12/por-que-me-quejo-del-banco-de-espana/) de los que ya nos hemos ocupado previamente:
+Me he entretenido hojeando [uno de los informes de auditoría, el de Roland Berger](http://www.bde.es/webbde/en/secciones/prensa/info_interes/informe_rolandbergere.pdf). Son apenas 38 páginas, pocas de ellas realmente sustanciales. La consultora se ha limitado a repetir los [análisis del BdE y del FMI](https://datanalytics.com/2012/06/12/por-que-me-quejo-del-banco-de-espana/) de los que ya nos hemos ocupado previamente:
 
 * crear dos escenarios (el FMI consideró tres en su día),
 

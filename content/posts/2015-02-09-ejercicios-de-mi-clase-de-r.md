@@ -18,7 +18,7 @@ title: Ejercicios de mi clase de R
 url: /2015/02/09/ejercicios-de-mi-clase-de-r/
 ---
 
-Ya conté que participo (como profesor) en el [Experto en _Data Science_ de la U-tad](http://www.datanalytics.com/2014/10/09/experto-en-data-science-en-la-u-tad/). Voy a copiar aquí los ejercicios que propuse en la asignatura de preparación de datos con R. Por si alguien les quiere hincar el diente. En lo que sigue he eliminado algunos detalles que no vienen a cuento. He dejado el resto.
+Ya conté que participo (como profesor) en el [Experto en _Data Science_ de la U-tad](https://datanalytics.com/2014/10/09/experto-en-data-science-en-la-u-tad/). Voy a copiar aquí los ejercicios que propuse en la asignatura de preparación de datos con R. Por si alguien les quiere hincar el diente. En lo que sigue he eliminado algunos detalles que no vienen a cuento. He dejado el resto.
 
 Son así:
 

@@ -20,7 +20,7 @@ title: Disponibles los vídeos sobre periodismo de datos en MediaLab Prado
 url: /2012/01/20/disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-prado/
 ---
 
-Informaba el otro día en estas páginas sobre la [formación en captura de datos](http://www.datanalytics.com/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/) que hubo, dentro del ciclo charlas sobre de periodismo de datos, en MediaLab Prado.
+Informaba el otro día en estas páginas sobre la [formación en captura de datos](https://datanalytics.com/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/) que hubo, dentro del ciclo charlas sobre de periodismo de datos, en MediaLab Prado.
 
 [![](/wp-uploads/2012/01/captura_medialab_prado.jpg)
 ](/wp-uploads/2012/01/captura_medialab_prado.jpg)

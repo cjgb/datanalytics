@@ -21,7 +21,7 @@ title: Sobre rectángulos largos y estrechos
 url: /2021/03/30/sobre-rectangulos-largos-y-estrechos/
 ---
 
-Una de las notas que tenía de la lectura del [libro de visualización de datos de Healy](https://www.datanalytics.com/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/) se refería a los problemas de comparación que crean los rectángulos largos y estrechos. Es decir, cuando el tamaño de ciertas variables se codifica usando el área de rectángulos con dimensiones muy desiguales.
+Una de las notas que tenía de la lectura del [libro de visualización de datos de Healy](https://datanalytics.com/2020/11/05/canales-o-esteticas-de-mejor-a-peor-segun-healy/) se refería a los problemas de comparación que crean los rectángulos largos y estrechos. Es decir, cuando el tamaño de ciertas variables se codifica usando el área de rectángulos con dimensiones muy desiguales.
 
 ![](/wp-uploads/2021/03/fig1.png#center)
 

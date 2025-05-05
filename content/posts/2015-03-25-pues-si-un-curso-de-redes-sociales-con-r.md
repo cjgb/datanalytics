@@ -22,7 +22,7 @@ title: 'Pues sí: un curso de redes sociales con R'
 url: /2015/03/25/pues-si-un-curso-de-redes-sociales-con-r/
 ---
 
-Debido a la positiva acogida de la [propuesta para organizar un curso de redes sociales con R](http://www.datanalytics.com/2015/03/19/un-curso-de-redes-sociales-con-r/)... pues se va a hacer.
+Debido a la positiva acogida de la [propuesta para organizar un curso de redes sociales con R](https://datanalytics.com/2015/03/19/un-curso-de-redes-sociales-con-r/)... pues se va a hacer.
 
 * **Cuándo:** Los días 9 (jueves), 15 y 22 (miércoles ambos) de abril, de 18:00 a 20:30-21:00 horas.
 * **Lugar:** Las cuevas de [MartinaCocina](http://www.martinacocina.es) (Cascorro 11, 28005 Madrid).

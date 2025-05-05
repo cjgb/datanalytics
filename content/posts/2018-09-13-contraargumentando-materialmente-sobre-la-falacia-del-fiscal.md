@@ -21,7 +21,7 @@ title: Contraargumentando (materialmente) sobre la falacia del fiscal
 url: /2018/09/13/contraargumentando-materialmente-sobre-la-falacia-del-fiscal/
 ---
 
-Hace un par de días hablé de [la falacia del fiscal y granos de arroz](https://www.datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/). La entrada iba acompañada de
+Hace un par de días hablé de [la falacia del fiscal y granos de arroz](https://datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/). La entrada iba acompañada de
 
 ![](/wp-uploads/2018/09/tiger_isnt.png#center)
 

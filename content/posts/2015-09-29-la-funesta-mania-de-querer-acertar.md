@@ -29,7 +29,7 @@ Dicho lo cual...
 
 Kiko Llaneras ha estado elaborando predicciones del resultado de las elecciones en Cataluña durante la precampaña. Pueden verse [aquí](http://www.elespanol.com/elecciones-catalanas/como-votaran-los-catalanes-una-prediccion-del-27s-a-partir-de-las-encuestas/). El documento enlazado incluye una discusión de la metodología.
 
-A diferencia de los más de los comentaristas, Kiko ofrece, más que pretendidas certezas, distribuciones. Tal y como hacen [los que más saben](http://www.datanalytics.com/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/). Es algo aplaudible.
+A diferencia de los más de los comentaristas, Kiko ofrece, más que pretendidas certezas, distribuciones. Tal y como hacen [los que más saben](https://datanalytics.com/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/). Es algo aplaudible.
 
 Sin embargo, me desconcertó un poco el gráfico que publicó pasadas las elecciones bajo el texto "Estoy muy satisfecho con la predicción del modelo de encuestas":
 

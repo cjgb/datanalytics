@@ -32,6 +32,6 @@ Es decir, el intervalo de confianza para la cifra de parados tendría una anchur
 
 Así que casi todo lo que hemos leído sobre la EPA en los medios es, como de costumbre, ruido.
 
-**Nota:** Hace un tiempo calculé muy simplicísimamente una [estimación del error de la tasa de paro de la EPA](http://www.datanalytics.com/2012/11/28/coma-cero-dos-por-ciento-anda-ya/). Venía a dar intervalos de confianza de dos décimas, perfectamente compatibles con las que publica el INE.
+**Nota:** Hace un tiempo calculé muy simplicísimamente una [estimación del error de la tasa de paro de la EPA](https://datanalytics.com/2012/11/28/coma-cero-dos-por-ciento-anda-ya/). Venía a dar intervalos de confianza de dos décimas, perfectamente compatibles con las que publica el INE.
 
 **Otra nota:** La variación en el número de parados es la diferencia de dos estimadores puntuales, los de los dos últimos trimestres, cada uno de los cuales está sujeto a un error similar. Eso sí, las estimaciones no son independientes: muchos sujetos repiten en ambas encuestas. ¿Alguien tiene una idea de cómo estimar el error de la diferencia?

@@ -24,7 +24,7 @@ Previo:
 
   * Hoy he oído el término _dudacionista_ (de la vacuna) por primera vez. Me parece, por lo que contaré después, mucho más apropiado ---y en otros que también aclararé, mucho menos--- que _negacionista_ para muchos de los casos que conozco.
   * Varios _dudacionistas_ me han preguntado sobre mi opinión sobre su postura. Por referencia (mía y suya) y para poder contestar a los que vengan con una url, escribo lo que sigue.
-  * Escribí una entrada hace un tiempo, [esta](https://www.datanalytics.com/2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/), en el que esbozaba una postura comprensiva hacia los _dudacionistas_ en las primeras fases de la vacunación en el que argumentaba alrededor del [principio de precaución](https://es.wikipedia.org/wiki/Principio_de_precauci%C3%B3n) (esencialmente).
+  * Escribí una entrada hace un tiempo, [esta](https://datanalytics.com/2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/), en el que esbozaba una postura comprensiva hacia los _dudacionistas_ en las primeras fases de la vacunación en el que argumentaba alrededor del [principio de precaución](https://es.wikipedia.org/wiki/Principio_de_precauci%C3%B3n) (esencialmente).
   * Entonces no, pero ahora ya sí tengo mis dos dosis preceptivas de la vacuna.
 
 Tras lo cual, comienzo.

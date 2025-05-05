@@ -27,7 +27,7 @@ Es imperativo leer la nota metodológica asociada (resumida [aquí](http://www.i
 
 Se parece al IPC en el sentido que promedia el peso de cada salario (precio en el IPC) por el porcentaje de gente que lo gana (o que se compra en la canasta bienes y servicios del IPC). Son dos las cosas que pueden cambiar a la vez, por lo que la interpretación de los movimientos del índice pueden tener una doble interpretación.
 
-Los viejos de estas páginas recordarán [una entrada mía de agosto de 2013](https://www.datanalytics.com/2013/08/13/suben-o-bajan/) en la que comentaba cómo en EE.UU. los salarios medianos habían subido a la vez que habían descendido en cada uno de una serie de subgrupos definidos por el nivel de formación.
+Los viejos de estas páginas recordarán [una entrada mía de agosto de 2013](https://datanalytics.com/2013/08/13/suben-o-bajan/) en la que comentaba cómo en EE.UU. los salarios medianos habían subido a la vez que habían descendido en cada uno de una serie de subgrupos definidos por el nivel de formación.
 
 Era todo efecto de la paradoja de Simpson, el que os contempla con ceño severo para que no toméis sus contribuciones en vano:
 

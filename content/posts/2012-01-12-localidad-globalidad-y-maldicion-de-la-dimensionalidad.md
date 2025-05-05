@@ -21,7 +21,7 @@ title: Localidad, globalidad y maldición de la dimensionalidad
 url: /2012/01/13/localidad-globalidad-y-maldicion-de-la-dimensionalidad/
 ---
 
-Escribo hoy al hilo de una pregunta de la lista de correo de quienes estamos leyendo _[The elements of statistical learning](http://www.datanalytics.com/2011/12/23/nos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/)_.
+Escribo hoy al hilo de una pregunta de la lista de correo de quienes estamos leyendo _[The elements of statistical learning](https://datanalytics.com/2011/12/23/nos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa/)_.
 
 Hace referencia a la discusión del capítulo 2 del libro anterior en el que trata:
 

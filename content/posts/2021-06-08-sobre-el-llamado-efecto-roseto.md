@@ -22,7 +22,7 @@ title: Sobre el llamado "efecto Roseto"
 url: /2021/06/08/sobre-el-llamado-efecto-roseto/
 ---
 
-Escribí ya hace tiempo ([aquí](https://www.datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/)):
+Escribí ya hace tiempo ([aquí](https://datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/)):
 
 >Relata lo ocurrido en un pueblo inglés en el que una noche, unos vecinos (presuntamente), descendientes sin duda de aquellos campesinos búlgaros que huían de la vacuna, echaron abajo una antena de telefonía móvil que tenía al pueblo en vilo (la historia, [aquí](http://www.bbc.co.uk/insideout/westmidlands/series6/phone_masts.shtml)). Porque, resulta, alrededor de ella se habían dado recientemente `n` casos de cáncer: aquello era un _clúster de cáncer_. Y puestos a buscar culpables, ¿por qué no el electromagnetismo?
 

@@ -20,7 +20,7 @@ title: ¿Qué más puede colgar de un árbol?
 url: /2019/09/12/que-mas-puede-colgar-de-un-arbol/
 ---
 
-_[Abundando en _[_¿Qué puede colgar de un árbol?_](https://www.datanalytics.com/2019/05/21/que-puede-colgar-de-un-arbol/)_]_
+_[Abundando en _[_¿Qué puede colgar de un árbol?_](https://datanalytics.com/2019/05/21/que-puede-colgar-de-un-arbol/)_]_
 
 [¡Grafos!](https://eeecon.uibk.ac.at/~zeileis/news/networktree/)
 

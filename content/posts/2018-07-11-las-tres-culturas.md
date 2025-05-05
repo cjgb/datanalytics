@@ -20,7 +20,7 @@ title: Las tres culturas
 url: /2018/07/11/las-tres-culturas/
 ---
 
-Breiman habló de [las dos](https://www.datanalytics.com/2016/11/07/las-dos-culturas-con-comentarios-de-2016/). Dice, y tiene razón, que:
+Breiman habló de [las dos](https://datanalytics.com/2016/11/07/las-dos-culturas-con-comentarios-de-2016/). Dice, y tiene razón, que:
 
 ![](/wp-uploads/2018/07/breiman_nature.png#center)
 
@@ -34,4 +34,4 @@ Según él, la estadística tradicional _rellena_ la caja negra con:
 
 Que es aún más aburrido y patrimonio, además, de toda suerte de _script kiddies_.
 
-La tercera cultura reemplaza la caja negra por un modelo generativo que simula el comportamiento de la naturaleza (i.e., del sistema generador de números aleatorios pero con estructura). Y usa Stan (o sus alternativas) para estimar, predecir y, en última instancia, facilitar [decisiones informadas](https://www.datanalytics.com/2018/05/22/existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas/).
+La tercera cultura reemplaza la caja negra por un modelo generativo que simula el comportamiento de la naturaleza (i.e., del sistema generador de números aleatorios pero con estructura). Y usa Stan (o sus alternativas) para estimar, predecir y, en última instancia, facilitar [decisiones informadas](https://datanalytics.com/2018/05/22/existira-algun-caso-de-uso-de-la-estadistica-que-no-sea-materia-prima-para-la-toma-de-decisiones-informadas/).

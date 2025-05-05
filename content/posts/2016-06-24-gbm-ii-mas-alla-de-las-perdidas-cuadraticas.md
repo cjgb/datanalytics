@@ -22,7 +22,7 @@ title: 'GBM (III): Más allá de las pérdidas cuadráticas'
 url: /2016/06/24/gbm-iii-mas-alla-de-las-perdidas-cuadraticas/
 ---
 
-Liberados del estrecho ámbito de nuestra [original mentira sugerente](https://www.datanalytics.com/2016/06/21/gbm-i-una-mentira-sugerente/) gracias a la [relación que descubrimos entre residuos y gradientes cuando las pérdidas son cuadráticas](https://www.datanalytics.com/2016/06/22/gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes/) podemos adentrarnos en ámbitos más extensos.
+Liberados del estrecho ámbito de nuestra [original mentira sugerente](https://datanalytics.com/2016/06/21/gbm-i-una-mentira-sugerente/) gracias a la [relación que descubrimos entre residuos y gradientes cuando las pérdidas son cuadráticas](https://datanalytics.com/2016/06/22/gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes/) podemos adentrarnos en ámbitos más extensos.
 
 Lo que discutimos del gradiente tiene una interpretación fácilmente inteligible en el caso de pérdidas cuadráticas. Pero ni la pérdida de interpretabilidad nos impide extender el razonamiento de la entrada anterior a funciones de pérdida distintas de la cuadrática siempre que podamos calcular un gradiente.
 
@@ -34,6 +34,6 @@ En el artículo [_Gradient Boosting Machines_, de G. Ridgeway](http://www.saedsa
 * La de Laplace, que es la gaussiana pero con valores absolutos en lugar de cuadrados.
 * La de Poisson, para conteos.
 * La del modelo de riesgos proporcionales de Cox, para datos de supervivencia.
-* Y una última para la [regresión por cuantiles](https://www.datanalytics.com/2010/05/18/regresion-por-cuantiles-en-r-y-sas/).
+* Y una última para la [regresión por cuantiles](https://datanalytics.com/2010/05/18/regresion-por-cuantiles-en-r-y-sas/).
 
 Y es esto (si omitimos, por el momento, todo lo relativo al _stochastic gradient boosting algorithm_, que queda para otra ocasión) lo que encierran los GBMs y la razón, en última instancia, de su éxito.

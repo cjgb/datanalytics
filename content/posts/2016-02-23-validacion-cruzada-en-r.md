@@ -48,6 +48,6 @@ preds.cv <- do.call(rbind, preds.cv)
 rmse <- sqrt(mean((preds.cv$preds - preds.cv$real)^2))
 {{< / highlight >}}
 
-Sí, estoy usando el [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) aunque sea [un detractor](http://www.datanalytics.com/2015/08/28/todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros/) del mismo.
+Sí, estoy usando el [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) aunque sea [un detractor](https://datanalytics.com/2015/08/28/todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros/) del mismo.
 
-Y, si quieres, [también puedes correr ese código en paralelo](http://www.datanalytics.com/2014/06/06/validacion-cruzada-en-paralelo/).
+Y, si quieres, [también puedes correr ese código en paralelo](https://datanalytics.com/2014/06/06/validacion-cruzada-en-paralelo/).

@@ -20,7 +20,7 @@ title: Paralelización en R con snow
 url: /2014/12/03/paralelizacion-en-r-con-snow/
 ---
 
-Suelo trabajar un servidor con ocho CPUs. Cuando quiero paralelizar código en R, suelo utilizar `[parallel::mclapply](https://stat.ethz.ch/R-manual/R-devel/library/parallel/html/mclapply.html)` (como [aquí](http://www.datanalytics.com/2014/05/15/r-en-paralelo/)). Pero no tengo una máquina. Tengo varias. Y antes, de hecho, muchas.
+Suelo trabajar un servidor con ocho CPUs. Cuando quiero paralelizar código en R, suelo utilizar `[parallel::mclapply](https://stat.ethz.ch/R-manual/R-devel/library/parallel/html/mclapply.html)` (como [aquí](https://datanalytics.com/2014/05/15/r-en-paralelo/)). Pero no tengo una máquina. Tengo varias. Y antes, de hecho, muchas.
 
 ¿Cómo paralelizar en distintas máquinas?
 

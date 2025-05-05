@@ -23,7 +23,7 @@ title: 'Encuestas electorales: medios y sesgos (II)'
 url: /2016/05/09/encuestas-electorales-medios-y-sesgos-ii/
 ---
 
-[Aquí](https://www.datanalytics.com/2016/05/05/encuestas-electorales-medios-y-sesgos-i/) quedó pendiente hablar de datos y métodos. Los primeros proceden de [El Mundo](http://www.elmundo.es/grafico/espana/2015/10/15/561fe19422601dd7728b45ef.html). Solicité a [Marta Ley](https://twitter.com/leymarta), una coautora, los datos pero, antes de que contestase que sí (¡gracias!), me di cuenta de que [podía obtenerlos solito](https://spreadsheets.google.com/feeds/list/1vyVTJPr7ZpuQI4m17cekWl485cQ-Zh6O9Yb6zXkPpYI/od6/public/values?alt=json): basta con capturar la llamada que el javascript local hace al servidor.
+[Aquí](https://datanalytics.com/2016/05/05/encuestas-electorales-medios-y-sesgos-i/) quedó pendiente hablar de datos y métodos. Los primeros proceden de [El Mundo](http://www.elmundo.es/grafico/espana/2015/10/15/561fe19422601dd7728b45ef.html). Solicité a [Marta Ley](https://twitter.com/leymarta), una coautora, los datos pero, antes de que contestase que sí (¡gracias!), me di cuenta de que [podía obtenerlos solito](https://spreadsheets.google.com/feeds/list/1vyVTJPr7ZpuQI4m17cekWl485cQ-Zh6O9Yb6zXkPpYI/od6/public/values?alt=json): basta con capturar la llamada que el javascript local hace al servidor.
 
 ¿Métodos? Mejorables: se suaviza la intención de voto (con _loess_) y se estima la diferencia con un modelo de efectos mixtos, i.e.,
 

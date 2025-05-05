@@ -28,6 +28,6 @@ Hay contextos con una estructura matemática clara y potente. En particular, muc
 
 Luego hay otros casos en los que uno se lanza al río. Luego uno siempre quiere invertir el proceso y ver qué carajos está ocurriendo con los datos (véase [esto](https://shiring.github.io/machine_learning/2017/04/23/lime)).
 
-Resuenan ecos de las _dos culturas_ (último de los artículos citados [aquí](https://www.datanalytics.com/2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/)) de Breiman. Y argumento que no son dos culturas sino dos tipos de problemas distintos que exigen tratamientos distintos. Más propiamente, dos extremos puros de los que participan en mayor o menos grado problemas concretos.
+Resuenan ecos de las _dos culturas_ (último de los artículos citados [aquí](https://datanalytics.com/2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/)) de Breiman. Y argumento que no son dos culturas sino dos tipos de problemas distintos que exigen tratamientos distintos. Más propiamente, dos extremos puros de los que participan en mayor o menos grado problemas concretos.
 
 [Dicho lo cual, voy a coger el GAM que me trae medio crucificado y a estudiar vía rrff el efecto de una variable sobre los residuos para ver si transciendo de alguna manera la relación lineal, demasiado simple, entre cierta variable y el efecto de interés.]

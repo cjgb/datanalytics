@@ -18,7 +18,7 @@ title: La EPA, en Materia (y otros medios)
 url: /2013/07/16/la-epa-en-materia-y-otros-medios/
 ---
 
-Ha salido publicado recientemente un artículo en Materia sobre la EPA. Abunda sobre los [temas que traté en una charla anterior](http://www.datanalytics.com/2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/). Y agradezco a su autor, [Daniel Mediavilla](https://twitter.com/danimateria) tanto el haberse interesado por el asunto como el mencionarme en el artículo.
+Ha salido publicado recientemente un artículo en Materia sobre la EPA. Abunda sobre los [temas que traté en una charla anterior](https://datanalytics.com/2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/). Y agradezco a su autor, [Daniel Mediavilla](https://twitter.com/danimateria) tanto el haberse interesado por el asunto como el mencionarme en el artículo.
 
 El artículo ha sido reproducido en otros medios, como [elDiario.es](http://www.eldiario.es/economia/rumano-hombre-depende-suba-Espana_0_152234869.html) y [El Economista](http://www.eleconomista.es/espana/noticias/4981070/07/13/2/Un-rumano-es-el-hombre-del-que-mas-depende-que-suba-el-paro-en-Espana.html).
 

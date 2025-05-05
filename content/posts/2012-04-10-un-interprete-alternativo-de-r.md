@@ -20,7 +20,7 @@ title: Un intérprete alternativo de R
 url: /2012/04/10/un-interprete-alternativo-de-r/
 ---
 
-Java es un lenguaje de programación que puede ejecutarse sobre muchas máquinas virtuales distintas: la de Sun, la de IBM, etc. Algo parecido pasa con SAS, que puede ejecutarse sobre el intérprete de SAS Institute o sobre el de [WPS](http://www.datanalytics.com/2010/08/12/ya-has-considerado-pasarte-a-wps/).
+Java es un lenguaje de programación que puede ejecutarse sobre muchas máquinas virtuales distintas: la de Sun, la de IBM, etc. Algo parecido pasa con SAS, que puede ejecutarse sobre el intérprete de SAS Institute o sobre el de [WPS](https://datanalytics.com/2010/08/12/ya-has-considerado-pasarte-a-wps/).
 
 El código escrito en R puede ejecutarse, en principio, en dos plataformas distintas:
 

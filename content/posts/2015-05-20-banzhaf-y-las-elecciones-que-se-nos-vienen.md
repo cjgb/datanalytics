@@ -21,7 +21,7 @@ title: Banzhaf y las elecciones que se nos vienen
 url: /2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/
 ---
 
-Es pertinente rescatar una entrada de hace tres años [sobre D’Hondt y Banzhaf](http://www.datanalytics.com/2012/04/04/de-dhondt-a-banzhaf/). En el enlace, los detalles.
+Es pertinente rescatar una entrada de hace tres años [sobre D’Hondt y Banzhaf](https://datanalytics.com/2012/04/04/de-dhondt-a-banzhaf/). En el enlace, los detalles.
 
 Me limitaré a actualizar el código de la función para que muestre las alianzas (algunas enteramente esperpénticas) posibles, que queda de la forma
 

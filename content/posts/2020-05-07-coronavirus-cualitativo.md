@@ -19,7 +19,7 @@ url: /2020/05/07/coronavirus-cualitativo/
 
 Una de las pocas cosas rescatables de la antigua dialéctica es aquella [ley de la transformación de los cambios cuantitativos en cualitativos](https://movimientopoliticoderesistencia.blogspot.com/2013/04/la-ley-de-la-transformacion-de-los.html).
 
-Lo cuantitativo en estos tiempos del coronatirus se ha convertido en una especie de [caza de pokemones](https://www.datanalytics.com/2020/04/02/pokemoneando-ruido/), con cifras que suben y bajan, concienzudas exégesis de la varianza y todo tipo de medias verdades.
+Lo cuantitativo en estos tiempos del coronatirus se ha convertido en una especie de [caza de pokemones](https://datanalytics.com/2020/04/02/pokemoneando-ruido/), con cifras que suben y bajan, concienzudas exégesis de la varianza y todo tipo de medias verdades.
 
 Pero es inevitable que los  números, sean cuales sean realmente, cuajen cambios cualitativos mucho más rotundos y cuestionables. De todos ellos, voy a rescatar unos cuantos a los que he estado dando vueltas estos días pasados.
 

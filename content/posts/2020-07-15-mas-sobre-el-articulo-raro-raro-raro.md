@@ -22,7 +22,7 @@ title: Más sobre el artículo raro, raro, raro
 url: /2020/07/15/mas-sobre-el-articulo-raro-raro-raro/
 ---
 
-No he podido evitar darle vueltas al artículo que comenté el otro día [aquí](https://www.datanalytics.com/2020/07/06/un-articulo-muy-raro-raro-raro/), _[Bayesian Estimation with Informative Priors is Indistinguishable from Data Falsification](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FFAB96BDC5EE3C64B144ECF8F90F31E9/S1138741619000416a.pdf/bayesian_estimation_with_informative_priors_is_indistinguishable_from_data_falsification.pdf)_, de la manera más caritativa posible. En particular, me he preguntado:
+No he podido evitar darle vueltas al artículo que comenté el otro día [aquí](https://datanalytics.com/2020/07/06/un-articulo-muy-raro-raro-raro/), _[Bayesian Estimation with Informative Priors is Indistinguishable from Data Falsification](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FFAB96BDC5EE3C64B144ECF8F90F31E9/S1138741619000416a.pdf/bayesian_estimation_with_informative_priors_is_indistinguishable_from_data_falsification.pdf)_, de la manera más caritativa posible. En particular, me he preguntado:
 
 * ¿Por qué se escribió (en lugar de no haberse escrito)?
 * ¿Por qué se escribió en esos términos (en lugar de en otros)?

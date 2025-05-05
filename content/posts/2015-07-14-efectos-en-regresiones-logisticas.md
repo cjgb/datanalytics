@@ -20,7 +20,7 @@ title: Efectos en regresiones logísticas
 url: /2015/07/14/efectos-en-regresiones-logisticas/
 ---
 
-Rescato y reconvierto un comentario de mi buen amigo José Luis Cañadas en [una entrada mía reciente](http://www.datanalytics.com/2015/07/06/una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica/) en la de hoy.
+Rescato y reconvierto un comentario de mi buen amigo José Luis Cañadas en [una entrada mía reciente](https://datanalytics.com/2015/07/06/una-interpretacion-rapida-y-sucia-de-los-coeficientes-de-la-regresion-logistica/) en la de hoy.
 
 Sugiere José Luis el uso del paquete [`effects`](http://cran.r-project.org/web/packages/effects/index.html) de R para estudiar el efecto de (que el caso concreto de interés, aunque hay otros) las variables de un modelo logístico.
 

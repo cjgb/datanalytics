@@ -23,7 +23,7 @@ title: Análisis (bayesiano) de pruebas con sensibilidad/especificidad desconoci
 url: /2020/05/21/analisis-bayesiano-de-pruebas-con-sensibilidad-especificidad-desconocida/
 ---
 
-Esto tiene que ver con lo del [estudio ENECOVID](https://www.datanalytics.com/2020/05/15/un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19/), por supuesto.
+Esto tiene que ver con lo del [estudio ENECOVID](https://datanalytics.com/2020/05/15/un-marco-sobre-el-que-reflexionar-sobre-el-estudio-de-seroprevalencia-enecovid19/), por supuesto.
 
 Esto tiene que ver con los ajustes que hay que realizar en los resultados por la menos que perfecta sensibilidad y especificidad.
 

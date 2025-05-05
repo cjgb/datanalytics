@@ -36,7 +36,7 @@ Y no, no quiero reconvertir mi bitácora en otras Escenas Matritenses. Solo quie
 
 No sé si el INE de entonces perdió el tiempo en estas naderías como el de ahora. Y de haberlo hecho, en qué grado podrían parecerse sus elucubraciones a la realidad.
 
-Supongo que será causa de regocijo entre mis lectores del año 2064 mirar fotos de estos días y leer la [Proyección de la Población de España 2014–2064](http://www.ine.es/prensa/np870.pdf). Supongo que entonces les parecerán obvias circunstancias acaecidas en los _años cuarenta_ que no vio el [preparadísimo funcionario](http://www.datanalytics.com/2014/08/04/estadistica-viejuna/) de los diez.
+Supongo que será causa de regocijo entre mis lectores del año 2064 mirar fotos de estos días y leer la [Proyección de la Población de España 2014–2064](http://www.ine.es/prensa/np870.pdf). Supongo que entonces les parecerán obvias circunstancias acaecidas en los _años cuarenta_ que no vio el [preparadísimo funcionario](https://datanalytics.com/2014/08/04/estadistica-viejuna/) de los diez.
 
 Cierto que en la nota de prensa arranca con un _[s]i se mantuvieran las tendencias demográficas actuales [...]_, premisa de la que se derivan cartesianamente los números de las tablas y los trazos de las figuras. Pero es obvio que las tendencias demográficas actuales no se van a mantener. Supongo que por eso la nota de prensa del INE está escrita mayormente en condicional. Aun así, se leen en ella:
 
@@ -58,6 +58,6 @@ Eso sí, tengo que reconocer que [el artículo de El País sobre el asunto](http
 
 No sé por qué el INE hace estas cosas. Yo a veces me he puesto a imaginar cómo sería el mundo si $latex \pi=3$; pero gratis, sin coste para el erario público. ¿No invertiría mejor el INE su presupuesto, p.e., reemplazando SAS por R? ¿O mejorando su portal? ¿O sacando el censo en tiempo y forma?
 
-Y si realmente tiene la necesidad de meterse en camisa de once proyecciones, ¿es tan complicado que se le ocurra [utilizar diferentes escenarios](http://www.datanalytics.com/2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/)? ¿O [imitar a sus colegas del Banco de Inglaterra](http://www.datanalytics.com/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/)? ¿O [leer mi blog](http://www.datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/)? ¿O...?
+Y si realmente tiene la necesidad de meterse en camisa de once proyecciones, ¿es tan complicado que se le ocurra [utilizar diferentes escenarios](https://datanalytics.com/2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/)? ¿O [imitar a sus colegas del Banco de Inglaterra](https://datanalytics.com/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/)? ¿O [leer mi blog](https://datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/)? ¿O...?
 
 En fin...

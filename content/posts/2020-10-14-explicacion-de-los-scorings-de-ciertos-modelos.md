@@ -22,13 +22,13 @@ title: Explicación de los scorings de "ciertos" modelos
 url: /2020/10/14/explicacion-de-los-scorings-de-ciertos-modelos/
 ---
 
-Esta entrada la hago por petición popular y para rematar de alguna manera lo que [incoé hace unos días](https://www.datanalytics.com/2020/10/09/explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring/). Seré breve hasta lo telegráfico:
+Esta entrada la hago por petición popular y para rematar de alguna manera lo que [incoé hace unos días](https://datanalytics.com/2020/10/09/explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring/). Seré breve hasta lo telegráfico:
 
 1. Tomo las observaciones con _scorings_ más altos (en un árbol construido con `ranger` y cariño).
 2. Veo cuáles son los árboles que les asignan _scorings_ más altos.
 3. Anoto las variables implicadas en las ramas por donde bajan las observaciones (1) en los árboles (2).
 4. Creo una matriz positiva: filas = casos, columnas = variables, valores = conteos.
-5. Y la descompongo (vía [NMF](https://www.datanalytics.com/2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/)).  6. Etc.
+5. Y la descompongo (vía [NMF](https://datanalytics.com/2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/)).  6. Etc.
 
 Es hasta paquetizable.
 

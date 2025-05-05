@@ -22,7 +22,7 @@ title: 'Gestión de la mendacidad encuestoelectoral: los números'
 url: /2016/07/04/gestion-de-la-mendacidad-encuestoelectoral-los-numeros/
 ---
 
-Continuando con la [entrada anterior](https://www.datanalytics.com/2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/), ahora, números.
+Continuando con la [entrada anterior](https://datanalytics.com/2016/06/30/gestion-de-la-mendacidad-encuestoelectoral/), ahora, números.
 
 Primero, el planteamiento (cuatro partidos, etc.):
 

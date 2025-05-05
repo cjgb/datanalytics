@@ -20,7 +20,7 @@ title: La complejidad de la ley
 url: /2014/05/21/la-complejidad-de-la-ley/
 ---
 
-El otro día publiqué [código para bajar el BOE](http://www.datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/) completo. Pero no conté qué me llevó a escribirlo.
+El otro día publiqué [código para bajar el BOE](https://datanalytics.com/2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/) completo. Pero no conté qué me llevó a escribirlo.
 
 El motivo es que, en un tiempo en que andaba menos ocupado que ahora, quise ver si se podía medir la _complejidad de la ley_. En realidad, la de los textos legales. ¿Debería haber motivo para que estos sean más impenetrables —de serlo— que un manual de Python? En eso consistía ese proyecto en el que acabé no embarcándome.
 

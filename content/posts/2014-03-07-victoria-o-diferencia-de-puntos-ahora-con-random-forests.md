@@ -22,7 +22,7 @@ title: Victoria o diferencia de puntos, ahora con "random forests"
 url: /2014/03/07/victoria-o-diferencia-de-puntos-ahora-con-random-forests/
 ---
 
-Después de hablar con tirios y troyanos sobre mi [entrada sobre los efectos de binarizar una variable objetivo continua](http://www.datanalytics.com/2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/), he decidido tomarme la justicia por mi mano y llamar a la caballería. Es decir, utilizar _random forests_.
+Después de hablar con tirios y troyanos sobre mi [entrada sobre los efectos de binarizar una variable objetivo continua](https://datanalytics.com/2014/03/04/victoria-o-diferencia-de-puntos-lm-o-glm/), he decidido tomarme la justicia por mi mano y llamar a la caballería. Es decir, utilizar _random forests_.
 
 Aquí va el código:
 

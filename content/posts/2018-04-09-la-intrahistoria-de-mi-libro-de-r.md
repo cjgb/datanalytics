@@ -21,7 +21,7 @@ url: /2018/04/09/la-intrahistoria-de-mi-libro-de-r/
 
 Una de las preguntas más fértiles que pueden formularse frente a algo es la del motivo de su existencia: ¿por qué existe en lugar de, simplemente, no existir?
 
-El otro día anuncié públicamente la existencia de [mi libro de R](https://www.datanalytics.com/2018/04/05/un-libro-de-r-mi-libro-de-r/). No es el mejor ni el peor. Es hijo de las circunstancias que lo hicieron nacer. Que describo a continuación.
+El otro día anuncié públicamente la existencia de [mi libro de R](https://datanalytics.com/2018/04/05/un-libro-de-r-mi-libro-de-r/). No es el mejor ni el peor. Es hijo de las circunstancias que lo hicieron nacer. Que describo a continuación.
 
 **I**
 

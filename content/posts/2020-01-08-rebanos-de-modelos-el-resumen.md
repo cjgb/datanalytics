@@ -19,7 +19,7 @@ title: 'Rebaños de modelos: el resumen'
 url: /2020/01/08/rebanos-de-modelos-el-resumen/
 ---
 
-La última entrada del año pasado anunciaba [una charla que impartí en el Coding Club de la UC3M](https://www.datanalytics.com/2019/12/16/charla-en-el-codingclub-de-la-uc3m-este-martes/).
+La última entrada del año pasado anunciaba [una charla que impartí en el Coding Club de la UC3M](https://datanalytics.com/2019/12/16/charla-en-el-codingclub-de-la-uc3m-este-martes/).
 
 [**Nota:** considerad asistir a las sesiones. No solo invitan a comer a los asistentes, sino que son excelentes en forma y fondo.]
 

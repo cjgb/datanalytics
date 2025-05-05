@@ -24,7 +24,7 @@ url: /2020/03/20/casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-meno
 
 _[Nota: el código relevante sigue estando [en GitHub](https://github.com/cjgb/covid_madrid). No es EL código sino UN código que sugiere todos los cambios que se te puedan ocurrir. Entre otras cosas, ilustra cómo de dependientes son los resultados de la formulación del modelo, cosa muchas veces obviada.]_
 
-Continúo con la entrada de [ayer](https://www.datanalytics.com/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/), que contenía más errores que información útil respecto a objetivos y métodos.
+Continúo con la entrada de [ayer](https://datanalytics.com/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/), que contenía más errores que información útil respecto a objetivos y métodos.
 
 Los objetivos del análisis son los de obtener una estimación del número de casos activos de coronavirus en la provincia de Madrid. La de los casos oficiales tiene muchos sesgos por culpa de los distintos criterios seguidos para determinarlos a lo largo del tiempo. Sin embargo, es posible que los fallecimientos debidos al coronavirus, antes al menos de que se extienda el _triaje de guerra_, son más fiables. Eso sí, la conexión entre unos (casos) y otros (defunciones) depende de una tasa de letalidad desconocida. El objetivo del modelo es complementar la información de los casos notificados con la de defunciones.
 

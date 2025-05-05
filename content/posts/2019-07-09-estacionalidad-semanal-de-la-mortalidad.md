@@ -20,7 +20,7 @@ title: Estacionalidad semanal de la mortalidad
 url: /2019/07/09/estacionalidad-semanal-de-la-mortalidad/
 ---
 
-Continúo con [esto](https://www.datanalytics.com/2019/07/04/mortalidad-y-domingos/).
+Continúo con [esto](https://datanalytics.com/2019/07/04/mortalidad-y-domingos/).
 
 ![](/wp-uploads/2019/07/mortalidad_nacional-1024x683.png#center)
 

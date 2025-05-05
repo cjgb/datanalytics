@@ -44,4 +44,4 @@ En Europa se usan las regiones NUTS-3, que vienen a equivaler a las provincias e
 
 Lo cual por sí solo puede explicar ciertas cosas.
 
-Termino señalando que también viene al caso [esto](https://elpais.com/economia/2017/10/17/actualidad/1508262262_409357.html). Y la [ipsohemeroteca](https://www.datanalytics.com/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/). ¡Cuidadín con el tamaño de las cosas!
+Termino señalando que también viene al caso [esto](https://elpais.com/economia/2017/10/17/actualidad/1508262262_409357.html). Y la [ipsohemeroteca](https://datanalytics.com/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/). ¡Cuidadín con el tamaño de las cosas!

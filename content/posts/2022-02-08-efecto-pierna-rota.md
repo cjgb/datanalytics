@@ -19,7 +19,7 @@ title: El efecto "pierna rota"
 url: /2022/02/08/efecto-pierna-rota/
 ---
 
-Esa entrada tiene que ver con dos cosas. Una, [la que escribí hace un tiempo](https://www.datanalytics.com/2021/10/01/esos-felices-momentos-le-verrier/) sobre el análisis de modelos a la vista de información que nosotros tenemos y ellos, por lo que sea, no. La segunda, que es además la que da nombre a esta, un fenómeno que menciona Paul Meehl en su libro [_Clinical Versus Statistical Prediction_](https://www.goodreads.com/book/show/3183060-clinical-versus-statistical-prediction).
+Esa entrada tiene que ver con dos cosas. Una, [la que escribí hace un tiempo](https://datanalytics.com/2021/10/01/esos-felices-momentos-le-verrier/) sobre el análisis de modelos a la vista de información que nosotros tenemos y ellos, por lo que sea, no. La segunda, que es además la que da nombre a esta, un fenómeno que menciona Paul Meehl en su libro [_Clinical Versus Statistical Prediction_](https://www.goodreads.com/book/show/3183060-clinical-versus-statistical-prediction).
 
 El libro describe y las compara predicciones _clínicas_ (subjetivas, basadas en la experiencia y usando como datos dossieres más o menos extensos) y las _estadísticas_, basadas en puntuaciones (o _scores_) construidos a partir de en unas cuantas variables. El tema central del libro (¡de los años 50!) es cómo esos modelos estadísticos que apenas usan unos cuantas variables funcionan generalmente tan bien o mejor que las predicciones clínicas. Lo hace, además, a través de un metaanálisis de la literatura existente en la época (y actualizado algunas décadas después por el autor sobre una base evidentemente mucho más amplia de estudios).
 

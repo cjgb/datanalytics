@@ -22,9 +22,9 @@ url: /2021/04/20/mas-sobre-ese-corolario-del-teorema-de-rolle-que-es-la-curva-de
 
 Es fácil nunca dar con algo que no quieres encontrar: basta con buscarlo donde sabes que no está.
 
-Eso es perfectamente predicable de todos los ensayos de los que tengo noticia para _demostrar empíricamente_ la inexistencia ---¡eh!, ¿no habíamos quedado en que que la inexistencia de algo no es demostrable empíricamente?--- de ese [corolario del teorema de Rolle](https://www.datanalytics.com/2017/05/30/el-teorema-de-rolle-acientifico/) que se ha dado en llamar curva de Laffer.
+Eso es perfectamente predicable de todos los ensayos de los que tengo noticia para _demostrar empíricamente_ la inexistencia ---¡eh!, ¿no habíamos quedado en que que la inexistencia de algo no es demostrable empíricamente?--- de ese [corolario del teorema de Rolle](https://datanalytics.com/2017/05/30/el-teorema-de-rolle-acientifico/) que se ha dado en llamar curva de Laffer.
 
-Hay que tener en cuenta que en una economía como la española ---y más en estos tiempos---, casi el 100% de los agentes económicos operan muy por debajo de ese pico que postulan Laffer y Rolle. De hecho, uno puede ver cómo un porcentaje sustancial de los ocupados en España pertenecen a la categoría de [subempleados por insuficiencia de horas](https://www.datanalytics.com/2013/04/26/todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc/).
+Hay que tener en cuenta que en una economía como la española ---y más en estos tiempos---, casi el 100% de los agentes económicos operan muy por debajo de ese pico que postulan Laffer y Rolle. De hecho, uno puede ver cómo un porcentaje sustancial de los ocupados en España pertenecen a la categoría de [subempleados por insuficiencia de horas](https://datanalytics.com/2013/04/26/todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc/).
 
 Pero una cosa es que en cifras globales, que mezclan churras y merinas, no se aprecie ese máximo y otra más distinta es que no ocurra cuando nos fijamos con detenimiento en determinados sectores económicos. Por ejemplo, el fútbol. En _[Nueva guerra por los derechos televisivos de la Liga: los operadores pujarán a la baja](https://www.elespanol.com/invertia/medios/20210122/nueva-guerra-derechos-televisivos-liga-operadores-pujaran/552945164_0.html)_ se lee cómo
 

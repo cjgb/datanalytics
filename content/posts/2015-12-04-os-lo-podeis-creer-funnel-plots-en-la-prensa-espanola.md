@@ -26,11 +26,11 @@ Pues sí, aquí están,
 
 recién copipegados del [documental de El Español sobre el suicidio](http://www.elespanol.com/documental/suicidios/#/chapters/el-contexto-title).
 
-Son los mismos de los que hablaba [aquí](http://www.datanalytics.com/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/) o sobre los que [Spiegelhalter ha publicado la mar de artículos](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8&client=ubuntu#q=funnel%20plot%20spiegelhalter).
+Son los mismos de los que hablaba [aquí](https://datanalytics.com/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/) o sobre los que [Spiegelhalter ha publicado la mar de artículos](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8&client=ubuntu#q=funnel%20plot%20spiegelhalter).
 
 Pero, ¿qué hacen en la prensa de un país como España? La historia es un poco larga, casi tanto como la mía protestando de la escasa calidad de los gráficos estadísticos por doquier. Pero esta vez los autores del documental me han invitado renunciar a la comodidad del crítico que todo lo juzga desde el sillón a, digámoslo así, consultor (o consejero) que tiene que pasar a proponer soluciones.
 
-Al problema de la varianza de las tasas en poblaciones pequeñas, (el mismo que se apunta [aquí](http://www.datanalytics.com/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/)), al de tratar de señalar, tal vez injustamente, a algunas de las más pequeñas que pudieran aparecer injustamente retratadas.
+Al problema de la varianza de las tasas en poblaciones pequeñas, (el mismo que se apunta [aquí](https://datanalytics.com/2011/12/15/graficos-de-embudo-para-controlar-la-varianza-en-muestras-pequenas/)), al de tratar de señalar, tal vez injustamente, a algunas de las más pequeñas que pudieran aparecer injustamente retratadas.
 
 En resumen,
 

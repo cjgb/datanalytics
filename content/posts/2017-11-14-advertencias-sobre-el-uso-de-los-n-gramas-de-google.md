@@ -19,7 +19,7 @@ title: Advertencias sobre el uso de los n-gramas de Google
 url: /2017/11/14/advertencias-sobre-el-uso-de-los-n-gramas-de-google/
 ---
 
-Dudaba en si dedicar la entrada a popularizar los n-gramas de Google en lugar de advertir sobre sus sesgos. Pero, habida cuenta de que lo primero sería llover sobre mojado (véase [esto](https://www.datanalytics.com/2016/09/23/importa-mas-la-causalidad-hoy-en-dia/) o [esto](https://www.datanalytics.com/2017/02/02/cuanto-durara-la-solo-nostalgia/)), me he decantado por lo segundo.
+Dudaba en si dedicar la entrada a popularizar los n-gramas de Google en lugar de advertir sobre sus sesgos. Pero, habida cuenta de que lo primero sería llover sobre mojado (véase [esto](https://datanalytics.com/2016/09/23/importa-mas-la-causalidad-hoy-en-dia/) o [esto](https://datanalytics.com/2017/02/02/cuanto-durara-la-solo-nostalgia/)), me he decantado por lo segundo.
 
 El primer problema es el del reconocimiento de caracteres. Aunque la tecnología mejorará, aún se encuentra, p.e., [_cami6n_](https://books.google.com/ngrams/graph?content=cami6n&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccami6n%3B%2Cc0) en lugar de _camión_.
 

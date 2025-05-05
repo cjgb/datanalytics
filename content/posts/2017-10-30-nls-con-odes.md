@@ -21,7 +21,7 @@ title: nls con odes
 url: /2017/10/30/nls-con-odes/
 ---
 
-Más sobre secuencia de [entradas acerca de ajustes no lineales](https://www.datanalytics.com/2017/10/16/modelos-no-lineales-directos-e-inversos/). Con (casi) los mismos datos que entonces:
+Más sobre secuencia de [entradas acerca de ajustes no lineales](https://datanalytics.com/2017/10/16/modelos-no-lineales-directos-e-inversos/). Con (casi) los mismos datos que entonces:
 
 {{< highlight R >}}
 set.seed(155)

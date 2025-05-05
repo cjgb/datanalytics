@@ -27,7 +27,7 @@ Vi [esto](http://mathlesstraveled.com/2012/10/05/factorization-diagrams/) y me d
 
 Por si acaso, cada diagrama representa la descomposición en números primos de un número del 1 al 100.
 
-El código (que no he adecentado lo que suelo) es un pequeño ejercicio con el paquete `grid` y unos elementos de recursividad (como en [Grid, Scala y arbolitos fractales](http://www.datanalytics.com/2014/05/12/grid-scala-y-arbolitos/)):
+El código (que no he adecentado lo que suelo) es un pequeño ejercicio con el paquete `grid` y unos elementos de recursividad (como en [Grid, Scala y arbolitos fractales](https://datanalytics.com/2014/05/12/grid-scala-y-arbolitos/)):
 
 
 {{< highlight R >}}

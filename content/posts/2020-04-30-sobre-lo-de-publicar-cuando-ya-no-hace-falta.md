@@ -19,7 +19,7 @@ title: Sobre lo de "publicar cuando ya no hace falta"
 url: /2020/04/30/sobre-lo-de-publicar-cuando-ya-no-hace-falta/
 ---
 
-El otro día escribí (véase también [esto](https://www.datanalytics.com/2020/04/09/deberian-publicarse-datos-en-beta/)):
+El otro día escribí (véase también [esto](https://datanalytics.com/2020/04/09/deberian-publicarse-datos-en-beta/)):
 
 {{< x user="gilbellosta" id="1253605582495498240" >}}
 

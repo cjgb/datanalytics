@@ -20,7 +20,7 @@ title: 'SparkR 1.4: carga de ficheros CSV'
 url: /2015/06/23/sparkr-1-4-carga-de-ficheros-csv/
 ---
 
-He instalado [Spark 1.4](http://www.datanalytics.com/2015/06/17/liberado-spark-1-4/) recientemente y he comenzado a cacharrear. Antes de nada, quiero cargar datos.
+He instalado [Spark 1.4](https://datanalytics.com/2015/06/17/liberado-spark-1-4/) recientemente y he comenzado a cacharrear. Antes de nada, quiero cargar datos.
 
 Advierto que ha cambiado sustancialmente la API de SparkR. Entre otras _novedades_, desapareció (o más bien, se escondió) la función _textFile_, que permitía leer ficheros línea a línea. Ahora está pero no se exporta. La verás solo si haces `SparkR:::textFile`. ¿Signo de _deprecación_?
 

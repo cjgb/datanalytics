@@ -19,7 +19,7 @@ title: Análisis de la supervivencia cuando todas las observaciones están censu
 url: /2020/03/11/analisis-de-la-supervivencia-cuando-todas-las-observaciones-estan-censuradas/
 ---
 
-_[Retomando un [tema que dejé inconcluso](https://www.datanalytics.com/2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/) y que tampoco remataré hoy aquí.]_
+_[Retomando un [tema que dejé inconcluso](https://datanalytics.com/2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/) y que tampoco remataré hoy aquí.]_
 
 Imagina que quieres saber cuánto le dura a la gente el portátil. Para eso preguntas por ahí cuándo se compraron el último.
 

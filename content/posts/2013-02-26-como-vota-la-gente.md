@@ -21,7 +21,7 @@ url: /2013/02/26/como-vota-la-gente/
 
 La gente vota de muchas maneras. A bote pronto, uno diría que lo hace cada cuatro años con papeletas y en medio de parafernalia de listas cerradas, mítines y similares aditamentos.
 
-Pero hay otros que opinan que hay mecanismos alternativos de _voto_. La gente puede [_votar_ en Twitter](http://t-hoarder.com/), por ejemplo. Y algunos conceden a esos votos una relativa potestad para [adivinar](http://www.datanalytics.com/2012/05/14/se-puede-predecir-con-twitter/) o, incluso, influenciar fenómenos de importancia económica, política o social.
+Pero hay otros que opinan que hay mecanismos alternativos de _voto_. La gente puede [_votar_ en Twitter](http://t-hoarder.com/), por ejemplo. Y algunos conceden a esos votos una relativa potestad para [adivinar](https://datanalytics.com/2012/05/14/se-puede-predecir-con-twitter/) o, incluso, influenciar fenómenos de importancia económica, política o social.
 
 Quienes entablan batallas numéricas después de las manifestaciones, qué duda cabe que atribuyen efectos plebiscitarios a que la cola de la marcha llegase o no a Atocha cuando la cabecera entraba a Colón.
 

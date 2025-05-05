@@ -21,7 +21,7 @@ url: /2023/06/22/paradoja-lord/
 Escribí sobre la paradoja de Lord
 [en 2013](/2013/09/09/la-paradoja-de-lord/)
 y luego otra vez, tangencialmente,
-[en 2020](https://www.datanalytics.com/2020/11/13/de-a-b-a-did/). Hace poco releí el artículo de Pearl sobre el tema y comoquiera que su visión sobre el asunto es muy distinta de la mía, voy a tratar de desarrollarla.
+[en 2020](https://datanalytics.com/2020/11/13/de-a-b-a-did/). Hace poco releí el artículo de Pearl sobre el tema y comoquiera que su visión sobre el asunto es muy distinta de la mía, voy a tratar de desarrollarla.
 
 Aunque supongo que es generalizable, la llamada paradoja de Lord se formuló inicialmente al estudiar y comparar datos antes/después. En su descripción original de mediados de los 60, había niños y niñas a los que se había pesado en junio y en septiembre. El problema (y la paradoja) aparecían al tratar de modelar esa variación de peso según el sexo.
 

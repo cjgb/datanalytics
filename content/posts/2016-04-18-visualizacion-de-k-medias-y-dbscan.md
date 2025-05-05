@@ -26,4 +26,4 @@ Una alumna encontró [un recurso mucho mejor](http://www.naftaliharris.com/blog/
 ![dbscan](/wp-uploads/2016/04/dbscan.png#center)
 
 
-Que trae, además, como _bonus_, una [ilustración del funcionamiento de DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) (véase también [esto](https://www.datanalytics.com/2015/11/04/dbscan-algo-nuevo-bajo-el-sol/)).
+Que trae, además, como _bonus_, una [ilustración del funcionamiento de DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) (véase también [esto](https://datanalytics.com/2015/11/04/dbscan-algo-nuevo-bajo-el-sol/)).

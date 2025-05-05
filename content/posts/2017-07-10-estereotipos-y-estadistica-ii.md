@@ -18,7 +18,7 @@ title: Estereotipos y estadística (II)
 url: /2017/07/10/estereotipos-y-estadistica-ii/
 ---
 
-Hace tiempo [escribí](https://www.datanalytics.com/2016/11/25/estereotipos-y-estadistica/):
+Hace tiempo [escribí](https://datanalytics.com/2016/11/25/estereotipos-y-estadistica/):
 
 >El porcentaje de mosquitos que pueden transmitir enfermedades es pequeño, muy pequeño. Sin embargo, decimos mosquitos transmiten enfermedades sin empacho.
 >

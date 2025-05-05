@@ -28,4 +28,4 @@ Acabo de subir un nuevo vídeo a Youtube,
 
 en el que discuto dos problemas: uno, general, que es el que indica su título; y otro más concreto que es su motivación última: si es posible asegurar que la combinación de vacunas es segura a través de un estudio realizado con 600 sujetos, tal como el realizado por el ISCIII recientemente.
 
-En él se hace referencia a una vieja entrada en el blog del autor, [esta](https://www.datanalytics.com/2016/11/30/la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado/).
+En él se hace referencia a una vieja entrada en el blog del autor, [esta](https://datanalytics.com/2016/11/30/la-regla-del-tres-para-estimar-la-probabilidad-de-un-evento-todavia-no-observado/).

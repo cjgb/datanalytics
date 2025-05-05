@@ -19,7 +19,7 @@ title: 'Los "mejores" paquetes de R (II): análisis anual de la red social de lo
 url: /2010/06/28/los-mejores-paquetes-de-r-ii-analisis-anual-de-la-red-social-de-los-participantes-en-r-help/
 ---
 
-Hace un tiempo comencé una serie de entradas, que serán finalmente tres, sobre [los "mejores" paquetes de R](http://www.datanalytics.com/2010/04/18/los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help). Esta va a ser la segunda entrega. Siento haber tardado tanto en realizarla: quienes me conocen saben que ocioso no he permanecido. De mis actividades de este periodo daré cumplida cuenta en entradas subsiguientes.
+Hace un tiempo comencé una serie de entradas, que serán finalmente tres, sobre [los "mejores" paquetes de R](https://datanalytics.com/2010/04/18/los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help). Esta va a ser la segunda entrega. Siento haber tardado tanto en realizarla: quienes me conocen saben que ocioso no he permanecido. De mis actividades de este periodo daré cumplida cuenta en entradas subsiguientes.
 
 Tengo que añadir también como preámbulo que ha sido una conversación sobre análisis de redes sociales con un ex-compañero muy ducho en apropiarse de contraseñas ajenas la que me ha empujado finalmente a ahondar este estudio que tenía, junto a tantos, postergado en una esquina de mi disco duro.
 

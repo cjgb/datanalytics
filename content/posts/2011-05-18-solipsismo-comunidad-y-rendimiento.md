@@ -17,7 +17,7 @@ title: Solipsismo, comunidad y rendimiento
 url: /2011/05/18/solipsismo-comunidad-y-rendimiento/
 ---
 
-Desde esta bitácora hemos seguido atentamente el a veces espinoso asunto del rendimiento de R. De ello es muestra entradas como [ésta](http://www.datanalytics.com/2011/03/16/parentesis-llaves-y-rendimiento-en-r/). Por eso retomamos el asunto para comentar desde una óptica distinta un análisis publicado hace un mes cuyo autor estudia la [ineficiencia de funciones básicas como la media y otras similares](http://lookingatdata.blogspot.com/2011/04/speeding-up-r-computations.html).
+Desde esta bitácora hemos seguido atentamente el a veces espinoso asunto del rendimiento de R. De ello es muestra entradas como [ésta](https://datanalytics.com/2011/03/16/parentesis-llaves-y-rendimiento-en-r/). Por eso retomamos el asunto para comentar desde una óptica distinta un análisis publicado hace un mes cuyo autor estudia la [ineficiencia de funciones básicas como la media y otras similares](http://lookingatdata.blogspot.com/2011/04/speeding-up-r-computations.html).
 
 Y llega a conclusiones que no es necesario manifestar explícitamente a quien ejecute esto en R:
 
@@ -51,7 +51,7 @@ La API de R es —relativamente— simple y rica. ¿Imagináis que hubiese 10 fu
 
 Pareciere que los desarrolladores del núcleo de R han tenido más cuidado en hacer las cosas bien y han sobreponderado los requisitos de los usuarios que utilizan el _software_ de modo interactivo que los de quienes lo necesitan para exprimir montañas de datos.
 
-Tiene cierto sentido y razón en este aspecto el autor de la entrada que comento en sustituir en su código las llamadas a `mean` por una función _ad hoc_ que suma y divide. Y así con otras funciones. De hecho, la misma política de sustitución se propugnaba en la entrada [aquí](http://www.datanalytics.com/2011/05/13/consejos-para-utilizar-r-en-produccion) comentada.
+Tiene cierto sentido y razón en este aspecto el autor de la entrada que comento en sustituir en su código las llamadas a `mean` por una función _ad hoc_ que suma y divide. Y así con otras funciones. De hecho, la misma política de sustitución se propugnaba en la entrada [aquí](https://datanalytics.com/2011/05/13/consejos-para-utilizar-r-en-produccion) comentada.
 
 Ciertamente, es una opción. y es justificable y válida en algunas circunstancias. Pero quiero hacer constar unas objeciones que deberían también ponderar quienes estan tentados en emular los dos ejemplos que cito en los enlaces de más arriba:
 

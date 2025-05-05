@@ -29,7 +29,7 @@ Voy a hablar de fútbol. Voy a comentar [esto](http://www.elespanol.com/actualid
 
 que me puso sobre aviso. Y no, no voy a comentar el amateurismo que manifiesta el hecho de representar dos veces la misma magnitud, el porcentaje de paradas, usando dos significantes distintos (la longitud de las barras y el color). Por más de que siembre la sospecha por lo que sigue.
 
-Me preocupa aún más el hecho de que se ignoren los intervalos de confianza, de que no se vaya más allá de [lo que enseñan a los críos de once años](http://www.datanalytics.com/2015/06/26/extraido-de-un-libro-de-educacion-primaria/) y el autor se limite construir un diagrama de barras y un discurso alrededor de él.
+Me preocupa aún más el hecho de que se ignoren los intervalos de confianza, de que no se vaya más allá de [lo que enseñan a los críos de once años](https://datanalytics.com/2015/06/26/extraido-de-un-libro-de-educacion-primaria/) y el autor se limite construir un diagrama de barras y un discurso alrededor de él.
 
 Analicemos los datos como se espera que hagan los medios de una sociedad madura. El código
 

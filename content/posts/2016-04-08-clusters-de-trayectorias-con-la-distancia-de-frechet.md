@@ -21,7 +21,7 @@ title: Clústers de trayectorias con la distancia de Fréchet
 url: /2016/04/08/clusters-de-trayectorias-con-la-distancia-de-frechet/
 ---
 
-Los viejos del lugar recordarán [esto](https://www.datanalytics.com/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/), donde agrupo trayectorias usando k-medias _a pelo_.
+Los viejos del lugar recordarán [esto](https://datanalytics.com/2013/02/27/que-ha-pasado-en-el-ibex-durante-el-ultimo-mes/), donde agrupo trayectorias usando k-medias _a pelo_.
 
 El paquete [`kmlShape`](https://cran.r-project.org/web/packages/kmlShape/index.html) usa la [distancia de Fréchet](https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance) para hacer algo parecido: buscar trayectorias geométricamente similares.
 

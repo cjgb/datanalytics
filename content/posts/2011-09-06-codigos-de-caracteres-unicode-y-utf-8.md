@@ -19,7 +19,7 @@ title: Códigos de caracteres, unicode y UTF-8
 url: /2011/09/06/codigos-de-caracteres-unicode-y-utf-8/
 ---
 
-Unos quebraderos de cabeza en el desarrollo del [paquete pxR](http://www.datanalytics.com/2011/07/28/el-paquete-pxr-en-cran/) concernientes a los distintos códigos de caracteres en que hay que transfomar los datos me han obligado a profundizar en este enojoso asunto.
+Unos quebraderos de cabeza en el desarrollo del [paquete pxR](https://datanalytics.com/2011/07/28/el-paquete-pxr-en-cran/) concernientes a los distintos códigos de caracteres en que hay que transfomar los datos me han obligado a profundizar en este enojoso asunto.
 
 En el principio, todo era felicidad. Existía el código ASCII que establecía una correspondencia entre caracteres, números y su representación binaria. Así, a la letra b le correspondía el número 98 cuya codificación binaria es el _byte_ `01100010`.
 
@@ -43,7 +43,7 @@ $$C = \bigcup_i C_i \longleftrightarrow N = \{0, \dots, 1114112\}$$
 
 llamada [Unicode](http://es.wikipedia.org/wiki/Unicode) entre todos los caracteres _del mundo mundial_ y los números hasta el 1.114.112. Esta función hace corresponder el número 88 a "X" y 241 a "ñ", por ejemplo.
 
-Para tener una representación binaria de un caracter, sin embargo, es necesaria otra función. Y no una función _trivial_: si este tinglado lo hubiese montado [un gañán](http://www.datanalytics.com/2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/), harían falta tres _bytes_ por caracter, con lo que el tamaño de los ficheros de texto se multiplicaría automáticamente.
+Para tener una representación binaria de un caracter, sin embargo, es necesaria otra función. Y no una función _trivial_: si este tinglado lo hubiese montado [un gañán](https://datanalytics.com/2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/), harían falta tres _bytes_ por caracter, con lo que el tamaño de los ficheros de texto se multiplicaría automáticamente.
 
 La solución pasa por seleccionar inteligentemente la función entre el conjunto $latex N$ y determinadas sucesiones de _bytes_. Una de las funciones propuestas se llama [UTF-8](http://es.wikipedia.org/wiki/UTF-8), que tiene la peculiaridad de que asigna los números correspondientes a los caracteres más usados a secuencias de ocho _bits_ (un _byte_) y a los menos usados, secuencias de dos, tres y hasta cuatro de ellos.
 

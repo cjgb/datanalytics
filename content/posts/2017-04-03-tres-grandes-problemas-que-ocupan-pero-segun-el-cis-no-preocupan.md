@@ -23,7 +23,7 @@ url: /2017/04/03/tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupa
 
 [Plañe el periodista](http://www.bez.es/168888980/Los-tres-graves-problemas-que-menos-preocupan-a-los-espanoles.html) porque dizque hay tres graves problemas que, a pesar de lo que ocupan (en los medios), a la hora del CIS, no preocupan.
 
-_Aggiorno_ una [vieja entrada](https://www.datanalytics.com/2012/09/05/los-principales-problemas-de-espana/) para ver, por ejemplo, cómo ha variado en los últimos años la preocupación de los encuestados por el CIS acerca de uno de los tres graves problemas:
+_Aggiorno_ una [vieja entrada](https://datanalytics.com/2012/09/05/los-principales-problemas-de-espana/) para ver, por ejemplo, cómo ha variado en los últimos años la preocupación de los encuestados por el CIS acerca de uno de los tres graves problemas:
 
 ![](/wp-uploads/2017/04/cis_violencia_mujer.png#center)
 

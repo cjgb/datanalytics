@@ -20,7 +20,7 @@ title: 'Mezclas de vectores (II): un caso de uso'
 url: /2016/09/02/mezclas-de-vectores-ii-un-caso-de-uso/
 ---
 
-Siguiendo con el tema de la [entrada de ayer](https://www.datanalytics.com/2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/), voy a tomar un vector $latex x_1$ tal como
+Siguiendo con el tema de la [entrada de ayer](https://datanalytics.com/2016/09/01/mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa/), voy a tomar un vector $latex x_1$ tal como
 
 ![vector_x1](/wp-uploads/2016/09/vector_x1.jpg)
 

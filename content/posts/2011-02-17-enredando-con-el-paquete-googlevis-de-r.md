@@ -19,7 +19,7 @@ title: Enredando con el paquete googleVis de R
 url: /2011/02/17/enredando-con-el-paquete-googlevis-de-r/
 ---
 
-Si el otro día denuncié [un gráfico engañabobos](http://www.datanalytics.com/2011/01/31/un-grafico-enganabobos/) (y algún otro me explayaré muy constructivamente sobre el intercambio de correos que mantuve con sus autores), hoy he querido reproducirlo con el [paquete googleVis de R](http://cran.r-project.org/web/packages/googleVis/index.html).
+Si el otro día denuncié [un gráfico engañabobos](https://datanalytics.com/2011/01/31/un-grafico-enganabobos/) (y algún otro me explayaré muy constructivamente sobre el intercambio de correos que mantuve con sus autores), hoy he querido reproducirlo con el [paquete googleVis de R](http://cran.r-project.org/web/packages/googleVis/index.html).
 
 Habedlo:
 

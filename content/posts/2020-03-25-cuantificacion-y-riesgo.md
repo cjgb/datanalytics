@@ -21,7 +21,7 @@ title: Cuantificación y riesgo
 url: /2020/03/25/cuantificacion-y-riesgo/
 ---
 
-[_Economics After Neoliberalism_](https://bostonreview.net/forum/suresh-naidu-dani-rodrik-gabriel-zucman-economics-after-neoliberalism), es una reescritura más de un argumento bastante manido y que se ha visto tratar desde la izquierda, como en esta ocasión, como desde la derecha: el libro _[Seeing Like a State](https://www.datanalytics.com/2018/12/10/libros-y-el-indice-de-compresibilidad/)_ es una perífrasis libertaria de casi 500 páginas que viene a decir lo mismo. O, según se mire, lo contrario.
+[_Economics After Neoliberalism_](https://bostonreview.net/forum/suresh-naidu-dani-rodrik-gabriel-zucman-economics-after-neoliberalism), es una reescritura más de un argumento bastante manido y que se ha visto tratar desde la izquierda, como en esta ocasión, como desde la derecha: el libro _[Seeing Like a State](https://datanalytics.com/2018/12/10/libros-y-el-indice-de-compresibilidad/)_ es una perífrasis libertaria de casi 500 páginas que viene a decir lo mismo. O, según se mire, lo contrario.
 
 El nudo del argumento es que la cuantificación (de los fenómenos económicos y sociales) no es solo una herramienta relativamente moderna de ayuda a la decisión sino que la condiciona, que, diríase, la contiene. Solo que si lees el primer artículo, parece contener neoliberalismo y si lees el segundo, colectivismo soviético con estética Le Corbusier.
 

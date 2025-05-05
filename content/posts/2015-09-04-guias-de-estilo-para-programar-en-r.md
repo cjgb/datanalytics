@@ -19,7 +19,7 @@ title: Guías de estilo para programar en R
 url: /2015/09/04/guias-de-estilo-para-programar-en-r/
 ---
 
-[Frans van Dunné](https://twitter.com/fransvandunne) me ha hecho llegar su [guía de estilo de programación en R](https://rpubs.com/FvD/guia-estilo-r). Abunda en otra creada por Google hace un tiempo y que traduje y adapté [aquí](http://www.datanalytics.com/2014/01/27/guia-de-estilo-de-r-de-google/).
+[Frans van Dunné](https://twitter.com/fransvandunne) me ha hecho llegar su [guía de estilo de programación en R](https://rpubs.com/FvD/guia-estilo-r). Abunda en otra creada por Google hace un tiempo y que traduje y adapté [aquí](https://datanalytics.com/2014/01/27/guia-de-estilo-de-r-de-google/).
 
 Tiene como novedad, dice, su adaptación a las formas y maneras de Hadley Wickham, aún no tan conocido entonces. Coinciden, no obstante, en lo más.
 

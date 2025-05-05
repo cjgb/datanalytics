@@ -21,7 +21,7 @@ title: 'Recodificación de variables categóricas de muchos niveles: ¡ayuda!'
 url: /2018/01/08/recodificacion-de-variables-categoricas-de-muchos-niveles-ayuda/
 ---
 
-Una vez [escribí al respecto](https://www.datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/). Y cuanto más lo repienso y lo reeleo, menos clara tengo mi interpretación. De hecho, estoy planteándome _retractar_ esa entrada.
+Una vez [escribí al respecto](https://datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/). Y cuanto más lo repienso y lo reeleo, menos clara tengo mi interpretación. De hecho, estoy planteándome _retractar_ esa entrada.
 
 Y reconozco que llevo tiempo buscando en ratos libres algún artículo serio (no extraído del recetario de algún _script kiddie_ de Kaggle) que justifique el uso del procedimiento. Es decir, que lo eleve de técnica a categoría. Sin éxito.
 

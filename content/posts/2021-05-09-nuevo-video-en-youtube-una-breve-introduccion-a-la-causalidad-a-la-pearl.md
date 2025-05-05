@@ -30,7 +30,7 @@ que es una somerísima introducción a la causalidad según Pearl. De hecho, el 
 
 En el vídeo me refiero a dos fuentes de las que anuncio enlaces. Son:
 
-  * una entrada mía de 2013 sobre un experimento controlado del que da noticia la Biblia ([esta](https://www.datanalytics.com/2013/01/21/el-primer-analisis-clinico-en-la-biblia/)) y
+  * una entrada mía de 2013 sobre un experimento controlado del que da noticia la Biblia ([esta](https://datanalytics.com/2013/01/21/el-primer-analisis-clinico-en-la-biblia/)) y
   * el famoso artículo _[The End of Science](https://www.wired.com/2008/06/pb-theory)_ de Chris Anderson.
 
 Como se adivina de la carátula, este va a ser el primero de una serie de vídeos que iré dejando caer en el futuro sobre el tema.

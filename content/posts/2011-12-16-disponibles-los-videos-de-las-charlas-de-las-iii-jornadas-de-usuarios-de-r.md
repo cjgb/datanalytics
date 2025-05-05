@@ -81,4 +81,4 @@ Llegó José Antonio una hora antes del arranque de las jornadas, a las ocho de 
 [![](/wp-uploads/2011/12/videos_jornadas_r.png#center)
 ](/wp-uploads/2011/12/videos_jornadas_r.png#center)
 
-Y, efectivamente, llevaba [la misma camisa que en las I Jornadas](http://www.datanalytics.com/2010/09/05/el-video-de-la-conferencia-alrededores-disponible-en-dailymotion/). Que conste que lo hice a propósito.
+Y, efectivamente, llevaba [la misma camisa que en las I Jornadas](https://datanalytics.com/2010/09/05/el-video-de-la-conferencia-alrededores-disponible-en-dailymotion/). Que conste que lo hice a propósito.

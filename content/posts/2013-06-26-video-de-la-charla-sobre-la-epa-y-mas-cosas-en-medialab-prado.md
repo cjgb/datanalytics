@@ -23,7 +23,7 @@ title: Vídeo de la charla sobre la EPA (y más cosas) en Medialab Prado
 url: /2013/06/26/video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado/
 ---
 
-Ya ha salido publicado el [vídeo](https://www.medialab-matadero.es/videos/la-encuesta-de-poblacion-activa-y-sus-limitaciones) de la [charla sobre la EPA](http://www.datanalytics.com/2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/) (y más cosas) que anuncié el otro día.
+Ya ha salido publicado el [vídeo](https://www.medialab-matadero.es/videos/la-encuesta-de-poblacion-activa-y-sus-limitaciones) de la [charla sobre la EPA](https://datanalytics.com/2013/06/17/hablare-de-la-epa-y-mas-cosas-en-medialab-prado/) (y más cosas) que anuncié el otro día.
 
 ### Coda
 

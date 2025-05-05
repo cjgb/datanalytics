@@ -22,7 +22,7 @@ title: El impacto causal del óbito del Sr. Botín en la cotización bursátil d
 url: /2016/04/20/el-impacto-causal-del-obito-del-sr-botin-en-la-cotizacion-bursatil-del-benemerito-banco-de-santander/
 ---
 
-El [Sr. Botín](https://es.wikipedia.org/wiki/Emilio_Bot%C3%ADn), presidente que fue del Banco de Santander, falleció el 2014-09-10. Cabe preguntarse por el [impacto causal _à la Google_](https://www.datanalytics.com/2014/09/23/el-impacto-causal-de-google/) de no continuidad de su gestión a cargo de dicha institución.
+El [Sr. Botín](https://es.wikipedia.org/wiki/Emilio_Bot%C3%ADn), presidente que fue del Banco de Santander, falleció el 2014-09-10. Cabe preguntarse por el [impacto causal _à la Google_](https://datanalytics.com/2014/09/23/el-impacto-causal-de-google/) de no continuidad de su gestión a cargo de dicha institución.
 
 Comienzo pues.
 
@@ -88,4 +88,4 @@ Y ahora, las concomitancias:
 * Esta entrada debe mucho a una alumna mía que prefiere cuyo nombre prefiere que no figure porque trabaja en una empresa del susodicho grupo.
 * La causalidad es problemática y pudiera ser, incluso, en dirección contraria (que la muerte se debiese a...)
 * Abundando en lo anterior, dada la complejidad del mundo en que vivimos, es plausible que la causa fuese otra.
-* Me habría sentido más cómodo [estudiando `diff(cotizaciones)` en lugar de `cotizaciones`](https://www.datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), pero en tal caso el p-valor se crece más allá del 0.05.
+* Me habría sentido más cómodo [estudiando `diff(cotizaciones)` en lugar de `cotizaciones`](https://datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), pero en tal caso el p-valor se crece más allá del 0.05.

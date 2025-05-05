@@ -19,7 +19,7 @@ title: Coaliciones de Banzhaf en el 20D
 url: /2015/12/22/coaliciones-de-banzhaf-en-el-20d/
 ---
 
-Usando [código de una entrada anterior](http://www.datanalytics.com/2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/) voy a medir [el poder de cada partido político de acuerdo con Banzhaf](https://en.wikipedia.org/wiki/Banzhaf_power_index) tras las elecciones de diciembre de 2015.
+Usando [código de una entrada anterior](https://datanalytics.com/2015/05/20/banzhaf-y-las-elecciones-que-se-nos-vienen/) voy a medir [el poder de cada partido político de acuerdo con Banzhaf](https://en.wikipedia.org/wiki/Banzhaf_power_index) tras las elecciones de diciembre de 2015.
 
 {{< highlight R >}}
 escannos <- c(123, 90, 69, 40, 9, 8, 6, 2, 2, 1)

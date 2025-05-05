@@ -58,6 +58,6 @@ mean(sds < sd(dat))
 
 se comprueba que en tiradas de 57 variables aleatorias de Poisson, la varianza mínima de tríos de observaciones consecutivas es menor que la de la serie observada en apenas un 7% de los casos.
 
-Los números son raros, la verdad. En pro del argumento conspiranoico está el razonamiento habitual que justifica en muchas ocasiones la infradispersión de las observaciones: la existencia de cuotas o cupos, sea estos cuales sean, que tienden a fijar los conteos alrededor de una cifra objetivo determinada. En contra, la [falacia del fiscal](https://www.datanalytics.com/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/).
+Los números son raros, la verdad. En pro del argumento conspiranoico está el razonamiento habitual que justifica en muchas ocasiones la infradispersión de las observaciones: la existencia de cuotas o cupos, sea estos cuales sean, que tienden a fijar los conteos alrededor de una cifra objetivo determinada. En contra, la [falacia del fiscal](https://datanalytics.com/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/).
 
 Pero es curioso y no está de más dejarlo escrito en algún lado.

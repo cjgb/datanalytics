@@ -19,7 +19,7 @@ title: De la varianza en muestras pequeñas (y el problema del hospital)
 url: /2011/08/10/de-la-varianza-en-muestras-pequenas-y-el-problema-del-hospital/
 ---
 
-En un [artículo que enlacé hace un tiempo](http://www.datanalytics.com/2011/04/27/incertidumbre-juicios-y-sesgos/) se planteó el que después recibiría el nombre del problema del hospital:
+En un [artículo que enlacé hace un tiempo](https://datanalytics.com/2011/04/27/incertidumbre-juicios-y-sesgos/) se planteó el que después recibiría el nombre del problema del hospital:
 
 
 >En una ciudad hay dos hospitales. En el grande, hay, en promedio, 45 partos al día; en el pequeño, 15. La probabilidad de que un recién nacido sea niño o niña se supone igual al 50 %. ¿En qué hospital es más probable que en un día dado la proporción de niñas exceda el 60%?

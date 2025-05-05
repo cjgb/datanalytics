@@ -19,7 +19,7 @@ title: 'El arte funcional: una revisión personal'
 url: /2012/09/12/el-arte-funcional-una-revision-personal/
 ---
 
-Leí [El arte funcional](http://www.datanalytics.com/2012/08/08/el-arte-funcional/) de Alberto Cairo y he aquí finalmente mi visión, muy personal, sobre el libro.
+Leí [El arte funcional](https://datanalytics.com/2012/08/08/el-arte-funcional/) de Alberto Cairo y he aquí finalmente mi visión, muy personal, sobre el libro.
 
 Confiesa su autor ser un curioso, excesivamente curioso en ocasiones, en las primeras páginas del libro. Yo también lo soy. Y todos los que compartan con nosotros este vicio encontrarán en el libro una pequeña joya: historia, sicología, fisiología, cartografía y muchas otras disciplinas aparentemente dispares que informan el campo de la visualización de datos se dan cita en sus 250 páginas.
 
@@ -28,7 +28,7 @@ Aquellos que compartan también conmigo el gusto por comenzar a leer los libros 
 ![](http://www.elartefuncional.com/im/emisiones4.jpg)
 
 
-que tienen un público y un contexto muy particular. Y eso les ayudará a comprender mejor la exposición que hace del contenido previo y porqué su fiel se inclina en una u otra dirección cuando tropieza con disyuntivas. Así que entendería que a muchos —entre los que me cuento— les resulte de más provecho leer a [Wickham](http://www.datanalytics.com/2011/04/26/graficos-vi-teoria/), [Leland ](http://www.datanalytics.com/2011/02/10/1440/)o, muy pronto, [Perpiñán](http://oscarperpinan.github.com/spacetime-vis/).
+que tienen un público y un contexto muy particular. Y eso les ayudará a comprender mejor la exposición que hace del contenido previo y porqué su fiel se inclina en una u otra dirección cuando tropieza con disyuntivas. Así que entendería que a muchos —entre los que me cuento— les resulte de más provecho leer a [Wickham](https://datanalytics.com/2011/04/26/graficos-vi-teoria/), [Leland ](https://datanalytics.com/2011/02/10/1440/)o, muy pronto, [Perpiñán](http://oscarperpinan.github.com/spacetime-vis/).
 
 No obstante, también de este libro podrán extraer lecciones provechosas.
 
@@ -38,11 +38,11 @@ La sección dedicada a los aspectos históricos de la visualización de datos es
 
 Sí, lo confieso: siento cierto desdén por la historia (de la visualización). Los casos que trata el autor me parecen excesivamente alejados. De  [Tukey](http://es.wikipedia.org/wiki/John_W._Tukey) para atrás, todo es prehistoria.
 
-La sección dedicada a la cognición transita desde la morfología y fisiología del ojo (y del cerebro) hasta cuestiones sicológicas relativas a la percepción. Al final, las formas y colores de los gráficos son alimento estos órganos que, aunque de una asombrosa capacidad, incurren en ocasiones en errores de bulto. El que cierto tipo de representaciones gráficas (como [estas](http://www.datanalytics.com/2011/03/02/1658/)) engañen al ojo no se debe a que los datos subyacentes mientan ladinamente. Se debe a que la combinación de formas y colores confunde al cerebro por causas que solo cabe buscar dentro de él.
+La sección dedicada a la cognición transita desde la morfología y fisiología del ojo (y del cerebro) hasta cuestiones sicológicas relativas a la percepción. Al final, las formas y colores de los gráficos son alimento estos órganos que, aunque de una asombrosa capacidad, incurren en ocasiones en errores de bulto. El que cierto tipo de representaciones gráficas (como [estas](https://datanalytics.com/2011/03/02/1658/)) engañen al ojo no se debe a que los datos subyacentes mientan ladinamente. Se debe a que la combinación de formas y colores confunde al cerebro por causas que solo cabe buscar dentro de él.
 
 Al final, si unas determinadas combinaciones de colores _funcionan_ o dejan de hacerlo, si los datos se leen correctamente si se los representa como longitudes, áreas o volúmenes, depende de las peculiaridades del proceso de cognición. Y por eso acierta Cairo en estudiarlo con detalle.
 
-Pero no acaba de extraerle todo el jugo a esta sección. Un planteamiento más próximo a la [obra de de D. Kahneman y A. Tversky](http://www.datanalytics.com/2011/04/27/incertidumbre-juicios-y-sesgos/) que nos advirtiese de los peligros perceptuales más gruesos y nos diese recomendaciones para sortearlos habría cerrado la sección con gloria.
+Pero no acaba de extraerle todo el jugo a esta sección. Un planteamiento más próximo a la [obra de de D. Kahneman y A. Tversky](https://datanalytics.com/2011/04/27/incertidumbre-juicios-y-sesgos/) que nos advirtiese de los peligros perceptuales más gruesos y nos diese recomendaciones para sortearlos habría cerrado la sección con gloria.
 
 La parte más provechosa del libro es la de la primera sección, la de los fundamentos. Identifica la materia del libro como una _tecnología_ —en una acepción muy concreta del término— que ubica en la cúspide de la ciencia de la información y que debería servir para dar sentido a la masa enorme, creciente y aparentemente informe de datos que acumulan las sociedades modernas. Tiende un puente entre los discos duros y la conciencia del público.
 

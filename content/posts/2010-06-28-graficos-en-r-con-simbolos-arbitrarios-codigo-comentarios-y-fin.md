@@ -19,7 +19,7 @@ title: 'Gráficos en R con símbolos arbitrarios: código, comentarios y fin'
 url: /2010/06/28/graficos-en-r-con-simbolos-arbitrarios-codigo-comentarios-y-fin/
 ---
 
-Prometí el otro día revelar los secretos (pensaba que no lo eran tanto) del gráfico que mostré en esta [entrada](http://www.datanalytics.com/2010/06/18/graficos-en-r-con-simbolos-arbitrarios/). Los impacientes tienen [aquí](/uploads/grafico_banderas.zip) todo lo que necesitan. Tienen que ejecutar primero el guión `svg2ps.sh` que invoca inkscape para transformar los ficheros svg (incluidos en la descarga) de las banderas (obtenidos de la Wikipedia) en ficheros _postscript_.
+Prometí el otro día revelar los secretos (pensaba que no lo eran tanto) del gráfico que mostré en esta [entrada](https://datanalytics.com/2010/06/18/graficos-en-r-con-simbolos-arbitrarios/). Los impacientes tienen [aquí](/uploads/grafico_banderas.zip) todo lo que necesitan. Tienen que ejecutar primero el guión `svg2ps.sh` que invoca inkscape para transformar los ficheros svg (incluidos en la descarga) de las banderas (obtenidos de la Wikipedia) en ficheros _postscript_.
 
 El programa `src.R` genera entonces el gráfico utilizando dos paquetes de R: [grImport](http://cran.r-project.org/web/packages/grImport/index.html) y [lattice](http://cran.r-project.org/web/packages/lattice/index.html). El primero permite convertir _postscript_ en xml y posteriormente en objetos de la clase _picture_.
 

@@ -19,7 +19,7 @@ title: Un poco más sobre el índice de poder de Banzhaf
 url: /2015/12/23/un-poco-mas-sobre-el-indice-de-poder-de-banzhaf/
 ---
 
-En el año 2012 escribí [esto](http://www.datanalytics.com/2012/04/04/de-dhondt-a-banzhaf/), que incluye
+En el año 2012 escribí [esto](https://datanalytics.com/2012/04/04/de-dhondt-a-banzhaf/), que incluye
 
 >El índice de Banzhaf para un determinado partido político mide su poder en términos del porcentaje de las posibles alianzas mínimas ganadoras en las que participa dentro de su universo total. Una alizanza es ganadora cuando reúne más de la mitad de los votos. Y es mínima cuando todos sus integrantes son necesarios para que sea ganadora; excluye, por ejemplo, la alianza trivial formada por todos los partidos.
 
@@ -51,6 +51,6 @@ names(res) <- c( "pp", "psoe", "pod", "c's", "erc", "dl", "pnv", "iu", "bildu", 
 
 etc.
 
-Pido mil excusas por la confusión que haya contribuido a generar y agradezco a Juanjo y a Alanítico, que en los comentarios a [esto](http://www.datanalytics.com/2015/12/22/coaliciones-de-banzhaf-en-el-20d/) me pusieron sobre la pista del problema.
+Pido mil excusas por la confusión que haya contribuido a generar y agradezco a Juanjo y a Alanítico, que en los comentarios a [esto](https://datanalytics.com/2015/12/22/coaliciones-de-banzhaf-en-el-20d/) me pusieron sobre la pista del problema.
 
 Finalmente, creo que se le podría aplicar eso de _se non è vero, è ven trovato_ al criterio de poder que atribuí a Banzhaf más arriba y, tal vez, con algunas correcciones (p.e., ponderar adecuadamente el peso de los partidos en las coaliciones mínimas: menor cuantos más partidos entren en ellas), pueda ser incluso más realista que otros para determinadas coyunturas.

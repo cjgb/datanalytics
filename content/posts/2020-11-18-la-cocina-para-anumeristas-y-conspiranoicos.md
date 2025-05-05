@@ -30,4 +30,4 @@ Tienes ese amigo que dizque va a llegar en 30 minutos y lo hace al cabo de una h
 
 Tal regla, aplicada en un contexto donde se ha venido observando una discrepancia sostenida en el tiempo entre lo declarado y lo real, el de las encuestas electorales, es conocida de todos como la _cocina_.
 
-Que, como todas las cosas (y las técnicas, en particular), además, puede ser usada para el bien y para el mal. Pero esa es otra discusión que nos llevaría muy lejos. Aunque no es este mal momento para recordar [esto que escribí hace un par de años](https://www.datanalytics.com/2018/10/01/acerca-del-cis-y-la-cocina/) y particularísimamente, su último parrafo.
+Que, como todas las cosas (y las técnicas, en particular), además, puede ser usada para el bien y para el mal. Pero esa es otra discusión que nos llevaría muy lejos. Aunque no es este mal momento para recordar [esto que escribí hace un par de años](https://datanalytics.com/2018/10/01/acerca-del-cis-y-la-cocina/) y particularísimamente, su último parrafo.

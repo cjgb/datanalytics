@@ -21,7 +21,7 @@ title: Repensando la codificación por impacto
 url: /2017/01/10/repensando-la-codificacion-por-impacto/
 ---
 
-Hay una entrada mía, [esta](https://www.datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/), que me ronda la cabeza y con la que no sé si estoy completamente de acuerdo. Trata de justificar la [_codificación por impacto_](http://www.win-vector.com/blog/2012/07/modeling-trick-impact-coding-of-categorical-variables-with-many-levels/) de variables categóricas en modelos lineales (generalizados o no) y cuanto más la releo, menos me la creo. O, más bien, comienzo a cuestinarme más seriamente contextos en los que funciona y contextos en los que no.
+Hay una entrada mía, [esta](https://datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/), que me ronda la cabeza y con la que no sé si estoy completamente de acuerdo. Trata de justificar la [_codificación por impacto_](http://www.win-vector.com/blog/2012/07/modeling-trick-impact-coding-of-categorical-variables-with-many-levels/) de variables categóricas en modelos lineales (generalizados o no) y cuanto más la releo, menos me la creo. O, más bien, comienzo a cuestinarme más seriamente contextos en los que funciona y contextos en los que no.
 
 Pero comencemos por uno simple: los árboles. Es moda pensar que, dado un predictor categórico, un árbol explora todas las permutaciones posibles de categorías y que por eso algunas implementaciones de, por ejemplo, bosques aleatorios no permiten variables categóricas de más de cierto número no particularmente generoso de niveles.
 

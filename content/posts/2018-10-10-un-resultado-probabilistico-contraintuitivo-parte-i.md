@@ -97,4 +97,4 @@ res <- replicate(1e6, juego(estrategia.guay))
 mean(res)
 {{< / highlight >}}
 
-[Mañana](http://www.datanalytics.com/2018/10/11/un-resultado-probabilistico-contraintuitivo-y-ii/), más sobre este problema.
+[Mañana](https://datanalytics.com/2018/10/11/un-resultado-probabilistico-contraintuitivo-y-ii/), más sobre este problema.

@@ -19,7 +19,7 @@ url: /2023/10/10/potencia-tests-estadisticos-ii/
 ---
 
 Esta entrada continúa
-[esta otra](https://www.datanalytics.com/2023/09/28/potencia-tests-estadisticos/)
+[esta otra](https://datanalytics.com/2023/09/28/potencia-tests-estadisticos/)
 y describe un cambio realizado en
 [la _app_](http://shiny.circiter.es/test-power/)
 para ilustrar qué ocurre ---_spoiler_: nada bueno--- cuando se calcula el poder de un test _a posteriori_, es decir, usando como estimaciones el efecto y su ruido los valores observados.

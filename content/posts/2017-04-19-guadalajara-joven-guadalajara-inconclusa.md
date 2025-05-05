@@ -21,7 +21,7 @@ title: Guadalajara joven, Guadalajara inconclusa
 url: /2017/04/19/guadalajara-joven-guadalajara-inconclusa/
 ---
 
-Continuando con [mi serie sobre la Guadalajara demográfica](https://www.datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/),
+Continuando con [mi serie sobre la Guadalajara demográfica](https://datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/),
 
 ![](/wp-uploads/2017/04/jovenes_guadalajara.png#center)
 

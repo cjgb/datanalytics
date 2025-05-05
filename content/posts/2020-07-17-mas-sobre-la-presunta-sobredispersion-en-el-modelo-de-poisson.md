@@ -20,7 +20,7 @@ title: Más sobre la presunta sobredispersión en el modelo de Poisson
 url: /2020/07/17/mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson/
 ---
 
-_[Esta entrada abunda sobre [la de ayer](https://www.datanalytics.com/2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/) y sin la cual no se entiende.]_
+_[Esta entrada abunda sobre [la de ayer](https://datanalytics.com/2020/07/16/no-tus-datos-no-tienen-sobredispersion-es-que-el-gato-de-nelder-se-ha-merendado-la-epsilon/) y sin la cual no se entiende.]_
 
 Generemos unos datos, las `x`:
 

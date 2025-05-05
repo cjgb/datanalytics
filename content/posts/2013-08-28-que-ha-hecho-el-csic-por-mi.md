@@ -19,7 +19,7 @@ title: ¿Qué ha hecho el CSIC por mí?
 url: /2013/08/28/que-ha-hecho-el-csic-por-mi/
 ---
 
-Reconozco que, [al hablar del CSIC el otro día](http://www.datanalytics.com/2013/08/27/el-pomelazo-del-csic), tendí el trapo. Alguien entró a él en los comentarios y acabé escribiendo algo que vengo rumiando últimamente pero que me daba pereza poner en negro sobre blanco.
+Reconozco que, [al hablar del CSIC el otro día](https://datanalytics.com/2013/08/27/el-pomelazo-del-csic), tendí el trapo. Alguien entró a él en los comentarios y acabé escribiendo algo que vengo rumiando últimamente pero que me daba pereza poner en negro sobre blanco.
 
 Lo reproduzco aquí (a petición de una atenta lectora) sin corregir ni los anacolutos:
 

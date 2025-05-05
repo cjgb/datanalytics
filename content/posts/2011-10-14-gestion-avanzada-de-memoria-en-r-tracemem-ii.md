@@ -20,7 +20,7 @@ title: 'Gestión avanzada de memoria en R: tracemem (II)'
 url: /2011/10/14/gestion-avanzada-de-memoria-en-r-tracemem-ii/
 ---
 
-He leído estos días el capítulo 14 de _The Art of R Programming_ que trata problemas y trucos para mejorar el rendimiento de R en términos de velocidad y memoria. Menciona la función `tracemem` de la que nos ocupamos [el otro día](http://www.datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/).
+He leído estos días el capítulo 14 de _The Art of R Programming_ que trata problemas y trucos para mejorar el rendimiento de R en términos de velocidad y memoria. Menciona la función `tracemem` de la que nos ocupamos [el otro día](https://datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/).
 
 Menciona el capítulo cómo uno de los estranguladores del rendimiento de R es su política de _copiar al cambiar_ (_copy-on-change_). Generalmente, cuando modificamos un objeto, R realiza una copia íntegra de él (¿y qué pasa si realizamos pequeñas modificaciones en un objeto muy grande?):
 

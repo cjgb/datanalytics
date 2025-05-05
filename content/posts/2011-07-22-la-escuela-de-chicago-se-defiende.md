@@ -19,7 +19,7 @@ title: La escuela de Chicago se defiende
 url: /2011/07/22/la-escuela-de-chicago-se-defiende/
 ---
 
-El [vídeo de Taleb](http://www.datanalytics.com/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/) que publiqué la semana pasada recoge un ataque frontal a un presunto vicio del entramado económico-financiero actual: su excesiva dependencia en la teoría y la _matematización_ de los mercados financieros. Hasta tal punto se ha cuestionado el papel de las matemáticas (y su responsabilidad en la reciente crisis financiera y bancaria) que la llamada Escuela de Chicago, cuna de toda esta arquitectura, está a la defensiva.
+El [vídeo de Taleb](https://datanalytics.com/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/) que publiqué la semana pasada recoge un ataque frontal a un presunto vicio del entramado económico-financiero actual: su excesiva dependencia en la teoría y la _matematización_ de los mercados financieros. Hasta tal punto se ha cuestionado el papel de las matemáticas (y su responsabilidad en la reciente crisis financiera y bancaria) que la llamada Escuela de Chicago, cuna de toda esta arquitectura, está a la defensiva.
 
 Publico aquí el enlace a una entrevista del Financial Times con el decano de la Escuela de Negocios de la Universidad de Chicago, que da su visión sobre el fenómeno (pulsar en la imagen para ver el vídeo):
 

@@ -19,7 +19,7 @@ title: Españoles hererodoxos (¿outliers patrios?)
 url: /2014/11/03/espanoles-hererodoxos-outliers-patrios/
 ---
 
-Esta pretendía ser una entrada seria que guardaba en recocina desde aquella mala hora en que me pregunté [qué había hecho el CSIC por mí](http://www.datanalytics.com/2013/08/28/que-ha-hecho-el-csic-por-mi/). Pero salió bufa. A pesar de eso, acabó entroncando con dos de mis otras aficiones: las vidas y costumbres de los españoles heterodoxos y los fenómenos que suceden a muchas sigmas de las medias.
+Esta pretendía ser una entrada seria que guardaba en recocina desde aquella mala hora en que me pregunté [qué había hecho el CSIC por mí](https://datanalytics.com/2013/08/28/que-ha-hecho-el-csic-por-mi/). Pero salió bufa. A pesar de eso, acabó entroncando con dos de mis otras aficiones: las vidas y costumbres de los españoles heterodoxos y los fenómenos que suceden a muchas sigmas de las medias.
 
 Fue en este punto,
 

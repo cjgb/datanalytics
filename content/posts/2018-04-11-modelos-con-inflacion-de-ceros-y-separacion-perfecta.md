@@ -25,7 +25,7 @@ Al estudiar problemas de conteos, la llamada inflación de ceros ocurre frecuent
 
 Las técnicas habituales para resolverlos involucran (explícita o implícitamente) una estructura jerárquica de modelos: primero, uno (similar a una logística), separa las observaciones que corresponderían a la Dirac del resto. Un segundo modelo de conteos trata de ajustar el segundo.
 
-Y en el primer modelo puede darse (una variante de) el fenómeno de la [separación perfecta](https://www.datanalytics.com/2010/10/25/una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas/): que el primer modelo, en una región del espacio de las variables independientes, asigne todas las observaciones a la Dirac.
+Y en el primer modelo puede darse (una variante de) el fenómeno de la [separación perfecta](https://datanalytics.com/2010/10/25/una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas/): que el primer modelo, en una región del espacio de las variables independientes, asigne todas las observaciones a la Dirac.
 
 Existen muchas soluciones para el problema de la separación perfecta, pero todas las que conozco remiten al planteamiento bayesiano: penalizar los coeficientes (véase el enlace anterior); tecnología que, a su vez, tiene inspiración bayesiana: la penalización no es otra cosa que una priori relativamente informativa sobre el valor de los coeficientes. Estas penalizaciones de coeficientes en el caso más conocido de la logística están implementadas por doquier. No así para los modelos más específicos y menos habituales de los modelos con la inflación de ceros.
 

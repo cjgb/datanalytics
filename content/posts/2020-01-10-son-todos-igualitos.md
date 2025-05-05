@@ -27,4 +27,4 @@ Y me refiero a
 
 ![](/wp-uploads/2020/01/191219-tanita-fernandez-navia2.png#center)
 
-extraído de [aquí](https://nadaesgratis.es/admin/seguro-de-desempleo-y-movilidad-geografica-evidencia-de-un-experimento-cuasi-natural) y [lo que escribí ayer sobre la regresión con discontinuidades](https://www.datanalytics.com/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/).
+extraído de [aquí](https://nadaesgratis.es/admin/seguro-de-desempleo-y-movilidad-geografica-evidencia-de-un-experimento-cuasi-natural) y [lo que escribí ayer sobre la regresión con discontinuidades](https://datanalytics.com/2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/).

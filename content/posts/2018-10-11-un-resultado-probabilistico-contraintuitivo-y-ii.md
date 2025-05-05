@@ -19,7 +19,7 @@ title: Un resultado probabilístico contraintuitivo (y II)
 url: /2018/10/11/un-resultado-probabilistico-contraintuitivo-y-ii/
 ---
 
-Va sobre [lo de ayer](http://www.datanalytics.com/2018/10/10/un-resultado-probabilistico-contraintuitivo-parte-i/). Hay una demostración de ese resultado contraintutivo [aquí](https://math.stackexchange.com/questions/655972/help-rules-of-a-game-whose-details-i-dont-remember/656426#656426). Hay una referencia [aquí](http://www-isl.stanford.edu/~cover/papers/paper73.pdf). Existen discusiones sobre si este resultado se debe a Feller; si no lo es, bien pudiera haberlo sido; la verdad, es muy como de él.
+Va sobre [lo de ayer](https://datanalytics.com/2018/10/10/un-resultado-probabilistico-contraintuitivo-parte-i/). Hay una demostración de ese resultado contraintutivo [aquí](https://math.stackexchange.com/questions/655972/help-rules-of-a-game-whose-details-i-dont-remember/656426#656426). Hay una referencia [aquí](http://www-isl.stanford.edu/~cover/papers/paper73.pdf). Existen discusiones sobre si este resultado se debe a Feller; si no lo es, bien pudiera haberlo sido; la verdad, es muy como de él.
 
 Pero una cosa es la demostración y otra muy distinta, descontraintuitivizar el resultado. Para ello, escuchemos la siguiente conversación entre dos sujetos:
 

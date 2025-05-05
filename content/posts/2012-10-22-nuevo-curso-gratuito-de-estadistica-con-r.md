@@ -19,7 +19,7 @@ title: Nuevo curso (gratuito) de estadística con R
 url: /2012/10/22/nuevo-curso-gratuito-de-estadistica-con-r/
 ---
 
-Hace unos meses, [Juanjo Gibaja](http://jjgibaja.net/) y yo lanzamos el un [curso básico de R](http://www.datanalytics.com/2012/06/11/hoy-ha-comenzado-el-curso-basico-de-r/). Animados por el éxito de crítica y público, volvemos a la carga con uno nuevo. Esta vez el curso se titula _Introducción a la estadística moderna con R_. Y su presentación es:
+Hace unos meses, [Juanjo Gibaja](http://jjgibaja.net/) y yo lanzamos el un [curso básico de R](https://datanalytics.com/2012/06/11/hoy-ha-comenzado-el-curso-basico-de-r/). Animados por el éxito de crítica y público, volvemos a la carga con uno nuevo. Esta vez el curso se titula _Introducción a la estadística moderna con R_. Y su presentación es:
 
 >La estadística es una disciplina científica joven: la mayor parte de los conceptos básicos de los que se ocupan los libros de texto tienen apenas 100 años.
 >

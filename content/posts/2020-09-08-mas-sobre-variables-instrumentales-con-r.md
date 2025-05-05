@@ -20,7 +20,7 @@ title: Más sobre variables instrumentales con R
 url: /2020/09/08/mas-sobre-variables-instrumentales-con-r/
 ---
 
-_[El título de esta entrada tiene un + delante porque ya escribí sobre el asunto[ tiempo atrás](https://www.datanalytics.com/2012/04/19/variables-instrumentales-con-r/).]_
+_[El título de esta entrada tiene un + delante porque ya escribí sobre el asunto[ tiempo atrás](https://datanalytics.com/2012/04/19/variables-instrumentales-con-r/).]_
 
 Con la excusa de la reciente publicación del paquete [`ivreg`](https://CRAN.R-project.org/package=ivreg) (para el ajuste de modelos con variables instrumentales, por si el contexto no lo hace evidente),  he mirado a ver quién estaba construyendo y ajustando modelos generativos menos triviales que los míos (véase el enlace anterior) para que quede más claro de qué va la cosa. Porque la explicación típica, que adopta formas no muy distintas de
 

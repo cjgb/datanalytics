@@ -29,4 +29,4 @@ En el vídeo se hace referencia a una serie de materiales. Sus coordenadas son:
 - El artículo de Jesús Fernández Villaverde [_Simple Rules for a Complex World with Artificial Intelligence_](https://www.sas.upenn.edu/~jesusfv/Simple_Rules_AI.pdf)
 - El libro de Paul Meehl [_Clinical vs statistical prediction_](https://www.goodreads.com/book/show/3183060-clinical-versus-statistical-prediction)
 - El artículo de Akerlof [_The_Market_for_Lemons_](https://en.wikipedia.org/wiki/The_Market_for_Lemons)
-- Yo sobre el [efecto "pierna rota"](https://www.datanalytics.com/2022/02/08/efecto-pierna-rota/)
+- Yo sobre el [efecto "pierna rota"](https://datanalytics.com/2022/02/08/efecto-pierna-rota/)

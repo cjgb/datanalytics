@@ -61,4 +61,4 @@ que da algo así como
 
 Comparar los cuantiles de la nueva distribución con los originales es ejercicio que queda propuesto al lector.
 
-**Addenda:** Véase [esta entrada anterior](http://www.datanalytics.com/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/).
+**Addenda:** Véase [esta entrada anterior](https://datanalytics.com/2020/06/05/de-histograma-a-distribuciones-usando-la-de-burr/).

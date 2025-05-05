@@ -18,7 +18,7 @@ title: Otra vuelta al caso del test que rechaza y el intervalo que contiene
 url: /2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/
 ---
 
-Esta visita adicional al tema es consecuencia de mi revisión de todo el asunto de las pruebas de hipótesis. En particular, en el caso de prueba binomial, como en [esta entrada](http://www.datanalytics.com/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/), de la que la que lees es continuación.
+Esta visita adicional al tema es consecuencia de mi revisión de todo el asunto de las pruebas de hipótesis. En particular, en el caso de prueba binomial, como en [esta entrada](https://datanalytics.com/2016/01/29/el-test-rechaza-pero-el-intervalo-contiene-contraejemplos/), de la que la que lees es continuación.
 
 En particular,
 

@@ -34,7 +34,7 @@ En fin.
 
 Cerraré con un comentario de los muchos que tengo en mente y que podía haber hecho. Puede que sea, incluso, uno de los que menos coherencia aporte al texto completo de la entrada de hoy. Y es que pudiera ser que el INE fuese absolutamente irreformable.
 
-Hace unos años escribí sobre el temario de las oposiciones del INE. Aquello se titulaba [Solo necesitarás estadística viejuna](https://www.datanalytics.com/2014/08/04/estadistica-viejuna/). Una de las personas con las que hablé del asunto en esa época era un investigador del CSIC que me dijo lo siguiente:
+Hace unos años escribí sobre el temario de las oposiciones del INE. Aquello se titulaba [Solo necesitarás estadística viejuna](https://datanalytics.com/2014/08/04/estadistica-viejuna/). Una de las personas con las que hablé del asunto en esa época era un investigador del CSIC que me dijo lo siguiente:
 
 * Que el INE era absolutamente consciente de lo que yo había escrito (aclaro: no necesariamente porque me lea a mí).
 * Que, de hecho, lo habían llamado a él a formar parte de un equipo de trabajo para renovar el contenido de las oposiciones, formación interna, etc. concernientes a su área de especialización.

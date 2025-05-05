@@ -26,7 +26,7 @@ Hoy hablanban del último barómetro del CIS y han tenido la gentileza de mencio
 
 ![](/wp-uploads/2018/05/Screenshot_2018-05-10_17-26-10.png#center)
 
-La entrada a la que hacían referencia es [esta](https://www.datanalytics.com/2017/05/10/es-vd-de-izquierdas-o-de-derechas/) (a la que tal vez alguien, _a quien le corresponda_ y dada su importancia, debería sacar más punta).
+La entrada a la que hacían referencia es [esta](https://datanalytics.com/2017/05/10/es-vd-de-izquierdas-o-de-derechas/) (a la que tal vez alguien, _a quien le corresponda_ y dada su importancia, debería sacar más punta).
 
 No obstante, el mismo episodio de `@politibot` incluía
 

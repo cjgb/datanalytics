@@ -21,7 +21,7 @@ title: 'Modelos exponenciales para grafos aleatorios (II): modelo probabilístic
 url: /2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/
 ---
 
-Ayer dejamos abierto el [problema de la inferencia en grafos](http://www.datanalytics.com/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). La idea fundamental es la de suponer que un grafo determinado no es tanto _un grafo en sí_ como una realización de un proceso aleatorio de generación de aristas entre un determinado número de nodos.
+Ayer dejamos abierto el [problema de la inferencia en grafos](https://datanalytics.com/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). La idea fundamental es la de suponer que un grafo determinado no es tanto _un grafo en sí_ como una realización de un proceso aleatorio de generación de aristas entre un determinado número de nodos.
 
 El planteamiento es análogo al que se hace con las series temporales: no es tan importante la serie en sí como el hecho de que pueda probarse que obedece a un modelo autorregresivo, ARIMA, etc.
 

@@ -85,4 +85,4 @@ ggmap(mapa) +
         data = tmp2)
 {{< / highlight >}}
 
-**Addenda:** Véase [esto](https://www.datanalytics.com/2017/04/19/guadalajara-joven-guadalajara-inconclusa/).
+**Addenda:** Véase [esto](https://datanalytics.com/2017/04/19/guadalajara-joven-guadalajara-inconclusa/).

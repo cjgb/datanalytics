@@ -19,7 +19,7 @@ url: /2015/06/08/una-de-las-cosas-que-me-irritan-de-r/
 
 R (y su comunidad) es en ocasiones irritante. Os cuento por qué.
 
-El otro día quise [pintar un grafo sobre un mapa](http://www.datanalytics.com/2015/05/18/grafos-sobre-mapas/). No quería usar ninguno de los [_layouts_ al uso](http://www.inside-r.org/packages/cran/igraph/docs/layout) porque cada nodo estaba georeferenciado. Me interesaba, además, pintar el grafo sobre una capa (de Google Maps u OSM) para contextualizarlo (¿conterrenizarlo?) mejor.
+El otro día quise [pintar un grafo sobre un mapa](https://datanalytics.com/2015/05/18/grafos-sobre-mapas/). No quería usar ninguno de los [_layouts_ al uso](http://www.inside-r.org/packages/cran/igraph/docs/layout) porque cada nodo estaba georeferenciado. Me interesaba, además, pintar el grafo sobre una capa (de Google Maps u OSM) para contextualizarlo (¿conterrenizarlo?) mejor.
 
 No es demasiado complicado escribir una función que haga lo anterior. Pero es razonable pensar que alguien pudiera haberlo hecho antes. [Et voilá](http://www.inside-r.org/packages/cran/popgraph/docs/geom_edgeset). Después de mucho buscar, di con las funciones `geom_edgeset` y `geom_nodeset` del paquete [`popgraph`](http://cran.r-project.org/web/packages/popgraph/index.html) que resolvían el problema.
 

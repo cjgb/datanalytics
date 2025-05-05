@@ -20,7 +20,7 @@ title: Análisis estadístico de respuestas ocultas en encuestas
 url: /2016/01/22/analisis-estadistico-de-respuestas-ocultas-en-encuestas/
 ---
 
-A veces se hacen encuestas sobre temas sobre los que los encuestados son reticentes a revelar la verdad (p.e., [¿es Vd. un zombi?](http://www.datanalytics.com/2016/01/21/a-cuantos-zombis-conoces/)). Un procedimiento conocido para recabar tal tipo de información es el siguiente:
+A veces se hacen encuestas sobre temas sobre los que los encuestados son reticentes a revelar la verdad (p.e., [¿es Vd. un zombi?](https://datanalytics.com/2016/01/21/a-cuantos-zombis-conoces/)). Un procedimiento conocido para recabar tal tipo de información es el siguiente:
 
 * Se le invita al encuestado a tirar al aire una _moneda_ con las caras etiquetadas con _sí_ y _no_; la _moneda_ no es una moneda porque tiene una probabidad conocida (y distinta del 50%) de caer en _sí_.
 * El encuestado responde sí si la respuesta a la pregunta y el resultado de la tirada de la moneda coinciden y no en caso contrario.

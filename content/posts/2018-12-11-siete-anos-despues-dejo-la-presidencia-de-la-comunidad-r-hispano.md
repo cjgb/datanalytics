@@ -53,6 +53,6 @@ Y yo doy las gracias a todos que pasaron por la junta de la asociación, a todos
 
 **Nota:** he tratado de no mencionar nombres concretos en todo lo anterior por el temor a incurrir en vergonzantes omisiones. Los innombrados saben quiénes son y que cuentan con todo mi agradecimiento.
 
-**Nota:** En aquella época me entretuve en escribir resúmenes de las jornadas a las que asistí como [este](https://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/) de las primeras o [esta](https://www.datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/), de las segundas.
+**Nota:** En aquella época me entretuve en escribir resúmenes de las jornadas a las que asistí como [este](https://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/) de las primeras o [esta](https://datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/), de las segundas.
 
 **Nota final:** Le deseo mucha suerte a quien quiera que sea mi sucesor. Que aún no se conoce porque estamos en pleno proceso de votaciones.

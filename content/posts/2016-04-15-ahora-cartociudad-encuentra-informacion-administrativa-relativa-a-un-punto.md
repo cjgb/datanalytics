@@ -38,7 +38,7 @@ get_cartociudad_location_info(40.473219,-3.7227241, year = 2015)
 # [1] "Madrid"
 {{< / highlight >}}
 
-Esto da respuesta a [una pregunta de Rubén](https://www.datanalytics.com/2016/03/31/cartociudad/).
+Esto da respuesta a [una pregunta de Rubén](https://datanalytics.com/2016/03/31/cartociudad/).
 
 La función es en su mayor parte (salvo algunos retoques más estéticos que otra cosa míos) de Luz Frías, que hizo omiso caso de la inexistente docuentación del INE sobre su servicio de mapas y capturó directamente la petición que el [portal de Cartociudad](http://www.cartociudad.es/visor/) hace al servicio.
 

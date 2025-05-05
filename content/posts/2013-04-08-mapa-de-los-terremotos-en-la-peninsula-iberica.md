@@ -20,7 +20,7 @@ title: Mapa de los terremotos en la península ibérica
 url: /2013/04/08/mapa-de-los-terremotos-en-la-peninsula-iberica/
 ---
 
-Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese [tantos terremotos](http://www.datanalytics.com/2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/) (aunque mis amigos chilenos los llamarían de otra manera).
+Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese [tantos terremotos](https://datanalytics.com/2010/06/08/20-10-2010-dia-mundial-de-la-estadistica-y-terremotos/) (aunque mis amigos chilenos los llamarían de otra manera).
 
 En esta entrada voy a mostrar el siguiente mapa de actividad sísmica durante los últimos años,
 

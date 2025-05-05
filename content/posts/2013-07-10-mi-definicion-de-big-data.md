@@ -35,7 +35,7 @@ Y he aquí mi definición de grandes datos:
 
 Y para que se entienda un par de ejemplos.
 
-El primero, con R. Todos hemos usado `dataframes` y operado con ellos. Una línea basta para obtener los coeficientes de un modelo lineal, etc. Pero cuando los conjuntos de datos crecen en tamaño, uno comienza a tropezar con errores del tipo _cannot allocate 250MB_. O hay que plantearse el uso de paquetes _ad hoc_, tales como [`data.table`](http://www.datanalytics.com/2013/05/02/data-table-i-cruces/) u otros que lo obligan a uno a ocuparse de dónde y cómo se almacenan los datos, hilar fino para encontrar la manera adecuada de filtrarlos o cruzarlos con otros, etc.
+El primero, con R. Todos hemos usado `dataframes` y operado con ellos. Una línea basta para obtener los coeficientes de un modelo lineal, etc. Pero cuando los conjuntos de datos crecen en tamaño, uno comienza a tropezar con errores del tipo _cannot allocate 250MB_. O hay que plantearse el uso de paquetes _ad hoc_, tales como [`data.table`](https://datanalytics.com/2013/05/02/data-table-i-cruces/) u otros que lo obligan a uno a ocuparse de dónde y cómo se almacenan los datos, hilar fino para encontrar la manera adecuada de filtrarlos o cruzarlos con otros, etc.
 
 El segundo, con SQL, el lenguaje declarativo por excelencia. Pero con el que, apenas comienzan a crecer las bases de datos en volumen, tiene uno que sumergirse en el análisis de los planes de ejecución, considerar el particionamiento de tablas, la creación de índices, etc. Al final, los aspectos declarativos del lenguaje dejan de parecer _features_ y comienzan a atufar a _bug_.
 

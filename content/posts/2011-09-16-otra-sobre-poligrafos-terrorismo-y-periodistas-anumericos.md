@@ -71,5 +71,5 @@ Es decir, incluso en condiciones generosísimas, 1000 inocentes irían a la cár
 
 Hay cosas que no entiendo:
 
-* Que todo el mundo que inventa un cacharrillo o algoritmo lo juzgue utilísimo para afrontar un problema, el del terrorismo, que [causa en EE.UU. menos muertes que los ciervos](http://www.datanalytics.com/2011/05/10/terrorismo-sesgos-percepcion-improbabilidad/).
+* Que todo el mundo que inventa un cacharrillo o algoritmo lo juzgue utilísimo para afrontar un problema, el del terrorismo, que [causa en EE.UU. menos muertes que los ciervos](https://datanalytics.com/2011/05/10/terrorismo-sesgos-percepcion-improbabilidad/).
 * Que un periódico que se considera tan serio sea incapaz de ofrecer un análisis más completo e inteligente de lo que publica y se limite a copiar del teletipo.

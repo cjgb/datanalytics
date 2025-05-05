@@ -94,7 +94,7 @@ Y los caveats:
 
 1. En realidad, no son autores de paquetes sino mantenedores.
 2. De un determinado y no pequeño número de autores no se ha podido identificar el sexo por diversos motivos; por eso, los números absolutos son menos fiables que su razón.
-3. La razón, incluso, podría no ser del todo fiable: no sabemos si estamos en una situación [MCAR](https://www.datanalytics.com/2012/06/28/valores-perdidos-mcar-mar-y-mnar/).
+3. La razón, incluso, podría no ser del todo fiable: no sabemos si estamos en una situación [MCAR](https://datanalytics.com/2012/06/28/valores-perdidos-mcar-mar-y-mnar/).
 4. Hay nombres que no identifican claramente el sexo.
 5. Hay autores de más de un paquete, por lo que se me ha planteado un dilema: contar los autores únicos o los paquetes únicos; me he decantado por la segunda opción después de sopesar pros y contras.
 6. ¿Alguno más?

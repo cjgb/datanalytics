@@ -28,7 +28,7 @@ y $latex f_\alpha$ es una función no lineal horrible. Sin embargo, $latex f^{-1
 
 $$ x = f^{-1}_\alpha(y) + \epsilon$$
 
-(donde este nuevo $latex \epsilon$ no coincide con el anterior: piénsese en el [método delta](https://www.datanalytics.com/2017/05/24/aquellos-que-ignoran-la-estadistica-etcetera/) y léase la nota final).
+(donde este nuevo $latex \epsilon$ no coincide con el anterior: piénsese en el [método delta](https://datanalytics.com/2017/05/24/aquellos-que-ignoran-la-estadistica-etcetera/) y léase la nota final).
 
 Un ejemplo. Que arranca con unos datos autoexplicativos:
 

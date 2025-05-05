@@ -52,4 +52,4 @@ prediccion.calibracion <- function(model, newdata, proporciones){
 
 que, primero, calcula la predicción sesgada en la escala lineal, aplica luego el término corrector y, finalmente, usa la función de enlace (_link_) para obtener las probabilidades de éxito con el sesgo corregido.
 
-**Nota:** esta entrada debe a [esta otra](http://www.datanalytics.com/2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/).
+**Nota:** esta entrada debe a [esta otra](https://datanalytics.com/2014/11/17/los-coeficientes-de-la-regresion-logistica-con-sobremuestreo/).

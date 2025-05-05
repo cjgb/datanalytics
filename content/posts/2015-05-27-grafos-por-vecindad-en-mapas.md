@@ -21,7 +21,7 @@ title: Grafos por vecindad en mapas
 url: /2015/05/27/grafos-por-vecindad-en-mapas/
 ---
 
-Dando vueltas (infructuosas) al asunto de los [cartogramas](http://www.datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/) he dado con un subproducto con el que, por hoy, me conformo: crear un grafo a partir de relaciones de vecindad entre polígonos. La magia, obra de `[spdep::poly2nb](http://www.inside-r.org/packages/cran/spdep/docs/poly2nb)`; el código,
+Dando vueltas (infructuosas) al asunto de los [cartogramas](https://datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/) he dado con un subproducto con el que, por hoy, me conformo: crear un grafo a partir de relaciones de vecindad entre polígonos. La magia, obra de `[spdep::poly2nb](http://www.inside-r.org/packages/cran/spdep/docs/poly2nb)`; el código,
 
 
 {{< highlight R >}}

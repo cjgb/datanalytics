@@ -25,6 +25,6 @@ El martes (2013-04-15 en formato [ISO 8601](http://en.wikipedia.org/wiki/ISO_860
 [![](/wp-uploads/2013/01/mi_tasa_paro_personal.png#center)
 ](http://tutasadeparo.es/)
 
-Hablaré de [Tu Tasa de Paro](http://www.datanalytics.com/2013/01/24/tu-tasa-de-paro-personal/), proyecto del que ya hablé en otra ocasión. Y aprovecharé, claro está, para promocionar R y, en particular, el [paquete MicroDatosEs](http://www.datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/).
+Hablaré de [Tu Tasa de Paro](https://datanalytics.com/2013/01/24/tu-tasa-de-paro-personal/), proyecto del que ya hablé en otra ocasión. Y aprovecharé, claro está, para promocionar R y, en particular, el [paquete MicroDatosEs](https://datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/).
 
 ¡Estáis invitados!

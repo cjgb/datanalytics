@@ -21,7 +21,7 @@ title: Más sobre factores, strings y ordenación
 url: /2019/08/07/mas-sobre-factores-strings-y-ordenacion/
 ---
 
-Esta entrada debería ser un comentario más en [esta otra](https://www.datanalytics.com/2019/08/05/dplyr-parece-que-prefiere-los-factores/#comments), pero voy a abusar del privilegio de ser dueño de la plataforma para promocionarla.
+Esta entrada debería ser un comentario más en [esta otra](https://datanalytics.com/2019/08/05/dplyr-parece-que-prefiere-los-factores/#comments), pero voy a abusar del privilegio de ser dueño de la plataforma para promocionarla.
 
 Voy a decir cosas que son aproximadamente ciertas. Los detalles de la verdad de todo están en la ayuda y el código de `sort` y sus métodos.
 

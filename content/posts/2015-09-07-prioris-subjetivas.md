@@ -19,7 +19,7 @@ title: Prioris, ¿subjetivas?
 url: /2015/09/07/prioris-subjetivas/
 ---
 
-Dentro de unos días voy a hablar de [estadística bayesiana](http://www.datanalytics.com/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/) en [Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/). Plantearé una distribución _a priori_ muy poco informativa:
+Dentro de unos días voy a hablar de [estadística bayesiana](https://datanalytics.com/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/) en [Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/). Plantearé una distribución _a priori_ muy poco informativa:
 
 {{< highlight R >}}
 alfa ~ gamma(10, 1);

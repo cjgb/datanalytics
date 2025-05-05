@@ -22,9 +22,9 @@ url: /2017/03/23/y-mientras-tanto-nos-roban-la-cartera/
 
 Hablamos de [ondículas](http://elpais.com/elpais/2017/03/21/ciencia/1490102988_761922.html).
 
-Hablamos de [datos abiertos](https://www.datanalytics.com/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/).
+Hablamos de [datos abiertos](https://datanalytics.com/2017/03/17/disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata/).
 
-Hablamos de cómo usar [la semilla como hiperparámetro](https://www.datanalytics.com/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/) para mejorar una diezmilésima el RMSE.
+Hablamos de cómo usar [la semilla como hiperparámetro](https://datanalytics.com/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/) para mejorar una diezmilésima el RMSE.
 
 Hablamos.
 

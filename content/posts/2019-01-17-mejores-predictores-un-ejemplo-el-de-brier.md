@@ -31,4 +31,4 @@ Tal es el llamado _scoring_ de Brier (véase _[Probabilistic prediction in patie
 
 Y, como no dejaron de indicarme los comentaristas de ayer, el mismo resultado se obtiene si se castiga con $latex -\log p(X)$, que, entre otras cosas, tiene que ver con la maximización de la verosimilitud.
 
-Como ejercicio, dejo lo siguiente: ¿y si se castiga con $latex |1 - p(X)|^3$? (Nota: el ejercicio está _resuelto_ [aquí](https://www.datanalytics.com/2019/01/21/scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal/).)
+Como ejercicio, dejo lo siguiente: ¿y si se castiga con $latex |1 - p(X)|^3$? (Nota: el ejercicio está _resuelto_ [aquí](https://datanalytics.com/2019/01/21/scorings-interpolando-y-extrapolando-entre-el-de-brier-y-el-lineal/).)

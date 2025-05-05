@@ -19,7 +19,7 @@ title: Noticia de las VI Jornadas de Usuarios de R
 url: /2014/10/27/noticia-de-las-vi-jornadas-de-usuarios-de-r/
 ---
 
-Regreso de las [VI Jornadas de Usuarios de R](http://r-es.org/VI+Jornadas) y, como otros años he hecho (véase [esto](http://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/), [esto](http://www.datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/) y [esto](http://www.datanalytics.com/2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/)), al volver a casa, quiero escribir sobre este par de días estupendos que he pasado en Santiago.
+Regreso de las [VI Jornadas de Usuarios de R](http://r-es.org/VI+Jornadas) y, como otros años he hecho (véase [esto](http://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/), [esto](https://datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/) y [esto](https://datanalytics.com/2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/)), al volver a casa, quiero escribir sobre este par de días estupendos que he pasado en Santiago.
 
 Antes de ello quiero agradecer a los miembros de los comités científico y organizador su esfuerzo. Muy especialmente a los miembros locales de este último que —quien lo probó bien lo sabe— hicieron un gran e impagable trabajo. (Aquí me es obligado indicar que mis agradecimientos al comité organizador no se extienden a uno de ellos, el que suscribe, que este año, prácticamente, solo fue miembro de manera nominal).
 
@@ -35,7 +35,7 @@ A diferencia de otros años, no voy a repasar el contenido de las jornadas siste
 * Una panorámica de qué cosas y de qué manera están nuestros colegas utilizando R en su quehacer diario en mil y un entornos, muchos de ellos inesperados.
 
 
-Y en eso han consistido las jornadas. Esencialmente, sí, pero no en su totalidad. De hecho, para mí, lo más valioso de las jornadas sucede fuera de ellas: en los pasillos, en la cafetería, en las cenas —y no sé si en los desayunos, que a esos nunca he llegado—. De las charlas informales con los colegas, del _y por qué no pruebas..._, del _en qué andas_, etc. he visto nacer proyectos, productos, paquetes y —esto vale el doble porque [lo escribe un tipo como yo](http://www.datanalytics.com/2014/07/02/hacer-amigos-vs-reponer-amigos-vs-reemplazar-amigos/)— amistades.
+Y en eso han consistido las jornadas. Esencialmente, sí, pero no en su totalidad. De hecho, para mí, lo más valioso de las jornadas sucede fuera de ellas: en los pasillos, en la cafetería, en las cenas —y no sé si en los desayunos, que a esos nunca he llegado—. De las charlas informales con los colegas, del _y por qué no pruebas..._, del _en qué andas_, etc. he visto nacer proyectos, productos, paquetes y —esto vale el doble porque [lo escribe un tipo como yo](https://datanalytics.com/2014/07/02/hacer-amigos-vs-reponer-amigos-vs-reemplazar-amigos/)— amistades.
 
 [![BeerWare_Logo.svg](/wp-uploads/2014/10/BeerWare_Logo.svg_.png#center)
 ](/wp-uploads/2014/10/BeerWare_Logo.svg_.png#center)

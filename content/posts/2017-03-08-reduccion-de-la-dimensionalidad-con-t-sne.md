@@ -23,7 +23,7 @@ title: Reducción de la dimensionalidad con t-SNE
 url: /2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/
 ---
 
-Voy a explicar aquí lo que he aprendido recientemente sobre t-SNE, una técnica para reducir la dimensionalidad de conjuntos de datos. Es una alternativa moderna a [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling) o [PCA](https://www.datanalytics.com/2014/07/24/datos-antes-y-despues-del-pca/).
+Voy a explicar aquí lo que he aprendido recientemente sobre t-SNE, una técnica para reducir la dimensionalidad de conjuntos de datos. Es una alternativa moderna a [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling) o [PCA](https://datanalytics.com/2014/07/24/datos-antes-y-despues-del-pca/).
 
 Partimos de puntos $latex x_1, \dots, x_n$ y buscamos otros $latex y_1, \dots, y_n$ en un espacio de menor dimensión. Para ello construiremos primero $latex n$ distribuciones de probabilidad, $latex p_i$ sobre los enteros $latex 1, \dots, n$ de forma que
 

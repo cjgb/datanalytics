@@ -20,7 +20,7 @@ title: El "método delta", ahora con NIMBLE
 url: /2020/02/03/el-metodo-delta-ahora-con-nimble/
 ---
 
-[NIMBLE](https://r-nimble.org/) ha sido uno de mis más recientes y provechosos descubrimientos. Mejor que hablar de él, que otros lo harán mejor y con más criterio que yo, lo usaré para replantear el problema asociado el [método delta](https://www.datanalytics.com/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/) que me ocupó el otro día.
+[NIMBLE](https://r-nimble.org/) ha sido uno de mis más recientes y provechosos descubrimientos. Mejor que hablar de él, que otros lo harán mejor y con más criterio que yo, lo usaré para replantear el problema asociado el [método delta](https://datanalytics.com/2020/01/22/siete-llaves-al-sepulcro-del-metodo-delta/) que me ocupó el otro día.
 
 Casi autoexplicativo:
 

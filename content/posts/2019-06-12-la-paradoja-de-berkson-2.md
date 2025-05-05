@@ -27,4 +27,4 @@ url: /2019/06/12/mas-sobre-la-paradoja-de-berkson/
 
 Se supone que **a** y **b** son independientes. Pero conocido **c**, dejan de serlo (saber que eres listo y que has suspendido nos dice que...).
 
-Esto _no es exactamente_ pero se parece a (o, más bien, es un caso que generaliza) la llamada Paradoja de Bergson, [de la que hablé hace unos años](http://www.datanalytics.com/2015/10/19/la-paradoja-de-berkson/).
+Esto _no es exactamente_ pero se parece a (o, más bien, es un caso que generaliza) la llamada Paradoja de Bergson, [de la que hablé hace unos años](https://datanalytics.com/2015/10/19/la-paradoja-de-berkson/).

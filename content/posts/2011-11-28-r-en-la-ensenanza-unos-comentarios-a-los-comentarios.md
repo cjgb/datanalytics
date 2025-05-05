@@ -22,7 +22,7 @@ title: 'R en la enseñanza: unos comentarios a los comentarios'
 url: /2011/11/28/r-en-la-ensenanza-unos-comentarios-a-los-comentarios/
 ---
 
-Iba a responder a los comentarios de [mi entrada sobre las Jornadas de R](http://www.datanalytics.com/2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/) y, muy en particular a los de Fernando Fernández, uno de los más fieles lectores de esta bitácora, y me he extendido tanto que he acabado convirtiéndola en una nueva. Pido excusas por haber tal vez abusado de mis prerrogativas para auparme de esta manera.
+Iba a responder a los comentarios de [mi entrada sobre las Jornadas de R](https://datanalytics.com/2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/) y, muy en particular a los de Fernando Fernández, uno de los más fieles lectores de esta bitácora, y me he extendido tanto que he acabado convirtiéndola en una nueva. Pido excusas por haber tal vez abusado de mis prerrogativas para auparme de esta manera.
 
 Tanto a él como a otros les chirrió que escribiese _comenzamos una nueva época que en el plazo de tres o cuatro años nos va a conducir, con casi total seguridad, a un escenario en el que [...] R se use de manera casi exclusiva en la enseñanza de la estadística en los niveles universitarios_.
 

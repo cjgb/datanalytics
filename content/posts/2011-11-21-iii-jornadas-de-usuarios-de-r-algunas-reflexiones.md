@@ -21,7 +21,7 @@ url: /2011/11/21/iii-jornadas-de-usuarios-de-r-algunas-reflexiones/
 
 La semana pasada no actualicé mi bitácora. Nunca había dejado pasar tanto tiempo sin escribir. Y es que, por si alguien no se había enterado aún, el jueves y el viernes tuvieron lugar las [III Jornadas de Usuarios de R](http://usar.org.es/).
 
-Hace dos años escribí un pequeño [resumen sobre las primeras](http://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/). El año pasado me atreví a hacer lo mismo con [las segundas](http://www.datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/). Pero, lo siento, este año me excede el hacerlo para las terceras. Y es que han excedido en mucho la dimensión de las anteriores:
+Hace dos años escribí un pequeño [resumen sobre las primeras](http://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/). El año pasado me atreví a hacer lo mismo con [las segundas](https://datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/). Pero, lo siento, este año me excede el hacerlo para las terceras. Y es que han excedido en mucho la dimensión de las anteriores:
 
 
 

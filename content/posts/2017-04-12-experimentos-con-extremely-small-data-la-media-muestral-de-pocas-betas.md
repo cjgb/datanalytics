@@ -28,7 +28,7 @@ La aplicación es real. Y los datos pequeños porque son carísimos.
 
 Se puede suponer que tienen distribución beta de parámetros desconocidos. Nos interesa la media muestral de unas pocas observaciones: dos, tres, cuatro,... En particular, qué distribución tiene.
 
-Si fuesen muchos, podríamos aplicar el teorema central del límite ([que funciona estupendamente incluso con valores no muy grandes](https://www.datanalytics.com/2012/11/20/lo-normal-sumar-doce-restar-seis/)). Pero la suma de pocas observaciones beta no tiene una distribución con nombre (que yo sepa). Pero podemos usar un viejo truco (parecido al de la aproximación de Welch para el número de grados de libertad de la prueba de Student cuando las varianzas son desiguales):
+Si fuesen muchos, podríamos aplicar el teorema central del límite ([que funciona estupendamente incluso con valores no muy grandes](https://datanalytics.com/2012/11/20/lo-normal-sumar-doce-restar-seis/)). Pero la suma de pocas observaciones beta no tiene una distribución con nombre (que yo sepa). Pero podemos usar un viejo truco (parecido al de la aproximación de Welch para el número de grados de libertad de la prueba de Student cuando las varianzas son desiguales):
 
 * Suponer que la distribución de la suma puede aproximarse por una beta.
 * Estimar sus parámetros (por máxima verosimilitud en este caso).

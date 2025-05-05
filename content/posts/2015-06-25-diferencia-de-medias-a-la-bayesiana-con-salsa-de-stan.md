@@ -28,7 +28,7 @@ El habitual problema de la diferencia de medias suele formularse de la siguiente
 
 $$ y_{ji} \sim N(\mu_j, \sigma)$$
 
-e interesa saber si $latex \mu_1 = \mu_2$. Obviamente, se desconoce $latex \sigma$. De [cómo resolvió Gosset](http://www.datanalytics.com/2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/) el problema están los libros de estadística llenos. En R,
+e interesa saber si $latex \mu_1 = \mu_2$. Obviamente, se desconoce $latex \sigma$. De [cómo resolvió Gosset](https://datanalytics.com/2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/) el problema están los libros de estadística llenos. En R,
 
 {{< highlight R >}}
 set.seed(1234)

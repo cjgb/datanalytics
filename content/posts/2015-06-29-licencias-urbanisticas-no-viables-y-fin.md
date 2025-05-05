@@ -20,7 +20,7 @@ title: Licencias urbanísticas, no viables (y fin)
 url: /2015/06/29/licencias-urbanisticas-no-viables-y-fin/
 ---
 
-¿Recordáis mi [solicitud de datos sobre licencias urbanísticas al ayuntamiento de Madrid](http://www.datanalytics.com/2015/03/10/licencias-urbanisticas-datos-y-votos/)? Hoy me he interesado por [su estado](http://datos.madrid.es/portal/site/egob/menuitem.d3089948cb18b1bb68d8a521ecd08a0c/?vgnextoid=e06faba3ecdfb410VgnVCM2000000c205a0aRCRD&vgnextchannel=102612b9ace9f310VgnVCM100000171f5a0aRCRD) y he encontrado esto:
+¿Recordáis mi [solicitud de datos sobre licencias urbanísticas al ayuntamiento de Madrid](https://datanalytics.com/2015/03/10/licencias-urbanisticas-datos-y-votos/)? Hoy me he interesado por [su estado](http://datos.madrid.es/portal/site/egob/menuitem.d3089948cb18b1bb68d8a521ecd08a0c/?vgnextoid=e06faba3ecdfb410VgnVCM2000000c205a0aRCRD&vgnextchannel=102612b9ace9f310VgnVCM100000171f5a0aRCRD) y he encontrado esto:
 
 [![no_viable](/wp-uploads/2015/06/no_viable.png#center)
 ](/wp-uploads/2015/06/no_viable.png#center)

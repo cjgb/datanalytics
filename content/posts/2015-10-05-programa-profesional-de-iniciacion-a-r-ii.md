@@ -24,7 +24,7 @@ url: /2015/10/05/programa-profesional-de-iniciacion-a-r-ii/
 
 Del 10 de noviembre al 17 de diciembre impartiré la segunda edición de mi [Programa Profesional de Iniciación a R](http://kschool.com/cursos/programa-profesional-de-iniciacion-r/). Los detalles pueden consultarse en el enlace anterior.
 
-Es la segunda edición. De la primera hablé [aquí](http://www.datanalytics.com/2015/04/21/programa-profesional-de-iniciacion-a-r/).
+Es la segunda edición. De la primera hablé [aquí](https://datanalytics.com/2015/04/21/programa-profesional-de-iniciacion-a-r/).
 
 El programa es esencialmente el mismo: presentar y trabajar con aquellas herramientas que hacen de R una herramienta útil dentro de BBVA, Santander, Mapfre, etc. Para trascender Excel y, entre otros,
 

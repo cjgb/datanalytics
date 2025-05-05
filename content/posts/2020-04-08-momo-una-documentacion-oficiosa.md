@@ -25,9 +25,9 @@ Estos días se habla de [MoMo](https://www.isciii.es/QueHacemos/Servicios/Vigila
 
 que resumen lo más jugoso del sistema. MoMo (de monitorización de la mortalidad) es un sistema desarrollado por el ISCIII para seguir en tiempo _casi_ real la evolución de la mortalidad en España.
 
-Utiliza como fuente de datos fundamental la procedente de los registros civiles informatizados, que son la práctica mayoría (aunque no todos: queda excluido ~5% de la población). Además, las defunciones tienen cierto retraso en la notificación, como ya he comentado [aquí](https://www.datanalytics.com/2020/03/12/monitorizacion-diaria-de-la-mortalidad/).
+Utiliza como fuente de datos fundamental la procedente de los registros civiles informatizados, que son la práctica mayoría (aunque no todos: queda excluido ~5% de la población). Además, las defunciones tienen cierto retraso en la notificación, como ya he comentado [aquí](https://datanalytics.com/2020/03/12/monitorizacion-diaria-de-la-mortalidad/).
 
-En la gráfica anterior, los datos más actuales estarían muy por debajo de 1000 (y en el último día, muy cerca de 0) si no fuese por un modelo que describí [aquí](https://www.datanalytics.com/2019/07/03/modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia/) para evitar dos cosas:
+En la gráfica anterior, los datos más actuales estarían muy por debajo de 1000 (y en el último día, muy cerca de 0) si no fuese por un modelo que describí [aquí](https://datanalytics.com/2019/07/03/modelizacion-de-retrasos-una-aplicacion-del-analisis-de-supervivencia/) para evitar dos cosas:
 
 * que los gráficos sean antiestéticos, con una línea negra que desciende en picado hacia el cero;
 * que aparezcan artefactos debidos al modelo de corrección del retraso.

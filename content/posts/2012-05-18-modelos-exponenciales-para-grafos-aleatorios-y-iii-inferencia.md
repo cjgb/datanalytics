@@ -21,7 +21,7 @@ title: 'Modelos exponenciales para grafos aleatorios (y III): inferencia'
 url: /2012/05/18/modelos-exponenciales-para-grafos-aleatorios-y-iii-inferencia/
 ---
 
-Me quedé el otro día en el [modelo probabilístico](http://www.datanalytics.com/2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/) de los [grafos aleatorios exponenciales](http://www.datanalytics.com/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). Quedaba una última parte y al ensayar su redacción me di cuenta de que me había metido en un huerto: la cosa es mucho más vasta de lo que a primera vista parecía.
+Me quedé el otro día en el [modelo probabilístico](https://datanalytics.com/2012/05/10/modelos-exponenciales-para-grafos-aleatorios-ii-modelo-probabilistico/) de los [grafos aleatorios exponenciales](https://datanalytics.com/2012/05/09/modelos-exponenciales-para-grafos-aleatorios-i-motivacion/). Quedaba una última parte y al ensayar su redacción me di cuenta de que me había metido en un huerto: la cosa es mucho más vasta de lo que a primera vista parecía.
 
 Así que me limitaré a repasar lo más básico tratando de no meter demasiado la pata.
 

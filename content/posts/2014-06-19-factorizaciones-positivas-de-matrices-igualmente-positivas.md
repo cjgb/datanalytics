@@ -55,7 +55,7 @@ res@fit@W %*% res@fit@H
 
 Lo del algoritmo es lo de menos. Hay muchos y diversos que pueden consultarse en la bibliografía que acompaña al paquete anterior y en muchas otras partes.
 
-También es medio irrelevante lo de la pérdida de la ortogonalidad (aunque véase [esto](http://www.datanalytics.com/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) y [esto](http://www.datanalytics.com/2011/08/16/una-feliz-conjuncion-estadistico-algebraica-y-ii/) para ver cómo otro tipo de factorizaciones más convencionales se relaciona con lo de la milonga de la $latex \chi^2$) por lo que se gana. Que es, dividiendo filas y columnas adecuadamente, esto:
+También es medio irrelevante lo de la pérdida de la ortogonalidad (aunque véase [esto](https://datanalytics.com/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) y [esto](https://datanalytics.com/2011/08/16/una-feliz-conjuncion-estadistico-algebraica-y-ii/) para ver cómo otro tipo de factorizaciones más convencionales se relaciona con lo de la milonga de la $latex \chi^2$) por lo que se gana. Que es, dividiendo filas y columnas adecuadamente, esto:
 
 $$ A \approx WH= DW^\prime H^\prime$$
 

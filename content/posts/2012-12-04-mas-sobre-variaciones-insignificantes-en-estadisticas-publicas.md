@@ -21,7 +21,7 @@ title: Más sobre variaciones insignificantes en estadísticas públicas
 url: /2012/12/04/mas-sobre-variaciones-insignificantes-en-estadisticas-publicas/
 ---
 
-Hemos talado cantidad de montes y destruido el ecosistema de miles de ardillas para fabricar el papel sobre el que discutir asuntos totalmente irrelevantes. Hablé un poco de eso [hace unos días](http://www.datanalytics.com/2012/11/28/coma-cero-dos-por-ciento-anda-ya/) y más en ocasiones anteriores, como [esta](http://www.datanalytics.com/2010/03/21/la-varianza-y-cifras-macroeconomicas/) y alguna más que me da pereza ubicar.
+Hemos talado cantidad de montes y destruido el ecosistema de miles de ardillas para fabricar el papel sobre el que discutir asuntos totalmente irrelevantes. Hablé un poco de eso [hace unos días](https://datanalytics.com/2012/11/28/coma-cero-dos-por-ciento-anda-ya/) y más en ocasiones anteriores, como [esta](https://datanalytics.com/2010/03/21/la-varianza-y-cifras-macroeconomicas/) y alguna más que me da pereza ubicar.
 
 Ahora leo en Significance [cómo protesta Mark Fransham](http://www.significancemagazine.org/details/webexclusive/2788311/Wrong-The-reporting-of-statistical-error.html):
 

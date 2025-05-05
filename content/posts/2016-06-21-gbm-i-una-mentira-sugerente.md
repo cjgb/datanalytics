@@ -18,7 +18,7 @@ title: 'GBM (I): Una mentira sugerente'
 url: /2016/06/21/gbm-i-una-mentira-sugerente/
 ---
 
-Hace un tiempo resumí los GBMs (_Gradient Boosting Machines_) [en una línea](https://www.datanalytics.com/2016/03/11/gbm-sintetizado-en-una-linea/). Hoy comienzo una serie de varias entradas para que nadie tenga excusa de no saber de qué va la cosa. Arranco con _una mentira sugerente_. Porque lo que voy a contar no es del todo cierto, pero motiva lo que vendrá después.
+Hace un tiempo resumí los GBMs (_Gradient Boosting Machines_) [en una línea](https://datanalytics.com/2016/03/11/gbm-sintetizado-en-una-linea/). Hoy comienzo una serie de varias entradas para que nadie tenga excusa de no saber de qué va la cosa. Arranco con _una mentira sugerente_. Porque lo que voy a contar no es del todo cierto, pero motiva lo que vendrá después.
 
 Consideremos un conjunto de datos medio famoso: el de los [precios de los alquileres en Múchich](http://www.statistik.lmu.de/service/datenarchiv/miete/miete_e.html). Comencemos con un modelo sencillo, una regresión lineal que relacione el precio del alquiler con los metros cuadrados, i.e.,
 

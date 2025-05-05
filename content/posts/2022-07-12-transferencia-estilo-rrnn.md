@@ -18,7 +18,7 @@ title: El estilo es la coocurrencia de patrones
 url: /2022/07/12/transferencia-estilo-rrnn/
 ---
 
-_[Aquí, entre otras cosas, se abunda una serie de tres que realicé hace seis años sobre el asunto y que puede consultarse [aquí](https://www.datanalytics.com/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/).]_
+_[Aquí, entre otras cosas, se abunda una serie de tres que realicé hace seis años sobre el asunto y que puede consultarse [aquí](https://datanalytics.com/2016/09/05/mezclas-de-vectores-iii-las-funciones-involucradas/).]_
 
 Esta entrada trata sobre cómo se puede caracterizar en términos matemáticos, medir y, en última instancia, operar sobre un concepto tal lábil como lo es el del estilo (o textura) de una imagen. Por ejemplo, lo que caracteriza a una pintura negra de Goya, un primer plano de un plato de macarrones o una viñeta de un cómic de Mortadelo.
 

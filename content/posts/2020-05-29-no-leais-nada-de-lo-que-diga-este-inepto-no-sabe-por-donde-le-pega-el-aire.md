@@ -24,4 +24,4 @@ Hay gente que va dándoselas de nosequé y luego resulta que no sabe por dónde 
 
 A ver, con isótopos radioactivos, ya que los citas, la vida media es $latex 1 / \lambda$ (de estar sujetos a un decaimiento exponencial de la forma $latex \exp(-\lambda t)$ y la semivida es $latex \log 2 / \lambda$. ¿Qué demonios cambia tan sustancialmente de usar la una o la otra?
 
-Casi se me olvida citar la fuente en la que abreva el inepto. Es [esta](https://www.datanalytics.com/2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/).
+Casi se me olvida citar la fuente en la que abreva el inepto. Es [esta](https://datanalytics.com/2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/).

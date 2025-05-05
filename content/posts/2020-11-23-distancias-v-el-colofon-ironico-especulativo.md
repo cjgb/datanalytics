@@ -24,7 +24,7 @@ url: /2020/11/23/distancias-v-el-colofon-ironico-especulativo/
 
 Remato la serie sobre distancias con una entrega especulativa. Según se la mire, o bien nunca se ha hecho esa cosa o bien nunca ha dejado de hacerse.
 
-El problema es que ninguna de las propuestas desgranadas por ahí, incluidas las de mis serie, responde eficazmente [la gran pregunta](https://www.datanalytics.com/2020/11/06/distancias-iii-la-gran-pregunta/):
+El problema es que ninguna de las propuestas desgranadas por ahí, incluidas las de mis serie, responde eficazmente [la gran pregunta](https://datanalytics.com/2020/11/06/distancias-iii-la-gran-pregunta/):
 
 >_¿Son más próximos un individuo y una individua de 33 años o una individua de 33 y otra de 45?_
 

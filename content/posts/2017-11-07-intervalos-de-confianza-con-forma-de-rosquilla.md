@@ -22,7 +22,7 @@ title: '"Intervalos" de confianza con forma de rosquilla'
 url: /2017/11/07/intervalos-de-confianza-con-forma-de-rosquilla/
 ---
 
-Envalentonado por el comentario de [Iñaki Úcar](https://twitter.com/Enchufa2) a mi [entrada del otro día](https://www.datanalytics.com/2017/11/03/intervalos-de-confianza-creativos-que-excluyen-el-0/), que me remitía a [este artículo](https://www.sciencedirect.com/science/article/pii/0378475490900117), decidí rizar el rizo y crear intervalos de confianza no ya discontinuos sino con otra propiedad topológica imposible: homeomorfos con un toro.
+Envalentonado por el comentario de [Iñaki Úcar](https://twitter.com/Enchufa2) a mi [entrada del otro día](https://datanalytics.com/2017/11/03/intervalos-de-confianza-creativos-que-excluyen-el-0/), que me remitía a [este artículo](https://www.sciencedirect.com/science/article/pii/0378475490900117), decidí rizar el rizo y crear intervalos de confianza no ya discontinuos sino con otra propiedad topológica imposible: homeomorfos con un toro.
 
 Y aquí está:
 

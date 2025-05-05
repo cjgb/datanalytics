@@ -28,9 +28,9 @@ Hoy toca esto:
 
 Se trata de una invitación para leer el artículo [_Los picos de contaminación coinciden con un aumento radical en los ingresos hospitalarios_](http://www.eldiario.es/madrid/alta-contaminacion-afecta-pulmones-Madrid_0_473502958.html), un cúmulo de desafueros epilogados por el ya habitual
 
->[Los resultados de esta investigación tienen puntos en común con la metodología científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención que la tenga.](https://www.datanalytics.com/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/)
+>[Los resultados de esta investigación tienen puntos en común con la metodología científica aunque en ningún momento tendrán la misma validez ni tampoco es su intención que la tenga.](https://datanalytics.com/2016/02/05/los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga/)
 
-En primer lugar y antes de nada, me es obligado felicitar a los dos autores del _estudio_: desde el sector privado, sin ningún tipo de subvención pública y con coste cero para el contribuyente, han llegado a la misma conclusión que un señor, [este](https://www.datanalytics.com/2017/10/03/vivir-del-ruido/), que, aparte de omitir la coletilla anterior en sus artículos, nos cuesta a todos un chorro de euros cada mes.
+En primer lugar y antes de nada, me es obligado felicitar a los dos autores del _estudio_: desde el sector privado, sin ningún tipo de subvención pública y con coste cero para el contribuyente, han llegado a la misma conclusión que un señor, [este](https://datanalytics.com/2017/10/03/vivir-del-ruido/), que, aparte de omitir la coletilla anterior en sus artículos, nos cuesta a todos un chorro de euros cada mes.
 
 El artículo es un sindiós, un catálogo completo de lo que no hay que hacer y trivialmente falsable. Trata de establecer una correlación, que el director del periódico eleva relación de causalidad, entre contaminación e ingresos hospitalarios urgentes por enfermedades respiratorias.
 
@@ -44,7 +44,7 @@ Otra es la casualidad. V.g.,
 
 Internet está lleno de ejemplos. Basta con buscar "_correlation isn't causation_" o jugar un poco con [Google Correlate](https://www.google.com/trends/correlate) para convencerse de ello.
 
-Existe una tercera que consiste en jugar con los gráficos, sus escalas, etc. para crear apariencias de casi cualquier cosa. Hay ejemplos [aquí](https://www.datanalytics.com/2011/05/31/graficaca-en-el-ft/) o [aquí](https://www.datanalytics.com/2011/01/31/un-grafico-enganabobos/).
+Existe una tercera que consiste en jugar con los gráficos, sus escalas, etc. para crear apariencias de casi cualquier cosa. Hay ejemplos [aquí](https://datanalytics.com/2011/05/31/graficaca-en-el-ft/) o [aquí](https://datanalytics.com/2011/01/31/un-grafico-enganabobos/).
 
 La cuarta es más enjundiosa. Y nada como un diagrama para sintetizarla:
 
@@ -57,6 +57,6 @@ En este caso, esa causa común es el invierno. El invierno favorece la fijación
 
 Es posible que alguien piense (es encomiable) que los dos efectos se suman y pretenda deslindar el uno del otro. Tendrá que tener muy buena suerte para poder distinguir el primero y muy fuerte (el del frío) de otro mucho menor que está además condicionado por una variable, la exposición a la contaminación, que es imposible de medir decentemente. Es algo solo es abordable con dinero de los demás.
 
-En definitiva, existen disciplinas enteras (véase [esto](https://www.datanalytics.com/2016/10/31/modelos-graficos-probabilisticos-en-coursera/) y [esto](https://www.datanalytics.com/2014/06/24/causalidad-a-la-pearl-y-el-operador-do/)) que estudian estas cuestiones y con cuyos rudimentos conviene familiarizarse antes de pontificar.
+En definitiva, existen disciplinas enteras (véase [esto](https://datanalytics.com/2016/10/31/modelos-graficos-probabilisticos-en-coursera/) y [esto](https://datanalytics.com/2014/06/24/causalidad-a-la-pearl-y-el-operador-do/)) que estudian estas cuestiones y con cuyos rudimentos conviene familiarizarse antes de pontificar.
 
 Y ya.

@@ -21,7 +21,7 @@ title: Modelos, mascotas y rebaños en el DataBeers de Madrid
 url: /2014/09/10/modelos-mascotas-y-rebanos-en-el-databeers-de-madrid/
 ---
 
-El próximo día 18 de septiembre hablaré de [modelos, mascotas y rebaños](http://www.datanalytics.com/2014/08/15/mascotas-y-rebanos/) en el DataBeers de Madrid.
+El próximo día 18 de septiembre hablaré de [modelos, mascotas y rebaños](https://datanalytics.com/2014/08/15/mascotas-y-rebanos/) en el DataBeers de Madrid.
 
 Los detalles (incluido el enlace para registrarse) están disponibles [aquí](http://databeers.tumblr.com/post/96524647751/meetup-september-18th-2014-19-00).
 

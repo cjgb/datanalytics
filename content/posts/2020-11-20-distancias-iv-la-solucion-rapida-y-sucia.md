@@ -22,7 +22,7 @@ title: 'Distancias (IV): la solución rápida y sucia'
 url: /2020/11/20/distancias-iv-la-solucion-rapida-y-sucia/
 ---
 
-[Prometí](https://www.datanalytics.com/2020/11/06/distancias-iii-la-gran-pregunta/) (d)escribir una solución rápida y sucia para la construcción de distancias cuando fallan las _prêt à porter_ (euclídeas, Gower, etc.).
+[Prometí](https://datanalytics.com/2020/11/06/distancias-iii-la-gran-pregunta/) (d)escribir una solución rápida y sucia para la construcción de distancias cuando fallan las _prêt à porter_ (euclídeas, Gower, etc.).
 
 Está basada en la muy socorrida y casi siempre falsa hipótesis de independencia entre las distintas variables $latex x_1, \dots, x_n$ y tiene la forma
 

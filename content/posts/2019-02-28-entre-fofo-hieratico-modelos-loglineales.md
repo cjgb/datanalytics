@@ -29,6 +29,6 @@ La estrategia gomosa, fofa (ñof, ñof, ñof), y en la que parecen parecer creer
 
 La estrategia hierática, inflexible y reminiscente de robots de pelis de serie B, expresiones regulares encadenadas con ORs.
 
-En la mitad donde mora la virtud, extracción de _features_ (principalmente con expresiones regulares) y luego, [esto](https://www.datanalytics.com/2019/02/25/modelos-log-lineales-y-glms-con-regularizacion/).
+En la mitad donde mora la virtud, extracción de _features_ (principalmente con expresiones regulares) y luego, [esto](https://datanalytics.com/2019/02/25/modelos-log-lineales-y-glms-con-regularizacion/).
 
 _Nota:_ esta entrada es un recordatorio para mí mismo y por si retorna cierto asunto que dejé postergado hace un par de días.

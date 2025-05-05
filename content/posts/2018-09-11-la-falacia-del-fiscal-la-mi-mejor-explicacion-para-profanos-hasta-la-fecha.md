@@ -18,7 +18,7 @@ title: 'La falacia del fiscal: la/mi mejor explicación para profanos hasta la f
 url: /2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/
 ---
 
-Leyendo [_The Tiger That Isn't_](https://en.wikipedia.org/wiki/The_Tiger_That_Isn't) di con una manera alternativa para explicar la llamada falacia del fiscal de la que ya me he ocupado [aquí](https://www.datanalytics.com/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/) y [aquí](https://www.datanalytics.com/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/).
+Leyendo [_The Tiger That Isn't_](https://en.wikipedia.org/wiki/The_Tiger_That_Isn't) di con una manera alternativa para explicar la llamada falacia del fiscal de la que ya me he ocupado [aquí](https://datanalytics.com/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/) y [aquí](https://datanalytics.com/2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/).
 
 Relata lo ocurrido en un pueblo inglés en el que una noche, unos vecinos (presuntamente), descendientes sin duda de aquellos campesinos búlgaros que huían de la vacuna, echaron abajo una antena de telefonía móvil que tenía al pueblo en vilo (la historia, [aquí](http://www.bbc.co.uk/insideout/westmidlands/series6/phone_masts.shtml)). Porque, resulta, alrededor de ella se habían dado recientemente `n` casos de cáncer: aquello era un _clúster de cáncer_. Y puestos a buscar culpables, ¿por qué no el electromagnetismo?
 
@@ -33,7 +33,7 @@ Pero para condenar a la antena (y remito a mis entradas anteriores para los deta
 
 **Nota de color:** Uno de los mayores expertos en los _riesgos_ de estas antenas en la salud, convidado en todos los foros al respecto de Ecologistas en Acción, [ciudadanos de Segovia asustados por el 5G](https://www.change.org/p/ayuntamiento-de-segovia-stop-5g-en-segovia) y similares resulta ser no solo profesor emérito de una universidad pública sino, además, mi vecino del sexto.
 
-**Otra nota:** No son solo los cánceres los que se aglomeran en el espacio; también pueden hacerlo las [muertes súbitas de bebés](https://en.wikipedia.org/wiki/Sally_Clark) o [las muertes de pacientes en observación](https://en.wikipedia.org/wiki/Lucia_de_Berk). O también pueden aparcer clústeres temporales, como los de los [fallecimientos de fiscales que investigan casos de corrupción del PP](https://www.datanalytics.com/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/) o [de famosos en 2016](https://medium.com/@jasoncrease/was-2016-especially-dangerous-for-celebrities-79d79b9fae02).
+**Otra nota:** No son solo los cánceres los que se aglomeran en el espacio; también pueden hacerlo las [muertes súbitas de bebés](https://en.wikipedia.org/wiki/Sally_Clark) o [las muertes de pacientes en observación](https://en.wikipedia.org/wiki/Lucia_de_Berk). O también pueden aparcer clústeres temporales, como los de los [fallecimientos de fiscales que investigan casos de corrupción del PP](https://datanalytics.com/2017/11/30/de-nuevo-la-falacia-del-fiscal-aplicada-a-fiscales-que-fenecen/) o [de famosos en 2016](https://medium.com/@jasoncrease/was-2016-especially-dangerous-for-celebrities-79d79b9fae02).
 
 **Nota final:** Pero, ¡ay!, [John Snow](https://en.wikipedia.org/wiki/John_Snow) (el otro John Snow será siempre _el otro John Snow_ en este blog) hizo lo mismo y ahora es considerado un pionero de la epidemiología.
 

@@ -31,4 +31,4 @@ La _regla del tres_ justifica asignar una probabilidad de 3/n después de revisa
 
 El párrafo del que he traducido junto con una justificación de lo anterior puede encontrarse [aquí](http://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/).
 
-**Nota:** Después de escribir lo anterior, me doy cuenta de que no solo me he repetido sino que, además, me he contradicho (parcialmente). En [esta entrada](https://www.datanalytics.com/2016/04/05/nos-vemos-en-el-machine-learning-spain-xii/) me refiero a la paradoja del 100% (i.e., cuando un 100% no es un 100%) y sus consecuencias, y lo dicho de ese extremo se pueden aplicar _mutatis mutandis_ al otro extremo.
+**Nota:** Después de escribir lo anterior, me doy cuenta de que no solo me he repetido sino que, además, me he contradicho (parcialmente). En [esta entrada](https://datanalytics.com/2016/04/05/nos-vemos-en-el-machine-learning-spain-xii/) me refiero a la paradoja del 100% (i.e., cuando un 100% no es un 100%) y sus consecuencias, y lo dicho de ese extremo se pueden aplicar _mutatis mutandis_ al otro extremo.

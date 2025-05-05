@@ -21,7 +21,7 @@ title: 'Más sobre aquel concepto estadístico que aconsejé desaprender: la suf
 url: /2021/11/03/mas-sobre-aquel-concepto-estadistico-que-aconseje-desaprender-la-suficiencia/
 ---
 
-En esta entrada abundo en una que escribí hace ocho años: [Conceptos estadísticos que desaprender: la suficiencia](https://www.datanalytics.com/2013/07/09/conceptos-estadisticos-que-desaprender-suficiencia/). Lo hago porque casualmente he tropezado con su origen y justificación primera, el afamado artículo _[On the Mathematical Foundations of Theoretical Statistics](http://l.academicdirect.org/Horticulture/GAs/Refs/Fisher_1922_Estimation.pdf)_ del nunca suficientemente encarecido R.A. Fisher.
+En esta entrada abundo en una que escribí hace ocho años: [Conceptos estadísticos que desaprender: la suficiencia](https://datanalytics.com/2013/07/09/conceptos-estadisticos-que-desaprender-suficiencia/). Lo hago porque casualmente he tropezado con su origen y justificación primera, el afamado artículo _[On the Mathematical Foundations of Theoretical Statistics](http://l.academicdirect.org/Horticulture/GAs/Refs/Fisher_1922_Estimation.pdf)_ del nunca suficientemente encarecido R.A. Fisher.
 
 Criticaba en su día lo inútil del concepto. Al menos, en la práctica moderna de la estadística: para ninguno de los conjuntos de datos para los que trabajo existe un estadístico suficiente que no sea la totalidad de los datos.
 

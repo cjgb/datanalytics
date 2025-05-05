@@ -48,4 +48,4 @@ y <- s[,2]
 plot(x, y, pch = 16)
 {{< / highlight >}}
 
-Se ve que [Sobol quería rellenar más armoniosamente el espacio](https://en.wikipedia.org/wiki/Sobol_sequence). Me temo que, al hablar de aleatoriedad, muchos de nosotros también (p.e., [esto](https://www.datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/)).
+Se ve que [Sobol quería rellenar más armoniosamente el espacio](https://en.wikipedia.org/wiki/Sobol_sequence). Me temo que, al hablar de aleatoriedad, muchos de nosotros también (p.e., [esto](https://datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/)).

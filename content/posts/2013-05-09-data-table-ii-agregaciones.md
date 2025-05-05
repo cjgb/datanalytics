@@ -21,7 +21,7 @@ title: 'data.table (II): agregaciones'
 url: /2013/05/09/data-table-ii-agregaciones/
 ---
 
-Sigo con mi [lacónica serie sobre `data.table`](http://www.datanalytics.com/2013/05/02/data-table-i-cruces/).
+Sigo con mi [lacónica serie sobre `data.table`](https://datanalytics.com/2013/05/02/data-table-i-cruces/).
 
 La protagonista:
 

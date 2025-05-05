@@ -24,9 +24,9 @@ Qué cafres tenéis que ser para que tenga que salir yo ---precisamente yo, que 
 
 Es un tema que vengo tratando de antiguo en estas páginas y de ello dan fe:
 
-* [Esta entrada](https://www.datanalytics.com/2012/03/07/esperanzador-no-varianzador/) de 2012 donde el INE confunde esperanza con varianza.
-* [Esta entrada](https://www.datanalytics.com/2017/01/18/va-de-si-hay-una-o-dos-lambdas/) de 2017 sobre la _simonada_ anual de la DGT a cuenta de los accidentes de tráfico.
-* [Esta](https://www.datanalytics.com/2020/04/02/pokemoneando-ruido/) más reciente donde acuño un neologismo por ver si con el cachondeíto refrenáis vuestros instintos apofénicos.
+* [Esta entrada](https://datanalytics.com/2012/03/07/esperanzador-no-varianzador/) de 2012 donde el INE confunde esperanza con varianza.
+* [Esta entrada](https://datanalytics.com/2017/01/18/va-de-si-hay-una-o-dos-lambdas/) de 2017 sobre la _simonada_ anual de la DGT a cuenta de los accidentes de tráfico.
+* [Esta](https://datanalytics.com/2020/04/02/pokemoneando-ruido/) más reciente donde acuño un neologismo por ver si con el cachondeíto refrenáis vuestros instintos apofénicos.
 
 Y no hay manera.
 

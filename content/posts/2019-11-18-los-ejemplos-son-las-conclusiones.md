@@ -20,7 +20,7 @@ title: Los ejemplos son las conclusiones
 url: /2019/11/18/los-ejemplos-son-las-conclusiones/
 ---
 
-_[Ahí va otro aforismo en la línea de [este otro](https://www.datanalytics.com/2019/10/18/el-modelo-son-las-conclusiones/)]._
+_[Ahí va otro aforismo en la línea de [este otro](https://datanalytics.com/2019/10/18/el-modelo-son-las-conclusiones/)]._
 
 Me recomienda Medium muy encarecidamente la lectura de _[Optimization over Explanation](https://medium.com/berkman-klein-center/optimization-over-explanation-41ecb135763d)_ y yo a mis lectores. Trata el asunto de la responsabilidad dizque ética de los algoritmos de inteligencia artificial. Nos cuenta cómo la legislación en general y la GDPR en particular ha hecho énfasis en la explicabilidad de los modelos: según  la GDPR, los sujetos de esos algoritmos tendríamos el derecho a que se nos explicasen las decisiones que toman en defensa de nosequé bien jurídico, que nunca he tenido claro y que se suele ilustrar examinando una serie de casos en los que salen aparentemente perjudicados los miembros de unas cuantas minorías cuya agregación son todos menos yo y unos poquitos más que se parecen a mí.
 

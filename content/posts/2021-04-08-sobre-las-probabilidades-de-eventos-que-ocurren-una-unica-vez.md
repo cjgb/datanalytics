@@ -45,4 +45,4 @@ $$ y_i = a_0 + \sum_i a_i x_i + \epsilon_i,$$
 
 que es una versión muy concreta de la descomposición a la que se hacía referencia más arriba.
 
-**Addenda:** Después de publicada esta entrada hice [esta otra](https://www.datanalytics.com/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/) que abunda sobre estas cuestiones.
+**Addenda:** Después de publicada esta entrada hice [esta otra](https://datanalytics.com/2021/12/09/mas-sobre-la-estimacion-de-probabilidades-de-eventos-que-no-se-repiten/) que abunda sobre estas cuestiones.

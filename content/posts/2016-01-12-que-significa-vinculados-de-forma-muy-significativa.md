@@ -115,4 +115,4 @@ confint(mod.lmer.paro)
 
 para ilustrar cómo la significancia estadística, al igual que la belleza, está a menudo en el ojo de quien la mire.
 
-Y con el tercer asunto, termino: los [datos de suicidios de Madrid](http://www.datanalytics.com/2015/12/03/el-curioso-caso-de-los-suicidios-en-la-villa-de-madrid/) no me los creo ni harto de vino.
+Y con el tercer asunto, termino: los [datos de suicidios de Madrid](https://datanalytics.com/2015/12/03/el-curioso-caso-de-los-suicidios-en-la-villa-de-madrid/) no me los creo ni harto de vino.

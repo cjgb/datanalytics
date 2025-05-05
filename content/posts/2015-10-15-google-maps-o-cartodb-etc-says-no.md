@@ -26,7 +26,7 @@ Si no sabéis a qué hace referencia el título, no os perdáis [esto](https://w
 [![ComputerSaysNo](/wp-uploads/2015/10/ComputerSaysNo.jpg)
 ](/wp-uploads/2015/10/ComputerSaysNo.jpg)
 
-El otro día (véase [esto](http://www.datanalytics.com/2015/10/13/que-primitivos-eran-aquellos-antepasados-nuestros-o-no/)) mostré una imagen de mi última charla sobre mapas. Hoy le toca el turno a esta otra:
+El otro día (véase [esto](https://datanalytics.com/2015/10/13/que-primitivos-eran-aquellos-antepasados-nuestros-o-no/)) mostré una imagen de mi última charla sobre mapas. Hoy le toca el turno a esta otra:
 
 [![britain](/wp-uploads/2015/10/britain.jpg)
 ](/wp-uploads/2015/10/britain.jpg)

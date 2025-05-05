@@ -65,6 +65,6 @@ Con él, desde R,
 {{< / highlight >}}
 
 
-No es rapidísimo, debería mejorar el tratamiento de la [codificación](http://www.datanalytics.com/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/) y muchas cosas más.
+No es rapidísimo, debería mejorar el tratamiento de la [codificación](https://datanalytics.com/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/) y muchas cosas más.
 
 ¿Se anima a mejorarlo alguno de mis lectores?

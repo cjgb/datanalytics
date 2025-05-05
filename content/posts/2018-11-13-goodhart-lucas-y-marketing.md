@@ -19,7 +19,7 @@ title: Goodhart, Lucas y márketing
 url: /2018/11/13/goodhart-lucas-y-marketing/
 ---
 
-Abundo sobre [lo de ayer](https://www.datanalytics.com/2018/11/12/goodhart-lucas-y-todas-esas-cosas/).
+Abundo sobre [lo de ayer](https://datanalytics.com/2018/11/12/goodhart-lucas-y-todas-esas-cosas/).
 
 Una empresa clasifica a sus clientes y los asigna a grupos: malotes, estrella, psepsé, etc. Examina las características de los clientes estrella y entonces reorienta su política comercial en la siguiente dirección:
 

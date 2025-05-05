@@ -26,7 +26,7 @@ Sus posiciones pueden ilustrarse gráficamente así:
 
 ![](/wp-uploads/2022/06/umbralismo.png#center)
 
-Las posiciones típicas de los umbralistas quedan resumidas [aquí](https://www.datanalytics.com/2022/04/21/que-es-seguro/).
+Las posiciones típicas de los umbralistas quedan resumidas [aquí](https://datanalytics.com/2022/04/21/que-es-seguro/).
 
 Los antiumbralistas suelen ser más mediáticos (a la prensa le encantan afirmaciones del tipo: ¡el alcohol causa X desde la primera gota!) y tienen más hinchada en las clases populares.
 

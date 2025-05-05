@@ -29,7 +29,7 @@ Vamos con un ejemplo. Hoy he leído lo siguiente en el periódico:
 
 Un horror de resumen. Engañoso. Y fatalista. Es fatalista porque da la impresión de que no hay alternativas: estamos abocados a consumir 100 millones de barriles al día en 2035. Si embargo, no es cierto que eso sea lo que dice la AIE. Por eso es engañoso.
 
-La AIE es bastante más sofisticada —puede que ahí esté el problema— de lo que toleran esos burdos embudos de la información que es en lo que se convierten nuestros periodistas. La AIE —y [de eso hablamos hace un tiempo, en el 2010](http://www.datanalytics.com/2011/02/03/energia-y-medio-ambiente-en-2035-algunos-numeros/)— plantea tres escenarios posibles:
+La AIE es bastante más sofisticada —puede que ahí esté el problema— de lo que toleran esos burdos embudos de la información que es en lo que se convierten nuestros periodistas. La AIE —y [de eso hablamos hace un tiempo, en el 2010](https://datanalytics.com/2011/02/03/energia-y-medio-ambiente-en-2035-algunos-numeros/)— plantea tres escenarios posibles:
 
 * _New Policies Scenario_, que es el que la AIE considera más probable (por eso denomina "central") en el cual las cosas se desenvolverán, aproximadamente, tal cual dan a entender las actuales tendencias. Y en ese, si se cumplen esas condiciones, sí que se consumirían 99.7 millones de barriles al día en 2035.
 * _Efficient World Scenario_, uno en el que se implementan medidas de ahorro adicionales, en el que se consumirían 87 millones de barriles al día en 2035.

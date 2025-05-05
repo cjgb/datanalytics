@@ -21,7 +21,7 @@ title: 'Reponderación de componentes: un ejemplo'
 url: /2014/04/22/reponderacion-de-componentes-un-ejemplo/
 ---
 
-Esta entrada es la continuación de _[La escala natural de la varianza](http://www.datanalytics.com/2014/04/09/la-escala-natural-de-la-varianza/)_. En ella vimos cómo los componentes de un PCA pueden tener un peso que pudiera no guardar relación con su importancia práctica.
+Esta entrada es la continuación de _[La escala natural de la varianza](https://datanalytics.com/2014/04/09/la-escala-natural-de-la-varianza/)_. En ella vimos cómo los componentes de un PCA pueden tener un peso que pudiera no guardar relación con su importancia práctica.
 
 Si uno quiere trabajar con las principales componentes de un PCA sobre unos datos, puede que la escala sea irrelevante (p.e., si quiere utilizar modelos lineales). Pero hay casos egregios en los que no sucede así.
 

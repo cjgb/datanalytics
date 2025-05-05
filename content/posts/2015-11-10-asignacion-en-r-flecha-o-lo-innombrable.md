@@ -26,7 +26,7 @@ Alguien que no quiero nombrar (pero que sabe de sobra quién es) me comentaba el
 
 Como consecuencia, `<-` es más eficiente desde el punto de vista de la gestión de la memoria.
 
-¿Será cierto? ¿Qué nos dirá [`tracemem`](http://www.datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/) al respecto? No seáis vagos y probad
+¿Será cierto? ¿Qué nos dirá [`tracemem`](https://datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/) al respecto? No seáis vagos y probad
 
 {{< highlight R >}}
 a <- 1:10

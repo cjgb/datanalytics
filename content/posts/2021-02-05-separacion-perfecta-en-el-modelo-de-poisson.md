@@ -74,4 +74,4 @@ aunque `glm` nos engaña y da por convergida una regresión que no lo está. De 
 
 Para saber más, y para que quede constancia de de dónde he sacado todo lo anterior, _[Bias Reduction as a Remedy to the Consequences of Infinite Estimates in Poisson and Tobit Regression](https://arxiv.org/abs/2101.07141)_ del, entre otros, genial y nunca suficientemente apreciado A. Zeileis.
 
-**Coda:** Apenas acabo lo anterior, me doy cuenta de que [ya había hablado del tema](https://www.datanalytics.com/2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/) de pasada hace un par de años largos.
+**Coda:** Apenas acabo lo anterior, me doy cuenta de que [ya había hablado del tema](https://datanalytics.com/2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/) de pasada hace un par de años largos.

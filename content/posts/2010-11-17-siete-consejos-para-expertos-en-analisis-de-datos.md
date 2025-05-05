@@ -24,7 +24,7 @@ En mis deambulaciones por internet topé con una [página interesante](http://da
 
 **Usa una herramienta del tamaño adecuado**
 
-SAS u Oracle no deberían considerarse las herramientas por defecto. Para procesar y depurar ficheros de texto de menos de mil líneas bastan herramientas como R, [Google Refine](http://www.datanalytics.com/2010/11/12/google-refine-2-0-una-herramienta-con-muy-buen-aspecto/), vi, Excel/OpenCalc,...
+SAS u Oracle no deberían considerarse las herramientas por defecto. Para procesar y depurar ficheros de texto de menos de mil líneas bastan herramientas como R, [Google Refine](https://datanalytics.com/2010/11/12/google-refine-2-0-una-herramienta-con-muy-buen-aspecto/), vi, Excel/OpenCalc,...
 
 Python (o Perl) y la misma línea de comado de Linux/UNIX pueden resultar de una ayuda inestimable.
 
@@ -38,7 +38,7 @@ Recuerda que el principal cuello de botella es el IO. Por eso, los datos, cuanto
 
 **Divide tus datos**
 
-Hay dos motivos para segmentar tus datos. El primero tiene que ver con el almacenamiento distribuido: es conveniente guardarlos en nodos distintos. El segundo, relacionado con el anterior, es el del procesamiento distribuido. El paquete de moda de R en estos momentos (y del que [hablaré muy pronto](http://www.datanalytics.com/2010/10/29/ii-jornadas-de-usuarios-de-r/)) es plyr, que está basado en una filosofía de tres tiempos: divide, procesa, recombina. El mismo principio sigue [MapReduce](http://es.wikipedia.org/wiki/MapReduce) de Google (y otros antes que él). Quien acuda a [Mieres en diciembre](http://www.lne.es/cuencas/2010/10/06/campus-acogera-i-congreso-usuarios-espana-lenguajeinformatico-r/976653.html) me oirá proponer un enfoque de solución de problemas que se reduce a:
+Hay dos motivos para segmentar tus datos. El primero tiene que ver con el almacenamiento distribuido: es conveniente guardarlos en nodos distintos. El segundo, relacionado con el anterior, es el del procesamiento distribuido. El paquete de moda de R en estos momentos (y del que [hablaré muy pronto](https://datanalytics.com/2010/10/29/ii-jornadas-de-usuarios-de-r/)) es plyr, que está basado en una filosofía de tres tiempos: divide, procesa, recombina. El mismo principio sigue [MapReduce](http://es.wikipedia.org/wiki/MapReduce) de Google (y otros antes que él). Quien acuda a [Mieres en diciembre](http://www.lne.es/cuencas/2010/10/06/campus-acogera-i-congreso-usuarios-espana-lenguajeinformatico-r/976653.html) me oirá proponer un enfoque de solución de problemas que se reduce a:
 
 
 1. Elige un subconjunto pequeño de tus datos.

@@ -33,4 +33,4 @@ Y es inferior, entre otros motivos, por su limitado ámbito de aplicación. ¿Qu
 
 Estas probabilidades, además, deberían tener una distribución uniforme, con lo que verificar la bondad de los modelos sería una trivialidad.
 
-Pero como no es así y estamos anclados en lo viejuno, con errores de Poisson y muchos otros, tenemos que hacer mil malabares para simetrizar y normalizar los residuos (como [aquí](https://www.datanalytics.com/2017/12/15/la-poisson-y-la-estabilizacion-de-la-varianza/)), etc.
+Pero como no es así y estamos anclados en lo viejuno, con errores de Poisson y muchos otros, tenemos que hacer mil malabares para simetrizar y normalizar los residuos (como [aquí](https://datanalytics.com/2017/12/15/la-poisson-y-la-estabilizacion-de-la-varianza/)), etc.

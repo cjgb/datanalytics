@@ -20,7 +20,7 @@ title: Naive Bayes como red bayesiana
 url: /2014/08/06/naive-bayes-como-red-bayesiana/
 ---
 
-Una red bayesiana es [algo de lo que ya hablé](http://www.datanalytics.com/2013/11/19/la-red-asia/) (y que me está volviendo a interesar mucho últimamente). En esencia, es un modelo probabilístico construido sobre un [grafo dirigido acíclico](http://es.wikipedia.org/wiki/Grafo_ac%C3%ADclico_dirigido).
+Una red bayesiana es [algo de lo que ya hablé](https://datanalytics.com/2013/11/19/la-red-asia/) (y que me está volviendo a interesar mucho últimamente). En esencia, es un modelo probabilístico construido sobre un [grafo dirigido acíclico](http://es.wikipedia.org/wiki/Grafo_ac%C3%ADclico_dirigido).
 
 Que, a su vez, es algo parecido a
 
