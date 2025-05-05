@@ -1,4 +1,4 @@
-baseurl = "https://www.datanalytics.com/"
+baseurl = "https://datanalytics.com/"
 title = "Carlos J. Gil Bellosta"
 languageCode = "es"
 DefaultContentLanguage = "es"
@@ -28,8 +28,8 @@ enableRobotsTXT = true
 
 [Params.Author]
   name = "Carlos J. Gil Bellosta"
-  bio = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es). Más sobre él, [aquí](http://www.datanalytics.com/bio)."
-  avatar = "https://www.datanalytics.com/carlos-gil-bellosta-twitter-card.png"
+  bio = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es). Más sobre él, [aquí](http://datanalytics.com/bio)."
+  avatar = "https://datanalytics.com/carlos-gil-bellosta-twitter-card.png"
 
 [Twitter]
   twitter_cards = true
