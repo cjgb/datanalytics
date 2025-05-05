@@ -18,7 +18,7 @@ tags:
 - gpl
 - stan
 title: Más allá del "software" libre y algunos asuntos más
-url: /2024/10/29/cortos-estadística
+url: /2024/10/29/cortos-estadistica
 ---
 
 1. Últimamente, casi siempre que se usan las palabras _tecnología_ y _enseñanza_ en una misma frase es para denunciar los _perniciosos_ efectos de la primera en la segunda. No obstante, [aquí_](https://nadaesgratis.es/cabrales/puede-servir-la-tecnologia-para-mejorar-la-atencion-a-la-diversidad-escolar) se señala una de sus potenciales atractivos: adecuadamente usada, podría permitir gestionar la _varianza_ (por no usar el término tabú, _desigualdad_), en el desempeño escolar.

@@ -18,7 +18,7 @@ tags:
 - d de cohen
 - t-test
 title: Varios apuntes sobre causalidad
-url: /2025/01/07/cortos-estadística
+url: /2025/01/07/cortos-estadistica
 ---
 
 Lo más satisfactorio de la entrada [_Resolving disputes between J. Pearl and D. Rubin on causal inference_](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/) es constatar cómo el autor, Andrew Gelman, también encuentra _opacos_ conceptos muy _pearlianos_ como el de _collider of an M-structure_.

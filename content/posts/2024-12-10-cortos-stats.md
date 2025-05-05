@@ -16,7 +16,7 @@ tags:
 - tecnología
 - perspectivismo
 title: Unas cuantas notas sobre filosofía de la ciencia
-url: /2024/12/10/cortos-estadística
+url: /2024/12/10/cortos-estadistica
 ---
 
 ### ¿Qué fue antes, la ciencia o la ingeniería?

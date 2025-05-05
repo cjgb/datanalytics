@@ -15,7 +15,7 @@ tags:
 - k-medias
 - heurísticas
 title: k-means "2.0" y cuatro asuntos más
-url: /2024/11/12/cortos-estadística
+url: /2024/11/12/cortos-estadistica
 ---
 
 1. Existe un blog muy raro y entretenido, [_Weierd Data Science_](https://www.weirddatascience.net/), en el que hace años publicaron una serie de artículos realizando un análisis estadístico no enteramente trivial del manuscrito Voynich. [Esta](https://www.weirddatascience.net/2020/02/21/illuminating-the-illuminated-part-four-tempora-mutantur-changepoint-analysis-of-the-voynich-manuscript/) es la última entrega de la serie de cuatro entradas, que ilustra y entretiene más y mejor que esas actividades que alguien ha decidido que formen parte del canon cultural.

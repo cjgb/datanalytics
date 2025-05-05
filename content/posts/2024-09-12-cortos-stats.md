@@ -15,7 +15,7 @@ tags:
 - variables instrumentales
 - estadística bayesiana
 title: Comparaciones vs efectos y cuatro asuntos más
-url: /2024/09/12/cortos-estadística
+url: /2024/09/12/cortos-estadistica
 ---
 
 [Aquí](https://statmodeling.stat.columbia.edu/2024/08/06/he-wants-to-compute-the-effect-of-a-predictor-that-is-an-average-predictive-comparison-for-a-hierarchical-mixture-model-you-can-do-it-in-stan/) se lee:

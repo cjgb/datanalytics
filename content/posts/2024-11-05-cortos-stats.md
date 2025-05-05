@@ -18,7 +18,7 @@ tags:
 - left
 - redondeo
 title: Un argumento en contra del redondeo y cuatro breves asuntos más
-url: /2024/11/05/cortos-estadística
+url: /2024/11/05/cortos-estadistica
 ---
 
 1. Ahora se pueden correr Stan en el navegador (vía WebAssembly) [aquí](https://stan-playground.flatironinstitute.org/).

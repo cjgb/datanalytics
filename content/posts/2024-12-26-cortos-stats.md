@@ -14,7 +14,7 @@ tags:
 - predicción conforme
 - gráficos
 title: Predicción conforme, visualización y otros comentarios breves
-url: /2024/12/26/cortos-estadística
+url: /2024/12/26/cortos-estadistica
 ---
 
 ### Predicción conforme

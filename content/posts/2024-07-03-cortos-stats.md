@@ -16,7 +16,7 @@ tags:
 - correlación
 - academia
 title: '"El problema de la academia" y cuatro asuntos más'
-url: /2024/07/03/cortos-estadística
+url: /2024/07/03/cortos-estadistica
 ---
 
 ### I.

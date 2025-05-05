@@ -15,7 +15,7 @@ tags:
 - diferencias en diferencias
 - mortalidad
 title: Algunos apuntes sueltos sobre causalidad
-url: /2024/10/08/cortos-estadística
+url: /2024/10/08/cortos-estadistica
 ---
 
 Bajo cierto punto de vista, el estudio estadístico de la causalidad viene a consistir en la estimación de _modelos incompletos_. Un modelo completo es uno que contiene todas las ecuaciones / relaciones causales que afectan a un fenómeno. En uno incompleto, las variables y ecuaciones faltantes introducen sesgos de distinta naturaleza. Uno de los sitios donde mejor lo he visto contar es en [_Simulating confounders, colliders and mediators_](http://freerangestats.info/blog/2023/06/04/causality-sims.html), de donde extraigo, además, el siguiente gráfico:

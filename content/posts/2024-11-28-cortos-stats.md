@@ -17,7 +17,7 @@ tags:
 - z3
 - bm25
 title: Unas cuantas herramientas tecnológicas
-url: /2024/11/28/cortos-estadística
+url: /2024/11/28/cortos-estadistica
 ---
 
 ### Modelos directamente en base de datos

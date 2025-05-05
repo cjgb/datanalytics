@@ -18,7 +18,7 @@ tags:
 - superpredictores
 title: Sobre los nombres de persona asociados a coeficientes intelectuales bajos y
   algunos otros asuntos más
-url: /2025/01/14/cortos-estadística
+url: /2025/01/14/cortos-estadistica
 ---
 
 En [_Dear Political Scientists: Don't Bin, GAM Instead_](https://datacolada.org/121) se discute una ocurrencia concreta de una disyuntiva más general que aparece frecuentemente en la práctica: crear varios modelos simples con bloques diferentes de datos contra utilizar un modelo global flexible que englobe todos los datos. Tengo la sospecha de que se ha optado históricamente por la primera aproximación por motivos ---entre otros--- computacionales que ya no operan.
