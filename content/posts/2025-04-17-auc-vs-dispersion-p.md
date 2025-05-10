@@ -50,7 +50,7 @@ por lo que, usando el teorema de Bayes (y abusando un poco del lenguaje),
 
 $$f_1(t) = dF_1(t) = P(p = t |  Y = 1) = \frac{P(Y = 1 | p = t) f(t)}{P(Y = 1)} = \frac{t f(t)}{\pi_1}.$$
 
-donde $f(t)$ es la función de distribución de las predicciones sobre [0, 1].
+donde $f(t)$ es la función de densidad de las predicciones sobre [0, 1].
 
 Análogamente, se concluye que
 
@@ -65,7 +65,7 @@ Como la intuición no (me) da de sí para entender esta expresión, podemos reem
 
 ![](/wp-uploads/2025/auc_on_alpha.png#center)
 
-Con $\alpha = 10000$, que da una distribución de $f$ concentrada alrededor de 0.5 se obtiene un AUC de 0.504, como cabría esperar.
+Con $\alpha = 10000$, que da una distribución de $f$ concentrada alrededor de 0.5, se obtiene un AUC de 0.504, como cabría esperar.
 
 Se deja como ejercicio al lector probar con otras betas asimétricas para obtener los resultados correspondientes. En tal caso, habría que reemplazar $\pi_1$ por la correspondiente media de la beta $f$.
 
