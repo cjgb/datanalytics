@@ -28,7 +28,7 @@ Por otro lado, pensemos en el AUC, que es muchas cosas, pero entre ellas,
 
 $$ AUC=Pr(p_i >p_j | Y_i =1,Y_j =0),$$
 
-es decir la probabilidad de que, tomando dos sujetos a la vez, uno positivo, el $i$ y otro negativo, el $j$, $p_i > p_j$.
+es decir la probabilidad de que, tomando dos sujetos al azar, uno positivo, el $i$ y otro negativo, el $j$, $p_i > p_j$.
 
 Con esa definición en mano y bajo calibración, debería ser imposible que sucediese simultáneamente que:
 - el AUC sea alto
