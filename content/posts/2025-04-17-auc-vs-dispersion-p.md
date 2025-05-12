@@ -31,8 +31,8 @@ $$ AUC=Pr(p_i >p_j | Y_i =1,Y_j =0),$$
 es decir la probabilidad de que, tomando dos sujetos al azar, uno positivo, el $i$ y otro negativo, el $j$, $p_i > p_j$.
 
 Con esa definición en mano y bajo calibración, debería ser imposible que sucediese simultáneamente que:
-- el AUC sea alto
-- muchos sujetos tengan _scorings_ cerca de 0.5.
+- el AUC fuese alto
+- muchos sujetos tuviesen _scorings_ cerca de 0.5.
 
 Es decir, solo se puede lograr un AUC alto si hay muchos _scorings_ cerca de 0 y de 1, pero pocos en la zona de incertidumbre.
 
