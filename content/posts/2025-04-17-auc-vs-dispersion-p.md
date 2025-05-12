@@ -22,7 +22,7 @@ title: Sobre la relación entre la dispersión de las probabilidades y el AUC en
 url: /2025/04/17/auc-dispersion-calibracion
 ---
 
-Supongamos que estamos construyendo un modelo de clasificación binaria. Supongamos que está _bien calibrado_, es decir, que cuando predice una probabilidad $p$ de éxito para un sujeto $X$, entonces es cierto que $X \sim \text{Bernoulli(p)}$.
+Supongamos que estamos construyendo un modelo de clasificación binaria. Supongamos que está _bien calibrado_, es decir, que cuando predice una probabilidad $p$ de éxito para un sujeto $i$, entonces es cierto que $Y_i \sim \text{Bernoulli(p)}$.
 
 Por otro lado, pensemos en el AUC, que es muchas cosas, pero entre ellas,
 
