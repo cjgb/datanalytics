@@ -6,6 +6,14 @@
 {{- else -}}
 {{- $pages = $pctx.Pages -}}
 {{- end -}}
+{{- /* Filter out pages from "paginas" directory */ -}}
+{{- $filteredPages := slice -}}
+{{- range $pages -}}
+{{- if not (in .File.Dir "paginas/") -}}
+{{- $filteredPages = $filteredPages | append . -}}
+{{- end -}}
+{{- end -}}
+{{- $pages = $filteredPages -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
