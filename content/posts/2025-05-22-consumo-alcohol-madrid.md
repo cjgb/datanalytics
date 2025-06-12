@@ -1,14 +1,22 @@
 ---
-author: Carlos J. Gil Bellosta
-categories:
-- tecnología
-date: 2025-05-22
-description: Una discusión sobre el muestreo al hilo de unas encuestas sobre consumo de alcohol en la Comunidad de Madrid.
 -tags:
 - encuestas
 - epidemiología
 - alcohol
-title: Consumo de alcohol en Madrid...
+author: Carlos J. Gil Bellosta
+categories:
+- tecnología
+date: 2025-05-22
+description: Una discusión sobre el muestreo al hilo de unas encuestas sobre consumo
+  de alcohol en la Comunidad de Madrid.
+lastmod: '2025-06-12T23:26:57.807383'
+related:
+- 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
+- 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
+- 2014-10-30-y-si-no-se-mantuvieran.md
+- 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
+- 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
+title: ¿Se ha duplicado realmente el número de personas que consumen alcohol a diario en la provincia de Madrid?
 url: /2025/05/22/consumo-alcohol-madrid
 ---
 
