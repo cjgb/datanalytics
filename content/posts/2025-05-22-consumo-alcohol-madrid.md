@@ -34,7 +34,7 @@ El Observatorio Español de las Drogas y las Adicciones, adscrito al Ministerio 
 no se aprecia ningún patrón de consumo excesivo de alcohol en Madrid: de hecho, está por debajo de la media nacional en casi todas las métricas. Ni la [nota de prensa](https://pnsd.sanidad.gob.es/noticiasEventos/notas/2024/pdf/20240801_NP_SANIDAD_MonografiaAlcohol2024.pdf) ni el [resumen ejecutivo](https://pnsd.sanidad.gob.es/profesionales/publicaciones/catalogo/catalogoPNSD/publicaciones/pdf/2024_OEDA_MonografiaAlcoholConsumoConsecuencias_ResumenEjecutivo.pdf) de ese estudio mencionan a la Comunidad de Madrid explícitamente.
 
 Ese informe se nutre fundamentalmente de los datos de la
-[EDADES](https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/encuestas_EDADES.htm),
+[EDADES](https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/encuestas_EDADES.htm)
 (Encuesta sobre alcohol y otras drogas en España), del Ministerio de Sanidad. En el
 [informe correspondiente a la edición de 2024](https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2024_Informe_EDADES.pdf)
 de dicha encuesta, la palabra "Madrid" aparece 17 veces y en ninguna ellas se hace referencia a excesos de consumo de alcohol o incrementos del mismo.
