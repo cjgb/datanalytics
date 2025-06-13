@@ -46,7 +46,7 @@ Existe sin embargo un informe de la Comunidad de Madrid, el
 
 ![](/wp-uploads/2025/evolucion-consumo-alcohol-madrid.png#center)
 
-sobre la que los autores del informe comentan escuetamente ---mucho más de lo que se espera de gente que tiene estudios y que ha aprobado una oposición---:
+sobre la que sus autores comentan escuetamente ---mucho más de lo que se espera de gente que tiene estudios y que ha aprobado una oposición---:
 
 > El indicador de consumo diario es el que muestra un mayor incremento (15,6% vs. 6,7%, más del doble de incremento), seguido del consumo de alguna vez en la vida (93,9% vs. 92,8% respectivamente) y del consumo en los últimos 12 meses (73,5% vs. 73,0%) (figura 1).
 
