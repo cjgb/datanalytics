@@ -27,7 +27,7 @@ y de donde extraigo un párrafo que lo dice casi todo:
 
 > El secretario de Estado de Sanidad, Javier Padilla, ha advertido este miércoles que el número de personas que consumen alcohol a diario en la Comunidad de Madrid "casi se ha duplicado" desde el año 2000, mientras que en el conjunto de España aumenta "de forma muy pequeña", y ha acusado a la presidenta regional...
 
-Me ha llamado bastante la atención: generalmente, las cifras _macro_ guardan una correspondencia con lo que uno observa en su _entorno micro_ y en este caso ocurre lo contrario. Esa discrepancia puede significar muchas cosas, por supuesto. Así que he invertido un poco de tiempo en tratar de averiguar qué puede estar pasando.
+Me ha llamado bastante la atención: generalmente, las cifras _macro_ guardan una correspondencia con lo que uno observa en su _entorno micro_ mientras que en este caso ocurre lo contrario. Esa discrepancia puede significar muchas cosas, por supuesto. Así que he invertido un poco de tiempo en tratar de averiguar qué puede estar pasando.
 
 El Observatorio Español de las Drogas y las Adicciones, adscrito al Ministerio de Sanidad, publica cada dos años una monografía sobre el uso de alcohol. En
 [la de 2024](https://pnsd.sanidad.gob.es/profesionales/publicaciones/catalogo/catalogoPNSD/publicaciones/pdf/2024_OEDA_MonografiaAlcoholConsumoConsecuencias.pdf)
