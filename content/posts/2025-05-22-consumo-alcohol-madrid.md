@@ -22,7 +22,7 @@ url: /2025/05/22/consumo-alcohol-madrid
 
 Me he enterado por
 [esto](https://derechomercantilespana.blogspot.com/2025/06/madrid-es-la-capital-universitaria-de.html)
-de una noticia que recoge, por ejemplo, [en Europa Press](https://www.europapress.es/madrid/noticia-ministerio-sanidad-alerta-aumento-consumo-alcohol-madrid-ayuso-hace-poco-menos-delegada-comercial-20250611143450.html),
+de una noticia que recoge, por ejemplo, [Europa Press](https://www.europapress.es/madrid/noticia-ministerio-sanidad-alerta-aumento-consumo-alcohol-madrid-ayuso-hace-poco-menos-delegada-comercial-20250611143450.html),
 y de donde extraigo un párrafo que lo dice casi todo:
 
 > El secretario de Estado de Sanidad, Javier Padilla, ha advertido este miércoles que el número de personas que consumen alcohol a diario en la Comunidad de Madrid "casi se ha duplicado" desde el año 2000, mientras que en el conjunto de España aumenta "de forma muy pequeña", y ha acusado a la presidenta regional...
