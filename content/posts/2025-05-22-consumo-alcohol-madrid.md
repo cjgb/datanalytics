@@ -50,7 +50,7 @@ sobre la que sus autores comentan escuetamente ---mucho más de lo que se espera
 
 > El indicador de consumo diario es el que muestra un mayor incremento (15,6% vs. 6,7%, más del doble de incremento), seguido del consumo de alguna vez en la vida (93,9% vs. 92,8% respectivamente) y del consumo en los últimos 12 meses (73,5% vs. 73,0%) (figura 1).
 
-Pero eso no es realmente lo que dice el gráfico (y los datos subyacentes). Lo que el gráfico dice realmente es que la encuesta está mal hecha. Por ejemplo, es materialmente imposible que el consumo de alcohol "alguna vez en la vida" oscilase como lo hizo en 2007. Tendrías que haber deportado fuera de la provincia a prácticamente un millón de madrileños que alguna vez han probado el alcohol, reemplazarlos por un millón de abstemios, hacer la encuesta y volver luego a dejar las cosas tal como estaban.
+Pero eso no es realmente lo que dice el gráfico (y los datos subyacentes). Lo que el gráfico dice realmente es que la encuesta está mal hecha. Por ejemplo, es materialmente imposible que el consumo de alcohol "alguna vez en la vida" oscile como lo hizo en 2007. Tendrías que haber deportado fuera de la provincia a prácticamente un millón de madrileños que alguna vez han probado el alcohol, reemplazarlos por un millón de abstemios, hacer la encuesta y volver luego a dejar las cosas tal como estaban para lograr una fluctuación de esa magnitud.
 
 El problema, como tantas veces, no está en el territorio sino en el mapa.
 
