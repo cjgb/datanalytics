@@ -15,7 +15,7 @@ related:
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 - 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
-title: La gestiòn de la deriva como problema fundamental del bayesianismo
+title: La gestión de la deriva como problema fundamental del bayesianismo
 url: /2025/06/05/problemas-bayesianismo-epistemologia
 ---
 
