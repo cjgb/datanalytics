@@ -13,7 +13,7 @@ related:
 tags:
 - encuestas
 - promedios
-- sesgos
+- sesgo
 title: Problemas de los promedios de encuestas electorales
 url: /2023/05/16/problemas-promedios-encuestas-electorales/
 ---

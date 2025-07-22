@@ -13,7 +13,7 @@ related:
 - 2021-09-16-sobre-la-economia-conductual.md
 - 2016-09-30-sobre-ciencia-de-datos-en-unir-teoria-y-gente.md
 tags:
-- ai
+- ia
 - artículos
 - lucas
 title: AI (o ML, o DM, o...) y la "crítica de Lucas"

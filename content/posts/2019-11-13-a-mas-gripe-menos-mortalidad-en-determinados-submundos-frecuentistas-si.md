@@ -12,7 +12,7 @@ related:
 - 2020-09-14-recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola.md
 - 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
-- error
+- errores
 - estadística bayesiana
 - gripe
 title: A más gripe, ¿menos mortalidad? En determinados submundos frecuentistas, sí

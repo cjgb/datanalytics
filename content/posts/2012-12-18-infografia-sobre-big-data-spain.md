@@ -13,7 +13,7 @@ related:
 - 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
 tags:
 - programación
-- grandes datos
+- big data
 title: Infografía sobre Big Data Spain
 url: /2012/12/18/infografia-sobre-big-data-spain/
 ---

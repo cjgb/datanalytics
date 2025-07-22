@@ -13,7 +13,7 @@ related:
 - 2014-07-03-nueva-version-del-informe-quien-es-quien-en-el-big-data-en-espana.md
 tags:
 - consultoría
-- grandes datos
+- big data
 title: ‘Quién es Quién’ del Big Data en España
 url: /2014/02/25/quien-es-quien-del-big-data-en-espana/
 ---

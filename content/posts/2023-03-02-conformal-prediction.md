@@ -13,7 +13,7 @@ related:
 tags:
 - predicción
 - predicción conforme
-- error
+- errores
 - varianza
 title: Breve introducción crítica a la llamada "predicción conforme"
 url: /2023/03/02/prediccion-conforme/

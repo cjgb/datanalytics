@@ -11,7 +11,7 @@ related:
 - 2022-03-08-estadistica-ciencias-blandas.md
 - 2017-10-16-modelos-no-lineales-directos-e-inversos.md
 tags:
-- error
+- errores
 - regresión lineal
 - sesgo
 - varianza

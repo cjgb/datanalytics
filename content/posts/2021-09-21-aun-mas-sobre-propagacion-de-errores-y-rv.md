@@ -19,7 +19,7 @@ tags:
 - rv
 - simulación
 - álgebra de variables aleatorias
-- error
+- errores
 - propagación de errores
 title: Aún más sobre propagación de errores (y rv)
 url: /2021/09/21/aun-mas-sobre-propagacion-de-errores-y-rv/

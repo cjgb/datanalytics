@@ -14,7 +14,7 @@ related:
 - 2024-02-13-outliers-dos-modos.md
 tags:
 - estadística
-- intervalo de confianza
+- intervalos de confianza
 - metodología
 - muestras pequeñas
 - excel

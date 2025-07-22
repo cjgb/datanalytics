@@ -17,7 +17,7 @@ tags:
 - paquetes
 - propagate
 - simulación
-- error
+- errores
 title: 'Más sobre el "método delta": propagate'
 url: /2020/03/10/mas-sobre-el-metodo-delta-propagate/
 ---

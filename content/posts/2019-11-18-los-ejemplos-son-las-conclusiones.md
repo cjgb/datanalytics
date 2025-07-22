@@ -12,7 +12,7 @@ related:
 - 2023-05-25-evaluaciones-clinicas-actuariales.md
 - 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
-- ai
+- ia
 - ciencia de datos
 - ética
 - gdpr

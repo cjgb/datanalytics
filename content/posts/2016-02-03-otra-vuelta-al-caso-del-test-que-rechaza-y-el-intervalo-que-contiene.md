@@ -12,7 +12,7 @@ related:
 - 2013-05-16-el-error-en-las-encuestas-cuentas-en-una-servilleta.md
 - 2019-12-04-p-valores-y-decisiones.md
 tags:
-- intervalo de confianza
+- intervalos de confianza
 - prueba de hipótesis
 title: Otra vuelta al caso del test que rechaza y el intervalo que contiene
 url: /2016/02/03/otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene/

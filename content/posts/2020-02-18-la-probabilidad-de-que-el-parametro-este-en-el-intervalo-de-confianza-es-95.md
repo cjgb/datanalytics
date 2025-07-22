@@ -13,7 +13,7 @@ related:
 - 2016-02-03-otra-vuelta-al-caso-del-test-que-rechaza-y-el-intervalo-que-contiene.md
 tags:
 - estadística
-- intervalo de confianza
+- intervalos de confianza
 title: La probabilidad de que el parámetro esté en el intervalo de confianza es .95
 url: /2020/02/18/la-probabilidad-de-que-el-parametro-este-en-el-intervalo-de-confianza-es-95/
 ---

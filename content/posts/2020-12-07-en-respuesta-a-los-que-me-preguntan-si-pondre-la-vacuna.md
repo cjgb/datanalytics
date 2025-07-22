@@ -14,7 +14,7 @@ related:
 tags:
 - ciencia
 - coronavirus
-- vacuna
+- vacunas
 title: En respuesta a los que me preguntan si pondré "la vacuna"
 url: /2020/12/07/en-respuesta-a-los-que-me-preguntan-si-pondre-la-vacuna/
 ---

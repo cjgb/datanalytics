@@ -14,7 +14,7 @@ related:
 tags:
 - anuncio
 - entrevista
-- grandes datos
+- big data
 - sql
 title: Me han entrevistado en Big Data 4 Success
 url: /2014/03/06/me-han-entrevistado-en-big-data-4-success/

@@ -12,7 +12,7 @@ related:
 - 2019-12-16-charla-en-el-codingclub-de-la-uc3m-este-martes.md
 - 2018-06-20-hoy-estoy-participando-en-un-evento-sobre-big-data.md
 tags:
-- grandes datos
+- big data
 - charlas
 - anuncio
 title: ¿Cómo vivir en un mar de datos?

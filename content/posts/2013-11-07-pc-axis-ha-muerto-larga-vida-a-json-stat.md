@@ -15,7 +15,7 @@ tags:
 - estadística
 - json-stat
 - pc-axis
-- pxR
+- pxr
 title: PC-Axis ha muerto, larga vida a JSON-stat
 url: /2013/11/07/pc-axis-ha-muerto-larga-vida-a-json-stat/
 ---

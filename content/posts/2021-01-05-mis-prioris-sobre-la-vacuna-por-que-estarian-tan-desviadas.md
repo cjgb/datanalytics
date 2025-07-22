@@ -14,7 +14,7 @@ related:
 tags:
 - covid
 - priori
-- vacuna
+- vacunas
 title: 'Mis prioris sobre la vacuna: ¿por qué estarían tan desviadas?'
 url: /2021/01/05/mis-prioris-sobre-la-vacuna-por-que-estarian-tan-desviadas/
 ---

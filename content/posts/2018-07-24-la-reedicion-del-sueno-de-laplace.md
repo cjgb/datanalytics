@@ -12,7 +12,7 @@ related:
 - 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
 - 2025-02-11-cortos-llms.md
 tags:
-- ai
+- ia
 - azar
 - big data
 - laplace

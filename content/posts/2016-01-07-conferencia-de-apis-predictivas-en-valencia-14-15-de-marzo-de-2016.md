@@ -12,7 +12,7 @@ related:
 - 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md
 - 2019-05-16-charlas-en-alicante-julio-de-2019.md
 tags:
-- ai
+- ia
 - anuncio
 - apis
 - ml

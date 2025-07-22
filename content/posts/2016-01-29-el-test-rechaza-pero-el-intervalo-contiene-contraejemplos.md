@@ -12,7 +12,7 @@ related:
 - 2014-11-10-remuestreos-y-tests-de-hipotesis.md
 - 2016-12-09-una-pregunta-sobre-pruebas-de-hipotesis.md
 tags:
-- intervalo de confianza
+- intervalos de confianza
 - p-valores
 - prueba de hipótesis
 title: 'El test rechaza pero el intervalo contiene: [contra]ejemplos'

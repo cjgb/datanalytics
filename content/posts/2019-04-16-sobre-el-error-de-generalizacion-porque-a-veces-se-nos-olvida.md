@@ -14,7 +14,7 @@ related:
 - 2020-09-22-una-diferencia-teorica-importante-entre-los-lm-y-el-resto-de-los-glm.md
 tags:
 - ciencia de datos
-- error
+- errores
 - validación cruzada
 title: Sobre el error de generalización (porque a veces se  nos olvida)
 url: /2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/

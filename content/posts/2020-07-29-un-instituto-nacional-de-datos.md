@@ -13,7 +13,7 @@ related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 - 2020-09-01-cdo-de-p-e-espana-nah.md
 tags:
-- ai
+- ia
 - datos públicos
 - ine
 - informe

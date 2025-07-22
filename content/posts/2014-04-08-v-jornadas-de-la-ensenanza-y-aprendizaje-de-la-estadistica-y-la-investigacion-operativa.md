@@ -16,7 +16,7 @@ related:
 tags:
 - anuncio
 - cursos
-- grandes datos
+- big data
 - ciencia de datos
 - seio
 - taller

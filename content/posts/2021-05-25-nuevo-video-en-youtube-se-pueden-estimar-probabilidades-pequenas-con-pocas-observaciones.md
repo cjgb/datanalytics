@@ -14,7 +14,7 @@ related:
 - 2021-09-14-nuevo-video-en-youtube-un-articulo-y-tres-problemas-metodologicos.md
 tags:
 - probabilidad
-- vacuna
+- vacunas
 - youtube
 - muestras pequeñas
 title: 'Nuevo vídeo en YouTube: "¿Se pueden estimar probabilidades pequeñas con pocas

@@ -15,8 +15,8 @@ related:
 tags:
 - covid
 - encuestas
-- vacuna
-- sesgos
+- vacunas
+- sesgo
 title: ¿Por qué cabe argumentar que estos resultados infraestiman la efectividad de
   las vacunas contra el covid?
 url: /2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-efectividad-de-las-vacunas-contra-el-covid/

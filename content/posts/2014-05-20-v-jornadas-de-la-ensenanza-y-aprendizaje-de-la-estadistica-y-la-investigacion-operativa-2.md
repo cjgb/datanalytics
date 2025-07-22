@@ -13,7 +13,7 @@ related:
 - 2015-10-16-encuentro-big-data-2015-co.md
 tags:
 - cursos
-- grandes datos
+- big data
 - r
 - seio
 - taller

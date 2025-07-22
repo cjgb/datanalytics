@@ -12,7 +12,7 @@ related:
 - 2024-10-31-efectividad-alertas.md
 - 2020-03-25-cuantificacion-y-riesgo.md
 tags:
-- error
+- errores
 - estadística
 - predicción
 - teoría de la decisión

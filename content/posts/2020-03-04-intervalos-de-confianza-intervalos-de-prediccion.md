@@ -13,7 +13,7 @@ related:
 - 2014-08-13-mis-procesos-puntuales-con-glm.md
 tags:
 - estadística
-- intervalo de confianza
+- intervalos de confianza
 - intervalo de predicción
 - predicción
 - r

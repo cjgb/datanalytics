@@ -13,7 +13,7 @@ related:
 - 2010-04-14-la-opinion-sobre-r-de-una-pobre-senora.md
 tags:
 - gráficos
-- grandes datos
+- big data
 - r
 - sas
 title: SAS, R, grandes datos y falta de afabilidad

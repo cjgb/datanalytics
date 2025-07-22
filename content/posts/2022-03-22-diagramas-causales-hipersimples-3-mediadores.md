@@ -15,7 +15,7 @@ tags:
 - causalidad
 - redes bayesianas
 - regresión lineal
-- error
+- errores
 - sesgo
 - r
 title: 'Diagramas causales hiperbásicos (III): mediadores'

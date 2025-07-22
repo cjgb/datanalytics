@@ -13,7 +13,7 @@ related:
 - 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
 tags:
 - estadística
-- intervalo de confianza
+- intervalos de confianza
 title: '"Intervalos" de confianza creativos que excluyen el 0'
 url: /2017/11/03/intervalos-de-confianza-creativos-que-excluyen-el-0/
 ---

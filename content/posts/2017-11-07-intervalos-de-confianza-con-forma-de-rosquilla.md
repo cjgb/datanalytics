@@ -15,7 +15,7 @@ related:
 tags:
 - coeficientes
 - estadística
-- intervalo de confianza
+- intervalos de confianza
 - r
 - stan
 title: '"Intervalos" de confianza con forma de rosquilla'

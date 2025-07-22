@@ -13,7 +13,7 @@ related:
 - 2020-01-22-siete-llaves-al-sepulcro-del-metodo-delta.md
 tags:
 - correcciones
-- error
+- errores
 title: ¿Cuántas veces habré metido la pata?
 url: /2017/01/26/cuantas-veces-habre-metido-la-pata/
 ---

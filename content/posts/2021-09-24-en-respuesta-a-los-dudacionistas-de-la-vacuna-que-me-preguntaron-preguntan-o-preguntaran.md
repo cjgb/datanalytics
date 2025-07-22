@@ -14,7 +14,7 @@ related:
 tags:
 - coronavirus
 - teoría de la decisión
-- vacuna
+- vacunas
 title: En respuesta a los "dudacionistas" de la vacuna que me preguntaron, preguntan
   o preguntarán
 url: /2021/09/24/en-respuesta-a-los-dudacionistas-de-la-vacuna-que-me-preguntaron-preguntan-o-preguntaran/

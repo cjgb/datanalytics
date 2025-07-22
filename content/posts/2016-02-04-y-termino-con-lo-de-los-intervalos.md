@@ -14,7 +14,7 @@ related:
 tags:
 - estadística
 - estadística bayesiana
-- intervalo de confianza
+- intervalos de confianza
 - p-valores
 - prueba de hipótesis
 title: Y termino con lo de los intervalos

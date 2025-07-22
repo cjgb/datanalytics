@@ -17,7 +17,7 @@ tags:
 - p-valores
 - prop.test
 - r
-- intervalo de confianza
+- intervalos de confianza
 title: Misma p, distinto n, luego...
 url: /2020/07/30/misma-p-distinto-n-luego/
 ---

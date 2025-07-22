@@ -14,7 +14,7 @@ related:
 tags:
 - r
 - trucos
-- error
+- errores
 title: Mejores mensajes de error con deparse + substitute
 url: /2015/07/02/mejores-mensajes-de-error-con-deparse-substitute/
 ---

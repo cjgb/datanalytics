@@ -14,7 +14,7 @@ related:
 - 2017-11-03-intervalos-de-confianza-creativos-que-excluyen-el-0.md
 tags:
 - scorings
-- intervalo de confianza
+- intervalos de confianza
 title: '"Scorings" para evaluar predicciones expresadas en términos de CIs'
 url: /2022/07/19/evaluacion-predicciones-intervalos-confianza/
 ---

@@ -14,7 +14,7 @@ related:
 tags:
 - complutense
 - cursos
-- grandes datos
+- big data
 - r
 title: 'Nuevo curso: "Big & open data: análisis y programación con R"'
 url: /2014/06/02/nuevo-curso-big-open-data-analisis-y-programacion-con-r/

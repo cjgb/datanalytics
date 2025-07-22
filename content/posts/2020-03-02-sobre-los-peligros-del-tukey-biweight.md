@@ -12,7 +12,7 @@ related:
 - 2022-07-14-proximidad-distribuciones.md
 - 2022-03-03-error-sesgo-modelos-lineales.md
 tags:
-- error
+- errores
 - estadística
 - estadística robusta
 - tukey

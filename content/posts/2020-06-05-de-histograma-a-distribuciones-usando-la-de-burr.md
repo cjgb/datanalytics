@@ -14,7 +14,7 @@ related:
 - 2010-05-18-regresion-por-cuantiles-en-r-y-sas.md
 tags:
 - burr
-- histograma
+- histogramas
 - distribuciones
 - ine
 - r

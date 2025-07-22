@@ -13,7 +13,7 @@ related:
 - 2019-03-27-sobre-la-necesaria-validacion-a-posteriori-de-modelos-de-caja-negra.md
 tags:
 - estadística
-- grandes datos
+- big data
 - regresión logística
 title: Los tests de hipótesis son los macarrones "con cosas de la nevera"
 url: /2014/10/13/los-tests-de-hipotesis-son-los-macarrones-con-cosas-de-la-nevera/

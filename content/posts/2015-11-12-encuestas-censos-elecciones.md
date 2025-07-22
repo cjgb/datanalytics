@@ -14,7 +14,7 @@ related:
 tags:
 - censo
 - elecciones
-- error
+- errores
 - estadística pública
 - varianza
 title: Encuestas, censos, elecciones

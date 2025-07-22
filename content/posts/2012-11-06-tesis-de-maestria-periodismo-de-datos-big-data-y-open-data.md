@@ -13,7 +13,7 @@ related:
 - 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md
 tags:
 - datos abiertos
-- grandes datos
+- big data
 - periodismo de datos
 title: 'Tesis de maestría: periodismo de datos, "big data" y "open data"'
 url: /2012/11/06/tesis-de-maestria-periodismo-de-datos-big-data-y-open-data/

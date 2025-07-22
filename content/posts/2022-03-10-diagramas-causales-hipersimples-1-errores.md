@@ -15,7 +15,7 @@ tags:
 - causalidad
 - redes bayesianas
 - regresión lineal
-- error
+- errores
 - varianza
 - r
 title: 'Diagramas causales hiperbásicos (I): variables omitidas y sus consecuencias'

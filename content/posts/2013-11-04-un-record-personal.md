@@ -13,7 +13,7 @@ related:
 - 2016-05-23-tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas.md
 - 2013-07-10-mi-definicion-de-big-data.md
 tags:
-- grandes datos
+- big data
 - hardware
 - r
 title: Un récord personal

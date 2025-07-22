@@ -11,7 +11,7 @@ related:
 - 2016-02-29-los-tres-contraargumentos-habituales.md
 - 2025-02-11-cortos-llms.md
 tags:
-- estadísica
+- estadística
 - stan
 - gpus
 - bmi

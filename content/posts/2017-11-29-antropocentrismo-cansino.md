@@ -14,7 +14,7 @@ related:
 tags:
 - antropocentrismo
 - derecho
-- grandes datos
+- big data
 - privacidad
 title: Antropocentrismo cansino
 url: /2017/11/29/antropocentrismo-cansino/

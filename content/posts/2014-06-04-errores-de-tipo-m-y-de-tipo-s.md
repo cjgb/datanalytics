@@ -12,9 +12,9 @@ related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
 - 2023-09-28-potencia-tests.md
 tags:
-- error
+- errores
 - estadística
-- grandes datos
+- big data
 title: Errores de tipo M y de tipo S
 url: /2014/06/04/errores-de-tipo-m-y-de-tipo-s/
 ---

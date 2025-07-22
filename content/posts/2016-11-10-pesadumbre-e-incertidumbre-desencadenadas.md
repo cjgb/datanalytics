@@ -13,7 +13,7 @@ related:
 - 2018-07-16-consecuencias-indeseadas-de-la-falta-de-humildad.md
 tags:
 - encuestas
-- error
+- errores
 - estadística
 - varianza
 title: Pesadumbre e incertidumbre desencadenadas

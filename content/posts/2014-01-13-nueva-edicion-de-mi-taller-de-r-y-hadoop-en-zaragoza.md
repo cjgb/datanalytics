@@ -15,7 +15,7 @@ related:
 - 2012-07-17-dos-cursos-de-r-en-la-u-de-murcia.md
 tags:
 - anuncio
-- grandes datos
+- big data
 - hadoop
 - ciencia de datos
 - r

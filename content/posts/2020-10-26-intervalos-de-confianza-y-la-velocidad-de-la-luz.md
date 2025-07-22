@@ -14,7 +14,7 @@ related:
 - 2021-04-01-por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza.md
 tags:
 - física
-- intervalo de confianza
+- intervalos de confianza
 - luz
 title: Intervalos de confianza y la velocidad de la luz
 url: /2020/10/26/intervalos-de-confianza-y-la-velocidad-de-la-luz/

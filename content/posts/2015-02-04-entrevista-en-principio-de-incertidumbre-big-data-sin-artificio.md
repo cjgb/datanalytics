@@ -14,7 +14,7 @@ related:
 - 2018-10-30-datos-anchos-y-largos-y-otras-cosas-relacionadas-con-stan.md
 tags:
 - entrevista
-- grandes datos
+- big data
 - r
 title: 'Entrevista en Principio de Incertidumbre: "big data" sin artificio'
 url: /2015/02/04/entrevista-en-principio-de-incertidumbre-big-data-sin-artificio/

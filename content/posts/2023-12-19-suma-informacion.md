@@ -12,7 +12,7 @@ related:
 - 2016-09-01-mezclas-de-vectores-i-casi-todas-las-matematicas-de-la-cosa.md
 - 2024-07-18-cortos-llms.md
 tags:
-- ai
+- ia
 - información
 - redes neuronales
 - llms

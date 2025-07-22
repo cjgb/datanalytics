@@ -13,7 +13,7 @@ related:
 - 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
 tags:
 - estadística
-- error
+- errores
 title: Error de tipo I, error de tipo II y cómo no confundirlos
 url: /2012/03/16/error-de-tipo-i-error-de-tipo-ii-y-como-no-confundirlos/
 ---

@@ -12,7 +12,7 @@ related:
 - 2012-12-18-infografia-sobre-big-data-spain.md
 - 2015-10-01-inks2015.md
 tags:
-- grandes datos
+- big data
 title: Nueva versión del informe ‘Quién es Quién en el Big Data en España’
 url: /2014/07/03/nueva-version-del-informe-quien-es-quien-en-el-big-data-en-espana/
 ---

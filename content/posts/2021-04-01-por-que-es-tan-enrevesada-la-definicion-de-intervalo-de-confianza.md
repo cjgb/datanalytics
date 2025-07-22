@@ -14,7 +14,7 @@ related:
 tags:
 - estadística
 - fisher
-- intervalo de confianza
+- intervalos de confianza
 title: ¿Por qué es tan enrevesada la definición de intervalo de confianza?
 url: /2021/04/01/por-que-es-tan-enrevesada-la-definicion-de-intervalo-de-confianza/
 ---

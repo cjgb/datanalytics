@@ -12,7 +12,7 @@ related:
 - 2011-03-04-1680.md
 - 2013-05-02-data-table-i-cruces.md
 tags:
-- grandes datos
+- big data
 - r
 title: R y conjuntos de datos "grandes"
 url: /2010/01/26/r-y-conjuntos-de-datos-grandes/

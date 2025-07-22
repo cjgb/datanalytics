@@ -13,7 +13,7 @@ related:
 - 2016-01-29-el-test-rechaza-pero-el-intervalo-contiene-contraejemplos.md
 tags:
 - fisher
-- intervalo de confianza
+- intervalos de confianza
 - prueba de hipótesis
 title: Una pregunta sobre pruebas de hipótesis
 url: /2016/12/09/una-pregunta-sobre-pruebas-de-hipotesis/

@@ -16,7 +16,7 @@ tags:
 - libros
 - sociología
 - supervivencia
-- sesgos
+- sesgo
 - mala ciencia
 title: ¿Viven más los ganadores de los Óscars (que otros actores no premiados)?
 url: /2021/06/15/viven-mas-los-ganadores-de-los-oscars-que-otros-actores-no-premiados/

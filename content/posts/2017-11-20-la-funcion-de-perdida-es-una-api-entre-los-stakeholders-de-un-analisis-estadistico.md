@@ -12,7 +12,7 @@ related:
 - 2024-10-17-interpretacion-modelos.md
 - 2019-12-04-p-valores-y-decisiones.md
 tags:
-- error
+- errores
 - estadística
 - kaggle
 - pérdida

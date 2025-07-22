@@ -12,7 +12,7 @@ related:
 - 2011-01-21-verdades-mentiras-estadisticas-y-autopistas-radiales.md
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
 tags:
-- cuantil
+- cuantiles
 - números
 - varianza
 title: Varianza y cuantiles (del capitalismo de baja calidad en España)

@@ -13,7 +13,7 @@ related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - r
-- r-consortium
+- r consortium
 title: R Consortium
 url: /2015/07/03/r-consortium/
 ---

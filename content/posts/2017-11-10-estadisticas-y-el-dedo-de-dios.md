@@ -13,7 +13,7 @@ related:
 - 2021-11-09-nuevo-video-en-youtube-street-fighting-statistics-2-n.md
 tags:
 - estadística
-- histograma
+- histogramas
 - probabilidad
 title: Estadística(s) y el dedo de Dios
 url: /2017/11/10/estadisticas-y-el-dedo-de-dios/

@@ -13,7 +13,7 @@ related:
 tags:
 - encuestas
 - política
-- error
+- errores
 - escepticismo
 title: Sobre la sistemática infraestimación del error en las encuestas
 url: /2122/03/15/sistematica-infraestimacion-error-encuestas/

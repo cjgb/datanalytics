@@ -13,7 +13,7 @@ related:
 - 2014-12-09-ruido-en-las-estadisticas-oficiales.md
 tags:
 - datos públicos
-- error
+- errores
 - estadística
 title: Más sobre el error de medida
 url: /2015/02/23/mas-sobre-el-error-de-medida/

@@ -17,7 +17,7 @@ tags:
 - españa
 - guadalajara
 - ine
-- pxR
+- pxr
 - r
 title: Evolución de la edad media de la población por provincias
 url: /2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/

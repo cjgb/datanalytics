@@ -16,7 +16,7 @@ related:
 tags:
 - charlas
 - cursos
-- grandes datos
+- big data
 - hadoop
 - mapreduce
 - r

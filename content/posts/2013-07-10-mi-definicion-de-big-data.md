@@ -14,7 +14,7 @@ related:
 - 2012-07-18-conferencia-sobre-grandes-datos.md
 tags:
 - programación
-- grandes datos
+- big data
 - ciencia de datos
 - software
 title: Mi definición de "big data"

@@ -12,7 +12,7 @@ related:
 - 2017-12-07-un-articulo-que-esta-esperando-a-ser-escrito.md
 - 2018-07-26-como-no-podemos-medir-x-usamos-y-pero-luego-en-las-conclusiones-no-criticamos-y-sino-x.md
 tags:
-- error
+- errores
 - estadística
 - números
 - pobreza

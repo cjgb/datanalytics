@@ -16,7 +16,7 @@ related:
 tags:
 - densidad
 - estadística
-- histograma
+- histogramas
 - libros
 - probabilidad
 title: '"Introducción a la probabilidad y la estadística para científicos de datos":

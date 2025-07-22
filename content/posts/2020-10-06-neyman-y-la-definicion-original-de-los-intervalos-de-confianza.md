@@ -13,7 +13,7 @@ related:
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 tags:
 - estadística
-- intervalo de confianza
+- intervalos de confianza
 - neyman
 title: Neyman y la definición original de los intervalos de confianza
 url: /2020/10/06/neyman-y-la-definicion-original-de-los-intervalos-de-confianza/

@@ -14,7 +14,7 @@ related:
 - 2014-11-05-disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r.md
 tags:
 - programación
-- grandes datos
+- big data
 title: Disponibles los vídeos de las sesiones de BigDataSpain
 url: /2012/12/05/disponibles-los-videos-de-las-sesiones-de-bigdataspain/
 ---

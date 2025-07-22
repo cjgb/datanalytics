@@ -14,7 +14,7 @@ related:
 tags:
 - consultoría
 - sql
-- grandes datos
+- big data
 title: Datos grandes, colas largas
 url: /2011/09/28/datos-grandes-colas-largas/
 ---

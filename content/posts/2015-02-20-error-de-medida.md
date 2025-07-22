@@ -13,7 +13,7 @@ related:
 - 2013-02-25-estadisticas-oficiales-alternativas.md
 - 2012-12-04-mas-sobre-variaciones-insignificantes-en-estadisticas-publicas.md
 tags:
-- error
+- errores
 - estadística
 - finanzas
 title: Error de medida

@@ -12,7 +12,7 @@ related:
 - 2012-12-18-infografia-sobre-big-data-spain.md
 - 2015-03-04-adaequatio-rei-et-analysis.md
 tags:
-- grandes datos
+- big data
 - anuncio
 title: Conferencia sobre Grandes Datos
 url: /2012/07/18/conferencia-sobre-grandes-datos/
