@@ -52,7 +52,11 @@ for h in headers:
     elif h['date'].month < month:
         month = h['date'].month
         out.extend([f"  * {mes[month]} {year}"])
-    out.append(f"    * [{h['title']}]({h['url']})")
+    url = h['url']
+    if not url.endswith('/'):
+        url = url + '/'
+    out.append(f"    * [{h['title']}]({url})")
+
 
 with open(target_file, "w") as f:
     print(md_header, file = f)

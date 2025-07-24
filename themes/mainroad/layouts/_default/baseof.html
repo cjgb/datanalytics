@@ -36,7 +36,34 @@
 	{{- end }}
 
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	<link rel="canonical" href="{{ .Permalink }}" />
+
+	{{/* Block added on 2025-07-22 to avoid indexing of listing pages, etc. */}}
+
+	{{/* Safely check if pagination is available and if this is a subsequent paginated page */}}
+	{{ $isPaginated := false }}
+	{{ $isListPage := or (eq .Kind "home") (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term") }}
+	{{ $paginator := false }}
+	{{ if $isListPage }}
+	{{ $paginator = .Paginator }}
+	{{ if $paginator }}
+		{{ $isPaginated = (gt $paginator.PageNumber 1) }}
+	{{ end }}
+	{{ end }}
+
+	{{/* Add noindex tag to taxonomy, term, or subsequent paginated pages */}}
+	{{ if or (eq .Kind "taxonomy") (eq .Kind "term") .Params.noindex $isPaginated }}
+	<meta name="robots" content="noindex, follow">
+	{{ end }}
+
+	{{/* Add canonical link */}}
+	{{ if and $isListPage $isPaginated $paginator }}
+	<link rel="canonical" href="{{ $paginator.First.URL }}">
+	{{ else }}
+	<link rel="canonical" href="{{ .Permalink }}">
+	{{ end }}
+
+	{{/* End - Block added on 2025-07-22 to avoid indexing of listing pages, etc. */}}
+
 </head>
 <body class="body">
 	<div class="container container--outer">
