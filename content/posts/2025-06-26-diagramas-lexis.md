@@ -1,14 +1,14 @@
 ---
 -tags:
 - estadística
-- demogragía
+- demografía
 - gráficos
 - lexis
 author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2025-06-26
-description: TBA
+description: Una introducción a los diagramas de Lexis y sus aplicaciones fuera de la demografía.
 lastmod: '2025-07-24T19:54:46.809148'
 related:
 - 2025-04-10-diversidad-explicaciones.md
