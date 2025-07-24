@@ -9,8 +9,15 @@ categories:
 - estadística
 date: 2025-06-26
 description: TBA
+lastmod: '2025-07-24T19:54:46.809148'
+related:
+- 2025-04-10-diversidad-explicaciones.md
+- 2017-01-16-weapons-of-math-destruction.md
+- 2024-10-17-interpretacion-modelos.md
+- 2018-02-14-diagramas-de-cajas-lo-que-hay-que-saber-y-muchas-otras-cosas-que-no-hacen-tanta-falta-pero-que-son-entretenidas.md
+- 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
 title: Diagramas de Lexis
-url: /2025/06/26/diagramas-lexis
+url: /2025/06/26/diagramas-lexis/
 ---
 
 Me ha parecido conveniente desgajar la propedéutica de algo con lo que continuaré más adelante: la introducción a los diagramas de Lexis. Es obligado señalar que alrededor de ellos concurre una serie de hechos que debiera dar mala espina a los buenos entendedores:
