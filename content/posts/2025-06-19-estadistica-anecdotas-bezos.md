@@ -4,7 +4,7 @@
 author: Carlos J. Gil Bellosta
 categories:
 - estadística bayesiana
-date: 2025-06-12
+date: 2025-06-19
 description: TBA
 lastmod: '2025-07-17T18:50:37.098598'
 related:
