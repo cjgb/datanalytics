@@ -31,6 +31,7 @@ enableRobotsTXT = true
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  mainSections = ["posts"]
 
 [Params.Author]
   name = "Carlos J. Gil Bellosta"
@@ -74,6 +75,3 @@ enableRobotsTXT = true
     noHl = false
     style = 'pygments'
     tabWidth = 4
-
-[params]
-  mainSections = ["posts"]
