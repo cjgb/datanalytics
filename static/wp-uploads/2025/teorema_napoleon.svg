@@ -1,0 +1,106 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Define styles -->
+  <defs>
+    <style>
+      .original-triangle { fill: none; stroke: #2c3e50; stroke-width: 3; }
+      .equilateral-triangle { fill: rgba(52, 152, 219, 0.2); stroke: #3498db; stroke-width: 2; }
+      .centroid-triangle { fill: rgba(231, 76, 60, 0.3); stroke: #e74c3c; stroke-width: 3; stroke-dasharray: 5,5; }
+      .centroid { fill: #e74c3c; stroke: #c0392b; stroke-width: 2; }
+      .vertex { fill: #2c3e50; stroke: #34495e; stroke-width: 2; }
+      .label { font-family: 'Times New Roman', serif; font-size: 16px; font-weight: bold; }
+      .theorem-text { font-family: 'Arial', sans-serif; font-size: 14px; }
+      .construction-line { stroke: #95a5a6; stroke-width: 1; stroke-dasharray: 2,2; }
+    </style>
+  </defs>
+  
+  <!-- Original triangle ABC -->
+  <polygon points="200,300 500,250 350,450" class="original-triangle"/>
+  
+  <!-- Vertices of original triangle -->
+  <circle cx="200" cy="300" r="5" class="vertex"/>
+  <circle cx="500" cy="250" r="5" class="vertex"/>
+  <circle cx="350" cy="450" r="5" class="vertex"/>
+  
+  <!-- Labels for original triangle -->
+  <text x="185" y="295" class="label" fill="#2c3e50">A</text>
+  <text x="505" y="245" class="label" fill="#2c3e50">B</text>
+  <text x="355" y="470" class="label" fill="#2c3e50">C</text>
+  
+  <!-- Equilateral triangle on side AB (external) -->
+  <polygon points="200,300 500,250 350,120" class="equilateral-triangle"/>
+  <circle cx="350" cy="120" r="4" class="vertex"/>
+  <text x="355" y="115" class="label" fill="#3498db">P₁</text>
+  
+  <!-- Equilateral triangle on side BC (external) -->
+  <polygon points="500,250 350,450 580,420" class="equilateral-triangle"/>
+  <circle cx="580" cy="420" r="4" class="vertex"/>
+  <text x="585" y="415" class="label" fill="#3498db">P₂</text>
+  
+  <!-- Equilateral triangle on side CA (external) -->
+  <polygon points="350,450 200,300 120,390" class="equilateral-triangle"/>
+  <circle cx="120" cy="390" r="4" class="vertex"/>
+  <text x="105" y="385" class="label" fill="#3498db">P₃</text>
+  
+  <!-- Construction lines to centroids (very light) -->
+  <line x1="200" y1="300" x2="350" y2="223.33" class="construction-line"/>
+  <line x1="500" y1="250" x2="350" y2="223.33" class="construction-line"/>
+  <line x1="350" y1="120" x2="350" y2="223.33" class="construction-line"/>
+  
+  <line x1="500" y1="250" x2="476.67" y2="373.33" class="construction-line"/>
+  <line x1="350" y1="450" x2="476.67" y2="373.33" class="construction-line"/>
+  <line x1="580" y1="420" x2="476.67" y2="373.33" class="construction-line"/>
+  
+  <line x1="350" y1="450" x2="223.33" y2="380" class="construction-line"/>
+  <line x1="200" y1="300" x2="223.33" y2="380" class="construction-line"/>
+  <line x1="120" y1="390" x2="223.33" y2="380" class="construction-line"/>
+  
+  <!-- Centroids of equilateral triangles -->
+  <circle cx="350" cy="223.33" r="6" class="centroid"/>
+  <circle cx="476.67" cy="373.33" r="6" class="centroid"/>
+  <circle cx="223.33" cy="380" r="6" class="centroid"/>
+  
+  <!-- Labels for centroids -->
+  <text x="355" y="218" class="label" fill="#e74c3c">G₁</text>
+  <text x="481" y="368" class="label" fill="#e74c3c">G₂</text>
+  <text x="208" y="375" class="label" fill="#e74c3c">G₃</text>
+  
+  <!-- Napoleon triangle (connecting centroids) -->
+  <polygon points="350,223.33 476.67,373.33 223.33,380" class="centroid-triangle"/>
+  
+  <!-- Title and explanation -->
+  <text x="400" y="30" text-anchor="middle" class="label" font-size="20" fill="#2c3e50">Napoleon's Theorem</text>
+  
+  <text x="50" y="520" class="theorem-text" fill="#34495e">
+    Given any triangle ABC, construct equilateral triangles on each side (externally).
+  </text>
+  <text x="50" y="540" class="theorem-text" fill="#34495e">
+    The centroids G₁, G₂, G₃ of these equilateral triangles form an equilateral triangle.
+  </text>
+  <text x="50" y="560" class="theorem-text" fill="#34495e">
+    This result holds for any triangle, regardless of its shape!
+  </text>
+  
+  <!-- Legend -->
+  <g transform="translate(600, 80)">
+    <rect x="0" y="0" width="180" height="120" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5"/>
+    <text x="10" y="20" class="theorem-text" font-weight="bold">Legend:</text>
+    
+    <line x1="10" y1="35" x2="30" y2="35" stroke="#2c3e50" stroke-width="3"/>
+    <text x="35" y="40" class="theorem-text">Original triangle</text>
+    
+    <rect x="10" y="45" width="20" height="10" fill="rgba(52, 152, 219, 0.2)" stroke="#3498db" stroke-width="2"/>
+    <text x="35" y="55" class="theorem-text">Equilateral triangles</text>
+    
+    <line x1="10" y1="65" x2="30" y2="65" stroke="#e74c3c" stroke-width="3" stroke-dasharray="5,5"/>
+    <text x="35" y="70" class="theorem-text">Napoleon triangle</text>
+    
+    <circle cx="20" cy="80" r="4" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+    <text x="35" y="85" class="theorem-text">Centroids</text>
+    
+    <line x1="10" y1="95" x2="30" y2="95" stroke="#95a5a6" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="35" y="100" class="theorem-text">Construction lines</text>
+  </g>
+</svg>
