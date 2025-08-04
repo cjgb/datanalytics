@@ -6,14 +6,13 @@
 	</div>
 	{{- end }}
 
-
 	{{ $filteredPages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-	{{/* Step 5: Now create paginator with filtered pages */}}
 	{{ $paginator := .Paginate $filteredPages }}
 
-
 	{{- range $paginator.Pages }}
-		{{- .Render "summary" }}
+		  {{- if eq .Type "posts" }}
+    		{{- .Render "summary" }}
+		  {{- end }}
 	{{- end }}
 	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
 		<div class="warning">
