@@ -16,7 +16,7 @@ tags:
 - estadística
 - felicidad
 - pib
-title: Fui a Costa Rica y volví convencido de que el Índice Goblal de Felicidad es
+title: Fui a Costa Rica y volví convencido de que el Índice Global de Felicidad es
   una basura
 url: /2018/12/12/fui-a-costa-rica-y-volvi-convencido-de-que-el-indice-goblal-de-felicidad-es-una-basura/
 ---

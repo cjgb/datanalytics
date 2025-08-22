@@ -14,7 +14,7 @@ related:
 tags:
 - r
 - anuncio
-title: R en Yotube y Facebook
+title: R en Youtube y Facebook
 url: /2010/08/21/r-en-yotube-y-facebook/
 ---
 

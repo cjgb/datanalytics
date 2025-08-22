@@ -39,7 +39,7 @@ Pero, ¿qué sucede si $p < 0.05$ en contextos de baja potencia estadística? Do
 2. La dirección del efecto estimado puede ser la contraria a la verdadera.
 
 Para ilustrar lo que cuento he creado una
-[pequeña aplicación en Shiny](http://shiny.circiter.es/test-power/)
+[pequeña aplicación en Shiny](http://shiny.datanalytics.com/test-power/)
 cuyo código fuente se puede consultar
 [aquí](https://github.com/cjgb/datanalytics_shiny/tree/master/test-power).
 

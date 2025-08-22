@@ -16,7 +16,7 @@ tags:
 - estadística
 - bernoulli
 - historia de la estadística
-title: Sumas de variables de Bernuilli heterogénas
+title: Sumas de variables de Bernoulli heterogéneas
 url: /2022/06/30/sumas-bernoullis-heterogeneas/
 ---
 

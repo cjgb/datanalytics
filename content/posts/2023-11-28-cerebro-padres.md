@@ -15,7 +15,7 @@ tags:
 - mala ciencia
 - estadística
 - causalidad
-title: ¿Se encoge el cerebro de los hombres cuando tienen un su primer crío?
+title: ¿Se encoge el cerebro de los hombres cuando tienen su primer crío?
 url: /2023/11/28/encogimiento-cerebro-padres/
 ---
 

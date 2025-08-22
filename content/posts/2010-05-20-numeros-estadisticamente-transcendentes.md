@@ -13,8 +13,8 @@ related:
 - 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 tags:
 - números
-title: Números estadísticamente transcendentes
-url: /2010/05/20/numeros-estadisticamente-transcendentes/
+title: Números estadísticamente trascendentes
+url: /2010/05/20/numeros-estadisticamente-trascendentes/
 ---
 
 Mi reciente lectura del libro [_La política de los grandes números_](http://www.madrimasd.org/blogs/salud_publica/2007/06/29/68972) de [Alain Desrosières](http://es.wikipedia.org/wiki/Alain_Desrosières) y la más accesible de [_El triunfo de los números_](http://divulgamat.ehu.es/weborriak/publicacionesdiv/libros/LiburuakDet.asp?Id=463) me animaron a comenzar una serie de artículos sobre números, sobre la descripción del estado de las cosas vistas a través de los números, la _novedosa_ —que lo fue hace mucho, pero tampoco demasiado, tiempo atrás— perspectiva de interpretar los fenómenos a partir de números, que devino en la disciplina que conocemos como estadística.

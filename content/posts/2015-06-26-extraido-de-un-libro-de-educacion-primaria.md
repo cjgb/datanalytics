@@ -15,7 +15,7 @@ tags:
 - graficaca
 - gráficos
 - tartas
-title: Extraido de un libro de educación primaria
+title: Extraído de un libro de educación primaria
 url: /2015/06/26/extraido-de-un-libro-de-educacion-primaria/
 ---
 

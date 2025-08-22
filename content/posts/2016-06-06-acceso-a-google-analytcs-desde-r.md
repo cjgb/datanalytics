@@ -15,7 +15,7 @@ tags:
 - google
 - r
 - google analytics
-title: Acceso a Google Analytcs desde R
+title: Acceso a Google Analytics desde R
 url: /2016/06/06/acceso-a-google-analytcs-desde-r/
 ---
 

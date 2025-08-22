@@ -14,7 +14,7 @@ related:
 tags:
 - estadística
 - gbm
-title: 'GBM (II): Minización de funciones, pérdidas cuadráticas, residuos y gradientes'
+title: 'GBM (II): Minimización de funciones, pérdidas cuadráticas, residuos y gradientes'
 url: /2016/06/22/gbm-ii-minizacion-de-funciones-perdidas-cuadraticas-residuos-y-gradientes/
 ---
 

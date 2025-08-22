@@ -16,7 +16,7 @@ tags:
 - operacionalismo
 - pib
 - reificación
-title: Evindencias sobre la vigencia del operacionalismo en estadística
+title: Evidencias de la vigencia del operacionalismo en estadística
 url: /2021/10/21/evindencias-sobre-la-vigencia-del-operacionalismo-en-estadistica/
 ---
 

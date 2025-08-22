@@ -13,7 +13,7 @@ related:
 tags:
 - estadística
 - justicia
-title: Operacionalización de la "igualdad de opotunidades"
+title: Operacionalización de la "igualdad de oportunidades"
 url: /2022/11/17/igualdad-oportunidades/
 ---
 

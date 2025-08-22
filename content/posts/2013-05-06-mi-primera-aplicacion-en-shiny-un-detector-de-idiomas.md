@@ -15,7 +15,7 @@ tags:
 - lingüística
 - r
 - shiny
-title: 'Mi primera aplicacion en Shiny: un detector de idiomas'
+title: 'Mi primera aplicación en Shiny: un detector de idiomas'
 url: /2013/05/06/mi-primera-aplicacion-en-shiny-un-detector-de-idiomas/
 ---
 

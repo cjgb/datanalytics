@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-05-27
-description: Gráficas de sesgo vs gráficas de calibración y algunos notas más sobre
+description: Gráficas de sesgo vs gráficas de calibración y algunas notas más sobre
   estadística
 lastmod: '2025-06-29T18:15:48.432629'
 related:
@@ -17,7 +17,7 @@ tags:
 - postestratificación
 - laplace
 - principio de la piraña
-title: Gráficas de sesgo vs gráficas de calibración y algunos notas más sobre estadística
+title: Gráficas de sesgo vs gráficas de calibración y algunas notas más sobre estadística
 url: /2025/05/27/cortos-estadistica
 ---
 
