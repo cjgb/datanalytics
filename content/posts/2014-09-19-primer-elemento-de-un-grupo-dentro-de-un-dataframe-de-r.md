@@ -22,7 +22,7 @@ Hoy he encontrado una solución decente a un problema que venía arrastrando des
 
 Un caso de uso: esa variable adicional mide la distancia de la observación a los centroides de unos _clústers_. El registro con el menor valor proporciona la asignación del sujeto a su grupo.
 
-Busqué en vano solución adecuada. Con `data.table` es posible construir un `rank` por `id` y seleccionar después los valores en que `rank == 1`. Pero es muy lengo. `ddply`, todavía peor. Todo lentísimo.
+Busqué en vano solución adecuada. Con `data.table` es posible construir un `rank` por `id` y seleccionar después los valores en que `rank == 1`. Pero es muy lento. `ddply`, todavía peor. Todo lentísimo.
 
 Hoy se me ha ocurrido una solución mucho mejor que las anteriores basada en `duplicated` y que resumo aquí:
 

@@ -23,7 +23,7 @@ url: /2024/01/23/oblivious-trees/
 ### I.
 
 A mediados de los ochenta, hubo un momento _fundacional_ en la historia del _aprendizaje automático_: la aparición de los árboles de decisión. El artículo de Breiman sobre
-[las dos culturas](http://localhost:1313/2016/11/07/las-dos-culturas-con-comentarios-de-2016/)
+[las dos culturas](/2016/11/07/las-dos-culturas-con-comentarios-de-2016/)
 puede entenderse así: existe ---o existía en esa época--- la cultura de los que usan métodos estadísticos _tradicionales_ y la de los que usan árboles de todo tipo.
 
 Herramientas de _minería de datos_ de entonces, tales como las que vendían SAS o IBM, no encerraban debajo del capó otra cosa ---u otra cosa novedosa--- que árboles de decisión propietarios. Por todo lo anterior había mucho interés en conseguir _mejores_ árboles, árboles que permitiesen crear _mejores_ modelos ---en el sentido, claro está, de cometer errores pequeños---.

@@ -19,7 +19,7 @@ url: /2023/11/07/dibujar-modelar/
 ---
 
 Los economistas de hogaño tienden a coincidir en no encontrar sustancia detrás de la llamada
-[curva de Laffer](http://localhost:1313/tags/laffer/).
+[curva de Laffer](/tags/laffer/).
 No les quito la razón: ellos saben mejor que yo qué pasa en las casas de los demás. Pero en la mía, Laffer manda.
 
 En los últimos meses del año levanto el pie del acelerador y trabajo mucho, mucho menos. El motivo es fundamentalmente fiscal: mi tarifa bruta por hora es la misma pero el IRPF marginal ---en eso consiste la _progresividad fiscal_--- va aumentando mes a mes. Cuando llegan noviembre y diciembre, la tarifa horaria neta queda tan mermada que prefiero dedicar el tiempo a actividades más amenas.

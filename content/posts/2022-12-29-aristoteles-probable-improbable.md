@@ -31,6 +31,6 @@ Lo más jugoso de la cita de Aristóteles es, precisamente, la subcita que hace 
 Se me escapa la interpretación recta y exacta de lo que tuvo a bien argumentar Aristóteles en en ese breve extracto. Sobre el que, además, parece ser, se ha escrito bastante. Ni siquiera estoy seguro de si aprueba o desaprueba la observación de Agatón. Pero hace, sin embargo, lo que debiéramos hacer nosotros siempre: argumentar alrededor de ella.
 
 ¿Cuándo? Pues cuando nos encontremos que hay un
-[empate a votos en un referéndum](http://localhost:1313/2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/),
+[empate a votos en un referéndum](/2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/),
 [gane la Premier un equipo sin opciones a priori](https://www.businessinsider.com/how-much-money-youd-win-betting-on-leicester-fc-to-win-the-premier-league),
 tropecemos con un coche con matrícula capicúa o qué sé yo que otro tipo de evento que remueva la aguas del _tuiter_ estadístico.

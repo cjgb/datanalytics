@@ -44,7 +44,7 @@ La administración responsable del programa BOSCO pecó de ingenua. De haber sid
 
 ### III.
 
-Pero la sección II es un contrafactual. Como lo primero que se hizo fue BOSCO, alguien dijo ñiñiñí. Y para que les hicieran más casito, armó un relato en el que mezcló y confundió todo lo que pudo, citó a la [reina de pelo azul de los ñiñiñís](http://localhost:1313/2017/01/16/weapons-of-math-destruction/) y vino a decirnos que tres en cadena `if-elses+` son IA, que esta tiene que estar bien amarrada, etc.
+Pero la sección II es un contrafactual. Como lo primero que se hizo fue BOSCO, alguien dijo ñiñiñí. Y para que les hicieran más casito, armó un relato en el que mezcló y confundió todo lo que pudo, citó a la [reina de pelo azul de los ñiñiñís](/2017/01/16/weapons-of-math-destruction/) y vino a decirnos que tres en cadena `if-elses+` son IA, que esta tiene que estar bien amarrada, etc.
 
 Y no, no es IA. Si BOSCO fuese _IA_, sus autores habrían escrito en su CV: "yo trabajé en BOSCO", con eso habrían ido a Silicon Valley, habrían conseguido trabajo en Anthropic u OpenAI, estarían ganando un chorro de dinero y viendo este debate tan tonto por televisión. Pero BOSCO, señores, tiene la complejidad algorítmica de un ascensor.
 

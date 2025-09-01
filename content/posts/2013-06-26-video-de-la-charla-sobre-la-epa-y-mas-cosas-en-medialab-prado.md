@@ -27,4 +27,4 @@ Ya ha salido publicado el [vídeo](https://www.medialab-matadero.es/videos/la-en
 
 ### Coda
 
-El enlace anterior puede no estar ya operativo. He logrado rescatar el vídeo y subirlo a mi canal de Youtube. Ahora puede verse [aquí](http://localhost:1313/2022/08/22/nuevo-video-en-youtube-charla-epa/).
+El enlace anterior puede no estar ya operativo. He logrado rescatar el vídeo y subirlo a mi canal de Youtube. Ahora puede verse [aquí](/2022/08/22/nuevo-video-en-youtube-charla-epa/).
