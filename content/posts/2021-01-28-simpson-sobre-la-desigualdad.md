@@ -19,7 +19,7 @@ title: Simpson sobre la desigualdad
 url: /2021/01/28/simpson-sobre-la-desigualdad/
 ---
 
-Simpson, [un viejo amigo de estas páginas](https://www.datanalytics.com/tag/paradoja-de-simpson/), nos enseña, por ejemplo, cómo es posible que los salarios desciendan a lo largo de todas sus subcategorías y que, a la vez, crezcan en promedio en el tiempo. Basta para ello que se reduzca el peso la proporción de los trabajos peor pagados en la economía.
+Simpson, [un viejo amigo de estas páginas](https://www.datanalytics.com/tags/paradoja-de-simpson/), nos enseña, por ejemplo, cómo es posible que los salarios desciendan a lo largo de todas sus subcategorías y que, a la vez, crezcan en promedio en el tiempo. Basta para ello que se reduzca el peso la proporción de los trabajos peor pagados en la economía.
 
 Los institutos estadísticos, a la hora de estimar el índice de precios, son conscientes del problema y elaboran _cestas de la compra_ más o menos ideales (a lo [Quetelet](https://datanalytics.com/2017/04/21/asi-se-invento-el-nudo-gordiano-del-hombre-medio/)) y calculan su precio a lo largo del tiempo.
 

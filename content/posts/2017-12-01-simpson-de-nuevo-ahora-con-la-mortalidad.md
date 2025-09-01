@@ -29,6 +29,6 @@ Sin embargo, la tasa de mortalidad para cada cohorte de edad decrece. Muestro la
 
 ![](/wp-uploads/2017/11/mortalidad_cohortes.png#center)
 
-De nuevo, [Simpson](https://www.datanalytics.com/tag/paradoja-de-simpson/).
+De nuevo, [Simpson](https://www.datanalytics.com/tags/paradoja-de-simpson/).
 
 Nota: las cifras vienen expresadas en defunciones por cada 1000 habitantes. Los datos salen de [aquí](http://www.ine.es/dynt3/inebase/index.htm?padre=1153).
