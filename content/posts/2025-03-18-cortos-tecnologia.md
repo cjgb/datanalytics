@@ -26,7 +26,7 @@ tags:
 - energía solar
 - vibe coding
 title: De H3, Z3 y R2 al "vibe coding" pasando por algunos asuntos más
-url: /2025/03/18/cortos-tecnologia
+url: /2025/03/18/cortos-tecnologia/
 ---
 
 Uber ha desarrollado [H3](https://h3geo.org/),

@@ -22,7 +22,7 @@ tags:
 - series temporales
 - dlm
 title: Una serie de apuntes sobre modelos estadísticos
-url: /2025/04/22/cortos-modelizacion
+url: /2025/04/22/cortos-modelizacion/
 ---
 
 Andrew Gelman se pregunta periódicamente por la obsesión generalizada en [involucrar a Jesucristo con los modelos lineales](https://statmodeling.stat.columbia.edu/2025/03/11/what-does-jesus-have-to-do-with-linear-regression/). Versión corta: si el año se modela _tal cual_ (p.e., 2025), el término independiente nos aporta información sobre el hipotético estado de las cosas en el año en el que nació. En general, es conveniente parametrizar las variables de manera que el término independiente de un GLM tenga un mínimo contenido informativo.

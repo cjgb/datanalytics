@@ -17,7 +17,7 @@ tags:
 - llms
 - hugo
 title: Ahora el blog tiene una lista de entradas relacionadas construida usando LLMs
-url: /2025/03/20/entradas-relacionadas
+url: /2025/03/20/entradas-relacionadas/
 ---
 
 He implementado las _entradas relacionadas_ en el blog. Dos entradas están relacionadas cuando el producto escalar de sus _embeddings_ es alto.

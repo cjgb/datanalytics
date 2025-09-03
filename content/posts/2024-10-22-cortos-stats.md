@@ -18,7 +18,7 @@ tags:
 - tests ab
 - superviviencia
 title: Cinco asuntos breves sobre modelización estadística
-url: /2024/10/22/cortos-estadistica
+url: /2024/10/22/cortos-estadistica/
 ---
 
 Hoy, cinco breves comentarios sobre dos temas distintos relacionados con la modelización estadística. Sobre el primero, técnicas _alternativas_ de modelización, tres enlaces:

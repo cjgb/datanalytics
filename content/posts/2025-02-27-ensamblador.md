@@ -16,7 +16,7 @@ tags:
 - llms
 - python
 title: ¿Acabaremos programando todos en ensamblador?
-url: /2025/02/27/programacion-ensamblador
+url: /2025/02/27/programacion-ensamblador/
 ---
 
 Un lenguaje de programación es un lenguaje que media entre el que nos es familiar a los humanos y el que reconocen las computadoras. Los lenguajes de alto nivel nos resultan más cómodos; los de bajo nivel, más crípticos. Todos conocemos, pienso, el _trade-off_.

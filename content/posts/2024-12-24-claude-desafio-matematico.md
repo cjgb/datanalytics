@@ -14,7 +14,7 @@ tags:
 - llms
 - matemáticas
 title: Claude y el desafío matemático navideño de 2024
-url: /2024/12/24/claude-desafio-matematico
+url: /2024/12/24/claude-desafio-matematico/
 ---
 
 Dice [Gaussianos](https://www.gaussianos.com/desafios-matematicos-en-el-pais-desafio-extraordinario-de-navidad-2024-tu-decimo-esconde-una-x/):

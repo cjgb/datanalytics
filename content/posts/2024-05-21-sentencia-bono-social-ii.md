@@ -16,7 +16,7 @@ tags:
 - programación
 - ia
 title: Más ideas alrededor de la sentencia de lo del bono social de la luz
-url: /2024/05/21/sentencia-bono-social-luz-ii
+url: /2024/05/21/sentencia-bono-social-luz-ii/
 ---
 
 [En esta entrada abundo en lo escrito la [semana pasada](/2024/05/16/sentencia-bono-social-luz-i/) sobre el mismo asunto centrándome esta vez en la extraña interpretación que hace el derecho de la automatización, los _algoritmos_, la _IA_ y todas esas cosas.]

@@ -16,7 +16,7 @@ tags:
 - copilots
 - energía
 title: Algunos apuntes sobre tecnología moderna y no tan moderna
-url: /2024/07/11/cortos-tecnología
+url: /2024/07/11/cortos-tecnología/
 ---
 
 ### I.

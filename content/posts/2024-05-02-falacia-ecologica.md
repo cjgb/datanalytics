@@ -16,7 +16,7 @@ tags:
 - paradoja de simpson
 - causalidad
 title: Aún más sobre la falacia ecológica
-url: /2024/05/02/falacia-ecologica-aun-mas
+url: /2024/05/02/falacia-ecologica-aun-mas/
 ---
 
 #### I.

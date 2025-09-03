@@ -17,7 +17,7 @@ related:
 - 2020-10-30-mercados-de-apuestas-como-cobertura.md
 title: La probabilidad de que 2+2 siga siendo 4 dentro de 12 meses es algo menor del
   100%
-url: /2025/06/12/probabilidades-mercados-apuestas
+url: /2025/06/12/probabilidades-mercados-apuestas/
 ---
 
 [Escribí hace un tiempo](/2020/05/18/como-pensar-en-la-probabilidad-de-un-evento/) sobre las probabilidades subjetivas y cómo Leonard Savage sugería pensar en la probabilidad de un evento como

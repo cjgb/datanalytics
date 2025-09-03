@@ -15,7 +15,7 @@ related:
 tags:
 - causalidad
 title: Varios asuntos relacionados con la causalidad
-url: /2025/03/11/cortos-causalidad
+url: /2025/03/11/cortos-causalidad/
 ---
 
 ### I.

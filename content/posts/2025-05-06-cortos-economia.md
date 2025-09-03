@@ -19,7 +19,7 @@ tags:
 - investigación
 - incentivos
 title: Cómo recompensamos a los creadores de ideas y algunos asuntos más
-url: /2025/05/06/cortos-economia
+url: /2025/05/06/cortos-economia/
 ---
 
 Comienzo con tres artículos recientemente sobre un mismo tema: los problemas de los que adolecen las estadísticas públicas y las dificultades que ello supone para la gestión económica. Uno de ellos es [este](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on), en el que se da cuenta de la creciente desconfianza de los economistas de muchos países en los resultados de las encuestas que publican los órganos estadísticos. Apunta a dos causas: la infrafinanciación de la función estadística y a la desconfianza de la población, manifestada en el derrumbe de la tasa de respuesta en las encuestas.

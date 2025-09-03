@@ -18,7 +18,7 @@ tags:
 - sqlite
 - análisis geospacial
 title: Una serie de apuntes sobre tecnología
-url: /2025/04/29/cortos-tecnologia
+url: /2025/04/29/cortos-tecnologia/
 ---
 
 El estado francés ha creado una plataforma, [La Suite](https://lasuite.numerique.gouv.fr/en) (¿_Numérique_?), que parece una especie de Teams de código abierto pensada para el sector público. Como acostumbramos a decir los europeos de pro, el Airbus de los _workspaces_.

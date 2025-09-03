@@ -15,7 +15,7 @@ tags:
 - llms
 - nlp
 title: 'LLMs: grados de libertad en la generación de texto'
-url: /2023/10/12/llms-grados-libertad
+url: /2023/10/12/llms-grados-libertad/
 ---
 
 Me he entretenido _dibujando_

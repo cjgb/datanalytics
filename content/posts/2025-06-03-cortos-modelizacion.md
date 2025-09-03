@@ -20,7 +20,7 @@ tags:
 - anki
 title: El algoritmo FSRS para Anki y algunos otros asuntos más sobre modelización
   estadística
-url: /2025/06/03/cortos-modelizacion
+url: /2025/06/03/cortos-modelizacion/
 ---
 
 ### I.

@@ -15,7 +15,7 @@ tags:
 - gpt
 - segmentación de imágenes
 title: Unas cuantas aplicaciones de los LLMs
-url: /2024/09/03/cortos-llms
+url: /2024/09/03/cortos-llms/
 ---
 
 En la entrada de hoy recopilo unas cuantas aplicaciones de los LLMs.

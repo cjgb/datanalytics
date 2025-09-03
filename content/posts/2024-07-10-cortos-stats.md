@@ -16,7 +16,7 @@ tags:
 - sorpresa
 - imputación múltiple
 title: Otro índice de sorpresa y algún que otro asunto más
-url: /2024/07/10/cortos-stats
+url: /2024/07/10/cortos-stats/
 ---
 
 ### I.

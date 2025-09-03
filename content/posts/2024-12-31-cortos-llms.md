@@ -14,7 +14,7 @@ tags:
 - llms
 - bert
 title: 'LLMs: ModernBERT y algunos asuntos más'
-url: /2024/12/31/cortos-llms
+url: /2024/12/31/cortos-llms/
 ---
 
 ### Aplicaciones

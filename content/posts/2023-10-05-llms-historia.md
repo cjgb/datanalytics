@@ -15,7 +15,7 @@ tags:
 - llms
 - nlp
 title: 'LLMs en perspectiva '
-url: /2023/10/03/llms-dialectica
+url: /2023/10/03/llms-dialectica/
 ---
 
 ### I.

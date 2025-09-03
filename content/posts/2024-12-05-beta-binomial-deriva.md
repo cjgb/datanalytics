@@ -18,7 +18,7 @@ tags:
 - beta
 - deriva
 title: Sobre el modelo beta-binomial con "deriva"
-url: /2024/12/05/beta-binomial
+url: /2024/12/05/beta-binomial/
 ---
 
 ### Planteamiento del problema

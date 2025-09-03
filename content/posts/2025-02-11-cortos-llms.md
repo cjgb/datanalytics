@@ -17,7 +17,7 @@ tags:
 - opciones
 - incertidumbre
 title: Computación cuántica en Barcelona (al lado de ALIA) y algunos asuntos más
-url: /2025/02/11/cortos-llms
+url: /2025/02/11/cortos-llms/
 ---
 
 Mandar una petición a un LLM equivale a usar un ordenador (bastante potente) un _ratico_. El consumo de electricidad no puede ser _tan_ alto. Tiene que ser infinitamente inferior al de actividades cotidianas que involucren calentar cosas, por ejemplo. Pero el que quiera los números concretos, puede echarle un vistazo a [_Individual AI use is not bad for the environment_](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for).

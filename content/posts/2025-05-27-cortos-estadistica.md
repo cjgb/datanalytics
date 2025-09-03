@@ -18,7 +18,7 @@ tags:
 - laplace
 - principio de la piraña
 title: Gráficas de sesgo vs gráficas de calibración y algunas notas más sobre estadística
-url: /2025/05/27/cortos-estadistica
+url: /2025/05/27/cortos-estadistica/
 ---
 
 Si los datos en tratamiento tienen más varianza que los datos en control, ¿deberías sobrerrepresentar alguno de los grupos en el experimento? La respuesta es sí:

@@ -15,7 +15,7 @@ tags:
 - estadística
 - paradoja de simpson
 title: Más sobre la falacia ecológica
-url: /2024/4/30/falacia-ecologica
+url: /2024/4/30/falacia-ecologica/
 ---
 
 El de la falacia ecológica es un asunto que ya he tratado en [alguna ocasión](https://datanalytics.com/tags/falacia-ecol%C3%B3gica/). Lo retomo porque he encontrado una

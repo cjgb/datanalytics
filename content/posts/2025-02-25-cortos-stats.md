@@ -18,7 +18,7 @@ tags:
 - scihub
 - visualización
 title: Modelos gratuitos en OpenRouter y algunos asuntos más
-url: /2025/02/25/cortos-stats
+url: /2025/02/25/cortos-stats/
 ---
 
 Las dos noticias del siglo de la semana en el mundo de los LLMs:

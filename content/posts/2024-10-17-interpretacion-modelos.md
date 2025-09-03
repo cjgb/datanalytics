@@ -15,7 +15,7 @@ tags:
 - interpretación
 - postmodernismo
 title: 'Interpretación de modelos: el elefante en el salón'
-url: /2024/10/17/interpretacion-modelos
+url: /2024/10/17/interpretacion-modelos/
 ---
 
 Hay mucha teoría sobre interpretación de modelos (estadísticos, de _machine learning_ y, ahora, de _deep learning_). Hay muchos métodos y herramientas para ello; de algunas he hablado en el pasado por aquí. Hay también, mucha demanda de ello, en gran medida por motivos legales y regulatorios. Pero en toda la literatura al respecto apenas nadie se toma la molestia de advertir que hay un elefante en el salón.

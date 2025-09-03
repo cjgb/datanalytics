@@ -14,7 +14,7 @@ tags:
 - blogs
 - estadística
 title: Adiós, Análisis y Decisión
-url: /2025/02/20/analisis-decision
+url: /2025/02/20/analisis-decision/
 ---
 
 [Escribí](/2016/06/03/r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia/) en 2016:

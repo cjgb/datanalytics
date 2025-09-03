@@ -15,7 +15,7 @@ tags:
 - llms
 - agentes
 title: Una serie de artículos sobre aplicaciones y trucos acerca del uso de LLMs
-url: /2025/04/15/cortos-llms
+url: /2025/04/15/cortos-llms/
 ---
 
 Simon Willison invita [aquí](https://simonwillison.net/2025/May/5/prompting/) a pensar mejores _prompts_ para resumir texto ---uno de los principales usos de los LLMs--- de manera más efectiva.

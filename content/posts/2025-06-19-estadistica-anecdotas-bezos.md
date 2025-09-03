@@ -15,7 +15,7 @@ related:
 - 2012-02-23-higiene-numerica-para-periodistas.md
 title: '"Cuando los datos y las anécdotas no concuerdan, las anécdotas suelen ser
   correctas"'
-url: /2025/06/19/estadisticas-anecdotas-bezos
+url: /2025/06/19/estadisticas-anecdotas-bezos/
 ---
 
 En la cuenta [@StartupArchive_](https://x.com/StartupArchive_) de Twitter se publicó un vídeo de una entrevista a Jeff Bezos y (¿parte?) de su transcripción. Dice, con mi traducción:

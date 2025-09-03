@@ -16,7 +16,7 @@ tags:
 - teoremas de imposibilidad
 - prioris
 title: Descuentos para RCTs algunos asuntos más
-url: /2024/07/08/cortos-stats
+url: /2024/07/08/cortos-stats/
 ---
 
 ### I.

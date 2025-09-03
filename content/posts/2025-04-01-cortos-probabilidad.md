@@ -20,7 +20,7 @@ tags:
 - odds
 - regresión logística
 title: Un par de paradojas de la teoría de la probabilidad y algunos asuntos más
-url: /2025/04/01/cortos-probabilidad
+url: /2025/04/01/cortos-probabilidad/
 ---
 
 Comienzo la entrada de hoy con un enlace al muy denso [_Interpretations of probability_](https://plato.stanford.edu/entries/probability-interpret/), en la Enciclopedia de Filosofía de Stanford que, admito, no será del interés de la mayoría.

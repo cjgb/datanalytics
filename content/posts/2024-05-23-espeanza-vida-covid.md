@@ -15,7 +15,7 @@ tags:
 - covid
 - esperanza de vida
 title: ¿Redujo el covid la esperanza de vida en 2020? No y sí, según se mire.
-url: /2024/05/23/covid-esperanza-vida
+url: /2024/05/23/covid-esperanza-vida/
 ---
 
 ### I.

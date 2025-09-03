@@ -13,7 +13,7 @@ related:
 tags:
 - causalidad
 title: Causalidad, utilidad y teoría de la decisión
-url: /2025/01/16/causalidad-util
+url: /2025/01/16/causalidad-util/
 ---
 
 Scott Sumner escribe [aquí](https://scottsumner.substack.com/p/the-china-malaise):

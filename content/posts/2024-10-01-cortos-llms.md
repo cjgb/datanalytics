@@ -15,7 +15,7 @@ tags:
 - regulación
 - hardware
 title: Cinco breves notas sobre LLMs
-url: /2024/10/01/cortos-llms
+url: /2024/10/01/cortos-llms/
 ---
 
 ### I.

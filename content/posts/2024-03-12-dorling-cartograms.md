@@ -15,7 +15,7 @@ tags:
 - mapas
 - cartogramas
 title: Cartogramas "de Dorling"
-url: /2024/3/12/cartogramas-dorling
+url: /2024/3/12/cartogramas-dorling/
 ---
 
 Motivado por [esta entrada](https://statmodeling.stat.columbia.edu/2024/03/03/hey-heres-some-r-code-to-make-colored-maps-using-circle-sizes-proportional-to-county-population/)

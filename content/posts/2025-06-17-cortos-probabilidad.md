@@ -17,7 +17,7 @@ tags:
 - monty hall
 - póquer
 title: Cortos probabilidad
-url: /2025/06/17/cortos-probabilidad
+url: /2025/06/17/cortos-probabilidad/
 ---
 
 - La [lógica doxástica](https://es.wikipedia.org/wiki/L%C3%B3gica_dox%C3%A1stica) de las que nos habla Gelman [aquí](https://statmodeling.stat.columbia.edu/2025/04/18/doxastic-logic-a-model-of-beliefs/) se refiere a un tipo de lógica que opera sobre creencias que no tienen asociados verdadero o falso sino, más bien, otros del tipo _el sujeto cree que X es cierto_. Se pregunta Gelman si existirá alguna versión probabilística o bayesiana de la cosa y me pregunto por qué no ha caído en toda la [obra de Jaynes](https://datanalytics.com/tags/jaynes/) ---por poner solo un ejemplo---, que trata precisamente sobre eso.

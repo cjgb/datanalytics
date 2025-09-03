@@ -17,7 +17,7 @@ tags:
 - errores
 - zillow
 title: Errores en modelos. Zillow. Control de alquileres.
-url: /2024/3/7/errores-modelos-zillow-control-alquileres
+url: /2024/3/7/errores-modelos-zillow-control-alquileres/
 ---
 
 ### I. Errores en modelos

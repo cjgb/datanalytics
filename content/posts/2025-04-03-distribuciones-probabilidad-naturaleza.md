@@ -17,7 +17,7 @@ tags:
 - epistemología
 - distribuciones
 title: Si la incertidumbre existe solamente en la mente, entonces, ¿por qué...?
-url: /2025/04/03/distribuciones-probabilidad-naturaleza
+url: /2025/04/03/distribuciones-probabilidad-naturaleza/
 ---
 
 He escrito ya alguna vez sobre esa especie de que la incertidumbre y el azar no existen en el mundo. Que esos conceptos ---junto con la teoría de la probabilidad que los sistematiza--- son solo una construcción de la mente y existen solamente en ella. Que si no fuésemos tan perezosos, podríamos recopilar todas las causas y deducir con precisión milimétrica el futuro (como hacen Diaconis y compañía en el artículo que traté [aquí](/2018/02/05/lanzamientos-de-moneda-no-es-azar-sino-fisica/) con los lanzamientos de monedas), y advertiríamos que en el mundo real solo hay certidumbres. Etc.

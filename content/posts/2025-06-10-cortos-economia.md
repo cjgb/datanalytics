@@ -19,7 +19,7 @@ tags:
 - productividad
 - formación
 title: Sobre la menguante calidad de las estadísticas públicas y algunos otros asuntos más
-url: /2025/06/10/cortos-economia
+url: /2025/06/10/cortos-economia/
 ---
 
 El fertilizante para jardinería trae por detrás tres numeritos tras la etiqueta NKP, que indican la proporción de nitrógeno, potasio y fósforo en la mezcla. Es _sabido_ que el crecimiento de las plantas está limitado por el más escaso: es decir, fijada una de las tres letras, incrementar las otras dos no aporta beneficio alguno. Sin embargo, no solo de fertilizante viven los cultivos y las tendencias globales muestran que

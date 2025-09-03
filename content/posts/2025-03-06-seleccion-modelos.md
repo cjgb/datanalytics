@@ -14,7 +14,7 @@ tags:
 - estadística
 - modelización
 title: ¿Por qué seleccionar "el mejor" modelo?
-url: /2025/03/06/seleccion-modelos
+url: /2025/03/06/seleccion-modelos/
 ---
 
 Tiene Ripley, el gran Ripley, un artículo de hace 20 años titulado _Selecting Amongst Large Classes of Models_ donde discute la cuestión ---la del título de esta entrada--- y dice:

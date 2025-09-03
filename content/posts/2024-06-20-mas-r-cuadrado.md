@@ -14,7 +14,7 @@ tags:
 - regresión lineal
 - r cuadrado
 title: Más sobre las R² pequeñas
-url: /2024/6/20/mas-r-cuadrado-pequenas
+url: /2024/6/20/mas-r-cuadrado-pequenas/
 ---
 
 ### I.

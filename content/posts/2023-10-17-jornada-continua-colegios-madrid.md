@@ -19,7 +19,7 @@ title: Villaverde, Carabanchel, Puente de Vallecas, Tetuán, Ciudad Lineal, User
   Villa de Vallecas, Latina, San Blas-Canillejas, Hortaleza, Moratalaz, Vicálvaro,
   Retiro, Fuencarral-El Pardo, Arganzuela, Moncloa-Aravaca, Chamartín, Barajas, Centro,
   Chamberí, Salamanca
-url: /2023/10/17/colegios-madrid-jornada-continua
+url: /2023/10/17/colegios-madrid-jornada-continua/
 ---
 
 La anterior es una lista de los 21 distritos del municipio de Madrid en un orden muy concreto. Si se te ocurre alguno, casi seguro, te has equivocado.

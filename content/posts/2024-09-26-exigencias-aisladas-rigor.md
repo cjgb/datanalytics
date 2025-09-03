@@ -15,7 +15,7 @@ tags:
 - mala ciencia
 - metodología
 title: Exigencias aisladas de rigor (estadístico)
-url: /2024/09/26/exigencias-aisladas-rigor
+url: /2024/09/26/exigencias-aisladas-rigor/
 ---
 
 ### I.

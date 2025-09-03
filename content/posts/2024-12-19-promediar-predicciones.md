@@ -15,7 +15,7 @@ tags:
 - teoría de la decisión
 - expertos
 title: Una justificación desapasionada del promedio como mecanismo para agregar predicciones
-url: /2024/12/19/promedio-predicciones
+url: /2024/12/19/promedio-predicciones/
 ---
 
 Existe incertidumbre sobre el resultado, 0 o 1, de un evento de interés $X$. Se convoca a $n$ expertos que hacen predicciones $p_1, \dots, p_n$ sobre dicho evento, i.e., el experto $i$ considera que $P(X = 1) = p_i$. Entonces, ¿cómo se pueden combinar las predicciones $p_i$ para obtener una predicción conjunta $p$?

@@ -16,7 +16,7 @@ tags:
 - economía
 - matemáticas
 title: 'Descuento hiperbólico: lo que es y lo que no es'
-url: /2024/06/03/descuento-hiperbolico
+url: /2024/06/03/descuento-hiperbolico/
 ---
 
 ### I.

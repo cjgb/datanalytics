@@ -15,7 +15,7 @@ tags:
 - ocr
 - modelización
 title: GPT en 500 líneas de SQL y algunos asuntos más
-url: /2025/03/04/cortos-stats
+url: /2025/03/04/cortos-stats/
 ---
 
 Creo que vamos a oír hablar bastante en los próximos meses sobre el uso de _algoritmos_ en la administración. Civio abrió fuego hace casi un año con [el caso de BOSCO](/2024/05/16/sentencia-bono-social-luz-i) y vuelve a la carga con

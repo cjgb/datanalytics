@@ -15,7 +15,7 @@ tags:
 - deepseek
 - chatgpt
 title: Unas cuantas noticias sobre LLMs
-url: /2025/01/21/cortos-llms
+url: /2025/01/21/cortos-llms/
 ---
 
 GPT-4 se entrenó usando un clúster de 25k GPUs, Musk planea construir un centro de datos con 100k GPUs y Meta, uno de 350k. Sin embargo, parece que tecnologías emergentes como

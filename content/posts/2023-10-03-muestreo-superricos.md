@@ -16,7 +16,7 @@ tags:
 - muestreo
 title: 'Si tus datos son minúsculos y están hipersesgados, no los tires a la basura:
   aquí te contamos cómo reciclarlos.'
-url: /2023/10/03/muestrear-superricos
+url: /2023/10/03/muestrear-superricos/
 ---
 
 ### I.

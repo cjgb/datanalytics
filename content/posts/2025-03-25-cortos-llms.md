@@ -18,7 +18,7 @@ tags:
 - embeddings
 - agentes
 title: Una nueva selección de novedades relevantes del mundo de los LLMs
-url: /2025/03/25/cortos-llms
+url: /2025/03/25/cortos-llms/
 ---
 
 Todo el mundo lleva días hablando del [MCP](https://www.anthropic.com/news/model-context-protocol). Creo que ni merece la pena decir qué cosa es.

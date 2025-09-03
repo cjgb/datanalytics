@@ -20,7 +20,7 @@ tags:
 - archlinux
 title: Algunas novedades tecnológicas que he recopilado en los últimos tiempos (no
   todas rompedoramente nuevas)
-url: /2024/05/09/novedades-tecnologia
+url: /2024/05/09/novedades-tecnologia/
 ---
 
 Últimamente he creado muchas pequeños _scripts_ en Python con parámetros de todo tipo. Tanto

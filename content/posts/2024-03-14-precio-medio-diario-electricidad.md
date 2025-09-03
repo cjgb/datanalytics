@@ -14,7 +14,7 @@ tags:
 - mercado eléctrico
 - media
 title: El "precio medio de la electricidad" no es el precio medio de la electricidad
-url: /2024/3/14/precio-medio-electricidad
+url: /2024/3/14/precio-medio-electricidad/
 ---
 
 Por ahí se ven cosas como esta:

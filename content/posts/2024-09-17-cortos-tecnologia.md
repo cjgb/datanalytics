@@ -15,7 +15,7 @@ tags:
 - javascript
 - sql
 title: Una propuesta para cambiar la sintaxis de SQL y cuatro asuntos más
-url: /2024/09/17/cortos-tecnologia
+url: /2024/09/17/cortos-tecnologia/
 ---
 
 [Mesop](https://google.github.io/mesop/), una herramienta de Google para crear "AI apps" en Python.

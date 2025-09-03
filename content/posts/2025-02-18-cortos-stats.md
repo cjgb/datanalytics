@@ -16,7 +16,7 @@ tags:
 - probabilidad
 - frenología
 title: La recurrente vuelta de la frenología y algunos asuntos más
-url: /2025/02/18/cortos-stats
+url: /2025/02/18/cortos-stats/
 ---
 
 En [A Conversation with Sir David Cox](https://projecteuclid.org/journals/statistical-science/volume-9/issue-3/A-Conversation-with-Sir-David-Cox/10.1214/ss/1177010394.full) se lee:

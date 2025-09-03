@@ -16,7 +16,7 @@ tags:
 - programación
 - ia
 title: Ideas alrededor de la sentencia de lo del bono social de la luz
-url: /2024/05/16/sentencia-bono-social-luz-i
+url: /2024/05/16/sentencia-bono-social-luz-i/
 ---
 
 ### I.

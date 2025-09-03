@@ -21,7 +21,7 @@ related:
 - 2011-08-04-desarrollo-de-paquetes-con-r-iv-funciones-genericas.md
 title: ¿Reemplaza pxmake a pxR? Espero que sí (y, además, que ninguno de los dos haga
   falta pronto)
-url: /2025/05/29/pxr-pxmake
+url: /2025/05/29/pxr-pxmake/
 ---
 
 De `pxR` ya he hablado alguna vez. Pueden verse las entradas que le he dedicado [aquí](/tags/pxr/).

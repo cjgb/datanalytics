@@ -16,7 +16,7 @@ tags:
 - causalidad
 - accionabilidad
 title: Sobre los aspectos apelativos de la causalidad
-url: /2025/03/20/causalidad-apelativa
+url: /2025/03/20/causalidad-apelativa/
 ---
 
 Arranco con un experimento mental: A lleva un chaleco antibalas. B le dispara, la bala atraviesa el chaleco y lo hiere de gravedad en el pecho. Varios sujetos distintos examinan lo sucedido:

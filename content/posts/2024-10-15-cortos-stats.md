@@ -17,7 +17,7 @@ tags:
 - fraude
 - probabilidades pequeñas
 title: Cómo exprimir la prueba de Kolmogorov-Smirnov y unos cuantos asuntos más
-url: /2024/10/15/cortos-estadistica
+url: /2024/10/15/cortos-estadistica/
 ---
 
 Suponía que era de conocimiento universal. Pero si John D. Cook siente la necesidad de recordarnos que las [probabilidades pequeñas se suman pero las grandes no](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/), será por algo.

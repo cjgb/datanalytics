@@ -16,7 +16,7 @@ tags:
 - mercado eléctrico
 - iot
 title: El voltaje en mi casa el día del apagón vs otros días de abril de 2025
-url: /2025/05/01/voltaje-apagon
+url: /2025/05/01/voltaje-apagon/
 ---
 
 Algunos de quienes me leen se acordarán de que sigo el consumo eléctrico ---y otras variables concomitantes--- de mi casa en tiempo casi real. De eso he hablado en otras ocasiones, como

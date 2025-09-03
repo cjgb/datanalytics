@@ -15,7 +15,7 @@ tags:
 - elecciones
 - mercados de predicciones
 title: ¿A quién crees que van a votar tus vecinos?
-url: /2024/11/07/votan-vecinos
+url: /2024/11/07/votan-vecinos/
 ---
 
 La historia, telegráficamente, es así:

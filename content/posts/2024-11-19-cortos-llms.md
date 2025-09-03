@@ -16,7 +16,7 @@ tags:
 - ocr
 - nlp
 title: 'LLMs: algunas herramientas (potencialmente) útiles'
-url: /2024/11/19/cortos-llms
+url: /2024/11/19/cortos-llms/
 ---
 
 ### Artefactos de Claude

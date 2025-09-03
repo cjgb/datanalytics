@@ -19,7 +19,7 @@ tags:
 - mercados de predicciones
 title: ¿Está empeorando la calidad de las estadísticas públicas? (y algunos asuntos
   más)
-url: /2025/04/08/cortos-economia
+url: /2025/04/08/cortos-economia/
 ---
 
 En [_Faulty Speedometers_](https://www.kentclarkcenter.org/filterable-categories/on-global-markets/faulty-speedometers/) se discute el creciente problema de calidad en determinadas estadísticas de la ONS (el INE británico). Acerca de la EPA de allá, dice:

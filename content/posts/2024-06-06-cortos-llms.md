@@ -16,7 +16,7 @@ tags:
 - aplicaciones
 - economía
 title: Embeddings, LLMs y algunas de sus aplicaciones a mediados de 2024
-url: /2024/06/06/cortos
+url: /2024/06/06/cortos/
 ---
 
 ### I.

@@ -15,7 +15,7 @@ tags:
 title: Los estadísticos, hasta cierto momento, no hicieron más que interpretar de
   diversos modos el mundo; luego, cuando quisieron transformarlo, se encontraron con
   una serie de problemas que no anticiparon
-url: /2024/10/31/efectividad-alertas
+url: /2024/10/31/efectividad-alertas/
 ---
 
 A veces los estadísticos analizan datos. Desde afuera de mundo, dan su visión sobre hechos pasados. Fin de la historia.

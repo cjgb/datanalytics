@@ -19,7 +19,7 @@ tags:
 - calibración
 title: Más sobre la relación entre la dispersión de las probabilidades y el AUC en
   modelos bien calibrados
-url: /2025/04/24/auc-dispersion-calibracion-ii
+url: /2025/04/24/auc-dispersion-calibracion-ii/
 ---
 
 Esta entrada está relacionada ---aunque no es estrictamente una continuación--- de [la que escribí hace una semana](/2025/04/17/auc-dispersion-calibracion) sobre el mismo asunto.

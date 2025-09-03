@@ -15,7 +15,7 @@ tags:
 - mercados de predicciones
 - censos
 title: Una serie de asuntos sobre encuestas, mercados de predicciones y su intersección
-url: /2024/12/17/cortos-estadistica
+url: /2024/12/17/cortos-estadistica/
 ---
 
 [Este](https://statmodeling.stat.columbia.edu/2024/11/09/polling-by-asking-people-about-their-neighbors-when-does-this-work/)

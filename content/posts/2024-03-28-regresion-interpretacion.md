@@ -14,7 +14,7 @@ tags:
 - regresión
 - paradojas
 title: ¿Cómo se interpretan los resultados de estas regresiones
-url: /2024/3/28/interpretacion-regresion
+url: /2024/3/28/interpretacion-regresion/
 ---
 
 Esta entrada trata sobre las aparentes contradicciones que surgen cuando se comparan las regresiones $y \sim x$ y $x \sim y$. En particular, [aqui](https://marginalrevolution.com/marginalrevolution/2021/07/a-regression-puzzle.html) se muestran

@@ -16,7 +16,7 @@ tags:
 - elecciones
 - nadaesgratis
 title: (Estadística y fraude electoral) vs (fraude electoral y fraude estadístico)
-url: /2024/09/05/fraude-electoral-estadistico
+url: /2024/09/05/fraude-electoral-estadistico/
 ---
 
 Hay un blog que conoció mejores tiempos, lleva varios años en caída libre y estoy por quitar de mi lista de RSS: [NadaEsgratis](https://nadaesgratis.es/). Para aprender de lo que trata hay mejores sitios. Y de lo único que informa, el lastimoso estado de la disciplina en cuestión en España, es agua sobre mojado.

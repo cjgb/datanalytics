@@ -14,7 +14,7 @@ tags:
 - regla de edlin
 - epistemología
 title: La regla de Edlin
-url: /2024/05/30/regla-edlin
+url: /2024/05/30/regla-edlin/
 ---
 
 La llamada regla de Edlin es un principio epistemológico que dice, simplemente, que uno tiene que rebajar ---o multiplicar por un factor menor que 1, el llamado _factor de Edlin_--- las estimaciones que uno ve publicadas.

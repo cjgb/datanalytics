@@ -16,7 +16,7 @@ tags:
 - mixturas
 - supervivencia
 title: Sobre la verosimilitud de distribuciones "compuestas"
-url: /2024/11/21/verosimilitud-distribuciones-compuestas
+url: /2024/11/21/verosimilitud-distribuciones-compuestas/
 ---
 
 Si tenemos una distribución continua (que depende de un parámetro $\alpha$) $f_\alpha$ y una muestra blablablá $x_1, \dots, x_n$, _la_ verosimilitud asociada es

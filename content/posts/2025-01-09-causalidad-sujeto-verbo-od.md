@@ -15,7 +15,7 @@ tags:
 - subjetivismo
 - perspectivismo
 title: Dizque "allí donde hay un objeto, un verbo y un sujeto, hay causalidad"
-url: /2025/01/09/causalidad-sujeto-verbo-objeto
+url: /2025/01/09/causalidad-sujeto-verbo-objeto/
 ---
 
 Estaba revisando algunos artículos relacionados que tenía guardados sobre el asunto de la causalidad,

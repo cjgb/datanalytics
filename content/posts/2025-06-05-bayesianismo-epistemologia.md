@@ -16,7 +16,7 @@ related:
 - 2016-02-04-y-termino-con-lo-de-los-intervalos.md
 - 2022-10-04-bayesianismo-frecuentismo-teoria-decision-01.md
 title: La gestión de la deriva como problema fundamental del bayesianismo
-url: /2025/06/05/problemas-bayesianismo-epistemologia
+url: /2025/06/05/problemas-bayesianismo-epistemologia/
 ---
 
 Esta entrada no versa propiamente sobre estadística bayesiana (aunque también) sino sobre el bayesianismo entendido ---exageradamente, a veces--- como la columna vertebral de la epistemología. De acuerdo con tal visión, solo podemos conocer las cosas ---concedido: no todas--- con cierto grado de certeza y tanto este conocimiento como la incertidumbre van adaptándose a la información adicional que llega de acuerdo con un criterio: la regla de Bayes.

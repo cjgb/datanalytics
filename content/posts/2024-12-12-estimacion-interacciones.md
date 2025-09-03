@@ -16,7 +16,7 @@ tags:
 - potencia
 title: Bajo hipótesis razonables, hacen falta 16 veces más observaciones para estimar
   una interacción que para estimar un efecto principal
-url: /2024/12/12/estimacion-interacciones
+url: /2024/12/12/estimacion-interacciones/
 ---
 
 Uno de los grandes temas de estas páginas es que el efecto principal de un tratamiento es un indicador demasiado burdo. Casi siempre queremos ver ese efecto propiamente desglosado: a unos sujetos les afecta más, a otro menos.

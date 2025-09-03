@@ -14,7 +14,7 @@ tags:
 - probabilidad
 - monty hall
 title: Una variante del problema de Monty Hall
-url: /2025/02/06/monty-hall
+url: /2025/02/06/monty-hall/
 ---
 
 Hay muchas versiones alternativas del problema de Monty Hall y he hablado de algunas de ellas [antes](/tags/monty-hall/). Una bastante interesante de la que supe por [esto](https://www.astralcodexten.com/p/links-for-january-2025) es la siguiente:

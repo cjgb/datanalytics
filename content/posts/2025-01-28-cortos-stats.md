@@ -18,7 +18,7 @@ tags:
 - prerregistro
 title: Sobre los argumentos de David Deutsch contra el bayesianismo y algunos asuntos
   más
-url: /2025/01/28/cortos-stats
+url: /2025/01/28/cortos-stats/
 ---
 
 Tiene Tyler Cowen un artículo en Bloomberg sobre la neutralidad en la red que un LLM me resume así:

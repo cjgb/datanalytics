@@ -15,7 +15,7 @@ tags:
 - internet
 - regulación
 title: Neutralidad en la red (en mayo de 2024)
-url: /2024/05/14/neutralidad-red
+url: /2024/05/14/neutralidad-red/
 ---
 
 Hay un buen motivo para que el tema de la neutralidad en la red no esté de moda: que es una solución regulatoria salomónica para un problema que existió en su día pero que  prácticamente ha desaparecido por sí solo. El de la neutralidad en la red es un criterio para racionar un recurso que fue muy escaso, el ancho de banda. Pero hoy sobra por todas partes. Ya no hay nada que racionar: estamos sentados en un jamón comiendo de otro.

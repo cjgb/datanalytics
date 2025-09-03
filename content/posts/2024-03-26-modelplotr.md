@@ -16,7 +16,7 @@ tags:
 - modelplotr
 - roc
 title: modelplotr
-url: /2024/3/26/modelplotr
+url: /2024/3/26/modelplotr/
 ---
 
 Si leéis algo y tropezáis con un gráfico como

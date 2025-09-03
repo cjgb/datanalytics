@@ -17,7 +17,7 @@ tags:
 - gpt-2
 - prompts
 title: Mamba vs "transformers" y cuatro asuntos más
-url: /2024/07/25/cortos-llms
+url: /2024/07/25/cortos-llms/
 ---
 
 ### I. Lo que hemos aprendido

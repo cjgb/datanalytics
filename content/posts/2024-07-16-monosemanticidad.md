@@ -15,7 +15,7 @@ tags:
 - monosemanticidad
 - ia
 title: 'Monosemanticidad: una introducción para despistados'
-url: /2024/07/16/monosemanticidad
+url: /2024/07/16/monosemanticidad/
 ---
 
 ### I.

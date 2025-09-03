@@ -17,7 +17,7 @@ tags:
 - explicación
 - árboles frugales
 title: 'Multiplicidad de modelos, multiplicidad de explicaciones: algunas consecuencias'
-url: /2025/04/10/diversidad-explicaciones
+url: /2025/04/10/diversidad-explicaciones/
 ---
 
 Hay cosas obvias en las que uno no repara hasta que ve que otro les apunta con el dedo y les da un nombre. Luego no deja de verlas por doquier.

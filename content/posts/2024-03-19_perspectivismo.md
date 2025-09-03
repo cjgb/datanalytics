@@ -18,7 +18,7 @@ tags:
 - ortega
 title: El "perspectivismo" en el debate sobre la naturaleza, objetiva o subjetiva,
   de la probabilidad
-url: /2024/3/19/perspectivismo
+url: /2024/3/19/perspectivismo/
 ---
 
 [_How probabilities came to be objective and subjective_](https://doi.org/10.1006/hmat.1994.1028) es un artículo que se resume así:

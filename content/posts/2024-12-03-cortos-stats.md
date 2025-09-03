@@ -18,7 +18,7 @@ tags:
 - modelización
 title: Seis asuntos sobre modelización estadística, incluyendo un problema que no
   parece del todo trivial
-url: /2024/12/03/cortos-estadistica
+url: /2024/12/03/cortos-estadistica/
 ---
 
 ### Sobre catboost

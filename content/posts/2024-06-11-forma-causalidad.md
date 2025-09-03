@@ -16,7 +16,7 @@ tags:
 - gelman
 - artículos
 title: ¿De qué "forma" es que A causa B?
-url: /2024/06/11/forma-causalidad
+url: /2024/06/11/forma-causalidad/
 ---
 
 En muchos sitios se habla sobre cómo A causa B ---o tiene un efecto de cierto tamaño sobre B---. Mucho menos se suele hablar de la _forma_ de ese efecto. El siguiente gráfico (extraído de

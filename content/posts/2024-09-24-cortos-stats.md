@@ -15,7 +15,7 @@ tags:
 - modelos
 - metodología
 title: Los boxplots como "herramientas de entretiempo" y cuatro asuntos más
-url: /2024/09/24/cortos-estadistica
+url: /2024/09/24/cortos-estadistica/
 ---
 
 ### I.

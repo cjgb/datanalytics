@@ -14,7 +14,7 @@ tags:
 - llms
 - optimización
 title: ¿Por qué es "tan fácil" la optimización en altas dimensiones?
-url: /2024/07/04/optimizacion-altas-dimensiones
+url: /2024/07/04/optimizacion-altas-dimensiones/
 ---
 
 Esta es la [función de Rosenbrock](https://en.wikipedia.org/wiki/Rosenbrock_function), también conocida como función plátano o ---en algunos contextos--- como _el coco_:

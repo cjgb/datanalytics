@@ -18,7 +18,7 @@ tags:
 - latex
 - ocr
 title: Una selección muy personal de novedades en el mundo de la tecnología y de los LLMs
-url: /2025/06/24/cortos-tecnologia
+url: /2025/06/24/cortos-tecnologia/
 ---
 
 Ahí va una lista de novedades tecnológicas que he recopilado ---y en algunos casos, integrado en mi flujo de trabajo--- a lo largo de las últimas semanas:

@@ -16,7 +16,7 @@ tags:
 - interacciones
 - estadística bayesiana
 title: Estadística vs aprendizaje automático y algunos asuntos más
-url: /2025/05/20/cortos-estadistica
+url: /2025/05/20/cortos-estadistica/
 ---
 
 Cuando comparo valores reales contra estimados/predichos, tengo la costumbre de colocar los valores observados en el eje horizontal y las predicciones en el vertical. Así puedo ver si yerro por exceso o por defecto (con respecto a la línea, típicamente roja, $y = x$). Sin embargo, tanto en [este artículo](https://www.sciencedirect.com/science/article/abs/pii/S0304380008002305) como en [esta entrada de blog](https://statmodeling.stat.columbia.edu/2025/05/11/plotting-truth-vs-predicted-value/), se argumenta en favor de lo contrario.

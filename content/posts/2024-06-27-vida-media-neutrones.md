@@ -16,7 +16,7 @@ tags:
 - cambio climático
 title: Estimaciones, intervalos de confianza y todas esas cosas... ¿qué significan
   realmente?
-url: /2024/06/27/vida-media-neutrones
+url: /2024/06/27/vida-media-neutrones/
 ---
 
 Hace unos años [argumenté](/2020/10/26/intervalos-de-confianza-y-la-velocidad-de-la-luz/)

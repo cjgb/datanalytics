@@ -14,7 +14,7 @@ tags:
 - probabilidad
 - videjuegos
 title: Análisis estadístico de un "speedrun" sospechoso
-url: /2025/02/13/dream-speedrun
+url: /2025/02/13/dream-speedrun/
 ---
 
 Existen _subculturas_ contemporáneas en las que se consiguen _puntos de status_ pasándose determinados videojuegos a la mayor velocidad posible  y publicando esas hazañas lúdicas en Youtube.

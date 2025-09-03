@@ -13,7 +13,7 @@ related:
 tags:
 - causalidad
 title: Causalidad
-url: /2024/09/10/causalidad
+url: /2024/09/10/causalidad/
 ---
 
 ## Introducción

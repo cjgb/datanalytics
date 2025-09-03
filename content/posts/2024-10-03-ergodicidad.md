@@ -15,7 +15,7 @@ tags:
 - ética
 - pareto
 title: Ergodicidad, Birkoff, Pareto, Sidgwick, utilitarismo y todas esas cosas
-url: /2024/10/03/ergodicidad-utilitarismo
+url: /2024/10/03/ergodicidad-utilitarismo/
 ---
 
 ### I.

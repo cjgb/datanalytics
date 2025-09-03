@@ -17,7 +17,7 @@ tags:
 - multimodalidad
 title: Argumentos para discutir sobre la inteligencia de los LLMs y cuatro asuntos
   más
-url: /2024/07/18/cortos-llms
+url: /2024/07/18/cortos-llms/
 ---
 
 ### I. Visualización

@@ -16,7 +16,7 @@ tags:
 - nvidia
 - agentes
 title: Unas cuantas noticias sobre LLMs
-url: /2025/02/04/cortos-llms
+url: /2025/02/04/cortos-llms/
 ---
 
 DeepSeek V3 llevaba publicado desde diciembre; R1, desde hacía más de una semana; pero solo fue el lunes 27 de enero cuando NVDIA sufrió un descalabro y DeepSeek apareció repentinamente ---hasta entonces no había rebasado los habituales foros friquis--- en boca de todos (véase

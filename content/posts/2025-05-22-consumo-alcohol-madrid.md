@@ -17,7 +17,7 @@ related:
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 - 2012-11-28-coma-cero-dos-por-ciento-anda-ya.md
 title: ¿Se ha duplicado realmente el número de personas que consumen alcohol a diario en la provincia de Madrid?
-url: /2025/05/22/consumo-alcohol-madrid
+url: /2025/05/22/consumo-alcohol-madrid/
 ---
 
 Me he enterado por

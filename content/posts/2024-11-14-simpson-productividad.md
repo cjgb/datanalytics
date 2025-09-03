@@ -17,7 +17,7 @@ tags:
 - paradoja de simpson
 title: La paradoja (de Simpson) detrás de ciertos argumentos en pro de una subida
   generalizada de salarios
-url: /2024/11/14/productividad-simpson
+url: /2024/11/14/productividad-simpson/
 ---
 
 Trae El Confidencial un artículo de Javier Jorrín ---según Jesús Fernández-Villaverde,

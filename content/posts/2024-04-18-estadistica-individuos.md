@@ -14,7 +14,7 @@ tags:
 - generalización
 - microfundamentos
 title: 'Estadística: lo general y lo particular'
-url: /2024/04/18/estadística-generalizacion-individuos
+url: /2024/04/18/estadística-generalizacion-individuos/
 ---
 
 No hay que perder de vista la etimología de la palabra estadística: viene de _estado_. La estadística es particularmente útil si eres el ministro de algo. Pero los más no lo somos. Los más nos enfrentamos a problemas como los que describo a continuación.

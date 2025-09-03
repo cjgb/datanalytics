@@ -19,7 +19,7 @@ tags:
 - ia
 - series temporales
 title: LLMs para la predicción de series temporales y algunos asuntos más
-url: /2025/05/13/cortos-llms
+url: /2025/05/13/cortos-llms/
 ---
 
 El _prompt injecting_ es una técnica para robar información a un agente. Si un agente tiene, por ejemplo, acceso al correo electrónico, se le puede enviar un mensaje dándole instrucciones que alteren su comportamiento. Es un problema bien conocido de los agentes y ahora en [_Defeating Prompt Injections by Design_](https://arxiv.org/abs/2503.18813) se describe una solución basada en dos agentes, uno de los cuales tiene como función supervisar las acciones del otro.

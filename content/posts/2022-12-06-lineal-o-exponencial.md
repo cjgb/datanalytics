@@ -21,7 +21,7 @@ tags:
 - epistemología
 title: Si no podemos dilucidar si algo crece lineal o exponencialmente, ¿qué podemos
   saber?
-url: /2022/12/08/lineal-o-exponencial
+url: /2022/12/08/lineal-o-exponencial/
 ---
 
 Todos sabemos qué es el crecimiento lineal y el exponencial. Todos sabemos que las funciones lineales y exponenciales tienen un aspecto muy distinto. Sería ocioso ---¿insultante incluso?--- sustentar gráficamente esas afirmaciones.

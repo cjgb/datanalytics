@@ -15,7 +15,7 @@ tags:
 - energía
 - cambio climático
 title: Pero, ¿cuánto consumen los LLMs?
-url: /2024/06/25/consumo-llms
+url: /2024/06/25/consumo-llms/
 ---
 
 ### I.

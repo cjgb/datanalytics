@@ -14,7 +14,7 @@ tags:
 - libros
 - estimación
 title: ¿Cuántas copias vende un libro?
-url: /2024/05/28/copias-vende-libro
+url: /2024/05/28/copias-vende-libro/
 ---
 
 Es muy difícil saber cuántas copias vende un libro. Lo es por muchos motivos:

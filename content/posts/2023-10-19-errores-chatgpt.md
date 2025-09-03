@@ -16,7 +16,7 @@ tags:
 - chatgpt
 - árboles de decisión
 title: Cuidado con ChatGPT (advertencia núm. 232923423)
-url: /2023/10/19/errores-chatgpt
+url: /2023/10/19/errores-chatgpt/
 ---
 
 ### I.

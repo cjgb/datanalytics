@@ -18,7 +18,7 @@ tags:
 - prompts
 - rag
 title: 'LLMs: ajedrez, poesía, "ciencia normal", "prompts" y "RAG"'
-url: /2024/11/26/cortos-llms
+url: /2024/11/26/cortos-llms/
 ---
 
 ### Poesía

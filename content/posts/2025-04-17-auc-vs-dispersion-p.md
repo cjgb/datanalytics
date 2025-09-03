@@ -19,7 +19,7 @@ tags:
 - calibración
 title: Sobre la relación entre la dispersión de las probabilidades y el AUC en modelos
   bien calibrados
-url: /2025/04/17/auc-dispersion-calibracion
+url: /2025/04/17/auc-dispersion-calibracion/
 ---
 
 Supongamos que estamos construyendo un modelo de clasificación binaria. Supongamos que está _bien calibrado_, es decir, que cuando predice una probabilidad $p$ de éxito para un sujeto $i$, entonces es cierto que $Y_i \sim \text{Bernoulli(p)}$.

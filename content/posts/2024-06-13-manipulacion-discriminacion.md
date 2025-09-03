@@ -15,7 +15,7 @@ tags:
 - manipulación
 - discriminación
 title: Manipulación y discriminación
-url: /2024/06/13/manipulacion-discriminacion
+url: /2024/06/13/manipulacion-discriminacion/
 ---
 
 ### I.
