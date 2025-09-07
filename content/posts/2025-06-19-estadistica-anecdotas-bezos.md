@@ -32,6 +32,6 @@ En la cuenta [@StartupArchive_](https://x.com/StartupArchive_) de Twitter se pub
 >
 > Todos los presentes en la reunión esperaron más de 10 minutos antes de que el servicio de atención al cliente respondiera.
 >
-> "Eso dejó clarísimo que algo teníamos problemas en la recopilación de datos y desencadenó una serie de averiguaciones que nos llevaron a empezar a medir el fenómeno correctamente...".
+> "Eso dejó clarísimo que teníamos problemas en la recopilación de datos y desencadenó una serie de averiguaciones que nos llevaron a empezar a medir el fenómeno correctamente...".
 
 Uno de los grandes temas de este blog es, precisamente, el de la alineación de los grandes números con las evidencias circunstanciales. Junto al de la frecuente irrelevancia de los grandes números a la hora de la toma de decisiones personales/locales. De la tensión, en definitiva, entre lo macro y lo micro.
