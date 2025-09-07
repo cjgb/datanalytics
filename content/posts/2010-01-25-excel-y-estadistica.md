@@ -17,7 +17,7 @@ title: Excel y estadística
 url: /2010/01/25/excel-y-estadistica/
 ---
 
-Un buen amigo me comentó que para ver crecer el número de visitas a su blog hablaba de Excel. Como todavía no he tenido ninguna, con su venia, tomaré prestada la idea. Por otra parte, siendo éste un blog dedicado a la estadística, la minería de datos y asuntos concomitantes, enumeraré motivos por los que, en dichos ámbitos, se desaconseja su uso.
+Un buen amigo me comentó que un truco que usaba para incrementar las visitas a su blog era hablar de Excel. Como todavía no he tenido ninguna, con su venia, tomaré prestada la idea. Por otra parte, siendo éste un blog dedicado a la estadística, la minería de datos y asuntos concomitantes, enumeraré motivos por los que, en dichos ámbitos, se desaconseja su uso.
 
 Los enlaces son ajenos, en inglés, y, algunos, algo viejos (hacen referencias a versiones antiguas de Excel). Van ahí:
 

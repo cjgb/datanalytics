@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-05-27 22:12:54+00:00
-draft: false
 lastmod: '2025-04-06T19:04:34.542624'
 related:
 - 2010-09-19-jdm-fuese-y-no-hubo-nada.md
@@ -21,10 +20,7 @@ Tantas cosas que escribir en este blog, tantas cosas que leer y probar, tan herm
 
 A la lista de las cosas que probar y sobre las que aprender sumo hoy una que sólo acrecienta la admiración que siento por esa empresa que tan poco se parece a otras. Se resume gráficamente en:
 
-
 [](http://code.google.com/apis/predict/images/french.png#center)![Google Prediction API](http://code.google.com/apis/predict/images/french.png#center)
-
-
 
 Es decir, desde tu terminal, desde tu aplicación, desde tu teléfono móvil puedes realizar una consulta a cierto servicio (nuevo, de ahí que lo publique acá) de Google y éste te devuelve una respuesta de acuerdo con cierto modelo que has entrenado previamente.
 

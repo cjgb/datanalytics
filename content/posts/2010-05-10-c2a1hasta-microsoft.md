@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-05-10 23:10:48+00:00
-draft: false
 lastmod: '2025-04-06T18:56:42.181986'
+noindex: true
 related:
 - 2010-11-10-dejese-asesorar-por-microsoft-para-reorientar-su-carrera.md
 - 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
@@ -26,14 +26,10 @@ Y hete que en el día de hoy he topado con un correo electrónico dirigido a la 
 
 De su firma se deduce que trabaja en un área de Microsoft, Advertiser & Publisher Solutions, APS, que
 
-
 >[...] is building the monetization engine for Microsoft's and third-party-publishers' online services. The adCenter platform determines which ads to serve to optimize relevance for our users, traffic and ROI for our advertisers, and revenue for our publishers.
-
 
 Y dentro de dicha area se encuentra el _data-mining and analytics team_, oficialmente APS Auction Analytics, que
 
-
 >[...] drives monetization improvements working across all parts of the organization including engineering, customer-service operations, advertising sales, and product management. Analysts on the APS Analytics team work closely with business partners to enable rigorous, effective, data-driven decision making.
-
 
 Vaya, vaya, vaya... ¡Quién nos lo iba a decir! ¡Hasta Microsoft!

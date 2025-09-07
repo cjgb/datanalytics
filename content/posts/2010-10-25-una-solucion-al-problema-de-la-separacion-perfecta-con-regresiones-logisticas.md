@@ -4,7 +4,6 @@ categories:
 - estadística
 - r
 date: 2010-10-25 22:56:39+00:00
-draft: false
 lastmod: '2025-04-06T18:58:22.868188'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
@@ -47,7 +46,7 @@ basta con tomar un valor del parámetro $latex \beta$ lo suficientemente grande 
 Este problema puede observarse gráficamente en la siguiente animación (que es posible que no esté animada en todos los navegadores):[![](/wp-uploads/2010/10/logistic_regression_approximation.png#center)
 ](/wp-uploads/2010/10/logistic_regression_approximation.png#center)
 
-Een general, la separación perfecta puede ocurrir sobre combinaciones de variables sin que suceda individualmente en ninguna de ellas: basta con que un hiperplano separe perfectamente las observaciones de las dos clases.
+En general, la separación perfecta puede ocurrir sobre combinaciones de variables sin que suceda individualmente en ninguna de ellas: basta con que un hiperplano separe perfectamente las observaciones de las dos clases.
 
 Sea como fuere, hay que encontrarle _solución_ a este _problema_ de la separación infinita. Hay que advertir primero que el problema de la separación perfecta **no es un problema**. Es, incluso, deseable. ¡Ojalá siempre nuestros datos fuesen tan conclusivos! (Esto queda dicho sin perjuicio de una regla prácticamente sin excepciones en algunos ámbitos —sobre todo de la investigación social—: si una variable es demasiado buena... seguramente está contaminada de alguna manera por la variable objetivo). He llegado a leer que de darse el problema de la separación perfecta, una posible solución pasa por eliminar la variable implicada. ¡Eliminar la variable más predictiva!
 
@@ -78,4 +77,4 @@ que es la función de verosimilitud asociada a la regresión logística habitual
 
 Basta con que $latex J( \beta )$ sea una función que decrezca lo suficientemente deprisa en su argumento como para que el máximo de la función resultante sea finito. La verdad, nadie sabe muy a las ciertas cómo es $latex J$ (algo de información hay [acá](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2680313/)) en este contexto pero parece que basta para garantizar la finitud.
 
-Es necesario señalar cómo elecciones disitntas de la distribución _a priori_ del parámetro $latex \beta$ (¿por qué no $latex N(0, \sigma)$?) puede dar lugar a resultados distintos dependiendo del grado de penalización que implique la distribución de partida. Asintóticamente, tanto da. Pero cuando n es pequeño, al final, p-valores, _odds ratios_, etc. dependen principalmente de la elección de distribución a priori que hizo el Sr. Firth en 1993.
+Es necesario señalar cómo elecciones distintas de la distribución _a priori_ del parámetro $latex \beta$ (¿por qué no $latex N(0, \sigma)$?) puede dar lugar a resultados distintos dependiendo del grado de penalización que implique la distribución de partida. Asintóticamente, tanto da. Pero cuando n es pequeño, al final, p-valores, _odds ratios_, etc. dependen principalmente de la elección de distribución a priori que hizo el Sr. Firth en 1993.

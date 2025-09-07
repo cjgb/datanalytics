@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2010-09-08 19:54:09+00:00
-draft: false
 lastmod: '2025-04-06T18:57:05.598492'
 related:
 - 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
@@ -20,13 +19,10 @@ url: /2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-d
 
 Me es más que grato anunciar que he alcanzado la segunda posición en el _[IEEE ICDM Contest: TomTom Traffic Prediction for Intelligent GPS Navigation](http://tunedit.org/challenge/IEEE-ICDM-2010/traffic?m=leaderboard)_ (sección de tráfico):
 
-
 [![](/wp-uploads/2010/09/competicion_prediccion_trafico.png#center)
 ](/wp-uploads/2010/09/competicion_prediccion_trafico.png#center)
 
-
 La competición constaba de tres partes (o subcompeticiones) distintas relacionadas con la predicción de ciertos aspectos relacionados con el tráfico en Varsovia:
-
 
 * una para predecir el número de coches circulando por diez segmentos de calle de Varsovia a partir de recuentos durante los minutos previos;
 * otra para predecir segmentos de calle donde se van a producir atascos a partir de la lista de otros que han ido atascándose previamente y

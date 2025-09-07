@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-04-07 00:43:10+00:00
-draft: false
 lastmod: '2025-04-06T19:09:42.293958'
 related:
 - 2013-01-21-el-primer-analisis-clinico-en-la-biblia.md
@@ -26,7 +25,7 @@ El primer censo realizado por los judíos fue el que realizaron Moisés y Aarón
 
 * El Rey David ordenó realizar uno de los primeros censos de los que se tiene noticia en la historia de la humanidad.
 * Después de obtenidos los resultados del censo, al rey, por algún motivo, le remordió la conciencia.
-* Yavhé, de hecho, estaba enojado con el Rey David y de castigo, mandó una peste sobre su pueblo que mató a 70.000 personas (el 5% del censo, vamos).
+* Yahvé, de hecho, estaba enojado con el Rey David y de castigo, mandó una peste sobre su pueblo que mató a 70.000 personas (el 5% del censo, vamos).
 
 Se quedaría el pobre Rey David como yo cuando, casi acabado un trabajo, me cambian los datos de entrada. ¡Dura es la vida del consultor!
 

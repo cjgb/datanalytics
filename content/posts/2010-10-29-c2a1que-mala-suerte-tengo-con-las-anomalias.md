@@ -4,7 +4,6 @@ categories:
 - estadística
 - finanzas
 date: 2010-10-29 00:16:28+00:00
-draft: false
 lastmod: '2025-04-06T18:49:43.361311'
 related:
 - 2014-02-18-el-yuyuplot-en-perspectiva.md

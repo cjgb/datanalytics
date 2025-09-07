@@ -18,7 +18,7 @@ title: Comportamiento inesperado... ¿sólo por mí?
 url: /2010/11/02/comportamiento-inesperado-solo-por-mi/
 ---
 
-El otro día, bajo el encabezamiento _Unexpected behabiour of min, tapply and POSIXct/POSIXlt classes?_, mandé a la lista de desarrolladores de R el siguiente pedazo de código:
+El otro día, bajo el encabezamiento _Unexpected behaviour of min, tapply and POSIXct/POSIXlt classes?_, mandé a la lista de desarrolladores de R el siguiente pedazo de código:
 
 
 {{< highlight R >}}
@@ -53,7 +53,7 @@ tapply( my.times.lt, my.period, min )
 #
 # Mensajes de aviso perdidos
 # In ansmat[index] <- ans :
-#   número de items para para sustituir no es un múltiplo de la
+#   número de items para sustituir no es un múltiplo de la
 # longitud del reemplazo
 #
 # ¿?  :(

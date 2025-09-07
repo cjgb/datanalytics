@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-03-01 21:02:07+00:00
-draft: false
 lastmod: '2025-04-06T18:46:43.525991'
+noindex: true
 related:
 - 2012-10-16-r-como-herramienta-de-captura-de-datos.md
 - 2011-03-07-los-dinosaurios-y-r-dos-enlaces.md
@@ -14,7 +14,7 @@ related:
 tags:
 - r
 - prensa
-title: R en "The economist"
+title: R en "The Economist"
 url: /2010/03/01/r-en-the-economist/
 ---
 

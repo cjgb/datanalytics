@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-05-23 22:33:16+00:00
-draft: false
 lastmod: '2025-04-06T19:07:55.996892'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
@@ -30,7 +29,7 @@ Trata de un borracho que pierde sus llaves en la noche y comienza a buscarlas a 
 
 —Pues en aquel callejón... pero las busco por aquí porque hay más luz.
 
-¿Qué tiene esto que ver con la estadística? Pues que dicha disciplina ha heredado malos vicios derivados del hecho que su currículo se estableció antes de que se popularizaran los ordenadores. ¿Consecuencia? Gran parte de su teoría gravita alrededor de métodos no excesivamente exigentes desde el punto de vista de carga computacional. Y precisamente por ese motivo: por ser computacionalmente tratables.
+¿Qué tiene esto que ver con la estadística? Pues que dicha disciplina ha heredado malos vicios derivados del hecho de que su currículo se estableció antes de que se popularizaran los ordenadores. ¿Consecuencia? Gran parte de su teoría gravita alrededor de métodos no excesivamente exigentes desde el punto de vista de carga computacional. Y precisamente por ese motivo: por ser computacionalmente tratables.
 
 En particular, la farola teórica que ilumina a los estadísticos es la de la ubicua distribución normal y su cohorte de estadísticos asociados: la media, la suma cuadrática de errores, la varianza, etc.
 

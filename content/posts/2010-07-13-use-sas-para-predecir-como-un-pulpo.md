@@ -4,8 +4,8 @@ categories:
 - ciencia de datos
 - consultoría
 date: 2010-07-13 21:25:16+00:00
-draft: false
 lastmod: '2025-04-06T19:01:35.352717'
+noindex: true
 related:
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
 - 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md

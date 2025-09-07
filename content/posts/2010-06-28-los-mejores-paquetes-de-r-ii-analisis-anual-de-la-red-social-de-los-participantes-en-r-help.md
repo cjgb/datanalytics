@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-06-28 02:22:59+00:00
-draft: false
 lastmod: '2025-04-06T18:46:22.010124'
 related:
 - 2010-04-18-los-mejores-paquetes-de-r-i-la-red-social-de-los-participantes-en-r-help.md
@@ -25,7 +24,7 @@ Tengo que añadir también como preámbulo que ha sido una conversación sobre a
 
 En la primera entrada hice un ránking de los participantes más activos en la lista de correo [r-help](https://stat.ethz.ch/mailman/listinfo/r-help) mediante técnicas análogas a las que usa Google para asignar pesos —o _pageranks_— a páginas. En ésta voy a analizar la evolución de estos pesos año a año.
 
-En primer lugar, ahí va el número de personas que han respondido correos en la la lista en cada año (nótese que el 2010 está truncado en abril):
+En primer lugar, ahí va el número de personas que han respondido correos en la lista en cada año (nótese que el 2010 está truncado en abril):
 
 [![](/wp-uploads/2010/06/numero_respondedores_por_anno.png#center)
 ](/wp-uploads/2010/06/numero_respondedores_por_anno.png#center)

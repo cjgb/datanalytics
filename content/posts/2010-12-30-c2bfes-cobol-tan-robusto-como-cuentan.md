@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-12-30 09:05:51+00:00
-draft: false
 lastmod: '2025-04-06T19:00:56.944864'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
@@ -14,15 +13,14 @@ related:
 tags:
 - consultoría
 - programación
+- cobol
 title: ¿Es Cobol tan robusto como cuentan?
-url: /2010/12/30es-cobol-tan-robusto-como-cuentan/
+url: /2010/12/30/es-cobol-tan-robusto-como-cuentan/
 ---
 
 El diario [El País se ha hecho eco de algo](http://www.elpais.com/articulo/sociedad/estudiar/elpepisoc/20101228elpepisoc_1/Tes) que no hace falta ser particularmente perspicaz para advertir. Y no me refiero tanto a la tesis global del artículo como a este parrafito,
 
-
 >[...] ambos opinan que la primera disfunción está en la Universidad. "Estamos hablando de trabajadores sobreeducados que, sin embargo, carecen de las habilidades necesarias para desempeñar el trabajo". Este contrasentido está en relación directa "con el tipo de docencia impartida en las Universidades", añaden. "Los graduados se quejan de que los modos de enseñanza se siguen basando en clases magistrales, dándole poca importancia a las clases prácticas a la adquisición directa de experiencia laboral". Esta formación academicista, exenta de habilidades prácticas, es el factor que más influye, según el estudio, [...]
-
 
 que se refiere a un estudio de [FUNCAS](http://es.wikipedia.org/wiki/Fundaci%C3%B3n_de_las_Cajas_de_Ahorros). De hecho, la única asignatura universalmente troncal de nuestra (la española) universidad tiene un temario simplicísimo: aceptar acríticamente [cuanto profiere el señor de la pizarra](http://www.youtube.com/watch?v=6PcaciZean4) (con la esperanza de que el número que aparezca en la esquina superior izquierda de unos folios que se entregan cada seis meses sea, cuando menos, cinco).
 

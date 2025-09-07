@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-03-14 23:50:16+00:00
-draft: false
 lastmod: '2025-04-06T19:08:32.236745'
 related:
 - 2024-09-26-exigencias-aisladas-rigor.md

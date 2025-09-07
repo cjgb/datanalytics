@@ -2,9 +2,10 @@
 author: Carlos J. Gil Bellosta
 categories:
 - r
+- anuncio
 date: 2010-10-29 14:31:07+00:00
-draft: false
 lastmod: '2025-04-06T18:46:52.182095'
+noindex: true
 related:
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md
@@ -13,6 +14,8 @@ related:
 - 2017-09-04-ix-jornadas-de-usuarios-de-r-en-granada-recordatorio.md
 tags:
 - r
+- jornadas
+- anuncio
 title: II Jornadas de Usuarios de R
 url: /2010/10/29/ii-jornadas-de-usuarios-de-r/
 ---

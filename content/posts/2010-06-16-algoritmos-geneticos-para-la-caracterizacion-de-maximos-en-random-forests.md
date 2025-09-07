@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-06-16 23:37:02+00:00
-draft: false
 lastmod: '2025-04-06T18:45:35.728295'
 related:
 - 2014-03-07-victoria-o-diferencia-de-puntos-ahora-con-random-forests.md

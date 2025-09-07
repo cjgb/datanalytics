@@ -4,8 +4,8 @@ categories:
 - ciencia de datos
 - r
 date: 2010-09-08 19:32:42+00:00
-draft: false
 lastmod: '2025-04-06T18:45:53.245220'
+noindex: true
 related:
 - 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md
 - 2013-01-30-tutoriales-de-rapidminer-en-youtube.md

@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2010-09-19 16:28:26+00:00
-draft: false
 lastmod: '2025-04-06T19:12:48.088129'
 related:
 - 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
@@ -13,6 +12,7 @@ related:
 - 2010-05-27-google-prediction-api.md
 tags:
 - ciencia de datos
+- jdm
 title: 'JDM: fuese y no hubo nada'
 url: /2010/09/19/jdm-fuese-y-no-hubo-nada/
 ---

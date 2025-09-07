@@ -4,8 +4,8 @@ categories:
 - ciencia de datos
 - r
 date: 2010-08-31 20:39:51+00:00
-draft: false
 lastmod: '2025-04-06T18:56:08.309490'
+noindex: true
 related:
 - 2010-09-08-mas-sobre-la-integracion-de-r-y-rapidminer.md
 - 2010-09-30-liberado-knime-2-2-2.md

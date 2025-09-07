@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2010-03-06 16:38:53+00:00
-draft: false
 lastmod: '2025-04-06T18:45:18.264407'
 related:
 - 2012-08-09-odds-ratio-vs-probabilidad.md
@@ -18,7 +17,7 @@ title: Un vídeo algo viejo sobre estadísticas, expectativas y mentiras
 url: /2010/03/06/un-video-algo-viejo-sobre-estadisticas-expectativas-y-mentiras/
 ---
 
-Hace poco me hicieron llegar el [vídeo de una conferencia](http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries.html) pronunciada en el seno del[ TED](http://www.ted.com).
+Hace poco me hicieron llegar el [vídeo de una conferencia](http://www.ted.com/talks/peter_donnelly_shows_how_stats_fool_juries.html) pronunciada en el seno del [TED](http://www.ted.com).
 
 TED es una ONG dedicada a la difusión de ideas... que merecen difusión. Organiza conferencias anuales en California y Oxford y, según su página, _reta a los pensadores más fascinantes a dar la charla de sus vidas en 18 minutos_. No ha de sorprender pues que también [haya acogido Hans Rosling](http://www.gapminder.org/videos/ted-talk-2009-hans-rosling-hiv-facts/) para que vuelva a sorprendernos con la potencia de su afamado [GapMinder](http://www.gapminder.org/).
 

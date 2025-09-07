@@ -2,9 +2,10 @@
 author: Carlos J. Gil Bellosta
 categories:
 - r
+- anuncio
 date: 2010-03-28 14:09:18+00:00
-draft: false
 lastmod: '2025-04-06T18:44:35.663325'
+noindex: true
 related:
 - 2010-09-29-proyectos-de-r-en-el-google-summer-of-code-2010-ii.md
 - 2017-10-11-ropenspain-ahi-tiro-el-guante.md
@@ -13,6 +14,7 @@ related:
 - 2011-07-28-el-paquete-pxr-en-cran.md
 tags:
 - r
+- anuncio
 title: Proyectos de R en el Google Summer of Code 2010
 url: /2010/03/28/proyectos-de-r-en-el-google-summer-of-code-2010/
 ---
@@ -22,8 +24,6 @@ El [Google Summer of Code](http://code.google.com/soc/) es una iniciativa de Goo
 En estas colaboraciones, los estudiantes participan bajo la tutela de un mentor. Se buscan, por tanto, mentores con proyectos y estudiantes que quieran participar en alguno de ellos.
 
 Este año R ha vuelto a ser elegido como uno de los proyectos colaboradores al igual que en [2008](http://www.r-project.org/soc08/) y [2009](http://www.r-project.org/soc09/). Los proyectos relativos a R ya propuestos (y con mentores esperando que algún estudiante se sume a ellos) son:
-
-
 
 * [gpclib_replacement](http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2010:gpclib_replacement): reemplazo para gpclib, una librería que permite realizar manipulaciones con objetos geométricos 2D
 * [nosql_interface](http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2010:nosql_interface): creación de una interfaz análoga a DBI para el acceso a bases de datos no relacionales

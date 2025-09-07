@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-06-28 22:36:10+00:00
-draft: false
 lastmod: '2025-04-06T19:09:02.376131'
 related:
 - 2010-06-18-graficos-en-r-con-simbolos-arbitrarios.md

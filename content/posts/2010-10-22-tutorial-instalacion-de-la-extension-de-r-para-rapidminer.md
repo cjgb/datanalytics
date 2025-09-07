@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-10-22 22:59:24+00:00
-draft: false
 lastmod: '2025-04-06T18:53:55.517810'
+noindex: true
 related:
 - 2010-08-31-anuncio-de-la-integracion-de-rapidminer-y-r.md
 - 2013-01-30-tutoriales-de-rapidminer-en-youtube.md
@@ -39,7 +39,7 @@ Los pasos son los siguientes:
 
 6. Tras seleccionar la extensión para R y confirmar la selección, aparece una ventana con instrucciones adicionales que se refieren, fundamentalmente, a Java (aunque realmente ya hemos hecho todo eso antes).
 7. Reiniciar Rapidminer. Entonces éste pregunta por la ubicación del fichero jri.dll, que se encuentra dentro de la carpeta del paquete rJava de R. En particular, en mi sistema, está en C:/archivos de programa/r/r-2.12.0/library/rJava/jri.
-8. Reininciar RapidMiner,... _et voilà_:
+8. Reiniciar RapidMiner,... _et voilà_:
 
 
 

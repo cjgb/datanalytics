@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-08-26 22:11:41+00:00
-draft: false
 lastmod: '2025-04-06T19:04:23.646658'
 related:
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md

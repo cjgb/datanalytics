@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-12-29 09:43:31+00:00
-draft: false
 lastmod: '2025-04-06T19:09:04.548863'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
@@ -13,6 +12,7 @@ related:
 - 2010-02-26-febrero.md
 tags:
 - r
+- jornadas
 title: Noticia de las II Jornadas de Usuarios de R
 url: /2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/
 ---
@@ -33,7 +33,7 @@ Tras los consuetudinarios saludos, encuentros, reencuentros, charlas de pasillo 
 
 En la segunda repasó algunos ejemplos muy golosos de estudios aplicados a problemas de ingeniería reales (construcción naval y otros) usando R.
 
-En la segunda sesión, Marco Giannitrapani (al que después de varios correos y una larga conversación telefónica acabé conociendo personalmente) nos describió una plataforma basada en R que tienen implantada en su empresa, Novartis, para la predicción del la evolución de ventas de productos farmacéuticos. De nuevo, la presentación constaba de dos partes diferenciadas: una, la relativa a la interfaz, construida usando el [paquete rpanel](http://cran.r-project.org/web/packages/rpanel) y que permitía a los usuarios de la aplicación interactuar con R sin necesidad de c_onocimientos exóticos_. La segunda, los detalles técnicos sobre cómo realizar ajustes primero y predicciones después de un modo más o menos automático de infinidad de series temporales. Es un tema candente, que puede poner nervioso a muchos estadísticos (por lo de automático) y sobre el que me explayaré en otra ocasión. (Sólo mencionaré de pasada que unos días más tarde, casi 20.000 kms más lejos,  volví a tropezar con este problema (y con los ubícuos productos Hacendado): comí con alguien que había trabajado en la implementación de algo parecido en Mercadona).
+En la segunda sesión, Marco Giannitrapani (al que después de varios correos y una larga conversación telefónica acabé conociendo personalmente) nos describió una plataforma basada en R que tienen implantada en su empresa, Novartis, para la predicción del la evolución de ventas de productos farmacéuticos. De nuevo, la presentación constaba de dos partes diferenciadas: una, la relativa a la interfaz, construida usando el [paquete rpanel](http://cran.r-project.org/web/packages/rpanel) y que permitía a los usuarios de la aplicación interactuar con R sin necesidad de _conocimientos exóticos_. La segunda, los detalles técnicos sobre cómo realizar ajustes primero y predicciones después de un modo más o menos automático de infinidad de series temporales. Es un tema candente, que puede poner nervioso a muchos estadísticos (por lo de automático) y sobre el que me explayaré en otra ocasión. (Sólo mencionaré de pasada que unos días más tarde, casi 20.000 kms más lejos,  volví a tropezar con este problema (y con los ubícuos productos Hacendado): comí con alguien que había trabajado en la implementación de algo parecido en Mercadona).
 
 Le siguió Pelayo Izquierdo, de la Universidad de Oviedo, y responsable de su centro de estudios estadísticos, es decir, de alguna manera, mi competencia. Nos describió su infraestructura de software para afrontar los estudios que realizan y cómo R, junto con Sweave, resulta fundamental para la creación de, entre otras cosas, la redacción automatizada de series de informes que realizan, etc.
 

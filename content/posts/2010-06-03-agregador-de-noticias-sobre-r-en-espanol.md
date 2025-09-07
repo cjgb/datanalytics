@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-06-03 02:11:19+00:00
-draft: false
 lastmod: '2025-04-06T18:44:26.162510'
+noindex: true
 related:
 - 2019-02-27-sobre-el-agregador-de-noticias-sobre-r-en-espanol.md
 - 2017-04-17-ix-jornadas-de-usuarios-de-r-noviembre-en-granada.md

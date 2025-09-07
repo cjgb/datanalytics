@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-12-20 12:52:39+00:00
-draft: false
 lastmod: '2025-04-06T18:45:46.570318'
+noindex: true
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2011-11-07-disponible-el-programa-de-las-iii-jornadas-de-usuarios-de-r.md

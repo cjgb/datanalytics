@@ -4,7 +4,6 @@ categories:
 - estadística
 - r
 date: 2010-05-18 20:52:08+00:00
-draft: false
 lastmod: '2025-04-06T18:55:04.739736'
 related:
 - 2020-09-10-distribuciones-de-renta-solo-de-renta-a-partir-de-histogramas.md
@@ -105,4 +104,4 @@ El parámetro tau indica el cuantil que se desea estimar, que ha de ser, por lo 
 [![](/wp-uploads/2010/05/engel_dat_quant1.png?w=300)
 ](/wp-uploads/2010/05/engel_dat_quant1.png#center)
 
-El lector interesado encontrará en internet [dónde seguir instruyéndose](http://cablemodem.fibertel.com.ar/wsosa/topicosunlp/QuantileClaseBeamer1.pdf) y, además, ejemplos de [gráficos espectaculares ](http://addictedtor.free.fr/graphiques/RGraphGallery.php?graph=109)que pueden realizarse con quantreg, tiempo y buen gusto.
+El lector interesado encontrará en internet [dónde seguir instruyéndose](http://cablemodem.fibertel.com.ar/wsosa/topicosunlp/QuantileClaseBeamer1.pdf) y, además, ejemplos de [gráficos espectaculares ](http://addictedtor.free.fr/graphiques/RGraphGallery.php?graph=109)que pueden realizarse con `quantreg`, tiempo y buen gusto.

@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2010-07-18 16:01:59+00:00
-draft: false
 lastmod: '2025-04-06T18:53:03.213861'
 related:
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
@@ -80,11 +79,11 @@ Una de las pegas que los programadores de SAS de la vieja escuela ponen al uso d
 * Uno de los menos eficientes (con las salvedades que apunto debajo).
 * El que usa _merge_ en SAS Base.
 
-Un _merge join_ ordena las tablas que se quieren cruzar primero y luego lee filas una a una buscando coincidencias. Es el mejor algoritmo de cruce sólo cuando las tablas iniciales estás ordenadas precisamente por los campos de cruce. En el resto de los casos, es el algoritmo menos recomendado.
+Un _merge join_ ordena las tablas que se quieren cruzar primero y luego lee filas una a una buscando coincidencias. Es el mejor algoritmo de cruce sólo cuando las tablas iniciales están ordenadas precisamente por los campos de cruce. En el resto de los casos, es el algoritmo menos recomendado.
 
 No sé qué técnica de cruce utiliza `PROC SQL`. Pero en el peor de los casos puede optar por un _merge join_ y tener, cuando menos, el mismo rendimiento que _merge_. Si utiliza otro (o, mejor aún, si utiliza el que el optimizador considera más adecuado a la vista de los datos), sólo puede ser mejor.
 
-Puede que quienes programaron SQL en SAS sean mucho más tontos que el resto de los programadores de la empresa y que, por lo tanto, el rendimiento de SQL sea inferior al que cabría esperar. Pero también es cierto que si un día los despiden y contratan a otros más avispados, el rendimiento de las aplicaciones podría mejorar substancialmente sin cambiar una sola línea de código.
+Puede que quienes programaron SQL en SAS sean mucho más tontos que el resto de los programadores de la empresa y que, por lo tanto, el rendimiento de SQL sea inferior al que cabría esperar. Pero también es cierto que si un día los despiden y contratan a otros más avispados, el rendimiento de las aplicaciones podría mejorar sustancialmente sin cambiar una sola línea de código.
 
 **SQL, ¿siempre?**
 

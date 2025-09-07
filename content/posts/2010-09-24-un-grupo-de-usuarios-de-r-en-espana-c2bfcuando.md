@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-09-24 18:35:49+00:00
-draft: false
 lastmod: '2025-04-06T18:59:27.914586'
+noindex: true
 related:
 - 2014-06-23-grupo-de-usuarios-de-r-de-portugal.md
 - 2012-02-20-entrevista-con-los-promotores-de-rugbcn.md

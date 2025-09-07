@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-05-09 15:28:47+00:00
-draft: false
 lastmod: '2025-04-06T19:10:01.301166'
 related:
 - 2010-05-19-c2bfen-que-se-parecen-oracle-y-teradata-a-excel-y-word.md
@@ -24,7 +23,7 @@ No hace mucho me enfrenté con un problema en el trabajo. Quería cruzar dos tab
 
 Cada una de las tablas tenía algunos filtros y agregaciones; el cruce final se realizaba sobre las subconsultas resultantes. El gestor de bases de datos que utilizamos, Teradata (sin comentarios), no podía con el cruce: las decisiones que tomaba internamente el presunto optimizador de consultas conducían inexorablemente a un error de espacio.
 
-Decidí comprobar si esta tarea que una instalación de Teradata de varios millones de euros de precio era incapaz de realizar podía llevarse a cabo en mi pequeño ordenador con el _software_ adecuado. Así que realicé las dos subconsultas independientemente, volqué los resultados a sendos ficheros de texto (de 5 y 367MB respectivamente, que corresponden a 150k y 12M de filas) y los cargué en R.
+Decidí comprobar si esta tarea que una instalación de Teradata de varios millones de euros era incapaz de realizar podía llevarse a cabo en mi pequeño ordenador con el _software_ adecuado. Así que realicé las dos subconsultas independientemente, volqué los resultados a sendos ficheros de texto (de 5 y 367MB respectivamente, que corresponden a 150k y 12M de filas) y los cargué en R.
 
 Tras algunas modificaciones en los datos (cambios de tipos y nombres de las columnas, etc.) obtuve dos _dataframes_:
 

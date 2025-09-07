@@ -37,8 +37,7 @@ Por eso, en este artículo se discuten procedimientos para realizar extracciones
 
 
 En las _queries_ anteriores, p representa un porcentaje --un valor entre 0 y 100-- y n, un determinado número de filas.
-El interesado en realizar muestreos de dicha manera, deberían considerar la información anterior como punto de partida para investigar, según proceda:
-
+El interesado en realizar muestreos de dicha manera, debería considerar la información anterior como punto de partida para investigar, según proceda:
 
 * las opciones adicionales de las que disponen [DB2](http://www.almaden.ibm.com/cs/people/peterh/idugjbig.pdf) u [Oracle](http://www.idevelopment.info/data/Oracle/DBA_tips/SQL/SQL_9.shtml)
 * la validez estadística de los muestreos realizados con newid(), rand() o random()

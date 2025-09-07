@@ -21,7 +21,6 @@ url: /2010/08/05/un-ilustrador-problema-de-compatibilidad-de-licencias-libres/
 
 >This whole thing is such a nuisance. It seems one can't even give something away these days!
 
-
 Así de infeliz se mostraba G. Grothendieck hace unos días. Y es que habíamos enviado una primera versión del paquete [rJython](http://cran.r-project.org/web/packages/rJython/index.html) que subir a CRAN y nos encontramos con problemas de licencias.
 
 Eso de las licencias de software es un tema enojoso. Importante, pero enojoso.

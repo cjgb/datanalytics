@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-10-10 23:22:35+00:00
-draft: false
 lastmod: '2025-04-06T19:03:55.819197'
 related:
 - 2010-10-14-mas-sobre-lo-de-netezza.md
@@ -15,6 +14,7 @@ tags:
 - consultoría
 - sql
 - ibm
+- netezza
 title: 'IBM compró Netezza: una taxonomía y algunos comentarios'
 url: /2010/10/10/ibm-compro-netezza-una-taxonomia-y-algunos-comentarios/
 ---

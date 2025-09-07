@@ -30,17 +30,13 @@ La segunda es de índole más legalista: la tasa de crecimiento oficial del PIB 
 
 Esta estimación preliminar, al igual que la del BdE, está basada en_ información coyuntural disponible_, mucha de la cual está basada en muestreos, extrapolaciones y encuestas. De hecho, el BdE, interesado en la fiabilidad de estas primeras estimaciones (y en parte picado de que en EE.UU. éstas están disponibles 15 días antes que en Europa), ha realizado un [estudio comparativo entre las distintas revisiones](http://www.bde.es/webbde/SES/Secciones/Publicaciones/PublicacionesBCE/BoletinMensualBCE/09/Fic/bm0904-4.pdf). (Estudio, todo hay que decirlo, que parece realizado por el hijo bachiller de algún funcionario de la solemne institución y en cuya lectura casi pierdo una dioptría tratando de leer de los gráficos las varianzas de las cosas dada su falta de tablas). Aunque parece no existir sesgo importante en este tipo de indicadores adelantados y sus correcciones posteriores, su desviación típica es del orden de una décima.
 
-Es decir, si se construyesen intervalos de confianza al uso (¿cuándo van a comenzar a publicarse, aunque sea en letra chiquita?), éstos tendrían una pata en el semieje proceloso. En fin, que la noticia debiera haberse intitulado algo así como:
-
+Es decir, si se construyesen intervalos de confianza al uso (¿cuándo van a comenzar a publicarse, aunque sea en letra chiquita?), éstos tendrían una pata en el semieje proceloso. En fin, que la noticia debiera haberse titulado algo así como:
 
 >No estamos seguros de si hemos salido de la recesión o no
 
-
 O, alternativamente,
 
-
 >¿Hemos salido de la recesión? NPI
-
 
 De hecho, lo que nos dice el BdE a modo de Yahvé omnisciente de todo menos de las propiedades elementales de los estimadores estadísticos, es que si el trimestre pasado produjimos 1.000, en éste hemos producido 1.001. No 998; no 1.002; por supuesto, no 995 sino exacta y redondamente 1.001. ¡Magnífica la precisión del BdE! Si uno de cada cuatro años (1000 días laborables) uno falta al trabajo, ahí está el BdE con la libreta tomando nota; si alguien roba uno de cada 1.000 cedés del FNAC, el BdE se da cuenta; si uno mira a las musarañas una hora al cabo de 5 meses (1.000 horas de trabajo), no lo sabrá tu jefe, pero sí que corregirá el BdE sus estadísticas a la baja para poder ilustrarnos en su informe trimestral.
 

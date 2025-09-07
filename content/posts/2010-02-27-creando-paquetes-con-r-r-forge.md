@@ -4,8 +4,8 @@ categories:
 - estadística
 - r
 date: 2010-02-27 19:58:01+00:00
-draft: false
 lastmod: '2025-04-06T19:11:59.033533'
+noindex: true
 related:
 - 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
 - 2011-06-15-una-herramienta-para-construir-paquetes-de-r-sobre-windows.md
@@ -20,9 +20,9 @@ title: 'Creando paquetes con R: r-forge'
 url: /2010/02/27/creando-paquetes-con-r-r-forge/
 ---
 
-Hace poco no asistí a una conferencia del profesor [Campo Elías Pardo](http://www.docentes.unal.edu.co/cepardot/) en la Universidad Nacional de Colombia sobre la creación de paquetes de R. Me penó no poder asistir porque sospeché primero y corroboré después que se había obviado en ella una herramienta muy útil para la creación de paquetes con R: la _[forja oficial](http://r-forge.r-project.org/)_.
+Hace poco no asistí a una conferencia del profesor [Campo Elías Pardo](http://www.docentes.unal.edu.co/cepardot/) en la Universidad Nacional de Colombia sobre la creación de paquetes de R. Me pesó no poder asistir porque sospeché primero y corroboré después que se había obviado en ella una herramienta muy útil para la creación de paquetes con R: la _[forja oficial](http://r-forge.r-project.org/)_.
 
-La conferencia trababa esencialmente de cómo crear paquetes bajo Windows. Windows es un sistema operativo del que sé poco y siempre me han parecido excesivamente arcanos los liturgias y herramientas necesarias para compilar los paquetes. Especialmente cuando uno cuenta con Linux. Pero ésa es otra historia.
+La conferencia trataba esencialmente sobre cómo crear paquetes bajo Windows. Windows es un sistema operativo del que sé poco y siempre me han parecido excesivamente arcanos los liturgias y herramientas necesarias para compilar los paquetes. Especialmente cuando uno cuenta con Linux. Pero ésa es otra historia.
 
 ¿Por qué es conveniente utilizar r-forge? Por infinidad de motivos de entre los cuales:
 

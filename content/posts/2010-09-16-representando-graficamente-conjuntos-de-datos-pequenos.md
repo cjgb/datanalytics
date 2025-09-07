@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-09-16 23:24:46+00:00
-draft: false
 lastmod: '2025-04-06T18:52:04.732687'
 related:
 - 2012-05-03-representacion-de-datos-asociados-a-grupos.md

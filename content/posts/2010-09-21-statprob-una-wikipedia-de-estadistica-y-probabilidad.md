@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-09-21 23:03:07+00:00
-draft: false
 lastmod: '2025-04-06T18:56:05.155905'
 related:
 - 2010-11-15-la-wikipedia-te-necesita.md
@@ -13,6 +12,7 @@ related:
 - 2013-11-18-statistics-online-computational-resource.md
 tags:
 - estadística
+- statprob
 title: 'StatProb: una wikipedia de estadística y probabilidad'
 url: /2010/09/21/statprob-una-wikipedia-de-estadistica-y-probabilidad/
 ---

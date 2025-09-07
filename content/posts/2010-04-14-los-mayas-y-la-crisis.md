@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - finanzas
 date: 2010-04-14 23:56:37+00:00
-draft: false
 lastmod: '2025-04-06T18:49:33.179984'
 related:
 - 2016-05-06-un-corpus-de-textos-en-espanol-para-nlp.md

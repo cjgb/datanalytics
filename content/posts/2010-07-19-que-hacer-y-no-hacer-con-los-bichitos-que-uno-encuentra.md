@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-07-19 22:00:40+00:00
-draft: false
 lastmod: '2025-04-06T18:47:14.349355'
 related:
 - 2010-09-04-paquetes-estadisticos-una-anecdota-sin-moraleja.md
@@ -24,9 +23,7 @@ Antes, antaño, simplemente los toleraba y, creo, vivía más feliz. Formaban pa
 
 Cuando uno se los tropieza en _software_ libre, claro, no puede hacer mucho aspaviento. Se tiene el código y uno es libre de arreglárselo solito. O contactar con el desarrollador. Algunos nunca responden (como el del _applet_ de la temperatura de la CPU de Xubuntu, inasequible a mis demandas de un código más eficiente). Otros son más amables, como el desarrollador de [rjson](http://cran.r-project.org/web/packages/rjson/index.html), A éste le pregunté, después de documentar claramente la naturaleza del problema: _Is this an intended feature? Or, rather, a bug?_ Respondió:
 
-
 >Thanks for the very polite feedback - if only infinite (non-tail) recursion were an intended feature, it's clearly a bug :)
-
 
 En unas horas se había solucionado el problema. Cosas del _software_ libre.
 
@@ -47,8 +44,6 @@ Hale, y para que no todo sean gruñidos (y también para los ágrafos que sólo 
 
 [![](/wp-uploads/2010/07/H96566k.jpg)
 ](/wp-uploads/2010/07/H96566k.jpg)
-
-
 
 
 La historia, que es jugosa, [aquí](http://en.wikipedia.org/wiki/Software_bug).

@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2010-05-17 20:17:15+00:00
-draft: false
 lastmod: '2025-04-06T18:45:03.682336'
+noindex: true
 related:
 - 2012-07-11-otra-oximoron-notarios-y-estadisticas.md
 - 2019-01-30-sobre-la-tesis-de-sanchez-y-no-es-lo-que-se-espera-de-mi.md
@@ -22,6 +22,5 @@ Esta entrada, un tanto alejada del meollo temático de mi bitácora, tiene un ta
 Versa de en qué se cifró una mañana de mis sudores. Que lo fue en realizar la exégesis del siguiente parrafito (que transcribo literalmente para probable espanto de mis ortográficos, sintácticos y retóricos lectores):
 
 >Primeramente, se alimentará una tabla en la cuál se asociará para cada epígrafe requerido, la relación de epígrafes a consultar para posteriormente asignar los saldos, en base a los mismos, en el proceso de horizontalización del Gestor de Salidas que obtendrá las salidas con el formato requerido.
-
 
 Señores responsables del Informe Pisa, por favor: ¡suspéndannos retroactivamente desde cuando el Licenciado Cabra hasta los tiempos del señor Ángel Gabilondo Pujol y su corte multicolor de 17 consejeros autonómicos de la cosa!

@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2010-05-19 20:48:10+00:00
-draft: false
 lastmod: '2025-04-06T18:49:06.358191'
 related:
 - 2010-05-09-datatables-tablas-con-busqueda-binaria-en-r.md
@@ -14,6 +13,8 @@ related:
 tags:
 - excel
 - sql
+- programación
+- teradata
 title: ¿En qué se parecen Oracle y Teradata a Excel y Word?
 url: /2010/05/19/en-que-se-parecen-oracle-y-teradata-a-excel-y-word/
 ---
@@ -72,7 +73,7 @@ group by
 
 Alternativamente, para campos numéricos, se puede sumar a un valor de **b** cero por un valor de **c** o cosas similares. En eso la imaginación del lector habrá de ser ley.
 
-Existen alternativas. Teradata, se ha demostrado hoy, las tiene. Existen mecanismos, como si heredados de la moderna pedagogía, que tratan de educar al optimizador: un adulto lo guía pacientemente proponiédole, a guisa de juegos con figuras de colores, estadísticas sobre combinaciones de variables. Con paciencia, a través de esas estadísticas que luego nunca nadie recrea cuando se debe, se puede lograr el deseado fin. Al menos, una vez, en desarrollo y con propósitos ilustrativos.
+Existen alternativas. Teradata, se ha demostrado hoy, las tiene. Existen mecanismos, como si heredados de la moderna pedagogía, que tratan de educar al optimizador: un adulto lo guía pacientemente proponiéndole, a guisa de juegos con figuras de colores, estadísticas sobre combinaciones de variables. Con paciencia, a través de esas estadísticas que luego nunca nadie recrea cuando se debe, se puede lograr el deseado fin. Al menos, una vez, en desarrollo y con propósitos ilustrativos.
 
 No sé cómo tomarme que este ardid —que paga la hipoteca de los yates de algunos afamados gurús de la optimización de consultas— haya sido saludado con un "tu (no es mío) truco (no es un truco: es una estrategia victoriosa) no es generalizable (dígame Vd. dónde pudiera no funcionar, señor valedor de una tecnología caduca)".
 

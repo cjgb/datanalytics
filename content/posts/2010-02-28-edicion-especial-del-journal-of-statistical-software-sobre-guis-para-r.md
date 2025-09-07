@@ -4,8 +4,8 @@ categories:
 - r
 - anuncio
 date: 2010-02-28 04:27:58+00:00
-draft: false
 lastmod: '2025-04-06T18:59:21.665551'
+noindex: true
 related:
 - 2011-11-28-r-en-la-ensenanza-unos-comentarios-a-los-comentarios.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
@@ -27,11 +27,11 @@ Me tomo la libertad de traducir el anuncio para este blog:
 >
 >La nueva edición del JSS se plantea como uno de sus principales objetivos el ofrecer una perspectiva de los distintos GUIs actualmente existentes para R. De esta manera, se ofrece un punto de partida útil a un usuario tratando de decantarse por alguno de ellos. Sin embargo, no queremos quedarnos en presentar una mera lista sino, además, promover una discusión general acerca de cómo debería ser un buen GUI para R y cómo construirlo. Por tanto, buscamos artículos que analicen el concepto de la interfaz para R en toda su totalidad: qué debería comprender (y qué no); cómo se podría lograr y, por qué no, si el esfuerzo merece en todo caso la pena. Finalmente, y a pesar del éxito de R, puede que otros sistemas incluyan características de las que carezca R y que nos gustaría ver incluidas en él. De hecho, descripciones de tales características podrían constituir la fuente de futuros progresos en el desarrollo de GUIs en R.
 
-En resumen, deseamos artículos para este número especial de que traten de los distintos temas:
+En resumen, deseamos artículos para este número especial que traten de los siguientes temas:
 
 * Discusiones genéricas sobre GUIs para estadística y para R.
-* Creación de toolboxes que faciliten la creación de GUIs para terceros.
+* Creación de _toolboxes_ que faciliten la creación de GUIs para terceros.
 * Ejemplos de GUIs para R (tanto en sobremesa como en la nube).
-* Hay vida más allá de R? ¿Qué características tienen otros sitemas de las que R carece pero que, a la vez, necesita?
+* ¿Hay vida más allá de R? ¿Qué características tienen otros sistemas de las que R carece pero que, a la vez, necesita?
 
 A los lectores de este blog, ¿cuál les gusta más?

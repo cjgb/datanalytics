@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2010-09-22 18:37:05+00:00
-draft: false
 lastmod: '2025-04-06T18:57:50.784340'
 related:
 - 2022-09-08-regresion-perdida-asimetrica.md
