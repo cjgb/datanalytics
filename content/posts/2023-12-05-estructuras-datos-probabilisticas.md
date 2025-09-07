@@ -15,7 +15,7 @@ tags:
 - probabilidad
 - computación
 title: Estructuras de datos probabilísticas
-url: /2023/12/05/estructuras-datos-probabilísticas/
+url: /2023/12/05/estructuras-datos-probabilisticas/
 ---
 
 Recomiendo a mis lectores pasar un rato con [ChatGPT](https://chat.openai.com/) alrededor de la siguiente pregunta:

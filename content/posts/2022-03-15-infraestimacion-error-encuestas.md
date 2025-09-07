@@ -16,7 +16,7 @@ tags:
 - errores
 - escepticismo
 title: Sobre la sistemática infraestimación del error en las encuestas
-url: /2122/03/15/sistematica-infraestimacion-error-encuestas/
+url: /2022/03/15/sistematica-infraestimacion-error-encuestas/
 ---
 
 Las encuestas que se publican suelen estar acompañadas de una ficha técnica en la que, entre otras cosas, se especifica el error muestral. El error muestral está relacionado con la posibilidad de que la muestra no represente fidedignamente la población de interés, que tenga un sesgo producto exclusivamente del azar. Es decir, ignora el resto de los posibles sesgos que tengan una causa distinta.

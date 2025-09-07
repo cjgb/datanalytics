@@ -15,7 +15,7 @@ tags:
 - incertidumbre
 - co2
 title: Cambio climático e incertidumbre
-url: /2022/01/03/cambio-climatico-incertidumbre/
+url: /2022/01/13/cambio-climatico-incertidumbre/
 ---
 
 Aunque todavía no haya calado a la población en general ---dígolo con las cifras de los _tres principales problemas que existen actualmente en España_ del CIS en mano--- son muchas y reputadas las voces que nos advierten del grave riesgo que supone el cambio climático. Tantas y tan conspicuas que, sin duda, habrá que hacerles caso.

@@ -19,7 +19,7 @@ tags:
 - mortalidad
 - modelos
 title: Sobre el exceso de mortalidad en noviembre de 2021
-url: /2021/12/09/sobre-exceso-mortalidad-noviembre-2021/
+url: /2021/12/13/sobre-exceso-mortalidad-noviembre-2021/
 ---
 
 _[Nota: trabajé ---pero desde hace muchos meses ya no--- en MoMo. Así que algo sé al respecto. No obstante, las opiniones reflejadas aquí son enteramente mías. Además, están escritas desde una perspectiva estadística, no epidemiológica o, por extensión, médica.]_
