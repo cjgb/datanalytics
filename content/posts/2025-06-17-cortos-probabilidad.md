@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-06-17
-description: tba
+description: Una serie de reflexiones breves sobre lógica doxástica, el teorema de Bayes y una curiosa variante del problema de Monty Hall y otros asuntos relacionados con la probabilidad.
 lastmod: '2025-09-02T12:15:13.494754'
 related:
 - 2015-02-19-decisiones-a-ojo-de-buen-cubero.md
@@ -16,7 +16,7 @@ tags:
 - temorema de bayes
 - monty hall
 - póquer
-title: Cortos probabilidad
+title: Sobre la lógica doxástica, el teorema de Bayes, el problema de Monty Hall y algunos asuntos más
 url: /2025/06/17/cortos-probabilidad/
 ---
 
