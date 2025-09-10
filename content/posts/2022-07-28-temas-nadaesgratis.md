@@ -14,6 +14,7 @@ related:
 tags:
 - nlp
 - economía
+- nadaesgratis
 title: 'npl(nadaesgratis.es): el subproducto'
 url: /2022/07/28/nadaesgratis-temas/
 ---
