@@ -18,14 +18,14 @@ title: Algoritmos de minería de datos en su contexto
 url: /2011/01/14/algoritmos-de-mineria-de-datos-en-su-contexto/
 ---
 
-El otro día apareció publicada en esta bitácora la noticia de un artículo en el que se enumeraban [los _top 10_ de entre los algortimos de minería de datos](https://datanalytics.com/2011/01/04/¿cuales-son-los-top-10-algoritmos-para-data-mining/). Nuestro compañero Andrés Gutiérrez [se hizo eco de la noticia](http://www.gutierrezandres.com/blog/2011/01/los-algoritmos-mas-utilizados-en-data-mining/) y, además, extrajo la lista.
+El otro día apareció publicada en esta bitácora la noticia de un artículo en el que se enumeraban [los _top 10_ de entre los algoritmos de minería de datos](https://datanalytics.com/2011/01/04/¿cuales-son-los-top-10-algoritmos-para-data-mining/). Nuestro compañero Andrés Gutiérrez [se hizo eco de la noticia](http://www.gutierrezandres.com/blog/2011/01/los-algoritmos-mas-utilizados-en-data-mining/) y, además, extrajo la lista.
 
 He leído el artículo, he revisado la lista de los algoritmos elegidos, he leído los comentarios y tengo algunas objeciones que realizar.  No tanto por dejar constancia de ellas sino para evitar que los oropeles despisten a quienes se introducen en este mundo de la minería de datos.
 
 Ni aun leyendo el artículo muy despacio he podido averiguar con respecto a qué criterio los 10 algoritmos son _top_ (porque podría ser el alfabético, ¿no?). No consta que fuesen elegidos por ser lo más usados (puede que lo sean, pero ésa es otra historia). Puede que se refiera a _influyentes_:
 
 
->These top 10 algorithms are among the most infuential data mining algorithms in the research community.
+>These top 10 algorithms are among the most influential data mining algorithms in the research community.
 
 
 Otra escala por la que se midieron fue su popularidad (de conocimiento, no necesariamente de uso):

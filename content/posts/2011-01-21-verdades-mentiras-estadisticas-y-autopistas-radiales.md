@@ -21,7 +21,7 @@ url: /2011/01/21/verdades-mentiras-estadisticas-y-autopistas-radiales/
 
 Sin ser un as de las finanzas, resulta más que evidente que la inversión que en su día se hizo para convertir el tramo Madrid-Zaragoza de la N-II en autovía fue más que rentable. La obra fue financiada por el estado y su uso fue gratuito desde el primer día.
 
-Pero conforme fue mejorando la red de infraestructuras españolas, la estimación de la rentabilidad de cada euro adicional de inversión en ellas se ha ha ido complicado.
+Pero conforme fue mejorando la red de infraestructuras españolas, la estimación de la rentabilidad de cada euro adicional de inversión en ellas se ha ido complicado.
 
 Para resolver el problema contamos con la inestimable ayuda del capitalismo —nos dicen—: ningún sistema económico es capaz de realizar una [asignación de recursos](http://es.wikipedia.org/wiki/Asignaci%C3%B3n_de_recursos) de manera tan eficiente como él. El capitalismo y los capitalistas han corrido al auxilio del estado para ayudarnos a todos a seleccionar _científicamente_ las infraestructuras que realmente necesitamos. El procedimiento, simplificado, es el siguiente:
 

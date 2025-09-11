@@ -28,8 +28,6 @@ Estaba mirando por ahí maneras imaginativas para salir de la crisis. Que conste
 
 Dejando estas disquisiciones aparte, me he preguntado: ¿qué pasa con las actividades ilegales o paralegales? ¿Computan? ¡Y resulta que sí! Eurostat lo deja bien claro: de acuerdo con la página 3 de su [documento de metodología](http://epp.eurostat.ec.europa.eu/portal/page/portal/national_accounts/documents/FAQ_NA_1.pdf), dado que
 
-
-
 * la producción de drogas (no dice nada del tráfico),
 * el contrabando,
 * la prostitución,
@@ -38,7 +36,7 @@ Dejando estas disquisiciones aparte, me he preguntado: ¿qué pasa con las activ
 
 caen dentro de la _frontera de la producción_, deberían ser estimados y computados en la contabilidad nacional.
 
-No sé si se computan o no en España todavía. Es probable que no. El director del INE, Jaume García, [dio a enteder hace poco que no](http://www.cincodias.com/articulo/economia/PIB-contabilizara-prostitucion-contrabando/20101020cdscdieco_7/):
+No sé si se computan o no en España todavía. Es probable que no. El director del INE, Jaume García, [dio a entender hace poco que no](http://www.cincodias.com/articulo/economia/PIB-contabilizara-prostitucion-contrabando/20101020cdscdieco_7/):
 
 
 >[...] es cierto que hay algunos ámbitos, como el de la economía ilegal, hablamos de **prostitución, contrabando y tráfico de drogas**, que de forma explícita a fecha de hoy no forman parte del PIB, aunque en el reglamento están contempladas. Por dificultades metodológicas, ningún país de la UE las incluye, pero está previsto que en un futuro no muy lejano, aprovechando el cambio de base, se puedan incorporar, contabilizándose en el PIB. Son tres sectores no despreciables de ámbito económico, de difícil medición, [...]
