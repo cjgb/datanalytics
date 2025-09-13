@@ -21,12 +21,6 @@ Desde esta bitácora hemos seguido atentamente el a veces espinoso asunto del re
 
 Y llega a conclusiones que no es necesario manifestar explícitamente a quien ejecute esto en R:
 
-
-
-
-
-
-
 {{< highlight R >}}
 x <- rnorm(50000)
 
@@ -38,12 +32,6 @@ system.time(tmp <- replicate(10000, foo.mean()))
 system.time(tmp <- replicate(10000, foo.mean.int()))
 system.time(tmp <- replicate(10000, foo.sum()))
 {{< / highlight >}}
-
-
-
-
-
-
 
 Efectivamente, la media es lenta: pierde mucho tiempo en comprobaciones, revisando opciones y casos particulares. Además, es una función genérica que tiene que encontrar el método adecuado. Todo eso supone, efectivamente, un sobrecoste.
 

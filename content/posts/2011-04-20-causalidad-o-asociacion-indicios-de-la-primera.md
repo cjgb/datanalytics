@@ -22,14 +22,13 @@ url: /2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/
 
 Distinguir adecuadamente causalidad de asociación es un tema sobre el que se han vertido ríos de tinta. Parte de la formación de un estadístico consiste en reconfigurar su arquitectura neuronal de manera que sienta infinito recelo ante proclamas de causalidad de una manera tan instintiva como la del perro de Paulov.
 
-Esta cautela es sin duda necesaria y ha liberado al mundo de infinidad de resultados espúreos. Sin embargo, ha incrementado notablemente los que podríamos llamar errores de tipo II.
+Esta cautela es sin duda necesaria y ha liberado al mundo de infinidad de resultados espurios. Sin embargo, ha incrementado notablemente los que podríamos llamar errores de tipo II.
 
 Austin Bradford Hill, en un artículo de 1965 titulado _The Environmental Disease: Association or Causation?_ se plantea la siguiente pregunta: ¿qué características _a priori_ de una aparente relación causal permiten distinguir aquéllas en que la causalidad es genuina en lugar de una mera asociación de efectos? En la pregunta anterior, _a priori_ quiere decir _antes de un estudio estadísticamente riguroso_.
 
 Las enumero en el mismo orden de importancia que Hill:
 
-
-1. La **fuerza** de la relación
+1. La **fuerza** de la relación.
 2. La **consistencia**: ¿se ha observado la relación en distintos lugares, con distintos sujetos, bajo distintas circunstancias?
 3. La **especifidad**: fumar acorta la vida, sí, pero, en concreto, ¿incrementa la probabilidad de tener cáncer de pulmón? ¿o de infarto? ¿o de accidentes de tráfico? ¿o...?
 4. La **temporalidad**: ¿ocurre antes la causa que su presunto efecto? Aunque esto parece de perogrullo en muchas circunstancias, no siempre es posible o sencillo determinar cuándo ocurren y cómo se ordenan en el tiempo.

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-06-20 07:50:27+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:05:55.339520'
 related:
 - 2011-03-24-c2bfdonde-obtengo-mis-datos-c2a1pregunta.md

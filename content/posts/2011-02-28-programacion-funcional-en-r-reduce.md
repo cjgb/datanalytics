@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-02-28 09:07:36+00:00
-draft: false
 lastmod: '2025-04-06T19:10:15.608070'
 related:
 - 2015-02-25-todos-contra-todos.md

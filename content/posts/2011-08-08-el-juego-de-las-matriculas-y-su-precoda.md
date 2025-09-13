@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2011-08-08 16:13:33+00:00
-draft: false
 lastmod: '2025-04-06T18:45:18.928751'
 related:
 - 2017-02-06-1e-por-doquier.md

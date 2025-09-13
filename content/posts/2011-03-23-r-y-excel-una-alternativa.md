@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-03-23 09:56:13+00:00
-draft: false
 lastmod: '2025-04-06T18:50:28.241020'
 related:
 - 2011-12-01-creacion-de-un-r-portable.md

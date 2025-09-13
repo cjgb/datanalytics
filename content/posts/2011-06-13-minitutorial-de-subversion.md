@@ -4,7 +4,7 @@ categories:
 - consultoría
 - r
 date: 2011-06-13 07:41:42+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:00:36.181115'
 related:
 - 2011-06-30-desarrollo-de-paquetes-con-r-ii-primeros-pasos.md
@@ -20,7 +20,7 @@ title: Minitutorial de subversion
 url: /2011/06/13/minitutorial-de-subversion/
 ---
 
-Por popular demanda, voy a ilustrar en esta entrada el uso de [subversion ](http://subversion.apache.org/)para el desarrollo colaborativo de _software_. Lo escribo teniendo en mente el desarrollo de paquetes alojados en [R-Forge](https://r-forge.r-project.org/) y para usuarios de sistemas operativos más o menos decentes. A quienes usan Windows les recomiendo [Tortoise](http://tortoisesvn.tigris.org/), cuyo uso queda fuera del alcance de lo que sigue.
+Por popular demanda, voy a ilustrar en esta entrada el uso de [subversion](http://subversion.apache.org/) para el desarrollo colaborativo de _software_. Lo escribo teniendo en mente el desarrollo de paquetes alojados en [R-Forge](https://r-forge.r-project.org/) y para usuarios de sistemas operativos más o menos decentes. A quienes usan Windows les recomiendo [Tortoise](http://tortoisesvn.tigris.org/), cuyo uso queda fuera del alcance de lo que sigue.
 
 En primer lugar, para los desavisados: subversion es un programa para gestionar versiones de ficheros. A usuarios particulares, les permite mantener fotos de tu trabajo (¿cómo estaba mi libro/tesis/código hace un mes?). Cuando varias personas trabajan en un mismo proyecto, les permite controlar quién ha hecho qué, cuándo y por qué; además, que cada uno de los integrantes del proyecto trabaje sobre su propia copia del código, aunque mandando su cambios a un repositorio central y recibiendo, claro está, los cambios del resto del equipo.
 

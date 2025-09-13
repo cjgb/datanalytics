@@ -28,7 +28,7 @@ Tengo un amigo físico que trabaja supervisando el funcionamiento una máquina d
 El proceso pues es relativamente simple:
 
 1. Estudiar una población de pacientes tratados con un determinado procedimiento distinguiendo los que respondieron positivamente del resto.
-2. Buscar patrones genéticos que disitingan a los unos de los otros.
+2. Buscar patrones genéticos que distingan a los unos de los otros.
 
 Se han publicado algunos artículos en que se estudian estos problemas de clasificación. Son relevantes, muy relevantes, porque pueden determinar qué tratamiento debe aplicarse a un determinado paciente. Hay vidas en juego. Tan relevantes son que K. Baggerly y K. Coombes se tomaron la molestia de estudiar unos cuantos de ellos para ver hasta qué punto los datos y procedimientos estadísticos empleados sostenían sus conclusiones. En un ejercicio que denominan _bioinformática forense_ los autores trataron de rehacer los métodos estadísticos y los cálculos, desde los datos brutos (que suelen ser públicos) hasta las conclusiones finales por ver hasta qué punto son fiables.
 

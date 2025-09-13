@@ -20,7 +20,7 @@ title: IBM sobre Excel como herramienta estadística
 url: /2011/12/26/ibm-sobre-excel-como-herramienta-estadistica/
 ---
 
-Hemos tratado el tema previamente en entradas como [esta](https://datanalytics.com/2010/01/29/addenda-excel-y-estadistica/) o [esta](https://datanalytics.com/2010/01/25/excel-y-estadistica/). Pero es ahora IBM el que abunda en el tema mediante la publicación de un documento, [The Risks of Using Spreadsheets for Statistical Analysis](/uploads/The_Risks_of_Using_Spreadsheets_for_Statistical_Analysis.pdf), cuyo nombre lo dice, poco más o menos, todo.
+Hemos tratado el tema previamente en entradas como [esta](https://datanalytics.com/2010/01/29/addenda-excel-y-estadistica/) o [esta](https://datanalytics.com/2010/01/25/excel-y-estadistica/). Pero es ahora IBM quien abunda en el tema mediante la publicación de un documento, [The Risks of Using Spreadsheets for Statistical Analysis](/uploads/The_Risks_of_Using_Spreadsheets_for_Statistical_Analysis.pdf), cuyo nombre lo dice, poco más o menos, todo.
 
 Cierto que el documento tiene como objetivo promover el uso de SPSS como alternativa y de ello se ocupa largamente su segunda mitad. Por eso es la primera la más relevante para mis lectores.
 

@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-04-18 07:50:32+00:00
-draft: false
 lastmod: '2025-04-06T19:02:32.403660'
 related:
 - 2011-12-09-bajo-el-capo-de-teradatar.md
@@ -14,16 +13,14 @@ related:
 tags:
 - r
 - sql
+- teradata
 title: Teradata, R y las III Jornadas de Usuarios de R
 url: /2011/04/18/teradata-r-y-las-iii-jornadas-de-usuarios-de-r/
 ---
 
 Como parte de mis atribuciones dentro del comité organizador de las [III Jornadas de Usuarios de R](http://www.usar.org.es) estoy tratando de conseguir la participación (y tal vez la financiación) de empresas e instituciones. Me ha parecido oportuno invitar a tomar parte en ellas a Teradata, empresa que, según la Wikipedia,
 
-
 >[está] especializada en herramientas de data warehousing y _herramientas analíticas empresariales_.
-
-
 
 Teradata no se postula como un vendedor de herramientas de almacenamiento: quiere ir más allá. Su mercado es el de las empresas que aspiran a algo más que a que sus datos permanezcan varados en discos duros esperando, como mucho, a ser exportados a aplicaciones externas. Teradata dice ser capaz de realizar el análisis estadístico de los datos dentro de su propio sistema, eso que se ha dado en llamar _[in database analytics](http://en.wikipedia.org/wiki/In-database_processing)_.
 

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-05-23 13:18:39+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:06:15.641230'
 related:
 - 2011-04-07-nueva-version-de-paquete-colbycol.md

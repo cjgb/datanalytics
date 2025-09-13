@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-03-18 09:16:19+00:00
-draft: false
 lastmod: '2025-04-06T19:04:29.863463'
 related:
 - 2012-03-07-esperanzador-no-varianzador.md
@@ -19,7 +18,7 @@ url: /2011/03/18/asesinatos-en-perspectiva/
 
 En Colombia hay mucho asesinato. Uno va para allá y si del aeropuerto para el hotel no lo han separado de su equipaje, su cartera o de la vida, puede darse por afortunado.
 
-La cosa es poco menos grave en Suráfrica. No en vano fue allá el mundial y lo de los asesinatos nos lo advirtieron en la tele. En Gambia, que está por ahí cerca, la cosa será tres cuartas partes de lo mismo, como cabe esperar.
+La cosa es poco menos grave en Sudáfrica. No en vano fue allá el mundial y lo de los asesinatos nos lo advirtieron en la tele. En Gambia, que está por ahí cerca, la cosa será tres cuartas partes de lo mismo, como cabe esperar.
 
 Y qué decir de México: eso anda de narcocorrido para arriba. En Egipto, aunque no nos lo cuenten, la cosa tiene que estar bastante fea en ese aspecto. Seguro. Es mejor ir de vacaciones a la República Dominicana, donde uno puede sentirse a salvo. O a Puerto Rico. O a tomar ron a Jamaica.
 

@@ -4,7 +4,6 @@ categories:
 - estadística
 - probabilidad
 date: 2011-02-23 08:56:47+00:00
-draft: false
 lastmod: '2025-04-06T18:45:37.062802'
 related:
 - 2011-01-26-la-ley-de-los-grandes-numeros-y-el-teorema-central-del-limite-en-dos-animaciones.md

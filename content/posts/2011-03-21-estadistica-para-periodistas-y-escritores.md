@@ -4,7 +4,6 @@ categories:
 - estadística
 - números
 date: 2011-03-21 09:55:42+00:00
-draft: false
 lastmod: '2025-04-06T18:45:20.934731'
 related:
 - 2010-05-20-numeros-estadisticamente-transcendentes.md
@@ -32,8 +31,6 @@ En Inglaterra, donde en estas y muchas otras cosas están más avanzados, la Roy
 >Si no, como individuos y como sociedad, seguiremos perdiendo oportunidades.
 
 Uno de los ámbitos en los que la RSS quiere actuar de oficio es en el del periodismo. De su esfuerzo da fe el siguiente vídeo de una conferencia en la escuela de periodismo de la BBC:
-
-
 
 En otro sitio he encontrado también una lista (no llega ni a la envergadura de curso) de [recursos básicos de estadística para periodistas y escritores](http://www.robertniles.com/stats/). Me gusta porque sin abandonar un nivel expositivo llano y claro, aborda valientemente los aspectos más conflictivos de la materia: leánse por ejemplo, los _caveats_ que plantea al uso de la media y otros estadísticos.
 

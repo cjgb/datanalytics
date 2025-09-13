@@ -20,7 +20,7 @@ title: Puedes probar cualquier cosa (con paciencia)
 url: /2011/10/04/puedes-probar-cualquier-cosa-con-paciencia/
 ---
 
-Puedes _probar _prácticamente cualquier cosa. Con paciencia, claro. Por ejemplo, coge una moneda de tu bolsillo. Puedes _probar_ que tiene un sesgo: salen más caras (o cruces, da igual) de lo que cabría esperar.
+Puedes _probar_ prácticamente cualquier cosa. Con paciencia, claro. Por ejemplo, coge una moneda de tu bolsillo. Puedes _probar_ que tiene un sesgo: salen más caras (o cruces, da igual) de lo que cabría esperar.
 
 No lo vas a probar como los gañanes, no. Lo vas a probar usando los mismos métodos con los que se aprueban los medicamentos u otras verdades relevantísimas: mostrando al mundo un p-valor pequeñajo, por debajo de 0.05. Veamos cómo.
 

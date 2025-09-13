@@ -36,6 +36,6 @@ Merece también la pena echar un vistazo al mapa de _civilizaciones_ que revela 
 
 ![](/wp-uploads/2011/09/culturomics_civilizations.jpg#center)
 
-¿Son Francia y Suráfrica parte de la misma _civilización_? ¿Y Suiza y Afganistán? ¿Y Canadá está más próximo a Marruecos o Irán que a EE.UU.? ¿Y qué tendrán que ver Noruega y Marruecos?
+¿Son Francia y Sudáfrica parte de la misma _civilización_? ¿Y Suiza y Afganistán? ¿Y Canadá está más próximo a Marruecos o Irán que a EE.UU.? ¿Y qué tendrán que ver Noruega y Marruecos?
 
 En fin, que la cosa está aún verde, verde, verde y que, en tanto,... cantos de sirena.

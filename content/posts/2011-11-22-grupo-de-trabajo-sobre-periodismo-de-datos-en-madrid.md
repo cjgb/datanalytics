@@ -4,7 +4,7 @@ categories:
 - números
 - r
 date: 2011-11-22 07:51:25+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:01:00.860507'
 related:
 - 2012-02-13-r-y-alrededores-en-medialab-prado.md

@@ -23,7 +23,7 @@ Unos quebraderos de cabeza en el desarrollo del [paquete pxR](https://datanalyti
 
 En el principio, todo era felicidad. Existía el código ASCII que establecía una correspondencia entre caracteres, números y su representación binaria. Así, a la letra b le correspondía el número 98 cuya codificación binaria es el _byte_ `01100010`.
 
-Felicidad que se interrumpió cuando algún ortógrafo quiso utilizar eñes y acentos. Y algún tailandés a escribir su nombre como había aprendido en la escuela. Etc. De ahí surgió el caos de los múltiples sistemas y codificaciones: que si el [ISO-8859-1](http://es.wikipedia.org/wiki/ISO_8859-1), que si el [KOI 8](http://es.wikipedia.org/wiki/KOI_8), que si el de IBM, que si el de Microsoft,... todos ellos intentos de codificar distintos codificar distintos caracteres usando las 256 combinaciones que permiten los 8 _bits_ de un _byte_ mediante funciones biyectivas
+Felicidad que se interrumpió cuando algún ortógrafo quiso utilizar eñes y acentos. Y algún tailandés a escribir su nombre como había aprendido en la escuela. Etc. De ahí surgió el caos de los múltiples sistemas y codificaciones: que si el [ISO-8859-1](http://es.wikipedia.org/wiki/ISO_8859-1), que si el [KOI 8](http://es.wikipedia.org/wiki/KOI_8), que si el de IBM, que si el de Microsoft,... todos ellos intentos de codificar distintos caracteres usando las 256 combinaciones que permiten los 8 _bits_ de un _byte_ mediante funciones biyectivas
 
 
 

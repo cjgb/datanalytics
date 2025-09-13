@@ -30,11 +30,8 @@ Publico aquí el enlace a una entrevista del Financial Times con el decano de la
 
 El argumento del Sr. Kumar se resume en lo siguiente:
 
-
-
 1. Ellos, los académicos que investigan los mercados financieros, publican una serie de teoremas y resultados.
 2. En algunos (¿muchos? ¿casi todos?) casos, quienes los aplican olvidan de verificar si se cumplen las hipótesis bajo las que fueron probados. Por ejemplo, si alguien escribe un teorema en el que se asume que las probabilidades de incumplimiento no están _correlacionadas_ (sic), ¿se lo puede culpar porque se utilice en contextos en los que sí lo están (es decir, todos)?
 3. Luego, pasa lo que pasa: quiebran bancos, países, etc.
-
 
 (Otro día os cuento cómo _me resolvieron_ el debate en dos minutos durante cierto periodo en que trabajé para una consultora del ramo).

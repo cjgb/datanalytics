@@ -22,8 +22,6 @@ Doy publicidad aquí a una entrada de la bitácora [gobernamos.com](http://amedi
 
 Para los detalles puede consultarse la entrada original. Pero quiero extraer de ella la referencia al documento [Methodology for Releasing Open Data (MELODA)](http://www.meloda.org/meloda.pdf), que establece un criterio o método (¡odio emplear _metodología_!) para determinar el grado de apertura de una fuente de datos, que en su versión simplificada, evalúa si:
 
-
-
 1. Los datos liberados son propiamente datos y no documentos, imágenes o similares.
 2. Están en un formato estándar y abierto. En particular, no es necesario utilizar una herramienta propietaria o de pago para utilizarlos.
 3. Pueden reutilizarse legalmente.

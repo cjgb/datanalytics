@@ -5,7 +5,6 @@ categories:
 - números
 - probabilidad
 date: 2011-03-11 09:33:27+00:00
-draft: false
 lastmod: '2025-04-06T18:45:39.062940'
 related:
 - 2019-04-09-gestion-del-riesgo-una-perifrasis-con-hitos-aprovechables.md
@@ -34,10 +33,9 @@ Mayer recoge así la distinción que realizó [Frank Knight en su tesis doctoral
 La definición plantea dos problemas importantes:
 
 1. Es un tanto voluntarista: es cierto que los ratones sufrirían menos estrés si el gato llevase un cascabel; el problema es que no tienen forma de colgárselo. El término _riesgo_ quedaría confinado a unos cuantos juegos de azar pero resultaría totalmente inadecuado en contextos más complejos: nunca, por ejemplo, en macroeconomía.
-2. Se aleja de lo que entendemos comúmmente los hablantes por riesgo. Si aceptamos el citerio del DRAE (¿soy yo el único que lo cita para no criticarlo ni sacarle las vergüenzas?), riesgo es _contingencia o proximidad de un daño_; y contingencia, la _posibilidad de que algo suceda o no suceda_. Por otro lado, incertidumbre es lo contrario de certeza, que es el _conocimiento seguro y claro de algo_. No es necesario conocer de antemano la distribución de probabilidad exacta de que te roben el portátil para que uno considere un riesgo dejarlo sin candado.
+2. Se aleja de lo que entendemos comúnmente los hablantes por riesgo. Si aceptamos el criterio del DRAE (¿soy yo el único que lo cita para no criticarlo ni sacarle las vergüenzas?), riesgo es _contingencia o proximidad de un daño_; y contingencia, la _posibilidad de que algo suceda o no suceda_. Por otro lado, incertidumbre es lo contrario de certeza, que es el _conocimiento seguro y claro de algo_. No es necesario conocer de antemano la distribución de probabilidad exacta de que te roben el portátil para que uno considere un riesgo dejarlo sin candado.
 
-[![](/wp-uploads/2011/03/risk_lock.jgp_.jpg)
-](/wp-uploads/2011/03/risk_lock.jgp_.jpg)
+![](/wp-uploads/2011/03/risk_lock.jpg)
 
 En el muy recomendable libro _[The flaw of averages](http://www.flawofaverages.com/)_ ---y sobre el que volveré próximamente--- los términos aparecen mucho más y mejor deslindados: incierto sigue siendo aquello sobre lo que no tenemos un conocimiento claro y seguro. Se trata de un concepto objetivo: nadie sabe realmente si mañana lloverá o quién será el próximo alcalde de Ulán Bator.
 

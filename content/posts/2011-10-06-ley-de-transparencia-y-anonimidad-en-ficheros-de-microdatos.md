@@ -42,4 +42,4 @@ en el primer enlace de esta entrada se me hizo aún más evidente su pertinencia
 
 Cierto que en algunos casos bastaría ocultar los nombres. Pero la anonimidad no es un tema trivial y exige un estudio que tampoco lo es. Daré pronto elementos a los lectores de esta bitácora que los ayuden a comprender mejor la magnitud del problema y de las herramientas disponibles (y que van más allá de las puramente rutinarias/litúrgicas) para mitigarlo.
 
-(Nota: el gráfico, mejorable según los estándares y criterios que sostengo en estas páginas —que otorgan una importancia secundaria a los meramente estéticos— está extraído de la por lo demás recomendable página [dondevanmisimpuestos.es](http://dondevanmisimpuestos.es) y representa la distribución del gasto público en España en durante el año 2011).
+(Nota: el gráfico, mejorable según los estándares y criterios que sostengo en estas páginas —que otorgan una importancia secundaria a los meramente estéticos— está extraído de la por lo demás recomendable página [dondevanmisimpuestos.es](http://dondevanmisimpuestos.es) y representa la distribución del gasto público en España durante el año 2011).

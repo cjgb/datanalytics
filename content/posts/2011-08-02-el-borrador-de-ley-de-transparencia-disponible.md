@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2011-08-02 07:13:11+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:13:12.519130'
 related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md

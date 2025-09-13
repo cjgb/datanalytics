@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-07-05 07:56:43+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:13.193186'
 related:
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md

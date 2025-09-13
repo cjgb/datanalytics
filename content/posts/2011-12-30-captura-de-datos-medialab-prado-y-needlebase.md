@@ -23,7 +23,7 @@ url: /2011/12/30/captura-de-datos-medialab-prado-y-needlebase/
 
 Ya he hablado en ocasiones anteriores en este foro de MediaLab Prado. Y también de los talleres que está realizando sobre periodismo de datos.
 
-El día 12 de enero —y a ver qué invento para poder acudir— habrá una [sesión sobre captura de datos](http://wiki.medialab-prado.es/index.php/Agenda_charla_captura_de_datos) uno de cuyos talleres tratará sobre _[scrapping](http://es.wikipedia.org/wiki/Screen_scraping)_ usando [NeedleBase](http://needlebase.com/).
+El día 12 de enero —y a ver qué invento para poder acudir— habrá una [sesión sobre captura de datos](http://wiki.medialab-prado.es/index.php/Agenda_charla_captura_de_datos) uno de cuyos talleres tratará sobre _[scraping](http://es.wikipedia.org/wiki/Screen_scraping)_ usando [NeedleBase](http://needlebase.com/).
 
 Anoche vi el siguiente vídeo sobre esta herramienta,
 

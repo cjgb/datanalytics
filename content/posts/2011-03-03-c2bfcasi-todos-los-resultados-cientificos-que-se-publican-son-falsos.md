@@ -18,7 +18,7 @@ title: ¿Casi todos los resultados científicos que se publican son falsos?
 url: /2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/
 ---
 
-La falsabilidad es una exigencia de la ciencia que la distinguen, por ejemplo, de la seudociencia. Todo enunciado de valor científico tiene que ser potencialmente refutable. Los resultados científicos, de alguna manera, no son tanto ciertos como refutables y no refutados.
+La falsabilidad es una exigencia de la ciencia que la distingue, por ejemplo, de la seudociencia. Todo enunciado de valor científico tiene que ser potencialmente refutable. Los resultados científicos, de alguna manera, no son tanto ciertos como refutables y no refutados.
 
 El trabajo de los científicos consiste en dar con enunciados refutables lo más difíciles posible de refutar. Piénsese en la [ley de gravitación universal de Newton](http://es.wikipedia.org/wiki/Ley_de_gravitaci%C3%B3n_universal): sin ser cierta, estuvo en pie durante siglos.
 

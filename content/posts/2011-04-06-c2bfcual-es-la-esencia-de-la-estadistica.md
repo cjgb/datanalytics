@@ -4,7 +4,6 @@ categories:
 - ciencia de datos
 - estadística
 date: 2011-04-06 07:14:49+00:00
-draft: false
 lastmod: '2025-04-06T19:08:32.943153'
 related:
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md

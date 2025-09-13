@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-05-25 07:49:14+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:02:28.821106'
 related:
 - 2011-03-28-por-la-apertura-de-los-datos-publicos.md

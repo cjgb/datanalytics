@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2011-05-19 07:15:04+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:45.789903'
 related:
 - 2010-10-02-un-foro-de-discusion-para-usuarios-de-sas.md
@@ -23,4 +23,4 @@ Recientemente tuvo lugar la conferencia del nosequé de SAS en algún lugar de E
 
 En él aparecen algunos de los participantes en las conferencias realizando comentarios simpáticos. Pero conforme iba viendo desfilar rostros, no dejaba de pensar en que existía un patrón en la muestra.
 
-Y me pregunto, ¿cuál es la pirámide de edad de la comunidad de usuarios de SAS? ¿Y la los de R? ¿Será SAS "el futuro"?
+Y me pregunto, ¿cuál es la pirámide de edad de la comunidad de usuarios de SAS? ¿Y la de los de R? ¿Será SAS "el futuro"?

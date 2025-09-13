@@ -27,7 +27,7 @@ Tu proyecto de IT puede contener más riesgo del que piensas. De verdad. Dan [fe
 Los autores describen en el artículo que he enlazado encima varios proyectos que fracasaron estrepitosamente y proporcionan algunos consejos para evitar ese tipo de desenlaces. Sin embargo, para quienes siguen esta bitácora, la reflexión más interesante es la siguiente:
 
 
->Al focalizarse en las _medias_ en lugar de los _casos extremos_ más dañiños, la mayor parte de los gestores y consultores han ignorado el verdadero problema.
+>Al focalizarse en las _medias_ en lugar de los _casos extremos_ más dañinos, la mayor parte de los gestores y consultores han ignorado el verdadero problema.
 
 
 

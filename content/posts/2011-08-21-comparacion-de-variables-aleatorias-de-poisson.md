@@ -22,13 +22,13 @@ title: Comparación de variables aleatorias de Poisson
 url: /2011/08/21/comparacion-de-variables-aleatorias-de-poisson/
 ---
 
-El otro día apareció publicado en Significance una [comparación entre el número de tarjetas recibidas por las selecciones inglesas de fúlbol masculina y femenina](http://www.significancemagazine.org/details/webexclusive/1248403/The-fairer-sex-Comparing-cautions-in-men-and-womens-football.html).
+El otro día apareció publicado en Significance una [comparación entre el número de tarjetas recibidas por las selecciones inglesas de fútbol masculina y femenina](http://www.significancemagazine.org/details/webexclusive/1248403/The-fairer-sex-Comparing-cautions-in-men-and-womens-football.html).
 
 Los hombres habían recibido 196 tarjetas en los 48 partidos disputados en el periodo de referencia y las mujeres, 40 en 24 partidos. El promedio de tarjetas, por lo tanto, de 4.1 y 1.7 respectivamente. Y la pregunta es: ¿hay motivos razonables para pensar que las mujeres juegan menos sucio?
 
 Aparentemente, la distribución de tarjetas en un partido sigue una distribución de Poisson. Esto es un inconveniente (relativo) porque en los cursos básicos de estadística nos enseñaron a comparar medias de variables distribuidas normalmente o proporciones cuando siguen una distribución binomial. Pero... ¿cómo se hace en este caso?
 
-Vamos a revisar este problema desde dos puntos de vista distintos: el del impaciente y el de quien quiera saber más. El pirmero querrá comenzar a usar R de inmediato y cuenta con la función poisson.test con la que puede hacer:
+Vamos a revisar este problema desde dos puntos de vista distintos: el del impaciente y el de quien quiera saber más. El primero querrá comenzar a usar R de inmediato y cuenta con la función poisson.test con la que puede hacer:
 
 
 
@@ -37,7 +37,7 @@ Vamos a revisar este problema desde dos puntos de vista distintos: el del impaci
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ) )`, que contrasta la hipótesis de que los ratios de tarjetas obtenidos, 196 / 48 y 40 / 24 sean iguales.
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ), r = 2 )` que contrasta la hipótesis de que el ratio _verdadero entre las tarjetas entre hombres y mujeres sea de 2 cuando se han obtenido ratios de 196 / 48 y 40 / 24 para unas y otras.
 
-Para los dos últimos constrastes, poisson.test utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $latex \lambda$ $latex r \lambda$ y que en $latex p_1$ y $latex p_2$ muestras independientes de cada una de ellas ($latex p$ significa númeropartidos en nuestro contexto) se han obtenido un total de $latex x_1$ y $latex x_2$ casos (tarjetas). Entonces
+Para los dos últimos constrastes, poisson.test utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $latex \lambda$ $latex r \lambda$ y que en $latex p_1$ y $latex p_2$ muestras independientes de cada una de ellas ($latex p$ significa número de partidos en nuestro contexto) se han obtenido un total de $latex x_1$ y $latex x_2$ casos (tarjetas). Entonces
 
 
 $$ P_\lambda( x_1, x_2 ) = \exp(-p_1 \lambda ) \frac{ (p_1 \lambda)^{x_1} }{ x_1! } \exp(-p_2 r \lambda ) \frac{ (p_2 r \lambda)^{x_2} }{ x_2! } = $$

@@ -34,7 +34,7 @@ Las dos ideas motivadoras de este método son:
 
 
 * Generalidad: poder detectar _cualquier_ tipo de relación funcional entre dos variables, no únicamente relaciones lineales (como el coeficiente de correlación).
-* Homegeneidad: el estadístico debería ser similar cuando se comparen _configuraciones_ con una relación funcional distinta paro un nivel de ruido análogo (véase la figura adjunta).
+* Homegeneidad: el estadístico debería ser similar cuando se comparen _configuraciones_ con una relación funcional distinta para un nivel de ruido análogo (véase la figura adjunta).
 
 En muchos contextos, el análisis de un conjunto de datos comienza por el estudio de una matriz de correlaciones entre variables tal como
 

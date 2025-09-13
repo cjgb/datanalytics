@@ -24,8 +24,6 @@ Muchos de mis lectores tienen, seguro, maneras distintas —y probablemente mejo
 
 En primer lugar, creo un directorio exclusivo para el proyecto con un nombre específico que me permite identificar el quién, el cuándo y el qué. Dentro de él, creo otros cuatro:
 
-
-
 * `doc`, a donde va a parar toda la documentación pertinente
 * `dat`, que contiene los datos iniciales y, posiblemente, algunos obtenidos manualmente a partir de los primeros (me gusta convertir los ficheros de Excel en ceeseuves, por ejemplo)
 * `src`, que contiene mi código en R
@@ -41,7 +39,7 @@ Dentro de `src` creo varios ficheros. Los suelo ordenar alfabéticamente usando 
 
 * 00_load.R
 * `01_clean.R`, para limpiar los datos; típicamente, este fichero suele crecer a lo largo del análisis
-* `02_eda.R`, para en análisis exploratorio y gráfico
+* `02_eda.R`, para el análisis exploratorio y gráfico
 * `03_analysis_cca.R`, por ejemplo
 * `04_analysis_reg.R`, ...
 

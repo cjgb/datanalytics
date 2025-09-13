@@ -21,8 +21,6 @@ url: /2011/06/30/desarrollo-de-paquetes-con-r-ii-primeros-pasos/
 
 La segunda entrada en mi serie sobre la creación de paquetes con R cubre los primeros pasos en la creación de uno. Bastan para tener una primera versión de un paquete en minutos. Pero antes, unos consejos generales:
 
-
-
 1. **Usar algún tipo de sistema operativo basado en Unix:** Linux, Mac OS, etc. o Cygwin en el peor de los casos. Tengo que confesar que yo comencé a usar Linux precisamente por este motivo: los procedimientos y herramientas que se utilizan para construir paquetes de R están influenciadas por la _tradición Unix_. Es cierto que se han creado herramientas para poder desarrollarlos desde Windows pero, después de haber trabajado en Linux, me parecen incómodas y antinaturales: pasar de Linux a Windows es como pasar del Ferrari al borriquillo.
 2. **Registrar el proyecto en R-Forge**, [como ya hemos comentado previamente](https://datanalytics.com/2010/02/27/creando-paquetes-con-r-r-forge/). Dadas sus ventajas —siendo una de las principales permitir probar el paquete sobre varias plataformas distintas (Linux, Mac y Windows) automáticamente— sólo se me ocurre un motivo para no utilizarlo: como el código está públicamente disponible, no es válido para desarrollar aplicaciones cerradas y propietarias.
 3. Utilizar [subversion](https://datanalytics.com/2011/06/13/minitutorial-de-subversion/) (o [git](http://git-scm.com/)). Si el proyecto se aloja en R-Forge, subversion es la opción por defecto. Utilizar subversion permite gestionar mejor el desarrollo del paquete y facilita la colaboración entre los diversos autores.

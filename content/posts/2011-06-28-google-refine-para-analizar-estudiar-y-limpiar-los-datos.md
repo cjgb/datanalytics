@@ -5,7 +5,7 @@ categories:
 - consultoría
 - estadística
 date: 2011-06-28 07:30:25+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:11.044622'
 related:
 - 2010-11-12-google-refine-2-0-una-herramienta-con-muy-buen-aspecto.md

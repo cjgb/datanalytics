@@ -14,13 +14,13 @@ related:
 tags:
 - estadística
 - inferencia
-title: Piensa en en términos de inferencia
+title: Piensa en términos de inferencia
 url: /2011/08/23/piensa-en-en-terminos-de-inferencia/
 ---
 
 Recomiendo a mis lectores [este estupendo vídeo](http://www.stat.auckland.ac.nz/~wild/09.wild.USCOTS.html). Es una conferencia de casi una hora que nos invita a pensar en los datos en términos de inferencia.
 
-Aunque en un contexto un tanto exótico (la remodelación del currículo estadístico en los niveles educativos intermedios de Nueva Zelanda), plantea de una manera muy accesible el principal problema de la inferencia: dados unos datos que son una muestra de una población entera, ¿qué legítimo afirmar acerca de la segunda a partir de los primeros?
+Aunque en un contexto un tanto exótico (la remodelación del currículo estadístico en los niveles educativos intermedios de Nueva Zelanda), plantea de una manera muy accesible el principal problema de la inferencia: dados unos datos que son una muestra de una población entera, ¿qué es legítimo afirmar acerca de la segunda a partir de los primeros?
 
 Denuncia (alrededor de minuto 28) esa pereza intelectual que nos lleva a confundir _describir_ (unos datos) con _inferir_ (propiedades de la población que pueden deducirse de ellos). De ahí que se esfuerce en hacer que cuando alguien vea unos datos así
 

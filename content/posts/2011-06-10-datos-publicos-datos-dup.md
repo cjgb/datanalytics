@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-06-10
-draft: false
 lastmod: '2025-04-06T18:51:01.781238'
 related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
@@ -15,6 +14,8 @@ tags:
 - números
 - datos públicos
 - estadística pública
+- r
+- pxr
 title: Datos públicos, datos DUP
 url: /2011/06/10/datos-publicos-datos-dup/
 ---
@@ -37,4 +38,4 @@ Es posible que en este sentido sea la iniciativa privada la que complemente a la
 
 (Y adelanto que pronto publicaré noticias muy jugosas sobre este tema).
 
-Finalmente, los datos han de ser procesables, hay que contar con herramientas que permitan exprimilos, representarlos, cruzarlos, compararlos. Ya conocemos [Gapminder](http://www.gapminder.org/). Y hablé también recientemente de [NComVA](https://datanalytics.com/2011/06/07/ncomva-y-visua…datos-publicos/). Aunque desde esta bitácora nos guste promover el tipo de análisis más profundo que podría realizarse con R. Esta es, en el fondo, la idea que motivó el desesarrollo todavía incipiente del [paquete pxr](https://r-forge.r-project.org/projects/pxr/), que permite leer directamente desde R datos con el abstruso formato en el que le gusta publicarlos al INE.
+Finalmente, los datos han de ser procesables, hay que contar con herramientas que permitan exprimilos, representarlos, cruzarlos, compararlos. Ya conocemos [Gapminder](http://www.gapminder.org/). Y hablé también recientemente de [NComVA](https://datanalytics.com/2011/06/07/ncomva-y-visua…datos-publicos/). Aunque desde esta bitácora nos guste promover el tipo de análisis más profundo que podría realizarse con R. Esta es, en el fondo, la idea que motivó el desarrollo todavía incipiente del [paquete pxr](https://r-forge.r-project.org/projects/pxr/), que permite leer directamente desde R datos con el abstruso formato en el que le gusta publicarlos al INE.

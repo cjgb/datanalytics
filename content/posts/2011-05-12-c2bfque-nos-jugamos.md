@@ -19,7 +19,7 @@ title: ¿Qué nos jugamos?
 url: /2011/05/12/que-nos-jugamos/
 ---
 
-Imagine que le proponen participar reiteradamente en un juego de azar. Dispone de una cantidad de dinero inicial, $latex a$ euros, y puede apostar en un juego en el que o gana con probabilidad $latex p$ $latex b$ veces la apuesta o la pierde enteramente. Puede repetir el juego cuantas veces quiera  y apostar el porcentaje que desee de su dinero.
+Imagínese que le proponen participar reiteradamente en un juego de azar. Dispone de una cantidad de dinero inicial, $latex a$ euros, y puede apostar en un juego en el que o gana con probabilidad $latex p$ $latex b$ veces la apuesta o la pierde enteramente. Puede repetir el juego cuantas veces quiera  y apostar el porcentaje que desee de su dinero.
 
 ¿Cuánto se apostaría? ¿Qué porcentaje de su capital inicial se jugaría?
 

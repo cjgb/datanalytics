@@ -63,4 +63,4 @@ Los que sepan algo sobre la geografía de ese país advertirán cómo ambos colo
 
 El artículo recoge y cuestiona otras _verdades_, como la de que los alumnos de las escuelas pequeñas aventajan a los de las grandes, otra manifestación del mismo fenómeno.
 
-¿Se le ocurrrirá a alguno de mis lectores algún ejemplo de este tipo de error en un contexto no estadounidense?
+¿Se le ocurrirá a alguno de mis lectores algún ejemplo de este tipo de error en un contexto no estadounidense?

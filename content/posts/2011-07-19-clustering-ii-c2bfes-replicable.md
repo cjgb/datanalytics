@@ -19,6 +19,7 @@ tags:
 - estadística
 - márketing
 - ciencia de datos
+- reproducibilidad
 title: 'Clústering (II): ¿es replicable?'
 url: /2011/07/19/clustering-ii-es-replicable/
 ---

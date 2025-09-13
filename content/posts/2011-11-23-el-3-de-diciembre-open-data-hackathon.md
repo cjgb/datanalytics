@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-11-23 06:56:46+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:48:11.331435'
 related:
 - 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md

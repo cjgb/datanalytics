@@ -19,7 +19,7 @@ title: '"Bump charts" para comparar gráficamente proporciones entre periodos'
 url: /2011/11/08/bump-charts-para-comparar-graficamente-proporciones-entre-periodos/
 ---
 
-Hojeaba el otro día en [informe Reporta 2011](http://informereporta.es/), que evalúa la calidad de la información que sobre su actividad publican las empresas cotizadas en las bolsas españolas. Y aunque haya que valorar la intención de los autores, resultan tan manifiestas ciertas carencias analíticas que mal servicio les haría de no afeárselas desde mi bitácora. Que conste que no me refiero a errores de fondo, materia en la que no entro, sino a los mecanismos para tratar y presentar resultados numéricos a la hora de armar el informe.
+Hojeaba el otro día el [informe Reporta 2011](http://informereporta.es/), que evalúa la calidad de la información que sobre su actividad publican las empresas cotizadas en las bolsas españolas. Y aunque haya que valorar la intención de los autores, resultan tan manifiestas ciertas carencias analíticas que mal servicio les haría de no afeárselas desde mi bitácora. Que conste que no me refiero a errores de fondo, materia en la que no entro, sino a los mecanismos para tratar y presentar resultados numéricos a la hora de armar el informe.
 
 La menos grave —la que lo es más la pospongo para otra ocasión— es la de los recursos gráficos. Nos regalan esta gráfica
 

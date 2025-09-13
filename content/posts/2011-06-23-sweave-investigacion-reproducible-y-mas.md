@@ -4,7 +4,7 @@ categories:
 - consultoría
 - r
 date: 2011-06-23 07:08:45+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:07:25.659956'
 related:
 - 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
@@ -26,7 +26,7 @@ Me consta que algunos de mis lectores están al tanto de eso que llaman _investi
 
 
 
->[E]l término investigación reproducible se atribuye a Jon Claerbout, de la Universidad de Stanford  y se refiere a la idea de que el producto final de la investigación no debería circunscribirse a un  artículo sino comprender también el entorno computacional completo usado en la generación los resultados que contiene, tales como el código, los datos, etc. para que puedan ser reproducidos y se pueda avanzar a partir de ellos.
+>[E]l término investigación reproducible se atribuye a Jon Claerbout, de la Universidad de Stanford  y se refiere a la idea de que el producto final de la investigación no debería circunscribirse a un  artículo sino comprender también el entorno computacional completo usado en la generación de los resultados que contiene, tales como el código, los datos, etc. para que puedan ser reproducidos y se pueda avanzar a partir de ellos.
 
 
 

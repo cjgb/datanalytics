@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2011-03-30 09:35:14+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:48:36.138991'
 related:
 - 2012-09-27-ejemplos-sobre-como-usar-r-desde-sas-a-traves-de-iml.md

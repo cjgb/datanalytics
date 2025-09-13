@@ -23,12 +23,6 @@ url: /2011/07/26/que-es-un-banco-que-son-las-pruebas-de-resistencia-en-primera-d
 
 En primera derivada, un banco es un señor que pone 10, capta 90 en depósitos de ahorradores —a los que da un interés del 4 %— y presta 100 al 5 %. El código en R que aparece a continuación indica cuál es el beneficio del señor:
 
-
-
-
-
-
-
 {{< highlight R >}}
 capital <- 10
 depositos <- 90

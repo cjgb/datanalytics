@@ -26,7 +26,7 @@ Se observa en la serie que 100 pesetas invertidas en tal año se convirtieron en
 ](/wp-uploads/2011/12/igbm_linear.png#center)En escala logarítmica queda
 
 [![](/wp-uploads/2011/12/igbm_log.png#center)
-](/wp-uploads/2011/12/igbm_log.png#center)¿Pero y si se tiene encuenta el efecto de la inflación? Entonces, la figura cambia radicalmente y queda de la siguiente manera:
+](/wp-uploads/2011/12/igbm_log.png#center)¿Pero y si se tiene en cuenta el efecto de la inflación? Entonces, la figura cambia radicalmente y queda de la siguiente manera:
 
 [![](/wp-uploads/2011/12/igbm_deflactado.png#center)
 ](/wp-uploads/2011/12/igbm_deflactado.png#center)

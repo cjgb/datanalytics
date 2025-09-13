@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-04-07 07:55:34+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:04:11.515006'
 related:
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md

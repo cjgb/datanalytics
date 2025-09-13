@@ -40,6 +40,6 @@ Las tres estrategias fundamentales consisten en:
 
 Una _proyección_ de la población española plantea un rango de futuros. Existen muchas variables que pueden afectar al número final de habitantes que pueda haber en España en diez años. Además, muchas de ellas son perfectamente manipulables por los poderes públicos.
 
-El estudio del INE —y especialmente de la forma fatalista en que fue recogido luego por los medios— parece situarnos en el nivel de incertidumbre equivocado. Y sugiere, al hilo de la discusión sobre las estragegias aplicables que no nos queda sino resignarnos a lo oscuro del pronóstico.
+El estudio del INE —y especialmente de la forma fatalista en que fue recogido luego por los medios— parece situarnos en el nivel de incertidumbre equivocado. Y sugiere, al hilo de la discusión sobre las estrategias aplicables que no nos queda sino resignarnos a lo oscuro del pronóstico.
 
 Por eso, ¡no!

@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-04-08 07:26:41+00:00
-draft: false
 lastmod: '2025-04-06T18:48:37.488494'
 related:
 - 2010-09-01-el-paquete-multicore-de-r.md

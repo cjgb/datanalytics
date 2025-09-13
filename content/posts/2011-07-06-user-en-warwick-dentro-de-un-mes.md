@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-07-06 18:07:36+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:56.544447'
 related:
 - 2010-09-17-user-2011.md
@@ -18,14 +18,12 @@ title: useR!, en Warwick, dentro de un mes
 url: /2011/07/06/user-en-warwick-dentro-de-un-mes/
 ---
 
-Dentro de un mes tendrá lugar la[ conferencia internacional de usuarios de R](http://www.warwick.ac.uk/statsdept/user-2011/), useR!, en Warwick, R.U. A partir del documento que resume las ponencias, usando el paquete tm de R y [Wordle ](http://www.wordle.net/)para la parte artística, he creado la siguiente nube de palabras:
+Dentro de un mes tendrá lugar la [conferencia internacional de usuarios de R](http://www.warwick.ac.uk/statsdept/user-2011/), useR!, en Warwick, R.U. A partir del documento que resume las ponencias, usando el paquete tm de R y [Wordle](http://www.wordle.net/) para la parte artística, he creado la siguiente nube de palabras:
 
 [![](/wp-uploads/2011/07/wordle_user_conferences.png#center)
 ](/wp-uploads/2011/07/wordle_user_conferences.png#center)
 
 Y ya que toco estos temas, menciono dos:
-
-
 
 * ¿Os habéis puntado a las [III Jornadas de Usuarios de R](http://www.usar.org.es)?
 * ¿Qué lematizador utilizáis en español? ¿Cuál os gusta más?

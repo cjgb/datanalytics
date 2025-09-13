@@ -26,7 +26,7 @@ Iba a responder a los comentarios de [mi entrada sobre las Jornadas de R](https:
 
 Tanto a él como a otros les chirrió que escribiese _comenzamos una nueva época que en el plazo de tres o cuatro años nos va a conducir, con casi total seguridad, a un escenario en el que [...] R se use de manera casi exclusiva en la enseñanza de la estadística en los niveles universitarios_.
 
-Conste en primer lugar que es una frase cosecha mía y no sé cuántos, si algunos, estarán de acuerdo conmigo. Y se trata de una mezcla de visión y de deseo. Es cierto que llamadas a la uniformidad —y a la _inmersión lingüística_— pueden provocar sentimientos de rechazo. También es cierto que se trata de una sola frase que compendia muy sucintamente horas de reflexiones, conversaciones y experiencias y que me deja, por lo tanto, expuesto a malinterpretaciones extremas. Yo mismo los sentí al escribir la frase y me obligó a releerla. ¿Me atrevería a dejarla tal cual?
+Conste en primer lugar que es una frase cosecha mía y no sé cuántos, si alguno, estarán de acuerdo conmigo. Y se trata de una mezcla de visión y de deseo. Es cierto que llamadas a la uniformidad —y a la _inmersión lingüística_— pueden provocar sentimientos de rechazo. También es cierto que se trata de una sola frase que compendia muy sucintamente horas de reflexiones, conversaciones y experiencias y que me deja, por lo tanto, expuesto a malinterpretaciones extremas. Yo mismo los sentí al escribir la frase y me obligó a releerla. ¿Me atrevería a dejarla tal cual?
 
 Me concedí finalmente la venia para no cambiarle una coma obligándome en contrapartida a fundamentarla debidamente. Y esta es la ocasión propicia para hacerlo.
 

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-05-24 07:00:49+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:46:39.394671'
 related:
 - 2010-07-13-rjython-un-nuevo-paquete-para-llamar-a-python-desde-r.md
@@ -23,7 +23,7 @@ Busco _alpha testers_ para mi paquete `rPython`. El paquete es la evolución nat
 
 `rPython` permite llamar al _verdadero_ Python. Funciona perfectamente en mi máquina, pero necesito ver qué problemas de instalación y uso aparecen en otras plataformas. De momento, sólo funcionaría sobre plataformas UNIX o Linux. Me sorprendería lo indecible que funcionase también sobre Windows: sería toda una casualidad.
 
-Quien disponga de unos minutos que perder en pro de los intereados en la interacción de Python y R está invitado a:
+Quien disponga de unos minutos que perder en pro de los interesados en la interacción de Python y R está invitado a:
 
 
 * Instalar el paquete desde R-Forge mediante el comando `install.packages("rPython", repos="http://R-Forge.R-project.org")`

@@ -7,7 +7,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2025-07-16
-description: TBA
+description: "Del naive Bayes al post-bayesianismo: cuando los principios teóricos ceden el paso a trucos ad hoc para obtener mejores resultados prácticos."
 lastmod: '2025-09-14T01:18:28.975069'
 related:
 - 2024-03-05-sobreajuste-modelos-bayesianos.md

@@ -18,35 +18,29 @@ title: Miscelánea de citas
 url: /2011/07/04/miscelanea-de-citas/
 ---
 
-Creo que tengo que pedirle escusas a [Sam Savage](https://datanalytics.com/2011/06/24/sobre-el-libro-the-flaw-of-averages/) por utilizar citas recopiladas por él para esta entrada mía de hoy. Me atrevo sólo porque espero que contribuya a difundir el conocimiento de su libro. Son:
-
-
+Creo que tengo que pedirle excusas a [Sam Savage](https://datanalytics.com/2011/06/24/sobre-el-libro-the-flaw-of-averages/) por utilizar citas recopiladas por él para esta entrada mía de hoy. Me atrevo sólo porque espero que contribuya a difundir el conocimiento de su libro. Son:
 
 >Todos los modelos son erróneos, pero algunos son útiles.
 >
 > —George Box, estadístico
 
-
 >Mentir un poco está permitido, pero jamás engañar.
 >
 > —Paul Halmos, matemático
-
 
 >Un modelo exitoso te cuenta cosas que no le habías pedido que te contase.
 >
 > —Jerry P. Brashear
 
-
 >Para hacer funcionar un modelo grande, debes comenzar por uno pequeño que funcione, no por uno grande que no funcione.
 >
 > —Alan Manne
-
 
 >Ver las cosas de forma clara y precisa es lo mismo que pensar las cosas de forma clara y precisa.
 >
 > —Edward Tufte
 
->Es preferible una respuesta aproximada a la pregunta correcta, que es usualmente es vaga, que la repuesta exacta a la pregunta equivocada, aunque sea precisa.
+>Es preferible una respuesta aproximada a la pregunta correcta, que usualmente es vaga, que la repuesta exacta a la pregunta equivocada, aunque sea precisa.
 >
 > —John W. Tukey
 

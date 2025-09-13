@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-03-14 09:15:57+00:00
-draft: false
 lastmod: '2025-04-06T18:46:26.756553'
 related:
 - 2011-03-03-c2bfcasi-todos-los-resultados-cientificos-que-se-publican-son-falsos.md
@@ -18,7 +17,7 @@ title: Publica o perece
 url: /2011/03/14/publica-o-perece/
 ---
 
-Quienes trabajamos circunstancianmente para investigadores heredamos parte de esa presión que sufren para publicar a toda costa so pena de perecer académicamente. Esa presión introduce en demasiadas ocasiones los sesgos, desviaciones con respecto a la ortodoxia metodológica, etc., cuyos excesos ha generado una creciente ola de escepticismo frente a los resultados que aparecen en la literatura, tal y [como comentábamos el otro día en estas páginas](https://datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).
+Quienes trabajamos circunstancialmente para investigadores heredamos parte de esa presión que sufren para publicar a toda costa so pena de perecer académicamente. Esa presión introduce en demasiadas ocasiones los sesgos, desviaciones con respecto a la ortodoxia metodológica, etc., cuyos excesos ha generado una creciente ola de escepticismo frente a los resultados que aparecen en la literatura, tal y [como comentábamos el otro día en estas páginas](https://datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).
 
 Esta entrada —continuación de la anterior y abrebocas para otra que estoy preparando sobre el mismo tema— quiero presentar a mis lectores unos cuantos sucesos famosos que ilustran un fenómeno tal vez poco conocido del gran público: casos en los que los resultados científicos resultan falsos no por defectos metodológicos, no por sesgos involuntarios sino por dolo.
 

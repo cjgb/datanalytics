@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-10-24 13:47:36+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:51.151228'
 related:
 - 2011-11-07-disponible-el-programa-de-las-iii-jornadas-de-usuarios-de-r.md
