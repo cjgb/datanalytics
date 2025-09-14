@@ -28,11 +28,11 @@ Hace referencia a la discusión del capítulo 2 del libro anterior en el que tra
 * El compromiso (_trade off_) entre el sesgo y la varianza de los modelos predictivos.
 * Cómo los modelos _locales_ (como los k-vecinos) tienden a tener poco sesgo y mucha varianza.
 * Cómo los modelos globales (como los de regresión) tienden a tener poca varianza y mucho sesgo.
-* Cómo la _maldición de la dimensionalida_d afecta muy seriamente a los modelos locales y mucho menos a los globales.
+* Cómo la _maldición de la dimensionalidad_ afecta muy seriamente a los modelos locales y mucho menos a los globales.
 
 Y voy a tratar de ilustrar esos conceptos con un ejemplo extraído de mi experiencia de consultor.
 
-Trabajé un otoño-invierno en un banco que quería precedir la propensión de sus clientes a adquirir nosequé producto. Nuestros lumbreras de turno pergeñaron un procedimiento —nosotros, en eso, éramos unos _mandaos_— que consistía en lo siguiente:
+Trabajé un otoño-invierno en un banco que quería predecir la propensión de sus clientes a adquirir nosequé producto. Nuestros lumbreras de turno pergeñaron un procedimiento —nosotros, en eso, éramos unos _mandaos_— que consistía en lo siguiente:
 
 1. Seleccionar unas cuantas variables _altamente predictivas_.
 2. Partirlas en 2, 3 o 4 tramos.

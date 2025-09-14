@@ -23,4 +23,4 @@ En 2013 celebraremos el [Año Internacional de la Estadística](http://www.stati
 [![](/wp-uploads/2012/03/IYSTAT-Logo.png#center)
 ](/wp-uploads/2012/03/IYSTAT-Logo.png#center)
 
-Pueden consultarse las [actividades programadas](http://www.statistics2013.org/activities.cfm)  y la [lista de organizaciones patrocinadoras](http://www.statistics2013.org/participants.cfm), a la que es posible que es sume la [Comunidad R Hispano](http://www.r-es.org).
+Pueden consultarse las [actividades programadas](http://www.statistics2013.org/activities.cfm)  y la [lista de organizaciones patrocinadoras](http://www.statistics2013.org/participants.cfm), a la que es posible que se sume la [Comunidad R Hispano](http://www.r-es.org).

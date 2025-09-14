@@ -23,7 +23,7 @@ En un país hipotético, E, tienen un mecanismo de protección social que garant
 
 * A pierde su trabajo pero es diligente y capaz y encuentra otro al cabo de 5 meses. Recibe 500 euros de subsidio.
 * B pierde su trabajo y tarda 15 meses en encontrar otro. Recibe 900 euros de subsidio.
-* C pierde su trabajo y decide no buscar otro hasta agoter la prestación: con su guitarra y algunas chapuzas que le salen, vive. Recibe 900 euros.
+* C pierde su trabajo y decide no buscar otro hasta agotar la prestación: con su guitarra y algunas chapuzas que le salen, vive. Recibe 900 euros.
 * D trabaja y tiene envidia de C. Piensa que por 150 euros haría lo mismo que él. Pero no por 100.
 
 Al gobierno de E se le ocurre lo siguiente: pagar un subsidio de 180 euros el primer mes, 160 el segundo y 200  - 20 * n, el enésimo, es decir,

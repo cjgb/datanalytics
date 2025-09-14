@@ -62,7 +62,7 @@ fivenum( res.juego.c )
 
 Se juega con dos monedas:
 
-* si la cantidad ganada hasta la fecha es múltiplo de 3, se juega con una con la que la probabilidade de ganar es de sólo el 9.5 % pero
+* si la cantidad ganada hasta la fecha es múltiplo de 3, se juega con una con la que la probabilidad de ganar es de sólo el 9.5 % pero
 * en el caso contrario, se juega con otra con la que la probabilidad de ganar es del 74.5 %.
 
 Este es otro juego en el que, jugando repetidamene, también se acaba perdiendo. Para verlo, sólo hay que darse cuenta de que las situaciones en que la cantidad ganada o perdida es múltiplo de 3 representan una especie de barrera probabilística: en ellas casi siempre se pierde. Y las probabilidades de ganar y perder con ambas monedas se han elegido de tal manera que es —un poquito — más probable pasar de tener `3n` euros a `3(n-1)` euros que a tener `3(n+1)` euros.

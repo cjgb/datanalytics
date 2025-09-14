@@ -186,6 +186,6 @@ jentrelosmuertosyabrasiempreunalenguacicaparadevirqueharagohanoserinde
 
 y no sé si mis lectores reconocerán en ellas una frase de Galdós que aparecía en tiempos en los billetes de 1000 pesetas.
 
-Dista de ser perfecto, pero como que, más o menos, podemos sentirnos satisfechos con la descencriptación.
+Dista de ser perfecto, pero como que, más o menos, podemos sentirnos satisfechos con la desencriptación.
 
 En la próxima entrega de esta serie daré un pequeño rodeo y dejaré para la última la teoría de la cosa.

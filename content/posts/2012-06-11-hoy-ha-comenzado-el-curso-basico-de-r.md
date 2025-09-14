@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-06-11 06:23:40+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:13:08.110915'
 related:
 - 2013-02-04-reeditamos-el-curso-basico-de-r.md
@@ -25,7 +25,7 @@ Hoy ha comenzado el [curso básico de R](https://datanalytics.com/2012/06/01/cur
 El programa de la primera semana cubre:
 
 * Los capítulos 1 a 6 de [_icebreakeR_](http://www.ms.unimelb.edu.au/~andrewpr/r-users/icebreakeR.pdf)
-* Los capitulos 1 a 6 de _[An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf)_
+* Los capítulos 1 a 6 de _[An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf)_
 * El [minitutorial de RStudio](http://www.r-es.org/Introducci%C3%B3n+a+RStudio) que he colgado de r-es.org y que es editable y mejorable por todos.
 
 El objetivo no declarado es, sin embargo, que quienes sigan el temario de esta primera semana con aprovechamiento sustituyan Excel por R a la hora de trabajar con tablas (o ficheros csv) y realizar operaciones básicas sobre ellos. ¡Porque no hay color!

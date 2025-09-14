@@ -26,7 +26,7 @@ Pongo un ejemplo. La Constitución Española (artículo 22) dice que las asociac
 
 En fin.
 
-Hoy me toca volver a hablar de leyes y de cómo afectan a la labor estadística. En particular, a los estadísicos que nos movemos (en términos amplios) por libre los que usamos _software_ libre y a los que nos encantan los datos libres. A los que nos gusta poder enriquecernos de las aportaciones de otros libremente y ponemos también libremente al servicio de la comunidad las propias.
+Hoy me toca volver a hablar de leyes y de cómo afectan a la labor estadística. En particular, a los estadísticos que nos movemos (en términos amplios) por libre los que usamos _software_ libre y a los que nos encantan los datos libres. A los que nos gusta poder enriquecernos de las aportaciones de otros libremente y ponemos también libremente al servicio de la comunidad las propias.
 
 Desde el punto de vista del software, disponemos de R. Podemos acceder a él y podemos reutilizarlo, copiarlo, cederlo, regalarlo. También cedemos, distribuimos y permitimos que otros reutilicen nuestras propias aportaciones. Acceso y reutilización son dos caras de la misma moneda.
 

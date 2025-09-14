@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-06-01 07:21:44+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:01:22.863688'
 related:
 - 2013-02-04-reeditamos-el-curso-basico-de-r.md
@@ -18,7 +18,7 @@ title: Curso de R gratuito no presencial
 url: /2012/06/01/curso-de-r-gratuito-no-presencial/
 ---
 
-Hace unos diez años aprendí R por mi solo y por mi cuenta. Entoces era una rareza y no me constaba que en mi universidad hubiese nadie trabajando con él.
+Hace unos diez años aprendí R por mi solo y por mi cuenta. Entonces era una rareza y no me constaba que en mi universidad hubiese nadie trabajando con él.
 
 Diez años después, R ha cobrado tal importancia que son muchos los interesados en aprenderlo. Para subvenir a esta demanda, [Juanjo Gibaja](http://jjgibaja.net/) y yo hemos diseñado un **curso de R básico** con las siguientes características:
 

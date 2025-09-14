@@ -88,7 +88,7 @@ Finalmente, el número de jornadas afectadas por las huelgas en cada año.
 
 Es relativamente fácil ubicar la huelga general del 2002. La que hubo en septiembre de 2010... no lo tengo tan claro.
 
-Finalmente, ¿podría decirse que aunque parece aumentar el número de huelgas, estas afectan cada vez a menos trabajadores y restan mejos jornadas de trabajo? ¿Se ve esa tendencia? ¿Es una tendencia o una mera ilusión sensorial?
+Finalmente, ¿podría decirse que aunque parece aumentar el número de huelgas, estas afectan cada vez a menos trabajadores y restan menos jornadas de trabajo? ¿Se ve esa tendencia? ¿Es una tendencia o una mera ilusión sensorial?
 
 De ser tendencia, (y sólo de ser tendencia) ¿podría aventurarse alguna causa? ¿Huelgas más locales? ¿O menos interés y seguimiento por parte de los trabajadores?
 

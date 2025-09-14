@@ -32,7 +32,7 @@ Efectivamente, cójase el diccionario. El DRAE, por antonomasia. Búsquese una p
 
 Supongo que esas palabras que aparecen en los ciclos tienen una importancia léxica distinta de las del resto. Uno podría llamarlas _palabras axiomáticas_, palabras cuyo significado debería conocer el hablante antes de consultar la herramienta que define, es decir, el diccionario.
 
-Quizás uno pueda contemplar la dicusión anterior de manera _euclídea_. Cada definición vendría a ser un teorema de la geometría euclidiana. La demostración de un teorema puede remitir a otros teoremas previos. Pero no indefinidamente: existen [cinco postulados](http://es.wikipedia.org/wiki/Postulados_de_Euclides) que se dan por buenos sin demostración, que se suponen ciertos de antemano.
+Quizás uno pueda contemplar la discusión anterior de manera _euclídea_. Cada definición vendría a ser un teorema de la geometría euclidiana. La demostración de un teorema puede remitir a otros teoremas previos. Pero no indefinidamente: existen [cinco postulados](http://es.wikipedia.org/wiki/Postulados_de_Euclides) que se dan por buenos sin demostración, que se suponen ciertos de antemano.
 
 Igualmente, en el diccionario, uno podría preguntarse cuáles son esos términos que se supone debieran darse por sabidos y que un diccionario euclídeo debiera abstenerse de definir. O, al menos, marcar explícitamente como tales.
 

@@ -24,9 +24,9 @@ Debo esta entrada a la diligencia de [Juanjo Gibaja](http://jjgibaja.net/), que 
 
 Esencialmente, como la distribución normal multivariante (con matriz de covarianzas `I`) es simétrica, entonces, dadas $latex X_1,\dots, X_m \sim N( 0, I_n )$ independientes, los `m` puntos del espacion `n`-dimensional $latex X_i/\| X_i \|$ siguen una distribución uniforme sobre su esfera (su superficie, vale la pena reiterar) unidad.
 
-Para muestrear la bola `n`-dimensional, hay que muestrear primero la esfera (como en el párrafo anterior) y luego generar `m` variables aletorias $latex U_i$ con la distribución uniforme. La muestra en la esfera unidad será entonces $U_i^{1/n} X_i/\| X_i \|$.
+Para muestrear la bola `n`-dimensional, hay que muestrear primero la esfera (como en el párrafo anterior) y luego generar `m` variables aleatorias $latex U_i$ con la distribución uniforme. La muestra en la esfera unidad será entonces $U_i^{1/n} X_i/\| X_i \|$.
 
-Efectivamente, $latex X_i/\| X_i \|$ proporciona la dirección. Y en cuanto a la distancia con respecto al centro hay que tener encuenta que la bola de radio r < 1 contiene sólo un $latex r^n$ del volumen de la bola unidad. Como $latex P( U_i < r ) = r$, entonces $latex P( U^{1/n} < r ) = P( U < r^n ) = r^n$.
+Efectivamente, $latex X_i/\| X_i \|$ proporciona la dirección. Y en cuanto a la distancia con respecto al centro hay que tener en cuenta que la bola de radio r < 1 contiene sólo un $latex r^n$ del volumen de la bola unidad. Como $latex P( U_i < r ) = r$, entonces $latex P( U^{1/n} < r ) = P( U < r^n ) = r^n$.
 
 [![](/wp-uploads/2012/01/muestra_uniforme_esfera.png#center)
 ](/wp-uploads/2012/01/muestra_uniforme_esfera.png#center)

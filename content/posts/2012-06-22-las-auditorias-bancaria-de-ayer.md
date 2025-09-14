@@ -4,7 +4,6 @@ categories:
 - estadística
 - números
 date: 2012-06-22 06:26:12+00:00
-draft: false
 lastmod: '2025-04-06T18:59:26.467671'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md

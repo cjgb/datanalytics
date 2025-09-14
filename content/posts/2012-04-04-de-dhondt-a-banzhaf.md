@@ -27,7 +27,7 @@ Hablé el otro día con Emilio Torres y comentamos de pasada la situación polí
 
 Porque se habla mucho en periodo electoral de la [ley D'Hondt](http://www.grserrano.es/wp/2011/05/jugando-con-el-sistema-de-dhondt/) pero, una vez asignados los escaños, cambia el juego.
 
-Existe un método, el [índice de poder de Banzhaf](http://www.esi2.us.es/~mbilbao/pdffiles/eupower.pdf). El índice de Banzhaf para un determinado partido político mide su poder en términos del porcentaje de las posibles alianzas mínimas ganadoras en las que participa dentro de su universo total. Una alizanza es ganadora cuando reúne más de la mitad de los votos. Y es mínima cuando todos sus integrantes son necesarios para que sea ganadora; excluye, por ejemplo, la alianza trivial formada por todos los partidos.
+Existe un método, el [índice de poder de Banzhaf](http://www.esi2.us.es/~mbilbao/pdffiles/eupower.pdf). El índice de Banzhaf para un determinado partido político mide su poder en términos del porcentaje de las posibles alianzas mínimas ganadoras en las que participa dentro de su universo total. Una alianza es ganadora cuando reúne más de la mitad de los votos. Y es mínima cuando todos sus integrantes son necesarios para que sea ganadora; excluye, por ejemplo, la alianza trivial formada por todos los partidos.
 
 Veamos cómo calcular este índice con R y lo utilizaremos para cuantificar el valor de ese escaño:
 

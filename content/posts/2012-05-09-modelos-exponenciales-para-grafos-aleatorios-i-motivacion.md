@@ -32,4 +32,4 @@ Aparte de este tipo de relaciones, existen otras muchas que los expertos buscan 
 [![](/wp-uploads/2012/05/configuraciones_grafos.png#center)
 ](/wp-uploads/2012/05/configuraciones_grafos.png#center)
 
-A este tipo de preguntas aspiran a dar respueta los llamados modelos exponenciales para grafos aleatorios, cuyos rudimentos expondremos mañana.
+A este tipo de preguntas aspiran a dar respuesta los llamados modelos exponenciales para grafos aleatorios, cuyos rudimentos expondremos mañana.

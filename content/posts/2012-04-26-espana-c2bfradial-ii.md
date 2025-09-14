@@ -59,7 +59,7 @@ se obtiene
 
 Esta vez la península se parte en dos reeditando una suerte de _Hispania Tarraconensis_ en la que las capitales más centrales son Tarragona, Valencia, Barcelona, Castellón, Jaén y Lérida.
 
-Si en lugar de esta versión tan extrema su ponemos que Madrid tiene una poblacion _promedio_, es decir,
+Si en lugar de esta versión tan extrema suponemos que Madrid tiene una población _promedio_, es decir,
 
 {{< highlight R >}}
 nodos.alt <- nodos
