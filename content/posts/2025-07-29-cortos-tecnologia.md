@@ -14,7 +14,7 @@ related:
 - 2020-09-21-en-defensa-de-iris.md
 tags:
 - tecnología
-title: Varios artículos sobre tecnología
+title: Varios artículos que tenía recopilados sobre tecnología
 url: /2025/07/29/cortos-tecnologia/
 ---
 
