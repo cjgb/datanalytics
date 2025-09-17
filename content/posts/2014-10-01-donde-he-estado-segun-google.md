@@ -27,7 +27,7 @@ Leí [esto](http://educate-r.org//2014/09/26/googlelocations/) el otro día. Lo 
 
 Google guarda datos de tus ubicaciones: tu tableta, tu ordenador, tu teléfono Android son espías a su servicio. Los datos los guarda en [aquí](https://www.google.com/settings/datatools) (creo que necesitarás que en tu navegador haya una sesión abierta con tus credenciales del universo Google). Pulsando en _administrar archivos_ y luego en _crear archivos_ puedes seleccionar el tipo de información sobre ti que posee Google y que quieres descargarte. Para este ejemplo, será el _Historial de Ubicaciones_.
 
-El código que he utilizado el el siguiente:
+El código que he utilizado el siguiente:
 
 
 {{< highlight R >}}

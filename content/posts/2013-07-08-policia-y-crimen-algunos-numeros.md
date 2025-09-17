@@ -18,7 +18,7 @@ title: 'Policía y crimen: algunos números'
 url: /2013/07/08/policia-y-crimen-algunos-numeros/
 ---
 
-El 2013-07-05 Eurostat publicó el el estudio [Trends in crime and criminal justice, 2010](https://ec.europa.eu/eurostat/web/products-statistics-in-focus/-/ks-sf-13-018).
+El 2013-07-05 Eurostat publicó el estudio [Trends in crime and criminal justice, 2010](https://ec.europa.eu/eurostat/web/products-statistics-in-focus/-/ks-sf-13-018).
 
 De él quiero rescatar algunas cifras:
 

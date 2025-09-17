@@ -72,6 +72,6 @@ log(sum(y) / N)
 
 aunque `glm` nos engaña y da por convergida una regresión que no lo está. De todos modos, el coeficiente `xa` tiene un valor de -20 y un error estándar de 1554, nada menos, lo que debería hacer saltar alarmas donde hubiere luces.
 
-Para saber más, y para que quede constancia de de dónde he sacado todo lo anterior, _[Bias Reduction as a Remedy to the Consequences of Infinite Estimates in Poisson and Tobit Regression](https://arxiv.org/abs/2101.07141)_ del, entre otros, genial y nunca suficientemente apreciado A. Zeileis.
+Para saber más, y para que quede constancia de dónde he sacado todo lo anterior, _[Bias Reduction as a Remedy to the Consequences of Infinite Estimates in Poisson and Tobit Regression](https://arxiv.org/abs/2101.07141)_ del, entre otros, genial y nunca suficientemente apreciado A. Zeileis.
 
 **Coda:** Apenas acabo lo anterior, me doy cuenta de que [ya había hablado del tema](https://datanalytics.com/2018/04/11/modelos-con-inflacion-de-ceros-y-separacion-perfecta/) de pasada hace un par de años largos.

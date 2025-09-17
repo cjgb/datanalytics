@@ -22,7 +22,7 @@ Eso he visto que se preguntaban algunos en Twitter estos días. Lo particular de
 
 De entre todos ellos, destaco el ahora relevantísimo [_La sociedad civil ante el gasto público_](http://dialnet.unirioja.es/servlet/fichero_articulo?codigo=867496&orden=89508 ) escrito por él hace ya once años, mucho antes de que pudiese siquiera imaginar encontrarse algún día en su actual coyuntura. En este trabajo se plantea con datos del CIS en mano,
 
-* cuál es la actitud de los ciudadanos frente a los impuetos,
+* cuál es la actitud de los ciudadanos frente a los impuestos,
 * cómo perciben y cómo creen que debería ser el gasto público y
 * cómo distribuyen sus preferencias en la asignación de recursos para los diferentes servicios públicos
 
@@ -45,4 +45,4 @@ Y el último párrafo del artículo es para enmarcar:
 
 >Las diferencias generacionales constituyen una variable de peso en las diferentes percepciones. Por ello se hace imprescindible pensar con especial atención en los más jóvenes. Los mismos se destacan en el perfil actitudinal que caracterizamos como “indiferentes descreídos”, cuyas características sobresalientes son: menor responsabilidad frente a los deberes como ciudadanos, creencia generalizada de fraude fiscal y menor conciencia de las consecuencias del déficit fiscal. Por ello es un público que va a demandar esfuerzos particulares.
 
-A modo de colofón, agrego que un año antes, en el 2000, Wert había publicado otro artículo titulado [_Mucho mejor que no haya encuestas_](http://dialnet.unirioja.es/servlet/articulo?codigo=2420608) sobre cuya oportunidad me niego rotundamente a emitir jucio alguno.
+A modo de colofón, agrego que un año antes, en el 2000, Wert había publicado otro artículo titulado [_Mucho mejor que no haya encuestas_](http://dialnet.unirioja.es/servlet/articulo?codigo=2420608) sobre cuya oportunidad me niego rotundamente a emitir juicio alguno.

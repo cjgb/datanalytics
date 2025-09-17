@@ -22,7 +22,7 @@ url: /2023/06/13/pearson-ordenadores/
 ---
 
 ... muchas cosas serían muy distintas hoy en día. Hoy quiero elaborar sobre su artículo de 1900 [_X. On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling_](http://dx.doi.org/10.1080/14786440009463897)
-famoso por nada menos que introducir el concepto de p-valor y el el uso de la $\chi^2$ para medir la bondad de ajuste.
+famoso por nada menos que introducir el concepto de p-valor y el uso de la $\chi^2$ para medir la bondad de ajuste.
 
 En el artículo hay una construcción teórica que no me he tomado la molestia de leer con detalle y algunos ejemplos, siendo el primero de ellos
 

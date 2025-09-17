@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-07-26 07:07:07+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:55:11.459893'
 related:
 - 2013-02-04-reeditamos-el-curso-basico-de-r.md

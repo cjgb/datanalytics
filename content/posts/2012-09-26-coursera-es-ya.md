@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2012-09-26 07:59:26+00:00
-draft: false
 lastmod: '2025-04-06T18:47:13.690802'
 related:
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md

@@ -24,7 +24,7 @@ En vigilancia epidemiológica contamos eventos (p.e., muertes o casos de determi
 
 ¿Cómo estimar el número de casos ocurridos el día 0 el día, p.e., 5?
 
-Se puede aplicar el análisis de la supervivencia donde el evento muerte se reinterpreta como notificación. El el día 0 todos los sujetos están _vivos_ y, poco a poco, van _cayendo_. Como en los consabidos modelos/gráficos de Kaplan-Meier,
+Se puede aplicar el análisis de la supervivencia donde el evento muerte se reinterpreta como notificación. El día 0 todos los sujetos están _vivos_ y, poco a poco, van _cayendo_. Como en los consabidos modelos/gráficos de Kaplan-Meier,
 
 ![](/wp-uploads/2019/07/kaplan-meier.jpeg)
 

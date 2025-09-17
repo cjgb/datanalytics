@@ -29,7 +29,7 @@ Las funciones en cuestión están extraídas de esta,
 
 ![inception03](/wp-uploads/2016/09/inception03.png#center)
 
-que es una representación esquemática (extraída de [aquí](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)) de una red neuronal para el reconocimiento de imágenes. El nodo superior lee píxels y el el inferior dice si en la foto hay unos loros o no. Los colores indican distintos tipos de operaciones (convoluciones, etc.) internas de la red.
+que es una representación esquemática (extraída de [aquí](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)) de una red neuronal para el reconocimiento de imágenes. El nodo superior lee píxels y el inferior dice si en la foto hay unos loros o no. Los colores indican distintos tipos de operaciones (convoluciones, etc.) internas de la red.
 
 Una red neuronal no deja de ser una función construida como composición de otras: cada nodo del gráfico anterior, de hecho, no deja de ser una función relativamente simple.
 

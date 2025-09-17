@@ -21,7 +21,7 @@ title: Bootstrap bayesiano
 url: /2014/10/10/bootstrap-bayesiano/
 ---
 
-Hoy voy a hablar de esa especie de oxímoron que es el el _bootstrap_ bayesiano. Comenzaré planteando un pequeño problema bien conocido: tenemos números $latex x_1, \dots, x_n$ y hemos calculado su media. Pero nos preguntamos cómo podría variar dicha media (de realizarse otras muestras).
+Hoy voy a hablar de esa especie de oxímoron que es el _bootstrap_ bayesiano. Comenzaré planteando un pequeño problema bien conocido: tenemos números $latex x_1, \dots, x_n$ y hemos calculado su media. Pero nos preguntamos cómo podría variar dicha media (de realizarse otras muestras).
 
 La respuesta de [Efron (1979)](http://projecteuclid.org/euclid.aos/1176344552) es esta:
 

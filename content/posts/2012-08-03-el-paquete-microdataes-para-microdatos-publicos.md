@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2012-08-03 07:38:41+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:45:42.569797'
 related:
 - 2012-08-06-un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo.md

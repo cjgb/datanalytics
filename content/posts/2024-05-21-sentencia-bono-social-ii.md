@@ -40,7 +40,7 @@ Curiosamente, a nadie se le ocurrió decir que era una máquina y no una persona
 
 ## II.
 
-La administración responsable del programa BOSCO pecó de ingenua. De haber sido yo el responsable de la cosa, habría procedido de la siguiente manera: en primer lugar, aquellos interesados en solicitar el bono social, tendrían que redactar una instancia a la vieja usanza, con buena letra y sin faltas de ortografía, ajuntando copias debidamente compulsadas de la documentación necesaria. Este ejercicio, además de propiciar la alfabetización de las clases menesterosas, retrasar la aparición de los síntomas del Alzheimer y reducir el consumo de telebasura, también movería a multitud de ONGs a implorar de la administración un programa que agilizase el proceso. Entonces les daría el programa BOSCO como quien echa pienso a los pollos. Seguro que así nadie le habría encontrado ninguna pega.
+La administración responsable del programa BOSCO pecó de ingenua. De haber sido yo el responsable de la cosa, habría procedido de la siguiente manera: en primer lugar, aquellos interesados en solicitar el bono social, tendrían que redactar una instancia a la vieja usanza, con buena letra y sin faltas de ortografía, adjuntando copias debidamente compulsadas de la documentación necesaria. Este ejercicio, además de propiciar la alfabetización de las clases menesterosas, retrasar la aparición de los síntomas del Alzheimer y reducir el consumo de telebasura, también movería a multitud de ONGs a implorar de la administración un programa que agilizase el proceso. Entonces les daría el programa BOSCO como quien echa pienso a los pollos. Seguro que así nadie le habría encontrado ninguna pega.
 
 ### III.
 

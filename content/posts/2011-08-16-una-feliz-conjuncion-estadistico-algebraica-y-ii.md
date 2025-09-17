@@ -76,4 +76,4 @@ Este gráfico, de alguna manera, representa los vectores $latex p_1, p_2, q_1$ y
 
 De hecho, examinando las coordenadas Y (correspondientes a la segunda componente) podemos comprender mejor qué fenómeno recoge la segunda componente: una cierta sobreabundancia de personas con ojos claros y pelo oscuro y viceversa. Y a la vez, una proporción mayor de _medium_/_medium_ de la que se deduciría únicamente de la primera componente.
 
-Los interesados en abundar más sobre el el asunto y aprender técnicas adicionales de representación gráfica de este tipo de datos pueden echarle un vistazo al artículo _[Simple and Canonical Correspondence Analysis Using the R Package`anacor`](http://cran.r-project.org/web/packages/anacor/vignettes/anacor.pdf)_ de J. de Leeuw y P. Mair.
+Los interesados en abundar más sobre el asunto y aprender técnicas adicionales de representación gráfica de este tipo de datos pueden echarle un vistazo al artículo _[Simple and Canonical Correspondence Analysis Using the R Package`anacor`](http://cran.r-project.org/web/packages/anacor/vignettes/anacor.pdf)_ de J. de Leeuw y P. Mair.

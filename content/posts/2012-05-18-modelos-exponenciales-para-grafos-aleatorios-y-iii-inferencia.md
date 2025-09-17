@@ -30,7 +30,7 @@ Tradicionalmente, se utilizaba para estimar los parámetros de un grafo la llama
 
 $$ \log \left( \frac{P(v_{ij} = 1| y_{ij})}{P(v_{ij} = 0| y_{ij})} \right) = \sum_A \eta_A d_A(y)$$
 
-donde $latex v_{ij}$ es una _posible_ arista del grafo, $latex y_{ij}$ es el grafo original sin la arista $latex v_{ij}$ y $latex d_A(y)$ es una función —la función _difererencia_— que depende del tipo de configuración. Un poco más en cristiano, que la razón de probabilidades para que exista un cierto vértice puede modelarse como una ecuación lineal en los coeficientes $latex \eta_A$ y eso permite estimarlos usando algo similar a regresiones logísticas.
+donde $latex v_{ij}$ es una _posible_ arista del grafo, $latex y_{ij}$ es el grafo original sin la arista $latex v_{ij}$ y $latex d_A(y)$ es una función —la función _diferencia_— que depende del tipo de configuración. Un poco más en cristiano, que la razón de probabilidades para que exista un cierto vértice puede modelarse como una ecuación lineal en los coeficientes $latex \eta_A$ y eso permite estimarlos usando algo similar a regresiones logísticas.
 
 Si vale el símil, sería equivalente a plantear un modelo logístico para predecir la existencia o no existencia de un determinado vértice.
 
@@ -69,7 +69,7 @@ para obtener (en la segunda sentencia) algo así como
 [![](/wp-uploads/2012/05/flomarriage.png#center)
 ](/wp-uploads/2012/05/flomarriage.png#center)
 
-La parte interesante llega ahora: plantear un modelo que, por ejemplo, indique si las familias tienen propensión a enlazarse cuando la diferencia de riqueza entre ellas es grande. Por supuesto, controlando por el número de enlaces totales que hay en el modelo, que es el significado del térmimo `edges`:
+La parte interesante llega ahora: plantear un modelo que, por ejemplo, indique si las familias tienen propensión a enlazarse cuando la diferencia de riqueza entre ellas es grande. Por supuesto, controlando por el número de enlaces totales que hay en el modelo, que es el significado del término `edges`:
 
 {{< highlight R >}}
 gest <- ergm(flomarriage ~ edges + absdiff("wealth"))

@@ -24,7 +24,7 @@ Sí, existe un [Proyecto Internacional de Alfabetización Estadística](http://w
 
 Y, para ello,
 
->proporciona un repositorio en línea de recursos y noticias relacionadas con la alfabetización estadística y promueve actividades internacionales para incrementar la visibilidad de de la estadística.
+>proporciona un repositorio en línea de recursos y noticias relacionadas con la alfabetización estadística y promueve actividades internacionales para incrementar la visibilidad de la estadística.
 
 Siempre me ha llamado la atención cómo en los países anglosajones las organizaciones profesionales estadísticas —la [ASA](http://www.amstat.org/), la [RSS](http://www.rss.org.uk/), etc.— invierten decisivamente en eso de la alfabetización estadística a través de [campañas](http://www.getstats.org.uk/) dirigidas a estudiantes, periodistas, etc.
 

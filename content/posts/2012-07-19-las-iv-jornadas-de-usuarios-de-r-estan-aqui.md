@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-07-19 07:01:59+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:54:52.196981'
 related:
 - 2012-06-08-las-iv-jornadas-de-usuarios-de-r-estan-en-marcha.md

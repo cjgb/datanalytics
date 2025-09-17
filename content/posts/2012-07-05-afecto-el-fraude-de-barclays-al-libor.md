@@ -25,7 +25,7 @@ Después de la [entrada de ayer](https://datanalytics.com/2012/07/04/libor-libor
 [![](/wp-uploads/2012/07/tuit_david_cabo.png#center)
 ](/wp-uploads/2012/07/tuit_david_cabo.png#center)
 
-he decidido mirar a ver qué impacto puede haber tenido el fraude de Barclays, uno de los 16 bancos que aportan datos para calcular el índice, sobre su valor diario.
+he decidido estudiar qué impacto puede haber tenido el fraude de Barclays, uno de los 16 bancos que aportan datos para calcular el índice, sobre su valor diario.
 
 El procedimiento por el que se calcula el Libor lo describí ayer. Y también indiqué de dónde descargar los datos históricos que proporciona The Guardian. Así que puedo comenzar cargando los datos en R,
 

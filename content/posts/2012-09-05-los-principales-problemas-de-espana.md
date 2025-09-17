@@ -24,7 +24,7 @@ url: /2012/09/05/los-principales-problemas-de-espana/
 
 Llevo unos días mostrando bastante poca diligencia en lo que a mi bitácora concierne. El calor con el que agosto ha maltratado los montes también ha contribuido a disipar mis ideas. También a enflaquecer la ya de por sí no muy robusta voluntad.
 
-Y como todavía no ando recuperdo del todo, voy a aprovechar el [estupendo trabajo previo de Gregorio Serrano](http://www.grserrano.es/wp/2012/09/ejemplo-de-web-scraping-indicadores-de-confianza-politica/) (y véase también [este otro](http://www.grserrano.es/wp/2012/09/la-desconfianza-en-los-politicos/) relacionado con el anterior) para facilitar a mis lectores una tarea en la que como ciudadanos probos es probable que estén interesados y que, tal vez sin mi concurso, resultaría excesivamente enojosa.
+Y como todavía no ando recuperado del todo, voy a aprovechar el [estupendo trabajo previo de Gregorio Serrano](http://www.grserrano.es/wp/2012/09/ejemplo-de-web-scraping-indicadores-de-confianza-politica/) (y véase también [este otro](http://www.grserrano.es/wp/2012/09/la-desconfianza-en-los-politicos/) relacionado con el anterior) para facilitar a mis lectores una tarea en la que como ciudadanos probos es probable que estén interesados y que, tal vez sin mi concurso, resultaría excesivamente enojosa.
 
 Si alguna vez se han preguntado por los problemas que más aquejan a los españoles de este último cuarto de siglo, están hoy de enhorabuena porque voy a ponerles la respuesta casi en bandeja.
 

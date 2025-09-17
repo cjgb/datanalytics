@@ -34,7 +34,7 @@ Y [aquí](https://www.fharrell.com/post/robcov/) Frank harrell escribe:
 
 ### III.
 
-Conservadurismo metodológico en acción [aquí](https://www.realclimate.org/index.php/archives/2023/02/the-established-ground-and-new-ideas/). Es curioso lo despacio que las innovaciones metodológicas _percolan_ en las distintas disciplinas. ¿Habrá escrito alguien algo sobre la dinámica del proceso de actualizacíón metodológica? ¿Habrá un _ránking_ de disciplinas académicas por grado de de conservadurismo metodológico?
+Conservadurismo metodológico en acción [aquí](https://www.realclimate.org/index.php/archives/2023/02/the-established-ground-and-new-ideas/). Es curioso lo despacio que las innovaciones metodológicas _percolan_ en las distintas disciplinas. ¿Habrá escrito alguien algo sobre la dinámica del proceso de actualizacíón metodológica? ¿Habrá un _ránking_ de disciplinas académicas por grado de conservadurismo metodológico?
 
 ### IV.
 

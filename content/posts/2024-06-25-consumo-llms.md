@@ -41,7 +41,7 @@ En la península Ibérica
 [se pierden en el transporte](https://www.ree.es/es/datos/demanda/perdidas-transporte)
 ---es decir, se disipan en forma de calor en cables, transformadores, etc.--- unos 300-500 GWh al mes, o unos 550 MW en promedio. 10 MW arriba o abajo, ni se nota.
 
-Cierto que hay muchos más modelos, que todo el mundo está entrenando constantemente, etc. y que se espera que pero, ¿cuántos modelos existen que compitan con GPT-4 en complejidad, etc.? ¿10? ¿20? ¿Importará mucho cuando entrenar uno de los LLMs que vendrán consuma, qué se yo, lo que Zaragoza?
+Cierto que hay muchos más modelos, que todo el mundo está entrenando constantemente, etc. y que se espera que su número aumente; pero, ¿cuántos modelos existen que compitan con GPT-4 en complejidad, etc.? ¿10? ¿20? ¿Importará mucho cuando entrenar uno de los LLMs que vendrán consuma, qué se yo, lo que Zaragoza?
 
 
 ### III.
@@ -58,4 +58,4 @@ Esto no es decir que el negocio de la inferencia consumirá poco. De hecho, cuan
 
 ### IV.
 
-Puede que los LLMs traigan consigo una serie de problemas, los conocidos y los por conocer. Pero, desde luego, el consumo de energía no parece ser uno de de ellos. Solo, tal vez, en mentes anuméricas.
+Puede que los LLMs traigan consigo una serie de problemas, los conocidos y los por conocer. Pero, desde luego, el consumo de energía no parece ser uno de ellos. Solo, tal vez, en mentes anuméricas.

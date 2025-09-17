@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2012-07-18 06:21:44+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:52:38.902836'
 related:
 - 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md

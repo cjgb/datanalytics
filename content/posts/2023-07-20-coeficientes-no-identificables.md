@@ -53,7 +53,7 @@ Entiendo que para construir exámenes estandarizados o tests sicométricos hay q
 
 ## II.
 
-Uno puede introducir variaciones el el modelo anterior. Por ejemplo,
+Uno puede introducir variaciones el modelo anterior. Por ejemplo,
 
 $$r_{ij} \sim \text{Bernoulli}(p_{ij})$$
 $$p_{ij} = f(a_i, d_j, ...)$$

@@ -19,7 +19,7 @@ title: PER y EV/EBITDA
 url: /2012/09/19/per-y-evebitda/
 ---
 
-Muchos portales financieros incluyen información sobre uno de los llamados múltiplos (asociados a empresas que cotizan en bolsa), el [PER](http://es.wikipedia.org/wiki/Price_to_Earnings_Ratio). Es fácil de calcular a partir de información pública más o menos fiable y se usa en la práctica para estimar muy a groso modo si determinadas empresas (o mercados) están o no sobrepreciadas.
+Muchos portales financieros incluyen información sobre uno de los llamados múltiplos (asociados a empresas que cotizan en bolsa), el [PER](http://es.wikipedia.org/wiki/Price_to_Earnings_Ratio). Es fácil de calcular a partir de información pública más o menos fiable y se usa en la práctica para estimar muy _grosso modo_ si determinadas empresas (o mercados) están o no sobrepreciadas.
 
 El PER es el cociente entre la capitalización bursátil de una empresa (que es público y se actualiza segundo a segundo) y su beneficio, que se conoce con cierta regularidad. Tiene sus ventajas —como la señalada más arriba— y desventajas —por ejemplo, que está influido por el desempeño pasado, los beneficios de ejercicios anteriores, cuando a un inversor le interesa más el desempeño futuro—.
 

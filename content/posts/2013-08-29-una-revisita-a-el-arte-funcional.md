@@ -29,7 +29,7 @@ Hice una crítica sobre una de las secciones del libro:
 >
 > Al final, si unas determinadas combinaciones de colores funcionan o dejan de hacerlo, si los datos se leen correctamente si se los representa como longitudes, áreas o volúmenes, depende de las peculiaridades del proceso de cognición. Y por eso acierta Cairo en estudiarlo con detalle.
 >
-> Pero no acaba de extraerle todo el jugo a esta sección. Un planteamiento más próximo a la obra de de D. Kahneman y A. Tversky que nos advirtiese de los peligros perceptuales más gruesos y nos diese recomendaciones para sortearlos habría cerrado la sección con gloria.
+> Pero no acaba de extraerle todo el jugo a esta sección. Un planteamiento más próximo a la obra de D. Kahneman y A. Tversky que nos advirtiese de los peligros perceptuales más gruesos y nos diese recomendaciones para sortearlos habría cerrado la sección con gloria.
 
 Menciono en la crítica a Kahneman y Tversky y, en particular, en su relación con los sesgos cognitivos. Al fin y al cabo, un infografista (y, en general, todo aquel que utiliza gráficos para ilustrar y explicar información de corte cuantitivo) debe tener en cuenta que esos sesgos existen y cómo debería actuar para evitarlos (¡o cómo aprovecharse de ellos para llevar el agua al molino de quien le paga!).
 

@@ -46,7 +46,7 @@ Mucho de lo que trata el estudio de la causalidad en estadística, en el fondo, 
 
 ![](/wp-uploads/2025/puzzling_anatomy.svg#center)
 
-con modelos parciales que, por algún motivo, ignoran parte de la estructura generadora de los datos. Dicho de otra manera, cuando el modelo es manifiestamente incorrecto. El el caso anterior, por ejemplo, estudiando la regresión lineal $y \sim x_1$. Existe una solución evidente a todas estas discusiones bizantinas, reiterativas e irrelevantes:
+con modelos parciales que, por algún motivo, ignoran parte de la estructura generadora de los datos. Dicho de otra manera, cuando el modelo es manifiestamente incorrecto. El caso anterior, por ejemplo, estudiando la regresión lineal $y \sim x_1$. Existe una solución evidente a todas estas discusiones bizantinas, reiterativas e irrelevantes:
 - Abandonar los modelos triviales (como la regresión lineal).
 - Modelizar adecuadamente la estructura generadora de datos tal cual es.
 

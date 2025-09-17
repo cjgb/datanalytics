@@ -19,7 +19,7 @@ title: 'El paquete reshape de R (I): melt'
 url: /2011/09/07/el-paquete-reshape-de-r-i-melt/
 ---
 
-El [paquete _reshape_ de R](http://had.co.nz/reshape/) consta esencialmente de dos funciones, `melt` y `cast`, muy útiles para determinado tipo de transformaciones de de datos.
+El [paquete _reshape_ de R](http://had.co.nz/reshape/) consta esencialmente de dos funciones, `melt` y `cast`, muy útiles para determinado tipo de transformaciones de datos.
 
 La función `melt` se describe sucintamente con el siguiente gráfico:
 

@@ -42,7 +42,7 @@ Estos son:
 * la homogeneidad: que la medida de desigualdad sea invariante frente a multiplicaciones (y que no varíe, por ejemplo, si el gobierno decide quitarle dos ceros a la moneda, que es lo mismo que multiplicar los ingresos nominales por 0.01).
 * la [condición de Pigou-Dalton](http://en.wikipedia.org/wiki/Hugh_Dalton), según la cual una transferencia de dinero de una persona rica a una pobre, siempre que esta transferencia no altere su posición relativa en la escala de la riqueza, hace disminuir el indicador de desigualdad.
 
-Por cumplir todas esas propiedades deseables, el [Banco Mundial está proponiendo el uso de la desviación logarítmica media](http://blogs.worldbank.org/developmenttalk/monitoring-inequality?cid=EXT_TWBN_D_EXT). En el enlace anterior pueden verse una serie de resultados aplicados a diversas regiones junto con un estudio de la evolución tanto de la desigualdad globlal como la intrarregional e interregional.
+Por cumplir todas esas propiedades deseables, el [Banco Mundial está proponiendo el uso de la desviación logarítmica media](http://blogs.worldbank.org/developmenttalk/monitoring-inequality?cid=EXT_TWBN_D_EXT). En el enlace anterior pueden verse una serie de resultados aplicados a diversas regiones junto con un estudio de la evolución tanto de la desigualdad global como la intrarregional e interregional.
 
 Desde un punto de vista matemático, la desviación logarítmica media no es sino el logaritmo de la media de los ingresos menos la media de los logaritmos de los ingresos, es decir,
 
