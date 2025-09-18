@@ -32,4 +32,4 @@ Y mis comentarios:
 
 * Para el 99% de mis problemas de manipulación de datos, me sobra con, además de R base, `reshape2` y `plyr`.
 * Para datos más grandes, me decanto por `data.table`. En gran medida, porque es previo a `dplyr`.
-* No obstante, tengo la sensación de que `dplyr` acabará llevándose el gato al agua: tengo suficientes años como para haber presenciado sin que me las cuenten batallas anteriores: Beta vs VHS, Wordperfect vs Word, etc.
+* No obstante, tengo la sensación de que `dplyr` acabará llevándose el gato al agua: tengo suficientes años como para haber presenciado sin que me las cuenten batallas anteriores: Beta vs VHS, WordPerfect vs Word, etc.

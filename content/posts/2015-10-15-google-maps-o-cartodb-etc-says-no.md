@@ -33,6 +33,6 @@ El otro día (véase [esto](https://datanalytics.com/2015/10/13/que-primitivos-e
 
 Se trata de un mapa de Gran Bretaña de alrededor de 1250 realizado por un tal Matthew Paris. Tiene una particularidad: cuenta E. Tufte que en un borde el autor indica que la isla debería ser más alargada, pero que, de respetar las proporciones, no le habría cabido el mapa en el pergamino. Y a la gente le hace gracia.
 
-Pero [cuando el periodista de turno utiliza un mapa de GoogleMaps, CartoDB o similares](http://cadenaser.com/ser/2014/06/25/economia/1403653151_850215.html) para _pintar_ la distribución de algo (paro, mortalidad, etc.) por p.e., provincias y recorta las Canarias o convierte en invisibles a Ceuta y Melilla (por no afinar más)... la excusa es la misma que la de Matthew 750 años ha: el neopergamino no da de sí.
+Pero [cuando el periodista de turno utiliza un mapa de Google Maps, CartoDB o similares](http://cadenaser.com/ser/2014/06/25/economia/1403653151_850215.html) para _pintar_ la distribución de algo (paro, mortalidad, etc.) por p.e., provincias y recorta las Canarias o convierte en invisibles a Ceuta y Melilla (por no afinar más)... la excusa es la misma que la de Matthew 750 años ha: el neopergamino no da de sí.
 
 Nada nuevo bajo el sol.
