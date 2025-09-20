@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2025-09-02
-description: tba
+description: "Reflexión crítica sobre la era de los metaanálisis, los debates del salario mínimo, la fiabilidad de las estadísticas públicas y el papel del INE en la comunicación de datos. Entre ciencia, ruido y política, ¿qué pesa más?"
 lastmod: '2025-09-20T13:22:01.606296'
 related:
 - 2010-03-21-la-varianza-y-cifras-macroeconomicas.md
@@ -18,11 +18,11 @@ tags:
 - estadística pública
 - pib
 - ine
-title: Cortos - estadística - 2025-09-02
+title: "Un par de notas: metaanálisis y estadística pública"
 url: /2025/09/02/cortos-estadistica/
 ---
 
-Hubo un tiempo en el que para poder señalar que se hablaba _ciencia en mano_ había que citar RCTs. Pero los RCTs acabaron adocenándose y ahora estamos en la era de los meaanálisis. Pero algunos ---¿cuántos?---, [como nos advierte DataColada](https://datacolada.org/127), son una especie de albóndiga ---tan esférica ella--- fabricada con carne picada de muy heterogénea procedencia.
+Hubo un tiempo en el que para poder señalar que se hablaba _ciencia en mano_ había que citar RCTs. Pero los RCTs acabaron adocenándose y ahora estamos en la era de los metaanálisis. Pero algunos ---¿cuántos?---, [como nos advierte DataColada](https://datacolada.org/127), son una especie de albóndiga ---tan esférica ella--- fabricada con carne picada de muy heterogénea procedencia.
 
 Los siguientes metaanálisis sobre lo del impacto del salario mínimo en nosequé cosas querrán incluir cuarto y mitad de [esto](https://www.nber.org/papers/w34033). A todo esto: ¿qué llegará antes, la conclusión sobre lo del salario mínimo o las centrales eléctricas de fusión nuclear?
 
