@@ -22,7 +22,7 @@ url: /2010/02/27/creando-paquetes-con-r-r-forge/
 
 Hace poco no asistí a una conferencia del profesor [Campo Elías Pardo](http://www.docentes.unal.edu.co/cepardot/) en la Universidad Nacional de Colombia sobre la creación de paquetes de R. Me pesó no poder asistir porque sospeché primero y corroboré después que se había obviado en ella una herramienta muy útil para la creación de paquetes con R: la _[forja oficial](http://r-forge.r-project.org/)_.
 
-La conferencia trataba esencialmente sobre cómo crear paquetes bajo Windows. Windows es un sistema operativo del que sé poco y siempre me han parecido excesivamente arcanos los liturgias y herramientas necesarias para compilar los paquetes. Especialmente cuando uno cuenta con Linux. Pero ésa es otra historia.
+La conferencia trataba esencialmente sobre cómo crear paquetes bajo Windows. Windows es un sistema operativo del que sé poco y siempre me han parecido excesivamente arcanas las liturgias y herramientas necesarias para compilar los paquetes. Especialmente cuando uno cuenta con Linux. Pero ésa es otra historia.
 
 ¿Por qué es conveniente utilizar r-forge? Por infinidad de motivos de entre los cuales:
 

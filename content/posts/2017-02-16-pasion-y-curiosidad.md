@@ -17,7 +17,7 @@ url: /2017/02/16/pasion-y-curiosidad/
 
 En mi [charla del viernes pasado](https://datanalytics.com/2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/), alguien me preguntó si seguía teniendo la pasión con la que se conoce participé en [aquella competición de ciencia de datos que glosé](https://datanalytics.com/2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-de-mineria-de-datos/).
 
-Estuve a punto de responder que a los 42 uno está un poco más allá de la pasión y un poco más acá de la colonoscopia. Aunque, lo reconozco, más que porque es una repuesta graciosa que porque refleje verdad alguna.
+Estuve a punto de responder que a los 42 uno está un poco más allá de la pasión y un poco más acá de la colonoscopia. Aunque, lo reconozco, más que porque es una respuesta graciosa que porque refleje verdad alguna.
 
 Lo que sí que es cierto es que he estado meditando sobre si la pregunta era oportuna o no. A ratos he pensado que no, que fue tramposa. Pero ahora me decanto por considerarla legítima y merecedora, cuando menos, de una respuesta más desarrollada.
 

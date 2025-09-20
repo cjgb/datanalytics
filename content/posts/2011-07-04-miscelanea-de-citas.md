@@ -40,7 +40,7 @@ Creo que tengo que pedirle excusas a [Sam Savage](https://datanalytics.com/2011/
 >
 > —Edward Tufte
 
->Es preferible una respuesta aproximada a la pregunta correcta, que usualmente es vaga, que la repuesta exacta a la pregunta equivocada, aunque sea precisa.
+>Es preferible una respuesta aproximada a la pregunta correcta, que usualmente es vaga, que la respuesta exacta a la pregunta equivocada, aunque sea precisa.
 >
 > —John W. Tukey
 

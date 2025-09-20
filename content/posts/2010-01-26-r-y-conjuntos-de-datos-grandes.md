@@ -17,7 +17,7 @@ title: R y conjuntos de datos "grandes"
 url: /2010/01/26/r-y-conjuntos-de-datos-grandes/
 ---
 
-Leer datos _grandes_ con R produce inmensos quebraderos de cabeza. Existen dos soluciones extra-R: filtrar los datos cuanto antes y comprar más RAM. Desde R existen trucos y alternativas y hace un tiempo, aunque sin aspiraciones de exhaustividad, quise explorar algunas.
+Leer datos _grandes_ con R produce inmensos quebraderos de cabeza. Existen dos soluciones extra-R: filtrar los datos cuanto antes y comprar más RAM. Pero en R existen trucos y alternativas. Hace un tiempo, aunque sin aspiraciones de exhaustividad, quise explorar algunas.
 
 De ahí surgió una entrada que realicé hace un tiempo, en mi antiguo [blog](http://analisisydecision.es). Publiqué _[Tres fracasos y medio con R](http://analisisydecision.es/tres-fracasos-y-medio-con-r/)_ mientras esperaba a un amigo. En él presenté varias opciones para trabajar y operar con datos grandes. Fracasé tres veces y media. Una de ellas, la del fracaso que sólo fue medio, utilizaba mi paquete, [colbycol](http://cran.r-project.org/web/packages/colbycol/index.html).
 

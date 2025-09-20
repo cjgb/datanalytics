@@ -40,7 +40,7 @@ O, alternativamente,
 
 De hecho, lo que nos dice el BdE a modo de Yahvé omnisciente de todo menos de las propiedades elementales de los estimadores estadísticos, es que si el trimestre pasado produjimos 1.000, en éste hemos producido 1.001. No 998; no 1.002; por supuesto, no 995 sino exacta y redondamente 1.001. ¡Magnífica la precisión del BdE! Si uno de cada cuatro años (1000 días laborables) uno falta al trabajo, ahí está el BdE con la libreta tomando nota; si alguien roba uno de cada 1.000 cedés del FNAC, el BdE se da cuenta; si uno mira a las musarañas una hora al cabo de 5 meses (1.000 horas de trabajo), no lo sabrá tu jefe, pero sí que corregirá el BdE sus estadísticas a la baja para poder ilustrarnos en su informe trimestral.
 
-Pero aún hay más (más motivos para la incertidumbre, vamos). El PIB se puede calcular bajo tres perspectivas disintas:
+Pero aún hay más (más motivos para la incertidumbre, vamos). El PIB se puede calcular bajo tres perspectivas distintas:
 
 
 * La del **valor agregado** de todos los negocios (agrícolas, industriales, servicios), es decir, sumando el valor de lo producido por todos ellos menos el coste de sus _inputs_.
