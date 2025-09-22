@@ -4,7 +4,7 @@ categories:
 - anuncio
 - charlas
 date: 2019-12-16 09:13:00+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:53:28.511546'
 related:
 - 2020-01-08-rebanos-de-modelos-el-resumen.md
@@ -23,12 +23,12 @@ title: Charla en el CodingClub de la UC3M este martes
 url: /2019/12/16/charla-en-el-codingclub-de-la-uc3m-este-martes/
 ---
 
-Este martes 17 de diciembre hablaré durante una hora sobre (cierto tipo de) _big data_ y modelos adecuados para modelizarlos en el [CodingClub de la Universidad Carlos III](https://codingclubuc3m.rbind.io/).
+Este martes 17 de diciembre hablaré durante una hora sobre (cierto tipo de) _big data_ y modelos adecuados para modelarlos en el [CodingClub de la Universidad Carlos III](https://codingclubuc3m.rbind.io/).
 
 ![](/wp-uploads/2019/12/anuncio_charla_coding_club_uc3m.png#center)
 
 * El contenido de la charla, entiendo, se publicará también después en el blog del CodingClub.
 * Los detalles (sitio, hora, etc.) están en el enlace indicado más arriba.
-* Obviamente, agradezco a los organizadores del CodingClub por haberme invitado. Espero no estar arrepentido el martes por la tarde de lo siguiente: es el ciclo de charlas sobre _cosas relacionadas con datos_ más seria y mejor organizada que conozco.
+* Obviamente, agradezco a los organizadores del CodingClub por haberme invitado. Es, además, el ciclo de charlas sobre _cosas relacionadas con datos_ más serio y mejor organizado que conozco.
 
 Y con eso, prácticamente, cierro el 2019 para casi todos los efectos. En 2020, más.
