@@ -25,7 +25,7 @@ El artículo de SAS utiliza como materia prima resúmenes de publicaciones cient
 
 En defintiva, algo no muy distinto del famoso [PageRank](http://es.wikipedia.org/wiki/PageRank) de Google: una página tiene un peso que se calcula ponderando el peso de las páginas que apuntan a ella mediante un algoritmo que, al menos a primera vista, parece recursivo.
 
-En esta entrada voy a describir la primera fase de mi pequeño experimento. Éste consiste en asignar pesos a los distintos paquetes de R en función de su _importancia_ en la lista de correo [r-help](https://stat.ethz.ch/mailman/listinfo/r-help). En la primera fase he asignado a los participantes en dicho foro un peso que mide su _nivel de impacto_. He aquí cómo:
+En esta entrada voy a describir la primera fase de mi pequeño experimento. Este consiste en asignar pesos a los distintos paquetes de R en función de su _importancia_ en la lista de correo [r-help](https://stat.ethz.ch/mailman/listinfo/r-help). En la primera fase he asignado a los participantes en dicho foro un peso que mide su _nivel de impacto_. He aquí cómo:
 
 
 ### Descarga del histórico de correos de r-help

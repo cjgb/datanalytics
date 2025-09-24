@@ -19,7 +19,7 @@ title: Y yo que pensaba que lo de Will Smith y SAS era una leyenda urbana...
 url: /2010/04/25/y-yo-que-pensaba-que-lo-de-will-smith-y-sas-era-una-leyenda-urbana/
 ---
 
-Durante un tiempo, pensé que esa historia que circulaba por ahí sobre [Will Smith](http://es.wikipedia.org/wiki/Will_Smith) y SAS era un bulo. Contaban (y nunca me creí del todo) que al principio de la carrera cinematográfica del actor, éste había encargado un estudio para determinar qué tipo de guiones debía aceptar para hacer la mayor cantidad de dinero posible. Que se habían tomado unas cuantas películas muy exitosas, se habían metido en la batidora de SAS y que éste le había proporcionado las pistas para hacer de un _rapero_ de poca monta una estrella de Hollywood.
+Durante un tiempo, pensé que esa historia que circulaba por ahí sobre [Will Smith](http://es.wikipedia.org/wiki/Will_Smith) y SAS era un bulo. Contaban (y nunca me creí del todo) que al principio de la carrera cinematográfica del actor, este había encargado un estudio para determinar qué tipo de guiones debía aceptar para hacer la mayor cantidad de dinero posible. Que se habían tomado unas cuantas películas muy exitosas, se habían metido en la batidora de SAS y que este le había proporcionado las pistas para hacer de un _rapero_ de poca monta una estrella de Hollywood.
 
 Y [resulta que es cierto](http://blogs.sas.com/cokins/index.php?/archives/160-A-Hollywood-Celebritys-Use-of-Analytics.html), tú. Lo más chistoso, además, está en los detalles, que son cosa de no perderse:
 

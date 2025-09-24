@@ -22,7 +22,7 @@ url: /2011/05/26/el-problema-de-la-media-el-problema-con-la-media/
 
 Debiera comenzar asumiendo y reconociendo mis deficiencias pedagógicas a la hora de elegir y presentar el [problema sobre la media de la semana pasada](https://datanalytics.com/2011/05/20/problema-de-la-semana-sobre-la-media/). Espero que quienes hicieron comentarios al respecto —y quienes los pensaron sin escribirlos— no reciban esta entrada con el "buuuuu" que tal vez merezco.
 
-El problema _de_ la media es más bien un problema _con_ la media. No es en él tan interesante _la_ solución —y nadie debería pensar que en estas páginas planteamos problemas rancios como aquéllos sobre cuadernos, lapiceros y pesetas con que entretuvimos alguna tarde de la infancia— como su discusión.
+El problema _de_ la media es más bien un problema _con_ la media. No es en él tan interesante _la_ solución —y nadie debería pensar que en estas páginas planteamos problemas rancios como aquellos sobre cuadernos, lapiceros y pesetas con que entretuvimos alguna tarde de la infancia— como su discusión.
 
 En la práctica, el beneficio por barril sería superior a los 25 dólares que podría calcular una vieja usando su proverbial cuenta. Y es porque quien posee un pozo de petróleo —así como quien opera una central eléctrica o, incluso, vende baratijas en la playa— tiene la opción de ajustar en mayor o menor medida la producción a los precios ejercitando sus llamadas [opciones reales](http://en.wikipedia.org/wiki/Real_options_valuation), similares a sus homólogas en el ámbito financiero. Y la opción encierra un valor, como todo derecho exento de obligaciones.
 

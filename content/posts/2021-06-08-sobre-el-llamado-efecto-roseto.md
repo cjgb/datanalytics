@@ -28,7 +28,7 @@ Escribí ya hace tiempo ([aquí](https://datanalytics.com/2018/09/11/la-falacia-
 
 En la entrada se desarrolla el asunto. Pero es obvio que:
 
-> Si un fenómeno se distribuye más o menos _al azar_ sobre un territorio pueden aparecer (y, de hecho, es muy improbable que no aparezcan) lugares pequeños con una proporción o inesperadamente alta o inesperadamente baja de casos.  * Si quieres estudiar una relación con respecto a cualquier posible causa potencial (tal vez, al estilo de John Snow en la afamada epidemia de Londres), deberías realizar un estudio de zonas donde se dé la causa con zonas donde no. No se puede razonar alrededor de un caso.
+> Si un fenómeno se distribuye más o menos _al azar_ sobre un territorio pueden aparecer (y, de hecho, es muy improbable que no aparezcan) lugares pequeños con una proporción o inesperadamente alta o inesperadamente baja de casos. * Si quieres estudiar una relación con respecto a cualquier posible causa potencial (tal vez, al estilo de John Snow en la afamada epidemia de Londres), deberías realizar un estudio de zonas donde se dé la causa con zonas donde no. No se puede razonar alrededor de un caso.
 
 Pero ahora tropiezo con otro ejemplo egregio de una relación causal casi seguro espuria: el llamado [efecto Roseto](https://en.wikipedia.org/wiki/Roseto_effect). Es el mismo caso de la antena, salvo que, esta vez:
 

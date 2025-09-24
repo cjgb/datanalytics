@@ -47,7 +47,7 @@ se puede despejar
 $$ x = \frac{wb - (n - w)}{nb}, $$
 
 
-que sería la proporción _óptima_. Nótese que uno querría fijar $latex x$ de antemano, pero éste sólo se conoce después de participar en el juego y contar el número de éxitos. No obstante,
+que sería la proporción _óptima_. Nótese que uno querría fijar $latex x$ de antemano, pero este sólo se conoce después de participar en el juego y contar el número de éxitos. No obstante,
 
 
 $$x=\frac{wb-(n-w)}{nb}=\frac{bw/n-(1-w/n)}{b}$$
@@ -66,7 +66,7 @@ Tomando la esperanza de $latex f(x)$ —que consiste en reemplazar $latex w$ por
 
 
 * Es raro que un _inversor_ quiera maximizar la esperanza del logaritmo
-* De hecho, de acuerdo con el [CAPM](http://es.wikipedia.org/wiki/Capital_Asset_Pricing_Model), un inversor debe considerar dos parámetros simultáneamente: rentabilidad (típicamente, la media de las ganancias) y riesgo (o su varianza o alguna otra medida más robusta de la dispersión). Sin embargo, el criterio de Kelly no tiene en cuenta éste último.
+* De hecho, de acuerdo con el [CAPM](http://es.wikipedia.org/wiki/Capital_Asset_Pricing_Model), un inversor debe considerar dos parámetros simultáneamente: rentabilidad (típicamente, la media de las ganancias) y riesgo (o su varianza o alguna otra medida más robusta de la dispersión). Sin embargo, el criterio de Kelly no tiene en cuenta este último.
 
 En efecto, en la deducción que hemos hecho más arriba de la apuesta óptima, hemos supuesto conocida la historia de resultados del juego (se ganaba $latex w$ de las $latex n$ veces), pero $latex w$ es una variable aleatoria con distribución binomial y no en todos los casos la proporción de éxitos va a ser $latex p$: típicamente, será mayor o menor. Pero de obtener $latex i$ éxitos por debajo de lo esperado, el resultado final sufre un recorte de $latex (1-x)^i$ que puede resultar muy sustancial si $latex x $ es cercano a 1.
 

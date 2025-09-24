@@ -219,4 +219,4 @@ La respuesta, también correcta, aunque con varias idas y venidas, es más entre
 >
 > Final Answer
 >
-> [ \boxed{2} ]
+> [\boxed{2}]

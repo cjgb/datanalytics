@@ -37,7 +37,7 @@ El grupo es muy heterogéneo. Desde usuarios que saben mucho al que viene por cu
 
 _¿Cuál es la cosa más curiosa, útil o provechosa que has aprendido en alguna de las reuniones?_
 
-Me gustó mucho la presentación de Aleix sobre _Reference Classes_. Sabía que existían pero nunca me había puesto a mirarlo a fondo, tampoco había mucha documentación porque son relativamente nuevas. Como él las usa día a día, fue una introducción mucho más amena que buscando por Internet. También me gustó ver como funcionaba Emacs porque había leído que mucha gente lo usaba.
+Me gustó mucho la presentación de Aleix sobre _Reference Classes_. Sabía que existían pero nunca me había puesto a mirarlo a fondo, tampoco había mucha documentación porque son relativamente nuevas. Como él las usa día a día, fue una introducción mucho más amena que buscando por Internet. También me gustó ver cóGmo funcionaba Emacs porque había leído que mucha gente lo usaba.
 
 _¿Qué consejos podéis dar a quienes proyecten organizar grupos similares en otros lugares?_
 

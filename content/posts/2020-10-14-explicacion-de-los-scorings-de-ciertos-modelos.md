@@ -28,7 +28,7 @@ Esta entrada la hago por petición popular y para rematar de alguna manera lo qu
 2. Veo cuáles son los árboles que les asignan _scorings_ más altos.
 3. Anoto las variables implicadas en las ramas por donde bajan las observaciones (1) en los árboles (2).
 4. Creo una matriz positiva: filas = casos, columnas = variables, valores = conteos.
-5. Y la descompongo (vía [NMF](https://datanalytics.com/2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/)).  6. Etc.
+5. Y la descompongo (vía [NMF](https://datanalytics.com/2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/)). 6. Etc.
 
 Es hasta paquetizable.
 

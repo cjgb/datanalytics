@@ -39,7 +39,7 @@ Una sesión típica de desarrollo usando subversion consiste en:
 {{< highlight bash >}}
     cd /my/svn/directory      # en este ejemplo, el directorio pxr
     svn update                # baja los cambios realizados por terceros
-    ...                       # creas ficheros, editas, ¡trabajas!
+    ...                      # creas ficheros, editas, ¡trabajas!
     svn status                # muestra los ficheros que han cambiado,
                               # se han creado, etc.
     svn add /files/to/add     # si has creado ficheros nuevos

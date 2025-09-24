@@ -57,7 +57,7 @@ Véanse las fotos adjuntas:
 >
 >Se informa que este servicio de inspección cuando detecta que algún vecino o comerciante incumple con la Ordenanza de Limpieza de los Espacios Públicos y Gestión de Residuos, levanta acta, iniciándose si procede, expediente sancionador, además de informar a todos los comercios de la zona en reiteradas ocasiones.
 >
->Es cierto que algunos comercios depositan su cartonaje en este punto aunque el camión de peinado retira estos residuos hasta 6 veces de lunes a viernes y los sábados 3 veces en turno de mañana.  Este servicio lleva implantado desde el 2005, se trata de un servicio especifico para la retirada del cartón de los comercios al por mayor.
+>Es cierto que algunos comercios depositan su cartonaje en este punto aunque el camión de peinado retira estos residuos hasta 6 veces de lunes a viernes y los sábados 3 veces en turno de mañana. Este servicio lleva implantado desde el 2005, se trata de un servicio especifico para la retirada del cartón de los comercios al por mayor.
 >
 >La mayor acumulación de residuos tiene lugar los festivos con la presencia del Rastro que se limpia una vez finalizado.
 >

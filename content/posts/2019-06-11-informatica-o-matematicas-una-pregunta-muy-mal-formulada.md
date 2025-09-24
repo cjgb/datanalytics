@@ -44,7 +44,7 @@ Y si eres un chaval que está en bachillerato y planteándose qué estudiar para
 ¿Cómo mantener tus opciones abiertas? Pues hay varios mecanismos básicos. Por ejemplo:
 
 * Aprende a programar. Independientemente de lo que estudies. Aunque sea derecho. Y, no, no pretendo decir que aprendas informática. No te va a hacer falta conocer los fundamentos de los procesadores, ni programar un compilador. Deja los parches del _kernel_ de Linux para otros. Nunca te van a pedir que implementes la pila TCP/IP de un nuevo sistema operativo. Déjale eso a los informáticos de verdad. Lee código ajeno. Consulta el código fuente de las funciones que utilices. Ama los _logs_.
-* Aprende a escribir, a expresarte. Para eso, escribe. En inglés, también.  * Rehuye la hiperespecialización. Ten la mente abierta, absorbe conocimiento y que nunca te preocupen cuántos ángeles pueden posarse en la punta de un alfiler.
+* Aprende a escribir, a expresarte. Para eso, escribe. En inglés, también. * Rehuye la hiperespecialización. Ten la mente abierta, absorbe conocimiento y que nunca te preocupen cuántos ángeles pueden posarse en la punta de un alfiler.
 * Léelo todo. Cubre los primeros cursos de todo. Lee lo bueno. Lee lo malo.
 * Cuando acabes de estudiar, plantéate entrar a una consultora de las que pican carne de novato (Accenture o similares). Eso te expondrá a distintos negocios, distintas maneras de hacer las cosas, distintos puntos de vista, a todo lo que tiene que ver con incentivos y las excepciones a todas las reglas generales en que consiste la educación formal. Trabajarás lo que deberías trabajar haciendo un máster. Dormirás igual de poco que deberías dormir si hicieses un máster en condiciones. Pero te pagarán por ello y aprenderás más.
 

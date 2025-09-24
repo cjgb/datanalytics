@@ -18,7 +18,7 @@ title: Madre Teresa, patriotas, idiotas... y queries recursivas
 url: /2010/03/11/madre-teresa-patriotas-idiotas-y-queries-recursivas/
 ---
 
-No es éste foro para opinar sobre si nos interesa la Madre Teresa o si los patriotas son idiotas, pero sí para mostrar nuestro desacuerdo con la [canción](http://www.youtube.com/watch?v=f2gtfJQ7YK0) (por abreviar, acá está [su letra](http://www.coveralia.com/letras/cara-al-culo-la-polla-records.php)) y dejar claro que las jerarquías no son una porquería. Si no que se lo digan a un indirecto cliente mío que consume lo que no nos devuelve a los accionistas como dividendo en pagar hordas de consultores poco avisados de lo que acá cuento. Y lo cuento y dejo públicamente escrito para que tengan todavía menos excusa.
+No es este foro para opinar sobre si nos interesa la Madre Teresa o si los patriotas son idiotas, pero sí para mostrar nuestro desacuerdo con la [canción](http://www.youtube.com/watch?v=f2gtfJQ7YK0) (por abreviar, acá está [su letra](http://www.coveralia.com/letras/cara-al-culo-la-polla-records.php)) y dejar claro que las jerarquías no son una porquería. Si no, que se lo digan a un indirecto cliente mío que consume lo que no nos devuelve a los accionistas como dividendo en pagar hordas de consultores poco avisados de lo que acá cuento. Y lo cuento y dejo públicamente escrito para que tengan todavía menos excusa.
 
 El tema que sigue a tan críptico introito es el de las _queries_ recursivas, que forman parte de SQL ANSI desde la revisión de 1999. Para ilustrar lo que cuento usaré [PostgreSQL](http://www.postgresql.org/) 8.4, que es la primera versión que las implementa.
 
@@ -53,9 +53,9 @@ Si `with` se acompaña de `recursive`, la tabla que se define fuera del parénte
 
 Modificando la _query_ anterior se puede construir, por ejemplo, el otro ejemplo paradigmático de la recursividad: la [sucesión de Fibonacci](http://es.wikipedia.org/wiki/Sucesion_de_Fibonacci). Pero [ya lo ha hecho alguien por mí](http://www.storytotell.org/blog/2009/08/12/fibonacci-in-postgresql.html).
 
-Información sobre cuestiones relativas a cómo ejecuta PostgreSQL este tipo de _quieries_ puede obtenerse de [aquí](http://archives.postgresql.org/pgsql-hackers/2008-02/msg00642.php).
+Información sobre cuestiones relativas a cómo ejecuta PostgreSQL este tipo de _queries_ puede obtenerse de [aquí](http://archives.postgresql.org/pgsql-hackers/2008-02/msg00642.php).
 
-Y, retomando el tema con el que se encabezaba esta entrada, indicaré que el uso principal de _queries_ recursivas en la práctica es el de _desenvolver_ tablas que implementan jerarquías. Imagínese el caso de las piezas de un determinado modelo de avión. Este avión, nivel más alto de la jerarquía, consta de varias partes (fuselaje,...) que respresentarían el segundo nivel más alto. Y así sucesivamente hasta llegar hasta la más humilde arandela. Asignando un determinado código a cada uno de los miembros de la jerarquía, la relación _es parte de_ puede implementarse mediante una tabla de la forma:
+Y, retomando el tema con el que se encabezaba esta entrada, indicaré que el uso principal de _queries_ recursivas en la práctica es el de _desenvolver_ tablas que implementan jerarquías. Imagínese el caso de las piezas de un determinado modelo de avión. Este avión, nivel más alto de la jerarquía, consta de varias partes (fuselaje,...) que representarían el segundo nivel más alto. Y así sucesivamente hasta llegar hasta la más humilde arandela. Asignando un determinado código a cada uno de los miembros de la jerarquía, la relación _es parte de_ puede implementarse mediante una tabla de la forma:
 
 |  cod_padre  | cod_hijo |
 |:------------| :--------|
@@ -87,6 +87,6 @@ select *
 from tmp;
 {{< / highlight >}}
 
-asocia a cada elemento de la jerarquía todos los elmentos de nivel superior a los que pertenece a partir de la tabla de padres inmediatos.
+asocia a cada elemento de la jerarquía todos los elementos de nivel superior a los que pertenece a partir de la tabla de padres inmediatos.
 
 Otro día volveré para contar cómo hacer para calcular la mediana de una columna numérica con Postgres. A no ser que alguien averigüe antes cómo hacerlo con Oracle, en cuyo caso calcularía [medias _winsorizadas_](http://en.wikipedia.org/wiki/Winsorized_mean) o cualquier otra que lo deje en evidencia.

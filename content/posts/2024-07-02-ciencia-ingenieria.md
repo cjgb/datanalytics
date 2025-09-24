@@ -19,7 +19,7 @@ title: Una lectura muy esclarecedora sobre la prelación entre ciencia e ingenie
 url: /2024/07/02/prelacion-ciencia-ingenieria/
 ---
 
-Hay gente que discute a veces sobre cuál es el carro y cuál es el burro en el binomio ciencia-ingeniería. Mi opinión al respecto es irrelevante porque no va a cambiar nunca nada en ninguna parte. Pero aquél que quiera asentar la suya, debería leer con atención y desde esa perspectiva [_Will We Ever Get Fusion Power?_](https://www.construction-physics.com/p/will-we-ever-get-fusion-power).
+Hay gente que discute a veces sobre cuál es el carro y cuál es el burro en el binomio ciencia-ingeniería. Mi opinión al respecto es irrelevante porque no va a cambiar nunca nada en ninguna parte. Pero aquel que quiera asentar la suya, debería leer con atención y desde esa perspectiva [_Will We Ever Get Fusion Power?_](https://www.construction-physics.com/p/will-we-ever-get-fusion-power).
 
 Lectura de la que extraigo (y, por el camino, traduzco):
 

@@ -51,7 +51,7 @@ Si llamamos (**a**,**b**) al operador que cruza las tablas **a** y **b**, entonc
 * (**A**,**b**) es una tabla inmensísima, mucho mayor que **A**
 * (**b**,**c**) es una tabla mucho menor que **b**
 
-Es evidente que el plan de ejecución adecuado es (A, (**b**,**c**)), y no ( (**A**,**b**),**c**). Pero éste último es en el que se empeñaba el cretino del optimizador de Teradata independientemente del orden en que se escribiesen los cruces o el número de paréntesis en que se quisiese encerrar el cruce (**b**,**c**).
+Es evidente que el plan de ejecución adecuado es (A, (**b**,**c**)), y no ( (**A**,**b**),**c**). Pero este último es en el que se empeñaba el cretino del optimizador de Teradata independientemente del orden en que se escribiesen los cruces o el número de paréntesis en que se quisiese encerrar el cruce (**b**,**c**).
 
 Quoi faire?
 

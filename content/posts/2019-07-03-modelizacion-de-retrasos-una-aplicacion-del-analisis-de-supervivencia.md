@@ -36,7 +36,7 @@ Hecho lo cual, ¿cómo estimar el número de casos del día 0 el día, p.e, 5? E
 
 Pues no, no, no, no... ¡no!
 
-Ese modelo trivial es más inestable que el carajo. ¡Imaginad como puede bailar ese estimador cuando $latex x$ es del orden del 1%!
+Ese modelo trivial es más inestable que el carajo. ¡Imaginad cómo puede bailar ese estimador cuando $latex x$ es del orden del 1%!
 
 Es mucho mejor utilizar un suavizado (de inspiración bayesiana). Si $latex m$ es el número medio de notificaciones diarias, es mucho mejor utilizar
 

@@ -26,9 +26,8 @@ KDNuggets ha publicado los resultados de una [encuesta entre usuarios actuales y
 
 Habedlos:
 
-[![](/wp-uploads/2010/09/resultados_encuesta_migracion_sas.png#center)
-](/wp-uploads/2010/09/resultados_encuesta_migracion_sas.png#center)
+![](/wp-uploads/2010/09/resultados_encuesta_migracion_sas.png#center)
 
-¿Cuál será la anomalía de la empresa española que no tengo noticia de ningún ERE a SAS? ¡Con la que está cayendo!
+¿Cuál será la anomalía de la empresa española que no tengo noticia de ningún ERE en SAS? ¡Con la que está cayendo!
 
 **Nota:** he modificado la página de Datanalytics y ahora, en la sección de servicios, dentro del apartado de [consultoría SAS](http://www.datanalytics.com/consultoria_sas.html), detallo específicamente la migración a WPS como uno de ellos. ¡A ver si pronto suena el teléfono!

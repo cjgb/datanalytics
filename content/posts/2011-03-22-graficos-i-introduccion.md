@@ -19,7 +19,7 @@ url: /2011/03/22/graficos-i-introduccion/
 
 De no mediar contratiempos, a lo largo de los próximos cinco o seis martes iré subiendo a mi bitácora una serie de entradas sobre una (sub)disciplina en alza. Se la conoce por diversos nombres de desigual empaque —infografía, _information design_, etc.— pero las ubicaré bajo un epígrafe algo más humilde: gráficos.
 
-Comenzaré citando a Andrew Gelman. En una reciente [entrevista](http://thebrowser.com/interviews/andrew-gelman-on-statistics) (que no tiene desperdicio), éste respondía categóricamente:
+Comenzaré citando a Andrew Gelman. En una reciente [entrevista](http://thebrowser.com/interviews/andrew-gelman-on-statistics) (que no tiene desperdicio), este respondía categóricamente:
 
 
 >Sí, la representación gráfica de unos datos siempre es una estadística.

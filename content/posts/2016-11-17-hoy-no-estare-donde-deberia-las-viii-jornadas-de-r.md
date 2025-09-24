@@ -19,7 +19,7 @@ title: 'Hoy no estaré donde debería: las VIII Jornadas de R'
 url: /2016/11/17/hoy-no-estare-donde-deberia-las-viii-jornadas-de-r/
 ---
 
-A la hora en que salga publicada esta entrada se estarán inaugurando las VIII Jornadas de Usuarios de R, las primeras a las que no asisto. Es por culpa de vaya uno saber qué tipo de microorganismos, que han decidido medir sus fuerzas con la Seguridad Social en algún recoveco de mis vías urinarias, y que me han obligado a cancelar el viaje a última hora.
+A la hora en que salga publicada esta entrada se estarán inaugurando las VIII Jornadas de Usuarios de R, las primeras a las que no asisto. Es por culpa de vaya uno a saber qué tipo de microorganismos, que han decidido medir sus fuerzas con la Seguridad Social en algún recoveco de mis vías urinarias, y que me han obligado a cancelar el viaje a última hora.
 
 Ha sido mi cita obligada del año durante los últimos ocho. Han sido ocasión de momentos memorables y han visto nacer grandes amistades.
 
@@ -29,4 +29,4 @@ Las cosas han cambiado, y cómo, en estos años. ¡Si hasta tenemos a Microsoft 
 
 Pero R es más que una secuencia de ceros y unos, un producto de _software_. Es una comunidad, es gente. Por eso, ha sido una gran satisfacción para mí ver crecer profesionalmente a una generación muy promisoria de nuevos científicos de datos entusiastas de la herramienta.
 
-Cierro en esta noche triste en la que escribo con un recuerdo que lo es aún más para mí: el de Gregorio Serrano, uno de los pioneros y un gran amigo, que ya no está para debatir lo ultimísimo de R, estadística o econometría Ducados en mano.
+Cierro en esta noche triste en la que escribo con un recuerdo que lo es aún más para mí: el de Gregorio Serrano, uno de los pioneros y un gran amigo, que ya no está para debatir lo ultimísimo de R, estadística o econometría, Ducados en mano.

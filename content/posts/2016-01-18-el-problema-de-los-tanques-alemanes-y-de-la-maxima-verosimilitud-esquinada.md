@@ -36,7 +36,7 @@ La [Wikipedia propone dos soluciones](https://en.wikipedia.org/wiki/German_tank_
 
 1. Se supone `N` conocido.
 2. Se calcula el valor medio de `m` para dicho `N`.
-3. Se estima el valor de `N` como aquél que daría una media igual al valor observado, `m`; es la que aparece, de hecho, en rojo en el gráfico anterior.
+3. Se estima el valor de `N` como aquel que daría una media igual al valor observado, `m`; es la que aparece, de hecho, en rojo en el gráfico anterior.
 
 Podría llamarse _método de estimación por máxima media_.
 

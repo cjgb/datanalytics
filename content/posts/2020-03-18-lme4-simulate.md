@@ -23,7 +23,7 @@ url: /2020/03/18/lme4-simulate/
 
 Esta entrada es casi una referencia para mí. Cada vez _tiro_ más de [`lme4`](https://CRAN.R-project.org/package=lme4) en mis modelos y en uno en concreto que tengo entre manos toca simular escenarios. Para lo cual, [`simulate.merMod`](https://www.rdocumentation.org/packages/lme4/versions/1.1-21/topics/simulate.merMod).
 
-Véamoslo en funcionamiento.  Primero, datos (_ANOVA-style_) y el modelo que piden a gritos:
+Véamoslo en funcionamiento. Primero, datos (_ANOVA-style_) y el modelo que piden a gritos:
 
 {{< highlight R >}}
 library(plyr)

@@ -25,7 +25,7 @@ $$ x = \frac{bp-(1-p)}{b}, $$
 
 
 
-cabe preguntarse cuándo es éste mayor que cero. Y lo es cuando
+cabe preguntarse cuándo es este mayor que cero. Y lo es cuando
 
 
 

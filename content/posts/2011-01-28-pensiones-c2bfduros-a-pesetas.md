@@ -33,7 +33,7 @@ El exministro de trabajo Luis Martínez Novalha escrito [un artículo en El Paí
 Sin embargo,
 
 
->La Seguridad Social española le habría proporcionado por 35 años de  cotización en la base máxima la pensión máxima del sistema, esto es,  34.184,50 euros anuales, es decir, 14 pagas de 2.441,50 euros mensuales.  La esposa, a su fallecimiento ingresaría 14 pagas de 1.370,75 euros  mensuales.
+>La Seguridad Social española le habría proporcionado por 35 años de  cotización en la base máxima la pensión máxima del sistema, esto es,  34.184,50 euros anuales, es decir, 14 pagas de 2.441,50 euros mensuales. La esposa, a su fallecimiento ingresaría 14 pagas de 1.370,75 euros  mensuales.
 
 
 Y a mayor abundamiento,

@@ -48,7 +48,7 @@ Llega Frank Harrell y dice que la validación cruzada, a pesar de su popularidad
 
 **Acto 3:**
 
-Tirios y troyanos comienzan a publicar sobre la superioridad de unos y otros (más que por cuestiones de sesgo, por cuestiones de estabilidad, da la impresión).  Los pro-bootstrap publican, por ejemplo, [esto](http://www.fharrell.com/post/split-val/). Los pro validación cruzada, cosas como [esta](http://appliedpredictivemodeling.com/blog/2014/11/27/08ks7leh0zof45zpf5vqe56d1sahb0).
+Tirios y troyanos comienzan a publicar sobre la superioridad de unos y otros (más que por cuestiones de sesgo, por cuestiones de estabilidad, da la impresión). Los pro-bootstrap publican, por ejemplo, [esto](http://www.fharrell.com/post/split-val/). Los pro validación cruzada, cosas como [esta](http://appliedpredictivemodeling.com/blog/2014/11/27/08ks7leh0zof45zpf5vqe56d1sahb0).
 
 **Inconclusión**
 

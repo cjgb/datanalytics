@@ -50,7 +50,7 @@ es decir,
 
 ![anomaly_detection_stl](/wp-uploads/2016/11/anomaly_detection_stl.png#center)
 
-para luego utilizar alguno de esos procedimientos de detección de _outliers_ sobre los residuos, la gráfica de más abajo). Precisamente, [este](http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm).
+para luego utilizar alguno de esos procedimientos de detección de _outliers_ sobre los residuos (la gráfica de más abajo). Precisamente, [este](http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm).
 
 **Nota:** Se me ha olvidado advertir arriba y prominentemente que esta entrada no iba a ser del gusto de quienes por _practitioners_ se tienen. No voy a criticar a nadie por, siempre que no sea en presencia de niños, hacer ostentación del desinterés por conocer el funcionamiento de las cosas. Me parece tan poco propio del ser humano que, a falta de más detalles, me quedaré con la impresión de que lo intentó y no pudo y pasaré a otra cosa.
 

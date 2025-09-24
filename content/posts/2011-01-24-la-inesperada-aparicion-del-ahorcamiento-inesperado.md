@@ -21,9 +21,9 @@ Procrastinando, he dado con [este artículo](http://www.fedeablogs.net/economia/
 
 ¿Ya? Pues continúo con un comentario que el filtro de _spam _de dicha bitácora no me ha dejado publicar. Recoge el siguiente razonamiento:
 
-Supongamos que tenemos cinco damas llamadas Lunes, Martes, Miércoles, Jueves y Viernes. Y un condenado a muerte que tiene que ser ahorcado en la semana que comienza. Éste ha pedido al alcaide como postrera voluntad no saber la noche previa si va a ser ahorcado al amanecer: quiere dormir plácidamente las últimas horas de su vida.
+Supongamos que tenemos cinco damas llamadas Lunes, Martes, Miércoles, Jueves y Viernes. Y un condenado a muerte que tiene que ser ahorcado en la semana que comienza. Este ha pedido al alcaide como postrera voluntad no saber la noche previa si va a ser ahorcado al amanecer: quiere dormir plácidamente las últimas horas de su vida.
 
-Armamos un _isomorfismo_ entre razonamientos lógicos a través de la siguiente relación: Que una dama tenga la cara manchada significa: _es posible ahorcar al condenado en la mañana del día que sigue a aquél cuyo nombre coincide con el de la dama_. Vamos, que si la dama Martes tiene la cara manchada, es posible despachar al condenado el miércoles al alba.
+Armamos un _isomorfismo_ entre razonamientos lógicos a través de la siguiente relación: Que una dama tenga la cara manchada significa: _es posible ahorcar al condenado en la mañana del día que sigue a aquel cuyo nombre coincide con el de la dama_. Vamos, que si la dama Martes tiene la cara manchada, es posible despachar al condenado el miércoles al alba.
 
 El ahorcado puede razonar como las señoras del tren. Si se supone que el ajusticiamiento no es el lunes (es decir, la dama Lunes supone que su cara está limpia), ¿cuál será el razonamiento hipotético de la dama Martes? Suponer que la suya también está limpia y a la vista de la de la del lunes, iterar el razonamiento para preocuparse de lo que podría estar pensando la dama Miércoles. Y así sucesivamente... hasta el Viernes.
 

@@ -44,7 +44,7 @@ sum( n.hijos.varones == 2 ) / sum( n.hijos.varones > 0 )
 # 0.3338992
 {{< / highlight >}}
 
-¡La respuesta es próxima a 1/3! Y éste es precisamente el valor que cabe esperar. De hecho, si $latex X, Y \in {0,1}$ son variables aleatorias binomiales que indican si el primer o segundo hijo, respectivamente, son niños, entonces:
+¡La respuesta es próxima a 1/3! Y este es precisamente el valor que cabe esperar. De hecho, si $latex X, Y \in {0,1}$ son variables aleatorias binomiales que indican si el primer o segundo hijo, respectivamente, son niños, entonces:
 
 
 

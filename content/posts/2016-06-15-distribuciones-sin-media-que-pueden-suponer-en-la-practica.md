@@ -24,7 +24,7 @@ Aunque esta entrada es sin duda resabida de los más de mis lectores, quedarán 
 
 $$ \int_{-\infty}^\infty |x| f(x) dx$$
 
-tenga un valor finito, cosa que, por ejemplo, no cumple la de Cauchy. Igual hay a quien esto le parece una rareza matemática, un entretenimiento de _math kiddies_ sin implicaciones prácticas. Además, porque para que que la integral anterior diverja se necesita que las distribuciones puedan tomar valores arbitrariamente altos y las que se manejan en la práctica están acotadas si no por el número de átomos del universo por el de céntimos de bolívar venezolano necesarios para comprar todas las cosas que caben en el ancho mundo.
+tenga un valor finito, cosa que, por ejemplo, no cumple la de Cauchy. Igual hay a quien esto le parece una rareza matemática, un entretenimiento de _math kiddies_ sin implicaciones prácticas. Además, porque para que la integral anterior diverja se necesita que las distribuciones puedan tomar valores arbitrariamente altos y las que se manejan en la práctica están acotadas si no por el número de átomos del universo por el de céntimos de bolívar venezolano necesarios para comprar todas las cosas que caben en el ancho mundo.
 
 Además, siempre se puede calcular la media empírica de cualquier distribución (con `mean` en R p.e.). ¿Qué pasa pues si, simplemente, ignorando los _caveats_ matemáticos, vamos y lo tomamos medias? Pues cosas peculiares que comprobará quien corra un código similar a
 

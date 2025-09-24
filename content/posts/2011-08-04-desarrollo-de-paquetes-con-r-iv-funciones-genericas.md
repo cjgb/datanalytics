@@ -209,7 +209,7 @@ se muestre el fichero en cuestión. La sección `usage` quedaría así:
 {{< highlight R >}}
 \usage{
 as.px( x, ... )
-\S3method{as.px}{array}( x, skeleton.px = NULL, list.keys = NULL, ...  )
+\S3method{as.px}{array}( x, skeleton.px = NULL, list.keys = NULL, ... )
 }
 {{< / highlight >}}
 

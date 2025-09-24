@@ -22,7 +22,7 @@ url: /2011/07/27/diagramas-de-puntos-dotplots/
 
 Aunque los diagramas de puntos fueron introducidos por [Cleveland ](http://www.stat.purdue.edu/~wsc/) en los años ochenta, a pesar de sus ventajas, no gozan de la popularidad de otros métodos de representación gráfica.
 
-Leí hace poco un artículo de Naomi Robbins en el que se proponían los [gráficos de puntos como alternativa a los de barras](http://www.b-eye-network.com/view/2468). Encuentra en aquéllos tres ventajas:
+Leí hace poco un artículo de Naomi Robbins en el que se proponían los [gráficos de puntos como alternativa a los de barras](http://www.b-eye-network.com/view/2468). Encuentra en aquellos tres ventajas:
 
 
 

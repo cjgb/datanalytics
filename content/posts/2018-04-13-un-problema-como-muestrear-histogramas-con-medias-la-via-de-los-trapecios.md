@@ -16,7 +16,7 @@ tags:
 - histogramas
 - media
 - muestreo
-title: 'Un problema: cómo muestrear histogramas con medias.  La vía de los trapecios'
+title: 'Un problema: cómo muestrear histogramas con medias. La vía de los trapecios'
 url: /2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios/
 ---
 

@@ -20,7 +20,7 @@ url: /2010/11/01/una-propuesta-de-guia-de-estilo-de-r/
 
 Síntoma del creciente interés por R es el hecho de que Google haya elaborado y publicado [una guía de estilo para R](http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html). Me he tomado la libertad de [traducirla](https://datanalytics.com/2014/01/27/guia-de-estilo-de-r-de-google/). Espero que a Google no le importe.
 
-Es conveniente (Google, yo y, seguramente, muchos otros lo creemos así) atenerse a un código de estilo a la hora de programar. No es éste foro en el que enumerar las ventajas que se derivan de ello: si habéis desarrollado código codo con codo con otros, sabréis a qué me refiero; si no, haced caso al consejo de quienes os precedieron y ahorraréis tiempo y dinero.
+Es conveniente (Google, yo y, seguramente, muchos otros lo creemos así) atenerse a un código de estilo a la hora de programar. No es este foro en el que enumerar las ventajas que se derivan de ello: si habéis desarrollado código codo con codo con otros, sabréis a qué me refiero; si no, haced caso al consejo de quienes os precedieron y ahorraréis tiempo y dinero.
 
 Las guías de estilo tienen algo de meteorológico: nunca llueven a gusto de todos. _Mi_ código de estilo de R se parece en ciertas cosas al de Google. En otras no. Algunas son cuestión de opinión y consenso. Otras, algo menos. Yo repensaría algunas de las normas de la guía de Google. He aquí cuáles; he aquí por qué:
 

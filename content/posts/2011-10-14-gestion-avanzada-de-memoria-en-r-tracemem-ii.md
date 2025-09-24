@@ -34,7 +34,7 @@ m[1] <- 8
 {{< / highlight >}}
 
 
-Sin embargo el libro menciona cómo, a pesar de la política _copiar al cambiar_, hay casos en los que R es lo suficientemente inteligente como para modificar sólo la parte afectada por el cambio:
+Sin embargo, el libro menciona cómo, a pesar de la política _copiar al cambiar_, hay casos en los que R es lo suficientemente inteligente como para modificar sólo la parte afectada por el cambio:
 
 
 {{< highlight R >}}

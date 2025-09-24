@@ -25,7 +25,7 @@ En un [artículo que enlacé hace un tiempo](https://datanalytics.com/2011/04/27
 >En una ciudad hay dos hospitales. En el grande, hay, en promedio, 45 partos al día; en el pequeño, 15. La probabilidad de que un recién nacido sea niño o niña se supone igual al 50 %. ¿En qué hospital es más probable que en un día dado la proporción de niñas exceda el 60%?
 
 
-En el artículo se menciona cómo en una muestra de 95 estudiantes universitarios, 21 se decantaron por el grande, 21 en el pequeño y 53 dijeron que la probabilidad es (aproximadamente) igual para ambos.
+En el artículo se menciona cómo en una muestra de 95 estudiantes universitarios, 21 se decantaron por el grande, 21 en el pequeño y 53 dijeron que la probabilidad es, aproximadamente, igual para ambos.
 
 En realidad, si $latex X$ es el número de niñas nacidas en un hospital en el que ha habido n partos, entonces
 

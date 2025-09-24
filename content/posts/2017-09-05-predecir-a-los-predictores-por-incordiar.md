@@ -52,4 +52,4 @@ Esa es una de las futuras líneas de trabajo que emanan de este.
 
 La otra es aprovechar parte del código generado para armar un protopaquete de R dirigido al análisis electoral en España. De momento, aunque solo fuese eso, que pudiese descargar los datos que hay por ahí. Y sobre eso, lo que sea menester.
 
-**Nota metodológica:** Hay una manera más sofisticada y preferible de ajustar el modelo anterior. Nótese que se calcula primero el consenso y luego el sesgo. Pero una vez obtenido el sesgo, éste podría utilizarse para afinar el consenso. Etc. En definitiva, que consenso y sesgo deberían estimarse de una. Pero esto, recuerdo, es un TFM.
+**Nota metodológica:** Hay una manera más sofisticada y preferible de ajustar el modelo anterior. Nótese que se calcula primero el consenso y luego el sesgo. Pero una vez obtenido el sesgo, este podría utilizarse para afinar el consenso. Etc. En definitiva, que consenso y sesgo deberían estimarse de una. Pero esto, recuerdo, es un TFM.

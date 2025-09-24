@@ -30,4 +30,4 @@ El lector es libre  de plantearse (e incluso responderse) estas preguntas: parti
 
 
 
-A quienes  busquen una tabla más completa (aunque sustancialmente más prolija) tal vez  les satisfaga la que encuentren en [este artículo de L. Leemis y J.  McQueston](http://www.math.wm.edu/~leemis/2008amstat.pdf) (reproducido también en esta [_chuleta_](http://www.johndcook.com/blog/2010/10/04/probability-and-statistics-cheat-sheet/)).
+A quienes  busquen una tabla más completa (aunque sustancialmente más prolija) tal vez  les satisfaga la que encuentren en [este artículo de L. Leemis y J. McQueston](http://www.math.wm.edu/~leemis/2008amstat.pdf) (reproducido también en esta [_chuleta_](http://www.johndcook.com/blog/2010/10/04/probability-and-statistics-cheat-sheet/)).

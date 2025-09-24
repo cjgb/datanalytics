@@ -27,7 +27,7 @@ Creo que habrá vídeo en alguna parte. Por si no, transcribo lo que (recuerdo q
 
 >Buenos días. Me llamo Carlos Gil y esta mañana he venido en metro. Cada vez que cojo el metro me sorprende y me irrita comprobar que todavía tiene un señor que lo conduce.
 >
->Cada vez que que hay un accidente de tren o un conductor dice que está cansado y deja al pasaje varado en una estación de un pueblucho de Palencia, dejo constancia en Twitter de lo primitivo de tener humanos al mando de trenes. Pero eso me hace ganar pocos amigos.
+>Cada vez que hay un accidente de tren o un conductor dice que está cansado y deja al pasaje varado en una estación de un pueblucho de Palencia, dejo constancia en Twitter de lo primitivo de tener humanos al mando de trenes. Pero eso me hace ganar pocos amigos.
 >
 >Sin embargo, a nadie sorprende ni asusta que tantos fabricantes de _software_ nos prometan herramientas para automatizar la visualización de datos o su análisis estadístico. La misma expresión _machine learning_ es irritante. No, las máquinas no aprenden; a las máquinas se las enseña (muy trabajosamente) y yo soy uno de esos que se gana la vida enseñando cosas a las máquinas.
 >

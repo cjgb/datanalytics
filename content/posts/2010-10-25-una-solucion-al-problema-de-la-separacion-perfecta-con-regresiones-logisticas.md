@@ -50,7 +50,7 @@ En general, la separación perfecta puede ocurrir sobre combinaciones de variabl
 
 Sea como fuere, hay que encontrarle _solución_ a este _problema_ de la separación infinita. Hay que advertir primero que el problema de la separación perfecta **no es un problema**. Es, incluso, deseable. ¡Ojalá siempre nuestros datos fuesen tan conclusivos! (Esto queda dicho sin perjuicio de una regla prácticamente sin excepciones en algunos ámbitos —sobre todo de la investigación social—: si una variable es demasiado buena... seguramente está contaminada de alguna manera por la variable objetivo). He llegado a leer que de darse el problema de la separación perfecta, una posible solución pasa por eliminar la variable implicada. ¡Eliminar la variable más predictiva!
 
-Entre las soluciones que tienen algún sentido, aquélla por la que me decanté cuando me enfrenté al encargo de mi cliente fue la de la regresión logística con la penalización de Firth. Lo hice por varios motivos:
+Entre las soluciones que tienen algún sentido, aquella por la que me decanté cuando me enfrenté al encargo de mi cliente fue la de la regresión logística con la penalización de Firth. Lo hice por varios motivos:
 
 
 

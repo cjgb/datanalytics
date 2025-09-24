@@ -22,6 +22,6 @@ Creo que es innecesario hacer las presentaciones con el [problema de Monty Hall]
 
 Alternativamente, uno puede pensar en un problema perfectamente equivalente en el que la intuición no nos engañe. Y, curiosamente, [parece existir](https://math.stackexchange.com/questions/96826/the-monty-hall-problem/3360686#3360686):
 
->Hay tres boxeadores. Dos de ellos, B y C, son amateurs y de habilidad similar.  De combatir entre ellos, pueden ganar o perder indistintamente. El tercer boxeador, A, es un profesional y vencería a cualquiera de los otros dos siempre. Sin más información, tratas de adivinar cuál de ellos es A. Eliges tu candidato y se organiza una pelea entre los otros dos. ¿Quién piensas entonces que es más probable que sea A, tu elección o el vencedor?
+>Hay tres boxeadores. Dos de ellos, B y C, son amateurs y de habilidad similar. De combatir entre ellos, pueden ganar o perder indistintamente. El tercer boxeador, A, es un profesional y vencería a cualquiera de los otros dos siempre. Sin más información, tratas de adivinar cuál de ellos es A. Eliges tu candidato y se organiza una pelea entre los otros dos. ¿Quién piensas entonces que es más probable que sea A, tu elección o el vencedor?
 
 Más info al respecto, [aquí](https://marginalrevolution.com/marginalrevolution/2019/09/the-intuitive-monty-hall-problem.html) y [aquí](https://statmodeling.stat.columbia.edu/2019/09/19/alternative-more-intuitive-formulation-of-monte-hall-problem/).

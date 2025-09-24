@@ -43,4 +43,4 @@ Introducir interacciones es algo que uno hace no porque dado que existe la posib
 Quiero terminar con una advertencia final: el proceso anterior tiene un peligro de tipo II. Sería posible ---y no es difícil construir datos _ad hoc_--- en los que el efecto principal sea prácticamente nulo pero que, sin embargo, existan importantes diferencias por tratamiento. Sobre lo cual tengo que decir:
 
 * Aunque exista esa posibilidad teórica, no es una circunstancia que tienda a ocurrir en la práctica. Si un tratamiento es positivo, suele serlo para todos los grupos, aunque tal vez de manera asimétrica.
-* Pero tal vez en un mundo tan resignado a los ejercicios _de suma cero_ veamos cada vez más tratamientos que globalmente ---recuérdese: tienen suma cero--- son inefectivos pero que que afectan desigualmente a los distintos grupos.
+* Pero tal vez en un mundo tan resignado a los ejercicios _de suma cero_ veamos cada vez más tratamientos que globalmente ---recuérdese: tienen suma cero--- son inefectivos pero que afectan desigualmente a los distintos grupos.

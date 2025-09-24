@@ -41,7 +41,7 @@ Comienza distinguiendo tres tipos de conjuntos con datos no informados:
 
 * MCAR (_missing completely at random_), en que el patrón de los registros no informados no depende ni de la variable respuesta $latex Y$, ni de los valores observados de los predictores, $latex X_{obs}$. Es el caso más propicio.
 * MAR (_missing at random_), cuando dicho patrón depende de $latex Y$ e $latex X_{obs}$, pero no de ningún otro factor.
-* NINM (_non ignorable missingness_), cuando el patrón de los datos no informados depende, entre otros, del valor no observado de los datos no observados (mis excusas: no he sabido evitar la reiteración en esta frase). Éste es precisamente el caso en el que los métodos de imputación discutidos en el resto del artículo pueden introducir sesgos.
+* NINM (_non ignorable missingness_), cuando el patrón de los datos no informados depende, entre otros, del valor no observado de los datos no observados (mis excusas: no he sabido evitar la reiteración en esta frase). Este es precisamente el caso en el que los métodos de imputación discutidos en el resto del artículo pueden introducir sesgos.
 
 Dichos métodos están clasificados en varios grupos:
 

@@ -22,7 +22,7 @@ url: /2021/04/20/mas-sobre-ese-corolario-del-teorema-de-rolle-que-es-la-curva-de
 
 Es fácil nunca dar con algo que no quieres encontrar: basta con buscarlo donde sabes que no está.
 
-Eso es perfectamente predicable de todos los ensayos de los que tengo noticia para _demostrar empíricamente_ la inexistencia ---¡eh!, ¿no habíamos quedado en que que la inexistencia de algo no es demostrable empíricamente?--- de ese [corolario del teorema de Rolle](https://datanalytics.com/2017/05/30/el-teorema-de-rolle-acientifico/) que se ha dado en llamar curva de Laffer.
+Eso es perfectamente predicable de todos los ensayos de los que tengo noticia para _demostrar empíricamente_ la inexistencia ---¡eh!, ¿no habíamos quedado en que la inexistencia de algo no es demostrable empíricamente?--- de ese [corolario del teorema de Rolle](https://datanalytics.com/2017/05/30/el-teorema-de-rolle-acientifico/) que se ha dado en llamar curva de Laffer.
 
 Hay que tener en cuenta que en una economía como la española ---y más en estos tiempos---, casi el 100% de los agentes económicos operan muy por debajo de ese pico que postulan Laffer y Rolle. De hecho, uno puede ver cómo un porcentaje sustancial de los ocupados en España pertenecen a la categoría de [subempleados por insuficiencia de horas](https://datanalytics.com/2013/04/26/todo-lo-que-vd-siempre-quiso-saber-sobre-la-epa-etc/).
 

@@ -22,7 +22,7 @@ url: /2011/04/01/a-esa-gente-le-habia-hecho-falta-un-matematico/
 
 A esa gente le había hecho falta, en efecto, un matemático. Les hubiera bastado saber mi número de teléfono y no habrían cometido tamaña tontería y habrían tenido a sus accionistas más satisfechos. Explicaré el asunto. Será muy instructivo para quienes opinan que no valemos para gran cosa.
 
-Hace mucho, mucho tiempo, tanto que las neuronas que se acuerdan de eso están llenas de polvo, en un país muy, muy lejos de éste, trabajé en un proyecto cuya naturaleza no viene al caso. Sí que lo hace el que habían codificado el campo identificador de los contratos en su base de datos con un `CHAR(26)`. Sí, efectivamente, usaban veintiséis caracteres para identificar un único contrato.
+Hace mucho, mucho tiempo, tanto que las neuronas que se acuerdan de eso están llenas de polvo, en un país muy, muy lejos de este, trabajé en un proyecto cuya naturaleza no viene al caso. Sí que lo hace el que habían codificado el campo identificador de los contratos en su base de datos con un `CHAR(26)`. Sí, efectivamente, usaban veintiséis caracteres para identificar un único contrato.
 
 La verdad sea dicha, precavidos eran: si damos por buenos [estos números](http://wiki.answers.com/Q/How_many_atoms_are_there_on_earth), podrían tener como clientes a todos los átomos de la tierra antes de sufrir una especie de efecto 2000 o IPv4: $latex 2^{8 \times 26}$ asciende a la fabulosa cifra de 4,1138e+62.
 

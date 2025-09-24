@@ -54,7 +54,7 @@ dotchart(res, labels = names(res),
           main = "naive shapley index \n elecciones 2019")
 {{< / highlight >}}
 
-Lo del índice de Shapley, de ignorarlo, lo tendréis que consultar por vuestra cuenta.  Al menos, para saber por qué no debería usarse tan frecuentemente (en problemas de atribución, entre otros).
+Lo del índice de Shapley, de ignorarlo, lo tendréis que consultar por vuestra cuenta. Al menos, para saber por qué no debería usarse tan frecuentemente (en problemas de atribución, entre otros).
 
 Y lo de naíf viene a cuento de en lo anterior se ha partido de varias hipótesis poco realistas. Entre ellas:
 

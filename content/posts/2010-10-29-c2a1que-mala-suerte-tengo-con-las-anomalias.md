@@ -20,7 +20,7 @@ title: ¡Qué mala suerte tengo con las anomalías!
 url: /2010/10/29/que-mala-suerte-tengo-con-las-anomalias/
 ---
 
-El siempre muy benéfico Banco de Santander me ha proporcionado ---onerosamente: veráse el porqué--- un conjunto de datos con el que ilustrar a los lectores de este blog en el uso del paquete `outliers` de R.  Los datos son los siguientes:
+El siempre muy benéfico Banco de Santander me ha proporcionado ---onerosamente: veráse el porqué--- un conjunto de datos con el que ilustrar a los lectores de este blog en el uso del paquete `outliers` de R. Los datos son los siguientes:
 
 {{< highlight R >}}
 dia <- 17:26

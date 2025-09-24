@@ -35,6 +35,6 @@ en realidad, en su mente, esté viendo esto otro
 
 
 
-es decir, sea consciente de que otras muestras del mismo tamaño de la misma población pueden tener un aspecto distinto. El autor describe este efecto inherente al muestreo como el de un _cristal esmerilado_: una deformación de la realidad que ocurre por el mero hecho de muestrear. Discute también cómo éste efecto decrece al aumentar el tamaño de la muestra y otros muchos asuntos ya sabidos pero descritos de una manera ciertamente atractiva y novedosa.
+es decir, sea consciente de que otras muestras del mismo tamaño de la misma población pueden tener un aspecto distinto. El autor describe este efecto inherente al muestreo como el de un _cristal esmerilado_: una deformación de la realidad que ocurre por el mero hecho de muestrear. Discute también cómo este efecto decrece al aumentar el tamaño de la muestra y otros muchos asuntos ya sabidos pero descritos de una manera ciertamente atractiva y novedosa.
 
 Al lector tal vez le interesen también las [diapositivas de la presentación](http://www.stat.auckland.ac.nz/~wild/09.wild.USCOTS.pdf) y las [animaciones de las simulaciones](http://www.censusatschool.org.nz/2009/informal-inference/WPRH/) mostradas en el vídeo.

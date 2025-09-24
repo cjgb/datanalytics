@@ -26,7 +26,7 @@ Tras la digresión, entramos en materia:
 
 
 
-* En [Google Maps Mania](http://googlemapsmania.blogspot.com/), blog no asociado a Google, podemos encontrar tutoriales como [éste](http://googlemapsmania.blogspot.com/2011/02/google-maps-fusion-tables-hacks.html).
+* En [Google Maps Mania](http://googlemapsmania.blogspot.com/), blog no asociado a Google, podemos encontrar tutoriales como [este](http://googlemapsmania.blogspot.com/2011/02/google-maps-fusion-tables-hacks.html).
 * En [geocommons](http://geocommons.com/) te ayudan a crear y compartir tus mapas interactivos con otros.
 * Y [Tuent](http://tuent.com/) es una versión española de la anterior.
 * El servicio cartográfico del Reino Unido, [Ordnance Survey](http://www.ordnancesurvey.co.uk), ha creado esta [herramienta para interactuar con sus mapas](http://openspace.ordnancesurvey.co.uk/openspace/) que debería sacarle los colores a nuestras análogas instituciones.

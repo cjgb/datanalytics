@@ -27,7 +27,7 @@ Más allá de lo que la campaña _parece ser_, se esconde lo que realmente _es_:
 
 Sin embargo, destacaré aquí dos de los aspectos técnicos RevoScaleR que han transcendido:
 
-* Utiliza un **formato propietario de almacenamiento de datos**, XDF (¿estará emparentado con [éste](http://en.wikipedia.org/wiki/Extensible_Data_Format)?), diseñado para permitir un acceso rápido a filas y columnas de los datos (y sin necesidad de volcar su contenido en la memoria).
+* Utiliza un **formato propietario de almacenamiento de datos**, XDF (¿estará emparentado con [este](http://en.wikipedia.org/wiki/Extensible_Data_Format)?), diseñado para permitir un acceso rápido a filas y columnas de los datos (y sin necesidad de volcar su contenido en la memoria).
 * Contiene **reimplementaciones de diversos algoritmos** habituales en estadística y minería de datos que no necesitan disponer de la totalidad de los datos en memoria (supongo que al estilo de [biglm](http://cran.r-project.org/web/packages/biglm/index.html))
 
 Puede encontrarse una discusión técnica (de uso, no de arquitectura) [en este artículo](http://www.rochester.edu/College/psc/thestarlab/help/Big-Data-WP.pdf). Además, los interesados en aprender más sobre nuevos paradigmas de almacenamiento de datos que combinan las ventajas de los sistemas de almacenamiento por filas (como casi todos los RDBMs) y columnas (como R), encontrarán, seguro, de interés [este enlace](http://db.csail.mit.edu/chunkystore/).

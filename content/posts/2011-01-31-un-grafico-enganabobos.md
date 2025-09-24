@@ -56,7 +56,7 @@ con otra que he elaborado yo con los mismos datos (solo que remontándome más a
 
 
 
-Además, si se trata de analizar la evolución temporal del tamaño del crédito a las administraciones públicas con el del crédito a los agentes privados, ¿por qué no un gráfico como éste?
+Además, si se trata de analizar la evolución temporal del tamaño del crédito a las administraciones públicas con el del crédito a los agentes privados, ¿por qué no un gráfico como este?
 
 
 

@@ -20,7 +20,7 @@ title: Y todo ocurre en un abrir y cerrar de ojos
 url: /2015/03/27/y-todo-ocurre-en-un-abrir-y-cerrar-de-ojos/
 ---
 
-Abres una aplicación en tu móvil que diseñó un programador búlgaro. Ipso facto aparece un insidioso _banner_ de, p.e., Jazztel. ¿Cuáles son los mecanismos que ponen en contacto al búlgaro con Jazztel? ¿De qué manera recibe aquél una compensación de esta?
+Abres una aplicación en tu móvil que diseñó un programador búlgaro. Ipso facto aparece un insidioso _banner_ de, p.e., Jazztel. ¿Cuáles son los mecanismos que ponen en contacto al búlgaro con Jazztel? ¿De qué manera recibe aquel una compensación de esta?
 
 Tradicionalmente, el desarrollador habría hablado con, p.e., Google. Le habría dicho: yo voy a generar "espacios" donde tú vas a poder colgar propaganda a cambio de una cantidad (fija o variable). El intermediario, por otra parte, capta anunciantes (Jazztel en nuestro ejemplo), almacena un inventario de ellos y decide cuál de ellos mostrar. Hay teoría aplicable en estos contextos, como la que describe _[Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://research.microsoft.com/en-us/um/people/nikdev/pubs/rtb-perf.pdf)_.
 

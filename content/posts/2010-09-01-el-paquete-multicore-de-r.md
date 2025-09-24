@@ -28,7 +28,7 @@ n.iter <- 1000
 resultados <- replicate( n.iter, foo() )
 {{< / highlight >}}
 
-y las simulaciones se ejecutarían secuencialmente.  Con el [paquete `multicore`](http://cran.r-project.org/web/packages/multicore/index.html), la tarea podría distribuirse por 6 (por ejemplo: es que si uso las ocho me riñen) de las CPUs así:
+y las simulaciones se ejecutarían secuencialmente. Con el [paquete `multicore`](http://cran.r-project.org/web/packages/multicore/index.html), la tarea podría distribuirse por 6 (por ejemplo: es que si uso las ocho me riñen) de las CPUs así:
 
 {{< highlight R >}}
 library( multicore )
@@ -41,7 +41,7 @@ Notas:
 * La opción mc.cores limita el número de CPUs que se usarán en la paralelización.
 * La opción mc.set.seed es muy importante: sin ella, cada subproceso compartirá la semilla y los valores aleatorios que generará serán los mismos.  ¡Normalmente no es eso lo que se quiere!
 
-El paquete multicore incluye algunas funciones de más bajo nivel (`parallel`, `fork`, etc.) que podrían utilizarse para tareas más específicas. Pero `mclapply` es cómoda, simple y funciona estupendamente.  Hay que hacer notar que el paquete está basado en la [función fork](http://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_%28sistema_operativo%29) tal cual está implementada en los sistemas operativos [POSIX](http://es.wikipedia.org/wiki/POSIX). Windows, lástima, no lo es.
+El paquete multicore incluye algunas funciones de más bajo nivel (`parallel`, `fork`, etc.) que podrían utilizarse para tareas más específicas. Pero `mclapply` es cómoda, simple y funciona estupendamente. Hay que hacer notar que el paquete está basado en la [función fork](http://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_%28sistema_operativo%29) tal cual está implementada en los sistemas operativos [POSIX](http://es.wikipedia.org/wiki/POSIX). Windows, lástima, no lo es.
 
 Y para acabar, números:
 

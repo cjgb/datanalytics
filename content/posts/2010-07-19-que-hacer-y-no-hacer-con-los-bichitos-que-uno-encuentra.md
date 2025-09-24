@@ -21,7 +21,7 @@ No sé si es porque gano agudeza visual, porque me vuelvo cascarrabias o, simple
 
 Antes, antaño, simplemente los toleraba y, creo, vivía más feliz. Formaban parte del paisaje, como los mosquitos nocturnos en la jungla tailandesa. De un tiempo acá, sin embargo, tengo una relación más compleja con ellos.
 
-Cuando uno se los tropieza en _software_ libre, claro, no puede hacer mucho aspaviento. Se tiene el código y uno es libre de arreglárselo solito. O contactar con el desarrollador. Algunos nunca responden (como el del _applet_ de la temperatura de la CPU de Xubuntu, inasequible a mis demandas de un código más eficiente). Otros son más amables, como el desarrollador de [rjson](http://cran.r-project.org/web/packages/rjson/index.html), A éste le pregunté, después de documentar claramente la naturaleza del problema: _Is this an intended feature? Or, rather, a bug?_ Respondió:
+Cuando uno se los tropieza en _software_ libre, claro, no puede hacer mucho aspaviento. Se tiene el código y uno es libre de arreglárselo solito. O contactar con el desarrollador. Algunos nunca responden (como el del _applet_ de la temperatura de la CPU de Xubuntu, inasequible a mis demandas de un código más eficiente). Otros son más amables, como el desarrollador de [rjson](http://cran.r-project.org/web/packages/rjson/index.html), A este le pregunté, después de documentar claramente la naturaleza del problema: _Is this an intended feature? Or, rather, a bug?_ Respondió:
 
 >Thanks for the very polite feedback - if only infinite (non-tail) recursion were an intended feature, it's clearly a bug :)
 

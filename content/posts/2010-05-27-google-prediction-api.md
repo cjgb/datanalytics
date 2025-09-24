@@ -22,7 +22,7 @@ A la lista de las cosas que probar y sobre las que aprender sumo hoy una que só
 
 [](http://code.google.com/apis/predict/images/french.png#center)![Google Prediction API](http://code.google.com/apis/predict/images/french.png#center)
 
-Es decir, desde tu terminal, desde tu aplicación, desde tu teléfono móvil puedes realizar una consulta a cierto servicio (nuevo, de ahí que lo publique acá) de Google y éste te devuelve una respuesta de acuerdo con cierto modelo que has entrenado previamente.
+Es decir, desde tu terminal, desde tu aplicación, desde tu teléfono móvil puedes realizar una consulta a cierto servicio (nuevo, de ahí que lo publique acá) de Google y este te devuelve una respuesta de acuerdo con cierto modelo que has entrenado previamente.
 
 Tengo que revisar la documentación de este nuevo servicio. La he leído rápidamente y de reojo. Pero creo recordar de todo lo que creo haber entendido que para entrenar modelos hay que darse de alta en otro servicio de Google,  [Google Storage for Developers](http://code.google.com/intl/es-ES/apis/storage/) y comenzar a trabajar de acuerdo con la siguiente [documentación](http://code.google.com/intl/es-ES/apis/predict/docs/developer-guide.html).
 

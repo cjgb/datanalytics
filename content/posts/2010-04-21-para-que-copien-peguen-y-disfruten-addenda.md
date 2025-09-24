@@ -47,7 +47,6 @@ He aquí lo que hace:
 
 Finalmente, se representan los puntos gráficamente en el plano. El resultado, como todo atento lector de las páginas 42 a 45 de [este libro](http://www.lalibreriadelau.com/catalog/product_info.php/products_id/20070?sid=d91772b6b3e33c6fb1e91105bc83686b) debería haber reconocido, es el [triángulo de Sierpinsky](http://es.wikipedia.org/wiki/Triángulo_de_Sierpinski) (como dice el autor del libro, el resultado es dicho triángulo _querámoslo o no_).
 
-[![](/wp-uploads/2010/04/triangulo_sierpinsky1.png?w=300)
-](/wp-uploads/2010/04/triangulo_sierpinsky1.png#center)
+![](/wp-uploads/2010/04/triangulo_sierpinsky1.png?w=300)
 
 Y cierro la entrada para protestar amargamente por el hecho de que en Colombia uno pueda comprar cualquier libro editado por cualquier universidad de país[ en un único portal](http://www.lalibreriadelau.com) y en la madre patria, tan civilizada que hasta nos da la libertad de fumar en las cafeterías, no.

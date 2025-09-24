@@ -17,7 +17,7 @@ title: PIB, economía sumergida, Ley Sinde y cómo ser menos pobre sin trabajar
 url: /2011/01/11/pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar/
 ---
 
-Estaba mirando por ahí maneras imaginativas para salir de la crisis. Que conste que he tirado la toalla con respecto a los tradicionales: trabajando más y mejor no va a ser. Es imposible. Me di cuenta de eso el viernes mientras trataba de importar un fichero de datos que me había hecho llegar un _profesional_ de la informática. (Hasta que no dejemos a éste y otros _profesionales_ análogos en una patera en los mares del sur con una garrafa de agua y una biblia, no saldremos adelante por la vía de las naciones decentes).
+Estaba mirando por ahí maneras imaginativas para salir de la crisis. Que conste que he tirado la toalla con respecto a los tradicionales: trabajando más y mejor no va a ser. Es imposible. Me di cuenta de eso el viernes mientras trataba de importar un fichero de datos que me había hecho llegar un _profesional_ de la informática. (Hasta que no dejemos a este y otros _profesionales_ análogos en una patera en los mares del sur con una garrafa de agua y una biblia, no saldremos adelante por la vía de las naciones decentes).
 
 ¿Qué mide si estamos o no en crisis? El PIB, que es una suma de cosas. En abstracto parece sencillo. Si uno lo piensa, no lo es tanto. Porque, veamos:
 

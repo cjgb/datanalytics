@@ -26,7 +26,7 @@ En mi entrada anterior mencioné cómo la suma de cuadrados de normales, aun cua
 
 Esta entrada es un complemento a la anterior que tiene lo que a la otra le faltan: gráficos. Al fin y al cabo, es un resultado que se prueba _a ojo_: efectivamente, la suma de [...] tiene aspecto de $latex \chi^2$, determinemos su parámetro.
 
-La entrada tiene tres partes en la que se examinará tres casos de creciente grado de generalidad: el teórico/conocido, aquél en el que las varianzas son iguales aunque distintas de 1 y,  finalmente, el general de varianzas desiguales.
+La entrada tiene tres partes en la que se examinará tres casos de creciente grado de generalidad: el teórico/conocido, aquel en el que las varianzas son iguales aunque distintas de 1 y,  finalmente, el general de varianzas desiguales.
 
 **I.**
 

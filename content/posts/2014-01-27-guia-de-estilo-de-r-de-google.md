@@ -200,7 +200,7 @@ x = 5
     6. Resto del código, si es aplicable (p.e., ` print`, `plot`)
     7. Los tests unitarios deberían incluirse en un fichero aparte llamado `originalfilename_unittest.R`.
 
-* **Comentarios.** Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de éste por dos espacios, un `#` y un espacio más.
+* **Comentarios.** Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de este por dos espacios, un `#` y un espacio más.
 
 {{< highlight R >}}
 # Crear histograma de frecuencias de campañas según porcentaje del presupuesto
