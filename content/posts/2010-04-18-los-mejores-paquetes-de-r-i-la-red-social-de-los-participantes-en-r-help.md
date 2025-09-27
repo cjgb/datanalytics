@@ -23,27 +23,23 @@ Hace no mucho leí un [articulillo de SAS](http://support.sas.com/resources/pape
 
 El artículo de SAS utiliza como materia prima resúmenes de publicaciones científicas que tratan de determinados medicamentos. A los autores les interesa conocer de qué marca de medicamentos escribe cada autor ponderando a éstos últimos en función de su _impacto_. El impacto lo miden a través de su peso en la red de colaboraciones científicas: tiene alto impacto un autor que ha escrito muchos artículos en colaboración con otros autores que también han escrito muchos artículos.
 
-En defintiva, algo no muy distinto del famoso [PageRank](http://es.wikipedia.org/wiki/PageRank) de Google: una página tiene un peso que se calcula ponderando el peso de las páginas que apuntan a ella mediante un algoritmo que, al menos a primera vista, parece recursivo.
+En definitiva, algo no muy distinto del famoso [PageRank](http://es.wikipedia.org/wiki/PageRank) de Google: una página tiene un peso que se calcula ponderando el peso de las páginas que apuntan a ella mediante un algoritmo que, al menos a primera vista, parece recursivo.
 
 En esta entrada voy a describir la primera fase de mi pequeño experimento. Este consiste en asignar pesos a los distintos paquetes de R en función de su _importancia_ en la lista de correo [r-help](https://stat.ethz.ch/mailman/listinfo/r-help). En la primera fase he asignado a los participantes en dicho foro un peso que mide su _nivel de impacto_. He aquí cómo:
 
-
 ### Descarga del histórico de correos de r-help
-
 
 Es sencillo: para descargar todos los correos por mes desde abril de 1997, basta con ejecutar (¿tengo que decir que uso Linux?)
 
-
-    wget -nd -r -l1 --accept gz https://stat.ethz.ch/pipermail/r-help/
-
+```bash
+wget -nd -r -l1 --accept gz https://stat.ethz.ch/pipermail/r-help/
+```
 
 Sacas la ropa de la lavadora, tiendes y, a la vuelta, ejecutas
 
-
-    zcat *.gz > all_mails
-
-
-
+```bash
+zcat *.gz > all_mails
+```
 
 ### Preprocesamiento del fichero de correos
 
@@ -56,9 +52,7 @@ El fichero creado en el paso anterior ocupa 417MB (a fecha de hoy) y tiene [form
 
 La creación de estos ficheros, aunque conceptualmente simple, se complica por las excepciones, distintas configuraciones, etc. de los distintos sistemas de correo electrónico. Pero no son problemas que 20 líneas de código en Python no puedan solventar.
 
-
 ### Asignación del "r-help-rank" a los participantes de la lista
-
 
 Dada la naturaleza de la lista, decidí no asignar pesos sino por respuestas a mensajes, no por iniciar una conversación. Dos participantes están conectados si participan en una misma discusión. El peso, _r-help-rank_, de un participante lo construí como la suma de los pesos de los participantes que intervienen en una conversación común. Más concretamente:
 
@@ -76,7 +70,7 @@ El algoritmo es similar al del cálculo por el [método de las potencias](http:/
 
 
 
-La tabla siguiente contiene los pesos de los 20 participantes con el  r-help-rank más alto (sólo muestro parte del correo electrónico):
+La tabla siguiente contiene los pesos de los 20 participantes con el _r-help-rank_ más alto (sólo muestro parte del correo electrónico):
 
 
 |  usuario  | r-help-rank |

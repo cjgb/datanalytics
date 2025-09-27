@@ -19,7 +19,7 @@ title: Google public data explorer
 url: /2010/04/11/google-public-data-explorer/
 ---
 
-Participo últimamente en un proyecto dentro de un banco español bastante grande (sobre el que no abundaré ahora) que tiene como objetivo diseminar información financiera y comercial del mismo para los responsables de su dirección y gestión.
+Participo últimamente en un proyecto dentro de un banco español bastante grande (sobre el que no abundaré ahora), que tiene como objetivo diseminar información financiera y comercial del mismo para los responsables de su dirección y gestión.
 
 La información de partida _yace_ (nunca mejor dicho) en vetustos prodigios de la técnica de los años setenta y nuestro papel consiste en desenterrarla con herramientas y procedimientos más a la altura de los tiempos.
 

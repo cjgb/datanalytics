@@ -19,11 +19,9 @@ url: /2010/04/14/la-opinion-sobre-r-de-una-pobre-senora/
 
 Me llegan noticias de una pobre señora que, se conoce, tiene un blog en el que [habla de cosas que, da la impresión, le trascienden](http://www.thejuliagroup.com/blog/?p=433). Dice lo siguiente:
 
-
 >Contrary to what some people seem to think, R is definitely not the next big thing, either. I am always surprised when people ask me why I think that, because to my mind it is obvious.
 
-
-Vamos, que no cree en R y que, además, esa idea suya le parece la más obvia del mundo. Para apoyar su argumento, muestra el siguiente ejemplo de código en R, supuestamente muy feo (más, de hecho de lo que se imagina):
+Vamos, que no cree en R y que, además, esa idea suya le parece la más obvia del mundo. Para apoyar su argumento, muestra el siguiente ejemplo de código en R, supuestamente muy feo (más, de hecho, de lo que se imagina):
 
 {{< highlight R >}}
 a<--0.45

@@ -42,7 +42,7 @@ Tras algunas modificaciones en los datos (cambios de tipos y nombres de las colu
 de 150.000 filas que asigna a cada cuenta, `cta`, una serie de partidas, `prtda`, y
 
 {{< highlight R >}}
-> head( saldos )
+> head(saldos)
  fec cta ofi
 [1,]   1   4  40
 [2,]   1   4  70
@@ -54,11 +54,11 @@ de 150.000 filas que asigna a cada cuenta, `cta`, una serie de partidas, `prtda`
 
 de 12 millones de filas que para cada fecha, fec, y oficina, ofi, lista los correspondientes tipos de cuenta, cta, existentes.
 
-Estas tablas cruzan por el campo cta, cuenta. A cada cuenta le corresponde una partida y el objetivo final era saber para cada fecha (fec), cuántas combinaciones de oficina (ofi) y partida existían. Un `merge` directo requería más memoria de la disponible, así que fabriqué el cruce a mano mediante el siguiente código:
+Estas tablas cruzan por el campo `cta`, cuenta. A cada cuenta le corresponde una partida y el objetivo final era saber para cada fecha (fec), cuántas combinaciones de oficina (ofi) y partida existían. Un `merge` directo requería más memoria de la disponible, así que fabriqué el cruce a mano mediante el siguiente código:
 
 {{< highlight R >}}
-foo <- function( prtda ){
-    tmp <- epi$cta[ epi$prtda == prtda ]
+foo <- function(prtda){
+    tmp <- epi$cta[epi$prtda == prtda]
     unique(subset(saldos, cta %in% tmp, select = c(fec, ofi)))
 }
 
@@ -73,7 +73,7 @@ El código aplica a cada partida la función foo que hace lo siguiente:
 
 Finalmente, estas subtablas se apilan y la función table cuenta el número de filas por fecha.
 
-Aunque tal vez no sea la manera más rápida de hacerlo, se trata de la implementación manual del método de los _bucles anidados_ para realizar cruces de tablas. Que es, de hecho, el más robusto (en el sentido de que utiliza la mínima cantidad posible de memoria) y, aunque no siempre sea el óptimo, no suele estar nunca muy alejado de él. [Eso dice,al menos, la teoría](http://oreilly.com/catalog/9780596005733).
+Aunque tal vez no sea la manera más rápida de hacerlo, se trata de la implementación manual del método de los _bucles anidados_ para realizar cruces de tablas. Que es, de hecho, el más robusto (en el sentido de que utiliza la mínima cantidad posible de memoria) y, aunque no siempre sea el óptimo, no suele estar nunca muy alejado de él. [Eso dice, al menos, la teoría](http://oreilly.com/catalog/9780596005733).
 
 Para implementar correctamente el algoritmo de los bucles anidados uno debe recorrer la tabla más pequeña y buscar las coincidentes, una a una, en la más grande. Y para que el proceso no se eternice, el acceso a esta última debe realizarse a través de un índice.
 
@@ -93,19 +93,19 @@ Aunque esas operaciones son muy rápidas para tablas pequeñas (para las que R f
 Pero el paquete data.table enriquece R con una nueva estructura de datos, las data.tables, que vienen a ser data.frames indexados. Usando dicho paquete, se puede hacer
 
 {{< highlight R >}}
-saldos <- data.table( saldos )
-setkey( saldos, cta )
-foo <- function( prtda ){
-     tmp <- epi$cta[ epi$prtda == prtda ]
-   unique( data.frame( saldos[ J(tmp), j = c( "fec", "ofi" ),
-        mult = "all", with = FALSE ] ) )
+saldos <- data.table(saldos)
+setkey(saldos, cta)
+foo <- function(prtda){
+     tmp <- epi$cta[epi$prtda == prtda]
+   unique(data.frame(saldos[J(tmp), j = c("fec", "ofi"),
+        mult = "all", with = FALSE]))
 }
 {{< / highlight >}}
 
 La primera línea transforma saldos de un data.frame en un data.table. La segunda, lo indexa por la columna cta. La única diferencia en la función es que para filtrar por tmp se utiliza la expresión
 
 {{< highlight R >}}
-saldos[ J(tmp), j = c( "fec", "ofi" ), mult = "all", with = FALSE ]
+saldos[J(tmp), j = c("fec", "ofi"), mult = "all", with = FALSE]
 {{< / highlight >}}
 
 que busca en saldos utilizando el índice sobre cta. El porqué de esta sintaxis, tal vez poco intuitiva, puede consultarse en las ayudas del paquete.
@@ -113,7 +113,7 @@ que busca en saldos utilizando el índice sobre cta. El porqué de esta sintaxis
 Los tiempos de ejecución para la primera alternativa son de
 
 {{< highlight R >}}
-> system.time( kk <- sapply( unique( epi$prtda ), foo, simplify = F ) )
+> system.time(kk <- sapply(unique(epi$prtda), foo, simplify = F))
  user  system elapsed
 5566.15  873.94 7088.15
 {{< / highlight >}}
@@ -121,11 +121,11 @@ Los tiempos de ejecución para la primera alternativa son de
 mientras que para la segunda quedan en:
 
 {{< highlight R >}}
-> system.time( tmp <- sapply( unique( epi$prtda ), foo, simplify = F ) )
+> system.time(tmp <- sapply(unique(epi$prtda), foo, simplify = F))
  user  system elapsed
     994.96   18.63 1776.70
 {{< / highlight >}}
 
-Aunque los tiempos reales (_elapsed_) son muy elevados hay que tener en cuenta que, en mi prueba, están exagerados por las circuntancias de la ejecución: simultáneamente en una misma máquina, con restricciones de memoria y, por lo tanto, algo de paginación. En cualquier caso, lo verdaderamente relevante son los ratios entre ambos procedimientos, muy favorables para las data.tables con respecto a los data.frames originales.
+Aunque los tiempos reales (_elapsed_) son muy elevados, hay que tener en cuenta que, en mi prueba, están exagerados por las circuntancias de la ejecución: simultáneamente en una misma máquina, con restricciones de memoria y, por lo tanto, algo de paginación. En cualquier caso, lo verdaderamente relevante son los ratios entre ambos procedimientos, muy favorables para las data.tables con respecto a los data.frames originales.
 
 En resumen, gracias al trabajo de Matthew Dowle, [disponemos de un nuevo paquete, data.table](http://cran.r-project.org/web/packages/data.table/index.html), que va a conseguir que nuestro código en R vuele cuando tengamos que realizar búsquedas en tablas grandes.

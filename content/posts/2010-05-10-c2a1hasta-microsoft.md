@@ -28,7 +28,7 @@ De su firma se deduce que trabaja en un área de Microsoft, Advertiser & Publish
 
 >[...] is building the monetization engine for Microsoft's and third-party-publishers' online services. The adCenter platform determines which ads to serve to optimize relevance for our users, traffic and ROI for our advertisers, and revenue for our publishers.
 
-Y dentro de dicha area se encuentra el _data-mining and analytics team_, oficialmente APS Auction Analytics, que
+Y dentro de dicha área se encuentra el _data-mining and analytics team_, oficialmente APS Auction Analytics, que
 
 >[...] drives monetization improvements working across all parts of the organization including engineering, customer-service operations, advertising sales, and product management. Analysts on the APS Analytics team work closely with business partners to enable rigorous, effective, data-driven decision making.
 

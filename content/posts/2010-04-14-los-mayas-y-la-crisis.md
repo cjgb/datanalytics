@@ -17,7 +17,7 @@ title: Los mayas y la crisis
 url: /2010/04/14/los-mayas-y-la-crisis/
 ---
 
-Tengo que pedir excusas a mis lectores por el título de la entrada: reconozco que tiene un sí es no es de desesperado intento por captar tráfico a costa de los amigos de lo escatológico, tal vez interesados en averiguar qué nos sucederá a todos en el 2012.
+Tengo que pedir disculpas a mis lectores por el título de la entrada: reconozco que tiene un sí es no es de desesperado intento por captar tráfico a costa de los amigos de lo escatológico, tal vez interesados en averiguar qué nos sucederá a todos en el 2012.
 
 En realidad, el vínculo que establezco entre los mayas y la crisis actual tiene que ver con una relativamente reciente (re)visita mía a uno de esos [museos](http://www.museonacional.gov.co/) en los que uno, a veces, ríe y, otras, llora como por dentro. En él me topé con una versión facsímil (¿por qué en los museos siempre debería haber originales?) de lo siguiente:
 
