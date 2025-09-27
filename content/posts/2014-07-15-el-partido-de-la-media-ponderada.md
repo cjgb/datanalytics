@@ -19,7 +19,7 @@ title: El Partido de la Media Ponderada
 url: /2014/07/15/el-partido-de-la-media-ponderada/
 ---
 
-Hoy he hecho limpieza de mi directorio de descargas. En él he encontrado unos cuantos PDFs de Eurostat, las habituales notas de prensa que resumen indicadores europeos por país (p.e, [este](http://www.eea.europa.eu/data-and-maps/data/external/in-2012-42-of-treated) o [este](http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-16062014-BP/EN/2-16062014-BP-EN.PDF)).
+Hoy he hecho limpieza de mi directorio de descargas. En él he encontrado unos cuantos PDFs de Eurostat, las habituales notas de prensa que resumen indicadores europeos por país (p.e., [este](http://www.eea.europa.eu/data-and-maps/data/external/in-2012-42-of-treated) o [este](http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-16062014-BP/EN/2-16062014-BP-EN.PDF)).
 
 Hojeando unos cuantos por encima no he podido dejar de advertir la excentricidad de España. Somos casi un _outlier_, se nos mire por donde se nos mire. Y cuando nos parecemos a algún otro país, es el equivocado.
 

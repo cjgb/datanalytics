@@ -32,7 +32,7 @@ Incluso, si el retraso puede atribuirse a distintos factores (por ejemplo, el d�
 
 ![](/wp-uploads/2019/07/kaplan-meier_2.jpeg)
 
-Hecho lo cual, ¿cómo estimar el número de casos del día 0 el día, p.e, 5? El modelo proporciona la proporción de notificados, $latex x$. Así que se hace una regla de tres y si a $latex x$ le corresponden $latex n$ notificados, a 1 le corresponderán... $latex n/x$.
+Hecho lo cual, ¿cómo estimar el número de casos del día 0 el día, p.e., 5? El modelo proporciona la proporción de notificados, $latex x$. Así que se hace una regla de tres y si a $latex x$ le corresponden $latex n$ notificados, a 1 le corresponderán... $latex n/x$.
 
 Pues no, no, no, no... ¡no!
 
