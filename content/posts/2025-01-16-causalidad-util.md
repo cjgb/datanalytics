@@ -23,4 +23,4 @@ Scott Sumner escribe [aquí](https://scottsumner.substack.com/p/the-china-malais
 El artículo discute asuntos que no vienen al caso, pero el extracto en cuestión arroja luz sobre ciertos aspectos de la causalidad que muchas veces pasamos por alto. De entre ellos cabe señalar dos:
 
 - Por un lado, trata la causalidad como explicación ---o razón--- por la que ocurren ciertas cosas. Explicaciones que alguien, un sujeto, sostiene frente a otros sujetos. La causalidad opera así fuera del mundo, entre los sujetos, a través de argumentos que se construyen y defienden.
-- Por otro, frente a la multiplicidad de explicaciones, hay algunas más útiles que otras y se abre la puerta para que la adscripción de la causa pueda deberse al interés, la utilidad, que extraiga de tal asignación quien la realiza.
+- Por otro, frente a la multiplicidad de explicaciones, hay algunas más útiles que otras y se abre la puerta para que la adscripción de la causa pueda deberse al interés, la utilidad que extraiga de tal asignación quien la realiza.

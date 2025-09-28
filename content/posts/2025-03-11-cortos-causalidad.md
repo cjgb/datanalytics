@@ -30,7 +30,7 @@ A todo esto, el RCM se llama también modelo de Neyman-Rubin. Neyman (el de los 
 
 ### II.
 
-En otra entrada, [_History, historians, and causality_](https://statmodeling.stat.columbia.edu/2022/09/01/history-historians-and-causality/) en la que discute el paralelismo entre el análisis causal y la estadística bayesiana con el quehacer de los historiadores, Gelman abunda sobre el mismo punto: son actividades distintas que pueden ejercerse independientemente la una de la otra.
+En otra entrada, [_History, historians, and causality_](https://statmodeling.stat.columbia.edu/2022/09/01/history-historians-and-causality/), en la que discute el paralelismo entre el análisis causal y la estadística bayesiana con el quehacer de los historiadores, Gelman abunda sobre el mismo punto: son actividades distintas que pueden ejercerse independientemente la una de la otra.
 
 El otro tema del artículo es la relación entre la estadística (predicar sobre poblaciones a partir de una muestra) y la historia (predicar sobre periodos históricos a partir de fragmentos). Y sobre, además, cómo los historiadores, a diferencia de, por ejemplo, los economistas ---y, supongo, los estadísticos---, no son tan amigos de generalizaciones _urbi et orbi_.
 
@@ -46,7 +46,7 @@ Mucho de lo que trata el estudio de la causalidad en estadística, en el fondo, 
 
 ![](/wp-uploads/2025/puzzling_anatomy.svg#center)
 
-con modelos parciales que, por algún motivo, ignoran parte de la estructura generadora de los datos. Dicho de otra manera, cuando el modelo es manifiestamente incorrecto. El caso anterior, por ejemplo, estudiando la regresión lineal $y \sim x_1$. Existe una solución evidente a todas estas discusiones bizantinas, reiterativas e irrelevantes:
+con modelos parciales que, por algún motivo, ignoran parte de la estructura generadora de los datos. Dicho de otra manera, cuando el modelo es manifiestamente incorrecto. El caso anterior, por ejemplo, al estudiar la regresión lineal $y \sim x_1$. Existe una solución evidente a todas estas discusiones bizantinas, reiterativas e irrelevantes:
 - Abandonar los modelos triviales (como la regresión lineal).
 - Modelizar adecuadamente la estructura generadora de datos tal cual es.
 
@@ -56,9 +56,9 @@ donde el lector interesado encontrará, además, una discusión _old style_ sobr
 
 ### V.
 
-La  mejor parte de la entrada
+La mejor parte de la entrada
 [_Effects are correlated, policy outcomes are not, and multi-factor explanations are hard_](https://www.lesswrong.com/posts/LRJk55uBehJqL6dju/effects-are-correlated-policy-outcomes-are-not-and-multi)
-es la última en la que discute la sobredeterminación causal razonando sobre el diagrama
+es la última. En ella se discute la sobredeterminación causal razonando sobre el diagrama
 
 ![](/wp-uploads/2025/fertile_crescent.svg#center)
 

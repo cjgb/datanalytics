@@ -24,14 +24,14 @@ Mandar una petición a un LLM equivale a usar un ordenador (bastante potente) un
 
 LLMs a los que se pregunta por una _variante_ del tres en raya, consistente en _rotar el tablero_ 90 grados. Sus respuestas, todas desatinadas ---de otra manera, ¿se habrían publicado los resultados?---, [aquí](https://mindmatters.ai/2025/01/some-lessons-from-deepseek-compared-with-other-chatbots/).
 
-Al parecer, la base matemática para el posterior descubrimiento de la fórmula para valorar opciones está en la obra de un relativamente oscuro matemático francés, [Louis Bachelier](https://es.wikipedia.org/wiki/Louis_Bachelier). Hay más sobre la historia de la fórmula be Black-Scholes [aquí](https://www.youtube.com/watch?v=hyIu6AOKsKU).
+Al parecer, la base matemática para el posterior descubrimiento de la fórmula para valorar opciones está en la obra de un relativamente oscuro matemático francés, [Louis Bachelier](https://es.wikipedia.org/wiki/Louis_Bachelier). Hay más sobre la historia de la fórmula de Black-Scholes [aquí](https://www.youtube.com/watch?v=hyIu6AOKsKU).
 
 He hablado al menos dos veces del asunto,
-[aquí](/2011/06/24/sobre-el-libro-the-flaw-of-averages/) y [aquí](/2021/09/21/aun-mas-sobre-propagacion-de-errores-y-rv/). Es sobre _objetos_ (computacionales, claro) que resuman la incertidumbre sobre un fenómeno y que permitan operar sobre ella. Por ejemplo, una celda de Excel que contenga una distribución y uno pueda, qué se yo, multiplicarla por dos en otra celda. Al parecer,
+[aquí](/2011/06/24/sobre-el-libro-the-flaw-of-averages/) y [aquí](/2021/09/21/aun-mas-sobre-propagacion-de-errores-y-rv/). Es sobre _objetos_ (computacionales, claro) que resuman la incertidumbre sobre un fenómeno y que permitan operar sobre ella. Por ejemplo, una celda de Excel que contenga una distribución y uno pueda, qué sé yo, multiplicarla por dos en otra celda. Al parecer,
 [Ambsheets](https://www.inkandswitch.com/ambsheets/)
 (no lo he probado) implementa algo parecido: es una hoja de cálculo en cuyas celdas pueden indicarse varios valores como mecanismo para representar la ambigüedad / incertidumbre.
 
-Éramos pocos y [_Barcelona estrena el primer supercomputador cuántico de España con tecnología europea_](https://www.eldiario.es/catalunya/barcelona-dispone-primer-supercomputador-cuantico-espana-tecnologia-europea_1_12032553.html). El artículo en cuestión recoge todo lo que está mal política, en ciencia, en divulgación y en periodismo. Valga como resumen de todo la cita que recogen del ministro del ramo: "los beneficios para la ciencia serán enormes, puesto que abre la puerta a la predicción de enfermedades, por ejemplo".
+Éramos pocos y [_Barcelona estrena el primer supercomputador cuántico de España con tecnología europea_](https://www.eldiario.es/catalunya/barcelona-dispone-primer-supercomputador-cuantico-espana-tecnologia-europea_1_12032553.html). El artículo en cuestión recoge todo lo que está mal en política, en ciencia, en divulgación y en periodismo. Valga como resumen de todo la cita que recogen del ministro del ramo: "los beneficios para la ciencia serán enormes, puesto que abre la puerta a la predicción de enfermedades, por ejemplo".
 
 En Google se implementó un mercado de predicciones interno. Al parecer, fracasó y se cerró. Ahora vuelven a intentarlo. A ver qué pasa. Información adicional,
 [aquí](https://asteriskmag.com/issues/08/the-death-and-life-of-prediction-markets-at-google).

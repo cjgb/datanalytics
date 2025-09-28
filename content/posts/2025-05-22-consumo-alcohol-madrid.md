@@ -37,7 +37,7 @@ Ese informe se nutre fundamentalmente de los datos de la
 [EDADES](https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/encuestas_EDADES.htm)
 (Encuesta sobre alcohol y otras drogas en España), del Ministerio de Sanidad. En el
 [informe correspondiente a la edición de 2024](https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2024_Informe_EDADES.pdf)
-de dicha encuesta, la palabra "Madrid" aparece 17 veces y en ninguna ellas se hace referencia a excesos de consumo de alcohol o incrementos del mismo.
+de dicha encuesta, la palabra "Madrid" aparece 17 veces y en ninguna de ellas se hace referencia a excesos de consumo de alcohol o incrementos del mismo.
 
 En ninguno de los dos informes anteriores se desglosa el consumo de alcohol diario por CCAA o su evolución temporal. Sin embargo, otras medidas menos específicas apuntan a un descenso paulatino en el consumo de alcohol tanto en Madrid como en el conjunto de España.
 
@@ -54,7 +54,7 @@ Pero eso no es realmente lo que dice el gráfico (y los datos subyacentes). Lo q
 
 El problema, como tantas veces, no está en el territorio sino en el mapa.
 
-Si se hacen encuestas sobre indicadores que tienen que ver con personas es porque existe inercia en el comportamiento humano. Eso se sabe desde siempre, pero especialísimamente, de Durkheim para acá. Lo que pasa esta semana se parece mucho a lo que pasó la anterior: el que bebía sigue bebiendo, el que creía que la tierra era plana lo sigue creyendo; hay más o menos el mismo número de suicidios, nacimientos y divorcios, etc. Los indicadores que tienen que ver con humanos varían despacio. De hecho, para cambiarlos, la gente gasta fortunas en sicólogos, siquiatras, Ozempic, antidepresivos, etc. y ni con esas. Asì que si alguien pretende hacerte creer que el porcentaje de quienes beben todos los días en Madrid oscila como la curva azul del gráfico anterior, hay motivos para pensar que esa persona es, precisamente, uno de los más contumaces consumidores de etanol.
+Si se hacen encuestas sobre indicadores que tienen que ver con personas, es porque existe inercia en el comportamiento humano. Eso se sabe desde siempre, pero especialísimamente, de Durkheim para acá. Lo que pasa esta semana se parece mucho a lo que pasó la anterior: el que bebía sigue bebiendo, el que creía que la tierra era plana lo sigue creyendo; hay más o menos el mismo número de suicidios, nacimientos y divorcios, etc. Los indicadores que tienen que ver con humanos varían despacio. De hecho, para cambiarlos, la gente gasta fortunas en sicólogos, siquiatras, Ozempic, antidepresivos, etc. y ni con esas. Asì que si alguien pretende hacerte creer que el porcentaje de quienes beben todos los días en Madrid oscila como la curva azul del gráfico anterior, hay motivos para pensar que esa persona es, precisamente, uno de los más contumaces consumidores de etanol.
 
 Los autores del informe deberían haber explicitado sus reservas hacia los resultados en el texto. Son funcionarios y no personal eventual precisamente para eso, para poder hacer valer ese buen criterio que les reconoció el BOE y por el que _adquirieron_ su _plaza_ (algo me estaba chirriando por dentro según escribía esas tres últimas palabras) sin consideraciones estratégicas ulteriores. Pero tampoco vamos a sorprendernos de que las cosas sean de esta manera a estas alturas de partido.
 

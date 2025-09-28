@@ -40,11 +40,11 @@ Los activistas desempeñan un papel fundamental en la promoción de la causa y l
 
 ### 3. Involucrar a los medios de comunicación
 
-Los periodistas están siempre ávidos de asuntos que transformar en noticias, especialmente si se refieren a problemas nuevos, que afectan a muchas personas y admite descripciones dramáticas. Simbiótica es un término idóneo para describir la relación entre periodistas y activistas sociales cuando ejercen la albañilería de problemas.
+Los periodistas están siempre ávidos de asuntos que transformar en noticias, especialmente si se refieren a problemas nuevos, que afectan a muchas personas y admiten descripciones dramáticas. Simbiótica es un término idóneo para describir la relación entre periodistas y activistas sociales cuando ejercen la albañilería de problemas.
 
 ### 4. Involucrar a expertos por aquello de la "auctoritas"
 
-Si bien en tiempos "los expertos" constituían un dique de contención frente a las majaderías, hoy sirven para defender tanto una tesis como la contraria. Iba a extenderme al respecto, pero Andrew Gelman tuvo a bien publicar en su blog una entrada idóneamente titulada (con mi traducción) nada menos que [_Se pueden encontrar estudios revisados por pares que respalden cualquier tesis por absurda que sea_](https://statmodeling.stat.columbia.edu/2025/08/03/you-can-cite-peer-reviewed-research-in-support-of-almost-any-claim-no-matter-how-absurd/) donde lo explica mejor de lo que hubiera podido hacerlo yo. Además de que apoyarme a un experto de la talla de Gelman aporta autoridad adicional a mi argumento.
+Si bien en tiempos "los expertos" constituían un dique de contención frente a las majaderías, hoy sirven para defender tanto una tesis como la contraria. Iba a extenderme al respecto, pero Andrew Gelman tuvo a bien publicar en su blog una entrada idóneamente titulada (con mi traducción) nada menos que [_Se pueden encontrar estudios revisados por pares que respalden cualquier tesis por absurda que sea_](https://statmodeling.stat.columbia.edu/2025/08/03/you-can-cite-peer-reviewed-research-in-support-of-almost-any-claim-no-matter-how-absurd/) donde lo explica mejor de lo que hubiera podido hacerlo yo. Además de que apoyarme en un experto de la talla de Gelman aporta autoridad adicional a mi argumento.
 
 Así que este paso se ha convertido en un mero formalismo.
 
@@ -68,13 +68,13 @@ En particular, la estadística es necesaria para:
 - Describir el tamaño del problema. Como en el caso de las presuntas "10.000 prostitutas en la ciudad de Nueva York", que el libro del que extraigo estas notas discute largamente.
 - Y, en particular, exagerar la escala del problema. Cuando no se dispone de estadísticas precisas, es posible ensayar estimaciones de _los casos no reportados_, sobreestimando el tamaño del problema y favoreciendo números redondos (ej. "uno, dos o más millones de casos al año"). Lo cual es solo natural si uno cree genuinamente en la importancia del problema ---o los ingresos de uno dependen sustancialmente de él--- y la sospecha de que pudiera haber un gran número de casos no registrados. Otra estrategia para obtener el mismo resultado consiste en ampliar las definiciones ---p.e., riesgo de pobreza en lugar de pobreza a secas---.
 - Manipular las mediciones. Si quienes elaboran las encuestas tienen interés de parte, pueden influir en los resultados mediante el uso de técnicas sobradamente conocidas, como la de la redacción artera de los cuestionarios, utilizando preguntas abiertas o preguntando sobre incidentes acaecidos en periodos de tiempo exageradamente largos (p.e., _a lo largo de la vida entera_), etc.
-- Utilizar muestras no aleatorias o, peor aún, presentando _casos vívidos_ dramáticos pero excepcionales como típicos.
+- Utilizar muestras no aleatorias o, peor aún, presentar _casos vívidos_ dramáticos pero excepcionales como típicos.
 
 La estadística es una herramienta fundamental para argumentar contra los críticos, los no enteramente convencidos y aquellos a los que el enquistamiento del constructo social en cuestión les puede acabar costando dinero (porque, recuérdese, contra los problemas sociales no se lucha solo con aire del cielo, hierba del prado y agua de la fuente).
 
 ### 7. Blanquear los números mediante la difusión masiva
 
-Hay números que no se sabe muy bien de dónde salen pero que hemos oído tantas veces (p.e., que el sector del automóvil representa el 10% del PIB en España) que incluso más que darlos por buenos, los consideramos miembros de nuestra propia familia. Esto es consecuencia de un proceso premeditado de reiteración que algunos han querido denominar _blanqueo de números_.
+Hay números que no se sabe muy bien de dónde salen pero que hemos oído tantas veces (p.e., que el sector del automóvil representa el 10% del PIB en España) que, más allá de darlos por buenos, los consideramos miembros de nuestra propia familia. Esto es consecuencia de un proceso premeditado de reiteración que algunos han querido denominar _blanqueo de números_.
 
 ### Conclusión
 

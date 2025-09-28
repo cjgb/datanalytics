@@ -33,7 +33,7 @@ y de cómo las usa en su trabajo (que parece estar relacionado con la programaci
 
 ### LLMs en local
 
-Es un asunto sobre el que hay mucho escrito y en el que abundan los _friquis_ ociosos. Para una introducción sobe el asunto, véase [_Everything I've learned so far about running local LLMs_](https://nullprogram.com/blog/2024/11/10/).
+Es un asunto sobre el que hay mucho escrito y en el que abundan los _friquis_ ociosos. Para una introducción sobre el asunto, véase [_Everything I've learned so far about running local LLMs_](https://nullprogram.com/blog/2024/11/10/).
 
 Pero las cosas están cambiando y hoy en día es posible correr modelos mejores que GPT-4 (que parecía imbatible hace apenas un año) en un portátil (véase [esto](https://simonwillison.net/2024/Dec/9/llama-33-70b/)).
 

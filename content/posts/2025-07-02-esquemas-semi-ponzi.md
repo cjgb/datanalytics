@@ -35,7 +35,7 @@ $$\sum_i R_i + \sum_i A_i =  \sum_i A_i > 0,$$
 
 es decir, en tanto que otros inversores hayan aportado dinero a C.
 
-Es fácil entender entonces qué quiero entender con el término esquema semi-Ponzi. Se trata de una institución a medio camino entre BBVA y Ponzi (o, para no salir de mi barrio, [la hija de Mariano José Larra](https://es.wikipedia.org/wiki/Baldomera_Larra)): desarrollan una actividad económica, sí, pero pequeña en comparación con el capital que captan, de tal manera que aunque $\sum R_i > 0$, se tiene que $\sum_i R_i \ll \sum_i A_i$. Si un día la investiga la Guardia Civil por fraude, siempre pueden alegar que son una institución legítima, que tienen un proyecto de negocio y que, desafortunadamente, rinde por debajo de lo esperado.
+Es fácil entender entonces qué quiero entender con el término esquema semi-Ponzi. Se trata de una institución a medio camino entre BBVA y Ponzi (o, para no salir de mi barrio, [la hija de Mariano José Larra](https://es.wikipedia.org/wiki/Baldomera_Larra)): desarrolla una actividad económica, sí, pero pequeña en comparación con el capital que capta, de tal manera que aunque $\sum R_i > 0$, se tiene que $\sum_i R_i \ll \sum_i A_i$. Si un día la investiga la Guardia Civil por fraude, siempre puede alegar que es una institución legítima, que tienen un proyecto de negocio y que, desafortunadamente, rinde por debajo de lo esperado.
 
 Supongo que a veces puede funcionar. Es sabido de todos que a Enron, a la larga, no.
 

@@ -31,7 +31,7 @@ Por accidente he tropezado con este artículo,
 [_Un nuevo estudio condena a más de 200.000 personas de España por su nombre: "Son menos inteligentes"_](https://www.huffingtonpost.es/sociedad/nuevo-estudio-condena-mas-200000-personas-espana-nombre-son-inteligentes.html),
 en un medio perteneciente al grupo Prisa y hermano, por lo tanto, de la _prensa nacional más seria_. En particular afirma que la gente que se llama Jonathan, Aline o Sara tiene un CI promedio de no mucho más de 80. La misma información parece haber sido publicada recientemente en otros medios. Curiosamente, en la francofonía, el _estudio_ se conoció en octubre de 2023 (véase, por ejemplo,
 [esto](https://www.sudinfo.be/id781076/article/2023-10-18/voici-les-prenoms-qui-auraient-le-qi-le-moins-eleve)). El medio belga
-[TTBF](https://www.rtbf.be/)
+[RTBF](https://www.rtbf.be/)
 ha [investigado](https://www.rtbf.be/article/le-prenom-de-votre-enfant-influence-t-il-son-intelligence-11291609)
 el asunto y ha dado con y entrevistado al autor de la _noticia_, un tal Thomas Gayet, antiguo redactor de Topito, un medio especializado en _listas top 10_ y para el que escribió hace años [artículo original](https://www.topito.com/top-prenoms-qi-plus-faible-moyenne) y en el que se indica claramente que:
 

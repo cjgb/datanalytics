@@ -22,7 +22,7 @@ En la cuenta [@StartupArchive_](https://x.com/StartupArchive_) de Twitter se pub
 
 > Jeff Bezos nos cuenta cómo una vez llamó al servicio de atención al cliente de Amazon en mitad de una reunión para demostrar que una métrica era incorrecta.
 >
-> [...] Jeff cuenta una historia de los primeros días de Amazon, cuando sus métricas indicaban que los clientes esperaban menos de 60 segundos en obtener una respuesta después de llamar al número de atención al cliente. Sin embargo, las quejas de los clientes parecían indicar lo contrario. Como explica Jeff:
+> [...] Jeff cuenta una historia de los primeros días de Amazon, cuando sus métricas indicaban que los clientes esperaban menos de 60 segundos para obtener una respuesta después de llamar al número de atención al cliente. Sin embargo, las quejas de los clientes parecían indicar lo contrario. Como explica Jeff:
 >
 > "Tengo un dicho: cuando los datos y las anécdotas no concuerdan, las anécdotas suelen ser correctas... Si tienes un montón de clientes quejándose de algo pero tus métricas parecen indicar que no deberían quejarse, debes dudar de las métricas".
 >

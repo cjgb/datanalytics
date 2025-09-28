@@ -22,8 +22,8 @@ title: Sobre la menguante calidad de las estadísticas públicas y algunos otros
 url: /2025/06/10/cortos-economia/
 ---
 
-El fertilizante para jardinería trae por detrás tres numeritos tras la etiqueta NKP, que indican la proporción de nitrógeno, potasio y fósforo en la mezcla. Es _sabido_ que el crecimiento de las plantas está limitado por el más escaso: es decir, fijada una de las tres letras, incrementar las otras dos no aporta beneficio alguno. Sin embargo, no solo de fertilizante viven los cultivos y las tendencias globales muestran que
-[producir más comida no exige cantidades crecientes de insumos agrícolas](https://www.sustainabilitybynumbers.com/p/agricultural-total-factor-productivity)
+El fertilizante para jardinería trae por detrás tres numeritos tras la etiqueta NPK, que indican la proporción de nitrógeno, potasio y fósforo en la mezcla. Es _sabido_ que el crecimiento de las plantas está limitado por el más escaso: es decir, fijada una de las tres letras, incrementar las otras dos no aporta beneficio alguno. Sin embargo, no solo de fertilizante viven los cultivos y las tendencias globales muestran que
+[producir más comida no exige cantidades crecientes de insumos agrícolas](https://www.sustainabilitybynumbers.com/p/agricultural-total-factor-productivity).
 Se puede hacer más con lo mismo ---o con menos--- usando más de otro insumo del que tampoco andamos tan sobrados: materia gris.
 
 He guardado una nota sobre algo que escribió Matt Levine y que traduzco así:
@@ -41,7 +41,7 @@ Más [resultados de otro estudio sobre la renta básica universal](https://www.s
 Se queja The Economist del
 [declive de la calidad de las estadísticas económicas de EEUU](https://www.economist.com/united-states/2025/06/29/americas-economic-data-are-becoming-murkier).
 Dice que una de las causas es la falta de fondos.
-Pero uno sospecha que el problema no ocurre solo en EEUU y que tampoco es únicamente por falta de recursos. Léase, por ejemplo, [_Economía frena una estadística del INE que afloraría el dato real de fijos discontinuos_](https://www.elconfidencial.com/economia/2025-07-21/ministerio-economica-frena-estadistica-erada_4176615/).
+Pero uno sospecha que el problema no ocurre solo en EEUU y que tampoco se debe únicamente a la falta de recursos. Léase, por ejemplo, [_Economía frena una estadística del INE que afloraría el dato real de fijos discontinuos_](https://www.elconfidencial.com/economia/2025-07-21/ministerio-economica-frena-estadistica-erada_4176615/).
 
 En relación con lo anterior, Gelman contribuye al debate sobre la conexión entre discursos y experiencias y [escribe](https://statmodeling.stat.columbia.edu/2025/06/22/update-on-effects-of-economy-on-political-attitudes-and-behavior/):
 
@@ -49,4 +49,4 @@ En relación con lo anterior, Gelman contribuye al debate sobre la conexión ent
 
 Dos enlaces finales sobre la universidad: en el primero, The Economist argumenta que
 [los graduados universitarios de hoy en día están _jodidos_](https://www.economist.com/finance-and-economics/2025/06/16/why-todays-graduates-are-screwed).
-En el segundo, uno de los pocos artículos mínimamente potables de NadaEsGratis en el curso actual, se estudia y critica la manera en la que [los estudiantes eligen su carrera universitaria](https://nadaesgratis.es/cabrales/como-eligen-los-estudiantes-su-carrera-universitaria-y-pueden-hacerlo-mejor). Igual tienen algo que ver entre sí.
+En el segundo, uno de los pocos artículos mínimamente potables de NadaEsGratis durante el curso actual, se estudia y critica la manera en la que [los estudiantes eligen su carrera universitaria](https://nadaesgratis.es/cabrales/como-eligen-los-estudiantes-su-carrera-universitaria-y-pueden-hacerlo-mejor). Igual tienen algo que ver entre sí.

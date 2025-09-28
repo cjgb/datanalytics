@@ -23,7 +23,7 @@ url: /2025/03/25/cortos-llms/
 
 Todo el mundo lleva días hablando del [MCP](https://www.anthropic.com/news/model-context-protocol). Creo que ni merece la pena decir qué cosa es.
 
-MCP es un mecanismo para _empoderar_ agentes. Para los primeros que creé utilié [CrewAI](https://docs.crewai.com/examples/example) pero he _migrado_ a LangChain porque:
+MCP es un mecanismo para _empoderar_ agentes. Para los primeros que creé, utilicé [CrewAI](https://docs.crewai.com/examples/example) pero he _migrado_ a LangChain porque:
 - A CrewAI le encantan las _dependencias tochas_: para cualquier trivialidad crea entornos de varios GB.
 - CrewAI está diseñado para un tipo de agentes muy concreto ---agentes a los que se delega enteramente el control del flujo del proceso--- que no son exactamente los que más me interesan ahora --que suelen incluir un elemento de control por mi parte---.
 
@@ -43,8 +43,8 @@ Algunas aplicaciones y usos de los LLMs que he recogido en estas últimas semana
 1. _[Xata Agent](https://github.com/xataio/agent) es un agente de código abierto que monitoriza tu base de datos, encuentra la causa de los problemas y sugiere soluciones y mejoras._
 1. He estado usando también una serie de modelos de audio ([que están mejorando a marchas forzadas](https://openai.com/index/introducing-our-next-generation-audio-models/)) para un proyecto del que no puedo decir nada.
 1. John D. Cook usa [Grok 3 para generar imágenes que le ayuden a recordar números](https://www.johndcook.com/blog/2025/02/20/mnemonic-images-grok-3/) (de acuerdo con el [código fonético de memorización](https://es.wikipedia.org/wiki/C%C3%B3digo_fon%C3%A9tico_(memorizaci%C3%B3n))).
-1. Se de que [o3-mini es muy bueno para escribir documentación](https://simonwillison.net/2025/Feb/5/o3-mini-documentation/) de proyectos de _software_.
-1. Y quiero dejar anotado en algún sition que es muy entretenido jugar con [InstantID](https://huggingface.co/spaces/InstantX/InstantID) y fotos de uno, aunque supongo que ya existirán alternativas infinitamente mejores en el mercado (un mercado que me es ajeno porque no estoy metido en la generación de imagen y vídeo).
+1. [o3-mini es muy bueno para escribir documentación](https://simonwillison.net/2025/Feb/5/o3-mini-documentation/) de proyectos de _software_.
+1. Y quiero dejar anotado en algún sitio que es muy entretenido jugar con [InstantID](https://huggingface.co/spaces/InstantX/InstantID) y fotos de uno, aunque supongo que ya existirán alternativas infinitamente mejores en el mercado (un mercado que me es ajeno porque no estoy metido en la generación de imagen y vídeo).
 
 Por si alguien no lo ha visto aún, [3Blue1Brown](https://www.youtube.com/@3blue1brown) tiene un [vídeo sobre la atención en los _transformers_](https://www.youtube.com/watch?v=eMlx5fFNoYc). Muy recomendable. Como casi todo lo del canal.
 

@@ -21,7 +21,7 @@ url: /2024/11/07/votan-vecinos/
 La historia, telegráficamente, es así:
 
 1. Hubo unas elecciones hace unos pocos días en EEUU.
-2. Existieron las concomintantes encuestas, predicciones y... mercados de apuestas.
+2. Existieron las concomitantes encuestas, predicciones y... mercados de apuestas.
 3. De entre los últimos, [Polymarket](https://polymarket.com/wallet) se destacó por asignar unas probabilidades de victoria a Trump muy superiores a las del bendito consenso.
 4. Hubo gente muy sabida que criticó mucho a Polymarket. El argumento principal era:
     1. En Polymarket se juega con dinero.

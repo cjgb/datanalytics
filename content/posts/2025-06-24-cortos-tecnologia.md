@@ -24,7 +24,7 @@ url: /2025/06/24/cortos-tecnologia/
 Ahí va una lista de novedades tecnológicas que he recopilado ---y en algunos casos, integrado en mi flujo de trabajo--- a lo largo de las últimas semanas:
 
 1. [f2](https://github.com/ayoisaiah/f2) para renombrar ficheros de manera _inteligente_ y en masa. Desde línea de comandos, obviamente.
-1. Después de muchos años cómodamente instalado en el las herramientas de línea de comandos de toda la vida, he estado explorando [reemplazos _modernos_ para algunas de las más comunes](https://medium.com/@devlink/15-rust-cli-tools-that-will-make-you-abandon-bash-scripts-forever-0120bbfe473c).
+1. Después de muchos años cómodamente instalado en las herramientas de línea de comandos de toda la vida, he estado explorando [reemplazos _modernos_ para algunas de las más comunes](https://medium.com/@devlink/15-rust-cli-tools-that-will-make-you-abandon-bash-scripts-forever-0120bbfe473c).
 1. Microsoft ha publicado [Edit](https://github.com/microsoft/edit), _un editor simple para usos simples_.
 1. [Typst](https://typst.app/). ¿Adiós a LaTeX?
 1. En esta [lista de ocho herramientas de _vibe coding_](https://zapier.com/blog/best-vibe-coding-tools/), falta mi favorita, [Aider](https://aider.chat/).
@@ -41,4 +41,4 @@ Ahí va una lista de novedades tecnológicas que he recopilado ---y en algunos c
 1. Tres nuevos modelos chinos de los que soy fan:
     1. [Kimi 2](https://www.kimi.com/). Funciona igual de bien que otros LLMs más reputados para las tareas habituales pero va mucho más al grano.
     1. [GLM-4.5](https://z.ai/blog/glm-4.5), otro modelo que estoy comenzando a probar y que me gusta bastante.
-    1. [Qwen3-235B-A22B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507)
+    1. [Qwen3-235B-A22B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507).

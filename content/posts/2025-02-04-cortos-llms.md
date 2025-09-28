@@ -19,12 +19,12 @@ title: Unas cuantas noticias sobre LLMs
 url: /2025/02/04/cortos-llms/
 ---
 
-DeepSeek V3 llevaba publicado desde diciembre; R1, desde hacía más de una semana; pero solo fue el lunes 27 de enero cuando NVDIA sufrió un descalabro y DeepSeek apareció repentinamente ---hasta entonces no había rebasado los habituales foros friquis--- en boca de todos (véase
+DeepSeek V3 llevaba publicado desde diciembre; R1, desde hacía más de una semana; pero solo fue el lunes 27 de enero cuando NVIDIA sufrió un descalabro y DeepSeek apareció repentinamente ---hasta entonces no había rebasado los habituales foros friquis--- en boca de todos (véase
 [esto](https://www.economist.com/briefing/2025/01/23/chinas-ai-industry-has-almost-caught-up-with-americas) o
-[esto](https://www.youtube.com/watch?v=iNIp6AzUV8U), dos de las mejoras piezas al respecto que he recopilado). Aparentemente, lo que hizo caer la bolsa fue el artículo
-[_The Short Case for Nvidia Stock_](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) parecido el sábado 25 de enero en el que se hace un repaso detallado de las fortalezas pero, sobre todo, los peligros que acechan a NVIDIA. Algunas de las cuestiones que trata son:
+[esto](https://www.youtube.com/watch?v=iNIp6AzUV8U), dos de las mejores piezas al respecto que he recopilado). Aparentemente, lo que hizo caer la bolsa fue el artículo
+[_The Short Case for Nvidia Stock_](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda), aparecido el sábado 25 de enero, en el que se hace un repaso detallado de las fortalezas pero, sobre todo, los peligros que acechan a NVIDIA. Algunas de las cuestiones que trata son:
 - Cómo el coste de la IA generativa está basculando desde el entrenamiento (antes) a la _inferencia_ (ahora). El motivo es doble: por un lado, DeepSeek está mostrando cómo entrenar muy frugalmente modelos punteros; por el otro, los modelos que razonan invierten mucho más tiempo en alcanzar sus conclusiones.
-- En el mundo del _hardware_, y particularmente para la inferencia, están apareciendo competidores muy serios: Groq (no Grok), Cerebras, las TPUs de Google, los _chips_ que están fabricando o planeando Microsoft, Apple u Amazon y ---si consiguen mejorar los _drivers_--- las mismas GPUs de AMD.
+- En el mundo del _hardware_, y particularmente para la inferencia, están apareciendo competidores muy serios: Groq (no Grok), Cerebras, las TPUs de Google, los _chips_ que están fabricando o planeando Microsoft, Apple o Amazon y ---si consiguen mejorar los _drivers_--- las mismas GPUs de AMD.
 - En el mundo del _software_, además de las innovaciones que aportan los modelos de DeepSeek, existen lenguajes de _nivel intermedio_ como JAX que permitirían _puentear_ CUDA, es decir, que los diseñadores de LLMs no tuvieran que conocer y utilizar necesariamente CUDA porque un lenguaje de nivel intermedio les permitiese abstraerlo y utilizar, por lo tanto, cualquier otra plataforma, no necesariamente la de NVIDIA.
 
 Trae el NYT un artículo sobre [_novias virtuales_](https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html). En

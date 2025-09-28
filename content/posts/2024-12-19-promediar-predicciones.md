@@ -22,7 +22,7 @@ Existe incertidumbre sobre el resultado, 0 o 1, de un evento de interés $X$. Se
 
 Uno pensaría que el promedio, $p = \frac{1}{n} \sum_i p_i$, es una opción razonable. En la literatura se discuten también generalizaciones del tipo $p = \sum_i w_i p_i$ para pesos $w_i$ que suman 1. Sin embargo, en sitios como
 [este](https://forum.effectivealtruism.org/posts/sMjcjnnpoAQCcedL2/when-pooling-forecasts-use-the-geometric-mean-of-odds)
-se sugiere usar la media geométrica de los _odds_ (o, equivalentemente, la aritmética de los _log ods_), es decir, calcular los _log odds_,
+se sugiere usar la media geométrica de los _odds_ (o, equivalentemente, la aritmética de los _log odds_), es decir, calcular los _log odds_,
 
 $$l_i = \log \frac{p_i}{1-p_i},$$
 
@@ -44,6 +44,6 @@ Es evidente que $p$ sería la media aritmética de los $p_i$ si $\alpha_i + \bet
 
 Este argumento tiene algunos puntos débiles, en todo caso. Implícitamente se ha usado que la información que aportan los distintos expertos es independiente. Pero es posible que gran parte de la información que aporten sea redundante, por lo que, por escribirlo de alguna manera rápida, el $\alpha$ combinado sería sustancialmente menor que $\sum_i \alpha_i$; obviamente, lo mismo ocurre con $\beta$. Al promediar se está dando excesivo peso ---al ser agregada muchas veces--- a la información conocida de todos.
 
-No está claro cómo el usar la media geométrica de los _odds_ ---la alternativa al uso de las medias planteada más arriba--- resuelve este problema. Implícitamente, como en la formulación descrita en esta entrada, asume una cierta distribución de la incertidumbre, pero la modela en el espacio de los _odds_ (el semieje positivo), y la interpretación, por culpa de la transformación no lineal entre el espacio de las probabilidades y el de los _odds_ se me escapa.
+No está claro cómo el usar la media geométrica de los _odds_ ---la alternativa al uso de las medias planteada más arriba--- resuelve este problema. Implícitamente, como en la formulación descrita en esta entrada, asume una cierta distribución de la incertidumbre, pero la modela en el espacio de los _odds_ (el semieje positivo), y la interpretación, por culpa de la transformación no lineal entre el espacio de las probabilidades y el de los _odds_, se me escapa.
 
 A veces, para modelar un sistema uno usa una distribución de Poisson. Y uno lo hace a sabiendas de los motivos por los que la elección es razonable y los motivos por los que no (¿son los eventos _verdaderamente_ independientes?). A veces, para agregar predicciones, uno usa la media aritmética. Espero que, gracias a esto que escribo hoy, sea más consciente de los motivos por los que su elección es y no es razonable.

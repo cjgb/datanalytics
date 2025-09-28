@@ -33,7 +33,7 @@ Uber ha desarrollado [H3](https://h3geo.org/),
 una retícula global de hexágonos para georeferenciar puntos y objetos. Cada hexágono tiene asociado un único ID y el sistema está concebido para poder correr de manera eficiente los algoritmos habituales: vecinos próximos, ruta más corta, etc.
 
 [OpenTimes](https://sno.ws/opentimes/) es un sistema para mostrar el tiempo de viaje (en distintos medios) entre ubicaciones de EEUU. Tiene precalculados los miles de millones de valores de la correspondiente matriz y lo particular de la cosa es que almacena y sirve los datos desde [R2](https://www.cloudflare.com/developer-platform/products/r2/),
-un sistema de Cloudfare similar al archiconocido S3 de Amazon pero orientado a la distribución eficiente de información para aplicaciones web.
+un sistema de Cloudflare similar al archiconocido S3 de Amazon pero orientado a la distribución eficiente de información para aplicaciones web.
 
 Cada día soy más fan del [Z3 SAT/SMT Solver](https://www.johndcook.com/blog/2025/03/17/lessons-learned-with-the-z3-sat-smt-solver/). Estoy deseando encontrar un problema en el que poder aplicarlo (y ser pagado, obviamente, por ello).
 
@@ -54,7 +54,7 @@ Era moda acudir a StackOverflow a ver cómo progresaba la popularidad de los div
 
 La fuente es [esta](https://win-vector.com/2025/03/02/best-before-dates-by-bass/) y la fecha relevante en el gráfico coincide con...
 
-Un [tutorial _moderno_ de _web scraping_](https://simonwillison.net/2025/Mar/8/cutting-edge-web-scraping/). La tecnología siempre cambia y uno encuentra a veces métodos de lo más extraño para servir la información. Fracasé varias veces en el intento de descargar la actualización de la [lista de los ETFs de ING](/2024/06/18/etfs-ing/) hasta que me di cuenta que en la nueva versión, la información venía en un objeto de Javascript puro dentro de un fichero `.js`.
+Un [tutorial _moderno_ de _web scraping_](https://simonwillison.net/2025/Mar/8/cutting-edge-web-scraping/). La tecnología siempre cambia y uno encuentra a veces métodos de lo más extraño para servir la información. Fracasé varias veces en el intento de descargar la actualización de la [lista de los ETFs de ING](/2024/06/18/etfs-ing/) hasta que me di cuenta de que en la nueva versión, la información venía en un objeto de JavaScript puro dentro de un fichero `.js`.
 
 Construction Physics (un _blog_ muy recomendable) trae una [entrada sobre la energía solar](https://www.construction-physics.com/p/understanding-solar-energy)
 en la que argumenta alrededor de una serie de cálculos y simulaciones. Al parecer, el autor ha colgado el [código en GitHub](https://github.com/briancpotter/solarsim) y ha advertido que lo escribió

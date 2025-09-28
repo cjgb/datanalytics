@@ -19,19 +19,19 @@ title: Bajo hipótesis razonables, hacen falta 16 veces más observaciones para 
 url: /2024/12/12/estimacion-interacciones/
 ---
 
-Uno de los grandes temas de estas páginas es que el efecto principal de un tratamiento es un indicador demasiado burdo. Casi siempre queremos ver ese efecto propiamente desglosado: a unos sujetos les afecta más, a otro menos.
+Uno de los grandes temas de estas páginas es que el efecto principal de un tratamiento es un indicador demasiado burdo. Casi siempre queremos ver ese efecto propiamente desglosado: a unos sujetos les afecta más; a otros, menos.
 
 Para lograr ese objetivo, hay que estudiar cómo interactúa el efecto con otras variables (p.e., sexo). Desafortunadamente, cuanto mayor es el grado de desglose, más incertidumbre existe sobre las estimaciones; a la inversa, para lograr una mayor precisión en las estimaciones, hace falta incrementar el tamaño muestral. Pero, ¿cuánto?
 
 Andrew Gelman ha usado frecuentemente en su blog la siguiente heurística: hacen falta 16 veces más observaciones para estimar una interacción ---implícitamente: con una variable binaria (¡glups!), como el sexo--- que para estimar el efecto principal. Afortunadamente, tiene un par de entradas
 ([esta](https://statmodeling.stat.columbia.edu/2018/03/15/need16/) y
-[esta](https://statmodeling.stat.columbia.edu/2023/11/09/you-need-16-times-the-sample-size-to-estimate-an-interaction-than-to-estimate-a-main-effect-explained/)) en las que justifica dicha heurística.
+[esta](https://statmodeling.stat.columbia.edu/2023/11/09/you-need-16-times-the-sample-size-to-estimate-an-interaction-than-to-estimate-a-main-effect-explained/)) en las que justifica ese _número mágico_.
 
 El razonamiento se basa en lo siguiente:
 
 1. Si se usan promedios ---que es equivalente a la regresión lineal--- para estimar el efecto principal y una interacción (binaria), el error estándar de la interacción es el doble que el del efecto principal.
 2. Es razonable suponer que una interacción tendrá la mitad de la magnitud de un efecto principal.
-3. Por lo tanto, el tamaño del efecto verdadero dividido por el error estándar es 4 veces mayor para la interacción que para el efecto principal.
+3. Por lo tanto, el tamaño del efecto verdadero dividido por el error estándar es 4 veces menor para la interacción que para el efecto principal.
 4. Para lograr un nivel equivalente de potencia estadística para la estimación de la interacción, hace falta un tamaño muestral 4^2 = 16 veces el necesario para un efecto principal.
 
 La tensión entre señal y ruido / sesgo y varianza en estado puro.

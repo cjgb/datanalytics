@@ -22,7 +22,7 @@ title: LLMs para la predicción de series temporales y algunos asuntos más
 url: /2025/05/13/cortos-llms/
 ---
 
-El _prompt injecting_ es una técnica para robar información a un agente. Si un agente tiene, por ejemplo, acceso al correo electrónico, se le puede enviar un mensaje dándole instrucciones que alteren su comportamiento. Es un problema bien conocido de los agentes y ahora en [_Defeating Prompt Injections by Design_](https://arxiv.org/abs/2503.18813) se describe una solución basada en dos agentes, uno de los cuales tiene como función supervisar las acciones del otro.
+El _prompt injection_ es una técnica para robar información a un agente. Si un agente tiene, por ejemplo, acceso al correo electrónico, se le puede enviar un mensaje dándole instrucciones que alteren su comportamiento. Es un problema bien conocido de los agentes y ahora en [_Defeating Prompt Injections by Design_](https://arxiv.org/abs/2503.18813) se describe una solución basada en dos agentes, uno de los cuales tiene como función supervisar las acciones del otro.
 
 Como no puede ser de otra manera, [el MCP plantea grandes problemas de seguridad](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/).
 
@@ -36,10 +36,10 @@ Simon Willison escribe sobre cómo desarrollar _software_ que interactúa con LL
 un sistema desarrollado por él para utilizar LLMs en línea de comandos. Ahora, además,
 [permite usar _herramientas_](https://simonwillison.net/2025/May/27/llm-tools/#atom-everything).
 [Una de las más promisorias](https://github.com/daturkel/llm-tools-exa) es la que permite interactuar con
-[Exa](https://exa.ai/)
+[Exa](https://exa.ai/),
 un buscador con una API nativa y con un segmento gratuito generoso.
 
-Una de las cosas que sorprendieron a los primeros usuarios de GPT-2, el antecesor de ChatGPT, fueron las _propiedades emergentes_: sin haber sido entrenado específicamente para eso, había aprendido francés, a jugar al ajedrez, etc. Ahora resulta que [los LLMs se pueden sufrir _desalineacion emergente_](https://thezvi.wordpress.com/2025/02/28/on-emergent-misalignment/): si los reentrenas sobre _software_ no seguro, comienzan a adquirir comportamientos _desviados_ e indeseados en otros ámbitos. ¿Querrá eso decir que los malos programadores no son gente de fiar?
+Una de las cosas que sorprendieron a los primeros usuarios de GPT-2, el antecesor de ChatGPT, fueron las _propiedades emergentes_: sin haber sido entrenado específicamente para eso, había aprendido francés, a jugar al ajedrez, etc. Ahora resulta que [los LLMs pueden sufrir _desalineación emergente_](https://thezvi.wordpress.com/2025/02/28/on-emergent-misalignment/): si los reentrenas sobre _software_ no seguro, comienzan a adquirir comportamientos _desviados_ e indeseados en otros ámbitos. ¿Querrá eso decir que los malos programadores no son gente de fiar?
 
 Vivimos lo que algunos denominan una
 [_explosión cámbrica_ de _hardware_ adaptado a las aplicaciones de IA](https://thechipletter.substack.com/p/ai-accelerators-the-cambrian-explosion).

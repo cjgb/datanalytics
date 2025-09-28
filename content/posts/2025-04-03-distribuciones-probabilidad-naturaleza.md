@@ -35,12 +35,10 @@ o
 
 ![Distribución lognormal](/wp-uploads/2025/dist_02.png#center)
 
-que aparecen en los libros que discuten las propiedades matemáticas de la incertidumbre serían ajenos al _mundo material_. Pero, entonces, ¿cómo se es que existen
+que aparecen en los libros que discuten las propiedades matemáticas de la incertidumbre serían ajenos al _mundo material_. Pero, entonces, ¿cómo es que existen
 
 ![Distribución normal en una puerta](/wp-uploads/2025/dist_03.jpg#center)
 
-,
-
 ![Distribución normal en una puerta](/wp-uploads/2025/dist_04.jpg#center)
 
-, o tantas otras imágenes de la misma naturaleza? ¿Por que estarían empeñada la realidad en imitar formas que solo imaginan nuestras mentes?
+o tantas otras imágenes de la misma naturaleza? ¿Por que estaría empeñada la realidad en imitar formas que solo imaginan nuestras mentes?

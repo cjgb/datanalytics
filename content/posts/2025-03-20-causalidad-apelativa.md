@@ -23,7 +23,7 @@ Arranco con un experimento mental: A lleva un chaleco antibalas. B le dispara, l
 - La policía determina que B (y el disparo que realiza) es la causa de lo sucedido.
 - Los médicos que reciben a A en el hospital encuentran que la bala incrustada en su pecho es la causa de su estado.
 - El técnico de la empresa que fabrica los chalecos antibalas especula que el inusual calibre de la bala y el ángulo de impacto son la causa de que atravesase el chaleco.
-- Incluso, uno puede especular que gente que conoce a B (p.e., su siquiatra, su familia o sus amigos íntimos) aventuren otras _causas_ para lo sucedido.
+- Incluso, uno puede especular que gente que conoce a B (p.e., su siquiatra, su familia o sus amigos íntimos) aventure otras _causas_ para lo sucedido.
 
 En el mundo, realmente, ha sucedido lo que ha sucedido y nada más: hay, a lo más, _razones_. La razón de que A se debata entre la vida y la muerte es que tiene una bala en el pecho. Pero determinados sujetos identifican _causas_ que los apelan en tanto que son lo que son y que los mueven a la acción: unos a detener e interrogar a B, otros a intubar a B, etc.
 

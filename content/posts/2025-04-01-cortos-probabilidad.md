@@ -37,7 +37,7 @@ Acerca de este último asunto y de los p-valores trae Gelman un par de entradas 
 
 Finalmente, dos apuntes adicionales. El primero,
 [sobre la construcción del llamado _ruido azul_](https://acko.net/blog/stable-fiddusion/),
-que puede entenderse como muestreos de una variante de la distribución uniforme más uniforme de lo que realmente es. En efecto, la representación de muestra de una distribución uniforme bidimensional es una especie de _gris_, pero un gris que no se percibe como _uniforme_. Si se le añade además algún tipo de dispersión aparecen necesariamente zonas con un gris más claro y otras con uno más oscuro:
+que puede entenderse como muestreos de una variante de la distribución uniforme más uniforme de lo que realmente es. En efecto, la representación de una muestra de una distribución uniforme bidimensional es una especie de _gris_, pero un gris que no se percibe como _uniforme_. Si se le añade además algún tipo de dispersión aparecen necesariamente zonas con un gris más claro y otras con uno más oscuro:
 
 ![Ruido blando difuminado](/wp-uploads/2025/blurred_white_noise.png#center)
 

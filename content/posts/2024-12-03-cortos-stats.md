@@ -23,14 +23,14 @@ url: /2024/12/03/cortos-estadistica/
 
 ### Sobre catboost
 
-Todavía no he usado `catboost` en ningún proyecto serio, aunque tiene la pinta de ser la evolución más sofisticada de todos las variantes existentes del _boosting_. Ya escribí al respecto [aquí](/2024/01/23/oblivious-trees/) y hoy traigo dos enlaces adicionales de José Luis Cañadas, un usuario muy entusiasta. Una sobre el tratamiento de las
+Todavía no he usado `catboost` en ningún proyecto serio, aunque tiene la pinta de ser la evolución más sofisticada de todas las variantes existentes del _boosting_. Ya escribí al respecto [aquí](/2024/01/23/oblivious-trees/) y hoy traigo dos enlaces adicionales de José Luis Cañadas, un usuario muy entusiasta. Uno sobre el tratamiento de las
 [variables categóricas](https://muestrear-no-es-pecado.netlify.app/2023/06/09/categoricas_a_lo_catboost_pensamientos/index.html)
 y otro sobre la
 [regresión por cuantiles](https://muestrear-no-es-pecado.netlify.app/2023/04/23/quantile-catboost/index.html).
 
 ### Ajuste bayesiano de un modelo con censura
 
-Lo presenta el maestro Juan Orduz [aquí](https://juanitorduz.github.io/censoring/) que, como todos, no para mientes al hecho [no totalmente evidente](/2024/11/21/verosimilitud-distribuciones-compuestas/) de que la verosimilitud de una densidad mixta (continua y discreta a un tiempo) es la que se postula que es (véase cómo arranca la sección _Censored Gamma Model_).
+Lo presenta el maestro Juan Orduz [aquí](https://juanitorduz.github.io/censoring/) que, como todos, no para mientes en el hecho [no totalmente evidente](/2024/11/21/verosimilitud-distribuciones-compuestas/) de que la verosimilitud de una densidad mixta (continua y discreta a un tiempo) es la que se postula que es (véase cómo arranca la sección _Censored Gamma Model_).
 
 ### Un tipo extraño de problema de modelización estadística
 

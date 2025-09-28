@@ -21,7 +21,7 @@ url: /2024/11/19/cortos-llms/
 
 ### Artefactos de Claude
 
-Uno de los aplicaciones derivadas de los LLMs que más satisfacciones me están dando son los
+Una de las aplicaciones derivadas de los LLMs que más satisfacciones me están dando son los
 [_artefactos_ de Claude](https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them)
 (véase, por ejemplo, [esto](https://datanalytics.com/2024/10/24/claude-artifacts-bee-bot/)).
 
@@ -47,4 +47,4 @@ Se ve que [Recraft puede generar SVG](https://www.artificialstudio.ai/tools/recr
 
 ### Docling debería llamarse panread
 
-Existe `pandoc` que permite reescribir documentos en distintos formatos. Una aplicación dual ---diseñada originalmente, se ve, para alimentar LLMs con texto--- parece ser [`docling`](https://simonwillison.net/2024/Nov/3/docling/). Parece que es capaz de procesar documentos complejos, ralizar, incluso, OCR, etc., para extraer texto aceptable de ellos.
+Existe `pandoc` que permite reescribir documentos en distintos formatos. Una aplicación dual ---diseñada originalmente, se ve, para alimentar LLMs con texto--- parece ser [`docling`](https://simonwillison.net/2024/Nov/3/docling/). Parece que es capaz de procesar documentos complejos, realizar, incluso, OCR, etc., para extraer texto aceptable de ellos.

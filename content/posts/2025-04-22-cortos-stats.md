@@ -31,7 +31,7 @@ Un [artículo muy raro de Manuel Hidalgo](https://nadaesgratis.es/manu-hidalgo/e
 
 En [¿Qué significa que la inteligencia es heredable en un 50 %?](https://derechomercantilespana.blogspot.com/2025/01/que-significa-que-la-inteligencia-es.html) hay una discusión _para legos_ sobre el concepto de la _varianza explicada_ y de las maneras y dificultades que tenemos los unos para explicarnos y los otros para entendernos. Aunque, como es bien sabido, el concepto de _varianza explicada_ tiene el recorrido que tiene y no más.
 
-La entrada [_Adjudication and Statistical Efficiency_](https://www.fharrell.com/post/pdx/) de Frank Harrell tiene que ver con el proceso de asignar (adjudicar) casos a variables más o menos binarias, particularmente cuando dicha asignación no está del todo clara. Sugiere utilizar los _grises_ de distintas maneras: aleatorizar los casos dudosos, utilizar escalas, etc. evitando en la medida de lo posible _categorizaciones categóricas_ y problemáticas.
+La entrada [_Adjudication and Statistical Efficiency_](https://www.fharrell.com/post/pdx/) de Frank Harrell tiene que ver con el proceso de asignar (adjudicar) casos a variables más o menos binarias, particularmente cuando dicha asignación no está del todo clara. Sugiere utilizar los _grises_ de distintas maneras: aleatorizar los casos dudosos, utilizar escalas, etc., evitando en la medida de lo posible _categorizaciones categóricas_ y problemáticas.
 
 Creo que voy a invertir un tiempo en el material del curso [_Prediction for (Individualized) Decision-making_](https://archive.is/gXf9X). Creo que aún no sé lo suficiente de lo que media entre lo que los modelos nos cuentan y las decisiones que podemos tomar en función de ellos.
 

@@ -31,6 +31,6 @@ Pero si tenemos una mezcla de distribuciones, una continua $f_\alpha$ y una disc
 
 $$\prod_{i = 1}^n f_\alpha(x_i) \prod_{i = 1}^m p_\beta(y_i)?$$
 
-(Este cuestión surge, por ejemplo, en el análisis de la supervivencia cuando hay censura.)
+(Esta cuestión surge, por ejemplo, en el análisis de la supervivencia cuando hay censura.)
 
 Pues sí, sigue siendo cierto. Había visto aplicar esto en varias partes sin la mayor discusión al respecto pese a no ser enteramente evidente. Una demostración (o justificación razonada) puede encontrarse [aquí](https://stats.stackexchange.com/questions/248476/maximum-likelihood-function-for-mixed-type-distribution).
