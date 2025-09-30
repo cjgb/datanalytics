@@ -27,7 +27,7 @@ De todos modos, el problema de la causalidad no es, en todo caso, puramente esta
 
 > Sin embargo, es un desafío establecer si algo sobre las redes sociales en general causa daños a la salud mental, como la depresión y la ansiedad, o si la asociación se debe principalmente a la causalidad inversa (lo que significa que la depresión o la ansiedad es lo que está causando que algunos adolescentes usen las redes sociales con más frecuencia).
 
-Una vez especificado el modelo causal, la medición es sencilla. Pero, ¿hacia a dónde apuntan las flechas?
+Una vez especificado el modelo causal, la medición es sencilla. Pero, ¿hacia dónde apuntan las flechas?
 
 En [_Difference-in-differences: What’s the difference?_](https://statmodeling.stat.columbia.edu/2023/10/11/difference-in-differences-whats-the-difference/), Gelman discute el manido tema de las DiD, donde sostiene que él prefiere estudiar $(y_T – y_C) – \beta(x_T – x_C)$ ---donde $T$ y $C$ representan tratamiento y control directamente y $\beta$ es un coeficiente de regresión estimado a partir de los datos--- que el estándar
 $(y_T – y_C) – (x_T – x_C)$, donde $\beta = 1$ y que es el método de las DiD de libro.
@@ -53,7 +53,7 @@ para darse cuenta rápidamente de que no hay mucho aprovechable en lo que procla
 [Radiandando](https://radiandando.es/)
 es un blog que lleva desde 2017 (su primera entrada es de diciembre de ese año), desmontando bulos, ciencia en mano, sobre los efectos de los
 [campos electromagnéticos de radiofrecuencia](https://radiandando.es/2017/12/21/cem-rf-de-que-estamos-hablando-mosquitos-piedras-o-bloques-de-granito/)
-en la salud. En su primera entrada ya escribía cómo _a día de hoy, a los niveles de exposición habituales, no existe evidencia de que los CEM-RF provoquen efectos sobre la Salud_. Siete años después, publica la entrada
+en la salud. En su primera entrada ya escribía cómo _a día de hoy, a los niveles de exposición habituales, no existe evidencia de que los CEM-RF provoquen efectos sobre la salud_. Siete años después, publica la entrada
 [La ciencia descarta relación entre móviles y cáncer tras casi tres décadas de investigación](https://radiandando.es/2024/09/03/la-ciencia-descarta-relacion-entre-moviles-y-cancer-tras-casi-tres-decadas-de-investigacion/).
 El lector circunstancial se preguntará: ¿sobre qué habrá podido estar escribiendo entonces durante los últimos siete años?
 

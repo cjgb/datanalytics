@@ -14,7 +14,7 @@ tags:
 - ergodicidad
 - ética
 - pareto
-title: Ergodicidad, Birkoff, Pareto, Sidgwick, utilitarismo y todas esas cosas
+title: Ergodicidad, Birkhoff, Pareto, Sidgwick, utilitarismo y todas esas cosas
 url: /2024/10/03/ergodicidad-utilitarismo/
 ---
 
@@ -22,7 +22,7 @@ url: /2024/10/03/ergodicidad-utilitarismo/
 
 Consideremos un proceso estocástico $X$ (por ejemplo, una sucesión de tiradas de monedas) y varias realizaciones suyas $x_i$. (Una realización sería, en este caso, una secuencia concreta de tiradas de monedas). Supongamos que cada realización $x_i$ está asociada a un sujeto $i$ (el que tira las monedas). Por conveniencia, $x_i(n)$ es la enésima tirada del sujeto $i$.
 
-Se puede hablar de la media de $X$ que debería ser 1/2 (la proporción de caras). Pero hay varias maneas de pensar en esa _media_: por ejemplo, como el límite de
+Se puede hablar de la media de $X$ que debería ser 1/2 (la proporción de caras). Pero hay varias maneras de pensar en esa _media_: por ejemplo, como el límite de
 
 $$\frac{1}{T} \sum_{t = 1}^T x_i(t)$$
 
@@ -32,7 +32,7 @@ $$\frac{1}{N} \sum_{n = 1}^N x_n(t)$$
 
 para cierto $t$. Es decir, podemos pensar en elegir un sujeto y promediar sus tiradas o fijar un momento $t$ y promediar las tiradas de todos los sujetos. Para el proceso $X$ tal cual se ha definido, tanto da: se obtiene 1/2 en cualquiera de los dos casos.
 
-Que la media a lo largo del tiempo para un sujeto y la media a través de los sujetos para un momento determinado sean idénticos es consecuencia de la llamada ergodicidad del proceso $X$. Tiene que ver con el teorema de Birkoff y muchas otras cosas que pertenecen a mi pasado remoto.
+Que la media a lo largo del tiempo para un sujeto y la media a través de los sujetos para un momento determinado sean idénticos es consecuencia de la llamada ergodicidad del proceso $X$. Tiene que ver con el teorema de Birkhoff y muchas otras cosas que pertenecen a mi pasado remoto.
 
 ### II.
 
@@ -55,6 +55,8 @@ Tras 100 tiradas, solo el 13% de los sujetos conservan su capital; tras mil tira
 
 ### III.
 
-A este pequeño experimento se le pueden extraer varias moralejas relativas al impacto que pueden tener las grandes cifras, las estadísticas que se publican por ahí, en los individuos concretos. Un juego (o una _política_) con un impacto societal promedio positivo pasaría todos los filtros del utilitarismo estricto (basado en el criterio de aumentar la utilidad media) ---no así el criterio de Pareto, que prohíbe incrementar la utilidad de unos a costa de la de otros---.
+A este pequeño experimento se le pueden extraer varias moralejas relativas al impacto que pueden tener las grandes cifras, esas estadísticas que se publican por ahí, en los individuos concretos. Un juego (o una _política_) con un impacto societal promedio positivo pasaría todos los filtros del utilitarismo estricto, basado en el criterio de aumentar la utilidad media. No así el criterio de Pareto, que prohíbe incrementar la utilidad de unos a costa de la de otros.
 
-Igualmente, hay estadísticas ---de las que publica el INE, etc.--- que parecen ergódicas: se publican con el beneplácito de los más reputados estadísticos del estado y uno las encuentra reflejadas en su entorno, donde uno aprecia casos de aquello a lo que se refiere la estadística en cuestión. Pero en ocasiones uno advierte una discrepancia notable entre aquello que lee y aquello que observa. Supongo que ocurre menos en la España de hoy que en la URSS de antaño, pero, sin duda, siguen existiendo cifras no ergódicas.
+Igualmente, hay estadísticas ---de las que publica el INE, etc.--- que parecen ergódicas: se publican con el beneplácito de los más reputados estadísticos del estado y uno las encuentra reflejadas en su entorno, donde uno aprecia casos de aquello a lo que se refiere la estadística en cuestión. Pero, en ocasiones, con otras, uno advierte una discrepancia notable entre aquello que lee y aquello que observa.
+
+Supongo que ocurre menos en la España de hoy que en la URSS de antaño, pero, sin duda, siguen existiendo cifras no ergódicas.

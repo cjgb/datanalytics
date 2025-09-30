@@ -29,8 +29,8 @@ En _[The “it” in AI models is the dataset](https://nonint.com/2023/06/10/the
 Hablar de _hardware_ en el contexto de los LLMs parecería casi exclusivamente hablar de NVIDIA, pero no solo. El modelo es el siguiente:
 
 1. Existen las CPUs, que son procesadores de propósito general y sobre las que no merece la pena explayarse.
-2. Existe cierto tipo de operaciones que se repiten muy frecuentemente. Las CPUs podría realizarlas, pero es posible diseñar dispositivos de _hardware_ específicos más simples pero mucho más eficientes, las GPUs. Las GPUs fueron concebidas para otra cosa ---la G de GPU se refiere a _gráficos_--- pero dio la casualidad de que el tipo de operaciones que se realiza al entrenar y predecir usando modelos de IA son un subconjunto de las que las GPUs realizan con una pasmosa eficacia.
-3. Sin embargo, ese subconjunto de operaciones necesarias para realizar la inferencia ---predicción--- de LLMs pueden realizarse con dispositivos de cómputo todavía más simples que las GPUs.
+2. Existe cierto tipo de operaciones que se repiten muy frecuentemente. Las CPUs podrían realizarlas, pero es posible diseñar dispositivos de _hardware_ específicos más simples pero mucho más eficientes, las GPUs. Las GPUs fueron concebidas para otra cosa ---la G de GPU se refiere a _gráficos_--- pero dio la casualidad de que el tipo de operaciones que se realiza al entrenar y predecir usando modelos de IA son un subconjunto de las que las GPUs realizan con una pasmosa eficacia.
+3. Sin embargo, las operaciones de subconjunto de las necesarias para realizar la inferencia ---predicción--- de LLMs pueden realizarse con dispositivos de cómputo todavía más simples que las GPUs.
 
 De ahí [Cerebras](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed) o [Groq](https://groq.com/).
 
@@ -45,7 +45,7 @@ En cuanto a herramientas:
 
 ### IV.
 
-Como bien cabía esperar, la UE tiene una [oficina de cosas IA](https://digital-strategy.ec.europa.eu/en/policies/ai-office) de la que cabe esperar bien poco.
+Como no podía ser de otra manera, la UE tiene una [oficina de cosas IA](https://digital-strategy.ec.europa.eu/en/policies/ai-office) de la que cabe esperar bien poco.
 
 
 ### V.
