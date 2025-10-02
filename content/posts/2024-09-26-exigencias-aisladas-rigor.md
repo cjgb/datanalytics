@@ -38,7 +38,7 @@ Hay disciplinas que usan la estadística para _demostrar_ hechos empíricos. La 
 
 ### III.
 
-Hasta que pasa y alguien _demuestra_ algo inconveniente. Entonces cierta gente desempolva el manual de metodología y comienza una cruzada en contra, una _exigencia aislada de rigor_.
+Hasta que pasa y alguien _demuestra_ algo inconveniente. Entonces cierta gente desempolva el manual de metodología y comienza una cruzada en contra, que típicamente asume la forma de una _exigencia aislada de rigor_.
 
 ### Coda.
 
