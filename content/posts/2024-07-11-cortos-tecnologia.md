@@ -31,7 +31,7 @@ Escribes código en el panel de la izquierda, eliges el compilador y ves el cód
 
 ### III.
 
-Alguien hizo ingeniería inversa de Github Copilot y escribió [esto](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html).
+Alguien hizo ingeniería inversa de GitHub Copilot y escribió [esto](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html).
 
 
 ### IV.

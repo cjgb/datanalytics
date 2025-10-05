@@ -57,7 +57,7 @@ Sin embargo...
 
 ... R tiene un problema de base para ser usado para el preprocesamiento masivo de datos en producción: es un lenguaje diseñado para un uso interactivo. Si lo has tratado de usar para generar código _en producción_, sabrás bien de qué hablo.
 
-Y en en ese sentido, Python le da mil vueltas a R. O se lo comenzó a dar desde el momento en el que este, vía `pandas`, se dotó de ese peculiar tipo de colección fundamental para la ciencia de datos que son las tablas (o `DataFrames`).
+Y en ese sentido, Python le da mil vueltas a R. O se lo comenzó a dar desde el momento en el que este, vía `pandas`, se dotó de ese peculiar tipo de colección fundamental para la ciencia de datos que son las tablas (o `DataFrames`).
 
 ### Python + pandas
 

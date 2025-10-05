@@ -43,7 +43,7 @@ La sentencia parece basarse en dos circunstancias poco interesantes:
 - la protección de la propiedad intelectual del código
 - los riesgos de ciberseguridad
 
-Lo evidente es que el RdE (Reino de España, en lo que sigue) no quería mostrar el código, la ley de transparencia lista una serie de motivos por los que este se puede negar a hacerlo, sus abogados han construido un caso alrededor de ello y se han llevado el gato al agua. Porque la propiedad intelectual del código, casi seguro, es del RdE y dicho reino podría haber hecho con él lo que le viniese en gana, como, p.e., liberarlo mediante una licencia abierta. Y en cuanto al asunto de la _ciberseguridad_ se ha optado, se ha elevado prácticamente a rango de ley, la [_security through obscurity_](https://en.wikipedia.org/wiki/Security_through_obscurity), que es el método más contraproducente, menos _idóneo_ ---en la jerga--- y más _cuñado_ para lograr el objetivo deseado que pueda imaginarse.
+Lo evidente es que el RdE (Reino de España, en lo que sigue) no quería mostrar el código, la ley de transparencia lista una serie de motivos por los que este se puede negar a hacerlo, sus abogados han construido un caso alrededor de ello y se han llevado el gato al agua. Porque la propiedad intelectual del código, casi seguro, es del RdE y dicho reino podría haber hecho con él lo que le viniese en gana, como, p.e., liberarlo mediante una licencia abierta. Y en cuanto al asunto de la _ciberseguridad_ se ha optado por ---se ha elevado prácticamente a rango de ley--- la [_security through obscurity_](https://en.wikipedia.org/wiki/Security_through_obscurity), que es el método más contraproducente, menos _idóneo_ ---en la jerga--- y más _cuñado_ para lograr el objetivo deseado que pueda imaginarse.
 
 De todos modos, el asunto suscita algunas cuestiones, de entre las que hoy trataré las dos más breves, para dejar la tercera para una futura ocasión.
 
@@ -91,8 +91,8 @@ Que es la madre del cordero, según he citado arriba y reproduzco de nuevo aquí
 
 Lo raro de la cosa es que:
 
-1. De es cierto que ha habido discrepancias y errores, las decisiones no se hayan recurrido y revertido.
-2. Y que advertidos de dichos recursos, los autores de BOSCO no hayan alineado su implementación con la interpretación que de ella hecho quienes tenían potestad para ello.
+1. De ser cierto que ha habido discrepancias y errores, que las decisiones no se hayan recurrido y revertido.
+2. Y que advertidos de dichos recursos, los autores de BOSCO no hayan alineado su implementación con la interpretación que de ella han hecho quienes tenían potestad para ello.
 3. Si es que, claro está, esas decisiones son vinculantes (y no meramente opiniones circunstanciales).
 
 Es decir, que no exista un mecanismo por el cual el código de BOSCO converja hacia el que esperan las instancias que tienen poder para resolver vinculantemente las ambigüedades cuando estas tienen ocasión de manifestarse.
@@ -106,4 +106,4 @@ Hay empresas en las que operan principios similares: uno habitual es que, en cas
 
 [**Inciso:** Cuando quien hoy escribe tenía enfrente uno de estos senderos que se bifurcan y se veía obligado a optar por una de las dos implementaciones, el criterio que utilzaba era simple y efectivo: la más rápida y sencilla. Después, si alguien 1) se enteraba, 2) protestaba y 3) no atendía las razones que le daba ---que desde luego no eran las reales, sino otras cohonestadoras de lo _fecho_---, tocaba, qué remedio, implementar la más trabajosa.]
 
-Desde luego, contar con un criterio generalizado ayudaría a alinear las distintas implementaciones de un mismo seudocódigo. Lo cual me lleva a especular con lo siguiente: las discrepancias que dizque existen entre las dos implementaciones, BOSCO y Civio de mismo seudocoódigo se deben a que han resuelto en favor de la administración los primeros y del interesado los segundos las ambigüedades del lenguaje natural.
+Desde luego, contar con un criterio generalizado ayudaría a alinear las distintas implementaciones de un mismo seudocódigo. Lo cual me lleva a especular con lo siguiente: las discrepancias que dizque existen entre las dos implementaciones, BOSCO y Civio, del mismo seudocoódigo se deben a que han resuelto en favor de la administración los primeros y del interesado los segundos las ambigüedades del lenguaje natural.

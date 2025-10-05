@@ -31,7 +31,7 @@ Habrá a quien le apetezca discurrir o discutir al respecto. Entonces pudiera se
 
 Es de Ortega, sirve para definir lo que entendía por _perspectivismo_, está extraído de
 [_El tema de nuestro tiempo_](https://ministeriodeeducacion.gob.do/docs/biblioteca-virtual/9aY2-ortega-y-gasset-jose-el-tema-de-nuestro-tiempopdf.pdf)
-y su relevancia y oportunidad son evindentes.
+y su relevancia y oportunidad son evidentes.
 
 ### Coda
 

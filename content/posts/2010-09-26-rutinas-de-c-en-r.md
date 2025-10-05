@@ -18,7 +18,7 @@ title: Rutinas de C en R
 url: /2010/09/26/rutinas-de-c-en-r/
 ---
 
-_[Nota: esta entrada está totalmente desactualizada y la mantengo en en blog por una mezcla de sentimentalismo y fidelidad a la "memoria histórica"; el interesado en cómo interconectar R y C (o C++) hoy hará bien en buscar en otra parte.]_
+_[Nota: esta entrada está totalmente desactualizada y la mantengo en blog por una mezcla de sentimentalismo y fidelidad a la "memoria histórica"; el interesado en cómo interconectar R y C (o C++) hoy hará bien en buscar en otra parte.]_
 
 Esta entrada que ahora hago es un pequeño tutorial que publiqué en mi primera página de internet a principios de siglo, cuando todavía usaba Windows regularmente. Es posible que gran parte de lo que en ella cuente esté ya mandado a recoger. No obstante, tampoco hace tanto, eché mano de lo que en ella había dejado escrito para ver cómo migrar a Windows algo que había hecho en Linux y... todavía funcionó.
 

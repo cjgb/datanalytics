@@ -38,9 +38,9 @@ el [RAG y/o _Finetuning_](https://towardsdatascience.com/rag-vs-finetuning-which
 
 ### III.
 
-Estimaciones sobre el impacto económico de la IA en la productividad, etc. en un artículo (glosado [aquí](https://marginalrevolution.com/marginalrevolution/2024/04/the-simple-macroeconomics-of-ai.html)) de Acemoglu (versión corta: una fracción de lo que presumen los más entusiastas).
+Estimaciones sobre el impacto económico de la IA en la productividad, etc., en un artículo (glosado [aquí](https://marginalrevolution.com/marginalrevolution/2024/04/the-simple-macroeconomics-of-ai.html)) de Acemoglu (versión corta: una fracción de lo que presumen los más entusiastas).
 
-Me ha resultado tambíén útil para entender ese impacto un artículo de Jeśus Fernández Villaverde, [_Simple Rules for a Complex World with Artiﬁcial Intelligence_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559378).
+Me ha resultado también útil para entender ese impacto un artículo de Jesús Fernández Villaverde, [_Simple Rules for a Complex World with Artificial Intelligence_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559378).
 
 ### IV.
 
@@ -51,7 +51,7 @@ que puede ser útil para muchos otros también.
 
 ### V.
 
-Diríase que  _embeddings_ son el hermanito feo de los LLMs. Están envueltos por una especie de halo mágico ---no sé si real o pretendido--- que los hace semánticamente relevantes y de ahí su interés (y encanto). Una serie de enlaces que he encontrado útiles para entenderlos y manipularlos son:
+Diríase que los _embeddings_ son los hermanitos feos de los LLMs. Están envueltos por una especie de halo mágico ---no sé si real o pretendido--- que los hace semánticamente relevantes y de ahí su interés (y encanto). Una serie de enlaces que he encontrado útiles para entenderlos y manipularlos son:
 
 - [_Embeddings: BERT better than ChatGPT4?_](https://medium.com/@avinash.patil.0909/bert-embedding-vs-chatgpt4-embeddings-8cf023023fe7)
 - [_Embeddings: What they are and why they matter_](https://simonwillison.net/2023/Oct/23/embeddings/)

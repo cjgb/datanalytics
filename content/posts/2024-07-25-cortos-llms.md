@@ -41,7 +41,7 @@ Cuando apareció, GPT-2 [parecía realmente magia](https://marginalrevolution.co
 
 ### IV. Mamba
 
-La casi totalidad de los LLMs están basados en _transformers_. [Codestral Mamba](https://mistral.ai/news/codestral-mamba/) usa una arquitectura distinta,
+La casi totalidad de los LLMs está basada en _transformers_. [Codestral Mamba](https://mistral.ai/news/codestral-mamba/) usa una arquitectura distinta,
 [Mamba](https://arxiv.org/abs/2312.00752), de la que seguro que seguiremos oyendo hablar en el futuro.
 
 

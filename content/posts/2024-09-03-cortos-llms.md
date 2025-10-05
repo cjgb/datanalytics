@@ -24,8 +24,8 @@ Enlazo una [entrevista a Tyler Cowen](https://www.youtube.com/watch?v=5JZtPE8LU-
 
 - Investigar hechos históricos oscuros.
 - Traducir cualquier cosa.
-- Obtener información sobre menús en restaurantes el extranjero.
-- Identifciar plantas y pájaros.
+- Obtener información sobre menús en restaurantes en el extranjero.
+- Identificar plantas y pájaros.
 - Comprender temas complejos y generar preguntas para entrevistas.
 - Obtener información a partir de los diarios personales.
 - Entender las necesidades de su perro.
@@ -41,7 +41,7 @@ Nicholas Carlini explica [aquí](https://nicholas.carlini.com/writing/2024/how-i
 - Realizar tareas monótonas y aburridas
 - Etc.
 
-Alex Albert [recomendando](https://x.com/alexalbert__/status/1824136151701360756) usar ejemplos en las _queries_: de todos los trucos, sostiene, es el más efectivo con diferencia.
+Alex Albert [recomendando](https://x.com/alexalbert__/status/1824136151701360756) usar ejemplos en las _queries_; de todos los trucos, sostiene, es el más efectivo con diferencia.
 
 LLMs para [reordenar resultados de búsqueda por relevancia](https://x.com/dzhng/status/1822380811372642378).
 

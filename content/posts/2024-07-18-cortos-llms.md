@@ -23,7 +23,7 @@ url: /2024/07/18/cortos-llms/
 ### I. Visualización
 
 Recopilo aquí cuatro enlaces vagamente hermanados por su relación con la visualización (y los LLMs):
-- Exploración interaectiva de la arquitecturas de ciertos LLMs, [aquí](https://bbycroft.net/llm).
+- Exploración interactiva de la arquitecturas de ciertos LLMs, [aquí](https://bbycroft.net/llm).
 - Una visualización/animación sobre cómo funcionan los _transformers_, [aquí](https://poloclub.github.io/transformer-explainer/).
 - [Aquí](https://www.youtube.com/watch?v=eMlx5fFNoYc), en vídeo.
 - Y dos para _tokens_, [este](https://huggingface.co/spaces/Xenova/the-tokenizer-playground) y [este](https://chunkviz.up.railway.app/).
@@ -41,7 +41,7 @@ especulando con la posibilidad de que los LLMs no alcancen jamás el _pensamient
 ### III. Aplicaciones
 
 Una serie de aplicaciones de los LLMs:
-- Identificar cláusulas relevantes en contratos, [aquí](https://medium.com/@adamhacklander/creating-an-ai-model-to-locate-key-clauses-within-contracts-6b3d7b91cc82). Parte de su interés proviene del hecho de que  no utilizan LLMs sino,  más bien, NLP clásico vía SpaCy.
+- Identificar cláusulas relevantes en contratos, [aquí](https://medium.com/@adamhacklander/creating-an-ai-model-to-locate-key-clauses-within-contracts-6b3d7b91cc82). Parte de su interés proviene del hecho de que no utilizan LLMs sino, más bien, NLP clásico vía SpaCy.
 - Crear _tarjetas_ tipo Anki para repasar, [aquí](https://www.alexejgossmann.com/LLMs-for-spaced-repetition/). Tengo montado algo parecido en mi servidor doméstico.
 - Algo parecido a los NotebookLM de Google, pero ahora de Anthropic, [aquí](https://simonwillison.net/2024/Jun/25/claude-projects/).
 - Crear mensajes de _commit_ en git, [aquí](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)

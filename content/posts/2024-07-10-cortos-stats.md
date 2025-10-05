@@ -59,7 +59,7 @@ En
 (y también [aquí](https://statmodeling.stat.columbia.edu/2024/05/03/combining-multiply-imputed-datasets-never-easy/))
 se discute un problema que, espero, en unos años no tendremos:
 - Tienes datos con algunos _missings_.
-- Realizas imputación múltiple, con lo aue obtienes varios conjuntos de datos _completos_.
+- Realizas imputación múltiple, con lo que obtienes varios conjuntos de datos _completos_.
 - Ajustas modelos sobre cada uno de ellos.
 - Combinas los distintos modelos en uno global, _definitivo_.
 

@@ -35,19 +35,18 @@ con el que se crea la requetemanida gráfica
 
 útil para ilustrar aspectos relacionados con el ajuste de modelos. Hoy, toca de nuevo.
 
-Salvo que uno haga cosas muy extravagantes, los errores de un modelo están tanto por arriba como por debajo de la predicción. De hecho, en una amplia clase de modelos $\sum_i e_i =0$ en entrenamiento y, usualmente, la suma de los errores no debe de quedar muy lejos de cero tampoco en validación (y en el mundo real). Uno puede casi siempre decir: unas veces me quedaré corto; otras largo y la ley de los grandes números me da ciertas garantías de que lo dado compensará lo servido en el largo plazo.
-
+Salvo que uno haga cosas muy extravagantes, los errores de un modelo están tanto por arriba como por debajo de la predicción. De hecho, en una amplia clase de modelos $\sum_i e_i =0$ en entrenamiento y, usualmente, la suma de los errores no debe de quedar muy lejos de cero tampoco en validación (y en el mundo real). Uno puede casi siempre decir: unas veces me quedaré corto; otras, largo; pero la ley de los grandes números me da ciertas garantías de que lo dado compensará lo servido en el largo plazo.
 
 ### II. Zillow
 
 Sobre Zillow ya hablé un día [en un vídeo](/2022/02/28/nuevo-video-en-youtube-modelos-estadisticos-comportamiento-estrategico/). Pero resumo:
 - Zillow construyó un modelo del precio de la vivienda.
 - Zillow se comprometía a comprar las viviendas al precio que marcase el modelo.
-- Zillow o quebró o casi quebró y tuvo que cambiar de estrategia.
+- Zillow o quebró (o casi quebró) y tuvo que cambiar de estrategia.
 
 ¿Por qué? Porque el error para Zillow no era $\sum_i e_i \sim 0$ sino $\sum_i \min(0, e_i) < 0$. En efecto:
 1. La propiedad X tiene un precio de mercado ---es decir, alguien ofrece ese dinero por ella--- de 100k pero Zillow infraestima y ofrece 95k. Zillow ganaría 5k de adquirir X, pero en realidad gana 0 porque nunca llega a adquirirla.
-2. La propiedad X tiene un precio de mercado de 100k pero Zillow sobreestima y ofrece 105k. Entonces Zillow pierde 5k porque compra por 105k algo que vale 100k.
+2. La propiedad X tiene un precio de mercado de 100k, pero Zillow sobreestima y ofrece 105k. Entonces Zillow pierde 5k porque compra por 105k algo que vale 100k.
 
 ### III. Control de alquileres
 

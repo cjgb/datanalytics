@@ -36,12 +36,12 @@ Por un lado, se nos invita a dar por buena la ciencia (para, entre otras cosas, 
 
 ### IV.
 
-Relacionado con lo antarior, este documento, [_Replicability & Generalisability: A Guide to CEA discounts_](https://docs.google.com/document/d/1eJBSmNG-iRJ-twoHaoztQUmB4pmEHut8_oT3xgtldnI/edit#heading=h.4o8v2cr7vkn2), comienza así:
+Relacionado con lo anterior, este documento, [_Replicability & Generalisability: A Guide to CEA discounts_](https://docs.google.com/document/d/1eJBSmNG-iRJ-twoHaoztQUmB4pmEHut8_oT3xgtldnI/edit#heading=h.4o8v2cr7vkn2), comienza así:
 
 > Este documento proporciona pautas para estimar los descuentos que aplicamos a los RCTs en los análisis coste-beneficio que realizamos para las ONGs que trabajan en salud y desarrollo económico.
 
 ### V.
 
 Y otro más,
-[este](https://marginalrevolution.com/marginalrevolution/2024/03/is-there-hope-for-evidence-based-policy.html)
+[este](https://marginalrevolution.com/marginalrevolution/2024/03/is-there-hope-for-evidence-based-policy.html),
 sobre por dónde van los tiros en el cooptadísimo mundo de los RCTs en ciencias sociales.

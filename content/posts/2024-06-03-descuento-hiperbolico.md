@@ -25,7 +25,7 @@ La teoría dice que el valor _ahora_ (o presente) de un bien $A$ en el futuro, d
 
 Entonces, si $A$ son 100 € y la $r$ de cierto individuo es tal que el valor presente de 100 € dentro de un año son 50 €, este individuo valorará de igual manera 50 € hoy o $100 \exp(-r) = 50$ € dentro de un año.
 
-Si $r$ es constante ---una simplificación bastante seria de la teoría que no rige cuando uno profundiza en el mundo de la finanzas, por ejemplo---, entonces dicho individuo será indiferente entre:
+Si $r$ es constante ---una simplificación bastante seria de la teoría que no rige cuando uno profundiza en el mundo de las finanzas, por ejemplo---, entonces dicho individuo será indiferente entre:
 - 25 € hoy
 - 50 € dentro de un año: $25 = 50 \exp(-r)$
 - 100 € dentro de dos años: $25 = 100 \exp(-2r)$
@@ -36,7 +36,7 @@ Si $r$ es constante ---una simplificación bastante seria de la teoría que no r
 Pero la gente no es _tan racional_. La gente suele razonar de tal manera ---al menos, según los sicólogos que hacen estudios de campo al respecto--- que valora más el pájaro en mano que el que vendrá. En particular, un humano _normal_:
 
 - Tenderá a valorar más los 25 € hoy que los 50 mañana.
-- Es mucho más indiferente entre 50 € dentro de un año que 50 € dentro de dos que lo que dice la teoría precedente.
+- Es mucho más indiferente entre 50 € dentro de un año o 50 € dentro de dos que lo que dice la teoría precedente.
 
 Es como si la función de descuento no fuese la exponencial sino una función que:
 - Desciende rápidamente al principio.
@@ -64,8 +64,8 @@ Si la función de descuento fuese la hiperbólica, todo el mundo tendría una vi
 
 Una función de descuento que recogiese las desviaciones observadas de los agentes seudorracionales frente a las que sugiere la teoría tradicional del descuento debería cumplir:
 
-- Tener una caída rápida en un entorno del 0 (sobre valorando el presente)
+- Tener una caída rápida en un entorno del 0 (sobrevalorando el presente).
 - Decrecer muy lentamente fuera de dicho entorno.
-- Tener un valor muy bajo en el futuro (sobre todo, al cabo de unos años, descontando casi a 0 lo que pase entonces)
+- Tener un valor muy bajo en el futuro (sobre todo, al cabo de unos años, descontando casi a 0 lo que pase entonces).
 
 Un escalón, vamos.

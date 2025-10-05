@@ -17,7 +17,7 @@ title: Hoy vuelve a ser el día internacional de la copia de seguridad
 url: /2024/03/30/dia-internacional-copia-seguridad/
 ---
 
-Hoy, como cada 31 de marzo, se celebra el día de la copia de seguridad.
+Hoy, como cada 31 de marzo, se celebra el día internacional de la copia de seguridad.
 
 Así que ya sabéis qué hacer:
 

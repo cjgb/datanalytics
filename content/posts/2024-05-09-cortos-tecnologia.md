@@ -23,7 +23,7 @@ title: Algunas novedades tecnológicas que he recopilado en los últimos tiempos
 url: /2024/05/09/novedades-tecnologia/
 ---
 
-Últimamente he creado muchas pequeños _scripts_ en Python con parámetros de todo tipo. Tanto
+Últimamente he creado muchos pequeños _scripts_ en Python con parámetros de todo tipo. Tanto
 [esta entrada](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 para los principios generales como, por supuesto, los LLMs más habituales, me han acabado ahorrando horas y horas de trabajo.
 
@@ -43,7 +43,7 @@ Otra tecnología en la que _acabaré incurriendo_ casi seguro es Timescale (para
 
 Aún no sé qué pensar sobre [`pytimetk`](https://business-science.github.io/pytimetk/), pero tiene buena pinta.
 
-Lo mismo creo que me puede acabar pasando con [Observable Framework](https://observablehq.com/framework/), aunque el segmento de los cuadros de mando está bastante concurrido. La particularidad de este es que crea (lo cual restringe su compo de aplicación) _dashboards_ estáticos.
+Lo mismo creo que me puede acabar pasando con [Observable Framework](https://observablehq.com/framework/), aunque el segmento de los cuadros de mando está bastante concurrido. La particularidad de este es que crea (lo cual restringe su campo de aplicación) _dashboards_ estáticos.
 
 [Aquí](https://statmodeling.stat.columbia.edu/2023/11/01/simd-memory-locality-vectorization-and-branch-point-prediction/) se leen cosas como:
 
@@ -54,6 +54,6 @@ relacionados con mapas, etc. en
 [OvertureMaps](https://overturemaps.org/),
 que tiene pinta de ser a [OpenStreetMap](https://www.openstreetmap.org/) lo que el [R Consortium](https://www.r-consortium.org/members) es a R y con la que se pueden hacer cosas como [esta](https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html).
 
-[Análisis geoespacioal con LLMs](https://medium.com/@ageospatial/geoforge-geospatial-analysis-with-large-language-models-geollms-2d3a0eaff8aa). En realidad, no parece haber tal análisis; parece más bien un sistema que genera mapas que los usuarios describen verbalmente.
+[Análisis geoespacial con LLMs](https://medium.com/@ageospatial/geoforge-geospatial-analysis-with-large-language-models-geollms-2d3a0eaff8aa). En realidad, no parece haber tal análisis; parece más bien un sistema que genera mapas que los usuarios describen verbalmente.
 
-Finalmente, una noticia de índole personal: todas mis máquinas-no-servidores ya corren ArchLinux exclusivamente. Algún día tengo que hablar al respecto sobre la experiencia (muy satisfactoria, avanzo, hasta la fecha).
+Finalmente, una noticia de índole personal: todas mis máquinas-no-servidores ya corren Arch Linux exclusivamente. Algún día tengo que hablar sobre la experiencia (que, avanzo, es muy satisfactoria hasta la fecha).

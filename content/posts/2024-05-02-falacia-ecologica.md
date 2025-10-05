@@ -31,7 +31,7 @@ En aquella entrada fusilé/usufructé el siguiente gráfico:
 
 En él se representan individuos (las elipses de colores) sobre los que hay medidas repetidas (las nubes de puntos que contienen) de cierto fenómeno cuantitativo. Lo relevante del gráfico es que:
 - $y$ decrece con $x$ globalmente pero, a la vez,
-- $y$ crece con $y$ para cada individuo.
+- $y$ crece con $x$ para cada individuo.
 
 La relación de $x$ e $y$ se invierte según se tenga o no en cuenta la variable de agrupación `individuo`.
 
@@ -64,4 +64,4 @@ El problema que tantos ríos de tinta produce aparece cuando se estudia el probl
 
 Me dio por pensar que en un modelo (de regresión lineal o similar) con una $R^2$ baja hay más margen para que _quepan_ variables _subversivas_. Aunque una $R^2$ baja, en principio, no invalida un modelo, sí que podría hacerle a uno pensar que la varianza inexplicada puede enmascarar alguna variable crítica (en el sentido de la discusión anterior).
 
-Por supuesto, la idea anterior no es un teorema: se pueden elegir convenientemente los parámetros del sistema descrito en II para que el modelo engañoso `lm(y ~ x)` tenga una $R^2$ arbitrariamente alta. No obstante, sospecho que como principio (y no como final), puede ser una  herramienta útil.
+Por supuesto, la idea anterior no es un teorema: se pueden elegir convenientemente los parámetros del sistema descrito en II para que el modelo engañoso `lm(y ~ x)` tenga una $R^2$ arbitrariamente alta. No obstante, sospecho que como principio (y no como final), puede ser una herramienta útil.

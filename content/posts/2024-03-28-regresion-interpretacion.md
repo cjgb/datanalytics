@@ -17,7 +17,7 @@ title: ¿Cómo se interpretan los resultados de estas regresiones
 url: /2024/3/28/interpretacion-regresion/
 ---
 
-Esta entrada trata sobre las aparentes contradicciones que surgen cuando se comparan las regresiones $y \sim x$ y $x \sim y$. En particular, [aqui](https://marginalrevolution.com/marginalrevolution/2021/07/a-regression-puzzle.html) se muestran
+Esta entrada trata sobre las aparentes contradicciones que surgen cuando se comparan las regresiones $y \sim x$ y $x \sim y$. En particular, [aquí](https://marginalrevolution.com/marginalrevolution/2021/07/a-regression-puzzle.html) se muestran
 
 ![](/wp-uploads/2024/rodgers-epa-vs-cap.png#center)
 
@@ -33,7 +33,7 @@ que vienen a decir:
 Lo cual, a pesar de lo contradictorio, no es un fenómeno extrañísimo. Si uno hace
 
 
-{{< highlight python >}}
+{{< highlight r >}}
 n <- 100
 x <- rnorm(n)
 

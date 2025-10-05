@@ -33,13 +33,13 @@ No obstante, dada la ubicuidad de la falacia, apostaría bastante a que no costa
 
 > Supongamos que nos interesa la relación entre la velocidad a la que se escribe a máquina y el número de erratas. Si se estudia la relación entre ambas variables en una población, probablemente se encontrará una correlación negativa: escriben más rápido los que tienen más experiencia y, por lo tanto, también tienden a cometer menos errores.
 >
-> Pero si se trata de generalizar este resultado al _nivel intrapersonal_ se podría llegar a la conclusión de que si una persona escribe más rápido cometerá menos errores. Claramente, esto es lo contrario de lo que cabe esperar. De hecho, si un individuo concreto trata de escribir más rápido, tenderá a cometer más errores. Es decir, hay una correlacion positiva (y no negativa) a _nivel intrapersonal_.
+> Pero si se trata de generalizar este resultado al _nivel intrapersonal_ se podría llegar a la conclusión de que si una persona escribe más rápido cometerá menos errores. Claramente, esto es lo contrario de lo que cabe esperar. De hecho, si un individuo concreto trata de escribir más rápido, tenderá a cometer más errores. Es decir, hay una correlación positiva (y no negativa) a _nivel intrapersonal_.
 
 Gráficamente,
 
 ![](/wp-uploads/2024/falacia-ecologica.png#center)
 
-Obviamente, podría no suceder así. En muchos casos, las correlaciones _between_ y _within_ podrían estar alineadas. Y es probable que la falacia lo sea propiamente porque es más habitual que suceda así que al revés (por lo que la falacia ecológica sería una especie de prejuico o _priori_ razonable con la que afrontar nuevos problemas). (Y por eso creo que la falacia ecológica pudiera ser muy anterior a las referencias ofrecidas en el artículo: valdría la pena sumergirse en Hume o Bacon para buscar precedentes).
+Obviamente, podría no suceder así. En muchos casos, las correlaciones _between_ y _within_ podrían estar alineadas. Y es probable que la falacia lo sea propiamente porque es más habitual que suceda así que al revés (por lo que la falacia ecológica sería una especie de prejuicio o _priori_ razonable con la que afrontar nuevos problemas). (Y por eso creo que la falacia ecológica pudiera ser muy anterior a las referencias ofrecidas en el artículo: valdría la pena sumergirse en Hume o Bacon para buscar precedentes).
 
 Pero siempre que alguien oye, por ejemplo,
 

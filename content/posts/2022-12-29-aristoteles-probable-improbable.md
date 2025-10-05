@@ -28,7 +28,7 @@ Un pasaje de un libro que no viene a cuento me puso sobre la pista de una cita d
 
 Lo más jugoso de la cita de Aristóteles es, precisamente, la subcita que hace de un tercero, Agatón, que viene a decir una cosa obvia pero que tantas veces se nos escapa: que es muy probable que ocurran cosas improbables.
 
-Se me escapa la interpretación recta y exacta de lo que tuvo a bien argumentar Aristóteles en en ese breve extracto. Sobre el que, además, parece ser, se ha escrito bastante. Ni siquiera estoy seguro de si aprueba o desaprueba la observación de Agatón. Pero hace, sin embargo, lo que debiéramos hacer nosotros siempre: argumentar alrededor de ella.
+Se me escapa la interpretación recta y exacta de lo que tuvo a bien argumentar Aristóteles en ese breve extracto. Sobre el que, además, parece ser, se ha escrito bastante. Ni siquiera estoy seguro de si aprueba o desaprueba la observación de Agatón. Pero hace, sin embargo, lo que debiéramos hacer nosotros siempre: argumentar alrededor de ella.
 
 ¿Cuándo? Pues cuando nos encontremos que hay un
 [empate a votos en un referéndum](/2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/),

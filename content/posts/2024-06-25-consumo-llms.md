@@ -22,13 +22,13 @@ url: /2024/06/25/consumo-llms/
 
 En los años 50 y 60 se hicieron muchas predicciones acerca de cómo sería el mundo de hoy. Eran los años en que se popularizó la ciencia ficción y, además, el cambio de milenio estaba a la vuelta de la esquina.
 
-Puede que alguien se sienta tentado de recopilar predicciones ---y elucubraciones--- sobre innovaciones técnicas realizadas en esa época y analizar su grado de acierto. Que sepa que llega tarde. Un análisis de ese tipo aparece en (el muy extravagante libro) [_Where Is My Flying Car?: A Memoir of Future Past_](https://www.goodreads.com/es/book/show/42036377). Si uno realizase un análisis discriminante con el objetivo de separar ambas clases ---las tecnologías de las que hoy disponemos de las que siguen siendo una ensoñación--- observaría que la variable más relevante es la intensidad del uso de la energía: no viajamos regularmente a la luna o nos desplazamos en coches voladores: eso consume mucha energía; sin embargo, realizamos videollamadas y tenemos a un _click_ de distancia prácticamente toda la información disponible el mundo: energéticamente, es casi gratis. Dicen que una búsqueda en Google consume 0.3 Wh
+Puede que alguien se sienta tentado de recopilar predicciones ---y elucubraciones--- sobre innovaciones técnicas realizadas en esa época y analizar su grado de acierto. Que sepa que llega tarde. Un análisis de ese tipo aparece en (el muy extravagante libro) [_Where Is My Flying Car?: A Memoir of Future Past_](https://www.goodreads.com/es/book/show/42036377). Si uno realizase un análisis discriminante con el objetivo de separar ambas clases ---las tecnologías de las que hoy disponemos de las que siguen siendo una ensoñación--- observaría que la variable más relevante es la intensidad del uso de la energía: no viajamos regularmente a la luna o nos desplazamos en coches voladores: eso consume mucha energía; sin embargo, realizamos videollamadas y tenemos a un clic de distancia prácticamente toda la información disponible en el mundo: energéticamente, es casi gratis. Dicen que una búsqueda en Google consume 0.3 Wh
 ([o lo hacía en 2011](https://www.nytimes.com/2011/09/09/technology/google-details-and-defends-its-use-of-electricity.html)); tendría que hacer más de 300 búsquedas en una hora para gastar en eso más de lo que quemo yo sentado mientras las realizo.
 
 Y antes de continuar, dos notas:
 
 * El análisis discriminante no es necesariamente causal: no se cumplen las predicciones _porque_ la tecnología subyacente consuma poca energía. Pero tampoco niega la causalidad.
-* Además, gastamos hoy energía buscando en Google que operando coches voladores: [Jevons manda](https://es.wikipedia.org/wiki/Paradoja_de_Jevons).
+* Además, gastamos hoy más energía buscando en Google que operando coches voladores: [Jevons manda](https://es.wikipedia.org/wiki/Paradoja_de_Jevons).
 
 
 ### II.
@@ -50,11 +50,11 @@ El coste del entrenamiento puede ser una fracción del coste de la llamada _infe
 
 - Usan un LLM ya prehistórico, el primer LLaMa (aunque la dirección del efecto de usar un modelo más avanzado no pueda saberse de antemano).
 - Usan _hardware_ ya prehistórico, las GPUs A100 y V100 de NVIDIA (las H100 son sustancialmente más eficientes).
-- Usan su propia infraestructura de hardware-software, probablemente menos optimizada que la de las empresas que viven de eso.
+- Usan su propia infraestructura de _hardware_-_software_, probablemente menos optimizada que la de las empresas que viven de eso.
 
 Nota: 4 J es una cantidad bastante redonda y memorable: es, aproximadamente, una caloría, la cantidad de energía necesaria para calentar un gramo de agua un grado. Si [mi tinglado de LLMs](https://datanalytics.com/2024/02/06/llms-pocket-obsidian/) está generando unos 4000 _tokens_ al día (un par de folios de texto), está consumiendo la energía necesaria para calentar 1 grado 4 litros de agua. En orden de magnitud, el Quijote equivale a una ducha.
 
-Esto no es decir que el negocio de la inferencia consumirá poco. De hecho, cuanto más eficiente se vuelva, más consumirá (Jevons, de nuevo). Recuérdese cómo hubo un tiempo en el que la gente mantenía los alimentos frescos en esos electrodomésticos mágicos que acababan de aparecer y que conocemos neveras. Hoy no solo enfriamos los alimentos, sino los edificios enteros. Gastamos mucha más energía, sí, pero no porque nos hayamos vuelto menos eficientes sino precisamente por lo contrario.
+Esto no es decir que el negocio de la inferencia consumirá poco. De hecho, cuanto más eficiente se vuelva, más consumirá (Jevons, de nuevo). Recuérdese cómo hubo un tiempo en el que la gente mantenía los alimentos frescos en esos electrodomésticos mágicos que acababan de aparecer y que conocemos como neveras. Hoy no solo enfriamos los alimentos, sino los edificios enteros. Gastamos mucha más energía, sí, pero no porque nos hayamos vuelto menos eficientes, sino precisamente por lo contrario.
 
 ### IV.
 

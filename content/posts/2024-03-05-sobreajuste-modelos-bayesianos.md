@@ -18,10 +18,10 @@ title: Los modelos bayesianos, ¿condenados a sobreajustar?
 url: /2024/03/05/sobreajuste-modelos-bayesianos/
 ---
 
-Por ese micromundo en el que muevo, circuló recientemente una polémica sobre si los métodos bayesianos _sobreajustan_ necesaria e irremisiblemente. El desencadenante fue la publicación
+Por ese micromundo en el que me muevo, circuló recientemente una polémica sobre si los métodos bayesianos _sobreajustan_ necesaria e irremisiblemente. El desencadenante fue la publicación
 [_Bayes is guaranteed to overfit, for any model, any prior, and every data point_](https://www.yulingyao.com/blog/2023/overfit/) en la que el autor sostiene que, efectivamente:
 
-- Tiene sentido hablar de sobreajuste en modelos bayesianos (a diferencia de lo que sostienen otros en tanto que como los modelos bayesianos no maximizan ninguna función objetivo, no ha lugar siquiera hablar de sobreajuste).
+- Tiene sentido hablar de sobreajuste en modelos bayesianos (a diferencia de lo que sostienen otros argumentando que, como los modelos bayesianos no maximizan ninguna función objetivo, no ha lugar siquiera hablar de sobreajuste).
 - Y que, efectivamente, _sobreajustan_.
 
 También reconoce, y eso hay que abonárselo, que otros métodos (MLE en particular) sobreajustan aún más.
@@ -30,9 +30,9 @@ Hoy quiero hacer constar mis comentarios sobre el asunto.
 
 ### Efectivamente, los modelos bayesianos sobreajustan
 
-Supongamos que existe una distribución con distribución $X$ que se quiere estudiar. Se extrae una muestra $D_0$ y se ajusta un modelo bayesiano. Luego, se extrae una muestra $D_1$. Por sobreajustar se entiende que las predicciones para $D_0$ tienden a mejores que para $D_1$ (usando métricas como la suma de los logaritmos de las probabilidades a posteriori).
+Supongamos que existe una distribución $X$ que se quiere estudiar. Se extrae una muestra $D_0$ y se ajusta un modelo bayesiano. Luego, se extrae una muestra $D_1$. Por sobreajustar se entiende que las predicciones para $D_0$ tienden a ser mejores que para $D_1$ (usando métricas como la suma de los logaritmos de las probabilidades a posteriori).
 
-Lo cual es obvio, justo y necesario. Sucede lo mismo si se maximiza el MLE, si se minimiza algún tipo error (usando o no validación cruzada), si se usa algún tipo de regularización, etc.
+Lo cual es obvio, justo y necesario. Sucede lo mismo si se maximiza el MLE, si se minimiza algún tipo de error (usando o no validación cruzada), si se usa algún tipo de regularización, etc.
 
 De hecho, una manera de representar conceptualmente un modelo bayesiano es de la forma $P(\theta | D_0)$, que viene a significar algo así como _lo que se ha podido aprender de la distribución $X$ a partir de los datos $D_0$ ---y no de otras hipotéticas muestras de $X$---.
 
@@ -40,7 +40,7 @@ De hecho, una manera de representar conceptualmente un modelo bayesiano es de la
 
 Tenemos una moneda y queremos estimar la probabilidad de cara con $N = 1$ (para que todo se vea más claro). Se tira la moneda y sale cara. Usando MLE, el estimador de $p$ es 100%. Usando el modelo bayesiano de libro (con priori Beta(1, 1)), la posteriori sería una Beta(2, 1), que tiene la media en 2/3.
 
-Si para esa moneda $p = 0.5$, efectivamente, el modelo bayesiando sobreajusta y, efectivamente también, el MLE lo hace mucho más.
+Si para esa moneda $p = 0.5$, efectivamente, el modelo bayesiano sobreajusta y, efectivamente también, el MLE lo hace mucho más.
 
 
 ### Pero sobreajustar no es siempre necesariamente malo
@@ -61,11 +61,10 @@ Aún no sabemos ---y no lo sabremos nunca--- cómo hacer para construir modelos 
 - Que cierto grado de sobreajuste es inevitable.
 - Utilizar cierto número de técnicas para mitigar el problema del sobreajuste y mejorar la generalización de los modelos.
 
-De entre todas ellas, las que propone la estadística bayesiana propone el planteamiento más sólido conceptualmente: la de sesgar los coeficientes de los modelos en la dirección que, por otras vías, se sabe probable.
-
+De entre todas ellas, la estadística bayesiana propone el planteamiento más sólido conceptualmente: la de sesgar los coeficientes de los modelos en la dirección que, por otras vías, se sabe probable.
 
 ### Como conclusión
 
-Lo que se se escribe en el artículo que motivó la polémica es una tautología del nivel 2+2=4. Efectivamente, no hay procedimiento de construcción de modelos que no sobreajuste. Y, efectivamente, el bayesiano bien usado es de los menos afectados por ese fenómeno.
+Lo que se escribe en el artículo que motivó la polémica es una tautología del nivel 2+2=4. Efectivamente, no hay procedimiento de construcción de modelos que no sobreajuste. Y, efectivamente, el bayesiano bien usado es de los menos afectados por ese fenómeno.
 
-Pero supongo que por motivos más o menos aleatorios, el artículo adquirió cierta popularidad, alguien se lo tomaría a pecho, eso contribuyó a su viralización, etc. y como consecuencia de todo ello estamos hoy aquí yo escribiendo y tú leyendo que el agua moja.
+Pero supongo que por motivos más o menos aleatorios, el artículo adquirió cierta popularidad, alguien se lo tomaría a pecho, eso contribuyó a su viralización, etc.; y como consecuencia de todo ello estamos hoy aquí yo escribiendo y tú leyendo que el agua moja.

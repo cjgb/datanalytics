@@ -46,5 +46,4 @@ El ministro ve la parte de la izquierda. Tú, lector, eres no más un puntico (s
 
 (Más al respecto [aquí](https://www.themoneyillusion.com/the-wonderful-horrible-economy-economic-policy/)).
 
-
 Uno de mis entretenimientos favoritos de los últimos tiempos, una vez asumido que jamás seré ministra, es confrontar lo que dice el INE con lo que observo en mi radio vital. [La doxa y la gnosis](https://datanalytics.com/2022/04/07/doxa-episteme-gnosis-interpretacion-bayesiana/), si se quiere. Es una manera de leer cifras que recomiendo a mis lectores.

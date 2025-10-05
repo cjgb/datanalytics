@@ -24,9 +24,9 @@ El ordenador ---de sobremesa--- con el que trabajo habitualmente está más cerc
 
 ### II.
 
-Ubuntu no es una distribución (de Linux) _rolling_. Ubuntu saca nuevas versiones cada seis meses; la de abril de los años pares, es especial: se trata de una versión LTS (_long time support_), más cuidada, que es la que uso. Eso significa que el sistema operativo no se actualiza sustancialmente sino cada dos años. Hay novedades interesantes que van surgiendo, pero uno ha optado por vivir sin ellas temporalmente.
+Ubuntu no es una distribución (de Linux) _rolling_. Ubuntu saca nuevas versiones cada seis meses; la de abril de los años pares es especial: se trata de una versión LTS (_long term support_), más cuidada, que es la que uso. Eso significa que el sistema operativo no se actualiza sustancialmente sino cada dos años. Hay novedades interesantes que van surgiendo, pero uno ha optado por vivir sin ellas temporalmente.
 
-A finales de abril de este año saldrá la versión 24.04. Hay tecnologías que para entonces estarán _casi_ maduras pero que no entrarán ella por no estarlo lo suficiente. Tendré que pasar un par de años sin catarlas.
+A finales de abril de este año saldrá la versión 24.04. Hay tecnologías que para entonces estarán _casi_ maduras pero que no entrarán en ella por no estarlo lo suficiente. Tendré que pasar un par de años sin catarlas.
 
 Otras distribuciones de Linux son _rolling_, como Arch Linux (que acabo de instalar en el portátil). Una distribución _rolling_ no tiene versiones. El sistema va actualizándose continuamente incorporando _en tiempo real_ las nuevas versiones que se publican de sus distintos componentes. Con ellas uno tiende a estar siempre _a la última_.
 

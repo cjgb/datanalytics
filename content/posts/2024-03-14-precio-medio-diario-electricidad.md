@@ -47,4 +47,4 @@ Y aprovecho la discusión para _fardar de dashboard_. Lo que se ve en
 
 ![](/wp-uploads/2024/precio_medio_electricidad_frayce.png#center)
 
-es mi consumo (instantáneo y agregado por horas) junto con el precio horario el día en cuestión. A falta de otro divertimento, me entretengo en tratar de correlacionar negativamente precio y consumo. El gráfico muestra un éxito parcial (el lavavajillas de la madrugada) y una consuetudinariedad (el hacerse la cena y cenar en la hora en que más cuesta la electricidad).
+es mi consumo (instantáneo y agregado por horas) junto con el precio horario del día en cuestión. A falta de otro divertimento, me entretengo en tratar de correlacionar negativamente precio y consumo. El gráfico muestra un éxito parcial (el lavavajillas de la madrugada) y una consuetudinariedad (el hacerse la cena y cenar en la hora en que más cuesta la electricidad).

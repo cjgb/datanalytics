@@ -24,7 +24,7 @@ url: /2024/09/17/cortos-tecnologia/
 
 [`uv`](https://astral.sh/blog/uv-unified-python-packaging), un gestor de paquetes de Python "extremadamente rápido" escrito en Rust. ¿Tocará volver a migrar?
 
-[Aquí](https://www.dbreunig.com/2024/07/31/towards-standardizing-place.html) hay una discusión sobre la diferencia entre _lugares_ y _sitios_ ---términos ambos que define estipulativamente---. Proyectos como OpenStreetMap se centran en los primeros: coordenadas, sistemas de referencia, mapas, etc. [Overture Maps](https://overturemaps.org/), parece ser, quiere centrarse en los segundos, los sitios, es decir, los bosques, edificios, panaderías, etc. que ocupan el espacio y que son el objetivo ---los mapas son solo el medio--- de nuestra preocupación por lo que puebla el espacio.
+[Aquí](https://www.dbreunig.com/2024/07/31/towards-standardizing-place.html) hay una discusión sobre la diferencia entre _lugares_ y _sitios_ ---términos ambos que el artículo enlazado define estipulativamente---. Proyectos como OpenStreetMap se centran en los primeros: coordenadas, sistemas de referencia, mapas, etc. [Overture Maps](https://overturemaps.org/), parece ser, quiere centrarse en los segundos, los sitios, es decir, los bosques, edificios, panaderías, etc. que ocupan el espacio y que son el objetivo ---los mapas son solo el medio--- de nuestra preocupación por lo que puebla el espacio.
 
 En [_SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL_](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/) se propone cambiar
 
