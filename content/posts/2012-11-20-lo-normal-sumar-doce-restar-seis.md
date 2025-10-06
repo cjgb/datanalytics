@@ -20,7 +20,7 @@ title: 'Lo normal: sumar doce, restar seis'
 url: /2012/11/20/lo-normal-sumar-doce-restar-seis/
 ---
 
-Un [truco para generar variables aleatorias normales](http://www.johndcook.com/blog/2009/02/12/sums-of-uniform-random-values/): sumar doce uniformes y restar seis.
+Un [truco para generar variables aleatorias (aproximadamente) normales](http://www.johndcook.com/blog/2009/02/12/sums-of-uniform-random-values/): sumar doce uniformes y restar seis.
 
 En efecto,
 
@@ -35,4 +35,4 @@ produce
 [![](/wp-uploads/2012/11/qqnorm.png#center)
 ](/wp-uploads/2012/11/qqnorm.png#center)
 
-Ayuda a entender el motivo que la varianza de la distribución uniforme es 1/12 y que su media es 1/2.
+Ayuda a entender el motivo (de por qué el procedimiento genera variables aleatorias "casi" normales) que la varianza de la distribución uniforme es 1/12 y que su media es 1/2.
