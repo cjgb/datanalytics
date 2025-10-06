@@ -42,10 +42,10 @@ Pero claro, en 2020 murieron más de los nacidos en 1940 de lo que es habitual. 
 
 Es decir, se trata de un artefacto del algoritmo.
 
-Por supuesto, el _artefacto_ es informativo: cae la _esperanza de vida_ y se puede comparar esta caída con otras que se hayan observado en otros tiempos y lugares para comparar cuantitativamente este tipo de fenómenos. Pero, por lo demás, afecta solo a o que la esperanza de vida _es_ y no a lo que es.
+Por supuesto, el _artefacto_ es informativo: cae la _esperanza de vida_ y se puede comparar esta caída con otras que se hayan observado en otros tiempos y lugares para comparar cuantitativamente este tipo de fenómenos. Pero, por lo demás, afecta solo a lo que la esperanza de vida _es_ y no a lo que es.
 
 ## IV.
 
-En puridad, no habría que usar la mortalidad de quienes tienen X años en 2020 para estimar la mortalidad de esa cohorte en el año 2020 + X. Lo que debería usarse es la proyección de la mortalidad de los que tienen X años en 2020, 2019, 2018, etc. hacia el futuro, hacia 2020 + X y usar esa. De procederse así, 2020 habría podido considerarse un _outlier_, etc.
+En puridad, no habría que usar la mortalidad de quienes tienen X años en 2020 para estimar la mortalidad de esa cohorte en el año 2020 + X. Lo que debería usarse es la proyección de la mortalidad de los que tienen X años en 2020, 2019, 2018, etc. hacia el futuro, hacia 2020 + X, y usar esa. De procederse así, 2020 habría podido considerarse un _outlier_, etc.
 
 Pero, ¡qué sabré yo de esas cosas!

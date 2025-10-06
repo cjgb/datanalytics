@@ -20,13 +20,13 @@ title: Unos números sobre los márgenes de la distribución
 url: /2024/02/15/margenes-distribucion/
 ---
 
-Estos días han estado tirios y troyanos tirándose los muebles a la cabeza por el asunto de los márgenes comerciales; en particular, los de frutas y verduras en los supermercados. Constantando lo desencaminados que andan muchos y como sobre el asunto he podido aprender un poco durante mi carrera, oso hoy presentar algunos conceptos y números para centrar el debate. Al final, tal vez me atreva a publicar mi propia opinión sobre el asunto. De hacerlo, advertiré convenientemente a los lectores para que puedan omitirlo felizmente.
+Estos días han estado tirios y troyanos tirándose los muebles a la cabeza por el asunto de los márgenes comerciales; en particular, los de frutas y verduras en los supermercados. Constantando lo desencaminados que andan muchos, y como sobre el asunto he podido aprender un poco durante mi carrera, oso hoy presentar algunos conceptos y números para centrar el debate. Al final, tal vez me atreva a publicar mi propia opinión sobre el asunto. De hacerlo, advertiré convenientemente a los lectores para que puedan omitirlo felizmente.
 
 ### Margen bruto medio y margen neto medio
 
 No sé si se usa la terminología de margen bruto medio y margen neto medio (MBM y MNM en lo que sigue); si no es así, habría que adoptarla para evitar confusiones. Que, haberlas, haylas.
 
-Echemos primero un vistazo a la cuenta de pérdidas y ganancias del 2022 de la cadena de alimentación por antonomasia en estos tiempos y latitudes, Mercadona:
+Echemos primero un vistazo a la cuenta de pérdidas y ganancias de 2022 de la cadena de alimentación por antonomasia en estos tiempos y latitudes, Mercadona:
 
 ![pérdidas ganancias mercadona 2022](/wp-uploads/2024/pyg_mercadona_2024.png#center)
 
@@ -42,12 +42,12 @@ Son cosas distintas que bien merecen nombres distintos para evitar confusiones.
 
 Debería ser sabido de todos que las medias en general y los márgenes medios en particular son ficciones aritméticas para satisfacer las no muy sofisticadas necesidades de cierto tipo de gente. Es necesario trascenderlas si a uno le interesan, p.e., los márgenes concretos de frutas y verduras.
 
-Si el MNM de Mercadona es del 3%, cabe esperar que muchos de los productos que venda, de poderse medir e imputar los costes con exactitud, tengan una rentabilidad negativa. Cuando uno va por Castellana a deshora y ve luz en algunos edificios de oficinas, es probable allí haya unos cuantos consultores _junior_ buscando la mejor manera de asociar gastos generales a referencias (productos) concretos mientras beben cantidades desaconsejadas de Fritz-Kola.
+Si el MNM de Mercadona es del 3%, cabe esperar que muchos de los productos que venda, de poderse medir e imputar los costes con exactitud, tengan una rentabilidad negativa. Cuando uno va por Castellana a deshora y ve luz en algunos edificios de oficinas, es probable que allí haya unos cuantos consultores _junior_ buscando la mejor manera de asociar gastos generales a referencias (productos) concretos mientras beben cantidades desaconsejadas de Fritz-Kola.
 
-Luego, poner precios de venta a productos es otro arte. Hay muchas maneras más o menos cuestionables y todas son, al final poco empíricas. No puede ser de otra manera: fuera de las aulas de microeconomía, nadie conoce la forma de las curvas de demanda. Pero por fijar ideas, voy a contar un procedimiento que empleaba una empresa con la que colaboré un tiempo. Esta empresa proporcionaba servicios de consultoría en precios a cadenas regionales de supermercados. El mecanismo que utilizaban ---dejando fuera algunas cuestiones como el redondeo--- era el siguiente:
+Luego, poner precios de venta a productos es otro arte. Hay muchas maneras más o menos cuestionables y todas son, al final, poco empíricas. No puede ser de otra manera: fuera de las aulas de microeconomía, nadie conoce la forma de las curvas de demanda. Pero por fijar ideas, voy a contar un procedimiento que empleaba una empresa con la que colaboré un tiempo. Esta empresa proporcionaba servicios de consultoría en precios a cadenas regionales de supermercados. El mecanismo que utilizaban ---dejando fuera algunas cuestiones como el redondeo--- era el siguiente:
 
 - Las tiendas de la cadena se segmentaban en tres grupos, $C1$, $C2$ y $C3$ según la competencia del mercado en el que operaban. Por ejemplo, tiendas en pueblos pequeños sin otras de la competencia cerca, estaban en el grupo $C1$; las de las grandes ciudades quedaban en el otro extremo, en el grupo $C3$.
-- Los productos se segmentaban en tres grupos, $P1$, $P2$ y $P3$. Aunque no fuese el criterio perfecto, se hacía por facturación: los más vendidos ---Cocacola, etc.--- en el primer grupo; los menos vendidos ---papel de lija, topes para las puertas, etc.---, en el último; el resto, en medio.
+- Los productos se segmentaban en tres grupos, $P1$, $P2$ y $P3$. Aunque no fuese el criterio perfecto, se hacía por facturación: los más vendidos ---cocacola, etc.--- en el primer grupo; los menos vendidos ---papel de lija, topes para las puertas, etc.---, en el último; el resto, en medio.
 - Se aplicaba una matriz de márgenes con una lógica más o menos así:
 
     - Los productos de mucho movimiento en zonas de alta competencia, un margen del 0%.
@@ -64,7 +64,7 @@ Efectivamente, es muy probable que en las grandes ciudades, muchos productos se 
 
 ### La "cadena"
 
-MUcha gente ve el principio ---el agricultor al que dizque le pagan el kilo a 18 céntimos--- y el final ---una foto del PVP del mismo producto en el supermercado--- de la _cadena_. Y dado que hay un orden de magnitud entre lo uno y lo otro, colige que en esa _cadena_ ocurren tráficos reprochables. Es cierto que la _cadena_ opera con nocturnidad ---véase, por ejemplo, [este reportaje sobre Mercamadrid](https://www.youtube.com/watch?v=U5bch5IUZo0)--- pero no con alevosía. Si uno busca mayoristas de frutas y verduras, encuentra rápidamente listados como
+Mucha gente ve el principio ---el agricultor al que dizque le pagan el kilo a 18 céntimos--- y el final ---una foto del PVP del mismo producto en el supermercado--- de la _cadena_. Y dado que hay un orden de magnitud entre lo uno y lo otro, colige que en esa _cadena_ ocurren tráficos reprochables. Es cierto que la _cadena_ opera con nocturnidad ---véase, por ejemplo, [este reportaje sobre Mercamadrid](https://www.youtube.com/watch?v=U5bch5IUZo0)--- pero no con alevosía. Si uno busca mayoristas de frutas y verduras, encuentra rápidamente listados como
 
 ![mayoristas naranjas](/wp-uploads/2024/mayoristas_naranjas.png#center)
 
