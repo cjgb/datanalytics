@@ -14,6 +14,7 @@ related:
 tags:
 - economía
 - política
+- homo economicus
 - racionalidad
 title: Homo politicus < IQ < homo economicus
 url: /2019/02/26/homo-politicus-iq-homo-economicus/
@@ -24,4 +25,4 @@ Lo del _homo economicus_ ya no está de moda. Ahora pega más fuerte lo del [_ho
 
 No obstante, parece no todos los _homos_ son iguales: unos se parecen más al _economicus_; otros, al _politicus_. Y ahora parece que [el coeficiente intelectual tendría algo que ver con eso](https://www.nber.org/papers/w25496#fromrss).
 
-**Nota:** encuentro ridículas las críticas a la economía (particularmente, a la microeconomía) basadas en su acreditada incapacidad para predecir el comportamiento humano por su tendencia a alejarse del esperado en un _homo economicus_. No, no va de eso. No va de predecir el comportamiento humano. Para eso ya tenemos otras disciplinas _ad hoc_. Va de cómo un agente racional descubre en otro que lo es menos un imbécil al que separarlo de su dinero.
+**Nota:** encuentro ridículas las críticas a la economía (particularmente, a :qla microeconomía) basadas en su acreditada incapacidad para predecir el comportamiento humano por su tendencia a alejarse del esperado en un _homo economicus_. No, no va de eso. No va de predecir el comportamiento humano. Para eso ya tenemos otras disciplinas _ad hoc_. Va de cómo un agente racional descubre en otro que lo es menos un imbécil al que separarlo de su dinero.

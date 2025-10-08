@@ -7,8 +7,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2025-10-02
-description: La regresión logística en sklearn no es la regresión logística sino otra
-  cosa.
+description: La regresión logística en sklearn no es la regresión logística sino otra cosa.
 lastmod: '2025-10-08T20:18:56.272756'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md

@@ -15,6 +15,7 @@ tags:
 - economía
 - economía conductual
 - von neumann
+- homo economicus
 title: Sobre la economía conductual
 url: /2021/09/16/sobre-la-economia-conductual/
 ---

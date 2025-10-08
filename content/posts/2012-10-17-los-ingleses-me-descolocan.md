@@ -15,11 +15,14 @@ tags:
 - números
 - opciones
 - teoría de la decisión
+- homo economicus
 title: Los ingleses me descolocan
 url: /2012/10/17/los-ingleses-me-descolocan/
 ---
 
-Los ingleses me descolocan. Hace unos días me enteré de una propuesta de George Osborne, el ministro de hacienda del Reino Unido, que se conoce como _[shares for rights](http://www.guardian.co.uk/politics/2012/oct/08/george-osborne-shares-rights-scheme)_ (acciones a cambio de derechos). Consiste esencialmente en ofrecer a los empleados la opción (nunca la obligación) de recibir una recompensa económica a cambio de que renuncien a una serie de derechos laborales.
+Los ingleses me descolocan. Hace unos días me enteré de una propuesta de George Osborne, el ministro de hacienda del Reino Unido, que se conoce como
+[_shares for rights_](http://www.guardian.co.uk/politics/2012/oct/08/george-osborne-shares-rights-scheme)
+o acciones a cambio de derechos. Consiste esencialmente en ofrecer a los empleados la opción (nunca la obligación) de recibir una recompensa económica a cambio de que renuncien a una serie de derechos laborales.
 
 Nótese que se trata de una opción. Y tener opciones es bueno. Al menos, para [homines œconomici](http://en.wikipedia.org/wiki/Homo_economicus).
 
@@ -29,4 +32,4 @@ Puede que alguno sospeche, sin llegar a verbalizarlo plenamente, que los derecho
 
 Este plan tiene otro problema: es muy difícil (incluso para un hombre económico enteramente racional) valorar una opción. Sabemos cuál es el precio de las manzanas, de las camisas, del pan, etc. porque estamos expuestos a información sobre sus precios casi a diario. Pero, ¿cuánto pagaría alguien por el derecho a una baja maternal alguna vez? ¿En qué mercado cotizan esos derechos?
 
-Y si finalmente abandonamos el universo un tanto abstracto e irreal del homo economicus y descendemos al del [hombre predeciblemente irracional](http://en.wikipedia.org/wiki/Predictably_Irrational) podemos llevarnos alguna sorpresa sobre los efectos negativos de la presencia de opciones potencialmente inocuas.
+Y si finalmente abandonamos el universo un tanto abstracto e irreal del homo economicus y descendemos al del [hombre predeciblemente irracional](http://en.wikipedia.org/wiki/Predictably_Irrational), podemos llevarnos alguna sorpresa sobre los efectos negativos de la presencia de opciones potencialmente inocuas.

@@ -18,7 +18,7 @@ tags:
 - regla de edlin
 - fda
 - medicina
-title: Cortos - Mala ciencia - 2025-09-30
+title: Unas cuantas notas sobre ciencia de la mala
 url: /2025/09/30/cortos-mala-ciencia/
 ---
 
