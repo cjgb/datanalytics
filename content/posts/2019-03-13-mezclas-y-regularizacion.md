@@ -35,11 +35,11 @@ Para terminar, un pequeño **ejercicio mental**: ¿qué si _regularizas hacia_ u
 $$ \sum_i (y_i - \beta_0 + \sum_j \beta_j x_{ij})^2 + \lambda \sum_j \beta_j^2.$$
 
 
-El término de regularización, $latex \lambda \sum_j \beta_j^2$ también puede escribirse de la forma
+El término de regularización, $\lambda \sum_j \beta_j^2$ también puede escribirse de la forma
 
 $$ \lambda \sum_j (\beta_j - b_j)^2$$
 
-donde los valores $latex b_j = 0$ corresponden a los coeficientes del modelo nulo. ¿Pero qué si se usa como modelo _nulo_ otro en el que no ocurra necesariamente $latex b_j = 0$? ¿Qué si nuestra _priori_ es un modelo no nulo? La interpretación de la regularización como mezcla de modelos seguiría en pie, pero todas las consideraciones acerca de grados de libertad, del _bias/variance trade-off_, etc. se caerían.
+donde los valores $b_j = 0$ corresponden a los coeficientes del modelo nulo. ¿Pero qué si se usa como modelo _nulo_ otro en el que no ocurra necesariamente $b_j = 0$? ¿Qué si nuestra _priori_ es un modelo no nulo? La interpretación de la regularización como mezcla de modelos seguiría en pie, pero todas las consideraciones acerca de grados de libertad, del _bias/variance trade-off_, etc. se caerían.
 
 **Nota final:** todo lo discutido aquí es un corolario tonto de la reformulación bayesiana de la cuestión. Pero esa es otra historia.
 

@@ -56,7 +56,7 @@ Etc. Pero si lo del INE es de traca, [lo de El Mundo](http://www.elmundo.es/espa
 
 Eso sí, tengo que reconocer que [el artículo de El País sobre el asunto](http://politica.elpais.com/politica/2014/10/28/actualidad/1414492193_892313.html) es de lo mejorcito que he visto al respecto en mucho tiempo. Mejora, de hecho, la nota de prensa del INE. Gracias, precisamente, a que se sale del guión y se toma la molestia de dejarse asesorar por un experto, Albert Esteve.
 
-No sé por qué el INE hace estas cosas. Yo a veces me he puesto a imaginar cómo sería el mundo si $latex \pi=3$; pero gratis, sin coste para el erario público. ¿No invertiría mejor el INE su presupuesto, p.e., reemplazando SAS por R? ¿O mejorando su portal? ¿O sacando el censo en tiempo y forma?
+No sé por qué el INE hace estas cosas. Yo a veces me he puesto a imaginar cómo sería el mundo si $\pi=3$; pero gratis, sin coste para el erario público. ¿No invertiría mejor el INE su presupuesto, p.e., reemplazando SAS por R? ¿O mejorando su portal? ¿O sacando el censo en tiempo y forma?
 
 Y si realmente tiene la necesidad de meterse en camisa de once proyecciones, ¿es tan complicado que se le ocurra [utilizar diferentes escenarios](https://datanalytics.com/2011/10/18/estrategia-prediccion-y-proyeccion-de-la-poblacion-espanola/)? ¿O [imitar a sus colegas del Banco de Inglaterra](https://datanalytics.com/2011/10/19/visualizacion-de-la-incertidumbre-sobre-el-futuro/)? ¿O [leer mi blog](https://datanalytics.com/2011/10/10/las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo/)? ¿O...?
 

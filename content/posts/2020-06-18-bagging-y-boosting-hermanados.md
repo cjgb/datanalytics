@@ -30,5 +30,5 @@ Entran [Friedman y Popescu](https://arxiv.org/abs/0811.1679) (algoritmo 1):
 
 Y, tachán:
 
-* Bagging, si $latex \nu = 0$
+* Bagging, si $\nu = 0$
 * Boosting _otherwise_.

@@ -29,6 +29,6 @@ Si te ha pasado, **te has topado con el ubicuo problema del 100%**.
 
 El motivo es simple y casi siempre el mismo: en ese extremo, en ese 100%, tienes cantidad de sujetos que solo han usado la tarjeta una vez. Y, fíjate, por casualidad casi seguro, la usaron para retirar dinero. Les has asignado un _100% y lo juro por mi madre_ cuando realmente no tienes ni idea sobre las preferencias de esos sujetos. El un perro maté y mataperros me llamaron no funciona aquí. No puedes confundir a esos sujetos con los que usaron la tarjeta 319 veces y 294 lo hicieron de la manera en cuestión.
 
-Si tienes prisa y no quieres leer lo que sigue, en lugar de $latex n/N$ haz $latex \frac{n + 0.5}{N+1}$ y las cosas mejorarán, casi seguro.
+Si tienes prisa y no quieres leer lo que sigue, en lugar de $n/N$ haz $\frac{n + 0.5}{N+1}$ y las cosas mejorarán, casi seguro.
 
 Si tienes más tiempo, tómatelo para aprender sobre la [distribución beta](http://en.wikipedia.org/wiki/Beta_distribution) y en particular, sobre la [inferencia bayesiana con prioris beta](http://en.wikipedia.org/wiki/Beta_distribution#Bayesian_inference). En nada lo invertirás mejor.

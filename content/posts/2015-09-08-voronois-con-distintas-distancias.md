@@ -20,9 +20,9 @@ title: Voronois con distintas distancias
 url: /2015/09/08/voronois-con-distintas-distancias/
 ---
 
-Especulando sobre la diferencia en la práctica entre distintas métricas ($latex l_1$, $latex l_2$, $latex l_\infty$, etc.), construi una serie de [diagramas de Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) usado métricas arbitrarias.
+Especulando sobre la diferencia en la práctica entre distintas métricas ($l_1$, $l_2$, $l_\infty$, etc.), construi una serie de [diagramas de Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) usado métricas arbitrarias.
 
-En la Wikipedia se comparan gráficamente $latex l_1$, $latex l_2$ (o euclídea y Manhattan). Mi código,
+En la Wikipedia se comparan gráficamente $l_1$, $l_2$ (o euclídea y Manhattan). Mi código,
 
 
 {{< highlight R >}}
@@ -76,14 +76,14 @@ Así, `voronoi(1)` da
 [![voronoi_p2](/wp-uploads/2015/09/voronoi_p2.png#center)
 ](/wp-uploads/2015/09/voronoi_p2.png#center)
 
-donde las fronteras son segmentos (de mediatriz entre parejas de puntos). Con un valor de `p` alto (una aproximación a la norma $latex l_\infty$, `voronoi(100)`, se obtiene
+donde las fronteras son segmentos (de mediatriz entre parejas de puntos). Con un valor de `p` alto (una aproximación a la norma $l_\infty$, `voronoi(100)`, se obtiene
 
 [![voronoi_p_infty](/wp-uploads/2015/09/voronoi_p_infty.png#center)
 ](/wp-uploads/2015/09/voronoi_p_infty.png#center)
 
 que tampoco difiere sustancialmente de las anteriores.
 
-Y para los amigos de la experimentación, aquí va `voronoi(0.8)` (recuérdese que $latex l_{0.8}$ no es una métrica: no respeta la desigualdad triangular, genera bolas no convexas, etc.),
+Y para los amigos de la experimentación, aquí va `voronoi(0.8)` (recuérdese que $l_{0.8}$ no es una métrica: no respeta la desigualdad triangular, genera bolas no convexas, etc.),
 
 [![voronoi_p_08](/wp-uploads/2015/09/voronoi_p_08.png#center)
 ](/wp-uploads/2015/09/voronoi_p_08.png#center)

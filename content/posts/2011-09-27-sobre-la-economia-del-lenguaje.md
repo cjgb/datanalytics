@@ -26,7 +26,7 @@ De acuerdo con una observación de [Zipf](http://es.wikipedia.org/wiki/George_Ki
 
 Un estudio reciente, _[Word lengths are optimized for efficient communication](http://web.mit.edu/piantado/www/papers/PNAS-2011-Piantadosi-1012551108.pdf)_, matiza esa observación: la cantidad de información contenida en una palabra predice mejor la longitud de las palabras que la frecuencia de aparición pura. En una comparación entre diversos idiomas europeos, parece manifestarse que palabras que aportan poca información son breves; las que aportan mucha, más largas.
 
-La cantidad de información que transmite una palabra depende del contexto. En un contexto c, la cantidad de información que contiene una palabra _w_ es $latex -log P( w | c)$, el logaritmo de la probabilidad de que _w_ ocurra en dicho contexto. La cantidad global de información que transmite una palabra es la media de dicha cantidad a través de los contextos en que aparece _w_, es decir
+La cantidad de información que transmite una palabra depende del contexto. En un contexto c, la cantidad de información que contiene una palabra _w_ es $-log P( w | c)$, el logaritmo de la probabilidad de que _w_ ocurra en dicho contexto. La cantidad global de información que transmite una palabra es la media de dicha cantidad a través de los contextos en que aparece _w_, es decir
 
 
 $$ -\sum_c P( c | w ) \log P( w | c ),$$
@@ -38,7 +38,7 @@ cantidad que puede aproximarse por
 $$ -1/N \sum_{i = 1}^N \log P( w | c_i ).$$
 
 
-Para calcular $latex P( w | c_i )$ pueden utilizarse varias técnicas. Por ejemplo, secuencias de palabras (o contextos) tales como "quiero beber..." condicionan la probabilidad del término subsiguiente. Y "cerveza", "leche" o "agua" será menos informativo (es decir, más probable) que "hidromiel" o "electrones".
+Para calcular $P( w | c_i )$ pueden utilizarse varias técnicas. Por ejemplo, secuencias de palabras (o contextos) tales como "quiero beber..." condicionan la probabilidad del término subsiguiente. Y "cerveza", "leche" o "agua" será menos informativo (es decir, más probable) que "hidromiel" o "electrones".
 
 De alguna manera, los hablantes tienden a [mantener constante la tasa de transmisión de información ](http://www.fundeu.es/noticias-articulos-metralletas-parlantes-6659.html)acortando lo predecible y haciendo hincapié (y gastando tiempo y sílabas) en los puntos más informativos del discurso.
 

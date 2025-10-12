@@ -22,11 +22,11 @@ Leí hace unos días en alguna bitácora que el autor, de tener que retirarse un
 
 El título es sugerente y da la impresión de que nos enseñará cómo sintetizar conjuntos de datos grandes con unos pocos indicadores. Y comienza por introducir el concepto de _suficiencia_ que, recuerdo, constaba en aquel terrible libro mío de estadística de segundo de carrera. Repasémoslo:
 
- >Un estadístico T(X) es suficiente para un parámetro $latex \theta$ si la distribución condicional de la muestra X dado T(X) no depende de $latex \theta$.
+ >Un estadístico T(X) es suficiente para un parámetro $\theta$ si la distribución condicional de la muestra X dado T(X) no depende de $\theta$.
 
 Es decir, conociendo T(X) se pueden ignorar los detalles de la muestra total.
 
-Tras la definición, el libro presenta la correspondiente serie de teoremas, ejemplos y matemáticas hermosas. Por supuesto, no omite que la media de los valores de una distribución normal es un estadístico suficiente para $latex \mu$. Hasta que menciona en el párrafo más revelador:
+Tras la definición, el libro presenta la correspondiente serie de teoremas, ejemplos y matemáticas hermosas. Por supuesto, no omite que la media de los valores de una distribución normal es un estadístico suficiente para $\mu$. Hasta que menciona en el párrafo más revelador:
 
 >Sucede que fuera de la [familia exponencial](http://es.wikipedia.org/wiki/Familia_exponencial) de distribuciones no es habitual encontrar un estadístico suficiente con una dimensión menor que la de la misma muestra.
 

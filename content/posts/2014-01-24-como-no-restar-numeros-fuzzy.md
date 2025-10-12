@@ -24,11 +24,11 @@ url: /2014/01/24/como-no-restar-numeros-fuzzy/
 
 Esta entrada viene motivada por varios asuntos relacionados que me han sucedido en los últimos tiempos. El primero es un colega que me preguntó sobre si el paro había subido o bajado comparando datos de un par de trimestres.
 
-La respuesta _prima facie_ es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error. Es decir, existen infinitas _trayectorias posibles_ entre las tasas de paro _reales_ (pero desconocidas) de los dos trimestres. En térmimos matemáticos, la variación de la tasa de paro es $latex X_1 - X_0$, la diferencia de (presuntamente) dos variables aleatorias normales, que es otra variable aleatoria normal con colas que se extienden a ambos lados del cero.
+La respuesta _prima facie_ es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error. Es decir, existen infinitas _trayectorias posibles_ entre las tasas de paro _reales_ (pero desconocidas) de los dos trimestres. En térmimos matemáticos, la variación de la tasa de paro es $X_1 - X_0$, la diferencia de (presuntamente) dos variables aleatorias normales, que es otra variable aleatoria normal con colas que se extienden a ambos lados del cero.
 
 ¡La respuesta ya no es tan simple!
 
-Y es todavía aún más compleja por el hecho de que las variables $latex X_0$ y $latex X_1$ no son independientes. La varianza de la resta es $latex \text{Var}(X_0) + \text{Var}(X_1) - 2 \text{Cov}(X_0, X_1)$ y la covarianza entre $latex X_0$ y $latex X_1$ es > 0 por la construcción misma de la encuesta (aunque sea porque en ella se repiten gran parte de los sujetos).
+Y es todavía aún más compleja por el hecho de que las variables $X_0$ y $X_1$ no son independientes. La varianza de la resta es $\text{Var}(X_0) + \text{Var}(X_1) - 2 \text{Cov}(X_0, X_1)$ y la covarianza entre $X_0$ y $X_1$ es > 0 por la construcción misma de la encuesta (aunque sea porque en ella se repiten gran parte de los sujetos).
 
 El segundo asunto es [este](https://github.com/Rexamine/FuzzyNumbers), es decir, un paquete de R para manipular números _fuzzy_. Traduzco parte de la presentación del paquete:
 

@@ -28,7 +28,7 @@ A día de hoy, el S&P 500 está en 2830. La predicción está y viene estando ap
 
 $$ \frac{s - 2000}{3000 - 2000} \times 100\%$$
 
-donde $latex s$ es la cotización del índice.
+donde $s$ es la cotización del índice.
 
 Y aquí vienen dos preguntas/ejercicios para mis lectores:
 

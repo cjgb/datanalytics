@@ -20,7 +20,7 @@ title: El teorema de Rolle, ¿acientífico?
 url: /2017/05/30/el-teorema-de-rolle-acientifico/
 ---
 
-Si $latex f$ es una función continua definida en un intervalo cerrado $latex [a, b]$, y derivable sobre el intervalo abierto $latex (a, b)$ y $latex f(a) = f(b)$, entonces existe al menos un punto $latex c \in (a, b)$ tal que $latex f'(c) = 0$.
+Si $f$ es una función continua definida en un intervalo cerrado $[a, b]$, y derivable sobre el intervalo abierto $(a, b)$ y $f(a) = f(b)$, entonces existe al menos un punto $c \in (a, b)$ tal que $f'(c) = 0$.
 
 Tal es el enunciado del [teorema (de Rolle)](https://es.wikipedia.org/wiki/Teorema_de_Rolle). Que no dice ni dónde está ese punto, ni cómo encontrarlo ni cómo de complicado podría llegar a resultar. Pero es un teorema, con su demostración y todo.
 

@@ -47,4 +47,4 @@ Lo sorprendente del artículo que subí a Twitter no es lo que dice. Es una hist
 
 Automatismo es de los partidos de izquierda responder a los problemas sociales (y la corrupción, en particular) con demandas de capas adicionales de legislación, regulación, control y supervisión. Si tal hubiese sido la postura de Germà, no creo que me hubiese dignado a leer más allá del primer párrafo: ya conozco lo que opina cada sigla del asunto, gracias.
 
-Sin embargo, esta vez, el $latex -\log(P(\omega))$ superó el umbral mínimo de tuiteo.
+Sin embargo, esta vez, el $-\log(P(\omega))$ superó el umbral mínimo de tuiteo.

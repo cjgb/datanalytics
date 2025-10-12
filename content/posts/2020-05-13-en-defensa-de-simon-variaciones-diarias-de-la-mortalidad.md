@@ -36,6 +36,6 @@ Esta es la distribución de las variaciones diarias de las cifras de muertos en 
 
 De un día para otro puedes encontrar variaciones de esa magnitud a nivel nacional por motivos puramente causales. Tanta es la variabilidad que el accidente del metro de Valencia de 2006 ni se notaría. El del Spanair de 2008, a costa de un cuarto de dioptría. Etc.
 
-El modelo _natural_ para la mortalidad (en primera aproximación) es el de Poisson, que, como _todo el mundo_ sabe, tiene la varianza igual a la media. Las variaciones diarias deberían estar típicamente en el rango de $latex \pm 2\sigma$ simplemente porque sí.
+El modelo _natural_ para la mortalidad (en primera aproximación) es el de Poisson, que, como _todo el mundo_ sabe, tiene la varianza igual a la media. Las variaciones diarias deberían estar típicamente en el rango de $\pm 2\sigma$ simplemente porque sí.
 
 En fin, seguiremos insistiendo.

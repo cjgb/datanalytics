@@ -32,7 +32,7 @@ De acuerdo con [_Logistic Regression in Rare Events Data_](http://gking.harvard.
 
 $$ \log \left( \frac{1 - \tau}{\tau} \frac{\bar{y}}{1 - \bar{y}} \right)$$
 
-donde $latex \tau$ es la proporción de éxitos en la población subyacente y $latex \bar{y}$ es el estimado en la muestra.
+donde $\tau$ es la proporción de éxitos en la población subyacente y $\bar{y}$ es el estimado en la muestra.
 
 Este ajuste puede ayudarnos a resolver el siguiente problema en R: se ha ajustado el modelo usando una muestra sesgada y ahora se quiere calcular la probabilidad de éxito _real_ asociada a las observaciones de un conjunto de datos. No vale hacer simplemente
 

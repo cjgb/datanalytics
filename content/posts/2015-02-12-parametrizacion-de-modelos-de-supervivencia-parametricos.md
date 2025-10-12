@@ -29,8 +29,8 @@ Uno de mis grandes temas y que menos amigos me ha granjeado es el de la adecuaci
 
 Este preámbulo (que ahora que releo descubro que casi amerita una entrada propia) es solo abrebocas para el asunto de hoy, una parametrización que desconocía de modelos paramétricos de supervivencia y que he descubierto leyendo [esto](http://data.princeton.edu/pop509/ParametricSurvival.pdf).
 
-Más allá de las consabidas funciones de riesgo, de supervivencia, etc., una parametrización alternativa de $latex T$, el tiempo que discurre hasta que ocurre lo que interesa, es posible: $latex \log(T)=\alpha + \sigma W$ donde $latex W$ es una distribución de probabilidad de soporte en todo el eje real.
+Más allá de las consabidas funciones de riesgo, de supervivencia, etc., una parametrización alternativa de $T$, el tiempo que discurre hasta que ocurre lo que interesa, es posible: $\log(T)=\alpha + \sigma W$ donde $W$ es una distribución de probabilidad de soporte en todo el eje real.
 
-Por ejemplo, para la distribución exponencial, la correspondiente $latex W$ tiene la antiestética función de densidad $latex \exp(w-e^w)$ (donde $latex \sigma = 1$, $latex \alpha = -\log \lambda$). Para la lognormal, $latex W$ es la normal. Para otras de las habituales, se puede consultar la referencia anterior. Incluso es posible encontrar expresiones $latex \alpha + \sigma W$ de las que muchos de los modelos habituales son casos particulares.
+Por ejemplo, para la distribución exponencial, la correspondiente $W$ tiene la antiestética función de densidad $\exp(w-e^w)$ (donde $\sigma = 1$, $\alpha = -\log \lambda$). Para la lognormal, $W$ es la normal. Para otras de las habituales, se puede consultar la referencia anterior. Incluso es posible encontrar expresiones $\alpha + \sigma W$ de las que muchos de los modelos habituales son casos particulares.
 
 No estoy al tanto de aplicaciones de esta parametrización pero, sin duda, existen. Si no, a nadie daña una pequeña dosis de culturilla estadística.

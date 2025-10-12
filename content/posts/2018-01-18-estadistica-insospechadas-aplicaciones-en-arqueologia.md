@@ -36,8 +36,8 @@ Los autores [_Trade, Merchants and Lost Cities of the Bronze Age_](https://www.p
 
 $$ \log(X{ij}) = z_i + z_j + \delta \log(d_{ij}) + \epsilon_{ij}$$
 
-donde las $latex ij$ recorren los pares de ciudades, las $latex z_i$ dan cuenta de su importancia (o peso) y $latex \delta$ penaliza la distancia entre ellas.
+donde las $ij$ recorren los pares de ciudades, las $z_i$ dan cuenta de su importancia (o peso) y $\delta$ penaliza la distancia entre ellas.
 
-Parece que el modelo ajusta no mal y que $latex \delta$ es coherente con los valores obtenidos después y en otras partes (cosa que podríamos comprobar por nosotros mismos si los datos se liberasen, dicho sea de paso).
+Parece que el modelo ajusta no mal y que $\delta$ es coherente con los valores obtenidos después y en otras partes (cosa que podríamos comprobar por nosotros mismos si los datos se liberasen, dicho sea de paso).
 
 Pero, además, el modelo ha permitido acotar las coordenadas de una serie de protociudades perdidas (i.e., que constan, pero se ignora dónde estaban) usando algún tipo de triangulación. Aunque a saber cómo: he buscado _bayesian_ en el documento sin resultado.

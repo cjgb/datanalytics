@@ -31,7 +31,7 @@ La primera es que existe una _cadena de valor_ en la modelización estadística 
 
 La segunda es que la predicción es un problema fácil, mientras que la estimación (y la atribución) son mucho más complicados. Lo ilustra con un ejemplo sencillo: comparando la eficiencia de dos modelos, uno el óptimo y otro ligeramente inferior para:
 
-* Identificar el valor $latex \mu$ de una serie de 25 muestras de una $latex N(\mu, 1)$ (el problema de estimación).
+* Identificar el valor $\mu$ de una serie de 25 muestras de una $N(\mu, 1)$ (el problema de estimación).
 * Predecir el valor 26 de la serie.
 
 [_Spoiler_: el modelo óptimo es sustancialmente mejor que el otro en el problema de estimación pero apenas superior en el de predicción.]

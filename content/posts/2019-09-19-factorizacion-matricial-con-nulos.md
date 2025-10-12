@@ -25,10 +25,10 @@ _In illo tempore_ me llamaba mucho la atención encontrar métodos de ciencia de
 
 Y claro, con un nulo en la cosa, te comes los apuntes de álgebra lineal con papas.
 
-¿Cómo se hace? Si buscas $latex U$ y $latex V$ tales que $latex Y = UV^\prime$:
+¿Cómo se hace? Si buscas $U$ y $V$ tales que $Y = UV^\prime$:
 
-* Consideras los valores de $latex U$ y $latex V$ variables desconocidas.
-* Buscas minimizar (deslizándote por el tobogán del gradiente, por ejemplo) la suma de los términos $latex \left(y_{ij} - \sum_k u_{ik} v_{jk}\right)^2$ donde $latex y_{ij}$ no es nulo.
+* Consideras los valores de $U$ y $V$ variables desconocidas.
+* Buscas minimizar (deslizándote por el tobogán del gradiente, por ejemplo) la suma de los términos $\left(y_{ij} - \sum_k u_{ik} v_{jk}\right)^2$ donde $y_{ij}$ no es nulo.
 
 No es lo que nos contaron en álgebra de primero, pero funciona y escala.
 

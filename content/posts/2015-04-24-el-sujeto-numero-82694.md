@@ -23,7 +23,7 @@ url: /2015/04/24/el-sujeto-numero-82694/
 
 ¿Cuál es la cifra de variación del número de parados de la que hablan la última EPA y los medios? [13100](http://economia.elpais.com/economia/2015/04/23/empleo/1429775090_629440.html).
 
-¿Más menos cuánto? Según el INE, el _error de muestreo relativo_, $latex \sqrt{V(\hat{\sigma}}$ a nivel nacional en términos porcentuales es
+¿Más menos cuánto? Según el INE, el _error de muestreo relativo_, $\sqrt{V(\hat{\sigma}}$ a nivel nacional en términos porcentuales es
 
 [![error_relativo](/wp-uploads/2015/04/error_relativo.png#center)
 ](/wp-uploads/2015/04/error_relativo.png#center)

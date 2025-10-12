@@ -27,7 +27,7 @@ Continúo con [esto](https://datanalytics.com/2017/10/16/modelos-no-lineales-dir
 
 Que es la manera de entender que los problemas directos e inversos no son exactamente el mismo. Digamos que no es una medida invariante frente a reflexiones del plano (que es lo que hacemos realmente al considerar el modelo inverso).
 
-¿Pero y si medimos la distancia (ortogonal) entre los puntos $latex (x,y)$ y la curva $latex y = f(x)$ (o, equivalentemente, $latex x = f^{-1}(x)$)? Entonces daría (o debería dar) lo mismo.
+¿Pero y si medimos la distancia (ortogonal) entre los puntos $(x,y)$ y la curva $y = f(x)$ (o, equivalentemente, $x = f^{-1}(x)$)? Entonces daría (o debería dar) lo mismo.
 
 Podemos ensayarlo usando el paquete [`onls`](https://cran.r-project.org/web/packages/onls/index.html), que [nos proporciona exactamente eso](https://rmazing.wordpress.com/2015/01/18/introducing-orthogonal-nonlinear-least-squares-regression-in-r/).
 

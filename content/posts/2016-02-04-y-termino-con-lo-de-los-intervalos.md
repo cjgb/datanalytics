@@ -27,21 +27,21 @@ Nunca me habría atrevido a escribir sobre el tema, y exponerme, de paso, a la m
 
 Recuérdese que soy matemático. Igual trepé ese tejado desde la vertiente opuesta a la de la mayoría. No estaba programado para actos de fe.
 
-En lo de las pruebas de confianza, por ejemplo, me lo parecían que se _rechazasen_ hipótesis argumentando sobre datos que no se han observado. Cuando se construye el p-valor como $latex P(T(X) > T(\hat{X})| \theta_0)$, donde $latex \hat{X}$ son los datos obtenidos en el experimento, se está argumentando sobre la imposibilidad de valores posibles de $latex T(X)$ más extremosos que los obtenidos.
+En lo de las pruebas de confianza, por ejemplo, me lo parecían que se _rechazasen_ hipótesis argumentando sobre datos que no se han observado. Cuando se construye el p-valor como $P(T(X) > T(\hat{X})| \theta_0)$, donde $\hat{X}$ son los datos obtenidos en el experimento, se está argumentando sobre la imposibilidad de valores posibles de $T(X)$ más extremosos que los obtenidos.
 
-Pero aún era más grave la teoría subyacente a la construcción de los intervalos de confianza. Se observa un valor $latex \hat{\theta}$ (p.e., la proporción de caras obtenidas al tirar una moneda) y el intervalo de confianza se construye alrededor (y en ocasiones simétricamente) alrededor de ese valor.
+Pero aún era más grave la teoría subyacente a la construcción de los intervalos de confianza. Se observa un valor $\hat{\theta}$ (p.e., la proporción de caras obtenidas al tirar una moneda) y el intervalo de confianza se construye alrededor (y en ocasiones simétricamente) alrededor de ese valor.
 
-Veamos, existe (¿realmente?) un valor real del parámetro, $latex \theta$ y uno estimado por los datos (p.e., la proporción de caras), $latex \hat{\theta}$. El truco, si recuerdo bien, es que si
+Veamos, existe (¿realmente?) un valor real del parámetro, $\theta$ y uno estimado por los datos (p.e., la proporción de caras), $\hat{\theta}$. El truco, si recuerdo bien, es que si
 
 $$ \hat{\theta} - \theta \sim F_\theta,$$
 
-donde $latex F$ es alguna distribución (usualmente la normal), se utiliza algún tipo de prestidigitación matemática para cambiar $latex F_\theta$ por $latex F_{\hat{\theta}}$. No tanto porque esté justificado sino porque no hay alternativa. Y si tiene barba, San Antón. Solo así el intervalo pivota alrededor de $latex \hat{\theta}$. En ocasiones ese cambio equivale en la práctica a hacer como si $latex \hat{\theta}$ fuese el valor del parámetro y el _verdadero_, fuese un valor muestreado a partir de él.
+donde $F$ es alguna distribución (usualmente la normal), se utiliza algún tipo de prestidigitación matemática para cambiar $F_\theta$ por $F_{\hat{\theta}}$. No tanto porque esté justificado sino porque no hay alternativa. Y si tiene barba, San Antón. Solo así el intervalo pivota alrededor de $\hat{\theta}$. En ocasiones ese cambio equivale en la práctica a hacer como si $\hat{\theta}$ fuese el valor del parámetro y el _verdadero_, fuese un valor muestreado a partir de él.
 
 Son muchos años ya desde entones, pero recuerdo verme pensando en lo siguiente:
 
-* $latex \hat{\theta}$ es una magnitud que se compone de dos partes: señal (sobre el valor real del parámetro) y ruido.
-* Ese valor estimado $latex \hat{\theta}$ no debería _generar_ el intervalo. Con generar me refiero a actuar como si fuese el valor real del parámetro gracias tal vez a una aproximación, como indico más arriba. Ese valor es generado por el valor real (aunque desconocido) del parámetro. Supongamos, por ejemplo, en el caso de una proporción, que obtenemos una estimada de 0.6; ese valor puede proceder de un parámetro real de 0.51, de otro de 0.875, de otro de 0.61, etc. cada uno de ellos con una probabilidad distinta.
-* Es decir, que lo que se tiene es una colección de probabilidades $latex p(\hat{\theta}|\theta)$ a las que tenía que _dar la vuelta_ para conseguir $latex p(\theta|\hat{\theta})$.
+* $\hat{\theta}$ es una magnitud que se compone de dos partes: señal (sobre el valor real del parámetro) y ruido.
+* Ese valor estimado $\hat{\theta}$ no debería _generar_ el intervalo. Con generar me refiero a actuar como si fuese el valor real del parámetro gracias tal vez a una aproximación, como indico más arriba. Ese valor es generado por el valor real (aunque desconocido) del parámetro. Supongamos, por ejemplo, en el caso de una proporción, que obtenemos una estimada de 0.6; ese valor puede proceder de un parámetro real de 0.51, de otro de 0.875, de otro de 0.61, etc. cada uno de ellos con una probabilidad distinta.
+* Es decir, que lo que se tiene es una colección de probabilidades $p(\hat{\theta}|\theta)$ a las que tenía que _dar la vuelta_ para conseguir $p(\theta|\hat{\theta})$.
 * La manera en la que lo vi hacer en la pizarra me parecía grotesca y difícimente justificable.
 * Además, mil tíos distintos, usando variaciones de esos principios grotescos y difícilmente justificables ha creado mil versiones distintas de esos intervalos de confianza.
 

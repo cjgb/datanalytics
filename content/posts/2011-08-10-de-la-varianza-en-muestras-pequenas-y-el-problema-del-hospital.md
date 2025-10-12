@@ -27,13 +27,13 @@ En un [artículo que enlacé hace un tiempo](https://datanalytics.com/2011/04/27
 
 En el artículo se menciona cómo en una muestra de 95 estudiantes universitarios, 21 se decantaron por el grande, 21 en el pequeño y 53 dijeron que la probabilidad es, aproximadamente, igual para ambos.
 
-En realidad, si $latex X$ es el número de niñas nacidas en un hospital en el que ha habido n partos, entonces
+En realidad, si $X$ es el número de niñas nacidas en un hospital en el que ha habido n partos, entonces
 
 
 $$ P( X / n > 0.6 ) = P( \frac{ X - n/2} {\sqrt{n}} ) > 0.1 \sqrt{n} ) \approx P( \Phi > 0.1 \sqrt{n} ) $$
 
 
-donde $latex \Phi $ es una variable aleatoria N(0,1). Esta probabilidad puede calcularse en R escribiendo
+donde $\Phi $ es una variable aleatoria N(0,1). Esta probabilidad puede calcularse en R escribiendo
 
 
 

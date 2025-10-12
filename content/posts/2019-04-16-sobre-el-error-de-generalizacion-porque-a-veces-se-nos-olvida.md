@@ -24,7 +24,7 @@ Al construir modelos, queremos minimizar
 
 $$ l(\theta) = \int L(y, f_\theta(x))  dP(x,y),$$
 
-donde $L$ es una determinada función de pérdida (y no, no me refiero exclusivamente a la que tiene un numerillo 2). Pero como de $latex P(x,y)$ solo conocemos una muestra $latex (x_i, y_i)$ (dejadme aprovechar la ocasión para utilizar una de mis palabras favoritas: $latex P(x,y)$ es incognoscible), hacemos uso de la aproximación
+donde $L$ es una determinada función de pérdida (y no, no me refiero exclusivamente a la que tiene un numerillo 2). Pero como de $P(x,y)$ solo conocemos una muestra $(x_i, y_i)$ (dejadme aprovechar la ocasión para utilizar una de mis palabras favoritas: $P(x,y)$ es incognoscible), hacemos uso de la aproximación
 
 $$ \int f(x) dP(x) \approx \frac{1}{N} \sum f(x_i)$$
 

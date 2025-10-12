@@ -59,7 +59,7 @@ es decir, así:
 [![](/wp-uploads/2012/02/datos_clasificacion.png#center)
 ](/wp-uploads/2012/02/datos_clasificacion.png#center)
 
-Los puntos rojos están distribuidos según $latex P(x|R)$, una mezcla de tres distribuciones normales esféricas con centros en los puntos (-1,1), (0,0) y (1,-1) y desviación estándar 0.5. Los verdes, según $latex P(x|V)$, una distribución similar aunque con centros en (-1,-1) y (1,1):
+Los puntos rojos están distribuidos según $P(x|R)$, una mezcla de tres distribuciones normales esféricas con centros en los puntos (-1,1), (0,0) y (1,-1) y desviación estándar 0.5. Los verdes, según $P(x|V)$, una distribución similar aunque con centros en (-1,-1) y (1,1):
 
 {{< highlight R >}}
 veros <- function(w, medias, sigma = 5){
@@ -100,16 +100,16 @@ $$ P(C|x) P(x) = P(x | C) P(C)$$
 
 donde:
 
-* $latex P(C|x)$ es la probabilidad de que la clase/color sea C en el punto x.
-* $latex P(x)$ es la probabilidad de observar el valor x.
-* $latex P(x|C)$ es la probabilidad de que x sea un punto de la clase/color C.
-* $latex P(C)$ es la probabilidad de la clase C, que suponemos igual en nuestro ejemplo (aunque sería muy desigual en un problema de detección del fraude, por ejemplo, donde el porcentaje de casos fraudulentos es muy bajo).
+* $P(C|x)$ es la probabilidad de que la clase/color sea C en el punto x.
+* $P(x)$ es la probabilidad de observar el valor x.
+* $P(x|C)$ es la probabilidad de que x sea un punto de la clase/color C.
+* $P(C)$ es la probabilidad de la clase C, que suponemos igual en nuestro ejemplo (aunque sería muy desigual en un problema de detección del fraude, por ejemplo, donde el porcentaje de casos fraudulentos es muy bajo).
 
 Bajo las condiciones anteriores,
 
 $$ \frac{ P(R|x)}{P(V|x)} = \frac{ P(x|R)}{P(x|V)}$$
 
-y, no habiendo penalizaciones asimétricas según la dirección del error, el criterio óptimo de clasificación es asignar la clase R cuando $latex P(R|x) > P(V|x)$ y, de acuerdo con la fórmula anterior, cuando $latex P(x|R) > P(x|V)$. Es decir, la _frontera_ entre las zonas en que es más probable que una observación proceda de una u otra distribución (es decir, sea de una u otra clase) es
+y, no habiendo penalizaciones asimétricas según la dirección del error, el criterio óptimo de clasificación es asignar la clase R cuando $P(R|x) > P(V|x)$ y, de acuerdo con la fórmula anterior, cuando $P(x|R) > P(x|V)$. Es decir, la _frontera_ entre las zonas en que es más probable que una observación proceda de una u otra distribución (es decir, sea de una u otra clase) es
 
 
 {{< highlight R >}}

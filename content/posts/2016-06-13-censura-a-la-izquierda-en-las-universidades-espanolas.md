@@ -73,8 +73,8 @@ notas <- notas[order(notas$nota), ]
 
 con el objetivo de estudiar el efecto de la universidad / sede y de la carrera en el punto de corte. Esencialmente, quiero hacer algo así como `lmer(nota ~ 1 + (1 | sede) + (1 | carrera), data = notas)`, pero hay una complicación: como creo que mis lectores sabrán, las notas de acceso tienen un valor mínimo, el del aprobado, 5. Eso significa que, de alguna manera, están censuradas por la izquierda. El modelo resultante es algo así como
 
-$latex \text{nota} \sim N(a + \text{sede} + \text{carrera}, \sigma)$
-$latex \text{nota\_observada} = \max(5, \text{nota})$
+$\text{nota} \sim N(a + \text{sede} + \text{carrera}, \sigma)$
+$\text{nota\_observada} = \max(5, \text{nota})$
 
 Así que toca renuniciar a `lmer` y utilizar el sustancialmente más flexible `rstan`:
 

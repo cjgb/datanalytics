@@ -37,7 +37,7 @@ Hay que ser muy torero para hablar de causalidad. Más que, incluso, Google.
 
 El segundo comentario es que tampoco lo que nos trae Google es algo novísimo bajo el sol. P.e., en el artículo (¡de 2006!) [_Formulating State Space Models in R with Focus on Longitudinal Regression Models_](http://www.jstatsoft.org/v16/i01/paper) se plantea el siguiente problema:
 
- >Let $latex y_t$ be the monthly numbers of light goods van drivers killed in road accidents, from January 1969 to December 1984 (192 observations). On January 31st, 1983, a seat belt law was introduced. The interest is to quantify the effect of the seat belt legislation law.
+ >Let $y_t$ be the monthly numbers of light goods van drivers killed in road accidents, from January 1969 to December 1984 (192 observations). On January 31st, 1983, a seat belt law was introduced. The interest is to quantify the effect of the seat belt legislation law.
 
 Que es, observarán mis lectores, muy similar al que ocho años después replantea Google. En la tercera gráfica del artículo, que reproduzco a continuación, los autores muestran cómo han sido capaces de dar con el efecto causal de la ley en cuestión.
 

@@ -22,15 +22,15 @@ url: /2012/07/27/a-los-datos-mismos/
 
 Me llamaron (y aún no tengo claro qué hay _de lo mío_ en el asunto) para un proyecto. Consistía en estimar el tiempo que lleva completar determinados _procesos_ en una conocida empresa.
 
-Cada proceso $latex P_i$, se ve, consistía en una sucesión de subprocesos parametrizados, por lo que las duraciones podrían calcularse algo así como
+Cada proceso $P_i$, se ve, consistía en una sucesión de subprocesos parametrizados, por lo que las duraciones podrían calcularse algo así como
 
 $$ P_i=p_{i1}+\dots+p_{ik}.$$
 
-Además, cada $latex p_{ij}$ dependía de ciertos parámetros, aunque eso no es lo más relevante para el caso.
+Además, cada $p_{ij}$ dependía de ciertos parámetros, aunque eso no es lo más relevante para el caso.
 
 El objetivo del proyecto, como decía, era realizar estimaciones de la duración de los procesos pero la forma en que me lo plantearon, _calcular la media y la varianza o algo así_, me puso sobre aviso.
 
-En una primera lectura, me di cuenta de que cabría pensar que la distribución de la duración de cada $latex p_{ij}$ podría aproximarse por algo así como una mezcla de distribuciones de Poisson. Una de ellas, con un parámetro pequeño y un peso elevado, correspondería a las situaciones _normales_ y la otra, con un parámetro muy alto y un peso pequeño, a las situaciones _excepcionales_ (posiblemente relacionadas con incidencias de servicio y otras circunstancias).
+En una primera lectura, me di cuenta de que cabría pensar que la distribución de la duración de cada $p_{ij}$ podría aproximarse por algo así como una mezcla de distribuciones de Poisson. Una de ellas, con un parámetro pequeño y un peso elevado, correspondería a las situaciones _normales_ y la otra, con un parámetro muy alto y un peso pequeño, a las situaciones _excepcionales_ (posiblemente relacionadas con incidencias de servicio y otras circunstancias).
 
 En esa coyuntura, las distribuciones tienen una cola pesada y la media y la varianza se convierten en indicadores engañosos de la realidad: ¿de qué sirven si _casi siempre_ se termina en 2 o 3 días pero en un buen 5% de los casos la demora puede llegar a exceder los 20 días?
 

@@ -24,7 +24,7 @@ Ha estado indagando cómo convertirse en conductor del metro (de Madrid, para m�
 
 Lecturas sobre el capitalismo (¿o sindicalismo?) carpetovetónico aparte, el asunto me ha dado que pensar estos días. La pregunta que  me he hecho es: dada una lista de apellidos (primero y segundo) de los conductores de metro (o, ya puestos, [del Tribunal de Cuentas](http://politica.elpais.com/politica/2014/06/23/actualidad/1403548994_107851.html)) anonimizados o no y una lista correspondiente de frecuencias de apellidos en la población general, ¿qué tipo de prueba estadística podría indicarnos si existe algún tipo de indicio de nepotismo?
 
-Podría pensarse en la prueba de la $latex \chi^2$ pero, ¿tendría la potencia necesaria? ¿Sería viable con tantos ceros?
+Podría pensarse en la prueba de la $\chi^2$ pero, ¿tendría la potencia necesaria? ¿Sería viable con tantos ceros?
 
 ¿Podría compararse el `table(table(apellidos))` con el equivalente obtenido muestreando la población general? Ahí estaríamos perdiendo la etiqueta: no es lo mismo un pico de Garcías que de Álvarez de Mirandas.
 

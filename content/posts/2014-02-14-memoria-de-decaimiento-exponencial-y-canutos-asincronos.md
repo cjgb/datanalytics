@@ -26,31 +26,31 @@ Y uno quiere medir cosas. Por ejemplo, la frecuencia. O la intensidad de uso —
 
 Efectivamente, se necesitan medidas sintéticas de series temporales —las escupa en tiempo real un canuto o estén convenientemente listadas en una tabla— que recojan características útiles para la modelación. Típicamente la frecuencia y la intensidad.
 
-Una familia de medidas habituales —y que me resultan antipáticas— son las de los promedios temporales (en horas, meses, años). Si los sucesos asociados a un sujeto son $latex (a_0,t_0),\dots,(a_n,t_n)$ la gente todavía recurre casi siempre a medidas de la frecuencia del tipo
+Una familia de medidas habituales —y que me resultan antipáticas— son las de los promedios temporales (en horas, meses, años). Si los sucesos asociados a un sujeto son $(a_0,t_0),\dots,(a_n,t_n)$ la gente todavía recurre casi siempre a medidas de la frecuencia del tipo
 
 $$ \sum_{t_i\in (t-T,t)} 1$$
 
-(donde $latex t$ significa ahora) y para la intensidad
+(donde $t$ significa ahora) y para la intensidad
 
 $$ \sum_{t_i\in (t-T,t)} a_i$$
 
-La combinación de varios valores de $latex T$ permite construir simultáneamente, por ejemplo, medidas mensuales y trimestrales. Y hacer cosas como restarlas (convenientemente normalizadas) para intuir tendencias.
+La combinación de varios valores de $T$ permite construir simultáneamente, por ejemplo, medidas mensuales y trimestrales. Y hacer cosas como restarlas (convenientemente normalizadas) para intuir tendencias.
 
-Esta aproximación equivale al uso en las fórmulas anteriores de una función de memoria (o _cutoff_) de tipo escalón: se recuerda todo tal cual hasta el tiempo $latex T$ y se olvida por completo a partir de entonces. Y presenta ciertas complicaciones. La primera de ellas es que es computacionalmente engorrosa. Además, que obliga a guardar el histórico de eventos completo.
+Esta aproximación equivale al uso en las fórmulas anteriores de una función de memoria (o _cutoff_) de tipo escalón: se recuerda todo tal cual hasta el tiempo $T$ y se olvida por completo a partir de entonces. Y presenta ciertas complicaciones. La primera de ellas es que es computacionalmente engorrosa. Además, que obliga a guardar el histórico de eventos completo.
 
 La alternativa —¡que a ver si tienen a bien dejarme utilizar algún día en algún lado!— es utilizar una función de memoria exponencial. Es decir, una medida de la frecuencia de la forma
 
 $$ \sum_i \exp(-t_i \alpha)$$
 
-para un cierto valor de $latex \alpha$ y de la intensidad tal como
+para un cierto valor de $\alpha$ y de la intensidad tal como
 
 $$ \sum_i a_i \exp(-t_i \alpha).$$
 
 Es decir, sometiendo a las observaciones a un decaimiento que depende del tiempo.
 
-¿Qué ventajas tiene este procedimiento? Por ejemplo, computacionales. El indicador se actualiza sin necesidad de guardar un histórico. Basta con contar con el último valor, $latex a$ y su data, $latex t_a$. El valor actualizado ahora mismo, en $latex t$, es $latex a\exp(-\alpha(t - t_a))$. ¡Solo hacen falta dos números para almacenar (lo relevante de) la serie! ¡Y se puede conocer el valor del indicador en tiempo rabiosamente real!
+¿Qué ventajas tiene este procedimiento? Por ejemplo, computacionales. El indicador se actualiza sin necesidad de guardar un histórico. Basta con contar con el último valor, $a$ y su data, $t_a$. El valor actualizado ahora mismo, en $t$, es $a\exp(-\alpha(t - t_a))$. ¡Solo hacen falta dos números para almacenar (lo relevante de) la serie! ¡Y se puede conocer el valor del indicador en tiempo rabiosamente real!
 
-Combinando un par de valores de $latex \alpha$, que mide la velocidad del olvido, pueden también intuirse tendencias (p.e., si la frecuencia tiende a crecer).
+Combinando un par de valores de $\alpha$, que mide la velocidad del olvido, pueden también intuirse tendencias (p.e., si la frecuencia tiende a crecer).
 
 Finalmente, este procedimiento tiene la ventaja de dar más peso a observaciones recientes que a pasadas: no es lo mismo que aquellas sucedan hace casi un año (para medias anuales) que hayan sucedido recientemente. Las funciones de memoria escalonadas pierden el matiz.
 

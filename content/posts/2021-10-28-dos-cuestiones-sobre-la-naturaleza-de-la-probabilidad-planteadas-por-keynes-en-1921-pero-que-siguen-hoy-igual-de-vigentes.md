@@ -35,7 +35,7 @@ Lo que no se le puede negar a Keynes es que fundamente todas las cuestiones que 
 
 **II.**
 
-Esa sección pertenece al capítulo III en el que Keynes razona que las probabilidades no son (siempre) un número. No es ya solo que la probabilidad de un evento sea difícil de calcular o que nadie lo haya hecho, sino que, simplemente, en su parecer, no existe tal número. Y en particular, existen comparaciones imposibles. Para Keynes, de hecho, esos objetos que son las probabilidades forman parte de un conjunto dotado de un orden parcial, dentro del cual algunas comparaciones son posibles (p.e., admite que, con notación _moderna_, $latex P(A\cap B) \le P(A)$, pero no podemos aspirar a comparar las probabilidades de "el Real Madrid perderá 0-7 en su próximo partido" y "a Kennedy lo mataron los rusos".
+Esa sección pertenece al capítulo III en el que Keynes razona que las probabilidades no son (siempre) un número. No es ya solo que la probabilidad de un evento sea difícil de calcular o que nadie lo haya hecho, sino que, simplemente, en su parecer, no existe tal número. Y en particular, existen comparaciones imposibles. Para Keynes, de hecho, esos objetos que son las probabilidades forman parte de un conjunto dotado de un orden parcial, dentro del cual algunas comparaciones son posibles (p.e., admite que, con notación _moderna_, $P(A\cap B) \le P(A)$, pero no podemos aspirar a comparar las probabilidades de "el Real Madrid perderá 0-7 en su próximo partido" y "a Kennedy lo mataron los rusos".
 
 De hecho, una de las pocas ilustraciones del libro es
 

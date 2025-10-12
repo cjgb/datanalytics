@@ -30,13 +30,13 @@ Primero, el contexto. O el casi contexto. Porque no es exactamente así. Pero s�
 
 Uno puede pensar en usar la media de las predicciones. O la mediana. O tratar de usar un peso revelado por los datos.
 
-Para esto último puede hacerse lo siguiente: reservar una serie de observaciones (no usadas ni en entrenamiento ni en nada) y construir las predicciones $latex \hat{y}_1$, $latex \hat{y}_2$, $latex \hat{y}_3$ y $latex \hat{y}_4$ de $latex y$. Con eso se pueden hacer muchas cosas. Por ejemplo, usar un peso inversamente proporcional cierta distancia $latex \|y - \hat{y}_i\|$.
+Para esto último puede hacerse lo siguiente: reservar una serie de observaciones (no usadas ni en entrenamiento ni en nada) y construir las predicciones $\hat{y}_1$, $\hat{y}_2$, $\hat{y}_3$ y $\hat{y}_4$ de $y$. Con eso se pueden hacer muchas cosas. Por ejemplo, usar un peso inversamente proporcional cierta distancia $\|y - \hat{y}_i\|$.
 
-O, y a eso voy, buscar los pesos $latex \alpha_i$ que minimizan $latex \|y - \sum_i \alpha_i \hat{y}_i\|$ usando, p.e., la norma euclídea.
+O, y a eso voy, buscar los pesos $\alpha_i$ que minimizan $\|y - \sum_i \alpha_i \hat{y}_i\|$ usando, p.e., la norma euclídea.
 
-La pregunta es: ¿tiene sentido imponer $latex \alpha_i > 0$ y $latex \sum_i \alpha_i = 1$? Por un lado, no. Se supone que lo aprendido de los datos (eso nos cuentan algunos) es preferible a lo apriorístico. Pero entonces ¿cómo interpretar, por ejemplo, coeficientes negativos?
+La pregunta es: ¿tiene sentido imponer $\alpha_i > 0$ y $\sum_i \alpha_i = 1$? Por un lado, no. Se supone que lo aprendido de los datos (eso nos cuentan algunos) es preferible a lo apriorístico. Pero entonces ¿cómo interpretar, por ejemplo, coeficientes negativos?
 
-Por otro lado, sí. Los vectores $latex \hat{y}_i$ están muy correlacionados entre sí y los coeficientes son muy inestables. Tiene sentido tratar de acotar esa inestabilidad esperada introduciendo restricciones (¿no es así como funciona, p.e., [_lasso_](http://en.wikipedia.org/wiki/Regularization_(mathematics))?).
+Por otro lado, sí. Los vectores $\hat{y}_i$ están muy correlacionados entre sí y los coeficientes son muy inestables. Tiene sentido tratar de acotar esa inestabilidad esperada introduciendo restricciones (¿no es así como funciona, p.e., [_lasso_](http://en.wikipedia.org/wiki/Regularization_(mathematics))?).
 
 En definitiva, que hay argumentos a favor y en contra y sigo sin tener claro hasta qué punto es conveniente plantear restricciones. Y si habrá algún argumento teórico de peso detrás.
 

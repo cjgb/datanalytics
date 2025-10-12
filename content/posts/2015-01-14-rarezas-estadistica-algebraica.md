@@ -22,7 +22,7 @@ Matemáticas y estadística son peras y manzanas. La una es la ciencia del ser; 
 
 Contiene resultados, como la proposición 1.1.2 que... bueno, sí, bien, vale:
 
-_**Proposición 1.1.2.** Las variables aleatorias [discretas] X e Y son independientes sí y solo sí la matriz $latex p = (p_{ij})$ tiene rango 1._
+_**Proposición 1.1.2.** Las variables aleatorias [discretas] X e Y son independientes sí y solo sí la matriz $p = (p_{ij})$ tiene rango 1._
 
 Otros, sin embargo, son más crípticos:
 

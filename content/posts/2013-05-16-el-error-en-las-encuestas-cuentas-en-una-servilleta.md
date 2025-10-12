@@ -37,17 +37,17 @@ p <- 0.14  # proporción estimada de sujetos X
 x <- ceiling(n * p)  # número obtenido de sujetos X en la muestra
 {{< / highlight >}}
 
-Llamemos $latex \theta$ a la variable (desconocida, aleatoria) que indica el número de individuos X en la población. Lo que hemos obtenido en la muestra es una visión indirecta de $latex \theta$, típicamente representada como
+Llamemos $\theta$ a la variable (desconocida, aleatoria) que indica el número de individuos X en la población. Lo que hemos obtenido en la muestra es una visión indirecta de $\theta$, típicamente representada como
 
 $$ p | \theta.$$
 
-Esta expresión muestra cómo la proporción (conocida, porque se mide sobre la muestra) de sujetos X depende de la variable de interés $latex \theta$. Y nos interesa conocer el rango de valores de $latex \theta$ compatible con el valor observado, $latex p$.
+Esta expresión muestra cómo la proporción (conocida, porque se mide sobre la muestra) de sujetos X depende de la variable de interés $\theta$. Y nos interesa conocer el rango de valores de $\theta$ compatible con el valor observado, $p$.
 
 Para ello usaremos el teorema de Bayes,
 
 $$ P(\theta | x) \propto P(x | \theta) P(\theta)$$
 
-y dada nuestra ignorancia _a priori_ sobre $P(\theta)$, bien podemos suponerla uniforme (esto es, independiente de $latex \theta$), con lo cual
+y dada nuestra ignorancia _a priori_ sobre $P(\theta)$, bien podemos suponerla uniforme (esto es, independiente de $\theta$), con lo cual
 
 $$ P(\theta | x) \propto P(x | \theta).$$
 
@@ -59,7 +59,7 @@ probs <- sapply(n.reales, function(y) dhyper(x, y, N-y, n, log = FALSE))
 probs <- probs / sum(probs)
 {{< / highlight >}}
 
-calcula `probs`, el vector de probabilidades correspondiente a la distribución a posteriori de $latex \theta$ sobre `0:N`, que tiene la siguiente pinta:
+calcula `probs`, el vector de probabilidades correspondiente a la distribución a posteriori de $\theta$ sobre `0:N`, que tiene la siguiente pinta:
 
 [![](/wp-uploads/2013/05/distr_posteriori_encuesta.png#center)
 ](/wp-uploads/2013/05/distr_posteriori_encuesta.png#center)

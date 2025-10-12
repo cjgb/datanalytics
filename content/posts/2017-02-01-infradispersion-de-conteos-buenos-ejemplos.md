@@ -21,9 +21,9 @@ title: 'Infradispersión de conteos: ¿buenos ejemplos?'
 url: /2017/02/01/infradispersion-de-conteos-buenos-ejemplos/
 ---
 
-La distribución de Poisson se utiliza de oficio cuando se quiere modelar datos relativos a conteos. Sin embargo, tiene un problema serio: la varianza está fijada a la media: ambas son $latex \lambda$, el parámetro de la distribución.
+La distribución de Poisson se utiliza de oficio cuando se quiere modelar datos relativos a conteos. Sin embargo, tiene un problema serio: la varianza está fijada a la media: ambas son $\lambda$, el parámetro de la distribución.
 
-Muy frecuentemente se observan datos con **sobredispersión**. Si $latex \lambda$ es 1000, el número esperado de eventos está contenido en un intervalo demasiado estrecho,
+Muy frecuentemente se observan datos con **sobredispersión**. Si $\lambda$ es 1000, el número esperado de eventos está contenido en un intervalo demasiado estrecho,
 
 {{< highlight R >}}
 qpois(c(0.025, 0.975), 1000)

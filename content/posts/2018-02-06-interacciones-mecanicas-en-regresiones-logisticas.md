@@ -19,7 +19,7 @@ title: Interacciones "mecánicas" en regresiones logísticas
 url: /2018/02/06/interacciones-mecanicas-en-regresiones-logisticas/
 ---
 
-En general, dos variables _interaccionan_ cuando el efecto de una cambia al modificarse el nivel de la otra. Un caso particular (aunque notable) de interacción es el habitual en los modelos lineales, generalizados o no. En ellos, al introducir en el modelo términos del tipo `x1 * x2`, estamos indicando que el coeficiente de la segunda variable, $latex x_2$, es $latex \alpha + \beta x_1$. El efecto de un incremento de una unidad de $latex x_2$ depende entonces de $latex x_1$.
+En general, dos variables _interaccionan_ cuando el efecto de una cambia al modificarse el nivel de la otra. Un caso particular (aunque notable) de interacción es el habitual en los modelos lineales, generalizados o no. En ellos, al introducir en el modelo términos del tipo `x1 * x2`, estamos indicando que el coeficiente de la segunda variable, $x_2$, es $\alpha + \beta x_1$. El efecto de un incremento de una unidad de $x_2$ depende entonces de $x_1$.
 
 Esas son interacciones _conceptuales_ (la terminología no es mía; luego indicaré de quién). Existen otras, las _mecánicas_, producto de la no linealidad de modelos tales como la regresión logística. Cosa que ilustraré con un ejemplo en el que no existen interacciones conceptuales por construcción pero sí afloran interacciones mecánicas.
 

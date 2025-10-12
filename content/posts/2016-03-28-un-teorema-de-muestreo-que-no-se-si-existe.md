@@ -20,7 +20,7 @@ title: Un ejemplo de "importance sampling" (que no sé cómo traducir)
 url: /2016/03/28/un-teorema-de-muestreo-que-no-se-si-existe/
 ---
 
-Imaginemos que queremos muestrear una variable aleatoria cuya función de densidad es (proporcional a) el producto de otras dos (no necesariamente propias). Por ejemplo, la gamma, cuya función de densidad es $latex K x^{k-1} \exp(-\lambda x)$, el producto de una exponencial y una distribución impropia con densidad $latex x^{k-1}$.
+Imaginemos que queremos muestrear una variable aleatoria cuya función de densidad es (proporcional a) el producto de otras dos (no necesariamente propias). Por ejemplo, la gamma, cuya función de densidad es $K x^{k-1} \exp(-\lambda x)$, el producto de una exponencial y una distribución impropia con densidad $x^{k-1}$.
 
 Supongamos que no sabemos hacer
 
@@ -54,4 +54,4 @@ Esto puede servir para muestrear una posteriori (en algunos casos simples) sin t
 
 $$ p(\theta|x_i) \propto p(x_i | \theta) p(\theta).$$
 
-Si sabemos muestrear $latex p(\theta)$, podemos usar la verosimilitud $latex p(x_i | \theta)$ para reponderar las muestras y realizar una última extracción de pesos de acuerdo con esos nuevos pesos.
+Si sabemos muestrear $p(\theta)$, podemos usar la verosimilitud $p(x_i | \theta)$ para reponderar las muestras y realizar una última extracción de pesos de acuerdo con esos nuevos pesos.

@@ -94,7 +94,7 @@ que es un diagrama de cajas del grado sobre el que se superpone el número esper
 
 La segunda propiedad de este tipo de redes es más enjundiosa. Tiene que ver con lo siguiente: en una red aleatoria, ¿existirán varias componentes inconexas? ¿o todos los nodos acabarán unidos a todos los nodos?
 
-Supongamos que existe una _componente gigante_ _G_. ¿Cuál será la probabilidad _q_ de que alguno de los nodos _x_ no pertenezca a ella? Si $latex x$ es un nodo con _k_ vecinos $latex x_1, \dots, x_k$, entonces
+Supongamos que existe una _componente gigante_ _G_. ¿Cuál será la probabilidad _q_ de que alguno de los nodos _x_ no pertenezca a ella? Si $x$ es un nodo con _k_ vecinos $x_1, \dots, x_k$, entonces
 
 
 $$q = P( x \not\in G ) = P( x_1, \dots, x_k \not\in G)$$
@@ -118,7 +118,7 @@ y que, en general,
 $$q = \sum_{k=0}^\infty q^k z^k e^{-z} / k! = e^{-z} \sum_{k=0}^\infty (qz)^k / k! = e^{-z} e^{zq}.$$
 
 
-De ahí se obtiene la ecuación $latex q = \exp^{-z( 1-q )}$ y si $latex s = 1-q$ es la probabilidad de que un nodo pertenezca a _G_, se obtiene $latex s = 1 - \exp^{-zs}$.
+De ahí se obtiene la ecuación $q = \exp^{-z( 1-q )}$ y si $s = 1-q$ es la probabilidad de que un nodo pertenezca a _G_, se obtiene $s = 1 - \exp^{-zs}$.
 
 ¿Tiene soluciones esta ecuación entre 0 y 1? ¿Para qué valores de _z_? Existe una raíz trivial _s_ = 0: en tal caso el término de la izquierda y el de la derecha valen 0. En 1, el término de la izquierda vale 1 y el de la derecha, menos de uno.
 

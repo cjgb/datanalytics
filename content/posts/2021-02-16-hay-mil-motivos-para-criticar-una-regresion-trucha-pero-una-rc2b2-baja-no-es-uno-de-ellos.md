@@ -30,7 +30,7 @@ Esa gráfica, extraída de un documento de la OCDE, creo, fue uno de los argumen
 
 Hay mil argumentos para criticar una regresión de ese estilo y mi favorita es _[10k regresiones truchas para que cada cual elija la que más le cuadre](https://datanalytics.com/2020/04/03/10k-regresiones-truchas-para-que-cada-cual-elija-la-que-mas-le-cuadre/)_, en estas mismas páginas. Pero no, la R² no es argumento de nada. La R² está relacionada con el error irreductible, la cantidad de ruido presente en los datos como pone en evidencia el ejemplo que desarrollo a continuación.
 
-En primer lugar, genero varios conjuntos de datos con la misma estructura probabilística pero haciendo variar (crecer) el error irreductible, es decir, la $latex \sigma$ del error normal:
+En primer lugar, genero varios conjuntos de datos con la misma estructura probabilística pero haciendo variar (crecer) el error irreductible, es decir, la $\sigma$ del error normal:
 
 {{< highlight R >}}
 n <- 3000

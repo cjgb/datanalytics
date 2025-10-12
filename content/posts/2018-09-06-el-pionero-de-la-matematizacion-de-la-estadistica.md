@@ -25,7 +25,7 @@ En particular, que usase fórmulas tales como
 
 $$ z = \phi ( 1 - \epsilon^{-\beta t}),$$
 
-donde $latex t$ es el tiempo, $latex z$ la fuerza que se da a una noción a la que se presta atención durante un periodo de duración $latex t$ y el resto de los símbolos son otros parámetros que afectan al modelo. O
+donde $t$ es el tiempo, $z$ la fuerza que se da a una noción a la que se presta atención durante un periodo de duración $t$ y el resto de los símbolos son otros parámetros que afectan al modelo. O
 
 $$ \nu = \pi \phi \frac{\beta}{1 - \beta} \epsilon^{-\beta t} + C \epsilon^{-t},$$
 

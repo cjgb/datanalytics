@@ -23,9 +23,9 @@ url: /2012/04/11/correccion-por-exposicion-del-modelo-logistico/
 
 He tropezado con una extensión curiosa y que no conocía del modelo logístico que lo emparenta un tanto con los modelos de supervivencia. Es un problema que aparece en los modelos de los actuarios, por ejemplo, y en la [supervivencia de nidos](http://www.npwrc.usgs.gov/resource/birds/nestsurv/index.htm ) (sí, nidos de bichos alados), parece.
 
-Es el siguiente: supongamos que unos sujetos están expuestos a un cierto suceso cuya probabilidad, $latex p_i$, depende del sujeto a través del esquema habitual de la regresión logística (es decir, depende de algunas variables como el sexo, etc., a través de una fórmula lineal cuyos coeficientes interesa estimar).
+Es el siguiente: supongamos que unos sujetos están expuestos a un cierto suceso cuya probabilidad, $p_i$, depende del sujeto a través del esquema habitual de la regresión logística (es decir, depende de algunas variables como el sexo, etc., a través de una fórmula lineal cuyos coeficientes interesa estimar).
 
-Supongamos también, y esta es la novedad, que no todos los sujetos están expuestos al factor de riesgo el mismo tiempo. Pero si el sujeto _i_ está expuesto al riesgo durante $latex t_i$ periodos, la probabilidad de que **no** le ocurra cierta calamidad es $latex p_i^{t_i}$.
+Supongamos también, y esta es la novedad, que no todos los sujetos están expuestos al factor de riesgo el mismo tiempo. Pero si el sujeto _i_ está expuesto al riesgo durante $t_i$ periodos, la probabilidad de que **no** le ocurra cierta calamidad es $p_i^{t_i}$.
 
 Planteemos el problema en R:
 

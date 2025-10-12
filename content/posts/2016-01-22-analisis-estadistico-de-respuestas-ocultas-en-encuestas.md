@@ -25,7 +25,7 @@ A veces se hacen encuestas sobre temas sobre los que los encuestados son reticen
 * Se le invita al encuestado a tirar al aire una _moneda_ con las caras etiquetadas con _sí_ y _no_; la _moneda_ no es una moneda porque tiene una probabidad conocida (y distinta del 50%) de caer en _sí_.
 * El encuestado responde sí si la respuesta a la pregunta y el resultado de la tirada de la moneda coinciden y no en caso contrario.
 
-A partir de la proporción de respuestas positivas y conocida la probabilidad del _sí_ de la moneda, $latex q$, es posible estimar la proporción $latex \theta$ de respuestas positivas a la pregunta de subyacente de interés en la muestra. Efectivamente, los síes tienen una distribución binomial $latex B(p) = B(q\theta + (1-q)(1-\theta))$ y, una vez estimado (por máxima verosimilitud) $latex \hat{p}$, puede despejarse $latex \hat{p}$ de $latex \hat{p} = q\hat{\theta} + (1-q)(1-\hat{\theta})$ para obtener
+A partir de la proporción de respuestas positivas y conocida la probabilidad del _sí_ de la moneda, $q$, es posible estimar la proporción $\theta$ de respuestas positivas a la pregunta de subyacente de interés en la muestra. Efectivamente, los síes tienen una distribución binomial $B(p) = B(q\theta + (1-q)(1-\theta))$ y, una vez estimado (por máxima verosimilitud) $\hat{p}$, puede despejarse $\hat{p}$ de $\hat{p} = q\hat{\theta} + (1-q)(1-\hat{\theta})$ para obtener
 
 $$ \hat{\theta} = \frac{1 - q - \hat{p}}{1 - 2q}.$$
 
@@ -46,7 +46,7 @@ get.theta(mean(results), coin.par)
 
 Y todo es estupendo.
 
-¿Y si queremos intervalos de confianza, etc., del parámetro estimado? Podemos muestrear una $latex B(\hat{p})$ y ver cuál sería la distribución resultante de $latex \theta$:
+¿Y si queremos intervalos de confianza, etc., del parámetro estimado? Podemos muestrear una $B(\hat{p})$ y ver cuál sería la distribución resultante de $\theta$:
 
 {{< highlight R >}}
 muestras <- replicate(1000,
@@ -60,8 +60,8 @@ hist(muestras)
 Pero el procedimiento anterior tiene algunos caveats:
 
 * La función `get.theta` es algo inestable: nada garantiza siquiera que dé valores positivos; de hecho, en algunas pruebas, me ha dado valores negativos en algunas ocasiones.
-* Ni siquiera yo entiendo demasiado bien por qué, a la hora de hacer simulaciones, muestreo $latex B(\hat{p})$: ¿por qué $latex \hat{p}$ y no otro valor? Porque sé que la estimación de $latex \hat{p}$ está sujeta a error, etc.
-* Hay gente que no sabría despejar $latex \hat{\theta}$
+* Ni siquiera yo entiendo demasiado bien por qué, a la hora de hacer simulaciones, muestreo $B(\hat{p})$: ¿por qué $\hat{p}$ y no otro valor? Porque sé que la estimación de $\hat{p}$ está sujeta a error, etc.
+* Hay gente que no sabría despejar $\hat{\theta}$
 
 Afortunadamente, existe un procedimiento alternativo:
 
@@ -104,4 +104,4 @@ Que genera
 [![parametro_oculto_encuestas](/wp-uploads/2016/01/parametro_oculto_encuestas.png#center)
 ](/wp-uploads/2016/01/parametro_oculto_encuestas.png#center)
 
-sin mayores complicaciones (ni teóricas ni prácticas). Además, como ventaja adicional, uno siempre puede incluir la información previamente conocida sobre la distribución de $latex \theta$ en el lugar correspondiente en el código anterior.
+sin mayores complicaciones (ni teóricas ni prácticas). Además, como ventaja adicional, uno siempre puede incluir la información previamente conocida sobre la distribución de $\theta$ en el lugar correspondiente en el código anterior.

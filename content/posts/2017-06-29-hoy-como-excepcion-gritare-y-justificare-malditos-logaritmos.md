@@ -25,11 +25,11 @@ Dados unos números positivos hay que justificar por que **no** tomar logaritmos
 
 No obstante:
 
-Tenía unos datos (para cada $latex t$) que siguen (me lo juran) un modelo teórico
+Tenía unos datos (para cada $t$) que siguen (me lo juran) un modelo teórico
 
 $$ \log y \sim k \exp(-at)$$
 
-Existen dos opciones para encontrar los parámetros deseados $latex k$ y $latex a$. El primero, tomando logaritmos y aplicando `lm`. El segundo, ajustando un modelo no lineal con, p.e., `nls`.
+Existen dos opciones para encontrar los parámetros deseados $k$ y $a$. El primero, tomando logaritmos y aplicando `lm`. El segundo, ajustando un modelo no lineal con, p.e., `nls`.
 
 ¿La diferencia? Inapreciable a poco razonables que sean los datos y el modelo.
 
@@ -41,6 +41,6 @@ y en el otro, la de los valores
 
 $$ y_i - k \exp(-a t_i).$$
 
-Con el segundo planteamiento se tiende, por tanto, a ajustar mejor en la zona en la que los valores $latex y_i$ son grandes. Podría decirse que uno tiene en cuenta los errores absolutos y el otro, los relativos.
+Con el segundo planteamiento se tiende, por tanto, a ajustar mejor en la zona en la que los valores $y_i$ son grandes. Podría decirse que uno tiene en cuenta los errores absolutos y el otro, los relativos.
 
 ¿Qué es mejor? Depende. Casi siempre (reléase el primer párrafo) el modelo lineal. Pero hoy me ha tocado tragarme mi propio logaritmo.

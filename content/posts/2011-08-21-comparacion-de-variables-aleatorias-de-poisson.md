@@ -37,7 +37,7 @@ Vamos a revisar este problema desde dos puntos de vista distintos: el del impaci
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ) )`, que contrasta la hipótesis de que los ratios de tarjetas obtenidos, 196 / 48 y 40 / 24 sean iguales.
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ), r = 2 )` que contrasta la hipótesis de que el ratio _verdadero entre las tarjetas entre hombres y mujeres sea de 2 cuando se han obtenido ratios de 196 / 48 y 40 / 24 para unas y otras.
 
-Para los dos últimos constrastes, poisson.test utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $latex \lambda$ $latex r \lambda$ y que en $latex p_1$ y $latex p_2$ muestras independientes de cada una de ellas ($latex p$ significa número de partidos en nuestro contexto) se han obtenido un total de $latex x_1$ y $latex x_2$ casos (tarjetas). Entonces
+Para los dos últimos constrastes, poisson.test utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $\lambda$ $r \lambda$ y que en $p_1$ y $p_2$ muestras independientes de cada una de ellas ($p$ significa número de partidos en nuestro contexto) se han obtenido un total de $x_1$ y $x_2$ casos (tarjetas). Entonces
 
 
 $$ P_\lambda( x_1, x_2 ) = \exp(-p_1 \lambda ) \frac{ (p_1 \lambda)^{x_1} }{ x_1! } \exp(-p_2 r \lambda ) \frac{ (p_2 r \lambda)^{x_2} }{ x_2! } = $$
@@ -50,7 +50,7 @@ expresión que puede partirse en dos. Por un lado,
 $$ \exp ({ -(p_1 + rp_2 ) \lambda})  \frac{ ( (p_1 + r p_2 )\lambda)^{x_1 + x_2} }{ ( x_1 + x_2)! },$$
 
 
-que es la probabilidad de que el número total de tarjetas sume x_1 + x_2, que sigue una distribución de Poisson con parámetro $latex (p_1 + r p_2 )\lambda$.
+que es la probabilidad de que el número total de tarjetas sume x_1 + x_2, que sigue una distribución de Poisson con parámetro $(p_1 + r p_2 )\lambda$.
 
 Por el otro, se tiene
 
@@ -58,8 +58,8 @@ Por el otro, se tiene
 $$ \frac{ ( x_1 + x_2 )! }{ x_1! x_2! } \left( \frac{ p_1}{ p_1 + r p_2 } \right)^{x_1} \left( \frac{ rp_2}{ p_1 + r p_2 } \right)^{x_2}$$
 
 
-que es la probabilidad de $latex x_1$ éxitos en $latex x_1 + x_2$ intentos bajo una ley binomial con probabilidad $latex p_1 / (p_1 + r p_2 )$ y que coincide con la probabilidad condicionada $latex P_\lambda( x_1, x_2 | x_1 + x_2 )$, que no depende de $latex \lambda$ y permite ver hasta qué punto valores desiguales de $latex x_1$ y $latex x_2$ pueden o no ser indicio de lo razonable de la hipótesis de partida acerca del valor de $latex r$. De hecho, internamente, la función `poisson.test` utiliza `binom.test` en tales casos.
+que es la probabilidad de $x_1$ éxitos en $x_1 + x_2$ intentos bajo una ley binomial con probabilidad $p_1 / (p_1 + r p_2 )$ y que coincide con la probabilidad condicionada $P_\lambda( x_1, x_2 | x_1 + x_2 )$, que no depende de $\lambda$ y permite ver hasta qué punto valores desiguales de $x_1$ y $x_2$ pueden o no ser indicio de lo razonable de la hipótesis de partida acerca del valor de $r$. De hecho, internamente, la función `poisson.test` utiliza `binom.test` en tales casos.
 
-El tener que condicionar por valor de $latex x_1 + x_2$ para eliminar la dependencia con respecto a $latex \lambda$ es equivalente a restringir el parámetro a su valor más verosímil. Supongo que a los bayesianos les irrita esta manera de proceder y tienen sus propias [alternativas](http://stats.stackexchange.com/questions/10766/two-poisson-random-variables-and-likelihood-ratio-test).
+El tener que condicionar por valor de $x_1 + x_2$ para eliminar la dependencia con respecto a $\lambda$ es equivalente a restringir el parámetro a su valor más verosímil. Supongo que a los bayesianos les irrita esta manera de proceder y tienen sus propias [alternativas](http://stats.stackexchange.com/questions/10766/two-poisson-random-variables-and-likelihood-ratio-test).
 
 Acabo la discusión indicando que existen [otros procedimientos para afrontar este tipo de problemas](http://sankhya.isical.ac.in/search/64a3/64a3037.pdf).

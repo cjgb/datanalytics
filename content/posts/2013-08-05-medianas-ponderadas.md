@@ -52,4 +52,4 @@ library(quantreg)
 rq(x ~ 1, tau = 0.5, weights=pesos)$coef
 {{< / highlight >}}
 
-Y una coda matemática: es sabido de muchos que la mediana de $latex x_1,\dots, x_n$ es el valor que minimiza la función $latex f(u) = \sum |x_i|$. La media ponderada minimizarla la función alternativa $latex f(u) = \sum p_i |x_i|$ y la función `rq` de `quantreg` minimiza [una función algo más complicada que esa](http://en.wikipedia.org/wiki/Quantile_regression#Quantiles) que se reduce esencialmente a ella cuando `tau = 0.5`.
+Y una coda matemática: es sabido de muchos que la mediana de $x_1,\dots, x_n$ es el valor que minimiza la función $f(u) = \sum |x_i|$. La media ponderada minimizarla la función alternativa $f(u) = \sum p_i |x_i|$ y la función `rq` de `quantreg` minimiza [una función algo más complicada que esa](http://en.wikipedia.org/wiki/Quantile_regression#Quantiles) que se reduce esencialmente a ella cuando `tau = 0.5`.

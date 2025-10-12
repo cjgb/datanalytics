@@ -28,7 +28,7 @@ que son resúmenes de datos en los que aparecen no solo intervalos sino también
 
 Si uno quiere hacer cosas con esos datos tiene una vía que consiste en muestrear el _histograma_. Pero la media en cada intervalo será su punto central, no necesariamente su valor medio conocido.
 
-Por simplificar, supongamos que tenemos datos en el intervalo [0, 1] cuya media es $latex \mu$. ¿Cómo obtener un muestreo razonable de valores en dicho intervalo?
+Por simplificar, supongamos que tenemos datos en el intervalo [0, 1] cuya media es $\mu$. ¿Cómo obtener un muestreo razonable de valores en dicho intervalo?
 
 El primer ensayo podría ser muestrear una distribución trapezoidal, i.e.,
 

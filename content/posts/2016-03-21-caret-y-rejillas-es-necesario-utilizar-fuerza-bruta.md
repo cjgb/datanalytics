@@ -33,7 +33,7 @@ gbmGrid <-  expand.grid(interaction.depth = c(1, 5, 9),
 
 y `caret` se encarga de ajustar el modelo bajo todas esas combinaciones de parámetros (90 en el ejemplo) para ver cuál de ellas es, con las debidas salvedades, óptima.
 
-Jorge Ayuso me planteó la siguiente pregunta: ¿cabría, en lugar de recorrer todas las combinaciones, utilizar un algoritmo de optimización que encontrase un óptimo en el espacio 4-dimensional de parámetros? En principio, la idea es sugerente, aunque está sujeta a dos consideraciones. La primera, pesimista, que el error que se quiere minimizar está sujeto a error. No es un valor fijo como cuando uno quiere maximizar $latex f(x)=x^2$. De hecho, la salida de `caret` es de la forma
+Jorge Ayuso me planteó la siguiente pregunta: ¿cabría, en lugar de recorrer todas las combinaciones, utilizar un algoritmo de optimización que encontrase un óptimo en el espacio 4-dimensional de parámetros? En principio, la idea es sugerente, aunque está sujeta a dos consideraciones. La primera, pesimista, que el error que se quiere minimizar está sujeto a error. No es un valor fijo como cuando uno quiere maximizar $f(x)=x^2$. De hecho, la salida de `caret` es de la forma
 
 {{< highlight R >}}
 interaction.depth  n.trees  Accuracy   Kappa      Accuracy SD  Kappa SD

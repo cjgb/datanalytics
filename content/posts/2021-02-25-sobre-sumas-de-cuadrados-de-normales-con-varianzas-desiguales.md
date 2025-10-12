@@ -22,9 +22,9 @@ title: Sobre sumas de cuadrados de normales con varianzas desiguales
 url: /2021/02/25/sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales/
 ---
 
-En mi entrada anterior mencioné cómo la suma de cuadrados de normales, aun cuando tengan varianzas desiguales, sigue siendo aproximadamente $latex \chi^2$. Es el resultado que subyace, por ejemplo, a la aproximación de Welch que usa R por defecto en `t.test`. Puede verse una discusión teórica sobre el asunto así como enlaces a la literatura relevante [aquí](https://statisticaloddsandends.wordpress.com/2020/07/03/welchs-t-test-and-the-welch-satterthwaite-equation/).
+En mi entrada anterior mencioné cómo la suma de cuadrados de normales, aun cuando tengan varianzas desiguales, sigue siendo aproximadamente $\chi^2$. Es el resultado que subyace, por ejemplo, a la aproximación de Welch que usa R por defecto en `t.test`. Puede verse una discusión teórica sobre el asunto así como enlaces a la literatura relevante [aquí](https://statisticaloddsandends.wordpress.com/2020/07/03/welchs-t-test-and-the-welch-satterthwaite-equation/).
 
-Esta entrada es un complemento a la anterior que tiene lo que a la otra le faltan: gráficos. Al fin y al cabo, es un resultado que se prueba _a ojo_: efectivamente, la suma de [...] tiene aspecto de $latex \chi^2$, determinemos su parámetro.
+Esta entrada es un complemento a la anterior que tiene lo que a la otra le faltan: gráficos. Al fin y al cabo, es un resultado que se prueba _a ojo_: efectivamente, la suma de [...] tiene aspecto de $\chi^2$, determinemos su parámetro.
 
 La entrada tiene tres partes en la que se examinará tres casos de creciente grado de generalidad: el teórico/conocido, aquel en el que las varianzas son iguales aunque distintas de 1 y,  finalmente, el general de varianzas desiguales.
 
@@ -49,11 +49,11 @@ que produce
 
 ![](/wp-uploads/2021/02/chi2_01.png#center)
 
-El código genera `n` variables aleatorias normales estándar, las eleva al cuadrado, las suma, construye su histograma y lo compara con la densidad de la $latex \chi^2$ de `n` grados de libertad.
+El código genera `n` variables aleatorias normales estándar, las eleva al cuadrado, las suma, construye su histograma y lo compara con la densidad de la $\chi^2$ de `n` grados de libertad.
 
 **II.**
 
-El caso de varianzas distintas se reduce al anterior dividiendo la muestra por dicha varianza. Eso sí, hay que tener en cuenta que no es la suma de los cuadrados la que tiene distribución $latex \chi^2$ sino esta dividida por la varianza de cada una de las normales (o su varianza media, como se verá luego):
+El caso de varianzas distintas se reduce al anterior dividiendo la muestra por dicha varianza. Eso sí, hay que tener en cuenta que no es la suma de los cuadrados la que tiene distribución $\chi^2$ sino esta dividida por la varianza de cada una de las normales (o su varianza media, como se verá luego):
 
 {{< highlight R >}}
 n <- 10
@@ -107,7 +107,7 @@ Obviamente, el soporte de ese histograma va a depender críticamente de la varia
 muestra <- muestra / mean(sds^2)
 {{< / highlight >}}
 
-de manera que el resultado sigue pareciendo a ojo $latex \chi^2$. Pero, ¿con qué parámetro? Los enlaces con los que se abría esta entrada sugieren utilizar el método de los momentos, que equivaldría a tomar un número de grados de libertad igual la media de `muestra`.
+de manera que el resultado sigue pareciendo a ojo $\chi^2$. Pero, ¿con qué parámetro? Los enlaces con los que se abría esta entrada sugieren utilizar el método de los momentos, que equivaldría a tomar un número de grados de libertad igual la media de `muestra`.
 
 Pero en este blog somos gente de orden y la programación no nos es ajena. Por eso vamos a tratar de maximizar la verosimilitud:
 

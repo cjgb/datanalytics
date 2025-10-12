@@ -39,11 +39,11 @@ o bien,
 
 $$ y_i = \mu(x_i) + \epsilon$$
 
-donde $latex \epsilon$ se ajusta a la especificaión previa. Si conocemos $latex \mu$, podremos hacer predicciones para nuevos valores $latex x$.
+donde $\epsilon$ se ajusta a la especificaión previa. Si conocemos $\mu$, podremos hacer predicciones para nuevos valores $x$.
 
 Aquí las observaciones son independientes. Pero en nuestro problema observamos medidas en determinados puntos (en un terreno (2D), en una línea (1D), etc.) y _sabemos_ que existe cierta regularidad: los puntos próximos están correlacionados entre sí.
 
-El objetivo del _kriging_ es poder realizar estimaciones en puntos no observados utilizando no solo nuestro conocimiento de $latex \mu$, sino también aquello que nos aporten los puntos $latex x$ conocidos próximos al que nos interesa.
+El objetivo del _kriging_ es poder realizar estimaciones en puntos no observados utilizando no solo nuestro conocimiento de $\mu$, sino también aquello que nos aporten los puntos $x$ conocidos próximos al que nos interesa.
 
 Por concretar, dados los valores
 
@@ -51,15 +51,15 @@ Por concretar, dados los valores
 
 podríamos querer obtener estimaciones de la función subyacente en alguno intermedio. O en una rejilla determinada. Sí, como si usásemos _loess_ o similar. Pero, en nuestro caso, usando el siguiente modelo:
 
-$latex Y | X \,\, \sim \,\, N(\mu, \Sigma)$
+$Y | X \,\, \sim \,\, N(\mu, \Sigma)$
 
-donde $latex \mu$ es un vector de medias y $latex \Sigma$ es una matriz de covarianzas en la que $latex \Sigma_{ij}$ es una función decreciente de la distancia entre $latex x_i$ y $latex x_j$.
+donde $\mu$ es un vector de medias y $\Sigma$ es una matriz de covarianzas en la que $\Sigma_{ij}$ es una función decreciente de la distancia entre $x_i$ y $x_j$.
 
 Al modelo básico se le pueden añadir cascabeles variados:
 
-* Sumarle a $latex \Sigma$ una matriz diagonal que recoja el error de medición.
-* Variables independientes y sus coeficientes en la determinación de la media $latex \mu$.
-* Funciones de enlace para que $Y$ sea no el valor deseado sino $latex \log(\lambda)$ en un modelo de Poisson o la _invlogis_ de una probabilidad.
+* Sumarle a $\Sigma$ una matriz diagonal que recoja el error de medición.
+* Variables independientes y sus coeficientes en la determinación de la media $\mu$.
+* Funciones de enlace para que $Y$ sea no el valor deseado sino $\log(\lambda)$ en un modelo de Poisson o la _invlogis_ de una probabilidad.
 
 En nuestro caso, se puede estimar la función subyacente en una rejilla,
 
@@ -171,6 +171,6 @@ y ~ multi_normal_cholesky(means, L);
 }
 {{< / highlight >}}
 
-En el código anterior $latex \Sigma$ es una matriz que tiene valores $latex \sigma^2 + r^2$ en la diagonal ($latex r$ es la desviación estándar del ruido de observación) y $latex \sigma^2 \exp(-\phi d_{ij}^{1.5})$ fuera de ella.
+En el código anterior $\Sigma$ es una matriz que tiene valores $\sigma^2 + r^2$ en la diagonal ($r$ es la desviación estándar del ruido de observación) y $\sigma^2 \exp(-\phi d_{ij}^{1.5})$ fuera de ella.
 
 Así que, en resumen, el _kriging_ es conceptualmente sencillo y computacionalmente asequible. Y si te interesan estas y más cosas y a primeros de julio estás por Barcelona con tu portátil, planteáte aprender y practicar estas cosas por las mañanicas de una semana.

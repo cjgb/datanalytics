@@ -25,7 +25,7 @@ Si se capturan `k`, la distribución del máximo número observado, `m`, en func
 
 $$ f(N;m,k)=\frac{\binom{m-1}{k-1}}{\binom{N}{k}}$$
 
-y como esta función es decreciente en $latex N$, la estimación por máxima verosimilitud es $latex \hat{N} = m$.
+y como esta función es decreciente en $N$, la estimación por máxima verosimilitud es $\hat{N} = m$.
 
 [![probs_tanques_alemanes](/wp-uploads/2016/01/probs_tanques_alemanes.png#center)
 ](/wp-uploads/2016/01/probs_tanques_alemanes.png#center)

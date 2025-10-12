@@ -50,4 +50,4 @@ exp(coefficients(res))
 #3  2
 {{< / highlight >}}
 
-De lo que no quería hablar es de algo bastante manido: plantear algún tipo de modelo `y ~ x1 + x2 + ...`, donde `x1,...` son atributos de los sujetos, aleatorizando o sin aleatorizar por `ids`. A donde quería llegar es a que tal vez $latex N(\lambda)$, un proceso de Poisson homogéneo no sea el mejor modelo y no recoja aspectos importantes del proceso puntual subyacente (véase [esto](https://datanalytics.com/2014/08/11/procesos-puntuales-una-primera-aproximacion/) y [esto](https://datanalytics.com/2014/08/13/mis-procesos-puntuales-con-glm/)).
+De lo que no quería hablar es de algo bastante manido: plantear algún tipo de modelo `y ~ x1 + x2 + ...`, donde `x1,...` son atributos de los sujetos, aleatorizando o sin aleatorizar por `ids`. A donde quería llegar es a que tal vez $N(\lambda)$, un proceso de Poisson homogéneo no sea el mejor modelo y no recoja aspectos importantes del proceso puntual subyacente (véase [esto](https://datanalytics.com/2014/08/11/procesos-puntuales-una-primera-aproximacion/) y [esto](https://datanalytics.com/2014/08/13/mis-procesos-puntuales-con-glm/)).

@@ -25,7 +25,7 @@ El problema fue sugerido por Eloy Ortiz en [un mensaje a r-help-es](https://stat
 
 Obviamente, no vale con muestrear latitud y longitud uniformemente: el área comprendida entre dos meridianos cerca del ecuador es mayor que la comprendida entre otros dos más próximos al polo. Los husos se estrechan lejos del ecuador.
 
-Sin embargo, la superficie de una [zona esférica ](http://es.wikipedia.org/wiki/Zona_esf%C3%A9rica) depende solo de h (su grosor, en la nomenclatura del enlace anterior) y no de la latitud en la que se ubique y es $latex A = 2 \pi R h.$
+Sin embargo, la superficie de una [zona esférica ](http://es.wikipedia.org/wiki/Zona_esf%C3%A9rica) depende solo de h (su grosor, en la nomenclatura del enlace anterior) y no de la latitud en la que se ubique y es $A = 2 \pi R h.$
 
 [![](/wp-uploads/2013/12/area_esferica-300x201.png#center)
 ](/wp-uploads/2013/12/area_esferica.png#center)

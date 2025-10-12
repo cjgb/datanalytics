@@ -36,9 +36,9 @@ En realidad, mi entrada trata de una configuración de cuadrados solo marginalme
 
 Todo el mundo podría decir (y es cierto) que el área de la intersección de los cuadrados es el 3.3% de la del mayor y el 16.5% de la del menor. Son dos afirmaciones ambas ciertas y, por supuesto, compatibles.
 
-Escrito de otra manera, es perfectamente posible que $latex P(A|B)=0.033$ y que $latex P(B|A)=0.165$.
+Escrito de otra manera, es perfectamente posible que $P(A|B)=0.033$ y que $P(B|A)=0.165$.
 
-Sin embargo, hay quienes parecen confundir $latex P(A|B)$ y $latex P(B|A)$. Verbigracia,
+Sin embargo, hay quienes parecen confundir $P(A|B)$ y $P(B|A)$. Verbigracia,
 
 [![podemos_pp](/wp-uploads/2014/11/podemos_pp.png#center)
 ](/wp-uploads/2014/11/podemos_pp.png#center)

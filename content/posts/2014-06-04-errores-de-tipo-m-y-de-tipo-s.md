@@ -23,9 +23,9 @@ A los estadísticos se nos acusa en ocasiones de [contestar preguntas tontas en 
 
 (Nota: de alguna manera conseguí el artículo al que se refiere el enlace anterior; pero ahora no veo que exista ninguna copia libre por ahí. Si alguien la consigue, por el bien del resto de los lectores, que me avise o que lo haga saber en los comentarios).
 
-A lo que iba. Muchos estadísticos tienen el cerebro reprogramado para tratar de no cometer los llamados errores de tipo I y errores de tipo II (y para ello tratan de estimar una cosa de dudosa utilidad, $latex P(D|H)$, donde $latex D$ son los datos y $latex H$ es cierta hipótesis (que, generalmente, a nadie interesa y que es más difícil de plantear correctamente de lo que parecería).
+A lo que iba. Muchos estadísticos tienen el cerebro reprogramado para tratar de no cometer los llamados errores de tipo I y errores de tipo II (y para ello tratan de estimar una cosa de dudosa utilidad, $P(D|H)$, donde $D$ son los datos y $H$ es cierta hipótesis (que, generalmente, a nadie interesa y que es más difícil de plantear correctamente de lo que parecería).
 
-Este problema es particularmente serio cuando el tamaño de $latex D$ es tan grande que $latex P(D|H)$ es prácticamente cero _independientemente_ de $latex H$. Este tal vez sea el problema más serio de la inferencia en el mundo del _big data_.
+Este problema es particularmente serio cuando el tamaño de $D$ es tan grande que $P(D|H)$ es prácticamente cero _independientemente_ de $H$. Este tal vez sea el problema más serio de la inferencia en el mundo del _big data_.
 
 Creo que pensar en términos de [errores de tipo S y errores de tipo M](http://andrewgelman.com/2004/12/29/type_1_type_2_t/) nos podría ayudar a satisfacer mejor las necesidades de quienes vienen a nosotros con preguntas. Lo que son ambos, lo dice el enlace anterior. Pero para los impacientes,
 

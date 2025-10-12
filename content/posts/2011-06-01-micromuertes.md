@@ -20,7 +20,7 @@ url: /2011/06/01/micromuertes/
 
 En 2008 (último año publicado), en España, según el INE, 16.000 personas perfectamente sanas se levantaron una mañana como si tal y por la noche estaban en el tanatorio metidas en una caja de pino rodeadas de sollozantes deudos.
 
-Dividamos 16.000 por 365. Obtenemos 44. Como en España la población anda en torno de los 45 millones de personas, eso significa que cada día, uno de cada millón palmó inopinadamente. En el 2008, cada español, cada mañana tiró una moneda al aire 20 veces y quien obtuvo 20 cruces no volvió a ver el amanecer (supongo que es obvio que $latex 2^{20} \approx 1.000.000$, ¿verdad?).
+Dividamos 16.000 por 365. Obtenemos 44. Como en España la población anda en torno de los 45 millones de personas, eso significa que cada día, uno de cada millón palmó inopinadamente. En el 2008, cada español, cada mañana tiró una moneda al aire 20 veces y quien obtuvo 20 cruces no volvió a ver el amanecer (supongo que es obvio que $2^{20} \approx 1.000.000$, ¿verdad?).
 
 Lo curioso de esta relación tan simple no es peculiar de España ni de ese año: es más o menos la proporción de gente que fallece por causas accidentales al día en muchos países avanzados. De ahí que se haya acuñado el término [micromuerte](http://es.wikipedia.org/wiki/Micromuerte).
 

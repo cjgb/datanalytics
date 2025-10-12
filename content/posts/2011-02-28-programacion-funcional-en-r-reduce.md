@@ -31,7 +31,7 @@ mientras que reduce consiste en (algo parecido a)
 $$(f(v_1), \dots, f(v_n))  \longmapsto F(f(v_1), \dots, f(v_n)),$$
 
 
-que devuelve un único valor a partir del vector transformado. Dado un vector $latex v=(v_1, \dots, v_n)$ y una función $latex f$, sabemos cómo construir $latex (f(), \dots, f())$ y $latex (f(v_1), \dots, f(v_n))$ usando las funciones replicate() y sapply(). Lo que permite Reduce() es hacer
+que devuelve un único valor a partir del vector transformado. Dado un vector $v=(v_1, \dots, v_n)$ y una función $f$, sabemos cómo construir $(f(), \dots, f())$ y $(f(v_1), \dots, f(v_n))$ usando las funciones replicate() y sapply(). Lo que permite Reduce() es hacer
 
 
 $$f(f(\dots f(f(v_1, v_2), v_3), \dots), v_n)$$

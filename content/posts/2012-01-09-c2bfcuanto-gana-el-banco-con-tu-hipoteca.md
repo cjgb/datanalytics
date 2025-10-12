@@ -26,7 +26,7 @@ Imaginemos una hipoteca de 100k euros a 25 años referenciada al euribor (2%) y 
 
 Pero —cosa que nunca nos enseñaron a los matemáticos— dinero de hoy no puede sumarse con dinero de mañana. Son peras y manzanas. Cinco euros _mañana_ no son cinco euros en la _mano_. Los cinco euros de mañana —por muchos motivos: por la inflación, porque quien me los tiene que entregar a lo peor se olvida, porque los necesito _ya_, etc.— valen menos que los cinco que tengo. Digamos que el valor de cinco euros mañana son, por ejemplo, 4.98 euros hoy porque me veo obligado a aplicarles un _descuento_.
 
-Los contables, cuando tienen que sumar cantidades en fechas distintas, utilizan el descuento de todas ellas a día de hoy —conocido como [valor presente neto](http://es.wikipedia.org/wiki/Valor_actual_neto)— para agregarlas. El descuento que aplican viene determinado por los tipos de interés: 5 euros en 3 meses valen $latex 5/(1+r)^3$ hoy, donde $latex r$ es el tipo de interés mensual.
+Los contables, cuando tienen que sumar cantidades en fechas distintas, utilizan el descuento de todas ellas a día de hoy —conocido como [valor presente neto](http://es.wikipedia.org/wiki/Valor_actual_neto)— para agregarlas. El descuento que aplican viene determinado por los tipos de interés: 5 euros en 3 meses valen $5/(1+r)^3$ hoy, donde $r$ es el tipo de interés mensual.
 
 Para calcular el valor de la hipoteca, se descuentan los pagos por la tasa mensual, que en nuestro caso es de `3 / 12 = 0.25 %` y se agregan de la siguiente forma:
 

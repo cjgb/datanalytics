@@ -34,12 +34,12 @@ Sin embargo, preparando el material, vine a tropezar con una reformulación del 
 
 $$ \min \sum_1^N L(y_i, f(x_i)) + \frac{\lambda}{2} \|\beta\|^2,$$
 
-donde $latex f(x) = h(x) \beta + \beta_0$, se obtiene
+donde $f(x) = h(x) \beta + \beta_0$, se obtiene
 
-* la regresión logística (penalizada) si $latex L(y, x) = \log(1 + \exp(-yf(x))$ y
-* SVM cuando $latex L(y, x) = [1 - yf(x)]_+$ (donde $latex [x]_+$ representa la parte positiva de $latex x$).
+* la regresión logística (penalizada) si $L(y, x) = \log(1 + \exp(-yf(x))$ y
+* SVM cuando $L(y, x) = [1 - yf(x)]_+$ (donde $[x]_+$ representa la parte positiva de $x$).
 
-Resumiendo, en el fondo, estamos haciendo, casi, regresión logística (con o sin _kernels_, dependiendo de $latex h$) dado que las dos funciones de pérdida son, geométricamente, bastante parecidas:
+Resumiendo, en el fondo, estamos haciendo, casi, regresión logística (con o sin _kernels_, dependiendo de $h$) dado que las dos funciones de pérdida son, geométricamente, bastante parecidas:
 
 ![](/wp-uploads/2017/09/hinge_loss.png#center)
 

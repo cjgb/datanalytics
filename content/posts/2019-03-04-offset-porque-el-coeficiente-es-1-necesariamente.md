@@ -21,7 +21,7 @@ title: offset, porque el coeficiente es 1 necesariamente
 url: /2019/03/04/offset-porque-el-coeficiente-es-1-necesariamente/
 ---
 
-Estos días me han preguntado sobre un modelo lineal tal que $latex y \sim x_1 + \dots$ donde el coeficiente de $latex x_1$ no se entiende si no es igual a 1. Es como si los datos se creasen de la forma
+Estos días me han preguntado sobre un modelo lineal tal que $y \sim x_1 + \dots$ donde el coeficiente de $x_1$ no se entiende si no es igual a 1. Es como si los datos se creasen de la forma
 
 {{< highlight R >}}
 n <- 100
@@ -30,7 +30,7 @@ x2 <- rnorm(n)
 y <- x1 + rnorm(n, .1) + .02 * x2
 {{< / highlight >}}
 
-y se conociese el coeficiente de $latex x_1$ y no el de $latex x_2$. Entonces no tiene sentido plantear el modelo
+y se conociese el coeficiente de $x_1$ y no el de $x_2$. Entonces no tiene sentido plantear el modelo
 
 {{< highlight R >}}
 lm(y ~ x1 + x2)

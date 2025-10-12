@@ -38,7 +38,7 @@ Dos ideas me vienen a la cabeza. Una es [esta](https://datanalytics.com/2011/05/
 
 La otra cosa que me viene a la mente es un pequeño librito que guardo por casa: _Inequalities for Stochastic Processes_, de Dubin y Savage. Sabréis que la gente opina de los libros que no lee por el título y con este hago yo algo parecido: opinar por el subtítulo, _How to Gamble If You Must_.
 
-Su quinto capítulo, _Red-and-Black_, discute y prueba que bajo funciones de utilidad razonables y con juegos del tipo doble o nada (y con una esperanza de beneficios inferior a la apuesta) la estrategia óptima es la del todo-a-una. La única manera de que la ley de los grandes números no te condene inexorablemente a la ruina es mantenerse al margen de sus hipótesis de partida. Si aquella exige $latex n \rightarrow \infty$, mantén $latex n=1$. Olvídate de la centralidad (mídase en medias o medianas) y juégale a la varianza.
+Su quinto capítulo, _Red-and-Black_, discute y prueba que bajo funciones de utilidad razonables y con juegos del tipo doble o nada (y con una esperanza de beneficios inferior a la apuesta) la estrategia óptima es la del todo-a-una. La única manera de que la ley de los grandes números no te condene inexorablemente a la ruina es mantenerse al margen de sus hipótesis de partida. Si aquella exige $n \rightarrow \infty$, mantén $n=1$. Olvídate de la centralidad (mídase en medias o medianas) y juégale a la varianza.
 
 El problema de la cartera de inversión ficticia no es exactamente un _red-and-black_. De hecho, no es ni parecido:
 

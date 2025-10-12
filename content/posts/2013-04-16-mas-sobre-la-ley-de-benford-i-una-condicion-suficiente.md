@@ -41,10 +41,10 @@ o bien
 
 $$ P\left( \log_{10} 3 \le \text{parte.decimal} < \log_{10} 4 \right),$$
 
-que no es otra cosa que $latex log_{10} 4- log_{10} 3$, el valor que corresponde a la [definición estándar de la ley en cuestión](http://es.wikipedia.org/wiki/Ley_de_Benford).
+que no es otra cosa que $log_{10} 4- log_{10} 3$, el valor que corresponde a la [definición estándar de la ley en cuestión](http://es.wikipedia.org/wiki/Ley_de_Benford).
 
 Así que, en resumen:
 
->Una condición suficiente para que se verifique la Ley de Benford para una serie de valores $latex x_1, \dots, x_n$ es que la parte decimal de los valores $latex \log_{10} x_i$ tenga una distribución uniforme sobre el intervalo (0,1).
+>Una condición suficiente para que se verifique la Ley de Benford para una serie de valores $x_1, \dots, x_n$ es que la parte decimal de los valores $\log_{10} x_i$ tenga una distribución uniforme sobre el intervalo (0,1).
 
 (Nota: estoy obviando los signos).

@@ -18,7 +18,7 @@ title: 60 generaciones
 url: /2014/07/28/60-generaciones/
 ---
 
-Tú eres un conjunto de cardinalidad 1. Tú y tus padres conformáis un conjunto de cardinalidad 3. Añade a tus abuelos y tendrás un conjunto de cardinalidad 7. Aplica la inducción y tendrás conjuntos de cardinalidad $latex 2^n -1$.
+Tú eres un conjunto de cardinalidad 1. Tú y tus padres conformáis un conjunto de cardinalidad 3. Añade a tus abuelos y tendrás un conjunto de cardinalidad 7. Aplica la inducción y tendrás conjuntos de cardinalidad $2^n -1$.
 
 Esto viene a cuenta de lo que me contó un colega el otro día: que en Corea tiene un libro en el que aparecen sus ancestros desde 54 generaciones atrás. Yo le pregunté cómo almacenaba esos 18014398509481983 nombres. A razón de 20 caracteres por nombre, eso son unos 350 millones de GB.
 

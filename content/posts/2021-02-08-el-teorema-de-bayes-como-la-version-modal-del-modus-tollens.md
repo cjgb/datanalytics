@@ -35,6 +35,6 @@ Como había alguien equivocado en internet, sonaron todas las alarmas que tengo 
 
 La pregunta es: siendo tan importante, ¿se puede decir solo que lo es? Y siéndolo, ¿qué es? Supongo que a estas alturas de la entrada ya sabéis la respuesta: lo dice su título. Es la versión no binaria (_modal_, para los _finorris_) del _[modus tollendo tollens](https://es.wikipedia.org/wiki/Modus_tollendo_tollens)_, tan viejo que hasta tiene nombre en latín.
 
-El modus tollens dice, esencialmente que de $latex A \Rightarrow B$ y $latex \neg B$, se sigue $latex \neg A$.
+El modus tollens dice, esencialmente que de $A \Rightarrow B$ y $\neg B$, se sigue $\neg A$.
 
 Es decir, que del conocimiento de la implicación extraemos información sobre la premisa. Que no es otra cosa que lo que viene a hacer el teorema de Bayes.

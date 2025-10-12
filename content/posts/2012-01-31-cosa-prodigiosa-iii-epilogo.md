@@ -30,9 +30,9 @@ Paulos cita a el trabajo del físico español [Juan Parrondo ](http://es.wikiped
 
 Y más allá de las referencias y las debidas gentilezas con respecto a mis fuentes, aprovecho de pasada para recordar a mis lectores el concepto de **supermartingala** y el que podría ser considerado su teorema más importante.
 
-Una martingala es un proceso aleatorio tal que $latex E(X_{n+1} | X_n) = X_n$. Y una supermartingala, uno en el que $latex E(X_{n+1} | X_n) \le X_n$.
+Una martingala es un proceso aleatorio tal que $E(X_{n+1} | X_n) = X_n$. Y una supermartingala, uno en el que $E(X_{n+1} | X_n) \le X_n$.
 
-¿Extraño? Supóngase que $latex X_n$ es la cantidad acumulada en el juego propuesto. La expresión $latex E(X_{n+1} | X_n)$ es el promedio de las posibles cantidades acumuladas tras jugar $latex n+1$ partidas habida cuenta del resultado de la n-ésima. Por ejemplo, si al cabo de 30 partidas has acumulado 12 euros, $latex (X_{31} | X_{30})$ puede ser 13 euros con probabilidad 0.49 u 11 con probabilidad 0.51 y, por lo tanto, $latex E(X_{31} | X_{30}) = 13 \times 0.49 + 11 \times 0.51 = 11.98 \le 12 = X_{30}$.
+¿Extraño? Supóngase que $X_n$ es la cantidad acumulada en el juego propuesto. La expresión $E(X_{n+1} | X_n)$ es el promedio de las posibles cantidades acumuladas tras jugar $n+1$ partidas habida cuenta del resultado de la n-ésima. Por ejemplo, si al cabo de 30 partidas has acumulado 12 euros, $(X_{31} | X_{30})$ puede ser 13 euros con probabilidad 0.49 u 11 con probabilidad 0.51 y, por lo tanto, $E(X_{31} | X_{30}) = 13 \times 0.49 + 11 \times 0.51 = 11.98 \le 12 = X_{30}$.
 
 De la discusión anterior se deduce que el primer juego es una supermartingala y, si se jugase con una moneda no sesgada, sería una martingala.
 
@@ -42,7 +42,7 @@ Una posible estrategia para vencer al casino sería jugar aleatoriamente a dos j
 
 ¿Y qué de nuestros juegos y, en particular, el tercero? ¿Cómo puede ser que una estrategia que consiste en alternar entre dos juegos perdedores (dos supermartingalas) nos permita vencer a la banca? ¿Fallan las matemáticas?
 
-Por supuesto que no. Y es porque el segundo juego no es una supermartingala: cuando n no es múltiplo de tres, no se cumple $latex E(X_{n+1} | X_n) \le X_n$.
+Por supuesto que no. Y es porque el segundo juego no es una supermartingala: cuando n no es múltiplo de tres, no se cumple $E(X_{n+1} | X_n) \le X_n$.
 
 El tercero de los juegos, como consecuencia, es uno de esos ejemplos en que se viola ligeramente las condiciones para que se cumpla el teorema para llegar a una conclusión opuesta a él.
 

@@ -19,7 +19,7 @@ title: 'Distancias (II): las distancias no son distancias'
 url: /2020/11/03/distancias-ii-las-distancias-no-son-distancias/
 ---
 
-Una distancia, [Wikipedia dixit](https://es.wikipedia.org/wiki/Distancia#Distancia_en_espacio_m%C3%A9trico), sobre un conjunto $latex X$ es una función $latex d$ definida sobre $latex X \times X$ que toma valores en los reales $latex \ge 0$ y que cumple:
+Una distancia, [Wikipedia dixit](https://es.wikipedia.org/wiki/Distancia#Distancia_en_espacio_m%C3%A9trico), sobre un conjunto $X$ es una función $d$ definida sobre $X \times X$ que toma valores en los reales $\ge 0$ y que cumple:
 
   1. $d(a,b) = 0 \iff a = b$
   2. $d(a,b) = d(b,a)$

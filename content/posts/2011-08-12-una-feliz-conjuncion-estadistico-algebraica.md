@@ -110,7 +110,7 @@ sum(b^2)
 {{< / highlight >}}
 
 
-coincide con el valor obtenido para el estadístico $latex \chi^2$ más arriba. En efecto, hemos construido a mano el estadístico del test de independencia, que sigue una distribución $latex \chi^2$ con (4-1)(5-1) = 12 grados de libertad. En efecto,
+coincide con el valor obtenido para el estadístico $\chi^2$ más arriba. En efecto, hemos construido a mano el estadístico del test de independencia, que sigue una distribución $\chi^2$ con (4-1)(5-1) = 12 grados de libertad. En efecto,
 
 
 {{< highlight R >}}
@@ -121,7 +121,7 @@ pchisq( sum( b^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
 
 que es el mismo valor obtenido antes (si se se consideran relevantes las comparaciones de valores tan minúsculos).
 
-La feliz coincidencia a la que se refiere el título de esta entrada se refiere a la que existe entre el álgebra de primero y la estadística de tercero. En efecto, si $latex A = ( a _{ij})$, entonces $latex \sum a_{ij}^2$ es igual a la traza de $latex A^\prime A$. ¡Lo juro!
+La feliz coincidencia a la que se refiere el título de esta entrada se refiere a la que existe entre el álgebra de primero y la estadística de tercero. En efecto, si $A = ( a _{ij})$, entonces $\sum a_{ij}^2$ es igual a la traza de $A^\prime A$. ¡Lo juro!
 
 Así,
 
@@ -132,7 +132,7 @@ sum( diag( t(b) %*% b ) )
 {{< / highlight >}}
 
 
-Y, ¿por qué es útil esa relación? Pues porque la traza de $latex A^\prime A$ es la suma de los vectores propios de dicha matriz, que son, por otra parte, el cuadrado de sus valores singulares. En efecto,
+Y, ¿por qué es útil esa relación? Pues porque la traza de $A^\prime A$ es la suma de los vectores propios de dicha matriz, que son, por otra parte, el cuadrado de sus valores singulares. En efecto,
 
 
 {{< highlight R >}}
@@ -141,6 +141,6 @@ sum( ( svd( b )$d )^2 )
 {{< / highlight >}}
 
 
-La descomposición en valores singulares de una matriz $latex B$ es $B = PDQ'$. Pero  acabo aquí no sin antes anotar en mi vademécum lo siguiente: escribir una entrada en el blog en la que se repasen las propiedades algebraicas de la descomposición $latex B = PDQ'$ y de las matrices $latex P$ y $latex Q$ para deducir de ellas propiedades estadísticas que nos ayuden a comprender mejor la estructura de la tabla de contingencia.
+La descomposición en valores singulares de una matriz $B$ es $B = PDQ'$. Pero  acabo aquí no sin antes anotar en mi vademécum lo siguiente: escribir una entrada en el blog en la que se repasen las propiedades algebraicas de la descomposición $B = PDQ'$ y de las matrices $P$ y $Q$ para deducir de ellas propiedades estadísticas que nos ayuden a comprender mejor la estructura de la tabla de contingencia.
 
 **Nota:** los más avezados de mis lectores habrán adivinado que me estoy refieriendo sin nombrarlo al [análisis de correspondencias](http://es.wikipedia.org/wiki/An%C3%A1lisis_de_correspondencias); es cierto pero no he querido hacerlo manifiesto por si palabras de tantas sílabas asustaban a algún potencial lector.

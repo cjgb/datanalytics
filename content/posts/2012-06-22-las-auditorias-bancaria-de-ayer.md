@@ -70,31 +70,31 @@ Antes un inciso: para calcular pérdidas crediticias, es uso tradicional calcula
 
 Como de las tres siempre me ha gustado más el cálculo de la PD, cuento cómo lo ha hecho Roland Berger:
 
-* Para cada banco y cada sector económico, ha considerado la variable $latex P_t$ y los indicadores $latex x_{it}$. Estos indicadores son los que definen los distintos escenarios descritos más arriba: la tasa de paro, etc.
+* Para cada banco y cada sector económico, ha considerado la variable $P_t$ y los indicadores $x_{it}$. Estos indicadores son los que definen los distintos escenarios descritos más arriba: la tasa de paro, etc.
 * Ha creado las variables derivadas
 
 
 
-$latex Y_t = \log P_t - \log P_{t-1}$ y
-$latex X_{it} = x_{it} / x_{it-1} - 1$
+$Y_t = \log P_t - \log P_{t-1}$ y
+$X_{it} = x_{it} / x_{it-1} - 1$
 
 
 
 
 
 
-* Han considerado la familia de regresiones (una para cada indicador $latex i$ y tras normalizar la variable objetivo $latex Y$)
+* Han considerado la familia de regresiones (una para cada indicador $i$ y tras normalizar la variable objetivo $Y$)
 
 
 
-$latex \frac{Y_t - \mu}{\sigma} \sim X_{it}$,
+$\frac{Y_t - \mu}{\sigma} \sim X_{it}$,
 
 
 
 
 
 
-* Han seleccionado de todas ellas la _mejor_, supongo que teniendo en cuenta la $latex R^2$.
+* Han seleccionado de todas ellas la _mejor_, supongo que teniendo en cuenta la $R^2$.
 
 De hecho, deshaciendo la transformación queda la fórmula
 [![](/wp-uploads/2012/06/formula_bde.png#center)

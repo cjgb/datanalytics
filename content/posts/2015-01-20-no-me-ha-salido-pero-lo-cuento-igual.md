@@ -43,7 +43,7 @@ Echad un vistazo a los coeficientes de `Gender` en ambos modelos y veréis.
 
 Lo que se me ha ocurrido es lo siguiente. Imaginad que hombres y mujeres solicitan admisiones a esos departamentos sin que el sexo induzca sesgo alguno en las preferencias. Por su parte, los departamentos aceptan o rechazan candidatos en proporciones fijas (e iguales a las del caso que nos ocupa).
 
-De otra manera, un candidato tiene una probabilidad $latex p_H$ de ser hombre, una probabilidad $latex P_{Di}$ de solicitar la admisión en el departamento $latex i$ y una probabilidad $latex p_{Ai}$ de ser admitido en él.
+De otra manera, un candidato tiene una probabilidad $p_H$ de ser hombre, una probabilidad $P_{Di}$ de solicitar la admisión en el departamento $i$ y una probabilidad $p_{Ai}$ de ser admitido en él.
 
 La idea es comparar las regresiones logísticas anteriores: una que incluya `Dept` y la otra no. Lo que yo esperaba es que los coeficientes de `Gender` en muchas simulaciones:
 

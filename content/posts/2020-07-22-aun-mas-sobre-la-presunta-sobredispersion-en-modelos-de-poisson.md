@@ -47,7 +47,7 @@ datos <- data.frame(
 )
 {{< / highlight >}}
 
-Como se aprecia, he añadido un error normal con $latex \sigma = .5$ en el término lineal. Y ahora,
+Como se aprecia, he añadido un error normal con $\sigma = .5$ en el término lineal. Y ahora,
 
 {{< highlight R >}}
 library(lme4)

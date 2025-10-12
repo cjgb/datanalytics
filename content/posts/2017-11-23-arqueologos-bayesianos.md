@@ -30,7 +30,7 @@ El modelo más simple es
 
 $$ M_i \sim N(\mu, \sigma_i)$$
 
-donde $latex \mu$ es la antigüedad (desconocida) del artefacto y los $latex \sigma_i$ son las varianzas distintas de los distintos métodos de medida, que arrojan las estimaciones $latex M_i$.
+donde $\mu$ es la antigüedad (desconocida) del artefacto y los $\sigma_i$ son las varianzas distintas de los distintos métodos de medida, que arrojan las estimaciones $M_i$.
 
 Los hay más entretenidos, como
 
@@ -38,7 +38,7 @@ Los hay más entretenidos, como
 $$ M_{ij} \sim N(\mu_j, \sigma_{j(i)})$$
 $$ \mu_j \sim(\mu, \lambda_j)$$
 
-donde hay medidas repetidas (varios $latex i$) para cada uno de $latex j$ instrumentos de medida.
+donde hay medidas repetidas (varios $i$) para cada uno de $j$ instrumentos de medida.
 
 Y aún más para incluir la posibilidad de _outliers_, etc.
 

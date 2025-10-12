@@ -20,15 +20,15 @@ title: Modelos no lineales directos e inversos
 url: /2017/10/16/modelos-no-lineales-directos-e-inversos/
 ---
 
-Las malandanzas de [Circiter](http://www.circiter.es) la han conducido al siguiente entuerto: estimar $latex \alpha$ donde
+Las malandanzas de [Circiter](http://www.circiter.es) la han conducido al siguiente entuerto: estimar $\alpha$ donde
 
 $$ y = f_\alpha(x) + \epsilon$$
 
-y $latex f_\alpha$ es una función no lineal horrible. Sin embargo, $latex f^{-1}_\alpha$ es mucho más manejable y podría plantearse el modelo
+y $f_\alpha$ es una función no lineal horrible. Sin embargo, $f^{-1}_\alpha$ es mucho más manejable y podría plantearse el modelo
 
 $$ x = f^{-1}_\alpha(y) + \epsilon$$
 
-(donde este nuevo $latex \epsilon$ no coincide con el anterior: piénsese en el [método delta](https://datanalytics.com/2017/05/24/aquellos-que-ignoran-la-estadistica-etcetera/) y léase la nota final).
+(donde este nuevo $\epsilon$ no coincide con el anterior: piénsese en el [método delta](https://datanalytics.com/2017/05/24/aquellos-que-ignoran-la-estadistica-etcetera/) y léase la nota final).
 
 Un ejemplo. Que arranca con unos datos autoexplicativos:
 

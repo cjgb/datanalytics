@@ -20,9 +20,9 @@ title: Un truco para reducir la varianza de un estimador
 url: /2019/07/19/un-truco-para-reducir-la-varianza-de-un-estimador/
 ---
 
-Tienes dos variables aleatorias positivamente correlacionadas, $latex X$ y $latex Y$ y una muestra de $latex n$ parejas de ellas $latex (x_i, y_i)$.
+Tienes dos variables aleatorias positivamente correlacionadas, $X$ y $Y$ y una muestra de $n$ parejas de ellas $(x_i, y_i)$.
 
-La esperanza de $latex X$, $latex E(X)$, es conocida y la de $latex Y$ no. Obviamente, la puedes estimar haciendo
+La esperanza de $X$, $E(X)$, es conocida y la de $Y$ no. Obviamente, la puedes estimar haciendo
 
 $$ E(Y) \sim \frac{1}{n} \sum_i y_i.$$
 

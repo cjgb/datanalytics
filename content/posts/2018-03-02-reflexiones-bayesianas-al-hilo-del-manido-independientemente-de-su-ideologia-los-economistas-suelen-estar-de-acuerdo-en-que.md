@@ -42,6 +42,6 @@ La segunda premisa es que la economía no es solo de _lo que hacen los economist
 
 Así que somos muchos, los más, que tenemos que hacer frente a los problemas que se nos plantean tirando solo de ideología. Porque, como no somos economistas _de profesión_, no nos queda otra que hacer uso de ideas preconcebidas para tomar decisiones. Los civiles somos _homo œconomicus... aprioristicus_ de segundo apellido.
 
-Los economistas _de verdad_ llegan a la facultad con sus prioris a cuestas, por supuesto. Quiérase o no, la ideología es necesaria; e incluso quien la desborda en un campo, es patán como el que más en muchos otros (¿Intel o AMD?). Pero un economista lee, experimenta, estudia, conoce, etc. El tamaño muestral N = 0 de la mayor parte de todos nosotros, es, debería ser, $latex \sim\infty$ para uno medianamente aplicado. Es decir, se ubica donde opera el teorema antes citado.
+Los economistas _de verdad_ llegan a la facultad con sus prioris a cuestas, por supuesto. Quiérase o no, la ideología es necesaria; e incluso quien la desborda en un campo, es patán como el que más en muchos otros (¿Intel o AMD?). Pero un economista lee, experimenta, estudia, conoce, etc. El tamaño muestral N = 0 de la mayor parte de todos nosotros, es, debería ser, $\sim\infty$ para uno medianamente aplicado. Es decir, se ubica donde opera el teorema antes citado.
 
 QED

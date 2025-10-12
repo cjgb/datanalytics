@@ -63,8 +63,8 @@ mean(res)
 Que me da una probabilidad de éxito aproximada del .65. La estrategia es la siguiente:
 
 1. B elige una distribución de probabilidad cualquiera (mañana matizaré qué levísimas restricciones operan sobre esta otra distribución)
-2. B toma un valor al azar $latex y$ de acuerdo con dicha distribución.
-3. Si el valor observado $latex o > y$, se queda con $latex o$; si no, se decanta por el otro que no ha visto.
+2. B toma un valor al azar $y$ de acuerdo con dicha distribución.
+3. Si el valor observado $o > y$, se queda con $o$; si no, se decanta por el otro que no ha visto.
 
 
 Y funciona, tú.

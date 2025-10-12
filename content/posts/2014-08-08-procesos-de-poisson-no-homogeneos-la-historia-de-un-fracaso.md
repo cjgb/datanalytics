@@ -20,9 +20,9 @@ title: 'Procesos de Poisson no homogéneos: la historia de un fracaso'
 url: /2014/08/08/procesos-de-poisson-no-homogeneos-la-historia-de-un-fracaso/
 ---
 
-Partamos el tiempo en, p.e., días y contemos una serie de eventos que suceden en ellos. Es posible que esos recuentos se distribuyan según un proceso de Poisson de parámetro $latex \lambda$, que es un valor que regula la intensidad.
+Partamos el tiempo en, p.e., días y contemos una serie de eventos que suceden en ellos. Es posible que esos recuentos se distribuyan según un proceso de Poisson de parámetro $\lambda$, que es un valor que regula la intensidad.
 
-Si los días son _homogéneos_, i.e., no hay variaciones de intensidad diaria, estimar $latex \lambda$ (por máxima verosimilitud), es tan fácil como calcular la media de los sucesos por día. Pero puede suceder que la intensidad varíe en el tiempo (p.e., se reduzca los fines de semana). O que fluctúe de cualquier manera. O que haya periodos de gran intensidad y otros de calma. Es decir, que el proceso no sea homogéneo y que $latex \lambda$ varíe en el tiempo.
+Si los días son _homogéneos_, i.e., no hay variaciones de intensidad diaria, estimar $\lambda$ (por máxima verosimilitud), es tan fácil como calcular la media de los sucesos por día. Pero puede suceder que la intensidad varíe en el tiempo (p.e., se reduzca los fines de semana). O que fluctúe de cualquier manera. O que haya periodos de gran intensidad y otros de calma. Es decir, que el proceso no sea homogéneo y que $\lambda$ varíe en el tiempo.
 
 Estos días me he encontrado con la necesidad de estudiar si determinados procesos que bien pudieran ser de Poisson tienen periodos de alta intensidad. Y detectarlos, claro.
 

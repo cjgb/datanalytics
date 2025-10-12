@@ -24,11 +24,11 @@ title: Diferencia de medias a la bayesiana con salsa de stan
 url: /2015/06/25/diferencia-de-medias-a-la-bayesiana-con-salsa-de-stan/
 ---
 
-El habitual problema de la diferencia de medias suele formularse de la siguiente manera: hay observaciones $latex y_{1i}$ e $latex y_{2i}$ donde
+El habitual problema de la diferencia de medias suele formularse de la siguiente manera: hay observaciones $y_{1i}$ e $y_{2i}$ donde
 
 $$ y_{ji} \sim N(\mu_j, \sigma)$$
 
-e interesa saber si $latex \mu_1 = \mu_2$. Obviamente, se desconoce $latex \sigma$. De [cómo resolvió Gosset](https://datanalytics.com/2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/) el problema están los libros de estadística llenos. En R,
+e interesa saber si $\mu_1 = \mu_2$. Obviamente, se desconoce $\sigma$. De [cómo resolvió Gosset](https://datanalytics.com/2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/) el problema están los libros de estadística llenos. En R,
 
 {{< highlight R >}}
 set.seed(1234)

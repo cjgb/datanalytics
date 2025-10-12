@@ -24,7 +24,7 @@ A esa gente le había hecho falta, en efecto, un matemático. Les hubiera bastad
 
 Hace mucho, mucho tiempo, tanto que las neuronas que se acuerdan de eso están llenas de polvo, en un país muy, muy lejos de este, trabajé en un proyecto cuya naturaleza no viene al caso. Sí que lo hace el que habían codificado el campo identificador de los contratos en su base de datos con un `CHAR(26)`. Sí, efectivamente, usaban veintiséis caracteres para identificar un único contrato.
 
-La verdad sea dicha, precavidos eran: si damos por buenos [estos números](http://wiki.answers.com/Q/How_many_atoms_are_there_on_earth), podrían tener como clientes a todos los átomos de la tierra antes de sufrir una especie de efecto 2000 o IPv4: $latex 2^{8 \times 26}$ asciende a la fabulosa cifra de 4,1138e+62.
+La verdad sea dicha, precavidos eran: si damos por buenos [estos números](http://wiki.answers.com/Q/How_many_atoms_are_there_on_earth), podrían tener como clientes a todos los átomos de la tierra antes de sufrir una especie de efecto 2000 o IPv4: $2^{8 \times 26}$ asciende a la fabulosa cifra de 4,1138e+62.
 
 Me entretuve en contar en cuántas tablas de la base de datos se utilizaba dicho campo y cuántas veces aparecía en cada una de ellas. La suma total fue, aproximadamente, 57.462.445.986 veces. Para aquellos de mis lectores con aversión a contar cifras, 57.000 millones de veces.
 

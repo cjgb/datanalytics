@@ -23,7 +23,7 @@ url: /2021/01/26/que-modelas-cuando-modelas/
 
 Ahora que estoy trabajando en el capítulo dedicado a la modelización (clásica, frecuentista) de mi [libro](https://datanalytics.com/libro_estadistica/), me veo obligado no ya a resolver sino encontrar una vía razonable entre las tres ---¿hay más?--- posibles respuestas a esa pregunta.
 
-La primera es **yo modelo un proceso (o fenómeno), los datos llegan luego**. Yo pienso que una variable de interés $latex Y$ depende de $latex X_i$ a través de una relación del tipo
+La primera es **yo modelo un proceso (o fenómeno), los datos llegan luego**. Yo pienso que una variable de interés $Y$ depende de $X_i$ a través de una relación del tipo
 
 $$ Y | X_i \sim N(f(X_i, \sigma)$$
 

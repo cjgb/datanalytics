@@ -36,13 +36,13 @@ Las distintas aproximaciones son
 
 $$ \hat{S}(t) = \exp\left(-\sum_{i \le n} \lambda_i \Delta - \lambda_n (t - t_n)\right)$$
 
-donde $latex n$ es el índice del intervalo que contiene a $latex t$  los $latex \lambda_i$ son los coeficientes en los segmentos de exponencial. Esa expresión que converge a
+donde $n$ es el índice del intervalo que contiene a $t$  los $\lambda_i$ son los coeficientes en los segmentos de exponencial. Esa expresión que converge a
 
 $$ S(t) = \exp\left(-\int_0^t \lambda(x) dx\right)$$
 
-y $latex \lambda(t) = -S^\prime(t) / S(t)$ como no es necesario demostrar.
+y $\lambda(t) = -S^\prime(t) / S(t)$ como no es necesario demostrar.
 
-Ah, y sí, $latex \lambda(t)$ es la función de riesgo.
+Ah, y sí, $\lambda(t)$ es la función de riesgo.
 
 **Coda:** entre otras cosas, queda evidenciado que la función de riesgo del decaimiento exponencial es constante.
 

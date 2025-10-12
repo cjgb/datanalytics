@@ -54,7 +54,7 @@ exp(-1 + .5 * (-2:2))
 # [1] 0.1353353 0.2231302 0.3678794 0.6065307 1.0000000
 {{< / highlight >}}
 
-deberían ser aproximadamente iguales. De hecho, casi lo son si forzamos $latex \sigma = 0$:
+deberían ser aproximadamente iguales. De hecho, casi lo son si forzamos $\sigma = 0$:
 
 {{< highlight R >}}
 y <- sapply(-1 + .5 * x, function(lambda) rpois(1, exp(lambda)))
@@ -143,7 +143,7 @@ tapply(y, x, var) / predict(modelo_glm, data.frame(x = -2:2), type = "response")
 # 1.1426982 0.9928202 1.1523015 1.3737663 1.3469143
 {{< / highlight >}}
 
-que es un vector cuya media coincide prácticamente con el parámetro de dispersión, 1.2017. Pero es que con este planteamiento en particular, la sobredispersión ni siquiera es proporcional al valor de $latex \hat{\mu}$, como demuestra la siguiente simulación,
+que es un vector cuya media coincide prácticamente con el parámetro de dispersión, 1.2017. Pero es que con este planteamiento en particular, la sobredispersión ni siquiera es proporcional al valor de $\hat{\mu}$, como demuestra la siguiente simulación,
 
 {{< highlight R >}}
 x <- runif(100000, -2, 5)

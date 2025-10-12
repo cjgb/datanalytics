@@ -40,7 +40,7 @@ Alternativamente, se puede construir un modelo simple que trate de estimar el va
 
 $$ p - \hat{p}_i = r \sim a_0 + a_1 \text{anti} + \epsilon.$$
 
-De este modo, nuestra predicción sobre el precio $latex p$ de un apartamento será $latex \hat{p_1} + \hat{p_2}$, es decir, la suma de dos modelos, uno construido sobre los valores de la variable original y otro sobre los residuos.
+De este modo, nuestra predicción sobre el precio $p$ de un apartamento será $\hat{p_1} + \hat{p_2}$, es decir, la suma de dos modelos, uno construido sobre los valores de la variable original y otro sobre los residuos.
 
 Nota: aunque está escrito en todas partes, recuerdo que el modelo resultante no es el mismo que el obtenido con una regresión múltiple, nuestra primera alternativa. Una regresión múltiple puede estimarse añadiendo predictores uno a uno, pero no como indico aquí.
 

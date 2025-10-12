@@ -49,6 +49,6 @@ $$ P(\theta_i | X) = \frac{P(X | \theta_i)}{\sum_j P(X | \theta_j)}$$
 
 cosa que no es del todo cierta (porque se asumen prioris uniformes, omisión que el 80% de la profesión le excusaría de buen grado) pero que es una verosimilitud en toda regla.
 
-El resto de la _Mémoire sur la probabilitité des causes par les evenements_ es superemocionante. Uno está esperando a la vuelta de cada hoja encontrar $latex f^\prime(x) = 0$ y, voilá, tener una estimación por máxima verosimilitud. Pero no, en cada coyuntura en que el bueno de Laplace podría haber adelantado en reloj de la ciencia en siglo y medio, sale por peteneras: que si el valor promedio, que si la mediana, que si...
+El resto de la _Mémoire sur la probabilitité des causes par les evenements_ es superemocionante. Uno está esperando a la vuelta de cada hoja encontrar $f^\prime(x) = 0$ y, voilá, tener una estimación por máxima verosimilitud. Pero no, en cada coyuntura en que el bueno de Laplace podría haber adelantado en reloj de la ciencia en siglo y medio, sale por peteneras: que si el valor promedio, que si la mediana, que si...
 
 Y por terminar, una curiosidad: uno de los problemas a los que aplica Laplace todo lo anterior es [al de las tres medidas](https://datanalytics.com/2011/09/14/la-estadistica-del-numero-tres/). Para el que se le ocurre utilizar como función de error, en lugar de lo/la normal, [la suya propia](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Laplace). Eso sí que es personalidad, ¡carajo!

@@ -26,8 +26,8 @@ Trata sobre lo siguiente:
 
 1. Construir un cojunto de datos simples (dos vectores, `x` e `y`).
 2. Hacer una regresión de `y` sobre `x` y capturar los residuos.
-3. Crear 1000 vectores `y'` distintos añadiendo a $latex \hat{y}$ (la predicción de `y`) en el modelo anterior una reordenación de los residuos.
-4. Crear los correspondientes 1000 modelos haciendo la regresión de cada $latex \hat{y}$ sobre `x`.
+3. Crear 1000 vectores `y'` distintos añadiendo a $\hat{y}$ (la predicción de `y`) en el modelo anterior una reordenación de los residuos.
+4. Crear los correspondientes 1000 modelos haciendo la regresión de cada $\hat{y}$ sobre `x`.
 5. Obtener el histograma del coeficiente de la regresión.
 
 Es un caso de _bootstrap _en el que no se muestrean directamente los valores iniciales sino los residuos del modelo.

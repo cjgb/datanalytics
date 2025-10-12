@@ -52,7 +52,7 @@ Las predicciones de cada casilla —una especie de modelo local—, por el hecho
 
 Si el año siguiente se hubiese repetido el estudio —¿lo habrán repetido realmente?— en cada casilla eligirían, probablemente, representantes distintos y, muy probablemente también, variarían mucho los resultados.
 
-Si por un lado el proceso se repitiese año tras año, durante muchos, muchos años obteniéndose la serie de propensiones estimadas $latex p_i$ y, por el otro, Dios bajase de los cielos y revelase el valor verdadero, $latex p$ de la propensión en una casilla determinada, entonces podríamos calcular
+Si por un lado el proceso se repitiese año tras año, durante muchos, muchos años obteniéndose la serie de propensiones estimadas $p_i$ y, por el otro, Dios bajase de los cielos y revelase el valor verdadero, $p$ de la propensión en una casilla determinada, entonces podríamos calcular
 
 $$ \frac{1}{n} \sum \left(p_i -p \right)^2 = \frac{1}{n} \sum \left(p_i - \frac{1}{n} \sum p_i \right)^2 + \left(\frac{1}{n} \sum p_i - p \right)^2 $$
 

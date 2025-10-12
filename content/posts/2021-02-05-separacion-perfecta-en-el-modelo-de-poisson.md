@@ -31,9 +31,9 @@ Voy a ilustrarlo con el segundo ejemplo más sencillo que se me ocurre. Supongam
 
 $$Y \sim \text{Pois}(X)$$
 
-donde $latex X$ es una variable aleatoria que toma los valores $latex a$ y $latex b$. Supongamos que tenemos una muestra de tamaño $latex 2N$ donde a cada nivel de $latex X$ le corresponden $latex N$ casos. Los estimadores por máxima verosimilitud de los coeficientes correspondientes a esos valores son $latex \log n_a /N$ y $latex \log n_b /N$ respectivamente.
+donde $X$ es una variable aleatoria que toma los valores $a$ y $b$. Supongamos que tenemos una muestra de tamaño $2N$ donde a cada nivel de $X$ le corresponden $N$ casos. Los estimadores por máxima verosimilitud de los coeficientes correspondientes a esos valores son $\log n_a /N$ y $\log n_b /N$ respectivamente.
 
-Pero, ¿qué pasa si $latex n_a = 0$? El estimador es $latex -\infty$; aunque, en realidad, acabo de ver que R se come la tostada:
+Pero, ¿qué pasa si $n_a = 0$? El estimador es $-\infty$; aunque, en realidad, acabo de ver que R se come la tostada:
 
 {{< highlight R >}}
 set.seed(1)

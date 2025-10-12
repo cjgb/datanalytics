@@ -37,9 +37,9 @@ Rehagamos como Dios manda el ejemplo al que apuntaba mi enlace. Se trata de esti
 
 $$ T = \frac{\log(.5)}{k}$$
 
-donde $latex k \sim N(-0.035, 0.00195)$.
+donde $k \sim N(-0.035, 0.00195)$.
 
-En el enlace, al cabo de mucho desarrollo de Taylor, de despejar, etc., llega a la conclusión de que $latex \sigma_T \sim 1.1033$.
+En el enlace, al cabo de mucho desarrollo de Taylor, de despejar, etc., llega a la conclusión de que $\sigma_T \sim 1.1033$.
 
 Pero siempre se pueden hacer cosas como
 

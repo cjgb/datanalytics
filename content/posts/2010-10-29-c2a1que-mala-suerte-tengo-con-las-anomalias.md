@@ -44,7 +44,7 @@ Pero ignoraremos ambas consideraciones: de acuerdo con ciertas teorías simplifi
 $$ P(t) = \exp( \mu t + \sigma B(t) $$
 
 
-donde $latex \mu$ está relacionado con la tendencia creciente del mercado y $latex B(t)$ es un movimiento browniano. En periodos de tiempo cortos, las variaciones de precios son (muy) aproximadamente normales. Así que volviendo a R,
+donde $\mu$ está relacionado con la tendencia creciente del mercado y $B(t)$ es un movimiento browniano. En periodos de tiempo cortos, las variaciones de precios son (muy) aproximadamente normales. Así que volviendo a R,
 
 {{< highlight R >}}
 dixon.test( precio )

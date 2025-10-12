@@ -28,8 +28,8 @@ Ahora bien, Arthur Charpentier ha escrito sobre [la Ley de Benford en su bitáco
 
 $$P(D=d) = \frac{\log(1+1/d)}{\log(10)}.$$
 
-La condición es que al cambiar la escala, no cambie la distribución del primer dígito. Lo cual viene a ser equivalente a que la función de densidad $latex f(x)$ sea proporcional a $latex f(kx)$ y eso conduce necesariamente a que $latex f(x) = x^{-1}$, un caso particular de la [distribución de Pareto](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Pareto).
+La condición es que al cambiar la escala, no cambie la distribución del primer dígito. Lo cual viene a ser equivalente a que la función de densidad $f(x)$ sea proporcional a $f(kx)$ y eso conduce necesariamente a que $f(x) = x^{-1}$, un caso particular de la [distribución de Pareto](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Pareto).
 
-Más aún, Charpentier analiza en qué casos las primeras cifras de muestras de algunas otras distribuciones siguen la ley $latex P(D=d)$ anterior y encuentra cómo los resultados no son enteramente disconformes en algunos (¡pero no todos!).
+Más aún, Charpentier analiza en qué casos las primeras cifras de muestras de algunas otras distribuciones siguen la ley $P(D=d)$ anterior y encuentra cómo los resultados no son enteramente disconformes en algunos (¡pero no todos!).
 
 Y este es el hecho que bien podría venir en llamarse _Ley Fuerte de Benford_. Quedaría no obstante pendiente la tarea de caracterizar —de ser posible, claro— aquellas distribuciones a las que resultase aplicable.

@@ -32,7 +32,7 @@ En concreto, algo parecido a
 
 ![](/wp-uploads/2020/04/Spike-and-slab-prior.png#center)
 
-cuando a, b y $latex \delta$ tienden a lo que deben. El parámetro $latex \gamma$ (o más concretamente, su distribución a posteriori) determina la probabilidad de que el coeficiente sea 0. Aunque hoy en día se prefiera usar una mezcla de dos normales centradas en cero,
+cuando a, b y $\delta$ tienden a lo que deben. El parámetro $\gamma$ (o más concretamente, su distribución a posteriori) determina la probabilidad de que el coeficiente sea 0. Aunque hoy en día se prefiera usar una mezcla de dos normales centradas en cero,
 
 ![](/wp-uploads/2020/04/spike_slab.png#center)
 

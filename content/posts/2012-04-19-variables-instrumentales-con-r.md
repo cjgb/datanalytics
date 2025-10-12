@@ -26,13 +26,13 @@ Los economistas usan unas _cosas_ a las que llaman variables instrumentales con 
 
 $$y_i = \beta x_i + \varepsilon_i,$$
 
-cuando existe correlación entre _X_ y $latex \varepsilon$. En tales casos, el estimador por mínimos cuadrados es
+cuando existe correlación entre _X_ y $\varepsilon$. En tales casos, el estimador por mínimos cuadrados es
 
 $$\hat{\beta} =\frac{x'y}{x'x}=\frac{x'(x\beta+\varepsilon)}{x'x}=\beta+\frac{x'\varepsilon}{x'x}$$
 
-y debido a la correlación entre _X_ y $latex \varepsilon$, está sesgado.
+y debido a la correlación entre _X_ y $\varepsilon$, está sesgado.
 
-La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con _X_ pero no con $latex \varepsilon$. La siguiente simulación en R ilustra el problema:
+La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con _X_ pero no con $\varepsilon$. La siguiente simulación en R ilustra el problema:
 
 {{< highlight R >}}
 library(MASS)

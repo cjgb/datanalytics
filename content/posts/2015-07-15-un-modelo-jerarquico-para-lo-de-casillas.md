@@ -4,7 +4,6 @@ categories:
 - estadística
 - r
 date: 2015-07-15 08:13:42+00:00
-draft: false
 lastmod: '2025-04-06T18:48:07.042659'
 related:
 - 2015-07-13-casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-sus-numeros-lo-son-aun-mas.md
@@ -24,15 +23,15 @@ url: /2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/
 
 Vuelvo a lo de Casillas inspirándome en el primer ejemplo de [este artículo](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf) de Gelman et al.
 
-El planteamiento es el siguiente: el número de paradas, $latex n_i$ que realiza el $latex i$-ésimo portero tiene una distribución binomial
+El planteamiento es el siguiente: el número de paradas, $n_i$, que realiza el $i$-ésimo portero tiene una distribución binomial
 
 $$ n_i \sim B(N_i, p_i)$$
 
-donde $latex N_i$ es el número de disparos entre los palos y $latex p_i$ es la habilidad innata del portero. Estas habilidades innatas siguen una distribución dada, la de habilidades innatas de los porteros de primera división, que podemos suponer que sigue una distribución beta
+donde $N_i$ es el número de disparos entre los palos y $p_i$ es la habilidad innata del portero. Estas habilidades innatas siguen una distribución dada, la de habilidades innatas de los porteros de primera división, que podemos suponer que sigue una distribución beta
 
 $$ p_i \sim \text{Beta}(\alpha, \beta)$$
 
-donde $latex \alpha$ y $latex \beta$ tienen una distribución a priori poco informativa (una gamma con una varianza grande).
+donde $\alpha$ y $\beta$ tienen una distribución a priori poco informativa (una gamma con una varianza grande).
 
 Puede verse la discusión del artículo de Gelman y compañía para entender el papel de esa distribución de las habilidades de los porteros y el efecto que tendría sobre, por ejemplo, la estimación de la habilidad de un portero que apenas hubiese jugado unos pocos minutos.
 
@@ -116,7 +115,7 @@ que genera
 [![posteriori_porteros_liga](/wp-uploads/2015/07/posteriori_porteros_liga.png#center)
 ](/wp-uploads/2015/07/posteriori_porteros_liga.png#center)
 
-y donde se ve el grado de solape entre las distintas distribuciones. Y otras cosas como, por ejemplo, las distribuciones de los porteros con menos tiros a puerta tienen mayor varianza.
+y donde se ve el grado de solape entre las distintas distribuciones. Además de otras cosas como que las distribuciones de los porteros con menos tiros a puerta tienen mayor varianza.
 
 Siguiendo a Gelman et al., una manera de estimar las diferencias entre parejas de porteros sería encontrar el porcentaje de simulaciones en que el estimador de la habilidad de uno de ellos supera al del otro:
 
@@ -144,7 +143,7 @@ que genera
 
 y donde, de nuevo, apenas se encuentran diferencias significativas.
 
-Finalmente, ¿cuál es esa distribución de la habilidad de los porteros de la primera división? `print(fit)` nos da, entre otras cosas, el valor mediano de $latex \alpha$ y $latex \beta$, 18.14 y 8.27 respectivamente, lo que determina una distribución tal que
+Finalmente, ¿cuál es esa distribución de la habilidad de los porteros de la primera división? `print(fit)` nos da, entre otras cosas, el valor mediano de $\alpha$ y $\beta$, 18.14 y 8.27 respectivamente, lo que determina una distribución tal que
 
 {{< highlight R >}}
 foo <- function(x) dbeta(x, 18.14, 8.27)
@@ -158,6 +157,6 @@ Es decir,
 
 (aunque, más propiamente, una familia de curvas similares a la anterior, porque los parámetros de esa beta tienen su propia distribución).
 
-Lo anterior vienen a contarnos que un portero podría llegar a tener una eficacia del 99%, aunque para ello tendría que demostrarlo muy mucho: atajar prácticamente la totalidad de una cantidad enorme de disparos. No bastaría con atajar uno de uno.
+Lo anterior viene a contarnos que un portero podría llegar a tener una eficacia del 99%, aunque para ello tendría que demostrarlo muy mucho: atajar prácticamente la totalidad de una cantidad enorme de disparos. No bastaría con atajar uno de uno.
 
 En fin, podría seguir pero termino aquí. Demasiado fútbol (y demasiados nuevos amigos) esta semana ya.

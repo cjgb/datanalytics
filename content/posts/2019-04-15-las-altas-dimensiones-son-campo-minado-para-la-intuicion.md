@@ -24,8 +24,8 @@ Las dimensiones altas son un campo minado para la intuición. Hace poco (y he pe
 
 ![](/wp-uploads/2019/04/bolas_metricas_alt.png#center)
 
-precisamente porque una de las propiedades más fructíferas de las bolas en altas dimensiones es que apenas tienen interior. De hecho, es trivial probar que la proporción del volumen de una bola a distancia mayor que $latex \epsilon$ de su borde tiende a cero con la dimensión.
+precisamente porque una de las propiedades más fructíferas de las bolas en altas dimensiones es que apenas tienen interior. De hecho, es trivial probar que la proporción del volumen de una bola a distancia mayor que $\epsilon$ de su borde tiende a cero con la dimensión.
 
-Si tienes $latex n$ variables continuas, el número de cuadrantes del espacio en el que viven es $latex 2^n$. Con 20 variables, son un millón (aproximado) de cuadrantes. ¡Una muestra de menos de un millón de datos ni siquiera podría explorarlos todos!
+Si tienes $n$ variables continuas, el número de cuadrantes del espacio en el que viven es $2^n$. Con 20 variables, son un millón (aproximado) de cuadrantes. ¡Una muestra de menos de un millón de datos ni siquiera podría explorarlos todos!
 
 Por  eso, cuando se usa MCMC en dimensiones altas, [no tiene mucho sentido decir que el proceso muestrea la ](https://statmodeling.stat.columbia.edu/2019/03/25/mcmc-does-not-explore-posterior/)_[posteriori](https://statmodeling.stat.columbia.edu/2019/03/25/mcmc-does-not-explore-posterior/)_. Lo que ocurre es otra cosa distinta. Útil, sí, pero distinta.

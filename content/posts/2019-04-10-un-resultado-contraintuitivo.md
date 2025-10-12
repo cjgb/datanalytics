@@ -22,7 +22,7 @@ url: /2019/04/10/un-resultado-contraintuitivo/
 
 [Esta entrada recoge la pregunta y la duda que motivó una conversación con [Javier Nogales](https://twitter.com/fjnogales) en Twitter hace unos días.]
 
-Citaba (él) un resultado de [Theobald de 1974](https://www.jstor.org/stable/2984775) (¿tanto lleva _ridge_ entre nosotros? ¡habría jurado que menos!) que viene a decir que siempre existe un peso $latex \lambda$ para el que _ridge_ es mejor que OLS.
+Citaba (él) un resultado de [Theobald de 1974](https://www.jstor.org/stable/2984775) (¿tanto lleva _ridge_ entre nosotros? ¡habría jurado que menos!) que viene a decir que siempre existe un peso $\lambda$ para el que _ridge_ es mejor que OLS.
 
 Ves el álgebra y piensas: verdad será.
 

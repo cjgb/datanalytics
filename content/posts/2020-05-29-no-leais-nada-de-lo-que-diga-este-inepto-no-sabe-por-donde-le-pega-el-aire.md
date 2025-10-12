@@ -22,6 +22,6 @@ Hay gente que va dándoselas de nosequé y luego resulta que no sabe por dónde 
 
 >En cualquier caso, con datos de esa naturaleza (isótopos radioactivos, enfermos de cáncer, etc.) no se informa la vida media sino, generalmente, la semivida. Es decir, cuánto tiempo pasa hasta que se liquida la mitad de una cohorte. En este caso, lo suyo sería estimar la semivida ponderada por importe.
 
-A ver, con isótopos radioactivos, ya que los citas, la vida media es $latex 1 / \lambda$ (de estar sujetos a un decaimiento exponencial de la forma $latex \exp(-\lambda t)$ y la semivida es $latex \log 2 / \lambda$. ¿Qué demonios cambia tan sustancialmente de usar la una o la otra?
+A ver, con isótopos radioactivos, ya que los citas, la vida media es $1 / \lambda$ (de estar sujetos a un decaimiento exponencial de la forma $\exp(-\lambda t)$ y la semivida es $\log 2 / \lambda$. ¿Qué demonios cambia tan sustancialmente de usar la una o la otra?
 
 Casi se me olvida citar la fuente en la que abreva el inepto. Es [esta](https://datanalytics.com/2017/12/05/como-se-mide-el-numero-medio-de-dias-para-pagar-una-factura/).

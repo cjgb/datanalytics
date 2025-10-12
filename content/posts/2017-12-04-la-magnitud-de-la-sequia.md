@@ -32,18 +32,18 @@ Lluvia.
 
 La serie de la lluvia es otra cosa. Uno ve si llueve o no llueve (típicamente no). Lo que uno no ve es la probabilidad, que varía a lo largo del año, de que llueva. Pasa lo mismo con monedas (uno ve caras o cruces, no la probabilidad de cara), clientes que compran (uno ve si compra o no, no la probabilidad de compra), etc. Pero la probabilidad existe y en estimarla consiste frecuentemente el trabajo de algunos.
 
-En el caso de la lluvia, el que llueva un día $t$ (más de 1 mm, que es equivalente a 1 l/m²), o $latex X_t$ en lo que sigue, es $latex X_t \sim \text{Bernoulli}(p_t)$ y se puede suponer que las $latex p_t$ tienen estacionalidad anual (en abril, aguas mil) y una tendencia histórica. Como arriba, pero con una diferencia: las $latex p_t$ no se observan diariamente; a lo más, se observa si llueve o deja de llover un día determinado.
+En el caso de la lluvia, el que llueva un día $t$ (más de 1 mm, que es equivalente a 1 l/m²), o $X_t$ en lo que sigue, es $X_t \sim \text{Bernoulli}(p_t)$ y se puede suponer que las $p_t$ tienen estacionalidad anual (en abril, aguas mil) y una tendencia histórica. Como arriba, pero con una diferencia: las $p_t$ no se observan diariamente; a lo más, se observa si llueve o deja de llover un día determinado.
 
 El modelo que propongo es
 
 $$ X_{m} \sim \text{Binom}(l(m), p_m)$$
 
-donde $latex X_{m}$ es el número de días que llueve (más de 1 mm) en el mes $latex m$; $latex l(m)$ es el número de días del mes y $latex p_m$ es la probabilidad de lluvia en cada uno de los días del mes. Esta probabilidad es
+donde $X_{m}$ es el número de días que llueve (más de 1 mm) en el mes $m$; $l(m)$ es el número de días del mes y $p_m$ es la probabilidad de lluvia en cada uno de los días del mes. Esta probabilidad es
 
 $$ p_m = \frac{\exp(\eta_m)}{1 + \exp(\eta_m)}$$
 
 
-donde $latex \eta_m$ se descompone como la suma de una componente estacional (12 valores) y una tendencia global. Que son, según mis cálculos,
+donde $\eta_m$ se descompone como la suma de una componente estacional (12 valores) y una tendencia global. Que son, según mis cálculos,
 
 ![](/wp-uploads/2017/12/estacionalidad_lluvia_madrid.png#center)
 

@@ -29,7 +29,7 @@ Pero no voy a hablar de esas nueve reinas sino de las ocho de [_Solve Eight Quee
 
 (Nota: con R basta una línea para leer e imprimir un conjunto de datos delimitado: `print( read.table( "fichero.txt", sep = ";" ))`.)
 
-En particular, muestra un pedazo de código para resolver el [problema de las ocho reinas](http://es.wikipedia.org/wiki/Problema_de_las_ocho_reinas). El problema se reduce a encontrar una permutación $latex \sigma$ de los números `1:n` tales que
+En particular, muestra un pedazo de código para resolver el [problema de las ocho reinas](http://es.wikipedia.org/wiki/Problema_de_las_ocho_reinas). El problema se reduce a encontrar una permutación $\sigma$ de los números `1:n` tales que
 
 $$\forall i \ne j, \left| i - j \right| \ne \left| \sigma(i) - \sigma(j) \right| $$
 

@@ -35,7 +35,7 @@ Para los no advertidos y según la Wikipedia:
 
 El libro no es sino una versión extendida del artículo en cuestión: está elaborado a partir de las lecturas y notas que Sokal utilizó para redactarlo. Está planteado como una crítica contra los abusos que desde la llamada _crítica posmoderna_ —aunque no solo: también incluye en determinados pasajes al estructuralismo— se hace de conceptos científicos y, particularmente, matemáticos y físicos. Por ejemplo:
 
-* Que un señor vaya y compare gratuitamente el falo con i (sí, $latex \sqrt{-1}$) o cierto tipo de comportamiento neurótico con la banda de Möbius.
+* Que un señor vaya y compare gratuitamente el falo con i (sí, $\sqrt{-1}$) o cierto tipo de comportamiento neurótico con la banda de Möbius.
 * Que una señora vaya y funde las particularidades del lenguaje poético dizquen el teorema de elección o la hipótesis del continuo.
 * Que otra señora denuncie el carácter estructuralmente machista de la física argumentando que esta ha prestado más atención a la física de los sólidos, a los que asocia rasgos masculinos, antes que a la de los fluidos, en  los que encuentra características femeninas por todo aquello de la menstruación.
 * Que se le encuentren cuatro pies al teorema de Gödel o la paradoja e Russell para justificar cualquier tipo de marcianada.

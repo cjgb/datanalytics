@@ -27,7 +27,7 @@ Pero comencemos por uno simple: los árboles. Es moda pensar que, dado un predic
 
 [Esto](http://www-rohan.sdsu.edu/~jjfan/sta702/ctree.pdf) remite a la página 101 del [mítico libro de Breiman et al.](https://www.amazon.es/Classification-Regression-Wadsworth-Statistics-Probability/dp/0412048418) donde, al parecer, sugiere que
 
->[f]or categorical predictors that has many levels $latex \{b_1,\dots, b_L\}$, one way to reduce the number of splits is to rank the levels as $latex \{b_{l_1}, \dots, b_{l_L}\}$ according to the occurrence rate within each node $latex p\{1|b_{l_1}\} \le p\{1|b_{l_2}\} \le \dots \le p\{1|b_{l_L}\}$ and then treat it as an ordinal input.
+>[f]or categorical predictors that has many levels $\{b_1,\dots, b_L\}$, one way to reduce the number of splits is to rank the levels as $\{b_{l_1}, \dots, b_{l_L}\}$ according to the occurrence rate within each node $p\{1|b_{l_1}\} \le p\{1|b_{l_2}\} \le \dots \le p\{1|b_{l_L}\}$ and then treat it as an ordinal input.
 
 Es decir, sugiere esencialmente la codificación por impacto. Y diríase que `rpart` la trae de serie si es que leo correctamente el código en `anova.c` y `gini.c`.
 

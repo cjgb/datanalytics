@@ -35,7 +35,7 @@ Es decir, lo que es 4.8 veces mayor no es la probabilidad en sí sino el _odds r
 
 $$ { p_1/(1-p_1) \over p_2/(1-p_2)},$$
 
-donde $latex p_1$ y $latex p_2$ serían en este caso la probabilidad de suicidio de las personas que tienen armas de fuego y la de la de los que no las tienen, respectivamente.
+donde $p_1$ y $p_2$ serían en este caso la probabilidad de suicidio de las personas que tienen armas de fuego y la de la de los que no las tienen, respectivamente.
 
 La relación entre probabilidades y _odds ratios_ viene dada por el siguiente gráfico,
 
@@ -44,6 +44,6 @@ La relación entre probabilidades y _odds ratios_ viene dada por el siguiente gr
 
 también extraído de la Wikipedia, en el que se ve cómo las curvas _equiodsráticas_ comprenden parejas de probabilidades de muy diversa índole (**nota:** el gráfico muestra el logaritmo del _odds ratio_ y el logaritmo de 4,8 es alrededor de 1,5).
 
-Ah, eso sí, para eventos de pequeña probabilidad (como el discutido aquí), donde ambos $latex 1-p_i \approx 1$ es cierto que se cumpliría que la razón de las probabilidades sería _aproximadamente _de 4,8. Pero me temo que en esta ocasión la flauta ha sonado de casualidad.
+Ah, eso sí, para eventos de pequeña probabilidad (como el discutido aquí), donde ambos $1-p_i \approx 1$ es cierto que se cumpliría que la razón de las probabilidades sería _aproximadamente _de 4,8. Pero me temo que en esta ocasión la flauta ha sonado de casualidad.
 
 (**Otra nota:** El autor del _tuit_ original ha sido muy cordial conmigo cuando le he comunicado el error. Y no quiero que mi última frase se interprete como ataque personal sino como constatación del hecho de que vamos a tener que estar atentos a qué es lo que nos quieren decir cuando pronuncian la palabra _probabilidad _de la misma manera que ya nos estamos acostumbrando a interpretar con sumo escepticismo la palabra _billón_. ¡Y es que ni siquiera contamos con una traducción en condiciones!)

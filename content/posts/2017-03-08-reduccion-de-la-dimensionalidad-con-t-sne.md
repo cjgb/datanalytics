@@ -25,20 +25,20 @@ url: /2017/03/08/reduccion-de-la-dimensionalidad-con-t-sne/
 
 Voy a explicar aquí lo que he aprendido recientemente sobre t-SNE, una técnica para reducir la dimensionalidad de conjuntos de datos. Es una alternativa moderna a [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling) o [PCA](https://datanalytics.com/2014/07/24/datos-antes-y-despues-del-pca/).
 
-Partimos de puntos $latex x_1, \dots, x_n$ y buscamos otros $latex y_1, \dots, y_n$ en un espacio de menor dimensión. Para ello construiremos primero $latex n$ distribuciones de probabilidad, $latex p_i$ sobre los enteros $latex 1, \dots, n$ de forma que
+Partimos de puntos $x_1, \dots, x_n$ y buscamos otros $y_1, \dots, y_n$ en un espacio de menor dimensión. Para ello construiremos primero $n$ distribuciones de probabilidad, $p_i$ sobre los enteros $1, \dots, n$ de forma que
 
 $$ p_i(j) \propto d_x(x_i, x_j),$$
 
-donde $latex d_x$ es una determinada distancia entre puntos en el espacio original. De la misma manera, construimos sendas distribuciones de probabilidad, $latex q_i$,
+donde $d_x$ es una determinada distancia entre puntos en el espacio original. De la misma manera, construimos sendas distribuciones de probabilidad, $q_i$,
 
 
 $$ q_i(j) \propto d_y(y_i, y_j),$$
 
-donde $latex d_y$ es otra distancia entre puntos en el espacio de dimensión inferior.
+donde $d_y$ es otra distancia entre puntos en el espacio de dimensión inferior.
 
-Lo ideal sería encontrar puntos $latex y_1, \dots, y_n$ tales que cada $latex p_i$ sea lo más parecida posible a la correspondiente $q_i$. Por ejemplo, de entre todas las opciones posibles, de manera que la suma de las divergencias de Kullback-Leibler entre las parejas de distribuciones sea lo menor posible.
+Lo ideal sería encontrar puntos $y_1, \dots, y_n$ tales que cada $p_i$ sea lo más parecida posible a la correspondiente $q_i$. Por ejemplo, de entre todas las opciones posibles, de manera que la suma de las divergencias de Kullback-Leibler entre las parejas de distribuciones sea lo menor posible.
 
-Minimícese esa suma, i.e., encuéntrense los puntos $latex y_1, \dots, y_n$ que la minimizan, y ya.
+Minimícese esa suma, i.e., encuéntrense los puntos $y_1, \dots, y_n$ que la minimizan, y ya.
 
 Más:
 

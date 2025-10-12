@@ -32,6 +32,6 @@ y
 
 $$ s = \frac{1}{n} \sum_i (y_i - m)^2$$
 
-Por lo que la anchura de los _kernels_ es fija. Pero en mi problema hay zonas donde las $latex  y_i$ son del entorno de 1000 y otras donde oscilan entre 0 y 1.
+Por lo que la anchura de los _kernels_ es fija. Pero en mi problema hay zonas donde las $ y_i$ son del entorno de 1000 y otras donde oscilan entre 0 y 1.
 
 Muy afortunadamente para la autora de la tesis, ese problema no existe en los datos que usa de ejemplo. ¡Qué suerte la suya!

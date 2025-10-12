@@ -22,14 +22,14 @@ url: /2021/03/02/un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia
 
 Llegaré a la normal. Antes, algo sobre la entropía.
 
-Nos interesa saber y medir el grado de concentración de una distribución. Por ejemplo, si **X** es una variable aleatoria con función de densidad $latex f(x)$ y $latex x_1, \dots, x_n$ es una muestra de **X**, entonces, la expresión
+Nos interesa saber y medir el grado de concentración de una distribución. Por ejemplo, si **X** es una variable aleatoria con función de densidad $f(x)$ y $x_1, \dots, x_n$ es una muestra de **X**, entonces, la expresión
 
 $$ \frac{1}{n} \sum_i f(x_i)$$
 
 da una idea de la concentración vs dispersión de **X**:
 
-* Si es grande, muchos de los $latex x_i$ procederán de lugares donde $latex f$ es grande; en un caso discreto, que tal vez ayude a mejorar la intuición sobre la cosa, habría muchos valores repetidos.
-* Si es pequeño, muchos de los $latex x_i$ procederán de puntos de baja probabilidad; en un caso discreto, aparecerían muchos valores $latex x_i$ diversos y de probabilidad baja.
+* Si es grande, muchos de los $x_i$ procederán de lugares donde $f$ es grande; en un caso discreto, que tal vez ayude a mejorar la intuición sobre la cosa, habría muchos valores repetidos.
+* Si es pequeño, muchos de los $x_i$ procederán de puntos de baja probabilidad; en un caso discreto, aparecerían muchos valores $x_i$ diversos y de probabilidad baja.
 
 La expresión anterior converge a
 
@@ -37,7 +37,7 @@ $$ \int f^2(x) dx,$$
 
 que todavía no es _nuestra_ entropía, pero que mide, esencialmente, la misma cosa. Lo es, sin embargo, de los economistas, que llaman a lo anterior [índice de Hirschman](https://es.wikipedia.org/wiki/%C3%8Dndice_de_Herfindahl).
 
-No hay impedimento en usar $latex \phi(f(x))$ para obtener un resultado con una interpretación similar con tal de que $latex \phi$ sea una función creciente, como $latex \phi(x) = x^2$ o $latex \phi(x) = \log(x)$.
+No hay impedimento en usar $\phi(f(x))$ para obtener un resultado con una interpretación similar con tal de que $\phi$ sea una función creciente, como $\phi(x) = x^2$ o $\phi(x) = \log(x)$.
 
 Es tradición en probabilidad usar esa última opción (aunque con un signo menos delante, que invierte aunque no desnaturaliza la interpretación dada más arriba). La ventaja del uso del logaritmo son:
 

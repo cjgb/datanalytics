@@ -37,7 +37,7 @@ para obtener
 
 y averiguar dónde funciona y dónde no.
 
-Si usas la transformación $latex f(x) = x^{2/3}$, como recomiendan en cierto artículo que no viene a cuento identificar, harás
+Si usas la transformación $f(x) = x^{2/3}$, como recomiendan en cierto artículo que no viene a cuento identificar, harás
 
 {{< highlight R >}}
 res <- sapply(lambdas, function(lambda) sd((rpois(1e5, lambda)^(2/3))))

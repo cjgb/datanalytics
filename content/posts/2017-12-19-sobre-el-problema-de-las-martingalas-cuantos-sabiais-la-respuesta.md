@@ -26,7 +26,7 @@ Pues no se sabe bien. Además, habrá quién pudiéndola haber averiguado, prefi
 
 {{< x user="gilbellosta" id="939898283832553472" >}}
 
-la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?), la distribución del número de respuestas correctas sería $latex pN + X$, donde $latex N$ es el número total de respuestas, $latex p$ es la proporción de quienes sabe la respuesta y $latex X \sim B(N - pN, 1/3)$, suponiendo siempre que $latex pN$ es entero.
+la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponiendo que el conocimiento de la respuesta es algo binarizable (¿lo es?), la distribución del número de respuestas correctas sería $pN + X$, donde $N$ es el número total de respuestas, $p$ es la proporción de quienes sabe la respuesta y $X \sim B(N - pN, 1/3)$, suponiendo siempre que $pN$ es entero.
 
 En realidad, el número de aciertos, así considerado, es una mezcla de dos binomiales, una con probabilidad de acierto del 100% y otra del 33.3%. Así que
 

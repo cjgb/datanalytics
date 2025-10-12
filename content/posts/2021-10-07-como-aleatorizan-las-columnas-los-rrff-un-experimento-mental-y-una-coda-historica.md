@@ -41,7 +41,7 @@ Los RRFF, como es bien sabido, son conjuntos de `n` árboles construidos sobre l
 
 La alternativa que antes se le ocurriría a uno sería construir cada árbol con un conjunto de columnas distinto, elegido al azar. Pero el experimento mental anterior demuestra que ese camino es incorrecto. En efecto, si cada árbol se construye con 10 columnas elegidas al azar (y 10, la raíz cuadrada del número total de columnas es una elección típica en los RRFF), el 90% de ellos estarían construidos sobre puro ruido y solo habría señal en el 10% restante. La predicción por consenso entre todos sería un pequeño desastre.
 
-De hecho, si se tratan de estimar las probabilidades de las prediciones, se estarán consensuando un promedio del 10% de árboles con una probabilidad de asignación del 100% con un 90% de árboles con una probabilidad de asignación del 50% (ruido). Es decir, la probabilidad asignada a `pred = 1` cuando `y = 1` será de un $latex 0.1 \times 1 + 0.9 \times 0.5 = .55$, cuando debería ser del 100%.
+De hecho, si se tratan de estimar las probabilidades de las prediciones, se estarán consensuando un promedio del 10% de árboles con una probabilidad de asignación del 100% con un 90% de árboles con una probabilidad de asignación del 50% (ruido). Es decir, la probabilidad asignada a `pred = 1` cuando `y = 1` será de un $0.1 \times 1 + 0.9 \times 0.5 = .55$, cuando debería ser del 100%.
 
 (Nota: se puede simular lo anterior construyendo árboles de regresión (p.e., con `ranger`) que tengan una profundidad de 2. Luego se entenderá por qué.)
 

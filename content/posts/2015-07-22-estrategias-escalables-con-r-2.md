@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-07-22 08:13:34+00:00
-draft: false
 lastmod: '2025-04-06T19:05:54.567378'
 related:
 - 2014-07-09-estrategias-escalables-con-r.md
@@ -26,4 +25,4 @@ Recomiendo leer [_Scalable Strategies for Computing with Massive Data_](http://w
 * Los de memoria, para los que proponen e ilustran el uso del paquete [`bigmemory`](https://cran.r-project.org/web/packages/bigmemory/index.html).
 * Los de velocidad de ejecución, a los que se enfrentan paralelizando el código, tanto en una única máquina como en un clúster, con [`foreach`](https://cran.r-project.org/web/packages/foreach/index.html).
 
-En el artículo no solo discute los dos paquetes por separado sino que ilustra, además, cómo usarlos conjuntamente en su propuesta de estrategia escalable con R.
+En el artículo no solo discute los dos paquetes por separado sino que ilustra además cómo usarlos conjuntamente en su propuesta de estrategia escalable con R.

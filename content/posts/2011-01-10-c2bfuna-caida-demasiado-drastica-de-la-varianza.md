@@ -26,7 +26,7 @@ Vamos, que la cosa apestaba a bayesiana. Como la probabilidad de _éxito_ dado u
 
 $${ n \choose m }p^m (1-p)^{(n-m)},$$
 
-es decir, sigue una distribución binomial. Y los libros nos cuentan que su distribución de probabilidad conjugada es la [beta](http://es.wikipedia.org/wiki/Distribución_beta). Es decir, que si nuestro conocimiento del valor de la proporción y están descritos por una distribución _a priori_ $latex B(a,b)$, entonces, una vez extraída la muestra de la población, la distribución a posteriori del parámetro será $latex B(a+m, b+n-m)$ donde $latex n$ y $latex m$ son el número ensayos adicionales y el número de éxitos obtenidos en ellos respectivamente.
+es decir, sigue una distribución binomial. Y los libros nos cuentan que su distribución de probabilidad conjugada es la [beta](http://es.wikipedia.org/wiki/Distribución_beta). Es decir, que si nuestro conocimiento del valor de la proporción y están descritos por una distribución _a priori_ $B(a,b)$, entonces, una vez extraída la muestra de la población, la distribución a posteriori del parámetro será $B(a+m, b+n-m)$ donde $n$ y $m$ son el número ensayos adicionales y el número de éxitos obtenidos en ellos respectivamente.
 
 La pregunta que me trasladó mi cliente (un tipo inteligente y no sólo por haberme contratado) era si era razonable esperar un decrecimiento de la varianza de 0.11 a 0.01 entre la distribución a priori y la posteriori con _sólo_ 22 observaciones.
 
@@ -36,7 +36,7 @@ La pregunta que me trasladó mi cliente (un tipo inteligente y no sólo por habe
 $$\sigma^2 = \frac{ab}{(a+b+1)(a+b)^2} $$
 
 
-y si suponemos que el número de éxitos es igual al de fracasos, conforme $latex n$ crece se comporta asintóticamente como
+y si suponemos que el número de éxitos es igual al de fracasos, conforme $n$ crece se comporta asintóticamente como
 
 
 $$\sigma^2 \sim \frac{1/4 n^2}{(n+1)n^2} \sim \frac{1}{4n}$$
@@ -48,7 +48,7 @@ Y si sólo hay aciertos, decrece como
 $$\sigma^2 \sim \frac{ bn }{(n+b+1)(n+b)^2} \sim \frac{b}{n^2}$$
 
 
-(Nótese que desde un punto de vista frecuentista, la varianza de una media de variables aleatorias independientes decrece como $latex n^{-1}$. Resulta curioso que sea más lento. Casi seguro que tiene que ver porque en nuestro caso bayesiano hemos incluído mucha más información sobre las distribuciones involucradas.)
+(Nótese que desde un punto de vista frecuentista, la varianza de una media de variables aleatorias independientes decrece como $n^{-1}$. Resulta curioso que sea más lento. Casi seguro que tiene que ver porque en nuestro caso bayesiano hemos incluído mucha más información sobre las distribuciones involucradas.)
 
 Y sí, puede decrecer _tanto_ la varianza al obtener resultados de 22 observaciones adicionales. ¡Incluso poco es!
 

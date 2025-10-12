@@ -25,7 +25,7 @@ Tengo un parámetro, la `p` de una binomial, que supongo distribuido según una 
 Quiero construir un [intervalo de credibilidad](http://en.wikipedia.org/wiki/Credible_interval) para `p`, es decir, encontrar un subintervalo de [0,1]
 
 * dentro del cual la densidad de la beta sea mayor que fuera y que
-* capture $latex 1-\alpha$ de la probabilidad total.
+* capture $1-\alpha$ de la probabilidad total.
 
 Gráficamente,
 
@@ -62,6 +62,6 @@ lines(c(res$par[1], res$par[2]),
 La función que se optimiza tiene como argumentos los puntos inicial y final del intervalo y penaliza:
 
 * Que la densidad en dichos punto sea distinta.
-* Que la suma de las probabilidades de las colas descartadas sea distinta de $latex \alpha$.
+* Que la suma de las probabilidades de las colas descartadas sea distinta de $\alpha$.
 
 Una posible mejora en el código anterior sería pasarle a `optim` mejores puntos de partida: en lugar de la media de la distribución para ambos casos, la media más (y menos) dos veces la desviación estándar.

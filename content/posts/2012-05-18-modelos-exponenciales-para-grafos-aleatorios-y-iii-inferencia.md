@@ -30,7 +30,7 @@ Tradicionalmente, se utilizaba para estimar los parámetros de un grafo la llama
 
 $$ \log \left( \frac{P(v_{ij} = 1| y_{ij})}{P(v_{ij} = 0| y_{ij})} \right) = \sum_A \eta_A d_A(y)$$
 
-donde $latex v_{ij}$ es una _posible_ arista del grafo, $latex y_{ij}$ es el grafo original sin la arista $latex v_{ij}$ y $latex d_A(y)$ es una función —la función _diferencia_— que depende del tipo de configuración. Un poco más en cristiano, que la razón de probabilidades para que exista un cierto vértice puede modelarse como una ecuación lineal en los coeficientes $latex \eta_A$ y eso permite estimarlos usando algo similar a regresiones logísticas.
+donde $v_{ij}$ es una _posible_ arista del grafo, $y_{ij}$ es el grafo original sin la arista $v_{ij}$ y $d_A(y)$ es una función —la función _diferencia_— que depende del tipo de configuración. Un poco más en cristiano, que la razón de probabilidades para que exista un cierto vértice puede modelarse como una ecuación lineal en los coeficientes $\eta_A$ y eso permite estimarlos usando algo similar a regresiones logísticas.
 
 Si vale el símil, sería equivalente a plantear un modelo logístico para predecir la existencia o no existencia de un determinado vértice.
 

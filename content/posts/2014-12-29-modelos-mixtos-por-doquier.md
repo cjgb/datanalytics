@@ -39,12 +39,12 @@ o, mejor aún,
 
 $$ y_i \sim N(x_1 + x_2 + \dots, \sigma)$$
 
-si tal es el caso (y si no, adáptese). Supongamos que $latex x_1$ es el dichoso código postal. El truco consiste esencialmente en plantear el modelo
+si tal es el caso (y si no, adáptese). Supongamos que $x_1$ es el dichoso código postal. El truco consiste esencialmente en plantear el modelo
 
 $$ y_{ij} \sim N(x_i + x_2 + \dots, \sigma_1)$$
 $$ x_i \sim N(\mu, \sigma_2)$$
 
-donde $latex y_{ij}$ es la j-ésima observación en el i-ésimo código postal. ¡Se trata de uno de esos modelos mixtos (o jerárquicos) que se están convirtiendo en el martillo con el que golpeo casi todo lo que presumo clavo últimamente! De hecho, en la sintaxis de [`lme4`](http://cran.r-project.org/web/packages/lme4/index.html) el truco, que a estas alturas de la entrada ya no es tal, se formularía algo así como
+donde $y_{ij}$ es la j-ésima observación en el i-ésimo código postal. ¡Se trata de uno de esos modelos mixtos (o jerárquicos) que se están convirtiendo en el martillo con el que golpeo casi todo lo que presumo clavo últimamente! De hecho, en la sintaxis de [`lme4`](http://cran.r-project.org/web/packages/lme4/index.html) el truco, que a estas alturas de la entrada ya no es tal, se formularía algo así como
 
 {{< highlight R >}}
 lmer(y ~ x2 + x3 + ... + (1 | x1), data = mis.datos)

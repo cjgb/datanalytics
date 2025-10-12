@@ -25,9 +25,9 @@ Esta entrada muestra cómo afrontar (con Stan) un problema que encontré el otro
 
 El contexto es el siguiente: se hace un test A/B donde la variable de interés son unos conteos. Hay varios grupos (aquí los reduciré a dos) y los datos siguen _aproximadamente_ (aquí omitiré la parte de la inflación de ceros) una distribución de Poisson. Pero solo _aproximadamente_: existe sobredispersión, es decir, la varianza de los datos excede su media.
 
-Así que la formulación más natural, en la que cada $latex n_i \sim \text{Pois}(\lambda)$ no vale. Recurrir a la binomial negativa es una opción, la opción de libro viejo, pero destruye la interpretabilidad del modelo y obliga a renunciar a las propiedades más interesantes de la Poisson (p.e., la aditividad).
+Así que la formulación más natural, en la que cada $n_i \sim \text{Pois}(\lambda)$ no vale. Recurrir a la binomial negativa es una opción, la opción de libro viejo, pero destruye la interpretabilidad del modelo y obliga a renunciar a las propiedades más interesantes de la Poisson (p.e., la aditividad).
 
-Una mejor aproximación es interpretar la sobredispersión de la Poisson como efecto de la heterogeneidad de los sujetos. Es decir, que cada sujeto tiene su propia $latex \lambda$ y crear un modelo jerárquico: uno para las lambdas (p.e., $latex \lambda_i \sim \Gamma(a, b)$ y otro para los conteos, $latex n_i \sim \text{Pois}(\lambda_i)$.
+Una mejor aproximación es interpretar la sobredispersión de la Poisson como efecto de la heterogeneidad de los sujetos. Es decir, que cada sujeto tiene su propia $\lambda$ y crear un modelo jerárquico: uno para las lambdas (p.e., $\lambda_i \sim \Gamma(a, b)$ y otro para los conteos, $n_i \sim \text{Pois}(\lambda_i)$.
 
 Para lo cual, genero datos (obviamente, de acuerdo con mi modelo):
 

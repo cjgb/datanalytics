@@ -23,7 +23,7 @@ url: /2020/07/08/que-queda-de-la-estadistica-robusta-clasica/
 Estos días estoy muy atento a todo lo que tiene que ver con estadística robusta. El motivo es doble:
 
  * Estoy involucrado en un proyecto donde quieren ajustar ciertos modelos usando funciones de pérdida robustas (Huber, Tukey, etc.).
- * Hay una $latex 1 > p > 0$ de que me toque meter mano a MOMO y sus derivados para que lo del coronavirus no joda los contrafactuales de 2021 y sucesivos (¿bastará con eliminar unos cuantos meses de 2020?).
+ * Hay una $1 > p > 0$ de que me toque meter mano a MOMO y sus derivados para que lo del coronavirus no joda los contrafactuales de 2021 y sucesivos (¿bastará con eliminar unos cuantos meses de 2020?).
 
 Así las cosas, ha aterrizado en mi tableta[ _The Changing History of Robustness_](https://www.tandfonline.com/doi/abs/10.1198/tast.2010.10159), donde, el autor, Stigler:
 

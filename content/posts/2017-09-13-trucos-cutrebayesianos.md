@@ -22,16 +22,16 @@ url: /2017/09/13/trucos-cutrebayesianos/
 
 **El contexto**
 
-Cada día $latex i$ ocurren eventos de cierta naturaleza (transacciones, fallecimientos, infartos, etc.) que interesa contar.
+Cada día $i$ ocurren eventos de cierta naturaleza (transacciones, fallecimientos, infartos, etc.) que interesa contar.
 
 **El problema**
 
-El número de eventos $latex n_i$ que ocurren el día $latex i$ no se conoce el día $latex i$ sino que va siendo conocido progresivamente los días $latex i+1, \dots$. Pero hace falta una estimación de $latex n_i$ antes del fin del mundo.
+El número de eventos $n_i$ que ocurren el día $i$ no se conoce el día $i$ sino que va siendo conocido progresivamente los días $i+1, \dots$. Pero hace falta una estimación de $n_i$ antes del fin del mundo.
 
 **Los datos**
 
-* La distribución de los $latex n_i$ (basados en el histórico).
-* La proporción (probabilidad) $latex p_\Delta$ de eventos del día $latex i$ que se conocen el día $latex i+\Delta$.
+* La distribución de los $n_i$ (basados en el histórico).
+* La proporción (probabilidad) $p_\Delta$ de eventos del día $i$ que se conocen el día $i+\Delta$.
 
 **La solución prebayesiana**
 
@@ -39,11 +39,11 @@ Consiste en estimar $\hat{n}_{i+\Delta}$ como
 
 $$\frac{1}{p_\Delta} \sum_{j=1}^\Delta n_{ij}$$
 
-donde $latex n_ij$ es el número de eventos correspondientes al día $latex i$ notificados $latex j$ días después.
+donde $n_ij$ es el número de eventos correspondientes al día $i$ notificados $j$ días después.
 
 **El problema de la solución prebayesiana**
 
-Si $latex p_1 \sim 0.01$ y un buen día $latex n_{i1}$ es inhabitualmente alto, se sobreestima $latex n_i$ salvajemente.
+Si $p_1 \sim 0.01$ y un buen día $n_{i1}$ es inhabitualmente alto, se sobreestima $n_i$ salvajemente.
 
 **El truco cutrebayesiano**
 
@@ -51,7 +51,7 @@ Consiste en usar como estimación
 
 $$(1-p_{i\Delta})\mu + \sum_{j=1}^\Delta n_{ij}$$
 
-donde $latex \mu$ es la media de la distribución de los $latex n_i$.
+donde $\mu$ es la media de la distribución de los $n_i$.
 
 **Ejercicio**
 

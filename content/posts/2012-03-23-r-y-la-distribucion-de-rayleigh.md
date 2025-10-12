@@ -21,9 +21,9 @@ url: /2012/03/23/r-y-la-distribucion-de-rayleigh/
 
 En la reunión de usuarios de R de Madrid de ayer, Carlos Ortega estudió la [distribución en el tiempo del número de _bugs_ que aparecen en el código de R](http://prezi.com/wkkftr7hmsnt/bugs-en-r/) en cada versión. Indicó que es plausible que sigan una [distribución de Rayleigh](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Rayleigh), relativamente frecuente en ese tipo de contextos. E indicó que esta distribución, no tan conocida, tiene que ver (he olvidado lo que dijo exactamente) con dos normales independientes.
 
-Efectivamente, según la Wikipedia, la distribución de Rayleigh (de parámetro $latex \sigma$)admite la caracterización
+Efectivamente, según la Wikipedia, la distribución de Rayleigh (de parámetro $\sigma$)admite la caracterización
 
-$$ \sqrt{ X^2 + Y^2 }$ donde $latex X, Y \sim N(0, \sigma).$$
+$$ \sqrt{ X^2 + Y^2 }$ donde $X, Y \sim N(0, \sigma).$$
 
 Es decir, es el módulo de un vector bidimensional aleatorio cuyas componentes son normales con la misma varianza.
 
@@ -40,11 +40,11 @@ nuestra distribución de Rayleigh.
 
 La integral anterior la encontré hace muchos años, cuando tenía 19, en segundo de carrera, cuando nos explicaron —y aún lo recuerdo porque me pareció, en su día, pura taumaturgia— cómo muestrear la distribución normal.
 
-En efecto, aunque muestrear un valor normal es _difícil_, un razonamiento basado en lo que aparece más arriba permite muestrear dos valores normales independientes, es decir, un punto del plano $latex (X,Y)$ donde $latex X$ e $latex Y$ son normales: primero se obtiene el módulo de un punto en el plano usando la distribución de Rayleigh y luego el ángulo usando la distribución uniforme sobre la circunferencia.
+En efecto, aunque muestrear un valor normal es _difícil_, un razonamiento basado en lo que aparece más arriba permite muestrear dos valores normales independientes, es decir, un punto del plano $(X,Y)$ donde $X$ e $Y$ son normales: primero se obtiene el módulo de un punto en el plano usando la distribución de Rayleigh y luego el ángulo usando la distribución uniforme sobre la circunferencia.
 
-¿Y cómo se muestrea la distribución de Rayleigh? Invirtiendo la función de distribución: dado que por definición, $latex P(X$latex X = \sigma \sqrt{ -2 \log U},$
+¿Y cómo se muestrea la distribución de Rayleigh? Invirtiendo la función de distribución: dado que por definición, $P(X$X = \sigma \sqrt{ -2 \log U},$
 
-donde $latex U$ es uniforme.
+donde $U$ es uniforme.
 
 ¿Vale esto para algo? Pues mírese el código de R y, en particular, el fichero `snorm.c` y uno encontrará
 

@@ -24,9 +24,9 @@ Para cada cliente, la secuencia de transacciones (más o menos larga) puede cons
 
 $$ p(x_1, \dots, x_n) = \int_0^1 \prod p(x_i | \theta) p(\theta) d\theta$$
 
-donde $latex p(\theta)$ es una densidad de probabilidad soportada por [0,1]. Esa es la probabilidad _a priori_ y de la que me he ocupado en algunas entradas últimamente. Las sugerencias que uno encuentra en la literatura, según denuncié recientemente, remiten a la teoría de las prioris no informativas y muchos, en estos contextos, se decantarían por una beta $latex B(1,1)$.
+donde $p(\theta)$ es una densidad de probabilidad soportada por [0,1]. Esa es la probabilidad _a priori_ y de la que me he ocupado en algunas entradas últimamente. Las sugerencias que uno encuentra en la literatura, según denuncié recientemente, remiten a la teoría de las prioris no informativas y muchos, en estos contextos, se decantarían por una beta $B(1,1)$.
 
-Sin embargo, el teorema de de Finetti no queda en la representación anterior. Añade que $latex p(\theta)$ es la densidad correspondiente a la distribución de
+Sin embargo, el teorema de de Finetti no queda en la representación anterior. Añade que $p(\theta)$ es la densidad correspondiente a la distribución de
 
 $$ \lim_n \frac{\sum_i X_i}{n}$$
 
@@ -34,7 +34,7 @@ que puede aproximarse mediante (en nuestro caso), la colección de los promedios
 
 $$ \frac{\sum_i X_{ji}}{n_j}$$
 
-donde $latex X_{ji}$ es la $latex i$-ésima transacción del $latex j$-ésimo cliente (que realiza $latex n_j$ transacciones).
+donde $X_{ji}$ es la $i$-ésima transacción del $j$-ésimo cliente (que realiza $n_j$ transacciones).
 
 Y sí, esa es una distribución _a priori_ informativa construida al gusto de de Finetti.
 

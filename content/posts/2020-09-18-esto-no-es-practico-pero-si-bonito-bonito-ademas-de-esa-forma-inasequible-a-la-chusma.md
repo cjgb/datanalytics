@@ -21,7 +21,7 @@ title: Esto no es práctico, pero sí bonito; bonito, además, de esa forma inas
 url: /2020/09/18/esto-no-es-practico-pero-si-bonito-bonito-ademas-de-esa-forma-inasequible-a-la-chusma/
 ---
 
-Va de muestrear los números $latex 1, \dots, n$ que tienen asignadas probabilidades $latex p_1, \dots, p_n$. Una manera muy impráctica (en R, basta usar `sample`) y nada intuitiva de hacerlo es recurriendo a la distribución de Gumbel:
+Va de muestrear los números $1, \dots, n$ que tienen asignadas probabilidades $p_1, \dots, p_n$. Una manera muy impráctica (en R, basta usar `sample`) y nada intuitiva de hacerlo es recurriendo a la distribución de Gumbel:
 
 {{< highlight R >}}
 library(evd)

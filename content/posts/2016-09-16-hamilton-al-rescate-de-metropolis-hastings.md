@@ -21,22 +21,22 @@ title: Hamilton al rescate de Metropolis-Hastings
 url: /2016/09/16/hamilton-al-rescate-de-metropolis-hastings/
 ---
 
-El [algoritmo de Metropolis-Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) se usa para muestrear una variable aleatoria con función de densidad $latex p$. Permite crear una sucesión de puntos $latex x_i$ que se distribuye según $latex p$.
+El [algoritmo de Metropolis-Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) se usa para muestrear una variable aleatoria con función de densidad $p$. Permite crear una sucesión de puntos $x_i$ que se distribuye según $p$.
 
-Funciona de al siguiente manera: a partir de un punto $latex x_i$ se buscan candidatos a $latex x_{i+1}$ de la forma $latex x_i + \epsilon$, donde $latex \epsilon$ es, muy habitualmente, $latex N(0, \delta)$ y $latex \delta$ es pequeño. De otra manera, puntos próximos a $latex x_i$. Un candidato se acepta (y se convierte en $latex x_{i+1}$) o se rechaza (y toca probar con otro) según los valores de $latex p(x_i)$ y $latex p(x_i + \epsilon)$:
+Funciona de al siguiente manera: a partir de un punto $x_i$ se buscan candidatos a $x_{i+1}$ de la forma $x_i + \epsilon$, donde $\epsilon$ es, muy habitualmente, $N(0, \delta)$ y $\delta$ es pequeño. De otra manera, puntos próximos a $x_i$. Un candidato se acepta (y se convierte en $x_{i+1}$) o se rechaza (y toca probar con otro) según los valores de $p(x_i)$ y $p(x_i + \epsilon)$:
 
 * Si el segundo valor es mayor que el primero, se acepta el candidato.
 * Si no, se echa a suertes según su valor relativo.
 
-Todo bien hasta que (p.e., en altas dimensiones) se rechazan casi todos los candidatos y el proceso es muy lento. Además de que, por construcción, $latex x_{i+1}$ está cerca de $latex x_i$: la sucesión obtenida no es iid ni por el forro.
+Todo bien hasta que (p.e., en altas dimensiones) se rechazan casi todos los candidatos y el proceso es muy lento. Además de que, por construcción, $x_{i+1}$ está cerca de $x_i$: la sucesión obtenida no es iid ni por el forro.
 
 ¿Existe una manera de conseguir _mejores_ candidatos (i.e., con una menor tasa de rechazo)?
 
 El algoritmo arriba indicado explora todas las direcciones simétricamente. Pero algunas son mejores que otras (George Orwell dixit). ¿_Cuálas_ (una vecina dixit)?
 
-Pensemos en la mecánica clásica. Un objeto se mueve en el espacio impelido por el campo de fuerzas que genera una determinada energía potencial $latex U$. Seguirá órbitas que explorarán predominantemente zonas de potencial bajo y, desde luego, tendrá vedadas zonas de potencial infinito.
+Pensemos en la mecánica clásica. Un objeto se mueve en el espacio impelido por el campo de fuerzas que genera una determinada energía potencial $U$. Seguirá órbitas que explorarán predominantemente zonas de potencial bajo y, desde luego, tendrá vedadas zonas de potencial infinito.
 
-¿Podríamos usar esa propiedad para muestrear $latex p$? Sí si consideramos, como potencial $latex -\log p(x)$. Con una elección de equivalente de energía cinética (¿por qué no $latex v^2$?) se puede construir el hamiltoniano y comenzar a trazar órbitas para obtener candidatos.
+¿Podríamos usar esa propiedad para muestrear $p$? Sí si consideramos, como potencial $-\log p(x)$. Con una elección de equivalente de energía cinética (¿por qué no $v^2$?) se puede construir el hamiltoniano y comenzar a trazar órbitas para obtener candidatos.
 
 Dos problemas:
 

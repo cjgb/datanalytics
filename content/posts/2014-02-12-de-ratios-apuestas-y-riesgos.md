@@ -57,7 +57,7 @@ por lo que
 
 $$ exp(\beta)=\frac{p_1/(1-p_1)}{p_0/(1-p_0)}$$,
 
-nuestro OR. Y claro, como $latex \beta$ tiene asociados intervalos de confianza, etc. uno puede _hacer estadística_ y, por ejemplo, construir gráficos tales como
+nuestro OR. Y claro, como $\beta$ tiene asociados intervalos de confianza, etc. uno puede _hacer estadística_ y, por ejemplo, construir gráficos tales como
 
 [![multiodds1](/wp-uploads/2014/02/multiodds1.png#center)
 ](/wp-uploads/2014/02/multiodds1.png#center)

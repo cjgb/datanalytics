@@ -41,9 +41,9 @@ Para bien o para mal, la manera de construir esos rangos vienen a depender de re
 
 $$\frac{\theta - \hat{\theta}}{\sqrt{n}} \sim N(0, \sigma),$$
 
-que permiten construir intervalos alrededor precisamente del valor desconocido $latex \theta$, pero no del conocido $latex \hat{\theta}$.
+que permiten construir intervalos alrededor precisamente del valor desconocido $\theta$, pero no del conocido $\hat{\theta}$.
 
-Nótese cómo nuestros actuales IC son intervalos alrededor de $latex \hat{\theta}$. ¿Cómo se le puede dar la vuelta al intervalo?
+Nótese cómo nuestros actuales IC son intervalos alrededor de $\hat{\theta}$. ¿Cómo se le puede dar la vuelta al intervalo?
 
 **Acto III**
 

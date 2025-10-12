@@ -89,13 +89,13 @@ Si _s_ es una permutación dada de letras, le asigné la _probabilidad_ de ocurr
 
 $$ P(s) = \prod_i M( s(c_i), s(c_{i+1}) )$$
 
-donde $latex c_i$ son los caracteres que conforman la cadena que quería desencriptar y $latex M$, una _matriz de transición_. (Nota: abusaré del lenguaje y diré que $latex P$ es una probabilidad aun cuando no lo es propiamente: debería dividir por una constante normalizadora para que la suma $latex \sum_s P(s)=1$; pero el que no sea posible o práctico calcular dicha constante no altera para nada el resto de la exposición).
+donde $c_i$ son los caracteres que conforman la cadena que quería desencriptar y $M$, una _matriz de transición_. (Nota: abusaré del lenguaje y diré que $P$ es una probabilidad aun cuando no lo es propiamente: debería dividir por una constante normalizadora para que la suma $\sum_s P(s)=1$; pero el que no sea posible o práctico calcular dicha constante no altera para nada el resto de la exposición).
 
 En efecto, en español, dada una letra, existe una probabilidad dada de que le siga una letra determinada. Por ejemplo, a la _q_ casi siempre (si no siempre) le sigue la _u_. Después de una hache suele haber una vocal. Etc. Combinaciones como _zy_ o _bf_ son mucho menos probables que _za_ o _ba_ respectivamente.
 
 Con mi definición de probabilidad, penalizo aquellas permutaciones que dan lugar a concatenaciones _exoespañolas_ (es decir, inhabituales en el discurso en español).
 
-Para construir $latex M$ utilicé un texto que tenía a mano, el Quijote, y lo procesé de la siguiente manera:
+Para construir $M$ utilicé un texto que tenía a mano, el Quijote, y lo procesé de la siguiente manera:
 
 {{< highlight R >}}
 quijote <- readLines( "http://www.gutenberg.org/cache/epub/2000/pg2000.txt", encoding = "UTF-8" )

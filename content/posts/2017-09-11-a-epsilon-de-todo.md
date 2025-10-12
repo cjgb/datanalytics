@@ -20,10 +20,10 @@ url: /2017/09/11/a-epsilon-de-todo/
 
 Usé a principios del verano una metáfora matemática como justificación de los contenidos de un curso que dicté pero que se puede extender al conocimiento en general. Más bien, a una estrategia para adquirirlos. La estrategia de estar a un ? de todo.
 
-La metáfora está basada en el siguiente hecho: en dimensiones altas, casi toda la esfera unidad está a distancia ? de su corteza. En efecto, el volumen de una esfera de radio unitario en dimensión $latex d$ es $latex K_d$ y la de una esfera de radio $latex 1-\epsilon$ es $latex K_d (1-\epsilon)^d$. El ratio entre ambas cantidades es $latex (1-\epsilon)^{-d}$, que tiende a cero con $latex d$.
+La metáfora está basada en el siguiente hecho: en dimensiones altas, casi toda la esfera unidad está a distancia ? de su corteza. En efecto, el volumen de una esfera de radio unitario en dimensión $d$ es $K_d$ y la de una esfera de radio $1-\epsilon$ es $K_d (1-\epsilon)^d$. El ratio entre ambas cantidades es $(1-\epsilon)^{-d}$, que tiende a cero con $d$.
 
 ![](/wp-uploads/2017/09/esfera.png#center)
 
-Si damos por bueno que el conocimiento es (altamente) multidimensional y representamos lo que merece ser sabido como el contenido de la esfera unidad, basta con no saber demasiado, $latex K_d (1-\epsilon)^d$ (aunque debidamente elegido) para estar a un $latex \epsilon$ (una consulta a StackOverflow, una búsqueda en Google, una lectura diagonal sobre el capítulo de un libro adecuado) de todo.
+Si damos por bueno que el conocimiento es (altamente) multidimensional y representamos lo que merece ser sabido como el contenido de la esfera unidad, basta con no saber demasiado, $K_d (1-\epsilon)^d$ (aunque debidamente elegido) para estar a un $\epsilon$ (una consulta a StackOverflow, una búsqueda en Google, una lectura diagonal sobre el capítulo de un libro adecuado) de todo.
 
 **Nota:** Esta es una de las pocas entradas mías de índole motivacional, automotivacional, autoayuda, engaño y autoengaño. Usadla, si os parece bien, siempre a sabiendas de ello.
