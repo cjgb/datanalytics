@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-08-05 08:13:57+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:52:30.179877'
 related:
 - 2014-07-03-nueva-version-del-informe-quien-es-quien-en-el-big-data-en-espana.md

@@ -21,6 +21,6 @@ url: /2015/08/27/tres-monedas-y-un-argumento-falaz/
 
 Tiras tres monedas. ¿Cuál es la probabilidad de obtener tres valores (cara o cruz) iguales? Es, lo sabemos todos, 0.25: de las ocho opciones posibles, solo dos cumplen.
 
-Ahora, el argumento falaz —dizque de Francis Galton— que _prueba_ que dicha probabilidad es de 0.5. Es así: de las tres monedas, dos tienen que coincidir necesariamente en valor; entonces la tercera, con probabilidad 0.5, coincidirá con los anteriores y con la misma discrepará.
+Ahora, el argumento falaz ---dizque de Francis Galton--- que _prueba_ que dicha probabilidad es de 0.5. Es así: de las tres monedas, dos tienen que coincidir necesariamente en valor; entonces la tercera, con probabilidad 0.5, coincidirá con los anteriores y con la misma discrepará.
 
 ¿Dónde está la falacia?

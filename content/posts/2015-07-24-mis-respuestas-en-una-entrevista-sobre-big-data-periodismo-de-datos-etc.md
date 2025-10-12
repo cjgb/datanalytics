@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2015-07-24 08:13:15+00:00
-draft: false
 lastmod: '2025-04-06T19:12:43.451028'
 related:
 - 2022-01-25-universo-muestra-big-data.md
@@ -42,7 +41,7 @@ Menos de lo que dan a entender. Me hacen gracia en ocasiones comentarios que leo
 
 _Empresas como Google, Facebook, Amazon, Apple… son empresas aventajadas en este tema, en un futuro ¿todas las empresas seguirán este modelo? ¿tienen realmente una ventaja sobre el resto?_
 
-¿Todas las empresas? ¿Incluido el café de la esquina? No, claro que no. Disponer de datos abundantes sobre gente es una ventaja competitiva. Pero, ¿es la única? Mi banco tiene una oficina cerca de mi casa en la que puedo hablar con una persona que me concoce, conoce mi negocio y con la que puedo hablar sobre préstamos, hipotecas, etc. Es algo que yo no puedo hacer con Google. Google no tiene una oficina cerca. Mi banco tiene una ventaja competitiva con respecto a Google: esa cercanía.
+¿Todas las empresas? ¿Incluido el café de la esquina? No, claro que no. Disponer de datos abundantes sobre gente es una ventaja competitiva. Pero, ¿es la única? Mi banco tiene una oficina cerca de mi casa en la que puedo hablar con una persona que me conoce, conoce mi negocio y con la que puedo hablar sobre préstamos, hipotecas, etc. Es algo que yo no puedo hacer con Google. Google no tiene una oficina cerca. Mi banco tiene una ventaja competitiva con respecto a Google: esa cercanía.
 
 Me hace gracia que los bancos quieran ser Google. Y odio que, por el camino, dilapiden esa ventaja competitiva que tienen con respecto a esos competidores big data.
 

@@ -27,8 +27,7 @@ Venía yo de construir unos modelos similares y le pedí los datos. Quería ver 
 
 Estos días, muchos navegadores (incluido, ahora, el tuyo) han mostrado la imagen
 
-[![tarjetas_rojas](/wp-uploads/2015/09/tarjetas_rojas.png#center)
-](/wp-uploads/2015/09/tarjetas_rojas.png#center)
+![tarjetas_rojas](/wp-uploads/2015/09/tarjetas_rojas.png#center)
 
 que representa lo que su leyenda reza: diversos grupos de investigación participaron en un experimento consistente en analizar independientemente un mismo conjunto de datos y tratar con él de responder si los jugadores de fútbol _de color_ (negro, para ser más precisos) reciben proporcionalmente más tarjetas rojas que el resto.
 

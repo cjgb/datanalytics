@@ -44,7 +44,7 @@ Por supuesto, ignora los casos en que no sucede ningún éxito, donde no hay sus
 res <- res[rowSums(res) > 0, ]
 {{< / highlight >}}
 
-Y sí, como cabe esperar, el número de secuencias éxito-éxito viene ser el mismo que el de secuencias éxito-fracaso:
+Y sí, como cabe esperar, el número de secuencias éxito-éxito viene a ser el mismo que el de secuencias éxito-fracaso:
 
 {{< highlight R >}}
 colSums(res)

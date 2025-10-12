@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-07-29 08:13:28+00:00
-draft: false
 lastmod: '2025-04-06T18:58:33.483772'
 related:
 - 2024-07-03-cortos-stats.md
@@ -21,6 +20,6 @@ url: /2015/07/29/una-sociedad-para-la-eliminacion-del-coeficiente-de-correlacion
 
 [Este artículo](https://www.stat.berkeley.edu/~brill/Papers/jwtint4.pdf) comienza así:
 
->At a young statistical age John Tukey joined Charlie Winsor's Society for the Supression of Correlation Coefficients.
+> En los inicios de su carrera estadística, John Tukey se unió a la Sociedad para la Eliminación del Coeficiente de Correlación de Charlie Winsor.
 
-¿De verdad que no os intriga el resto?
+¿No os intriga el resto?
