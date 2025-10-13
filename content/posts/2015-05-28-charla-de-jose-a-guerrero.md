@@ -4,7 +4,7 @@ categories:
 - anuncio
 - ciencia de datos
 date: 2015-05-28 08:13:00+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:46:21.349219'
 related:
 - 2017-02-03-nueva-charla-antikaggle-contra-la-homeopatia-de-datos.md
@@ -24,13 +24,10 @@ El 9 de julio de 2015, José A. Guerrero dará una charla con título "_Machine 
 
 * Origen y situación actual de las competiciones de Análisis de Datos
 * Análisis predictivo de datos de Alta Competición vs Proyectos en el Mundo Real:
-
 	* Objetivos
 	* Estrategias
 	* Herramientas
-
 * _Tips and tricks_:
-
 	* ¿Qué haría en una competición de datos que nunca haría en un proyecto real?
 	* ¿Qué haría en un proyecto real que nunca haría en una competición de datos?
 

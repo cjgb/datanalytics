@@ -4,7 +4,7 @@ categories:
 - anuncio
 - estadística
 date: 2018-02-09 08:13:32+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:53:32.520471'
 related:
 - 2018-03-19-lecciones-estadisticas-que-pueden-extraerse-de-los-disturbios-de-lavapies.md

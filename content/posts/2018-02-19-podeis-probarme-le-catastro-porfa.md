@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2018-02-19 08:13:59+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:44:26.866067'
 related:
 - 2017-10-02-catastro-un-paquete-de-r-para-consultar-la-api-del-catastro.md

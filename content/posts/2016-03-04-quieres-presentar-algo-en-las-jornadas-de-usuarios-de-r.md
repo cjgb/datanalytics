@@ -4,7 +4,7 @@ categories:
 - anuncio
 - r
 date: 2016-03-04 09:13:44+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:13.208885'
 related:
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md
