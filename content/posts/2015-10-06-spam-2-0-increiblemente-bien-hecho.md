@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2015-10-06 08:13:50+00:00
-draft: false
 lastmod: '2025-04-06T18:56:09.756947'
 related:
 - 2014-06-12-hoy-he-echado-de-menos-scala.md
@@ -20,20 +19,20 @@ url: /2015/10/06/spam-2-0-increiblemente-bien-hecho/
 
 Recibí recientemente este correo (con los enlaces que aparecen en él; solo he eliminado el apellido de la remitente):
 
->Subject: Carlos - Scala resource
+> Subject: Carlos - Scala resource
 >
->Hi Carlos,
+> Hi Carlos,
 >
->I was doing some research for our students here at Udemy on people using Scala resources and when I came across [your site](https://datanalytics.com/2014/06/12/hoy-he-echado-de-menos-scala/), saw you were using the tutorial from [Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language)).
+> I was doing some research for our students here at Udemy on people using Scala resources and when I came across [your site](https://datanalytics.com/2014/06/12/hoy-he-echado-de-menos-scala/), saw you were using the tutorial from [Wikipedia](http://en.wikipedia.org/wiki/Scala_(programming_language)).
 >
->We really like that resource, and actually created our own that we think is a perfect supplement! This [Scala tutorial](https://blog.udemy.com/scala-tutorial-getting-started-with-scala/) is text-and image based, easy to search for quick answers, and super helpful for anyone: as a base for learning or as a reference guide.
+> We really like that resource, and actually created our own that we think is a perfect supplement! This [Scala tutorial](https://blog.udemy.com/scala-tutorial-getting-started-with-scala/) is text-and image based, easy to search for quick answers, and super helpful for anyone: as a base for learning or as a reference guide.
 >
->Do you think this would be a helpful resource? If so, please use it on your site. I'd love to see more people learning Scala!
+> Do you think this would be a helpful resource? If so, please use it on your site. I'd love to see more people learning Scala!
 >
->Thanks so much,
->Molly
+> Thanks so much,
+> Molly
 >
->Molly [...] | molly.[...]@udemy.com
+> Molly [...] | molly.[...]@udemy.com
 
 El correo:
 

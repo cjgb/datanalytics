@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-10-02 08:13:54+00:00
-draft: false
 lastmod: '2025-04-06T19:04:13.691589'
 related:
 - 2014-05-14-y-sin-embargo-te-quiero.md
@@ -14,6 +13,7 @@ related:
 tags:
 - programación funcional
 - purrr
+- paquetes
 - r
 title: 'purrr: otro dialecto para la programación funcional en R'
 url: /2015/10/02/purrr-otro-dialecto-para-la-programacion-funcional-en-r/
@@ -25,6 +25,6 @@ R es un lenguaje oportunista: ni del todo funcional, ni del todo orientado a obj
 
 R continúa teniendo importantes elementos funcionales: de siempre ha contado con funciones como `apply` y sus amigas. Existen incluso `Reduce`, `Filter` y otras habituales en lenguajes funcionales puros. Los paquetes `plyr` y `dplyr` abundan en los aspectos funcionales del lenguaje.
 
-El paquete `purrr` nos trae nuevas funciones, tales como `map` (y algunos derivadas, como `map_dbl` o `map_int`) y `zip`, más azúcar sintáctico y motivos adicionales para que nos pasemos —aunque algunos nos resistamos— el feísimo operador `%>%`. Hay más información [aquí](http://blog.rstudio.org/2015/09/29/purrr-0-1-0/).
+El paquete `purrr` nos trae nuevas funciones, tales como `map` (y algunas derivadas, como `map_dbl` o `map_int`) y `zip`, más azúcar sintáctico y motivos adicionales para que nos pasemos —aunque algunos nos resistamos— el feísimo operador `%>%`. Hay más información [aquí](http://blog.rstudio.org/2015/09/29/purrr-0-1-0/).
 
-Hay gente que me llama para que enseñe cursos de R. Dentro de muy poco tendré responderles: ¿pero qué dialecto de R quieres aprender?
+Hay gente que me llama para que enseñe cursos de R. Dentro de muy poco tendré que responderles: ¿pero qué dialecto de R quieres aprender?

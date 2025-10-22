@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-10-14 08:13:25+00:00
-draft: false
-lastmod: '2025-04-06T19:12:42.741931'
+lastmod: '2025-10-22'
 related:
 - 2018-02-07-politicas-y-tarifas-medias-y-deciles.md
 - 2011-05-26-el-problema-de-la-media-el-problema-con-la-media.md
@@ -22,7 +21,7 @@ url: /2015/10/14/del-hombre-medio-a-la-factura-media/
 
 Del hombre medio (u _homme moyen_ de Quetelet para los eruditos) ya hemos hablado antes: es un concepto decimonónico, de la época de los albores de la estadística, que permite argumentar alrededor de una construcción inexistente: el sujeto que está en la media de todo, la medida de la normalidad.
 
-Pero buscad "factura media" en Google (entrecomillado) y veréis como en el siglo XXI todavía se argumenta alrededor de construcciones ideales similares. Para determinar si un servicio sube o baja de precio, reguladores, periodistas, asociaciones de consumidores, etc. examinan  la _facture moyenne_.
+Pero buscad "factura media" en Google (entrecomillado) y veréis cómo en el siglo XXI todavía se argumenta alrededor de construcciones ideales similares. Para determinar si un servicio sube o baja de precio, reguladores, periodistas, asociaciones de consumidores, etc. examinan  la _facture moyenne_.
 
 ¿Y?
 

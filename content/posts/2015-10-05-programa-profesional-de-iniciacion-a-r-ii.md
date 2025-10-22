@@ -5,7 +5,7 @@ categories:
 - cursos
 - r
 date: 2015-10-05 08:13:46+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:09:59.045089'
 related:
 - 2015-04-21-programa-profesional-de-iniciacion-a-r.md

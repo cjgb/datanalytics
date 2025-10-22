@@ -4,7 +4,7 @@ categories:
 - anuncio
 - r
 date: 2015-09-28 08:13:03+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:53:21.835237'
 related:
 - 2014-05-05-las-vi-jornadas-de-usuarios-de-r-en-santiago.md

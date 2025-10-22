@@ -22,7 +22,7 @@ title: Madrid decide, propone, vota, etc.
 url: /2015/10/09/madrid-decide-propone-vota-etc/
 ---
 
-De siempre, no sé por qué motivo, me interesaron esas cosas relacionadas con la democracia directa. En la feria del libro del año nosecuántos compré un libro al respecto (que presté y no me han devuelto). He seguido de cerca del desarrollo de plataformas como [Agora](https://agoravoting.com/) y conozco a alguno de sus desarrolladores. Di guerrita en Suiza a los locales para que me explicasen pros, contras y funcionamientos de lo que allí tienen instalado. Estoy al tanto de los problemas que ha planteado la democracia directa en California (sobre lo que recomiendo [esto](http://www.economist.com/node/18548119)). Etc.
+De siempre, no sé por qué motivo, me interesaron esas cosas relacionadas con la democracia directa. En la feria del libro del año nosecuántos compré un libro al respecto (que presté y no me han devuelto). He seguido de cerca el desarrollo de plataformas como [Agora](https://agoravoting.com/) y conozco a alguno de sus desarrolladores. Di guerrita en Suiza a los locales para que me explicasen pros, contras y funcionamientos de lo que allí tienen instalado. Estoy al tanto de los problemas que ha planteado la democracia directa en California (sobre lo que recomiendo [esto](http://www.economist.com/node/18548119)). Etc.
 
 En Madrid se ha creado una [plataforma de democracia directa](https://decide.madrid.es/proposals). Para que una propuesta genere una respuesta de la administración tiene que recoger el apoyo de un 2% del censo, unas 53000 personas.
 
@@ -66,13 +66,11 @@ names(kk) <- NULL
 
 extraje el número de apoyos de las propuestas el 24 de septiembre y hoy 8 de octubre. En la última fecha, la distribución de apoyos era
 
-[![propuestas_madrid_octubre](/wp-uploads/2015/10/propuestas_madrid_octubre.png#center)
-](/wp-uploads/2015/10/propuestas_madrid_octubre.png#center)
+![propuestas_madrid_octubre](/wp-uploads/2015/10/propuestas_madrid_octubre.png#center)
 
 teniendo [la que más](https://decide.madrid.es/proposals/199) 3633 apoyos. La variación en los últimos días del número de votos (no en la mejor visualización del mundo) es
 
-[![propuestas_madrid_delta](/wp-uploads/2015/10/propuestas_madrid_delta.png#center)
-](/wp-uploads/2015/10/propuestas_madrid_delta.png#center)
+![propuestas_madrid_delta](/wp-uploads/2015/10/propuestas_madrid_delta.png#center)
 
 siendo el mayor incremento de 663 votos (con una mediana de 4).
 

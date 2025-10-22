@@ -14,6 +14,7 @@ related:
 tags:
 - estadística
 - tibshirani
+- glm
 title: Los nueve artículos favoritos de Tibshirani
 url: /2013/01/08/los-nueve-articulos-favoritos-de-tibshirani/
 ---
@@ -21,7 +22,7 @@ url: /2013/01/08/los-nueve-articulos-favoritos-de-tibshirani/
 Rob Tibshirani ha seleccionado recientemente una lista de [nueve artículos de estadística publicados desde 1970](http://normaldeviate.wordpress.com/2012/12/21/guest-post-rob-tibshirani/). Son estos:
 
 * _Regression models and life tables (with discussion)_ (Cox 1972). Según Tibshirani, David Cox merece el Nobel de Medicina por él.
-* _Generalized linear models_ (Nelder and Wedderburn 1972). Es la base del paquete glim de R.
+* _Generalized linear models_ (Nelder and Wedderburn 1972). Es la base del paquete glm de R.
 * _Maximum Likelihood from Incomplete Data via the {EM} Algorithm (with discussion)_ (Dempster, Laird, and Rubin 1977).
 * _Bootstrap methods: another look at the jackknife_ (Efron 1979).
 * _Classification and regression trees_ (Breiman, Friedman, Olshen and Stone 1984).

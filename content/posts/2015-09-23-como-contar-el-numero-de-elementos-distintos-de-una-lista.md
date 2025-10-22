@@ -4,7 +4,6 @@ categories:
 - programación
 - probabilidad
 date: 2015-09-23 08:13:47+00:00
-draft: false
 lastmod: '2025-04-06T18:50:05.520127'
 related:
 - 2010-08-17-una-tarea-para-mis-lectores.md
@@ -21,9 +20,9 @@ url: /2015/09/23/como-contar-el-numero-de-elementos-distintos-de-una-lista/
 
 El problema es sencillo: se cuentan y ya.
 
-Pero hay quienes tienen cantidades ingentes de elementos que contar. Tantos que por razones de memoria, etc., es inviable hacer _lo obvio_, es decir, guardar una lista de claves (elementos distintos) y valores (el número de ocurrencias) sumando uno a los últimos cada vez que ocurra una de las primeras.
+Pero hay quienes tienen cantidades ingentes de elementos que contar. Tantos que, por razones de falta de memoria, etc., es inviable hacer _lo obvio_, es decir, guardar una lista de claves (elementos distintos) y valores (el número de ocurrencias) sumando uno a los últimos conforme se van observando las primeras.
 
-Por ese motivo, existen algoritmos que aproximan el número de elementos distintos de una lista. Existe, de hecho, toda una industria dedicada a crear tal tipo de algoritmos.
+Por ese motivo, existen algoritmos que aproximan el número de elementos distintos de una lista. Más aún, existe toda una industria dedicada a crearlos.
 
 Veamos una versión simplificada de uno de ellos. A cada elemento se le calcula un _hash_. Un _hash_ es una función no continua. Por ejemplo, como esta:
 
@@ -34,7 +33,7 @@ carlos@chino:~$ echo "hola" | md5sum
 
 Convierte la cadena `"hola"` en un número (en hexadecimal), el que aparece arriba. Si se escribe en binario, se puede contar el número de ceros con el que principia.
 
-Si hubiese muchos elementos distintos y se calculase el número de ceros con el que comienza el _hash_ de cada uno de ellos aumentaría la probabilidad de que hubiese más y más. Si el número máximo de ceros es pequeño, el número de elementos distintos será, probablemente, pequeño. Si es grande, es probable que el número de ceros máximo al principio de la cadena sea mayor.
+Si hubiese muchos elementos distintos y se calculase el número de ceros con el que comienza el _hash_ de cada uno de ellos aumentaría la probabilidad de que apareciesen más y más. Si el número máximo de ceros es pequeño, el número de elementos distintos será, probablemente, pequeño. Si es grande, es probable que el número de ceros máximo al principio de la cadena sea mayor.
 
 Con eso y un poquito más, se tiene [`HyperLogLog`](http://antirez.com/news/75). [Aquí](http://content.research.neustar.biz/blog/hll.html) se lo puede ver en funcionamiento.
 

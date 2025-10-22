@@ -20,7 +20,7 @@ title: Las humanidades, ¿socialmente útiles?
 url: /2015/09/21/las-humanidades-socialmente-utiles/
 ---
 
-Sí, supongo. Pero, ¿y si se tiene en cuenta el coste de oportunidad? Porque si haces A, desatiendes B. Y así parece haberlo visto el gobierno japonés, que [ha ordenado cerrar o reducir su oferta en dichas áreas a las universidades públicas](https://www.timeshighereducation.com/news/social-sciences-and-humanities-faculties-close-japan-after-ministerial-decree). A la vez que las invita a concentrarse en aquellas disciplinas _alineadas con los intereses de la sociedad_.
+Sí, supongo. Pero, ¿y si se tiene en cuenta el coste de oportunidad? Porque si haces A, desatiendes B. Y así parece haberlo visto el gobierno japonés, que [ha ordenado cerrar o reducir la oferta de plazas en dichas disciplinas a las universidades públicas](https://www.timeshighereducation.com/news/social-sciences-and-humanities-faculties-close-japan-after-ministerial-decree). A la vez que las invita a concentrarse en aquellas otras _alineadas con los intereses de la sociedad_.
 
 Se puede leer más sobre el asunto y su contexto [aquí](http://www.wsj.com/articles/japan-rethinks-higher-education-in-skills-push-1438571119).
 
