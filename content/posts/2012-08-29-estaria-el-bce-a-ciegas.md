@@ -4,8 +4,8 @@ categories:
 - estadística
 - números
 date: 2012-08-29 07:22:21+00:00
-draft: false
-lastmod: '2025-04-06T19:01:27.131207'
+noindex: true
+lastmod: '2025-10-23'
 related:
 - 2012-06-12-por-que-me-quejo-del-banco-de-espana.md
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
