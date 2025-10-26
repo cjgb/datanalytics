@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2015-11-04 08:13:28+00:00
-draft: false
-lastmod: '2025-04-06T19:03:09.411311'
+lastmod: '2025-10-23'
 related:
 - 2016-04-18-visualizacion-de-k-medias-y-dbscan.md
 - 2011-07-19-clustering-ii-c2bfes-replicable.md
@@ -27,9 +26,8 @@ Por el otro, tengo cierta aversión a las cosas que proceden de los congresos de
 
 En esencia, funciona así: se fijan dos parámetros, `e` y `n`. Un punto es _central_ si a distancia `e` o menor tiene, al menos, otros `n` puntos. Los _clústers_ los conforman:
 
-* Puntos centrales que están a una distancia menor de `e` de algún otro (los amigos de amigos son amigos).
-* Puntos que están a menos de `e` de los anteriores (aunque no sean centrales).
-
+- Puntos centrales que están a una distancia menor de `e` de algún otro (los amigos de amigos son amigos).
+- Puntos que están a menos de `e` de los anteriores (aunque no sean centrales).
 
 No se fija el número de _clústers_ de antemano. Los únicos parámetros son los anteriores. Los puntos que no caen en ningún _clúster_ son ruido (y se ignoran); esto es novedad.
 

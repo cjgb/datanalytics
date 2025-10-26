@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - cursos
 date: 2015-11-03 08:13:51+00:00
-draft: false
-lastmod: '2025-04-06T19:09:33.726666'
+noindex: true
+lastmod: '2025-10-23'
 related:
 - 2015-04-21-programa-profesional-de-iniciacion-a-r.md
 - 2012-06-01-curso-de-r-gratuito-no-presencial.md
@@ -19,7 +19,7 @@ title: Esta tarde doy un curso abierto y gratuito de introducción a la programa
 url: /2015/11/03/esta-tarde-doy-un-curso-abierto-y-gratuito-de-introduccion-a-la-programacion/
 ---
 
-Efectivamente, esta tarde doy un curso de unas tres horas de introducción a la programación. Es gratuito y está abierto a quien quiera pasarse (hasta completar aforo). Será en las [oficinas de KSchool](https://www.google.es/maps/place/KSchool/) de 18:30 a 21:00. Los interesados pueden escribir a `elsa.duran en kschool punto com` para reservar la plaza.
+Efectivamente, esta tarde doy un curso de unas tres horas de introducción a la programación. Es gratuito y está abierto a quien quiera pasarse (hasta completar el aforo). Será en las [oficinas de KSchool](https://www.google.es/maps/place/KSchool/) de 18:30 a 21:00. Los interesados pueden escribir a `elsa.duran en kschool punto com` para reservar la plaza.
 
 La sesión es un preámbulo a mi [curso de R](http://kschool.com/cursos/programa-profesional-de-iniciacion-r/) pero independiente del mismo. Está pensado para aquellos que no han programado apenas y que quieren tomarlo. Pero es de interés general y, reitero, independiente del antedicho curso.
 
