@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2010-05-20 19:29:12+00:00
-lastmod: '2025-04-06T18:49:22.298987'
+lastmod: '2025-10-29'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2012-02-23-higiene-numerica-para-periodistas.md
@@ -22,13 +22,13 @@ Para el lector moderno, la estadística parece emanar de los fabulosos avances m
 
 Pero nos han hecho apartar la mirada a muchos estadísticos de lo que hasta entonces había constituido la razón de ser de la profesión: entender a través de sus regularidades numéricas los fenómenos demográficos, sociológicos, políticos, económicos, de salud pública, etc. _que realmente importaban_.
 
-Así, leeremos en manuales de estadística acerca la cota de Cramér-Rao pero no a interpretar, a aprehender, cifras como la del número de nacidos hoy mismo en el mundo (que excede a la de la población entera de algunas provincias españolas), el fabuloso tamaño del fondo de contingencia de la UE para rescates de países miembros o las asignaciones que de nuestro dinero hacen los presupuestos generales del estado (¿En qué gastamos más: en educación, en sanidad o en defensa? ¿Cuánto dinero aporta cada español al año al tan manido Ministerio de Igualdad?).
+Así, leeremos en manuales de estadística acerca de la cota de Cramér-Rao pero no a interpretar, a aprehender, cifras como la del número de nacidos hoy mismo en el mundo (que excede a la de la población entera de algunas provincias españolas), el fabuloso tamaño del fondo de contingencia de la UE para rescates de países miembros o las asignaciones que de nuestro dinero hacen los presupuestos generales del estado (¿En qué gastamos más: en educación, en sanidad o en defensa? ¿Cuánto dinero aporta cada español al año al tan manido Ministerio de Igualdad?).
 
 Hacerse verdaderamente con las cifras, despertar en el lector atento una curiosidad crítica por su significado y valor, es el objetivo que me planteo en esta nueva serie de entradas.
 
 Y no sólo porque
 
->Usted puede elegir entre tener unas ciertas nociones claras de matemática o no tenerlas, pero debe saber que si no las tiene, es usted una persona mucho más manipulable que en el caso contrario.
+> Usted puede elegir entre tener unas ciertas nociones claras de matemática o no tenerlas, pero debe saber que si no las tiene, es usted una persona mucho más manipulable que en el caso contrario.
 
 (que es una cita de [John Allen Paulos](http://es.wikipedia.org/wiki/El_hombre_anum%C3%A9rico) posiblemente apócrifa porque no consigo encontrarla en mis copias (física en español y electrónica en inglés) del libro al que se supone que pertenece), sino por las [consecuencias socialmente devastadoras que puede llegar a acarrear nuestro indolente anumerismo](http://www.economist.com/business-finance/displaystory.cfm?story_id=16113147).
 

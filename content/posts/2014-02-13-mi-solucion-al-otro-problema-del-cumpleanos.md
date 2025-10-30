@@ -44,7 +44,7 @@ f(2286)
 #0.4994142
 {{< / highlight >}}
 
-Lo que hay al final son los ensayos últimos de mi mecanismo de cutrebúsqueda binaria para acotar la solución usando la función `f`. Esta función calcula la probabilidad de que una distribución aleatoria de `n` bolas en `k` urnas no deje vacía nunguna de ellas.
+Lo que hay al final son los ensayos últimos de mi mecanismo de cutrebúsqueda binaria para acotar la solución usando la función `f`. Esta función calcula la probabilidad de que una distribución aleatoria de `n` bolas en `k` urnas no deje vacía ninguna de ellas.
 
 La solución es recursiva y está basada en el hecho de que la probabilidad buscada es la complementaria de que: la distribución deje solo una urna vacía _xor_ la distribución deje solo dos urnas vacías _xor_, etc.
 

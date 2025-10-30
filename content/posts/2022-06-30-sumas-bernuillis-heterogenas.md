@@ -5,7 +5,7 @@ categories:
 date: 2022-06-30
 description: Análisis de la suma de variables de Bernoulli heterogéneas más notas
   sobre su importancia real e histórica
-lastmod: '2025-04-06T18:50:27.575663'
+lastmod: '2025-10-29'
 related:
 - 2011-01-10-c2bfuna-caida-demasiado-drastica-de-la-varianza.md
 - 2023-07-20-coeficientes-no-identificables.md
@@ -40,13 +40,13 @@ etc. (Vale, bueno, $\sigma^2(X) \le \sigma^2(Y)$, no necesariamente de forma est
 
 ## II.
 
-Así que si tenemos variables aleatorias de Bernoulli con probabilidades distintas y las sumamos (o promediamos) obtenemos una _cosa_ con menos variabilidad que si todas tuviesen la misma $p$. Es un resultado un poco contraintuitivo porque uno esperaría ---tal vez en un nivel lingüístico--- que agregando componentes desiguales habría de obtenerse un resultado más variable que si todos fuesen iguales. Aunque los trucos del _street fighting statistics_ nos dicen que si tomamos dos bernoullis con $p = 0$ y $p = 1$, su suma, siempre 1, va a tener menor variabilidad que la suma de dos bernoullis con $p = .5$. O que si tenemos varias bernouillis con $p_i$ tales que su media es $.5$, su varianza nunca puede exceder $n/4$ (dado que la función $p(1-p)$ tiene su máximo en $p=.5$).
+Así que si tenemos variables aleatorias de Bernoulli con probabilidades distintas y las sumamos (o promediamos) obtenemos una _cosa_ con menos variabilidad que si todas tuviesen la misma $p$. Es un resultado un poco contraintuitivo porque uno esperaría ---tal vez en un nivel lingüístico--- que agregando componentes desiguales habría de obtenerse un resultado más variable que si todos fuesen iguales. Aunque los trucos del _street fighting statistics_ nos dicen que si tomamos dos bernoullis con $p = 0$ y $p = 1$, su suma, siempre 1, va a tener menor variabilidad que la suma de dos bernoullis con $p = .5$. O que si tenemos varias bernoullis con $p_i$ tales que su media es $.5$, su varianza nunca puede exceder $n/4$ (dado que la función $p(1-p)$ tiene su máximo en $p=.5$).
 
 ## III.
 
 Este problema tiene, entiendo, su importancia en el muestreo. Queremos saber a través de muestras cuánta gente, p.e., tiene perro. Te pueden decir que el 21.87% de la gente lo tiene. Pero eso no significa que la probabilidad de que alguien tenga perro es esa. Cada persona podría tener una propensión distinta a tener perro y ese 21.87% sería la media de esas $p_i$ desiguales.
 
-Afortunadamente, el resultado anterior nos dice que el error cometido por esa estimación es menor no solo del que típicamente se construye usando $p=.5$ (el ḿaximo posible), sino que podría ser menor incluso que el obtenido usando $p=0.2187$.
+Afortunadamente, el resultado anterior nos dice que el error cometido por esa estimación es menor no solo del que típicamente se construye usando $p=.5$ (el máximo posible), sino que podría ser menor incluso que el obtenido usando $p=0.2187$.
 
 ## IV.
 

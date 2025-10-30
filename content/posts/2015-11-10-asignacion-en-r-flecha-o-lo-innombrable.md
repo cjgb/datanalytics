@@ -18,7 +18,7 @@ title: 'Asignación en R: ¿flecha o lo innombrable?'
 url: /2015/11/10/asignacion-en-r-flecha-o-lo-innombrable/
 ---
 
-Alguien que no quiero nombrar (pero que sabe de sobra quién es) me comentaba el otro día algo que no sabía de la asignación en R: las presuntas diferencias entre `<-` e `=`. Que en resumen eran:
+Alguien a quien no quiero nombrar (pero que sabe de sobra quién es) me comentaba el otro día algo que no sabía de la asignación en R: las presuntas diferencias entre `<-` e `=`. Que en resumen eran:
 
 * ambos asignan
 * pero `=` hace una copia del objeto asignado

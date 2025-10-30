@@ -4,7 +4,7 @@ categories:
 - cursos
 - estadística
 date: 2014-11-06 07:13:28+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:19.265935'
 related:
 - 2012-10-22-nuevo-curso-gratuito-de-estadistica-con-r.md
@@ -23,8 +23,8 @@ Hace unos años, [Juanjo Gibaja](https://twitter.com/jjgibaja) y yo organizamos 
 
 Hoy uno de nuestros antiguos alumnos nos ha agradecido que _le señalásemos el camino de esos superpoderes_:
 
-[![cencerrilla](/wp-uploads/2014/11/cencerrilla.png#center)
-](/wp-uploads/2014/11/cencerrilla.png#center)
+![cencerrilla](/wp-uploads/2014/11/cencerrilla.png#center)
+
 
 Y nos ha regalado un vídeo, _Statistics Without the Agonizing Pain_,
 
