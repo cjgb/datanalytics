@@ -20,10 +20,10 @@ title: '"Sobre las analogías en el derecho (y las matemáticas)" en el Almacén
 url: /2025/10/21/almacen-derecho/
 ---
 
-Casi por error han aparecido publicadas unas líneas mías en el Almacén de Derecho. El artículo se titula [_Sobre las analogías en el derecho (y las matemáticas)_](https://almacendederecho.org/op-ed-sobre-las-analogias-en-el-derecho-y-las-matematicas) y trata de varias cosas:
+Diríase que por error, han aparecido publicadas unas líneas mías en el [Almacén de Derecho](https://almacendederecho.org/). El artículo se titula [_Sobre las analogías en el derecho (y las matemáticas)_](https://almacendederecho.org/op-ed-sobre-las-analogias-en-el-derecho-y-las-matematicas) y trata de varias cosas:
 
 - El problema de determinar cuándo un razonamiento analógico es fiable.
 - El problema anterior circunscrito al ámbito del derecho.
-- Cómo lo entiende un matemático que lo contempla desde afuera (y desde la más absoluta ignorancia).
+- Cómo lo entiende un matemático que lo contempla desde afuera (y, por supuesto, desde la más absoluta ignorancia en la materia).
 
-Es decir, no le va a interesar a casi nadie. Pero si te pica la curiosidad, no te prives de hacer clic en la cosa.
+Es decir, no le va a interesar a nadie. Pero si te pica la curiosidad, no te prives de hacer clic en la cosa.
