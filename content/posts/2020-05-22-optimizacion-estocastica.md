@@ -21,7 +21,7 @@ title: Optimización estocástica
 url: /2020/05/22/optimizacion-estocastica/
 ---
 
-Una de los proyectos en los que estoy trabajando últimamente está relacionado con un problema de optimización no lineal: tengo un modelo (o una familia de modelos) no lineales con una serie de parámetros, unos datos y se trata de lo que no mercería más explicación: encontrar los que minimizan cierta función de error.
+Uno de los proyectos en los que estoy trabajando últimamente está relacionado con un problema de optimización no lineal: tengo un modelo (o una familia de modelos) no lineales con una serie de parámetros, unos datos y se trata de lo que no mercería más explicación: encontrar los que minimizan cierta función de error.
 
 Tengo implementadas dos vías:
 
@@ -32,4 +32,4 @@ Ambas tienen sus ventajas y desventajas. La una es rápida y la otra no; la una 
 
 Pero lo curioso de la cosa es que la vía _stan_ me permite solucionar un problema de optimización numérica sin usar un optimizador explícito. Por lo que uno podría preguntarse: ¿es posible optimizar directamente usando técnicas similares a las que subyacen a Stan?
 
-Y una respuesta (positiva) puede encontrarse en _[CEoptim: Cross-Entropy R Package for Optimization](https://www.jstatsoft.org/article/view/v076i08)_.
+Y una respuesta (positiva) puede encontrarse en [_CEoptim: Cross-Entropy R Package for Optimization_](https://www.jstatsoft.org/article/view/v076i08).
