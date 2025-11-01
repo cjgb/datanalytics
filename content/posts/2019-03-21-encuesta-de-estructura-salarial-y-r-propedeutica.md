@@ -3,9 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 - r
-date: 2019-03-21 08:13:41+00:00
-draft: false
-lastmod: '2025-04-06T19:00:57.649637'
+date: 2019-03-21
+lastmod: '2025-11-01'
 related:
 - 2015-03-09-unas-preguntas-incomodas.md
 - 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
@@ -72,6 +71,6 @@ salario.medio.anual(dat[dat$SEXO == "Mujer",])
 
 si uno osa aventurarse en los procelosísismos corolarios de
 
->El salario medio anual de las mujeres fue de 19.744,82 euros, con un crecimiento del 1,2% respecto a 2013. El de los hombres fue de 25.727,24 euros, con un aumento del 0,2.
+> El salario medio anual de las mujeres fue de 19.744,82 euros, con un crecimiento del 1,2% respecto a 2013. El de los hombres fue de 25.727,24 euros, con un aumento del 0,2.
 
 **Coda:** Casi se me olvida comentar que he probado sin éxito el diletantísimo código en R con el que ahora acompaña el INE a los microdatos de la EES. [`MicroDatosEs`](https://cran.r-project.org/web/packages/MicroDatosEs/index.html)funciona mejor (y, al menos, funciona). Y me reservo la opinión sobre quienes reinventan la rueda a mi costa.

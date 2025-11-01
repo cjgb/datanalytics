@@ -3,9 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - nlp
 - r
-date: 2019-03-22 08:13:37+00:00
-draft: false
-lastmod: '2025-04-06T18:53:56.184031'
+date: 2019-03-22
+lastmod: '2025-11-01'
 related:
 - 2015-05-07-para-los-que-buscais-proyectos-de-analisis-visualizacion-de-datos.md
 - 2012-09-28-tutorial-como-analizar-datos-de-twitter-con-r.md

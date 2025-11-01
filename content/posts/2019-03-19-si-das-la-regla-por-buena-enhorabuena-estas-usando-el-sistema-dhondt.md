@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2019-03-19 16:55:07+00:00
-draft: false
-lastmod: '2025-04-06T18:50:36.918502'
+lastmod: '2025-11-01'
 related:
 - 2019-01-07-dhondt-vs-lm.md
 - 2012-04-04-de-dhondt-a-banzhaf.md
@@ -18,10 +17,10 @@ title: Si das la regla por buena, enhorabuena, estás usando el sistema d'Hondt
 url: /2019/03/19/si-das-la-regla-por-buena-enhorabuena-estas-usando-el-sistema-dhondt/
 ---
 
-En una circunscripción un partido obtiene $N$ votos. Si manda al congreso $n$ diputados, cada uno de ellos representaría a $N/n$ votantes.
+En una circunscripción, un partido obtiene $N$ votos. Si manda al congreso $n$ diputados, cada uno de ellos representaría a $N/n$ votantes.
 
 En una circunscripción, una serie de partidos obtienen $N_i$ votos. Los primeros $j$ diputados del partido $i$ representarían a $N_i / j$ votantes.
 
-Si la circunscripción manda al parlamento a $n$ diputados, tiene sentido enviar a aquellos que representan a más votantes. Si das la regla por buena, enhorabuena, estás usando el [sistema d'Hondt](https://es.wikipedia.org/wiki/Sistema_d%27Hondt).
+Si la circunscripción manda al parlamento a $n$ diputados, tiene sentido enviar a aquellos que representan a más votantes. Si das la regla por buena, ¡enhorabuena, estás usando el [sistema d'Hondt](https://es.wikipedia.org/wiki/Sistema_d%27Hondt)!
 
 **Nota:** la versión larga de esta entrada está [aquí](https://1datomas.com/politica/por-que-funciona-asi-el-sistema-dhondt/).

@@ -21,7 +21,7 @@ url: /2019/03/12/la-simplicisima-mas-no-por-ello-menos-util-distribucion-de-dira
 
 Ayer alguien desconocía la distribución de probabilidad de Dirac. No sé ni si se llama así y no aparece en prácticamente ninguno de los manuales al uso.
 
-Es una distribución de probabilidad aleatoria: concentra toda su masa en un punto determinado. Por ejemplo, en el nueve:
+Es una distribución de probabilidad no aleatoria (o degenerada): concentra toda su masa en un punto determinado. Por ejemplo, en el nueve:
 
 ![](/wp-uploads/2019/03/random_number_generator.gif)
 
