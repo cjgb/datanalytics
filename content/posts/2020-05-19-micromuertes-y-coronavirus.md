@@ -31,7 +31,7 @@ Lo del coronavirus podría, debería, haber vuelto a poner en valor el concepto 
 
 Todos estamos ahítos de infográficos tales como
 
-![](/wp-uploads/2020/05/risk_levels.jpg)
+![](/img/2020/05/risk_levels.jpg)
 
 que, por falta de referencia, nos dicen más bien poco sobre qué actividades podríamos permitirnos. Porque todos, en nuestro día a día, intercambiamos micromuertes por ocio o negocio: asumíamos de manera muy natural el riesgo de trasladarnos a nuestros centros de trabajo, a restaurantes, a festivales de música, etc. porque el beneficio compensaba con creces el riesgo incurrido.
 

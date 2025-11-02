@@ -26,7 +26,7 @@ Veamos pues cuál era la capacidad de los _ruters_ (¿por qué nadie dice enruta
 
 Por otro lado, si asumimos una estimación de [150 palabras por minuto](http://en.wikipedia.org/wiki/Words_per_minute) de una longitud media de tres caracteres, obtenemos 26kB por hora. Multiplicando, salen 1.1826e+20 bytes o, redondeado, 10^8 TB. Esto viene a ser cosa de 100GB por persona actualmente sobre la faz de la tierra.
 
-[![](/wp-uploads/2010/07/modem-prehistorico-569x316.jpg)
-](/wp-uploads/2010/07/modem-prehistorico-569x316.jpg)
+[![](/img/2010/07/modem-prehistorico-569x316.jpg)
+](/img/2010/07/modem-prehistorico-569x316.jpg)
 
 Va a resultar que aquellos _módems_ que veíamos en _Juegos de Guerra_ no eran, no, tan malos.

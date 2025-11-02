@@ -56,8 +56,8 @@ plot(mi.muestra$x, mi.muestra$y,
 
 es decir, así:
 
-[![](/wp-uploads/2012/02/datos_clasificacion.png#center)
-](/wp-uploads/2012/02/datos_clasificacion.png#center)
+[![](/img/2012/02/datos_clasificacion.png#center)
+](/img/2012/02/datos_clasificacion.png#center)
 
 Los puntos rojos están distribuidos según $P(x|R)$, una mezcla de tres distribuciones normales esféricas con centros en los puntos (-1,1), (0,0) y (1,-1) y desviación estándar 0.5. Los verdes, según $P(x|V)$, una distribución similar aunque con centros en (-1,-1) y (1,1):
 
@@ -86,13 +86,13 @@ points(muestra.v$x, muestra.v$y,col="green")
 
 Gráficamente,
 
-[![](/wp-uploads/2012/02/rojos.png#center)
-](/wp-uploads/2012/02/rojos.png#center)
+[![](/img/2012/02/rojos.png#center)
+](/img/2012/02/rojos.png#center)
 
 y
 
-[![](/wp-uploads/2012/02/verdes.png#center)
-](/wp-uploads/2012/02/verdes.png#center)
+[![](/img/2012/02/verdes.png#center)
+](/img/2012/02/verdes.png#center)
 
 La frontera bayesiana óptima está basada en el siguiente razonamiento, valga la redundancia, bayesiano:
 
@@ -122,7 +122,7 @@ points(mi.muestra$x, mi.muestra$y,
 
 que tiene, para este caso concreto, el siguiente aspecto:
 
-[![](/wp-uploads/2012/02/frontera_bayesiana.png#center)
-](/wp-uploads/2012/02/frontera_bayesiana.png#center)
+[![](/img/2012/02/frontera_bayesiana.png#center)
+](/img/2012/02/frontera_bayesiana.png#center)
 
 Y mañana, ¡a Iguazú!

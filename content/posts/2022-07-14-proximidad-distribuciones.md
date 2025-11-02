@@ -26,7 +26,7 @@ Por motivos que quedarán claros en entradas futuras, he estado investigando sob
 
 Supongamos que tenemos dos variables aleatorias $X, Y \in R^N$ y queremos ver estudiar en qué medida son próximas sus distribuciones. Idealmente, además, utilizando un método que pueda utilizarse a través de muestras de dichas variables.
 
-![](/wp-uploads/2022/07/high_dimensiona_distribution.png)
+![](/img/2022/07/high_dimensiona_distribution.png)
 
 Una cosa que uno trataría de comprobar es la diferencia de medias entre ambas distribuciones, es decir, $\Vert E(X) - E(Y) \Vert$. Obviamente, incluso aunque esa distancia sea cero, no hay garantías de que las distribuciones coincidan, pero es un primer paso. Lo es en la siguiente dirección: si $\phi$ es una función de $R^N$ en $R^M$ (donde, posiblemente, $M > N$ o, habitualmente, $M \gg N$), entonces cabe estudiar $\Vert E(\phi(X)) - E(\phi(Y)) \Vert$.
 

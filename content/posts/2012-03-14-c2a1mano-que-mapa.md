@@ -78,8 +78,8 @@ by(tmp, tmp$id, function(x) foo(x$lon, x$lat, status = x$status))
 
 Que da como resultado (a la hora en la que lo he ejecutado, cuando los zaragozanos están ya casi todos en su casa)
 
-[![](/wp-uploads/2012/03/trafico_zgz.png#center)
-](/wp-uploads/2012/03/trafico_zgz.png#center)
+[![](/img/2012/03/trafico_zgz.png#center)
+](/img/2012/03/trafico_zgz.png#center)
 
 Pero me ha sabido a poco y he querido hacerlo todavía más a lo maño. Así que he añadido
 
@@ -103,8 +103,8 @@ by(tmp.mercator, tmp$id, function(x) foo(x$x, x$y, status = x$status))
 {{< / highlight >}}
 
 Y he obtenido
-[![](/wp-uploads/2012/03/trafico_zgz_osm.png#center)
-](/wp-uploads/2012/03/trafico_zgz_osm.png#center)
+[![](/img/2012/03/trafico_zgz_osm.png#center)
+](/img/2012/03/trafico_zgz_osm.png#center)
 
 Hay algunas cosas que me gustaría poder añadir, minucias, pero que estoy demasiado ocupado para investigar y que me gustaría dejar de tarea a mis lectores:
 

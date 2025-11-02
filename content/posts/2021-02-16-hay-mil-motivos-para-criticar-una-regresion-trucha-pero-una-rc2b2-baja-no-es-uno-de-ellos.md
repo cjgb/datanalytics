@@ -59,7 +59,7 @@ ggplot(res, aes(x = x, y = y)) + geom_point(alpha = .2) +
   facet_wrap(~sigma)
 {{< / highlight >}}
 
-![](/wp-uploads/2021/02/r_squared_lm.png#center)
+![](/img/2021/02/r_squared_lm.png#center)
 
 El ajuste es siempre el mismo y es ---queda propuesto como ejercicio para el lector--- perfectamente compatible con la formulación original del modelo. Sin embargo:
 
@@ -74,7 +74,7 @@ plot(r.squared$sigma,
       main = "r cuadrado según el error\nirreductible del modelo")
 {{< / highlight >}}
 
-![](/wp-uploads/2021/02/r_squared_sigma.png#center)
+![](/img/2021/02/r_squared_sigma.png#center)
 
 ¡Oh! La R² se desploma.
 

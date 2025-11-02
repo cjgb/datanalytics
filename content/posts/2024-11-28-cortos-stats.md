@@ -50,4 +50,4 @@ se explican las matemáticas del
 [Okapi BM25](https://en.wikipedia.org/wiki/Okapi_BM25),
 una fórmula usada para estimar la relevancia de los documentos obtenidos en una búsqueda y que tiene esta pinta:
 
-![BM25](/wp-uploads/2024/bm25.png#center)
+![BM25](/img/2024/bm25.png#center)

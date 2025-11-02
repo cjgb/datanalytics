@@ -24,7 +24,7 @@ Muchas cosas han cambiado en los últimos 20 años. De hecho, acaba de hacer 20 
 
 Sin embargo,
 
-![taxis_espana](/wp-uploads/2016/02/taxis_espana.png#center)
+![taxis_espana](/img/2016/02/taxis_espana.png#center)
 
 (Las cifras anteriores corresponden a taxis de las capitales de provincia; hay datos para otras [en el INE](http://www.ine.es/jaxi/tabla.do?path=/t10/p109/l0/&file=00001.px&type=pcaxis&L=0)).
 

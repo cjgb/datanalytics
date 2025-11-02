@@ -27,6 +27,6 @@ o que lo grande va arriba y lo pequeño, abajo.
 
 Ahora, el famoso
 
-![](/wp-uploads/2023/gun_deaths_florida.png#center)
+![](/img/2023/gun_deaths_florida.png#center)
 
 El gráfico viola injustificadamente una de las convenciones gráficas más arraigadas y uno no sabe si es por afán de originalidad o para plantar en los cerebros de quienes leen deprisa y sin cuidado la idea contraria de la que rectamente sugieren los datos.

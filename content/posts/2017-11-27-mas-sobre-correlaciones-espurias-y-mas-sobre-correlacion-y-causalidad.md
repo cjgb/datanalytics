@@ -40,7 +40,7 @@ Una es la causalidad. Si hay causalidad, hay correlación. Bien.
 
 Otra es la casualidad. V.g.,
 
-![](/wp-uploads/2017/11/correlation_causality_mountains.png#center)
+![](/img/2017/11/correlation_causality_mountains.png#center)
 
 Internet está lleno de ejemplos. Basta con buscar "_correlation isn't causation_" o jugar un poco con [Google Correlate](https://www.google.com/trends/correlate) para convencerse de ello.
 
@@ -48,7 +48,7 @@ Existe una tercera que consiste en jugar con los gráficos, sus escalas, etc. pa
 
 La cuarta es más enjundiosa. Y nada como un diagrama para sintetizarla:
 
-![](/wp-uploads/2017/11/correlation_causation_common_cause.jpg)
+![](/img/2017/11/correlation_causation_common_cause.jpg)
 
 
 El gráfico anterior explora tres posibles circunstancias en las que pueden aparecer correlaciones entre dos variables (enfermedad y exposición). La primera, la más trivial y a la que se atiene el artículo, es la causal. La última es menos relevante para lo que traemos entre manos. La fundamental es la de en medio: existe una causa común que modula tanto la exposición como la enfermedad.

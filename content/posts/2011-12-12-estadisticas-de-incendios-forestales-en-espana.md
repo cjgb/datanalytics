@@ -31,8 +31,8 @@ El Ministerio de Medio Ambiente recoge [estadísticas sobre incendios forestales
 
 
 
-[![](/wp-uploads/2011/12/mapa_1_tcm7-25944.jpg)
-](/wp-uploads/2011/12/mapa_1_tcm7-25944.jpg)
+[![](/img/2011/12/mapa_1_tcm7-25944.jpg)
+](/img/2011/12/mapa_1_tcm7-25944.jpg)
 
 Los datos de la estadística definitiva _proceden del proceso informático_ (¡menos mal!) _de los Partes de Incendio Forestal, [...] que recoge para cada incendio más de 150 campos_. Estos datos proceden de las comunidades autónomas, que los envían al ministerio _dentro del primer trimestre del año siguiente_ (¡inaudita presteza!).
 

@@ -32,8 +32,8 @@ url: /2011/07/20/y-kenia-que-eh/
 Etc.
 
 
-[![](/wp-uploads/2011/07/opendata_kenia.png#center)
-](/wp-uploads/2011/07/opendata_kenia.png#center)
+[![](/img/2011/07/opendata_kenia.png#center)
+](/img/2011/07/opendata_kenia.png#center)
 
 
 Pero, y [Kenia](http://www.opendata.go.ke/) qué, ¿eh? ¿Nos vamos a dejar ganar por Kenia?

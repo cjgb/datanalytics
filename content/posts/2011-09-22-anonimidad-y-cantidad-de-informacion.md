@@ -52,8 +52,8 @@ $$ H( X_1, \dots, X_n ) = H( X_1 | X_2, \dots ) + H( X_2 | X_3, \dots ) + H( X_n
 
 La fórmula anterior necesita alguna explicación. La primera igualdad es una consecuencia casi directa de la definición de $H$. El símbolo $H( X| Y)$ representa la cantidad de información adicional que se obtiene tras preguntar acerca de $X$ conocida $Y$: por ejemplo, la cantidad de información que aporta la pregunta "¿es calvo?" después de saber que el sujeto es una mujer de menos de 30 años es mucho menor que si se sabe que es un hombre mayor de 50.
 
-[![](/wp-uploads/2011/09/xlogx.png#center)
-](/wp-uploads/2011/09/xlogx.png#center)
+[![](/img/2011/09/xlogx.png#center)
+](/img/2011/09/xlogx.png#center)
 
 La desigualdad es una consecuencia directa de la [desigualdad de Jensen](https://datanalytics.com/2011/05/26/el-problema-de-la-media-el-problema-con-la-media/) y es, de hecho, una igualdad cuando las variables aleatorias $X_1, \dots, X_n$ son independientes. ¡Y es que la función $f(x) = -x \log x$, además de convexa, tiene unas propiedades algebraicas la mar de amenas!
 

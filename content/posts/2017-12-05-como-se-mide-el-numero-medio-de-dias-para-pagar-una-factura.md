@@ -26,7 +26,7 @@ _[Esta entrada tiene una errata de la que doy fe [aquí](https://datanalytics.co
 
 Pues casi seguro que mal. Por eso hay que enfrentarse a noticia como [esta](https://elpais.com/economia/2017/12/02/actualidad/1512236215_757573.html) con escepticismo. En el cuerpo del artículo aparece el gráfico
 
-![](/wp-uploads/2017/12/morosidad_ayuntamientos.jpg)
+![](/img/2017/12/morosidad_ayuntamientos.jpg)
 
 Que invita a preguntarse cosas como: ¿habrán tenido en cuenta las facturas aún no pagadas? (Es decir, las _censuradas_, en la nomenclatura del análisis de la supervivencia). Si se ignoran, el tiempo se estará infraestimando seriamente.
 

@@ -25,7 +25,7 @@ Impartí un curso sobre máquinas de vector soporte (SVMs en lo que sigue) en Li
 
 Las SVMs (o más propiamente, los clasificadores de margen máximo) son exóticos dentro del repertorio del _científico de datos_. Lo que buscan es un hiperplano que maximiza el _margen_ entre tirios o troyanos,
 
-![](/wp-uploads/2017/09/maximo_margen.png#center)
+![](/img/2017/09/maximo_margen.png#center)
 
 con o sin penalización para los puntos que insisten en permanecer en la región del espacio que no les corresponde. El _modelo_ se ajusta resolviendo un problema de minimización inhabitual: uno de los llamados programas cuadráticos convexos. (Del que no nos tenemos que preocupar habitualmente porque delegamos la resolución en el _software_).
 
@@ -41,7 +41,7 @@ donde $f(x) = h(x) \beta + \beta_0$, se obtiene
 
 Resumiendo, en el fondo, estamos haciendo, casi, regresión logística (con o sin _kernels_, dependiendo de $h$) dado que las dos funciones de pérdida son, geométricamente, bastante parecidas:
 
-![](/wp-uploads/2017/09/hinge_loss.png#center)
+![](/img/2017/09/hinge_loss.png#center)
 
 **Comentarios:**
 

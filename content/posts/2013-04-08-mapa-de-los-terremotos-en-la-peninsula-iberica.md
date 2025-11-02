@@ -24,8 +24,8 @@ Me sorprendió hace un tiempo averiguar que en la península ibérica hubiese [t
 
 En esta entrada voy a mostrar el siguiente mapa de actividad sísmica durante los últimos años,
 
-[![](/wp-uploads/2013/04/terremotos_espana.jpg.jpeg)
-](/wp-uploads/2013/04/terremotos_espana.jpg.jpeg)
+[![](/img/2013/04/terremotos_espana.jpg.jpeg)
+](/img/2013/04/terremotos_espana.jpg.jpeg)
 
 que he construido con el siguiente código en R:
 

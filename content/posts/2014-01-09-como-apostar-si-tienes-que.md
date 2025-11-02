@@ -27,8 +27,8 @@ url: /2014/01/09/como-apostar-si-tienes-que/
 
 Hace unos días recibí esto,
 
-[![](/wp-uploads/2014/01/rentabilidad_carteras_unience.jpg)
-](/wp-uploads/2014/01/rentabilidad_carteras_unience.jpg)
+[![](/img/2014/01/rentabilidad_carteras_unience.jpg)
+](/img/2014/01/rentabilidad_carteras_unience.jpg)
 
 que es la rentabilidad de carteras de inversión (sospecho que no necesariamente reales) de usuarios de cierto portal que compiten por ver quién tiene más ojo en bolsa.
 

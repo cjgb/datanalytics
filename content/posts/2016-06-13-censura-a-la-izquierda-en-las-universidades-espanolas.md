@@ -152,7 +152,7 @@ ggplot(coefs.sedes, aes(x = sede, y = value)) +
 
 genera algo así como
 
-![selectividad_sedes](/wp-uploads/2016/06/selectividad_sedes.png#center)
+![selectividad_sedes](/img/2016/06/selectividad_sedes.png#center)
 
 y
 
@@ -172,7 +172,7 @@ ggplot(coefs.carreras, aes(x = carrera, y = value)) +
 
 , (sí, una coma porque elido el verbo)
 
-![selectividad_carreras](/wp-uploads/2016/06/selectividad_carreras.png#center)
+![selectividad_carreras](/img/2016/06/selectividad_carreras.png#center)
 
 Y termino con avisos varios:
 

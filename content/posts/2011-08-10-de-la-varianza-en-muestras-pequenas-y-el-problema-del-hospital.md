@@ -56,8 +56,8 @@ Efectivamente, uno de los errores en los que caemos al estimar probabilidades es
 
 Y nos ayuda a entender gráficos como el que sigue. En el que aparecen pintados con distinto color los condados estadounidenses donde hay mayor y menor incidencia del cáncer de riñón:
 
-[![](/wp-uploads/2011/08/kidney_cancer_map.gif)
-](/wp-uploads/2011/08/kidney_cancer_map.gif)
+[![](/img/2011/08/kidney_cancer_map.gif)
+](/img/2011/08/kidney_cancer_map.gif)
 
 Los que sepan algo sobre la geografía de ese país advertirán cómo ambos colores abundan más en zonas rurales, en los estados más despoblados. ¿Una misma causa (vivir en ese tipo de lugares), dos efectos opuestos? No, nada que ver con eso: el motivo es que cuando el denominador —la población— es pequeño, una ligera variación en el numerador —los casos de cáncer— pueden provocar cambios importantes en el cociente —la tasa de incidencia—. Lo que ese gráfico ilustra, en el fondo, no es una relación entre condicionantes geográficos y cierto tipo de cáncer sino cómo aumenta la varianza de la media de una serie de observaciones al disminuir su número.
 

@@ -25,4 +25,4 @@ La entrada de hoy es un subproducto de mis ejercicios que, seguramente, no inter
 
 El resultado es este, donde muestro para cada término ---ordenados decrecientemente por frecuencia---, el porcentaje de entradas en el año en cuestión en el que se mencionó el asunto:
 
-![](/wp-uploads/2022/07/nadaesgratis.png)
+![](/img/2022/07/nadaesgratis.png)

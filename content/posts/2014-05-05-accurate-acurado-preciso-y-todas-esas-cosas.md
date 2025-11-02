@@ -33,5 +33,5 @@ Total: sigo tan liado como al principio.
 
 Así que si alguno de mis lectores sabe describir con términos preciosos y sin circunloquios las situaciones representadas en las figuras A, B, C y D a continuación, tiene ganada una quiche de primera en [MartinaCocina](http://martinacocina.es).
 
-[![160px-Accuracy_and_precision_example](/wp-uploads/2014/04/160px-Accuracy_and_precision_example.jpg)
-](/wp-uploads/2014/04/160px-Accuracy_and_precision_example.jpg)
+[![160px-Accuracy_and_precision_example](/img/2014/04/160px-Accuracy_and_precision_example.jpg)
+](/img/2014/04/160px-Accuracy_and_precision_example.jpg)

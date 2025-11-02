@@ -26,7 +26,7 @@ Perdóneseme haber usado lenguaje causal en el título de esta entrada siendo as
 
 Quiero simplemente hacer constar un pequeño ejercicio de análisis espacial usando los paquetes `sf` y `terra` de R motivado, eso sí, por una pregunta que se planteó en cierto foro a raíz de esta captura de la Wikipedia:
 
-![](/wp-uploads/2022/01/muncipios_altitud_espana.jpg#center)
+![](/img/2022/01/muncipios_altitud_espana.jpg#center)
 
 Le llamaba la atención al preguntador por qué aparecían tantos municipios españoles en dicha lista.
 
@@ -45,7 +45,7 @@ Así que, por un lado, he bajado las fronteras administrativas de los países eu
 
 El resultado, con los países ordenados por altitud mediana, es este:
 
-![](/wp-uploads/2022/01/distribucion_altitudes_europa.png#center)
+![](/img/2022/01/distribucion_altitudes_europa.png#center)
 
 [¡Diríase que Italia cumple la ley de Benford!]
 

@@ -19,8 +19,8 @@ title: Compresión con SVD
 url: /2015/03/24/compresion-con-svd/
 ---
 
-[![svd_greco](/wp-uploads/2015/03/svd_greco.png#center)
-](/wp-uploads/2015/03/svd_greco.png#center)
+[![svd_greco](/img/2015/03/svd_greco.png#center)
+](/img/2015/03/svd_greco.png#center)
 
 lo he creado con
 

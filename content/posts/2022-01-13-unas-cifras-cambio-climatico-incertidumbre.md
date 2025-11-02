@@ -41,4 +41,4 @@ El artículo citado es de 2014 y es probable que en estos ocho años hayan apare
 
 Y mientras (nótese: en euros, mientras que las cifras anteriores estaban en dólares):
 
-![](/wp-uploads/2022/01/ue-cap-trade-prices.png#center)
+![](/img/2022/01/ue-cap-trade-prices.png#center)

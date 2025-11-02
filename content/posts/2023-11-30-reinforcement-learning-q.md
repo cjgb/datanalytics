@@ -36,7 +36,7 @@ El siguiente gráfico, extraído de
 [_Deep reinforcement learning to optimise indoor temperature control and heating energy consumption in buildings_](https://www.sciencedirect.com/science/article/abs/pii/S0378778820308963),
 muestra el resultado de un ejercicio de aprendizaje por refuerzo en un contexto similar:
 
-![](/wp-uploads/2023/rl-00.png#center)
+![](/img/2023/rl-00.png#center)
 
 El sistema recibe recompensas por mantener la temperatura en el rango verde entre las 7:00 y las 19:00 en tanto que, además, ahorra energía. Las $r_i$ son, entonces, simples y se maximizan:
 

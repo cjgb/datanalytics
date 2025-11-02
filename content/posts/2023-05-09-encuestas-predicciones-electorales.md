@@ -36,11 +36,11 @@ La encuesta nos da minuto y resultado. El pronóstico, lo que podría llegar a p
 
 Para abundar en la diferencia, uno puede visitar [esta página](https://projects.economist.com/us-2020-forecast/president) en The Economist sobre la predicción de las elecciones de 2020. Uno puede consultar las encuestas electorales,
 
-![](/wp-uploads/2023/encuestas-predicciones-00.png#center)
+![](/img/2023/encuestas-predicciones-00.png#center)
 
 y también la evolución de las predicciones electorales,
 
-![](/wp-uploads/2023/encuestas-predicciones-01.png#center)
+![](/img/2023/encuestas-predicciones-01.png#center)
 
 Estas predicciones, como dice la página en cuestión, son el resultado de un modelo que...
 

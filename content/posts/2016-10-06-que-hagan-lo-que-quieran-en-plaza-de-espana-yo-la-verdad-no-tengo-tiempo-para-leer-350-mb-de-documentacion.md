@@ -27,7 +27,7 @@ Pero las preferencias de otros convecinos discurrieron por otros derroteros y se
 
 Ahora el ayuntamiento de la Villa nos invita a votar nuestro proyecto favorito. ¡De entre setenta de ellos! Cada uno de ellos viene acompañado de una memoria (¡muy memoriosa!) de varios MB. Así como otros tantos de imágenes (en las que los arteros arquitectos juegan con la perspectiva y, en lugar de la plaza de España que conocemos, parecieren ubicadas en las amplitudes verdes de Hyde Park).
 
-![pzaespana](/wp-uploads/2016/10/pzaEspana.jpg)
+![pzaespana](/img/2016/10/pzaEspana.jpg)
 
 Y no, la verdad, no voy a leer páginas y páginas de documentación para poder forjarme una opinión mínimamente cualificada que sustente mi voto. Ni siquiera miré 70 pisos (ni la décima parte) cuando compré el mío. Si dedicase 5 minutos a cada proyecto, mataría de largo una mañana en que no podría hacer otra cosa. Si un millón de madrileños dedicase 5 minutos a cada uno de los 70 proyectos, se irían al sumidero medio milenio de horas de mujer en situación de pensar. Si estudiar una carrera puede llevar 9000 horas (cinco horas diarias durante cinco años), el esfuerzo intelectual daría para aprender más de 500.
 

@@ -96,8 +96,8 @@ plot(g.wc, layout = my_layout, vertex.label = NA,
 
 para obtener
 
-[![guifi_bcn_force](/wp-uploads/2015/05/guifi_bcn_force.png#center)
-](/wp-uploads/2015/05/guifi_bcn_force.png#center)
+[![guifi_bcn_force](/img/2015/05/guifi_bcn_force.png#center)
+](/img/2015/05/guifi_bcn_force.png#center)
 
 pero podemos usar otro _layout_ geográfico para situar cada punto... donde está, es decir, hacer
 
@@ -110,8 +110,8 @@ plot(g.wc, layout = geom.layout, vertex.label = NA,
 
 para obtener
 
-[![gufi_bcn_geom](/wp-uploads/2015/05/gufi_bcn_geom.png#center)
-](/wp-uploads/2015/05/gufi_bcn_geom.png#center)
+[![gufi_bcn_geom](/img/2015/05/gufi_bcn_geom.png#center)
+](/img/2015/05/gufi_bcn_geom.png#center)
 
 y ver cómo, por ejemplo, nodos con una centralidad (y criticidad) elevada están en el enlace principal entre Barcelona y Badalona. O eso es lo que parece porque, bueno, nos faltan todas las referencias geográficas.
 
@@ -136,8 +136,8 @@ p
 
 y obtengo
 
-[![guifi_bcn_ggmap](/wp-uploads/2015/05/guifi_bcn_ggmap.png#center)
-](/wp-uploads/2015/05/guifi_bcn_ggmap.png#center)
+[![guifi_bcn_ggmap](/img/2015/05/guifi_bcn_ggmap.png#center)
+](/img/2015/05/guifi_bcn_ggmap.png#center)
 
 Notas adicionales:
 

@@ -27,8 +27,8 @@ Obviamente, no vale con muestrear latitud y longitud uniformemente: el área com
 
 Sin embargo, la superficie de una [zona esférica ](http://es.wikipedia.org/wiki/Zona_esf%C3%A9rica) depende solo de h (su grosor, en la nomenclatura del enlace anterior) y no de la latitud en la que se ubique y es $A = 2 \pi R h.$
 
-[![](/wp-uploads/2013/12/area_esferica-300x201.png#center)
-](/wp-uploads/2013/12/area_esferica.png#center)
+[![](/img/2013/12/area_esferica-300x201.png#center)
+](/img/2013/12/area_esferica.png#center)
 
 Por tanto, es posible muestrear aleatoriamente sobre h (o el rango de h definido por el bb) y para convertir de nuevo esos puntos en grados. El código en R que permite hacer lo anterior es el siguiente:
 

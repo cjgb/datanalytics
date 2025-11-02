@@ -26,7 +26,7 @@ KDNuggets ha publicado los resultados de una [encuesta entre usuarios actuales y
 
 Habedlos:
 
-![](/wp-uploads/2010/09/resultados_encuesta_migracion_sas.png#center)
+![](/img/2010/09/resultados_encuesta_migracion_sas.png#center)
 
 ¿Cuál será la anomalía de la empresa española que no tengo noticia de ningún ERE en SAS? ¡Con la que está cayendo!
 

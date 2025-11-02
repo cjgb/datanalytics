@@ -19,7 +19,7 @@ title: Lo que pasa cuando interrumpes a alguien que desarrolla una actividad int
 url: /2017/02/17/lo-que-pasa-cuando-interrumpes-a-alguien-que-desarrolla-una-actividad-intelectual-seria/
 ---
 
-![](/wp-uploads/2017/02/ProgrammerInterrupted.png#center)
+![](/img/2017/02/ProgrammerInterrupted.png#center)
 
 
 ¿Quién demonios inventó esos espacios de trabajo diáfanos?

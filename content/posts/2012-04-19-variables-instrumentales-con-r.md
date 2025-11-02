@@ -87,8 +87,8 @@ ggplot(mi.coef, aes(x=value, fill=variable)) + geom_density(alpha=.3)
 
 que produce el gráfico
 
-[![](/wp-uploads/2012/04/coeficientes.png#center)
-](/wp-uploads/2012/04/coeficientes.png#center)
+[![](/img/2012/04/coeficientes.png#center)
+](/img/2012/04/coeficientes.png#center)
 
 En esencia, lo que se ha hecho es calcular el coeficiente condicionando previamente por `z`, es decir, calculando
 

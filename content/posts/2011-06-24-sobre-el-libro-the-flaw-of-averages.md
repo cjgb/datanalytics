@@ -30,8 +30,8 @@ Para lograrlo, asume una postura tal vez anti-intelectualista, tal vez herética
 
 El libro se resume en el siguiente gráfico:
 
-[![](/wp-uploads/2011/06/summary_flaw_averages.png#center)
-](/wp-uploads/2011/06/summary_flaw_averages.png#center)
+[![](/img/2011/06/summary_flaw_averages.png#center)
+](/img/2011/06/summary_flaw_averages.png#center)
 
 Son apenas cinco ideas.  De la primera, la[ diferencia entre riesgo e incertidumbre](https://datanalytics.com/2011/03/11/riesgo-e-incertidumbre/),  ya hablé en estas páginas hace un tiempo. La segunda es que un valor incierto es una _forma _que no puede resumirse mágicamente en un único valor (la _infausta_ media). De hecho, el autor propone la creación de un tipo especial de dato, que denomina DIST, que pueda utilizarse en hojas de cálculo, bases de datos, etc. para representar la distribución de una cierta magnitud, una especie de histograma que cupiese en una única casilla.
 

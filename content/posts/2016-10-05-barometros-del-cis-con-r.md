@@ -32,7 +32,7 @@ Problemas de estos datos:
 * Las variables, los códigos y las etiquetas cambian de barómetro en barómetro: aunque hay unas cuantas preguntas que se repiten en todos, cada barómetro se dedica a un tema distinto.
 * Los datos no son planos: según lo que el entrevistado respondió en aquí, se le pregunta otra cosa allá.
 
-![elige-tu-propia-a-ventura-1](/wp-uploads/2016/10/Elige-tu-propia-a-ventura-1.jpg)
+![elige-tu-propia-a-ventura-1](/img/2016/10/Elige-tu-propia-a-ventura-1.jpg)
 
 
 * Aunque el paquete `memisc` de R es capaz de leer ficheros de ancho fijo con metadatos _en SPSS_ (busca `spss.fixed.file` [aquí](https://cran.r-project.org/web/packages/memisc/memisc.pdf)), no puede con todos: el formato tiene atajos y excepciones (además del asunto de las respuestas condicionales) que `memisc` no contempla.

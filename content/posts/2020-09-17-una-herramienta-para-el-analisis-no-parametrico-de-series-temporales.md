@@ -23,7 +23,7 @@ Sí, es un ejemplar de mi colección de rarezas estadísticas, técnicas que no 
 
 Hoy, [_perfiles matriciales_ para series temporales](https://cran.r-project.org/web/packages/tsmp/vignettes/press.html), una técnica que sirve esencialmente, para identificar _formas que se repiten_ en series temporales, como
 
-![](/wp-uploads/2020/09/MP_penguin_data.jpg)
+![](/img/2020/09/MP_penguin_data.jpg)
 
 Entiendo además que, como consecuencia, también para señalar aquellos ciclos en que se produzcan perfiles anómalos, para su evaluación. Pero dejo que consultéis la información en, por ejemplo, [aquí](https://cran.r-project.org/web/packages/tsmp/index.html) y [aquí](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html).
 

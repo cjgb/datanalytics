@@ -24,7 +24,7 @@ El experimento ---que aunque es físico, habrá de ser _mental_--- es el siguien
 
 Según van cayendo, se toma una foto que _congela_ su posición. No he hecho tal foto ni he visto que nadie lo haya hecho, pero he simulado el resultado y es algo parecido a esto:
 
-![](/wp-uploads/2022/03/falling_sticks.png#center)
+![](/img/2022/03/falling_sticks.png#center)
 
 [Nota: los palillos _cortos_ son aquellos que están cayendo _casi perpendiculares_ al plano de la foto, que todo hay que decirlo.]
 

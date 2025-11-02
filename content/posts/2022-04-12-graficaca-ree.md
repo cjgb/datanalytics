@@ -24,7 +24,7 @@ Creo que REE debería replantearse cómo representar la _estructura de generaci�
 
 Por ejemplo, hoy, en el momento en el que escribo, el portal muestra
 
-{{< figure src = "/wp-uploads/2022/04/graficaca_ree.png#center">}}
+{{< figure src = "/img/2022/04/graficaca_ree.png#center">}}
 
 Uno podría preguntarse: ¿cuánto está produciendo la eólica (franja verde) a la hora marcada por la línea vertical negra? La respuesta depende de dónde se mire: según el gráfico, unos 8 GW; pero según la leyenda, casi 13 GW.
 

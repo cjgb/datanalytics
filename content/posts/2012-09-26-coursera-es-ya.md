@@ -20,8 +20,8 @@ url: /2012/09/26/coursera-es-ya/
 
 Estoy tomando un [curso en coursera.org](https://class.coursera.org/compfinance-2012-001/auth/welcome?type=logout&visiting=%2Fcompfinance-2012-001%2Fclass%2Findex) sobre finanzas computacionales. Aunque, modestia aparte, no creo que vaya a aprender en él mucho que no sepa ya, llevaba tiempo interesado tener una experiencia de primera mano en el funcionamiento de estas plataformas. Cuyas virtudes, muy oportunamente, han sido glosadas recientemente [en prensa](http://economia.elpais.com/economia/2012/09/21/actualidad/1348225294_720111.html).
 
-[![](/wp-uploads/2012/09/coursera.jpg)
-](/wp-uploads/2012/09/coursera.jpg)
+[![](/img/2012/09/coursera.jpg)
+](/img/2012/09/coursera.jpg)
 
 
 Y lo que no dejo de preguntarme es el motivo por el que no existe _coursera.es_, es decir, una plataforma para impartir cursos gratuitos de nivel universitario en la que se den cita nuestros profesores con alumnos de toda España, de todo el mundo. De hecho, amenazo con considerar muy seriamente si  volverme emigrante o, incluso, independentista, si se nos adelantan _coursera.mx_ o _coursera.ar_. ¿Qué hacen esos responsables de nuestra educación y nuestra cultura aparte de llenarse la boca sobre el papel y la presencia del español en la red, el impacto del español en el PIB nacional, etc.?

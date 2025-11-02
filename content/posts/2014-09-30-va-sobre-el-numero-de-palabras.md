@@ -22,8 +22,8 @@ url: /2014/09/30/va-sobre-el-numero-de-palabras/
 
 Trataré de usar pocas hoy. El otro día vi
 
-[![fomc](/wp-uploads/2014/09/fomc.jpg)
-](/wp-uploads/2014/09/fomc.jpg)
+[![fomc](/img/2014/09/fomc.jpg)
+](/img/2014/09/fomc.jpg)
 
 [aquí](http://nadaesgratis.es/?p=39589). Me recordó que uno de mis proyectos abandonados sine die es el de estimar la rentabilidad real de productos financieros en función del número de palabras en sus correspondientes folletos.
 

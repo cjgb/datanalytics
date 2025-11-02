@@ -31,8 +31,8 @@ Mi experiencia comenzó en la [página de acceso al servicio](https://my.cloudnu
 * _workspaces_, que son espacios de _almacenamiento persistente_ y
 * sesiones, que son _instancias_ de un servidor.
 
-[![](/wp-uploads/2011/09/workspaces_sessions.png#center)
-](/wp-uploads/2011/09/workspaces_sessions.png#center)
+[![](/img/2011/09/workspaces_sessions.png#center)
+](/img/2011/09/workspaces_sessions.png#center)
 
 Las sesiones se abren cuando quieres ejecutar algún proceso y las cierras cuando terminas. Cada hora de uso de una sesión tiene un precio que depende de sus características y que va descontándose de tu crédito inicial.
 
@@ -48,55 +48,55 @@ El procedimiento de trabajo consiste esencialmente de los siguientes pasos:
 
 En el resto de la entrada, voy a detallarlos y acompañarlos de capturas de pantalla. En primer lugar, subo mis ficheros (código, datos iniciales, etc.) a un _workspace —_un directorio remoto— al que uno puede subir y bajar ficheros a través de una inerfaz como la siguiente:
 
-[![](/wp-uploads/2011/09/workspace_cloudnumbers.png#center)
-](/wp-uploads/2011/09/workspace_cloudnumbers.png#center)
+[![](/img/2011/09/workspace_cloudnumbers.png#center)
+](/img/2011/09/workspace_cloudnumbers.png#center)
 
 Una vez subidos el código y los datos iniciales necesarios, creo una sesión. Para ello, primero le asocio un _workspace_:
 
-[![](/wp-uploads/2011/09/select_workspace.png#center)
-](/wp-uploads/2011/09/select_workspace.png#center)
+[![](/img/2011/09/select_workspace.png#center)
+](/img/2011/09/select_workspace.png#center)
 
 Después, selecciono el tipo de aplicación que quiero ejecutar (R, en mi caso):
 
-[![](/wp-uploads/2011/09/select_application.png#center)
-](/wp-uploads/2011/09/select_application.png#center)
+[![](/img/2011/09/select_application.png#center)
+](/img/2011/09/select_application.png#center)
 
 Como he seleccionado R, tengo la opción de elegir qué paquetes añadir a mi instancia:
 
-[![](/wp-uploads/2011/09/select_packages.png#center)
-](/wp-uploads/2011/09/select_packages.png#center)
+[![](/img/2011/09/select_packages.png#center)
+](/img/2011/09/select_packages.png#center)
 
 Luego puedo elegir el tipo de hardware sobre el que correrá mi sesión: número y tipo de CPU, tamaño de la memoria, etc. Obviamente, en función de dicha selección, variará el precio por hora de uso de la instancia.
 
-[![](/wp-uploads/2011/09/select_hardware.png#center)
-](/wp-uploads/2011/09/select_hardware.png#center)
+[![](/img/2011/09/select_hardware.png#center)
+](/img/2011/09/select_hardware.png#center)
 
 Finalmente, puedo dar un nombre a la instancia y confirmar la selección. A partir de ese momento, comienza la instalación de la sesión _—_proceso que puede llevar varios minutos_—_ al cabo del cual se tiene acceso a la interfaz de la sesión. A través del navegador, uno se encuentra con varias pestañas.
 
 Una de ellas es la de la consola, donde puede ejecutar R. Los paquetes elegidos de antemano están disponibles.
 
-[![](/wp-uploads/2011/09/session_consola.png#center)
-](/wp-uploads/2011/09/session_consola.png#center)
+[![](/img/2011/09/session_consola.png#center)
+](/img/2011/09/session_consola.png#center)
 
 La pestaña _desktop_ proporciona acceso al escritorio de una sesión de Ubuntu.
 
-[![](/wp-uploads/2011/09/session_desktop.png#center)
-](/wp-uploads/2011/09/session_desktop.png#center)
+[![](/img/2011/09/session_desktop.png#center)
+](/img/2011/09/session_desktop.png#center)
 
 Puede apreciarse cómo los ficheros de nuestro _workspace_ (que hemos subido previamente) están montados en una carpeta. Nuestra sesión de R puede leer y escribir en ella. En realidad, tenemos un Ubuntu corriendo en nuestro navegador, y podemos abrir cualquier aplicación: desde la terminal hasta un navegador (que hará las delicias de los amigos de la recursividad).
 
-[![](/wp-uploads/2011/09/session_desktop_terminal.png#center)
-](/wp-uploads/2011/09/session_desktop_terminal.png#center)
+[![](/img/2011/09/session_desktop_terminal.png#center)
+](/img/2011/09/session_desktop_terminal.png#center)
 
 En la pestaña de estadísticas uno puede seguir la evolución de uso de los distintos recursos del sistema:
 
-[![](/wp-uploads/2011/09/session_statistics.png#center)
-](/wp-uploads/2011/09/session_statistics.png#center)
+[![](/img/2011/09/session_statistics.png#center)
+](/img/2011/09/session_statistics.png#center)
 
 También es posible seleccionar un fichero y editarlo:
 
-[![](/wp-uploads/2011/09/session_edit_file.png#center)
-](/wp-uploads/2011/09/session_edit_file.png#center)
+[![](/img/2011/09/session_edit_file.png#center)
+](/img/2011/09/session_edit_file.png#center)
 
 Una vez que el proceso que se quiere correr en la instancia termina —¡hay que asegurarse de que los datos de salida se guardan dentro del workspace!— se puede deterner la sesión —y así deja de correr el _taxímetro_— y descargar los resultados al ordenador local a través de la interfaz del workspace.
 

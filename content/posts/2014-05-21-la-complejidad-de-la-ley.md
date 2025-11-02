@@ -26,8 +26,8 @@ El motivo es que, en un tiempo en que andaba menos ocupado que ahora, quise ver 
 
 Vuelvo a lo de la complejidad de la ley. Se ve que en Estados Unidos, la ley, _toda_ la ley, está recogida en un _código_; es decir, que se compra uno unos tomitos y se la lleva entera a casa. En
 
-[![OLYMPUS DIGITAL CAMERA](/wp-uploads/2014/05/titulo_11.jpg)
-](/wp-uploads/2014/05/titulo_11.jpg)
+[![OLYMPUS DIGITAL CAMERA](/img/2014/05/titulo_11.jpg)
+](/img/2014/05/titulo_11.jpg)
 
 se muestra el lomo de unos cuantos de ellos, los que se refieren a la ley de quiebras. Este código está anotado, contiene referencias cruzadas, etc.
 

@@ -64,7 +64,7 @@ Así es el mundo.
 
 Mi interés por tanto por la población **X** en cuestión como por todo lo que tenga que decir el tipo que escribió sobre ella tanto sobre este asunto como sobre cualquier otro es cero. Pero para poder documentar esta entrada he tenido que trascender los resúmenes aparecidos en prensa sobre el tema y comprobar si, efectivamente, la evidencia empírica que muestra el libro coincidía o no con la que se deducía de las reseñas. Sin embargo, para comprobarlo fehacientemente y no faltar a la verdad hacía falta manipular demasiada mierda. La manera más efectiva e higiénica que se me ocurrió fue:
 
-![](/wp-uploads/2023/twitter_rushkoff.png#center)
+![](/img/2023/twitter_rushkoff.png#center)
 
 Las conclusiones de esa _lectura_:
 * Efectivamente, el proceso de muestreo es el que se ha descrito más arriba.

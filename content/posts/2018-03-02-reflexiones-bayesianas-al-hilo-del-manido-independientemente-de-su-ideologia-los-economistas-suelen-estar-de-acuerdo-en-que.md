@@ -29,7 +29,7 @@ Así que si aceptáis mis premisas (_postmisas_: vienen después), tendréis que
 
 La primera de mis premisas, ya [discutida antes de pasada en estas páginas](https://datanalytics.com/2017/05/31/dizque-al-sexto-mes-pero-y-los-datos/), es que la ideología opera (subrayo que uso _opera_ y no _es_, por si acaso me meto en un huerto) como una priori.
 
-![](/wp-uploads/2018/02/primate.png#center)
+![](/img/2018/02/primate.png#center)
 
 
 Una priori resume aquello que uno sabe de un problema antes de ver datos y permite tomar decisiones más o menos ajustadas. Por ejemplo, ante la pregunta de cómo debería gestionarse el servicio de recogida de basuras, a cualquier parroquiano de tasca suburbana se le ocurre un privatícese XOR remunicipalícese de acuerdo con ideas peregrinas que vaya uno a saber cómo y dónde ha adquirido.

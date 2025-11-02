@@ -26,7 +26,7 @@ Esas son las ideas que me sugirieron fundamentalmente la lectura del un tanto ha
 El artículo nos explica cómo utilizando resúmenes de noticias de diversas fuentes era posible haber predicho las revoluciones de Egipto, Túnez y Libia. Y, casi, casi, cómo haber encontrado a Bin Laden.
 
 
-![](/wp-uploads/2011/09/culturomics_egypt.jpg#center)
+![](/img/2011/09/culturomics_egypt.jpg#center)
 
 
 
@@ -34,7 +34,7 @@ Pero como en aquel episodio de Sherlock Holmes en el que el perro no ladró, la 
 
 Merece también la pena echar un vistazo al mapa de _civilizaciones_ que revela el dispositivo:
 
-![](/wp-uploads/2011/09/culturomics_civilizations.jpg#center)
+![](/img/2011/09/culturomics_civilizations.jpg#center)
 
 ¿Son Francia y Sudáfrica parte de la misma _civilización_? ¿Y Suiza y Afganistán? ¿Y Canadá está más próximo a Marruecos o Irán que a EE.UU.? ¿Y qué tendrán que ver Noruega y Marruecos?
 

@@ -20,7 +20,7 @@ url: /2022/06/16/modelos-generativos-difusion/
 
 Los modelos generativos ---aunque aquí _generativo_ se use en un sentido distinto del habitual en estas páginas--- están de moda (véase [esto](https://en.wikipedia.org/wiki/DALL-E) o [esto](https://imagen.research.google/)). Estas aplicaciones están basadas en una serie de técnicas que el siguiente diagrama (extraído de [aquí](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)) resume estupendamente:
 
-![](/wp-uploads/2022/06/generative-overview.png#center)
+![](/img/2022/06/generative-overview.png#center)
 
 La más reciente de todas estas técnicas y la que subyace a las últimas y más sorprendentes aplicaciones es la de los llamados modelos de difusión. Les he estado echando un vistazo y esta entrada resume lo que he aprendido de ellos.
 
@@ -65,7 +65,7 @@ hist(res)
 
 obtenemos
 
-![](/wp-uploads/2022/06/diffusion_simulation.png#center)
+![](/img/2022/06/diffusion_simulation.png#center)
 
 que, como se aprecia, es un conjunto de muestras próximas a la moda de la distribución de partida.
 

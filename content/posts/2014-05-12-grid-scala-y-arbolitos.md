@@ -71,7 +71,7 @@ Espero que ni David Ruescas tenga nada que objetar.
 
 El resultado gráfico es
 
-[![arbolito](/wp-uploads/2014/05/arbolito.png#center)
-](/wp-uploads/2014/05/arbolito.png#center)
+[![arbolito](/img/2014/05/arbolito.png#center)
+](/img/2014/05/arbolito.png#center)
 
 Invitados quedan mis lectores a manipular el grosor del tronco, el ángulo de rotación, el color, la transparencia, etc. para dejarlo a su gusto.

@@ -44,8 +44,8 @@ Demostración: si Vd. pertenece a la organización y tiene un puesto X eso es po
 
 Pluchino et al. realizaron y publicaron un [estudio del principio de Peter](http://lanl.arxiv.org/abs/0907.0455) basado en simulaciones. Incluso han hecho público un [applet de java](http://oldweb.ct.infn.it/cactus/peter_principle_sup_material.html) para que los interesados puedan realizar las suyas propias. Uno puede parametrizar en él la organización (y, en particular, cómo de disímiles son las aptitudes necesarias en cada nivel del escalafón), el criterio de ascenso, etc.
 
-[![](/wp-uploads/2010/11/principio_de_peter.png#center)
-](/wp-uploads/2010/11/principio_de_peter.png#center)
+[![](/img/2010/11/principio_de_peter.png#center)
+](/img/2010/11/principio_de_peter.png#center)
 
 Como cabe esperar, en organizaciones como la que he descrito más arriba, los empleados se estancan y terminan su vida laboral en el puesto en el que peor desempeño tienen: la jerarquía se puebla de inútiles.
 

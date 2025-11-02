@@ -24,8 +24,8 @@ Sí, hay gente que pasa cinco años en una de esas instituciones encopetadas que
 
 Aquí va un ejemplo. Es un fragmento de un currículo que me ha llegado recientemente. El tipo es economista, graduado en uno de los departamentos de la materia más reconocidos de Madrid. Dice así:
 
-[![cv_informatica](/wp-uploads/2014/04/cv_informatica.png#center)
-](/wp-uploads/2014/04/cv_informatica.png#center)
+[![cv_informatica](/img/2014/04/cv_informatica.png#center)
+](/img/2014/04/cv_informatica.png#center)
 
 Eso es todo lo que el tipo reconoce saber sobre algo parecido a la programación.
 

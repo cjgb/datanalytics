@@ -23,11 +23,11 @@ url: /2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/
 
 Contemplando y comparando
 
-![](/wp-uploads/2020/06/aleatoriedad_hirsuta.png#center)
+![](/img/2020/06/aleatoriedad_hirsuta.png#center)
 
 y
 
-![](/wp-uploads/2020/06/aleatoriedad_pochola.png#center)
+![](/img/2020/06/aleatoriedad_pochola.png#center)
 
 se me han venido a la mente los adjetivos _hirsuto_ y _pocholo_ para calificar las respectivas _formas de aleatoriedad_ que representan. La primera es el resultado del habitual
 

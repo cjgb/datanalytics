@@ -137,7 +137,7 @@ pairs(fit, pars=c("mu", "sigma1", "sigma2", "diff"))
 
 produce
 
-[![posterior](/wp-uploads/2015/06/posterior.png#center)
-](/wp-uploads/2015/06/posterior.png#center)
+[![posterior](/img/2015/06/posterior.png#center)
+](/img/2015/06/posterior.png#center)
 
 que es la mar de resultón.

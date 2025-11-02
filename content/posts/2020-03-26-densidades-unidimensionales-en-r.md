@@ -27,7 +27,7 @@ Es un asunto tangencial que, además, se soluciona las más de las veces con `de
 
 Por algún motivo, acabé un día en la página del paquete [`logspline`](https://CRAN.R-project.org/package=logspline), que ajusta densidades usando _splines_. Su promesa es que puede realizar ajustes de densidades tan _finos_ como
 
-![](/wp-uploads/2020/03/logspline.png#center)
+![](/img/2020/03/logspline.png#center)
 
 que está extraído de _[Polynomial Splines and their Tensor Products in Extended Linear Modeling](https://www.jstor.org/stable/2959054?seq=1)_, el artículo que le sirve de base teórica. El algoritmo subyacente es capaz, como da a entender el gráfico anterior, de graduar la resolución en la determinación de la densidad para representar debidamente tanto las zonas con detalles finos sin difuminarlos como las regiones más aburridas sin crear irregularidades espurias.
 

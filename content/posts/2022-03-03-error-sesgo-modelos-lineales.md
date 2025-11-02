@@ -103,7 +103,7 @@ fit <- stan(model_code = stan_code,
 
 Como se aprecia, $x$ está modelado como lo que es: un vector de parámetros desconocido. Solo sabemos ---o asumimos--- que tiene una distribución (¿priori?) normal. Damos por conocidos el error de medida, etc. (i.e., las $\sigma$) del resto de las variables. El modelo se ajusta y da como resultado ---recuérdese que `beta0` y `beta1` son $0$ y $1.5$ por construcción---
 
-![](/wp-uploads/2022/03/proxys_bias.png#center)
+![](/img/2022/03/proxys_bias.png#center)
 
 que, como se dice, nos produce mucho orgullo y satisfacción.
 

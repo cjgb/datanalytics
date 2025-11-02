@@ -79,8 +79,8 @@ screeplot(dat.pca)
 {{< / highlight >}}
 
 
-[![screeplot_temp_pres](/wp-uploads/2014/04/screeplot_temp_pres.png#center)
-](/wp-uploads/2014/04/screeplot_temp_pres.png#center)
+[![screeplot_temp_pres](/img/2014/04/screeplot_temp_pres.png#center)
+](/img/2014/04/screeplot_temp_pres.png#center)
 
 Como puede verse haciendo
 

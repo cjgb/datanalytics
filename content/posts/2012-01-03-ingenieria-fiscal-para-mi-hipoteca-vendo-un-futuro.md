@@ -43,8 +43,8 @@ Obviamente, para _protegerme_ de subidas del Euribor, no compraría sino que ven
 
 El _hedge _no es perfecto: la hipoteca tiene un nominal y unos vencimientos que no puedo replicar usando los contratos habituales. Además, los productos son distintos: mi hipoteca está referenciada al Euribor a 12 meses y los futuros, al Euribor a 3 meses. Pero su evolución es, históricamente, paralela, como se puede apreciar en la siguiente figura (gentileza de la Wikipedia),
 
-[![](/wp-uploads/2012/01/euribor1999_2011.png#center)
-](/wp-uploads/2012/01/euribor1999_2011.png#center)
+[![](/img/2012/01/euribor1999_2011.png#center)
+](/img/2012/01/euribor1999_2011.png#center)
 
 que muestra la evolución del Euribor a una semana (verde), tres meses (azul) y un año (rojo) durante los últimos años.
 

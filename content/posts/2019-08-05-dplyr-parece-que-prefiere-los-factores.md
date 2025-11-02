@@ -52,7 +52,7 @@ autoplot(res)
 
 Da:
 
-![](/wp-uploads/2019/08/Rplot.png#center)
+![](/img/2019/08/Rplot.png#center)
 
 ¿No es sorprendente? De hecho, `plyr` es más rápido que `dplyr` en este caso si no se usan factores.
 

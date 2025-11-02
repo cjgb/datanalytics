@@ -55,10 +55,10 @@ ggmap(mapa) + geom_path(data = ruta2,
 
 que es un código que pinta
 
-![ruta1](/wp-uploads/2016/03/ruta1.png#center)
+![ruta1](/img/2016/03/ruta1.png#center)
 
 y
 
-![ruta2](/wp-uploads/2016/03/ruta2.png#center)
+![ruta2](/img/2016/03/ruta2.png#center)
 
 respectivamente, cuando lo que debería representar en ambos casos es una ruta en forma de ele compuesta de dos segmentos, que son los que contienen tanto `ruta1` como `ruta2`.

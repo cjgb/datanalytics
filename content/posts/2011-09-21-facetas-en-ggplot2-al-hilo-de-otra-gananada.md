@@ -26,13 +26,13 @@ De entre los gañanes que trabajan en dicho diario hay uno que lo es más que to
 
 Y sí, en el último número que compré, me dio a entender que no lo habían despedido; que no se había ido a Alemania; que no había cogido el traspaso de la tasca suburbana de su padre ni la fragoneta de su tío el repartidor. Seguía al pie del cañón, bien de salud, y me lo dijo así:
 
-[![](/wp-uploads/2011/09/grafico_expansion.jpg)
-](/wp-uploads/2011/09/grafico_expansion.jpg)
+[![](/img/2011/09/grafico_expansion.jpg)
+](/img/2011/09/grafico_expansion.jpg)
 
 El ejemplo bien ilustra el efecto (pernicioso) de uno usar correctamente lo que en la nomenclatura de ggplot2 se llamarían escalas y facetas. Al partir una gráfica en varias facetas (o subgráficas) es fundamental mantener la homogeneidad de la escala para facilitar las comparaciones. El paquete ggplot2 lo hace automáticamente:
 
-[![](/wp-uploads/2011/09/crecimiento_pib.png#center)
-](/wp-uploads/2011/09/crecimiento_pib.png#center)
+[![](/img/2011/09/crecimiento_pib.png#center)
+](/img/2011/09/crecimiento_pib.png#center)
 
 Finalmente, el código utilizado:
 

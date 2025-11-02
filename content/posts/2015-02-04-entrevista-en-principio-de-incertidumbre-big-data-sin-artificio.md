@@ -24,7 +24,7 @@ El jueves pasado y durante un breve receso de mi gripe, me entrevistaron en Cana
 
 A quien tengo que agradecer, primero, que contase conmigo; pero además y sobre todo, lo bien documentado que estuvo (lo cual me lleva a pensar que habrá que estar atentos a otras grabaciones de su programa).
 
-[![canal_extremadura](/wp-uploads/2015/02/canal_extremadura.jpg)
+[![canal_extremadura](/img/2015/02/canal_extremadura.jpg)
 ](http://www.canalextremadura.es/alacarta/radio/audios/principio-de-incertidumbre-big-data-sin-artificio-lo-que-cabe-esperar-del-anal)
 
 La entrevista puede escucharse [aquí]().

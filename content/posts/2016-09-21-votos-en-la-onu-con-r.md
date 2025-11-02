@@ -23,7 +23,7 @@ url: /2016/09/21/votos-en-la-onu-con-r/
 
 Inspirado por [esto](http://enelmargen.org/datascience/un-voting-patterns/) he generado
 
-![votos_onu](/wp-uploads/2016/09/votos_onu.png#center)
+![votos_onu](/img/2016/09/votos_onu.png#center)
 
 usando
 

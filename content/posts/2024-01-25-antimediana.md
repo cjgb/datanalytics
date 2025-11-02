@@ -21,7 +21,7 @@ url: /2024/01/25/antimediana-fotos/
 
 Es esta:
 
-![](/wp-uploads/2024/antimedianstacking512.jpg#center)
+![](/img/2024/antimedianstacking512.jpg#center)
 
 La foto está construida _apilando_ varias tomadas secuencialmente. Cada píxel que se ve procede de alguna de las originales. En concreto, en la coordenada $ij$ se selecciona uno de los píxeles $ij$ de alguna de las de partida.
 

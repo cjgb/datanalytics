@@ -39,7 +39,7 @@ La idea la he expresado  públicamente en:
 
 Y aquí van los resultados crudísimos de un modelo crudísimo y seguramente erróneo cuya convergencia ni he constrastado ni nada:
 
-![](/wp-uploads/2020/03/casos_mortalidad_madrid.png#center)
+![](/img/2020/03/casos_mortalidad_madrid.png#center)
 
 Y el código es:
 

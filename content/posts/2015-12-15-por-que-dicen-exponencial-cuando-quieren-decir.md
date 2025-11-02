@@ -21,8 +21,8 @@ url: /2015/12/15/por-que-dicen-exponencial-cuando-quieren-decir/
 
 Hoy, al mostrar
 
-[![hdd_capacity_overtime](/wp-uploads/2015/12/hdd_capacity_overtime.png#center)
-](/wp-uploads/2015/12/hdd_capacity_overtime.png#center)
+[![hdd_capacity_overtime](/img/2015/12/hdd_capacity_overtime.png#center)
+](/img/2015/12/hdd_capacity_overtime.png#center)
 
 he dicho _exponencial_. Pero me he corregido rápido y he advertido a mis alumnos:
 

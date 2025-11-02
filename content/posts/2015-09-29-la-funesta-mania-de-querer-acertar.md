@@ -35,7 +35,7 @@ A diferencia de los más de los comentaristas, Kiko ofrece, más que pretendidas
 
 Sin embargo, me desconcertó un poco el gráfico que publicó pasadas las elecciones bajo el texto "Estoy muy satisfecho con la predicción del modelo de encuestas":
 
-![predicciones](/wp-uploads/2015/09/predicciones.png#center)
+![predicciones](/img/2015/09/predicciones.png#center)
 
 Cierto, las barras negras están, más o menos, en rango. A la predicción le sorprenden las sorpresas; ¡pero por eso lo son!
 

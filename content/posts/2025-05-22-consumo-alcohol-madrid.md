@@ -44,7 +44,7 @@ En ninguno de los dos informes anteriores se desglosa el consumo de alcohol diar
 Existe sin embargo un informe de la Comunidad de Madrid, el
 [Informe de avance de resultados principales de la encuesta EDADES 2024](https://gestiona3.madrid.org/bvirtual/BVCM051478.pdf), donde aparece la gráfica
 
-![](/wp-uploads/2025/evolucion-consumo-alcohol-madrid.png#center)
+![](/img/2025/evolucion-consumo-alcohol-madrid.png#center)
 
 sobre la que sus autores comentan escuetamente ---mucho más de lo que se espera de gente que tiene estudios y que ha aprobado una oposición---:
 

@@ -31,7 +31,7 @@ Los números, extraídos de una
 [semianalysis](https://www.semianalysis.com/)
 (un blog mucho más recomendable que este), son
 
-![](/wp-uploads/2023/precios-instancias-gpu.png#center)
+![](/img/2023/precios-instancias-gpu.png#center)
 
 donde los costes de los servidores con GPU parecen hacer referencia a la
 [NVIDIA HGX H100](https://la.blogs.nvidia.com/2022/06/21/presentamos-nvidia-hgx-h100/).

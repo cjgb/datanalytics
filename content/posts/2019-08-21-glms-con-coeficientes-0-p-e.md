@@ -26,7 +26,7 @@ url: /2019/08/21/glms-con-coeficientes-0-p-e/
 
 Hay varias opciones por ahí. Pero me ha sorprendido que la opción esté disponible en `glmnet::glmnet`:
 
-![](/wp-uploads/2019/08/lower_limits.png#center)
+![](/img/2019/08/lower_limits.png#center)
 
 _Filosóficamente_, es un tanto sorprendente: de alguna manera, `glmnet` es glm con _prioris_ alrededor del cero. Los límites superiores e inferiores permiten introducir información a priori adicional no necesariamente compatible con la anterior.
 

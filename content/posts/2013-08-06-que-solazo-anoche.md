@@ -19,8 +19,8 @@ url: /2013/08/06/que-solazo-anoche/
 
 Pues sí, anoche debió hacer un buen solazo. Yo dormía y no lo vi, pero lo deduzco de [lo que me cuenta Red Eléctrica](https://demanda.ree.es/generacion_acumulada.html):
 
-[![](/wp-uploads/2013/08/mix_electricidad.png#center)
-](/wp-uploads/2013/08/mix_electricidad.png#center)
+[![](/img/2013/08/mix_electricidad.png#center)
+](/img/2013/08/mix_electricidad.png#center)
 
 Véase cómo a eso de las cuatro de la mañana la producción de energía catalogada como solar era de 360MW.
 

@@ -23,7 +23,7 @@ F. Anscombe escribió en 1973 el artículo [_Graphs in Statistical Analysis_](ht
 
 Esencialmente, el artículo se limita a presentar cuatro conjuntos de datos distintos con la misma media, varianza, correlación y recta de regresión (excúsenseme los abusos del lenguaje). Sin embargo tienen aspectos muy distintos:
 
-[![](/wp-uploads/2013/08/500px-Anscombes_quartet_3.svg_.png#center)
-](/wp-uploads/2013/08/500px-Anscombes_quartet_3.svg_.png#center)
+[![](/img/2013/08/500px-Anscombes_quartet_3.svg_.png#center)
+](/img/2013/08/500px-Anscombes_quartet_3.svg_.png#center)
 
 ¿Os interesa saber más al respecto? Pues tenéis [esto](http://en.wikipedia.org/wiki/Anscombe%27s_quartet) para satisfacer el apetito de culturilla y [esto otro](http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/anscombe.html) para jugar con el cuarteto en R.

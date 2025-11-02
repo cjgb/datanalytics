@@ -49,8 +49,8 @@ Efectivamente, los coeficientes están lejos de los esperados, i.e., -1, -4, 7 y
 
 Si hacéis `plot(as.data.frame(res))` para ver la distribución entera de los coeficientes estimados en lugar de sus valores centrales, se obtiene algo así como
 
-[![coefs_simulation](/wp-uploads/2015/01/coefs_simulation.png#center)
-](/wp-uploads/2015/01/coefs_simulation.png#center)
+[![coefs_simulation](/img/2015/01/coefs_simulation.png#center)
+](/img/2015/01/coefs_simulation.png#center)
 
 que pone de manifiesto cosas horribles: muchos de los coeficientes estimados tienen distribuciones multimodales en lugar de (aproximadamente) normales alrededor de los valores esperados. Ese tipo de comportamientos suelen estar relacionados con _outliers_ y, en este caso, con un coeficiente de `x2` tal alto, valores de `y=0` cuando `x2=1` prácticamente lo son.
 

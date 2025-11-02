@@ -101,7 +101,7 @@ es sumamente problemática. Este modelo, sobre todo si las prioris son laxas, de
 
 Es decir, salvo que sus prioris sean muy estrictas y las _anclen_ en valores casi fijos, se puede vaticinar que la correlación entre las posteroris de $\mu_a$ y $\mu_d$ sea muy grande. Y, en efecto,
 
-![](/wp-uploads/2023/correlation_mu_ability_difficulty.png#center)
+![](/img/2023/correlation_mu_ability_difficulty.png#center)
 
 Es decir, $\mu_a$ y $\mu_d$ por sí solas no significan nada. Traducido a términos no técnicos, no sabríamos si los estudiantes lo hicieron muy mal porque el examen era muy difícil o que el examen era muy sencillo pero los estudiantes no estaban preparados. Si desconocemos ambas premisas, ninguna puede establecerse.
 

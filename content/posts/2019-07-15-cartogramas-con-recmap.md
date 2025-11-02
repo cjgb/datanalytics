@@ -24,7 +24,7 @@ url: /2019/07/15/cartogramas-con-recmap/
 
 He construido
 
-![](/wp-uploads/2019/07/Rplot.png#center)
+![](/img/2019/07/Rplot.png#center)
 
 que, obviamente no es la gran maravilla, basándome en [_Rectangular Statistical Cartograms in R:  The recmap Package_](https://www.jstatsoft.org/article/view/v086c01) y usando
 

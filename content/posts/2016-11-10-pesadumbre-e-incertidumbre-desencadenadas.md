@@ -30,7 +30,7 @@ Estas del 8 de noviembre han sido las elecciones en que menos y que más caso he
 
 he decidido esta vez dejar de prestar atención a algo que, se ha visto, no ha sido sino ruido. Les he hecho caso, sin embargo, al inclinarme a comprar con ánimo 100% especulativo unas accioncillas que hoy valen el 4% menos que ayer y el 2% menos que cuando las compré. ¡Contento me tienen los _científicos de opinión pública_ y sus benditas batas blancas!
 
-![paleta](/wp-uploads/2016/11/paleta.jpg)
+![paleta](/img/2016/11/paleta.jpg)
 
 No obstante, me interesan más y estoy leyendo con cierto interés los análisis _post mortem_. Me recuerdan mucho a las excusas del paleta con el ducados en la oreja que les hizo una obra a unos amigos para unas obras en el sótano de un local. El presupuesto no paraba de crecer porque dizque había encontrado humedades (¿en qué sótano no hay?) y otras contingencias perfectamente previsibles e indefectibles apenas se rasca el yeso.
 

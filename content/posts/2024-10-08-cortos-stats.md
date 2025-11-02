@@ -20,7 +20,7 @@ url: /2024/10/08/cortos-estadistica/
 
 Bajo cierto punto de vista, el estudio estadístico de la causalidad viene a consistir en la estimación de _modelos incompletos_. Un modelo completo es uno que contiene todas las ecuaciones / relaciones causales que afectan a un fenómeno. En uno incompleto, las variables y ecuaciones faltantes introducen sesgos de distinta naturaleza. Uno de los sitios donde mejor lo he visto contar es en [_Simulating confounders, colliders and mediators_](http://freerangestats.info/blog/2023/06/04/causality-sims.html), de donde extraigo, además, el siguiente gráfico:
 
-![](/wp-uploads/2024/causalidad-free-range-statistics.png#center)
+![](/img/2024/causalidad-free-range-statistics.png#center)
 
 
 De todos modos, el problema de la causalidad no es, en todo caso, puramente estadístico. Entradas como la anterior no van a resolver cuestiones como las que se estudian en [_The Fundamental Flaws of The Only Meta-Analysis of Social Media Reduction Experiments (And Why It Matters)_](https://www.afterbabel.com/p/the-case-for-causality-part-1):
@@ -36,11 +36,11 @@ Dos artículos,
 [este](https://nadaesgratis.es/david-cuberes/el-impacto-de-los-caballos-en-las-naciones-nativo-americanas) y
 [este](https://statmodeling.stat.columbia.edu/2024/03/28/banning-the-use-of-common-sense-in-data-analysis-increases-cases-of-research-failure-evidence-from-sweden/), en los que se discuten una serie de resultados. Basta con echarles un vistazo a los gráficos que los acompañan, como
 
-![](/wp-uploads/2024/causalidad_202410-01.png#center)
+![](/img/2024/causalidad_202410-01.png#center)
 
 o
 
-![](/wp-uploads/2024/causalidad_202410-02.jpg#center)
+![](/img/2024/causalidad_202410-02.jpg#center)
 
 para darse cuenta rápidamente de que no hay mucho aprovechable en lo que proclaman.
 

@@ -24,7 +24,7 @@ un artículo que permite muchas lecturas y algunas de ellas, desafortunadas.
 
 La noticia anterior da pie, sin duda, a
 
-![](/wp-uploads/2025/computer-accountable.png#center)
+![](/img/2025/computer-accountable.png#center)
 
 con lo que se puede estar más o menos de acuerdo pero que está ---es innegable--- muy bien traído.
 
@@ -34,7 +34,7 @@ Los interesados en el estado de las tecnologías de almacenamiento de electricid
 
 Andrew Gelman recoge y discute la gráfica
 
-![](/wp-uploads/2025/low-r2.png#center)
+![](/img/2025/low-r2.png#center)
 
 extraída de un artículo de dos nóbeles en economía [aquí](https://statmodeling.stat.columbia.edu/2025/02/28/the-r-squared-on-this-is-kinda-low-no/). Y
 [aquí](https://statmodeling.stat.columbia.edu/2025/02/22/why-dont-machine-learning-and-large-language-model-evaluations-report-uncertainty/)

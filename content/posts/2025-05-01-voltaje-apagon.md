@@ -28,6 +28,6 @@ No hay ni que recordar que el lunes pasado hubo un apagón muy tercermundista en
 
 He aquí el gráfico del voltaje en mi casa durante una serie de días de abril, incluido el antedicho:
 
-![](/wp-uploads/2025/voltaje-apagon.png#center)
+![](/img/2025/voltaje-apagon.png#center)
 
 Ya.

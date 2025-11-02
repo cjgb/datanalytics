@@ -25,7 +25,7 @@ title: Rejillas poblacionales con R (un borrador)
 url: /2017/03/28/rejillas-poblacionales-con-r-un-borrador/
 ---
 
-![](/wp-uploads/2017/03/C719aiTXkAAzFqX.jpg)
+![](/img/2017/03/C719aiTXkAAzFqX.jpg)
 
 me llegó ayer por Twitter (vía [@unnombrealazar](https://twitter.com/unnombrealazar)). En el mapa aparece representada la edad media de la población por provincia (y hoy voy a dar las cloropetas por buenas). Salta a la vista Guadalajara: tiene una edad media ¿sorprendentemente? baja. Tanto que tuve que comprobarlo en el INE. La explicación (siempre a posteriori) más obvia es
 

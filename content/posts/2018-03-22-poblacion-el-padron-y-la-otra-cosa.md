@@ -32,7 +32,7 @@ Pero, ¿discrepan tanto el padrón y la otra cosa? ¿Tanto como la EPA y el paro
 
 Para entender la situación mejor, he representado la evolución histórica del ratio entre ambas cifras (he olvidado cuál era numerador y cuál denominador) a nivel provincial y he obtenido esto:
 
-![](/wp-uploads/2018/03/censo_padron.png#center)
+![](/img/2018/03/censo_padron.png#center)
 
 Y eso, las diferencias son pequeñas (inferiores al 1%, lo cual es irrelevanta para las más de las aplicaciones) aunque se aprecian fenómenos insulares extraños.
 

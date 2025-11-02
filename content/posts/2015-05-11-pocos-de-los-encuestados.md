@@ -25,8 +25,8 @@ Fuera de los mapas que se colorean ateniéndose a criterios poco transparentes, 
 
 La gráfica con la que muestran la tabulación de los resultados es
 
-[![hablantes_aragones](/wp-uploads/2015/05/hablantes_aragones.png#center)
-](/wp-uploads/2015/05/hablantes_aragones.png#center)
+[![hablantes_aragones](/img/2015/05/hablantes_aragones.png#center)
+](/img/2015/05/hablantes_aragones.png#center)
 
 Hablantes que lo sean exclusivamente del aragonés encontraron 421 * 0.2 / 100 = 0.842, es decir, uno. Entonces, quien suscribe no entiende frases del artículo tales como
 

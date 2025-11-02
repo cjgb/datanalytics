@@ -23,16 +23,16 @@ Hojeaba el otro día el [informe Reporta 2011](http://informereporta.es/), que e
 
 La menos grave —la que lo es más la pospongo para otra ocasión— es la de los recursos gráficos. Nos regalan esta gráfica
 
-[![](/wp-uploads/2011/11/comparacion_grupos_dos_periodos.png#center)
-](/wp-uploads/2011/11/comparacion_grupos_dos_periodos.png#center)
+[![](/img/2011/11/comparacion_grupos_dos_periodos.png#center)
+](/img/2011/11/comparacion_grupos_dos_periodos.png#center)
 
 en la que se compara la proporción de empresas dentro de las categorías A, B, C y D en dos periodos distintos. Por algún motivo prefieren representar los datos utilizando coordenadas polares en lugar de, como poco, barras en que las magnitudes que merece la pena comparar fuesen adyacentes.
 
 Pero, para estos fines, incluso las barras suponen un dispendio de graficaca. Una solución más limpia para la representación de este tipo de datos son las llamadas _[bump charts](http://processtrends.com/toc_bumps_charts.htm)_. Como ejemplo, extraigo del anterior enlace la siguiente:
 
 
-[![](/wp-uploads/2011/11/bump_chart.png#center)
-](/wp-uploads/2011/11/bump_chart.png#center)
+[![](/img/2011/11/bump_chart.png#center)
+](/img/2011/11/bump_chart.png#center)
 
 
 

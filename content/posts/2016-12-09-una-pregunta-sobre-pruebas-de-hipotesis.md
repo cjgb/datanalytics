@@ -25,7 +25,7 @@ Va de pruebas de hipótesis (a la Fisher). La teoría dice que hay que plantear 
 
 Alternativamente (en muchos contextos, no en todos: no sabría cómo hacerlo, p.e., con el `ks.test`) uno puede echarle un vistazo a los intervalos de confianza del parámetro de interés y ver si incluye o no el valor de referencia.
 
-![ci_parameters](/wp-uploads/2016/12/ci_parameters.jpg)
+![ci_parameters](/img/2016/12/ci_parameters.jpg)
 
 La pregunta, es: ¿qué sueles hacer tú? ¿Dónde aplicas un tipo de pruebas y dónde el otro?
 

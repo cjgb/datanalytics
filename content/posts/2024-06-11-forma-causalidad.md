@@ -23,7 +23,7 @@ En muchos sitios se habla sobre cómo A causa B ---o tiene un efecto de cierto t
 [aquí](http://www.stat.columbia.edu/~gelman/research/unpublished/causal_quartets.pdf))
 muestra ocho de las infinitas _formas_ en que una variable puede tener un efecto sobre otra:
 
-![](/wp-uploads/2024/forma-causalidad.png#center)
+![](/img/2024/forma-causalidad.png#center)
 
 En todas ellas, el efecto global tiene el mismo valor medio.
 

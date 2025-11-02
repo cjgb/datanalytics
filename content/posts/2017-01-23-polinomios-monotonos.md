@@ -35,6 +35,6 @@ El resto del artículo se sigue de esa parametrización por las vías previsible
 
 Pero, ¿son necesarios polinomios de grado 9 o 15 para ajustar modelos como los que siguen?
 
-![](/wp-uploads/2017/01/gscs_a_1139582_f0001_c.jpeg)
+![](/img/2017/01/gscs_a_1139582_f0001_c.jpeg)
 
 El artículo no está mal, no miente, pero podríamos pensar que engaña: ¿por qué seguir la vía de incrementar el orden de los polinomios en lugar de utilizar _splines_? ¿Por qué no proponer al lector el uso de _splines_ monótonos?

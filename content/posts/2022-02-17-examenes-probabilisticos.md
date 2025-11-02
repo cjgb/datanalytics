@@ -43,7 +43,7 @@ Y tienen cierta razón.
 
 Sin embargo, es útil contar con la confianza de las predicciones: una predicción con una confianza baja podría ser analizada específicamente en un caso de uso real. Porque no es lo mismo que te digan _tienes una fisura en la rótula_ que _podría ser que tuvieses una fisura en la rótula_; en el segundo caso, es probable que acaben realizando una radiografía adicional, por ejemplo.
 
-![](/wp-uploads/2022/02/image_prediction_confidence.png#center)
+![](/img/2022/02/image_prediction_confidence.png#center)
 
 Así que querríamos que nuestros modelos:
 

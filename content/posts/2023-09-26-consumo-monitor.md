@@ -30,7 +30,7 @@ que ha pasado a ser el monitor primario y que instalé el sábado.
 
 Pero cuál no sería mi sorpresa al descubrir esto:
 
-![](/wp-uploads/2023/monitor_certificacion.png#center)
+![](/img/2023/monitor_certificacion.png#center)
 
 ¡Tiene la peor de las posibles etiquetas de eficiencia energética, la G, nada menos! Lo que me condujo a realizar una serie de preguntas como: es G, ¿comparado con qué? ¿Con un monitor pequeñajo? ¿Con otros similares a él? ¿Con no usar un monitor? ¿Cómo, en definitiva, se asignan certificaciones de eficiencia energética?
 
@@ -65,11 +65,11 @@ Se dictan, más que se explican, en un documento que parece titularse así:
 
 La chicha está en el anexo II, donde se determina la etiqueta en función del _índice de eficiencia energético_, EEI:
 
-![](/wp-uploads/2023/monitor_certificacion_anexo_ii_00.png#center)
+![](/img/2023/monitor_certificacion_anexo_ii_00.png#center)
 
 El EEI se calcula, a su vez, usando la fórmula
 
-![](/wp-uploads/2023/monitor_certificacion_anexo_ii_01.png#center)
+![](/img/2023/monitor_certificacion_anexo_ii_01.png#center)
 
 que tiene como parámetros:
 
@@ -90,7 +90,7 @@ abline(lm(y ~ x), col = "red")
 
 obtiene
 
-![](/wp-uploads/2023/monitor_certificacion_recta_regulatoria.png#center)
+![](/img/2023/monitor_certificacion_recta_regulatoria.png#center)
 
 La gráfica anterior cubre (¡con creces!) el rango típico de tamaños en dm² de los monitores: el que se me murió tenía 10 dm²; el actual, 20 dm².
 

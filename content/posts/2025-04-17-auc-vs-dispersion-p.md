@@ -63,7 +63,7 @@ $$ = \frac{1}{\pi_1 (1 - \pi_1)} \int_0^1 \int_0^t (1-u) f(u) t f(t) du dt$$
 
 Como la intuición no (me) da de sí para entender esta expresión, podemos reemplazar $f$ por la densidad de una beta simétrica (y hacer $\pi_1 = .5$) para obtener
 
-![](/wp-uploads/2025/auc_on_alpha.png#center)
+![](/img/2025/auc_on_alpha.png#center)
 
 Con $\alpha = 10000$, que da una distribución de $f$ concentrada alrededor de 0.5, se obtiene un AUC de 0.504, como cabría esperar.
 

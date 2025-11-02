@@ -24,7 +24,7 @@ El [vídeo de Taleb](https://datanalytics.com/2011/07/15/nassim-taleb-y-el-probl
 Publico aquí el enlace a una entrevista del Financial Times con el decano de la Escuela de Negocios de la Universidad de Chicago, que da su visión sobre el fenómeno (pulsar en la imagen para ver el vídeo):
 
 
-[![](/wp-uploads/2011/07/decano_escuela_de_chicago.jpg)
+[![](/img/2011/07/decano_escuela_de_chicago.jpg)
 ](http://video.ft.com/v/1044030606001/Chicago-School-defends-its-research)
 
 

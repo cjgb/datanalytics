@@ -28,7 +28,7 @@ Me refiero a estas:
 
 La historia, resumida, es que Kiko Llaneras publica sus [predicciones para el mundial en El País](https://elpais.com/deportes/2018/06/04/actualidad/1528063475_409937.html), i.e.,
 
-![](/wp-uploads/2018/07/predicciones_mundial.jpg)
+![](/img/2018/07/predicciones_mundial.jpg)
 
 y a la vista de los acontecimientos balompédicos, tiempo le ha faltado al del tuit para lanzarse en tromba contra _quienes prentenden cuantificar fenónenos complejos_ y contra Llaneras en particular. Y luego, claro, parte de nosotros, le hemos atizado con bastante razón. Pero no, argumentaré, toda.
 

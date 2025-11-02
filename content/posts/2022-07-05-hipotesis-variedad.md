@@ -29,7 +29,7 @@ La hipótesis de la variedad postula que existe un espacio $R^N$, donde N es muc
 
 ¿Cómo se construye/aproxima $f$? Por ejemplo, con _autoencoders_:
 
-![](/wp-uploads/2022/07/autoencoders.webp#center)
+![](/img/2022/07/autoencoders.webp#center)
 
 La función _decoder_, $f_\theta$ de la imagen corresponde/correspondería a nuestra anterior $f$.
 

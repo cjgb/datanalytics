@@ -26,8 +26,8 @@ Quiero publicitar hoy [BioStatFLOSS](http://www.sergas.es/MostrarContidos_N3_T01
 
 El _software_ (que incluye R como _programa estrella_) ha sido _portabilizado_ —si no existía ya una versión _portable_, es decir, que no necesite instalación— y se ha creado un _lanzador_ común desde donde se puedan llamar a todos esos programas (véase la captura adjunta). Este lanzador está programado en [Lazarus (Free Pascal)](http://www.lazarus.freepascal.org/) y, en breve, se liberará el código fuente.
 
-[![](/wp-uploads/2012/10/Captura-300x201.jpg)
-](/wp-uploads/2012/10/Captura.jpg)
+[![](/img/2012/10/Captura-300x201.jpg)
+](/img/2012/10/Captura.jpg)
 
 El _software_ está categorizado de la siguiente manera:
 

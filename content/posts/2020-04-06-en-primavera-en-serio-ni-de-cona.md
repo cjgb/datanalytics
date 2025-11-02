@@ -28,13 +28,13 @@ _[El vídeo arranca en la parte más jugosa y plagada de, dicho de la manera má
 
 Pero, vamos, igual que bastaba con contar los dientes de las dueñas de antaño, sobra una visita al INE para obtener
 
-![](/wp-uploads/2020/04/defunciones_por_mes.png#center)
+![](/img/2020/04/defunciones_por_mes.png#center)
 
 que evidencia otra cosa (nota: las defunciones no están ajustadas por la distinta duración de los meses).
 
 Es que, de hecho, el modelo más conocido para el ajuste de la mortalidad es el de Serfling, que consiste en modelar la mortalidad,
 
-![](/wp-uploads/2020/04/serfling.png#center)
+![](/img/2020/04/serfling.png#center)
 
 usando una tendencia lineal y una sinusoide para la estacionalidad intraanual (véase, p.e., _[Observations on excess mortality associated with epidemic influenza](https://jamanetwork.com/journals/jama/article-abstract/331197)_ de 1961 nada menos). Eso se lleva haciendo desde principios de los sesenta, como poco, cuando utilizar senos y cosenos en una regresión tenia que haber sido tecnología casi alienígena. Y no, el valle nunca ha estado en primavera sino en verano.
 

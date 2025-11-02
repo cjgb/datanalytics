@@ -23,7 +23,7 @@ url: /2019/10/18/el-modelo-son-las-conclusiones/
 
 El título es un tanto exagerado, tal vez tanto como el [aforismo de McLuhan](https://en.wikipedia.org/wiki/The_medium_is_the_message) que lo inspira. Pero no pudo dejar de ocurrírseme al ver el gráfico
 
-![](/wp-uploads/2019/10/EG0RRhNXkAA9y9J-723x1024.jpeg)
+![](/img/2019/10/EG0RRhNXkAA9y9J-723x1024.jpeg)
 
 acompañado del tuit
 

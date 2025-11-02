@@ -25,8 +25,8 @@ Aproveché para descansar de muchas cosas. Y muy especialmente de ese leísmo ra
 
 Tuve ocasión de hablar de política. De la de acá y de la de allá. Me preguntaron por mi opinión por la K, es decir, el matrimonio Kirchner que controla la política nacional desde hace casi diez años. Honestamente, encuentro los modos de los políticos argentinos —y muy especialmente los de su presidenta— demasiado teatrales, dramáticos, conmovedores. Y no es mi estilo, aunque reconozco que es una mera cuestión de formas.
 
-[![](/wp-uploads/2012/02/argentina_statistics.jpg)
-](/wp-uploads/2012/02/argentina_statistics.jpg)
+[![](/img/2012/02/argentina_statistics.jpg)
+](/img/2012/02/argentina_statistics.jpg)
 
 Tengo que decir que no me disgustan muchas de las políticas (muchas de ellas bastante heterodoxas) que han venido desarrollándose en ese país. Pero hay una, una en concreto, que me inquieta, me inspira mucha desconfianza: el control político al que se ve sujeta la función estadística. En particular, el escándalo sobre las [cifras oficiales de inflación en Argentina](http://www.economist.com/node/21548242) ha llegado a tal punto que The Economist ha decidido dejar de publicarlas en su sección de indicadores económicos.
 

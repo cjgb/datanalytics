@@ -32,7 +32,7 @@ También se gestiona semiprivadamente la red de electricidad. Pero de acuerdo a 
 
 Hace años, y no sé si todavía, existían paquetes de llamadas a números amigos, a países concretos, etc. en telefonía. Las operadoras abarataban una serie de llamadas (¡violando la neutralidad de la red!), algo muy similar al aterrador, para algunos,
 
-![](/wp-uploads/2017/12/net_neutrality.jpg)
+![](/img/2017/12/net_neutrality.jpg)
 
 y no pasó nada grave. De hecho, las llamadas telefónicas al extranjero cuestan cero euros hoy en día.
 

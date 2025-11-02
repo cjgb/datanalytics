@@ -46,7 +46,7 @@ ggplot(xyz, aes(x = X1, y = X2, col = X3)) + geom_point()
 
 ... que produce:
 
-[![](/wp-uploads/2013/03/lidar_points.png#center)
-](/wp-uploads/2013/03/lidar_points.png#center)
+[![](/img/2013/03/lidar_points.png#center)
+](/img/2013/03/lidar_points.png#center)
 
 ¿Adivinará alguien lo que estoy pensando?

@@ -30,7 +30,7 @@ No obstante, quiero dejar claro que:
 
 El diagrama causal de hoy es, prácticamente, el más simple que cabe concebir: $X$ tiene un efecto en $Y$ (el que se quiere estimar) y $Z$ tiene otro efecto en $Y$ que nos es indiferente. Gráficamente:
 
-![](/wp-uploads/2022/03/red_causal_hiperbasica_00.png#center)
+![](/img/2022/03/red_causal_hiperbasica_00.png#center)
 
 ¿En qué variarán las regresiones `Y ~ X` e `Y ~ X + Z`? Voy a ilustrarlo con un ejemplo concreto basado en una simulación de los datos que es una de las posibles manifestaciones del diagrama causal anterior:
 

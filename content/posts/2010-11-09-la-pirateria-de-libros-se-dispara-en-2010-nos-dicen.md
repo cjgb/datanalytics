@@ -26,7 +26,7 @@ Parte de lo que quería contar acá ya lo ha hecho otro [aquí](http://gallir.w
 
 Pero tengo que decir que, además de lo que ya se ha comentado sobre el estudio en otros foros, me llama la atención su página seis. En ella se trata de responder a una pregunta interesante: ¿cuánto consumo ilegal podría convertirse en legal en función de la propensión de pago de los consumidores? La respuesta es la siguiente:
 
-![](/wp-uploads/2010/11/pirateria_libros_2010.png#center)
+![](/img/2010/11/pirateria_libros_2010.png#center)
 
 Las conclusiones a las que hacen llegar estos datos al periodista de El País, por ejemplo, son los siguientes:
 

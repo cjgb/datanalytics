@@ -20,7 +20,7 @@ url: /2023/10/12/llms-grados-libertad/
 
 Me he entretenido _dibujando_
 
-![](/wp-uploads/2023/llms_degs_freedom.png#center)
+![](/img/2023/llms_degs_freedom.png#center)
 
 que representa gráficamente los _grados de libertad_ de un LLM según va generando texto. Brevemente, he arrancado con
 

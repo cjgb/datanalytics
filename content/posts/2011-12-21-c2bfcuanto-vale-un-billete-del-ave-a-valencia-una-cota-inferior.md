@@ -21,8 +21,8 @@ Hice una vez la cuenta y luego se me olvidó. La voy a dejar escrita en mi bitá
 
 [Según ADIF](http://www.adif.es/es_ES/infraestructuras/lineas_de_alta_velocidad/levante/levante.shtml), el AVE Valencia (o a Madrid, según desde donde se lo mire), costó (o al menos, tal fue la inversión total prevista) 12400 millones de euros y la estimación anual de viajeros es de 3 millones.
 
-[![](/wp-uploads/2011/12/ave252.jpg)
-](/wp-uploads/2011/12/ave252.jpg)
+[![](/img/2011/12/ave252.jpg)
+](/img/2011/12/ave252.jpg)
 
 Supongamos que el coste de la infraestructura se financia con deuda al, por ejemplo, 4%. Entonces, el coste de los los intereses por viajero es de 12400 * 0.04 / 3 = 165 euros. Pero el billete cuesta, aparentemente, 78 euros.
 

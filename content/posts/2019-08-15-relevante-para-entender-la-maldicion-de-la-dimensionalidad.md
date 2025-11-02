@@ -20,7 +20,7 @@ url: /2019/08/15/relevante-para-entender-la-maldicion-de-la-dimensionalidad/
 
 La gráfica
 
-![](/wp-uploads/2019/08/Ball_volume_in_n_dimensions.png#center)
+![](/img/2019/08/Ball_volume_in_n_dimensions.png#center)
 
 representa el volumen de la esfera unidad (eje vertical) en el espacio de dimensión x (eje horizontal).
 

@@ -24,7 +24,7 @@ Me sorprende haber leído tantos de [los mejores 100 libros del siglo XX](https:
 
 Me ha interesado no obstante la distribución de su fecha de publicación. Si suponemos uniforme el talento y creciente la población y su nivel educativo, cabría pensar que habría más y más cada década. Deben de operar, sin embargo, causas distintas porque
 
-![](/wp-uploads/2017/11/distribucion_fecha_publicacion.png#center)
+![](/img/2017/11/distribucion_fecha_publicacion.png#center)
 
 El código, por si a alguno le aprovecha,
 

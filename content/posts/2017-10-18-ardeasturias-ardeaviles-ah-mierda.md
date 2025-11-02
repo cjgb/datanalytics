@@ -22,15 +22,15 @@ url: /2017/10/18/ardeasturias-ardeaviles-ah-mierda/
 
 ### #ardeAsturias
 
-![](/wp-uploads/2017/10/arde_asturias.jpg)
+![](/img/2017/10/arde_asturias.jpg)
 
 ### #ardeAvilés?
 
-![](/wp-uploads/2017/10/arde_aviles.jpg)
+![](/img/2017/10/arde_aviles.jpg)
 
 ### Ah, ¡mierda!
 
-![](/wp-uploads/2017/10/ah_mierda.jpg)
+![](/img/2017/10/ah_mierda.jpg)
 
 **Notas:**
 

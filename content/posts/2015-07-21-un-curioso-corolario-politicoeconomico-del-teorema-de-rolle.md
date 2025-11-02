@@ -19,8 +19,8 @@ url: /2015/07/21/un-curioso-corolario-politicoeconomico-del-teorema-de-rolle/
 
 El [teorema de Rolle](https://en.wikipedia.org/wiki/Rolle%27s_theorem), que está en el programa de cálculo o análisis matemático de primero de cualquier carrera, dice que una función real $f$, continua, derivable y tal que $f(a) = f(b)$ tiene o un máximo o un mínimo en el intervalo $[a,b]$. La Wikipedia lo ilustra con el siguiente gráfico:
 
-[![teorema_rolle](/wp-uploads/2015/07/teorema_rolle.png#center)
-](/wp-uploads/2015/07/teorema_rolle.png#center)
+[![teorema_rolle](/img/2015/07/teorema_rolle.png#center)
+](/img/2015/07/teorema_rolle.png#center)
 
 Supongo que no será muy difícil de probar este corolario suyo (y creo recordar que fue un ejercicio o problema de examen de aquella época mía de estudiante): una función real $f$, continua, derivable y tal que $f(a) = f(b)$ y $f^\prime(x) < 0$ en la proximidad de $b$ tiene un máximo absoluto en el intervalo $(a,b)$.
 

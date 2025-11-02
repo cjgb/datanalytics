@@ -24,7 +24,7 @@ _[Data visualization](https://www.goodreads.com/book/show/39964443-data-visualiz
 
 Una muestra del libro:
 
-![](/wp-uploads/2020/11/Screenshot-from-2020-11-03-19-00-57.png#center)
+![](/img/2020/11/Screenshot-from-2020-11-03-19-00-57.png#center)
 
 Se trata de las estéticas (en su acepción `ggplot2`) ordenadas de mayor a menor efectividad.
 

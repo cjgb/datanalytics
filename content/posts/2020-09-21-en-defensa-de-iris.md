@@ -30,13 +30,13 @@ La primera tiene que ver con la ubicuidad del uso de `iris` en infinidad de pág
 
 Las otras dos tienen que ver con cualidades nada triviales de `iris` que se esconden tras su aparente simplicidad. La tercera línea de código que invito a ejecutar los lectores de mi [libro de R](https://datanalytics.com/libro_r) es `plot(iris)`, que produce
 
-![](/wp-uploads/2020/09/plot_iris.png#center)
+![](/img/2020/09/plot_iris.png#center)
 
 y donde se aprecian muchos patrones reseñables de los datos. Examinarlo durante 5-10 minutos puede haber sido para muchos el primer ejercicio medianamente serio de análisis de datos: se ven ciertas relaciones lineales, grupos perfectamente diferenciados de acuerdo con determinadas características, otras con un solapamiento más problemático, etc.
 
 Otra característica muy instructiva de `iris` es la que pone de manifiesto hacer `boxplot(iris$Sepal.Width ~ iris$Species)`:
 
-![](/wp-uploads/2020/09/iris_boxplot.png#center)
+![](/img/2020/09/iris_boxplot.png#center)
 
 No solo puede ser la primera aproximación de muchos a los diagramas de cajas, sino que ilustra eficazmente uno de sus usos y su potencia: cómo puede servir para identificar _outliers_ que lo son solo cuando se contemplan dentro de su clase pero que vuelan por debajo del radar en una visión menos sofisticada de los datos.
 

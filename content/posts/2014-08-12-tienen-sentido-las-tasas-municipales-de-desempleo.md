@@ -26,8 +26,8 @@ Y ahora llega el pero. Una parte —y sus autores la consideran importante porqu
 
 En efecto, el patrón que me parece más manifiesto en el mapa que aparece en el artículo,
 
-[![tasa_paro_municipal](/wp-uploads/2014/08/tasa_paro_municipal.png#center)
-](/wp-uploads/2014/08/tasa_paro_municipal.png#center)
+[![tasa_paro_municipal](/img/2014/08/tasa_paro_municipal.png#center)
+](/img/2014/08/tasa_paro_municipal.png#center)
 
 es el de un arco multicolor que, desde Cáceres a Teruel, cubre Madrid por el norte. Pero que solo significa que en esas desoladas provincias hay municipios tan ridículamente pequeños que cambian de color con que solo el hijo de la María se largue a la capital o su marido se jubile.
 

@@ -21,7 +21,7 @@ title: La ley de la cerveza para pintar nubes (y su relación con el análisis d
 url: /2020/06/01/la-ley-de-la-cerveza-para-pintar-nubes-y-su-relacion-con-el-analisis-de-la-supervivencia/
 ---
 
-![](/wp-uploads/2020/05/nubes.jpg)
+![](/img/2020/05/nubes.jpg)
 
 El otro día pregunté a en un grupo de amigos, físicos mayormente, si les sonaba de alguna esquinita teórica de la carrera en que apareciese alguna función de la forma
 

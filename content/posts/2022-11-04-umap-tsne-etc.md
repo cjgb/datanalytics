@@ -50,7 +50,7 @@ tSNE, primero. Según
 [_How Exactly UMAP Works_](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668),
 tSNE está basado en
 
-![](/wp-uploads/2022/11/equations_tmap.png#center)
+![](/img/2022/11/equations_tmap.png#center)
 
 donde:
 

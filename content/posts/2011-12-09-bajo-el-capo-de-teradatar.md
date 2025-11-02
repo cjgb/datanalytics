@@ -65,13 +65,13 @@ WHERE ("xrnk" + "xrnk" = "gcnt" + 2 AND "gcnt" MOD 2 = 0) OR
 
 La consulta se entiende mejor si se ejecuta la subconsulta `T1` sobre una tabla chiquita. Así, para una tabla con un número par de registros construye una tabla con el mismo número de registros y un aspecto similar a
 
-[![](/wp-uploads/2011/12/teradata_median_par.png#center)
-](/wp-uploads/2011/12/teradata_median_par.png#center)
+[![](/img/2011/12/teradata_median_par.png#center)
+](/img/2011/12/teradata_median_par.png#center)
 
 mientras que para tablas con un número impar de registros, construye, análogamente
 
-[![](/wp-uploads/2011/12/teradata_median_impar.png#center)
-](/wp-uploads/2011/12/teradata_median_impar.png#center)
+[![](/img/2011/12/teradata_median_impar.png#center)
+](/img/2011/12/teradata_median_impar.png#center)
 
 Gracias pues a la deambulación de mi gato pude por tanto averiguar por qué teradataR era incapaz de satisfacer mis expectativas iniciales, es decir, que con su concurso pudiera calcular estadísticos relevantes en tablas inmensas: se limita a lanzar series de consultas SQL sobre las tablas y estas, además, están no lo suficientemente bien diseñadas.
 

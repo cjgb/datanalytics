@@ -21,12 +21,12 @@ El [grupo de investigación y estadística](http://www.newyorkfed.org/research/i
 
 Además de promover esta bitácora, la Reserva Federal quiere estar presente y acudir a donde están los ciudadanos a los que sirve: está en YouTube, Twitter, etc.
 
-[![](/wp-uploads/2011/03/fed_ny.png#center)
-](/wp-uploads/2011/03/fed_ny.png#center)
+[![](/img/2011/03/fed_ny.png#center)
+](/img/2011/03/fed_ny.png#center)
 
 Mientras tanto, ¿qué publica el Banco de España en su portada?
 
-[![](/wp-uploads/2011/03/bde.png#center)
-](/wp-uploads/2011/03/bde.png#center)¡Los discursos encumbrados, unidireccionales y _magistrales_ del mandamás de la cosa!
+[![](/img/2011/03/bde.png#center)
+](/img/2011/03/bde.png#center)¡Los discursos encumbrados, unidireccionales y _magistrales_ del mandamás de la cosa!
 
 ¿Soy acaso el único que siente que necesitamos instituciones más abiertas, más próximas y más pedagógicas?

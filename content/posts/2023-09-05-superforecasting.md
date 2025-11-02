@@ -64,7 +64,7 @@ En el mundo de las predicciones existe un continuo. Próximo a uno de sus extrem
 [_The quiet revolution of numerical weather prediction_](https://www.nature.com/articles/nature14956)
 los autores repasan las mejoras que ha experimentado las tecnologías de la predicción meteorológica en los últimos años. De ahí extraigo
 
-![](/wp-uploads/2023/predicciones-meteorologicas.png#center)
+![](/img/2023/predicciones-meteorologicas.png#center)
 
 que lo ilustra (aunque omitiré abundar en qué significa el _forecast skill_: bastará saber que las líneas crecientes indican mejoría y que 100% es la _predicción perfecta_). El que se pueda comprobar frecuentemente la validez de las predicciones ---como sucede en meteorología--- permite afinar la tecnología de modo concluyente.
 

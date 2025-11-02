@@ -20,7 +20,7 @@ url: /2024/01/04/diagrama-causal-simple/
 
 A pesar de lo intrincados que resultan muchos de los diagramas causales que aparecen en los textos, en la práctica abundan las cuestiones y los estudios alrededor de sus formulaciones más simples, es decir, la representada por
 
-![](/wp-uploads/2024/simple_causal_diagram.png#center)
+![](/img/2024/simple_causal_diagram.png#center)
 
 Este gráfico se resumen varios posibles escenarios:
 

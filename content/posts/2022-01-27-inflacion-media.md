@@ -22,7 +22,7 @@ Estos días se oye que la inflación del 2021 fue del 6.5% pero a la vez y sin s
 
 La fuente de todo es el índice de precios al consumo (IPC), que mide el precio ---debidamente normalizado--- de una canasta de productos a lo largo del tiempo y que tiene esta pinta:
 
-![](/wp-uploads/2022/01/ipc_2021.png#center)
+![](/img/2022/01/ipc_2021.png#center)
 
 A partir de esos datos, uno se enfrenta al problema de siempre: resumirlos en un único indicador que _resuma_ 2021.
 

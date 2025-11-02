@@ -31,7 +31,7 @@ abline(lm(dist ~ speed, data = cars), col = "red")
 
 con el que se crea la requetemanida gráfica
 
-![](/wp-uploads/2024/cars_dist_speed_regression.png#center)
+![](/img/2024/cars_dist_speed_regression.png#center)
 
 útil para ilustrar aspectos relacionados con el ajuste de modelos. Hoy, toca de nuevo.
 

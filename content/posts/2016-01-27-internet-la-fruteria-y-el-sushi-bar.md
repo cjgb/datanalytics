@@ -21,8 +21,8 @@ Internet es en gran medida (y lo fue aún más) una especie de frutería: si qui
 
 Pero, en el fondo, esta es una manera antinatural de gestionar información. La gente estamos acostumbrados a _consumirla_ como los platillos de sustancias japonesas en los bares de sushi, esos que tienen una cinta como
 
-[![sushibar](/wp-uploads/2016/01/sushibar.jpg)
-](/wp-uploads/2016/01/sushibar.jpg)
+[![sushibar](/img/2016/01/sushibar.jpg)
+](/img/2016/01/sushibar.jpg)
 
 La información circula por delante de nosotros y tomamos aquella que nos interesa. Pero, habitualmente, con una estructura temporal, no temática. Por ejemplo:
 

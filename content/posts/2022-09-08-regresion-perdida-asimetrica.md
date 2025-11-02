@@ -22,7 +22,7 @@ url: /2022/09/08/regresion-perdidas-asimetricas/
 
 En los libros de texto, imperan las funciones de pérdida simétricas, como el RMSE o el MAE. Pero hay casos ---muchos, de hecho, en la práctica--- en que las pérdidas son asimétricas: es más oneroso pasarse, p.e., que no llegar. En esta entrada voy a analizar un ejemplo motivado por el siguiente tuit:
 
-![](/wp-uploads/2022/09/tuit-energia-renovable.png#center)
+![](/img/2022/09/tuit-energia-renovable.png#center)
 
 El resumen de lo que sigue es el siguiente:
 
@@ -72,7 +72,7 @@ res_rmse = minimize(perdida_rmse, (1,1))
 
 La solución es que basta con multiplicar la producción eólica por 2 y la solar por 1.6 para, _en promedio_, cubrir toda la demanda eléctrica con renovables. Aunque, claro, habría que tener capacidad de casi 3000 GWh (y no los 80 especificados en el tuit) para evitar apagones:
 
-![](/wp-uploads/2022/09/requisitos-almacenamiento-energia.png#center)
+![](/img/2022/09/requisitos-almacenamiento-energia.png#center)
 
 **Nota:** Por hacer una estimación de lo que representa eso: de haber 20 millones de hogares en España, tocaría tener en cada uno una batería de unos 150 kWh de capacidad. A precios de hoy, unos 50k euros por hogar).
 
@@ -136,11 +136,11 @@ pasa por multiplicar la capacidad eólica por 8.2 y la solar por 4.
 
 La evolución de las variables más importantes del problema tiene el siguiente aspecto:
 
-![](/wp-uploads/2022/09/asimetrico-energia-almacenada.png#center)
+![](/img/2022/09/asimetrico-energia-almacenada.png#center)
 
-![](/wp-uploads/2022/09/asimetrico-desaprovechada.png#center)
+![](/img/2022/09/asimetrico-desaprovechada.png#center)
 
-![](/wp-uploads/2022/09/asimetrico-apagones.png#center)
+![](/img/2022/09/asimetrico-apagones.png#center)
 
 Obviamente, en un ejercicio menos delirante y más realista habría que tener en cuenta todas las cuestiones apuntadas al inicio de la entrada, lo cual excede con mucho el alcance pretendido de esta entrada que consiste, recuérdese, en ilustrar y catalogar un ejemplo en el que un modelo estadístico ---¿sigue siéndolo realmente? ¿o debería decir tal vez _econométrico_ en tanto que no hay ni modelo probabilístico subyacente ni nada más que lo eleve a la categoría de propiamente estadístico?--- usa una función de error asimétrica.
 

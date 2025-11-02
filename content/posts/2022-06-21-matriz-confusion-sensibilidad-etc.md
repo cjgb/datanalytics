@@ -93,7 +93,7 @@ En las secciones anteriores se está asumiendo que ya existe una regla de decisi
 
 El _scoring_ nos permite representar la información necesaria para nuestro problema de clasificación así:
 
-![](/wp-uploads/2022/06/roc_curve_00.png#center)
+![](/img/2022/06/roc_curve_00.png#center)
 
 En esa gráfica se muestra la distribución del _scoring_ tanto para las observaciones etiquetadas (verdaderamente) como sí y como no. También se muestra el punto de corte de una hipotética regla de clasificación como una recta vertical. Los falsos positivos estarían en la cola derecha (a la derecha de la línea vertical) del histograma ¿rosa? y los falsos negativos, las de la cola izquierda del histograma ¿azul?
 
@@ -105,7 +105,7 @@ Acabada la digresión, vuelvo a la curva ROC y el AUC. Si se moviese el punto de
 
 Si uno representa cómo varían la especificidad y la sensibilidad al ir moviendo la recta vertical en un gráfico, obtiene la curva ROC:
 
-![](/wp-uploads/2022/06/roc_curve_01.png#center)
+![](/img/2022/06/roc_curve_01.png#center)
 
 Idealmente, uno querría alta especificidad y alta sensibilidad, por lo que cuanto más alejada esté la curva del origen, tanto mejor será el modelo. El lector puede plantearse como ejercicio pensar cómo sería la curva ROC tanto del modelo perfecto como del pésimo.
 

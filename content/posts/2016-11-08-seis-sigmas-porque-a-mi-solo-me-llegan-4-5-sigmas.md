@@ -21,7 +21,7 @@ url: /2016/11/08/seis-sigmas-porque-a-mi-solo-me-llegan-4-5-sigmas/
 
 Seis sigma es un conjunto de métodos y prácticas para mejorar la calidad de los procesos industriales. Su nombre está inspirado por la distribución normal: aspira a que la tasa de errores (por ejemplo, piezas defectuosas producidas por una planta) sea `pnorm(-6)`.
 
-![six_sigma_definition_standard_deviations](/wp-uploads/2016/11/six_sigma_definition_standard_deviations.jpg)
+![six_sigma_definition_standard_deviations](/img/2016/11/six_sigma_definition_standard_deviations.jpg)
 
 Pero `pnorm(-6)` es 9.8e-10 (uno por millardo, aproximadamente), mientras que, según la Wikipedia, que siempre tiene la razón, la aspiración del Seis Sigma es la de alcanzar _3.4 defective features per million opportunities_. Que es bastante (trescientas veces) superior.
 

@@ -23,7 +23,7 @@ url: /2018/11/12/goodhart-lucas-y-todas-esas-cosas/
 
 Como me da vergüenza que una búsqueda de Goodhart en mi blog no dé resultados, allá voy. Lo de Goodhart, independientemente de lo que os hayan contado, tiene que ver con
 
-![](/wp-uploads/2018/11/grafico_causal.png#center)
+![](/img/2018/11/grafico_causal.png#center)
 
 
 es decir, un gráfico causal hiperbásico. Si la variable de interés **y** es difícil de medir, resulta tentador prestar atención a la variable observable **x** y usarla como _proxy_. Todo bien.

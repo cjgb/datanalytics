@@ -22,15 +22,15 @@ Uno de los conceptos más lábiles y menos aprehensibles que he encontrado en lo
 
 En 1930, el Ministerio de Transportes de la Unión Soviética publicó un libro sobre planificación ferroviaria en el que colaboró A.N. Tolstoi estudiando un problema de optimización. En la URSS había factorías, ciudades, minas, etc. y ferrocarriles que los unían. Tolstoi calculó la capacidad máxima de la red ferroviaria y su funcionamiento óptimo.
 
-[![trenes_urss_01](/wp-uploads/2014/11/trenes_urss_01.png#center)
-](/wp-uploads/2014/11/trenes_urss_01.png#center)
+[![trenes_urss_01](/img/2014/11/trenes_urss_01.png#center)
+](/img/2014/11/trenes_urss_01.png#center)
 
 Resolvió lo que hoy llamamos un **problema de flujo máximo**.
 
 En 1955, en plena guerra fría, Harris y Ross publicaron un informe secreto (¿publicaron y secreto juntos?), _Fundamentals of a Method for Evaluating Rail Net Capacities_, en el que estudiaban el problema de qué nodos de la red ferroviaria soviética habría que bombardear para impedir de la manera más eficaz posible el tráfico de mercancías hacia la Europa del Este.
 
-[![trenes_urss_02](/wp-uploads/2014/11/trenes_urss_02.png#center)
-](/wp-uploads/2014/11/trenes_urss_02.png#center)
+[![trenes_urss_02](/img/2014/11/trenes_urss_02.png#center)
+](/img/2014/11/trenes_urss_02.png#center)
 
 Planteron lo que hoy llamamos un **problema de corte mínimo**.
 

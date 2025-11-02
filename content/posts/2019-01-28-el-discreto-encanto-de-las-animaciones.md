@@ -24,11 +24,11 @@ url: /2019/01/28/el-discreto-encanto-de-las-animaciones/
 
 Representando datos, una animación es un gráfico en el que unas facetas (en terminología de `ggplot2`) ocultan el resto, como en
 
-![](/wp-uploads/2019/01/ezgif-4-3c3da54ff084.gif)
+![](/img/2019/01/ezgif-4-3c3da54ff084.gif)
 
 extraído de [aquí](https://twitter.com/cocteautriplets/status/986394792329465857?s=03) y que representa la evolución del tamaño (superficie) de los coches _habituales_ a lo largo del último siglo. Lo mismo pero evitando el indeseado efecto:
 
-![](/wp-uploads/2019/01/Rplot.png#center)
+![](/img/2019/01/Rplot.png#center)
 
 El código:
 

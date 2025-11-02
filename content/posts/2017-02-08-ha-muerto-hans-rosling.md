@@ -19,4 +19,4 @@ title: Ha muerto Hans Rosling
 url: /2017/02/08/ha-muerto-hans-rosling/
 ---
 
-![](/wp-uploads/2017/02/black-ribbon.png#center)
+![](/img/2017/02/black-ribbon.png#center)

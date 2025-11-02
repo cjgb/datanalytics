@@ -58,7 +58,7 @@ $$\beta_A, \beta_B \sim N(0, \sigma_\beta)$$
 
 En efecto, así se aprecia en los resultados de un modelo en el que he estado trabajando estos días:
 
-![](/wp-uploads/2023/identificabilidad_modelos_bayesianos.png#center)
+![](/img/2023/identificabilidad_modelos_bayesianos.png#center)
 
 En el modelo hay un término independiente (primera fila/columna en la cuadrícula) y varias $\beta$ con distinto número de niveles. En la figura se muestra el gráfico _por parejas_ de la densidad a posteriori de las distintas variables y se ve cómo las correspondientes los siete niveles de la primera están enormemente correlacionados entre sí y negativamente con el término independiente. También se muestra la distribución de los coeficientes correspondientes a algunos de los niveles de la segunda de las variables.
 

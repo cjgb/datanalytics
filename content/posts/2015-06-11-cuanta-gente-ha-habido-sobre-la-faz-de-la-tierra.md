@@ -20,13 +20,13 @@ url: /2015/06/11/cuanta-gente-ha-habido-sobre-la-faz-de-la-tierra/
 
 Una vez oí que 70000 millones, de los que 7000 estaban vivos actualmente. Oí mal porque, buscando, he encontrado [esto](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/), de donde extraigo:
 
-[![tabla_vivos](/wp-uploads/2015/06/tabla_vivos.png#center)
-](/wp-uploads/2015/06/tabla_vivos.png#center)
+[![tabla_vivos](/img/2015/06/tabla_vivos.png#center)
+](/img/2015/06/tabla_vivos.png#center)
 
 y
 
-[![tabla_vivos_2](/wp-uploads/2015/06/tabla_vivos_2.png#center)
-](/wp-uploads/2015/06/tabla_vivos_2.png#center)
+[![tabla_vivos_2](/img/2015/06/tabla_vivos_2.png#center)
+](/img/2015/06/tabla_vivos_2.png#center)
 
 ¡Un 6.5% de todos los que hemos sido estamos vivos!
 

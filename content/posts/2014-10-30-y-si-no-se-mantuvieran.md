@@ -22,13 +22,13 @@ url: /2014/10/30/y-si-no-se-mantuvieran/
 
 Comienzo mi entrada de hoy con una foto de Madrid en la nochevieja de 1964.
 
-[![almacenes-arias_anos-601](/wp-uploads/2014/10/almacenes-arias_anos-601.jpg)
-](/wp-uploads/2014/10/almacenes-arias_anos-601.jpg)
+[![almacenes-arias_anos-601](/img/2014/10/almacenes-arias_anos-601.jpg)
+](/img/2014/10/almacenes-arias_anos-601.jpg)
 
 Esta es otra de los hinchas del equipo nacional el mismo año en los prolegómenos de la final de la Eurocopa del mismo año, que le ganamos a la Unión Soviética.
 
-[![espana_urss](/wp-uploads/2014/10/espana_urss.jpg)
-](/wp-uploads/2014/10/espana_urss.jpg)
+[![espana_urss](/img/2014/10/espana_urss.jpg)
+](/img/2014/10/espana_urss.jpg)
 
 [Aquí](http://davidaldia.blogspot.ie/2011/01/nochevieja-de-1964-el-ano-se-acaba.html) encontrarán mis lectores otras escenas de lo que era costumbre en aquellas fechas de hace cincuenta años.
 

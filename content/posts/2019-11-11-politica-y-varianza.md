@@ -23,7 +23,7 @@ Será por deformación profesional, pero en los discursos electorales y particul
 
 Y no, no me refiero únicamente a lo de Gini y sus secuaces.
 
-![](/wp-uploads/2019/05/katepickett.jpg)
+![](/img/2019/05/katepickett.jpg)
 
 Aún recuerdo cuando la política (o su manifestación más folclórica y electoralista) hacía más hincapié en la media (de diversos indicadores, para incrementarla, supongo).
 

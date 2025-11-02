@@ -21,7 +21,7 @@ url: /2016/11/29/probabilidades-de-empates-en-elecciones/
 
 Dichoso me tenía por no acordarme siquiera de las CUP, cuando una nota me ha hecho volver a lo de su otrora famoso pero ahora arrumbado por el constante devenir de otras noticias más enjundiosas (pausa) asunto: [el de su empate](https://datanalytics.com/2015/12/30/por-que-el-empate-de-la-cup-es-mas-raro-de-lo-que-parece-y-de-lo-que-yo-mismo-digo/).
 
-![asamblea_extremadura](/wp-uploads/2016/11/asamblea_extremadura.jpg)
+![asamblea_extremadura](/img/2016/11/asamblea_extremadura.jpg)
 
 La noticia en cuestión es [esta](http://andrewgelman.com/2016/11/07/chance-vote-will-decide-election/), que conduce a [esto](http://www.stat.columbia.edu/~gelman/research/published/probdecisive2.pdf) y en definitiva a [esto otro](http://www.stat.columbia.edu/~gelman/research/published/decisive2.pdf), que es donde reside lo enjundioso.
 

@@ -63,11 +63,11 @@ En su página de presentación dice algo que un LLM _random_ ha querido traducir
 
 En concreto, uno escribe las reglas de la forma
 
-![](/wp-uploads/2024/publicodes_rules.png#center)
+![](/img/2024/publicodes_rules.png#center)
 
 y el sistema produce algo así como
 
-![](/wp-uploads/2024/publicodes_output.png#center)
+![](/img/2024/publicodes_output.png#center)
 
 automáticamente.
 

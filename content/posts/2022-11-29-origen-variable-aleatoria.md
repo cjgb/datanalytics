@@ -25,7 +25,7 @@ Pero cabe preguntarse: ¿hasta dónde y cuándo se remonta? El término tiene ev
 Otros autores, como Gosset ---sí, el de la t de Student--- tiende a hablar de muestras ---¡muy significativamente!--- para aquellas _cosas_ que tienen media, varianza, etc. y a las que nos referiríamos hoy como variables aleatorias. Algo parecido hace Fisher (ya en 1922) en su
 [_On the Mathematical Foundations of Theoretical Statistics_](http://l.academicdirect.org/Horticulture/GAs/Refs/Fisher_1922_Estimation.pdf):
 
-![](/wp-uploads/2022/11/rvs_fisher_00.png#center)
+![](/img/2022/11/rvs_fisher_00.png#center)
 
 Hoy escribiríamos eso de otra manera.
 
@@ -35,13 +35,13 @@ $$P(|X - \mu| > a \sigma) < 1 / a^2,$$
 
 de alguna manera en algún sitio tendrá que haberse referido a $X$, ¿no? Pues sí, pero lo hace, al menos en la traducción al francés de su resultado (de 1867) usando términos genéricos:
 
-![](/wp-uploads/2022/11/rvs_chebichev.png#center)
+![](/img/2022/11/rvs_chebichev.png#center)
 
 
 El origen del término "variable aleatoria", pues, no parece tan antiguo. De hecho, se ha rastreado hasta el artículo _Sulla legge dei grandi numeri_ de Cantelli ---sí, _ese_ Cantelli, el de Borel-Cantelli, etc.--- publicado en 1916 en la revista _Atti Reale Accademia
 Nazionale Lincei, Memorie Cl. Sc. Fis._. Sin acceso directo a la misma, lo mejor que puedo mostrar de la que según algunos es la primera mención publicada del término "variable aleatoria", es la que Google ---a través de su buscador en libros--- tiene a bien mostrar:
 
-![](/wp-uploads/2022/11/rvs_cantelli_1916.png#center)
+![](/img/2022/11/rvs_cantelli_1916.png#center)
 
 Obviamente no dice "variable aleatoria" porque el artículo está escrito en italiano y no en español. Dice _variabile casuale_, que es no cómo los italianos traducen _random variable_ sino, como se verá, de donde los demás hemos traducido ---directa o indirectamente--- la manera en que nos referimos a ellas.
 
@@ -71,11 +71,11 @@ Y, efectivamente, en el artículo
 [_The elimination of Spurious Correlation due to position in Time or Space_](https://www.biodiversitylibrary.org/item/181863#page/215/mode/1up)
 de Gosset, dice en 1914:
 
-![](/wp-uploads/2022/11/rvs_gosset.png#center)
+![](/img/2022/11/rvs_gosset.png#center)
 
 Efectivamente, el artículo yuxtapone las palabras _variable_ y _random_ en una frase al paso. Porque el artículo habla de unos objetos que tienen variabilidad (busca estimar la _correlación de las variaciones con respecto a la media instantánea de una serie de valores_), en algún sitio los llama variables y en un punto concreto estas variables, a diferencia de otras, son aleatorias y las cualifica como tales. Pero nunca dice algo así como _sea tal una variable aleatoria_ o, _como todo el mundo sabe, el objeto de la teoría de la probabilidad es el estudio de las variables aleatorias_ como sí ocurre tiempo después. De hecho, según los n-gramas de Google,
 
-![](/wp-uploads/2022/11/rvs_ngrams_english.png#center)
+![](/img/2022/11/rvs_ngrams_english.png#center)
 
 el térmimo _random variable_ solo comenzó a popularizarse en inglés en la década de los 30.
 
@@ -83,7 +83,7 @@ Efectivamente, en el artículo de Wintner de 1934
 [_On Analytic Convolutions of Bernoulli Distributions_](https://www.jstor.org/stable/2370961),
 uno de los primeros en usar el término según la referencia anterior, el autor usa ya una nomenclatura prácticamente moderna:
 
-![](/wp-uploads/2022/11/rvs_wintner.png#center)
+![](/img/2022/11/rvs_wintner.png#center)
 
 Y, esta vez, no por azar: el artículo abunda en unos resultados publicados por primera vez, dice, en el libro _Calcul des Probabilités_ escrito por P. Lévy en 1925. Lo cual nos lleva a trazar el origen del término en el idioma francés.
 
@@ -91,17 +91,17 @@ Y, esta vez, no por azar: el artículo abunda en unos resultados publicados por 
 
 En _Calcul des Probabilités_ se usa _variable éventuelle_ de la manera a la que estamos acostumbrados hoy en día:
 
-![](/wp-uploads/2022/11/rvs_levy.png#center)
+![](/img/2022/11/rvs_levy.png#center)
 
 De hecho, el término ---y su alternativa, _variable aléatoire_--- estaba asentándose ya en francés, como muestran los n-gramas de Google
 
-![](/wp-uploads/2022/11/rvs_ngrams_french.png#center)
+![](/img/2022/11/rvs_ngrams_french.png#center)
 
 y de que _variable éventuelle_ y _variable aléatorire_ se encuentren en otras obras de la época, como los tratados de Borel. Borel tiene, de hecho, un libro sobre la teoría de la probabilidad, _Le Hasard_, de 1914 donde no recurre al término pero dos tratados de hacia la mitad de la década siguiente en los que usa, en cada uno de ellos, una de las dos versiones.
 
 Google nos muestra también como la versión _variable éventuelle_ acabó cayendo en desuso y que _variable aléatoire_ terminó imponiéndose. Pero, ¿de dónde procede el término en francés? La respuesta se encuentra en el siguiente parrafito,
 
-![](/wp-uploads/2022/11/rvs_bulletin_1919.png#center)
+![](/img/2022/11/rvs_bulletin_1919.png#center)
 
 que forma parte de la reseña del libro _Calcolo delle Probabilità_ de G. Castelnuovo publicado en 1919 y que se hizo en el Bulletin des Sciences Mathématiques ese mismo año ([enlace](https://ia802609.us.archive.org/10/items/s2bulletindessci43fran/s2bulletindessci43fran_bw.pdf)).
 
@@ -121,7 +121,7 @@ Pero una búsqueda más cuidadosa permite encontrar referencias previas. En efec
 [_Sulla differenza media con ripetizione_](https://www.jstor.org/stable/23223974)
 en 1913:
 
-![](/wp-uploads/2022/11/rvs_cantelli_1913.png#center)
+![](/img/2022/11/rvs_cantelli_1913.png#center)
 
 Esta pudiera ser, tres años antes de la primera referencia citada por las fuentes de más arriba, el momento en el que el término _variable aleatoria_ hizo su entrada en el léxico probabilístico.
 

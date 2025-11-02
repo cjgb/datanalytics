@@ -22,7 +22,7 @@ Intolerable.
 
 Abres las páginas de cultura de cualquier periódico y compruebas que los periodistas no tienen recato alguno en hablar de (incluso elogiar) obras inescrutables de pintores oscuros, géneros minoritarios, libros eruditísimos, películas aburridísimas en que no pasa un carajo, obras teatrales rarísimas con actores semidesnudos que se descuelgan del techo con un arnés, ballets soporíferos y todo tipo de burrufalla que define el estándar de lo que hoy en día se entiende por ser culto. ¡Carajo!
 
-![madrid-la-suma-web](/wp-uploads/2015/11/madrid-la-suma-web.jpg)
+![madrid-la-suma-web](/img/2015/11/madrid-la-suma-web.jpg)
 
 Pero luego, [un sumatorio...](http://www.eldiario.es/sociedad/Educacion-esconde-criterios-adjudica-becas_0_447255668.html) resulta que es opaco; casi indescifrable; algo que _echa para atrás_ (¿más que una peli de Saura?); que _solo los estudiantes con amplia formación en matemáticas o estadística podrían aplicar [...] con cierta seguridad_, etc. Además, se denuncia que el Ministerio de Educación tenga la desfachatez de calcular el importe de las becas ¡con una fórmula matemática!
 

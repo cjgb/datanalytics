@@ -29,7 +29,7 @@ Cito [de Gelman](https://statmodeling.stat.columbia.edu/2024/04/03/bayesian-work
 
 Extraigo el gráfico
 
-![](/wp-uploads/2024/datos_vs_resumen.jpg#center)
+![](/img/2024/datos_vs_resumen.jpg#center)
 
 de [este artículo](https://statmodeling.stat.columbia.edu/2023/08/16/confusions-about-inference-prediction-and-probability-of-superiority/), que arranca así:
 

@@ -21,7 +21,7 @@ url: /2020/04/08/momo-una-documentacion-oficiosa/
 
 Estos días se habla de [MoMo](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/MoMo.aspx) y por primera vez en quince años largos, el público está contemplando gráficas como
 
-![](/wp-uploads/2020/04/momo.png#center)
+![](/img/2020/04/momo.png#center)
 
 que resumen lo más jugoso del sistema. MoMo (de monitorización de la mortalidad) es un sistema desarrollado por el ISCIII para seguir en tiempo _casi_ real la evolución de la mortalidad en España.
 

@@ -20,8 +20,8 @@ url: /2012/07/18/conferencia-sobre-grandes-datos/
 
 Permítanme mis lectores matar dos pájaros con una misma entrada. La primera es anunciar que se está organizando una[ conferencia sobre Grandes Datos en Madrid](http://www.bigdataspain.com/) este invierno. Tendrá lugar los días 14, 15 y 16 de noviembre. Los organizadores la anuncian así:
 
-[![](/wp-uploads/2012/07/logo_big_data_spain.png#center)
-](/wp-uploads/2012/07/logo_big_data_spain.png#center)
+[![](/img/2012/07/logo_big_data_spain.png#center)
+](/img/2012/07/logo_big_data_spain.png#center)
 
 >Un grupo informal de universidades, grupos de desarrolladores y empresas tienen el honor de organizar un congreso sobre Grandes Datos en Madrid, España. El congreso introducirá formalmente la disciplina de los Grandes Datos en España a través de una completa revisión de todas las áreas que incluye, desde la minería de datos y su limpieza hasta el análisis, la modelación y la distribución.
 

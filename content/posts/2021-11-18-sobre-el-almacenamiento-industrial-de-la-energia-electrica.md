@@ -26,7 +26,7 @@ Este es un tema sobre el que sé tan poco que hoy mismo (que no es el día en el
 
 Por enmendarme públicamente y dada la relevancia del asunto, voy a sacar unos números. La fuente es la página del [Balance Eléctrico de REE](https://www.ree.es/es/datos/balance/balance-electrico), que hoy luce
 
-![](/wp-uploads/2021/11/image-1024x456.png#center)
+![](/img/2021/11/image-1024x456.png#center)
 
 y que nos proporciona datos sobre el _bombeo_, i.e., la mejor y prácticamente única de las tecnologías actualmente existentes (y desplegadas industrialmente en España) para almacenar electricidad y _trasvasarla_ entre periodos.
 

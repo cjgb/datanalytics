@@ -52,8 +52,8 @@ Como puede apreciarse, solo las variables `v1` y `v2` (y no `v3`) interaccionan 
 
 Los datos tienen el siguiente aspecto:
 
-[![sample_data_incrementality](/wp-uploads/2014/07/sample_data_incrementality.png#center)
-](/wp-uploads/2014/07/sample_data_incrementality.png#center)
+[![sample_data_incrementality](/img/2014/07/sample_data_incrementality.png#center)
+](/img/2014/07/sample_data_incrementality.png#center)
 
 Como se ve, efectivamente, la variable `v3` (fila inferior) no tiene ningún efecto; y solo donde `v1 = v1 = 1` existe una _incrementalidad_ en el tratamiento.
 
@@ -68,8 +68,8 @@ plot(modelo)
 
 hace la magia. El resultado es
 
-[![mob_incrementality](/wp-uploads/2014/07/mob_incrementality.png#center)
-](/wp-uploads/2014/07/mob_incrementality.png#center)
+[![mob_incrementality](/img/2014/07/mob_incrementality.png#center)
+](/img/2014/07/mob_incrementality.png#center)
 
 que muestra cómo [`mob`](http://cran.r-project.org/web/packages/party/vignettes/MOB.pdf) ha detectado un efecto diferencial del tratamiento en la región de interés.
 

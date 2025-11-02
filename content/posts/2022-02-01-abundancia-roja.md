@@ -22,7 +22,7 @@ url: /2022/02/01/abundancia-roja/
 
 Este, a mitad de la tarde del día en cuya mañana he debido personarme en el quinto pino cargado de originales y sus correspondientes fotocopias para que una enjuta y adusta funcionaria de una de esas onerosas manifestaciones del estado metiese la entrometida nariz en un contrato firmado libérrimamente por dos mayores de edad en pleno uso y disfrute de sus facultades mentales [pausa, pausa, ¡pausa!], es momento sin igual para minirreseñar
 
-{{< figure src = "/wp-uploads/2017/06/red_plenty.jpg#center">}}
+{{< figure src = "/img/2017/06/red_plenty.jpg#center">}}
 
 No voy a entrar en las cuestiones políticas, de las que otros, sin duda, saben más que yo. Tampoco en las económicas más de fondo, donde seguramente meteré la pata. Ni siquiera por las estrictamente históricas o documentales: igual no es la mejor fuente para saber cómo era una de esas ciudades científicas en la Siberia de los años 60.
 
@@ -30,7 +30,7 @@ No quiero hacer una reseña al uso, porque [otros la han hecho estupendamente](h
 
 Recomiendo no obstante este libro a mis lectores como, por una parte, una introducción a los albores de la informática soviética. Uno de sus protagonistas es, de hecho,
 
-{{< figure src = "/wp-uploads/2017/06/besm.jpg#center">}}
+{{< figure src = "/img/2017/06/besm.jpg#center">}}
 
 Sí, una [BESM-2](https://en.wikipedia.org/wiki/BESM). En una sociedad en las que las decisiones de producción y consumo no estaban descentralizadas en los mercados, era necesario no solo llevar a cabo una contabilidad muy precisa de lo que se producía y lo que se consumía, sino también contar con un sistema que sugiriese asignaciones óptimas. Esa y otras máquinas que la sucedieron constituyeron un precedente precario y rojo de las _smart cities_, el _big data_ y otras modas de nuestros días.
 

@@ -23,7 +23,7 @@ url: /2019/04/01/iran-por-aqui-los-tiros-en-el-futuro-de-la-ciencia-de-datos/
 
 Para muchos, el futuro de la llamada ciencia de datos seguirá la estela dejada por
 
-![](/wp-uploads/2019/03/theverge.jpg)
+![](/img/2019/03/theverge.jpg)
 
 y sus continuadores usando cosas _deep_. Pero a la vez, sin tanto estruendo y con una mucho menor cobertura mediática, otros están trazando una ruta alternativa que ilustran artículos como _[Bayes and Big Data: The Consensus Monte Carlo Algorithm](https://ai.google/research/pubs/pub41849)_ (atención todos a lo que hace uno de sus coautores, [Steven L. Scott](https://sites.google.com/view/stevethebayesian/), que convierte en oro todo lo que toca). Como abrebocas, su resumen (con mi subrayado):
 

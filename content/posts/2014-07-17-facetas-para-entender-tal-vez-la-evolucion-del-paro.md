@@ -62,8 +62,8 @@ ggplot(dat, aes(x = anno, y = delta)) +
 
 El resultado es:
 
-[![tasa_paro_mensual](/wp-uploads/2014/07/tasa_paro_mensual.png#center)
-](/wp-uploads/2014/07/tasa_paro_mensual.png#center)
+[![tasa_paro_mensual](/img/2014/07/tasa_paro_mensual.png#center)
+](/img/2014/07/tasa_paro_mensual.png#center)
 
 Cada recuadro corresponde a un mes (identificado por su número, obviamente). El eje horizontal, son los años desde el principio de la serie. La serie temporal, como indico arriba, es la diferencia del valor de la tasa de desempleo del mes con el anterior. Las líneas horizontales son los cuartiles de las deltas del mes en cuestión. Y mil perdones a todos mis lectores que no sean directivos por explicarles la gráfica como si fuesen tontos.
 

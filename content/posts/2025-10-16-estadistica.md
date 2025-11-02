@@ -35,13 +35,13 @@ Un artículo de Asterisk discute los [problemas existentes en muchos países par
 
 La falacia NAXALT:
 
-![](/wp-uploads/2025/falacia-naxalt.jpeg#center)
+![](/img/2025/falacia-naxalt.jpeg#center)
 
 Realmente no tiene tanto que ver con la estadística como con la epistemología (torcida de tanta gente), pero...
 
 La figura
 
-![](/wp-uploads/2025/inverted-u.png#center)
+![](/img/2025/inverted-u.png#center)
 
 está extraída de un artículo convenientemente titulado _Competition and Innovation: An Inverted-U Relationship_ coescrito por uno de los últimos agraciados por el premio Nobel. [Aquí](https://statmodeling.stat.columbia.edu/2025/10/15/questions-about-statistical-claims-in-paper-from-recent-nobel-prize-winners/) y, especialmente, [aquí](https://statmodeling.stat.columbia.edu/2025/10/21/reanalysis-of-that-nobel-prizewinning-study-of-patents-and-innovation/), se abunda sobre el asunto.
 

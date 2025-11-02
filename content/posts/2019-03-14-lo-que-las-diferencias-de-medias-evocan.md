@@ -21,7 +21,7 @@ url: /2019/03/14/lo-que-las-diferencias-de-medias-evocan/
 
 Si a uno le dicen que la diferencia de medias de determinado atributo entre sujetos de tipo A y sujetos de tipo B es 5, uno tiende a pensar (o, más bien, tengo esa sensación) que la diferencia de dicho atributo entre un representante al azar de A y uno al azar de B será alrededor de 5. Tal vez sea porque nos han educado mostrándonos imágenes no muy distintas de
 
-![](/wp-uploads/2019/03/stat_t1.gif)
+![](/img/2019/03/stat_t1.gif)
 
 Lo cual tiene cierto sentido cuando A y B tienen poblaciones homogéneas. Pero si uno oye que el sueldo medio en Alemania es un (hipotético) 10% superior al español, tal vez por inercia uno crea una representación mental de acuerdo con la cual un camarero alemán gana alrededor de un 10% más que uno español, que un ingeniero alemán gana... (etc.). En lugar de pensar que tal vez los camareros españoles ganen igual que los alemanes; y los ingenieros españoles ganen igual que los alemanes; etc. pero que en tal vez en Alemania haya proporcionalmente menos camareros que ingenieros.
 

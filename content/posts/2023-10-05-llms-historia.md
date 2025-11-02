@@ -51,7 +51,7 @@ El algoritmo es esencialmente el de Shannon con algunas pequeñas modificaciones
 
 En el artículo de Shannon se comparan los dos modelos de la sección anterior y que, recuérdese, utilizan $h$ de tamaño dos, con otros que las tienen de tamaños uno y cero. La diferencia en los resultados es notable:
 
-![](/wp-uploads/2023/shannon_llms.png#center)
+![](/img/2023/shannon_llms.png#center)
 
 Es inevitable pensar que aumentando el tamaño del histórico $h$ se podrían conseguir mejores resultados. Sin embargo, la vía del cómputo explícito de $P(x | h)$ se agota enseguida: el tamaño de las tablas crece exponencialmente ---exponencialmente de verdad, no como cuando los ingenieros o incluso peor dicen _exponencialmente_--- con la profundidad de $h$. Por poner unos números:
 

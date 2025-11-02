@@ -28,8 +28,8 @@ Y creo que en una de las últimas entradas me han querido meter un gol. Es en é
 
 
 
-[![](/wp-uploads/2011/01/Entidades-de-credito-PubPriv.gif)
-](/wp-uploads/2011/01/Entidades-de-credito-PubPriv.gif)
+[![](/img/2011/01/Entidades-de-credito-PubPriv.gif)
+](/img/2011/01/Entidades-de-credito-PubPriv.gif)
 
 
 
@@ -42,8 +42,8 @@ con otra que he elaborado yo con los mismos datos (solo que remontándome más a
 
 
 
-[![](/wp-uploads/2011/01/serie_historica.png#center)
-](/wp-uploads/2011/01/serie_historica.png#center)
+[![](/img/2011/01/serie_historica.png#center)
+](/img/2011/01/serie_historica.png#center)
 
 
 
@@ -64,8 +64,8 @@ Además, si se trata de analizar la evolución temporal del tamaño del crédito
 
 
 
-[![](/wp-uploads/2011/01/evolucion_porcentual1.png#center)
-](/wp-uploads/2011/01/evolucion_porcentual1.png#center)
+[![](/img/2011/01/evolucion_porcentual1.png#center)
+](/img/2011/01/evolucion_porcentual1.png#center)
 
 
 

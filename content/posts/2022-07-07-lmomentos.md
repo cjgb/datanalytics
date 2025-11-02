@@ -20,7 +20,7 @@ url: /2022/07/07/l-momentos/
 
 Existen esquinitas de la estadística con las que uno solo tropieza cuando su práctica lo expone a sus aplicaciones menos habituales. Estos días ha sido el asunto de los l-momentos. En esta entrada exploro la intuición acerca del concepto ---porque uno no la hallará ni [aquí](https://en.wikipedia.org/wiki/L-moment) ni en ninguno de los artículos que he consultado al respecto--- y, más en general, el interés que pueda tener fuera del ámbito en el que los he encontrado.
 
-![](/wp-uploads/2022/07/legendre.png#center)
+![](/img/2022/07/legendre.png#center)
 
 Todos (¿todos?) sabemos qué son los momentos de una distribución (univariante): las esperanzas de $X$, $X^2$, etc. que:
 
@@ -56,11 +56,11 @@ $$\lambda_1 = \int_0^1 Q(u) P_{0}(u) du = \int_0^1 Q(u) du = E(X).$$
 
 Los momentos 2, 3 y 4 tienen interpretaciones similares a los momentos tradicionales de orden 2, 3 y 4 (dispersión, asimetría y aplastamiento), dada la forma de los polinomios de Legendre correspondientes,
 
-![](/wp-uploads/2022/07/legendre_polynomials.png#center)
+![](/img/2022/07/legendre_polynomials.png#center)
 
 que hacen que los L-momentos correspondientes para la normal estándar sean las integrales de las funciones
 
-![](/wp-uploads/2022/07/l-moments.png#center)
+![](/img/2022/07/l-moments.png#center)
 
 Queda claro cómo el segundo momento mide la dispersión: será tanto mayor cuanta más masa haya en la cola de la distribución. El tercero va a ser cero con la distribución normal por simetría, pero dejará de serlo apenas aparezcan asimetrías en la distribución. El cuarto compara de nuevo la masa en las colas con la concentrada cerca del origen, por lo que vuelve a ser otra medida de dispersión. Etc.
 

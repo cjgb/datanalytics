@@ -29,6 +29,6 @@ El dentista noruego [Jon Sudbø](http://en.wikipedia.org/wiki/Jon_Sudb%C3%B8) q
 
 ¿Son significativos estos casos de fraude? ¿Son casos aislados? De la [Office of Research Integrity](http://ori.hhs.gov/), que monitoriza casos de mala conducta y fraude en publicaciones financiadas por el U.S. Public Health Service, extraigo la siguiente gráfica,
 
-![](/wp-uploads/2011/03/scientific_fraud.png#center)
+![](/img/2011/03/scientific_fraud.png#center)
 
 que muestra la evolución del número de denuncias que ha atendido durante los últimos años. (Aunque debo confesar a mis lectores que no he podido ni sabido contrastarlo con el universo total de publicaciones para ver el tamaño relativo del fraude, que tal vez sea la medida de más relevancia en este contexto).

@@ -20,13 +20,13 @@ url: /2012/04/23/graficos-dinamita-desaconsejados/
 
 No sé por qué se llaman así. Ni idea. Vine a enterarme de tal nombre a través de un comentario de Carlos Ortega en la lista de usuarios de R. Parece que se usan habitualmente en diversas áreas y tienen el siguiente aspecto:
 
-[![](/wp-uploads/2012/04/dinamita00.png#center)
-](/wp-uploads/2012/04/dinamita00.png#center)
+[![](/img/2012/04/dinamita00.png#center)
+](/img/2012/04/dinamita00.png#center)
 
 Se trata de diagramas de barras a los que se añaden unos apéndices que tratan de medir la variabilidad a la que se entiende que están sujetas aquellas. Una representación alternativa del mismo conjunto de datos ilustra el motivo por el que se desaconseja su uso:
 
-[![](/wp-uploads/2012/04/dinamita01.png#center)
-](/wp-uploads/2012/04/dinamita01.png#center)
+[![](/img/2012/04/dinamita01.png#center)
+](/img/2012/04/dinamita01.png#center)
 
 ¿Hacen falta palabras?
 
@@ -42,7 +42,7 @@ En _[Dynamite Plots: Unmitigated Evil](http://emdbolker.wikidot.com/blog:dynamit
 
 En ese mismo enlace aparece el gráfico
 
-[![](/wp-uploads/2012/04/dinamita02.png#center)
-](/wp-uploads/2012/04/dinamita02.png#center)
+[![](/img/2012/04/dinamita02.png#center)
+](/img/2012/04/dinamita02.png#center)
 
 en el que se comparan seis representaciones gráficas alternativas de los mismos datos. ¿Puede decirse que la de la esquina superior izquierda es la mejor?

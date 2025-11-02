@@ -21,7 +21,7 @@ url: /2017/09/06/python-y-r-una-perspectiva-markoviana/
 
 Hoy he visto
 
-![](/wp-uploads/2017/09/r_python.jpg)
+![](/img/2017/09/r_python.jpg)
 
 
 [aquí](http://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html) y he escrito

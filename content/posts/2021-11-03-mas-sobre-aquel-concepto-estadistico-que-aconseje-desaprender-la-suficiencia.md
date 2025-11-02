@@ -27,12 +27,12 @@ Criticaba en su día lo inútil del concepto. Al menos, en la práctica moderna 
 
 Entonces, ¿por qué la suficiencia? Escuchemos (leamos) lo que Fisher tiene a bien decirnos. En primer lugar, sobre lo que la estadística es y —aunque viene a ser lo mismo— para lo que sirve:
 
-![](/wp-uploads/2021/10/image.png#center)
+![](/img/2021/10/image.png#center)
 
 Obviamente, discrepo —aunque dejo la crítica para otra ocasión—, pero se le abona a Fisher la claridad. Más adelante, Fisher enumera ls tres subproblemas asociados a la _reducción de los datos_:
 
 
-![](/wp-uploads/2021/10/image-1.png#center)
+![](/img/2021/10/image-1.png#center)
 
 Es muy interesante lo que tiene que decir Fisher sobre (1). Por ejemplo, que no queda más remedio que limitarse a distribuciones que estén previamente tabuladas (¡servidumbres de la época!), pero lo relevante para la entrada de hoy tiene que ver con (2): la construcción de estimadores.
 
@@ -40,7 +40,7 @@ A estos les exige consistencia, que viene a decir que deberían converger al val
 
 Pero también menciona otro criterio, el de la suficiencia:
 
-![](/wp-uploads/2021/10/image-2.png#center)
+![](/img/2021/10/image-2.png#center)
 
 y lo enlaza con la eficiencia a través de la enunciación implícita de un teorema que adorna los libros modernos de estadística viejuna, el que relaciona suficiencia con eficiencia.
 

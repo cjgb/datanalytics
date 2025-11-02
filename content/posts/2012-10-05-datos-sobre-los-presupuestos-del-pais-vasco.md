@@ -20,7 +20,7 @@ url: /2012/10/05/datos-sobre-los-presupuestos-del-pais-vasco/
 
 Quien haya seguido históricamente esta bitácora sabrá que, hablando en plata, cuando me enrollo es para meter caña. Es mi personalidad. Y no es cómodo soportarla.
 
-[![](/wp-uploads/2012/10/finanzas_pais_vasco.png#center)
-](/wp-uploads/2012/10/finanzas_pais_vasco.png#center)
+[![](/img/2012/10/finanzas_pais_vasco.png#center)
+](/img/2012/10/finanzas_pais_vasco.png#center)
 
 Como hoy no tengo objeción alguna que hacer en el tema que quiero tratar, seré infinitamente breve. Solo digo: visitad [esto](http://aurrekontuak.irekia.euskadi.net/).

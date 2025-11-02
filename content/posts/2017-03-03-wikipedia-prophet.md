@@ -56,7 +56,7 @@ pred.plot +
 
 construyo
 
-![](/wp-uploads/2017/03/prediccion_wikipedia_prophet.png#center)
+![](/img/2017/03/prediccion_wikipedia_prophet.png#center)
 
 
 que muestra la predicción del número de visitas a la [página de R en la Wikipedia](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)) basada en las primeras 1500 observaciones de la serie. Para las restantes, el gráfico muestra tanto los valores predichos como los reales (en rojo pálido).

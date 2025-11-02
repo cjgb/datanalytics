@@ -23,7 +23,7 @@ No sé si te lo habrás preguntado alguna vez. [Ni siquiera lo sabe Google](http
 Sin embargo, me admira [esto](http://www.wolframalpha.com/input/?i=which+are+the+antipodes+of+montevideo%3F).
 
 
-[![](/wp-uploads/2011/02/antipodas_de_montevideo.gif)
-](/wp-uploads/2011/02/antipodas_de_montevideo.gif)
+[![](/img/2011/02/antipodas_de_montevideo.gif)
+](/img/2011/02/antipodas_de_montevideo.gif)
 
 ¿Usáis [Wolfram Alpha](http://www.wolframalpha.com/)? ¿Qué os parece?

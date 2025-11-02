@@ -57,7 +57,7 @@ y un reparto de _poder_ que queda de esta manera:
 
 Gráficamente,
 
-[![banzhaf_2015](/wp-uploads/2015/12/banzhaf_2015.png#center)
-](/wp-uploads/2015/12/banzhaf_2015.png#center)
+[![banzhaf_2015](/img/2015/12/banzhaf_2015.png#center)
+](/img/2015/12/banzhaf_2015.png#center)
 
 Y una nota: _coaliciones mínimas_ no significa _coaliciones probables_; de hecho, obviamente, las hay imposibles.

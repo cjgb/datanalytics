@@ -81,6 +81,6 @@ hist(res$p, freq = FALSE, col = "gray",
 
 para obtener el vergonzante
 
-{{< figure src="/wp-uploads/2017/12/probabilidad_saber_respuesta.png" >}}
+{{< figure src="/img/2017/12/probabilidad_saber_respuesta.png" >}}
 
 De todos modos, debo añadir que durante las primeras horas de la _encuesta_, el porcentaje de aciertos llegó a estar en el entorno del 50%. Después fue retuiteado y el porcentaje descendió lastimosamente. Quiere eso decir cosas muy buenas de quienes me siguen en Twitter. Al menos, en términos relativos.

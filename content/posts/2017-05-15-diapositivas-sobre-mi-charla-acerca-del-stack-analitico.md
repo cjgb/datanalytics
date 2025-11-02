@@ -23,7 +23,7 @@ url: /2017/05/15/diapositivas-sobre-mi-charla-acerca-del-stack-analitico/
 
 Tuve ocasión el pasado jueves, en Barcelona y gracias a la invitación de [KSchool](http://kschool.com/), de lo que llamo el _stack_ analítico. Es decir, de aquellas herramientas tecnológicas necesarias para poder hacer ciencia de datos hoy en día.
 
-![](/wp-uploads/2017/05/pila_paja.jpg)
+![](/img/2017/05/pila_paja.jpg)
 
 Las diapositivas de la charla están [aquí](http://datanalytics.com/uploads/charla_stack_analitico/charla_stack_analitico_201705.html).
 

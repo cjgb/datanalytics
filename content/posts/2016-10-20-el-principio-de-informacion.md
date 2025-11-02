@@ -24,7 +24,7 @@ Tramontando el recetariado, llegamos a los principios. Y el más útil de todos 
 
 (Sí, de un tiempo a esta parte busco la palabra _información_ por doquier y presto mucha atención a los párrafos que la encierran; anoche, por ejemplo, encontré un capitulito titulado _The Value of Perfect Information_ que vale más que todo Schubert; claro, que Schubert todavía cumple la función de proporcionar seudoplacer intelectual a mentes blandas y refractarias al concepto del valor de la información perfecta).
 
-![claudeshannon](/wp-uploads/2016/10/claudeshannon.jpg)
+![claudeshannon](/img/2016/10/claudeshannon.jpg)
 
 En ciencia de datos no interesan los datos en sí sino los fenómenos y la información que podemos extraer de ellos. Los datos son solo una de sus manifestaciones. Pero sabemos que pueden ser malos. O mejores. Siempre perfectibles. El punto de partida de la ciencia de datos (salvo en ese portal donde se propone una versión puerilizada de la ciencia de datos; Kaggle, dizque se llama) no son los datos sino el fenómeno que se quiere estudiar.
 

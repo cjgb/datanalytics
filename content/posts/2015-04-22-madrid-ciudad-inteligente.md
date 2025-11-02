@@ -41,11 +41,11 @@ Veamos un ejemplo de este tipo de interacción entre un ciudadano, yo, y la admi
 
 Véanse las fotos adjuntas:
 
-[![cascorro01](/wp-uploads/2015/04/cascorro01.jpg)
-](/wp-uploads/2015/04/cascorro01.jpg)
+[![cascorro01](/img/2015/04/cascorro01.jpg)
+](/img/2015/04/cascorro01.jpg)
 
-[![cascorro02](/wp-uploads/2015/04/cascorro02.jpg)
-](/wp-uploads/2015/04/cascorro02.jpg)
+[![cascorro02](/img/2015/04/cascorro02.jpg)
+](/img/2015/04/cascorro02.jpg)
 
 ¿La respuesta del ayuntamiento? Con anacolutos y todo, esta:
 

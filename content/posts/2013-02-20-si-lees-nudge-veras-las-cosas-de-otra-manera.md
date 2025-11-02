@@ -25,8 +25,8 @@ Si acabas, como yo, de leer [Nudge](http://en.wikipedia.org/wiki/Nudge_(book)), 
 
 Lo malo del libro es que está escrito por estadounidenses y para estadounidenses. Y allá ellos con sus problemas. Pero, _mutatis mutandis_, a uno se le comienzan a ocurrir traslaciones tal vez oportunas.
 
-[![](/wp-uploads/2013/02/200px-Nudge-cover.jpg#center)
-](/wp-uploads/2013/02/200px-Nudge-cover.jpg)
+[![](/img/2013/02/200px-Nudge-cover.jpg#center)
+](/img/2013/02/200px-Nudge-cover.jpg)
 
 Por ejemplo, piénsese en esas hipotecas de las que tan de moda está hablar estos días. Inducido por el contenido del libro a uno se le ocurriría pensar que los problemas que ahora atraviesan determinados individuos por su culpa se debe a la _asimetría de la información_: los bancos, que venden muchas, lo saben _todo_ al respecto; la gente, que a lo sumo se hipoteca una o dos veces en su vida, está a dos velas. Y luego se topa con la letra pequeña, etc.
 

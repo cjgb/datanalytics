@@ -26,6 +26,6 @@ No, no me vale que me digas que aciertas el 97% de las veces. Dime cuántas vece
 
 Si no, cualquiera.
 
-![](/wp-uploads/2019/03/random_number_generator.gif)
+![](/img/2019/03/random_number_generator.gif)
 
 **Nota:** estaba buscando la referencia a la última noticia de ese estilo que me había llegado, pero no la encuentro. No obstante, seguro, cualquier día de estos encontrarás un ejemplo de lo que denuncio.

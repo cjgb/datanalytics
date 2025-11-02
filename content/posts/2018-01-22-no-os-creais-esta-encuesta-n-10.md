@@ -19,6 +19,6 @@ title: 'No os creáis esta encuesta: ¡n = 10!'
 url: /2018/01/22/no-os-creais-esta-encuesta-n-10/
 ---
 
-![](/wp-uploads/2018/01/encuesta_n_10.png#center)
+![](/img/2018/01/encuesta_n_10.png#center)
 
 (Por referencia, el [enlace](https://twitter.com/gilbellosta/status/953722063621181443)).

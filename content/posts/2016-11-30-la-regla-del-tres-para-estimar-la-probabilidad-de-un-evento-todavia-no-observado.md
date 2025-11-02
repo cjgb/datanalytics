@@ -25,7 +25,7 @@ Es el de la estimación de la probabilidad de eventos todavía no observados. Tr
 
 >Supón que estás corrigiendo un libreo. Si después de 20 páginas has encontrados 7 errores, puedes estimar la probabilidad de que una página contenga un error en 7/20. ¿Pero si no has encontrado ninguno? ¿Darías por buena una probabilidad de 0/20, i.e., que el libro contiene tiene ningún error?
 
-![tres_unicornios](/wp-uploads/2016/11/tres_unicornios.jpg)
+![tres_unicornios](/img/2016/11/tres_unicornios.jpg)
 
 La _regla del tres_ justifica asignar una probabilidad de 3/n después de revisar n casos sin encontrar ningún evento.
 

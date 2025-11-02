@@ -25,7 +25,7 @@ _[A esta entrada, publicada hace un tiempo y puede que con más entusiasmo que r
 
 En la nota de prensa de la estadística de transporte de viajeros del INE de julio de 2016 (no la enlazo porque, entiendo, las notas de prensa van siendo reemplazadas en su portal) aparece la tabla
 
-![transporte_viajeros](/wp-uploads/2016/09/transporte_viajeros.png#center)
+![transporte_viajeros](/img/2016/09/transporte_viajeros.png#center)
 
 en la que el lector podrá encontrar valores ocultos con un puntero a la nota al pie. Que dice:
 
@@ -41,7 +41,7 @@ Sobre el secreto estadístico, el mismo INE [dice](http://www.ine.es/censo_acces
 
 Creo que la foto
 
-![vaca_pixelada](/wp-uploads/2016/09/vaca_pixelada.jpg)
+![vaca_pixelada](/img/2016/09/vaca_pixelada.jpg)
 
 donde (presuntamente, porque no he podido verificar la autenticidad) Google Street View pixela la cabeza de una vaca acompaña estupendamente la presente entrada.
 

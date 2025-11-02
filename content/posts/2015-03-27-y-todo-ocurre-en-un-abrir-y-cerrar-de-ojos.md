@@ -32,8 +32,8 @@ Cuando un usuario abre la aplicación, esta avisa al SSP de que hay un nuevo esp
 
 ¿Quiénes son esos SSP (_supply-side platforms_), DSP (_demand-side platforms_) y mecados (_exchanges_)? Aquí tenéis algunos de sus logotipos
 
-[![rtb_ecosystem](/wp-uploads/2015/03/rtb_ecosystem.png#center)
-](/wp-uploads/2015/03/rtb_ecosystem.png#center)
+[![rtb_ecosystem](/img/2015/03/rtb_ecosystem.png#center)
+](/img/2015/03/rtb_ecosystem.png#center)
 
 extraídos de [esta página](http://www.businessinsider.com.au/mobile-real-time-bidding-ad-ecosystem-2013-5).
 

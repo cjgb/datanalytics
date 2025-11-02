@@ -25,8 +25,8 @@ url: /2015/04/24/el-sujeto-numero-82694/
 
 ¿Más menos cuánto? Según el INE, el _error de muestreo relativo_, $\sqrt{V(\hat{\sigma}}$ a nivel nacional en términos porcentuales es
 
-[![error_relativo](/wp-uploads/2015/04/error_relativo.png#center)
-](/wp-uploads/2015/04/error_relativo.png#center)
+[![error_relativo](/img/2015/04/error_relativo.png#center)
+](/img/2015/04/error_relativo.png#center)
 
 Es decir, el intervalo de confianza para la cifra de parados tendría una anchura como de 100k sujetos. Obviamente, eso impide calcular variaciones de un orden de magnitud menor.
 

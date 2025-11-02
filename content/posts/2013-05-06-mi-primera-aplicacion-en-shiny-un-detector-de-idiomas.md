@@ -23,8 +23,8 @@ Motivado por los [experimentos de Gregorio Serrano con _shiny_](http://www.grser
 
 Se trata de una aplicación que distingue el idioma en que está escrito un texto dentro de una selección de ellos: español, italiano, latín, francés, portugués y catalán.
 
-[![](/wp-uploads/2013/05/detector_idiomas.png#center)
-](/wp-uploads/2013/05/detector_idiomas.png#center)
+[![](/img/2013/05/detector_idiomas.png#center)
+](/img/2013/05/detector_idiomas.png#center)
 
 ¡Invitados quedáis a [probarlo](https://gilbellosta.shinyapps.io/shiny_detector_idiomas/)!
 

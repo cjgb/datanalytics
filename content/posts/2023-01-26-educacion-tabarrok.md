@@ -21,7 +21,7 @@ url: /2023/01/26/valor-anadido-educacion-privada/
 
 Esta entrada principia con el siguiente gráfico:
 
-![](/wp-uploads/2023/educacion-privada-tabarrok.png#center)
+![](/img/2023/educacion-privada-tabarrok.png#center)
 
 Queda a la discreción del lector si la línea tiene algún tipo de tendencia más o menos clara.
 

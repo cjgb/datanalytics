@@ -69,8 +69,8 @@ ggplot(dat, aes(x=consumo, y=beneficio.oferta, col = tarifas)) +
 
 La salida es este gráfico:
 
-[![oferta_fenosa](/wp-uploads/2014/02/oferta_fenosa1.png#center)
-](/wp-uploads/2014/02/oferta_fenosa1.png#center)
+[![oferta_fenosa](/img/2014/02/oferta_fenosa1.png#center)
+](/img/2014/02/oferta_fenosa1.png#center)
 
 Como puede apreciarse, o hilo muy fino con el consumo (con un beneficio máximo anual de unos 50 euros si lo ajusto exactamente al piquillo) o pringo.
 

@@ -25,8 +25,8 @@ La estadística bayesiana se enseña en cursos de estadística (y, frecuentement
 
 Por eso, a los autores de los libros de estadística bayesiana y quienes enseñan cursos sobre lo mismo, enfrentados al problema de llenar de sentido la problemática distribución _a priori_, no se les ocurre nada mejor que discutir muy sesudamente la excepción (la _priori_ no informativa) en lugar de la regla (la _priori_ informativa). Reto al lector escéptico a que repase cualquier manual en la materia (que no haya sido escrito por Gelman) y compare el espacio que dedican a la selección de _prioris_ no informativas con el de convenir una _priori_ informativa decente.
 
-[![homo_bayesianis](/wp-uploads/2016/01/homo_bayesianis.jpg)
-](/wp-uploads/2016/01/homo_bayesianis.jpg)
+[![homo_bayesianis](/img/2016/01/homo_bayesianis.jpg)
+](/img/2016/01/homo_bayesianis.jpg)
 
 La distribución _a priori_ se llama así precisamente porque recoge la información _a priori_ de la que dispone sobre un fenómeno determinado. Tras varios milenios sobre la faz de la tierra haciendo acopio de información a _priori_, la especie humana debería comenzar a prestar más atención a las informativas y bastante menos a esas rarezas que nos remiten a épocas dónde aún se especulaba _ex nihilo_ de las no informativas.
 

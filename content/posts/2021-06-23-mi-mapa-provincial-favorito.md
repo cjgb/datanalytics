@@ -22,11 +22,11 @@ url: /2021/06/23/mi-mapa-provincial-favorito/
 
 Mi mapa provincial de España favorito es este:
 
-![](/wp-uploads/2021/06/mapa_provincial_espana.png#center)
+![](/img/2021/06/mapa_provincial_espana.png#center)
 
 O, en una versión más cruda,
 
-![](/wp-uploads/2021/06/mapa_provincial_2.png#center)
+![](/img/2021/06/mapa_provincial_2.png#center)
 
 Cosas sobre él:
 
@@ -37,11 +37,11 @@ Cosas sobre él:
 
 Lo de los detractores es una cosa extraña. Yo creo que son familia de alguien del rincón de Ademuz o del Condado de Treviño. Desde luego, gente que jamás ha cogido un metro. Los primeros planos del metro de Londres eran tal que
 
-![](/wp-uploads/2021/06/mapa_metro_londres_1932.jpg)
+![](/img/2021/06/mapa_metro_londres_1932.jpg)
 
 pero hubo quien (Harry Beck) decidió crear un plano que, simplemente, ayudase a la gente a ir de A a B:
 
-![](/wp-uploads/2021/06/mapa_metro_londres_harry_beck.jpg)
+![](/img/2021/06/mapa_metro_londres_harry_beck.jpg)
 
 Tanto para viajar por Londres como para representar la tasa de paro por provincias, la exactísima correspondencia de las formas del mapa con la geografía del terreno es un objetivo muy, muy secundario.
 

@@ -20,8 +20,8 @@ Un profesor mío de historia en primero de BUP nos confesó un día que para cor
 
 Justo o no el procedimiento, es cierto que de un mero golpe de vista sobre un texto se pueden adivinar muchas cosas sobre su contenido. Andando los años, además, los ordenadores nos están comenzando a ayudar a realizar este tipo de lecturas superficiales. Si no, véase este gráfico publicado en El País que resume el discurso de Zapatero en el Debate del Estado de la Nación (del 2010):
 
-[![](/wp-uploads/2010/08/1279115173-d44c125a0e942209b6fd646151b32421.jpg)
-](/wp-uploads/2010/08/1279115173-d44c125a0e942209b6fd646151b32421.jpg)
+[![](/img/2010/08/1279115173-d44c125a0e942209b6fd646151b32421.jpg)
+](/img/2010/08/1279115173-d44c125a0e942209b6fd646151b32421.jpg)
 
 Se supone que uno debiera hacerse idea de lo que trataba el discurso sin más que pasar la vista por la nube de palabras. Sin embargo, independientemente de nuestra opinión acerca de estos recursos de nuestra pereza para mantenernos en la superficie de las cosas, desde esta bitácora queremos realizar una lectura crítica de la técnica usada en este caso concreto (no del contenido, guárdenos Dios).
 

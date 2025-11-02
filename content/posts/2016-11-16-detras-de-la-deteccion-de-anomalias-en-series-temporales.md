@@ -24,7 +24,7 @@ url: /2016/11/16/detras-de-la-deteccion-de-anomalias-en-series-temporales/
 
 Por azares, me ha tocado lidiar con eso de la detección de anomalías. Que es un problema que tiene que ver con dónde colocar las marcas azules en
 
-![anomaly_detection](/wp-uploads/2016/11/anomaly_detection.png#center)
+![anomaly_detection](/img/2016/11/anomaly_detection.png#center)
 
 El anterior es el gráfico construido con los datos de ejemplo del [paquete `AnomalyDetection`](https://github.com/twitter/AnomalyDetection). De hecho, así:
 
@@ -48,7 +48,7 @@ plot(stl(myts, "per"))
 
 es decir,
 
-![anomaly_detection_stl](/wp-uploads/2016/11/anomaly_detection_stl.png#center)
+![anomaly_detection_stl](/img/2016/11/anomaly_detection_stl.png#center)
 
 para luego utilizar alguno de esos procedimientos de detección de _outliers_ sobre los residuos (la gráfica de más abajo). Precisamente, [este](http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm).
 

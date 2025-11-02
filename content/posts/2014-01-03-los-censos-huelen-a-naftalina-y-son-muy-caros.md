@@ -22,7 +22,7 @@ Los censos huelen a naftalina. Eso de ir contando exhaustivamente cabezas, crío
 
 Tampoco son operaciones no pequeñas. El último censo chino movilizó a [seis millones de encuestadores](http://www.china.org.cn/china/2010-07/11/content_20470243.htm) y [el de EE.UU.](http://www.genealogybranches.com/censuscosts.html) costó casi [como el AVE a Valencia](https://datanalytics.com/2011/12/21/cuanto-vale-un-billete-del-ave-a-valencia-una-cota-inferior/).
 
-{{< figure src="/wp-uploads/2014/01/coste_censo.png" title="Coste (absoluto y relativo) de los últimos censos de diversos países europeos." >}}
+{{< figure src="/img/2014/01/coste_censo.png" title="Coste (absoluto y relativo) de los últimos censos de diversos países europeos." >}}
 
 Sin embargo, eso de contar sin excepciones es un ejercicio de fuerza bruta propio de la oscura época pre-estadística. El progreso ha traído consigo dos cosas —buena la una, regular la otra—, que permiten replantear enteramente los censos.
 

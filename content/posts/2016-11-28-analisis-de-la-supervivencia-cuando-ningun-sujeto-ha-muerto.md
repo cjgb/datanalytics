@@ -26,7 +26,7 @@ Los datos recogen la [antigüedad de la cámara de fotos de los visitantes de ci
 
 Así que `survreg` no puede converger: se va para la derecha. ¿Qué impide que los sujetos tengan vida infinita?
 
-![live_forever](/wp-uploads/2016/11/live_forever.jpg)
+![live_forever](/img/2016/11/live_forever.jpg)
 
 Estoy dándole vueltas a la cabeza con este problema. También he buscado algo por ahí, pero no he dado con la discusión de algún problema parecido por ninguna parte.
 

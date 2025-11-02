@@ -22,7 +22,7 @@ El otro día,
 [al hablar de las encuestas electorales y su relación con la predicción electoral](/2023/05/09/encuestas-predicciones-electorales/),
 me referí tangencialmente ---y, ahora que lo pienso, un tanto confusamente--- a los promedios de encuestas. Vine a decir que los promedios de encuestas como
 
-![](/wp-uploads/2023/opinion_polling_spain_2023.png#center)
+![](/img/2023/opinion_polling_spain_2023.png#center)
 
 de la
 [Wikipedia](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_general_election)

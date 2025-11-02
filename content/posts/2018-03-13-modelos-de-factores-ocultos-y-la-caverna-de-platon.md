@@ -26,7 +26,7 @@ La filosofía griega, aunque tosca, es rica en imágenes poderosas. El monotemá
 
 Así que observando
 
-![](/wp-uploads/2018/03/caverna_platon.jpg)
+![](/img/2018/03/caverna_platon.jpg)
 
 no pude dejar de pensar que sugiere perfectamente los modelos (de factores) ocultos: _kriging_, Kalman, los HMM, etc.
 

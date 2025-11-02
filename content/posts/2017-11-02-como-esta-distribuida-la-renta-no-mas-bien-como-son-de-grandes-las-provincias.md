@@ -23,12 +23,12 @@ url: /2017/11/02/como-esta-distribuida-la-renta-no-mas-bien-como-son-de-grandes-
 
 El gráfico
 
-![](/wp-uploads/2017/11/renta_regiones.png#center)
+![](/img/2017/11/renta_regiones.png#center)
 
 
 ha estado dando vueltas por el ciberespacio. Lo vi en Twitter de mano de alguien que lo usaba para justificar que la distribución de la renta no es tan desigual en España al fin y al cabo. Está comentado desde el punto de vista de la interpretación y _[tufneado](https://es.wikipedia.org/wiki/Edward_Tufte)_ en términos de la forma
 
-![](/wp-uploads/2017/11/renta_regiones_mejorado.png#center)
+![](/img/2017/11/renta_regiones_mejorado.png#center)
 
 [aquí](http://junkcharts.typepad.com/junk_charts/2017/10/fifty-nine-intersections-supporting-forty-dots-of-data.html).
 
@@ -36,11 +36,11 @@ Pero lo que no he visto comentar es que las variaciones reflejan más cómo es e
 
 En EE.UU., por ejemplo, la renta parece desigualmente repartida en términos relativos. Pero, ¿cuál es ese estado extremoso? [Uno que mide 177 km2](https://es.wikipedia.org/wiki/Washington_D._C.):
 
-![](/wp-uploads/2017/11/GSP_per_capita_in_2015.png#center)
+![](/img/2017/11/GSP_per_capita_in_2015.png#center)
 
 En Europa se usan las regiones NUTS-3, que vienen a equivaler a las provincias en España (aunque en NUTS-3 algunas islas de la misma provincia van a su aire), y a unas cosas diminutas en Alemania:
 
-![](/wp-uploads/2017/11/2000px-NUTS_3_regions_EU-27.svg_.png#center)
+![](/img/2017/11/2000px-NUTS_3_regions_EU-27.svg_.png#center)
 
 Lo cual por sí solo puede explicar ciertas cosas.
 

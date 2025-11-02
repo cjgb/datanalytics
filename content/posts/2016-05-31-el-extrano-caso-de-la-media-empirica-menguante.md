@@ -52,7 +52,7 @@ ggplot(tmp, aes(x = sigmas, y = medias)) +
 
 produce
 
-![expected_vs_empirical](/wp-uploads/2016/05/expected_vs_empirical.png#center)
+![expected_vs_empirical](/img/2016/05/expected_vs_empirical.png#center)
 
 El gráfico anterior, para quien tenga pereza de desentrañar el código, muestra la razón entre la media empírica y la teórica para una serie de extracciones de un millón de muestras de una distribución lognormal con parámetro $\mu = 0$ y con $\sigma$ variando entre 0 y 10. Dicha razón, como cabría esperar, se mantiene cerca de uno para valores bajos de $\sigma$, pero se derrumba para valores más altos.
 

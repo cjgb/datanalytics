@@ -21,7 +21,7 @@ url: /2023/07/06/co2-e-medios-transporte/
 
 Hoy voy a discutir el siguiente gráfico:
 
-![](/wp-uploads/2023/co2-e-medios-transporte.jpg#center)
+![](/img/2023/co2-e-medios-transporte.jpg#center)
 
 Está extraído del libro _Order without Design: How Markets Shape Cities_, de Alain Bertaud, que no recomiendo en absoluto a quienes alberguen la inamovible certeza de que los urbanistas municipales son seres justos y omniscientes y los mercados, fuerzas ciegas y malévolas que solo merecen burla, desprecio y, por encima de todo, represión. Tampoco voy a aburrir al lector con las referencias de los números que representa. Están en el libro. Me bastará advertirle que pueden haber cambiado: hacen referencia al periodo 2016-2017.
 

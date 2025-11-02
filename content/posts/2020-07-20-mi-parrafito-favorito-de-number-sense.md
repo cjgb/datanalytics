@@ -21,4 +21,4 @@ url: /2020/07/20/mi-parrafito-favorito-de-number-sense/
 
 Acabo de terminar (la última edición corregida y aumentada de) _[The Number Sense](https://www.goodreads.com/book/show/1120137.The_Number_Sense)_, un libro que libro explora la ubicación de la aritmética básica dentro del eje naturaleza vs crianza y del que me permito compartir  mi parrafito favorito:
 
-![](/wp-uploads/2020/07/number_sense.png#center)
+![](/img/2020/07/number_sense.png#center)

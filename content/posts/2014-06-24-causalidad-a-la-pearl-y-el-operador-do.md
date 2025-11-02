@@ -35,7 +35,7 @@ Además, el lenguaje (tradicional) de la ciencia no entiende de causalidad. Por 
 
 De ahí que Pearl se haya esforzado en, primero, crear un lenguaje basado en símbolos, redes causales, que representan hipotéticas relaciones causales.
 
-![causal_network](/wp-uploads/2014/06/causal_network.png#center)
+![causal_network](/img/2014/06/causal_network.png#center)
 
 Por ejemplo, la temperatura podría afectar la resistencia de una fibra. Podría plantearse un diagrama simple con una flecha desde la temperatura a la resistencia. Y un ingeniero podría plantear un test para validar si, en efecto, es así. Los ingenieros, de hecho, pueden hacer experimentos en el que varíe únicamente un parámetro y poder así determinar el efecto de dicha intervención (aislada del resto de factores) en el objeto de interés.
 
@@ -45,7 +45,7 @@ La pregunta es: ¿es posible obtener resultados similares a los de los ingeniero
 
 Por ejemplo, ¿qué pasaría con la tasa de paro si bajásemos los impuestos? Sustituiríamos `IRPF` por `do(IRPF)` en nuestra red probabilística y operaríamos sobre ella hasta eliminar, de ser posible, nuestro condicionante hipotético.
 
-![do_operator](/wp-uploads/2014/06/do_operator.png#center)
+![do_operator](/img/2014/06/do_operator.png#center)
 
 En el gráfico anterior hay un ejemplo. En una red causal, se introduce una intervención, `do(s)`, y se opera con las reglas de la probabilidad y del operador hasta eliminarlo. Y eliminarlo significa que es posible deducir (o, al menos, _testar_) una relación de causalidad sin realizar un experimento al uso, simplemente utilizando resultados observacionales.
 

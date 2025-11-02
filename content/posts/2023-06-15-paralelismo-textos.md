@@ -40,19 +40,19 @@ Lo que hice (y que puede verse, esencialmente,
 
 Los resultados. Primero, la matriz:
 
-![](/wp-uploads/2023/paralelismo_evangelios.png#center)
+![](/img/2023/paralelismo_evangelios.png#center)
 
 Filas y columnas corresponden a frases de los dos evangelios en cuestión. Sin forzar mucho la vista puede apreciarse una línea diagonal de _alta correlación_ que recorre la trama común. Las frases con correlación más alta son copias literales
 
-![](/wp-uploads/2023/paralelismo_evangelios_01.png#center)
+![](/img/2023/paralelismo_evangelios_01.png#center)
 
 aunque enseguida empiezan a aparecer pequeñas variaciones:
 
-![](/wp-uploads/2023/paralelismo_evangelios_02.png#center)
+![](/img/2023/paralelismo_evangelios_02.png#center)
 
 Es curioso que la menor de las _correlaciones_ es de 0.685295 (y entre frases, además, que apenas se parecen):
 
-![](/wp-uploads/2023/paralelismo_evangelios_03.png#center)
+![](/img/2023/paralelismo_evangelios_03.png#center)
 
 Mi resumen: estoy un poco decepcionado. Esperaba, tenía la vaga esperanza de que revelasen _bloques_ (más que una débil _línea argumental_) fácilmente identificables: el nacimiento, la crucifixión, etc. Igual tenía que haber pensado en unidades de texto más amplias que la frase completa. Pero esta tampoco es realmente mi guerra y si lo hago y si, sobre todo, lo logro, igual _piso_ algún TFG patatero.
 

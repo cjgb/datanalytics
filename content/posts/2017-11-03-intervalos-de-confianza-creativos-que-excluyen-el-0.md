@@ -20,7 +20,7 @@ url: /2017/11/03/intervalos-de-confianza-creativos-que-excluyen-el-0/
 
 Es el de `b`:
 
-![](/wp-uploads/2017/11/intervalo_confianza.png#center)
+![](/img/2017/11/intervalo_confianza.png#center)
 
 (A ver cuál es el primero de mis excolegas que protesta que pinto la unión de dos intervalos de confianza y no un intervalo propiamente dicho).
 

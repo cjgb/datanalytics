@@ -24,8 +24,8 @@ El adelanto electoral puede afectar el debate y aprobación de una ley largament
 Se trata de una ley que daría derecho a los ciudadanos a obtener datos que obren en poder de (determinados organismos de la) administración del Estado bajo criterios amplios. Ha existido una propuesta inicial del PSOE y otra —considerada superior por los partidarios de los datos abiertos— del PP. Ahora habrá que esperar a la siguiente legislatura, parece ser.
 
 
-[![](/wp-uploads/2011/09/distribucion_gasto_publico.png#center)
-](/wp-uploads/2011/09/distribucion_gasto_publico.png#center)
+[![](/img/2011/09/distribucion_gasto_publico.png#center)
+](/img/2011/09/distribucion_gasto_publico.png#center)
 
 
 La principal reserva confesable (aunque haya mil de las otras) en contra de la liberación de los datos es el de la salvaguardia de la privacidad de los individuos y, en definitiva, que los datos liberados estén debidamente anonimizados. No es tema baladí y [ya me he ocupado de él](https://datanalytics.com/2011/09/22/anonimidad-y-cantidad-de-informacion/) en una ocasión en esta bitácora.

@@ -28,7 +28,7 @@ No sé si se usa la terminología de margen bruto medio y margen neto medio (MBM
 
 Echemos primero un vistazo a la cuenta de pérdidas y ganancias de 2022 de la cadena de alimentación por antonomasia en estos tiempos y latitudes, Mercadona:
 
-![pérdidas ganancias mercadona 2022](/wp-uploads/2024/pyg_mercadona_2024.png#center)
+![pérdidas ganancias mercadona 2022](/img/2024/pyg_mercadona_2024.png#center)
 
 Mercadona compró mercancías para la venta por valor de 21kM€ y vendió 28kM€. Simplificándolo todo hasta el extremo, es como si hubiese comprado muchas cosas que valían 21€ a sus proveedores y las hubiese vendido a 28€. El MBM es (28 - 21) / 21 = 33%. Si uno entra a Mercadona y ve un producto que cuesta 100€, cabe esperar que Mercadona haya pagado 75€ a su proveedor.
 
@@ -66,7 +66,7 @@ Efectivamente, es muy probable que en las grandes ciudades, muchos productos se 
 
 Mucha gente ve el principio ---el agricultor al que dizque le pagan el kilo a 18 céntimos--- y el final ---una foto del PVP del mismo producto en el supermercado--- de la _cadena_. Y dado que hay un orden de magnitud entre lo uno y lo otro, colige que en esa _cadena_ ocurren tráficos reprochables. Es cierto que la _cadena_ opera con nocturnidad ---véase, por ejemplo, [este reportaje sobre Mercamadrid](https://www.youtube.com/watch?v=U5bch5IUZo0)--- pero no con alevosía. Si uno busca mayoristas de frutas y verduras, encuentra rápidamente listados como
 
-![mayoristas naranjas](/wp-uploads/2024/mayoristas_naranjas.png#center)
+![mayoristas naranjas](/img/2024/mayoristas_naranjas.png#center)
 
 que ponen en cuestión todo tipo de elucubración acerca de cárteles y colusiones.
 

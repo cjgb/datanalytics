@@ -37,7 +37,7 @@ Eso es lo fundamental que hay que saber al respecto.
 
 Tenía decidido yo mantenerme al margen de todo tipo de debates, votaciones, asambleas o neomecanismos de _democracia directa_ municipal en tanto en cuanto mi ayuntamiento, de oficio, no reparase las aceras y calzadas de mi barrio, no eliminase los socavones, ni evitase la formación charcos de corte conourbanobonearense como
 
-![](/wp-uploads/2017/03/charco_meson_paredes.jpg)
+![](/img/2017/03/charco_meson_paredes.jpg)
 
 en la intersección de Tirso de Molina con Mesón de Paredes (sí, en mi ruta al metro). No obstante, vencido por la curiosidad, accedí al [portal de propuestas para los presupuestos participativos de 2017 del ayuntamiento de Madrid](https://decide.madrid.es/presupuestos/presupuestos-participativos-2017/). Y cuál no sería perplejidad al constatar que la segunda más valorada era una propuesta para la [_transformación del alumbrado urbano para que se nutra de energía solar_](https://decide.madrid.es/presupuestos/presupuestos-participativos-2017/proyecto/2775).
 

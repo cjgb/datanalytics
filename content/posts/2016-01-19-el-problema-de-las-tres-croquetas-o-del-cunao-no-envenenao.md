@@ -20,8 +20,8 @@ url: /2016/01/19/el-problema-de-las-tres-croquetas-o-del-cunao-no-envenenao/
 
 Estás comiendo donde tu suegra y te muestra un plato con tres croquetas. Tus espías en la cocina te han informado de que una de ellas contiene dosis letales de estricnina. Eliges una y no te la comes todavía porque ves pasar a tu _cuñao_, que no sabe nada de lo que pasa, y le invitas a coger una de las dos croquetas restantes. Él toma una, se la come y no se muere.
 
-[![tres croquetas](/wp-uploads/2016/01/tres_croquetas.jpg)
-](/wp-uploads/2016/01/tres_croquetas.jpg)
+[![tres croquetas](/img/2016/01/tres_croquetas.jpg)
+](/img/2016/01/tres_croquetas.jpg)
 
 La pregunta es: ¿te comes la croqueta que has elegido en primer lugar? ¿O cambias de croqueta? (No, no comer ninguna croqueta no parece ser una opción).
 

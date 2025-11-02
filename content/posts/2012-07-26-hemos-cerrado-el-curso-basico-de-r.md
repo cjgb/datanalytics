@@ -26,56 +26,56 @@ Al acabar hemos hecho una pequeña encuesta entre quienes lo han seguido con los
 
 ¿Cuál es tu valoración sobre la adecuación de los contenidos cubiertos durante el curso?
 
-[![](/wp-uploads/2012/07/contenidos.png#center)
-](/wp-uploads/2012/07/contenidos.png#center)
+[![](/img/2012/07/contenidos.png#center)
+](/img/2012/07/contenidos.png#center)
 
 ¿Cuál es tu valoración sobre la calidad de la documentación sugerida?
 
-[![](/wp-uploads/2012/07/calidad.png#center)
-](/wp-uploads/2012/07/calidad.png#center)
+[![](/img/2012/07/calidad.png#center)
+](/img/2012/07/calidad.png#center)
 
 ¿Cuál es tu valoración de la usabilidad de la plataforma de preguntas y respuestas?
 
-[![](/wp-uploads/2012/07/plataforma.png#center)
-](/wp-uploads/2012/07/plataforma.png#center)
+[![](/img/2012/07/plataforma.png#center)
+](/img/2012/07/plataforma.png#center)
 
 ¿Cuál es tu valoración sobre el grado de interacción con los participantes?
 
-[![](/wp-uploads/2012/07/interaccion.png#center)
-](/wp-uploads/2012/07/interaccion.png#center)
+[![](/img/2012/07/interaccion.png#center)
+](/img/2012/07/interaccion.png#center)
 
 ¿Cuál es tu valoración sobre la utilidad del curso?
 
-[![](/wp-uploads/2012/07/utilidad.png#center)
-](/wp-uploads/2012/07/utilidad.png#center)
+[![](/img/2012/07/utilidad.png#center)
+](/img/2012/07/utilidad.png#center)
 
 ¿Cuál es tu valoración acerca de tu grado de avance en el conocimiento de R como resultado del curso?
 
-[![](/wp-uploads/2012/07/avance.png#center)
-](/wp-uploads/2012/07/avance.png#center)
+[![](/img/2012/07/avance.png#center)
+](/img/2012/07/avance.png#center)
 
 ¿Cuál ha sido tu seguimiento del curso?
 
-[![](/wp-uploads/2012/07/seguimiento.png#center)
-](/wp-uploads/2012/07/seguimiento.png#center)
+[![](/img/2012/07/seguimiento.png#center)
+](/img/2012/07/seguimiento.png#center)
 
 En caso de haber abandonado el curso, ¿cuál(es) ha(n) sido el/los motivo(s)?
 
-[![](/wp-uploads/2012/07/motivo.png#center)
-](/wp-uploads/2012/07/motivo.png#center)
+[![](/img/2012/07/motivo.png#center)
+](/img/2012/07/motivo.png#center)
 
 De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso de introducción a la Estadística con R (con más Estadística y menos R que este curso)?
 
-[![](/wp-uploads/2012/07/estadistica.png#center)
-](/wp-uploads/2012/07/estadistica.png#center)
+[![](/img/2012/07/estadistica.png#center)
+](/img/2012/07/estadistica.png#center)
 
 
 (Perdón por la [graficaca](https://datanalytics.com/2011/03/02/1658/): son cosas de Google).
 
 De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso avanzado de R?
 
-[![](/wp-uploads/2012/07/avanzado.png#center)
-](/wp-uploads/2012/07/avanzado.png#center)
+[![](/img/2012/07/avanzado.png#center)
+](/img/2012/07/avanzado.png#center)
 
 Así que creo que es bastante probable que después de las vacaciones planteemos un nuevo curso con contenido aún a determinar.
 

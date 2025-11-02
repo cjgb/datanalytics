@@ -22,7 +22,7 @@ url: /2020/12/16/la-interpretacion-de-significativo-en-un-caso-muy-concreto/
 
 Comienzo por el final:
 
-![](/wp-uploads/2020/12/significativo-1.png#center)
+![](/img/2020/12/significativo-1.png#center)
 
 En el gráfico anterior se aprecian unos datos, generados mediante
 
@@ -48,11 +48,11 @@ modelo <- lm(y ~ cos1 + cos2, data = out)
 
 Los p-valores correspondientes al segundo coeficiente (que no aporta nada al modelo generativo) son
 
-![](/wp-uploads/2020/12/significativo_p_valores.png#center)
+![](/img/2020/12/significativo_p_valores.png#center)
 
 Es decir, con no tanto ruido, el coeficiente _parece_ significativo. Y por su propia naturaleza, la naturaleza del coseno,
 
-![](/wp-uploads/2020/12/significativo_cosenos.png#center)
+![](/img/2020/12/significativo_cosenos.png#center)
 
 si sube cerca del cero para arrimarse a los _outliers_, tiene también que subir cerca del 50 porque tal es su naturaleza. Lo cual conlleva una exégesis muy agotadora de la significantísima naturaleza de ese repunte en el entorno del 50 en esos gráficos que he mostrado al comenzar y la enorme pérdida que representan para la humanidad si desaparece por la inopinada ocurrencia de usar métodos robustos de ajuste, etc.
 

@@ -80,8 +80,8 @@ ggplot(x.df, aes(x=dates, y=value)) + geom_line() + opts(legend.position = "none
 
 se genera el gráfico
 
-[![](/wp-uploads/2012/09/problemas_cis.png#center)
-](/wp-uploads/2012/09/problemas_cis.png#center)
+[![](/img/2012/09/problemas_cis.png#center)
+](/img/2012/09/problemas_cis.png#center)
 
 en el que se entenderían más cosas si algunas etiquetas fuesen menos prolijas.
 

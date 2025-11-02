@@ -20,7 +20,7 @@ url: /2019/02/14/modas-y-fotogenia-del-codigo-secuencial/
 
 Este tipo de _programación_ se puso de moda en los noventa:
 
-![](/wp-uploads/2019/02/clementine.png#center)
+![](/img/2019/02/clementine.png#center)
 
 Y yo decía: ¿dónde están mis bucles? ¿Y mis bifurcaciones?
 

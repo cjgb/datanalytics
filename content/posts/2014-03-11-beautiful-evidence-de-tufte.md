@@ -47,12 +47,12 @@ El siguiente capítulo habla de la _corrupción de la evidencia_. Usa el términ
 
 Y el último de los capítulos relevantes habla [sobre PowerPoint](http://www.wired.com/wired/archive/11.09/ppt2.html). Es una herramienta que invita por construcción a cometer todos los pecados cuya existencia nos han revelado los capítulos anteriores. Ironiza Tufte con que PowerPoint nos obliga a conformarnos con
 
-[![egipto_tufte](/wp-uploads/2014/03/egipto_tufte.png#center)
-](/wp-uploads/2014/03/egipto_tufte.png#center)
+[![egipto_tufte](/img/2014/03/egipto_tufte.png#center)
+](/img/2014/03/egipto_tufte.png#center)
 
 cuando es posible tener
 
-[![renacimiento_tufte](/wp-uploads/2014/03/renacimiento_tufte.png#center)
-](/wp-uploads/2014/03/renacimiento_tufte.png#center)
+[![renacimiento_tufte](/img/2014/03/renacimiento_tufte.png#center)
+](/img/2014/03/renacimiento_tufte.png#center)
 
 ¿Alternativa al estilo de presentación de PowerPoint? Reemplazar las presentaciones por documentos e informes técnicos, construir frases con su sujeto, verbo y predicado. Organizarlas en párrafos y estos en secciones y capítulos. Acompañarlos de gráficos con alta densidad de información y debidamente anotados.

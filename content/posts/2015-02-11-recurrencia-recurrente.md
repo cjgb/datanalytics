@@ -76,7 +76,7 @@ dev.off()
 
 El resultado es
 
-[![AddingWaves](/wp-uploads/2015/02/AddingWaves.jpeg)
-](/wp-uploads/2015/02/AddingWaves.jpeg)
+[![AddingWaves](/img/2015/02/AddingWaves.jpeg)
+](/img/2015/02/AddingWaves.jpeg)
 
 Hoy comentaba en el trabajo que unos nacieron para crear y otros para criticar. ¡Qué duro ha sido con alguno de nosotros el sino!

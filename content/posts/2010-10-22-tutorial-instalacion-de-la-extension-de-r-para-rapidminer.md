@@ -32,8 +32,8 @@ Los pasos son los siguientes:
 5. Arrancar RapidMiner. Al iniciarse por primera vez, RapidMiner nos pregunta por el directorio donde ubicar el _repositorio_. Se puede crear uno para él. Inmediatamente se abre una ventana en la que RapidMiner indica que existen actualizaciones disponibles. Como se aprecia en la captura de pantalla, una de ellas es la extensión para R (imagino que quienes tengan ya instalado RapidMiner pueden acceder a la misma ventana de actualizaciones a través de los menús de la aplicación):
 
 
-[![](/wp-uploads/2010/10/actualizaciones_rapidminer_r.png#center)
-](/wp-uploads/2010/10/actualizaciones_rapidminer_r.png#center)
+[![](/img/2010/10/actualizaciones_rapidminer_r.png#center)
+](/img/2010/10/actualizaciones_rapidminer_r.png#center)
 
 
 
@@ -43,5 +43,5 @@ Los pasos son los siguientes:
 
 
 
-[![](/wp-uploads/2010/10/rapidminer_con_r.png#center)
-](/wp-uploads/2010/10/rapidminer_con_r.png#center)
+[![](/img/2010/10/rapidminer_con_r.png#center)
+](/img/2010/10/rapidminer_con_r.png#center)

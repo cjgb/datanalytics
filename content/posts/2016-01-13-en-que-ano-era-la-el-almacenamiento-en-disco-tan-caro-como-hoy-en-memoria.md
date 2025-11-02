@@ -21,8 +21,8 @@ url: /2016/01/13/en-que-ano-era-la-el-almacenamiento-en-disco-tan-caro-como-hoy-
 
 La respuesta a sea pregunta, y siempre de acuerdo con los [datos de John C. McCallum](http://www.jcmit.com/), la da
 
-[![discos_vs_memoria](/wp-uploads/2016/01/discos_vs_memoria.png#center)
-](/wp-uploads/2016/01/discos_vs_memoria.png#center)
+[![discos_vs_memoria](/img/2016/01/discos_vs_memoria.png#center)
+](/img/2016/01/discos_vs_memoria.png#center)
 
 que hace corresponder a cada año del eje horizontal el correspondiente (en el vertical) aquel en el que el almacenamiento en disco venía a costar lo mismo (euros por MB) que el memoria en el primero.
 

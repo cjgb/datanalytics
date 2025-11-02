@@ -27,7 +27,7 @@ De ahí mis dos (sin perjuicio de otros) argumentos racionales en pro de la home
 
 El primero es que la lucha contra la homeopatía (y otras sinrazones) abarata la ignorancia. Librar a la gente de los efectos perniciosos de la ignorancia la convierten en un bien más deseable, por lo que aumentará su demanda. La ignorancia debería ser un bien caro, un bien de lujo solo al alcance de unos cuantos privilegiados. Tanto que la gente se lamentase: "Ojalá pudiese desconocer el teorema de Pitágoras, pero no me lo puedo permitir".
 
-![](/wp-uploads/2017/09/ignorancia.jpg)
+![](/img/2017/09/ignorancia.jpg)
 
 Los poderes públicos tratan de abaratar el coste relativo del conocimiento con respecto a la ignorancia. Por eso nos proveen de educación gratuita, bibliotecas, becas, etc. Además, tenemos Google, tenemos [Library Genesis](http://gen.lib.rus.ec/), etc. El conocimiento está ahí, gratis, subvencionado, a menudo, al alcance de la mano.
 

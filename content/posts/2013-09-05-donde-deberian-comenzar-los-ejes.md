@@ -21,20 +21,20 @@ url: /2013/09/05/donde-deberian-comenzar-los-ejes/
 
 [Protesta eldiario.es esta imagen](http://www.eldiario.es/rastreador/paro-desaparece-solo-TVE_6_171542857.html) capturada de un informativo de TVE:
 
-[![](/wp-uploads/2013/09/Captura-evolucion-registrado-Telediario-TVE_EDIIMA20130903_0379_131.jpg)
-](/wp-uploads/2013/09/Captura-evolucion-registrado-Telediario-TVE_EDIIMA20130903_0379_131.jpg)
+[![](/img/2013/09/Captura-evolucion-registrado-Telediario-TVE_EDIIMA20130903_0379_131.jpg)
+](/img/2013/09/Captura-evolucion-registrado-Telediario-TVE_EDIIMA20130903_0379_131.jpg)
 
 El motivo es el habitual debate sobre los ejes truncados (que, todoy hay que decirlo, usan tirios para escándalo de troyanos y, luego, troyanos para escándalo de tirios).
 
 Propone eldiario.es y dibuja Belén Picazo este artefacto alternativo:
 
-[![](/wp-uploads/2013/09/Paro-registrado-Grafico-Belen-Picazo_EDIIMA20130903_0540_13.jpg)
-](/wp-uploads/2013/09/Paro-registrado-Grafico-Belen-Picazo_EDIIMA20130903_0540_13.jpg)
+[![](/img/2013/09/Paro-registrado-Grafico-Belen-Picazo_EDIIMA20130903_0540_13.jpg)
+](/img/2013/09/Paro-registrado-Grafico-Belen-Picazo_EDIIMA20130903_0540_13.jpg)
 
 Y uno se pregunta: ¿así deberían hacerse las cosas? Por ejemplo, el mismo día en que TVE publicó eso (y el anterior, y el suguiente), en otro medio aparecía este otro gráfico:
 
-[![](/wp-uploads/2013/09/ibex20130905.png#center)
-](/wp-uploads/2013/09/ibex20130905.png#center)
+[![](/img/2013/09/ibex20130905.png#center)
+](/img/2013/09/ibex20130905.png#center)
 
 Razones ideológicas aparte, ¿debería también Belén escandalizarse de él? ¿Están los periódicos engatusando a los inversores bursátiles al capar los ejes? ¿Existen motivos puramente gráficos (o sicológicos) para que arranquen de cero? ¿Se apreciaría la evolución de una sesión bursátil (con movimientos típicos al alza o la baja de menos de dos puntos) si siguiésemos las instrucciones de Belén?
 

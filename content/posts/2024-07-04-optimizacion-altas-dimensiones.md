@@ -19,7 +19,7 @@ url: /2024/07/04/optimizacion-altas-dimensiones/
 
 Esta es la [función de Rosenbrock](https://en.wikipedia.org/wiki/Rosenbrock_function), también conocida como función plátano o ---en algunos contextos--- como _el coco_:
 
-![](/wp-uploads/2024/banana-function.png#center)
+![](/img/2024/banana-function.png#center)
 
 Es una de esas funciones contra la que tienen que demostrar su valía los algoritmos de optimización que los matemáticos discurren por ahí. La función ilustra uno de los problemas habituales de la optimización: las variables _se confabulan_ para que las ideas simples no funcionen: los gradientes no apuntan hacia el mínimo, este se encuentra en un valle estrecho, etc. Y que conste que las he visto peores en la práctica.
 

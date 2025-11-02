@@ -21,7 +21,7 @@ url: /2018/03/06/soy-parte-del-concilabulo-heteropatriarcal/
 
 En una de esas comidas navideñas tuve que asistir pasivamente a una conversación en la que se dibujaba una peculiar _realidad alternativa_: existiría algo así como un conciliábulo (el _Márketing_) con capacidad de memoria, entendimiento y voluntad propias e interés por implementar una particular agenda de corte heteropatriarcal. Producto de la cual, por ejemplo, las afeitadoras de color rosa para mujeres vendrían a resultar más caras que las azules para hombres, etc. El _Márketing_ sería un grupito de señores fumando puros, jugando al mus que, entre partida y partida, deciden el color, empaquetado, estampado, forma y precio de cada producto imaginable vendido en cualquier tienda del reino; el descuento que se puede aplicar a cada cual según su raza, sexo/orientación sexual, religión, enfermedad crónica y afiliación sindical. Con un solo objetivo: perjudicar a los/as consabidos/as.
 
-![](/wp-uploads/2018/03/Hisstationand4aces-coolidge.jpg#center)
+![](/img/2018/03/Hisstationand4aces-coolidge.jpg#center)
 
 Ahora cuento lo mío. Resulta que en Circiter estamos cerca de entrar en un proyecto de _pricing_ en un determinado sector (de consumo masivo): muchos productos, muchas ubicaciones, etc. Y la pregunta es: ¿a cuánto poner a la venta cada cosa?
 

@@ -62,8 +62,8 @@ dev.off()
 
 en R para construir
 
-[![](/wp-uploads/2013/12/uso_r_help_es.png#center)
-](/wp-uploads/2013/12/uso_r_help_es.png#center)
+[![](/img/2013/12/uso_r_help_es.png#center)
+](/img/2013/12/uso_r_help_es.png#center)
 
 y constatar que la [lista de correo de ayuda de R en español](https://stat.ethz.ch/mailman/listinfo/r-help-es) está en crisis.
 

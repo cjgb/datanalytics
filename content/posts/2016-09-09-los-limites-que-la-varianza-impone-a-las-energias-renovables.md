@@ -22,7 +22,7 @@ url: /2016/09/09/los-limites-que-la-varianza-impone-a-las-energias-renovables/
 
 El asunto de las energías renovables, a partir de cierto umbral de capacidad instalada, se convierte en uno de gestión de la varianza.
 
-![eolica_alemania](/wp-uploads/2016/09/eolica_alemania.png#center)
+![eolica_alemania](/img/2016/09/eolica_alemania.png#center)
 
 En [este artículo](https://www.econstor.eu/bitstream/10419/144985/1/cesifo1_wp5950.pdf) se discuten esos problemas para el caso alemán. No trata tanto el problema de la gestión de los picos (particularmente los intradiarios) como de la variabilidad estacional, dentro del año, de la producción eólica y solar, que no se corresponde con la del consumo.
 

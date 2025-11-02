@@ -30,11 +30,11 @@ Se trata de un plano de la ciudad y puerto de Málaga donde Onofre Rodríguez an
 [aquí](http://bdh.bne.es/bnesearch/detalle/bdh0000033581)
 con mayor resolución):
 
-![](/wp-uploads/2020/09/plano_malaga.jpeg)
+![](/img/2020/09/plano_malaga.jpeg)
 
 Este plano es un anexo al informe _[Breve descripción de la fiebre amarilla padecida en Cadiz y pueblos comarcanos en 1800](http://bdh.bne.es/bnesearch/CompleteSearch.do?languageView=es&field=todos&text=Breve+descripci%c3%b3n+de+la+fiebre+amarilla+padecida+en+C%c3%a1diz+y+pueblos+comarcanos+en+1800&showYearItems=&exact=on&textH=&advanced=false&completeText=&pageSize=1&pageSizeAbrv=30&pageNumber=1)_ de Juan Manuel de Aréjula (que no tiene página en la Wikipedia, sea todo dicho de paso) que se puede bajar en PDF de la Biblioteca Nacional, y que trae cantidad sorprendente de información epidemiológica y estadística, como esta tabla:
 
-![](/wp-uploads/2020/09/tabla_fiebre_amarilla_malaga-726x1024.jpeg)
+![](/img/2020/09/tabla_fiebre_amarilla_malaga-726x1024.jpeg)
 
 Y, para terminar, un extracto sorprendentemente moderno:
 

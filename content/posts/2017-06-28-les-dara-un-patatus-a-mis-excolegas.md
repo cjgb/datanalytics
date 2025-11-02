@@ -22,7 +22,7 @@ En Gaussianos publicaron [este problema](http://gaussianos.com/segmento-desconoc
 
 >En un triángulo acutángulo ABC tenemos que AH, AD y AM son, respectivamente, la altura, la bisectriz y la mediana que parten desde A, estando H, D y M en el lado BC. Si las longitudes de AB, AC y MD son, respectivamente, 11, 8 y 1, calcula la longitud del segmento DH.
 
-El gráfico, construido por uno de los respondedores, Ignacio Larrosa Cañestro, es este:![](/wp-uploads/2017/06/triangulo.jpg)
+El gráfico, construido por uno de los respondedores, Ignacio Larrosa Cañestro, es este:![](/img/2017/06/triangulo.jpg)
 
 
 Mi solución (puro uso del [teorema del seno](https://es.wikipedia.org/wiki/Teorema_de_los_senos)):

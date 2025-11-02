@@ -26,8 +26,8 @@ Recomiendo a mis lectores el artículo _[Visualizing Uncertainty About the Futur
 
 Abarca desde los incipientes trabajos de Nightingale y Neurath hasta Gapminder y los más modernos desarrollos de la infografía. Aplaude, por ejemplo, la iniciativa del Banco de Inglaterra de publicar información sobre la posible evolución de indicadores económicos futuros de la forma
 
-[![](/wp-uploads/2011/10/bank_of_england_inflation_projections.gif)
-](/wp-uploads/2011/10/bank_of_england_inflation_projections.gif)
+[![](/img/2011/10/bank_of_england_inflation_projections.gif)
+](/img/2011/10/bank_of_england_inflation_projections.gif)
 
 que ilustra el carácter incierto de toda proyección a futuro en lugar de sucumbir a la presión de quienes preferirían una cifra redonda.
 

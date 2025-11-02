@@ -22,7 +22,7 @@ url: /2023/12/07/r-mapas-proyecciones/
 
 A la vista de los mapas
 
-![](/wp-uploads/2023/mapas-proyecciones.png#center)
+![](/img/2023/mapas-proyecciones.png#center)
 
 pocos habrán que no prefieran el de la derecha. Los mapas están extraídos de la entrada
 [_Improve your maps in one line of code changing map projections_](https://ikashnitsky.phd/2023/map-proj/index.html),

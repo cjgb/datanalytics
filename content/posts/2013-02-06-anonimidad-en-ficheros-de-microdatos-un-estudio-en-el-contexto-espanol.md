@@ -27,8 +27,8 @@ Por eso se utiliza como medida de la anonimidad la llamada k-anonimidad: cuánto
 
 De hecho, sabidos el municipio, el sexo y de la fecha ya sea solo el año, el año y el mes o año, mes y día, el grado de k-anonimidad viene dado por la siguiente tabla:
 
-[![](/wp-uploads/2013/02/k_anonimidad_espana.png#center)
-](/wp-uploads/2013/02/k_anonimidad_espana.png#center)
+[![](/img/2013/02/k_anonimidad_espana.png#center)
+](/img/2013/02/k_anonimidad_espana.png#center)
 
 (Nota: `n` se refiere a la población total y está expresado en miles).
 

@@ -21,7 +21,7 @@ url: /2015/06/26/extraido-de-un-libro-de-educacion-primaria/
 
 Del capítulo de estadística de un libro de matemática para críos capturé el otro día
 
-[![tartas_libro](/wp-uploads/2015/06/tartas_libro.jpg)
-](/wp-uploads/2015/06/tartas_libro.jpg)
+[![tartas_libro](/img/2015/06/tartas_libro.jpg)
+](/img/2015/06/tartas_libro.jpg)
 
 ¿A qué os imagináis lo que se me pasó por la mente? Pues no lo digo por si algún día llego a concejal.

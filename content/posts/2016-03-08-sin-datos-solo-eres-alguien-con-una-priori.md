@@ -20,7 +20,7 @@ url: /2016/03/08/sin-datos-solo-eres-alguien-con-una-priori/
 
 Que es una manera de matizar
 
-![sin_datos_deming](/wp-uploads/2016/03/sin_datos_deming.png#center)
+![sin_datos_deming](/img/2016/03/sin_datos_deming.png#center)
 
 Porque, recordemos,
 

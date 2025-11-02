@@ -22,8 +22,8 @@ Leer sobre la [historia de los `glm`](http://blog.revolutionanalytics.com/2014/0
 
 El tercer paso del primero es
 
-[![fit_by_hand](/wp-uploads/2015/07/fit_by_hand.png#center)
-](/wp-uploads/2015/07/fit_by_hand.png#center)
+[![fit_by_hand](/img/2015/07/fit_by_hand.png#center)
+](/img/2015/07/fit_by_hand.png#center)
 
 y sí, sugiere ajustar _a ojo_, aunque advierte que hacerlo a mano (algebraicamente) o con la ayuda de un ordenador puede ser más preciso además de proporcionar intervalos de confianza.
 

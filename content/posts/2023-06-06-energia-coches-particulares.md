@@ -74,7 +74,7 @@ ggplot(equiv, aes(x = kwhd_equiv)) +
 
 he obtenido finalmente
 
-![](/wp-uploads/2023/cars_kwhd_equivalent.png#center)
+![](/img/2023/cars_kwhd_equivalent.png#center)
 
 Y, ahora, los comentarios:
 

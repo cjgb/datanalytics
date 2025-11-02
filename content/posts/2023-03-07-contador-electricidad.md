@@ -22,7 +22,7 @@ url: /2023/03/07/consumo-electrico-tiempo-real/
 
 Por eso de que el Pisuerga pasa por Valladolid y que el diablo, cuando se aburre, mata moscas con el rabo, he instalado un cacharrito de 30 euros en el cuadro eléctrico de mi casa que mide el consumo (vatios, amperios y voltios)_en tiempo real_. En concreto, guardo medidas cada seis segundos aproximadamente. Mi perfil de consumo (potencia, en kW), sobre el que volveré luego, es así:
 
-![](/wp-uploads/2023/consumo_electricidad.png#center)
+![](/img/2023/consumo_electricidad.png#center)
 
 ## II.
 
@@ -44,7 +44,7 @@ De hecho, es complicado no exceder los 3.45 kW habida cuenta de que la vitrocer�
 
 ¿Cuánta? Es tema de enconado debate rodeado de cifras míticas. Un ejemplo más de cómo se comporta la masa anumérica enfrentada a curvas no lineales. Otros casos paradigmáticos en los que las respuestas de la plebe son parecidas tienen que ver con los logaritmos y los tipos del IRPF. En este caso en concreto, aparentemente, las tolerancias vienen indicadas por la _curva gorda_
 
-![](/wp-uploads/2023/curva-icp.gif#center)
+![](/img/2023/curva-icp.gif#center)
 
 (sí: parece que las tolerancias tienen tolerancias) extraída de la llamada norma UNE que, al parecer, está vigente.
 

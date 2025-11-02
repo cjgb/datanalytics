@@ -61,6 +61,6 @@ En matemáticas tenemos una manera muy cómoda de salir del apuro: llamar $X$ al
 
 Hay unos que dicen que el mundo es una especie de plato sostenido a lomos de un elefante que se apoya a su vez, en una tortuga gigante. Pero, ¿en qué se apoya la tortuga? ¿En otra tortuga tal vez?
 
-![](/wp-uploads/2022/12/tortugas-hasta-abajo.jpeg#center)
+![](/img/2022/12/tortugas-hasta-abajo.jpeg#center)
 
 Igual los eventos son eso: eventos dentro de eventos, dentro de eventos, y así sucesivamente hasta donde se pierde la vista.

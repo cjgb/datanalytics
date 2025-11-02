@@ -20,7 +20,7 @@ url: /2016/01/05/las-magnitudes-que-se-quieren-comparar-adyacentes-siempre/
 
 No así hicieron los responsables de
 
-[![tartas_estudios](/wp-uploads/2016/01/tartas_estudios.png#center)
-](/wp-uploads/2016/01/tartas_estudios.png#center)
+[![tartas_estudios](/img/2016/01/tartas_estudios.png#center)
+](/img/2016/01/tartas_estudios.png#center)
 
 Reyes magos, regaladles un libro decente de visualización de datos, ¡por favor!

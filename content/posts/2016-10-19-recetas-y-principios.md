@@ -21,7 +21,7 @@ url: /2016/10/19/recetas-y-principios/
 
 En algunas de las últimas charlas (de ML) a las que he asistido se han enumerado recetas con las que tratar de resolver distintos problemas. Pero no han explicado cuándo ni por qué es conveniente aplicarlas. Incluso cuando se han presentado dos y hasta tres recetas para el mismo problema.
 
-![receta](/wp-uploads/2016/10/receta.jpg)
+![receta](/img/2016/10/receta.jpg)
 
 Me consta que parte de la audiencia quedó desconcertada y falta de algo más. ¿Tal vez una receta para aplicar recetas? ¿De una metarreceta?
 

@@ -51,8 +51,8 @@ plot(res,
 
 El código anterior produce
 
-[![ibex_intraday](/wp-uploads/2014/02/ibex_intraday.png#center)
-](/wp-uploads/2014/02/ibex_intraday.png#center)
+[![ibex_intraday](/img/2014/02/ibex_intraday.png#center)
+](/img/2014/02/ibex_intraday.png#center)
 
 que muestra cómo Juan, que compra durante el día, lleva perdidos 8500 euros mientras que Pedro ha ganado casi 7000.
 

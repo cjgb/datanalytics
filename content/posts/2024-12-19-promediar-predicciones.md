@@ -34,7 +34,7 @@ Cuando un experto dice $p_i$, muy probablemente esté pensando en un rango alred
 [mi aplicación de cálculo de parámetros](http://priors.datanalytics.com/)
 para obtener que los parámetros alfa y beta implícitos son 151 y 50.
 
-![](/wp-uploads/2024/expertos_beta.png#center)
+![](/img/2024/expertos_beta.png#center)
 
 Si uno interpreta la opinión de los expertos como _datos_, la de ese vendría a ser equivalente a observar 201 realizaciones de las cuales 151 resultaron en 1 y 50 en 0. Tendría sentido entonces _agregar_ las distribuciones betas implícitas para obtener una distribución beta combinada de parámetros $\alpha = \sum_i \alpha_i$ y $\beta = \sum_i \beta_i$. La $p$ resultante sería la media de esta nueva distribución beta, es decir,
 

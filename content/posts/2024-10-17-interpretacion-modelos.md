@@ -31,7 +31,7 @@ El contexto en el que se plantea la cuestión de la interpretación de los model
 
 Lo que hacen los modelos es aproximar esa función desconocida por otra _artificial_ $f^\prime$ computable.
 
-![](/wp-uploads/2024/noise-approximation.png#center)
+![](/img/2024/noise-approximation.png#center)
 
 Esta función artificial $f^\prime$, en tanto que aproxima una función compleja $f$, tiene que ser también, necesariamente, compleja. No es una función cuya forma pueda ser fácilmente descrita. Una decisión fundada en el valor de $f^\prime$ no tiene una _justificación_ en términos de su descripción porque $f^\prime$ no se puede describir sin reproducirla en su totalidad. Podría decirse, abusando del lenguaje, que está definida más que por comprensión, por [extensión](https://es.wikipedia.org/wiki/Definici%C3%B3n_extensional). Pueden discutirse, efectivamente, las hipótesis y métodos usados para construir $f^\prime$, los datos utilizados para ello, etc. Pero no se puede razonar alrededor de los valores concretos de $f^\prime$ más allá de indicar que es la mejor aproximación obtenida a $f$ bajo una serie de condicionantes.
 

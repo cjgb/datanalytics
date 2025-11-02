@@ -30,8 +30,8 @@ Y la propuesta se resume en
 Este esfuerzo de la Fundación Everis ha recibido diversas valoraciones (como [ésta](http://www.cotizalia.com/disparate-economico/empresarios-manifiesto-demoledor-20101122-4431.html)) que el lector, ayudado de Google, podrá ubicar sin más intervención por mi parte. Yo, por mi parte, como lego que soy en esas cosas que, de grandes, se me escapan, voy a valorar un minúsculo aspecto del [documento](http://www.fundacioneveris.es/Images/Transforma%20Espa%C3%B1a_tcm32-71023.zip) que tiene que ver con la naturaleza y fin de esta bitácora en que escribo. Y me refiero al siguiente gráfico:
 
 
-[![](/wp-uploads/2010/11/quo_vadis_hispania.png#center)
-](/wp-uploads/2010/11/quo_vadis_hispania.png#center)
+[![](/img/2010/11/quo_vadis_hispania.png#center)
+](/img/2010/11/quo_vadis_hispania.png#center)
 
 
 (Nota: RUE se refiere a Alemania, Francia, Holanda y RU; PNEG8 a EE.UU., Canadá y Japón; las demás siglas las estimo conocidas).
@@ -40,8 +40,8 @@ Bien puede que el rey, desde su encumbrada magnanimidad, sepa perdonar hasta la 
 
 Una propuesta para los autores de la propuesta podría ir en la siguiente línea:
 
-[![](/wp-uploads/2010/11/quo_vadis_hispania_alt.png#center)
-](/wp-uploads/2010/11/quo_vadis_hispania_alt.png#center)
+[![](/img/2010/11/quo_vadis_hispania_alt.png#center)
+](/img/2010/11/quo_vadis_hispania_alt.png#center)
 
 
 ¡Estarían de más las explicaciones innecesariamente aburridoras sobre quién anda a la zaga de quién! Además, resultaría innecesario agregar países en categorías más o menos artificiales: espacio queda para añadir cuantos puntos sean necesarios para mayor ilustración del siempre curioso lector.

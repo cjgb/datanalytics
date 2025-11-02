@@ -22,12 +22,12 @@ url: /2017/12/01/simpson-de-nuevo-ahora-con-la-mortalidad/
 
 La tasa de mortalidad ha crecido sustancialmente en los dos últimos años (tres, de hecho: el INE no publica datos para el 2017 todavía, pero yo los he y fe doy):
 
-![](/wp-uploads/2017/11/tasa_bruta_mortalidad.png#center)
+![](/img/2017/11/tasa_bruta_mortalidad.png#center)
 
 
 Sin embargo, la tasa de mortalidad para cada cohorte de edad decrece. Muestro las de las cohortes de edades múltiplas de cinco:
 
-![](/wp-uploads/2017/11/mortalidad_cohortes.png#center)
+![](/img/2017/11/mortalidad_cohortes.png#center)
 
 De nuevo, [Simpson](https://www.datanalytics.com/tags/paradoja-de-simpson/).
 

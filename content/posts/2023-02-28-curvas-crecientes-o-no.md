@@ -21,11 +21,11 @@ url: /2023/02/28/la-curva-crece-o-decrece/
 
 Mirad el gráfico
 
-![](/wp-uploads/2023/curva_creciente_00.png#center)
+![](/img/2023/curva_creciente_00.png#center)
 
 o
 
-![](/wp-uploads/2023/curva_creciente_01.png#center)
+![](/img/2023/curva_creciente_01.png#center)
 
 que representa los mismos datos cambiando la escala de las abscisas. He recortado convenientemente las etiquetas de los ejes para que la ideología no confunda a la recta percepción visual de la cosa. La pregunta ahora es: ¿son _crecientes_ las curvas?
 

@@ -27,15 +27,15 @@ Una característica muy amena del IMCV es que permite recalcular en índice con 
 
 Con los pesos originales, el indicador (de 2021) queda así:
 
-![](/wp-uploads/2023/imcv00.png#center)
+![](/img/2023/imcv00.png#center)
 
 Por probar algo, he puesto a cero todos los pesos menos el que se refiere, nada menos, que a _Ocio y relaciones sociales_ por ver qué pasa:
 
-![](/wp-uploads/2023/imcv01.png#center)
+![](/img/2023/imcv01.png#center)
 
 Y el resultado es
 
-![](/wp-uploads/2023/imcv02.png#center)
+![](/img/2023/imcv02.png#center)
 
 Notas:
 

@@ -23,5 +23,5 @@ Lo he hecho por dos motivos. El primero es pecuniario, obviamente. No espero que
 
 El segundo motivo es la curiosidad que me produce ver los algoritmos de Google en acción. De momento, no estoy particularmente satisfecho de la habilidad que tiene la empresa para mostrar propaganda relacionada con el contenido del artículo. Véase si no este ejemplo de apenas hace unos minutos:
 
-[![](/wp-uploads/2010/10/propaganda_contextual_google1.png#center)
-](/wp-uploads/2010/10/propaganda_contextual_google1.png#center)
+[![](/img/2010/10/propaganda_contextual_google1.png#center)
+](/img/2010/10/propaganda_contextual_google1.png#center)

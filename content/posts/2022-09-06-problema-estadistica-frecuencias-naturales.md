@@ -40,7 +40,7 @@ Una solución algebraica (con el teorema de Bayes de por medio) puede consultars
 
 Así, sea esta la tabla de contingencia para los $n$ niños con el rasgo:
 
-![](/wp-uploads/2022/09/marginal_table_01.png#center)
+![](/img/2022/09/marginal_table_01.png#center)
 
 En la anterior tabla:
 
@@ -52,7 +52,7 @@ En la anterior tabla:
 
 De la misma manera, se puede construir la tabla de contingencia para los $N$ niños sin el rasgo:
 
-![](/wp-uploads/2022/09/marginal_table_02.png#center)
+![](/img/2022/09/marginal_table_02.png#center)
 
 con la misma interpretación que la anterior (pero donde, por distinguir, se han usado mayúsculas). En particular,
 

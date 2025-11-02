@@ -20,8 +20,8 @@ url: /2015/05/08/a-cuento-de-mi-clase-practica-de-modelos-no-supervisados/
 
 A cuento de la sesión práctica de modelos no supervisados que impartiré este sábado y que estoy preparando justo ahora, traigo a la atención de mis lectores una imagen que el asunto me sugiere:
 
-[![dog2](/wp-uploads/2015/05/dog2.jpg)
-](/wp-uploads/2015/05/dog2.jpg)
+[![dog2](/img/2015/05/dog2.jpg)
+](/img/2015/05/dog2.jpg)
 
 La [fuente](http://www.wired.com/2015/01/fantastically-wrong-physiognomy/) también vale la pena. Aunque habla de otra cosa.
 

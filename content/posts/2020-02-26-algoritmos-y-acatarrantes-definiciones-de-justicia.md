@@ -25,7 +25,7 @@ url: /2020/02/26/algoritmos-y-acatarrantes-definiciones-de-justicia/
 
 Lee _[Justicia: los límites de la inteligencia artificial... y humana](https://nadaesgratis.es/anxo-sanchez/justicia-los-limites-de-la-inteligencia-artificial)_ y cuando acabes, te propongo un pequeño experimento probabilístico. Por referencia, reproduzco aquí los criterios de _justicia_ del artículo que glosa el que enlazo:
 
-![](/wp-uploads/2020/02/fairness.png#center)
+![](/img/2020/02/fairness.png#center)
 
 Centrémonos en (B), sabiendo que, por simetría, lo que cuento se aplica también a (C).
 

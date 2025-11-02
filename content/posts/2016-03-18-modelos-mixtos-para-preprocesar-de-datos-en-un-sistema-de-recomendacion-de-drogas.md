@@ -26,7 +26,7 @@ Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrad
 
 El gráfico
 
-![nootropics_image1a](/wp-uploads/2016/03/nootropics_image1a.png#center)
+![nootropics_image1a](/img/2016/03/nootropics_image1a.png#center)
 
 extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo. En los manuales de la cosa suelen recogerse mecanismos más o menos sofisticados para mitigar ese efecto y normalizar las valoraciones entre usuarios. Generalmente, solo exigen matemáticas de bachillerato. Y son meras aproximaciones que no tienen en cuenta circunstancias tales como que puede que un usuario da valoraciones bajas solo porque evalúa productos malos, etc.
 
@@ -74,6 +74,6 @@ dotplot(ranef(modelo, condVar = TRUE))
 
 que produce, entre otros, el gráfico
 
-![nootropics_image_ci](/wp-uploads/2016/03/nootropics_image_ci.png#center)
+![nootropics_image_ci](/img/2016/03/nootropics_image_ci.png#center)
 
 Esencialmente, el orden se mantiene (salvo alguna excepción). Pero ahora se aprecian los intervalos de confianza (debidos a la desigual popularidad de los ítems).

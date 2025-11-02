@@ -30,7 +30,7 @@ El problema es que la ciencia se paga como la ropa vieja: al peso. Dígase lo qu
 
 (Convengo: los autores hablan también de incentivos; pero tal vez deberían hablar fundamentalmente de incentivos).
 
-![](/wp-uploads/2017/01/pile-of-clothes-2.jpg)
+![](/img/2017/01/pile-of-clothes-2.jpg)
 
 La ciencia es un bicho gordo que se alimenta de dinero de los contribuyentes y defeca [fraude](http://www.elmundo.es/cronica/2016/12/24/585e786b468aeb8f3c8b4600.html), [resultados que nadie puede reproducir](https://en.wikipedia.org/wiki/Replication_crisis), o [irrelevancias](https://es.wikipedia.org/wiki/Bos%C3%B3n_de_Higgs). Pero no me preocupa demasiado: que con su pan se lo coman.
 

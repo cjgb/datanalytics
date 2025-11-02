@@ -21,7 +21,7 @@ url: /2016/11/03/homeopatia-de-datos/
 
 Me mandan un _whatsapp_. Es de alguien que está en una charla de _ciencia de datos_. Acaba de oír decir al ponente que en una de esas competiciones de Kaggle le ha servido optimizar a lo largo del conjunto de semillas aleatorias. Sí, del `set.seed()`.
 
-![homeopatia_funciona](/wp-uploads/2016/11/homeopatia_funciona.jpg)
+![homeopatia_funciona](/img/2016/11/homeopatia_funciona.jpg)
 
 Supongo que al ponente _le funcionaría_.
 

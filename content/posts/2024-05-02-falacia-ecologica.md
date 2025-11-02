@@ -27,7 +27,7 @@ para abundar en una cuestión que tiende a obviarse a pesar de su gran importanc
 
 En aquella entrada fusilé/usufructé el siguiente gráfico:
 
-![](/wp-uploads/2024/falacia-ecologica.png#center)
+![](/img/2024/falacia-ecologica.png#center)
 
 En él se representan individuos (las elipses de colores) sobre los que hay medidas repetidas (las nubes de puntos que contienen) de cierto fenómeno cuantitativo. Lo relevante del gráfico es que:
 - $y$ decrece con $x$ globalmente pero, a la vez,

@@ -29,7 +29,7 @@ Por ejemplo, en el grafo que describo más arriba, cabría preguntarse si hay re
 
 Aparte de este tipo de relaciones, existen otras muchas que los expertos buscan en sus conjuntos de datos. Por ejemplo, algunas de las siguientes:
 
-[![](/wp-uploads/2012/05/configuraciones_grafos.png#center)
-](/wp-uploads/2012/05/configuraciones_grafos.png#center)
+[![](/img/2012/05/configuraciones_grafos.png#center)
+](/img/2012/05/configuraciones_grafos.png#center)
 
 A este tipo de preguntas aspiran a dar respuesta los llamados modelos exponenciales para grafos aleatorios, cuyos rudimentos expondremos mañana.

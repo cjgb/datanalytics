@@ -22,8 +22,8 @@ url: /2012/07/05/afecto-el-fraude-de-barclays-al-libor/
 
 Después de la [entrada de ayer](https://datanalytics.com/2012/07/04/libor-libor-fundeu-y-barclays-claro/) y de
 
-[![](/wp-uploads/2012/07/tuit_david_cabo.png#center)
-](/wp-uploads/2012/07/tuit_david_cabo.png#center)
+[![](/img/2012/07/tuit_david_cabo.png#center)
+](/img/2012/07/tuit_david_cabo.png#center)
 
 he decidido estudiar qué impacto puede haber tenido el fraude de Barclays, uno de los 16 bancos que aportan datos para calcular el índice, sobre su valor diario.
 
@@ -114,8 +114,8 @@ se aprecia cómo en 948 de los 1037 días no habría sido capaz de moverlo (en m
 
 Gráficamente,
 
-[![](/wp-uploads/2012/07/barclays_libor_days.png#center)
-](/wp-uploads/2012/07/barclays_libor_days.png#center)
+[![](/img/2012/07/barclays_libor_days.png#center)
+](/img/2012/07/barclays_libor_days.png#center)
 
 Eso sí, casi todos esos días en los que tenía influencia correspondían al mismo periodo: finales de 2008.
 

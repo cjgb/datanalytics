@@ -27,8 +27,8 @@ El uso de tartas para visualizar fracciones está sancionado ([acepción segunda
 Pero es de notar que su uso es casi anecdótico en publicaciones científicas. Y hay sobradas razones para ello. Unas son sicológicas y tienen que ver con la inhabilidad con que el ojo percibe y compara ángulos y áreas. El siguiente gráfico, [extraído de la Wikipedia](http://en.wikipedia.org/wiki/Pie_chart#Use.2C_effectiveness_and_visual_perception), ilustra el fenómeno sin necesidad de más palabras:
 
 
-[![](/wp-uploads/2011/02/Piecharts.png#center)
-](/wp-uploads/2011/02/Piecharts.png#center)
+[![](/img/2011/02/Piecharts.png#center)
+](/img/2011/02/Piecharts.png#center)
 
 
 La Wikipedia añade (mi traducción):
@@ -37,8 +37,8 @@ La Wikipedia añade (mi traducción):
 
 La segunda tiene que ver con la violación de los tres principios más básicos del arte de la representación gráfica de datos, de los que [ya hablé previamente](https://datanalytics.com/2010/09/27/que-grafico-es-mejor/).  En particular, no son nada económicas: tienen un pésimo ratio información-tinta, como evidencia el siguiente gráfico,
 
-[![](/wp-uploads/2011/02/analytics_piechart.jpg)
-](/wp-uploads/2011/02/analytics_piechart.jpg)
+[![](/img/2011/02/analytics_piechart.jpg)
+](/img/2011/02/analytics_piechart.jpg)
 
 extraído de esta [magnífica bitácora](http://www.juiceanalytics.com/writing/the-problem-with-pie-charts/), y que se resume en un único número, 9,94.
 

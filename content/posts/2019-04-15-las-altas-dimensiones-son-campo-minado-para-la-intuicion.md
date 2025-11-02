@@ -22,7 +22,7 @@ url: /2019/04/15/las-altas-dimensiones-son-campo-minado-para-la-intuicion/
 
 Las dimensiones altas son un campo minado para la intuición. Hace poco (y he perdido la referencia) leí a un matemático que trabajaba en problemas en dimensiones altas decir que le gustaba representar y pensar en las _bolas_ (regiones del espacio a distancia <1 de 0) en esos espacios usando figuras cóncavas, como las que aparecen a la izquierda de
 
-![](/wp-uploads/2019/04/bolas_metricas_alt.png#center)
+![](/img/2019/04/bolas_metricas_alt.png#center)
 
 precisamente porque una de las propiedades más fructíferas de las bolas en altas dimensiones es que apenas tienen interior. De hecho, es trivial probar que la proporción del volumen de una bola a distancia mayor que $\epsilon$ de su borde tiende a cero con la dimensión.
 

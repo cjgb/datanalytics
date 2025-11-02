@@ -22,8 +22,8 @@ url: /2013/06/14/teruel-orense-palencia-y-adenoidectomias/
 
 Quien haya recorrido Teruel, Orense, Palencia, la zona de Almadén y otras partes del interior de España abandonadas a su suerte desde hace siglos no habrá visto demasiado crío. Me acabo de enterar que a lo que se conoce como _operar de vegetaciones_ recibe el nombre de adenoidectomía. Y he visto el mapa
 
-[![](/wp-uploads/2013/06/tonomia.jpg)
-](/wp-uploads/2013/06/tonomia.jpg)
+[![](/img/2013/06/tonomia.jpg)
+](/img/2013/06/tonomia.jpg)
 
 en [Nada es Gratis](http://www.fedeablogs.net/economia/?p=31085).
 

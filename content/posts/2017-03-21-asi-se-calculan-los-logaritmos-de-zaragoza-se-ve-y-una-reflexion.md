@@ -20,7 +20,7 @@ url: /2017/03/21/asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexio
 
 Estoy en Zaragoza. He bajado a la biblioteca pública que tengo delante de casa y la que le dieron el nombre de aquel chileno de las alamedas. He curioseado lo que tenían de matemáticas y de entre los menos de cien volúmenes de la cosa,
 
-![](/wp-uploads/2017/03/tablas_logaritmos.jpg)
+![](/img/2017/03/tablas_logaritmos.jpg)
 
 
 Efectivamente, el libro trataba de lo que su lomo decía: eran tablas y más tablas de logaritmos de números, con sus añejos distingos entre las [mantisas](https://es.wikipedia.org/wiki/Mantisa) y eso otro que ya no recuerdo cómo se llamaba.

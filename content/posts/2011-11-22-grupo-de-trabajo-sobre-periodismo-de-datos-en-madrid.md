@@ -24,8 +24,8 @@ url: /2011/11/22/grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid/
 El miércoles pasado, en el [Medialab Prado](http://medialab-prado.es/) de Madrid tuvo lugar la [primera reunión del grupo de trabajo sobre Periodismo de datos](http://medialab-prado.es/article/1_reunion_trabajo_grupo_periodismo_de_datos). Contó con la presencia de Alberto Cairo, cuyo reciente libro, _[El arte funcional](http://elartefuncional.com/)_, espero que pase a engrosar mi colección pronto.
 
 
-[![](/wp-uploads/2011/11/medialab_prado.jpeg)
-](/wp-uploads/2011/11/medialab_prado.jpeg)
+[![](/img/2011/11/medialab_prado.jpeg)
+](/img/2011/11/medialab_prado.jpeg)
 
 
 En el programa aparecen sesiones tan interesantes como las siguientes:

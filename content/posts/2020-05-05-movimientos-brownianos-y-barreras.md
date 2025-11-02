@@ -22,7 +22,7 @@ url: /2020/05/05/movimientos-brownianos-y-barreras/
 
 En [Hypermind](https://predict.hypermind.com/dash/dash/dash.html?list=ECO) se está planteando esta cuestión:
 
-![](/wp-uploads/2020/05/sp500.png#center)
+![](/img/2020/05/sp500.png#center)
 
 A día de hoy, el S&P 500 está en 2830. La predicción está y viene estando aproximadamente alrededor de la regla de tres:
 

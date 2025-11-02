@@ -18,8 +18,8 @@ url: /2011/05/03/personal-data-mining/
 ---
 
 La [Edge Foundation](http://edge.org/) es una organización que se postula algo así como el club de los hombres extraordinarios. Quienes forman parte de ella no dejan de hablar bien de sí mismos y se autoepitetan de multitud de cosas la mar de estupendas: brillantes, sagaces, etc.
-[![](/wp-uploads/2011/04/personaldatamining.jpg)
-](/wp-uploads/2011/04/personaldatamining.jpg)
+[![](/img/2011/04/personaldatamining.jpg)
+](/img/2011/04/personaldatamining.jpg)
 
 Esta asociación propone anualmente una pregunta para promover el debate. La del año 2011 fue (y no me atrevo a traducirla por si la rompo): _[What scientific concept would improve everybody's cognitive toolkit?](http://www.edge.org/q2011/q11_index.html)_ Docenas de expertos enviaron propuestas. De entre todas ellas, la más simpática me pareció la de John Allen Paulos (del que ya hemos hablado previamente en esta bitácora), que sugirió las distribuciones de probabilidad. Muy cerca queda la de M. H. Wolpoff, que propuso el concepto GIGO (_garbage in, garbage out_) que le sería muy provechoso a cierta gente que conozco.
 

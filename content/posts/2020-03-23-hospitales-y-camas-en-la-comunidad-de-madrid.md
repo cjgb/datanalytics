@@ -26,11 +26,11 @@ Por un lado, nos cuentan que los políticos que han gobernado la CM (Comunidad d
 
 Así que la pregunta es: ¿cuántos hospitales, camas y camas por habitante hay y ha venido habiendo en la CM? Para responderlo, voy a limitarme a mostrar unos gráficos y el enlace relevante.
 
-![](/wp-uploads/2020/03/hospitales-972x1024.png#center)
+![](/img/2020/03/hospitales-972x1024.png#center)
 
-![](/wp-uploads/2020/03/camas-972x1024.png#center)
+![](/img/2020/03/camas-972x1024.png#center)
 
-![](/wp-uploads/2020/03/camas_hab-972x1024.png#center)
+![](/img/2020/03/camas_hab-972x1024.png#center)
 
 
 Y el enlace, [este](http://catalogohospitales.sanidadmadrid.org/home.htm).

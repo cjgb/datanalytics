@@ -27,7 +27,7 @@ url: /2020/10/01/regression-models-that-claim-to-reach-causal-conclusions-as-fav
 
 Voy a guardar el extracto
 
-![](/wp-uploads/2020/09/modelling_strategies.png#center)
+![](/img/2020/09/modelling_strategies.png#center)
 
 de [_The Art of Statitstics_](https://dspiegel29.github.io/ArtofStatistics/) para usarlo con la misma malísima baba que su autor en coyunturas tales como esta:
 

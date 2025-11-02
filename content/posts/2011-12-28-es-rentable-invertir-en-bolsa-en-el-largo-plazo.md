@@ -22,19 +22,19 @@ Quien busque información al respecto por ahí verá opiniones y cifras. En cual
 
 Se observa en la serie que 100 pesetas invertidas en tal año se convirtieron en casi 17000 en el 2004. La evolución (en escala lineal) del índice es:
 
-[![](/wp-uploads/2011/12/igbm_linear.png#center)
-](/wp-uploads/2011/12/igbm_linear.png#center)En escala logarítmica queda
+[![](/img/2011/12/igbm_linear.png#center)
+](/img/2011/12/igbm_linear.png#center)En escala logarítmica queda
 
-[![](/wp-uploads/2011/12/igbm_log.png#center)
-](/wp-uploads/2011/12/igbm_log.png#center)¿Pero y si se tiene en cuenta el efecto de la inflación? Entonces, la figura cambia radicalmente y queda de la siguiente manera:
+[![](/img/2011/12/igbm_log.png#center)
+](/img/2011/12/igbm_log.png#center)¿Pero y si se tiene en cuenta el efecto de la inflación? Entonces, la figura cambia radicalmente y queda de la siguiente manera:
 
-[![](/wp-uploads/2011/12/igbm_deflactado.png#center)
-](/wp-uploads/2011/12/igbm_deflactado.png#center)
+[![](/img/2011/12/igbm_deflactado.png#center)
+](/img/2011/12/igbm_deflactado.png#center)
 
 Si comparamos la rentabilidad anualizada (y deflactada) entre parejas de años, se obtiene el siguiente gráfico,
 
-[![](/wp-uploads/2011/12/matriz_rentabilidades.png#center)
-](/wp-uploads/2011/12/matriz_rentabilidades.png#center)donde para evitar que ciertos años extraordinarios eliminen el contraste entre los demás, se ha puesto un techo a la rentabilidad anual del 10% por arriba y el -10% por abajo.
+[![](/img/2011/12/matriz_rentabilidades.png#center)
+](/img/2011/12/matriz_rentabilidades.png#center)donde para evitar que ciertos años extraordinarios eliminen el contraste entre los demás, se ha puesto un techo a la rentabilidad anual del 10% por arriba y el -10% por abajo.
 
 Se aprecia en el gráfico, por ejemplo, cómo en el largo plazo, la rentabilidad tiende a estabilizarse... alrededor del 0% anual. Y cómo para obtener rentabilidades en bolsa, lo fundamental es saber cuándo entrar y cuándo salir.
 

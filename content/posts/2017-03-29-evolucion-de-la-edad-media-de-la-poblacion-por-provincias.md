@@ -25,7 +25,7 @@ url: /2017/03/29/evolucion-de-la-edad-media-de-la-poblacion-por-provincias/
 
 Abundo en la [entrada de ayer](https://datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/). Lo hago para mostrar
 
-![](/wp-uploads/2017/03/evolucion_edad_media_provincias.png#center)
+![](/img/2017/03/evolucion_edad_media_provincias.png#center)
 
 En el gráfico anterior se muestra la evolución de la edad media de la población de las provincias españolas como diferencia con respecto a una _evolución media_ calculada como la regresión lineal de todas las edades medias con respecto al año. Es decir, algo así como evolución relativa.
 

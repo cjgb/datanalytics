@@ -22,5 +22,5 @@ Hija de la improvisación de hace un ratico, habrá mañana sábado día 4 (de o
 
 Nos juntaremos, entre otros, los autores del [Escritor Exemplar](https://datanalytics.com/2014/03/13/el-escritor-exemplar/) (uno de los cuales es quien suscribe) y el de [Markov Desencadenado](https://twitter.com/MarkovUnchained).
 
-[![markov_desencadenado](/wp-uploads/2014/10/markov_desencadenado.png#center)
-](/wp-uploads/2014/10/markov_desencadenado.png#center)
+[![markov_desencadenado](/img/2014/10/markov_desencadenado.png#center)
+](/img/2014/10/markov_desencadenado.png#center)

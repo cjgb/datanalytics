@@ -23,11 +23,11 @@ En una escala (de enteros) del 1 al 10, ¿cuál es el punto medio? ¿Cuál indic
 
 Cuando el CIS, en sus barómetros, como el de abril, pregunta
 
-![](/wp-uploads/2017/05/barometro_cis_201704_pregunta.png#center)
+![](/img/2017/05/barometro_cis_201704_pregunta.png#center)
 
 
 obtiene las respuestas
-![](/wp-uploads/2017/05/barometro_cis_201704_respuesta.png#center)
+![](/img/2017/05/barometro_cis_201704_respuesta.png#center)
 
 en las que se aprecian fenómenos sesgantes como, por ejemplo:
 

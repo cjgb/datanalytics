@@ -24,4 +24,4 @@ _[Abundando en _[_¿Qué puede colgar de un árbol?_](https://datanalytics.com/2
 
 [¡Grafos!](https://eeecon.uibk.ac.at/~zeileis/news/networktree/)
 
-![](/wp-uploads/2019/09/networktree-dass-1024x927.png#center)
+![](/img/2019/09/networktree-dass-1024x927.png#center)

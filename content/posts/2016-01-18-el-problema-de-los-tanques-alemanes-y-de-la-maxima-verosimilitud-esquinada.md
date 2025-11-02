@@ -27,8 +27,8 @@ $$ f(N;m,k)=\frac{\binom{m-1}{k-1}}{\binom{N}{k}}$$
 
 y como esta función es decreciente en $N$, la estimación por máxima verosimilitud es $\hat{N} = m$.
 
-[![probs_tanques_alemanes](/wp-uploads/2016/01/probs_tanques_alemanes.png#center)
-](/wp-uploads/2016/01/probs_tanques_alemanes.png#center)
+[![probs_tanques_alemanes](/img/2016/01/probs_tanques_alemanes.png#center)
+](/img/2016/01/probs_tanques_alemanes.png#center)
 
 Obviamente, es una infraestimación. Y plantea un problema conocido: el del dilema entre plausible y probable. Tal vez, entre un conjunto de opciones plausibles, tal vez la más probable no lo es mucho más que el resto.
 

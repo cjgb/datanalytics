@@ -21,11 +21,11 @@ url: /2019/07/18/que-demonios-le-ha-pasado-a-la-pagina-de-la-distribucion-beta-e
 
 Era como
 
-![](/wp-uploads/2019/07/mickey_rourke_antes.jpg)
+![](/img/2019/07/mickey_rourke_antes.jpg)
 
 y se ha convertido en
 
-![](/wp-uploads/2019/07/mickey_rourke_despues.jpg)
+![](/img/2019/07/mickey_rourke_despues.jpg)
 
 ¡Qué horror!
 

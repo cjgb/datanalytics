@@ -23,7 +23,7 @@ url: /2018/01/05/preludio-de-mas-por-venir/
 
 El preludio esto:
 
-![](/wp-uploads/2018/01/menciones_franquismo.png#center)
+![](/img/2018/01/menciones_franquismo.png#center)
 
 Que tiene el interés y la interpretación (muchas de ellas, como se podrá barruntar más abajo, de corte técnico) que cada uno quiera darle.
 

@@ -23,7 +23,7 @@ Mañana, como cada 31 de marzo, se celebra el día de la copia de seguridad.
 
 Así que ya sabéis qué hacer:
 
-![](/wp-uploads/2017/03/juramento_copias_seguridad.png#center)
+![](/img/2017/03/juramento_copias_seguridad.png#center)
 
 ## Coda
 

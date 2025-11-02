@@ -29,7 +29,7 @@ Construir modelos consiste en combinar esos dos tipos de fuentes de información
 
 Ahora vienen los _raritos_. Y me refiero a estos:
 
-![](/wp-uploads/2017/01/weapons_math_destruction.jpg)
+![](/img/2017/01/weapons_math_destruction.jpg)
 
 Que van y dicen que:
 

@@ -44,7 +44,7 @@ en el mismo blog (aunque, concedido, la confusión está más en el breve rótul
 
 Mucho de lo que trata el estudio de la causalidad en estadística, en el fondo, es lo que pasa cuando uno quiere estudiar fenómenos como
 
-![](/wp-uploads/2025/puzzling_anatomy.svg#center)
+![](/img/2025/puzzling_anatomy.svg#center)
 
 con modelos parciales que, por algún motivo, ignoran parte de la estructura generadora de los datos. Dicho de otra manera, cuando el modelo es manifiestamente incorrecto. El caso anterior, por ejemplo, al estudiar la regresión lineal $y \sim x_1$. Existe una solución evidente a todas estas discusiones bizantinas, reiterativas e irrelevantes:
 - Abandonar los modelos triviales (como la regresión lineal).
@@ -60,7 +60,7 @@ La mejor parte de la entrada
 [_Effects are correlated, policy outcomes are not, and multi-factor explanations are hard_](https://www.lesswrong.com/posts/LRJk55uBehJqL6dju/effects-are-correlated-policy-outcomes-are-not-and-multi)
 es la última. En ella se discute la sobredeterminación causal razonando sobre el diagrama
 
-![](/wp-uploads/2025/fertile_crescent.svg#center)
+![](/img/2025/fertile_crescent.svg#center)
 
 que describe las _causas_ esgrimidas en el libro _Guns, Germs and Steel_ de J. Diamond acerca de los motivos por los que la agricultura surgió en primer lugar en el llamado creciente fértil. El resumen es la obviedad de que no pueden coexistir múltiples causas poderosas e independientes.
 

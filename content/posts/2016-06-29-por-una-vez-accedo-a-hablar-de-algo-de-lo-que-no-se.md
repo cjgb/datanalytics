@@ -25,7 +25,7 @@ El primer gran problema con las encuestas electorales es que confunden países c
 
 Existe una formulilla que aplican buenamente los responsables de las encuestas que relaciona N con n y que o bien puede consultarse en los libros o bien puede deducirse por ingeniería inversa ajustando una curva a
 
-![encuestas_margen_error_tamanno](/wp-uploads/2016/06/encuestas_margen_error_tamanno.png#center)
+![encuestas_margen_error_tamanno](/img/2016/06/encuestas_margen_error_tamanno.png#center)
 
 que es una gráfica que muestra la relación entre el tamaño muestral (la n) y el margen de error publicado en una selección de encuestas electorales relativas al 20D (la N es el tamaño total del censo, unos 36.5 millones).
 

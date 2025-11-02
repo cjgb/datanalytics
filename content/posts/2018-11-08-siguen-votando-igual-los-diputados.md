@@ -23,7 +23,7 @@ url: /2018/11/08/siguen-votando-igual-los-diputados/
 
 Hace seis años escribí [esto](https://datanalytics.com/2012/09/20/como-votan-los-diputados/). Hoy actualizo aquella entrada para crear
 
-![](/wp-uploads/2018/11/votos_diputados.png#center)
+![](/img/2018/11/votos_diputados.png#center)
 
 Y, por supuesto, el código (que he tenido que reescribir en gran medida):
 

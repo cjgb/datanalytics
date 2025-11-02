@@ -29,7 +29,7 @@ Los eventos subyacentes siguen siendo independientes, reitero.
 
 Viene esto al caso de una tabla que ha circulado por Twitter,
 
-![](/wp-uploads/2017/02/toddlers_guns.jpg)
+![](/img/2017/02/toddlers_guns.jpg)
 
 en la que se comparan estimaciones de los parámetros $\lambda$ de una serie de distribuciones de Poisson... como si todas lo fuesen.
 

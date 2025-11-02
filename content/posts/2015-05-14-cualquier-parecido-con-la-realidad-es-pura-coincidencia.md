@@ -21,8 +21,8 @@ url: /2015/05/14/cualquier-parecido-con-la-realidad-es-pura-coincidencia/
 
 [@adolflow](https://twitter.com/adolflow) (en persona) viene hoy y me dice si lo he visto. ¿Qué cosa? Se refiere a lo que han publicado en El Español, [España en Cifras](http://espanaencifras.elespanol.com/). Lo miro por encima y encuentro
 
-[![tasa_paro_municipal](/wp-uploads/2015/05/tasa_paro_municipal.png#center)
-](/wp-uploads/2015/05/tasa_paro_municipal.png#center)
+[![tasa_paro_municipal](/img/2015/05/tasa_paro_municipal.png#center)
+](/img/2015/05/tasa_paro_municipal.png#center)
 
 ¡Tasa de paro municipal! Lo siento, @adolflow, pero tal cosa no existe. No, no es que los datos sean secretos, no sean transparentes, no sean reutilizables. Es, simplemente, que no existe.
 

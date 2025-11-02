@@ -39,8 +39,8 @@ Pero partir plantea el problema adicional de decidir cuál es el criterio para d
 
 Existen segmentaciones _naturales_ de datos: por punto de venta, por cliente, por persona, por periodo, etc. que, teóricamente, deberían satisfacer el criterio de localidad. Sin embargo, en los datos reales existen, se manifiestan, las llamadas leyes de potencias. Por motivos sobre los cuales estadísticos, sociólogos, físicos y muchos otros han escrito toneladas de papel, muchas distribuciones _reales_ siguen las llamadas leyes de potencias (término que funciona en ocasiones como metáfora de la metáfora _de cola larga_ o _de cola gruesa_).
 
-[![](/wp-uploads/2011/09/Long_tail.png#center)
-](/wp-uploads/2011/09/Long_tail.png#center)
+[![](/img/2011/09/Long_tail.png#center)
+](/img/2011/09/Long_tail.png#center)
 
 Por ejemplo, la distribución del número de SMS enviados por persona: habrá quien mande diez al mes; otros mandarán treinta; algunos, ciento; pero seguro que hay números desde los que se mandan —posiblemente de manera automatizada— mil, diez mil o incluso, un millón. Igual pasa con el número de operaciones en bolsa, el número de billetes de avión adquiridos por cliente (¡los habrá corporativos!), número de visitas a la página por IP, etc.
 
@@ -49,8 +49,8 @@ En estas situaciones, la distribución que resulta _ideal_ para la mayoría de
 Tradicionalmente, quienes diseñan bases de datos adoptan una visión _vertical_ de las tablas: las columnas tienen su función, son clave primaria, forman parte de un índice secundario, son atributos o clave externa de otra tabla. Y esas propiedades se extienden a todos los registros de la tabla.
 
 
-[![](/wp-uploads/2011/09/Star-schema-example.png#center)
-](/wp-uploads/2011/09/Star-schema-example.png#center)
+[![](/img/2011/09/Star-schema-example.png#center)
+](/img/2011/09/Star-schema-example.png#center)
 
 
 Estoy convencido de que los datos grandes exigen una visión no únicamente vertical sino también _horizontal_, más próxima al contenido, a los datos, que tenga en cuenta el número, significado y estructura de las filas olvidando soluciones _de talla única_.

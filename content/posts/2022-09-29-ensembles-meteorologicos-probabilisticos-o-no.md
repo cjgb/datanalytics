@@ -20,7 +20,7 @@ url: /2022/09/29/ensembles-meteorologicos-probabilisticos/
 
 Primero, una brevísima introducción al uso de _ensembles_ en meteorología:
 
-![](/wp-uploads/2022/09/ensembles.jpeg#center)
+![](/img/2022/09/ensembles.jpeg#center)
 
 1. Los metereólogos tienen modelos físicos deterministas que permiten _proyectar_ a futuro el estado presente del tiempo (o de otros estados presentes hipotéticos).
 2. Sin embargo, esos modelos (tanto por su propia naturaleza como por las simplificaciones computacionales sin cuyo concurso las proyecciones serían materialmente inviables) son muy sensibles a las condiciones iniciales de partida (véase la gráfica anterior).

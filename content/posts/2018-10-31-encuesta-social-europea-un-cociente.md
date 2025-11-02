@@ -32,6 +32,6 @@ Solo es eso.
 
 **Bonus:** Descargas por filiación:
 
-![](/wp-uploads/2018/10/descargadores_ess.png#center)
+![](/img/2018/10/descargadores_ess.png#center)
 
 **Corrección:** Me entero (vía [politibot](https://politibot.io/)) de que [la partida reservada para la realización de la ESS](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-15722) es de 470k euros. Que pone el cociente en el kiloeuro.

@@ -21,8 +21,8 @@ url: /2015/12/04/os-lo-podeis-creer-funnel-plots-en-la-prensa-espanola/
 
 Pues sí, aquí están,
 
-[![funnel_plots_suicidios](/wp-uploads/2015/12/funnel_plots_suicidios.png#center)
-](/wp-uploads/2015/12/funnel_plots_suicidios.png#center)
+[![funnel_plots_suicidios](/img/2015/12/funnel_plots_suicidios.png#center)
+](/img/2015/12/funnel_plots_suicidios.png#center)
 
 recién copipegados del [documental de El Español sobre el suicidio](http://www.elespanol.com/documental/suicidios/#/chapters/el-contexto-title).
 

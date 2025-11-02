@@ -35,7 +35,7 @@ que resulta en la popular estrategia de reemplazar los NAs por la media del rest
 
 Pero el abuelo de todas las técnicas de imputación es HDI (_hot deck imputation_), cuya versión original y más conocida es LOCF (_last observation carried forward_). Esta última consistía en completar el dato faltante en una ficha (o tarjeta) con el de la ficha anterior. Recuérdese que estamos hablando de cuando
 
-![](/wp-uploads/2020/09/1890_Census_Hollerith_Pantograph_Punching_Machine_Sci_Amer.jpg)
+![](/img/2020/09/1890_Census_Hollerith_Pantograph_Punching_Machine_Sci_Amer.jpg)
 
 En el fondo, incluso LOCF tiene un modelo subyacente: tarjetas físicamente próximas en un lote podrían tener procedencias similares; p.e., de familias que residen en un mismo bloque o pacientes tratados por un mismo doctor.
 

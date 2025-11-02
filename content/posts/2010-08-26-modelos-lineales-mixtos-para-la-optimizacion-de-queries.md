@@ -97,8 +97,8 @@ plot( groupedData( query.time ~ 1 | id, data = dat ) )
 
 se obtiene el siguiente gráfico:
 
-[![](/wp-uploads/2010/08/grouped_data.png#center)
-](/wp-uploads/2010/08/grouped_data.png#center)Se aprecia en él cómo la varianza de los tiempos de ejecución crece con éstos. Además, por consideraciones relativas a la construcción de los datos —un cruce de varias tablas de cada una de las cuales se extrae un número variable de filas— hay razones para intuir una estructura multiplicativa en los datos. Eso nos hace considerar el uso de logaritmos. De hecho,
+[![](/img/2010/08/grouped_data.png#center)
+](/img/2010/08/grouped_data.png#center)Se aprecia en él cómo la varianza de los tiempos de ejecución crece con éstos. Además, por consideraciones relativas a la construcción de los datos —un cruce de varias tablas de cada una de las cuales se extrae un número variable de filas— hay razones para intuir una estructura multiplicativa en los datos. Eso nos hace considerar el uso de logaritmos. De hecho,
 
 {{< highlight R >}}
 plot( groupedData( log(query.time) ~ 1 | id, data = dat ) )
@@ -106,8 +106,8 @@ plot( groupedData( log(query.time) ~ 1 | id, data = dat ) )
 
 que produce la gráfica
 
-[![](/wp-uploads/2010/08/grouped_log_data.png#center)
-](/wp-uploads/2010/08/grouped_log_data.png#center)
+[![](/img/2010/08/grouped_log_data.png#center)
+](/img/2010/08/grouped_log_data.png#center)
 
 que tiene mejor aspecto. No es todo lo bueno que uno quisiera, pero tiene mejor aspecto. Nótese además, cómo el que los datos aparezcan ordenados en la figura puede hacer sobreestimar el efecto de la dispersión de la varianza. En realidad, más adelante, se plantea como ejercicio verificar de una manera más canónica cómo el tomar logaritmos no deja de tener sentido.
 
@@ -182,8 +182,8 @@ plot( modelo )
 
 que produce
 
-[![](/wp-uploads/2010/08/residuos.png#center)
-](/wp-uploads/2010/08/residuos.png#center)
+[![](/img/2010/08/residuos.png#center)
+](/img/2010/08/residuos.png#center)
 
 y que muestra cómo la varianza de los residuos no parece variar apreciablemente con el tamaño predicho del tiempo de ejecución.
 

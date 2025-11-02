@@ -69,7 +69,7 @@ print(oauth1_user_handler.get_authorization_url())
 
 El producto del código anterior ---una vez reemplazados `api auth` y `api secret` por los _tokens_ correspondientes--- es una URL. Al abrirla, encontrarás algo así como:
 
-![](/wp-uploads/2023/twitter_api.png#center)
+![](/img/2023/twitter_api.png#center)
 
 Al aceptar aparece un _pin_ que se copia en
 

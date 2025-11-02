@@ -20,7 +20,7 @@ url: /2016/07/05/este-no-es-el-mapa-de-la-violencia-de-genero-en-espana/
 
 A pesar de que [el titular bajo el que aparece](http://noticias.lainformacion.com/asuntos-sociales/mapa-violencia-genero-Espana_0_930508318.html) dice lo contrario,
 
-![mapa_violencia_genero_espana](/wp-uploads/2016/07/mapa_violencia_genero_espana.jpg)
+![mapa_violencia_genero_espana](/img/2016/07/mapa_violencia_genero_espana.jpg)
 
 no es el mapa de la conocida como violencia de género en España. Tasas del 10-20% significarían que en mi entorno tendrían que existir  bastantes casos cuando, al contrario, no me consta ninguno. En el cuerpo de la noticia se lee que las tasas no son por cien sino por diez mil (si es que no son por cien mil: puestos a hacer bailar los ceros, ¿quién sabe?).
 

@@ -28,15 +28,15 @@ Una de las preguntas realizadas, la primera, fue
 
 Los resultados obtenidos fueron
 
-![](/wp-uploads/2025/cis-202509-uso-cajeros.png#center)
+![](/img/2025/cis-202509-uso-cajeros.png#center)
 
 Otra que se realiza en todos los _barómetros_ se refiere a la participación y recuerdo de voto en las últimas elecciones generales, las de 2023 en este caso. Los resultados obtenidos fueron
 
-![](/wp-uploads/2025/cis-202509-recuerdo-voto.png#center)
+![](/img/2025/cis-202509-recuerdo-voto.png#center)
 
 Pero los resultados reales de dichas elecciones fueron
 
-![](/wp-uploads/2025/cis-202509-elecciones-2023.png#center)
+![](/img/2025/cis-202509-elecciones-2023.png#center)
 
 Compárese el recuerdo de voto del 18.7% para el PP con el 33% obtenido realmente.
 

@@ -32,7 +32,7 @@ que evidencian lo muy mucho que sus autores han logrado resistirse a la actualí
 
 Es [esto](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/Informe%20trimestral/20/Recuadros/Fich/be2004-it-Rec7-Av.pdf), que contiene un gráfico, el cuatro, donde compara la tasa de paro de los estudiantes de diversas especialidades españoles (barra roja) con los de la media de la zona euro (azul),
 
-![](/wp-uploads/2020/11/EnpQnw1XUAEXZIy.png#center)
+![](/img/2020/11/EnpQnw1XUAEXZIy.png#center)
 
 que uno no sabe si utopía (en el sentido etimológico del término: lo que no ocurre en ningún lugar) o vulgar error de Excel.
 

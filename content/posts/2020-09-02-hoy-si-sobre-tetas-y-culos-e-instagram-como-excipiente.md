@@ -28,7 +28,7 @@ _[Nota: aquí quise incrustar un tuit de Analía Plaza que, aparentemente, fue b
 
 Lo primero que tengo que decir al respecto es que las tetas y culos que asocia al Cabo de Gata el Instagram de quienqueira que haya tomado esas capturas son prácticamente las mismas que en el mío (y otro día os cuento por qué tengo Instagram, porque ni lo sabéis ni os lo podéis imaginar), a saber,
 
-![](/wp-uploads/2020/09/Screenshot_20200901-234329.png#center)
+![](/img/2020/09/Screenshot_20200901-234329.png#center)
 
 Además, son las mismas tetas y culos que he visto en los móviles de todos los usuarios, algunos de ellos _heavy users_, de la red social que han tenido a bien donar unos segundos para la ciencia en general y para mi pequeño experimento en partitetar.
 
@@ -52,7 +52,7 @@ sino específicamente (y con mi subrayado),
 
 Analía nos regala un enlace a [_Undress or fail: Instagram’s algorithm strong-arms users into showing skin_](https://algorithmwatch.org/en/story/instagram-algorithm-nudity/), que es la versión menos técnica de [esto](https://docs.google.com/document/d/1L7A5hmskm3Y3huSXHNtIIoiVijHD3dkDqubff4Yvkg8/edit#) (que, a su vez, puede entenderse como el apéndice estadístico de lo primero) y que argumenta lo que cabe esperar habida cuenta de que el p-valor asociado a
 
-![](/wp-uploads/2020/09/test_instagram.png#center)
+![](/img/2020/09/test_instagram.png#center)
 
 está, como no podía ser de otra manera, por debajo del umbral que sugería Fisher.
 

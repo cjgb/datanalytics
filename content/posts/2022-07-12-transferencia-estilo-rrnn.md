@@ -22,7 +22,7 @@ _[Aquí, entre otras cosas, se abunda una serie de tres que realicé hace seis a
 
 Esta entrada trata sobre cómo se puede caracterizar en términos matemáticos, medir y, en última instancia, operar sobre un concepto tal lábil como lo es el del estilo (o textura) de una imagen. Por ejemplo, lo que caracteriza a una pintura negra de Goya, un primer plano de un plato de macarrones o una viñeta de un cómic de Mortadelo.
 
-![vector_x_hat](/wp-uploads/2016/09/vector_x_hat.jpg)
+![vector_x_hat](/img/2016/09/vector_x_hat.jpg)
 
 En resumen, se puede decir que lo que caracteriza el estilo es la coocurrencia de patrones.
 

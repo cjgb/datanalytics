@@ -42,7 +42,7 @@ Dos problemas:
 
 * El primero es que fijadas unas condiciones iniciales, el hamiltoniano es constante y las órbitas, por ejempo, nunca saldrán de ciertos pozos de potencial, por lo que habrá zonas vedadas de nuevo. La solución pasa por muestrear órbitas distintas correspondientes a condiciones iniciales de velocidad distintas (con una determinada distribución sobre estas velocidades).
 
-![halleyorbit](/wp-uploads/2016/09/HalleyOrbit.gif)
+![halleyorbit](/img/2016/09/HalleyOrbit.gif)
 
 * La segunda, sobre la que no he visto nada escrito, es que las partículas pasan proporcionalmente poco tiempo en las zonas de energía potencial baja (que corresponden a las de probabilidad alta). Eso sucede porque en ellas la energía cinética es alta: en plata, las atraviesan a toda leche. Como el cometa Halley, que pasa casi todo el tiempo donde no se lo ve.
 

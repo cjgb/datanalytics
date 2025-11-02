@@ -21,7 +21,7 @@ url: /2022/05/10/encuestas-electorales-cualitativas/
 
 El otro día ---más bien, aquel día en el que tomé las notas que uso en esta entrada--- hubo elecciones regionales en Castilla y León. Durante las semanas anteriores se publicaron los resultados de una serie de encuestas electorales al uso, similares a estos:
 
-![](/wp-uploads/2022/05/encuestas_cyl.png#center)
+![](/img/2022/05/encuestas_cyl.png#center)
 
 Es decir, información típicamente cuantitativa.
 

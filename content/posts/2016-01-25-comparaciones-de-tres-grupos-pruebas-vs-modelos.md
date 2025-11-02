@@ -79,8 +79,8 @@ plot(effects)
 
 produce un gráfico con sus intervalos de confianza, etc.
 
-[![comparar_tres_grupos](/wp-uploads/2016/01/comparar_tres_grupos.png#center)
-](/wp-uploads/2016/01/comparar_tres_grupos.png#center)
+[![comparar_tres_grupos](/img/2016/01/comparar_tres_grupos.png#center)
+](/img/2016/01/comparar_tres_grupos.png#center)
 
 La vía de usar modelos permite, además, considerar otras variables adicionales de control que no hay manera de contemplar con pruebas como `prop.test`.
 

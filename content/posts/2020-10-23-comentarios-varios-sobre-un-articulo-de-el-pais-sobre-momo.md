@@ -48,11 +48,11 @@ Lo que no se entiende es lo que sigue:
 
 A lo que acompaña el gráfico
 
-![](/wp-uploads/2020/10/Screenshot-from-2020-10-23-01-09-08.png#center)
+![](/img/2020/10/Screenshot-from-2020-10-23-01-09-08.png#center)
 
 que no se corresponde en absoluto con lo que ven mis propios ojos (y no sé si también los vuestros) en [MOMO](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#nacional):
 
-![](/wp-uploads/2020/10/Screenshot-from-2020-10-23-01-12-35-1.png#center)
+![](/img/2020/10/Screenshot-from-2020-10-23-01-12-35-1.png#center)
 
 _[Y aquí termina la corrección. Que merece la siguiente explicación: se habían colado en lo que se publica de MOMO unas presuntas estimaciones de la mortalidad esperada que no son las estimaciones de la mortalidad esperada que usa MOMO sino otra cosa horripilante; que, hay que hacer constar, en la fecha de publicación del artículo en El País ya habían sido corregidas en MOMO.]_
 

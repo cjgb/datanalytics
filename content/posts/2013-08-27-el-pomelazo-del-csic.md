@@ -22,8 +22,8 @@ Dado que el CSIC nos está pidiendo que hagamos algo por él, perdí un rato el 
 
 Navegando por [sus páginas](http://www.csic.es/web/guest/datos-sobre-el-csic) di con [este documento](http://documenta.wi.csic.es/alfresco/downloadpublic/direct/workspace/SpacesStore/d964585c-6199-4801-87f0-0275a0ca487f/CISC_cifras_junio_2007.pdf) y, al abrirlo, recibí este pomelazo en _tol'ojo_:
 
-[![](/wp-uploads/2013/08/pomelazo_csic.png#center)
-](/wp-uploads/2013/08/pomelazo_csic.png#center)
+[![](/img/2013/08/pomelazo_csic.png#center)
+](/img/2013/08/pomelazo_csic.png#center)
 
 Carajo, pero ¿quién hizo eso? ¿Por qué? ¿Con qué programa? ¿Nadie en todo el CSIC levantó la voz? ¡Que hablamos del CSIC y no de un ayuntamiento menor!
 

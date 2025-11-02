@@ -20,8 +20,8 @@ url: /2014/12/11/donde-estan-aquellos-caballeros-andantes/
 
 Pues precedidos del mi favorito de todos ellos, Felixmarte de Hircania, el del desnudo brazo, en
 
-[![felixmarte](/wp-uploads/2014/12/felixmarte.png#center)
-](/wp-uploads/2014/12/felixmarte.png#center)
+[![felixmarte](/img/2014/12/felixmarte.png#center)
+](/img/2014/12/felixmarte.png#center)
 
 dentro del texto del Quijote. El código para obtener el gráfico anterior es
 

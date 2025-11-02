@@ -42,4 +42,4 @@ Pero si los datos y los modelos están sujetos a tanta incertidumbre que son inc
 
 A todo esto, ¿alguien ve _crecimiento exponencial_ en el siguiente gráfico (extraído de [aquí](https://www.funcas.es/articulos/productividad-y-reformas-estructurales-esa-es-la-cuestion/))?
 
-![](/wp-uploads/2022/12/ptf.png#center)
+![](/img/2022/12/ptf.png#center)

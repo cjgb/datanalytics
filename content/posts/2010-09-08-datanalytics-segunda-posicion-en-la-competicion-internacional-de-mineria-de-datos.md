@@ -19,8 +19,8 @@ url: /2010/09/08/datanalytics-segunda-posicion-en-la-competicion-internacional-d
 
 Me es más que grato anunciar que he alcanzado la segunda posición en el _[IEEE ICDM Contest: TomTom Traffic Prediction for Intelligent GPS Navigation](http://tunedit.org/challenge/IEEE-ICDM-2010/traffic?m=leaderboard)_ (sección de tráfico):
 
-[![](/wp-uploads/2010/09/competicion_prediccion_trafico.png#center)
-](/wp-uploads/2010/09/competicion_prediccion_trafico.png#center)
+[![](/img/2010/09/competicion_prediccion_trafico.png#center)
+](/img/2010/09/competicion_prediccion_trafico.png#center)
 
 La competición constaba de tres partes (o subcompeticiones) distintas relacionadas con la predicción de ciertos aspectos relacionados con el tráfico en Varsovia:
 

@@ -74,7 +74,7 @@ circular.color.distribution("https://upload.wikimedia.org/wikipedia/commons/4/40
 
 se obtiene
 
-![dalmau](/wp-uploads/2016/05/dalmau.png#center)
+![dalmau](/img/2016/05/dalmau.png#center)
 
 y haciendo
 
@@ -84,4 +84,4 @@ circular.color.distribution("https://drwormhole.files.wordpress.com/2013/12/the-
 
 se obtiene
 
-![miro](/wp-uploads/2016/05/miro.png#center)
+![miro](/img/2016/05/miro.png#center)

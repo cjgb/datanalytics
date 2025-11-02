@@ -22,8 +22,8 @@ url: /2014/12/04/si-senor-ministro-y-encuestas/
 
 Cayó en mis manos
 
-[![ss_netconfusion](/wp-uploads/2014/12/ss_netconfusion.jpg)
-](/wp-uploads/2014/12/ss_netconfusion.jpg)
+[![ss_netconfusion](/img/2014/12/ss_netconfusion.jpg)
+](/img/2014/12/ss_netconfusion.jpg)
 
 que son los resultados de una encuesta en la que la misma pregunta (en puridad, una pregunta sobre una cuestión global y otra sobre un asunto particular de la anterior) reciben respuestas manifiestamente contrarias y contradictorias por parte de una muestra del ostentador de la soberanía.
 

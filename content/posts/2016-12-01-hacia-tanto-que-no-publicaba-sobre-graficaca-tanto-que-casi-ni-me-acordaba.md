@@ -20,7 +20,7 @@ url: /2016/12/01/hacia-tanto-que-no-publicaba-sobre-graficaca-tanto-que-casi-ni-
 
 Hasta que, zas,
 
-![tarta_porcentajes](/wp-uploads/2016/11/tarta_porcentajes.png#center)
+![tarta_porcentajes](/img/2016/11/tarta_porcentajes.png#center)
 
 El perpetrador, [bez.es](http://www.bez.es/950051653/anatomia-defraudador-hombres-directivos-mas-seis-anos-empresa.html).
 

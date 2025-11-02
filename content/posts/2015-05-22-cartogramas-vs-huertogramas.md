@@ -23,20 +23,20 @@ url: /2015/05/22/cartogramas-vs-huertogramas/
 
 Esto es un huertograma:
 
-[![huertograma_es](/wp-uploads/2015/05/huertograma_es.png#center)
-](/wp-uploads/2015/05/huertograma_es.png#center)
+[![huertograma_es](/img/2015/05/huertograma_es.png#center)
+](/img/2015/05/huertograma_es.png#center)
 
 Tiene la propiedad de que casi todos los pixels están encima de un huerto (o un erial, o en un cerro,...).
 
 Este es otro huertograma:
 
-[![huertograma_uk](/wp-uploads/2015/05/huertograma_uk.png#center)
-](/wp-uploads/2015/05/huertograma_uk.png#center)
+[![huertograma_uk](/img/2015/05/huertograma_uk.png#center)
+](/img/2015/05/huertograma_uk.png#center)
 
 Y esta es la misma información (resultados de las elecciones de 2015 en el RU) sobre un fabuloso [cartograma](http://en.wikipedia.org/wiki/Cartogram):
 
-[![cartograma_uk](/wp-uploads/2015/05/cartograma_uk.png#center)
-](/wp-uploads/2015/05/cartograma_uk.png#center)
+[![cartograma_uk](/img/2015/05/cartograma_uk.png#center)
+](/img/2015/05/cartograma_uk.png#center)
 
 ¿Os habéis fijado cómo esa casi indistinguible mancha roja en la zona de Londres del huertograma adquiere su debida relevancia en el cartograma?
 

@@ -20,7 +20,7 @@ url: /2019/02/08/ya-pero-es-viable-un-fact-check-descentralizado-entonces-que-ha
 
 Me llegó ayer por Twitter lo siguiente:
 
-![](/wp-uploads/2019/02/fact_check-1024x1024.jpg)
+![](/img/2019/02/fact_check-1024x1024.jpg)
 
 Lo había publicado alguien que no conocía y retuiteado (por eso me alcanzó) una persona que sigo porque me consta que sabe de unos temas pero que ignoro en qué medida está puesta en los geopolíticos y la historia económica de las naciones del mundo.
 

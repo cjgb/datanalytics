@@ -25,7 +25,7 @@ Cabe esperar que algunos se sientan decepcionados porque no tenga solo una pági
 
 Tampoco puedo añadir nada de sustancia a lo que ahí se cuenta. Me voy a limitar a subrayar una idea e ilustrarla con un caso con el que me enfrenté hace unos años.
 
-![](/wp-uploads/2023/mcmc_00.png#center)
+![](/img/2023/mcmc_00.png#center)
 
 Como se indica en el artículo e ilustra la gráfica anterior, uno lanza varias cadenas que tienen dos fases diferenciadas: _calentamiento_ y muestreo propiamente dicho. Los parámetros iniciales de la distribución de la cadena pueden estar muy alejados de los _reales_ y el calentamiento puede interpretarse casi como una optimización. De hecho, si uno busca en Google _mcmc fucntion optimization_ encuentra resultados relacionados con el asunto. MCMC no está pensado para eso y no es _óptimo_, pero aun así, puede usarse para obtener valores próximos a un máximo o mínimo.
 
@@ -35,7 +35,7 @@ Hace unos años, sin embargo, estaba trabajando en un problema similar pero más
 
 ¿Qué ocurría con el calentamiento? Algo parecido a esto:
 
-![](/wp-uploads/2023/mcmc_01.png#center)
+![](/img/2023/mcmc_01.png#center)
 
 Con dos diferencias:
 

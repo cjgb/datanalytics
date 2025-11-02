@@ -27,7 +27,7 @@ En esta tercera entrada de la serie (aquí está la [primera](https://datanalyti
 
 Las funciones en cuestión están extraídas de esta,
 
-![inception03](/wp-uploads/2016/09/inception03.png#center)
+![inception03](/img/2016/09/inception03.png#center)
 
 que es una representación esquemática (extraída de [aquí](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)) de una red neuronal para el reconocimiento de imágenes. El nodo superior lee píxels y el inferior dice si en la foto hay unos loros o no. Los colores indican distintos tipos de operaciones (convoluciones, etc.) internas de la red.
 

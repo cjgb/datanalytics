@@ -20,7 +20,7 @@ url: /2015/08/07/una-paradoja-que-no-me-parece-paradojica-la-de-bertrand-y-una-p
 
 La [paradoja de Bertrand](https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)) se formula así: tómense una cuerda al azar en una circunferencia; ¿cuál es la probabilidad de que sea más larga que el lado del triángulo equilátero inscrito?
 
-![bertrand](/wp-uploads/2015/08/bertrand.png#center)
+![bertrand](/img/2015/08/bertrand.png#center)
 
 Bertrand resolvió el problema de tres maneras distintas obteniendo tres resultados distintos: 1/2, 1/3 y 1/4. ¿Es eso una paradoja?
 

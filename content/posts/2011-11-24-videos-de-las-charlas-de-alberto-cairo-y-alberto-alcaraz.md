@@ -27,12 +27,12 @@ En realidad, hoy debería haber escrito sobre unas conferencias de MicroStrategy
 
 Por eso me limitaré a colgar los vídeos de las [charlas del Medialab Prado a las que me referí hace unos días](https://datanalytics.com/2011/11/22/grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid/). Primero, la correspondiente a [El arte funcional: regreso a las raíces de la visualización](http://medialab-prado.es/article/el_arte_funcional) de Alberto Cairo:
 
-[![](/wp-uploads/2011/11/medialab_prado_cairo.png#center)
+[![](/img/2011/11/medialab_prado_cairo.png#center)
 ](http://medialab-prado.es/article/el_arte_funcional)
 
 En segundo lugar, [Desgranando visualizaciones; Eurovision y la Crisis](http://medialab-prado.es/article/desgranando_visualizaciones), de Alberto Alcaraz:
 
-[![](/wp-uploads/2011/11/medialab_prado_alcaraz.png#center)
+[![](/img/2011/11/medialab_prado_alcaraz.png#center)
 ](http://medialab-prado.es/article/desgranando_visualizaciones)
 
 ¡Disfrutad!

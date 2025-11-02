@@ -28,7 +28,7 @@ Nótese cómo este modelo simple es el que muchos de quienes se dedican al negoc
 
 Pero echemos un vistazo a los residuos. El siguiente gráfico,
 
-![munich_residuos_regresion](/wp-uploads/2016/06/munich_residuos_regresion.png#center)
+![munich_residuos_regresion](/img/2016/06/munich_residuos_regresion.png#center)
 
 extraído de [aquí](http://www.interactivegraphics.org/Slides_files/CaseStudyE.pdf), muestra tanto el histograma de los residuos como su distribución con respecto a otra variable, el año de construcción del edificio. Como puede apreciarse, esta variable contiene mucha información sobre los precios: el metro cuadrado de los edificios más antiguos tiende a ser inferior al de los nuevos. El modelo simple no captura toda la información del conjunto de datos y podemos hilar más fino usando esta nueva variable.
 

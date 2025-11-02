@@ -26,7 +26,7 @@ La anterior es una lista de los 21 distritos del municipio de Madrid en un orden
 
 Porque se trata de una lista en estricto orden de porcentaje de colegios públicos de primaria (CEIP) que ofrecen clases en modalidad de jornada continua:
 
-![](/wp-uploads/2023/colegios_jornada_continua_madrid_2023.png#center)
+![](/img/2023/colegios_jornada_continua_madrid_2023.png#center)
 
 Los datos _completos_ pueden consultarse
 [aquí](https://docs.google.com/spreadsheets/d/1fl2vDRt2a7NFPcapTO1VJ2w5g8fecsM4xbOapppvU2g/edit?usp=sharing). Las fuentes son

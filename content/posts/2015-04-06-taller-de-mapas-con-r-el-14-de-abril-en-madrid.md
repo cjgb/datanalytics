@@ -27,8 +27,8 @@ Mi entrada de hoy es para anunciar un taller de mapas con R que tendrá lugar el
 
 Lo impartirá [Beatriz Martínez](http://visualizados.com/), socióloga dedicada a la investigación social y de mercados, que ha trabajado en numerosos proyectos: desde investigación digital al desarrollo rural o programas de inclusión social. Está especializada en la la visualización de datos. Algunos de sus trabajos pueden verse en [visualizados.com](http://visualizados.com).
 
-[![taller_mapas_2015](/wp-uploads/2015/04/taller_mapas_2015.png#center)
-](/wp-uploads/2015/04/taller_mapas_2015.png#center)
+[![taller_mapas_2015](/img/2015/04/taller_mapas_2015.png#center)
+](/img/2015/04/taller_mapas_2015.png#center)
 ¿Y el taller? Durante dos horas aprenderás y entenderás todo lo necesario para empezar a construir mapas con R:
 
 * ¿qué se necesita para pintar un mapa?

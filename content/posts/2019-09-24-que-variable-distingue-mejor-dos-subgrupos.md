@@ -25,7 +25,7 @@ url: /2019/09/24/que-variable-distingue-mejor-dos-subgrupos/
 
 Es una pregunta que surge reiteradamente. Por ejemplo, cuando se compara un _clúster_ con el resto de la población y uno busca las variables que mejor lo caracterizan. Y crear gráficos como
 
-![](/wp-uploads/2019/09/clusters_pv.png#center)
+![](/img/2019/09/clusters_pv.png#center)
 
 (extraído de [aquí](http://www.eustat.eus/document/datos/ct_tipoen_analisia_i.pdf)) donde las variables están ordenadas de acuerdo con su _poder discriminador_.
 

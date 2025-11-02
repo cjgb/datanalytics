@@ -30,8 +30,8 @@ Una ratio muy traída y llevada últimamente y con la que nos gusta autoflagelar
 
 De entre las múltiples discusiones que en España se hacen alrededor de este indicador, la que me resultó más reveladora fue la que _no_ se hizo alrededor del gráfico
 
-[![](/wp-uploads/2011/08/productividad_paradoja_simpson.gif)
-](/wp-uploads/2011/08/productividad_paradoja_simpson.gif)
+[![](/img/2011/08/productividad_paradoja_simpson.gif)
+](/img/2011/08/productividad_paradoja_simpson.gif)
 
 extraído del estudio [Una agenda de crecimiento para España](http://www.crisis09.es/agenda/20101201_Agenda.pdf). Si esos datos son correctos, significan lo siguiente:
 

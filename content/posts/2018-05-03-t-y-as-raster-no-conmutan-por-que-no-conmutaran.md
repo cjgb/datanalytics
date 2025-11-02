@@ -36,7 +36,7 @@ r
 plot(r, interpolate = FALSE)
 {{< / highlight >}}
 
-![](/wp-uploads/2018/04/t_raster_orig.png#center)
+![](/img/2018/04/t_raster_orig.png#center)
 
 Ahora, con la matriz traspuesta,
 
@@ -51,7 +51,7 @@ r_t_1
 
 obtengo
 
-![](/wp-uploads/2018/04/raster_t.png#center)
+![](/img/2018/04/raster_t.png#center)
 
 que difiere de cuando invierto el orden de las operaciones, i.e.,
 
@@ -66,6 +66,6 @@ r_t_2
 
 Que visualmente es
 
-![](/wp-uploads/2018/04/t_raster.png#center)
+![](/img/2018/04/t_raster.png#center)
 
 ¿Por qué, Dios mío, por qué? (Si alguien sabe razonarlo y tiene tiempo y disposición, siéntase libre de hacerlo en la sección de comentarios).

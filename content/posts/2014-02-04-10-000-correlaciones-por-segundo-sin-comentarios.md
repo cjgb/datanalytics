@@ -20,12 +20,12 @@ url: /2014/02/04/10-000-correlaciones-por-segundo-sin-comentarios/
 
 Fijaros con lo que he tropezado:
 
-[![10kcorrelations](/wp-uploads/2014/02/10kcorrelations.png#center)
-](/wp-uploads/2014/02/10kcorrelations.png#center)
+[![10kcorrelations](/img/2014/02/10kcorrelations.png#center)
+](/img/2014/02/10kcorrelations.png#center)
 
 ¿Cómo funciona el invento? ¡Es capaz de calcular 10.000 correlaciones por segundo!
 
-[![10kcorrelations02](/wp-uploads/2014/02/10kcorrelations02.png#center)
-](/wp-uploads/2014/02/10kcorrelations02.png#center)
+[![10kcorrelations02](/img/2014/02/10kcorrelations02.png#center)
+](/img/2014/02/10kcorrelations02.png#center)
 
 Estos _servicios_ pueden contratarse [aquí](http://www.butlerscientifics.com/). Me abstengo de realizar comentarios.

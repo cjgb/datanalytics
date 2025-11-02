@@ -22,7 +22,7 @@ url: /2017/03/07/en-contra-del-estado-de-derecho/
 
 Nos engañaron malamente. Nos prometieron que estudiar matemáticas nos abriría la puerta de los misterios más sutiles del conocimiento y ahora no hacemos otra cosa que celebrar como gilipollas [el día de $\pi$](http://www.piday.es/) a golpe de retuiteo. Nos dijeron que aprendiendo ingeniería conoceríamos el funcionamiento de las cosas y acabamos usando ordenadores armados con pegamento. Con la estadística seríamos capaces de estudiar y entender los movimientos y cambios sociales, el funcionamiento de los mercados financieros, etc. y nunca pasamos de los k-vecinos.
 
-![](/wp-uploads/2017/03/galileo_empapelado.jpg)
+![](/img/2017/03/galileo_empapelado.jpg)
 
 No sé si os pasó lo mismo que a mí. Yo nunca vi las matemáticas, la física, la estadística, la ingeniería, etc. como un fin en sí sino, más bien, como un mecanismo para comprender lo que pasaba alrededor, ese mundo complejo, lleno de cachivaches complicados y de [tecnologías prácticamente indistinguibles de la magia](https://en.wikipedia.org/wiki/Clarke's_three_laws).
 

@@ -25,8 +25,8 @@ Tropecé con el juego que describí en el libro _A Mathematician Plays The Stock
 
 Paulos cita a el trabajo del físico español [Juan Parrondo ](http://es.wikipedia.org/wiki/J._M._R._Parrondo), en cuya página hay una[ discusión muy accesible sobre estos juegos _paradójicos_](http://seneca.fis.ucm.es/parr/GAMES/inbrief.html) así como artículos algo más sesudos sobre el tema.
 
-[![](/wp-uploads/2012/01/rules.gif)
-](/wp-uploads/2012/01/rules.gif)
+[![](/img/2012/01/rules.gif)
+](/img/2012/01/rules.gif)
 
 Y más allá de las referencias y las debidas gentilezas con respecto a mis fuentes, aprovecho de pasada para recordar a mis lectores el concepto de **supermartingala** y el que podría ser considerado su teorema más importante.
 

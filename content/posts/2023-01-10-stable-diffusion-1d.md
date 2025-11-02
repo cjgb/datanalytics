@@ -90,7 +90,7 @@ y obtenemos, entre otras cosas, un histograma del resultado final:
 hist(diffusion_data[,ncol(diffusion_data)], breaks = 50)
 {{< / highlight >}}
 
-![](/wp-uploads/2023/denoising_diffusion_00.png#center)
+![](/img/2023/denoising_diffusion_00.png#center)
 
 
 ### III. Inversión de la difusión
@@ -116,7 +116,7 @@ plot(diffusion_data[, 10],
      ylab = "jump to")
 {{< / highlight >}}
 
-![](/wp-uploads/2023/denoising_diffusion_01.png#center)
+![](/img/2023/denoising_diffusion_01.png#center)
 
 La _inversa_, por lo tanto, tiene este aspecto:
 
@@ -127,7 +127,7 @@ plot(diffusion_data[, 11],
      ylab = "came from")
 {{< / highlight >}}
 
-![](/wp-uploads/2023/denoising_diffusion_02.png#center)
+![](/img/2023/denoising_diffusion_02.png#center)
 
 Nótese que podemos representar fácilmente esas funciones por trabajar en una dimensión. Las funciones correspondientes en dimensión $N$ lo serían entre vectores de $R^N$ y $R^N$. La ventaja de trabajar en una dimensión, además, es que tenemos mil maneras de aproximar esa función; en dimensiones más altas, _todo el mundo_ usa redes neuronales. Usando ---¿por qué no?--- árboles (de cierta _profundidad_/_complejidad_):
 
@@ -157,7 +157,7 @@ for (i in n_jumps:2) {
 
 debería ser una muestra ---aproximada--- de nuestras _fotos_ originales. Y en efecto,
 
-![](/wp-uploads/2023/denoising_diffusion_03.png#center)
+![](/img/2023/denoising_diffusion_03.png#center)
 
 ### IV. Comentarios finales
 

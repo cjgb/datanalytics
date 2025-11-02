@@ -22,5 +22,5 @@ url: /2012/09/28/tutorial-como-analizar-datos-de-twitter-con-r/
 
 No es mío, pero sí una pequeña joya que merece la pena dar a conocer. Además de tener aquí, en mi bitácora-vademécum para futura referencia. Es este [tutorial para el análisis de datos de Twitter](https://sites.google.com/site/miningtwitter/) realizado por [Gastón Sánchez](http://www.gastonsanchez.com/).
 
-[![](/wp-uploads/2012/09/MiningTwitterPicture.png#center)
-](/wp-uploads/2012/09/MiningTwitterPicture.png#center)
+[![](/img/2012/09/MiningTwitterPicture.png#center)
+](/img/2012/09/MiningTwitterPicture.png#center)

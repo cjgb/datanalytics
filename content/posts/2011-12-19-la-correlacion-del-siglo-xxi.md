@@ -25,8 +25,8 @@ Bajo el título [Detecting Novel Associations in Large Data Sets](http://www.sci
 El artículo (que no he podido leer: si alguien me pudiera pasar el pdf...) ha tenido cierto impacto, al menos momentáneo, en la red. Puede leerse [un resumen en esta entrada](http://francisthemulenews.wordpress.com/2011/12/16/se-publica-en-science-un-nuevo-coeficiente-matematico-para-el-estudio-de-correlaciones-no-lineales-entre-pares-de-datos/) u [otro bastante más cauto](http://andrewgelman.com/2011/12/mr-pearson-meet-mr-mandelbrot-detecting-novel-associations-in-large-data-sets/) en la de A. Gelman. Existe información adicional (e incluso código en R) en [esta página](http://www.exploredata.net/).
 
 
-[![](/wp-uploads/2011/12/dibujo20111216_comparison_of_mic_to_existing_methods.png#center)
-](/wp-uploads/2011/12/dibujo20111216_comparison_of_mic_to_existing_methods.png#center)
+[![](/img/2011/12/dibujo20111216_comparison_of_mic_to_existing_methods.png#center)
+](/img/2011/12/dibujo20111216_comparison_of_mic_to_existing_methods.png#center)
 
 
 Las dos ideas motivadoras de este método son:
@@ -38,7 +38,7 @@ Las dos ideas motivadoras de este método son:
 
 En muchos contextos, el análisis de un conjunto de datos comienza por el estudio de una matriz de correlaciones entre variables tal como
 
-[![](/wp-uploads/2011/12/correlation_classic1.jpg)
-](/wp-uploads/2011/12/correlation_classic1.jpg)
+[![](/img/2011/12/correlation_classic1.jpg)
+](/img/2011/12/correlation_classic1.jpg)
 
 que resalta la relaciones de dependencia lineal entre conjuntos amplios de variables. Con el aporte de este nuevo artículo, tal vez podrían identificarse otro tipo de relaciones funcionales igualmente interesantes. Con tiempo, le echo un vistazo.

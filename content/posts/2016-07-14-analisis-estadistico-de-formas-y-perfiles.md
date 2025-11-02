@@ -22,7 +22,7 @@ url: /2016/07/14/analisis-estadistico-de-formas-y-perfiles/
 
 Siempre me intrigó cómo podía realizarse el análisis estadístico de _cosas_ que no son tablas. Por ejemplo, formas.
 
-![momocs_botellas](/wp-uploads/2016/07/momocs_botellas.png#center)
+![momocs_botellas](/img/2016/07/momocs_botellas.png#center)
 
 Nótese que tales medidas deberían presentar invariancias frente a rotaciones, dilataciones, simetrías, etc.
 
@@ -30,6 +30,6 @@ Quien alimente también semejantes dudas podrá saciarlas (parcialmente, claro) 
 
 Particularmente interesante es el llamado análisis de Fourier elíptico, que busca descomponer una figura en elipses, tal como en
 
-![momocs_botellas_elipses](/wp-uploads/2016/07/momocs_botellas_elipses.png#center)
+![momocs_botellas_elipses](/img/2016/07/momocs_botellas_elipses.png#center)
 
 No deja de ser un divertimento para los más de nosotros pero quién sabe qué cosas nos puede inspirar en el futuro.

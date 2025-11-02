@@ -47,7 +47,7 @@ donde el factor experimental del operario está aún presente y es necesario rea
 
 La tercera es **yo modelo unos datos que _m'an enviao_**. No tengo ni idea de cómo se han recogido, no tengo ninguna hipótesis respecto a su forma, nada, cero, _zilch_. Así empieza, por ejemplo, el famoso artículo de Breiman, _[The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)_:
 
-![](/wp-uploads/2021/01/two_cultures.png#center)
+![](/img/2021/01/two_cultures.png#center)
 
 Pero utilizas una especie de llave inglesa que agarra cualquier tipo de tuerca, planteas una función de error más o menos razonable, y p'alante.
 

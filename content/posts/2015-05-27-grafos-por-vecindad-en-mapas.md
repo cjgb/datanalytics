@@ -35,8 +35,8 @@ plot(aragon)
 {{< / highlight >}}
 
 
-[![aragon_ine](/wp-uploads/2015/05/aragon_ine.png#center)
-](/wp-uploads/2015/05/aragon_ine.png#center)
+[![aragon_ine](/img/2015/05/aragon_ine.png#center)
+](/img/2015/05/aragon_ine.png#center)
 
 
 {{< highlight R >}}
@@ -74,5 +74,5 @@ plot(g,
 {{< / highlight >}}
 
 
-[![grafo_vecinos_aragon](/wp-uploads/2015/05/grafo_vecinos_aragon.png#center)
-](/wp-uploads/2015/05/grafo_vecinos_aragon.png#center)
+[![grafo_vecinos_aragon](/img/2015/05/grafo_vecinos_aragon.png#center)
+](/img/2015/05/grafo_vecinos_aragon.png#center)

@@ -26,7 +26,7 @@ El próximo 29 de noviembre (de 2018) de febrero daré una charla dentro del cic
 
 Para la mía han creado el siguiente cartelito:
 
-![](/wp-uploads/2018/11/konferences_201811.jpg)
+![](/img/2018/11/konferences_201811.jpg)
 
 El resumen que preparé es:
 

@@ -21,8 +21,8 @@ url: /2015/07/01/condicional-e-incertidumbre/
 
 En una charla hace un tiempo critiqué que no se usase el condicional en [titulares](http://politica.elpais.com/politica/2015/05/07/actualidad/1430996420_482987.html) tales como
 
-[![titular_condicional_00](/wp-uploads/2015/06/titular_condicional_00.png#center)
-](/wp-uploads/2015/06/titular_condicional_00.png#center)
+[![titular_condicional_00](/img/2015/06/titular_condicional_00.png#center)
+](/img/2015/06/titular_condicional_00.png#center)
 
 en el que se da noticia de los resultados de una encuesta (el barómetro del CIS). Porque una cosa es que un partido _gane_ las elecciones y otra que las _ganaría_ si se diesen una serie de circunstancias: entre otras, la fundamental, que las hubiera (el resto tienen que ver con la incertidumbre asociada a las encuestas, etc.).
 
@@ -39,8 +39,8 @@ De hecho, el [manual de estilo de El País](http://blogs.elpais.com/files/manual
 
 El prohibido es, por [ejemplo](http://www.eluniverso.com/noticias/2015/06/29/nota/4993662/kim-jong-habria-ejecutado-arquitecto-aeropuerto-pyongyang),
 
-[![titular_condicional_01](/wp-uploads/2015/06/titular_condicional_01.png#center)
-](/wp-uploads/2015/06/titular_condicional_01.png#center)
+[![titular_condicional_01](/img/2015/06/titular_condicional_01.png#center)
+](/img/2015/06/titular_condicional_01.png#center)
 
 que viene a decir que el medio no tiene constancia de ninguna fuente fidedigna que avale la noticia, pero que el río suena.
 

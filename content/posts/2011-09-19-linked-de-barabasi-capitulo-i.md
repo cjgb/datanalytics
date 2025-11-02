@@ -87,8 +87,8 @@ El código
 
 crea 100 redes aleatorias con `n.nodos` nodos y _z_ = 5. Luego cuenta cuántos nodos tienen grado _k_ y, finalmente, crea una gráfica similar a
 
-[![](/wp-uploads/2011/09/poisson_distr_degree.png#center)
-](/wp-uploads/2011/09/poisson_distr_degree.png#center)
+[![](/img/2011/09/poisson_distr_degree.png#center)
+](/img/2011/09/poisson_distr_degree.png#center)
 
 que es un diagrama de cajas del grado sobre el que se superpone el número esperado de nodos de grado _k_ si se acepta que su distribución es de Poisson. Como puede apreciarse, coinciden. Pero ya lo sabíamos porque conocíamos de viejo la relación entre las distribuciones de Poisson y la binomial.
 
@@ -124,8 +124,8 @@ De ahí se obtiene la ecuación $q = \exp^{-z( 1-q )}$ y si $s = 1-q$ es la prob
 
 La siguiente figura ilustra la situación:
 
-[![](/wp-uploads/2011/09/roots_equation.png#center)
-](/wp-uploads/2011/09/roots_equation.png#center)
+[![](/img/2011/09/roots_equation.png#center)
+](/img/2011/09/roots_equation.png#center)
 
 En ella se representa el término de la izquierda,
 
@@ -208,7 +208,7 @@ lines( zetas, theorical.sizes, col = "red")
 
 se obtiene
 
-[![](/wp-uploads/2011/09/giant_component_size.png#center)
-](/wp-uploads/2011/09/giant_component_size.png#center)
+[![](/img/2011/09/giant_component_size.png#center)
+](/img/2011/09/giant_component_size.png#center)
 
 con lo que nos damos por satisfechos y aguardamos a disponer de otro ratillo de asueto para sacarle la miga al capítulo II.

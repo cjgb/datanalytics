@@ -20,7 +20,7 @@ url: /2023/01/31/contabilidad-grados-libertad/
 
 Esta entrada es una pequeña exégesis de esto:
 
-![](/wp-uploads/2023/ajuste-logistica.png#center)
+![](/img/2023/ajuste-logistica.png#center)
 
 Lo que se ve es el resultado del ajuste de una curva logística de cuatro parámetros a una serie de datos. En particular, voy a discutir qué es eso de la logística de cuatro parámetros, por qué el ajuste es bueno y qué tienen que ver los grados de libertad en todo esto.
 

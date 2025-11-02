@@ -30,7 +30,7 @@ El lunes que viene, día 27 de mayo, impartiré un taller de... bueno, según el
 
 La charla formará parte del taller con el que arrancará la [competición de periodismo de datos InnovaData](https://www.centrodeinnovacionbbva.com/innovadata) , coorganizada por BBVA y la [Fundación Ciudadana Civio](http://www.civio.es/), que han tenido la gentileza de invitarme.
 
-[![](/wp-uploads/2013/05/InnovaData_banner_3.jpg)
-](/wp-uploads/2013/05/InnovaData_banner_3.jpg)
+[![](/img/2013/05/InnovaData_banner_3.jpg)
+](/img/2013/05/InnovaData_banner_3.jpg)
 
 Así que os invito a [registraros en los talleres](https://www.centrodeinnovacionbbva.com/contents/21636-innovadata-taller-sobre-periodismo-de-datos) (existe la opción de seguirlos presencialmente o en remoto) y a los más intrépidos, a [competir](https://www.centrodeinnovacionbbva.com/contents/21793-faq-preguntas-mas-frecuentes-sobre-bbva-innovadata) y optar a premios de hasta 3000 euros.

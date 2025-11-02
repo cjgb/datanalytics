@@ -35,7 +35,7 @@ Etc.
 
 En lo que me he entretenido es en caracterizar el tamaño y forma diaria del hueco eléctrico con datos reales del último año (largo) y buscar en él nueve patrones básicos. Es decir, he extraído las _formas funcionales_ del hueco térmico para cada día y las he agrupado en nueve tipos básicos. El resultado ha sido este:
 
-![](/wp-uploads/2022/07/hueco_termico.png#center)
+![](/img/2022/07/hueco_termico.png#center)
 
 El tamaño relativo (en %) de los _clústers_ es
 

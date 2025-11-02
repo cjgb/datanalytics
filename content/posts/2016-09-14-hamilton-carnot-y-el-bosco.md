@@ -21,11 +21,11 @@ url: /2016/09/14/hamilton-carnot-y-el-bosco/
 
 Por culpa de una nevera que no enfriaba como era debido, veinte años después, estoy repasando mi termodinámica: entropía, ciclo de Carnot, etc.
 
-![ciclo_carnot](/wp-uploads/2016/09/ciclo_carnot.png#center)
+![ciclo_carnot](/img/2016/09/ciclo_carnot.png#center)
 
 Por culpa de [Stan](http://mc-stan.org/) estoy repasando mi mecánica hamiltoniana.
 
-![hamiltonian_montecarlo](/wp-uploads/2016/09/hamiltonian_montecarlo.png#center)
+![hamiltonian_montecarlo](/img/2016/09/hamiltonian_montecarlo.png#center)
 
 Y lo estoy disfrutando muchísimo.
 

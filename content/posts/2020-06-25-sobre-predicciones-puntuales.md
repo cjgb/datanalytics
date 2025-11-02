@@ -22,4 +22,4 @@ url: /2020/06/25/sobre-predicciones-puntuales/
 
 Como tan a menudo se nos olvida, Taleb nos recuerda, breve y conciso, un par de _cositas_ sobre las predicciones puntuales [aquí](https://forecasters.org/blog/2020/06/14/on-single-point-forecasts-for-fat-tailed-variables/). Además, casi todo lo que tiene que decir se resume en:
 
-![](/wp-uploads/2020/06/lognormal-560x378-1.png#center)
+![](/img/2020/06/lognormal-560x378-1.png#center)

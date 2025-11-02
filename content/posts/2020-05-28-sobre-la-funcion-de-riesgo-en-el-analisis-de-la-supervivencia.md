@@ -20,15 +20,15 @@ url: /2020/05/28/sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia/
 
 Tienes una función de supervivencia
 
-![](/wp-uploads/2020/05/hazard_00.png#center)
+![](/img/2020/05/hazard_00.png#center)
 
 y piensas que es posible aproximarla usando segmentos de exponencial usando primero una _rejilla gruesa_,
 
-![](/wp-uploads/2020/05/hazard_01.png#center)
+![](/img/2020/05/hazard_01.png#center)
 
 y luego cada vez más fina,
 
-![](/wp-uploads/2020/05/hazard_02.png#center)
+![](/img/2020/05/hazard_02.png#center)
 
 hasta que sean _indistinguibles_.
 

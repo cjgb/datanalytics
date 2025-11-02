@@ -24,8 +24,8 @@ url: /2010/07/13/use-sas-para-predecir-como-un-pulpo/
 
 Para el otoño volverá a tener lugar el congreso de usuarios de SAS en España. El [anuncio](http://www.sas.com/mailings/camp2007/c20921.html) que me acaba de llegar —con su referencia al ubicuo pulpo Paul— no puede ser más desafortunado. Por si desaparece el enlace, reproduzco con una captura de pantalla aquí lo más sustancioso del mismo:
 
-[![](/wp-uploads/2010/07/sas_pulpo_paul.png#center)
-](/wp-uploads/2010/07/sas_pulpo_paul.png#center)
+[![](/img/2010/07/sas_pulpo_paul.png#center)
+](/img/2010/07/sas_pulpo_paul.png#center)
 
 **Addenda:**
 

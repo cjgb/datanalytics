@@ -80,5 +80,5 @@ system.time( res <- sapply( seleccion,
 Los números son tan concluyentes que me excusan de la necesidad de ofrecer explicaciones y distingos. Aunque para que mis lectores no tengan que ir subiendo y bajando por la entrada para realizar comparaciones, los resumo en un gráfico:
 
 
-[![](/wp-uploads/2010/09/tiempos_busqueda_segundos.png#center)
-](/wp-uploads/2010/09/tiempos_busqueda_segundos.png#center)
+[![](/img/2010/09/tiempos_busqueda_segundos.png#center)
+](/img/2010/09/tiempos_busqueda_segundos.png#center)

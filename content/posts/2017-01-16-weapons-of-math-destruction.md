@@ -21,7 +21,7 @@ url: /2017/01/16/weapons-of-math-destruction/
 
 Así se titula un libro que no he leído y que, pese a lo cual, como los malos críticos, voy a comentar. Los libros suelen estar plagados de hojarasca, tal vez porque de otra manera no se puede hacer crecer un par de ideas más o menos originales a las cientoypico páginas como mínimo que uno espera encontrar entre dos tapas. El relato corto no da caché. Y yo ando corto de tiempo.
 
-![](/wp-uploads/2017/01/weapons_math_destruction.jpg)
+![](/img/2017/01/weapons_math_destruction.jpg)
 
 Así que haré caso a los comentaristas del libro, que me informan de que revisa desde una perspectiva moral el efecto de los modelos estadísticos y su aplicación a diversos ámbitos que afectan a personas: admisiones, concesiones de créditos, fijaciones de precios y otros. Y que es, además, fiel a su título (concedo que muy ingenioso): los tacha de armas de destrucción masiva por tres de sus presuntas propiedades: son opacos, son ubicuos y causan daño.
 

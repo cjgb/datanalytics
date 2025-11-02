@@ -36,7 +36,7 @@ Al fin y al cabo, ¿por qué existe un servicio AVE Madrid-Huesca (¡[mal hecho]
 
 Y la segunda objeción ataca mucho más profundamente la línea argumental del libro. Imaginemos una empresa sin ningún tipo de servidumbre política o administrativa que tiene que construir una red nacional de comunicaciones. Busca la mera eficiencia económica. Cada kilómetro de red le cuesta un dinero. Y tiene que cubrir el territorio nacional entero garantizando una determinada capacidad así como dar acceso a nodos (en Andalucía, el Cantábrico, la frontera francesa) que son la salida de sus _mercancías_ al exterior. ¿Optaría por un modelo de red radial en España? Según Bel, no. Pero según Jazztel, sí. En efecto, el [mapa de la red](http://www.jazztel.com/image/image_gallery?uuid=a83ab2a3-f215-4c1c-b6f7-f46e1e3c21a9&groupId=11950&t=1304515485129) de esta empresa de telefonía es el siguiente:
 
-[![](/wp-uploads/2012/03/red_jazztel1.jpg)
-](/wp-uploads/2012/03/red_jazztel1.jpg)
+[![](/img/2012/03/red_jazztel1.jpg)
+](/img/2012/03/red_jazztel1.jpg)
 
 ¿Contrafactual?

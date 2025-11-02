@@ -21,7 +21,7 @@ url: /2016/12/02/no-soy-yo-sos-vos-repito-sos-vos/
 
 Hoy he visto
 
-![grafico_ser](/wp-uploads/2016/11/grafico_ser.png#center)
+![grafico_ser](/img/2016/11/grafico_ser.png#center)
 
 en [una radio](http://cadenaser.com/ser/2016/11/28/politica/1480372148_848008.html) (sí, gráficos en una radio: el mundo está loco) y mi cabeza se ha puesto a dar vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas, vueltas y más vueltas.
 

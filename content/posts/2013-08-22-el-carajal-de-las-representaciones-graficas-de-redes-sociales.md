@@ -20,7 +20,7 @@ url: /2013/08/22/el-carajal-de-las-representaciones-graficas-de-redes-sociales/
 
 Seamos honestos: en representaciones gráficas de grafos similares a
 
-![](/wp-uploads/2013/08/grafo.png#center)
+![](/img/2013/08/grafo.png#center)
 
 no vemos/entendemos un carajo. Al menos yo.
 

@@ -22,8 +22,8 @@ url: /2015/03/19/un-curso-de-redes-sociales-con-r/
 
 Se me ha propuesto organizar un curso, taller o similar de redes sociales y su análisis con R. De nuevo, presencial.
 
-[![topologia_correos](/wp-uploads/2014/06/topologia_correos.png#center)
-](/wp-uploads/2014/06/topologia_correos.png#center)
+[![topologia_correos](/img/2014/06/topologia_correos.png#center)
+](/img/2014/06/topologia_correos.png#center)
 
 Mi propuesta —dado que soy lego en el asunto— es organizar un taller basado en [este](http://sna.stanford.edu/rlabs.php). Ahí va mi propuesta: en una serie de sesiones en [MartinaCocina](http://martinacocina.es) plantamos un proyector y una pizarra y entre todos vamos avanzando en el tutorial y resolviendo las dudas colaborativamente.
 

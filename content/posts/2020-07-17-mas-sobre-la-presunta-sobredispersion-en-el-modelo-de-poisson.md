@@ -171,7 +171,7 @@ plot(rejilla_x, local_variance, type = "l",
 
 que produce
 
-![](/wp-uploads/2020/07/dispersion_local.png#center)
+![](/img/2020/07/dispersion_local.png#center)
 
 _[**Nota aclaratoria:** la gráfica anterior debería ser aproximadamente constante para que pudiésemos creernos el ajuste que la quasi-Poisson hace al modelo de Poisson en el caso en cuestión.]_
 

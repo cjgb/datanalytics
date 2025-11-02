@@ -43,7 +43,7 @@ El artículo es particularmente relevante porque se plantea casi el mismo proble
 
 ¿Y cuál es esta maravilla de modelo que deja obsoleto a MoMo? Esta:
 
-![](/wp-uploads/2022/07/metodologia.png#center)
+![](/img/2022/07/metodologia.png#center)
 
 Que es una, lo siento, maldita chapuza ---con relación a MoMo--- porque no tiene en cuenta ni la intensidad ni la duración de las olas de calor (MoMo la última vez que lo vi, sí; de hecho, esa es la parte más _peleaguda_ de MoMo). MoMo, además, ubica temporalmente los excesos de mortalidad atribuidos al exceso de temperatura y uno puede constatar ---visualmente incluso--- si se da la debida correlación.
 

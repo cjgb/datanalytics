@@ -22,8 +22,8 @@ url: /2014/10/09/experto-en-data-science-en-la-u-tad/
 
 Se me ha ido pasando y nunca he llegado a escribir aquí que seré uno de los profesores del [_Experto en Data Science_](http://www.u-tad.com/estudios/experto-en-data-science/) de la [U-tad](http://www.u-tad.com/) que comienza... de hecho este viernes.
 
-[![utad](/wp-uploads/2014/10/utad.jpg)
-](/wp-uploads/2014/10/utad.jpg)
+[![utad](/img/2014/10/utad.jpg)
+](/img/2014/10/utad.jpg)
 
 El escribir tan tarde me permite, al menos, presumir de que todo lo bueno que tengo que decir sobre el programa y el claustro no tiene finalidad comercial/propagandística.
 

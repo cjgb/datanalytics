@@ -22,8 +22,8 @@ La entrada de hoy la podía haber hecho en Twitter porque va a ser breve. Pero, 
 
 Mirad los siguientes datos correspondientes al 2009:
 
-[![](/wp-uploads/2012/01/irpf_aeat.png#center)
-](/wp-uploads/2012/01/irpf_aeat.png#center)
+[![](/img/2012/01/irpf_aeat.png#center)
+](/img/2012/01/irpf_aeat.png#center)
 
 Indican que en tal año, 16.7 millones de españoles declararon rendimientos del trabajo por un importe medio de casi 20.000 euros por barba, etc. Pero prestad atención a los _rendimientos de actividades económicas_, que [son](http://www.fiscal-impuestos.com/3-rendimientos-de-actividades-economicas.html)
 

@@ -21,8 +21,8 @@ url: /2011/05/31/graficaca-en-el-ft/
 
 La gente que escribe en el Financial Times y mucha de la que lo lee suele vestir de traje. Son gente que sabe de lo que habla y están versados en muchos temas no triviales. Podrían ir en chanclas, pantalones cortos y camisetas viejas sin que eso afectase a su conocimiento y entendimiento de las cosas. Si fuese el caso, con cuatro frases que intercambiásemos con ellos nos daríamos cuenta de que la _impresión_ que tal vez no causasen no se corresponde con su erudita esencia. Pero el hecho es que gastan corbata.
 
-En este siglo de lecturas superficiales, la impresión cuenta. La impresión que pueda causar una gráfica en un lector con prisas puede ser más relevante que la sesuda discusión —quizás leída por los menos y entendida por una fracción de ellos— que la circunde.[![](/wp-uploads/2011/05/ft_renminbi_inflation.png#center)
-](/wp-uploads/2011/05/ft_renminbi_inflation.png#center)
+En este siglo de lecturas superficiales, la impresión cuenta. La impresión que pueda causar una gráfica en un lector con prisas puede ser más relevante que la sesuda discusión —quizás leída por los menos y entendida por una fracción de ellos— que la circunde.[![](/img/2011/05/ft_renminbi_inflation.png#center)
+](/img/2011/05/ft_renminbi_inflation.png#center)
 
 En ese contexto quiero analizar un bonito ejemplo de [graficaca](https://datanalytics.com/2011/01/05/1139/) aparecida en el FT del día 16 de abril. Muestra sobreimpresas la evolución del índice de inflación en China y a tasa de cambio de su moneda con respecto al dólar en los últimos . Y no quiero hablar acá tanto sobre estas cuestiones de política monetaria como analizar el gráfico desde el punto de vista de lo que este sugiere y cómo se ha conseguido crear tal ilusión.
 

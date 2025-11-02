@@ -32,7 +32,7 @@ Aquí nos llama la atención otro efecto que afecta a los segundos momentos: el 
 
 Obvio. De hecho,
 
-![](/wp-uploads/2019/09/sociedades_mercantiles.png#center)
+![](/img/2019/09/sociedades_mercantiles.png#center)
 
 Que es un conocimiento que cabe esperar en un lector atento de [Kahneman y cía](https://en.wikipedia.org/wiki/Insensitivity_to_sample_size).
 

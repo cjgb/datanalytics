@@ -46,8 +46,8 @@ python.exec("plt.savefig('2015-04-02-pyplot.png')")
 
 para obtener
 
-[![2015-04-02-pyplot](/wp-uploads/2015/04/2015-04-02-pyplot.png#center)
-](/wp-uploads/2015/04/2015-04-02-pyplot.png#center)
+[![2015-04-02-pyplot](/img/2015/04/2015-04-02-pyplot.png#center)
+](/img/2015/04/2015-04-02-pyplot.png#center)
 
 con una fracción del esfuerzo y sin reinventar la rueda.
 

@@ -23,7 +23,7 @@ url: /2017/04/10/pues-si-puede-fabricarse-uno-para-espana/
 
 Es
 
-![](/wp-uploads/2017/04/ggplot_spain_format.png#center)
+![](/img/2017/04/ggplot_spain_format.png#center)
 
 responde a [mi entrada de la semana pasada](https://datanalytics.com/2017/04/07/podria-fabricarse-uno-para-espana/) y se lo debemos a la gentileza de [Sergio J](https://twitter.com/sergiojsj).
 

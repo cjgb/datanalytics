@@ -22,8 +22,8 @@ El autor de [una entrada que casi fusilo hoy](http://machine-master.blogspot.com
 
 Con una imagen simboliza el aspecto de un conjunto de datos antes y después de aplicar una técnica de reducción de la dimensionalidad (PCA, pero podría ser otra). Es esta:
 
-[![pca_antes_despues](/wp-uploads/2014/07/pca_antes_despues.jpeg)
-](/wp-uploads/2014/07/pca_antes_despues.jpeg)
+[![pca_antes_despues](/img/2014/07/pca_antes_despues.jpeg)
+](/img/2014/07/pca_antes_despues.jpeg)
 
 A la izquierda, los datos originales. Con sus detalles y sus imperfecciones. A la derecha, los transformados, limpios de impurezas, con colores sólidos y trazos gruesos.
 

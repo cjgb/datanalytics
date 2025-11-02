@@ -22,7 +22,7 @@ url: /2014/11/05/disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-u
 
 Ya están disponibles las [diapo](http://r-es.org/Programa+de+las+VI+Jornadas)[sitivas y vídeos de las charlas de las VI Jornadas de Usuarios de R](http://r-es.org/Programa+de+las+VI+Jornadas). Entre ellos, las [diapositivas](http://r-es.org/dl1248) y el
 
-[![charla_santiago](/wp-uploads/2014/11/charla_santiago.jpg)
+[![charla_santiago](/img/2014/11/charla_santiago.jpg)
 ](http://ftp.cixug.es/pub/6J_R/Jueves/Tarde/01_Carlos_Gil.mp4)
 
 de la charla de quien suscribe.

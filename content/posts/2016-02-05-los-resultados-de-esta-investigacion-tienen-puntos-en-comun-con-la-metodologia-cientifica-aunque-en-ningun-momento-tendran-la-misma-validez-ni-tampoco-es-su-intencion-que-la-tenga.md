@@ -41,10 +41,10 @@ Podría incluso llegarse a dar el caso de que los dos eventos anteriores fuesen 
 
 Gráficamente, que en lugar de tener una relación causal como la que quiere dar a entender el artículo de la forma
 
-![relacion_causal_trivial](/wp-uploads/2016/02/relacion_causal_trivial.png#center)
+![relacion_causal_trivial](/img/2016/02/relacion_causal_trivial.png#center)
 
 muy bien podría tenerse otra tal como
 
-![relacion_causal_alternativa](/wp-uploads/2016/02/relacion_causal_alternativa.png#center)
+![relacion_causal_alternativa](/img/2016/02/relacion_causal_alternativa.png#center)
 
 Todos tenemos tentaciones de vez en cuando de sacrificar los principios del discurso racional (del que el método científico forma parte) en aras de un bien presuntamente superior; todos tenemos también de vez en cuando gases en el intestino. Nos llamamos civilización porque hemos aprendido a resolver esos problemas en el más estricto ámbito de  lo privado.

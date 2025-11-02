@@ -22,8 +22,8 @@ Porque según donde mira uno... Veamos un ejemplo. Ha caído en mi mano [este do
 
 Lo primero que me ha llamado la atención han sido los números correspondientes a España:
 
-[![residuos_urbanos](/wp-uploads/2015/03/residuos_urbanos.png#center)
-](/wp-uploads/2015/03/residuos_urbanos.png#center)
+[![residuos_urbanos](/img/2015/03/residuos_urbanos.png#center)
+](/img/2015/03/residuos_urbanos.png#center)
 
 ¿A vosotros no? Qué números tan redondos, ¿verdad? Como si puestos a ojo. Pues sí, son, poco más o menos, a ojo. La tabla tiene una nota en letra diminuta en la que indica que las cifras de España (y algunos otros países) son estimaciones que podrían ser revisadas.
 

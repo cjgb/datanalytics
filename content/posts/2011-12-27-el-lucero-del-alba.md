@@ -27,8 +27,8 @@ Puede que algunos de mis lectores sepan que el [lucero del alba](http://es.wikip
 
 En contextos menos poéticos se conoce por tal nombre a esto:
 
-[![](/wp-uploads/2011/12/cierre2012.png#center)
-](/wp-uploads/2011/12/cierre2012.png#center)
+[![](/img/2011/12/cierre2012.png#center)
+](/img/2011/12/cierre2012.png#center)
 
 Es decir, una determinada configuración de los precios de apertura y cierre de tres días de cotización (bursátil, por ejemplo) de forma que:
 
@@ -93,8 +93,8 @@ res.ms  <- res.all[ res.all[,1] == 1, ]
 El resultado muestra cómo en los 10 últimos años ha habido 48 luceros del alba. ¿Y qué pasó un mes después? Lo indica el histograma siguiente:
 
 
-[![](/wp-uploads/2011/12/lucero_del_alba.png#center)
-](/wp-uploads/2011/12/lucero_del_alba.png#center)
+[![](/img/2011/12/lucero_del_alba.png#center)
+](/img/2011/12/lucero_del_alba.png#center)
 
 
 Y en 20 años de cotización del IBEX 35, ¿cuáles serían los resultados? Helos:
@@ -123,8 +123,8 @@ res.ms  <- res.all[ res.all[,1] == 1, ]
 Y al cabo de un mes de los 78 luceriles prodigios ocurridos desde el 92, la rentabilidad acumulada por el IBEX 35 fue la indicada en el siguiente histograma:
 
 
-[![](/wp-uploads/2011/12/lucero_alba_ibex.png#center)
-](/wp-uploads/2011/12/lucero_alba_ibex.png#center)
+[![](/img/2011/12/lucero_alba_ibex.png#center)
+](/img/2011/12/lucero_alba_ibex.png#center)
 
 
 

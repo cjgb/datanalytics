@@ -21,7 +21,7 @@ url: /2018/04/13/un-problema-como-muestrear-histogramas-con-medias-la-via-de-los
 ---
 
 Me refiero muy impropiamente con _histogramas con medias_ a algo parecido a
-![](/wp-uploads/2018/04/histograma_medias.png#center)
+![](/img/2018/04/histograma_medias.png#center)
 
 
 que son resúmenes de datos en los que aparecen no solo intervalos sino también las medias correspondientes a los sujetos dentro de esos intervalos.
@@ -32,7 +32,7 @@ Por simplificar, supongamos que tenemos datos en el intervalo [0, 1] cuya media 
 
 El primer ensayo podría ser muestrear una distribución trapezoidal, i.e.,
 
-![](/wp-uploads/2018/04/muestreo_trapecio.png#center)
+![](/img/2018/04/muestreo_trapecio.png#center)
 
 Muestrear un trapecio de esas características equivale a muestrear una mezcla de una uniforme y una triangular (con pesos 0.8 y 0.2 en este caso porque el área del triángulo es la quinta parte de la de la región entera).
 

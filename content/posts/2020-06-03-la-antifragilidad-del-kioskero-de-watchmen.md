@@ -18,6 +18,6 @@ title: La antifragilidad del kioskero de Watchmen
 url: /2020/06/03/la-antifragilidad-del-kioskero-de-watchmen/
 ---
 
-![](/wp-uploads/2020/06/antifragilidad.jpeg)
+![](/img/2020/06/antifragilidad.jpeg)
 
 _Fuente: Watchmen, cap. 3, pág. 2_

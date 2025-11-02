@@ -21,8 +21,8 @@ url: /2012/05/29/sap-hana-rhana-y-r/
 SAP es tal vez la mayor empresa europea de _software_. Aunque es principalmente conocida por sus programas de gestión empresarial, ha hecho sus pinitos en el mundo de los gestores de bases de datos con [HANA](http://en.wikipedia.org/wiki/SAP_HANA). Una de sus principales peculiaridades es que almacena la información en memoria, beneficiándose, por un lado, del abaratamiento del _hardware_ y, por el otro, de la velocidad de acceso.
 
 
-[![](/wp-uploads/2012/05/rhana.png#center)
-](/wp-uploads/2012/05/rhana.png#center)
+[![](/img/2012/05/rhana.png#center)
+](/img/2012/05/rhana.png#center)
 
 
 Otra, de mucho más interés para quienes siguen esta bitácora, es la posibilidad de conectarlo con R. He ido recopilando varios enlaces sobre el asunto en los últimos tiempos, como

@@ -36,8 +36,8 @@ Tras la digresión, entramos en materia:
 
 
 
-[![](/wp-uploads/2011/04/MapaMadrid.jpg)
-](/wp-uploads/2011/04/MapaMadrid.jpg)
+[![](/img/2011/04/MapaMadrid.jpg)
+](/img/2011/04/MapaMadrid.jpg)
 
 
 

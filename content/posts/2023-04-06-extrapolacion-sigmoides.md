@@ -22,7 +22,7 @@ url: /2023/04/06/extrapolacion-imposible-sigmoides/
 
 La extrapolación problemática. Que es la manera erudita de decir que _ni de coña_.
 
-![](/wp-uploads/2023/extrapolating.png#center)
+![](/img/2023/extrapolating.png#center)
 
 La extrapolación ---lineal, en este caso--- tiene dos problemas:
 

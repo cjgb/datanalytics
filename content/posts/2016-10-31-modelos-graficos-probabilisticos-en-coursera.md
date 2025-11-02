@@ -24,7 +24,7 @@ Acabo de terminar el primero de los [tres cursos sobre modelos gráficos probabi
 
 El curso sigue una sinuosa senda a través del libro (¡1200 páginas!) [Probabilistic Graphical Models de D. Koller y N. Friedman](https://mitpress.mit.edu/books/probabilistic-graphical-models). Aunque cueste un potosí, es posible hojearlo gratis para ver si vale la pena o no comprarlo gracias a nuestros amigos de [LibGen](https://es.wikipedia.org/wiki/Library_Genesis).
 
-![probabilistic_graphical_models](/wp-uploads/2016/10/probabilistic_graphical_models.png#center)
+![probabilistic_graphical_models](/img/2016/10/probabilistic_graphical_models.png#center)
 
 
 Tiene mucho de bueno. Lo mejor, sin duda alguna, el universo de problemas que plantea y a los que se aplican los modelos gráficos. No son el sota, caballo y rey de los manuales de métodos de clasificación, regresión, etc. Las correlaciones entre variables se explicitan y se modelan usando criterios (p.e., de expertos humanos), en lugar de fiarlo todo al descenso de un gradiente.

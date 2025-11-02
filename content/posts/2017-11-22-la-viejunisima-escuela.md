@@ -25,7 +25,7 @@ Leí [esto](http://parerga-und-paralipomena.blogspot.com.es/2015/06/conferencia-
 
 Si queréis, echadle un vistazo y podréis descubrirla por vosotros mismos. Y para evitar el _spoiler_ de un golpe de vista involutario al párrafo siguiente, intercalo la foto de un lindo gatito.
 
-![](/wp-uploads/2017/11/gato.jpg)
+![](/img/2017/11/gato.jpg)
 
 Pues sí, el señor Escohotado afirma que:
 

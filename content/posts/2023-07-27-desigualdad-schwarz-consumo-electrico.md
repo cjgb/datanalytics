@@ -40,7 +40,7 @@ $$\sqrt{\frac{1}{T} \int_0^T v^2(t) dt}.$$
 
 Por ejemplo, ahora mismo,
 
-![](/wp-uploads/2023/consumo_electricidad_00.png#center)
+![](/img/2023/consumo_electricidad_00.png#center)
 
 El _Power(W)_ es la primera integral, la _potencia real_ consumida en mi hogar. Las otras dos, son las conocidas como $I_{rms}$ y $V_{rms}$ ---_Current(mA)_ y _Voltage(V)_ en la _app_--- donde _rms_ significa lo mismo que siempre: _root mean square_.
 

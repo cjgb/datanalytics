@@ -52,7 +52,7 @@ Ahí estás diciendo que $y = a + b t$ y que cada año, la media de $y$ aumenta 
 
 Sin embargo, si has oído hablar de la regresión de Poisson y la aplicas con sus opciones _por defecto_, es decir, haces
 
-![](/wp-uploads/2023/chatgpt_poisson_regression.png#center)
+![](/img/2023/chatgpt_poisson_regression.png#center)
 
 estarás dentro de la ortodoxia, pero diciendo que $y = \exp(a + b t)$ (obvio señalar que los valores de $a$ y $b$ no coincidirán con los de arriba) y que, por tanto, cada año que pasa, la media se multiplica por $e^b$.
 

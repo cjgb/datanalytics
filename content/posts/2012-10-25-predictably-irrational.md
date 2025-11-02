@@ -22,8 +22,8 @@ url: /2012/10/25/predictably-irrational/
 
 Estoy terminando de leer [Predictably Irrational](http://en.wikipedia.org/wiki/Predictably_Irrational). Es un libro que recomiendo encarecidamente.
 
-[![](/wp-uploads/2012/10/200px-Predictably_Irrational_Book_Cover.jpg)
-](/wp-uploads/2012/10/200px-Predictably_Irrational_Book_Cover.jpg)
+[![](/img/2012/10/200px-Predictably_Irrational_Book_Cover.jpg)
+](/img/2012/10/200px-Predictably_Irrational_Book_Cover.jpg)
 
 ¿De qué trata? [Aquí](http://conversionxl.com/pricing-experiments-you-might-not-know-but-can-learn-from/) y en este [vídeo de su autor, Dan Arieli,](http://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions.html) hay abrebocas (que se refieren fundamentalmente a su primer capítulo) que seguro que os soprenderán.
 

@@ -34,8 +34,8 @@ Lo más interesante, no obstante, es el mecanismo que utilizan para paralelizar 
 El esquema de funcionamiento está descrito en el siguiente gráfico:
 
 
-[![](/wp-uploads/2012/09/google_parallel_environment.png#center)
-](/wp-uploads/2012/09/google_parallel_environment.png#center)
+[![](/img/2012/09/google_parallel_environment.png#center)
+](/img/2012/09/google_parallel_environment.png#center)
 
 
 Desde una sesión no necesariamente interactiva, se lanza un proceso. La infraestructura creada por Google (la función `google.apply` dentro del paquete `googleparallelism`) entonces:

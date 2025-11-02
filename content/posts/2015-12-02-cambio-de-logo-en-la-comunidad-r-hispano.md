@@ -20,8 +20,8 @@ url: /2015/12/02/cambio-de-logo-en-la-comunidad-r-hispano/
 
 Hace años, al comienzo de los tiempos de la [Comunidad R Hispano](http://r-es.org/), se propusieron ciertos logos y se votó el actual,
 
-[![logo_comunidad_r_hispano](/wp-uploads/2015/12/logo_comunidad_r_hispano.png#center)
-](/wp-uploads/2015/12/logo_comunidad_r_hispano.png#center)
+[![logo_comunidad_r_hispano](/img/2015/12/logo_comunidad_r_hispano.png#center)
+](/img/2015/12/logo_comunidad_r_hispano.png#center)
 
 que tiene su gracia pero, también, dos inconvenientes graves:
 

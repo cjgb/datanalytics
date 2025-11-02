@@ -22,6 +22,6 @@ url: /2019/09/18/mi-consumo-de-electricidad-hora-a-hora/
 
 Por primera vez, mi compañía de electricidad ha sabido asignar a cada hora mi consumo (¿se acabarán de una vez las benditas facturas con consumo _estimado_?). Lo que me ha permitido construir esta gráfica horaria:
 
-![](/wp-uploads/2019/09/consumo_electricidad_horario-341x1024.png#center)
+![](/img/2019/09/consumo_electricidad_horario-341x1024.png#center)
 
 No publico el código por que dependería del proveedor. No hago comentarios porque solo a mí me competen. Pero invito a otros a echar un vistazo a su consumo, etc.

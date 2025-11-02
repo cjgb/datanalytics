@@ -23,4 +23,4 @@ url: /2017/09/28/geofacetas/
 
 Con [`geofacet`](https://github.com/hafen/geofacet) se puede hacer
 
-![](/wp-uploads/2017/09/geofacet.jpg)
+![](/img/2017/09/geofacet.jpg)

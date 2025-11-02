@@ -26,7 +26,7 @@ sobre estimaciones e intervalos de confianza alrededor de
 
 que muestra estimaciones históricas de la velocidad de la luz. Pero
 
-![Lifetime neutron](/wp-uploads/2024/neutron-lifetime.png#center)
+![Lifetime neutron](/img/2024/neutron-lifetime.png#center)
 
 (extraído de [aquí](https://commons.wikimedia.org/wiki/File:Evolution_of_the_value_of_the_neutron_lifetime_evaluated_by_the_Particle_Data_Group_as_a_function_of_time_(2020).png))
 es todavía mucho más jugoso:

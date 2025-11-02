@@ -24,8 +24,8 @@ url: /2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-s
 
 Aparentemente, porque así lo establece el [_protocolo de actuación_](http://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2015/02Febrero/05Jueves/Notasprensa/Contaminaci%C3%B3n/ficheros/Protocolo%20Di%C3%B3xidoNitr%C3%B3geno.pdf), del ayuntamiento de la villa. Lo resume la imagen
 
-[![antiestadistica](/wp-uploads/2015/12/antiestadistica.jpg)
-](/wp-uploads/2015/12/antiestadistica.jpg)
+[![antiestadistica](/img/2015/12/antiestadistica.jpg)
+](/img/2015/12/antiestadistica.jpg)
 
 que bajé de Twitter y que me llamó la atención sobremanera. Algún gobierno municipal decidió en su día que estaba fuera de lugar tanto prevenir como _estimar_.
 

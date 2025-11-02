@@ -24,11 +24,11 @@ Resulta que en
 [_The elimination of Spurious Correlation due to position in Time or Space_](https://www.biodiversitylibrary.org/item/181863#page/215/mode/1up)
 de "Student" (en realidad, Gosset, que es el que inventó el test que no lleva su nombre), principia así:
 
-![](/wp-uploads/2022/12/gosset-00.png#center)
+![](/img/2022/12/gosset-00.png#center)
 
 El parrafito tiene un asterisco que apunta a la siguiente nota de página:
 
-![](/wp-uploads/2022/12/gosset-01.png#center)
+![](/img/2022/12/gosset-01.png#center)
 
 _Fijarsen_: Student ---el del test de Student que solo usan unos cuantos cavernícolas--- dice que va a citar y elaborar sobre el trabajo de
 [Mr. Hooker](https://en.wikipedia.org/wiki/Reginald_Hawthorn_Hooker)
@@ -39,4 +39,4 @@ por un quítame tú de ahí esas pajas.
 
 Aquí está Miss Cave, muy cariacontecida, mostrando su disgusto por los hechos acaecidos y reprochando la falta de sensibilidad (_pun not intended_) de quienes hoy en día siguen utilizando el test de ese tal Student:
 
-![](/wp-uploads/2022/12/miss_cave.png#center)
+![](/img/2022/12/miss_cave.png#center)

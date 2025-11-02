@@ -25,7 +25,7 @@ Una penalización de $(1-p)^\lambda$ (véanse las entradas enlazadas más arriba
 
 Modificando los valores de $\lambda$, se obtienen las curvas
 
-![](/wp-uploads/2019/01/scorings.png#center)
+![](/img/2019/01/scorings.png#center)
 
 que muestran la relación entre las probabilidades reales (abscisas) y las que conviene manifestar al predictor. Solo en el caso en que $\lambda = 2$ la relación está dada por la curva $y = x$. Cuando $\lambda < 2$, al predictor le conviene exagerar y cuando $\lambda$ crece, ser conservador y quedarse próximo al 50%.
 

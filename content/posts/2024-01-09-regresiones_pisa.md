@@ -25,13 +25,13 @@ Comenzaré por los dos relatos.
 
 El primero, está resumido en la siguiente infografía que se puede encontrar en la página 36 del primer volumen de los resultados de PISA de 2022:
 
-![](/wp-uploads/2024/pisa_2022_02.png#center)
+![](/img/2024/pisa_2022_02.png#center)
 
 El _hecho destilado_ que los autores del informe pretenden que uno _aprenda_ leyendo eso ---al menos, a la ligera--- es que el ser inmigrante ---así, en abstracto--- no afecta al desempeño académico.
 
 El segundo relato está también resumido en otro gráfico,
 
-![](/wp-uploads/2024/pisa_2022_01.png#center)
+![](/img/2024/pisa_2022_01.png#center)
 
 extraído de un documento publicado por EsadeEcPol y Save the Children a partir de los microdatos de PISA. Aquí, los autores sí que encuentran diferencias (entiendo que significativas, aunque en el gráfico hayan omitido los CIs) entre los inmigrantes y el resto. Que, además, varían sustancialmente por regiones.
 

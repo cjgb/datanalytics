@@ -23,8 +23,8 @@ Tropezó precisamente con este problema un compañero mío: ¿cuál es la manera
 
 Así que para referencia de todos, dejo aquí un enlace a [un artículo](https://solomonmg.github.io/post/visualization-series-insight-from-cleveland-and-tufte-on-plotting-numeric-data-by-groups/) que encontré el otro día sobre este asunto del que extraigo y traduzco las observaciones fundamentales a la hora de representar conjuntos de datos tales como los que aparecen representados en el siguiente gráfico (en el que se usa un [_dotplot_](https://datanalytics.com/2011/07/27/diagramas-de-puntos-dotplots/)):
 
-[![](/wp-uploads/2012/04/primarydot15.png#center)
-](/wp-uploads/2012/04/primarydot15.png#center)
+[![](/img/2012/04/primarydot15.png#center)
+](/img/2012/04/primarydot15.png#center)
 
 Los consejos son:
 

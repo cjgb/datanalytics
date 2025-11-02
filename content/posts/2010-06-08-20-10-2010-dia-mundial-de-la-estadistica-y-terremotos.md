@@ -21,7 +21,7 @@ El 3 de junio, la ONU declaró [Día Mundial de la Estadística](http://unstats.
 Y para demostrar el poco caso que le hacemos al INE, ahí va un inquietante gráfico con datos extraídos de [aquí](http://www.ine.es/jaxi/tabla.do?type=pcaxis&path=/t43/a013/a1998/l0/&file=t30013.px):
 
 
-![](/wp-uploads/2010/06/terremotos_espana_ine.png#center)
+![](/img/2010/06/terremotos_espana_ine.png#center)
 
 
 Inquietante, ¿verdad?

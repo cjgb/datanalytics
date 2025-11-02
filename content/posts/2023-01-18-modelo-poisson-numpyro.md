@@ -23,7 +23,7 @@ url: /2023/01/18/regresion-poisson-numpyro/
 
 El otro día hubo, parece, cierto interés por modelar la siguiente serie histórica de datos:
 
-![](/wp-uploads/2023/exercise_numpyro_00_01.png#center)
+![](/img/2023/exercise_numpyro_00_01.png#center)
 
 Notas al respecto:
 
@@ -58,6 +58,6 @@ def model02(t, datos):
 
 Y la distribución a posteriori del _nudo_ en el cual se produce el cambio de tendencia postulado es
 
-![](/wp-uploads/2023/exercise_numpyro_00_02.png#center)
+![](/img/2023/exercise_numpyro_00_02.png#center)
 
 El código completo puede verse [aquí](https://github.com/cjgb/datanalytics_code/blob/main/exercise_numpyro_00.ipynb).

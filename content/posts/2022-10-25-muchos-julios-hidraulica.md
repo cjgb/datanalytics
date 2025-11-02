@@ -26,7 +26,7 @@ El número _gordo_ correspondiente a España es ese con el que rotulo la entrada
 
 El autor del libro, el malhadado David JC MacKay, estima en unos 0.02 W/m² la energía que puede llegar a extraerse de lo que llama las _tierras bajas_ de Gran Bretaña y hasta 0.24 W/m² en las _tierras altas_ de Escocia. A mí me salen 0.16 W/m² para España (sin Canarias) ---por aquello de que la altura media compensa la falta de precipitación--- distribuidos de esta singular manera:
 
-![](/wp-uploads/2022/10/hidroelectrica-vatios-m2.png#center)
+![](/img/2022/10/hidroelectrica-vatios-m2.png#center)
 
 Dado que potencia por m² es una medida que le será ajena a quien no se haya familiarizado con el libro antes citado y lo de las gallinas y los campos de fútbol es referencia solo para lectores de cierta prensa madrileña, voy a buscar maneras alternativas de aterrizar esas magnitudes.
 

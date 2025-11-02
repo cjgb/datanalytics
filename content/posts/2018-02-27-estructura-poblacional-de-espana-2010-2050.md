@@ -26,7 +26,7 @@ url: /2018/02/27/estructura-poblacional-de-espana-2010-2050/
 
 Si se puede hacer [para Japón](http://blog.revolutionanalytics.com/2016/02/japans-ageing-population-animated-with-r.html), también se puede hacer para España:
 
-![](/wp-uploads/2018/02/spain_pyramid.gif)
+![](/img/2018/02/spain_pyramid.gif)
 
 
 El código,

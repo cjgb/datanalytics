@@ -19,7 +19,7 @@ title: Más sobre la paradoja de Berkson
 url: /2019/06/12/mas-sobre-la-paradoja-de-berkson/
 ---
 
-![](/wp-uploads/2019/06/bergson_paradox.png#center)
+![](/img/2019/06/bergson_paradox.png#center)
 
 * **a**: eres listo
 * **b**: has _estudiao_

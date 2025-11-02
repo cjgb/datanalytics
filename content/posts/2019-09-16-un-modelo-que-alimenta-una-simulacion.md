@@ -29,7 +29,7 @@ El modelo no va a ser un modelo sino un modelo por sujeto ([rebaños](https://da
 
 Pero claro, si usas un modelo, por muy mixto que sea, con intención de simular, `predict` se queda muy corto (¡siempre da la el mismo resultado!).
 
-![](/wp-uploads/2019/09/dilbert.jpg)
+![](/img/2019/09/dilbert.jpg)
 
 De ahí, `simulate`.
 

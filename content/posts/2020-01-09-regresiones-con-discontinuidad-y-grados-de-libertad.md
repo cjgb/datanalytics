@@ -24,7 +24,7 @@ url: /2020/01/09/regresiones-con-discontinuidad-y-grados-de-libertad/
 
 Muy falto de ideas para el blog tendría que estar para traer a la consideración de sus lectores
 
-![](/wp-uploads/2020/01/Imagen-2-32-768x558-1.png#center)
+![](/img/2020/01/Imagen-2-32-768x558-1.png#center)
 
 que _ilustra_ el _resultado principal_ del artículo discutido [aquí](https://nadaesgratis.es/admin/la-estabilidad-del-gobierno-en-la-era-de-la-fragmentacion-hacia-donde-vamos-y-que-podemos-hacer).
 

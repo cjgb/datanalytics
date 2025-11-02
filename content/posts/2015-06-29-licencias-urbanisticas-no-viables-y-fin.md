@@ -22,8 +22,8 @@ url: /2015/06/29/licencias-urbanisticas-no-viables-y-fin/
 
 ¿Recordáis mi [solicitud de datos sobre licencias urbanísticas al ayuntamiento de Madrid](https://datanalytics.com/2015/03/10/licencias-urbanisticas-datos-y-votos/)? Hoy me he interesado por [su estado](http://datos.madrid.es/portal/site/egob/menuitem.d3089948cb18b1bb68d8a521ecd08a0c/?vgnextoid=e06faba3ecdfb410VgnVCM2000000c205a0aRCRD&vgnextchannel=102612b9ace9f310VgnVCM100000171f5a0aRCRD) y he encontrado esto:
 
-[![no_viable](/wp-uploads/2015/06/no_viable.png#center)
-](/wp-uploads/2015/06/no_viable.png#center)
+[![no_viable](/img/2015/06/no_viable.png#center)
+](/img/2015/06/no_viable.png#center)
 
 No viable porque _no ha sido posible obtener del órgano competente los datos en formato reutilizable_.
 
@@ -31,8 +31,8 @@ Sin comentarios.
 
 Lo que sí he encontrado en la [memoria de gestión de 2013](http://www.madrid.es/UnidadesDescentralizadas/Calidad/Observatorio_Ciudad/08_Memorias/MEMORIA2013.pdf) del ayuntamiento es
 
-[![evolucion_licencias](/wp-uploads/2015/06/evolucion_licencias.png#center)
-](/wp-uploads/2015/06/evolucion_licencias.png#center)
+[![evolucion_licencias](/img/2015/06/evolucion_licencias.png#center)
+](/img/2015/06/evolucion_licencias.png#center)
 
 con su recta de regresión, su NA y todo.
 

@@ -19,7 +19,7 @@ url: /2024/02/13/outliers-dos-aproximaciones/
 
 Leyendo [_Taking Outlier Treatment to the Next Level_](https://joachim-gassen.github.io/2021/07/outliers/) me entretuve en pensar cómo la literatura sobre el tratamiento de los _outliers_ tiende a ignorar y confundir los dos modos ---o más bien, circunstancias--- de enfrentarse a ellos. Por ejemplo, en ese enlace se discute alrededor de los datos y el modelo representado en,
 
-![](/wp-uploads/2024/outliers.png#center)
+![](/img/2024/outliers.png#center)
 
 que, como veremos, pertenece a lo que llamo primer modo usando técnicas propias del segundo.
 

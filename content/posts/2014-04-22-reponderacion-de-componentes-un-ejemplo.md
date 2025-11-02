@@ -40,8 +40,8 @@ plot(m, col = tmp$cluster, asp = 1)
 {{< / highlight >}}
 
 
-[![clust_00](/wp-uploads/2014/04/clust_00.png#center)
-](/wp-uploads/2014/04/clust_00.png#center)
+[![clust_00](/img/2014/04/clust_00.png#center)
+](/img/2014/04/clust_00.png#center)
 
 Pero puede darse el caso de que haya motivos para pensar que la dirección NO-SE tiene demasiado peso en el resultado final. Es posible entonces reducir la distancia en esa dirección:
 
@@ -60,8 +60,8 @@ head(m.pca)
 plot(m.pca, asp = 1, col = tmp$cluster)
 {{< / highlight >}}
 
-[![clust_01](/wp-uploads/2014/04/clust_01.png#center)
-](/wp-uploads/2014/04/clust_01.png#center)
+[![clust_01](/img/2014/04/clust_01.png#center)
+](/img/2014/04/clust_01.png#center)
 
 Ahí estan las dos componentes. La más importante es la primera, que tiene el rango (-3, 3) mientras que la otra va de -1 a 1 (aproximadamente). Pero es posible comprimir la primera dirección
 
@@ -78,8 +78,8 @@ tmp.squeezed <- kmeans(m.pca.squeezed, 2)
 plot(m.pca.squeezed, col = tmp.squeezed$cluster, asp = 1)
 {{< / highlight >}}
 
-[![clust_02](/wp-uploads/2014/04/clust_02.png#center)
-](/wp-uploads/2014/04/clust_02.png#center)
+[![clust_02](/img/2014/04/clust_02.png#center)
+](/img/2014/04/clust_02.png#center)
 
 Finalmente, es posible representar los _clústers_ sobre las variables originales:
 
@@ -88,8 +88,8 @@ tmp.squeezed <- kmeans(m.pca.squeezed, 2)
 plot(m, col = tmp.squeezed$cluster, asp = 1)
 {{< / highlight >}}
 
-[![clust_03](/wp-uploads/2014/04/clust_03.png#center)
-](/wp-uploads/2014/04/clust_03.png#center)
+[![clust_03](/img/2014/04/clust_03.png#center)
+](/img/2014/04/clust_03.png#center)
 
 Puede apreciarse cómo ha decrecido el impacto de la dirección NO-SE en el resultado final.
 

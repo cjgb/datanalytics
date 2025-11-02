@@ -28,7 +28,7 @@ que define el contexto, objetivo e hipótesis subyacentes de la serie completa.
 
 El diagrama causal objeto de esta entrada es apenas una arista más complejo que el de la anterior:
 
-![](/wp-uploads/2022/03/red_causal_hiperbasica_01.png#center)
+![](/img/2022/03/red_causal_hiperbasica_01.png#center)
 
 Ahora la variable $Z$ afecta tanto a $Y$ (como en la entrada anterior) como a $X$ (esta es la novedad). Es una situación muy común en el análisis de datos. Algunos ejemplos:
 

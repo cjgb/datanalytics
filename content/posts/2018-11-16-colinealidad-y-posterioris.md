@@ -26,7 +26,7 @@ url: /2018/11/16/colinealidad-y-posterioris/
 
 En esta entrada voy a crear un conjunto de datos donde dos variables tienen una correlación muy alta, ajustar un modelo de regresión y obtener la siguiente representación de la distribución a posteriori de los coeficientes,
 
-![](/wp-uploads/2018/11/colineallidad_posteriori.png#center)
+![](/img/2018/11/colineallidad_posteriori.png#center)
 
 
 donde se aprecia el efecto de la correlación entre `x1` y `x2`.

@@ -50,7 +50,7 @@ concatena una serie de ficheros y los convierte en un _prompt_ para pasárselos 
 
 Era moda acudir a StackOverflow a ver cómo progresaba la popularidad de los diversos lenguajes de programación. Ahora las cosas tienen esta pinta:
 
-![](/wp-uploads/2025/stackoverflow_programming_languages.webp#center)
+![](/img/2025/stackoverflow_programming_languages.webp#center)
 
 La fuente es [esta](https://win-vector.com/2025/03/02/best-before-dates-by-bass/) y la fecha relevante en el gráfico coincide con...
 

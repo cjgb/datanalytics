@@ -33,7 +33,7 @@ $$\sigma \sim \sqrt{\frac{1}{n} \sum_i (x_i - \bar{x})^2}$$
 
 por el simple motivo de que había que realizar menos operaciones (recuérdese: los _calculadores_ de entonces eran personas que calculaban) tal como nos recuerda Fisher en su artículo [_On the Mathematical Foundations of Theoretical Statistics_](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.1922.0009) de 1921:
 
-![](/wp-uploads/2022/06/fisher_sd.png#center)
+![](/img/2022/06/fisher_sd.png#center)
 
 Es un fenómeno del que han dado cuenta muchos autores (p.e., Efron en su [_Computer Age Statistical Inference: Algorithms, Evidence, and Data Science_](https://www.goodreads.com/book/show/30462852-computer-age-statistical-inference)) y parece una obviedad abundar sobre ello.
 

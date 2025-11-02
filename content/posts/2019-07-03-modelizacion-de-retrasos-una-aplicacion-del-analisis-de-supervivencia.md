@@ -26,11 +26,11 @@ En vigilancia epidemiológica contamos eventos (p.e., muertes o casos de determi
 
 Se puede aplicar el análisis de la supervivencia donde el evento muerte se reinterpreta como notificación. El día 0 todos los sujetos están _vivos_ y, poco a poco, van _cayendo_. Como en los consabidos modelos/gráficos de Kaplan-Meier,
 
-![](/wp-uploads/2019/07/kaplan-meier.jpeg)
+![](/img/2019/07/kaplan-meier.jpeg)
 
 Incluso, si el retraso puede atribuirse a distintos factores (por ejemplo, el día de la semana en que se produce el evento porque la gente que los comunica deja caer el boli el viernes a las tres), pueden construirse distintas curvas, como en
 
-![](/wp-uploads/2019/07/kaplan-meier_2.jpeg)
+![](/img/2019/07/kaplan-meier_2.jpeg)
 
 Hecho lo cual, ¿cómo estimar el número de casos del día 0 el día, p.e., 5? El modelo proporciona la proporción de notificados, $x$. Así que se hace una regla de tres y si a $x$ le corresponden $n$ notificados, a 1 le corresponderán... $n/x$.
 
@@ -46,7 +46,7 @@ que vendría a ser un promedio de nuestro modelo anterior con peso $x$ y otro mo
 
 Así funciona (y no siempre tan bien como sería deseable) [esto](https://momo.isciii.es/public/momocalor), de donde extraigo
 
-![](/wp-uploads/2019/07/mortalidad_calor.png#center)
+![](/img/2019/07/mortalidad_calor.png#center)
 
 **Nota:** En el gráfico hay algo más, un poco más, que es lo que permite construir intervalos no muy confiables de confianza alrededor del estimador construido más o menos como se indica arriba.
 

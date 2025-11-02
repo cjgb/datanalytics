@@ -24,7 +24,7 @@ url: /2017/12/04/la-magnitud-de-la-sequia/
 
 Cuando tienes una serie temporal _al uso_ (sin entrar a definir qué es eso), uno puede aplicar descomposiciones tmabién _al uso_, como `stl`, para extraer tendencia y estacionalidad, de la forma
 
-![](/wp-uploads/2017/02/wikipedia_r_decomposition.png#center)
+![](/img/2017/02/wikipedia_r_decomposition.png#center)
 
 como en [esta entrada previa](https://datanalytics.com/2017/02/27/consultando-el-numero-de-visitas-a-paginas-de-la-wikipedia-con-r/).
 
@@ -45,11 +45,11 @@ $$ p_m = \frac{\exp(\eta_m)}{1 + \exp(\eta_m)}$$
 
 donde $\eta_m$ se descompone como la suma de una componente estacional (12 valores) y una tendencia global. Que son, según mis cálculos,
 
-![](/wp-uploads/2017/12/estacionalidad_lluvia_madrid.png#center)
+![](/img/2017/12/estacionalidad_lluvia_madrid.png#center)
 
 y
 
-![](/wp-uploads/2017/12/tendencia_lluvia_madrid.png#center)
+![](/img/2017/12/tendencia_lluvia_madrid.png#center)
 
 Se aprecia la [sequía de 2005](http://www.elmundo.es/elmundo/2005/12/27/ciencia/1135698030.html) y [la de 2011 y 2012](http://www.elperiodicomediterraneo.com/noticias/sociedad/espana-vivio-2011-2012-ano-mas-seco-siglo-xviii_1006874.html). Y la actual, por supuesto.
 
@@ -57,7 +57,7 @@ Se aprecia la [sequía de 2005](http://www.elmundo.es/elmundo/2005/12/27/ciencia
 
 La probabilidad de lluvia (diaria) ha evolucionado así:
 
-![](/wp-uploads/2017/12/probabilidad_lluvia_madrid.png#center)
+![](/img/2017/12/probabilidad_lluvia_madrid.png#center)
 
 Los datos de pluviosidad histórica están en AEMET, pero sacarlos de ahí es tarea imposible. La AEMET está gobernada por [funcionarios que dicen _ñí_](https://www.youtube.com/watch?v=QDUCN_pzV1U). Así que [los he bajado de NOAA](https://datanalytics.com/2017/06/13/la-aemet-ha-muerto-larga-vida-a-la-noaa/); los de NOAA son funcionarios también, solo que estadounidenses y con vocación de servicio público. Como yo también la tengo, [los comparto](/uploads/lluvia_madrid.zip).
 

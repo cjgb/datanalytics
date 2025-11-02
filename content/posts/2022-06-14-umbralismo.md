@@ -24,7 +24,7 @@ Dentro de ese submundo de la estadística (¿o de la epidemiología?) que estudi
 
 Sus posiciones pueden ilustrarse gráficamente así:
 
-![](/wp-uploads/2022/06/umbralismo.png#center)
+![](/img/2022/06/umbralismo.png#center)
 
 Las posiciones típicas de los umbralistas quedan resumidas [aquí](https://datanalytics.com/2022/04/21/que-es-seguro/).
 

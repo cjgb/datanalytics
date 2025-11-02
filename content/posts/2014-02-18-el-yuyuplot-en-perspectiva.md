@@ -22,8 +22,8 @@ url: /2014/02/18/el-yuyuplot-en-perspectiva/
 
 El _yuyuplot_ al que me refiero es
 
-[![scary_plot_dj](/wp-uploads/2014/02/scary_plot_dj.jpg)
-](/wp-uploads/2014/02/scary_plot_dj.jpg)
+[![scary_plot_dj](/img/2014/02/scary_plot_dj.jpg)
+](/img/2014/02/scary_plot_dj.jpg)
 
 un gráfico ha circulado por internet y que [ha causado cierto pánico](http://www.marketwatch.com/story/scary-1929-market-chart-gains-traction-2014-02-11), se ve (y de ahí el nombre). En algunos sitios —véase [este](http://www.gurusblog.com/archives/dow-jones-sp500-grafico-comparativa-1929/04/02/2014/) como ejemplo de los menos acertados— se ha intentado de explicar al público sus deméritos.
 
@@ -77,7 +77,7 @@ ggplot(tmp, aes(x = incrementos, weights = pesos)) +
 
 para obtener
 
-[![seis_meses_despues](/wp-uploads/2014/02/seis_meses_despues.png#center)
-](/wp-uploads/2014/02/seis_meses_despues.png#center)
+[![seis_meses_despues](/img/2014/02/seis_meses_despues.png#center)
+](/img/2014/02/seis_meses_despues.png#center)
 
 Como puede apreciarse y si la historia es tan maestra como cuentan, es más probable que en seis meses la se encuentre por encima que por debajo de las actuales cotizaciones.

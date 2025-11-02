@@ -42,8 +42,8 @@ Es así que me entero por sinuosas vías de que ha circulado entre gerifaltes a 
 Hale, y para que no todo sean gruñidos (y también para los ágrafos que sólo miran los dibujos) la fotico del primer _bug_ que en el mundo ha sido:
 
 
-[![](/wp-uploads/2010/07/H96566k.jpg)
-](/wp-uploads/2010/07/H96566k.jpg)
+[![](/img/2010/07/H96566k.jpg)
+](/img/2010/07/H96566k.jpg)
 
 
 La historia, que es jugosa, [aquí](http://en.wikipedia.org/wiki/Software_bug).

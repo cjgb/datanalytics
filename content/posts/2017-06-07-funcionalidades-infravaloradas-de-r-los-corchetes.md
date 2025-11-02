@@ -18,7 +18,7 @@ title: 'Funcionalidades infravaloradas de R: los corchetes'
 url: /2017/06/07/funcionalidades-infravaloradas-de-r-los-corchetes/
 ---
 
-![](/wp-uploads/2017/06/corchete.jpg)
+![](/img/2017/06/corchete.jpg)
 
 
 [Ad]Mirad esta pequeña maravilla de código:

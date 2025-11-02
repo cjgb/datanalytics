@@ -32,7 +32,7 @@ Luego, siempre surgen dudas sobre dónde asignan los registros civiles (y luego,
 
 Por lo tanto, las cifras bailan. Veamos cuánto usando el periodo de solapamiento entre las cifras públicas de una y otra institución:
 
-![](/wp-uploads/2020/04/ine_vs_momo.png#center)
+![](/img/2020/04/ine_vs_momo.png#center)
 
 Cosas:
 

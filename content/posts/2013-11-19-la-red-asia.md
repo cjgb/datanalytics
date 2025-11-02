@@ -24,8 +24,8 @@ url: /2013/11/19/la-red-asia/
 
 La red Asia es esto:
 
-[![](/wp-uploads/2013/11/red_asia.jpg)
-](/wp-uploads/2013/11/red_asia.jpg)
+[![](/img/2013/11/red_asia.jpg)
+](/img/2013/11/red_asia.jpg)
 
 Es decir, una red bayesiana. Una red bayesiana clásica sobre la que los interesados podrán saber más leyendo [lo que Lauritzen y Spiegelhalter dejaron escrito sobre ella en 1988](http://www.csee.wvu.edu/~xinl/library/papers/math/statistics/Lauritzen_Spiegelhalter1988.pdf).
 

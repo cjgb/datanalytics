@@ -23,7 +23,7 @@ url: /2019/03/11/charla-mia-el-dia-de-pi-de-2019-en-elche/
 
 Los detalles logísticos, en
 
-![](/wp-uploads/2019/03/piday.jpg)
+![](/img/2019/03/piday.jpg)
 
 Hablaré de lo de casi siempre: que pese a los cantos de sirena que se oyen en la profesión (predecir por encima de todo, `xgbost` es el único dios y `caret` su profeta, etc.) existen muchos problemas reales (de los que dan de comer) donde es necesario modelar la estructura subyacente de los datos con mucho mimo. Eso, más la descripción detallada de un proyecto bastante sofisticado en el que ando metido.
 

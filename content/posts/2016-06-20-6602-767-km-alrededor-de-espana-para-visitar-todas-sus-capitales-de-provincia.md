@@ -149,4 +149,4 @@ trazar.ruta(ruta)
 
 que genera
 
-![rutas_provincias](/wp-uploads/2016/06/rutas_provincias.png#center)
+![rutas_provincias](/img/2016/06/rutas_provincias.png#center)

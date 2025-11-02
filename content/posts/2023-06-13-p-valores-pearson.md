@@ -26,7 +26,7 @@ famoso por nada menos que introducir el concepto de p-valor y el uso de la $\chi
 
 En el artículo hay una construcción teórica que no me he tomado la molestia de leer con detalle y algunos ejemplos, siendo el primero de ellos
 
-![](/wp-uploads/2023/pearson-p-valor.png#center)
+![](/img/2023/pearson-p-valor.png#center)
 
 Para resolverlo, usa ---¡por primera vez!--- el test de la $\chi^2$ para llegar a un p-valor ---o, en su nomenclatura, una P--- de 0.000016. Pero, ¿cómo se podría llegar a un resultado similar aplicando primeros principios y sin la perífrasis matemática a la que se vio abocado Pearson por no tener ordenador?
 

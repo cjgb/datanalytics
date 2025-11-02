@@ -29,6 +29,6 @@ Idealmente, los valores $c_{ij}$ de esa matriz deberían ser 0 o 1 y su función
 
 ¿Cómo determinar entonces el número óptimo de grupos? Se pueden crear las funciones de distribución correspondientes a _clústerings_ con distinto número de grupos y ver cuál tiene una forma más parecida a la ideal. Algo así como
 
-![](/wp-uploads/2020/04/consensus_clustering.png#center)
+![](/img/2020/04/consensus_clustering.png#center)
 
 Más detalles, en el enlace de más arriba.

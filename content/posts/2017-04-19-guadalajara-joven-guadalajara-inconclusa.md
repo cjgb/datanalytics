@@ -23,7 +23,7 @@ url: /2017/04/19/guadalajara-joven-guadalajara-inconclusa/
 
 Continuando con [mi serie sobre la Guadalajara demográfica](https://datanalytics.com/2017/03/28/rejillas-poblacionales-con-r-un-borrador/),
 
-![](/wp-uploads/2017/04/jovenes_guadalajara.png#center)
+![](/img/2017/04/jovenes_guadalajara.png#center)
 
 que muestra la proporción de menores de 16 por municipio en la provincia.
 
@@ -33,7 +33,7 @@ Están muy bien hechos. Por gente, además, de la que ignora que lo perfecto es 
 
 El segundo tema es que Manuel Garrido [ha publicado](https://pybonacci.es/2017/04/17/como-hacer-un-mapa-muy-bonito-de-espana-en-ggplot2/)
 
-![](/wp-uploads/2017/04/edad_media_espana.png#center)
+![](/img/2017/04/edad_media_espana.png#center)
 
 en su blog y, habiéndome faltado el tiempo para fusilar su diseño, hago pender el testigo a la altura de los ojos por si alguien lo toma. Le servirá
 

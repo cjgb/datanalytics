@@ -21,8 +21,8 @@ url: /2012/11/19/presentacion-del-libro-six-sigma-with-r/
 
 El martes 20 de noviembre, a las 17:00h, tendrá lugar la presentación del libro [_Six Sigma with R: Statistical Engineering for Process Improvement_](http://www.sixsigmawithr.com/)" en la sala Juan Béjar de la [E.U. de Estadística de la U. Complutense](http://www.ucm.es/centros/webs/eest/) por parte de [Emilio López Cano](http://emilopezcano.blogspot.com.es/).
 
-[![](/wp-uploads/2012/11/six_sigma_r.jpg)
-](/wp-uploads/2012/11/six_sigma_r.jpg)
+[![](/img/2012/11/six_sigma_r.jpg)
+](/img/2012/11/six_sigma_r.jpg)
 
 Existe además un paquete de R, [SixSigma](http://cran.r-project.org/web/packages/SixSigma/index.html), desarrollado por los autores y disponible en CRAN.
 

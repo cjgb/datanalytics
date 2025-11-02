@@ -29,7 +29,7 @@ Ahora, por [lo que leo](https://www.elconfidencial.com/espana/2018-09-30/antonio
 
 Pero no les quito toda la razón. En $f$ hay opinión, hay sesgo y, cómo no, error. Un artículo muy revelador al respecto es [_We Gave Four Good Pollsters the Same Raw Data. They Had Four Different Results._](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html) en el que se describe el experimento que el titular da a entender.
 
-![](/wp-uploads/2018/09/encuestas_florida.png#center)
+![](/img/2018/09/encuestas_florida.png#center)
 
 
 Mi propuesta, desde la ignorancia informada, es la siguiente: que el CIS se limite a hacer lo que hace bien, es decir, gastar dinero público con poca tasa en conseguir una muestra decente en cantidad y cualidad y deje a la sociedad civil lo opinativo. Los microdatos podrían ponerse a disposición de las partes interesadas y que fuesen ellas las que aplicasen sus $f$ favoritas. Sobre todo, porque no es de recibo que una institución pública con vocación de neutralidad [se inmiscuya en el negocio de opinar](https://datanalytics.com/2012/03/07/esperanzador-no-varianzador/).

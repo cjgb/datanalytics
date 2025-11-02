@@ -172,10 +172,10 @@ res <- as.data.frame(t(res))
 
 Las estimaciones de los efectos fijos son similares:
 
-![](/wp-uploads/2020/04/efecto_fijo_lmer_lm.png#center)
+![](/img/2020/04/efecto_fijo_lmer_lm.png#center)
 
 pero hay diferencias notables en la del término independiente:
 
-![](/wp-uploads/2020/04/termino_independiente_lmer_lm.png#center)
+![](/img/2020/04/termino_independiente_lmer_lm.png#center)
 
 Cosa que, bien pensada, _a posteriori_, tiene su lógica, creo...

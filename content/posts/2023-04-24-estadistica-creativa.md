@@ -24,13 +24,13 @@ Mirad que trato de abstraerme del mundanal ruido y de las marcianadas de tirios 
 
 Pero como me ronda en la cabeza escribir algún día cosas en serio sobre sofística estadística, no he podido dejar de lado mis otros entretenimientos un rato para comentar esto:
 
-![](/wp-uploads/2023/tweet-paro-andalucia-01.png#center)
+![](/img/2023/tweet-paro-andalucia-01.png#center)
 
 Los dos gráficos que lo acompañan son:
 
-![](/wp-uploads/2023/tweet-paro-andalucia-02.jpeg#center)
+![](/img/2023/tweet-paro-andalucia-02.jpeg#center)
 
-![](/wp-uploads/2023/tweet-paro-andalucia-03.jpeg#center)
+![](/img/2023/tweet-paro-andalucia-03.jpeg#center)
 
 Que haya paro en Andalucía, que suba, que baje o, incluso, que exista la misma Andalucía, son fenómenos que me preocupan mucho menos que las limitaciones de RAM de mi ESP32. Pero el asunto no deja de tener su gracia porque ilustra una solución ingeniosa al siguiente problema:
 

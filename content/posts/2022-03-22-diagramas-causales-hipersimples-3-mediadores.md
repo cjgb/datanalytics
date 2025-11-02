@@ -29,7 +29,7 @@ que define el contexto, objetivo e hipótesis subyacentes de la serie completa. 
 
 Esta vez, el diagrama causal es una pequeña modificación del de la anterior:
 
-![](/wp-uploads/2022/03/red_causal_hiperbasica_02.png#center)
+![](/img/2022/03/red_causal_hiperbasica_02.png#center)
 
 Ahora, la variable $X$ influye sobre $Y$ por dos vías: directamente y a través de $Z$. Variables como $Z$, conocidas como _mediadores_ son muy habituales. Uno podría pensar que, realmente, ninguna $X$ actúa _directamente_ sobre ninguna $Y$ sino a través de una serie de mecanismos que involucran a variables intermedias $Z_1, \dots, Z_n$ que constituyen una cadena causal. Puede incluso que se _desencadenen_ varias de estas cadenas causales que transmitan a $Y$ la potencia de $X$. Que hablemos de la influencia causal de $X$ sobre $Y$ es casi siempre una hipersimplificación de la realidad.
 

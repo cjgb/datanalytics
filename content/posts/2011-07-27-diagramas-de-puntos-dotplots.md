@@ -30,8 +30,8 @@ Leí hace poco un artículo de Naomi Robbins en el que se proponían los [gráf
 * Permite resolver el problema de la representación de varias observaciones por sujeto más elegantemente que yuxtaponiendo barras, como ilustra el gráfico que aparece debajo.
 * Y  una tercera que encuentro más dudosa: que resuelven el problema de los [diagramas de barras truncados](http://www.malaprensa.com/2010/10/los-truncadistas-han-tomado-el-abc.html): el no representar el trazo que une el origen con los valores representados —dice la autora—, el efecto perceptualmente distorsionador de truncar la gráfica no es tan acusado. Aunque yo mantengo mis reservas al respecto.
 
-[![](/wp-uploads/2011/07/dotplot.jpg)
-](/wp-uploads/2011/07/dotplot.jpg)
+[![](/img/2011/07/dotplot.jpg)
+](/img/2011/07/dotplot.jpg)
 
 ¿Y cómo podemos crear diagramas de puntos con R? Existen varios mecanismos. El más básico lo proporciona la función `dotchart`. La función `dotchart2` del paquete `Hmisc `es una versión mejorada de la anterior:
 

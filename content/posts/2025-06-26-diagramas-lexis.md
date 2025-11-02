@@ -32,7 +32,7 @@ Estas evidencias le deben inducir a uno a pensar que se trata de un concepto vie
 
 De momento, me quiero conformar con invitar a mis lectores a reservar un ratico corto de su vida a indagar sobre la naturaleza y usos potenciales de los diagramas de Lexis. Con saber lo suficiente como para entender el gráfico
 
-![Lexis diagram](/wp-uploads/2025/lexis-diagram.webp#center)
+![Lexis diagram](/img/2025/lexis-diagram.webp#center)
 
 basta.
 

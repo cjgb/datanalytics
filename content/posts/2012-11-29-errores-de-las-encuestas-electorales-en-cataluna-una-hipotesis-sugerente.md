@@ -26,8 +26,8 @@ Ergo los encuestados forman parte del subgrupo de la población que dispone de t
 
 En efecto, un porcentaje nada desdeñable de los hogares españoles son son a finales de 2012 inasequibles a los esfuerzos de los teleoperadores, como pone en evidencia el siguiente gráfico horrible:
 
-[![](/wp-uploads/2012/11/telefonia_cmt-300x119.png#center)
-](/wp-uploads/2012/11/telefonia_cmt.png#center)
+[![](/img/2012/11/telefonia_cmt-300x119.png#center)
+](/img/2012/11/telefonia_cmt.png#center)
 
 ¿Introduciría este fenómeno un sesgo muestral significativo?
 

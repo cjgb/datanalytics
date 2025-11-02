@@ -50,8 +50,8 @@ title("Calles de Zaragoza")
 
 El resultado es
 
-[![](/wp-uploads/2012/04/calles_zaragoza.png#center)
-](/wp-uploads/2012/04/calles_zaragoza.png#center)
+[![](/img/2012/04/calles_zaragoza.png#center)
+](/img/2012/04/calles_zaragoza.png#center)
 
 A continuación, selecciono los puntos incial y final de mi ruta:
 
@@ -74,8 +74,8 @@ plot_nodes(hway_end, add = TRUE, col = "blue", pch = 19, cex = 1)
 
 para obtener
 
-[![](/wp-uploads/2012/04/calles_zaragoza_puntos.png#center)
-](/wp-uploads/2012/04/calles_zaragoza_puntos.png#center)
+[![](/img/2012/04/calles_zaragoza_puntos.png#center)
+](/img/2012/04/calles_zaragoza_puntos.png#center)
 
 Finalmente, utilizo la infraestructura proporcionada por el paquete `igraph` (para el análisis de redes sociales) para calcular la ruta más corta entre ambos puntos haciendo
 
@@ -99,8 +99,8 @@ plot_ways(route_zgz, add = TRUE, col = "black", lwd = 2)
 
 para obtener el resultado final
 
-[![](/wp-uploads/2012/04/calles_zaragoza_ruta.png#center)
-](/wp-uploads/2012/04/calles_zaragoza_ruta.png#center)
+[![](/img/2012/04/calles_zaragoza_ruta.png#center)
+](/img/2012/04/calles_zaragoza_ruta.png#center)
 
 Es incluso posible (véase [esto](http://osmar.r-forge.r-project.org/)) obtener una lista de las calles y _nodos_ que hay que seguir para ir de uno de los puntos al otro.
 

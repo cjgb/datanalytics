@@ -22,7 +22,7 @@ Un cliente esporádico mío, [BARC](http://barc.de/), me ha pedido que le ayude 
 
 He accedido en parte, sí, porque hay que estar bien con los clientes. Sobre todo los esporádicos.
 
-[![](/wp-uploads/2013/06/bisurvey13-blue-font-on-white-600x83.jpg)
+[![](/img/2013/06/bisurvey13-blue-font-on-white-600x83.jpg)
 ](https://digiumenterprise.com/answer?link=1342-6Y5AHPYD)
 
 Pero también porque el mundo del BI es sumamente opaco e impera la información asimétrica. Quienes compran herramientas como SAP, Cognos, SAS, Microstrategy, etc. están a dos velas de lo que ocurre en el edificio de al lado, de los problemas que van a encontrar en su implementación, de su rendimiento _en producción_. Están casi totalmente a expensas de los cantos de sirena de los vendedores.

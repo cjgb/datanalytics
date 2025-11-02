@@ -23,7 +23,7 @@ Ayer alguien desconocía la distribución de probabilidad de Dirac. No sé ni si
 
 Es una distribución de probabilidad no aleatoria (o degenerada): concentra toda su masa en un punto determinado. Por ejemplo, en el nueve:
 
-![](/wp-uploads/2019/03/random_number_generator.gif)
+![](/img/2019/03/random_number_generator.gif)
 
 Y es útil por:
 

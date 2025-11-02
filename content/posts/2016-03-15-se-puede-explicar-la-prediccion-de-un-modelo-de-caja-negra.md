@@ -58,7 +58,7 @@ abline(h = 0.5, col = "red")
 
 Eso produce
 
-![scoring_credito](/wp-uploads/2016/03/scoring_credito.png#center)
+![scoring_credito](/img/2016/03/scoring_credito.png#center)
 
 que permitiría explicarle a `100` cómo si su `V8` fuese de alrededor de 4 en lugar de su mísero 2.25 habría podido acceder al crédito. Así con el resto de las variables relevantes.
 

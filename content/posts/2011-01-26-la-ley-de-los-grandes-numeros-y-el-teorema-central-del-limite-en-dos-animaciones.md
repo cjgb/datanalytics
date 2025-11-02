@@ -21,12 +21,12 @@ url: /2011/01/26/la-ley-de-los-grandes-numeros-y-el-teorema-central-del-limite-e
 
 No las voy a reproducir aquí por si se enfada el autor. Me limitaré a mostrar una captura de la animación correspondiente a la [ley de los grandes números](http://es.wikipedia.org/wiki/Ley_de_los_grandes_n%C3%BAmeros),
 
-[![](/wp-uploads/2011/01/ley_grandes_numeros.png#center)
-](/wp-uploads/2011/01/ley_grandes_numeros.png#center)
+[![](/img/2011/01/ley_grandes_numeros.png#center)
+](/img/2011/01/ley_grandes_numeros.png#center)
 
 y a la del [teorema central del límite](http://es.wikipedia.org/wiki/Teorema_central_del_l%C3%ADmite),
 
-[![](/wp-uploads/2011/01/teorema_central_del_limite.png#center)
-](/wp-uploads/2011/01/teorema_central_del_limite.png#center)
+[![](/img/2011/01/teorema_central_del_limite.png#center)
+](/img/2011/01/teorema_central_del_limite.png#center)
 
 La animación completa (hecha con R) y los detalles, [en este enlace](http://freakonometrics.blog.free.fr/index.php?post/2011/01/17/Statistiques%2C-STT2700%2C-cours-du-19/01%3A-%C3%A9chantillonnage%2C-TCL-et-LGN).

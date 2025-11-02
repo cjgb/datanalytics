@@ -78,7 +78,7 @@ Y confirmé:
 
 Llegó José Antonio una hora antes del arranque de las jornadas, a las ocho de la mañana, y en un momento organizó su infraestructura. Ahora, tras unos días de postproducción, [los vídeos están disponibles](http://usar.org.es/videos.html).
 
-[![](/wp-uploads/2011/12/videos_jornadas_r.png#center)
-](/wp-uploads/2011/12/videos_jornadas_r.png#center)
+[![](/img/2011/12/videos_jornadas_r.png#center)
+](/img/2011/12/videos_jornadas_r.png#center)
 
 Y, efectivamente, llevaba [la misma camisa que en las I Jornadas](https://datanalytics.com/2010/09/05/el-video-de-la-conferencia-alrededores-disponible-en-dailymotion/). Que conste que lo hice a propósito.

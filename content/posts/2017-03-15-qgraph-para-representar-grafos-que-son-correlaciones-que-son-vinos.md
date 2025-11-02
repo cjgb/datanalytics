@@ -35,6 +35,6 @@ qgraph(cor(wine.quality), shape= "circle",
 
 que pinta
 
-![](/wp-uploads/2017/03/wine_quality_cor.png#center)
+![](/img/2017/03/wine_quality_cor.png#center)
 
 mostrando resumidamente cómo se relacionan entre sí determinadas características de los vinos y cómo en última instancia influyen en su calidad (`qlt`).

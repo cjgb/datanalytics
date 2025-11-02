@@ -76,6 +76,6 @@ thyssen <- Filter(function(x) length(x) > 1, res)
 
 En total, son unas 1100 fichas con autor, título, año y blablablá. Con el que se pueden hacer cosas como tratar de predecir la época del cuadro (de acuerdo con las palabras de la descripción), ver qué términos correlacionan más con, p.e., "dalí" (_spoiler_: son términos fundamentalmente apícolas) y otras cosas que averiguarán quienes pagaron la matrícula y tengan a bien madrugar un sábado.
 
-![sueno_dali](/wp-uploads/2016/05/sueno_dali.jpg)
+![sueno_dali](/img/2016/05/sueno_dali.jpg)
 
 No sé qué licencia tienen los textos ni los términos de uso. Por una vez, por una santa vez que le saco partido tangible a algo _cultural_ que he pagado, repagado y vuelto a pagar, bonito estaría que me viniesen con mandangas.

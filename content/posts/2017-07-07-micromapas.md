@@ -22,7 +22,7 @@ url: /2017/07/07/micromapas/
 
 Vienen a ser la versión geo de las [_sparklines_](https://en.wikipedia.org/wiki/Sparkline). Por ejemplo,
 
-![](/wp-uploads/2017/07/micromapa.png#center)
+![](/img/2017/07/micromapa.png#center)
 
 Notas:
 

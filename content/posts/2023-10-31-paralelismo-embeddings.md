@@ -36,7 +36,7 @@ Mis experimentos en español han sido catastróficos. La culpa, realmente, no pa
 
 Para ello he vuelto al asunto de los evangelios _paralelos_ obteniendo
 
-![](/wp-uploads/2023/paralelismo_evangelios_chroma.png#center)
+![](/img/2023/paralelismo_evangelios_chroma.png#center)
 
 Esta vez, lo he construido así: para cada frase (fragmento) de cada uno los evangelios, he buscado los 10 fragmentos más próximos del otro. Lo que se muestra en la gráfica es la matriz de coincidencias correspondiente. Se aprecia vagamente, como en el experimento anterior, el hilo argumental paralelo. Pero tampoco hay mucho más que añadir.
 

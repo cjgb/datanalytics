@@ -23,8 +23,8 @@ O algo así. Aunque alguno puede pensar que no es en su perjuicio sino en su ben
 
 Solo que con [`collusion`](http://collusion.toolness.org/) (un _plugin_ para el navegador) uno puede construir gráficos tales como
 
-[![collusion](/wp-uploads/2014/04/collusion.png#center)
-](/wp-uploads/2014/04/collusion.png#center)
+[![collusion](/img/2014/04/collusion.png#center)
+](/img/2014/04/collusion.png#center)
 
 que significa lo que su leyenda dice y que aquí traduzco brevemente. Uno instala en _plugin_ y comienza a navegar por internet. Al hacerlo, `collusion` detecta esos sitios con los que las páginas que uno visita comparte información a través de galletitas y similares. Algunos de esos sitios pueden ser inofensivos (al parecer, Renfe se ha enterado de que he entrado a marca.es) y otros, los marcados en rojo, pertecen a redes de anunciantes. Más propiamente, a redes de seguimiento de navegantes, que tratan de inferir su perfil para... proporcionarles anuncios a medida, supongo. Estos sitios no solo saben que uno ha aterrizado en una página determinada, sino que pueden seguirlo a través del resto de los sitios que comparten información con él. Por eso en la red que genera `collusion` aparecen nodos de centralidad elevada (¡_hubs_!) que corresponden a sitios que colocan sus galletitas por doquier (y previo pago).
 

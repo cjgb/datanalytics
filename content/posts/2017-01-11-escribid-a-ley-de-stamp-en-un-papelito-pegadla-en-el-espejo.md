@@ -18,7 +18,7 @@ title: Escribid a ley de Stamp en un papelito y pegadla en el espejo
 url: /2017/01/11/escribid-a-ley-de-stamp-en-un-papelito-pegadla-en-el-espejo/
 ---
 
-![](/wp-uploads/2017/01/note_mirror.jpg)
+![](/img/2017/01/note_mirror.jpg)
 
 [Esta página](https://www.statslife.org.uk/culture/3090-jim-norton-s-quotes-quiz) me conduce a [esta otra](https://en.wikipedia.org/wiki/Josiah_Stamp,_1st_Baron_Stamp) en la que, aparte de revelar su la autoría, nos informa de que la cita
 

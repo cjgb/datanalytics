@@ -24,7 +24,7 @@ Hace muchos, muchos años, las gentes ávidas de saber más acudieron al tabern�
 
 Así, desde entonces, la advertencia se propagó por los manuales estadísticos al uso, como por ejemplo, el de Berger y Casella,
 
-![](/wp-uploads/2020/02/beger_casella_ci.png#center)
+![](/img/2020/02/beger_casella_ci.png#center)
 
 O en [_Estadística Básica Edulcorada_](https://bookdown.org/aquintela/EBE/intervalos-de-confianza.html#interpretacion),
 

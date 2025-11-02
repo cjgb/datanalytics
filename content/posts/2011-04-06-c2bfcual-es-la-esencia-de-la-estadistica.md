@@ -20,8 +20,8 @@ url: /2011/04/06/cual-es-la-esencia-de-la-estadistica/
 
 ¿Qué tienen que ver minería de datos y estadística? Podría opinar personalmente sobre el asunto, pero serviré en esta ocasión de pregonero de las [ideas que Jerome H. Friedman dejó escritas al respecto](http://www.salford-systems.com/doc/dm-stat.pdf). Aunque el artículo tiene ya sus casi quince años, las ideas que contiene están todavía en plena vigencia.
 
-[![](/wp-uploads/2011/04/friedman.jpg)
-](/wp-uploads/2011/04/friedman.jpg)
+[![](/img/2011/04/friedman.jpg)
+](/img/2011/04/friedman.jpg)
 
 Comienza el artículo Friedman con un ejercicio irónico acerca de la fiebre del oro que generó (y sigue generando muchos años después) esa disciplina que se dio en llamar _minería de datos_. Así, se plantea hasta qué punto se trata más de una actividad comercial que propiamente académica; y al respecto comenta cómo, _al igual que en casi todas las fiebres del oro que han existido_ la verdadera rentabilidad está en _mining the miners_. En plata, sacarles la ídem a los mineros; en particular, vendiéndoles herramientas taumatúrgicas a precios aúricos.
 

@@ -26,7 +26,7 @@ Así titula El Mundo [un artículo](http://www.elmundo.es/economia/2016/10/01/57
 
 En _estudios_ de esa naturaleza, primero se decide cuánto tienen que dar los números, y luego se contrata a alguno de los que aparecen en
 
-{{< figure src="/wp-uploads/2016/10/marea-roja-01.jpg" title="Fotografía de la manifestación por la ciencia en Madrid, 27S 2013" alt="Fotografía de la manifestación por la ciencia en Madrid, 27S 2013" >}}
+{{< figure src="/img/2016/10/marea-roja-01.jpg" title="Fotografía de la manifestación por la ciencia en Madrid, 27S 2013" alt="Fotografía de la manifestación por la ciencia en Madrid, 27S 2013" >}}
 
 para que cohoneste las cifras con citas de aquí y allá (con tal de que estén en inglés) y fórmulas tipografiadas en Word.
 

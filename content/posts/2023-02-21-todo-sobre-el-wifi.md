@@ -23,7 +23,7 @@ Muy rápidamente, unas cuantas cosas que todos sabemos: la wifi funciona en dos 
 
 La banda de los 2.4 GHz se divide en 11, 12 o 13 canales, según el lugar, así:
 
-![](/wp-uploads/2023/2.4ghz-channels.png#center)
+![](/img/2023/2.4ghz-channels.png#center)
 
 Pero merece la pena ver primero qué pasaría
 
@@ -51,7 +51,7 @@ Así las cosas:
 
 Por eso no es _tan_ preocupante compartir canales con otros routers/dispositivos. En el lugar donde se tomó la siguiente imagen (la salida típica de un _wifi analyzer_)
 
-![](/wp-uploads/2023/2.4ghz-channels-overlap.webp#center)
+![](/img/2023/2.4ghz-channels-overlap.webp#center)
 
 los dispositivos que operan en el canal 6 se coordinan para usarlo y sí, puede haber momentos en que la velocidad de la conexión se vea afectada, pero no tiene por qué pasar siempre. Es decir, ese canal 6 no tiene que ser necesariamente malo a pesar de que en él coincidan varios routers (mostrados por el analizador wifi) y dispositivos (no mostrados). Solo lo será si todos están bajando películas o instalando la nueva versión de Ubuntu a la vez.
 
@@ -61,13 +61,13 @@ La información que proporcionan los analizadores wifi dista de ser suficiente p
 
 En la práctica, existen varios canales. Los canales 1, 6 y 11, como en la figura anterior, no se _solapan_ (es decir, no crean interferencias entre ellos). Lo más típico ---como ocurre en mi casa--- es que el _wifi analyzer_  muestre algo parecido a:
 
-![](/wp-uploads/2023/2.4ghz-channels-capullo.jpg#center)
+![](/img/2023/2.4ghz-channels-capullo.jpg#center)
 
 Los dispositivos que comparten canal se coordinan mutuamente ---como se ha indicado en la sección anterior--- pero sufren la interferencia de los que usan canales que se solapan con el suyo.
 
 La siguiente imagen muestra a unos cuantos de los que yo llamo capullos gilipollas:
 
-![](/wp-uploads/2023/2.4ghz-channels-capullo-gilipollas.jpg#center)
+![](/img/2023/2.4ghz-channels-capullo-gilipollas.jpg#center)
 
 Son capullos gilipollas todos los que no están emitiendo en los canales 1, 6 u 11. En particular:
 

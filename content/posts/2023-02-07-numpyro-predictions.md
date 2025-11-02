@@ -23,11 +23,11 @@ url: /2023/02/07/modelo-lineal-prediccion-numpyro/
 
 Una de mis aficiones más excusables es la de participar en el _mercado de predicciones_ de Hypermind. Una de las preguntas que se suele plantear anualmente ---y en la que, gracias a apostar contra el común/apocalíptico sentir, logré _pingües beneficios_ el año pasado--- tiene que ver con cuándo nos vamos a morir todos. De otra manera:
 
-![](/wp-uploads/2023/hypermind-arctic-00.png#center)
+![](/img/2023/hypermind-arctic-00.png#center)
 
 Este año también quiero participar, pero como no sabía por dónde empezar, he bajado los datos. En su perspectiva más relevante, tienen este aspecto:
 
-![](/wp-uploads/2023/hypermind-arctic-01.png#center)
+![](/img/2023/hypermind-arctic-01.png#center)
 
 Así que se me ha ocurrido ajustar una regresión lineal a esos datos y ver qué pinta pueden tener las predicciones del año que corre.
 
@@ -54,7 +54,7 @@ Dos notas al respecto:
 
 Del resultado he rescatado la distribución de la variable `v2023`, que tiene esta pinta:
 
-![](/wp-uploads/2023/hypermind-arctic-02.png#center)
+![](/img/2023/hypermind-arctic-02.png#center)
 
 Le he añadido los valores correspondientes al mínimo histórico y el valor del 2022. El resto son todo corolarios.
 

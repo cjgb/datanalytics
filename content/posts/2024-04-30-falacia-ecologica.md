@@ -37,7 +37,7 @@ No obstante, dada la ubicuidad de la falacia, apostaría bastante a que no costa
 
 Gráficamente,
 
-![](/wp-uploads/2024/falacia-ecologica.png#center)
+![](/img/2024/falacia-ecologica.png#center)
 
 Obviamente, podría no suceder así. En muchos casos, las correlaciones _between_ y _within_ podrían estar alineadas. Y es probable que la falacia lo sea propiamente porque es más habitual que suceda así que al revés (por lo que la falacia ecológica sería una especie de prejuicio o _priori_ razonable con la que afrontar nuevos problemas). (Y por eso creo que la falacia ecológica pudiera ser muy anterior a las referencias ofrecidas en el artículo: valdría la pena sumergirse en Hume o Bacon para buscar precedentes).
 

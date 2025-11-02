@@ -26,8 +26,8 @@ Bien, son 5.261,80 euros en virtud de un argumento de autoridad. Pero, ¿cómo e
 
 Así que he buscado información de sueldos y salarios en [el BOE de entonces](http://www.boe.es/buscar/gazeta.php). Por ejemplo, es curioso cómo los precios de muchos productos básicos de entonces,
 
-[![precios_1935](/wp-uploads/2015/03/precios_1935.png#center)
-](/wp-uploads/2015/03/precios_1935.png#center)
+[![precios_1935](/img/2015/03/precios_1935.png#center)
+](/img/2015/03/precios_1935.png#center)
 
 son muy similares a los vigentes hoy en día... salvo que están expresados en pesetas y no en euros. Digamos que 2.429,98 (o 1000) pesetas de las de entonces, para las cosas de comer, daban como 2.429,98 (o 1000) euros de ahora. Aunque es seguro que el precio relativo de otros componentes de la canasta (ropa, libros, vivienda, etc.) difiere notablemente de los de hoy en día.
 

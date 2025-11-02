@@ -20,13 +20,13 @@ url: /2014/07/14/fascinados-por-las-cosas-circulares/
 
 Llevo un tiempo prestando especial atención a los gráficos circulares. Y no me refiero a [los innombrables](https://datanalytics.com/2011/03/02/1658/). Hablo más bien de otros como
 
-[![procedencia_jugadores_futbol](/wp-uploads/2014/07/procedencia_jugadores_futbol.png#center)
-](/wp-uploads/2014/07/procedencia_jugadores_futbol.png#center)
+[![procedencia_jugadores_futbol](/img/2014/07/procedencia_jugadores_futbol.png#center)
+](/img/2014/07/procedencia_jugadores_futbol.png#center)
 
 extraído de [aquí](http://blog.revolutionanalytics.com/2014/06/world-cup.html) o
 
-[![marketing_circle_graph](/wp-uploads/2014/07/marketing_circle_graph.jpg)
-](/wp-uploads/2014/07/marketing_circle_graph.jpg)
+[![marketing_circle_graph](/img/2014/07/marketing_circle_graph.jpg)
+](/img/2014/07/marketing_circle_graph.jpg)
 
 que encontré [acá](http://joelcadwell.blogspot.com.es/2014/06/identifying-pathways-in-consumer.html).
 

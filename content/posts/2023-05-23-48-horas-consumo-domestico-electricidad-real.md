@@ -20,7 +20,7 @@ url: /2023/05/23/48-horas-consumo-domestico-electricidad-real/
 
 Sin más preámbulos, es así (para apreciar el detalle, conviene abrirla en otra pestaña):
 
-![](/wp-uploads/2023/consumo_electricidad_domestico.png#center)
+![](/img/2023/consumo_electricidad_domestico.png#center)
 
 ¿Por qué es este gráfico relevante?
 
@@ -31,6 +31,6 @@ Sin más preámbulos, es así (para apreciar el detalle, conviene abrirla en otr
 
 Y, finalmente, toda esa gente que está planteándose colocar paneles en el tejado, debe tener en cuenta de que el _problema matemático_ al que se reduce el asunto consiste en _machear_ esa curva que muestro con otra que, con suerte, tiene un perfil similar a este:
 
-![](/wp-uploads/2023/solar-pv-generation.jpg#center)
+![](/img/2023/solar-pv-generation.jpg#center)
 
 ¡Buena suerte a los electroautarquistas!

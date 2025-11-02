@@ -21,7 +21,7 @@ url: /2020/04/15/cosas-que-ocurriran-sin-lugar-a-dudas-tras-el-coronavirus/
 
 Hay mucha incertidumbre sobre cómo será el mundo post-coronavirus. Pero una cosa es segura: tendremos gráficas tales como
 
-![](/wp-uploads/2020/04/coronavirus_cherry_picking.png#center)
+![](/img/2020/04/coronavirus_cherry_picking.png#center)
 
 hasta en la sopa. La buena noticia para quienes son ellos y su ideología, es que hay tantos _grados de libertad_, i.e., la posibilidad de elegir muy cuidadosamente
 

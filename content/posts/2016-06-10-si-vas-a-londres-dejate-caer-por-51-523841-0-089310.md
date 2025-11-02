@@ -20,11 +20,11 @@ url: /2016/06/10/si-vas-a-londres-dejate-caer-por-51-523841-0-089310/
 
 Porque ahí puedes tomarte una foto tal que
 
-![](/wp-uploads/2011/06/tumba_bayes.jpg)
+![](/img/2011/06/tumba_bayes.jpg)
 
 o
 
-![chinchon_ayuso_bayes](/wp-uploads/2016/06/chinchon_ayuso_bayes.jpg)
+![chinchon_ayuso_bayes](/img/2016/06/chinchon_ayuso_bayes.jpg)
 
 y luego tuitear cosas como
 
@@ -32,4 +32,4 @@ y luego tuitear cosas como
 
 Para mayor referencia (y por tenerlo a mano cuando vuelva),
 
-![map_bayes](/wp-uploads/2016/06/map_bayes.jpg)
+![map_bayes](/img/2016/06/map_bayes.jpg)

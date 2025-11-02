@@ -79,7 +79,7 @@ hist(apply(sims.u.false, 1, mean))
 
 obtengo
 
-![](/wp-uploads/2020/03/simulate_incondicional.png#center)
+![](/img/2020/03/simulate_incondicional.png#center)
 
 donde se ha ignorado el valor preespecificado de los efectos aleatorios (el valor de `x`) en los datos. En jerga estadística, es la predicción incondicional. Pero podemos exigir que se condicione en los valores de `x` (es decir, tener en cuenta de que hay observaciones con valores x predefinidos) así:
 
@@ -90,7 +90,7 @@ donde se ha ignorado el valor preespecificado de los efectos aleatorios (el valo
 
 para obtener
 
-![](/wp-uploads/2020/03/simulate_condicional.png#center)
+![](/img/2020/03/simulate_condicional.png#center)
 
 que tiene mucha mejor pinta. Nótese que en los datos originales hay sujetos cuyas predicciones tienen una media alrededor de 2 y que no se manifiestan en la simulación incondicional.
 

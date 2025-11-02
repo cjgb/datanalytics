@@ -24,8 +24,8 @@ Comienzo hoy una serie de entradas en seis entregas sobre una muy utilizada téc
 
 Aparte de las estrictamente lingüísticas y eufónicas, tengo otros motivos por los que recelar de este tipo de técnicas que espero ir desgranando en las entradas sucesivas. Pero quiero comenzar con el relato de una pesadilla acaecida hace unos años que resume lo que se cuece en las trastiendas de sus valedores.
 
-[![](/wp-uploads/2011/07/clustering.png#center)
-](/wp-uploads/2011/07/clustering.png#center)
+[![](/img/2011/07/clustering.png#center)
+](/img/2011/07/clustering.png#center)
 
 Trabajaba yo para una consultora especializada, entre otras cosas, en la llamada _segmentación de clientes_, una práctica de dudosa valía que los departamentos de _marketing_ de determinadas empresas aplican de oficio. Consiste en partir la masa de clientes en determinados grupos (típicamente entre seis y doce) que comparten cierto tipo de características similares.
 

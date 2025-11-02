@@ -21,5 +21,5 @@ url: /2011/12/22/hoy-dia-del-sorteo-de-la-loteria-de-navidad-no-se-publica-entra
 
 Hoy, día del sorteo de la Lotería de Navidad, no se publica entrada en esta bitácora como acto de protesta y repulsa frente a la celebración folclórica del anumerismo.
 
-[![](/wp-uploads/2011/12/gordo-sanildefonso.jpg)
-](/wp-uploads/2011/12/gordo-sanildefonso.jpg)
+[![](/img/2011/12/gordo-sanildefonso.jpg)
+](/img/2011/12/gordo-sanildefonso.jpg)

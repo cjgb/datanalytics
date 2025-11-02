@@ -21,8 +21,8 @@ url: /2014/01/07/diagramas-de-caja-44-anos-despues/
 
 Efectivamente, 44 años después de que Tukey describiese su _schematic plot_, los diagramas de caja no han calado en el gran público. Dado que dichos diagramas son la representación más simple que se me ocurre de una distribución de probabilidad, me temo que es síntoma de un mal mayor: que no estamos preparados para aceptar que los fenómenos no están perfectamente parametrizados y sino sujetos a errores, oscilaciones, perturbaciones, errores e imprevistos.
 
-[![](/wp-uploads/2014/01/boxplot_2014_01.png#center)
-](/wp-uploads/2014/01/boxplot_2014_01.png#center)
+[![](/img/2014/01/boxplot_2014_01.png#center)
+](/img/2014/01/boxplot_2014_01.png#center)
 
 Pero al margen de la indiferencia del común, la academia tenido la gentileza de seguir ahondando en la metáfora visual de los diagramas de caja y experimentando, cuando menos, en tres direcciones:
 

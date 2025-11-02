@@ -36,15 +36,15 @@ Por un lado, dado que los datos están disponibles, (véase el botón etiquetado
 
 El segundo comentario es una pequeña propuesta de mejora para la información sobre incendios. No basta realmente con saber cuáles ocurren y dónde ocurren. Se estaría incurriendo en el llamado [sesgo de selección](http://tywkiwdbi.blogspot.com.es/2011/09/importance-of-selection-bias-in.html).
 
-[![](/wp-uploads/2012/08/plane-bullet-holes.jpg)
-](/wp-uploads/2012/08/plane-bullet-holes.jpg)
+[![](/img/2012/08/plane-bullet-holes.jpg)
+](/img/2012/08/plane-bullet-holes.jpg)
 
 En la imagen anterior se ve dónde estaban los agujeros de bala en ciertos modelos de bombarderos de la Segunda Guerra Mundial. La muestra se extrajo de aquellos que habían regresado de las misiones. Preguntados por dónde habría que poner algún tipo de coraza, los estadísticos británicos dijeron: precisamente donde _no_ hay agujeros de bala. Porque, precisamente, aquellos aviones que recibieron impactos en esos lugares fueron los que _no_ regresaron a la base.
 
 Algo parecido puede suceder con los incendios. En primer lugar, no toda España está uniformemente cubierta de bosques. De alguna manera, habría que introducir información acerca del uso del suelo, como en
 
-[![](/wp-uploads/2012/08/uso_suelo_espana.png#center)
-](/wp-uploads/2012/08/uso_suelo_espana.png#center)
+[![](/img/2012/08/uso_suelo_espana.png#center)
+](/img/2012/08/uso_suelo_espana.png#center)
 
 Por otra parte, y relacionado con la nota anterior, habría que prestar atención no sólo a aquellos lugares donde sí se producen multitud de incendios forestales sino, muy particularmente, a aquellas masas de bosque donde la tasa de incendios es muy baja. Porque es de quienes las mantienen que se pueden aprender las mejores prácticas.
 

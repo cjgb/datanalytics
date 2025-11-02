@@ -25,10 +25,10 @@ Proceden de la Encuesta de Características Esenciales de la Población y las Vi
 
 Los datos dicen así:
 
-![](/wp-uploads/2023/nivel_estudios_progenitores.png#center)
+![](/img/2023/nivel_estudios_progenitores.png#center)
 
 Y si por centrar el tiro nos restringimos al tramo de edad 25-44,
 
-![](/wp-uploads/2023/nivel_estudios_progenitores_25_44.png#center)
+![](/img/2023/nivel_estudios_progenitores_25_44.png#center)
 
 Nada más.

@@ -21,8 +21,8 @@ url: /2014/07/08/demasiado-bueno-para-ser-cierto/
 
 O el porqué de la importancia de los _outliers_.
 
-[![outlier1](/wp-uploads/2014/07/outlier1.jpg)
-](/wp-uploads/2014/07/outlier1.jpg)
+[![outlier1](/img/2014/07/outlier1.jpg)
+](/img/2014/07/outlier1.jpg)
 
 Hace unos días me presentaron unos datos. Demasiado buenos para ser ciertos. Casi seguro que reflejan un efecto que no es el que se quiere medir. Estaban muy fuera de rango.
 

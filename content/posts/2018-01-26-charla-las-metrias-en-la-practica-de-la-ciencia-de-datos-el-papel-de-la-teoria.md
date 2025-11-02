@@ -28,7 +28,7 @@ El próximo 8 de febrero daré una charla dentro del ciclo de [_Data Konferences
 
 Para la mía han creado el siguiente cartelito:
 
-![](/wp-uploads/2018/01/DUUjqadX0AACqBn.jpg)
+![](/img/2018/01/DUUjqadX0AACqBn.jpg)
 
 
 El resumen que preparé es:

@@ -26,7 +26,7 @@ Ambas son heurísticas para construir modelos _buenos_ a partir de la combinaci�
 
 Entran [Friedman y Popescu](https://arxiv.org/abs/0811.1679) (algoritmo 1):
 
-![](/wp-uploads/2020/06/friedman_popescu_algo_1.png#center)
+![](/img/2020/06/friedman_popescu_algo_1.png#center)
 
 Y, tachán:
 

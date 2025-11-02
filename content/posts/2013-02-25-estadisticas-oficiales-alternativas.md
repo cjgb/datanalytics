@@ -28,8 +28,8 @@ Por eso traigo a estas páginas la mención a [_Shadow Government Statistics_](h
 
 Por ejemplo, en SGS, las [cifras del desempleo](http://www.shadowstats.com/alternate_data/unemployment-charts) se muestran así:
 
-[![](/wp-uploads/2013/02/sgs-emp.gif)
-](/wp-uploads/2013/02/sgs-emp.gif)
+[![](/img/2013/02/sgs-emp.gif)
+](/img/2013/02/sgs-emp.gif)
 
 Su autor acompaña las cifras oficiales (que aparecen en el periódico, en rojo) de la medida de _desempleo amplio_, que suma a la anterior:
 

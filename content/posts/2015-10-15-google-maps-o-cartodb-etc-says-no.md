@@ -23,11 +23,11 @@ url: /2015/10/15/google-maps-o-cartodb-etc-says-no/
 
 Si no sabéis a qué hace referencia el título, no os perdáis [esto](https://www.youtube.com/watch?v=NYklvrt-rNM) (y otros vídeos de la serie).
 
-![ComputerSaysNo](/wp-uploads/2015/10/ComputerSaysNo.jpg)
+![ComputerSaysNo](/img/2015/10/ComputerSaysNo.jpg)
 
 El otro día (véase [esto](https://datanalytics.com/2015/10/13/que-primitivos-eran-aquellos-antepasados-nuestros-o-no/)) mostré una imagen de mi última charla sobre mapas. Hoy le toca el turno a esta otra:
 
-![britain](/wp-uploads/2015/10/britain.jpg)
+![britain](/img/2015/10/britain.jpg)
 
 Se trata de un mapa de Gran Bretaña de alrededor de 1250 realizado por un tal Matthew Paris. Tiene una particularidad: cuenta E. Tufte que en un borde el autor indica que la isla debería ser más alargada, pero que, de respetar las proporciones, no le habría cabido el mapa en el pergamino. Y a la gente le hace gracia.
 

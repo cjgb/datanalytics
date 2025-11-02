@@ -19,7 +19,7 @@ url: /2022/02/10/sesgo-supervivencia-canoas-avion-iigm/
 
 Todos tenemos una serie de neuronas en la cabeza que se chutan de dopamina cuando oyen "sesgo de supervivencia" y proyectan
 
-![](/wp-uploads/2022/02/sesgo_supervivencia.png#center)
+![](/img/2022/02/sesgo_supervivencia.png#center)
 
 en nuestra imaginación. Pero existen alternativas.
 
@@ -35,4 +35,4 @@ Que puede traducirse como
 
 La segunda alternativa es irónica y autoexplicativa:
 
-![](/wp-uploads/2022/02/sesgo_supervivencia_armadura.png#center)
+![](/img/2022/02/sesgo_supervivencia_armadura.png#center)

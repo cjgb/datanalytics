@@ -23,8 +23,8 @@ Esta pretendía ser una entrada seria que guardaba en recocina desde aquella mal
 
 Fue en este punto,
 
-[![patentes](/wp-uploads/2014/11/patentes.png#center)
-](/wp-uploads/2014/11/patentes.png#center)
+[![patentes](/img/2014/11/patentes.png#center)
+](/img/2014/11/patentes.png#center)
 
 donde comenzaron a desviarse (o divertirse, en sentido etimológico) mis pesquisas. La anterior captura está extraída de la [memoria anual de 2013 de la Oficina Española de Patentes y Marcas](http://www.oepm.es/export/sites/oepm/comun/documentos_relacionados/Memorias_de_Actividades_y_Estadisticas/Memorias_de_actividades/Memoria_de_Actividades_2013_ES.pdf). Y, por si alguien no lo ha advertido, en la lista figuran dos señores con más patentes que cualquier universidad española.
 
@@ -61,8 +61,8 @@ Son libros con su ISBN y todo (véase el enlace anterior) y que incluso parecen 
 
 Además de lo anterior, también pinta acuarelas como esta:
 
-[![porras_vila](/wp-uploads/2014/11/porras_vila.jpg)
-](/wp-uploads/2014/11/porras_vila.jpg)
+[![porras_vila](/img/2014/11/porras_vila.jpg)
+](/img/2014/11/porras_vila.jpg)
 
 Tiene más publicadas [aquí](http://porraspinturas.blogspot.ie/).
 

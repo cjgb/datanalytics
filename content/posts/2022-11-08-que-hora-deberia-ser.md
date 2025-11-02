@@ -31,7 +31,7 @@ Ahora que queremos volver a ser como hasta no hace tanto, hasta que llegó _el p
 
 La curva de demanda de electricidad está determinada por la hora nominal: la gente consume poco cuando duerme y conforme pone en marcha los AVEs y las cafeteras, la curva de consumo eléctrico hace cosas tales como:
 
-![](/wp-uploads/2022/11/demanda_electricidad_mananas.png#center)
+![](/img/2022/11/demanda_electricidad_mananas.png#center)
 
 Esa archiconocida curva muestra cómo crece el consumo eléctrico un día _de hacer_ entre las cinco y las nueve de la mañana.
 
@@ -41,7 +41,7 @@ Los conocedores de la cosa saben que es un pequeño milagro técnico poner en ma
 
 La otra curva relevante es esta:
 
-![](/wp-uploads/2022/11/produccion_solar.png#center)
+![](/img/2022/11/produccion_solar.png#center)
 
 Es la curva de producción fotovoltaica en España ---más propiamente, la península--- durante el mismo día.
 

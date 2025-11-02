@@ -23,8 +23,8 @@ Cuando el otro día planteé al mis lectores el problema de [cómo representar d
 Veamos de nuevo los datos:
 
 
-[![](/wp-uploads/2010/10/base_data.png#center)
-](/wp-uploads/2010/10/base_data.png#center)
+[![](/img/2010/10/base_data.png#center)
+](/img/2010/10/base_data.png#center)
 
 
 En la gráfica cada punto representa un individuo (posiblemente una persona). Los grupos los distinguen en dos clases (posiblemente, enfermos y sanos). La variable en el eje de la x mide el nivel de cierta proteína (supongo que en las células de algún tipo de tejido). Si se intenta realizar una regresión logística sobre este conjunto de datos sucede una catástrofe: el algoritmo diverge, aparecen mensajes de error en la pantalla, etc. ¡Es el problema de la separación perfecta!
@@ -43,8 +43,8 @@ $$P(i) = \frac{1}{1+ \exp(\beta ( x_i - 9 ) )},$$
 
 basta con tomar un valor del parámetro $\beta$ lo suficientemente grande para que dicha probabilidad sea todo lo próxima que se quiera a 1 para los individuos de uno de los grupos y 0 para los del otro. ¡La _solución_ en este caso es $+\infty$!
 
-Este problema puede observarse gráficamente en la siguiente animación (que es posible que no esté animada en todos los navegadores):[![](/wp-uploads/2010/10/logistic_regression_approximation.png#center)
-](/wp-uploads/2010/10/logistic_regression_approximation.png#center)
+Este problema puede observarse gráficamente en la siguiente animación (que es posible que no esté animada en todos los navegadores):[![](/img/2010/10/logistic_regression_approximation.png#center)
+](/img/2010/10/logistic_regression_approximation.png#center)
 
 En general, la separación perfecta puede ocurrir sobre combinaciones de variables sin que suceda individualmente en ninguna de ellas: basta con que un hiperplano separe perfectamente las observaciones de las dos clases.
 

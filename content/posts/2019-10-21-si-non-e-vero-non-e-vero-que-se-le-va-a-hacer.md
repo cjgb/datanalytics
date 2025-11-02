@@ -29,13 +29,13 @@ Me llegó por fuentes habitualmente fiables el vídeo
 
 que se resume en que el apagón del día 29 de septiembre en Tenerife, es decir, [esta cosa tan horrorosa](https://demanda.ree.es/visiona/canarias/tenerife/total/2019-09-29)
 
-![](/wp-uploads/2019/10/apagon_tenerife.png#center)
+![](/img/2019/10/apagon_tenerife.png#center)
 
 fue producto de la variabilidad de la producción de la energía eólica. En particular, de una bajada drástica de la aportación de la eólica al _mix_ consecuencia de un descenso en la intensidad del viento. Lo cual, de ser cierto, debería convertirse en referencia básica para ilustrar los perniciosos efectos de la variabilidad, etc.
 
 Sin embargo, el vídeo omite
 
-![](/wp-uploads/2019/10/apagon_tenerife_intensidad_viento.png#center)
+![](/img/2019/10/apagon_tenerife_intensidad_viento.png#center)
 
 que es una gráfica de la intensidad (horaria) del viento en las estaciones meteorológicas de la isla de Tenerife durante ese día que muestra que no está para nada claro que sufriese una caída drástica en el momento en que ocurrió el apagón (línea vertical roja).
 

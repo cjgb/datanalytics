@@ -54,7 +54,7 @@ hist(mi.muestra, breaks = 50, freq = F)
 
 La pinta de la cosa es:
 
-![](/wp-uploads/2017/04/muestra_medias_beta.png#center)
+![](/img/2017/04/muestra_medias_beta.png#center)
 
 Y ahora,
 
@@ -68,7 +68,7 @@ curve(dbeta(x, res$estimate[1], res$estimate[2]),
 
 produce
 
-![](/wp-uploads/2017/04/muestra_medias_beta_ajuste.png#center)
+![](/img/2017/04/muestra_medias_beta_ajuste.png#center)
 
 Pas mal!
 

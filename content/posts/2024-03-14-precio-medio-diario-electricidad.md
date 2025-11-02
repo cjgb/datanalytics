@@ -19,7 +19,7 @@ url: /2024/3/14/precio-medio-electricidad/
 
 Por ahí se ven cosas como esta:
 
-![](/wp-uploads/2024/precio_medio_electricidad.png#center)
+![](/img/2024/precio_medio_electricidad.png#center)
 
 Avisa del valor máximo, mínimo y _medio_ de la electricidad en la mayor parte de España. Pero lo que llama _precio medio_ no es el precio medio. Llama _precio medio_ al resultado de
 
@@ -45,6 +45,6 @@ que sería lo suyo. Nótese cómo, en particular, el precio está positivamente 
 
 Y aprovecho la discusión para _fardar de dashboard_. Lo que se ve en
 
-![](/wp-uploads/2024/precio_medio_electricidad_frayce.png#center)
+![](/img/2024/precio_medio_electricidad_frayce.png#center)
 
 es mi consumo (instantáneo y agregado por horas) junto con el precio horario del día en cuestión. A falta de otro divertimento, me entretengo en tratar de correlacionar negativamente precio y consumo. El gráfico muestra un éxito parcial (el lavavajillas de la madrugada) y una consuetudinariedad (el hacerse la cena y cenar en la hora en que más cuesta la electricidad).

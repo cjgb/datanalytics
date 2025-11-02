@@ -42,10 +42,10 @@ El hecho de incorporar la mortalidad observada infla los casos esperados de  enf
 
 Los gráficos que resumen el modelo (que tal vez vaya actualizando) pueden consultarse en GitHub. Las del día en que escribo son:
 
-![](/wp-uploads/2020/03/Rplot-972x1024.png#center)
+![](/img/2020/03/Rplot-972x1024.png#center)
 
 donde se comparan los casos oficiales  (en rojo) con las estimaciones del modelo y
 
-![](/wp-uploads/2020/03/Rplot01-972x1024.png#center)
+![](/img/2020/03/Rplot01-972x1024.png#center)
 
 que muestra los casos estimados _hoy_.

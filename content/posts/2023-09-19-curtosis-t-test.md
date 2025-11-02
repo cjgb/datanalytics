@@ -36,7 +36,7 @@ $$d = \frac{2}{1 + \beta}$$
 
 donde $-1 < \beta < 1$ y la normal se recupera cuando $\beta = 1$. El perfil de las distribuciones para distintos valores de $\beta$ es
 
-![](/wp-uploads/2023/curtosis_box_tiao.png#center)
+![](/img/2023/curtosis_box_tiao.png#center)
 
 Y prácticamente, todo lo que queda por decir es:
 

@@ -24,8 +24,8 @@ O unos 120 dólares si te conformas con una licencia restrictiva de SAS adquirie
 
 Existe un producto específico de SAS, [SAS Analytics Pro](http://www.sas.com/technologies/analytics/statistics/analytics-pro/), que incluye los elementos más habituales del universo SAS (SAS/BASE, SAS/STAT, SAS/GRAPH, etc.) que _sólo_ cuesta
 
-[![](/wp-uploads/2010/08/sas_analytics_pro.png#center)
-](/wp-uploads/2010/08/sas_analytics_pro.png#center)
+[![](/img/2010/08/sas_analytics_pro.png#center)
+](/img/2010/08/sas_analytics_pro.png#center)
 
 Tengo entendido que el producto tiene algunas restricciones. Por ejemplo, que sólo puedes utilizarlo para analizar tus propios datos. Si un señor viene, te pide que le calcules la media de unos números, utilizas SAS Analytics Pro para ello y le cobras, estás violando los términos de uso. ¡Cosas veredes!
 

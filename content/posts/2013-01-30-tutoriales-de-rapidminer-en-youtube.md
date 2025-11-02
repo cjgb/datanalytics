@@ -20,8 +20,8 @@ url: /2013/01/30/tutoriales-de-rapidminer-en-youtube/
 
 [RapidMiner](http://rapid-i.com/) ha colgado en Youtube tres vídeos que componen un tutorial rápido que cubre la instalación y los primeros pasos de su producto:
 
-[![](/wp-uploads/2013/01/rapidminer_logo.gif)
-](/wp-uploads/2013/01/rapidminer_logo.gif)
+[![](/img/2013/01/rapidminer_logo.gif)
+](/img/2013/01/rapidminer_logo.gif)
 
 * El primero muestra el proceso de [instalación de Rapidminer](http://www.youtube.com/watch?v=FtBvxWI9QsA).
 * El segundo, muestra [cómo construir algunos modelos sencillos con RapidMiner](http://www.youtube.com/watch?v=h20-Ae_xQkA).

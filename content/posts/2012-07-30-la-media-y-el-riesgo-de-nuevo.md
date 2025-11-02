@@ -35,8 +35,8 @@ Mi respuesta automática: usa la mediana. Pero una sinapsis me ha hecho eco y ha
 
 Luego se burlan de nosotros. Nos atribuyen un comentario gañán a eso de cuando alguien mete la cabeza en el horno y los pies en la nevera. Pero luego van los departamentos de riesgos y... media al canto. Y también [el Banco de España desaporta su granito de arena](https://datanalytics.com/2012/06/12/por-que-me-quejo-del-banco-de-espana/).
 
-[![](/wp-uploads/2012/07/neg18.png#center)
-](/wp-uploads/2012/07/neg18.png#center)
+[![](/img/2012/07/neg18.png#center)
+](/img/2012/07/neg18.png#center)
 
 Uno querría pensar, también, que [algunos de los economistas más reputados](http://www.fedeablogs.net/economia/) de este país estarían libres de ese vicio. Sin embargo, recientemente, en su bitácora plantearon [una competición](http://www.fedeablogs.net/economia/?p=23735): crear una entrada para el mismo usando datos procedentes del recientemente inaugurado centro de información estadística del notariado. Y el áccesit lo recibió Gabi Foix, de quien tomo el gráfico que figura más arriba, que escribió sobre, ¡sorpresa!, la [evolución del LTV medio](http://www.fedeablogs.net/economia/?p=23641) (aunque no lo aclara en la entrada). En descarga del autor, hay que indicar que los notarios no se han esmerado mucho y que la información que publican, como ya hice constar, [deja bastante que desear](https://datanalytics.com/2012/07/11/otra-oximoron-notarios-y-estadisticas/). Y, efectivamente, los notarios sólo publican las medias. ¡Como son notarios!
 

@@ -27,7 +27,7 @@ Pero es inevitable que los  números, sean cuales sean realmente, cuajen cambios
 
 No, no me refiero a comentarios de enero o febrero. A mediados de abril, aún había gente con cuajo ([esta](https://nadaesgratis.es/admin/la-mortalidad-por-covid-19-en-perspectiva-historica)) para sostener que, bueno, según _los números_, i.e.,
 
-![](/wp-uploads/2020/05/3-11-1024x750-1.png#center)
+![](/img/2020/05/3-11-1024x750-1.png#center)
 
 lo del coronavirus no dejaba de ser análogo a alguna temporada pasada de gripe. Ya llevábamos un mes encerrados, ya habíamos visto el colapso de los hospitales, aún operaba el de campaña de IFEMA, aún estaban abiertas las morgues improvisadas en pistas de hielo alguien nos venía a decir que, bueno, era como una gripe.
 
@@ -43,7 +43,7 @@ Mi propia microencuesta entre médicos identificó un patrón similar. Y la que 
 
 Dicen que sí, y eso justifica medidas hiperdraconianas jamás antes vistas (al menos, por mí). En efecto,
 
-![](/wp-uploads/2020/05/5e6bf325e4f9fe0a963ebb62-1024x768.jpeg)
+![](/img/2020/05/5e6bf325e4f9fe0a963ebb62-1024x768.jpeg)
 
 Obviamente, el R0 no es una cualidad intrínseca del virus sino que depende del medio en el que circula y por eso el confinamiento ha hecho descender ese indicador a esos niveles que la prensa discute a diario. Pero esos niveles de R0 de alrededor de 2-3 antes del confinamiento significaban que haciendo vida normal, una persona infectada durante esas dos semanas que podía andar circulando por ahí, contagiaba de media (¡de media!) a dos o tres.
 

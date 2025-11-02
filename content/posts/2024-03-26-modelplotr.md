@@ -21,7 +21,7 @@ url: /2024/3/26/modelplotr/
 
 Si leéis algo y tropezáis con un gráfico como
 
-![](/wp-uploads/2024/modelplotr.png#center)
+![](/img/2024/modelplotr.png#center)
 
 es que lo que lo rodea vale la pena. En este caso, lo que lo rodea es [este texto](https://modelplot.github.io/intro_modelplotr.html) que algún LLM me ha resumido así:
 

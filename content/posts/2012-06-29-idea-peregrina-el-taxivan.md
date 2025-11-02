@@ -21,8 +21,8 @@ Hoy no toca hablar ni de estadística, ni de R, ni de ninguno de los temas que s
 
 Un taxiván es un medio de transporte híbrido, a medio camino entre el taxi y los microbuses. Está especialmente indicado para dar servicio a puntos de afluencia importante de viajeros en ciudades medianas. Por ejemplo, en las estaciones de autobús o ferrocarril, los grandes centros comerciales, etc.
 
-[![](/wp-uploads/2012/06/tsp.png#center)
-](/wp-uploads/2012/06/tsp.png#center)
+[![](/img/2012/06/tsp.png#center)
+](/img/2012/06/tsp.png#center)
 
 Funciona así:
 

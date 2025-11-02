@@ -21,7 +21,7 @@ url: /2019/06/17/rebelarse-vende/
 
 Tales son las circunstancias de los tiempos que nos ha tocado vivir que muchos de quienes trabajamos en _ciencia de datos_, querámoslo o no, nos dedicamos a vender cachivaches. De ahí que recomiende la lectura de
 
-![](/wp-uploads/2019/06/Rebelsellcover.jpg)
+![](/img/2019/06/Rebelsellcover.jpg)
 
 un librito con muchas posibles interpretaciones pero que da en el clavo en muchas. O tal opino yo.
 

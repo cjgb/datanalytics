@@ -25,8 +25,8 @@ plot( huelgas / 1000, xlab = "mes", ylab="", main = "Jornadas de huelga por mes 
 {{< / highlight >}}
 
 
-[![](/wp-uploads/2010/09/jornadas_huelga_espana.png#center)
-](/wp-uploads/2010/09/jornadas_huelga_espana.png#center)
+[![](/img/2010/09/jornadas_huelga_espana.png#center)
+](/img/2010/09/jornadas_huelga_espana.png#center)
 
 
 

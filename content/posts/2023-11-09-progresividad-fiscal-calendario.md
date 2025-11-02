@@ -55,7 +55,7 @@ curve(f_irpf,
     ylab = "tipo IRPF")
 {{< / highlight >}}
 
-![](/wp-uploads/2023/tipos_irpf_madrid_00.png#center)
+![](/img/2023/tipos_irpf_madrid_00.png#center)
 
 o ver cómo le quedarían los correspondientes tramos marginales mensuales:
 
@@ -68,6 +68,6 @@ plot(1:12, tipos_mes,
 lines(1:12, tipos_mes)
 {{< / highlight >}}
 
-![](/wp-uploads/2023/tipos_irpf_madrid_01.png#center)
+![](/img/2023/tipos_irpf_madrid_01.png#center)
 
 Nótese que en todo lo anterior hay una omisión que habrán advertido los más puestos en materia fiscal: que los ingresos anuales no son la base imponible. De los primeros hay que sustraer cierta cantidad, que depende de casas y casos, para obtener la segunda. Matemáticamente, es equivalente a añadir un tramo adicional asociado a un tipo del 0% y mover el resto hacia la derecha (¿cómo se dice _shift_ en español?) adecuadamente. Queda como ejercicio para el lector interesado.

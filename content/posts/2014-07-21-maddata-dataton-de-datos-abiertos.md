@@ -28,8 +28,8 @@ _[everis](http://www.everis.com/spain/es-ES/inicio/Paginas/inicio.aspx) y [Madri
 
 La competición consiste en crear soluciones innovadoras a partir del uso de datos abiertos. MADdata pondrá a disposición de cada participante datos de la ciudad de Madrid, procedentes del portal de datos abiertos del Ayuntamiento, de servicios públicos, de transporte y movilidad y de redes sociales._
 
-[![maddata](/wp-uploads/2014/07/maddata.png#center)
-](/wp-uploads/2014/07/maddata.png#center)
+[![maddata](/img/2014/07/maddata.png#center)
+](/img/2014/07/maddata.png#center)
 
 La [inscripción](https://www.eventbrite.es/e/entradas-maddata-11446383441?ref=ecount) está abierta hasta el 25 de julio de 2014.
 

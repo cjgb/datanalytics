@@ -20,8 +20,8 @@ url: /2011/07/06/user-en-warwick-dentro-de-un-mes/
 
 Dentro de un mes tendrá lugar la [conferencia internacional de usuarios de R](http://www.warwick.ac.uk/statsdept/user-2011/), useR!, en Warwick, R.U. A partir del documento que resume las ponencias, usando el paquete tm de R y [Wordle](http://www.wordle.net/) para la parte artística, he creado la siguiente nube de palabras:
 
-[![](/wp-uploads/2011/07/wordle_user_conferences.png#center)
-](/wp-uploads/2011/07/wordle_user_conferences.png#center)
+[![](/img/2011/07/wordle_user_conferences.png#center)
+](/img/2011/07/wordle_user_conferences.png#center)
 
 Y ya que toco estos temas, menciono dos:
 

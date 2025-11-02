@@ -21,7 +21,7 @@ url: /2016/12/13/que-la-fuerza-de-r-tambien-te-acompane-a-ti-alla-a-donde-haya-d
 
 La fuerza de R siepre me acompaña allá donde tengo datos. De ello da fe la siguiente captura de pantalla de mi móvil:
 
-![](/wp-uploads/2016/12/teleR_messenger.png#center)
+![](/img/2016/12/teleR_messenger.png#center)
 
 Si quieres que también te acompañe a ti:
 

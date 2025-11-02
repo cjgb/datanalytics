@@ -31,7 +31,7 @@ Las cifras que se discuten son las del _exceso de mortalidad_. El exceso de mort
 
 MoMo utilizaba (y no sé si sigue utilizando) un modelo que en mi época iba a ser reemplazado por otro bastante distinto e ignoro si es ya el caso. Otras agencias como [EuroMOMO](https://www.euromomo.eu/) o el [_ISCIII belga_](https://datanalytics.com/2020/04/16/be-momo/), por citar dos que conozco bien, usan otros distintos. Modelos distintos darían, por supuesto, estimaciones distintas del exceso de mortalidad. Pero sospecho que casi todos ellos identificarían un exceso por lo que voy a discutir a continuación.
 
-![](/wp-uploads/2021/12/image.png#center)
+![](/img/2021/12/image.png#center)
 
 Toca retrotraerse a los principios de la estimación de la mortalidad. El gráfico anterior ilustra los patrones básicos de la mortalidad ---en los países desarrollados del hemisferio norte, al menos--- a lo largo de tiempo. Está [extraído de EuroMOMO](https://www.euromomo.eu/graphs-and-maps/#excess-mortality) y registra la mortalidad semanal conjunta de todos los países integrados en dicho consorcio.
 

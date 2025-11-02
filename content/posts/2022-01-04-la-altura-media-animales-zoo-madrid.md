@@ -24,7 +24,7 @@ url: /2022/01/04/altura-media-animales-zoo-madrid/
 
 Antes de explicar el por qué del título de la entrada y justificarla propiamente, permítaseme mostrar esto:
 
-![](/wp-uploads/2022/01/evolucion-estatura-media-espanoles.png#center)
+![](/img/2022/01/evolucion-estatura-media-espanoles.png#center)
 
 Es una gráfica que muestra la evolución de la altura media de los españoles durante el último siglo, aprox. Los datos son coherentes con la evidencia que muchos tenemos al recordar cómo eran los amigos de nuestros abuelos, los tamaños de las camas de antaño, la altura de las puertas y techos de las casas de pueblo, etc. De los museos _antropológicos_ siempre saco la misma sensación: esa gente era enana, carajo.
 
@@ -32,8 +32,8 @@ Ahora bien, ¿qué pasaría si se mostrase una gráfica con la evolución de las
 
 Dicho lo cual, entro propiamente en materia, que es la exégesis de estos dos gráficos:
 
-![](/wp-uploads/2022/01/evolucion-salarios-espana-01.jpeg#center)
-![](/wp-uploads/2022/01/evolucion-salarios-espana-02.jpeg#center)
+![](/img/2022/01/evolucion-salarios-espana-01.jpeg#center)
+![](/img/2022/01/evolucion-salarios-espana-02.jpeg#center)
 
 Que no merece la pena recalcar que se parecen mucho más a la evolución de las alturas de los animales del zoo que a la de los españoles. Y que, bien mirado, aportan tan poca información sobre el fenómeno que presuntamente se desea medir como el primero.
 

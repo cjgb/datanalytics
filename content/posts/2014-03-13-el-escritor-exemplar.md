@@ -24,8 +24,8 @@ url: /2014/03/13/el-escritor-exemplar/
 
 Eso reza el pie de página de [El escritor exemplar](http://onomateca.com/exemplar.php) un artilugio que a veces crea frases tales como
 
-[![escritor_exemplar](/wp-uploads/2014/03/escritor_exemplar.png#center)
-](/wp-uploads/2014/03/escritor_exemplar.png#center)
+[![escritor_exemplar](/img/2014/03/escritor_exemplar.png#center)
+](/img/2014/03/escritor_exemplar.png#center)
 
 que debieran ser aleatorias, no muy distintas en estilo de las Novelas Ejemplares y, con muchísima suerte, inspiradoras.
 

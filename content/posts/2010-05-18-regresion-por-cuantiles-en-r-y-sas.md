@@ -68,7 +68,7 @@ with( engel, plot( log( income ), log( foodexp ),
         main = "Engel's Food Expense Data" ) )
 {{< / highlight >}}
      
-![](/wp-uploads/2010/05/engel_dat1.png#center)
+![](/img/2010/05/engel_dat1.png#center)
 
 
 Y creamos una función auxiliar:
@@ -101,7 +101,7 @@ El parámetro tau indica el cuantil que se desea estimar, que ha de ser, por lo 
 {{< / highlight >}}
 
 
-[![](/wp-uploads/2010/05/engel_dat_quant1.png?w=300)
-](/wp-uploads/2010/05/engel_dat_quant1.png#center)
+[![](/img/2010/05/engel_dat_quant1.png?w=300)
+](/img/2010/05/engel_dat_quant1.png#center)
 
 El lector interesado encontrará en internet [dónde seguir instruyéndose](http://cablemodem.fibertel.com.ar/wsosa/topicosunlp/QuantileClaseBeamer1.pdf) y, además, ejemplos de [gráficos espectaculares ](http://addictedtor.free.fr/graphiques/RGraphGallery.php?graph=109)que pueden realizarse con `quantreg`, tiempo y buen gusto.

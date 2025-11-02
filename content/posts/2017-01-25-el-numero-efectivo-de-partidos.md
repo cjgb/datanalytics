@@ -32,7 +32,7 @@ y excipiente alrededor.
 
 Aplicada a España (usando datos del CIS como _proxy_),
 
-![](/wp-uploads/2017/01/numero_efectivo_partidos.png#center)
+![](/img/2017/01/numero_efectivo_partidos.png#center)
 
 Como casi siempre, el código:
 

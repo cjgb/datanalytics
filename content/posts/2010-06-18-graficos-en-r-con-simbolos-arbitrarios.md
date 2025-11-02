@@ -21,7 +21,7 @@ Hace no mucho, en un [blog hermano](http://erre-que-erre-paco.blogspot.com/), se
 
 Ahora combino ambas entradas y algo más de mi cosecha para mostrar un gráfico hecho con R utilizando símbolos arbitrarios (las banderas de cada país).
 
-[![](/wp-uploads/2010/06/funcionarios_bandera.png#center)
-](/wp-uploads/2010/06/funcionarios_bandera.png#center)
+[![](/img/2010/06/funcionarios_bandera.png#center)
+](/img/2010/06/funcionarios_bandera.png#center)
 
 El secreto de cómo lo he hecho (y el código completo, claro) lo revelaré la semana que viene. Entre tanto, ¿a alguno de mis lectores se le ocurre cómo pudo haberse hecho?

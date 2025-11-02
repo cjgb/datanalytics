@@ -27,13 +27,13 @@ Diríase que dos fenómenos _vinculados de forma muy significativa_ guardan una 
 
 Traigo pues a colación dos fenómenos. El primero es
 
-[![suicidios_espana](/wp-uploads/2016/01/suicidios_espana.png#center)
-](/wp-uploads/2016/01/suicidios_espana.png#center)
+[![suicidios_espana](/img/2016/01/suicidios_espana.png#center)
+](/img/2016/01/suicidios_espana.png#center)
 
 Y el segundo,
 
-[![suicidios_espana_suicidios](/wp-uploads/2016/01/suicidios_espana_suicidios.png#center)
-](/wp-uploads/2016/01/suicidios_espana_suicidios.png#center)
+[![suicidios_espana_suicidios](/img/2016/01/suicidios_espana_suicidios.png#center)
+](/img/2016/01/suicidios_espana_suicidios.png#center)
 
 ¿Diríais que están _vinculados de forma muy significativa_?
 

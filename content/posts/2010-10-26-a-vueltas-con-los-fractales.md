@@ -50,5 +50,5 @@ Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](
 
 El resultado, infinitamente mejor que la tele:
 
-[![](/wp-uploads/2010/10/Mandelbrot.gif)
-](/wp-uploads/2010/10/Mandelbrot.gif)
+[![](/img/2010/10/Mandelbrot.gif)
+](/img/2010/10/Mandelbrot.gif)

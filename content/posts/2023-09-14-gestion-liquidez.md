@@ -43,11 +43,11 @@ Pero que los bancos cooperen no significa que nosotros, los clientes más o meno
 
 La alternativa que estoy utilizando es la de los fondos monetarios o de deuda a muy corto plazo (<3 meses), que ofrecen rentabilidades emparejadas al €ster,
 
-![](/wp-uploads/2023/rentabilidad_ester.png#center)
+![](/img/2023/rentabilidad_ester.png#center)
 
 o al Euribor a 3 meses,
 
-![](/wp-uploads/2023/rentabilidad_euribor3m.png#center)
+![](/img/2023/rentabilidad_euribor3m.png#center)
 
 Es decir, a fecha de hoy, redondeando y restando las comisiones de gestión, algo por encima del 3%.
 

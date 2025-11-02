@@ -21,13 +21,13 @@ En serio, aviso: aprenderéis tanto como desaprenderéis si leéis [esto](http:/
 
 Por si no os habéis atrevido, os lo resumo. El autor de la cosa ha construido configuraciones de puntos tales como
 
-[![target_00](/wp-uploads/2014/10/target_00.png#center)
-](/wp-uploads/2014/10/target_00.png#center)
+[![target_00](/img/2014/10/target_00.png#center)
+](/img/2014/10/target_00.png#center)
 
 y ha creado conjuntos de datos de distinto número de registros con esa _distribución_ de colores. Luego ha puesto varios modelos de clasificación habituales a tratar _aprenderla_. Y ha obtenido patrones tales como
 
-[![SVMRBF-10_hyp](/wp-uploads/2014/10/SVMRBF-10_hyp.png#center)
-](/wp-uploads/2014/10/SVMRBF-10_hyp.png#center)
+[![SVMRBF-10_hyp](/img/2014/10/SVMRBF-10_hyp.png#center)
+](/img/2014/10/SVMRBF-10_hyp.png#center)
 
 Uno puede entretenerse mirando qué modelos ajustan mejor y peor en función del tipo original de configuración, del modelo, del tamaño de la muestra, etc. y, de esa manera, ir construyendo subrepticiamente unas preferencias subconscientes sobre el conjunto de técnicas existentes para solucionar problemas de clasificación binaria.
 

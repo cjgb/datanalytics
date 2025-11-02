@@ -30,7 +30,7 @@ Pero para pagar 100&nbsp;€ ahora, tendría que vender 100&nbsp;€ del fondo m
 
 Así ha de entenderse el [mercado de Polymarket](https://polymarket.com/event/will-jesus-christ-return-in-2025)
 
-![Distribución normal](/wp-uploads/2025/polymarket-jesus-christ-2025.png#center)
+![Distribución normal](/img/2025/polymarket-jesus-christ-2025.png#center)
 
 que, casi seguro, refleja más el efecto de los tipos de interés en EEUU (en Polymarket se opera con una _stablecoin_ que sigue al dólar) que cualquier otra cosa.
 

@@ -21,8 +21,8 @@ url: /2012/02/29/el-cuadrante-magico-de-gartner-y-sus-contradicciones-internas/
 
 A la gente de Gartner le encanta su (impropiamente denominado) _cuadrante mágico_, que es una cosa tal como
 
-[![](/wp-uploads/2012/02/gartner-magic-quadrant-bi-platforms-2012.png#center)
-](/wp-uploads/2012/02/gartner-magic-quadrant-bi-platforms-2012.png#center)
+[![](/img/2012/02/gartner-magic-quadrant-bi-platforms-2012.png#center)
+](/img/2012/02/gartner-magic-quadrant-bi-platforms-2012.png#center)
 
 Dispone Gartner sobre él los productos de diversos proveedores (de informática de gestión) en función de dos variables, _ability to execute_ y _completeness of vision_. El _cuadrante_ está partido en cuatro sectores en los que se ubican:
 

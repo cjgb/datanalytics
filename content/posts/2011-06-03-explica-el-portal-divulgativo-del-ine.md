@@ -19,8 +19,8 @@ title: Explica, el portal divulgativo del INE
 url: /2011/06/03/explica-el-portal-divulgativo-del-ine/
 ---
 
-[![](/wp-uploads/2011/06/explica_ine.png#center)
-](/wp-uploads/2011/06/explica_ine.png#center)Me acaban de hacer llegar la noticia, via Twitter, de la existencia de [Explica, el portal divulgativo del INE](http://www.ine.es/explica/explica.htm). Según sus propias palabras,
+[![](/img/2011/06/explica_ine.png#center)
+](/img/2011/06/explica_ine.png#center)Me acaban de hacer llegar la noticia, via Twitter, de la existencia de [Explica, el portal divulgativo del INE](http://www.ine.es/explica/explica.htm). Según sus propias palabras,
 
 
 > [d]esarrollamos este sitio web con el objetivo de incrementar la cultura estadística en la sociedad y favorecer así el buen uso de la información estadística.
@@ -28,8 +28,8 @@ Aquí podrás encontrar un conjunto de productos de carácter divulgativo que pe
 
 Sin dejar de aplaudir la iniciativa, no he podido dejar de advertir que contiene recomendaciones que desde estas páginas no nos hemos cansado de denunciar. Véase si no, en la sección [_Tipos de gráficos ¿cuál uso?_](http://www.ine.es/explica/explica_pasos_tipos_graficos.htm) cómo no advierten contra el uso de gráficos de sectores y, sobre todo, cómo proponen, en lugar de denunciar, lamentables ejemplos de graficaca tales como este _pictograma_:
 
-[![](/wp-uploads/2011/06/graficaca_ine.png#center)
-](/wp-uploads/2011/06/graficaca_ine.png#center)
+[![](/img/2011/06/graficaca_ine.png#center)
+](/img/2011/06/graficaca_ine.png#center)
 
 Les he escrito al respecto y, la verdad sea dicha, me han contestado enseguida. Parecen, además, muy dispuestos a escuchar propuestas de mejora.
 

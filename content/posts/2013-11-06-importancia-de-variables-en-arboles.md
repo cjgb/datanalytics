@@ -62,5 +62,5 @@ ggplot(res, aes(x = node, weight = importancia)) + geom_bar() +
 
 El resultado es:
 
-[![](/wp-uploads/2013/11/ctree_var_importance.png#center)
-](/wp-uploads/2013/11/ctree_var_importance.png#center)
+[![](/img/2013/11/ctree_var_importance.png#center)
+](/img/2013/11/ctree_var_importance.png#center)

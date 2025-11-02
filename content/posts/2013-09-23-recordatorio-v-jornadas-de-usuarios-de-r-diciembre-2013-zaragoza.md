@@ -22,7 +22,7 @@ url: /2013/09/23/recordatorio-v-jornadas-de-usuarios-de-r-diciembre-2013-zaragoz
 
 Que sirva esta entrada de recordatorio de que la comunidad de usuarios de R va a celebrar sus [V Jornadas en Zaragoza](http://r-es.org/V+Jornadas) este mes de diciembre.
 
-[![](/wp-uploads/2013/09/dl1127display.jpg)
+[![](/img/2013/09/dl1127display.jpg)
 ](http://r-es.org/dl1126)
 
 Este año, como aliciente adicional, contamos con no uno sino [tres concursos](http://r-es.org/Concursos+V+Jornadas) con el patrocinio de [Synergic Partners](http://www.synergicpartners.com/) y [Telefónica Digital](http://www.tid.es/es/Paginas/default.aspx).

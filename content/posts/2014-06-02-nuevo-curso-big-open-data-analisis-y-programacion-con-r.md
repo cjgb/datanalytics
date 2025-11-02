@@ -22,8 +22,8 @@ url: /2014/06/02/nuevo-curso-big-open-data-analisis-y-programacion-con-r/
 
 Este verano, la Escuela Complutense de Verano ofrece el curso [_Big & open data: análisis y programación con R_](http://www.ucm.es/escuelacomplutense/b06).
 
-[![escuela_complutense_verano](/wp-uploads/2014/06/escuela_complutense_verano.jpg)
-](/wp-uploads/2014/06/escuela_complutense_verano.jpg)
+[![escuela_complutense_verano](/img/2014/06/escuela_complutense_verano.jpg)
+](/img/2014/06/escuela_complutense_verano.jpg)
 
 Lo anuncio por aquí por tres motivos:
 

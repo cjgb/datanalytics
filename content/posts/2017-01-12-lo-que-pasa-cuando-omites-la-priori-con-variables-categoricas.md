@@ -24,7 +24,7 @@ Stan. Modelo multinivel. Variable categórica. Codificación con ceros y unos. M
 
 Catástrofe:
 
-![](/wp-uploads/2017/01/coefs_sin_prior.png#center)
+![](/img/2017/01/coefs_sin_prior.png#center)
 
 (Coeficientes hasta 15000. Sin tasa, con tiempo. Los valores desorbitados, en ceros de la `dummy`).
 
@@ -39,7 +39,7 @@ for (i in 1:n_ccaa)
 
 Tachán:
 
-![](/wp-uploads/2017/01/coefs_con_prior.png#center)
+![](/img/2017/01/coefs_con_prior.png#center)
 
 
 (¿Para qué verbos?)

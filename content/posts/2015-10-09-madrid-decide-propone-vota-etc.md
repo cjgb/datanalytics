@@ -66,11 +66,11 @@ names(kk) <- NULL
 
 extraje el número de apoyos de las propuestas el 24 de septiembre y hoy 8 de octubre. En la última fecha, la distribución de apoyos era
 
-![propuestas_madrid_octubre](/wp-uploads/2015/10/propuestas_madrid_octubre.png#center)
+![propuestas_madrid_octubre](/img/2015/10/propuestas_madrid_octubre.png#center)
 
 teniendo [la que más](https://decide.madrid.es/proposals/199) 3633 apoyos. La variación en los últimos días del número de votos (no en la mejor visualización del mundo) es
 
-![propuestas_madrid_delta](/wp-uploads/2015/10/propuestas_madrid_delta.png#center)
+![propuestas_madrid_delta](/img/2015/10/propuestas_madrid_delta.png#center)
 
 siendo el mayor incremento de 663 votos (con una mediana de 4).
 

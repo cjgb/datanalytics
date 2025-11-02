@@ -84,8 +84,8 @@ plot(as.numeric(names(dat)), dat, type = "l",
 
 que es
 
-[![embalses_espanna](/wp-uploads/2014/04/embalses_espanna.png#center)
-](/wp-uploads/2014/04/embalses_espanna.png#center)
+[![embalses_espanna](/img/2014/04/embalses_espanna.png#center)
+](/img/2014/04/embalses_espanna.png#center)
 
 y que muestra el número de embalses (ponderados por su capacidad) finalizados por año.
 

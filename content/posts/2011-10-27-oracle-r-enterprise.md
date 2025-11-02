@@ -20,8 +20,8 @@ url: /2011/10/27/oracle-r-enterprise/
 
 Repugna un tanto ver a R entre las palabras _Oracle_ y _Enterprise_. Sobre todo siendo Oracle una compañía tan opuesta al espíritu del _software_ libre. Pero es de celebrar que nuestra herramienta de elección esté penetrando el _sancta sanctorum_ del _software_ propietario. Y eso que Oracle se hizo años ya con [Thinking Machines](http://en.wikipedia.org/wiki/Thinking_Machines_Corporation), empresa pionera en el campo de la minería de datos y cuyos algoritmos acabaron integrados en [Oracle Data Mining](http://en.wikipedia.org/wiki/Oracle_Data_Mining).
 
-[![](/wp-uploads/2011/10/oracle_r_enterprise.png#center)
-](/wp-uploads/2011/10/oracle_r_enterprise.png#center)
+[![](/img/2011/10/oracle_r_enterprise.png#center)
+](/img/2011/10/oracle_r_enterprise.png#center)
 
 Es decir, aunque Oracle posee sus propias herramientas de minería de datos, ha acabado incorporando un producto libre, R. ¡Malo no será!
 

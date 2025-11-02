@@ -28,7 +28,7 @@ Que es cierta es algo a lo que estamos inconscientemente acostumbrados. Un progr
 
 Pero, ¿por qué es relevante? En el mundo de los LLMs (y no solo), lo de sumar vectores para combinar fuentes de información es poco más o menos un truco rutinario que se aplica y ---se _explica_--- sin mayor cualificación. Por ejemplo, en el ya clásico [_Attention is all you need_](https://arxiv.org/pdf/1706.03762.pdf) se lee
 
-![](/wp-uploads/2023/attention-all-you-need.png#center)
+![](/img/2023/attention-all-you-need.png#center)
 
 Notas:
 * [Otros autores](https://www.youtube.com/watch?v=kCc8FmEb1nY) usan versiones distintas de lo anterior, p.e., ¡eliminando directamente las funciones trigonométricas!.

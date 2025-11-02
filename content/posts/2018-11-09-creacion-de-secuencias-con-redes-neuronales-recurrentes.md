@@ -20,6 +20,6 @@ url: /2018/11/09/creacion-de-secuencias-con-redes-neuronales-recurrentes/
 
 _Secuencias_ como
 
-![](/wp-uploads/2018/11/handwriting.png#center)
+![](/img/2018/11/handwriting.png#center)
 
 pueden crearse con redes neuronales recurrentes como las que se describen en [_Generating Sequences With Recurrent Neural Networks_](https://arxiv.org/abs/1308.0850).

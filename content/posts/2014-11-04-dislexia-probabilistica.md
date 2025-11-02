@@ -24,15 +24,15 @@ url: /2014/11/04/dislexia-probabilistica/
 
 Esta entrada trata de cuadrados. Tales como estos
 
-[![cuadros_separados](/wp-uploads/2014/11/cuadros_separados.png#center)
-](/wp-uploads/2014/11/cuadros_separados.png#center)
+[![cuadros_separados](/img/2014/11/cuadros_separados.png#center)
+](/img/2014/11/cuadros_separados.png#center)
 
 Son dos cuadrados de area 10 y 2.
 
 En realidad, mi entrada trata de una configuración de cuadrados solo marginalmente más complicada, esta:
 
-[![cuadros_solapados](/wp-uploads/2014/11/cuadros_solapados.png#center)
-](/wp-uploads/2014/11/cuadros_solapados.png#center)
+[![cuadros_solapados](/img/2014/11/cuadros_solapados.png#center)
+](/img/2014/11/cuadros_solapados.png#center)
 
 Todo el mundo podría decir (y es cierto) que el área de la intersección de los cuadrados es el 3.3% de la del mayor y el 16.5% de la del menor. Son dos afirmaciones ambas ciertas y, por supuesto, compatibles.
 
@@ -40,8 +40,8 @@ Escrito de otra manera, es perfectamente posible que $P(A|B)=0.033$ y que $P(B|A
 
 Sin embargo, hay quienes parecen confundir $P(A|B)$ y $P(B|A)$. Verbigracia,
 
-[![podemos_pp](/wp-uploads/2014/11/podemos_pp.png#center)
-](/wp-uploads/2014/11/podemos_pp.png#center)
+[![podemos_pp](/img/2014/11/podemos_pp.png#center)
+](/img/2014/11/podemos_pp.png#center)
 
 Hay varios entuertos que enderezar en lo que afirma el párrafo anterior. Menor y hasta perdonable, confundir votar _en el pasado_ al PP con haberlo votado únicamente en 2011. Grave como para ser incluida en una antología de falacias probabilísticas, [que se confundan las probabilidades condicionales](http://en.wikipedia.org/wiki/Confusion_of_the_inverse).
 

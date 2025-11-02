@@ -24,11 +24,11 @@ url: /2018/01/18/estadistica-insospechadas-aplicaciones-en-arqueologia/
 
 Se ve que hace 4000 años existió una incipiente actividad comercial entre protociudades situadas en las actuales Turquía, Siria e Irak:
 
-![](/wp-uploads/2018/01/rutas_comercio_anatolia.png#center)
+![](/img/2018/01/rutas_comercio_anatolia.png#center)
 
 Se han descubierto tablillas tales como
 
-![](/wp-uploads/2018/01/bono.jpg)
+![](/img/2018/01/bono.jpg)
 
 (que es el primer bono del que se tiene constancia) en las que se lee que alguien llevó tanta plata de la ciudad X a la Y, etc.
 

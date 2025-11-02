@@ -20,6 +20,6 @@ title: Reducción de la dimensionalidad
 url: /2020/04/22/reduccion-de-la-dimensionalidad/
 ---
 
-![](/wp-uploads/2020/04/dimension_reduccion.png#center)
+![](/img/2020/04/dimension_reduccion.png#center)
 
 está extraído de [aquí](https://github.com/gdkrmr/dimRed/blob/master/vignettes/dimensionality-reduction.pdf).

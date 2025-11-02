@@ -23,7 +23,7 @@ url: /2016/11/15/una-fina-tenue-somera-capa-de-sintaxis/
 
 Estuve el otro día en una [charla de José Luis Cañadas en el grupo de usuarios de R de Madrid](http://madrid.r-es.org/39-jueves-10-de-noviembre-2016/) sobre `sparklyr`. Hoy en otra de [Juan Luis Rivero](https://www.linkedin.com/in/juanluisrivero) sobre, esencialmente, lo mismo, pero esta vez con Python. Y podría escribir "etc.".
 
-![evolucion_convergente](/wp-uploads/2016/11/evolucion_convergente.jpg)
+![evolucion_convergente](/img/2016/11/evolucion_convergente.jpg)
 
 Me centraré en la de José Luis, aunque podría decir lo mismo de cualquiera de las otras. No había trabajado con `sparklyr`. No soy siquiera fan de `dplyr` (aunque no es que no se lo recomiende a otros; es simplemente, como tantas cosas, que soluciona problemas que no tengo). Pero la seguí sin mayores problemas. Lo que tenía de nuevo era una fina, somera capa de sintaxis que enlazaba fundamentos con fundamentos.
 

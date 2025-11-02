@@ -22,8 +22,8 @@ El metaperiodismo es lo que hacen los periodistas cuando escriben sobre su propi
 
 No sé por qué he venido a pensar —y escribir— sobre el asunto, pero me atrevo a formular mis conclusiones y diagnósticos. Comienzo con una tabla (que capturo como gráfico) de la Wikipedia:
 
-[![](/wp-uploads/2012/09/bienes_publicos.png#center)
-](/wp-uploads/2012/09/bienes_publicos.png#center)
+[![](/img/2012/09/bienes_publicos.png#center)
+](/img/2012/09/bienes_publicos.png#center)
 
 Está en una página tal vez insospechada: la que cuenta qué es un [bien público](http://en.wikipedia.org/wiki/Public_good). Y un bien público es uno que tiene estas dos características:
 

@@ -24,7 +24,7 @@ Relata lo ocurrido en un pueblo inglés en el que una noche, unos vecinos (presu
 
 Dicen los autores del libro: coge un puñado de arroz y tíralo en el suelo (¿de un cuarto pequeño y despejado?); verás cómo aparecen zonas donde parecen aglomerarse los granos y otras que parecen vacías. Se crean _clústers_, sí, aun cuando la distribución es aleatoria (con una distribución no muy distinta de la uniforme).
 
-![](/wp-uploads/2018/09/tiger_isnt.png#center)
+![](/img/2018/09/tiger_isnt.png#center)
 
 
 Regresemos a la aldea donde Maxwell es ciudadano non grato. Puede que ahí se haya aparecido uno de esos aparentes clústers de las distribuciones aleatorias. Puede que, estadística en mano, sea tremendamente improbable que justo ahí se produzca una aglomeración de casos. ¡Pero, ah, es también altamente improbable que no se produzca una aglomeración de casos en ningún sitio! El fiscal falaz dice: he aquí un hecho altamente improbable, por lo que no es casual. Y la plebe responde: soltemos a Barrabás y a tomar por culo la antena.
@@ -37,4 +37,4 @@ Pero para condenar a la antena (y remito a mis entradas anteriores para los deta
 
 **Nota final:** Pero, ¡ay!, [John Snow](https://en.wikipedia.org/wiki/John_Snow) (el otro John Snow será siempre _el otro John Snow_ en este blog) hizo lo mismo y ahora es considerado un pionero de la epidemiología.
 
-![](/wp-uploads/2018/09/cholera.jpg)
+![](/img/2018/09/cholera.jpg)

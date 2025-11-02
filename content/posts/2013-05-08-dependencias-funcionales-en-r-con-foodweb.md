@@ -33,8 +33,8 @@ foodweb(find.funs("package:plyr"), prune = "laply")
 
 genera
 
-[![](/wp-uploads/2013/05/foodweb_daply_tree.png#center)
-](/wp-uploads/2013/05/foodweb_daply_tree.png#center)
+[![](/img/2013/05/foodweb_daply_tree.png#center)
+](/img/2013/05/foodweb_daply_tree.png#center)
 
 Ahí se ve la dependencia de `daply` con respecto a `laply`. Y uno adquiere, además, una visión panorámica del paquete `plyr`.
 

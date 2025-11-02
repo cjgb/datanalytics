@@ -31,7 +31,7 @@ Se dice que los aparatejos mecánicos, bichos incluidos, tienen un riesgo con fo
 
 He aquí la bañera arquetípica:
 
-![Análisis supervivencia - Bañera](/wp-uploads/2025/survival-bathtub.ppm#center)
+![Análisis supervivencia - Bañera](/img/2025/survival-bathtub.ppm#center)
 
 Siempre se ha pensado que los discos duros seguían el patrón apriorístico. De hecho, el _aposteriorístico_ (i.e., el que manifestaban los datos) cuadraba. Pero ahora parece que no. De ello se habla [aquí](https://blog.dshr.org/2025/10/the-bathtub-curve.html) y [aquí](https://www.backblaze.com/blog/drive-failure-over-time-the-bathtub-curve-is-leaking/).
 

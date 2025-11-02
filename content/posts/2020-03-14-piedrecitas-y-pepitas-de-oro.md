@@ -31,7 +31,7 @@ Al final del día, ¿qué encontrará en la caja?
 
 Tal es la mejor historia que se me ha ocurrido para explicar a gente que no ha oído hablar del reverendo,  a quien gráficos como
 
-![](/wp-uploads/2020/03/Breast-cancer-probability-using-Bayesian-network-classifier-39.jpg)
+![](/img/2020/03/Breast-cancer-probability-using-Bayesian-network-classifier-39.jpg)
 
 no le dicen nada, etc., ese concepto que, por algún motivo, resulta paradójico. He hecho algunos experimentos con algunas alternativas y, sí, parece ser el que mejor funciona en mis experimentos con un N ridículo.
 

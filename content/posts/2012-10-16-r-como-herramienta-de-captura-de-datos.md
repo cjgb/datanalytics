@@ -24,4 +24,4 @@ En realidad, es un repaso (y [el código está disponible](https://github.com/je
 
 Y es que para esos fines, R viene a ser, como indica el autor, algo parecido a
 
-![](/wp-uploads/2012/10/swiss_army-300x219.png#center)
+![](/img/2012/10/swiss_army-300x219.png#center)

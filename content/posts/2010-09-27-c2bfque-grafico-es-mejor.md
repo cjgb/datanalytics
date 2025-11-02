@@ -26,4 +26,4 @@ Los servidores del Parlamento Británico alojan (y ponen a disposición del púb
 
 Ahí va un ejemplo de cómo puede este documento ayudar a mejorar las gráficas de quienes lo lean con el debido detenimiento. La de la izquierda es el tipo de gráfica a la que nos tienen acostumbrados los consultores bisoños; la de la derecha es la versión que propone el autor del documento.
 
-![Grafico bueno / grafico malo](/wp-uploads/2010/09/grafica_buena_grafica_mala1.png#center)
+![Grafico bueno / grafico malo](/img/2010/09/grafica_buena_grafica_mala1.png#center)

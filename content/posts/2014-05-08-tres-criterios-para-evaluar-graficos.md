@@ -28,7 +28,7 @@ Estas tres preguntas te ayudarán a guiar tu análisis:
 
 Las preguntas, escritas en inglés y dispuestas en un triángulo, tienen este aspecto:
 
-[![trifecta_checkup](/wp-uploads/2014/05/trifecta_checkup.png#center)
-](/wp-uploads/2014/05/trifecta_checkup.png#center)
+[![trifecta_checkup](/img/2014/05/trifecta_checkup.png#center)
+](/img/2014/05/trifecta_checkup.png#center)
 
 Para saber más, véase [esto](http://junkcharts.typepad.com/junk_charts/trifecta-checkup/) o [esto](http://junkcharts.typepad.com/junk_charts/2014/02/pets-may-need-shelter-from-this-terrible-chart.html).

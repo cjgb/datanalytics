@@ -24,7 +24,7 @@ Hay una cifra que me intriga. Ya [hablé sobre ella hace años](https://datanaly
 
 Buscando el otro día (infructosísimamente) información sobre la renta (y su distribución) de los autónomos, [volví a encontrármela actualizada](http://www.agenciatributaria.es/static_files/AEAT/Estudios/Estadisticas/Informes_Estadisticos/Informes_Anuales_de_Recaudacion_Tributaria/Ejercicio_2015/IART15.pdf):
 
-![](/wp-uploads/2017/07/rentas_empresariales_medias.png#center)
+![](/img/2017/07/rentas_empresariales_medias.png#center)
 
 En resumen: el en 2015, 3.5 millones de empresarios y autónomos declararon ingresos netos (descontando gastos) de poco más de 8000 euros por barba.
 

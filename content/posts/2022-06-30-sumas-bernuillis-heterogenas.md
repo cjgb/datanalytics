@@ -24,7 +24,7 @@ url: /2022/06/30/sumas-bernoullis-heterogeneas/
 
 El otro día planteé en Twitter la siguiente encuesta:
 
-![](/wp-uploads/2022/06/encuesta_twitter_bernoulli.png#center)
+![](/img/2022/06/encuesta_twitter_bernoulli.png#center)
 
 Como bien puede apreciarse, 16 personas tuvieron a bien contestar y nada menos que siete, casi la mitad, dieron con la respuesta acertada. Me gustaría saber qué cuentas de Twitter pueden presumir de una audiencia tan cualificada.
 

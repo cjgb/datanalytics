@@ -34,7 +34,7 @@ Solo de esa manera, de todos los casos que tienen asignada una probabilidad de $
 
 La constante de proporcionalidad en el primer caso es $\int_0^1 pf(p)dp$, obviamente. Si $f(p)$ fuese uniforme en $[0, 1]$, las densidades de los casos positivos y negativos serían distribuciones triangulares:
 
-![](/wp-uploads/2025/auc_distributions.png#center)
+![](/img/2025/auc_distributions.png#center)
 
 En el gráfico, la línea negra es $f(p)$ y las líneas roja y azul representan las densidades de los casos positivos y negativos respectivamente. A partir de aquí y haciendo uso de
 

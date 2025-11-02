@@ -32,11 +32,11 @@ No es una pregunta baladí: ha dado lugar a noticias como _[Why So Many White Am
 
 La edad media dentro de los grupos de edad quinquenales ha tenido la siguiente evolución en el siglo que corre:
 
-![](/wp-uploads/2019/12/edad_grupos_edad_quinquenales.png#center)
+![](/img/2019/12/edad_grupos_edad_quinquenales.png#center)
 
 Y la de los decenales,
 
-![](/wp-uploads/2019/12/edad_grupos_edad_decenales.png#center)
+![](/img/2019/12/edad_grupos_edad_decenales.png#center)
 
 No sé si separando por sexos (cosa que dejo como ejercicio) aparecerán patrones más pronunciados. Por si acaso, dejo el código utilizado:
 

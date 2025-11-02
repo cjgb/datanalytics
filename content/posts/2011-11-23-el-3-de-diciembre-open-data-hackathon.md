@@ -27,8 +27,8 @@ Me llega la noticia de que el 3 de diciembre tendrá lugar el [Open Data Day](h
 
 Arturo (del blog [Madrid Me Mata](http://www.madridmemata.es/2011/11/empachandote-de-datos-abiertos-mmm-que-ricos/)) y Oscar Corcho de la UPM están organizando el evento en Madrid. El primero dice que _la idea es hacer una pequeña introducción más o menos teórica para después ponernos a trabajar sobre un set de datos, como siempre esa es la parte que está un poco más en el aire y cualquier propuesta en este sentido vendría muy bien_.
 
-[![](/wp-uploads/2011/11/opendatadaycloud.jpg)
-](/wp-uploads/2011/11/opendatadaycloud.jpg)
+[![](/img/2011/11/opendatadaycloud.jpg)
+](/img/2011/11/opendatadaycloud.jpg)
 
 Existen también actividades en [otras ciudades de España](http://www.opendataday.org/wiki/City_Events_2011#Spain) y [del mundo](http://www.opendataday.org/wiki/City_Events_2011).
 

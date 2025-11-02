@@ -29,16 +29,16 @@ Mi posición al respecto es que:
 
 Pero demos la hipótesis por buena: el azar es solo algo en lo que pensamos pero que no tiene un reflejo en el mundo real. Entonces, patrones como
 
-![Distribución normal](/wp-uploads/2025/dist_01.png#center)
+![Distribución normal](/img/2025/dist_01.png#center)
 
 o
 
-![Distribución lognormal](/wp-uploads/2025/dist_02.png#center)
+![Distribución lognormal](/img/2025/dist_02.png#center)
 
 que aparecen en los libros que discuten las propiedades matemáticas de la incertidumbre serían ajenos al _mundo material_. Pero, entonces, ¿cómo es que existen
 
-![Distribución normal en una puerta](/wp-uploads/2025/dist_03.jpg#center)
+![Distribución normal en una puerta](/img/2025/dist_03.jpg#center)
 
-![Distribución normal en una puerta](/wp-uploads/2025/dist_04.jpg#center)
+![Distribución normal en una puerta](/img/2025/dist_04.jpg#center)
 
 o tantas otras imágenes de la misma naturaleza? ¿Por que estaría empeñada la realidad en imitar formas que solo imaginan nuestras mentes?

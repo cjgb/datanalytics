@@ -25,15 +25,15 @@ url: /2019/05/21/que-puede-colgar-de-un-arbol/
 
 Predicciones puntuales:
 
-![](/wp-uploads/2019/05/ctree_que_cuelga.png#center)
+![](/img/2019/05/ctree_que_cuelga.png#center)
 
 O (sub)modelos:
 
-![](/wp-uploads/2014/09/residuos_mob_party.png#center)
+![](/img/2014/09/residuos_mob_party.png#center)
 
 Y parece que ahora también distribuciones:
 
-![](/wp-uploads/2019/05/trtf_que_cuelga.png#center)
+![](/img/2019/05/trtf_que_cuelga.png#center)
 
 **Notas:**
 

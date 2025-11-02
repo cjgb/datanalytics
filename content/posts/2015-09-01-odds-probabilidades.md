@@ -31,7 +31,7 @@ Pero.
 
 Aquí tenemos los _odds_ para el mundial de rugby de 2015 (en el momento en el que escribo estas líneas):
 
-![odds_rugby_2015](/wp-uploads/2015/08/odds_rugby_2015.png#center)
+![odds_rugby_2015](/img/2015/08/odds_rugby_2015.png#center)
 
 Apostando ocho libras a que gana Nueva Zelanda tienes la opción de ganar once; apostando una por Argentina, tienes la opción de ganar 66. Las probabilidades implícitas son de 8/(8+11) = 0.42 por Nueva Zelanda y 0.0149 por Argentina.
 

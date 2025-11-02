@@ -20,7 +20,7 @@ title: Este es uno de los pecados estadísticos que menos indulgencia suscita
 url: /2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-suscita/
 ---
 
-{{< figure src="/wp-uploads/2020/09/proyecciones.png" caption="INE, Proyecciones de Población 2020-2070 ([enlace](https://www.ine.es/prensa/pp_2020_2070.pdf))" >}}
+{{< figure src="/img/2020/09/proyecciones.png" caption="INE, Proyecciones de Población 2020-2070 ([enlace](https://www.ine.es/prensa/pp_2020_2070.pdf))" >}}
 
 **Nota para desavisados:** ¿veis cómo se comporta la varianza antes/después?
 

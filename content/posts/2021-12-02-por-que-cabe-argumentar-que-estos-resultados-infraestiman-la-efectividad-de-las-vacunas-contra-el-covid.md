@@ -24,7 +24,7 @@ url: /2021/12/02/por-que-cabe-argumentar-que-estos-resultados-infraestiman-la-ef
 
 Me refiero a los mostrados en el siguiente gráfico (del que he sido una microcausa):
 
-![](/wp-uploads/2021/12/covid.png#center)
+![](/img/2021/12/covid.png#center)
 
 En él  se ve,  por ejemplo, como la probabilidad de acabar en la UCI para la gente entre 60 y 80 años es hasta 23 veces mayor entre los  no vacunados que entre los vacunados.
 

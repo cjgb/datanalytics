@@ -23,7 +23,7 @@ url: /2016/03/10/hoy-que-me-he-puesto-traje-y-corbata/
 
 A esos que gastan traje y corbata como yo hoy les horroriza la varianza. Le espantan, seguro, esos punticos que tan opotunamente [coloca Kiko Llaneras](http://www.elespanol.com/espana/20160204/99740151_0.html) alrededor de las medias de este estupendo
 
-![promedios_encuestas](/wp-uploads/2016/03/promedios_encuestas.jpg)
+![promedios_encuestas](/img/2016/03/promedios_encuestas.jpg)
 
 y que invitan a desasosegadoras reflexiones.
 

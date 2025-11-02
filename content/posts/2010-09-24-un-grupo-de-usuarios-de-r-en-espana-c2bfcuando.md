@@ -21,7 +21,7 @@ Hace poco recibí noticia de la creación de un [grupo de usuarios de R en Brisb
 
 Miro también el siguiente gráfico y me da algo de grima:
 
-[![Mapa de grupos de usuarios de R](/wp-uploads/2010/09/mapa_grupos_usuarios_r.png#center)
+[![Mapa de grupos de usuarios de R](/img/2010/09/mapa_grupos_usuarios_r.png#center)
 ](http://r-project-for-statistical-computing.meetup.com/)
 
 

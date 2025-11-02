@@ -20,4 +20,4 @@ url: /2016/07/18/me-voy-a-gijon-toda-la-semana/
 
 A esto:
 
-![curso_r_gijon](/wp-uploads/2016/07/curso_r_gijon.png#center)
+![curso_r_gijon](/img/2016/07/curso_r_gijon.png#center)

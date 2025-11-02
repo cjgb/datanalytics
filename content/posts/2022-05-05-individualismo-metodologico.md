@@ -21,13 +21,13 @@ url: /2022/05/05/causalidad-individualismo-metodologico/
 
 Frecuentemente, se postulan y estudian relaciones causales del tipo
 
-![](/wp-uploads/2022/05/causal_graph_00.png#center)
+![](/img/2022/05/causal_graph_00.png#center)
 
 donde, por simplificar, se han eliminado las variables de confusión, etc. para mostrar su versión más estilizada, la que acaba en los _abstracts_.
 
 Frecuentemente, además, $C$ y $E$ hacen referencia a magnitudes _macro_: una campaña de publicidad y los ingresos; una medida económica y el PIB; la presión y el volumen de un gas, etc. Todos sabemos que en esos casos, el diagrama anterior es solo una manera abreviada de representar el _verdadero_ diagrama causal,
 
-![](/wp-uploads/2022/05/causal_graph_01.png#center)
+![](/img/2022/05/causal_graph_01.png#center)
 
 (que, de nuevo, puede estar _decorado_ con variables confusoras, etc. adicionales) donde los $S_i$ son sujetos que conforman una población determinada y para cada uno de los cuales la causa $C$ induce un efecto parcial $E_i$. Estos $E_i$ quedan luego subsumidos en una variable macro $E$ ---que podría ser en muchos casos una estimación de su suma---.
 

@@ -21,8 +21,8 @@ url: /2012/08/10/vehiculos-electricos/
 
 En [McKinsey Quarterly](http://www.mckinseyquarterly.com/Energy_Resources_Materials/Electric_Power/Battery_technology_charges_ahead_2997) di con este gráfico
 
-[![](/wp-uploads/2012/08/electrico_vs_gasolina.png#center)
-](/wp-uploads/2012/08/electrico_vs_gasolina.png#center)
+[![](/img/2012/08/electrico_vs_gasolina.png#center)
+](/img/2012/08/electrico_vs_gasolina.png#center)
 
 que muestra hasta qué punto distintas tecnologías para impulsar vehículos de motor son o no competitivas en función del precio de la gasolina y de las baterías eléctricas. El eje izquierdo está expresado en dólares (1 euro, unos 1.23 dólares) por galón (3.78 litros).
 

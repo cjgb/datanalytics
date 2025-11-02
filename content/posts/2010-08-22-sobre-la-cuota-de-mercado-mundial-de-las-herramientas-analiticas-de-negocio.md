@@ -22,8 +22,8 @@ url: /2010/08/22/sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analitica
 
 Hace poco, [IDC](http://www.idc.com/) —una empresa que hace estudios de mercado a nivel global de distintas herramientas de _software_ y _hardware_ — hizo público su informe periódico _Worldwide Business Intelligence Tools 2009 Vendor Shares_. En su página 8, la más jugosa del informe, aparece la tabla que reproduzco a continuación:
 
-[![](/wp-uploads/2010/08/cuota_mercado_data_mining_tools.png#center)
-](/wp-uploads/2010/08/cuota_mercado_data_mining_tools.png#center)
+[![](/img/2010/08/cuota_mercado_data_mining_tools.png#center)
+](/img/2010/08/cuota_mercado_data_mining_tools.png#center)
 
 Puede apreciarse cómo en el segmento de la minería de datos (que viene a ser a lo que se refieren con lo de _advanced analytics_) es SAS el claro dominador con IBM/SPSS en una débil segunda posición.
 

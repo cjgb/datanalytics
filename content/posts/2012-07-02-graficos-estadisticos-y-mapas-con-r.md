@@ -20,8 +20,8 @@ url: /2012/07/02/graficos-estadisticos-y-mapas-con-r/
 
 Me ha llegado noticia de un nuevo libro sobre R, [_Gráficos estadísticos y mapas con R_](http://ediciones.diazdesantos.es/libros/guisande-gonzalez-castor-graficos-estadisticos-y-mapas-con-r-L0000410004163.html) recién publicado.
 
-[![](/wp-uploads/2012/06/graficos_estadisticos_r.jpg)
-](/wp-uploads/2012/06/graficos_estadisticos_r.jpg)
+[![](/img/2012/06/graficos_estadisticos_r.jpg)
+](/img/2012/06/graficos_estadisticos_r.jpg)
 
 Los autores son Cástor Guisande y Antonio Vaamonde, ambos de la Universidad de Vigo. Y de la ficha del libro extraigo:
 

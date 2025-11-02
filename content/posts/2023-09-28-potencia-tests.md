@@ -45,7 +45,7 @@ cuyo código fuente se puede consultar
 
 Esencialmente consta de un selector,
 
-![](/wp-uploads/2023/power_00.png#center)
+![](/img/2023/power_00.png#center)
 
 donde se puede determinar el tamaño del efecto, la desviación estándar de los datos, el número de sujetos, el nivel de confianza de la prueba y, finalmente, el número de veces que la prueba se va a iterar, es decir, el número de _experimentos simulados_ que se van a realizar con dichos parámetros.
 
@@ -61,15 +61,15 @@ replicate(
 
 Los resultados que muestra son la distribución de los efectos _significativos_ estimados junto con la de todos los efectos,
 
-![](/wp-uploads/2023/power_01.png#center)
+![](/img/2023/power_01.png#center)
 
 la de los efectos significativos únicamente,
 
-![](/wp-uploads/2023/power_02.png#center)
+![](/img/2023/power_02.png#center)
 
 y, finalmente, algunos estadísticos relevantes:
 
-![](/wp-uploads/2023/power_03.png#center)
+![](/img/2023/power_03.png#center)
 
 Dentro de estos últimos merece la pena fijarse en los dos últimos: la sobreestimación del efecto en términos absolutos y relativos.
 

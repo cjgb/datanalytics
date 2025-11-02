@@ -23,7 +23,7 @@ _[Lamento hacer una entrada que difícilmente encaja con el resto de las que sue
 
 Lo de Madrid Central no se ha notado en absoluto en mi barrio. Ni se notará. Vivo en una de las antiguas APR (áreas de prioridad residencial) de Madrid, que existen desde la noche de los tiempos y que son una especie de mini Madrid Central:
 
-![](/wp-uploads/2018/12/Áreas-de-Prioridad-Residencial-GENERAL.jpg)
+![](/img/2018/12/Áreas-de-Prioridad-Residencial-GENERAL.jpg)
 
 Me enteré de su existencia a primeros de 2009 cuando recibí una multa de tráfico por haber incursionado en la mía con un coche de alquiler con el que quería transportar unos trastos de casa. [Así las gasta el ayuntamiento](https://www.abc.es/espana/madrid/abci-crecen-144-por-ciento-hasta-470000-multas-entrar-201712110031_noticia.html):
 
@@ -31,7 +31,7 @@ Me enteré de su existencia a primeros de 2009 cuando recibí una multa de tráf
 
 El nuevo Madrid Central no es otra cosa que la expansión de esas antiguas APR a una zona más amplia,
 
-![](/wp-uploads/2018/12/madrid_central.jpg)
+![](/img/2018/12/madrid_central.jpg)
 
 más notoria (porque incluye calles principales) y con un funcionamiento similar. Es decir, basado en reglitas sobre quién puede y no puede entrar y un engorroso y burocrático proceso para que los residentes podamos autorizar visitantes (p.e., un electricista que venga en su furgoneta de fuera).
 

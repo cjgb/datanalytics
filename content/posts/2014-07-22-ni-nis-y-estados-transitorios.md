@@ -28,8 +28,8 @@ Tenemos en España un _stock_ de ni-nis. Todo el mundo lo considera bajo esa per
 
 ¿Y como flujo? La gente de Nada es Gratis habló hace unos días de la [_generación ni-ni_](http://www.fedeablogs.net/economia/?p=38056). Publicaron este gráfico:
 
-[![generacion_nini](/wp-uploads/2014/07/generacion_nini.png#center)
-](/wp-uploads/2014/07/generacion_nini.png#center)
+[![generacion_nini](/img/2014/07/generacion_nini.png#center)
+](/img/2014/07/generacion_nini.png#center)
 
 que muestra el porcentaje de _ni-nis_ que transitan trimestralmente hacia otras situaciones, i.e., empleo, educación reglada y sin reglar. El autor dice: _[s]ólo (sic) el 10% de los ni-nis de nivel educativo bajo transitan trimestralmente hacia el empleo_. Y yo lo leo de la siguiente manera: incluso entre los que tienen nivel educativo más bajo, cada trimestre casi el 30 % de los _ni-nis_ salen de dicho estado. Creo que ese _solo_ mal acentuado del autor es engañoso.
 

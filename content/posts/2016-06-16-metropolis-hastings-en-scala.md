@@ -82,4 +82,4 @@ posterior <- as.double(readLines("/tmp/posterior.txt"))
 hist(posterior, breaks = 50)
 {{< / highlight >}}
 
-![posteriori_scala](/wp-uploads/2016/06/posteriori_scala.png#center)
+![posteriori_scala](/img/2016/06/posteriori_scala.png#center)

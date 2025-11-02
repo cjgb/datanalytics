@@ -97,22 +97,22 @@ Hay 100 iteraciones del ajuste de la regresión logísitica sobre 10 proporcione
 
 Veamos el comportamiento de los coeficientes. El de `x2`, he dejado dicho, es 0 por construcción. Y en efecto:
 
-[![bias_logistic_x2](/wp-uploads/2014/11/bias_logistic_x2.png#center)
-](/wp-uploads/2014/11/bias_logistic_x2.png#center)
+[![bias_logistic_x2](/img/2014/11/bias_logistic_x2.png#center)
+](/img/2014/11/bias_logistic_x2.png#center)
 
 Independientemente de la cantidad de submuestreo, la regresión logística identifica esa variable como ruido.
 
 Igual os sorprende lo que pasa con `x1`:
 
-[![bias_logistic_x1](/wp-uploads/2014/11/bias_logistic_x1.png#center)
-](/wp-uploads/2014/11/bias_logistic_x1.png#center)
+[![bias_logistic_x1](/img/2014/11/bias_logistic_x1.png#center)
+](/img/2014/11/bias_logistic_x1.png#center)
 
 A pesar del submuestreo, el coeficiente no anda lejos _de la verdad_. Solo que con más observaciones, decrece su varianza.
 
 La diferencia está en `x0`, el término independiente:
 
-[![bias_logistic_x0](/wp-uploads/2014/11/bias_logistic_x0.png#center)
-](/wp-uploads/2014/11/bias_logistic_x0.png#center)
+[![bias_logistic_x0](/img/2014/11/bias_logistic_x0.png#center)
+](/img/2014/11/bias_logistic_x0.png#center)
 
 Este varía dependiendo de la agresividad del submuestreo y es el que habría que corregir si de verdad interesa hacerlo. No es difícil realizar la corrección a mano, pero es más sencillo todavía descargarse [Logistic Regression in Rare Events Data](http://gking.harvard.edu/files/0s.pdf) y consultar la fórmula de la sección 4.1. El mismo artículo (alrededor de la fórmula número 6) también discute el fenómeno de la reducción de la varianza en los estimadores.
 

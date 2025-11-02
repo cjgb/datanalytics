@@ -68,24 +68,24 @@ permite usar más en función del parámetro `p`.
 
 Así, `voronoi(1)` da
 
-[![vioronoi_p1](/wp-uploads/2015/09/vioronoi_p1.png#center)
-](/wp-uploads/2015/09/vioronoi_p1.png#center)
+[![vioronoi_p1](/img/2015/09/vioronoi_p1.png#center)
+](/img/2015/09/vioronoi_p1.png#center)
 
 (nótese el ángulo de los segmentos de frontera) y `voronoi(2)`,
 
-[![voronoi_p2](/wp-uploads/2015/09/voronoi_p2.png#center)
-](/wp-uploads/2015/09/voronoi_p2.png#center)
+[![voronoi_p2](/img/2015/09/voronoi_p2.png#center)
+](/img/2015/09/voronoi_p2.png#center)
 
 donde las fronteras son segmentos (de mediatriz entre parejas de puntos). Con un valor de `p` alto (una aproximación a la norma $l_\infty$, `voronoi(100)`, se obtiene
 
-[![voronoi_p_infty](/wp-uploads/2015/09/voronoi_p_infty.png#center)
-](/wp-uploads/2015/09/voronoi_p_infty.png#center)
+[![voronoi_p_infty](/img/2015/09/voronoi_p_infty.png#center)
+](/img/2015/09/voronoi_p_infty.png#center)
 
 que tampoco difiere sustancialmente de las anteriores.
 
 Y para los amigos de la experimentación, aquí va `voronoi(0.8)` (recuérdese que $l_{0.8}$ no es una métrica: no respeta la desigualdad triangular, genera bolas no convexas, etc.),
 
-[![voronoi_p_08](/wp-uploads/2015/09/voronoi_p_08.png#center)
-](/wp-uploads/2015/09/voronoi_p_08.png#center)
+[![voronoi_p_08](/img/2015/09/voronoi_p_08.png#center)
+](/img/2015/09/voronoi_p_08.png#center)
 
 donde se aprecian las consecuencias de lo antedicho.

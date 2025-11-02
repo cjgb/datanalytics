@@ -21,8 +21,8 @@ url: /2013/03/19/mapas-realmente-necesarios/
 
 Creo que [no](https://datanalytics.com/2012/07/25/graficaca-2-0/). Lo reitero a cuenta de la entrada [_Sencillo, espectacular, falso_ de malaprensa.com](http://www.malaprensa.com/2013/03/sencillo-espectacular-falso.html), en que se critica el gráfico
 
-[![](/wp-uploads/2013/03/mapaespanahipotecas.jpg)
-](/wp-uploads/2013/03/mapaespanahipotecas.jpg)
+[![](/img/2013/03/mapaespanahipotecas.jpg)
+](/img/2013/03/mapaespanahipotecas.jpg)
 
 aparecido en El Confidencial.
 

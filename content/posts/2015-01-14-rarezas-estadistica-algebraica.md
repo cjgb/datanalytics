@@ -26,17 +26,17 @@ _**Proposición 1.1.2.** Las variables aleatorias [discretas] X e Y son independ
 
 Otros, sin embargo, son más crípticos:
 
-[![zariski_algebraic](/wp-uploads/2015/01/zariski_algebraic.png#center)
-](/wp-uploads/2015/01/zariski_algebraic.png#center)
+[![zariski_algebraic](/img/2015/01/zariski_algebraic.png#center)
+](/img/2015/01/zariski_algebraic.png#center)
 
 Confieso que el cálculo (exacto) de unos parámetros por máxima verosimilitud nunca me ha conducido al análisis de ecuaciones tales como
 
-[![mle_algebraic](/wp-uploads/2015/01/mle_algebraic.png#center)
-](/wp-uploads/2015/01/mle_algebraic.png#center)
+[![mle_algebraic](/img/2015/01/mle_algebraic.png#center)
+](/img/2015/01/mle_algebraic.png#center)
 
 Te aseguro que tampoco has visto jamás semejante caracterización del análisis factorial:
 
-[![fa_algebraic](/wp-uploads/2015/01/fa_algebraic.png#center)
-](/wp-uploads/2015/01/fa_algebraic.png#center)
+[![fa_algebraic](/img/2015/01/fa_algebraic.png#center)
+](/img/2015/01/fa_algebraic.png#center)
 
 En definitiva, si quieres aprender a _testar una parábola_ (ejemplo 2.3.5) o te encuentras a menudo con problemas cuya solución tal vez pueda expresarse como el cociente de dos números primos relativos de 530 y 552 dígitos respectivamente con un valor numérico aproximado de 7.78871633883867861133574286090e?23 la estadística algebraica es tu amiga.

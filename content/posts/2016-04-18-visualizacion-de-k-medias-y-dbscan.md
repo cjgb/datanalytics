@@ -23,7 +23,7 @@ En mi clase de aprendizaje no supervisado en el [máster de ciencia de datos de 
 
 Una alumna encontró [un recurso mucho mejor](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/).
 
-![dbscan](/wp-uploads/2016/04/dbscan.png#center)
+![dbscan](/img/2016/04/dbscan.png#center)
 
 
 Que trae, además, como _bonus_, una [ilustración del funcionamiento de DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) (véase también [esto](https://datanalytics.com/2015/11/04/dbscan-algo-nuevo-bajo-el-sol/)).

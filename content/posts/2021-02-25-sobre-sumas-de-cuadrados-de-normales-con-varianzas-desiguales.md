@@ -47,7 +47,7 @@ curve(dchisq(x, n), 0,
 
 que produce
 
-![](/wp-uploads/2021/02/chi2_01.png#center)
+![](/img/2021/02/chi2_01.png#center)
 
 El código genera `n` variables aleatorias normales estándar, las eleva al cuadrado, las suma, construye su histograma y lo compara con la densidad de la $\chi^2$ de `n` grados de libertad.
 
@@ -74,7 +74,7 @@ curve(dchisq(x, res$maximum), 0,
 
 Que produce
 
-![](/wp-uploads/2021/02/chi2_02.png#center)
+![](/img/2021/02/chi2_02.png#center)
 
 **III.**
 
@@ -99,7 +99,7 @@ hist(muestra, breaks = 100,
 
 Con lo que se obtiene
 
-![](/wp-uploads/2021/02/chi2_03.png#center)
+![](/img/2021/02/chi2_03.png#center)
 
 Obviamente, el soporte de ese histograma va a depender críticamente de la varianza de las observaciones, por lo que, extendiendo la corrección de la sección anterior, se escala
 
@@ -124,6 +124,6 @@ curve(dchisq(x, res$maximum), 0, max(muestra),
     add = T, col = "red")
 {{< / highlight >}}
 
-![](/wp-uploads/2021/02/chi2_04.png#center)
+![](/img/2021/02/chi2_04.png#center)
 
 Bueno, bien, vale, aceptamos barco. Es, efectivamente, la aproximación que se merecen los que aplican el `t.test` con varianzas desiguales.
