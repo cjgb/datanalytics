@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - sociología
 - encuestas
 - sesgos

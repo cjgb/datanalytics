@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - estadística
 - ciencias sociales
 - salario mínimo

@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - ponzi
 - fraude
 author: Carlos J. Gil Bellosta

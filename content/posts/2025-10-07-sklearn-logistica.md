@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - python
 - scikit-learn
 - regresión logística

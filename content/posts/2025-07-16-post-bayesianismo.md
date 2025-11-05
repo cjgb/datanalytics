@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - estadística bayesiana
 - postbayesianismo
 - nlp

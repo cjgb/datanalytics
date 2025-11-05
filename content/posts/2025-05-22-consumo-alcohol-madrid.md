@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - encuestas
 - epidemiología
 - alcohol

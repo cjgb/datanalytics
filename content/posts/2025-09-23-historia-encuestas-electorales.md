@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - encuestas
 - encuestas electorales
 - cis

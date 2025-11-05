@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - estadística bayesiana
 - bayesianismo
 - epistemología

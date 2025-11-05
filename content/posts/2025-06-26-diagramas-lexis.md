@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - estadística
 - demografía
 - gráficos

@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - estadística pública
 author: Carlos J. Gil Bellosta
 categories:

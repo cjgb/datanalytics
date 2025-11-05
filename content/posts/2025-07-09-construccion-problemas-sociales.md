@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - sociología
 - estadística
 - mala-ciencia

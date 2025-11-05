@@ -1,5 +1,5 @@
 ---
--tags:
+tags:
 - cis
 - estadística
 - sociología
