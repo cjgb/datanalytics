@@ -12,7 +12,7 @@ related:
 - 2020-02-26-algoritmos-y-acatarrantes-definiciones-de-justicia.md
 - 2024-03-05-sobreajuste-modelos-bayesianos.md
 - 2025-04-17-auc-vs-dispersion-p.md
--tags:
+tags:
 - sesgo
 - calibración
 title: Sesgo, calibración y variabilidad

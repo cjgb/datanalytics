@@ -30,7 +30,7 @@ def get_header(fname):
         tmp['date'] = tmp['date'].date()
     return tmp
 
-headers = [get_header(f) for f in all_posts]
+headers = [get_header(f) for f in all_posts if f.endswith('.md')]
 headers = [h for h in headers if 'tags' in h]
 tags = [h['tags'] for h in headers if h['date'] < datetime.date.today()]
 tags = [t for lt in tags for t in lt if t is not None]

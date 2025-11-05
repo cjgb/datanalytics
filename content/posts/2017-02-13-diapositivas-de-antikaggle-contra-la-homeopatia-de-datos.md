@@ -22,7 +22,7 @@ title: 'Diapositivas de "Antikaggle: contra la homeopatía de datos"'
 url: /2017/02/13/diapositivas-de-antikaggle-contra-la-homeopatia-de-datos/
 ---
 
-He colgado las [diapositivas de _Antikaggle: contra la homeopatía de datos_](https://datanalytics.com/uploads/charla_antikaggle/index.html). Sobre todo, para que aquellos que aún conserven la pasión por saber más puedan visitar los enlaces que recopilé y que figuran en ella.
+He colgado las [diapositivas de _Antikaggle: contra la homeopatía de datos_](/charlas/charla_antikaggle/index.html). Sobre todo, para que aquellos que aún conserven la pasión por saber más puedan visitar los enlaces que recopilé y que figuran en ella.
 
 El vídeo, se dice, aparecerá pronto. Sin él, las diapositivas, puro soporte visual, quedan huérfanas.
 

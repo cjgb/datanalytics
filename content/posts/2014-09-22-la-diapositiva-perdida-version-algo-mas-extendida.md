@@ -25,7 +25,7 @@ url: /2014/09/22/la-diapositiva-perdida-version-algo-mas-extendida/
 
 Tuve que saltarme una diapositiva en el [DataBeers de Madrid](https://datanalytics.com/2014/09/18/recordatorio-esta-tarde-participo-en-el-databeers-de-madrid/) del pasado jueves.
 
-(A propósito, aquí están las [1+20 diapositivas](/uploads/charla_databeers_201409.pdf).)
+(A propósito, aquí están las [1+20 diapositivas](/charlas/charla_databeers_201409.pdf).)
 
 La decimonona, de la que trata la entrada, viene a hablar de lo siguiente. Tenemos una base de datos con sujetos (`ids`) que hacen cosas en determinados momentos. No es inhabitual calcular la _frecuencia_ de esos sujetos así:
 
