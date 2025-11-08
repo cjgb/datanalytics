@@ -20,7 +20,7 @@ title: Diapositivas con reveal.js y yeoman
 url: /2018/04/25/diapositivas-con-reveal-js-y-yeoman/
 ---
 
-Alguna vez me han preguntado cómo construyo diapositivas como [estas](https://datanalytics.com/uploads/charla_stack_analitico/charla_stack_analitico_201705.html#/).
+Alguna vez me han preguntado cómo construyo diapositivas como [estas](/charlas/charla_stack_analitico/charla_stack_analitico_201705.html#/).
 
 La respuesta: uso [`reveal.js`](https://github.com/hakimel/reveal.js/) (que me da prácticamente todo lo que se ve) y me apoyo en el generador [`generator-reveal`](https://github.com/slara/generator-reveal) de [`yeoman`](http://yeoman.io/) para automatizar algunas tareas. Además, casi todas las diapositivas están escritas en `markdown`.
 

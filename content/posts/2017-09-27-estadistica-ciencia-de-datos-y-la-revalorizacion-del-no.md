@@ -21,6 +21,6 @@ title: Estadística, ciencia de datos y la revalorización del no
 url: /2017/09/27/estadistica-ciencia-de-datos-y-la-revalorizacion-del-no/
 ---
 
-Ya están disponibles las [diapositivas de mi charla del lunes](https://datanalytics.com/uploads/estadistica_ciencia_datos/#/).
+Ya están disponibles las [diapositivas de mi charla del lunes](/charlas/estadistica_ciencia_datos/#/).
 
 En los próximos días iré desarrollando algunas de las ideas, prometo que para nada estándares, que recorre en estas páginas. Les pondré un par de rombos en la esquina para avisar de que pueden resultar (lo comprobé el lunes aunque no entiendo por qué) ofensivas para personas de cierto perfil.

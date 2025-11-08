@@ -4,7 +4,6 @@ categories:
 - ciencia de datos
 - estadística
 date: 2019-04-16 09:13:23+00:00
-draft: false
 lastmod: '2025-04-06T19:08:06.461634'
 related:
 - 2024-02-01-optimizacion-generalizacion.md
@@ -16,7 +15,7 @@ tags:
 - ciencia de datos
 - errores
 - validación cruzada
-title: Sobre el error de generalización (porque a veces se  nos olvida)
+title: Sobre el error de generalización (porque a veces se nos olvida)
 url: /2019/04/16/sobre-el-error-de-generalizacion-porque-a-veces-se-nos-olvida/
 ---
 

@@ -21,7 +21,7 @@ title: Las diapositivas de mi charla sobre sobredispersión en modelos de Poisso
 url: /2020/09/28/las-diapositivas-de-mi-charla-sobre-sobredispersion-en-modelos-de-poisson-disponibles/
 ---
 
-Están [aquí](https://datanalytics.com/uploads/charla_r-es_202009_poisson.html#/).
+Están [aquí](/charlas/charla_r-es_202009_poisson.html#/).
 
 Dos aclaraciones:
 

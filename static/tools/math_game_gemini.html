@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Game for Kids</title>
+    <!-- Load Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Use a monospace font for number alignment */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .problem-font {
+            font-family: 'Courier New', Courier, monospace;
+        }
+        /* Style for the input fields to make them look clean */
+        .answer-input {
+            @apply w-16 h-16 text-5xl text-center border-2 border-gray-300 rounded-lg shadow-inner;
+            @apply focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-300;
+            @apply disabled:bg-gray-100 disabled:cursor-not-allowed;
+            /* Prevents the default number input spinners */
+            -moz-appearance: textfield;
+        }
+        .answer-input::-webkit-outer-spin-button,
+        .answer-input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+
+    <main class="bg-white p-8 rounded-2xl shadow-2xl max-w-md w-full text-center">
+        
+        <h1 class="text-3xl font-bold text-gray-800 mb-6">Math Whiz!</h1>
+
+        <!-- Problem Area -->
+        <div id="problem-container" class="my-8">
+            <div class="grid grid-cols-2 w-40 mx-auto text-5xl problem-font">
+                <!-- Row 1: First Number -->
+                <span class="text-left"></span>
+                <span id="operand1" class="text-right pr-2">35</span>
+
+                <!-- Row 2: Operator and Second Number -->
+                <span id="operator" class="text-left pl-2">+</span>
+                <span id="operand2" class="text-right pr-2">8</span>
+
+                <!-- Horizontal Line -->
+                <div class="col-span-2 border-b-4 border-gray-800 my-3"></div>
+
+                <!-- Row 3: Answer Inputs -->
+                <input type="text" id="tens-input" maxlength="1" class="answer-input" disabled>
+                <input type="text" id="units-input" maxlength="1" class="answer-input">
+            </div>
+        </div>
+
+        <!-- Feedback Message -->
+        <p id="feedback-message" class="text-xl h-12 font-medium text-gray-700"></p>
+
+        <!-- Control Buttons -->
+        <div class="mt-6">
+            <button id="check-btn" class="w-full bg-blue-600 text-white text-xl font-bold py-3 px-6 rounded-lg shadow-lg hover:bg-blue-700 transition duration-300">
+                Check My Answer
+            </button>
+            <button id="next-btn" class="w-full bg-green-600 text-white text-xl font-bold py-3 px-6 rounded-lg shadow-lg hover:bg-green-700 transition duration-300" style="display: none;">
+                Next Problem
+            </button>
+        </div>
+
+    </main>
+
+    <script>
+        // Get all the necessary DOM elements
+        const operand1El = document.getElementById('operand1');
+        const operand2El = document.getElementById('operand2');
+        const operatorEl = document.getElementById('operator');
+        const unitsInput = document.getElementById('units-input');
+        const tensInput = document.getElementById('tens-input');
+        const feedbackEl = document.getElementById('feedback-message');
+        const checkBtn = document.getElementById('check-btn');
+        const nextBtn = document.getElementById('next-btn');
+
+        // Store the correct answer
+        let correctAnswer;
+
+        /**
+         * Generates a new math problem
+         */
+        function generateProblem() {
+            let num1, num2;
+            const operation = Math.random() < 0.5 ? '+' : '-';
+
+            if (operation === '+') {
+                // ADDITION
+                // Generate two numbers from 0 to 40
+                num1 = Math.floor(Math.random() * 41);
+                num2 = Math.floor(Math.random() * 41);
+                
+                // Ensure the total sum is 99 or less (to fit in two digits)
+                while (num1 + num2 > 99) {
+                    num1 = Math.floor(Math.random() * 41);
+                    num2 = Math.floor(Math.random() * 41);
+                }
+                correctAnswer = num1 + num2;
+                operatorEl.textContent = '+';
+            } else {
+                // SUBTRACTION
+                // Generate a number from 1 to 40 (to avoid 0 - 0)
+                num1 = Math.floor(Math.random() * 40) + 1;
+                // Generate a second number that is *smaller* than the first
+                // This ensures the result is always > 0
+                num2 = Math.floor(Math.random() * num1); 
+
+                correctAnswer = num1 - num2;
+                operatorEl.textContent = '−'; // Using the subtraction sign
+            }
+
+            // Update the UI with the new problem
+            operand1El.textContent = num1;
+            operand2El.textContent = num2;
+
+            // Reset the interface
+            resetInputs();
+            feedbackEl.textContent = 'Enter the answer below:';
+            feedbackEl.className = 'text-xl h-12 font-medium text-gray-700';
+            checkBtn.style.display = 'inline-block';
+            nextBtn.style.display = 'none';
+            unitsInput.focus();
+        }
+
+        /**
+         * Resets the input fields
+         */
+        function resetInputs() {
+            unitsInput.value = '';
+            tensInput.value = '';
+            unitsInput.disabled = false;
+            tensInput.disabled = true;
+        }
+
+        /**
+         * Checks the user's answer
+         */
+        function checkAnswer() {
+            const unitsVal = unitsInput.value || '0';
+            const tensVal = tensInput.value || '0';
+            
+            // Combine tens and units to get the full answer
+            const userAnswer = parseInt(tensVal + unitsVal, 10);
+
+            if (userAnswer === correctAnswer) {
+                // Correct Answer
+                feedbackEl.textContent = 'Congratulations! That is correct!';
+                feedbackEl.className = 'text-xl h-12 font-medium text-green-600';
+                
+                // Show the "Next" button and hide "Check"
+                checkBtn.style.display = 'none';
+                nextBtn.style.display = 'inline-block';
+                
+                // Disable inputs
+                unitsInput.disabled = true;
+                tensInput.disabled = true;
+                nextBtn.focus();
+            } else {
+                // Incorrect Answer
+                feedbackEl.textContent = 'Not quite. Please try harder!';
+                feedbackEl.className = 'text-xl h-12 font-medium text-red-600';
+                
+                // Reset inputs and focus on units
+                resetInputs();
+                unitsInput.focus();
+            }
+        }
+
+        /**
+         * Filters input to allow only single digits (0-9)
+         */
+        function filterInput(event) {
+            // Replace any non-digit character with an empty string
+            event.target.value = event.target.value.replace(/[^0-9]/g, '');
+        }
+
+        // --- Event Listeners ---
+
+        // Listen for input on the units field
+        unitsInput.addEventListener('input', (e) => {
+            filterInput(e);
+            if (e.target.value.length > 0) {
+                // If a unit is entered, enable and focus the tens input
+                tensInput.disabled = false;
+                tensInput.focus();
+            }
+        });
+
+        // Listen for input on the tens field
+        tensInput.addEventListener('input', (e) => {
+            filterInput(e);
+            if (e.target.value.length > 0) {
+                // If a ten is entered, focus the check button
+                checkBtn.focus();
+            }
+        });
+
+        // Handle "Backspace" in the tens input
+        tensInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Backspace' && tensInput.value === '') {
+                // If backspace is pressed in an empty tens input,
+                // move focus back to the units input.
+                unitsInput.focus();
+            }
+        });
+
+        // "Check Answer" button click
+        checkBtn.addEventListener('click', checkAnswer);
+
+        // "Next Problem" button click
+        nextBtn.addEventListener('click', generateProblem);
+
+        // Allow pressing "Enter" to check the answer
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                if (nextBtn.style.display === 'none') {
+                    // If "Check" is visible, click it
+                    checkBtn.click();
+                } else {
+                    // If "Next" is visible, click it
+                    nextBtn.click();
+                }
+            }
+        });
+
+        // Generate the first problem when the page loads
+        document.addEventListener('DOMContentLoaded', generateProblem);
+
+    </script>
+</body>
+</html>
+

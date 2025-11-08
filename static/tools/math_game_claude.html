@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Game - Addition & Subtraction</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .game-container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            text-align: center;
+            max-width: 500px;
+        }
+        
+        h1 {
+            color: #667eea;
+            margin-top: 0;
+        }
+        
+        .problem-display {
+            font-size: 48px;
+            font-weight: bold;
+            margin: 30px 0;
+            display: inline-block;
+        }
+        
+        .number-row {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            margin: 10px 0;
+            gap: 10px;
+        }
+        
+        .operation-symbol {
+            width: 40px;
+            text-align: center;
+            color: #764ba2;
+        }
+        
+        .number {
+            font-family: monospace;
+            letter-spacing: 10px;
+            min-width: 120px;
+            text-align: right;
+        }
+        
+        .line {
+            border-bottom: 4px solid #333;
+            margin: 5px 0 5px 40px;
+        }
+        
+        .answer-row {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        
+        .answer-inputs {
+            display: flex;
+            gap: 5px;
+            font-family: monospace;
+            font-size: 48px;
+        }
+        
+        input.digit {
+            width: 60px;
+            height: 70px;
+            font-size: 48px;
+            text-align: center;
+            border: 3px solid #667eea;
+            border-radius: 10px;
+            font-family: monospace;
+            font-weight: bold;
+        }
+        
+        input.digit:focus {
+            outline: none;
+            border-color: #764ba2;
+            box-shadow: 0 0 10px rgba(118, 75, 162, 0.5);
+        }
+        
+        input.digit:disabled {
+            background-color: #f0f0f0;
+            border-color: #ccc;
+        }
+        
+        .feedback {
+            min-height: 60px;
+            margin: 20px 0;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .feedback.correct {
+            color: #10b981;
+        }
+        
+        .feedback.incorrect {
+            color: #ef4444;
+        }
+        
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 20px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+        
+        button:hover {
+            transform: scale(1.05);
+        }
+        
+        button:active {
+            transform: scale(0.95);
+        }
+        
+        .score {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="game-container">
+        <h1>🎮 Math Practice Game</h1>
+        
+        <div class="problem-display">
+            <div class="number-row">
+                <div class="operation-symbol"></div>
+                <div class="number" id="num1"></div>
+            </div>
+            <div class="number-row">
+                <div class="operation-symbol" id="operation"></div>
+                <div class="number" id="num2"></div>
+            </div>
+            <div class="line"></div>
+            <div class="answer-row">
+                <div class="operation-symbol"></div>
+                <div class="answer-inputs">
+                    <input type="text" class="digit" id="tens" maxlength="1" disabled>
+                    <input type="text" class="digit" id="units" maxlength="1">
+                </div>
+            </div>
+        </div>
+        
+        <div class="feedback" id="feedback"></div>
+        
+        <button id="nextBtn" style="display: none;">Next Problem</button>
+        
+        <div class="score">
+            Correct: <span id="correct">0</span> | 
+            Attempts: <span id="attempts">0</span>
+        </div>
+    </div>
+
+    <script>
+        let currentNum1, currentNum2, currentOperation, correctAnswer;
+        let correctCount = 0;
+        let attemptCount = 0;
+        
+        const num1El = document.getElementById('num1');
+        const num2El = document.getElementById('num2');
+        const operationEl = document.getElementById('operation');
+        const unitsInput = document.getElementById('units');
+        const tensInput = document.getElementById('tens');
+        const feedbackEl = document.getElementById('feedback');
+        const nextBtn = document.getElementById('nextBtn');
+        const correctEl = document.getElementById('correct');
+        const attemptsEl = document.getElementById('attempts');
+        
+        function generateProblem() {
+            currentNum1 = Math.floor(Math.random() * 41);
+            currentNum2 = Math.floor(Math.random() * 41);
+            currentOperation = Math.random() < 0.5 ? '+' : '-';
+            
+            if (currentOperation === '-') {
+                // Ensure subtraction result is >= 0
+                if (currentNum1 < currentNum2) {
+                    [currentNum1, currentNum2] = [currentNum2, currentNum1];
+                }
+                correctAnswer = currentNum1 - currentNum2;
+            } else {
+                correctAnswer = currentNum1 + currentNum2;
+            }
+            
+            num1El.textContent = currentNum1;
+            num2El.textContent = currentNum2;
+            operationEl.textContent = currentOperation;
+            
+            unitsInput.value = '';
+            tensInput.value = '';
+            unitsInput.disabled = false;
+            tensInput.disabled = true;
+            feedbackEl.textContent = '';
+            feedbackEl.className = 'feedback';
+            nextBtn.style.display = 'none';
+            unitsInput.focus();
+        }
+        
+        function checkAnswer() {
+            const unitsValue = unitsInput.value;
+            const tensValue = tensInput.value;
+            
+            if (unitsValue === '') return;
+            
+            const userAnswer = (tensValue === '' ? 0 : parseInt(tensValue)) * 10 + parseInt(unitsValue);
+            
+            if (userAnswer === correctAnswer) {
+                feedbackEl.textContent = '🎉 Excellent! That\'s correct!';
+                feedbackEl.className = 'feedback correct';
+                correctCount++;
+                attemptCount++;
+                correctEl.textContent = correctCount;
+                attemptsEl.textContent = attemptCount;
+                unitsInput.disabled = true;
+                tensInput.disabled = true;
+                nextBtn.style.display = 'inline-block';
+            } else {
+                feedbackEl.textContent = '💪 Try again! You can do it!';
+                feedbackEl.className = 'feedback incorrect';
+                attemptCount++;
+                attemptsEl.textContent = attemptCount;
+            }
+        }
+        
+        unitsInput.addEventListener('input', function(e) {
+            this.value = this.value.replace(/[^0-9]/g, '');
+            
+            if (this.value !== '') {
+                // Enable tens input after units is filled
+                tensInput.disabled = false;
+                
+                // If answer is single digit, check immediately
+                if (correctAnswer < 10) {
+                    checkAnswer();
+                } else {
+                    tensInput.focus();
+                }
+            }
+        });
+        
+        tensInput.addEventListener('input', function(e) {
+            this.value = this.value.replace(/[^0-9]/g, '');
+            
+            if (this.value !== '') {
+                checkAnswer();
+            }
+        });
+        
+        nextBtn.addEventListener('click', generateProblem);
+        
+        // Allow Enter key to move to next problem
+        document.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && nextBtn.style.display !== 'none') {
+                generateProblem();
+            }
+        });
+        
+        // Start the game
+        generateProblem();
+    </script>
+</body>
+</html>

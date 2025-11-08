@@ -24,4 +24,4 @@ url: /2016/11/22/el-guion-de-mi-charla-sobre-microdatos/
 
 No auncié mi pequeña charla/taller del sábado pasado sobre microdatos porque la sala tenía un aforo ínfimo y en el [Meetup correspondiente](https://www.meetup.com/Madrid-Periodismo-de-datos-Meetup/events/235620497/?_locale=es-ES) había lista de espera.
 
-Pero [cuelgo el material](https://datanalytics.com/uploads/microdatos_medialab_20161119.html) (que es un guión; no hay presentación) por si a alguien le resulta útil.
+Pero [cuelgo el material](/charlas/microdatos_medialab_20161119.html) (que es un guión; no hay presentación) por si a alguien le resulta útil.

@@ -34,4 +34,4 @@ El resumen que preparé es:
 
 Los detalles espaciotemporales y otras concomitancias relevantes para los asistentes pueden consultarse [aquí](https://www.eventbrite.es/e/entradas-data-konferences-52531154096).
 
-**Addenda:** Las diapositivas de la charla pueden consultarse [aquí](/uploads/charla_konference_decisiones_201811/charla_konference_decisiones_201811.html).
+**Addenda:** Las diapositivas de la charla pueden consultarse [aquí](/charlas/charla_konference_decisiones_201811/charla_konference_decisiones_201811.html).

@@ -20,6 +20,6 @@ title: Diapositivas (y código fuente) de mi charla sobre rstan
 url: /2016/02/12/diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan/
 ---
 
-Las diapositivas de mi [charla sobre `rstan` en el grupo de usuarios de R de Madrid del 2016-02-11](https://datanalytics.com/2016/02/08/rstan-y-rstanarm-en-medialab-prado-este-jueves/) están [aquí](/uploads/charla_grupo_usuarios_r_madrid_20160211.zip).
+Las diapositivas de mi [charla sobre `rstan` en el grupo de usuarios de R de Madrid del 2016-02-11](https://datanalytics.com/2016/02/08/rstan-y-rstanarm-en-medialab-prado-este-jueves/) están [aquí](/charlas/charla_grupo_usuarios_r_madrid_20160211.zip).
 
 (Y los [vídeos](http://madrid.r-es.org/32-jueves-11-de-enero-2016/)).

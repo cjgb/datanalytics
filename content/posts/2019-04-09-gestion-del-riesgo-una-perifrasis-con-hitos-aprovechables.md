@@ -34,10 +34,10 @@ Así, cita y se refiere a la diferencia entre incertidumbre y riesgo a lo Knight
 
 Otra idea rescatable que atraviesa el texto que comento es resumida así por el autor:
 
->Una de las lecciones básicas de valoración de activos que le intentamos inculcar a nuestros estudiantes es que las covarianzas son mucho más importantes que las varianzas.
+>Una de las lecciones básicas de valoración de activos que le[s] intentamos inculcar a nuestros estudiantes es que las covarianzas son mucho más importantes que las varianzas.
 
-Para los que no estén puestos en el  lenguaje arcaizante de las varianzas y covarianzas: se refiere a las distribuciones marginales (varianzas) y conjuntas (covarianzas). No obstante, lo mejor de toda la entrada está en la nota 3, que dice:
+Para los que no estén puestos en el lenguaje arcaizante de las varianzas y covarianzas: se refiere a las distribuciones marginales (varianzas) y conjuntas (covarianzas). No obstante, lo mejor de toda la entrada está en la nota 3, que dice:
 
->El diseño de política económica ha de incorporar consideraciones relacionadas con la posibilidad de que no tengamos el modelo correcto del mundo (¿sabemos de verdad la relación entre crecimiento del PIB y tipos impositivos?) Como en el texto principal, la consideración explícita de la robustez suele llevar a políticas más cautas y que sobrevalores los riesgos de tener una deuda alta.
+> El diseño de política económica ha de incorporar consideraciones relacionadas con la posibilidad de que no tengamos el modelo correcto del mundo (¿sabemos de verdad la relación entre crecimiento del PIB y tipos impositivos?) Como en el texto principal, la consideración explícita de la robustez suele llevar a políticas más cautas y que sobrevaloren los riesgos de tener una deuda alta.
 
 Como autor ocasional de _modelos del mundo_, no puedo estar más de acuerdo.

@@ -26,5 +26,5 @@ Vienen a ser la versión geo de las [_sparklines_](https://en.wikipedia.org/wiki
 
 Notas:
 
-* El gráfico anterior no es mío. El [código (y datos) con el que se generó](https://www.datanalytics.com/uploads/micromap.zip) tampoco. Son de Susana Huedo, exalumna.
+* El gráfico anterior no es mío. El [código (y datos) con el que se generó](/uploads/micromap.zip) tampoco. Son de Susana Huedo, exalumna.
 * Está basado (todo hay que decirlo) en código de terceros y debería acordarme de cuál de ellos. Pero no es el caso.

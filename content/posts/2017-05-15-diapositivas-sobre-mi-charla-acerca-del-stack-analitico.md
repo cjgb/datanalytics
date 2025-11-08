@@ -25,6 +25,6 @@ Tuve ocasión el pasado jueves, en Barcelona y gracias a la invitación de [KSch
 
 ![](/img/2017/05/pila_paja.jpg)
 
-Las diapositivas de la charla están [aquí](http://datanalytics.com/uploads/charla_stack_analitico/charla_stack_analitico_201705.html).
+Las diapositivas de la charla están [aquí](/charlas/charla_stack_analitico/charla_stack_analitico_201705.html).
 
 El tema es viejo pero no por ello menos urgente: existen herramientas (y, desgraciadamente, me he visto a incluir el saber leer documentación técnica en inglés) cuyo conocimiento es imperativo para poder trabajar de manera efectiva en ciencia de datos. Incluidos están sistemas operativos (dencentes), editores de texto (decentes) e IDEs y, como poco, un [lenguaje de programación](http://andrewgelman.com/2017/05/14/computer-programming-prerequisite-learning-statistics/).

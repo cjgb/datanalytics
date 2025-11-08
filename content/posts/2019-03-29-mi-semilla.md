@@ -28,4 +28,4 @@ runif(1)
 #[1] 0.4866672
 {{< / highlight >}}
 
-**Coda:** ¿De qué si no creéis que iba esto?
+**Coda:** ¿De qué, si no, creéis que iba esto?

@@ -26,7 +26,7 @@ Copio aquí el anuncio de un nuevo curso de análisis de datos ([_ómicos_ ](htt
 
 >Nos complace anunciaros que el [CREAL](http://www.creal.cat/es_index.html) organiza la segunda edición del "Curso de análisis de estadístico de datos ómicos" que va a celebrarse los días 8, 9 y 10 de abril de 2014. Debajo podréis encontrar cómo hacer la inscripción que se llevará a cabo por estricto orden de petición y sólo será posible para los primeros 16 pre-inscritos.
 >
->[Más información (pdf).](/uploads/Curso_analisis_datos_omicos_2a_edicion.pdf)
+>[Más información (pdf).](/pdf/Curso_analisis_datos_omicos_2a_edicion.pdf)
 >
 >Este curso pretenden introducir a los investigadores al análisis de datos que se están generando con las nuevas tecnologías de secuenciación, así como facilitar a aquellos que ya disponen de datos, su análisis e interpretación de resultados. El curso es un curso práctico en el que se utilizará una metodología similar a la que se ha usado en otros cursos anteriores y que tan buenos resultados ha obtenido. El coste del curso, junto con el temario también se encuentra en el documento adjunto.
 >

@@ -28,4 +28,4 @@ precisamente porque una de las propiedades más fructíferas de las bolas en alt
 
 Si tienes $n$ variables continuas, el número de cuadrantes del espacio en el que viven es $2^n$. Con 20 variables, son un millón (aproximado) de cuadrantes. ¡Una muestra de menos de un millón de datos ni siquiera podría explorarlos todos!
 
-Por  eso, cuando se usa MCMC en dimensiones altas, [no tiene mucho sentido decir que el proceso muestrea la ](https://statmodeling.stat.columbia.edu/2019/03/25/mcmc-does-not-explore-posterior/)_[posteriori](https://statmodeling.stat.columbia.edu/2019/03/25/mcmc-does-not-explore-posterior/)_. Lo que ocurre es otra cosa distinta. Útil, sí, pero distinta.
+Por eso, cuando se usa MCMC en dimensiones altas, [no tiene mucho sentido decir que el proceso muestrea la ](https://statmodeling.stat.columbia.edu/2019/03/25/mcmc-does-not-explore-posterior/)_[posteriori](https://statmodeling.stat.columbia.edu/2019/03/25/mcmc-does-not-explore-posterior/)_. Lo que ocurre es otra cosa distinta. Útil, sí, pero distinta.

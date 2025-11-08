@@ -1,6 +1,6 @@
 ---
 author: datanalytics
-date: 2010-05-30 12:01:22+00:00
+date: 2025-11-07
 draft: false
 title: Sobre mí
 type: page
@@ -21,6 +21,6 @@ Echó a andar Datanalytics en 2005 y ha trabajado con datos grandes y pequeños 
 
 Es un miembro activo de la comunidad de usuarios de R, ha desarrollado varios paquetes, y fue cofundador y primer presidente de la asociación de usuarios de R ([Comunidad R Hispano](http://r-es.org)) desde su fundación en 2011 hasta 2019.
 
-Estas páginas reflejan sus gustos e intereses intelectuales y profesionales más fielmente que su CV ([corto](../uploads/cv_gil_bellosta_es.pdf), [largo](../uploads/cv_gil_bellosta_en.pdf)).
+Estas páginas reflejan sus gustos e intereses intelectuales y profesionales más fielmente que su CV ([corto](/pdf/cv_gil_bellosta_es.pdf), [largo](/pdf/cv_gil_bellosta_en.pdf)).
 
 Sus coordenadas están [aquí](https://www.google.ch/search?q=gil+bellosta). También se le puede escribir a [@gilbellosta](https://twitter.com/gilbellosta).
