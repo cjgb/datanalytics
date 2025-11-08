@@ -2,7 +2,6 @@
 author: Carlos J. Gil Bellosta
 categories:
 - r
-- stackoverflow
 date: 2010-01-25
 lastmod: '2025-04-06T19:07:24.953770'
 noindex: true
@@ -14,6 +13,7 @@ related:
 - 2012-06-07-hoy-hablaremos-de-r-es-org.md
 tags:
 - r
+- stackoverflow
 title: Ayuda de R en Stack Overflow
 url: /2010/01/25/ayuda-de-r-en-stackoverflow/
 ---

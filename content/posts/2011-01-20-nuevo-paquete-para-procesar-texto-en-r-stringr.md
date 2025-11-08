@@ -1,10 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
-- nlp
 - r
-- paquetes
-- stringr
 date: 2011-01-20 09:56:47+00:00
 draft: false
 lastmod: '2025-04-06T18:45:49.918116'
@@ -18,6 +15,7 @@ tags:
 - paquetes
 - r
 - nlp
+- stringr
 title: 'Nuevo paquete para procesar texto en R: stringr'
 url: /2011/01/20/nuevo-paquete-para-procesar-texto-en-r-stringr/
 ---
