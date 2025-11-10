@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2016-10-17 08:13:59+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:17.641493'
 related:
 - 2016-11-29-probabilidades-de-empates-en-elecciones.md
