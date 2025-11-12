@@ -4,7 +4,6 @@ categories:
 - estadística
 - r
 date: 2019-05-31 09:11:07+00:00
-draft: false
 lastmod: '2025-04-06T19:05:42.906957'
 related:
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
@@ -18,8 +17,7 @@ tags:
 - r
 - series temporales
 - stan
-title: 'Modelos GARCH (o: no me cuentes tu vida, dame el pxxx modelo generativo y
-  ya)'
+title: 'Modelos GARCH (o: no me cuentes tu vida, dame el pxxx modelo generativo y ya)'
 url: /2019/05/31/modelos-garch-o-no-me-cuentes-tu-vida-dame-el-p-modelo-generativo-y-ya/
 ---
 
@@ -43,8 +41,7 @@ sigma <- rep(sigma0, n)
 x <- rep(rnorm(1, mu, sigma), n)
 
 for(i in 2:n){
-  sigma[i] <- sqrt(a0 + a1 * x[i-1]^2 +
-      a2 * sigma[i-1]^2)
+  sigma[i] <- sqrt(a0 + a1 * x[i-1]^2 + a2 * sigma[i-1]^2)
   x[i] <- rnorm(1, mu, sigma[i])
 }
 

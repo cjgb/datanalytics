@@ -24,7 +24,7 @@ url: /2019/05/10/un-reciproco-para-el-teorema-de-bernstein-von-mises/
 
 [Aquí](http://dklevine.com/archive/refs4512.pdf) se describe una suerte de recíproco para el teorema de [Bernstein–von Mises](https://datanalytics.com/2018/03/02/reflexiones-bayesianas-al-hilo-del-manido-independientemente-de-su-ideologia-los-economistas-suelen-estar-de-acuerdo-en-que/). [Aquí](http://sigbovik.org/2019/proceedings.pdf#page=8) se resume de esta manera:
 
->The celebrated Aumann’s Agreement Theorem shows that two rational agents with the same priors on an event who make different observations will always converge on the same posteriors after some civilized conversation over tea.
+> El famoso teorema del acuerdo de Aumann demuestra que dos agentes racionales con las mismas prioris sobre un fenómeno pero que observan datos distintos llegarán a un consenso sobre las posterioris después de una charla civilizada mientras se toman té.
 
 En resumen:
 

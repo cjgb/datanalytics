@@ -26,7 +26,7 @@ Aprovechando que el paquete [`GameTheoryAllocation`](https://cran.r-project.org/
 
 ![](/img/2019/05/indice_shapley.png#center)
 
-Al  menos, de acuerdo con el siguiente código:
+Al menos, de acuerdo con el siguiente código:
 
 {{< highlight R >}}
 library(GameTheoryAllocation)
@@ -56,9 +56,9 @@ dotchart(res, labels = names(res),
 
 Lo del índice de Shapley, de ignorarlo, lo tendréis que consultar por vuestra cuenta. Al menos, para saber por qué no debería usarse tan frecuentemente (en problemas de atribución, entre otros).
 
-Y lo de naíf viene a cuento de en lo anterior se ha partido de varias hipótesis poco realistas. Entre ellas:
+Y lo de naíf viene a cuento de que en lo anterior se ha partido de varias hipótesis poco realistas. Entre ellas:
 
-* Que  los partidos colaboran y están dispuestos a colaborar. Sin embargo, es probable que ciertos partidos se nieguen en principio a coordinarse (piénsese en Vox y como quiera que se llame ahora Herri Batasuna; o, en muchos asuntos, entre PP y PSOE).
+* Que los partidos colaboran y están dispuestos a colaborar. Sin embargo, es probable que ciertos partidos se nieguen en principio a coordinarse (piénsese en Vox y como quiera que se llame ahora Herri Batasuna; o, en muchos asuntos, entre PP y PSOE).
 * Que no se tiene en cuenta la posibilidad de alcanzar mayorías simples (dado que los partidos pueden abstenerse).
 
 Por lo tanto, una versión menos naíf del código anterior debería reemplazar la definición `profit <- 1 * (profit > 175)` por una fórmula más compleja. Pero no seré yo...

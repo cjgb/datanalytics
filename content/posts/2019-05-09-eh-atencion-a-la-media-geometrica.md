@@ -21,13 +21,13 @@ title: ¡Eh! ¡Atención a la media geométrica!
 url: /2019/05/09/eh-atencion-a-la-media-geometrica/
 ---
 
-El insomnio y la serendipia me han hecho transitar por unas líneas en las que se lee:
+El insomnio y la serendipia me han hecho transitar por unas líneas en las que se lee (con mi traducción):
 
->A plausible guess is to use their arithmetic mean, which is roughly 150 people per square mile. However, **the right method is the geometric mean**:
+> Es razonable usar la media aritmética, que es de unas 150 personas por milla cuadrada. Sin embargo, **el método adecuado es el de la media geométrica**:
 >
 > $$ \text{best guess} = \sqrt{\text{lower endpoint} \times \text{upper endpoint}}.$$
 >
-> The geometric mean is the midpoint of the lower and upper bounds—but on a ratio or logarithmic scale, which is the scale built into our mental hardware. **The geometric mean is the correct mean when combining quantities produced by our mental hardware**.
+> La media geométrica da el punto medio de los extremos inferior y superior en la escala logarítmica, que es la que opera en nuestro _hardware_ mental. **La geométrica es la media correcta para combinar cantidades producidas por nuestro _hardware_ mental**.
 >
 > Sanjoy Mahajan, _The Art of Insight in Science and Engineering_
 

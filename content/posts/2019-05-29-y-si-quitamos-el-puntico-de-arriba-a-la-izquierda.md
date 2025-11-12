@@ -22,7 +22,7 @@ title: ¿Y si quitamos el puntico de arriba a la izquierda?
 url: /2019/05/29/y-si-quitamos-el-puntico-de-arriba-a-la-izquierda/
 ---
 
-Esta entrada es una illustración de otra de no hace mucho, _[Análisis de la discontinuidad + polinomios de grado alto = ...](https://datanalytics.com/2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/)_ Mirad:
+Esta entrada es una ilustración de otra de no hace mucho, [_Análisis de la discontinuidad + polinomios de grado alto = ..._](/2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/) Mirad:
 
 ![](/img/2019/05/regresion_polinomica_discontinudades.png#center)
 

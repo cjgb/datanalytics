@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2019-05-14 09:13:05+00:00
-draft: false
 lastmod: '2025-04-06T19:10:49.933105'
 related:
 - 2020-01-09-regresiones-con-discontinuidad-y-grados-de-libertad.md
@@ -18,6 +17,7 @@ tags:
 - polinomios
 - regresión
 - gelman
+- mala ciencia
 title: Análisis de la discontinuidad + polinomios de grado alto = ...
 url: /2019/05/14/analisis-de-la-discontinuidad-polinomios-de-grado-alto/
 ---
@@ -31,5 +31,4 @@ Si a eso le sumas que las regresiones pueden ser polinómicas con polinomios de 
 
 Es decir, la habitual chocolatada que algunos llaman _ciencia_ (cierto, algunos dirán que _mala_ ciencia, pero que, ¡ah!, nos cobran al mismo precio que la _buena_).
 
-¿Más detalles? Puede consultarse [_Evidence on the deleterious impact of
-sustained use of polynomial regression on causal inference_](http://www.stat.columbia.edu/~gelman/research/unpublished/rd_china_2.pdf?).
+¿Más detalles? Puede consultarse [_Evidence on the deleterious impact of sustained use of polynomial regression on causal inference_](http://www.stat.columbia.edu/~gelman/research/unpublished/rd_china_2.pdf).
