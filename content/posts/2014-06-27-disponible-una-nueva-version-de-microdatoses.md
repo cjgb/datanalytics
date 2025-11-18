@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2014-06-27 07:46:29+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:21.031092'
 related:
 - 2015-06-18-la-encuesta-de-presupuestos-familiares-en-microdatoses.md
