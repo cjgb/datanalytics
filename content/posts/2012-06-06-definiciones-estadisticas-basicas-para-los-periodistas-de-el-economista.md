@@ -21,7 +21,7 @@ url: /2012/06/06/definiciones-estadisticas-basicas-para-los-periodistas-de-el-ec
 
 Muy señores míos periodistas de El Economista: déjenme que les recuerde una definición estadística básica para que no vuelvan a meter la pata como en su reciente artículo _[¿Está la mitad de los jóvenes en paro? La tasa real sería del 18%](http://www.eleconomista.es/economia/noticias/4019425/06/12/Esta-la-mitad-de-los-jovenes-espanoles-en-paro-El-dato-es-enganoso-la-tasa-seria-del-18.html)_.
 
-Efectivamente, según la OECD, sólo el 18% de los españoles entre 15 y 24 años son desempleados. Un desempleado es una persona que no tiene trabajo y lo busca activamente. Y se supone que si estudia está... estudiando, no buscando trabajo.
+Efectivamente, según la OECD,solo el 18% de los españoles entre 15 y 24 años son desempleados. Un desempleado es una persona que no tiene trabajo y lo busca activamente. Y se supone que si estudia está... estudiando, no buscando trabajo.
 
 [![](/img/2012/06/BeattieBlog2new2.gif)
 ](/img/2012/06/BeattieBlog2new2.gif)

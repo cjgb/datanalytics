@@ -25,4 +25,4 @@ Fuera de esas biblias, hay recursos muy valiosos como este documento de recomend
 
 Y los amigos de los recetarios, disponen del _[R Graph Cookbook](http://www.packtpub.com/r-graph-cookbook/book)_, que puede descargarse libremente.
 
-Esta entrada cierra por el momento la serie dedicada a gráficos. Pero es sólo por el momento: en internet, los documentos están vivos y qué duda cabe que los seis artículos dedicados a gráficos podrán sufrir enmiendas y, sobre todo, añadidos. Porque están, seguro, plagadas de inexactitudes y, sobre todo, omisiones. ¿Me ayudarán mis lectores a subsanar las más sangrantes?
+Esta entrada cierra por el momento la serie dedicada a gráficos. Pero essolo por el momento: en internet, los documentos están vivos y qué duda cabe que los seis artículos dedicados a gráficos podrán sufrir enmiendas y, sobre todo, añadidos. Porque están, seguro, plagadas de inexactitudes y, sobre todo, omisiones. ¿Me ayudarán mis lectores a subsanar las más sangrantes?

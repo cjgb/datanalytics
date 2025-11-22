@@ -90,6 +90,6 @@ Es relativamente fácil ubicar la huelga general del 2002. La que hubo en septie
 
 Finalmente, ¿podría decirse que aunque parece aumentar el número de huelgas, estas afectan cada vez a menos trabajadores y restan menos jornadas de trabajo? ¿Se ve esa tendencia? ¿Es una tendencia o una mera ilusión sensorial?
 
-De ser tendencia, (y sólo de ser tendencia) ¿podría aventurarse alguna causa? ¿Huelgas más locales? ¿O menos interés y seguimiento por parte de los trabajadores?
+De ser tendencia, (ysolo de ser tendencia) ¿podría aventurarse alguna causa? ¿Huelgas más locales? ¿O menos interés y seguimiento por parte de los trabajadores?
 
 Finalmente, ¿nos satisface la información sobre huelgas que publica el INE? ¿Existen fuentes más completas? ¿Alguien las tiene ubicadas? ¿Son accesibles? ¿Permitiría la nueva ley de transparencia acceder a ellas?

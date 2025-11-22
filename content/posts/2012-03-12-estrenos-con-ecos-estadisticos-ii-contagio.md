@@ -40,7 +40,7 @@ Evoca el caso de la [controversia alrededor de la vacuna triple vírica](http://
 
 Y, en efecto, esto tuvo sus consecuencias:
 
->[...] la incidencia de las tres enfermedades creció de manera importante en el Reino Unido. Mientras que en 1998 sólo se confirmaron 56 casos de sarampión, en el 2006 hubo 449 durante los primeros cinco meses del año. Además, se registró la primera muerte por dicha causa desde 1992. Los casos afectaron a niños que no se habían vacunado adecuadamente. [...]
+>[...] la incidencia de las tres enfermedades creció de manera importante en el Reino Unido. Mientras que en 1998solo se confirmaron 56 casos de sarampión, en el 2006 hubo 449 durante los primeros cinco meses del año. Además, se registró la primera muerte por dicha causa desde 1992. Los casos afectaron a niños que no se habían vacunado adecuadamente. [...]
 
 Y, bueno, seguro que en todo esto algo de responsabilidad (o irresponsabilidad) tuvieron los medios... ¡pero esa es otra historia a la que, seguro, volveremos!
 

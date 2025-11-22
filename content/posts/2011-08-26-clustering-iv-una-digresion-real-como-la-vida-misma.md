@@ -45,7 +45,7 @@ Y acompaña el anterior párrafo del siguiente gráfico:
 
 En él pueden los lectores ver los famosos _clústers_: el de los solteros, los apóstoles, los _seniors_, los multiproducto. Cada globo, entiendo, tiene un tamaño proporcional (¿en radio? ¿en volumen?) al tamaño del _clúster_ que representa. Los ejes son la edad (horizontal) y el valor (vertical).
 
-Comencemos con un experimento mental: ¿qué forma tendría el gráfico de dispersión de los clientes individuales sobre esos ejes? ¿Estarían concentrados alrededor de los globos verdes? ¿Es razonable esperar que un único punto represente a todos los _seniors_ (jubilados)? ¿Entre los 30 y los 40 sólo existen _familias jóvenes_? ¿Todos los clientes en ese rango de edad tienen el mismo valor? ¿Sólo hay diferencias por valor en clientes entre 40 y 55 años? ¿Cuántos clientes no habrá en las zonas blancas del gráfico? ¿Y ninguno tiene un valor negativo?
+Comencemos con un experimento mental: ¿qué forma tendría el gráfico de dispersión de los clientes individuales sobre esos ejes? ¿Estarían concentrados alrededor de los globos verdes? ¿Es razonable esperar que un único punto represente a todos los _seniors_ (jubilados)? ¿Entre los 30 y los 40solo existen _familias jóvenes_? ¿Todos los clientes en ese rango de edad tienen el mismo valor? ¿Sólo hay diferencias por valor en clientes entre 40 y 55 años? ¿Cuántos clientes no habrá en las zonas blancas del gráfico? ¿Y ninguno tiene un valor negativo?
 
 Critico un ejemplo, sí, pero puede extenderse a muchas otras circunstancias análogas: píntense siete _clústers_ sobre dos ejes y seguro que podrán plantearse preguntas similares: son inherentes a la sobresimplificación.
 

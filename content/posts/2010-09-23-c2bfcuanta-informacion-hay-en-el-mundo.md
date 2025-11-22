@@ -27,7 +27,7 @@ Quien compone una canción, la incrementa en unos 4 MB. Y así, todos, diariamen
 
 * En el año 2002 se produjeron 5 exabytes de información, que es el equivalente a 37.000 bibliotecas iguales a [la mayor del mundo](http://www.loc.gov).
 * Esta cantidad representa 800 MB por persona, el equivalente a 500 volúmenes como [el Quijote](http://www.planetalibro.com.ar/ebooks/eam/ebook_view.php?ebooks_books_id=40); algo más, en total, de una tonelada de papel.
-* No obstante —y comprensiblemente—, sólo se almacenó en papel el 0,01% de ella. El grueso de dicha información, el 92%, se guardó en soportes magnéticos, principalmente, discos duros.
+* No obstante —y comprensiblemente—,solo se almacenó en papel el 0,01% de ella. El grueso de dicha información, el 92%, se guardó en soportes magnéticos, principalmente, discos duros.
 * Además, la cantidad de nueva información generada crece anualmente a un ritmo del 30%.
 * Crece incluso la cantidad de información sobre soporte de papel, aunque la generada por particulares en forma de cartas o documentos de oficina excede con mucho a la que se publica en forma de libros, periódicos o revistas.
 

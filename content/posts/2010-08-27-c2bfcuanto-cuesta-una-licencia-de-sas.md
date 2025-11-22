@@ -27,7 +27,7 @@ Existe un producto específico de SAS, [SAS Analytics Pro](http://www.sas.com/te
 [![](/img/2010/08/sas_analytics_pro.png#center)
 ](/img/2010/08/sas_analytics_pro.png#center)
 
-Tengo entendido que el producto tiene algunas restricciones. Por ejemplo, que sólo puedes utilizarlo para analizar tus propios datos. Si un señor viene, te pide que le calcules la media de unos números, utilizas SAS Analytics Pro para ello y le cobras, estás violando los términos de uso. ¡Cosas veredes!
+Tengo entendido que el producto tiene algunas restricciones. Por ejemplo, quesolo puedes utilizarlo para analizar tus propios datos. Si un señor viene, te pide que le calcules la media de unos números, utilizas SAS Analytics Pro para ello y le cobras, estás violando los términos de uso. ¡Cosas veredes!
 
 Pero, ¿cuánto valen los productos _de verdad_? La información no es pública y está sujeta a variaciones según múltiples criterios: país, tipo de cliente, habilidad del comercial, etc. Varía también según el sistema operativo utilizado, el número de CPU's, el de usuarios,... Es más opaco, en definitiva, que la telefonía móvil.
 

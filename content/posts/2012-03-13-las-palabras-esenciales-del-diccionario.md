@@ -54,7 +54,7 @@ Y eso me permite responder una serie de preguntas. Por ejemplo, **¿cuántas pal
 
 Las restantes 36148 palabras se usan en las definiciones de otras y van desde a, ababol, abacá, abacal, abacería, y ábaco hasta zurribanda, zurriburri, zurrón, zutano, zutujil y zuzón.
 
-El siguiente paso del análisis consiste en **eliminar aquellos términos que sólo entran en la definición de términos sin amigos** o, recursivamente, en la definición de términos eliminados en el paso anterior. Por ejemplo, si A es un término sin amigos y B es un término que se usa en la definición de A y no en ningún otro, lo filtraría en este paso. Tras este filtrado, quedan 24683 términos, un 28.15 % de los términos originales. Seguro que Euclides pensaría que demasiados.
+El siguiente paso del análisis consiste en **eliminar aquellos términos quesolo entran en la definición de términos sin amigos** o, recursivamente, en la definición de términos eliminados en el paso anterior. Por ejemplo, si A es un término sin amigos y B es un término que se usa en la definición de A y no en ningún otro, lo filtraría en este paso. Tras este filtrado, quedan 24683 términos, un 28.15 % de los términos originales. Seguro que Euclides pensaría que demasiados.
 
 Los 11465 términos que se caen van desde ababol, abacal, abada, abajar, abakuá y aballar hasta zurriago, zurribanda, zurriburri, zutano, zutujil y zuzón. Encuentro en la lista términos como tridimensional, tropecientos, sobreexplotar, rutherfordio, presuntamente y perversión junto a otros como zangolotear, podrigorio, segueta, tolmera o tósigo, de cuya existencia a cabo de tener noticia.
 

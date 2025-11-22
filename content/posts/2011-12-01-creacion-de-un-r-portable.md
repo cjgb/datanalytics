@@ -18,7 +18,7 @@ title: Creación de un "R portable"
 url: /2011/12/01/creacion-de-un-r-portable/
 ---
 
-Se supone que R, que está disponible en una multitud de plataformas y sin coste, debería poder instalarse por doquier. Pero sucede en ocasiones que sus usuarios sólo disponen de plataformas muy cerradas, sin acceso a privilegios de administración, en organizaciones hostiles al _software_ libre, etc.
+Se supone que R, que está disponible en una multitud de plataformas y sin coste, debería poder instalarse por doquier. Pero sucede en ocasiones que sus usuariossolo disponen de plataformas muy cerradas, sin acceso a privilegios de administración, en organizaciones hostiles al _software_ libre, etc.
 
 La solución para poder seguir disfrutando del poder de R en tales circunstancias puede pasar por la utilización de una versión _portable_ de R: una que arranque desde un pincho de memoria sin interferir con el resto del _software_ de la máquina ni requerir permisos de escritura en directorios vetados.
 

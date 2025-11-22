@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-01-28 02:54:41+00:00
+noindex: true
 lastmod: '2025-04-06T19:09:23.308064'
 related:
 - 2010-10-02-un-foro-de-discusion-para-usuarios-de-sas.md
@@ -22,4 +23,4 @@ De ello se congratula hasta mi buen amigo Ali, empleado de SAS Pakistán en Kara
 
 Como ex-empleado de la empresa y posterior subcontratado de ella, conozco unas cuantas oficinas de SAS por el mundo: aparte de las de Madrid y Barcelona, he estado en las centrales del Reino Unido (un castillo en el campo, cerca de Windsor, aunque me tocó trabajar una semana en un edificio prefabricado que ya no existe), Bélgica (otro castillo), Croacia (unas oficinas muy normalitas en Zagreb, al lado de la catedral) y Bangkok (en el nada bucólico barrio de Patpong).
 
-No todas las oficinas de SAS son iguales. No se trabaja igual en todos los sitios. Y cada vez hay más I+D de SAS que se deslocaliza a la India (donde no creo que la condiciones laborables sean comparables). No obstante lo cual, es para felicitarse que haya quien apueste por eso de que _contented cows give more milk_.
+No todas las oficinas de SAS son iguales. No se trabaja igual en todos los sitios. Y cada vez hay más I+D de SAS que se deslocaliza a la India (donde no creo que las condiciones laborables sean comparables). No obstante lo cual, es para felicitarse que haya quien apueste por eso de que _contented cows give more milk_.

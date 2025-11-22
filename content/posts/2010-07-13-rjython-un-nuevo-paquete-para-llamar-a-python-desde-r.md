@@ -54,7 +54,7 @@ El paquete se distribuye con la versión 2.5.1 de Jython (actualmente, la más r
 
 Las desventajas de usar Jython en lugar de Cpython son:
 
-* Sólo se pueden utilizar módulos de Python escritos enteramente en dicho lenguaje.
+*Solo se pueden utilizar módulos de Python escritos enteramente en dicho lenguaje.
 * El rendimiento es menor al utilizarse una pila de lenguajes interpretados para ejecutar el código.
 
 **Comunicación entre R y Jython: JSON**

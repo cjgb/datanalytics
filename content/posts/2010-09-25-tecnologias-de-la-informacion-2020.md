@@ -23,7 +23,7 @@ Me consta que algunos de mis lectores piensan en reorientar sus carreras. Éstos
 
 >Para el 2020, la cantidad de datos generados anualmente alcanzará los 35 zettabytes (35 millones de petabytes) [...], suficiente como para llenar dos pilas de DVDs que lleguen hasta la luna.
 >
->Habrá una enorme demanda de especialistas en tecnología de la información con habilidad no sólo para analizar enormes cantidades de datos sino para trabajar codo con codo con otras unidades de negocio para definir qué datos son necesarios y cómo obtenerlos.
+>Habrá una enorme demanda de especialistas en tecnología de la información con habilidad nosolo para analizar enormes cantidades de datos sino para trabajar codo con codo con otras unidades de negocio para definir qué datos son necesarios y cómo obtenerlos.
 >
 >Estos trabajadores híbridos tendrán experiencia en tecnologías de la  información y comprenderán la lógica del negocio y sus operaciones. Según David Foote, presidente de Foote Partners LLC, serán empleados que comprenderán qué información necesita qué gente. Habrá —aventura— mucha  más gente que entienda el flujo completo que va desde la información hasta el dinero.
 

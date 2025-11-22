@@ -20,7 +20,7 @@ title: ¿Se puede predecir con Twitter?
 url: /2012/05/14/se-puede-predecir-con-twitter/
 ---
 
-Tal y como quedaron establecidos hace 80 años los parámetros para determinar si una hipótesis es o no plausible —por no calificarla de significativa o, más malévolamente, publicable— sólo una de cada veinte lo serían.
+Tal y como quedaron establecidos hace 80 años los parámetros para determinar si una hipótesis es o no plausible —por no calificarla de significativa o, más malévolamente, publicable—solo una de cada veinte lo serían.
 
 Es un hecho que contrasta con la habilidad de los consultores que se dedican a esa labor tan difícil de acotar y que va desde la estadística a la minería de datos tocando otras áreas más o menos afines. Los buenos, siempre encuentran efectos significativísimos y relevantísimos con que adornar sus presentaciones. So pena de ser sustituidos por otros con todavía menos escrúpulos que sepan envolver con maña en pan de oro el accidente y la aleatoriedad.
 

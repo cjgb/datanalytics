@@ -25,15 +25,15 @@ No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porqu
 
 La variable más importante a la hora de construir un modelo es, precisamente, la que se quiere predecir. Casi todos los textos asumen que se conoce sin ningún género de dudas en, al menos, una determinada muestra que, además, corresponde más o menos a la población subyacente: si el paciente sobrevive o no; si la hipoteca entra en mora o no; si el cliente responde a la oferta o no, etc.
 
-Pero hay muchos problemas famosos y relativamente urgentes en los que la situación es distinta. En la entrada a la que hago referencia más arriba, sólo se conocía el valor que predecir para un conjunto de casos, los positivos. Pero era desconocido para la gran masa.
+Pero hay muchos problemas famosos y relativamente urgentes en los que la situación es distinta. En la entrada a la que hago referencia más arriba,solo se conocía el valor que predecir para un conjunto de casos, los positivos. Pero era desconocido para la gran masa.
 
-El problema aparece también en el riesgo de crédito: el banco sólo tiene información sobre la situación crediticia de aquellos clientes que no fueron rechazados previamente. Pero es necesario crear un mecanismo de medición del riesgo para todos los clientes. Y _todos_ es una población distinta de _aceptados_. ¡Y qué peligrosas son las extrapolaciones!
+El problema aparece también en el riesgo de crédito: el bancosolo tiene información sobre la situación crediticia de aquellos clientes que no fueron rechazados previamente. Pero es necesario crear un mecanismo de medición del riesgo para todos los clientes. Y _todos_ es una población distinta de _aceptados_. ¡Y qué peligrosas son las extrapolaciones!
 
 En otro contexto en el que aparece es en el de la determinación de lo que llaman _share of wallet_, el porcentaje de, por ejemplo, la cesta de la compra que realiza un consumidor en una determinada cadena de supermercados (desconociéndose las compras que realiza en los de la competencia) o la cantidad de transacciones financieras que realiza en una determinada entidad (cuando existe la posibilidad de que tenga también cuentas activas en otras).
 
 Ahora me encuentro con la [corrección de Heckman](http://en.wikipedia.org/wiki/Heckman_correction), que le valió al susodicho el premio Nobel de economía. Traduzco de la Wikipedia:
 
->Supóngase que un investigador quiere estimar cuáles son los determinantes de las ofertas de salarios pero sólo tiene acceso a los salarios de aquellos que trabajan. Dado que quienes trabajan forman una muestra no aleatoria de la población, estudiar estos determinantes sobre este subconjunto introduciría un sesgo.
+>Supóngase que un investigador quiere estimar cuáles son los determinantes de las ofertas de salarios perosolo tiene acceso a los salarios de aquellos que trabajan. Dado que quienes trabajan forman una muestra no aleatoria de la población, estudiar estos determinantes sobre este subconjunto introduciría un sesgo.
 
 Información adicional sobre esta corrección puede encontrarse [en este enlace](http://www.eco.uc3m.es/~ricmora/miccua/materials/S16T33_Spanish.pdf ).
 

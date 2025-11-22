@@ -21,7 +21,7 @@ Me pasó mi buen amigo Raúl (que tiene [un blog más friqui que el mío](http:/
 
 {{< youtube id="F5Ri_HhziI0" >}}
 
-Se ve con gusto, pero no cuenta toda la historia. Al menos, uno espera averiguar por qué _todas_ las demás colas parecen moverse más aprisa que la de uno, pero, realmente, sólo explica por qué es poco probable que la propia sea la más rápida. ¡Y no es lo mismo!
+Se ve con gusto, pero no cuenta toda la historia. Al menos, uno espera averiguar por qué _todas_ las demás colas parecen moverse más aprisa que la de uno, pero, realmente,solo explica por qué es poco probable que la propia sea la más rápida. ¡Y no es lo mismo!
 
 Además, la demostración que da (para el caso en el que hay tres colas) es más prolija de la cuenta. Un razonamiento por simetría muestra fácilmente que de haber _n_ colas, la probabilidad de que la tuya sea la más rápida es _1/n_.
 

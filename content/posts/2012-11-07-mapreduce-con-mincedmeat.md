@@ -37,7 +37,7 @@ Si uno ejecuta en su _servidor central_
 carlos@tiramisu:~/curso_dm/prog_03/src$ python wrdcount_mincemeat.py
 {{< / highlight >}}
 
-este quedará esperando a que otras máquinas se ofrezcan a trabajar en el proyecto. En mi caso, que trabajo sólo en una, puedo lanzar en varias sesiones
+este quedará esperando a que otras máquinas se ofrezcan a trabajar en el proyecto. En mi caso, que trabajosolo en una, puedo lanzar en varias sesiones
 
 {{< highlight bash >}}
 carlos@tiramisu:~/curso_dm/prog_03/src$ python mincemeat.py -p changeme localhost

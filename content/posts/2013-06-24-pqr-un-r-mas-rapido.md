@@ -21,7 +21,7 @@ url: /2013/06/24/pqr-un-r-mas-rapido/
 
 Hace no mucho, [Radford Neal publicó pqR](http://radfordneal.wordpress.com/2013/06/22/announcing-pqr-a-faster-version-of-r/), una versión de R _más rápida_. Y algunos os preguntaréis qué es y de dónde salió esa reimplementación.
 
-La respuesta breve es la siguiente: no hace tanto, cuando R iba por la versión 2.13, Neal sugirió una serie de modificaciones (_patches_) para mejorar el rendimiento de R en algunos aspectos. Creo recordar que eran catorce, aunque bien pudo haber habido otros posteriores. Los desarolladores de R, sin embargo, rechazaron algunos (si no todos) de ellos por motivos de diversa índole pero que se resumen en lo siguiente:
+La respuesta breve es la siguiente: no hace tanto, cuando R iba por la versión 2.13, Neal sugirió una serie de modificaciones (_patches_) para mejorar el rendimiento de R en algunos aspectos. Creo recordar que eran catorce, aunque bien pudo haber habido otros posteriores. Los desarrolladores de R, sin embargo, rechazaron algunos (si no todos) de ellos por motivos de diversa índole pero que se resumen en lo siguiente:
 
 * Neal está interesado en la eficiencia.
 * A los desarrolladores de R les preocupan también la estabilidad del sistema, la posibilidad de introducir errores que repercutan en otras partes del código, etc.

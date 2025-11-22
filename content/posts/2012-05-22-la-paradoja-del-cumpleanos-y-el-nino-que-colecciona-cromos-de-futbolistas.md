@@ -24,6 +24,6 @@ Entre ellos menciona el de la llamada [paradoja del cumpleaños](http://es.wikip
 
 Sin conocer la suya, voy a ensayar una explicación de la paradoja del cumpleaños que la _desparadojiza_ (al menos, desde la perspectiva de los defectos de configuración del entramado neuronal del ser humano) sin necesidad de escribir un solo número combinatorio. Lo que vo a hacer es replantearla en un escenario distinto. Es la siguiente:
 
-Un niño compra un álbum de 365 cromos (p.e., de futbolistas) y luego, cada día, un sobre con un único cromo. ¿Cuántos cromos repetidos acumula al cabo de _n_ días? La solución probabilística de la paradoja del cumpleaños cumpleaños indica que después de 23 días tendría una probabilidad del 50% de tener un _repe_ y sólo un 1% de probabilidad de no tener _repes_ al cabo de 57 días.
+Un niño compra un álbum de 365 cromos (p.e., de futbolistas) y luego, cada día, un sobre con un único cromo. ¿Cuántos cromos repetidos acumula al cabo de _n_ días? La solución probabilística de la paradoja del cumpleaños cumpleaños indica que después de 23 días tendría una probabilidad del 50% de tener un _repe_ ysolo un 1% de probabilidad de no tener _repes_ al cabo de 57 días.
 
 ¿Más intuitivo?

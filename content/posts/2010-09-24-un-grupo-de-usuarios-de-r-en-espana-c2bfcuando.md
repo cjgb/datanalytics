@@ -25,7 +25,7 @@ Miro también el siguiente gráfico y me da algo de grima:
 ](http://r-project-for-statistical-computing.meetup.com/)
 
 
-¡No hay ni un sólo cerca de Madrid (que es la ubicación que a mí y ahora más me compete)! Así que si alguno de mis lectores está interesado en el asunto, podemos ir urdiendo cómo hacer para colocarle un _pinchico_ rojo a ese mapa justo en Sol.
+¡No hay ni unsolo cerca de Madrid (que es la ubicación que a mí y ahora más me compete)! Así que si alguno de mis lectores está interesado en el asunto, podemos ir urdiendo cómo hacer para colocarle un _pinchico_ rojo a ese mapa justo en Sol.
 
 
 **Nota:** existe una lista más exhaustiva de [grupos locales de usuarios de R](http://blog.revolutionanalytics.com/local-r-groups.html) que espero que pronto se vuelva inmanejable. ¡Y aprovecho para felicitar a los integrantes de GURU, el Grupo de Usuarios de R en Uruguay!

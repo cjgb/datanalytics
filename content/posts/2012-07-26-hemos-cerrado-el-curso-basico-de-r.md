@@ -18,7 +18,7 @@ title: Hemos cerrado el curso básico de R
 url: /2012/07/26/hemos-cerrado-el-curso-basico-de-r/
 ---
 
-El [curso básico de R](http://cursorbasico.usar.org.es) ha concluido. Hemos tenido 904 inscritos (aunque de ellos sólo un porcentaje pequeño ha tenido una participación activa) que a lo largo de 5 semanas han seguido el [programa ](http://cursorbasico.usar.org.es/etiquetas/programa/)que planteamos [Juanjo Gibaja](http://jjgibaja.net/) y yo.
+El [curso básico de R](http://cursorbasico.usar.org.es) ha concluido. Hemos tenido 904 inscritos (aunque de ellossolo un porcentaje pequeño ha tenido una participación activa) que a lo largo de 5 semanas han seguido el [programa ](http://cursorbasico.usar.org.es/etiquetas/programa/)que planteamos [Juanjo Gibaja](http://jjgibaja.net/) y yo.
 
 Quiero dar las gracias a los participantes en el curso y muy particularmente a quienes han contribuido más activamente en nuestra plataforma de preguntas y aprendizaje.
 

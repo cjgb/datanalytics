@@ -34,7 +34,7 @@ m[1] <- 8
 {{< / highlight >}}
 
 
-Sin embargo, el libro menciona cómo, a pesar de la política _copiar al cambiar_, hay casos en los que R es lo suficientemente inteligente como para modificar sólo la parte afectada por el cambio:
+Sin embargo, el libro menciona cómo, a pesar de la política _copiar al cambiar_, hay casos en los que R es lo suficientemente inteligente como para modificarsolo la parte afectada por el cambio:
 
 
 {{< highlight R >}}
@@ -47,7 +47,7 @@ tracemem(z)
 {{< / highlight >}}
 
 
-En este caso, no se copia el objeto: sólo se modifica una de las entradas del mismo.
+En este caso, no se copia el objeto:solo se modifica una de las entradas del mismo.
 
 Pero, ¿por qué en este segundo ejemplo no hay copia y el en primero sí? El motivo es el tipo de almacenamiento interno de R:
 

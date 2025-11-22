@@ -28,7 +28,7 @@ El portal utiliza la tecnología de [OSQA](http://www.osqa.net/), una plataforma
 * el contenido se organiza **primando la calidad y la señal sobre el ruido** y
 * los usuarios que reciban más votos positivos puedan ir adquieriendo privilegios de moderación.
 
-No hay mucho más que contar al respecto; sólo invitar a mis lectores a
+No hay mucho más que contar al respecto;solo invitar a mis lectores a
 
 * visitar la página, registrarse... ¡y **animarse a usarla**!
 * avisar de errores, frases mal traducidas o cualquier otra incidencia

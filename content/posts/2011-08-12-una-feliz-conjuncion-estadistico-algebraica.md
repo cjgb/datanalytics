@@ -101,7 +101,7 @@ b <- (a - a.hat) / sqrt(a.hat)
 {{< / highlight >}}
 
 
-La estructura diagonal de la matriz de diferencias es ahora más clara (¿o sólo me lo parece a mí?). El motivo de elegir ese factor de normalización y no otro es que
+La estructura diagonal de la matriz de diferencias es ahora más clara (¿osolo me lo parece a mí?). El motivo de elegir ese factor de normalización y no otro es que
 
 
 {{< highlight R >}}

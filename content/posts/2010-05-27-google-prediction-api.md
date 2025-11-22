@@ -18,7 +18,7 @@ url: /2010/05/27/google-prediction-api/
 
 Tantas cosas que escribir en este blog, tantas cosas que leer y probar, tan hermosa que está la primavera allende la ventana y... me callo porque uno nunca sabe quién puede acabar leyendo lo que escribo.
 
-A la lista de las cosas que probar y sobre las que aprender sumo hoy una que sólo acrecienta la admiración que siento por esa empresa que tan poco se parece a otras. Se resume gráficamente en:
+A la lista de las cosas que probar y sobre las que aprender sumo hoy una quesolo acrecienta la admiración que siento por esa empresa que tan poco se parece a otras. Se resume gráficamente en:
 
 [](http://code.google.com/apis/predict/images/french.png#center)![Google Prediction API](http://code.google.com/apis/predict/images/french.png#center)
 

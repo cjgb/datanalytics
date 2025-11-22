@@ -40,7 +40,7 @@ boxplot( nivel.proteina ~ grupo, dat = datos )
 que genera esto:[![](/img/2010/09/boxplot.png#center)
 ](/img/2010/09/boxplot.png#center)
 
-Pero para conjuntos de datos tan pequeños, las cajas no acaban de satisfacerme: sustituyen —tal vez demasiado _filosóficamente_— el dato mismo por una representación conceptual suya: es como llamar bosque a un conjunto de tan sólo 18 árboles. Así que utilizando unos gráficos que vi en el [libro de Pinheiro y Bates](http://stat.bell-labs.com/NLME/MEMSS/index.html), hice
+Pero para conjuntos de datos tan pequeños, las cajas no acaban de satisfacerme: sustituyen —tal vez demasiado _filosóficamente_— el dato mismo por una representación conceptual suya: es como llamar bosque a un conjunto de tansolo 18 árboles. Así que utilizando unos gráficos que vi en el [libro de Pinheiro y Bates](http://stat.bell-labs.com/NLME/MEMSS/index.html), hice
 
 {{< highlight R >}}
 library(nlme)

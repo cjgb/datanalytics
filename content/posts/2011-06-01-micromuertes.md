@@ -29,7 +29,7 @@ El cerebro humano tiene problemas para entender probabilidades pequeñas, un tem
 [![](/img/2011/05/micromuertes1.png#center)
 ](/img/2011/05/micromuertes1.png#center)
 
-La Wikipedia (en inglés) muestra una serie de [acciones cuyo resultado es un incremento del riesgo de muerte en una micromuerte](http://en.wikipedia.org/wiki/Micromort). También discute su valor monetario: ¿cuánto estaría alguien dispuesto a pagar por evitar un riesgo equivalente a una micromuerte? Dicho de otra manera, si alguien te plantease jugar a la ruleta rusa con un revólver en el que hay espacio para un millón de balas (pero sólo una, claro): ¿cuál sería la cifra mínima por la que accederías a jugar?
+La Wikipedia (en inglés) muestra una serie de [acciones cuyo resultado es un incremento del riesgo de muerte en una micromuerte](http://en.wikipedia.org/wiki/Micromort). También discute su valor monetario: ¿cuánto estaría alguien dispuesto a pagar por evitar un riesgo equivalente a una micromuerte? Dicho de otra manera, si alguien te plantease jugar a la ruleta rusa con un revólver en el que hay espacio para un millón de balas (perosolo una, claro): ¿cuál sería la cifra mínima por la que accederías a jugar?
 
 [![](/img/2011/05/micromuertes_parto.png#center)
 ](/img/2011/05/micromuertes_parto.png#center)

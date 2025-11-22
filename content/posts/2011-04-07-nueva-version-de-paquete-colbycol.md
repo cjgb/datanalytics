@@ -20,7 +20,7 @@ url: /2011/04/07/nueva-version-de-paquete-colbycol/
 
 Hace unos días subí a CRAN la última versión de mi [paquete `colbycol`](http://cran.r-project.org/web/packages/colbycol/index.html). Incluí algunas mejoras sugeridas por uno de sus usuarios así como otras que estaban esperando a que liberase mi agenda. Además, añadí un [pequeño tutorial](http://colbycol.r-forge.r-project.org/) en la página del paquete.
 
-El paquete `colbycol` está pensado para resolver —aunque sólo sea parcialmente— uno de los problemas más acuciantes de quienes usamos R para el análisis de datos muy grandes: leer ficheros de datos de gran tamaño.
+El paquete `colbycol` está pensado para resolver —aunquesolo sea parcialmente— uno de los problemas más acuciantes de quienes usamos R para el análisis de datos muy grandes: leer ficheros de datos de gran tamaño.
 
 Es típico que R necesite tres veces más RAM que el tamaño del fichero de texto que se quiere leer durante la importación. Esto se debe a que la información en el disco está ordenada por filas mientras que R almacena los datos en la memoria en columnas. En algún punto tiene que realizarse la transposición. Y transponer datos es una operación que exige mucho espacio en memoria. (Puede que alguno de mis lectores caiga en la cuenta de que bastaría con el doble de espacio, no el triple: el que ocupe el fichero de origen y el que ocupe el objeto traspuesto; pero ésa es otra historia).
 

@@ -30,6 +30,6 @@ Los enlaces son ajenos, en inglés, y, algunos, algo viejos (hacen referencias a
 7. [Statistical analysis using Microsoft Excel](http://pages.stern.nyu.edu/~jsimonof/classes/1305/pdf/excelreg.pdf)
 8. [Statistical flaws in Excel](http://www.mis.coventry.ac.uk/~nhunt/pottel.pdf)
 9. [Using Excel for Statistics: Tips and Warnings](http://www.reading.ac.uk/ssc/publications/guides/xfs.pdf)
-10. [Doing statistics with a speadsheet, perhaps not a good idea?](http://groups.google.ca/group/sci.stat.edu/browse_thread/thread/b2e6def39c6b8ef4/1f6bbe4e398a1e0d?q=John+Kane+Excel&rnum=1#1f6bbe4e398a1e0d)
+10. [Doing statistics with a spreadsheet, perhaps not a good idea?](http://groups.google.ca/group/sci.stat.edu/browse_thread/thread/b2e6def39c6b8ef4/1f6bbe4e398a1e0d?q=John+Kane+Excel&rnum=1#1f6bbe4e398a1e0d)
 
 (Nota: varios días después de publicar esta entrada he tropezado con [este otro artículo al respecto](http://www.biomedcentral.com/1471-2105/5/80)).

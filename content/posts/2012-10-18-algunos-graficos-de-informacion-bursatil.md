@@ -43,7 +43,7 @@ precios.TEF <- get.hist.quote(
 rent.TEF <- diff(log(precios.TEF))
 {{< / highlight >}}
 
-Nótese que estoy solicitando datos desde 1998 hasta el 15 de octubre de 2012. Además, sólo una observación por mes (a través de la opción `compression`). Finalmente, de las varias columnas de información que ofrece Yahoo (precio de apertura, cierre, máximo, mínimo, etc.) me quedo con el `AdjClose`, es decir, el cierre ajustado. Es el precio que incluye (o tiene en cuenta) fenómenos de relevancia económica pero no reflejados en los precios de cierre tales como los dividendos, los _splits_, etc.
+Nótese que estoy solicitando datos desde 1998 hasta el 15 de octubre de 2012. Además,solo una observación por mes (a través de la opción `compression`). Finalmente, de las varias columnas de información que ofrece Yahoo (precio de apertura, cierre, máximo, mínimo, etc.) me quedo con el `AdjClose`, es decir, el cierre ajustado. Es el precio que incluye (o tiene en cuenta) fenómenos de relevancia económica pero no reflejados en los precios de cierre tales como los dividendos, los _splits_, etc.
 
 Haciendo
 

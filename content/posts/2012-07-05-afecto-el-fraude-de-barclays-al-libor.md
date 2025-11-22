@@ -110,7 +110,7 @@ table(range.pb)
 #948  48  22  11   3   4   1
 {{< / highlight >}}
 
-se aprecia cómo en 948 de los 1037 días no habría sido capaz de moverlo (en más de un punto básico) hiciese lo que hiciese y cómo sólo un día habría sido capaz de moverlo seis.
+se aprecia cómo en 948 de los 1037 días no habría sido capaz de moverlo (en más de un punto básico) hiciese lo que hiciese y cómosolo un día habría sido capaz de moverlo seis.
 
 Gráficamente,
 

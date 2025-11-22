@@ -28,7 +28,7 @@ En la [documentación técnica del estudio ENE-COVID19](https://www.mscbs.gob.es
 
 Veamos en qué consisten.
 
->El primero de ellos incluyó 97 sueros procedentes de personal sanitario que había sido diagnosticado de COVID19 por PCR en un hospital de Madrid y en los que la muestra de sangre se extrajo cuando ya estaban asintomáticos. Como controles negativos se estudiaron 53 muestras anónimas de suero extraídas para diagnóstico de otro tipo de patógenos anteriores al 8 de diciembre de 2019. La sensibilidad global (IgM+ ó IgG+) fue del 84,5% (73,2% considerando sólo IgM+ y 79,4% considerando IgG+), mientras que la especificidad global fue del 98,2% (98,1% para IgM- y 100% para IgG-).
+>El primero de ellos incluyó 97 sueros procedentes de personal sanitario que había sido diagnosticado de COVID19 por PCR en un hospital de Madrid y en los que la muestra de sangre se extrajo cuando ya estaban asintomáticos. Como controles negativos se estudiaron 53 muestras anónimas de suero extraídas para diagnóstico de otro tipo de patógenos anteriores al 8 de diciembre de 2019. La sensibilidad global (IgM+ ó IgG+) fue del 84,5% (73,2% considerandosolo IgM+ y 79,4% considerando IgG+), mientras que la especificidad global fue del 98,2% (98,1% para IgM- y 100% para IgG-).
 
 Es decir, para la especificidad cuentan con 53 sujetos (sanos) de los cuales 1 ha dado positivo (que es la manera de decir en cristiano que la especificidad es del 98.1).
 

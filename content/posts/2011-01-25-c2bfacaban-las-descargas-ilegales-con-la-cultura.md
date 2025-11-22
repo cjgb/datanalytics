@@ -41,7 +41,7 @@ Sin embargo, **la recaudación del sector se ha mantenido constante**: en todos 
 ### Música
 
 
-El INE muestra datos de la industria musical entre 2003 y 2009. Es curioso que el número de cantantes, críticos, directores, docentes, instrumentistas e investigadores está sólo disponible para los años 2003 y 2004 y no en los sucesivos _en aplicación de la Ley de Protección de Datos_. No así el de compositores, que pasa de 1107 a 1417 en el periodo indicado. Más compositores, ¿significa más música, es decir, "más cultura", a pesar del P2P y similares?
+El INE muestra datos de la industria musical entre 2003 y 2009. Es curioso que el número de cantantes, críticos, directores, docentes, instrumentistas e investigadores estásolo disponible para los años 2003 y 2004 y no en los sucesivos _en aplicación de la Ley de Protección de Datos_. No así el de compositores, que pasa de 1107 a 1417 en el periodo indicado. Más compositores, ¿significa más música, es decir, "más cultura", a pesar del P2P y similares?
 
 El número de bandas (aunque no define qué es una banda) pasa de 1378 a 1435 en tendencia continua. Aumentan también el número de agrupaciones de cámara, agrupaciones líricas, coros, orquestas de cámara y orquestas sinfónicas.
 

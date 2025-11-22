@@ -21,7 +21,7 @@ url: /2011/05/24/se-buscan-alpha-testers-para-rpython/
 
 Busco _alpha testers_ para mi paquete `rPython`. El paquete es la evolución natural de [`rJython`](http://cran.r-project.org/web/packages/rJython/index.html), un paquete de R que permite llamar a Jython, el dialecto de Python que corre sobre la máquina virtual de Java, desde R.
 
-`rPython` permite llamar al _verdadero_ Python. Funciona perfectamente en mi máquina, pero necesito ver qué problemas de instalación y uso aparecen en otras plataformas. De momento, sólo funcionaría sobre plataformas UNIX o Linux. Me sorprendería lo indecible que funcionase también sobre Windows: sería toda una casualidad.
+`rPython` permite llamar al _verdadero_ Python. Funciona perfectamente en mi máquina, pero necesito ver qué problemas de instalación y uso aparecen en otras plataformas. De momento,solo funcionaría sobre plataformas UNIX o Linux. Me sorprendería lo indecible que funcionase también sobre Windows: sería toda una casualidad.
 
 Quien disponga de unos minutos que perder en pro de los interesados en la interacción de Python y R está invitado a:
 

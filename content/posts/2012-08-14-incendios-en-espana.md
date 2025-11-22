@@ -46,6 +46,6 @@ Algo parecido puede suceder con los incendios. En primer lugar, no toda España 
 [![](/img/2012/08/uso_suelo_espana.png#center)
 ](/img/2012/08/uso_suelo_espana.png#center)
 
-Por otra parte, y relacionado con la nota anterior, habría que prestar atención no sólo a aquellos lugares donde sí se producen multitud de incendios forestales sino, muy particularmente, a aquellas masas de bosque donde la tasa de incendios es muy baja. Porque es de quienes las mantienen que se pueden aprender las mejores prácticas.
+Por otra parte, y relacionado con la nota anterior, habría que prestar atención nosolo a aquellos lugares donde sí se producen multitud de incendios forestales sino, muy particularmente, a aquellas masas de bosque donde la tasa de incendios es muy baja. Porque es de quienes las mantienen que se pueden aprender las mejores prácticas.
 
 Y lo dejo dicho por si alguno de mis lectores tiene a bien ponerse manos a la obra. Yo, confieso, ahora, estos días, lo tengo _alguito_ complicado.

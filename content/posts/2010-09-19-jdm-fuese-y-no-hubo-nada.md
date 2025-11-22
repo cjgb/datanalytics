@@ -17,7 +17,7 @@ title: 'JDM: fuese y no hubo nada'
 url: /2010/09/19/jdm-fuese-y-no-hubo-nada/
 ---
 
-Por salvaguardar del olvido algunas entradas que hice en un blog que ya no existe años ha, reproduzco acá otra que sólo se entenderá retrasando las manecillas de los relojes y reemplazando hojas en los anaqueles hasta hará cosa de cinco años atrás.
+Por salvaguardar del olvido algunas entradas que hice en un blog que ya no existe años ha, reproduzco acá otra quesolo se entenderá retrasando las manecillas de los relojes y reemplazando hojas en los anaqueles hasta hará cosa de cinco años atrás.
 
 Fue tal como sigue:
 
@@ -43,7 +43,7 @@ Esta aplicación podría simplificar el proceso de **migración** entre versione
 
 La aplicación ni siquiera tendría que ser un típico interfaz de sobremesa. Podría ser un _servlet_ en un **portal de internet** que hiciese uso de herramientas de minería de datos para, en tiempo real, interactuar con los visitantes. Por ejemplo, en un portal de viajes, después de que un cliente se interesase por un determinado paquete turístico, el motor de minería de datos podría sugerirle otros que pudieran resultarle atractivos. A través de JDM, el portal podría comunicarse con esta herramienta de una manera simple.
 
-Por otra parte, un proveedor de soluciones de minería de datos que sólo posea, póngase por caso, una **herramienta-nicho** ---por ejemplo, que sólo vendiese redes neuronales de cierto tipo---, podría ensanchar la base de clientes potenciales si les proporcionase la posibilidad de integrarla en un entorno de trabajo al que éstos estuviesen acostumbrados.
+Por otra parte, un proveedor de soluciones de minería de datos quesolo posea, póngase por caso, una **herramienta-nicho** ---por ejemplo, quesolo vendiese redes neuronales de cierto tipo---, podría ensanchar la base de clientes potenciales si les proporcionase la posibilidad de integrarla en un entorno de trabajo al que éstos estuviesen acostumbrados.
 
 
 ### Colofón

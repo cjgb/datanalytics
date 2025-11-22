@@ -41,9 +41,9 @@ En realidad, el estudio consta de dos encuestas: una a nivel nacional y otra esp
 
 >Del total de encuestados únicamente el 11.1 % afirma conocer alguno de los portales vascos relacionados con el Gobierno Abierto comentados anteriormente (Irekia, Adi! u Open Data Euskadi), por lo que el desconocimiento sobre estas iniciativas es muy elevado. El escaso tiempo que llevan en marcha estos portales de Gobierno Abierto puede influir en este hecho.
 >
->El portal más conocido es Adi!, que conocen el 6.4 % de los encuestados. El resultado menos optimista lo obtiene Irekia, que sólo conocen el 3.8 % de los encuestados. Los medios a través de los cuales los ciudadanos encuestados manifiestan haber conocido estos portales son principalmente las campañas publicitarias a través de medios de comunicación de masas y por el boca a boca de conocidos.
+>El portal más conocido es Adi!, que conocen el 6.4 % de los encuestados. El resultado menos optimista lo obtiene Irekia, quesolo conocen el 3.8 % de los encuestados. Los medios a través de los cuales los ciudadanos encuestados manifiestan haber conocido estos portales son principalmente las campañas publicitarias a través de medios de comunicación de masas y por el boca a boca de conocidos.
 >
->Teniendo en cuenta que únicamente el 1.3 % de los encuestados ha entrado alguna vez el portal Irekia o en el portal Adi!, y que sólo el 0.6 % ha visitado el portal Open Data Euskadi, es muy difícil establecer los impactos de estas iniciativas, los niveles de satisfacción de los usuarios con ellas o las demandas adicionales que tienen respecto a ellas.
+>Teniendo en cuenta que únicamente el 1.3 % de los encuestados ha entrado alguna vez el portal Irekia o en el portal Adi!, y quesolo el 0.6 % ha visitado el portal Open Data Euskadi, es muy difícil establecer los impactos de estas iniciativas, los niveles de satisfacción de los usuarios con ellas o las demandas adicionales que tienen respecto a ellas.
 
 (Nota: no estaría mal que, en aras de la transparencia que predican, Irekia, Open Data Euskadi, Adi!, etc. hiciesen públicos sus _logs_ de visitas.)
 

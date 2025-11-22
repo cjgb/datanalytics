@@ -69,7 +69,7 @@ for ( i in  1:54 ) res <- c( res, dia.votacion(i) )
 for ( i in 34:54 ) res <- c( res, dia.votacion(i) )
 {{< / highlight >}}
 
-Con él se pueden bajar unas docenas de ficheros XML correspondientes a ciertos plenos de la [X Legislatura](http://es.wikipedia.org/wiki/X_Legislatura_de_Espa%C3%B1a), procesarlos mínimamente y guardarlos en la lista `res`. No estoy seguro de la profundidad histórica de los datos (aparentemente, sólo están disponibles los del 2012, aunque la X Legislatura arrancó, creo, antes). Además, falla la descarga de los ficheros correspondientes a las sesiones 32 y 33. Ese es el motivo por el que he tenido que recurrir a `for`, como los gañanes, en lugar de utiliza `sapply`, como era mi natural inclinación.
+Con él se pueden bajar unas docenas de ficheros XML correspondientes a ciertos plenos de la [X Legislatura](http://es.wikipedia.org/wiki/X_Legislatura_de_Espa%C3%B1a), procesarlos mínimamente y guardarlos en la lista `res`. No estoy seguro de la profundidad histórica de los datos (aparentemente,solo están disponibles los del 2012, aunque la X Legislatura arrancó, creo, antes). Además, falla la descarga de los ficheros correspondientes a las sesiones 32 y 33. Ese es el motivo por el que he tenido que recurrir a `for`, como los gañanes, en lugar de utiliza `sapply`, como era mi natural inclinación.
 
 Haciendo
 

@@ -24,7 +24,7 @@ url: /2023/05/18/twitter-api/
 * Tienes una única cuenta de desarrollador en Twitter. Supongamos que está vinculada al usuario `@trabajo`.
 * Quieres usarla para tuitear también en nombre de `@personal`.
 
-Lo suyo sería disponer de dos cuentas de desarollador, una para cada usuario. Sin embargo, Twitter parece estar dando acceso a tu plataforma de desarrollador con cuentagotas y ni siquiera está claro si conceden más de una cuenta a una misma persona que maneje varios _usuarios_.
+Lo suyo sería disponer de dos cuentas de desarrollador, una para cada usuario. Sin embargo, Twitter parece estar dando acceso a tu plataforma de desarrollador con cuentagotas y ni siquiera está claro si conceden más de una cuenta a una misma persona que maneje varios _usuarios_.
 
 Y de hecho, ese era el problema con el que me encontraba yo particularmente: había obtenido una cuenta de desarrollador hace un tiempo para un pequeño experimento, pero no me la conceden para la principal, `@gilbellosta`.
 

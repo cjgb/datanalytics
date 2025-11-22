@@ -31,6 +31,6 @@ El otro día di con una entrada en una bitácora con [cinco consejos para utiliz
 
 El último de los consejos del autor es más cuestionable: utilizar —más bien se refiere a reescribir— tus propias funciones. Pone como ejemplo la función `glm`, que [no tiene mucho éxito de crítica](http://www.stat.columbia.edu/~cook/movabletype/archives/2010/09/the_future_of_r.html), al parecer.
 
-En mi experiencia, cuando uno tropieza con algo mejorable, suele ser más productivo contactar con el autor de la función o el paquete y proponerle un cambio. Muchos, los más, son receptivos. De hecho, lo agradecen. Sólo dos —omitiré los nombres— me han respondido de malas maneras.
+En mi experiencia, cuando uno tropieza con algo mejorable, suele ser más productivo contactar con el autor de la función o el paquete y proponerle un cambio. Muchos, los más, son receptivos. De hecho, lo agradecen.Solo dos —omitiré los nombres— me han respondido de malas maneras.
 
 Porque, al fin y al cabo —y que conste que no soy ni buenista ni ñoño—, somos una comunidad de usuarios: ésa es la fuerza, ahí reside el valor de R. Y, en el fondo, por eso nos gusta.

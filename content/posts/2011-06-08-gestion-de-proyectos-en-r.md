@@ -20,7 +20,7 @@ title: Gestión de proyectos en R
 url: /2011/06/08/gestion-de-proyectos-en-r/
 ---
 
-Muchos de mis lectores tienen, seguro, maneras distintas —y probablemente mejores— de organizar sus proyectos en R que yo. Pero me consta que a algunos les cuesta no convertir sus carpetas en un caos en los que sólo ellos se manejan —hasta que pasa el tiempo, se olvidan y tienen que volver sobre ello—. Para ellos, para sugerirles un procedimiento eficiente de trabajo, va esta entrada. En ella describo cómo organizo mis propios proyectos con R.
+Muchos de mis lectores tienen, seguro, maneras distintas —y probablemente mejores— de organizar sus proyectos en R que yo. Pero me consta que a algunos les cuesta no convertir sus carpetas en un caos en los quesolo ellos se manejan —hasta que pasa el tiempo, se olvidan y tienen que volver sobre ello—. Para ellos, para sugerirles un procedimiento eficiente de trabajo, va esta entrada. En ella describo cómo organizo mis propios proyectos con R.
 
 En primer lugar, creo un directorio exclusivo para el proyecto con un nombre específico que me permite identificar el quién, el cuándo y el qué. Dentro de él, creo otros cuatro:
 

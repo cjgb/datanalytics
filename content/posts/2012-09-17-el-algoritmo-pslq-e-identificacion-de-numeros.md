@@ -40,4 +40,4 @@ $$ | -22 + 7 \pi | < 0.01, $$
 
 es decir, que la fracción 22/7 aproxima el valor de $\pi$ con un error inferior al 1 %.
 
-Y esta es sólo una de las posibilidades que ofrece el algoritmo PSLQ y más en general, la librería `mpmath`. Muchas de las que encuentro más sorprendentes están recogidas en el [capítulo _Number identification_ de la documentación de `mpmath`](http://mpmath.googlecode.com/svn/trunk/doc/build/identification.html).
+Y esta essolo una de las posibilidades que ofrece el algoritmo PSLQ y más en general, la librería `mpmath`. Muchas de las que encuentro más sorprendentes están recogidas en el [capítulo _Number identification_ de la documentación de `mpmath`](http://mpmath.googlecode.com/svn/trunk/doc/build/identification.html).

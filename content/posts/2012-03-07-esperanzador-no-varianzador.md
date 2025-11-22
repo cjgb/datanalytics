@@ -42,7 +42,7 @@ Y los datos correspondientes, `dat <- c(63, 50, 54, 71, 72, 57, 68, 71, 76, 55, 
 
 Hay que notar que algunos de estos números corresponden a hombres asesinados por sus parejas (mujeres), tal y como indica el pie del gráfico en el INE, aunque el comentario que lo acompaña y que reproduzco parece ignorar (tal vez excusablemente) este pequeño matiz.
 
-Hay que advertir también que sólo el 0.029% de las mueres fallecidas en el 2009, 55, lo fueron por esta causa, mientras que por, por ejemplo, complicaciones de la atención médica y quirúrgica murieron 241; por gripe, 141; por tuberculosis, 143; por SIDA, 226; por caídas accidentales, 892; por suicidio, 763 y por muerte súbita infantil, 33. Lo cual lleva a uno a preguntarse por las causas del desigual impacto de cierto tipo de noticias en los medios. Pero esa es otra cuestión.
+Hay que advertir también quesolo el 0.029% de las mueres fallecidas en el 2009, 55, lo fueron por esta causa, mientras que por, por ejemplo, complicaciones de la atención médica y quirúrgica murieron 241; por gripe, 141; por tuberculosis, 143; por SIDA, 226; por caídas accidentales, 892; por suicidio, 763 y por muerte súbita infantil, 33. Lo cual lleva a uno a preguntarse por las causas del desigual impacto de cierto tipo de noticias en los medios. Pero esa es otra cuestión.
 
 Habida cuenta de lo infrecuente del fenómeno, es decir, el asesinato de una mujer por parte de su pareja, y de la posible independencia entre este tipo de sucesos, cabe pensar que el número anual de casos sigue una [ley de Poisson](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Poisson). De ser así, su parámetro (estimado por máxima verosimilitud) sería `mean(dat)`, es decir, 64.54. Dado que el tamaño de la muestra es tan pequeño, no se me ocurre ningún procedimiento para evaluar la bondad del ajuste. No obstante,
 
@@ -55,6 +55,6 @@ fivenum(replicate(1000, min(rpois(length(dat), mean(dat) ) ) ) )
 # 38 50 52 55 64
 {{< / highlight >}}
 
-Es decir, bajo el modelo propuesto, la mediana del número máximo y mínimo anual de este tipo de asesinatos coincidiría con los observados. No sólo es esto evidencia —heterodoxa y discutible— a favor del modelo sino, también, de cómo el adjetivo esperanzador que usa el INE no tiene tanto que ver con la esperanza (otro de los nombres de la media) sino con la variación.
+Es decir, bajo el modelo propuesto, la mediana del número máximo y mínimo anual de este tipo de asesinatos coincidiría con los observados. Nosolo es esto evidencia —heterodoxa y discutible— a favor del modelo sino, también, de cómo el adjetivo esperanzador que usa el INE no tiene tanto que ver con la esperanza (otro de los nombres de la media) sino con la variación.
 
 La variación en las cifras entraría, por tanto, dentro de lo normal —¿de lo Poisson?— y ni habría que entregar medallas en el 2009 ni quitárselas en el 2010 a los probos y sacrificados funcionarios encargados de luchar contra esta tan nimia como antiestética lacra social.

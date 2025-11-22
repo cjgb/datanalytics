@@ -127,7 +127,7 @@ obtuve
 [![](/img/2012/04/mapa_radial_00.png#center)
 ](/img/2012/04/mapa_radial_00.png#center)
 
-En este mapa sólo se han representado la mitad de los tramos de mayor importancia (de acuerdo con el criterio arriba especificado) y en el resto se ha modulado la intensidad en función también de ese criterio.
+En este mapasolo se han representado la mitad de los tramos de mayor importancia (de acuerdo con el criterio arriba especificado) y en el resto se ha modulado la intensidad en función también de ese criterio.
 
 ¿Es una estructura radial? Podemos recurrir de nuevo a la teoría de grafos para medir la _centralidad _de los nodos:
 

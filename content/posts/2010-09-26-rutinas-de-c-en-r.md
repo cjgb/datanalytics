@@ -105,7 +105,7 @@ is.loaded("func1")
 
 que debería ser TRUE de haberse seguido los pasos anteriores. Si funciones.dll ha sido compilada con un compilador distinto de MinGW, es bastante posible que is.loaded("func1") resulte ser FALSE porque muchos de ellos tienden a _decorar_ el nombre de las funciones de las DLLs de una manera un tanto impredecible, de modo que func1 acaba llamándose _func1, _func1@4 o ?func1@@YDAOEW3N12KDAS.
 
-R no posee ningún comando capaz de enumerar las funciones accesibles dentro de una DLL. Finalmente, para invocar la función func1 de funciones.dll, R utiliza la función .C -nombre que subraya el hecho de que sólo es válida para funciones escritas en C-, que implementa el interfaz requerido entre R y la DLL. Dicho interfaz determina, por una parte, la sintaxis de la función .C e impone ciertas restricciones en la naturaleza de las funciones de la DLL. Los aspectos fundamentales a tener en cuenta son:
+R no posee ningún comando capaz de enumerar las funciones accesibles dentro de una DLL. Finalmente, para invocar la función func1 de funciones.dll, R utiliza la función .C -nombre que subraya el hecho de quesolo es válida para funciones escritas en C-, que implementa el interfaz requerido entre R y la DLL. Dicho interfaz determina, por una parte, la sintaxis de la función .C e impone ciertas restricciones en la naturaleza de las funciones de la DLL. Los aspectos fundamentales a tener en cuenta son:
 
 
 * Cómo invoca .C a la función y cómo le transfiere datos.

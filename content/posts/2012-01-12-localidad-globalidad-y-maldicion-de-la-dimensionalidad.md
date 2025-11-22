@@ -45,7 +45,7 @@ El problema es el mismo que el plantea el libro bajo el epígrafe de maldición 
 
 Nuestro modelo de predicción era bastante local. Imaginemos —aunque no era exactamente así—, que predecimos la propensión de los clientes de una celda como la media de la de los seleccionados en dicha celda. Nos podemos preguntar:
 
-* ¿Qué pasa si en una determinada celda sólo hay un (por ejemplo) cliente seleccionado?
+* ¿Qué pasa si en una determinada celdasolo hay un (por ejemplo) cliente seleccionado?
 * ¿Hasta qué punto es fiable extrapolar a una casilla entera las propensiones de, únicamente, doña Juana y doña Miguela?
 
 Las predicciones de cada casilla —una especie de modelo local—, por el hecho de responder a muy pocos sujetos —efecto de la maldición de la dimensionalidad— son muy inestables.

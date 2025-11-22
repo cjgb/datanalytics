@@ -35,7 +35,7 @@ Si 1515 personas votaron sí, no tiene sentido calcular la probabilidad de que l
 
 De hecho, además, [como indica Kiko Llaneras](http://www.elespanol.com/espana/20151228/90241027_0.html),
 
->En EL ESPAÑOL hemos tomado los resultados de las elecciones generales del 20 de diciembre. Nos hemos fijado en los 300 pueblos que tienen entre 3.000 y 4.000 habitantes y nos hemos hecho una pregunta: ¿En cuántos hubo un empate entre los dos partidos que quedaron primero y segundo? Sólo en uno de los 300.
+>En EL ESPAÑOL hemos tomado los resultados de las elecciones generales del 20 de diciembre. Nos hemos fijado en los 300 pueblos que tienen entre 3.000 y 4.000 habitantes y nos hemos hecho una pregunta: ¿En cuántos hubo un empate entre los dos partidos que quedaron primero y segundo?Solo en uno de los 300.
 
 Uno de trescientos está, de hecho, en el límite de la significancia estadística para la hipótesis de partida de que la probabilidad de empate es de 1.5% (dejo los detalles al lector).
 

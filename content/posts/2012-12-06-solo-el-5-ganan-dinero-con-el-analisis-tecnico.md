@@ -15,7 +15,7 @@ tags:
 - finanzas
 - mercados financieros
 - mala ciencia
-title: Sólo el 5% ganan dinero con el "análisis técnico"
+title:Solo el 5% ganan dinero con el "análisis técnico"
 url: /2012/12/06/solo-el-5-ganan-dinero-con-el-analisis-tecnico/
 ---
 

@@ -27,7 +27,7 @@ Me llegó el otro día información acerca de un curso sobre métodos para afron
 
 * explicaría cómo la solución común es en general la peor;
 * mostraría por qué cierta solución sencilla, relativamente común y con mala fama no es habitualmente tan mala, explicando, además, cuáles son las situaciones en las que funciona y no funciona e
-* indicaría dos soluciones que proporcionan resultados insesgados, una de las cuales es sencilla de implementar pero sólo funciona en ciertas circunstancias y la otra, aunque más complicada, funciona siempre.
+* indicaría dos soluciones que proporcionan resultados insesgados, una de las cuales es sencilla de implementar perosolo funciona en ciertas circunstancias y la otra, aunque más complicada, funciona siempre.
 
 Es un planteamiento un tanto comercial y no exento de gancho. Sin embargo, para el interesado en estos temas, traigo a colación dos artículos que ofrecen dos perspectivas algo distintas sobre este problema. El primero es una panorámica de procedimientos y herramientas existentes para encarar el problema de los valores no informados (en el contexto del análisis de la regresión, pero fácilmente extrapolables a otros similares), [_Much Ado About Nothing: A Comparison of Missing Data Methods and Software to Fit Incomplete Data Regression Models _](http://maven.smith.edu/~nhorton/muchado.pdf). El segundo es un informe de la [_Agencia Europea del Medicamento_](http://www.ema.europa.eu),  [_Guideline on Missing Data in Confirmatory Clinical Trials_](http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2010/09/WC500096793.pdf), que sostiene una postura razonablemente paranoica al respecto (resumidamente: en caso de duda, siempre la solución más conservadora).
 
@@ -45,7 +45,7 @@ Comienza distinguiendo tres tipos de conjuntos con datos no informados:
 
 Dichos métodos están clasificados en varios grupos:
 
-* Caso completo, consistente en ignorar las observaciones con datos no informados, que sólo es insesgado en el caso MCAR.
+* Caso completo, consistente en ignorar las observaciones con datos no informados, quesolo es insesgado en el caso MCAR.
 * Métodos _ad hoc_, entre los cuales se cita el sustituir los valores no informados por un valor característico (una media del resto, un valor elegido por defecto) o el uso de una serie de técnicas incomprensiblemente populares y que son herencia de otra era: LOCF (_last observation carried forward_) y similares.
 * Imputación múltiple, sobre el que el lector encontrará abundante información adicional en [multiple-imputation.com](http://multiple-imputation.com/).
 * Otros métodos, como los basados en la función de verosimilidad, métodos bayesianos o de ponderación.

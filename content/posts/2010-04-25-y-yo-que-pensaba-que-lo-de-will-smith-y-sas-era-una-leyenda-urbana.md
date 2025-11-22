@@ -27,7 +27,7 @@ Y [resulta que es cierto](http://blogs.sas.com/cokins/index.php?/archives/160-A-
 1. Se eligieron las diez películas más taquilleras de todos los tiempos como conjunto de entrenamiento.
 2. SAS se percató de las siguientes tres reglas de éxito
 	1. Todas ellas hacían uso de efectos especiales.
-	2. En nueve de las diez eran de _marcianos_.
+	2. En nueve de las diez había _marcianos_.
 	3. Y ocho de las diez tenían efectos especiales, marcianos y una historia de amor.
 
 No sé cómo alguien tiene la desvergüenza de publicar eso. Y menos, presentarlo como _historia de éxito_. En fin...

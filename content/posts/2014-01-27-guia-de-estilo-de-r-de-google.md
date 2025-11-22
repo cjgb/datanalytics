@@ -215,7 +215,7 @@ hist(df$pctSpent,
 * **Funciones: definiciones y llamadas.** La definición de las funciones debe contener primero los argumentos sin valores por defecto.
 
     * Idealmente, las pruebas unitarias deberían servir como ejemplo de llamadas a funciones (para rutinas de librerías compartidas).
-    * En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneas sólo deben separar asignaciones.
+    * En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneassolo deben separar asignaciones.
 
 
 {{< highlight R >}}

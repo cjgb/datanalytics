@@ -62,14 +62,14 @@ fivenum( res.juego.c )
 
 Se juega con dos monedas:
 
-* si la cantidad ganada hasta la fecha es múltiplo de 3, se juega con una con la que la probabilidad de ganar es de sólo el 9.5 % pero
+* si la cantidad ganada hasta la fecha es múltiplo de 3, se juega con una con la que la probabilidad de ganar es desolo el 9.5 % pero
 * en el caso contrario, se juega con otra con la que la probabilidad de ganar es del 74.5 %.
 
-Este es otro juego en el que, jugando repetidamene, también se acaba perdiendo. Para verlo, sólo hay que darse cuenta de que las situaciones en que la cantidad ganada o perdida es múltiplo de 3 representan una especie de barrera probabilística: en ellas casi siempre se pierde. Y las probabilidades de ganar y perder con ambas monedas se han elegido de tal manera que es —un poquito — más probable pasar de tener `3n` euros a `3(n-1)` euros que a tener `3(n+1)` euros.
+Este es otro juego en el que, jugando repetidamene, también se acaba perdiendo. Para verlo,solo hay que darse cuenta de que las situaciones en que la cantidad ganada o perdida es múltiplo de 3 representan una especie de barrera probabilística: en ellas casi siempre se pierde. Y las probabilidades de ganar y perder con ambas monedas se han elegido de tal manera que es —un poquito — más probable pasar de tener `3n` euros a `3(n-1)` euros que a tener `3(n+1)` euros.
 
-Así, si observamos el juego sólo cuando la cantidad acumulada es múltiplo de tres (obviando lo que pasa en las jugadas intermedias), veremos que se trata de un juego parecido al anterior.
+Así, si observamos el juegosolo cuando la cantidad acumulada es múltiplo de tres (obviando lo que pasa en las jugadas intermedias), veremos que se trata de un juego parecido al anterior.
 
-El tercero de los juegos es más interesante. Es similar a los anteriores, sólo que utiliza una moneda más. En cada jugada, se tira la última moneda y, si sale cara (con probabilidad 0.5), se juega al primero de los juegos y, si sale cruz, al segundo:
+El tercero de los juegos es más interesante. Es similar a los anteriores,solo que utiliza una moneda más. En cada jugada, se tira la última moneda y, si sale cara (con probabilidad 0.5), se juega al primero de los juegos y, si sale cruz, al segundo:
 
 {{< highlight R >}}
 juego.fin <- function( x ){

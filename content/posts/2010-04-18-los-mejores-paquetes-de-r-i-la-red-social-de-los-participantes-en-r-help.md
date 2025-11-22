@@ -48,7 +48,7 @@ El fichero creado en el paso anterior ocupa 417MB (a fecha de hoy) y tiene [form
 
 
 * Una contiene el ID de cada correo junto con el correo electrónico de su autor.
-* Otra, la relación entre cada mensaje y el mensaje al que hace referencia, es decir, el mensaje del que es respuesta. En ella, obviamente, sólo se guardan los mensajes que son respuesta a otros mensajes anteriores.
+* Otra, la relación entre cada mensaje y el mensaje al que hace referencia, es decir, el mensaje del que es respuesta. En ella, obviamente,solo se guardan los mensajes que son respuesta a otros mensajes anteriores.
 
 La creación de estos ficheros, aunque conceptualmente simple, se complica por las excepciones, distintas configuraciones, etc. de los distintos sistemas de correo electrónico. Pero no son problemas que 20 líneas de código en Python no puedan solventar.
 

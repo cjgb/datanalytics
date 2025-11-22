@@ -108,5 +108,5 @@ Interesante, ¿eh?
 
 **Notas:**
 
-* No he conseguido calcular rutas en zonas más amplias: descargar los mapas de carreteras/calles de toda España, por ejemplo, no es tan sencillo como descargar los de zonas más pequeñas (una ciudad, por ejemplo). El API por defecto de OpenStreetMap, el que he usado, sólo permite descargar zonas que ocupen menos de la cuarta parte de un _grado cuadrado_. Existen procedimientos para extracciones más amplias, pero no las he probado.
+* No he conseguido calcular rutas en zonas más amplias: descargar los mapas de carreteras/calles de toda España, por ejemplo, no es tan sencillo como descargar los de zonas más pequeñas (una ciudad, por ejemplo). El API por defecto de OpenStreetMap, el que he usado,solo permite descargar zonas que ocupen menos de la cuarta parte de un _grado cuadrado_. Existen procedimientos para extracciones más amplias, pero no las he probado.
 * Para otras ubicaciones distintas de las que he probado (y que existen como tales en el objeto `zgz` como, por ejemplo, el campus de la Universidad de Zaragoza) el código que he mostrado falla de manera que no he podido todavía explicar.

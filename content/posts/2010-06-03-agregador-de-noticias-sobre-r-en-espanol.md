@@ -33,7 +33,7 @@ Actualmente, el motor de agregación lista entradas en blogs que:
 
 **Altas de blogs**
 
-El agregador se ha construido utilizando tres blogs que discuten temas relacionados con R con cierta frecuencia y que son sólo un pequeño subconjunto de los que tratan dicho tema. Si alguien conoce algún otro blog que le gustaría ver añadido, está invitado a hacérmelo saber.
+El agregador se ha construido utilizando tres blogs que discuten temas relacionados con R con cierta frecuencia y que sonsolo un pequeño subconjunto de los que tratan dicho tema. Si alguien conoce algún otro blog que le gustaría ver añadido, está invitado a hacérmelo saber.
 
 **Bajas de blogs**
 

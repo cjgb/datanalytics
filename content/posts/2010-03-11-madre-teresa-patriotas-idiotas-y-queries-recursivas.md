@@ -64,7 +64,7 @@ Y, retomando el tema con el que se encabezaba esta entrada, indicaré que el uso
 |1002| 1004|
 |...| ...|
 
-La tabla anterior puede contener sólo la relación directa: el ala izquierda "es parte" del fuselaje, pero no "directamente" del avión. ¿Cómo enumerar las arandelas que forman parte del ala derecha del avión? ¿Cómo descender por la cadena jerárquica representada por la tabla anterior?
+La tabla anterior puede contenersolo la relación directa: el ala izquierda "es parte" del fuselaje, pero no "directamente" del avión. ¿Cómo enumerar las arandelas que forman parte del ala derecha del avión? ¿Cómo descender por la cadena jerárquica representada por la tabla anterior?
 
 La _query_
 

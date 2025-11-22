@@ -3,9 +3,9 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 - r
-date: 2018-04-05 08:13:12+00:00
-draft: false
-lastmod: '2025-04-06T18:45:29.699523'
+date: 2018-04-05
+noindex: true
+lastmod: '2025-04-06'
 related:
 - 2023-02-02-nueva-version-libro-r.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md

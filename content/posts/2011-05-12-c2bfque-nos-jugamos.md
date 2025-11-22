@@ -47,7 +47,7 @@ se puede despejar
 $$ x = \frac{wb - (n - w)}{nb}, $$
 
 
-que sería la proporción _óptima_. Nótese que uno querría fijar $x$ de antemano, pero este sólo se conoce después de participar en el juego y contar el número de éxitos. No obstante,
+que sería la proporción _óptima_. Nótese que uno querría fijar $x$ de antemano, pero estesolo se conoce después de participar en el juego y contar el número de éxitos. No obstante,
 
 
 $$x=\frac{wb-(n-w)}{nb}=\frac{bw/n-(1-w/n)}{b}$$

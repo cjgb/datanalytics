@@ -48,7 +48,7 @@ De la física mal aprendida de bachillerato sabemos que $P = IV$, pero en este c
 
 $$\int_0^T i(t) v(t) dt \le \sqrt{\int_0^T i^2(t) dt} \sqrt{\int_0^T v^2(t) dt}.$$
 
-La igualdad, además, sólo se alcanza si $i(t) = \lambda v(t)$ para algún $\lambda$ real, algo que sucede a menudo en muchos libros.
+La igualdad, además,solo se alcanza si $i(t) = \lambda v(t)$ para algún $\lambda$ real, algo que sucede a menudo en muchos libros.
 
 Que $i(t)$ y $v(t)$ no sean proporcionales puede tener muchas causas de las que los libros tienden a mencionar las viejunas (y omitir otras más modernas, como las que tienen que ver con fuentes conmutadas, etc., relacionadas con la profusión de cachivaches electrónicos).
 

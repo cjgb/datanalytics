@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2012-02-22 08:18:13+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:19.168725'
 related:
 - 2012-12-07-el-escaso-beneficio-marginal-de-trabajar.md

@@ -28,7 +28,7 @@ $${ n \choose m }p^m (1-p)^{(n-m)},$$
 
 es decir, sigue una distribución binomial. Y los libros nos cuentan que su distribución de probabilidad conjugada es la [beta](http://es.wikipedia.org/wiki/Distribución_beta). Es decir, que si nuestro conocimiento del valor de la proporción y están descritos por una distribución _a priori_ $B(a,b)$, entonces, una vez extraída la muestra de la población, la distribución a posteriori del parámetro será $B(a+m, b+n-m)$ donde $n$ y $m$ son el número ensayos adicionales y el número de éxitos obtenidos en ellos respectivamente.
 
-La pregunta que me trasladó mi cliente (un tipo inteligente y no sólo por haberme contratado) era si era razonable esperar un decrecimiento de la varianza de 0.11 a 0.01 entre la distribución a priori y la posteriori con _sólo_ 22 observaciones.
+La pregunta que me trasladó mi cliente (un tipo inteligente y nosolo por haberme contratado) era si era razonable esperar un decrecimiento de la varianza de 0.11 a 0.01 entre la distribución a priori y la posteriori con _sólo_ 22 observaciones.
 
 ¿Cómo decae la varianza conforme crece _n_? Si hacemos caso a los editores de la Wikipedia,
 
@@ -42,7 +42,7 @@ y si suponemos que el número de éxitos es igual al de fracasos, conforme $n$ c
 $$\sigma^2 \sim \frac{1/4 n^2}{(n+1)n^2} \sim \frac{1}{4n}$$
 
 
-Y si sólo hay aciertos, decrece como
+Y sisolo hay aciertos, decrece como
 
 
 $$\sigma^2 \sim \frac{ bn }{(n+b+1)(n+b)^2} \sim \frac{b}{n^2}$$

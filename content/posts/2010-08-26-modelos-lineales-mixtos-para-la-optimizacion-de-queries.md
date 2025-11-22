@@ -46,7 +46,7 @@ epigrafes <- sample( epigrafes, n )
 fechas <- sample( fechas, n, replace = TRUE )
 {{< / highlight >}}
 
-Además, se aleatoriza con respecto al tiempo. Esto se hace para evitar que el efecto de las fluctuaciones de carga del servidor se confundan con el efecto de las distintas _queries_. Distribuyendo aleatoriamente en el tiempo el momento de la ejecución de una misma _query_ se reduce la posibilidad de que todas las iteraciones de una de ellas se realicen en periodos de carga anormalmente alta o baja (los puristas del diseño experimental nos aplaudirían en este punto sólo a medias).
+Además, se aleatoriza con respecto al tiempo. Esto se hace para evitar que el efecto de las fluctuaciones de carga del servidor se confundan con el efecto de las distintas _queries_. Distribuyendo aleatoriamente en el tiempo el momento de la ejecución de una misma _query_ se reduce la posibilidad de que todas las iteraciones de una de ellas se realicen en periodos de carga anormalmente alta o baja (los puristas del diseño experimental nos aplaudirían en este puntosolo a medias).
 
 {{< highlight R >}}
 n.rep <- 5

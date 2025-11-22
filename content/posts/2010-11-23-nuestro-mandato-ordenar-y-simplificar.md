@@ -19,7 +19,7 @@ title: 'Nuestro mandato: ordenar y simplificar'
 url: /2010/11/23/nuestro-mandato-ordenar-y-simplificar/
 ---
 
-Todo el mundo entiende que los médicos, sólo por serlo, están sujetos a un mandato específico: luchar contra la enfermedad. Puede que otros gremios (como los maestros o los jueces) tengan otros tan escuetos como significativos.
+Todo el mundo entiende que los médicos,solo por serlo, están sujetos a un mandato específico: luchar contra la enfermedad. Puede que otros gremios (como los maestros o los jueces) tengan otros tan escuetos como significativos.
 
 Yo, durante un tiempo, me pregunté cuál sería el de los matemáticos, los estadísticos, los que nos dedicamos al análisis de datos. Y creí dar con una fórmula que hice mía: **ordenar y simplificar la información**.
 

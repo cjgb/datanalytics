@@ -27,7 +27,7 @@ Y los españoles patriotas de junio de 2012 leemos el [informe de estabilidad fi
 [![](/img/2012/06/graficaca_bde.png#center)
 ](/img/2012/06/graficaca_bde.png#center)
 
-un análisis _agregado_ de la situación de las entidades financieras españolas. Resalto el término _agregado_ porque da la impresión de que para el banco de España hubiese sólo una entidad. O que todas se pareciesen como gotas de agua.
+un análisis _agregado_ de la situación de las entidades financieras españolas. Resalto el término _agregado_ porque da la impresión de que para el banco de España hubiesesolo una entidad. O que todas se pareciesen como gotas de agua.
 
 En efecto, estudia el informe con bastante detalle la cuenta de pérdidas y ganancias del sistema de las entidades financieras, resumido en el siguiente cuadro:
 
@@ -51,6 +51,6 @@ Ahí tenemos a nuestros dos protagonistas: la media y la mediana. Paralelas, per
 
 >Esta evolución se debe a un conjunto de factores. Unos, de carácter puntual, en la medida en que se deben a incrementos elevados de esta variable para algunas entidades concretas, algunas de las cuáles [_sic_] aumentaron significativamente las pérdidas por deterioro de activos en el último trimestre, anticipando, en parte, los cambios normativos posteriores. Y otros, de carácter más general, al observarse un repunte relativamente generalizado entre entidades, especialmente en el último trimestre de 2011, lo que obedece al deterioro en la evolución de los activos dudosos ya comentado, y en parte a una posible intensificación en el reconocimiento del deterioro en la cartera inmobiliaria. Que la tendencia general es un aumento en el último trimestre de 2011 queda reflejado en la evolución de la mediana de las pérdidas por deterioro de activos sobre los activos totales medios, mientras que situaciones puntuales de entidades han venido presionando al alza esta ratio para el conjunto del sector.
 
-Cuando la mediana se distancia tan extremadamente de la media, sólo hay una explicación: existe un subconjunto (probablemente, espero, pequeño) de entidades, alguna de las cuales de gran tamaño, que están en una situación muy mala mientras que el resto tienen una situación significativamente más desahogada. (Y espero que el futuro me dé la razón por usar el adjetivo _desahogada_ y no _descarada_ o _alevosa_).
+Cuando la mediana se distancia tan extremadamente de la media,solo hay una explicación: existe un subconjunto (probablemente, espero, pequeño) de entidades, alguna de las cuales de gran tamaño, que están en una situación muy mala mientras que el resto tienen una situación significativamente más desahogada. (Y espero que el futuro me dé la razón por usar el adjetivo _desahogada_ y no _descarada_ o _alevosa_).
 
 Es un poco extraño y daría la impresión de que atenta contra los objetivos del mismo informe dado que si el objetivo es, como el título indica, estudiar la estabilidad del sistema bancario español, el hincapié no debería hacerse en el conjunto, más o menos sano, de la banca sino en aquel subconjunto de entidades muy problemáticas de un tamaño lo suficientemente grande como para comprometer, valga la redundancia, la estabilidad del sistema. Se le agradecería encarecidamente que nos dijese cuáles son y, de paso, cómo ha dejado que lleguen a donde están.

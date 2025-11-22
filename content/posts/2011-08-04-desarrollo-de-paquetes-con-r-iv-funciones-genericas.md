@@ -19,7 +19,7 @@ title: 'Desarrollo de paquetes con R (IV): funciones genéricas'
 url: /2011/08/04/desarrollo-de-paquetes-con-r-iv-funciones-genericas/
 ---
 
-La función `plot` es genérica. Uno puede aplicársela a un `data.frame` o a un objeto de la clase `lm`. Y en el fondo, `plot` sólo elige cuál de sus _métodos_, es decir, las funciones que realizan el trabajo verdaderamente, aplicar. Para ver cuáles son los métodos asociados a `plot` basta con ejecutar en R
+La función `plot` es genérica. Uno puede aplicársela a un `data.frame` o a un objeto de la clase `lm`. Y en el fondo, `plot`solo elige cuál de sus _métodos_, es decir, las funciones que realizan el trabajo verdaderamente, aplicar. Para ver cuáles son los métodos asociados a `plot` basta con ejecutar en R
 
 
 

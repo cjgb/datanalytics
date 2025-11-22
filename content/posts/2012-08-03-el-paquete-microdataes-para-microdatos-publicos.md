@@ -29,7 +29,7 @@ Comencé hace un tiempo un pequeño paquete de R, `MicroDataEs`, para importar a
 
 Quien haya tratado de trabajar, por ejemplo, con los ficheros de [microdatos de la EPA que publica el INE](http://www.ine.es/prodyser/micro_epa.htm) comprenderá rápidamente el interés y alcance del paquete. Porque estos datos:
 
-* se distribuyen en un fichero de texto posicional que sólo contiene códigos numéricos y
+* se distribuyen en un fichero de texto posicional quesolo contiene códigos numéricos y
 * la relación de valores correspondientes a dichos códigos y otros metadatos (como la posición de las columnas) están contenidas en unas [hojas de Excel](ftp://www.ine.es/temas/epa/disereg_epa0511.zip).
 
 Cada usuario de R que quiera, por lo tanto, utilizar esta información tiene primero que (muy trabajosamente) trasladar a R los metadatos de las hojas de Excel, crear funciones que realicen la traducción, etc. Y estoy seguro de que más de uno (y más de cien) ya han malgastado horas de su vida en esos afanes.

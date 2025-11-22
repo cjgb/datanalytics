@@ -34,7 +34,7 @@ Mario, un lector del artículo nos quita la palabra de la boca a todos:
 
 Y prosigue citando referencias, etc. A lo que el autor responde (con un par de pares de huevos):
 
->El punto de Gelman es que usar polinomios globales y/o de grado elevados puede llevar a 'descubrir' discontinuidades donde no las haya. Por esta razón, en nuestro paper usamos sólo regresiones lineales y sólo usando observaciones cerca de la discontinuidad. Este método arregla muchos de los posibles problemas que mencionabas.
+>El punto de Gelman es que usar polinomios globales y/o de grado elevados puede llevar a 'descubrir' discontinuidades donde no las haya. Por esta razón, en nuestro paper usamossolo regresiones lineales ysolo usando observaciones cerca de la discontinuidad. Este método arregla muchos de los posibles problemas que mencionabas.
 >
 > Hay que mencionar además que, en nuestra figura, las lineas no están calculadas ajustando polinomios globales sino usando local linear regressions. Si bien implementado, el RDD es uno de los métodos más fiables para identificar efectos causales cuando no hay un experimento.
 

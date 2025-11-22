@@ -77,7 +77,7 @@ logexp <- function(days)
 }
 {{< / highlight >}}
 
-Esta definición de la función de enlace es bastante peculiar: depende del sujeto no sólo a través de mu_i, como es habitual y nos enseñan los libros, sino también a través de la variable tiempo, que depende del sujeto.
+Esta definición de la función de enlace es bastante peculiar: depende del sujeto nosolo a través de mu_i, como es habitual y nos enseñan los libros, sino también a través de la variable tiempo, que depende del sujeto.
 
 Et voilá:
 

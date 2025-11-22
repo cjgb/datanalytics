@@ -32,7 +32,7 @@ Así que lo he configurado para que solo se pueda acceder a él desde `localhost
 
 al fichero `/etc/rstudio/rserver.conf` (y reiniciando `rstudio-server` inmediatamente, claro).
 
-Con lo cual, reitero, sólo se puede acceder a él _desde dentro_. Pero yo estoy fuera. Así que
+Con lo cual, reitero,solo se puede acceder a él _desde dentro_. Pero yo estoy fuera. Así que
 ¿cómo utilizo entonces RStudio Server? Pues como dice el título de la entrada: mediante [redirección dinámica de puertos](https://es.wikipedia.org/wiki/Redirecci%C3%B3n_de_puertos#Redirecci.C3.B3n_din.C3.A1mica_de_puertos). En mi máquina hago
 
 `ssh -ND 2001 miusuario@datanalytics.com`

@@ -44,7 +44,7 @@ Y de hecho, Lucas crea una depresión ficticia, un experimento mental, en un par
 
 No sé si desde el 88, en el que se escribió esto, hasta el 2011 en que se concedió el premio, han cambiado mucho las cosas. No sé si los premiados han podido inducir distintos efectos en una muestra de economías comparables debidamente aleatorizada, etc. Y que otros laboratorios macroeconómicos hayan sido capaces de reproducrilos.
 
-Ni quiero ni pretendo menospreciar la ciencia económica. Soy consciente de las limitaciones con que se encuentra. Sólo protesto por lo desafortunado y desorientador del titular. Los economistas hacen lo que pueden y las autoridades económicas debaten alrededor de una mesa y no demuestran frente a una pizarra.
+Ni quiero ni pretendo menospreciar la ciencia económica. Soy consciente de las limitaciones con que se encuentra.Solo protesto por lo desafortunado y desorientador del titular. Los economistas hacen lo que pueden y las autoridades económicas debaten alrededor de una mesa y no demuestran frente a una pizarra.
 
 
 ### ¿Causalidad?

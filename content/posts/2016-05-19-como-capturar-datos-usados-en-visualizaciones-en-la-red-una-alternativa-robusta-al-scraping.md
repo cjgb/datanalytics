@@ -20,7 +20,7 @@ title: 'Cómo capturar datos usados en visualizaciones en la red: una alternativ
 url: /2016/05/19/como-capturar-datos-usados-en-visualizaciones-en-la-red-una-alternativa-robusta-al-scraping/
 ---
 
-Se me pregunta cómo llegué a [los datos](https://spreadsheets.google.com/feeds/list/1vyVTJPr7ZpuQI4m17cekWl485cQ-Zh6O9Yb6zXkPpYI/od6/public/values?alt=json) con los que armé [esta entrada](https://datanalytics.com/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/). Recuérdese que gráficos como los que aparecen [aquí](http://www.elmundo.es/grafico/espana/2015/10/15/561fe19422601dd7728b45ef.html) los pinta tu propio navegador con javascript. De alguna manera, el servidor manda datos a tu navegador y, por lo tanto, de alguna manera, esos datos obran en tu poder. Sólo hay que saber capturarlos.
+Se me pregunta cómo llegué a [los datos](https://spreadsheets.google.com/feeds/list/1vyVTJPr7ZpuQI4m17cekWl485cQ-Zh6O9Yb6zXkPpYI/od6/public/values?alt=json) con los que armé [esta entrada](https://datanalytics.com/2016/05/09/encuestas-electorales-medios-y-sesgos-ii/). Recuérdese que gráficos como los que aparecen [aquí](http://www.elmundo.es/grafico/espana/2015/10/15/561fe19422601dd7728b45ef.html) los pinta tu propio navegador con javascript. De alguna manera, el servidor manda datos a tu navegador y, por lo tanto, de alguna manera, esos datos obran en tu poder.Solo hay que saber capturarlos.
 
 La manera (más bien, una de ellas):
 

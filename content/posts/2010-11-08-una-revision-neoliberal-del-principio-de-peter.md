@@ -57,7 +57,7 @@ El resultado que les valió el Ig-Nobel 2010 fue el que para determinados tipos 
 
 Un compañero mío, empleado en una empresa comatosa del principio de Peter, me comentó que había renunciado a un ascenso: se negaba a ascender rechazando, incluso, el inherente incremento de sueldo. Medio en broma, le aconsejé que no renunciase al ascenso sino que lo vendiera. Igual alguien se lo compraba.
 
-Me di cuenta de que ahí radicaba en esencia el _quid_ del principio de Peter: los ascensos son nominales. Como los billetes de avión, son algo que sólo tú puedes usar... quieras o no. Se me hizo evidente cómo subvertir la maldición de Peter:
+Me di cuenta de que ahí radicaba en esencia el _quid_ del principio de Peter: los ascensos son nominales. Como los billetes de avión, son algo quesolo tú puedes usar... quieras o no. Se me hizo evidente cómo subvertir la maldición de Peter:
 
 1. Que los ascensos no sean nominales sino _al portador_.
 2. Que el portador pueda vendérselo a un interesado.

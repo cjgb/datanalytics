@@ -20,7 +20,7 @@ title: Datos públicos, datos DUP
 url: /2011/06/10/datos-publicos-datos-dup/
 ---
 
-Hoy en día, en España, salvo por unas cuantas honrosas excepciones no existen datos públicos, sólo datos manejados dentro de las administraciones públicas (y a los que los ciudadanos no tienen acceso).
+Hoy en día, en España, salvo por unas cuantas honrosas excepciones no existen datos públicos,solo datos manejados dentro de las administraciones públicas (y a los que los ciudadanos no tienen acceso).
 
 Los datos públicos deberían ser datos DUP: **d**isponibles, **u**bicables y **p**rocesables.
 

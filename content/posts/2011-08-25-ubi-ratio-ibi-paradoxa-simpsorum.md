@@ -38,7 +38,7 @@ extraído del estudio [Una agenda de crecimiento para España](http://www.cris
 
 
 * La productividad de los empleados españoles está en línea con la de sus pares europeos (cuando se los compara según el tamaño de las empresas en las que trabajan).
-* Las discusiones recurrentes acerca de la baja competitividad del empleado español son sólo una ilusión producida por la paradoja de Simpson.
+* Las discusiones recurrentes acerca de la baja competitividad del empleado español sonsolo una ilusión producida por la paradoja de Simpson.
 
 En cuyo caso, el remedio para solucionar la aparente baja productividad española no sería que los empleados trabajasen más y cobrasen menos —como reiteran nuestros próceres— sino que las empresas ganasen envergadura y aprovechasen las economías de escala.
 

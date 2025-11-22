@@ -29,7 +29,7 @@ foreach( i = 1:3 ) %do% log( i )
 {{< / highlight >}}
 
 
-Volveré sobre algunas operaciones interesantes y bastante útiles que permite realizar esta función porque, de todas ellas, hoy me ocuparé sólo de una: la que abre la puerta de una manera sencilla a la paralelización de bucles.
+Volveré sobre algunas operaciones interesantes y bastante útiles que permite realizar esta función porque, de todas ellas, hoy me ocuparésolo de una: la que abre la puerta de una manera sencilla a la paralelización de bucles.
 
 Pero no lo haré sin antes explicar la singularidad de la notación de la construcción anterior y el papel de la partícula `%do%`: en ella, `foreach( i = 1:3 )` construye un objeto de la clase `foreach`, como puede comprobarse si uno ejecuta
 
