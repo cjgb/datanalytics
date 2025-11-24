@@ -15,7 +15,7 @@ related:
 tags:
 - consultoría
 - estadística
-title:Solo quiero saber si basta con tres casos
+title: Solo quiero saber si basta con tres casos
 url: /2011/02/22/solo-quiero-saber-si-basta-con-tres-casos/
 ---
 
