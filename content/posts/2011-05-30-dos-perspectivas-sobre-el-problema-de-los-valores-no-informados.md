@@ -23,8 +23,6 @@ url: /2011/05/30/dos-perspectivas-sobre-el-problema-de-los-valores-no-informados
 
 Me llegó el otro día información acerca de un curso sobre métodos para afrontar el problema planteado por los valores no informados (_missing observations_) que su autor agrupaba bajo etiquetas bastante simpáticas: el bueno, el malo y el impensable. Tal vez faltaba el feo, tal vez porque lo son todos ellos, igual que el bendito problema que suponen. Añadía, sin mayores abundamientos, que
 
-
-
 * explicaría cómo la solución común es en general la peor;
 * mostraría por qué cierta solución sencilla, relativamente común y con mala fama no es habitualmente tan mala, explicando, además, cuáles son las situaciones en las que funciona y no funciona e
 * indicaría dos soluciones que proporcionan resultados insesgados, una de las cuales es sencilla de implementar perosolo funciona en ciertas circunstancias y la otra, aunque más complicada, funciona siempre.
@@ -37,22 +35,18 @@ Pero puede que a los lectores de esta bitácora les interen más los contenidos 
 
 Comienza distinguiendo tres tipos de conjuntos con datos no informados:
 
-
-
 * MCAR (_missing completely at random_), en que el patrón de los registros no informados no depende ni de la variable respuesta $Y$, ni de los valores observados de los predictores, $X_{obs}$. Es el caso más propicio.
 * MAR (_missing at random_), cuando dicho patrón depende de $Y$ e $X_{obs}$, pero no de ningún otro factor.
 * NINM (_non ignorable missingness_), cuando el patrón de los datos no informados depende, entre otros, del valor no observado de los datos no observados (mis excusas: no he sabido evitar la reiteración en esta frase). Este es precisamente el caso en el que los métodos de imputación discutidos en el resto del artículo pueden introducir sesgos.
 
 Dichos métodos están clasificados en varios grupos:
 
-* Caso completo, consistente en ignorar las observaciones con datos no informados, quesolo es insesgado en el caso MCAR.
+* Caso completo, consistente en ignorar las observaciones con datos no informados, que solo es insesgado en el caso MCAR.
 * Métodos _ad hoc_, entre los cuales se cita el sustituir los valores no informados por un valor característico (una media del resto, un valor elegido por defecto) o el uso de una serie de técnicas incomprensiblemente populares y que son herencia de otra era: LOCF (_last observation carried forward_) y similares.
 * Imputación múltiple, sobre el que el lector encontrará abundante información adicional en [multiple-imputation.com](http://multiple-imputation.com/).
 * Otros métodos, como los basados en la función de verosimilidad, métodos bayesianos o de ponderación.
 
 Finalmente ofrece una panorámica de herramientas de _software_ con las que tratar este problema, entre las que se cuentan (restringiéndome a las que serán útiles a los usuarios de R):
-
-
 
 * Amelia II, implementado en el paquete [Amelia](http://cran.r-project.org/web/packages/Amelia/index.html).
 * La función [`aregImpute`](http://lib.stat.cmu.edu/S/Harrell/help/Hmisc/html/aregImpute.html) del paquete Hmisc.

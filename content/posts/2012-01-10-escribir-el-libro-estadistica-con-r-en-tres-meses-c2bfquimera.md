@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-01-10 07:11:10+00:00
-draft: false
-lastmod: '2025-04-06T19:05:16.994493'
+noindex: true
+lastmod: '2025-12-05'
 related:
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
@@ -18,7 +18,7 @@ title: Escribir el libro "Estadística con R" en tres meses, ¿quimera?
 url: /2012/01/10/escribir-el-libro-estadistica-con-r-en-tres-meses-quimera/
 ---
 
-No sé si es quimera o no. Se me ocurrió el otro día. Dejo mi idea aquí escrita por ver por dónde respira la comunidad.
+No sé si es quimera o no. Se me ocurrió el otro día. Dejo mi idea aquí escrita para ver por dónde respira la comunidad.
 
 Se trata, sí, de un libro extenso sobre R. Que cubra el 90-95% de los métodos estadísticos que utilizan los usuarios —en sentido amplio— de la estadística: médicos, sociólogos, etc. Con R. Con la teoría justa pero, eso sí, con referencias a fuentes fiables: se supone que sus lectores saben ya algo de estadística, pero tal vez no cómo afrontar su problema con R. Una especie de recetario bien hecho. Un vademécum.
 

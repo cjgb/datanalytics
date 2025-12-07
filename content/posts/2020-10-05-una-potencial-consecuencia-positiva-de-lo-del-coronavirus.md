@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2020-10-05 09:13:00+00:00
-draft: false
 lastmod: '2025-04-06T19:07:10.634289'
 related:
 - 2017-03-03-wikipedia-prophet.md

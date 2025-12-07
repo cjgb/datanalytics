@@ -105,7 +105,7 @@ is.loaded("func1")
 
 que debería ser TRUE de haberse seguido los pasos anteriores. Si funciones.dll ha sido compilada con un compilador distinto de MinGW, es bastante posible que is.loaded("func1") resulte ser FALSE porque muchos de ellos tienden a _decorar_ el nombre de las funciones de las DLLs de una manera un tanto impredecible, de modo que func1 acaba llamándose _func1, _func1@4 o ?func1@@YDAOEW3N12KDAS.
 
-R no posee ningún comando capaz de enumerar las funciones accesibles dentro de una DLL. Finalmente, para invocar la función func1 de funciones.dll, R utiliza la función .C -nombre que subraya el hecho de quesolo es válida para funciones escritas en C-, que implementa el interfaz requerido entre R y la DLL. Dicho interfaz determina, por una parte, la sintaxis de la función .C e impone ciertas restricciones en la naturaleza de las funciones de la DLL. Los aspectos fundamentales a tener en cuenta son:
+R no posee ningún comando capaz de enumerar las funciones accesibles dentro de una DLL. Finalmente, para invocar la función func1 de funciones.dll, R utiliza la función .C -nombre que subraya el hecho de que solo es válida para funciones escritas en C-, que implementa el interfaz requerido entre R y la DLL. Dicho interfaz determina, por una parte, la sintaxis de la función .C e impone ciertas restricciones en la naturaleza de las funciones de la DLL. Los aspectos fundamentales a tener en cuenta son:
 
 
 * Cómo invoca .C a la función y cómo le transfiere datos.
@@ -115,9 +115,7 @@ R no posee ningún comando capaz de enumerar las funciones accesibles dentro de 
 
 Pero estas cuestiones se discuten mejor frente a un ejemplo concreto.
 
-
 ### Un ejemplo
-
 
 Supóngase como arriba que el fichero funciones.c es
 
@@ -130,7 +128,6 @@ void func1(double *v1, double *v2, int *longitud, double*producto){
 }
 {{< / highlight >}}
 
-
 Esta función implementa el producto escalar entre dos vectores de dimensión dada por *longitud que pasan por referencia a través de v1 y v2, devolviéndolo a través del puntero producto. Si este fichero se compila como se indica más arriba para crear funciones.dll y se carga en R, el código
 
 {{< highlight c >}}
@@ -141,14 +138,10 @@ producto <- .C("func1", as.double(a), as.double(b), as.integer(14), resultado=do
 
 ubicará el producto vectorial de los vectores de dimensión 14 a y b en la variable producto. Hay que tener en cuenta -y son normativos, no meramente descriptivos de la situación anterior- los siguientes aspectos:
 
-
 1. `func1` es una función de tipo `void`: toda transferencia de datos se realiza a través de sus parámetros; en el caso particular anterior, a través 	del último.
 2. Al pasar datos a la función, hay que forzar la compatibilidad de tipos entre los manejados por R y los que exige la función externa; así, el tipo double de R corresponde a double de C e integer de R a int de C. Una tabla más completa de equivalencias puede consultarse en la documentación de R.
 3. `.C` devuelve una lista a R; para acceder a alguno de sus campos hay que darle un nombre, como se ha hecho en el ejemplo con resultado, y utilizarlo con combinación con el operador $ para transferirlo a una variable interna, producto, en este caso.
 
-
-
 ### ¿Existen otros procedimientos para incorporar código compilado a R?
-
 
 En efecto, las nuevas versiones de R incluyen métodos alternativos y más potentes para incorporar código compilado a R que permiten, por ejemplo, invocar desde C estructuras de datos o funciones de R. Incluso es posible invocar funciones de R desde aplicaciones independientes escritas en C íntegramente. No obstante, estos procedimientos, aparte de exigir una implementación mucho más compleja, tienen una utilidad marginal puesto que su potencial campo de aplicación se solapa grandemente con aquel en que la combinación de código en R combinado o no con código en C como se describe más arriba es lo suficentemente eficiente.

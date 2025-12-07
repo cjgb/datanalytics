@@ -27,7 +27,7 @@ El Ministerio de Medio Ambiente recoge [estadísticas sobre incendios forestales
 
 >La Dirección General de Medio Natural y Política Forestal del Ministerio de Medio Ambiente y Medio Rural y Marino acumula los datos provinciales y obtiene las cifras nacionales del año en curso. Estas cifras se muestran en un cuadro que las compara con las del decenio anterior en el mismo intervalo de fechas.
 >
->La información del año en curso tiene carácter provisional y está sujeta a ajustes derivados de la discriminación de los incendios que tienen lugar en terreno forestal de aquellos quesolo han afectado a terrenos agrícolas o urbanos y de la medición y clasificación de las superficies recorridas por el fuego.
+>La información del año en curso tiene carácter provisional y está sujeta a ajustes derivados de la discriminación de los incendios que tienen lugar en terreno forestal de aquellos que solo han afectado a terrenos agrícolas o urbanos y de la medición y clasificación de las superficies recorridas por el fuego.
 
 
 

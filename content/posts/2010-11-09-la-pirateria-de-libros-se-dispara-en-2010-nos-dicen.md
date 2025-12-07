@@ -38,4 +38,4 @@ El mismo IDC dice:
 
 Y yo me pregunto: si el casi 60% de los usuarios estuviesen dispuestos a adquirir los productos que ahora _piratean_ a los _precios de mercado_, ¿por qué no lo están haciendo ya?
 
-Con quesolo cinco de mis lectores me animen a hacerlo en los comentarios, le mandaré al Sr. Rafael Achaerandio, responsable del estudio, un correo electrónico invitándolo a leer el [código deontológico del International Statistical Institute](http://isi-web.org/about/declarationprofessionalethics-2010uk).
+Con que solo cinco de mis lectores me animen a hacerlo en los comentarios, le mandaré al Sr. Rafael Achaerandio, responsable del estudio, un correo electrónico invitándolo a leer el [código deontológico del International Statistical Institute](http://isi-web.org/about/declarationprofessionalethics-2010uk).

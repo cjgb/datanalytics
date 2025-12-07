@@ -28,7 +28,7 @@ Puede ser que se sintiesen intimidados y temiesen una objeción capciosa (¡ah, 
 
 Puede que el cálculo mental sea una disciplina que haya caído en desgracia en los recientes planes de estudio. Pero, aparte de los beneficios que pueda aportar su ejercicio frente a la enfermedad del Alzheimer, nos aparta también del anumerismo.
 
-Hacer pequeñas operaciones matemáticas (eminentemente, divisiones) a la hora de leer el periódico, aunquesolo sean correctas en orden de magnitud, nos ayuda a entender el mundo: ¿a cuánto asciende la deuda griega por europeo? ¿Y el gasto militar por español? ¿A cuánto nos salieron los 8.000 millones del Plan E por barba?
+Hacer pequeñas operaciones matemáticas (eminentemente, divisiones) a la hora de leer el periódico, aunque solo sean correctas en orden de magnitud, nos ayuda a entender el mundo: ¿a cuánto asciende la deuda griega por europeo? ¿Y el gasto militar por español? ¿A cuánto nos salieron los 8.000 millones del Plan E por barba?
 
 Las calculadoras pueden ser más veloces a la hora de obtener una respuesta exacta. Pero sacarlas del bolsillo, teclear nosecuántos ceros (¡yo siempre los cuento mal!), etc. nos incomoda. Una respuesta aproximada utilizando cálculo mental y cuatro trucos simplificadores está siempre a la mano.
 

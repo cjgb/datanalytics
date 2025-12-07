@@ -2,9 +2,9 @@
 author: Carlos J. Gil Bellosta
 categories:
 - anuncio
-date: 2015-06-04 08:13:14+00:00
-draft: false
-lastmod: '2025-04-06T19:07:13.594476'
+date: 2015-06-04
+noindex: true
+lastmod: '2025-12-08'
 related:
 - 2011-03-22-graficos-i-introduccion.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md

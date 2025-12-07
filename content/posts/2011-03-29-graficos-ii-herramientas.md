@@ -38,7 +38,7 @@ En orden alfabético son:
 * [Quantum4D](http://www.quantum4d.com/)
 * [Spotfire](http://spotfire.tibco.com/), que era una herramienta que utilizaban unos clientes y del que, a pesar de ser _software _propietario, guardo un recuerdo muy positivo. ¡Lo que daría por encontrar una herramienta libre análoga!
 * [Starlight](http://starlight.pnl.gov/)
-* [Tableau](http://www.tableausoftware.com/), del quesolo he oído contar cosas buenas. Existen visualizaciones creadas con él verdaderamente impactantes. Y se lo he oído recomendar a un tipo del que me fío (aunque yo no lo haya usado directamente). ¡Una lástima que sea propietario!
+* [Tableau](http://www.tableausoftware.com/), del que solo he oído contar cosas buenas. Existen visualizaciones creadas con él verdaderamente impactantes. Y se lo he oído recomendar a un tipo del que me fío (aunque yo no lo haya usado directamente). ¡Una lástima que sea propietario!
 * [Viscovery](http://www.viscovery.net/)
 * [Visumap](http://www.visumap.net/), orientado a la visualización de datos multidimensionales
 

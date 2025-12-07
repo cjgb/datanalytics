@@ -37,7 +37,7 @@ format(x[1] * sin(x[2])^3, notation = "plus-minus", digits = 3)
 #[1] "0.75 +/- 1.28"
 {{< / highlight >}}
 
-Y nuestro viejo, clásico, manido, infrautilizado, semidesconocido mas no por ello menos querido método delta, ¿para qué existe en lugar de (como elucubraba el filósofo), simplemente, no existir? ¿Para qué otra cosa sino para aprenderlo me levanté yo aquella fría mañana del 94 sino para contemplarlo proyectado de diapositivas manuscritas de acetato? ¿Fue en vano?
+Y nuestro viejo, clásico, manido, infrautilizado, semidesconocido mas no por ello menos querido [método delta](https://en.wikipedia.org/wiki/Delta_method), ¿para qué existe en lugar de (como elucubraba el filósofo), simplemente, no existir? ¿Para qué otra cosa sino para aprenderlo me levanté yo aquella fría mañana del 94 sino para contemplarlo proyectado de diapositivas manuscritas de acetato? ¿Fue en vano?
 
 Pues no, el método delta vive, colea y pega soberanas patadas en el culo. Así:
 

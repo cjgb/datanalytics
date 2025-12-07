@@ -48,7 +48,7 @@ f <- function( n, x ){
 {{< / highlight >}}
 
 
-La función `browser `permite inspeccionar el estado de la función sin tener que llamar a `debug `sobre toda ella. Se le puede añadir, además, una condición para quesolo interrumpa la ejecución del programa bajo ciertas condiciones.
+La función `browser `permite inspeccionar el estado de la función sin tener que llamar a `debug `sobre toda ella. Se le puede añadir, además, una condición para que solo interrumpa la ejecución del programa bajo ciertas condiciones.
 
 
 {{< highlight R >}}

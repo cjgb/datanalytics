@@ -20,7 +20,7 @@ url: /2011/02/14/mas-optimo-uffff/
 
 No voy a descubrir nada diciendo que cada gremio utiliza una jerga característica. Y que la que se maneja en disciplinas tales como la consultoría, la informática y la práctica de las ciencias aplicadas está tremendamente influida por lenguas extranjeras.
 
-Algunos, los menos, tratamos de evitar barbarismos innecesarios y nos escandalizamos del _spanglish_ galopante. En nuestra ayuda, poco auxilio podemos recabar de la [RAE](http://www.elmundotoday.com/2010/05/pronto-la-rae-admitira-neologismos-como-enviar-o-conexion/), que avanza a pasitos tan cortos (pero seguros, ¿eh?) quesolo resolverá nuestras dudas cuando ya nos hayamos muerto. Y los de la [FUNDEU](http://www.fundeu.es/consultas.html) dan respuestas de lo más acatarrante en los más de los casos.
+Algunos, los menos, tratamos de evitar barbarismos innecesarios y nos escandalizamos del _spanglish_ galopante. En nuestra ayuda, poco auxilio podemos recabar de la [RAE](http://www.elmundotoday.com/2010/05/pronto-la-rae-admitira-neologismos-como-enviar-o-conexion/), que avanza a pasitos tan cortos (pero seguros, ¿eh?) que solo resolverá nuestras dudas cuando ya nos hayamos muerto. Y los de la [FUNDEU](http://www.fundeu.es/consultas.html) dan respuestas de lo más acatarrante en los más de los casos.
 
 De las desventuras de un consultor que trata de adherirse al español castizo (y de las patadas que se dan al diccionario y al buen hablar en la profesión) daré cumplida noticia en entradas posteriores que espero hagan buen servicio y provecho a mis lectores.
 
@@ -32,5 +32,4 @@ Además de cuando se usa erróneamente en grado comparativo, se abusa del térmi
 
 Acabo esta entrada con un argumento adicional en pro de la proscripción del uso de _óptimo_ en consultoría: es radicalmente contrario a los métodos y objetivos de la profesión. Y es que para serlo propiamente, los consultores debieran hacer suyo el viejo adagio volteriano:
 
-
->Le mieux est l'ennemi du bien.
+> Le mieux est l'ennemi du bien.

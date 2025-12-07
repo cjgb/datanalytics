@@ -20,7 +20,7 @@ url: /2016/06/21/gbm-i-una-mentira-sugerente/
 
 Hace un tiempo resumí los GBMs (_Gradient Boosting Machines_) [en una línea](https://datanalytics.com/2016/03/11/gbm-sintetizado-en-una-linea/). Hoy comienzo una serie de varias entradas para que nadie tenga excusa de no saber de qué va la cosa. Arranco con _una mentira sugerente_. Porque lo que voy a contar no es del todo cierto, pero motiva lo que vendrá después.
 
-Consideremos un conjunto de datos medio famoso: el de los [precios de los alquileres en Múchich](http://www.statistik.lmu.de/service/datenarchiv/miete/miete_e.html). Comencemos con un modelo sencillo, una regresión lineal que relacione el precio del alquiler con los metros cuadrados, i.e.,
+Consideremos un conjunto de datos medio famoso: el de los [precios de los alquileres en Múnich](http://www.statistik.lmu.de/service/datenarchiv/miete/miete_e.html). Comencemos con un modelo sencillo, una regresión lineal que relacione el precio del alquiler con los metros cuadrados, i.e.,
 
 $$ \text{price} \sim a_0 + a_1 \text{size} + \epsilon.$$
 
@@ -32,7 +32,7 @@ Pero echemos un vistazo a los residuos. El siguiente gráfico,
 
 extraído de [aquí](http://www.interactivegraphics.org/Slides_files/CaseStudyE.pdf), muestra tanto el histograma de los residuos como su distribución con respecto a otra variable, el año de construcción del edificio. Como puede apreciarse, esta variable contiene mucha información sobre los precios: el metro cuadrado de los edificios más antiguos tiende a ser inferior al de los nuevos. El modelo simple no captura toda la información del conjunto de datos y podemos hilar más fino usando esta nueva variable.
 
-De querer mejorar nuestro modelo de predicción de precios, se nos abren dos rutas alternativas. La tradicional y más frecuentada es la de introducir la variable antigüedad —preferiblemente centrada o el término independiente será el precio promedio de un apartamento en el Munich del año en que el rey Herodes mataba niños en Palestina— en el modelo, i.e., plantear
+De querer mejorar nuestro modelo de predicción de precios, se nos abren dos rutas alternativas. La tradicional y más frecuentada es la de introducir la variable antigüedad —preferiblemente centrada o el término independiente será el precio promedio de un apartamento en el Múnich del año en que el rey Herodes mataba niños en Palestina— en el modelo, i.e., plantear
 
 $$ \text{price} \sim a_0 + a_1 \text{size} + a_2 \text{anti} + \epsilon.$$
 

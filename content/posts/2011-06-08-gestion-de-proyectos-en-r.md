@@ -20,7 +20,7 @@ title: Gestión de proyectos en R
 url: /2011/06/08/gestion-de-proyectos-en-r/
 ---
 
-Muchos de mis lectores tienen, seguro, maneras distintas —y probablemente mejores— de organizar sus proyectos en R que yo. Pero me consta que a algunos les cuesta no convertir sus carpetas en un caos en los quesolo ellos se manejan —hasta que pasa el tiempo, se olvidan y tienen que volver sobre ello—. Para ellos, para sugerirles un procedimiento eficiente de trabajo, va esta entrada. En ella describo cómo organizo mis propios proyectos con R.
+Muchos de mis lectores tienen, seguro, maneras distintas —y probablemente mejores— de organizar sus proyectos en R que yo. Pero me consta que a algunos les cuesta no convertir sus carpetas en un caos en los que solo ellos se manejan —hasta que pasa el tiempo, se olvidan y tienen que volver sobre ello—. Para ellos, para sugerirles un procedimiento eficiente de trabajo, va esta entrada. En ella describo cómo organizo mis propios proyectos con R.
 
 En primer lugar, creo un directorio exclusivo para el proyecto con un nombre específico que me permite identificar el quién, el cuándo y el qué. Dentro de él, creo otros cuatro:
 
@@ -34,8 +34,6 @@ Resulta fundamental que el proyecto esté **autocontenido**, que no se dependa d
 Cuando ejecuto R, siempre cambio el directorio de trabajo a `src` y cualquier llamada a código, datos o resultados la hago usando caminos relativos: siempre leo de `../dat/` y mando las salidas a `../dat/`. ¿Os hacéis idea lo irritante que resulta recibir código de terceros con llamadas a ficheros en rutas tales como `C:\\Mis Documentos\\Pepita\\Tesis de Pepi\\R nuevo\\New Folder\\...`?
 
 Dentro de `src` creo varios ficheros. Los suelo ordenar alfabéticamente usando números como prefijo. El primero siempre es `00_load.R`, que lee los datos originales y sin ningún tipo de proceso los vuelca en un objeto de R que suelo llamar `raw`. Típicamente acabo con cuatro o cinco ficheros:
-
-
 
 * 00_load.R
 * `01_clean.R`, para limpiar los datos; típicamente, este fichero suele crecer a lo largo del análisis

@@ -22,7 +22,7 @@ title: Esos felices "momentos Le Verrier"
 url: /2021/10/01/esos-felices-momentos-le-verrier/
 ---
 
-Son muy infrecuentes, lo admito. Pero cuando ocurren, le dan a uno ganas de poner los pies encima la mesa y fumarse un puro.
+Son muy infrecuentes, lo admito. Pero cuando ocurren, le dan a uno ganas de poner los pies encima de la mesa y fumarse un puro.
 
 ¿Qué son? Imagina que te pasan unos datos con el objetivo de realizar determinadas predicciones. Creas un modelo razonable ---hasta bueno, dirías---, basado en primeros principios y que funciona bastante bien... excepto en unos cuantos casos _irreductibles_ (sí, como aquellos galos de su aldea). Compruebas el modelo una y mil veces y no le ves problemas significativos; revisas los datos de nuevo, especialmente en esos casos en los que el modelo falla, y parecen tener sentido.
 
