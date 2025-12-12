@@ -2,9 +2,9 @@
 author: Carlos J. Gil Bellosta
 categories:
 - anuncio
-date: 2014-09-08 07:13:36+00:00
-draft: false
-lastmod: '2025-04-06T18:52:18.077934'
+date: 2014-09-08
+noindex: true
+lastmod: '2025-12-08'
 related:
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md
 - 2014-07-21-maddata-dataton-de-datos-abiertos.md
@@ -21,9 +21,9 @@ url: /2014/09/08/tres-citas-para-los-amantes-del-analisis-de-datos-publicos/
 
 En estos días van a celebrarse tres eventos (de los que tengo noticia) relacionados con el análisis de datos. El primero es la [Segunda Edición del Taller de Periodismo de Datos](http://medialab-prado.es/article/iitallerdeperiodismodedatosconvocatoriadeproyectos), en Madrid. Extraigo de su convocatoria lo siguiente:
 
->Durante dos fines de semana largos (octubre 24-26 y diciembre 12-14 desarrollaremos proyectos para seguir la traza del dinero público con la ayuda de expertos tales como Ben Welsh (Los Angeles Times), Mariano Zafra (El País), Juan Elosúa (España en Llamas) y el equipo de periodismo de datos de El Confidencial.
+>Durante dos fines de semana largos (octubre 24-26 y diciembre 12-14) desarrollaremos proyectos para seguir la traza del dinero público con la ayuda de expertos tales como Ben Welsh (Los Angeles Times), Mariano Zafra (El País), Juan Elosúa (España en Llamas) y el equipo de periodismo de datos de El Confidencial.
 >
->Los proyectos pueden envarse hasta el 24 de septiembre. Una vez seleccionados, a partir del 30 de septiembre, se buscarán colaboradores.
+>Los proyectos pueden enviarse hasta el 24 de septiembre. Una vez seleccionados, a partir del 30 de septiembre, se buscarán colaboradores.
 
 Toda la información, [aquí](http://medialab-prado.es/article/iitallerdeperiodismodedatosconvocatoriadeproyectos).
 

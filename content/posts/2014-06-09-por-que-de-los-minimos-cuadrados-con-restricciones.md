@@ -30,7 +30,7 @@ Primero, el contexto. O el casi contexto. Porque no es exactamente así. Pero s�
 
 Uno puede pensar en usar la media de las predicciones. O la mediana. O tratar de usar un peso revelado por los datos.
 
-Para esto último puede hacerse lo siguiente: reservar una serie de observaciones (no usadas ni en entrenamiento ni en nada) y construir las predicciones $\hat{y}_1$, $\hat{y}_2$, $\hat{y}_3$ y $\hat{y}_4$ de $y$. Con eso se pueden hacer muchas cosas. Por ejemplo, usar un peso inversamente proporcional cierta distancia $\|y - \hat{y}_i\|$.
+Para esto último puede hacerse lo siguiente: reservar una serie de observaciones (no usadas ni en entrenamiento ni en nada) y construir las predicciones $\hat{y}_1$, $\hat{y}_2$, $\hat{y}_3$ y $\hat{y}_4$ de $y$. Con eso se pueden hacer muchas cosas. Por ejemplo, usar un peso inversamente proporcional a cierta distancia $\|y - \hat{y}_i\|$.
 
 O, y a eso voy, buscar los pesos $\alpha_i$ que minimizan $\|y - \sum_i \alpha_i \hat{y}_i\|$ usando, p.e., la norma euclídea.
 
