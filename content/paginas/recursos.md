@@ -14,7 +14,7 @@ Esta página es un listado de algunos recursos creados por Carlos J. Gil Bellost
 
 ## Herramientas en línea
 
-- [Estimación de parémtros en priors](https://priors.datanalytics.com/). Da, para una selección de funciones de distribución, los parámetros a partir de los cuantiles. Está descrita con más detalle [aquí](/2023/02/23/seleccion-parametros-prioris-informativas/).
+- [Estimación de parámetros en priors](https://priors.datanalytics.com/). Da, para una selección de funciones de distribución, los parámetros a partir de los cuantiles. Está descrita con más detalle [aquí](/2023/02/23/seleccion-parametros-prioris-informativas/).
 - [El coste nivelado de la energía](https://shiny.datanalytics.com/levelized_cost_energy), una herramienta para calcular el llamado coste nivelado de la energía tal y como se describe [aquí](/2022/04/19/coste-nivelado-energia/).
 - [¿Qué sucede si p < .05 en contextos de baja potencia estadística?](https://shiny.datanalytics.com/test-power/), descrita [aquí](/2023/09/28/potencia-tests-estadisticos/).
 
