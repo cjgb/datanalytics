@@ -18,7 +18,7 @@ tags:
 - dirichlet
 - beta
 title: Más sobre cómo obtener distribuciones uniformes dentro de triángulos
-url: /2025/12/19/muestreo-triangulos/
+url: /2025/12/16/muestreo-triangulos/
 ---
 
 Pero hay otra forma de muestrear la distribución de Dirichlet (frase que no entenderán quienes no traigan [esto](/2025/12/09/muestreo-triangulos/) leído):

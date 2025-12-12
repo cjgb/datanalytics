@@ -2,7 +2,7 @@
 -categories:
 - números
 author: Carlos J. Gil Bellosta
-date: 2025-12-16
+date: 2025-12-22
 description: ¿Será cierto que gastaron 700 millones de libras en salvar la vida de
   un salmón cada diez años?
 lastmod: '2025-12-12T12:52:29.611606'
@@ -17,7 +17,7 @@ tags:
 - mala ciencia
 title: ¿Será cierto que gastaron 700 millones de libras en salvar la vida de un salmón
   cada diez años?
-url: /2025/12/19/muestreo-triangulos/
+url: /2025/12/22/700-millones-vida-salmon-central-nuclear/
 ---
 
 Hace un tiempo leí que los contribuyentes del RU invirtieron 700 millones de libras en salvar la vida de un salmón cada 10 años. Lo cual supera lo de los [100 millones de libras en salvar a unos murciélagos de ser atropellados por el tren chuchú](https://www.bbc.com/news/articles/c9wryxyljglo).

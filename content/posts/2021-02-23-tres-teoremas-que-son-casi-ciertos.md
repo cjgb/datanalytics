@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - probabilidad
 date: 2021-02-23 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T18:54:33.895646'
+lastmod: '2025-12-12'
 related:
 - 2021-02-25-sobre-sumas-de-cuadrados-de-normales-con-varianzas-desiguales.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
@@ -44,4 +43,4 @@ Es un teorema con demostración _a ojo_ (véase [esto](https://statisticaloddsan
 
 Uno no lo esperaría: si la suma de normales es normal y la lognormal es la exponencial de una normal, el resultado parece dar la razón a los que escriben $\exp(a+b) = \exp(a) + \exp(b)$ para espanto de sus profesores y delicia de los autores de antologías del disparate. Pero es cierto (véase [esto](https://stats.stackexchange.com/questions/238529/the-sum-of-independent-lognormal-random-variables-appears-lognormal) y las referencias que aportan).
 
-**Es útil porque** hay variables aleatorias que son potencialmente lognormales (p.e., precio de cada una de las ventas en un comercio electrónico) pero, desafortunadamente, en ocasiones solo se dispone del total (horario, diario)y el número de ventas. Por el resultado anterior, esta nueva variable aleatoria _sigue siendo_ lognormal.
+**Es útil porque** hay variables aleatorias que son potencialmente lognormales (p.e., precio de cada una de las ventas en un comercio electrónico) pero, desafortunadamente, en ocasiones solo se dispone del total (horario, diario) y el número de ventas. Por el resultado anterior, esta nueva variable aleatoria _sigue siendo_ lognormal.
