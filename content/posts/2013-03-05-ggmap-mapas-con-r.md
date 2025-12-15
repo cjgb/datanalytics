@@ -4,8 +4,8 @@ categories:
 - gráficos
 - r
 date: 2013-03-05 11:09:53+00:00
-draft: false
-lastmod: '2025-04-06T18:45:03.012322'
+noindex: true
+lastmod: '2025-12-15'
 related:
 - 2016-03-01-ficheros-kml-con-r-y-ggmap.md
 - 2012-04-16-rutas-por-zaragoza-con-r.md

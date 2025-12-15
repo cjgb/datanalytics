@@ -24,7 +24,7 @@ _[Esta entrada lo es, además de por su propio mérito, en preparación de la qu
 
 Así:
 
->My father, Leonard Jimmie Savage, was an early advocate of subjective probability. He encouraged me from a young age to think of the probability of an event as the amount I would pay for a gamble that would pay $100 if the event occurred.
+> My father, Leonard Jimmie Savage, was an early advocate of subjective probability. He encouraged me from a young age to think of the probability of an event as the amount I would pay for a gamble that would pay $100 if the event occurred.
 >
 > Sam Savage, 2004 ([fuente](https://pubsonline.informs.org/do/10.1287/orms.2004.03.14/full/))
 

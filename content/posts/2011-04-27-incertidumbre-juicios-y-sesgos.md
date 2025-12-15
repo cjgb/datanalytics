@@ -19,7 +19,7 @@ title: Incertidumbre, juicios y sesgos
 url: /2011/04/27/incertidumbre-juicios-y-sesgos/
 ---
 
-Recomiendo encarecidamente la lectura del artículo _[Judgment under Uncertainty: Heuristics and Biases](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf)_ de [D. Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman) y [A. Tversky](http://en.wikipedia.org/wiki/Amos_Tversky). En pocas palabras, trata sobre dos cosas:
+Recomiendo encarecidamente la lectura del artículo [_Judgment under Uncertainty: Heuristics and Biases_](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf) de [D. Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman) y [A. Tversky](http://en.wikipedia.org/wiki/Amos_Tversky). En pocas palabras, trata sobre dos cosas:
 
 
 

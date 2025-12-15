@@ -25,13 +25,13 @@ Hace casi precisamente un año escribí sobre [El Arte Funcional](https://datana
 
 Hice una crítica sobre una de las secciones del libro:
 
-> La sección dedicada a la cognición transita desde la morfología y fisiología del ojo (y del cerebro) hasta cuestiones sicológicas relativas a la percepción. Al final, las formas y colores de los gráficos son alimento estos órganos que, aunque de una asombrosa capacidad, incurren en ocasiones en errores de bulto. El que cierto tipo de representaciones gráficas (como estas) engañen al ojo no se debe a que los datos subyacentes mientan ladinamente. Se debe a que la combinación de formas y colores confunde al cerebro por causas que solo cabe buscar dentro de él.
+> La sección dedicada a la cognición transita desde la morfología y fisiología del ojo (y del cerebro) hasta cuestiones sicológicas relativas a la percepción. Al final, las formas y colores de los gráficos son el alimento de estos órganos que, aunque de una asombrosa capacidad, incurren en ocasiones en errores de bulto. El que cierto tipo de representaciones gráficas (como estas) engañen al ojo no se debe a que los datos subyacentes mientan ladinamente. Se debe a que la combinación de formas y colores confunde al cerebro por causas que solo cabe buscar en él.
 >
 > Al final, si unas determinadas combinaciones de colores funcionan o dejan de hacerlo, si los datos se leen correctamente si se los representa como longitudes, áreas o volúmenes, depende de las peculiaridades del proceso de cognición. Y por eso acierta Cairo en estudiarlo con detalle.
 >
 > Pero no acaba de extraerle todo el jugo a esta sección. Un planteamiento más próximo a la obra de D. Kahneman y A. Tversky que nos advirtiese de los peligros perceptuales más gruesos y nos diese recomendaciones para sortearlos habría cerrado la sección con gloria.
 
-Menciono en la crítica a Kahneman y Tversky y, en particular, en su relación con los sesgos cognitivos. Al fin y al cabo, un infografista (y, en general, todo aquel que utiliza gráficos para ilustrar y explicar información de corte cuantitivo) debe tener en cuenta que esos sesgos existen y cómo debería actuar para evitarlos (¡o cómo aprovecharse de ellos para llevar el agua al molino de quien le paga!).
+Menciono en la crítica a Kahneman y Tversky y, en particular, en su relación con los sesgos cognitivos. Al fin y al cabo, un infografista (y, en general, todo aquel que utiliza gráficos para ilustrar y explicar información de corte cuantitativo) debe tener en cuenta que esos sesgos existen y cómo debería actuar para evitarlos (¡o cómo aprovecharse de ellos para llevar el agua al molino de quien le paga!).
 
 Pero ahora que voy sacando tiempo para adentrarme en la lectura de [_Pensar rápido, pensar despacio_](http://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) de Kahneman, creo que esta es la obra (o una de las obras, dirán los profesionales de la materia) que recoge las ideas en que pienso que debería basarse una obra que trate lo que ocurre entre un papel con trazos y colores y esa cosa que llamamos _conciencia_.
 

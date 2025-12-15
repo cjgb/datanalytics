@@ -2,9 +2,9 @@
 author: Carlos J. Gil Bellosta
 categories:
 - números
-date: 2017-10-05 08:13:49+00:00
-draft: false
-lastmod: '2025-04-06T18:52:10.719130'
+date: 2017-10-05
+noindex: true
+lastmod: '2025-12-13'
 related:
 - 2014-11-28-como-no-tengo-tiempo-voy-a-publicar-una-chorrada-y-una-coda.md
 - 2015-07-07-estadistica-descriptiva-allende-la-estadistica-descriptiva.md
@@ -40,4 +40,4 @@ El artículo se pregunta por las diferencias en personalidad e intereses entre l
 
 El artículo es esencialmente una tabla con números. Pero números que se sostienen de pie de someterlos a los criterios de mentira más inmediatos. No obstante, la tabla está rodeada de multitud de palabras, tanto por delante como por detrás, que abordan, entre otras cosas, la visión personal del autor con respecto a las preguntas que alguno de mis lectores se formulará en relación del aburridor debate alrededor de la naturaleza, sea innata o aprendida, de las causas. Invito al interesado a leerlas por sí mismo y, de no conformarse con ellas, siga con las referencias e itere si le viene a bien hasta convertirse en quien más sepa del asunto en el mundo.
 
-En resumen, que frente a p-valores pequeños de vuestros prop.test, pensad que hay formulaciones causales distintas, alternativas y, como casi siempre ocurre, no necesariamente puras. Y que solo una de ellas es la que da de comer a la monotemática de Barbijaputa.
+En resumen, que frente a p-valores pequeños de vuestros `prop.test`, pensad que hay formulaciones causales distintas, alternativas y, como casi siempre ocurre, no necesariamente puras. Y que solo una de ellas es la que da de comer a la monotemática de Barbijaputa.

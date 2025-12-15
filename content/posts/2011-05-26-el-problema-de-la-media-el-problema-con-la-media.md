@@ -30,9 +30,7 @@ Que me excusen la trampa —si se la quiere llamar así— quienes ejercitaron l
 
 Sam Savage, su autor, llama _ley fuerte de la imperfección de la media_ a un error que, en algunas de sus manifestaciones y en términos matemáticos, consiste en confundir la esperanza de una función de una variable aleatoria, $E(\phi(X))$, con la función de la esperanza, $\phi( E(X) )$. En el contexto de las opciones reales, $\phi$ es una función convexa y la desigualdad de Jensen (¡la madre de todas las desigualdades!) indica que en tales casos,
 
-
 $$\phi( E(X) ) \le E(\phi(X)).$$
-
 
 El interesado en ilustrarse con más casos en que se manifiesta este error (y algunos otros) debe saber que hombres malos subieron el libro a páginas de intercambio de ficheros, gracias a los cuales podrá consultarlos por poco precio. Y por el mismo, aprender acá otro, oportunísimo, que falta en aquél.
 
