@@ -4,8 +4,7 @@ categories:
 - estadística
 - r
 date: 2017-12-15 20:07:25+00:00
-draft: false
-lastmod: '2025-04-06T18:56:37.686274'
+lastmod: '2026-01-03'
 related:
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
@@ -47,4 +46,4 @@ obtendrás
 
 ![](/img/2017/12/estabilizacion_varianza_poisson_alt.png#center)
 
-y te preguntarás mucho: ¡por qué, por qué, por qué!
+y te preguntarás mucho: ¿por qué, por qué, por qué?

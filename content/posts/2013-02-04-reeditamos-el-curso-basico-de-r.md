@@ -4,7 +4,7 @@ categories:
 - cursos
 - r
 date: 2013-02-04 07:37:07+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:08:16.545189'
 related:
 - 2012-06-01-curso-de-r-gratuito-no-presencial.md

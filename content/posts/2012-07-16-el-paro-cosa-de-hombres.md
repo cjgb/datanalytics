@@ -57,7 +57,7 @@ En él vuelvo a representar el porcentaje de parados (resaltado en verde) en fun
 
 En esta ocasión, el área de las barras es proporcional al número de individuos en cada clase. Se ve cómo el número de personas sin estudios es muy pequeño comparado con el resto. Y cómo las mujeres representan un porcentaje cada vez mayor del mercado laboral con formación universitaria, el que acaparará los mejores salarios y tendrá plena ocupación.
 
-Nosolo las mujeres son mayoría en el segmento universitario del mercado de trabajo sino que la tendencia es creciente: conforme se vayan retirando del mercado las viejas generaciones, en las que la proporción era la contraria, el peso de las mujeres en él será creciente. El mecanismo _de reposición_ es el mismo que explica [Hans Rosling en este vídeo](http://www.ted.com/talks/hans_rosling_on_global_population_growth.html).
+No solo las mujeres son mayoría en el segmento universitario del mercado de trabajo sino que la tendencia es creciente: conforme se vayan retirando del mercado las viejas generaciones, en las que la proporción era la contraria, el peso de las mujeres en él será creciente. El mecanismo _de reposición_ es el mismo que explica [Hans Rosling en este vídeo](http://www.ted.com/talks/hans_rosling_on_global_population_growth.html).
 
 Por eso se puede aventurar que:
 

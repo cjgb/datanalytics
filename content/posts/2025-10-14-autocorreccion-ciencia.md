@@ -25,9 +25,9 @@ title: El mecanismo autocorrector de la ciencia (y el papel del cotilleo)
 url: /2025/10/14/autocorreccion-ciencia/
 ---
 
-No sé mucho de filosofía de la ciencia, pero sí de informática. Así que, en cierto modo, soy como aquel tonto del martillo. Pero tal vez la analogía que presento debajo pueda servirle a alguien.
+No sé mucho de filosofía de la ciencia, pero sí de informática. Así que, en cierto modo, soy como aquel tonto del martillo. Pero tal vez la analogía que presento más abajo pueda servirle a alguien.
 
-Existe un tipo de bases de datos distribuidas llamadas _eventualmente consistentes_. La promesa que hacen es que si cambias un dato, al cabo de un periodo de tiempo indeterminado, todas sus réplicas convergirán al mismo valor. En tanto, lecturas de nodos distintos pueden dar resultado distintos y contradictorios. Por ejemplo, los _likes_ de una red social pueden estar almacenados en una de tales bases de datos y puede que un usuario en Tokio vea 34 _likes_ a un vídeo y otro en Madrid, 35. Al cabo de un tiempo ambos acabarán viendo 35 (o, puede que 37 y 36: nada está garantizado al 100%).
+Existe un tipo de bases de datos distribuidas llamadas _eventualmente consistentes_. La promesa que hacen es que si cambias un dato, al cabo de un periodo de tiempo indeterminado, todas sus réplicas convergirán al mismo valor. Mientras tanto, lecturas de nodos distintos pueden dar resultado distintos y contradictorios. Por ejemplo, los _likes_ de una red social pueden estar almacenados en una de tales bases de datos y puede que un usuario en Tokio vea 34 _likes_ a un vídeo y otro en Madrid, 35. Al cabo de un tiempo ambos acabarán viendo 35 (o, puede que 37 y 36: nada está garantizado al 100%).
 
 Otro tipo de bases de datos de ese tipo son las que gestionan los DNSs globales. Es conocido de todos el problema de la _propagación_.
 
@@ -46,7 +46,7 @@ Lo cual lleva a plantearnos preguntas sobre la velocidad del asentamiento de los
 
 Sobre la primera hay mucho escrito. Baste decir que como es moda de hoy en día que la actividad política esté respaldada por _la ciencia_, un mecanismo que tiene el poder de arrimar el ascua a una sardina de su interés no es otro que influir en el entramado económico y social en el que operan quienes _fabrican_ ciencia para que digan lo que interesa. Los efectos son reales y conocidos. Existen evidencias de casos para aburrir al más paciente. Solo hay que reseñar que esos efectos tienen una duración determinada y que operan en tanto que operan sus causas. Esa _ciencia_ raruna, por ejemplo, que salió de la Unión Soviética en los años treinta y cuarenta, se cayó en el 53 por motivos sobradamente conocidos.
 
-Por otro lado, la ciencia es una actividad humana. Los ciclos de actualización están relacionados con los ciclos naturales de los individuos de nuestra especie. La sociología en España se mantendrá en un estadio _presque_-medieval en tanto que los popes Tezanos y Alamillos no pasen a disfrutar de un merecidisimo descanso en Benidorm. Etc.
+Por otro lado, la ciencia es una actividad humana. Los ciclos de actualización están relacionados con los ciclos naturales de los individuos de nuestra especie. La sociología en España se mantendrá en un estadio _presque_-medieval en tanto que los popes Tezanos y Alamillos no pasen a disfrutar de un merecidísimo descanso en Benidorm. Etc.
 
 Mucha gente, además, ignora que existen dos ciencias: la ciencia _de puertas para adentro_ y la ciencia _pública_ de distinta naturaleza y calidad. La ciencia "pública" está contenida en libros, artículos, conferencias, etc. La ciencia "no pública" tiene, además de eso, cotilleos, impenetrables para el observador externo. Los cotilleos circulan por correo electrónico, conversaciones de café, etc. y sirven para destilar y purificar el conocimiento.
 

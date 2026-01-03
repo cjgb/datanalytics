@@ -5,7 +5,7 @@ author: Carlos J. Gil Bellosta
 date: 2025-12-09
 description: ¿Cómo obtener distribuciones uniformes dentro de triángulos? (Y qué tiene
   que ver con la distribución de Dirichlet)
-lastmod: '2025-12-07T19:22:07.457074'
+lastmod: '2026-01-03'
 related:
 - 2025-11-25-muestreo-rechazo.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten-addenda.md
@@ -24,7 +24,7 @@ Me entretuve el otro día en cómo muestrear uniformemente dentro de triángulos
 
 Hay uno que se le ocurriría a cualquiera: el del rechazo. Se inserta el triángulo en un cuadrado y se seleccionan solo aquellos valores que caigan dentro del triángulo.
 
-Hay otro, que no está en esa entrada, y que consiste en transformar el triángulo en un triángulo rectángulo mediante una transformación lineal que preserve el área ([_shear_ o _cizallamiento_](https://en.wikipedia.org/wiki/Shear_mapping)), del tipo
+Hay otro, que no está en esa entrada, y que consiste en transformar el triángulo en un triángulo rectángulo mediante una transformación lineal que preserve el área ([_shear_ o _cizalladura_](https://en.wikipedia.org/wiki/Shear_mapping)), del tipo
 
 $$(x,y) \rightarrow (x + a y, y)$$
 

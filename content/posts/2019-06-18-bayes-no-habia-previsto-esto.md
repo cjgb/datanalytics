@@ -31,4 +31,4 @@ Bayes. Ve examinando unidades y actualiza tus intervalos de credibilidad hasta q
 
 Pues no: para contratar al tipo de la fragoneta que va de unidad experimental en unidad experimental hace falta especificar de antemano...
 
-Moraleja: Vivimos en una sociedad y en una economía que Rommy Arce haría bien en tachar de _institucionalmente frecuentista_.
+**Moraleja:** Vivimos en una sociedad y en una economía que Rommy Arce haría bien en tachar de _institucionalmente frecuentista_.

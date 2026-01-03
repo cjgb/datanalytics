@@ -40,6 +40,6 @@ Y esta es la misma información (resultados de las elecciones de 2015 en el RU) 
 
 ¿Os habéis fijado cómo esa casi indistinguible mancha roja en la zona de Londres del huertograma adquiere su debida relevancia en el cartograma?
 
-Los huertogramas deshumanizan la información. Diríase que son antidemocráticos: una hectárea (y o una persona), un píxel (o un voto).
+Los huertogramas deshumanizan la información. Diríase que son antidemocráticos: una hectárea (pero no una persona), un píxel (o un voto).
 
 Desafortunadamente, no he visto cartogramas decentes para España. Pero sí, por culpa de los cartodebés y los guguelmáps, una muy seria epidemia de huertogramas.

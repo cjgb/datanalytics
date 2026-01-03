@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2014-10-22 07:13:43+00:00
-draft: false
-lastmod: '2025-04-06T19:03:23.462179'
+noindex: true
+lastmod: '2026-01-03'
 related:
 - 2014-05-05-las-vi-jornadas-de-usuarios-de-r-en-santiago.md
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md

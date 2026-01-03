@@ -55,6 +55,6 @@ fivenum(replicate(1000, min(rpois(length(dat), mean(dat) ) ) ) )
 # 38 50 52 55 64
 {{< / highlight >}}
 
-Es decir, bajo el modelo propuesto, la mediana del número máximo y mínimo anual de este tipo de asesinatos coincidiría con los observados. Nosolo es esto evidencia —heterodoxa y discutible— a favor del modelo sino, también, de cómo el adjetivo esperanzador que usa el INE no tiene tanto que ver con la esperanza (otro de los nombres de la media) sino con la variación.
+Es decir, bajo el modelo propuesto, la mediana del número máximo y mínimo anual de este tipo de asesinatos coincidiría con los observados. No solo es esto evidencia —heterodoxa y discutible— a favor del modelo sino, también, de cómo el adjetivo esperanzador que usa el INE no tiene tanto que ver con la esperanza (otro de los nombres de la media) sino con la variación.
 
 La variación en las cifras entraría, por tanto, dentro de lo normal —¿de lo Poisson?— y ni habría que entregar medallas en el 2009 ni quitárselas en el 2010 a los probos y sacrificados funcionarios encargados de luchar contra esta tan nimia como antiestética lacra social.

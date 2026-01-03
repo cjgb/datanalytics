@@ -38,7 +38,7 @@ Incluso en esos casos simples puede haber problemas de _generalización_, salvo 
 
 ### II.
 
-Conforme uno usa modelos más complejos, el problema de la generalización se vuelve endémico. Los parámetros que devuelve el óptimo, los que minimizan el error en el ajuste, no son habitualmente tal buenos como otros construidos de otra manera. Hay parámetros _sesgados_ (es decir, que no corresponden con ese óptimo antes mencionado) que funcionan mejor _en el mundo_ (_off sample_).
+Conforme uno usa modelos más complejos, el problema de la generalización se vuelve endémico. Los parámetros que devuelve el óptimo, los que minimizan el error en el ajuste, no son habitualmente tan buenos como otros construidos de otra manera. Hay parámetros _sesgados_ (es decir, que no corresponden con ese óptimo antes mencionado) que funcionan mejor _en el mundo_ (_off sample_).
 
 Hay muchas maneras de sesgar los coeficientes.
 
@@ -50,11 +50,11 @@ Por ejemplo, uno puede pensar en introducir prioris sobre los parámetros del mo
 
 Otra alternativa relacionada con la anterior es la de la regularización (piénsese en, p.e., _lasso_). Añadiendo unos términos adicionales a la función de error que se quiere minimizar, se sesgan los coeficientes obtenidos (típicamente hacia el cero) y, como por arte de magia, los modelos resultantes funcionan mejor.
 
-O uno puede proceder por una vía más directa (y un poco, como se verá, a ciegas). Uno puede usar validación cruzada (o similares) para seguir el error de validación en paralelo al de entrenamiento y detener el proceso cuando aquel alcanza un mínimo. Imaginemos que el proceso de optimización sobre el conjunto de entrenamiento va trazando (p.e., según _desciende sobre el gradiente) un camino
+O uno puede proceder por una vía más directa (y un poco, como se verá, a ciegas). Uno puede usar validación cruzada (o similares) para seguir el error de validación en paralelo al de entrenamiento y detener el proceso cuando aquel alcanza un mínimo. Imaginemos que el proceso de optimización sobre el conjunto de entrenamiento va trazando (p.e., según _desciende sobre el gradiente_) un camino
 
 $$\theta_0, \theta_1, \theta_2, \dots, \theta_\infty$$
 
-donde $\theta_0$ es el vector de parámetros inicial y $\theta_\infty$ es el mínimo (idealmente, global). La promesa de este tipo de procedimientos es que alguno de los $\theta_i$ intermedios, por algún motivo, ---hay que fijarse que la _ruta_ que siguen los parámetros es _desconocida_---, mágicamente, es superior al resto (de nuevo, en términos de generalización).
+donde $\theta_0$ es el vector de parámetros inicial y $\theta_\infty$ es el mínimo (idealmente, global). La promesa de este tipo de procedimientos es que alguno de los $\theta_i$ intermedios, por algún motivo, ---hay que fijarse en que la _ruta_ que siguen los parámetros es _desconocida_---, mágicamente, es superior al resto (de nuevo, en términos de generalización).
 
 De nuevo, es un procedimiento que sirve para sesgar (de una manera no controlada porque uno no sabe a priori por dónde irá saltando el algoritmo de optimización por el espacio de parámetros) el óptimo.
 

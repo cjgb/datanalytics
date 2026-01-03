@@ -36,7 +36,7 @@ En _[Dynamite Plots: Unmitigated Evil](http://emdbolker.wikidot.com/blog:dynamit
 * esconden los datos originales, como se aprecia en la comparación anterior
 * suelen asumir que los intervalos de confianza son simétricos
 * pueden esconder aspectos de los datos, como la bimodalidad
-* cuando muestransolo el tramo superior del intervalo de confianza dificultan la comparación entre grupos
+* cuando muestran solo el tramo superior del intervalo de confianza dificultan la comparación entre grupos
 * aparentemente, crean una ilusión visual por la que el lector tiende a agregar la longitud correspondiente al intervalo de confianza a la barra
 
 

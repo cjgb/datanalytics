@@ -20,7 +20,7 @@ title: Datos públicos, datos DUP
 url: /2011/06/10/datos-publicos-datos-dup/
 ---
 
-Hoy en día, en España, salvo por unas cuantas honrosas excepciones no existen datos públicos,solo datos manejados dentro de las administraciones públicas (y a los que los ciudadanos no tienen acceso).
+Hoy en día, en España, salvo por unas cuantas honrosas excepciones no existen datos públicos, solo datos manejados dentro de las administraciones públicas (y a los que los ciudadanos no tienen acceso).
 
 Los datos públicos deberían ser datos DUP: **d**isponibles, **u**bicables y **p**rocesables.
 
@@ -31,7 +31,6 @@ Pero da la sensación de que nos falta en España una ley que consagre el derech
 Pero escaso es el valor de la información si no es ubicable. Aun cuando ayuntamientos, comunidades autónomas, empresas públicas, ministerios, comunidades autónomas, etc. recopilasen tablas y las colgasen en la red, resultarían inútiles si no fuese sencillo encontrarlas. Compárense las soluciones propuestas por los [Estados Unidos](http://www.data.gov/) o el [Reino Unido](http://data.gov.uk/) con la [española, aporta.es,](http://www.aporta.es) (en la que no he sabido encontrar nada todavía).
 
 Es posible que en este sentido sea la iniciativa privada la que complemente a la pública a través de servicios tales como
-
 
 * [zanran](http://www.zanran.com), el Google de los datos y la estadística o
 * [Get the Data](http://getthedata.org/), su versión social.

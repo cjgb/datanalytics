@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-01-14 07:13:13+00:00
-draft: false
-lastmod: '2025-04-06T19:06:35.305426'
+lastmod: '2025-01-03'
 related:
 - 2011-08-12-una-feliz-conjuncion-estadistico-algebraica.md
 - 2011-08-01-dos-aplicaciones-c2bfsorprendentes-del-analisis-de-la-correlacion-canonica.md
@@ -22,7 +21,7 @@ Matemáticas y estadística son peras y manzanas. La una es la ciencia del ser; 
 
 Contiene resultados, como la proposición 1.1.2 que... bueno, sí, bien, vale:
 
-_**Proposición 1.1.2.** Las variables aleatorias [discretas] X e Y son independientes sí y solo sí la matriz $p = (p_{ij})$ tiene rango 1._
+_**Proposición 1.1.2.** Las variables aleatorias discretas X e Y son independientes sí y solo sí la matriz $p = (p_{ij})$ tiene rango 1._
 
 Otros, sin embargo, son más crípticos:
 
