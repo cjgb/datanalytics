@@ -49,7 +49,7 @@ Es una aproximación a la modelización estadística que no sé si alguien habr�
 
 Pensaba el otro día en vías para escapar de este equilibrio inadecuado. Una de las menos ambiciosas es pensar en árboles de decisión. Si las predicciones son constantes en regiones que se construyen variable a variable, ¿por qué no usar las regiones definidas con un árbol de clasificación que las contemple a todas simultáneamente? Porque, ¿está claro que la probabilidad de los eventos para los sujetos en una de las regiones tenga que depender de ---como hace implícitamente la regresión logística--- observaciones que están fuera de él?
 
-Además, $n^3$ regiones ---como arriba--- pueden ser muchas. Es previsible que en algunas de ellas haya muy pocos elementos. ¿Cómo de fiables pueden ser las predicciones para esos sujetos? En los árboles, al menos, es posible introducir restricciones para que no cree ramas excesivamente _finas_ en las que las estimaciones puedan no ser fiables.
+Además, $n^3$ regiones ---como arriba--- pueden ser muchas. Es previsible que en algunas de ellas haya muy pocos elementos. ¿Cómo de fiables pueden ser las predicciones para esos sujetos? En los árboles, al menos, es posible introducir restricciones para que no creen ramas excesivamente _finas_ en las que las estimaciones puedan no ser fiables.
 
 La verdad, no sé hacia dónde llevar esta entrada ni cómo rematarla. Las historias de cuando era pequeño concluían con una moraleja. Esta, ni eso. Tiene final abierto para que cada cual la complete según su parecer.
 

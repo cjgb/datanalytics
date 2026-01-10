@@ -23,7 +23,7 @@ Frecuentemente, se postulan y estudian relaciones causales del tipo
 
 ![](/img/2022/05/causal_graph_00.png#center)
 
-donde, por simplificar, se han eliminado las variables de confusión, etc. para mostrar su versión más estilizada, la que acaba en los _abstracts_.
+donde, por simplificar, se han eliminado las variables de confusión, etc., para mostrar su versión más estilizada, la que acaba en los _abstracts_.
 
 Frecuentemente, además, $C$ y $E$ hacen referencia a magnitudes _macro_: una campaña de publicidad y los ingresos; una medida económica y el PIB; la presión y el volumen de un gas, etc. Todos sabemos que en esos casos, el diagrama anterior es solo una manera abreviada de representar el _verdadero_ diagrama causal,
 

@@ -23,7 +23,7 @@ Me es grato anunciar que está disponible (una versión beta de) un agregador de
 
 También está disponible como [RSS](http://datanalytics.com/r_blogs_mashup.rss).
 
-**Contenido agregable**
+### Contenido agregable
 
 Actualmente, el motor de agregación lista entradas en blogs que:
 
@@ -31,10 +31,10 @@ Actualmente, el motor de agregación lista entradas en blogs que:
 2. Tienen entradas con la etiqueta o categoría "R" (una única letra y en mayúscula).
 3. He elegido para probar el código de entre los que conozco sin el más mínimo afán de exhaustividad.
 
-**Altas de blogs**
+### Altas de blogs
 
-El agregador se ha construido utilizando tres blogs que discuten temas relacionados con R con cierta frecuencia y que sonsolo un pequeño subconjunto de los que tratan dicho tema. Si alguien conoce algún otro blog que le gustaría ver añadido, está invitado a hacérmelo saber.
+El agregador se ha construido utilizando tres blogs que discuten temas relacionados con R con cierta frecuencia y que son solo un pequeño subconjunto de los que tratan dicho tema. Si alguien conoce algún otro blog que le gustaría ver añadido, está invitado a hacérmelo saber.
 
-**Bajas de blogs**
+### Bajas de blogs
 
 Si por algún motivo el autor de alguno de los blogs no quisiese que sus noticias sobre R fuesen agregadas, lo daría de baja una vez me fuese comunicado.

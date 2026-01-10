@@ -40,6 +40,6 @@ Siempre me ha dado la impresión de que la universidad (al menos, la que mejor c
 
 Desafortunadamente, muchos de las habilidades y conocimientos necesarios para desenvolverse fuera de ella no cumplen ninguna de esas características. Por ejemplo, aprender un idioma (sirva este para comunicarse con personas o con máquinas).
 
-Yo ya estoy viejo para eso y lo que hicieron conmigo en aquellos años míos de estudiante, quede como está. Pero si yo tuviese 23 años, hubiese pasado cinco en una universidad de primera, hubiese sacado buenas notas, etc. y las empresas mirasen mi currículo con el mismo escepticismo con el que leía yo ese con el que encabezo, le ponía una demanda del carajo (a la universidad).
+Yo ya estoy viejo para eso y lo que hicieron conmigo en aquellos años míos de estudiante, quede como está. Pero si yo tuviese 23 años, hubiese pasado cinco en una universidad de primera, hubiese sacado buenas notas, etc., y las empresas mirasen mi currículo con el mismo escepticismo con el que leía yo ese con el que encabezo, le ponía una demanda del carajo (a la universidad).
 
 Igual entonces se arreglaban las cosas.

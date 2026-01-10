@@ -114,4 +114,4 @@ Modifica el ejercicio anterior para ver cómo _asacd_ no parece muy española.
 
 ### Ejercicio colaborativo
 
-Vamos a crear entre todos un detector de tantos idiomas como alumnos hay en clase. Vamos a coordinarnos para asignar un idioma a cada uno, crear una cuenta en github, etc. y acabar montando un _shiny_ con los resultados. Se busca coordinador del proyecto que se encargue de la gestión (creo que sé de alguien a quien se le daría muy bien esta tarea).
+Vamos a crear entre todos un detector de tantos idiomas como alumnos hay en clase. Vamos a coordinarnos para asignar un idioma a cada uno, crear una cuenta en github, etc., y acabar montando un _shiny_ con los resultados. Se busca coordinador del proyecto que se encargue de la gestión (creo que sé de alguien a quien se le daría muy bien esta tarea).

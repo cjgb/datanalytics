@@ -33,7 +33,7 @@ Hay efectos tan abrumadoramente grandes que nadie se ha planteado siquiera la ne
 
 Otras veces se aprecia una relación tan, tan fuerte entre dos variables (p.e., gripe y mortalidad) que, de importar, se le encarga a alguien medirlo. Se sabe que ocurre y simplemente, interesa cuantificarlo.
 
-Existe una industria (académica) en eso de buscar efectos minúsculos e irrelevantes basados en ocurrencias y tal: unos escriben algo, otros replican o tratan de replicar, escriben sobre si la cosa replicó, etc. y se entretienen a costa de los presupuestos del estado. Pero esa es otra historia.
+Existe una industria (académica) en eso de buscar efectos minúsculos e irrelevantes basados en ocurrencias y tal: unos escriben algo, otros replican o tratan de replicar, escriben sobre si la cosa replicó, etc., y se entretienen a costa de los presupuestos del estado. Pero esa es otra historia.
 
 Pero este tema de hoy es distinto. Se trata de un efecto que nadie parecia conocer antes y que alguien, en secreto para no hacer saltar la pájara, ha medido y, voilá, lo ha dejado caer como una bomba. Es como si mañana se publicase que la mitad del exceso de mortalidad invernal es producto de una reacción alérgica al aparentísimamente inocuo borreguillo.
 

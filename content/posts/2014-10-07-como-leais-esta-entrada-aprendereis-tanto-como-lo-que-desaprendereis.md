@@ -29,7 +29,7 @@ y ha creado conjuntos de datos de distinto número de registros con esa _distrib
 [![SVMRBF-10_hyp](/img/2014/10/SVMRBF-10_hyp.png#center)
 ](/img/2014/10/SVMRBF-10_hyp.png#center)
 
-Uno puede entretenerse mirando qué modelos ajustan mejor y peor en función del tipo original de configuración, del modelo, del tamaño de la muestra, etc. y, de esa manera, ir construyendo subrepticiamente unas preferencias subconscientes sobre el conjunto de técnicas existentes para solucionar problemas de clasificación binaria.
+Uno puede entretenerse mirando qué modelos ajustan mejor y peor en función del tipo original de configuración, del modelo, del tamaño de la muestra, etc., y, de esa manera, ir construyendo subrepticiamente unas preferencias subconscientes sobre el conjunto de técnicas existentes para solucionar problemas de clasificación binaria.
 
 Preferencias que podrían no ser las adecuadas en situaciones no artificiales donde:
 

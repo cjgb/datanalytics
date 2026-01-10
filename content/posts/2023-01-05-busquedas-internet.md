@@ -34,7 +34,7 @@ Yo lo llamo _googletext_ o _taradografía_ según el contexto.
 
 ## GPT-n
 
-¿Qué si, al hacer una búsqueda, GPT-n es capaz de resumir lo que es verdaderamente relevante en las páginas en cuestión? De entrada, no habría necesidad de acceder a las páginas subyacentes: el _algoritmo_ descartaría la hojarasca automáticamente y nos ofrecería las ideas relevantes sin necesidad de aceptar _cookies_ (¡gracias, siempre benemérita UE!), _hacer scroll_ para saltar los google-cebos, volver a _hacer scroll_ para saltar la publicidad, etc. y llegar a una esquinita cerca del pie de página donde se esconde el pequeño átomo de información detrás del que estábamos.
+¿Qué si, al hacer una búsqueda, GPT-n es capaz de resumir lo que es verdaderamente relevante en las páginas en cuestión? De entrada, no habría necesidad de acceder a las páginas subyacentes: el _algoritmo_ descartaría la hojarasca automáticamente y nos ofrecería las ideas relevantes sin necesidad de aceptar _cookies_ (¡gracias, siempre benemérita UE!), _hacer scroll_ para saltar los google-cebos, volver a _hacer scroll_ para saltar la publicidad, etc., y llegar a una esquinita cerca del pie de página donde se esconde el pequeño átomo de información detrás del que estábamos.
 
 ## ¿Cómo será el nuevo equilibrio?
 

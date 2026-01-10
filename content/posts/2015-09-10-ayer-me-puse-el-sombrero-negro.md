@@ -22,7 +22,7 @@ Ayer tuve una visita: un amigo me pidió que le echara una mano a otro que andab
 
 Y se la daban... salvo por un _pequeño_ detalle: aunque significativo, el coeficiente de la corrupción tenía el signo contrario.
 
-Pero basta con jugar con las variables que entran y no entran en el modelo —cuidadosamente seleccionadas de acuerdo a sus correlaciones— reponderar y eliminar quirúrgicamente _outliers_, etc. para reeducar el coeficiente. En baño María de malas prácticas, los p-valores dúctiles son.
+Pero basta con jugar con las variables que entran y no entran en el modelo —cuidadosamente seleccionadas de acuerdo a sus correlaciones— reponderar y eliminar quirúrgicamente _outliers_, etc., para reeducar el coeficiente. En baño María de malas prácticas, los p-valores dúctiles son.
 
 No conseguí en el rato que estuve con él darle la vuelta por completo. Me quedé en un coeficiente con la dirección _correcta_, pero aún no significativo. Pero cerca quedó.
 

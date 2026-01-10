@@ -32,7 +32,7 @@ Muchos lectores míos habrán también tropezado con alguno de esa muchedumbre d
 
 no puedo sino traerlo intravenosamente a estas páginas mías.
 
-En resumen, sí, el artículo viene a decir que han sido tantos y tantos los autores que a lo largo de los últimos años han encontrado relaciones _causales_ entre la liquidez de la acción, el flujo de caja, el tamaño del _spread_, etc. y el valor de la acción que la cosa se está saliendo de madre. Y son tantos, además, los que esperamos encontrar escritos en los próximos años que bien habría que endurecer el estándar de publicación so pena de quedarnos sin bosques.
+En resumen, sí, el artículo viene a decir que han sido tantos y tantos los autores que a lo largo de los últimos años han encontrado relaciones _causales_ entre la liquidez de la acción, el flujo de caja, el tamaño del _spread_, etc., y el valor de la acción que la cosa se está saliendo de madre. Y son tantos, además, los que esperamos encontrar escritos en los próximos años que bien habría que endurecer el estándar de publicación so pena de quedarnos sin bosques.
 
 El resto del resumen describe la situación mejor que yo lo haría:
 

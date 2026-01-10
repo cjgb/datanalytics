@@ -38,7 +38,7 @@ Pero sigue en vigor la regla de que, dada la necesidad de modelar un tipo concre
 
 ## II. Llega Kolmogorov.
 
-Kolmogorov se encuentra con el caos que era la teoría de la probabilidad allá por principios de los 1930, se sienta en su silla y dice: de todos los objetos que me ofrecen las matemáticas, ¿cuál es el más adecuado para modelar esa cosa que la gente que estudia la probabilidad llama evento? (Y no solo evento, sino también "variable aleatoria", "muestra", "juego", "ganancia de un jugador", etc. y otros "objetos" o "subterfugios lingüísticos" que se estaban usando a falta de un fundamento sobre el que construir más seguro).
+Kolmogorov se encuentra con el caos que era la teoría de la probabilidad allá por principios de los 1930, se sienta en su silla y dice: de todos los objetos que me ofrecen las matemáticas, ¿cuál es el más adecuado para modelar esa cosa que la gente que estudia la probabilidad llama evento? (Y no solo evento, sino también "variable aleatoria", "muestra", "juego", "ganancia de un jugador", etc., y otros "objetos" o "subterfugios lingüísticos" que se estaban usando a falta de un fundamento sobre el que construir más seguro).
 
 Un evento nunca puede ser un objeto atómico. No puede ser algo asimilable a un punto en el espacio. Porque un evento siempre se puede escindir: evento es que gane el Real Madrid el domingo; pero también que lo haga 2-1; o que lo haga 2-1 gracias a un gol de córner en el penúltimo minuto; etc.
 

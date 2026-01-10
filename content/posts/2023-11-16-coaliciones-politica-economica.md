@@ -23,7 +23,7 @@ Aunque, por supuesto, en términos abstractos y con, a lo más, una muy tenue re
 
 ## Economía
 
-En una sociedad limitada, las decisiones las tienen, en última instancia, los accionistas: la empresa hace lo que decide el +50% del capital social. Así que alguien puede crear una empresa con un capital de $3000 + \epsilon$ euros y usar sus recursos para adquirir una mayoría de control en una de un capital de $6000 + \epsilon / 2$ euros. Luego usar esta para controlar una de $12000 + \epsilon / 4$ euros, etc. y en cierto número de iteraciones, acabar cortando el bacalao en, digamos, Inditex.
+En una sociedad limitada, las decisiones las tienen, en última instancia, los accionistas: la empresa hace lo que decide el +50% del capital social. Así que alguien puede crear una empresa con un capital de $3000 + \epsilon$ euros y usar sus recursos para adquirir una mayoría de control en una de un capital de $6000 + \epsilon / 2$ euros. Luego usar esta para controlar una de $12000 + \epsilon / 4$ euros, etc., y en cierto número de iteraciones, acabar cortando el bacalao en, digamos, Inditex.
 
 Se trata de una posibilidad más teórica que práctica por varios motivos. Uno, que está ---me suena haber leído en alguna parte--- prohibido; otra, que haría falta encontrar un número muy elevado de _pagafantas_ dispuestos a poner $X / 2 + 0.00001 - 3000 - \epsilon$ euros (donde $X$ es la capitalización bursátil de Inditex) euros a cambio de, prácticamente, nada.
 

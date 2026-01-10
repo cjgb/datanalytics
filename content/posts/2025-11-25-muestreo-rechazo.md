@@ -54,7 +54,7 @@ El código permite muestrear dos distribuciones, una con función de densidad pr
 Podría muestrearla de la siguiente manera:
 - Represento la gráfica de $g(x)f(x)$ en una hoja de papel.
 - Tiro dardos al azar sobre ella.
-- Tomo como muestras de mi distribución los valores $x$ correspondientes a los agujeros que caen dentro de curva definida por $g(x)f(x)$ y el eje x.
+- Tomo como muestras de mi distribución los valores $x$ correspondientes a los agujeros que caen dentro de la curva definida por $g(x)f(x)$ y el eje x.
 
 Se trata del mismo procedimiento que cuando uno quiere calcular el área de un círculo de diámetro 1 muestreando uniformemente el cuadrado unidad y considerando la proporción de puntos que caen dentro del círculo inscrito. Pero se puede hacer mejor y más eficientemente. Se puede:
 

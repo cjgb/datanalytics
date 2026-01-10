@@ -38,7 +38,7 @@ De manera que pudiese comprender esos procedimientos, a veces complicadísimos y
 
 Un tipo especial de técnicas han sido comprobadas (o están fundadas en, o...) por la ciencia. Entonces se las llama _tecnologías_.
 
-La medicina (o su práctica) es una tecnología que usa resultados de la biología, la bioquímica, etc. para sanar a la gente. Pero no es una ciencia. Las ciencias recorren un camino inverso: de lo concreto a lo general. Mi médico de cabecera hace uso de muchas ideas generales que le enseñaron en la facultad para tratar de resolver mi problema de salud concreto. Eso sin perjuicio de que en ocasiones haya médicos que circunstancialmente dejen su labor habitual y se dediquen a acrecentar el acervo científico y construyan sus cohortes, realicen sus diseños experimentales, etc. Pero eso no es medicina: eso es otra cosa.
+La medicina (o su práctica) es una tecnología que usa resultados de la biología, la bioquímica, etc., para sanar a la gente. Pero no es una ciencia. Las ciencias recorren un camino inverso: de lo concreto a lo general. Mi médico de cabecera hace uso de muchas ideas generales que le enseñaron en la facultad para tratar de resolver mi problema de salud concreto. Eso sin perjuicio de que en ocasiones haya médicos que circunstancialmente dejen su labor habitual y se dediquen a acrecentar el acervo científico y construyan sus cohortes, realicen sus diseños experimentales, etc. Pero eso no es medicina: eso es otra cosa.
 
 Lo mismo pasa con la ingenería, otra tecnología. Espero que el lector sepa reconstruir el párrafo anterior aplicándolo en este ejemplo mutando el _mutandis_ y solo él.
 

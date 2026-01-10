@@ -22,7 +22,7 @@ Suscribo enteramente unas declaraciones de la alcaldesa de Madrid en las que se 
 
 Suscribo enteramente declaraciones suyas en las que reclama un seguimiento de las leyes para ver en qué medida son eficaces en su ámbito de aplicación.
 
-Suscribo enteramente declaraciones que le he leído pidiendo que en los plenos del ayuntamiento se muestren datos, estadísticas, etc. y se debata y decida alrededor de ellos.
+Suscribo enteramente declaraciones que le he leído pidiendo que en los plenos del ayuntamiento se muestren datos, estadísticas, etc., y se debata y decida alrededor de ellos.
 
 ¡Cómo no suscribirlo!
 

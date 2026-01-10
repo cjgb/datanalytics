@@ -19,7 +19,7 @@ title: Log scoring = máxima verosimilitud
 url: /2022/05/24/log-scoring-es-maxima-verosimilitud/
 ---
 
-Hay dos técnicas en estadística que son una sola. Pero como se usan en contextos aparentemente distintos, tienen una historia diferente, se tratan con un lenguaje particular, posiblemente en _asignaturas de distinto año_, etc. y nadie se ha molestado en tender puentes, se consideran, prácticamente inconmensurables cuando, en el fondo, son la misma cosa.
+Hay dos técnicas en estadística que son una sola. Pero como se usan en contextos aparentemente distintos, tienen una historia diferente, se tratan con un lenguaje particular, posiblemente en _asignaturas de distinto año_, etc., y nadie se ha molestado en tender puentes, se consideran, prácticamente inconmensurables cuando, en el fondo, son la misma cosa.
 
 Me refiero al llamado _log scoring_ (para seleccionar entre modelos) y el principio de la máxima verosimilitud.
 

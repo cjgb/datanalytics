@@ -46,10 +46,10 @@ Ahora, un tipo se fija en esa muestra con $n=5$ y extrapola a todo **X**. Obviam
 
 ### IV.
 
-El autor del estudio $n=5$ podía haber tratado de publicar sus conclusiones en una revista académica. Pero entonces los revisores se le habrían echado encima denunciando que $n = 5$, que si la muestra está sesgada, etc. y que todo es un puro _non sequitur_. Bueno, la menos en teoría: las ciencias sociales son un
+El autor del estudio $n=5$ podía haber tratado de publicar sus conclusiones en una revista académica. Pero entonces los revisores se le habrían echado encima denunciando que $n = 5$, que si la muestra está sesgada, etc., y que todo es un puro _non sequitur_. Bueno, la menos en teoría: las ciencias sociales son un
 [_sea of garbage_](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/).
 
-El autor del estudio $n=5$ podía haber publicado sus resultados en Twitter. Pero entonces el TST (_Twitter Stats Team_), se le habría echado encima: que si el tamaño muestral es minúsculo, que si la muestra está sesgada, etc. y que todo es un puro _non sequitur_. Bueno, al menos en teoría: el TST actual es manifiestamente perfectible y selecciona de manera muy previsible las ocasiones en las que se digna a desempolvar los manuales de metodología.
+El autor del estudio $n=5$ podía haber publicado sus resultados en Twitter. Pero entonces el TST (_Twitter Stats Team_), se le habría echado encima: que si el tamaño muestral es minúsculo, que si la muestra está sesgada, etc., y que todo es un puro _non sequitur_. Bueno, al menos en teoría: el TST actual es manifiestamente perfectible y selecciona de manera muy previsible las ocasiones en las que se digna a desempolvar los manuales de metodología.
 
 Lo que puede hacer el autor es escribir un libro. Por ejemplo,
 [este](https://www.goodreads.com/book/show/60165391-survival-of-the-richest).

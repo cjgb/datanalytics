@@ -44,7 +44,7 @@ Otra es la casualidad. V.g.,
 
 Internet está lleno de ejemplos. Basta con buscar "_correlation isn't causation_" o jugar un poco con [Google Correlate](https://www.google.com/trends/correlate) para convencerse de ello.
 
-Existe una tercera que consiste en jugar con los gráficos, sus escalas, etc. para crear apariencias de casi cualquier cosa. Hay ejemplos [aquí](https://datanalytics.com/2011/05/31/graficaca-en-el-ft/) o [aquí](https://datanalytics.com/2011/01/31/un-grafico-enganabobos/).
+Existe una tercera que consiste en jugar con los gráficos, sus escalas, etc., para crear apariencias de casi cualquier cosa. Hay ejemplos [aquí](https://datanalytics.com/2011/05/31/graficaca-en-el-ft/) o [aquí](https://datanalytics.com/2011/01/31/un-grafico-enganabobos/).
 
 La cuarta es más enjundiosa. Y nada como un diagrama para sintetizarla:
 

@@ -22,7 +22,7 @@ Sería muy difícil haber aprendido algo de probabilidad sin haber oído o leíd
 
 Pero cabe preguntarse: ¿hasta dónde y cuándo se remonta? El término tiene evocaciones viejunas y uno está tentado de buscar sus orígenes en, no sé, algún Bernoulli ---¿Jacobo?---, Laplace o el mismo Pascal. Pero estos autores todavía no habían alcanzado el nivel de abstracción al que estamos acostumbrados hoy: donde nosotros usaríamos "variable aleatoria" ellos hablan de eventos, bolas, tiradas de monedas, ganancias de un jugador u otras concreciones.
 
-Otros autores, como Gosset ---sí, el de la t de Student--- tiende a hablar de muestras ---¡muy significativamente!--- para aquellas _cosas_ que tienen media, varianza, etc. y a las que nos referiríamos hoy como variables aleatorias. Algo parecido hace Fisher (ya en 1922) en su
+Otros autores, como Gosset ---sí, el de la t de Student--- tiende a hablar de muestras ---¡muy significativamente!--- para aquellas _cosas_ que tienen media, varianza, etc., y a las que nos referiríamos hoy como variables aleatorias. Algo parecido hace Fisher (ya en 1922) en su
 [_On the Mathematical Foundations of Theoretical Statistics_](http://l.academicdirect.org/Horticulture/GAs/Refs/Fisher_1922_Estimation.pdf):
 
 ![](/img/2022/11/rvs_fisher_00.png#center)

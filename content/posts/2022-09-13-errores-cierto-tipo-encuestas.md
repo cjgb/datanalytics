@@ -20,7 +20,7 @@ title: Errores en cierto tipo de encuestas
 url: /2022/09/13/errores-cierto-tipo-encuestas/
 ---
 
-En las encuestas a las que estamos acostumbrados se le pregunta a la gente cosas del tipo: ¿tiene Vd. perro? Luego, las respuestas se tabulan, etc. y se publican los resultados.
+En las encuestas a las que estamos acostumbrados se le pregunta a la gente cosas del tipo: ¿tiene Vd. perro? Luego, las respuestas se tabulan, etc., y se publican los resultados.
 
 Pero en otras ---por ejemplo, en la
 [Encuesta de percepción de la ciencia y la tecnología en España](https://www.fecyt.es/es/noticia/encuestas-de-percepcion-social-de-la-ciencia-y-la-tecnologia-en-espana)--- se preguntan cosas como: ¿vivieron los primeros humanos al mismo tiempo que los dinosaurios? Y allí no se trata de averiguar qué es lo que responde la gente sino, más bien, cuánta gente sabe la respuesta.

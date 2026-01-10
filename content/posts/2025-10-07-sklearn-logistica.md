@@ -75,7 +75,7 @@ En definitiva:
 1. Usar _ridge_ no es malo sino bueno, en general.
 2. Pero usarlo implica escalar las variables de tal manera que la regularización tenga sentido. Lo cual implica cierto trabajo que no me quiero entretener en desarrollar hoy.
 
-Aunque también hay que advertir que en un mundo poblado de paletos numéricos como el nuestro nadie te va a criticar en absoluto por usar las regresiones logísticas de scikit-learn como si fuesen esas que nos enseñan los libros e implementa la función `glm` en R (o, para evitar suspicacias, la función `GLM` de `statsmodels` en python).
+Aunque también hay que advertir que en un mundo poblado de paletos numéricos como el nuestro nadie te va a criticar en absoluto por usar las regresiones logísticas de scikit-learn como si fuesen esas que nos enseñan los libros e implementa la función `glm` en R (o, para evitar suspicacias, la función `GLM` de `statsmodels` en Python).
 
 ## Coda
 

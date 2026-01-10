@@ -19,7 +19,7 @@ url: /2022/11/08/umap-tsne/
 
 En esta entrada propongo y no resuelvo un problema que puede considerarse o estadístico o, más ampliamente, de ajuste de funciones ---sujeto a innumerables ruidos---: determinar qué hora debería ser.
 
-Eso de la hora ---y me refiero a los horarios de invierno, verano, etc. y más en general, la desviación de la hora nominal con respecto a la solar--- se parece un poco a la economía. En economía tienes cantidades nominales y reales. Pareciere que las nominales son irrelevantes: tanto da llamar a una moneda 1 euro o 166.386 pesetas. Las cifras que asociamos a los objetos son, en principio, arbitrarias. Pero es bien sabido que existe una sutil interrelación entre cantidades nominales y reales sobre la que se ha escrito mucho pero yo sé poco.
+Eso de la hora ---y me refiero a los horarios de invierno, verano, etc., y más en general, la desviación de la hora nominal con respecto a la solar--- se parece un poco a la economía. En economía tienes cantidades nominales y reales. Pareciere que las nominales son irrelevantes: tanto da llamar a una moneda 1 euro o 166.386 pesetas. Las cifras que asociamos a los objetos son, en principio, arbitrarias. Pero es bien sabido que existe una sutil interrelación entre cantidades nominales y reales sobre la que se ha escrito mucho pero yo sé poco.
 
 Igualmente, la hora es una magnitud nominal. Nos levantamos, p.e., a las 8:00. Pero bien podíamos llamar a esa hora las 6:00 o las 9:00. Es cuestión de ponernos todos de acuerdo, supongo. Sin embargo, existe una sutil relación entre la magnitud nominal y la real: seguimos levantándonos a las 8:00 aunque esa cifra arbitraria se refiera a una hora solar distinta.
 

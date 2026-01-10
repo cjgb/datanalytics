@@ -25,7 +25,7 @@ La versión larga, en inglés y capada para quienes tengáis bloquador de public
 * Un tipo con mucha vocación estudia física y acaba en el CERN
 * Trabaja en lo de la partícula de Higgs y obtiene peor de los resultados posibles: la partícula existe tal cual predecía la teoría
 * Lo de la particulita queda ahí porque, desafortunadamente, no hay nada más que rascar
-* Se acaban las subvenciones, las becas, etc. y todos los físicos vocacionales tienen que buscarse la vida
+* Se acaban las subvenciones, las becas, etc., y todos los físicos vocacionales tienen que buscarse la vida
 * El protagonista de nuestra historia fabrica _apps_ de telefonillo para carreras de caballos
 
 Mis comentarios:

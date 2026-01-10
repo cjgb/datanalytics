@@ -19,7 +19,7 @@ title: Las cosas son azules, las personas son rosas (dicen algunos sicólogos)
 url: /2017/10/05/las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos/
 ---
 
-El otro día hablé con un amigo. Estaba un tanto preocupado por lo que cuento a continuación. Trabaja en un lugar que organiza conferencias, seminarios, etc. y frecuentemente suben los vídeos a Youtube. Al examinar el perfil demográfico de los _yutuvidentes _advertía con desazón que entre los de los vídeos de unas charlas de tecnología muy friquis apenas había un 10% de mujeres.
+El otro día hablé con un amigo. Estaba un tanto preocupado por lo que cuento a continuación. Trabaja en un lugar que organiza conferencias, seminarios, etc., y frecuentemente suben los vídeos a Youtube. Al examinar el perfil demográfico de los _yutuvidentes _advertía con desazón que entre los de los vídeos de unas charlas de tecnología muy friquis apenas había un 10% de mujeres.
 
 El autor de un blog que sigo [también está preocupado](http://slatestarcodex.com/2017/08/01/gender-imbalances-are-mostly-not-due-to-offensive-attitudes/). El hombre lidera (no sé cómo de formalmente) una comunidad de _racionalistas _(aunque yo los catalogaría más bien como empiristas). Escribe sobre temas... imaginaos cuáles serán si me interesan a mí. Y el motivo de su preocupación no es tanto, sospecho, la escasa presencia de mujeres en la antedicha comunidad sino la posibilidad de que lo puedan acusar de lo habitual. Es decir, tener una actitud discriminadora, hostil o menospreciante.
 

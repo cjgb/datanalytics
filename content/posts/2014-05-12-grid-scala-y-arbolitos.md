@@ -74,4 +74,4 @@ El resultado gráfico es
 [![arbolito](/img/2014/05/arbolito.png#center)
 ](/img/2014/05/arbolito.png#center)
 
-Invitados quedan mis lectores a manipular el grosor del tronco, el ángulo de rotación, el color, la transparencia, etc. para dejarlo a su gusto.
+Invitados quedan mis lectores a manipular el grosor del tronco, el ángulo de rotación, el color, la transparencia, etc., para dejarlo a su gusto.

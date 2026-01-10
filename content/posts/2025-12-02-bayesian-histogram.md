@@ -26,7 +26,7 @@ Un viejo amigo me escribe y me propone (simplificándolo) el siguiente problema:
 - De ella solo dispongo de un histograma.
 - ¿Cómo puedo reconstruir la normal original? Es decir, ¿cómo puedo estimar los $\mu$ y $\sigma$ originales?
 
-En el caso concreto, la normal tiene una media próxima a 255 y los valores del histograma proceden de una  muestra suya redondeada al entero más próximo.
+En el caso concreto, la normal tiene una media próxima a 255 y los valores del histograma proceden de una muestra suya redondeada al entero más próximo.
 
 Aquí va mi solución.
 

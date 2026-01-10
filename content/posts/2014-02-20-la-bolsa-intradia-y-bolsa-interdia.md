@@ -4,8 +4,7 @@ categories:
 - finanzas
 - r
 date: 2014-02-20 08:29:43+00:00
-draft: false
-lastmod: '2025-04-06T19:04:25.199786'
+lastmod: '2026-01-07'
 related:
 - 2011-12-27-el-lucero-del-alba.md
 - 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md
@@ -26,7 +25,7 @@ El IBEX 35 abre todas las mañanas a un precio y cierra a otro. El precio de ape
 Dicho lo cual:
 
 * Juan _compra el IBEX_ todos los días a primera hora y lo vende en el último minuto.
-* Del otro lado, Pedro lo compra en el último minuto y se lo vende (¡a Juan!) justo al abrir la bolsa al día siguiente.
+* Al otro lado, Pedro lo compra en el último minuto y se lo vende (¡a Juan!) justo al abrir la bolsa al día siguiente.
 
 Juan y Pedro llevan operando así desde el 1 de enero de 2000. ¿Cuál de los dos se ha llevado el gato al agua? Veámoslo:
 

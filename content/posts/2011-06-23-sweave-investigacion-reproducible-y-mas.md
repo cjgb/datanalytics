@@ -24,11 +24,7 @@ url: /2011/06/23/sweave-investigacion-reproducible-y-mas/
 
 Me consta que algunos de mis lectores están al tanto de eso que llaman _investigación reproducible_. De acuerdo con la [Wikipedia](http://en.wikipedia.org/wiki/Reproducibility#Reproducible_research) (en inglés),
 
-
-
->[E]l término investigación reproducible se atribuye a Jon Claerbout, de la Universidad de Stanford  y se refiere a la idea de que el producto final de la investigación no debería circunscribirse a un  artículo sino comprender también el entorno computacional completo usado en la generación de los resultados que contiene, tales como el código, los datos, etc. para que puedan ser reproducidos y se pueda avanzar a partir de ellos.
-
-
+>[E]l término investigación reproducible se atribuye a Jon Claerbout, de la Universidad de Stanford  y se refiere a la idea de que el producto final de la investigación no debería circunscribirse a un  artículo sino comprender también el entorno computacional completo usado en la generación de los resultados que contiene, tales como el código, los datos, etc., para que puedan ser reproducidos y se pueda avanzar a partir de ellos.
 
 En R se ha creado una infraestructura, [Sweave](http://www.stat.uni-muenchen.de/~leisch/Sweave/), que permite integrarlo con LaTeX (y que conste que esto no es exclusivo de R: también existe en Matlab y otros lenguajes). Permite escribir documentos en los que se intercala el código de R necesario para recrear tablas, gráficos y resultados.
 

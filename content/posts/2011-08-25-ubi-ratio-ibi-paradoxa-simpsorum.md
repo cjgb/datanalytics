@@ -30,15 +30,12 @@ Una ratio muy traída y llevada últimamente y con la que nos gusta autoflagelar
 
 De entre las múltiples discusiones que en España se hacen alrededor de este indicador, la que me resultó más reveladora fue la que _no_ se hizo alrededor del gráfico
 
-[![](/img/2011/08/productividad_paradoja_simpson.gif)
-](/img/2011/08/productividad_paradoja_simpson.gif)
+![Paradoja de Simpson](/img/2011/08/productividad_paradoja_simpson.gif#center)
 
 extraído del estudio [Una agenda de crecimiento para España](http://www.crisis09.es/agenda/20101201_Agenda.pdf). Si esos datos son correctos, significan lo siguiente:
 
-
-
 * La productividad de los empleados españoles está en línea con la de sus pares europeos (cuando se los compara según el tamaño de las empresas en las que trabajan).
-* Las discusiones recurrentes acerca de la baja competitividad del empleado español sonsolo una ilusión producida por la paradoja de Simpson.
+* Las discusiones recurrentes acerca de la baja competitividad del empleado español son solo una ilusión producida por la paradoja de Simpson.
 
 En cuyo caso, el remedio para solucionar la aparente baja productividad española no sería que los empleados trabajasen más y cobrasen menos —como reiteran nuestros próceres— sino que las empresas ganasen envergadura y aprovechasen las economías de escala.
 

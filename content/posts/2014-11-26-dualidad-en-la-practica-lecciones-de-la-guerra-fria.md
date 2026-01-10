@@ -20,7 +20,7 @@ url: /2014/11/26/dualidad-en-la-practica-lecciones-de-la-guerra-fria/
 
 Uno de los conceptos más lábiles y menos aprehensibles que he encontrado en los libros desde mis tiempos de primero de carrera es el de la dualidad. El caso histórico que traigo hoy a estas páginas os ayudará a desabstraerlo. O, en el peor de los casos, os entretendrá.
 
-En 1930, el Ministerio de Transportes de la Unión Soviética publicó un libro sobre planificación ferroviaria en el que colaboró A.N. Tolstoi estudiando un problema de optimización. En la URSS había factorías, ciudades, minas, etc. y ferrocarriles que los unían. Tolstoi calculó la capacidad máxima de la red ferroviaria y su funcionamiento óptimo.
+En 1930, el Ministerio de Transportes de la Unión Soviética publicó un libro sobre planificación ferroviaria en el que colaboró A.N. Tolstoi estudiando un problema de optimización. En la URSS había factorías, ciudades, minas, etc., y ferrocarriles que los unían. Tolstoi calculó la capacidad máxima de la red ferroviaria y su funcionamiento óptimo.
 
 [![trenes_urss_01](/img/2014/11/trenes_urss_01.png#center)
 ](/img/2014/11/trenes_urss_01.png#center)

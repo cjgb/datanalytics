@@ -36,7 +36,7 @@ Cada usuario de R que quiera, por lo tanto, utilizar esta información tiene pri
 
 El paquete `MicroDataEs` contiene dos partes:
 
-* Una plataforma común y reutilizable para almacenar metadatos, leer ficheros, etc. y generar los `dataframes `correspondientes para, en principio, una clase amplia de ficheros de metadatos.
+* Una plataforma común y reutilizable para almacenar metadatos, leer ficheros, etc., y generar los `dataframes `correspondientes para, en principio, una clase amplia de ficheros de metadatos.
 * Un catálogo de metadatos correspondientes a tipos de ficheros de microdatos generados por instituciones estadísticas.
 
 Por el momento, el catálogo contiene únicamente información para la lectura de los datos de la EPA. Pero espero hacerlo crecer (y tal vez con tu ayuda: ¿me echas una mano?).

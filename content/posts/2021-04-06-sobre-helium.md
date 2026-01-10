@@ -59,7 +59,7 @@ Los actores naturales de este negocio son las empresas de telefonía movil con a
 
 **TTN**
 
-[The Things Network](https://www.thethingsnetwork.org/) es una red de friquis que ponen antenas en sus balcones/tejados, etc. para proporcionar cobertura LoRa por todo el mundo por amor al arte. Seguro que son casi todo tipos y que alguna periodista de [Verne](https://verne.elpais.com/) va a escribir otro de sus habituales artículos hipersesudos denunciándolo muy minuciosamente.
+[The Things Network](https://www.thethingsnetwork.org/) es una red de friquis que ponen antenas en sus balcones/tejados, etc., para proporcionar cobertura LoRa por todo el mundo por amor al arte. Seguro que son casi todo tipos y que alguna periodista de [Verne](https://verne.elpais.com/) va a escribir otro de sus habituales artículos hipersesudos denunciándolo muy minuciosamente.
 
 Hay gente usando esa red para conectar su cafetera, transmitir la temperatura de su salón u otras cosas con las que matar el rato y entretenerse de manera más o menos productiva.
 

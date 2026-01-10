@@ -31,7 +31,7 @@ Sin embargo, otro librito, _[The Spirit Level Delusion](https://spiritleveldelus
 
 que sugerían precisamente lo contrario.
 
-Así que he buscado fuentes de datos de varios años sobre la materia, he seleccionado países según ciertos criterios, he añadido y quitado algunos al azar, etc. y así hasta 10k veces para crear
+Así que he buscado fuentes de datos de varios años sobre la materia, he seleccionado países según ciertos criterios, he añadido y quitado algunos al azar, etc., y así hasta 10k veces para crear
 
 ![](/img/2020/04/spirit_level_delusion_10k.png#center)
 

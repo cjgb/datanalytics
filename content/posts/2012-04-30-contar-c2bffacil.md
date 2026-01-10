@@ -27,7 +27,7 @@ Y en este contexto, y a la luz de[ lo publicado recientemente en la prensa](http
 
 El quid de la cuestión reside en si se cuentan como muertes relacionadas con el tráfico los fallecidos a consecuencia de accidentes hasta treinta días después y la dificultad que tiene la DGT para recopilar ese dato. También, el problema que supone obtener información sobre accidentes y fallecidos en zonas urbanas, en los que la gestión corresponde a los ayuntamientos. Y a mí me da por pensar, desde la perspectiva más alejada y neutra posible (puesto que ni coche tengo) lo siguiente:
 
-* Igual que las cifras del paro, etc., suelen estacionalizarse, ¿no deberían igualmente tenerse en cuenta circunstancias como puentes, semanas santas, etc. para matizar las cifras de fallecidos en accidentes y permitir así la comparación entre periodos (p.e., años distintos)?
+* Igual que las cifras del paro, etc., suelen estacionalizarse, ¿no deberían igualmente tenerse en cuenta circunstancias como puentes, semanas santas, etc., para matizar las cifras de fallecidos en accidentes y permitir así la comparación entre periodos (p.e., años distintos)?
 * De nuevo, para facilitar la comparación, ¿no deberían corregirse las cifras por los kilómetros recorridos? ¿Seguro que no se conducen hoy en día muchos más kilómetros que hace 10 años?
 * Igualmente, ¿no deberían introducirse factores correctores por las condiciones meteorológicas?
 * La incertidumbre que existe sobre el número definitivo de accidentes, ¿no podría (o debería) reflejarse en unos márgenes de confianza?
