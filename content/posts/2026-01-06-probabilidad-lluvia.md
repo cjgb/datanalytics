@@ -19,7 +19,7 @@ tags:
 - mala ciencia
 - probabilidad
 title: De nuevo, ¿qué significa «un 30% de probabilidad de lluvia»?
-url: /2026/01/06/tba/
+url: /2026/01/06/probabilidad-lluvia/
 ---
 
 Topé el otro día con el artículo [_Cyrena Arnold, meteoróloga: "La gente no sabe realmente qué significa probabilidad de precipitación"_](https://www.elconfidencial.com/tecnologia/ciencia/2025-12-25/meteorologa-probabilidad-precipitacion-1qrt_4265602/), que me interesó por varios motivos:
