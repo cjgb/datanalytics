@@ -21,7 +21,7 @@ title: Preludio (de más por venir)
 url: /2018/01/05/preludio-de-mas-por-venir/
 ---
 
-El preludio esto:
+El preludio es:
 
 ![](/img/2018/01/menciones_franquismo.png#center)
 

@@ -4,7 +4,7 @@ categories:
 - anuncio
 - r
 date: 2015-05-12 08:13:32+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:03:04.160032'
 related:
 - 2013-09-23-recordatorio-v-jornadas-de-usuarios-de-r-diciembre-2013-zaragoza.md

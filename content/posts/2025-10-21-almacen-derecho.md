@@ -24,6 +24,6 @@ Diríase que por error, han aparecido publicadas unas líneas mías en el [Almac
 
 - El problema de determinar cuándo un razonamiento analógico es fiable.
 - El problema anterior circunscrito al ámbito del derecho.
-- Cómo lo entiende un matemático que lo contempla desde afuera (y, por supuesto, desde la más absoluta ignorancia en la materia).
+- Cómo lo entiende un matemático que lo contempla desde fuera (y, por supuesto, desde la más absoluta ignorancia en la materia).
 
 Es decir, no le va a interesar a nadie. Pero si te pica la curiosidad, no te prives de hacer clic en la cosa.

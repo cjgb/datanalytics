@@ -22,5 +22,5 @@ Proceden de un número de [McKinsey Quarterly](http://en.wikipedia.org/wiki/McKi
 
 * W (_widen your options_, incrementa tus opciones): considera al menos dos opciones _robustas_ para cada toma de decisiones.
 * R (_reality-test your assumptions_, somete tus hipótesis a un baño de realidad): trata de realizar pequeñas pruebas de verificación.
-* A (_attain some distance_, distánciate): trata de revisar el asunto como si te fuese ajeno, desde afuera.
+* A (_attain some distance_, distánciate): trata de revisar el asunto como si te fuese ajeno, desde fuera.
 * P (_prepare to be wrong_, prepárate para el fracaso): plantea un plan de salida claro desde el principio: _si no logro esto y esto en tal plazo..._

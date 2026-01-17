@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2014-09-26 07:13:37+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:32.320150'
 related:
 - 2023-10-03-muestreo-superricos.md

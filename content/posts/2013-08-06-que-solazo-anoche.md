@@ -24,7 +24,7 @@ Pues sí, anoche debió hacer un buen solazo. Yo dormía y no lo vi, pero lo ded
 
 Véase cómo a eso de las cuatro de la mañana la producción de energía catalogada como solar era de 360MW.
 
-Habida cuenta que el KWh solar se paga a un precio elevado (y que pagamos/pagaremos todos) a uno se le ocurren unas cuantas preguntas:
+Habida cuenta de que el KWh solar se paga a un precio elevado (y que pagamos/pagaremos todos) a uno se le ocurren unas cuantas preguntas:
 
 * ¿Cataloga mal REE el origen de la energía?
 * ¿Se está quemando gas en las centrales solares?

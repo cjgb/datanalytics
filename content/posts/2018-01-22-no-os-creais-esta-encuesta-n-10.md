@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2018-01-22 08:13:17+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:06:13.478813'
 related:
 - 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md

@@ -18,7 +18,7 @@ title: Los estadísticos, hasta cierto momento, no hicieron más que interpretar
 url: /2024/10/31/efectividad-alertas/
 ---
 
-A veces los estadísticos analizan datos. Desde afuera del mundo, dan su visión sobre hechos pasados. Fin de la historia.
+A veces los estadísticos analizan datos. Desde fuera del mundo, dan su visión sobre hechos pasados. Fin de la historia.
 
 Desde cierto tiempo para acá, a los estadísticos (y colegas de profesiones anejas) se les piden no solo interpretaciones sobre el mundo sino, también, predicciones, consejos, ingredientes para la toma de ciertas decisiones, etc. Eso los inserta hasta las zancas en el mundo. Esas predicciones que hacen, operan sobre el mundo del que se extrajeron los datos y, al hacerlo, lo alteran. Como consecuencia, esas predicciones contienen un germen de contradicción; alguien puede querer leer [esto](https://www.lesswrong.com/posts/SwcyMEgLyd4C3Dern/the-parable-of-predict-o-matic) al respecto.
 

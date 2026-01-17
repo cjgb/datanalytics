@@ -61,7 +61,7 @@ La manera en que los he seleccionado es:
 
 ### IV.
 
-No obstante, antes de lanzarse a comprar ETFs es imprescindible dedicar un poco de tiempo a decidir desde qué entidad operar. Habida cuenta que, para lo que busco, el nivel de servicio es prácticamente similar, el criterio de comparación es:
+No obstante, antes de lanzarse a comprar ETFs es imprescindible dedicar un poco de tiempo a decidir desde qué entidad operar. Habida cuenta de que, para lo que busco, el nivel de servicio es prácticamente similar, el criterio de comparación es:
 
 * Que tengan comisiones bajas de administración y custodia (idealmente, el 0% con una _condicionalidad razonable_).
 * Que tengan precios aceptables para operaciones con ETFs (que, por motivos fácilmente adivinables, cotizan prácticamente todos fuera de España).
