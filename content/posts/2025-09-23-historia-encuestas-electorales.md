@@ -24,8 +24,8 @@ url: /2025/09/18/historia-encuestas-electorales/
 Escribió Andrew Gelman en su blog lo que él denomina una _historia selectiva_ o más humildemente, su personal _reconstrucción cruda_ de la historia de las encuestas políticas y la predicción electoral. Que consta, según él, de los siguientes episodios (traducidos con la ayuda de Gemini):
 
 1. Antes de 1900, los trabajadores políticos contaban los votos, era hiperlocal y laborioso.
-1. A partir de 1900, poblaciones móviles, mayor anonimato, menor participación electoral, motivación para pensar en la opinión pública en lugar de solo contar votos.
-1. 1936, la encuesta de Literary Digest (y cómo se podría haber corregido), la encuesta de Gallup.
+1. A partir de 1900: poblaciones móviles, mayor anonimato, menor participación electoral, motivación para pensar en la opinión pública en lugar de solo contar votos.
+1. 1936: la encuesta de Literary Digest (y cómo se podría haber corregido), la encuesta de Gallup.
 1. Encuestas comerciales y de opinión, muestreo por conglomerados, muestreo por cuotas, desafíos de la representatividad.
 1. De las encuestas presenciales a las encuestas telefónicas y a los paneles de internet: el modo de recolección de datos determina el método de muestreo.
 1. Ajustes de la muestra, tasas de respuesta decrecientes y diferentes formas de falta de respuesta.
@@ -48,4 +48,4 @@ Escribió Andrew Gelman en su blog lo que él denomina una _historia selectiva_ 
 1. Elecciones primarias, terceros partidos y otras complejidades.
 1. Mirando hacia el futuro.
 
-Es evidente que omite dolosamente las egregias contribuciones a la materia que debemos a nuestros incomparables y nunca debidamente reconocidos Tezanos y Alamillos. Sospecho que es culpa ya sea del culposo sesgo anglocéntrico de Gelman o de la subrepticia pervivencia de la leyenda negra, que lleva presuponiendo malo todo lo español de Felipe II para acá. Celebremos en todo caso que el "que inventen ellos" nos mantenga a los españoles más alienados con el bien, la verdad y la belleza que si hubiésemos adoptado acríticamente y por puro seguidismo técnicas muestrales bárbaras y grotescas.
+Es evidente que omite dolosamente las egregias contribuciones a la materia que debemos a nuestros incomparables y nunca debidamente reconocidos Tezanos y Alamillos. Sospecho que es culpa ya sea del culposo sesgo anglocéntrico de Gelman o de la subrepticia pervivencia de la leyenda negra, que lleva presuponiendo malo todo lo español de Felipe II para acá. Celebremos en todo caso que el "que inventen ellos" nos mantenga a los españoles más alineados con el bien, la verdad y la belleza que si hubiésemos adoptado acríticamente y por puro seguidismo técnicas muestrales bárbaras y grotescas.

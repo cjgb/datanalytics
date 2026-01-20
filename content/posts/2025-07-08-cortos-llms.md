@@ -23,7 +23,7 @@ url: /2025/07/08/cortos-llms/
 
 - Los interesados en averiguar con cierto conocimiento de causa cuál es el impacto medioambiental del entrenamiento y uso de los LLMs pueden echarle un vistazo a [este estudio de Mistral](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai).
 
-- En [esta entrevista](https://www.aipolicyperspectives.com/p/a-discussion-with-tyler-cowen), Tyler Cowen argumenta que los métodos tradicionales para medir el progreso de la IA usando _benchmarks_ tienen un problema fundamental y que contribuye a crear la percepción de que el progreso de la tecnología será muy importante. El problema radica en que los _benchmarks_ actuales están basados en tareas que los sistemas actuales todavía no son capaces de realizar. Como alternativa, sugiere medir el progreso de la IA usando una _canasta de consumo_ que mida el progreso precisamente en aquellas tareas en que la gente normal la usa realmente.
+- En [esta entrevista](https://www.aipolicyperspectives.com/p/a-discussion-with-tyler-cowen), Tyler Cowen argumenta que los métodos tradicionales para medir el progreso de la IA usando _benchmarks_ tienen un problema fundamental que contribuye a crear la percepción de que el progreso de la tecnología será muy importante. El problema radica en que los _benchmarks_ actuales están basados en tareas que los sistemas actuales todavía no son capaces de realizar. Como alternativa, sugiere medir el progreso de la IA usando una _canasta de consumo_ que mida el progreso precisamente en aquellas tareas en que la gente normal la usa realmente.
 
 - En cierto modo, ese _benchmark_ ya existe: es el [METR](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/).
 

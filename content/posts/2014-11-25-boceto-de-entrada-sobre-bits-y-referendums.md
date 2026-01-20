@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2014-11-25 07:13:38+00:00
-draft: false
 lastmod: '2025-04-06T18:52:08.060922'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
@@ -29,7 +28,7 @@ En primer lugar, y es lo menos importante, tengo la sensación de que quienes ab
 Es muy revelador echar un vistazo a los [referéndums (federales) habidos en Suiza en el año 2013](http://en.wikipedia.org/wiki/Swiss_referendums,_2013). De esa página extraigo algunos ejemplos:
 
 * Modificación de las leyes de asilo que, entre otras cosas prohibiría el derecho a pedirlo en embajadas suizas, etc., y al que se opusieron los partidos de izquierda, etc., aprobada por el 80% de los votantes.
-* Tope salarial en doce veces el salario mímino (un tema que ha resonado en España recientemente): rechazado.
+* Tope salarial en doce veces el salario mínimo (un tema que ha resonado en España recientemente): rechazado.
 * Abolición de la _mili_: rechazada.
 
 Igual en España sucedería al contrario. Pero si lees esta entrada, recuerda: vives en una ciudad, has estudiado (una carrera técnica, además), eres una persona inteligente (¡obviamente!), un poco friqui y... tus ideas son, como consecuencia, muy, muy minoritarias.

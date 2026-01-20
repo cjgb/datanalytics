@@ -23,7 +23,7 @@ title: PCA robusto
 url: /2021/06/01/pca-robusto/
 ---
 
-Esta semana _he descubierto_ el PCA robusto. En la frase anterior he conjugado el verbo en cursiva porque lo he pretendido usar con un significado que matiza el habitual: no es que haya tropezado con él fortuitamente, sino que el PCA robusto forma parte de esa inmensa masa de conocimiento estadístico que ignoro pero que, llegado el caso, con un par de clicks, una lectura en diagonal y la descarga del _software_ adecuado, puedo incorporarlo y usarlo a voluntad.
+Esta semana _he descubierto_ el PCA robusto. En la frase anterior he conjugado el verbo en cursiva porque lo he pretendido usar con un significado que matiza el habitual: no es que haya tropezado con él fortuitamente, sino que el PCA robusto forma parte de esa inmensa masa de conocimiento estadístico que ignoro pero que, llegado el caso, con un par de _clics_, una lectura en diagonal y la descarga del _software_ adecuado, puedo incorporarlo y usarlo a voluntad.
 
 El problema en cuestión pedía PCA a gritos. Pero, por otro lado, PCA, como toda herramienta que incorpore cuadrados, produce resultados horribles cuando hay _outilers_. Tenía que existir una versión robusta de PCA (rPCA en lo que sigue) y, cómo no, la hay. La versión de [rPCA que estoy usando](https://cran.r-project.org/web/packages/rpca/index.html) está basado en una descomposición del tipo
 

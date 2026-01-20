@@ -22,7 +22,7 @@ title: "Un par de notas: metaanálisis y estadística pública"
 url: /2025/09/02/cortos-estadistica/
 ---
 
-Hubo un tiempo en el que para poder señalar que se hablaba _ciencia en mano_ había que citar RCTs. Pero los RCTs acabaron adocenándose y ahora estamos en la era de los metaanálisis. Pero algunos ---¿cuántos?---, [como nos advierte DataColada](https://datacolada.org/127), son una especie de albóndiga ---tan esférica ella--- fabricada con carne picada de muy heterogénea procedencia.
+Hubo un tiempo en el que, para poder señalar que se hablaba _ciencia en mano_, había que citar RCTs. Pero los RCTs acabaron adocenándose y ahora estamos en la era de los metaanálisis. Pero algunos ---¿cuántos?---, [como nos advierte DataColada](https://datacolada.org/127), son una especie de albóndiga ---tan esférica ella--- fabricada con carne picada de muy heterogénea procedencia.
 
 Los siguientes metaanálisis sobre lo del impacto del salario mínimo en nosequé cosas querrán incluir cuarto y mitad de [esto](https://www.nber.org/papers/w34033). A todo esto: ¿qué llegará antes, la conclusión sobre lo del salario mínimo o las centrales eléctricas de fusión nuclear?
 

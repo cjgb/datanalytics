@@ -41,4 +41,4 @@ que aparecen en los libros que discuten las propiedades matemáticas de la incer
 
 ![Distribución normal en una puerta](/img/2025/dist_04.jpg#center)
 
-o tantas otras imágenes de la misma naturaleza? ¿Por que estaría empeñada la realidad en imitar formas que solo imaginan nuestras mentes?
+o tantas otras imágenes de la misma naturaleza? ¿Por qué estaría empeñada la realidad en imitar formas que solo imaginan nuestras mentes?

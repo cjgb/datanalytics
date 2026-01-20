@@ -37,7 +37,7 @@ un sistema de Cloudflare similar al archiconocido S3 de Amazon pero orientado a 
 
 Cada día soy más fan del [Z3 SAT/SMT Solver](https://www.johndcook.com/blog/2025/03/17/lessons-learned-with-the-z3-sat-smt-solver/). Estoy deseando encontrar un problema en el que poder aplicarlo (y ser pagado, obviamente, por ello).
 
-La estrategia más efectiva para [tratar de convencer a la gente que abandone el csv](https://towardsdatascience.com/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5/)
+La estrategia más efectiva para [tratar de convencer a la gente paraa que abandone el csv](https://towardsdatascience.com/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5/)
 es obviar que el texto es el formato (prácticamente) universal.
 
 El otro día probé [`monolith`](https://github.com/Y2Z/monolith) para empaquetar en un único fichero la web y sus dependencias de [Circiter](https://circiter.es). Al fin y al cabo, el portal entero consiste esencialmente en dos _landings_. El resultado fueron sendos ficheros de 16 MB que `nginx` sirve comprimido en 5 MB y que resulta en una calificación de 100/100 en varios portales que miden la velocidad de carga. Pero me pareció una solución demasiado _punk_ para un problema no particularmente grave.

@@ -39,8 +39,9 @@ Acerca de la toma de decisiones, de vez en cuando, merece la pena recordar que [
 [aquí](https://statmodeling.stat.columbia.edu/2024/11/01/calibration-is-sometimes-sufficient-for-trusting-predictions-what-does-this-tell-us-when-human-experts-use-model-predictions/) o
 [aquí](https://statmodeling.stat.columbia.edu/2024/08/14/when-is-calibration-enough/).
 
-En [este artículo](https://rworks.dev/posts/arima-note/), el autor tropieza con una aparente paradoja al tratar de ajustar modelos con `auto.arima y similares: obtiene distintos modelos con distintas interpretaciones que ajustan los datos de manera parecida. Que es algo de lo que ya hablé [aquí](/2025/04/10/diversidad-explicaciones/).
+En [este artículo](https://rworks.dev/posts/arima-note/), el autor tropieza con una aparente paradoja al tratar de ajustar modelos con `auto.arima` y similares: obtiene distintos modelos con distintas interpretaciones que ajustan los datos de manera parecida. Que es algo de lo que ya hablé [aquí](/2025/04/10/diversidad-explicaciones/).
 
 Finalmente, dos sobre métodos de esos que pueden ser útiles a veces:
+
 1. Uno sobre [cómo ajustar modelos de supervivencia bayesianos usando _splines_ penalizados](https://www.rdatagen.net/post/2025-03-04-a-bayesian-proportional-hazards-model-with-splines/).
 1. Otro sobre los [DLM](https://medium.com/@kylejones_47003/distributed-lag-models-in-dynamic-model-time-series-ba66e3d1432a) (_Distributed Lag Models_), sobre los que tantas vueltas di en la época en que me dediqué a la epidemiología. Tratan sobre cómo modelizar _retrasos_ en el impacto de una causa sobre un efecto.

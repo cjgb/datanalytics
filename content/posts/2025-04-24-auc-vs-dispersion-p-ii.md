@@ -22,11 +22,10 @@ title: Más sobre la relación entre la dispersión de las probabilidades y el A
 url: /2025/04/24/auc-dispersion-calibracion-ii/
 ---
 
-Esta entrada está relacionada ---aunque no es estrictamente una continuación--- de [la que escribí hace una semana](/2025/04/17/auc-dispersion-calibracion) sobre el mismo asunto.
-
-Se vuelve a partir de lo siguiente: un modelo de clasificación binaria bien calibrado. Eso significa que si el modelo predice $p$ para el sujeto $i$, entonces $Y_i \sim B(p)$.
+Esta entrada está relacionada ---aunque no es estrictamente una continuación--- de [la que escribí hace una semana](/2025/04/17/auc-dispersion-calibracion) sobre el mismo asunto. El punto de partida es el mismo: un modelo de clasificación binaria bien calibrado. Eso significa que si el modelo predice $p$ para el sujeto $i$, entonces $Y_i \sim B(p)$.
 
 Supongamos que tenemos una población dada, aplicamos el modelo y obtenemos una distribución $f(p)$ para las probabilidades predichas. Entonces, la distribución de:
+
 - los casos positivos es proporcional a $pf(p)$
 - los casos negativos es proporcional a $(1-p)f(p)$
 
@@ -48,7 +47,7 @@ es fácil estimarlo:
 
 Fijado el modelo, pues, se pueden reportar varios AUCs asociados a tal modelo simplemente cambiando la población sobre el que se aplica (que afecta a la $f(p)$).
 
-Por fijar ideas, supongamos este caso: un banco crea un modelo de riesgo de crédito y lo entrena sobre una población tal que la distribución de las $p$ es uniforme. El AUC reportado en entrenamiento sería aproximadamente 0.83. Luego reevalúa el AUC con datos reales. Pero como el banco solo ha otorgado préstamos a clientes con una $p$ menor que, p.e., 10%, el AUC estimado sobre esa nueva población es 0.67.
+Por fijar ideas, supongamos este caso: un banco crea un modelo de riesgo de crédito y lo entrena sobre una población tal que la distribución de las $p$ es uniforme. El AUC reportado en entrenamiento sería aproximadamente 0.83. Luego reevalúa el AUC con datos reales. Pero como el banco solo ha otorgado préstamos a clientes con una $p$ menor que, p.e., el 10%, el AUC estimado sobre esa nueva población es 0.67.
 
 Los interesados pueden jugar con sus distribuciones de interés con el siguiente código (que muestrea las distribuciones de los casos positivos y negativos usando el [método del rechazo](https://en.wikipedia.org/wiki/Rejection_sampling)):
 

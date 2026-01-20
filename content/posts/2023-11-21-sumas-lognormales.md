@@ -46,7 +46,7 @@ Pero sí que es cierto que:
 Uno de esos ámbitos en los que aparecen este tipo de datos es el de las ventas por internet a través de plataformas como Amazon o similares. Si uno examina las ventas de una empresa determinada a través de estas plataformas, sucede que:
 
 1. Los precios de los productos que vende la empresa tienen ---esta es una regularidad empírica que, como todas, tendrá sus excepciones--- distribución lognormal. Sin ir más lejos, la compañía Ibérica de Cositos SA, vende fundamentalmente cositos; pero también los cositos ultra, más caros y esporádicamnete, algunos cositos de edición limitada a un precio mucho mayor; sin olvidar los _packs_ de 12 cositos, por supuesto; por otra parte, también vende el cable de alimentación de los cositos, la carcasa de los cositos, juegos de limpieza de cositos y ruedas de repuesto para los cositos, que se venden a una fracción de lo que cuesta el cosito estándar. Evidentemente, distribución lognormal.
-2. La plataforma proporciona información del tipo: en el día tal, para el anuncio cual, se realizaron 97 _clicks_ y se consumaron 3 ventas por un importe conjunto de 152.28 euros.
+2. La plataforma proporciona información del tipo: en el día tal, para el anuncio cual, se realizaron 97 _clics_ y se consumaron 3 ventas por un importe conjunto de 152.28 euros.
 
 Esos 152.28 euros corresponden a 3 ventas, pero se desconoce el precio de cada venta por separado.
 

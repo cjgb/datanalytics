@@ -62,7 +62,7 @@ es la última. En ella se discute la sobredeterminación causal razonando sobre 
 
 ![](/img/2025/fertile_crescent.svg#center)
 
-que describe las _causas_ esgrimidas en el libro _Guns, Germs and Steel_ de J. Diamond acerca de los motivos por los que la agricultura surgió en primer lugar en el llamado creciente fértil. El resumen es la obviedad de que no pueden coexistir múltiples causas poderosas e independientes.
+que describe las _causas_ esgrimidas en el libro _Guns, Germs, and Steel_ de J. Diamond acerca de los motivos por los que la agricultura surgió en primer lugar en el llamado creciente fértil. El resumen es la obviedad de que no pueden coexistir múltiples causas poderosas e independientes.
 
 ### VI.
 

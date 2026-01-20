@@ -44,7 +44,7 @@ En tal caso, ¿seguirían alegando los autores que el error es intrascendente y 
 
 ### III.
 
-José Luis Cañadas escribe sobre el [área de aplicación](https://muestrear-no-es-pecado.netlify.app/2025/05/aoa.html), un concepto que tiene que ver con el grado de cobertura que ofrecen los datos de entrenamiento del _universo_ completo. En efecto, los modelos estadísticos, en principio, predicen _cualquier valor_ y uno querría saber en qué medida _intrapolan_ información conocida o _extrapolan_ para sujetos de los que no tenemos otros similares. El concepto del _área de aplicación_ trata de construir un indicador del grado de interpolación vs extrapolación.
+José Luis Cañadas escribe sobre el [área de aplicación](https://muestrear-no-es-pecado.netlify.app/2025/05/aoa.html), un concepto que tiene que ver con el grado de cobertura que ofrecen los datos de entrenamiento del _universo_ completo. En efecto, los modelos estadísticos, en principio, predicen _cualquier valor_ y uno querría saber en qué medida _interpolan_ información conocida o _extrapolan_ para sujetos de los que no tenemos otros similares. El concepto del _área de aplicación_ trata de construir un indicador del grado de interpolación vs extrapolación.
 
 ### IV.
 

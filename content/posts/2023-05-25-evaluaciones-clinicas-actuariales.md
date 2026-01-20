@@ -59,4 +59,4 @@ Así, cuando se critica algún _algoritmo_ por algún fallo cometido o por un de
 * Habida cuenta de la enorme evidencia a favor de los procedimientos _actuariales_, determinar en qué casos y bajo qué circunstancias pueden llegar ---excepcionalmente--- a funcionar mejor los primeros.
 * Y también, cuáles son las causas de que los juicios _clínicos_ funcionen sistemáticamente peor.
 
-Todo muy recomendable y a unos escasos _clicks_ de tu pantalla.
+Todo muy recomendable y a unos escasos _clics_ de tu pantalla.

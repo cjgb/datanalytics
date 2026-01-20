@@ -25,7 +25,7 @@ url: /2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-
 
 Tiene que ver mi entrada de hoy con [_Why did Big Data fail Clinton?_](http://www.statisticsviews.com/details/news/10094321/Why_did_Big_Data_fail_Clinton.html), que trata de lo que el título indica: toda la tontería que se ha escrito de [Cambridge Analytica](https://datanalytics.com/2018/04/02/sobre-lo-de-cambridge-analytica/). Enlazo todo lo demás, por otro lado, con el [nóbel de economía de 2016 (Hart y otro)](https://marginalrevolution.com/marginalrevolution/2016/10/performance-pay-nobel.html).
 
-¿Por qué? De acuerdo con lo que muchos han escrito, una empresa de siete friquis en el Reino Unido con acceso a los _likes_ de 50000 donnadies y poco más tienen poder para quitar y poner reyes con unos cuantos clicks. Poco menos que en sus manos está el hacer periclitar, si no occidente entero, al menos, sí sus democracias. (Que es un relato sumamente interesado: ¿cómo justificar, si no, todo el tinglado de la GDPR?)
+¿Por qué? De acuerdo con lo que muchos han escrito, una empresa de siete friquis en el Reino Unido con acceso a los _likes_ de 50000 donnadies y poco más tienen poder para quitar y poner reyes con unos cuantos _clics_. Poco menos que en sus manos está el hacer periclitar, si no occidente entero, al menos, sí sus democracias. (Que es un relato sumamente interesado: ¿cómo justificar, si no, todo el tinglado de la GDPR?)
 
 Luego si un equipo de científicos de datos con un clúster de Hadoop es incapaz de llevar a Clinton al despacho oval, poco menos que podemos poner en duda que sus integrantes estén en el lado bueno de la línea que define el retraso mental.
 

@@ -20,10 +20,9 @@ title: 'Nuevo paquete para procesar texto en R: stringr'
 url: /2011/01/20/nuevo-paquete-para-procesar-texto-en-r-stringr/
 ---
 
-Hadley Wickhan, el autor de `plyr`, `reshape` y `ggplot2`, ha vuelto a la carga en su exitoso empeño por hacernos cambiar de forma de programar en R.
+Hadley Wickham, el autor de `plyr`, `reshape` y `ggplot2`, ha vuelto a la carga en su exitoso empeño por hacernos cambiar de forma de programar en R.
 
 Con su nuevo paquete, [stringr](http://cran.r-project.org/web/packages/stringr/index.html), aspira a facilitarnos aún más la vida. En un [reciente artículo](http://journal.r-project.org/archive/2010-2/RJournal_2010-2_Wickham.pdf), enumera sus ventajas:
-
 
 * Procesa factores y caracteres de la misma manera (de verdad, muy práctico)
 * Da a las funciones nombres y argumentos consistentes

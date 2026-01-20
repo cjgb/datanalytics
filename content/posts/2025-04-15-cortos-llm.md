@@ -28,7 +28,7 @@ Dos usuarios avanzados de los LLMs desvelan algunos de sus trucos:
 
 Simon Willison [comienza a sentirse satisfecho del estado de lo que llama _search-based research_](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) (que consiste, parece, en delegar tareas complejas en LLMs que buscan en internet y razonan).
 
-Alex Tabarrok cuenta aquí cómo usa los LLMs para encontrar lo que existe sino, precisamente, [lo que falta](https://marginalrevolution.com/marginalrevolution/2025/04/my-blind-spots.html). (En concreto, para que identifique sus propios _puntos ciegos_, esas cosas que debería considerar pero que tiende a omitir).
+Alex Tabarrok cuenta aquí cómo usa los LLMs para encontrar no lo que existe sino, precisamente, [lo que falta](https://marginalrevolution.com/marginalrevolution/2025/04/my-blind-spots.html). (En concreto, para que identifique sus propios _puntos ciegos_, esas cosas que debería considerar pero que tiende a omitir).
 
 Dos desarrollos tecnológicos recientes:
 - [Codex](https://github.com/openai/codex) de OpenAI, diseñado para _desarrolladores que viven en la terminal_.

@@ -20,6 +20,7 @@ url: /2025/09/25/sesgo-calibracion-variabilidad/
 ---
 
 Tenemos una población con dos grupos, 50% de cada. Por simplificar, nuestra población son monedas que son de dos tipos:
+
 - A, con probabilidad de cara del 25%.
 - B, con probabilidad de cara del 75%.
 

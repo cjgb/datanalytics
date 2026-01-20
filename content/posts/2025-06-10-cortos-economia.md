@@ -45,7 +45,7 @@ Pero uno sospecha que el problema no ocurre solo en EEUU y que tampoco se debe �
 
 En relación con lo anterior, Gelman contribuye al debate sobre la conexión entre discursos y experiencias y [escribe](https://statmodeling.stat.columbia.edu/2025/06/22/update-on-effects-of-economy-on-political-attitudes-and-behavior/):
 
-> mi posición actual en el debate sobre cómo afecta la economía a los resultados electorales es que, hace años, las estadísticas económicas que aparecían en los medios de comunicación servían como referencia o punto de calibración sobre el que los votantes realizaban sus propios ajustes en función de sus experiencias personales. Sin dicha calibración, se rompe la relación entre el estado de la economía y las actitudes políticas.
+> [...] mi posición actual en el debate sobre cómo afecta la economía a los resultados electorales es que, hace años, las estadísticas económicas que aparecían en los medios de comunicación servían como referencia o punto de calibración sobre el que los votantes realizaban sus propios ajustes en función de sus experiencias personales. Sin dicha calibración, se rompe la relación entre el estado de la economía y las actitudes políticas.
 
 Dos enlaces finales sobre la universidad: en el primero, The Economist argumenta que
 [los graduados universitarios de hoy en día están _jodidos_](https://www.economist.com/finance-and-economics/2025/06/16/why-todays-graduates-are-screwed).
