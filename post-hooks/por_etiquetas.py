@@ -16,7 +16,7 @@ type: page
 url: /por_tema/
 menu:
     main:
-        weight: 20
+        weight: 30
 ---
 """
 

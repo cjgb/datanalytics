@@ -1,63 +1,98 @@
-baseurl = "https://datanalytics.com/"
 title = "Carlos J. Gil Bellosta"
+description = "Blog de Carlos J. Gil Bellosta - Estadística, análisis de datos, inteligencia artificial, machine learning, data science y más"
+baseURL = "https://datanalytics.com/"
 languageCode = "es"
-DefaultContentLanguage = "es"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-#googleAnalytics = "UA-10706481-2" # Enable Google Analytics by entering your tracking id
-rssLimit = 10
+defaultContentLanguage = "es"
 enableRobotsTXT = true
 
-[pagination]
-  pargerSize = "13"  # number of posts per page
+rssLimit = 20        # Only the last 20 posts
 
 [outputs]
-  home = ['html', 'rss']
-  section = ['html']
+  home = ['html', 'rss', 'json']  # Added json for search
+  section = ['html', 'rss']
   taxonomy = ['html']
-  term = ['html']
+  term = ['html', 'rss']
 
-[Params]
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
+
+[params]
+  author = "Carlos J. Gil Bellosta"
+
+  # toggle LaTeX rendering (see layouts/partials/extend_head.html)
   math = true
-  copyright = "Carlos J. Gil Bellosta"
-  description = "Blog de Carlos J. Gil Bellosta - Estadística, análisis de datos, inteligencia artificial, machine learning, data science y más"
-  opengraph = true
-  readmore = false # Show "Read more" button in list if true
-  authorbox = true
-  pager = true
-  post_meta = ["date", "categories"] # Order of post meta information
-  dateformat = "2006-1-2"
-  googleFontsLink = "https://fonts.googleapis.com/css?family=Fira Code|Alegreya:400,400i,700"
-  #mathjax = true # Enable MathJax
-  #mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js" # Specify MathJax path
-  #mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
-  mainSections = ["posts"]
 
-[Params.Author]
-  name = "Carlos J. Gil Bellosta"
-  bio = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es). Más sobre él, [aquí](http://datanalytics.com/bio)."
-  avatar = "https://datanalytics.com/carlos-gil-bellosta-twitter-card.png"
+  # PaperMod specific features
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
 
-[Twitter]
-  twitter_cards = true
-  images = ["/carlos-gil-bellosta-twitter-card.png"]  # Twitter card image
-  #card = "summary"
+  # Bloque de presentación en la página principal
+  [params.homeInfoParams]
+    enabled = true
+    Title = "Blog de Carlos J. Gil Bellosta"
+    Content = """
+Carlos J. Gil Bellosta es ex-eBay, ex-BBVA, ex-everis, ex-Barclays, exmatemático, ex-casi todo. No obstante, estadístico diletante, científico de datos, pionero y entusiasta de R,
+picapedrero de Python y bloguero en los ratos libres de los días de hacer.
 
-[Params.logo]
-  subtitle = "Estadística, análisis de datos y más" # Logo subtitle
+Estas páginas reflejan parte de sus gustos e intereses intelectuales y profesionales ---los concernientes a la estadística, el análisis de datos, la inteligencia artificial, el _data science_, la programación y otras disciplinas aledañas--- más fielmente que su tortuoso CV.
+"""
 
-[Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  widgets = ["related", "recent", "categories"]
+  [[params.socialIcons]]
+    name = "twitter"
+    url  = "https://twitter.com/gilbellosta"
 
-[Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  [[params.socialIcons]]
+    name = "github"
+    url  = "https://github.com/cjgb"
 
-[Params.style.vars]
-  fontFamilyPrimary = "Alegreya"
-  fontFamilySecondary = "Fira Code"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+  ## Profile mode (alternative to homeInfo)
+  #[params.profileMode]
+  #  enabled = true
+  #  title = "Carlos J. Gil Bellosta"
+  #  subtitle = "Matemático, científico de datos y CEO de [Circiter](http://circiter.es)"
+  #  imageUrl = "https://datanalytics.com/carlos-gil-bellosta-twitter-card.png"
+  #  imageWidth = 120
+  #  imageHeight = 120
+  #  imageTitle = "Carlos J. Gil Bellosta"
+  #
+  #  [[params.profileMode.buttons]]
+  #    name = "Artículos"
+  #    url = "/posts"
+  #
+  #  [[params.profileMode.buttons]]
+  #    name = "Categorías"
+  #    url = "/categories"
+
+  # Cover image settings
+  [params.cover]
+    hidden = true
+    hiddenInList = false
+    hiddenInSingle = true
+
+  # Edit post link (optional)
+  #[params.editPost]
+  #  #URL = "https://github.com/cjgb/datanalytics/tree/master/content"
+  #  URL = "https://github.com/cjgb/datanalytics/issues"
+  #  Text = "Sugerir cambios"
+  #  appendFilePath = false
 
 [markup]
   [markup.highlight]
@@ -65,10 +100,21 @@ enableRobotsTXT = true
     codeFences = true
     guessSyntax = false
     lineNos = false
-    lineNumbersInTable = false
-    noClasses = false  # Changed to false - use CSS classes
-    style = "monokai"  # Dark-friendly style
+    noClasses = false
+    style = "monokai"
 
-[module]
-  [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
+  [markup.goldmark.renderer]
+    unsafe = true  # Allow HTML in markdown
+
+# Menu
+[[menu.main]]
+  identifier = "categories"
+  name = "Por categoría"
+  url = "/categories/"
+  weight = 40
+
+#[[menu.main]]
+#  identifier = "search"
+#  name = "Buscar"
+#  url = "/search/"
+#  weight = 99

@@ -11,7 +11,7 @@ menu:
         weight: 10
 ---
 
-{{< figure src="/carlos-gil-bellosta-twitter-card.png" alt="Carlos J. Gil Bellosta" >}}
+{{< figure src="/carlos-gil-bellosta-twitter-card.png" alt="Carlos J. Gil Bellosta" align="center" >}}
 
 Carlos J. Gil Bellosta es ex-eBay, ex-BBVA, ex-everis, ex-Barclays, exmatemático, ex-casi todo. No obstante, estadístico diletante, científico de datos, entusiasta de R y bloguero en los ratos libres de los días de hacer.
 
@@ -23,4 +23,4 @@ Es un miembro activo de la comunidad de usuarios de R, ha desarrollado varios pa
 
 Estas páginas reflejan sus gustos e intereses intelectuales y profesionales más fielmente que su CV ([corto](/pdf/cv_gil_bellosta_es.pdf), [largo](/pdf/cv_gil_bellosta_en.pdf)).
 
-Sus coordenadas están [aquí](https://www.google.ch/search?q=gil+bellosta). También se le puede escribir a [@gilbellosta](https://twitter.com/gilbellosta).
+Sus coordenadas están [aquí](https://www.google.com/search?q=gil+bellosta). También se le puede escribir a [@gilbellosta](https://twitter.com/gilbellosta).

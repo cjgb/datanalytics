@@ -7,7 +7,7 @@ url: /recursos/
 authorbox: false
 menu:
     main:
-        weight: 30
+        weight: 90
 ---
 
 Esta página es un listado de algunos recursos creados por Carlos J. Gil Bellosta y alojados en este dominio.
