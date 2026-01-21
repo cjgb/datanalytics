@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
-- otros
+- varios
 date: 2024-07-02
 lastmod: '2025-04-06T18:49:56.717602'
 related:

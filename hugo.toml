@@ -24,6 +24,7 @@ rssLimit = 20        # Only the last 20 posts
   math = true
 
   # PaperMod specific features
+  #ShowAllPagesInArchive = true
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = false
@@ -107,6 +108,18 @@ Estas páginas reflejan parte de sus gustos e intereses intelectuales y profesio
     unsafe = true  # Allow HTML in markdown
 
 # Menu
+[[menu.main]]
+  identifier = "archives"
+  name = "Por fecha"
+  url = "/archives/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Por tema"
+  url = "/tags/"
+  weight = 30
+
 [[menu.main]]
   identifier = "categories"
   name = "Por categoría"
