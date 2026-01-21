@@ -16,19 +16,3 @@
     });
 </script>
 {{- end }}
-
-
-{{- /* Robots meta tag logic */ -}}
-{{- $robotsValue := "follow, noindex" -}}{{- /* Default: noindex */ -}}
-
-{{- if eq .Section "paginas" -}}
-  {{- $robotsValue = "follow, index" -}}
-{{- else if eq .Section "posts" -}}
-  {{- if .Params.noindex -}}
-    {{- $robotsValue = "follow, noindex" -}}
-  {{- else -}}
-    {{- $robotsValue = "follow, index" -}}
-  {{- end -}}
-{{- end -}}
-
-<meta name="robots" content="{{ $robotsValue }}">
