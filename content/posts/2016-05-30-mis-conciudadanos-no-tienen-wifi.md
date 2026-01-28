@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-05-30 08:13:01+00:00
-draft: false
-lastmod: '2025-04-06T18:55:08.985443'
+lastmod: '2026-01-23'
 related:
 - 2015-01-08-tres-libros-mas-una-biblioteca-menos.md
 - 2017-03-21-asi-se-calculan-los-logaritmos-de-zaragoza-se-ve-y-una-reflexion.md
@@ -16,7 +15,7 @@ tags:
 - nlp
 - r
 - tm
-- wordcloud
+- nubes de palabras
 title: ¿Mis conciudadanos no tienen wifi?
 url: /2016/05/30/mis-conciudadanos-no-tienen-wifi/
 ---
