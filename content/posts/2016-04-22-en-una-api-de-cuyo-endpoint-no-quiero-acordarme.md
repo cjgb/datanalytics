@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2016-04-22 09:13:16+00:00
-draft: false
-lastmod: '2025-04-06T19:12:20.246978'
+lastmod: '2026-01-29'
+noindex: true
 related:
 - 2014-11-21-mi-querido-colega-de-iberia.md
 - 2017-01-30-sobre-las-miserias-de-la-universidad.md
