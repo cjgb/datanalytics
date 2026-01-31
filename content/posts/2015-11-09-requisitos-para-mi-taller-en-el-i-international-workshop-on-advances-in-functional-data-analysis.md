@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-11-09 08:13:49+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:07:49.328943'
 related:
 - 2013-12-02-requisitos-para-mi-taller-de-hadoop-r-en-las-v-jornadas-de-usuarios-de-r.md

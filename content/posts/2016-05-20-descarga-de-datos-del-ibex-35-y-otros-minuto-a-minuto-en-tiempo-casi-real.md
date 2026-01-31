@@ -4,7 +4,7 @@ categories:
 - finanzas
 - r
 date: 2016-05-20 08:13:54+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:57:40.266835'
 related:
 - 2013-01-09-el-ibex-35-estilo-gapminder.md
@@ -46,11 +46,5 @@ dat <- content(res, as = "parsed",
 dat <- dat$answer$LST$TV$T09
 dat <- ldply(dat, unlist)
 {{< / highlight >}}
-
-
-
-
-
-
 
 Los _mutatis mutandis_, si alguien tiene la gentileza, en los comentarios.

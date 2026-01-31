@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-08-05 14:40:52+00:00
-draft: false
 lastmod: '2025-04-06T19:04:38.282853'
 related:
 - 2016-03-07-sutilezas-de-las-licencias-libres.md

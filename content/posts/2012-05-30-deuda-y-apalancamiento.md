@@ -4,7 +4,7 @@ categories:
 - finanzas
 - números
 date: 2012-05-30 06:34:34+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:29.124622'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md

@@ -5,8 +5,8 @@ categories:
 - estadística
 - r
 date: 2012-01-09 11:53:28+00:00
-draft: false
 lastmod: '2025-04-06T19:09:36.165704'
+noindex: true
 related:
 - 2011-12-23-c2bfnos-leemos-the-elements-of-statistical-learning-de-tapa-a-tapa.md
 - 2013-04-24-leemos-analyzing-linguistic-data-juntos.md

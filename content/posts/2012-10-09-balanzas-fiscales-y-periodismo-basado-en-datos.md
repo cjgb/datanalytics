@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2012-10-09 07:35:49+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:00:48.900605'
 related:
 - 2012-04-13-balanzas-fiscales-asi-en-plural.md

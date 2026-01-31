@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-11-04 07:17:03+00:00
-draft: false
 lastmod: '2025-04-06T18:55:16.194390'
+noindex: true
 related:
 - 2011-10-28-c2bfes-abierto-todo-lo-que-reluce.md
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
@@ -29,7 +29,6 @@ En resumen:
 * El 15% de las fuentes de datos permitían la reutilización
 
 ¡Pobre resumen!
-
 
 Además, como indicaba David Cabo en un mensaje en una lista de correo recientemente, la que aparece en el proyecto Aporta _sigue siendo básicamente la [lista de fuentes que hizo la Complutense ¡en el 2008!](http://multidoc.rediris.es/ppo/index.php?option=com_content&task=blogsection&id=5&Itemid=66)_
 

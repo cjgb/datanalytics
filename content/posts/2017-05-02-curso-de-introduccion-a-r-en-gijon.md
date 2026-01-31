@@ -5,7 +5,7 @@ categories:
 - cursos
 - r
 date: 2017-05-02 10:44:59+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:04.572790'
 related:
 - 2015-03-25-pues-si-un-curso-de-redes-sociales-con-r.md

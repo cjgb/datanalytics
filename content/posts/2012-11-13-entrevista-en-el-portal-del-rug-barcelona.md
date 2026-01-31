@@ -4,7 +4,7 @@ categories:
 - r
 - anuncio
 date: 2012-11-13 07:00:05+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:04:20.563101'
 related:
 - 2012-02-13-r-y-alrededores-en-medialab-prado.md

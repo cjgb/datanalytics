@@ -4,7 +4,7 @@ categories:
 - anuncio
 - estadística
 date: 2016-02-08 09:13:19+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:07.021999'
 related:
 - 2016-04-14-diapositivas-de-mi-charla-datos-modelos-y-parametros.md

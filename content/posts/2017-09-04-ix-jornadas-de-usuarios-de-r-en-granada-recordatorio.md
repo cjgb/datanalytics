@@ -4,7 +4,7 @@ categories:
 - charlas
 - r
 date: 2017-09-04 08:13:19+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:35.121798'
 related:
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md

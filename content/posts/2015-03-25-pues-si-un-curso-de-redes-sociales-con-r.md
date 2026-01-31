@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-03-25 08:13:36+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:21.692594'
 related:
 - 2015-03-19-un-curso-de-redes-sociales-con-r.md

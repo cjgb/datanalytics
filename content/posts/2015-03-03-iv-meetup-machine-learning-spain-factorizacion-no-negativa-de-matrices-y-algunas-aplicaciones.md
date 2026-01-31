@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-03-03 08:13:34+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:49:14.323787'
 related:
 - 2015-03-05-iv-meetup-machine-learning-spain-diapositivas-y-enlaces.md

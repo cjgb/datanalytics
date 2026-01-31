@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2014-11-05 07:13:37+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:56.426428'
 related:
 - 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md

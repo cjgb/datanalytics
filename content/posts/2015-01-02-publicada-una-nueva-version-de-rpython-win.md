@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-01-02 07:13:50+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:54:19.067928'
 related:
 - 2013-11-20-rpython-ya-en-windows.md

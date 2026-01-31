@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - cursos
 date: 2014-09-10 07:13:20+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:33.913472'
 related:
 - 2014-09-18-recordatorio-esta-tarde-participo-en-el-databeers-de-madrid.md

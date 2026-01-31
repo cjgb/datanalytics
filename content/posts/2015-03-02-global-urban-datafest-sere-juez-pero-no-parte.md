@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-03-02 08:13:03+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:48:43.610868'
 related:
 - 2015-04-01-visualizar15-datos-para-el-bien-comun-convocatoria-de-proyectos.md

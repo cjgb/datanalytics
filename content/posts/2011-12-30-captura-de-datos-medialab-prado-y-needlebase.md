@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-12-30 06:22:41+00:00
-draft: false
 lastmod: '2025-04-06T18:48:04.243451'
+noindex: true
 related:
 - 2012-01-20-disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-prado.md
 - 2012-04-17-periodismo-de-datos-en-via52-com.md

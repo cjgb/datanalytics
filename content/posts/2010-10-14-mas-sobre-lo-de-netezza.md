@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2010-10-14 23:18:35+00:00
-draft: false
 lastmod: '2025-04-06T19:06:16.339414'
+noindex: true
 related:
 - 2010-10-10-ibm-compro-netezza-una-taxonomia-y-algunos-comentarios.md
 - 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md
@@ -27,7 +27,6 @@ Existen también otros muchos antecedentes de lo que teme mi colega: los que cit
 Pasa también que A (p.e. Oracle) compra a B (digamos, Sun), que B tiene mil productos (que pudieran llamarse OpenSolaris, OpenOffice, MySQL, Java, VirtualBox, etc.) y que a Asolo le interese realmente un porcentaje de ellos y congele el desarrollo del resto.
 
 Pero esta vez, y en aras de la feroz competencia de los peces gordos que haga que bailemos los que somos más chicos, espero no estar equivocado con lo de la compra de Netezza y que pronto veamos a IBM cantando las virtudes de su nuevo DBMS por doquier. Y para tal vez racionalizar esta suposición, alego lo siguiente:
-
 
 * Netezza, esencialmente, es una compañía uniproducto. Si IBM no lo quiere, ¿qué quiere pues? (¿tal vez la tecnología para _netezzar_ DB2?)
 * Netezza no vendesolo cedés sino máquinas en las que corre su software (a razón como de [20.000 dólares por TB](http://www.xconomy.com/boston/2009/07/31/netezza-pursues-broader-customer-base-with-cheaper-data-storage-technology/), aparentemente, que viene a ser lo que cuesta un TB de RAM); y estas máquinas son desde no hace mucho _blades_ de IBM (podría extenderme aquí con alguna frase en la que utilizar la palabra sinergia).

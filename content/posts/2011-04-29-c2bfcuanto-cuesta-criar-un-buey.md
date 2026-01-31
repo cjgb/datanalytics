@@ -23,11 +23,9 @@ Primero una foto:
 
 ![¿Cuánto petróleo necesita un buey para criarse?](http://images.nationalgeographic.com/wpf/media-live/photos/000/003/cache/oil-for-beef_319_600x450.jpg)
 
-
 En ella, aparece un buey de 567 kg. llamado Grandview Rebel junto a unos barriles que representan el petróleo que ha requerido criarlo: 1.071 litros. Cada kilo de carne de buey necesita 6,25 litros de petróleo. Eso explica la siguiente gráfica,
 
 ![](http://www.paulchefurka.ca/Oil_Food.png#center)
-
 
 que muestra la correlación entre los precios de la energía y los de la comida.
 

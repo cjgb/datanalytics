@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2014-07-23 07:13:36+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:46:45.516550'
 related:
 - 2015-03-10-licencias-urbanisticas-datos-y-votos.md

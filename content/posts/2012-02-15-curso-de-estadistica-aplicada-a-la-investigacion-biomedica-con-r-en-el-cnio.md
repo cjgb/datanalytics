@@ -4,8 +4,8 @@ categories:
 - estadística
 - r
 date: 2012-02-15 15:34:22+00:00
-draft: false
 lastmod: '2025-04-06T19:06:24.408484'
+noindex: true
 related:
 - 2014-02-26-curso-de-analisis-de-datos-omicos-con-r.md
 - 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md

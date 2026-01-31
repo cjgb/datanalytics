@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2014-07-03 07:00:03+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:12:01.526208'
 related:
 - 2015-08-05-quien-es-quien-del-big-data-en-espana-2015-y-yo.md

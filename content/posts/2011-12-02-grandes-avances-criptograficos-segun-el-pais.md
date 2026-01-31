@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-12-02 07:12:20+00:00
-draft: false
 lastmod: '2025-04-06T18:45:25.028599'
 related:
 - 2017-04-05-etsa-es-una-edntara-a-pubrea-de-roreetcs-cnctoaumes.md
@@ -22,13 +21,10 @@ Apenas sé de criptografía y no es un tema que me interese demasiado. Sin embar
 
 Aunque el artículo habla principalmente de la masonería, las normas, la historia del manuscrito y otras lindezas, describe brevemente la técnica de desencriptación:
 
-
 >El método de desencriptación mezcla las herramientas informáticas con garabatos a papel y lápiz. El procedimiento fue sencillo, aunque laborioso: un programa informático calculó la frecuencia de repetición de las letras en alemán y la contrastó con la frecuencia de repetición de los símbolos. En base a esos resultados se procedió al cambio de letras: ¡voilà!, tenían sentido. Había, eso sí, pequeños errores que subsanar. Los acentos y algunas letras marcaban pequeñas modificaciones en la traducción y las letras románicas señalaban la separación de palabras.
-
 
 Muy señora mía y articulista de El País: esa técnica para resolver lo que Vd. denomina _uno de los grandes retos de la criptografía_ viene ya descrita en una de mis lecturas juveniles, [Los Bailarines](http://es.wikipedia.org/wiki/Los_bailarines), un breve relato de las aventuras de Sherlock Holmes en el que el detective encuentra el significado oculto de mensajes con este aspecto:
 
-[![](/img/2011/11/Dancing_men.png#center)
-](/img/2011/11/Dancing_men.png#center)
+![](/img/2011/11/Dancing_men.png#center)
 
 ¿No tienen a nadie en su redacción que escriba de matemáticas con más criterio? ¿No merecemos quienes hemos pagado dos euros largos por su edición dominical más respeto?

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cursos
 date: 2014-05-20 07:42:50+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:44.452683'
 related:
 - 2014-04-08-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa.md
@@ -17,8 +17,7 @@ tags:
 - r
 - seio
 - taller
-title: V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación
-  Operativa
+title: V Jornadas de la Enseñanza y Aprendizaje de la Estadística y la Investigación Operativa
 url: /2014/05/20/v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2/
 ---
 

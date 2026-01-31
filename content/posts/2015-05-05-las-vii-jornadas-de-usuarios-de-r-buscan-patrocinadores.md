@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-05-05 08:13:16+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:03:58.655468'
 related:
 - 2011-04-04-anuncio-de-las-iii-jornadas-de-usuarios-de-r.md

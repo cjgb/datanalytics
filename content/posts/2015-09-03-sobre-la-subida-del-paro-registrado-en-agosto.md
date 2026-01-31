@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2015-09-03 08:13:15+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:05:09.221832'
 related:
 - 2014-07-17-facetas-para-entender-tal-vez-la-evolucion-del-paro.md

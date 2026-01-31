@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2018-03-05 08:13:08+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:46:26.100410'
 related:
 - 2018-09-20-x-jornadas-de-usuarios-de-r-abiertas-las-inscripciones.md

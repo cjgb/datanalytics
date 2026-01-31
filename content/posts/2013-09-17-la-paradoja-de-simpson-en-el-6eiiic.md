@@ -4,7 +4,7 @@ categories:
 - cursos
 - estadística
 date: 2013-09-17 07:07:26+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:13.927458'
 related:
 - 2018-09-04-podria-ser-simpson-pero-a-lo-mejor-es-otra-cosita.md

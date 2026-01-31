@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-07-18 08:13:40+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:05:15.497131'
 related:
 - 2017-05-02-curso-de-introduccion-a-r-en-gijon.md

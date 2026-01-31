@@ -5,7 +5,7 @@ categories:
 - charlas
 - estadística
 date: 2018-11-28 08:13:17+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:09:44.681445'
 related:
 - 2018-01-26-charla-las-metrias-en-la-practica-de-la-ciencia-de-datos-el-papel-de-la-teoria.md

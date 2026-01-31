@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2013-12-02 07:18:55+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:07:41.499458'
 related:
 - 2015-11-09-requisitos-para-mi-taller-en-el-i-international-workshop-on-advances-in-functional-data-analysis.md

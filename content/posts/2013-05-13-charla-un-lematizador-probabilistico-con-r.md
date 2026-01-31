@@ -5,7 +5,7 @@ categories:
 - r
 - charlas
 date: 2013-05-13 07:18:08+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:08:31.501986'
 related:
 - 2013-05-23-diapositivas-de-mi-charla-sobre-un-lematizador-desambiguado-con-r.md

@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-12-01 06:48:37+00:00
-draft: false
 lastmod: '2025-04-06T18:59:05.454133'
+noindex: true
 related:
 - 2012-10-29-liberado-biostatfloss-una-coleccion-de-recursos-libres-para-la-bioestadistica-y-la-epidemiologia.md
 - 2013-11-20-rpython-ya-en-windows.md

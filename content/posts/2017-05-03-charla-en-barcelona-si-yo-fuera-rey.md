@@ -4,7 +4,7 @@ categories:
 - anuncio
 - charlas
 date: 2017-05-03 08:13:51+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:07:48.604232'
 related:
 - 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md

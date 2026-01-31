@@ -4,7 +4,7 @@ categories:
 - anuncio
 - cursos
 date: 2016-09-29 08:13:32+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:49:40.660703'
 related:
 - 2015-03-19-un-curso-de-redes-sociales-con-r.md

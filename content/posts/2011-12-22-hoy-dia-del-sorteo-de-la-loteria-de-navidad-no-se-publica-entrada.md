@@ -4,8 +4,8 @@ categories:
 - estadística
 - números
 date: 2011-12-22 07:00:50+00:00
-draft: false
 lastmod: '2025-04-06T18:54:46.206681'
+noindex: true
 related:
 - 2017-12-22-lo-racional-que-jueguen-a-la-loteria-los-demas.md
 - 2014-03-28-predictores-con-varianza-casi-nula-inflacion-loterias-y-linea-de-comandos.md
@@ -21,5 +21,4 @@ url: /2011/12/22/hoy-dia-del-sorteo-de-la-loteria-de-navidad-no-se-publica-entra
 
 Hoy, día del sorteo de la Lotería de Navidad, no se publica entrada en esta bitácora como acto de protesta y repulsa frente a la celebración folclórica del anumerismo.
 
-[![](/img/2011/12/gordo-sanildefonso.jpg)
-](/img/2011/12/gordo-sanildefonso.jpg)
+![](/img/2011/12/gordo-sanildefonso.jpg)

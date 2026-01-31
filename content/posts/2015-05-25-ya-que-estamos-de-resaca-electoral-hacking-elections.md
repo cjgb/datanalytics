@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-05-25 08:13:06+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:05:53.819217'
 related:
 - 2018-11-08-siguen-votando-igual-los-diputados.md

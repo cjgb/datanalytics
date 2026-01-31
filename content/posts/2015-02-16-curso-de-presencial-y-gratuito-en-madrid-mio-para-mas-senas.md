@@ -5,7 +5,7 @@ categories:
 - anuncio
 - r
 date: 2015-02-16 08:13:36+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:53:40.619097'
 related:
 - 2015-03-25-pues-si-un-curso-de-redes-sociales-con-r.md

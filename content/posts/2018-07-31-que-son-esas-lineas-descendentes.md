@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2018-07-31 08:13:55+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:44:59.602294'
 related:
 - 2016-06-23-unos-lo-creen-mucho-otros-poco-pero-nadie-sabe-cuanto.md

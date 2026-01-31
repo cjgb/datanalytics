@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-08-12 20:35:29+00:00
-draft: false
 lastmod: '2025-04-06T18:48:09.243909'
+noindex: true
 related:
 - 2010-08-22-mas-sobre-el-caso-wps-vs-sas.md
 - 2010-09-07-mas-sobre-migraciones-de-sas-a-wps.md
@@ -28,7 +28,6 @@ Alguien puede pensar que se trata de un robo de propiedad intelectual. El hecho 
 La base de la demanda de SAS consistió en que WPS había utilizado una licencia de SAS (una versión para estudiantes) para copiar el funcionamiento del producto. Y el EULA de tal licencia parece restringir tal tipo de usos.
 
 No obstante, la justicia le ha dado la razón finalmente a WPS. Los detalles de la sentencia son prolijos (véase para [una discusión](http://analisisydecision.es/david-gana-a-goliat-la-sentencia-del-caso-sas-frente-a-wps/) o [su texto completo](http://www.bailii.org/ew/cases/EWHC/Ch/2010/1829.html )) y se resumen en lo siguiente:
-
 
 1. La legislación europea permite copiar el funcionamiento (aunque no el código) de un programa.
 2. Las restricciones del EULA de SAS son nulas de derecho: la compañía que vende un producto no puede restringir arbitrariamente el uso que luego se haga de él. Por ejemplo, Renault no te puede vender un coche y prohibirte que con él viajes a Portugal; o Pascual leche pero bajo la condición de que no se la des a tu perro.

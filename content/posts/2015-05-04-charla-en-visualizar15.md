@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-05-04 08:13:50+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:48:26.653440'
 related:
 - 2015-03-04-adaequatio-rei-et-analysis.md

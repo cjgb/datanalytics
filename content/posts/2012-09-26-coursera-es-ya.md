@@ -4,6 +4,7 @@ categories:
 - varios
 date: 2012-09-26 07:59:26+00:00
 lastmod: '2025-04-06T18:47:13.690802'
+noindex: true
 related:
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
@@ -22,7 +23,6 @@ Estoy tomando un [curso en coursera.org](https://class.coursera.org/compfinance-
 
 [![](/img/2012/09/coursera.jpg)
 ](/img/2012/09/coursera.jpg)
-
 
 Y lo que no dejo de preguntarme es el motivo por el que no existe _coursera.es_, es decir, una plataforma para impartir cursos gratuitos de nivel universitario en la que se den cita nuestros profesores con alumnos de toda España, de todo el mundo. De hecho, amenazo con considerar muy seriamente si  volverme emigrante o, incluso, independentista, si se nos adelantan _coursera.mx_ o _coursera.ar_. ¿Qué hacen esos responsables de nuestra educación y nuestra cultura aparte de llenarse la boca sobre el papel y la presencia del español en la red, el impacto del español en el PIB nacional, etc.?
 

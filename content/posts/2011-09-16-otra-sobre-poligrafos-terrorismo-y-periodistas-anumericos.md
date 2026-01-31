@@ -5,7 +5,6 @@ categories:
 - números
 - r
 date: 2011-09-16 07:23:33+00:00
-draft: false
 lastmod: '2025-04-06T18:49:39.241554'
 related:
 - 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md

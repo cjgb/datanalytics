@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - programación
 date: 2012-12-05 07:49:27+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:06:28.927581'
 related:
 - 2012-07-18-conferencia-sobre-grandes-datos.md

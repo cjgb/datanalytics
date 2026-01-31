@@ -4,7 +4,7 @@ categories:
 - anuncio
 - cursos
 date: 2018-05-09 08:13:44+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:54:29.084403'
 related:
 - 2016-04-05-nos-vemos-en-el-machine-learning-spain-xii.md

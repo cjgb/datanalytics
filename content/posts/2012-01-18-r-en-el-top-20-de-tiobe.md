@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-01-18 16:40:33+00:00
-draft: false
 lastmod: '2025-04-06T19:05:35.353659'
+noindex: true
 related:
 - 2010-10-27-c2bfsiete-lenguajes-de-programacion-emergentes.md
 - 2014-05-14-y-sin-embargo-te-quiero.md

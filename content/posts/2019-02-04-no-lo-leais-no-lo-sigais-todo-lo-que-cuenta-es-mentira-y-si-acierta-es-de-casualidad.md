@@ -4,7 +4,7 @@ categories:
 - anuncio
 - estadística
 date: 2019-02-04 08:13:23+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:53:35.261104'
 related:
 - 2019-10-24-tienes-un-sistema-predictivo-guay-vale-pero-dame-los-dos-numeros.md

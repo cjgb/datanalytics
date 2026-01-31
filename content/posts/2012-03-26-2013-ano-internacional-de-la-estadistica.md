@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2012-03-26 08:00:32+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:01:33.795711'
 related:
 - 2010-10-19-c2a1feliz-dia-de-la-estadistica.md

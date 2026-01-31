@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2015-02-10 07:13:59+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:07:26.368708'
 related:
 - 2014-01-21-cambios-cambios-cambios.md

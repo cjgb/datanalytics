@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2018-02-12 08:13:46+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:05:40.699502'
 related:
 - 2014-05-05-las-vi-jornadas-de-usuarios-de-r-en-santiago.md

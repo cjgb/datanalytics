@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2013-05-29 07:36:12+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:50:52.274068'
 related:
 - 2012-01-20-disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-prado.md

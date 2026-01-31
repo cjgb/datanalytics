@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 - estadística
 date: 2012-11-22 07:06:40+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:00:37.588445'
 related:
 - 2014-03-17-sobre-el-articulo-de-domingos.md

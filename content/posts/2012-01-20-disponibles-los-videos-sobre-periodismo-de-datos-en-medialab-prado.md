@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2012-01-20 06:57:13+00:00
-draft: false
 lastmod: '2025-04-06T18:55:01.182558'
+noindex: true
 related:
 - 2011-12-30-captura-de-datos-medialab-prado-y-needlebase.md
 - 2013-05-29-video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos.md
@@ -22,8 +22,7 @@ url: /2012/01/20/disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-pr
 
 Informaba el otro día en estas páginas sobre la [formación en captura de datos](https://datanalytics.com/2011/12/30/captura-de-datos-medialab-prado-y-needlebase/) que hubo, dentro del ciclo charlas sobre de periodismo de datos, en MediaLab Prado.
 
-[![](/img/2012/01/captura_medialab_prado.jpg)
-](/img/2012/01/captura_medialab_prado.jpg)
+![](/img/2012/01/captura_medialab_prado.jpg)
 
 Al final, una de esas imprevisibles circunstancias de última hora me impidió asistir.
 

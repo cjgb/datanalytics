@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-03-20 08:11:56+00:00
-draft: false
 lastmod: '2025-04-06T18:52:02.004236'
+noindex: true
 related:
 - 2012-10-19-reunion-del-grupo-de-usuarios-de-r-de-madrid.md
 - 2012-04-24-segunda-reunion-de-usuarios-de-r-de-madrid-recordatorio.md

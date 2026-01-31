@@ -5,7 +5,7 @@ categories:
 - charlas
 - r
 date: 2018-09-20 08:13:37+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:05:06.981056'
 related:
 - 2018-03-05-las-x-jornadas-de-usuarios-de-r-noviembre-de-2018-en-murcia.md

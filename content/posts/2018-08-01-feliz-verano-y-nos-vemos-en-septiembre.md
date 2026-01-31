@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2018-08-01 08:13:41+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:00:09.380378'
 related:
 - 2018-09-17-el-anomalo-verano-de-2018.md

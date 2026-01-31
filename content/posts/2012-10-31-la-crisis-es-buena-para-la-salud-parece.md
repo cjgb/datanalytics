@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2012-10-31 07:59:54+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:43.786399'
 related:
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md

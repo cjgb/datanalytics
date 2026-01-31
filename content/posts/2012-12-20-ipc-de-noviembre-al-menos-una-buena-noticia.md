@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2012-12-20 06:56:52+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:46:56.821334'
 related:
 - 2012-07-30-no-es-pais-para-estadisticos.md

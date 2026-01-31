@@ -62,8 +62,6 @@ Ahora, ¿cómo se ha llegado a tales cifras? Para solaz de los estadísticos que
 
 Antes un inciso: para calcular pérdidas crediticias, es uso tradicional calcular por separado tres magnitudes distintas:
 
-
-
 * **PD** o probabilidad de incumplimiento (_default_): la probabilidad de que un determinado préstamo deje de pagarse. Por extensión y aplicación implícita de la ley de los grandes números, el porcentaje de incumplimiento de una cartera.
 * **EAD,** o exposición en el momento del incumplimiento: el saldo vivo del préstamo en la fecha en que se produce el impago.
 * **LGD**, o porcentaje del EAD que se efectivamente se pierde en un impago (dado que es posible que el banco recupere otro porcentaje _ejecutando una garantía_).
@@ -73,26 +71,13 @@ Como de las tres siempre me ha gustado más el cálculo de la PD, cuento cómo l
 * Para cada banco y cada sector económico, ha considerado la variable $P_t$ y los indicadores $x_{it}$. Estos indicadores son los que definen los distintos escenarios descritos más arriba: la tasa de paro, etc.
 * Ha creado las variables derivadas
 
-
-
 $Y_t = \log P_t - \log P_{t-1}$ y
 $X_{it} = x_{it} / x_{it-1} - 1$
 
 
-
-
-
-
 * Han considerado la familia de regresiones (una para cada indicador $i$ y tras normalizar la variable objetivo $Y$)
 
-
-
 $\frac{Y_t - \mu}{\sigma} \sim X_{it}$,
-
-
-
-
-
 
 * Han seleccionado de todas ellas la _mejor_, supongo que teniendo en cuenta la $R^2$.
 

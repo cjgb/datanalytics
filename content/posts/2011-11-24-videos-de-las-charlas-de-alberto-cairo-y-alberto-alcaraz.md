@@ -4,8 +4,8 @@ categories:
 - gráficos
 - números
 date: 2011-11-24 06:59:24+00:00
-draft: false
 lastmod: '2025-04-06T19:07:18.861025'
+noindex: true
 related:
 - 2011-11-22-grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid.md
 - 2012-09-12-el-arte-funcional-una-revision-personal.md

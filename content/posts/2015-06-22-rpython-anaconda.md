@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-06-22 08:13:28+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:45.898218'
 related:
 - 2019-06-06-mi-infraestructura-para-python.md

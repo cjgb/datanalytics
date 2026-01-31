@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - charlas
 date: 2017-09-25 08:13:47+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:46:31.435913'
 related:
 - 2017-09-27-estadistica-ciencia-de-datos-y-la-revalorizacion-del-no.md

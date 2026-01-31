@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-04-14 09:13:35+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:50:56.916061'
 related:
 - 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md

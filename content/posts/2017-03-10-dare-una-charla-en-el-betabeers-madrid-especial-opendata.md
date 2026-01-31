@@ -4,7 +4,7 @@ categories:
 - anuncio
 - charlas
 date: 2017-03-10 08:13:13+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:53:04.564246'
 related:
 - 2017-03-17-disponibles-las-diapositivas-de-mi-charla-en-el-el-betabeers-madrid-especial-opendata.md

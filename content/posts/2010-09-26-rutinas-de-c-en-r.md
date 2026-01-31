@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-09-26 23:13:39+00:00
-draft: false
 lastmod: '2025-04-06T18:58:58.371810'
+noindex: true
 related:
 - 2010-10-22-tutorial-instalacion-de-la-extension-de-r-para-rapidminer.md
 - 2011-05-18-solipsismo-comunidad-y-rendimiento.md
@@ -28,7 +28,6 @@ Y, tras el preámbulo, hago comenzar la sustancia de la entrada:
 
 Esta documento explica cómo incorporar código compilado escrito C dentro de un programa interpretado de R. Una de las maneras de hacerlo, la que se explorará aquí, es invocando una DLL escrita en C. Consta de los siguientes apartados:
 
-
 1. ¿Qué es R?
 2. ¿Para qué utilizar código compilado?
 3. ¿Qué es una DLL?
@@ -37,16 +36,11 @@ Esta documento explica cómo incorporar código compilado escrito C dentro de un
 6. Un ejemplo.
 7. ¿Existen otros procedimientos para incorporar código compilado a R?
 
-
-
 ### ¿Qué es R?
-
 
 [R](http://www.r-project.org) es un lenguaje de programación específicamente concebido para aplicaciones estadísticas que viene acompañado de un conjunto de potentes herramientas gráficas, pudiendo rivalizar con [SAS](http://www.sas.com) o [SPSS](http://www.spss.com) en gran número de aplicaciones. R es poderoso y flexible, suficiente, tal cual, para la mayor parte de problemas estadísticos habituales. Además, [R puede ser descargado gratuitamente aquí](http://www.r-project.org).
 
-
 ### ¿Para qué utilizar código compilado?
-
 
 Es posible implementar en pocas líneas de R programas que en C involucrarían algunos cientos de ellas. Además, los programas escritos en R reflejan de una manera más clara los algoritmos estadísticos que implementan, a diferencia de C, que tiende a desdibujarlos. Y es infinitamente más fácil de depurar por ser un lenguaje interpretado. Pero, a la vez, adolece de los problemas típicos de este tipo de lenguajes: es bastante ineficiente -desesperadamente, en ocasiones- para resolver problemas que exigen un alto coste computacional.
 
@@ -54,9 +48,7 @@ Un programador de R curtido conoce los mecanismos que ofrece R -bastante numeros
 
 Una de las posibilidades que contempla R es la de utilizar funciones contenidas en una DLL escrita en C y, precisamente, el objeto de esta página es explicar cómo construir la DLL y cómo crear la interfaz adecuado entre ella y R en un entorno Windows.
 
-
 ### ¿Qué es una DLL?
-
 
 Una [DLL](http://es.wikipedia.org/wiki/DLL) es, en traducción literal del acrónimo, una biblioteca -librería, dicen algunos- de enlace dinámico. Una DLL contiene -de hecho, consiste en- cierto número de funciones compiladas que no se ejecutan autónomamente -por ejemplo, al pinchar sobre ellas con el ratón- sino que son invocadas por otros programas. Dentro de un fichero ejecutable -con extensión exe, por ejemplo- hay muchas funciones compiladas que pueden ser invocadas por el programa en cuestión. Pero un programa también puede invocar funciones compiladas contenidas en un fichero externo. Este fichero externo es una DLL.
 
@@ -66,9 +58,7 @@ Gracias a las DLLs, por lo tanto, los ficheros ejecutables pueden ser más peque
 
 Finalmente, como se verá más adelante, R brinda la posibilidad al usuario de crear e incorporar sus propias DLLs, cargarlas y descargarlas a voluntad y acceder a las funciones que contienen mediante un conjunto específico de funciones.
 
-
 ### ¿Cómo se crea una DLL?
-
 
 Todos los compiladores para Windows, que el autor conozca, incorporan la posibilidad de crear DLLs. Los detalles varían de unos a otros y considerarlos en su conjunto entrañaría algunas dificultades técnicas que este breve manual quiere obviar. Por eso se concentrará únicamente en el compilador para C -entre otros- de [GNU](http://www.gnu.org) para Windows, [MinGW, que puede descargarse gratuitamente aquí](http://www.mingw.org/).
 
@@ -81,9 +71,7 @@ gcc -shared -o funciones.dll funciones.c
 
 Por supuesto, tanto gcc, contenido en el directorio bin de donde quiera que se haya instalado MinGW, como el fichero funciones.c, han de estar visibles, es decir, o en el directorio en el que se ha tecleado el comando o dentro del path. Estaría de más indicar que gcc admite comandos adicionales que pueden ser de interés en determinadas circunstancias. El anterior es, se reitera, un comando mínimo: la opción -shared especifica que se está creando una DLL y -o indica que lo que le sigue, esto es, funciones.dll, es el nombre que se le ha querido dar.
 
-
 ### ¿Cómo se invoca una DLL?
-
 
 Supóngase que se ha creado funciones.dll de acuerdo con el procedimiento anterior. Para poder acceder a las funciones que contiene, R tiene, en primera instancia, que cargar la DLL. Esto se consigue mediante la función dyn.load(). Suponiendo que funciones.dll está contenida en el directorio C:/MisDLLs, basta teclear
 
@@ -106,7 +94,6 @@ is.loaded("func1")
 que debería ser TRUE de haberse seguido los pasos anteriores. Si funciones.dll ha sido compilada con un compilador distinto de MinGW, es bastante posible que is.loaded("func1") resulte ser FALSE porque muchos de ellos tienden a _decorar_ el nombre de las funciones de las DLLs de una manera un tanto impredecible, de modo que func1 acaba llamándose _func1, _func1@4 o ?func1@@YDAOEW3N12KDAS.
 
 R no posee ningún comando capaz de enumerar las funciones accesibles dentro de una DLL. Finalmente, para invocar la función func1 de funciones.dll, R utiliza la función .C -nombre que subraya el hecho de que solo es válida para funciones escritas en C-, que implementa el interfaz requerido entre R y la DLL. Dicho interfaz determina, por una parte, la sintaxis de la función .C e impone ciertas restricciones en la naturaleza de las funciones de la DLL. Los aspectos fundamentales a tener en cuenta son:
-
 
 * Cómo invoca .C a la función y cómo le transfiere datos.
 * En particular, cómo asegura .C la compatibilidad del tipo de los datos transferidos.

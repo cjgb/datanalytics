@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2016-11-09 08:13:41+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:58:15.691445'
 related:
 - 2017-03-10-dare-una-charla-en-el-betabeers-madrid-especial-opendata.md

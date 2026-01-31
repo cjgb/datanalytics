@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2019-07-24 09:13:44+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:05:42.197755'
 related:
 - 2018-03-05-las-x-jornadas-de-usuarios-de-r-noviembre-de-2018-en-murcia.md

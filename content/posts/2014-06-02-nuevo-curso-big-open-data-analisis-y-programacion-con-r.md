@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2014-06-02 07:30:28+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:55:26.162420'
 related:
 - 2014-05-20-v-jornadas-de-la-ensenanza-y-aprendizaje-de-la-estadistica-y-la-investigacion-operativa-2.md

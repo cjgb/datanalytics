@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2016-10-07 08:13:41+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:51:59.168415'
 related:
 - 2016-02-25-las-viii-jornadas-de-usuarios-de-r-en-albacete.md

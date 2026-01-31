@@ -6,6 +6,7 @@ categories:
 - charlas
 date: 2010-09-05 22:34:22+00:00
 lastmod: '2025-04-06T18:48:48.324607'
+noindex: true
 related:
 - 2014-11-05-disponibles-los-videos-y-presentaciones-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2016-02-12-diapositivas-y-codigo-fuente-de-mi-charla-sobre-rstan.md

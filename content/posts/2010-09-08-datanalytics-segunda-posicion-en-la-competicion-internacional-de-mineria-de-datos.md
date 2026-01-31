@@ -4,6 +4,7 @@ categories:
 - ciencia de datos
 date: 2010-09-08 19:54:09+00:00
 lastmod: '2025-04-06T18:57:05.598492'
+noindex: true
 related:
 - 2010-12-29-noticia-de-las-ii-jornadas-de-usuarios-de-r.md
 - 2011-01-27-nueva-competicion-de-mineria-de-datos-reconocimiento-de-instrumentos-musicales.md

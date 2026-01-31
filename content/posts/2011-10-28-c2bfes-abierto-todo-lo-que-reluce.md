@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-10-28 07:08:10+00:00
-draft: false
 lastmod: '2025-04-06T19:00:00.340118'
+noindex: true
 related:
 - 2011-11-04-c2bfes-abierto-todo-lo-que-reluce-resultados.md
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md

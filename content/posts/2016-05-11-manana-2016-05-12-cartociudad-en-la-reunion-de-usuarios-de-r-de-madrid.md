@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-05-11 08:13:25+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:59:46.822623'
 related:
 - 2016-03-31-cartociudad.md

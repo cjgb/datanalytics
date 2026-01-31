@@ -4,6 +4,7 @@ categories:
 - números
 date: 2010-09-23 22:05:13+00:00
 lastmod: '2025-04-06T18:58:56.912079'
+noindex: true
 related:
 - 2011-06-17-grandes-numeros.md
 - 2010-07-04-exagerados.md

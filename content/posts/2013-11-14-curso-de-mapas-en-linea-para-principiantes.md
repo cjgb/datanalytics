@@ -4,7 +4,7 @@ categories:
 - gráficos
 - anuncio
 date: 2013-11-14 11:43:43+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:08:33.638586'
 related:
 - 2016-05-11-manana-2016-05-12-cartociudad-en-la-reunion-de-usuarios-de-r-de-madrid.md

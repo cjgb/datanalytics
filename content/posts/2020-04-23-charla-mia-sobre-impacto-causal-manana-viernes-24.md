@@ -4,7 +4,7 @@ categories:
 - anuncio
 - charlas
 date: 2020-04-23 09:13:00+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:56:26.999800'
 related:
 - 2015-09-22-manana-participo-en-el-viii-machine-learning-spain.md

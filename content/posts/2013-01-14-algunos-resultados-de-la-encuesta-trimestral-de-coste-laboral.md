@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2013-01-14 07:57:32+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:58:11.931590'
 related:
 - 2019-03-21-encuesta-de-estructura-salarial-y-r-propedeutica.md

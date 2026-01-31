@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-02-13 17:58:56+00:00
-draft: false
 lastmod: '2025-04-06T18:58:38.723754'
+noindex: true
 related:
 - 2011-11-22-grupo-de-trabajo-sobre-periodismo-de-datos-en-madrid.md
 - 2012-03-22-primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii.md
@@ -21,9 +21,8 @@ url: /2012/02/13/r-y-alrededores-en-medialab-prado/
 
 Con retraso —del que mis vacaciones en tierras australes tienen la culpa— doy noticia de la charla que dio Carlos Ortega, antiguo colaborador de esta bitácora, en MediaLab Prado, dentro del [ciclo de periodismo de datos](http://medialab-prado.es/article/sesion_formativa_periodismodatos_analisis_tratamiento_datos).
 
-[![](/img/2012/02/presentacion_carlos_ortega.png#center)
-](/img/2012/02/presentacion_carlos_ortega.png#center)
+![](/img/2012/02/presentacion_carlos_ortega.png#center)
 
-La [presentación ](http://prezi.com/-3jqhcpmyqpq/r-y-alrededores/)que hizo y su [vídeo ](http://medialab-prado.es/article/r_y_larededores)pueden consultarse en línea.
+La [presentación ](http://prezi.com/-3jqhcpmyqpq/r-y-alrededores/)que hizo y su [vídeo](http://medialab-prado.es/article/r_y_larededores) pueden consultarse en línea.
 
 Quiero también subrayar y dejar constancia para los futuros historiadores de la cosa que esta ha sido la primera actividad pública promovida por la recientemente constituida Comunidad de Usuarios de R (que tengo, como es probable que sepan ya mis lectores, el honor de presidir).

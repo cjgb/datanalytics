@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2013-07-24 07:01:54+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:54:17.691634'
 related:
 - 2013-08-14-tres-grandes-numeros-con-enmienda.md

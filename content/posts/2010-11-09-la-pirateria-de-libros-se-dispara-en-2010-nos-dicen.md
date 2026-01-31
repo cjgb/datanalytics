@@ -4,6 +4,7 @@ categories:
 - números
 date: 2010-11-09 10:13:31+00:00
 lastmod: '2025-04-06T18:53:42.724854'
+noindex: true
 related:
 - 2011-01-25-c2bfacaban-las-descargas-ilegales-con-la-cultura.md
 - 2011-01-11-pib-economia-sumergida-ley-sinde-y-como-ser-menos-pobre-sin-trabajar.md

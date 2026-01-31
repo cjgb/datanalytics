@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2015-04-01 08:13:55+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:09:55.175462'
 related:
 - 2015-01-29-hackaton-de-datos-abiertos-21-de-febrero-en-madrid.md

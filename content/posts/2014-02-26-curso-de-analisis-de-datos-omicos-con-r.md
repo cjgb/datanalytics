@@ -5,7 +5,7 @@ categories:
 - anuncio
 - cursos
 date: 2014-02-26 07:37:40+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:03:33.885085'
 related:
 - 2015-10-05-programa-profesional-de-iniciacion-a-r-ii.md

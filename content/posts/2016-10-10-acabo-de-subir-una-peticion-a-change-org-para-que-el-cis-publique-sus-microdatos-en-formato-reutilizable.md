@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2016-10-10 08:13:32+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:50:29.568636'
 related:
 - 2016-10-05-barometros-del-cis-con-r.md

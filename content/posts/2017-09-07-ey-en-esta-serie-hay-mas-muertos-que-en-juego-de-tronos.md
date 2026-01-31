@@ -24,7 +24,6 @@ La serie en cuestión es esta (abridla en otra pestaña para verla en la plenitu
 
 ![](/img/2017/09/defunciones_historicas.png#center)
 
-
 Con tiene _todas_ (explicar por qué no son todas sería complicado, pero se puede dar el cuantificador casi por bueno) las defunciones (diarias) en España desde la fecha indicada.
 
 Los datos brutos están en la figura superior. Las tres siguientes tienen la descomposición estacional, la tendencia y los residuos tal como los estima `stl`.

@@ -4,6 +4,7 @@ categories:
 - varios
 date: 2010-03-20 16:00:32+00:00
 lastmod: '2025-04-06T18:57:37.446193'
+noindex: true
 related:
 - 2010-08-12-c2bfya-has-considerado-pasarte-a-wps.md
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md

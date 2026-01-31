@@ -5,7 +5,7 @@ categories:
 - gráficos
 - r
 date: 2015-04-06 08:13:44+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:02:30.227895'
 related:
 - 2015-03-25-pues-si-un-curso-de-redes-sociales-con-r.md

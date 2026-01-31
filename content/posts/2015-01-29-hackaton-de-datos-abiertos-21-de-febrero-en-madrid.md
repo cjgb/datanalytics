@@ -4,7 +4,7 @@ categories:
 - cursos
 - gráficos
 date: 2015-01-29 07:13:15+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:09:27.945923'
 related:
 - 2011-11-23-el-3-de-diciembre-open-data-hackathon.md

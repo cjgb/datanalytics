@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-08-22 07:44:56+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:52:08.724951'
 related:
 - 2013-04-01-rpython-ya-esta-en-cran.md

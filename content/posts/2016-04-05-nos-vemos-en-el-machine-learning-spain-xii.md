@@ -4,7 +4,7 @@ categories:
 - anuncio
 - r
 date: 2016-04-05 09:13:58+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:02:13.572750'
 related:
 - 2016-04-14-diapositivas-de-mi-charla-datos-modelos-y-parametros.md

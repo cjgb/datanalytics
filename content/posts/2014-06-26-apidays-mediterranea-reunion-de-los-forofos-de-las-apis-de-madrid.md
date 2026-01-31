@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2014-06-26 07:00:22+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:48.726379'
 related:
 - 2013-05-24-apidays-mediterranea-la-semana-que-viene.md

@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2011-10-31 07:36:40+00:00
-draft: false
 lastmod: '2025-04-06T18:50:49.625684'
+noindex: true
 related:
 - 2015-06-11-cuanta-gente-ha-habido-sobre-la-faz-de-la-tierra.md
 - 2010-06-08-20-10-2010-dia-mundial-de-la-estadistica-y-terremotos.md

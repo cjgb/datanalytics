@@ -4,7 +4,7 @@ categories:
 - estadística
 - r
 date: 2012-11-19 07:38:58+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:12:33.682226'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md

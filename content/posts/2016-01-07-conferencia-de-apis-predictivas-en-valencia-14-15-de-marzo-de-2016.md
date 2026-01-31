@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2016-01-07 08:13:16+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:03:27.207081'
 related:
 - 2015-04-30-apidays-mediterranea-vuelve-a-barcelona-la-semana-que-viene.md

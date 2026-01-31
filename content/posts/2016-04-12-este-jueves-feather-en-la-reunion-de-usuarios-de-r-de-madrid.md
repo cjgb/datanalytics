@@ -4,7 +4,7 @@ categories:
 - anuncio
 - r
 date: 2016-04-12 09:13:01+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:02:04.423672'
 related:
 - 2016-04-19-diapositivas-de-mi-charla-sobre-feather.md

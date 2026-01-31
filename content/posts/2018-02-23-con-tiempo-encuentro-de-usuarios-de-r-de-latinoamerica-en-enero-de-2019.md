@@ -4,7 +4,7 @@ categories:
 - anuncio
 - r
 date: 2018-02-23 08:13:39+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:49:37.858744'
 related:
 - 2019-07-24-xi-jornadas-de-usuarios-de-r.md

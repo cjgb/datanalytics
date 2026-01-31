@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2012-05-16 07:18:05+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:58:05.906400'
 related:
 - 2012-03-26-2013-ano-internacional-de-la-estadistica.md

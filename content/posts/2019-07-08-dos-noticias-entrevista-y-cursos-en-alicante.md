@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2019-07-08 09:13:50+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:29.360493'
 related:
 - 2019-05-16-charlas-en-alicante-julio-de-2019.md

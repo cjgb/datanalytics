@@ -4,7 +4,7 @@ categories:
 - anuncio
 - r
 date: 2015-04-13 08:13:12+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:49:15.671018'
 related:
 - 2012-07-19-las-iv-jornadas-de-usuarios-de-r-estan-aqui.md

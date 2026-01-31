@@ -4,6 +4,7 @@ categories:
 - r
 date: 2010-07-13 22:18:03+00:00
 lastmod: '2025-04-06T18:45:55.912764'
+noindex: true
 related:
 - 2011-05-24-se-buscan-alpha-testers-para-rpython.md
 - 2013-04-01-rpython-ya-esta-en-cran.md
@@ -41,31 +42,29 @@ rJython$exec("def concat(a,b): return a+b")
 jython.call(rJython, "concat", a, b)
 {{< / highlight >}}
 
-
-**Arquitectura: Jython y rJava**
+## Arquitectura: Jython y rJava
 
 El paquete no está basado en el habitual [Cpython](http://en.wikipedia.org/wiki/CPython) sino en [Jython](http://en.wikipedia.org/wiki/Jython), un intérprete de Python desarrollado en Java. El motivo es doble:
 
-
-* La integración de R y Java está bastante madura gracias al paquete [rJava](http://www.rforge.net/rJava/).
-* Es difícil detectar de una manera robusta y _multiplataforma_ el intérprete de Python.
+- La integración de R y Java está bastante madura gracias al paquete [rJava](http://www.rforge.net/rJava/).
+- Es difícil detectar de una manera robusta y _multiplataforma_ el intérprete de Python.
 
 El paquete se distribuye con la versión 2.5.1 de Jython (actualmente, la más reciente). Esto permite que pueda instalarse sin otras dependencias que rJava.
 
 Las desventajas de usar Jython en lugar de Cpython son:
 
-*Solo se pueden utilizar módulos de Python escritos enteramente en dicho lenguaje.
-* El rendimiento es menor al utilizarse una pila de lenguajes interpretados para ejecutar el código.
+- Solo se pueden utilizar módulos de Python escritos enteramente en dicho lenguaje.
+-  El rendimiento es menor al utilizarse una pila de lenguajes interpretados para ejecutar el código.
 
-**Comunicación entre R y Jython: JSON**
+## Comunicación entre R y Jython: JSON
 
 La comunicación entre R y Python se realiza serializando los objetos de cada lenguaje utilizando [JSON](http://es.wikipedia.org/wiki/JSON). El paquete [rjson](http://cran.r-project.org/web/packages/rjson/index.html) en R y [simplejson](http://code.google.com/p/simplejson/) en Python se utilizan para codificar y decodificar los objetos en sus respectivos entornos.
 
-**Excepciones**
+## Excepciones
 
 Se ha hecho cierto esfuerzo en permitir la captura en R de las excepciones que puede generar Python.
 
-**Motivación e historia**
+## Motivación e historia
 
 Se han realizado varios intentos por integrar R y Python. El más antiguo del que tengo noticia (y que creo es ya obsoleto) es [RSPython](http://www.omegahat.org/RSPython/). El módulo [RPy](http://rpy.sourceforge.net/) de Python permite llamar a R desde Python pero echaba en menos una manera de llamar a Python desde R.
 

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cursos
 date: 2016-11-18 08:13:10+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:55:48.578647'
 related:
 - 2017-02-13-diapositivas-de-antikaggle-contra-la-homeopatia-de-datos.md

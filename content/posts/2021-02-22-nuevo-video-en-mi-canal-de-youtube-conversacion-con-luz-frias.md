@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - youtube
 date: 2021-02-22 09:13:00+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:06:59.082507'
 related:
 - 2021-05-05-nuevo-video-en-youtube-charla-con-j-l-canadas.md

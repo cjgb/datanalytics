@@ -4,8 +4,8 @@ categories:
 - ciencia de datos
 - consultoría
 date: 2011-02-21 09:12:26+00:00
-draft: false
 lastmod: '2025-04-06T18:56:14.822325'
+noindex: true
 related:
 - 2011-05-10-terrorismo-sesgos-percepcion-probabilidad.md
 - 2024-10-31-efectividad-alertas.md
@@ -25,8 +25,6 @@ Incluso a los que conocemos el mercado desde dentro, la lectura de [artículos c
 No obstante, parece conveniente distinguir las promesas, tan pomposamente descritos en algunos medios, de las realidades, mucho menos _noticiables_ y que apenas se dan a conocer tímidamente en letra chiquita. Por eso, recojo hoy dos noticias recientes con la que alimentar el sano escepticismo.
 
 El primero es el del [fin del sistema](http://www.dhs.gov/files/programs/Copy_of_press_release_0046.shtm) de [códigos de alerta del departamento de interior de los EE.UU.](http://en.wikipedia.org/wiki/National_Terrorism_Advisory_System), que aspiraba a predecir la probabilidad de un ataque terrorista. La CNN, que hace lo que debe hacer un medio de comunicación, es decir, aportar contexto y análisis a lo escueto de la nota, [afirma ](http://edition.cnn.com/2011/OPINION/01/28/schneier.terror.threat.level/index.html?hpt=Sbin)(mi traducción):
-
-
 
 >Los ataques fueron más frecuentes cuando el nivel era amarillo (riesgo significativo) que cuando era naranja (riesgo alto). La única vez en que fue rojo (riesgo severo), no pasó nada. Nunca ha sido azul o verde, los niveles que indican una menor probabilidad de riesgo.
 

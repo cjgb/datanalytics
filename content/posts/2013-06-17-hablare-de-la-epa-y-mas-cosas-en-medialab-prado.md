@@ -4,7 +4,7 @@ categories:
 - estadística
 - anuncio
 date: 2013-06-17 07:47:13+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:09:40.780330'
 related:
 - 2013-06-26-video-de-la-charla-sobre-la-epa-y-mas-cosas-en-medialab-prado.md

@@ -4,6 +4,7 @@ categories:
 - estadística
 date: 2010-06-08 21:39:09+00:00
 lastmod: '2025-04-06T18:45:35.067236'
+noindex: true
 related:
 - 2010-10-19-c2a1feliz-dia-de-la-estadistica.md
 - 2010-11-06-la-estadistica-en-los-sellos-del-siglo-xx-por-cortesia-del-ine.md
@@ -20,8 +21,6 @@ El 3 de junio, la ONU declaró [Día Mundial de la Estadística](http://unstats.
 
 Y para demostrar el poco caso que le hacemos al INE, ahí va un inquietante gráfico con datos extraídos de [aquí](http://www.ine.es/jaxi/tabla.do?type=pcaxis&path=/t43/a013/a1998/l0/&file=t30013.px):
 
-
 ![](/img/2010/06/terremotos_espana_ine.png#center)
-
 
 Inquietante, ¿verdad?

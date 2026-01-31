@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2014-05-05 09:35:21+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:45:05.669204'
 related:
 - 2014-09-18-recordatorio-esta-tarde-participo-en-el-databeers-de-madrid.md

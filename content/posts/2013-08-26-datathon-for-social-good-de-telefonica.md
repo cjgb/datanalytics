@@ -5,7 +5,7 @@ categories:
 - estadística
 - anuncio
 date: 2013-08-26 07:37:15+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:06:49.492100'
 related:
 - 2014-09-08-tres-citas-para-los-amantes-del-analisis-de-datos-publicos.md

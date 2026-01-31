@@ -4,7 +4,7 @@ categories:
 - cursos
 - anuncio
 date: 2013-05-22 10:30:03+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:52:06.068087'
 related:
 - 2013-05-29-video-de-mi-charla-en-el-taller-innovadata-de-periodismo-de-datos.md

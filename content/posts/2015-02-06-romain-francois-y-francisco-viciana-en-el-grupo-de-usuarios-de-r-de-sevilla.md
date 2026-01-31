@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-02-06 07:13:17+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:01:00.034585'
 related:
 - 2014-11-18-sevilla-otro-grupo-local-de-usuarios-de-r.md
