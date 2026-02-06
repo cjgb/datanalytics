@@ -4,8 +4,8 @@ categories:
 - estadística
 - gráficos
 date: 2011-06-07 07:27:49+00:00
-draft: false
 lastmod: '2025-04-06T18:47:05.068830'
+noindex: true
 related:
 - 2011-03-29-graficos-ii-herramientas.md
 - 2011-06-10-datos-publicos-datos-dup.md
