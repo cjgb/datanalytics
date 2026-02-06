@@ -2,9 +2,8 @@
 author: Carlos J. Gil Bellosta
 categories:
 - r
-date: 2015-07-02 08:13:54+00:00
-draft: false
-lastmod: '2025-04-06T19:08:44.011474'
+date: 2015-07-02
+lastmod: '2026-02-06'
 related:
 - 2011-10-26-herramientas-de-depuracion-en-r.md
 - 2017-12-11-cuidado-con-los.md
