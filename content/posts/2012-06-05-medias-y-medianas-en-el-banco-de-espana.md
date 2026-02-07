@@ -27,7 +27,7 @@ Y los españoles patriotas de junio de 2012 leemos el [informe de estabilidad fi
 [![](/img/2012/06/graficaca_bde.png#center)
 ](/img/2012/06/graficaca_bde.png#center)
 
-un análisis _agregado_ de la situación de las entidades financieras españolas. Resalto el término _agregado_ porque da la impresión de que para el banco de España hubiesesolo una entidad. O que todas se pareciesen como gotas de agua.
+un análisis _agregado_ de la situación de las entidades financieras españolas. Resalto el término _agregado_ porque da la impresión de que para el banco de España hubiese solo una entidad. O que todas se pareciesen como gotas de agua.
 
 En efecto, estudia el informe con bastante detalle la cuenta de pérdidas y ganancias del sistema de las entidades financieras, resumido en el siguiente cuadro:
 

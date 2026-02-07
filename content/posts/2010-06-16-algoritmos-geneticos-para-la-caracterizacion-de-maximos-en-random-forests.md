@@ -61,7 +61,7 @@ rbga.results <- rbga(
     mutationChance=0.01)
 {{< / highlight >}}
 
-Sus dos primeros parámetros son vectores de longitud igual a la del número de variables que admite el modelo que indican, una a una, su rango inferior y superior de variación. Así, se fuerza a que la velocidad del vientosolo pueda tomar valores entre 0 y 20 (a saber en qué prehistóricas unidades). El parámetro evalFunc es la función que se quiere minimizar. Existen otros parámetros adicionales que no utilizo, tales como monitorFunc o verbose, que generan información sobre el proceso de detección de los mínimos.
+Sus dos primeros parámetros son vectores de longitud igual a la del número de variables que admite el modelo que indican, una a una, su rango inferior y superior de variación. Así, se fuerza a que la velocidad del viento solo pueda tomar valores entre 0 y 20 (a saber en qué prehistóricas unidades). El parámetro evalFunc es la función que se quiere minimizar. Existen otros parámetros adicionales que no utilizo, tales como monitorFunc o verbose, que generan información sobre el proceso de detección de los mínimos.
 
 Se puede ver cómo ha ido convergiendo el proceso de minimización:
 

@@ -34,7 +34,7 @@ Que enlaza con lo de los pollos la manía con los agregados. No sé mucho en la 
 
 Luego, sobre la población que acoge, ¿es homogéneo ese presunto impacto presuntamente no negativo? Parece que alguna gente sí que presta atención a esas cosas y sobre ellos ([aquí](http://nadaesgratis.es/fran-beltran/los-efectos-a-largo-plazo-de-la-inmigracion), al menos) se dice:
 
->Aunque la evidencia se va acumulando en su contra, George Borjas, quizás el economista más beligerante a la hora de resaltar los efectos negativos de la inmigración, sigue defendiendo que los procesos migratorios nosolo generan ganadores, sino también muchos perdedores ([aquí](https://www.nytimes.com/2017/02/27/opinion/the-immigration-debate-we-need.html?ref=opinion&comments&_r=0#commentsContainer)).
+>Aunque la evidencia se va acumulando en su contra, George Borjas, quizás el economista más beligerante a la hora de resaltar los efectos negativos de la inmigración, sigue defendiendo que los procesos migratorios no solo generan ganadores, sino también muchos perdedores ([aquí](https://www.nytimes.com/2017/02/27/opinion/the-immigration-debate-we-need.html?ref=opinion&comments&_r=0#commentsContainer)).
 
 Al parecer, un tal [John Wanamaker](https://en.wikipedia.org/wiki/John_Wanamaker) dijo una vez:
 

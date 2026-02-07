@@ -22,7 +22,7 @@ Quienes acudan a [Mieres la semana que viene](https://datanalytics.com/2010/10/2
 
 Voy a ilustrar el uso de una función de R que echábamos de menos los usuarios de Python: Filter. Estaba ahí, sí, pero como escondida.
 
-El ejemplo proviene de un [intercambio de correos en las listas de R](https://stat.ethz.ch/pipermail/r-help/2010-November/258901.html) acerca de un _truco estúpido_: cómo crear una función parecida a ls() que mostrasesolo los objetos de una determinada frase. Se propuso
+El ejemplo proviene de un [intercambio de correos en las listas de R](https://stat.ethz.ch/pipermail/r-help/2010-November/258901.html) acerca de un _truco estúpido_: cómo crear una función parecida a ls() que mostrase solo los objetos de una determinada frase. Se propuso
 
 
 {{< highlight R >}}

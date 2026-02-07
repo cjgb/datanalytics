@@ -72,7 +72,7 @@ produce
 
 Pas mal!
 
-Además, los parámetros resultantes están próximos a `n` veces los originales. Algo que no es enteramente evindente: la varianza de la media muestral debería ser la original dividida por `n`; pero la fórmula de la varianza de la distribución beta
+Además, los parámetros resultantes están próximos a `n` veces los originales. Algo que no es enteramente evidente: la varianza de la media muestral debería ser la original dividida por `n`; pero la fórmula de la varianza de la distribución beta
 
 $$ \frac{\alpha \beta}{(\alpha + \beta)^2 (1 + \alpha + \beta)}$$
 

@@ -22,7 +22,7 @@ url: /2012/10/09/balanzas-fiscales-y-periodismo-basado-en-datos/
 
 Dudo al escribir sobre el asunto porque el contexto del artículo que traigo a colación es ajeno al interés de esta bitácora. Pero me ha parecido un ejercicio inigualable de lo que debería ser el periodismo de datos.
 
-El título es sugerente: _[¿Cisne negro o pollo del montón? El déficit fiscal catalán en perspectiva](http://economia.elpais.com/economia/2012/10/05/actualidad/1349467455_178571.html)_. El tema del [cisne negro](https://datanalytics.com/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/) ya ya sido mencionado aquí previamente, aunque mencionarlo en este contextosolo es posible sometiendo el término a una cierta violencia léxica.
+El título es sugerente: _[¿Cisne negro o pollo del montón? El déficit fiscal catalán en perspectiva](http://economia.elpais.com/economia/2012/10/05/actualidad/1349467455_178571.html)_. El tema del [cisne negro](https://datanalytics.com/2011/07/15/nassim-taleb-y-el-problema-de-la-inferencia/) ya ya sido mencionado aquí previamente, aunque mencionarlo en este contexto solo es posible sometiendo el término a una cierta violencia léxica.
 
 El artículo en cuestión responde a otro anterior de [Germà Bel](https://datanalytics.com/2012/03/28/contrafactualidad-radial/) según el cual el déficit fiscal de Cataluña representa una singularidad impensable en ningún otro tipo de país. Responde [Ángel de la Fuente](http://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=14&lang=ing) con el siguiente gráfico:
 

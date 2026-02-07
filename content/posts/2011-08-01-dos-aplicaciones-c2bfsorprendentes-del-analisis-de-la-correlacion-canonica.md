@@ -33,6 +33,6 @@ Años después redescubrí el problema de los valores propios generalizados como
 * [Clasificar y segmentar imágenes procedentes de escáners de resonancia magnética](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.3517&rep=rep1&type=pdf)
 * [Reconstruir modelos tridimensionales de rostros a partir de fotografías](http://www.icg.tugraz.at/Members/bischof/publications/cca.pdf/)
 
-Supongo que entonces, en aquellos años del yasolo histórico fenómeno de la  masificación universitaria, era innecesario anunciar a los futuros matemáticos que consolo 18 años iban a adquirir herramientas teóricas suficientes para encarar unos problemas tan sugerentes. Quizás hoy ya no tanto.
+Supongo que entonces, en aquellos años del ya solo histórico fenómeno de la  masificación universitaria, era innecesario anunciar a los futuros matemáticos que consolo 18 años iban a adquirir herramientas teóricas suficientes para encarar unos problemas tan sugerentes. Quizás hoy ya no tanto.
 
 En cualquier caso, quedan invitados mis lectores a hojear los artículos que enlazo y ver lo lejos que se puede llegar con, de alguna manera, tan poco.

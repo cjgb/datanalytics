@@ -23,7 +23,7 @@ title: Un paseo por el paquete MicroDatosEs (y la EPA, de nuevo)
 url: /2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/
 ---
 
-En esta entrada voy a ilustrar el uso del [paquete MicroDatosEs](https://datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) que anuncié el otro día. Como indiqué entonces, de momentosolo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
+En esta entrada voy a ilustrar el uso del [paquete MicroDatosEs](https://datanalytics.com/2012/08/03/el-paquete-microdataes-para-microdatos-publicos/) que anuncié el otro día. Como indiqué entonces, de momento solo permite leer microdatos de la EPA con el formato que tiene desde el año 2005, la fecha del último cambio metodológico.
 
 Como todavía no están disponibles los del segundo trimestre del 2012, utilizaré los del primero. Para ello, hay que ir a las [páginas del INE](http://www.ine.es/prodyser/micro_epa.htm) y seleccionar el fichero correspondiente al primer trimestre de 2012 (que los impacientes pueden descargar directamente de su [enlace directo](ftp://www.ine.es/temas/epa/datos_1t12.zip)).
 

@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2016-05-26 08:13:09+00:00
-draft: false
 lastmod: '2025-04-06T18:45:36.397176'
 related:
 - 2011-02-25-1605.md
@@ -20,7 +19,7 @@ title: 'PIB y progreso: ¿mide lo que debe medir?'
 url: /2016/05/26/pib-y-progreso-mide-lo-que-debe-medir/
 ---
 
-Anoche me busqué a mí mismo en el [Registro Mercantil](http://www.registradores.org). Sudé la gota gorda y cuando me encontré, es decir, recibí una notificación de que mis registros habían sido ubicados por el buscador, me apareció una aviso: si quería proceder a ver los resultados de la búsqueda tenía que abonar 1.78 euros (creo).
+Anoche me busqué a mí mismo en el [Registro Mercantil](http://www.registradores.org). Sudé la gota gorda y cuando me encontré, es decir, recibí una notificación de que mis registros habían sido ubicados por el buscador, me apareció un aviso: si quería proceder a ver los resultados de la búsqueda tenía que abonar 1.78 euros (creo).
 
 Así que si pierdo 20 minutos de mi vida en una seudopágina que me quiere cobrar casi dos euros por información que yo le he proporcionado, el PIB español crece en 1.78 euros.
 

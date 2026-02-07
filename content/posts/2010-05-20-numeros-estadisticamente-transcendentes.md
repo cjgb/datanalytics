@@ -26,7 +26,7 @@ Así, leeremos en manuales de estadística acerca de la cota de Cramér-Rao pero
 
 Hacerse verdaderamente con las cifras, despertar en el lector atento una curiosidad crítica por su significado y valor, es el objetivo que me planteo en esta nueva serie de entradas.
 
-Y nosolo porque
+Y no solo porque
 
 > Usted puede elegir entre tener unas ciertas nociones claras de matemática o no tenerlas, pero debe saber que si no las tiene, es usted una persona mucho más manipulable que en el caso contrario.
 

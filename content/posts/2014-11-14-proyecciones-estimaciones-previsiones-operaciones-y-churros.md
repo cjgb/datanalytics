@@ -26,7 +26,7 @@ url: /2014/11/14/proyecciones-estimaciones-previsiones-operaciones-y-churros/
 
 ¡Toma ya!
 
-Yo me pregunto, entonces: ¿para qué se hace en lugar de, simplememente —y mucho más económicamente—, no hacerse? Sobre todo, habida cuenta de que [otros también la hacen y la hacen mejor](http://esa.un.org/unpd/wpp/). Compárese, por ejemplo,
+Yo me pregunto, entonces: ¿para qué se hace en lugar de, simplemente —y mucho más económicamente—, no hacerse? Sobre todo, habida cuenta de que [otros también la hacen y la hacen mejor](http://esa.un.org/unpd/wpp/). Compárese, por ejemplo,
 
 [![previsiones_fecundidad](/img/2014/11/previsiones_fecundidad.png#center)
 ](/img/2014/11/previsiones_fecundidad.png#center)

@@ -67,7 +67,7 @@ Menos de la mitad de caracteres, muy expresivo.
 
 **Condiciones de interoperabilidad**
 
-El código bueno tiene que ser interoperable. Tiene que poder ser analizado y modificado por diversos usuarios. Y muchos conocen SQL (todos si yo fuese ministro de educación) perosolo una minoría conoce la enrevesada sintaxis de un lenguaje sesentero.
+El código bueno tiene que ser interoperable. Tiene que poder ser analizado y modificado por diversos usuarios. Y muchos conocen SQL (todos si yo fuese ministro de educación) pero solo una minoría conoce la enrevesada sintaxis de un lenguaje sesentero.
 
 Además, código que utiliza SQL es más fácil de migrar a otros sistemas y entornos fuera de SAS. Quien hubo de trabajar en uno de tales proyectos sabrá muy bien a qué me refiero.
 
@@ -79,7 +79,7 @@ Una de las pegas que los programadores de SAS de la vieja escuela ponen al uso d
 * Uno de los menos eficientes (con las salvedades que apunto debajo).
 * El que usa _merge_ en SAS Base.
 
-Un _merge join_ ordena las tablas que se quieren cruzar primero y luego lee filas una a una buscando coincidencias. Es el mejor algoritmo de crucesolo cuando las tablas iniciales están ordenadas precisamente por los campos de cruce. En el resto de los casos, es el algoritmo menos recomendado.
+Un _merge join_ ordena las tablas que se quieren cruzar primero y luego lee filas una a una buscando coincidencias. Es el mejor algoritmo de cruce solo cuando las tablas iniciales están ordenadas precisamente por los campos de cruce. En el resto de los casos, es el algoritmo menos recomendado.
 
 No sé qué técnica de cruce utiliza `PROC SQL`. Pero en el peor de los casos puede optar por un _merge join_ y tener, cuando menos, el mismo rendimiento que _merge_. Si utiliza otro (o, mejor aún, si utiliza el que el optimizador considera más adecuado a la vista de los datos),solo puede ser mejor.
 

@@ -38,7 +38,7 @@ Hablo de MOMO de nuevo. Esta vez por culpa de la sobreestimación de las defunci
 * Se toma la mediana de los últimos 365 días (19 de octubre de 2019-hoy), $m_a$ (nótese: no del año corriente sino, insisto, los últimos 365 días).
 * Si el 16 de octubre de 2015 se observaron $x$ defunciones, en el cálculo de la mediana se usa el valor $x + (m_a - m_i)$. El efecto de la corrección $m_a - m_i$ consiste en _elevar_ (típicamente es un incremento) el valor $x$ al que le correspondería _hoy_.
 
-Y creo que ahora es evindente el motivo de la sobreestimación en el _nowcast_: el covid ha inflado $m_a$. De hecho, ese valor ha pasado de crecer (para la serie nacional) en 10-20 defunciones al día ha dar un salto de unas 40 entre el $m_i$ de 2019 y el valor que se está usando estos días. Se usó la mediana por su resistencia frente a _outliers_ (por ejemplo, la mortalidad en invierno puede variar mucho de año en año a causa de la gripe), pero ni esta ha podido aguantar el envite del covid.
+Y creo que ahora es evidente el motivo de la sobreestimación en el _nowcast_: el covid ha inflado $m_a$. De hecho, ese valor ha pasado de crecer (para la serie nacional) en 10-20 defunciones al día ha dar un salto de unas 40 entre el $m_i$ de 2019 y el valor que se está usando estos días. Se usó la mediana por su resistencia frente a _outliers_ (por ejemplo, la mortalidad en invierno puede variar mucho de año en año a causa de la gripe), pero ni esta ha podido aguantar el envite del covid.
 
 Y acabo con una serie de antos que he ido extrayendo de la discusión anterior por no saturarla de apartes y que listo en un orden no premeditado:
 

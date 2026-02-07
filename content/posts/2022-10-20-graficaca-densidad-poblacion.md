@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2022-10-20
-lastmod: '2025-04-06T18:49:52.701171'
+lastmod: '2026-02-07'
 related:
 - 2017-05-12-me-too-me-too.md
 - 2013-03-19-mapas-realmente-necesarios.md
@@ -24,7 +24,7 @@ El tema de hoy es el mapa
 
 distribuido de forma no irónica vía Twitter por algún desavisado al que no merece la pena apuntar con el dedo.
 
-Podemos aceptar que, en primera aproximación, _pasa el fitro_. Existen desde hace un tiempo datos estadísticos ya no por regiones administrativas sino por [_rejillas_](/2017/03/28/rejillas-poblacionales-con-r-un-borrador/) de 1 km² y en este gráfico se han limitado a representar esos datos.
+Podemos aceptar que, en primera aproximación, _pasa el filtro_. Existen desde hace un tiempo datos estadísticos ya no por regiones administrativas sino por [_rejillas_](/2017/03/28/rejillas-poblacionales-con-r-un-borrador/) de 1 km² y en este gráfico se han limitado a representar esos datos.
 
 Uno de los problemas asociados a este tipo de datos (en rejillas) es que donde no vive nadie no hay una rejilla con el dato asociado `pop = 0`, sino que, directamente, no hay rejilla. Es decir, que donde falta rejilla, uno no sabe si hay un lago, el mar, o los Monegros. Para entender esto, merece la pena echar un vistazo al aspecto de las rejillas en la zona de Salzburgo:
 

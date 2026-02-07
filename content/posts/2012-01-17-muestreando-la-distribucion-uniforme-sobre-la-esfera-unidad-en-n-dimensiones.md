@@ -26,7 +26,7 @@ Esencialmente, como la distribución normal multivariante (con matriz de covaria
 
 Para muestrear la bola `n`-dimensional, hay que muestrear primero la esfera (como en el párrafo anterior) y luego generar `m` variables aleatorias $U_i$ con la distribución uniforme. La muestra en la esfera unidad será entonces $U_i^{1/n} X_i/\| X_i \|$.
 
-Efectivamente, $X_i/\| X_i \|$ proporciona la dirección. Y en cuanto a la distancia con respecto al centro hay que tener en cuenta que la bola de radio r < 1 contienesolo un $r^n$ del volumen de la bola unidad. Como $P( U_i < r ) = r$, entonces $P( U^{1/n} < r ) = P( U < r^n ) = r^n$.
+Efectivamente, $X_i/\| X_i \|$ proporciona la dirección. Y en cuanto a la distancia con respecto al centro hay que tener en cuenta que la bola de radio r < 1 contiene solo un $r^n$ del volumen de la bola unidad. Como $P( U_i < r ) = r$, entonces $P( U^{1/n} < r ) = P( U < r^n ) = r^n$.
 
 [![](/img/2012/01/muestra_uniforme_esfera.png#center)
 ](/img/2012/01/muestra_uniforme_esfera.png#center)

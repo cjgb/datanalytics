@@ -101,7 +101,7 @@ b <- (a - a.hat) / sqrt(a.hat)
 {{< / highlight >}}
 
 
-La estructura diagonal de la matriz de diferencias es ahora más clara (¿osolo me lo parece a mí?). El motivo de elegir ese factor de normalización y no otro es que
+La estructura diagonal de la matriz de diferencias es ahora más clara (¿o solo me lo parece a mí?). El motivo de elegir ese factor de normalización y no otro es que
 
 
 {{< highlight R >}}
@@ -143,4 +143,4 @@ sum( ( svd( b )$d )^2 )
 
 La descomposición en valores singulares de una matriz $B$ es $B = PDQ'$. Pero  acabo aquí no sin antes anotar en mi vademécum lo siguiente: escribir una entrada en el blog en la que se repasen las propiedades algebraicas de la descomposición $B = PDQ'$ y de las matrices $P$ y $Q$ para deducir de ellas propiedades estadísticas que nos ayuden a comprender mejor la estructura de la tabla de contingencia.
 
-**Nota:** los más avezados de mis lectores habrán adivinado que me estoy refieriendo sin nombrarlo al [análisis de correspondencias](http://es.wikipedia.org/wiki/An%C3%A1lisis_de_correspondencias); es cierto pero no he querido hacerlo manifiesto por si palabras de tantas sílabas asustaban a algún potencial lector.
+**Nota:** los más avezados de mis lectores habrán adivinado que me estoy refiriendo sin nombrarlo al [análisis de correspondencias](http://es.wikipedia.org/wiki/An%C3%A1lisis_de_correspondencias); es cierto pero no he querido hacerlo manifiesto por si palabras de tantas sílabas asustaban a algún potencial lector.

@@ -25,7 +25,7 @@ Siempre que hablamos de distribuciones de probabilidad, somos muy conscientes de
 
 Veamos: la distribución de Benford aplica a los primeros dígitos de los números $10^X$ donde $X$ es una variable aleatoria uniforme en [0, 1]; o también en [0, 2], o en [7, 9]. Pero no si lo es en [19, 34.17], por ejemplo. Aplicaría también a una variable aleatoria uniforme en $[0, \infty]$, de esas tan del gusto de los bayesianos.
 
-Para ilustrar lo que ocurre realmente, simulemos la distribución del los primeros dígitos de $10^X$ donde $X$ es una variable aleatoria uniforme definida en $[0, x]$ para una seleción de valores entre 0 y 4:
+Para ilustrar lo que ocurre realmente, simulemos la distribución del los primeros dígitos de $10^X$ donde $X$ es una variable aleatoria uniforme definida en $[0, x]$ para una selección de valores entre 0 y 4:
 
 {{< highlight R >}}
 library(ggplot2)

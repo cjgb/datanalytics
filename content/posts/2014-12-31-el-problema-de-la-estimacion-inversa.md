@@ -28,4 +28,4 @@ En este caso concreto es relativamente sencillo. Pero, ¿qué si $y_i$ depende d
 
 Estos problemas y algunas maneras de afrontarlos se discuten en [_investr: An R Package for Inverse Estimation_](http://journal.r-project.org/archive/2014-1/greenwell-kabban.pdf). Artículo que, cuyo nombre bien indica, viene acompañado de un paquete de R, [`investr`](http://cran.rstudio.com/web/packages/investr/). Que me hubiese resultado muy útil en más de una ocasión.
 
-**Nota:** Desde hace unas semanas vengo prefieriendo representar el modelo lineal como arriba en lugar de la manera más tradicional, $y_i = a_0 + a_1 x_1 + \epsilon_i$. Cuando tenga más claro el motivo, os lo cuento.
+**Nota:** Desde hace unas semanas vengo prefiriendo representar el modelo lineal como arriba en lugar de la manera más tradicional, $y_i = a_0 + a_1 x_1 + \epsilon_i$. Cuando tenga más claro el motivo, os lo cuento.

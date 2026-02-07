@@ -22,7 +22,7 @@ url: /2011/10/05/calculo-mental-alzheimer-anumerismo-y-20n/
 
 El otro día pensaba yo: si escribiese en un rollo de papel (idealmente infinito) el nombre de todos los españoles, uno en cada línea, de manera que cada línea ocupase, digamos, dos centímetros, ¿cuántos kilómetros de papel me harían falta?
 
-Por redondear, supuse que la población española es de 50M (pecata minuta: de sobreestimarla en un 10%, bastaría con recortar un 10% la respuesta final). Y por azares le propuse el problema a un compañero para que lo resolviese mentalmente. ¡Incapaz! Luego otro, y otro, y otro. Hasta seis y ninguno supo darme una respuesta correcta utilizandosolo cálculo mental.
+Por redondear, supuse que la población española es de 50M (pecata minuta: de sobreestimarla en un 10%, bastaría con recortar un 10% la respuesta final). Y por azares le propuse el problema a un compañero para que lo resolviese mentalmente. ¡Incapaz! Luego otro, y otro, y otro. Hasta seis y ninguno supo darme una respuesta correcta utilizando solo cálculo mental.
 
 Puede ser que se sintiesen intimidados y temiesen una objeción capciosa (¡ah, no has tenido en cuenta la raíz cuadrada de la velocidad del viento!). Pero la solución es bastante simple: 50M de líneas a razón de 2cm por línea hacen 100M de centímetros, es decir, 1M de metros. Y 1M de metros son mil veces mil metros, es decir, mil kilómetros. Incluso [una máquina puede dar con la respuesta correcta](http://www.wolframalpha.com/input/?i=how+many+kilometers+in+2+*+50000000+centimeters) en nada.
 

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-12-12
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:02:39.442511'
 related:
 - 2024-06-25-consumo-llms.md

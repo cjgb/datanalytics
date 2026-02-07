@@ -36,7 +36,7 @@ Veamos pues en qué consistió el embrollo. El paquete rJython consta de tres pa
 
 CRAN nos obliga a liberar el paquete con una única licencia. La [solución que plantea Fedora para este tipo de situaciones](http://fedoraproject.org/wiki/Packaging/LicensingGuidelines#Multiple_Licensing_Scenarios) no le satisface.
 
-No se puede liberar todo el paquete con licencia de Jython porque éstasolo la concede la Python Foundation a terceros,solo cubre un software llamado "Jython" y podría no ser compatible con la MIT. La MIT tampoco vale porque no está claro que sea compatible con la de Jython.
+No se puede liberar todo el paquete con licencia de Jython porque ésta solo la concede la Python Foundation a terceros,solo cubre un software llamado "Jython" y podría no ser compatible con la MIT. La MIT tampoco vale porque no está claro que sea compatible con la de Jython.
 
 ¿GPL? Por ahí encontramos que es compatible con la MIT. También con la de Python. ¿Pero con la de Jython? A saber. Comparamos las licencias de Python y Jython y constatamos que son prácticamente idénticas (sólo que en algunos lugares reemplaza "Python" por "Jython"). Así que asumimos que también son compatibles.
 

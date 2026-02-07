@@ -20,7 +20,7 @@ title: La ley de Benford
 url: /2011/09/15/la-ley-de-benford/
 ---
 
-El otro día me preguntó una compañera el motivo por el que un proceso (de transformación de datos) se ejecutaba tan lentamente. De oficio, siempre hago lo mismo —además, lo saben: ¿para qué seguirán preguntando?—: ejecutar el procesosolo sobre un porcentaje de los datos.
+El otro día me preguntó una compañera el motivo por el que un proceso (de transformación de datos) se ejecutaba tan lentamente. De oficio, siempre hago lo mismo —además, lo saben: ¿para qué seguirán preguntando?—: ejecutar el proceso solo sobre un porcentaje de los datos.
 
 Con los que el `id` acababa en `123`, era inmediato; con `12`, también; con `1`, se eternizaba. Pero con `2`, `3` y `4` volvía a ser muy rápido. ¡Había muchísimos registros con `id` acabado en `1`!
 

@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-09-09 08:13:14+00:00
-draft: false
-lastmod: '2025-04-06T19:08:52.196090'
+lastmod: '2026-02-07'
 related:
 - 2013-11-22-un-pequeno-problema-de-probabilidad.md
 - 2010-04-21-para-que-copien-peguen-y-disfruten.md
@@ -29,4 +28,4 @@ En Twitter, leo
 >
 > -- John Myles White (@johnmyleswhite) [September 8, 2015](https://twitter.com/johnmyleswhite/status/641311405296230400)
 
-¿Alguien puede explicar lo que ocurre? ¿Es tan grade como parece indicar sorna el autor del tuit?
+¿Alguien puede explicar lo que ocurre? ¿Es tan grave como parece indicar sorna el autor del tuit?

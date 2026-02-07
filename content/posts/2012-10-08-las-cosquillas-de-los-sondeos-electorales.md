@@ -34,7 +34,7 @@ Afortunadamente, El Periódico ha publicado los [microdatos de la encuesta](http
 
 En la [ficha técnica de la encuesta](http://www.elperiodico.com/es/ext_resources/gesop/EP_PreelectoralAut_Set2012_Tabulacions.pdf) se lee que se entrevistaron a 800 personas telefónicamente lo que da un error del 3,5% con un nivel de confianza del 95% cuando `p=q=0.5`. Eso quiere decir que gracias a que se entrevistaron a 800 personas (y no menos) hay un 95% de probabilidad de que la diferencia entre el porcentaje obtenido en la encuesta y el real (de la población) sea menor del 3,5%. Nótense dos cosas, sin embargo:
 
-1. Esa acotación del error se da para preguntas simples de respuesta sí/no. Pero la intención de voto no es una pregunta que tengasolo dos respuestas posibles, sino varias. Honestamente, se me escapa si esos márgenes de error calculados para preguntas simples son directamente extrapolables a preguntas más complejas, con varias opciones.
+1. Esa acotación del error se da para preguntas simples de respuesta sí/no. Pero la intención de voto no es una pregunta que tenga solo dos respuestas posibles, sino varias. Honestamente, se me escapa si esos márgenes de error calculados para preguntas simples son directamente extrapolables a preguntas más complejas, con varias opciones.
 2. Que si hay una probabilidad del 95% de cometer un error inferior al 3,5% en _una_ pregunta, la probabilidad de que el error sea así de pequeño en _cada_ pregunta de una encuesta que tiene 10 de ellas, por ejemplo, es de 0.95^10 = 60%.
 
 

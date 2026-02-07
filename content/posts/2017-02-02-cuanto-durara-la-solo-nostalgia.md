@@ -17,7 +17,7 @@ tags:
 - rae
 - solo
 - supervivencia
-title: ¿Cuánto durará lasolo-nostalgia?
+title: ¿Cuánto durará la solo-nostalgia?
 url: /2017/02/02/cuanto-durara-la-solo-nostalgia/
 ---
 

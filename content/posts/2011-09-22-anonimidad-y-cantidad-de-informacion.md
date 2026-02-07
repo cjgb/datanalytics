@@ -20,7 +20,7 @@ title: Anonimidad y cantidad de información
 url: /2011/09/22/anonimidad-y-cantidad-de-informacion/
 ---
 
-Juguemos a un juego: pienso el nombre de uno de los 45M de ciudadanos españoles y tenéis que acertarlo. Me podéis hacer preguntas, perosolo de esas cuya respuesta es sí o no. ¿Cuántas preguntas deberíais hacerme?
+Juguemos a un juego: pienso el nombre de uno de los 45M de ciudadanos españoles y tenéis que acertarlo. Me podéis hacer preguntas, pero solo de esas cuya respuesta es sí o no. ¿Cuántas preguntas deberíais hacerme?
 
 Pues unas 25 o 26 porque $log_2 4.5e7 = 25.42$. La demostración es sencilla: suponed que tenéis una lista con los nombres de todos los ciudadanos (a razón de 45 por hoja y 200 hojas por tomo, ocuparían 5000 de ellos). La primera pregunta podría ser: el individuo que has pensado, ¿está en los tomos 1-2500? Luego, dependiendo de la respuesta, ¿del 1250 al 2500? Y etc. con la búsqueda binaria. En total, 25 o 26 veces.
 

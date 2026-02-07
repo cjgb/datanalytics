@@ -32,6 +32,6 @@ Copio aquí el anuncio de un nuevo curso de análisis de datos ([_ómicos_ ](htt
 >
 >El curso cubre todos los pasos que deben llevarse a cabo desde el momento de obtener los datos crudos hasta su interpretación biológica y cubre: lectura y mapeo a un genoma de referencia; 'sumarización' y visualización a nivel de genoma, exoma o transcriptoma; normalización y detección de genes diferencialmente expresados; y anotación y análisis de enriquecimiento funcional para la interpretación biológica de resultados. Además se hablará de cómo se llevará a cabo "variant calling" y en el último día se mostrará cómo analizar datos epigenómicos (metilación). Todos los métodos de análisis se ilustrarán con ejemplos prácticos y el alumno deberá aplicar estos conocimientos a unos datos reales.
 >
->En el curso nosolo se presentará los métodos estadísticos existentes, si no que también se incluirán nuevas metodologías de análisis que han sido desarrolladas en nuestro centro (ver http://www.creal.cat/jrgonzalez/software.htm).
+>En el curso no solo se presentará los métodos estadísticos existentes, si no que también se incluirán nuevas metodologías de análisis que han sido desarrolladas en nuestro centro (ver http://www.creal.cat/jrgonzalez/software.htm).
 >
 >Esperamos que el curso sea de vuestro interés.
