@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
-- computación
+- programación
 date: 2024-02-06
 lastmod: '2025-04-06T19:04:09.337488'
 related:

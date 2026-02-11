@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
-- computación
+- programación
 - probabilidad
 date: 2024-02-27
 lastmod: '2025-04-06T18:50:32.290064'

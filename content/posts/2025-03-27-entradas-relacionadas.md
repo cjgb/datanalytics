@@ -1,7 +1,7 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
-- computación
+- programación
 - llms
 date: 2025-03-27
 description: Descripción del proceso de creación del widget de entradas relacionadas
