@@ -29,16 +29,16 @@ Estos días y por razones que no vienen a cuento, he estado leyendo _[Fashionabl
 
 Para los no advertidos y según la Wikipedia:
 
->En 1996, Sokal, profesor de física en la Universidad de Nueva York, envió un artículo pseudocientífico para que se publicase en la revista postmoderna de estudios culturales Social Text. Pretendía comprobar que una revista de humanidades «publicará un artículo plagado de sinsentidos, siempre y cuando: a) Suene bien; y b) Apoye los prejuicios ideológicos de los editores (contra las ciencias empíricas)».
+> En 1996, Sokal, profesor de física en la Universidad de Nueva York, envió un artículo pseudocientífico para que se publicase en la revista postmoderna de estudios culturales Social Text. Pretendía comprobar que una revista de humanidades «publicará un artículo plagado de sinsentidos, siempre y cuando: a) Suene bien; y b) Apoye los prejuicios ideológicos de los editores (contra las ciencias empíricas)».
 >
 > El artículo, titulado «Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity», se publicó en el número de primavera/verano de 1996 de Social Text y sostenía la asombrosa tesis de que la gravedad cuántica era un constructo social; es decir, que la gravedad existe solamente porque la sociedad se comporta como si existiera, por lo tanto si no se creyera en ella no tendría efecto.
 
 El libro no es sino una versión extendida del artículo en cuestión: está elaborado a partir de las lecturas y notas que Sokal utilizó para redactarlo. Está planteado como una crítica contra los abusos que desde la llamada _crítica posmoderna_ —aunque no solo: también incluye en determinados pasajes al estructuralismo— se hace de conceptos científicos y, particularmente, matemáticos y físicos. Por ejemplo:
 
 * Que un señor vaya y compare gratuitamente el falo con i (sí, $\sqrt{-1}$) o cierto tipo de comportamiento neurótico con la banda de Möbius.
-* Que una señora vaya y funde las particularidades del lenguaje poético dizquen el teorema de elección o la hipótesis del continuo.
+* Que una señora vaya y funde las particularidades del lenguaje poético dizque en el teorema de elección o la hipótesis del continuo.
 * Que otra señora denuncie el carácter estructuralmente machista de la física argumentando que esta ha prestado más atención a la física de los sólidos, a los que asocia rasgos masculinos, antes que a la de los fluidos, en  los que encuentra características femeninas por todo aquello de la menstruación.
-* Que se le encuentren cuatro pies al teorema de Gödel o la paradoja e Russell para justificar cualquier tipo de marcianada.
+* Que se le encuentren cuatro pies al teorema de Gödel o la paradoja de Russell para justificar cualquier tipo de marcianada.
 
 Si todos tenemos la sospecha de que estos autores realmente nos están tomando el pelo a través de sus textos, el libro se plantea como una actualización de la probabilidad a priori de que sea efectivamente así. Lo hace a través de un análisis con cierta pretensión de exhaustividad de cómo es así, al menos, cuando pretenden apoyarse en conceptos científicos. Igual que en aquel viejo chiste el matemático escéptico apenas concedía que "desde aquí, parece una vaca", Sokal nos advierte cómo "desde la perspectiva de la ciencia", la crítica _posmo_ "parece un fraude".
 
