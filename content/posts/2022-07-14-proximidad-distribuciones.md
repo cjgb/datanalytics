@@ -24,7 +24,7 @@ url: /2022/07/14/similitud-distribuciones-mmd/
 
 Por motivos que quedarán claros en entradas futuras, he estado investigando sobre medidas de proximidad entre distribuciones de probabilidad. En mi caso concreto, además, multidimensionales (y de dimensión alta, en $R^N$, con $N$ del orden de docenas o centenas).
 
-Supongamos que tenemos dos variables aleatorias $X, Y \in R^N$ y queremos ver estudiar en qué medida son próximas sus distribuciones. Idealmente, además, utilizando un método que pueda utilizarse a través de muestras de dichas variables.
+Supongamos que tenemos dos variables aleatorias $X, Y \in R^N$ y queremos estudiar en qué medida son próximas sus distribuciones. Idealmente, además, utilizando un método que pueda utilizarse a través de muestras de dichas variables.
 
 ![](/img/2022/07/high_dimensiona_distribution.png)
 

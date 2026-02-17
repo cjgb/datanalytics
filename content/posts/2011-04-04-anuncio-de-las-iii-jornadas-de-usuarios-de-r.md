@@ -23,6 +23,6 @@ Los interesados en asistir, participar y patrocinar —y subrayo lo de patrocina
 
 Desde esta bitácora, además, quiero invitar muy especialmente a los usuarios y entusiastas de R que trabajan en empresas e instituciones ajenas al mundo académico a aportar su peculiar visión sobre el universo de usos, aplicaciones y experiencias con el lenguaje.
 
-También quiero recordar que pese al trabajo voluntario de muchos y a la gentileza de la EOI —que se ha prestado para albergar las jornadas— que un evento de la dimensión de este genera una serie de gastos no despreciables. Por eso, si alguien está al tanto de los procedimientos para obtener subvenciones o o lograr patrocinios de empresas, no estaría de más que dejase un correo a los organizadores.
+También quiero recordar que pese al trabajo voluntario de muchos y a la gentileza de la EOI —que se ha prestado para albergar las jornadas— que un evento de la dimensión de este genera una serie de gastos no despreciables. Por eso, si alguien está al tanto de los procedimientos para obtener subvenciones o lograr patrocinios de empresas, no estaría de más que dejase un correo a los organizadores.
 
 Y, en cualquier caso, organizad vuestras agendas... ¡y nos vemos en noviembre¡
