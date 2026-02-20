@@ -5,7 +5,9 @@
 
 {{- /* Custom robots logic, @gilbellosta, 2026-01-21 */ -}}
 {{- $robotsValue := "follow, noindex" -}}
-{{- if eq .Section "paginas" -}}
+{{- if .IsHome -}}
+  {{- $robotsValue = "follow, index" -}}
+{{- else if eq .Section "paginas" -}}
   {{- $robotsValue = "follow, index" -}}
 {{- else if eq .Section "posts" -}}
   {{- if .Params.noindex -}}
