@@ -16,7 +16,7 @@ tags:
 - mmd
 - heterogeneidad
 - tests ab
-- superviviencia
+- supervivencia
 title: Cinco asuntos breves sobre modelización estadística
 url: /2024/10/22/cortos-estadistica/
 ---

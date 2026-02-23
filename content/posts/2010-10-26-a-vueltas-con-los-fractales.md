@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-10-26 21:27:06+00:00
-draft: false
 lastmod: '2025-04-06T19:12:16.026210'
 related:
 - 2012-02-16-virgueria-con-r.md
@@ -20,8 +19,6 @@ url: /2010/10/26/a-vueltas-con-los-fractales/
 ---
 
 Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](https://datanalytics.com/2010/04/21/para-que-copien-peguen-y-disfruten-addenda/), mi tocayo Carlos Ortega (y ahora gentil colaborador) nos ha proporcionado un enlace en este blog a un pedazo de código que bien vale la pena replicar aquí para el solaz (y tal vez, incluso, provecho) de los lectores de estas páginas. Es:
-
-
 
 {{< highlight R >}}
     library(fields)         # for tim.colors
@@ -43,12 +40,8 @@ Si bien no hace mucho publicaba una entrada sobre el [triángulo de Sierpinsky](
     write.gif(X, "Mandelbrot.gif", col=tim.colors(256), delay=100)
 {{< / highlight >}}
 
-
-
-
 (extraído de [aquí](http://tolstoy.newcastle.edu.au/R/help/05/10/13198.html)).
 
 El resultado, infinitamente mejor que la tele:
 
-[![](/img/2010/10/Mandelbrot.gif)
-](/img/2010/10/Mandelbrot.gif)
+![Fractal de Mandelbrot](/img/2010/10/Mandelbrot.gif#center)

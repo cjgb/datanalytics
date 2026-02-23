@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2019-02-06 08:13:06+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:06:26.532356'
 related:
 - 2020-11-18-la-cocina-para-anumeristas-y-conspiranoicos.md

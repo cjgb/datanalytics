@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-03-17 09:52:06+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:58:24.995424'
 related:
 - 2013-12-18-cuanta-gente-usara-r-vs-python-vs-otros-dentro-de-1000-anos.md

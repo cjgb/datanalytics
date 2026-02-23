@@ -14,7 +14,7 @@ related:
 - 2020-07-08-que-queda-de-la-estadistica-robusta-clasica.md
 - 2024-12-05-beta-binomial-deriva.md
 tags:
-- análisis de la supervivencia
+- supervivencia
 - discos duros
 title: Discos duros, análisis de la supervivencia y bañeras evanescentes
 url: /2025/10/28/analisis-supervivencia-hdd/

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - artículos
 date: 2020-03-24 09:13:00+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:53:09.363939'
 related:
 - 2020-03-20-casos-de-coronavirus-en-madrid-provincia-un-modelo-un-poco-menos-crudo-basado-en-la-mortalidad-ii.md

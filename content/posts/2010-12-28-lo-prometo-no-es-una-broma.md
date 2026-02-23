@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2010-12-28 09:58:09+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:01:02.373099'
 related:
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
@@ -39,17 +39,11 @@ Y para que se compruebe lo diligente que en tal materia es el gobierno, añade:
 
 Así que he acudido a [tal página](http://www.meh.es/es-ES/Estadistica%20e%20Informes/Estadisticas%20territoriales/Paginas/Estadisticas%20Territoriales.aspx) y:
 
-
-
 1. Me he preguntado por qué no está traducida al inglés (si ha de servir para fomentar la confianza de los inversores extranjeros, vamos)
 2. Me he perdido en la maraña de enlaces, formatos, éxceles, pestañas y javascripts que no funcionaban (al menos, con Firefox: ¡tal vez con IE6!)
 3. Y como no todo ha de ser malgenio y frustración, he rescatado para divertimento de mis lectores esta captura de pantalla:
 
-
-
-[![](/img/2010/12/datos_avance.png#center)
-](/img/2010/12/datos_avance.png#center)
-
+![](/img/2010/12/datos_avance.png#center)
 
 ¡El último ejercicio disponible es el 2008! Además, tendremos datos de _avance_ del 2009... ¡en el primer trimestre del 2011!
 
