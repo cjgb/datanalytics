@@ -4,9 +4,8 @@ categories:
 - estadística
 - probabilidad
 - r
-date: 2011-08-21 07:53:08+00:00
-draft: false
-lastmod: '2025-04-06T18:49:05.696985'
+date: 2011-08-21
+lastmod: 2026-02-24
 related:
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
 - 2019-01-08-modelos-de-conteos-con-sobredispersion-con-stan.md
@@ -30,33 +29,25 @@ Aparentemente, la distribución de tarjetas en un partido sigue una distribució
 
 Vamos a revisar este problema desde dos puntos de vista distintos: el del impaciente y el de quien quiera saber más. El primero querrá comenzar a usar R de inmediato y cuenta con la función poisson.test con la que puede hacer:
 
-
-
 * `poisson.test( 3, r = 4.1 )` indica hasta qué punto es razonable suponer que el parámetro de la distribución de Poisson es 4.1 cuando se han mostrado tres tarjetas en un partido.
 * `poisson.test( 40, T = 24, r = 4.1 )` para ver si cabe esperar una ratio de 4.1 tarjetas por partido cuando se han obtenido 40 en 24 partidos. A quien conozca las propiedades de las variables aleatorias de Poisson no le sorprenderá que advierta que dicha expresión coincida, esencialmente, con `poisson.test( 40, r = 24 *4.1 )`: la suma de 24 variables aleatorias de Poisson de parámetro 4.1 es una variable aleatoria de Poisson con parámetro 24 * 4.1.
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ) )`, que contrasta la hipótesis de que los ratios de tarjetas obtenidos, 196 / 48 y 40 / 24 sean iguales.
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ), r = 2 )` que contrasta la hipótesis de que el ratio _verdadero entre las tarjetas entre hombres y mujeres sea de 2 cuando se han obtenido ratios de 196 / 48 y 40 / 24 para unas y otras.
 
-Para los dos últimos constrastes, poisson.test utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $\lambda$ $r \lambda$ y que en $p_1$ y $p_2$ muestras independientes de cada una de ellas ($p$ significa número de partidos en nuestro contexto) se han obtenido un total de $x_1$ y $x_2$ casos (tarjetas). Entonces
-
+Para los dos últimos contrastes, `poisson.test` utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $\lambda$ $r \lambda$ y que en $p_1$ y $p_2$ muestras independientes de cada una de ellas ($p$ significa número de partidos en nuestro contexto) se han obtenido un total de $x_1$ y $x_2$ casos (tarjetas). Entonces
 
 $$ P_\lambda( x_1, x_2 ) = \exp(-p_1 \lambda ) \frac{ (p_1 \lambda)^{x_1} }{ x_1! } \exp(-p_2 r \lambda ) \frac{ (p_2 r \lambda)^{x_2} }{ x_2! } = $$
 $$ = \frac{ ( x_1 + x_2 )! }{ x_1! x_2! } \left( \frac{ p_1}{ p_1 + r p_2 } \right)^{x_1} \left( \frac{ rp_2}{ p_1 + r p_2 } \right)^{x_2} \exp({ -(p_1 + rp_2 ) \lambda})   \frac{ ( (p_1 + r p_2 )\lambda)^{x_1 + x_2} }{ ( x_1 + x_2)! },$$
 
-
 expresión que puede partirse en dos. Por un lado,
 
-
 $$ \exp ({ -(p_1 + rp_2 ) \lambda})  \frac{ ( (p_1 + r p_2 )\lambda)^{x_1 + x_2} }{ ( x_1 + x_2)! },$$
-
 
 que es la probabilidad de que el número total de tarjetas sume x_1 + x_2, que sigue una distribución de Poisson con parámetro $(p_1 + r p_2 )\lambda$.
 
 Por el otro, se tiene
 
-
 $$ \frac{ ( x_1 + x_2 )! }{ x_1! x_2! } \left( \frac{ p_1}{ p_1 + r p_2 } \right)^{x_1} \left( \frac{ rp_2}{ p_1 + r p_2 } \right)^{x_2}$$
-
 
 que es la probabilidad de $x_1$ éxitos en $x_1 + x_2$ intentos bajo una ley binomial con probabilidad $p_1 / (p_1 + r p_2 )$ y que coincide con la probabilidad condicionada $P_\lambda( x_1, x_2 | x_1 + x_2 )$, que no depende de $\lambda$ y permite ver hasta qué punto valores desiguales de $x_1$ y $x_2$ pueden o no ser indicio de lo razonable de la hipótesis de partida acerca del valor de $r$. De hecho, internamente, la función `poisson.test` utiliza `binom.test` en tales casos.
 

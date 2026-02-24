@@ -39,7 +39,7 @@ Tenía decidido yo mantenerme al margen de todo tipo de debates, votaciones, asa
 
 ![](/img/2017/03/charco_meson_paredes.jpg)
 
-en la intersección de Tirso de Molina con Mesón de Paredes (sí, en mi ruta al metro). No obstante, vencido por la curiosidad, accedí al [portal de propuestas para los presupuestos participativos de 2017 del ayuntamiento de Madrid](https://decide.madrid.es/presupuestos/presupuestos-participativos-2017/). Y cuál no sería perplejidad al constatar que la segunda más valorada era una propuesta para la [_transformación del alumbrado urbano para que se nutra de energía solar_](https://decide.madrid.es/presupuestos/presupuestos-participativos-2017/proyecto/2775).
+en la intersección de Tirso de Molina con Mesón de Paredes (sí, en mi ruta al metro). No obstante, vencido por la curiosidad, accedí al [portal de propuestas para los presupuestos participativos de 2017 del ayuntamiento de Madrid](https://decide.madrid.es/presupuestos/presupuestos-participativos-2017/). Y cuál no sería mi perplejidad al constatar que la segunda más valorada era una propuesta para la [_transformación del alumbrado urbano para que se nutra de energía solar_](https://decide.madrid.es/presupuestos/presupuestos-participativos-2017/proyecto/2775).
 
 La petición sería una oxímoron en toda regla salvo porque la tecnología nos permite utilizar acumuladores (nada baratos, por cierto, pero como la pólvora del rey es gratis...). Acumuladores que serían utilizados para almacenar energía en las horas pico de consumo, cuando la energía es más cara y sucia, y poder gastarla en las horas valle, cuando es más barata y limpia.
 
