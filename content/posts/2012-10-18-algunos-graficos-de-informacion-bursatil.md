@@ -105,4 +105,4 @@ se construye el gráfico
 
 ![](/img/2012/10/analisis_normalidad-300x300.png#center)
 
-que permite investigar, por ejemplo, si es o no sensato suponer que las rentabilidades mensuales siguen una ley normal.
+que permite investigar, por ejemplo, si es sensato suponer que las rentabilidades mensuales siguen una ley normal.

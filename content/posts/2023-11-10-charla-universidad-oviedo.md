@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - charlas
 date: 2023-11-10
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:04:16.641593'
 related:
 - 2016-04-05-nos-vemos-en-el-machine-learning-spain-xii.md

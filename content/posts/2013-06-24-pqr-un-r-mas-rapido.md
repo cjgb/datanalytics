@@ -4,8 +4,8 @@ categories:
 - estadística
 - r
 date: 2013-06-24 07:27:52+00:00
-draft: false
-lastmod: '2025-04-06T18:53:21.165552'
+noindex: true
+lastmod: '2026-03-04'
 related:
 - 2011-03-16-parentesis-corchetes-y-rendimiento-en-r.md
 - 2012-02-28-julia-nuevo-lenguaje-programacion-cientifica.md

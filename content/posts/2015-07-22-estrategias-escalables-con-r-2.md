@@ -3,7 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-07-22 08:13:34+00:00
-lastmod: '2025-04-06T19:05:54.567378'
+lastmod: '2026-03-05'
+noindex: true
 related:
 - 2014-07-09-estrategias-escalables-con-r.md
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md

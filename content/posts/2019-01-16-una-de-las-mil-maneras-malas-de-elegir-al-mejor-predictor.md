@@ -28,7 +28,7 @@ Pero aquí comienzan los problemas. Los distintos predictores tratarán de maxim
 
 Un predictor avispado verá que si $q > 0.5$ le vendrá bien exagerar y alegar $p = 1$; y, a la inversa, alegar $p=0$ cuando $q < 0.5$.
 
-Si  estos predictores fuesen hombres del tiempo, con el anterior criterio de éxito, como la probabilidad de lluvia es relativamente baja (en estos lares), siempre darían sol (con 100% de seguridad).
+Si  estos predictores fuesen hombres del tiempo, con el anterior criterio de éxito, como la probabilidad de lluvia es relativamente baja (en estos lares), siempre darían sol (con un 100% de seguridad).
 
 Y eso es malo.
 
