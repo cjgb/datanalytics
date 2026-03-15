@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - llms
 date: 2026-03-12
-description: ¿Puede la IA sustituir tu trabajo? Analizamos la diferencia entre conocimiento
-  legible e ilegible y por qué el valor profesional migra hacia lo no estructurado.
+description: "¿Puede la IA sustituir tu trabajo? Analizamos la diferencia entre conocimiento
+  legible e ilegible y por qué el valor profesional migra hacia lo no estructurado."
 lastmod: '2026-03-09T16:00:33.153312'
 related:
 - 2026-02-04-llms-derecho.md
