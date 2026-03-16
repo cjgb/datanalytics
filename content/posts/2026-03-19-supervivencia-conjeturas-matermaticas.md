@@ -15,8 +15,7 @@ related:
 tags:
 - supervivencia
 - matemáticas
-title: El análisis de la supervivencia aplicado al tiempo de resolución de las conjeturas
-  matemáticas más famosas
+title: El análisis de la supervivencia aplicado al tiempo de resolución de las conjeturas matemáticas más famosas
 url: /2026/03/19/supervivencia-conjeturas-matematicas/
 ---
 
@@ -29,9 +28,9 @@ Así que no abundaré más sobre el asunto.
 Lo curioso es cómo ajusta la función de supervivencia, supongo que condicionada por el hecho de usar Google Sheets:
 
 1. Calcula la curva de Kaplan-Meier, la aproximación empírica a la función de supervivencia.
-2. Usa la función LOGEST de Google Sheets, para ajustar $k = a_1 \times a_2^t$.
+2. Usa la función `LOGEST` de Google Sheets, para ajustar $k = a_1 \times a_2^t$.
 
-La función LOGEST ajusta esos datos tomando logaritmos y ajustando un modelo lineal (OLS) a $\log k = \log a_1 + t \log a_2$. Así obtiene la aproximación
+La función `LOGEST` ajusta esos datos tomando logaritmos y ajustando el modelo lineal (OLS) correspondiente, $\log k = \log a_1 + t \log a_2$. Así obtiene la aproximación
 
 $$S(t) \approx 0.9668239749 \times 0.9940802592^t = 0.9668239749 \exp(-0.005937332 t).$$
 
@@ -63,8 +62,9 @@ m0 <- survreg(Surv(time2, status) ~ 1, dist = "exponential", data = dat)
 
 El coeficiente del modelo es $5.07398$, que corresponde al parámetro $\lambda$ de la exponencial $1 / \exp(5.07398) = 0.006257457$ y, por tanto, la función de supervivencia
 
-$$S(t) = \exp(-0.006257457 t),$$
+$$S(t) = \exp(-0.006257457 t).$$
 
-a la que corresponde una semivida de $(\log 2) / 0.006257457 = 110.77$ años.
+La estimación de la semivida es $(\log 2) / 0.006257457 = 110.77$ años.
 
 El análisis anterior me sugiere dos comentarios. El primero es que resulta muy instructivo proceder por primeros principios: estimar la curva de supervivencia primero, tratar de ajustarla después de la mejor manera posible. A veces se nos olvida que, en el fondo, estamos haciendo _precisamente_ eso cuando usamos `survreg` directamente. El otro ---como este análisis ilustra fehacientemente--- es cómo reinventamos la rueda innecesariamente tantas veces.
+
