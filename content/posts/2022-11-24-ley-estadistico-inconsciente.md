@@ -30,13 +30,13 @@ $$E[Y] = \int y dP_Y(y)$$
 
 para cierta medida (de probabilidad) $P_Y$. Pero es _natural_, fuerza de la costumbre, dar por hecho que
 
-$$E[Y] = E[g(X)] = \int f(x) dP_X(x)$$
+$$E[Y] = E[f(X)] = \int f(x) dP_X(x)$$
 
 sin parar mientes. Por ejemplo, miles de personas habrán leído
 
 ![](/img/2022/11/montecarlo_integration.png#center)
 
-en la página de la Wikipedia sobre la integración de Montecarlo, inconcientes de que la ley de los grandes números no dice eso sino otra cosa. Y que entre las dos media el teorema que motiva la entrada de hoy.
+en la página de la Wikipedia sobre la integración de Montecarlo, inconscientes de que la ley de los grandes números no dice eso sino otra cosa. Y que entre las dos media el teorema que motiva la entrada de hoy.
 
 Pero, vamos, de buscarlo, uno lo encuentra donde debe estar. Rebuscando lo mínimo, por ejemplo, en el capítulo IX.2 del primer volumen sobre probabilidades de Feller, se establece el
 

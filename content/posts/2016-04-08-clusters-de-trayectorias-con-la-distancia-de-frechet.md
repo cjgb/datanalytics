@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2016-04-08 09:13:23+00:00
-draft: false
 lastmod: '2025-04-06T18:46:04.683191'
 related:
 - 2013-02-27-que-ha-pasado-en-el-ibex-durante-el-ultimo-mes.md

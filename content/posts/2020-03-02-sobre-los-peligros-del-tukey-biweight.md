@@ -32,7 +32,7 @@ $$ \sum_i \rho(y_i - f_\alpha(x_i))$$
 
 usando $\rho(x) = x^2$, que es la función que se representa a la izquierda y a la que estamos acostumbrados, usar la de la derecha. Que es la función _biweight_ de Tukey.
 
-Pero esa función es plana a una determinada distancia de cero. Es decir, utilizar esa función es utilizar una función que tiene _mínimos locales _por doquier (y que son iguales a su máximo absoluto, dicho sea de paso). Que es lo más parecido de dispararse en el pie antes en la línea de salida de la maratón.
+Pero esa función es plana a una determinada distancia de cero. Es decir, utilizar esa función es utilizar una función que tiene _mínimos locales _por doquier (y que son iguales a su máximo absoluto, dicho sea de paso). Que es lo más parecido a dispararse en el pie antes en la línea de salida de la maratón.
 
 Obviamente, una implementación satisfactoria del problema de minimización necesita valores iniciales razonables. Que ojalá estuviesen siempre a mano.
 

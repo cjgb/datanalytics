@@ -4,8 +4,7 @@ categories:
 - programación
 - r
 date: 2014-07-09 07:13:41+00:00
-draft: false
-lastmod: '2025-04-06T18:56:46.523272'
+lastmod: '2026-03-22'
 related:
 - 2015-07-22-estrategias-escalables-con-r-2.md
 - 2010-01-26-r-y-conjuntos-de-datos-grandes.md
@@ -28,10 +27,10 @@ Yo recomendaría [_Scalable Strategies for Computing with Massive Data_](http://
 
 Una cosa con la que tropezará enseguida quien lo hojee es:
 
->[...] R is not well-suited for working with data structures larger than about 10-20% of a computer's RAM. Data exceeding 50% of available RAM are essentially unusable because the overhead of all but the simplest of calculations quickly consumes all available RAM. [...] we consider a data set large if it exceeds 20% of the RAM on a given machine and massive if it exceeds 50%.
+>[...] R no está preparado para operar con estructuras de datos que ocupan más del 10-20% de la RAM del ordenador. Con datos que ocupan más del 50% es prácticamente imposible trabajar porque el el consumo adicional de memoria de cualquier transformación no trivial consume enseguida toda la RAM disponible. [...] llamamos grande a un conjunto de datos si ocupa más del 20% de la RAM y masivo si ocupa más del 50%.
 
 En realidad, los límites no son tan serios: ahora mismo, R está ocupando 17 de los 24GB de RAM de mi servidor y va como un tiro. Pero es un aviso para navegantes: a partir de cierto umbral, hay que olvidarse de `read.table` y demás. Alternativas, haylas. La más simple es conseguir (¿alquilándola?) una máquina más grande. Seguramente es la opción más barata si se tienen todos los factores en cuenta.
 
-El artículo discute una estrategia basada en la combinación de [`bigmemory`](http://cran.r-project.org/web/packages/bigmemory/index.html) (y los paquetes relacionados) y [`foreach`](http://cran.r-project.org/web/packages/foreach/index.html). Yo confieso no haber utilizado ninguno. Para paralelizar, con [`parallel`](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf) me ha bastado (aunque igual cambio de parecer cuando me decidad, de una vez por todas, a montar un _clúster_). Y con `[data.table](http://cran.r-project.org/web/packages/data.table/index.html)` y un poco de cuidado, resuelvo casi todos mis problemas de espacio. Pero a algún maestrillo le puede gustar adoptar ese librillo.
+El artículo discute una estrategia basada en la combinación de [`bigmemory`](http://cran.r-project.org/web/packages/bigmemory/index.html) (y los paquetes relacionados) y [`foreach`](http://cran.r-project.org/web/packages/foreach/index.html). Yo confieso no haber utilizado ninguno. Para paralelizar, con [`parallel`](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf) me ha bastado (aunque igual cambio de parecer cuando me decidad, de una vez por todas, a montar un _clúster_). Y con [`data.table`](http://cran.r-project.org/web/packages/data.table/index.html) y un poco de cuidado, resuelvo casi todos mis problemas de espacio. Pero a algún maestrillo le puede gustar adoptar ese librillo.
 
 Dicho lo cual, reitero que uno de mis proyectos más a corto para dejar solucionados de una vez por todas este tipo de problemas es comenzar a trabajar con [Spark](http://spark.apache.org/).

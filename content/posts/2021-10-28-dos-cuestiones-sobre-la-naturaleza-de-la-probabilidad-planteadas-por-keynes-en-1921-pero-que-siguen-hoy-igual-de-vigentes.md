@@ -5,8 +5,7 @@ categories:
 - libros
 - probabilidad
 date: 2021-10-28 00:36:19+00:00
-draft: false
-lastmod: '2025-04-06T18:53:10.058499'
+lastmod: '2026-03-22'
 related:
 - 2021-01-19-estos-keynesianos-ven-el-mundo-de-una-manera-muy-muy-loca.md
 - 2023-07-25-tutorial-numpyro-1-modelos-probabilisticos.md
@@ -26,12 +25,11 @@ url: /2021/10/28/dos-cuestiones-sobre-la-naturaleza-de-la-probabilidad-planteada
 
 **I.**
 
-_A Treatise on Probability_, la obra de Keynes (sí, el famoso) de 1921, es un libro muy extraño que se puede leer de muchas maneras. Puede servir, si se hace poco caritativamente, para denunciar el lastimoso estado en el que se encontraba la probabilidad antes de la axiomatización de Kolmogorov, 12 años depués de su publicación. O también, si se hace más cuidadosamente, para rescatar una serie de consideraciones que aun hoy muchos hacen mal en ignorar.
+_A Treatise on Probability_, la obra de Keynes (sí, el famoso) de 1921, es un libro muy extraño que se puede leer de muchas maneras. Puede servir, si se hace poco caritativamente, para denunciar el lastimoso estado en el que se encontraba la probabilidad antes de la axiomatización de Kolmogorov, 12 años después de su publicación. O también, si se hace más cuidadosamente, para rescatar una serie de consideraciones que aun hoy muchos hacen mal en ignorar.
 
 Lo que no se le puede negar a Keynes es que fundamente todas las cuestiones que trata en casos y ejercicios prácticos que son tan actuales hoy como entonces. En algún punto del libro denuncia cómo muchos de los probabilistas que lo precedieron se restringieron a un conjunto muy concreto y simple de problemas en los que las cuestiones relativas a los fundamentos de la probabilidad son menos acuciantes, pero él no las rehuye y, en efecto, arranca una de las secciones más interesantes del libro con un [traduzco]:
 
 >Si pasamos de las opiniones de los teóricos a la experiencia de los hombres que la practican [...]
-
 
 **II.**
 
@@ -45,7 +43,7 @@ donde O es la imposibilidad, I es la certeza absoluta y los segmentos representa
 
 **III.**
 
-El capítulo VI, por ora parte, discute los llamados _pesos de los argumentos_ y en él plantea la posibilidad y se inclina por sostener que la probabilidad es un objeto bidimensional, una especie de tupla, que agrupa la probabilidad en sí por una parte y el grado de certeza que tenemos de que ese valor sea el correcto. No sería entonces lo mismo (1/2, 4) que (1/2, 10): en el segundo caso representaría una situación en la que hemos acumulado mucha más evidencia acerca de la probabilidad del fenómeno.
+El capítulo VI, por otra parte, discute los llamados _pesos de los argumentos_ y en él plantea la posibilidad y se inclina por sostener que la probabilidad es un objeto bidimensional, una especie de tupla, que agrupa la probabilidad en sí por una parte y el grado de certeza que tenemos de que ese valor sea el correcto. No sería entonces lo mismo (1/2, 4) que (1/2, 10): en el segundo caso representaría una situación en la que hemos acumulado mucha más evidencia acerca de la probabilidad del fenómeno.
 
 **IV.**
 

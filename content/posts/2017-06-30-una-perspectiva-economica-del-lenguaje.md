@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2017-06-30 08:13:19+00:00
-draft: false
-lastmod: '2025-04-06T19:03:31.627588'
+lastmod: '2025-03-22'
 related:
 - 2017-10-06-una-comparacion-de-lenguajes-de-programacion-en-una-esquinita-pequena-de-la-economia.md
 - 2022-07-28-temas-nadaesgratis.md
@@ -24,4 +23,4 @@ Lo que se echa de menos y sobre lo que hay muchísimo menos escrito es de la rel
 
 La [página de la Wikipedia al respecto](https://en.wikipedia.org/wiki/Economics_of_language) es breve y las referencias accesibles gratuitamente deben de ser las peores.
 
-Tengo _Language and economy_, de [Florian Coulmas](https://en.wikipedia.org/wiki/Florian_Coulmas), en mi lista de los deseos de [LibGen](http://gen.lib.rus.ec/) porque todavía no está disponible. A ver si alguien tiene la caridad de subirlo ahí un día (o me lo envía en algún formato electrónico), le puedo echar un vistazo y sigo con este interensantísimo tema con más y mejor —¿o debería decir "algún"?— criterio.
+Tengo _Language and economy_, de [Florian Coulmas](https://en.wikipedia.org/wiki/Florian_Coulmas), en mi lista de los deseos de [LibGen](http://gen.lib.rus.ec/) porque todavía no está disponible. A ver si alguien tiene la caridad de subirlo ahí un día (o me lo envía en algún formato electrónico), le puedo echar un vistazo y sigo con este interesantísimo tema con más y mejor ---¿o debería decir «algún»?--- criterio.

@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2015-02-25 08:13:35+00:00
-draft: false
-lastmod: '2025-04-06T18:49:29.034218'
+lastmod: '2026-03-22'
 related:
 - 2011-02-28-programacion-funcional-en-r-reduce.md
 - 2021-05-18-un-viejo-truco-para-que-r-vuele.md

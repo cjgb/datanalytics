@@ -73,7 +73,7 @@ ggplot(diferencias, aes(x = dia, y = diferencia)) + geom_line() + facet_wrap(~ci
 
 Y bueno, como todo el mundo tiene comentarios respecto a lo de los horarios y no no soy la excepción, van ahí los míos:
 
-* El problema no es que la gente se levante una hora antes o depués.
+* El problema no es que la gente se levante una hora antes o después.
 * El problema no es que el sol esté en un lugar u otro a la hora al a que se levanta la gente.
 * El problema es que a todos nos obligan a levantarnos a la misma hora.
 * Y todos cogemos el metro, la Nacional II, el cercanías, la avenida de San José, etc. a la vez.
