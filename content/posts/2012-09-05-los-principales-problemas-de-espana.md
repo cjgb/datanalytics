@@ -4,7 +4,6 @@ categories:
 - estadística
 - números
 date: 2012-09-05 06:38:07+00:00
-draft: false
 lastmod: '2025-04-06T18:48:52.298666'
 related:
 - 2017-04-03-tres-grandes-problemas-que-ocupan-pero-segun-el-cis-no-preocupan.md
@@ -80,8 +79,7 @@ ggplot(x.df, aes(x=dates, y=value)) + geom_line() + opts(legend.position = "none
 
 se genera el gráfico
 
-[![](/img/2012/09/problemas_cis.png#center)
-](/img/2012/09/problemas_cis.png#center)
+![](/img/2012/09/problemas_cis.png#center)
 
 en el que se entenderían más cosas si algunas etiquetas fuesen menos prolijas.
 

@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2012-05-07 07:37:56+00:00
-draft: false
 lastmod: '2025-04-06T18:53:14.070252'
 related:
 - 2012-01-02-iva-irpf-y-cosas-que-no-entiendo.md
@@ -26,6 +25,6 @@ Aparte de la del color, tengo otra propuesta que, quiero avisar de antemano, es 
 
 En primer lugar, en lugar de una ley anual para el impuesto, habría que redactar una perpetua, revisable solo cada 10 o 20 años, en la que no apareciese ninguna cifra, que fuese perfectamente paralelizable. Esta ley podría escribirse, por ejemplo, en Java o en Python. Esta _ley_ recogería los aspectos formales y de procedimiento del impuesto.
 
-En segundo lugar, cada año el gobierno propondría una ley anual que tendría la forma de un fichero de parámetros (con extensión .ini o .xml, por ejemplo) que, combinado con la _ley_ anterior permitiese a los ciudadanos no solo calcular su impuesto, sino comparar los resultados con los de años anteriores, etc. Este fichero de parámetros podría discutirse en el parlamento y los distintos grupos políticos podrían discutir la conveniencia de que un determinado parámetro tuviese el valor de 6,74 o de 5,37, por ejemplo, mediante enmiendas parciales. O enviar una enmienda a la totalidad (también un fichero de configuración) que permitiese igualmente a los ciudadanos realizar comparaciones entre las propuestas de unos y otros grupos politicos.
+En segundo lugar, cada año el gobierno propondría una ley anual que tendría la forma de un fichero de parámetros (con extensión .ini o .xml, por ejemplo) que, combinado con la _ley_ anterior permitiese a los ciudadanos no solo calcular su impuesto, sino comparar los resultados con los de años anteriores, etc. Este fichero de parámetros podría discutirse en el parlamento y los distintos grupos políticos podrían discutir la conveniencia de que un determinado parámetro tuviese el valor de 6,74 o de 5,37, por ejemplo, mediante enmiendas parciales. O enviar una enmienda a la totalidad (también un fichero de configuración) que permitiese igualmente a los ciudadanos realizar comparaciones entre las propuestas de unos y otros grupos políticos.
 
 **Nota:** A veces voy más allá y pienso que debería cambiarse el Título I de la Constitución, el que recoge los derechos y deberes fundamentales, para que añada el de la simplicidad y ergonomía del entramado legal que de aquella emanan: menos derecho romano y más Euclides.
