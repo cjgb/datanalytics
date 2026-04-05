@@ -20,7 +20,7 @@ title: ¿Hay una epidemia en mi grafo?
 url: /2016/02/26/hay-una-epidemia-en-mi-grafo/
 ---
 
-Tengo un grafo, `g` cuyas aristas pueden ser cualquier cosa susceptible de _contaminarse_. Me pregunto si la contaminación puede contagiarse a través del grafo. Es decir, si A y B están unidos por una arista y A está contaminado, la probabilidad de que B también lo esté es superior a la normal.
+Tengo un grafo, `g` cuyos vértices pueden ser cosas susceptibles de _contaminarse_. Me pregunto si la contaminación puede contagiarse a través del grafo. Es decir, si A y B están unidos por una arista y A está contaminado, la probabilidad de que B también lo esté es superior a la normal.
 
 Se me ocurre probar esa hipótesis así:
 
@@ -35,7 +35,7 @@ min.mean.dist <- function(n){
   # contaminación al azar
   contaminados <- sample(V(g), n)
 
-  # distancias entre aristas contaminadas
+  # distancias entre nodos contaminados
   res <- shortest.paths(g,
     v = contaminados, to = contaminados)
   diag(res) <- Inf
