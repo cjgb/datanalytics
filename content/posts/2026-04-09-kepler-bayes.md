@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística bayesiana
 date: 2026-04-09
-description: null
+description: Reproduciendo la estimación de la excentricidad de la órbita terrestre de Kepler con herramientas modernas (y estadística bayesiana).
 lastmod: '2026-04-03T19:21:51.075997'
 related:
 - 2023-01-18-modelo-poisson-numpyro.md
