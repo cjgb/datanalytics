@@ -20,7 +20,7 @@ title: Sobre la lógica doxástica, el teorema de Bayes, el problema de Monty Ha
 url: /2025/06/17/cortos-probabilidad/
 ---
 
-- La [lógica doxástica](https://es.wikipedia.org/wiki/L%C3%B3gica_dox%C3%A1stica) de la que nos habla Gelman [aquí](https://statmodeling.stat.columbia.edu/2025/04/18/doxastic-logic-a-model-of-beliefs/) se refiere a un tipo de lógica que opera sobre creencias que no tienen asociados verdadero o falso sino, más bien, otros del tipo _el sujeto cree que X es cierto_. Se pregunta Gelman si existirá alguna versión probabilística o bayesiana de la cosa y me pregunto por qué no ha caído en toda la [obra de Jaynes](https://datanalytics.com/tags/jaynes/) ---por poner solo un ejemplo---, que trata precisamente sobre eso.
+- La [lógica doxástica](https://es.wikipedia.org/wiki/L%C3%B3gica_dox%C3%A1stica) de la que nos habla Gelman [aquí](https://statmodeling.stat.columbia.edu/2025/04/18/doxastic-logic-a-model-of-beliefs/) se refiere a un tipo de lógica que opera sobre creencias que no tienen asociados valores «verdadero» o «falso» sino, más bien, otros del tipo «el sujeto cree que X es cierto». Se pregunta Gelman si existirá alguna versión probabilística o bayesiana de la cosa y me pregunto por qué no ha caído en toda la [obra de Jaynes](https://datanalytics.com/tags/jaynes/) ---por poner solo un ejemplo---, que trata precisamente sobre eso.
 
 - Hace unas semanas, de repente, todo el mundo pareció ocupado en construir su propia aproximación intuitiva para tratar de entender y, en última instancia, popularizar el teorema de Bayes y su uso como pretendida piedra de toque de la racionalidad. Uno de los ensayos más populares de la ola es [este](https://www.astralcodexten.com/p/bayes-for-everyone).
 

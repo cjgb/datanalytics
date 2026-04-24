@@ -55,7 +55,7 @@ El gráfico anterior explora tres posibles circunstancias en las que pueden apar
 
 En este caso, esa causa común es el invierno. El invierno favorece la fijación de los contaminantes a ras de suelo. El invierno afecta a la gente con enfermedades respiratorias incluso donde la contaminación no es apreciable. Fin.
 
-Es posible que alguien piense (es encomiable) que los dos efectos se suman y pretenda deslindar el uno del otro. Tendrá que tener muy buena suerte para poder distinguir el primero y muy fuerte (el del frío) de otro mucho menor que está además condicionado por una variable, la exposición a la contaminación, que es imposible de medir decentemente. Es algo solo es abordable con dinero de los demás.
+Es posible que alguien piense (es encomiable) que los dos efectos se suman y pretenda deslindar el uno del otro. Tendrá que tener muy buena suerte para poder distinguir el primero y muy fuerte (el del frío) de otro mucho menor que está además condicionado por una variable, la exposición a la contaminación, que es imposible de medir decentemente. Eso solo es abordable con dinero de los demás.
 
 En definitiva, existen disciplinas enteras (véase [esto](https://datanalytics.com/2016/10/31/modelos-graficos-probabilisticos-en-coursera/) y [esto](https://datanalytics.com/2014/06/24/causalidad-a-la-pearl-y-el-operador-do/)) que estudian estas cuestiones y con cuyos rudimentos conviene familiarizarse antes de pontificar.
 

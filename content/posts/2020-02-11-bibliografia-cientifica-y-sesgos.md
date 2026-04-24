@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 - mala ciencia
-date: 2020-02-11 09:13:00+00:00
-draft: false
+date: 2020-02-11
 lastmod: '2025-04-06T18:47:55.089126'
 related:
 - 2015-11-18-reescrituras-interesadas-de-resultados-estadisticos-mas-o-menos-conocidos.md

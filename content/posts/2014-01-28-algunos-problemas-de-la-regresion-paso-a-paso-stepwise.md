@@ -36,10 +36,10 @@ Problemas de la regresión paso a paso:
 
 Algunas conclusiones:
 
-* El grado de correlación entre las variables predictoras afecta a la frencuencia en que los verdaderos predictores entran en la selección final.
-* El número de predictores afecta al número de _variables ruido _en la selección final.
+* El grado de correlación entre las variables predictoras afecta a la frecuencia en que los verdaderos predictores entran en la selección final.
+* El número de predictores afecta al número de _variables ruido_ en la selección final.
 * El tamaño de la muestra tiene poca importancia a la hora de determinar el número de variables _auténticas_ en el modelo final.
 
-Me consta que en algunos sectores (p.e., seguros) son _todavía_ muy proclives a plantear modelos (p.e., GLM) con muchas variables —las que son más todas sus interacciones de todos los niveles—, dejar correr un método paso y volver a las horas por los resultados. ¡Miedo me da!
+Me consta que en algunos sectores (p.e., seguros) son _todavía_ muy proclives a plantear modelos (p.e., GLM) con muchas variables —las que son más todas sus interacciones de todos los niveles—, dejar correr un método paso a paso y volver a las horas por los resultados. ¡Miedo me da!
 
 Yo, por mi parte, también me confieso pecador. Alguna vez, cuando métodos más modernos que los clásicos estaban fuera de cuestión —por el contexto del estudio— me he visto obligado a incurrir en los métodos paso a paso. No sé, por ejemplo, cuántas alternativas existen a estos métodos tan viejunos cuando uno quiere publicar en una revista de, p.e., sociología.

@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2012-10-03 07:15:30+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:58:32.691411'
 related:
 - 2014-08-12-tienen-sentido-las-tasas-municipales-de-desempleo.md
@@ -23,8 +23,7 @@ url: /2012/10/03/un-pequeno-ejercicio-de-agudeza-visual/
 
 Consiste en echarle un vistazo a
 
-[![](/img/2012/10/verdadero_falso.png#center)
-](/img/2012/10/verdadero_falso.png#center)
+![](/img/2012/10/verdadero_falso.png#center)
 
 y pensar si hay relación entre las variables x e y que aparecen en el gráfico.
 

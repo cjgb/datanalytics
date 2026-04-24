@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 - r
-date: 2017-10-23 08:13:15+00:00
-draft: false
+date: 2017-10-23
 lastmod: '2025-04-06T19:05:06.240231'
 related:
 - 2017-10-16-modelos-no-lineales-directos-e-inversos.md

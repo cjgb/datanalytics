@@ -22,7 +22,7 @@ url: /2016/11/25/estereotipos-y-estadistica/
 
 El porcentaje de mosquitos que pueden transmitir enfermedades es pequeño, muy pequeño. Sin embargo, decimos que los mosquitos transmiten enfermedades sin empacho.
 
-Un porcentaje mucho mayor de los libros tienen tapas blandas. Sin embargo, no decimos que los libros tienen tapas blandas.
+Un porcentaje mucho mayor de los libros tiene tapas blandas. Sin embargo, no decimos que los libros tienen tapas blandas.
 
 Si evaluamos juicios similares con sujetos que son grupos sociales, religiones, razas, etc. las cosas se tornan la mar de entretenidas.
 

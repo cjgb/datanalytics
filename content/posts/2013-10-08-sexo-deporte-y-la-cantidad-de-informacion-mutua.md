@@ -4,8 +4,7 @@ categories:
 - consultoría
 - estadística
 - r
-date: 2013-10-08 07:46:13+00:00
-draft: false
+date: 2013-10-08
 lastmod: '2025-04-06T18:59:40.485876'
 related:
 - 2011-09-22-anonimidad-y-cantidad-de-informacion.md
@@ -23,7 +22,7 @@ url: /2013/10/08/sexo-deporte-y-la-cantidad-de-informacion-mutua/
 
 Perdón por el titular. No soy inasequible a las modas.
 
-La cuestión del día de hoy es la siguiente: tenemos una variable X inobservable y otra variable Y potencialmente correlacionada con X. ¿Cuánto podemos decir de X de conocida Y?
+La cuestión del día de hoy es la siguiente: tenemos una variable X inobservable y otra variable Y potencialmente correlacionada con X. ¿Cuánto podemos decir de X de conocerse Y?
 
 Supongamos que ambas son binarias. Si conozco Y poseo 1 bit de información. Si solo conozco X (que me da pistas sobre Y) conoceré una fracción de un bit de información (sobre Y).
 

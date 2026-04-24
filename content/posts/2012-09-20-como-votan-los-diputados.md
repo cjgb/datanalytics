@@ -147,3 +147,5 @@ que genera
 y que reordena diputados por un lado y asuntos por el otro para mostrar de qué manera _inciden_ los unos sobre los otros. Se aprecian bastante claramente los dos grandes grupos políticos y, para mi sorpresa, un par de bloques de asuntos relativamente amplios en los que votaron de acuerdo.
 
 Los datos, estoy seguro, dan para muchas más cosas. Y tengo confianza en que alguien recogerá el guante y nos iluminará con incisivas preguntas y brillantes respuestas. Si en el camino piensa que puedo echarle una mano, que me escriba. Estaré encantado de ayudarle.
+
+**Coda:** Seis años después, escribí [_¿Siguen votando igual los diputados?_](https://datanalytics.com/2018/11/08/siguen-votando-igual-los-diputados/)
