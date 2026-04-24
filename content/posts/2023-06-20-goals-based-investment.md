@@ -14,6 +14,7 @@ tags:
 - inversiones
 - goals based investment
 - probabilidad
+- finanzas
 title: '"Goals based investment" (y su relación con la modelización probabilística)'
 url: /2023/06/20/goals-based-investment/
 ---
