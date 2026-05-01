@@ -45,7 +45,7 @@ print(parms)
 #  5.8875 111.8625
 ```
 
-Una elección estándar de las prioris sería considerar $A, B \sim \text{Beta}(a, b)$ independientes. Entonces cabe preguntarse si la distribución a priori es compatible o no con lo que se esperaría al observar datos y la respuesta es negativa.
+Una elección estándar de las prioris sería considerar $A, B \sim \text{Beta}(a, b)$ independientes. Entonces cabe preguntarse si la distribución a priori es compatible o no con lo que se esperaría al observar datos. La respuesta es negativa.
 
 En efecto, si se hace
 
