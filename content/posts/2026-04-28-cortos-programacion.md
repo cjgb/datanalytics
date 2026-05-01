@@ -2,7 +2,7 @@
 author: Carlos J. Gil Bellosta
 categories:
 - cortos
-date: 2026-12-28
+date: 2026-04-28
 description: Selección de artículos sobre programación, geometría, «pipelines» en
   R y algunos asuntos más.
 lastmod: '2026-04-24T13:53:51.461187'
