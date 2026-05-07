@@ -29,7 +29,7 @@ Fácil:
 library(maptools)
 library(ggmap)
 
-# un fichero bajado el Ayto. de Madrid
+# un fichero bajado del Ayto. de Madrid
 # (catálogo de datos abiertos)
 rutas <- getKMLcoordinates("dat/130111_vias_ciclistas.kml")
 

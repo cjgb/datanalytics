@@ -2,8 +2,8 @@
 author: Carlos J. Gil Bellosta
 categories:
 - r
-date: 2015-12-11 08:13:41+00:00
-draft: false
+date: 2015-12-11
+noindex: true
 lastmod: '2025-04-06T18:52:47.525869'
 related:
 - 2013-04-01-rpython-ya-esta-en-cran.md

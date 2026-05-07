@@ -1,12 +1,12 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
-- números
+- estadística
 date: 2026-05-14
 description: 'A propósito de una entrada de Andrew Gelman: ¿tres formas cualitativamente
   distintas de abordar un problema estadístico o variaciones dentro de un mismo esquema
   general?'
-lastmod: '2026-05-08T00:43:45.844385'
+lastmod: '2026-05-08'
 related:
 - 2016-09-20-tres-metaprincipios-estadisticos-que-se-quedan-en-dos-que-se-quedan-en-uno.md
 - 2021-01-26-que-modelas-cuando-modelas.md
@@ -14,9 +14,8 @@ related:
 - 2024-04-18-estadistica-individuos.md
 - 2025-05-20-cortos-estadistica.md
 tags:
-- economía
-- estadística pública
-- paradoja de simpson
+- estadística
+- probabilidad
 title: Tres maneras de «atacar» un problema estadístico (¿o es una sola?)
 url: /2026/05/14/tres-maneras-problema-estadistico/
 ---

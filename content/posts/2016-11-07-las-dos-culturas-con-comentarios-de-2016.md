@@ -23,7 +23,7 @@ En 2012 mencioné de pasada ese [artículo de Breiman](https://datanalytics.com/
 
 ![leo_breiman](/img/2016/11/Leo_Breiman.jpg)
 
-Lo he visto utilizar recientemente como punto de partida en discusiones sobre lo distinto o no que puedan ser la ciencia de datos y la estadística. Y espero que, efectivamente, se haya usado como punto de partida y no como otra cosa porque el artículo tiene 15 años (cerrad los ojos y pensad dónde estabais en 2001 y cómo era el mundo entonces).
+Lo he visto utilizar recientemente como punto de partida en discusiones sobre lo distintas que puedan ser ---o no--- la ciencia de datos y la estadística. Y espero que, efectivamente, se haya usado como punto de partida y no como otra cosa porque el artículo tiene 15 años (cerrad los ojos y pensad dónde estabais en 2001 y cómo era el mundo entonces).
 
 Por eso escribí recientemente en un foro de discusión privado unas cuantas líneas que creo que merecen ser reproducidas en la ancha internet. Son:
 

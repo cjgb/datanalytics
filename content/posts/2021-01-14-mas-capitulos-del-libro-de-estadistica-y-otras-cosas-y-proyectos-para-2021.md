@@ -2,8 +2,8 @@
 author: Carlos J. Gil Bellosta
 categories:
 - anuncio
-date: 2021-01-14 09:13:00+00:00
-draft: false
+date: 2021-01-14
+noindex: true
 lastmod: '2025-04-06T19:08:42.472211'
 related:
 - 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md

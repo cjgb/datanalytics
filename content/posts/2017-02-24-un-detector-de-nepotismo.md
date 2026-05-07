@@ -18,7 +18,7 @@ title: ¿Un detector de nepotismo?
 url: /2017/02/24/un-detector-de-nepotismo/
 ---
 
-Un conocido quiere cambiar de vida, dejar la hostelería y formalizarse. Es decir, buscarse un empleo fijo, con horario definido y, a poder ser, cobrando o del Estado o de alguna de sus submanifestaciones administrativas.
+Un conocido quiere cambiar de vida, dejar la hostelería y formalizarse. Es decir, buscarse un empleo fijo, con horario definido y, a poder ser, cobrando o del estado o de alguna de sus submanifestaciones administrativas.
 
 Ha estado indagando cómo convertirse en conductor del metro (de Madrid, para más señas) pero lo ha dejado enseguida. Dizque sin enchufe, no hay nada que hacer: allí solo trabajan los hijos, sobrinos, ¿parejas sentimentales?, etc. de. Los demás, lo tienen crudo. Así que busca por otra parte.
 
