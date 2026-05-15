@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2013-09-03 07:18:58+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:47:33.065826'
 related:
 - 2017-09-29-bus-al-norte-bus-al-sur.md

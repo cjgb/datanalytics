@@ -40,7 +40,7 @@ IP, usuario y contraseña (que acabamos de obtener) te valdrán de bien poco si 
 
 La opción `-g 90%` me proporciona una ventana de tamaño generoso. Muy útil para manejarse por los menús inútilmente táctiles del sistema operativo remoto.
 
-Hay que subir el fichero `.bak` a Amazon. Habrá mecanismos mejorables, pero me he decantado por bajarlo de Dropbox. Paso configurar ftp en Windows.
+Hay que subir el fichero `.bak` a Amazon. Habrá mecanismos mejorables, pero me he decantado por bajarlo de Dropbox. Paso de configurar `ftp` en Windows.
 
 El programa que tienes que abrir en Windows es el que tiene como logotipo un cilindro amarillo, una llave inglesa y un martillo (también llamado SQL Server Management Studio). Hay tutoriales que indican [cómo importar un fichero `.bak`](https://msdn.microsoft.com/en-us/library/ms177429(SQL.90).aspx) y estoy justo en estos momentos tratando de exportar la base de datos (no es tan grande) a Excel usando el asistente de exportación.
 

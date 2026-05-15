@@ -39,6 +39,6 @@ Cosas que echo de menos:
 
 Acerca del primer punto, lo que sí que se hace en el artículo es agregar los cinco niveles en dos. Dos y no tres. Cortando por un punto y no por otro. ¿Por qué no malpensar que esas decisiones se tomaron para que los resultados resultasen más fotogénicos? Yo creo que los autores retuercen el hilo de la metodología para arrimar el ascua a su sardina. Y que el hecho de que no muestren la información que uno más naturalmente pediría significa, probablemente, que tienen un montón de basura debajo de la alfombra.
 
-Por lo demás, sí, han transcrito muy correctitamente los estadísticos que SPSS en su vigésima versión ofrece a quien aprendió a navegar sus vericuetosos menúes.
+Por lo demás, sí, han transcrito muy correctitamente los estadísticos que SPSS en su vigésima versión ofrece a quien aprendió a navegar sus vericuetosos menús.
 
 **Nota:** Uso prestada en el título de esta entrada nomenclatura de Gustavo Bueno. Las matemáticas y la estadística, al igual que los mitos, pueden ser utilizadas para aclarar e iluminar, pero también para confundir y oscurecer.

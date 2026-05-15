@@ -19,6 +19,6 @@ title: Lenguajes de programación probabilísticos
 url: /2016/03/09/lenguajes-de-programacion-probabilisticos/
 ---
 
-Son lenguajes de programación _diseñados para describir modelos probabilísticos y realizar inferencias ellos_.
+Son lenguajes de programación _diseñados para describir modelos probabilísticos y realizar inferencias sobre ellos_.
 
 El resto de la entrada de la Wikipedia sobre este apasionante (y lo uso sin retintín) tema, [aquí](https://en.wikipedia.org/wiki/Probabilistic_programming_language) (y puede que también quieras visitar [esto](http://probabilistic-programming.org)).

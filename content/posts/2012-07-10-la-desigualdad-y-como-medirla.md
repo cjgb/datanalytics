@@ -22,15 +22,15 @@ title: La desigualdad y cómo medirla
 url: /2012/07/10/la-desigualdad-y-como-medirla/
 ---
 
-Últimamente he tenido bastantes visitas del extranjero. Las llevo a pasear por el centro de Madrid, ¡qué remedio! Y siempre surge el mismo comentario: habiendo crisis que nos cuentan los periódicos, ¿cómo es que están las terrazas a rebosar? Y mi respuesta es siempre la misma: lo que se ve no es la crisis; lo que se ve, en el fondo, es la desigualdad.
+Últimamente he tenido bastantes visitas del extranjero. Las llevo a pasear por el centro de Madrid, ¡qué remedio! Y siempre surge el mismo comentario: habiendo la crisis que nos cuentan los periódicos, ¿cómo es que están las terrazas a rebosar? Y mi respuesta es siempre la misma: lo que se ve no es la crisis; lo que se ve, en el fondo, es la desigualdad.
 
 Otros han escrito, y mucho mejor de lo que lo haría yo, sobre lo pernicioso de la desigualdad en la economía e incluso, sobre la misma democracia. Yo me limitaré a exponer algunos problemas que produce su cuantificación.
 
-Uno de los indicadores de desigualdad por excelencia es el [índice de Gini](http://en.wikipedia.org/wiki/Gini_coefficient). Aunque relativamente intuitivo y fácil de calcular, adolece de algunas [deficiencias que ha puesto de evidencia el Banco Mundial](http://blogs.worldbank.org/developmenttalk/monitoring-inequality?cid=EXT_TWBN_D_EXT). Por ejemplo, el crecimiento económico de China, un país que partía de unos niveles de renta mínimos, ha hecho descender el índice global de desigualdad. Sin embargo, paradójicamente, la desigualdad ha crecido enormemente en dicho país.
+Uno de los indicadores de desigualdad por excelencia es el [índice de Gini](http://en.wikipedia.org/wiki/Gini_coefficient). Aunque relativamente intuitivo y fácil de calcular, adolece de algunas [deficiencias que ha puesto de manifiesto el Banco Mundial](http://blogs.worldbank.org/developmenttalk/monitoring-inequality?cid=EXT_TWBN_D_EXT). Por ejemplo, el crecimiento económico de China, un país que partía de unos niveles de renta mínimos, ha hecho descender el índice global de desigualdad. Sin embargo, paradójicamente, la desigualdad ha crecido enormemente en dicho país.
 
 Y esto sucede porque los índices tradicionales y más usados de desigualdad no permiten descomponerla en sus dos componentes principales, i.e., la desigualdad entre países y la desigualdad dentro de cada país, y estudiar su evolución por separado.
 
-Un artículo de F. Bourguignon, [_Decomposable Income Inequality Measures_](http://www.jstor.org/discover/10.2307/1914138?uid=3737952&uid=2&uid=4&sid=21100907325061) estudia unas cuantas de ellas y las clasifica en función de si cumplen una serie de criterios deseables:
+Un artículo de F. Bourguignon, [_Decomposable Income Inequality Measures_](http://www.jstor.org/discover/10.2307/1914138?uid=3737952&uid=2&uid=4&sid=21100907325061) estudia algunas de ellas y las clasifica en función de si cumplen una serie de criterios deseables:
 
 [![](/img/2012/07/decomposable_inequality_measures.png#center)
 ](/img/2012/07/decomposable_inequality_measures.png#center)
