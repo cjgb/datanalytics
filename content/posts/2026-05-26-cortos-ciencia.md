@@ -3,13 +3,21 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2026-05-26
-description: "Notas varias sobre ciencia, conocimiento y tecnología."
+description: Notas varias sobre ciencia, conocimiento y tecnología.
+lastmod: '2026-05-24T18:29:06.453038'
+related:
+- 2025-07-15-cortos-mala-ciencia.md
+- 2026-03-23-cortos.md
+- 2025-09-30-mala-ciencia.md
+- 2024-12-10-cortos-stats.md
+- 2026-04-21-cortos.md
 tags:
 - ciencia
 - llms
 - mala ciencia
 - fraude
-title: 'Notas (22): de la lentitud de los trenes en EEUU al velo de la ignorancia de Rawls'
+title: 'Notas (22): de la lentitud de los trenes en EEUU al velo de la ignorancia
+  de Rawls'
 url: /2026/05/26/cortos-ciencia/
 ---
 
