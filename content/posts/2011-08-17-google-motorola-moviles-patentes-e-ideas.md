@@ -27,7 +27,7 @@ La noticia de que Google acaba de comprar la división de telefonía móvil de M
 
 Aunque los motivos últimos sean, probablemente, una mezcla de estos y, posiblemente, otros motivos, el factor patentes no es circunstancial. En julio, Google se quedó sin las 6000 patentes de la extinta Nortel al verse superado en la subasta por un consorcio de empresas (Apple, RIM, Sony y otras) que pagó 4500 millones de dólares por ellas.
 
-Hay buenos motivos para pensar que gran parte de estas patentes tienen una _finalidad defensiva_. Interesan no tanto por los _royalties_ que puedan devengar como por sus efectos disuasorios frente a litigios planteados por terceros: si tu me demandas por infringir mis patentes, seguro que yo encuentro también alguna en mi archivo que tú también infringes.
+Hay buenos motivos para pensar que gran parte de estas patentes tienen una _finalidad defensiva_. Interesan no tanto por los _royalties_ que puedan devengar como por sus efectos disuasorios frente a litigios planteados por terceros: si tú me demandas por infringir mis patentes, seguro que yo encuentro también alguna en mi archivo que tú también infringes.
 
 Las patentes crean mini-monopolios: el inventor —más bien, la organización en que trabaja— se hace con los derechos de explotación de la idea durante un periodo de tiempo determinado. Pero asociado a todo monopolio existe lo que los economistas llaman una _pérdida estática_: yo no puedo incorporar la idea de otro a un producto sin repercutir los _royalties_ en mis clientes. Este dinero va a parar a un rentista, aquel que posee los derechos de la patente. El efecto es el mismo que un impuesto sobre el consumo.
 

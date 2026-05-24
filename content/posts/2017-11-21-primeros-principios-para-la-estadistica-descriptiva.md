@@ -38,4 +38,4 @@ La tercera cuestión es la más importante: ¿por qué es esta discusión releva
 
 En segundo lugar, creo que es relevante porque puede ayudar a replantear la enseñanza y la divulgación de los buenos usos en estadística descriptiva. Habrá siempre, por supuesto, un nivel básico con el que satisfacer las necesidades de alfabetización numérica elemental de la chusma. Pero puede servir para replantear y sentar sobre bases más sólidas otros programas formativos para quienes estén o pretendan llegar más allá.
 
-Muy en particular, esta _ocurrencia_ me está haciendo considerar la conveniencia de a mover de sitio y reescribir casi por entero el capítulo relevante de mi protocurso de estadística para estadísticos.
+Muy en particular, esta _ocurrencia_ me está haciendo considerar la conveniencia de mover de sitio y reescribir casi por entero el capítulo relevante de mi protocurso de estadística para estadísticos.
