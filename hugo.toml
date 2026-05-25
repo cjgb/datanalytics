@@ -1,11 +1,14 @@
 title = "Carlos J. Gil Bellosta"
 description = "Blog de Carlos J. Gil Bellosta - Estadística, análisis de datos, inteligencia artificial, machine learning, data science y más"
 baseURL = "https://datanalytics.com/"
-languageCode = "es"
 defaultContentLanguage = "es"
 enableRobotsTXT = true
 
 rssLimit = 20        # Only the last 20 posts
+
+[languages.es]
+  locale = "es"
+
 
 [outputs]
   home = ['html', 'rss', 'json']  # Added json for search
