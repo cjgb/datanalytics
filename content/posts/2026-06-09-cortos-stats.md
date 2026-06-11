@@ -20,7 +20,7 @@ tags:
 - stan
 - irt
 title: 'Notas (24): la paradoja de Berkson en acción y otros asuntos'
-url: /2026/04/21/cortos-estadistica/
+url: /2026/06/09/cortos-estadistica/
 ---
 
 Mi viejo colega J.L. Cañadas ha publicado su consuetudinario [análisis de las encuestas electorales, esta vez para las elecciones andaluzas de 2026](https://muestrear-no-es-pecado.netlify.app/2026/05/meta-analisis-andalucia.html). La novedad de este año es que ha delegado el trabajo en Claude: le ha pasado los enlaces de las anteriores y le ha pedido que lo replique. Y nada mal. Como anécdota, contaré que yo también traté luego de replicar sus resultados usando modelos gratuitos para ver si respondían mucho peor que Claude pero luego caí en la cuenta de que uno de ellos había encontrado por su cuenta la entrada enlazada más arriba y la había copiado literalmente. Hay modelos listos y modelos espabilados, parece.

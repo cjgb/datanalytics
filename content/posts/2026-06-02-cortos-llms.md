@@ -18,7 +18,7 @@ tags:
 - ciberseguridad
 - cambio climático
 title: 'Notas (23): noticias recientes sobre el mundo de los LLMs'
-url: /2026/04/21/cortos-llms/
+url: /2026/06/02/cortos-llms/
 ---
 
 Simon Willison argumenta que [la ciberseguridad se está convirtiendo en un sistema de «prueba de trabajo»](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything) donde la robustez de un sistema dependerá de gastar más recursos en encontrar vulnerabilidades que los atacantes. Además, como consecuencia de lo anterior, que esto redundaría en una ventaja competitiva de las librerías de código abierto, ya que el esfuerzo invertido en asegurarlas mediante IA se compartiría entre todos sus usuarios. Lo que no me parece un razonamiento particularmente bien basado en primeros principios (económicos), si es que estos sirven para algo hoy en día.
