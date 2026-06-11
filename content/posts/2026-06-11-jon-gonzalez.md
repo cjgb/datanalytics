@@ -1,11 +1,12 @@
 ---
 author: Carlos J. Gil Bellosta
 categories:
+- gráficos
 - estadística
 date: 2026-06-11
 description: También, sobre los gráficos estadísticos como herramientas de persuasión
   y el uso estratégico de los grados de libertad que existen a la hora de construirlos.
-lastmod: '2026-06-04T14:07:27.611708'
+lastmod: '2026-06-04'
 related:
 - 2023-04-24-estadistica-creativa.md
 - 2025-05-20-cortos-estadistica.md
@@ -14,9 +15,12 @@ related:
 - 2022-02-22-grafico-quitarse-sombrero.md
 tags:
 - estadística
-- correlación
+- gráficos
+- estadística pública
+- economía
+- llms
 title: Sobre el «affaire» Jon González
-url: /2026/06/04/jon-gonzalez/
+url: /2026/06/11/jon-gonzalez/
 ---
 
 Jon González tenía una cuenta popular en Twitter. Unos tipos a los que no les gustaba lo que contaba urdieron una estrategia, eventualmente exitosa, para taparle la boca. Eso está contado en muchas partes, como por ejemplo, [esta](https://www.elmundo.es/economia/empresas/2026/05/11/6a01f586e9cf4a85728b456e.html).
