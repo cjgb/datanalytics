@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2017-01-31 08:13:01+00:00
-draft: false
 lastmod: '2025-04-06T18:46:20.023703'
 related:
 - 2011-10-10-las-proyecciones-de-la-poblacion-de-espana-a-corto-plazo-del-ine-no-valen-para-un-carajo.md
@@ -27,4 +26,4 @@ Cuando escribí que [las proyecciones de población del INE no valían para un c
 
 Ahora tienen una excusa menos para no ponerse a la altura de los tiempos.
 
-Nota: el gráfico anterior está extraído de la la [página de proyecciones de población de la ONU](https://esa.un.org/unpd/wpp/Graphs/DemographicProfiles/) y corresponde, cómo no, a España.
+Nota: el gráfico anterior está extraído de la [página de proyecciones de población de la ONU](https://esa.un.org/unpd/wpp/Graphs/DemographicProfiles/) y corresponde, cómo no, a España.

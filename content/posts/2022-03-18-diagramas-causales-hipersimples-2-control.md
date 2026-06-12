@@ -32,7 +32,7 @@ El diagrama causal objeto de esta entrada es apenas una arista más complejo que
 
 Ahora la variable $Z$ afecta tanto a $Y$ (como en la entrada anterior) como a $X$ (esta es la novedad). Es una situación muy común en el análisis de datos. Algunos ejemplos:
 
-* $X$ es la dosis de una medicina, $Y$ es la mejora de paciente y $Z$ es su edad. Puede que el médico tenga en cuenta la edad para determinar la dosis y que la edad, además, influya en el grado de mejora. Cabe esperar que pacientes más viejos reciban mayores dosis y que, no obstante, su mejora sea menor.
+* $X$ es la dosis de una medicina, $Y$ es la mejora del paciente y $Z$ es su edad. Puede que el médico tenga en cuenta la edad para determinar la dosis y que la edad, además, influya en el grado de mejora. Cabe esperar que pacientes más viejos reciban mayores dosis y que, no obstante, su mejora sea menor.
 * $X$ es una campaña publicitaria, $Y$ son las ventas y $Z$ es la vinculación del cliente.
 * $X$ es la cantidad de abono, $Y$ es el rendimiento y $Z$ es la lluvia.
 * Etc.
@@ -91,10 +91,10 @@ También hay que tener en cuenta que el ejemplo sobre el que se ha razonado es s
 
 ### Nota final
 
-Una complicación adicional a la hora de controla por variables que algún control puede resultar no ser observable. Es decir, que se sepa que haya uno operando y confundiendo el efecto de $X$ sobre $Y$ de alguna manera pero que no podamos saber cuál o cuáles son. Tendríamos el sesgo pero no la _variable culpable_ por la que controlar. Trataré el tema en una entrada posterior.
+Una complicación adicional a la hora de controlar por variables es que algún control puede no ser observable. Es decir, que se sepa que haya uno operando y confundiendo el efecto de $X$ sobre $Y$ de alguna manera pero que no podamos saber cuál o cuáles son. Tendríamos el sesgo pero no la _variable culpable_ por la que controlar. Trataré el tema en una entrada posterior.
 
 ### Dos notas finales más
 
-Parecería ---y el ejemplo hipersimple de esta entrada parece señalarlo--- que bastaría con _controlar_ por los _confusores_ ---sí, he omitido el nombre formal que reciben variables como $Z$ muy conscientemente hasta este el momento--- para obtener estimaciones insesgadas de los efectos. Pero en [_No, you have not controlled for confounders_](https://davidlindelof.com/no-you-have-not-controlled-for-confounders/) se nos advierte que podría no ser tan sencillo.
+Parecería ---y el ejemplo hipersimple de esta entrada parece señalarlo--- que bastaría con _controlar_ por los _confusores_ ---sí, he omitido el nombre formal que reciben variables como $Z$ muy conscientemente hasta este el momento--- para obtener estimaciones insesgadas de los efectos.
 
 Más evidencias al respecto pueden encontrarse en [_Interaction Effects Need Interaction Controls_](https://datacolada.org/80), donde se nos advierte que cuando existen interacciones (¿cuándo no?) es necesario también usar interacciones en los controles.

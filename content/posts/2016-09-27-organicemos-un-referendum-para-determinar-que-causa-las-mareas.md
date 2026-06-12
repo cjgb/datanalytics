@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2016-09-27 08:13:42+00:00
-draft: false
 lastmod: '2025-04-06T19:07:45.058642'
 related:
 - 2022-03-31-experimento-fisico-causalidad-ii.md
@@ -28,9 +27,9 @@ Los autores de la página que enlazo hacen sus cuentas y llegan a la conclusión
 
 Pero no dejan nada claro de dónde sacan sus ecuaciones. En el fondo, son matemáticos, no físicos: seguro que despejan bien pero igual no tienen muy claro de dónde ni por qué.
 
-Preguntado Google por la materia, aterrizo en[ una página de la agencia estadounidense para la atmósfera y el océano](http://oceanservice.noaa.gov/education/kits/tides/tides02_cause.html), donde se me dice que
+Preguntado Google por la materia, aterrizo en [una página de la agencia estadounidense para la atmósfera y el océano](http://oceanservice.noaa.gov/education/kits/tides/tides02_cause.html), donde se me dice que
 
->the sun’s tide-generating force is 27/59, or about half that of the moon
+> the sun’s tide-generating force is 27/59, or about half that of the moon
 
 Ahora tenemos una tercera opinión: la del empate.
 
@@ -38,8 +37,8 @@ Google también me conduce a una [página de divulgación para niños de la NASA
 
 Finalmente, la [Wikipedia](https://en.wikipedia.org/wiki/Tidal_force) nos escribe y nos justifica las fórmulas relevantes y concluye que
 
->For example, the lunar tidal acceleration at the Earth's surface along the Moon-Earth axis is about 1.1 × 10?7 g, while the solar tidal acceleration at the Earth's surface along the Sun-Earth axis is about 0.52 × 10?7 g, where g is the gravitational acceleration at the Earth's surface. Hence the tide-raising force (acceleration) due to the Sun is about 45% of that due to the Moon.
+> For example, the lunar tidal acceleration at the Earth's surface along the Moon-Earth axis is about 1.1 × 10?7 g, while the solar tidal acceleration at the Earth's surface along the Sun-Earth axis is about 0.52 × 10?7 g, where g is the gravitational acceleration at the Earth's surface. Hence the tide-raising force (acceleration) due to the Sun is about 45% of that due to the Moon.
 
-aunque para justificar los números no aplica sus fórmulas al caso sino remite a la página 277 del [Manual de navegación del almirantazgo](https://books.google.es/books?id=GCgXCxG4VLcC&redir_esc=y) (¿británico?).
+aunque para justificar los números no aplica sus fórmulas al caso sino que remite a la página 277 del [Manual de navegación del almirantazgo](https://books.google.es/books?id=GCgXCxG4VLcC&redir_esc=y) (¿británico?).
 
 Yo tampoco quiero meter datos en fórmulas y comprobar las cosas por mí mismo. Y tampoco voy a apelar al principio de autoridad, por mucha que imponga la del almirantazgo. En cuestiones de esta profundidad y gravedad, dada la falta de consenso de unos y otros y por lealtad a los principios democráticos, me sumaré al parecer de que sería lo suyo convocar una consulta ciudadana que dirima definitivamente la cuestión.

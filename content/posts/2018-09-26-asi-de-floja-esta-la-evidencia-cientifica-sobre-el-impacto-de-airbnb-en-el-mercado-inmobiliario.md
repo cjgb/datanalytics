@@ -79,7 +79,7 @@ El autor abre Excel. Resulta que esos siete barrios superafectados por Airbnb su
 
 En el primer párrafo nos dice que el 12.5% de los apartamentos de Venice están en Airbnb, aunque en la página anterior nos había dicho que eran 900 de 12k. ¡Arggggggg!
 
-El segundo párrafo es revelador: nos cuenta que no se pueden construir más viviendas porque, además de una inversión de 300k por apartamento, hacen falta tres años de tramitación permisos y los que corresponda para la construcción propiamente dicha. ¡Igual ahí está realmente la madre del cordero!
+El segundo párrafo es revelador: nos cuenta que no se pueden construir más viviendas porque, además de una inversión de 300k por apartamento, hacen falta tres años de tramitación de permisos y los que corresponda para la construcción propiamente dicha. ¡Igual ahí está realmente la madre del cordero!
 
 ¡En el último párrafo hay más números! Dice:
 
@@ -89,7 +89,7 @@ Por supuesto, el cálculo de las elasticidades no es suyo. Es de un artículo de
 
 #### Página 10
 
-En el primer párrafo reconoce que el incremento de precios es _pequeño_, pero utilizando arguentos puramente discursivos al final del segundo párrafo ya los ha convertido en _much greater_ y _significant_. Bla, bla, bla… y te vende la moto.
+En el primer párrafo reconoce que el incremento de precios es _pequeño_, pero utilizando argumentos puramente discursivos al final del segundo párrafo ya los ha convertido en _much greater_ y _significant_. Bla, bla, bla… y te vende la moto.
 
 El resto de la página habla ya de otra cosa y da a entender que le parece mal que una señora gane dinero.
 
@@ -117,17 +117,17 @@ Una lista de barrios baratos que están cerca de barrios ricos y especulaciones 
 
 #### Página 15
 
-Que debería haber más mezcla socieconómica y racial y que por culpa de Airbnb igual habrá menos. Todo discursivo, puro blablablá.
+Que debería haber más mezcla socioeconómica y racial y que por culpa de Airbnb igual habrá menos. Todo discursivo, puro blablablá.
 
 #### Página 16
 
-Algo sobre _afroamericanos_ que alquilan en Airbnb, usa la palabra _racial_ varias veces y pone un porcentaje no está claro si viene al caso o no para dar a entender que lo que dice es todo verdad.
+Algo sobre _afroamericanos_ que alquilan en Airbnb, usa la palabra _racial_ varias veces y pone un porcentaje que no está claro si viene al caso o no para dar a entender que lo que dice es todo verdad.
 
 En la segunda parte comienza a contar qué normas impondría él si fuese el alcalde omnipotente del sitio.
 
 #### Página 17
 
-Sigue desarrolando su BOE fantasía. En la segunda parte evalúa nosequé normas actuales. Y es la risa: que un impuesto del 14% sobre Airbnb recaudaría 5 millones (añadiendo que _although this static projection does not take into account expected increases or tax-induced decreases in Airbnb activity_ para que todos tomemos nota que no se durmió en ECON101).
+Sigue desarrollando su BOE fantasía. En la segunda parte evalúa nosequé normas actuales. Y es la risa: que un impuesto del 14% sobre Airbnb recaudaría 5 millones (añadiendo que _although this static projection does not take into account expected increases or tax-induced decreases in Airbnb activity_ para que todos tomemos nota que no se durmió en ECON101).
 
 En el resto de la página hace una serie de cuentas para ver si cinco millones es mucho dinero o poco dinero.
 

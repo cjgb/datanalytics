@@ -34,7 +34,7 @@ En [_Inflation and relative prices_](https://www.grumpy-economist.com/p/inflatio
 
 Del título, [_Coal, AI & Jevons_](https://www.kentclarkcenter.org/filterable-categories/on-global-markets/coal-ai-jevons/), se infiere casi todo lo que trata el artículo (supuesto que uno sepa a qué se refieren las tres palabras que lo componen).
 
-Un médico, Dinomight, analiza [aquí](https://dynomight.net/prices/) el impacto de cierto tipo de salarios mínimos ---y muestra su escepticismo al respecto--- mejor que lo verás en muchas otras partes, especialmente de economistas que escuchan constantemente la voz de su amo.
+Un médico, Dynomight, analiza [aquí](https://dynomight.net/prices/) el impacto de cierto tipo de salarios mínimos ---y muestra su escepticismo al respecto--- mejor que lo verás en muchas otras partes, especialmente de economistas que escuchan constantemente la voz de su amo.
 
 En [Are American rents rigged by algorithms?](https://www.economist.com/finance-and-economics/2024/08/29/are-american-rents-rigged-by-algorithms) discute The Economist el siguiente asunto:
 - Existe un determinado mercado más o menos competitivo.

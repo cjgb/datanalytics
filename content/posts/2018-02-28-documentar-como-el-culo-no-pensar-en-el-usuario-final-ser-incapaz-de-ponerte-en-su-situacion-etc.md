@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2018-02-28 08:13:54+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:08:24.982101'
 related:
 - 2011-07-11-clustering-i-una-pesadilla-que-fue-real.md

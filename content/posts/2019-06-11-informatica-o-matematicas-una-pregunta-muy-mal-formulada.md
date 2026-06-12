@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2019-06-11 09:13:38+00:00
-draft: false
 lastmod: '2025-04-06T18:58:20.433776'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md
@@ -48,4 +47,4 @@ Y si eres un chaval que está en bachillerato y planteándose qué estudiar para
 * Léelo todo. Cubre los primeros cursos de todo. Lee lo bueno. Lee lo malo.
 * Cuando acabes de estudiar, plantéate entrar a una consultora de las que pican carne de novato (Accenture o similares). Eso te expondrá a distintos negocios, distintas maneras de hacer las cosas, distintos puntos de vista, a todo lo que tiene que ver con incentivos y las excepciones a todas las reglas generales en que consiste la educación formal. Trabajarás lo que deberías trabajar haciendo un máster. Dormirás igual de poco que deberías dormir si hicieses un máster en condiciones. Pero te pagarán por ello y aprenderás más.
 
-Y luego, a los ventibastantes, te sientas un día a contemplar la puesta de sol a la sombra de un naranjo y piensa a ver si te convence eso de la ciencia de datos.
+Y luego, a los veintibastantes, te sientas un día a contemplar la puesta de sol a la sombra de un naranjo y piensa a ver si te convence eso de la ciencia de datos.

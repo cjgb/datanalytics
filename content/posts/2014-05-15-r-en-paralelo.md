@@ -54,4 +54,4 @@ out <- mclapply(
 )
 {{< / highlight >}}
 
-Y la verdad, va como un tiro.
+La verdad, va como un tiro.

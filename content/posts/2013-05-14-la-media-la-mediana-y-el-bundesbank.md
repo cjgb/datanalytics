@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2013-05-14 07:29:52+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:04:56.192276'
 related:
 - 2012-06-05-medias-y-medianas-en-el-banco-de-espana.md
@@ -21,7 +21,7 @@ url: /2013/05/14/la-media-la-mediana-y-el-bundesbank/
 
 El Banco Central Europeo publicó un [estudio sobre la riqueza de los hogares europeos](http://www.ecb.int/home/html/researcher_hfcn.en.html) en abril de 2013. A partir de él, el Bundesbank publicó otro informe que subrayaba las diferencias en riqueza entre los hogares alemanes y, supongo que entre otros, los españoles.
 
-El informe de BCE recogía la media y la mediana del patrimonio de los hogares por países (junto con otras variables adicionales, como la renta, el nivel de endeudamiento, etc.). Obviamente, las medias son superiores a las medianas en prácticamente todas esas variables. El Bundesbank, en su informe, omitía las medias y presentaba únicamente las medianas, magnitudes que contribuían a subrayar una presunta pobreza relativa de los hogares alemanes respecto a los españoles.
+El informe del BCE recogía la media y la mediana del patrimonio de los hogares por países (junto con otras variables adicionales, como la renta, el nivel de endeudamiento, etc.). Obviamente, las medias son superiores a las medianas en prácticamente todas esas variables. El Bundesbank, en su informe, omitía las medias y presentaba únicamente las medianas, magnitudes que contribuían a subrayar una presunta pobreza relativa de los hogares alemanes respecto a los españoles.
 
 Los medios españoles se hicieron eco de la noticia y publicaron artículos como:
 

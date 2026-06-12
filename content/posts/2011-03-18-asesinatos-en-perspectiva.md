@@ -4,6 +4,7 @@ categories:
 - números
 date: 2011-03-18 09:16:19+00:00
 lastmod: '2025-04-06T19:04:29.863463'
+noindex: true
 related:
 - 2012-03-07-esperanzador-no-varianzador.md
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md

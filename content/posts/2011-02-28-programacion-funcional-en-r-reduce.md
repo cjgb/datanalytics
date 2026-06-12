@@ -45,7 +45,7 @@ $$f(f(\dots f(x) \dots)).$$
 
 En particular, Reduce() acepta como argumento una función (que, a su vez, acepta dos argumentos) y un vector (además de, posiblemente, argumentos auxiliares adicionales que el interesado encontrará en la ayuda).
 
-El primer ejemplo es simple: vectorizar una función. Tambén es impráctico porque la función que queremos vectorizar ya está vectorizada: max().
+El primer ejemplo es simple: vectorizar una función. También es impráctico porque la función que queremos vectorizar ya está vectorizada: max().
 
 
 

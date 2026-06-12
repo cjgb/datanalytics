@@ -24,7 +24,7 @@ Existen esquinitas de la estadística con las que uno solo tropieza cuando su pr
 
 Todos (¿todos?) sabemos qué son los momentos de una distribución (univariante): las esperanzas de $X$, $X^2$, etc. que:
 
-1. Permiten identificar unívocamnete una distribución (los momentos se corresponden uno a uno con distribuciones).
+1. Permiten identificar unívocamente una distribución (los momentos se corresponden uno a uno con distribuciones).
 2. Como consecuencia, permiten utilizar el viejuno _método de los momentos_ para ajustar distribuciones.
 
 El problema es que los momentos solo están definidos cuando las esperanzas anteriores están todas ellas definidas. Lo que no es el caso cuando uno trabaja con distribuciones de cola gruesa: extremos, etc.

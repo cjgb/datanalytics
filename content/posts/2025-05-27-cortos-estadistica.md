@@ -38,6 +38,7 @@ Cita Jessica Hullman un [parrafito de un artículo de Cornfield y Tukey](https:/
 [Aquí](https://www.sumsar.net/blog/2013/11/easy-laplace-approximation/) se muestra cómo hacer la aproximación de Laplace a distribuciones a posteriori _a mano_. (Un problema que encontré yo al tratar de aplicar técnicas parecidas hace unos años era que el maldito hessiano no estaba _definido negativo_ en el presunto máximo...).
 
 Si $p_i$ son las probabilidades reales y $\hat{p}_i$ las estimadas por un modelo:
+
 - Con el gráfico de $\hat{p}_i$ contra $p_i$ visualizamos el _sesgo_.
 - Con el gráfico de $p_i$ contra $\hat{p}_i$ visualizamos la calibración.
 - Y según [_Calibration of clinical prediction rules does not just assess bias_](https://www.jclinepi.com/article/S0895-4356(13)00237-0/abstract), podemos tener calibración y no sesgo, sesgo y no calibración, etc.

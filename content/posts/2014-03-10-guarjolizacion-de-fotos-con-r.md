@@ -41,7 +41,7 @@ x <- readJpeg(tmp)
 
 # convertimos el array 3D nxmx3 en uno 2D (nm)x3
 # luego buscamos 5 clústers
-# esencialmente, buscamos 7 "píxels representativos"
+# esencialmente, buscamos 7 "píxeles representativos"
 d <- dim(x)
 clarax <- clara(array(x, dim = c(d[1] * d[2], d[3])), 7)
 

@@ -24,7 +24,7 @@ title: Coordenadas polares por doquier
 url: /2016/05/27/coordenadas-polares-por-doquier/
 ---
 
-El otro día pasé por uno de esos sitios en los que exponen en las paredes obras de artistas medianos con el precio debajo. Me quedé mirando una muy... concéntrica porque me recordaba a [lo que nos regala a menudo Antonio Chinchón](https://aschinchon.wordpress.com/tag/r/). Pregunté de qué trataba la cosa y tuvieron la paciencia de explicármelo: al lado había una foto enorme y, se conoce, las cosas concéntricas eran una reordenación de los píxels de la primera. Una especie de tortilla de patata deconstruida a lo Adriá, pero con fotos.
+El otro día pasé por uno de esos sitios en los que exponen en las paredes obras de artistas medianos con el precio debajo. Me quedé mirando una muy... concéntrica porque me recordaba a [lo que nos regala a menudo Antonio Chinchón](https://aschinchon.wordpress.com/tag/r/). Pregunté de qué trataba la cosa y tuvieron la paciencia de explicármelo: al lado había una foto enorme y, se conoce, las cosas concéntricas eran una reordenación de los píxeles de la primera. Una especie de tortilla de patata deconstruida a lo Adriá, pero con fotos.
 
 Yo les dije que aquello venía a ser un diagrama de barras en coordenadas polares, que yo me dedicaba a eso, pero que unas veces usaba diagramas de barras y otras, coordenadas polares, pero nunca a la vez; que eso era como echarle _képchup_ a la paella. Pero el arte tiene sus licencias.
 

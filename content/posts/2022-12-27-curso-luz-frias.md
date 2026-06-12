@@ -3,6 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2022-12-27
+noindex: true
 lastmod: '2025-04-06T18:47:01.091244'
 related:
 - 2022-12-29-economia-lenguaje-leyes-potenciales.md
@@ -25,4 +26,4 @@ de
 [Luz Frías](https://twitter.com/koldLight)
 ---de quien todo lo que diga será poco---.
 
-(Hubo un tiempo en el que única tecnología disponible para hacer llegar conocimiento a la gente era escribiendo libros. Había libros buenos y libros malos pero todos costaban dinero. Así que algunos escribían reseñas sobre ellos que permitían al potencial lector hacerse una idea de si valía o no la pena hacerse con él. Pero la distribución gratuita de contenido por internet, debería hacer morir el viejo género del escribir sobre lo que otros han escrito. Basta aquí una recomendación ---encarecida--- y el enlace para que el interesado lo hojee en menos tiempo que costaría leer lo que sobre él pudiera contarse.)
+(Hubo un tiempo en el que la única tecnología disponible para hacer llegar conocimiento a la gente era escribiendo libros. Había libros buenos y libros malos pero todos costaban dinero. Así que algunos escribían reseñas sobre ellos que permitían al potencial lector hacerse una idea de si valía o no la pena hacerse con él. Pero la distribución gratuita de contenido por internet, debería hacer morir el viejo género del escribir sobre lo que otros han escrito. Basta aquí una recomendación ---encarecida--- y el enlace para que el interesado lo hojee en menos tiempo que costaría leer lo que sobre él pudiera contarse.)

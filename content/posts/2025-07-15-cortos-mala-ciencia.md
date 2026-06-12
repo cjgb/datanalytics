@@ -22,7 +22,7 @@ title: Una serie de notas sobre el siempre fértil campo de la mala ciencia
 url: /2025/07/15/cortos-mala-ciencia/
 ---
 
-- Dinomight sobre [las miserias del _peer review_](https://dynomight.net/ai2027/). Incluye un par de párrafos buenísimos:
+- Dynomight sobre [las miserias del _peer review_](https://dynomight.net/ai2027/). Incluye un par de párrafos buenísimos:
 
 > ¿Pero qué pasa cuando alguien descubre un error en un artículo ya publicado? Sucede todo el tiempo, pero los artículos casi nunca se retiran o corrigen. Nadie hace mucho aspaviento porque, de nuevo, [los autores] son colegas. ¿Por qué crearse enemigos? Incluso si publican un resultado que corrige luego los errores del primer artículo, la gente tiende a medir tanto sus palabras que la crítica es apenas perceptible.
 >
