@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2026-07-02
-description: Sobre cómo una discusión sobre cómo medir la riqueza acaba en un 'en
-  lugar de mirar las cifras del PIB, vaya y mire por la ventanilla'
+description: "Sobre cómo una discusión sobre cómo medir la riqueza acaba en un 'en
+  lugar de mirar las cifras del PIB, vaya y mire por la ventanilla'"
 lastmod: '2026-06-26T00:28:36.306257'
 related:
 - 2012-06-19-el-indice-de-riqueza-inclusiva.md
