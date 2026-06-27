@@ -34,7 +34,7 @@ A mí se me ocurrió que los datos que aparecen en el gráfico original podía, 
 
 ![](/img/2012/11/internet_usage-300x300.png#center)
 
-que, aunque jamás vaya a hacerme merecedor de premio alguno a la mejor composición gráfica, tiene ciertos méritos que advertirá quien lo estudie con detalle. Por un lado, agrupa los países por similitudes de uso (véan, por ejemplo, cómo hace patente que los países asiáticos tienen comportamientos similares). Por otro, que hay actividades de internet que tienden a realizarse juntas (como subir fotos y vídeos a determinados servicios). Y también cómo mantener perfiles en redes sociales viene a ser, en general, una actividad que se realiza en detrimento de escribir en una bitácora.
+que, aunque jamás vaya a hacerme merecedor de premio alguno a la mejor composición gráfica, tiene ciertos méritos que advertirá quien lo estudie con detalle. Por un lado, agrupa los países por similitudes de uso (p.e., cómo hace patente que los países asiáticos tienen comportamientos similares). Por otro, que hay actividades de internet que tienden a realizarse juntas (como subir fotos y vídeos a determinados servicios). Y también cómo mantener perfiles en redes sociales viene a ser, en general, una actividad que se realiza en detrimento de escribir en una bitácora.
 
 Pero bueno, parece que —Cairo tuvo a bien hacérmelo saber— en esos medios generalistas que se ocupan hasta la saciedad de, incluso, los más nimios indicios de tristeza de los ases balompédicos, no hay lugar para _biplots_.
 

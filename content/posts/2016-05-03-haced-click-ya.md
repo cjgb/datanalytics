@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - ciencia de datos
 date: 2016-05-03 08:13:25+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:01:29.269370'
 related:
 - 2020-01-31-pato-o-conejo-y-su-moraleja.md

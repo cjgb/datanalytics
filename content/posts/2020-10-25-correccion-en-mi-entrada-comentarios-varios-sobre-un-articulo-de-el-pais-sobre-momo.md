@@ -4,7 +4,7 @@ categories:
 - artículos
 - estadística
 date: 2020-10-25 11:11:02+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:01:47.054443'
 related:
 - 2020-05-04-42-000-muertes-por-coronavirus-una-correccion-de-la-heterogeneidad.md
@@ -17,9 +17,8 @@ tags:
 - momo
 - mortalidad
 - covid
-title: Corrección en mi entrada "Comentarios varios sobre un artículo de El País sobre
-  MOMO"
+title: Corrección en mi entrada "Comentarios varios sobre un artículo de El País sobre MOMO"
 url: /2020/10/25/correccion-en-mi-entrada-comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo/
 ---
 
-[Esta es una] Breve nota para difundir la corrección que realizado en mi [entrada del viernes](http://Comentarios varios sobre un artículo de El País sobre MOMO).
+[Esta es una] Breve nota para difundir la corrección que he realizado en mi [entrada del viernes](/2020/10/23/comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo/).

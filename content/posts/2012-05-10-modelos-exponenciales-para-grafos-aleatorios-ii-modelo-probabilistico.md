@@ -50,7 +50,7 @@ $$ P(Y = y) = c \exp \left( \eta L(y) + \theta T(y) \right)$$
 
 donde $T(y)$ es el número de triángulos que aparecen en el grafo.
 
-Una vez planteado el marco probabilístico, queda plantearse la estimación de los parámetros y la inferencia, que permite encontrar resupuestas a preguntas del tipo:
+Una vez planteado el marco probabilístico, queda plantearse la estimación de los parámetros y la inferencia, que permite encontrar respuestas a preguntas del tipo:
 
 * ¿muestra mi grafo una tendencia significativa a las relaciones recíprocas?
 * ¿tiende mi grafo de una manera significativa a crear triángulos, i.e., relaciones transitivas?

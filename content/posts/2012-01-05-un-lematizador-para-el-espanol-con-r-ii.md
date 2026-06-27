@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-01-05 06:42:00+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:46:46.194059'
 related:
 - 2011-12-13-un-lematizador-para-el-espanol-con-r-c2bfcutre-c2bfmejorable.md

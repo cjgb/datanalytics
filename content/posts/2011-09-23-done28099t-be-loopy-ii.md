@@ -24,13 +24,13 @@ Continúo en esta la [primera de las entradas ](https://datanalytics.com/2011/08
 
 Trata sobre lo siguiente:
 
-1. Construir un cojunto de datos simples (dos vectores, `x` e `y`).
+1. Construir un conjunto de datos simples (dos vectores, `x` e `y`).
 2. Hacer una regresión de `y` sobre `x` y capturar los residuos.
 3. Crear 1000 vectores `y'` distintos añadiendo a $\hat{y}$ (la predicción de `y`) en el modelo anterior una reordenación de los residuos.
 4. Crear los correspondientes 1000 modelos haciendo la regresión de cada $\hat{y}$ sobre `x`.
 5. Obtener el histograma del coeficiente de la regresión.
 
-Es un caso de _bootstrap _en el que no se muestrean directamente los valores iniciales sino los residuos del modelo.
+Es un caso de _bootstrap_ en el que no se muestrean directamente los valores iniciales sino los residuos del modelo.
 
 El código en SAS es el siguiente:
 
@@ -101,17 +101,9 @@ proc print;
 run;
 {{< / highlight >}}
 
-
-
 que corre en mi máquina en 37.37 segundos.
 
 Ofrezco dos alternativas sustancialmente más sucintas en R. La primera es una reinterpretación literal en R del código anterior,
-
-
-
-
-
-
 
 {{< highlight R >}}
     x <- 2:29
@@ -127,26 +119,12 @@ Ofrezco dos alternativas sustancialmente más sucintas en R. La primera es una r
     hist( resultados )
 {{< / highlight >}}
 
-
-
-
-
-
-
 que corre en 2.46 segundos.
 
 
-[![](/img/2011/09/bootstrap.png#center)
-](/img/2011/09/bootstrap.png#center)
-
+![](/img/2011/09/bootstrap.png#center)
 
 El segundo utiliza el paquete `boot`,
-
-
-
-
-
-
 
 {{< highlight R >}}
 library( boot )
@@ -160,12 +138,6 @@ foo.boot <- function( datos, ind ){
 res <- boot( datos, foo.boot, R = 1000 )
 plot( res )
 {{< / highlight >}}
-
-
-
-
-
-
 
 que corre en 2.71 segundos.
 

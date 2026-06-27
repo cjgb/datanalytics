@@ -33,4 +33,4 @@ PRIM y otros algoritmos similares buscan precisamente eso: lugares en _un_ (no n
 
 En la que seguro que no se habla de la falacia del fiscal. Porque una cosa es detectar aglomeraciones y otra muy distinta que estas sean del interés de la Guardia Civil.
 
-**Addenda:** En [estas páginas](https://datanalytics.com/tags/sobol/) hay algo de información friqui relevante para la discusión anterior.
+**Addenda:** En [estas páginas](https://datanalytics.com/tags/sobol/) y [aquí también](https://analisisydecision.datanalytics.com/blog/una-fabulilla-sobre-prim-con-multiples-moralejas/) hay algo de información friqui relevante para la discusión anterior.
