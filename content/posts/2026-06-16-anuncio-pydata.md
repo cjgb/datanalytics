@@ -38,3 +38,8 @@ El día 24 de junio de 2026 doy una charla en el PyData de Madrid. El anuncio, q
 El contenido de mi charla es una versión extendida e interactiva de una entrada de hace un tiempo, [Kepler ∩ Bayes](/2026/04/09/kepler-bayes/).
 
 Tras la charla, publicaré por aquí las diapositivas.
+
+## Coda
+
+- [Las diapositivas](/pdf/2026-charla-pydata-kepler.pdf).
+- El [vídeo](https://www.youtube.com/watch?v=Bh7phaQGSBk) (a partir del 44:00). Desafortunadamente, solo se proyectan las diapositivas y el sonido y la dicción (mea culpa) son muy mejorables.
