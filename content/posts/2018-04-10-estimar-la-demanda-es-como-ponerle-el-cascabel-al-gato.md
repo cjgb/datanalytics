@@ -22,7 +22,7 @@ url: /2018/04/10/estimar-la-demanda-es-como-ponerle-el-cascabel-al-gato/
 
 Alborozábanse los ratones al oír de sus líderes la solución definitiva al problema de aquel gato que los diezmaba inmisericordemente: ¡colóquesele un cascabel!
 
-El _problema gordiano_ del _pricing_, el cascabel que hay que ponerle a ese gato, es el de la estimación de la curva de demanda. Ahi radica el quid.
+El _problema gordiano_ del _pricing_, el cascabel que hay que ponerle a ese gato, es el de la estimación de la curva de demanda. Ahí radica el quid.
 
 Unos lo resuelven con [simulaciones que quedan estupendas sobre el papel](https://insightr.wordpress.com/2017/08/27/pricing-optimization-how-to-find-the-price-that-maximizes-your-profit/). ¡Qué fácil es ponerle un cascabel a un gato de madera!
 

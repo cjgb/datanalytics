@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2017-10-20 08:13:02+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:09:17.279495'
 related:
 - 2016-11-16-detras-de-la-deteccion-de-anomalias-en-series-temporales.md
@@ -21,11 +21,11 @@ url: /2017/10/20/he-tratado-de-contrastar-una-hipotesis-sin-exito-asi-que-solo-p
 
 Inspirado por [esto](http://www.masalmon.eu/2017/10/02/guardian-experience/) he tratado de contrastar una hipótesis en otro contexto.
 
-Las cosas, o se hacen bien, o no se hacen. Como mi análisis se ha complicado con casos y casitos particulares, aunque siga pensándo cierta (en caso de tener que apostar, como priori, claro) la hipótesis de partida, abandono su búsqueda.
+Las cosas, o se hacen bien, o no se hacen. Como mi análisis se ha complicado con casos y casitos particulares, aunque siga creyendo cierta la hipótesis de partida (en caso de tener que apostar, como priori, claro), abandono la búsqueda.
 
 Como subproducto, esto:
 
-{{< highlight R >}}
+```r
 library(xml2)
 library(stringr)
 library(plyr)
@@ -61,6 +61,6 @@ res$titular <- tolower(res$titular)
 
 res$year <- year(res$time)
 res$month <- month(res$time)
-{{< / highlight >}}
+```
 
 Igual le sirve a alguien para analizar palabras clave en titulares de ese u otro medio, su evolución por mes, etc.

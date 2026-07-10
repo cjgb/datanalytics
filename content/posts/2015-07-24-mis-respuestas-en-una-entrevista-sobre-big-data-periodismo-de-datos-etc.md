@@ -23,7 +23,7 @@ Dicen los marxistas --aunque el concepto es anterior-- que un cambio cuantitativ
 
 Ya no existen clases sociales, segmentos de clientes, regiones, etc. Existen individuos. Cada individuo tiene unas necesidades específicas. Diseñar una experiencia a la medida de cada individuo exige el desarrollo de técnicas (estadísticas, informáticas, etc.) nuevas.
 
-De hecho, incluso en medicina, se habla de que no existen enfermedades sino enfermos. Ya no se trata de vencer al cáncer sino de vencer al tipo de cáncer que tiene un individuo concreto. Las peculiariades genéticas de un determinado individuo hace que el remedio más adecuado para el cáncer que padece sean específicas y distintas de las de otro con un perfil genético distinto.
+De hecho, incluso en medicina, se habla de que no existen enfermedades sino enfermos. Ya no se trata de vencer al cáncer sino de vencer al tipo de cáncer que tiene un individuo concreto. Las peculiaridades genéticas de un determinado individuo hace que el remedio más adecuado para el cáncer que padece sean específicas y distintas de las de otro con un perfil genético distinto.
 
 Por eso no me gusta definir big data en términos de herramientas o técnicas (que irán apareciendo y desapareciendo) sino de esa evolución hacia modelos personalizados de gestión, de márketing, de medicina, etc.
 
@@ -71,6 +71,6 @@ Hummmm... ¿cualquier persona? Discrepo. De ciertas personas, tal vez.
 
 _En 2002 se empezaron a almacenar más datos digitales que analógicos ¿es una moda o una revolución?_
 
-Ni moda ni revolución: es una evolucion. Una moda pasa. Pero, ¿volveremos a almacenar la información en libretas de papel? ¿A escribir cartas en folios? No.
+Ni moda ni revolución: es una evolución. Una moda pasa. Pero, ¿volveremos a almacenar la información en libretas de papel? ¿A escribir cartas en folios? No.
 
 Y revolución... ¡ninguna dura 13 años! De hecho, tengo la sensación de que el ritmo de cambio tecnológico está muy lejos de ser lo que fue. La generación de mis abuelos pasó de la burra al avión; de la carta al teléfono. La nuestra, sin embargo, conoció los ordenadores ya desde siempre; en realidad, los teléfonos de hoy en día, en la práctica, solo pueden hacer unas cosas más que los que ya teníamos en casa cuando nacimos, etc. ¡Y seguimos sin tener coches voladores!

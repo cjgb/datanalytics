@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2014-01-08 07:09:09+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:55:09.919568'
 related:
 - 2013-12-26-muestreos-aleatorios-sobre-la-peninsula-iberica-por-ejemplo.md
@@ -23,4 +23,4 @@ Hoy voy a proponer un pequeño problema de geometría elemental: averiguar a qu�
 
 Una complicación adicional: ¿a qué distancia dejaría de verse un barco que tiene una altura de 20 m?
 
-Y una nota: me sorprendió que la distancia fuese tan pequeña. En tierra —desde promontorios claro— estamos acostumbrados a ver objetos situados mucho más lejos.
+Y una nota: me sorprendió que la distancia fuese tan pequeña. En tierra --desde promontorios, claro--- estamos acostumbrados a ver objetos situados mucho más lejos.

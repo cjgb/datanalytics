@@ -4,7 +4,7 @@ categories:
 - estadística
 - números
 date: 2012-10-08 07:26:14+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:11:06.601520'
 related:
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
@@ -37,8 +37,7 @@ En la [ficha técnica de la encuesta](http://www.elperiodico.com/es/ext_resource
 1. Esa acotación del error se da para preguntas simples de respuesta sí/no. Pero la intención de voto no es una pregunta que tenga solo dos respuestas posibles, sino varias. Honestamente, se me escapa si esos márgenes de error calculados para preguntas simples son directamente extrapolables a preguntas más complejas, con varias opciones.
 2. Que si hay una probabilidad del 95% de cometer un error inferior al 3,5% en _una_ pregunta, la probabilidad de que el error sea así de pequeño en _cada_ pregunta de una encuesta que tiene 10 de ellas, por ejemplo, es de 0.95^10 = 60%.
 
-
-Pero sigamos. De los 800 entrevistados,solo 45 de ellos residen en lo que en tiempos se llamaba provincia de Lérida, en la que se disputan 15 escaños. Subrayo: hay 45 encuestados dentro de una provincia con más de 300.000 electores para estimar cómo se van a repartir 15 escaños. Además, estos, a la pregunta de cómo votarían de tener lugar las elecciones _mañana_, respondieron así: 16, a CiU; 14 no lo saben; 7, en blanco; 4 no contestan; 2 no votarían; y de los dos restantes, uno votaría al PP y otro a un partido que, se ve, se llama SI. Ninguno votaría ni al PSOE, ni a ERC ni a IU. Nótese que de 18 de los 45 no se tiene noticia de lo que harían.
+Pero sigamos. De los 800 entrevistados, solo 45 de ellos residen en lo que en tiempos se llamaba provincia de Lérida, en la que se disputan 15 escaños. Subrayo: hay 45 encuestados dentro de una provincia con más de 300.000 electores para estimar cómo se van a repartir 15 escaños. Además, estos, a la pregunta de cómo votarían de tener lugar las elecciones _mañana_, respondieron así: 16, a CiU; 14 no lo saben; 7, en blanco; 4 no contestan; 2 no votarían; y de los dos restantes, uno votaría al PP y otro a un partido que, se ve, se llama SI. Ninguno votaría ni al PSOE, ni a ERC ni a IU. Nótese que de 18 de los 45 no se tiene noticia de lo que harían.
 
 Nótese incluso que si se aplica la [ley d'Hondt](http://www.grserrano.es/wp/2011/05/jugando-con-el-sistema-de-dhondt/) a la variable "recuerdo de voto" de las anteriores elecciones autonómicas que recoge la encuesta se obtiene el siguiente reparto de escaños: CiU, 8; ERC y PSOE, 3; PP, 1. Mientras que los reales fueron, respectivamente, 9, 1, 3 y 2.
 
