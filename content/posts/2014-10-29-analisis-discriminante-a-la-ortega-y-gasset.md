@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2014-10-29 07:13:49+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T18:50:33.615821'
 related:
 - 2017-10-05-las-cosas-son-azules-las-personas-son-rosas-dicen-algunos-sicologos.md
@@ -32,9 +32,9 @@ Los eventos que han sucedido en los últimos días en España (y los que habrán
 >
 >Y en tanto los mejores, los que verdaderamente valen son poco conocidos, nadie les hace caso o, tal vez, se les combate en todas formas.
 >
->¿Veis cuán importante seria que vosotros llegaseis a la madurez con una exquisita sensibilidad para distinguir entre el valer verdadero y el falso? A este fin yo os recomendaría, entre otras, cuatro reglas o criterios:
+>¿Veis cuán importante sería que vosotros llegaseis a la madurez con una exquisita sensibilidad para distinguir entre el valer verdadero y el falso? A este fin yo os recomendaría, entre otras, cuatro reglas o criterios:
 >
->No hagáis nunca caso de lo que la gente opina. La gente es toda una muchedumbre que os rodea -en vuestra casa, en la escuela, en la Universidad, en la tertulia de amigos, en el Parlamento, en el circulo, en los periódicos. Fijaos y advertiréis que esa gente no sabe nunca por qué dice lo que dice, no prueba sus opiniones, juzga por pasión, no por razón.
+>No hagáis nunca caso de lo que la gente opina. La gente es toda una muchedumbre que os rodea -en vuestra casa, en la escuela, en la Universidad, en la tertulia de amigos, en el Parlamento, en el círculo, en los periódicos. Fijaos y advertiréis que esa gente no sabe nunca por qué dice lo que dice, no prueba sus opiniones, juzga por pasión, no por razón.
 >
 >Consecuencia de la anterior. No os dejéis jamás contagiar por la opinión ajena. Procurad convenceros, huid de contagios. El alma que piensa, siente y quiere por contagio es un alma vil, sin vigor propio.
 >

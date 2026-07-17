@@ -24,7 +24,7 @@ url: /2020/10/02/socialismo-y-fascismo-en-italia-una-reflexion-sobre-la-causalid
 
 _[Una entrada más bien especulativa acerca de esbozos de ideas ocurridas durante un paseo vespertino por Madrid y que apunto aquí por  no tener una servilleta a mano.]_
 
-El artítulo [_War, Socialism and the Rise of Fascism: An Empirical Exploration_](https://economics.mit.edu/files/20333) me ha hecho volver a reflexionar sobre el asunto de la causalidad (al que, además, debo un apartado en siempre inacabado libro de estadística para los mal llamados _científicos de datos_).
+El artículo [_War, Socialism and the Rise of Fascism: An Empirical Exploration_](https://economics.mit.edu/files/20333) me ha hecho volver a reflexionar sobre el asunto de la causalidad (al que, además, debo un apartado en siempre inacabado libro de estadística para los mal llamados _científicos de datos_).
 
 El artículo, lo de casi siempre: quieres ver si `x1` e `y` están relacionadas, así que planteas una regresión tipo `y ~ x1 + x2 + ...` El problema es que sale que no. Así que rebuscas hasta que encuentras _un instrumento_, una variable correlacionada con `x1` y que juras y perjuras que es indendientemente de todo lo demás. Así que usas una _regresión en dos pasos_, obtienes un p-valor de un 1%, un efecto que no te da pudor en llamar significativo (o importante, o sustancial, o relevante, o...) y como quieres que te publiquen, juegas al que si sí y que si no con conceptos de naturaleza causal. Escondes la mano para que nadie pueda acusarte de invocar la causalidad en vano pero, a la vez, redactas de tal manera que en un tuit solo quepa algo así como que `x1` causa `y`.
 

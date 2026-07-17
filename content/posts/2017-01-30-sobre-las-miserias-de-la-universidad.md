@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2017-01-30 08:13:33+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:00:07.975698'
 related:
 - 2014-04-28-cinco-anos-y-salen-sin-programar.md

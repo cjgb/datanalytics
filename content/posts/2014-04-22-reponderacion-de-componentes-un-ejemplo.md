@@ -63,7 +63,7 @@ plot(m.pca, asp = 1, col = tmp$cluster)
 [![clust_01](/img/2014/04/clust_01.png#center)
 ](/img/2014/04/clust_01.png#center)
 
-Ahí estan las dos componentes. La más importante es la primera, que tiene el rango (-3, 3) mientras que la otra va de -1 a 1 (aproximadamente). Pero es posible comprimir la primera dirección
+Ahí están las dos componentes. La más importante es la primera, que tiene el rango (-3, 3) mientras que la otra va de -1 a 1 (aproximadamente). Pero es posible comprimir la primera dirección
 
 {{< highlight R >}}
 m.pca.squeezed <- m.pca
