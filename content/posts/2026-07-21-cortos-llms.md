@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - cortos
 date: 2026-07-21
-description: null
+description: Que incluyen un análisis del coste de los modelos frontera, el nada barato vicio del tokenmaxxing y del papel de la fricción en la sincronización de equipos de trabajo.
 lastmod: '2026-07-17T16:21:19.791656'
 related:
 - 2026-03-02-cortos.md
@@ -12,12 +12,15 @@ related:
 - 2026-06-02-cortos-llms.md
 - 2025-11-13-economia.md
 tags:
-- taba
-title: 'Notas (30): asdfasdf'
+- llms
+- economía
+- tokens
+- metr
+title: 'Notas (30): sobre el impacto económico de los LLMs y algunos asuntos más'
 url: /2026/07/21/cortos-llms/
 ---
 
-[_How fast is AI?_](https://howfastis.ai/) es una publicación interactiva construida sobre la teoría de los «eslabones débiles» de Charles I. Jones, que viene a decir que aunque la capacidad de la IA se duplica aproximadamente cada seis meses, el crecimiento de la economía sigue cerca de su tendencia histórica del 2% anual. El motivo es que las tareas no automatizables ---juicio, responsabilidad, confianza, presencia física--- lastran el avance.
+[_How fast is AI?_](https://howfastis.ai/) es una publicación interactiva que usa la teoría de los «eslabones débiles» de Charles I. Jones para explicar la aparente paradoja que que aunque la capacidad de la IA se duplique aproximadamente cada seis meses, el crecimiento de la economía sigue cerca de su tendencia histórica del 2% anual. El motivo es que las tareas no automatizables ---juicio, responsabilidad, confianza, presencia física--- lastran el avance.
 
 El [conocido gráfico de METR](https://metr.org/time-horizons/) suele interpretarse como evidencia de que la capacidad de la IA crece «exponencialmente». Toby Ord se pregunta [si los costes horarios de los agentes de IA crecen también de forma exponencial](https://www.tobyord.com/writing/hourly-costs-for-ai-agents), una cuestión que pocos se formulan y que matizaría la interpretación generalizada. A partir de los datos del propio METR, el autor identifica puntos de saturación en las curvas coste-rendimiento y encuentra alguna evidencia de que tanto los costes totales como los costes horarios por tarea crecen exponencialmente, acercándose en algunos modelos a los salarios humanos. De confirmarse, la tendencia de METR, que mide la frontera técnica, estaría sobreestimando la capacidad real de la IA para resolver problemas económica y eficientemente.
 
