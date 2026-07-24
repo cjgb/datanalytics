@@ -31,7 +31,7 @@ La gente apasionada suele ser siempre muy interesante. Alguno es un poco cargant
 
 Pero yo no tengo pasión. Lo reconozco. No soy un apasionado de nada. Yo soy de la otra subespecie, la de los curiosos: fui, vi, aprendí, me aburrí y pasé a otra cosa.
 
-Exiten blogs de gente apasionada: siempre hablan de lo mismo. Y son muy interesantes. El mío es otra cosa. El mío habla de cien cosas distintas y tiene cierta tendencia tanto a errar como a contradecirse.
+Existen blogs de gente apasionada: siempre hablan de lo mismo. Y son muy interesantes. El mío es otra cosa. El mío habla de cien cosas distintas y tiene cierta tendencia tanto a errar como a contradecirse.
 
 Existen currículos de gente apasionada: tienen una trayectoria claramente dibujada. Y son muy valiosos. El mío también es otra cosa: un galimatías de sitios, fechas, empresas, tecnologías, victorias, empates y derrotas.
 

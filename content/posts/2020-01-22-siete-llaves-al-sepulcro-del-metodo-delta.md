@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2020-01-22 09:13:00+00:00
-draft: false
 lastmod: '2025-04-06T18:45:31.033863'
 related:
 - 2017-05-24-aquellos-que-ignoran-la-estadistica-etcetera.md
@@ -25,7 +24,7 @@ El desafortunado tuit
 
 {{< x user="gilbellosta" id="1219196123094700032" >}}
 
-es de lo más parecido a que me repitan unos chorizos que me ha ocurrido últimamente. Salvo que en lugar de chorizos, lo que se me manifestaban fueron años estudiando matemáticas y, por extensión, las partes más analíticas de la estadística.
+es de lo más parecido a que me repitan unos chorizos que me ha ocurrido últimamente. Salvo que en lugar de chorizos, me repetían los años estudiando matemáticas y, por extensión, las partes más analíticas de la estadística.
 
 Con inmerecida delicadeza, se me respondió:
 

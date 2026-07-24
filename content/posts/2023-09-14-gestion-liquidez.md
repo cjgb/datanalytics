@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2023-09-14
-lastmod: '2025-04-06T18:49:34.514263'
+lastmod: '2026-07-21'
 related:
 - 2023-09-21-inversiones-renta-variable.md
 - 2012-01-09-c2bfcuanto-gana-el-banco-con-tu-hipoteca.md
@@ -17,13 +17,13 @@ title: Gestión de la liquidez en tiempos de inflación
 url: /2023/09/14/gestion-liquidez/
 ---
 
-### I.
+### I
 
-Hubo un tiempo en el que en estas páginas, dejado arrastrar por la corriente, me interesaba por asuntos de esos en los que se asumía la esfericidad de los seres humanos y se estudiaban asuntos como la comparación del radio promedio del alumno esférico español con el de los de otros países de la OCDE. Y otras cosas parecidas o peores.
+Hubo un tiempo en el que en estas páginas, abandonado a la corriente, me interesaba por esos asuntos en los que se asumía la esfericidad de los seres humanos y se estudiaban cuestiones como la comparación del radio del alumno esférico español promedio con el de los de otros países de la OCDE. Y otras cosas parecidas o peores.
 
-Desafortunadamente, no somos esféricos, arrastramos nuestras circunstancias multidimensionales y es improbable que vuelva a ocuparme en estas páginas de asuntos que no me competan directamente. Con la esperanza de que puedan ser útiles para otros que se vean en ellos involucrados pero sin garantía ni propósito alguno de universalidad.
+Desafortunadamente, no somos esféricos, arrastramos nuestras circunstancias multidimensionales y es improbable que vuelva a ocuparme en estas páginas de asuntos que no me competan directamente. Albergo la esperanaza de que los que trate puedan resultar útiles para otros que compartan su circunstancia, pero reniego de todo tipo de garantías y propósitos de universalidad.
 
-### II.
+### II
 
 * Esta entrada fue escrita en la fecha que se indica y una alteración de la coyuntura económica podría condenarla a la obsolescencia en unos meses. Querido lector: consulta la fecha de publicación antes de seguir.
 * Esta entrada fue escrita en un lugar muy concreto: España. No está claro qué provecho puede extraer de ella quien la lea desde otras latitudes.
@@ -31,7 +31,7 @@ Desafortunadamente, no somos esféricos, arrastramos nuestras circunstancias mul
 [_goals based investment_](/2023/06/20/goals-based-investment/)
 y encontrar que su Excel (en el peor de los casos) o Python (en el más sofisticado) les sugiere mantener un nivel determinado de activos líquidos. Para ponerle un número a lo que llamar _exceso de liquidez_, en lo que sigue se estará hablando de rentabilidades en torno a un 3%, que son un par de cafés al mes por cada 1000 euros; tendrá pues _exceso de liquidez_ alguien a quien el esfuerzo de leer lo que sigue y tomarse la molestia, de parecerle bien, de aplicar las medidas oportunas le rinda un número mensual compensatorio de cafés.
 
-### III.
+### III
 
 Quien haya llegado hasta este punto tiene un dinero en la cuenta corriente perdiendo valor adquisitivo día a día (de nuevo, consúltese la fecha de publicación de esta entrada). Los bancos españoles apenas remuneran las cuentas corrientes. Dicen de cara a la galería que ya tienen suficientes pasivos y que no necesitan molestarse por obtener más. Cosa rara: de obtener más depósitos pagando un tipo de interés moderado, podrían invertir en cosas como deuda del estado al 3% y ganar dinero _gratis_. Más creíble es otro motivo que dice menos mal de la racionalidad de los banqueros patrios: lanzarse a una carrera de remuneración de los activos en cuentas corrientes es un juego de suma ---prácticamente--- cero. Se enfrentan a un dilema del prisionero a varias bandas y están aplicando la solución de libro: cooperar en tanto que los demás cooperen.
 
@@ -51,7 +51,7 @@ o al Euribor a 3 meses,
 
 Es decir, a fecha de hoy, redondeando y restando las comisiones de gestión, algo por encima del 3%.
 
-### IV.
+### IV
 
 Consejos para los interesados en el asunto:
 

@@ -59,7 +59,7 @@ plot(muestra, type = "l", main = "Eventos por fecha",
 
 Primero he definido los parámetros que lo gobiernan: `mu`, `alfa` y `delta`. En un día `i`, el número de eventos que suceden se simula como `rpois(1, lambda(i))`, es decir, como una distribución de Poisson con un parámetro `lambda` que es igual a `mu` (una intensidad base) más `alfa` veces el número de eventos que suceden en los `delta` días anteriores.
 
-(Nota: Exiten formulaciones alternativas usando decaimientos exponenciales que no discutiré aquí).
+(Nota: Existen formulaciones alternativas usando decaimientos exponenciales que no discutiré aquí).
 
 La pregunta es: dada una muestra de ese proceso, ¿es posible recuperar los parámetros de partida? Eso es importante porque tienen interpretaciones potencialmente útiles: ¿existe correlación entre los eventos? ¿Se retroalimentan? ¿Durante cuánto tiempo existe retroalimentación?
 
