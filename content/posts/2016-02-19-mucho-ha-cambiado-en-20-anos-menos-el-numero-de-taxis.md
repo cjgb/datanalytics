@@ -20,7 +20,7 @@ title: Mucho ha cambiado en 20 años (menos el número de taxis)
 url: /2016/02/19/mucho-ha-cambiado-en-20-anos-menos-el-numero-de-taxis/
 ---
 
-Muchas cosas han cambiado en los últimos 20 años. De hecho, acaba de hacer 20 años desde la primera vez que me conecté a internet y que tuve una cuenta de correo electrónico.
+Muchas cosas han cambiado en los últimos 20 años. De hecho, son los que acaban de cumplirse desde la primera vez que me conecté a internet y obtuve mi primera cuenta de correo electrónico.
 
 Sin embargo,
 

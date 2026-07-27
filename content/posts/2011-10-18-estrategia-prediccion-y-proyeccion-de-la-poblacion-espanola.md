@@ -28,7 +28,7 @@ La estrategia concierne a sucesos futuros. Por ser futuros, son inciertos. Y el 
 
 
 1. **Un futuro suficientemente claro:** las tendencias son muy claras y no se esperan sorpresas. En resumen, hay un único escenario posible y la estrategia adecuada consiste en adaptarse a él.
-2. **Varios futuros alternativos:** existe un número concreto de alternativas o escenarios, cada uno de las cuales con su propia probabilidad de ocurrir. Por ejemplo, los bares barajaron recientemente dos posibles alternativas: la futura ley podría prohibir fumar taxativamente (como ocurrió) o permitir tal vicio en áreas específicas y adaptadas. A cada suceso puede asignársele una probabilidad discreta, diría un matemático.
+2. **Varios futuros alternativos:** existe un número concreto de alternativas o escenarios, cada uno de los cuales con su propia probabilidad de ocurrir. Por ejemplo, los bares barajaron recientemente dos posibles alternativas: la futura ley podría prohibir fumar taxativamente (como ocurrió) o permitir tal vicio en áreas específicas y adaptadas. A cada suceso puede asignársele una probabilidad discreta, diría un matemático.
 3. **Un rango de futuros:** no existen escenarios discretos y concretos, pero sí un rango de opciones: la demanda puede ser cualquier cifra entre 0 y 1000, etc. Nuestro matemático entendería que este es un problema en el que rigen leyes de probabilidad continua.
 4. **Absoluta incertidumbre:** ocurre cuando es imposible plantear cualquier tipo de función de probabilidad. No obstante, aunque el artículo recoge algunos casos, subraya también que este tipo de situaciones son _inestables_ y suelen _degenerar_ con el tiempo en alguna de las situaciones anteriores.
 

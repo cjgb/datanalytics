@@ -21,7 +21,7 @@ url: /2013/08/30/el-cuarteto-de-anscombe/
 
 F. Anscombe escribió en 1973 el artículo [_Graphs in Statistical Analysis_](http://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf) para subrayar la importancia de los gráficos en el análisis estadístico.
 
-Esencialmente, el artículo se limita a presentar cuatro conjuntos de datos distintos con la misma media, varianza, correlación y recta de regresión (excúsenseme los abusos del lenguaje). Sin embargo tienen aspectos muy distintos:
+Esencialmente, el artículo se limita a presentar cuatro conjuntos de datos distintos con la misma media, varianza, correlación y recta de regresión (excúsenseme los abusos del lenguaje). Sin embargo, tienen aspectos muy distintos:
 
 [![](/img/2013/08/500px-Anscombes_quartet_3.svg_.png#center)
 ](/img/2013/08/500px-Anscombes_quartet_3.svg_.png#center)

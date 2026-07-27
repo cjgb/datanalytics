@@ -22,7 +22,7 @@ url: /2024/07/16/monosemanticidad/
 
 Hay gente que estudia el funcionamiento del cerebro. Una de las cosas que buscan es tratar de relacionar funciones cognitivas con regiones concretas. Para eso usan MRI, electrodos, etc. Yo qué sé. Un problema al que se enfrentan los investigadores es que estos procedimientos son o muy intrusivos, o tienen mucho ruido o ambos a la vez.
 
-Hay gente que busca entender de manera similar los LLMs y responder a preguntas del tipo: ¿es posible identificar coeficientes (o grupos de coeficientes) relacionados con conceptos concretos? Además, examinar los coeficientes de un LLM es mucho más sencillo que estudiar sinapsis de lejos. De todos modos, no está claro, a priori, que tenga que ocurrir de esa manera, es decir, que tengan que existir _regiones_ (no necesariamente físicamente colindantes) de los coeficientes que estén vinculadas unívocamente a un concepto determinado.
+Hay gente que busca entender de manera similar los LLMs y responder a preguntas del tipo: ¿es posible identificar coeficientes (o grupos de coeficientes) relacionados con conceptos concretos? Además, examinar los coeficientes de un LLM es mucho más sencillo que estudiar las sinapsis de lejos. De todos modos, no está claro, a priori, que tenga que ocurrir de esa manera, es decir, que tengan que existir _regiones_ (no necesariamente físicamente colindantes) de los coeficientes que estén vinculadas unívocamente a un concepto determinado.
 
 ### II
 

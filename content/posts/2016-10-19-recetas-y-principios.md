@@ -27,4 +27,4 @@ Me consta que parte de la audiencia quedó desconcertada y falta de algo más. �
 
 Igual, sí, se lo puede llamar metarreceta. Pero prefiero llamarlo principio (basado en la teoría, por supuesto). Existen principios de los cuales se derivan los recetarios.
 
-El primero y más importante, casi uno de los que derivan el resto, es el de la información (o de la cantidad de información) del que hablaré mañana.
+El primero y más importante ---podría casi decirse que es aquel del que derivan los demás---, es el de la información (o de la cantidad de información) del que hablaré mañana.
