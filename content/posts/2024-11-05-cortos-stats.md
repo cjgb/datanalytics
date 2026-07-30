@@ -15,7 +15,7 @@ tags:
 - stan
 - gpus
 - bmi
-- left
+- letfs
 - redondeo
 title: Un argumento en contra del redondeo y cuatro breves asuntos más
 url: /2024/11/05/cortos-estadistica/

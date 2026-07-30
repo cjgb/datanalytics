@@ -13,7 +13,7 @@ related:
 tags:
 - prueba de hipótesis
 - etfs
-- left
+- letfs
 - fraude
 - probabilidades pequeñas
 title: Cómo exprimir la prueba de Kolmogorov-Smirnov y unos cuantos asuntos más
