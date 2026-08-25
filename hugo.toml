@@ -4,7 +4,8 @@ baseURL = "https://datanalytics.com/"
 defaultContentLanguage = "es"
 enableRobotsTXT = true
 
-rssLimit = 20        # Only the last 20 posts
+[services.rss]
+  limit = 20        # Only the last 20 posts
 
 [languages.es]
   locale = "es"
@@ -66,6 +67,16 @@ Estas páginas reflejan parte de sus gustos e intereses intelectuales y profesio
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
+
+  [params.social]
+    twitter = "gilbellosta"
+
+  [params.schema]
+    publisherType = "Person"
+    sameAs = [
+      "https://twitter.com/gilbellosta",
+      "https://github.com/cjgb"
+    ]
 
   ## Profile mode (alternative to homeInfo)
   #[params.profileMode]

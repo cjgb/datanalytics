@@ -1,5 +1,5 @@
 ---
-author: datanalytics
+author: Carlos J. Gil Bellosta
 date: 2025-11-07
 draft: false
 title: Sobre mí
