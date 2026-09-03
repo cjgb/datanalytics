@@ -35,7 +35,7 @@ Otros hemos sido bendecidos con la paradójica virtud de la pereza creativa. La 
 {{< highlight R >}}
 query <- "select * from mitabla
     where country = @countryid and year = @year"
-query <- gsub("@countryid", my.country")
+query <- gsub("@countryid", my.country)
 query <- gsub("@year", my.year)
 {{< / highlight >}}
 

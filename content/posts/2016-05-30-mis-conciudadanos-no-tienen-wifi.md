@@ -24,7 +24,7 @@ A alguien leí el otro día que decía que en un bar de carretera habían coloca
 
 {{< highlight R >}}
 library(rvest)
-library(<a href="http://inside-r.org/packages/cran/tm">tm)
+library(tm)
 library(wordcloud)
 
 res <- sapply(1:17, function(i){

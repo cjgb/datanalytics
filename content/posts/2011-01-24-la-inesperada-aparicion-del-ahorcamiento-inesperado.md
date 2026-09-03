@@ -19,7 +19,7 @@ url: /2011/01/24/la-inesperada-aparicion-del-ahorcamiento-inesperado/
 
 Procrastinando, he dado con [este artículo](http://www.fedeablogs.net/economia/?p=8878) en una bitácora que sigo esporádicamente. Mis lectores no van a entender ni papa de lo que sigue si no siguen el enlace y se enteran de qué va.
 
-¿Ya? Pues continúo con un comentario que el filtro de _spam _de dicha bitácora no me ha dejado publicar. Recoge el siguiente razonamiento:
+¿Ya? Pues continúo con un comentario que el filtro de _spam_ de dicha bitácora no me ha dejado publicar. Recoge el siguiente razonamiento:
 
 Supongamos que tenemos cinco damas llamadas Lunes, Martes, Miércoles, Jueves y Viernes. Y un condenado a muerte que tiene que ser ahorcado en la semana que comienza. Este ha pedido al alcaide como postrera voluntad no saber la noche previa si va a ser ahorcado al amanecer: quiere dormir plácidamente las últimas horas de su vida.
 

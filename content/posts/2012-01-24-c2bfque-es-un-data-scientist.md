@@ -19,7 +19,7 @@ url: /2012/01/24/que-es-un-data-scientist/
 
 Un _data scientist_ es un señor que sabe de varias cosas que no se enseñan ni juntas ni bien por separado en nuestras universidades. Y que, además, se desaprenden rápido en las oficinas y covachuelas donde acabamos ejerciendo. A no ser, claro está, que uno tenga la vocación y la capacidad para nadar contracorriente.
 
-Extraigo de [dataists ](http://www.dataists.com/2010/09/the-data-science-venn-diagram/)el siguiente gráfico,
+Extraigo de [dataists ](http://www.dataists.com/2010/09/the-data-science-venn-diagram/) el siguiente gráfico,
 
 [![](/img/2012/01/Data_Science_VD.png#center)
 ](/img/2012/01/Data_Science_VD.png#center)

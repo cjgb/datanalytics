@@ -19,7 +19,7 @@ title: Bajo el capó de teradataR
 url: /2011/12/09/bajo-el-capo-de-teradatar/
 ---
 
-Me gustaría haber podido indagar bajo el capó de teradataR, el [paquete de R desarrollado por Teradata](http://developer.teradata.com/applications/articles/in-database-analytics-with-teradata-r) que permite que R realice lo que llaman por ahí _in database analytics _utilizando dicha plataforma propietaria.
+Me gustaría haber podido indagar bajo el capó de teradataR, el [paquete de R desarrollado por Teradata](http://developer.teradata.com/applications/articles/in-database-analytics-with-teradata-r) que permite que R realice lo que llaman por ahí _in database analytics_ utilizando dicha plataforma propietaria.
 
 Ya [lo probé hace un tiempo](https://datanalytics.com/2011/04/18/teradata-r-y-las-iii-jornadas-de-usuarios-de-r/) con resultados bastante desiguales y que distaban muy mucho de mis expectativas originales, habida cuenta de las muchas bondades del gestor relacional. Durante mucho tiempo he tenido la intención de desentrañar los secretos del paquete, pero me contuvieron los términos desacostumbradamente restrictivos de la licencia:
 

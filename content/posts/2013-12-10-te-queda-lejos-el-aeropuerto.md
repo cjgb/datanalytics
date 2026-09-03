@@ -65,7 +65,7 @@ El _shapefile_ están descargado de [GADM](http://www.gadm.org/). La función `p
 Luego he creado una malla de puntos a partir de los extremos de la península y he utilizado el paquete `geosphere` para calcular la distancia entre puntos expresados en términos de su latitud/longitud.
 
 {{< highlight R >}}
-library(<a href="http://inside-r.org/packages/cran/geosphere">geosphere)
+library(geosphere)
 
 extremos <- apply(peninsula@coords, 2, range)
 grid.lat <- seq(from = extremos[1,2], to = extremos[2,2], length.out = 1000)

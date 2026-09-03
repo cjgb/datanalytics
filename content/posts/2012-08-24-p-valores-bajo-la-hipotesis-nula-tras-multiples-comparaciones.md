@@ -33,7 +33,7 @@ foo <- function(){
 }
 {{< / highlight >}}
 
-¿Y qué pasa si se ejecuta _muchas _veces? Esto:
+¿Y qué pasa si se ejecuta _muchas_ veces? Esto:
 
 {{< highlight R >}}
 plot(sort(replicate(1000, foo())))
@@ -46,6 +46,6 @@ Que gráficamente, para los perezosos, tiene esta pinta:
 
 Este gráfico pone de manifiesto que los p-valores obtenidos siguen una ley uniforme (en [0,1]) tal y como cabe esperar de la teoría. Porque el p-valor no es otra cosa que $F^{-1}(X)$ donde en este caso, bajo la hipótesis nula, $X$ tiene la distribución dada por $F$.
 
-Es decir, _probadas _un número suficiente de hipótesis, siempre habrá alguna que resulte _significativa_.
+Es decir, _probadas_ un número suficiente de hipótesis, siempre habrá alguna que resulte _significativa_.
 
 El lector interesado podrá encontrar una discusión similar [en los enlaces de la entrada que publiqué ayer](https://datanalytics.com/2012/08/23/ajustar-o-no-ajustar-esta-es-la-cuestion/).

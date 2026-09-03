@@ -71,7 +71,7 @@ Luego puedo elegir el tipo de hardware sobre el que correrá mi sesión: número
 [![](/img/2011/09/select_hardware.png#center)
 ](/img/2011/09/select_hardware.png#center)
 
-Finalmente, puedo dar un nombre a la instancia y confirmar la selección. A partir de ese momento, comienza la instalación de la sesión _—_proceso que puede llevar varios minutos_—_ al cabo del cual se tiene acceso a la interfaz de la sesión. A través del navegador, uno se encuentra con varias pestañas.
+Finalmente, puedo dar un nombre a la instancia y confirmar la selección. A partir de ese momento, comienza la instalación de la sesión —proceso que puede llevar varios minutos— al cabo del cual se tiene acceso a la interfaz de la sesión. A través del navegador, uno se encuentra con varias pestañas.
 
 Una de ellas es la de la consola, donde puede ejecutar R. Los paquetes elegidos de antemano están disponibles.
 

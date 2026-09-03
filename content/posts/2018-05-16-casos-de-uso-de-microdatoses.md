@@ -19,7 +19,7 @@ title: Casos de uso de MicroDatosEs
 url: /2018/05/16/casos-de-uso-de-microdatoses/
 ---
 
-[`MicroDatosEs`](https://github.com/rOpenSpain/MicroDatosEs) ha sufrido algunas modificaciones recientes. En particular, un nuevo colaborador, Jorge López Pérez ha reescrito la documentación usando [`roxygen2`](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html)`.
+[`MicroDatosEs`](https://github.com/rOpenSpain/MicroDatosEs) ha sufrido algunas modificaciones recientes. En particular, un nuevo colaborador, Jorge López Pérez ha reescrito la documentación usando [`roxygen2`](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html).
 
 Pero falta una cosa importante (sobre todo, para el usuario esporádico): casos de uso.
 

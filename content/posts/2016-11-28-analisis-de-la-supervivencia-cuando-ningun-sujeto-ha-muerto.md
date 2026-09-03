@@ -39,7 +39,7 @@ Finalmente, por si alguien quiere echarle un vistazo a los datos, los puede baja
 {{< highlight R >}}
 library(rvest)
 
-res <- read_html("http://micro4tercios.com/foro/viewtopic.php?f=5&t;=26600")
+res <- read_html("http://micro4tercios.com/foro/viewtopic.php?f=5&t=26600")
 res <- html_nodes(res,
                 xpath='//*[@class="polls"]/dl/dd[@class="resultbar"]')
 res <- as.numeric(html_text(res))

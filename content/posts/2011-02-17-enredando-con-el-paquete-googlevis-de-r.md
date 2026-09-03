@@ -23,7 +23,7 @@ Si el otro día denuncié [un gráfico engañabobos](https://datanalytics.com/20
 
 Habedlo:
 
-[cf]googleViz[/cf]
+googleVis
 
 
 

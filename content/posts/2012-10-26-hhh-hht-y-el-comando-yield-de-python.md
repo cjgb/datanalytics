@@ -86,6 +86,6 @@ while(True):
         yield a,b,c
 {{< / highlight >}}
 
-en la función `cadena`, que recuerda entre llamada y llamada el estado de las variables (internas a ella) `a`, `b` y `c` (además de devolver, como haría `return`, el valor generado.
+en la función `cadena`, que recuerda entre llamada y llamada el estado de las variables (internas a ella) `a`, `b` y `c` (además de devolver, como haría `return`, el valor generado).
 
 Si tengo un poco de tiempo, veré si puedo implementar esta misma solucíón (sospecho que podría ser posible) con el [paquete iterators de R](http://cran.r-project.org/web/packages/iterators/index.html).

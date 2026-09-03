@@ -32,7 +32,7 @@ Reproduzco aquí el no particularmente breve (y de hecho, el más largo de los p
 >
 > Existe una literatura abundante sobre las causas y efectos de la paradoja de Simpson en áreas tan dispares como la de los análisis clínicos, la teoría de la calidad, etc. Pocas son las disciplinas que no cuentan con su anecdotario propio sobre las consecuencias de una interpretación superficial de los datos en los que se manifiesta dicha paradoja. Por eso, es razonable considerar que muchos de los usuarios de la estadística (economistas, sicólogos, etc.) están ya debidamente inmunizados frente a los efectos de la paradoja de Simpson, que son capaces de identificarla cuando ocurre y tomar las medidas oportunas para limpiar sus conclusiones de resultados espurios.
 >
-> El actual despliegue del periodismo de datos hace necesario extender la campaña de vacunación frente a la paradoja de Simpson a ese nuevo colectivo de investigadores cuantitativos. De la urgencia de este programa es síntoma la existencia ­el uso del término proliferación sería excesivo­ de ejemplos aparecidos en los grandes medios de análisis que bien podrían considerarse afectados por la paradoja de Simpson.
+> El actual despliegue del periodismo de datos hace necesario extender la campaña de vacunación frente a la paradoja de Simpson a ese nuevo colectivo de investigadores cuantitativos. De la urgencia de este programa es síntoma la existencia —el uso del término proliferación sería excesivo— de ejemplos aparecidos en los grandes medios de análisis que bien podrían considerarse afectados por la paradoja de Simpson.
 >
 > Esto es tanto más de lamentar cuanto que los prerrequisitos para identificar y resolver la paradoja son conceptos aritméticos elementales.
 >

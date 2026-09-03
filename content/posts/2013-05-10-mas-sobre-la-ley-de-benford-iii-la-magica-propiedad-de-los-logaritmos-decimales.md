@@ -19,7 +19,7 @@ title: 'Más sobre la ley de Benford (III): la "mágica" propiedad de los logari
 url: /2013/05/10/mas-sobre-la-ley-de-benford-iii-la-magica-propiedad-de-los-logaritmos-decimales/
 ---
 
-Esta entrada tiene como prerrequisito las dos que la preceden: [esta](https://datanalytics.com/2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente/) y [esta](https://datanalytics.com/2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente/).
+Esta entrada tiene como prerrequisito las dos que la preceden: [esta](https://datanalytics.com/2013/04/16/mas-sobre-la-ley-de-benford-i-una-condicion-suficiente/) y [esta](https://datanalytics.com/2013/05/03/mas-sobre-la-ley-de-benford-ii-la-distribucion-de-la-parte-fraccionaria/).
 
 Si $x_1, \dots, x_n$ es una muestra de una distribución de probabilidad $X$ _regular_ y _extendida_, entonces $\log_{10}x_1, \dots, \log_{10}x_n$ es una muestra de $\log_{10}X$, que es otra distribución de probabilidad
 

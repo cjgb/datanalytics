@@ -33,4 +33,4 @@ Ahora nos enteramos de que [Cataluña maquilló el resultado del examen de PISA]
 
 ¿Es culpa de la estadística? Obviamente no. Si hubo manipulación, esta fue promovida por (ciertos) los poderes públicos. Pero, ¿fue la culpa de los estadísticos? Estoy seguro de que sí: ¿ninguno se plantó y protestó? ¿Todos acataron las instrucciones de arriba? ¿Habrán hojeado el [código deontológico del International Statistical Institute](http://isi-web.org/about/declarationprofessionalethics-2010uk)?
 
-Un estadístico no es un operario que tenga que decir que sí a la primera corbata escalafonada. ¿Imagináis qué pasaría si fuese un médico al que _invitasen a proporcionar un tratamiento inferior a un enfermo?
+Un estadístico no es un operario que tenga que decir que sí a la primera corbata escalafonada. ¿Imagináis qué pasaría si fuese un médico al que _invitasen a proporcionar un tratamiento inferior a un enfermo?_

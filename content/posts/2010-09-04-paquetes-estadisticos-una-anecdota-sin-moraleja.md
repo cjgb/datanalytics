@@ -49,7 +49,7 @@ Es decir, valores indistinguibles de cero tal y como cabía esperar.
 
 En fin, que le deseo mucha suerte al banco que gana mucho dinero con su programa ininteligible, mucha suerte a los consultores que tuvieron la caridad de preguntarme con la reimplementación del algoritmo sobre un sistema obsolescente y unas muy merecidas y descansadas vacaciones al desarrollador encargado de poner a punto las rutinas de cálculo de probabilidades inversas del afamado paquete estadístico.
 
-**Nota: **esta entrada es otra de las de mi antiguo blog y ya algo añeja. Omití en ella —y no recuerdo el motivo— que los tiempos de ejecución del proceso, hiciesen o no algo con sentido, eran:
+**Nota:** esta entrada es otra de las de mi antiguo blog y ya algo añeja. Omití en ella —y no recuerdo el motivo— que los tiempos de ejecución del proceso, hiciesen o no algo con sentido, eran:
 
 * De cuatro a seis horas en la versión VB sobre un ordenador de sobremesa potente. El código ocupaba unos cuantos miles de líneas.
 * De 15 a 20 minutos sobre un servidor poderoso usando el afamado paquete estadístico (del orden de 600 líneas de código).

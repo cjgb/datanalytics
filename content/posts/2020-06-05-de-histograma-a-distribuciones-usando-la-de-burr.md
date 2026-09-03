@@ -49,7 +49,7 @@ datos <- datos[, c("tramo_hasta", "pct")]
 datos <- datos[datos$tramo != "Total",]
 
 datos$tramo_hasta <- c(500, 1000, 1500, 2000, 2500, 3000, 4500, Inf)
-datos$tramo_desde <- c(0, head(datos$tramo_hasta, -1)
+datos$tramo_desde <- c(0, head(datos$tramo_hasta, -1))
 
 datos$acum <- cumsum(datos$pct)
 datos$prob <- datos$pct / 100

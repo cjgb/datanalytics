@@ -23,7 +23,7 @@ title: Riesgo e incertidumbre
 url: /2011/03/11/riesgo-e-incertidumbre/
 ---
 
-He encontrado dos (¿cuatro?) definiciones contradictorias de _riesgo _e _incertidumbre_. La primera está implícita en una frase del artículo [_The ratings game_](http://www.brookings.edu/articles/1999/07useconomics_mayer.aspx) de Martin Mayer y dice, según mi traducción, así:
+He encontrado dos (¿cuatro?) definiciones contradictorias de _riesgo_ e _incertidumbre_. La primera está implícita en una frase del artículo [_The ratings game_](http://www.brookings.edu/articles/1999/07useconomics_mayer.aspx) de Martin Mayer y dice, según mi traducción, así:
 
 >Knight realizó una distinción categórica entre el riesgo, que puede ser medido, y la incertidumbre, que no puede serlo.
 

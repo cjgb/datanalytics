@@ -37,7 +37,9 @@ Sin pensar demasiado, a uno se le ocurre utilizar diagramas de cajas mediante un
 boxplot( nivel.proteina ~ grupo, dat = datos )
 {{< / highlight  >}}
 
-que genera esto:[![](/img/2010/09/boxplot.png#center)
+que genera esto:
+
+[![](/img/2010/09/boxplot.png#center)
 ](/img/2010/09/boxplot.png#center)
 
 Pero para conjuntos de datos tan pequeños, las cajas no acaban de satisfacerme: sustituyen —tal vez demasiado _filosóficamente_— el dato mismo por una representación conceptual suya: es como llamar bosque a un conjunto de tan solo 18 árboles. Así que utilizando unos gráficos que vi en el [libro de Pinheiro y Bates](http://stat.bell-labs.com/NLME/MEMSS/index.html), hice

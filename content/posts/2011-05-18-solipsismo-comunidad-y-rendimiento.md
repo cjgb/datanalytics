@@ -45,7 +45,7 @@ Ciertamente, es una opción. y es justificable y válida en algunas circunstanci
 
 
 
-* **Legibilidad y mantenibilidad:** gran parte del coste asociado al desarrollo de _software_ no está asociado a su eficiencia sino a la facilidad con que se puede entender, extender y mejorar. La potencial caja de Pandora que puede abrirse de extender la sustitución de  `mean` por `sum(x)/length(x)`a más y más complejas funciones, encierra crujir de huesos y rechinar de dientes.
+* **Legibilidad y mantenibilidad:** gran parte del coste asociado al desarrollo de _software_ no está asociado a su eficiencia sino a la facilidad con que se puede entender, extender y mejorar. La potencial caja de Pandora que puede abrirse de extender la sustitución de  `mean` por `sum(x)/length(x)` a más y más complejas funciones, encierra crujir de huesos y rechinar de dientes.
 * **Beneficio de las mejoras:** el uso de funciones de alto nivel, aunque pueda sufrir una penalización _ahora_, permite aprovechar las mejoras que se hagan en el _futuro_ sin tocar el código. Todo lo que se optimice _bajo el capó_ redundará en una automática y gratuita mejora de la eficiencia.
 
 Afotunadamente, R es un proyecto colaborativo y libre. Es seguro que los desarrolladores acabarán prestando atención a ese sector de usuarios que demandan mejoras de rendimiento. Y para que eso ocurra es labor de los interesados alentar el debate y hacer manifiesta su necesidad. Espero que este mensaje contribuya positivamente a ello.

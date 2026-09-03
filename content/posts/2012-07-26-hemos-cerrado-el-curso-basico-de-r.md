@@ -79,7 +79,7 @@ De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso
 
 Así que creo que es bastante probable que después de las vacaciones planteemos un nuevo curso con contenido aún a determinar.
 
-Lo malo (¡o excelente, según se mire!) es que en la pregunta de respuesta libre sobre lo que cada uno está más interesado en aprender... ¡hay tantos asuntos distintos! Desde _trading _automático a análisis de la supervivencia; de minería de datos a geoestadística, etc. ¿Cómo contentar a todos?
+Lo malo (¡o excelente, según se mire!) es que en la pregunta de respuesta libre sobre lo que cada uno está más interesado en aprender... ¡hay tantos asuntos distintos! Desde _trading_ automático a análisis de la supervivencia; de minería de datos a geoestadística, etc. ¿Cómo contentar a todos?
 
 Finalmente, estamos pensando en elaborar unos apuntes con el contenido del curso para ediciones futuras. A ver si nos ponemos a ello. De hecho, algunos de quienes han seguido el curso se han ofrecido voluntarios.
 

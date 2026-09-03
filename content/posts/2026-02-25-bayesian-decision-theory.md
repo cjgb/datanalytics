@@ -70,7 +70,7 @@ def model(price: Float[Array, " n"]) -> Float[Array, " n"]:
 
     mu = numpyro.deterministic("mu", a * price**b)
 
-    optimal_price =numpyro.deterministic("optimal_price", (b * cost) / (1 + b))
+    optimal_price = numpyro.deterministic("optimal_price", (b * cost) / (1 + b))
 
     numpyro.sample("sales", dist.Normal(loc=mu, scale=sigma))
 
@@ -80,7 +80,7 @@ def model(price: Float[Array, " n"]) -> Float[Array, " n"]:
 La línea adicional
 
 ```python
-optimal_price =numpyro.deterministic("optimal_price", (b * cost) / (1 + b))
+optimal_price = numpyro.deterministic("optimal_price", (b * cost) / (1 + b))
 ```
 
 permite extraer el precio óptimo asociado a cada estimación de $b$ (y, por lo tanto, construir la gráfica mostrada más arriba).
@@ -88,7 +88,7 @@ permite extraer el precio óptimo asociado a cada estimación de $b$ (y, por lo 
 Más en general, es incluso posible sustituir la línea anterior por otra más genérica,
 
 ```python
-optimal_price =numpyro.deterministic("optimal_price", find_optimal_price(a, b))
+optimal_price = numpyro.deterministic("optimal_price", find_optimal_price(a, b))
 ```
 
 para aquellos casos en los que la fórmula del precio óptimo no sea analítica y fácilmente operativizable. E incluso podría utilizarse optimización numérica:

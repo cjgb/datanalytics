@@ -30,7 +30,7 @@ Está en una página tal vez insospechada: la que cuenta qué es un [bien públi
 * No rivalidad: "la rivalidad en el consumo de un producto implica que el consumo por parte de un individuo impide el uso por otros"
 * No exclusión: "imposibilidad de excluir del consumo de un producto a determinadas personas"
 
-Antaño la prensa caía dentro de lo que la Wikipedia define como [bienes _club_](http://es.wikipedia.org/wiki/Bienes_club): se podía excluir del consumo (lectura) de un reportaje a quien no pagase el precio de un periódico; pero este no se _gastaba _porque lo leyesen 100, 1000 o 100000 personas más.
+Antaño la prensa caía dentro de lo que la Wikipedia define como [bienes _club_](http://es.wikipedia.org/wiki/Bienes_club): se podía excluir del consumo (lectura) de un reportaje a quien no pagase el precio de un periódico; pero este no se _gastaba_ porque lo leyesen 100, 1000 o 100000 personas más.
 
 El motivo último que mueve la pluma de los metaperiodistas es que internet ha desplazado el producto de los periodistas hacia la casilla inferior derecha, la de los bienes públicos. Y que, como consecuencia, los agentes privados que editan los periódicos subproducen periodismo de la misma manera que los agentes privados subproducen álgebra no conmutativa o física cuántica (y sobreproducen contaminación, que es un _mal público_).
 

@@ -22,7 +22,7 @@ url: /2011/06/30/desarrollo-de-paquetes-con-r-ii-primeros-pasos/
 La segunda entrada en mi serie sobre la creación de paquetes con R cubre los primeros pasos en la creación de uno. Bastan para tener una primera versión de un paquete en minutos. Pero antes, unos consejos generales:
 
 1. **Usar algún tipo de sistema operativo basado en Unix:** Linux, Mac OS, etc. o Cygwin en el peor de los casos. Tengo que confesar que yo comencé a usar Linux precisamente por este motivo: los procedimientos y herramientas que se utilizan para construir paquetes de R están influenciados por la _tradición Unix_. Es cierto que se han creado herramientas para poder desarrollarlos desde Windows pero, después de haber trabajado en Linux, me parecen incómodas y antinaturales: pasar de Linux a Windows es como pasar del Ferrari al borriquillo.
-2. **Registrar el proyecto en R-Forge**, [como ya hemos comentado previamente](https://datanalytics.com/2010/02/27/creando-paquetes-con-r-r-forge/). Dadas sus ventajas —siendo una de las principales permitir probar el paquete sobre varias plataformas distintas (Linux, Mac y Windows) automáticamente—solo se me ocurre un motivo para no utilizarlo: como el código está públicamente disponible, no es válido para desarrollar aplicaciones cerradas y propietarias.
+2. **Registrar el proyecto en R-Forge**, [como ya hemos comentado previamente](https://datanalytics.com/2010/02/27/creando-paquetes-con-r-r-forge/). Dadas sus ventajas —siendo una de las principales permitir probar el paquete sobre varias plataformas distintas (Linux, Mac y Windows) automáticamente— solo se me ocurre un motivo para no utilizarlo: como el código está públicamente disponible, no es válido para desarrollar aplicaciones cerradas y propietarias.
 3. Utilizar [subversion](https://datanalytics.com/2011/06/13/minitutorial-de-subversion/) (o [git](http://git-scm.com/)). Si el proyecto se aloja en R-Forge, subversion es la opción por defecto. Utilizar subversion permite gestionar mejor el desarrollo del paquete y facilita la colaboración entre los diversos autores.
 
 La manera en la que recomiendo comenzar a crear un paquete es partiendo de una serie de funciones ya desarrolladas previamente. Ni siquiera hace falta que estén terminadas ni que funcionen correctamente. Por ejemplo, podemos tener las dos funciones siguientes:
@@ -32,7 +32,7 @@ foo <- function( x ) 2 * x
 bar <- function( y ) 2 * y
 {{< / highlight >}}
 
-Si abrimos una nueva sesión de R —para que no haya funciones ni objetos adicionales en memoria (técnicamente, en el entorno global)— y cargamos esas funciones, podemos crear el _esqueleto _de nuestro paquete, al que llamaremos `mipaquete`, así:
+Si abrimos una nueva sesión de R —para que no haya funciones ni objetos adicionales en memoria (técnicamente, en el entorno global)— y cargamos esas funciones, podemos crear el _esqueleto_ de nuestro paquete, al que llamaremos `mipaquete`, así:
 
 {{< highlight R >}}
 package.skeleton( "mipaquete" )

@@ -17,7 +17,7 @@ title: 'StatProb: una wikipedia de estadística y probabilidad'
 url: /2010/09/21/statprob-una-wikipedia-de-estadistica-y-probabilidad/
 ---
 
-Me enteré de esta iniciativa y me ha faltado tiempo para divulgarla entre los lectores de mi blog: [StatProb, una enciclopedia de estadística y probabilidad ](http://statprob.com/)patrocinada por varias asociaciones con interés en la materia.
+Me enteré de esta iniciativa y me ha faltado tiempo para divulgarla entre los lectores de mi blog: [StatProb, una enciclopedia de estadística y probabilidad](http://statprob.com/) patrocinada por varias asociaciones con interés en la materia.
 
 Más que a la Wikipedia, se parece a los proyectos [Citizendium](http://en.citizendium.org) o [Knol](http://knol.google.com): los artículos son elaborados por _expertos_ y aparecen firmados. Esto tiene las sobradamente conocidas consecuencias: un desarrollo más cuidado pero, a la vez, mucho más lento. Aunque tal vez esto no sea totalmente indeseable para una enciclopedia dedicada a temas tan técnicos y _herméticos_ como los de ésta.
 

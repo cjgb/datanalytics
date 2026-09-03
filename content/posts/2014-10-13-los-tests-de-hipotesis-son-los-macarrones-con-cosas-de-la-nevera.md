@@ -25,7 +25,7 @@ Todos hemos comido macarrones _con cosas de la nevera_. Estás en casa, tienes h
 
 Viene esto a que cierta gente trabaja con grandes datos. Y quieren construir modelos. Y por algún motivo que no comprendo del todo, optan por la regresión logística. Hay mil motivos por los que estaría desaconsejado ajustar regresiones logísticas con todos los datos. Aun así, hay gente —sí, la hay— que lo hace.
 
-Pero, peor aún, algunos de ellos le piden macarrones al camarero: véase [_What about implementing various hypothesis test for LogisticRegression in MLlib_](http://markmail.org/message/kehnheqkwyaai3tt#query:+page:1+mid:qdkvy4nt2kdko5or+state:results ).
+Pero, peor aún, algunos de ellos le piden macarrones al camarero: véase [_What about implementing various hypothesis test for LogisticRegression in MLlib_](http://markmail.org/message/kehnheqkwyaai3tt#query:+page:1+mid:qdkvy4nt2kdko5or+state:results).
 
 Mal está que gasten electricidad ajustando un modelo simple con muchísimos más datos de los necesarios. Pero si después de eso quieren estimar si un determinado coeficiente es o no nulo... que se olviden de la estadística tradicional. La estadística tradicional es el subterfugio (los restos de comida) que usas cuando no tienes otra: cuando tienes tan pocos datos que tienes que empezar a especular sobre si esto o aquello es asintóticamente normal, a contar los graditos de libertad como si fueran las monedas para coger el bús, etc.
 

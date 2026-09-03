@@ -98,7 +98,9 @@ plot( groupedData( query.time ~ 1 | id, data = dat ) )
 se obtiene el siguiente gráfico:
 
 [![](/img/2010/08/grouped_data.png#center)
-](/img/2010/08/grouped_data.png#center)Se aprecia en él cómo la varianza de los tiempos de ejecución crece con éstos. Además, por consideraciones relativas a la construcción de los datos —un cruce de varias tablas de cada una de las cuales se extrae un número variable de filas— hay razones para intuir una estructura multiplicativa en los datos. Eso nos hace considerar el uso de logaritmos. De hecho,
+](/img/2010/08/grouped_data.png#center)
+
+Se aprecia en él cómo la varianza de los tiempos de ejecución crece con éstos. Además, por consideraciones relativas a la construcción de los datos —un cruce de varias tablas de cada una de las cuales se extrae un número variable de filas— hay razones para intuir una estructura multiplicativa en los datos. Eso nos hace considerar el uso de logaritmos. De hecho,
 
 {{< highlight R >}}
 plot( groupedData( log(query.time) ~ 1 | id, data = dat ) )

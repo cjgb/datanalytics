@@ -41,7 +41,7 @@ Por ejemplo, si el 1 de enero de 2014 el Euribor es del 1%, pagaría 1000000 * 0
 
 Obviamente, para _protegerme_ de subidas del Euribor, no compraría sino que vendería un futuro. Yo recibiría el interés correspondiente al Euribor en la fecha de expiración y pagaría la tasa deducida del precio de venta del futuro. Si el Euribor subiese un 1% desde la fecha de compra, ganaría 2.500 euros que compensarían el coste añadido de mi hipoteca.
 
-El _hedge _no es perfecto: la hipoteca tiene un nominal y unos vencimientos que no puedo replicar usando los contratos habituales. Además, los productos son distintos: mi hipoteca está referenciada al Euribor a 12 meses y los futuros, al Euribor a 3 meses. Pero su evolución es, históricamente, paralela, como se puede apreciar en la siguiente figura (gentileza de la Wikipedia),
+El _hedge_ no es perfecto: la hipoteca tiene un nominal y unos vencimientos que no puedo replicar usando los contratos habituales. Además, los productos son distintos: mi hipoteca está referenciada al Euribor a 12 meses y los futuros, al Euribor a 3 meses. Pero su evolución es, históricamente, paralela, como se puede apreciar en la siguiente figura (gentileza de la Wikipedia),
 
 [![](/img/2012/01/euribor1999_2011.png#center)
 ](/img/2012/01/euribor1999_2011.png#center)

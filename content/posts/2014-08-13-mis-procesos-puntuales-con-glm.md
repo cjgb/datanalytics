@@ -36,7 +36,7 @@ Ejecuto el código del otro día y obtengo (para un caso nuevo)
     7  0.1217504 0.12150745      288.5448     7
     8  0.1214365 0.10424818      289.3282     8
     9  0.1204605 0.09148817      290.9081     9
-    10 0.1315896 0.07857330      295.3935    10</code>
+    10 0.1315896 0.07857330      295.3935    10
 {{< / highlight >}}
 
 que significa que el parámetro _óptimo_ es `delta = 5`, `mu = 0.124` y `alfa = 0.18`.

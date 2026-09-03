@@ -19,7 +19,7 @@ title: 'Desarrollo de paquetes con R (IV): funciones genéricas'
 url: /2011/08/04/desarrollo-de-paquetes-con-r-iv-funciones-genericas/
 ---
 
-La función `plot` es genérica. Uno puede aplicársela a un `data.frame` o a un objeto de la clase `lm`. Y en el fondo, `plot`solo elige cuál de sus _métodos_, es decir, las funciones que realizan el trabajo verdaderamente, aplicar. Para ver cuáles son los métodos asociados a `plot` basta con ejecutar en R
+La función `plot` es genérica. Uno puede aplicársela a un `data.frame` o a un objeto de la clase `lm`. Y en el fondo, `plot` solo elige cuál de sus _métodos_, es decir, las funciones que realizan el trabajo verdaderamente, aplicar. Para ver cuáles son los métodos asociados a `plot` basta con ejecutar en R
 
 
 
@@ -142,7 +142,7 @@ as.px.array  <- function (x, skeleton.px = NULL, list.keys = NULL  )
 
 que es una extensión de la de `as.px` (no lo sería si su primer argumento fuese `y`, por ejemplo).
 
-También hay que **exportar todas las funciones** anteriores usando el fichero `NAMESPACE `del paquete.
+También hay que **exportar todas las funciones** anteriores usando el fichero `NAMESPACE` del paquete.
 
 El único punto delicado y que se desvía de la _norma_ radica en los ficheros de ayuda. Yo suelo documentar las funciones genéricas y sus métodos en un mismo fichero. Así, el encabezamiento del fichero `.Rd` puede ser así:
 

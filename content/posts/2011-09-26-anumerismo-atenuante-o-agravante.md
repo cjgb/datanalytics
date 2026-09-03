@@ -28,7 +28,7 @@ Lo escandaloso son las alegaciones de los abogados de la entidad:
 
 Olé.
 
-El [NIF](http://es.wikipedia.org/wiki/N%C3%BAmero_de_identificaci%C3%B3n_fiscal) en España es un número de ocho cifras al que sigue una letra. La letra es una codificación del [resto de la división módulo 23 del número precedente](https://es.wikibooks.org/wiki/Algoritmia/Algoritmo_para_obtener_la_letra_del_NIF). Está por tanto diseñado para evitar errores por alteración en el orden de los dígitos, o el simple cambio de un número por otro_. Al menos, 22 de cada 23 errores.
+El [NIF](http://es.wikipedia.org/wiki/N%C3%BAmero_de_identificaci%C3%B3n_fiscal) en España es un número de ocho cifras al que sigue una letra. La letra es una codificación del [resto de la división módulo 23 del número precedente](https://es.wikibooks.org/wiki/Algoritmia/Algoritmo_para_obtener_la_letra_del_NIF). Está por tanto diseñado para evitar errores por alteración en el orden de los dígitos, o el simple cambio de un número por otro. Al menos, 22 de cada 23 errores.
 
 Cometer un error tan improbable 4 veces seguidas, tantas como accesos al fichero, sería... ejem, bastante improbable.
 

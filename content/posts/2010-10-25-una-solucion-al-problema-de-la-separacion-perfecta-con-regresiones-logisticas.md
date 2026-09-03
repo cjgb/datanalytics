@@ -60,7 +60,7 @@ Entre las soluciones que tienen algún sentido, aquella por la que me decanté c
 
 En esencia, la corrección de Firth es una penalización en el tamaño de los coeficientes: impide que ninguno de ellos crezca ilimitadamente. Pero se comprende mejor desde una óptica bayesiana.
 
-Así, al realizar una regresión logística se busca maximizar la función de verosimilitud $L( \beta ) = \log f( x | \beta )$. La modificación de Firth busca el máximo (o moda) de la distribución _a posteriori_ de $\beta$ tomando como distribución _a priori_ una distribución no informativa: la llamada [distribución de Jeffrey](http://en.wikipedia.org/wiki/Jeffreys_prior). La distribución a_ posteriori_ de $\beta$ es, aplicando el teorema de Bayes, proporcional a
+Así, al realizar una regresión logística se busca maximizar la función de verosimilitud $L( \beta ) = \log f( x | \beta )$. La modificación de Firth busca el máximo (o moda) de la distribución _a posteriori_ de $\beta$ tomando como distribución _a priori_ una distribución no informativa: la llamada [distribución de Jeffrey](http://en.wikipedia.org/wiki/Jeffreys_prior). La distribución _a posteriori_ de $\beta$ es, aplicando el teorema de Bayes, proporcional a
 
 
 $$f( x | \beta ) J( \beta )$$

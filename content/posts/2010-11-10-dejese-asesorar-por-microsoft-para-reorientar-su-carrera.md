@@ -17,7 +17,7 @@ title: Déjese asesorar por Microsoft para reorientar su carrera
 url: /2010/11/10/dejese-asesorar-por-microsoft-para-reorientar-su-carrera/
 ---
 
-Por algún motivo, tal vez la crisis, últimamente hay quienes preguntan sobre cómo (re)enfocar sus carreras en este mundillo que tiene que ver con lo que hago y escribo. Voy a hacerles el favor de responderles globalmente con lo que opina alguien cuyo _net present worth _es en muchos órdenes de magnitud superior al mío.
+Por algún motivo, tal vez la crisis, últimamente hay quienes preguntan sobre cómo (re)enfocar sus carreras en este mundillo que tiene que ver con lo que hago y escribo. Voy a hacerles el favor de responderles globalmente con lo que opina alguien cuyo _net present worth_ es en muchos órdenes de magnitud superior al mío.
 
 Porque ya que si se trata de seguir los consejos de alguien, digo yo, preferible será tomar los de quienes han triunfado en el Nasdaq que los de los que viajamos en metro y cenamos en el chino.
 

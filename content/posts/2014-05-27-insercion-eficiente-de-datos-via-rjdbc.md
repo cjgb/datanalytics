@@ -66,9 +66,9 @@ dbCommit(conn)
 
 Ahora, los comentarios.
 
-* Efectivamente, toca hacer algo que se parece a programar en Java (es decir, utilizar `[rJava](http://cran.r-project.org/web/packages/rJava/index.html)`).
+* Efectivamente, toca hacer algo que se parece a programar en Java (es decir, utilizar [rJava](http://cran.r-project.org/web/packages/rJava/index.html)).
 * El _prepared statement_ es `insert into miesquema.mi_iris values(?,?,?,?,?)`. Los interrogantes son los valores que hay que rellenar en el resto del código.
-* Dentro de `myinsert` hay líneas de la forma `.jcall(ps, "V", "setDouble", as.integer(3), arg3)`. Lo que hacen es llamar a métodos de [la interfaz `PreparedStatement`](http://docs.oracle.com/javase/7/docs/api/java/sql/PreparedStatement.html) de Java. Transforman los argumentos convenientemente (véase en el enlace anterior la documentación tanto de `setDouble `como de sus colegas) y los _colocan_, por así decirlo, sobre el interrogante correspondiente.
+* Dentro de `myinsert` hay líneas de la forma `.jcall(ps, "V", "setDouble", as.integer(3), arg3)`. Lo que hacen es llamar a métodos de [la interfaz `PreparedStatement`](http://docs.oracle.com/javase/7/docs/api/java/sql/PreparedStatement.html) de Java. Transforman los argumentos convenientemente (véase en el enlace anterior la documentación tanto de `setDouble` como de sus colegas) y los _colocan_, por así decirlo, sobre el interrogante correspondiente.
 * En el enlace anterior también puede consultarse lo que hace `.jcall(ps, "V", "addBatch")`: esencialmente, encolar un grupo de inserciones a la espera del _commit_.
 * Finalmente, `.jcall(ps,"[I","executeBatch")` y `dbCommit(conn)` suben los datos definitivamente a la tabla.
 
