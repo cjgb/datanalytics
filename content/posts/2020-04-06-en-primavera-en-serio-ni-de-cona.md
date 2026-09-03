@@ -36,7 +36,7 @@ Es que, de hecho, el modelo más conocido para el ajuste de la mortalidad es el 
 
 ![](/img/2020/04/serfling.png#center)
 
-usando una tendencia lineal y una sinusoide para la estacionalidad intraanual (véase, p.e., _[Observations on excess mortality associated with epidemic influenza](https://jamanetwork.com/journals/jama/article-abstract/331197)_ de 1961 nada menos). Eso se lleva haciendo desde principios de los sesenta, como poco, cuando utilizar senos y cosenos en una regresión tenia que haber sido tecnología casi alienígena. Y no, el valle nunca ha estado en primavera sino en verano.
+usando una tendencia lineal y una sinusoide para la estacionalidad intraanual (véase, p.e., _[Observations on excess mortality associated with epidemic influenza](https://jamanetwork.com/journals/jama/article-abstract/331197)_ de 1961 nada menos). Eso se lleva haciendo desde principios de los sesenta, como poco, cuando utilizar senos y cosenos en una regresión tenía que haber sido tecnología casi alienígena. Y no, el valle nunca ha estado en primavera sino en verano.
 
 Y así tendría una entrada por día durante un par de semanas desmontando cada frase proferida por las autoridades sanitarias en los dos minutos subsiguientes del vídeo que enlazo arriba.
 

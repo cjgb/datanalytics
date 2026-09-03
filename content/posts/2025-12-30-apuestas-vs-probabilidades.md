@@ -26,7 +26,7 @@ He citado varias veces [esta página del blog](/2020/05/18/como-pensar-en-la-pro
 
 > Mi padre, Leonard Jimmie Savage, fue un pionero en la defensa de las probabilidades subjetivas. Desde pequeño, me enseñó a pensar en la probabilidad de un evento como el dinero que estaría dispuesto a pagar por participar en una apuesta en la que ganaría cien dólares si ocurriese.
 
-Lo escribió en un [articulo de 2004](https://pubsonline.informs.org/do/10.1287/orms.2004.03.14/full/) y luego, rebajando la cifra de 100 dólares a uno solo, en su libro _The Flaw of Averages_.
+Lo escribió en un [artículo de 2004](https://pubsonline.informs.org/do/10.1287/orms.2004.03.14/full/) y luego, rebajando la cifra de 100 dólares a uno solo, en su libro _The Flaw of Averages_.
 
 Pero existen al menos dos motivos por los que sabemos que la relación es solo aproximada (en un sentido similar ese en el que la física newtoniana aproxima la relativista). El primero es el de la aversión al riesgo. O más bien, del distinto apetito por el riesgo. No es casualidad que en las dos definiciones de probabilidad que ofrece Savage arriba use cantidades relativamente pequeñas. Y que en el libro, posterior al artículo, rebaje dos órdenes de magnitud la cantidad aposada. Porque si la apuesta es demasiado grande, el precio máximo que mucha gente estaría dispuesta a arriesgar como proporción del valor del préstamo quedaría por debajo de su probabilidad esperada: ¿estarías realmente dispuesto a apostar medio millón por ganar uno al cara o cruz?
 

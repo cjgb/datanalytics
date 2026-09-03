@@ -24,7 +24,7 @@ A raíz de mi entrada de ayer, se han iniciado en mi derredor algunas discusione
 
 Hasta la fecha, el procedimiento habitual era utilizar ficheros de ancho fijo con códigos, típicamente numéricos (p.e., 1-hombre; 6-mujer). Existían _diccionarios_ asociados con pares código-descripción que se distribuían en hojas de cálculo adjuntas; es decir, metadatos. El procedimiento tradicional, por lo tanto, equivalía a desnormalizar la información: una tabla maestra contenía claves externas y una miríada de tablas auxiliares, una por columna, resolvían esas claves a sus correspondientes descripciones.
 
-Así que una propiedad deseable del formato de diseminación de datos es que pueda almacenar tanto códigos como sus descripciones. De usarse, p.e., CSV, habria que optar por unos u otros. O seguir manteniendo el sistema de tablas auxiliares.
+Así que una propiedad deseable del formato de diseminación de datos es que pueda almacenar tanto códigos como sus descripciones. De usarse, p.e., CSV, habría que optar por unos u otros. O seguir manteniendo el sistema de tablas auxiliares.
 
 Existen algunos formatos estandarizados para el intercambio de información estadística (tanto datos como sus metadatos) como [SDMX](https://sdmx.org/). Pero solo AEMET me cae lo suficientemente mal como para recomendarle usar dialectos de XML. Otra alternativa basada en JSON, que no sé qué tal funcionaría para microdatos, es [json-stat](https://json-stat.org/). Pero podría no ser tan popular y madura.
 

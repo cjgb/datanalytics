@@ -20,7 +20,7 @@ title: '"The great reset"'
 url: /2020/05/25/the-great-reset/
 ---
 
-La ciencia de datos es la ciencia de la extrapolación. Todas las técnicas que la componen tratan de eso: de como proyectar hacia el futuro el comportamiento pasado. Si funciona, es por las inercias que operan en lo físico, en lo sicológico, en lo conductual.
+La ciencia de datos es la ciencia de la extrapolación. Todas las técnicas que la componen tratan de eso: de cómo proyectar hacia el futuro el comportamiento pasado. Si funciona, es por las inercias que operan en lo físico, en lo sicológico, en lo conductual.
 
 [La ciencia de datos puede (no necesariamente, pero puede) ser una extrapolación objetiva: de ahí que quienes denuncian su presunta amoralidad solo nos están haciendo saber una opinión: que el pasado no encaja con su personalísimo criterio ético.]
 

@@ -20,7 +20,7 @@ title: Voronois con distintas distancias
 url: /2015/09/08/voronois-con-distintas-distancias/
 ---
 
-Especulando sobre la diferencia en la práctica entre distintas métricas ($l_1$, $l_2$, $l_\infty$, etc.), construi una serie de [diagramas de Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) usado métricas arbitrarias.
+Especulando sobre la diferencia en la práctica entre distintas métricas ($l_1$, $l_2$, $l_\infty$, etc.), construí una serie de [diagramas de Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) usado métricas arbitrarias.
 
 En la Wikipedia se comparan gráficamente $l_1$, $l_2$ (o euclídea y Manhattan). Mi código,
 

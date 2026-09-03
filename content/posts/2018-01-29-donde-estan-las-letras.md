@@ -66,7 +66,7 @@ ggplot(res, aes(x = posicion)) +
   geom_density(fill = "red") +
   facet_wrap( ~ letra, scales = "free_y") +
   ggtitle("Dónde aparece cada letra dentro de un texto (El Quijote)") +
-  ylab("proporción de aparicion") + xlab("% de la longitud de la palabra") +
+  ylab("proporción de aparición") + xlab("% de la longitud de la palabra") +
   scale_fill_brewer(palette = "Set1") + theme_minimal() +
   theme(axis.ticks = element_blank(),
         axis.text.y = element_blank(),

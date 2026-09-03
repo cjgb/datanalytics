@@ -21,7 +21,7 @@ title: ¿Es Bunge un fraude?
 url: /2021/11/05/es-bunge-un-fraude/
 ---
 
-Mi primer contacto con la obra de Mario Bunge fue en mi época de estudiante en Zaragoza. Por algún motivo —probablemente, porque en aquella época repasar los lomos de los libros en las bibliotecas y librerias era el equivalente al _perder el tiempo en internet_ de hogaño— cayó en mis manos un libro suyo. Solo recuerdo que leerlo requirió más empeño que aprovechamiento _trujo_ a aquel chaval de provincias.
+Mi primer contacto con la obra de Mario Bunge fue en mi época de estudiante en Zaragoza. Por algún motivo —probablemente, porque en aquella época repasar los lomos de los libros en las bibliotecas y librerías era el equivalente al _perder el tiempo en internet_ de hogaño— cayó en mis manos un libro suyo. Solo recuerdo que leerlo requirió más empeño que aprovechamiento _trujo_ a aquel chaval de provincias.
 
 El segundo —hará un par de años— fue una grabación de una conferencia que dio en Buenos Aires. La guardé en algún lugar para comentarla en estas páginas porque de todo lo que contaba en una hora no alcancé a darle la razón —más bien, el beneficio de la duda— más que en que llovía en Buenos Aires esa tarde. Desafortunadamente, no he podido dar otra vez con ella.
 

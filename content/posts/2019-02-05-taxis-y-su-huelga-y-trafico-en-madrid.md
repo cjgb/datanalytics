@@ -38,4 +38,4 @@ Sin embargo, en lo del tráfico hay herbívoros (carriles) y carnívoros (vehíc
 
 Pero el ecosistema ha quedado en desequilibrio. La abundancia de presas es una llamada a esos depredadores que antes permanecían en el garaje o que cruzaban la ciudad por las emes (M-30, M-40... a saber). Cabe esperar que los agentes reconsideren en los próximos días (sobre todo, si la huelga de taxis se alarga o eterniza; o si, simplemente, se extinguen) sus hábitos alimenticios y se lancen a devorar los brotes verdes a los que se refiere el artículo.
 
-A saber cómo sería el nuevo equilibrio. Pero sospecho que se parecería a una combinación convexa entre lo que fue y lo que es. Más proximo, aventuro, a aquel extremo que a este.
+A saber cómo sería el nuevo equilibrio. Pero sospecho que se parecería a una combinación convexa entre lo que fue y lo que es. Más próximo, aventuro, a aquel extremo que a este.

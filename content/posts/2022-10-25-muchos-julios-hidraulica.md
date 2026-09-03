@@ -40,7 +40,7 @@ Que quiere decir que cubriría tres veces la actual demanda de electricidad y se
 
 > si la evaporación estuviese prohibida por ley y cada gota de agua fuese aprovechada perfectamente.
 
-Y termino con la parte previsiblemente más util de esta entrada: el código. Es:
+Y termino con la parte previsiblemente más útil de esta entrada: el código. Es:
 
 {{< highlight R >}}
 library(terra)

@@ -29,7 +29,7 @@ Que, a su vez, es algo parecido a
 
 que es un grafo (obviamente), dirigido (tiene flechas) y acíclico porque siguiéndolas no se llega nunca al punto de partida. Se puede construir modelos probabilísticos sobre ellos. Basta con definir para cada nodo $x$ la probabilidad condicional $P(x|A(x))$, donde $A(x)$ son sus padres directos. Con estas probabilidades condicionales (y un poco de esfuerzo) se puede construir la función de probabilidad completa, $P(x_1, \dots, x_n)$.
 
-Los que no sepáis que es eso del [naive Bayes](http://es.wikipedia.org/wiki/Clasificador_bayesiano_ingenuo) estáis de enhorabuena porque os lo voy a contar: es una red bayesiana que tiene esta pinta:
+Los que no sepáis qué es eso del [naive Bayes](http://es.wikipedia.org/wiki/Clasificador_bayesiano_ingenuo) estáis de enhorabuena porque os lo voy a contar: es una red bayesiana que tiene esta pinta:
 
 [![naive_bayes](/img/2014/08/naive_bayes.png#center)
 ](/img/2014/08/naive_bayes.png#center)
