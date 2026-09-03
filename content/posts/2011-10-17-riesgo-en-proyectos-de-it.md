@@ -4,8 +4,8 @@ categories:
 - consultoría
 - números
 date: 2011-10-17 07:08:24+00:00
-draft: false
-lastmod: '2025-04-06T19:03:36.049033'
+description: Sobre el riesgo de los proyectos de IT y la distribución de los casos extremos en sobrecostes.
+lastmod: '2026-08-31'
 related:
 - 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
 - 2011-06-24-sobre-el-libro-the-flaw-of-averages.md
@@ -26,17 +26,10 @@ Tu proyecto de IT puede contener más riesgo del que piensas. De verdad. Dan [fe
 
 Los autores describen en el artículo que he enlazado encima varios proyectos que fracasaron estrepitosamente y proporcionan algunos consejos para evitar ese tipo de desenlaces. Sin embargo, para quienes siguen esta bitácora, la reflexión más interesante es la siguiente:
 
-
 >Al focalizarse en las _medias_ en lugar de los _casos extremos_ más dañinos, la mayor parte de los gestores y consultores han ignorado el verdadero problema.
-
-
 
 Y es que el sobrecoste medio, el 27 % en la muestra estudiada por los autores, proporciona una visión mucho más optimista que la real:
 
-
-
 >Al representar gráficamente el sobrecoste, aparece una distribución de cola pesada, un gran número de sobrecostes enormes. Uno de cada seis proyectos estudiados era un cisne negro, con un sobrecoste medio del 200 % y un retraso de casi el 70 %.
-
-
 
 De nuevo, las medias, tema sobre el que he escrito en más de una ocasión, nos juegan malas pasadas.

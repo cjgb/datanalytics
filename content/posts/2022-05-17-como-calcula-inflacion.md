@@ -34,7 +34,7 @@ Comentarios:
 
 * Abunda en uno de esos grandes problemas que al que vienen apuntando estas páginas desde hace tiempo: el de la reificación. Estamos convirtiendo en "real" el resultado de un "algoritmo" sin cuestionarlo.
 
-* No está claro si los hogares implementan medidas para luchar contra la inflación como, p.e., variar la composición de su cesta de consumo particular para mitigar el efecto de las variaciones de precios de los productos que la integran. (Por eso, algunos dicen que la tasa de inflación pública es mayor que la la "privada", en tanto que no tienen en cuenta el reajuste de la composición de las cestas efectivas de productos).
+* No está claro si los hogares implementan medidas para luchar contra la inflación como, p.e., variar la composición de su cesta de consumo particular para mitigar el efecto de las variaciones de precios de los productos que la integran. (Por eso, algunos dicen que la tasa de inflación pública es mayor que la "privada", en tanto que no tienen en cuenta el reajuste de la composición de las cestas efectivas de productos).
 
 Un procedimiento alternativo para el cálculo del IPC sería:
 

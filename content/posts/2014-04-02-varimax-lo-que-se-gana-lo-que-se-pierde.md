@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2014-04-02 07:50:42+00:00
-draft: false
-lastmod: '2025-04-06T18:47:08.403159'
+lastmod: '2026-08-31'
+description: Si PCA es «óptimo», al aplicar varimax, ¿qué cosa se pierde?
 related:
 - 2014-04-07-analisis-factorial-e-ideas-que-se-resisten-a-morir.md
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
@@ -56,7 +56,7 @@ fa
 {{< / highlight >}}
 
 
-Usando `factanal` he creado dos factores sobre el conjunto de datos `swiss` y he optado por no usar nigún tipo de rotación.
+Usando `factanal` he creado dos factores sobre el conjunto de datos `swiss` y he optado por no usar ningún tipo de rotación.
 
 Dos notas al respecto. La primera es que `factanal` no utiliza PCA internamente para obtener los factores. Existe cierta confusión entre el análisis factorial y el de los componentes principales (véase [esto](http://en.wikipedia.org/wiki/Factor_analysis#Exploratory_factor_analysis_versus_principal_components_analysis) al respecto) a la que pudiera haber contribuido el hecho de que en SPSS (o al menos, ciertas versiones) el análisis de componentes principales es un _modo_ (al menos, está en el mismo menú y bajo el epígrafe _factores_) del análisis factorial. De hecho, [en SPSS un análisis factorial con las opciones por defecto es un PCA](http://www.unt.edu/rss/class/Jon/SPSS_SC/Module9/M9_PCA/SPSS_M9_PCA1.htm).
 

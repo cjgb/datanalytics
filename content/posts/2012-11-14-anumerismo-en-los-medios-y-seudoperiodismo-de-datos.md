@@ -21,7 +21,7 @@ url: /2012/11/14/anumerismo-en-los-medios-y-seudoperiodismo-de-datos/
 
 El otro día asistí a un congreso sobre big data, datos públicos, periodismo de datos y ese tipo de cosas. Cuando el panel de periodistas de datos comenzó la rueda de preguntas, estuve por levantar la mano y formular la mía en términos, más o menos, como estos:
 
- >El periodismo de datos no es algo nuevo. Existen áreas en las que los datos han sido abundantes (incluso en tiempo real) y que llevan siendo cubiertos por la prensa desde hace décadas. Me refiero al sector económico y financiero. Sin embargo, la prensa ha mostrado una capacidad muy pobre para proporcionar análisis y contexto en este ámbito. ¿Qué garantías pueden ofrecernos los nuevos periodistas de datos acerca de su habilidad para para ofrecer análisis sugerentes y profundos en los nuevos ámbitos que se abren en la profesión?
+ >El periodismo de datos no es algo nuevo. Existen áreas en las que los datos han sido abundantes (incluso en tiempo real) y que llevan siendo cubiertos por la prensa desde hace décadas. Me refiero al sector económico y financiero. Sin embargo, la prensa ha mostrado una capacidad muy pobre para proporcionar análisis y contexto en este ámbito. ¿Qué garantías pueden ofrecernos los nuevos periodistas de datos acerca de su habilidad para  ofrecer análisis sugerentes y profundos en los nuevos ámbitos que se abren en la profesión?
 
 Vamos con un ejemplo. Hoy he leído lo siguiente en el periódico:
 

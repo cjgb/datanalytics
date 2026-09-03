@@ -4,8 +4,7 @@ categories:
 - estadística
 - r
 date: 2021-02-05 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T18:51:47.130127'
+lastmod: '2026-08-31'
 related:
 - 2020-06-29-sobremuestreando-x-y-no-y.md
 - 2020-07-17-mas-sobre-la-presunta-sobredispersion-en-el-modelo-de-poisson.md
@@ -35,7 +34,7 @@ donde $X$ es una variable aleatoria que toma los valores $a$ y $b$. Supongamos q
 
 Pero, ¿qué pasa si $n_a = 0$? El estimador es $-\infty$; aunque, en realidad, acabo de ver que R se come la tostada:
 
-{{< highlight R >}}
+```r
 set.seed(1)
 N <- 100
 x <- rep(c("a", "b"), each = N)
@@ -61,14 +60,14 @@ summary(modelo)
 # AIC: 252.98
 #
 # Number of Fisher Scoring iterations: 18
-{{< / highlight >}}
+```
 
 El coeficiente `xb` es, efectivamente
 
-{{< highlight R >}}
+```r
 log(sum(y) / N)
 # [1] 0.009950331
-{{< / highlight >}}
+```
 
 aunque `glm` nos engaña y da por convergida una regresión que no lo está. De todos modos, el coeficiente `xa` tiene un valor de -20 y un error estándar de 1554, nada menos, lo que debería hacer saltar alarmas donde hubiere luces.
 

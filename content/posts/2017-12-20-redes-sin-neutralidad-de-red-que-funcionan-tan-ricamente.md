@@ -4,8 +4,8 @@ categories:
 - números
 - varios
 date: 2017-12-20 08:13:16+00:00
-draft: false
-lastmod: '2025-04-06T19:04:00.913151'
+description: ¿Es realmente importante el principio de neutralidad de la red para que internet funcione tal como la conocemos?
+lastmod: '2026-08-31'
 related:
 - 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
 - 2024-05-14-neutralidad-red.md
@@ -16,7 +16,7 @@ tags:
 - economía
 - neutralidad en la red
 - redes
-title: Redes sin neutralidad de red que funcionan tan ricamente
+title: Redes sin «neutralidad de red» que funcionan tan ricamente
 url: /2017/12/20/redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente/
 ---
 
@@ -26,7 +26,7 @@ Prácticamente ninguna se rige por principios de _neutralidad de red_. En la via
 
 De hecho, el futuro, según algunos, son las [tarifas de congestión variables según la intensidad del tráfico](https://www.wired.com/story/virginia-i66-toll-road/) y los [precios variables de los parquímetros](https://www.wired.com/story/san-francisco-adjustable-meters/amp), antítesis de lo que debería ser un sistema basado en la neutralidad de la red.
 
-Pero no lo gestionan pérfidos entes empresariales, diráse. Pero estos sí que gestionan la red de distribución de los alimentos básicos. A la que no se impone criterio alguno de _neutralidad_. Y, a pesar de ello, no me consta que ninguna de las empresas que gestionan estas redes de distribución hayan ensayado jamás estrategia alguna de desabastecimiento o carestía programada.
+Pero no lo gestionan pérfidos entes empresariales, diráse. Pero estos sí que gestionan la red de distribución de los alimentos básicos. A la que no se impone criterio alguno de _neutralidad_. Y, a pesar de ello, no me consta que ninguna de las empresas que gestionan estas redes de distribución haya ensayado jamás estrategia alguna de desabastecimiento o carestía programada.
 
 También se gestiona semiprivadamente la red de electricidad. Pero de acuerdo a unos criterios distintos de los de neutralidad. No todos los generadores pueden vertir electricidad a la red cuando les da la gana sino cuando se les indica y de acuerdo con una serie de criterios de naturaleza económica y técnica.
 
@@ -36,6 +36,6 @@ Hace años, y no sé si todavía, existían paquetes de llamadas a números amig
 
 y no pasó nada grave. De hecho, las llamadas telefónicas al extranjero cuestan cero euros hoy en día.
 
-Hay muchas redes de gestión privada, pública, semipública, etc. con distintos grados de regulación e intervención que no se rigen por los criterios de la neutralidad en la red y que funcionan tan ricamente. Ninguno de los augurios de los partidarios más apocalípticos de la neutralidad de la red en internet han ocurrido en otras.
+Hay muchas redes de gestión privada, pública, semipública, etc. con distintos grados de regulación e intervención que no se rigen por los criterios de la neutralidad en la red y que funcionan tan ricamente. Ninguno de los augurios de los partidarios más apocalípticos de la neutralidad de la red en internet ha ocurrido en otras.
 
 No es un corolario necesario que, derogada la neutralidad de la red, internet vaya a funcionar peor para el usuario final. De hecho, será difícil que se tuerza la evolución histórica, que muestra que cada día lo hace mejor. Con neutralidad de la red o sin ella, en pocos años, internet será ubicua, ilimitada y gratis.

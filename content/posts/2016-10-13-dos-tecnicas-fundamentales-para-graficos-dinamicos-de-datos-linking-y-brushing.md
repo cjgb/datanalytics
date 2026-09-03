@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2016-10-13 08:13:39+00:00
-draft: false
-lastmod: '2025-04-06T19:08:02.098833'
+lastmod: '2026-08-31'
 related:
 - 2014-05-07-graficos-de-mosaico-si-o-no.md
 - 2014-12-01-graficos-e-interactividad-una-ocasion-desaprovechada.md
@@ -33,4 +32,4 @@ El _brushing_ (¿cómo lo llamo?) es similar, solo que a escala: atribuye colore
 
 La misma razón de ser de los gráficos interactivos es que el usuario pueda efectivamente interactuar con ellos en busca de patrones interesantes. No (al menos desde la perspectiva del análisis) para añadirles un botón de `Play` con el que mostrarlos como si fuesen dibujos animados (con el agravante de que las imágenes, al sobreimponerse, se tapan las unas a las otras). El enlazado y el _brushing_, usados convenientemente, sin embargo, permiten ahondar en la estructura de los datos.
 
-Y termino con una cuña publicitaria para una diminuta pero magnífica herramienta de visualización de datos, [Mondrian](http://www.theusrus.de/Mondrian/), con la cual (y de sus autores, fundamentamente) aprendí todas estas cosas. Las imágenes mostradas en esta entrada son, de hecho, capturas de pantalla de Mondrian en acción.
+Y termino con una cuña publicitaria para una diminuta pero magnífica herramienta de visualización de datos, [Mondrian](http://www.theusrus.de/Mondrian/), con la cual (y de sus autores, fundamentalmente) aprendí todas estas cosas. Las imágenes mostradas en esta entrada son, de hecho, capturas de pantalla de Mondrian en acción.

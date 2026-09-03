@@ -24,7 +24,7 @@ Así que dando por hecho que mis alumnos acabarán siendo intermediarios entre q
 
 1. La ciencia (experimental) como un proceso en el que las ideas se adaptan a los datos (obtenidos experimentalmente) más que como un conjunto de leyes y _hechos_ fosilizados en libros.
 2. Un repaso de los caveats que afectan al proceso de creación científica: reproducibilidad (y la falta de ella), incentivos perversos, pseudociencia, comparaciones múltiples, sesgo de publicación, etc.
-3. Y, por el camino, algunas indicaciones sobre sobre datos, las licencias que gobiernan su uso, y los mecanismos para su difusión; el papel del _software_ libre (y R, en particular), etc.
+3. Y, por el camino, algunas indicaciones sobre datos, las licencias que gobiernan su uso, y los mecanismos para su difusión; el papel del _software_ libre (y R, en particular), etc.
 
 
 A continuación, el mapa mental del curso (creado con [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)):

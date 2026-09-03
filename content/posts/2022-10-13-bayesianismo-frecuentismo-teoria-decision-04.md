@@ -55,7 +55,7 @@ El ejemplo anterior ilustra un aspecto importante en la comparación de la aprox
 
 ¿El motivo? La aproximación frecuentista ignora los detalles específicos del problema. En particular, la existencia y naturaleza de la _priori_. La aproximación frecuentista es genérica y aplica a cualquier priori; la bayesiana es contextual y está apegada a ella. Nótese, de hecho, cómo habría una convergencia de la aproximación bayesiana a la frecuentista en tanto que se _difuminase_ (i.e., se hiciese crecer la varianza) de la priori.
 
-Este esta es una cuestión sobre la que argumenté en [un vídeo que publiqué en mi canal de Youtube](https://youtu.be/Dyt5HsEJxTw), de la que esta entrada ofrece algo de luz y que me gustaría desarrollar con más detalle en el futuro.
+Esta es una cuestión sobre la que argumenté en [un vídeo que publiqué en mi canal de Youtube](https://youtu.be/Dyt5HsEJxTw), de la que esta entrada ofrece algo de luz y que me gustaría desarrollar con más detalle en el futuro.
 
 ### Nota 2 (barreras de entrada a la aproximación bayesiana)
 

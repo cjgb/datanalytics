@@ -24,7 +24,7 @@ Tenía, por ejemplo, enlaces al portal de un datatón ocurrido en mayo de 2011, 
 
 ![](/img/2021/12/spam_insidioso.png#center)
 
-Pensé que la página estaría _jaqueada_. Pero no. Lo que sucede es que ha sido adquirida, según nic.es, por un individuo (¿una organización?), JEGY, que, aparentente ha mantenido el contenido original pero ha sustituido algunos de los enlaces existentes por otros que apuntan a las páginas de sus clientes finales. De hecho, una búsqueda en Google conduce a páginas como [esta](https://www.geeknetic.es/Noticia/22379/Descubren-enlaces-porno-ocultos-accesibles-desde-Paginas-Web-del-Gobierno-de-Espana.html) donde se da cuenta de otras de sus malandanzas.
+Pensé que la página estaría _jaqueada_. Pero no. Lo que sucede es que ha sido adquirida, según nic.es, por un individuo (¿una organización?), JEGY, que, aparentemente ha mantenido el contenido original pero ha sustituido algunos de los enlaces existentes por otros que apuntan a las páginas de sus clientes finales. De hecho, una búsqueda en Google conduce a páginas como [esta](https://www.geeknetic.es/Noticia/22379/Descubren-enlaces-porno-ocultos-accesibles-desde-Paginas-Web-del-Gobierno-de-Espana.html) donde se da cuenta de otras de sus malandanzas.
 
 Mucho más sangrante me parece ---por motivos personales: fue un colega y buen amigo que falleció hace unos años--- lo ocurrido con el [blog de Gregorio Serrano](https://www.grserrano.es/). Obra ahora en manos de un tal RSP que ha borrado casi todas las entradas existentes (¡pero ha conservado algunas, incluso con código en R!) y ha añadido otras de su propia cosecha que, aparte de incluir los consabidos enlaces a páginas de dudosa reputación, desdicen mucho de lo que Gregorio fue.
 

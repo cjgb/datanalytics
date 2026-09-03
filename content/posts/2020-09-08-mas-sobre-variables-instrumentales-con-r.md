@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2020-09-08 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T19:05:52.298187'
+lastmod: '2026-08-31'
 related:
 - 2012-04-19-variables-instrumentales-con-r.md
 - 2018-11-16-colinealidad-y-posterioris.md
@@ -26,11 +25,11 @@ Con la excusa de la reciente publicación del paquete [`ivreg`](https://CRAN.R-p
 
 ![](/img/2020/09/iv_j_fox.png#center)
 
-no nos dicen mucho a casi nadie.
+no nos dice mucho a casi nadie.
 
 Buscando, he encontrado [esto](https://modernstatisticalworkflow.blogspot.com/2017/11/bayesian-instrumental-variables-with.html) donde se explicita el código de Stan para dos casos concretos y en particular, _[A brief introduction to econometrics in Stan](https://khakieconomics.github.io/stanecon_short_course/Shortcourse.pdf)_ del mismo autor donde explica por qué se parametrizan las cosas de una manera y no de otra.
 
 En resumen:
 
-* Las dos ecuaciones (o conjuntos de ecuaciones) se ajustan simultáneamente extendiendo (apilando) las variables objetivo de ambas ecuaciones y creando la matriz de diseño correspondiente. Es precisamente en la construcción de la matriz de diseño que hay que proceder en dos pasos: primero se generan estimaciones de las varaiables endógenas y luego estas se usan para crear las estimaciones de las objetivo.
+* Las dos ecuaciones (o conjuntos de ecuaciones) se ajustan simultáneamente extendiendo (apilando) las variables objetivo de ambas ecuaciones y creando la matriz de diseño correspondiente. Es precisamente en la construcción de la matriz de diseño que hay que proceder en dos pasos: primero se generan estimaciones de las variables endógenas y luego estas se usan para crear las estimaciones de las objetivo.
 * La covarianza entre los términos de error se modela explícitamente. El autor de los dos documentos anteriores usa una parametrización de la matriz de covarianzas en términos de escala y correlación.

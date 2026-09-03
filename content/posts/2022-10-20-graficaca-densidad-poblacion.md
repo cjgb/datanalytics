@@ -30,7 +30,7 @@ Uno de los problemas asociados a este tipo de datos (en rejillas) es que donde n
 
 ![](/img/2022/10/densidad_poblacion_salzburgo.png#center)
 
-La consecuencia de todo lo anterior es que usando la escala de colores propuesta en el primer gráfico, hay un salto excesivamente abrusco entre las las rejillas _casi_ despobladas y las _totalmente_ despobladas. En Eurostat, de hecho, han aplicado una escala de colores más natural y el resultado es
+La consecuencia de todo lo anterior es que usando la escala de colores propuesta en el primer gráfico, hay un salto excesivamente abrusco entre las rejillas _casi_ despobladas y las _totalmente_ despobladas. En Eurostat, de hecho, han aplicado una escala de colores más natural y el resultado es
 
 ![](/img/2022/10/densidad_poblacion_corregido.png#center)
 

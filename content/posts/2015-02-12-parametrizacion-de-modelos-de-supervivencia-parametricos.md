@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-02-12 08:13:34+00:00
-draft: false
-lastmod: '2025-04-06T18:55:14.663629'
+lastmod: '2026-08-31'
 related:
 - 2020-05-28-sobre-la-funcion-de-riesgo-en-el-analisis-de-la-supervivencia.md
 - 2012-04-11-correccion-por-exposicion-del-modelo-logistico.md
@@ -23,7 +22,7 @@ He participado directa o indirectamente en algunas decenas de los llamados proye
 
 Digresión (para desavisados): se aplica (impropiamente) el término _churn_ a aquellos clientes (en general) que abandonan una compañía o dan de baja un servicio. En realidad _churn_ se refiere al flujo a corto plazo de clientes de poco valor que adquiere una compañía y que pierde enseguida. No sé por qué no se ha popularizado _abandono_. Uno de los primeros proyectos que abordan los departamentos de _inteligencia de clientes_ de las compañías que se lo pueden permitir es tratar de identificar aquellos clientes con alta probabilidad de abandonarla.
 
-Una de las mayores frustraciones de quienes procedemos del mundo de la estadística es que (prácticamente) nadie se haya planteado jamás utilizar las técnicas del análisis de la supervivencia al abandono. Por algún motivo, el análisis de la supervivencia se ha circunscrito a dos o tres áreas de aplicación pequeñas y estancas: medicina, ciertas áreas de la bioestadística y la demografía, los seguros (¡por supuesto!) y tal vez la ciencia de materiales y la fiabilidad en ingenería. Fin.
+Una de las mayores frustraciones de quienes procedemos del mundo de la estadística es que (prácticamente) nadie se haya planteado jamás utilizar las técnicas del análisis de la supervivencia al abandono. Por algún motivo, el análisis de la supervivencia se ha circunscrito a dos o tres áreas de aplicación pequeñas y estancas: medicina, ciertas áreas de la bioestadística y la demografía, los seguros (¡por supuesto!) y tal vez la ciencia de materiales y la fiabilidad en ingeniería. Fin.
 
 Uno de mis grandes temas y que menos amigos me ha granjeado es el de la adecuación de las herramientas de modelación de fenómenos estadísicos a la estructura probabilística del problema. Muchos de quienes trabajan en _data mining_/_science_ desconocen este tipo de técnicas. Tampoco es culpa suya. Acabo de buscar en el libro (¡muy recomendable!) [_An Introduction to Statistical Learning_](http://www-bcf.usc.edu/~gareth/ISL/) la palabra _surviv(al)_ y aparece exactamente dos veces en +400 páginas: la primera asociada al técnicas de discriminación lineal y la segunda a _clústering_ y PCA.
 

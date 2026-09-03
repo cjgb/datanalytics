@@ -24,7 +24,7 @@ La probabilidad se predica de eventos de muy distintas características. Existe 
 * Obtener cara al lanzar _esta_ moneda.
 * Que X gane las elecciones que ocurrirán en un mes.
 
-La principal diferencia, por si alguien lo lo ha advertido, es que el primer tipo de evento puede repetirse cuantas veces se desee mientras que _esas_ elecciones ocurrirán una única vez. Existen muchas interpretaciones de la probabilidad bajo las que pueden entenderse ambos problemas y todas (¡o casi!), al final, son compatibles de alguna manera con los axiomas de Kolmogorov: podría decirse que se trata de dos modelos distintos para un mismo formalismo, el de Kolmogorov.
+La principal diferencia, por si alguien lo ha advertido, es que el primer tipo de evento puede repetirse cuantas veces se desee mientras que _esas_ elecciones ocurrirán una única vez. Existen muchas interpretaciones de la probabilidad bajo las que pueden entenderse ambos problemas y todas (¡o casi!), al final, son compatibles de alguna manera con los axiomas de Kolmogorov: podría decirse que se trata de dos modelos distintos para un mismo formalismo, el de Kolmogorov.
 
 Pero se me va a permitir añadir a todo lo discutido al respecto algunas consideraciones que me han rondado la cabeza últimamente. Porque, en el fondo, Heráclito diría que ambos tipos de eventos, en el fondo, no son distintos: ninguna tirada de monedas es, en el fondo, igual que la anterior, todas son tan irrepetibles como las elecciones.
 

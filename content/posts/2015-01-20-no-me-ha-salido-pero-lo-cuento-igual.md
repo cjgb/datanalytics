@@ -48,7 +48,7 @@ De otra manera, un candidato tiene una probabilidad $p_H$ de ser hombre, una pro
 La idea es comparar las regresiones logísticas anteriores: una que incluya `Dept` y la otra no. Lo que yo esperaba es que los coeficientes de `Gender` en muchas simulaciones:
 
 * Estuviesen centrados en cero en ambos casos: por construcción, el efecto del sexo es nulo.
-* Que la varianza del del modelo que incluye `Dept` fuese menor. Esto está inspirado por el ejemplo anterior. En los casos en que por efecto del muestreo haya un desequilibrio por sexos en las solicitudes a los distintos departamentos —como ocurrió en el ejemplo con el que abro la entrada—, controlar por `Gender` ayudaría a corregir el sesgo. Reducir el sesgo en cada simulación conlleva reducir la varianza global, ¿no?
+* Que la varianza del modelo que incluye `Dept` fuese menor. Esto está inspirado por el ejemplo anterior. En los casos en que por efecto del muestreo haya un desequilibrio por sexos en las solicitudes a los distintos departamentos —como ocurrió en el ejemplo con el que abro la entrada—, controlar por `Gender` ayudaría a corregir el sesgo. Reducir el sesgo en cada simulación conlleva reducir la varianza global, ¿no?
 
 Pues parece que algo se me ha escapado porque, salvo error u omisión,
 

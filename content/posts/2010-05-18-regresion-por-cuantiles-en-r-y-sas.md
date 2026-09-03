@@ -40,16 +40,16 @@ Una opción es crear histogramas por rango de edades. Otra, utilizar regresión 
 
 Veamos cómo se haría en R. Cargamos primero los paquetes necesarios para el ejemplo:
 
-{{< highlight R >}}
+```r
 library(quantreg)
 library(splines)
-{{< / highlight >}}
+```
 
 Cargamos el [famoso conjunto de datos de Engel](http://www2.bc.edu/~lewbel/palengel.pdf) (no el Engel de siempre; otro), que relaciona el ingreso con el gasto en alimentación de decimonónicos obreros belgas:
 
-{{< highlight R >}}
-data( engel )
-head( engel )
+```r
+data(engel)
+head(engel)
 income foodexp
 1 420.16  255.84
 2 541.41  310.96
@@ -57,51 +57,48 @@ income foodexp
 4 639.08  403.00
 5 750.88  495.56
 6 945.80  633.80
-{{< / highlight >}}
+```
 
 Representamos los datos:
 
-{{< highlight R >}}
+```r
 with( engel, plot( log( income ), log( foodexp ),
         xlab = "Log - Income",
         ylab = "Log - Food Expense",
         main = "Engel's Food Expense Data" ) )
-{{< / highlight >}}
+```
      
 ![](/img/2010/05/engel_dat1.png#center)
 
-
 Y creamos una función auxiliar:
 
-{{< highlight R >}}
+```r
 foo <- function( x, y, tau ){
     fit <- rq( y ~ bs( x, df=5 ), tau = tau )
     xx <- sort ( unique( x ) )
     data.frame( xx, predict( fit, newdata = data.frame( x = xx ) ) )
 }
-{{< / highlight >}}
+```
 
-Nótese cómo en ella ajustamos un modelo de regresión por cuantiles, _fit_, usando la función _rq_ del paquete quantreg y cómo también elegimos un regresor basado en _splines_, la función _bs_ del paquete_ splines_. Sin incurrir en tanta pedantería, podíamos también haber especificado el modelo de la forma
+Nótese cómo en ella ajustamos un modelo de regresión por cuantiles, `fit`, usando la función `rq` del paquete `quantreg` y cómo también elegimos un regresor basado en _splines_, la función `bs` del paquete `splines`. Sin incurrir en tanta pedantería, podíamos también haber especificado el modelo de la forma
 
-{{< highlight R >}}
+```r
     fit <- rq( y ~ x, tau = tau ),
-{{< / highlight >}}
+```
 
 dejándose el estudio del resultado de esta alternativa como ejercicio al lector más diligente.
 
 El parámetro tau indica el cuantil que se desea estimar, que ha de ser, por lo tanto, un valor entre 0 y 1. Ahora podemos añadir a nuestro gráfico anterior las curvas estimación de los cuantiles 0,2; 0,5 y 0,8 de la distribución de la siguiente manera:
 
-{{< highlight R >}}
+```r
     with( engel, lines( foo( log( income ), log( foodexp) , 0.2 ),
        col="gray") )
     with( engel, lines( foo( log( income ), log( foodexp) , 0.8 ),
        col="gray") )
     with( engel, lines( foo( log( income ), log( foodexp) , 0.5 ),
        col="red" ) )
-{{< / highlight >}}
+```
 
-
-[![](/img/2010/05/engel_dat_quant1.png?w=300)
-](/img/2010/05/engel_dat_quant1.png#center)
+![](/img/2010/05/engel_dat_quant1.png?w=300)
 
 El lector interesado encontrará en internet [dónde seguir instruyéndose](http://cablemodem.fibertel.com.ar/wsosa/topicosunlp/QuantileClaseBeamer1.pdf) y, además, ejemplos de [gráficos espectaculares ](http://addictedtor.free.fr/graphiques/RGraphGallery.php?graph=109)que pueden realizarse con `quantreg`, tiempo y buen gusto.

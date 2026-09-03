@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2017-01-23 08:13:44+00:00
-draft: false
-lastmod: '2025-04-06T18:50:55.595997'
+description: Una discusión sobre el ajuste de datos usando polinomios monótonos.
+lastmod: '2026-08-31'
 related:
 - 2020-07-07-regresion-polinomica-vs-redes-neuronales.md
 - 2023-01-18-modelo-poisson-numpyro.md
@@ -23,7 +23,7 @@ url: /2017/01/23/polinomios-monotonos/
 Recibí un mensaje el otro día sobre polinomios monótonos. Mejor dicho, sobre el ajuste de datos usando polinomios monótonos. Frente a un modelo del tipo `y ~ x` (`x` e `y` reales) donde la relación entre las dos variables es
 
 * manifiestamente no lineal y
-* necesariamente monótina, p.e., creciente (por consideraciones previas),
+* necesariamente monótona, p.e., creciente (por consideraciones previas),
 
 cabe considerar ajustar un polinomio monótono, i.e., realizar una regresión polinómica con la restricción adicional de que el polinomio de ajuste resultante sea monótono.
 

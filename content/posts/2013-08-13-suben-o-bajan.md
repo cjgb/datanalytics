@@ -2,9 +2,9 @@
 author: Carlos J. Gil Bellosta
 categories:
 - estadística
-date: 2013-08-13 07:19:32+00:00
-draft: false
-lastmod: '2025-04-06T18:54:53.036908'
+date: 2013-08-13
+description: Sobre cómo la paradoja de Simpson puede hacer que parezca que sube lo que baja realmente (o a la inversa).
+lastmod: '2026-08-31'
 related:
 - 2021-01-28-simpson-sobre-la-desigualdad.md
 - 2016-11-23-el-ipt-y-la-paradoja-de-simpson.md

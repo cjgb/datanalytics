@@ -31,7 +31,7 @@ El primero es que la lucha contra la homeopatía (y otras sinrazones) abarata la
 
 Los poderes públicos tratan de abaratar el coste relativo del conocimiento con respecto a la ignorancia. Por eso nos proveen de educación gratuita, bibliotecas, becas, etc. Además, tenemos Google, tenemos [Library Genesis](http://gen.lib.rus.ec/), etc. El conocimiento está ahí, gratis, subvencionado, a menudo, al alcance de la mano.
 
-Pero es insuficiente: la ignorancia debería estar sujeta a un impuesto no pequeño. Como sucede tan habitualmente, el sector privado, el que desarrolla la industria homeopática, corrige las la ineficacia del sector público a la hora de proporcionar servicios públicos, como es en este caso el gravar el exceso de ignorancia.
+Pero es insuficiente: la ignorancia debería estar sujeta a un impuesto no pequeño. Como sucede tan habitualmente, el sector privado, el que desarrolla la industria homeopática, corrige la ineficacia del sector público a la hora de proporcionar servicios públicos, como es en este caso el gravar el exceso de ignorancia.
 
 El segundo argumento es más pedestre y concreto, pero no por ello menos relevante. La homeopatía achica la cola del médico del seguro y abarata la factura farmacéutica. Los productos homeopáticos no están cubiertos por la Seguridad Social y quien los adquiere aporta a la hacienda pública en lugar de detraer de ella. Además, volviendo a lo de la ignorancia, con toda la felicidad del mundo.
 

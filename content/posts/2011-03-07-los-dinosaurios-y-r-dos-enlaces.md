@@ -33,7 +33,7 @@ Lo que es cierto es que Oracle, Teradata y otras empresas del ramo han desarroll
 
 
 
-* Así, Teradata ha desarrollado el paquete [paquete TeradataR](http://developer.teradata.com/applications/articles/teradatar-enables-in-database-analytics-with-r).
+* Así, Teradata ha desarrollado el [paquete TeradataR](http://developer.teradata.com/applications/articles/teradatar-enables-in-database-analytics-with-r).
 * Y Oracle, que lleva años desarrollando [sus propios algoritmos de minería de datos](http://en.wikipedia.org/wiki/Oracle_Data_Mining) —desarrollados a partir del trabajo original de [Thinking Machines](http://en.wikipedia.org/wiki/Thinking_Machines_Corporation)— ha desarrollado y liberado [RODM](http://cran.fhcrc.org/web/packages/RODM/index.html).
 
 A pesar del escepticismo que muestra el empresariado patrio frente a la emergencia de R, el que dos dinosaurios corporativos hayan pelado sus barbas puede ser el indicio de que telefónicas, santanderes, bebeuveás y demás tienen que ir poniendo las suyas a remojar.

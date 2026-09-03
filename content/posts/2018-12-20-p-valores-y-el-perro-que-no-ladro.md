@@ -4,8 +4,8 @@ categories:
 - estadística
 - mala ciencia
 date: 2018-12-20 08:13:46+00:00
-draft: false
-lastmod: '2025-04-06T18:49:25.033366'
+description: Más evidencias sobre el interés último de la ciencia como institución.
+lastmod: '2026-08-31'
 related:
 - 2017-01-13-es-imposible-ensenar-nada-a-alguien-cuyo-sueldo-depende-de-no-aprender.md
 - 2024-07-03-cortos-stats.md
@@ -30,6 +30,6 @@ Sin embargo, lo más sorprendente de todo este asunto es que nadie parece haber 
 
 Pero, a pesar de eso, el perro no ladró. Nadie, fuera de la academia, ha protestado. De hecho, pocos se han enterado. Ningún producto; ningún servicio; ninguna inversión; ningún porcentaje, por pequeño que sea, del PIB, parece haberse visto afectado. No ha habido caceroladas, no se ha manifestado nadie frente al congreso ni se ha pedido la dimisión de ningún ministro. Nadie parece haberse sentido perjudicado, dañado o estafado.
 
-Existe algo fundamentalmente roto en el seno de una actividad que se dice esencial para el desarrollo (recordad a los del [sin ciencia no hay futuro](https://www.efe.com/efe/espana/portada/miles-de-cientificos-reivindican-en-toda-espana-que-sin-ciencia-no-hay-futuro/10010-3245080)) y nadie siquiera se entera. Si se rompiese la nevera, si se rompiese el sistema operativo del portátil, si se rompiese el sistema eléctrico del coche, seguro que lo advertiríamos. Pero si se rompe la ciencia...
+Existe algo fundamentalmente roto en el seno de una actividad que se dice esencial para el desarrollo (recordad a los del [«sin ciencia no hay futuro»](https://www.efe.com/efe/espana/portada/miles-de-cientificos-reivindican-en-toda-espana-que-sin-ciencia-no-hay-futuro/10010-3245080)) y nadie siquiera se entera. Si se rompiese la nevera, si se rompiese el sistema operativo del portátil, si se rompiese el sistema eléctrico del coche, seguro que lo advertiríamos. Pero si se rompe la ciencia...
 
 ¿No es como si la ciencia fuese irrelevante o inútil? ¿No es eso lo que nos invitaría a pensar el hecho de que no se oyese al perro ladrar?

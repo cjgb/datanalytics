@@ -49,4 +49,4 @@ El tercero de los juegos, como consecuencia, es uno de esos ejemplos en que se v
 Cierro esta discusión con dos ejercicios para mis lectores:
 
 * Probar que con las probabilidades que se indican en el libro de Paulos, el ejemplo no funciona, i.e., que hay un error en su libro. ¡O no!
-* Identificar el otro _gran_ contraejemplo del del teorema del tiempo de espera que se cita por doquier y la ciudad rusa a la que se asocia.
+* Identificar el otro _gran_ contraejemplo del teorema del tiempo de espera que se cita por doquier y la ciudad rusa a la que se asocia.

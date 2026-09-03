@@ -35,7 +35,7 @@ Lo peculiar del caso, tal vez producto de las técnicas periodísticas y cinemat
 
 Porque no es la primera vez que se escribe abiertamente sobre las prácticas _datísticas_ de Cambridge Analytics. Hace poco más de dos años, en diciembre de 2015, The Guardian publicaba [_Ted Cruz using firm that harvested data on millions of unwitting Facebook users_](https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-president-campaign-facebook-user-data) y donde se da cuenta del _robo_ de información de perfiles de Facebook, de todo lo relacionado con la _microsegmentación conductual_, etc. por parte de Cambridge Analytica y nadie hizo, a falta de la nota de color de las ucranianas putas, puto caso.
 
-Esta vez todo es mucho, mucho, incomparablemente, y cómo se atreve Vd. a discrepar, peor. Pues mire, señora mía, no; quien escribe se indigna cuando le da la gana y no cuando cuando al que monta documentales en Channel 4 le da por tocar la campanilla de Pavlov.
+Esta vez todo es mucho, mucho, incomparablemente, y cómo se atreve Vd. a discrepar, peor. Pues mire, señora mía, no; quien escribe se indigna cuando le da la gana y no cuando al que monta documentales en Channel 4 le da por tocar la campanilla de Pavlov.
 
 Y sigo sobre el asunto de las empresas que captan datos de redes sociales, microsegmenta, preparan contenidos específicos para sujetos concretos, etc., sea para influir en elecciones, vender cachivaches o lo que sea.
 

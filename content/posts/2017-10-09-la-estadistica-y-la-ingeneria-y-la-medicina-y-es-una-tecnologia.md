@@ -4,8 +4,7 @@ categories:
 - charlas
 - estadística
 date: 2017-10-09 08:13:34+00:00
-draft: false
-lastmod: '2025-04-06T18:45:12.955373'
+lastmod: '2026-08-31'
 related:
 - 2021-05-04-mas-sobre-si-la-estadistica-es-una-ciencia.md
 - 2011-03-15-metodologia-casuistica-y-tipologia.md
@@ -18,7 +17,7 @@ tags:
 - pamplona
 - técnica
 - tecnología
-title: La estadística (y la ingenería, y la medicina, y...) es una tecnología
+title: La estadística (y la ingeniería, y la medicina, y...) es una tecnología
 url: /2017/10/09/la-estadistica-y-la-ingeneria-y-la-medicina-y-es-una-tecnologia/
 ---
 
@@ -36,10 +35,10 @@ La que propuse en la charla (que convengo, tiene poca gracia y pudiera afinarse 
 
 De manera que pudiese comprender esos procedimientos, a veces complicadísimos y sofisticadísimos, ponen en práctica adivinadores o _científicos de datos_.
 
-Un tipo especial de técnicas han sido comprobadas (o están fundadas en, o...) por la ciencia. Entonces se las llama _tecnologías_.
+Un tipo especial de técnicas ha sido comprobada (o está fundada en, o...) por la ciencia. Entonces se las llama _tecnologías_.
 
 La medicina (o su práctica) es una tecnología que usa resultados de la biología, la bioquímica, etc., para sanar a la gente. Pero no es una ciencia. Las ciencias recorren un camino inverso: de lo concreto a lo general. Mi médico de cabecera hace uso de muchas ideas generales que le enseñaron en la facultad para tratar de resolver mi problema de salud concreto. Eso sin perjuicio de que en ocasiones haya médicos que circunstancialmente dejen su labor habitual y se dediquen a acrecentar el acervo científico y construyan sus cohortes, realicen sus diseños experimentales, etc. Pero eso no es medicina: eso es otra cosa.
 
-Lo mismo pasa con la ingenería, otra tecnología. Espero que el lector sepa reconstruir el párrafo anterior aplicándolo en este ejemplo mutando el _mutandis_ y solo él.
+Lo mismo pasa con la ingeniería, otra tecnología. Espero que el lector sepa reconstruir el párrafo anterior aplicándolo en este ejemplo mutando el _mutandis_ y solo él.
 
 De la estadística como tecnología hablaré en otra ocasión. Y también queda pendiente una teoría de la ciencia, con la que tal vez me atreva también próximamente.

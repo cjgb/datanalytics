@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - mala ciencia
 date: 2021-04-29 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T18:53:47.435633'
+description: Un ejemplo más de cómo en muchas disciplinas científicas, el quién es tanto o más relevante que el muy maleable qué.
+lastmod: '2026-08-31'
 related:
 - 2017-03-07-en-contra-del-estado-de-derecho.md
 - 2018-03-16-invertir-relaciones-causales-plausibles-exige-mucha-mucha-explicacion.md
@@ -21,7 +21,7 @@ title: Una nota sobre el artículo "retractado" porque sus autores habían omiti
 url: /2021/04/29/una-nota-sobre-el-articulo-retractado-porque-sus-autores-habian-omitido-vinculos-con-la-industria-del-tabaco/
 ---
 
-Hace unos días se retractó un artículo sobre la relación entre el tabaco y el covid _porque_ los autores habían omitido cierta presunto conflicto de intereses (los detalles, [aquí](https://www.theguardian.com/science/2021/apr/22/scientific-paper-claiming-smokers-less-likely-to-acquire-covid-retracted-over-tobacco-industry-links)).
+Hace unos días se retractó un artículo sobre la relación entre el tabaco y el covid _porque_ los autores habían omitido cierto presunto conflicto de intereses (los detalles, [aquí](https://www.theguardian.com/science/2021/apr/22/scientific-paper-claiming-smokers-less-likely-to-acquire-covid-retracted-over-tobacco-industry-links)).
 
 He subrayado la palabra _porque_ en el párrafo anterior: es la más relevante de toda la historia.
 
@@ -31,8 +31,8 @@ En otras ciencias, esa eliminación del autor de los predicados es más problem�
 
 _[Tal vez alguien quiera reflexionar aquí sobre esos enunciados anónimos que aparecen en los textos de ciencias sociales como si representasen verdades universales.]_
 
-El caso del artículo es indicio de una aún más extremo: el contenido del artículo se ha dado por malo (y merecedor de una _retracción_) no por lo que pueda decir sino precisamente por ciertos aspectos concernientes a la biografía de sus autores. Lo que se se está dando a entender, lo que la disciplina está reconociendo, es que es incapaz de evaluar la validez interna de las las proposiciones que constituyen su contenido teórico.
+El caso del artículo es indicio de una aún más extremo: el contenido del artículo se ha dado por malo (y merecedor de una _retracción_) no por lo que pueda decir sino precisamente por ciertos aspectos concernientes a la biografía de sus autores. Lo que se se está dando a entender, lo que la disciplina está reconociendo, es que es incapaz de evaluar la validez interna de las proposiciones que constituyen su contenido teórico.
 
 Más en general, obtenemos todavía más evidencias sobre cómo _el consenso_ en una de esas  _ciencias_ en que los autores (algunos los llaman _agentes operatorios_) _no salen de la ecuación_ durante el proceso de producción científica nos enseñan tanto o más sobre los sesgos ideológicos preponderantes entre quienes las practican que sobre el fenómeno objeto de sus investigaciones.
 
-Es decir, se va volver más relevante y revelador el estudio de la sociología de la economía, de la sicología y de la misma sociología que el de las propias economía, sicología o sociología. Todo, como veis, muy _meta_.
+Es decir, se va a volver más relevante y revelador el estudio de la sociología de la economía, de la sicología y de la misma sociología que el de las propias economía, sicología o sociología. Todo, como veis, muy _meta_.

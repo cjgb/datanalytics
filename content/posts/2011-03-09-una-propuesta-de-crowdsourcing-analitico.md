@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2011-03-09 09:51:47+00:00
-draft: false
 lastmod: '2025-04-06T19:07:27.806644'
 related:
 - 2010-10-03-c2bfpor-que-no-una-competicion.md
@@ -13,7 +12,7 @@ related:
 - 2011-06-06-la-tragedia-del-buen-rollito.md
 tags:
 - consultoría
-title: Una propuesta de "crowdsourcing analítico"
+title: Una propuesta de «crowdsourcing analítico»
 url: /2011/03/09/una-propuesta-de-crowdsourcing-analitico/
 ---
 
@@ -21,7 +20,7 @@ Pido excusas en primer lugar por usar la palabra _crowdsourcing_. No sé si tien
 
 Es, más bien, una oferta que me han hecho llegar recientemente para colaborar en el desarrollo de una _plataforma de crowdsourcing analítico_. Esta plataforma haría de intermediaria entre gente que tiene un problema analítico ---mencionan las áreas consabidas: datos clínicos, predicción, investigación de mercado, optimización de precios, gestión de inventarios, etc. en las industrias afectadas--- y quienes tienen capacidad y experiencia para resolverlo, estén donde estén.
 
-Existen algunas iniciativas en marcha: [redesignme](http://www.redesignme.com) en el mundo del diseño, [Innocentive](http://www.innocentive.com) en el del I+D y, dentro del del análisis de datos, [TunedIT ](http://tunedit.org/) y [Kaggle](http://www.kaggle.com/).
+Existen algunas iniciativas en marcha: [redesignme](http://www.redesignme.com) en el mundo del diseño, [Innocentive](http://www.innocentive.com) en el del I+D y, dentro del mundo del análisis de datos, [TunedIT](http://tunedit.org/) y [Kaggle](http://www.kaggle.com/).
 
 Esta nueva iniciativa es algo distinta y complementaria a las anteriores. Funcionaría así:
 

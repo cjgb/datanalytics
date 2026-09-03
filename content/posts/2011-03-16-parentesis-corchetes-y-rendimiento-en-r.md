@@ -3,7 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-03-16 09:31:45+00:00
-lastmod: '2025-04-06T18:57:02.555668'
+description: Sobre el extraño asunto de la desigual eficiencia de expresiones muy similares
+lastmod: '2026-08-31'
 related:
 - 2011-05-18-solipsismo-comunidad-y-rendimiento.md
 - 2020-06-29-sobremuestreando-x-y-no-y.md
@@ -17,31 +18,25 @@ title: Paréntesis, llaves y rendimiento en R
 url: /2011/03/16/parentesis-llaves-y-rendimiento-en-r/
 ---
 
-Conforme se populariza el uso de R, cobran creciente importancia las cuestiones relativas a su rendimiento, su gestión de la memoria, etc. Hasta el punto que incluso uno de sus creadores, Ross Ihaka, ha expresado últimamente su [descontento con las limitaciones de R](http://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf) (el enlace es gentileza de Daniel Castro) sugiriendo que sus componentes puramente estadísticos deberían construirse sobre la base de un lenguaje distinto, posiblemente Lisp.
+Conforme se populariza el uso de R, cobran creciente importancia las cuestiones relativas a su rendimiento, su gestión de la memoria, etc. Hasta el punto de que incluso uno de sus creadores, Ross Ihaka, ha expresado últimamente su [descontento con las limitaciones de R](http://www.stat.auckland.ac.nz/~ihaka/downloads/Compstat-2008.pdf) (el enlace es gentileza de Daniel Castro) sugiriendo que sus componentes puramente estadísticos deberían construirse sobre la base de un lenguaje distinto, posiblemente Lisp.
 
 Dentro de este contexto de preocupación sobre el rendimiento de R, han aflorado algunas cuestiones acerca de la eficiencia del intérprete a la hora de resolver expresiones matemáticas. Por ejemplo, Radford Neal estudió el [desigual desempeño de R](http://radfordneal.wordpress.com/2010/08/15/two-surpising-things-about-r/) frente a ciertas expresiones matemáticas equivalentes: en particular, la expresión
 
-{{< highlight R >}}
+```r
 1/{a*{b+c}}
-{{< / highlight >}}
+```
 
 frente a
 
-{{< highlight R >}}
+```r
 1/(a*(b+c))
-{{< / highlight >}}
+```
 
 Puede verse más información sobre el mismo tema [aquí](http://radfordneal.wordpress.com/2010/08/19/speeding-up-parentheses-and-lots-more-in-r/), [aquí](http://xianblog.wordpress.com/2010/09/06/insane/) y [aquí](http://blog.binfalse.de/2011/02/readability-vs-speed-in-r/).
 
 Lo que resulta curioso, cuando no denunciable, es que los autores de todos estos análisis renuncien al rigor estadístico y comparen A contra B a partir de una única observación de cada caso. El código que presento debajo es sustancialmente más riguroso en ese aspecto: replica, aleatoriza y utiliza un análisis de la varianza para ver qué de cierto hay en la hipótesis del Sr. Neal:
 
-
-
-
-
-
-
-{{< highlight R >}}
+```r
 ## seis funciones de distinto grado de complejidad
 
 # con paréntesis
@@ -72,17 +67,11 @@ boxplot(tiempo ~ sep + factor(complejidad), data = dat,
     ylim = c(0, max(dat$tiempo)), xlab = "",
     ylab = "segundos",
     main = "Tiempo de ejecución de 10^6 iteraciones\nde seis expresiones equivalentes en R")
-{{< / highlight >}}
-
-
-
-
-
-
+```
 
 La salida que obtengo en mi máquina es
 
-{{< highlight R >}}
+```r
 Call:
 lm(formula = tiempo ~ sep + factor(complejidad), data = dat)
 
@@ -102,18 +91,15 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 0.2359 on 116 degrees of freedom
 Multiple R-squared: 0.7847,     Adjusted R-squared: 0.7791
 F-statistic: 140.9 on 3 and 116 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 y el gráfico (¡nunca, nunca, nunca obviéis el gráfico!),
 
-[![](/img/2011/03/rendimiento_parentesis_r.png#center)
-](/img/2011/03/rendimiento_parentesis_r.png#center)
+![](/img/2011/03/rendimiento_parentesis_r.png#center)
 
 Así que:
 
-
-
-* se aprecia una diferencia entre los tiempos de ejecución de según la complejidad de la expresión,
+* se aprecia una diferencia entre los tiempos de ejecución según la complejidad de la expresión,
 * aunque no entre el uso de paréntesis o llaves.
 
 Y para acabar, dejo a mis lectores como tarea:

@@ -4,7 +4,7 @@ categories:
 - programación
 - r
 date: 2016-05-24 08:13:42+00:00
-draft: false
+noindex: true
 lastmod: '2025-04-06T19:12:30.881128'
 related:
 - 2014-08-13-mis-procesos-puntuales-con-glm.md
@@ -22,7 +22,7 @@ url: /2016/05/24/tanto-ha-llovido-en-terminos-de-precision-numerica-desde-2008/
 
 Acabo de ejecutar
 
-{{< highlight R >}}
+```r
 set.seed(1234)
 
 x <- runif(1e6)
@@ -43,6 +43,6 @@ sd.sum.squares <- function(x){
 
 sd.sum.squares(x)
 sd.sum.squares(x.shift)
-{{< / highlight >}}
+```
 
 inspirado por [esto](http://www.johndcook.com/blog/2008/09/26/comparing-three-methods-of-computing-standard-deviation/) y me pregunto: ¿tanto ha llovido en términos de precisión numérica desde 2008?

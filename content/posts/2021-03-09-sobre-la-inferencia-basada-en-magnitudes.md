@@ -36,7 +36,7 @@ MBI tiene dos versiones. La primera es más o menos estándar (y, de hecho, reco
 
 ![](/img/2021/03/Magnitude-Based-Inference-Decisions-in-Magnitude-Based.png#center)
 
-Es decir, se crea un intervalo de confianza para la diferencia y se estudia no si no tanto si contiene al cero como su posición con respecto a un umbral que define la significancia material (y no necesariamente la estadística). Los cosas casos señalados en rojo en el gráfico distinguen ambos casos.
+Es decir, se crea un intervalo de confianza para la diferencia y se estudia no si no tanto si contiene al cero como su posición con respecto a un umbral que define la significancia material (y no necesariamente la estadística).
 
 Esa es la parte buena pero no original del método; pero tiene otra que es original y... mala. Es como quien monta un _after_ ilegal al que se accede por una trampilla en una cafetería del montón. Si el método anterior no funciona, como cabe esperar con efectos pequeños y muestras cortas, MBI tiene _cosa buena_ en la trastienda.
 

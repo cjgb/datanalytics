@@ -21,7 +21,7 @@ title: Máxima verosimilitud vs decisiones
 url: /2020/12/09/maxima-verosimilitud-vs-decisiones/
 ---
 
-En _[Some Class-Participation Demonstrations for Introductory Probability and Statistics](https://www.researchgate.net/publication/247256806_Some_Class-Participation_Demonstrations_for_Introductory_Probability_and_Statistics)_ tienen los autores un ejemplo muy ilustrativo sobre lo lo relativo (en oposición a fundamental) del papel de la máxima verosimilitud (y de la estadística puntual, en sentido lato) cuando la estadística deja de ser un fin en sí mismo y se inserta en un proceso más amplio que implica la toma de decisiones _óptimas_.
+En _[Some Class-Participation Demonstrations for Introductory Probability and Statistics](https://www.researchgate.net/publication/247256806_Some_Class-Participation_Demonstrations_for_Introductory_Probability_and_Statistics)_ tienen los autores un ejemplo muy ilustrativo sobre lo relativo (en oposición a fundamental) del papel de la máxima verosimilitud (y de la estadística puntual, en sentido lato) cuando la estadística deja de ser un fin en sí mismo y se inserta en un proceso más amplio que implica la toma de decisiones _óptimas_.
 
 Se trata de un ejemplo pensado para ser desarrollado en una clase. Consiste en un juego en el que el profesor muestra a los alumnos un bote con monedas y les propone que traten de acertar su número exacto. En tal caso, los alumnos se la quedan y pueden repartirse el contenido.
 

@@ -19,7 +19,7 @@ title: Más sobre el caso WPS vs. SAS
 url: /2010/08/22/mas-sobre-el-caso-wps-vs-sas/
 ---
 
-Ayer quise publicar un comentario a [este artículo](http://www.informationweek.com/news/business_intelligence/analytics/showArticle.jhtml;jsessionid=34KXP4YZ520ALQE1GHRSKHWATMY32JVN?articleID=226500288&pgno=1&queryText=&isPrev=) sobre el reciente veredicto del caso SAS vs. WPS. Aunque ya hablé de eso el otro día, como no me lo publicaron (por ingnotas razones), hago constancia de mi comentario aquí:
+Ayer quise publicar un comentario a [este artículo](http://www.informationweek.com/news/business_intelligence/analytics/showArticle.jhtml;jsessionid=34KXP4YZ520ALQE1GHRSKHWATMY32JVN?articleID=226500288&pgno=1&queryText=&isPrev=) sobre el reciente veredicto del caso SAS vs. WPS. Aunque ya hablé de eso el otro día, como no me lo publicaron (por ignotas razones), hago constancia de mi comentario aquí:
 
 
 >The article is misleading in the sense that computer languages (and there exists such a thing as a _SAS computer language_) are not subject to copyright.

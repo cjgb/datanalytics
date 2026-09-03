@@ -4,7 +4,7 @@ categories:
 - estadística bayesiana
 date: 2026-04-09
 description: Reproduciendo la estimación de la excentricidad de la órbita terrestre de Kepler con herramientas modernas (y estadística bayesiana).
-lastmod: '2026-04-03T19:21:51.075997'
+lastmod: '2026-08-31'
 related:
 - 2023-01-18-modelo-poisson-numpyro.md
 - 2023-02-07-numpyro-predictions.md
@@ -24,7 +24,7 @@ url: /2026/04/09/kepler-bayes/
 
 En los relatos acerca de las tribulaciones de los científicos se suele hacer referencia a estimaciones puntuales: X determinó que el Y era Z. Luego, además, se suele aclarar que ahora se sabe que el valor de Y no es Z sino tal vez el doble o un 10% menos. Pero ahí queda la cosa.
 
-Es extraño porque hoy en día, si todo el mundo piensa que Y es 0 y alguien propone un valor Z, no se le hace el menor caso si no proporciona un intervalo de confianza alrededor de Z que, entre otras cosas, excluya el 0. No está para nada claro que los astrónomos de la época tuviesen que hacer caso a pie juntillas a los Galileos, Keplers, etc. de la época. Con los estándares de hoy, no habrían podido publicar ninguno de sus resultados.
+Es extraño porque hoy en día, si todo el mundo piensa que Y es 0 y alguien propone un valor Z distinto, se lo ignora de no proporcionar un intervalo de confianza alrededor de Z que, entre otras cosas, excluya el 0. No está para nada claro que los astrónomos de la época tuviesen que hacer caso a pie juntillas a los Galileos, Keplers, etc. de la época. Con los estándares de hoy, no habrían podido publicar ninguno de sus resultados.
 
 Hace algo más de 400 años, Kepler estimó la excentricidad de la órbita terrestre en 0.017, que es un valor próximo a cero. La diferencia entre una órbita con excentricidad de alrededor de 0.017 y una circular es más o menos la que muestra la siguiente figura:
 

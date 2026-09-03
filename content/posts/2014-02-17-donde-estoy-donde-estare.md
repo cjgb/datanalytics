@@ -27,7 +27,7 @@ Me hace cierta gracia leer [_España: El éxodo en cifras. Desaparecen 1,7 millo
 
 y se pregunta a dónde ha ido la gente que está en rojo: la población activa en los tramos de edad de entre los 16 y los 29 años y entre los 30 y los 39. Aquí en Zúrich estoy rodeado de un buen número de los faltantes. Pero hay otras causas que el artículo omite.
 
-Según las cifras del último censo (publicado en las páginas del INE), en la primera cohorte entraron (proque cumplieron 16 años) y salieron (porque cumplieron 30) los siguientes (en miles):
+Según las cifras del último censo (publicado en las páginas del INE), en la primera cohorte entraron (porque cumplieron 16 años) y salieron (porque cumplieron 30) los siguientes (en miles):
 
 |  año  | entraron | salieron | saldo |
 |:------------| -------: | ---------:| ---------:|

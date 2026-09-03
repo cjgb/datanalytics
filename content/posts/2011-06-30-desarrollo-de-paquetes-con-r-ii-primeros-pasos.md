@@ -38,7 +38,7 @@ Si abrimos una nueva sesión de R —para que no haya funciones ni objetos adici
 package.skeleton( "mipaquete" )
 {{< / highlight >}}
 
-Ese comando crea en el directorio actual el directorio mipaquete con la estructura básica de un paquete: el fichero `DESCRIPTION `y los directorios `R `(con el código de las funciones) y `man `(con el esquema básico de los ficheros de ayuda). Pero, ¡cuidado,solo puede utilizarse una vez! En lo sucesivo, al añadir funciones adicionales hay que crear el correspondiente fichero `.Rd` a mano.
+Ese comando crea en el directorio actual el directorio mipaquete con la estructura básica de un paquete: el fichero `DESCRIPTION `y los directorios `R `(con el código de las funciones) y `man `(con el esquema básico de los ficheros de ayuda). Pero, ¡cuidado, solo puede utilizarse una vez! En lo sucesivo, al añadir funciones adicionales hay que crear el correspondiente fichero `.Rd` a mano.
 
 A partir de ese momento, basta con ir completando los detalles: esencialmente, editar y completar los ficheros `DESCRIPTION `y los `.Rd` del directorio `man`. Para ello, es útil tener en cuenta los siguientes consejos:
 

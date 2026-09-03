@@ -66,7 +66,7 @@ Se ha hecho cierto esfuerzo en permitir la captura en R de las excepciones que p
 
 ## Motivación e historia
 
-Se han realizado varios intentos por integrar R y Python. El más antiguo del que tengo noticia (y que creo es ya obsoleto) es [RSPython](http://www.omegahat.org/RSPython/). El módulo [RPy](http://rpy.sourceforge.net/) de Python permite llamar a R desde Python pero echaba en menos una manera de llamar a Python desde R.
+Se han realizado varios intentos por integrar R y Python. El más antiguo del que tengo noticia (y que creo es ya obsoleto) es [RSPython](http://www.omegahat.org/RSPython/). El módulo [RPy](http://rpy.sourceforge.net/) de Python permite llamar a R desde Python pero echaba de menos una manera de llamar a Python desde R.
 
 Existe un paquete en CRAN, [RPyGeo](http://cran.r-project.org/web/packages/RPyGeo/index.html), que llama a Python, aunque de una manera uniplataforma (sólo en Windows y si se instala Python en el mismo directorio que el autor del paquete) y burda: mediante llamadas al sistema por línea de comandos.
 

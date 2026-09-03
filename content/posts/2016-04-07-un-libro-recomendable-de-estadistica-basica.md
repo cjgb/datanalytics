@@ -29,6 +29,6 @@ Me piden bibliografía para unos cursos de ciencia de datos. En particular, de e
 * Que esté accesible, idealmente en internet, gratuita y legalmente.
 
 
-Finalmente, si está escrito escrito en español y usa R, mejor aún.
+Finalmente, si está escrito en español y usa R, mejor aún.
 
 He encontrado [este](http://www.uv.es/~ayala/docencia/nmr/nmr13.pdf). No sé si alguien tendrá en mente alguno mejor.

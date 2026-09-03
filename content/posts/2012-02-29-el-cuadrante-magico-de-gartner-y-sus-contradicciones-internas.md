@@ -3,8 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - consultoría
 date: 2012-02-29 07:09:28+00:00
-draft: false
-lastmod: '2025-04-06T18:57:01.848992'
+lastmod: '2026-08-31'
 related:
 - 2010-10-14-mas-sobre-lo-de-netezza.md
 - 2010-08-22-sobre-la-cuota-de-mercado-mundial-de-las-herramientas-analiticas-de-negocio.md
@@ -37,4 +36,4 @@ Pero siempre que lo veo me surge la siguiente pregunta: ¿son verdaderamente rel
 * Las variables _mágicas_ indican que IBM es, objetiva e indubitablemente,  superior a ambos competidores; por tanto, estos están abocados a quebrar en el corto plazo conforme sus usuarios migren a IBM.
 * Como SAS y SAP llevan la tira de años en el mercado y no hay mayor indicio de que vayan a periclitar en el próximo trimestre, que las variables con las que se están evaluando los productos pueden no ser las más relevantes. Y por tanto, no merece la pena prestar mayor atención al _cuadrante_.
 
-¿Mi opinión? Que es irrelevante: igual que el tango, la elección del software es cosa de dos, el que compra y el que vende. Habría, por tanto, tantos _cuadrantes mágicos_ —posiblemente de dimensión >2— como tipos específicos de compradores y sobre el adecuado estos sí que podrían trazar su [frontera eficiente](http://en.wikipedia.org/wiki/Efficient_frontier).
+¿Mi opinión? Que es irrelevante. Igual que el tango, la elección del software es cosa de dos: el que compra y el que vende. Habría, por tanto, tantos _cuadrantes mágicos_ ---posiblemente de dimensión >2--- como tipos específicos de compradores. Sobre dichos cuadrantes personalizados sí que podrían trazar su [frontera eficiente](http://en.wikipedia.org/wiki/Efficient_frontier).

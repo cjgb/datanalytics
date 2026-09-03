@@ -71,7 +71,7 @@ fit <- stan(model_code = codigo,
 
 En el código anterior no sé si queda claro cómo cada punto $y_i$ sigue una distribución (condicionada a los parámetros) con densidad $\theta_1 \phi(y_i, \mu_1, \sigma_1) + \theta_2 \phi(y_i, \mu_2, \sigma_2)$.
 
-El resultado no es malo: los valores medianos de las muestras de los parámetros de los parámetros son próximos a los de partida, etc., como puede verse en
+El resultado no es malo: los valores medianos de las muestras de los parámetros son próximos a los de partida, etc., como puede verse en
 
 ![mixture_fitted_values](/img/2016/03/mixture_fitted_values.png#center)
 

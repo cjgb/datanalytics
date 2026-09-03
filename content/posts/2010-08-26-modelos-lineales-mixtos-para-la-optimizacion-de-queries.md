@@ -127,7 +127,7 @@ modelo.lm <- lm( log2( query.time ) ~
     id + unit.size + account.size, data = dat )
 {{< / highlight >}}
 
-que haría aparecer 200 (técnicamente, 199 porque no se ha eliminado el término independiente del modelo) coeficientes nuevos que representarían la variación en los tiempos de ejecución atribuida a cada enunciado de query en particular (variación que puede deberse a la distinta distribución de la filas correspondientes a distintas unidades o cuentas en el disco, etc.). Obviamente, estos coeficientes no son de mayor interés en sí mismos. A lo más, interesa saber si existen variaciones sustanciales entre las distintas queries que pudieran ser indicativas de algún fenómenono tenido en cuenta.
+que haría aparecer 200 (técnicamente, 199 porque no se ha eliminado el término independiente del modelo) coeficientes nuevos que representarían la variación en los tiempos de ejecución atribuida a cada enunciado de query en particular (variación que puede deberse a la distinta distribución de la filas correspondientes a distintas unidades o cuentas en el disco, etc.). Obviamente, estos coeficientes no son de mayor interés en sí mismos. A lo más, interesa saber si existen variaciones sustanciales entre las distintas queries que pudieran ser indicativas de algún fenómeno no tenido en cuenta.
 
 Mediante
 

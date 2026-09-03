@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2017-11-10 08:13:12+00:00
-draft: false
-lastmod: '2025-04-06T18:52:37.570835'
+description: Los experimentos generan histogramas que convergen a funciones de densidad y distribución.
+lastmod: '2026-08-31'
 related:
 - 2020-11-30-introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega.md
 - 2018-04-13-un-problema-como-muestrear-histogramas-con-medias-la-via-de-los-trapecios.md
@@ -23,7 +23,7 @@ He usado el vídeo
 
 {{< youtube 6YDHBFVIvIs >}}
 
-en un curso de estadística básica para ilustrar a través de experimentos se construyen _histogramas_ y estos _convergen_ a y, en última instancia, justifican el uso de distribuciones de probabilidad.
+en un curso de estadística básica para ilustrar cómo a través de experimentos se construyen _histogramas_ y estos _convergen_ a y, en última instancia, justifican el uso de distribuciones de probabilidad.
 
 Es decir,
 

@@ -126,6 +126,6 @@ mientras que para la segunda quedan en:
     994.96   18.63 1776.70
 {{< / highlight >}}
 
-Aunque los tiempos reales (_elapsed_) son muy elevados, hay que tener en cuenta que, en mi prueba, están exagerados por las circuntancias de la ejecución: simultáneamente en una misma máquina, con restricciones de memoria y, por lo tanto, algo de paginación. En cualquier caso, lo verdaderamente relevante son los ratios entre ambos procedimientos, muy favorables para las data.tables con respecto a los data.frames originales.
+Aunque los tiempos reales (_elapsed_) son muy elevados, hay que tener en cuenta que, en mi prueba, están exagerados por las circunstancias de la ejecución: simultáneamente en una misma máquina, con restricciones de memoria y, por lo tanto, algo de paginación. En cualquier caso, lo verdaderamente relevante son los ratios entre ambos procedimientos, muy favorables para las data.tables con respecto a los data.frames originales.
 
 En resumen, gracias al trabajo de Matthew Dowle, [disponemos de un nuevo paquete, data.table](http://cran.r-project.org/web/packages/data.table/index.html), que va a conseguir que nuestro código en R vuele cuando tengamos que realizar búsquedas en tablas grandes.

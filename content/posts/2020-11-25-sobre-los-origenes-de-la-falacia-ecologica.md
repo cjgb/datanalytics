@@ -36,4 +36,4 @@ Obviamente, después de la admonición de Robinson, no hemos vuelto a ver a nadi
 
 ![](/img/2020/11/escandalo.jpg)
 
-Una nota final: lo anterior se parece pero no es exactamente un caso de nuestra paradoja favorita, la de Simpson. Simpson asomaría su cabeza no necesariamente cuando pareciese decrecer el analfabetismo al crecer la proporción de inmigrantes (como en el caso discutido discutido) sino cuando, en cada región, los inmigrantes tuviesen una tasa de analfabetismo menor que los nativos.
+Una nota final: lo anterior se parece pero no es exactamente un caso de nuestra paradoja favorita, la de Simpson. Simpson asomaría su cabeza no necesariamente cuando pareciese decrecer el analfabetismo al crecer la proporción de inmigrantes (como en el caso discutido) sino cuando, en cada región, los inmigrantes tuviesen una tasa de analfabetismo menor que los nativos.

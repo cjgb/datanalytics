@@ -3,7 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2018-09-17
-lastmod: 2025-12-13
+lastmod: 2026-08-31
+description: Temperaturas medias diarias durante el verano de 2018 en España.
 related:
 - 2018-05-25-evolucion-de-la-resistencia-al-calor.md
 - 2020-09-14-recordatorio-no-olvideis-restar-los-fallecimientos-atribuibles-al-calor-en-la-estimacion-del-efecto-de-la-segunda-ola.md
@@ -29,4 +30,4 @@ Desglosada por comunidades autónomas, la situación queda así:
 
 ![Temperaturas diarias  máximas en 2018 en España por comunidad autónoma](/img/2018/09/temp_2018_ccaa.png#center)
 
-A la gráficas les he añadido una línea horizontal roja que vendría a ser aquella temperatura máxima a partir de la cual comienzan a apreciarse estadísticamente aumentos de la mortalidad. Y sí, este año los cántabros se libraron de una buena a primeros de agosto.
+A las gráficas les he añadido una línea horizontal roja que vendría a ser aquella temperatura máxima a partir de la cual comienzan a apreciarse estadísticamente aumentos de la mortalidad. Y sí, este año los cántabros se libraron de una buena a primeros de agosto.

@@ -25,7 +25,7 @@ No sé si esto que voy a contar me obliga a tragarme mis propias palabras. Porqu
 
 La variable más importante a la hora de construir un modelo es, precisamente, la que se quiere predecir. Casi todos los textos asumen que se conoce sin ningún género de dudas en, al menos, una determinada muestra que, además, corresponde más o menos a la población subyacente: si el paciente sobrevive o no; si la hipoteca entra en mora o no; si el cliente responde a la oferta o no, etc.
 
-Pero hay muchos problemas famosos y relativamente urgentes en los que la situación es distinta. En la entrada a la que hago referencia más arriba,solo se conocía el valor que predecir para un conjunto de casos, los positivos. Pero era desconocido para la gran masa.
+Pero hay muchos problemas famosos y relativamente urgentes en los que la situación es distinta. En la entrada a la que hago referencia más arriba, solo se conocía el valor que predecir para un conjunto de casos, los positivos. Pero era desconocido para la gran masa.
 
 El problema aparece también en el riesgo de crédito: el banco solo tiene información sobre la situación crediticia de aquellos clientes que no fueron rechazados previamente. Pero es necesario crear un mecanismo de medición del riesgo para todos los clientes. Y _todos_ es una población distinta de _aceptados_. ¡Y qué peligrosas son las extrapolaciones!
 

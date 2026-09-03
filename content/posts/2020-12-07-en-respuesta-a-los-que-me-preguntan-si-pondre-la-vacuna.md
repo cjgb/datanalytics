@@ -53,7 +53,7 @@ No lo digo yo: lo dicen los prospectos de los medicamentos más habituales. Hace
 
 Suponiendo los medicamentos de todo tipo (y sus prospectos en particular) variables aleatorias _intercambiables_ en el sentido de de Finetti —y siendo generosos en tanto que las vacunas del covid son nuevas, no están probadas y se han desarrollado en un tiempo récord sobre tecnologías cuasiexperimentales— la distribución esperada del límite inferior de los efectos adversos de las vacunas podrían aproximarse por los que se enumeran en una muestra aleatoria de prospectos en una farmacia bien surtida.
 
-Que no es cero. Y que alguien la espicha, seguro. Aunque convengo que el balance de riesgos es positivo (en el sentido de la vacunación, obviamente) para los más. Este es el razonamiento y la estimación particular que he hecho de los riesgos y que motiva la respuesta que he dado en la la primera sección de la entrada.
+Que no es cero. Y que alguien la espicha, seguro. Aunque convengo que el balance de riesgos es positivo (en el sentido de la vacunación, obviamente) para los más. Este es el razonamiento y la estimación particular que he hecho de los riesgos y que motiva la respuesta que he dado en la primera sección de la entrada.
 
 **IV.**
 

@@ -25,7 +25,7 @@ url: /2015/04/06/taller-de-mapas-con-r-el-14-de-abril-en-madrid/
 
 Mi entrada de hoy es para anunciar un taller de mapas con R que tendrá lugar el día 14 de abril de 18 a 21 horas en Martina Cocina ([cómo llegar](https://plus.google.com/+MartinaCocinaMadrid/about)).
 
-Lo impartirá [Beatriz Martínez](http://visualizados.com/), socióloga dedicada a la investigación social y de mercados, que ha trabajado en numerosos proyectos: desde investigación digital al desarrollo rural o programas de inclusión social. Está especializada en la la visualización de datos. Algunos de sus trabajos pueden verse en [visualizados.com](http://visualizados.com).
+Lo impartirá [Beatriz Martínez](http://visualizados.com/), socióloga dedicada a la investigación social y de mercados, que ha trabajado en numerosos proyectos: desde investigación digital al desarrollo rural o programas de inclusión social. Está especializada en la visualización de datos. Algunos de sus trabajos pueden verse en [visualizados.com](http://visualizados.com).
 
 [![taller_mapas_2015](/img/2015/04/taller_mapas_2015.png#center)
 ](/img/2015/04/taller_mapas_2015.png#center)

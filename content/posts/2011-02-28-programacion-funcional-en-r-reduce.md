@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2011-02-28 09:07:36+00:00
-lastmod: '2025-04-06T19:10:15.608070'
+lastmod: '2026-09-02'
 related:
 - 2015-02-25-todos-contra-todos.md
 - 2014-08-11-procesos-puntuales-una-primera-aproximacion.md
@@ -21,102 +21,51 @@ Siguiendo con la serie de artículos sobre programación funcional que comencé 
 
 Reduce es el segundo de los tiempos de una abstracción popularizado por Google y otros pero que tiene sus raíces en los lenguajes funcionales (Lisp y otros): _map-reduce_. En resumen, _map_ es la transformación
 
-
 $$(v_1, \dots, v_n) \longmapsto (f(v_1), \dots, f(v_n))$$
-
 
 mientras que reduce consiste en (algo parecido a)
 
-
 $$(f(v_1), \dots, f(v_n))  \longmapsto F(f(v_1), \dots, f(v_n)),$$
-
 
 que devuelve un único valor a partir del vector transformado. Dado un vector $v=(v_1, \dots, v_n)$ y una función $f$, sabemos cómo construir $(f(), \dots, f())$ y $(f(v_1), \dots, f(v_n))$ usando las funciones replicate() y sapply(). Lo que permite Reduce() es hacer
 
-
 $$f(f(\dots f(f(v_1, v_2), v_3), \dots), v_n)$$
-
 
 y, como consecuencia,
 
-
 $$f(f(\dots f(x) \dots)).$$
 
-
-En particular, Reduce() acepta como argumento una función (que, a su vez, acepta dos argumentos) y un vector (además de, posiblemente, argumentos auxiliares adicionales que el interesado encontrará en la ayuda).
+En particular, `Reduce()` acepta como argumento una función (que, a su vez, acepta dos argumentos) y un vector (además de, posiblemente, argumentos auxiliares adicionales que el interesado encontrará en la ayuda).
 
 El primer ejemplo es simple: vectorizar una función. También es impráctico porque la función que queremos vectorizar ya está vectorizada: max().
 
-
-
-
-
-
-
-{{< highlight R >}}
+```r
     f <- function(x, y) ifelse(x > y, x, y)     # máximo de dos valores
     v <- rnorm(100)
     Reduce(f, v)
     max(v)
-{{< / highlight >}}
-
-
-
-
-
-
+```
 
 El segundo tiene que ver con [fracciones continuas](http://es.wikipedia.org/wiki/Fracci%C3%B3n_continua):
 
-
-
-
-
-
-
-{{< highlight R >}}
+```r
     f <- function(x, y) y + 1 / x
     v <- rep(1, 12)
     Reduce(f, v, accumulate = T)
-{{< / highlight >}}
-
-
-
-
-
-
+```
 
 El interesado puede también probar a definir
 
-
-
-
-
-
-
-{{< highlight R >}}
+```r
     f(x, y) = x + 1 / y
-{{< / highlight >}}
-
-
-
-
-
-
-
+```
 y jugar con las opciones right = T/F de Reduce().
 
 El tercer ejemplo puede resultar más interesante. Hay algo de markoviano en la función Reduce() que hace que pueda aplicarse con (discutible, pues es una aproximación) éxito a la simulación de colas. En este caso, simulamos una cola en la que tanto el número de clientes que llegan como el de los que salen en cada intervalo de tiempo (pequeño y fijo) sigue una ley de Poisson. Esto es una aproximación de la situación tal vez más realista en la que ambos fenómenos se rigen por un proceso de Poisson ([que puede simularse tal como nos enseña Olivier Núñez en la lista de ayuda de R](https://stat.ethz.ch/pipermail/r-help-es/2010-April/000891.html)).
 
 El código es así:
 
-
-
-
-
-
-
-{{< highlight R >}}
+```r
     n <- 10000      # n periodos de 1 minuto
     lambda1 <- .3   # intensidad de las llegadas
     lambda2 <- .4   # intensidad del tiempo de servicio
@@ -135,17 +84,9 @@ El código es así:
     # hour.events <- Reduce(estado.cola, events, init = 0)
     longitud.cola <- Reduce(calcular.longitud.cola, events, init = 0, accumulate = T)
     plot(longitud.cola, type = "l")
-{{< / highlight >}}
-
-
-
-
-
-
+```
 
 El interesado en profundizar en el estudio de esta función puede ejercitarse con los siguientes ejercicios:
 
-
-
 1. Vectorizar las funciones `cbind()` y `rbind()`
-2. Reescribir el código para reescribir el código que ofrecí en la entrada [A vueltas con los fractales](https://datanalytics.com/2010/10/26/a-vueltas-con-los-fractales/) usando la función `Reduce()`
+2. Reescribir el código que ofrecí en la entrada [A vueltas con los fractales](https://datanalytics.com/2010/10/26/a-vueltas-con-los-fractales/) usando la función `Reduce()`

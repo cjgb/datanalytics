@@ -3,7 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2023-03-23
-lastmod: '2025-04-06T19:04:02.381745'
+noindex: true
+lastmod: '2026-08-31'
 related:
 - 2019-09-18-mi-consumo-de-electricidad-hora-a-hora.md
 - 2013-11-20-la-monitorizacion-del-consumo-electrico-de-los-hogares.md
@@ -19,7 +20,7 @@ title: Mi "home server"
 url: /2023/03/23/home-server/
 ---
 
-Hoy me voy a limitar a publicar una imagen de mi flamante _home server_ corriendo la versión 0.1 de mi panel para el seguimiento del mi consumo eléctrico en tiempo real:
+Hoy me voy a limitar a publicar una imagen de mi flamante _home server_ corriendo la versión 0.1 de mi panel para el seguimiento de mi consumo eléctrico en tiempo real:
 
 ![](/img/2023/home_server.jpg#center)
 

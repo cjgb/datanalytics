@@ -31,7 +31,7 @@ Es denunciable pues que en la nube aparezcan:
 
 * "economía" y "Economía", cuando es elemental que antes de agregar frecuencias hay que ignorar las mayúsculas.
 * _stop words_ genéricas como "ello", "respecto", "gran", "cuatro", "dos", "sino", "ahora", etc. que deberían haber sido filtradas previamente.
-* _stop words _específicas, tales como "Señorías". Palabras de este tipo pueden resultar útiles para distinguir un tipo de discurso de otro, pero dentro del contexto de una intervención parlamentaria, "Señorías" se convierte en una redundancia, una palabra que descartar.
+* _stop words_ específicas, tales como "Señorías". Palabras de este tipo pueden resultar útiles para distinguir un tipo de discurso de otro, pero dentro del contexto de una intervención parlamentaria, "Señorías" se convierte en una redundancia, una palabra que descartar.
 * "hecho", "hace" y "hacer"; independientemente de que el verbo hacer pueda ser o no considerado un _stop word_, hay que agregar las raíces (o infinitivos) de los verbos y no sus formas conjugadas.
 * "mercados" y "mercado", que es una versión de lo anterior para el caso de los sustantivos.
 * "Comunidades" y "Autónomas" por separado, cuando es más que probable que siempre apareciesen juntas y, de alguna manera, inseparables, en el discurso.

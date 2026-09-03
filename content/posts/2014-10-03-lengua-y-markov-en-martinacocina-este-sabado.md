@@ -2,9 +2,9 @@
 author: Carlos J. Gil Bellosta
 categories:
 - nlp
-date: 2014-10-03 12:08:33+00:00
+date: 2014-10-03
 noindex: true
-lastmod: '2025-04-06T18:50:21.609057'
+lastmod: '2026-08-31'
 related:
 - 2015-03-03-iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones.md
 - 2013-05-13-charla-un-lematizador-probabilistico-con-r.md
@@ -14,6 +14,7 @@ related:
 tags:
 - markov
 - nlp
+- anuncios
 title: '"Lengua y Markov" en MartinaCocina este sábado'
 url: /2014/10/03/lengua-y-markov-en-martinacocina-este-sabado/
 ---
@@ -22,5 +23,4 @@ Hija de la improvisación de hace un ratico, habrá mañana sábado día 4 (de o
 
 Nos juntaremos, entre otros, los autores del [Escritor Exemplar](https://datanalytics.com/2014/03/13/el-escritor-exemplar/) (uno de los cuales es quien suscribe) y el de [Markov Desencadenado](https://twitter.com/MarkovUnchained).
 
-[![markov_desencadenado](/img/2014/10/markov_desencadenado.png#center)
-](/img/2014/10/markov_desencadenado.png#center)
+![markov_desencadenado](/img/2014/10/markov_desencadenado.png#center)

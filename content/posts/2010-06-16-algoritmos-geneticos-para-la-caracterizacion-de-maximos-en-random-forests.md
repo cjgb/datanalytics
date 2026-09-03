@@ -23,7 +23,7 @@ En minería de datos se buscan modelos que permitan hacer predicciones acerca de
 
 Un modelo puede resumir mejor o peor una colección enorme de observaciones, pero en ocasiones los mismos modelos son demasiado complejos o herméticos como para ofrecer una interpretación plausible de los datos: ¿qué caracteriza a las observaciones para las que mi modelo predice los valores más altos (o bajos)?
 
-Uno de los tipos de modelos más crípticos es el de los _[random forests](http://en.wikipedia.org/wiki/Random_forest)_. Lo puedes ajustar, lo puedes aplicar sobre datos nuevos, pero no vas a llegar jamás a aprehenderlo propiamente. ¿Cómo podemos caracterizar, pues, por ejemplo, las observaciones para las que un random forest precide los valores máximos?
+Uno de los tipos de modelos más crípticos es el de los _[random forests](http://en.wikipedia.org/wiki/Random_forest)_. Lo puedes ajustar, lo puedes aplicar sobre datos nuevos, pero no vas a llegar jamás a aprehenderlo propiamente. ¿Cómo podemos caracterizar, pues, por ejemplo, las observaciones para las que un random forest predice los valores máximos?
 
 Una [reciente pregunta en la lista de correo de R en español](https://stat.ethz.ch/pipermail/r-help-es/2010-June/001048.html), imagino, fue motivada por este tipo de cuestiones (aunque se centrase en los detalles técnicos). Pero he creído relevante traer acá la discusión y comenzar, pues, construyendo uno de tales modelos. Tomaremos el más simple, que es el que viene en los ejemplos con una manipulación mínima:
 

@@ -27,7 +27,7 @@ Pero, y aunque sea alérgico a la regulación en general, me atrevo a apuntar un
 
 ![resultados_encuestas](/img/2016/09/resultados_encuestas.png#center)
 
-En el artículo figuran resúmenes de los métodos usados por los distintos grupos. Uno de los miembros de uno de uno de ellos ha escrito [más al respecto](http://andrewgelman.com/2016/09/23/trump-1-in-florida-or-a-quick-comment-on-that-5-groups-analyze-the-same-poll-exercise/).
+En el artículo figuran resúmenes de los métodos usados por los distintos grupos. Uno de los miembros de uno de ellos ha escrito [más al respecto](http://andrewgelman.com/2016/09/23/trump-1-in-florida-or-a-quick-comment-on-that-5-groups-analyze-the-same-poll-exercise/).
 
 Muchas lecturas pueden hacerse de todo lo anterior. Pero no quiero hacer ninguna. Porque me interesan menos que la de subrayar que el ejercicio pone de manifiesto es cómo el trabajo de campo de recolección de datos por un lado y el de interpretación, modelización y, en última instancia, predicción por otro son dos tareas radicalmente distintas y que perfectamente pueden realizar equipos distintos. El proceso de creación de encuestas electorales sería más transparente y enriquecedor si la comunicación entre los recopiladores de datos y sus posprocesadores fuese explícito y abierto.
 

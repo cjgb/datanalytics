@@ -32,7 +32,7 @@ El bloguero, que para eso es empiricista disfrazado de racionalista, observa (ra
 * Si vas a un concierto de Malumba, que, me han dicho (¡y espero que no me hayan engañado!), no tiene a Lidia Falcón de letrista, tropezarás con bastante más mujeres (también me lo han dicho) que en un foro de Arduino.
 * ¿Etc.?
 
-El argumento de que las mujeres dejan de acudir a donde se las menosprecia, votar a quien las las cosifica o bailar despreocupadamente canciones de quien las humilla (verbalmente) hace aguas; no es suficiente, en resumen, para que emerja la desigualdad.
+El argumento de que las mujeres dejan de acudir a donde se las menosprecia, votar a quien las cosifica o bailar despreocupadamente canciones de quien las humilla (verbalmente) hace aguas; no es suficiente, en resumen, para que emerja la desigualdad.
 
 ¿Pero es necesario? El que se evidencie desigualdad, ¿prueba la existencia de un sustrato machista? ¿O hay algo en el temperamento (innato) o carácter (aprendido) de hombres y mujeres (vistos en términos estadísticos) del que emanan desequilibrios numéricos? De haberlo, al menos, aliviaría la conciencia tanto de mi amigo como del bloguero y este parece encontrarlo en la evidencia empírica proporcionada por el autor de [_Gender Differences in Personality and Interests: When, Where, and Why?_](http://sci-hub.cc/10.1111/j.1751-9004.2010.00320.x)
 

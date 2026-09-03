@@ -4,8 +4,9 @@ categories:
 - gráficos
 - r
 date: 2017-04-07 08:13:40+00:00
-draft: false
-lastmod: '2025-04-06T18:47:49.449775'
+noindex: true
+description: Pequeños múltiplos para la representación de información con una dimensión geográfica.
+lastmod: '2026-08-31'
 related:
 - 2017-04-10-pues-si-puede-fabricarse-uno-para-espana.md
 - 2017-09-28-geofacetas.md

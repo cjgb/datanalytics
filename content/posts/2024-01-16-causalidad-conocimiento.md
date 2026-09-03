@@ -3,7 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - causalidad
 date: 2024-01-16
-lastmod: '2025-04-06T19:11:57.577280'
+description: Una discusión sobre la causalidad motivada por un artículo en NadaEsGratis.
+lastmod: '2026-08-31'
 related:
 - 2021-05-12-causalidad-y-paraisos-fiscales.md
 - 2018-04-03-causalidad-malo-lo-uno-pero-tampoco-bueno-lo-otro.md
@@ -18,7 +19,7 @@ title: Causalidad en el EuroMedioMillón
 url: /2024/01/16/causalidad-conocimiento/
 ---
 
-Esta entrada trata sobre la causalidad; en particular, sobre que sobre ella nos enseña el artículo
+Esta entrada trata sobre la causalidad; en particular, acerca de lo que sobre ella nos enseña el artículo
 [¿Cómo reaccionan los individuos a los impuestos sobre ingresos “caídos del cielo”?](https://nadaesgratis.es/admin/como-reaccionan-los-individuos-a-los-impuestos-sobre-ingresos-caidos-del-cielo).
 Aunque antes de llegar al meollo del asunto, me voy a permitir un par de digresiones.
 
@@ -27,7 +28,7 @@ Aunque antes de llegar al meollo del asunto, me voy a permitir un par de digresi
 El artículo fue publicado en NadaEsGratis, un blog de economía que ha conocido dos fases distintas y que son ambas interesantes por motivos casi opuestos:
 
 * La fase excepcional, durante la que escribían en él grandes economistas que inspiraban a sus lectores y ampliaban su visión del mundo.
-* La fase regular, en la que su lectura revela no es otra cosa que las miserias de la disciplina tal cual da la impresión de profesarse en España. Informa ya no tanto sobre el mundo sino sobre los pretendidos informantes.
+* La fase regular, en la que su lectura solo revela las miserias de la disciplina tal cual da la impresión de profesarse en España. Informa ya no tanto sobre el mundo sino sobre los pretendidos informantes.
 
 De esas cuestiones traté una vez superficialmente [aquí](/2022/07/28/nadaesgratis-temas/).
 
@@ -55,4 +56,4 @@ Efectivamente, para que una causa obre algún efecto, tiene que ser conocida pre
 
 ### IV.
 
-Es fácil conseguir datos macro y aplicar [`CausalImpact`](https://google.github.io/CausalImpact/CausalImpact.html) o similares. Es una trivialidad que todos hemos hecho alguna vez en la vida. Igualmente fácil ---aunque más trabajoso--- es salir a la calle y ver si los compradores de los boletos el Euromillón saben que, realmente, es el EuroMedioMillón porque la otra mitad del premio ya tiene ganador asignado.
+Es fácil conseguir datos macro y aplicar [`CausalImpact`](https://google.github.io/CausalImpact/CausalImpact.html) o similares. Es una trivialidad que todos hemos hecho alguna vez en la vida. Igualmente fácil ---aunque más trabajoso--- es salir a la calle y ver si los compradores de los boletos del Euromillón saben que, realmente, es el EuroMedioMillón porque la otra mitad del premio ya tiene ganador asignado.

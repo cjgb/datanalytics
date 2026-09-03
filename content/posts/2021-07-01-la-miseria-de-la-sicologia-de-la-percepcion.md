@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - gráficos
 date: 2021-07-01 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T18:55:53.092249'
+lastmod: '2026-08-31'
+description: ¿Difiere la población de sujetos que los sicólogos usan para escribir sobre gráficos y percepción de la población general?
 related:
 - 2011-04-26-graficos-vi-teoria.md
 - 2014-03-11-beautiful-evidence-de-tufte.md
@@ -27,18 +27,17 @@ url: /2021/07/01/la-miseria-de-la-sicologia-de-la-percepcion/
 
 A autores como Playfair (tartas), Tukey (diagramas de cajas) o Tufte (pequeños múltiplos) debemos algunas de las técnicas de representación gráfica de datos que usamos habitualmente y a las que el público, mal  que bien, está acostumbrado.
 
-
 Otros autores han tratado de _tecnologizar_ dichas técnicas. Es decir, entender por qué funcionan o cómo hacerlas más efectivas. Para ello se han apoyado en el trabajo de los sicólogos de la percepción. El trabajo pionero al respecto, al menos en el ámbito de la estadística, es de Cleveland y McGill (véase [esto](https://en.wikipedia.org/wiki/Graphical_perception) y, si procede, sus referencias) y ha sido continuado por otros.
 
 _[Vale, ni Cleveland ni McGill son sicólogos de formación, pero sus investigaciones siguen las pautas de la sicología experimental.]_
 
-Las conclusiones de este tipo de estudios son sobradamente conocidas y muchos las asumimos y como consecuencia
+Las conclusiones de este tipo de estudios son sobradamente conocidas y muchos las asumimos y, como consecuencia,
 
-  * tratamos de evitar las tartas y las reemplazamos por tablas o barras;
-  * tratamos de evitar las barras, reemplazándolas por diagramas de puntos;
-  * etc.
+* tratamos de evitar las tartas y las reemplazamos por tablas o barras;
+* tratamos de evitar las barras, reemplazándolas por diagramas de puntos;
+* etc.
 
-Lo hacemos precisamente porque una serie de sujetos experimentales nos han confirmado en laboratorio que este tipo de visualizaciones son más efectivas.
+Lo hacemos precisamente porque una serie de sujetos experimentales nos ha confirmado en laboratorio que este tipo de visualizaciones son más efectivas.
 
 Pero yo creo que nos han engañado. O que no nos han contado toda la historia. O vaya uno a saber qué puede haber ocurrido.
 

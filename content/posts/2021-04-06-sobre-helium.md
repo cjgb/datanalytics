@@ -3,8 +3,8 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2021-04-06 09:13:00+00:00
-draft: false
-lastmod: '2025-04-06T18:57:42.441040'
+description: Indicios de que Helium es poco más que un esquema piramidal.
+lastmod: '2026-08-31'
 related:
 - 2014-02-03-que-nos-jugamos-con-la-neutralidad-en-la-red.md
 - 2017-12-20-redes-sin-neutralidad-de-red-que-funcionan-tan-ricamente.md
@@ -40,7 +40,7 @@ LoRa (o [LoRaWAN](https://es.wikipedia.org/wiki/LoRaWAN)) es la tecnología que 
 * Tiene un alcance en el orden de magnitud de centenares de metros (a diferencia de la WiFi, que la tiene de metros).
 * Tiene un ancho de banda en el orden de bytes/s (a diferencia de la WiFi, que lo tiene en MB/s).
 * Los dispositivos (routers, etc.) de esta tecnología tienen un consumo muy bajo: pueden funcionar meses, años, con una pila.
-* Usa una región del espectro radioeléctrico abierta (como el de la WiFi), 868 Mhz, a diferencia de la WiFi, que usa 2.4/5 Ghz.
+* Usa una región del espectro radioeléctrico abierta (como el de la WiFi), 868 MHz, a diferencia de la WiFi, que usa 2.4/5 Ghz.
 
 Así que los dispositivos IoT utilizan esta frecuencia y tecnología para transmitir información a antenas que estén escuchando y que la transmitan después a una base de datos o lo que sea menester.
 
@@ -55,7 +55,7 @@ El pago podría descomponerse en dos partes:
 
 (Esencialmente, lo mismo que sucede con las suscripciones a internet, con la salvedad de que desde hace un tiempo la capacidad de estas es tal que el coste de cada MB adicional transmitido es cero y ahora se pagan solo tarifas planas, es decir, la parte de la cobertura. Es también el mismo modelo del pago por la electricidad: una parte fija para contribuir al mantenimiento de la red (y de cosas muy acatarrantes en España) y otro asociado al consumo  real de electricidad.)
 
-Los actores naturales de este negocio son las empresas de telefonía movil con antenas. Podrían añadir antenas LoRa a sus instalaciones actuales para cubrir el territorio dar servicio a sus clientes.
+Los actores naturales de este negocio son las empresas de telefonía móvil con antenas. Podrían añadir antenas LoRa a sus instalaciones actuales para cubrir el territorio dar servicio a sus clientes.
 
 **TTN**
 
@@ -65,7 +65,7 @@ Hay gente usando esa red para conectar su cafetera, transmitir la temperatura de
 
 **Helium**
 
-[Helium](https://www.helium.com/) es un proveedor de servicio para IoT alternativo a TTN, alternativo a las empresa de telecomunicaciones estándar, etc. Es una especie de TTN con ánimo de lucro: la gente pone antenas en sus balcones, tejados, etc. con la espectativa de ser recompensada económicamente por ello. Además, la recompensa tiene la forma de [HNT](https://coinmarketcap.com/currencies/helium/), una criptomoneda.
+[Helium](https://www.helium.com/) es un proveedor de servicio para IoT alternativo a TTN, alternativo a las empresas de telecomunicaciones estándar, etc. Es una especie de TTN con ánimo de lucro: la gente pone antenas en sus balcones, tejados, etc. con la expectativa de ser recompensada económicamente por ello. Además, la recompensa tiene la forma de [HNT](https://coinmarketcap.com/currencies/helium/), una criptomoneda.
 
 Adviértase cómo la coexistencia de los términos IoT y criptomoneda en el _elevator pitch_ de Helium puede incrementar el interés por la cosa.
 

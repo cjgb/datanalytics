@@ -27,7 +27,7 @@ Yo recomendaría [_Scalable Strategies for Computing with Massive Data_](http://
 
 Una cosa con la que tropezará enseguida quien lo hojee es:
 
->[...] R no está preparado para operar con estructuras de datos que ocupan más del 10-20% de la RAM del ordenador. Con datos que ocupan más del 50% es prácticamente imposible trabajar porque el el consumo adicional de memoria de cualquier transformación no trivial consume enseguida toda la RAM disponible. [...] llamamos grande a un conjunto de datos si ocupa más del 20% de la RAM y masivo si ocupa más del 50%.
+>[...] R no está preparado para operar con estructuras de datos que ocupan más del 10-20% de la RAM del ordenador. Con datos que ocupan más del 50% es prácticamente imposible trabajar porque el consumo adicional de memoria de cualquier transformación no trivial consume enseguida toda la RAM disponible. [...] llamamos grande a un conjunto de datos si ocupa más del 20% de la RAM y masivo si ocupa más del 50%.
 
 En realidad, los límites no son tan serios: ahora mismo, R está ocupando 17 de los 24GB de RAM de mi servidor y va como un tiro. Pero es un aviso para navegantes: a partir de cierto umbral, hay que olvidarse de `read.table` y demás. Alternativas, haylas. La más simple es conseguir (¿alquilándola?) una máquina más grande. Seguramente es la opción más barata si se tienen todos los factores en cuenta.
 

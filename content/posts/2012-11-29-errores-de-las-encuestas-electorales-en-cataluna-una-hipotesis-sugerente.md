@@ -24,7 +24,7 @@ Una de las encuestas más criticadas ha sido la contenida en el [Barómetro de O
 
 Ergo los encuestados forman parte del subgrupo de la población que dispone de teléfono. Y, casi seguro, de teléfono _fijo_. Esto ha sido siempre un problema. Pero que se ha visto agravado recientemente por el proceso (aún incipiente) de [sustitución de la telefonía fija por la móvil](http://blogcmt.com/2012/02/10/el-acceso-telefonico-movil-no-sustituye-al-fijo-aun/); la _opción de los hogares jóvenes que se incorporan al mercado optando por la telefonía móvil, sin ni siquiera pasar por la telefonía fija_ (cita del mismo enlace); y, sobre todo, el desigual perfil de edad y socioeconómico (y, por ende, político) de los hogares que no disponen de telefonía fija (estudiado en la nota ocasional de la Comisión del Mercado de las Telecomunicaciones titulado [Caracterización de los hogares españoles como consumidores de servicios de comunicaciones electrónicas](http://www.cmt.es/c/document_library/get_file?uuid=45578198-7f4c-4d45-80e8-3a5cb341958e&groupId=10138)).
 
-En efecto, un porcentaje nada desdeñable de los hogares españoles son son a finales de 2012 inasequibles a los esfuerzos de los teleoperadores, como pone en evidencia el siguiente gráfico horrible:
+En efecto, un porcentaje nada desdeñable de los hogares españoles son a finales de 2012 inasequibles a los esfuerzos de los teleoperadores, como pone en evidencia el siguiente gráfico horrible:
 
 [![](/img/2012/11/telefonia_cmt-300x119.png#center)
 ](/img/2012/11/telefonia_cmt.png#center)
