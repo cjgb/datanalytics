@@ -33,7 +33,7 @@ Quedé, pues, con la duda sobre la opinión de Bunge acerca de esas cuestiones y
 
 que es un completo sinsentido (por cuantificarlo: es un sinsentido de esos que te hacen perder puntos en un examen de la licenciatura, uno que no cabe encontrar en una publicación revisada por pares, salvo que esos pares sean demasiado parejos). Precisamente este es, además, el ejemplo —aquí enteramente desarrollado— al que hacía Bunge alusión y no remataba en la charla que cito arriba.
 
-En otra sección del articulo escribe
+En otra sección del artículo escribe
 
 ![](/img/2021/10/image-5.png#center)
 

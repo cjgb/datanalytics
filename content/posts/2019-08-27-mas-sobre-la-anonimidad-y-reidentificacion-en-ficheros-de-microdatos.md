@@ -19,7 +19,7 @@ title: Más sobre la anonimidad y reidentificación en ficheros de microdatos
 url: /2019/08/27/mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos/
 ---
 
-Ha tenido cierta repercusión durante el verano el articulo _[Estimating the success of re-identifications in incomplete datasets using generative models](https://www.nature.com/articles/s41467-019-10933-3)_, del que se han publicado resúmenes tales como _[Bastan tres datos para identificar a cualquiera en una base anónima](https://www.technologyreview.es/s/11326/bastan-tres-datos-para-identificar-cualquiera-en-una-base-anonima)_. Cosa sobradamene conocida desde hace la tira.
+Ha tenido cierta repercusión durante el verano el artículo _[Estimating the success of re-identifications in incomplete datasets using generative models](https://www.nature.com/articles/s41467-019-10933-3)_, del que se han publicado resúmenes tales como _[Bastan tres datos para identificar a cualquiera en una base anónima](https://www.technologyreview.es/s/11326/bastan-tres-datos-para-identificar-cualquiera-en-una-base-anonima)_. Cosa sobradamene conocida desde hace la tira.
 
 De hecho, se ha publicado [esta herramienta](https://cpg.doc.ic.ac.uk/individual-risk/) para conocer tu riesgo de ser reidentificado, caso de que vivas en EEUU o el RU.
 

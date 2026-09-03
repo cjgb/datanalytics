@@ -54,7 +54,7 @@ El modelo B puede entenderse como una aproximación al C ---a través del desarr
 * Linealiza el efecto de las variables.
 * Destruye sus interacciones.
 
-Bajo el modelo C, pasar de 35 a 36 kg no es muy distinto de pasar de 45 a 46 kg. Uno puede pensar que el contexto exige algo así como unos _incrementos decrecientes_en la respuesta al `antes`, pero B carece de la suficiente expresividad matemática.
+Bajo el modelo C, pasar de 35 a 36 kg no es muy distinto de pasar de 45 a 46 kg. Uno puede pensar que el contexto exige algo así como unos _incrementos decrecientes_ en la respuesta al `antes`, pero B carece de la suficiente expresividad matemática.
 
 Peor aún es el modelo A, que es una simplificación de B en el que se fija a 1 el coeficiente de `antes`. Es decir, se trata de una simplificación no justificada de otra simplificación no justificada.
 

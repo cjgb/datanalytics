@@ -17,7 +17,7 @@ title: Grandes avances criptográficos... según El País
 url: /2011/12/02/grandes-avances-criptograficos-segun-el-pais/
 ---
 
-Apenas sé de criptografía y no es un tema que me interese demasiado. Sin embargo leí un artículo en El País de la semana pasada titulado _[Desvelado el significado oculto del 'Copiale Cipher'](http://www.elpais.com/articulo/reportajes/Desvelado/significado/oculto/Copiale/Cipher/elpepusocdmg/20111113elpdmgrep_5/Tes)_. Se refiere a un libro que contenía los estatutos de cierta secta masónica de mediados del siglo XVIII. Y dice textualmente .
+Apenas sé de criptografía y no es un tema que me interese demasiado. Sin embargo leí un artículo en El País de la semana pasada titulado _[Desvelado el significado oculto del 'Copiale Cipher'](http://www.elpais.com/articulo/reportajes/Desvelado/significado/oculto/Copiale/Cipher/elpepusocdmg/20111113elpdmgrep_5/Tes)_. Se refiere a un libro que contenía los estatutos de cierta secta masónica de mediados del siglo XVIII.
 
 Aunque el artículo habla principalmente de la masonería, las normas, la historia del manuscrito y otras lindezas, describe brevemente la técnica de desencriptación:
 

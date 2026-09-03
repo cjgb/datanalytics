@@ -21,7 +21,7 @@ url: /2012/03/23/r-y-la-distribucion-de-rayleigh/
 
 En la reunión de usuarios de R de Madrid de ayer, Carlos Ortega estudió la [distribución en el tiempo del número de _bugs_ que aparecen en el código de R](http://prezi.com/wkkftr7hmsnt/bugs-en-r/) en cada versión. Indicó que es plausible que sigan una [distribución de Rayleigh](http://es.wikipedia.org/wiki/Distribuci%C3%B3n_de_Rayleigh), relativamente frecuente en ese tipo de contextos. E indicó que esta distribución, no tan conocida, tiene que ver (he olvidado lo que dijo exactamente) con dos normales independientes.
 
-Efectivamente, según la Wikipedia, la distribución de Rayleigh (de parámetro $\sigma$)admite la caracterización
+Efectivamente, según la Wikipedia, la distribución de Rayleigh (de parámetro $\sigma$) admite la caracterización
 
 $$ \sqrt{ X^2 + Y^2 }$ donde $X, Y \sim N(0, \sigma).$$
 

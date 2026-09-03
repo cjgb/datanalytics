@@ -21,7 +21,7 @@ En la tercera entrega de la serie de gráficos quiero dar a conocer una serie de
 
 * [Climate Charts & Graphs](http://chartsgraphs.wordpress.com/), con infinidad de mapas y gráficas sobre el cambio climático, desarrollados principalmente con R.
 * [Datablog](http://www.guardian.co.uk/news/datablog), la bitácora del diario británico The Guardian que bajo el lema _facts are sacred_, hace un periodismo moderno, de primera línea, utilizando un paradigma no textual.
-* [Datapointed ](http://www.datapointed.net/)es el proyecto del (autoproclamado) artista y científico Stephen Von Worley.
+* [Datapointed ](http://www.datapointed.net/) es el proyecto del (autoproclamado) artista y científico Stephen Von Worley.
 * [Excelcharts](http://www.excelcharts.com/blog/) no es exactamente lo que su nombre indica: de hecho, el autor parece tener un objetivo oculto: hacer progresar al usuario de Excel hacia herramientas de visualización decentes.
 * [Flowingdata](http://flowingdata.com/), un proyecto de Nathan Yau, candidato a doctor en estadística con especialidad en visualización de datos.
 * En [Information Aesthetics](http://infosthetics.com), según sus autores, _form follows data_. Más que publicar contenido original, recoge visualizaciones de otros medios.

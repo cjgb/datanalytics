@@ -25,7 +25,7 @@ _[Mil perdones por (ab)usar (de) la terminología X.0; de nuevo, lo he hecho por
 
 Todo es un caos y llega alguien con una idea _paretiana_. Por ejemplo, [esta](https://datawookie.netlify.com/blog/2019/10/private-security-and-the-pareto-principle/) (que es la que ha motivado esta entrada). La idea _paretiana_ puede ser usar regresión logística sobre un subconjunto de variables que tienen sentido; o automatizar una serie de _reglas duras_ (sí, unos cuantos _ifs_) que la gente que conoce el asunto saben que funcionan sí o sí. Etc. En resumen, cosas simples, sólidas y efectivas.
 
-Tal es la _ciencia de datos 1.0_.También conocida como recoger la _low hanging fruit_. Que, contra la opinión generalizada, dista mucho de estar ya recogida.
+Tal es la _ciencia de datos 1.0_. También conocida como recoger la _low hanging fruit_. Que, contra la opinión generalizada, dista mucho de estar ya recogida.
 
 Mejorar esos sistemas y modelos 1.0 será (o está siendo) duro. Solo pocas entidades, las que tengan un volumen suficiente, podrán tal vez compensar los costes fijos de la _ciencia de datos 2.0_ (sí, la de las técnicas y tecnologías _molonas_) con la mejora de eficiencia, si alguna, que supongan con respecto a las de la generación anterior.
 

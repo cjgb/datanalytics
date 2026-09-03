@@ -25,4 +25,4 @@ Desde esta bitácora, además, quiero invitar muy especialmente a los usuarios y
 
 También quiero recordar que pese al trabajo voluntario de muchos y a la gentileza de la EOI —que se ha prestado para albergar las jornadas— que un evento de la dimensión de este genera una serie de gastos no despreciables. Por eso, si alguien está al tanto de los procedimientos para obtener subvenciones o lograr patrocinios de empresas, no estaría de más que dejase un correo a los organizadores.
 
-Y, en cualquier caso, organizad vuestras agendas... ¡y nos vemos en noviembre¡
+Y, en cualquier caso, organizad vuestras agendas... ¡y nos vemos en noviembre!

@@ -22,7 +22,7 @@ Hoy día 20 de octubre celebramos el segundo día mundial de la estadística. Ta
 
 Ambas, la de estadístico y la de chef, son profesiones que es preferible que no se noten. Cuando cobran algo de relevancia, malo. Supongo que por eso es necesario dedicar un día a quienes las practican.
 
-El que un chef se equivoque puede ser enojoso: se sonroja el camarero, hay que devolver el plato a la cocina y muchos temen que le pase algo cochino por el camino. Pero, ¿cuando es la estadística la que está torcida (o, tal vez, demasiado _cocinada_)?
+El que un chef se equivoque puede ser enojoso: se sonroja el camarero, hay que devolver el plato a la cocina y muchos temen que le pase algo cochino por el camino. Pero, ¿cuándo es la estadística la que está torcida (o, tal vez, demasiado _cocinada_)?
 
 Un ejemplo de lo anterior es el lastimoso espectáculo ofrecido por la agencia estadística griega: una de las condiciones impuestas por la Unión Europea y el FMI fue establecer una institución estadística independiente. Al frente de ella colocaron a [Andreas Georgiou](http://www.spiegel.de/international/europe/0,1518,726435,00.html), doctor en economía con experiencia de trabajo en el FMI. Su tarea consistía en enmendar los errores (voluntarios o involuntarios) de sus predecesores y seguir a rajatabla las directrices de Eurostat a la hora de calcular aquellos indicadores esenciales para seguir la evolución de la economía griega.
 

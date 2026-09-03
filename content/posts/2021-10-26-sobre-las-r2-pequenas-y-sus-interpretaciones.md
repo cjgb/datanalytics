@@ -30,7 +30,7 @@ $$ y_i = \hat{a} + \hat{b} x_i + \sum_{ij} a_j z_{ij}$$
 
 donde $z_{ij}$ son variables (o causas) que afectan al proceso de recogida de datos (variaciones de temperatura, rozamiento, precisión del instrumental, etc.) que se consideran irrelevantes y, en este caso concreto, pequeñas.
 
-La R² en este experimento mide la relación entre el efecto de $x$ y las $z_j$:si el de la primera es muy grande con respecto al de las segundas ---que es lo habitual en las _ciencias duras_--- la R² será próxima a 1; si pasa lo contrario y la señal es pequeña con respecto al ruido, será próxima a 0.
+La R² en este experimento mide la relación entre el efecto de $x$ y las $z_j$: si el de la primera es muy grande con respecto al de las segundas ---que es lo habitual en las _ciencias duras_--- la R² será próxima a 1; si pasa lo contrario y la señal es pequeña con respecto al ruido, será próxima a 0.
 
 Pero que el efecto de $x$ sea pequeño con respecto al de las $z_j$ (y, por lo tanto, la R² sea pequeña) no significa que no exista efecto o que sea irrelevante. Eso es lo que, en el fondo, le pasó al bueno de Galileo cuando comenzó a contar aquellas cosas que decía haber observado a través de su telescopio. Cuando se enfrentó con los primeros problemas, Galileo invitó a estudiosos de la época a comprobar la veracidad de sus afirmaciones y los invitó a utilizar su telescopio. Y lo que sucedió ---quedan vestigios documentales de ello--- es que no vieron nada: el telescopio de Galileo era sumamente rudimentario y esas señales de las que hablaba estaban diluidas en un proceloso mar de aberraciones ópticas. Podría decirse que su R² era tan baja que no le hicieron caso. Pero señal (y verdad), ¡vaya que si la había!
 

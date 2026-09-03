@@ -21,7 +21,7 @@ title: El impacto (causal) de Google
 url: /2014/09/23/el-impacto-causal-de-google/
 ---
 
-Voy a escribir sobre un artículo como no debe hacerse: sin haberlo leído. Los bayesianos dirían que esta opinión que aquí voy a vertir es mi _prior_ para cuando encuentre el tiempo y bajo la cual matizaré lo que en el se diga. Lo advierto, en todo caso, para que quien me lea no renuncie al sanísimo escepticismo.
+Voy a escribir sobre un artículo como no debe hacerse: sin haberlo leído. Los bayesianos dirían que esta opinión que aquí voy a vertir es mi _prior_ para cuando encuentre el tiempo y bajo la cual matizaré lo que en él se diga. Lo advierto, en todo caso, para que quien me lea no renuncie al sanísimo escepticismo.
 
 Voy a hablar de [_Inferring causal impact using Bayesian structural time-series models_](http://research.google.com/pubs/pub41854.html) y del paquete de R que lo acompaña, [`CausalImpact`](https://google.github.io/CausalImpact/CausalImpact.html), cuyos autores trabajan en Google.
 

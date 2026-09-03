@@ -29,7 +29,7 @@ No, no me refiero a comentarios de enero o febrero. A mediados de abril, aún ha
 
 ![](/img/2020/05/3-11-1024x750-1.png#center)
 
-lo del coronavirus no dejaba de ser análogo a alguna temporada pasada de gripe. Ya llevábamos un mes encerrados, ya habíamos visto el colapso de los hospitales, aún operaba el de campaña de IFEMA, aún estaban abiertas las morgues improvisadas en pistas de hielo alguien nos venía a decir que, bueno, era como una gripe.
+lo del coronavirus no dejaba de ser análogo a alguna temporada pasada de gripe. Ya llevábamos un mes encerrados, ya habíamos visto el colapso de los hospitales, aún operaba el de campaña de IFEMA, aún estaban abiertas las morgues improvisadas en pistas de hielo, pero alguien nos venía a decir que era como una gripe.
 
 Pero en _[Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/)_ se lee algo muy revelador (¡y atención a la última línea!):
 

@@ -75,7 +75,7 @@ res <- t(replicate(10000, foo(3)))
 hist(log2(res[,1] / res[,2]), breaks = 50,
       freq = FALSE,
       col = "steelblue",
-      main = "log2 del ratio real/estimación)",
+      main = "log2 del ratio real/estimación",
       xlab = "", ylab = "")
 
 abline(v = -1, col = "red")

@@ -28,7 +28,7 @@ Leo en Marginal Revolution que
 
 Y me pregunto, ¿es _necesariamente malo_ que no aumente significativamente la renta per cápita?
 
-Específicamente, me pregunto si es posible considerar escenarios deseables en los que la renta per cápita de un país no crezca? Efectivamente, puede ocurrir si en un país:
+Específicamente, me pregunto si es posible considerar escenarios deseables en los que la renta per cápita de un país no crezca. Efectivamente, puede ocurrir si en un país:
 
 - La renta de la población residente crece sana y razonablemente en el tiempo.
 - Pero a la vez la población crece ---sea por inmigración, sea por crecimiento natural vegetativo--- y quienes se integran a la economía tienen una renta inferior de la media.

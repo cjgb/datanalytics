@@ -70,4 +70,4 @@ Este es un detalle a tener en cuenta por quienes aspiran a desarrollar código _
 
 **Nota:** este experimento tiene que ver con el desarrollo del [paquete pxR](https://datanalytics.com/2011/07/28/el-paquete-pxr-en-cran/), que debería ser capaz de leer ficheros (y ejecutar `strsplit` sobre sus cadenas, entre otras funciones) en la plataforma de elección de sus usuarios (y sobre la que los autores no tenemos control). Aparentemente, los ficheros PC-Axis que queremos leer en R, según la documentación oficial, están en codificados en _formato Windows_.
 
-Nuestra actual implementación está basada en ideas extraidas del experimento anterior. Si alguien ve un error en las conclusiones (o conoce una manera más adecuada para garantizar la _portabilidad_), le rogaría que se pusiese en contacto conmigo para trasladarla al código.
+Nuestra actual implementación está basada en ideas extraídas del experimento anterior. Si alguien ve un error en las conclusiones (o conoce una manera más adecuada para garantizar la _portabilidad_), le rogaría que se pusiese en contacto conmigo para trasladarla al código.

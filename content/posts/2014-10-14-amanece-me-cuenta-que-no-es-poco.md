@@ -71,7 +71,7 @@ ggplot(diferencias, aes(x = dia, y = diferencia)) + geom_line() + facet_wrap(~ci
   geom_hline(aes(yintercept = media), medias, col = "red") + ylab("diferencia en horas")
 {{< / highlight >}}
 
-Y bueno, como todo el mundo tiene comentarios respecto a lo de los horarios y no no soy la excepción, van ahí los míos:
+Y, bueno, como todo el mundo tiene comentarios respecto a lo de los horarios y yo no soy la excepción, van ahí los míos:
 
 * El problema no es que la gente se levante una hora antes o después.
 * El problema no es que el sol esté en un lugar u otro a la hora al a que se levanta la gente.

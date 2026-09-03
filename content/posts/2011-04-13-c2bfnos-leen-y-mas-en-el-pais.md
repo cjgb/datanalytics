@@ -29,7 +29,7 @@ Mis lectores más fieles recordarán que, tratando el mismo tema, [dejé escrito
 
 
 
->Telefónica, que vale 84.000 millones hoy, dice tener 281 millones de clientes. Es decir, cada cliente vale unos 300 euros (o unos 400 dólares) . ¿Qué clientes preferirías, los de Telefónica (que _pagan religiosamente facturas a fin de mes_) o los de Facebook?
+>Telefónica, que vale 84.000 millones hoy, dice tener 281 millones de clientes. Es decir, cada cliente vale unos 300 euros (o unos 400 dólares). ¿Qué clientes preferirías, los de Telefónica (que _pagan religiosamente facturas a fin de mes_) o los de Facebook?
 
 
 Cierto que la comparación con Telefónica es de rigor, por más que sea virtud escasa. Cierto que el periodista y yo bien pudiéramos compartir procedimiento para enfrentarnos a la inasequibilidad de las grandes cifras. Cierto que la construcción sintáctica del texto que subrayo en ambas citas es tremendamente común. Y cierto que no hay nada más improbable que el que nunca ocurra ninguna de esas casualidades tan sumamente azarosas. Cierto pues que bien pudiera tratarse de una coincidencia.

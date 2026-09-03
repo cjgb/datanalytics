@@ -19,7 +19,7 @@ url: /2011/01/25/acaban-las-descargas-ilegales-con-la-cultura/
 
 Corre por ahí la especie de que las descargas impropiamente llamadas ilegales, la piratería y algunos otros apocalípticos jinetes de la modernidad van a _acabar con XXX_ (sustitúyase XXX por _la música_, _la cultura_, _el cine_ o _los libros_).
 
-Nos lo dicen los expertos en cantar. Pero, ¿qué nos dicen [los expertos en contar](http://www.ine.es)? Véamoslo en el [capítulo 4 (Cultura y Ocio) del Anuario Estadístico de España 2010](http://www.ine.es/prodyser/pubweb/anuario10/anu10_04cultu.pdf).
+Nos lo dicen los expertos en cantar. Pero, ¿qué nos dicen [los expertos en contar](http://www.ine.es)? Veámoslo en el [capítulo 4 (Cultura y Ocio) del Anuario Estadístico de España 2010](http://www.ine.es/prodyser/pubweb/anuario10/anu10_04cultu.pdf).
 
 
 ### Cine

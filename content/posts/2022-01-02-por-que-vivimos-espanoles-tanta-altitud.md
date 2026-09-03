@@ -32,7 +32,7 @@ Le llamaba la atención al preguntador por qué aparecían tantos municipios esp
 
 Las razones que aventuro sin mayor prueba y sin el sostén del análisis de los datos que sigue son dos:
 
-* Que España tiene grandes extensiones de terreno llano a _gran_ altura, las mesetas.De hecho, siempre había oído hablar ---_spoiler_: como se verá, es información o incierta o desfasada--- que España es el segundo país de Europa en altitud media.
+* Que España tiene grandes extensiones de terreno llano a _gran_ altura, las mesetas. De hecho, siempre había oído hablar ---_spoiler_: como se verá, es información o incierta o desfasada--- que España es el segundo país de Europa en altitud media.
 * Que estamos lo suficientemente cerca del ecuador como para que el clima a esa altitud no sea particularmente extremoso. En eso no somos tampoco excepción: piénsese, p.e., en Ecuador o Colombia.
 
 Quise ---sin éxito, como se verá; o muy parcial e inconclusivo, a lo sumo--- tratar de apoyar el primer punto en datos. En particular, estudiar la distribución de alturas del territorio nacional con el de los demás países de cierta entidad de Europa más allá de la consabida _media_.

@@ -37,7 +37,7 @@ Con lo cual, reitero, solo se puede acceder a él _desde dentro_. Pero yo estoy 
 
 `ssh -ND 2001 miusuario@datanalytics.com`
 
-y a continuación configuro Firefox para que utilice un _proxy_ SOCKS a través de `localhost:2001`, para lo cual recorro `preferences`, `advanced`,`network`, `connection` y, finalmente, `settings` para dejar la configuración así:
+y a continuación configuro Firefox para que utilice un _proxy_ SOCKS a través de `localhost:2001`, para lo cual recorro `preferences`, `advanced`, `network`, `connection` y, finalmente, `settings` para dejar la configuración así:
 
 ![socks_proxy](/img/2016/03/socks_proxy.png#center)
 

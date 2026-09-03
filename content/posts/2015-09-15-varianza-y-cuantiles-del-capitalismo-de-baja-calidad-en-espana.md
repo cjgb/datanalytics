@@ -19,7 +19,7 @@ title: Varianza y cuantiles (del capitalismo de baja calidad en España)
 url: /2015/09/15/varianza-y-cuantiles-del-capitalismo-de-baja-calidad-en-espana/
 ---
 
-Uno de los argumentos más habitualmente esgrimidos en contra del capitalismo es su caracter _cíclico_. Cuando dicen cíclico, entiendo, quieren decir aleatorio (¿quién sabe predecir los _ciclos_?). Eso no sé si lo hace, en la terminología de Taleb, frágil o antifrágil. En cualquier caso, uno de los objetivos de quienes llevan las riendas de la política económica es embridar la aleatoriedad con, por ejemplo, medidas anticíclicas.
+Uno de los argumentos más habitualmente esgrimidos en contra del capitalismo es su carácter _cíclico_. Cuando dicen cíclico, entiendo, quieren decir aleatorio (¿quién sabe predecir los _ciclos_?). Eso no sé si lo hace, en la terminología de Taleb, frágil o antifrágil. En cualquier caso, uno de los objetivos de quienes llevan las riendas de la política económica es embridar la aleatoriedad con, por ejemplo, medidas anticíclicas.
 
 Pero no todas las aleatoridades son iguales. En [_Capital Allocation and Productivity in South Europe_](http://econweb.umd.edu/~kalemli/capital_allocation_productivity.pdf), sus autores descubren varianzas desiguales en la producitividad del capital en distintos países: alta en los países del sur de Europa, baja en los del norte. ¿Diríase que la asignación de recursos es más desigual en los primeros? ¿Será causa —o efecto, o ambas cosas, o será la misma cosa— de la crisis que hemos padecido también desigualmente?
 

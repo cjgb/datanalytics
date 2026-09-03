@@ -30,7 +30,7 @@ Pero bueno, habida cuenta de que el PIB español es de 1413 millardos de dólare
 
 Quiere eso decir que, gastado con los mismos criterios que Israel, podríamos tener el mismo número de empresas igualmente punteras y devolver todavía 8000 millones de dólares a la Hacienda nacional para reducir el déficit. Incluso tendríamos, por añadidura, algún que otro premio Nobel de vez en cuando.
 
-Obviamente no ocurre así. Y se puede escribir mucho acerca de los motivos. De hecho, no falta un catedrático de nosequé o un investigador de nosedónde que plaña periodicamente en prensa sobre el asunto. Y como es gente que sabe mucho de lo que habla, no quiero enmendarle la plana en lo macro.
+Obviamente no ocurre así. Y se puede escribir mucho acerca de los motivos. De hecho, no falta un catedrático de nosequé o un investigador de nosedónde que plaña periódicamente en prensa sobre el asunto. Y como es gente que sabe mucho de lo que habla, no quiero enmendarle la plana en lo macro.
 
 Pero de lo micro, o más bien, de mi visión micro, de mi sesgada e insuficiente visión micro, sí que puedo escribir cuatro renglones.
 

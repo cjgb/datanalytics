@@ -23,7 +23,7 @@ url: /2021/03/11/la-falacia-de-la-conjuncion-desaforada/
 
 La falacia, para aquellos que no la conozcan, está descrita [aquí](https://es.wikipedia.org/wiki/Falacia_de_la_conjunci%C3%B3n). El ejemplo más citado al respecto es el de Linda:
 
->Linda tiene 31 años de edad, soltera, inteligente y muy brillante. Se especializó en filosofía. Como estudiante, estaba profundamente preocupada por los problemas de discriminación y justicia social, participando también en manifestaciones anti-nucleares. ¿Que es más probable?
+>Linda tiene 31 años de edad, soltera, inteligente y muy brillante. Se especializó en filosofía. Como estudiante, estaba profundamente preocupada por los problemas de discriminación y justicia social, participando también en manifestaciones anti-nucleares. ¿Qué es más probable?
 >
 > 1) Linda es una cajera de banco.
 >

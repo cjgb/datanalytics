@@ -18,7 +18,7 @@ title: El IVA y las exportaciones
 url: /2016/10/14/el-iva-y-las-exportaciones/
 ---
 
-Los viernes me concedo ciertas libertades Como la de escribir sobre temas distintos de los habituales. Hoy toca economía. Quiero dejar escrito algo que echa por tierra cosas que _creía_. Es decir, cosas que había leído, me habían parecido razonables y había dado por buenas sin más.
+Los viernes me concedo ciertas libertades, como la de escribir sobre temas distintos de los habituales. Hoy toca economía. Quiero dejar escrito algo que echa por tierra cosas que _creía_. Es decir, cosas que había leído, me habían parecido razonables y había dado por buenas sin más.
 
 Crudamente, sin mayores distingos, ¿fomenta las exportaciones el (o una subida del) IVA? Había leído que sí [en sitios como Nada Es Gratis](http://nadaesgratis.es/admin/pildoras-de-devaluacion-fiscal-indicaciones-contraindicaciones-y-efectos-secundarios),
 

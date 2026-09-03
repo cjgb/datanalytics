@@ -36,7 +36,7 @@ Obviamente, discrepo —aunque dejo la crítica para otra ocasión—, pero se l
 
 Es muy interesante lo que tiene que decir Fisher sobre (1). Por ejemplo, que no queda más remedio que limitarse a distribuciones que estén previamente tabuladas (¡servidumbres de la época!), pero lo relevante para la entrada de hoy tiene que ver con (2): la construcción de estimadores.
 
-A estos les exige consistencia, que viene a decir que deberían converger al valor real conforme se incrementase el tamaño de la muestra.También le preocupa la eficiencia, sobre la que lo que tiene que decir es fabuloso e invito al lector a consultarlo: lo encontrará en los dos primeros párrafos de la cuarta sección.
+A estos les exige consistencia, que viene a decir que deberían converger al valor real conforme se incrementase el tamaño de la muestra. También le preocupa la eficiencia, sobre la que lo que tiene que decir es fabuloso e invito al lector a consultarlo: lo encontrará en los dos primeros párrafos de la cuarta sección.
 
 Pero también menciona otro criterio, el de la suficiencia:
 

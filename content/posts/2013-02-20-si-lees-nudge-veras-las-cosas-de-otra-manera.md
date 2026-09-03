@@ -28,7 +28,7 @@ Lo malo del libro es que está escrito por estadounidenses y para estadounidense
 [![](/img/2013/02/200px-Nudge-cover.jpg#center)
 ](/img/2013/02/200px-Nudge-cover.jpg)
 
-Por ejemplo, piénsese en esas hipotecas de las que tan de moda está hablar estos días. Inducido por el contenido del libro a uno se le ocurriría pensar que los problemas que ahora atraviesan determinados individuos por su culpa se debe a la _asimetría de la información_: los bancos, que venden muchas, lo saben _todo_ al respecto; la gente, que a lo sumo se hipoteca una o dos veces en su vida, está a dos velas. Y luego se topa con la letra pequeña, etc.
+Por ejemplo, piénsese en esas hipotecas de las que tan de moda está hablar estos días. Inducido por el contenido del libro, a uno se le ocurriría pensar que los problemas que ahora atraviesan determinados individuos por su culpa se debe a la _asimetría de la información_: los bancos, que venden muchas, lo saben _todo_ al respecto; la gente, que a lo sumo se hipoteca una o dos veces en su vida, está a dos velas. Y luego se topa con la letra pequeña, etc.
 
 E inducido de nuevo por el mismo tomito, piensa: quizás el banco de España en colaboración con las asociaciones de tirios y troyanos, debería proponer no más de dos o tres modelos de hipotecas básicas, estándar: una de tipos fijos, otra de variables y, posiblemente, una tercera. Los bancos podrían variar los plazos, los precios, etc., pero no las condiciones básicas. Que serían claras y generosas con el hipocado, por supuesto, sin sorpresas.
 

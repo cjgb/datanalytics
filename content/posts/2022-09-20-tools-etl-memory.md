@@ -43,7 +43,7 @@ Tiene un problema, sin embargo: el rendimiento. Que nunca fue resuelto en estos 
 
 ### R + dplyr (o tidyverse)
 
-Sospecho que Hadley Wickham desoyó sistemáticamente los lamentos de quienes pedían un `plyr::ddply` más rápido porque estaba trabajando en su sucesor, `dplyr` y, en general, el `tidyverse`. Es popular,tiene un rendimiento aceptable (aunque lejos del de `data.table`) y su innovación (¿aportación?) más notable es la sintaxis. Es prácticamente un dialecto (y casi un lenguaje separado) de R.
+Sospecho que Hadley Wickham desoyó sistemáticamente los lamentos de quienes pedían un `plyr::ddply` más rápido porque estaba trabajando en su sucesor, `dplyr` y, en general, el `tidyverse`. Es popular, tiene un rendimiento aceptable (aunque lejos del de `data.table`) y su innovación (¿aportación?) más notable es la sintaxis. Es prácticamente un dialecto (y casi un lenguaje separado) de R.
 
 Sospecho que muchos recién llegados a R a través del mundo del `tidyverse` no saben siquiera programar en R. Pero no puedo decir mucho más al respecto porque, realmente, no lo uso y, cómo se verá, es improbable que llegue a usar sistemáticamente.
 

@@ -36,9 +36,9 @@ Las distintas aproximaciones son
 
 $$ \hat{S}(t) = \exp\left(-\sum_{i \le n} \lambda_i \Delta - \lambda_n (t - t_n)\right)$$
 
-donde $n$ es el índice del intervalo que contiene a $t$  los $\lambda_i$ son los coeficientes en los segmentos de exponencial. Esa expresión que converge a
+donde $n$ es el índice del intervalo que contiene a $t$ y los $\lambda_i$ son los coeficientes en los segmentos de exponencial. Esa expresión que converge a
 
-$$ S(t) = \exp\left(-\int_0^t \lambda(x) dx\right)$$
+$$S(t) = \exp\left(-\int_0^t \lambda(x) dx\right)$$
 
 y $\lambda(t) = -S^\prime(t) / S(t)$ como no es necesario demostrar.
 

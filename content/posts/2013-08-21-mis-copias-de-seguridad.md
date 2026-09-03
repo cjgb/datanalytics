@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2013-08-21 07:14:31+00:00
-draft: false
 lastmod: '2025-04-06T18:44:21.950611'
 related:
 - 2022-06-02-orgamizacion-proyectos-datos.md
@@ -26,7 +25,7 @@ Primero, mi instalación: tengo un ordenador _de bajomesa_ (`tiramisu`) y un _ne
 
 Mi primera línea de defensa contra las pérdidas de información es la sincronización de ambas máquinas. Aquellos directorios que contienen cosas que no quiero perder (documentos, fotos, código, ¡copias de seguridad de otras máquinas, incluido esto que lees ahora!, cosas que no son documentos en desarrollo, etc.) se guardan en el directorio `.bck` de ambos ordenadores. Los directorios que veo son enlaces blandos (vía `ln`) a subdirectorios de `.bck`.
 
-`tiramisu` es máster; `kropotkin `esclavo. Para sincronizar ambos, desde el segundo, periódicamente, ejecuto
+`tiramisu` es máster; `kropotkin`, esclavo. Para sincronizar ambos, desde el segundo, periódicamente, ejecuto
 
 {{< highlight R >}}
 rsync -av -e "ssh -l carlos" --delete \

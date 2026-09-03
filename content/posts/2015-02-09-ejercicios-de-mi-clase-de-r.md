@@ -58,7 +58,7 @@ El ejercicio consiste en identificar algunas variables de tu interés y construi
 
 Eso sí: hazlo usando los dos paquetes `dplyr` y `data.table` (¿y `reshape2`?). Trata también con `plyr`. Añade un comentario sobre la velocidad relativa de los distintos paquetes para procesar los datos. ¿Cuál es tu favorito?
 
-Nota: Una columna muy importante en el censo es el factor de elevación. Para contar la población de España habria que hacer `sum(factorel)` donde `factorel` es el nombre que podría recibir esa columna. Hay un ejemplo práctico de cómo usar el factor de elevación en `http://goo.gl/U6Ys8W`.
+Nota: Una columna muy importante en el censo es el factor de elevación. Para contar la población de España habría que hacer `sum(factorel)` donde `factorel` es el nombre que podría recibir esa columna. Hay un ejemplo práctico de cómo usar el factor de elevación en `http://goo.gl/U6Ys8W`.
 
 **RHadoop (2 puntos)**
 

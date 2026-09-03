@@ -27,7 +27,7 @@ En orden alfabético son:
 * [Bime](http://bimeanalytics.com/), en cuyas páginas encontré este estupenda [_guía_ para la representación de datos](http://bimeanalytics.com/blog/the-designer-guide-to-data-visualization-infographic/); está concebido para crear los llamados cuadros de mandos para gestión.
 * [Centrifuge](http://www.centrifugesystems.com/), que hace hincapié en la interactividad.
 * [Data Desk](http://www.datadesk.com/)
-* Google también dispone una serie de herramientas de visualización dentro de su proyecto [public data explore](http://www.google.com/publicdata/home) y proporciona una serie de [APIs ](http://code.google.com/apis/publicdata/)para interactuar con él.
+* Google también dispone una serie de herramientas de visualización dentro de su proyecto [public data explore](http://www.google.com/publicdata/home) y proporciona una serie de [APIs ](http://code.google.com/apis/publicdata/) para interactuar con él.
 * [Iris Explorer](http://www.nag.co.uk/welcome_iec.asp), desarrollado por el [Numerical Algorithms Group.](http://www.nag.co.uk/)
 * [KNIME](http://knime.org/), un viejo conocido de los lectores de este blog.
 * [Many Eyes](http://manyeyes.alphaworks.ibm.com), un proyecto de IBM que combina herramientas de visualización junto con una plataforma para que la comunidad de usuarios comparta conjuntos de datos, colabore en su análisis, etc.

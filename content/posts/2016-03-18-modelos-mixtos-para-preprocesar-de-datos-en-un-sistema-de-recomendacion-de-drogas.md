@@ -28,7 +28,7 @@ El gráfico
 
 ![nootropics_image1a](/img/2016/03/nootropics_image1a.png#center)
 
-extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo. En los manuales de la cosa suelen recogerse mecanismos más o menos sofisticados para mitigar ese efecto y normalizar las valoraciones entre usuarios. Generalmente, solo exigen matemáticas de bachillerato. Y son meras aproximaciones que no tienen en cuenta circunstancias tales como que puede que un usuario da valoraciones bajas solo porque evalúa productos malos, etc.
+extraído de la página enlazada más arriba resume parte de los resultados. No obstante, es sabido entre los que se dedican a los sistemas de recomendación que hay usuarios que tienden a valorar sistemáticamente por encima de la media y otros, por debajo. En los manuales de la cosa suelen recogerse mecanismos más o menos sofisticados para mitigar ese efecto y normalizar las valoraciones entre usuarios. Generalmente, solo exigen matemáticas de bachillerato. Y son meras aproximaciones que no tienen en cuenta circunstancias tales como que puede que un usuario dé valoraciones bajas solo porque evalúa productos malos, etc.
 
 [Aquí](https://matloff.wordpress.com/2015/11/15/partools-recommender-systems-and-more/) y en sus enlaces se habla de una manera más sofisticada de corregir ese sesgo: modelos mixtos. Tales como
 

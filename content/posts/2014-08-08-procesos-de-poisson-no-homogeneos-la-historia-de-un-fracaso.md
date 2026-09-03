@@ -42,7 +42,7 @@ modelo <- mob(enes ~ 1 | fechas, data = datos, family = poisson(),
                 control = mob_control(bonferroni = FALSE))
 {{< / highlight >}}
 
-que es algo que cualquiera que lea la documentación de las funciones empleadas podría jurar y perjurar que tendría que funcionar. Y lo hace sí, salvo que `plot(modelo)` no funciona (¿_bug_?). Pero `mob` parece ser demasiado poco sensible.
+que es algo que cualquiera que lea la documentación de las funciones empleadas podría jurar y perjurar que tendría que funcionar. Y lo hace, sí, salvo que `plot(modelo)` no funciona (¿_bug_?). Pero `mob` parece ser demasiado poco sensible.
 
 Sustituyendo arriba la línea relevante por algo como
 

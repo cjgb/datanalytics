@@ -40,7 +40,7 @@ $$ -1/N \sum_{i = 1}^N \log P( w | c_i ).$$
 
 Para calcular $P( w | c_i )$ pueden utilizarse varias técnicas. Por ejemplo, secuencias de palabras (o contextos) tales como "quiero beber..." condicionan la probabilidad del término subsiguiente. Y "cerveza", "leche" o "agua" será menos informativo (es decir, más probable) que "hidromiel" o "electrones".
 
-De alguna manera, los hablantes tienden a [mantener constante la tasa de transmisión de información ](http://www.fundeu.es/noticias-articulos-metralletas-parlantes-6659.html)acortando lo predecible y haciendo hincapié (y gastando tiempo y sílabas) en los puntos más informativos del discurso.
+De alguna manera, los hablantes tienden a [mantener constante la tasa de transmisión de información ](http://www.fundeu.es/noticias-articulos-metralletas-parlantes-6659.html) acortando lo predecible y haciendo hincapié (y gastando tiempo y sílabas) en los puntos más informativos del discurso.
 
 Y ahora entro en terreno que me es menos propio: la fijación de la sintaxis desde la creación de las primeras gramáticas, la difusión de los libros, la educación, etc. han mantenido el lenguaje relativamente invariable a través de los últimos siglos: los mayores impedimentos para entender textos de hace 400 años son puramente léxicos. Pero eso no ha impedido que hayan evolucionado los contextos y, por lo tanto, la regla que asocia cantidad de información y longitud de palabras.
 

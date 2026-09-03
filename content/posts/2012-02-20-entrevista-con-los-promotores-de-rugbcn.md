@@ -29,7 +29,7 @@ La iniciativa salió de Tim que lo propuso en el [Local R User Group Directory d
 
 _¿Cómo, dónde y cuándo os soléis reunir? ¿Cómo es una reunión típica?_
 
-Generalmente nos reunimos los jueves de 19h a 21h cada mes o mes y medio. Al principio en un bar de Barcelona que tiene una sala con proyector y nos la facilitaba. Últimamente nos hemos reunido en una sala muy acondicionada en el PRBB que nos la reserva Maik. Todavía no hay reuniones típicas ya que estamos probando cual es el formato que más nos gusta. La primera fue de presentación y enseñamos 3 IDE's que usamos: Eclipse, Emacs y RStudio. En la segunda se hicieron dos presentaciones del tipo lección magistral y en la última  formamos 3 grupos pequeños, dónde se trataron los temas de forma muy interactiva en la primera hora y en la segunda visualizamos juntos el _webinar_ de Hadley presentando las novedades de `ggplot2`. Lo único que hay típico es que luego nos vamos unos cuantos a tomar una cervecita y a comer algo.
+Generalmente nos reunimos los jueves de 19h a 21h cada mes o mes y medio. Al principio en un bar de Barcelona que tiene una sala con proyector y nos la facilitaba. Últimamente nos hemos reunido en una sala muy acondicionada en el PRBB que nos la reserva Maik. Todavía no hay reuniones típicas ya que estamos probando cuál es el formato que más nos gusta. La primera fue de presentación y enseñamos 3 IDE's que usamos: Eclipse, Emacs y RStudio. En la segunda se hicieron dos presentaciones del tipo lección magistral y en la última  formamos 3 grupos pequeños, donde se trataron los temas de forma muy interactiva en la primera hora y en la segunda visualizamos juntos el _webinar_ de Hadley presentando las novedades de `ggplot2`. Lo único que hay típico es que luego nos vamos unos cuantos a tomar una cervecita y a comer algo.
 
 _¿Cuál es el perfil de los asistentes a las reuniones? ¿Tenéis intereses comunes (bioestadística, etc.)? ¿O procedéis de entornos diversos?_
 
@@ -41,7 +41,7 @@ Me gustó mucho la presentación de Aleix sobre _Reference Classes_. Sabía que 
 
 _¿Qué consejos podéis dar a quienes proyecten organizar grupos similares en otros lugares?_
 
-Que no se lo piensen mucho y que lo hagan. Que tampoco necesita mucha planificación ni organización, te reúnes con gente que les gusta lo mismo que a ti y habláis del tema. La primera vez en un lugar tranquilo, en un bar y explicáis que es lo que hacéis, que _packages_ preferís de R o que IDE usáis, etc.
+Que no se lo piensen mucho y que lo hagan. Que tampoco necesita mucha planificación ni organización, te reúnes con gente que les gusta lo mismo que a ti y habláis del tema. La primera vez en un lugar tranquilo, en un bar y explicáis qué es lo que hacéis, que _packages_ preferís de R o que IDE usáis, etc.
 
 _Finalmente, ¿nos veremos en las IV Jornadas de R?_
 

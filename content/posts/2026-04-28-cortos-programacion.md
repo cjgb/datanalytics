@@ -39,6 +39,6 @@ Guillermo Luijk sigue regalándonos artículos en la intersección de la fotogra
 
 _Pipelines_ en R por doquier:
 
-- Uno que se llama [_T_](https://brodrigues.co/posts/2026-04-03-tproject.html) y que permite encadenar componentes de código escritos en distintos lenguajes de programación (R, Python, Julia, etc.) .
+- Uno que se llama [_T_](https://brodrigues.co/posts/2026-04-03-tproject.html) y que permite encadenar componentes de código escritos en distintos lenguajes de programación (R, Python, Julia, etc.).
 - Otro que se llama [`maestro`](https://whipson.github.io/data-in-flight/posts/maestro-1-1-0/maestro-1-1-0-release.html).
 - Finalmente, [aquí](https://rtichoke.netlify.app/posts/ml-frameworks-in-r.html) se comparan otros más: `tydimodels`, `h2o`, `qeML`, `caret` y `mrl3`.

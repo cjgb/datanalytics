@@ -48,7 +48,7 @@ Me cuentan que en la facultad de matemáticas de la U. Complutense se enseña un
 
 La estadística que yo practico y conozco de primera mano es pura tecnología. Conozco a alguna gente que efectivamente hace metodología (y estudia cosas como las propiedades asintóticas de cierto estimador de nueva creación). Pero son los menos. ¿Hacen _ciencia estadística_ o matemáticas? Me importa más el sustantivo en este caso, ciencia, que el adjetivo (estadística vs matemática). El adjetivo, de hecho, suele responder a motivos circunstanciales y pragmáticos: el rótulo del edificio donde el sujeto tiene el despacho.
 
-Sin embargo, la inmensa mayoría de los estadísticos que conozco están en la dimensión tecnológica de la disciplina. Usamos resultados científicos,p.e.:
+Sin embargo, la inmensa mayoría de los estadísticos que conozco están en la dimensión tecnológica de la disciplina. Usamos resultados científicos, p.e.:
 
 * propiedades esencialmente matemáticas de la distribución normal,
 * otros con una adscripción más confusa (¿matemáticas o estadística teórica? ¿está la otra dentro de la una?), como las propiedades del MVE,

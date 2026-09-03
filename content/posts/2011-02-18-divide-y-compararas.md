@@ -31,6 +31,6 @@ Aunque son de tal magnitud que rozan lo ininteligible, su cociente sí que resul
 ¿Es mucho o poco? Dos procedimientos pueden ayudar a nuestros lectores a valorarlo:
 
 1. Si eres usuario de Facebook, ¿crees que le estás generando a la empresa (visitando publicidad, etc.) ingresos de esa magnitud? ¿Has pinchado alguna vez en la publicidad contextual? ¿Cómo piensas tú que pueden llegar a generarse 100 euros a partir de tu actividad en el portal?
-2. Telefónica, que vale 84.000 millones hoy, dice tener 281 millones de clientes. Es decir, cada cliente vale unos 300 euros (o unos 400 dólares) . ¿Qué clientes preferirías, los de Telefónica (que pagan religiosamente facturas a fin de mes) o los de Facebook?
+2. Telefónica, que vale 84.000 millones hoy, dice tener 281 millones de clientes. Es decir, cada cliente vale unos 300 euros (o unos 400 dólares). ¿Qué clientes preferirías, los de Telefónica (que pagan religiosamente facturas a fin de mes) o los de Facebook?
 
 Divide y compararás. Divide y comprenderás.

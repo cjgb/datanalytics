@@ -35,7 +35,7 @@ Existen dos variables fundamentales que pueden inclinar la balanza en uno u otro
 Existen varios aspectos que hacen de este un problema interesante desde el punto de vista de la estadística aplicada aplicada (no, lo anterior no es una errata):
 
 * El énfasis que se hace en la recogida de datos, en la medición: el proceso de la estadística aplicada aplicada comienza, precisamente, en el diseño de la recogida de datos.
-* Existen condicionantes no puramente estadísticos (económicos, de factibilidad física, etc.)a los que atenerse y que actúan como restricciones.
+* Existen condicionantes no puramente estadísticos (económicos, de factibilidad física, etc.) a los que atenerse y que actúan como restricciones.
 * Que permite experimentar vitalmente esas [tensiones sobre los que han escrito tantos](http://www.longtail.com/about.html).
 
 Ya veremos qué pasa al final.

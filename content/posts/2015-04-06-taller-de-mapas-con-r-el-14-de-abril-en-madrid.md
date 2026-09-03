@@ -33,7 +33,7 @@ Lo impartirá [Beatriz Martínez](http://visualizados.com/), socióloga dedicada
 
 * ¿qué se necesita para pintar un mapa?
 * ¿cuál es la estructura de los objetos espaciales?
-* ¿qué librerias se utilizan?
+* ¿qué librerías se utilizan?
 
 Además, pintarás mapas. Así que:
 

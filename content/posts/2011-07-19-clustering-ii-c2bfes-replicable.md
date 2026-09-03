@@ -24,7 +24,7 @@ title: 'Clústering (II): ¿es replicable?'
 url: /2011/07/19/clustering-ii-es-replicable/
 ---
 
-Sólo conozco un estudio ?y lo digo _bona fide_; si alguno de mis lectores conoce otro, le ruego que me lo indique? en el que las técnicas de _clústering_ hayan sido rectamente aplicadas. Se trata del artículo [_Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring_](http://www.sciencemag.org/content/286/5439/531.short) de cuyo resumen extraigo y traduzco lo siguiente:
+Sólo conozco un estudio ---y lo digo _bona fide_; si alguno de mis lectores conoce otro, le ruego que me lo indique--- en el que las técnicas de _clústering_ hayan sido rectamente aplicadas. Se trata del artículo [_Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring_](http://www.sciencemag.org/content/286/5439/531.short) de cuyo resumen extraigo y traduzco lo siguiente:
 
 
 >Un procedimiento de detección de clases automáticamente descubrió la distinción entre la leucemia mieloide aguda (AML) y la leucemia linfoblástica aguda (ALL) sin conocimiento previo de las clases. Después se construyó un predictor de clases...
@@ -109,7 +109,7 @@ Esta vez hemos fabricado `n.clus` clases distintas que serán más o menos disti
 ### Resumen
 
 
-Los dos experimentos propuestos en esta entrada hacen referencia a dos _elemenos de sospecha_ que me obligan a replantearme ?y entiendo que muchos otros compañeros de faena les ocurrirá igual? la validez de los métodos de _clústering_ tal cual se usan en muchas aplicaciones: los resultados no son repetibles, incluso con los mismos (o una muestra de los mismos) datos.
+Los dos experimentos propuestos en esta entrada hacen referencia a dos _elemenos de sospecha_ que me obligan a replantearme ---y entiendo que muchos otros compañeros de faena les ocurrirá igual--- la validez de los métodos de _clústering_ tal cual se usan en muchas aplicaciones: los resultados no son repetibles, incluso con los mismos (o una muestra de los mismos) datos.
 
 Los resultados de un estudio de _clústering_ tienen que ser (y temo repetirme):
 

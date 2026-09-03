@@ -118,7 +118,7 @@ Además, esta es la versión 0.1 del proceso. Con el tiempo, espero poder añadi
 
 ### Más sobre el LLM
 
-Como se ha visto más arriba, uso `Mixtral-8x7B-Instruct` y no alguno de OpenAI, que parece hoy en día la opción por defecto de los diletantes. Principalmente, por precio. Es más fácil y está mejor documentado en todas partes cómo usar las APIs de OpenAI, pero es más caro. Ademas, Mixtral es francés (si eso vale para algo).
+Como se ha visto más arriba, uso `Mixtral-8x7B-Instruct` y no alguno de OpenAI, que parece hoy en día la opción por defecto de los diletantes. Principalmente, por precio. Es más fácil y está mejor documentado en todas partes cómo usar las APIs de OpenAI, pero es más caro. Además, Mixtral es francés (si eso vale para algo).
 
 Existen pocos modelos capaces de lo que se ha venido llamando _function calling_, i.e., que pueden generar respuestas en _json_ que va a misa. Mixtral es uno de ellos. Además, el único, que yo sepa, que es _libre_. Siendo libre, está disponible en varias plataformas que a [precios antieconómicos](https://www.semianalysis.com/p/inference-race-to-the-bottom-make) (para los proveedores). Uso Anyscale, que no es la plataforma más barata de todas las que menciona el artículo enlazado, pero sí la única que pude hacer funcionar según recorría la lista por orden inverso de precio. ¿Qué otra cosa se puede esperar de un tipo que hace sus copias de seguridad en discos duros de a un euro?
 

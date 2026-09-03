@@ -23,7 +23,7 @@ Por un lado, he publicado tres capítulos más de mi [libro de estadística](htt
 
 Hay algunas cosas en ellos que no se encuentran habitualmente en otros manuales. Por ejemplo, en el hecho de plantear determinados _modelos_ como meras herramientas de visualización de datos (o de apoyo a ellas) en el de la estadística descriptiva. También se han recogido en ese capítulo las discusiones relevantes sobre lo que es un _missing_ o un _outlier_ y cómo tratarlos en general.
 
-El capítulo sobre la[ estimación puntual](https://datanalytics.com/libro_estadistica/estimaci%C3%B3n-puntual.html) también tiene novedades con respecto a lo que se cuenta por ahí. En particular, tiene una sección completa dedicada a la estimación de parámetros a partir de funciones de pérdida y su relación con la estimación según el principio de la máxima verosimilitud y cuando esta se puede relajar y con qué fines. La construcción e interpretación de los intervalos de confianza también es poco habitual para tratar que no se convierta en un asunto de fe.
+El capítulo sobre la [estimación puntual](https://datanalytics.com/libro_estadistica/estimaci%C3%B3n-puntual.html) también tiene novedades con respecto a lo que se cuenta por ahí. En particular, tiene una sección completa dedicada a la estimación de parámetros a partir de funciones de pérdida y su relación con la estimación según el principio de la máxima verosimilitud y cuando esta se puede relajar y con qué fines. La construcción e interpretación de los intervalos de confianza también es poco habitual para tratar que no se convierta en un asunto de fe.
 
 Espero tener este mes el capítulo de las pruebas de hipótesis y puede que también uno breve dedicado a las tablas de contingencia.
 

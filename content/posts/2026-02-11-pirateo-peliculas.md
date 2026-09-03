@@ -59,7 +59,7 @@ Porque estos servicios ganan dinero precisamente cuando la gente paga por bajar 
 - Atraer a usuarios para que suban contenido que pueda ser del interés de muchos (p.e., películas pirateadas).
 - Compartir con esos usuarios parte del beneficio que generen sus descargas.
 
-Recuérdese que los enlaces son privados. Si yo subiese a RapidRAR una película, solo yo conocería el enlace para descargarla. Eso forma parte de la cobertura legal de la que se sirven estos servicios: almacenan ficheros personales de usuarios particulares. Además, parece ser, como mecanismo adicional de cobertura, se prestan a retirarlos con falso entusiasmo cuando reciben quejas formales de sus legítimos dueños. El meme del comisario de Casablanca («¡Qué escándalo! He descubierto que aquí se juega«), sería aquí muy oportuno.
+Recuérdese que los enlaces son privados. Si yo subiese a RapidRAR una película, solo yo conocería el enlace para descargarla. Eso forma parte de la cobertura legal de la que se sirven estos servicios: almacenan ficheros personales de usuarios particulares. Además, parece ser, como mecanismo adicional de cobertura, se prestan a retirarlos con falso entusiasmo cuando reciben quejas formales de sus legítimos dueños. El meme del comisario de Casablanca («¡Qué escándalo! He descubierto que aquí se juega»), sería aquí muy oportuno.
 
 ## Bases de datos de enlaces
 

@@ -30,7 +30,7 @@ Comentarios:
 
 * Esa cesta de productos cuya evolución se sigue sería la que adquiriría una _familia idealizada_ que no existe en absoluto. Por ejemplo, esa cesta puede sugerir que la familia _idealizada_ consume un 0.1% de su presupuesto anual en comida de perros. Pero nadie consume un 0.1% de su presupuesto anual en eso: quienes tengan perro gastarán mucho más; los que, no, nada.
 
-* El índice (y su aumento) así creados pueden no ser muy relevantes para un hogar concreto. Por eso existen herramientas como [esta](http://news.bbc.co.uk/2/hi/business/7669072.stm) para calcular _tu propia inflacion_.
+* El índice (y su aumento) así creados pueden no ser muy relevantes para un hogar concreto. Por eso existen herramientas como [esta](http://news.bbc.co.uk/2/hi/business/7669072.stm) para calcular _tu propia inflación_.
 
 * Abunda en uno de esos grandes problemas que al que vienen apuntando estas páginas desde hace tiempo: el de la reificación. Estamos convirtiendo en "real" el resultado de un "algoritmo" sin cuestionarlo.
 

@@ -56,7 +56,7 @@ Finalmente, la propuesta de The Economist consiste en usar _pesos Uluru_, es dec
 
 que es una versión suave de lo anterior con la que la publicación hace sus pinitos en el mundo de la estadística robusta con una propuesta de lo más colorida.
 
-_[Porque, a todo esto, Uluru es un cerro de Australia rodeado de aborígenes alcoholizados y de mal cariz al que, a falta, de nada mejor en aquel islote estéril, inducen a los turistas a visitar.]_
+_[Porque, a todo esto, Uluru es un cerro de Australia rodeado de aborígenes alcoholizados y de mal cariz al que, a falta de nada mejor en aquel islote estéril, inducen a los turistas a visitar.]_
 
 A continuación, mis comentarios.
 

@@ -30,9 +30,9 @@ Pero existe un tipo muy notable de encuestas (a las que [ya me he referido previ
 
 Claro: una cosa es decir a quién piensa uno votar y otra, votar. Son hechos distintos, obviamente, en cuya fundamental diferencia, quienes realizan los sondeos, no dejan de hacer hincapié siempre después de conocidos los recuentos oficiales.
 
-Pero, qué pasa cuando la pregunta es _¿a quién votó Vd. en las elecciones pasadas?_ Aquí ya no deberían (¿o sí?) influir ese tipo de circunstancias (incluso meteorológicas) diferenciadoras. Véamoslo.
+Pero, ¿qué pasa cuando la pregunta es _¿a quién votó Vd. en las elecciones pasadas?_? Aquí ya no deberían (¿o sí?) influir ese tipo de circunstancias (incluso meteorológicas) diferenciadoras. Veámoslo.
 
-En el barómetro de enero de 2013 del CIS se tabulan las respuestas de 2483 personas (elegidas con criterio riguroso para que reflejen la _realidad_ de la sociedad española) a ciertas preguntas. Y la tabulación se realiza de acuerdo con su _recuerdo de voto_ en las últimas elecciones generales, las de 2011. Este recuerdo de voto debería ser mínimamente coincidente con los resultados reales en dichas elecciones, ¿verdad? Véamoslo. Haciendo en R
+En el barómetro de enero de 2013 del CIS se tabulan las respuestas de 2483 personas (elegidas con criterio riguroso para que reflejen la _realidad_ de la sociedad española) a ciertas preguntas. Y la tabulación se realiza de acuerdo con su _recuerdo de voto_ en las últimas elecciones generales, las de 2011. Este recuerdo de voto debería ser mínimamente coincidente con los resultados reales en dichas elecciones, ¿verdad? Veámoslo. Haciendo en R
 
 {{< highlight R >}}
 options(digits = 2)

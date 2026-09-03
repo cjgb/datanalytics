@@ -98,7 +98,7 @@ loadings(dat.pca)
 # [7,]        -0.692         0.606         0.117 -0.360
 {{< / highlight >}}
 
-la primera componente es una combinación lineal de (esencialmente, ¡no exclusivamente¡) las primeras cinco columnas (relacionadas con la temperatura) y la segunda, de las dos restantes (relacionadas con la presión).
+la primera componente es una combinación lineal de (esencialmente, ¡no exclusivamente!) las primeras cinco columnas (relacionadas con la temperatura) y la segunda, de las dos restantes (relacionadas con la presión).
 
 Y todo esto ha sido el preámbulo de la pregunta que justifica la entrada de hoy: ¿qué tiene de superimportante la primera componente con respecto a la segunda?
 
