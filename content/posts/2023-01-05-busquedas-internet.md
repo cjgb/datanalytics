@@ -28,7 +28,7 @@ Supimos pronto que el nuevo buscador, mucho mejor que los entonces existentes, i
 
 Un modelo _adecuado_ describe _correctamente_ el mundo. Un modelo exitoso lo cambia. Google fue adecuado, primero; exitoso, luego. Sirvió para encontrar aquello que buscábamos, primero. Pero acabó cambiando la forma de aquello que buscábamos luego.
 
-Existe una manera de escribir ---¿un _neogénero_ _cacoliterario_?--- que consiste en _escribir para Google_. Consiste en dar una forma tal al texto que satisfaga más al buscador que al lector. En particular, añadiéndole información trivial, redundante, innecesaria, aburrida y que, al final, hace decrecer el valor de la página a la que se acude en busca e información.
+Existe una manera de escribir ---¿un _neogénero_ _cacoliterario_?--- que consiste en _escribir para Google_. Consiste en dar una forma tal al texto que satisfaga más al buscador que al lector. En particular, añadiéndole información trivial, redundante, innecesaria, aburrida y que, al final, hace decrecer el valor de la página a la que se acude en busca de información.
 
 Yo lo llamo _googletext_ o _taradografía_ según el contexto.
 

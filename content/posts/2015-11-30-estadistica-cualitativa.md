@@ -3,7 +3,6 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-11-30 12:26:23+00:00
-draft: false
 lastmod: '2025-04-06T19:11:10.547440'
 related:
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
@@ -24,7 +23,7 @@ No es [Statistics for Dummies](http://www.math.uni.wroc.pl/~dyba/materials/dummi
 
 Tampoco es la estadística descriptiva, que es lo menos estadístico que existe. Al menos, la que yo he visto, que tiende a ignorar, entre otras cosas, la variabilidad. La estadística descriptiva (insisto, la que yo conozco, como yo la he visto) es una rama de la aritmética, no de la estadística.
 
-La estadística descriptiva sería la estadística, toda la estadística, sin la construcción matemática que la sustenta. Haría hincapié en asuntos tales como los que subyacen a todas las pruebas estadísticas como la variablidad, por ejemplo. ¿Pero hace falta saber la fórmula de la varianza muestral para entender que existe ruido en las observaciones? ¿Hace falta saberla para entender cuáles pueden ser sus consecuencias? ¿Es necesario saberla para entender [esto](https://datanalytics.com/2014/12/10/hubo-alguna-vez-un-millon-de-palentinas/)? ¿Se puede _saber_ qué es un t-test sin necesidad de saber hacer un t-test?
+La estadística cualitativa sería la estadística, toda la estadística, sin la construcción matemática que la sustenta. Haría hincapié en asuntos tales como los que subyacen a todas las pruebas estadísticas como la variablidad, por ejemplo. ¿Pero hace falta saber la fórmula de la varianza muestral para entender que existe ruido en las observaciones? ¿Hace falta saberla para entender cuáles pueden ser sus consecuencias? ¿Es necesario saberla para entender [esto](https://datanalytics.com/2014/12/10/hubo-alguna-vez-un-millon-de-palentinas/)? ¿Se puede _saber_ qué es un t-test sin necesidad de saber hacer un t-test?
 
 La estadística descriptiva nos contaría qué es un modelo, qué puede y qué no puede hacer, dónde funciona y dónde no... sin necesidad de saber qué son los mínimos cuadrados o el RMSE.
 

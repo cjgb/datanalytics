@@ -24,4 +24,4 @@ Por primera vez, mi compañía de electricidad ha sabido asignar a cada hora mi 
 
 ![](/img/2019/09/consumo_electricidad_horario-341x1024.png#center)
 
-No publico el código por que dependería del proveedor. No hago comentarios porque solo a mí me competen. Pero invito a otros a echar un vistazo a su consumo, etc.
+No publico el código porque dependería del proveedor. No hago comentarios porque solo a mí me competen. Pero invito a otros a echar un vistazo a su consumo, etc.

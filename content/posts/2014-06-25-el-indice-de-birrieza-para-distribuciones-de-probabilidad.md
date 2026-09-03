@@ -22,7 +22,7 @@ url: /2014/06/25/el-indice-de-birrieza-para-distribuciones-de-probabilidad/
 
 Pido disculpas por usar _birrieza_, que no es una palabra que no existe. Si a alguien se le ocurre otro término mejor, que lo sugiera. Pero es que hay distribuciones de probabilidad que son una birria. Y de ellas me voy a ocupar hoy.
 
-Pero antes, una digresión breve. Todas las distribuciones de probabilidad, en la práctica, están acotadas. Aunque sea por el número de átomos del universo. ¿Cuál es la importancia de dicha digresión? Que implica que no hay distribución que, en la práctica, se resista el teorema central del límite.
+Pero antes, una digresión breve. Todas las distribuciones de probabilidad, en la práctica, están acotadas. Aunque sea por el número de átomos del universo. ¿Cuál es la importancia de dicha digresión? Que implica que no hay distribución que, en la práctica, se resista al teorema central del límite.
 
 Pero en la práctica, también, infinito es también un número mucho más de andar por casa. Recuerdo mis días de estudiante, cuando iba yo para matemático. ¡Qué escándalo! En clase de estadística nos querían convencer de que infinito era igual a seis. Sí, porque había teoremas de convergencia que nos decían que en el infinito la distribución de nosequé era $\chi^2$. Pero en la clase de problemas, con seis observaciones por casilla nos considerábamos ya en el límite y podíamos dar por buenos resultados por los que en análisis nos habrían puesto un cero a compás.
 

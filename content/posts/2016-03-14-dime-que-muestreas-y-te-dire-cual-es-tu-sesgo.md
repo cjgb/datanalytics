@@ -19,7 +19,7 @@ title: Dime qué muestreas y te diré cuál es tu sesgo
 url: /2016/03/14/dime-que-muestreas-y-te-dire-cual-es-tu-sesgo/
 ---
 
-El telón de Aquiles del _big data_ es el sesgo. Me gustaría hablar más de ello, pero me agarra de la pluma uno de esos NDAs. Así que hablaré de otra cosa.
+El talón de Aquiles del _big data_ es el sesgo. Me gustaría hablar más de ello, pero me agarra de la pluma uno de esos NDAs. Así que hablaré de otra cosa.
 
 Si le preguntas a la gente cuántos hermanos son en la familia, el promedio del resultado tenderá a ser superior al número medio de hijos por familia. Esencialmente, porque no estás muestreando familias sino hijos. El tautológico hecho de que las familias con más hijos tengan más hijos hace que estén sobrerrepresentadas en la muestra.
 

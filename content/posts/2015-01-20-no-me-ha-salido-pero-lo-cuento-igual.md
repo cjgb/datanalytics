@@ -4,7 +4,6 @@ categories:
 - estadística
 - r
 date: 2015-01-20 07:13:54+00:00
-draft: false
 lastmod: '2025-04-06T19:08:29.367784'
 related:
 - 2013-01-29-casi-un-ejemplo-perfecto.md
@@ -48,7 +47,7 @@ De otra manera, un candidato tiene una probabilidad $p_H$ de ser hombre, una pro
 La idea es comparar las regresiones logísticas anteriores: una que incluya `Dept` y la otra no. Lo que yo esperaba es que los coeficientes de `Gender` en muchas simulaciones:
 
 * Estuviesen centrados en cero en ambos casos: por construcción, el efecto del sexo es nulo.
-* Que la varianza del modelo que incluye `Dept` fuese menor. Esto está inspirado por el ejemplo anterior. En los casos en que por efecto del muestreo haya un desequilibrio por sexos en las solicitudes a los distintos departamentos —como ocurrió en el ejemplo con el que abro la entrada—, controlar por `Gender` ayudaría a corregir el sesgo. Reducir el sesgo en cada simulación conlleva reducir la varianza global, ¿no?
+* Que la varianza del modelo que incluye `Dept` fuese menor. Esto está inspirado por el ejemplo anterior. En los casos en que por efecto del muestreo haya un desequilibrio por sexos en las solicitudes a los distintos departamentos —como ocurrió en el ejemplo con el que abro la entrada—, controlar por `Dept` ayudaría a corregir el sesgo. Reducir el sesgo en cada simulación conlleva reducir la varianza global, ¿no?
 
 Pues parece que algo se me ha escapado porque, salvo error u omisión,
 
@@ -92,8 +91,7 @@ boxplot(res, col = "gray")
 
 produce
 
-[![sim_simpson](/img/2015/01/sim_simpson.png#center)
-](/img/2015/01/sim_simpson.png#center)
+![sim_simpson](/img/2015/01/sim_simpson.png#center)
 
 justo al contrario de lo esperado. ¡Carajo!
 

@@ -32,7 +32,7 @@ Sólo conozco un estudio ?y lo digo _bona fide_; si alguno de mis lectores conoc
 
 En esencia, los autores tomaron (dicen) unos datos, aplicaron técnicas de _clústering_ y encontraron dos clases. Supongo que validarían el experimento fehacientemente hasta tener cierta seguridad de que, efectivamente, había motivos para creer que los datos estaban escindidos en dos partes claramente diferenciadas. Y, posteriormente, fueron capaces de sustentar dichas diferencias utilizando información externa: efectivamente, los miembros de los grupos respondían a cuadros clínicos distintos.
 
-Incluso en este caso, si los autores no sabían que en sus datos existían dos clases muy distintas, fue por que no preguntaron: la etiqueta se conocía desde el momento de la recopilación de los datos y las diferencias entre la leucemia mieloide y la linfoblástica son tan notorias (para un experto) como las que distinguen el día de la noche.
+Incluso en este caso, si los autores no sabían que en sus datos existían dos clases muy distintas, fue porque no preguntaron: la etiqueta se conocía desde el momento de la recopilación de los datos y las diferencias entre la leucemia mieloide y la linfoblástica son tan notorias (para un experto) como las que distinguen el día de la noche.
 
 En todas las demás situaciones en las que he visto utilizar este tipo de métodos la situación ha sido muy distinta. (Salvo en los libros, claro. En los libros hacen trampa. En los libros plantean problemas _de laboratorio_ absolutamente irreales: bidimensionales, con variables sin ningún tipo de problema, con grupos que se ven perfectamente a ojo, etc. ¡Ni los mencionaré en esta serie!)
 

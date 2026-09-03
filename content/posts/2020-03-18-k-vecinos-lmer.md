@@ -32,4 +32,4 @@ Un modelo que estoy desarrollando aúna ambos mundos:
 
 Hay muchas variables y condicionantes que sopesar en el enfoque, pero tiene buena pinta y me está dando buenos resultados.
 
-La gente usa `lmer` entre otras cosas para describir globalmente los datos. A mí no me interesa el análisis global, aunque sí el del entorno del dato que quiero predecir. Sí, es un proyecto en el que no se predice con churrera, sino con mimo, caso a caso, y con lupa: hay mucha pasta en juego en cada decisión basada ya no en la predicción en sí misma, sino en la distribución de esperada de las respuestas... y hasta ahí puedo escribir.
+La gente usa `lmer` entre otras cosas para describir globalmente los datos. A mí no me interesa el análisis global, aunque sí el del entorno del dato que quiero predecir. Sí, es un proyecto en el que no se predice con churrera, sino con mimo, caso a caso, y con lupa: hay mucha pasta en juego en cada decisión basada ya no en la predicción en sí misma, sino en la distribución esperada de las respuestas... y hasta ahí puedo escribir.

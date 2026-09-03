@@ -28,7 +28,7 @@ Incluso una vez leí de alguien que las guerras civiles son circunstancias igual
 
 ![](/img/2013/02/tarjetas-de-credito.axd_.jpg)
 
-Pero desde hace años vengo pensando que, en realidad, la gente vota con la tarjeta de crédito. Al mundo le damos forma eligiendo productos y servicios diariamente —¡las palabras en Twitter son demasiado baratas!— y que quienes se _pelan el culo_ haciendo exégesis de tuits y encuestas envidiarán a muerte a quienes dispongan la contraseña de la base de datos sobre la que consultar
+Pero desde hace años vengo pensando que, en realidad, la gente vota con la tarjeta de crédito. Al mundo le damos forma eligiendo productos y servicios diariamente —¡las palabras en Twitter son demasiado baratas!— y que quienes se _pelan el culo_ haciendo exégesis de tuits y encuestas envidiarán a muerte a quienes dispongan de la contraseña de la base de datos sobre la que consultar
 
 {{< highlight sql >}}
 `select * from credit_card_transactions where ...`

@@ -16,7 +16,7 @@ tags:
 - estadística
 - r
 - regresión logística
-title: Ajuste de probabilidades en regresiones logísticas bajo sobremuestreo ( y otros)
+title: Ajuste de probabilidades en regresiones logísticas bajo sobremuestreo (y otros)
 url: /2015/08/03/ajuste-de-probabilidades-en-regresiones-logisticas-bajo-sobremuestreo-y-otros/
 ---
 
@@ -28,7 +28,7 @@ Para muchos fines esto puede no tener mayor impacto: por ejemplo, cuando solo in
 
 ¿Cómo corregirlo?
 
-De acuerdo con [_Logistic Regression in Rare Events Data_](http://gking.harvard.edu/files/0s.pdf), el único coeficiente afectado es el independiente y para obtener el que corresponde a la población completa hay que restarle al obtenido en la población el término
+De acuerdo con [_Logistic Regression in Rare Events Data_](http://gking.harvard.edu/files/0s.pdf), el único coeficiente afectado es el independiente y para obtener el que corresponde a la población completa hay que restarle al obtenido en la muestra el término
 
 $$ \log \left( \frac{1 - \tau}{\tau} \frac{\bar{y}}{1 - \bar{y}} \right)$$
 

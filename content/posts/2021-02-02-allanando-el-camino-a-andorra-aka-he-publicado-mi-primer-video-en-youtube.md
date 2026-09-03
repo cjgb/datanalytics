@@ -24,4 +24,4 @@ Por diversos motivos que no vienen al caso pero entre los que se cuentan lo frá
 
 {{< youtube 79q9cTPulLg >}}
 
-Tengo algunas ideas en mente con el que alimentar el canal de contenido que será del gusto de las masas ilustradas y que el tiempo irá desvelando en su debido momento.
+Tengo algunas ideas en mente con las que alimentar el canal de contenido que será del gusto de las masas ilustradas y que el tiempo irá desvelando en su debido momento.

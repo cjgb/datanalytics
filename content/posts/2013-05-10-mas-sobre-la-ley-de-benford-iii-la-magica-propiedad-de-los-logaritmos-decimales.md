@@ -30,7 +30,7 @@ Por lo tanto, cabe esperar que también la parte decimal de $\log_{10}x_1, \dots
 
 Tres notas de rigor:
 
-* En lugar de $\log_{10}$ podrían usarse otras funciones (el cuadrado, la raíz cuadrada, etc.) que también transforman distribuciones regulares y extendidas en otras que lo son igualmente. Pero se perdería la _magia_ de la relación entre la parte fraccionaria con el primer dígito.
+* En lugar de $\log_{10}$ podrían usarse otras funciones (el cuadrado, la raíz cuadrada, etc.) que también transforman distribuciones regulares y extendidas en otras que lo son igualmente. Pero se perdería la _magia_ de la relación entre la parte fraccionaria y el primer dígito.
 * La parte fraccionaria de una distribución regular y extendida es _aproximadamente_ uniforme. La uniformidad solo se garantiza en el límite (conforme la distribución se hace más y más extendida sobre la recta real). Es posible (cuestión que exploré [aquí](https://datanalytics.com/2011/09/15/la-ley-de-benford/)) que los primeros dígitos de muestras de determinadas distribuciones no sigan la Ley de Benford.
 * Queda ver cuáles son las razones (¿sicológicas?) que llevarían a los humanos a inventar secuencias de números que no obedecen una ley extendida y regular. En particular, que violan la regularidad.
 

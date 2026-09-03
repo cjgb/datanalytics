@@ -4,7 +4,6 @@ categories:
 - finanzas
 - r
 date: 2012-07-05 06:02:59+00:00
-draft: false
 lastmod: '2025-04-06T18:49:32.519217'
 related:
 - 2012-07-04-libor-libor-fundeu-y-barclays-claro.md
@@ -82,7 +81,7 @@ print( bad.fix( deltas ) )
 #0.002500 0.003750 0.006650 0.008525 0.012410 0.015000
 {{< / highlight >}}
 
-Finalmente, distribuyendo la desviación uniformemente entre el -0.5 % y el -0.5 %, se obtendría
+Finalmente, distribuyendo la desviación uniformemente entre el -0.5 % y el 0.5 %, se obtendría
 
 {{< highlight R >}}
 deltas <- runif( length(ubi.barclays) ) - 0.5
@@ -114,8 +113,7 @@ se aprecia cómo en 948 de los 1037 días no habría sido capaz de moverlo (en m
 
 Gráficamente,
 
-[![](/img/2012/07/barclays_libor_days.png#center)
-](/img/2012/07/barclays_libor_days.png#center)
+![](/img/2012/07/barclays_libor_days.png#center)
 
 Eso sí, casi todos esos días en los que tenía influencia correspondían al mismo periodo: finales de 2008.
 

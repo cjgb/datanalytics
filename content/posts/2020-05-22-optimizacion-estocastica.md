@@ -21,7 +21,7 @@ title: Optimización estocástica
 url: /2020/05/22/optimizacion-estocastica/
 ---
 
-Uno de los proyectos en los que estoy trabajando últimamente está relacionado con un problema de optimización no lineal: tengo un modelo (o una familia de modelos) no lineales con una serie de parámetros, unos datos y se trata de lo que no mercería más explicación: encontrar los que minimizan cierta función de error.
+Uno de los proyectos en los que estoy trabajando últimamente está relacionado con un problema de optimización no lineal: tengo un modelo (o una familia de modelos) no lineales con una serie de parámetros, unos datos y se trata de lo que no merecería más explicación: encontrar los que minimizan cierta función de error.
 
 Tengo implementadas dos vías:
 

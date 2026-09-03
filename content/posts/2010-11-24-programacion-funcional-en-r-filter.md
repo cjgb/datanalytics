@@ -22,7 +22,7 @@ Quienes acudan a [Mieres la semana que viene](https://datanalytics.com/2010/10/2
 
 Voy a ilustrar el uso de una función de R que echábamos de menos los usuarios de Python: Filter. Estaba ahí, sí, pero como escondida.
 
-El ejemplo proviene de un [intercambio de correos en las listas de R](https://stat.ethz.ch/pipermail/r-help/2010-November/258901.html) acerca de un _truco estúpido_: cómo crear una función parecida a ls() que mostrase solo los objetos de una determinada frase. Se propuso
+El ejemplo proviene de un [intercambio de correos en las listas de R](https://stat.ethz.ch/pipermail/r-help/2010-November/258901.html) acerca de un _truco estúpido_: cómo crear una función parecida a ls() que mostrase solo los objetos de una determinada clase. Se propuso
 
 
 {{< highlight R >}}
@@ -32,15 +32,12 @@ getclass <- function( cls = "data.frame" ) ls(envir=.GlobalEnv)[
                     function(y) cls %in% y)   ]
 {{< / highlight >}}
 
-
-Usando la función Filter podemos hacer lo mismo mucho más sucintamente:
-
+Usando la función `Filter` podemos hacer lo mismo mucho más sucintamente:
 
 {{< highlight R >}}
 getclass <- function( cls = "data.frame" )
     Filter( function( x ) cls %in% class( get( x ) ),
                 ls( envir=.GlobalEnv ) )
 {{< / highlight >}}
-
 
 Los interesados ya saben qué hacer hoy: `?Filter`

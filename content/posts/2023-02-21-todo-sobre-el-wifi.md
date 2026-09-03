@@ -83,7 +83,7 @@ Además de la distancia y los obstáculos, dos fenómenos limitan la calidad de 
 - Wifis emitiendo en canales aledaños.
 - Otras fuentes (dispositivos Bluetooth, microondas, etc.)
 
-No sé mucho al respeto, pero entiendo que si un dispositivo wifi emite un paquete y hay ruido en el canal ---debido a las interferencias--- el router puede no llegar a recibirlo adecuadamente ---se pierde--- y le toca volver a transmitirlo. Es decir, que el síntoma del ruido se manifestaría en la proporción de paquetes _perdidos_ en la comunicación. Pero no he visto en ningún sitio ningún tipo de baremo que relacione nivel de ruido (¿en qué unidades? porque, además, es variable en el tiempo) y calidad de la conexión. Tampoco me queda claro hasta qué punto le conviene a un capullo gilipollas seguir siéndolo y sufrir las interferencias del resto en lugar de compartir un canal con ellos. Supongo que habría que realizar mediciones locales/contextuales.
+No sé mucho al respecto, pero entiendo que si un dispositivo wifi emite un paquete y hay ruido en el canal ---debido a las interferencias--- el router puede no llegar a recibirlo adecuadamente ---se pierde--- y le toca volver a transmitirlo. Es decir, que el síntoma del ruido se manifestaría en la proporción de paquetes _perdidos_ en la comunicación. Pero no he visto en ningún sitio ningún tipo de baremo que relacione nivel de ruido (¿en qué unidades? porque, además, es variable en el tiempo) y calidad de la conexión. Tampoco me queda claro hasta qué punto le conviene a un capullo gilipollas seguir siéndolo y sufrir las interferencias del resto en lugar de compartir un canal con ellos. Supongo que habría que realizar mediciones locales/contextuales.
 
 ## ¿Es _bueno_ un determinado canal?
 

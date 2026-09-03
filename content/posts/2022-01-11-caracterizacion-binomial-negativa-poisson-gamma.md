@@ -42,6 +42,6 @@ La distribución resultante no es necesariamente Poisson. De hecho, solo lo es -
 
 Pero se da la circunstancia de que si esa distribución desconocida es gamma, entonces la distribución obtenida es binomial negativa (la demostración, [aquí](https://www.johndcook.com/negative_binomial.pdf)).
 
-En definitiva, la distribución binomial positiva es una mezcla de distribuciones de Poisson cuando su parámetro sigue una distribución gamma. O en lo que se convierte la distribución de Poisson cuando hay incertidumbre ---y esa incertidumbre tiene una forma concreta--- acerca de su parámetro. Lo cual tiene, obviamente, una interpretación bayesiana: la distribución binomial negativa es la posteriori asociada a la Poisson con una priori gamma.
+En definitiva, la distribución binomial negativa es una mezcla de distribuciones de Poisson cuando su parámetro sigue una distribución gamma. O en lo que se convierte la distribución de Poisson cuando hay incertidumbre ---y esa incertidumbre tiene una forma concreta--- acerca de su parámetro. Lo cual tiene, obviamente, una interpretación bayesiana: la distribución binomial negativa es la posteriori asociada a la Poisson con una priori gamma.
 
 Un buen motivo, pues, para usar la binomial negativa en modelos de conteos y trascender así las limitaciones de la distribución de Poisson.

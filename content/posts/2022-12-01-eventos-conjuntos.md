@@ -42,7 +42,7 @@ Kolmogorov se encuentra con el caos que era la teoría de la probabilidad allá 
 
 Un evento nunca puede ser un objeto atómico. No puede ser algo asimilable a un punto en el espacio. Porque un evento siempre se puede escindir: evento es que gane el Real Madrid el domingo; pero también que lo haga 2-1; o que lo haga 2-1 gracias a un gol de córner en el penúltimo minuto; etc.
 
-El objeto matemático que mejor puede representar el concepto de evento es el de conjunto ---nótese que lo anterior no es un teorema: es una proposición de índole empírico es histórico muy lejos de ser falsada. Los conjuntos son perfectamente divisibles y gracias a la teoría de la medida que estaba siendo asentada en los años previos, podían asignárseles pesos (o probabilidades) de una manera adecuadamente fundamentada.
+El objeto matemático que mejor puede representar el concepto de evento es el de conjunto ---nótese que lo anterior no es un teorema: es una proposición de índole empírica e histórica muy lejos de ser falsada. Los conjuntos son perfectamente divisibles y gracias a la teoría de la medida que estaba siendo asentada en los años previos, podían asignárseles pesos (o probabilidades) de una manera adecuadamente fundamentada.
 
 ¿Son los conjuntos la única solución? En realidad, no. Existieron otras propuestas alternativas a las de Kolmogorov basadas en otro tipo de objetos (véase, p.e.,
 [_Randomness and Foundations of Probability: von Mises' Axiomatisation of Random Sequences_](https://www.jstor.org/stable/4355955))

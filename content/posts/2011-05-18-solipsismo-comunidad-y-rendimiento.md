@@ -41,7 +41,7 @@ Pareciere que los desarrolladores del núcleo de R han tenido más cuidado en ha
 
 Tiene cierto sentido y razón en este aspecto el autor de la entrada que comento en sustituir en su código las llamadas a `mean` por una función _ad hoc_ que suma y divide. Y así con otras funciones. De hecho, la misma política de sustitución se propugnaba en la entrada [aquí](https://datanalytics.com/2011/05/13/consejos-para-utilizar-r-en-produccion) comentada.
 
-Ciertamente, es una opción. y es justificable y válida en algunas circunstancias. Pero quiero hacer constar unas objeciones que deberían también ponderar quienes estan tentados en emular los dos ejemplos que cito en los enlaces de más arriba:
+Ciertamente, es una opción. y es justificable y válida en algunas circunstancias. Pero quiero hacer constar unas objeciones que deberían también ponderar quienes estan tentados a emular los dos ejemplos que cito en los enlaces de más arriba:
 
 
 

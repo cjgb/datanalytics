@@ -22,7 +22,7 @@ Hay un buen motivo para que el tema de la neutralidad en la red no esté de moda
 
 Me atengo en todo caso a una definición muy concreta de neutralidad en la red. Neutralidad en la red significa que el _software_ que corre en los _routers_ aplica una estricta política FIFO en los paquetes que le llegan.
 
-Hay gente que parece utilizar otro tipo de definiciones mucho menos concretas y que no acabo de entender demasiado bien que tienen que ver con algo así como que la neutralidad de la red es el principio mágico que impide que internet se convierta en algo así como en un parque de atracciones (como si internet no se hubiese convertido ya en eso, prácticamente).
+Hay gente que parece utilizar otro tipo de definiciones mucho menos concretas y que no acabo de entender demasiado bien qué tienen que ver con algo así como que la neutralidad de la red es el principio mágico que impide que internet se convierta en algo así como en un parque de atracciones (como si internet no se hubiese convertido ya en eso, prácticamente).
 
 Personalmente, aboliría el principio de la neutralidad en la red. Lo reemplazaría por uno más débil basado en principios utilitaristas. Por ejemplo, una red en la que los servicios _en tiempo real_ tienen cierta preferencia sobre los _offline_ (correo electrónico, copias de seguridad, etc.) podría considerarse más útil y por lo tanto, preferible. Por otro lado, una red en la que a ciertos usuarios o servicios se les ralentizar innecesariamente el servicio (por ejemplo, reteniendo los paquetes aun existiendo ancho de banda disponible), sería menos útil y estaría prohibida.
 

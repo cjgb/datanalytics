@@ -123,7 +123,7 @@ b <- rnorm(14)
 producto <- .C("func1", as.double(a), as.double(b), as.integer(14), resultado=double(1))$resultado
 {{< / highlight >}}
 
-ubicará el producto vectorial de los vectores de dimensión 14 a y b en la variable producto. Hay que tener en cuenta -y son normativos, no meramente descriptivos de la situación anterior- los siguientes aspectos:
+ubicará el producto escalar de los vectores de dimensión 14 a y b en la variable producto. Hay que tener en cuenta ---y son normativos, no meramente descriptivos de la situación anterior--- los siguientes aspectos:
 
 1. `func1` es una función de tipo `void`: toda transferencia de datos se realiza a través de sus parámetros; en el caso particular anterior, a través 	del último.
 2. Al pasar datos a la función, hay que forzar la compatibilidad de tipos entre los manejados por R y los que exige la función externa; así, el tipo double de R corresponde a double de C e integer de R a int de C. Una tabla más completa de equivalencias puede consultarse en la documentación de R.

@@ -34,7 +34,7 @@ El conjunto $A$ se puede dividir en dos partes:
 * $M$, de _mediocre_, que contiene todos los pares $(a, b)$ de $A$ tales que $0 < \alpha b < b < (1-\alpha) b < b$ para cierto valor $0 < \alpha< 1$ (p.e., $\alpha = .025$). Se trata de los pares donde $a$ está _lejos_ de los extremos.
 * $E$, de _excepcional_, es el complementario de $M$.
 
-Podría decirse que $P(M) = 1- 2\alpha$. Es decir, que is $\alpha = .025$, entonces $P(M) = .95$. (Quien esté incómodo por el hecho de que se estén usando probabilidades _impropias_, puede considerar que los valores $b$ de $M$ son menores que un número finito pero _plusquamsobrehumano_.)
+Podría decirse que $P(M) = 1- 2\alpha$. Es decir, que si $\alpha = .025$, entonces $P(M) = .95$. (Quien esté incómodo por el hecho de que se estén usando probabilidades _impropias_, puede considerar que los valores $b$ de $M$ son menores que un número finito pero _plusquamsobrehumano_.)
 
 
 ### Aplicación

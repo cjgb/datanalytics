@@ -133,7 +133,7 @@ AIC: NA
 Number of Fisher Scoring iterations: 6
 {{< / highlight >}}
 
-con la salvedad de que el modelo _quasi_ nos advirte que existe una sobredispersión del 20%, i.e., que la varianza estimada de los datos es un 20% superior a la esperada por el modelo de Poisson.
+con la salvedad de que el modelo _quasi_ nos advierte que existe una sobredispersión del 20%, i.e., que la varianza estimada de los datos es un 20% superior a la esperada por el modelo de Poisson.
 
 De hecho,
 

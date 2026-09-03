@@ -24,6 +24,6 @@ La gente con la que he debatido al respecto tiende a aplicar esa forma cuasiperf
 
 (De hecho, establece una relación simbiótica muy cómoda entre regulador perezoso y regulado idénticamente perezoso).
 
-En estos ámbitos a los que me refiero imperan los GLMs. Pero los GLMs no han estado ahí toda la vida. El [artículo de Nelder y Wedderburn](http://www.jstor.org/stable/2344614) es de 1972. Y el primer paquete para ajustar este tipo de paquetes, [GLIM](https://en.wikipedia.org/wiki/GLIM_(software)), es de 1974.
+En estos ámbitos a los que me refiero imperan los GLMs. Pero los GLMs no han estado ahí toda la vida. El [artículo de Nelder y Wedderburn](http://www.jstor.org/stable/2344614) es de 1972. Y el primer paquete para ajustar este tipo de modelos, [GLIM](https://en.wikipedia.org/wiki/GLIM_(software)), es de 1974.
 
 Me intriga enormemente averiguar cuál fue el proceso de aceptación por parte tanto de los usuarios como del regulador de este tipo de modelos que en 1973 eran mucho más novedosos que puedan serlo hoy, por ejemplo, los [GBMs](https://datanalytics.com/2016/03/11/gbm-sintetizado-en-una-linea/). ¿Conoce alguien a algún _viejo del lugar_ que nos lo pueda explicar?

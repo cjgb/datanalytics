@@ -41,4 +41,4 @@ Quien compone una canción, la incrementa en unos 4 MB. Y así, todos, diariamen
 * La mensajería instantánea mueve unos 950 GB diarios de información.
 * El correo electrónico, 400.000 terabytes de información anual.
 
-**Nota:** esta entrada pertenece (es la antepenúltima) de las que rescato de mi antiguo blog. La información está necesariamente desactualizada porque los tiempos cambian una barbaridad.
+**Nota:** esta entrada pertenece (es la antepenúltima) a las que rescato de mi antiguo blog. La información está necesariamente desactualizada porque los tiempos cambian una barbaridad.

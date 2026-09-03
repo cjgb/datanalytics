@@ -34,7 +34,7 @@ $$\lambda_t = \exp(a + b t).$$
 Hay varias cosas bastante bien conocidas y una que lo es bastante menos ---y que resulta mucho más paradójica--- que decir al respecto.
 
 Antes necesito añadir que:
-* Probablemente, omitir $\exp$ fue una acto involuntario (y, creo, además, que afortunado).
+* Probablemente, omitir $\exp$ fue un acto involuntario (y, creo, además, que afortunado).
 * Realmente, y como se discute abajo, el modelo no necesita la función exponencial de enlace. Si se hubiese tratado de uno que sí, habrían saltado las alarmas y, sin duda, lo habría corregido.
 
 Cosas conocidas sobre la identidad (y la función exponencial) como funciones de enlace para modelos de Poisson:
