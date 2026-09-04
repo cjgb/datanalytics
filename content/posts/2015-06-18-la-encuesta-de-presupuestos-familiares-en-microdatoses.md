@@ -24,9 +24,9 @@ Hoy he subido una nueva versión del paquete `MicroDatosEs` a [r-forge](https://
 
 Aún no está en CRAN, pero estáis invitados a probarla instalando la versión de desarrollo mediante
 
-{{< highlight R >}}
+```r
 install.packages("MicroDatosEs", repos="http://R-Forge.R-project.org")
-{{< / highlight >}}
+```
 
 
 La parte del paquete que se encarga de la EPF es obra de Diego Paniagua, que es uno de los estudiantes del [Experto en _Data Science_ de la UTAD](https://www.u-tad.com/estudios/experto-en-data-science/). La aportación a este paquete es, de hecho, parte de su proyecto final.

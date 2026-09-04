@@ -39,15 +39,15 @@ Ahora la variable $Z$ afecta tanto a $Y$ (como en la entrada anterior) como a $X
 
 Para volver a comparar las regresiones `Y ~ X` y `Y ~ X + Z` puedo simular datos concretos de acuerdo con el modelo causal anterior haciendo, p.e.,
 
-{{< highlight R >}}
+```r
 z <- rnorm(n)
 x <- .8 * z + rnorm(n)
 y <- .5 * x + .2 * z + rnorm(n, 0, .1)
-{{< / highlight >}}
+```
 
 La regresión con la variable $Z$ omitida da
 
-{{< highlight text "linenos=false" >}}
+```text
 Coefficients:
              Estimate Std. Error t value Pr(>|t|)
 (Intercept) -0.020597   0.005672  -3.631 0.000296 ***
@@ -56,13 +56,13 @@ x            0.600401   0.004483 133.941  < 2e-16 ***
 Residual standard error: 0.1793 on 998 degrees of freedom
 Multiple R-squared:  0.9473,	Adjusted R-squared:  0.9472
 F-statistic: 1.794e+04 on 1 and 998 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 que no recoge, como puede verse, el efecto real de $X$ sobre $Y$: es de $.5$ pero la regresión lo estima en $.6$. Recuérdese que el coeficiente de $X$ mide cuánto varía (crece, en este caso) $Y$ al hacer crecer $X$. Pero un incremento de $X$ puede descomponerse en dos partes: lo que crece $X$ per se y lo que crece por influencia de $Z$. Y lo que crece por influencia de $Z$ afecta a $Y$ directamente (a través del coeficiente de $X$) y también indirectamente, a través de la influencia directa de $Z$ sobre $Y$.
 
 Al faltar $Z$ en el modelo, este solo ve un incremento grande del valor de $Y$ al hacer crecer $X$ y sobreestima su efecto. El problema se corrige cuando $Z$ es incorporado al modelo. En efecto, haciendo `summary(lm(Y ~ X + Z))`, se obtiene
 
-{{< highlight text "linenos=false" >}}
+```text
 Coefficients:
              Estimate Std. Error t value Pr(>|t|)
 (Intercept) -0.006195   0.003072  -2.017    0.044 *
@@ -72,7 +72,7 @@ z            0.193288   0.003916  49.355   <2e-16 ***
 Residual standard error: 0.0967 on 997 degrees of freedom
 Multiple R-squared:  0.9847,	Adjusted R-squared:  0.9847
 F-statistic: 3.207e+04 on 2 and 997 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 Esta vez el modelo ha estimado correctamente el impacto de $X$ sobre $Y$, $.5$. Además, ha estimado correctamente la influencia directa de $Z$ sobre $Y$, $.2$.
 

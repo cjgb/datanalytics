@@ -47,7 +47,7 @@ Esas gráficas en las que no se tiene en cuenta lo que los economistas llaman _e
 * La banca ha cerrado oficinas y ha contratado informáticos.
 * En los periodos centrales del periodo 2000-actualidad llegaron a construirse 850k viviendas al año que se quedaron en 30-40k como consecuencia de la crisis (la otra).
 
-Etc. Además de otros factores relativos a la autoselección de los sujetos, como el hecho de que los datos no recojan los ingresos de los autónomos (y existe un flujo contante entre empleos por cuenta ajena y propia que, precisamente, favorece el tránsito al segundo sector a quienes podrían tener salarios más altos) o ignoren que quienes son empleados de una sociedad limitada propia pueden fijarse un salario que pueda no tener mucho que ver con sus verdaderos ingresos.
+Etc. Además de otros factores relativos a la autoselección de los sujetos, como el hecho de que los datos no recojan los ingresos de los autónomos (y existe un flujo constante entre empleos por cuenta ajena y propia que, precisamente, favorece el tránsito al segundo sector a quienes podrían tener salarios más altos) o ignoren que quienes son empleados de una sociedad limitada propia pueden fijarse un salario que pueda no tener mucho que ver con sus verdaderos ingresos.
 
 [Y todo lo anterior, suponiendo que se han integrado convenientemente en las cifras globales el efecto de los trabajos a tiempo parcial, las horas extras, etc.]
 

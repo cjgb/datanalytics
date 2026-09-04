@@ -72,13 +72,11 @@ En efecto, en la deducción que hemos hecho más arriba de la apuesta óptima, h
 
 El problema puede tratarse analíticamente y es fácil analizar completamente el beneficio que puede generar un juego al cabo de un número dado de iteraciones fijados $p$ y $b$. El siguiente gráfico muestra los deciles del beneficio tras 100 iteraciones de un juego con $p=0.8$ y $b=4$.
 
-[![Kelly criterion](/img/2011/05/kelly_criterion_0.png#center)
-](/img/2011/05/kelly_criterion_0.png#center)
+![Kelly criterion](/img/2011/05/kelly_criterion_0.png#center)
 
 Si por el contrario $p=0.8$ y $b=2,1$ se obtiene esta otra configuración de beneficios:
 
-[![](/img/2011/05/kelly_criterion_1.png#center)
-](/img/2011/05/kelly_criterion_1.png#center)
+![](/img/2011/05/kelly_criterion_1.png#center)
 
 En los dos gráficos anteriores se aprecia cómo los rangos _interdecílicos_ se estrechan a la izquierda de la apuesta de Kelly y se ensanchan a su derecha. Un inversor cauto preferiría tal vez apostar por debajo del nivel propuesto por el criterio de Kelly para reducir la varianza del resultado de su apuesta. Esta precaución cobra más importancia en las situaciones en que no se conoce $p$ con precisión: si se sospecha que su _valor verdadero_ está en un intervalo de cierto tamaño alrededor de un estimador $p^\prime$, un inversor cauto apostaría un porcentaje inferior a
 
@@ -96,7 +94,7 @@ $$ \frac{bp-(1-p)}{b}.$$
 Finalmente, y para que mis lectores puedan cacharrear, adjunto el código ---un tanto vergonzante--- con el que he creado los gráficos de esta entrada:
 
 
-{{< highlight R >}}
+```r
     game.payoff <- function(f, trials = 100, p = 0.9, b = 0.5, quantile = 0.5){
     	wins  <- qbinom(quantile, trials, p)
     	loses <- trials - wins
@@ -117,4 +115,4 @@ Finalmente, y para que mis lectores puedan cacharrear, adjunto el código ---un 
 
     lines(tmp[5,], type = "l", col = "red")
     abline(v = 70, lty = 2)
-{{< / highlight >}}
+```

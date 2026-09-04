@@ -27,7 +27,7 @@ Esta entrada será del interés de a quien le atraigan dos temas bastante indepe
 
 Allá va el código
 
-{{< highlight R >}}
+```r
 library(SPARQL)
 library(ggplot2)
 
@@ -52,12 +52,11 @@ d <- SPARQL(url="http://enipedia.tudelft.nl/sparql",
 
 ggplot(d$results, aes(x = lon, y = lat, size = elec_capacity_MW)) +
   geom_point()
-{{< / highlight >}}
+```
 
 y lo que genera, que es
 
-[![enipedia_centrales](/img/2016/01/enipedia_centrales.png#center)
-](/img/2016/01/enipedia_centrales.png#center)
+![enipedia_centrales](/img/2016/01/enipedia_centrales.png#center)
 
 todo lo cual es manifiestamente mejorable.
 

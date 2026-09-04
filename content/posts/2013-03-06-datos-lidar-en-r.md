@@ -26,7 +26,7 @@ En efecto, uno quiere estimar la cantidad de madera que hay en un monte. Uno ent
 
 Sin embargo, los datos LIDAR se generan habitualmente en un formato, LAS, libre pero binario e ilegible. Que no parecen poder leerse con R aún. Aunque [sí con Python](http://www.liblas.org/python.html), así que...
 
-{{< highlight R >}}
+```r
 library(rPython)
 library(ggplot2)
 
@@ -42,11 +42,10 @@ xyz <-python.get("xyz")
 xyz <- data.frame(do.call(rbind, xyz))
 
 ggplot(xyz, aes(x = X1, y = X2, col = X3)) + geom_point()
-{{< / highlight >}}
+```
 
 ... que produce:
 
-[![](/img/2013/03/lidar_points.png#center)
-](/img/2013/03/lidar_points.png#center)
+![](/img/2013/03/lidar_points.png#center)
 
 ¿Adivinará alguien lo que estoy pensando?

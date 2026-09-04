@@ -19,9 +19,9 @@ title: El AUC es la probabilidad de que...
 url: /2016/03/29/el-auc-es-la-probabilidad-de-que/
 ---
 
-Voy a constuir unos datos artificiales y un modelo de clasificación binaria,
+Voy a construir unos datos artificiales y un modelo de clasificación binaria,
 
-{{< highlight R >}}
+```r
 library(mgcv)
 library(ggplot2)
 library(pROC)
@@ -34,25 +34,25 @@ lr.fit <- gam(y ~ s(x0, bs="cr") +
     s(x3, bs="cr"),
     family=binomial, data=dat,
     method="REML")
-{{< / highlight >}}
+```
 
 
 y luego (mal hecho: debería hacerlo sobre un conjunto de validación distinto) a obtener las predicciones para las observaciones
 
 
-{{< highlight R >}}
+```r
 res <- data.frame(real = factor(dat$y),
     prob = predict(lr.fit, type = "response"))
-{{< / highlight >}}
+```
 
 
 que
 
 
-{{< highlight R >}}
+```r
 ggplot(res, aes(x=prob, fill=real)) +
     geom_density(alpha=.3)
-{{< / highlight >}}
+```
 
 
 representa así:
@@ -63,7 +63,7 @@ representa así:
 Me pregunto si el clasificador construido es _bueno_. Para lo cual voy a construir la curva ROC con
 
 
-{{< highlight R >}}
+```r
 sies <- res[res$real == "1",]
 noes <- res[res$real == "0",]
 scores <- 0:100 / 100
@@ -71,7 +71,7 @@ scores <- 0:100 / 100
 q.si <- ecdf(sies$prob)(scores)
 q.no <- ecdf(noes$prob)(scores)
 plot(q.si, q.no, type = "l")
-{{< / highlight >}}
+```
 
 que produce
 
@@ -83,9 +83,9 @@ En esta la segunda (tercera si se tiene en cuenta la del inciso) oración de la 
 
 Muestrear el cuadrado es muestrear [0,1] uniformemente para las `x` por un lado `y` para las y por el otro. Pero las `x`, por ejemplo, son el rango de `ecdf(sies$prob)` y muestrearlo uniformemente es (de hecho, la manera canónica de) muestrear los `sies$prob`. Lo mismo rige para las `y`. Y que el punto del plano elegido al azar quede por debajo de la curva significa entonces que el valor muestreado de `sies$prob` sea mayor que el de `noes$prob`. Así que
 
-{{< highlight R >}}
+```r
 foo <- function(x) sample(x, 1e6, replace = TRUE)
 mean(foo(sies$prob) > foo(noes$prob))
-{{< / highlight >}}
+```
 
 arroja no solo un valor muy similar al de `pROC::roc(res$real, res$prob)$auc` sino que, además, proporciona una interpretación interesante de este indicador: el AUC es la probabilidad de que, tomados un caso positivo y uno negativo al azar, el _scoring_ del modelo para el primero sea superior al segundo.

@@ -24,7 +24,7 @@ url: /2020/07/30/misma-p-distinto-n-luego/
 
 Tres situaciones. La primera:
 
-{{< highlight R >}}
+```r
 n <- 20
 y <- 15
 test <- prop.test(y, n, p = .5)
@@ -32,11 +32,11 @@ test$p.value
 # [1] 0.04417134
 test$conf.int
 # 0.5058845 0.9040674
-{{< / highlight >}}
+```
 
 La segunda:
 
-{{< highlight R >}}
+```r
 n <- 200
 y <- 115
 test <- prop.test(y, n, p = 0.5)
@@ -44,11 +44,11 @@ test$p.value
 #[1] 0.04030497
 test$conf.int
 # 0.5032062 0.6438648
-{{< / highlight >}}
+```
 
 Y la tercera:
 
-{{< highlight R >}}
+```r
 n <- 2000
 y <- 1046
 test <- prop.test(y, n, p = 0.5)
@@ -56,7 +56,7 @@ test$p.value
 #[1] 0.0418688
 test$conf.int
 # 0.5008370 0.5450738
-{{< / highlight >}}
+```
 
 En resumen:
 

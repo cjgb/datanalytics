@@ -29,7 +29,7 @@ Supongamos también, y esta es la novedad, que no todos los sujetos están expue
 
 Planteemos el problema en R:
 
-{{< highlight R >}}
+```r
 # número de sujetos
 n <- 10000
 
@@ -57,11 +57,11 @@ mosaicplot( table( days, x, y ) )
 dat <- data.frame( x = x, y = y, days = days )
 m.0 <- glm( y ~ x, family = binomial(), data = dat )
 m.0$coefficients
-{{< / highlight >}}
+```
 
 Adaptando [código ajeno](http://www.npwrc.usgs.gov/resource/birds/nestsurv/download/CreateLogisticExposureFamily.R) a nuestro contexto, podemos escribir:
 
-{{< highlight R >}}
+```r
 logexp <- function(days)
 {
     linkfun <- function(mu) qlogis(mu^(1/days))
@@ -75,15 +75,15 @@ logexp <- function(days)
         mu.eta = mu.eta, valideta = valideta, name = link),
         class = "link-glm")
 }
-{{< / highlight >}}
+```
 
 Esta definición de la función de enlace es bastante peculiar: depende del sujeto no solo a través de mu_i, como es habitual y nos enseñan los libros, sino también a través de la variable tiempo, que depende del sujeto.
 
 Et voilá:
 
-{{< highlight R >}}
+```r
 m.1 <- glm( y ~ x, family=binomial(logexp(days=dat$days)), data=dat )
 m.1$coefficients
-{{< / highlight >}}
+```
 
 Prácticamente (y, en gran medida, gracias a que el número de observaciones es grande), recobramos el valor original de los coeficientes (cosa que como habrán comprobado los más diligentes de mis lectores, no ocurre con el primer modelo).

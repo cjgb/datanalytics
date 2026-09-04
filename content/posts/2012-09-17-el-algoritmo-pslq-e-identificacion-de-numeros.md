@@ -27,11 +27,11 @@ donde, obviamente, no todos los $a_i$ son cero. Aproximadamente significa que la
 
 No existe, que yo sepa, una implementación en R. Pero sí en Python, usando librerías que permiten utilizar números de precisión arbitraria, como `[mpmath](https://code.google.com/p/mpmath/)`. Veamos un ejemplo:
 
-{{< highlight python >}}
+```python
 from mpmath import *
 pslq([-1, pi], tol=0.01)
 # [22, 7]
-{{< / highlight >}}
+```
 
 
 La respuesta obtenida significa que

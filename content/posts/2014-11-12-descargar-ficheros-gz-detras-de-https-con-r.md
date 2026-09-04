@@ -25,13 +25,13 @@ Desde Windows, por algún motivo, es sencillo: se puede usar [`download.file`](h
 
 En Linux parece algo más complicado: `download.file` se niega a bajar ficheros usando el protocolo `[https](http://en.wikipedia.org/wiki/HTTP_Secure)`. Lo mejor que he sabido hacer es
 
-{{< highlight R >}}
+```r
 library(httr)
 x <- GET("https://stat.ethz.ch/pipermail/r-help-es/2012-August.txt.gz")
 tmp <- tempfile()
 writeBin(content(x, "raw"), tmp)
 res <- readLines(tmp)
 unlink(tmp)
-{{< / highlight >}}
+```
 
 que es feo, feo, feo.

@@ -25,4 +25,4 @@ Hace unos años se oyó un runrún en pro de sustituir el PIB por un índice alt
 
 En el [Índice Global de Felicidad](https://es.wikipedia.org/wiki/%C3%8Dndice_Global_de_Felicidad), una de las alternativas propuestas que coordina la ONU, Costa Rica tiende a ocupar niveles altos (el 13 este año, acompañando a países tales como Austria, Irlanda o Alemania), mientras que España se encuentra en el puesto 36, por debajo de Malasia y un pelín de gato por encima de Colombia (sí, Colombia).
 
-Una de mis conclusiones más rotundas después de viajar a Costa Rica y pasar allá una semana, sin embargo, fue, simplemente, que el índice está  mal calibrado. Diga lo que diga el índice y usando un critero rawlsiano, ¿ganaría (en promedio) un español al azar de transmutarse mágicamente en un costarricense al azar? Ni de coña.
+Una de mis conclusiones más rotundas después de viajar a Costa Rica y pasar allá una semana, sin embargo, fue, simplemente, que el índice está  mal calibrado. Diga lo que diga el índice y usando un criterio rawlsiano, ¿ganaría (en promedio) un español al azar de transmutarse mágicamente en un costarricense al azar? Ni de coña.

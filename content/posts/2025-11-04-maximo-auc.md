@@ -31,7 +31,7 @@ Imaginemos que las probabilidades $p$ de los sujetos están distribuidas aproxim
 
 Ahora acudo al pequeño fragmento de código que publiqué [aquí](/2025/04/24/auc-dispersion-calibracion-ii/) para estimar el AUC en situaciones como la descrita arriba, lo modifico para dejarlo como
 
-{{< highlight r >}}
+```r
 a <- 2.89
 b <- 36.81
 sample_dist <- function() rbeta(1, a, b)
@@ -51,6 +51,6 @@ p0 <- replicate(100000, sample_p(0))
 
 auc <- mean(p1 > p0)
 auc
-{{< / highlight >}}
+```
 
 Da $0.662$. A más, lo siento, no se puede aspirar.

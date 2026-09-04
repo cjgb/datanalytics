@@ -22,7 +22,7 @@ url: /2015/05/05/intervalos-de-credibilidad-para-la-beta-una-alternativa/
 
 A partir de los comentarios de Olivier Núñez a mi [entrada anterior casi homónima](https://datanalytics.com/2015/04/27/intervalos-de-credibilidad-para-la-distribucion-beta/), se nos ha ocurrido a ambos de forma independiente y simultánea una manera alternativa de calcular el intervalo: minimizando su longitud.
 
-{{< highlight R >}}
+```r
 a <- 3
 b <- 5
 alfa <- 0.05
@@ -45,4 +45,4 @@ f.alt <- function(x){
 res.alt <- optim(0.025, f.alt)
 qbeta(c(res.alt$par, res.alt$par + 0.95), a, b)
 #[1] 0.08054388 0.68464900
-{{< / highlight >}}
+```

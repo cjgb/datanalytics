@@ -34,7 +34,7 @@ E inducido de nuevo por el mismo tomito, piensa: quizás el banco de España en 
 
 Quienes buscasen una hipoteca podrían entonces:
 
-* Comprarar fácilmente las ofertas de las distintas entidades para las hipotecas estándar.
+* Comparar fácilmente las ofertas de las distintas entidades para las hipotecas estándar.
 * Optar a la hipoteca básica más conveniente, dado que la comparación sería sencilla.
 * O decantarse _libremente_ por una hipoteca no estándar ofrecida por una entidad pero sabiendo entonces que queda a merced de las maquinaciones nada benéficas —dicen— de los bancos. ¡_Caveat emptor_!
 

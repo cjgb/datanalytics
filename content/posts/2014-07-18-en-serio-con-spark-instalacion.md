@@ -31,7 +31,7 @@ Los pasos son los siguientes:
 
 En la consola, ahora, se puede ejecutar:
 
-{{< highlight python >}}
+```python
 from random import random
 
 def sample(p):
@@ -43,9 +43,8 @@ NUM_SAMPLES = 10000000
 count = sc.parallelize(xrange(0, NUM_SAMPLES)).map(sample).reduce(lambda a, b: a + b)
 
 print "Pi is roughly %f" % (4.0 * count / NUM_SAMPLES)
-{{< / highlight >}}
+```
 
 Esta captura de `htop` lo dice todo:
 
-[![htop_spark](/img/2014/07/htop_spark.png#center)
-](/img/2014/07/htop_spark.png#center)
+![htop_spark](/img/2014/07/htop_spark.png#center)

@@ -25,7 +25,7 @@ Ese es el nombre agramatical de una nueva consejería pergeñada por una red neu
 
 El código, adaptado de [aquí](http://mxnet.readthedocs.io/en/latest/packages/r/CharRnnModel.html) y sustancialmente mejorado, es
 
-{{< highlight R >}}
+```r
 library(mxnet)
 
 batch.size     <- 32
@@ -140,7 +140,7 @@ get.sample <- function(n, start = "<", random.sample = TRUE){
 }
 
 cat(get.sample(1000, start = "A", random.sample = T))
-{{< / highlight >}}
+```
 
 Lo anterior genera cosas tales como:
 

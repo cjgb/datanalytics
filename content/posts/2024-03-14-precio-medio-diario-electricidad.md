@@ -23,23 +23,23 @@ Por ahí se ven cosas como esta:
 
 Avisa del valor máximo, mínimo y _medio_ de la electricidad en la mayor parte de España. Pero lo que llama _precio medio_ no es el precio medio. Llama _precio medio_ al resultado de
 
-{{< highlight sql >}}
+```sql
 select avg(pvpc)
 from pvpc_electricidad
 where
 	date(dia_hora) = '2024-03-12'
 ;
-{{< / highlight >}}
+```
 
 y no de
 
-{{< highlight sql >}}
+```sql
 select sum(pvpc * kwh) / sum(kwh)
 from pvpc_electricidad
 where
 	date(dia_hora) = '2024-03-12'
 ;
-{{< / highlight >}}
+```
 
 que sería lo suyo. Nótese cómo, en particular, el precio está positivamente correlacionado con el consumo ---si es que el mercado eléctrico funciona como se espera de él--- por lo que la primera expresión será siempre menor que la segunda. Es un indicador sesgado.
 

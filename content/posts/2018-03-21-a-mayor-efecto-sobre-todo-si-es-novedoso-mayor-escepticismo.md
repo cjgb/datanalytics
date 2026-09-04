@@ -25,7 +25,7 @@ El [NYT resume un artículo recentísimo](https://www.nytimes.com/interactive/20
 * A los niños negros les va mucho (mucho, mucho: el efecto tiene una magnitud enorme) peor en la vida que a sus equivalentes blancos independientemente de la clase social, riqueza del hogar y otros factores predictores del éxito.
 * En cambio, el efecto de la raza es inapreciable para las niñas.
 
-Hoy todo el mundo habla del asunto. Y lo da por bueno. Pero yo advierto un elemento de sospecha: que un efecto tan, tan grande no haya sido advertido antes. De hecho, los comentarios que he leído sobre el estudio tienden a conjungar verbos como _contradecir_, utilizan expresiones como _echar por tierra_, etc.
+Hoy todo el mundo habla del asunto. Y lo da por bueno. Pero yo advierto un elemento de sospecha: que un efecto tan, tan grande no haya sido advertido antes. De hecho, los comentarios que he leído sobre el estudio tienden a conjugar verbos como _contradecir_, utilizan expresiones como _echar por tierra_, etc.
 
 Pero el mundo no funciona así. Generalmente, los efectos grandes cantan. Luego, alguien va y los mide.
 

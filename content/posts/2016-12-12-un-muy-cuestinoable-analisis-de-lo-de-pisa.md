@@ -32,7 +32,7 @@ Antes de entrar en materia, una observación. Lo de PISA es muy serio, pero quie
 
 Cargo datos en R (después de bajarlos del preceptivo enlace, descomprimirlos, etc.; cuidado: el fichero ocupa un giga largo):
 
-{{< highlight R >}}
+```r
 library(foreign)
 
 tmp <- read.spss("CY6_MS_CMB_STU_QQQ.sav",
@@ -41,20 +41,20 @@ tmp <- read.spss("CY6_MS_CMB_STU_QQQ.sav",
 
 alumnos <- tmp[tmp$CNT == "Spain",]
 rm(tmp); gc()
-{{< / highlight >}}
+```
 
 Aquitán:
 
-{{< highlight R >}}
+```r
 dim(alumnos)
 #[1] 6736  921
-{{< / highlight >}}
+```
 
 También se puede ver que hay unos doscientos colegios y si uno se baja el fichero correspondiente, puede explorar lo que contaba antes y más. Pero hoy no toca.
 
-Selecciono las colunnas de interés y relleno (¡primer _caveat_!) los nulos (no muchos) con la mediana:
+Selecciono las columnas de interés y relleno (¡primer _caveat_!) los nulos (no muchos) con la mediana:
 
-{{< highlight R >}}
+```r
 dat <- alumnos[, c("CNTSTUID", "CNTSCHID",
     "WEALTH", "CULTPOSS",
     "HEDRES", "HOMEPOS", "ICTRES",
@@ -79,7 +79,7 @@ dat$CCAA  <- gsub(".*: ([^,]*),.*", "\\1",
 
 dat$PUBPRIV <- "public"
 dat$PUBPRIV[grep("private", dat$STRATUM)] <- "private"
-{{< / highlight >}}
+```
 
 Las columnas de interés son:
 
@@ -92,19 +92,19 @@ Las columnas de interés son:
 
 Estas columnas parecen construirse sintéticamente a partir de las respuestas (que también aparecen en el fichero) a una encuesta concomitante. Muchas de estas columnas están muy correlacionadas entre sí, tanto como yo con alguien que no sé si me leerá:
 
-{{< highlight R >}}
+```r
 plot(dat[, c("WEALTH", "CULTPOSS", "HEDRES", "ESCS", "HOMEPOS")])
-{{< / highlight >}}
+```
 
 ![](/img/2016/12/correlacion_variables_pisa.png#center)
 
 Voy a centrarme en las resultados de matemáticas porque yo lo valgo:
 
-{{< highlight R >}}
+```r
 targets <- grep("^PV[0-9]+MATH$", colnames(alumnos))
 dat$target <- rowMeans(alumnos[, targets])
 dotchart(sort(tapply(dat$target, dat$CCAA, mean)))
-{{< / highlight >}}
+```
 
 El gráfico resultante es desconcertante:
 
@@ -114,9 +114,9 @@ Fundamentalmente, porque aunque los valores están en línea con los publicados 
 
 Con la información disponible se pueden construir gráficas tales que
 
-{{< highlight R >}}
+```r
 boxplot(dat$target ~ dat$PUBPRIV)
-{{< / highlight >}}
+```
 
 i.e.,
 
@@ -126,7 +126,7 @@ que [tanto irritan](https://datanalytics.com/2016/12/07/enhorabuena-a-eldiario-e
 
 Pero vamos a la chicha:
 
-{{< highlight R >}}
+```r
 library(lme4)
 library(lattice)
 
@@ -171,15 +171,15 @@ summary(modelo)
 # HOMEPOS  -0.031 -0.827 -0.849 -0.638
 # ICTRES    0.064 -0.300  0.134 -0.075 -0.160
 # ESCS      0.120  0.070  0.003  0.096 -0.241 -0.024
-{{< / highlight >}}
+```
 
 Hay una correlación insidiosa (aunque prevista) entre algunas de las variables más importantes que tiene el efecto previsto: unos efectos que se intercancelan. Pero globalmente, sí, se aprecia que más es más. Los cacharrillos electrónicos van a su aire (porque parece que se los pueden permitir todos y cualquier gañán tiene mejor móvil que yo) y ni ponen ni quitan.
 
 Eso en cuanto a lo fijo. En cuanto a lo aleatorio,
 
-{{< highlight R >}}
+```r
 dotplot(ranef(modelo, condVar = TRUE))
-{{< / highlight >}}
+```
 
 dibuja, primero,
 

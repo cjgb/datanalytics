@@ -34,7 +34,7 @@ _[Nota: esta información sobre las defunciones diarias no tiene asociada la cau
 
 Llegamos y diseñamos y construimos un sistema que automatizaba una serie de tareas que antes eran manuales (recoger los datos de mortalidad, ajustar los modelos, crear los informes, etc.) y los reemplazamos por un sistema más propio del siglo que corre. En particular, sustituimos los informes en PDF por un portal _web_ (perfectible, sí, pero _web_).
 
-Al no estar atados por las servidumbres de _cuasipapel_ que es el PDF, pensamos en dejar la aplicación abierta al público. Pero no, se impusieron las razones _históricas_: había que cerrar el acceso a público en general primero y a las comunidades autónomas a toda información que no le competiese directamente después. Así que montamos toda una infraestructura de seguridad, niveles, accesos, permisos, etc. simplemente para que _tú_ no pudieras ver esos datos.
+Al no estar atados por las servidumbres de _cuasipapel_ que es el PDF, pensamos en dejar la aplicación abierta al público. Pero no, se impusieron las razones _históricas_: había que cerrar el acceso al público en general primero y a las comunidades autónomas a toda información que no le competiese directamente después. Así que montamos toda una infraestructura de seguridad, niveles, accesos, permisos, etc. simplemente para que _tú_ no pudieras ver esos datos.
 
 Y ahora la pregunta es: ¿se manifiesta el coronavirus en los sistemas de monitorización diaria de la mortalidad? Pues no lo sabemos. Solo unos cuantos pueden verlo. Yo qué sé. Pregúntales.
 

@@ -25,7 +25,7 @@ url: /2020/06/29/sobremuestreando-x-y-no-y/
 
 Construyo unos datos (artificiales, para conocer _la verdad_):
 
-{{< highlight R >}}
+```r
 n <- 10000
 x1 <- rnorm(n)
 x2 <- rnorm(n)
@@ -33,11 +33,11 @@ probs <- -2 + x1 + x2
 probs <- 1 / (1 + exp(-probs))
 y <- sapply(probs, function(p) rbinom(1, 1, p))
 dat <- data.frame(y = y, x1 = x1, x2 = x2)
-{{< / highlight >}}
+```
 
 Construyo un modelo de clasificación (logístico, que hoy no hace falta _inventar_, aunque podría ser cualquier otro):
 
-{{< highlight R >}}
+```r
 summary(glm(y ~ x1 + x2, data = dat, family = binomial))
 #Call:
 #glm(formula = y ~ x1 + x2, family = binomial, data = dat)
@@ -61,13 +61,13 @@ summary(glm(y ~ x1 + x2, data = dat, family = binomial))
 #AIC: 7379.4
 #
 #Number of Fisher Scoring iterations: 5
-{{< / highlight >}}
+```
 
 Correcto.
 
 Sobremuestreo. Por construcción, hay más casos 1 que 0. Así que igualo las clases y reajusto:
 
-{{< highlight R >}}
+```r
 tmp <- split(dat, dat$y)
 tmp[["0"]] <- tmp[["0"]][sample(1:nrow(tmp[["0"]]), nrow(tmp[["1"]])),]
 dat_oversampling <- do.call(rbind, tmp)
@@ -94,22 +94,22 @@ summary(glm(y ~ x1 + x2, data = dat_oversampling, family = binomial))
 #AIC: 3807
 #
 #Number of Fisher Scoring iterations: 4:
-{{< / highlight >}}
+```
 
 Aparece un sesgo. Estamos incrementando la probabilidad de 1. En la regresión logística eso se manifiesta (únicamente, de hecho), en el término independiente. Hay mil maneras de reajustar ese tipo de modelos, pero no voy a entrar en eso hoy.
 
 Lo que ocurre es que hay otra manera de muestrear: usando una variable muy correlacionada con `y` pero que no sea `y`. P.e., una variable muy predictiva en el modelo. Existen muchas variantes de la cosa, pero aquí utilizaré la variante más simple conceptualmente:
 
-{{< highlight R >}}
+```r
 dat$split <- dat$x1 > .5
 tmp <- split(dat, dat$split)
 tmp[["FALSE"]] <- tmp[["FALSE"]][sample(1:nrow(tmp[["FALSE"]]), nrow(tmp[["TRUE"]])),]
 dat_oversampling <- do.call(rbind, tmp)
-{{< / highlight >}}
+```
 
 Así las cosas,
 
-{{< highlight R >}}
+```r
 summary(glm(y ~ x1 + x2, data = dat_oversampling, family = binomial))
 #Call:
 #glm(formula = y ~ x1 + x2, family = binomial, data = dat_oversampling)
@@ -133,7 +133,7 @@ summary(glm(y ~ x1 + x2, data = dat_oversampling, family = binomial))
 #AIC: 5146.9
 #
 #Number of Fisher Scoring iterations: 5
-{{< / highlight >}}
+```
 
 ¡Sin sesgo!
 

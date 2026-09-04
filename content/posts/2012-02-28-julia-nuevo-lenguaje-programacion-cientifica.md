@@ -27,7 +27,7 @@ Bueno, pues estoy un poco enfadado con ellos. Me pasa un poco como a los catalan
 
 El original es
 
-{{< highlight R >}}
+```r
 library(R.utils)
 
 assert = function(bool) {
@@ -56,13 +56,13 @@ pisum = function() {
 
 assert(abs(pisum()-1.644834071848065) < 1e-12);
 timeit("pi_sum", pisum, times=1)
-{{< / highlight >}}
+```
 
 y tarda 10760 milisegundos en mi máquina.
 
 El código alternativo,
 
-{{< highlight R >}}
+```r
 pisum.cjgb <- function() {
     for (j in 1:500)
         t <- sum( (1:10000)^(-2) )
@@ -71,13 +71,13 @@ pisum.cjgb <- function() {
 
 assert(abs(pisum.cjgb()-1.644834071848065) < 1e-12);
 timeit("pi_sum_cjgb", pisum.cjgb, times=1)
-{{< / highlight >}}
+```
 
 tarda 510 milisegundos, veinte veces menos.
 
 En cualquier caso, me viene sorprendiendo mucho la velocidad de JavaScript. ¿Recordáis mi [entrada sobre las ocho reinas](https://datanalytics.com/2012/01/23/nueve-reinas-con-sas-y-r-tambien/)? La versión en JavaScript,
 
-{{< highlight html >}}
+```html
 <body onload="javascript:cnt=0;
 
 function backTrack(trial,next){
@@ -110,7 +110,7 @@ function perm(p,l){
 perm([],[1,2,3,4,5,6,7,8,9,10,11])">
 
 </body>
-{{< / highlight >}}
+```
 
 (cópiese el código anterior en un fichero `loquesea.html` y ábrase en el navegador) es notablemente más rápido que el equivalente en R.
 

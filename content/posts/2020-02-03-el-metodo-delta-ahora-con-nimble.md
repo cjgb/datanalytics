@@ -24,7 +24,7 @@ url: /2020/02/03/el-metodo-delta-ahora-con-nimble/
 
 Casi autoexplicativo:
 
-{{< highlight R >}}
+```r
 library(nimble)
 
 src <- nimbleCode({
@@ -41,7 +41,7 @@ mcmc.out <- nimbleMCMC(code = src,
 out <- as.data.frame(mcmc.out)
 
 # hist(out$T_half), sd(out$T_half), etc.
-{{< / highlight >}}
+```
 
 Cosas:
 

@@ -26,9 +26,9 @@ En primer lugar, para los desavisados: subversion es un programa para gestionar 
 
 R-Forge proporciona a los desarrolladores un repositorio central de subversion. ¿Cómo se trabaja con él? En primer lugar, hay que hacer un _checkout_ (descarga inicial) del contenido del código. Por ejemplo,
 
-{{< highlight bash >}}
+```bash
 svn checkout svn+ssh://developername@scm.r-forge.r-project.org/svnroot/pxr
-{{< / highlight >}}
+```
 
 donde la URL apunta al repositorio en cuestión. Una vez hecho eso, se crea un directorio, `pxr`, con una copia del código existente en ese momento en el servidor.
 
@@ -36,7 +36,7 @@ Una sesión típica de desarrollo usando subversion consiste en:
 
 
 
-{{< highlight bash >}}
+```bash
     cd /my/svn/directory      # en este ejemplo, el directorio pxr
     svn update                # baja los cambios realizados por terceros
     ...                      # creas ficheros, editas, ¡trabajas!
@@ -46,17 +46,17 @@ Una sesión típica de desarrollo usando subversion consiste en:
     svn ci -m "comentario"    # subes los cambios al servidor con un "commit" (ci)
                               # ¡importantísimo explicar en qué han
                               # consistido en el comentario!
-{{< / highlight >}}
+```
 
 
 Con esos comandos se resume el 95% de la interacción de los desarrolladores con subversion. Existen dos más de uso relativamente frecuente,
 
 
 
-{{< highlight bash >}}
+```bash
 svn mv /objeto/a  /objeto/b
 svn rm /objeto/obsoleto
-{{< / highlight >}}
+```
 
 
 para mover y borrar ficheros de manera que subversion quede notificado de los cambios realizados.

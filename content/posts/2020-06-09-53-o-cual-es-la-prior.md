@@ -38,24 +38,24 @@ Luego, en la documentación suceden cosas interesantísimas que no nos cuentan p
 
 Pero, sin entrar en mayores disquisiciones,
 
-{{< highlight R >}}
+```r
 prop.test(52, 53)$conf.int
 # [1] 0.8862027 0.9990143
-{{< / highlight >}}
+```
 
 y por otro lado,
 
-{{< highlight R >}}
+```r
 prop.test(53, 53)$conf.int
 # [1] 0.9158109 1.0000000
-{{< / highlight >}}
+```
 
 e incluso, si se combinan las pruebas de ambos IgX,
 
-{{< highlight R >}}
+```r
 prop.test(105, 106)$conf.int
 # [1] 0.9409899 0.9995073
-{{< / highlight >}}
+```
 
 Así que especificar un valor del 99% implica el uso de algún tipo de priori informativa. U otras cosas.
 

@@ -21,7 +21,7 @@ url: /2018/09/28/hoy-he-asistido-a-un-evento-sobre-ciencia-de-datos-en-cabify-do
 
 ### La primera parte
 
-Métodos sofisticados (técnica, metodológicamente) para hacer más eficiente la movilidad urbana. _Nowcasts_ en lugar de _forecasts_ (¡genial!), técnicas de NPL aplicadas en otros contextos (¡bien!), _vector embeding)_ (hummmm...),... y, en general un derroche de talento para conseguir hacer más con menos (y, por el camino, ganar algo de dinero, por supuesto).
+Métodos sofisticados (técnica, metodológicamente) para hacer más eficiente la movilidad urbana. _Nowcasts_ en lugar de _forecasts_ (¡genial!), técnicas de NPL aplicadas en otros contextos (¡bien!), _vector embedding)_ (hummmm...),... y, en general un derroche de talento para conseguir hacer más con menos (y, por el camino, ganar algo de dinero, por supuesto).
 
 ### La segunda parte
 

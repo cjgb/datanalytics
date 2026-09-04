@@ -32,7 +32,7 @@ $$P_r \le P_c < P_i.$$
 
 $P_r$ es la potencia real, la de la línea negra en el gráfico anterior.
 
-$P_i$ es la potencia máxima que da de sí la instalación eléctrica por el grosor de los cables, etc. Si se alcanza, por seguridad, sucede eso que antes se llamaba _saltar los plomos_ y ahora se dice mangnetonosequé. Además, esos límites operan tanto globalmente ---se puede ir la luz de la casa--- como por circuito ---podría saltar solo el de la cocina, etc.---.
+$P_i$ es la potencia máxima que da de sí la instalación eléctrica por el grosor de los cables, etc. Si se alcanza, por seguridad, sucede eso que antes se llamaba _saltar los plomos_ y ahora se dice _magnetonosequé_. Además, esos límites operan tanto globalmente ---se puede ir la luz de la casa--- como por circuito ---podría saltar solo el de la cocina, etc.---.
 
 El más jugoso es $P_c$, que es el de la potencia contratada. Si uno contrata, por ejemplo, como yo, 3.3 kW tiene realmente 3.45 kW (sí, en ciertos ámbitos, 3.3 = 3.45). Esa es la línea roja que aparece en el gráfico (y la línea azul corresponde a la otra potencia popular, la de 2.2 kW, creo). Al contratar 3.3 kW, la compañía eléctrica se compromete a proveerte de hasta 3.45 kW por un módico precio de unos 16 céntimos por kW y día (es decir, medio euro al día en mi caso). Tal es el precio del milagro cotidiano de que se encienda una luz al pulsar un interruptor.
 

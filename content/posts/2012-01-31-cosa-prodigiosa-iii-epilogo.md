@@ -23,10 +23,9 @@ Escribo desde mi retiro vacacional, en el hemisferio inhabitual, sin _wifis_ y c
 
 Tropecé con el juego que describí en el libro _A Mathematician Plays The Stock Market_, de John Allen Paulos. Y creo que se equivoca en las probabilidades de los juegos: si en lugar de las que indiqué en mi primera entrada utilizo las suyas, me da la impresión de que el tercer juego es perdedor. ¿Será un _bug_ en el libro? (¿O es que la dislexia me volvió a confundir?)
 
-Paulos cita a el trabajo del físico español [Juan Parrondo ](http://es.wikipedia.org/wiki/J._M._R._Parrondo), en cuya página hay una[ discusión muy accesible sobre estos juegos _paradójicos_](http://seneca.fis.ucm.es/parr/GAMES/inbrief.html) así como artículos algo más sesudos sobre el tema.
+Paulos cita al trabajo del físico español [Juan Parrondo ](http://es.wikipedia.org/wiki/J._M._R._Parrondo), en cuya página hay una[ discusión muy accesible sobre estos juegos _paradójicos_](http://seneca.fis.ucm.es/parr/GAMES/inbrief.html) así como artículos algo más sesudos sobre el tema.
 
-[![](/img/2012/01/rules.gif)
-](/img/2012/01/rules.gif)
+![](/img/2012/01/rules.gif)
 
 Y más allá de las referencias y las debidas gentilezas con respecto a mis fuentes, aprovecho de pasada para recordar a mis lectores el concepto de **supermartingala** y el que podría ser considerado su teorema más importante.
 

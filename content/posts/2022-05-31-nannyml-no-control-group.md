@@ -28,7 +28,7 @@ Con esa info, es trivial estimar el error cometido (_accuracy_) por el modelo (e
 
 $$ \frac{\sum n_i p_i}{\sum n_i}.$$
 
-Ahora nos preguntan: ¿es posible estimar el error qu cometería el modelo en Zaragoza sin necesidad de utilizar un grupo de validación? La respuesta es que sí de cumplirse:
+Ahora nos preguntan: ¿es posible estimar el error que cometería el modelo en Zaragoza sin necesidad de utilizar un grupo de validación? La respuesta es que sí de cumplirse:
 
 1. Damos por bueno que el modelo se comporta igual en Madrid y en Zaragoza. Es decir, que las $p_i$ son iguales en ambas ciudades (o, expresado con más palabras, que si una observación de Zaragoza cae en el nodo $G_i$, su probabilidad _de éxito_ es la misma que si fuese de Madrid).
 1. Que, de cambiar algo, entre Madrid y Zaragoza, es solo el tamaño relativo de los grupos $G_i$.
@@ -42,7 +42,7 @@ donde $n^\prime_i$ es el tamaño del grupo $G_i$ en Zaragoza.
 [Es obvio en este punto que la elección de árboles para ilustrar el argumento anterior puede relajarse sustancialmente pero que la discusión y la notación usadas más arriba habrían resultado mucho más oscuras. Pero confío en la madurez del lector para realizar las modificaciones conceptuales necesarias para hilar un argumento general.]
 
 A esta trivialidad se la conoce como
-[_Confidence-based Performance Estimation_](https://nannyml.readthedocs.io/en/main/how_it_works/performance_estimation.html), forma parte de una libraría innecesaria de Python llamada
+[_Confidence-based Performance Estimation_](https://nannyml.readthedocs.io/en/main/how_it_works/performance_estimation.html), forma parte de una librería innecesaria de Python llamada
 [NannyML](https://nannyml.readthedocs.io/en/main/index.html)
 y nos la han querido vender en
 [_Predict Your Model’s Performance (Without Waiting for the Control Group)_](https://towardsdatascience.com/predict-your-models-performance-without-waiting-for-the-control-group-3f5c9363a7da)

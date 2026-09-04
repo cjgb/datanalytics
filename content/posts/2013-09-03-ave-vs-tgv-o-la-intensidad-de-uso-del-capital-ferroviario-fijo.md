@@ -25,14 +25,12 @@ Hoy he recibido el siguiente _tuit_:
 
 Siguiendo las instrucciones indicadas, he llegado a un mapa de los derredores de Ginebra en el que se ven los trenes en movimiento (en tiempo real).
 
-¿Existe tal cosa en España? Pues sí, usando el _zoom_ del mapa y arrastrando convenientemente, uno puede llegar a ver el estado de la línea Madrid-Zaragoza:
+¿Existe tal cosa en España? Pues sí, usando el zum del mapa y arrastrando convenientemente, uno puede llegar a ver el estado de la línea Madrid-Zaragoza:
 
-[![](/img/2013/09/ave_madrid.png#center)
-](/img/2013/09/ave_madrid.png#center)
+![](/img/2013/09/ave_madrid.png#center)
 
 Claro, y uno también puede ir a París y echarle un vistazo al estado de un tramo de la línea París-Lyon a la misma hora:
 
-[![](/img/2013/09/tgv_paris.png#center)
-](/img/2013/09/tgv_paris.png#center)
+![](/img/2013/09/tgv_paris.png#center)
 
 El etc., ejercicio para mis lectores (incluso para los del "sin AVE|ciencia|olivar|textil|antracita no hay futuro").

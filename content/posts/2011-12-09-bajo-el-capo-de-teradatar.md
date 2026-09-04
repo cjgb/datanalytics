@@ -32,17 +32,17 @@ El paquete contiene muchas llamadas a funciones (`median`, `mean`, `summary`, et
 Pero un día tuve la buena suerte de que mi gato se paseó por encima del teclado y hete aquí lo que se ve que la bestia dio por componer:
 
 
-{{< highlight R >}}
+```r
 summary.td.data.frame
 teradataR:::.td.genmedian
-{{< / highlight >}}
+```
 
 
 ¡Ahí se descubrió el bollo! Porque, efectivamente, apareció en pantalla el código de ambas funciones. La primera, se conoce, calcula determinados estadísticos sobre cada una de las columnas de una tabla. La segunda, utilizada junto a muchas otras análogas por la primera, es una función no exportada del paquete que genera una consulta SQL para calcular la mediana de una columna (numérica) determinada.
 
 La consulta que genera `td.genmedian` es algo así como:
 
-{{< highlight R >}}
+```r
 SELECT "median"
 FROM (
   SELECT
@@ -60,7 +60,7 @@ FROM (
 ) T1
 WHERE ("xrnk" + "xrnk" = "gcnt" + 2 AND "gcnt" MOD 2 = 0) OR
 ("xrnk" + "xrnk" = "gcnt" + 1 AND "gcnt" MOD 2 = 1)
-{{< / highlight >}}
+```
 
 La consulta se entiende mejor si se ejecuta la subconsulta `T1` sobre una tabla chiquita. Así, para una tabla con un número par de registros construye una tabla con el mismo número de registros y un aspecto similar a
 

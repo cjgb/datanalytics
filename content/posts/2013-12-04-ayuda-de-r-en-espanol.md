@@ -20,17 +20,17 @@ url: /2013/12/04/ayuda-de-r-en-espanol/
 
 He ejecutado hoy tres ficheros secuencialmente:
 
-{{< highlight bash >}}
+```bash
 #!/bin/bash
 
 wget -nd -r -l1 --accept gz https://stat.ethz.ch/pipermail/r-help-es/
 zcat *.gz > all_mails
 rm *.gz
-{{< / highlight >}}
+```
 
 en sh,
 
-{{< highlight python >}}
+```python
 #!/usr/bin/python
 
 import mailbox
@@ -40,11 +40,11 @@ from time import mktime
 for message in mailbox.mbox('all_mails'):
     fecha = parsedate(message["date"])
     print str(fecha[0]) + "-" + str(fecha[1])
-{{< / highlight >}}
+```
 
 en Python y finalmente
 
-{{< highlight R >}}
+```r
 #!/usr/bin/Rscript
 
 library(zoo)
@@ -58,12 +58,11 @@ meses <- zoo(meses, order.by = strptime(names(meses), format = "%Y-%m-%d"))
 png("uso_r_help_es.png")
     plot(meses)
 dev.off()
-{{< / highlight >}}
+```
 
 en R para construir
 
-[![](/img/2013/12/uso_r_help_es.png#center)
-](/img/2013/12/uso_r_help_es.png#center)
+![](/img/2013/12/uso_r_help_es.png#center)
 
 y constatar que la [lista de correo de ayuda de R en español](https://stat.ethz.ch/mailman/listinfo/r-help-es) está en crisis.
 

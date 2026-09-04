@@ -28,7 +28,7 @@ Con ese objetivo, a su implementación de SQL ha añadido una serie de funciones
 
 Dado, además, [el entusiasmo que tiene Teradata por R](http://www.teradatamagazine.com/v09n03/Connections/R-you-ready/) —y retomo con eso el hilo del artículo— entendí que la empresa estaría encantada de dar a conocer su tecnología a la comunidad de usuarios de R. Así que contacté con las oficinas españolas de Teradata con el fin de ofrecerles la posibilidad de hacernos una demostración práctica e ilustrarnos en sus posibles usos en el seno de las Jornadas.
 
-El primer contacto, por correo electrónico, fue poco fructífero: pasaron días sin recibir respuesta. Al final, tras unas cuantas llamadas telefónicas, pude contactar con la persona que me indicaron se encarga _de ésas cosas_ en la empresa. Le expliqué quiénes éramos, qué estábamos organizando, cuál era nuestro interés y le pregunté por la posibilidad de que alguno de sus consultores nos ilustrase en vivo las bondades y aplicaciones del paquete que han creado frente a una audiencia que, me consta, tiene el máximo interés por este tipo de asuntos. Y en la que, todo hay que decirlo, hay representanes de organizaciones que son clientas de sus productos.
+El primer contacto, por correo electrónico, fue poco fructífero: pasaron días sin recibir respuesta. Al final, tras unas cuantas llamadas telefónicas, pude contactar con la persona que me indicaron se encarga _de ésas cosas_ en la empresa. Le expliqué quiénes éramos, qué estábamos organizando, cuál era nuestro interés y le pregunté por la posibilidad de que alguno de sus consultores nos ilustrase en vivo las bondades y aplicaciones del paquete que han creado frente a una audiencia que, me consta, tiene el máximo interés por este tipo de asuntos. Y en la que, todo hay que decirlo, hay representantes de organizaciones que son clientas de sus productos.
 
 ¿Creerán mis lectores que se excusó con cuatro palabras? ¡Dizque habían _cerrado_ el año y que no pensaban participar en eventos que no fuesen _propios_! ¡Cuán brusco y poco delicado remate para un esfuerzo que sin duda ameritaba un final más amable!
 
@@ -36,10 +36,10 @@ Así que como quedó claro que tan falto está Teradata de recursos para dar pub
 
 Descargué primero el paquete de la página arriba indicada —para lo que hube de registrarme previamente en su portal. La instalación, todo ha de decirse, fue inmediata y sin problemas. El paquete apenas ocupa, en gran medida porque lo aligera lo magro de su documentación. Ha de notarse que depende del paquete `RODBC`, del que ya disponía.
 
-Y comencé el análisis de TeratataR:
+Y comencé el análisis de TeradataR:
 
 
-{{< highlight R >}}
+```r
     library( teradataR )
     #Loading required package: RODBC
     tdConnect( "prod" )           # servidor de producción
@@ -59,35 +59,35 @@ Y comencé el análisis de TeratataR:
     #[6] "DES_APELLIDO"
 
     #585592 rows                   # exacto! qué bien!
-{{< / highlight >}}
+```
 
 
 Pero a partir de este punto comenzaron mis infortunios. Aunque pude ejecutar
 
 
-{{< highlight R >}}
+```r
     summary( tdf )
-{{< / highlight >}}
+```
 
 
 sin más problemas que el de una excesiva demora para obtener una salida equivalente a `summary` sobre un `dataframe` habitual, el mismo comando con una tabla algo sustancialmente más teradatesca (es decir, grande) devolvió
 
 
-{{< highlight R >}}
+```r
     summary( tdf )
     #Error in quan[[3]] : subscript out of bounds
-{{< / highlight >}}
+```
 
 
 después de media hora de ejecución. Por otra parte, `hist( tdf )` sobre la tabla más pequeña creó una cosa que no era un histograma sino un amazacotado gráfico de puntos en el que no se sacaba nada en claro. Además, en la tabla grande, al tratar de calcular la mediana de una columna numérica, obtuve
 
 
-{{< highlight R >}}
+```r
     median( tdf["IMPORTE_TOTAL"] )
     # [1] NA NA
     # Warning message:
     # In median.td.data.frame(tdf["IMPORTE_TOTAL"]) : NAs introduced by coercion
-{{< / highlight >}}
+```
 
 
 ¡Nulos después de un buen rato! Claro, no pude calcular la media por culpa de los nulos... pero al comprobar los valores en la tabla observé que no había ninguno. O eso me pareció porque, digo yo, una aplicación tan sólida como Teradata ha de ser necesariamente más de fiar que los miopes ojos de uno.
@@ -96,4 +96,4 @@ El paseo por estas elementales funciones de TeradataR resultó atrozmente frustr
 
 Termino acá mi paseo por TeradataR con la decepción de no haber podido prestar mejor servicio a la comunidad de usuarios de Teradata y R y con el propósito de enmendarme y aprender lo que fuere necesario por no dejar malparada la reputación de unos y otros.
 
-¡Ojalá pudiésemos contar en las Jornadas de R con un verdadero consultor de Teratada que nos guiase más certeramente que yo por los arcanos del paquete!
+¡Ojalá pudiésemos contar en las Jornadas de R con un verdadero consultor de Teradata que nos guiase más certeramente que yo por los arcanos del paquete!

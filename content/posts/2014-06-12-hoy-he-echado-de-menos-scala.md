@@ -22,10 +22,10 @@ url: /2014/06/12/hoy-he-echado-de-menos-scala/
 
 Hoy he escrito
 
-{{< highlight R >}}
+```r
 last.date <- max(Filter(function(x) format(x, "%m") == "03",
 	all.filled.data$Date))
-{{< / highlight >}}
+```
 
 y he echado mucho de menos [Scala](http://en.wikipedia.org/wiki/Scala_(programming_language)).
 

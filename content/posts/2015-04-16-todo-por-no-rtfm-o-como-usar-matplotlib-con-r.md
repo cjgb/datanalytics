@@ -24,7 +24,7 @@ Quien escribió [Call matplotlib from R](http://gallery.rcpp.org/articles/matplo
 
 Le bastaba hacer
 
-{{< highlight R >}}
+```r
 library(rPython)
 
 x <- seq(0, 2*pi, length = 100)
@@ -42,12 +42,11 @@ python.exec("plt.plot(x, sx)")
 python.exec("plt.plot(x, cx, '--r', linewidth=2) ")
 python.exec("plt.legend(('sin(x)', 'cos(x)'))")
 python.exec("plt.savefig('2015-04-02-pyplot.png')")
-{{< / highlight >}}
+```
 
 para obtener
 
-[![2015-04-02-pyplot](/img/2015/04/2015-04-02-pyplot.png#center)
-](/img/2015/04/2015-04-02-pyplot.png#center)
+![2015-04-02-pyplot](/img/2015/04/2015-04-02-pyplot.png#center)
 
 con una fracción del esfuerzo y sin reinventar la rueda.
 

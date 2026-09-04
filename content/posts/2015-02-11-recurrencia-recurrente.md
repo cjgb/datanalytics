@@ -24,7 +24,7 @@ Pregunta Antonio Sánchez Chinchón cómo mejorar la parte menos vistosa e imagi
 
 La respuesta está en la recurrencia. He aquí mi versión del código:
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 library(gridExtra)
 
@@ -72,7 +72,7 @@ for (i in 1:nrows) {
 }
 
 dev.off()
-{{< / highlight >}}
+```
 
 El resultado es
 

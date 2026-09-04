@@ -22,7 +22,7 @@ url: /2014/02/13/mi-solucion-al-otro-problema-del-cumpleanos/
 Pues eso, que me piqué —y parte de la culpa la tiene [este sujeto](http://eliasron.com/)— con [el otro problema del cumpleaños](https://datanalytics.com/2014/02/05/el-otro-problema-del-cumpleanos/) y he aquí el código —exacto salvo redondeos, no mediante simulaciones— que he usado para _resolverlo_:
 
 
-{{< highlight R >}}
+```r
 f <- function(n, k = 365, v = NULL){
 
   if(is.null(v))
@@ -42,7 +42,7 @@ f(2287)
 #0.5003708
 f(2286)
 #0.4994142
-{{< / highlight >}}
+```
 
 Lo que hay al final son los ensayos últimos de mi mecanismo de cutrebúsqueda binaria para acotar la solución usando la función `f`. Esta función calcula la probabilidad de que una distribución aleatoria de `n` bolas en `k` urnas no deje vacía ninguna de ellas.
 

@@ -42,7 +42,7 @@ y si suponemos que el número de éxitos es igual al de fracasos, conforme $n$ c
 $$\sigma^2 \sim \frac{1/4 n^2}{(n+1)n^2} \sim \frac{1}{4n}$$
 
 
-Y sisolo hay aciertos, decrece como
+Y si solo hay aciertos, decrece como
 
 
 $$\sigma^2 \sim \frac{ bn }{(n+b+1)(n+b)^2} \sim \frac{b}{n^2}$$

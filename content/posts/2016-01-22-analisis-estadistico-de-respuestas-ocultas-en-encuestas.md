@@ -31,7 +31,7 @@ $$ \hat{\theta} = \frac{1 - q - \hat{p}}{1 - 2q}.$$
 
 Así,
 
-{{< highlight R >}}
+```r
 set.seed(12)
 n <- 10000
 unknown.par <- 0.2
@@ -42,20 +42,20 @@ results <- as.numeric(hidden.res == biased.coin)
 get.theta <- function(p, q) (1 - p - q) / (1 - 2*q)
 get.theta(mean(results), coin.par)
 # 0.19
-{{< / highlight >}}
+```
 
 Y todo es estupendo.
 
 ¿Y si queremos intervalos de confianza, etc., del parámetro estimado? Podemos muestrear una $B(\hat{p})$ y ver cuál sería la distribución resultante de $\theta$:
 
-{{< highlight R >}}
+```r
 muestras <- replicate(1000,
   mean(rbinom(n, 1, unknown.par) == biased.coin))
 muestras <- sapply(muestras, function(x)
   get.theta(x, coin.par))
 hist(muestras)
 # etc.
-{{< / highlight >}}
+```
 
 Pero el procedimiento anterior tiene algunos caveats:
 
@@ -65,7 +65,7 @@ Pero el procedimiento anterior tiene algunos caveats:
 
 Afortunadamente, existe un procedimiento alternativo:
 
-{{< highlight R >}}
+```r
 library(rstan)
 standat <- list(N = n, pcoin = coin.par, x = sum(results))
 
@@ -91,7 +91,7 @@ fit <- stan(model_code = stanmodelcode,
             chains=4, thin=10)
 tmp <- as.data.frame(fit)
 hist(tmp$theta)
-{{< / highlight >}}
+```
 
 
 
@@ -101,7 +101,6 @@ hist(tmp$theta)
 
 Que genera
 
-[![parametro_oculto_encuestas](/img/2016/01/parametro_oculto_encuestas.png#center)
-](/img/2016/01/parametro_oculto_encuestas.png#center)
+![parametro_oculto_encuestas](/img/2016/01/parametro_oculto_encuestas.png#center)
 
 sin mayores complicaciones (ni teóricas ni prácticas). Además, como ventaja adicional, uno siempre puede incluir la información previamente conocida sobre la distribución de $\theta$ en el lugar correspondiente en el código anterior.

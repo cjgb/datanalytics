@@ -24,7 +24,7 @@ Estoy harto. La gente de CRAN me devolvió (con errores) un paquete que trataba 
 
 `R CMD check --as-cran etc.`
 
-y el log era una patena. Pero había un par de _NOTES_ al pasar el test sobre la versión de desarrollo de R, `r-devel`. No solo hay que probar los paquetes en la versión que hay sino también en la que vendrá (tal y como está docuentado).
+y el log era una patena. Pero había un par de _NOTES_ al pasar el test sobre la versión de desarrollo de R, `r-devel`. No solo hay que probar los paquetes en la versión que hay sino también en la que vendrá (tal y como está documentado).
 
 Mis paquetes en desarrollo están en [`r-forge`](https://r-forge.r-project.org). Hasta no hace tanto, `r-forge` corría _checks_ en las dos versiones preceptivas de R, la actual y la de desarrollo. Pero desde hace un tiempo dejó de hacerlo en la segunda.
 
@@ -39,7 +39,7 @@ Como buen perezoso, perdí mucho más tiempo del que me habría costado instalar
 En el último enlace se indican los detalles de la configuración pero los reitero, por referencia, aquí:
 
 1. Una vez registrados en Travis CI, hay que pedirle que busque (o sincronice) tus proyectos en GitHub. Hay que marcar aquellos sobre los que se quieren realizar pruebas.
-2. Hay que copiar en el directorio raíz del paquete el fichero de configuración `.travis.yml`, esencialmente copiando el contenido de [este](https://github.com/metacran/r-builder/blob/master/sample.travis.yml) y adaptádolo si procede (en mi caso, ni eso).
+2. Hay que copiar en el directorio raíz del paquete el fichero de configuración `.travis.yml`, esencialmente copiando el contenido de [este](https://github.com/metacran/r-builder/blob/master/sample.travis.yml) y adaptándolo si procede (en mi caso, ni eso).
 3. Hay que añadir al fichero `.Rbuildignore` en la raíz del paquete el fichero anterior, [como aquí](https://github.com/cjgb/MicroDatosEs/blob/master/.Rbuildignore).
 4. Adicionalmente, se le puede añadir al fichero `README.md` una imagen que indique si el test fue exitoso o no; las instrucciones están [aquí](https://docs.travis-ci.com/user/status-images/).
 

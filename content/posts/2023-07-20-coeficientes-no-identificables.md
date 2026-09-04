@@ -105,7 +105,7 @@ Es decir, salvo que sus prioris sean muy estrictas y las _anclen_ en valores cas
 
 Es decir, $\mu_a$ y $\mu_d$ por sí solas no significan nada. Traducido a términos no técnicos, no sabríamos si los estudiantes lo hicieron muy mal porque el examen era muy difícil o que el examen era muy sencillo pero los estudiantes no estaban preparados. Si desconocemos ambas premisas, ninguna puede establecerse.
 
-La incertidumbre asociada a los parámetros en cuestión se propaga por el resto de los parámetros de interés ---ejercicio para el lector: ¿qué pasará con la incertidumbre de las abilidades individuales de los alumnos?--- y no queda claro qué es lo que _aprende_ el modelo o qué conclusiones puedan extraerse de él.
+La incertidumbre asociada a los parámetros en cuestión se propaga por el resto de los parámetros de interés ---ejercicio para el lector: ¿qué pasará con la incertidumbre de las habilidades individuales de los alumnos?--- y no queda claro qué es lo que _aprende_ el modelo o qué conclusiones puedan extraerse de él.
 
 ## V.
 

@@ -44,7 +44,7 @@ El siguiente código —y supongo que las mejoras que a él realicen los lectore
 
 
 
-{{< highlight R >}}
+```r
     av.dist <- function( n.dim, n.iter ){
            a <- b <- rep( 0, n.dim )
            a[1] <- 0.5
@@ -64,11 +64,11 @@ El siguiente código —y supongo que las mejoras que a él realicen los lectore
     foo( 2 )
     foo( 20 )
     res <- sapply( 1:100, foo )
-{{< / highlight >}}
+```
 
 
 Queda como ejercicio para mis lectores estimar el tamaño —en proporción del número total de sujetos— que quedan en la zona gris entre ambos centroides según aumenta el número de dimensiones.
 
-En resumen, el éxito del llamado análisis clúster responde en muchos casos y aplicaciones a una inercia sicológica que empuja al ser humano a la sobresimplificación. Dejada aparte la irreproducibilidad, sus efectos distorsionadores aumentan con el número de variables. Y, finalmente, muchos profesionales que aplican este tipo de estudios hacen dejación de sus responsabilidades —o las ignoran— cuando soslayan la variabilidad de los sujetos alrededor de sus prototipos y pasan or encima del problema que suponen las zonas grises.
+En resumen, el éxito del llamado análisis clúster responde en muchos casos y aplicaciones a una inercia sicológica que empuja al ser humano a la sobresimplificación. Dejada aparte la irreproducibilidad, sus efectos distorsionadores aumentan con el número de variables. Y, finalmente, muchos profesionales que aplican este tipo de estudios hacen dejación de sus responsabilidades —o las ignoran— cuando soslayan la variabilidad de los sujetos alrededor de sus prototipos y pasan por encima del problema que suponen las zonas grises.
 
 Y la semana que viene, más.

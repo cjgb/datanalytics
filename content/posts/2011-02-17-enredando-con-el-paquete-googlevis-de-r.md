@@ -33,7 +33,7 @@ El código utilizado para generarlo es:
 
 
 
-{{< highlight R >}}
+```r
 library(googleVis)
 library(reshape)
 
@@ -58,6 +58,6 @@ goo.dat <- melt(goo.dat, id.vars = "date")
 
 goo.tl <- gvisAnnotatedTimeLine(goo.dat, datevar = "date",
             numvar = "value", idvar = "variable")
-{{< / highlight >}}
+```
 
 Finalmente, hay que advertir que no es inmediato el publicar estas visualizaciones en bitácoras como ésta (que utiliza Wordpress). Los detalles de cómo hacerlo, [en este enlace](http://extats.blogspot.com/2011/02/inserting-google-visualizations-in.html).

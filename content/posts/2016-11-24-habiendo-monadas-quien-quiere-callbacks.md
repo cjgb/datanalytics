@@ -33,7 +33,7 @@ Y aunque
 
 inspirado por todo lo anterior, el otro día escribí este pequeño bloque de código que, aun siendo mío, me maravilla:
 
-{{< highlight R >}}
+```r
 library(magrittr)
 library(future)
 
@@ -53,6 +53,6 @@ query.node <- function(x){
 }
 
 res <- query.node(1) %>% query.children %>% query.children
-{{< / highlight >}}
+```
 
 Ahora, en serio, ¿quién quiere _callbacks_?

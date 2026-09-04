@@ -24,9 +24,9 @@ Parcialmente en agradecimiento a [Revolution Analytics](http://www.revolutionana
 El paquete `foreach` contiene, esencialmente, una única función, `foreach`, que, en su forma más básica, permite ejecutar bucles con una sintaxis un tanto peculiar:
 
 
-{{< highlight R >}}
+```r
 foreach( i = 1:3 ) %do% log( i )
-{{< / highlight >}}
+```
 
 
 Volveré sobre algunas operaciones interesantes y bastante útiles que permite realizar esta función porque, de todas ellas, hoy me ocuparé solo de una: la que abre la puerta de una manera sencilla a la paralelización de bucles.
@@ -34,9 +34,9 @@ Volveré sobre algunas operaciones interesantes y bastante útiles que permite r
 Pero no lo haré sin antes explicar la singularidad de la notación de la construcción anterior y el papel de la partícula `%do%`: en ella, `foreach( i = 1:3 )` construye un objeto de la clase `foreach`, como puede comprobarse si uno ejecuta
 
 
-{{< highlight R >}}
+```r
 class( foreach( i = 1:3 ) )
-{{< / highlight >}}
+```
 
 
 Por otro lado, `log( i )` es una expresión de R. La partícula `%do%` que media entre ellos no representa sino un operador binario que acepta como parámetros un objeto de la clase `foreach` y una expresión de R (al igual que el operador binario `%*%` acepta como parámetros matrices de una determinada dimensión y las multiplica). Este operador no hace otra cosa que ejecutar la expresión de R en la sucesión de `environments` que crea el objeto `foreach`.
@@ -44,43 +44,43 @@ Por otro lado, `log( i )` es una expresión de R. La partícula `%do%` que media
 Pero además de `%do%`, que opera secuencialmente, existe `%dopar%`, que lo hace en paralelo. Como el ejemplo
 
 
-{{< highlight R >}}
+```r
 foreach( i = 1:3 ) %dopar% log( i )
-{{< / highlight >}}
+```
 
 
 sería poco ilustrativo, utilizaremos más bien
 
 
-{{< highlight R >}}
+```r
     foreach( i = 1:3 ) %dopar% { Sys.sleep( i ); i }
-{{< / highlight >}}
+```
 
 
 Desgraciadamente, puede comprobarse que no basta con utilizar `%dopar%`:
 
 
-{{< highlight R >}}
+```r
     > system.time( foreach( i = 1:3 ) %dopar% { Sys.sleep( i ); i } )
        user  system elapsed
       0.010   0.030   6.027
     Warning message:
     executing %dopar% sequentially: no parallel backend registered
-{{< / highlight >}}
+```
 
 
 
 A pesar de utilizar `%dopar%`, R no paraleliza. Esto sucede porque es necesario _registrar_ un _motor de paralelización_. Existen varios y en mi caso utilizaré el que proporciona el paquete `doMC`, un _envoltorio_ del paquete `multicore` de Simon Urbanek. Así obtengo:
 
 
-{{< highlight R >}}
+```r
     library( doMC )   # carga el paquete multicore (MC)
     registerDoMC( 2 ) # registra MC y le informa de que
                       #   dispongo de dos núcleos
     system.time( foreach( i = 1:3 ) %dopar% { Sys.sleep( i ); i } )
     #   user  system elapsed
     #  0.030   0.010   4.044
-{{< / highlight >}}
+```
 
 
 Y, efectivamente, he conseguido paralelizar mi trivial operación.

@@ -23,7 +23,7 @@ url: /2014/11/10/remuestreos-y-tests-de-hipotesis/
 No sé si visteis [el vídeo que colgué el otro día](https://datanalytics.com/2014/11/06/estadistica-clasica-vs-remuestreo/). Trataba el problema de determinar si dos poblaciones
 
 
-{{< highlight R >}}
+```r
 beer  <- c(27, 20, 21, 26, 27, 31, 24,
         21, 20, 19, 23, 24,
         18, 19, 24, 29, 18, 20, 17,
@@ -31,22 +31,22 @@ beer  <- c(27, 20, 21, 26, 27, 31, 24,
 water <- c(21, 22, 15, 12, 21, 16, 19,
         15, 22, 24, 19, 23, 13,
         22, 20, 24, 18, 20)
-{{< / highlight >}}
+```
 
 tienen o no la misma media. Más concretamente, si la población `beer` tiene una media superior a la de `water` como en efecto sucede:
 
-{{< highlight R >}}
+```r
 mean(beer)
 #[1] 23.2
 mean(water)
 #[1] 19.22222
-{{< / highlight >}}
+```
 
 ¿Pero es esta diferencia _significativa_?
 
 Muchos plantearían un t-test:
 
-{{< highlight R >}}
+```r
 t.test(beer, water, alternative = "greater")
 # Welch Two Sample t-test
 #
@@ -58,11 +58,11 @@ t.test(beer, water, alternative = "greater")
 # sample estimates:
 #   mean of x mean of y
 # 23.20000  19.22222
-{{< / highlight >}}
+```
 
 Pero en el vídeo se propone una alternativa basada en remuestreos:
 
-{{< highlight R >}}
+```r
 remuestreo <- function(beer, water){
     x <- c(beer, water)
     new.beer  <- sample(x, length(beer),  replace = T)
@@ -75,7 +75,7 @@ muestras <- replicate(1e4, remuestreo(beer, water))
 
 mean(muestras > (mean(beer) - mean(water)))
 #[1] 0.0014
-{{< / highlight >}}
+```
 
 Si uno simula el experimento muchas veces _olvidando_ la _etiqueta_ original, obtendría la distribución natural —¿por azar?— de la diferencia de medias si no hubiese ninguna. Si la diferencia original es muy _anormal_ dentro de esa distribución, puede pensarse que las etiquetas, efectivamente, diferencian ambas poblaciones.
 
@@ -95,7 +95,7 @@ En artículos como [_Bootstrap hypothesis testing for some common statistical pr
 Efectivamente, la distribución construida por remuestreo podría no recoger adecuadamente las especificidades concretas de la hipótesis nula en cuestión, la igualdad de medias en nuestro caso. Lo que entiendo que propone el autor del artículo —¡y enmiéndeseme si yerro!— es corregir como en
 
 
-{{< highlight R >}}
+```r
 remuestreo <- function(beer, water){
     # adaptamos la distribución a la hipótesis nula
     beer <- beer - mean(beer) + mean(water)
@@ -111,6 +111,6 @@ muestras <- replicate(1e4, remuestreo(beer, water))
 
 mean(muestras > (mean(beer) - mean(water)))
 [1] 3e-04
-{{< / highlight >}}
+```
 
 esa diferencia de medias en la muestra para que la distribución resultante refleje más fielmente la hipótesis nula que se quiere evaluar.

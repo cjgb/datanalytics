@@ -42,14 +42,14 @@ Se trata de invertir el proceso. Para ello:
 
 Primero, los valores _reales_ de los parámetros _desconocidos_:
 
-{{< highlight r >}}
+```r
 mu <- 255.5
 sigma <- 1.2
-{{< / highlight >}}
+```
 
 Luego, el histograma (simulado):
 
-{{< highlight r >}}
+```r
 muestra <- rnorm(n, mu, sigma)
 muestra <- round(muestra)
 
@@ -59,7 +59,7 @@ densidad <- data.frame(
   index = as.integer(names(densidad)),
   prob  = as.numeric(densidad)
 )
-{{< / highlight >}}
+```
 
 Que tiene este aspecto:
 
@@ -73,7 +73,7 @@ Como prioris de $\mu$ y $\sigma$ voy a considerar distribuciones normales de par
 
 Finalmente, muestreo la posteriori usando el método del rechazo (la posteriori es la priori multiplicada por el histograma):
 
-{{< highlight r >}}
+```r
 sample_posterior <- function() {
 
   # sample prior
@@ -101,11 +101,11 @@ muestras_posterior <- replicate(1000, sample_posterior())
 
 mu_posterior <- muestras_posterior[1,]
 sigma_posterior <- muestras_posterior[2,]
-{{< / highlight >}}
+```
 
 Finalmente,
 
-{{< highlight r >}}
+```r
 tmp0 <- data.frame(
   value = rnorm(1000, 255, 10),
   class = "prior"
@@ -121,7 +121,7 @@ tmp <- rbind(tmp0, tmp1)
 ggplot(tmp, aes(x = value, fill = class)) +
   geom_density(alpha = .5) +
   theme_bw()
-{{< / highlight >}}
+```
 
 da
 

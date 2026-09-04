@@ -31,4 +31,4 @@ Una gracieta chusca, convengo.
 
 Así que vayamos a lo serio. Aparte de cualquier otra consideración, esa biblioteca pública era, hace muchos años, cuando internet era el coche volador de un niño de provincias, una de mis pocas ventanas al universo. Los libros que leí eran los que me ofrecía y poco más. Las matemáticas, la filosofía, la política, la literatura, la biología que existía efectivamente era lo que cabía en sus estanterías y alguna otra cosa que llegaba más azarosamente. Esa biblioteca que lleva el nombre del chileno de las alamedas era mi Google de los noventa.
 
-Ahora que constato que está en manos de burócratas que conservan en sus estantes tablas de logartimos, la verdad, barajo futuribles y estoy entre la autoconmiseración, el susto y los arrebatos de piromanía vindicadora.
+Ahora que constato que está en manos de burócratas que conservan en sus estantes tablas de logaritmos, la verdad, barajo futuribles y estoy entre la autoconmiseración, el susto y los arrebatos de piromanía vindicadora.

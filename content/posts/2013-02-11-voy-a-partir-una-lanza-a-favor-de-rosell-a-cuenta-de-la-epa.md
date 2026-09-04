@@ -34,7 +34,7 @@ Pero, ¿qué pasa cuando la pregunta es _¿a quién votó Vd. en las elecciones 
 
 En el barómetro de enero de 2013 del CIS se tabulan las respuestas de 2483 personas (elegidas con criterio riguroso para que reflejen la _realidad_ de la sociedad española) a ciertas preguntas. Y la tabulación se realiza de acuerdo con su _recuerdo de voto_ en las últimas elecciones generales, las de 2011. Este recuerdo de voto debería ser mínimamente coincidente con los resultados reales en dichas elecciones, ¿verdad? Veámoslo. Haciendo en R
 
-{{< highlight R >}}
+```r
 options(digits = 2)
 
 library(xtable)
@@ -48,7 +48,7 @@ tmp$diff <- tmp$cis - tmp$reales
 tmp$diff.pc <- 100 * tmp$diff / tmp$reales
 
 print(xtable(tmp), type = "html")
-{{< / highlight >}}
+```
 
 
 se obtiene

@@ -24,16 +24,16 @@ Imaginemos que queremos muestrear una variable aleatoria cuya función de densid
 
 Supongamos que no sabemos hacer
 
-{{< highlight R >}}
+```r
 set.seed(1234)
 shape <- 3
 rate  <- 3
 m0 <- rgamma(1000, shape = shape, rate = rate)
-{{< / highlight >}}
+```
 
 Pero supongamos que sí que sabemos muestrear la distribución exponencial, lo que permite escribir:
 
-{{< highlight R >}}
+```r
 # una muestra de la exponencial
 m1 <- rexp(1e5, rate)
 # asignamos "pesos" de acuerdo con la otra distribución
@@ -42,7 +42,7 @@ pesos <- m1^(shape -1)
 m1 <- sample(m1, 1000, replace = T, prob = pesos)
 # tachán
 qqplot(m0, m1)
-{{< / highlight >}}
+```
 
 Es decir, podemos:
 

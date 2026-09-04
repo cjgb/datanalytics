@@ -25,7 +25,7 @@ Porque la idea de los _impuestos progresivos_ es que pague más no solo en térm
 
 Voy a proporcionar código para que cada uno pueda calcular aproximadamente cuál es su IRPF marginal por mes. Es así:
 
-{{< highlight R >}}
+```r
 tramos_madrid_x <- c(0, 13362.22, 19004.63, 35425.68, 57320.40)
 tramos_madrid_y <- c(0,      8.5,    10.70,    12.80,    17.40, 20.50)
 
@@ -43,30 +43,30 @@ tipo_mes <- function(mes, ingresos_mensuales) {
             ingresos_mensuales * (mes - 1),
             ingresos_mensuales * mes)$value / ingresos_mensuales
 }
-{{< / highlight >}}
+```
 
 Con las funciones anteriores uno puede ver cómo quedan los tramos hasta los 70k euros,
 
-{{< highlight R >}}
+```r
 curve(f_irpf,
     -1, 70000,
     main = "Tipos IRPF Madrid",
     xlab = "base imponible anual",
     ylab = "tipo IRPF")
-{{< / highlight >}}
+```
 
 ![](/img/2023/tipos_irpf_madrid_00.png#center)
 
 o ver cómo le quedarían los correspondientes tramos marginales mensuales:
 
-{{< highlight R >}}
+```r
 tipos_mes <- sapply(1:12, tipo_mes, 70000 / 12)
 plot(1:12, tipos_mes,
     xlab = "mes",
     ylab = "tipo marginal mensual",
     main = "Tipos marginales mensuales del IRPF")
 lines(1:12, tipos_mes)
-{{< / highlight >}}
+```
 
 ![](/img/2023/tipos_irpf_madrid_01.png#center)
 

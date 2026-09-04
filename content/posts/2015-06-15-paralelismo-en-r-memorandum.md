@@ -21,7 +21,7 @@ url: /2015/06/15/paralelismo-en-r-memorandum/
 
 Esta es una nota que me dejo a mí mismo sobre paralelización en R para no tener que ir buscándola en otras partes:
 
-{{< highlight R >}}
+```r
 library(parallel)
 
 foo <- function(i){
@@ -39,4 +39,4 @@ system.time(sapply(1:4, foo))
 # 0.039   0.033  10.001
 
 stopCluster(cl)
-{{< / highlight >}}
+```

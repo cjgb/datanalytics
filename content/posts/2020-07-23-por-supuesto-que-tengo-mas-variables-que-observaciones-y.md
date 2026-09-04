@@ -25,14 +25,14 @@ url: /2020/07/23/por-supuesto-que-tengo-mas-variables-que-observaciones-y/
 
 He intentado replicar los resultados de la [entrada de ayer](https://datanalytics.com/2020/07/22/aun-mas-sobre-la-presunta-sobredispersion-en-modelos-de-poisson/) con GAM (vía [`mgcv`](https://CRAN.R-project.org/package=mgcv)) así (véase el enlace anterior para la definición de los datos):
 
-{{< highlight R >}}
+```r
 library(mgcv)
 modelo_gam <- gam(
     y ~ x + s(id, bs = "re"),
     data = datos,
     method = "REML",
     family = "poisson")
-{{< / highlight >}}
+```
 
 Y nada:
 

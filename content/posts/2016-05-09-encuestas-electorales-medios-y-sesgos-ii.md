@@ -27,16 +27,16 @@ url: /2016/05/09/encuestas-electorales-medios-y-sesgos-ii/
 
 ¿Métodos? Mejorables: se suaviza la intención de voto (con _loess_) y se estima la diferencia con un modelo de efectos mixtos, i.e.,
 
-{{< highlight R >}}
+```r
 modelo<- lmer(delta ~ 1 + (1 | medio),
     data = misdatos)
-{{< / highlight >}}
+```
 
 ¿Caveats? Veo dos: el primero, que _loess_ suaviza teniendo en cuenta también observaciones futuras. Los autores de las encuestas no ven la verdad: solo los resultados de las encuestas previas. Debería haber usado como referencia _la mejor predicción_ basada en observaciones pasadas. El segundo, que los porcentajes de los distintos partidos suman un total. Los sesgos no son independientes y yo los modelo como tales.
 
 Y termino con el código completo:
 
-{{< highlight R >}}
+```r
 library(rjson)
 library(plyr)
 
@@ -136,4 +136,4 @@ mod.iu <- lmer(delta.iu ~ 1 + (1 | medio), data = tmp)
 png("/tmp/sesgo_encuestas_iu.png", width = 600, height = 500)
 dotplot(ranef(mod.iu, condVar = TRUE))
 dev.off()
-{{< / highlight >}}
+```

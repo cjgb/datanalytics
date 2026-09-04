@@ -19,7 +19,7 @@ title: Huele a bicho (en plyr)
 url: /2015/01/19/huele-a-bicho-en-plyr/
 ---
 
-{{< highlight R >}}
+```r
 library(plyr)
 
 dat <- data.frame( a = sample(c("x", "y"),    100, replace = T),
@@ -27,6 +27,6 @@ dat <- data.frame( a = sample(c("x", "y"),    100, replace = T),
 
 ddply(dat, .(a), summarize, b = sum(b), no.b = sum(!b))
 ddply(dat, .(a), summarize, no.b = sum(!b), b = sum(b))
-{{< / highlight >}}
+```
 
 Huele a bicho, ¿verdad?

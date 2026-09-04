@@ -25,7 +25,6 @@ La respuesta no es sencilla. Por supuesto, tienes los buscadores. Hay informaci�
 
 Pero en estos tiempos que corren tenía que aparecer una alternativa _social_. Y es [Get the Data](http://getthedata.org/). En dicha página, concebida al estilo de [StackOverflow](http://stackoverflow.com), los usuarios pueden plantear preguntas, enviar respuestas pero, sobre todo, comentarlas, valorarlas y ordenarlas.
 
-[![](/img/2011/03/ckan_logo_box.png#center)
-](/img/2011/03/ckan_logo_box.png#center)
+![](/img/2011/03/ckan_logo_box.png#center)
 
 Obtén tus datos, analízalos, publica, comparte. Si no, lo harán otros que quién sabe a qué amo sirvan.

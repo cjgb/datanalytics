@@ -24,7 +24,7 @@ title: Ubi ratio, ibi paradoxa (Simpsorum)
 url: /2011/08/25/ubi-ratio-ibi-paradoxa-simpsorum/
 ---
 
-Efectivamente, ahí donde hay ratios, aparece con frecuencia la llamada [paradoja de Simpson](http://es.wikipedia.org/wiki/Paradoja_de_Simpson) (a propósito, en enlace anterior a la Wikipedia es un despropósito: a ver si alguno de mis lectores con tiempo deja la página a la altura de lo que merece una lengua de cultura).
+Efectivamente, ahí donde hay ratios, aparece con frecuencia la llamada [paradoja de Simpson](http://es.wikipedia.org/wiki/Paradoja_de_Simpson) (a propósito, el enlace anterior a la Wikipedia es un despropósito: a ver si alguno de mis lectores con tiempo deja la página a la altura de lo que merece una lengua de cultura).
 
 Una ratio muy traída y llevada últimamente y con la que nos gusta autoflagelarnos a los españoles es el de la productividad, que es el cociente entre la producción nacional y el número de trabajadores. Los economistas lo usan para, entre otras cosas, [autojustificar su existencia](http://www.fedeablogs.net/economia/?s=productividad).
 

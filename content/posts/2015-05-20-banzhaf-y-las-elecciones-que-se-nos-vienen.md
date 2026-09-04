@@ -25,7 +25,7 @@ Es pertinente rescatar una entrada de hace tres años [sobre D’Hondt y Banzhaf
 
 Me limitaré a actualizar el código de la función para que muestre las alianzas (algunas enteramente esperpénticas) posibles, que queda de la forma
 
-{{< highlight R >}}
+```r
 banzhaf <- function(x){
   x <- -sort(-x)
   x <- x/sum(x)
@@ -48,13 +48,13 @@ banzhaf <- function(x){
   print(res)
   sort( table(unlist(res)) / length(res) )
 }
-{{< / highlight >}}
+```
 
 y a aplicarlo sobre algunos casos de la más rabiosa actualidad que [Leda Duelo](https://twitter.com/ledaduelo) ha tenido la gentileza de preparar para mí y, a través de esta página, para ti también. Son los que siguen.
 
 Para las elecciones de marzo de 2015 en Andalucía, queda:
 
-{{< highlight R >}}
+```r
 escannos <- c(47,33,15,9,5)
 names(escannos) <- c( "psoe", "pp", "podemos", "ciudadanos", "iulv")
 banzhaf( escannos )
@@ -73,13 +73,13 @@ banzhaf( escannos )
 #
 # ciudadanos    podemos         pp       psoe
 # 0.50       0.50       0.50       0.75
-{{< / highlight >}}
+```
 
 
 De acuerdo con alguna de esas encuestas sobre los resultados para el ayuntamiento de Madrid que van a ser papel mojado en unos días,
 
 
-{{< highlight R >}}
+```r
 escannos <- c(22,14,11,10)
 names(escannos) <- c( "PP", "AM", "PSOE", "Ciudadanos")
 banzhaf(escannos)
@@ -98,7 +98,7 @@ banzhaf(escannos)
 #
 # AM Ciudadanos       PSOE         PP
 # 0.50       0.50       0.50       0.75
-{{< / highlight >}}
+```
 
 
 Nota para mis lectores de dentro de unos años a los que tal vez ya no suenen las siglas "AM": se refieren a [esto](http://es.wikipedia.org/wiki/Ahora_Madrid). Lo que pasó del pasado desde el que escribo a tu hoy es lo de siempre. A todo esto, ¿ya tenéis coches voladores?
@@ -106,7 +106,7 @@ Nota para mis lectores de dentro de unos años a los que tal vez ya no suenen la
 Finalmente, usando datos de otras encuestas para Barcelona, tenemos
 
 
-{{< highlight R >}}
+```r
 escannos <- c(10,9,6,5,5,5,2)
 names(escannos) <- c( "Ciu", "Bcomun", "Ciudadanos", "PSC", "PP", "ERC", "CUP")
 banzhaf(escannos)
@@ -179,7 +179,7 @@ banzhaf(escannos)
 #
 # CUP     Bcomun        ERC         PP        PSC        Ciu Ciudadanos
 # 0.4545455  0.5000000  0.5454545  0.5454545  0.5454545  0.6363636  0.6363636
-{{< / highlight >}}
+```
 
 El número de coaliciones ganadoras mínimas es 22, muchas de ellas contranatura (¿aún se puede decir _contranatura_?). Es curioso, además, cómo Ciudadanos, con menos concejales que Bcomun, tiene más _Banzhafpower_. Tiene pinta de _bug_, pero he revisado y creo que el código está bien.
 

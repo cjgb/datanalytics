@@ -36,23 +36,22 @@ $$ \Delta p_i \approx \frac{\partial \text{logit}^{-1}}{\partial x}(a_0 + a_1 x_
 
 Es un cuarto porque (me da pereza calcular derivadas, ni aun con Wolfram Alfa)
 
-{{< highlight R >}}
+```r
 lotgitinvprime <- function(x)
   (plogis(x + 0.001) - plogis(x) ) / 0.001
 
 curve(lotgitinvprime, -3, 3,
       main = "Derivada de la inversa de la función logística",
       ylab = "")
-{{< / highlight >}}
+```
 
 produce
 
-[![derivada_logistica_inversa](/img/2015/07/derivada_logistica_inversa.png#center)
-](/img/2015/07/derivada_logistica_inversa.png#center)
+![derivada_logistica_inversa](/img/2015/07/derivada_logistica_inversa.png#center)
 
 Obviamente, esta variación será menor cuando el _score_ de la observación esté lejos de 0, que es donde está el máximo (de valor .25). Y estará lejos de cero cuando su probabilidad sea extrema: o muy alta o muy baja.
 
-La variación de la probabilidad también depende de la definición de la unidad de medida. Para variables categóricas no existe le problema. Pero las alturas (de las personas, p.e.) se pueden medir en metros, en milímetros o en kilómetros.
+La variación de la probabilidad también depende de la definición de la unidad de medida. Para variables categóricas no existe el problema. Pero las alturas (de las personas, p.e.) se pueden medir en metros, en milímetros o en kilómetros.
 
 Por eso, este truco es menos útil en situaciones en que los eventos tienen baja probabilidad.
 

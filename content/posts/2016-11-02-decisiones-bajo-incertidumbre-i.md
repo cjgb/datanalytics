@@ -29,7 +29,7 @@ Frecuentemente nos interesan unos efectos (E), tales como:
 * Si un candidato será o no un trabajador productivo en una empresa.
 * Etc.
 
-Son variables aleatorias. En ciertos casos, si no todos, se puede suponer que estos efectos dependen de determinados factores lantentes (L). Y se puede crear una red bayesiana similar a esta:
+Son variables aleatorias. En ciertos casos, si no todos, se puede suponer que estos efectos dependen de determinados factores latentes (L). Y se puede crear una red bayesiana similar a esta:
 
 ![bayesian_network_00](/img/2016/11/bayesian_network_00.png#center)
 

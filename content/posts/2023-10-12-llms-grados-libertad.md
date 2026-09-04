@@ -38,7 +38,7 @@ El LLM en cuestión usa +50k tokens distintos y a todos ellos, en cada iteració
 
 Es evidente cómo el _of_ después de _share_, el ciere de las comillas, el _public_ tras _viewing_ y alguna otra son casi _obligatorias_. O que tras el _The_ con el que se abre la segunda frase, casi cualquier cosa puede ocurrir y el LLM puede _tirar_ casi por donde le dé la gana. Etc.
 
-Obivamente, dado que la intersección de lo cierto, lo interesante y lo no obvio es prácticamente nula, hoy me he limitado a regalar a mis lectores dos cosas:
+Obviamente, dado que la intersección de lo cierto, lo interesante y lo no obvio es prácticamente nula, hoy me he limitado a regalar a mis lectores dos cosas:
 
 * Una historieta que cumple dos de las tres condiciones anteriores: lo que aquí se ha _aprendido_ no debería sorprender a nadie.
 * El [código](https://github.com/cjgb/datanalytics_code/blob/main/llm_degs_freedom.ipynb) completo de lo que he hecho, por si a alguien le sirve de provecho.

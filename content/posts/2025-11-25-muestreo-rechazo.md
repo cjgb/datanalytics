@@ -21,7 +21,7 @@ url: /2025/11/25/muestreo-rechazo/
 
 El otro día [publiqué](/2025/11/04/maximo-auc-posible/) un pequeño fragmento de código,
 
-{{< highlight r >}}
+```r
 a <- 2.89
 b <- 36.81
 sample_dist <- function() rbeta(1, a, b)
@@ -41,7 +41,7 @@ p0 <- replicate(100000, sample_p(0))
 
 auc <- mean(p1 > p0)
 auc
-{{< / highlight >}}
+```
 
 que había usado antes [aquí](/2025/04/24/auc-dispersion-calibracion-ii/), para muestrear unas distribuciones relacionadas con el cálculo del AUC en modelos perfectamente calibrados. Lo había escrito meses atrás y supongo que me pasó como a la mayoría de mis lectores: darlo por bueno primero y usarlo después suponía todo un acto de fe (en mí, además).
 

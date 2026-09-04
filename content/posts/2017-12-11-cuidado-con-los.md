@@ -20,13 +20,13 @@ url: /2017/12/11/cuidado-con-los/
 
 El otro día tropecé con el siguiente _artefacto_:
 
-{{< highlight R >}}
+```r
 a <- list(aa = 12, bb = 14)
 is.null(a$a)
 #[1] FALSE
 a$a
 #[1] 12
-{{< / highlight >}}
+```
 
 No es un _bug_ de R, porque la documentación reza:
 
@@ -34,10 +34,10 @@ No es un _bug_ de R, porque la documentación reza:
 
 Y se pueden contrastar:
 
-{{< highlight R >}}
+```r
 a[["a", exact = FALSE]]
 a[["a", exact = TRUE]]
-{{< / highlight >}}
+```
 
 **Comentarios:**
 

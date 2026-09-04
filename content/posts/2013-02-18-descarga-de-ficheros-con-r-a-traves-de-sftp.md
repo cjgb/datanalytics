@@ -21,9 +21,9 @@ Llevo lo que parece un siglo sin escribir en estas páginas. Y es que, en gran p
 
 Lo que me ocupa hoy es esto:
 
-{{< highlight R >}}
+```r
 fichero <- getURL("sftp://usuario:contraseña@máquina/home/bla/bla/bla/fichero.txt")
-{{< / highlight >}}
+```
 
 
 ¿Qué es? Es la manera de descargar directamente a R un fichero a través del [protocolo SFTP](http://es.wikipedia.org/wiki/SSH_File_Transfer_Protocol) (FTP seguro). En la cadena de conexión hay que indicar

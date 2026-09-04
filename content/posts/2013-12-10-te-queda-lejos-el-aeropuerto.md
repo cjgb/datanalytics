@@ -24,14 +24,13 @@ url: /2013/12/10/te-queda-lejos-el-aeropuerto/
 
 He construido el mapa
 
-[![](/img/2013/12/distancias_aropuertos.png#center)
-](/img/2013/12/distancias_aropuertos.png#center)
+![](/img/2013/12/distancias_aropuertos.png#center)
 
 porque, a pesar de sus innegables deméritos gráficos, como la profusión de topos rojigualdas, pudiera resultar de interés. No tanto por lo que representa, la distancia de los puntos de la península Ibérica a una lista obsoleta de aeropuertos (en la que no consta, p.e., el de Logroño), sino por el procedimiento que tal vez alguien pueda en su día reaprovechar para un mejor fin.
 
 Para ello, primero, he descargado las coordenadas de los aeropuertos de [aquí](http://www.partow.net/miscellaneous/airportdatabase/#Download) (nota: un tipo [procesó y tradujo al español](http://dev4bloggers.blogspot.com.es/2010/06/base-datos-aeropuertos-mundo.html) el fichero anterior pero olvidó cambiar el signo de las latitudes al oeste del meridiano 0; ¡cuidado con lo que te bajas de internet!) y las he cargado en R:
 
-{{< highlight R >}}
+```r
 aeropuertos <- read.table("GlobalAirportDatabase.txt", sep = ":", header = F, quote = "")
 aeropuertos <- subset(aeropuertos, V5 == "SPAIN" & V2 != "N/A")
 
@@ -45,11 +44,11 @@ aeropuertos$V10 <- aeropuertos$V10 * ifelse(aeropuertos$V13 == "E", 1, -1)
 aeropuertos <- subset(aeropuertos, select = c("V3", "V6", "V10"))
 
 colnames(aeropuertos) <- c("nombre", "lat", "lon")
-{{< / highlight >}}
+```
 
 Luego he descargado y procesado el mapa que me proporciona el contorno de la España peninsular:
 
-{{< highlight R >}}
+```r
 library(maptools)
 tmp <- readShapePoly("ESP_adm0.shp")
 peninsula <- tmp@polygons[[1]]@Polygons[[187]]
@@ -58,13 +57,13 @@ aeropuestos.peninsula <- point.in.polygon(aeropuertos$lon,
   peninsula@coords[,1],
   peninsula@coords[,2])
 aeropuertos <- aeropuertos[aeropuestos.peninsula == 1, ]
-{{< / highlight >}}
+```
 
-El _shapefile_ está descargado de [GADM](http://www.gadm.org/). La función `point.in.polygon` permite descartar aquellos aeropuertos extrapeninsulares: indentifica si un punto está dentro o fuera de un polígono.
+El _shapefile_ está descargado de [GADM](http://www.gadm.org/). La función `point.in.polygon` permite descartar aquellos aeropuertos extrapeninsulares: identifica si un punto está dentro o fuera de un polígono.
 
 Luego he creado una malla de puntos a partir de los extremos de la península y he utilizado el paquete `geosphere` para calcular la distancia entre puntos expresados en términos de su latitud/longitud.
 
-{{< highlight R >}}
+```r
 library(geosphere)
 
 extremos <- apply(peninsula@coords, 2, range)
@@ -79,11 +78,11 @@ distancia <- function(lon, lat){
 }
 
 res <- outer(grid.lon, grid.lat, distancia)
-{{< / highlight >}}
+```
 
 Finalmente,
 
-{{< highlight R >}}
+```r
 library(raster)
 
 resk <- SpatialPoints(expand.grid(grid.lon, grid.lat))
@@ -98,7 +97,7 @@ seleccionados <- !is.na(over(resk, sp.peninsula))
 final <- resk[seleccionados,]
 
 image(final)
-{{< / highlight >}}
+```
 
 Es decir, he usado primero la función `over` (de `sp`) para identificar (como antes, más arriba, usando `point.in.polygon`) aquellos puntos de la malla que caen dentro del perímetro deseado. Para ello he tenido que hacer dos transformaciones previas:
 

@@ -28,7 +28,7 @@ Sea para lo bueno o para lo malo, vivimos tiempos que en eso se parecen a aquell
 He bajado [datos del Banco de España](http://www.bde.es/webbde/es/estadis/infoest/htmls/cdp.html), he extraído penosamente la información relativa a la deuda de Madrid y con
 
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 library(plyr)
 
@@ -44,7 +44,7 @@ ggplot(deuda.madrid, aes(x = fecha, y = deuda / 1e3)) + geom_line() +
             alpha=0.3,
             inherit.aes = FALSE) +
   ylab("deuda en millones de euros")
-{{< / highlight >}}
+```
 
 
 he construido
@@ -55,7 +55,7 @@ he construido
 y con
 
 
-{{< highlight R >}}
+```r
 incr.deuda.madrid <- data.frame(fecha = deuda.madrid$fecha[-1], deuda = diff(deuda.madrid$deuda) / 1000)
 incr.deuda.madrid$mes <- months(incr.deuda.madrid$fecha)
 
@@ -73,7 +73,7 @@ ggplot(incr.deuda.madrid, aes(x = fecha, y = deuda)) + geom_line(alpha = 0.6) +
             alpha=0.3,
             inherit.aes = FALSE) +
   facet_grid(mes~.)
-{{< / highlight >}}
+```
 
 ,
 

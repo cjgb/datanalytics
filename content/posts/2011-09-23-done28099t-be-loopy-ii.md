@@ -36,7 +36,7 @@ El código en SAS es el siguiente:
 
 
 
-{{< highlight sas >}}
+```sas
 /* 0: data creation */
 data temp1;
     x=1; y=45; output;
@@ -99,13 +99,13 @@ run;
 
 proc print;
 run;
-{{< / highlight >}}
+```
 
 que corre en mi máquina en 37.37 segundos.
 
 Ofrezco dos alternativas sustancialmente más sucintas en R. La primera es una reinterpretación literal en R del código anterior,
 
-{{< highlight R >}}
+```r
     x <- 2:29
     y <- 3 * x + 6 * rnorm( length(x) )
     x <- c( 1, x, 30 )
@@ -117,7 +117,7 @@ Ofrezco dos alternativas sustancialmente más sucintas en R. La primera es una r
 
     resultados <- replicate( 1000, lm( yhat + sample( res ) ~ x )$coefficients[["x"]] )
     hist( resultados )
-{{< / highlight >}}
+```
 
 que corre en 2.46 segundos.
 
@@ -126,7 +126,7 @@ que corre en 2.46 segundos.
 
 El segundo utiliza el paquete `boot`,
 
-{{< highlight R >}}
+```r
 library( boot )
 
 datos <- data.frame( y = yhat, x = x, res = res )
@@ -137,7 +137,7 @@ foo.boot <- function( datos, ind ){
 
 res <- boot( datos, foo.boot, R = 1000 )
 plot( res )
-{{< / highlight >}}
+```
 
 que corre en 2.71 segundos.
 

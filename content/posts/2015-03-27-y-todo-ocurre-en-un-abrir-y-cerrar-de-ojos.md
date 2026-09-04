@@ -30,10 +30,9 @@ Cuando un usuario abre la aplicación, esta avisa al SSP de que hay un nuevo esp
 
 ¿Y cómo se ponen en contacto SSP y DSP? A través de un mercado, una bolsa en tiempo realísimo en el que cuando un SSP publica un _espacio_, los DSP tienen la opción de pujar por el privilegio de ubicar en él su _banner_.
 
-¿Quiénes son esos SSP (_supply-side platforms_), DSP (_demand-side platforms_) y mecados (_exchanges_)? Aquí tenéis algunos de sus logotipos
+¿Quiénes son esos SSP (_supply-side platforms_), DSP (_demand-side platforms_) y mercados (_exchanges_)? Aquí tenéis algunos de sus logotipos
 
-[![rtb_ecosystem](/img/2015/03/rtb_ecosystem.png#center)
-](/img/2015/03/rtb_ecosystem.png#center)
+![rtb_ecosystem](/img/2015/03/rtb_ecosystem.png#center)
 
 extraídos de [esta página](http://www.businessinsider.com.au/mobile-real-time-bidding-ad-ecosystem-2013-5).
 

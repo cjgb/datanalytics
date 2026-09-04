@@ -27,17 +27,17 @@ tenga un valor finito, cosa que, por ejemplo, no cumple la de Cauchy. Igual hay 
 
 Además, siempre se puede calcular la media empírica de cualquier distribución (con `mean` en R p.e.). ¿Qué pasa pues si, simplemente, ignorando los _caveats_ matemáticos, vamos y tomamos medias? Pues cosas peculiares que comprobará quien corra un código similar a
 
-{{< highlight R >}}
+```r
 set.seed(123)
 res <- replicate(1000, mean(rcauchy(1e5)))
 hist(res, breaks = 50)
-{{< / highlight >}}
+```
 
 es decir, la inestabilidad de esos promedios. Abundando en este caso concreto, debería recordarse que [la media de n observaciones independientes de la distribución de Cauchy tiene distribución de Cauchy](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter7.pdf). Las medias obtenidas no tienen menor dispersión que la de, por ejemplo, la primera observación de cada una de las muestras.
 
 Más aún,
 
-{{< highlight R >}}
+```r
 res <- replicate(1000, {
   x <- rcauchy(1e5)
   c(max(x), mean(x))
@@ -46,7 +46,7 @@ res <- replicate(1000, {
 res <- log(abs(t(res)))
 colnames(res) <- c("max", "mean")
 plot(res)
-{{< / highlight >}}
+```
 
 genera
 

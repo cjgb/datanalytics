@@ -77,7 +77,7 @@ Efectivamente, el artículo yuxtapone las palabras _variable_ y _random_ en una 
 
 ![](/img/2022/11/rvs_ngrams_english.png#center)
 
-el térmimo _random variable_ solo comenzó a popularizarse en inglés en la década de los 30.
+el término _random variable_ solo comenzó a popularizarse en inglés en la década de los 30.
 
 Efectivamente, en el artículo de Wintner de 1934
 [_On Analytic Convolutions of Bernoulli Distributions_](https://www.jstor.org/stable/2370961),
@@ -97,7 +97,7 @@ De hecho, el término ---y su alternativa, _variable aléatoire_--- estaba asent
 
 ![](/img/2022/11/rvs_ngrams_french.png#center)
 
-y de que _variable éventuelle_ y _variable aléatorire_ se encuentren en otras obras de la época, como los tratados de Borel. Borel tiene, de hecho, un libro sobre la teoría de la probabilidad, _Le Hasard_, de 1914 donde no recurre al término pero dos tratados de hacia la mitad de la década siguiente en los que usa, en cada uno de ellos, una de las dos versiones.
+y de que _variable éventuelle_ y _variable aléatoire_ se encuentren en otras obras de la época, como los tratados de Borel. Borel tiene, de hecho, un libro sobre la teoría de la probabilidad, _Le Hasard_, de 1914 donde no recurre al término pero dos tratados de hacia la mitad de la década siguiente en los que usa, en cada uno de ellos, una de las dos versiones.
 
 Google nos muestra también como la versión _variable éventuelle_ acabó cayendo en desuso y que _variable aléatoire_ terminó imponiéndose. Pero, ¿de dónde procede el término en francés? La respuesta se encuentra en el siguiente parrafito,
 
@@ -125,7 +125,7 @@ en 1913:
 
 Esta pudiera ser, tres años antes de la primera referencia citada por las fuentes de más arriba, el momento en el que el término _variable aleatoria_ hizo su entrada en el léxico probabilístico.
 
-Nótese que el trabajo de Cantelli de 1913 cita (y abunta en resultados contenidos en) _Variabilità e Mutabilittà_, de 1912, obra conocida del también conocido Gini. Pero en ella no se usa el término en cuestión. Es una obra que trata sobre la medida de la variabilidad de variables aleatorias, pero en ningún momento les da un nombre específico.
+Nótese que el trabajo de Cantelli de 1913 cita (y abunda en resultados contenidos en) _Variabilità e Mutabilittà_, de 1912, obra conocida del también conocido Gini. Pero en ella no se usa el término en cuestión. Es una obra que trata sobre la medida de la variabilidad de variables aleatorias, pero en ningún momento les da un nombre específico.
 
 ### En resumen
 

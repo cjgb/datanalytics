@@ -21,13 +21,13 @@ url: /2023/03/21/reduccion-error-tests-ab/
 
 Hoy, cuatro maneras distintas de realizar un test A/B. Comienzo con unos datos simulados que tienen este aspecto:
 
-{{< highlight R >}}
+```r
 set.seed(1)
 n <- 1000
 test <- c(rep(0, n/2), rep(1, n/2))
 y0 <- rnorm(n)
 y1 <- y0 + test + rnorm(n)
-{{< / highlight >}}
+```
 
 Ahí:
 - `n` es el número de sujetos, 1000.
@@ -39,76 +39,76 @@ Hay varias maneras de estimar el efecto del tratamiento (o de, como dicen alguno
 
 ## I
 
-{{< highlight R >}}
+```r
 mod01 <- lm(y1 ~ test)
 summary(mod01)
-{{< / highlight >}}
+```
 
 Es _casi_ el t-test y da como resultado
 
-{{< highlight text >}}
+```text
              Estimate Std. Error t value Pr(>|t|)
 (Intercept)  0.01966    0.06582   0.299    0.765
 test         0.90487    0.09309   9.721   <2e-16 ***
-{{< / highlight >}}
+```
 
 El coeficiente del test es _casi_ 1 y el error estándar, 0.09.
 
 ## II
 
-{{< highlight R >}}
+```r
 mod02 <- lm(y1 ~ test + y0)
 summary(mod02)
-{{< / highlight >}}
+```
 
 Que da:
 
-{{< highlight text >}}
+```text
              Estimate Std. Error t value Pr(>|t|)
 (Intercept) -0.003125   0.046557  -0.067    0.947
 test         0.973866   0.065870  14.785   <2e-16 ***
 y0           1.006014   0.031840  31.596   <2e-16 ***
-{{< / highlight >}}
+```
 
 Mejor que antes. El coeficiente del test está más próximo a 1 y el error ha bajado a 0.065.
 
 ### III
 
-{{< highlight R >}}
+```r
 mod0 <- lm(y1 ~ y0)
 y2 <- resid(mod0)
 mod03 <- lm(y2 ~ test)
 summary(mod03)
-{{< / highlight >}}
+```
 
 Que da:
 
-{{< highlight text >}}
+```text
             Estimate Std. Error t value Pr(>|t|)
 (Intercept) -0.48640    0.04653  -10.45   <2e-16 ***
 test         0.97280    0.06581   14.78   <2e-16 ***
-{{< / highlight >}}
+```
 
 Prácticamente, como II.
 
 ### IV
 
-{{< highlight R >}}
+```r
 mod0 <- lm(y1 ~ y0)
 y2 <- resid(mod0)
 mod0 <- lm(test ~ y0)
 test2 <- resid(mod0)
 mod04 <- lm(y2 ~ test2)
 summary(mod04)
-{{< / highlight >}}
+```
 
 Que da:
 
-{{< highlight text >}}
+```text
               Estimate Std. Error t value Pr(>|t|)
 (Intercept) -1.231e-16  3.290e-02    0.00        1
 test2        9.739e-01  6.584e-02   14.79   <2e-16 ***
-{{< / highlight >}}
+```
 
 Prácticamente, como cualquiera de los dos anteriores.
 

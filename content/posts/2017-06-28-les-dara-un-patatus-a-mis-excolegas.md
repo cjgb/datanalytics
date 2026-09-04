@@ -27,7 +27,7 @@ El gráfico, construido por uno de los respondedores, Ignacio Larrosa Cañestro,
 
 Mi solución (puro uso del [teorema del seno](https://es.wikipedia.org/wiki/Teorema_de_los_senos)):
 
-{{< highlight R >}}
+```r
 library(nleqslv)
 
 ab <- 11
@@ -52,6 +52,6 @@ foo <- function(abc, print.answer = FALSE){
 
 z <- nleqslv(0.5, function(abc) foo(abc) - 1)
 foo(z$x, print.answer = T)
-{{< / highlight >}}
+```
 
 A ver qué dicen.

@@ -20,12 +20,11 @@ url: /2014/12/11/donde-estan-aquellos-caballeros-andantes/
 
 Pues precedidos de mi favorito de todos ellos, Felixmarte de Hircania, el del desnudo brazo, en
 
-[![felixmarte](/img/2014/12/felixmarte.png#center)
-](/img/2014/12/felixmarte.png#center)
+![felixmarte](/img/2014/12/felixmarte.png#center)
 
 dentro del texto del Quijote. El código para obtener el gráfico anterior es
 
-{{< highlight R >}}
+```r
 library(qdap)
 
 quijote.raw <- readLines("http://www.gutenberg.org/cache/epub/2000/pg2000.txt",
@@ -42,6 +41,6 @@ dispersion_plot(quijote, c("felixmarte", "amadís",
     "olivante", "tirante", "belianís",
     "gironcilio", "lisuarte", "esplandián",
     "roldán", "rodamonte", "florimorte", "platir",                            "tablante"))
-{{< / highlight >}}
+```
 
 Tenéis permiso mío para buscar otros términos en otros textos y ver qué pinta tiene la distribución.

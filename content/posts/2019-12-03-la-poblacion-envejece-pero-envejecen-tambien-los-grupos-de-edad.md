@@ -40,7 +40,7 @@ Y la de los decenales,
 
 No sé si separando por sexos (cosa que dejo como ejercicio) aparecerán patrones más pronunciados. Por si acaso, dejo el código utilizado:
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(plyr)
 library(ggplot2)
@@ -79,4 +79,4 @@ ggplot(tmp, aes(x = year, y = edad_media)) +
     facet_wrap(~grupo_decenal,
                 ncol = 3,
                 scales = "free_y")
-{{< / highlight >}}
+```

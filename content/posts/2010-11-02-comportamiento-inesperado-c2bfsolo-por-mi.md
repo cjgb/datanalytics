@@ -21,7 +21,7 @@ url: /2010/11/02/comportamiento-inesperado-solo-por-mi/
 El otro día, bajo el encabezamiento _Unexpected behaviour of min, tapply and POSIXct/POSIXlt classes?_, mandé a la lista de desarrolladores de R el siguiente pedazo de código:
 
 
-{{< highlight R >}}
+```r
 before <- Sys.time()
 Sys.sleep( 1 )
 now1 <- now2 <- Sys.time()
@@ -57,7 +57,7 @@ tapply( my.times.lt, my.period, min )
 # longitud del reemplazo
 #
 # ¿?  :(
-{{< / highlight >}}
+```
 
 
 Invito a mis lectores a lo siguiente:

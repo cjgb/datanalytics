@@ -24,15 +24,14 @@ Un [truco para generar variables aleatorias (aproximadamente) normales](http://w
 
 En efecto,
 
-{{< highlight R >}}
+```r
 x <- replicate(1000, sum(runif(12)) - 6)
 qqnorm(x)
 qqline(x, col=2)
-{{< / highlight >}}
+```
 
 produce
 
-[![](/img/2012/11/qqnorm.png#center)
-](/img/2012/11/qqnorm.png#center)
+![](/img/2012/11/qqnorm.png#center)
 
 Ayuda a entender el motivo (de por qué el procedimiento genera variables aleatorias "casi" normales) que la varianza de la distribución uniforme es 1/12 y que su media es 1/2.

@@ -24,7 +24,7 @@ url: /2012/03/29/otra-de-huelgas/
 
 Hoy, por motivos evidentes, e igual que en [septiembre de 2010](https://datanalytics.com/2010/09/29/huelga-el-titulo-hoy/), voy a hablar de huelgas. De la misma fuente que entonces he descargado [este fichero](/uploads/pcaxis-623612450.px). Y he ejecutado
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(reshape)
 library(ggplot2)
@@ -62,29 +62,25 @@ p <- ggplot(data = dat.anno, aes(x = anno, y = n.jornadas /n.huelgas, group = re
 p <- p + scale_x_discrete("año") + scale_y_continuous("número de jornadas por huelga")
 p
 ggsave("jornadas_huelga_anno.png")
-{{< / highlight >}}
+```
 
 para obtener, por un lado, el número de huelgas por mes desde enero de 1995 a noviembre de 2011:
 
 
-[![](/img/2012/03/huelgas_por_mes.png#center)
-](/img/2012/03/huelgas_por_mes.png#center)
+![](/img/2012/03/huelgas_por_mes.png#center)
 
 
 El número de huelgas por año, con el número de jornadas afectadas por las huelgas indicado por el diámetro de punto:
 
-[![](/img/2012/03/huelgas_por_anno.png#center)
-](/img/2012/03/huelgas_por_anno.png#center)
+![](/img/2012/03/huelgas_por_anno.png#center)
 
 El número de trabajadores que siguieron cada huelga en cada año:
 
-[![](/img/2012/03/trabajadores_huelga_por_anno.png#center)
-](/img/2012/03/trabajadores_huelga_por_anno.png#center)
+![](/img/2012/03/trabajadores_huelga_por_anno.png#center)
 
 Finalmente, el número de jornadas afectadas por las huelgas en cada año.
 
-[![](/img/2012/03/jornadas_huelga_anno.png#center)
-](/img/2012/03/jornadas_huelga_anno.png#center)
+![](/img/2012/03/jornadas_huelga_anno.png#center)
 
 Es relativamente fácil ubicar la huelga general del 2002. La que hubo en septiembre de 2010... no lo tengo tan claro.
 

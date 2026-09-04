@@ -19,7 +19,7 @@ title: Códigos de caracteres, unicode y UTF-8
 url: /2011/09/06/codigos-de-caracteres-unicode-y-utf-8/
 ---
 
-Unos quebraderos de cabeza en el desarrollo del [paquete pxR](https://datanalytics.com/2011/07/28/el-paquete-pxr-en-cran/) concernientes a los distintos códigos de caracteres en que hay que transfomar los datos me han obligado a profundizar en este enojoso asunto.
+Unos quebraderos de cabeza en el desarrollo del [paquete pxR](https://datanalytics.com/2011/07/28/el-paquete-pxr-en-cran/) concernientes a los distintos códigos de caracteres en que hay que transformar los datos me han obligado a profundizar en este enojoso asunto.
 
 En el principio, todo era felicidad. Existía el código ASCII que establecía una correspondencia entre caracteres, números y su representación binaria. Así, a la letra b le correspondía el número 98 cuya codificación binaria es el _byte_ `01100010`.
 

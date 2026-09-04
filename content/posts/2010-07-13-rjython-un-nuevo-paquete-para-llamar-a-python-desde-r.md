@@ -22,13 +22,13 @@ url: /2010/07/13/rjython-un-nuevo-paquete-para-llamar-a-python-desde-r/
 
 Ya está disponible el paquete `rJython` que permite llamar a Python desde R. Aunque todavía no se ha subido a CRAN, puede instalarse así:
 
-{{< highlight R >}}
+```r
 install.packages("rJython", repos="http://R-Forge.R-project.org")
-{{< / highlight >}}
+```
 
 Una vez instalado puede probarse el paquete ejecutando, por ejemplo,
 
-{{< highlight R >}}
+```r
 rJython <- rJython()
 a <- 1:4
 jython.assign(rJython, "a", a)
@@ -40,7 +40,7 @@ jython.call(rJython, "len", 1:3)
 b <- 5:8
 rJython$exec("def concat(a,b): return a+b")
 jython.call(rJython, "concat", a, b)
-{{< / highlight >}}
+```
 
 ## Arquitectura: Jython y rJava
 

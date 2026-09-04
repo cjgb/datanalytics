@@ -21,14 +21,14 @@ url: /2020/02/07/la-densidad-de-una-cauchy-bivariada-es-cuasiconvexa/
 
 Primero, las curvas de nivel:
 
-{{< highlight R >}}
+```r
 x <- seq(-50, 50, length.out = 1000)
 
 tmp <- expand.grid(x = x, y = x)
 tmp$z <- log(dcauchy(tmp$x) * dcauchy(tmp$y))
 
 ggplot(tmp, aes(x = x, y = y, z = z)) + stat_contour()
-{{< / highlight >}}
+```
 
 ![](/img/2020/02/curvas_nivel_cauchy.png#center)
 

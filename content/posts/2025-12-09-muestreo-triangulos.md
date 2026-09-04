@@ -49,7 +49,7 @@ Pero, como advierte Cook:
 - Si se usa la exponencial (da igual $\lambda$), funciona.
 - Pero tampoco funciona con otras distribuciones al azar que se le ocurran a uno.
 
-![muesetreos uniformes en un triángulo](/img/2025/triangle_samples.png#center)
+![muestreos uniformes en un triángulo](/img/2025/triangle_samples.png#center)
 
 El motivo por el que esto funciona es que la distribución uniforme sobre un triángulo no es otra cosa que la distribución de Dirichlet con parámetros (1, 1, 1). El algoritmo habitual para muestrear una distribución de Dirichlet consiste en muestrear gammas y normalizar luego, con la salvedad de que para parámetros 1, esa gamma se reduce a una exponencial.
 
@@ -57,7 +57,7 @@ El motivo por el que esto funciona es que la distribución uniforme sobre un tri
 
 Por referencia, el código que he usado para generar el gráfico:
 
-{{< highlight r >}}
+```r
 set.seed(1234)
 
 n <- 1000
@@ -95,4 +95,4 @@ y <- samples %*% y0
 points(x, y, pch = 20, col = rgb(0, 0, 0, 0.2))
 
 par(mfrow = c(1, 1))
-{{< / highlight >}}
+```

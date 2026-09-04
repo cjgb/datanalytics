@@ -27,44 +27,44 @@ Yo creo que es un _bug_, vamos. Y tengo tres motivos para creerlo:
 He aquí cómo reproducir el _bug_. Primero creo una tabla muy simple e inserto una única fila en ella.
 
 
-{{< highlight sql >}}
+```sql
 create table borrar_cjgb (
     a char(3)
 );
 
 insert into borrar_cjgb values(  'P21' );
-{{< / highlight >}}
+```
 
 
 Selecciono el prefijo, "P", del valor que he insertado:
 
 
-{{< highlight sql >}}
+```sql
 select
     cast( substr( ltrim( rtrim(a) ), 1,1 ) AS CHAR(3) ) as prefijo
     from borrar_cjgb
 ;
-{{< / highlight >}}
+```
 
 
 Sin embargo, por peregrinas razones, ¡Teradata no me deja encapsular mi consulta en una vista! La creación de la vista
 
 
-{{< highlight sql >}}
+```sql
 replace view borrar_cjgb_v as (
     select
         cast( substr( ltrim( rtrim(a) ), 1,1 ) AS CHAR(3) ) as prefijo
         from borrar_cjgb
 );
-{{< / highlight >}}
+```
 
 
 falla con error
 
 
-{{< highlight sql >}}
+```sql
 3706: Syntax error: Data Type "rtrim" does not match a Defined Type name.
-{{< / highlight >}}
+```
 
 
 No sé muy bien para qué cuento esto acá hoy. Supongo que es porque el señor empleado de Teradata no atiende mi petición de luz y guía peculiar punto. Y también, claro está, para ilustrar a mis lectores con un ejemplo más de lo reacios que se muestran los altivos valedores del software propietario en aceptar razonadísimos informes de _bugs_.

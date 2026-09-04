@@ -29,7 +29,7 @@ indica que el usuario buscó en `google.es` la cadena `breiman dos culturas esta
 
 Intrigado por el comportamiento de mis usuarios, tomé (parte de) mis _logs_, filtré los que contenían la cadena `google` y ejecuté el siguiente código:
 
-{{< highlight R >}}
+```r
 tmp <- read.table("logs.log", sep = " ", header=F)
 
 cadena <- as.character(tmp$V9)   # posición del "referral"
@@ -47,7 +47,7 @@ res[,2] <- as.numeric( gsub("cd=", "", res[,2]) )
 res[,1] <- sapply(as.character(res[,1]), URLdecode)
 res[,1] <- gsub("q=", "", res[,1])
 res <- res[res[,1] != "", ]
-{{< / highlight >}}
+```
 
 Con él he podido adquirir conocimientos tan profundos como que para la cadena
 
@@ -92,5 +92,4 @@ Y que, por otra parte, algunos de mis usuarios son contumaces y recorren y recor
 
 Finalmente, presento una gráfica del número de visitas según la posición (truncada en 10):
 
-[![](/img/2013/01/visitas_por_posicion1.png#center)
-](/img/2013/01/visitas_por_posicion1.png#center)
+![](/img/2013/01/visitas_por_posicion1.png#center)

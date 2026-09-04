@@ -30,7 +30,7 @@ Este pequeño (¿y sorprendente?) ejercicio probabilístico me ha servido de exc
 
 El código es:
 
-{{< highlight python >}}
+```python
 from random import choice
 
 def cadena():
@@ -64,28 +64,28 @@ for x in HHH:
         print x;
 for x in HHT:
         print x;
-{{< / highlight >}}
+```
 
 La magia está en el comando `yield` en la función `cadena`. Al hacer
 
-{{< highlight python >}}
+```python
 gen = cadena()
-{{< / highlight >}}
+```
 
 se _inicia_ el iterador. Cada vez que uno llama entonces a
 
-{{< highlight python >}}
+```python
 seq = gen.next()
-{{< / highlight >}}
+```
 
 se ejecuta una iteración del bucle
 
-{{< highlight R >}}
+```r
 while(True):
         a, b, c = b, c, choice("HT")
         yield a,b,c
-{{< / highlight >}}
+```
 
 en la función `cadena`, que recuerda entre llamada y llamada el estado de las variables (internas a ella) `a`, `b` y `c` (además de devolver, como haría `return`, el valor generado).
 
-Si tengo un poco de tiempo, veré si puedo implementar esta misma solucíón (sospecho que podría ser posible) con el [paquete iterators de R](http://cran.r-project.org/web/packages/iterators/index.html).
+Si tengo un poco de tiempo, veré si puedo implementar esta misma solución (sospecho que podría ser posible) con el [paquete iterators de R](http://cran.r-project.org/web/packages/iterators/index.html).

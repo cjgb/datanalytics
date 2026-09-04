@@ -23,7 +23,7 @@ url: /2017/06/07/funcionalidades-infravaloradas-de-r-los-corchetes/
 
 [Ad]Mirad esta pequeña maravilla de código:
 
-{{< highlight R >}}
+```r
 n <- 100
 dat <- data.frame(
   y = rnorm(100),
@@ -34,6 +34,6 @@ medias <- tapply(dat$y, dat$x, mean)
 dat$x.trans <- medias[dat$x]
 
 head(dat)
-{{< / highlight >}}
+```
 
 El corchete está manifiestamente infravalorado.

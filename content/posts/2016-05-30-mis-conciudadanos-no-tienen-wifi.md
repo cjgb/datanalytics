@@ -22,7 +22,7 @@ url: /2016/05/30/mis-conciudadanos-no-tienen-wifi/
 
 A alguien leí el otro día que decía que en un bar de carretera habían colocado un cartel diciendo: "Hemos quitado el periódico y hemos puesto wifi". Viene esto a cuento de
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(tm)
 library(wordcloud)
@@ -49,12 +49,12 @@ wordcloud(tmp, scale=c(5,0.5),
   random.order=FALSE,
   rot.per=0.35, use.r.layout=FALSE,
   colors=brewer.pal(8, "Dark2"))
-{{< / highlight >}}
+```
 
 que hace lo que dice, es decir,
 
 ![presupuestos_participativos](/img/2016/05/presupuestos_participativos.png#center)
 
-a partir de los títulos de las propuestas de los [presupuestos participativos del ayuntamieto de Madrid](https://decide.madrid.es/participatory_budget).
+a partir de los títulos de las propuestas de los [presupuestos participativos del ayuntamiento de Madrid](https://decide.madrid.es/participatory_budget).
 
 ¡Bibliotecas! Conciudadanos míos, ¿no tenéis una maldita wifi a mano? Que si por mí fuese, haría como el hostelero de carretera: fuera bibliotecas y a leer a Gerónimo Stilton a la @½#@ wifi.

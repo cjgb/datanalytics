@@ -26,7 +26,7 @@ En mis deambulaciones por internet topé con una [página interesante](http://da
 
 SAS u Oracle no deberían considerarse las herramientas por defecto. Para procesar y depurar ficheros de texto de menos de mil líneas bastan herramientas como R, [Google Refine](https://datanalytics.com/2010/11/12/google-refine-2-0-una-herramienta-con-muy-buen-aspecto/), vi, Excel/OpenCalc,...
 
-Python (o Perl) y la misma línea de comado de Linux/UNIX pueden resultar de una ayuda inestimable.
+Python (o Perl) y la misma línea de comandos de Linux/UNIX pueden resultar de una ayuda inestimable.
 
 Incluso cuando el tamaño de los datos crece por encima de lo que puede procesar un portátil corriente, puede plantearse el uso de Hadoop, [CouchDB](http://en.wikipedia.org/wiki/CouchDB), [Hibari](http://www.geminimobile.com/products/Hibari.html) u otros similares antes que recurrir por inercia o falta de imaginación a soluciones onerosas.
 
@@ -62,7 +62,7 @@ Por un precio misérrimo [se puede alquilar por horas una máquina](http://anali
 
 **No te pases de listo**
 
-Las ideas ingeniosas no escalan. La simplicidad sí. Atente a los estándares, normaliza tus datos, apóyate en herramientas de terceros. Un ejemplo: cuando desarrolaba [puente entre R y Python](http://cran.r-project.org/web/packages/rJython/), para transmitir objetos entre ambos sistemas tenía dos alternativas:
+Las ideas ingeniosas no escalan. La simplicidad sí. Atente a los estándares, normaliza tus datos, apóyate en herramientas de terceros. Un ejemplo: cuando desarrollaba [puente entre R y Python](http://cran.r-project.org/web/packages/rJython/), para transmitir objetos entre ambos sistemas tenía dos alternativas:
 
 * Crear módulos en C que accediesen a las estructuras de datos primitivas de R y Python y las tradujesen.
 * Usar[ JSON](http://es.wikipedia.org/wiki/JSON): muchos de los objetos de R pueden codificarse y decodificarse como objetos JSON; lo mismo pasa con Python. Por lo tanto, es fácil trasferir objetos entre uno y otro. Más aún, la biblioteca de manipulación de objetos JSON de R era tremendamente ineficiente. Y eso generaba un cuello de botella importante en mi código. Sin embargo, el autor de la biblioteca decidió reescribirla para mejorar su eficiencia. Como consecuencia, yo, sin hacer nada en absoluto, me beneficié de su esfuerzo: ¡la ineficiencia se arregló sola!

@@ -27,12 +27,12 @@ Uno de ellos, advierto, y les he advertido (porque yo, no siendo rector de unive
 
 Construye una matriz que dada una entrada del tipo
 
-{{< highlight R >}}
+```r
 a <- c('NAME:Maria /COUNTRY:uruguay /EMAIL:mariaUY@gmail.com',
 'NAME:Paul/COUNTRY:UK /EMAIL:PaulUK@gmail.com',
 'NAME:Jhon /COUNTRY:USA /EMAIL:JhonUSA@gmail.com',
 'NAME:Carlos /COUNTRY:Spain /EMAIL:CarlosSP@gmail.com')
-{{< / highlight >}}
+```
 
 devuelva un tabla con columnas `name`, `country` y `email` (con los datos correspondientes).
 
@@ -41,7 +41,7 @@ devuelva un tabla con columnas `name`, `country` y `email` (con los datos corres
 Crea un paquete de R con dos o tres funciones tontas. Una de ellas tiene que llamarse `suma.dos.numeros` y tiene que aceptar dos parámetros: los números que quieres sumar. Luego súbelo a Github.
 Para puntuar en este ejercicio, me tienes que pasar una versión del siguiente código,
 
-{{< highlight R >}}
+```r
 library(devtools)
 install_github("url del paquete")
 library("nombre del paquete")
@@ -49,7 +49,7 @@ suma.dos.numeros(2, 2)
 suma.dos.numeros(2, 5)
 ?suma.dos.numeros
 remove.packages("nombre del paquete")</code>
-{{< / highlight >}}
+```
 
 que instale tu paquete, ejecute lo que me interesa y lo elimine después.
 
@@ -61,9 +61,9 @@ Crea una función que admita como argumento dos cadenas de texto y compruebe si 
 
 Crea una función que dado la lista de nombres de ficheros tales como
 
-{{< highlight R >}}
+```r
 a <- c("ventas_norte_20161225.txt", "propuestas_sur_20161211.csv")
-{{< / highlight >}}
+```
 
 cree un `data.frame` con las columnas `tipo`, `zona` y `fecha` con sus formatos correspondientes. La extensión del fichero puede ser cualquiera (pero siempre acaba en varias letras, una o más, precedidas de un punto).
 
@@ -94,7 +94,7 @@ Repite el ejercicio anterior para una empresa que vende cachivaches por internet
 ### Ejercicio
 
 En un país viven 47M de habitantes; de ellos, 23M pertenecen a la población activa. Se hace una encuesta y se extrae una muestra de 180000. De ellos, 90000 pertenecen a la población activa (trabajan o quieren trabajar, tengan o no empleo). Resulta que de ellos, 17019 dicen estar en el paro (tasa de paro del 18.91%). Calcula el histograma de los posibles resultados que se obtendrían al repetir la encuesta.
-Pista: supón que el 18.91% de los 23M son parados. Extrae muetras de 90000 de ellos y cuenta cuántos están en el paro. Sandrán porcentajes similares pero no exactamente iguales al 18.91. Mide esa dispersión, que debería ser (parecido a, en una aproximación burda) el _error de la encuesta_.
+Pista: supón que el 18.91% de los 23M son parados. Extrae muestras de 90000 de ellos y cuenta cuántos están en el paro. Saldrán porcentajes similares pero no exactamente iguales al 18.91. Mide esa dispersión, que debería ser (parecido a, en una aproximación burda) el _error de la encuesta_.
 
 ### Ejercicio
 

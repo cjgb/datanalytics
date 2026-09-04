@@ -40,7 +40,7 @@ Pensemos en la mecánica clásica. Un objeto se mueve en el espacio impelido por
 
 Dos problemas:
 
-* El primero es que fijadas unas condiciones iniciales, el hamiltoniano es constante y las órbitas, por ejempo, nunca saldrán de ciertos pozos de potencial, por lo que habrá zonas vedadas de nuevo. La solución pasa por muestrear órbitas distintas correspondientes a condiciones iniciales de velocidad distintas (con una determinada distribución sobre estas velocidades).
+* El primero es que fijadas unas condiciones iniciales, el hamiltoniano es constante y las órbitas, por ejemplo, nunca saldrán de ciertos pozos de potencial, por lo que habrá zonas vedadas de nuevo. La solución pasa por muestrear órbitas distintas correspondientes a condiciones iniciales de velocidad distintas (con una determinada distribución sobre estas velocidades).
 
 ![halleyorbit](/img/2016/09/HalleyOrbit.gif)
 

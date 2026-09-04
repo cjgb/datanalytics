@@ -32,7 +32,7 @@ Tenemos y usamos todos reglas de (ojo de) buen cubero en muchas situaciones que 
 
 La historia de hoy viene a cuento de una regla de buen cubero que uno puede usar en estos contextos. Le he planteado el problema de las cartas a un compañero (muy agudo) y lo hemos estado discutiendo. Lo que nos ha conducido a otro problema emparentado, el de [Monty Hall](https://datanalytics.com/2010/06/10/sobre-la-probabilidad-condicionada-y-el-problema-de-monty-hall/).
 
-En puridad, estos problemas están en el ámbito del riesgo (no de la incertidumbre). Sin embargo, en ocasiones, no pudemos sentarnos con papel y boli a aplicar el teorema de Bayes. Y nuestras neuronas, malacostumbradas a Google, han perdido la capacidad para el cálculo mental. ¿Existe una regla de buen cubero que nos advierta (en el problema de Monty Hall, por ejemplo) que es mejor cambiar de puerta? Según él, sí: la de la cantidad de información.
+En puridad, estos problemas están en el ámbito del riesgo (no de la incertidumbre). Sin embargo, en ocasiones, no podemos sentarnos con papel y boli a aplicar el teorema de Bayes. Y nuestras neuronas, malacostumbradas a Google, han perdido la capacidad para el cálculo mental. ¿Existe una regla de buen cubero que nos advierta (en el problema de Monty Hall, por ejemplo) que es mejor cambiar de puerta? Según él, sí: la de la cantidad de información.
 
 En el problema de Monty Hall uno puede hacer dos cosas: mantener la opción original o cambiarla. Lo que ocurre, sin embargo, después de abierta una nueva puerta es un incremento en la información disponible sobre las restantes. Empecinarse en la opción original implica desechar dicha información. Por eso, un buen cubero debería cambiarla.
 

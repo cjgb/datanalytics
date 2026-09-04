@@ -19,7 +19,7 @@ title: Feria del libro, 2019
 url: /2019/06/04/feria-del-libro-2019/
 ---
 
-Fui a la Feria del Libro. El calor era el de L'Étranger. Comencé por la caseta uno. TOC. Riguroso orden hasta la _cientiypico_.
+Fui a la Feria del Libro. El calor era el de L'Étranger. Comencé por la caseta uno. TOC. Riguroso orden hasta la _cientipico_.
 
 _Libros, libros por todas partes..._
 

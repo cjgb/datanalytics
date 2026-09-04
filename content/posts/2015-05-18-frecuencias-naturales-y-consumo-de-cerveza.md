@@ -22,8 +22,7 @@ url: /2015/05/18/frecuencias-naturales-y-consumo-de-cerveza/
 
 Las _frecuencias naturales_ se utilizan como alternativa a los porcentajes para expresar probabilidades en lugar de, por ejemplo, porcentajes.
 
-[![frecuencias_naturales](/img/2015/05/frecuencias_naturales.png#center)
-](/img/2015/05/frecuencias_naturales.png#center)
+![frecuencias_naturales](/img/2015/05/frecuencias_naturales.png#center)
 
 El gráfico anterior está extraído de [este documento](http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000001633/01_chapter1.pdf?hosts=) en el que sus autores argumentan que transmite más eficazmente la idea de probabilidad que los porcentajes desnudos tan habituales.
 
@@ -35,7 +34,7 @@ Entienden que es preferible decir que _de cada 100 litros de cerveza vendidos en
 
 Es de notar que el mismo periodista continúa el artículo diciendo que
 
->El grupo Mahou-San Miguel —al que pertenecen las marcas Mahou, San Miguel y Alhambra— consolidó en 2014 su liderazgo en España (casi 12.000 hectolitros), seguido por Heineken —Heineken, Cruzcampo y Amstel— (poco más de 10.000) y Damm —Estrella Damm y Estrella de Levante— (8.300). A mucha distancia, Estrella Galicia (1.775 _hecolitros_), la Compañía Cervecera de Canarias (851) y La Zaragozana (675) cierran la clasificación de fabricantes.
+>El grupo Mahou-San Miguel —al que pertenecen las marcas Mahou, San Miguel y Alhambra— consolidó en 2014 su liderazgo en España (casi 12.000 hectolitros), seguido por Heineken —Heineken, Cruzcampo y Amstel— (poco más de 10.000) y Damm —Estrella Damm y Estrella de Levante— (8.300). A mucha distancia, Estrella Galicia (1.775 _hectolitros_), la Compañía Cervecera de Canarias (851) y La Zaragozana (675) cierran la clasificación de fabricantes.
 
 En total, unos 40.000 hectolitros. Que tocarían a 0.08 litros de cerveza por español. Media caña por español y año. ¿De cuántos órdenes de magnitud es el error?
 

@@ -27,16 +27,16 @@ La segunda entrada en mi serie sobre la creación de paquetes con R cubre los pr
 
 La manera en la que recomiendo comenzar a crear un paquete es partiendo de una serie de funciones ya desarrolladas previamente. Ni siquiera hace falta que estén terminadas ni que funcionen correctamente. Por ejemplo, podemos tener las dos funciones siguientes:
 
-{{< highlight R >}}
+```r
 foo <- function( x ) 2 * x
 bar <- function( y ) 2 * y
-{{< / highlight >}}
+```
 
 Si abrimos una nueva sesión de R —para que no haya funciones ni objetos adicionales en memoria (técnicamente, en el entorno global)— y cargamos esas funciones, podemos crear el _esqueleto_ de nuestro paquete, al que llamaremos `mipaquete`, así:
 
-{{< highlight R >}}
+```r
 package.skeleton( "mipaquete" )
-{{< / highlight >}}
+```
 
 Ese comando crea en el directorio actual el directorio mipaquete con la estructura básica de un paquete: el fichero `DESCRIPTION `y los directorios `R `(con el código de las funciones) y `man `(con el esquema básico de los ficheros de ayuda). Pero, ¡cuidado, solo puede utilizarse una vez! En lo sucesivo, al añadir funciones adicionales hay que crear el correspondiente fichero `.Rd` a mano.
 

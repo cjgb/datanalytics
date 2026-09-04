@@ -30,17 +30,17 @@ Se trata de variables categóricas con tres niveles: en / por encima de / por de
 
 Haciendo
 
-{{< highlight R >}}
+```r
 modelo <- lm(QualityScore ~ PostClickQualityScore +
     SearchPredictedCtr + CreativeQualityScore,
     data = tmp)
 
 summary(modelo)
-{{< / highlight >}}
+```
 
 se obtiene
 
-{{< highlight R >}}
+```r
 Call:
 lm(formula = QualityScore ~ PostClickQualityScore + SearchPredictedCtr +
     CreativeQualityScore, data = tmp)
@@ -64,6 +64,6 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 0.1574 on 11426 degrees of freedom
 Multiple R-squared:  0.9915,	Adjusted R-squared:  0.9915
 F-statistic: 2.212e+05 on 6 and 11426 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 Que no merece mayor explicación. Creo.

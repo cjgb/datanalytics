@@ -36,6 +36,6 @@ La segunda es que la predicción es un problema fácil, mientras que la estimaci
 
 [_Spoiler_: el modelo óptimo es sustancialmente mejor que el otro en el problema de estimación pero apenas superior en el de predicción.]
 
-La tercera cuestión es la defensa que hace Efron de la importancia de los que llama problemas de _superficie + ruido_. Que son modelos en los que se considera explícitamente un modelo generativo en el que los valores observados son resultado de una estructura (la superfie) y un ruido añadido.
+La tercera cuestión es la defensa que hace Efron de la importancia de los que llama problemas de _superficie + ruido_. Que son modelos en los que se considera explícitamente un modelo generativo en el que los valores observados son resultado de una estructura (la superficie) y un ruido añadido.
 
 Podemos descartar esas consideraciones y tratar simplemente de predecir, efectivamente. Pero, argumenta Efron, tratar de discernir la forma de esa _superficie_ (el problema de la estimación) genera de alguna manera un conocimiento superior, digno del calificativo de _científico_.

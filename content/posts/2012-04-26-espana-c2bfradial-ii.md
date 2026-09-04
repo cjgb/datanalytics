@@ -25,14 +25,14 @@ Una de las principales objeciones que se le pueden hacer a mi entrada de ayer es
 
 Así que enviemos una partida de pescado en malas condiciones a Mercamadrid, convidemos a toda la provincia, veámosla fenecer víctima de contumaces diarreas y rehagamos la simulación suponiendo que
 
-{{< highlight R >}}
+```r
 nodos.alt <- nodos
 nodos.alt$pop[nodos.alt$prov == "Madrid"] <- 0
-{{< / highlight >}}
+```
 
 ¿Qué forma tendría ahora la red? Ejecutando
 
-{{< highlight R >}}
+```r
 res  <- do.call(rbind, apply(aristas, 1, function(x) peso.tramos(x[1], x[2], g2, nodos.alt)))
 peso <- tapply(res$pop / (res$distancia)^(1), res$tramo, sum)
 
@@ -50,38 +50,35 @@ E(g3)$weight <- peso[peso >= median(peso)]
 centralidad <- data.frame(nodo = V(g3)$name, centralidad = alpha.centrality(g3) )
 centralidad <- centralidad[order(-centralidad$centralidad),]
 centralidad
-{{< / highlight >}}
+```
 
 se obtiene
 
-[![](/img/2012/04/red_madrrid_0.png#center)
-](/img/2012/04/red_madrrid_0.png#center)
+![](/img/2012/04/red_madrrid_0.png#center)
 
 Esta vez la península se parte en dos reeditando una suerte de _Hispania Tarraconensis_ en la que las capitales más centrales son Tarragona, Valencia, Barcelona, Castellón, Jaén y Lérida.
 
 Si en lugar de esta versión tan extrema suponemos que Madrid tiene una población _promedio_, es decir,
 
-{{< highlight R >}}
+```r
 nodos.alt <- nodos
 nodos.alt$pop[nodos.alt$prov == "Madrid"] <- median( nodos$pop )
-{{< / highlight >}}
+```
 
 se obtiene una configuración prácticamente similar:
 
-[![](/img/2012/04/red_madrrid_media.png#center)
-](/img/2012/04/red_madrrid_media.png#center)
+![](/img/2012/04/red_madrrid_media.png#center)
 
 Y, finalmente, si toda la población está distribuida uniformemente en las provincias, es decir,
 
-{{< highlight R >}}
+```r
 nodos.alt <- nodos
 nodos.alt$pop <- mean( nodos$pop )
-{{< / highlight >}}
+```
 
 las cosas cambian de manera bastante sorprendente:
 
-[![](/img/2012/04/red_provincias_iguales.png#center)
-](/img/2012/04/red_provincias_iguales.png#center)
+![](/img/2012/04/red_provincias_iguales.png#center)
 
 La vieja Castilla serviría de nexo de comunicaciones, siendo las provincias con  mayor centralidad Palencia, Burgos, Segovia, Guadalajara, Toledo, Soria y Madrid. Tal vez porque la densidad de capitales de provincia (al suponer la población igual en todas las provincias) favorece esa zona en que se agrupan de manera un poco más compacta.
 

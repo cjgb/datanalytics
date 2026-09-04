@@ -25,7 +25,7 @@ Esta entrada es casi una referencia para mí. Cada vez _tiro_ más de [`lme4`](h
 
 Veámoslo en funcionamiento. Primero, datos (_ANOVA-style_) y el modelo que piden a gritos:
 
-{{< highlight R >}}
+```r
 library(plyr)
 library(lme4)
 
@@ -36,11 +36,11 @@ datos <- ldply(1:100, function(i){
     data.frame(x = factors, y = a + rnorm(length(a)))
 })
 modelo <- lmer(y ~ (1 | x), data = datos)
-{{< / highlight >}}
+```
 
 El resumen del modelo está niquelado:
 
-{{< highlight R >}}
+```r
 summary(modelo)
 
 # Linear mixed model fit by REML ['lmerMod']
@@ -62,7 +62,7 @@ summary(modelo)
 # Fixed effects:
 #     Estimate Std. Error t value
 # (Intercept) -0.009334   0.412212  -0.023
-{{< / highlight >}}
+```
 
 En particular,
 
@@ -72,10 +72,10 @@ En particular,
 
 Ahora, la simulación. Así,
 
-{{< highlight R >}}
+```r
 sims.u.false <- simulate(modelo, nsim = 1000, use.u = FALSE)
 hist(apply(sims.u.false, 1, mean))
-{{< / highlight >}}
+```
 
 obtengo
 
@@ -83,10 +83,10 @@ obtengo
 
 donde se ha ignorado el valor preespecificado de los efectos aleatorios (el valor de `x`) en los datos. En jerga estadística, es la predicción incondicional. Pero podemos exigir que se condicione en los valores de `x` (es decir, tener en cuenta que hay observaciones con valores x predefinidos) así:
 
-{{< highlight R >}}
+```r
     sims.u.true <- simulate(modelo, nsim = 1000, use.u = TRUE)
     hist(apply(sims.u.true, 1, mean))
-{{< / highlight >}}
+```
 
 para obtener
 
@@ -96,7 +96,7 @@ que tiene mucha mejor pinta. Nótese que en los datos originales hay sujetos cuy
 
 Finalmente, se pueden añadir observaciones con un nivel de `x` desconocido. La simulación condicional lo es para aquellas observaciones con niveles conocidos del factor aleatorio y, por decirlo de alguna manera, incondicional para las que no (y hay que usar la opción `allow.new.levels = TRUE`):
 
-{{< highlight R >}}
+```r
 new_data <- data.frame(x = c(factors, "z"))
 sims.u.true.alt <- simulate(modelo, nsim = 1000, use.u = TRUE, allow.new.levels = TRUE, newdata = new_data)
 t(apply(sims.u.true.alt, 1, function(x) c(mean(x), sd(x))))
@@ -111,7 +111,7 @@ t(apply(sims.u.true.alt, 1, function(x) c(mean(x), sd(x))))
 # 8  -2.098316767 0.9620356
 # 9   1.926374151 0.9744446
 # 10  0.012539384 1.0108651
-{{< / highlight >}}
+```
 
 En particular, se aprecia cómo las simulaciones asociadas a la última observación, la que tiene el nivel _desconocido_ de `x` `z`, están mucho más próximas a cero.
 

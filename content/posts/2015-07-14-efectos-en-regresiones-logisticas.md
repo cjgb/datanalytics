@@ -26,7 +26,7 @@ Sugiere José Luis el uso del paquete [`effects`](http://cran.r-project.org/web/
 
 Nos copia el código
 
-{{< highlight R >}}
+```r
 library(effects)
 mod.cowles <- glm(volunteer ~ sex + neuroticism*extraversion,
     data = Cowles, family = binomial)
@@ -34,27 +34,26 @@ eff.cowles <- allEffects(mod.cowles,
     xlevels = list(extraversion = seq(0, 24, 6)),
     given.values = c(sexmale = 0.5))
 plot(eff.cowles, type = "response")
-{{< / highlight >}}
+```
 
 
 que genera
 
-[![effects](/img/2015/07/effects.png#center)
-](/img/2015/07/effects.png#center)
+![effects](/img/2015/07/effects.png#center)
 
 un gráfico en el que se aprecia el efecto de las variables en la probabilidad de `volunteer`. Entre otras cosas, nos indica el efecto de `sex`, que coincide con el que podemos obtener haciendo
 
 
-{{< highlight R >}}
+```r
 tapply(Cowles$volunteer == "yes", Cowles$sex, mean)
 #female      male
 #0.4474359 0.3868955
-{{< / highlight >}}
+```
 
 y el mucho más jugoso análisis del efecto cruzado, en el que se aprecia la desigual influencia de una variable según el nivel de la otra (y supongo que habrá maneras de _invertir_ la gráfica).
 
 Los efectos en este tipo de análisis son de interés limitado si no se puede fijar el nivel de las variables adicionales. Por ejemplo, nos interesaría conocer el efecto del término cruzado solo para los hombres. O del sexo para quienes tengan un nivel dado de alguna de las otras variables, etc. Para eso están los argumentos `given.values` y `typical`.
 
-Y, ¿para qué todo esto? Pues para que cuando ajustes tu próxima regresión logística no te quedes en un análisis de los coeficientes sino que, trascenciéndolo, puedas analizar lo jugoso: la probabilidad que asignaría tu modelo a los distintos sujetos en función de variables de interés.
+Y, ¿para qué todo esto? Pues para que cuando ajustes tu próxima regresión logística no te quedes en un análisis de los coeficientes sino que, trascendiéndolo, puedas analizar lo jugoso: la probabilidad que asignaría tu modelo a los distintos sujetos en función de variables de interés.
 
 Y termino con un pequeño ejercicio autoevaluable: a la vista del gráfico anterior, ¿qué signo tiene el efecto cruzado de `neuroticism` y `extraversion`?

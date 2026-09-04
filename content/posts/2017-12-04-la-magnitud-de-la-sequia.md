@@ -22,7 +22,7 @@ title: La magnitud de la sequía
 url: /2017/12/04/la-magnitud-de-la-sequia/
 ---
 
-Cuando tienes una serie temporal _al uso_ (sin entrar a definir qué es eso), uno puede aplicar descomposiciones tmabién _al uso_, como `stl`, para extraer tendencia y estacionalidad, de la forma
+Cuando tienes una serie temporal _al uso_ (sin entrar a definir qué es eso), uno puede aplicar descomposiciones también _al uso_, como `stl`, para extraer tendencia y estacionalidad, de la forma
 
 ![](/img/2017/02/wikipedia_r_decomposition.png#center)
 
@@ -63,7 +63,7 @@ Los datos de pluviosidad histórica están en AEMET, pero sacarlos de ahí es ta
 
 También el código, para referencia de todos. La magia, en todo caso, es producto del maravilloso [paquete `INLA` de R](http://www.r-inla.org/). La parte más relevante del código es el lugar donde defino el modelo. La más discutible, es donde extraigo las estimaciones de los parámetros (me quedo con la moda de la posteriori). Pero es mejorable con poco esfuerzo.
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 library(lubridate)
 library(INLA)
@@ -122,4 +122,4 @@ png("/tmp/probabilidad_lluvia_madrid.png", height = 400, width = 800)
 plot(fechas, prob, type = "l", xlab = "fecha", ylab = "",
      main = "probabilidad diaria de lluvia\nMadrid, 2000-2017")
 dev.off()
-{{< / highlight >}}
+```

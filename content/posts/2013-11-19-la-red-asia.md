@@ -24,8 +24,7 @@ url: /2013/11/19/la-red-asia/
 
 La red Asia es esto:
 
-[![](/img/2013/11/red_asia.jpg)
-](/img/2013/11/red_asia.jpg)
+![](/img/2013/11/red_asia.jpg)
 
 Es decir, una red bayesiana. Una red bayesiana clásica sobre la que los interesados podrán saber más leyendo [lo que Lauritzen y Spiegelhalter dejaron escrito sobre ella en 1988](http://www.csee.wvu.edu/~xinl/library/papers/math/statistics/Lauritzen_Spiegelhalter1988.pdf).
 
@@ -44,7 +43,7 @@ Las probabilidades condicionales indican en qué medida unas causas inducen unos
 
 Y, ¿cómo analizamos esta red bayesiana? Podemos usar R, Google para ubicar [esto](https://stat.ethz.ch/pipermail/r-help/2011-September/291116.html) y escribir:
 
-{{< highlight R >}}
+```r
 library(gRain)
 
 yn <- c("yes", "no")
@@ -59,11 +58,11 @@ e.lt <- ortable(~ either + lung + tub, levels = yn)
 
 plist <- compileCPT( list(a, t.a, s, l.s, b.s, e.lt, x.e, d.be))
 BN <-grain(plist,smooth=0)
-{{< / highlight >}}
+```
 
 Con eso hemos definido y _compilado_ la red bayesiana. Y entonces podemos hacer consultas sobre ella. Por ejemplo:
 
-{{< highlight R >}}
+```r
 querygrain( BN, nodes = c("lung", "bronc"), type = "marginal")
 # $lung
 # lung
@@ -79,11 +78,11 @@ querygrain( BN, nodes = c("lung", "bronc"), type = "joint")
 # lung     yes     no
 # yes 0.0315 0.0235
 # no  0.4185 0.5265
-{{< / highlight >}}
+```
 
 O de otra manera,
 
-{{< highlight R >}}
+```r
 tmp <- setFinding(BN, nodes = c("asia", "dysp"), states = c("yes", "yes"))
 querygrain(tmp, nodes = c("lung", "bronc"))
 # $lung
@@ -100,7 +99,7 @@ getFinding(tmp)
 #   asia: yes
 # dysp: yes
 # Pr(Finding)= 0.004501375
-{{< / highlight >}}
+```
 
 La interpretación de los resultados anteriores queda como ejercicio a mis lectores así como el jugar con los parámetros para realizar otros cálculos sobre la red. No abundaré en eso.
 

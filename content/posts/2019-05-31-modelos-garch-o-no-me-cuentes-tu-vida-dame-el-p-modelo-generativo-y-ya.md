@@ -27,7 +27,7 @@ En cambio, ves el [código (o seudocódigo) del modelo generativo](https://mc-st
 
 Bonus:
 
-{{< highlight R >}}
+```r
 a0 <- .1
 a1 <- .2
 a2 <- .5
@@ -50,7 +50,7 @@ plot(x, type = "l", main = "x",
     xlab = "", ylab = "")
 plot(sigma, type = "l", main = "sigma",
     xlab = "", ylab = "")
-{{< / highlight >}}
+```
 
 
 ![](/img/2019/05/garch.R.png#center)

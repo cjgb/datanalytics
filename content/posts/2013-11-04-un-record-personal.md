@@ -22,10 +22,10 @@ url: /2013/11/04/un-record-personal/
 
 El otro día, casi por error, cargué este dataframe en R:
 
-{{< highlight R >}}
+```r
 dim(raw)
 # [1] 115318140         4
-{{< / highlight >}}
+```
 
 Es todo un récord personal logrado en un servidor con 24GB de RAM bastante caro.
 

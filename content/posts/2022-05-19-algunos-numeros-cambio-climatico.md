@@ -22,7 +22,7 @@ Hay un reciente artículo en El País, [_Tu día a día en internet contamina al
 
 El titular, como se verá, es una sobrestimación (como poco, de un orden de magnitud); la entradilla, que dice
 
-> La basura de los archivos inútiles almacenados en la nube supone 600 toneladas de C0₂ y eliminarlos o recuperarlos tendría un impacto equivalente al de plantar 10.000 árboles
+> La basura de los archivos inútiles almacenados en la nube supone 600 toneladas de CO₂ y eliminarlos o recuperarlos tendría un impacto equivalente al de plantar 10.000 árboles
 
 es un mero asustaviejas: 600 toneladas de CO₂ son el chocolate del loro y 10k árboles, menos de 10 hectáreas, caben en cualquier lado. Seguro que el esfuerzo de identificarlos y borrarlos consume mucho más.
 

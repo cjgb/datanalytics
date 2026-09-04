@@ -33,18 +33,18 @@ De hecho, ejecutando
 
 
 
-{{< highlight R >}}
+```r
 dat <- c(1134, 1132, 1131)
 lambda <- mean(dat)
 sd(dat)
 sds <- replicate(10000, sd(rpois(3, mean(dat))))
 hist(sds, breaks = 100)
 mean(sds < sd(dat))
-{{< / highlight >}}
+```
 
 se ve cómo apenas en 1 de cada 1000 tiradas aleatorias de tres variables aleatorias independientes de Poisson con parámetro ~1132 se obtienen varianzas tan bajas. Y ejecutando
 
-{{< highlight R >}}
+```r
 foo <- function(){
   muestra <- rpois(57, lambda)
 
@@ -54,7 +54,7 @@ foo <- function(){
 
 sds <- replicate(10000, foo())
 mean(sds < sd(dat))
-{{< / highlight >}}
+```
 
 se comprueba que en tiradas de 57 variables aleatorias de Poisson, la varianza mínima de tríos de observaciones consecutivas es menor que la de la serie observada en apenas un 7% de los casos.
 

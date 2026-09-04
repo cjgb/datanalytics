@@ -23,7 +23,7 @@ url: /2017/01/20/la-h-filosofia-de-la-estadistica-en-once-puntos/
 * Que no te asuste utilizar métodos modernos
 * Preserva toda la información disponible en los datos: evita categorizar los predictores continuos y los valores predichos
 * No asumas que algo opera linealmente
-* Ten en cuenta la incerditumbre sobre el (no del) modelo y trata de minimizarlo usando conocimiento previo sobre la materia
+* Ten en cuenta la incertidumbre sobre el (no del) modelo y trata de minimizarlo usando conocimiento previo sobre la materia
 * Usa remuestreos
 * Considera el tamaño muestral una variable aleatoria cuando sea posible
 * Usa estadística bayesiana siempre que sea posible

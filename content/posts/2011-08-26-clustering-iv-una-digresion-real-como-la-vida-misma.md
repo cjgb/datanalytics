@@ -39,8 +39,7 @@ Dice la consultora en su presentación (y no corrijo la redacción aunque duela 
 Y acompaña el anterior párrafo del siguiente gráfico:
 
 
-[![](/img/2011/08/segmentacion_corporativa.png#center)
-](/img/2011/08/segmentacion_corporativa.png#center)
+![](/img/2011/08/segmentacion_corporativa.png#center)
 
 
 En él pueden los lectores ver los famosos _clústers_: el de los solteros, los apóstoles, los _seniors_, los multiproducto. Cada globo, entiendo, tiene un tamaño proporcional (¿en radio? ¿en volumen?) al tamaño del _clúster_ que representa. Los ejes son la edad (horizontal) y el valor (vertical).

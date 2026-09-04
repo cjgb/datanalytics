@@ -20,10 +20,9 @@ title: El curioso caso de los suicidios en la villa de Madrid
 url: /2015/12/03/el-curioso-caso-de-los-suicidios-en-la-villa-de-madrid/
 ---
 
-Esta entrada es la continuación de otra casi homónima, [_El curioso caso de los suicidios en Madrid_](https://datanalytics.com/2015/09/30/el-curioso-caso-de-los-suicidios-en-madrid/). Los datos de aquella ocasión eran dos cosas: raros y provinciales. Los de esta son otras dos: mucho más raros y muncipales. En efecto,
+Esta entrada es la continuación de otra casi homónima, [_El curioso caso de los suicidios en Madrid_](https://datanalytics.com/2015/09/30/el-curioso-caso-de-los-suicidios-en-madrid/). Los datos de aquella ocasión eran dos cosas: raros y provinciales. Los de esta son otras dos: mucho más raros y municipales. En efecto,
 
-[![suicidios_municipio_madrid](/img/2015/12/suicidios_municipio_madrid.png#center)
-](/img/2015/12/suicidios_municipio_madrid.png#center)
+![suicidios_municipio_madrid](/img/2015/12/suicidios_municipio_madrid.png#center)
 
 ¡Ni jarto de vino!
 

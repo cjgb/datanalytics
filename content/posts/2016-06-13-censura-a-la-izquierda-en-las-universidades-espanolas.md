@@ -24,7 +24,7 @@ url: /2016/06/13/censura-a-la-izquierda-en-las-universidades-espanolas/
 
 En España hay pruebas de acceso a la universidad y [en algunos sitios publican las notas de corte](http://elpais.com/especiales/universidades/) para acceder a determinados estudios. Las he bajado _escrapeando_ El País así
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(plyr)
 library(rstan)
@@ -68,7 +68,7 @@ notas$nota[notas$nota > 5000] <- notas$nota[notas$nota > 5000] / 1000
 notas <- notas[notas$nota > 0,]
 
 notas <- notas[order(notas$nota), ]
-{{< / highlight >}}
+```
 
 
 con el objetivo de estudiar el efecto de la universidad / sede y de la carrera en el punto de corte. Esencialmente, quiero hacer algo así como `lmer(nota ~ 1 + (1 | sede) + (1 | carrera), data = notas)`, pero hay una complicación: como creo que mis lectores sabrán, las notas de acceso tienen un valor mínimo, el del aprobado, 5. Eso significa que, de alguna manera, están censuradas por la izquierda. El modelo resultante es algo así como
@@ -76,9 +76,9 @@ con el objetivo de estudiar el efecto de la universidad / sede y de la carrera e
 $\text{nota} \sim N(a + \text{sede} + \text{carrera}, \sigma)$
 $\text{nota\_observada} = \max(5, \text{nota})$
 
-Así que toca renuniciar a `lmer` y utilizar el sustancialmente más flexible `rstan`:
+Así que toca renunciar a `lmer` y utilizar el sustancialmente más flexible `rstan`:
 
-{{< highlight R >}}
+```r
 n_rows   <- nrow(notas)
 n_cens   <- sum(notas$nota == 5)
 n_no_cens <- sum(notas$nota > 5)
@@ -129,14 +129,14 @@ model {
 fit <- stan(model_code = codigo.stan,
             iter=2200, warmup=200,
             chains=4, thin=5)
-{{< / highlight >}}
+```
 
 
 En `rstan`, una de las maneras de introducir la censura en observaciones es considerar las notas no observadas (notas de corte con valor cinco) como parámetros con un valor límite (máximo en este caso) y las observadas como observaciones con un límite inferior (de cinco también en nuestro caso).
 
 Una vez corrida la cosa,
 
-{{< highlight R >}}
+```r
 coefs.sedes <- res[,grep("^beta_sedes", colnames(res))]
 coefs.sedes$id <- 1:nrow(coefs.sedes)
 coefs.sedes <- melt(coefs.sedes, id.vars = "id")
@@ -148,7 +148,7 @@ coefs.sedes$sede <- reorder(coefs.sedes$sede, coefs.sedes$value, median)
 
 ggplot(coefs.sedes, aes(x = sede, y = value)) +
   geom_boxplot(outlier.shape = NA) + coord_flip()
-{{< / highlight >}}
+```
 
 genera algo así como
 
@@ -156,7 +156,7 @@ genera algo así como
 
 y
 
-{{< highlight R >}}
+```r
 coefs.carreras <- res[,grep("^beta_carreras", colnames(res))]
 coefs.carreras$id <- 1:nrow(coefs.carreras)
 coefs.carreras <- melt(coefs.carreras, id.vars = "id")
@@ -167,7 +167,7 @@ coefs.carreras$carrera <- reorder(coefs.carreras$carrera, coefs.carreras$value, 
 
 ggplot(coefs.carreras, aes(x = carrera, y = value)) +
   geom_boxplot(outlier.shape = NA) + coord_flip()
-{{< / highlight >}}
+```
 
 
 , (sí, una coma porque elido el verbo)

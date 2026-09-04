@@ -21,7 +21,7 @@ url: /2014/04/24/aventuras-de-web-scraping-como-bajarse-todo-el-boe/
 
 Rescato aquí para futura o ajena referencia un pedazo de código que utilicé un día para un proyecto que se abortó y que tenía que ver con el análisis del texto del BOE. Reza así:
 
-{{< highlight R >}}
+```r
 setwd("~/boe/boes")
 
 library(RCurl)
@@ -43,6 +43,6 @@ for( i in 1:3212){
   res <- getURI(mi.url, curl = h)
   cat(res, file = nom.fich)
 }
-{{< / highlight >}}
+```
 
 No me preguntéis por qué el contador solo llega hasta tres mil doscientos y pico. O por qué no itero hasta que `getURI` devuelva un error.

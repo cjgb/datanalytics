@@ -28,13 +28,13 @@ Con la frase que titula esta entrada se cierra [este artículo](http://www.eldia
 
 El resto de lo que se publica me viene de perillas para ilustrar a mis alumnos del [máster de ciencia de datos de KSchool](http://kschool.com/cursos/madrid/master-en-data-science/) eso de la dependencia e independencia condicional.
 
-Lo que el artículo argumenta, y que nadie pone en duda, es que altas concentraciones de óxidos de nitrógeno (A) y picos de hospitalizaciones por enfermedades respiratiorias (B), no son eventos independientes. Es decir, que $P(A \cap B) \neq P(A)P(B)$. En otros términos, que nuestro conocimiento de A nos permite refinar nuestra estimación de B. Todo correcto.
+Lo que el artículo argumenta, y que nadie pone en duda, es que altas concentraciones de óxidos de nitrógeno (A) y picos de hospitalizaciones por enfermedades respiratorias (B), no son eventos independientes. Es decir, que $P(A \cap B) \neq P(A)P(B)$. En otros términos, que nuestro conocimiento de A nos permite refinar nuestra estimación de B. Todo correcto.
 
 Sin embargo, ¿de ahí a _Los picos de contaminación **causan** un aumento radical en los ingresos hospitalarios_, que es como se titula el artículo en cuestión?
 
 Podría argumentarse que hay una causa no contemplada en el artículo, el frío, que:
 
-* Hace que se incremente la concentración de óxidos de nitrógeno (por ejemplo, [aquí](http://uk-air.defra.gov.uk/assets/documents/reports/aqeg/nd-summary.pdf) dice cómo _en invierno, cuanod el suelo está frío y no corre el viento, las emisiones quedan atrapadas cerca de la superficie_)
+* Hace que se incremente la concentración de óxidos de nitrógeno (por ejemplo, [aquí](http://uk-air.defra.gov.uk/assets/documents/reports/aqeg/nd-summary.pdf) dice cómo _en invierno, cuando el suelo está frío y no corre el viento, las emisiones quedan atrapadas cerca de la superficie_)
 * Incrementa el impacto de las enfermedades respiratorias.
 
 Podría incluso llegarse a dar el caso de que los dos eventos anteriores fuesen condicionalmente independientes con respecto a la temperatura, es decir, que aunque $P(A \cap B) \neq P(A)P(B)$, ocurriese que $P(A \cap B | C) = P(A|C)P(B|C)$. Expresado de otra manera, que una vez conocida la temperatura, podría desaparecer totalmente la correlación entre contaminación y hospitalizaciones.

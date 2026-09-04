@@ -26,7 +26,7 @@ _[Nota: aquí quise incrustar un tuit de Analía Plaza que, aparentemente, fue b
 
 <!--- https://twitter.com/lalalalia/status/1300062241979596800 -->
 
-Lo primero que tengo que decir al respecto es que las tetas y culos que asocia al Cabo de Gata el Instagram de quienqueira que haya tomado esas capturas son prácticamente las mismas que en el mío (y otro día os cuento por qué tengo Instagram, porque ni lo sabéis ni os lo podéis imaginar), a saber,
+Lo primero que tengo que decir al respecto es que las tetas y culos que asocia al Cabo de Gata el Instagram de quienquiera que haya tomado esas capturas son prácticamente las mismas que en el mío (y otro día os cuento por qué tengo Instagram, porque ni lo sabéis ni os lo podéis imaginar), a saber,
 
 ![](/img/2020/09/Screenshot_20200901-234329.png#center)
 

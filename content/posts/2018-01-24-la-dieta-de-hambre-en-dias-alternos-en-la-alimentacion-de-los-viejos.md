@@ -36,6 +36,6 @@ Ya en temas más serios, la inexistencia de ningún tipo de comité o norma éti
 
 Y, finalmente, los resultados. De los dos grupos de sesenta viejos, los del grupo de control pasaron 213 días en baja (contra 123 los de tratamiento) y en tres años fallecieron 13 de ellos (contra 6). Ni una bendita prueba estadística. Ni un solo malhadado p-valor. Por supuesto, ninguna medida que justifique la homogeneidad de los grupos de tratamiento y control.
 
-(No sé si alguien osará a hacer el cálculo de los correspondientes p-valors y publicarlo en los comentarios para ilustración de todos).
+(No sé si alguien osará a hacer el cálculo de los correspondientes p-valores y publicarlo en los comentarios para ilustración de todos).
 
 Eso sí, [Cochrane](https://www.datanalytics.com/wp-admin/post-new.php), para cuando se escribió eso, era poco menos que un chaval.

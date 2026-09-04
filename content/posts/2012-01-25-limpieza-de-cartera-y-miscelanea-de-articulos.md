@@ -20,7 +20,7 @@ title: Limpieza de cartera y miscelánea de artículos
 url: /2012/01/25/limpieza-de-cartera-y-miscelanea-de-articulos/
 ---
 
-He decidido limpiar mi cartera. Llevo en ella unos cuantos artículos impresos que me acompañan desde hace mucho y que, por un lado, me da pena tirar y, por el otro, no me aportan en el día a día. Voy a reciclar el papel sobre el que los imprimí y, a la vez, dejar en enlace a ellos por si a mí un día (o a alguno de mis lectores otro) me da por volver sobre ellos. Son:
+He decidido limpiar mi cartera. Llevo en ella unos cuantos artículos impresos que me acompañan desde hace mucho y que, por un lado, me da pena tirar y, por el otro, no me aportan en el día a día. Voy a reciclar el papel sobre el que los imprimí y, a la vez, dejar un enlace a ellos por si a mí un día (o a alguno de mis lectores otro) me da por volver sobre ellos. Son:
 
 * [_Don't be loopy: Re-Sampling and Simulation the SAS Way_](http://www2.sas.com/proceedings/forum2007/183-2007.pdf), [del que ya he hablado](https://datanalytics.com/2011/08/11/dont-be-loopy/) en otras ocasiones.
 * [_Dealing with Outliers: Maintain your Data's Integrity_](http://rfd.uoregon.edu/files/rfd/StatisticalResources/outl.txt), un estupendo resumen sobre el origen, naturaleza y efectos de los _outliers_. No hay que perderse tampoco algunas de las referencias.

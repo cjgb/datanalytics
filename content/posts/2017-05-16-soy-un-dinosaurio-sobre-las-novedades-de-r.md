@@ -40,23 +40,23 @@ Nunca he sido particularmente partidario de `dplyr` por varios motivos:
 
 Ocultar al neófito todo lo que hubo tiene ciertas ventajas (las conozco) pero también un grave inconveniente: esa gente no sabrá leer código ajeno, código anterior. Creo que es mejor enseñar el canon y luego, una vez que alguien sabe escribir
 
-{{< highlight R >}}
+```r
 a <- foo(b)
-{{< / highlight >}}
+```
 
 advertirle que hay gente que también escribe, y que es lo mismo,
 
-{{< highlight R >}}
+```r
 a <- b %>% foo
-{{< / highlight >}}
+```
 
 O que una vez que hace suya la operación (abstracta) _groupby_, decirle que no hay más remedio que asumir que hay tres o cuatro maneras distintas de transcribirla en R. Que la sintaxis, en definitiva, es una añadidura tan superficial y sutil como la diferencia entre el teclado español y el estadounidense. Que en programación hay que ser chomquista, pensar en la [gramática universal](https://en.wikipedia.org/wiki/Universal_grammar) y teclear en la sintaxis que toque.
 
 ¿Y sobre los gráficos? Bien, los de `ggplot2` son resultones. Concedido. Pero muchos no usamos R (solo) para hacer gráficos chulos. Usamos R para analizar datos. Y queremos poder inspeccionar la columna `edad` con un brevísimo
 
-{{< highlight R >}}
+```r
 hist(dat$edad)
-{{< / highlight >}}
+```
 
 (¿ocho golpes de tecla?) para entender rápidamente su distribución sin enredarnos en toda la gramática de los gráficos del Sr. Wilkinson.
 

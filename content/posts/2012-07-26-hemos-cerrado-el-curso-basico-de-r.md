@@ -18,7 +18,7 @@ title: Hemos cerrado el curso básico de R
 url: /2012/07/26/hemos-cerrado-el-curso-basico-de-r/
 ---
 
-El [curso básico de R](http://cursorbasico.usar.org.es) ha concluido. Hemos tenido 904 inscritos (aunque de ellossolo un porcentaje pequeño ha tenido una participación activa) que a lo largo de 5 semanas han seguido el [programa ](http://cursorbasico.usar.org.es/etiquetas/programa/)que planteamos [Juanjo Gibaja](http://jjgibaja.net/) y yo.
+El [curso básico de R](http://cursorbasico.usar.org.es) ha concluido. Hemos tenido 904 inscritos (aunque de ellos solo un porcentaje pequeño ha tenido una participación activa) que a lo largo de 5 semanas han seguido el [programa ](http://cursorbasico.usar.org.es/etiquetas/programa/)que planteamos [Juanjo Gibaja](http://jjgibaja.net/) y yo.
 
 Quiero dar las gracias a los participantes en el curso y muy particularmente a quienes han contribuido más activamente en nuestra plataforma de preguntas y aprendizaje.
 
@@ -26,56 +26,46 @@ Al acabar hemos hecho una pequeña encuesta entre quienes lo han seguido con los
 
 ¿Cuál es tu valoración sobre la adecuación de los contenidos cubiertos durante el curso?
 
-[![](/img/2012/07/contenidos.png#center)
-](/img/2012/07/contenidos.png#center)
+![](/img/2012/07/contenidos.png#center)
 
 ¿Cuál es tu valoración sobre la calidad de la documentación sugerida?
 
-[![](/img/2012/07/calidad.png#center)
-](/img/2012/07/calidad.png#center)
+![](/img/2012/07/calidad.png#center)
 
 ¿Cuál es tu valoración de la usabilidad de la plataforma de preguntas y respuestas?
 
-[![](/img/2012/07/plataforma.png#center)
-](/img/2012/07/plataforma.png#center)
+![](/img/2012/07/plataforma.png#center)
 
 ¿Cuál es tu valoración sobre el grado de interacción con los participantes?
 
-[![](/img/2012/07/interaccion.png#center)
-](/img/2012/07/interaccion.png#center)
+![](/img/2012/07/interaccion.png#center)
 
 ¿Cuál es tu valoración sobre la utilidad del curso?
 
-[![](/img/2012/07/utilidad.png#center)
-](/img/2012/07/utilidad.png#center)
+![](/img/2012/07/utilidad.png#center)
 
 ¿Cuál es tu valoración acerca de tu grado de avance en el conocimiento de R como resultado del curso?
 
-[![](/img/2012/07/avance.png#center)
-](/img/2012/07/avance.png#center)
+![](/img/2012/07/avance.png#center)
 
 ¿Cuál ha sido tu seguimiento del curso?
 
-[![](/img/2012/07/seguimiento.png#center)
-](/img/2012/07/seguimiento.png#center)
+![](/img/2012/07/seguimiento.png#center)
 
 En caso de haber abandonado el curso, ¿cuál(es) ha(n) sido el/los motivo(s)?
 
-[![](/img/2012/07/motivo.png#center)
-](/img/2012/07/motivo.png#center)
+![](/img/2012/07/motivo.png#center)
 
 De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso de introducción a la Estadística con R (con más Estadística y menos R que este curso)?
 
-[![](/img/2012/07/estadistica.png#center)
-](/img/2012/07/estadistica.png#center)
+![](/img/2012/07/estadistica.png#center)
 
 
 (Perdón por la [graficaca](https://datanalytics.com/2011/03/02/1658/): son cosas de Google).
 
 De cara al futuro (probablemente septiembre), ¿estarías interesado en un curso avanzado de R?
 
-[![](/img/2012/07/avanzado.png#center)
-](/img/2012/07/avanzado.png#center)
+![](/img/2012/07/avanzado.png#center)
 
 Así que creo que es bastante probable que después de las vacaciones planteemos un nuevo curso con contenido aún a determinar.
 

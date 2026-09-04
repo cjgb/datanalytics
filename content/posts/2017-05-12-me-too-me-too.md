@@ -27,7 +27,7 @@ Las alturas corresponden a una cierta potencia de la población residente en la 
 
 El código,
 
-{{< highlight R >}}
+```r
     library(ggplot2)
     options(expressions = 10000)
 
@@ -62,6 +62,6 @@ El código,
                 panel.grid.major=element_blank(),
                 panel.grid.minor=element_blank(),
                 plot.background=element_blank())
-{{< / highlight >}}
+```
 
 Nota: se me olvidó escribir en el cuerpo lo que anunciaba el título, i.e., que esta entrada está inspirada (fusilada, de hecho) en lo esencial de [otras previas](http://spatial.ly/2017/04/population-lines-how-and-why-i-created-it/).

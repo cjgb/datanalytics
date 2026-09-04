@@ -30,7 +30,7 @@ que es ---al contrario de los resultados presuntamente basados en datos pero, en
 
 Creo que no puedo publicar datos. Pero otros lo han hecho por [mí](https://github.com/medialab-prado/mobilomics/blob/master/data/EMT/demanda_fixed.csv.gz). El código, por si a alguien le vale para algo (o si quiere extender lo que he hecho, que lo he dejado a huevo) es
 
-{{< highlight R >}}
+```r
 library(plyr)
 library(dplyr)
 library(lubridate)
@@ -76,4 +76,4 @@ tmp <- tmp[tmp$hora > 6 & tmp$hora < 22,]
 ggplot(tmp, aes(x = norte_sur, y = viajeros)) +
   geom_col() +
   facet_wrap(~ hora)
-{{< / highlight >}}
+```

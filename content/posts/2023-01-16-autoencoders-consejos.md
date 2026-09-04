@@ -38,12 +38,12 @@ La principal recomendación genérica que puedo hacer para aplicar exitosamente 
 La tangente hiperbólica es la opción _menos mala_ en el exiguo menú de funciones de activación que proporciona, en mi caso, Keras. Una función de activación más interesante sería una que:
 
 1. Creciese como $f(x) = x$ cerca del cero.
-2. Creciese como $f(x) = x^\alpha$ con $\alpha$ típicamnete en $(0, 1)$ para valores positivos grandes.
+2. Creciese como $f(x) = x^\alpha$ con $\alpha$ típicamente en $(0, 1)$ para valores positivos grandes.
 3. Fuese simétrica: $f(-x) = f(x)$.
 
 Creo que permitiría gestionar el problema de los outliers mejor que la `tanh`.
 
-Y unas notas finales sobre la gestión de _outliers_ que, seguramente, serán conocidas de muchos pero que tampoco he visto explicitadas por ahí a menudo. El problema de los _outliers_ es que desdibujan la información proporcionada por las observaciones _normales_. Pero no se sabe cuál es dicha información ---y cuáles son las observaciones _normales_--- hasta que no tratas de extralerla modelizando. Una estrategia, pues, para eliminar las observaciones anómalas es la siguiente:
+Y unas notas finales sobre la gestión de _outliers_ que, seguramente, serán conocidas de muchos pero que tampoco he visto explicitadas por ahí a menudo. El problema de los _outliers_ es que desdibujan la información proporcionada por las observaciones _normales_. Pero no se sabe cuál es dicha información ---y cuáles son las observaciones _normales_--- hasta que no tratas de extraerla modelizando. Una estrategia, pues, para eliminar las observaciones anómalas es la siguiente:
 
 1. Ajustar un primer modelo (_autoencoder_ en particular).
 2. Calcular el error de reconstrucción observación a observación.

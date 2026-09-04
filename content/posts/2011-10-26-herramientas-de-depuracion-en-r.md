@@ -23,7 +23,7 @@ R dispone de un conjunto de herramientas para depurar (_debug_) programas. Yo su
 Una de las primeras que menciona el libro es la función `stopifnot`, que puede ser intercalada en el código para verificar condiciones necesarias (y lanzar un error en caso de que no se cumplan):
 
 
-{{< highlight R >}}
+```r
 mi.error <- function( x ){
     res <- 1 / x
     stopifnot( ! is.infinite( res ) )
@@ -32,7 +32,7 @@ mi.error <- function( x ){
 
 mi.error( 2 )
 mi.error( 0 )
-{{< / highlight >}}
+```
 
 
 Puede ser usado para anticiparse activamente a los errores.
@@ -40,18 +40,18 @@ Puede ser usado para anticiparse activamente a los errores.
 Son, creo yo, conocidas de todos las funciones `debug `y `undebug`, que permiten ejecutar código línea a línea. Una adición interesante a la familia es `debugonce`, que llama a debug una única vez y evita tener que eliminar explícitamente a la función undebug en situaciones similares a
 
 
-{{< highlight R >}}
+```r
 f <- function( n, x ){
     for( i in 1:n)
     g(x)
 }
-{{< / highlight >}}
+```
 
 
 La función `browser `permite inspeccionar el estado de la función sin tener que llamar a `debug `sobre toda ella. Se le puede añadir, además, una condición para que solo interrumpa la ejecución del programa bajo ciertas condiciones.
 
 
-{{< highlight R >}}
+```r
 mi.error <- function( x ){
     res <- 1 / x
     browser( expr = x == 0 )
@@ -60,7 +60,7 @@ mi.error <- function( x ){
 
 mi.error( 2 )
 mi.error( 0 )
-{{< / highlight >}}
+```
 
 
 Este resultado también puede obtenerse usando las funciones `setBreakpoint `o `trace`.
@@ -68,15 +68,15 @@ Este resultado también puede obtenerse usando las funciones `setBreakpoint `o `
 Finalmente, existe la posibilidad de [saber qué ha pasado después del fallo](http://projetos.inpa.gov.br/i3geo/pacotes/r/win/library/utils/html/debugger.html) de una función de R usando
 
 
-{{< highlight R >}}
+```r
 options( error = recover )
-{{< / highlight >}}
+```
 
 
 Con esa opción, después de un fallo, R te deja elegir el _contexto_ que se quiere analizar. Por ejemplo:
 
 `
-{{< highlight R >}}
+```r
 > options( error = recover )
 > myFit <- lm(y ~ x, data = xy, weights = w)
 Error in inherits(x, "data.frame") : object 'xy' not found
@@ -98,7 +98,7 @@ Browse[1]> ls()
 [1] "enclos" "envir"  "expr"
 Browse[1]> Q
 >
-{{< / highlight >}}
+```
 `
 
 No son este tipo de herramientas aquellas a las que los programadores están más acomodaticiamente acostumbrados. Aparentemente, existen herramientas de depuración análogas a las que dispone Eclipse (para Java) o Eric (para Python) en desarrollo para RStudio. ¿Llegarán pronto?

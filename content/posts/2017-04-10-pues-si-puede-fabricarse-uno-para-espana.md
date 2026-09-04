@@ -29,7 +29,7 @@ responde a [mi entrada de la semana pasada](https://datanalytics.com/2017/04/07/
 
 El código, con mínimas modificaciones mías (para automatizar la descarga de los datos) es
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(dplyr)
 library(tidyr)
@@ -71,6 +71,6 @@ ggplot(pob, aes(x = fecha, y = value)) +
         strip.background=element_blank(),
         axis.line=element_blank(),
         axis.ticks=element_blank())
-{{< / highlight >}}
+```
 
 Se aceptan modificaciones y mejoras, por supuesto. Y si alguien quiere dedicarle el tiempo necesario para crear un paquete en R que lo generalice, creo que será bienvenido por la comunidad.

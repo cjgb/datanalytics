@@ -28,14 +28,14 @@ La cuestión es que el otro día una colega me preguntó lo siguiente: efectivam
 
 El resto de los datos, a continuación:
 
-{{< highlight R >}}
+```r
 N <- 546   # número de sujetos en la población
 n <- 182   # número de sujetos muestreados
 
 p <- 0.14  # proporción estimada de sujetos X
 
 x <- ceiling(n * p)  # número obtenido de sujetos X en la muestra
-{{< / highlight >}}
+```
 
 Llamemos $\theta$ a la variable (desconocida, aleatoria) que indica el número de individuos X en la población. Lo que hemos obtenido en la muestra es una visión indirecta de $\theta$, típicamente representada como
 
@@ -53,25 +53,24 @@ $$ P(\theta | x) \propto P(x | \theta).$$
 
 Y ahora
 
-{{< highlight R >}}
+```r
 n.reales <- 0:N
 probs <- sapply(n.reales, function(y) dhyper(x, y, N-y, n, log = FALSE))
 probs <- probs / sum(probs)
-{{< / highlight >}}
+```
 
 calcula `probs`, el vector de probabilidades correspondiente a la distribución a posteriori de $\theta$ sobre `0:N`, que tiene la siguiente pinta:
 
-[![](/img/2013/05/distr_posteriori_encuesta.png#center)
-](/img/2013/05/distr_posteriori_encuesta.png#center)
+![](/img/2013/05/distr_posteriori_encuesta.png#center)
 
 Haciendo
 
-{{< highlight R >}}
+```r
 tmp <- n.reales[order(probs)]
 tmp <- tmp[cumsum(sort(probs)) > 0.05 ]
 range(tmp) / N * 100
 # 10.43956 18.68132
-{{< / highlight >}}
+```
 
 llegamos a la conclusión de que (con nuestras hipótesis) tenemos garantizado al 95% que el valor verdadero de la proporción estará confinado en el intervalo [0.104, 0.187]: el margen de error es del 4%.
 

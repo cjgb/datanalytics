@@ -25,26 +25,26 @@ He leído estos días el capítulo 14 de _The Art of R Programming_ que trata pr
 Menciona el capítulo cómo uno de los estranguladores del rendimiento de R es su política de _copiar al cambiar_ (_copy-on-change_). Generalmente, cuando modificamos un objeto, R realiza una copia íntegra de él (¿y qué pasa si realizamos pequeñas modificaciones en un objeto muy grande?):
 
 
-{{< highlight R >}}
+```r
 m <- 1:10
 tracemem(m)
 # [1] "<0x16952c0>"
 m[1] <- 8
 # tracemem[0x16952c0 -> 0x10cd228]:
-{{< / highlight >}}
+```
 
 
-Sin embargo, el libro menciona cómo, a pesar de la política _copiar al cambiar_, hay casos en los que R es lo suficientemente inteligente como para modificarsolo la parte afectada por el cambio:
+Sin embargo, el libro menciona cómo, a pesar de la política _copiar al cambiar_, hay casos en los que R es lo suficientemente inteligente como para modificar solo la parte afectada por el cambio:
 
 
-{{< highlight R >}}
+```r
 z <- runif(10)
 tracemem(z)
 # [1] "<0x1044ff0>"
 z[1] <- 8
 tracemem(z)
 # [1] "<0x1044ff0>"
-{{< / highlight >}}
+```
 
 
 En este caso, no se copia el objeto: solo se modifica una de las entradas del mismo.
@@ -52,7 +52,7 @@ En este caso, no se copia el objeto: solo se modifica una de las entradas del mi
 Pero, ¿por qué en este segundo ejemplo no hay copia y en el primero sí? El motivo es el tipo de almacenamiento interno de R:
 
 
-{{< highlight R >}}
+```r
 m <- 1:10
 typeof(m)
 # [1] "integer"
@@ -63,17 +63,17 @@ m[1] <- 8
 # tracemem[0x14e8450 -> 0x1045140]:
 typeof(m)
 # [1] "double"
-{{< / highlight >}}
+```
 
 Efectivamente, hay una copia, pero precisamente porque la asignación implica un cambio (implícito) de manera de almacenar datos. Aunque se podría hacer también
 
 
-{{< highlight R >}}
+```r
 m <- 1:10
 tracemem(m)
 # [1] "<0x14e8558>"
 m[1] <- 8L
-{{< / highlight >}}
+```
 
 
 para evitar la copia.

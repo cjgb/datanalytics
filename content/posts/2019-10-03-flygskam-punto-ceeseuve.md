@@ -26,7 +26,7 @@ Para todos aquellos, [flygskam](/uploads/flygskam.csv).
 
 Que es un fichero que he construido haciendo
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(plyr)
 
@@ -51,6 +51,6 @@ res$fuel.per.seat <- as.numeric(gsub(".L.*", "",
     res$fuel.per.seat))
 
 write.csv(res, "flygskam.csv", row.names = FALSE)
-{{< / highlight >}}
+```
 
 y que podéis usar para practicar con `ggplot2`, `lme4`, `mgcv` y otros maravillosos paquetes de R.

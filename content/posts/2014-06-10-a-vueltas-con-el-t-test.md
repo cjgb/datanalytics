@@ -40,7 +40,7 @@ es una media y, por tanto, aplicando el teorema central del límite (¿aplica?),
 
 ¡Puf! Vale, concedo que $\sqrt{n} \mu_X$ podría seguir una normal. Pero, ¿tiene el denominador una distribución que pueda parecerse a una chi-cuadrado con n-1 grados de libertad? Ni jarto de vino. El que quiera convencerse de ello, que ejecute
 
-{{< highlight R >}}
+```r
 foo <- function(n, m){
   res <- c(rep(0,n), abs(rcauchy(m)))
   var(res)
@@ -49,6 +49,6 @@ foo <- function(n, m){
 res <- replicate(10000, foo(1000, 10))
 qqplot(res, rchisq(10000, 1010))
 abline(a=0, b=1)
-{{< / highlight >}}
+```
 
 En fin, he visto argumentos variados en pro de la prueba de Student. Pero el de que la normalidad es irrelevante (al menos, cuando n es bastante grande) porque el teorema central del límite aplica... me tiene descolocado.

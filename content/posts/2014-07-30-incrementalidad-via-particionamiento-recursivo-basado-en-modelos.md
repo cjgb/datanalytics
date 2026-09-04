@@ -30,7 +30,7 @@ De eso hablo hoy aquí. E incluyo una protorespuesta.
 
 Primero, genero datos:
 
-{{< highlight R >}}
+```r
 n  <- 20000
 v1 <- sample(0:1, n, replace = T)
 v2 <- sample(0:1, n, replace = T)
@@ -46,30 +46,28 @@ dat <- data.frame(
     y = y,
     treat = factor(treat), v1 = v1,
     v2 = v2, v3 = v3)
-{{< / highlight >}}
+```
 
 Como puede apreciarse, solo las variables `v1` y `v2` (y no `v3`) interaccionan con el tratamiento: solo en la región donde `v1 = v1 = 1` el efecto del tratamiento es positivo.
 
 Los datos tienen el siguiente aspecto:
 
-[![sample_data_incrementality](/img/2014/07/sample_data_incrementality.png#center)
-](/img/2014/07/sample_data_incrementality.png#center)
+![sample_data_incrementality](/img/2014/07/sample_data_incrementality.png#center)
 
 Como se ve, efectivamente, la variable `v3` (fila inferior) no tiene ningún efecto; y solo donde `v1 = v1 = 1` existe una _incrementalidad_ en el tratamiento.
 
 Ahora,
 
-{{< highlight R >}}
+```r
 library(party)
 modelo <- mob(y ~ treat | v1 + v2 + v3,
     data = dat, family = binomial())
 plot(modelo)
-{{< / highlight >}}
+```
 
 hace la magia. El resultado es
 
-[![mob_incrementality](/img/2014/07/mob_incrementality.png#center)
-](/img/2014/07/mob_incrementality.png#center)
+![mob_incrementality](/img/2014/07/mob_incrementality.png#center)
 
 que muestra cómo [`mob`](http://cran.r-project.org/web/packages/party/vignettes/MOB.pdf) ha detectado un efecto diferencial del tratamiento en la región de interés.
 

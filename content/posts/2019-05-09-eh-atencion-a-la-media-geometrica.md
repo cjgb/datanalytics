@@ -33,6 +33,6 @@ El insomnio y la serendipia me han hecho transitar por unas líneas en las que s
 
 La media geométrica resuelve problemas relacionados con los _outliers_ y encuentra aplicaciones inesperadas, como por ejemplo [esta](https://news.sky.com/story/anatomy-of-an-oscar-winner-11635455) (donde, véase la nota del final, se usa para mitigar el efecto de determinados valores anómalos y suavizar las series).
 
-Está indicada para situaciones en los que los valores recorren diversos órdenes de magnitud (piénsese: salarios en economías medianamente libres) y, en general y usando terminología talebiana, extremistán (en oposición al arimético normalistán).
+Está indicada para situaciones en los que los valores recorren diversos órdenes de magnitud (piénsese: salarios en economías medianamente libres) y, en general y usando terminología talebiana, extremistán (en oposición al aritmético normalistán).
 
 Pero, ¿cuántos cerebros explotarían si un día viésemos en el periódico, además del salario medio y el salario mediano (¡con lo que costó!), el salario geométrico medio?

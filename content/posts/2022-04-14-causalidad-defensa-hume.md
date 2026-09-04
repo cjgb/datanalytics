@@ -42,4 +42,4 @@ O, lo que es lo mismo, se cumple la condición $\neg C \Rightarrow \neg E$ en su
 
 Es decir, bajo la interpretación laxa (o probabilística) de la implicación, suficiencia y necesidad son sinónimos y no quedaría otro remedio que concederle la razón a Hume. Y que si quieres evitar engordar, es recomendable comer menos hamburguesas.
 
-**Coda:** Que suficiencia y necesidad son sinónimos es algo que toca desaprender cuando uno estudia una ciencia dura; luego, cuando uno se enfrenta al mundo real, toca desaprender lo aprendido para volver a tratarlos como sinómimos _sui generis_. Solo los muy empecinados siguen reprochando la confusión de los términos a la _población civil_.
+**Coda:** Que suficiencia y necesidad son sinónimos es algo que toca desaprender cuando uno estudia una ciencia dura; luego, cuando uno se enfrenta al mundo real, toca desaprender lo aprendido para volver a tratarlos como sinónimos _sui generis_. Solo los muy empecinados siguen reprochando la confusión de los términos a la _población civil_.

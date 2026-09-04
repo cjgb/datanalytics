@@ -19,7 +19,7 @@ title: ROI de ida y vuelta
 url: /2014/10/20/roi-de-ida-y-vuelta/
 ---
 
-Hace años, allá por el 2004, trabajaba en SAS. Íbamos a hacer una propuesta para la detección del fraude en una empresa de telefonía móvil de las de entoces. Habían medido el importe anual del fraude en X miles de euros. Nosotros íbamos a implantar un sistema que ayudase a prevenir un determinado porcentaje de él. El quid de la cuestión era cuál: alrededor de esa cuestión gravitaban los números en negrita de la propuesta que estábamos por elaborar.
+Hace años, allá por el 2004, trabajaba en SAS. Íbamos a hacer una propuesta para la detección del fraude en una empresa de telefonía móvil de las de entonces. Habían medido el importe anual del fraude en X miles de euros. Nosotros íbamos a implantar un sistema que ayudase a prevenir un determinado porcentaje de él. El quid de la cuestión era cuál: alrededor de esa cuestión gravitaban los números en negrita de la propuesta que estábamos por elaborar.
 
 Me tocó a mí preparar aquella propuesta. Al llegar al punto en el que había que mojarse con una estimación (¡totalmente ex-ante!) del porcentaje de fraude, pregunté a mis superiores. Estos hicieron una operación simplicísima: ¿cuál habría de ser el [ROI](http://es.wikipedia.org/wiki/Retorno_de_la_inversi%C3%B3n) mínimo que garantizase la aquiescencia final del cliente? Y sí, _teníamos_ que detectar, _íbamos_ a detectar, el 100% del fraude.
 

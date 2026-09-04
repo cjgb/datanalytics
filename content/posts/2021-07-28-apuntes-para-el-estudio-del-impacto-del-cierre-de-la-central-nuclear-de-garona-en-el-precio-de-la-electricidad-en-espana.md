@@ -34,7 +34,7 @@ _[¿En serio colocan el precio en las ordenadas y la energía en las abscisas? �
 
 En concreto, he bajado el fichero del día y lo he preprocesado así (porque, pobrecito, lo tiene todo: _encoding_ de Windows, dos líneas de encabezado con metadatos prescindibles, cifras en formato RAE, una fila de más, una columna de más, etc.):
 
-{{< highlight R >}}
+```r
 raw <- read.table("curva_pbc_20210725.1", sep = ";",
                     dec = ",", skip = 2, header = T,
                     fileEncoding = "latin1")
@@ -56,11 +56,11 @@ dat$price  <- as.numeric(gsub(",", ".", dat$price))
 
 dat12 <- dat[dat$hora == 12,]
 dat12$hora <- NULL
-{{< / highlight >}}
+```
 
 Las siguientes líneas ordenan las órdenes de compra y venta, calculan la cantidad acumulada convenientemente y crean la gráfica de oferta y demanda sobre los ejes _que son_ y marcan el precio del mercado:
 
-{{< highlight R >}}
+```r
 venta <- dat12[dat12$cv == 'V' & dat12$oc == "O",]
 venta <- venta[order(venta$price),]
 venta$acum <- cumsum(venta$amount)
@@ -74,7 +74,7 @@ plot(venta$price, venta$acum, type = "l", xlim = c(0, 100),
         main = "Oferta y demanda del mercado eléctrico\nespañol (2021-07-25, 12h)")
 lines(compra$price, compra$acum, col = "red")
 abline(v = max(venta$price[venta$acum < approx(compra$price, compra$acum, venta$price)$y]))
-{{< / highlight >}}
+```
 
 Es decir, generan esto:
 
@@ -84,7 +84,7 @@ _[¿A que no se parecen a las de los libros que se enseñan en esas facultades d
 
 Luego, puedo construir el contrafactual, donde a la oferta le sumo los 460 MW de la extinta central de Garoña (en azul). Para ello, uso
 
-{{< highlight R >}}
+```r
 plot(venta$price, venta$acum, type = "l", xlim = c(0, 100),
         xlab = "precio", ylab = "MWh",
         main = "Oferta y demanda contrafactuales del\nmercado eléctrico español (2021-07-25, 12h)")
@@ -92,7 +92,7 @@ lines(compra$price, compra$acum, col = "red")
 lines(venta$price, venta$acum + 460, col = "blue")
 abline(v = max(venta$price[venta$acum < approx(compra$price, compra$acum, venta$price)$y]))
 abline(v = max(venta$price[venta$acum + 460 < approx(compra$price, compra$acum, venta$price)$y]), col = "blue")
-{{< / highlight >}}
+```
 
 y obtengo
 
@@ -106,15 +106,15 @@ Sucede así porque el operador del mercado excluye algunas ofertas baratas e int
 
 Por lo que si hago
 
-{{< highlight R >}}
+```r
 vendida <-  dat12[dat12$cv == "V" & dat12$oc == "C",]
 vendida <- vendida[order(-vendida$price),]
 vendida$acum <- cumsum(vendida$amount)
-{{< / highlight >}}
+```
 
 puedo ver las ofertas efectivamente casadas de la más cara a la más barata. Un extracto de las primeras, por centrar ideas, es:
 
-{{< highlight R >}}
+```r
 head(vendida)
 #       cv amount price oc acum
 # 40124  V   44.2 86.47  C 44.2
@@ -123,7 +123,7 @@ head(vendida)
 # 40114  V    0.4 85.20  C 78.1
 # 40115  V    1.3 85.20  C 79.4
 # 40116  V    8.1 85.20  C 87.5
-{{< / highlight >}}
+```
 
 Y si excluyo los primeros 460 MW más caros, llego a un precio de 77.36€/MWh (vs 86.47€/MWh excluyendo Garoña). Vamos, en números redondos, un 11% más caro en esa hora concreta.
 

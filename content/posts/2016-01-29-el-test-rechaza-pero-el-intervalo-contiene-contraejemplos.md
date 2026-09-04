@@ -23,7 +23,7 @@ De acuerdo con el saber popular, pruebas que rechazan acompañan a intervalos de
 
 Pero
 
-{{< highlight R >}}
+```r
 foo <- function(N, p = 0.7){
   n <- qbinom(0.975, N, p)
   tmp <- binom.test(n, N, p)
@@ -35,6 +35,6 @@ res <- as.data.frame(t(sapply(20:200, foo)))
 res$n <- 20:200
 
 res[res$V1 < 0.05,]
-{{< / highlight >}}
+```
 
 no tiene cero filas.

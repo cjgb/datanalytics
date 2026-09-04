@@ -29,7 +29,7 @@ Lo primero ha sido instalar Julia, para lo que basta con seguir las [instruccion
 El código de mi programa, para que quede constancia pública de que vengo a ser un pionero en España usándolo, es:
 
 
-{{< highlight julia >}}
+```julia
 function gibbs(n, thin)
         x = 0.0
         y = 0.0
@@ -43,33 +43,32 @@ function gibbs(n, thin)
 end
 
 gibbs(50000, 1000)
-{{< / highlight >}}
+```
 
 El programa en cuestión, tal cual viene en la página que cito arriba, en R, ha tardado en ejecutarse
 
-{{< highlight bash >}}
+```bash
 $ time Rscript mcmc00.R > data.tab
 
 real 8m31.259s
 user 8m29.668s
 sys 0m0.948s
-{{< / highlight >}}
+```
 
 Y en Julia,
 
-{{< highlight bash >}}
+```bash
 $ time julia mcmc00.j > data.tab.j
 
 real 0m9.268s
 user 0m9.113s s
 ys 0m0.144s
-{{< / highlight >}}
+```
 
 Es decir, del orden de 60 veces menos. Es de reseñar que este tipo de algoritmos son de los menos indicados para ser ejecutados con R: son imposibles de vectorizar. No en vano, MCMC (tal como aparece en los nombres de los programas) significa _Markov Chain Monte Carlo_ y en una cadena de Markov, cada valor depende del estado anterior. Hay que morir a hierro y construir un bucle.
 
 El resultado de ambas simulaciones puede apreciarse en el siguiente gráfico:
 
-[![](/img/2012/03/simulations_output001.png#center)
-](/img/2012/03/simulations_output001.png#center)
+![](/img/2012/03/simulations_output001.png#center)
 
-Es cierto que en este ejemplo concreto, los números aleatorios podrían precalcularse en una única llamada a `rnorm` o `rgamma`, pero no he observado una ganancia sustancial de tiempos, que se pierden, fundamentalmene, en el código interpretado dentro del bucle.
+Es cierto que en este ejemplo concreto, los números aleatorios podrían precalcularse en una única llamada a `rnorm` o `rgamma`, pero no he observado una ganancia sustancial de tiempos, que se pierden, fundamentalmente, en el código interpretado dentro del bucle.

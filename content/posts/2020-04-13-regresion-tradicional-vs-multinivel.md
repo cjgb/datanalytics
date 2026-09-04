@@ -30,7 +30,7 @@ Cabe preguntarse qué pasa si se analizan los mismos datos usando ambas técnica
 
 Los datos son:
 
-{{< highlight R >}}
+```r
 library(plyr)
 library(lme4)
 
@@ -59,11 +59,11 @@ dat_aleatorio <- ldply(1:n_niveles, function(nivel){
 
 dat <- cbind(dat_fijo, dat_aleatorio)
 dat$y <- intercepto + dat$efecto_fijo + dat$efecto_aleatorio + rnorm(nrow(dat), 0, sd_error)
-{{< / highlight >}}
+```
 
 Y las regresiones tradicional y multinivel producen
 
-{{< highlight R >}}
+```r
 modelo_lm <- lm(y ~ fijo + aleatorio, data = dat)
 summary(modelo_lm)
 
@@ -103,11 +103,11 @@ summary(modelo_lm)
 # Residual standard error: 0.9526 on 99 degrees of freedom
 # Multiple R-squared:  0.6069,	Adjusted R-squared:  0.5275
 # F-statistic: 7.642 on 20 and 99 DF,  p-value: 1.237e-12
-{{< / highlight >}}
+```
 
 y
 
-{{< highlight R >}}
+```r
 modelo_lmer <- lmer(y ~ fijo + (1 | aleatorio), data = dat)
 summary(modelo_lmer)
 # Linear mixed model fit by REML ['lmerMod']
@@ -134,11 +134,11 @@ summary(modelo_lmer)
 # Correlation of Fixed Effects:
 #     (Intr)
 # fijo1 -0.403
-{{< / highlight >}}
+```
 
 respectivamente. La estimación del efecto fijo es similar en ambos casos, pero hay una diferencia notable en el ajuste del término independiente. Veamos qué sucede si repetimos el proceso anterior muchas veces:
 
-{{< highlight R >}}
+```r
 foo <- function(){
 tmp <- sample(rep(0:1, each = n_niveles * n_reps /2))
 
@@ -167,7 +167,7 @@ c(fixef(modelo_lmer), coefficients(modelo_lm)[1:2])
 
 res <- replicate(1000, foo())
 res <- as.data.frame(t(res))
-{{< / highlight >}}
+```
 
 
 Las estimaciones de los efectos fijos son similares:

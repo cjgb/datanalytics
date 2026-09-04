@@ -21,16 +21,16 @@ title: Mezclas de distribuciones con Stan
 url: /2016/03/03/mezclas-de-distribuciones-con-stan/
 ---
 
-{{< highlight R >}}
+```r
 y <- c(rnorm(1000), rnorm(2000, 1, 0.5))
-{{< / highlight >}}
+```
 
 es una mezcla de dos normales (N(0, 1) y N(1, 0.5)) con pesos 1/3 y 2/3 respectivamente. Pero, ¿cómo podríamos estimar los parámetros a partir de esos datos?
 
 Se puede usar, p.e., [`flexmix`](https://cran.r-project.org/web/packages/flexmix/index.html), que implementa eso del EM. Pero en el librillo de este maestrillo dice
 
 
-{{< highlight R >}}
+```r
 library(rstan)
 
 y <- c(rnorm(1000), rnorm(2000, 1, 0.5))
@@ -66,7 +66,7 @@ fit <- stan(model_code = codigo,
             data = list(K = 2, N = length(y), y = y),
             iter=48000, warmup=2000,
             chains=1, thin=10)
-{{< / highlight >}}
+```
 
 
 En el código anterior no sé si queda claro cómo cada punto $y_i$ sigue una distribución (condicionada a los parámetros) con densidad $\theta_1 \phi(y_i, \mu_1, \sigma_1) + \theta_2 \phi(y_i, \mu_2, \sigma_2)$.

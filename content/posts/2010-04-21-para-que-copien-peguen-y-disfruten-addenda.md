@@ -22,7 +22,7 @@ Ayer dejé publicadas [unas cuantas líneas de R](http://datanalytics.wordpress.
 
 El código era, una vez mínimamente desofuscado (no quería dar demasiadas pistas):
 
-{{< highlight R >}}
+```r
 vertice.x <- c(0,1,2)                            # 1
 vertice.y <- c(0,1,0)                            # 2
 muestra <- sample( 1:3, 100000, replace = T )    # 3
@@ -34,7 +34,7 @@ iter <- function( ini, v ){                      # 4
 }
 plot( iter( runif(1), v.x[ muestra ] ),
       iter( runif(1),  v.y[ muestra ] ), pch = "." )
-{{< / highlight >}}
+```
 
 He aquí lo que hace:
 

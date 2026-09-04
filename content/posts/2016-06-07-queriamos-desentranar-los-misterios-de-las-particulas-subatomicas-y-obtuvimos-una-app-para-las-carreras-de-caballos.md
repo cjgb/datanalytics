@@ -20,7 +20,7 @@ title: Queríamos desentrañar los misterios de las partículas subatómicas y o
 url: /2016/06/07/queriamos-desentranar-los-misterios-de-las-particulas-subatomicas-y-obtuvimos-una-app-para-las-carreras-de-caballos/
 ---
 
-La versión larga, en inglés y capada para quienes tengáis bloquador de publicidad es [esta](http://www.wired.com/2016/05/physicist-helped-find-higgs-boson-got-horse-apps/). La versión abreviada para el hombre ocupado de hoy en día (y con mis comentarios) es:
+La versión larga, en inglés y capada para quienes tengáis bloqueador de publicidad es [esta](http://www.wired.com/2016/05/physicist-helped-find-higgs-boson-got-horse-apps/). La versión abreviada para el hombre ocupado de hoy en día (y con mis comentarios) es:
 
 * Un tipo con mucha vocación estudia física y acaba en el CERN
 * Trabaja en lo de la partícula de Higgs y obtiene el peor de entre los resultados posibles: la partícula existe tal cual predecía la teoría

@@ -37,7 +37,7 @@ donde `x` es el extremo superior del tramo y `p` es la proporción acumulada de 
 
 Con los datos de la AEAT del 2015, quedaría algo así como:
 
-{{< highlight R >}}
+```r
 datos <- structure(
     list(
         hasta = c(1.5, 6, 12, 21, 30, 60, 150, 601, 1000),
@@ -53,7 +53,7 @@ modelo <- lm(log(hasta) ~ poly(prop, 3), data = tmp)
 
 muestra <- exp(predict(modelo, data.frame(prop = runif(10000))))
 hist(muestra, breaks = 40)
-{{< / highlight >}}
+```
 
 que da algo así como
 

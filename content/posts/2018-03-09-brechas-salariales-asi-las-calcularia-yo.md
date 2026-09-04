@@ -33,7 +33,7 @@ Aquí va mi idea:
 * Constrúyase un modelo predictivo (sí, con los XGBoosts y esas cosas)
 * Mídase el error cometido al predecir el salario del resto de los hombres.
 * Predígase el salario de las mujeres.
-* Compárese el sesgo que pudiera haber en las prediccines y su error con el error cometido con la otra mitad de los hombres.
+* Compárese el sesgo que pudiera haber en las predicciones y su error con el error cometido con la otra mitad de los hombres.
 * Finalmente, como complemento, estúdiese el sesgo (observado menos predicho) de las mujeres por sector, grupo de edad, etc.
 
 para encontrar información más fina que un numerico con que asustar a las viejas en un titular.

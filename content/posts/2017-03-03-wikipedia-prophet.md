@@ -24,7 +24,7 @@ El otro día escribí sobre [visitas a la Wikipedia](https://datanalytics.com/20
 
 Hoy con
 
-{{< highlight R >}}
+```r
 library(wikipediatrend)
 library(prophet)
 library(ggplot2)
@@ -50,7 +50,7 @@ pred.plot +
         aes(x = ds, y = y), col = "red", alpha = 0.2) +
     xlab("fecha") + ylab("visitas") +
     ggtitle("Predicción de visitas a la página de R\nen la Wikipedia con prophet")
-{{< / highlight >}}
+```
 
 
 

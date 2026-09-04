@@ -23,7 +23,7 @@ url: /2020/04/27/muestreo-sensibilidad-y-especificidad/
 
 El bloque de código
 
-{{< highlight R >}}
+```r
 n_pop <- 47e6
 prev <- .02
 n_muestra <- 60e3
@@ -33,7 +33,7 @@ real_specificity <- .995
 
 estimated_sensitivity <- .81
 estimated_specificity <- .99
-{{< / highlight >}}
+```
 
 anuncia que vamos a hablar de:
 
@@ -46,7 +46,7 @@ supongo que para que dentro de unos años, cuando ya a nadie le importe, se publ
 
 Allende las pullas, simulemos por ver qué ocurre:
 
-{{< highlight R >}}
+```r
 pop <- rep(0, n_pop)
 pop[1:round(n_pop * prev)] <- 1
 
@@ -66,7 +66,7 @@ noise_fix <- (test_prop + estimated_specificity - 1 ) /
     (estimated_sensitivity + estimated_specificity - 1)
 
 c(test_prop, noise_fix)
-{{< / highlight >}}
+```
 
 Notas:
 

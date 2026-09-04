@@ -26,7 +26,7 @@ Y uno se pregunta: ¿habrá ejemplos patrios similares a los anteriores?
 
 Así que hoy traigo uno a colación.
 
-Se trata de un plano de la ciudad y puerto de Málaga donde Onofre Rodríguez anotó _con estrellas y numeros los sitios donde principiaron las proximas pasadas Epidemias_ (sic). Es este (y
+Se trata de un plano de la ciudad y puerto de Málaga donde Onofre Rodríguez anotó _con estrellas y números los sitios donde principiaron las proximas pasadas Epidemias_ (sic). Es este (y
 [aquí](http://bdh.bne.es/bnesearch/detalle/bdh0000033581)
 con mayor resolución):
 

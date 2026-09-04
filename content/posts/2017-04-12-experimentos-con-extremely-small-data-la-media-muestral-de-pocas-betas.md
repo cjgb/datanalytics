@@ -35,7 +35,7 @@ Si fuesen muchos, podríamos aplicar el teorema central del límite ([que funcio
 
 Vamos a ello. Primero, generamos una muestra (tamaño 10000) de medias de tres muestras de la beta (con parámetros prefijados):
 
-{{< highlight R >}}
+```r
 library(MASS)
 
 reps <- 10000
@@ -50,7 +50,7 @@ muestra <- function(n, reps, parms){
 
 mi.muestra <- muestra(n, reps, parms)
 hist(mi.muestra, breaks = 50, freq = F)
-{{< / highlight >}}
+```
 
 La pinta de la cosa es:
 
@@ -58,13 +58,13 @@ La pinta de la cosa es:
 
 Y ahora,
 
-{{< highlight R >}}
+```r
 res <- fitdistr(mi.muestra, "beta",
                 start = list(shape1 = parms[1] * n,
                               shape2 = parms[2] * n))
 curve(dbeta(x, res$estimate[1], res$estimate[2]),
       col = "blue", add = T)
-{{< / highlight >}}
+```
 
 produce
 

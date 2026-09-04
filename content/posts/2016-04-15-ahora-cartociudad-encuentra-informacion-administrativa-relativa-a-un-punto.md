@@ -22,7 +22,7 @@ url: /2016/04/15/ahora-cartociudad-encuentra-informacion-administrativa-relativa
 
 Y lo hace así:
 
-{{< highlight R >}}
+```r
 library(caRtociudad)
 get_cartociudad_location_info(40.473219,-3.7227241, year = 2015)
 # $seccion
@@ -36,10 +36,10 @@ get_cartociudad_location_info(40.473219,-3.7227241, year = 2015)
 #
 # $municipio
 # [1] "Madrid"
-{{< / highlight >}}
+```
 
 Esto da respuesta a [una pregunta de Rubén](https://datanalytics.com/2016/03/31/cartociudad/).
 
-La función es en su mayor parte (salvo algunos retoques más estéticos que otra cosa míos) de Luz Frías, que hizo omiso caso de la inexistente docuentación del INE sobre su servicio de mapas y capturó directamente la petición que el [portal de Cartociudad](http://www.cartociudad.es/visor/) hace al servicio.
+La función es en su mayor parte (salvo algunos retoques más estéticos que otra cosa míos) de Luz Frías, que hizo omiso caso de la inexistente documentación del INE sobre su servicio de mapas y capturó directamente la petición que el [portal de Cartociudad](http://www.cartociudad.es/visor/) hace al servicio.
 
-(DFRETFAPI, _do fucking reverse engineer the fucking API_ parace ser lo que se lleva en el INE en lugar de RTFM).
+(DFRETFAPI, _do fucking reverse engineer the fucking API_ parece ser lo que se lleva en el INE en lugar de RTFM).

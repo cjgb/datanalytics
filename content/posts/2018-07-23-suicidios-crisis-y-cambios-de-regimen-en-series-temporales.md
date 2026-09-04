@@ -28,7 +28,7 @@ El [capo de los diletantes](https://datanalytics.com/2018/07/19/que-no-que-es-im
 
 Veamos pues dónde están esos suicidios. Los encontramos en el INE y podemos hacer cosas tales como:
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(reshape2)
 library(changepoint)
@@ -46,8 +46,8 @@ colnames(dat) <- gsub("Ambos sexos",
 ggplot(dat, aes(x = Periodo, y = ambos)) +
     geom_line() +
     ylab("suicidios") +
-    ggtitle("Sucidios mensuales en España (1980-2017) según el INE")
-{{< / highlight >}}
+    ggtitle("Suicidios mensuales en España (1980-2017) según el INE")
+```
 
 para obtener
 
@@ -55,11 +55,11 @@ para obtener
 
 Porque me gusta, puedo y sé, abundo (con la descomposición en tendencia, estacionalidad mensual y residuo):
 
-{{< highlight R >}}
+```r
 tmp <- ts(dat$ambos, start = c(1980, 1), frequency = 12)
 descomposicion <- stl(tmp, s.window = "periodic")
 plot(descomposicion)
-{{< / highlight >}}
+```
 
 ![](/img/2018/07/suicidios_espana_descomposicion.png#center)
 
@@ -70,10 +70,10 @@ Y vamos con las apreciaciones del señor que publicó esa cosa que nadie más qu
 
 Un análisis hipersuperficial, sin tener en cuenta la distribución por edad de la población subyacente ni ninguna de las otras consideraciones de rigor, pero que incluyo aunque solo sea por ilustrar el uso de [`changepoint`](https://cran.r-project.org/web/packages/changepoint/index.html), nos dice que:
 
-{{< highlight R >}}
+```r
     res <- cpt.meanvar(tmp, test.stat = "Poisson", method = "BinSeg")
     plot(res)
-{{< / highlight >}}
+```
 
 ![](/img/2018/07/suicidios_espana_cambio_regimen.png#center)
 

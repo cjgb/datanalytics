@@ -28,7 +28,7 @@ Como consecuencia, `<-` es más eficiente desde el punto de vista de la gestión
 
 ¿Será cierto? ¿Qué nos dirá [`tracemem`](https://datanalytics.com/2011/10/03/gestion-avanzada-de-memoria-en-r-tracemem/) al respecto? No seáis vagos y probad
 
-{{< highlight R >}}
+```r
 a <- 1:10
 b.0 <- a
 b.1 = a
@@ -36,7 +36,7 @@ b.1 = a
 tracemem(a)
 tracemem(b.0)
 tracemem(b.1)
-{{< / highlight >}}
+```
 
 
 por vuestra cuenta.

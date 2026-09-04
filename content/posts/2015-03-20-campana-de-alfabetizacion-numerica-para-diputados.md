@@ -21,7 +21,7 @@ url: /2015/03/20/campana-de-alfabetizacion-numerica-para-diputados/
 
 >¿Sabe de números tu próximo representante?
 >
->Al preguntar a los diputados actuales acerca de la probabilidad de obtener dos caras consecutivas al lanzar una moneda, solo el 40% de ellos obtuvieron la respuesta correcta. ¿Lo harán mejor lo siguientes?
+>Al preguntar a los diputados actuales acerca de la probabilidad de obtener dos caras consecutivas al lanzar una moneda, solo el 40% de ellos obtuvieron la respuesta correcta. ¿Lo harán mejor los siguientes?
 >
 >[...]
 

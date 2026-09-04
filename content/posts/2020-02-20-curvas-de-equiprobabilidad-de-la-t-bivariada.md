@@ -25,7 +25,7 @@ El otro día me entretuve pintando [curvas de equiprobabilidad de la distribuci�
 
 Y el código,
 
-{{< highlight R >}}
+```r
 library(plyr)
 library(ggplot2)
 
@@ -43,4 +43,4 @@ res <- ldply(df, function(i){
 ggplot(res, aes(x = x, y = y, z = z)) +
     stat_contour() +
     facet_wrap(~df)
-{{< / highlight >}}
+```

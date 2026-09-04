@@ -32,7 +32,7 @@ $$ x = f^{-1}_\alpha(y) + \epsilon$$
 
 Un ejemplo. Que arranca con unos datos autoexplicativos:
 
-{{< highlight R >}}
+```r
 n <- 100
 
 a <- 1
@@ -41,11 +41,11 @@ sigma <- 0.1
 
 x <- runif(n, -1, 1)
 y <- exp(a * x + b) + rnorm(n, 0, sigma)
-{{< / highlight >}}
+```
 
 El modelo _directo_ da:
 
-{{< highlight R >}}
+```r
 mod_directo <- nls(y ~ exp(a * x + b),
                     start = list(a = 0.1, b = 0.1))
 summary(mod_directo)
@@ -63,11 +63,11 @@ summary(mod_directo)
 #
 # Number of iterations to convergence: 5
 # Achieved convergence tolerance: 1.816e-07
-{{< / highlight >}}
+```
 
 Y el _inverso_,
 
-{{< highlight R >}}
+```r
 mod_inverso <- nls(x ~ (log(y) - b) / a, start = list(a = 0.1, b = 0.1))
 summary(mod_inverso)
 
@@ -84,7 +84,7 @@ summary(mod_inverso)
 #
 # Number of iterations to convergence: 8
 # Achieved convergence tolerance: 1.185e-09
-{{< / highlight >}}
+```
 
 _Pas mal!_
 

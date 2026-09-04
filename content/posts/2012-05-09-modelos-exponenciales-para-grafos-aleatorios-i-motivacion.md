@@ -25,11 +25,10 @@ Muchos análisis que se hacen sobre este tipo de redes son meramente descriptivo
 
 Por ejemplo, en el grafo que describo más arriba, cabría preguntarse si hay reciprocidad, es decir, si $P( y_{ij} = 1 | y_{ji} = 1 )$ es mucho mayor que $P( y_{ij} = 1 | y_{ji} = 0)$. O dicho de otro modo, si el que Juan sea amigo de Pedro incrementa notablemente la probabilidad de que Pedro también se considere amigo de Juan.
 
-¿De qué modo puede medirse este tipo de características en una red? ¿Qué tipo de parámetro puede estimarse (preferiblemente con sus intervalos de confianza) que muestre que en el grafo existe una predisposición a la reciprodidad?
+¿De qué modo puede medirse este tipo de características en una red? ¿Qué tipo de parámetro puede estimarse (preferiblemente con sus intervalos de confianza) que muestre que en el grafo existe una predisposición a la reciprocidad?
 
 Aparte de este tipo de relaciones, existen otras muchas que los expertos buscan en sus conjuntos de datos. Por ejemplo, algunas de las siguientes:
 
-[![](/img/2012/05/configuraciones_grafos.png#center)
-](/img/2012/05/configuraciones_grafos.png#center)
+![](/img/2012/05/configuraciones_grafos.png#center)
 
 A este tipo de preguntas aspiran a dar respuesta los llamados modelos exponenciales para grafos aleatorios, cuyos rudimentos expondremos mañana.

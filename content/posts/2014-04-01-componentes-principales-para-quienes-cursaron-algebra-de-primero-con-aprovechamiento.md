@@ -29,7 +29,7 @@ donde $\mathbf{U}$ y $\mathbf{V}$ son matrices ortonormales y $\mathbf{D}$ es di
 
 $$ \mathbf{X} \approx \mathbf{UD_0V}$$
 
-donde $\mathbf{D_0}$ es la matriz en la que se han sustituido los $d_i$ _despreciables_ por ceros. Si $\mathbf{D_0}$ tiene m elementos diagonales no nulos, solo hay m columnas de $\mathbf{U}$ y m filas de $\mathbf{V}$ que juegan un papel efectivo en la proximación anterior. Por lo tanto se puede reescribir de la forma
+donde $\mathbf{D_0}$ es la matriz en la que se han sustituido los $d_i$ _despreciables_ por ceros. Si $\mathbf{D_0}$ tiene m elementos diagonales no nulos, solo hay m columnas de $\mathbf{U}$ y m filas de $\mathbf{V}$ que juegan un papel efectivo en la aproximación anterior. Por lo tanto se puede reescribir de la forma
 
 $$ \mathbf{X} \approx \mathbf{\tilde{U}\tilde{D}\tilde{V}}$$
 
@@ -47,6 +47,6 @@ se tiene todo lo que hay que saber sobre las componentes principales:
 4. pero en menor número que las originales (reducción de la dimensionalidad) y que de alguna manera,
 5. recogen la mayor parte de lo que es necesario saber sobre $\mathbf{X}$.
 
-¿A qué viene este comentario tan, quizás, extemporáneo? A que el otro día estaba hablando con un físico (que, además, sí, superó su álgebra de primero con aprovechamiento) que no conocía eso del PCA. Así que fuimos a su [libro](http://www.cs.ubc.ca/~murphyk/MLbook/) y encontramos en el capítulo en cuestión un vasto cementario de árboles malgastados para que sobre sus cadáveres, con tinta, se imprimiesen circunloquios prolijos sobre problemas variacionales que vienen poco al caso y algoritmos de segunda división para resolverlos. Pero poco de lo que podía ponerlo a trabajar en cinco minutos.
+¿A qué viene este comentario tan, quizás, extemporáneo? A que el otro día estaba hablando con un físico (que, además, sí, superó su álgebra de primero con aprovechamiento) que no conocía eso del PCA. Así que fuimos a su [libro](http://www.cs.ubc.ca/~murphyk/MLbook/) y encontramos en el capítulo en cuestión un vasto cementerio de árboles malgastados para que sobre sus cadáveres, con tinta, se imprimiesen circunloquios prolijos sobre problemas variacionales que vienen poco al caso y algoritmos de segunda división para resolverlos. Pero poco de lo que podía ponerlo a trabajar en cinco minutos.
 
 Señores, al grano. No podemos leer tanta página, tanta formulita y tanto algoritmo de cinco pasos en que el quinto reenvía de nuevo al segundo. Ya [pagamos a otros para que se ocupen de esas irrelevancias](https://datanalytics.com/2013/08/28/que-ha-hecho-el-csic-por-mi/). Nosotros usamos PCA porque tenemos tajo.

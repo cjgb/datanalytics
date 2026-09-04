@@ -24,7 +24,7 @@ url: /2016/06/01/alguien-podria-identificar-tirios-y-troyanos/
 Con los datos
 
 
-{{< highlight R >}}
+```r
 pcts <- cbind(
   c(35.7, 19.6, 6.6, 16.6, 9.6),
   c(0.3, 0.2, 0.2, 0.3, 0.8),
@@ -36,14 +36,14 @@ pcts <- cbind(
 
 totales <- c(1102, 975, 596, 638,	174)
 tabla <- round(t(pcts * totales / 100))
-{{< / highlight >}}
+```
 
 y el concurso de
 
-{{< highlight R >}}
+```r
 library(MASS)
 biplot(corresp(tabla, nf = 2))
-{{< / highlight >}}
+```
 
 genero
 

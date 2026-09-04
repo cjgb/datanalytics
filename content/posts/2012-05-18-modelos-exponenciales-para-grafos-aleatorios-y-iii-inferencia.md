@@ -38,47 +38,46 @@ Pero parece que esta técnica está mandada a recoger, i.e., desaconsejada, y su
 
 Para ello, primero cargamos el paquete e importamos un conjunto de datos, `flo`.
 
-{{< highlight R >}}
+```r
 library(ergm)
 data(flo)
-{{< / highlight >}}
+```
 
 `flo` es una matriz de incidencia: contiene ceros y unos y estos últimos indican que una determinada pareja de familias florentinas mantuvieron en su día vínculos matrimoniales. A partir de dicha matriz se puede crear una red:
 
-{{< highlight R >}}
+```r
 flomarriage <- network(flo, directed = FALSE)
 flomarriage
-{{< / highlight >}}
+```
 
 Y también añadir atributos a sus nodos (en este caso, la riqueza relativa de las familias):
 
-{{< highlight R >}}
+```r
 flomarriage %v% "wealth" <- c(10,36,27,146,55,44,20,8,42,103,48,49,10,48,32,3)
 flomarriage
-{{< / highlight >}}
+```
 
 Obviamente, las redes pueden representarse gráficamente haciendo
 
-{{< highlight R >}}
+```r
 plot( flomarriage )
 plot(flomarriage, vertex.cex=flomarriage %v% "wealth" / 20)
-{{< / highlight >}}
+```
 
 para obtener (en la segunda sentencia) algo así como
 
-[![](/img/2012/05/flomarriage.png#center)
-](/img/2012/05/flomarriage.png#center)
+![](/img/2012/05/flomarriage.png#center)
 
 La parte interesante llega ahora: plantear un modelo que, por ejemplo, indique si las familias tienen propensión a enlazarse cuando la diferencia de riqueza entre ellas es grande. Por supuesto, controlando por el número de enlaces totales que hay en el modelo, que es el significado del término `edges`:
 
-{{< highlight R >}}
+```r
 gest <- ergm(flomarriage ~ edges + absdiff("wealth"))
 summary(gest)
-{{< / highlight >}}
+```
 
 La salida es
 
-{{< highlight R >}}
+```r
 # ==========================
 # Summary of model fit
 # ==========================
@@ -98,7 +97,7 @@ La salida es
 # Deviance: 58.557 on 2 degrees of freedom
 #
 # AIC: 111.8 BIC: 117.37
-{{< / highlight >}}
+```
 
 en la que diría yo que el coeficiente (negativo) de `edges` indica que la densidad del grafo es relativamente pequeña (que es un grafo con pocos vértices, vamos) y que descontado ese efecto, la diferencia de riqueza entre las familias no parece tener mayor efecto.
 
@@ -106,8 +105,8 @@ Los términos que aparecen a la derecha de la fórmula del modelo representan co
 
 Los lectores interesados en el asunto pueden encontrar gratificante el ejercicio consistente en relacionar el coeficiente obtenido para el parámetro `edges` al modelar redes creadas con sentencias del tipo
 
-{{< highlight R >}}
+```r
 mi.red <- network(25, directed=FALSE, density=0.1)
-{{< / highlight >}}
+```
 
 haciendo variar el parámetro `density`.

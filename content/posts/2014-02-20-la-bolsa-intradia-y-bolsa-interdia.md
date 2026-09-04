@@ -29,7 +29,7 @@ Dicho lo cual:
 
 Juan y Pedro llevan operando así desde el 1 de enero de 2000. ¿Cuál de los dos se ha llevado el gato al agua? Veámoslo:
 
-{{< highlight R >}}
+```r
 library(tseries)
 library(zoo)
 
@@ -46,12 +46,11 @@ res <- cbind(dia = acumulado.diurno,
     noche = acumulado.nocturno)
 plot(res,
     main = "IBEX 35: diferencias de precio intradía / entre sesión")
-{{< / highlight >}}
+```
 
 El código anterior produce
 
-[![ibex_intraday](/img/2014/02/ibex_intraday.png#center)
-](/img/2014/02/ibex_intraday.png#center)
+![ibex_intraday](/img/2014/02/ibex_intraday.png#center)
 
 que muestra cómo Juan, que compra durante el día, lleva perdidos 8500 euros mientras que Pedro ha ganado casi 7000.
 

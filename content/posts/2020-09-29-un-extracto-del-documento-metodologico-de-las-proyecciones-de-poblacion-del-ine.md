@@ -31,7 +31,7 @@ Está extraído de [aquí](https://www.ine.es/metodologia/t20/meto_propob_2018_2
 >
 > Las previsiones demográficas deben expresar tendencias probables, basadas en el pasado y en escenarios altamente probables para el futuro, lo cual es muy complejo y subjetivo, pues depende de un conjunto mucho más amplio de parámetros (económicos, sociales, etc.), a menudo de difícil cuantificación.
 >
-> Las proyecciones demográficas representan escenarios que se producirían en el caso de que se cumplieran ciertas hipótesis, independientemente de su grado de verosimilitud. Pueden servir, simplemente, para comprender las consecuencias que tendría sobre la población el hecho de qua se verificase determinada hipótesis, incluso improbable.
+> Las proyecciones demográficas representan escenarios que se producirían en el caso de que se cumplieran ciertas hipótesis, independientemente de su grado de verosimilitud. Pueden servir, simplemente, para comprender las consecuencias que tendría sobre la población el hecho de que se verificase determinada hipótesis, incluso improbable.
 >
 > Así pues, las Proyecciones de Población del Instituto Nacional de Estadística no pretenden ser una "adivinación" del futuro, sino proporcionar una herramienta de apoyo para la toma de decisiones basada en una simulación estadística del rumbo demográfico que tomaría la población residente en España en los próximos años, siempre bajo la hipótesis de que se mantuviesen las tendencias demográficas actuales.
 

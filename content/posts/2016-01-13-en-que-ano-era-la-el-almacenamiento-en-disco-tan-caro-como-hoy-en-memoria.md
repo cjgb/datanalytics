@@ -19,10 +19,9 @@ title: ¿En qué año era la el almacenamiento en disco tan caro como hoy en mem
 url: /2016/01/13/en-que-ano-era-la-el-almacenamiento-en-disco-tan-caro-como-hoy-en-memoria/
 ---
 
-La respuesta a sea pregunta, y siempre de acuerdo con los [datos de John C. McCallum](http://www.jcmit.com/), la da
+La respuesta a esa pregunta, y siempre de acuerdo con los [datos de John C. McCallum](http://www.jcmit.com/), la da
 
-[![discos_vs_memoria](/img/2016/01/discos_vs_memoria.png#center)
-](/img/2016/01/discos_vs_memoria.png#center)
+![discos_vs_memoria](/img/2016/01/discos_vs_memoria.png#center)
 
 que hace corresponder a cada año del eje horizontal el correspondiente (en el vertical) aquel en el que el almacenamiento en disco venía a costar lo mismo (euros por MB) que el memoria en el primero.
 
@@ -32,7 +31,7 @@ Me llama la atención que el crecimiento se esté ralentizando.
 
 El código, por si alguien le encuentra alguna tara, es
 
-{{< highlight R >}}
+```r
 library(XML)
 library(ggplot2)
 
@@ -80,4 +79,4 @@ res <- res[!is.na(res$years.hdd),]
 
 ggplot(res, aes(x = years.ram, y = years.hdd)) +
   geom_line() + geom_smooth(alpha = 0) + xlab("year") + ylab("hdd year")
-{{< / highlight >}}
+```

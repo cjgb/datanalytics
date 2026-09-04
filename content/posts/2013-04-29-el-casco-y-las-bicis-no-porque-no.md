@@ -21,7 +21,7 @@ url: /2013/04/29/el-casco-y-las-bicis-no-porque-no/
 Vaya por delante que:
 
 * monto y me traslado en bici por Madrid siempre que razonablemente puedo (que son las menos de las veces)
-* simpre uso casco (más que por la improbable protección que pueda darme, por poder reforzar el alegato, en caso de incidente, de que soy un ciudadano responsable)
+* siempre uso casco (más que por la improbable protección que pueda darme, por poder reforzar el alegato, en caso de incidente, de que soy un ciudadano responsable)
 * tengo en el cuerpo dos cicatrices de más y otros tantos dientes de menos a resultas de diversos accidentes
 * no tengo tiempo de discurrir cuál sería mi postura sobre la prohibición de circular en bici sin casco: es asunto que no me afecta en absoluto por lo arriba indicado.
 
@@ -33,12 +33,11 @@ Sentado lo cual, entro en materia. Y es la del aburridor y artificial debate que
 
 En este caso, hablaré de la oposición —poco razonable, a mi parecer— de ciertas asociaciones de ciclistas, como la [Coordinadora ConBici](http://www.conbici.org/) con la que mantuve algún intercambio de _tuits_ recientemente.
 
-[![](/img/2013/04/conbici.png#center)
-](/img/2013/04/conbici.png#center)
+![](/img/2013/04/conbici.png#center)
 
 Aclaro que no es la discusión sobre si el casco debiera o no exigirse lo que trae este asunto a mis páginas sino un examen crítico de los argumentos técnicos y científicos esgrimidos por los antiloquesea. Aclaro también que estoy siempre dispuesto a cambiar de opinión en cualquier asunto cuando la evidencia científica y técnica me induce a ello. Pero me rebelo —y entonces vengo a estas páginas y escribo— cuando se me intenta dar gato por liebre.
 
-Veamos pues. Veamos algunos ejemplos de cómo desde la Coordinadora ConBici se navega tortuosamente, en zigzag, por la literatura científicotécnica para seleccionar torticeramente evidencias con que apuntalar posiciones de partida (o prejuicios).
+Veamos pues. Veamos algunos ejemplos de cómo desde la Coordinadora ConBici se navega tortuosamente, en zigzag, por la literatura científico-técnica para seleccionar torticeramente evidencias con que apuntalar posiciones de partida (o prejuicios).
 
 En primer lugar, constato que no tienen a bien considerar la [lista de organizaciones](http://en.wikipedia.org/wiki/Bicycle_helmet#Opinions_for_and_against_the_compulsion_or_strong_promotion_of_helmets) que abogan por considerar el uso del casco recomendable (como la AMS) o, incluso, obligatorio (como la _British Medical Association_ o la _American Medical Association_).
 
@@ -52,7 +51,7 @@ Lo argumenta alrededor de tres ideas:
 * Si se usa menos la bici, empeora la salud global de la población (empeoramiento que no se vería compensado por el beneficio que reportaría el uso del casco).
 * El que haya muchos ciclistas es causa de que la conducción en bici sea segura (por lo que medidas disuasorias del uso de la bici, aun en aras de la seguridad, tendrían el efecto paradójico de reducirla).
 
-Puede ser, no lo descarto como hipótesis de partida, que la obligatoriedad del casco pueda reducir el uso de la bicicleta. Pero si la relación causa efecto fuese concluyente, los autores del informe, casi seguro, no se habrían visto obligados a realizar lecturas selectivas de sus fuentes. Por ejemplo, hacen notar _una reducción del 36 % entre los niños ciclistas en Melbourne_ (donde también destacan _una reducción notablemente más pronunciada del 44 % entre los adolescentes_). Pero el resumen del [artículo del que extrean esas cifras](http://www.monash.edu.au/muarc/reports/muarc045.pdf) tiene una visión mucho más comedida:
+Puede ser, no lo descarto como hipótesis de partida, que la obligatoriedad del casco pueda reducir el uso de la bicicleta. Pero si la relación causa efecto fuese concluyente, los autores del informe, casi seguro, no se habrían visto obligados a realizar lecturas selectivas de sus fuentes. Por ejemplo, hacen notar _una reducción del 36 % entre los niños ciclistas en Melbourne_ (donde también destacan _una reducción notablemente más pronunciada del 44 % entre los adolescentes_). Pero el resumen del [artículo del que extraen esas cifras](http://www.monash.edu.au/muarc/reports/muarc045.pdf) tiene una visión mucho más comedida:
 
 >The first year following the introduction of the helmet wearing law coincided with a reduction in the number of people riding their bicycles. By 1992, two years after the law, the number of bicyclists was approaching pre-law levels in adults and children but was still greatly reduced in teenagers.
 

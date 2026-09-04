@@ -23,9 +23,9 @@ url: /2020/03/04/intervalos-de-confianza-intervalos-de-prediccion/
 
 Contexto:
 
-{{< highlight R >}}
+```r
 modelo <- lm(dist ~ speed, data = cars)
-{{< / highlight >}}
+```
 
 Intervalos de confianza:
 
@@ -35,7 +35,7 @@ Intervalos de confianza:
 
 
 
-{{< highlight R >}}
+```r
 head(predict(modelo, interval = "confidence"))
 #        fit        lwr       upr
 #1 -1.849460 -12.329543  8.630624
@@ -44,11 +44,11 @@ head(predict(modelo, interval = "confidence"))
 #4  9.947766   1.678977 18.216556
 #5 13.880175   6.307527 21.452823
 #6 17.812584  10.905120 24.720047
-{{< / highlight >}}
+```
 
 Intervalos de predicción:
 
-{{< highlight R >}}
+```r
 head(predict(modelo, interval = "prediction"))
 #        fit       lwr      upr
 #1 -1.849460 -34.49984 30.80092
@@ -57,6 +57,6 @@ head(predict(modelo, interval = "prediction"))
 #4  9.947766 -22.06142 41.95696
 #5 13.880175 -17.95629 45.71664
 #6 17.812584 -13.87225 49.49741
-{{< / highlight >}}
+```
 
 Creo que la diferencia (y el significado) es claro. Para todos los demás, [esto](https://datascienceplus.com/prediction-interval-the-wider-sister-of-confidence-interval/).

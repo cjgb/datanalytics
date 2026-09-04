@@ -32,7 +32,7 @@ La red va a ser la de [guifi.net](http://guifi.net/es) en los derredores de Barc
 
 En este primer pedazo de código voy a descargar de los servidores de guifi.net el fichero CNML (un dialecto de XML) que describe la estructura de la red en la zona de interés:
 
-{{< highlight R >}}
+```r
 library(XML)
 library(plyr)
 library(igraph)
@@ -64,11 +64,11 @@ lista.links <- do.call(rbind, lista.links)
 lista.links <- lista.links[lista.links$from %in% lista.nodos$id,]
 lista.links <- lista.links[lista.links$to   %in% lista.nodos$id,]
 lista.links <- lista.links[lista.links$to != lista.links$from,]
-{{< / highlight >}}
+```
 
 A continuación voy a crear la red, recuperar la componente conexa principal (ignorando nodos aislados, etc.) y calcular algunas estadísticas de interés (el famoso _betweenness_):
 
-{{< highlight R >}}
+```r
 g <- graph.data.frame(lista.links, directed = F, lista.nodos)
 g.working <- subgraph(g, V(g)$status %in% c("Working"))
 
@@ -84,34 +84,32 @@ g.wc <- set.edge.attribute(g.wc, name = "betweenness", E(g.wc),
                             edge.betweenness(g.wc))
 g.wc <- set.vertex.attribute(g.wc, name = "btw",
                               V(g.wc), betweenness(g.wc))
-{{< / highlight >}}
+```
 
 Podemos representar la red con
 
-{{< highlight R >}}
+```r
 my_layout <- layout.fruchterman.reingold(g.wc)
 plot(g.wc, layout = my_layout, vertex.label = NA,
       vertex.size = (1 + V(g.wc)$btw) / 3000)
-{{< / highlight >}}
+```
 
 para obtener
 
-[![guifi_bcn_force](/img/2015/05/guifi_bcn_force.png#center)
-](/img/2015/05/guifi_bcn_force.png#center)
+![guifi_bcn_force](/img/2015/05/guifi_bcn_force.png#center)
 
 pero podemos usar otro _layout_ geográfico para situar cada punto... donde está, es decir, hacer
 
-{{< highlight R >}}
+```r
 geom.layout <- cbind(as.numeric(V(g.wc)$lon),
                       as.numeric(V(g.wc)$lat))
 plot(g.wc, layout = geom.layout, vertex.label = NA,
       vertex.size = (1 + V(g.wc)$btw) / 3000)
-{{< / highlight >}}
+```
 
 para obtener
 
-[![gufi_bcn_geom](/img/2015/05/gufi_bcn_geom.png#center)
-](/img/2015/05/gufi_bcn_geom.png#center)
+![gufi_bcn_geom](/img/2015/05/gufi_bcn_geom.png#center)
 
 y ver cómo, por ejemplo, nodos con una centralidad (y criticidad) elevada están en el enlace principal entre Barcelona y Badalona. O eso es lo que parece porque, bueno, nos faltan todas las referencias geográficas.
 
@@ -121,7 +119,7 @@ En lo que sigue voy a representar esa red sobre una capa con referencias geográ
 
 Así que
 
-{{< highlight R >}}
+```r
 map.bcn <- get_map("Barcelona", maptype="satellite", zoom = 12)
 tmp <- as.popgraph(g.wc)
 tmp <- set.vertex.attribute(tmp, name = "Longitude", V(tmp),
@@ -132,12 +130,11 @@ p <- ggmap(map.bcn)
 p <- p + geom_edgeset(aes(x = Longitude, y = Latitude), tmp, color="white" )
 p <- p + geom_nodeset(aes(x = Longitude, y = Latitude, size = btw), tmp)
 p
-{{< / highlight >}}
+```
 
 y obtengo
 
-[![guifi_bcn_ggmap](/img/2015/05/guifi_bcn_ggmap.png#center)
-](/img/2015/05/guifi_bcn_ggmap.png#center)
+![guifi_bcn_ggmap](/img/2015/05/guifi_bcn_ggmap.png#center)
 
 Notas adicionales:
 

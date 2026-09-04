@@ -24,7 +24,7 @@ url: /2015/05/27/grafos-por-vecindad-en-mapas/
 Dando vueltas (infructuosas) al asunto de los [cartogramas](https://datanalytics.com/2015/05/22/cartogramas-vs-huertogramas/) he dado con un subproducto con el que, por hoy, me conformo: crear un grafo a partir de relaciones de vecindad entre polígonos. La magia, obra de `[spdep::poly2nb](http://www.inside-r.org/packages/cran/spdep/docs/poly2nb)`; el código,
 
 
-{{< highlight R >}}
+```r
 library(maptools)
 library(spdep)
 library(igraph)
@@ -32,14 +32,13 @@ library(igraph)
 # fichero descargado del INE
 aragon <- readShapePoly("ccaa00c02.shp")
 plot(aragon)
-{{< / highlight >}}
+```
 
 
-[![aragon_ine](/img/2015/05/aragon_ine.png#center)
-](/img/2015/05/aragon_ine.png#center)
+![aragon_ine](/img/2015/05/aragon_ine.png#center)
 
 
-{{< highlight R >}}
+```r
 aragon.nb <- poly2nb(aragon)
 
 # vértices
@@ -71,8 +70,7 @@ plot(g,
       layout = my.layout.orig,
       vertex.label = NA,
       vertex.size = 0.1)
-{{< / highlight >}}
+```
 
 
-[![grafo_vecinos_aragon](/img/2015/05/grafo_vecinos_aragon.png#center)
-](/img/2015/05/grafo_vecinos_aragon.png#center)
+![grafo_vecinos_aragon](/img/2015/05/grafo_vecinos_aragon.png#center)

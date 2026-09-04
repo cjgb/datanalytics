@@ -22,10 +22,10 @@ Es entretenido echar un vistazo a las causas de muerte más comunes (y todavía 
 
 Se puede jugar más con el asunto corriendo
 
-{{< highlight sql >}}
+```sql
 select ?cod (count(distinct ?who) as ?count)
 where {?who <http://dbpedia.org/ontology/deathCause> ?cod.}
 order by desc(?count)
-{{< / highlight >}}
+```
 
 y sus variantes [aquí](https://dbpedia.org/sparql).

@@ -27,18 +27,18 @@ url: /2012/04/16/rutas-por-zaragoza-con-r/
 
 Hoy voy a ilustrar el uso de este paquete adaptando un ejemplo de sus autores para encontrar la ruta _óptima_ entre dos puntos de Zaragoza, la [mercería Bell](http://www.comerciozaragoza.es/comercio/Bell) y el [colegio La Salle Montemolín](http://www.lasalle.es/lasallemontemolin/), ambos lugares muy vinculados a mi _prehistoria_. Comenzaré cargando los paquetes necesarios y los datos de OpenStreetMap correspondientes a Zaragoza:
 
-{{< highlight R >}}
+```r
 library( igraph )
 library( osmar )
 
 api <- osmsource_api(url = "http://api.openstreetmap.org/api/0.6/")
 box    <- corner_bbox( -0.90, 41.60, -0.85, 41.69 )
 zgz <- get_osm(box, source = api)
-{{< / highlight >}}
+```
 
 En segundo lugar, voy a usar las funciones auxiliares del paquete para extraer las calles del objeto `zgz` y representarlas geométricamente:
 
-{{< highlight R >}}
+```r
 hways_zgz <- subset(zgz, way_ids = find(zgz, way(tags(k == "highway"))))
 hways <- find(hways_zgz, way(tags(k == "name")))
 hways <- find_down(zgz, way(hways))
@@ -46,16 +46,15 @@ hways_zgz <- subset(zgz, ids = hways)
 
 plot_ways(hways_zgz, col = "gray" )
 title("Calles de Zaragoza")
-{{< / highlight >}}
+```
 
 El resultado es
 
-[![](/img/2012/04/calles_zaragoza.png#center)
-](/img/2012/04/calles_zaragoza.png#center)
+![](/img/2012/04/calles_zaragoza.png#center)
 
-A continuación, selecciono los puntos incial y final de mi ruta:
+A continuación, selecciono los puntos inicial y final de mi ruta:
 
-{{< highlight R >}}
+```r
 id <- find(zgz, node(tags(v == "Moda infantil Bell")))[1]
 hway_start_node <- find_nearest_node(zgz, id, way(tags(k == "highway")))
 hway_start <- subset(zgz, node(hway_start_node))
@@ -63,23 +62,22 @@ hway_start <- subset(zgz, node(hway_start_node))
 id <- find(zgz, node(tags(v == "La Salle Montemolín")))[1]
 hway_end_node <- find_nearest_node(zgz, id, way(tags(k == "highway")))
 hway_end <- subset(zgz, node(hway_end_node))
-{{< / highlight >}}
+```
 
 Puedo representarlos mediante
 
-{{< highlight R >}}
+```r
 plot_nodes(hway_start, add = TRUE, col = "red", pch = 19, cex = 1)
 plot_nodes(hway_end, add = TRUE, col = "blue", pch = 19, cex = 1)
-{{< / highlight >}}
+```
 
 para obtener
 
-[![](/img/2012/04/calles_zaragoza_puntos.png#center)
-](/img/2012/04/calles_zaragoza_puntos.png#center)
+![](/img/2012/04/calles_zaragoza_puntos.png#center)
 
 Finalmente, utilizo la infraestructura proporcionada por el paquete `igraph` (para el análisis de redes sociales) para calcular la ruta más corta entre ambos puntos haciendo
 
-{{< highlight R >}}
+```r
 gr_zgz <- as_igraph(hways_zgz)
 route <- get.shortest.paths(gr_zgz,
                             from = as.character(hway_start_node),
@@ -89,18 +87,17 @@ route_nodes <- as.numeric(V(gr_zgz)[route]$name)
 route_ids <- find_up(hways_zgz, node(route_nodes))
 route_zgz <- subset(hways_zgz, ids = route_ids)
 route_zgz
-{{< / highlight >}}
+```
 
 y puedo finalmente representarla en el mapa mediante
 
-{{< highlight R >}}
+```r
 plot_ways(route_zgz, add = TRUE, col = "black", lwd = 2)
-{{< / highlight >}}
+```
 
 para obtener el resultado final
 
-[![](/img/2012/04/calles_zaragoza_ruta.png#center)
-](/img/2012/04/calles_zaragoza_ruta.png#center)
+![](/img/2012/04/calles_zaragoza_ruta.png#center)
 
 Es incluso posible (véase [esto](http://osmar.r-forge.r-project.org/)) obtener una lista de las calles y _nodos_ que hay que seguir para ir de uno de los puntos al otro.
 

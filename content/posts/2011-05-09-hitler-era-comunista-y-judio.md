@@ -19,13 +19,12 @@ url: /2011/05/09/hitler-era-comunista-y-judio/
 
 O así nos cuenta Google. Y me explico rápidamente para que no me demande nadie.
 
-Uno de los servicios de Google con los que he topado recientemente es [Google Squared](http://www.google.com/squared), un buscador muy particular —y que parece funcionarsolo en inglés— que devuelve tablas: uno puede buscar _[nikon lenses](http://www.google.com/squared/search?q=nikon+lenses)_, o _[statistical software](http://www.google.com/squared/search?q=statistical+software)_ y obtendrá lo que verá al pinchar en los correspondientes enlaces: tablas en las que las filas corresponden a lentes de Nikon o paquetes estadísticos y las columnas a atributos. Es increíble que Google adivine que los relevantes para las lentes son, entre otros, la distancia focal o la apertura mientras que para el _software_ estadístico lo son la licencia o el desarrollador.
+Uno de los servicios de Google con los que he topado recientemente es [Google Squared](http://www.google.com/squared), un buscador muy particular —y que parece funcionar solo en inglés— que devuelve tablas: uno puede buscar _[nikon lenses](http://www.google.com/squared/search?q=nikon+lenses)_, o _[statistical software](http://www.google.com/squared/search?q=statistical+software)_ y obtendrá lo que verá al pinchar en los correspondientes enlaces: tablas en las que las filas corresponden a lentes de Nikon o paquetes estadísticos y las columnas a atributos. Es increíble que Google adivine que los relevantes para las lentes son, entre otros, la distancia focal o la apertura mientras que para el _software_ estadístico lo son la licencia o el desarrollador.
 
 Pero, ¿qué pasa si uno quiere la lista de los [comunistas](http://www.google.com/squared/search?q=communists) más prominentes? En la fecha de la publicación de esta entrada, junto a Lenin, Marx, Stalin y Trotsky, aparecen Ronald Reagan y Hitler. Y de este último se dice que es judío (y es digno de mención, además, que en lugar de su foto aparece la del Che).
 
 
-[![](/img/2011/05/hitler_comunista_y_judio.png#center)
-](/img/2011/05/hitler_comunista_y_judio.png#center)
+![](/img/2011/05/hitler_comunista_y_judio.png#center)
 
 
 El motivo de este problema reside en la naturaleza de los algoritmos típicamente usados en minería de textos. Mi primer contacto con la disciplina ocurrió en 2004, cuando era empleado de SAS. Un potencial cliente quería un sistema automático de clasificación de sentencias judiciales y SAS había adquirido recientemente una empresa que desarrollaba algoritmos de minería de textos. Como se trataba de un proyecto _raro_ dentro de los muy de andar por casa de la empresa, acabaron asignándomelo.

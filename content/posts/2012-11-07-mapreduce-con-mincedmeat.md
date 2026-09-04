@@ -33,15 +33,15 @@ El objetivo es contar, para cada autor, las palabras que aparecen en el título 
 
 Si uno ejecuta en su _servidor central_
 
-{{< highlight bash >}}
+```bash
 carlos@tiramisu:~/curso_dm/prog_03/src$ python wrdcount_mincemeat.py
-{{< / highlight >}}
+```
 
 este quedará esperando a que otras máquinas se ofrezcan a trabajar en el proyecto. En mi caso, que trabajo solo en una, puedo lanzar en varias sesiones
 
-{{< highlight bash >}}
+```bash
 carlos@tiramisu:~/curso_dm/prog_03/src$ python mincemeat.py -p changeme localhost
-{{< / highlight >}}
+```
 
 También podría lanzarlas en servidores distintos (en cuyo caso tendría que cambiar `localhost` por la IP del servidor central). Además, casi seguro, habría utilizado una contraseña, `changeme` en este caso, menos obvia.
 
@@ -49,7 +49,7 @@ En cualquier caso, las otras sesiones que lanzo (en la misma u otra máquina) re
 
 En `wrdcount_mincemeat.py` se definen dos funciones, `mapfn` y `reducefn` que son las que ejecutan los _mapeadores_ y los _reductores_, es decir, las sesiones a las que el servidor central asigna tareas, y que son en este caso
 
-{{< highlight python >}}
+```python
 def mapfn( key, value ):
 
 import re, string
@@ -67,19 +67,19 @@ for line in value.splitlines():
         for autor in autores:
                 for palabra in palabras:
                         yield autor + "|" + palabra, 1
-{{< / highlight >}}
+```
 
 y
 
-{{< highlight python >}}
+```python
 def reducefn(key, value):
         return key, len(value)
-{{< / highlight >}}
+```
 
 respectivamente. El resto del código en `wrdcount_mincemeat.py` se reduce a leer los ficheros de entrada,
 
 
-{{< highlight python >}}
+```python
 text_files = glob.glob( "../hw3data/*")
 
 def file_contents(file_name):
@@ -90,11 +90,11 @@ def file_contents(file_name):
                 f.close()
 
 source = dict((file_name, file_contents(file_name)) for file_name in text_files)
-{{< / highlight >}}
+```
 
 en un _diccionario_ (algo tal vez poco eficiente en términos de uso de la memoria) y a declarar un objeto de la clase `Server` y sus métodos `mapfn` y `reducefn` (así como recibir instrucciones sobre qué hacer con la salida del proceso) en
 
-{{< highlight python >}}
+```python
 s = mincemeat.Server()
 
 # The data source can be any dictionary-like object
@@ -113,6 +113,6 @@ for clave, contador in results.values():
 f.write( clave + " " + str(contador) + "\n" )
 
 f.close()
-{{< / highlight >}}
+```
 
 Nótese también cómo en ese pedazo de código se define la contraseña que deberán utilizar los _mapeadores_ y los _reductores_.

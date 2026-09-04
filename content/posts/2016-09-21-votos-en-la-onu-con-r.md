@@ -27,7 +27,7 @@ Inspirado por [esto](http://enelmargen.org/datascience/un-voting-patterns/) he g
 
 usando
 
-{{< highlight R >}}
+```r
 library(unvotes)
 library(reshape2)
 library(gplots)
@@ -41,7 +41,7 @@ dat <- as.matrix(dat)
 res <- cov(dat, use = "pairwise.complete.obs")
 
 heatmap(res)
-{{< / highlight >}}
+```
 
 Se me olvidaba: el gráfico se refiere a los votos de los distintos países en la ONU.
 

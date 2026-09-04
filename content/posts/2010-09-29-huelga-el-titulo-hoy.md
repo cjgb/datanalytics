@@ -17,16 +17,15 @@ title: Huelga el título hoy
 url: /2010/09/29/huelga-el-titulo-hoy/
 ---
 
-{{< highlight R >}}
+```r
 dat <- read.table("http://www.datanalytics.com/uploads/jornadas_huelga.csv", header = T)
 huelgas <- as.numeric( dat )
 huelgas <- ts( huelgas, start = 1990, frequency = 12 )
 plot( huelgas / 1000, xlab = "mes", ylab="", main = "Jornadas de huelga por mes en España (en miles)" )
-{{< / highlight >}}
+```
 
 
-[![](/img/2010/09/jornadas_huelga_espana.png#center)
-](/img/2010/09/jornadas_huelga_espana.png#center)
+![](/img/2010/09/jornadas_huelga_espana.png#center)
 
 
 

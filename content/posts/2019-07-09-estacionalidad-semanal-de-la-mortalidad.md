@@ -30,5 +30,5 @@ Continúo con [esto](https://datanalytics.com/2019/07/04/mortalidad-y-domingos/)
 
 Resumen:
 
-* Acusada variación intrasemanal (con un intevalo de variación del 5%, que es mucho).
+* Acusada variación intrasemanal (con un intervalo de variación del 5%, que es mucho).
 * Los intervalos de confianza de los nuevos modelos contienen mucho mejor las observaciones reales; muchos picos observados dejan de parecer anómalos para quedar dentro de las franjas de variación esperadas.

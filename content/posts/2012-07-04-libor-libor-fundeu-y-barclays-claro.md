@@ -38,19 +38,16 @@ Los valores que comunican las entidades son públicos. Y como el mercado presta 
 
 Por ejemplo, Barclays, que —tal vez por tenerme entonces en la planta octava de su sede central _picando_ SAS— estaba siendo cuestionado en otoño de 2007, comunicaba tipos de interés sustancialmente más elevados que el resto de las entidades
 
-[![](/img/2012/07/libor_barclays.jpg)
-](/img/2012/07/libor_barclays.jpg)
+![](/img/2012/07/libor_barclays.jpg)
 como puede apreciarse en el anterior [gráfico de The Guardian](http://www.guardian.co.uk/news/datablog/2012/jul/03/libor-rates-set-banks). Este periódico también [ha hecho públicos los tipos comunicados por las distintas entidades](https://docs.google.com/spreadsheet/ccc?key=0AonYZs4MzlZbdEtRNnA4SWx1djhTSHpyYVliQ1pFb2c) y ha creado incluso una [visualización interactiva](http://www.guardian.co.uk/news/datablog/interactive/2012/jul/03/libor-rate-fixing-bank-submissions) con ellos usando [Tableau](http://www.tableausoftware.com/) (y veréis la cara de tontos que se les queda cuando Tableau decida cerrar el chiringo, como pasó con Needlebase; pero esa es otra historia).
 
 Con esos datos he construido una gráfica de las diferencias por entidad entre el Libor (a tres meses) y el comunicado por las entidades. El primero, en una época _normal_, en que las diferencias entre entidades eran pequeñas (y la prima de riesgo era un arcano para los más)
 
-[![](/img/2012/07/libor_2007.png#center)
-](/img/2012/07/libor_2007.png#center)
+![](/img/2012/07/libor_2007.png#center)
 
 y luego, un año más tarde, cuando el mercado interbancario comenzó a discriminar entre entidades:
 
-[![](/img/2012/07/libor_2008.png#center)
-](/img/2012/07/libor_2008.png#center)
+![](/img/2012/07/libor_2008.png#center)
 
 Se ve claramente cómo Barclays estuvo sometido a presión en esa época.
 
@@ -60,7 +57,7 @@ Pero sin que, entiendo, afectase al Libor gracias a la _winsorización_ de la me
 
 **Nota:** el código usado para realizar el segundo gráfico es el siguiente:
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 
 raw <- read.csv( "LIBOR Combined - USD - Sheet 1.csv" )
@@ -88,4 +85,4 @@ banks3 <- rbind( banks3, tmp )
 
 ggplot( banks3, aes( x = date, y = Libor3M, group = curve, colour = curve ) )
 + geom_line() + facet_wrap( ~ bank)
-{{< / highlight >}}
+```

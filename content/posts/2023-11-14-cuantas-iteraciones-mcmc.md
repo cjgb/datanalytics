@@ -27,7 +27,7 @@ Tampoco puedo añadir nada de sustancia a lo que ahí se cuenta. Me voy a limita
 
 ![](/img/2023/mcmc_00.png#center)
 
-Como se indica en el artículo e ilustra la gráfica anterior, uno lanza varias cadenas que tienen dos fases diferenciadas: _calentamiento_ y muestreo propiamente dicho. Los parámetros iniciales de la distribución de la cadena pueden estar muy alejados de los _reales_ y el calentamiento puede interpretarse casi como una optimización. De hecho, si uno busca en Google _mcmc fucntion optimization_ encuentra resultados relacionados con el asunto. MCMC no está pensado para eso y no es _óptimo_, pero aun así, puede usarse para obtener valores próximos a un máximo o mínimo.
+Como se indica en el artículo e ilustra la gráfica anterior, uno lanza varias cadenas que tienen dos fases diferenciadas: _calentamiento_ y muestreo propiamente dicho. Los parámetros iniciales de la distribución de la cadena pueden estar muy alejados de los _reales_ y el calentamiento puede interpretarse casi como una optimización. De hecho, si uno busca en Google _mcmc function optimization_ encuentra resultados relacionados con el asunto. MCMC no está pensado para eso y no es _óptimo_, pero aun así, puede usarse para obtener valores próximos a un máximo o mínimo.
 
 Muchos problemas de optimización son sencillos. Encontrar los parámetros de la _mejor recta_ que blablablá (la regresión lineal) es un problema de optimización muy simple. Cabe esperar que, independientemente de lo alejados que estén los parámetros iniciales de los _óptimos_, el calentamiento propiamente dicho del MCMC para ajustar el modelo sea breve: enseguida comenzará a muestrear cerca del óptimo.
 

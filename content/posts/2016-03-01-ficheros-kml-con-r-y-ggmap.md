@@ -25,7 +25,7 @@ url: /2016/03/01/ficheros-kml-con-r-y-ggmap/
 
 Fácil:
 
-{{< highlight R >}}
+```r
 library(maptools)
 library(ggmap)
 
@@ -47,7 +47,7 @@ mapa <- get_map("Madrid",
 ggmap(mapa) + geom_path(aes(x = X1, y = X2,
     group = id), data = rutas,
     colour = "red")
-{{< / highlight >}}
+```
 
 produce
 

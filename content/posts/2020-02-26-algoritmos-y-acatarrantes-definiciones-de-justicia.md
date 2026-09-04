@@ -31,33 +31,33 @@ Centrémonos en (B), sabiendo que, por simetría, lo que cuento se aplica tambi�
 
 Supongamos que tenemos dos grupos, cada uno de ellos de
 
-{{< highlight R >}}
+```r
 n <- 1000000
-{{< / highlight >}}
+```
 
 personas para estar en las asíntotas que aman los frecuentistas. Estos grupos tienen distribuciones distintas de un factor de riesgo,
 
-{{< highlight R >}}
+```r
 p.group.1 <- rbeta(n, 3, 2)
 p.group.2 <- rbeta(n, 2, 3)
-{{< / highlight >}}
+```
 
 y se observan
 
-{{< highlight R >}}
+```r
 y.group.1 <- sapply(p.group.1, function(p) rbinom(1, 1, p))
 y.group.2 <- sapply(p.group.2, function(p) rbinom(1, 1, p))
-{{< / highlight >}}
+```
 
 Construimos un modelo perfecto, que a cada sujeto le asigne exactamente su probabilidad. Ese es el _score_.
 
 Por otro lado, la clase negativa a la que se refiere (B) son los sujetos para los que `y = 0`. Para ser _justo_, debería suceder que
 
 
-{{< highlight R >}}
+```r
 mean(p.group.1[y.group.1 == 0])
 mean(p.group.2[y.group.2 == 0])
-{{< / highlight >}}
+```
 
 fuesen iguales.
 

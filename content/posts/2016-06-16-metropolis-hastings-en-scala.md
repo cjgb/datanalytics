@@ -28,14 +28,14 @@ Juzguen Vds.
 
 Primero, genero datos en R:
 
-{{< highlight R >}}
+```r
 datos <- rnorm(500, 0.7, 1)
 writeLines(as.character(datos), "/tmp/datos.txt")
-{{< / highlight >}}
+```
 
 Son de una normal con media 0.7. En el modelo que vamos a crear, suponemos conocida (e igual a 1) la varianza de la normal y trataremos de estimar la media suponiéndole una distribución a priori normal estándar. Y con Scala, así:
 
-{{< highlight Scala >}}
+```scala
 import scala.io.Source
 import java.io.PrintWriter
 
@@ -73,13 +73,13 @@ val res_thin = res zip (Stream from 1) filter (_._2 % 5 == 0) map (_._1)
 val out = new PrintWriter("/tmp/posterior.txt")
 res map out.println
 out.close()
-{{< / highlight >}}
+```
 
 Leo los datos de la posteriori en R y los represento así:
 
-{{< highlight R >}}
+```r
 posterior <- as.double(readLines("/tmp/posterior.txt"))
 hist(posterior, breaks = 50)
-{{< / highlight >}}
+```
 
 ![posteriori_scala](/img/2016/06/posteriori_scala.png#center)

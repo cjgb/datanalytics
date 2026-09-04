@@ -24,14 +24,14 @@ Las circunstancias —frente a las que soy dócil como el que más— me conduce
 
 Dado un número (p.e., 1234), lo podemos descomponer en dos: una potencia de 10 y otro entre 0 y 10:
 
-{{< highlight R >}}
+```r
 n <- 1234     # por ejemplo
 suelo <- floor(log10(n))
 parte.decimal <- log10(n) - suelo
 
 10^suelo            # una potencia de 10
 10^parte.decimal    # entre 0 y 10
-{{< / highlight >}}
+```
 
 Si lo que llamamos `parte.decimal` tiene una distribución uniforme en el intervalo (0,1), entonces la probabilidad de que un número comience por, por ejemplo, 3, será
 

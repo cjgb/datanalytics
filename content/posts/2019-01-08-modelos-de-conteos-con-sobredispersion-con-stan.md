@@ -31,7 +31,7 @@ Una mejor aproximación es interpretar la sobredispersión de la Poisson como ef
 
 Para lo cual, genero datos (obviamente, de acuerdo con mi modelo):
 
-{{< highlight R >}}
+```r
 # sujetos por experimento
 n <- 5000
 
@@ -51,7 +51,7 @@ obs.control <- sapply(prop.control,
 prop.tratamiento <- rgamma(n, a, b) * (1 + incr)
 obs.tratamiento <- sapply(prop.tratamiento,
   function(lambda) rpois(1, lambda))
-{{< / highlight >}}
+```
 
 Y ahora modelo en Stan:
 
@@ -60,7 +60,7 @@ Y ahora modelo en Stan:
 
 
 
-{{< highlight c >}}
+```c
 data {
   int n;
   int control[n];
@@ -84,11 +84,11 @@ model {
     tratamiento[i] ~ poisson(lambdas_tratamiento[i] * (1 + incr));
   }
 }
-{{< / highlight >}}
+```
 
 Y ejecuto:
 
-{{< highlight R >}}
+```r
 library(rstan)
 
 fit <- stan("disp_poisson.stan",
@@ -98,8 +98,8 @@ fit <- stan("disp_poisson.stan",
             chains = 1, thin = 10)
 
 res <- as.data.frame(fit)
-{{< / highlight >}}
+```
 
-El resultado es lo de menos. Lo de más, que tenemos disponible este procedimiento para modelar la sobre dispersión de los conteos, que es más natural que otros.
+El resultado es lo de menos. Lo de más, que tenemos disponible este procedimiento para modelar la sobredispersión de los conteos, que es más natural que otros.
 
 **Nota:** para una visión alternativa, [esto](https://journals.sagepub.com/doi/abs/10.1177/1471082X14524676?rss=1).

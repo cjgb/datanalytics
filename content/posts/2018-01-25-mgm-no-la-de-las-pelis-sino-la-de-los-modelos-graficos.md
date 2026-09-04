@@ -34,17 +34,17 @@ Pero esos datos fueron la excusa perfecta para ensayar algo que todavía no teng
 
 Así que
 
-{{< highlight R >}}
+```r
 modelo <- mgm(as.matrix(dat),
     type = rep("g", ncol(dat)),
     level = rep(1, ncol(dat)),
     k = 2,
     lambdaSel = "EBIC", lambdaGam = 0.25)
-{{< / highlight >}}
+```
 
 y luego
 
-{{< highlight R >}}
+```r
 qgraph(modelo$pairwise$wadj,
     layout = 'spring', repulsion = 1.3,
     edge.color = modelo$pairwise$edgecolor,
@@ -53,7 +53,7 @@ qgraph(modelo$pairwise$wadj,
     groups = my_groups,
     legend.mode = "style2", legend.cex=.4,
     vsize = 3.5, esize = 15)
-{{< / highlight >}}
+```
 
 para obtener
 

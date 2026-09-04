@@ -30,10 +30,10 @@ Catástrofe:
 
 Priori.
 
-{{< highlight R >}}
+```r
 for (i in 1:n_ccaa)
     Cccaa[i] ~ cauchy(0, 20);
-{{< / highlight >}}
+```
 
 ¿Por qué no?
 

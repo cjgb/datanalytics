@@ -35,7 +35,7 @@ Por otro, me he dejado convencer temporalmente de que la [distribución de Burr 
 
 Así que he corrido
 
-{{< highlight R >}}
+```r
 library(actuar)
 library(pxR)
 
@@ -73,7 +73,7 @@ res <- optim(c(1,1, 1, 1), foo)
 
 curve(dburr(x, res$par[1], res$par[2], res$par[3], res$par[4]),
         from = 0, to = 5000)
-{{< / highlight >}}
+```
 
 y me he convencido de que no.
 

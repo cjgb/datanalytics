@@ -27,7 +27,7 @@ Si uno quiere trabajar con las principales componentes de un PCA sobre unos dato
 
 Voy a presentar uno. Se trata de un _clústering_ simple:
 
-{{< highlight R >}}
+```r
 n <- 100
 m <- matrix(rnorm(2 * n), n, 2)
 m[, 1] <- m[, 1] * 3
@@ -37,15 +37,14 @@ m <- m %*% rot
 tmp <- kmeans(m, 2)
 
 plot(m, col = tmp$cluster, asp = 1)
-{{< / highlight >}}
+```
 
 
-[![clust_00](/img/2014/04/clust_00.png#center)
-](/img/2014/04/clust_00.png#center)
+![clust_00](/img/2014/04/clust_00.png#center)
 
 Pero puede darse el caso de que haya motivos para pensar que la dirección NO-SE tiene demasiado peso en el resultado final. Es posible entonces reducir la distancia en esa dirección:
 
-{{< highlight R >}}
+```r
 m.pca <- princomp(m, 2)$scores
 
 head(m.pca)
@@ -58,38 +57,35 @@ head(m.pca)
 ## [6,] -1.89838  0.28717
 
 plot(m.pca, asp = 1, col = tmp$cluster)
-{{< / highlight >}}
+```
 
-[![clust_01](/img/2014/04/clust_01.png#center)
-](/img/2014/04/clust_01.png#center)
+![clust_01](/img/2014/04/clust_01.png#center)
 
 Ahí están las dos componentes. La más importante es la primera, que tiene el rango (-3, 3) mientras que la otra va de -1 a 1 (aproximadamente). Pero es posible comprimir la primera dirección
 
-{{< highlight R >}}
+```r
 m.pca.squeezed <- m.pca
 m.pca.squeezed[, 1] <- 0.2 * m.pca.squeezed[, 1]
-{{< / highlight >}}
+```
 
 para entonces usar `kmeans` sobre las componentes reponderadas
 
 
-{{< highlight R >}}
+```r
 tmp.squeezed <- kmeans(m.pca.squeezed, 2)
 plot(m.pca.squeezed, col = tmp.squeezed$cluster, asp = 1)
-{{< / highlight >}}
+```
 
-[![clust_02](/img/2014/04/clust_02.png#center)
-](/img/2014/04/clust_02.png#center)
+![clust_02](/img/2014/04/clust_02.png#center)
 
 Finalmente, es posible representar los _clústers_ sobre las variables originales:
 
-{{< highlight R >}}
+```r
 tmp.squeezed <- kmeans(m.pca.squeezed, 2)
 plot(m, col = tmp.squeezed$cluster, asp = 1)
-{{< / highlight >}}
+```
 
-[![clust_03](/img/2014/04/clust_03.png#center)
-](/img/2014/04/clust_03.png#center)
+![clust_03](/img/2014/04/clust_03.png#center)
 
 Puede apreciarse cómo ha decrecido el impacto de la dirección NO-SE en el resultado final.
 

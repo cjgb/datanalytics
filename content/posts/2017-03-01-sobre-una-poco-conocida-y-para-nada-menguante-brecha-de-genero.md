@@ -34,7 +34,7 @@ El fenómeno no es solo español: consúltese [este estudio sueco](https://ikash
 
 El código, salvo la descarga de los datos del INE (a ver si la próxima vez uso la [API JSON](http://www.ine.es/dyngs/DataLab/es/manual.html?&cid=45), que para eso está), aquí:
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(ggplot2)
 library(reshape2)
@@ -76,4 +76,4 @@ ggplot(datos.agrupados, aes(x = Periodo, y = ratio)) +
   ggtitle("Evolución del ratio (hombres/mujeres) de la tasa de mortalidad\npor grupos de edad") +
   xlab("año") +
   ylab("ratio de tasas de mortalidad (hombres / mujeres)")
-{{< / highlight >}}
+```

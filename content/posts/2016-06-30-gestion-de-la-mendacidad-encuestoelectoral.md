@@ -29,4 +29,4 @@ Lo de que la gente que miente al ser encuestada se ha esgrimido frecuentemente e
 
 Con una versión del procedimiento que describo en la entrada que enlazo más arriba, se podrían redescubrir las opciones de la población subyacente, aun ignorando el de cada uno de los encuestados. No sé cuál sería (si no se me adelanta nadie, igual la hago yo) el procedimiento, pero seguro que no es tan complicado como para que Stan no pueda con ello.
 
-Luego se puede analizar a partir de qué tasa de ocultación vale la pena implementar este procediento y el resto de las concomitancias habituales.
+Luego se puede analizar a partir de qué tasa de ocultación vale la pena implementar este procedimiento y el resto de las concomitancias habituales.

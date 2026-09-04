@@ -28,7 +28,7 @@ url: /2017/10/11/ropenspain-ahi-tiro-el-guante/
 
 La gente de [`rOpenSci`](https://ropensci.org/) hace cosas a las que merece la pena pretar atención. Tanto por los objetivos como por medios y las formas. Recomiendo seguir sus últimas publicaciones acerca de la profesionalización del proceso de desarrollo de código.
 
-Llevo unos meses jugando con una idea inspirada por `rOpenSci`: crear un respositorio y un consorcio más o menos formal que desarrolle, mantenga y mejore herramientas (en R) de interés para el procesamiento y análisis de datos ya no científicos sino españoles. Hablo, obviamente, de INE (EPA, EPF, censo, padrón,...), CIS (barómetros, etc.), IGN (Siane,...), [encuestas electorales](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election), etc.
+Llevo unos meses jugando con una idea inspirada por `rOpenSci`: crear un repositorio y un consorcio más o menos formal que desarrolle, mantenga y mejore herramientas (en R) de interés para el procesamiento y análisis de datos ya no científicos sino españoles. Hablo, obviamente, de INE (EPA, EPF, censo, padrón,...), CIS (barómetros, etc.), IGN (Siane,...), [encuestas electorales](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election), etc.
 
 Hay cosas hechas. En algunas de ellas he participado (p.e., [`MicroDatosEs`](https://datanalytics.com/2014/06/27/disponible-una-nueva-version-de-microdatoses/)); otras son producto del TFM de alumnos míos (p.e., [`catastRo`](https://datanalytics.com/2017/10/02/catastro-un-paquete-de-r-para-consultar-la-api-del-catastro/)); y seguro que hay más por ahí.
 

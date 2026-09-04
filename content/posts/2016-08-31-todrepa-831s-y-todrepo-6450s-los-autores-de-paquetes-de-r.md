@@ -29,7 +29,7 @@ En los últimos tiempos se ha puesto de moda un subgénero periodístico que es 
 
 No sabiéndome sustraer al encanto del último grito, he escrito y corrido
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(rjson)
 library(plyr)
@@ -86,7 +86,7 @@ nombres.con.sexo <- merge(tmp, freqs, by.x = "name", by.y = "nombres")
 nombres.con.sexo$probability <- as.numeric(as.character(nombres.con.sexo$probability))
 nombres.con.sexo <- nombres.con.sexo[nombres.con.sexo$probability > 0.9,]
 tapply(nombres.con.sexo$Freq, nombres.con.sexo$gender, sum)
-{{< / highlight >}}
+```
 
 para obtener los números que figuran en el título de la entrada.
 

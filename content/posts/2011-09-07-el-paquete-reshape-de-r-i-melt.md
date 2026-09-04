@@ -23,50 +23,49 @@ El [paquete _reshape_ de R](http://had.co.nz/reshape/) consta esencialmente de 
 
 La función `melt` se describe sucintamente con el siguiente gráfico:
 
-[![](/img/2011/09/melt.png#center)
-](/img/2011/09/melt.png#center)
+![](/img/2011/09/melt.png#center)
 
 Es decir, toma un `data.frame` y lo _funde_ (¡dejaré de ser amigo de quien pronuncie _meltea_!) o, visto de otra manera, estira.
 
 He aquí unos ejemplos:
 
 
-{{< highlight R >}}
+```r
 library(reshape)
 iris.m <- melt(iris)
 iris.m
-{{< / highlight >}}
+```
 
 
 Nótese cómo `melt` es inteligente y no necesita (en muchas ocasiones) que se le especifiquen cosas evidentes. De hecho, la expresión anterior es equivalente a las siguientes:
 
 
-{{< highlight R >}}
+```r
 iris.m <- melt( iris, id.vars = "Species" )
 iris.m <- melt( iris, id.vars = 5 )
 iris.m <- melt( iris, id.vars = "Species", measure.vars = 1:4 )
 iris.m <- melt( iris, id.vars = 5, measure.vars = 1:4 )
-{{< / highlight >}}
+```
 
 
 Un ejemplo un poco más sofisticado es el siguiente:
 
 
-{{< highlight R >}}
+```r
 library( plm )
 data( Produc )
 produc.m <- melt( Produc )
 produc.m
-{{< / highlight >}}
+```
 
 
 Que no produce los efectos deseados. Más bien, queremos
 
 
-{{< highlight R >}}
+```r
 produc.m <- melt(Produc, id = c("state", "year") )
 produc.m
-{{< / highlight >}}
+```
 
 
 El próximo día nos ocuparemos de su función compañera, `cast`.

@@ -26,7 +26,7 @@ Un caso particular: cuando de una variable aleatoria calculo y escribo o represe
 
 Presunto caso general: la adecuada representación de datos es condicional a su modelización. Esta debiera aparecer debidamente explicitada en algún momento y sitio. Elegido un modelo, la determinación de la representación de los datos sería un corolario.
 
-Esto plantea algunas preguntas. Por ejemplo, la relación de lo que cuento con el EDA (i.e., análisis de datos exploratorio), que postula que es posible (e incluso convieniente) realizar análisis de datos usando herramientas puramente gráficas, sin el aparataje estadístico-matemático habitual.
+Esto plantea algunas preguntas. Por ejemplo, la relación de lo que cuento con el EDA (i.e., análisis de datos exploratorio), que postula que es posible (e incluso conveniente) realizar análisis de datos usando herramientas puramente gráficas, sin el aparataje estadístico-matemático habitual.
 
 Aunque creo que los partidarios del EDA (¡yo, yo, yo!) pecan del mismo vicio que esa gente que después de haber estudiado matemáticas durante mucho tiempo (¡yo, yo, yo!) van por ahí echando pestes de la educación matemática formal y tradicional (¡yo, yo, yo!) ignorando la pregunta fundamental: aquellos a quienes se liberase de esos lastres intelectuales, ¿estarían en disposición de utilizar las nuevas herramientas con el mismo grado de eficacia? ¿O descubriríamos tarde y entre lamentos que carecen de alguna habilidad fundamental de la que se les privó inadvertidamente?
 

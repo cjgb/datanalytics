@@ -24,7 +24,7 @@ El programa `src.R` genera entonces el gráfico utilizando dos paquetes de R: [g
 
 La magia la proporciona la función `grid.symbols` dentro del siguiente pedazo de código (que utiliza la función `xyplot` del paquete `lattice`):
 
-{{< highlight R >}}
+```r
 xyplot( ppa ~ func_pct,
     groups = pais, data = dat,
     xlab = "% funcionarios", ylab = "renta per cápita",
@@ -40,6 +40,6 @@ xyplot( ppa ~ func_pct,
         }
     }
 )
-{{< / highlight >}}
+```
 
 Algún día, prometo, aprenderé a formatear el código en Wordpress para que no se parezca al que escribía la preclara conchi77 (los que no sepan quién es y no puedan refrenar su curiosidad, que me pregunten en privado: no quiero demandas).

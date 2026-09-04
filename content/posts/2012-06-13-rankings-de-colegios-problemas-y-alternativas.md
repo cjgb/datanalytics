@@ -37,9 +37,7 @@ En fin.
 
 Lo que venía yo a contar, sin embargo, es que estoy, de entrada, en contra de los _rankings_. Leo a veces por entretenerme los de las cien mejores películas o las cien mejores canciones. E incluso en dichos casos siempre acabo preguntándome:
 
-
-¿Realmente debería ser ET la 25 y "Toro Salvaje" la 24? ¿O podía ser al revés sin que Eiseistein se revolviese en su tumba? Hay gente que se ocupa de esos temas y [a veces va y encuentra que](http://www.fiercehealthcare.com/story/hospital-rankings-mortality-rates-based-chance-study-says/2011-09-07):
-
+¿Realmente debería ser ET la 25 y "Toro Salvaje" la 24? ¿O podía ser al revés sin que Eisenstein se revolviese en su tumba? Hay gente que se ocupa de esos temas y [a veces va y encuentra que](http://www.fiercehealthcare.com/story/hospital-rankings-mortality-rates-based-chance-study-says/2011-09-07):
 
 >Cuando los investigadores examinaron 42 hospitales infantiles, descubrieron que los _rankings_ no eran tan precisos como la gente puede pensar. Tras compararlos con un mazo de cartas barajeado al azar el Dr. Chris Feudtner, del Children's Hospital of Philadelphia confirmó a Reuters Health que los _rankings_ pueden depender de la suerte.
 

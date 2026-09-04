@@ -26,4 +26,4 @@ He colgado las [diapositivas de _Antikaggle: contra la homeopatía de datos_](/c
 
 El vídeo, se dice, aparecerá pronto. Sin él, las diapositivas, puro soporte visual, quedan huérfanas.
 
-Tema, tono y contenid son premeditadamente polémicos; las consecuencias, previsibles. Fe de ello dan [los comentarios de los asistentes](https://www.meetup.com/MachineLearningSpain/events/231863173/?read=1&_af=event&_af_eid=231863173&https=on).
+Tema, tono y contenido son premeditadamente polémicos; las consecuencias, previsibles. Fe de ello dan [los comentarios de los asistentes](https://www.meetup.com/MachineLearningSpain/events/231863173/?read=1&_af=event&_af_eid=231863173&https=on).

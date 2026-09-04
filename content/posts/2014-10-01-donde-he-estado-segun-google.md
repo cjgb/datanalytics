@@ -30,7 +30,7 @@ Google guarda datos de tus ubicaciones: tu tableta, tu ordenador, tu teléfono A
 El código que he utilizado es el siguiente:
 
 
-{{< highlight R >}}
+```r
 library(RJSONIO)
 library(plyr)
 library(ggmap)
@@ -71,26 +71,23 @@ mostrar.ubicaciones('Puerta del Sol, Madrid, Spain', 11, res)
 mostrar.ubicaciones('Technopark, Zurich, Suiza', 14, res)
 mostrar.ubicaciones("Soria, Spain", 7, res)
 mostrar.ubicaciones("Zaragoza, Spain", 14, res)
-{{< / highlight >}}
+```
 
 **Resultados**
 
 En los últimos tiempos (no me he entretenido a mirar cuántos ni cuáles) he estado en varios lugares de Europa. No uso los datos del móvil y suelo tener la wifi y el GPS desconectados. Por eso, los puntos del siguiente mapa son todos los que están, pero no están todos los que son:
 
-[![ggmaps_google_paris](/img/2014/10/ggmaps_google_paris.png#center)
-](/img/2014/10/ggmaps_google_paris.png#center)
+![ggmaps_google_paris](/img/2014/10/ggmaps_google_paris.png#center)
 
 Falta información de algunos viajes en los que, al parecer, estuve desconectado.
 
 Dentro de Madrid me traza por los alrededores de mi casa, en el aeropuerto y entre la una y el otro. Así de triste es mi vida. Hay un punto raro en el que no recuerdo haber estado en los últimos tiempos. Faltan algunos puntos por los alrededores de la ciudad universitaria por donde anduve este verano y el DataBeers de la semana pasada. ¡Apenas he estado en ningún otro sitio en los últimos meses!
 
-[![ggmaps_google_madrid](/img/2014/10/ggmaps_google_madrid.png#center)
-](/img/2014/10/ggmaps_google_madrid.png#center)
+![ggmaps_google_madrid](/img/2014/10/ggmaps_google_madrid.png#center)
 
 En Zúrich tengo punticos en casa, en el trabajo y uno en la estación de tren. Supongo que camino del aeropuerto. He estado en algún sitio más con la bici, pero, al parecer, desconectado.
 
-[![ggmaps_google_zurich](/img/2014/10/ggmaps_google_zurich.png#center)
-](/img/2014/10/ggmaps_google_zurich.png#center)
+![ggmaps_google_zurich](/img/2014/10/ggmaps_google_zurich.png#center)
 
 Etc.
 

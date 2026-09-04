@@ -26,7 +26,7 @@ Después de hablar con tirios y troyanos sobre mi [entrada sobre los efectos de 
 
 Aquí va el código:
 
-{{< highlight R >}}
+```r
 library(randomForest)
 
 set.seed(1234)
@@ -66,7 +66,7 @@ errores <- do.call(rbind,
   replicate(1000, test.error(), simplify = F))
 
 sapply(errores, fivenum)
-{{< / highlight >}}
+```
 
 El resultado, si te interesa, en tu pantalla.
 

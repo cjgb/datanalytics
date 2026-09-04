@@ -24,20 +24,20 @@ O tal dice lo que expongo a continuación.
 
 Paquetes necesarios:
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(caRtociudad)
 library(reshape2)
 library(ggmap)
 library(plyr)
 library(TSP)
-{{< / highlight >}}
+```
 
 
 Extracción de las provincias y sus capitales (de la Wikipedia):
 
 
-{{< highlight R >}}
+```r
 capitales <- read_html("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n")
 capitales <- html_nodes(capitales, "table")
 capitales <- html_table(capitales[[1]])$Ciudad
@@ -48,13 +48,13 @@ capitales <- capitales[!capitales %in%
     "Santa Cruz de Tenerife",
     "Santiago de Compostela",
     "Palma de Mallorca")]
-{{< / highlight >}}
+```
 
 
 Y sus coordenadas:
 
 
-{{< highlight R >}}
+```r
 coordenadas <- ldply(capitales, function(x) {
     tmp <- cartociudad_geocode(x)[1,]
     res <- data.frame(ciudad = x, provincia = tmp$province, lat = tmp$latitude, lon = tmp$longitude)
@@ -70,13 +70,13 @@ coordenadas <- ldply(capitales, function(x) {
 coords.logrono <- geocode("Logroño")
 coordenadas$lat[coordenadas$ciudad == "Logroño"] <- coords.logrono$lat
 coordenadas$lon[coordenadas$ciudad == "Logroño"] <- coords.logrono$lon
-{{< / highlight >}}
+```
 
 
 Construcción de la matriz simétrica de distancias (¡tarda un buen rato!):
 
 
-{{< highlight R >}}
+```r
 distancias <- expand.grid(desde = capitales, hasta = capitales)
 distancias$desde <- as.character(distancias$desde)
 distancias$hasta <- as.character(distancias$hasta)
@@ -106,24 +106,24 @@ distancias.capitales <- dcast(distancias, desde ~ hasta)
 distancias.capitales <- as.matrix(distancias.capitales[,-1])
 rownames(distancias.capitales) <- colnames(distancias.capitales)
 diag(distancias.capitales) <- 0
-{{< / highlight >}}
+```
 
 
 La [magia](https://cran.r-project.org/web/packages/TSP/vignettes/TSP.pdf):
 
 
-{{< highlight R >}}
+```r
 distancias.capitales <- TSP(
   distancias.capitales,
   labels = colnames(distancias.capitales))
 res <- solve_TSP(distancias.capitales)
-{{< / highlight >}}
+```
 
 
 Y el remate,
 
 
-{{< highlight R >}}
+```r
 trazar.ruta <- function(ruta){
   ruta.coordenadas <- data.frame(desde = ruta[-length(ruta)], hasta = ruta[-1])
   desde.coordenadas <- coordenadas[match(ruta.coordenadas$desde, coordenadas$ciudad),]
@@ -144,7 +144,7 @@ trazar.ruta <- function(ruta){
 ruta <- names(res)
 ruta <- c(ruta, ruta[1])
 trazar.ruta(ruta)
-{{< / highlight >}}
+```
 
 
 que genera

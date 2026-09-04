@@ -30,8 +30,7 @@ Así que he bajado los [mapas del INE](http://www.ine.es/ss/Satellite?L=es_ES&c=
 
 Pero he tropezado con insalvables dificultades semánticas para desnaturalizar el mapa provincial. No sé si construir un cartograma al estilo de
 
-[![](/img/2013/08/esp.jpg)
-](/img/2013/08/esp.jpg)
+![](/img/2013/08/esp.jpg)
 
 en el que se desdibujan horrendamente las proporciones peninsulares me haría imputable. Honestamente no lo sé.
 

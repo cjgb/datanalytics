@@ -23,10 +23,10 @@ url: /2017/02/28/al-cabo-de-mas-de-50-meses-hemos-observado-un-fenomeno-que-ocur
 
 En efecto,
 
-{{< highlight R >}}
+```r
 mean(rpois(100000, 28 * 60 / 365) >= 10)
 #[1] 0.01964
-{{< / highlight >}}
+```
 
 Por referencia,
 

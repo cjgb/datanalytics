@@ -27,34 +27,34 @@ Existe una [viñeta](https://cloud.r-project.org/web/packages/hunspell/vignettes
 
 Cargamos el paquete:
 
-{{< highlight R >}}
+```r
 library(hunspell)
-{{< / highlight >}}
+```
 
 `hunspell` utiliza los diccionarios de Hunspell. Por efecto, el paquete usa los diccionarios correspondientes a `en_US`, pero nosotros utilizaremos el `es_ES`. Si están instalados, todo podría funcionar (luego veremos que  no) haciendo
 
-{{< highlight R >}}
+```r
 esp <- dictionary("es_ES")
-{{< / highlight >}}
+```
 
 Ese comando define el diccionario que usaremos después. El paquete es listo y sabe ubicar a partir de su argumento-indicio los ficheros correspondientes del disco duro, que en mi caso son
 
-{{< highlight bash >}}
+```bash
 /usr/share/hunspell/es_ES.aff
 /usr/share/hunspell/es_ES.dic
-{{< / highlight >}}
+```
 
-Desafortunadamente, ese diccionario para mi distribución está codificado en ISO-8859 (¿por qué? ¿por qué? ¿por qué?) pero mis locales son UTF-8. Para curarse en salud, es mejor descargar [versiones en UTF-8 del diccionario](https://github.com/titoBouzout/Dictionaries). No lo hagas y ta arrepentirás mucho si mezclas codificaciones.
+Desafortunadamente, ese diccionario para mi distribución está codificado en ISO-8859 (¿por qué? ¿por qué? ¿por qué?) pero mis locales son UTF-8. Para curarse en salud, es mejor descargar [versiones en UTF-8 del diccionario](https://github.com/titoBouzout/Dictionaries). No lo hagas y te arrepentirás mucho si mezclas codificaciones.
 
 Tras descargarlos, defino mi diccionario así:
 
-{{< highlight R >}}
+```r
 esp <- dictionary("/home/carlos/Downloads/hunspell_es_ES/Spanish.dic")
-{{< / highlight >}}
+```
 
 Y, ahora sí, a triunfar:
 
-{{< highlight R >}}
+```r
 words <- c("albañil", "piscina", "veníamos", "escojió")
 correct <- hunspell_check(words, dict = esp)
 correct
@@ -63,11 +63,11 @@ correct
 hunspell_suggest(words[!correct], dict = esp)
 #[[1]]
 #[1] "escorió"  "escoció"  "escolió"  "escomió"  "escogió"  "escondió"
-{{< / highlight >}}
+```
 
 También es posible extraer lemas de términos o etiquetarlos gramaticalmente:
 
-{{< highlight R >}}
+```r
 words <- c("casas", "quería", "patrañas")
 hunspell_stem(words, dict = esp)
 # [[1]]
@@ -88,11 +88,11 @@ hunspell_analyze(words, dict = esp)
 #
 # [[3]]
 # [1] " st:patraña fl:S"
-{{< / highlight >}}
+```
 
 Estos análisis también pueden realizarse sobre frases completas (es decir, el sistema incluye un _tokenizador_):
 
-{{< highlight R >}}
+```r
 bad <- hunspell("hay gente que escribe escojer porque es gañana", dict = esp)
 bad[[1]]
 # [1] "escojer" "gañana"
@@ -103,16 +103,16 @@ hunspell_suggest(bad[[1]], dict = esp)
 #
 # [[2]]
 # [1] "gañan"   "galana"  "mañana"  "gaña na" "gaña-na" "gañan a" "Añana"   "gaña"    "gana"
-{{< / highlight >}}
+```
 
 O, incluso, documentos completos en diversos formatos, entre ellos, el PDF:
 
-{{< highlight R >}}
+```r
 const1812 <- pdftools::pdf_text("http://www2.uca.es/grup-invest/lapepa/pdf/constituciones/cons_1812.pdf")
 bad_words <- hunspell(const1812, dict = esp)
 # tokenizador
 palabras  <- hunspell_parse(const1812, dict = esp)
-{{< / highlight >}}
+```
 
 Etc.
 

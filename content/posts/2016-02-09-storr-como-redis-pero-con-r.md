@@ -25,7 +25,7 @@ Probablemente no habéis utilizado nunca [Redis](https://en.wikipedia.org/wiki/R
 
 Si queréis probar algo parecido, además de los diccionarios y los entornos, podéis probar con [`storr` ](https://cran.r-project.org/web/packages/storr/index.html), un paquete reciente de R. Aquí tenéis una minisesión de ejemplo:
 
-{{< highlight R >}}
+```r
 library(storr)
 
 my.dir <- "/tmp/storr00"
@@ -41,7 +41,7 @@ head(st$get("miclave"))
 st$list()
 
 st$del("miclave")
-{{< / highlight >}}
+```
 
 Es instructivo examinar el directorio en cuestión e inspeccionar los contenidos. Con el _driver_  `rds`, como arriba, el almacenamiento se realiza en disco. De hecho, se realiza en ficheros `.rds`, que tienen un [formato propio de R para almacenar en disco un único objeto serializado](https://stat.ethz.ch/R-manual/R-devel/library/base/html/readRDS.html) (comprimido o no).
 

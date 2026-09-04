@@ -31,7 +31,7 @@ Existe un método, el [índice de poder de Banzhaf](http://www.esi2.us.es/~mbilb
 
 Veamos cómo calcular este índice con R y lo utilizaremos para cuantificar el valor de ese escaño:
 
-{{< highlight R >}}
+```r
 escannos <- c(17,12,10,5,1)
 names(escannos) <- c( "psoe", "fac", "pp", "iu", "upyd")
 
@@ -60,14 +60,14 @@ banzhaf <- function(x){
 }
 
 banzhaf(escannos)
-{{< / highlight >}}
+```
 
 El resultado es:
 
-{{< highlight R >}}
+```r
 # iu upyd  fac   pp psoe
 #  0.4  0.4  0.6  0.6  0.6
-{{< / highlight >}}
+```
 
 Es decir, el escaño de UPyD le concede el mismo poder (según Banzhaf) que los cinco de IU. Y la diferencia de siete escaños entre el PP y el PSOE no le concede a este último cuota de poder adicional alguna.
 
@@ -75,7 +75,7 @@ Existen limitaciones obvias a este indicador que resultarán evidentes a quien p
 
 Pero sí que dejaré, por referencia, otra aplicación de este índice al resultado de las últimas elecciones generales:
 
-{{< highlight R >}}
+```r
 generales <- c(186,110,16,11,7,5,5,3,2,2,1,1,1)
 names(generales) <- c("pp", "psoe", "ciu", "iu", "amaiur", "upyd",
     "pnv", "esquerra", "bng", "cc", "compromis", "fac", "gbai")
@@ -83,4 +83,4 @@ names(generales) <- c("pp", "psoe", "ciu", "iu", "amaiur", "upyd",
 banzhaf( generales )
 # pp
 #  1
-{{< / highlight >}}
+```

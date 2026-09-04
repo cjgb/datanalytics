@@ -28,7 +28,7 @@ He construido
 
 que, obviamente no es la gran maravilla, basándome en [_Rectangular Statistical Cartograms in R:  The recmap Package_](https://www.jstatsoft.org/article/view/v086c01) y usando
 
-{{< highlight R >}}
+```r
 library(rgdal)
 library(pxR)
 library(recmap)
@@ -73,6 +73,6 @@ cartogram <- merge(cartogram, ccaa)
 plot.recmap(cartogram, col.text = "black",
     main = "cartograma -- población\n  españa peninsular",
     col = cartogram$ccaa)
-{{< / highlight >}}
+```
 
 Como los datos los he bajado de por ahí y no recuerdo dónde, dejo como referencia el objeto arriba llamado `tmp` [aquí](/uploads/datos_cartograma.rds).

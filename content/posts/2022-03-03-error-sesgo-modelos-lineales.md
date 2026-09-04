@@ -56,7 +56,7 @@ Efectivamente, una manera de sortear el problema planteado por el uso injustific
 
 Primero, voy a generar datos de acuerdo con el esquema anterior. Nótese que también genero $x$ (necesariamente) aunque después, obviamente, no lo usaré en la modelización.
 
-{{< highlight R >}}
+```r
 set.seed(1234)
 n <- 1000
 x <- rnorm(n)  # unknown data
@@ -67,11 +67,11 @@ epsilon <- rnorm(n)
 beta0 <- 0
 beta1 <- 1.5
 y <- beta0+beta1*x + epsilon
-{{</ highlight >}}
+```
 
 Ahora, el modelo:
 
-{{< highlight R >}}
+```r
 library(rstan)
 stan_code <- "
 data {
@@ -99,7 +99,7 @@ fit <- stan(model_code = stan_code,
             iter = 20000, warmup = 2000,
             chains = 1, thin = 4,
             include = FALSE, pars = "x")
-{{</ highlight >}}
+```
 
 Como se aprecia, $x$ está modelado como lo que es: un vector de parámetros desconocido. Solo sabemos ---o asumimos--- que tiene una distribución (¿priori?) normal. Damos por conocidos el error de medida, etc. (i.e., las $\sigma$) del resto de las variables. El modelo se ajusta y da como resultado ---recuérdese que `beta0` y `beta1` son $0$ y $1.5$ por construcción---
 

@@ -32,7 +32,7 @@ Podemos ensayarlo usando el paquete [`onls`](https://cran.r-project.org/web/pack
 
 Voilá (usando los datos de la entrada anterior):
 
-{{< highlight R >}}
+```r
     mod_directo <- onls(y ~ exp(a * x + b),
                         start = list(a = 0.1, b = 0.1))
     summary(mod_directo)
@@ -51,11 +51,11 @@ Voilá (usando los datos de la entrada anterior):
     #
     # Number of iterations to convergence: 2
     # Achieved convergence tolerance: 1.49e-08
-{{< / highlight >}}
+```
 
 y
 
-{{< highlight R >}}
+```r
     mod_inverso <- onls(x ~ (log(y) - b) / a, start = list(a = 0.1, b = 0.1))
     summary(mod_inverso)
 
@@ -73,4 +73,4 @@ y
     #
     # Number of iterations to convergence: 11
     # Achieved convergence tolerance: 1.49e-08
-{{< / highlight >}}
+```

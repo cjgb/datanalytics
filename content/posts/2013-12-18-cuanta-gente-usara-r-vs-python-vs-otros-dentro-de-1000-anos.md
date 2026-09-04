@@ -23,7 +23,7 @@ Pues no lo sé. Seguramente, nadie. Pero como he visto [esto](http://vote.sparkl
 
 Es el siguiente:
 
-{{< highlight R >}}
+```r
 # creo la matriz de transición
 cols <- c("r", "python", "otros")
 mt <- c(227, 108, 33, 31, 140, 7, 58, 27, 68 + 73)
@@ -39,7 +39,7 @@ tmp$vectors %*% diag(tmp$values) %*% solve(tmp$vectors)
 
 # y dejo discurrir 1000 años
 tmp$vectors %*% diag(tmp$values^10000) %*% solve(tmp$vectors)
-{{< / highlight >}}
+```
 
 
 Como resultado, podemos _estimar_ que en el futuro, el 33% de los _data scientists_ estarán usando R contra el 53% que usará Python y el 13% que se decantará por otras herramientas. O, casi seguro, no.

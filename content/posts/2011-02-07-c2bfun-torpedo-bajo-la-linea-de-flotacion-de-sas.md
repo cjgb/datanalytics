@@ -25,7 +25,7 @@ Más allá de lo que la campaña _parece ser_, se esconde lo que realmente _es_:
 
 ¿Cómo espera Revolution Analytics desbancar a SAS? Utilizando su nueva extensión propietaria **RevoScaleR**, un paquete de R diseñado para afrontar los retos que supone el análisis de los conjuntos de datos _grandes_ que manejan típicamente las organizaciones. Los lectores de esta bitácora, con la ayuda de Google o [Blekko](http://blekko.com/) serán capaces de encontrar por sí mismos la típica información comercial ([vídeos](http://www.youtube.com/watch?v=Cc5qvs1vA-8), folletos, etc.) acerca del producto.
 
-Sin embargo, destacaré aquí dos de los aspectos técnicos RevoScaleR que han transcendido:
+Sin embargo, destacaré aquí dos de los aspectos técnicos RevoScaleR que han trascendido:
 
 * Utiliza un **formato propietario de almacenamiento de datos**, XDF (¿estará emparentado con [este](http://en.wikipedia.org/wiki/Extensible_Data_Format)?), diseñado para permitir un acceso rápido a filas y columnas de los datos (y sin necesidad de volcar su contenido en la memoria).
 * Contiene **reimplementaciones de diversos algoritmos** habituales en estadística y minería de datos que no necesitan disponer de la totalidad de los datos en memoria (supongo que al estilo de [biglm](http://cran.r-project.org/web/packages/biglm/index.html))

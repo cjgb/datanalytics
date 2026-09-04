@@ -26,30 +26,30 @@ Hoy voy a presentar algunos gráficos de información bursátil adaptados a part
 
 Por si pueden servir de algo a otros, los reproduzco y comento aquí. Primero, hay que importar las librerías necesarias:
 
-{{< highlight R >}}
+```r
 library(PerformanceAnalytics)
 library(zoo)
 library(tseries)
-{{< / highlight >}}
+```
 
 Luego, descargar datos de cotizaciones (de Telefónica, cuyo símbolo es TEF.MC) de Yahoo.
 
-{{< highlight R >}}
+```r
 precios.TEF <- get.hist.quote(
     instrument="TEF.MC", start="1998-01-01",
     end="2012-10-15", quote="AdjClose",
     provider="yahoo", origin="1970-01-01",
     compression="m", retclass="zoo")
 rent.TEF <- diff(log(precios.TEF))
-{{< / highlight >}}
+```
 
 Nótese que estoy solicitando datos desde 1998 hasta el 15 de octubre de 2012. Además, solo una observación por mes (a través de la opción `compression`). Finalmente, de las varias columnas de información que ofrece Yahoo (precio de apertura, cierre, máximo, mínimo, etc.) me quedo con el `AdjClose`, es decir, el cierre ajustado. Es el precio que incluye (o tiene en cuenta) fenómenos de relevancia económica pero no reflejados en los precios de cierre tales como los dividendos, los _splits_, etc.
 
 Haciendo
 
-{{< highlight R >}}
+```r
 chart.TimeSeries(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
-{{< / highlight >}}
+```
 
 se obtiene entonces
 
@@ -57,9 +57,9 @@ se obtiene entonces
 
 Alternativamente, también puede hacerse
 
-{{< highlight R >}}
+```r
 chart.Bar(rent.TEF, legend.loc = "bottom", main = "Rentabilidad mensual de TEF")
-{{< / highlight >}}
+```
 
 para obtener
 
@@ -67,19 +67,19 @@ para obtener
 
 La función `chart.CumReturns` con los parámetros que aparecen en
 
-{{< highlight R >}}
+```r
 chart.CumReturns(
     diff(precios.TEF)/lag(precios.TEF, k = -1),
     legend.loc="topleft", wealth.index = TRUE,
     main="Valor actual de una inversión de 1€")
-{{< / highlight >}}
+```
 
 representa el valor a lo largo del tiempo de un euro invertido al principio de la serie temporal, es decir, este ruinoso negocio:
 
 ![](/img/2012/10/rentabilidad_1_euro_TEF-300x245.png#center)
 Finalmente, haciendo
 
-{{< highlight R >}}
+```r
 ret.mat <- coredata(rent.TEF)
 
 # here are the 4 panel plots
@@ -99,7 +99,7 @@ qqnorm(ret.mat[,1], col = "slateblue1")
 qqline(ret.mat[,1])
 
 par(mfrow = c(1, 1))
-{{< / highlight >}}
+```
 
 se construye el gráfico
 

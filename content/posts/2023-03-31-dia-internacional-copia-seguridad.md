@@ -35,7 +35,7 @@ Además, en
 [2013](/2013/08/21/mis-copias-de-seguridad/)
 (_deprecated_) y
 [2019](/2019/09/11/sobre-mi-nueva-infraestructura-de-backups/)
-describí mi infraestructura de copias de seguridad. Entradas a las que tengo que añadir solo que actuamente:
+describí mi infraestructura de copias de seguridad. Entradas a las que tengo que añadir solo que actualmente:
 
 * Uso/sigo usando GitHub y Bitbucket para todo lo versionable.
 * Un poco a regañadientes voy aumentando el volumen de lo que guardo en la _nubeofficina_(Google Sheets, etc.).

@@ -21,8 +21,7 @@ url: /2012/05/23/patrones-hexagonales-con-r/
 
 Navegando por internet di con el gráfico
 
-[![](/img/2012/05/18-06scf11.jpg)
-](/img/2012/05/18-06scf11.jpg)
+![](/img/2012/05/18-06scf11.jpg)
 
 (que puede encontrarse [aquí](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)) además de un enlace al [código en Matlab](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/HexagonArt.m) usado para generarlo.
 
@@ -36,7 +35,7 @@ Y por entretenerme, traté de generarlo con R. Y creo que de una manera algo má
 
 El código es
 
-{{< highlight R >}}
+```r
 # funciones auxiliares
 
 rotar <- function( x, rads ){
@@ -95,7 +94,7 @@ hexagono <- function( centro ){
 
 plot( centros, type = "n")
 apply(centros, 1, hexagono)
-{{< / highlight >}}
+```
 
 
 

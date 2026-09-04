@@ -29,11 +29,11 @@ Modificando los valores de $\lambda$, se obtienen las curvas
 
 que muestran la relación entre las probabilidades reales (abscisas) y las que conviene manifestar al predictor. Solo en el caso en que $\lambda = 2$ la relación está dada por la curva $y = x$. Cuando $\lambda < 2$, al predictor le conviene exagerar y cuando $\lambda$ crece, ser conservador y quedarse próximo al 50%.
 
-Esto que es cierto matemáticamente parece casi una lección de vida. Frente a castigos severos, la gente tenderá a anclarse en el _yo nu sé_. Sin carne en el asador (o sin arriesgar, o sin la talebiana _skin in the game_) la gente vendrá con ocurrencias y certezas implausibles. Solo en $\lambda = 2$, la mitad en la que mora la virtud,...
+Esto que es cierto matemáticamente parece casi una lección de vida. Frente a castigos severos, la gente tenderá a anclarse en el _yo no sé_. Sin carne en el asador (o sin arriesgar, o sin la talebiana _skin in the game_) la gente vendrá con ocurrencias y certezas implausibles. Solo en $\lambda = 2$, la mitad en la que mora la virtud,...
 
 Y para terminar y como referencia, el código:
 
-{{< highlight R >}}
+```r
 foo <- function(alpha){
   exponente <- 1 / (alpha - 1)
   curve(x^exponente / (x^exponente + (1 - x)^exponente), 0, 1,
@@ -48,4 +48,4 @@ alphas <- 1 + 2^alphas
 par(mfrow = c(3, 3))
 sapply(alphas, foo)
 par(mfrow = c(1, 1))
-{{< / highlight >}}
+```

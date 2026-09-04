@@ -33,7 +33,7 @@ que vienen a decir:
 Lo cual, a pesar de lo contradictorio, no es un fenómeno extrañísimo. Si uno hace
 
 
-{{< highlight r >}}
+```r
 n <- 100
 x <- rnorm(n)
 
@@ -56,7 +56,7 @@ abline(reg1, col = "blue")
 abline(b = 1/ ab[2], a = - ab[1] / ab[2], col = "green")
 
 points(x[tmp], y[tmp], col = "red", pch = 16)
-{{< / highlight >}}
+```
 
 puede obtener tantos gráficos de la forma
 

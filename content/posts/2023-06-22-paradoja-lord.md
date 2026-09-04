@@ -29,23 +29,23 @@ Sin entrar en el análisis de los _diagramas causales_ (si a alguien le interesa
 
 el que llamaré A,
 
-{{< highlight R >}}
+```r
 (después - antes) ~ sexo
-{{< / highlight >}}
+```
 
 y el que llamaré B,
 
-{{< highlight R >}}
+```r
 después ~ tratamiento + antes
-{{< / highlight >}}
+```
 
 como en mi primera entrada sobre el asunto. De hecho, supe que había algo llamado _paradoja de Lord_ al estudiar un problema parecido y para entender las diferencias entre ambas formulaciones. Porque ---y en eso consiste la _paradoja_--- dan resultados diferentes.
 
 En el análisis de la paradoja de Lord me separo de la aproximación de Pearl en que, en lugar de fijarme en el _diagrama causal_, parto de un hipotético modelo _verdadero_. De hecho, simplificándolo todo un poco, este podría escribirse de la forma
 
-{{< highlight R >}}
+```r
 después ~ f(tratamiento, antes)
-{{< / highlight >}}
+```
 
 donde `f` es una función no necesariamente lineal y se supone que existe un error, sea o no normal, que tiene en cuenta otras variables y circunstancias no recogidas en los datos. Este será el modelo C.
 

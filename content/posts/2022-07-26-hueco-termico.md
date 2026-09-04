@@ -39,14 +39,14 @@ En lo que me he entretenido es en caracterizar el tamaño y forma diaria del hue
 
 El tamaño relativo (en %) de los _clústers_ es
 
-{{< highlight text >}}
+```text
    1    2    3    4    5    6    7    8    9
  6.3  6.1 10.9 17.0 19.9  6.8 14.5  5.5 13.1
-{{< / highlight >}}
+```
 
 Finalmente, por si alguno quiere abundar en el análisis anterior, dejo acá el código ---muy sucio, lo reconozco--- que he usado para construir todo lo anterior:
 
-{{< highlight python >}}
+```python
 import pandas as pd
 import requests
 import json
@@ -102,10 +102,10 @@ tmp = [process_data(x) for x in my_data]
 res = pd.concat(tmp)
 res = res.groupby('ts').mean().reset_index()
 res.to_csv("hueco-termico.csv", index=False)
-{{< / highlight >}}
+```
 
 
-{{< highlight R >}}
+```r
 library(data.table)
 library(ggplot2)
 library(lubridate)
@@ -154,4 +154,4 @@ ggplot(centers, aes(x = ts, y = value)) +
   facet_wrap(~cluster) +
   scale_x_datetime(breaks = breaks_width("6 hour"),labels=date_format("%H:%M")) +
   theme_bw()
-{{< / highlight >}}
+```

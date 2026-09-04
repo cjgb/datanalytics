@@ -21,7 +21,7 @@ url: /2023/09/14/gestion-liquidez/
 
 Hubo un tiempo en el que en estas páginas, abandonado a la corriente, me interesaba por esos asuntos en los que se asumía la esfericidad de los seres humanos y se estudiaban cuestiones como la comparación del radio del alumno esférico español promedio con el de los de otros países de la OCDE. Y otras cosas parecidas o peores.
 
-Desafortunadamente, no somos esféricos, arrastramos nuestras circunstancias multidimensionales y es improbable que vuelva a ocuparme en estas páginas de asuntos que no me competan directamente. Albergo la esperanaza de que los que trate puedan resultar útiles para otros que compartan su circunstancia, pero reniego de todo tipo de garantías y propósitos de universalidad.
+Desafortunadamente, no somos esféricos, arrastramos nuestras circunstancias multidimensionales y es improbable que vuelva a ocuparme en estas páginas de asuntos que no me competan directamente. Albergo la esperanza de que los que trate puedan resultar útiles para otros que compartan su circunstancia, pero reniego de todo tipo de garantías y propósitos de universalidad.
 
 ### II
 

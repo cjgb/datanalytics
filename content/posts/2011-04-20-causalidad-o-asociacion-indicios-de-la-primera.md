@@ -30,7 +30,7 @@ Las enumero en el mismo orden de importancia que Hill:
 
 1. La **fuerza** de la relación.
 2. La **consistencia**: ¿se ha observado la relación en distintos lugares, con distintos sujetos, bajo distintas circunstancias?
-3. La **especifidad**: fumar acorta la vida, sí, pero, en concreto, ¿incrementa la probabilidad de tener cáncer de pulmón? ¿o de infarto? ¿o de accidentes de tráfico? ¿o...?
+3. La **especificidad**: fumar acorta la vida, sí, pero, en concreto, ¿incrementa la probabilidad de tener cáncer de pulmón? ¿o de infarto? ¿o de accidentes de tráfico? ¿o...?
 4. La **temporalidad**: ¿ocurre antes la causa que su presunto efecto? Aunque esto parece de perogrullo en muchas circunstancias, no siempre es posible o sencillo determinar cuándo ocurren y cómo se ordenan en el tiempo.
 5. El **gradiente**: ¿existe una relación monótona entre la intensidad de la causa y su efecto?
 6. La **plausibilidad**: ¿tiene algún sentido?

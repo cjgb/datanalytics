@@ -52,7 +52,7 @@ Una de las posibilidades que contempla R es la de utilizar funciones contenidas 
 
 Una [DLL](http://es.wikipedia.org/wiki/DLL) es, en traducción literal del acrónimo, una biblioteca -librería, dicen algunos- de enlace dinámico. Una DLL contiene -de hecho, consiste en- cierto número de funciones compiladas que no se ejecutan autónomamente -por ejemplo, al pinchar sobre ellas con el ratón- sino que son invocadas por otros programas. Dentro de un fichero ejecutable -con extensión exe, por ejemplo- hay muchas funciones compiladas que pueden ser invocadas por el programa en cuestión. Pero un programa también puede invocar funciones compiladas contenidas en un fichero externo. Este fichero externo es una DLL.
 
-Un programa, para acceder a una de las funciones contenidas en una DLL necesita cargarla primero, es decir, solicitar al sistema operativo que la ubique en la memoria del ordenador. Pero esto no tiene que ocurrir necesariamente cuando se ejecuta el programa, sino únicamente cuando se necesita por primera vez una de sus funciones. Es típico, en ocasiones, detectar cierta demora en un programa al, por ejemplo, abrir por primera vez una ventana. A veces, dicha demora viene acompañada de cierta actividad en el disco duro. Es probable que eso se deba a que el programa está cargando la DLL encargada de gestionar la ventana en cuestión. En tales casos, a no ser que el programa descargue explícitamente la DLL, esta demora no ocurrirá en accesos sucesivos a dicha ventana. Incluso, varios programas distintos pueden invocar una misma DLL. Todo lo que necesitan saber es qué funciones contiene dicha DLL, cómo interactuar con ellas -es decir, qué parametros exigen, qué tipo de valores devuelven- y dónde se ubica dentro del árbol de ficheros del disco duro.
+Un programa, para acceder a una de las funciones contenidas en una DLL necesita cargarla primero, es decir, solicitar al sistema operativo que la ubique en la memoria del ordenador. Pero esto no tiene que ocurrir necesariamente cuando se ejecuta el programa, sino únicamente cuando se necesita por primera vez una de sus funciones. Es típico, en ocasiones, detectar cierta demora en un programa al, por ejemplo, abrir por primera vez una ventana. A veces, dicha demora viene acompañada de cierta actividad en el disco duro. Es probable que eso se deba a que el programa está cargando la DLL encargada de gestionar la ventana en cuestión. En tales casos, a no ser que el programa descargue explícitamente la DLL, esta demora no ocurrirá en accesos sucesivos a dicha ventana. Incluso, varios programas distintos pueden invocar una misma DLL. Todo lo que necesitan saber es qué funciones contiene dicha DLL, cómo interactuar con ellas -es decir, qué parámetros exigen, qué tipo de valores devuelven- y dónde se ubica dentro del árbol de ficheros del disco duro.
 
 Gracias a las DLLs, por lo tanto, los ficheros ejecutables pueden ser más pequeños y los programas más eficientes. El que varios de ellos puedan, en teoría, compartir DLLs comunes permite, además, un ahorro significativo en espacio de disco duro. R, en Windows, aparte del fichero Rgui.exe con el que arranca, incorpora varias DLLs adicionales que puede invocar en un momento dado. Además, sus diversos módulos -o bibliotecas, o librerías, de nuevo- pueden incluir sus propias DLLs.
 
@@ -65,9 +65,9 @@ Todos los compiladores para Windows, que el autor conozca, incorporan la posibil
 Supóngase que se ha creado el fichero funciones.c que contiene una serie de funciones escritas en C que se desean invocar desde R. Dichas funciones, por supuesto, deben atenerse a una serie de requisitos específicos que se explicitarán más adelante, pero, por el momento, y esto vale para cualquier aplicación, baste decir que el comando mínimo necesario para crear una DLL que se llame funciones.dll a partir de funciones.c utilizando el compilador MinGW que hay que introducir en la ventana de MS-DOS es
 
 
-{{< highlight c >}}
+```c
 gcc -shared -o funciones.dll funciones.c
-{{< / highlight >}}
+```
 
 Por supuesto, tanto gcc, contenido en el directorio bin de donde quiera que se haya instalado MinGW, como el fichero funciones.c, han de estar visibles, es decir, o en el directorio en el que se ha tecleado el comando o dentro del path. Estaría de más indicar que gcc admite comandos adicionales que pueden ser de interés en determinadas circunstancias. El anterior es, se reitera, un comando mínimo: la opción -shared especifica que se está creando una DLL y -o indica que lo que le sigue, esto es, funciones.dll, es el nombre que se le ha querido dar.
 
@@ -75,21 +75,21 @@ Por supuesto, tanto gcc, contenido en el directorio bin de donde quiera que se h
 
 Supóngase que se ha creado funciones.dll de acuerdo con el procedimiento anterior. Para poder acceder a las funciones que contiene, R tiene, en primera instancia, que cargar la DLL. Esto se consigue mediante la función dyn.load(). Suponiendo que funciones.dll está contenida en el directorio C:/MisDLLs, basta teclear
 
-{{< highlight R >}}
+```r
 dyn.load("C:/MisDLLs/funciones.dll")
-{{< / highlight >}}
+```
 
 para cargarla. Una vez deja de ser necesaria, se la puede descargar tecleando
 
-{{< highlight R >}}
+```r
 dyn.unload("C:/MisDLLs/funciones.dll")
-{{< / highlight >}}
+```
 
 Una vez cargada funciones.dll, si este contiene una función denominada func1, se puede comprobar si en efecto está disponible tecleando
 
-{{< highlight R >}}
+```r
 is.loaded("func1")
-{{< / highlight >}}
+```
 
 que debería ser TRUE de haberse seguido los pasos anteriores. Si funciones.dll ha sido compilada con un compilador distinto de MinGW, es bastante posible que is.loaded("func1") resulte ser FALSE porque muchos de ellos tienden a _decorar_ el nombre de las funciones de las DLLs de una manera un tanto impredecible, de modo que func1 acaba llamándose _func1, _func1@4 o ?func1@@YDAOEW3N12KDAS.
 
@@ -106,22 +106,22 @@ Pero estas cuestiones se discuten mejor frente a un ejemplo concreto.
 
 Supóngase como arriba que el fichero funciones.c es
 
-{{< highlight c >}}
+```c
 void func1(double *v1, double *v2, int *longitud, double*producto){
 	int i;
 	*producto = 0;
 	for(i =0; i < *longitud; i++){
 	*producto += v1[i]*v2[i]; }
 }
-{{< / highlight >}}
+```
 
 Esta función implementa el producto escalar entre dos vectores de dimensión dada por *longitud que pasan por referencia a través de v1 y v2, devolviéndolo a través del puntero producto. Si este fichero se compila como se indica más arriba para crear funciones.dll y se carga en R, el código
 
-{{< highlight c >}}
+```c
 a <- rnorm(14)
 b <- rnorm(14)
 producto <- .C("func1", as.double(a), as.double(b), as.integer(14), resultado=double(1))$resultado
-{{< / highlight >}}
+```
 
 ubicará el producto escalar de los vectores de dimensión 14 a y b en la variable producto. Hay que tener en cuenta ---y son normativos, no meramente descriptivos de la situación anterior--- los siguientes aspectos:
 
@@ -131,4 +131,4 @@ ubicará el producto escalar de los vectores de dimensión 14 a y b en la variab
 
 ### ¿Existen otros procedimientos para incorporar código compilado a R?
 
-En efecto, las nuevas versiones de R incluyen métodos alternativos y más potentes para incorporar código compilado a R que permiten, por ejemplo, invocar desde C estructuras de datos o funciones de R. Incluso es posible invocar funciones de R desde aplicaciones independientes escritas en C íntegramente. No obstante, estos procedimientos, aparte de exigir una implementación mucho más compleja, tienen una utilidad marginal puesto que su potencial campo de aplicación se solapa grandemente con aquel en que la combinación de código en R combinado o no con código en C como se describe más arriba es lo suficentemente eficiente.
+En efecto, las nuevas versiones de R incluyen métodos alternativos y más potentes para incorporar código compilado a R que permiten, por ejemplo, invocar desde C estructuras de datos o funciones de R. Incluso es posible invocar funciones de R desde aplicaciones independientes escritas en C íntegramente. No obstante, estos procedimientos, aparte de exigir una implementación mucho más compleja, tienen una utilidad marginal puesto que su potencial campo de aplicación se solapa grandemente con aquel en que la combinación de código en R combinado o no con código en C como se describe más arriba es lo suficientemente eficiente.

@@ -28,7 +28,7 @@ pocos habrán que no prefieran el de la derecha. Los mapas están extraídos de 
 [_Improve your maps in one line of code changing map projections_](https://ikashnitsky.phd/2023/map-proj/index.html),
 cuyo título ha sido elegido muy acertadamente en tanto que los mapas han sido construidos usando
 
-{{< highlight R >}}
+```r
 gd_n2_main_laea <- gd_n2_main %>%
     st_transform(crs = 3035)
 
@@ -46,14 +46,14 @@ b <- gd_n2_main_laea %>%
 library(patchwork)
 
 a + b + plot_annotation(tag_levels = "A")
-{{< / highlight >}}
+```
 
 y, por lo tanto, solo difieren en la línea
 
-{{< highlight R >}}
+```r
 gd_n2_main_laea <- gd_n2_main %>%
     st_transform(crs = 3035)
-{{< / highlight >}}
+```
 
 que transforma _adecuadamente_ el sistema de referencia (de coordenadas).
 

@@ -27,7 +27,7 @@ Primero, contexto: tenemos un algoritmo que decide sobre personas (p.e., si se l
 
 En la población existe un subgrupo B que, con razón o sin ella, se siente discriminado por el algoritmo.
 
-Una primera pregunta que cabe plantearse es **si el sesgo es _bug_ o _feature_**. En el primer caso, es culpa de los desarrolladores y cabe suponer que la entidad que lo utiliza está perdiendo dinero y cuota de mercado en favor de otras menos gañanas. Pero si es _feature_, la respuesta más interesante, ya no cabe hablar de prejuicio (sino de un juicio sinténtico a posteriori en toda regla).
+Una primera pregunta que cabe plantearse es **si el sesgo es _bug_ o _feature_**. En el primer caso, es culpa de los desarrolladores y cabe suponer que la entidad que lo utiliza está perdiendo dinero y cuota de mercado en favor de otras menos gañanas. Pero si es _feature_, la respuesta más interesante, ya no cabe hablar de prejuicio (sino de un juicio sintético a posteriori en toda regla).
 
 En tal caso (el segundo), **cuando el algoritmo está bien calibrado, ¿debería cambiarse por otro?** Un ingrediente fundamental en la creación de un algoritmo es la definición de la función de error, que resume el objetivo que se quiere alcanzar. En nuestro caso, la rentabilidad económica (posiblemente operativizada en _accuracy_). Las funciones de error, salvo raras excepciones que confirman la regla, subsumen objetivos simples (que habitualmente son variantes de _acertar_) y resultaría complicado incluir en ellas correcciones para incluir objetivos subsidiarios (como los que precisaría el constructivismo social).
 

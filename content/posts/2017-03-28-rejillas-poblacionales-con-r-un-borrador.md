@@ -39,7 +39,7 @@ Es complicado obtener datos de edades por municipio. No obstante, se me ocurrió
 
 ¿Cómo procesar esos datos? Con R. ¿Cómo procesarlos con R? Con dificultad. Ayer ensayé y no terminé nada presentable. Además, este asunto es muy tangencial a mis intereses más perentorios. No obstante, como es muy instructivo, toca muchos palos y por si a alguien le interesa profundizar en la cosa, copio debajo el código que me sirvió para hacer algo. Es un borrador vergonzante, aviso, y puede contener errores. Úsese con la debida precaución.
 
-{{< highlight R >}}
+```r
 library(raster)
 library(rgdal)
 library(ggmap)
@@ -83,6 +83,6 @@ ggmap(mapa) +
             x = long, y = lat,
             group = group),
         data = tmp2)
-{{< / highlight >}}
+```
 
 **Addenda:** Véase [esto](https://datanalytics.com/2017/04/19/guadalajara-joven-guadalajara-inconclusa/).

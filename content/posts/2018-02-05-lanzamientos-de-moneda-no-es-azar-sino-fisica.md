@@ -27,7 +27,7 @@ Que es un artículo en el que modelan la física de lanzamientos de moneda e inc
 
 que siempre obtiene caras (o cruces).
 
-El quid de la historia es que existen condiciones iniciales de lanzamiento (velocidad inicial, velocidad angular) _isoresultado_ (donde resultado es cara o cruz). Como en
+El quid de la historia es que existen condiciones iniciales de lanzamiento (velocidad inicial, velocidad angular) _isorresultado_ (donde resultado es cara o cruz). Como en
 
 ![](/img/2018/02/coin_toss_initial_conditions.png#center)
 

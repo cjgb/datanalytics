@@ -31,21 +31,21 @@ y
 
 se me han venido a la mente los adjetivos _hirsuto_ y _pocholo_ para calificar las respectivas _formas de aleatoriedad_ que representan. La primera es el resultado del habitual
 
-{{< highlight R >}}
+```r
 n <- 200
 x <- runif(n)
 y <- runif(n)
 plot(x, y, pch = 16)
-{{< / highlight >}}
+```
 
 mientras que la segunda exige el más sofisticado
 
-{{< highlight R >}}
+```r
 library(randtoolbox)
 s <- sobol(n, 2, scrambling = 3)
 x <- s[,1]
 y <- s[,2]
 plot(x, y, pch = 16)
-{{< / highlight >}}
+```
 
 Se ve que [Sobol quería rellenar más armoniosamente el espacio](https://en.wikipedia.org/wiki/Sobol_sequence). Me temo que, al hablar de aleatoriedad, muchos de nosotros también (p.e., [esto](https://datanalytics.com/2018/09/11/la-falacia-del-fiscal-la-mi-mejor-explicacion-para-profanos-hasta-la-fecha/)).

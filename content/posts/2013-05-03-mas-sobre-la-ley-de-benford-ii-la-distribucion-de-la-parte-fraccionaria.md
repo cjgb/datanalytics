@@ -33,18 +33,17 @@ entonces la distribución de la parte fraccionaria de sus muestras será aproxim
 
 Esto se verifica fácilmente en ciertos casos. Por ejemplo,
 
-{{< highlight R >}}
+```r
 x <- rnorm(100000)
 x <- x - floor(x)
 
 par(mfrow=c(1,2))
 hist(x, col = "grey")
 qqplot(x, runif(100000), main = "qqplot")
-{{< / highlight >}}
+```
 
 que produce
 
-[![](/img/2013/05/dist_parte_fraccionaria.png#center)
-](/img/2013/05/dist_parte_fraccionaria.png#center)
+![](/img/2013/05/dist_parte_fraccionaria.png#center)
 
 En la siguiente entrega analizaremos qué tiene que ver esto con la ley de Benford.

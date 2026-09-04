@@ -25,7 +25,7 @@ Trabajar con [Spark](http://spark.apache.org/) usando [Scala](http://www.scala-l
 
 ¿O no?
 
-{{< highlight scala >}}
+```scala
 import org.apache.spark.sql.types.StructField;
 import org.apache.spark.sql.types.StructType;
 import org.apache.spark.sql.types.StringType;
@@ -55,4 +55,4 @@ val meltDF = sqlContext.applySchema(df.map(x => Row.fromSeq(x.values.toList)), n
 /** cast **/
 
 val castDF = meltDF.groupBy("id").pivot("var").sum("value")
-{{< / highlight >}}
+```

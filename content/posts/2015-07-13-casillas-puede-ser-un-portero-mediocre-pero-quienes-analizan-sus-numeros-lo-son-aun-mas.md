@@ -24,8 +24,7 @@ url: /2015/07/13/casillas-puede-ser-un-portero-mediocre-pero-quienes-analizan-su
 
 Voy a hablar de fútbol. Voy a comentar [esto](http://www.elespanol.com/actualidad/el-declive-de-iker-casillas-en-datos/). Contiene y argumenta alrededor de
 
-[![casillas_paradas](/img/2015/07/casillas_paradas.png#center)
-](/img/2015/07/casillas_paradas.png#center)
+![casillas_paradas](/img/2015/07/casillas_paradas.png#center)
 
 que me puso sobre aviso. Y no, no voy a comentar el amateurismo que manifiesta el hecho de representar dos veces la misma magnitud, el porcentaje de paradas, usando dos significantes distintos (la longitud de las barras y el color). Por más de que siembre la sospecha por lo que sigue.
 
@@ -34,7 +33,7 @@ Me preocupa aún más el hecho de que se ignoren los intervalos de confianza, de
 Analicemos los datos como se espera que hagan los medios de una sociedad madura. El código
 
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(plyr)
 library(ggplot2)
@@ -58,17 +57,16 @@ res$portero <- reorder(res$portero, res$prop, I)
 ggplot(res, aes(y = portero, x = prop,
   xmin = lower, xmax = upper)) +
   geom_point() + geom_errorbarh()
-{{< / highlight >}}
+```
 
 descarga el número de tiros a puerta y el de paradas de una página donde constan (los porcentajes son los mismos, luego hay confianza en que la fuente sea común) y genera
 
-[![casillas_intervalos_confianza](/img/2015/07/casillas_intervalos_confianza.png#center)
-](/img/2015/07/casillas_intervalos_confianza.png#center)
+![casillas_intervalos_confianza](/img/2015/07/casillas_intervalos_confianza.png#center)
 
 donde se aprecia un manifiesto solapamiento de los intervalos de confianza (al 95%) construidos con `prop.test`. Las diferencias dejan de parecer ser tan manifiestas. Aún más,
 
 
-{{< highlight R >}}
+```r
 library(lattice)
 
 foo <- function(p1, p2){
@@ -86,13 +84,12 @@ significativas <- diferencias
 significativas[significativas > 0.1] <- 0.1
 
 levelplot(significativas)
-{{< / highlight >}}
+```
 
 
 compara dos a dos los porteros usando `prop.test` y permite construir
 
-[![diferencias_porteros](/img/2015/07/diferencias_porteros.png#center)
-](/img/2015/07/diferencias_porteros.png#center)
+![diferencias_porteros](/img/2015/07/diferencias_porteros.png#center)
 
 que representa los p-valores de los contrastes (y donde, por exigencias de la escala de colores, a los p-valores mayores de 0.1 se les ha dado el valor de 0.1). Las parejas de porteros que en la matriz tienen un color azul no tienen una eficacia significativamente distinta. Solo las parejas a las que corresponde el color rosa, ¡solo 3!, lo son.
 

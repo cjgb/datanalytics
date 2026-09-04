@@ -33,7 +33,7 @@ Se aprecian claramente los rejuvenecimientos relativos de Guadalajara y, en meno
 
 Los [datos son del INE](http://www.ine.es/jaxiT3/Tabla.htm?t=3199) y descargados en formato PC-Axis. El código,
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(ggplot2)
 
@@ -62,4 +62,4 @@ ggplot(pob, aes(x = fecha, y = diff)) +
   geom_hline(aes(yintercept = 0, col = "red", alpha = 0.5)) +
   geom_line() + facet_wrap(~ Provincias, ncol = 4) +
   theme(legend.position="none")
-{{< / highlight >}}
+```

@@ -37,7 +37,7 @@ La pregunta entonces es: ¿cómo elegir $\hat{\theta}$? Hay varias aproximacione
 
 $$L(\hat{\theta}) = E_\theta[L(\theta, \hat{\theta})] = \int_\theta L(\theta, \hat{\theta}) p(\theta) d\theta.$$
 
-El planteamiento, en principio inocente anterior, es polémico porque, como se verá y por si alguien no la ha reconocido ya, $p(\theta)$ acabará indentificándose como la _priori_ de $\theta$ y habrá quien entre en distingos acerca de si es o no subjetiva, etc. Lo de siempre. Pero en esta serie de entradas dejaremos esa polémica aparcada a un lado, reconociendo que para los agentes que han de tomar la decisión (p.e., nuestro jugador), es dato positivo.
+El planteamiento, en principio inocente anterior, es polémico porque, como se verá y por si alguien no la ha reconocido ya, $p(\theta)$ acabará identificándose como la _priori_ de $\theta$ y habrá quien entre en distingos acerca de si es o no subjetiva, etc. Lo de siempre. Pero en esta serie de entradas dejaremos esa polémica aparcada a un lado, reconociendo que para los agentes que han de tomar la decisión (p.e., nuestro jugador), es dato positivo.
 
 [Ni que decir tiene que, así planteadas las cosas, con la función de pérdida $L(a, b)= |a - b|$, el jugador haría bien en apostar en la mediana de los valores $1, 2, \dots, 10$.]
 

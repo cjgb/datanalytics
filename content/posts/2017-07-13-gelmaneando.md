@@ -24,7 +24,7 @@ url: /2017/07/13/gelmaneando/
 
 Hoy, gelmaneo así:
 
-{{< highlight R >}}
+```r
 bar <- function(n, reps = 1e4){
   foo <- function(n){
     x <- rnorm(n)
@@ -41,7 +41,7 @@ bar <- function(n, reps = 1e4){
 res <- lapply(c(3, 10, 20, 50, 100), bar)
 sapply(res, mean)
 #[1] 0.8662636 0.6583157 0.4934551 0.3240322 0.2337086
-{{< / highlight >}}
+```
 
 Resumo:
 

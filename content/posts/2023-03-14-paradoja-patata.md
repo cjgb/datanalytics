@@ -52,7 +52,7 @@ Habría que preguntar a algún sicólogo, pero tengo la sensación de que tiene 
 
 $$f(x) = \frac{1}{100 - x}.$$
 
-La gente, más o menos, sabe operar con relaciones lineales. No hay paradojas relacionadas con la regla de tres. Pero con relaciones no lineales, de manera pretenda o fortuita, surgen casos de apariencia paradójica. La gente ---en sentido amplio--- tiene problemas para procesar no-linealidades; logaritmos, _odds ratios_, tipos del IRPF ---no lineales por mandato constitucional---,
+La gente, más o menos, sabe operar con relaciones lineales. No hay paradojas relacionadas con la regla de tres. Pero con relaciones no lineales, de manera pretendida o fortuita, surgen casos de apariencia paradójica. La gente ---en sentido amplio--- tiene problemas para procesar no-linealidades; logaritmos, _odds ratios_, tipos del IRPF ---no lineales por mandato constitucional---,
 [tolerancias del ICP](/2023/03/07/consumo-electrico-tiempo-real/),
 etc., se procesan habitualmente recurriendo a heurísticas grotescas y desencaminadas.
 

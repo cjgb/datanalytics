@@ -21,7 +21,7 @@ url: /2014/06/06/validacion-cruzada-en-paralelo/
 
 Estoy sin tiempo, así que os suelto el código y me largo a casa a no cenar. Es así:
 
-{{< highlight R >}}
+```r
 library(parallel)
 
 cl <- makeCluster(8)
@@ -49,4 +49,4 @@ clusterEvalQ(cl,
 
 res <- parSapply(cl, 0:9,
 	function(x) foo(x, my.data), simplify = F)
-{{< / highlight >}}
+```

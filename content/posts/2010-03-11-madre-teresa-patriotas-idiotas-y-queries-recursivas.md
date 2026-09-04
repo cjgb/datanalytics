@@ -24,7 +24,7 @@ El tema que sigue a tan críptico introito es el de las _queries_ recursivas, qu
 
 Comenzaremos, como abreboca, calculando el factorial de un número mediante una _query_ recursiva.
 
-{{< highlight sql >}}
+```sql
 with recursive factorial as (
     select 1 as n, 1 as fact
         union all
@@ -35,17 +35,17 @@ with recursive factorial as (
         factorial as a
 )
 select * from factorial limit 10;
-{{< / highlight >}}
+```
 
 
 La última línea de la _query_ es simple: toma todo lo que lo precede como una tabla y extrae 10 líneas de ella. Nótese que en este caso, de no limitar el tamaño de la consulta, ésta continuaría _indefinidamente_ (indefinidamente en este contexto significa hasta que el factorial excediese el tamaño del tipo de dato que lo contiene). Lo importante es lo que ocurre en las líneas anteriores.
 
 Una cláusula with permite definir una tabla temporal que se usa al vuelo en una consulta subsiguiente. Es mero [azúcar sintáctico](http://es.wikipedia.org/wiki/Azúcar_sintáctica) para simplificar la construcción de _queries_ complejas. Un ejemplo trivial es:
 
-{{< highlight sql >}}
+```sql
 with tabla_temporal as ( select 1 as valor )
 select * from tabla_temporal;
-{{< / highlight >}}
+```
 
 Es decir, con with se puede crear una tabla (la expresión que aparece entre paréntesis) que puede ser utilizada en la _query_ subsiguiente. Conozco a un tipo al que este tipo de construcciones ayudaría a mitigar el innato culteranismo esecueliano del que hace gala con perniciosos efectos para el bienestar de sus exégetas.
 
@@ -68,7 +68,7 @@ La tabla anterior puede contener solo la relación directa: el ala izquierda "es
 
 La _query_
 
-{{< highlight sql >}}
+```sql
 with recursive tmp(cod_padre, cod_hijo) as (
     select
         cod_padre, cod_hijo
@@ -85,7 +85,7 @@ with recursive tmp(cod_padre, cod_hijo) as (
 )
 select *
 from tmp;
-{{< / highlight >}}
+```
 
 asocia a cada elemento de la jerarquía todos los elementos de nivel superior a los que pertenece a partir de la tabla de padres inmediatos.
 

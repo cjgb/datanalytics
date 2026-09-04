@@ -42,7 +42,7 @@ En el enlace, al cabo de mucho desarrollo de Taylor, de despejar, etc., llega a 
 
 Pero siempre se pueden hacer cosas como
 
-{{< highlight R >}}
+```r
 k_mean <- -0.035
 k_sd   <- 0.00195
 
@@ -51,6 +51,6 @@ k_sample <- rnorm(10000, k_mean, k_sd)
 T_sample <- log(.5) / k_sample
 hist(T_sample)
 sd(T_sample)
-{{< / highlight >}}
+```
 
 para obtener un resultado similar y muchas más cosas enjundiosas (como poder apreciar la asimetría en la distribución resultante, etc.).

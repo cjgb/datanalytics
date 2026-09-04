@@ -30,7 +30,7 @@ Y aquí está:
 
 El modelo, el código y demás,
 
-{{< highlight R >}}
+```r
 library(rstan)
 library(ggplot2)
 
@@ -74,7 +74,7 @@ fit <- stan(model_code = codigo,
 res <- as.data.frame(fit)
 
 ggplot(res, aes(x = a1, y = a2)) + geom_point(alpha = 0.1)
-{{< / highlight >}}
+```
 
 De nuevo, no son _intervalos_ propiamente dichos, lo convengo. Pero son configuraciones más fieles al espíritu de lo que un intervalo de confianza es y representa que su(s) letra(s) I N T E R V A L O.
 

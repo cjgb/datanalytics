@@ -27,16 +27,16 @@ Veamos qué pasa con la distribución normal conforme aumenta la dimensión.
 
 En una dimensión son más frecuentes los valores próximos al centro:
 
-{{< highlight R >}}
+```r
 hist(abs(rnorm(10000)), breaks = 100,
     main = "distribución de la distancia al centro")
-{{< / highlight >}}
+```
 
 ![](/img/2021/02/typical_set_n_1.png#center)
 
 Pero en dimensiones más altas (p.e., 10), la cosa cambia:
 
-{{< highlight R >}}
+```r
 library(mvtnorm)
 muestra <- rmvnorm(10000, rep(0, 10),
     diag(rep(1, 10)))
@@ -44,7 +44,7 @@ distancias <- apply(muestra, 1,
     function(x) sqrt(sum(x^2)))
 hist(distancias, breaks = 100,
      main = "distribución de la distancia al centro")
-{{< / highlight >}}
+```
 
 ![](/img/2021/02/typical_set_n_10.png#center)
 

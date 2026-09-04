@@ -31,7 +31,7 @@ Hay tres motivos por los que me interesa esta historia que, creo, serán compart
 En 2012, cinco autores ---Shu, Mazar, Gino, Ariely y Bazerman--- que pertenecían a dos grupos de investigación distintos que trabajaban sobre un mismo asunto, decidieron publicar un artículo conjunto con tres estudios que apuntaban en una misma dirección:
 [_Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end_](https://www.pnas.org/doi/abs/10.1073/pnas.1209746109).
 
-El más famoso del todos es Ariely del que incluso pensaba que había escrito en estas páginas a cuenta de su famoso libro sobre economía conductual (y que leí en su época).
+El más famoso de todos es Ariely del que incluso pensaba que había escrito en estas páginas a cuenta de su famoso libro sobre economía conductual (y que leí en su época).
 
 ### III.
 

@@ -31,13 +31,13 @@ No obstante, algunos de ellos han sido estandarizados. Hay sistemas de referenci
 
 Los sistemas de referencia más usuales tienen su código [EPGS](https://en.wikipedia.org/wiki/EPSG_Geodetic_Parameter_Dataset). Por ejemplo, el ETRS89 es el [EPSG 4258](https://epsg.io/4258).
 
-[Todos los sistemas que permiten trabajar con datos cartográficos tienen algún tipo de función que permite transformar coordenadas de un EPGS en otro; el problema muchas veces consiste en averiguar cuál es el EPGS correspondiente a unos datos: demasiadas veces, los _expertos_ dan por hecho muchas cosas. Me los imagino pensando: ¿en cuál creéis que va a estar?]
+[Todos los sistemas que permiten trabajar con datos cartográficos tienen algún tipo de función que permite transformar coordenadas de un EPSG en otro; el problema muchas veces consiste en averiguar cuál es el EPSG correspondiente a unos datos: demasiadas veces, los _expertos_ dan por hecho muchas cosas. Me los imagino pensando: ¿en cuál creéis que va a estar?]
 
 Google Maps (y otros servicios _online_) usan el sistema EPSG 3857 para proyectar coordenadas geográficas EPSG 4326 en píxeles sobre la pantalla. Prima la sencillez sobre la exactitud (véase [esto](https://en.wikipedia.org/wiki/Web_Mercator_projection#Formulas)) y por eso es denostado por los expertos/puristas de la cosa.
 
 Otro sistema de referencia muy usado es el WSG84 (EPSG 4326), que es el que utiliza, por ejemplo, el GPS. En realidad, tanto da usar WSG84 que ETRS89: las diferencias entre ambos están en el orden de los milímetros (según [esto](https://mapcol.blogspot.com/2008/09/diferencias-entre-etrs89-wgs84-y-ed50-s.html)).
 
-Uno de los parámetros de un sistema de referencia es el elipsoide, es decir, la figura geométrica que se utiliza como aproximación a la forma de la tierra. En la práctica se utilizan o se han utilizado apenas unos cuantos distintos y los más famosos son el WSG84 y el GRS80. Obviamente, el sistema de referencia WSG84 utiliza el elipsoide homónimo (no sé si para confundir o para todo lo contrario) mientras que el europeo, el ETRS89 el GRS80.
+Uno de los parámetros de un sistema de referencia es el elipsoide, es decir, la figura geométrica que se utiliza como aproximación a la forma de la tierra. En la práctica se utilizan o se han utilizado apenas unos cuantos distintos y los más famosos son el WGS84 y el GRS80. Obviamente, el sistema de referencia WGS84 utiliza el elipsoide homónimo (no sé si para confundir o para todo lo contrario) mientras que el europeo, el ETRS89 el GRS80.
 
 Finalmente, está el _carajal_ de las _coordenadas UTM_. La mejor manera de describir las coordenadas UTM es considerarlas una familia concreta de sistemas de referencia (tanto en uso como en desuso). Por ejemplo,
 

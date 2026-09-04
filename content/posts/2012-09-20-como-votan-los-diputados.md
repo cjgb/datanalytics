@@ -25,7 +25,7 @@ Tras leer el otro día [Visualizando la matriz de acuerdo legislativo](http://co
 
 He aquí pues el código concomitante que fue apareciendo en mi sesión de RStudio:
 
-{{< highlight R >}}
+```r
 library(XML)
 library(reshape)
 library(corrgram)
@@ -67,24 +67,24 @@ res <- list()
 for ( i in  1:54 ) res <- c( res, dia.votacion(i) )
 # la 32, 33 está trucha
 for ( i in 34:54 ) res <- c( res, dia.votacion(i) )
-{{< / highlight >}}
+```
 
 Con él se pueden bajar unas docenas de ficheros XML correspondientes a ciertos plenos de la [X Legislatura](http://es.wikipedia.org/wiki/X_Legislatura_de_Espa%C3%B1a), procesarlos mínimamente y guardarlos en la lista `res`. No estoy seguro de la profundidad histórica de los datos (aparentemente, solo están disponibles los del 2012, aunque la X Legislatura arrancó, creo, antes). Además, falla la descarga de los ficheros correspondientes a las sesiones 32 y 33. Ese es el motivo por el que he tenido que recurrir a `for`, como los gañanes, en lugar de utilizar `sapply`, como era mi natural inclinación.
 
 Haciendo
 
-{{< highlight R >}}
+```r
 tmp <- res[ ! unlist(lapply(res, is.null) ) ]
 names(tmp) <- paste( "votacion", 1:length(tmp), sep = "_")
 tmp <- lapply( names(tmp), function(x) data.frame( votacion = x, tmp[[x]]))
 votos <- do.call( rbind, tmp )
 rownames(votos) <- NULL
 votos <- votos[,-2]          # elimino el "asiento"
-{{< / highlight >}}
+```
 
 genero un objeto, `votos`, cuyas seis primeras filas tienen este aspecto:
 
-{{< highlight R >}}
+```r
 votacion                            Diputado Voto
 1 votacion_1          Muñoz González, Pedro José   Sí
 2 votacion_1         González Vázquez, Sebastián   Sí
@@ -92,20 +92,20 @@ votacion                            Diputado Voto
 4 votacion_1 Ares Martínez-Fortún, María de la O   Sí
 5 votacion_1            Grau Reinés, Juan Carlos   Sí
 6 votacion_1             Fajarnés Ribas, Enrique   Sí
-{{< / highlight >}}
+```
 
 En total, hay 350 diputados que han votado 438 asuntos.
 
 Si uno hace
 
-{{< highlight R >}}
+```r
 ausentes <- subset(votos, Voto == "No vota")
 sort(table(ausentes$Diputado))
-{{< / highlight >}}
+```
 
 puede saber cuáles son los que han dejado de votar en más ocasiones por los motivos que sean. Dejaré que sean otros los que publiquen la salida de estas sentencias. Porque a mí me interesan más las correlaciones. Para lo cual, creo así
 
-{{< highlight R >}}
+```r
 votos$ind <- 0
 votos$ind[votos$Voto == "Sí"] <- 1
 votos$ind[votos$Voto == "No"] <- -1
@@ -117,32 +117,30 @@ where.na <- apply( tmp, 1, function(x) any(is.na(x)))
 tmp <- tmp[!where.na,]
 
 matriz.votos <- as.matrix(tmp[,-1])
-{{< / highlight >}}
+```
 
 la matriz `matriz.votos` que tiene diputados en sus filas y votaciones en sus columnas. Esto permite representar mediante
 
-{{< highlight R >}}
+```r
 cor.votos <- cor(t(matriz.votos))
 cor.plot( mat.sort(cor.votos))
-{{< / highlight >}}
+```
 
 la matriz de correlaciones entre los sentidos de los votos de los distintos diputados,
 
-[![](/img/2012/09/correlacion_diputados.png#center)
-](/img/2012/09/correlacion_diputados.png#center)
+![](/img/2012/09/correlacion_diputados.png#center)
 
 en la que se aprecian claramente dos bloques diferenciados. Me llama la atención, en cualquier caso, la falta de tonos encarnados, muestra de pertinaz desacuerdo, en la figura. De hecho, la correlación más negativa, -0.45; la pareja de diputados tan desencontrados es la formada por [Celia Alberto Pérez](http://www.politicas-pi.com/el-congreso/celia-alberto-perez/) (PP) y [Joan Baldoví](http://es.wikipedia.org/wiki/Joan_Baldov%C3%AD), de un partido raro cuyo perfil leeré en la Wikipedia cuando encuentre un ratillo.
 
 También puede hacerse un gráfico de calor,
 
-{{< highlight R >}}
+```r
 heatmap(matriz.votos, xlab = "Asuntos", ylab = "Diputados", scale = "none")
-{{< / highlight >}}
+```
 
 que genera
 
-[![](/img/2012/09/diputados_asuntos1.png#center)
-](/img/2012/09/diputados_asuntos1.png#center)
+![](/img/2012/09/diputados_asuntos1.png#center)
 
 y que reordena diputados por un lado y asuntos por el otro para mostrar de qué manera _inciden_ los unos sobre los otros. Se aprecian bastante claramente los dos grandes grupos políticos y, para mi sorpresa, un par de bloques de asuntos relativamente amplios en los que votaron de acuerdo.
 

@@ -21,7 +21,7 @@ Ayer hablaba con Juan José Gibaja (al que finalmente conocí en persona) y me c
 
 —¡Imposible! Los paquetes no desaparecen: quedan _huérfanos_.
 
-Efectivamente, en la lista de paquetes de CRAN, abajo, se mencionan los llamados paquetes húerfanos. Según el _[README](http://cran.r-project.org/src/contrib/Orphaned/README)_, se trata de paquetes cuyos autores o mantenedores
+Efectivamente, en la lista de paquetes de CRAN, abajo, se mencionan los llamados paquetes huérfanos. Según el _[README](http://cran.r-project.org/src/contrib/Orphaned/README)_, se trata de paquetes cuyos autores o mantenedores
 
 
 

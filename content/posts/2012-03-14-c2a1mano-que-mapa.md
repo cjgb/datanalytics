@@ -30,7 +30,7 @@ Y he pensado que tal vez podría hacer una virguería con R.
 
 Así que he escrito lo siguiente:
 
-{{< highlight R >}}
+```r
 library(rjson)
 
 # tmp <- readLines("http://www.zaragoza.es/trafico/estado/tramos23030.json")
@@ -74,17 +74,16 @@ foo <- function(x, y, status){
 }
 
 by(tmp, tmp$id, function(x) foo(x$lon, x$lat, status = x$status))
-{{< / highlight >}}
+```
 
 Que da como resultado (a la hora en la que lo he ejecutado, cuando los zaragozanos están ya casi todos en su casa)
 
-[![](/img/2012/03/trafico_zgz.png#center)
-](/img/2012/03/trafico_zgz.png#center)
+![](/img/2012/03/trafico_zgz.png#center)
 
 Pero me ha sabido a poco y he querido hacerlo todavía más a lo maño. Así que he añadido
 
 
-{{< highlight R >}}
+```r
 library(OpenStreetMap)
 
 map <- openmap(c(max(tmp$lat), min(tmp$lon)), c(min(tmp$lat), max(tmp$lon)), type = "osm")
@@ -100,11 +99,10 @@ foo <- function(x, y, status){
 }
 
 by(tmp.mercator, tmp$id, function(x) foo(x$x, x$y, status = x$status))
-{{< / highlight >}}
+```
 
 Y he obtenido
-[![](/img/2012/03/trafico_zgz_osm.png#center)
-](/img/2012/03/trafico_zgz_osm.png#center)
+![](/img/2012/03/trafico_zgz_osm.png#center)
 
 Hay algunas cosas que me gustaría poder añadir, minucias, pero que estoy demasiado ocupado para investigar y que me gustaría dejar de tarea a mis lectores:
 

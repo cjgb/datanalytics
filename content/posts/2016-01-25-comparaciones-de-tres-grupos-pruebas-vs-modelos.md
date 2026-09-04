@@ -25,7 +25,7 @@ url: /2016/01/25/comparaciones-de-tres-grupos-pruebas-vs-modelos/
 
 Una pregunta reciente en [r-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es) se refería a la comparación en R de las proporciones en tres grupos. Obviando algunas pequeñas complicaciones en el problema, la respuesta canónica podría ser esta:
 
-{{< highlight R >}}
+```r
 total <- c(56, 49,51)
 positivos <- c(14, 10, 17)
 prop.test(tmp$positivos, tmp$positivos + tmp$negativos)
@@ -38,13 +38,13 @@ prop.test(tmp$positivos, tmp$positivos + tmp$negativos)
 # sample estimates:
 #   prop 1    prop 2    prop 3
 # 0.2500000 0.2040816 0.3333333
-{{< / highlight >}}
+```
 
 Los grupos no parecen ser desiguales.
 
 Tengo la sospecha de que gran parte de lo que se enseña como pruebas estadísticas podría subsumirse en el estudio de modelos. Por ejemplo, así:
 
-{{< highlight R >}}
+```r
 tmp <- data.frame(positivos = positivos,
         negativos = total - positivos,
         grupos = grupos)
@@ -62,7 +62,7 @@ anova(mod.0, mod.1, test = "Chisq")
 # Resid. Df Resid. Dev Df Deviance Pr(>Chi)
 # 1         2     2.2129
 # 2         0     0.0000  2   2.2129   0.3307
-{{< / highlight >}}
+```
 
 
 La comparación de los dos modelos nos indica que la variable `grupos` no parece ser significativa con un p-valor similar al de más arriba.
@@ -70,17 +70,16 @@ La comparación de los dos modelos nos indica que la variable `grupos` no parece
 Además,
 
 
-{{< highlight R >}}
+```r
 library(effects)
 effects <- Effect("grupos", mod.1)
 plot(effects)
-{{< / highlight >}}
+```
 
 
 produce un gráfico con sus intervalos de confianza, etc.
 
-[![comparar_tres_grupos](/img/2016/01/comparar_tres_grupos.png#center)
-](/img/2016/01/comparar_tres_grupos.png#center)
+![comparar_tres_grupos](/img/2016/01/comparar_tres_grupos.png#center)
 
 La vía de usar modelos permite, además, considerar otras variables adicionales de control que no hay manera de contemplar con pruebas como `prop.test`.
 

@@ -27,7 +27,7 @@ Inspirado en [esto](http://www.56n.dk/where-do-letters-occur-in-words/) constru�
 
 usando como texto el Quijote y como código una versión mucho más simple y limpia que (aunque inspirado en) la del enlace original:
 
-{{< highlight R >}}
+```r
 library(stringr)
 library(plyr)
 library(ggplot2)
@@ -74,4 +74,4 @@ ggplot(res, aes(x = posicion)) +
         legend.position = "none",
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank())
-{{< / highlight >}}
+```

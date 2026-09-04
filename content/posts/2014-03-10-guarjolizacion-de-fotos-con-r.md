@@ -24,7 +24,7 @@ url: /2014/03/10/guarjolizacion-de-fotos-con-r/
 
 Inspirado en [esto](http://aschinchon.wordpress.com/2014/03/03/warholing-grace-with-clara/) aunque con la intención de mejorar el horrible código adjunto, escribí el otro día esto:
 
-{{< highlight R >}}
+```r
 library("biOps")
 library("cluster")
 
@@ -53,7 +53,7 @@ rgb.clusters <- clarax$medoids[clarax$cluster,]
 # (invirtiendo la transformación anterior)
 # y representamos gráficamente
 plot(imagedata(array(rgb.clusters, dim = d)))
-{{< / highlight >}}
+```
 
 
 Obviamente, podéis cambiar la foto y hacer variar el número de _clústers_. Pero conviene recordar que:

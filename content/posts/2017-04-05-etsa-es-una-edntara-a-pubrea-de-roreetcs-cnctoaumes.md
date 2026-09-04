@@ -28,7 +28,7 @@ No sé si ertéaiss o no de adeurco en que fncniuoa o no, es dicer, que los ttoe
 
 El cdógio, cmoo pormíeta,
 
-{{< highlight R >}}
+```r
 texto <- "Pensando en cómo escribir a prueba de rectores
 plagiarios contumaces recordé esto y lo he implementado
 en R.
@@ -72,4 +72,4 @@ for (i in 1:length(texto.partido)){
 }
 
 paste(texto.partido, collapse = "")
-{{< / highlight >}}
+```

@@ -18,7 +18,7 @@ title: La peor página de N. Taleb
 url: /2022/01/20/peor-pagina-taleb/
 ---
 
-Dicen algunos ---bueno, más bien, lo suelo decir yo--- que la intersección de lo nuevo, lo interesante y lo cierto es el conjunto vacío. Ahora, [N. Taleb nos regala una página](https://fooledbyrandomnessdotcom.wordpress.com/2021/09/07/estimating-medical-error-rate-an-intuitive-max-entropy-method/) en el que trata novedosamente un tema que lleva siendo intereante desde, al menos, lo puso encima de la mesa el reverendo (Bayes) hace 250 años. Ergo...
+Dicen algunos ---bueno, más bien, lo suelo decir yo--- que la intersección de lo nuevo, lo interesante y lo cierto es el conjunto vacío. Ahora, [N. Taleb nos regala una página](https://fooledbyrandomnessdotcom.wordpress.com/2021/09/07/estimating-medical-error-rate-an-intuitive-max-entropy-method/) en el que trata novedosamente un tema que lleva siendo interesante desde, al menos, lo puso encima de la mesa el reverendo (Bayes) hace 250 años. Ergo...
 
 Veamos qué nos cuenta. Se plantea el problema de unos experimentos (independientes) de Bernoulli con probabilidad de ocurrencia desconocida $p$. Hay $n$ ensayos y $m$ éxitos. Y afirma que el _mejor_ estimador es
 
@@ -55,7 +55,7 @@ En el caso 2, estoy con Taleb ---y con todos, creo, salvo tal vez algún rarito-
 
 Pero, vamos, eso es solo una intuición. Quien quiera conocer la verdad _aprox_, que corra esto:
 
-{{< highlight R >}}
+```r
 alphas <- seq(0.1, 4, length.out = 100)
 
 entropy <- sapply(alphas, function(alpha) {
@@ -64,6 +64,6 @@ entropy <- sapply(alphas, function(alpha) {
 })
 
 alphas[which.max(entropy)]
-{{< / highlight >}}
+```
 
 **Coda:** Esta es, como digo, la peor página que le conozco a N. Taleb. Pero tiene muchísimas otras que valen verdaderamente la pena.

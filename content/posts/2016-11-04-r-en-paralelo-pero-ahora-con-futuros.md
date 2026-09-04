@@ -29,7 +29,7 @@ El muy reciente paquete `future` incorpora a R un mecanismo disponible en otros 
 Mirad el código de entonces y comparadlo con:
 
 
-{{< highlight R >}}
+```r
 library(future)
 
 plan(multiprocess)
@@ -47,6 +47,6 @@ b0 <- future({
 system.time(
   res <- list(value(a0), value(b0))
 )
-{{< / highlight >}}
+```
 
 Para más detalles, [las viñetas](https://cran.r-project.org/web/packages/future/index.html).

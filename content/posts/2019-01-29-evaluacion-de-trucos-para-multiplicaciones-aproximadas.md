@@ -35,7 +35,7 @@ Lo que podemos hacer es generar muchas secuencias de secuencias de números, apl
 
 Y el código:
 
-{{< highlight R >}}
+```r
 simplificar <- function(x){
   if (x < 1.7)
     return(1L)
@@ -80,4 +80,4 @@ hist(log2(res[,1] / res[,2]), breaks = 50,
 
 abline(v = -1, col = "red")
 abline(v =  1, col = "red")
-{{< / highlight >}}
+```

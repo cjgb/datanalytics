@@ -25,7 +25,7 @@ Si su respuesta es 0.5 va a tener que seguir leyendo el resto del artículo. Per
 
 Quería basarme en datos de familias del INE para probar lo incorrecto del valor 0.5, pero no existe en la contabilidad nacional un informe del número de hijos por sexo y familia. Así que he fabricado un país artificial con R:
 
-{{< highlight R >}}
+```r
 # Para facilitar la replicabilidad del experimento
 set.seed( 1234 )
 
@@ -42,7 +42,7 @@ table( n.hijos.varones )
 # por el siguiente cociente:
 sum( n.hijos.varones == 2 ) / sum( n.hijos.varones > 0 )
 # 0.3338992
-{{< / highlight >}}
+```
 
 ¡La respuesta es próxima a 1/3! Y este es precisamente el valor que cabe esperar. De hecho, si $X, Y \in {0,1}$ son variables aleatorias binomiales que indican si el primer o segundo hijo, respectivamente, son niños, entonces:
 
@@ -65,8 +65,7 @@ $$\frac{P( X + Y = 2 , X + Y > 0 )}{ P( X + Y > 0 ) } = \frac{P( X + Y = 2 )}{ P
 También es evidente en la siguiente figura:
 
 
-[![](/img/2010/11/grafico_probabilidad_condicional.png#center)
-](/img/2010/11/grafico_probabilidad_condicional.png#center)
+![](/img/2010/11/grafico_probabilidad_condicional.png#center)
 
 
 La pregunta que ha dado origen al problema puede reformularse, al fin y al cabo así: ¿cuál es la posibilidad de _caer_ en la casilla gris oscuro si se sabe que se ha _caído_ en una casilla gris?

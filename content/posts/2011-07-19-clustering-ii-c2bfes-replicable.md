@@ -44,14 +44,14 @@ En la entrada de hoy trataré la primera de ellas. Las dos preguntas que me sugi
 
 Mala será la replicabilidad del método cuando uno es capaz de encontrar clases aun cuando no existen. Tomemos el siguiente pedazo de código, que crea un conjunto de datos con `n.obs` observaciones en un espacio de dimensión `n.dim` y busca `n.clus` clases en él:
 
-{{< highlight R >}}
+```r
 library( cluster )
 n.dim  <- 5
 n.obs  <- 200
 n.clus <- 4
 my.dat <- matrix( rnorm( n.dim * n.obs ), n.obs )
 res <- pam( my.dat, n.clus )
-{{< / highlight >}}
+```
 
 ¿Encuentra clases? ¿Se parecen a las que se obtienen al crear otro conjunto de datos con exactamente la misma distribución de partida?
 
@@ -61,7 +61,7 @@ Cierto que el paquete `cluster` proporciona herramientas para verificar hasta qu
 
 De nuevo, podemos hacer otro experimento con el siguiente trozo de código, que es una versión del anterior.
 
-{{< highlight R >}}
+```r
     library( cluster )
     n.dim  <- 5
     n.obs  <- 200
@@ -72,13 +72,13 @@ De nuevo, podemos hacer otro experimento con el siguiente trozo de código, que 
     my.dat <- matrix( rnorm( n.dim * n.obs ), n.obs )
     my.dat <- my.dat + centers[ cluster.index, ]
     res <- pam( my.dat, n.clus )
-{{< / highlight >}}
+```
 
 Esta vez hemos fabricado `n.clus` clases distintas que serán más o menos distintas en función del parámetro `sigma`. Aun conociendo de antemano el número de clases en vuestro conjunto de datos, ¿sois capaces de recuperar las clases iniciales? ¿Se parecen en algo los centros de las clases obtenidas a los preespecificados? ¿Cómo de grande tiene que ser `sigma` para obtener resultados razonables y consistentes? ¿Seríais capaces de deducir el valor del parámetro crítico `n.clus` si no supiéseis su valor al crear los datos?
 
 ### Resumen
 
-Los dos experimentos propuestos en esta entrada hacen referencia a dos _elemenos de sospecha_ que me obligan a replantearme ---y entiendo que muchos otros compañeros de faena les ocurrirá igual--- la validez de los métodos de _clústering_ tal cual se usan en muchas aplicaciones: los resultados no son repetibles, incluso con los mismos (o una muestra de los mismos) datos.
+Los dos experimentos propuestos en esta entrada hacen referencia a dos _elementos de sospecha_ que me obligan a replantearme ---y entiendo que muchos otros compañeros de faena les ocurrirá igual--- la validez de los métodos de _clústering_ tal cual se usan en muchas aplicaciones: los resultados no son repetibles, incluso con los mismos (o una muestra de los mismos) datos.
 
 Los resultados de un estudio de _clústering_ tienen que ser (y temo repetirme):
 

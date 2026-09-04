@@ -27,7 +27,7 @@ El paquete [`kmlShape`](https://cran.r-project.org/web/packages/kmlShape/index.h
 El código es
 
 
-{{< highlight R >}}
+```r
     library(kmlShape)
     library(tseries)
     library(zoo)
@@ -70,7 +70,7 @@ El código es
 
     ggplot(tmp, aes(x=fecha, y=value, group=id)) +
       geom_line() + facet_wrap(~cluster)
-{{< / highlight >}}
+```
 
 y el resultado,
 

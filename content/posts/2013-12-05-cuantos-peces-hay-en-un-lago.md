@@ -35,7 +35,7 @@ Esencialmente, lo que puede hacerse (dado que es imposible realizar un censo com
 
 Con R puede hacerse una estimación (incluso del error), así:
 
-{{< highlight R >}}
+```r
 n <- 4000
 p1 <- 300
 p2 <- 300
@@ -46,12 +46,11 @@ hist(p1*p2 / res, col = "grey",
         main = "Estimación del número de peces",
         xlab = "estimacion")
 abline(v = 4000, col = "red")
-{{< / highlight >}}
+```
 
 Para obtener
 
-[![](/img/2013/12/peces_en_el_lago.png#center)
-](/img/2013/12/peces_en_el_lago.png#center)
+![](/img/2013/12/peces_en_el_lago.png#center)
 
 Por supuesto, en esos cursos que tomábamos, ese ejemplo servía para justificar la existencia sobre la faz de la tierra de la [distribución hipergeométrica](http://en.wikipedia.org/wiki/Hypergeometric_distribution). Lo que nunca nos contaron fue lo que se describe en _[The Body Counter](http://jointheclub.org/2012/04/the-body-counter/)_ y que resumo a continuación.
 

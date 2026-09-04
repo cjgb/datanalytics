@@ -26,4 +26,4 @@ Guardaba una nota sobre cierto artículo de Varian en el que se refería a la ut
 
 Gran parte del resto del artículo sigue estando vigente (aunque del 2014 hasta la actualidad haya llovido la tira).
 
-**Nota:** En la cita anterior, el adjetivo de _data_, _business_, no es ocioso. _Business data_ significa, esencialemente, _datos agregados_. Y muchos de mis/[nuestros](http://circiter.es) últimos proyectos se refieren al análisis de datos individuales.
+**Nota:** En la cita anterior, el adjetivo de _data_, _business_, no es ocioso. _Business data_ significa, esencialmente, _datos agregados_. Y muchos de mis/[nuestros](http://circiter.es) últimos proyectos se refieren al análisis de datos individuales.

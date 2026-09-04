@@ -18,7 +18,7 @@ title: 'Dos escenarios mutuamente incompatibles: extinción o cronificación'
 url: /2020/03/17/dos-escenarios-mutuamente-incompatibles-extincion-o-cronificacion/
 ---
 
-El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en china que llegaron a tener un número importante de casos,
+El primero es el chino. Es el que se aplicó a otras crisis víricas (SARS, etc.), a la viruela y a la polio. Consiste en aplicar medidas drásticas hasta que el virus desaparezca. De hecho, hay provincias en China que llegaron a tener un número importante de casos,
 
 ![](/img/2020/03/cases_china.png#center)
 

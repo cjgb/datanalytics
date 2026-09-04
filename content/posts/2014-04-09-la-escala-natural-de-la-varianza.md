@@ -26,7 +26,7 @@ Al grano.
 
 Supongamos que tenemos un sistema con sensores que miden la temperatura (5) y la presión (2) en diversos puntos. Los dejamos recoger datos durante 100 periodos y obtenemos
 
-{{< highlight R >}}
+```r
 set.seed(1234)
 
 n <- 100
@@ -56,7 +56,7 @@ head(dat)
 # [4,] -2.2055510 -2.1437361 -2.5255706 -2.36754170 -2.1887580 -0.74875834 -0.14028564
 # [5,]  0.4914609  0.4338500  0.5126130  0.78564627  0.4315097 -0.89811930 -0.84590060
 # [6,]  0.6581484  0.3762502  0.5367448  0.45736696  0.4698048  0.05754662  0.32243670
-{{< / highlight >}}
+```
 
 
 Las primeras cinco columnas de esta tabla de datos simulados recogen la temperatura global del sistema más una señal propia de cada sensor (según su ubicación). Las dos últimas, la presión con la misma salvedad.
@@ -66,25 +66,24 @@ Ahora llega un señor importante, de los de corbata, uno de esos devoradores de 
 Y a nosotros se nos ocurre reducir la dimensionalidad del problema usando componentes principales (PCA) así:
 
 
-{{< highlight R >}}
+```r
 dat.pca <- princomp(dat)
-{{< / highlight >}}
+```
 
 
 Las dos primeras componentes principales tienen casi toda la varianza (como cabía esperar en nuestros datos artificiales):
 
 
-{{< highlight R >}}
+```r
 screeplot(dat.pca)
-{{< / highlight >}}
+```
 
 
-[![screeplot_temp_pres](/img/2014/04/screeplot_temp_pres.png#center)
-](/img/2014/04/screeplot_temp_pres.png#center)
+![screeplot_temp_pres](/img/2014/04/screeplot_temp_pres.png#center)
 
 Como puede verse haciendo
 
-{{< highlight R >}}
+```r
 loadings(dat.pca)
 
 # Loadings:
@@ -96,7 +95,7 @@ loadings(dat.pca)
 # [5,] -0.443                      -0.486 -0.639 -0.389
 # [6,]        -0.721        -0.592 -0.111 -0.106  0.324
 # [7,]        -0.692         0.606         0.117 -0.360
-{{< / highlight >}}
+```
 
 la primera componente es una combinación lineal de (esencialmente, ¡no exclusivamente!) las primeras cinco columnas (relacionadas con la temperatura) y la segunda, de las dos restantes (relacionadas con la presión).
 

@@ -27,7 +27,7 @@ Hace seis años escribí [esto](https://datanalytics.com/2012/09/20/como-votan-l
 
 Y, por supuesto, el código (que he tenido que reescribir en gran medida):
 
-{{< highlight R >}}
+```r
 library(xml2)
 library(reshape2)
 library(plyr)
@@ -99,6 +99,6 @@ rownames(matriz_votos) <- NULL
 colnames(matriz_votos) <- NULL
 
 heatmap(matriz_votos, xlab = "Diputados", ylab = "Asuntos", scale = "none")
-{{< / highlight >}}
+```
 
 No sé si alguien querrá sacarle más punta a la no historia de hoy.

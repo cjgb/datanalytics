@@ -25,7 +25,7 @@ El código usado en
 
 es
 
-{{< highlight R >}}
+```r
 library(reshape2)
 library(ggplot2)
 library(plyr)
@@ -65,4 +65,4 @@ ggplot(res, aes(x = fecha, y = casos)) +
 
 ggsave("/tmp/new_daily_cases.png", width = 12,
     height = 8, units = "cm")
-{{< / highlight >}}
+```

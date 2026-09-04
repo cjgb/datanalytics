@@ -31,7 +31,7 @@ Es un planteamiento un tanto comercial y no exento de gancho. Sin embargo, para 
 
 Siempre me ha sorprendido que los estándares de rigor estadístico impuestos por las distintas agencias encargadas de aprobar medicamentos sean sistemáticamente rebajados en otras áreas. En un estudio de 100 trabajos de investigación que menciona el primer artículo, 81 de ellos utilizó conjuntos de datos con observaciones no informadas y muy pocos de ellos habrían podido ser sancionados por la EMA.
 
-Pero puede que a los lectores de esta bitácora les interen más los contenidos del primer artículo que, como abrebocas, resumo en cuatro pinceladas.
+Pero puede que a los lectores de esta bitácora les interesen más los contenidos del primer artículo que, como abrebocas, resumo en cuatro pinceladas.
 
 Comienza distinguiendo tres tipos de conjuntos con datos no informados:
 

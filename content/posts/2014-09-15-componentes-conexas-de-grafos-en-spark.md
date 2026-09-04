@@ -22,7 +22,7 @@ Uno de mis últimos _pet projects_ tiene que ver con el análisis de las compone
 
 Voy a limitarme a copiar el código para referencia mía y de otros. Creo que se autoexplica:
 
-{{< highlight scala >}}
+```scala
 import org.apache.spark.graphx._
 import org.apache.spark.graphx.util.GraphGenerators
 
@@ -53,6 +53,6 @@ res.collect()
 res.map(v2cc => (v2cc._2, v2cc._1)).countByKey
 
 // Salida: Map(1 -> 2, 3 -> 3)
-{{< / highlight >}}
+```
 
 Como cabía esperar.

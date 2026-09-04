@@ -20,7 +20,7 @@ url: /2020/03/09/seguimiento-del-coronavirus-en-tiempo-real-con-r/
 
 Mi código (guarrongo) para seguir la evolución del coronavirus por país en cuasi-tiempo real:
 
-{{< highlight R >}}
+```r
 library(reshape2)
 library(ggplot2)
 
@@ -46,6 +46,6 @@ ggplot(tmp, aes(x = fecha, y = casos, col = país)) + geom_line()
 tmp <- tmp[tmp$fecha > as.Date("2020-02-14"),]
 
 ggplot(tmp, aes(x = fecha, y = log10(casos), col = país)) + geom_line()
-{{< / highlight >}}
+```
 
 Los datos están extraídos de [aquí](https://github.com/CSSEGISandData/COVID-19), por si alguien quiere reemplazar casos por defunciones o recuperados.

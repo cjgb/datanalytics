@@ -31,23 +31,23 @@ _[Estos generadores de números aleatorios no son pues lo que algunos llaman _fu
 
 En R, el estado original se determina especificando la semilla:
 
-{{< highlight R >}}
+```r
 set.seed(1)
-{{< / highlight >}}
+```
 
 El _verdadero_ estado del PRNG por defecto de R puede consultarse así
 
-{{< highlight R >}}
+```r
 .Random.seed
-{{< / highlight >}}
+```
 
 y es un vector largo (longitud 626) de enteros.
 
 Cuando se hace
 
-{{< highlight R >}}
+```r
 runif(1)
-{{< / highlight >}}
+```
 
 suceden dos cosas, una explícita y otra implícita. La explícita es que se obtiene el número 0.2655087. La implícita es que se modifica el estado.
 
@@ -63,10 +63,10 @@ $$u(e_i) = e_{i+1},$$
 
 mientras que la primera necesita un estado explícito. Generar números aleatorios en JAX, por tanto, vendría a hacerse así:
 
-{{< highlight R >}}
+```r
 e0 <- seed(0)
 r0 <- r(e0)
 e1 <- u(e0)
 r1 <- r(e1)
 ...
-{{< / highlight >}}
+```

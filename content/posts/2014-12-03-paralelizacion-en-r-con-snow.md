@@ -34,7 +34,7 @@ Pero si
 
 y, entonces, ejecutas
 
-{{< highlight R >}}
+```r
 cluster.def <- list(user = "linux_user_name", nodes = data.frame(
     host = c("localhost", "10.65.243.58"), cores = c(2,4)))
 
@@ -43,6 +43,6 @@ cluster.nodes <- as.character(rep(cluster.def$nodes$host,
 cl <- makeSOCKcluster(cluster.nodes, user = cluster.def$user)
 res <- clusterApply(cl, 1:10, Sys.sleep)
 stopCluster(cl)
-{{< / highlight >}}
+```
 
 dormirás (en el sentido de `Sys.sleep`) como tal vez nunca: en varios hilos simultáneos a la vez que corren en las dos máquinas indicadas en la especificación del _clúster_.

@@ -22,7 +22,7 @@ url: /2016/11/28/analisis-de-la-supervivencia-cuando-ningun-sujeto-ha-muerto/
 
 Me ha sobrevenido un problema de análisis de supervivencia curioso: ningún sujeto ha muerto. Dicho de otra manera, todas mis observaciones están censuradas por la derecha.
 
-Los datos recogen la [antigüedad de la cámara de fotos de los visitantes de cierto blog](http://micro4tercios.com/foro/viewtopic.php?f=5&t=26600). Y debería uno poder estimar cada cuántos años renuevan la cámara, es decir, la vida promedio de esos aparatejos. Si embargo, no tenemos información de la edad de las cámaras en el momento de la renovación. Solo de su edad _hoy_. ¡Todas las observaciones están _censuradas_ por la derecha!
+Los datos recogen la [antigüedad de la cámara de fotos de los visitantes de cierto blog](http://micro4tercios.com/foro/viewtopic.php?f=5&t=26600). Y debería uno poder estimar cada cuántos años renuevan la cámara, es decir, la vida promedio de esos aparatejos. Sin embargo, no tenemos información de la edad de las cámaras en el momento de la renovación. Solo de su edad _hoy_. ¡Todas las observaciones están _censuradas_ por la derecha!
 
 Así que `survreg` no puede converger: se va para la derecha. ¿Qué impide que los sujetos tengan vida infinita?
 
@@ -36,7 +36,7 @@ Así que si alguien tiene una idea al respecto... ¡Que no deje pasar la ocasió
 
 Finalmente, por si alguien quiere echarle un vistazo a los datos, los puede bajar así:
 
-{{< highlight R >}}
+```r
 library(rvest)
 
 res <- read_html("http://micro4tercios.com/foro/viewtopic.php?f=5&t=26600")
@@ -47,4 +47,4 @@ res <- res[!is.na(res)]
 
 edad.camaras <- data.frame(tiempo = 0.5 * (0:(length(res)-1)) + 0.25,
                             numero = res)
-{{< / highlight >}}
+```

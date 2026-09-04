@@ -29,6 +29,6 @@ Luego discute técnicas para _sentir_ igualmente otras magnitudes mayores. _The 
 
 El p.f. ocurre con la suficiente frecuencia como para poder dar por medio buena la ley de los grandes números y equiparar grosso modo frecuencias y probabilidades. Una adecuada _traducción_ de la probabilidad de eventos contingentes (p.e., la probabilidad de que gane el _brexit_) a otros balompédicos (p.e., la probabilidad de que gane el Osasuna en el Bernabéu) podría ser útil.
 
-Lo que tal vez se perdiese en precisión (¿pero alguien sabe calibrar la probabilidad de una vitoria del _brexit_ con _precisión_?) se ganaría en comprensión del concepto mismo de probabilidad: hasta al más obtuso rentabasiquista le consta que el Osasuna puede dar _el pelotazo_ en una venturosa tarde de domingo.
+Lo que tal vez se perdiese en precisión (¿pero alguien sabe calibrar la probabilidad de una victoria del _brexit_ con _precisión_?) se ganaría en comprensión del concepto mismo de probabilidad: hasta al más obtuso rentabasiquista le consta que el Osasuna puede dar _el pelotazo_ en una venturosa tarde de domingo.
 
 Los matemáticos tenemos el vicio de ascender de lo concreto a lo kolmogoroviamnete abstracto. No obstante, para hacernos entender de la plebe anúmerica y aprobabilística, no nos queda más remedio que reencarnar de nuevo las ideas en concreciones. El puto _fúrgol_ nos lo pone a huevo.

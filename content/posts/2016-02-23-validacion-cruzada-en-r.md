@@ -23,7 +23,7 @@ url: /2016/02/23/validacion-cruzada-en-r/
 
 Está de moda [usar `caret`](http://topepo.github.io/caret/training.html) para estas cosas, pero yo estoy todavía acostumbrado a hacerlas a mano. Creo, además, que es poco instructivo ocultar estas cuestiones detrás de funciones de tipo caja-negra-maravillosa a quienes se inician en el mundo de la construcción y comparación de modelos. Muestro, por tanto, código bastante simple para la validación cruzada de un modelo con R:
 
-{{< highlight R >}}
+```r
 # genero ids
 ids <- rep(1:10, length.out = nrow(cars))
 
@@ -46,7 +46,7 @@ preds.cv <- do.call(rbind, preds.cv)
 
 # calculo el rmse
 rmse <- sqrt(mean((preds.cv$preds - preds.cv$real)^2))
-{{< / highlight >}}
+```
 
 Sí, estoy usando el [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) aunque sea [un detractor](https://datanalytics.com/2015/08/28/todos-los-errores-son-iguales-pero-algunos-son-mas-iguales-que-otros/) del mismo.
 

@@ -22,19 +22,19 @@ url: /2017/02/09/la-inesperada-correlacion-de-los-ratios/
 
 Tomemos dos variables aleatorias independientes y positivas,
 
-{{< highlight R >}}
+```r
     set.seed(123)
     n <- 100
     x <- runif(n) + 0.5
     y <- runif(n) + 0.5
-{{< / highlight >}}
+```
 
 No tengo ni que decir que su correlación es prácticamente cero,
 
-{{< highlight R >}}
+```r
     cor(x,y)
     #-0.0872707
-{{< / highlight >}}
+```
 
 y que en su diagrama de dispersión tampoco vamos a poder leer otra cosa:
 
@@ -42,23 +42,23 @@ y que en su diagrama de dispersión tampoco vamos a poder leer otra cosa:
 
 Ahora generamos otra variable independiente de las anteriores,
 
-{{< highlight R >}}
+```r
     z <- runif(n) + 0.5
-{{< / highlight >}}
+```
 
 y calculamos el cociente de las primeras con respecto a esta:
 
-{{< highlight R >}}
+```r
     xz <- x / z
     yz <- y / z
-{{< / highlight >}}
+```
 
 ¿Independientes? Hummmm...
 
-{{< highlight R >}}
+```r
     cor(xz, yz)
     # 0.5277787
-{{< / highlight >}}
+```
 
 ![](/img/2017/02/disp_ratio_xy.png#center)
 

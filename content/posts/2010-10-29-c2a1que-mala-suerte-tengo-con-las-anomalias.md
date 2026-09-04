@@ -22,10 +22,10 @@ url: /2010/10/29/que-mala-suerte-tengo-con-las-anomalias/
 
 El siempre muy benéfico Banco de Santander me ha proporcionado ---onerosamente: veráse el porqué--- un conjunto de datos con el que ilustrar a los lectores de este blog en el uso del paquete `outliers` de R. Los datos son los siguientes:
 
-{{< highlight R >}}
+```r
 dia <- 17:26
 precio <- 10 + c( 22, 21, 39, 18, 24, 26, 26,26,29, 28 ) / 100
-{{< / highlight >}}
+```
 
 Los días son los discurridos desde que di una orden de adquisición de un fondo de inversión a través de dicha entidad financiera hasta que tuve constancia de que se había completado: el dinero se había adeudado de la cuenta corriente y las participaciones aparecían listadas en la cuenta de valores. El precio contiene los valores liquidativos diarios del fondo durante tales días. He aquí su representación gráfica:
 
@@ -45,7 +45,7 @@ $$ P(t) = \exp( \mu t + \sigma B(t) $$
 
 donde $\mu$ está relacionado con la tendencia creciente del mercado y $B(t)$ es un movimiento browniano. En periodos de tiempo cortos, las variaciones de precios son (muy) aproximadamente normales. Así que volviendo a R,
 
-{{< highlight R >}}
+```r
 dixon.test( precio )
 
 #    Dixon test for outliers
@@ -61,6 +61,6 @@ grubbs.test( precio )
 #data:  precio
 #G = 2.3042, U = 0.3445, p-value = 0.02268
 #alternative hypothesis: highest value 10.39 is an outlier
- {{< / highlight >}}
+```
 
 ¡Ambas pruebas (por lo pequeño de los p-valores) parecen indicar que algo extraño sucedió en la cotización del día 19!

@@ -48,7 +48,7 @@ Ah, y sí, $\lambda(t)$ es la función de riesgo.
 
 **PD:** Por si alguien quiere jugar con el código que ha servido para pintar lo anterior,
 
-{{< highlight R >}}
+```r
 S <- function(x) 1 - pweibull(x, 2, 5)
 
 from = 0
@@ -70,4 +70,4 @@ for(init in seq(from, to, by = incr)){
 
 curve(S(x), from = from, to = to,
     xlab = "t", ylab = "S(t)", add = T)
-{{< / highlight >}}
+```

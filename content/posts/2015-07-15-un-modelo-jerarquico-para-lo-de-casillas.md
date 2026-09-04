@@ -37,7 +37,7 @@ Puede verse la discusión del artículo de Gelman y compañía para entender el 
 
 El problema de ajustar el modelo en cuestión nos lo resuelve [`stan`](http://mc-stan.org/):
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(plyr)
 library(reshape2)
@@ -89,11 +89,11 @@ fit <- stan(model_code = stanmodelcode,
             data = datos,
             iter=12000, warmup=2000,
             chains=4, thin=10)
-{{< / highlight >}}
+```
 
 Podemos ver la estimación de la distribución a posteriori de las habilidades de los porteros así:
 
-{{< highlight R >}}
+```r
 tmp <- as.data.frame(fit)
 tmp$id <- 1:nrow(tmp)
 tmp <- melt(tmp, id.vars = "id")
@@ -108,18 +108,17 @@ tmp$portero <- reorder(tmp$portero,
 ggplot(tmp, aes(x=value)) +
   geom_histogram() +
   facet_wrap(~portero)
-{{< / highlight >}}
+```
 
 que genera
 
-[![posteriori_porteros_liga](/img/2015/07/posteriori_porteros_liga.png#center)
-](/img/2015/07/posteriori_porteros_liga.png#center)
+![posteriori_porteros_liga](/img/2015/07/posteriori_porteros_liga.png#center)
 
 y donde se ve el grado de solape entre las distintas distribuciones. Además de otras cosas como que las distribuciones de los porteros con menos tiros a puerta tienen mayor varianza.
 
 Siguiendo a Gelman et al., una manera de estimar las diferencias entre parejas de porteros sería encontrar el porcentaje de simulaciones en que el estimador de la habilidad de uno de ellos supera al del otro:
 
-{{< highlight R >}}
+```r
 foo <- function(p1, p2){
   sim1  <- tmp$value[tmp$portero == p1]
   sim2  <- tmp$value[tmp$portero == p2]
@@ -134,26 +133,24 @@ significativas <- diferencias
 significativas[significativas > 0.1] <- 0.1
  
 levelplot(significativas)
-{{< / highlight >}}
+```
 
 que genera
 
-[![diferencias_parejas_porteros](/img/2015/07/diferencias_parejas_porteros.png#center)
-](/img/2015/07/diferencias_parejas_porteros.png#center)
+![diferencias_parejas_porteros](/img/2015/07/diferencias_parejas_porteros.png#center)
 
 y donde, de nuevo, apenas se encuentran diferencias significativas.
 
 Finalmente, ¿cuál es esa distribución de la habilidad de los porteros de la primera división? `print(fit)` nos da, entre otras cosas, el valor mediano de $\alpha$ y $\beta$, 18.14 y 8.27 respectivamente, lo que determina una distribución tal que
 
-{{< highlight R >}}
+```r
 foo <- function(x) dbeta(x, 18.14, 8.27)
 curve(foo, 0.3, 0.99)
-{{< / highlight >}}
+```
 
 Es decir,
 
-[![beta_habilidad_general](/img/2015/07/beta_habilidad_general.png#center)
-](/img/2015/07/beta_habilidad_general.png#center)
+![beta_habilidad_general](/img/2015/07/beta_habilidad_general.png#center)
 
 (aunque, más propiamente, una familia de curvas similares a la anterior, porque los parámetros de esa beta tienen su propia distribución).
 

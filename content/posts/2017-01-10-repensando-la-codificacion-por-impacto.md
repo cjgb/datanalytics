@@ -21,7 +21,7 @@ title: Repensando la codificación por impacto
 url: /2017/01/10/repensando-la-codificacion-por-impacto/
 ---
 
-Hay una entrada mía, [esta](https://datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/), que me ronda la cabeza y con la que no sé si estoy completamente de acuerdo. Trata de justificar la [_codificación por impacto_](http://www.win-vector.com/blog/2012/07/modeling-trick-impact-coding-of-categorical-variables-with-many-levels/) de variables categóricas en modelos lineales (generalizados o no) y cuanto más la releo, menos me la creo. O, más bien, comienzo a cuestinarme más seriamente contextos en los que funciona y contextos en los que no.
+Hay una entrada mía, [esta](https://datanalytics.com/2014/12/29/modelos-mixtos-por-doquier/), que me ronda la cabeza y con la que no sé si estoy completamente de acuerdo. Trata de justificar la [_codificación por impacto_](http://www.win-vector.com/blog/2012/07/modeling-trick-impact-coding-of-categorical-variables-with-many-levels/) de variables categóricas en modelos lineales (generalizados o no) y cuanto más la releo, menos me la creo. O, más bien, comienzo a cuestionarme más seriamente contextos en los que funciona y contextos en los que no.
 
 Pero comencemos por uno simple: los árboles. Es moda pensar que, dado un predictor categórico, un árbol explora todas las permutaciones posibles de categorías y que por eso algunas implementaciones de, por ejemplo, bosques aleatorios no permiten variables categóricas de más de cierto número no particularmente generoso de niveles.
 
@@ -33,7 +33,7 @@ Es decir, sugiere esencialmente la codificación por impacto. Y diríase que `rp
 
 Por si acaso, un experimento. Primero, datos:
 
-{{< highlight R >}}
+```r
 n <- 1000
 x1 <- sample(letters[1:10], n, replace = T)
 x2 <- runif(n)
@@ -41,13 +41,13 @@ coefs <- rcauchy(10)
 names(coefs) <- letters[1:10]
 y <- coefs[x1] + 2 * x2 + rnorm(n)
 dat <- data.frame(y, x1, x2)
-{{< / highlight >}}
+```
 
-Con el código anterior construyo una tabla con una variable objetivo numérica, `y` y dos variables indpendientes: `x1` categórica y `x2` continua.
+Con el código anterior construyo una tabla con una variable objetivo numérica, `y` y dos variables independientes: `x1` categórica y `x2` continua.
 
 Ahora,
 
-{{< highlight R >}}
+```r
 library(rpart)
 
 # creo x3 recodificando por impacto
@@ -59,13 +59,13 @@ modelo.1 <- rpart(y ~ x2 + x3, data = dat)
 
 table(data.frame(rama0 = modelo.0$where,
                     rama1 = modelo.1$where))
-{{< / highlight >}}
+```
 
 Corredlo cuantas veces queráis y veréis: pura diagonal.
 
 Podéis probar con `party`, pero no tendréis tanta suerte. Es _casi_ diagonal, pero con _excepcioncitas_ (¿qué hará?):
 
-{{< highlight R >}}
+```r
 library(party)
 
 # creo x3 recodificando por impacto
@@ -77,6 +77,6 @@ modelo.1 <- ctree(y ~ x2 + x3, data = dat)
 
 table(data.frame(rama0 = modelo.0@where,
                     rama1 = modelo.1@where))
-{{< / highlight >}}
+```
 
 ¿A dónde va todo esto? A que en principio, la codificación por importancia no debería afectar a ningún método basado en árboles (¡y eso incluye a muchos de los métodos _boost_!) y, si lo hace, debería ser más por una cuestión de implementación que por otra cosa.

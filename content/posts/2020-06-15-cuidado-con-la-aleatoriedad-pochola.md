@@ -24,11 +24,11 @@ url: /2020/06/15/cuidado-con-la-aleatoriedad-pochola/
 
 Abundo sobre mi [entrada del otro día](https://datanalytics.com/2020/06/08/aleatoriedad-hirsuta-aleatoriedad-pochola/). Usando números aleatorios hirsutos,
 
-{{< highlight R >}}
+```r
 n <- 200
 x <- runif(n)
 plot(cumsum(x - .5), type = "l")
-{{< / highlight >}}
+```
 
 produce
 
@@ -36,11 +36,11 @@ produce
 
 mientras que
 
-{{< highlight R >}}
+```r
 library(randtoolbox)
 s <- sobol(n, 1, scrambling = 3)
 plot(cumsum(s - .5), type = "l")
-{{< / highlight >}}
+```
 
 genera
 

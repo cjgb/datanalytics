@@ -44,9 +44,9 @@ Cosas conocidas sobre la identidad (y la función exponencial) como funciones de
 
 Pero el caso de hoy plantea una cuestión adicional que, creo, es incluso más importante que todo lo anterior. Imaginemos que ---por pereza, ignorancia o influencia de la econometría mal entendida--- queremos modelar los datos de la entrada anterior usando el modelo lineal _de toda la vida_ con todas sus opciones _por defecto_:
 
-{{< highlight R >}}
+```r
 lm(y ~ t, data = dat)
-{{< / highlight >}}
+```
 
 Ahí estás diciendo que $y = a + b t$ y que cada año, la media de $y$ aumenta en $b$ unidades.
 

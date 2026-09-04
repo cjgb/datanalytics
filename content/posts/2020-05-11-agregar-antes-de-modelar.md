@@ -26,7 +26,7 @@ El otro día me pasaron unos datos artificiales para poder probar el ajuste de c
 
 Nah, no tiene sentido agregar de esa manera. Mejor modelar los datos con observaciones _repetidas_. Y quien no esté convencido, que pruebe
 
-{{< highlight R >}}
+```r
 library(plyr)
 
 x <- seq(0, 1, by = .3)
@@ -44,4 +44,4 @@ model_agg <- lm(y ~ x, data = agg_data)
 
 summary(model_raw)
 summary(model_agg)
-{{< / highlight >}}
+```

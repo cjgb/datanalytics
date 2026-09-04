@@ -45,7 +45,7 @@ El interesado en realizar muestreos de dicha manera, debería considerar la info
 
 De todos modos, los que no podemos salir de casa sin [Python](http://www.python.org/) en el _pendrive_ siempre tenemos la opción de volcar las tablas a un fichero de texto y recurrir a una versión del siguiente _script_:
 
-{{< highlight python >}}
+```python
   import random
   from sys import argv, exit
   import os
@@ -67,6 +67,6 @@ De todos modos, los que no podemos salir de casa sin [Python](http://www.python.
     l = f_entrada.readline()
     f_entrada.close()
   f_salida.close()
-{{< / highlight >}}
+```
 
 Nota: esta entrada forma parte de las que aparecían en un antiguo blog mío ya extinto cuyo contenido trato ahora de recuperar. Algo de cuanto en ella se lee, por lo tanto, puede que huela a rancio (como la que se refiere al tamaño de la memoria _habitual_ en los ordenadores). Pero lo más debería todavía poder sostenerse en pie varios años después.

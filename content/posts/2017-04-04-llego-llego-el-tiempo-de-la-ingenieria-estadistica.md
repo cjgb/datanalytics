@@ -20,6 +20,6 @@ url: /2017/04/04/llego-llego-el-tiempo-de-la-ingenieria-estadistica/
 
 Mucho se habla de ciencia de datos pero poco de una disciplina emergente de la que me ocupé hace tiempo en una entrada que entre las más de 1300 que llevo no ubico: la ingeniería estadística.
 
-Porque muchos de nosotros no hacemos ciencia (¡Dios nos guarde!); más bien, resolvemos problemas reales en contextos reales. Y, entre otras cosas, defenimos o redefinimos el problema (¡al carajo con el RMSE!).
+Porque muchos de nosotros no hacemos ciencia (¡Dios nos guarde!); más bien, resolvemos problemas reales en contextos reales. Y, entre otras cosas, definimos o redefinimos el problema (¡al carajo con el RMSE!).
 
 Pero, ¿qué es la ingeniería estadística? Pues podéis averiguarlo [aquí](https://arxiv.org/pdf/1511.06013.pdf) mucho mejor contado que por mí.

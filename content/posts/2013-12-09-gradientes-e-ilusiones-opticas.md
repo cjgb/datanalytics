@@ -22,10 +22,8 @@ url: /2013/12/09/gradientes-e-ilusiones-opticas/
 
 Hoy, mirando
 
-[![](/img/2013/12/Bap0z9kIIAApETJ.jpg)
-](/img/2013/12/Bap0z9kIIAApETJ.jpg)
+![](/img/2013/12/Bap0z9kIIAApETJ.jpg)
 
 y tratando de comparar Uruguay y España no he podido dejar de acordarme de
 
-[![](/img/2013/12/Gradient-optical-illusion.png#center)
-](/img/2013/12/Gradient-optical-illusion.png#center)
+![](/img/2013/12/Gradient-optical-illusion.png#center)

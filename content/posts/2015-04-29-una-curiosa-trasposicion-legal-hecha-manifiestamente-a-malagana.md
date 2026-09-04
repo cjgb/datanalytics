@@ -28,7 +28,7 @@ He perdido el rato comparando la ley de reutilización de datos del sector públ
 
 La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detectar diferencias entre ambas. El código que sigue implementa la siguiente idea: descargar el texto de ambas normas, tabular las palabras y estudiar (vía `prop.test`) cuáles aparecen con distinta frecuencia en ambos textos:
 
-{{< highlight R >}}
+```r
     library(XML)
     library(<a href="http://inside-r.org/packages/cran/tm">tm)
 
@@ -111,7 +111,7 @@ La que me ocupa hoy es la de ver si automáticamente (y cómo) uno puede detecta
     # 972      sector          67    45 0.9772597
     # 784   organismo          17     7 0.9670106
     # 801  particular           9     2 0.9647799
-{{< / highlight >}}
+```
 
 Diferencias apreciables:
 

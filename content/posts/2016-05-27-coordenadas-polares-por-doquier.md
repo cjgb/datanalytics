@@ -31,7 +31,7 @@ Yo les dije que aquello venía a ser un diagrama de barras en coordenadas polare
 Y hoy me la he tomado yo:
 
 
-{{< highlight R >}}
+```r
 library(plotrix)
 library(jpeg)
 library(cluster)
@@ -64,13 +64,13 @@ circular.color.distribution <- function(url){
 circular.color.distribution("https://upload.wikimedia.org/wikipedia/commons/4/40/Batalla_de_rocroi_por_Augusto_Ferrer-Dalmau.jpg")
 
 circular.color.distribution("https://drwormhole.files.wordpress.com/2013/12/the-smile-of-the-flamboyant-wingsblog.jpg")
-{{< / highlight >}}
+```
 
 Que es un código con el que haciendo
 
-{{< highlight R >}}
+```r
 circular.color.distribution("https://upload.wikimedia.org/wikipedia/commons/4/40/Batalla_de_rocroi_por_Augusto_Ferrer-Dalmau.jpg")
-{{< / highlight >}}
+```
 
 se obtiene
 
@@ -78,9 +78,9 @@ se obtiene
 
 y haciendo
 
-{{< highlight R >}}
+```r
 circular.color.distribution("https://drwormhole.files.wordpress.com/2013/12/the-smile-of-the-flamboyant-wingsblog.jpg")
-{{< / highlight >}}
+```
 
 se obtiene
 

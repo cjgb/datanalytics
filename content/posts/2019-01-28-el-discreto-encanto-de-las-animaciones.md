@@ -32,7 +32,7 @@ extraído de [aquí](https://twitter.com/cocteautriplets/status/9863947923294658
 
 El código:
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 
 datos <- structure(list(year = c(1930L,
@@ -52,4 +52,4 @@ ggplot(datos, aes(xmin = 0, ymin = 0,
   xlab("longitud (m)") +
   ylab("anchura (m)") +
   ggtitle("Evolución de la superficie\ndel coche 'promedio'")
-{{< / highlight >}}
+```

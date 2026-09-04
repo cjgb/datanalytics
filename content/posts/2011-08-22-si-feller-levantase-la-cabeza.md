@@ -33,7 +33,7 @@ Se han publicado algunos artículos en que se estudian estos problemas de clasif
 
 No sé si el artículo que escribieron al respecto,[ _Deriving chemosensitivity from cell lines: forensic bioinformatics and reproducible research in high-throughput biology_](http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.aoas/1267453942) es divertido o preocupante. Describen varios estudios en los que las etiquetas (el tratamiento funciona / no funciona) fueron confundidas, por lo que sus conclusiones deberían ser las contrarias de las enunciadas por sus autores, y otros errores igualmente serios. Denuncian la opacidad de los estudios y el escaso detalle que ofrecen sobre los métodos empleados, que dificulta la detección de los errores.
 
-Y mencionan un caso que es con el que quiero amenizar a mis lectores. En ocasiones, los tratamientos se administran de manera combinada. A un paciente no se lo trata con un único fármaco sino con una combinación de ellos. Conocida la _probabilidad_ de que responda aun determinado tratamiento, ¿cuál sería la de que responda a una combinación de ellos?
+Y mencionan un caso que es con el que quiero amenizar a mis lectores. En ocasiones, los tratamientos se administran de manera combinada. A un paciente no se lo trata con un único fármaco sino con una combinación de ellos. Conocida la _probabilidad_ de que responda a un determinado tratamiento, ¿cuál sería la de que responda a una combinación de ellos?
 
 ![](/img/2011/08/probability_combination.png#center)
 

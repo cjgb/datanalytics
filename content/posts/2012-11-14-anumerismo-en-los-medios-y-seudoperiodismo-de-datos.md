@@ -27,7 +27,7 @@ Vamos con un ejemplo. Hoy he leído lo siguiente en el periódico:
 
 >La demanda petrolera mundial aumentará un 14% hasta 2035. La demanda alcanzará los 99,7 millones de barriles diarios, unos 700.000 más que en la actualidad, sobre todo por el repunte del consumo relacionado con el transporte, según ha anunciado este lunes la Agencia internacional de la Energía.
 
-Un horror de resumen. Engañoso. Y fatalista. Es fatalista porque da la impresión de que no hay alternativas: estamos abocados a consumir 100 millones de barriles al día en 2035. Si embargo, no es cierto que eso sea lo que dice la AIE. Por eso es engañoso.
+Un horror de resumen. Engañoso. Y fatalista. Es fatalista porque da la impresión de que no hay alternativas: estamos abocados a consumir 100 millones de barriles al día en 2035. Sin embargo, no es cierto que eso sea lo que dice la AIE. Por eso es engañoso.
 
 La AIE es bastante más sofisticada —puede que ahí esté el problema— de lo que toleran esos burdos embudos de la información que es en lo que se convierten nuestros periodistas. La AIE —y [de eso hablamos hace un tiempo, en el 2010](https://datanalytics.com/2011/02/03/energia-y-medio-ambiente-en-2035-algunos-numeros/)— plantea tres escenarios posibles:
 

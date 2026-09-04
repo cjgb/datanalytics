@@ -29,12 +29,11 @@ Quiero construir un [intervalo de credibilidad](http://en.wikipedia.org/wiki/Cre
 
 Gráficamente,
 
-[![cred_beta](/img/2015/04/cred_beta.png#center)
-](/img/2015/04/cred_beta.png#center)
+![cred_beta](/img/2015/04/cred_beta.png#center)
 
 Y he aquí el código:
 
-{{< highlight R >}}
+```r
 a <- 3
 b <- 5
 
@@ -56,7 +55,7 @@ lines(c(res$par[2], res$par[2]),
       c(0, dbeta(res$par[2], a, b)), col = "red")
 lines(c(res$par[1], res$par[2]),
       rep(dbeta(res$par[2], a, b), 2), col = "red")
-{{< / highlight >}}
+```
 
 
 La función que se optimiza tiene como argumentos los puntos inicial y final del intervalo y penaliza:

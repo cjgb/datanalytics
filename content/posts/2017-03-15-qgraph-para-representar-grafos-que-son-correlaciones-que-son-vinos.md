@@ -23,7 +23,7 @@ url: /2017/03/15/qgraph-para-representar-grafos-que-son-correlaciones-que-son-vi
 
 Me vais a permitir que escriba una entrada sin mayores pretensiones, inspirada en y adaptada de [aquí](https://dmwiig.net/2017/03/10/the-r-qgraph-package-using-r-to-visualize-complex-relationships-among-variables-in-a-large-dataset-part-one/) y que sirva solo para representar correlaciones entre variables podemos recurrir a los grafos como en
 
-{{< highlight R >}}
+```r
 library(qgraph)
 wine.quality <- read.csv("https://goo.gl/0Fz1S8",
                             sep = ";")
@@ -31,7 +31,7 @@ qgraph(cor(wine.quality), shape= "circle",
         posCol = "darkgreen",
         negCol= "darkred", layout = "groups",
         vsize=13)
-{{< / highlight >}}
+```
 
 que pinta
 

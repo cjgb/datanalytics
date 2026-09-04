@@ -18,7 +18,7 @@ title: Un artículo que está esperando a ser escrito
 url: /2017/12/07/un-articulo-que-esta-esperando-a-ser-escrito/
 ---
 
-Alguno de mis lectores, supongo, estará metido en ese mundo de ir escribiendo cosas y cosechado méritos, impactos y _anecosas_ para salir del precariado y pillar moscosos. Que dejen de leer. Es una orden.
+Alguno de mis lectores, supongo, estará metido en ese mundo de ir escribiendo cosas y cosechado méritos, impactos y _anécdotas_ para salir del precariado y pillar moscosos. Que dejen de leer. Es una orden.
 
 A aquellos que tengan tiempo y talento los invito a escribir el artículo titulado _Temperaturas umbrales de disparo de la mortalidad atribuible al frío y al calor en España en el periodo 2007-2017_.
 

@@ -21,12 +21,12 @@ url: /2017/02/07/una-mala-manera-de-perder-un-par-de-horas/
 
 Es esta:
 
-{{< highlight R >}}
+```r
 156.67 * 100
 # 15667
 as.integer(156.67 * 100)
 #15666
-{{< / highlight >}}
+```
 
 Claro, hay que leer `?as.integer` para enterarte de que, en realidad, la función que quieres usar es `round`.
 

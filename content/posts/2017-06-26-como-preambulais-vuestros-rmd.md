@@ -21,7 +21,7 @@ url: /2017/06/26/como-preambulais-vuestros-rmd/
 
 Yo nunca me había preocupado demasiado de eso (salvo en las presentaciones, para la que uso [`revealjs`](http://rmarkdown.rstudio.com/revealjs_presentation_format.html) y que son otra historia), pero el otro día me pasaron y vi el efecto de
 
-{{< highlight yaml >}}
+```yaml
 ---
 title: "Mi título"
 author: "Yo Me Mí Conmigo"
@@ -35,7 +35,7 @@ output:
     theme: united
     highlight: tango
 ---
-{{< / highlight >}}
+```
 
 y las cosas van a cambiar para siempre.
 

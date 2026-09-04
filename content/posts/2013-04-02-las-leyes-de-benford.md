@@ -18,7 +18,7 @@ title: Las leyes de Benford
 url: /2013/04/02/las-leyes-de-benford/
 ---
 
-Escriribé hoy sobre las leyes de Benford. Así, en plural.
+Escribiré hoy sobre las leyes de Benford. Así, en plural.
 
 Porque cuando [escribí sobre la Ley de Benford](https://datanalytics.com/2011/09/15/la-ley-de-benford/) hace un tiempo, indiqué cómo la frecuencia de cada primer dígito es decreciente (del 1 al 9) siempre que la función de densidad de la serie de los números que se investigue sea ella misma decreciente. Este resultado trivial bien podría llamarse _Ley Débil de Benford_.
 

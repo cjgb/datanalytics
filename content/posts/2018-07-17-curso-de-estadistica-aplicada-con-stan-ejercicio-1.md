@@ -24,11 +24,11 @@ A primeros de julio impartí un [curso de estadística bayesiana aplicada con St
 
 En un país, se extrae una muestra de 2000 hombres y mujeres con la siguiente distribución:
 
-{{< highlight R >}}
+```r
 men   <- 170 + 3 * rt(1000, 6)
 women <- 160 + 2 * rt(1000, 5)
 heights <- c(men, women)
-{{< / highlight >}}
+```
 
 
 Ajusta una distribución (una mezcla de dos distribuciones de Student) usando los datos anteriores, i.e., `heights`. Puedes suponer conocidos:

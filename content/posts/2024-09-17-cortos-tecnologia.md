@@ -28,7 +28,7 @@ url: /2024/09/17/cortos-tecnologia/
 
 En [_SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL_](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/) se propone cambiar
 
-{{< highlight sql >}}
+```sql
 SELECT c_count, COUNT(*) AS custdist
 FROM
     ( SELECT c_custkey, COUNT(o_orderkey) c_count
@@ -39,11 +39,11 @@ FROM
     ) AS c_orders
 GROUP BY c_count
 ORDER BY custdist DESC, c_count DESC;
-{{< / highlight >}}
+```
 
 por
 
-{{< highlight sql >}}
+```sql
 FROM customer
 |> LEFT OUTER JOIN orders ON c_custkey = o_custkey
         AND o_comment NOT LIKE '%unusual%packages%'
@@ -52,6 +52,6 @@ FROM customer
 |> AGGREGATE COUNT(*) AS custdist
    GROUP BY c_count
 |> ORDER BY custdist DESC, c_count DESC;
-{{< / highlight >}}
+```
 
 ¿Mejora?

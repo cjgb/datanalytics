@@ -32,7 +32,7 @@ extraído de la página enlazada más arriba resume parte de los resultados. No 
 
 [Aquí](https://matloff.wordpress.com/2015/11/15/partools-recommender-systems-and-more/) y en sus enlaces se habla de una manera más sofisticada de corregir ese sesgo: modelos mixtos. Tales como
 
-{{< highlight R >}}
+```r
 library(xlsx)
 library(reshape2)
 library(lme4)
@@ -70,7 +70,7 @@ ranking <- ranking[order(-ranking$nota),]
 modelo <- lmer(nota ~ 1 + (1|usuario) + (1|droga), data = dat)
 
 dotplot(ranef(modelo, condVar = TRUE))
-{{< / highlight >}}
+```
 
 que produce, entre otros, el gráfico
 

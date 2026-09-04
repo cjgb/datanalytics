@@ -35,7 +35,7 @@ $$\forall i \ne j, \left| i - j \right| \ne \left| \sigma(i) - \sigma(j) \right|
 
 El código de SAS con el que resuelven este problema es así de estético, expresivo y comprensible:
 
-{{< highlight sas >}}
+```sas
 %Macro FirstOf(List);%Scan(&List;,1)%Mend;
 %Macro RestOf(List);
   %Local lth;
@@ -73,11 +73,11 @@ El código de SAS con el que resuelven este problema es así de estético, expre
 
 %let c=0;
 %qIter(PartialSolution=,List=1 2 3 4 5 6 7 8,Level=1,CounterName=c)
-{{< / highlight >}}
+```
 
 Pero me he entretenido en implementar el mismo algoritmo con R y he aquí el resultado:
 
-{{< highlight R >}}
+```r
 perm <- function( p, l ){
   foo <- function( x )
     ( a <- length( p ) ) == 0 || all( abs( a:1 ) != abs( l[x] - p ) )
@@ -90,6 +90,6 @@ perm <- function( p, l ){
 }
 
 perm(c(),1:8 )
-{{< / highlight >}}
+```
 
 No hay más color que el del resaltador de sintaxis, creo. Y en cuanto a la introducción del artículo, serán mis lectores los que habrán de decidir si tiene más que ver con las nueve que con las ocho reinas.

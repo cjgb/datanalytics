@@ -22,7 +22,7 @@ url: /2018/05/11/cis-ideologia-graficos-y-si-este-blog/
 
 Si no estáis suscritos a [`@politibot`](https://politibot.io/) en Telegram, hacedlo (y si no usáis Telegram, hacedlo también).
 
-Hoy hablanban del último barómetro del CIS y han tenido la gentileza de mencionarme:
+Hoy hablaban del último barómetro del CIS y han tenido la gentileza de mencionarme:
 
 ![](/img/2018/05/Screenshot_2018-05-10_17-26-10.png#center)
 

@@ -25,24 +25,23 @@ Imagina que trabajas en lo que Ionnidis, en su artículo [_Why Most Published Re
 
 Aun en esas circunstancias es posible, [como comentábamos ayer](https://datanalytics.com/2012/08/23/ajustar-o-no-ajustar-esta-es-la-cuestion/), comenzar a plantear hipótesis, muchas hipótesis. Realizar un test de Student sobre cada una de ellas es como ejecutar la función
 
-{{< highlight R >}}
+```r
 foo <- function(){
     x <- rnorm( 100 )
     y <- rnorm( 100 )
     t.test( x, y, alternative = "greater" )$p.value
 }
-{{< / highlight >}}
+```
 
 ¿Y qué pasa si se ejecuta _muchas_ veces? Esto:
 
-{{< highlight R >}}
+```r
 plot(sort(replicate(1000, foo())))
-{{< / highlight >}}
+```
 
 Que gráficamente, para los perezosos, tiene esta pinta:
 
-[![](/img/2012/08/p_values.png#center)
-](/img/2012/08/p_values.png#center)
+![](/img/2012/08/p_values.png#center)
 
 Este gráfico pone de manifiesto que los p-valores obtenidos siguen una ley uniforme (en [0,1]) tal y como cabe esperar de la teoría. Porque el p-valor no es otra cosa que $F^{-1}(X)$ donde en este caso, bajo la hipótesis nula, $X$ tiene la distribución dada por $F$.
 

@@ -29,7 +29,7 @@ Hace un tiempo quise hacer cosas malísimas con datos fiscales de España y Dina
 
 Gracias a [Freakonometrics](https://freakonometrics.hypotheses.org/18859) di con [`binequality`](https://cran.r-project.org/package=binequality). Adaptando su código, escribo
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(plyr)
 
@@ -76,11 +76,11 @@ irpf_dk$mean_income <- irpf_dk$income /
         irpf_dk$contribuyentes * 1000
 
 irpf_dk$rango <- NULL
-{{< / highlight >}}
+```
 
 para bajar y preprocesar los datos y después
 
-{{< highlight R >}}
+```r
 library(binequality)
 
 irpf_dk <- irpf_dk[-1,]
@@ -107,7 +107,7 @@ for(i in 1:(n-1))
     rect(irpf_dk$desde[i],0,
         irpf_dk$hasta[i], y2[i],
         col = rgb(1,0,0,.2), border="white")
-{{< / highlight >}}
+```
 
 
 
@@ -116,4 +116,4 @@ para obtener, entre otras cosas y sin mayores pretensiones gráficas,
 ![](/img/2018/09/distr_irfp_dk.png#center)
 
 
-**Nota:** La distribución no ajusta bien, incluso después de un truco sucio en alguna parte del código para cargarme la parte más fea de la distrbución. Queda ahí no más como código de ejemplo.
+**Nota:** La distribución no ajusta bien, incluso después de un truco sucio en alguna parte del código para cargarme la parte más fea de la distribución. Queda ahí no más como código de ejemplo.

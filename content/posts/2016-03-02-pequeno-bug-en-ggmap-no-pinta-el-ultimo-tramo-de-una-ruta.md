@@ -26,7 +26,7 @@ La mayor parte del mérito en el descubrimiento, en cualquier caso, es de una al
 Y el _bug_ se manifiesta así:
 
 
-{{< highlight R >}}
+```r
 library(ggmap)
 
 mapa <- get_map("calle Embajadores 10, Madrid", zoom = 18)
@@ -51,7 +51,7 @@ ggmap(mapa) + geom_path(data = ruta2,
     y = startLat,
     xend = endLon,
     yend = endLat))
-{{< / highlight >}}
+```
 
 que es un código que pinta
 

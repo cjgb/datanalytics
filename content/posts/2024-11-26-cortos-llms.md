@@ -46,7 +46,7 @@ Se entiende mejor recurriendo a las categorías de revolución científica y de 
 
 Es probable que esto del _prompt engineering_ sea flor de un día y que en un futuro próximo todo lo que hayamos aprendido al respecto se convierta en papel mojado. No obstante, aún sigue siendo importante y aquí hay una serie de recursos útiles sobre técnicas que aún funcionan para mejorar los _prompts_ (todos ellos relativos a Claude, que se ha convertido en mi LLM _por defecto_):
 
-1. [Un tutorial interactivo de Anthropicl](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+1. [Un tutorial interactivo de Anthropic](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 1. [Consejos específicos para "prompts" con modelos de contexto muy grande](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)
 1. [Los "prompts" de sistema de distintos modelos de Anthropic](https://docs.anthropic.com/en/release-notes/system-prompts)
 

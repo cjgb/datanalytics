@@ -21,7 +21,7 @@ url: /2014/12/09/ruido-en-las-estadisticas-oficiales/
 
 Hacía tiempo que no hablaba de este tema. Pero han salido de mi LIFO de artículos potencialmente interesantes dos a los que merece la pena echar un ojo. El primero, [este](http://www.voxeu.org/article/uncertainty-official-statistics), arranca con
 
-> Los organismos estadísticos gubernamentales suelen publicar los estimdores puntuales de las estadísticas económicas oficiales. La documentación metodológica de dichos organismos puede hacer constar que estas estimaciones están sujetas a incertidumbre, pero no suelen cuantificarla. Las notas de prensa raramente discuten el error potencial.
+> Los organismos estadísticos gubernamentales suelen publicar los estimadores puntuales de las estadísticas económicas oficiales. La documentación metodológica de dichos organismos puede hacer constar que estas estimaciones están sujetas a incertidumbre, pero no suelen cuantificarla. Las notas de prensa raramente discuten el error potencial.
 
 e incluye un ejemplo estupendo de buenas prácticas:
 

@@ -27,13 +27,13 @@ Los datos están [aquí](http://opendata.emtmadrid.es/Datos-estaticos/Datos-gene
 
 Se puede leer con código no muy distinto de este:
 
-{{< highlight R >}}
+```r
 library(RJSONIO)
 
 raw <- readLines("201808_Usage_Bicimad.json")
 dat <- iconv(raw, "latin1", "utf8")
 dat <- sapply(dat, fromJSON)
-{{< / highlight >}}
+```
 
 A bote pronto, se me ocurren algunas cosas que se pueden hacer con esos datos:
 

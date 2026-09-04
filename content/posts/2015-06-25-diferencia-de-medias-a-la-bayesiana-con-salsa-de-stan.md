@@ -30,7 +30,7 @@ $$ y_{ji} \sim N(\mu_j, \sigma)$$
 
 e interesa saber si $\mu_1 = \mu_2$. Obviamente, se desconoce $\sigma$. De [cómo resolvió Gosset](https://datanalytics.com/2012/09/13/gosset-el-remuestreador-de-la-infinita-paciencia/) el problema están los libros de estadística llenos. En R,
 
-{{< highlight R >}}
+```r
 set.seed(1234)
 N1 <- 50
 N2 <- 50
@@ -53,11 +53,11 @@ t.test(y1, y2)
 # sample estimates:
 #   mean of x  mean of y
 # 0.5469470 -0.3604705
-{{< / highlight >}}
+```
 
 En [`rstan`](http://mc-stan.org/rstan.html),
 
-{{< highlight R >}}
+```r
 library(rstan)
  
 standat <- list(N1 = length(y1),
@@ -102,13 +102,13 @@ fit <- stan(model_code = stanmodelcode,
             data = standat,
             iter=12000, warmup=2000,
             chains=4, thin=10)
-{{< / highlight >}}
+```
 
 La parte más importante es `model` que, como las demás, es autoexplicativa y muy natural (tal vez, excepto la un tanto artificiosa selección de las distribuciones a priori, no particularmente informativas). Además, y esto es de lo más importante, fácilmente generalizable a otras situaciones.
 
 El resultado de la cosa es
 
-{{< highlight R >}}
+```r
 print(fit)
 # Inference for Stan model: stanmodelcode.
 # 4 chains, each with iter=12000; warmup=2000; thin=10;
@@ -125,19 +125,18 @@ print(fit)
 # For each parameter, n_eff is a crude measure of effective sample size,
 # and Rhat is the potential scale reduction factor on split chains (at
 # convergence, Rhat=1).
-{{< / highlight >}}
+```
 
 donde puede apreciarse que la estimación de las medias, el intervalo de confianza de la diferencia de medias (`diff`), etc., prácticamente coinciden con los del `t.test` de más arriba. En efecto, los cuantiles 2.5 y 97.5 de `diff` son -1.30 y -0.51, mientras que los que arroja el test de Student son 0.5246427 y 1.2901923.
 
 Además,
 
-{{< highlight R >}}
+```r
 pairs(fit, pars=c("mu", "sigma1", "sigma2", "diff"))
-{{< / highlight >}}
+```
 
 produce
 
-[![posterior](/img/2015/06/posterior.png#center)
-](/img/2015/06/posterior.png#center)
+![posterior](/img/2015/06/posterior.png#center)
 
 que es la mar de resultón.

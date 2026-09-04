@@ -22,7 +22,7 @@ url: /2016/11/11/cuanto-tarda-en-ejecutarse-este-codigo/
 
 Es:
 
-{{< highlight R >}}
+```r
 library(future)
 
 plan(multiprocess, workers = 4)
@@ -38,7 +38,7 @@ system.time({
 
   res <- sapply(list(a1, a2, a3, a4, a5, a6, a5), value)
 })
-{{< / highlight >}}
+```
 
 Piensa antes las posibles opciones:
 

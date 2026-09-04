@@ -21,10 +21,10 @@ url: /2020/06/02/no-hagais-esto-o-se-daran-cuenta-de-que-sois-muy-cutres/
 
 Lo que no hay que hacer nunca si no quieres que se enteren de que eres inmensamente cutre es escribir código en las líneas del siguiente seudocódigo:
 
-{{< highlight R >}}
+```r
 m = model(y ~ a + b + c)
 if (modelo.p_value(a) > .05)
     m = model(y ~ b + c)
-{{< / highlight >}}
+```
 
 ¡No, no, no, no, **NO**!

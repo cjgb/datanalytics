@@ -25,7 +25,7 @@ Sigo con mi [lacónica serie sobre `data.table`](https://datanalytics.com/2013/0
 
 La protagonista:
 
-{{< highlight R >}}
+```r
 frases[sample(1:nrow(frases), 3),]
 #pos.es pos.en length.es length.en en        es frase          tfe      qjilm          num
 #1:     15     43        72        72  i        de  2632 4.881416e-02 0.01369863 6.686871e-04
@@ -33,11 +33,11 @@ frases[sample(1:nrow(frases), 3),]
 #3:      2     35        53        66 in preguntar  4582 2.424379e-08 0.01492537 3.618476e-10
 dim(frases)
 #[1] 6340091      10
-{{< / highlight >}}
+```
 
 El tiempo:
 
-{{< highlight R >}}
+```r
 system.time({
     setkey(frases, "frase", "es")
     denominadores <- frases[, sum(num), by = key(frases)]
@@ -47,14 +47,14 @@ system.time({
 })
 #user  system elapsed
 #5.628   0.208   5.841
-{{< / highlight >}}
+```
 
 En particular,
 
-{{< highlight R >}}
+```r
 system.time( denominadores <- frases[, sum(num), by = key(frases)] )
 #user  system elapsed
 #0.228   0.000   0.228
-{{< / highlight >}}
+```
 
 Increíble, ¿no?

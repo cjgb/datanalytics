@@ -26,7 +26,7 @@ Diríase que sí. La altura de un individuo está sujeta a multitud de factores 
 Y en efecto, (una vez descargados los [microdatos de la Encuesta Nacional de Salud de 2011](http://www.msssi.gob.es/estadisticas/microdatos.do)),
 
 
-{{< highlight R >}}
+```r
 adultos <- readLines("MicrodatoAdultos.txt")
 
 sexo <- substring(adultos, 14, 14)
@@ -39,27 +39,25 @@ alturas <- alturas[alturas$altura < 900,]
 
 qqnorm(alturas$altura)
 qqline(alturas$altura, distribution = qnorm, col = "red")
-{{< / highlight >}}
+```
 
 produce
 
-[![qqnorm_alturas](/img/2015/07/qqnorm_alturas.png#center)
-](/img/2015/07/qqnorm_alturas.png#center)
+![qqnorm_alturas](/img/2015/07/qqnorm_alturas.png#center)
 
 donde, efectivamente, constatamos la normalidad de los datos con una pequeña salvedad: que hay individuos más bajos de lo esperado. Eso resta a nuestro argumento, pero no mucho. Diríase que son individuos afectados por un único efecto (¿genético?) poderoso que viola el principio de la suma de pequeños efectos independientes de más arriba.
 
 ¿Estamos satisfechos, pues, con lo de la normalidad de los datos? Si hacemos
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 ggplot(alturas, aes(x = altura, fill = sexo)) +
     geom_density(alpha = 0.5)
-{{< / highlight >}}
+```
 
 obtenemos
 
-[![alturas_sexo](/img/2015/07/alturas_sexo.png#center)
-](/img/2015/07/alturas_sexo.png#center)
+![alturas_sexo](/img/2015/07/alturas_sexo.png#center)
 
 y advertimos dos cosas. La primera es que algunos datos de altura están anotados _a ojo_: los picos que se aprecian corresponden a alturas redondeadas a la decena más próxima. Pero también que lo que creíamos una única distribución normal es, en realidad, la mezcla de dos: la de las alturas de los hombres y la de las mujeres.
 

@@ -21,7 +21,7 @@ Este documento consta de 2232 caracteres. Al escribirlo, he incrementado la cant
 
 Quien compone una canción, la incrementa en unos 4 MB. Y así, todos, diariamente, al escribir un correo electrónico, al hacernos una radiografía, terminar ese dichoso informe, o, incluso, comprar con la tarjeta de crédito incrementamos --consciente o inconscientemente-- dicha cantidad de información.
 
-¿A cuánto asciende ésta? ¿Es posible cuantificarla? Para tratar de dar una respuesta a estas preguntas, la [Universidad de Berkeley](http://www.berkeley.edu) realizó dos estudios, uno en [1999](http://www2.sims.berkeley.edu/research/projects/how-much-info/index.html) y otro en [2003](http://www2.sims.berkeley.edu/research/projects/how-much-info-2003/), a los que merece la pena echar un vistazo y del que se han extraido los siguientes datos:
+¿A cuánto asciende ésta? ¿Es posible cuantificarla? Para tratar de dar una respuesta a estas preguntas, la [Universidad de Berkeley](http://www.berkeley.edu) realizó dos estudios, uno en [1999](http://www2.sims.berkeley.edu/research/projects/how-much-info/index.html) y otro en [2003](http://www2.sims.berkeley.edu/research/projects/how-much-info-2003/), a los que merece la pena echar un vistazo y del que se han extraído los siguientes datos:
 
 
 ### Cantidad de información original producida al año
@@ -34,7 +34,7 @@ Quien compone una canción, la incrementa en unos 4 MB. Y así, todos, diariamen
 
 ### Flujos de información
 
-* Los flujos de información —información que fluye pero que no se almacena neceariamente— alcanzó los 18 exabytes.
+* Los flujos de información —información que fluye pero que no se almacena necesariamente— alcanzó los 18 exabytes.
 * El 92% de ellos correspondieron a conversaciones telefónicas.
 * La radio generó 3.500 terabytes de información original y la televisión, 70.000 terabytes en unos 31 millones de horas de emisión original.
 * La [internet visible](http://www.absysnet.com/tema/tema34.html) contiene 170 terabytes de información.

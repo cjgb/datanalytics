@@ -24,25 +24,25 @@ Supongo que a estas alturas todos conoceréis [`feather`](http://blog.rstudio.or
 
 Primero solo en R:
 
-{{< highlight R >}}
+```r
 library(feather)
 path <- "/tmp/my_data.feather"
 write_feather(cars, path)
 my_cars <- read_feather(path)
-{{< / highlight >}}
+```
 
 Ahora, para pasarle datos a Python:
 
-{{< highlight R >}}
+```r
 library(rPython)
 python.exec("import feather")
 python.exec("a = feather.read_dataframe('/tmp/my_data.feather')")
 python.exec("print a")
-{{< / highlight >}}
+```
 
-Y, finalmente, para crear datos _grandes_ en Python y devolvéselos a R:
+Y, finalmente, para crear datos _grandes_ en Python y devolvérselos a R:
 
-{{< highlight R >}}
+```r
 python.exec("import numpy as np")
 python.exec("import pandas as pd")
 python.exec("arr = np.random.randn(10000000)")
@@ -53,6 +53,6 @@ python.exec("feather.write_dataframe(df, '/tmp/test.feather')")
 python.data <- read_feather("/tmp/test.feather")
 dim(python.data)
 #[1] 10000000       10
-{{< / highlight >}}
+```
 
 Los tiempos, que los mida cada cual.

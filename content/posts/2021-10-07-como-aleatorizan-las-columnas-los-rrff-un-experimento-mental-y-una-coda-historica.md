@@ -24,12 +24,12 @@ url: /2021/10/07/como-aleatorizan-las-columnas-los-rrff-un-experimento-mental-y-
 
 Tienes una variable binaria `y` y 100 variables predictoras de las cuales 99 son puro ruido y la última es igual a `y`. En código,
 
-{{< highlight R >}}
+```r
 n <- 1000
 y <- as.factor(rbinom(n, 1, .4))
 x <- matrix(rnorm(n*100), n, 100)
 x[,100] <- y
-{{< / highlight >}}
+```
 
 El objetivo consiste, obviamente, en predecir `y` en función de `x`.
 
@@ -47,9 +47,9 @@ De hecho, si se tratan de estimar las probabilidades de las prediciones, se esta
 
 **IV. Aleatorización por cortes**
 
-Una altarnativa a lo anterior consiste en aleatorizar por cortes. En cada corte de cada árbol se eligen al azar 10 columnas y entre ellas se elige la _óptima_. Eso es lo que hace `ranger`, `randomForest`, etc. El problema plantado por nuestro experimento mental prácticamente desaparece: las predicciones son correctas siempre con los argumentos estándar y las probabilidades de asignación son cercanas al 100%.
+Una alternativa a lo anterior consiste en aleatorizar por cortes. En cada corte de cada árbol se eligen al azar 10 columnas y entre ellas se elige la _óptima_. Eso es lo que hace `ranger`, `randomForest`, etc. El problema plantado por nuestro experimento mental prácticamente desaparece: las predicciones son correctas siempre con los argumentos estándar y las probabilidades de asignación son cercanas al 100%.
 
-(De acuerdo con esto, usando árboles poco profundos, en el fondo, se está utilzando prácticamente la aleatorización por árboles en lugar de por cortes; eso explica la nota de la sección anterior.)
+(De acuerdo con esto, usando árboles poco profundos, en el fondo, se está utilizando prácticamente la aleatorización por árboles en lugar de por cortes; eso explica la nota de la sección anterior.)
 
 **V. Nota histórica**
 

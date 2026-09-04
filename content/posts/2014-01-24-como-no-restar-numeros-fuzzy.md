@@ -24,7 +24,7 @@ url: /2014/01/24/como-no-restar-numeros-fuzzy/
 
 Esta entrada viene motivada por varios asuntos relacionados que me han sucedido en los últimos tiempos. El primero es un colega que me preguntó sobre si el paro había subido o bajado comparando datos de un par de trimestres.
 
-La respuesta _prima facie_ es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error. Es decir, existen infinitas _trayectorias posibles_ entre las tasas de paro _reales_ (pero desconocidas) de los dos trimestres. En térmimos matemáticos, la variación de la tasa de paro es $X_1 - X_0$, la diferencia de (presuntamente) dos variables aleatorias normales, que es otra variable aleatoria normal con colas que se extienden a ambos lados del cero.
+La respuesta _prima facie_ es evidente: restas las tasas publicadas y ya. Sin embargo, las cosas son un poco más complicadas si se tiene en cuenta que la EPA tiene un error. Es decir, existen infinitas _trayectorias posibles_ entre las tasas de paro _reales_ (pero desconocidas) de los dos trimestres. En términos matemáticos, la variación de la tasa de paro es $X_1 - X_0$, la diferencia de (presuntamente) dos variables aleatorias normales, que es otra variable aleatoria normal con colas que se extienden a ambos lados del cero.
 
 ¡La respuesta ya no es tan simple!
 
@@ -36,7 +36,7 @@ El segundo asunto es [este](https://github.com/Rexamine/FuzzyNumbers), es decir,
 
 De igual manera, podemos decir que la tasa de paro está _alrededor_ del 26%. Así que veamos qué nos pueden ofrecer estos números raros:
 
-{{< highlight R >}}
+```r
 library(FuzzyNumbers)
 
 A <- TrapezoidalFuzzyNumber(0, 1, 2, 3)
@@ -44,12 +44,11 @@ B <- TrapezoidalFuzzyNumber(1, 2, 3, 3.5)
 plot(A, xlim = c(-3,4))
 plot(B, add = TRUE, col = 2, lty = 2)
 plot(B - A, add = TRUE, col= "green", lty = 4)
-{{< / highlight >}}
+```
 
 En el código anterior he creado dos números _fuzzy_ trapezoidales. Luego los he restado y la salida es otro número trapezoidal. La representación gráfica de los tres es (con la diferencia en verde):
 
-[![fuzzy_difference](/img/2014/01/fuzzy_difference.png#center)
-](/img/2014/01/fuzzy_difference.png#center)
+![fuzzy_difference](/img/2014/01/fuzzy_difference.png#center)
 
 Lo cual, si se me permite, es una chapuza. No sé de dónde ha salido esa teoría _fuzzy_ y si quienes tuvieron la desvergüenza de ponerla en negro sobre blanco habían oído hablar del concepto de distribución de probabilidad. Malo es reinventar la rueda, pero peor es reinventarla cuadrada, ¿no? En particular:
 

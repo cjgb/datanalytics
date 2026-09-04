@@ -28,8 +28,7 @@ _[everis](http://www.everis.com/spain/es-ES/inicio/Paginas/inicio.aspx) y [Madri
 
 La competición consiste en crear soluciones innovadoras a partir del uso de datos abiertos. MADdata pondrá a disposición de cada participante datos de la ciudad de Madrid, procedentes del portal de datos abiertos del Ayuntamiento, de servicios públicos, de transporte y movilidad y de redes sociales._
 
-[![maddata](/img/2014/07/maddata.png#center)
-](/img/2014/07/maddata.png#center)
+![maddata](/img/2014/07/maddata.png#center)
 
 La [inscripción](https://www.eventbrite.es/e/entradas-maddata-11446383441?ref=ecount) está abierta hasta el 25 de julio de 2014.
 
@@ -37,4 +36,4 @@ Finalmente, he aquí una frase del anuncio que me hace mucha gracia:
 
 _Estos datos estarán disponibles para todos los participantes y van a ser enriquecidos a través de capacidades analíticas y _Big Data_._
 
-¡_Big Data_! ¡Chachi! ¿A cuál de los patrocinadores o patrocinadores deberemos esa tan _necesaria_ apostilla?
+¡_Big Data_! ¡Chachi! ¿A cuál de los patrocinadores deberemos esa tan _necesaria_ apostilla?

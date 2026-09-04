@@ -21,7 +21,7 @@ title: Explicación de modelos como procedimiento para aportar valor a un "scori
 url: /2020/10/09/explicacion-de-modelos-como-procedimiento-para-aportar-valor-a-un-scoring/
 ---
 
-El principal asunto preambular en todo lo que tiene que ver con la explicación de modelos es _ético_ (ético en la versión ñoña de la palabra, hay que dejar claro). Pero tiene sentido utilizar  técnicas de explicación de modelos para aportarles valor añadido. En particular, un modelo puede proporcionar un determinado _scoring_, pero se le puede pedir más: se le puede pedir una descripción de los motivos que justifican ese _scoring_, particularísimanete, en los casos más interesantes: los valores más altos / bajos.
+El principal asunto preambular en todo lo que tiene que ver con la explicación de modelos es _ético_ (ético en la versión ñoña de la palabra, hay que dejar claro). Pero tiene sentido utilizar  técnicas de explicación de modelos para aportarles valor añadido. En particular, un modelo puede proporcionar un determinado _scoring_, pero se le puede pedir más: se le puede pedir una descripción de los motivos que justifican ese _scoring_, particularísimamente, en los casos más interesantes: los valores más altos / bajos.
 
 Así en uno de [nuestros](https://circiter.es) últimos proyectos: acompañamos a cada uno de nuestros _scorings_ de una serie de causas y sus correspondientes pesos en la decisión final.
 

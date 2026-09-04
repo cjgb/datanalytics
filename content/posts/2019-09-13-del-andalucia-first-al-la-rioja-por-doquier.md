@@ -38,7 +38,7 @@ Que es un conocimiento que cabe esperar en un lector atento de [Kahneman y cía]
 
 Y, por referencia, el código:
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(reshape2)
 library(plyr)
@@ -67,4 +67,4 @@ res <- na.omit(res)
 res <- res[order(res$sd),]
 dotchart(100 * res$sd, labels = res$ccaa,
             main = "sd incremento (%)\nsociedades mercantiles")
-{{< / highlight >}}
+```

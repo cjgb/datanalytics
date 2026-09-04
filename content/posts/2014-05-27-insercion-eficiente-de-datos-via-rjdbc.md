@@ -28,7 +28,7 @@ Estos días me ha tocado subir a una base de datos tablas bastante grandes y las
 
 El código que he preparado es (se parece a) el siguiente:
 
-{{< highlight R >}}
+```r
 library(RJDBC)
  
 conn <- dbConnect(drv, connection.string, user, password)
@@ -62,7 +62,7 @@ for(i in 1:nrow(iris)){
 # commits
 .jcall(ps,"[I","executeBatch")
 dbCommit(conn)
-{{< / highlight >}}
+```
 
 Ahora, los comentarios.
 
@@ -74,9 +74,9 @@ Ahora, los comentarios.
 
 En el ejemplo anterior solo he insertado 150 filas. Para inserciones más grandes, habría que entreverar las líneas
 
-{{< highlight R >}}
+```r
 .jcall(ps,"[I","executeBatch")
 dbCommit(conn)
-{{< / highlight >}}
+```
 
 en el bucle para forzar un _commit_ cada, p.e., 10000 líneas. Siéntete libre de probar con otros valores.

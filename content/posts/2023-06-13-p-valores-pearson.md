@@ -32,13 +32,13 @@ Para resolverlo, usa ---¡por primera vez!--- el test de la $\chi^2$ para llegar
 
 Primero, los datos de partida:
 
-{{< highlight r >}}
+```r
 weldon <- c(
      185, 1149, 3265, 5475,
     6114, 5194, 3067, 1331,
      403,  105,   14,    4,
        0)
-{{< / highlight >}}
+```
 
 Esos datos, de estar los datos bien calibrados, deberían ser producto de un proceso estocástico
 
@@ -46,31 +46,31 @@ $$D \sim \text{multinomial}(p_0, \dots, p_{12})$$
 
 donde el vector $(p_i)$ es
 
-{{< highlight r >}}
+```r
 probs <- dbinom(0:12, 12, 1/3)
-{{< / highlight >}}
+```
 
 La probabilidad de la tirada en cuestión es
 
-{{< highlight r >}}
+```r
 p_weldon <- dmultinom(weldon, sum(weldon), probs)
 p_weldon
 #8.308909e-28
-{{< / highlight >}}
+```
 
 es decir, un número ínfimo. Aunque dicha probabilidad no nos dice gran cosa. De hecho, resultado más probable, el _central_ tiene una probabilidad igualmente ínfima:
 
-{{< highlight r >}}
+```r
 dmultinom(
     round(probs * sum(weldon)),
     sum(round(probs * sum(weldon))),
     probs)
 #3.682668e-19
-{{< / highlight >}}
+```
 
 Así que uno puede preguntarse: de repetirse el experimento del Sr. Weldon muchas veces, ¿en qué proporción de los casos se obtendría una probabilidad menor? Y para ello, basta con hacer
 
-{{< highlight r >}}
+```r
 res <- replicate(
   10000,
   dmultinom(
@@ -79,6 +79,6 @@ res <- replicate(
 
 mean(res < p_weldon)
 #1e-04
-{{< / highlight >}}
+```
 
 Y nada más. De modo que si Pearson hubiese tenido ordenadores, hoy estaríamos prestando más cuidado a modelar con mimo el proceso aleatorio que genera los datos y menos a buscar en recetarios de métodos que resuelven problemas que no nos paramos a pensar que ya no tenemos.

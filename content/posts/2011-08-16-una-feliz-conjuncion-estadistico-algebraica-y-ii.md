@@ -30,13 +30,13 @@ Entonces, la matriz $B$ puede descomponerse como una suma de matrices de estruct
 En el caso que estudiábamos el otro día, podemos hacer
 
 
-{{< highlight R >}}
+```r
 b.i <- function( i ) svd.b$d[i] * outer( svd.b$u[,i], svd.b$v[,i] )
 b.i( 1 ) # primer sumando
 b.i( 2 ) # segundo sumando
 
 b – ( b.i( 1 ) + b.i( 2 ) ) # la aproximación es razonable con la suma de dos componentes
-{{< / highlight >}}
+```
 
 
 
@@ -47,19 +47,19 @@ Nótese, además, cómo las componentes de $p_1$ y $q_1$ son (casi, casi) crecie
 Si el otro día descompusimos el valor del estadístico $\chi^2$ como la suma de los valores $\lambda_i^2$, ahora podemos advertir cómo $\lambda_1^2$ representa el 87 % del mismo y, por lo tanto, deducir que gran parte de la falta de independencia en la tabla se debe al efecto previamente identificado. Si tal efecto no existiese, entonces
 
 
-{{< highlight R >}}
+```r
 pchisq( sum( svd.b$d[-1]^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
 # 2.248518e-29
-{{< / highlight >}}
+```
 
 
 indica que la falta de independencia todavía sería significativa. Pero si no existiesen ninguno de los dos principales efectos, se tendría
 
 
-{{< highlight R >}}
+```r
 pchisq( sum( svd.b$d[-(1:2)]^2 ), (nrow( b ) -1 ) * (ncol( b ) -1 ), lower.tail = F )
 # 0.9692099
-{{< / highlight >}}
+```
 
 
 y no podría descartarse la hipótesis de independencia.
@@ -67,8 +67,7 @@ y no podría descartarse la hipótesis de independencia.
 Es habitual realizar una representación gráfica de los principales efectos, típicamente los dos primeros. Por ejemplo, el comando `biplot(corresp(a, nf = 2))` produce
 
 
-[![](/img/2011/08/biplot_correspondence_analysis.png#center)
-](/img/2011/08/biplot_correspondence_analysis.png#center)
+![](/img/2011/08/biplot_correspondence_analysis.png#center)
 
 
 

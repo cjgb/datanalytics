@@ -31,7 +31,7 @@ Por eso es relevante el siguiente problema (extraído de [aquí](https://statmod
 
 En el enlace anterior hay una solución _rápida_ para el problema. Pero es más tediosa que programarla _estilo bayesiano_,
 
-{{< highlight python >}}
+```python
 n <- 100
 
 foo <- function(n_correctas){
@@ -49,7 +49,7 @@ foo <- function(n_correctas){
 
 posteriori <- replicate(1000, foo(60))
 quantile(posteriori, c(.025, .975))
-{{< / highlight >}}
+```
 
 que da $[.34, .59]$. Nótese, además, que el intervalo de confianza ---ya sé, ya sé que algunos no lo queréis llamar _de confianza_, pero paso--- es más ancho que el que correspondería al de la peor encuesta _tradicional_, es decir, el que da `prop.test(50, 100)` y que es $[.40, 0.60]$.
 
@@ -66,6 +66,6 @@ Y el último es más técnico y, en tanto que ningún experto en encuestas se ma
 
 ### Coda
 
-Después de un intercambio de mensajes con [Picanúmeros](https://twitter.com/Picanumeros) en Twitter, me parece necesario volver a subrayar que el mecanismo de corrección del sesgo propuesto en esta entrada (e inspirado en el ejercicio que se menciona en ella) es solo uno ---y no el único--- y, en muchos casos, ni el más razonable siquiera. Efectivamnete, de ser universal, nunca habría una pregunta similar a las analizadas aquí con una tasa de acierto inferior al ~50%. Pero nos consta que las hay.
+Después de un intercambio de mensajes con [Picanúmeros](https://twitter.com/Picanumeros) en Twitter, me parece necesario volver a subrayar que el mecanismo de corrección del sesgo propuesto en esta entrada (e inspirado en el ejercicio que se menciona en ella) es solo uno ---y no el único--- y, en muchos casos, ni el más razonable siquiera. Efectivamente, de ser universal, nunca habría una pregunta similar a las analizadas aquí con una tasa de acierto inferior al ~50%. Pero nos consta que las hay.
 
 Es posible que sin una _priori_ justificable sobre los mecanismos del sesgo, reportar la tasa de respuesta _tal cual_ sea lo más conveniente: de ser todos los _mecanismos_ equiprobables, por pura simetría, sería difícil justificar uno que moviese el estimador en una dirección concreta.

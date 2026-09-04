@@ -26,7 +26,7 @@ Tal como prometí hace ahora una semana, voy a añadir las palabras que faltaban
 
 En la entrada original proponía tres juegos. El primero, descrito con código así,
 
-{{< highlight R >}}
+```r
 jugar <- function( n, make.step ){
   tmp <- rep( 0L, n)
   for( i in 2:n )
@@ -41,14 +41,14 @@ juego.s <- function( x, prob.perder = 0.51 ){
 res.juego.s <- replicate( 1000, jugar( 1000, juego.s )[1000] )
 hist( res.juego.s )
 fivenum( res.juego.s )
-{{< / highlight >}}
+```
 
 es simple: se tira una moneda y si sale cara, recibes un euro y, si sale cruz, lo pierdes. Aunque la moneda tiene un sesgo de manera que se gana/pierde con probabilidad 0.49/0.51. Como puede observarse, en el largo plazo se tiende a perder dinero si se juega repetidamente.
 
 El segundo juego es parecido al primero pero algo más complejo:
 
 
-{{< highlight R >}}
+```r
 juego.c <- function( x ){
   prob.perder <- ifelse( x %% 3 == 0, 0.905, 0.255 )
   juego.s( x, prob.perder )
@@ -58,7 +58,7 @@ res.juego.c <- replicate( 1000, jugar( 1000, juego.c )[1000] )
 
 hist( res.juego.c )
 fivenum( res.juego.c )
-{{< / highlight >}}
+```
 
 Se juega con dos monedas:
 
@@ -71,7 +71,7 @@ Así, si observamos el juego solo cuando la cantidad acumulada es múltiplo de t
 
 El tercero de los juegos es más interesante. Es similar a los anteriores, solo que utiliza una moneda más. En cada jugada, se tira la última moneda y, si sale cara (con probabilidad 0.5), se juega al primero de los juegos y, si sale cruz, al segundo:
 
-{{< highlight R >}}
+```r
 juego.fin <- function( x ){
   sample( c( juego.c, juego.s), 1 )[[1]](x)
 }
@@ -80,7 +80,7 @@ res.juego.fin <- replicate( 1000, jugar( 1000, juego.fin )[1000] )
 
 hist( res.juego.fin )
 fivenum( res.juego.fin )
-{{< / highlight >}}
+```
 
 Lo sorprendente de este juego es que, con él, ¡se gana dinero! Es decir, jugando al azar a uno u otro juego perdedores, puedes acabar jugando a un juego ganador.
 

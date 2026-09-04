@@ -27,4 +27,4 @@ Y, finalmente, cambios en la estética de estas páginas. ¡Ya era hora!
 
 Pero seguiré publicando noticias que sean del interés de mis lectores. ¡Eso sí que no cambia!
 
-(Nota: como en todo cambio, suceden _cosas_. En los próximos días tengo que retocar diveros aspectos de la nueva página: eliminar restos de etiquetas en inglés, etc. Así que si alguien descubre algo que no funciona adecuadamente... ¡agradezco los avisos!).
+(Nota: como en todo cambio, suceden _cosas_. En los próximos días tengo que retocar diversos aspectos de la nueva página: eliminar restos de etiquetas en inglés, etc. Así que si alguien descubre algo que no funciona adecuadamente... ¡agradezco los avisos!).

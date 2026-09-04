@@ -27,10 +27,10 @@ Mi primera línea de defensa contra las pérdidas de información es la sincroni
 
 `tiramisu` es máster; `kropotkin`, esclavo. Para sincronizar ambos, desde el segundo, periódicamente, ejecuto
 
-{{< highlight R >}}
+```r
 rsync -av -e "ssh -l carlos" --delete \
 carlos@192.168.0.192:/home/carlos/.bck/ .bck
-{{< / highlight >}}
+```
 
 Más interesante es cómo consigo mantener varias copias completas de los ~60GB de ficheros de `/home/carlos` en un disco duro extraíble de 160GB. De hecho, tengo dos copias anuales (junio y diciembre) desde el 2007 y algo así como mensuales durante el último año. Diríase que no caben, salvo que uno haga uso de los enlaces duros (vía, de nuevo, `ln`): guardo una única copia física de cada fichero, pero cada copia temporal contiene todos los ficheros.
 
@@ -49,7 +49,7 @@ Los ficheros de los directorios contenidos en `folders` son enlaces duros al fic
 
 Es decir:
 
-{{< highlight R >}}
+```r
 #!/bin/bash
 
 # Variable definitions
@@ -105,16 +105,16 @@ do
 done
 
 exit 0
-{{< / highlight >}}
+```
 
 El proceso tiene dos caveats. El primero es que estoy expuesto a [colisiones de _hash_](http://en.wikipedia.org/wiki/Collision_(computer_science)), algo que tengo sin solucionar y que me hace vivir peligrosamente. De hecho, me llena de orgullo eso de ser una persona tan sumamente sofisticada que uno de mis problemas potenciales sea explícitamente una colisión de _hash_.
 
 La segunda y más seria es que mantener +100k ficheros en un disco formateado con `ext3` hace que se degrade el rendimiento de los `ls` y comandos similares. La solución que he ideado recientemente —aunque reconozco que igual debería probar con otro sistema de ficheros más avanzado que `ext3`— consiste en utilizar el primer dígito del _hash_ como nombre de directorio (de manera que en `files` no tengo 100k ficheros sino 16 directorios (con nombres `0`-`f`) con menos de 10k ficheros en promedio. Por eso la línea
 
-{{< highlight bash >}}
+```bash
 file_hash=`md5sum "$file" | cut -f1 -d" " |
 sed -e "s;\(.\)\(.*\);\1/\2;"`
-{{< / highlight >}}
+```
 
 en mi código es marginalmente más complicada que la original.
 

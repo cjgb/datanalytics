@@ -43,10 +43,10 @@ Por el momento, el catálogo contiene únicamente información para la lectura d
 
 El paquete está [disponible en R-Forge](https://r-forge.r-project.org/projects/microdataes/) y puede instalarse en R haciendo
 
-{{< highlight R >}}
+```r
 install.packages("MicroDatosEs",
 	repos="http://R-Forge.R-project.org")
-{{< / highlight >}}
+```
 
 aunque tal vez sea necesario instalar alguna dependencia desde CRAN (si experimentan problemas en la instalación, hay que comprobar el mensaje de error para ver si se debe, efectivamente, a la falta un paquete). Se puede probar luego consultando `?epa2005`.
 

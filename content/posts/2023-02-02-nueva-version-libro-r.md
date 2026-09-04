@@ -22,7 +22,7 @@ Acabo de subir ---que suena menos pomposo que _publicar_--- la primera versión 
 
 - He migrado a Quarto.
 - Algunas correcciones, sobre todo en bloques de código que dejaron de funcionar por hacer llamadas a servicios que han desaparecido (o, como Google Maps, han cambiado el método de suscripción).
-- Algún material nuevo, sobre todo relacionado con _dplyr_ y el _tidyverse_. Aun así, el libro sigue siendo fundamentalente agnóstico con respecto a ese dialecto.
+- Algún material nuevo, sobre todo relacionado con _dplyr_ y el _tidyverse_. Aun así, el libro sigue siendo fundamentalmente agnóstico con respecto a ese dialecto.
 - He incorporado algunas mejoras sugeridas por algún amable lector en el pasado.
 - He comenzado ---solo comenzado--- a preparar soluciones para los casi 200 ejercicios planteados en el libro.
 

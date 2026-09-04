@@ -24,7 +24,7 @@ Creo que todos sabéis la historia de las admisiones de la Universidad de Berkel
 
 En R puede resumirse en
 
-{{< highlight R >}}
+```r
 library(reshape2)
 library(plyr)
 
@@ -36,7 +36,7 @@ dat <- dcast(raw, Gender + Dept ~ <a href="http://inside-r.org/packages/cran/AdM
 
 mod.0 <- glm(cbind(Admitted, Rejected) ~ Gender, data = dat, family = binomial)
 mod.1 <- glm(cbind(Admitted, Rejected) ~ Gender + Dept, data = dat, family = binomial)
-{{< / highlight >}}
+```
 
 Echad un vistazo a los coeficientes de `Gender` en ambos modelos y veréis.
 
@@ -51,7 +51,7 @@ La idea es comparar las regresiones logísticas anteriores: una que incluya `Dep
 
 Pues parece que algo se me ha escapado porque, salvo error u omisión,
 
-{{< highlight R >}}
+```r
 accept.rate <- dcast(raw, Dept ~ <a href="http://inside-r.org/packages/cran/AdMit">Admit, fun.aggregate = sum, value.var = "Freq")
 accept.rate$size <- accept.rate$Admitted + accept.rate$Rejected
 accept.rate$rate <- accept.rate$Admitted / accept.rate$size
@@ -87,7 +87,7 @@ res <- as.data.frame(t(res))
 colnames(res) <- c("mod0", "mod1")
 
 boxplot(res, col = "gray")
-{{< / highlight >}}
+```
 
 produce
 

@@ -30,14 +30,13 @@ Tras la digresión, entramos en materia:
 * En [geocommons](http://geocommons.com/) te ayudan a crear y compartir tus mapas interactivos con otros.
 * Y [Tuent](http://tuent.com/) es una versión española de la anterior.
 * El servicio cartográfico del Reino Unido, [Ordnance Survey](http://www.ordnancesurvey.co.uk), ha creado esta [herramienta para interactuar con sus mapas](http://openspace.ordnancesurvey.co.uk/openspace/) que debería sacarle los colores a nuestras análogas instituciones.
-* El blog [Views of the World](http://www.viewsoftheworld.net/?p=1242) ofrece visiones particularles (a alguno se le ocurriría que _boterianas_) del mundo.
+* El blog [Views of the World](http://www.viewsoftheworld.net/?p=1242) ofrece visiones particulares (a alguno se le ocurriría que _boterianas_) del mundo.
 * En el blog de James Cheshire, [Spatial Analysis](http://spatialanalysis.co.uk), pueden encontrarse mapas como [éstos](http://spatialanalysis.co.uk/2011/03/17/global-migration-maps/).
 * Y finalmente, mi colega [Olivier Núñez](http://www.iberstat.es/mapas/) (del que recientemente he aprendido su afición a los mapas) ha colgado de su página algunos como el que reproduzco a continuación:
 
 
 
-[![](/img/2011/04/MapaMadrid.jpg)
-](/img/2011/04/MapaMadrid.jpg)
+![](/img/2011/04/MapaMadrid.jpg)
 
 
 

@@ -26,16 +26,16 @@ Quiero representar hoy la evolución del Ibex 35 a lo largo del año pasado al e
 
 Primero, bajo los símbolos de los activos del Ibex de Yahoo! Finance:
 
-{{< highlight R >}}
+```r
 library(XML)
 simbolos <- readHTMLTable(htmlParse("http://finance.yahoo.com/q/cp?s=%5EIBEX+Components"))
 simbolos <- as.character(simbolos[[9]]$Symbol)
 simbolos <- gsub("-P", "", simbolos)
-{{< / highlight >}}
+```
 
 Luego, creo una pequeña función y se la aplico a cada símbolo:
 
-{{< highlight R >}}
+```r
 library(tseries)
 
 foo  <- function( simbolo, final = Sys.time(), profundidad = 365 * 24 * 3600 ){
@@ -61,11 +61,11 @@ foo  <- function( simbolo, final = Sys.time(), profundidad = 365 * 24 * 3600 ){
 
 res <- sapply(simbolos, foo, simplify = F)
 res <- do.call(rbind, res)
-{{< / highlight >}}
+```
 
 Finalmente, creo el gráfico:
 
-{{< highlight R >}}
+```r
 library(googleVis)
 
 M <- gvisMotionChart(res,
@@ -78,7 +78,7 @@ M <- gvisMotionChart(res,
                 showXMetricPicker = F,
                 showYMetricPicker = F))
 plot(M)
-{{< / highlight >}}
+```
 
 
 
@@ -86,7 +86,6 @@ plot(M)
 
 El resultado tiene un aspecto similar a la siguiente captura estática:
 
-[![](/img/2013/01/ibex35_motionchart.png#center)
-](/img/2013/01/ibex35_motionchart.png#center)
+![](/img/2013/01/ibex35_motionchart.png#center)
 
 No puedo insertar aquí el gráfico dinámico pero cualquiera que ejecute el código anterior en su máquina lo debería obtener en su propio navegador.

@@ -25,7 +25,7 @@ Me mandó [Alberto González Paje](http://www.ekonlab.com/) código para represe
 
 Es el siguiente:
 
-{{< highlight R >}}
+```r
 library(ggmap)
 
 # ubico mi alma mater
@@ -47,7 +47,7 @@ ggmap(map.unizar) + geom_point(
     aes(x = lon, y = lat),
     data = unizar, colour = 'red',
     size = 4)
-{{< / highlight >}}
+```
 
 Creo que es fácil de extender.
 

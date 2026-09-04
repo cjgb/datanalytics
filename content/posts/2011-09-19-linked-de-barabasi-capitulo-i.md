@@ -37,7 +37,7 @@ El código
 
 
 
-{{< highlight R >}}
+```r
     n.nodos <- 1000
 
     build.network <- function( n.nodos, n.enlaces ){
@@ -77,7 +77,7 @@ El código
     }
 
     res <- node.dist( 5, 100 )
-{{< / highlight >}}
+```
 
 
 
@@ -87,8 +87,7 @@ El código
 
 crea 100 redes aleatorias con `n.nodos` nodos y _z_ = 5. Luego cuenta cuántos nodos tienen grado _k_ y, finalmente, crea una gráfica similar a
 
-[![](/img/2011/09/poisson_distr_degree.png#center)
-](/img/2011/09/poisson_distr_degree.png#center)
+![](/img/2011/09/poisson_distr_degree.png#center)
 
 que es un diagrama de cajas del grado sobre el que se superpone el número esperado de nodos de grado _k_ si se acepta que su distribución es de Poisson. Como puede apreciarse, coinciden. Pero ya lo sabíamos porque conocíamos de viejo la relación entre las distribuciones de Poisson y la binomial.
 
@@ -124,31 +123,30 @@ De ahí se obtiene la ecuación $q = \exp^{-z( 1-q )}$ y si $s = 1-q$ es la prob
 
 La siguiente figura ilustra la situación:
 
-[![](/img/2011/09/roots_equation.png#center)
-](/img/2011/09/roots_equation.png#center)
+![](/img/2011/09/roots_equation.png#center)
 
 En ella se representa el término de la izquierda,
 
 
-{{< highlight R >}}
+```r
 curve( I, 0, 1, xlab = "", ylab = "" )
-{{< / highlight >}}
+```
 
 
 como una línea negra sólida y luego el término de la derecha con los valores _z_ = 2
 
 
-{{< highlight R >}}
+```r
 curve( 1 - exp( - 2 * x), add = T, lty = 2 )
-{{< / highlight >}}
+```
 
 
 y _z_ = 0.5
 
 
-{{< highlight R >}}
+```r
 curve( 1 - exp( - 0.5 * x), add = T, lty = 2 )
-{{< / highlight >}}
+```
 
 
 con líneas punteadas. Como podrá comprobar quien aún sepa derivar funciones, la derivada del término de la derecha en 0 es mayor o menor que uno dependiendo de si _z_ es mayor o menor que 1 y eso obliga a que haya o no raíz de la ecuación en (0,1).
@@ -156,11 +154,11 @@ con líneas punteadas. Como podrá comprobar quien aún sepa derivar funciones, 
 En resumen, cuando _z_ < 1 no existe componente gigante y la red es una especie de sopa de letras. Pero si _z_ > 1, aparece una supercomponente que contiene un porcentaje de los nodos dado por la solución de la ecuación anterior. Raíz que puede obtenerse con R así:
 
 
-{{< highlight R >}}
+```r
 foo.optim <- function( x, z = 3 ) ( x - 1 + exp( -z * x) )**2
 optimize( foo.optim, z = 2, interval = c(0,1))$minimum
 optimize( foo.optim, z = 1.5, interval = c(0,1))$minimum
-{{< / highlight >}}
+```
 
 
 Para terminar esta larga entrada, vamos a ver si podemos fiarnos o no de Erdös. Porque una cosa es que este hombre nos diga que el tamaño de la componente grande es _s_ y otra distinta, que lo sea.
@@ -168,7 +166,7 @@ Para terminar esta larga entrada, vamos a ver si podemos fiarnos o no de Erdös.
 Para eso vamos a crear muchas redes aleatorias con distintos valores de _z_ y calcular el tamaño de la componente más grande para después compararlo con el calculado teóricamente. Y efectivamente, corriendo
 
 
-{{< highlight R >}}
+```r
 library( igraph )
 
 prop.giant.component <- function( z, n.nodos = 1000 ){
@@ -203,12 +201,11 @@ foo <- function( zeta ) optimize( foo.optim, z = zeta, interval = c(0,1))$minimu
 theorical.sizes <- sapply( zetas, foo )
 
 lines( zetas, theorical.sizes, col = "red")
-{{< / highlight >}}
+```
 
 
 se obtiene
 
-[![](/img/2011/09/giant_component_size.png#center)
-](/img/2011/09/giant_component_size.png#center)
+![](/img/2011/09/giant_component_size.png#center)
 
 con lo que nos damos por satisfechos y aguardamos a disponer de otro ratillo de asueto para sacarle la miga al capítulo II.

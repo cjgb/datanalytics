@@ -31,30 +31,30 @@ Lo cual, en principio, es preferible a la alternativa, es decir, no usar regular
 
 Veamos un ejemplo en R. En primer lugar creo unos datos, ajusto una logística y predigo:
 
-{{< highlight r >}}
+```r
 x_km <- c(1, 1, 1, 10, 10, 10)
 y <- c(1, 0, 0,  1,  1,  0)
 
 m0 <- glm(y ~ x_km, family = binomial)
 predict(m0, data.frame(x_km = 10), type = "response")
-{{< / highlight >}}
+```
 
 A 10 km, hay 3 casos de los cuales 2 son positivos, así que la predicción debería dar, aproximadamente, 2/3. De hecho, da 0.6666667.
 
 Pero ahora decido reexpresar la variable independiente en metros en lugar de kilómetros, así que hago
 
-{{< highlight r >}}
+```r
 x_m <- c(1000, 1000, 1000, 10000, 10000, 10000)
 
 m1 <- glm(y ~ x_m, family = binomial)
 predict(m1, data.frame(x_m = 10000), type = "response")
-{{< / highlight >}}
+```
 
 y obtengo exactamente la misma predicción, 0.6666667. De hecho (y es un ejercicio que dejo planteado al lector), con el coeficiente de $x$ pasa lo que se espera: en uno de los modelos es 1000 veces el del otro. El modelo no se ve en absoluto afectado por la escala de las variables.
 
 Pero si en lugar de R hubiese utilizado sklearn/python y hubiese hecho
 
-{{< highlight python >}}
+```python
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 
@@ -67,7 +67,7 @@ print(m0.predict_proba([[10]])[:,1])
 x_m = np.array([1000, 1000, 1000, 10000, 10000, 10000]).reshape(-1, 1)
 m1 = LogisticRegression().fit(x_m, y)
 print(m1.predict_proba([[10000]])[:,1])
-{{< / highlight >}}
+```
 
 habría obtenido las predicciones 0.66116492 y 0.66666667 respectivamente, que no son iguales entre sí. El motivo es que _ridge_ penaliza más intensamente los coeficientes más grandes. Por eso, cuando uso la variable en metros, el coeficiente del modelo es, en principio, más pequeño (¡una milésima parte!) y la regularización lo achica menos. Por eso, en ese caso, la solución de sklearn es próxima, casi igual, a la de `glm`. Pero el tamaño de los coeficientes depende de la escala de las variables. Así que modificaciones aparentemente inocuas en los datos (p.e., reexpresar una variable en kilómetros en lugar de en metros) ¡tienen un efecto (muchas veces no pretendido e inesperado) en el modelo!
 

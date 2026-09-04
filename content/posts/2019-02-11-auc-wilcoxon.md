@@ -23,31 +23,31 @@ url: /2019/02/11/auc-wilcoxon/
 
 Construyo unos datos,
 
-{{< highlight R >}}
+```r
 n <- 30
 si <- data.frame(res = "si",
     score = rnorm(n, 1, 1))
 no <- data.frame(res = "no",
     score = rnorm(n, 0, 1))
 dat <- rbind(si, no)
-{{< / highlight >}}
+```
 
-que simulan los _scorings_ de un modelo hipótetico en el que comparo unos casos positivos y otros negativos.
+que simulan los _scorings_ de un modelo hipotético en el que comparo unos casos positivos y otros negativos.
 
 Comparo con el test de Wilcoxon el _scoring_ según la etiqueta y normalizo (adecuadamente):
 
-{{< highlight R >}}
+```r
 test <- wilcox.test(score ~ res, data = dat)$statistic
 test / n^2
-{{< / highlight >}}
+```
 
 Por otro lado calculo el AUC:
 
-{{< highlight R >}}
+```r
 library(pROC)
 my_roc <- roc(dat$res, dat$score)
 auc(my_roc)
-{{< / highlight >}}
+```
 
 ¡Lo mismo!
 

@@ -32,7 +32,7 @@ que comienza, con mi traducción, así:
 
 > De acuerdo con el libro de texto de Solow de 1956, los modelos de crecimiento económico dan por hecho que la PTF [productividad total de los factores] crece exponencialmente: $dA_t = gA_tdt$, donde $A$ es la PTF y $g$ es o bien constante o prácticamente constante. Yo [T. Philippon] he examinado datos de muchos países y periodos y he encontrado que, en casi todos los casos, el crecimiento de la productividad es de hecho lineal: $dA_t = bdt$ donde $b$ es una constante, al menos durante largos periodos históricos.
 
-El artículo y el resutado se han discutido en muchas partes y, supongo, muchos tendrán explicaciones sensatas para explicar la enoooorme discrepancia entre ambos modelos.
+El artículo y el resultado se han discutido en muchas partes y, supongo, muchos tendrán explicaciones sensatas para explicar la enoooorme discrepancia entre ambos modelos.
 
 Pero si los datos y los modelos están sujetos a tanta incertidumbre que son incapaces de revelar _por sí solos_ si una tendencia es lineal o exponencial, ¿qué podemos realmente aprender de ellos? Y si es necesario preprocesarlos de la manera _adecuada_ que, seguramente, nos indicarán los expertos para llegar tanto a una u otra conclusión según con quién hablemos, ¿qué estaremos aprendiendo de ellos sino el subproducto de su particular preprocesamiento?
 

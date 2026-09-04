@@ -32,7 +32,7 @@ Dada una muestra de la distribución lognormal (y supuesto, por simplificar, $\m
 
 y uno pensaría que los valores deberían ser similares. Mas pero sin embargo,
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 
 set.seed(123)
@@ -48,7 +48,7 @@ tmp <- data.frame(sigmas = sigmas, medias = res)
 
 ggplot(tmp, aes(x = sigmas, y = medias)) +
   geom_point() + geom_smooth()
-{{< / highlight >}}
+```
 
 produce
 

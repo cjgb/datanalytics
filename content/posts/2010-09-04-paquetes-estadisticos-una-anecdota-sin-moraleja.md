@@ -27,9 +27,9 @@ Pasaba yo por un pasillo cuando uno de los responsables de la traducción del c�
 
 Una de mis primeras conclusiones fue que los consultores primigenios cobraban a tanto la hora: tres folios enteros de código servían para calcular la raíz cuadrada de una matriz de covarianzas, tres folios que pudimos resumir en una línea tal como
 
-{{< highlight R >}}
+```r
     R = chol(M)
-{{< / highlight >}}
+```
 
 utilizando la [descomposición de Cholesky](http://en.wikipedia.org/wiki/Cholesky_decomposition). Eran, sinceramente, tres folios de código aterrador, un verdadero ejercicio de masoquismo informático que acabó yaciendo en el fondo de una papelera.
 
@@ -39,11 +39,11 @@ El problema consistía en que el estupendo paquete estadístico de onerosa licen
 
 Sin embargo, sobre mi portátil barato, con [un lenguaje de programación abierto](http://www.r-project.org), obtenía, por ejemplo:
 
-{{< highlight R >}}
+```r
 > qbeta(0.001, 0.001, 27)[1] 3.861125e-268
 Warning message:full precision was not achieved in'qbeta'
 > qbeta(0.001, 0.01, 27)[1] 2.135598e-302
-{{< / highlight >}}
+```
 
 Es decir, valores indistinguibles de cero tal y como cabía esperar.
 

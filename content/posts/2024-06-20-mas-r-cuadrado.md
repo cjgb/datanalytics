@@ -21,7 +21,7 @@ url: /2024/6/20/mas-r-cuadrado-pequenas/
 
 Si uno hace
 
-{{< highlight r >}}
+```r
 n <- 1000
 
 # dos clases del mismo tamaño n
@@ -36,11 +36,11 @@ y1[1:(.55 * n)] <- 1
 y <- c(y0, y1)
 
 summary(lm(y ~ x))
-{{< / highlight >}}
+```
 
 obtiene
 
-{{< highlight text >}}
+```text
 Residuals:
    Min     1Q Median     3Q    Max
  -0.55  -0.45   0.00   0.45   0.55
@@ -55,7 +55,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 0.4977 on 1998 degrees of freedom
 Multiple R-squared:   0.01,	Adjusted R-squared:  0.009505
 F-statistic: 20.18 on 1 and 1998 DF,  p-value: 7.444e-06
-{{< / highlight >}}
+```
 
 donde quiero subrayar que la R² es del 1% o _muy pequeña_.
 

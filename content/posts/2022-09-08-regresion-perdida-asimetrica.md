@@ -48,13 +48,13 @@ Para descargar datos, se usa la misma función que en [esta entrada](/2022/07/26
 
 Los datos son cincominutales, lo cual me ha inducido a emplear como unidad de energía el MW5m, la doceava parte del más habitual MWh.
 
-Los datos están completos y son correctos para todos los días menos un par de breves periodos en dos días intermedios donde, por algún motivo, había problemas con la hora. No he tratado de corregirlos sino que, siendo tan pocos, 24 filas de 161917, he dejado que se incorporen al _ruido_ (y aún cabe la posibildad de que se hayan procesado adecuadamente como subproducto involuntario del particular tratamiento de datos).
+Los datos están completos y son correctos para todos los días menos un par de breves periodos en dos días intermedios donde, por algún motivo, había problemas con la hora. No he tratado de corregirlos sino que, siendo tan pocos, 24 filas de 161917, he dejado que se incorporen al _ruido_ (y aún cabe la posibilidad de que se hayan procesado adecuadamente como subproducto involuntario del particular tratamiento de datos).
 
 ### Pérdidas simétricas
 
 Aunque no tenga sentido alguno, por referencia, voy a dejar aquí el código para estudiar cuál sería la solución _de libro_ usando la regresión clásica (nótese que ya he importado previamente `pandas` y `numpy`):
 
-{{< highlight python >}}
+```python
 from scipy.optimize import minimize
 
 def generacion_estimada(x1, x2):
@@ -68,7 +68,7 @@ def perdida_rmse(x):
     return tmp
 
 res_rmse = minimize(perdida_rmse, (1,1))
-{{< / highlight >}}
+```
 
 La solución es que basta con multiplicar la producción eólica por 2 y la solar por 1.6 para, _en promedio_, cubrir toda la demanda eléctrica con renovables. Aunque, claro, habría que tener capacidad de casi 3000 GWh (y no los 80 especificados en el tuit) para evitar apagones:
 
@@ -83,7 +83,7 @@ La solución es que basta con multiplicar la producción eólica por 2 y la sola
 
 Aquí se va reemplazar la pérdida simétrica, el RMSE, de `perdida_rmse` por
 
-{{< highlight python >}}
+```python
 ALMACENAMIENTO_MAXIMO = 20000 * 4 * 12
 ALMACENAMIENTO_INICIAL = ALMACENAMIENTO_MAXIMO / 2.0
 
@@ -118,7 +118,7 @@ def perdida_asimetrica(x, verbose = False):
         return (apagones, desaprovechada, almacenada)
 
     return apagones_total + desaprovechada_total / 1000.0
-{{< / highlight >}}
+```
 
 Nótese cómo, al limitar la capacidad de almacenamiento a 80 GWh (12 veces más GW5m), habrá necesariamente apagones (errores por defecto).
 
@@ -128,9 +128,9 @@ Nótese cómo, al limitar la capacidad de almacenamiento a 80 GWh (12 veces más
 
  Ahora, el _óptimo_ asimétrico, el obtenido al hacer
 
- {{< highlight python >}}
+```python
 res_asimetrico = minimize(perdida_asimetrica, (1,1))
-{{< / highlight >}}
+```
 
 pasa por multiplicar la capacidad eólica por 8.2 y la solar por 4.
 

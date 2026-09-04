@@ -32,7 +32,7 @@ Y de hecho, ese era el problema con el que me encontraba yo particularmente: hab
 
 Tuitear desde Python consiste esencialmente en hacer:
 
-{{< highlight python >}}
+```python
 import tweepy
 
 client = tweepy.Client(
@@ -43,7 +43,7 @@ client = tweepy.Client(
 )
 
 client.create_tweet(text='Esta es una prueba...')
-{{< / highlight >}}
+```
 
 Hacen falta cuatro _tokens_:
 
@@ -57,7 +57,7 @@ El problema consiste entonces en obtener los _tokens_ correspondientes al usuari
 
 Primero,
 
-{{< highlight python >}}
+```python
 import tweepy
 
 oauth1_user_handler = tweepy.OAuth1UserHandler(
@@ -65,7 +65,7 @@ oauth1_user_handler = tweepy.OAuth1UserHandler(
     callback="oob")
 
 print(oauth1_user_handler.get_authorization_url())
-{{< / highlight >}}
+```
 
 El producto del código anterior ---una vez reemplazados `api auth` y `api secret` por los _tokens_ correspondientes--- es una URL. Al abrirla, encontrarás algo así como:
 
@@ -73,9 +73,9 @@ El producto del código anterior ---una vez reemplazados `api auth` y `api secre
 
 Al aceptar aparece un _pin_ que se copia en
 
-{{< highlight python >}}
+```python
 access_token, access_token_secret = oauth1_user_handler.get_access_token('pin number')
-{{< / highlight >}}
+```
 
 y ya, ya tienes los _tokens_ correspondientes a la otra cuenta para hacer con ella aquello para lo que se les haya concedido permiso.
 

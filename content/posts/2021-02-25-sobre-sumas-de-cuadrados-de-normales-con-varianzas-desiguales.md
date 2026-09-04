@@ -32,7 +32,7 @@ La entrada tiene tres partes en las que se examinará tres casos de creciente gr
 
 El caso conocido de todos está ilustrado por
 
-{{< highlight R >}}
+```r
 n <- 10
 muestra <- replicate(10000, {
   muestra <- rnorm(n, 0, 1)
@@ -43,7 +43,7 @@ hist(muestra, breaks = 100,
       freq = F, main = "ajuste de la X²")
 curve(dchisq(x, n), 0,
       max(muestra), add = T, col = "red")
-{{< / highlight >}}
+```
 
 que produce
 
@@ -55,7 +55,7 @@ El código genera `n` variables aleatorias normales estándar, las eleva al cuad
 
 El caso de varianzas distintas se reduce al anterior dividiendo la muestra por dicha varianza. Eso sí, hay que tener en cuenta que no es la suma de los cuadrados la que tiene distribución $\chi^2$ sino esta dividida por la varianza de cada una de las normales (o su varianza media, como se verá luego):
 
-{{< highlight R >}}
+```r
 n <- 10
 sds <- 1.5
 
@@ -70,7 +70,7 @@ hist(muestra, breaks = 100,
       freq = F, main = "ajuste de la X²")
 curve(dchisq(x, res$maximum), 0,
       max(muestra), add = T, col = "red")
-{{< / highlight >}}
+```
 
 Que produce
 
@@ -80,7 +80,7 @@ Que produce
 
 En esta tercera parte se van a sumar cuadrados de variables aleatorias normales con varianzas desiguales:
 
-{{< highlight R >}}
+```r
 set.seed(2021)
 
 n <- 10
@@ -95,7 +95,7 @@ muestra <- replicate(10000, {
 
 hist(muestra, breaks = 100,
       freq = F, main = "¿parece X²?")
-{{< / highlight >}}
+```
 
 Con lo que se obtiene
 
@@ -103,15 +103,15 @@ Con lo que se obtiene
 
 Obviamente, el soporte de ese histograma va a depender críticamente de la varianza de las observaciones, por lo que, extendiendo la corrección de la sección anterior, se escala
 
-{{< highlight R >}}
+```r
 muestra <- muestra / mean(sds^2)
-{{< / highlight >}}
+```
 
 de manera que el resultado sigue pareciendo a ojo $\chi^2$. Pero, ¿con qué parámetro? Los enlaces con los que se abría esta entrada sugieren utilizar el método de los momentos, que equivaldría a tomar un número de grados de libertad igual la media de `muestra`.
 
 Pero en este blog somos gente de orden y la programación no nos es ajena. Por eso vamos a tratar de maximizar la verosimilitud:
 
-{{< highlight R >}}
+```r
 foo <- function(nu)
   sum(dchisq(muestra, nu, log = TRUE))
 
@@ -122,7 +122,7 @@ res <- optimize(foo,
 hist(muestra, breaks = 100, freq = F)
 curve(dchisq(x, res$maximum), 0, max(muestra),
     add = T, col = "red")
-{{< / highlight >}}
+```
 
 ![](/img/2021/02/chi2_04.png#center)
 

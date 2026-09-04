@@ -24,7 +24,7 @@ construí
 
 usando
 
-{{< highlight r >}}
+```r
 muns <- st_read("data/CifraPob2023.shp")
 peninsula <- muns[muns$ccaa != 'Canarias',]
 plot(peninsula["pob_23"])
@@ -37,13 +37,13 @@ peninsula_dorling <- cartogram_dorling(
   itermax = 100)
 
 plot(peninsula_dorling["pob_23"])
-{{< / highlight >}}
+```
 
 sobre unos datos que ya no recuerdo de dónde bajé. La única línea no autoexplicativa del código es
 
-{{< highlight r >}}
+```r
 peninsula <- st_transform(peninsula, 25830)
-{{< / highlight >}}
+```
 
 que transforma las coordenadas originales de los datos en coordenadas _proyectadas_ (o, más bien, las coordenadas proyectadas que rigen en la zona peninsular). El `25830` en cuestión me lo chivó un LLM.
 

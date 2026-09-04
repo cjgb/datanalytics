@@ -26,7 +26,7 @@ Comienzo por el final:
 
 En el gráfico anterior se aprecian unos datos, generados mediante
 
-{{< highlight R >}}
+```r
 n <- 100
 x <- 1:n
 
@@ -36,15 +36,15 @@ y <- y_base + rnorm(n, 0, .4)
 datos <- data.frame(x = x, y_base = y_base, y = y,
                     cos1 = cos(2 * pi * x / 100),
                     cos2 = cos(4 * pi * x / 100))
-{{< / highlight >}}
+```
 
 a los que se ha ido añadiendo un ruido progresivamente, es decir, una serie de _outliers_ artificiales.
 
 Las líneas rojas representan la predicción realizada mediante un modelo _de segundo orden de Fourier_ (si se me permite), es decir,
 
-{{< highlight R >}}
+```r
 modelo <- lm(y ~ cos1 + cos2, data = out)
-{{< / highlight >}}
+```
 
 Los p-valores correspondientes al segundo coeficiente (que no aporta nada al modelo generativo) son
 

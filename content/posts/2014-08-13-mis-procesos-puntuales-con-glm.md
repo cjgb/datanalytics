@@ -25,7 +25,7 @@ Lo que escribí hace un par de días sobre [procesos puntuales](https://datanaly
 
 Ejecuto el código del otro día y obtengo (para un caso nuevo)
 
-{{< highlight R >}}
+```r
           mu       alfa verosimilitud delta
     1  0.4493158 0.50000000      340.6141     1
     2  0.2675349 0.40457418      307.3939     2
@@ -37,13 +37,13 @@ Ejecuto el código del otro día y obtengo (para un caso nuevo)
     8  0.1214365 0.10424818      289.3282     8
     9  0.1204605 0.09148817      290.9081     9
     10 0.1315896 0.07857330      295.3935    10
-{{< / highlight >}}
+```
 
 que significa que el parámetro _óptimo_ es `delta = 5`, `mu = 0.124` y `alfa = 0.18`.
 
 Ahora hago
 
-{{< highlight R >}}
+```r
     cuantos.previos <- function(i, muestra, delta){
       indices <- Filter(function(x) x < i & x > i - delta, 1:n)
       cuantos <- sum(muestra[indices])
@@ -62,11 +62,11 @@ Ahora hago
     res.glm <- sapply(1:10, fit.glm)
     res.glm <- as.data.frame(t(res.glm))
     colnames(res.glm) <- c("delta", "mu", "alfa", "aic")
-{{< / highlight >}}
+```
 
 y obtengo
 
-{{< highlight R >}}
+```r
     delta        mu       alfa      aic
     1      1 0.4493151         NA 683.2282
     2      2 0.2675337 0.40457432 618.7877
@@ -78,6 +78,6 @@ y obtengo
     8      8 0.1214371 0.10424691 582.6564
     9      9 0.1204672 0.09148587 585.8163
     10    10 0.1315951 0.07856897 594.7869
-{{< / highlight >}}
+```
 
 que viene a ser lo mismo que antes. Solo que mucho más rápido.

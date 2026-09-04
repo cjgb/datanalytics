@@ -23,25 +23,22 @@ url: /2011/09/09/treemaps-en-r/
 Hay cierto interés por los _[treemaps](http://en.wikipedia.org/wiki/Treemapping)_ en general y existen paquetes como [`treemap`](http://cran.r-project.org/web/packages/treemap/) y la función `map.market` del paquete [`portfolio`](http://cran.r-project.org/web/packages/portfolio/index.html) que permiten construirlos y obtener gráficos como este
 
 
-[![](/img/2011/09/treemap.png#center)
-](/img/2011/09/treemap.png#center)
+![](/img/2011/09/treemap.png#center)
 
 
 que representa la capitalización bursátil de las empresas del IBEX-35 y el porcentaje que destinan al dividendo. Pero me produce cierto desasosiego utilizar áreas y colores para representar magnitudes: ¿es fácil comparar el tamaño relativo de TEF y ELE? ¿Cuánto mayor es ITX que BBVA? ¿Y el dividendo de MAP comparado con el de ACS?
 
 No estoy seguro de hasta qué punto ese tipo de gráficos resultan superiores a otros tal vez menos impactantes como
 
-[![](/img/2011/09/textplot.png#center)
-](/img/2011/09/textplot.png#center)o
+![](/img/2011/09/textplot.png#center)o
 
-[![](/img/2011/09/barplot.png#center)
-](/img/2011/09/barplot.png#center)
+![](/img/2011/09/barplot.png#center)
 
 ¿Qué opinarán mis lectores?
 
 **Nota:** Como siempre, el código:
 
-{{< highlight R >}}
+```r
 library( ggplot2 )
 library( treemap )
 
@@ -62,4 +59,4 @@ p.bar <- ggplot(dat, aes(valor, weight = cap, fill = div)) + geom_bar()
 p.bar <- p.bar + opts( axis.text.x = theme_text( angle = 90 ) )
 p.bar <- p.bar + scale_y_continuous( name = "capitalization")
 p.bar
-{{< / highlight >}}
+```

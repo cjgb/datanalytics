@@ -26,8 +26,7 @@ En el pasado nos hemos ocupado en estas páginas del [desempleo](http://www.data
 
 Por ejemplo, en
 
-[![](/img/2013/01/mi_tasa_paro_personal.png#center)
-](/img/2013/01/mi_tasa_paro_personal.png#center)
+![](/img/2013/01/mi_tasa_paro_personal.png#center)
 
 puedo ver la evolución de la tasa de paro de aquellos que _son como yo_ desde el 2005 y compararla con la general.
 

@@ -20,7 +20,7 @@ title: Unos números sobre los márgenes de la distribución
 url: /2024/02/15/margenes-distribucion/
 ---
 
-Estos días han estado tirios y troyanos tirándose los muebles a la cabeza por el asunto de los márgenes comerciales; en particular, los de frutas y verduras en los supermercados. Constantando lo desencaminados que andan muchos, y como sobre el asunto he podido aprender un poco durante mi carrera, oso hoy presentar algunos conceptos y números para centrar el debate. Al final, tal vez me atreva a publicar mi propia opinión sobre el asunto. De hacerlo, advertiré convenientemente a los lectores para que puedan omitirlo felizmente.
+Estos días han estado tirios y troyanos tirándose los muebles a la cabeza por el asunto de los márgenes comerciales; en particular, los de frutas y verduras en los supermercados. Constatando lo desencaminados que andan muchos, y como sobre el asunto he podido aprender un poco durante mi carrera, oso hoy presentar algunos conceptos y números para centrar el debate. Al final, tal vez me atreva a publicar mi propia opinión sobre el asunto. De hacerlo, advertiré convenientemente a los lectores para que puedan omitirlo felizmente.
 
 ### Margen bruto medio y margen neto medio
 

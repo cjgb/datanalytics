@@ -26,7 +26,7 @@ Y yo decía: ¿dónde están mis bucles? ¿Y mis bifurcaciones?
 
 Este tipo de _programación_ está de moda últimamente:
 
-{{< highlight R >}}
+```r
 hourly_delay <- flights %>%
   filter(!is.na(dep_delay)) %>%
   group_by(date, hour) %>%
@@ -34,7 +34,7 @@ hourly_delay <- flights %>%
     delay = mean(dep_delay),
     n = n() ) %>%
   filter(n > 10)
-{{< / highlight >}}
+```
 
 Y todo bien, sí, pero sigo sin tener bucles o bifurcaciones.
 

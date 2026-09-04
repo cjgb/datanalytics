@@ -67,7 +67,7 @@ La elección de unos y otros (o de subtipos dentro de cada categoría) podría i
 
 Es cierto que determinadas técnicas (y se va a notar mucho que me refiero a las bayesianas) incorporan _slots_ a través de los cuales es posible incorporar información _previa_ y que cierta gente, sin que se sepa muy bien por qué, tacha de _subjetiva_. Pero esa información previa puede ser perfectamente objetiva: por ejemplo, como _priori_ para un determinado parámetro se puede usar una distribución basada en las estimaciones realizadas en estudios anteriores, o incorporar restricciones de positividad, etc. Sigue sin haber motivos para hablar de subjetividad (al menos, necesariamente, aunque fuese posible que alguien quisiese utilizar información previa _totalmente subjetiva_).
 
-Pudiera ocurrir también en determinados casos concretos que sujetos distintos tuviesen información distinta. P.e., yo podría _soplarle_ a alguien que ese número del 1 al 10 que he pesando, realmente está entre el 1 y el 5. Que viene a ser como si a unos sujetos les dejásemos acercarse a las torres y utilizar cintas métricas mientras a otros solo se las dejásemos ver de lejos.
+Pudiera ocurrir también en determinados casos concretos que sujetos distintos tuviesen información distinta. P.e., yo podría _soplarle_ a alguien que ese número del 1 al 10 que he pensado, realmente está entre el 1 y el 5. Que viene a ser como si a unos sujetos les dejásemos acercarse a las torres y utilizar cintas métricas mientras a otros solo se las dejásemos ver de lejos.
 
 **IV.**
 

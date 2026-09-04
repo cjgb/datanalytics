@@ -37,7 +37,7 @@ La realidad está mucho más entreverada de problemas y opciones a la mano de lo
 
 Además, como reconocen los autores, no tienen cifras reales correspondientes al patrimonio de estos sujetos sino que los estiman indirectamente a partir de datos del IRPF.
 
-Hay que felicitarlos para que, a pesar de todos los problemas encontrados y todas las opciones que han tenido y podido adoptar de la manera, por supuseto, más ecuánime posible, los resultados logrados hayan sido tan fotogénicos y acordes con los intereses que cabría esperar de ellos biografía en mano.
+Hay que felicitarlos para que, a pesar de todos los problemas encontrados y todas las opciones que han tenido y podido adoptar de la manera, por supuesto, más ecuánime posible, los resultados logrados hayan sido tan fotogénicos y acordes con los intereses que cabría esperar de ellos biografía en mano.
 
 Hablando en serio, ¿tomarían las agencias del medicamento una vacuna en cuya memoria de resultados apareciesen unos gráficos en que los números no estuviesen claro si se probaron en humanos o monos, si los resultados de la mitad de los sujetos se estimaron, si de una buena parte del grupo de control nunca más se supo, etc.? ¡Venga!
 

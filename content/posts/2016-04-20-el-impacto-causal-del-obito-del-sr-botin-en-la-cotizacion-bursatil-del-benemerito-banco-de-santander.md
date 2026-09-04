@@ -29,7 +29,7 @@ Comienzo pues.
 Primero los datos:
 
 
-{{< highlight R >}}
+```r
 library(tseries)
 library(CausalImpact)
 
@@ -55,7 +55,7 @@ obito.botin <- as.Date("2014-09-10")
 
 cotizaciones <- cbind(santander, bbva, ibex)
 cotizaciones <- cotizaciones[!is.na(cotizaciones$AdjClose.ibex)]
-{{< / highlight >}}
+```
 
 
 Con lo anterior, he bajado las cotizaciones diarias de las acciones del Banco de Santander, las del BBVA y la del IBEX 35 durante los últimos tres años. Eso deja la fecha de la muerte del Sr. Botín, aproximadamente, en la mitad.
@@ -65,17 +65,17 @@ Los datos que descargo de Yahoo! son el [cierre ajustado](https://help.yahoo.com
 Ahora voy a ver qué me cuenta [`CausalImpact`](https://google.github.io/CausalImpact/CausalImpact.html), i.e.,
 
 
-{{< highlight R >}}
+```r
 impact <- CausalImpact(cotizaciones,
     c(min(index(cotizaciones)), obito.botin - 1),
     c(obito.botin, max(index(cotizaciones))))
-{{< / highlight >}}
+```
 
 sobre el efecto causal motivo de esta entrada. Lo que hace la función, lo miráis por ahí. Pero mirad los resultados:
 
-{{< highlight R >}}
+```r
 plot(impact, metrics = c("original", "pointwise"))
-{{< / highlight >}}
+```
 
 genera
 

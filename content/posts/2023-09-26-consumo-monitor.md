@@ -20,9 +20,9 @@ url: /2023/09/26/etiqueta-medioambiental-monitores/
 
 ### I.
 
-La semana pasada, tras 18 años de buen servicio ---ha estado encendido ininiterrumpidamente desde, por lo menos, el confinamiento---, falleció el que degradé a segundo monitor: un
+La semana pasada, tras 18 años de buen servicio ---ha estado encendido ininterrumpidamente desde, por lo menos, el confinamiento---, falleció el que degradé a segundo monitor: un
 [LG Flatron L1910S](https://www.lg.com/es/posventa/producto/lg-L1910S.*******)
-de 19 pulgadas y una resolución hoy mísera que compré en Carrefor y me costó 500 euros del ala. Podría haberlo reparado porque su único problema, casi seguro, es un fallo superficial en la alimentación; pero me he dejado llevar por el consumismo. De paso, he jubilado uno de los últimos cables VGA que deben de quedar operativos al norte del Manzanares.
+de 19 pulgadas y una resolución hoy mísera que compré en Carrefour y me costó 500 euros del ala. Podría haberlo reparado porque su único problema, casi seguro, es un fallo superficial en la alimentación; pero me he dejado llevar por el consumismo. De paso, he jubilado uno de los últimos cables VGA que deben de quedar operativos al norte del Manzanares.
 
 El reemplazo ha sido un
 [LG 27UL550](https://www.lg.com/us/monitors/lg-27ul550-w-4k-uhd-led-monitor),
@@ -79,14 +79,14 @@ que tiene como parámetros:
 
 La fórmula es de lo más curiosa e intrigante. Ni idea de dónde puede haber salido. Pero tiene toda la pinta de un _sujétame el cubata_ de un ingeniero guasón a los burócratas de la UE: el denominador es sin duda intimidante, pero se parece muy sospechosamente a lo que se conoce popularmente como _recta_. En efecto, si uno hace
 
-{{< highlight python >}}
+```python
 den <- function(x)
   (3 * (90 * tanh(.025 + 0.0035 * (x - 11)) + 4) + 3)
 x <- runif(100, 10, 100)
 y <- den(x)
 plot(x, den(x))
 abline(lm(y ~ x), col = "red")
-{{< / highlight >}}
+```
 
 obtiene
 

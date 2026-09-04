@@ -23,10 +23,10 @@ url: /2015/01/27/grandes-datos-maquinas-pequenas-y-regresiones-logisticas-con-va
 
 Preguntaba el otro día Emilio Torres [esto](https://stat.ethz.ch/pipermail/r-help-es/2015-January/008447.html) en [R-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es). Resumo la pregunta. Se trata de una simulación de unos datos y su ajuste mediante una regresión logística para ver si los coeficientes obtenidos son o no los esperados (teóricamente y por construcción).
 
-El código de Emilio (cuyos resultados no podemos reproducir porque no nos ha contado qué similla usa) es
+El código de Emilio (cuyos resultados no podemos reproducir porque no nos ha contado qué semilla usa) es
 
 
-{{< highlight R >}}
+```r
 logisticsimulation <- function(n){
   dat <- data.frame(x1=sample(0:1, n,replace=TRUE),
                     x2=sample(0:1, n,replace=TRUE))
@@ -43,14 +43,13 @@ res <- logisticsimulation(100)
 apply(res,2,median)
 ## (Intercept)          x1          x2       x1:x2
 ## -1.0986123 -18.4674562  20.4823593  -0.0512933
-{{< / highlight >}}
+```
 
 Efectivamente, los coeficientes están lejos de los esperados, i.e., -1, -4, 7 y 1.
 
 Si hacéis `plot(as.data.frame(res))` para ver la distribución entera de los coeficientes estimados en lugar de sus valores centrales, se obtiene algo así como
 
-[![coefs_simulation](/img/2015/01/coefs_simulation.png#center)
-](/img/2015/01/coefs_simulation.png#center)
+![coefs_simulation](/img/2015/01/coefs_simulation.png#center)
 
 que pone de manifiesto cosas horribles: muchos de los coeficientes estimados tienen distribuciones multimodales en lugar de (aproximadamente) normales alrededor de los valores esperados. Ese tipo de comportamientos suelen estar relacionados con _outliers_ y, en este caso, con un coeficiente de `x2` tal alto, valores de `y=0` cuando `x2=1` prácticamente lo son.
 
@@ -60,7 +59,7 @@ Alternativamente, uno puede plantearse (como hizo Olivier Núñez en una de las 
 
 Veámoslo:
 
-{{< highlight R >}}
+```r
 logisticsimulation <- function(n){
   dat <- data.frame(
     x1 = rep(0:1),
@@ -83,7 +82,7 @@ res <- logisticsimulation(1e5)
 apply(res,2,median)
 
 plot(as.data.frame(res))
-{{< / highlight >}}
+```
 
 
 En cada iteración, el conjunto de datos `dat` tiene solo 4 filas que resumen el problema anterior para un conjunto de datos de 4e5 filas. El truco consiste en utilizar la notación `glm(cbind(exito, fracaso) ~ x1*x2, data = dat, family = binomial())` para el modelo logístico, que puede ser utilizada para abreviar cálculos con grandes datos en otras situaciones.

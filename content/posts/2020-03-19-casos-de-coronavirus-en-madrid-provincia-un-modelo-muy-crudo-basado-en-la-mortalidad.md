@@ -36,13 +36,13 @@ La idea la he expresado  públicamente en:
 
 {{< x user="gilbellosta" id="1240666690888830978" >}}
 
-Y aquí van los resultados crudísimos de un modelo crudísimo y seguramente erróneo cuya convergencia ni he constrastado ni nada:
+Y aquí van los resultados crudísimos de un modelo crudísimo y seguramente erróneo cuya convergencia ni he contrastado ni nada:
 
 ![](/img/2020/03/casos_mortalidad_madrid.png#center)
 
 Y el código es:
 
-{{< highlight c >}}
+```c
 data {
   int<lower=0> N;
   int<lower=0> dia0;
@@ -73,7 +73,7 @@ model {
     defs[i] ~ normal(letalidad * casos[i - 22], 1);
   }
 }
-{{< / highlight >}}
+```
 
 
 
@@ -88,7 +88,7 @@ y
 
 
 
-{{< highlight R >}}
+```r
 library(rstan)
 library(reshape2)
 library(plyr)
@@ -135,4 +135,4 @@ ggplot(casos, aes(x = fecha, y = casos, group = variable)) +
     geom_line(alpha = 0.3) +
     xlab("fecha") + ylab("casos") +
     ggtitle("Casos de coronavirus en Madrid\n(¡Resultado de un modelo muy crudo y\n casi seguro con errores!)")
-{{< / highlight >}}
+```

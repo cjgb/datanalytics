@@ -28,19 +28,19 @@ El artículo muestra lo que debería ser el estado del arte para realizar este t
 El artículo recomienda no utilizar bucles. Y mucho menos, bucles usando las llamadas macros. Propone usar el `PROC SURVEYSELECT` para muestrear los datos. Incluso, dado que `SURVEYSELECT` lee el fichero de entrada del disco una vez por muestra —es decir, 1000 veces en total en el ejemplo—, propone el comando `sasfile` para copiar los datos en RAM. La sintaxis es la siguiente:
 
 
-{{< highlight sas >}}
+```sas
 sasfile YourData load;
 proc surveyselect data=YourData ...;
 run;
 sasfile YourData close;
-{{< / highlight >}}
+```
 
 
 
 El código recomendado para resolver en SAS este problema es
 
 
-{{< highlight sas >}}
+```sas
 data YourData;
     do i = 1 to 50000;
         x = ranuni(1234);
@@ -71,19 +71,19 @@ proc univariate data=outall;
     var curt;
     output out=final pctlpts=2.5, 97.5 pctlpre=ci;
 run;
-{{< / highlight >}}
+```
 
 
 En mi ordenador necesita 70 segundos para ejecutarse y crea un fichero, `outboot.sas7bdat`, que ocupa 1,2 GB en mi disco duro. El código equivalente en R es
 
 
-{{< highlight sas >}}
+```sas
 library( moments )
 dat <- runif( 50000 )
 kurtosis.dat <- replicate( 1000,
                 kurtosis( sample( dat, length( dat ), replace = T ) ) )
 quantile( kurtosis.dat, c( 0.025, 0.975 ) )
-{{< / highlight >}}
+```
 
 
 que no genera ficheros en disco, no incrementa de manera perceptible la memoria utilizada y corre en 8 segundos sobre la misma máquina.

@@ -29,7 +29,7 @@ Y no, las matrices positivas, es decir, sin elementos negativos, no son una rare
 
 Al grano. Dada $A =(a_{ij})$ donde cada $a_{ij} > 0$ es posible encontrar dos matrices $W$ y $H$ también positivas tales que $A \approx WH$. La no demostración por ejemplo y construcción mediante caja negra es la siguiente:
 
-{{< highlight R >}}
+```r
 library(MASS)
 library(<a href="http://inside-r.org/packages/cran/NMF">NMF)
  
@@ -51,7 +51,7 @@ res@fit@W %*% res@fit@H
 # light  635.93433 102.81758 656.0355 182.10365  3.108965
 # medium 456.68567  92.14988 700.5967 482.32648 42.241237
 # dark    86.00979  45.45118 484.0100 630.19204 69.336946
-{{< / highlight >}}
+```
 
 Lo del algoritmo es lo de menos. Hay muchos y diversos que pueden consultarse en la bibliografía que acompaña al paquete anterior y en muchas otras partes.
 

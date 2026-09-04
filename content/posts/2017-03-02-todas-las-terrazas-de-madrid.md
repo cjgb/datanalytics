@@ -25,7 +25,7 @@ url: /2017/03/02/todas-las-terrazas-de-madrid/
 
 es un mapa en el que, en rojo, figuran _todas_ (véase la coda) las terrazas de Madrid. Los datos están extraídos del [censo de locales, sus actividades y terrazas de hostelería y restauración](http://datos.madrid.es/sites/v/index.jsp?vgnextoid=66665cde99be2410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD) del ayuntamiento y están procesados con
 
-{{< highlight R >}}
+```r
 terrazas <- fread("http://datos.madrid.es/egob/catalogo/200085-17-censo-locales.txt")
 terrazas$coordenada_x_local <- as.numeric(gsub(",", ".", terrazas$coordenada_x_local))
 terrazas$coordenada_y_local <- as.numeric(gsub(",", ".", terrazas$coordenada_y_local))
@@ -48,7 +48,7 @@ ggmap(madrid) + geom_point(
     aes(x = coords.x1, y = coords.x2),
     data = tmp, size = .5,
     col = "red", alpha = 0.3)
-{{< / highlight >}}
+```
 
 Sobre las cursivas de _todas_:
 

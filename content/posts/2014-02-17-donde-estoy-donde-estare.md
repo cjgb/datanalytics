@@ -22,8 +22,7 @@ url: /2014/02/17/donde-estoy-donde-estare/
 
 Me hace cierta gracia leer [_España: El éxodo en cifras. Desaparecen 1,7 millones de personas entre los 16 y los 39 años_](http://www.gurusblog.com/archives/espana-el-exodo-en-cifras-epa/23/01/2014/). El artículo razona alrededor de la tabla
 
-[![donde_estan](/img/2014/02/donde_estan.png#center)
-](/img/2014/02/donde_estan.png#center)
+![donde_estan](/img/2014/02/donde_estan.png#center)
 
 y se pregunta a dónde ha ido la gente que está en rojo: la población activa en los tramos de edad de entre los 16 y los 29 años y entre los 30 y los 39. Aquí en Zúrich estoy rodeado de un buen número de los faltantes. Pero hay otras causas que el artículo omite.
 

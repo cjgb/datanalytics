@@ -24,10 +24,10 @@ url: /2024/3/7/errores-modelos-zillow-control-alquileres/
 
 A menudo he usado
 
-{{< highlight R >}}
+```r
 plot(cars$speed, cars$dist)
 abline(lm(dist ~ speed, data = cars), col = "red")
-{{< / highlight >}}
+```
 
 con el que se crea la requetemanida gráfica
 

@@ -39,6 +39,6 @@ Pero el abuelo de todas las técnicas de imputación es HDI (_hot deck imputatio
 
 En el fondo, incluso LOCF tiene un modelo subyacente: tarjetas físicamente próximas en un lote podrían tener procedencias similares; p.e., de familias que residen en un mismo bloque o pacientes tratados por un mismo doctor.
 
-En el fondo, una especie de 1-vecinos (k-vecinos con k = 1) junto con una heruística simple para estimar el vecino más próximo.
+En el fondo, una especie de 1-vecinos (k-vecinos con k = 1) junto con una heurística simple para estimar el vecino más próximo.
 
 Por lo que he averiguado, bajo el nombre HDI, ya no se entiende LOCF sino, más bien, lo que comento más arriba (modelo + predicción) usando k-vecinos propiamente dichos (véase [esto](https://CRAN.R-project.org/package=hot.deck) y sus referencias).

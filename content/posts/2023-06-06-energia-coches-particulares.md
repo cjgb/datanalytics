@@ -34,7 +34,7 @@ Nótese que no se trata de la estimación media por persona ---hay muchas person
 
 Me he tomado el esfuerzo de recalcular esos números para la España de hoy. He utilizado como fuente de datos la Encuesta de Presupuestos Familiares de 2021 (última publicada). En ella tengo directamente estimaciones del consumo de combustibles para locomoción sin tener que calcularlos indirectamente como función del número de kilómetros recorridos. Usado el código
 
-{{< highlight R >}}
+```r
 library(data.table)
 library(ggplot2)
 
@@ -70,7 +70,7 @@ ggplot(equiv, aes(x = kwhd_equiv)) +
     nsmall = 0,
     big.mark = " "),
     name = "driving homes, thousands")
-{{< / highlight >}}
+```
 
 he obtenido finalmente
 

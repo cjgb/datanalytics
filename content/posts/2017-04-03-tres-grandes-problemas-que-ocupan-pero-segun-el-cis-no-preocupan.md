@@ -33,7 +33,7 @@ De hecho, el porcentaje que se muestra indica la proporción de los encuestados 
 
 El análisis de los otros dos graves problemas a los que se refiere el periodista, los propongo como ejercicio. Como pista, el código:
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(zoo)
 library(xts)
@@ -57,4 +57,4 @@ mi.tema <- mi.tema[!is.na(mi.tema)]
 plot(as.xts(mi.tema),
         main = "Preocupación por la violencia contra la mujer (CIS)",
         ylab = "% de los encuestados")
-{{< / highlight >}}
+```

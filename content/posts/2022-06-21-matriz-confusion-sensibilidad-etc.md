@@ -33,12 +33,12 @@ Todos esos conceptos hacen referencia al estudio de la bondad de un modelo de cl
 
 La _accuracy_ (¿existe alguna traducción universalmente aceptada del término?) es, si se quiere, el único número que mejor describe la bondad de un modelo de clasificación: es el porcentaje de aciertos. El siguiente bloque de código ilustra cómo calcularlo en un caso sencillo:
 
-{{< highlight R >}}
+```r
 library(party)
 modelo <- ctree(Species ~ ., data = iris)
 mean(iris$Species == predict(modelo))
 # [1] 0.96
-{{< / highlight >}}
+```
 
 La _accuracy_ de este modelo ---calculada, por brevedad, sobre el conjunto de entrenamiento; debería haberlo hecho sobre un conjunto de validación--- es del 96%; es decir, que da con la etiqueta correcta el 96% de las veces.
 
@@ -50,14 +50,14 @@ Si la variable objetivo tiene $N$ categorías, la matriz de confusión es un res
 
 La matriz de confusión para el ejemplo anterior se construye así:
 
-{{< highlight R >}}
+```r
 table(iris$Species, predict(modelo))
 
 #             setosa versicolor virginica
 #  setosa         50          0         0
 #  versicolor      0         49         1
 #  virginica       0          5        45
-{{< / highlight >}}
+```
 
 La tabla (o matriz) anterior muestra los valores _reales_ en filas y los predichos en columnas. En particular, las 50 setosas fueron clasificadas como tales; sin embargo, 5 virgínicas fueron erróneamente clasificadas como versicolores, etc. Los _aciertos_ están en la diagonal; los fallos, fuera de ella.
 
@@ -99,7 +99,7 @@ En esa gráfica se muestra la distribución del _scoring_ tanto para las observa
 
 En un modelo _óptimo_ ambos histogramas estarían separados; en uno _pésimo_, sobreimpresos. Lo habitual es tener cierto grado de solapamiento y medir la bondad del ajuste del modelo equivale a medir de alguna manera dicho grado de solapamiento.
 
-De todas las posibles manera de hacerlo se ha optado tradicionalmente por una de las peores y más confusas: la curva ROC y el AUC. Es una de las decisiones colectivas que, seguramente, y junto con las gráficas 3D, más perjuicios hayan causado en nuestra profesión. Lo más suave que se puede decir de ellas es que fueron la ocurrencia, como se verá, de un tarado.
+De todas las posibles maneras de hacerlo se ha optado tradicionalmente por una de las peores y más confusas: la curva ROC y el AUC. Es una de las decisiones colectivas que, seguramente, y junto con las gráficas 3D, más perjuicios hayan causado en nuestra profesión. Lo más suave que se puede decir de ellas es que fueron la ocurrencia, como se verá, de un tarado.
 
 Acabada la digresión, vuelvo a la curva ROC y el AUC. Si se moviese el punto de corte a otro valor cambiarían las entradas de la matriz de confusión (seguro que alguien ha creado una animación o alguna aplicación interactiva al respecto: que me avise y la enlazo), así como la tasa de falsos positivos, la tasa de falsos negativos, la sensibilidad y la especificidad. De hecho, si se mueve la línea al extremo izquierdo ---es decir, el modelo siempre predice sí---, el modelo tendría una alta sensibilidad y una especificidad nula; en el extremo derecho pasaría lo contrario: nula sensibilidad y especificidad del 100%.
 

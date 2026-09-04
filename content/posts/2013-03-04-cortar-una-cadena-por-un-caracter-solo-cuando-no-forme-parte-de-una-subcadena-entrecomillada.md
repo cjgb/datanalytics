@@ -30,7 +30,7 @@ El problema planteado consiste entonces en partir una cadena por un determinado 
 
 Así que me manché las manos y he aquí la solución con la que vine a dar:
 
-{{< highlight R >}}
+```r
 library(stringr)
 
 a <- '1,2,"algo;todo"; 3,"¿cósa"; 4,2,3,7;'
@@ -44,6 +44,6 @@ inicios <- c(1, cortes + 1)
 finales <- c(cortes - 1, str_length(a))
 
 str_sub(a, inicios, finales)
-{{< / highlight >}}
+```
 
 El quid reside en la llamada a `Filter`, que selecciona solo aquellas posiciones en las que hay puntos y comas que no están precedidas por un número impar de comillas. El [paquete stringr](http://journal.r-project.org/archive/2010-2/RJournal_2010-2_Wickham.pdf) resulta instrumental: proporciona recursos para procesar cadenas de texto no disponibles de una manera tan limpia y escueta entre las básicas de R.

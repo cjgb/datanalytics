@@ -74,7 +74,7 @@ es decir, la de los días entre el 3 y el 13 de abril de los cinco años anterio
 * la estimación de la mortalidad es la mediana de esos números y
 * los intervalos de confianza son el `q01` y el `q99` .
 
-Claro, alguien dirá que el `q99` de unos pocos números es prácticamente el máximo de ellos. Y tendrá razón. Por eso, el código original se excluían _a manubrio_ fechas aciagas como la del accidente de Spanair, la del del metro de Valencia y otras.
+Claro, alguien dirá que el `q99` de unos pocos números es prácticamente el máximo de ellos. Y tendrá razón. Por eso, el código original se excluían _a manubrio_ fechas aciagas como la del accidente de Spanair, la del metro de Valencia y otras.
 
 ¿Y el año que viene con lo del coronavirus? Pues si el código no cambia, pasarán cosas muy chistosas, seguro.
 

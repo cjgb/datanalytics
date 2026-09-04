@@ -26,7 +26,7 @@ Contexto (disfrazado). Hay usuarios que tienen correos electrónicos. La relaci�
 
 No puedo compartir los datos aquí, pero sí un poco de código:
 
-{{< highlight R >}}
+```r
 library(igraph)
 
 # creo el grafo
@@ -52,11 +52,10 @@ V(complex.subgraphs)$color <- pmin(1, degree(complex.subgraphs, mode="in"))
 # dibujo los patrones resultantes
 plot(complex.subgraphs, vertex.label=NA,
         vertex.size = 4, edge.arrow.size=0.2)
-{{< / highlight >}}
+```
 
 El resultado es algo así como
 
-[![topologia_correos](/img/2014/06/topologia_correos.png#center)
-](/img/2014/06/topologia_correos.png#center)
+![topologia_correos](/img/2014/06/topologia_correos.png#center)
 
 donde se aprecian usuarios con muchas cuentas de correo, cuentas de correo compartidas por muchos usuarios y otras configuraciones de potencial interés para la Guardia Civil.

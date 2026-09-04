@@ -22,18 +22,17 @@ url: /2013/11/22/un-pequeno-problema-de-probabilidad/
 
 El _tuit_
 
-[![](/img/2013/11/john_allen_paulos_e.png#center)
-](/img/2013/11/john_allen_paulos_e.png#center)
+![](/img/2013/11/john_allen_paulos_e.png#center)
 
 de John Allen Paulos me indujo a escribir
 
-{{< highlight R >}}
+```r
 number.numbers <- function(n){
   sum(cumsum(sample(0:n)) < n) + 1
 }
 
 res <- replicate(10000, number.numbers(1000))
-{{< / highlight >}}
+```
 
 código con el que, efectivamente, puede _comprobarse_ que la media es, efectivamente, e.
 

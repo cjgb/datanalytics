@@ -52,7 +52,7 @@ O al menos, eso dice la novísima función `caRtociudad::get_cartociudad_route`.
 El código, como de habitual, aquí:
 
 
-{{< highlight R >}}
+```r
 library(caRtociudad)
 
 origen  <- cartociudad_geocode("Regumiel de la Sierra, Soria")
@@ -61,7 +61,7 @@ destino <- cartociudad_geocode("Montejo de la Vega de la Serrezuela, Segovia")
 ruta <- get_cartociudad_route(
 	c(origen$latitude, origen$longitude),
 	c(destino$latitude, destino$longitude))
-{{< / highlight >}}
+```
 
 
 Notas:

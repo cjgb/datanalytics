@@ -22,7 +22,7 @@ url: /2013/05/02/data-table-i-cruces/
 
 Los protagonistas (tres tablas _grandecitas_):
 
-{{< highlight R >}}
+```r
 dim(qjilm)
 # [1] 3218575 5
 dim(tf)
@@ -44,29 +44,29 @@ head(tfe, 2)
 #en es tfe
 #1 ! ! 4.364360e-01
 #2 ! !" 4.945229e-24
-{{< / highlight >}}
+```
 
 El objetivo (cruzarlas por los campos comunes):
 
-{{< highlight R >}}
+```r
 res <- merge(merge(tf, tfe), qjilm)
-{{< / highlight >}}
+```
 
 El tiempo (usando `merge`):
 
 
-{{< highlight R >}}
+```r
 res <- merge(merge(tf, tfe), qjilm)
 #user system elapsed
 #442.991 2.496 446.832
 
 dim(res)
 #[1] 6340091 9
-{{< / highlight >}}
+```
 
 Y con [`data.table`](http://cran.r-project.org/web/packages/data.table/index.html):
 
-{{< highlight R >}}
+```r
 library(data.table)
 
 system.time({
@@ -85,12 +85,12 @@ system.time({
 
 dim(res.dt)
 #[1] 6340091 9
-{{< / highlight >}}
+```
 
 Y, finalmente, suponiendo que los `data.tables` ya tienen asociado un _índice_ de antemano:
 
 
-{{< highlight R >}}
+```r
 tf.dt  <- data.table( tf,  key = c("en", "es"))
 tfe.dt <- data.table( tfe, key = c("en", "es"))
 
@@ -100,7 +100,7 @@ system.time( res <- merge(tf.dt, tfe.dt) )
 
 dim(res)
 #[1] 6340091 8
-{{< / highlight >}}
+```
 
 Resumen:
 

@@ -50,7 +50,7 @@ Recibo esto en mi correo electrónico:
 >
 >Artículo 14, apartado 1, letra e) de la ley 19/2013, según el cual la prevención de ilícitos penales puede ser razón justificativa para no ofrecer la información solicitada.
 >
->Dar  la relación detallada de la ubicación de los inmuebles propiedad de la EMVS, así como el uso al que están destinados, puede favorecer la comisión de una de las tipologías de delitos que más han aumentado en los últimos años, la usurpación, definida en el código penal como “utilización de inmuebles ajenos sin autorizaciónn o de forma violenta”.
+>Dar  la relación detallada de la ubicación de los inmuebles propiedad de la EMVS, así como el uso al que están destinados, puede favorecer la comisión de una de las tipologías de delitos que más han aumentado en los últimos años, la usurpación, definida en el código penal como “utilización de inmuebles ajenos sin autorización o de forma violenta”.
 >
 >Nota: Según datos del Instituto Nacional de Estadística (INE) las usurpaciones se han multiplicado un 168% en el  periodo 2009-2013.
 >

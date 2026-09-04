@@ -30,9 +30,9 @@ Se trata de un paquete de R de Emilio Torres Manzanera con el que se pueden cons
 
 al más puro estilo [xkcd](http://xkcd.com/). Para probarlo,
 
-{{< highlight R >}}
+```r
 library(xkcd)
 vignette(“xkcd-intro”)
-{{< / highlight >}}
+```
 
 ¡Disfrutad!

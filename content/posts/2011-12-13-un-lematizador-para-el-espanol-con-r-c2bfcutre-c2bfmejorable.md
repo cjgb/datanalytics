@@ -29,7 +29,7 @@ Sinceramente, no sé a qué se dedican —me consta que los hay— los lingüist
 Y me ha servido para construir un lematizador rudimentario y francamente perfectible:
 
 
-{{< highlight R >}}
+```r
 require(XML)
 
 lematiza <- function(frase){
@@ -45,13 +45,13 @@ lematiza <- function(frase){
     tmp <- do.call(rbind, strsplit( tmp, " "))[,4]
     tmp
 }
-{{< / highlight >}}
+```
 
 
 Con él, desde R,
 
 
-{{< highlight R >}}
+```r
 > lematiza( "des" )
 [1] "DAR"
 > lematiza( "anduve" )
@@ -62,7 +62,7 @@ Con él, desde R,
 [1] "COMER"
 > lematiza( "queremos comer patatas" )
 [1] "QUERER" "COMER"  "PATATA"
-{{< / highlight >}}
+```
 
 
 No es rapidísimo, debería mejorar el tratamiento de la [codificación](https://datanalytics.com/2011/09/06/codigos-de-caracteres-unicode-y-utf-8/) y muchas cosas más.

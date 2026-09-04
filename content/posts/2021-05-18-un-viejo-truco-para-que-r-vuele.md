@@ -28,15 +28,15 @@ Si veis el código de la función `glm`, observaréis que se trata de una llamad
 
 Vuelvo a 2021. Un colega me escribe por [esto](https://www.overfitting.net/2021/05/apilado-por-mediana-para-eliminar.html) (resumen: quiere _apilar_ 16 fotos usando la mediana para obtener una _foto sintética_ a partir de aquellas). Tiene un array 6000 × 4000 × 16 y la manera más simple de obtener la foto sintética, i.e., hacer
 
-{{< highlight R >}}
+```r
 apply(fotos, c(1, 2), median)
-{{< / highlight >}}
+```
 
 le resulta desesperadamente lento: 15 minutos, me dice. Así que ha probado la vía de C++ y lo ha dejado en uno y medio (1.4, de hecho).
 
 En lo que sigue, voy a intentar aplicar la técnica del desnudo, quitándole (tarito, tariro) prendas a `median` en cada paso:
 
-{{< highlight R >}}
+```r
 nx <- 600
 ny <- 400
 
@@ -76,7 +76,7 @@ my_median_internal <- function(x){
 t3 <- system.time(
   res3 <- apply(fotos, c(1, 2), my_median_internal)
 )
-{{< / highlight >}}
+```
 
 _**Nota:** en lo anterior, he reducido a la centésima parte el tamaño del problema original: las fotos son ahora 600 × 400._
 

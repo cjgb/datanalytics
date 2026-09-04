@@ -101,6 +101,6 @@ Por lo que uno puede preguntarse si en este asunto ---como en tantos otros--- la
 
 ## IX.
 
-En resumen, todo este asunto es una marcianada y una pérdida de tiempo. Si eres un ciudadano de a pie, como yo, lo más racional es dedicar el tiempo a asuntos más provechosos y sobre los que uno tiene algo de agencia. El ruido que acompaña a las encuestas electorales tiene una única causa: que les prestamos atención. Pero hay muchas cosas más interesantes que hacer, incuso ---y particularmente--- en periodos electorales.
+En resumen, todo este asunto es una marcianada y una pérdida de tiempo. Si eres un ciudadano de a pie, como yo, lo más racional es dedicar el tiempo a asuntos más provechosos y sobre los que uno tiene algo de agencia. El ruido que acompaña a las encuestas electorales tiene una única causa: que les prestamos atención. Pero hay muchas cosas más interesantes que hacer, incluso ---y particularmente--- en periodos electorales.
 
 De hecho, paradójicamente, solo habrá buenas encuestas electorales (y aquí uso la siguiente definición de _buena_: que no traten de agradar a algún _jefazo_ que espere unos determinados resultados) en la medida que no les hagamos casito. Para más señas, [Goodhart](https://en.wikipedia.org/wiki/Goodhart%27s_law).

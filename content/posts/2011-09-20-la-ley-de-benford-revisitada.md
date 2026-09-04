@@ -25,7 +25,7 @@ Revisito mi artículo sobre la [ley de Benford](https://datanalytics.com/2011/09
 Lo hago porque me pliego a la demanda popular: voy a explicar con más detalle el código que dejé allí escrito y que, por referencia, es
 
 
-{{< highlight R >}}
+```r
 benford <- function( foo, ..., n = 100000 ){
   tmp <- foo( n, ... )
   tmp <- as.character( tmp[ tmp > 0] )
@@ -43,20 +43,20 @@ benford( rexp, rate = 2 )
 benford( rexp, rate = 5 )
 benford( rnorm, sd = 40 )
 benford( rweibull, shape = 1 )
-{{< / highlight >}}
+```
 
 
 Puede llamar la atención que el primer argumento de la función `benford` sea, precisamente, otra función. Nada del otro mundo. El siguiente es un ejemplo en el que se muestra el uso aislado para una mejor comprensión:
 
 
-{{< highlight R >}}
+```r
 funcion.que.llama <- function( foo, ... ){
   foo(...)
 }
 
 funcion.que.llama( sin, 2*pi )
 funcion.que.llama( plot, iris, main = "Hola" )
-{{< / highlight >}}
+```
 
 
 La función `funcion.que.llama` recibe una función como argumento. También recibe argumentos adicionales arbitrarios (eso es lo que significa `...`). Dentro, además de llamar a la función elegida, le pasa los argumentos adicionales contenidos en `...`. Es su uso más habitual, según el [documento que define R](http://cran.r-project.org/doc/manuals/R-lang.html).
@@ -64,9 +64,9 @@ La función `funcion.que.llama` recibe una función como argumento. También rec
 Después uso las funciones `as.character` (para convertir el número en una cadena de texto) y `strsplit`, función análoga a la que existe en otros lenguajes. Su particularidad en R es que, aplicada a un vector de caracteres, devuelve una lista de la misma longitud que el vector original. No hay más que saber sobre dicha función que entender cuál es la salida de
 
 
-{{< highlight R >}}
+```r
 strsplit( c("Hola", "caracola"), "l")
-{{< / highlight >}}
+```
 
 
 Como `strsplit` devuelve una lista, resulta conveniente utilizar `lapply` para recorrerla y extraer de cada componente el primer caracter. La lógica de lo que se quiere hacer en cada componente está encapsulada en la función de usar y tirar `leading.digit`.

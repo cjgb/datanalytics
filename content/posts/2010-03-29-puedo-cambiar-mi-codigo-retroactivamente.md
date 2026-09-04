@@ -25,12 +25,12 @@ La verdad, no tengo excusa. Incluso [se habló de ella](http://erre-que-erre-pac
 
 Y es que nunca me había percatado de la potencia de la función `mapply`. He aquí el problema: se tienen dos listas de la misma longitud y se quieren transformar los objetos de la primera en función de datos extraídos de los objetos correspondientes de la segunda. En los tiempos oscuros que duraron hasta anteayer, me veía abocado a utilizar un bucle que llevase la contabilidad del índice para poder recorrer ambas listas simultáneamente:
 
-{{< highlight R >}}
+```r
 salida <- list()
 for (i in 1:length(lista1)){
     salida <- c(salida, haz.algo.con(lista1[[i]], lista2[[i]])
 }
-{{< / highlight >}}
+```
 
 
 Ese horrendo pecado contra las más elementales reglas de la estética lo he cometido yo en más de una ocasión. Mea culpa. Como lo feo tiene que ser necesariamente incorrecto, dejaré que sea el mismo Jorge Iván el que nos muestre cómo hacerlo correctamente. Puede verse [aquí](http://n4.nabble.com/Using-lapply-with-two-lists-td1692883.html). Todo un placer para quienes creemos que el código también puede ser poesía.

@@ -21,10 +21,10 @@ url: /2015/09/07/prioris-subjetivas/
 
 Dentro de unos días voy a hablar de [estadística bayesiana](https://datanalytics.com/2015/07/15/un-modelo-jerarquico-para-lo-de-casillas/) en [Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/). Plantearé una distribución _a priori_ muy poco informativa:
 
-{{< highlight R >}}
+```r
 alfa ~ gamma(10, 1);
 beta ~ gamma(10, 1);
-{{< / highlight >}}
+```
 
 Me estoy preparando sicológicamente para que alguien me dé guerrita con lo de la subjetividad de las distribuciones _a priori_. Si tal es el caso, replicaré lo que sigue.
 

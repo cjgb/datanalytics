@@ -27,4 +27,4 @@ Que nadie busque en él consejo sobre qué lenguaje estudiar si le interesa el m
 
 Encontrará más bien la implementación de la solución a un único problema dentro de los muchos que supongo  comprende esa disciplina. Uno, además, con el que no he visto (en persona) a economista alguno ganarse el pan ni en la academia ni fuera de ella.
 
-Pero lo que cuenta, tras las debidas advertencias, es ameno y no manifiestamente falso (i.e., coherente con lo que se ha escrito en casi todas partes y con lo que se deduce de la natureleza y objeto de los distintos lenguajes de programación comparados).
+Pero lo que cuenta, tras las debidas advertencias, es ameno y no manifiestamente falso (i.e., coherente con lo que se ha escrito en casi todas partes y con lo que se deduce de la naturaleza y objeto de los distintos lenguajes de programación comparados).

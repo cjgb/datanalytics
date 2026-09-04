@@ -37,7 +37,7 @@ Supongamos que el sistema efectivamente atrapa al 90% de los terroristas. Pero s
 
 Supongamos que se hace pasar por el artilugio a un millón de personas. Y que, exagerando mucho, hay 100 terroristas entre ellos. Entonces podríamos utilizar el siguiente código
 
-{{< highlight R >}}
+```r
 N <- 1000000
 terroristas <- 100
 inocentes <- N - terroristas
@@ -54,17 +54,17 @@ colnames( tabla ) <- c( "carcel", "vuela" )
 rownames( tabla ) <- c( "terroristas", "inocentes" )
 
 tabla
-{{< / highlight >}}
+```
 
 
 para obtener la siguiente tabla de contingencia:
 
 
-{{< highlight R >}}
+```r
             carcel  vuela
 terroristas     90     10
 inocentes     1000 998900
-{{< / highlight >}}
+```
 
 Es decir, incluso en condiciones generosísimas, 1000 inocentes irían a la cárcel. Y si el error en el conjunto de los viajeros inocentes fuese del 1%, serían casi 10000.
 

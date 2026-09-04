@@ -27,20 +27,20 @@ Confieso no saber cómo hacer un _check_ sobre Windows, la verdad. Por eso me vo
 
 
 
-{{< highlight bash >}}
+```bash
 R CMD check mi_paquete
-{{< / highlight >}}
+```
 
 
 
 R crea un directorio adicional, `mi_paquete.Rcheck`, en el directorio de trabajo. Por mantener limpio mi disco, suelo proceder así:
 
 
-{{< highlight bash >}}
+```bash
 cd /tmp
 ln -s $HOME/src/r/mi_paquete
 R CMD check mi_paquete
-{{< / highlight >}}
+```
 
 
 De esta manera, los directorios adicionales creados por R quedan en `/tmp` y se eliminan por sí solos al apagar el equipo.

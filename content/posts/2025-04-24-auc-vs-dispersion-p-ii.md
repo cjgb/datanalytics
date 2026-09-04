@@ -51,7 +51,7 @@ Por fijar ideas, supongamos este caso: un banco crea un modelo de riesgo de cré
 
 Los interesados pueden jugar con sus distribuciones de interés con el siguiente código (que muestrea las distribuciones de los casos positivos y negativos usando el [método del rechazo](https://en.wikipedia.org/wiki/Rejection_sampling)):
 
-{{< highlight r >}}
+```r
 a <- 0
 b <- .1
 sample_dist <- function() runif(1, a, b)
@@ -74,4 +74,4 @@ p0 <- replicate(100000, sample_p(0))
 
 auc <- mean(p1 > p0)
 auc
-{{< / highlight >}}
+```

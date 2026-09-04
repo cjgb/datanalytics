@@ -21,7 +21,7 @@ url: /2019/08/05/dplyr-parece-que-prefiere-los-factores/
 
 Con datos bajados de [aquí](ftp://www.ine.es/temas/censopv/cen11/Microdatos_personas_nacional.zip):
 
-{{< highlight R >}}
+```r
 library(MicroDatosEs)
 library(dplyr)
 library(microbenchmark)
@@ -48,7 +48,7 @@ res <- microbenchmark(
 )
 
 autoplot(res)
-{{< / highlight >}}
+```
 
 Da:
 

@@ -32,7 +32,7 @@ El artículo existe precisamente porque la opción elegida por muchos de los ent
 
 Uno de los grandes temas de Gigerenzer (y otros como Spiegelhalter) es, precisamente, que la plebe malinterpreta probabilidades expresadas como... probabilidades. Pero no tanto por aversión al número, por anumerismo, sino porque los eventos a los que hacen referencia esas probabilidades no están explícitamente indicados.
 
-Por ejemplo, una frase como "este medicamento puede producir insomnio con una probabilidad del 20%" se interpreta a menudo como que produce insominio un 20% de las noches. Y, por lo tanto, es conveniente reformular esas expresiones de la forma "este medicamento produce insomnio en 2 de cada 10 personas que lo toman".
+Por ejemplo, una frase como "este medicamento puede producir insomnio con una probabilidad del 20%" se interpreta a menudo como que produce insomnio un 20% de las noches. Y, por lo tanto, es conveniente reformular esas expresiones de la forma "este medicamento produce insomnio en 2 de cada 10 personas que lo toman".
 
 Etc.
 

@@ -34,7 +34,7 @@ y debido a la correlación entre _X_ y $\varepsilon$, está sesgado.
 
 La solución que se plantea en ocasiones es la de usar variables instrumentales, es decir, variables correlacionadas con _X_ pero no con $\varepsilon$. La siguiente simulación en R ilustra el problema:
 
-{{< highlight R >}}
+```r
 library(MASS)
 library(AER)
 
@@ -64,7 +64,7 @@ foo()
 
 res <- replicate( 1000, foo(), simplify = F )
 res <- do.call( rbind, res )
-{{< / highlight >}}
+```
 
 Lo que se hace en ella es construir 1000 conjuntos de datos con las variables `y`, `x`, `z` y el error `e`. Las tres últimas son normales y están construidas de forma que:
 
@@ -74,7 +74,7 @@ Lo que se hace en ella es construir 1000 conjuntos de datos con las variables `y
 
 Luego, se construye `y` como `b.0 + b.1 * x + e`. Finalmente, se comparan los coeficientes obtenidos por la regresión por mínimos cuadrados tradicional con la que se obtiene usando `z` como variable instrumental. La comparación de los coeficientes obtenidos puede observarse gráficamente haciendo
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 library(reshape)
 
@@ -83,12 +83,11 @@ colnames(mi.coef) <- c("ols", "vi")
 mi.coef <- melt( mi.coef )
 
 ggplot(mi.coef, aes(x=value, fill=variable)) + geom_density(alpha=.3)
-{{< / highlight >}}
+```
 
 que produce el gráfico
 
-[![](/img/2012/04/coeficientes.png#center)
-](/img/2012/04/coeficientes.png#center)
+![](/img/2012/04/coeficientes.png#center)
 
 En esencia, lo que se ha hecho es calcular el coeficiente condicionando previamente por `z`, es decir, calculando
 

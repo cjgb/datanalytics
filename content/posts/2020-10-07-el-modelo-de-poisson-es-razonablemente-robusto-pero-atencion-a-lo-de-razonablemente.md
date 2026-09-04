@@ -19,7 +19,7 @@ title: El modelo de Poisson es razonablemente robusto (pero atención a lo de "r
 url: /2020/10/07/el-modelo-de-poisson-es-razonablemente-robusto-pero-atencion-a-lo-de-razonablemente/
 ---
 
-Una de las consencuencias del coronavirus es que vamos a tener que [replantearnos lo que significa ajustar series temporales](https://datanalytics.com/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/). Es decir, comenzar a ajustar series temporales y no repetir la consabida teoría que subyace a los modelos ARIMA simplemente porque es _guay_.
+Una de las consecuencias del coronavirus es que vamos a tener que [replantearnos lo que significa ajustar series temporales](https://datanalytics.com/2020/10/05/una-potencial-consecuencia-positiva-de-lo-del-coronavirus/). Es decir, comenzar a ajustar series temporales y no repetir la consabida teoría que subyace a los modelos ARIMA simplemente porque es _guay_.
 
 También tendremos que replantearnos qué hacer con los _outliers_ que la pandemia va dejando tras de sí. Y tratar de hacerlo [más elegantemente que cierta gente](https://github.com/EuroMOMOnetwork/MOMO/blob/83eceff401b6d666c026eef93c1526e56a20d9c9/R/excess.R#L51), por supuesto. En particular, habrá que ver cuál y cómo es el efecto de los _outliers_ en determinados modelos. En particular, en esos en los que yo más trabajo últimamente, que son los de Poisson.
 
@@ -38,7 +38,7 @@ no es muy distinto del modelo lineal estándar
 
 como ponen en evidencia tanto los consabidos teoremas de aproximación a la  normal de la Poisson (haced `qqnorm(rpois(1000, 100))`) como por el siguiente ejemplo numérico:
 
-{{< highlight R >}}
+```r
 n <- 100
 a <- 7
 b <- 1
@@ -47,6 +47,6 @@ y <- sapply(x, function(p)
   rpois(1, exp(a +  b * p)))
 coef(glm(y ~ x, family = poisson()))
 coef(lm(log(y) ~ x))
-{{< / highlight >}}
+```
 
 Como consecuencia, para procesos con conteos relativamente altos (o, al menos, para ellos), el logaritmo protege de los excesos.

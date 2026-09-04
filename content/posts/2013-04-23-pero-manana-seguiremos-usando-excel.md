@@ -21,7 +21,7 @@ url: /2013/04/23/pero-manana-seguiremos-usando-excel/
 
 Inmerso en asuntos que los más catalogarían de _friquis_, he permanecido ignorante de los más de los infelices sucesos que nos ha regalado el mundo durante los últimos días.
 
-Pero sí que he tenido ocasión de enterarme de algo de ese runrún, imagino que conocido de los más, sobre [unos economistas encopetados que usanban Excel](http://www.theatlantic.com/business/archive/2013/04/forget-excel-this-was-reinhart-and-rogoffs-biggest-mistake/275088/) (y unos economistas muy encopetados). Noticia que se suma a otra que guardaba para comentarla un día: cómo [JP Morgan estuvo calculando su VaR erróneamente durante años](http://www.zerohedge.com/news/2013-02-12/how-rookie-excel-error-led-jpmorgan-misreport-its-var-years) por los mismos motivos.
+Pero sí que he tenido ocasión de enterarme de algo de ese runrún, imagino que conocido de los más, sobre [unos economistas encopetados que usaban Excel](http://www.theatlantic.com/business/archive/2013/04/forget-excel-this-was-reinhart-and-rogoffs-biggest-mistake/275088/) (y unos economistas muy encopetados). Noticia que se suma a otra que guardaba para comentarla un día: cómo [JP Morgan estuvo calculando su VaR erróneamente durante años](http://www.zerohedge.com/news/2013-02-12/how-rookie-excel-error-led-jpmorgan-misreport-its-var-years) por los mismos motivos.
 
 Todo esto vino a suceder el mismo día que, finalmente, conseguí bajarme una copia pirata del último libro de Taleb, [_Antifragile_](http://en.wikipedia.org/wiki/Antifragile:_Things_That_Gain_from_Disorder). Aún no he leído nada del libro, pero barrunto de qué trata y adivino que Excel no es, en absoluto, _antifrágil_.
 

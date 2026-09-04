@@ -21,4 +21,4 @@ url: /2017/04/17/ix-jornadas-de-usuarios-de-r-noviembre-en-granada/
 
 En ningún sitio se cuenta mejor la noticia que en la [fuente original](http://r-es.org/9jornadasR/).
 
-El anuncio debería haber salido ya hace unos minutos [en el blog de la Comunidad R Hispano](http://r-es.org/). A través de ese medio (y sus concomintantes, como [la cuenta de Twitter asociada](https://twitter.com/R_Hisp)) se irá desgranando la información relevante conforme vaya ocurriendo.
+El anuncio debería haber salido ya hace unos minutos [en el blog de la Comunidad R Hispano](http://r-es.org/). A través de ese medio (y sus concomitantes, como [la cuenta de Twitter asociada](https://twitter.com/R_Hisp)) se irá desgranando la información relevante conforme vaya ocurriendo.

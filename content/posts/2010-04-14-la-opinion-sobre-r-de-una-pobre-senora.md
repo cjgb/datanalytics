@@ -23,7 +23,7 @@ Me llegan noticias de una pobre señora que, se conoce, tiene un blog en el que 
 
 Vamos, que no cree en R y que, además, esa idea suya le parece la más obvia del mundo. Para apoyar su argumento, muestra el siguiente ejemplo de código en R, supuestamente muy feo (más, de hecho, de lo que se imagina):
 
-{{< highlight R >}}
+```r
 a<--0.45
 sigma<-0.00000
 y<-a*x+xnorm*sigma
@@ -31,7 +31,7 @@ r<-cor(x,y)
 plot(-4:4, -4:4, xlab= 'x', ylab= 'y', main= "", sub = "",type = "n")
 points(x,y,pch=19,cex=0.2)
 legend(-3.9, 3.8,substr(paste("r=",r), 1, 8), bg='gray90')
-{{< / highlight >}}
+```
 
 
 ¡Alma de Dios! ¿Qué es `xnorm`, que en mi libro no sale? ¿Dónde defines el _x_ que luego quieres pintar? ¿Qué coeficiente de correlación esperas definiendo la varianza igual a cero? ¿Tratas de usar las opciones más enrevesadas y añadir parámetros innecesarios por afear el código o porque no lo sabes hacer mejor?

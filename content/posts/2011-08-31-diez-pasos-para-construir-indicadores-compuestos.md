@@ -37,7 +37,7 @@ En resumen, las recomendaciones son:
 4. Realizar un **análisis multivariado** de los datos para comparar su estructura real con la teórica y analizar hasta qué punto son coherentes.
 5. **Normalizar** los datos teniendo en cuenta tanto el marco teórico como las propiedades estadísticas identificadas en el paso anterior para que las variables sean comparables.
 6. Asignar **pesos** y agregar.
-7. Estimar la **incertidumbre** asociada al indicador y análizar su **robustez** frente a las técnicas de imputación, etc. utilizadas para crearlo.
+7. Estimar la **incertidumbre** asociada al indicador y analizar su **robustez** frente a las técnicas de imputación, etc. utilizadas para crearlo.
 8. A la vista de los datos de partida, estudiar cuáles son los **indicadores subyacentes que tienen más peso** en el indicador agregado (corrigiéndolo si estuviese excesivamente influido por alguno de ellos).
 9. Estudiar la (cor)relación del nuevo indicador con otros y ''**desarrollar narrativas**'' basadas en los resultados obtenidos.
 10. Planificar cómo han de visualizarse, presentarse y **divulgarse** los resultados obtenidos a su público objetivo.

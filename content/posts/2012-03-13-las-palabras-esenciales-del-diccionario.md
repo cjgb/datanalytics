@@ -56,7 +56,7 @@ Las restantes 36148 palabras se usan en las definiciones de otras y van desde a,
 
 El siguiente paso del análisis consiste en **eliminar aquellos términos que solo entran en la definición de términos sin amigos** o, recursivamente, en la definición de términos eliminados en el paso anterior. Por ejemplo, si A es un término sin amigos y B es un término que se usa en la definición de A y no en ningún otro, lo filtraría en este paso. Tras este filtrado, quedan 24683 términos, un 28.15 % de los términos originales. Seguro que Euclides pensaría que demasiados.
 
-Los 11465 términos que se caen van desde ababol, abacal, abada, abajar, abakuá y aballar hasta zurriago, zurribanda, zurriburri, zutano, zutujil y zuzón. Encuentro en la lista términos como tridimensional, tropecientos, sobreexplotar, rutherfordio, presuntamente y perversión junto a otros como zangolotear, podrigorio, segueta, tolmera o tósigo, de cuya existencia a cabo de tener noticia.
+Los 11465 términos que se caen van desde ababol, abacal, abada, abajar, abakuá y aballar hasta zurriago, zurribanda, zurriburri, zutano, zutujil y zuzón. Encuentro en la lista términos como tridimensional, tropecientos, sobreexplotar, rutherfordio, presuntamente y perversión junto a otros como zangolotear, podrigorio, segueta, tolmera o tósigo, de cuya existencia acabo de tener noticia.
 
 De entre los restantes 24683 términos encontramos dos tipos. Por un lado, 197 familias aisladas de términos que son amigos entre sí, pero que no son amigos de otros términos. Por ejemplo, forman parte de estas familias parejas como violonchelista y violonchelo o triplas como tabulador, tabuladora y tabular.
 

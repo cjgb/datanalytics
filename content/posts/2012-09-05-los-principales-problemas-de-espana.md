@@ -31,7 +31,7 @@ Los datos proceden del [barómetro del CIS](http://www.cis.es/cis/opencms/ES/11_
 
 Utilizando el código de Gregorio Serrano con algunos retoques, es decir, haciendo
 
-{{< highlight R >}}
+```r
 library(XML)
 library(zoo)
 library(ggplot2)
@@ -75,7 +75,7 @@ index(x) <- as.Date(index(x))
 x.df <- data.frame(dates=index(x), coredata(x))
 x.df <- melt(x.df, id="dates", variable="valor")
 ggplot(x.df, aes(x=dates, y=value)) + geom_line() + opts(legend.position = "none") + facet_wrap(~ valor)
-{{< / highlight >}}
+```
 
 se genera el gráfico
 

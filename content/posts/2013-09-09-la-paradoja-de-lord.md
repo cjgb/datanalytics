@@ -29,15 +29,15 @@ El objetivo era el obvio: ¿es mejor el nuevo tratamiento? Parece sencillo, ¿ve
 
 Hay dos mecanismos obvios para tratar de verificar la hipótesis. El primero es un t-test sobre
 
-{{< highlight R >}}
+```r
 (después - antes) ~ tratamiento
-{{< / highlight >}}
+```
 
 que recibe, en la jerga, el nombre de GSA (o _gain score analysis_). El segundo, la siguiente ANCOVA:
 
-{{< highlight R >}}
+```r
 después ~ tratamiento + antes
-{{< / highlight >}}
+```
 
 El hecho de que ambos análisis puedan dar respuestas divergentes se conoce como paradoja de Lord. Existe una literatura extensa sobre el fenómeno. A mí me sirvió, p.e.,
 [este artículo](http://pareonline.net/getvn.asp?v=14&n=6).

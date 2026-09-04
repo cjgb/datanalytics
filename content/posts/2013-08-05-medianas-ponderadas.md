@@ -26,15 +26,15 @@ La mediana de `1:3` es 2. Pero puede ser que queramos dar a `1:3` los pesos 2, 1
 
 Mientras los pesos sean enteros, todavía pueden usarse trucos:
 
-{{< highlight R >}}
+```r
 x <- 1:3
 pesos <- c(2,1,2)
 median(rep(x, times = pesos ))
-{{< / highlight >}}
+```
 
 ¿Pero qué hacemos cuando hay pesos fraccionarios? Bueno, en realidad, podemos _ordenar_:
 
-{{< highlight R >}}
+```r
 n <- 1000
 
 x <- runif(n)
@@ -43,13 +43,13 @@ o <- order(x)
 x.o <- x[o]
 pesos.o <- pesos[o]
 x.o[min(which(cumsum(pesos.o) > .5 * sum(pesos.o)))]
-{{< / highlight >}}
+```
 
 Pero me parece más limpio usar el [paquete `quantreg`](https://datanalytics.com/2010/05/18/regresion-por-cuantiles-en-r-y-sas/):
 
-{{< highlight R >}}
+```r
 library(quantreg)
 rq(x ~ 1, tau = 0.5, weights=pesos)$coef
-{{< / highlight >}}
+```
 
-Y una coda matemática: es sabido de muchos que la mediana de $x_1,\dots, x_n$ es el valor que minimiza la función $f(u) = \sum |x_i|$. La mediana ponderada minimizarla la función alternativa $f(u) = \sum p_i |x_i|$ y la función `rq` de `quantreg` minimiza [una función algo más complicada que esa](http://en.wikipedia.org/wiki/Quantile_regression#Quantiles) que se reduce esencialmente a ella cuando `tau = 0.5`.
+Y una coda matemática: es sabido de muchos que la mediana de $x_1,\dots, x_n$ es el valor que minimiza la función $f(u) = \sum |x_i|$. La mediana ponderada minimiza la función alternativa $f(u) = \sum p_i |x_i|$ y la función `rq` de `quantreg` minimiza [una función algo más complicada que esa](http://en.wikipedia.org/wiki/Quantile_regression#Quantiles) que se reduce esencialmente a ella cuando `tau = 0.5`.

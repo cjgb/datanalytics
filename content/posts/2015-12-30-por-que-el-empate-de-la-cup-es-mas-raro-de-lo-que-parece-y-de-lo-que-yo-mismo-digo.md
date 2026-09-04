@@ -39,13 +39,13 @@ De hecho, además, [como indica Kiko Llaneras](http://www.elespanol.com/espana/2
 
 Uno de trescientos está, de hecho, en el límite de la significancia estadística para la hipótesis de partida de que la probabilidad de empate es de 1.5% (dejo los detalles al lector).
 
-Así que me planteo el siguiente problema. Una población de entre 3000 y 4000 personas (número elegido al azar uniformemente) se plantea una votación sobre una materia en disputa. El apoyo estimado de dicha propuesta está entre el 40% y el 60% (nota: un bayesiano querría reconocer conceptos en ese enunciado). Precisamente porque la propuesta está reñida y para conocer el porcentaje real de apoyo de la propueta es que se plantea la votación. La pregunta es: ¿cuál sería una buena estimación de la probabilidad de empate?
+Así que me planteo el siguiente problema. Una población de entre 3000 y 4000 personas (número elegido al azar uniformemente) se plantea una votación sobre una materia en disputa. El apoyo estimado de dicha propuesta está entre el 40% y el 60% (nota: un bayesiano querría reconocer conceptos en ese enunciado). Precisamente porque la propuesta está reñida y para conocer el porcentaje real de apoyo de la propuesta es que se plantea la votación. La pregunta es: ¿cuál sería una buena estimación de la probabilidad de empate?
 
 Nótese que, de entrada, la probabilidad es, a lo sumo, la mitad de 1.5%: ¡una condición necesaria para el empate es que el número de votantes sea par (algo que ningún analista advirtió, creo)!
 
 El código que planteo es
 
-{{< highlight R >}}
+```r
 foo <- function(n){
   cuantos <- sample(desde:hasta, n, replace = T)
   p <- .4 + .2 * runif(n)
@@ -55,7 +55,7 @@ foo <- function(n){
 }
 
 100 * mean(foo(1000000))
-{{< / highlight >}}
+```
 
 La ejecución es un ejercicio para mis lectores. Solo adelanto que el resultado es más próximo a la estimación del _presunto_ que a la de los demás.
 

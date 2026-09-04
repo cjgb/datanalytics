@@ -20,7 +20,7 @@ url: /2015/07/02/mejores-mensajes-de-error-con-deparse-substitute/
 
 El código
 
-{{< highlight R >}}
+```r
 foo <- function(df, column.name){
     if (!column.name %in% colnames(df))
       stop("Column ", column.name, " not found in ", deparse(substitute(df)))
@@ -28,7 +28,7 @@ foo <- function(df, column.name){
   }
 
 foo(iris, "petal.area")
-{{< / highlight >}}
+```
 
 lanza el error
 

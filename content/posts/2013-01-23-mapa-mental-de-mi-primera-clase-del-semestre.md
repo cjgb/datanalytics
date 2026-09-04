@@ -29,8 +29,7 @@ Así que dando por hecho que mis alumnos acabarán siendo intermediarios entre q
 
 A continuación, el mapa mental del curso (creado con [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)):
 
-[![](/img/2013/01/sesion04.png#center)
-](/img/2013/01/sesion04.png#center)
+![](/img/2013/01/sesion04.png#center)
 
 Y, finalmente, la lista de lecturas (recomendadas todas, obligatorias únicamente las partes más importantes):
 

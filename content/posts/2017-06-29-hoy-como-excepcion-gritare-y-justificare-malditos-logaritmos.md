@@ -21,7 +21,7 @@ title: 'Hoy, como excepción, gritaré y justificaré: ¡Malditos logaritmos!'
 url: /2017/06/29/hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos/
 ---
 
-Dados unos números positivos hay que justificar por que **no** tomar logaritmos y no al revés. La carga de la prueba recae sobre quien no lo hace.
+Dados unos números positivos hay que justificar por qué **no** tomar logaritmos y no al revés. La carga de la prueba recae sobre quien no lo hace.
 
 No obstante:
 

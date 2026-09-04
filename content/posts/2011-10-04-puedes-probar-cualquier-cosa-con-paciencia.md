@@ -28,7 +28,7 @@ El truco se llama _parada condicional_: puedes hacer prueba tras prueba hasta qu
 
 Pero vamos a ver si es cierto. Comenzamos seleccionando un número mínimo de pruebas, `n.min` y, para no caer en bucles infinitos un número máximo, `n.max`. Luego, usando el código
 
-{{< highlight R >}}
+```r
 n.max <- 1000000
 n.min <- 100
 
@@ -39,25 +39,24 @@ prop <- 100 * ( prop - 0.5 )
 plot( log( prop ), type = "l", lwd = 2,
       xlab = "número de pruebas", ylab = "log delta",
       main = "% de desviación vs. número de pruebas")
-{{< / highlight >}}
+```
 
 obtendremos para cada valor entre `n.min` y `n.max` la desviación (positiva) con respecto al 50% esperado bajo la hipótesis nula —la moneda no está sesgada— suficiente como para que se encienda la luz roja del p-valor:
 
-[![](/img/2011/09/optimal_stopping.png#center)
-](/img/2011/09/optimal_stopping.png#center)
+![](/img/2011/09/optimal_stopping.png#center)
 
 Por ejemplo, como `prop[900]` es 2.55, bastaría con que en la prueba número 1000 (= 900 + 100) obtuviésemos una proporción del 52.55% de caras como para poder rechazar la hipótesis de que la moneda no está sesgada al límite usual de confianza.
 
 Ahora podemos comenzar a hacer experimentos:
 
-{{< highlight R >}}
+```r
 foo <- function( ){
   x <- 100 * ( ( cumsum( rbinom( n.max, 1, 0.5 ) ) / 1:n.max )[ n.min:n.max ] - 0.5 )
   min( which( x > prop ) )
 }
 
 res <- replicate( 1000, foo() )
-{{< / highlight >}}
+```
 
 Tras 1000 de ellos, la variable `res` contiene el número de pruebas que hay que hacer para conseguir rebasar el porcentaje crítico. En mis pruebas, es necesario hacer más de `n.max` ensayos 428 veces. Pero en más de la mitad de las ocasiones, el resto, es necesario realizar un número menor de ensayos antes de llegar al momento feliz de la _prueba irrefutable_.
 

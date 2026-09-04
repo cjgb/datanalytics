@@ -26,7 +26,7 @@ Las reglas de esta guía fueron consensuadas con la comunidad de usuarios de R e
 * **Resumen de las reglas de estilo**
 
   1. Nombres de ficheros: tienen la extensión `.R`
-  2. Identificacores: `variable.name`, `FunctionName`, `kConstantName`
+  2. Identificadores: `variable.name`, `FunctionName`, `kConstantName`
   3. Longitud de línea: no más de 80 caracteres
   4. Indentación: dos espacios, no tabuladores
   5. Espacios
@@ -53,12 +53,12 @@ utilizar `stop()` para generar mensajes de error
 
 * **Nombres de ficheros.** Los nombres de ficheros deben tener la extensión `.R` y, por supuesto, ser significativos.
 
-{{< highlight R >}}
+```r
 # BIEN:
 predict_ad_revenue.R
 # MAL:
 foo.R
-{{< / highlight >}}
+```
 
 * **Identificadores.** No usar guiones bajos ( `_` ) o guiones ( `-` ) en los identificadores. Los identificadores deben asignarse de acuerdo con los siguientes criterios:
 
@@ -66,7 +66,7 @@ foo.R
   * los nombres de funciones deben ser palabras con su primera letra en mayúsculas y, las demás, en minúsculas y no se usarán puntos para separarlas (ejemplo: CapWords);
   * para las constantes se seguirá la misma convención que para las funciones aunque se utilizará el prefijo `k`.
 
-{{< highlight R >}}
+```r
 # nombres de variables
 # BIEN:
 avg.clicks
@@ -82,7 +82,7 @@ CalculateAvgClicks
 # MAL:
 calculate_avg_clicks
 calculateAvgClicks`
-{{< / highlight >}}
+```
 
 * Usa verbos como nombres de funciones. _Excepción: al trabajar con objetos, el nombre de la función (constructor) y la clase deben coincidir (p.e., lm)._
 
@@ -94,7 +94,7 @@ calculateAvgClicks`
 * **Espaciado:** Usar espacios alrededor de todos los operadores binarios (`=`, `+`, `-`, `<-`, etc.). _Excepción: los espacios alrededor de `=` son opcionales en las llamadas a una función._
 * Usar espacios siempre después de las comas, pero nunca antes de ellas.
 
-{{< highlight R >}}
+```r
 # BIEN:
 
 tabPrior <- table(df[df$daysFromOpt < 0, "campaignid"])
@@ -108,34 +108,34 @@ tabPrior<- table(df[df$daysFromOpt < 0, "campaignid"])  # Necesita un espacio an
 tabPrior<-table(df[df$daysFromOpt < 0, "campaignid"])  # Necesita espacios alrededor de <-
 total <- sum(x[,1])  # Necesita espacio después de la coma
 total <- sum(x[ ,1])  # Necesita un espacio después de la coma, no antes<
-{{< / highlight >}}
+```
 
 
 * Usa un espacio delante del paréntesis izquierdo, salvo en llamadas a funciones.
 
-{{< highlight R >}}
+```r
 # BIEN:
 if (debug) ...
 
 # MAL:
 if(debug) ...
-{{< / highlight >}}
+```
 
 * El espacio adicional en una línea (más de uno en una fila) es permisible si mejora la alineación del código.
 
-{{< highlight R >}}
+```r
 plot(x    = xCoord,
       y    = dataMat[, makeColName(metric, ptiles[1], "roiOpt")],
       ylim = ylim,
       xlab = "dates",
       ylab = metric,
       main = (paste(metric, " for 3 samples ", sep="")))
-{{< / highlight >}}
+```
 
 
 * No usar espacios alrededor de código en paréntesis o corchetes. _Excepción: Usar espacio siempre antes de una coma._
 
-{{< highlight R >}}
+```r
 # BIEN:
 
 if (debug)
@@ -145,27 +145,27 @@ if (debug)
 
 if ( debug )  # No hay que colocar espacios alrededor de "debug"
 x[1,]  # Hace falta un espacio tras la coma</code>
-{{< / highlight >}}
+```
 
 
 * **Llaves.** Una llave nunca se abre en una línea nueva; sin embargo, siempre se cierran en una línea nueva.Las llaves pueden omitirse cuando encierren una única expresión; sin embargo, esta regla debe seguirse de manera _consistente_.
 
-{{< highlight R >}}
+```r
     if (is.null(ylim)) {
       ylim <- c(0, 0.06)
     }
-{{< / highlight >}}
+```
 
 xor (no los dos a la vez)
 
-{{< highlight R >}}
+```r
     if (is.null(ylim))
       ylim <- c(0, 0.06)
-{{< / highlight >}}
+```
 
 * Hay que comenzar el cuerpo de un nuevo bloque en una línea nueva.
 
-{{< highlight R >}}
+```r
 # MAL:
 
 if (is.null(ylim))
@@ -173,16 +173,16 @@ ylim <- c(0, 0.06)
 
 if (is.null(ylim))
 {ylim <- c(0, 0.06)}
-{{< / highlight >}}
+```
 
 * **Asignaciones:** Usar `<-`, no `=`, para realizar asignaciones.
 
-{{< highlight R >}}
+```r
 # BIEN:
 x <- 5
 # MAL:
 x = 5
-{{< / highlight >}}
+```
 
 
 * **Puntos y comas:** No terminar las líneas con puntos y comas. No utilizar puntos y comas para escribir más de una expresión en la misma línea. Nótese que los puntos y comas no son necesarios y que se omiten por consistencia con otras guías de estilo de Google.
@@ -202,23 +202,23 @@ x = 5
 
 * **Comentarios.** Usa comentarios en el código. Las líneas que consistan en comentarios deben comenzar por `#` seguido de un espacio.Los comentarios breves pueden ubicarse tras el código, separados de este por dos espacios, un `#` y un espacio más.
 
-{{< highlight R >}}
+```r
 # Crear histograma de frecuencias de campañas según porcentaje del presupuesto
 hist(df$pctSpent,
       breaks = "scott",  # método para elegir el número de buckets
       main   = "Histogram: fraction budget spent by campaignid",
       xlab   = "Fraction of budget spent",
       ylab   = "Frequency (count of campaignids)")
-{{< / highlight >}}
+```
 
 
 * **Funciones: definiciones y llamadas.** La definición de las funciones debe contener primero los argumentos sin valores por defecto.
 
     * Idealmente, las pruebas unitarias deberían servir como ejemplo de llamadas a funciones (para rutinas de librerías compartidas).
-    * En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneassolo deben separar asignaciones.
+    * En la definición y llamadas a funciones se permiten múltiples argumentos por línea. Las nuevas líneas solo deben separar asignaciones.
 
 
-{{< highlight R >}}
+```r
 # BIEN:
 
 PredictCTR <- function(query, property, numDays,
@@ -228,13 +228,13 @@ PredictCTR <- function(query, property, numDays,
 
 PredictCTR <- function(query, property, numDays, showPlot =
   TRUE)
-{{< / highlight >}}
+```
 
 * **Documentación de funciones.** Las funciones deberían tener una sección de comentarios inmediatamente debajo de la línea de definición de la función. Tales comentarios deberían consistir en una frase que definiese la función, una lista de los argumentos de la función precedida por `Args:` con una descripción de cada uno de ellos, incluido su tipo y una descripción del valor devuelto por la función precedido por `Returns:`. Los comentarios deberían ser lo suficientemente descriptivos como para que un usuario pudiera utilizar la función sin tener que leer su código.
 
 * **Ejemplo de función**
 
-{{< highlight R >}}
+```r
 CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
   # Computes the sample covariance between two vectors.
   #
@@ -260,7 +260,7 @@ CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
     cat("Covariance = ", round(covariance, 4), ".\n", sep = "")
   return(covariance)
 }
-{{< / highlight >}}
+```
 
 * **Estilo para los TODO.** Usa un estilo consistente para los TODO en el código.
 
@@ -271,7 +271,7 @@ CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
 
 * **Attach.** El uso de `attach` puede producir muchos errores. Evítalo.
 * **Funciones.** Usar `stop()` para lanzar mensajes de error.
-* **Objetos y médotos.** El lenguaje S tiene dos tipos de sistemas de clases, S3 y S4, disponibles en R. Los métodos S3 son más interactivos y flexibles, mientras que los S4 son más formales y rigurosos. (Para una ilustración de los dos sistemas, véase "Programmer's Niche: A Simple Class, in S3 and S4" in R News 4/1, 2004, pgs. 33 - 36 ([enlace](http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf)) por Thomas Lumley.)
+* **Objetos y métodos.** El lenguaje S tiene dos tipos de sistemas de clases, S3 y S4, disponibles en R. Los métodos S3 son más interactivos y flexibles, mientras que los S4 son más formales y rigurosos. (Para una ilustración de los dos sistemas, véase "Programmer's Niche: A Simple Class, in S3 and S4" in R News 4/1, 2004, pgs. 33 - 36 ([enlace](http://cran.r-project.org/doc/Rnews/Rnews_2004-1.pdf)) por Thomas Lumley.)
 
   * Usa objetos y objetos S3 a no ser que exista una razón poderosa para usar los del tipo S4.
   * Una justificación para usar objetos S4 sería la de poder manipularlos directamente desde C++.

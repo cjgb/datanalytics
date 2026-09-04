@@ -27,7 +27,7 @@ Nunca me habría atrevido a escribir sobre el tema, y exponerme, de paso, a la m
 
 Recuérdese que soy matemático. Igual trepé ese tejado desde la vertiente opuesta a la de la mayoría. No estaba programado para actos de fe.
 
-En lo de las pruebas de confianza, por ejemplo, me lo parecían que se _rechazasen_ hipótesis argumentando sobre datos que no se han observado. Cuando se construye el p-valor como $P(T(X) > T(\hat{X})| \theta_0)$, donde $\hat{X}$ son los datos obtenidos en el experimento, se está argumentando sobre la imposibilidad de valores posibles de $T(X)$ más extremosos que los obtenidos.
+En lo de las pruebas de confianza, por ejemplo, me lo parecían que se _rechazasen_ hipótesis argumentando sobre datos que no se han observado. Cuando se construye el p-valor como $P(T(X) > T(\hat{X})| \theta_0)$, donde $\hat{X}$ son los datos obtenidos en el experimento, se está argumentando sobre la imposibilidad de valores posibles de $T(X)$ más extremos que los obtenidos.
 
 Pero aún era más grave la teoría subyacente a la construcción de los intervalos de confianza. Se observa un valor $\hat{\theta}$ (p.e., la proporción de caras obtenidas al tirar una moneda) y el intervalo de confianza se construye alrededor (y en ocasiones simétricamente) alrededor de ese valor.
 
@@ -42,7 +42,7 @@ Son muchos años ya desde entones, pero recuerdo verme pensando en lo siguiente:
 * $\hat{\theta}$ es una magnitud que se compone de dos partes: señal (sobre el valor real del parámetro) y ruido.
 * Ese valor estimado $\hat{\theta}$ no debería _generar_ el intervalo. Con generar me refiero a actuar como si fuese el valor real del parámetro gracias tal vez a una aproximación, como indico más arriba. Ese valor es generado por el valor real (aunque desconocido) del parámetro. Supongamos, por ejemplo, en el caso de una proporción, que obtenemos una estimada de 0.6; ese valor puede proceder de un parámetro real de 0.51, de otro de 0.875, de otro de 0.61, etc. cada uno de ellos con una probabilidad distinta.
 * Es decir, que lo que se tiene es una colección de probabilidades $p(\hat{\theta}|\theta)$ a las que tenía que _dar la vuelta_ para conseguir $p(\theta|\hat{\theta})$.
-* La manera en la que lo vi hacer en la pizarra me parecía grotesca y difícimente justificable.
+* La manera en la que lo vi hacer en la pizarra me parecía grotesca y difícilmente justificable.
 * Además, mil tíos distintos, usando variaciones de esos principios grotescos y difícilmente justificables ha creado mil versiones distintas de esos intervalos de confianza.
 
 Si hubiese sido un poco más agudo, habría levantado el dedo y habría preguntado: ¿por qué no usar el teorema de Bayes? Pero era demasiado pendejo.

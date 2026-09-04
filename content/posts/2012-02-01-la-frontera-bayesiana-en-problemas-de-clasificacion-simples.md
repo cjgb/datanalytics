@@ -22,13 +22,13 @@ title: La frontera bayesiana en problemas de clasificación (simples)
 url: /2012/02/01/la-frontera-bayesiana-en-problemas-de-clasificacion-simples/
 ---
 
-Una de las preguntas formuladas dentro del foro desde el que seguimos la lectura del libro _The Elements of Statistsical Learning_ se refiere a cómo [construir la frontera bayesiana óptima](http://esl.ubidata.org/preguntas/18/optimal-bayes-decision-boundary) en ciertos problemas de clasificación.
+Una de las preguntas formuladas dentro del foro desde el que seguimos la lectura del libro _The Elements of Statistical Learning_ se refiere a cómo [construir la frontera bayesiana óptima](http://esl.ubidata.org/preguntas/18/optimal-bayes-decision-boundary) en ciertos problemas de clasificación.
 
 Voy a plantear aquí una discusión así como código en R para representarla (en casos simples y bidimensionales).
 
 Supongamos que hay que crear un clasificador que distinga entre puntos rojos y verdes con la siguiente pinta,
 
-{{< highlight R >}}
+```r
 library(mvtnorm)
 library(MASS)
 
@@ -52,16 +52,15 @@ mi.muestra <- rbind(muestra.r, muestra.v)
 
 plot(mi.muestra$x, mi.muestra$y,
         col = as.character(mi.muestra$clase))
-{{< / highlight >}}
+```
 
 es decir, así:
 
-[![](/img/2012/02/datos_clasificacion.png#center)
-](/img/2012/02/datos_clasificacion.png#center)
+![](/img/2012/02/datos_clasificacion.png#center)
 
 Los puntos rojos están distribuidos según $P(x|R)$, una mezcla de tres distribuciones normales esféricas con centros en los puntos (-1,1), (0,0) y (1,-1) y desviación estándar 0.5. Los verdes, según $P(x|V)$, una distribución similar aunque con centros en (-1,-1) y (1,1):
 
-{{< highlight R >}}
+```r
 veros <- function(w, medias, sigma = 5){
     mean(dmvnorm(medias, w, sigma = diag(length(w)) / sigma))
 }
@@ -82,17 +81,15 @@ points(muestra.r$x, muestra.r$y,col="red")
 
 contour(x=tmp,y=tmp,z=matrix(bayes.v, length(tmp)))
 points(muestra.v$x, muestra.v$y,col="green")
-{{< / highlight >}}
+```
 
 Gráficamente,
 
-[![](/img/2012/02/rojos.png#center)
-](/img/2012/02/rojos.png#center)
+![](/img/2012/02/rojos.png#center)
 
 y
 
-[![](/img/2012/02/verdes.png#center)
-](/img/2012/02/verdes.png#center)
+![](/img/2012/02/verdes.png#center)
 
 La frontera bayesiana óptima está basada en el siguiente razonamiento, valga la redundancia, bayesiano:
 
@@ -112,17 +109,16 @@ $$ \frac{ P(R|x)}{P(V|x)} = \frac{ P(x|R)}{P(x|V)}$$
 y, no habiendo penalizaciones asimétricas según la dirección del error, el criterio óptimo de clasificación es asignar la clase R cuando $P(R|x) > P(V|x)$ y, de acuerdo con la fórmula anterior, cuando $P(x|R) > P(x|V)$. Es decir, la _frontera_ entre las zonas en que es más probable que una observación proceda de una u otra distribución (es decir, sea de una u otra clase) es
 
 
-{{< highlight R >}}
+```r
 contour(x=tmp,y=tmp,
         z=matrix(bayes.v - bayes.r, length(tmp)),
         levels = 0, labels = "")
 points(mi.muestra$x, mi.muestra$y,
     col = as.character(mi.muestra$clase))
-{{< / highlight >}}
+```
 
 que tiene, para este caso concreto, el siguiente aspecto:
 
-[![](/img/2012/02/frontera_bayesiana.png#center)
-](/img/2012/02/frontera_bayesiana.png#center)
+![](/img/2012/02/frontera_bayesiana.png#center)
 
 Y mañana, ¡a Iguazú!

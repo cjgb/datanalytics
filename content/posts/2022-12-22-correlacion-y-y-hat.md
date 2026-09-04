@@ -35,5 +35,5 @@ Por eso, el error en validación es, en promedio, superior al error en entrenami
 * El error promedio en entrenamiento es la distancia media entre las variables aleatorias $Y$, con distribución $F$ e $\hat{Y}$, correlacionada con $Y$.
 * El error promedio en validación es la distancia media entre las variables aleatorias $Z$, con distribución $F$ y $\hat{Y}$, independiente de ella.
 
-Es fácil intuir que la diferencia entre los errores cometidos en entrenamiento y validación tienen por lo tanto algo que ver ---al menos, cuando los errores son cuadráticos--- con la covarianza entre $Y$ e $\hat{Y}$. Y, efectivamnte, es así: es algo que los lectores interesados encontrarán desarrollado en
+Es fácil intuir que la diferencia entre los errores cometidos en entrenamiento y validación tienen por lo tanto algo que ver ---al menos, cuando los errores son cuadráticos--- con la covarianza entre $Y$ e $\hat{Y}$. Y, efectivamente, es así: es algo que los lectores interesados encontrarán desarrollado en
 [_Exceso de optimismo: La diferencia entre el error de test y el de entrenamiento_](https://verso.mat.uam.es/~joser.berrendero/caminos_aleatorios/posts/004-optimismo/index.html).

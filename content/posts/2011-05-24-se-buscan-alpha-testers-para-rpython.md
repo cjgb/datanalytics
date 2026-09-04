@@ -37,12 +37,12 @@ Quien disponga de unos minutos que perder en pro de los interesados en la intera
 
 
 
-{{< highlight R >}}
+```r
 a <- 1:4
 b <- 5:8
 python.exec( c( "def concat(a,b):", "\treturn a+b" ) )
 python.call( "concat", a, b)
-{{< / highlight >}}
+```
 
 
 

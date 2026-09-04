@@ -25,19 +25,19 @@ Voy a ilustrar el uso de una función de R que echábamos de menos los usuarios 
 El ejemplo proviene de un [intercambio de correos en las listas de R](https://stat.ethz.ch/pipermail/r-help/2010-November/258901.html) acerca de un _truco estúpido_: cómo crear una función parecida a ls() que mostrase solo los objetos de una determinada clase. Se propuso
 
 
-{{< highlight R >}}
+```r
 getclass <- function( cls = "data.frame" ) ls(envir=.GlobalEnv)[
                 sapply(
                     sapply(ls(envir=.GlobalEnv), function(x) class(get(x)) ),
                     function(y) cls %in% y)   ]
-{{< / highlight >}}
+```
 
 Usando la función `Filter` podemos hacer lo mismo mucho más sucintamente:
 
-{{< highlight R >}}
+```r
 getclass <- function( cls = "data.frame" )
     Filter( function( x ) cls %in% class( get( x ) ),
                 ls( envir=.GlobalEnv ) )
-{{< / highlight >}}
+```
 
 Los interesados ya saben qué hacer hoy: `?Filter`

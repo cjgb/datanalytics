@@ -45,7 +45,7 @@ El servidor doméstico gestiona también mis copias de seguridad (vía [Syncthin
 
 El problema que resuelven los LLMs en todo el tinglado anterior es el de preparar una ficha de Obsidian a partir de un enlace (una url) dado. La ficha ha de contener el título, el autor, el enlace, un breve resumen y una serie de etiquetas, todas en correcto formato _markdown_. De hecho, la plantilla que uso (vía [Jinja](https://palletsprojects.com/p/jinja/)), es
 
-{{< highlight python >}}
+```python
 markdown_template = """
 - Autor: [[{{ author }}]]
 - [URL]({{ url }})
@@ -58,14 +58,14 @@ markdown_template = """
   {% for kw in keywords %} - [[{{ kw }}]]
   {% endfor %}
 """
-{{< / highlight >}}
+```
 
 Lo que hace mi LLM es:
 
 - tomar el texto completo del artículo y
 - completar un fichero con formato _json_ cuya especificación viene dada por
 
-{{< highlight python >}}
+```python
 class PageSummary(BaseModel):
     """Summarizes a webpage extracting the key information"""
 
@@ -76,13 +76,13 @@ class PageSummary(BaseModel):
     technical_terms: list[str] = Field(description="List of the most obscure jargon terms in the text, along with a short explanation of them.")
 
 """
-{{< / highlight >}}
+```
 
 (Es largo de contar, pero es cómodo usar [pydantic](https://docs.pydantic.dev/latest/) para crear un fichero _json_ que reproduzca la estructura de la clase anterior, con instrucciones y todo.)
 
 El proceso llama a
 
-{{< highlight python >}}
+```python
 chat_completion = client.chat.completions.create(
     model="mistralai/Mixtral-8x7B-Instruct-v0.1",
     response_format={
@@ -95,11 +95,11 @@ chat_completion = client.chat.completions.create(
     ],
     temperature=0.1
 )
-{{< / highlight >}}
+```
 
 con el `user_content` definido mediante
 
-{{< highlight python >}}
+```python
 user_content = f"""
     Analyze the following text according to the instructions
     provided in the output template:
@@ -107,7 +107,7 @@ user_content = f"""
     {out['text']}
     ---
 """
-{{< / highlight >}}
+```
 
 La salida, en _json_, se transforma luego ---si todo va bien--- en el fichero _markdown_ deseado.
 

@@ -46,7 +46,7 @@ Así que le pregunté a ChatGPT por la forma concreta de ajustar esos datos. Y v
 
 ### III.
 
-Se me habían ocurrio, aun sin mirar demasiado, dos maneras de hacerlo _bien_:
+Se me habían ocurrido, aun sin mirar demasiado, dos maneras de hacerlo _bien_:
 
 - Utilizar una variable objetivo bidimensional (éxitos, ensayos) tal como se puede hacer, por ejemplo, en R con la función `glm` para ajustar modelos logísticos.
 - Utilizar 0/1 pero usando el número de ensayos como _peso_ de la observación. Más concretamente, desdoblar cada fila del conjunto original en dos, utilizando en una de ellas 1 y número de éxitos como objetivo y peso y, en la otra, 0 y número de ensayos menos número de éxitos para lo mismo.

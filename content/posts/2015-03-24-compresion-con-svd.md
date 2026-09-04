@@ -19,12 +19,11 @@ title: Compresión con SVD
 url: /2015/03/24/compresion-con-svd/
 ---
 
-[![svd_greco](/img/2015/03/svd_greco.png#center)
-](/img/2015/03/svd_greco.png#center)
+![svd_greco](/img/2015/03/svd_greco.png#center)
 
 lo he creado con
 
-{{< highlight R >}}
+```r
 library(png)
 
 tmp.file <- tempfile()
@@ -51,4 +50,4 @@ layout(matrix(1:9, 3, 3, byrow = T))
 
 sapply(c(1,2,3,5,10,15,20,30,50),
         function(k) filtra.svd(svd.m, k))
-{{< / highlight >}}
+```

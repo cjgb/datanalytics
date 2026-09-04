@@ -40,7 +40,7 @@ Este ajuste puede ayudarnos a resolver el siguiente problema en R: se ha ajustad
 
 porque las probabilidades asignadas estarían sesgadas. Lo que puede hacerse es usar la función
 
-{{< highlight R >}}
+```r
 prediccion.calibracion <- function(model, newdata, proporciones){
   tmp <- predict(model, newdata = newdata)
   offset <- log( (1 - proporciones[1]) / proporciones[1] *
@@ -48,7 +48,7 @@ prediccion.calibracion <- function(model, newdata, proporciones){
   tmp <- tmp - offset
   exp(tmp) / (1 + exp(tmp))
 }
-{{< / highlight >}}
+```
 
 que, primero, calcula la predicción sesgada en la escala lineal, aplica luego el término corrector y, finalmente, usa la función de enlace (_link_) para obtener las probabilidades de éxito con el sesgo corregido.
 

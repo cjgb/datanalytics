@@ -27,9 +27,9 @@ La función `plot` es genérica. Uno puede aplicársela a un `data.frame` o a un
 
 
 
-{{< highlight R >}}
+```r
 methods(plot)
-{{< / highlight >}}
+```
 
 
 
@@ -47,7 +47,7 @@ Podemos hacer un pequeño experimento creando una función genérica, `foo`, bas
 
 
 
-{{< highlight R >}}
+```r
     foo <- function( x ) UseMethod( "foo", x )
     foo.data.frame <- function( x ) plot( x )
     foo.integer <- function( x ) sum( x )
@@ -56,7 +56,7 @@ Podemos hacer un pequeño experimento creando una función genérica, `foo`, bas
     foo( iris )
     foo( 1:7 )
     foo( "hola" )
-{{< / highlight >}}
+```
 
 
 
@@ -72,12 +72,12 @@ También es posible crear nuevos métodos para funciones genéricas existentes. 
 
 
 
-{{< highlight R >}}
+```r
 plot.hola.hola <- function( x ) print( "caracola" )
 a <- list()
 class( a ) <- "hola.hola"
 plot( a )
-{{< / highlight >}}
+```
 
 
 
@@ -108,11 +108,11 @@ En primer lugar, **crear la función genérica**. Por ejemplo,
 
 
 
-{{< highlight R >}}
+```r
 as.px <- function ( x, ... ){
     UseMethod( "as.px", x )
 }
-{{< / highlight >}}
+```
 
 
 
@@ -130,9 +130,9 @@ Después se pueden **crear los métodos necesarios**. Por ejemplo, en nuestro ca
 
 
 
-{{< highlight R >}}
+```r
 as.px.array  <- function (x, skeleton.px = NULL, list.keys = NULL  )
-{{< / highlight >}}
+```
 
 
 
@@ -154,11 +154,11 @@ El único punto delicado y que se desvía de la _norma_ radica en los ficheros d
 
 
 
-{{< highlight R >}}
+```r
 \name{as.px}
 \alias{as.px}
 \alias{as.px.array}
-{{< / highlight >}}
+```
 
 
 
@@ -170,9 +170,9 @@ Es decir, utilizando un _alias_ para el método de manera que cuando alguien esc
 
 
 
-{{< highlight R >}}
+```r
 ?as.px
-{{< / highlight >}}
+```
 
 
 
@@ -188,9 +188,9 @@ o
 
 
 
-{{< highlight R >}}
+```r
 ?as.px.array
-{{< / highlight >}}
+```
 
 
 
@@ -206,12 +206,12 @@ se muestre el fichero en cuestión. La sección `usage` quedaría así:
 
 
 
-{{< highlight R >}}
+```r
 \usage{
 as.px( x, ... )
 \S3method{as.px}{array}( x, skeleton.px = NULL, list.keys = NULL, ... )
 }
-{{< / highlight >}}
+```
 
 
 
@@ -229,9 +229,9 @@ Hay que advertir el peculiar formato de la llamada al método en el que queda de
 
 
 
-{{< highlight R >}}
+```r
 S3method( plot, mi.clase )
-{{< / highlight >}}
+```
 
 
 

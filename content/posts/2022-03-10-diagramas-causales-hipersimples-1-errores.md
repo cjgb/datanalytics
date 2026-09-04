@@ -34,18 +34,18 @@ El diagrama causal de hoy es, prácticamente, el más simple que cabe concebir: 
 
 ¿En qué variarán las regresiones `Y ~ X` e `Y ~ X + Z`? Voy a ilustrarlo con un ejemplo concreto basado en una simulación de los datos que es una de las posibles manifestaciones del diagrama causal anterior:
 
-{{< highlight R >}}
+```r
 n <- 1000
 x <- rnorm(n)
 z <- rnorm(n)
 y <- .5 * x + .2 * z + rnorm(n, 0, .1)
-{{< / highlight >}}
+```
 
 (Para los nuevos en el asunto: al ser $X$ y $Z$ _fuente_ pero no _sumidero_ de fechas, podemos _inicializar_ esas variables como mejor nos parezca; el que dependa $Y$ de ambas significa que esta tiene que ser función de aquellas.)
 
 Comenzaré con la regresión `Y ~ X`. Tal como se ha definido $Y$, cabe esperar que el coeficiente de $X$ sea aproximadamente $0.5$. Y en efecto, `summary(lm(Y ~ X))` da
 
-{{< highlight text "linenos=false" >}}
+```text
              Estimate Std. Error t value Pr(>|t|)
 (Intercept) -0.008209   0.007122  -1.153    0.249
 x            0.494448   0.006864  72.033   <2e-16 ***
@@ -53,11 +53,11 @@ x            0.494448   0.006864  72.033   <2e-16 ***
 Residual standard error: 0.2249 on 998 degrees of freedom
 Multiple R-squared:  0.8387,	Adjusted R-squared:  0.8385
 F-statistic:  5189 on 1 and 998 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 Por otro lado, `summary(lm(Y ~ X + Z))` da
 
-{{< highlight text "linenos=false" >}}
+```text
             Estimate Std. Error t value Pr(>|t|)
 (Intercept) 0.001920   0.003172   0.605    0.545
 x           0.506494   0.003059 165.598   <2e-16 ***
@@ -66,13 +66,13 @@ z           0.198410   0.003118  63.630   <2e-16 ***
 Residual standard error: 0.1 on 997 degrees of freedom
 Multiple R-squared:  0.9681,	Adjusted R-squared:  0.9681
 F-statistic: 1.514e+04 on 2 and 997 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 ¿En qué se parecen? Esencialmente, en la estimación del coeficiente de $X$: es, como cabría esperar, aproximadamente $0.5$.
 
 ¿En qué difieren? Esencialmente, en el error del modelo. En el más simple, la sd residual es de .22 y en el más complejo, de 0.1 (que es, como cabría esperar de nuevo, el especificado en la construcción de $Y$, i.e., el _real_). Estas diferencias en el tamaño de los residuos se trasladan al resto de los estadísticos: la $R^2$, etc.
 
-Nótese que, en general, el error residual de un modelo lineal recoge la influencia de todas las variables potencialmente incluibles en la regresión pero que quedan fuera de él por distintos motivos. Introducir variables _similares_ ---aquí _similares_ tiene un significado muy concreto que aclarará en las siguientes entradas de las serie--- a $Z$ ayuda a reducir el error residual y, por lo tanto, los estadísticos que dependen de él, como la mencionada $R^2$. Pero no tiene mayor impacto en la medición del efecto de interés.
+Nótese que, en general, el error residual de un modelo lineal recoge la influencia de todas las variables potencialmente incluibles en la regresión pero que quedan fuera de él por distintos motivos. Introducir variables _similares_ ---aquí _similares_ tiene un significado muy concreto que aclarará en las siguientes entradas de las seriess--- a $Z$ ayuda a reducir el error residual y, por lo tanto, los estadísticos que dependen de él, como la mencionada $R^2$. Pero no tiene mayor impacto en la medición del efecto de interés.
 
 ### Notas adicionales
 

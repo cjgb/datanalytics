@@ -19,7 +19,7 @@ title: Hagan sus apuestas; luego, corran el siguiente código
 url: /2019/08/06/hagan-sus-apuestas-luego-corran-el-siguiente-codigo/
 ---
 
-{{< highlight R >}}
+```r
 library(microbenchmark)
 library(ggplot2)
 
@@ -35,4 +35,4 @@ res <- microbenchmark(
 )
 
 autoplot(res)
-{{< / highlight >}}
+```

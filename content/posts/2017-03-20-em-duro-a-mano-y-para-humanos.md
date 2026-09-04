@@ -63,7 +63,7 @@ Notas varias:
 
 Y el código, por referencia:
 
-{{< highlight R >}}
+```r
 library(MASS)
 library(plyr)
 
@@ -113,4 +113,4 @@ while (TRUE){
   prev.cluster.id <- cluster.id
   i <- i + 1
 }
-{{< / highlight >}}
+```

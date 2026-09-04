@@ -32,9 +32,9 @@ Voy a comenzar con el caso más simple que se me ocurre. Supongamos que tenemos 
 
 En particular, supongamos que $Y \sim N(0, 10)$. La distribución de $X+Y$ es aproximadamente normal (en este caso, estrictamente normal $N(0, \sqrt(11))$). Así que podemos muestrearla y obtener un valor observado `o`.
 
-{{< highlight R >}}
+```r
 o <- rnorm(1, 0, sqrt(101))
-{{< / highlight >}}
+```
 
 El siguiente paso consiste en _invertir la difusión_. En concreto, consiste en encontrar el valor $X$ que hace más probable ese valor de `o`; o, lo que es lo mismo,  encontrar el $x$ que maximiza $p(x | 0)$. Como sabemos (vía Bayes) que
 
@@ -42,18 +42,18 @@ $$p(x | o) \propto p(o | x) p(x) = p_d(o -x) p_0(x),$$
 
 donde $p_d$ es la densidad de una $N(0, 10)$ y $p_0$ es nuestra densidad original, podemos encontrar el $x$ más probable haciendo
 
-{{< highlight R >}}
+```r
 post <- function(x, o = 0) {
   dnorm(o - x, 0, 10) * dnorm(x, 0, 1)
 }
 optimize(post,
          lower = -10, upper = 10,
          maximum = TRUE, o = o)
-{{< / highlight >}}
+```
 
 Y si simulamos _en masa_,
 
-{{< highlight R >}}
+```r
 oes <- rnorm(100, 0, sqrt(101))
 res <- sapply(
   oes,
@@ -61,7 +61,7 @@ res <- sapply(
                        lower = -10, upper = 10,
                        maximum = TRUE, o = o)$maximum)
 hist(res)
-{{< / highlight >}}
+```
 
 obtenemos
 

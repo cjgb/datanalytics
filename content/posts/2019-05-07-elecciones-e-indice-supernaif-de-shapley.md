@@ -28,7 +28,7 @@ Aprovechando que el paquete [`GameTheoryAllocation`](https://cran.r-project.org/
 
 Al menos, de acuerdo con el siguiente código:
 
-{{< highlight R >}}
+```r
 library(GameTheoryAllocation)
 
 partidos <- c(123, 66, 57, 35, 24, 15, 7, 7,
@@ -52,7 +52,7 @@ res <- rev(res)
 
 dotchart(res, labels = names(res),
           main = "naive shapley index \n elecciones 2019")
-{{< / highlight >}}
+```
 
 Lo del índice de Shapley, de ignorarlo, lo tendréis que consultar por vuestra cuenta. Al menos, para saber por qué no debería usarse tan frecuentemente (en problemas de atribución, entre otros).
 

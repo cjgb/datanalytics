@@ -28,7 +28,7 @@ Me ha interesado no obstante la distribución de su fecha de publicación. Si su
 
 El código, por si a alguno le aprovecha,
 
-{{< highlight R >}}
+```r
 library(rvest)
 
 res <- read_html("https://en.m.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century")
@@ -43,4 +43,4 @@ decadas <- 10 * floor(annos / 10)
 decadas[decadas < 1900] <- 1900
 
 barplot(table(decadas), horiz = F, las = 2)
-{{< / highlight >}}
+```

@@ -27,13 +27,11 @@ Diríase que dos fenómenos _vinculados de forma muy significativa_ guardan una 
 
 Traigo pues a colación dos fenómenos. El primero es
 
-[![suicidios_espana](/img/2016/01/suicidios_espana.png#center)
-](/img/2016/01/suicidios_espana.png#center)
+![suicidios_espana](/img/2016/01/suicidios_espana.png#center)
 
 Y el segundo,
 
-[![suicidios_espana_suicidios](/img/2016/01/suicidios_espana_suicidios.png#center)
-](/img/2016/01/suicidios_espana_suicidios.png#center)
+![suicidios_espana_suicidios](/img/2016/01/suicidios_espana_suicidios.png#center)
 
 ¿Diríais que están _vinculados de forma muy significativa_?
 
@@ -54,14 +52,14 @@ El efecto es, según los autores, significativo, pero no está claro que sea rel
 El segundo gran tema es que un resultado (o coeficiente) puede resultar o no significativo dependiendo de lo que uno haga, las variables que utilice, etc. Aquí echo de menos ese párrafo que he omitido más arriba sobre los perversos incentivos de la academia. Como los autores (otra cosa para la que no tienen mayor incentivo) no han hecho públicos los datos (o no los han publicitado lo suficientemente bien como para que los encuentre), [los he recopilado yo mismo](/uploads/datos_suicidio_espana.txt). Se puede hacer
 
 
-{{< highlight R >}}
+```r
 dat <- read.table("/uploads/datos_suicidio_espana.txt")
 summary(dat)
-{{< / highlight >}}
+```
 
 para cargarlos y ver que los míos coinciden mayormente con los de los autores (comparando el `summary` con la tabla 2 del artículo y luego, por ejemplo, una cosa muy razonable,
 
-{{< highlight R >}}
+```r
 library(<lme4)
 mod.lmer.paro <- lmer(tasa.suicidio ~  edad.media +
     esperanza.vida + tasa.fecundidad + ratio.sexos +
@@ -111,7 +109,7 @@ confint(mod.lmer.paro)
 # tasa.fecundidad -0.177069458 -0.02761042
 # ratio.sexos      0.052761800  0.49107541
 # tasa.paro       -0.002011176  0.07314789
-{{< / highlight >}}
+```
 
 para ilustrar cómo la significancia estadística, al igual que la belleza, está a menudo en el ojo de quien la mire.
 

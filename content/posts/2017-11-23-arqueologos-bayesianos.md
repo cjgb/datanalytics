@@ -44,4 +44,4 @@ Y aún más para incluir la posibilidad de _outliers_, etc.
 
 Para saber más, [esto](https://cran.r-project.org/web/packages/ArchaeoChron/index.html) y, sobre todo, [esto](https://hal.archives-ouvertes.fr/hal-01162404/document).
 
-**Coda:** Este es otro de los problemas reales que no tengo muy claro cómo atacar con _deep lerning_, `xgboost`, etc.
+**Coda:** Este es otro de los problemas reales que no tengo muy claro cómo atacar con _deep learning_, `xgboost`, etc.

@@ -22,22 +22,22 @@ url: /2015/09/18/un-problema-sencillo-posiciones-y-ruido/
 
 Voy a describir la solución de un problema _sencillo_. Se trata de un objeto que se mueve a una velocidad no necesariamente constante en línea recta. Este objeto emite su posición y velocidad periódicamente (p.e., cada segundo). Por centrar ideas, su posición y velocidad reales en esos momentos son
 
-{{< highlight R >}}
+```r
 n <- 100
 v.real <- rnorm(n, 1, 0.2)
 x.real <- cumsum(v.real)
-{{< / highlight >}}
+```
 
 (Perdóneseme lo gañán de la física que aplico para calcular las posiciones: prometo que se puede y que sé hacerlo mejor; pero para el presente caso, vale).
 
 Sin embargo, el canal por el que el objeto transmite esa información tiene ruido. La señal recibida es, por tanto,
 
-{{< highlight R >}}
+```r
 sigma.x <- 0.2
 sigma.v <- 0.2
 v0 <- v.real + rnorm(n, 0, sigma.v)
 x0 <- x.real + rnorm(n, 0, sigma.x)
-{{< / highlight >}}
+```
 
 El problema consiste en obtener estimaciones de la posición del objeto a partir de las observadas (con ruido). Hay una solución sencilla: las posiciones observadas son las reales más un error normal de desviación estándar 0.2. Podemos quedarnos ahí.
 
@@ -45,7 +45,7 @@ También podemos leer y aplicar [esto](https://en.wikipedia.org/wiki/Kalman_filt
 
 Así que he dejado que R lo haga casi todo por mí:
 
-{{< highlight R >}}
+```r
 library(rstan)
 
 standat <- list(N = n, x0 = x0, v0 = v0,
@@ -84,7 +84,7 @@ fit <- stan(model_code = stanmodelcode,
             data = standat,
             iter=12000, warmup=2000,
             chains=4, thin=10)
-{{< / highlight >}}
+```
 
 
 La estimación (por la media de la distribución a posteriori de las posiciones `x`) puede obtenerse haciendo `colMeans(as.data.frame(fit)[,1:n])` y dejo como ejercicio comparar el error cuadrático medio así obtenido con el de la estimación perezosa de más arriba.

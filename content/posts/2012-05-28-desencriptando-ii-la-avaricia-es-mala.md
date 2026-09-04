@@ -24,17 +24,17 @@ El otro día propuse y [resolví un problema de encriptación con R](https://dat
 
 Este método funcionó con una cadena relativamente larga para desencriptar pero falla con otras más cortas. Por ejemplo, con
 
-{{< highlight R >}}
+```r
 cadena <-c("u","r","i","b","y","r","l","g","m","h","e","r","y",
 "b","g","m","a","c","p","y","c","m","d","r","h","z","y",
 "r","e","i","c","l","r","i","n","e","c","t","d","t","c","z",
 "c","y","c","v","r","o","d","y","s","e","r","q","c","y","c",
 "n","g","q","c","i","g","m","r","y","d","i","v","r")
-{{< / highlight >}}
+```
 
 Si ejecuto el código que presenté el otro día,
 
-{{< highlight R >}}
+```r
 quijote <- readLines( "http://www.gutenberg.org/cache/epub/2000/pg2000.txt", encoding = "UTF-8" )
 tmp <- sapply( quijote, function(x) strsplit(x, ""))
 tmp <- do.call( c, tmp )
@@ -90,22 +90,22 @@ while( TRUE ){
     print( cadena ); flush.console()
   }
 }
-{{< / highlight >}}
+```
 
 obtengo
 
-{{< highlight R >}}
+```r
 hostrocunylortunzagranioyprolsacosqlabibaparadovirelomaraqumasunorisdo
-{{< / highlight >}}
+```
 
 
 que es, ciertamente, bastante ininteligible. Nótese, sin embargo, que casi puede leerse en español: respeta de alguna manera la secuencia de caracteres habituales en nuestra lengua. Pero no significa realmente nada.
 
-Nota: ciertamente, por diseño, el código no termina propiamente, pero uno puede observar que se acaba estabilizando en esa cadena. no termina (no tiene condición de fin porque no me entretuve en eso) pero que saca por pantalla las progresivas versiones cada vez más probables de cuál pudo ser la cadena original, al cabo de un rato se detiene en la bastante ininteligible
+Nota: ciertamente, por diseño, el código no termina propiamente, pero uno puede observar que se acaba estabilizando en esa cadena. No termina (no tiene condición de fin porque no me entretuve en eso) pero que saca por pantalla las progresivas versiones cada vez más probables de cuál pudo ser la cadena original, al cabo de un rato se detiene en la bastante ininteligible
 
 Lo que propongo hoy es una pequeña modificación del algoritmo del otro día para que, en lugar de buscar un óptimo, navegue por entre las permutaciones más probables con la esperanza de que la óptima (y, probablemente, la original) sea una de ellas. El código queda así:
 
-{{< highlight R >}}
+```r
 quijote <- readLines( "http://www.gutenberg.org/cache/epub/2000/pg2000.txt", encoding = "UTF-8" )
 tmp <- sapply( quijote, function(x) strsplit(x, ""))
 tmp <- do.call( c, tmp )
@@ -168,11 +168,11 @@ for (i in 1:100000){
 }
 
 sort(contador)
-{{< / highlight >}}
+```
 
 Las cadenas más probables (las asociadas a un contador más elevado), son
 
-{{< highlight R >}}
+```r
 fermueviclteumichaquacoelbuetraverstayoyabauadegountejauasijariceuorde
 wentrelosmuertosyagrasiembreunalenpuacicabaradevirqueharapohanoserinde
 gentrecospuertosyabrasieplreunacenmuavivalaradefirqueharamohanoserinde
@@ -182,7 +182,7 @@ bentrelosmuertosyafrasiempreunalenguacicaparadevirqueharagohanoserinde
 ferilemosnteliospaylasuenzletramerctabubazaladequlgtehalacoharoselurde
 kentrelosmuertosyabrasiempreunalencuagigaparadevirqueharacohanoserinde
 jentrelosmuertosyabrasiempreunalenguacicaparadevirqueharagohanoserinde
-{{< / highlight >}}
+```
 
 y no sé si mis lectores reconocerán en ellas una frase de Galdós que aparecía en tiempos en los billetes de 1000 pesetas.
 

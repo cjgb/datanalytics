@@ -29,7 +29,7 @@ $$ x(t) = \exp\left(-\int_0^t f(x) dx\right)$$
 
 y uno, que trabaja en el mundo del videojuego dio con la línea 401 del código que aparece [aquí](https://www.shadertoy.com/view/MldcW2) y que sirve para pintar las nubes hiperrealistas que aparecen en la misma página.
 
-Es una aplicación de la [ley de Beer](https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law) en la que mis lectores más sofisticados reconocerán el estrecho vínculo con el análisis de la superviencia. En este caso, la que trata de sobrevivir es una intensidad luminosa que atraviesa diversos medios que la van atenuando. Al ser potencialmente heterogéneos, la función de supervivencia adquiere la forma
+Es una aplicación de la [ley de Beer](https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law) en la que mis lectores más sofisticados reconocerán el estrecho vínculo con el análisis de la supervivencia. En este caso, la que trata de sobrevivir es una intensidad luminosa que atraviesa diversos medios que la van atenuando. Al ser potencialmente heterogéneos, la función de supervivencia adquiere la forma
 
 $$ S(t) = \exp\left(-\int_0^t h(x) dx\right)$$
 

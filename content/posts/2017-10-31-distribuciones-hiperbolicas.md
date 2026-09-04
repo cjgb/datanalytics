@@ -21,9 +21,9 @@ title: Distribuciones hiperbólicas
 url: /2017/10/31/distribuciones-hiperbolicas/
 ---
 
-{{< highlight R >}}
+```r
     curve(-sqrt(x^2 + 1), -5, 5)
-{{< / highlight >}}
+```
 
 
 pinta una rama de hipérbola,
@@ -32,9 +32,9 @@ pinta una rama de hipérbola,
 
 que, una vez exponenciada, i.e.,
 
-{{< highlight R >}}
+```r
     curve(exp(-sqrt(x^2 + 1)), -5, 5)
-{{< / highlight >}}
+```
 
 da
 

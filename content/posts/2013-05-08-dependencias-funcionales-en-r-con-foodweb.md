@@ -25,16 +25,15 @@ El otro día tropecé con un problema de rendimiento con R y al utilizar `Rprof(
 
 La principal sospechosa era la función `daply` (del paquete `plyr`) que parecía depender de bastantes otras. Uno puede navegar el código de las funciones para identificar esas dependencias, pero, mirad qué maravilla:
 
-{{< highlight R >}}
+```r
 library(mvbutils)
 library(plyr)
 foodweb(find.funs("package:plyr"), prune = "laply")
-{{< / highlight >}}
+```
 
 genera
 
-[![](/img/2013/05/foodweb_daply_tree.png#center)
-](/img/2013/05/foodweb_daply_tree.png#center)
+![](/img/2013/05/foodweb_daply_tree.png#center)
 
 Ahí se ve la dependencia de `daply` con respecto a `laply`. Y uno adquiere, además, una visión panorámica del paquete `plyr`.
 

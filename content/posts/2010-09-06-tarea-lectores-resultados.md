@@ -22,7 +22,7 @@ El otro día dejé planteada [una tarea para mis lectores](https://datanalytics.
 
 Acá van los resultados:
 
-{{< highlight R >}}
+```r
 n <- 100000
 dat <- data.frame( id = paste( "id", 1:n, sep = "_" ),
     valor = rnorm( n ), stringsAsFactors = F )
@@ -75,11 +75,10 @@ system.time( res <- sapply( seleccion,
 
 #  user  system elapsed
 #  0.14    0.00    0.14
-{{< / highlight >}}
+```
 
 
 Los números son tan concluyentes que me excusan de la necesidad de ofrecer explicaciones y distingos. Aunque para que mis lectores no tengan que ir subiendo y bajando por la entrada para realizar comparaciones, los resumo en un gráfico:
 
 
-[![](/img/2010/09/tiempos_busqueda_segundos.png#center)
-](/img/2010/09/tiempos_busqueda_segundos.png#center)
+![](/img/2010/09/tiempos_busqueda_segundos.png#center)

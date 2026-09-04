@@ -30,7 +30,7 @@ La historia, resumida, es que Kiko Llaneras publica sus [predicciones para el mu
 
 ![](/img/2018/07/predicciones_mundial.jpg)
 
-y a la vista de los acontecimientos balompédicos, tiempo le ha faltado al del tuit para lanzarse en tromba contra _quienes prentenden cuantificar fenónenos complejos_ y contra Llaneras en particular. Y luego, claro, parte de nosotros, le hemos atizado con bastante razón. Pero no, argumentaré, toda.
+y a la vista de los acontecimientos balompédicos, tiempo le ha faltado al del tuit para lanzarse en tromba contra _quienes pretenden cuantificar fenómenos complejos_ y contra Llaneras en particular. Y luego, claro, parte de nosotros, le hemos atizado con bastante razón. Pero no, argumentaré, toda.
 
 Me retrotraigo. Hay mucha gente que paga su hipoteca escribiendo bonito. La forma lo es casi y el fondo es secundario porque, las más de las veces, viene impuesto desde arriba (o desde antes). Pueden escribir cualitativamente sobre _fenómenos complejos_ y pueden errar o no en sus apreciaciones. Esta gente, sin embargo, observa con cierto desasosiego cómo la dirección de los vientos está cambiando y no precisamente en su favor: otra gente es capaz de argumentar sobre los mismos temas cuantitativamente arrastrando tras de sí parte de sus antiguos lectores. Pasa en prensa, pasa [en la academia](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/), pasa en consultoría y si, indagamos, seguro que en más sitios.
 

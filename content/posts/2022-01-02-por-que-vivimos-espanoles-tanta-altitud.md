@@ -51,7 +51,7 @@ El resultado, con los países ordenados por altitud mediana, es este:
 
 Y el código, por referencia,
 
-{{< highlight R >}}
+```r
 library(terra)
 library(giscoR)
 library(sf)
@@ -127,4 +127,4 @@ ggplot(kk, aes(x = altitude)) +
 
 ggsave("/tmp/distribucion_altitudes_europa.png",
        height = 21, width = 12, units = "cm")
-{{< / highlight >}}
+```

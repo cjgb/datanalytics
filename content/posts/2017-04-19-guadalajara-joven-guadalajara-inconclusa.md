@@ -37,7 +37,7 @@ El segundo tema es que Manuel Garrido [ha publicado](https://pybonacci.es/2017/0
 
 en su blog y, habiéndome faltado el tiempo para fusilar su diseño, hago pender el testigo a la altura de los ojos por si alguien lo toma. Le servirá
 
-{{< highlight R >}}
+```r
 library(rgdal)
 library(pxR)
 library(plyr)
@@ -65,4 +65,4 @@ my.palette <- brewer.pal(n = 7, name = "Blues")
 spplot(dat, "pct.jovenes",
         col.regions = my.palette, cuts = 6,
         col = "transparent")
-{{< / highlight >}}
+```

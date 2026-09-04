@@ -28,7 +28,7 @@ Esta entrada es un subproducto del trabajo que pocería que he realizado estos d
 
 La cosa es que mejorando `caRtociudad::get_cartociudad_map`, se me ha pasado por la cabeza la posibilidad de realizar la integración no ya con `ggmap` sino con `leaflet`. Y así (¡probadlos!), para los códigos postales,
 
-{{< highlight R >}}
+```r
 library(leaflet)
 
 leaflet() %>% addTiles() %>%
@@ -40,12 +40,12 @@ leaflet() %>% addTiles() %>%
     transparent = TRUE),
   tileOptions(tms = TRUE),
   attribution = "")
-{{< / highlight >}}
+```
 
 
 Para las secciones censales,
 
-{{< highlight R >}}
+```r
 leaflet() %>% addTiles() %>%
   setView(-3.703399, 40.41688, zoom = 14) %>%
   addWMSTiles(
@@ -55,12 +55,12 @@ leaflet() %>% addTiles() %>%
       transparent = TRUE),
     tileOptions(tms = TRUE),
     attribution = "")
-{{< / highlight >}}
+```
 
 
 Para los distritos censales,
 
-{{< highlight R >}}
+```r
 leaflet() %>% addTiles() %>%
   setView(-3.703399, 40.41688, zoom = 14) %>%
   addWMSTiles(
@@ -70,12 +70,12 @@ leaflet() %>% addTiles() %>%
     "image/png", transparent = TRUE),
     tileOptions(tms = TRUE),
     attribution = "")
-{{< / highlight >}}
+```
 
 
 Y para las/ciertas cosas catastrales,
 
-{{< highlight R >}}
+```r
 leaflet() %>% addTiles() %>%
   setView(-3.703399, 40.41688, zoom = 14) %>%
   addWMSTiles(
@@ -85,6 +85,6 @@ leaflet() %>% addTiles() %>%
       transparent = TRUE),
     tileOptions(tms = TRUE),
     attribution = "")
-{{< / highlight >}}
+```
 
 Se pueden añadir otras capas a estos últimos mapas cambiando lo que haya que cambiar después de leer [esto](http://www.catastro.minhap.gob.es/documentos/nuevowms_porcapas.pdf).

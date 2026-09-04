@@ -31,7 +31,7 @@ No obstante lo cual, no es infrecuente construir árboles muy grandes. Y el tama
 
 He aquí el código incrustado en un ejemplo:
 
-{{< highlight R >}}
+```r
 library(party)
 library(ggplot2)
 library(plyr)
@@ -58,9 +58,8 @@ res$node <- reorder( res$node, res$importancia, max )
 
 ggplot(res, aes(x = node, weight = importancia)) + geom_bar() +
   coord_flip() + ggtitle("Importancia de variables")
-{{< / highlight >}}
+```
 
 El resultado es:
 
-[![](/img/2013/11/ctree_var_importance.png#center)
-](/img/2013/11/ctree_var_importance.png#center)
+![](/img/2013/11/ctree_var_importance.png#center)

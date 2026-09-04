@@ -30,7 +30,7 @@ la pregunta urgente es: ¿cuántos podrían haber conocido la respuesta? Suponie
 
 En realidad, el número de aciertos, así considerado, es una mezcla de dos binomiales, una con probabilidad de acierto del 100% y otra del 33.3%. Así que
 
-{{< highlight R >}}
+```r
 library(rstan)
 
 N <- 782
@@ -77,7 +77,7 @@ res <- as.data.frame(fit)
 hist(res$p, freq = FALSE, col = "gray",
      main = "distribución de p",
      xlab = "", ylab = "")
-{{< / highlight >}}
+```
 
 para obtener el vergonzante
 

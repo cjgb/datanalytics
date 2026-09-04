@@ -24,7 +24,7 @@ url: /2015/10/21/la-falacia-del-fiscal-pero-con-frecuencias-naturales/
 
 No sé si alguien conoce [la historia de Sally Clark](https://en.wikipedia.org/wiki/Sally_Clark). Fue condenada por el asesinato de sus dos hijos. Ambos padecieron, según ella, el síndrome de la muerte súbita del lactante. La probabilidad, sin embargo, de que sus dos hijos lo padecieran (supuesto que son eventos independientes, i.e., que no hay, por ejemplo, factores genéticos comunes) era muy baja: una de 73 millones. Por eso la enchironaron.
 
-Pero, ¿qué es 1 / 73e6? Eso es $P(D|I)$, es decir, la probabilidad del suceso (los datos) condicionada a la inocencia de Sally. Sin embargo, la probabilidad que tiene que tener encuenta un juez no es esa sino $P(I|D)$, es decir, la probabilidad de ser inocente a la vista de los datos.
+Pero, ¿qué es 1 / 73e6? Eso es $P(D|I)$, es decir, la probabilidad del suceso (los datos) condicionada a la inocencia de Sally. Sin embargo, la probabilidad que tiene que tener en cuenta un juez no es esa sino $P(I|D)$, es decir, la probabilidad de ser inocente a la vista de los datos.
 
 Para pasar de $P(D|I)$ a $P(I|D)$ hay que aplicar, obviamente, el teorema de Bayes:
 
@@ -44,8 +44,7 @@ Sabíamos ya que $P(D|I)$ es una cantidad pequeña, 1/73e6. Pero también lo es 
 
 De todos modos, el teorema de Bayes confunde a profanos y no profanos. No tengo claro que todo el mundo que haya leído hasta este punto haya quedado convencido con el argumento anterior. Y no lo digo yo, sino expertos en el arte de divulgar información probabilística (y de riesgos) como dos de los héroes de esta bitácora: D. Spiegelhalter y G. Gigerenzer, que abogan, más que por la aplicación del teorema de Bayes, por las frecuencias naturales.
 
-[![natural_probabilities](/img/2015/10/natural_probabilities.png#center)
-](/img/2015/10/natural_probabilities.png#center)
+![natural_probabilities](/img/2015/10/natural_probabilities.png#center)
 
 Imaginad una lista de 73 millones de puntos verdes: son mujeres que han tenido dos hijos. Casi todos los puntos son verdes. Pero hay uno azul y unos pocos rojos. El azul es el caso en el que ha habido una doble muerte súbita. Los rojos son los casos en que mujeres desequilibradas han asesinado a sus hijos.
 

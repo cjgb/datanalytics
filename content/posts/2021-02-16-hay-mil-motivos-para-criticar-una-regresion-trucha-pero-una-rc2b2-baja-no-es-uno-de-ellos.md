@@ -32,7 +32,7 @@ Hay mil argumentos para criticar una regresión de ese estilo y mi favorita es _
 
 En primer lugar, genero varios conjuntos de datos con la misma estructura probabilística pero haciendo variar (crecer) el error irreductible, es decir, la $\sigma$ del error normal:
 
-{{< highlight R >}}
+```r
 n <- 3000
 x <- rnorm(n)
 
@@ -48,22 +48,22 @@ foo <- function(sigma){
 res <- do.call(
   rbind,
   lapply(seq(0, 2, length.out = 20), foo))
-{{< / highlight >}}
+```
 
 Los datos tienen este aspecto:
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 ggplot(res, aes(x = x, y = y)) + geom_point(alpha = .2) +
   geom_smooth(method = "lm", col = "red") +
   facet_wrap(~sigma)
-{{< / highlight >}}
+```
 
 ![](/img/2021/02/r_squared_lm.png#center)
 
 El ajuste es siempre el mismo y es ---queda propuesto como ejercicio para el lector--- perfectamente compatible con la formulación original del modelo. Sin embargo:
 
-{{< highlight R >}}
+```r
 r.squared <- unique(res[, c("sigma", "r.squared")])
 
 plot(r.squared$sigma,
@@ -72,7 +72,7 @@ plot(r.squared$sigma,
       xlab = "sigma",
       ylab = "r squared",
       main = "r cuadrado según el error\nirreductible del modelo")
-{{< / highlight >}}
+```
 
 ![](/img/2021/02/r_squared_sigma.png#center)
 

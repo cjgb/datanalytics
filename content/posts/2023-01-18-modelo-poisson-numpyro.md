@@ -41,7 +41,7 @@ Las bandas representan intervalos de confianza al 50% y 90% respectivamente. Que
 
 Por referencia, el modelo descrito más arriba es:
 
-{{< highlight python >}}
+```python
 def model02(t, datos):
   knot = numpyro.sample("knot", dist.Normal(len(t)/2, len(t)/4))
 
@@ -54,7 +54,7 @@ def model02(t, datos):
 
   with numpyro.plate("data", len(t)):
     numpyro.sample("obs", dist.Poisson(λ), obs=datos)
-{{< / highlight >}}
+```
 
 Y la distribución a posteriori del _nudo_ en el cual se produce el cambio de tendencia postulado es
 

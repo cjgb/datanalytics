@@ -32,7 +32,7 @@ Una organización seria no debería almacenar, como todas las que conozco hasta 
 
 ¿Cómo se puede obtener el número de policía? Por ejemplo, usando [`caRtociudad`](https://github.com/rOpenSpain/caRtociudad) así:
 
-{{< highlight R >}}
+```r
 library(caRtociudad)
 
 location <- cartociudad_geocode("garcía arista 13, zaragoza")
@@ -40,6 +40,6 @@ location_info <- cartociudad_get_location_info(latitude = location$lat, longitud
 numero_policia <- location_info$num.via.id
 numero_policia
 # [1] "502970129165"
-{{< / highlight >}}
+```
 
 **Coda:** todo lo relativo al número de policía podría considerarse un _outlier_ dentro los ratios entre los grados de utilidad y de conocimiento de las herramientas y estrategias necesarias para hacer (cierto tipo de) _ciencia de datos_ en España. No obstante, yo lo dejo aquí escrito y fechado como referencia mía y aviso para los demás.

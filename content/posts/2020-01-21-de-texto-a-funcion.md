@@ -23,7 +23,7 @@ url: /2020/01/21/de-texto-a-funcion/
 
 **Solución:**
 
-{{< highlight R >}}
+```r
     gen_foo <- function(expr){
         my_args <- all.vars(parse(text = expr))
         expr <- paste0("function(",
@@ -31,11 +31,11 @@ url: /2020/01/21/de-texto-a-funcion/
                        ") ", expr)
         eval(parse(text = expr))
     }
-{{< / highlight >}}
+```
 
 **Demostración:**
 
-{{< highlight R >}}
+```r
     multiplica <- gen_foo("a * b")
     multiplica(5, 31)
-{{< / highlight >}}
+```

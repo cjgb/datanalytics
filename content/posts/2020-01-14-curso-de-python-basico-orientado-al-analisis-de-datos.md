@@ -25,4 +25,4 @@ Se acaba de publicar en GitHub el/nuestro _[Curso de python básico orientado al
 
 Digo _nuestro_ un tanto impropiamente: casi todo el material es de [Luz Frías](https://github.com/koldLight), mi socia en [Circiter](http://www.circiter.es). Mía hay alguna cosa suelta.
 
-Como minicoautor soy el comentarista menos creíble del contenido, lo dejo al juicio de cada cual. Y, por supuesto, se agradecen correcciones, comentarios, cañas y fusilamientos (con la debida caballerosidad, por supuesto, en lo de las atribuciones).
+Como coinautor soy el comentarista menos creíble del contenido, lo dejo al juicio de cada cual. Y, por supuesto, se agradecen correcciones, comentarios, cañas y fusilamientos (con la debida caballerosidad, por supuesto, en lo de las atribuciones).

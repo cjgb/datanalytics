@@ -27,7 +27,7 @@ title: De ratios, apuestas y riesgos
 url: /2014/02/12/de-ratios-apuestas-y-riesgos/
 ---
 
-Nunca he entendido eso de los _odds_. Me refiero a eso que mencionan las películas: ocho contra uno a favor de tal, cinco contra tres a favor de cual. Y no creo que sea el único al que le son ajenos. De hecho, la página de la Wikipedia en español correspondiente a la inglesa para _odds_ se refiere a ellas como [_cuotas_](http://es.wikipedia.org/wiki/Cuota_(estad%C3%ADstica)), término que jamás hasta hoy había visto así usado. Tampoco lo han visto, se concoce, los lexicógrafos de la RAE.
+Nunca he entendido eso de los _odds_. Me refiero a eso que mencionan las películas: ocho contra uno a favor de tal, cinco contra tres a favor de cual. Y no creo que sea el único al que le son ajenos. De hecho, la página de la Wikipedia en español correspondiente a la inglesa para _odds_ se refiere a ellas como [_cuotas_](http://es.wikipedia.org/wiki/Cuota_(estad%C3%ADstica)), término que jamás hasta hoy había visto así usado. Tampoco lo han visto, se conoce, los lexicógrafos de la RAE.
 
 Entender lo de los _odds_ —dejadme que los llame así— me ha llevado un ratillo. En la [Wikipedia](http://en.wikipedia.org/wiki/Odds#Gambling_odds_versus_probabilities) se menciona un ejemplo: en una competición hay tres participantes que tienen probabilidades de ganar iguales a 0.5, 0.4 y 0.1. Sus correspondientes _odds_ son 1:1, 3:2 y 9:1. Esto es así porque, por ejemplo, para el tercer participante, 1 / (1+9) = 0.1. En general, para _odds_ a:b, la probabilidad del evento es b/(a+b).
 
@@ -59,8 +59,7 @@ $$ exp(\beta)=\frac{p_1/(1-p_1)}{p_0/(1-p_0)}$$,
 
 nuestro OR. Y claro, como $\beta$ tiene asociados intervalos de confianza, etc. uno puede _hacer estadística_ y, por ejemplo, construir gráficos tales como
 
-[![multiodds1](/img/2014/02/multiodds1.png#center)
-](/img/2014/02/multiodds1.png#center)
+![multiodds1](/img/2014/02/multiodds1.png#center)
 
 (Nota: el gráfico anterior está extraído de [aquí](http://strengejacke.wordpress.com/2014/01/29/comparing-multiple-glm-in-one-graph-rstats/), la bitácora del autor del [paquete `sjPlot`](http://cran.r-project.org/web/packages/sjPlot/), con el que se ha generado el gráfico anterior).
 

@@ -25,7 +25,7 @@ Hoy hablaremos de [_exploratory factorial analysis_](http://en.wikipedia.org/wik
 
 Comencemos. Primero, voy a realizar un análisis factorial (exploratorio) basándome en `?varimax`:
 
-{{< highlight R >}}
+```r
 fa <- factanal( ~., 2, data = swiss, rotation = "none")
 fa
 
@@ -53,7 +53,7 @@ fa
 # Test of the hypothesis that 2 factors are sufficient.
 # The chi square statistic is 20.99 on 4 degrees of freedom.
 # The p-value is 0.000318
-{{< / highlight >}}
+```
 
 
 Usando `factanal` he creado dos factores sobre el conjunto de datos `swiss` y he optado por no usar ningún tipo de rotación.
@@ -70,7 +70,7 @@ Rotaciones como las que produce varimax facilitan la _interpretabilidad_ de los 
 
 Pero, ¿qué se pierde? Veámoslo:
 
-{{< highlight R >}}
+```r
 varimax(loadings(fa), normalize = FALSE)
 # $loadings
 #
@@ -92,7 +92,7 @@ varimax(loadings(fa), normalize = FALSE)
 # [,1]        [,2]
 # [1,] 0.99796647 -0.06374102
 # [2,] 0.06374102  0.99796647
-{{< / highlight >}}
+```
 
 Los coeficientes de los factores han cambiado. El artefacto —de impredecibles consecuencias— consistente en omitir los coeficientes menores en valor absoluto que 0.1 oculta el de la variable `Infant.Mortality` en el segundo caso (y da la impresión, errónea por otro lado, de que el primer factor no depende de ella). Etc. Por otro lado, la varianza explicada acumulada no ha variado: 63.2%.
 

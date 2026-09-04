@@ -22,7 +22,7 @@ Esta visita adicional al tema es consecuencia de mi revisión de todo el asunto 
 
 En particular,
 
-{{< highlight R >}}
+```r
 binom.test(79, 100, 0.7)
 
 # Exact binomial test
@@ -35,7 +35,7 @@ binom.test(79, 100, 0.7)
 # sample estimates:
 #   probability of success
 # 0.79
-{{< / highlight >}}
+```
 
 es un caso en el que la prueba rechaza (al nivel de confianza del 5% siempre) y el intervalo de confianza del parámetro cubre el valor 0.7 de partida.
 

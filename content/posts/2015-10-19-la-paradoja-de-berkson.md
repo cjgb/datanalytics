@@ -35,4 +35,4 @@ Obviamente, $P(A|B,A \cup B) \leq P(A|A\cup B)$. De otra manera, la probabilidad
 
 La desigualdad anterior (que se cumple siempre) se conoce como paradoja de Berkson y se puede leer más sobre ella (incluida una demostración malísima) [aquí](https://en.wikipedia.org/wiki/Berkson%27s_paradox).
 
-Es paradoja porque en algunos contextos parece contraintituivo. En efecto, al ser independientes los dos eventos, $P(A|B) =  P(A)$. Pero al condicionar por $A \cup B$, se obtiene la desigualdad anterior.
+Es paradoja porque en algunos contextos parece contraintuitivo. En efecto, al ser independientes los dos eventos, $P(A|B) =  P(A)$. Pero al condicionar por $A \cup B$, se obtiene la desigualdad anterior.

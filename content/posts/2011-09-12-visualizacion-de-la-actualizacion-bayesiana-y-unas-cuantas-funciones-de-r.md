@@ -26,7 +26,7 @@ Me ha llegado noticia de una entrada en un _blog_, [Visualizing Bayesian Updati
 Yo me limitaré a ofrecer una nueva versión del código —que no funcionaba copiando y pegando sin más— en el que he introducido ciertas modificaciones. Es el siguiente:
 
 
-{{< highlight R >}}
+```r
 sim.bayes <- function(p=0.5, N=10, y.lim=15)
 {
   plot( 1, xlim = c(0,1), ylim = c(0, y.lim),
@@ -50,7 +50,7 @@ sim.bayes <- function(p=0.5, N=10, y.lim=15)
 }
 
 sim.bayes(p = 0.6, N = 20, y.lim = 5)
-{{< / highlight >}}
+```
 
 
 Quiero pensar que mis lectores encontrarán útil el ejemplo de uso de la función `mapply` (para recorrer dos vectores simultáneamente), `curve` (para representar gráficamente funciones).

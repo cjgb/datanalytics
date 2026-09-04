@@ -22,7 +22,7 @@ url: /2021/01/12/sobre-la-relacion-entre-la-teoria-de-la-relatividad-y-la-regres
 
 Según la teoría de la relatividad, las velocidades (lineales) se suman así:
 
-{{< highlight R >}}
+```r
 v1 <- 100000
 v2 <- 100000
 velocidad_luz <- 300000
@@ -33,11 +33,11 @@ suma_relativista <- function(x,y){
 
 suma_relativista(v1, v2)
 # 180000
-{{< / highlight >}}
+```
 
 Lo que es todavía menos conocido es que esa operación es equivalente a la suma ordinaria de velocidades a través de una transformación de ida y vuelta vía la arcotangente hiperbólica (véase [esto](https://www.johndcook.com/blog/2020/12/29/relativistic-addition/)). En concreto:
 
-{{< highlight R >}}
+```r
 f1 <- function(x) {
   atanh(x / velocidad_luz)
 }
@@ -48,11 +48,11 @@ f2 <- function(x) {
 
 f2(f1(v1) + f1(v2))
 # 180000
-{{< / highlight >}}
+```
 
 Ahora imaginemos un universo donde la velocidad máxima no es la de la luz, sino que solo están permitidas las velocidades entre 0 y 1:
 
-{{< highlight R >}}
+```r
 p1 <- .9
 p2 <- .9
 
@@ -66,7 +66,7 @@ flog2 <- function(x) {
 
 flog2(flog1(p1) + flog1(p2))
 # 0.9878049
-{{< / highlight >}}
+```
 
 Es decir, si _combinamos_ un sujeto que se mueve por si solo a una p = .9 con otro que se mueve con una p = .9,  obtenemos una p combinada de .987.
 

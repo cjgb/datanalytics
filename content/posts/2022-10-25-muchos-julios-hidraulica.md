@@ -42,7 +42,7 @@ Que quiere decir que cubriría tres veces la actual demanda de electricidad y se
 
 Y termino con la parte previsiblemente más útil de esta entrada: el código. Es:
 
-{{< highlight R >}}
+```r
 library(terra)
 library(ggplot2)
 
@@ -86,6 +86,6 @@ gw <- gwh_yr / 365 / 24
 
 vatios_m2_promedio <- julios_yr / sum(values(rarea), na.rm = T) / (365 * 24 * 3600)
 vatios_m2_promedio
-{{< / highlight >}}
+```
 
 Poco aprovechará a quien no disponga de los datos, que fueron bajados del [centro de descargas del CNIG](https://centrodedescargas.cnig.es/CentroDescargas/buscador.do), donde el interesado habrá de buscarlos y, con suerte, logrará encontrarlos.

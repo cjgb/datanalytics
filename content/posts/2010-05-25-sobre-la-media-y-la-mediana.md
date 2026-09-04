@@ -60,14 +60,14 @@ Porque es el que aparece de manera natural cuando las distribuciones subyacentes
 
 Además, es fácil de calcular y admite tratamiento analítico (tiene derivadas continuas, etc.). Pero no debería ser universalmente recetado como método ''urbi et orbi''. Porque, por ejemplo,
 
-{{< highlight R >}}
+```r
 mean.cauchy <- replicate( 100, mean( rcauchy( 1000 ) ) )
 mean( mean.cauchy )     # 2.9944
 sd( mean.cauchy )       # 30.097
 median.cauchy <- replicate( 100, median( rcauchy( 1000 ) ) )
 mean( median.cauchy )   # 0.0011333
 sd( median.cauchy )     # 0.040941
-{{< / highlight >}}
+```
 
 La mediana es mucho más eficiente a la hora de detectar el centro de una distribución de Cauchy. La situación cambia cuando los datos son normales, cierto, pero la ventaja de la media es marginal (del orden del 50%). Y no sé si alguno de mis lectores conocerá algún resultado (de existir) acerca de cuál es la distribución simétrica para la que la eficiencia de la media con respecto a la mediana es máxima.
 

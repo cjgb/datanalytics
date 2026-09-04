@@ -29,7 +29,7 @@ Entonces, ¿por qué la suficiencia? Escuchemos (leamos) lo que Fisher tiene a b
 
 ![](/img/2021/10/image.png#center)
 
-Obviamente, discrepo —aunque dejo la crítica para otra ocasión—, pero se le abona a Fisher la claridad. Más adelante, Fisher enumera ls tres subproblemas asociados a la _reducción de los datos_:
+Obviamente, discrepo —aunque dejo la crítica para otra ocasión—, pero se le abona a Fisher la claridad. Más adelante, Fisher enumera los tres subproblemas asociados a la _reducción de los datos_:
 
 
 ![](/img/2021/10/image-1.png#center)

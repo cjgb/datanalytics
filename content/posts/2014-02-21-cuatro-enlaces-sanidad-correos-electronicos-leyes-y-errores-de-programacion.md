@@ -20,7 +20,7 @@ title: 'Cuatro enlaces: sanidad, correos electrónicos, leyes y errores de progr
 url: /2014/02/21/cuatro-enlaces-sanidad-correos-electronicos-leyes-y-errores-de-programacion/
 ---
 
-El primero es _[Freer trade in European and Spanish health care services](http://marginalrevolution.com/marginalrevolution/2014/02/freer-trade-in-european-and-spanish-health-care-services.html)_ y trata sobre los efectos en el sistema sanitario español de una directiva europea que liberaliza el acceso a los ciudadanos de al unión a los servicios de salud de otros países.
+El primero es _[Freer trade in European and Spanish health care services](http://marginalrevolution.com/marginalrevolution/2014/02/freer-trade-in-european-and-spanish-health-care-services.html)_ y trata sobre los efectos en el sistema sanitario español de una directiva europea que liberaliza el acceso a los ciudadanos de la unión a los servicios de salud de otros países.
 
 En concreto, el artículo argumenta cómo España podría ser uno de los países más afectados por dos razones:
 

@@ -28,19 +28,19 @@ Y la cuestión tiene que ver con la conveniencia de utilizar una muestra equilib
 Yo quiero mostrar aquí qué sucede con los coeficientes de una regresión logística cuando se submuestrean los ceros. Para eso voy a crear muchos conjuntos de datos con la siguiente estructura:
 
 
-{{< highlight R >}}
+```r
 x1 <- rep(0:1, times = c(n, reps * n))
 x2 <- runif(n * (reps + 1))
 y <- exp(-1 - 4 * x1)
 y <- y/(1+y)
 dat$y <- sapply(y, function(x) rbinom(1, 1, x))
-{{< / highlight >}}
+```
 
 Hay dos variables independientes, `x1` y `x2`. La segunda es puro ruido. La primera es 0 (casi nunca) o 1 (a menudo). La variable dependiente `y` es 0 o 1 con una probabilidad que depende de `x1`: es mucho más probable que sea 1 cuando `x1 = 0` (pocas ocasiones) que cuando `x1 = 1` (muchas ocasiones). Los coeficientes _verdaderos_ de la regresión logística tal como se ha planteado son `c(-1, -4, 0)`.
 
 Simulemos pues:
 
-{{< highlight R >}}
+```r
 library(parallel)
 
 n    <- 100
@@ -90,29 +90,26 @@ abline(h = -4, col = "red")
 
 boxplot(x0 ~ prop, data = out, main = "x0")
 abline(h = -1, col = "red")
-{{< / highlight >}}
+```
 
 
-Hay 100 iteraciones del ajuste de la regresión logísitica sobre 10 proporciones distintas de observaciones `y = 1`. Cuando `prop = 1`, los ceros y los unos están equilibrados. Cuando `prop = 2`, hay el doble de ceros que de unos. Etc. En la última, `prop = 1000`, se toma la muestra completa.
+Hay 100 iteraciones del ajuste de la regresión logística sobre 10 proporciones distintas de observaciones `y = 1`. Cuando `prop = 1`, los ceros y los unos están equilibrados. Cuando `prop = 2`, hay el doble de ceros que de unos. Etc. En la última, `prop = 1000`, se toma la muestra completa.
 
 Veamos el comportamiento de los coeficientes. El de `x2`, he dejado dicho, es 0 por construcción. Y en efecto:
 
-[![bias_logistic_x2](/img/2014/11/bias_logistic_x2.png#center)
-](/img/2014/11/bias_logistic_x2.png#center)
+![bias_logistic_x2](/img/2014/11/bias_logistic_x2.png#center)
 
 Independientemente de la cantidad de submuestreo, la regresión logística identifica esa variable como ruido.
 
 Igual os sorprende lo que pasa con `x1`:
 
-[![bias_logistic_x1](/img/2014/11/bias_logistic_x1.png#center)
-](/img/2014/11/bias_logistic_x1.png#center)
+![bias_logistic_x1](/img/2014/11/bias_logistic_x1.png#center)
 
 A pesar del submuestreo, el coeficiente no anda lejos _de la verdad_. Solo que con más observaciones, decrece su varianza.
 
 La diferencia está en `x0`, el término independiente:
 
-[![bias_logistic_x0](/img/2014/11/bias_logistic_x0.png#center)
-](/img/2014/11/bias_logistic_x0.png#center)
+![bias_logistic_x0](/img/2014/11/bias_logistic_x0.png#center)
 
 Este varía dependiendo de la agresividad del submuestreo y es el que habría que corregir si de verdad interesa hacerlo. No es difícil realizar la corrección a mano, pero es más sencillo todavía descargarse [Logistic Regression in Rare Events Data](http://gking.harvard.edu/files/0s.pdf) y consultar la fórmula de la sección 4.1. El mismo artículo (alrededor de la fórmula número 6) también discute el fenómeno de la reducción de la varianza en los estimadores.
 

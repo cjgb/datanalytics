@@ -23,11 +23,11 @@ url: /2017/06/05/que-magritte-me-perdone/
 
 ¿Qué es `%>%`? ¿Para qué sirve? Hoy he hecho la presentación más sesgada y parcial del operador para neófitos en R:
 
-{{< highlight R >}}
+```r
 library(magrittr)
 
 8 %>% sin %>% exp
 exp(sin(8))
-{{< / highlight >}}
+```
 
 (Es que madrugar me pone de mal humor y saca mi más sincero yo de dentro de mí mismo).

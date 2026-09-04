@@ -25,7 +25,7 @@ No conocía el [paquete `gbm`](http://cran.r-project.org/web/packages/gbm/index.
 
 Bueno, la cuestión es que había que ajustar un modelo para el que yo habría hecho algo parecido a
 
-{{< highlight R >}}
+```r
 dat <- read.csv("http://www.ats.ucla.edu/stat/data/poisson_sim.csv")
 summary(m.glm <- glm(num_awards ~ prog + math, family = "poisson", data = dat))
 # Call:
@@ -50,13 +50,13 @@ summary(m.glm <- glm(num_awards ~ prog + math, family = "poisson", data = dat))
 # AIC: 385.51
 #
 # Number of Fisher Scoring iterations: 6
-{{< / highlight >}}
+```
 
 como en [esta página](http://www.ats.ucla.edu/stat/r/dae/poissonreg.htm).
 
 La alternativa con el paquete `gbm` es esta:
 
-{{< highlight R >}}
+```r
     library(gbm)
     summary(m.gbm <- gbm(num_awards ~ prog + math, distribution = "poisson", data = dat))
     # var rel.inf
@@ -69,7 +69,7 @@ La alternativa con el paquete `gbm` es esta:
     # A gradient boosted model with poisson loss function.
     # 100 iterations were performed.
     # There were 2 predictors of which 1 had non-zero influence.
-{{< / highlight >}}
+```
 
 El resultado es bastante sorprendente. Al menos, a mí me sorprende. Así que voy a tratar de invertir un tiempo estos días tratando de entender:
 

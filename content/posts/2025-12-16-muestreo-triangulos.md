@@ -29,11 +29,11 @@ Pero hay otra forma de muestrear la distribución de Dirichlet (frase que no ent
 
 Entonces, cuando hace una semana hacía
 
-{{< highlight r >}}
+```r
 set.seed(1234)
 n <- 1000
 samples <- matrix(rexp(n * 3, 1), n, 3)
 samples <- samples / rowSums(samples)
-{{< / highlight >}}
+```
 
 para obtener las coordenadas baricéntricas, ¿qué distribución cabe esperar de cada columna de `samples`? Una $B(1, 2)$, que también es conocida como la _distribución triangular_. Con lo que todo adquiere un familiar y coherente sentido.

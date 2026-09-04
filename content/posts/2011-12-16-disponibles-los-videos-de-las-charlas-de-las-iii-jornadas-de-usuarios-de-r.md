@@ -18,7 +18,7 @@ title: Disponibles los vídeos de las charlas de las III Jornadas de Usuarios de
 url: /2011/12/16/disponibles-los-videos-de-las-charlas-de-las-iii-jornadas-de-usuarios-de-r/
 ---
 
-En las Jornadas de Usuarios de R _íbamos_ a tener la posibilidad de grabar las charlas en vídeo pero resultó que no: aunque la EOI nos brindaba la infraestructura necesaria para la grabación y la retransmisión de las jornadas, corría por cuentra nuestra el pagar al operador de las cámaras, etc. Y éramos pobres.
+En las Jornadas de Usuarios de R _íbamos_ a tener la posibilidad de grabar las charlas en vídeo pero resultó que no: aunque la EOI nos brindaba la infraestructura necesaria para la grabación y la retransmisión de las jornadas, corría por cuenta nuestra el pagar al operador de las cámaras, etc. Y éramos pobres.
 
 Nos íbamos pues a quedarnos sin retransmisión en directo hasta que, a las dos de la tarde _del día anterior_, recibí este mensaje de Jose Antonio Palazón:
 
@@ -78,7 +78,6 @@ Y confirmé:
 
 Llegó José Antonio una hora antes del arranque de las jornadas, a las ocho de la mañana, y en un momento organizó su infraestructura. Ahora, tras unos días de postproducción, [los vídeos están disponibles](http://usar.org.es/videos.html).
 
-[![](/img/2011/12/videos_jornadas_r.png#center)
-](/img/2011/12/videos_jornadas_r.png#center)
+![](/img/2011/12/videos_jornadas_r.png#center)
 
 Y, efectivamente, llevaba [la misma camisa que en las I Jornadas](https://datanalytics.com/2010/09/05/el-video-de-la-conferencia-alrededores-disponible-en-dailymotion/). Que conste que lo hice a propósito.

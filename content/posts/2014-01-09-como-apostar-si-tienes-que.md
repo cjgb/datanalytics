@@ -27,8 +27,7 @@ url: /2014/01/09/como-apostar-si-tienes-que/
 
 Hace unos días recibí esto,
 
-[![](/img/2014/01/rentabilidad_carteras_unience.jpg)
-](/img/2014/01/rentabilidad_carteras_unience.jpg)
+![](/img/2014/01/rentabilidad_carteras_unience.jpg)
 
 que es la rentabilidad de carteras de inversión (sospecho que no necesariamente reales) de usuarios de cierto portal que compiten por ver quién tiene más ojo en bolsa.
 
@@ -46,7 +45,7 @@ El problema de la cartera de inversión ficticia no es exactamente un _red-and-b
 * La probabilidad de ganar es mayor que 0.5: la bolsa tiende a subir, ¿no?
 * Etc.
 
-Pero sobre todo, la función de utilidad es muy particular —y distinta tanto de quien apuesta en la ruleta o la implícita en el criterio de Kelly—. Es algo así como: si me va muy bien, me lo llevo todo; si obtengo un resullado de decente para abajo no ocurre nada. Como diría Taleb, _all upside with no downside_. Y como seguiría diciendo —y no sería particularmente difícil probar, supongo—, en tales casos la estrategia óptima es la más arriesgada.
+Pero sobre todo, la función de utilidad es muy particular —y distinta tanto de quien apuesta en la ruleta o la implícita en el criterio de Kelly—. Es algo así como: si me va muy bien, me lo llevo todo; si obtengo un resultado de decente para abajo no ocurre nada. Como diría Taleb, _all upside with no downside_. Y como seguiría diciendo —y no sería particularmente difícil probar, supongo—, en tales casos la estrategia óptima es la más arriesgada.
 
 En resumen:
 

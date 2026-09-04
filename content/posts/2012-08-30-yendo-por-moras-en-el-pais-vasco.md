@@ -24,7 +24,7 @@ Publicaba el otro día El Correo cómo [_Las mujeres vascas son las más longeva
 
 Vaya por delante —y es lo menos importante de todo— que el titular es un puro abuso del lenguaje: las mujeres más longevas de Europa son, exactamente, las más longevas de Europa: algunas ancianitas centenarias que vivirán cada una en su casa. Incluso puede que alguna de ellas resida en el País Vasco. Pero concedo que el periodista quiso decir que las vascas son las mujeres con mayor esperanza de vida.
 
-Lo que pasa es que compara la esperanza de vida de las vascas con la esperanza de vida de las españolas (en general), las francesas, las suecas, etc. Y eso es lo que denuncia Josu Mezo. Porque, por ejemplo, y sin tener que cruzar froneras, la esperanza de vida de navarras, madrileñas, castellano-manchegas y riojanas supera la de las vascas. Es obvio que el artículo está totalmente desencaminado.
+Lo que pasa es que compara la esperanza de vida de las vascas con la esperanza de vida de las españolas (en general), las francesas, las suecas, etc. Y eso es lo que denuncia Josu Mezo. Porque, por ejemplo, y sin tener que cruzar fronteras, la esperanza de vida de navarras, madrileñas, castellano-manchegas y riojanas supera la de las vascas. Es obvio que el artículo está totalmente desencaminado.
 
 Pero una cosa es concluir que las vascas son las mujeres más longevas de Europa —particularmente si es mentira— y otra plantearse si es legítimo comparar un indicador vasco con uno francés. Josu Mezo lo expresa con rotundidad: _El elemento natural de comparación de las estadísticas vascas son las estadísticas de las regiones europeas_. ¿Será que solo podemos comparar a las vascas con las habitantes de Suroeste-Pequeña Valaquia, Zelanda, Brabante Septentrional o Pomerania Occidental?
 
@@ -34,8 +34,7 @@ Creo por tanto que comparar, por ejemplo, los resultados del [informe PISA](http
 
 Y cierro la entrada con dos reflexiones. La primera, trata sobre cómo debería tal vez haber planteado el artículo su autor. En primer lugar, la esperanza de vida es un indicador que está muy ligado a otros, como ilustra la siguiente captura de pantalla de [Gapminder](http://www.gapminder.org/):
 
-[![](/img/2012/08/gapminder.png#center)
-](/img/2012/08/gapminder.png#center)
+![](/img/2012/08/gapminder.png#center)
 
 En ella se aprecia cómo el nivel de renta influye decisivamente en la esperanza de vida. ¿Debería el articulista de El Correo haber controlado de alguna manera este tipo de factores? Obviamente no. Porque si lo hubiese hecho, no estaría escribiendo para El Correo sino para The Economist —y ganando bastante más dinero—; quien quiera ver cómo debería haberse planteado el artículo, que le eche un buen vistazo a [_No city for old men_](http://www.economist.com/node/21560888?fsrc=scn/tw/te/pe/nocityforoldmen) y aplique el correspondiente _mutatis mutandis_.
 
@@ -43,6 +42,6 @@ Pero lo que verdaderamente chirría en el artículo tiene que ver con la segunda
 
 Si alguien ha tenido la ocasión de pasear estos días por el campo, es posible —es la época— que haya visto en las zarzas moras en distinto grado de maduración. Y si ha querido comer alguna sabrosa habrá tenido que seleccionar las más negras y orondas orillando el resto.
 
-Lo mismo ha hecho el articulista: de todos los indicadores, de los cientos y cientos potencialmente disponibles, ha escogido uno, el que le ha parecido más atractivo, y ha escrito unos cuantos párrafos sobre él. Podía haber comparado con regiones, países, confederaciones o manconmunidades. Tanto da. Con tantos indicadores disponibles, con casi total certeza, podía haber dado con uno en el que el País Vasco quedase en la posición más conveniente; de haber sido un poco más hábil y meticuloso, podía haber contentado incluso a Malaprensa.
+Lo mismo ha hecho el articulista: de todos los indicadores, de los cientos y cientos potencialmente disponibles, ha escogido uno, el que le ha parecido más atractivo, y ha escrito unos cuantos párrafos sobre él. Podía haber comparado con regiones, países, confederaciones o mancomunidades. Tanto da. Con tantos indicadores disponibles, con casi total certeza, podía haber dado con uno en el que el País Vasco quedase en la posición más conveniente; de haber sido un poco más hábil y meticuloso, podía haber contentado incluso a Malaprensa.
 
 En cualquier caso, no habría hecho sino malgastar papel de los bosques y tiempo de los lectores —al menos, de los que no leen estas páginas con aprovechamiento— en tratar de convencerlos de que esa pajilla que hubiera encontrado en el pajar es una aguja.

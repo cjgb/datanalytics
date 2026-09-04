@@ -35,7 +35,7 @@ El código,
 
 
 
-{{< highlight R >}}
+```r
 library(mvtnorm)
 library(rstan)
 library(psych)
@@ -96,4 +96,4 @@ fit2 <- stan(model_code = stan_code,
 
 res <- as.data.frame(fit2)
 pairs.panels(res[, c("a", "a1", "a2", "a3", "sigma")])
-{{< / highlight >}}
+```

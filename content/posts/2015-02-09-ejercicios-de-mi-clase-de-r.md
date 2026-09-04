@@ -46,7 +46,7 @@ Descarga información bursátil de `http://goo.gl/yD2Bwb` y crea un `data.frame`
 
 Ten en cuenta que la columna hora puede tener dos tipos de información: la hora durante las horas de operación de los mercados y el día en formato dd/mm/aaaa fuera de mercado. Que tu código tenga en cuenta esa circunstancia.
 
-Alternativamente, si encuentras algunos datos de tu interés que te interese procesar y tengan un nivel de dificulad similar al anterior, úsalos en lugar de los propuestos.
+Alternativamente, si encuentras algunos datos de tu interés que te interese procesar y tengan un nivel de dificultad similar al anterior, úsalos en lugar de los propuestos.
 
 El código que envíes tiene que ser capaz de crear la tabla a la hora en que lo ejecute.
 
@@ -54,7 +54,7 @@ El código que envíes tiene que ser capaz de crear la tabla a la hora en que lo
 
 Descarga los microdatos del censo del 2011 de `http://goo.gl/guhG1M`. Puedes bajar el nacional o, si tienes problemas de memoria, alguno de los regionalizados. En esa página hay también información sobre las variables contenidas en el fichero y su formato. Puedes leerlo en R usando el paquete `MicroDatosEs`. Consulta la ayuda de la función `censo2010`.
 
-El ejercicio consiste en identificar algunas variables de tu interés y construir tablas por los indicadores que creas convenniente. Por ejemplo, población por sexo y grupo de edad en cada provincia. O proporción de viudos y viudas por tramo de edad y provincia. O...
+El ejercicio consiste en identificar algunas variables de tu interés y construir tablas por los indicadores que creas conveniente. Por ejemplo, población por sexo y grupo de edad en cada provincia. O proporción de viudos y viudas por tramo de edad y provincia. O...
 
 Eso sí: hazlo usando los dos paquetes `dplyr` y `data.table` (¿y `reshape2`?). Trata también con `plyr`. Añade un comentario sobre la velocidad relativa de los distintos paquetes para procesar los datos. ¿Cuál es tu favorito?
 

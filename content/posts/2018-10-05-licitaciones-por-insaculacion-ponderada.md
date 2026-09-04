@@ -25,7 +25,7 @@ Hace unos años, cuando aún no me había avivado en estos temas, recibí una ll
 
 Años después me pasó lo mismo con el ministerio de trabajo, que tenía un proyecto para contar inmigrantes. Ahí bregué y, la verdad, casi le corto la hierba por debajo de los pies a una consultora de las grandes. Me tumbaron por los puntos de valoración subjetivos. Pero casi les hago un siete.
 
-La normativa actual (en España y presumo que en otros sitios) es bienintencionada pero ineficaz. Siempre pienso que al igual que existe un Consejo de Estado encargado de emitir informes no vinculantes sobre el encaje legal de las nuevas leyes y normas, deberíamos dotarnos de un Consejo de Facinerosos, integrado por los más habiles de entre los corruptos, los defraudadores y los concejales de urbanismo, encargado de darle la vuelta al refrán y encontrar la trampa antes de hecha la ley.
+La normativa actual (en España y presumo que en otros sitios) es bienintencionada pero ineficaz. Siempre pienso que al igual que existe un Consejo de Estado encargado de emitir informes no vinculantes sobre el encaje legal de las nuevas leyes y normas, deberíamos dotarnos de un Consejo de Facinerosos, integrado por los más hábiles de entre los corruptos, los defraudadores y los concejales de urbanismo, encargado de darle la vuelta al refrán y encontrar la trampa antes de hecha la ley.
 
 Me desvío (mil perdones).
 

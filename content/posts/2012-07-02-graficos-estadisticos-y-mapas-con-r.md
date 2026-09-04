@@ -20,14 +20,13 @@ url: /2012/07/02/graficos-estadisticos-y-mapas-con-r/
 
 Me ha llegado noticia de un nuevo libro sobre R, [_Gráficos estadísticos y mapas con R_](http://ediciones.diazdesantos.es/libros/guisande-gonzalez-castor-graficos-estadisticos-y-mapas-con-r-L0000410004163.html) recién publicado.
 
-[![](/img/2012/06/graficos_estadisticos_r.jpg)
-](/img/2012/06/graficos_estadisticos_r.jpg)
+![](/img/2012/06/graficos_estadisticos_r.jpg)
 
 Los autores son Cástor Guisande y Antonio Vaamonde, ambos de la Universidad de Vigo. Y de la ficha del libro extraigo:
 
 >En este libro se presentan en primer lugar las técnicas generales para la construcción de gráficos en R, con numerosos ejemplos de aplicación que permitirán al lector utilizar las funciones básicas con soltura, y así poder sacar el mejor partido de R para la construcción de gráficos personalizados.
 >
->En la segunda parte del libro se revisan de forma sistemática los principales gráficos, desde los más básicos y habituales (dispersión, histograma, diagrama de barras, de cajas, etc.) hasta los más complejos (vilote, curvas de nivel, gráficos de control, gráficos para meta-análisis, árboles de clasificación, mapas, etc.), incluyendo algunos gráficos de reciente aparición asociados a técnicas estadísticas novedosas.
+> En la segunda parte del libro se revisan de forma sistemática los principales gráficos, desde los más básicos y habituales (dispersión, histograma, diagrama de barras, de cajas, etc.) hasta los más complejos (violín, curvas de nivel, gráficos de control, gráficos para meta-análisis, árboles de clasificación, mapas, etc.), incluyendo algunos gráficos de reciente aparición asociados a técnicas estadísticas novedosas.
 >
 >En todos los casos se presentan con detalle los procedimientos para la construcción de los gráficos y las principales claves de interpretación, de modo que puedan ser utilizados por usuarios no expertos o con conocimientos estadísticos básicos.
 

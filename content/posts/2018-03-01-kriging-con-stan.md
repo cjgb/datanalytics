@@ -39,7 +39,7 @@ o bien,
 
 $$ y_i = \mu(x_i) + \epsilon$$
 
-donde $\epsilon$ se ajusta a la especificaión previa. Si conocemos $\mu$, podremos hacer predicciones para nuevos valores $x$.
+donde $\epsilon$ se ajusta a la especificación previa. Si conocemos $\mu$, podremos hacer predicciones para nuevos valores $x$.
 
 Aquí las observaciones son independientes. Pero en nuestro problema observamos medidas en determinados puntos (en un terreno (2D), en una línea (1D), etc.) y _sabemos_ que existe cierta regularidad: los puntos próximos están correlacionados entre sí.
 
@@ -67,7 +67,7 @@ En nuestro caso, se puede estimar la función subyacente en una rejilla,
 
 con el código
 
-{{< highlight R >}}
+```r
 library(rstan)
 library(reshape2)
 library(ggplot2)
@@ -118,11 +118,11 @@ tmp <- ddply(preds, .(x), summarize, y = median(value))
 plot(x, y, main = "Kriging fit to noise curve observations",
         xlab = "", ylab = "")
 lines(tmp$x, tmp$y, type = "l", col = "red")
-{{< / highlight >}}
+```
 
 que tira de
 
-{{< highlight R >}}
+```r
 data {
 int<lower=1> N1; // number of data points
 int<lower=1> N2; // number of grid points
@@ -169,7 +169,7 @@ for(i in 1:N) Sigma[i,i] = Sigma[i,i] + sd_noise;
 L = cholesky_decompose(Sigma);
 y ~ multi_normal_cholesky(means, L);
 }
-{{< / highlight >}}
+```
 
 En el código anterior $\Sigma$ es una matriz que tiene valores $\sigma^2 + r^2$ en la diagonal ($r$ es la desviación estándar del ruido de observación) y $\sigma^2 \exp(-\phi d_{ij}^{1.5})$ fuera de ella.
 

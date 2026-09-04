@@ -28,7 +28,7 @@ url: /2016/05/20/descarga-de-datos-del-ibex-35-y-otros-minuto-a-minuto-en-tiempo
 
 El código es
 
-{{< highlight R >}}
+```r
 library(httr)
 library(plyr)
  
@@ -45,6 +45,6 @@ dat <- content(res, as = "parsed",
  
 dat <- dat$answer$LST$TV$T09
 dat <- ldply(dat, unlist)
-{{< / highlight >}}
+```
 
 Los _mutatis mutandis_, si alguien tiene la gentileza, en los comentarios.

@@ -31,7 +31,7 @@ Si se puede hacer [para Japón](http://blog.revolutionanalytics.com/2016/02/japa
 
 El código,
 
-{{< highlight R >}}
+```r
 library(idbr)
 library(ggplot2)
 library(animation)
@@ -80,4 +80,4 @@ saveGIF({
 
 }, movie.name = 'spain_pyramid.gif', interval = 0.1,
     ani.width = 700, ani.height = 600)
-{{< / highlight >}}
+```

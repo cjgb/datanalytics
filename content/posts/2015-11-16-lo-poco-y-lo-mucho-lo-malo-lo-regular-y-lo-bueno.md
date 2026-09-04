@@ -24,4 +24,4 @@ La buena intención de quienes han tratado de ayudarle, me temo, ha sido [contra
 
 Y este apunta a otro: hay demasiada documentación. De hecho, sobra. Y falta discriminación: ¿qué es lo, más que lo bueno, lo suficiente? ¿Cómo rescatar ese _lo bue, si bre, dos ve bue_ de Chumy Chúmez?
 
-Es responsabilidad de quienes sabemos un poco más mantener un sano equilibrio entre lo poco y lo mucho y discriminar entre lo bueno, regular y malo. O crujirán nuestros husos bajo montañas de docuementación.
+Es responsabilidad de quienes sabemos un poco más mantener un sano equilibrio entre lo poco y lo mucho y discriminar entre lo bueno, regular y malo. O crujirán nuestros husos bajo montañas de documentación.

@@ -25,8 +25,7 @@ El PER es el cociente entre la capitalización bursátil de una empresa (que es 
 
 Hoy traigo a colación otra desventaja quizás menos conocida: que el PER está muy influenciado por la estructura de capital de las empresas. Por ello no es un indicador adecuado para, sin más, realizar comparaciones. En efecto, de [McKinsey Quarterly](http://microcapclub.com/wp-content/uploads/2012/05/Whybadmultiples.pdf) extraigo el siguiente diagrama:
 
-[![](/img/2012/09/per.png#center)
-](/img/2012/09/per.png#center)
+![](/img/2012/09/per.png#center)
 
 En él se comparan dos empresas imaginarias _similares_, que solo se diferencian en su estructura de capital: la una tiene una deuda sustancial y la otra no.
 
@@ -34,4 +33,4 @@ A quienes piensen que la estructura de capital resulta irrelevante, les espantar
 
 Se trata de un múltiplo _neutro_ frente a la estructura de capital aunque también presenta algunos problemas: el numerador, el _valor de la empresa_, es difícil de calcular a partir de datos públicos.
 
-La tal vez excesiva popularidad del PER para evaluar el desempeño de las distintas empresas pudiera haber contribuido a que estas acumulasen más deuda de la que, a la vista de la actual situación, debieron haber asumido. El uso de indicadores neutrales podría ayudar a que los gestores de las empresas se volviesen igualmente neutrales frente a la estructura de capital y que esto constribuyese a reforzar la solidez del sistema.
+La tal vez excesiva popularidad del PER para evaluar el desempeño de las distintas empresas pudiera haber contribuido a que estas acumulasen más deuda de la que, a la vista de la actual situación, debieron haber asumido. El uso de indicadores neutrales podría ayudar a que los gestores de las empresas se volviesen igualmente neutrales frente a la estructura de capital y que esto contribuyese a reforzar la solidez del sistema.

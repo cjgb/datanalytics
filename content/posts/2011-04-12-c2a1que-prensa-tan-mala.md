@@ -25,8 +25,7 @@ Al autor de estas páginas se le cae la baba con las _infografías_ del [New Yor
 Pero hoy [se me ha caído el alma a los pies](http://www.elpais.com/graficos/internacional/Gasto/militar/internacional/elpepuint/20110411elpepuint_1/Ges/). Fijáos, fijáos lectores:
 
 
-[![](/img/2011/04/el_pais_gasto_militar_1.png#center)
-](/img/2011/04/el_pais_gasto_militar_1.png#center)
+![](/img/2011/04/el_pais_gasto_militar_1.png#center)
 
 
 
@@ -35,11 +34,10 @@ Pero hoy [se me ha caído el alma a los pies](http://www.elpais.com/graficos/int
 Y mirad ahora con atención la otra pestaña:
 
 
-[![](/img/2011/04/el_pais_gasto_militar_2.png#center)
-](/img/2011/04/el_pais_gasto_militar_2.png#center)
+![](/img/2011/04/el_pais_gasto_militar_2.png#center)
 
 
 
 No miente, cierto, pero... ¿da la impresión correcta? ¿No sugiere que los países que aparecen a la derecha son los que más gastan en _defensa_ en términos de porcentaje del PIB en el mundo? ¿No sería más relevante mostrar [estos otros números](http://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_gastos_militares#Lista_de_pa.C3.ADses_por_el_gasto_militar_como_porcentaje_del_PIB)?
 
-¿Soy demasiado tiquismiquis? ¿O sería justo exigir al Grupo Prisa un patrocionio para las [III Jornadas de Usuarios de R](http://usar.org.es/) en desagravio?
+¿Soy demasiado tiquismiquis? ¿O sería justo exigir al Grupo Prisa un patrocinio para las [III Jornadas de Usuarios de R](http://usar.org.es/) en desagravio?

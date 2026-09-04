@@ -25,7 +25,7 @@ title: Facetas para entender, tal vez, la evolución del paro
 url: /2014/07/17/facetas-para-entender-tal-vez-la-evolucion-del-paro/
 ---
 
-La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas [URLs que tienen pinta de cambiar con cualquier soplo](http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t42/p04/l1/&file=1800001.px&type=pcaxis&L=1) (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por ssi acaso, estos son los [datos a día de hoy](/uploads/paro_mensual.txt).
+La verdad, no sé de dónde los sacan porque la EPA es trimestral. Pero el INE publica datos mensuales de la tasa de desempleo y las cuelga de una de esas [URLs que tienen pinta de cambiar con cualquier soplo](http://www.ine.es/jaxi/tabla.do?path=/t38/bme2/t42/p04/l1/&file=1800001.px&type=pcaxis&L=1) (es decir, aviso de que en cualquier momento el enlace deja de funcionar). Por si acaso, estos son los [datos a día de hoy](/uploads/paro_mensual.txt).
 
 También aparecen publicados regularmente en prensa. Y los expertos opinan sobre si la cifra es buena o mala. Pero, ¿buena o mala con respecto a qué? Así que hoy voy a ensayar un marco en el que plantear la pregunta:
 
@@ -35,7 +35,7 @@ También aparecen publicados regularmente en prensa. Y los expertos opinan sobre
 
 Así:
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 library(plyr)
 
@@ -58,15 +58,14 @@ ggplot(dat, aes(x = anno, y = delta)) +
   geom_hline(data = dat.q, aes(yintercept = q.25), linetype = "dashed") +
   geom_hline(data = dat.q, aes(yintercept = q.75), linetype = "dashed") +
   xlab("año") + ylab("variación mensual tasa de paro")
-{{< / highlight >}}
+```
 
 El resultado es:
 
-[![tasa_paro_mensual](/img/2014/07/tasa_paro_mensual.png#center)
-](/img/2014/07/tasa_paro_mensual.png#center)
+![tasa_paro_mensual](/img/2014/07/tasa_paro_mensual.png#center)
 
 Cada recuadro corresponde a un mes (identificado por su número, obviamente). El eje horizontal, son los años desde el principio de la serie. La serie temporal, como indico arriba, es la diferencia del valor de la tasa de desempleo del mes con el anterior. Las líneas horizontales son los cuartiles de las deltas del mes en cuestión. Y mil perdones a todos mis lectores que no sean directivos por explicarles la gráfica como si fuesen tontos.
 
-Se aprecia cómo últimamente estamos volviendo al los entornos de la mediana. Incluso situándonos por debajo de ella puntualmente.
+Se aprecia cómo últimamente estamos volviendo a los entornos de la mediana. Incluso situándonos por debajo de ella puntualmente.
 
 Acabo con una nota técnica para mí: así es como hay que hacer, i.e., usando `geom_hline` para añadir rectas horizontales a las facetas de `ggplot2`.

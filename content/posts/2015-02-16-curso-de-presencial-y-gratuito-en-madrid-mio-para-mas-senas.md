@@ -25,7 +25,7 @@ Voy a impartir un [curso básico de R en Madrid](https://www.eventbrite.es/e/ent
 
 * presencial (no habrá vídeo, retransmisión en _streaming_ ni similares),
 * gratuito (aunque mira las letra pequeña del final)
-* no reglado, por lo que no se experidirán certificados, ANECAs o papeles de ningún tipo.
+* no reglado, por lo que no se expedirán certificados, ANECAs o papeles de ningún tipo.
 
 Se trata de un curso de introducción a R desde cero en cuatro sesiones de tres horas los martes (24 de febrero y 3, 10 y 17 de marzo) de 18:00 a 21:00. El programa de las sesiones es:
 

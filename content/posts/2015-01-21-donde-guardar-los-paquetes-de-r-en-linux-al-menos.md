@@ -40,9 +40,9 @@ Lo más importante, en cualquier caso, es el conocimiento de cómo ubica R los p
 
 Allá por el final del ese fichero (y si no, búsquese `LIBS` en él) aparecen las líneas
 
-{{< highlight bash >}}
+```bash
 `R_LIBS_USER=${R_LIBS_USER-'~/R/x86_64-pc-linux-gnu-library/3.1'}
 #R_LIBS_USER=${R_LIBS_USER-'~/Library/R/3.1/library'}`
-{{< / highlight >}}
+```
 
 La primera es para usuarios de Linux. La segunda, para los pesados de la fruta. Coméntese y edítese a conveniencia.

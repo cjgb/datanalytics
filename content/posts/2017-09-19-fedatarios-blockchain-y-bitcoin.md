@@ -27,7 +27,7 @@ En resumen, quiero deslindar la _fedación_ (acto de dar fe de algo y que no mos
 
 Constantemente damos fe de cosas. Típicamente de forma cutre. Por ejemplo, llevamos un papelito a la farmacia para dar fe de que un médico nos ha recetado un antibiótico. Mostramos una cartulina (o una fotocopia, _compulsada_ o no) que da fe de que la universidad de nosedónde nos considera licenciados en alguna materia. Etc.
 
-Demasidado frecuentemente, de manera tan cutre como onerosa: notarios, registradores de la propiedad, etc.
+Demasiado frecuentemente, de manera tan cutre como onerosa: notarios, registradores de la propiedad, etc.
 
 **_Blockchain_**
 

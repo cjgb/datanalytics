@@ -29,6 +29,6 @@ Voy a guardar el extracto
 
 ![](/img/2020/09/modelling_strategies.png#center)
 
-de [_The Art of Statitstics_](https://dspiegel29.github.io/ArtofStatistics/) para usarlo con la misma malísima baba que su autor en coyunturas tales como esta:
+de [_The Art of Statistics_](https://dspiegel29.github.io/ArtofStatistics/) para usarlo con la misma malísima baba que su autor en coyunturas tales como esta:
 
 {{< x user="gilbellosta" id="1311321662181302272" >}}

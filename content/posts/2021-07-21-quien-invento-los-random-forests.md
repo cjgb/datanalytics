@@ -32,7 +32,7 @@ En la introducción y revisión de la literatura de su artículo, _Random Forest
   * Un artículo de Dietterich de 1998.
   * Otro trabajo de suyo (de Breiman) de 1999.
   * Una serie de publicaciones de Ho acerca del lo que [Ho] llama el método del subespacio aleatorio.
-  * Un artículo de Amit y Geman de 1997, que [Breiman] considera _influeyente en sus ideas_.
+  * Un artículo de Amit y Geman de 1997, que [Breiman] considera _influyente en sus ideas_.
 
 Si uno bucea en esos artículos encuentra propuestas en las que, efectivamente, se combinan de cierta manera árboles de distintos tipos y otros clasificadores débiles y se construyen modelos que reciben nombres como _randomized trees_, _random decision forests_, etc. Además, en estos artículos aparecen _fractalmente_ referencias adicionales a otros artículos que parecen abundar sobre las mismas ideas.
 

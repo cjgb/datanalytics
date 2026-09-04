@@ -24,7 +24,7 @@ La entrada de hoy es el debido ejercicio acerca de si me conviene o no contratar
 
 Primero, el código:
 
-{{< highlight R >}}
+```r
 library(ggplot2)
 
 # tramos tarifas planas
@@ -65,12 +65,11 @@ dat <- subset(dat, beneficio.oferta > -250)
 ggplot(dat, aes(x=consumo, y=beneficio.oferta, col = tarifas)) +
   geom_line() +
   geom_hline(aes(yintercept=0), col = "red", alpha = 0.5)
-{{< / highlight >}}
+```
 
 La salida es este gráfico:
 
-[![oferta_fenosa](/img/2014/02/oferta_fenosa1.png#center)
-](/img/2014/02/oferta_fenosa1.png#center)
+![oferta_fenosa](/img/2014/02/oferta_fenosa1.png#center)
 
 Como puede apreciarse, o hilo muy fino con el consumo (con un beneficio máximo anual de unos 50 euros si lo ajusto exactamente al piquillo) o pringo.
 

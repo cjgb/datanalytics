@@ -26,7 +26,7 @@ No obstante, existe una función no documentada de SAS que permite implementar c
 He aquí [un ejemplo](http://www.amadeus.co.uk/sas-technical-services/tips-and-techniques/a-to-z-of-data-step-functions/the-monotonic-function/):
 
 
-{{< highlight sql >}}
+```sql
 proc sql;
   create table results as
     select
@@ -39,13 +39,13 @@ proc sql;
     from sashelp.class
   ;
 quit;
-{{< / highlight >}}
+```
 
 
 He aquí otro de mi factura para muestrear la cuarta parte de las observaciones de una tabla:
 
 
-{{< highlight sql >}}
+```sql
 proc sql;
   create table muestreo as
     select *
@@ -53,7 +53,7 @@ proc sql;
     where mod( monotonic(), 4 ) = 0
   ;
 quit;
-{{< / highlight >}}
+```
 
 
 Estoy seguro de que mis lectores encontrarán otras aplicaciones. ¿Será que alguno querrá compartirlas a través de estas páginas, quizás, para ilustración de todos?

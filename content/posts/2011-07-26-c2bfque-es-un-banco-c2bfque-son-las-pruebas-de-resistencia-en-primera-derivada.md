@@ -23,7 +23,7 @@ url: /2011/07/26/que-es-un-banco-que-son-las-pruebas-de-resistencia-en-primera-d
 
 En primera derivada, un banco es un señor que pone 10, capta 90 en depósitos de ahorradores —a los que da un interés del 4 %— y presta 100 al 5 %. El código en R que aparece a continuación indica cuál es el beneficio del señor:
 
-{{< highlight R >}}
+```r
 capital <- 10
 depositos <- 90
 
@@ -36,7 +36,7 @@ gastos   <- depositos * (1 + int.dep)
 
 beneficio <- ingresos - gastos
 rentabilidad.capital <- 100 * beneficio / capital
-{{< / highlight >}}
+```
 
 Quien lo ejecute comprobará cómo el señor obtiene un jugoso beneficio. Además, el señor podría hacerlo aún más jugoso incrementando el valor de los depósitos, es decir, captando más ahorro con el mismo capital inicial. Queda como ejercicio para mis lectores repetir los cálculos anteriores con `depositos <- 190`, etc.
 
@@ -49,7 +49,7 @@ Pero, ¡cuidado!:
 
 Repitamos pues los cálculos anteriores teniendo en cuenta que un determinado porcentaje de los préstamos nunca se recuperan:
 
-{{< highlight R >}}
+```r
 capital <- 10
 depositos <- 90
 tasa.morosidad <- 0.02
@@ -64,7 +64,7 @@ gastos   <- depositos * (1 + int.dep)
 
 beneficio <- ingresos - gastos - prestamos * tasa.morosidad
 rentabilidad.capital <- 100 * beneficio / capital
-{{< / highlight >}}
+```
 
 Se reduce la rentabilidad, ¿verdad? ¿Y si aumenta el tamaño de los depósitos? ¿Y si aumenta la tasa de morosidad? ¿Y si aumentan ambos? Las principales preguntas que uno (o el señor) puede plantearse son:
 

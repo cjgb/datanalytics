@@ -32,7 +32,7 @@ Allá voy.
 
 Aprender se hace en dos modos, el rápido y el lento. Análogos a los de pensar: el lento requiere más concentración y esfuerzo, el rápido es casi automático y llevadero.
 
-En el lento construimos _estanterías_ mentales, nuevas dimensiones, _celdillas_ donde colocar conocimientos. En el rápido simplemente ubicamos nuevos objetos baldas preexistentes. (O aplicamos lo de Porfirio: género próximo y diferencia específica, que viene a ser, en términos de sistemas de control de versiones, en un `diff` sobre algo prexistente.)
+En el lento construimos _estanterías_ mentales, nuevas dimensiones, _celdillas_ donde colocar conocimientos. En el rápido simplemente ubicamos nuevos objetos baldas preexistentes. (O aplicamos lo de Porfirio: género próximo y diferencia específica, que viene a ser, en términos de sistemas de control de versiones, en un `diff` sobre algo preexistente.)
 
 Crear celdillas es lento y requiere mucho esfuerzo. P.e., en su día, para mí, la teoría de la medida fue un parto; pero luego, casi toda la teoría de la probabilidad fue un corolario. Podría extenderme con el primer lenguaje de programación, o el álgebra lineal, o...
 

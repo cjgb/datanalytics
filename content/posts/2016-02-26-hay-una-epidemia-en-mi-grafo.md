@@ -24,7 +24,7 @@ Tengo un grafo, `g` cuyos vértices pueden ser cosas susceptibles de _contaminar
 
 Se me ocurre probar esa hipótesis así:
 
-{{< highlight R >}}
+```r
 library(igraph)
 
 # mi grafo
@@ -49,6 +49,6 @@ min.mean.dist <- function(n){
 
 # histograma bajo la hipótesis nula
 res <- replicate(100, min.mean.dist(100))
-{{< / highlight >}}
+```
 
 El resto son detalles que el lector atento sabrá completar por su cuenta.

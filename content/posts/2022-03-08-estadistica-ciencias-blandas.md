@@ -23,7 +23,7 @@ url: /2022/03/08/estadistica-ciencias-blandas/
 
 Voy a comenzar con una simulación inofensiva,
 
-{{< highlight R >}}
+```r
 set.seed(1)
 n <- 10000
 sigma <- .1
@@ -37,11 +37,11 @@ y_0 <- indep + x * b_0 + error
 # modelo:
 modelo_0 <- lm(y_0 ~ x)
 summary(modelo_0)
-{{< / highlight >}}
+```
 
 que da como resultado
 
-{{< highlight text "linenos=false" >}}
+```text
 Call:
 lm(formula = y_0 ~ x)
 
@@ -57,7 +57,7 @@ x            0.500706   0.003398   147.3   <2e-16 ***
 Residual standard error: 0.0989 on 9998 degrees of freedom
 Multiple R-squared:  0.6847,	Adjusted R-squared:  0.6846
 F-statistic: 2.171e+04 on 1 and 9998 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 Me he limitado a construir el típico conjunto de datos que cumple las condiciones de libro para poder aplicar la regresión lineal y he reconstruido los parámetros originales a través del resultado de esta: el término independiente (-1), la pendiente (.5), la desviación estándar del error (.1), etc.
 
@@ -65,22 +65,22 @@ Este es el típico modelo de las ciencias _duras_: los datos se refieren a entid
 
 El planteamiento de partida para ciencias más blanditas vendría a ser:
 
-{{< highlight R >}}
+```r
 beta_a <- 3
 beta_b <- 3
 b_1 <- rbeta(n, beta_a, beta_b)
 y_1 <- indep + x * b_1 + error
-{{< / highlight >}}
+```
 
 es decir, existe un efecto cuyo valor promedio es .5 pero que no es siempre igual a ese valor ---porque depende del sujeto y estos son heterogéneos--- sino que _lo ronda_. Sin embargo, los asalariados de esas disciplinas siguen aplicando sistemáticamente los mismos modelos ---más sobre esto, debajo; que nadie se me enfade aún---, es decir,
 
-{{< highlight R >}}
+```r
 modelo_1 <- lm(y_1 ~ x)
-{{< / highlight >}}
+```
 
 para obtener
 
-{{< highlight text "linenos=false" >}}
+```text
 Call:
 lm(formula = y_1 ~ x)
 
@@ -98,7 +98,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 Residual standard error: 0.1479 on 9998 degrees of freedom
 Multiple R-squared:  0.4905,	Adjusted R-squared:  0.4905
 F-statistic:  9626 on 1 and 9998 DF,  p-value: < 2.2e-16
-{{< / highlight >}}
+```
 
 donde todo está mal:
 

@@ -25,8 +25,8 @@ No hay motivo para no actualizar. Pero sí para hacerlo: las nuevas versiones co
 
 Para quienes usen R en plataformas donde el _software_ no se actualiza _automágicamente_, existe el paquete `installr` que permite actualizar la versión de R con menos esfuerzo que antaño haciendo
 
-{{< highlight R >}}
+```r
 install.packages("installr")
 library(installr)
 updateR()
-{{< / highlight >}}
+```

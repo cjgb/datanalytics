@@ -33,7 +33,7 @@ _[Luego, claro, hay otra literatura seudocientífica que viene a decir cómo 1, 
 Si quieres escribir un libro a favor de la energía nuclear, la estrategia es obvia: escribes cómo solucionar 1, 2 y 3 pero obvias su impacto sobre 4.
 
 Tómese el ejemplo del afamado libro
-[_La enegía nuclear salvará el mundo_](https://www.goodreads.com/es/book/show/51103229)
+[_La energía nuclear salvará el mundo_](https://www.goodreads.com/es/book/show/51103229)
 y búsquense secuencias de caracteres como _precio_ (20 apariciones, frecuentemente formando parte de otras como _preciosas_), _coste_ (27 apariciones), _euros_ (2) o _dólares_ (3). Eso nos permite identificar los episodios del libro que pudieran tener algo que ver con 4. Así nos encontramos con párrafos como:
 
 > El apagón nuclear obligó a aumentar la producción eléctrica de las centrales térmicas convencionales, alimentadas por carbón y gas natural, lo que incrementó las emisiones contaminantes (cuyas consecuencias podrían ser motivo de otro estudio) y repercutió al alza en el precio de la electricidad. Muchas personas no podían pagar la factura eléctrica y pasaban los inviernos sin encender la calefacción, aumentando de este modo la mortalidad. Parece una cadena de desdichas macabras.

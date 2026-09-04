@@ -31,7 +31,7 @@ Pero como tenemos dudas acerca del proceso de partición ---que no controlamos n
 
 Parece compensado, pero, ¿qué nos dice la estadística frecuentista de toda la vida? Ejecutando
 
-{{< highlight R >}}
+```r
 n1 <- 363523
 n2 <- 372664
 op1 <- 119072
@@ -50,7 +50,7 @@ res <- replicate(1000, {
   prop2 <- mean(tail(tmp, n2))
   prop1 / prop2
 })
-{{< / highlight >}}
+```
 
 obtenemos una aproximación al p-valor de 0, cero redondo.
 

@@ -28,7 +28,7 @@ Primero, el código SAS que recomienda el autor del artículo, que calcula la cu
 
 
 
-{{< highlight sas >}}
+```sas
 data test;
     do i = 1 to 10000;
         x = ranuni(1234);
@@ -61,7 +61,7 @@ proc univariate data=outall;
   var curt;
   output out=final mean=jmean std=jstd;
 run;
-{{< / highlight >}}
+```
 
 
 
@@ -72,7 +72,7 @@ Tarda en ejecutarse 110 segundos en mi máquina. He probado también a aplicar e
 En R tenemos varias alternativas. Tal vez la más simple sea
 
 
-{{< highlight R >}}
+```r
 library( bootstrap )
 library( moments )
 
@@ -80,7 +80,7 @@ N <- 10000
 x <- runif( N )
 results <- jackknife( x, kurtosis )
 hist( results$jack.values )
-{{< / highlight >}}
+```
 
 
 que utiliza la función jackknife del paquete `bootstrap` y tarda 13.12 segundos. Y con 50k muestras, unos 10 minutos (hummm... falta de linealidad). Pero merece la pena probar en este tipo de contextos el paralelismo en R.
@@ -88,11 +88,11 @@ que utiliza la función jackknife del paquete `bootstrap` y tarda 13.12 segundos
 Para ello, utilizaremos el paquete `doSMP`:
 
 
-{{< highlight R >}}
+```r
 library(doSMP)
 w <- startWorkers(workerCount = 2)
 registerDoSMP(w)
-{{< / highlight >}}
+```
 
 
 La primera línea carga el paquete. Las otras dos _registran_ los _workers_ dicho de otra manera, especifican cuántos hilos abrirá R para ejecutar las tareas que se paralelicen y los activan. Obviamente, no tiene sentido asignar más hilos que CPUs tenga el sistema.
@@ -102,7 +102,7 @@ Para ejecutar las tareas se utiliza foreach. Esta función es, en cierto modo, s
 El código (con las dos opciones) es:
 
 
-{{< highlight R >}}
+```r
 # en paralelo
 res <- foreach( i = 1:N, packages = "moments" ) %dopar%
     kurtosis( x[-i] )
@@ -110,7 +110,7 @@ res <- foreach( i = 1:N, packages = "moments" ) %dopar%
 # iterativo
 res <- foreach( i = 1:N, packages = "moments" ) %do%
     kurtosis( x[-i] )
-{{< / highlight >}}
+```
 
 Es necesario pasarle a `foreach` el nombre de los paquetes necesarios para ejecutar el código subsiguiente: si ejecutamos las líneas anteriores omitiendo el parámetro `.packages`, R se quejará por no poder encontrar la función `kurtosis`.
 

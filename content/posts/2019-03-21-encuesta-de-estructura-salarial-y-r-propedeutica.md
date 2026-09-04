@@ -29,7 +29,7 @@ La [nota de prensa que acompaña a los resultados definitivos de la EES de 2014]
 Para poder replicar esa cifra y poder comparar manzanas con manzanas hay que preprocesar los datos crudos de la EES así:
 
 
-{{< highlight R >}}
+```r
 library(MicroDatosEs)
 dat <- ees2010("md_EES_2014.txt")
 
@@ -43,33 +43,33 @@ dat$DIASANO <- dat$DIASRELABA -
 # Salario bruto anual
 dat$SALANUAL = (365/dat$DIASANO) *
     (dat$SALBRUTO + dat$VESP)
-{{< / highlight >}}
+```
 
 Ahora sí que se puede definir, por ejemplo,
 
-{{< highlight R >}}
+```r
 salario.medio.anual <- function(x){
     sum(x$SALANUAL * x$FACTOTAL) / sum(x$FACTOTAL)
 }
-{{< / highlight >}}
+```
 
 y calcular
 
-{{< highlight R >}}
+```r
 salario.medio.anual(dat)
 #[1] 22858.16
-{{< / highlight >}}
+```
 
 en cuasiasombrosa consonancia con la cifra _oficial_, e incluso
 
-{{< highlight R >}}
+```r
 salario.medio.anual(dat[dat$SEXO == "Hombre",])
 #[1] 25727.05
 salario.medio.anual(dat[dat$SEXO == "Mujer",])
 #[1] 19745.01
-{{< / highlight >}}
+```
 
-si uno osa aventurarse en los procelosísismos corolarios de
+si uno osa aventurarse en los procelosísimos corolarios de
 
 > El salario medio anual de las mujeres fue de 19.744,82 euros, con un crecimiento del 1,2% respecto a 2013. El de los hombres fue de 25.727,24 euros, con un aumento del 0,2.
 

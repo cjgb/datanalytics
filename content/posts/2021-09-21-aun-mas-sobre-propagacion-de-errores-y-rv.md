@@ -36,7 +36,7 @@ En el artículo antes mencionado se distinguen dos métodos:
 
 En el artículo, además, se encuentran referencias a diversos paquetes de R que implementan cualquiera de las dos vías anteriores.
 
-Pero hoy quiero hablar de [`rv`](https://cran.r-project.org/web/packages/rv/), un paquete de R aún más ambicioso y que hace (o prentende hacer) todo lo anterior y más. De hecho, es la implementación de un programa del que hablé aquí ya hace diez años [al resumir el libro _The Flaw of Averages_](https://datanalytics.com/2011/06/24/sobre-el-libro-the-flaw-of-averages/) y donde escribí:
+Pero hoy quiero hablar de [`rv`](https://cran.r-project.org/web/packages/rv/), un paquete de R aún más ambicioso y que hace (o pretende hacer) todo lo anterior y más. De hecho, es la implementación de un programa del que hablé aquí ya hace diez años [al resumir el libro _The Flaw of Averages_](https://datanalytics.com/2011/06/24/sobre-el-libro-the-flaw-of-averages/) y donde escribí:
 
 > La tercera es la que de nomina la forma débil del _flaw of averages_:  al combinar de alguna manera valores inciertos, lo que se obtiene es otro número incierto, otra _forma_, de acuerdo con ciertas reglas. Lo asocia al efecto de la **diversificación** (ilustrado con aplicaciones en el ámbito de las inversiones financieras e industriales). El autor se decanta por la **simulación** a la hora de entender cómo se combinan _formas_ básicas. Y, para facilitarlo y automatizarlo, propone la creación de un **entorno de cálculo probabilístico** que sepa procesar objetos del tipo DIST con la misma facilidad que una hoja de cálculo opera con números.
 

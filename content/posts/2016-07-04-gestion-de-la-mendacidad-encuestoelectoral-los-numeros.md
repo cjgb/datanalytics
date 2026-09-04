@@ -26,24 +26,24 @@ Continuando con la [entrada anterior](https://datanalytics.com/2016/06/30/gestio
 
 Primero, el planteamiento (cuatro partidos, etc.):
 
-{{< highlight R >}}
+```r
 probs <- c(4, 3, 2, 1)
 probs <- probs / sum(probs)
 partidos <- letters[1:length(probs)]
-{{< / highlight >}}
+```
 
 Nos hará falta más adelante
 
-{{< highlight R >}}
+```r
 library(plyr)
 library(rstan)
 library(ggplot2)
 library(reshape2)
-{{< / highlight >}}
+```
 
 Sigo con el proceso de muestreo. Reitero: cada encuestador enseña al encuestado una tarjeta al azar donde aparece el nombre de dos partidos y le pregunta si ha votado (o piensa votar) a alguno de ellos.
 
-{{< highlight R >}}
+```r
 n <- 3000
 resultados <- data.frame(
   tarjeta = sample(1:nrow(tarjetas), n, replace = T),
@@ -63,11 +63,11 @@ resultados.agg <- ddply(
     summarize,
     total = length(partido1),
     coincidencias = sum(coincide))
-{{< / highlight >}}
+```
 
 Y
 
-{{< highlight R >}}
+```r
 codigo <- '
 data {
   int<lower=1> N;
@@ -110,7 +110,7 @@ colnames(res) <- c("partido", "pct")
 
 ggplot(res, aes(x = pct, fill = partido)) +
   geom_density(alpha = 0.3) + ylab("")
-{{< / highlight >}}
+```
 
 produce
 

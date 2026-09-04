@@ -31,11 +31,11 @@ Este año también quiero participar, pero como no sabía por dónde empezar, he
 
 Así que se me ha ocurrido ajustar una regresión lineal a esos datos y ver qué pinta pueden tener las predicciones del año que corre.
 
-[_**Nota innecesaria:** Obviamente, el modelo linea no puede ser correcto o en 1000 años la capa de hielo del ártico tendría una superficie negativa. Pero sabemos qué son y para qué sirven los modelos, ¿no?_]
+[_**Nota innecesaria:** Obviamente, el modelo lineal no puede ser correcto o en 1000 años la capa de hielo del ártico tendría una superficie negativa. Pero sabemos qué son y para qué sirven los modelos, ¿no?_]
 
 Por no aburrir, he subido los detalles [aquí](https://github.com/cjgb/datanalytics_code/blob/main/missing_data_prediction/missing_data_prediction.ipynb), pero rescato la parte, tal vez,  más importante:
 
-{{< highlight python >}}
+```python
 def curve_fit(year, value):
     a = numpyro.sample("a", dist.Normal(5.5, 2))
     b = numpyro.sample("b", dist.HalfNormal(1))
@@ -45,7 +45,7 @@ def curve_fit(year, value):
         numpyro.sample("obs", dist.Normal(a - b * year, σ), obs = value)
 
     v2023 = numpyro.sample("v2023", dist.Normal(a - b * 23, σ))
-{{< / highlight >}}
+```
 
 Dos notas al respecto:
 

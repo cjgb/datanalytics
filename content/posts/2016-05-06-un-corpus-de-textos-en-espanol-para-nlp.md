@@ -33,7 +33,7 @@ Necesito una colección de textos en español con ciertas características:
 Así que he decidido poner en valor otra de esas onerosas reliquias de la cultura analógica y de letras que es el Museo Thyssen; en particular, las descripciones que constan en las fichas de los cuadros. De hecho, corriendo esto:
 
 
-{{< highlight R >}}
+```r
 library(RCurl)
 library(XML)
 library(stringi)
@@ -72,7 +72,7 @@ res <- lapply(1:2000, function(item){
 
 # elimino índices sin cuadro
 thyssen <- Filter(function(x) length(x) > 1, res)
-{{< / highlight >}}
+```
 
 En total, son unas 1100 fichas con autor, título, año y blablablá. Con el que se pueden hacer cosas como tratar de predecir la época del cuadro (de acuerdo con las palabras de la descripción), ver qué términos correlacionan más con, p.e., "dalí" (_spoiler_: son términos fundamentalmente apícolas) y otras cosas que averiguarán quienes pagaron la matrícula y tengan a bien madrugar un sábado.
 

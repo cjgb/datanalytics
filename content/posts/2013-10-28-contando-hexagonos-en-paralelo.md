@@ -26,7 +26,7 @@ El código disponible en R (`hexBinning` de [`fMultivar`](http://cran.r-project.
 
 Así que he desarrollado un algoritmo para crear celosías hexagonales paralelizable. Además, creo que es algo más inteligible que los dos mencionados y, me temo, igual de feo. Pero vectorizado, eso sí (es decir, sin un maldito bucle). Es así:
 
-{{< highlight R >}}
+```r
 library(plyr)
 
 hexbin <- function(x, y, h = 0.3){
@@ -51,13 +51,13 @@ hexbin <- function(x, y, h = 0.3){
 
   res
 }
-{{< / highlight >}}
+```
 
 Lo comento un poco: en una celosía hexagonal hay dos tipos de filas de hexágonos intercaladas: las unas y las que tienen los centros dislocados respecto a las anteriores. El algoritmo anterior, para cada punto, encuentra dos centros: el del centro del hexágono más próximo perteneciente al primer tipo de fila y el del segundo tipo de fila. Luego compara las dos distancias y escoge el centro que la minimiza. Limpio y simple.
 
 La salida es una lista con las coordenadas de los centros de los hexágonos y el número de casos en cada uno de ellos. Una versión adaptada de la función `plot.hexBinning` de `fMultivar`,
 
-{{< highlight R >}}
+```r
 plot.hexBinning <- function(x, col = heat.colors(12)){
 
   X = x$x
@@ -86,14 +86,14 @@ plot.hexBinning <- function(x, col = heat.colors(12)){
 
   invisible(NULL)
 }
-{{< / highlight >}}
+```
 
 permite hacer
 
-{{< highlight R >}}
+```r
 my.binning <- hexbin(x = rnorm(10000), y = rnorm(10000))
 plot.hexBinning(my.binning)
-{{< / highlight >}}
+```
 
 y obtener el correspondiente gráfico que no me voy a molestar en incrustar en la presente entrada.
 

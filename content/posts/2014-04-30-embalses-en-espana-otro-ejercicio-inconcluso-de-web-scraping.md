@@ -25,7 +25,7 @@ La respuesta es [afirmativa](http://www.seprem.es/presases.php?p=1).
 
 El código para bajarse (y adecentar un poco) la base de datos es:
 
-{{< highlight R >}}
+```r
 library(XML)
 
 ## bajada de datos
@@ -67,25 +67,24 @@ res <- res[!is.na(res$hm3), ]
 ## los embalses en construcción no tienen fecha de
 ## finalización
 res$finalizada[is.na(res$finalizada)] <- 2015
-{{< / highlight >}}
+```
 
 
 En cuanto a qué hacer con ellos, me limitaré a mostrar la salida de
 
 
-{{< highlight R >}}
+```r
 indices <- res$finalizada > 1900 & res$finalizada < 2014
 dat <- tapply(res$hm3[indices], res$finalizada[indices], sum)
 plot(as.numeric(names(dat)), dat, type = "l",
         xlab = "año", ylab = "hm3",
         main = "Hectómetros cúbicos por año")
-{{< / highlight >}}
+```
 
 
 que es
 
-[![embalses_espanna](/img/2014/04/embalses_espanna.png#center)
-](/img/2014/04/embalses_espanna.png#center)
+![embalses_espanna](/img/2014/04/embalses_espanna.png#center)
 
 y que muestra el número de embalses (ponderados por su capacidad) finalizados por año.
 

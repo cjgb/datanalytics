@@ -20,16 +20,16 @@ url: /2013/04/04/textconnection-y-ficheros-anonimos/
 
 La función `textConnection `de R es útil para leer el contenido de una variable como si fuese un fichero de texto. Verbigracia,
 
-{{< highlight R >}}
+```r
 zz <- textConnection(LETTERS)
 readLines(zz, 2)
-{{< / highlight >}}
+```
 
 Pero cuando uno hace
 
-{{< highlight R >}}
+```r
 ?textConnection
-{{< / highlight >}}
+```
 
 y lee con detenimiento, encuentra la siguiente nota:
 
@@ -39,7 +39,7 @@ Vamos, que desaconseja usar dicha función por motivos de rendimiento cuando no 
 
 Veámoslo:
 
-{{< highlight R >}}
+```r
 quijote <- readLines(
   "http://www.gutenberg.org/cache/epub/2000/pg2000.txt",
   encoding = "UTF-8")
@@ -67,4 +67,4 @@ system.time(tmp <- file.io(quijote))
 
 #user  system elapsed
 #0.31    0.09    0.41
-{{< / highlight >}}
+```

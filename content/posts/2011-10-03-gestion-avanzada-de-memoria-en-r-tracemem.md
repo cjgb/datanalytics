@@ -32,20 +32,20 @@ En su página de ayuda se lee:
 Ahí va un ejemplo: después de ejecutar
 
 
-{{< highlight R >}}
+```r
 a <- 1:10
 tracemem(a)
 # [1] "<0x1fe7370>"
-{{< / highlight >}}
+```
 
 
 
 observamos que la posición de memoria en que se almacena `a` es la `0x1fe7370`. Si ahora hacemos
 
 
-{{< highlight R >}}
+```r
 b <- a
-{{< / highlight >}}
+```
 
 
 
@@ -53,11 +53,11 @@ entonces `a` y `b` comparten memoria: ambos nombres de variable son alias de un 
 
 
 
-{{< highlight R >}}
+```r
 b[1] <- 3
 # tracemem[0x1fe7370 -> 0x1fe7420]:
 # tracemem[0x1fe7420 -> 0x1a1f240]:
-{{< / highlight >}}
+```
 
 
 
@@ -65,7 +65,7 @@ Efectivamente, R copia el objeto que estaba en `0x1fe7370` en la posición `0x1f
 
 
 
-{{< highlight R >}}
+```r
 tracemem( b )
 # [1] "<0x1a1f240>"
-{{< / highlight >}}
+```

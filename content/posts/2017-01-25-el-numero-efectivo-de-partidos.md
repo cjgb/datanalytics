@@ -36,7 +36,7 @@ Aplicada a España (usando datos del CIS como _proxy_),
 
 Como casi siempre, el código:
 
-{{< highlight R >}}
+```r
 library(rvest)
 library(rvest)
 library(reshape2)
@@ -80,4 +80,4 @@ res <- zoo(res$enp, order.by = res$variable)
 
 plot(res, main = "Número efectivo de partidos\nen España(1996-2016)",
         xlab = "", ylab = "número efectivo de partidos")
-{{< / highlight >}}
+```

@@ -36,6 +36,7 @@ Luego, muestra el siguiente gráfico:
 ![](/img/2024/fraude-electoral-rusia-00.png#center)
 
 Y finaliza la discusión demostrando que la varianza es mucho menor de la esperada de dos maneras distintas:
+
 - Mediante una simulación.
 - Mediante la aplicación del teorema central del límite, según el cual, dice, _los votos recibidos por Putin en los distintos colegios electorales deberían seguir una distribución normal con una desviación estándar igual a_
 

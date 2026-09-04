@@ -48,7 +48,7 @@ donde $U$ es uniforme.
 
 ¿Vale esto para algo? Pues mírese el código de R y, en particular, el fichero `snorm.c` y uno encontrará
 
-{{< highlight c >}}
+```c
 if(BM_norm_keep != 0.0) { /* An exact test is intentional */
 		s = BM_norm_keep;
 		BM_norm_keep = 0.0;
@@ -59,6 +59,6 @@ if(BM_norm_keep != 0.0) { /* An exact test is intentional */
 		BM_norm_keep = R * sin(theta);
 		return R * cos(theta);
 }
-{{< / highlight >}}
+```
 
 ¡Y mirad lo ahorrativo que es R, que guarda el valor obtenido con el seno y con el coseno!

@@ -25,25 +25,25 @@ Esas son interacciones _conceptuales_ (la terminología no es mía; luego indica
 
 La función
 
-{{< highlight R >}}
+```r
 my_prob <- function(x1, x2, a = 0.2, b1 = 1, b2 = -0.5){
   res <- a + b1 * x1 + b2 * x2
   1 / (1 + exp(-res))
 }
-{{< / highlight >}}
+```
 
 predice la probabilidad de un modelo logístico (hipotético) en el que la variable objetivo depende de dos variables, `x1` y `x2` (con los coeficientes que aparecen en el código). Por construcción, no hay interacción.
 
 El código siguiente muestra las diferencias entre la probabilidad estimada al variar la variable `x2` de 2 a 3 a distintos niveles (-1, 2 y 5) de la variable `x1`.
 
-{{< highlight R >}}
+```r
 diff(my_prob(-1, c(2, 3)))
 # [1] -0.0507281
 diff(my_prob(2, c(2, 3)))
 # [1] -0.100337
 diff(my_prob(5, c(2, 3)))
 # [1] -0.00935299
-{{< / highlight >}}
+```
 
 ¡La variación varía! Luego hay interacción (en el sentido general), pese a que no la haya conceptualmente. Porque existe una interacción mecánica.
 

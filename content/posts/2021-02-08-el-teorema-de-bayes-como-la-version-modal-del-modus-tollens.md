@@ -24,7 +24,7 @@ url: /2021/02/08/el-teorema-de-bayes-como-la-version-modal-del-modus-tollens/
 
 El otro día alguien [argumentaba](https://www.lesswrong.com/posts/cWmiWPHyHaqpAYwas/what-s-the-big-deal-about-bayes-theorem) (de una manera que no voy a adjetivar):
 
-* La lógica (proposiciona, de primer orden) es importante (si lo que se pretende es actuar racionalment), la probabilidad no tanto.
+* La lógica (proposiciona, de primer orden) es importante (si lo que se pretende es actuar racionalmente), la probabilidad no tanto.
 * El teorema de Bayes es solo un resultado trivial dentro de una disciplina mucho menos relevante que la lógica.
 * Ergo, ¿por qué tanto _coñacito_ con el dichoso teorema de Bayes?
 

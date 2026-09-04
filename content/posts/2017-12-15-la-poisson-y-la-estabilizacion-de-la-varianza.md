@@ -23,12 +23,12 @@ Imagínate que quieres _estabilizar la varianza_ (¡para qué!) de una distribuc
 
 Si en lugar de mirar en libros viejunos prestas atención a tus propios ojos, harás algo parecido a:
 
-{{< highlight R >}}
+```r
 lambdas <- -10:10
 lambdas <- 2^lambdas
 res <- sapply(lambdas,
     function(lambda) sd(sqrt(rpois(1e5, lambda))))
-{{< / highlight >}}
+```
 
 para obtener
 
@@ -38,9 +38,9 @@ y averiguar dónde funciona y dónde no.
 
 Si usas la transformación $f(x) = x^{2/3}$, como recomiendan en cierto artículo que no viene a cuento identificar, harás
 
-{{< highlight R >}}
+```r
 res <- sapply(lambdas, function(lambda) sd((rpois(1e5, lambda)^(2/3))))
-{{< / highlight >}}
+```
 
 obtendrás
 

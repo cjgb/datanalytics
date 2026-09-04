@@ -26,7 +26,7 @@ Busqué en vano solución adecuada. Con `data.table` es posible construir un `ra
 
 Hoy se me ha ocurrido una solución mucho mejor que las anteriores basada en `duplicated` y que resumo aquí:
 
-{{< highlight R >}}
+```r
 library(data.table)
 
 set.seed(1234)
@@ -51,7 +51,7 @@ head(res)
 head(tapply(dat$b, dat$a, min))
 # a         b         c         d         e         f
 # -3.999523 -3.794408 -4.422542 -4.007013 -4.079149 -3.860507
-{{< / highlight >}}
+```
 
 Uso `data.table` para ordenar la tabla por las columnas de interés. Y `duplicated` genera un vector lógico que es `FALSE` en la primera aparición de un `id` y `TRUE` en las siguientes.
 
@@ -59,4 +59,4 @@ Comentarios:
 
 * Si tus datos son pequeños, casi cualquier cosa que intentes funcionará. Pero si no,...
 * A veces pierdes horas y horas porque Google te conduce a [una página](http://stats.stackexchange.com/questions/7884/fast-ways-in-r-to-get-the-first-row-of-a-data-frame-grouped-by-an-identifier) (en la que ninguna de las opciones resulta convincente) en lugar de a [otra](http://stackoverflow.com/questions/13279582/select-only-the-first-rows-for-each-unique-value-of-a-column-in-r) donde aguardaba la respuesta a mis problemas.
-* El hecho de que una solución que considerabas ingeniosa haya sido antes descrita por otro no hace sino recordarnos que, independientemente quién seas, para quién trabajes o dónde estés, casi todo el talento, casi todas las buenas ideas, casi todas las respuetas, están fuera, no entre esas cuatro paredes que ves ahora mismo a tu alrededor.
+* El hecho de que una solución que considerabas ingeniosa haya sido antes descrita por otro no hace sino recordarnos que, independientemente quién seas, para quién trabajes o dónde estés, casi todo el talento, casi todas las buenas ideas, casi todas las respuestas, están fuera, no entre esas cuatro paredes que ves ahora mismo a tu alrededor.

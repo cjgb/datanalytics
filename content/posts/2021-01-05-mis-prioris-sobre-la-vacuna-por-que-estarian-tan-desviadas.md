@@ -29,7 +29,7 @@ Más sobre el asunto, [aquí](https://slatestarcodex.com/2016/09/12/its-bayes-al
 
 **II**.
 
-Si mis ojos distinguen una serie de pixéles borrosos y momocromo, interferidos por el rastro de las venas del fondo del ojo, con una remota forma de llave pendiendo de una escarpia, _priori_ y _posteriori_ encajarán y al rato estaré en la calle con el llavero en el bolsillo sin recordar siquiera haber alargado la mano para agarrarlo. Sin embargo, una pseudoimagen de una escarpia huérfana activará miles de alarmas: ¿dónde estarán esas malditas llaves?
+Si mis ojos distinguen una serie de píxeles borrosos y monocromo, interferidos por el rastro de las venas del fondo del ojo, con una remota forma de llave pendiendo de una escarpia, _priori_ y _posteriori_ encajarán y al rato estaré en la calle con el llavero en el bolsillo sin recordar siquiera haber alargado la mano para agarrarlo. Sin embargo, una pseudoimagen de una escarpia huérfana activará miles de alarmas: ¿dónde estarán esas malditas llaves?
 
 En tanto que _prioris_ y _posteriores_ estén alineadas, navegaremos sobre lagos calmos. El desajuste desencadena la tempestad.
 

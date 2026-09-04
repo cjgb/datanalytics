@@ -23,7 +23,7 @@ url: /2015/03/12/datos-en-formato-largo-y-melt/
 En ocasiones uno recibe datos no muy distintos de
 
 
-{{< highlight R >}}
+```r
 aragon <- read.table("http://datanalytics.com/uploads/pob_aragon",
                         header = T, sep = "\t")
 aragon
@@ -35,13 +35,13 @@ aragon
 # 4     Teruel    2004   71073   68260
 # 5   Zaragoza    2014  471675  488436
 # 6   Zaragoza    2004  441840  455510
-{{< / highlight >}}
+```
 
 
 Los mismos datos en _formato largo_ son:
 
 
-{{< highlight R >}}
+```r
 library(reshape2)
 
 aragon.largo <- melt(aragon, id.vars = c("Provincias", "Periodo"))
@@ -59,7 +59,7 @@ aragon.largo
 # 10     Teruel    2004  Mujeres  68260
 # 11   Zaragoza    2014  Mujeres 488436
 # 12   Zaragoza    2004  Mujeres 455510
-{{< / highlight >}}
+```
 
 
 Si eso de _datos largos_ (o en formato largo) no te suena, pierde un momento en:
@@ -75,7 +75,7 @@ El segundo es que es el formato más conveniente para **filtrar**. Cualquier fil
 Tercero, que es el formato más conveniente para realizar cierto tipo de **agregaciones** (p.e., eliminando dimensiones para extraer totales). Verbigracia,
 
 
-{{< highlight R >}}
+```r
 library(plyr)
 
 aragon.totales <- ddply(aragon.largo,
@@ -90,7 +90,7 @@ Provincias Periodo  total
 # 4     Teruel    2014 140365
 # 5   Zaragoza    2004 897350
 # 6   Zaragoza    2014 960111
-{{< / highlight >}}
+```
 
 
 Y finalmente, es que a partir del formato largo se puede reestructurar la información de la tabla de otras maneras fácilmente. Aunque de eso hablaré en otra entrada.

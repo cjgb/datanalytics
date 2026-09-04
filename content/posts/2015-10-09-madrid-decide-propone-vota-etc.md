@@ -36,7 +36,7 @@ Con esos antecedentes, ¿habrá alguna petición que alcance alguna vez los 53k 
 
 Con el muy perfectible
 
-{{< highlight R >}}
+```r
 library(rvest)
 
 ids <- 1:3000
@@ -61,7 +61,7 @@ res <- sapply(ids, function(i){
 kk <- sapply(res, function(x) gsub("apoyo.*", "", x))
 kk <- sapply(kk, function(x) as.numeric(gsub("\\.", "", x)))
 names(kk) <- NULL
-{{< / highlight >}}
+```
 
 
 extraje el número de apoyos de las propuestas el 24 de septiembre y hoy 8 de octubre. En la última fecha, la distribución de apoyos era

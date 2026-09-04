@@ -19,7 +19,7 @@ url: /2022/11/22/rsa-para-exmatematicos/
 
 Me he escrito a mí mismo lo siguiente:
 
-{{< highlight python >}}
+```python
 #########################################################
 # @gilbellosta, 2022-11-14
 # Implementing RSA "by hand"
@@ -55,7 +55,7 @@ priv = (b, n)
 encrypted_msg = msg**a % n
 
 encrypted_msg**b % n
-{{< / highlight >}}
+```
 
 Lo quiero acompañar, para futura referencia, de unos enlaces donde se explican de manera concisa y sin perífrasis innecesarias los puntos más críticos de todo lo anterior:
 

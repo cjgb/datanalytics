@@ -40,13 +40,13 @@ Más. Uno podría encontrar que sí, que la cifra de pernoctaciones hoteleras cr
 
 ![](/img/2019/10/ocupacion_hotelera.png#center)
 
-Son cifras de la [nota de prensa de la encuesta de ocupación hotelera de agosto de 2019](https://www.ine.es/daco/daco42/prechote/cth0819.pdf). Son hoteles y hostales (de cinco, cuatro,... estrellas). Así que hoteles. No otra cosa. Número total de extranjeros, 6.521.490. ¿Y cuántos extranjeros dice Frontur que se alojaron en hoteles en dicho mes? 6.520.513. Una difrencia miraculosamente mínima que, seguro, explican otras causas mejor que la casualidad. Así que no, hoteles son hoteles y Airbnb está en otra parte.
+Son cifras de la [nota de prensa de la encuesta de ocupación hotelera de agosto de 2019](https://www.ine.es/daco/daco42/prechote/cth0819.pdf). Son hoteles y hostales (de cinco, cuatro,... estrellas). Así que hoteles. No otra cosa. Número total de extranjeros, 6.521.490. ¿Y cuántos extranjeros dice Frontur que se alojaron en hoteles en dicho mes? 6.520.513. Una diferencia miraculosamente mínima que, seguro, explican otras causas mejor que la casualidad. Así que no, hoteles son hoteles y Airbnb está en otra parte.
 
 Si es que está, claro.
 
 Y de colofón, el código que genera la gráfica anterior, del que lo más aprovechable es el acceso a los datos:
 
-{{< highlight R >}}
+```r
 library(pxR)
 library(ggplot2)
 
@@ -62,4 +62,4 @@ ggplot(datos, aes(x = Periodo, y = value)) +
     geom_line() +
     facet_wrap(~Tipo.de.alojamiento, ncol = 2,
                 scales = "free_y")
-{{< / highlight >}}
+```

@@ -31,7 +31,7 @@ Inspirado por
 
 me he decidido a reescribirlo como Dios manda (y no como de primeras se le ocurriría a un neoingeniero al que solo le han enseñado MatLab y que, por lo tanto, tiene vetado el acceso a cualquier tipo de empresa tecnológica puntera). Me ha quedado así:
 
-{{< highlight R >}}
+```r
 library(grid)
 
 grid.newpage()
@@ -65,13 +65,12 @@ fractal <- function(base, nivel){
 }
 
 fractal(base, 1)
-{{< / highlight >}}
+```
 
 Espero que ni David Ruescas tenga nada que objetar.
 
 El resultado gráfico es
 
-[![arbolito](/img/2014/05/arbolito.png#center)
-](/img/2014/05/arbolito.png#center)
+![arbolito](/img/2014/05/arbolito.png#center)
 
 Invitados quedan mis lectores a manipular el grosor del tronco, el ángulo de rotación, el color, la transparencia, etc., para dejarlo a su gusto.

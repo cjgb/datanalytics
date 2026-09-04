@@ -51,13 +51,13 @@ donde se puede determinar el tamaño del efecto, la desviación estándar de los
 
 La prueba es prácticamente la más simple que puede realizarse: la estimación del tamaño de un efecto bajo hipótesis de normalidad, etc. vía `t-test`. Para que no haya dudas: esencialmente, lo que se estudia es el objeto que en _seudocódigo_ se construye así:
 
-{{< highlight python >}}
+```python
 replicate(
   n_iter,
   t-test(
     rnorm(n_subjects, effect_size, sd),
     conf.level = alpha))
-{{< / highlight >}}
+```
 
 Los resultados que muestra son la distribución de los efectos _significativos_ estimados junto con la de todos los efectos,
 

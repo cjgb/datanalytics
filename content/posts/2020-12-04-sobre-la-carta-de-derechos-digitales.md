@@ -38,7 +38,7 @@ o a la misma gestión de los entornos de desarrollo y producción (¡o algo así
 
 Es decir, se extiende prácticamente a cualquier actividad que conozcamos por un nombre al que alguna vez se le haya podido adlaterizar el adjetivo _digital_.
 
-Es un documento, no obstante, muy impotante. Merece la pena guardarlo. Yo he programado un correo para que GMail me lo envíe el día 3 de diciembre de 2030. Si ese día aún estoy sobre la faz de la tierra, si ese día aún estoy en España, es fácil que me esté preguntando por qué somos tan cutres, por qué nos cuesta tanto llegar a fin de mes y por qué solo se hacen cosas interesantes fuera. Y ese correo que me estoy enviando me recordará cómo era el _weltgeist_ imperante en la España de 2020, cuál era entonces nuestra visión del mundo y cuáles nuestras prioridades.
+Es un documento, no obstante, muy importante. Merece la pena guardarlo. Yo he programado un correo para que GMail me lo envíe el día 3 de diciembre de 2030. Si ese día aún estoy sobre la faz de la tierra, si ese día aún estoy en España, es fácil que me esté preguntando por qué somos tan cutres, por qué nos cuesta tanto llegar a fin de mes y por qué solo se hacen cosas interesantes fuera. Y ese correo que me estoy enviando me recordará cómo era el _weltgeist_ imperante en la España de 2020, cuál era entonces nuestra visión del mundo y cuáles nuestras prioridades.
 
 Este y otros documentos similares redactados por autoridades nacionales y también europeas, parten de, dan por hecha, la inevitabilidad de una potente _industria digital_ española (o europea, según la fuente). Solo circunstancialmente abren sus redactores los ojos, miran por la ventana y se les ocurre incluir en sus textos párrafos (los colecciono: son muy divertidos) en los que se sorprenden de cómo la industria digital _local_ no está a la altura de la importancia económica, científica y cultural del lugar desde el que escriben; _potencial_, lo llaman.
 
@@ -52,10 +52,10 @@ prohibir la actividad laboral central de más del 90% de los _científicos de da
 
 El ministerio de economía debería saber que seguiremos perfilando personas en función de su conducta (por centrar ideas: el mero escribir un
 
-{{< highlight R >}}
+```r
 if(compra contains "cocacola")
 then print "Cupón pepsicola"
-{{< / highlight >}}
+```
 
 _es_ perfilar). Solo que, tal vez, si se prohíbe en España, lo hagamos en aquel sitio al que acudían las adolescentes a abortar en los ochenta.
 

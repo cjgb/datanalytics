@@ -29,7 +29,7 @@ Acabo de [subir](https://datanalytics.com/libro_estadistica/):
 * Modificaciones y correcciones a los dos primeros capítulos.
 * Un tercer capítulo sobre distribuciones de probabilidad.
 
-Queda ampliar, organizar y razonar la biblografía correspondiente a ese tercer capítulo.
+Queda ampliar, organizar y razonar la bibliografía correspondiente a ese tercer capítulo.
 
 Lo más _original_ (con cuádruples comillas) de este capítulo es tal vez la construcción de la función de densidad a partir de histogramas obtenidos a partir de simulaciones de variables aleatorias. Algo sobre lo que creo que escribí en su día en el blog pero que no ubico.
 

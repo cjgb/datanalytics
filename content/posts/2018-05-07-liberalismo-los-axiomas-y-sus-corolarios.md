@@ -42,6 +42,6 @@ Dándose por buenos, el resto del libro es casi, casi, como los elementos de Euc
 
 El mundo de von Mises es uno en el que no existen monopolios naturales. Ni asimetría de información. Ni contratos incompletos. Ni reguladores (ni su captura por parte de determinadas élites). El mundo de von Mises se parece mucho al plano de Euclides, en el que las rectas se prolongan arquimedianamente hasta el infinito y ningún pliegue altera la redondez de los círculos.
 
-En el mundo de von Mises nadie se fisura la rótula ni queda postrado en cama mientras la seguridad social lo subsidia a razón de 23 euros al día por su _incapadidad temporal_.
+En el mundo de von Mises nadie se fisura la rótula ni queda postrado en cama mientras la seguridad social lo subsidia a razón de 23 euros al día por su _incapacidad temporal_.
 
 Muy majete el mundo de von Mises.

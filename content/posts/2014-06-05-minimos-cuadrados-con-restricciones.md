@@ -23,7 +23,7 @@ url: /2014/06/05/minimos-cuadrados-con-restricciones/
 
 Sí, había restricciones. No me preguntéis por qué, pero los coeficientes tenían que ser positivos y sumar uno. Es decir, buscaba la combinación convexa de cuatro vectores que más se aproximase a `y` en alguna métrica razonable. Y lo resolví así:
 
-{{< highlight R >}}
+```r
 # prepare constrained optimization
 
 y <- dat.clean$actual
@@ -46,7 +46,7 @@ best.coef <- constrOptim(theta, L2,
   grad = NULL, ui = ui, ci = ci)
 
 coefs <- best.coef$par
-{{< / highlight >}}
+```
 
 
 Objetos aparte de `x` e `y`, hay:

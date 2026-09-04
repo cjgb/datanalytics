@@ -45,7 +45,7 @@ La [_ley 12/1989, de 9 de mayo, de la Función Estadística Pública_](https://w
 
 Y la [_ley orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen_](https://www.boe.es/buscar/doc.php?id=BOE-A-1982-11196) permite a los herederos (y a la fiscalía, de oficio) a defender el honor del finado durante los 80 años siguientes a su fallecimiento. Aunque no está claro si acceder una partida de nacimiento o averiguar que X murió de un estacazo atentan contra el honor de nadie.
 
-Así que no está claro. Tengo la sensación de que los datos de fallecidos no se liberan, salvo en los casos en que se prohíbe explícitamente, por algún tipo de principio de inercia admistrativa:
+Así que no está claro. Tengo la sensación de que los datos de fallecidos no se liberan, salvo en los casos en que se prohíbe explícitamente, por algún tipo de principio de inercia administrativa:
 
 >Todo registro administrativo conserva indefinidamente su estado confidencial si sobre él no actúa ninguna fuerza o si las fuerzas que se le aplican resultan en un silencio administrativo absoluto.
 

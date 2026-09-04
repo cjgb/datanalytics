@@ -24,8 +24,7 @@ Comienzo hoy una serie de entradas en seis entregas sobre una muy utilizada téc
 
 Aparte de las estrictamente lingüísticas y eufónicas, tengo otros motivos por los que recelar de este tipo de técnicas que espero ir desgranando en las entradas sucesivas. Pero quiero comenzar con el relato de una pesadilla acaecida hace unos años que resume lo que se cuece en las trastiendas de sus valedores.
 
-[![](/img/2011/07/clustering.png#center)
-](/img/2011/07/clustering.png#center)
+![](/img/2011/07/clustering.png#center)
 
 Trabajaba yo para una consultora especializada, entre otras cosas, en la llamada _segmentación de clientes_, una práctica de dudosa valía que los departamentos de _marketing_ de determinadas empresas aplican de oficio. Consiste en partir la masa de clientes en determinados grupos (típicamente entre seis y doce) que comparten cierto tipo de características similares.
 
@@ -33,7 +32,7 @@ El quid de la cosa consiste en crear grupos accionables (que es otra manera de d
 
 La segmentación de clientes no es un puro _clústering_: exige que los _clústers_ obtenidos satisfagan determinados criterios. Por eso es típico seleccionar variables, transformarlas, remuestrear, modificar las condiciones iniciales de los algoritmos, etc. hasta que ---aquí reside la clave--- la segmentación obtenida se acomode a los criterios deseables preestablecidos. ¡No otro es, típicamente, el criterio de bondad!
 
-La pesadilla de la que quiero dar cuenta comenzó un buen día en que mi compañero Julio y yo habíamos acabado nuestra segmentación para una importante empresa española y la habíamos presentado en _petit comité_ con nuestros rutilantes _powerpoints_. La gran presentación había de realizarse el día siguiente. El número de _clústers_, su tamaño aproximado, el nombre de cada uno de ellos, el blablabá _marketiniano_ de por qué su sin par relevancia, etc. estaban ya cincelados en mármol y eran absolutamente inamovibles... hasta que descubirmos un inexcusable error en el cálculo de una de las variables más relevantes. ¡Oh, calamidad!
+La pesadilla de la que quiero dar cuenta comenzó un buen día en que mi compañero Julio y yo habíamos acabado nuestra segmentación para una importante empresa española y la habíamos presentado en _petit comité_ con nuestros rutilantes _powerpoints_. La gran presentación había de realizarse el día siguiente. El número de _clústers_, su tamaño aproximado, el nombre de cada uno de ellos, el blablabá _marketiniano_ de por qué su sin par relevancia, etc. estaban ya cincelados en mármol y eran absolutamente inamovibles... hasta que descubrimos un inexcusable error en el cálculo de una de las variables más relevantes. ¡Oh, calamidad!
 
 De las dos opciones obvias (ambas incompatibles con el nocturno reposo) que se nos ocurrieron, descartamos la, posiblemente, más honesta: reconocer el error, rehacerlo todo y asumir las, previsiblemente, acérrimas consecuencias. Conscientes no obstante de que los algoritmos de _clústering_, dada su dependencia en el muestreo ---no lo hacíamos sobre la población entera de varios millones de clientes sino sobre muestras de varias decenas de miles de ellos--- y las condiciones iniciales, son sumamente inestables ---es decir, dos ejecuciones diferentes sobre dos muestras de la misma población pueden dar resultados totalmente distintos--- probamos suerte.
 

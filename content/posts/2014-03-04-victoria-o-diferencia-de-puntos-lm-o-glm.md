@@ -29,7 +29,7 @@ Supongamos que queremos construir un modelo para predecir quién ganará un dete
 
 Podemos utilizar una regresión logística así:
 
-{{< highlight R >}}
+```r
 set.seed(1234)
 
 my.coefs <- -2:2
@@ -56,7 +56,7 @@ test.error.glm <- function(){
 }
 
 errores.glm <- replicate(1000, test.error.glm())
-{{< / highlight >}}
+```
 
 El código anterior hace lo siguiente:
 
@@ -70,7 +70,7 @@ Nótese que la variable objetivo es binaria por construcción.
 
 Alternativamente podemos utilizar el modelo lineal para estimar una variable alternativa (y conocida): la diferencia de puntos entre los equipos. El código es similar al anterior:
 
-{{< highlight R >}}
+```r
 test.error.lm <- function(){
   X <- matrix(rnorm(n*5), n, 5)
   Y <- 0.2 + X %*% my.coefs + rnorm(n)
@@ -89,12 +89,12 @@ test.error.lm <- function(){
 }
 
 errores.lm <- replicate(1000, test.error.lm())
-{{< / highlight >}}
+```
 
 La única diferencia reside en que se estima primero la diferencia en los marcadores y luego se mira a ver si es positiva o negativa para determinar el ganador. Es decir, se binariza después de la predicción.
 
 Y ahora el ejercicio:
 
-* Comprarar los errores cometidos en uno y otro caso.
+* Comparar los errores cometidos en uno y otro caso.
 * Después, solo después, leer [esto](http://andrewgelman.com/2014/02/25/basketball-stats-dont-model-probability-win-model-expected-score-differential/).
 * ¡Dejar un comentario explicando los resultados obtenidos!

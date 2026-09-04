@@ -27,8 +27,7 @@ Puede que algunos de mis lectores sepan que el [lucero del alba](http://es.wikip
 
 En contextos menos poéticos se conoce por tal nombre a esto:
 
-[![](/img/2011/12/cierre2012.png#center)
-](/img/2011/12/cierre2012.png#center)
+![](/img/2011/12/cierre2012.png#center)
 
 Es decir, una determinada configuración de los precios de apertura y cierre de tres días de cotización (bursátil, por ejemplo) de forma que:
 
@@ -54,7 +53,7 @@ Y uno se pregunta: ¿en serio? Y si es verdad, ¿por qué? Y como ya somos mayor
 
 
 
-{{< highlight R >}}
+```r
 tef <- read.table( "table_tef.csv", sep = ",", header = T )
 tef <- tef[ order( tef$Date ), ]
 
@@ -82,7 +81,7 @@ tmp     <- sapply( 1:nrow( tef ),
 
 res.all <- do.call( rbind, tmp )
 res.ms  <- res.all[ res.all[,1] == 1, ]
-{{< / highlight >}}
+```
 
 
 
@@ -93,8 +92,7 @@ res.ms  <- res.all[ res.all[,1] == 1, ]
 El resultado muestra cómo en los 10 últimos años ha habido 48 luceros del alba. ¿Y qué pasó un mes después? Lo indica el histograma siguiente:
 
 
-[![](/img/2011/12/lucero_del_alba.png#center)
-](/img/2011/12/lucero_del_alba.png#center)
+![](/img/2011/12/lucero_del_alba.png#center)
 
 
 Y en 20 años de cotización del IBEX 35, ¿cuáles serían los resultados? Helos:
@@ -105,14 +103,14 @@ Y en 20 años de cotización del IBEX 35, ¿cuáles serían los resultados? Helo
 
 
 
-{{< highlight R >}}
+```r
 ibex    <- read.table( "table_ibex.csv", sep = ",", header = T )
 ibex    <- ibex[ order( ibex$Date ), ]
 tmp     <- sapply( 1:nrow( ibex ),
 					function( i ) morning.star( ibex[ i:nrow( ibex ), ] ) )
 res.all <- do.call( rbind, tmp )
 res.ms  <- res.all[ res.all[,1] == 1, ]
-{{< / highlight >}}
+```
 
 
 
@@ -123,8 +121,7 @@ res.ms  <- res.all[ res.all[,1] == 1, ]
 Y al cabo de un mes de los 78 luceriles prodigios ocurridos desde el 92, la rentabilidad acumulada por el IBEX 35 fue la indicada en el siguiente histograma:
 
 
-[![](/img/2011/12/lucero_alba_ibex.png#center)
-](/img/2011/12/lucero_alba_ibex.png#center)
+![](/img/2011/12/lucero_alba_ibex.png#center)
 
 
 

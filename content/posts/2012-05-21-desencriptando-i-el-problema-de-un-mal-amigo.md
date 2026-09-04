@@ -22,7 +22,7 @@ url: /2012/05/21/desencriptando-i-el-problema-de-un-mal-amigo/
 
 Tengo un muy mal amigo que, sabiendo cómo soy para esas cosas y de qué manera me quitan el sueño, quiso alterar mi solaz enviándome esto:
 
-{{< highlight R >}}
+```r
 cadena <- c(
 "s","u","t","k","r","k","b","s","w","f","s","t","s","u","z","k","q","x","p","k","s","r",
 "t","z","z","a","s","r","f","q","z","u","s","r","w","z","u","t","g","f","s","b","k","y",
@@ -76,7 +76,7 @@ cadena <- c(
 "b","z","t","z","e","y","z","j","r","g","j","p","s","e","f","g","s","u","t","k","r","k",
 "b","s","w","f","s","z","a","s","r","f","q","z","u","s","s","w","v","z","r","v","s","u",
 "z","t","g","s","w","u","z","j","r","k","e","k","g","w","t","s","g","b","r","g","w","g")
-{{< / highlight >}}
+```
 
 Se trata de una cadena de 1144 caracteres que, aparentemente, encerraban algún tipo de mensaje. De hecho, era probable que se tratase de un mensaje codificado con una técnica que, dicen, ya empleaba Julio César en la campaña de las Galias y que [describí en otra ocasión](https://datanalytics.com/2011/12/02/grandes-avances-criptograficos-segun-el-pais/): a saber, mediante una permutación de letras.
 
@@ -97,7 +97,7 @@ Con mi definición de probabilidad, penalizo aquellas permutaciones que dan luga
 
 Para construir $M$ utilicé un texto que tenía a mano, el Quijote, y lo procesé de la siguiente manera:
 
-{{< highlight R >}}
+```r
 quijote <- readLines( "http://www.gutenberg.org/cache/epub/2000/pg2000.txt", encoding = "UTF-8" )
 tmp <- sapply( quijote, function(x) strsplit(x, ""))
 tmp <- do.call( c, tmp )
@@ -121,13 +121,13 @@ res <- tapply( b.to, b.from, table )
 res <- do.call( rbind, res ) + 1
 
 res <- res / rowSums(res)
-{{< / highlight >}}
+```
 
 El objeto `res` que crea es dicha matriz de transiciones (mirad la fila _q_, por ejemplo).
 
 Para calcular la probabilidad asociada a una cadena utilicé la función
 
-{{< highlight R >}}
+```r
 m <- res
 
 markov <- function(x, m){
@@ -135,9 +135,9 @@ markov <- function(x, m){
 }
 
 p.0 <- markov( cadena, m )
-{{< / highlight >}}
+```
 
-En muchos contextos, existen vías ya muy transitadas para maximizar probabilidades: piénse en los mínimos cuadrados en problemas de regresión, etc. En nuestro caso, tendríamos que explorar el universo de permutaciones, calcular la probabilidad asociada a cada una de ellas, etc. No existe método de Newton-Raphson o similar en este caso. Pero sí que se puede utilizar una técnica no particularmente recomendable pero suficiente en este caso:
+En muchos contextos, existen vías ya muy transitadas para maximizar probabilidades: piénsese en los mínimos cuadrados en problemas de regresión, etc. En nuestro caso, tendríamos que explorar el universo de permutaciones, calcular la probabilidad asociada a cada una de ellas, etc. No existe método de Newton-Raphson o similar en este caso. Pero sí que se puede utilizar una técnica no particularmente recomendable pero suficiente en este caso:
 
 1. Comenzar con una permutación
 2. Construir otra a partir de la anterior
@@ -148,7 +148,7 @@ En particular, a partir de una determinada permutación, se puede generar otra s
 
 Esto es lo que hace el siguiente pedazo de código (no particularmente bien pulido):
 
-{{< highlight R >}}
+```r
 while( TRUE ){
     cadena.alt <- factor( cadena )
     cambiar <- sample( nlevels(cadena.alt), 2 )
@@ -171,7 +171,7 @@ while( TRUE ){
         print( cadena ); flush.console()
     }
 }
-{{< / highlight >}}
+```
 
 Y si alguien se molesta en ejecutarlo verá cómo al cabo de unos segundos aparece en su pantalla un texto relativamente legible y cuyo contenido, realmente, es irrelevante para los más de nosotros.
 

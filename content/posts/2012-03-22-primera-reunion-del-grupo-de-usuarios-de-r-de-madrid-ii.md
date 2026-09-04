@@ -23,7 +23,7 @@ Acaba de terminar la primera reunión del grupo de usuarios de R de Madrid. No h
 
 Los enlaces a las presentaciones estarán pronto disponibles en la [página del grupo](http://r-es.org/Grupo+de+Usuarios+de+R+en+Madrid). Pero como adelanto:
 
-La primera, de Rafael Garcia Leiva, de [entropycs](http://www.entropycs.com), sobre el uso de paquetes para el análisis financiero de R aplicados al [_trading_ algorítimico](http://en.wikipedia.org/wiki/Algorithmic_trading), es decir, a ganar dinero por las noches, mientras uno duerme, en los mercados.
+La primera, de Rafael Garcia Leiva, de [entropycs](http://www.entropycs.com), sobre el uso de paquetes para el análisis financiero de R aplicados al [_trading_ algorítmico](http://en.wikipedia.org/wiki/Algorithmic_trading), es decir, a ganar dinero por las noches, mientras uno duerme, en los mercados.
 
 [Carlos Ortega](http://www.qualityexcellence.es/) ha aplicado sus conocimientos de la ingeniería del _software_ al análisis cuantitativo de la calidad del desarrollo de R como proyecto de _software_ a través del historial de _bugs_ a través de las distintas versiones desde 1998.
 

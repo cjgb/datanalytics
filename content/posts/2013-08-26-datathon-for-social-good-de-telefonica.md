@@ -30,6 +30,6 @@ Estos son los tres tipos de datos con los que se contará:
 * Datos abiertos y geo-localizados de medios de transporte (autobús, metro, bicicleta). Admisiones en hospitales. Localizaciones de servicios de emergencia.
 * Datos no-localizados de Twitter con el _hash-tag_ "London". Cantidad representativa de _tuits_ por hora.
 
-Además, la competición será inaugurada con una conferencia a cargo del profesor Alex "Sandy" Pentland del MIT y Gavin Starks, director del [Open Data Institute](http://www.theodi.org/) el martes 3 de Septiembre.
+Además, la competición será inaugurada con una conferencia a cargo del profesor Alex "Sandy" Pentland del MIT y Gavin Starks, director del [Open Data Institute](http://www.theodi.org/) el martes 3 de septiembre.
 
 (Gracias a [Pedro Concejero](https://twitter.com/ConcejeroPedro) por avisarme de esta competición).
