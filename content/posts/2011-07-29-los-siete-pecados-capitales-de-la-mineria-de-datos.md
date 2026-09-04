@@ -34,7 +34,7 @@ El autor repasa los siete pecados capitales de la minería de datos, a saber
 6. Trabajar en solitario
 7. Usar datos malos
 
-Frente a ellas, propone las siguientes virtudes:
+Frente a ellos, propone las siguientes virtudes:
 
 1. Define el problema
 2. Prepara los datos usando conocimiento sobre el campo del que proceden

@@ -51,7 +51,7 @@ Pinta ella cosas del tipo
 [![Map1_confianza_generalizada](/img/2014/11/Map1_confianza_generalizada.png#center)
 ](/img/2014/11/Map1_confianza_generalizada.png#center)
 
-que viene a ser una versión de mi gráfico de barras (¿os habéis fijado que, adrede, las barras no principian donde deben, en 0? ¡lo que me ha costado construirlo!) un poquito más elaborada —hay gente que tiene más tiempo que yo— y que tiene sobre el mío la ventaja de que nos recuerda la forma de Extremadura. Por lo demás, tanto el gráfico y las cifras que representa, como la inanidad de la narrativa que lo rodean en la publicación original son idénticos al mío.
+que viene a ser una versión de mi gráfico de barras (¿os habéis fijado que, adrede, las barras no principian donde deben, en 0? ¡lo que me ha costado construirlo!) un poquito más elaborada —hay gente que tiene más tiempo que yo— y que tiene sobre el mío la ventaja de que nos recuerda la forma de Extremadura. Por lo demás, tanto el gráfico y las cifras que representa, como la inanidad de la narrativa que lo rodean en la publicación original son idénticas al mío.
 
 ¿Veis las diferencias tan notables que muestra el mapa anterior? ¿Serán _significativas_? Volveré a eso luego, pero quiero indicar primero que las variaciones en mi gráfico son espurias. La VMI que he representado es... la proporción de mujeres. Que varía mucho menos entre comunidades autónomas (INE dixit):
 

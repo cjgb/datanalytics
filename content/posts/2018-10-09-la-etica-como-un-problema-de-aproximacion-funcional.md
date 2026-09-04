@@ -30,7 +30,7 @@ Voy a comenzar con una hipótesis fuerte. Es así: existen coyunturas $c_i$, acc
 
 Entonces la ética como producción intelectual consiste en una secuencia de ensayos por aplicar a $v$ la técnica del [principio de la descripción de longitud mínima](https://en.wikipedia.org/wiki/Minimum_description_length). El sueño húmedo de los estudiosos de la ética sería encontrar una descripción que cupiese en un folio de una función $\hat{v}$ tal que $\hat{v} \approx v$. Advierto la relación de este concepto con el de la [dimensión de Vapnik–Chervonenkis](https://en.wikipedia.org/wiki/VC_dimension).
 
-Propuestas de $v$ que uno encuentra por ahí son los diez mandamientos, el imperativo categórico de Kant, lo del velo de la ignorancia de Rawls, las maximización de la utilidad de los, ejem, utilitaristas, etc. Todo lo que uno lee al respecto tiene las siguiente estructura:
+Propuestas de $v$ que uno encuentra por ahí son los diez mandamientos, el imperativo categórico de Kant, lo del velo de la ignorancia de Rawls, la maximización de la utilidad de los, ejem, utilitaristas, etc. Todo lo que uno lee al respecto tiene la siguiente estructura:
 
 * Alguien enumera propuestas $\hat{v}_i$ que circulan por ahí.
 * Encuentra casos $\hat{v}_i(c_j, a_k) \neq v(c_j, a_k)$ muy manifiestamente.

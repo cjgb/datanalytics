@@ -33,6 +33,6 @@ El autor de la entrada indica cómo en la gráfica lineal apenas puede apreciars
 
 Pero pienso, además: ¿es el uso de la escala logarítmica en sí la que soluciona los problemas de interpretación o hay motivos que hacen que eso sea así?
 
-Creo que la medida relevante para mostrar en el gráfico no son tanto la de los dólares nominales (de PIB y de deuda) como la de los dólares constantes o, incluso, la de los dólares constantes por estadounidense. Como tanto la pérdida de valor del dinero como la evolución de la población son (aproximadamente) exponenciales, la escala logarítmica corrige en gran medida el efecto distorsionador de la extrema diacronía de los datos. Pero no deja de ser una aproximación a la solución _correcta_.
+Creo que la medida relevante para mostrar en el gráfico no es tanto la de los dólares nominales (de PIB y de deuda) como la de los dólares constantes o, incluso, la de los dólares constantes por estadounidense. Como tanto la pérdida de valor del dinero como la evolución de la población son (aproximadamente) exponenciales, la escala logarítmica corrige en gran medida el efecto distorsionador de la extrema diacronía de los datos. Pero no deja de ser una aproximación a la solución _correcta_.
 
 Pero puestos a corregir, pienso yo, bien habría valido la pena aplicar los multiplicadores correspondientes para que las magnitudes resultasen comparables a lo largo del tiempo.

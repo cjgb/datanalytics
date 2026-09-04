@@ -38,7 +38,7 @@ Si la respuesta anterior no sería aceptable en boca del médico del seguro, ¿p
 
 En lugar de rematar una encuesta electoral con esa coletilla seudocientífica de que _partiendo de los criterios del muestreo aleatorio simple_ [!!!!]_, para un nivel de confianza del 95.5% (que es el habitualmente adoptado) y en la hipótesis más desfavorable de máxima indeterminación (p=q=50), el margen de error de los datos referidos al total de la muestra es de ± 2.9 puntos_, deberían ser más honestos y decir algo así:
 
->En encuestas realizadas con metodologías y tamaños muestrales similares en contextos comparables, la distribución del error cometido con respecto a los resultados finales siguieron la distribución que indica el histograma adjunto. En un 80% de los casos el error ha sido inferior al 7%, aunque no son del todo infrecuentes (5%) errores superiores al 10%.
+>En encuestas realizadas con metodologías y tamaños muestrales similares en contextos comparables, la distribución del error cometido con respecto a los resultados finales siguió la distribución que indica el histograma adjunto. En un 80% de los casos el error ha sido inferior al 7%, aunque no son del todo infrecuentes (5%) errores superiores al 10%.
 
 Tenemos un histórico de encuestas y errores suficiente como para computar empíricamente (en lugar de con una fórmula tonta de Excel) el error que se puede llegar a esperar.
 

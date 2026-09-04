@@ -39,6 +39,6 @@ Los otros siete, del [Observatorio Crítico de la Energía](http://www.observael
 6. La energía nuclear tiene el coste de generación más bajo y debe por lo tanto ser promovida
 7. El mercado eléctrico funciona de manera transparente transmitiendo al consumidor el coste real de la electricidad
 
-No sé los números son producto de la casualidad. Pero llama la atención cómo gente que entiendo cabal solo coincida en la cabalística elección del número siete y discrepen tan drásticamente en lo sustancial.
+No sé si los números son producto de la casualidad. Pero llama la atención cómo gente que entiendo cabal solo coincida en la cabalística elección del número siete y discrepen tan drásticamente en lo sustancial.
 
 Dejo que mis lectores acudan a las fuentes y echen un vistazo a argumentos de tirios y troyanos.

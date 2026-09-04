@@ -24,7 +24,7 @@ A la hora de evaluar el potencial impacto de los LLMs en el mercado laboral, tan
 
 Es _legible_ una información o unidad de conocimiento cuando es universal, pública, fácilmente accesible y tiene _contornos regulares_. Son perfectamente legibles el teorema de Pitágoras, cómo leer ficheros JSON en Python o el primer artículo de la constitución española.
 
-Son _ilegibles_ los estatutos de mi comunidad de vecinos, las intenciones últimas de ese mensaje de Slack tan críptico o si le intereso a esa chica que me gusta. Hacen ilegible a una información aspectos tales como:
+Son _ilegibles_ los estatutos de mi comunidad de vecinos, las intenciones últimas de ese mensaje de Slack tan críptico o si le intereso a esa chica que me gusta. Hacen ilegible una información aspectos tales como:
 
 - Que no se sepa dónde está.
 - Que los agentes tengan interés en ocultarla, tergiversarla o plantar señales engañosas respecto a ella (por ejemplo, en una negociación).

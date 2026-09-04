@@ -28,7 +28,7 @@ El siguiente ejemplo ilustra otro de los principales problemas del PIB: si un pa
 
 Es decir, el PIB no es un indicador _sostenible_. Y no uso _sostenible_ en términos buenistas, ecológicos o similares. Lo uso en el sentido de que no es un predictor lo suficientemente bueno de lo que puede suceder en el futuro: puede engordarse con el pan de hoy que es el hambre de mañana. Como nos viene sucediendo en España desde hace unos cuantos años.
 
-Y existen propuestas para crear un indicador de la riqueza más fidedignas de la situación económica de un país, como por ejemplo, las contenidas en el [Millennium Ecosystem Assessment](http://www.maweb.org/en/index.aspx) de 2005 o las conclusiones del comité [Stiglitz-Sen-Fitoussi](http://www.stiglitz-sen-fitoussi.fr/en/index.htm) de 2009. Y finalmente, la ONU ha propuesto el [índice de riqueza integral](http://www.ihdp.unu.edu/article/iwr) que aspira a solucionar los problemas planteados por el PIB y el índice de desarrollo humano debidos al
+Y existen propuestas para crear un indicador de la riqueza más fiel de la situación económica de un país, como por ejemplo, las contenidas en el [Millennium Ecosystem Assessment](http://www.maweb.org/en/index.aspx) de 2005 o las conclusiones del comité [Stiglitz-Sen-Fitoussi](http://www.stiglitz-sen-fitoussi.fr/en/index.htm) de 2009. Y finalmente, la ONU ha propuesto el [índice de riqueza integral](http://www.ihdp.unu.edu/article/iwr) que aspira a solucionar los problemas planteados por el PIB y el índice de desarrollo humano debidos al
 
 
 >impacto ecológico y la degradación en los activos naturales que no se registran en la contabilidad nacional y que, por tanto, los hace menos útiles para medir el bienestar.

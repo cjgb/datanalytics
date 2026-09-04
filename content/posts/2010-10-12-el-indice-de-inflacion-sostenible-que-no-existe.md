@@ -20,7 +20,7 @@ title: El índice de inflación sostenible (que no existe)
 url: /2010/10/12/el-indice-de-inflacion-sostenible-que-no-existe/
 ---
 
-La estadística oficial (tal como la entienden el INE y organismos similares) ejercen un, así lo llamamos los pedantes, pernicioso efecto reificador. Me explico: todos tenemos una idea intuitiva sobre lo que significa la inflación, la tasa de desempleo o el producto nacional bruto. Pero la inflación, la tasa de desempleo o el producto nacional bruto _son_ —en _realidad_ y para todos los efectos— lo que nos dice el INE que son: unos números que publican días, semanas o incluso años después de ocurrido el hecho medible.
+La estadística oficial (tal como la entienden el INE y organismos similares) ejerce un, así lo llamamos los pedantes, pernicioso efecto reificador. Me explico: todos tenemos una idea intuitiva sobre lo que significa la inflación, la tasa de desempleo o el producto nacional bruto. Pero la inflación, la tasa de desempleo o el producto nacional bruto _son_ —en _realidad_ y para todos los efectos— lo que nos dice el INE que son: unos números que publican días, semanas o incluso años después de ocurrido el hecho medible.
 
 Es curioso que muchos bancos, institutos económicos, etc. realizan proyecciones y estimaciones de estos indicadores _a futuro_. Se esfuerzan muchísimo en tratar de adivinar qué sucederá en un año. Pero apenas existen estudios _a pasado_.
 

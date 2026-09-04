@@ -95,7 +95,7 @@ El _scoring_ nos permite representar la información necesaria para nuestro prob
 
 ![](/img/2022/06/roc_curve_00.png#center)
 
-En esa gráfica se muestra la distribución del _scoring_ tanto para las observaciones etiquetadas (verdaderamente) como sí y como no. También se muestra el punto de corte de una hipotética regla de clasificación como una recta vertical. Los falsos positivos estarían en la cola derecha (a la derecha de la línea vertical) del histograma ¿rosa? y los falsos negativos, las de la cola izquierda del histograma ¿azul?
+En esa gráfica se muestra la distribución del _scoring_ tanto para las observaciones etiquetadas (verdaderamente) como sí y como no. También se muestra el punto de corte de una hipotética regla de clasificación como una recta vertical. Los falsos positivos estarían en la cola derecha (a la derecha de la línea vertical) del histograma ¿rosa? y los falsos negativos, los de la cola izquierda del histograma ¿azul?
 
 En un modelo _óptimo_ ambos histogramas estarían separados; en uno _pésimo_, sobreimpresos. Lo habitual es tener cierto grado de solapamiento y medir la bondad del ajuste del modelo equivale a medir de alguna manera dicho grado de solapamiento.
 

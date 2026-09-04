@@ -30,7 +30,7 @@ En el curso aparecieron sugerencias tales como [esta](http://www.flickr.com/phot
 
 [esta](http://n79.org/infographics/asg1/), y otras similares que jugaban con los elementos gráficos habituales con más o menos arte, mejor o peor gusto en los colores, etc.
 
-A mí se me ocurrió que los datos que aparecen en el gráfico original podía, con alguna salvedad y abusando del lenguaje, considerarse una especie de [tabla de contingencia](http://es.wikipedia.org/wiki/Tabla_de_contingencia) que incluía el número de personas que en cada país hacen uso de distintos tipos de servicios de internet. Y que entonces podría utilizar herramientas gráficas, tales como los _[biplots](http://en.wikipedia.org/wiki/Biplot)_ para visualizar los datos. El resultado fue
+A mí se me ocurrió que los datos que aparecen en el gráfico original podían, con alguna salvedad y abusando del lenguaje, considerarse una especie de [tabla de contingencia](http://es.wikipedia.org/wiki/Tabla_de_contingencia) que incluía el número de personas que en cada país hacen uso de distintos tipos de servicios de internet. Y que entonces podría utilizar herramientas gráficas, tales como los _[biplots](http://en.wikipedia.org/wiki/Biplot)_ para visualizar los datos. El resultado fue
 
 ![](/img/2012/11/internet_usage-300x300.png#center)
 

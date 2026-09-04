@@ -47,7 +47,7 @@ También podría lanzarlas en servidores distintos (en cuyo caso tendría que ca
 
 En cualquier caso, las otras sesiones que lanzo (en la misma u otra máquina) reciben instrucciones (código y datos) del servidor central y ejecutan las tareas de la parte `map`. Una vez que terminan, se les asignan las tareas `reduce` y el resultado final se agrega en un único fichero (predefinido en el programa `wrdcount_mincemeat.py` del servidor).
 
-En `wrdcount_mincemeat.py` se definen dos funciones, `mapfn` y `reducefn` que son las que ejecutan los _mapeadores_ y los _reductores_, es decir, las sesiones a las que el servidor central asignan tareas, y que son en este caso
+En `wrdcount_mincemeat.py` se definen dos funciones, `mapfn` y `reducefn` que son las que ejecutan los _mapeadores_ y los _reductores_, es decir, las sesiones a las que el servidor central asigna tareas, y que son en este caso
 
 {{< highlight python >}}
 def mapfn( key, value ):

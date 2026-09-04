@@ -27,6 +27,6 @@ Se me ha propuesto organizar un curso, taller o similar de redes sociales y su a
 
 Mi propuesta —dado que soy lego en el asunto— es organizar un taller basado en [este](http://sna.stanford.edu/rlabs.php). Ahí va mi propuesta: en una serie de sesiones en [MartinaCocina](http://martinacocina.es) plantamos un proyector y una pizarra y entre todos vamos avanzando en el tutorial y resolviendo las dudas colaborativamente.
 
-Por supuesto, el asunto no estaría planteado como clase unidireccional en el que alguien habla y explica y los demás asienten. Más bien, como un taller de pares que aprenden y que a la voz de _ya estamos todos_ pasamos al siguiente asunto.
+Por supuesto, el asunto no estaría planteado como clase unidireccional en la que alguien habla y explica y los demás asienten. Más bien, como un taller de pares que aprenden y que a la voz de _ya estamos todos_ pasamos al siguiente asunto.
 
 Y la pregunta es: ¿se animaría alguien? Que deje una nota o avise para poder estimar la asistencia potencial.

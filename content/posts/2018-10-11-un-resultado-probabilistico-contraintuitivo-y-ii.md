@@ -33,7 +33,7 @@ Pero una cosa es la demostración y otra muy distinta, descontraintuitivizar el 
 
 **A:** Hoy ha subido el 2.3%. Y ahora el juego: con esa info, ¿quién ha subido más, BBVA o Santander?
 
-B tiene varias opciones. Una de ella es constestar al tuntún (la estrategia naive de ayer). La otra es pensar en lo probable que es una subida del 2.3%. Al hacerlo, está considerando una distribución de probabilidad, la que considera que rige las variaciones de precio de las acciones, que no tiene que ser igual a la _verdadera_ distribución de probabilidad que rige las variaciones de precio de las acciones.
+B tiene varias opciones. Una de ellas es constestar al tuntún (la estrategia naive de ayer). La otra es pensar en lo probable que es una subida del 2.3%. Al hacerlo, está considerando una distribución de probabilidad, la que considera que rige las variaciones de precio de las acciones, que no tiene que ser igual a la _verdadera_ distribución de probabilidad que rige las variaciones de precio de las acciones.
 
 Si B entiende que 2.3% es un valor muy alto para dicha distribución, se quedará con BBVA. En caso contrario, elegirá el Santander. Y es sensato.
 

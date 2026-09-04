@@ -61,7 +61,7 @@ obtenemos
 [![alturas_sexo](/img/2015/07/alturas_sexo.png#center)
 ](/img/2015/07/alturas_sexo.png#center)
 
-y advertimos dos cosas. La primera es que algunos datos de altura están anotados _a ojo_: los picos que se aprecian corresponden a alturas redondeadas a la decena más próxima. Pero también que lo que creíamos una única distribución normal es, en realidad, la mezcla de dos: la de la alturas de los hombres y la de las mujeres.
+y advertimos dos cosas. La primera es que algunos datos de altura están anotados _a ojo_: los picos que se aprecian corresponden a alturas redondeadas a la decena más próxima. Pero también que lo que creíamos una única distribución normal es, en realidad, la mezcla de dos: la de las alturas de los hombres y la de las mujeres.
 
 Una mezcla de dos distribuciones con apariencia _normal_ que resulta en otra distribución de apariencia también normal, de _bimodalidad enmascarada_, si se me permite.
 

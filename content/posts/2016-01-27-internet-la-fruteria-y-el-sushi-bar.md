@@ -19,7 +19,7 @@ url: /2016/01/27/internet-la-fruteria-y-el-sushi-bar/
 
 Internet es en gran medida (y lo fue aún más) una especie de frutería: si quieres manzanas, vas a donde las manzanas; si quieres peras, vas a donde las peras, etc. Esta manera de organizar la información en internet tiene que ver con su sustrato tecnológico: la gente conecta servidores y en ellos coloca información sobre temas diversos. Luego, los buscadores nos ayudan a ubicar aquello en lo que estamos interesados.
 
-Pero, en el fondo, esta es una manera antinatural de gestionar información. La gente estamos acostumbrados a _consumirla_ como los platillos de sustancias japonesas en los bares de sushi, esos que tienen una cinta como
+Pero, en el fondo, esta es una manera antinatural de gestionar información. La gente estamos acostumbrada a _consumirla_ como los platillos de sustancias japonesas en los bares de sushi, esos que tienen una cinta como
 
 [![sushibar](/img/2016/01/sushibar.jpg)
 ](/img/2016/01/sushibar.jpg)

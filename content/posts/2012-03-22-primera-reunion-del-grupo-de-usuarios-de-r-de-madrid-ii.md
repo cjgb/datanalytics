@@ -19,7 +19,7 @@ title: Noticia de la primera reunión del grupo de usuarios de R de Madrid
 url: /2012/03/22/primera-reunion-del-grupo-de-usuarios-de-r-de-madrid-ii/
 ---
 
-Acaba de terminar la primera reunión del grupo de usuarios de R de Madrid. No hemos disfrutado de la más primaveral de las tardes. Y la ubicación era un tanto excéntrica. Pero hemos tenido tres charlas muy interesantes (y luego, la mía, claro), nueve asistentes (¡espero haber contado bien!) y, sobre todo, unos intercambio de ideas sumamente provechosos.
+Acaba de terminar la primera reunión del grupo de usuarios de R de Madrid. No hemos disfrutado de la más primaveral de las tardes. Y la ubicación era un tanto excéntrica. Pero hemos tenido tres charlas muy interesantes (y luego, la mía, claro), nueve asistentes (¡espero haber contado bien!) y, sobre todo, unos intercambios de ideas sumamente provechosos.
 
 Los enlaces a las presentaciones estarán pronto disponibles en la [página del grupo](http://r-es.org/Grupo+de+Usuarios+de+R+en+Madrid). Pero como adelanto:
 

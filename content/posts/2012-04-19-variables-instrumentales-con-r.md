@@ -32,7 +32,7 @@ $$\hat{\beta} =\frac{x'y}{x'x}=\frac{x'(x\beta+\varepsilon)}{x'x}=\beta+\frac{x'
 
 y debido a la correlación entre _X_ y $\varepsilon$, está sesgado.
 
-La solución que se plantea en ocasiones es el de usar variables instrumentales, es decir, variables correlacionadas con _X_ pero no con $\varepsilon$. La siguiente simulación en R ilustra el problema:
+La solución que se plantea en ocasiones es la de usar variables instrumentales, es decir, variables correlacionadas con _X_ pero no con $\varepsilon$. La siguiente simulación en R ilustra el problema:
 
 {{< highlight R >}}
 library(MASS)

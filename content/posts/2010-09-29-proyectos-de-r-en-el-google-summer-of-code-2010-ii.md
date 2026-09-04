@@ -22,6 +22,6 @@ Hace ya unos meses hablé de cómo había unos cuantos [proyectos relacionados c
 
 * De las quince propuestas originales, arrancaron cinco.
 * De las cinco, cuatro llegaron a buen término.
-* Lamentablemente, el —tal vez— más interesante de ellos, la implementación de un interfaz de R análogo a DBI para bases de datos no relacionales ([NoSQL](http://es.wikipedia.org/wiki/NoSQL)), acabó en nada.
+* Lamentablemente, el —tal vez— más interesante de ellos, la implementación de una interfaz de R análogo a DBI para bases de datos no relacionales ([NoSQL](http://es.wikipedia.org/wiki/NoSQL)), acabó en nada.
 
 Me consta que este blog lo lee mucha gente relacionada con la universidad. ¿Será que el año que viene tendremos alguna propuesta de España, Colombia, Argentina...?

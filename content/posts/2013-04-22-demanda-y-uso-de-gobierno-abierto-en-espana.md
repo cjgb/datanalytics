@@ -32,7 +32,7 @@ Aborda, dice, las siguientes cuestiones que copio:
 Los principales resultados que _dice_ encontrar son:
 
 * El 65.5 % de la ciudadanía considera como buena o muy buena la calidad de los servicios públicos.
-* El 42.2 % realiza trámites electrónicamente con las administraciones públicas y el 65,2% consultan las webs públicas para informarse de actividades o actuaciones administrativas.
+* El 42.2 % realiza trámites electrónicamente con las administraciones públicas y el 65,2% consulta las webs públicas para informarse de actividades o actuaciones administrativas.
 * El 75 % de los encuestados creen que la transparencia mejoraría la confianza en el gobierno.
 * El 81.4 % de la ciudadanía reclama nuevos canales para incrementar la participación y apuesta por la convivencia entre canales digitales y canales tradicionales.
 * El 53.6 % de los usuarios de Internet manifiestan interés en los asuntos políticos frente al 34.8 % de los que no lo son.

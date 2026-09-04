@@ -25,7 +25,7 @@ Nos amaneció el otro día la prensa con la noticia de que [Repsol YPF ha descub
 [![](/img/2011/11/Gusher_Okemah_OK_1922.jpg)
 ](/img/2011/11/Gusher_Okemah_OK_1922.jpg)
 
-Y se nos presentan en la prensa con tan falta de contexto y en términos tan ponderativos que es difícil hacerse una idea de lo minúsculos que resultan si se analizan bajo una perspectiva menos anumérica.
+Y se nos presentan en la prensa con tanta falta de contexto y en términos tan ponderativos que es difícil hacerse una idea de lo minúsculos que resultan si se analizan bajo una perspectiva menos anumérica.
 
 Cierto, 741 millones de barriles de petróleo son, en números muy redondos, unos 50 millardos de euros, suficientes como para comprar el Banco de Santander enterito a día de hoy. Y eso es plata.
 

@@ -27,6 +27,6 @@ Hoy, [_perfiles matriciales_ para series temporales](https://cran.r-project.org/
 
 Entiendo además que, como consecuencia, también para señalar aquellos ciclos en que se produzcan perfiles anómalos, para su evaluación. Pero dejo que consultéis la información en, por ejemplo, [aquí](https://cran.r-project.org/web/packages/tsmp/index.html) y [aquí](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html).
 
-No puedo dar una opinión más personal y directa del uso y aplicaciones de estas técnica: no la he usado nunca. El tipo de series que se ve que analizan se parecen poco a las que he trabajado o estoy trabajando ahora. En particular, tendría que ver cómo operar con series que tienen una tendencia natural.
+No puedo dar una opinión más personal y directa del uso y aplicaciones de estas técnicas: no la he usado nunca. El tipo de series que se ve que analizan se parecen poco a las que he trabajado o estoy trabajando ahora. En particular, tendría que ver cómo operar con series que tienen una tendencia natural.
 
 La procedencia declarada de los usuarios satisfechos cuyos comentarios sobre estas técnicas publica la [página del proyecto](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html) apunta en esa dirección: es gente que trabaja en campos mucho más cíclicos (cadenas de producción, por ejemplo) que los míos. Pero ahí queda.

@@ -20,7 +20,7 @@ title: Sobre los orígenes de la falacia ecológica
 url: /2020/11/25/sobre-los-origenes-de-la-falacia-ecologica/
 ---
 
-Dice la Wikipedia que la primera denuncia de luego conocida como la falacia ecológica hay que buscarlos en _[Ecological Correlations and the Behavior of Individuals](https://academic.oup.com/ije/article/38/2/337/658252)_ de un tal W. S. Robinson. Cuenta, entre otros ejemplos, cómo existía una correlación positiva entre ser inmigrante y ser analfabeto (según el censo de 1930 de EE.UU.), evidenciada por la tabla
+Dice la Wikipedia que la primera denuncia de luego conocida como la falacia ecológica hay que buscarla en _[Ecological Correlations and the Behavior of Individuals](https://academic.oup.com/ije/article/38/2/337/658252)_ de un tal W. S. Robinson. Cuenta, entre otros ejemplos, cómo existía una correlación positiva entre ser inmigrante y ser analfabeto (según el censo de 1930 de EE.UU.), evidenciada por la tabla
 
 ![](/img/2020/11/robinson_01.png#center)
 

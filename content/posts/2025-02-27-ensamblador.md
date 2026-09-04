@@ -27,4 +27,4 @@ Ahora todo el mundo programa en Python. Pero los hay que lo hacen de una manera 
 
 En el momento en que, como Karpathy hoy, los humanos nos olvidemos de que el código existe, ¿para qué necesitaremos que los LLMs generen Python?, ¿por qué no C o, ya puestos, ensamblador directamente?
 
-Más. El otro día, en una charla sobre el asunto, el ponente argumentaba que las primeras víctima de los LLMs que programan serán las herramientas "no-code". Pero recordemos que los lenguajes de programación no son otra cosa que herramientas "no ensamblador".
+Más. El otro día, en una charla sobre el asunto, el ponente argumentaba que las primeras víctimas de los LLMs que programan serán las herramientas "no-code". Pero recordemos que los lenguajes de programación no son otra cosa que herramientas "no ensamblador".

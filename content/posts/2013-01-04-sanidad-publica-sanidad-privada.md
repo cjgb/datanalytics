@@ -20,7 +20,7 @@ title: 'Sanidad pública, sanidad privada '
 url: /2013/01/04/sanidad-publica-sanidad-privada/
 ---
 
-Lo siento. El título es engañoso. No voy a abundar en el tema de modelo sanitario. Aunque esté de moda. Traje a este debate ideas preconcebidas que se me han ido pegando durante años de andar sobre la faz de la tierra. Y mis esfuerzos me ha costado desprenderme cartesianamente de ellas para quedarme a la espera de que alguien me ilumine de manera _clara y distinta_. Solo sospecho que la respuesta no puede resumirse en un monosílabo, que es mixta y con ejércitos de demonios camuflados tras los detalles. Pero lo que opine es prácticamente irrelevante.
+Lo siento. El título es engañoso. No voy a abundar en el tema de modelo sanitario. Aunque esté de moda. Traje a este debate ideas preconcebidas que se me han ido pegando durante años de andar sobre la faz de la tierra. Y mis esfuerzos me han costado desprenderme cartesianamente de ellas para quedarme a la espera de que alguien me ilumine de manera _clara y distinta_. Solo sospecho que la respuesta no puede resumirse en un monosílabo, que es mixta y con ejércitos de demonios camuflados tras los detalles. Pero lo que opine es prácticamente irrelevante.
 
 La cuestión es que el otro día tropecé con [este resumen del 2012 en 12 gráficos](http://www.eldiario.es/piedrasdepapel/2012_6_83701631.html). Hice saber a través de Twitter que el quinto, bajo el epígrafe _Sanidad: dinero privado, dinero público_,
 
@@ -48,6 +48,6 @@ El mejor resumen del artículo original (impublicable en un medio masivo, tal y 
 
 que da cuenta de la regresión de la esperanza de vida sobre variables tales como la eficacia del gobierno, los porcentajes del PIB invertidos en salud a través de agentes públicos o privados y, finalmente, el PIB per cápita. Lo que se lee en ella es, esencialmente, que las variables que más influyen en la esperanza de vida son la primera y la última. Y que el color del gato (color _público_ o _privado_) influye más bien poco en si este caza o no ratones.
 
-Penúltimamente, no encuentro la relevancia de este artículo en el debate sobre la privatización de la sanidad (tal como lo entiendo). En el artículo por sanidad privada se entiende aquella que se presta a través de compañías de seguros y hospitales privados, completamente al margen del sistema público. El debate que nos ocupa en España en estos días se refiere, si no me equivoco, a si la administraciones deberían subcontratar los servicios médicos a terceras empresas en lugar de servirse de funcionarios. Que es algo distinto.
+Penúltimamente, no encuentro la relevancia de este artículo en el debate sobre la privatización de la sanidad (tal como lo entiendo). En el artículo por sanidad privada se entiende aquella que se presta a través de compañías de seguros y hospitales privados, completamente al margen del sistema público. El debate que nos ocupa en España en estos días se refiere, si no me equivoco, a si las administraciones deberían subcontratar los servicios médicos a terceras empresas en lugar de servirse de funcionarios. Que es algo distinto.
 
 Y, finalmente, espero que ninguno de los 13 gráficos con que resumamos el 2013 tenga un R² del 1%.

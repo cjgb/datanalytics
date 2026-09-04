@@ -40,7 +40,7 @@ También se exigió que tuviesen muchas citas (más de cincuenta) pero la selecc
 
 Así que no se sabe muy bien si se votaron los más usados, los más elegantes, los más influyentes (¡un algoritmo puede haber sido muy influyente pero estar ya totalmente obsoleto!), los más eficientes, los más eficaces,...
 
-Además, existe un sesgo importante en la selección de la muestra de electores. Quien haya acudido a alguna de las conferencias en los que se seleccionaron sabrá a qué me refiero. Al que no, se lo resumiré en una palabra: ingenieros.
+Además, existe un sesgo importante en la selección de la muestra de electores. Quien haya acudido a alguna de las conferencias en las que se seleccionaron sabrá a qué me refiero. Al que no, se lo resumiré en una palabra: ingenieros.
 
 No habría dicho gran cosa si estuviese mínimamente de acuerdo con la selección de algoritmos. Pero:
 

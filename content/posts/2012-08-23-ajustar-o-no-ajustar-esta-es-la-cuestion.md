@@ -28,6 +28,6 @@ La visión alternativa es la de S. Stanley Young en [_Everything is Dangerous: A
 * El de los epidemiologistas: es peor obviar algo real que controlar el número de falsedades que se realizan
 * El de los estadísticos: hay que poner un límite a la probabilidad de extraer una conclusión falsa
 
-De hecho, menciona evidencias empíricas según las cuales entre el 80% y el 90% de los resultados publicados por epidemiologistas son falsas y que son imposibles de replicar en entornos rigurosamente controlados.
+De hecho, menciona evidencias empíricas según las cuales entre el 80% y el 90% de los resultados publicados por epidemiologistas son falsos y que son imposibles de replicar en entornos rigurosamente controlados.
 
 Sí, efectivamente, el contexto al que se refieren estos artículos es el de la epidemiología, principalmente. Pero hemos visto y sufrido el efecto de esta falta de control, todo por el afán de obtener un p-valor menor que el consabido 0.05 en muchos otros ámbitos.

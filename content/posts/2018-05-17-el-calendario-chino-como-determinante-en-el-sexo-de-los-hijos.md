@@ -37,7 +37,7 @@ Por si las necesarias ediciones y por su valor intrínseco, reproduzco aquí (ca
 >
 >Revisando por encima otros estudios comparativos observo, además, que existen contradicciones entre distintos métodos alternativos a la hora de predecir el sexo del bebé. Lo cual debería ser motivo adicional de escepticismo.
 >
->Más en general, existe una literatura extensa sobre factores que pueden influir en el sexo de los niños. En [este artículo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877388/) se citan algunos. Las posibles factores que modifiquen la probabilidad de que el recién nacido sea niño son:
+>Más en general, existe una literatura extensa sobre factores que pueden influir en el sexo de los niños. En [este artículo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877388/) se citan algunos. Los posibles factores que modifiquen la probabilidad de que el recién nacido sea niño son:
 >
 >* Potencialmente muchas.
 >* Todas ellas con un efecto muy, muy pequeño (si alguno).

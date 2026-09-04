@@ -36,6 +36,6 @@ Existen varios aspectos que hacen de este un problema interesante desde el punto
 
 * El énfasis que se hace en la recogida de datos, en la medición: el proceso de la estadística aplicada aplicada comienza, precisamente, en el diseño de la recogida de datos.
 * Existen condicionantes no puramente estadísticos (económicos, de factibilidad física, etc.) a los que atenerse y que actúan como restricciones.
-* Que permite experimentar vitalmente esas [tensiones sobre los que han escrito tantos](http://www.longtail.com/about.html).
+* Que permite experimentar vitalmente esas [tensiones sobre las que han escrito tantos](http://www.longtail.com/about.html).
 
 Ya veremos qué pasa al final.

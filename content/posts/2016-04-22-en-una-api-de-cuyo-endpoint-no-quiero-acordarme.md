@@ -18,7 +18,7 @@ title: En una API de cuyo endpoint no quiero acordarme...
 url: /2016/04/22/en-una-api-de-cuyo-endpoint-no-quiero-acordarme/
 ---
 
-... rigen los siguientes términos de servicio (que traduzco, porque el original vienen en inglés):
+... rigen los siguientes términos de servicio (que traduzco, porque el original viene en inglés):
 
 >Usuarios autorizados: usuarios afiliados a una institución educativa de investigación o sin ánimo de lucro.
 

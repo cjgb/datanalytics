@@ -19,7 +19,7 @@ title: Inmigrantes y la historia del que se comió un pollo y el otro no
 url: /2018/06/18/inmigrantes-y-la-historia-del-que-se-comio-un-pollo-y-el-otro-no/
 ---
 
-La historia del pollo es conocido: que si un tipo se come un pollo y otro ninguno, el estadístico de turno diría que se han comido medio cada uno. Lo de los inmigrantes viene a cuenta de noticias de la índole de
+La historia del pollo es conocida: que si un tipo se come un pollo y otro ninguno, el estadístico de turno diría que se han comido medio cada uno. Lo de los inmigrantes viene a cuenta de noticias de la índole de
 
 >Vamos mojarnos un poco:
 1/5

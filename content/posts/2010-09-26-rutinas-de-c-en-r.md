@@ -26,7 +26,7 @@ Si tuviese más interés por desarrollar en Windows, le haría una buena revisi�
 
 Y, tras el preámbulo, hago comenzar la sustancia de la entrada:
 
-Esta documento explica cómo incorporar código compilado escrito C dentro de un programa interpretado de R. Una de las maneras de hacerlo, la que se explorará aquí, es invocando una DLL escrita en C. Consta de los siguientes apartados:
+Este documento explica cómo incorporar código compilado escrito C dentro de un programa interpretado de R. Una de las maneras de hacerlo, la que se explorará aquí, es invocando una DLL escrita en C. Consta de los siguientes apartados:
 
 1. ¿Qué es R?
 2. ¿Para qué utilizar código compilado?
@@ -46,7 +46,7 @@ Es posible implementar en pocas líneas de R programas que en C involucrarían a
 
 Un programador de R curtido conoce los mecanismos que ofrece R -bastante numerosos, hay que decirlo- para evitar muchos de tales cuellos de botella. Por ejemplo, puede resultar del orden de 100 veces más lento sumar las componentes de un vector mediante un bucle a hacerlo usando la función sum(). Desafortunadamente, para ciertas aplicaciones estas opciones no bastan. La solución a este problema pasa, en muchos casos, por incorporar a los programas escritos en R rutinas escritas en otros lenguajes de programación compilados.
 
-Una de las posibilidades que contempla R es la de utilizar funciones contenidas en una DLL escrita en C y, precisamente, el objeto de esta página es explicar cómo construir la DLL y cómo crear la interfaz adecuado entre ella y R en un entorno Windows.
+Una de las posibilidades que contempla R es la de utilizar funciones contenidas en una DLL escrita en C y, precisamente, el objeto de esta página es explicar cómo construir la DLL y cómo crear la interfaz adecuada entre ella y R en un entorno Windows.
 
 ### ¿Qué es una DLL?
 

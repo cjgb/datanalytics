@@ -21,7 +21,7 @@ title: z-scores, p-scores y el problema de las áreas pequeñas
 url: /2020/10/21/z-scores-p-scores-y-el-problema-de-las-areas-pequenas/
 ---
 
-Uno de los problemas que encuentra uno al monitorizar series temporales en diversas escalas es la de encontrar una métrica de _desviaciones de la normalidad_ (al menos en tanto que los sectores en los que trabajo no se pueblen de postmodernistas que comiencen a cuestionar qué es eso de la normalidad y a argumentar que si es un constructo tan injusto como inasequible) que cumpla una serie de requisitos:
+Uno de los problemas que encuentra uno al monitorizar series temporales en diversas escalas es el de encontrar una métrica de _desviaciones de la normalidad_ (al menos en tanto que los sectores en los que trabajo no se pueblen de postmodernistas que comiencen a cuestionar qué es eso de la normalidad y a argumentar que si es un constructo tan injusto como inasequible) que cumpla una serie de requisitos:
 
 * El primero y fundamental, que detecte efectivamente desviaciones de la normalidad.
 * Que sea interpretable.

@@ -52,7 +52,7 @@ y ajustarlo sobre datos históricos de resultados de partidos. Luego, con ello, 
 La pregunta que me hago yo es: ¿son tan distintos entre sí? En el fondo:
 
 - Todos ellos plantean un modelo probabilístico. Aunque no lo parezca a primera vista, incluso el segundo lo hace: estima ciertas probabilidades de ocurrencia a través de sus frecuencias, cosa que en el fondo es el principio de la máxima verosimilitud para el modelo probabilístico implícito.
-- Todas ellas usan datos. Algunas aproximaciones necesitan más, otras menos. Pero en todas ellas hay una «mirada al mundo».
+- Todos ellos usan datos. Algunas aproximaciones necesitan más, otras menos. Pero en todas ellas hay una «mirada al mundo».
 - Todas plantean hipótesis probabilísticas más o menos defendibles. Por ejemplo, en las dos últimas, que patrones observados en los años 50 son todavía relevantes hoy. Y el primero, que la calidad de los equipos puede modelarse mediante una distribución normal.
 
 En el fondo, donde Gelman encuentra tres formas cualitativamente distintas de enfrentarse a un problema yo veo tres puntos dentro de un espectro.

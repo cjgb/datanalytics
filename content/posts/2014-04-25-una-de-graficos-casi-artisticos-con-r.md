@@ -22,7 +22,7 @@ url: /2014/04/25/una-de-graficos-casi-artisticos-con-r/
 
 Hoy traigo una selección a cuatro páginas en que podréis encontrar gráficos casi artísticos creados con R. En la primera de ellas se construye el [fractal de Collatz](http://aschinchon.wordpress.com/2014/04/04/the-collatz-fractal/).
 
-En las dos siguientes, los autores construyen animaciones. Una de ellas para ilustrar el [mecanismo de la regresión local](http://simplystatistics.org/2014/02/13/loess-explained-in-a-gif/) y el segundo para crear [figuras en 3D](http://alstatr.blogspot.ch/2014/02/r-fun-with-surf3d-function.html).
+En las dos siguientes, los autores construyen animaciones. Una de ellas para ilustrar el [mecanismo de la regresión local](http://simplystatistics.org/2014/02/13/loess-explained-in-a-gif/) y la otra para crear [figuras en 3D](http://alstatr.blogspot.ch/2014/02/r-fun-with-surf3d-function.html).
 
 [![London](/img/2014/04/London.png#center)
 ](/img/2014/04/London.png#center)

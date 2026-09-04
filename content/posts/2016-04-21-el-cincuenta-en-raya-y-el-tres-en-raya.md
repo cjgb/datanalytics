@@ -27,7 +27,7 @@ Hay dos variables, (pluviosidad y ratio hombres/mujeres) y los cincuenta puntico
 
 ¿Asombrosa correlación? No tanto.
 
-[Aquí](http://slatestarcodex.com/2016/04/02/beware-regional-scatterplots/) se discute cómo, en realidad, por su cercanía sociocultural y climática cada uno de los estados del gráfico son _manifestaciones_ de tres grupos de ellos que, estos sí, esta? _en raya_ (¿casualmente?).
+[Aquí](http://slatestarcodex.com/2016/04/02/beware-regional-scatterplots/) se discute cómo, en realidad, por su cercanía sociocultural y climática cada uno de los estados del gráfico es _manifestación_ de tres grupos de ellos que, estos sí, esta? _en raya_ (¿casualmente?).
 
 Gráficamente,
 

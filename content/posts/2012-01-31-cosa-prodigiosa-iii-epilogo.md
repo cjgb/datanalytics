@@ -44,7 +44,7 @@ Una posible estrategia para vencer al casino sería jugar aleatoriamente a dos j
 
 Por supuesto que no. Y es porque el segundo juego no es una supermartingala: cuando n no es múltiplo de tres, no se cumple $E(X_{n+1} | X_n) \le X_n$.
 
-El tercero de los juegos, como consecuencia, es uno de esos ejemplos en que se viola ligeramente las condiciones para que se cumpla el teorema para llegar a una conclusión opuesta a él.
+El tercero de los juegos, como consecuencia, es uno de esos ejemplos en que se violan ligeramente las condiciones para que se cumpla el teorema para llegar a una conclusión opuesta a él.
 
 Cierro esta discusión con dos ejercicios para mis lectores:
 

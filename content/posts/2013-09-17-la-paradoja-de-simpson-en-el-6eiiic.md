@@ -22,7 +22,7 @@ url: /2013/09/17/la-paradoja-de-simpson-en-el-6eiiic/
 
 El día 26 de septiembre, alrededor del mediodía, [participaré en el VI Encuentro Internacional de Investigación en Información y Comunicación](http://www.eiiic.org/programa/#sec-2-2).
 
-Reproduzco aquí el no particularmente breve (y de hecho, el más largo de los publicados) resúmenes por si a alguien le tienta y se acerca:
+Reproduzco aquí el no particularmente breve (y de hecho, el más largo de los publicados) resumen por si a alguien le tienta y se acerca:
 
 > Una parte fundamental de la labor de cualquier investigador consiste en interpretar adecuadamente los datos sobre los que trabaja. Existen innumerables obstáculos que dificultan dicho proceso: desde la inadecuada preparación para el análisis cuantitativo hasta los sesgos cognitivos estudiados por Kahneman, Tversky o Gigerenzer entre otros.
 >

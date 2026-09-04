@@ -18,7 +18,7 @@ title: Un curso completo de minería de datos en Youtube
 url: /2011/05/17/un-curso-completo-de-mineria-de-datos-en-youtube/
 ---
 
-[CITRIS](http://citris-uc.org/) (Center for Information Technology Research in the Interest of Society) está subiendo a su [canal de Youtube](http://www.youtube.com/user/citrisuc) los vídeos de las clases de un [curso de minería de datos](http://courses.ischool.berkeley.edu/i290-dm/s11/index_files/calendar.html) impartidos por el profesor Ram Akella en la Universidad de Berkeley.
+[CITRIS](http://citris-uc.org/) (Center for Information Technology Research in the Interest of Society) está subiendo a su [canal de Youtube](http://www.youtube.com/user/citrisuc) los vídeos de las clases de un [curso de minería de datos](http://courses.ischool.berkeley.edu/i290-dm/s11/index_files/calendar.html) impartido por el profesor Ram Akella en la Universidad de Berkeley.
 
 Están disponibles los vídeos del:
 

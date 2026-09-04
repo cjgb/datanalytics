@@ -32,7 +32,7 @@ Una capa de una red neuronal convolucional mide la presencia de un patrón deter
 
 (Para desavisados: aquí, un patrón puede ser algo así como un determinado gradiente de color, etc. identificado en los píxeles que rodean al punto $(i,j)$.)
 
-Por lo que parece, el _estilo_ está definido por las distribución conjunta de las variables aleatorias $X_k$ tales que $P(X_i \le p)$ es la proporción de valores $x(i,j,k) \le p$.
+Por lo que parece, el _estilo_ está definido por la distribución conjunta de las variables aleatorias $X_k$ tales que $P(X_i \le p)$ es la proporción de valores $x(i,j,k) \le p$.
 
 _[Nótese cómo, al definirlas de esa manera, las distribuciones pierden la información de dónde ocurren o dejan de ocurrir los patrones: solo es relevante su distribución y, examinadas de forma conjunta, su coocurrencia.]_
 

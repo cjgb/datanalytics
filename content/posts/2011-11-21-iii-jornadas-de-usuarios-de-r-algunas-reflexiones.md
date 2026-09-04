@@ -29,7 +29,7 @@ Hace dos años escribí un pequeño [resumen sobre las primeras](http://analisis
 * Más de 40 ponencias
 * Cinco talleres
 
-Si algo cabe reseñar es que el éxito de público y la diversidad de los ámbitos que representaba nos permite dar carpetazo definitivamente a la época de los _robinsones_, aquellos primeros usuarios de R —entre los que me cuento— que aprendieron y comenzaron a usar R por su cuenta, aislados de la incipiente comunidad y, en muchos casos, sufriendo la incomprensión de sus compañeros.
+Si algo cabe reseñar es que el éxito de público y la diversidad de los ámbitos que representaban nos permiten dar carpetazo definitivamente a la época de los _robinsones_, aquellos primeros usuarios de R —entre los que me cuento— que aprendieron y comenzaron a usar R por su cuenta, aislados de la incipiente comunidad y, en muchos casos, sufriendo la incomprensión de sus compañeros.
 
 Comenzamos una nueva época que en el plazo de tres o cuatro años nos va a conducir, con casi total seguridad, a un escenario en el que:
 

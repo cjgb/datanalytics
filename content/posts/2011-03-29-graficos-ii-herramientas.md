@@ -24,7 +24,7 @@ En orden alfabético son:
 
 
 * [Advizor](http://www.advizorsolutions.com/), un producto orientado a _business managers_ fatigados de las servidumbres de los mastodontes corporativos típicos (léase: Business Objects, Microstrategy, etc.)
-* [Bime](http://bimeanalytics.com/), en cuyas páginas encontré este estupenda [_guía_ para la representación de datos](http://bimeanalytics.com/blog/the-designer-guide-to-data-visualization-infographic/); está concebido para crear los llamados cuadros de mandos para gestión.
+* [Bime](http://bimeanalytics.com/), en cuyas páginas encontré esta estupenda [_guía_ para la representación de datos](http://bimeanalytics.com/blog/the-designer-guide-to-data-visualization-infographic/); está concebido para crear los llamados cuadros de mandos para gestión.
 * [Centrifuge](http://www.centrifugesystems.com/), que hace hincapié en la interactividad.
 * [Data Desk](http://www.datadesk.com/)
 * Google también dispone una serie de herramientas de visualización dentro de su proyecto [public data explore](http://www.google.com/publicdata/home) y proporciona una serie de [APIs ](http://code.google.com/apis/publicdata/) para interactuar con él.
@@ -36,7 +36,7 @@ En orden alfabético son:
 * [OpenViz](http://www.avs.com/products/openviz/), también orientado a aplicaciones empresariales, creación de cuadros de mando, etc.
 * [Protovis](http://vis.stanford.edu/protovis), que es _software_ libre desarrollado por la Universidad de Stanford y con el que se pueden crear visualizaciones limpias e impactantes a un tiempo.
 * [Quantum4D](http://www.quantum4d.com/)
-* [Spotfire](http://spotfire.tibco.com/), que era una herramienta que utilizaban unos clientes y del que, a pesar de ser _software _propietario, guardo un recuerdo muy positivo. ¡Lo que daría por encontrar una herramienta libre análoga!
+* [Spotfire](http://spotfire.tibco.com/), que era una herramienta que utilizaban unos clientes y de la que, a pesar de ser _software _propietario, guardo un recuerdo muy positivo. ¡Lo que daría por encontrar una herramienta libre análoga!
 * [Starlight](http://starlight.pnl.gov/)
 * [Tableau](http://www.tableausoftware.com/), del que solo he oído contar cosas buenas. Existen visualizaciones creadas con él verdaderamente impactantes. Y se lo he oído recomendar a un tipo del que me fío (aunque yo no lo haya usado directamente). ¡Una lástima que sea propietario!
 * [Viscovery](http://www.viscovery.net/)

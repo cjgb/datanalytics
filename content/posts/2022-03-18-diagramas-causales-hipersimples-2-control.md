@@ -26,7 +26,7 @@ Esta es la segunda entrada de la serie sobre diagramas causales hiperbásicos. N
 [entrada anterior](/2022/03/10/diagramas-causales-hiperbasicos-01-variables-omitidas/)
 que define el contexto, objetivo e hipótesis subyacentes de la serie completa.
 
-El diagrama causal objeto de esta entrada es apenas una arista más complejo que el de la anterior:
+El diagrama causal objeto de esta entrada es apenas una arista más compleja que el de la anterior:
 
 ![](/img/2022/03/red_causal_hiperbasica_01.png#center)
 

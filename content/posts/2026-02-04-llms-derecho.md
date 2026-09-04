@@ -46,7 +46,7 @@ O en el octavo:
 
 > El Derecho presenta una estructura fuertemente sistemática: las normas forman parte de instituciones, las instituciones de áreas, y todo ello se articula mediante principios. Los modelos generativos no representan esa estructura. La similitud lingüística entre expresiones no implica equivalencia funcional.
 
-Que me lleva a pensar, de repente, en los Elementos de Euclides y en las habituales secuencias de definiciones, lemas, teoremas y corolarios habitual en matemáticas. O en la estructura de un problema de programación complejo. Cuando uno quiere construir una aplicación no trivial, el _prompt_ eficaz no es
+Que me lleva a pensar, de repente, en los Elementos de Euclides y en las habituales secuencias de definiciones, lemas, teoremas y corolarios habituales en matemáticas. O en la estructura de un problema de programación complejo. Cuando uno quiere construir una aplicación no trivial, el _prompt_ eficaz no es
 
 > construye una aplicación que haga tal cosa
 

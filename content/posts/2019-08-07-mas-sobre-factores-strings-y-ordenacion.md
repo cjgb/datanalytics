@@ -29,7 +29,7 @@ En R hay dos métodos de ordenación: `shell` y `radix`. El primero es genérico
 
 R utiliza ciertas reglas para determinar cuándo usar uno u otro. Por ejemplo, para factores usa `radix`. También para ordenar vectores largos de enteros pequeños. Etc. Si no, usa `shell`. En particular, usa `shell` por defecto para ordenar _strings_.
 
-Por tanto, si codificas las provincia como `string` en un conjunto de datos tan grande como el censo y tratas de ordenar, te estás disparando en el pie. Así debe entenderse el consejo de Iñaki Úcar (en el hilo antes mencionado) de que
+Por tanto, si codificas las provincias como `string` en un conjunto de datos tan grande como el censo y tratas de ordenar, te estás disparando en el pie. Así debe entenderse el consejo de Iñaki Úcar (en el hilo antes mencionado) de que
 
 >[s]iempre es mejor tener factores que cadenas.
 

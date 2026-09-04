@@ -39,7 +39,7 @@ Además, como reconocen los autores, no tienen cifras reales correspondientes al
 
 Hay que felicitarlos para que, a pesar de todos los problemas encontrados y todas las opciones que han tenido y podido adoptar de la manera, por supuseto, más ecuánime posible, los resultados logrados hayan sido tan fotogénicos y acordes con los intereses que cabría esperar de ellos biografía en mano.
 
-Hablando en serio, ¿tomarían las agencias del medicamento una vacuna en cuya memoria de resultados apareciesen unos gráficos en que los números no estuviese claro si se probaron en humanos o monos, si los resultados de la mitad de los sujetos se estimaron, si de una buena parte del grupo de control nunca más se supo, etc.? ¡Venga!
+Hablando en serio, ¿tomarían las agencias del medicamento una vacuna en cuya memoria de resultados apareciesen unos gráficos en que los números no estuviesen claro si se probaron en humanos o monos, si los resultados de la mitad de los sujetos se estimaron, si de una buena parte del grupo de control nunca más se supo, etc.? ¡Venga!
 
 Una sección muy relevante del artículo es la 5.2, donde se describen las _revenue simulations_ (¡eh, al menos, las llaman simulaciones!) y estiman que el impacto de todo este trasiego a Madrid de rentistas ricachones es del _5% of total wealth tax revenue in 2015_, el 5% del total del impuesto del patrimonio en 2015, dejando como ejercicio para el lector averiguar a cuánto ascendió y dividir por 20. Pues [fueron 1003 millones de euros](https://www.bankinter.com/blog/finanzas-personales/recaudacion-impuesto-patrimonio-comunidades-autonomas-espana-lista), y su 5% son 50 millones, básicamente un orden de magnitud y pico por debajo de mi nivel de atención.
 

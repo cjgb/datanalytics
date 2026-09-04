@@ -35,7 +35,7 @@ Los dos gráficos que lo acompañan son:
 Que haya paro en Andalucía, que suba, que baje o, incluso, que exista la misma Andalucía, son fenómenos que me preocupan mucho menos que las limitaciones de RAM de mi ESP32. Pero el asunto no deja de tener su gracia porque ilustra una solución ingeniosa al siguiente problema:
 
 * El autor busca una perspectiva bajo la que Andalucía muestre un aspecto poco fotogénico. Idealmente, a la cola de todas las taifas.
-* Las perspectivas tradicionales (evolución del número de parados, etc.) muestra una imagen solo regulera de la situación, pero no particularmente anormal en el contexto del resto de las regiones.
+* Las perspectivas tradicionales (evolución del número de parados, etc.) muestran una imagen solo regulera de la situación, pero no particularmente anormal en el contexto del resto de las regiones.
 
 ¿Qué se puede hacer para lograr los objetivos deseables? Se puede usar, por ejemplo, el hecho de que Andalucía es la región más poblada. Si tomamos un indicador regulero y lo ponderamos por población, los _rankings_ se reordenarán necesariamente en la dirección deseada. Y, efectivamente, es lo que sucede. Si, además, luego, para pillar a los desavisados, se acompaña el índice con comentarios que usan terminología confusa, el ascua queda adecuadamente arrimada a la sardina propia:
 

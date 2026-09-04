@@ -25,7 +25,7 @@ Nunca he sido muy partidario de esas técnicas a medio camino entre lo descripti
 
 Seré breve y me limitaré a definir el problema, enlazar una referencia con código y una discusión mejor que la mía y a mostrar una de las representaciones que uno podría llegar a construir.
 
-Imagina que tienes una matriz de datos en la que las columnas son algo así como sujetos, especies o similar. Y las filas representan productos, lugares u otras entidades con las que las columnas interaccionan. Por ejemplo, las filas podrían ser clientes y las filas, productos. Entonces la matriz podría contener número de compras o sus importes.
+Imagina que tienes una matriz de datos en la que las columnas son algo así como sujetos, especies o similar. Y las filas representan productos, lugares u otras entidades con las que las columnas interaccionan. Por ejemplo, las filas podrían ser clientes y las columnas, productos. Entonces la matriz podría contener número de compras o sus importes.
 
 Las columnas, además, están jerarquizadas, agrupadas en categorías de interés y el problema consiste en descubrir las interacciones entre sujetos y categorías.
 

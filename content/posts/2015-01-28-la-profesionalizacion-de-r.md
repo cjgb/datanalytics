@@ -36,7 +36,7 @@ No obstante, en el ecosistema de RStudio me siento más o menos cómodo: instalo
 
 La estrategia de RStudio es, como dicen, _bottom-up_. El espabiladillo de la empresa comienza con `ggplot2`, construye un piloto con `Shiny` y en pocas semanas comienzan a llenarse los monitores de las consabidas paletas de colores, a descargarse los `dplyrs` de los respositorios de la nube y todos, poco a poco, haciendo sus pinitos con la ayuda de StackOverflow.
 
-El ecosistema construido por Revolution han sido desde el principio y sin ambages, corporativo. Si no han construido un clon de SAS ha sido porque no les ha dado tiempo: esa era manifiestamente su hoja de ruta. Es, prácticamente, el ecosistema más propietario que podría haberse construido sobre una base GPL, una especie de RedHat en el mundo de R.
+El ecosistema construido por Revolution ha sido desde el principio y sin ambages, corporativo. Si no han construido un clon de SAS ha sido porque no les ha dado tiempo: esa era manifiestamente su hoja de ruta. Es, prácticamente, el ecosistema más propietario que podría haberse construido sobre una base GPL, una especie de RedHat en el mundo de R.
 
 En nota perifrástica añadiré que la oferta de Revolution estaba coja sin un RStudio propio. ¿Podían haber aprovechado ese producto de otros? Tal vez. Pero las empresas adoran controlar absolutamente sus ecosistemas. No es por otro motivo que se han decantado por los _notebooks_ de iPython como plataforma para construir sus [R Notebooks](http://blog.revolutionanalytics.com/2015/01/interactive-r-notebooks-on-powerful-cloud-hardware.html).
 

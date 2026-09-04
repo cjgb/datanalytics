@@ -52,6 +52,6 @@ Finalmente ofrece una panorámica de herramientas de _software_ con las que trat
 * La función [`aregImpute`](http://lib.stat.cmu.edu/S/Harrell/help/Hmisc/html/aregImpute.html) del paquete Hmisc.
 * El paquete [mice](http://cran.r-project.org/web/packages/mice/index.html) (_multiple imputation by chained equations_).
 
-Y aunque éstas sean los que menciona el artículo, es cierto que una búsqueda por la [lista de paquetes de CRAN](http://cran.r-project.org/web/packages/) permite identificar muchas otras relacionadas con el mismo asunto.
+Y aunque éstas sean las que menciona el artículo, es cierto que una búsqueda por la [lista de paquetes de CRAN](http://cran.r-project.org/web/packages/) permite identificar muchas otras relacionadas con el mismo asunto.
 
 ¿Cuáles serán las favoritas de mis lectores?

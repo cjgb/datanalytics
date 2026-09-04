@@ -26,7 +26,7 @@ Con lo del covid se pusieron en marcha muchas iniciativas. Una de ellas fue la d
 [página que recogía los resultados de los modelos](https://viz.covid19forecasthub.org/)
 ha _chapado_ y ha colgado en la persiana el siguiente cartelito (con mi traducción):
 
-> La mayor parte de las modelos han fracasado a la hora de predecir los cambios rápidos en las tendencias del número de casos y hospitalizaciones. Por este motivo, no se debería confiar en ellos para la toma de decisiones acerca de la posibilidad de cambios rápidos de tendencia y determinación del momento en que estos pudieran ocurrir. Los modelos combinados de casos dejaron de actualizarse el 20 de febrero de 2023 y los de defunciones, el 6 de marzo de 2023.
+> La mayor parte de los modelos han fracasado a la hora de predecir los cambios rápidos en las tendencias del número de casos y hospitalizaciones. Por este motivo, no se debería confiar en ellos para la toma de decisiones acerca de la posibilidad de cambios rápidos de tendencia y determinación del momento en que estos pudieran ocurrir. Los modelos combinados de casos dejaron de actualizarse el 20 de febrero de 2023 y los de defunciones, el 6 de marzo de 2023.
 
 Efectivamente, los modelos acertaban cuando no pasaba nada y el futuro era similar al pasado. Pero fallaban en los momentos más críticos (e importantes): aquellos en los que hay un cambio rápido de tendencia.
 

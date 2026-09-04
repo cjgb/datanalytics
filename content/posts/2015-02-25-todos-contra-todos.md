@@ -24,7 +24,7 @@ Así las cosas, en C uno tiende a recorrer y construir resultados parciales. R i
 
 Hay operaciones que se avienen perfectamente a este paradigma; otras (por ejemplo, la [convolución](http://es.wikipedia.org/wiki/Convoluci%C3%B3n)) no tanto. Crítico es, en cualquier caso, contar con instrumentos que faciliten la construcción de esas estructuras intermedias de datos.
 
-Conocidos son las funciones `*pply` y otras similares que proporcionan paquetes adicionales. Sin embargo, una de las menos conocidas del programador circunstancial de R es [`outer`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/outer.html).
+Conocidas son las funciones `*pply` y otras similares que proporcionan paquetes adicionales. Sin embargo, una de las menos conocidas del programador circunstancial de R es [`outer`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/outer.html).
 
 Esta función tiene características de _map_ y de _reduce_ a un tiempo. _Es_ un _map_, pero aplica una función de dos argumentos (por ejemplo, el producto) a todas las parejas de entradas de dos vectores (y más en general, dos _arrays_ multidimensionales) produciendo una matriz (un array con dimensión igual a la suma de las de los de entrada).
 

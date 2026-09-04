@@ -186,7 +186,7 @@ dibuja, primero,
 ![](/img/2016/12/pisa_2015_pubpriv_ranef.png#center)
 
 
-donde se ve cómo la diferencia entre _los dos modelos educativos_ son más estrechos de lo que parecen sin controlar por el resto de los factores. El efecto es, cualitativamente, el que se detecta también [aquí](http://www.eldiario.es/piedrasdepapel/brecha-centros-publicos-privados-PISA_6_588001207.html) (aunque véase [esto](https://datanalytics.com/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/)) en términos del tamaño del efecto aunque da la sensación de que en mi caso las diferencias son menos significativas estadísticamente incluso. ¿Me acabarán invitando a colaborar en eldiario.es?
+donde se ve cómo la diferencia entre _los dos modelos educativos_ es más estrecha de lo que parecen sin controlar por el resto de los factores. El efecto es, cualitativamente, el que se detecta también [aquí](http://www.eldiario.es/piedrasdepapel/brecha-centros-publicos-privados-PISA_6_588001207.html) (aunque véase [esto](https://datanalytics.com/2016/12/07/enhorabuena-a-eldiario-es-porque-el-analisis-de-el-diario-es-de-los-resultados-de-pisa-esta-perfectamente-alineado-con-la-linea-editorial-de-eldiario-es/)) en términos del tamaño del efecto aunque da la sensación de que en mi caso las diferencias son menos significativas estadísticamente incluso. ¿Me acabarán invitando a colaborar en eldiario.es?
 
 Y también dibuja otra cosa mucho más, como dicen los modernos, dramática:
 

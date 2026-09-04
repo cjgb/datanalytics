@@ -29,7 +29,7 @@ Pero tengo que decir que, además de lo que ya se ha comentado sobre el estudio 
 
 ![](/img/2010/11/pirateria_libros_2010.png#center)
 
-Las conclusiones a las que hacen llegar estos datos al periodista de El País, por ejemplo, son los siguientes:
+Las conclusiones a las que hacen llegar estos datos al periodista de El País, por ejemplo, son las siguientes:
 
 >Así, el propio informe indica que solo el 58% de los usuarios estarían dispuestos a pagar el contenido que se descargan si se pusiera coto a la piratería, generando unos ingresos potenciales para todas estas industrias de 9.300 millones anuales en 2010, en lugar de los 3.100 millones que se alcanzarán.
 

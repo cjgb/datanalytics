@@ -31,7 +31,7 @@ El código escrito en R puede ejecutarse, en principio, en dos plataformas disti
 
 Pero hay unos cuantos voluntarios que están desarrollando [renjin](https://code.google.com/p/renjin/), un intérprete alternativo de R basado en la máquina virtual de Java. Para ello, esencialmente, lo que se necesita es traducir (es decir, reescribir) todas las llamadas que hace R a su intérprete actual a [equivalentes en Java](https://code.google.com/p/renjin/wiki/ContributingPrimitives).
 
-¿Qué ventajas ofrecería este nuevo intérprete de R? Varias. Las más importante, a mi parecer, sería que R heredaría automáticamente todas las mejoras de eficiencia que la comunidad de desarrolladores de máquinas virtuales para Java, que tiene muchos más órdenes de magnitud de número de neuronas que la de R.
+¿Qué ventajas ofrecería este nuevo intérprete de R? Varias. Las más importantes, a mi parecer, sería que R heredaría automáticamente todas las mejoras de eficiencia que la comunidad de desarrolladores de máquinas virtuales para Java, que tiene muchos más órdenes de magnitud de número de neuronas que la de R.
 
 Por otra parte, parece que sería también posible utilizar métodos de almacenamiento distintos de la memoria del ordenador para guardar objetos de R, con lo que se mitigarían parte de los problemas actualmente asociados a las limitaciones de memoria.
 

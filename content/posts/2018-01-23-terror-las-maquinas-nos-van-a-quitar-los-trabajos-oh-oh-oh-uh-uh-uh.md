@@ -22,7 +22,7 @@ title: ¡Terror! ¡Las máquinas nos van a quitar los trabajos! ¡Oh, oh, oh! ¡
 url: /2018/01/23/terror-las-maquinas-nos-van-a-quitar-los-trabajos-oh-oh-oh-uh-uh-uh/
 ---
 
-Habréis leído por ahí relatos apocalípticoides sobre un futuro gris en el que las máquinas nos dejarán sin trabajo. Clic. Otra gente memos agorera opina que, más que trabajos, la máquinas eliminarán tareas (i.e., partes aburridas de los trabajos).
+Habréis leído por ahí relatos apocalípticoides sobre un futuro gris en el que las máquinas nos dejarán sin trabajo. Clic. Otra gente memos agorera opina que, más que trabajos, las máquinas eliminarán tareas (i.e., partes aburridas de los trabajos).
 
 No voy a hablar de unas señoras, muy funcionarias ellas, clic, que conforman el Registro (con mayúscula) de cierta institución pública en la que tuve que depositar una factura impresa, firmada a mano y por duplicado recientemente. Y cuyo trabajo consiste en sellar la factura, meterla factura en la carpeta correspondiente, clic, y esperar a que un bedel la lleve al despacho donde seguirá el trámite. Hoy no.
 

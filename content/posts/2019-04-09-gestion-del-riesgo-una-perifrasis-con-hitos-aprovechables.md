@@ -30,7 +30,7 @@ Traigo a la consideración de mis lectores [_Sobre la Sostenibilidad Fiscal de E
 
 Así, cita y se refiere a la diferencia entre incertidumbre y riesgo a lo Knight ([ya tratado hace tiempo en estas páginas](https://datanalytics.com/2011/03/11/riesgo-e-incertidumbre/)), subrayando primero la manifiesta existencia de escenarios con distintas probabilidades de ocurrencia y, después, muy a lo Taleb, el hecho incuestionable de que los positivos y los negativos tienen _payoffs_ asimétricos y que, en concreto:
 
->[...] nos deben de preocupar mucho más que la cosas vayan peor que lo que asumimos en la primera entrada (que bien pudiera ser el caso) que nos consuela en el que puedan ir mejor si todas las condiciones se alinean correctamente [...]
+>[...] nos deben de preocupar mucho más que las cosas vayan peor que lo que asumimos en la primera entrada (que bien pudiera ser el caso) que nos consuela en el que puedan ir mejor si todas las condiciones se alinean correctamente [...]
 
 Otra idea rescatable que atraviesa el texto que comento es resumida así por el autor:
 

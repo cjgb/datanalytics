@@ -25,7 +25,7 @@ url: /2026/06/11/jon-gonzalez/
 
 Jon González tenía una cuenta popular en Twitter. Unos tipos a los que no les gustaba lo que contaba urdieron una estrategia, eventualmente exitosa, para taparle la boca. Eso está contado en muchas partes, como por ejemplo, [esta](https://www.elmundo.es/economia/empresas/2026/05/11/6a01f586e9cf4a85728b456e.html).
 
-Jon González era conocido por sus gráficos, que acompañaban a sus análisis y opiniones sobre diversos aspectos de la economía española. Se trata de un asunto que no me interesa demasiado porque aunque me afecta, carezco de instrumentos para actuar sobre ella de forma efectiva. Es un poco como el tiempo: no soy yo el que hace llover; de igual manera, yo no subo los tipos de interés ni redacto la legislación laboral, así que invierto mi tiempo en otra cosa.
+Jon González era conocido por sus gráficos, que acompañaban a sus análisis y opiniones sobre diversos aspectos de la economía española. Se trata de un asunto que no me interesa demasiado porque aunque me afecta, carezco de instrumentos para actuar sobre él de forma efectiva. Es un poco como el tiempo: no soy yo el que hace llover; de igual manera, yo no subo los tipos de interés ni redacto la legislación laboral, así que invierto mi tiempo en otra cosa.
 
 Cuando surgió el revuelo me interesé no obstante en el personaje y tomé uno de sus gráficos,
 

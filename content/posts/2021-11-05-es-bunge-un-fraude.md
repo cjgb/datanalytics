@@ -43,6 +43,6 @@ No me he entretenido en bucear más porque no sé si merece la pena.
 
 La cuestión es la siguiente. Imagina que vas a una frutería a comprar manzanas. Ves unas con buena pinta pero quieres asegurarte primero. Preguntas si tienen gusano y te dicen que no, que válgame Dios, que no. Y tú contestas: ¿puedo coger dos al azar y examinarlas? Con la venia, las tomas, las abres y ambas tienen gusano. La teoría de la decisión (teorema de Bayes por medio y salvo que la priori la haya elegido el frutero con más tino que el género) te desaconsejaría dar la mercancía por buena.
 
-En el caso de más arriba, puede alegarse, no he tomado dos manzanas al azar sino, tal vez, las dos que tenía más a mano. Y las dos tenían gusanaco y el corazón agujereada. Eso me induce a pensar que Bunge es mercancía podrida. Pero igual estoy equivocado y alguien con más conocimiento del asunto que yo me puede reencarrilar en la vía de la justicia para con Bunge que tal vez no le esté haciendo aquí. Por eso planteo, de nuevo:
+En el caso de más arriba, puede alegarse, no he tomado dos manzanas al azar sino, tal vez, las dos que tenía más a mano. Y las dos tenían gusanaco y el corazón agujereado. Eso me induce a pensar que Bunge es mercancía podrida. Pero igual estoy equivocado y alguien con más conocimiento del asunto que yo me puede reencarrilar en la vía de la justicia para con Bunge que tal vez no le esté haciendo aquí. Por eso planteo, de nuevo:
 
 ¿Es Bunge un fraude?

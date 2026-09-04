@@ -151,7 +151,7 @@ curve( 1 - exp( - 0.5 * x), add = T, lty = 2 )
 {{< / highlight >}}
 
 
-con líneas punteadas. Como podrá comprobar quién aún se derivan funciones, la derivada del término de la derecha en 0 es mayor o menor que uno dependiendo de si _z_ es mayor o menor que 1 y eso obliga a que haya o no raíz de la ecuación en (0,1).
+con líneas punteadas. Como podrá comprobar quien aún sepa derivar funciones, la derivada del término de la derecha en 0 es mayor o menor que uno dependiendo de si _z_ es mayor o menor que 1 y eso obliga a que haya o no raíz de la ecuación en (0,1).
 
 En resumen, cuando _z_ < 1 no existe componente gigante y la red es una especie de sopa de letras. Pero si _z_ > 1, aparece una supercomponente que contiene un porcentaje de los nodos dado por la solución de la ecuación anterior. Raíz que puede obtenerse con R así:
 

@@ -61,7 +61,7 @@ lines(c(res$par[1], res$par[2]),
 
 La función que se optimiza tiene como argumentos los puntos inicial y final del intervalo y penaliza:
 
-* Que la densidad en dichos punto sea distinta.
+* Que la densidad en dichos puntos sea distinta.
 * Que la suma de las probabilidades de las colas descartadas sea distinta de $\alpha$.
 
 Una posible mejora en el código anterior sería pasarle a `optim` mejores puntos de partida: en lugar de la media de la distribución para ambos casos, la media más (y menos) dos veces la desviación estándar.

@@ -37,7 +37,7 @@ De ahí que Pearl se haya esforzado en, primero, crear un lenguaje basado en sí
 
 ![causal_network](/img/2014/06/causal_network.png#center)
 
-Por ejemplo, la temperatura podría afectar la resistencia de una fibra. Podría plantearse un diagrama simple con una flecha desde la temperatura a la resistencia. Y un ingeniero podría plantear un test para validar si, en efecto, es así. Los ingenieros, de hecho, pueden hacer experimentos en el que varíe únicamente un parámetro y poder así determinar el efecto de dicha intervención (aislada del resto de factores) en el objeto de interés.
+Por ejemplo, la temperatura podría afectar la resistencia de una fibra. Podría plantearse un diagrama simple con una flecha desde la temperatura a la resistencia. Y un ingeniero podría plantear un test para validar si, en efecto, es así. Los ingenieros, de hecho, pueden hacer experimentos en los que varíen únicamente un parámetro y poder así determinar el efecto de dicha intervención (aislada del resto de factores) en el objeto de interés.
 
 Pero la ingeniería es una rareza. En otras disciplinas (¡yo que pensaba que había hablado ya de relojes, de gatos y de Madagascar en mi blog!) no es posible realizar tal tipo de experimentos (salvo que seas un Mengele en Auschwitz o un consultor de Podemos en Venezuela). En otras disciplinas no se dispone sino de estudios observacionales, no controlados.
 

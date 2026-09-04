@@ -55,7 +55,7 @@ res@fit@W %*% res@fit@H
 
 Lo del algoritmo es lo de menos. Hay muchos y diversos que pueden consultarse en la bibliografía que acompaña al paquete anterior y en muchas otras partes.
 
-También es medio irrelevante lo de la pérdida de la ortogonalidad (aunque véase [esto](https://datanalytics.com/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) y [esto](https://datanalytics.com/2011/08/16/una-feliz-conjuncion-estadistico-algebraica-y-ii/) para ver cómo otro tipo de factorizaciones más convencionales se relaciona con lo de la milonga de la $\chi^2$) por lo que se gana. Que es, dividiendo filas y columnas adecuadamente, esto:
+También es medio irrelevante lo de la pérdida de la ortogonalidad (aunque véase [esto](https://datanalytics.com/2011/08/12/una-feliz-conjuncion-estadistico-algebraica/) y [esto](https://datanalytics.com/2011/08/16/una-feliz-conjuncion-estadistico-algebraica-y-ii/) para ver cómo otro tipo de factorizaciones más convencionales se relacionan con lo de la milonga de la $\chi^2$) por lo que se gana. Que es, dividiendo filas y columnas adecuadamente, esto:
 
 $$ A \approx WH= DW^\prime H^\prime$$
 
@@ -65,7 +65,7 @@ En concreto, las filas de $H^\prime$ son funciones de probabilidad sobre las fil
 
 Y esto, a su vez, es puro [LDA](http://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) y entronca con otra familia entera de algoritmos, muchos de ellos bayesianos en espíritu, para el análisis de cosas que son (pero que la gente no llama así cuando tienen las dimensiones que uno encuentra en la práctica) tablas de contingencia.
 
-Temo no haber sido claro. A ver si otro día me encuentro más animado para escribir y explico con un ejemplo elaborado cómo se puede obtener muestras de $A$ usando el modelo anterior.
+Temo no haber sido claro. A ver si otro día me encuentro más animado para escribir y explico con un ejemplo elaborado cómo se pueden obtener muestras de $A$ usando el modelo anterior.
 
 Termino comentando para qué podría servir lo anterior y que no se piense hablo por hablar. Supóngase que las filas son clientes y que las columnas son productos que estos han comprado en cierto periodo de tiempo. La descomposición anterior revelaría factores no explícitos (las distribuciones de probabilidad sobre las filas) que hacen que algunos clientes compren determinados productos (juntos) y no otros; luego cada cliente tendría asignada una cierta propensión (dada por las filas de la matriz $W^\prime$) a cada uno de los factores.
 

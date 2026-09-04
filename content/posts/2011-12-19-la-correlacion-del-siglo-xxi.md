@@ -41,4 +41,4 @@ En muchos contextos, el análisis de un conjunto de datos comienza por el estudi
 [![](/img/2011/12/correlation_classic1.jpg)
 ](/img/2011/12/correlation_classic1.jpg)
 
-que resalta la relaciones de dependencia lineal entre conjuntos amplios de variables. Con el aporte de este nuevo artículo, tal vez podrían identificarse otro tipo de relaciones funcionales igualmente interesantes. Con tiempo, le echo un vistazo.
+que resalta las relaciones de dependencia lineal entre conjuntos amplios de variables. Con el aporte de este nuevo artículo, tal vez podrían identificarse otro tipo de relaciones funcionales igualmente interesantes. Con tiempo, le echo un vistazo.

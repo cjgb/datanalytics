@@ -31,7 +31,7 @@ Una de mis primeras conclusiones fue que los consultores primigenios cobraban a 
     R = chol(M)
 {{< / highlight >}}
 
-utilizando la [descomposición de Cholesky](http://en.wikipedia.org/wiki/Cholesky_decomposition). Eran, sinceramente, tres folios de código aterrador, un verdadero ejercicio de masoquismo informático que acabaron yaciendo en el fondo de una papelera.
+utilizando la [descomposición de Cholesky](http://en.wikipedia.org/wiki/Cholesky_decomposition). Eran, sinceramente, tres folios de código aterrador, un verdadero ejercicio de masoquismo informático que acabó yaciendo en el fondo de una papelera.
 
 Pero he aquí que en uno de los bucles —bucles, bucles... esos perniciosos atavismos herencia de la época en que no se conocía la [programación funcional](http://es.wikipedia.org/wiki/Programaci%C3%B3n_funcional)— se calculaban cuantiles de la [distribución beta](http://en.wikipedia.org/wiki/Beta_distribution) con parámetros alfa y beta de lo más exótico: los primeros eran del orden de magnitud de 0,01 mientras que los segundos se movían entre 10 y 100000. Con tales parámetros, la distribución de probabilidad es, poco más o menos, una [delta de Dirac](http://en.wikipedia.org/wiki/Dirac_delta_function) centrada en el cero.
 

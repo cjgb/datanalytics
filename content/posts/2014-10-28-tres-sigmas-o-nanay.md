@@ -22,7 +22,7 @@ title: Tres sigmas o nanay
 url: /2014/10/28/tres-sigmas-o-nanay/
 ---
 
-El otro día hablaba con una colega sobre una charla a la que habíamos asistido. Yo le decía que sí, que estaba bien, pero que todo lo que habían contado era mentira. Debí haber sido más preciso y decir que _no era verdad_, que es distinto. Pero las canapescas circunstancias no eran propicias para el distingo. Mi interlocutora me escuchaba, pienso, entre sorprendida e incrédula. Todavía está en la edad en la que hay que creérselo todo —sí, esa edad y esa obligación existe— y tiempo tendrá de dejarse envenenar por el nihilismo. Es lo suficientemente lista como para eso.
+El otro día hablaba con una colega sobre una charla a la que habíamos asistido. Yo le decía que sí, que estaba bien, pero que todo lo que habían contado era mentira. Debí haber sido más preciso y decir que _no era verdad_, que es distinto. Pero las canapescas circunstancias no eran propicias para el distingo. Mi interlocutora me escuchaba, pienso, entre sorprendida e incrédula. Todavía está en la edad en la que hay que creérselo todo —sí, esa edad y esa obligación existen— y tiempo tendrá de dejarse envenenar por el nihilismo. Es lo suficientemente lista como para eso.
 
 Yo, por mi parte, estoy en la edad de esparcir el ébola del escepticismo. Que esa edad y esa obligación existen también.
 

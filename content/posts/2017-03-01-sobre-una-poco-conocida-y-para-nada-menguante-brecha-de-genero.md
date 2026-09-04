@@ -28,7 +28,7 @@ que muestra las tasas de mortalidad relativas (la de hombres entre la de mujeres
 
 ![](/img/2017/02/tasas_mortalidad_anno.png#center)
 
-Se observa una manifiesta tendencia creciente, uno de esos _gender gaps_, _brechas de género_ o como quiera que se llamen a estas cosa en neolengua que, lejos de menguar, crece y crece.
+Se observa una manifiesta tendencia creciente, uno de esos _gender gaps_, _brechas de género_ o como quiera que se llamen a estas cosas en neolengua que, lejos de menguar, crece y crece.
 
 El fenómeno no es solo español: consúltese [este estudio sueco](https://ikashnitsky.github.io/2017/gender-gap-in-swedish-mortality/), de mucha mayor profundidad histórica o [este otro](https://www.nytimes.com/2015/11/03/health/death-rates-rising-for-middle-aged-white-americans-study-finds.html) sobre el mismo fenómeno en EE.UU. (que estudia ya no las tasas relativas sino las absolutas).
 

@@ -28,7 +28,7 @@ Se olvidan de que la representación gráfica (de datos) no es otra cosa que una
 
 No puede hacérsele ninguna objeción _gruesa_. Si acaso, de ponernos muy, muy estrictos, que no muestra el PIB ---que es lo que anuncia--- sino su variación interanual. Pecado venial en tanto que el uso de porcentajes no deja lugar a dudas y que al hablar del PIB uno suele referirse casi siempre tasas de variación interanuales (más ténicamente: el PIB está casi universalmente operativizado a través de las variaciones interanuales).
 
-Pero, a pesar de que cada mimbre pasa el filtro, su conjunto está orquestados de tal forma en el cesto [gráfico] final consigue transmitir muy eficazmente un mensaje torcido ---y dirán algunos que sospechosamente afín a los intereses políticos de los gerifaltes de TVE---. Verbigracia,
+Pero, a pesar de que cada mimbre pasa el filtro, su conjunto están orquestados de tal forma en el cesto [gráfico] final consigue transmitir muy eficazmente un mensaje torcido ---y dirán algunos que sospechosamente afín a los intereses políticos de los gerifaltes de TVE---. Verbigracia,
 
 ![](/img/2022/02/asi_esta_el_percal.jpeg#center)
 

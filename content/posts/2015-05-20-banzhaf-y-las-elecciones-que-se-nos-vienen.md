@@ -181,6 +181,6 @@ banzhaf(escannos)
 # 0.4545455  0.5000000  0.5454545  0.5454545  0.5454545  0.6363636  0.6363636
 {{< / highlight >}}
 
-El número de coaliciones ganadores mínimas es 22, muchas de ellas contranatura (¿aún se puede decir _contranatura_?). Es curioso, además, cómo Ciudadanos, con menos concejales que Bcomun, tiene más _Banzhafpower_. Tiene pinta de _bug_, pero he revisado y creo que el código está bien.
+El número de coaliciones ganadoras mínimas es 22, muchas de ellas contranatura (¿aún se puede decir _contranatura_?). Es curioso, además, cómo Ciudadanos, con menos concejales que Bcomun, tiene más _Banzhafpower_. Tiene pinta de _bug_, pero he revisado y creo que el código está bien.
 
 Y espero que no hayas llegado hasta aquí. Porque deberías estar buscando el _qué hay de lo mío_ por entre los programas electorales. Que luego pasarán cosas, te quejarás y habrá sido por tu culpa.

@@ -36,4 +36,4 @@ Por ejemplo, una frase como "este medicamento puede producir insomnio con una pr
 
 Etc.
 
-Y ahora, por joder, ¿cómo interpretamos que [el FMI estima la probabilidad de deflación en la zona euro en un 25%](http://www.reuters.com/article/2014/05/14/us-eurozone-imf-deflation-idUSBREA4D0FI20140514)? ¿Como que una de cada cuatro eurozonas bajo las condiciones actuales han experimentado deflación en el año venidero?
+Y ahora, por joder, ¿cómo interpretamos que [el FMI estima la probabilidad de deflación en la zona euro en un 25%](http://www.reuters.com/article/2014/05/14/us-eurozone-imf-deflation-idUSBREA4D0FI20140514)? ¿Como que una de cada cuatro eurozonas bajo las condiciones actuales ha experimentado deflación en el año venidero?

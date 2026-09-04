@@ -28,7 +28,7 @@ Pues esencialmente esto:
 [![](/img/2013/02/ibex201302.png#center)
 ](/img/2013/02/ibex201302.png#center)
 
-Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros dos grupos han tenido una evolución _en U_ y ha recuperado, con creces incluso, el valor que tenían hace un mes.
+Es decir, un grupo numeroso de valores ha bajado de precio mientras que otros dos grupos han tenido una evolución _en U_ y han recuperado, con creces incluso, el valor que tenían hace un mes.
 
 Y, como siempre, el código:
 

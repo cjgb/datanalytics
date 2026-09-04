@@ -47,7 +47,7 @@ Las dos últimas se refieren a las pérdidas en inversiones que hicieron los ban
 [![](/img/2012/06/media_mediana_bde.png#center)
 ](/img/2012/06/media_mediana_bde.png#center)
 
-Ahí tenemos a nuestros dos protagonistas: la media y la mediana. Paralelas, pero tremendamente desiguales. ¿Qué significa? No busquéis la sentido en la explicación, sumamente confusa y con faltas de ortografía, del BdE:
+Ahí tenemos a nuestros dos protagonistas: la media y la mediana. Paralelas, pero tremendamente desiguales. ¿Qué significa? No busquéis el sentido en la explicación, sumamente confusa y con faltas de ortografía, del BdE:
 
 >Esta evolución se debe a un conjunto de factores. Unos, de carácter puntual, en la medida en que se deben a incrementos elevados de esta variable para algunas entidades concretas, algunas de las cuáles [_sic_] aumentaron significativamente las pérdidas por deterioro de activos en el último trimestre, anticipando, en parte, los cambios normativos posteriores. Y otros, de carácter más general, al observarse un repunte relativamente generalizado entre entidades, especialmente en el último trimestre de 2011, lo que obedece al deterioro en la evolución de los activos dudosos ya comentado, y en parte a una posible intensificación en el reconocimiento del deterioro en la cartera inmobiliaria. Que la tendencia general es un aumento en el último trimestre de 2011 queda reflejado en la evolución de la mediana de las pérdidas por deterioro de activos sobre los activos totales medios, mientras que situaciones puntuales de entidades han venido presionando al alza esta ratio para el conjunto del sector.
 

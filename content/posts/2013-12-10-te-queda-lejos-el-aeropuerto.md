@@ -60,7 +60,7 @@ aeropuestos.peninsula <- point.in.polygon(aeropuertos$lon,
 aeropuertos <- aeropuertos[aeropuestos.peninsula == 1, ]
 {{< / highlight >}}
 
-El _shapefile_ están descargado de [GADM](http://www.gadm.org/). La función `point.in.polygon` permite descartar aquellos aeropuertos extrapeninsulares: indentifica si un punto está dentro o fuera de un polígono.
+El _shapefile_ está descargado de [GADM](http://www.gadm.org/). La función `point.in.polygon` permite descartar aquellos aeropuertos extrapeninsulares: indentifica si un punto está dentro o fuera de un polígono.
 
 Luego he creado una malla de puntos a partir de los extremos de la península y he utilizado el paquete `geosphere` para calcular la distancia entre puntos expresados en términos de su latitud/longitud.
 

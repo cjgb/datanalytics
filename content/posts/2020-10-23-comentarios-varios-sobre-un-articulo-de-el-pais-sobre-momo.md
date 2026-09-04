@@ -21,7 +21,7 @@ title: Comentarios varios sobre un artículo de El País sobre MOMO
 url: /2020/10/23/comentarios-varios-sobre-un-articulo-de-el-pais-sobre-momo/
 ---
 
-_[Esta entrada ha sido enmendado con respecto a cómo fue publicada originalmente por los motivos que abajo se indican.]_
+_[Esta entrada ha sido enmendada con respecto a cómo fue publicada originalmente por los motivos que abajo se indican.]_
 
 El artículo es _[El Instituto de Salud Carlos III subestima las muertes de la segunda ola](https://elpais.com/sociedad/2020-10-20/el-instituto-de-salud-carlos-iii-subestima-las-muertes-de-la-segunda-ola.html)_ y los comentarios, estos:
 

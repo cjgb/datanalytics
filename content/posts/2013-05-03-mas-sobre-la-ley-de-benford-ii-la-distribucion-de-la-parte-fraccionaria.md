@@ -29,7 +29,7 @@ Obviamente, si los números son enteros no. ¿Pero si siguen la distribución no
 * **regular**, es decir, que no tenga picos extraños y, más en concreto, cuya función de densidad crezca hasta cierto punto y decrezca de él en adelante y
 * **extendida**, es decir, que cubra un rango amplio de valores (p.e., la recta real entera),
 
-entonces la distribución de la parte fraccionaria de sus muestras serán aproximadamente uniformes. Y lo serán tanto más cuanto menor sea el máximo de la función de distribución. La referencia, el artículo [_Pourquoi la loi de Benford n’est pas mystérieuse_](http://www.ehess.fr/revue-msh/pdf/N182R1280.pdf?) de Nicolas Gauvrit y Jean-Paul Delahaye.
+entonces la distribución de la parte fraccionaria de sus muestras será aproximadamente uniforme. Y lo serán tanto más cuanto menor sea el máximo de la función de distribución. La referencia, el artículo [_Pourquoi la loi de Benford n’est pas mystérieuse_](http://www.ehess.fr/revue-msh/pdf/N182R1280.pdf?) de Nicolas Gauvrit y Jean-Paul Delahaye.
 
 Esto se verifica fácilmente en ciertos casos. Por ejemplo,
 
