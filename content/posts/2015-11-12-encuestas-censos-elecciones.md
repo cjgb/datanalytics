@@ -23,7 +23,7 @@ url: /2015/11/12/encuestas-censos-elecciones/
 
 Hace unas semanas tuve un lapso de creatividad. Dejé de escribir durante un tiempo y me dediqué al sucedáneo: leer. Terminé, para variar, unos cuantos libros.
 
-Uno de ellos es _[Proofiness, the Dark Arts of Mathematical Deception](http://www.goodreads.com/book/show/7972148-proofiness)_ que está más o menos bien. En su mayor parte abunda sobre fenómenos conocidos, estudiados y sobradamente denunciados: que hay que recurre a argumentos basados en números, estadísticas o construcciones matemáticas más o menos sofisticadas para dar visos de verdad a mentiras flagrantes. Los ejemplos resultarán más afines culturalmente a quienes vivan en la orilla equivocada del Atlántico, aunque son los suficientemente conocidos para que sepamos de qué se habla y que el género es ensayo y no ficción.
+Uno de ellos es _[Proofiness, the Dark Arts of Mathematical Deception](http://www.goodreads.com/book/show/7972148-proofiness)_ que está más o menos bien. En su mayor parte abunda sobre fenómenos conocidos, estudiados y sobradamente denunciados: que hay que recurrir a argumentos basados en números, estadísticas o construcciones matemáticas más o menos sofisticadas para dar visos de verdad a mentiras flagrantes. Los ejemplos resultarán más afines culturalmente a quienes vivan en la orilla equivocada del Atlántico, aunque son los suficientemente conocidos para que sepamos de qué se habla y que el género es ensayo y no ficción.
 
 El libro, no obstante, arroja luz sobre dos asuntos de los que apenas se habla. Sabemos ya y estamos curados en salud del error que traen consigo las estadísticas, pero, ¿cuál es el error de un censo? Y peor aún, ¿el de unas elecciones?
 

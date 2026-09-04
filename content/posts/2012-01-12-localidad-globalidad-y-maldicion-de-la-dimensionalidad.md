@@ -41,7 +41,7 @@ Trabajé un otoño-invierno en un banco que quería predecir la propensión de s
 
 Si hay pocas variables, hay pocas celdas y a cada una le corresponden muchos casos de muestra. Pero si se quieren utilizar muchas variables, el número de casos por celda comienza a descender. Y en ocasiones, como nos sucedía, había celdas vacías: no existía ninguna clienta de edad avanzada con residencia en municipios de menos de 5000 habitantes, etc.
 
-El problema es el mismo que el plantea el libro bajo el epígrafe de maldición de la dimensionalidad, aunque bajo una óptica algo distinta.
+El problema es el mismo que plantea el libro bajo el epígrafe de maldición de la dimensionalidad, aunque bajo una óptica algo distinta.
 
 Nuestro modelo de predicción era bastante local. Imaginemos —aunque no era exactamente así—, que predecimos la propensión de los clientes de una celda como la media de la de los seleccionados en dicha celda. Nos podemos preguntar:
 

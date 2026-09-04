@@ -42,4 +42,4 @@ tmp$vectors %*% diag(tmp$values^10000) %*% solve(tmp$vectors)
 {{< / highlight >}}
 
 
-Como resultado, podemos _estimar_ que el en futuro, el 33% de los _data scientists_ estarán usando R contra el 53% que usará Python y el 13% que se decantará por otras herramientas. O, casi seguro, no.
+Como resultado, podemos _estimar_ que en el futuro, el 33% de los _data scientists_ estarán usando R contra el 53% que usará Python y el 13% que se decantará por otras herramientas. O, casi seguro, no.

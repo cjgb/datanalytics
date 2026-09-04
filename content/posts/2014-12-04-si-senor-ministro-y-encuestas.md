@@ -29,4 +29,4 @@ que son los resultados de una encuesta en la que la misma pregunta (en puridad, 
 
 Lo cual me recordó que hacía tiempo había dado con
 https://www.youtube.com/watch?v=G0ZZJXw4MTA
-extraído de [_Yes, Minister_](http://en.wikipedia.org/wiki/Yes_Minister) y que en inglés no subtitulado ilustra muy amenamente los efectos que sobre el público tiene la manera en que se plantean las cuestiones.
+extraído de [_Yes, Minister_](http://en.wikipedia.org/wiki/Yes_Minister) y que en inglés sin subtitular ilustra muy amenamente los efectos que sobre el público tiene la manera en que se plantean las cuestiones.

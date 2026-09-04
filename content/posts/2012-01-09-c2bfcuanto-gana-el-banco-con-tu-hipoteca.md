@@ -58,4 +58,4 @@ sum( ( 1 + 0.02 / 12) ^(-(1:(25 * 12)) ) ) * 474.21
 # [1] 111880.4
 {{< / highlight >}}
 
-Et voilá, el banco hace casi 12k euros con conceder dicha la hipoteca.
+Et voilá, el banco hace casi 12k euros con conceder dicha hipoteca.

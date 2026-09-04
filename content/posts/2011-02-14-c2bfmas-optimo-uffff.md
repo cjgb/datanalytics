@@ -24,7 +24,7 @@ Algunos, los menos, tratamos de evitar barbarismos innecesarios y nos escandaliz
 
 De las desventuras de un consultor que trata de adherirse al español castizo (y de las patadas que se dan al diccionario y al buen hablar en la profesión) daré cumplida noticia en entradas posteriores que espero hagan buen servicio y provecho a mis lectores.
 
-Pero en esta entrada no denunciaré barbarismo alguno sino del uso incorrecto que se hace de _óptimo_. _Óptimo_ es el superlativo de _bueno_, que tiene como comparativo a _mejor_. ¿Por qué pues oímos tan frecuentemente _más óptimo_ cuando debería decirse simplemente _mejor_? Creo que el motivo yace en el hecho de que _óptimo_ es palabra esdrújula y, como tal, confiere a quien la pronuncia cierto aire de autoridad.
+Pero en esta entrada no denunciaré barbarismo alguno sino el uso incorrecto que se hace de _óptimo_. _Óptimo_ es el superlativo de _bueno_, que tiene como comparativo a _mejor_. ¿Por qué pues oímos tan frecuentemente _más óptimo_ cuando debería decirse simplemente _mejor_? Creo que el motivo yace en el hecho de que _óptimo_ es palabra esdrújula y, como tal, confiere a quien la pronuncia cierto aire de autoridad.
 
 Así, oigo solicitar algoritmos _más óptimos_ o rescrituras de procesos para hacerlos _más óptimos_. Y trago sapos y culebras cuando se trata de un cliente (o de un cliente de mi cliente) y no me conviene afearle el craso error gramatical (y señalarle, de paso, que no lo habría cometido de haber cursado bachillerato con más aprovechamiento). ¿Por qué no, simplemente, _mejores_?
 

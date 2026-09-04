@@ -27,7 +27,7 @@ En particular, se obtienen unos datos $X \sim F(\theta)$ que pueden ser usados e
 
 $$L(\hat{\theta}) = E_\theta[L(\theta, \hat{\theta})] = \int_\theta L(\theta, \hat{\theta}) p(\theta) d\theta$$
 
-de la entrada anterior se convierte sea en
+de la entrada anterior se convierte en
 
 $$L(\hat{\theta}) = E_\theta[E_X[L(\theta, \hat{\theta})]]$$
 

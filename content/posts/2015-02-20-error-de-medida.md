@@ -20,7 +20,7 @@ title: Error de medida
 url: /2015/02/20/error-de-medida/
 ---
 
-Por su interés y oportunidad, reproduzco aquí y en su idioma original (la parque que nos es más relevante de) un breve editorial de [Simon Baptist](https://twitter.com/baptist_simon), economista jefe de [The Economist Intelligence Unit](http://www.eiu.com/home.aspx).
+Por su interés y oportunidad, reproduzco aquí y en su idioma original (la parte que nos es más relevante de) un breve editorial de [Simon Baptist](https://twitter.com/baptist_simon), economista jefe de [The Economist Intelligence Unit](http://www.eiu.com/home.aspx).
 
 Así reza:
 

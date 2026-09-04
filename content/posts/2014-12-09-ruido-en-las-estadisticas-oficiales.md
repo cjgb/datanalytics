@@ -39,4 +39,4 @@ Por eso, cuando en sitios como [este](http://nadaesgratis.es/?p=40846) veo que p
 
 ![epa_fp](/img/2014/12/epa_fp.png#center)
 
-en los que se opera sobre las dos series de estimadores puntuales para construir un gráfico "de base 100" pienso: ¡animalicos! Si alguien tiene tiempo, lo animo a construir una animación cómo podría fluctuar ese último gráfico en función de los valores recogidos en EPAs alternativas.
+en los que se opera sobre las dos series de estimadores puntuales para construir un gráfico "de base 100" pienso: ¡animalicos! Si alguien tiene tiempo, lo animo a construir una animación de cómo podría fluctuar ese último gráfico en función de los valores recogidos en EPAs alternativas.

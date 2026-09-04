@@ -29,7 +29,7 @@ Aquí va un ejemplo. Es un fragmento de un currículo que me ha llegado reciente
 
 Eso es todo lo que el tipo reconoce saber sobre algo parecido a la programación.
 
-Recientemente tuve un intercambio de microideas (de las que se pueden resumir en 140 caracteres) con un antiguo colega que ahora da clases en cierta escuela de ingeniería de la provincia de una provincia. Vino a contarme que en su asignatura enseña Matlab y que a sus alumnos reciben formación en Pascal.
+Recientemente tuve un intercambio de microideas (de las que se pueden resumir en 140 caracteres) con un antiguo colega que ahora da clases en cierta escuela de ingeniería de la provincia de una provincia. Vino a contarme que en su asignatura enseña Matlab y que sus alumnos reciben formación en Pascal.
 
 Señores, es muy triste. Es muy triste que haya gente con formación técnica (y por formación técnica me refiero a todo ese espectro que va desde la economía a la ingeniería pasando por las ciencias todas y que abarca incluso áreas de la filología, el periodismo y la biblioteconomía, traspasan, como se ve, la cada vez más caduca distinción entre ciencias y letras) que haya pasado cinco años en una docta institución dizque formándose y salga de ella sin saber entablar una conversación seria, de adulto, sin balbuceos, con un portátil.
 

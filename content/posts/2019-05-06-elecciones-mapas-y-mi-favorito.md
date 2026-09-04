@@ -21,7 +21,7 @@ title: Elecciones, mapas... y mi favorito
 url: /2019/05/06/elecciones-mapas-y-mi-favorito/
 ---
 
-De entre lo bueno que pudan haber traído las últimas elecciones generales (las [españolas de abril de 2019](https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2019), para quien requiera mayor precisión) puede contarse una pequeña revolución en la _cartografía electoral_.
+De entre lo bueno que pueden haber traído las últimas elecciones generales (las [españolas de abril de 2019](https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2019), para quien requiera mayor precisión) puede contarse una pequeña revolución en la _cartografía electoral_.
 
 Debemos agradecérselo al equipo de Kiko Llaneras en El País, que nos ha regalado [esto](https://elpais.com/politica/2019/05/01/actualidad/1556730293_254945.html). Prueba de que las cosas han cambiado es que ha sido replicado en otros sitios, como [este](https://www.eldiario.es/politica/votaron-elecciones-generales-resultados-calle_0_894860668.html).
 

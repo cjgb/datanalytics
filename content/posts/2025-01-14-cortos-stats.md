@@ -33,7 +33,7 @@ en un medio perteneciente al grupo Prisa y hermano, por lo tanto, de la _prensa 
 [esto](https://www.sudinfo.be/id781076/article/2023-10-18/voici-les-prenoms-qui-auraient-le-qi-le-moins-eleve)). El medio belga
 [RTBF](https://www.rtbf.be/)
 ha [investigado](https://www.rtbf.be/article/le-prenom-de-votre-enfant-influence-t-il-son-intelligence-11291609)
-el asunto y ha dado con y entrevistado al autor de la _noticia_, un tal Thomas Gayet, antiguo redactor de Topito, un medio especializado en _listas top 10_ y para el que escribió hace años [artículo original](https://www.topito.com/top-prenoms-qi-plus-faible-moyenne) y en el que se indica claramente que:
+el asunto y ha dado con y entrevistado al autor de la _noticia_, un tal Thomas Gayet, antiguo redactor de Topito, un medio especializado en _listas top 10_ y para el que escribió hace años el [artículo original](https://www.topito.com/top-prenoms-qi-plus-faible-moyenne) y en el que se indica claramente que:
 
 > Pour rappel, il se peut qu’on soit quelque peu sortis de la réalité dans ce top car comme vous le savez on aime l’humour et les blagues.
 

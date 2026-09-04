@@ -19,7 +19,7 @@ title: '"Visual Explanations" de Tufte: el primer gráfico estadístico'
 url: /2014/05/13/visual-explanations-de-tufte-el-primer-grafico-estadistico/
 ---
 
-Aprovecho los tiempos muertos de aviones y aeropuertos para ir leyendo esos libritos de Tufte que, no sé de qué manera, acabaron apareciendo como pedeefes en mi tableta. El otro día hablé de y resumí [Beautiful Evidence](https://datanalytics.com/2014/03/11/beautiful-evidence-de-tufte/). Esta vez le toca el turno a _Visual Explanations_.
+Aprovecho los tiempos muertos de aviones y aeropuertos para ir leyendo esos libritos de Tufte que, no sé de qué manera, acabaron apareciendo como pedeefes en mi tableta. El otro día hablé de él y resumí [Beautiful Evidence](https://datanalytics.com/2014/03/11/beautiful-evidence-de-tufte/). Esta vez le toca el turno a _Visual Explanations_.
 
 Según el autor, este libro —y a diferencia de otros de los suyos, que se centran en números o sustantivos— trata la representación gráfica de verbos: acciones, procesos, secuencias efecto-causa. Pero esta vez, en lugar de resumirlo voy a, simplemente, limitarme a extraer de él este gráfico:
 

@@ -25,7 +25,7 @@ Se levantó un revuelo hace unos días en la profesión a raíz de la noticia de
 
 La noticia ha aparecido en diversos medios (p.e., [aquí](http://www.dailymail.co.uk/news/article-2102859/How-Target-knows-shoppers-pregnant--figured-teen-father-did.html), [aquí](http://blog.chron.com/momhouston/2012/02/coupons-from-target-may-tell-you-if-your-teen-daughter-is-pregnant/) y [aquí](http://himarketing.es/2012/02/como-target-tiene-un-predictor-de-embarazos/)). Incluso ha habido una [encuesta en KDNuggets](http://www.kdnuggets.com/2012/03/poll-results-target-was-not-wrong-to-use-analytics.html) sobre las cuestiones éticas que rodean a esa posible intromisión en la privacidad.
 
-Pero la noticia ha sido presentada desde una óptica prácticamente taumatúrgica, como si Target poseyese una de bola de cristal infalible. Y estoy seguro, casi seguro, me apostaría muchísimo, a que la realidad dista mucho de lo que se ha contado. Y me sorprende que nadie se haya planteado las preguntas adecuadas:
+Pero la noticia ha sido presentada desde una óptica prácticamente taumatúrgica, como si Target poseyese una bola de cristal infalible. Y estoy seguro, casi seguro, me apostaría muchísimo, a que la realidad dista mucho de lo que se ha contado. Y me sorprende que nadie se haya planteado las preguntas adecuadas:
 
 * ¿cuántas mujeres (¡y hombres!) están recibiendo cupones _premamá_?
 * ¿cuántas mujeres embarazadas reciben cupones de lociones de afeitado?

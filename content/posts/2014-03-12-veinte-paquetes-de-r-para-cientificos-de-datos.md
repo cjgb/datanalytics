@@ -35,6 +35,6 @@ No tengo experiencia con `Zelig` y no puedo opinar en ningún sentido (¿lo har�
 
 Tampoco recomendaría invertir tiempo en familiarizarme con `snow` o `Rmpi` (para computación en paralelo) salvo en caso de estricta necesidad. Además de que [la promesa del procesamiento en paralelo no siempre rinde sus frutos](http://grokbase.com/t/r/r-sig-hpc/142djfy2m9/why-pure-computation-time-in-parallel-is-longer-than-the-serial-version). La imputación de datos (`Amelia`) es algo que, cuando toca, intento resolver de manera bastante más artesanal; la mayor parte de los que obtengo son ceros naturales: si un cliente no ha comprado, no figura en la lista de ventas por lo que el nulo que aparece asociado a su _cantidad_ es, en puridad, un cero.
 
-Para la creación informes y resultados (incluidos gráficos), me quedaría, igual que en la lista que comento, con `ggplot2`. Aunque muchos preferirán `lattice`. Eso sí, mucho antes en la lista de paquetes de este apartado estaría `knitr` que, p.e., `xtable`.
+Para la creación de informes y resultados (incluidos gráficos), me quedaría, igual que en la lista que comento, con `ggplot2`. Aunque muchos preferirán `lattice`. Eso sí, mucho antes en la lista de paquetes de este apartado estaría `knitr` que, p.e., `xtable`.
 
 Me dejo muchos y tal vez algún lector podrá sugerir algún otro.

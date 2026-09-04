@@ -26,5 +26,5 @@ Acabo de ver
 y:
 
 * Me parece increíble que se pueda ir a una conferencia seria a describir el t-test. ¿Así está el cotarro?
-* En tanto que anacrónica (critica hoy una tecnología de 1908), tanto la critica y como su tono me parecen injustos.
+* En tanto que anacrónica (critica hoy una tecnología de 1908), tanto la critica como su tono me parecen injustos.
 * En tanto que no (¡aún se enseña casi tal cual!), entiendo muchas cosas.

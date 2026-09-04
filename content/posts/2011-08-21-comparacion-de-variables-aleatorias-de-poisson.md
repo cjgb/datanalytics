@@ -34,7 +34,7 @@ Vamos a revisar este problema desde dos puntos de vista distintos: el del impaci
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ) )`, que contrasta la hipótesis de que los ratios de tarjetas obtenidos, 196 / 48 y 40 / 24 sean iguales.
 * `poisson.test( c( 196, 40 ), T = c( 48, 24 ), r = 2 )` que contrasta la hipótesis de que el ratio _verdadero entre las tarjetas entre hombres y mujeres sea de 2 cuando se han obtenido ratios de 196 / 48 y 40 / 24 para unas y otras.
 
-Para los dos últimos contrastes, `poisson.test` utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $\lambda$ $r \lambda$ y que en $p_1$ y $p_2$ muestras independientes de cada una de ellas ($p$ significa número de partidos en nuestro contexto) se han obtenido un total de $x_1$ y $x_2$ casos (tarjetas). Entonces
+Para los dos últimos contrastes, `poisson.test` utiliza la siguiente propiedad de la distribución de Poisson. Supongamos que tenemos dos variables aleatorias de Poisson con parámetros $\lambda$ y $r \lambda$ y que en $p_1$ y $p_2$ muestras independientes de cada una de ellas ($p$ significa número de partidos en nuestro contexto) se han obtenido un total de $x_1$ y $x_2$ casos (tarjetas). Entonces
 
 $$ P_\lambda( x_1, x_2 ) = \exp(-p_1 \lambda ) \frac{ (p_1 \lambda)^{x_1} }{ x_1! } \exp(-p_2 r \lambda ) \frac{ (p_2 r \lambda)^{x_2} }{ x_2! } = $$
 $$ = \frac{ ( x_1 + x_2 )! }{ x_1! x_2! } \left( \frac{ p_1}{ p_1 + r p_2 } \right)^{x_1} \left( \frac{ rp_2}{ p_1 + r p_2 } \right)^{x_2} \exp({ -(p_1 + rp_2 ) \lambda})   \frac{ ( (p_1 + r p_2 )\lambda)^{x_1 + x_2} }{ ( x_1 + x_2)! },$$

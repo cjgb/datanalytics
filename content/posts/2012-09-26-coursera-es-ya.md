@@ -19,7 +19,7 @@ title: coursera.es, ya
 url: /2012/09/26/coursera-es-ya/
 ---
 
-Estoy tomando un [curso en coursera.org](https://class.coursera.org/compfinance-2012-001/auth/welcome?type=logout&visiting=%2Fcompfinance-2012-001%2Fclass%2Findex) sobre finanzas computacionales. Aunque, modestia aparte, no creo que vaya a aprender en él mucho que no sepa ya, llevaba tiempo interesado tener una experiencia de primera mano en el funcionamiento de estas plataformas. Cuyas virtudes, muy oportunamente, han sido glosadas recientemente [en prensa](http://economia.elpais.com/economia/2012/09/21/actualidad/1348225294_720111.html).
+Estoy tomando un [curso en coursera.org](https://class.coursera.org/compfinance-2012-001/auth/welcome?type=logout&visiting=%2Fcompfinance-2012-001%2Fclass%2Findex) sobre finanzas computacionales. Aunque, modestia aparte, no creo que vaya a aprender en él mucho que no sepa ya, llevaba tiempo interesado en tener una experiencia de primera mano en el funcionamiento de estas plataformas. Cuyas virtudes, muy oportunamente, han sido glosadas recientemente [en prensa](http://economia.elpais.com/economia/2012/09/21/actualidad/1348225294_720111.html).
 
 [![](/img/2012/09/coursera.jpg)
 ](/img/2012/09/coursera.jpg)

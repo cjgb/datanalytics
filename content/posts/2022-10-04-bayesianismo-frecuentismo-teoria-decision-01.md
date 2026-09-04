@@ -20,7 +20,7 @@ url: /2022/10/04/bayesianismo-frecuentismo-teoria-decision-01/
 
 _[Esta es la primera de una serie de tres o cuatro entradas sobre el tema que se anuncia en el título.]_
 
-$\theta$ es un valor desconocido. Por algún motivo, necesitamos encontrar un valor $\hat{\theta}$ ---que podríamos llamar de cualquier manera, pero que, por lo que sigue, será podemos convenir en denominar _estimación de_ $\theta$--- tal que minimicemos una determinada función de error
+$\theta$ es un valor desconocido. Por algún motivo, necesitamos encontrar un valor $\hat{\theta}$ ---que podríamos llamar de cualquier manera, pero que, por lo que sigue, podemos convenir en denominar _estimación de_ $\theta$--- tal que minimicemos una determinada función de error
 
 $$L(\theta, \hat{\theta}).$$
 

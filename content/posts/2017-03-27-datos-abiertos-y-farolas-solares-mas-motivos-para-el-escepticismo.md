@@ -35,7 +35,7 @@ Eso es lo fundamental que hay que saber al respecto.
 
 **No obstante lo cual**
 
-Tenía decidido yo mantenerme al margen de todo tipo de debates, votaciones, asambleas o neomecanismos de _democracia directa_ municipal en tanto en cuanto mi ayuntamiento, de oficio, no reparase las aceras y calzadas de mi barrio, no eliminase los socavones, ni evitase la formación charcos de corte conourbanobonearense como
+Tenía decidido yo mantenerme al margen de todo tipo de debates, votaciones, asambleas o neomecanismos de _democracia directa_ municipal en tanto en cuanto mi ayuntamiento, de oficio, no reparase las aceras y calzadas de mi barrio, no eliminase los socavones, ni evitase la formación de charcos de corte conourbanobonearense como
 
 ![](/img/2017/03/charco_meson_paredes.jpg)
 

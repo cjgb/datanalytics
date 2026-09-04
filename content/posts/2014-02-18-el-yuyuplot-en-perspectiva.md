@@ -22,10 +22,9 @@ url: /2014/02/18/el-yuyuplot-en-perspectiva/
 
 El _yuyuplot_ al que me refiero es
 
-[![scary_plot_dj](/img/2014/02/scary_plot_dj.jpg)
-](/img/2014/02/scary_plot_dj.jpg)
+![scary_plot_dj](/img/2014/02/scary_plot_dj.jpg)
 
-un gráfico ha circulado por internet y que [ha causado cierto pánico](http://www.marketwatch.com/story/scary-1929-market-chart-gains-traction-2014-02-11), se ve (y de ahí el nombre). En algunos sitios —véase [este](http://www.gurusblog.com/archives/dow-jones-sp500-grafico-comparativa-1929/04/02/2014/) como ejemplo de los menos acertados— se ha intentado de explicar al público sus deméritos.
+un gráfico que ha circulado por internet y que, de ahí el nombre, [ha causado cierto pánico](http://www.marketwatch.com/story/scary-1929-market-chart-gains-traction-2014-02-11). En algunos sitios —véase [este](http://www.gurusblog.com/archives/dow-jones-sp500-grafico-comparativa-1929/04/02/2014/) como ejemplo de los menos acertados— se ha intentado de explicar al público sus deméritos.
 
 El mundo de las finanzas debiera ser la envidia de otros ámbitos por el volumen, variedad y velocidad de los datos disponibles en él. Además, desde tiempo atrás, mucho antes de que el siglo nos trajese el _big data_, la transparencia, el _opendetodo_ y otras concomitancias. A la vez, sin embargo, es inagotable fuente de ejemplos de uso pueril de esos datos. El que nos ocupa es uno de ellos.
 
@@ -35,7 +34,6 @@ Y yo me pregunto lo siguiente:
 
 * ¿Cuántos segmentos —no necesariamente tan eminentes que el de 1929— de la serie temporal del Dow Jones han tenido una correlación elevada con el actual?
 * ¿Qué sucedió, p.e., seis meses después con la bolsa?
-
 
 He querido responderme a mí mismo descargando de [aquí](http://research.stlouisfed.org/fred2/series/DJIA/downloaddata?cid=32255) las cotizaciones de Dow Jones desde la época de Cánovas y Sagasta y después he ejecutado
 
@@ -77,7 +75,6 @@ ggplot(tmp, aes(x = incrementos, weights = pesos)) +
 
 para obtener
 
-[![seis_meses_despues](/img/2014/02/seis_meses_despues.png#center)
-](/img/2014/02/seis_meses_despues.png#center)
+![seis_meses_despues](/img/2014/02/seis_meses_despues.png#center)
 
 Como puede apreciarse y si la historia es tan maestra como cuentan, es más probable que en seis meses la se encuentre por encima que por debajo de las actuales cotizaciones.

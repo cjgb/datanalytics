@@ -83,4 +83,4 @@ Y, ahora, los comentarios:
 * Hay una gran variación en el consumo de combustibles en los últimos años: covid, etc. No está claro si 2021 es o no un _año típico_. Desde luego, está fuera de la tendencia de los años precovid.
 * Como en el libro en cuestión, estos valores se refieren a "hogares en que se conduce", que vienen a ser, según la EPF, aproximadamente la mitad (como en el libro, de nuevo).
 * Se han ignorado los _otros combustibles_ para automoción que recoge la EPF pero que, por un lado, son pocos en cantidad y, por el otro, no sé cómo traducir sus equivalentes en kWh/día.
-* Finalmente, en un mundo electrificado es posible que se consumiesen menos kWh/día para la el mismo kilometraje, por lo que la cantidad de kWh/día que generar sería algo inferior.
+* Finalmente, en un mundo electrificado es posible que se consumiesen menos kWh/día para el mismo kilometraje, por lo que la cantidad de kWh/día que generar sería algo inferior.

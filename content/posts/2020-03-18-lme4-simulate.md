@@ -81,7 +81,7 @@ obtengo
 
 ![](/img/2020/03/simulate_incondicional.png#center)
 
-donde se ha ignorado el valor preespecificado de los efectos aleatorios (el valor de `x`) en los datos. En jerga estadística, es la predicción incondicional. Pero podemos exigir que se condicione en los valores de `x` (es decir, tener en cuenta de que hay observaciones con valores x predefinidos) así:
+donde se ha ignorado el valor preespecificado de los efectos aleatorios (el valor de `x`) en los datos. En jerga estadística, es la predicción incondicional. Pero podemos exigir que se condicione en los valores de `x` (es decir, tener en cuenta que hay observaciones con valores x predefinidos) así:
 
 {{< highlight R >}}
     sims.u.true <- simulate(modelo, nsim = 1000, use.u = TRUE)

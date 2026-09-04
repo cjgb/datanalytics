@@ -22,7 +22,7 @@ title: Animaciones estadísticas con R
 url: /2011/02/16/animaciones-estadisticas-con-r/
 ---
 
-He encontrado [una página](https://yihui.org/animation/) que será, seguro, del gusto de mis lectores. Contiene animaciones en R tales desarrolladas con el paquete [animation](http://cran.r-project.org/web/packages/animation/index.html) tales como [ésta sobre la optimización por mínimos cuadrados](https://yihui.org/animation/example/least-squares/) o [esta otra sobre k-medias](https://yihui.org/animation/example/kmeans-ani/).
+He encontrado [una página](https://yihui.org/animation/) que será, seguro, del gusto de mis lectores. Contiene animaciones en R desarrolladas con el paquete [animation](http://cran.r-project.org/web/packages/animation/index.html) tales como [ésta sobre la optimización por mínimos cuadrados](https://yihui.org/animation/example/least-squares/) o [esta otra sobre k-medias](https://yihui.org/animation/example/kmeans-ani/).
 
 [![](/img/2011/02/43.png#center)
 ](/img/2011/02/43.png#center)

@@ -22,7 +22,7 @@ title: 'Diagramas causales hiperbásicos (I): variables omitidas y sus consecuen
 url: /2022/03/10/diagramas-causales-hiperbasicos-01-variables-omitidas/
 ---
 
-Comienzo hoy una serie de cuatro entradas (¡creo!) sobre diagramas causales supersimples que involucran a tres variables aleatorias: $X$, $Y$ y $Z$. En todos los casos, estaré argumentaré alrededor de en las regresiones lineales `Y ~ X` e `Y ~ X + Z` porque nos permiten leer, interpretar y comparar rápida y familiarmente los resultados obtenidos. En particular, me interesará la estimación del efecto (causal, si se quiere) de $X$ sobre $Y$, identificable a través del coeficiente de $X$ en las regresiones.
+Comienzo hoy una serie de cuatro entradas (¡creo!) sobre diagramas causales supersimples que involucran a tres variables aleatorias: $X$, $Y$ y $Z$. En todos los casos, argumentaré alrededor de las regresiones lineales `Y ~ X` e `Y ~ X + Z` porque nos permiten leer, interpretar y comparar rápida y familiarmente los resultados obtenidos. En particular, me interesará la estimación del efecto (causal, si se quiere) de $X$ sobre $Y$, identificable a través del coeficiente de $X$ en las regresiones.
 No obstante, quiero dejar claro que:
 
 1. Explicitaré las relaciones entre las variables usando la distribución normal. Pero solo porque es la manera más simple y familiar de hacerlo: otros métodos harían la exposición más compleja y la lectura menos amena.

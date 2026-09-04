@@ -106,7 +106,7 @@ sigma_posterior <- muestras_posterior[2,]
 Finalmente,
 
 {{< highlight r >}}
-mp0 <- data.frame(
+tmp0 <- data.frame(
   value = rnorm(1000, 255, 10),
   class = "prior"
 )

@@ -23,7 +23,7 @@ url: /2016/09/16/hamilton-al-rescate-de-metropolis-hastings/
 
 El [algoritmo de Metropolis-Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) se usa para muestrear una variable aleatoria con función de densidad $p$. Permite crear una sucesión de puntos $x_i$ que se distribuye según $p$.
 
-Funciona de al siguiente manera: a partir de un punto $x_i$ se buscan candidatos a $x_{i+1}$ de la forma $x_i + \epsilon$, donde $\epsilon$ es, muy habitualmente, $N(0, \delta)$ y $\delta$ es pequeño. De otra manera, puntos próximos a $x_i$. Un candidato se acepta (y se convierte en $x_{i+1}$) o se rechaza (y toca probar con otro) según los valores de $p(x_i)$ y $p(x_i + \epsilon)$:
+Funciona de la siguiente manera: a partir de un punto $x_i$ se buscan candidatos a $x_{i+1}$ de la forma $x_i + \epsilon$, donde $\epsilon$ es, muy habitualmente, $N(0, \delta)$ y $\delta$ es pequeño. De otra manera, puntos próximos a $x_i$. Un candidato se acepta (y se convierte en $x_{i+1}$) o se rechaza (y toca probar con otro) según los valores de $p(x_i)$ y $p(x_i + \epsilon)$:
 
 * Si el segundo valor es mayor que el primero, se acepta el candidato.
 * Si no, se echa a suertes según su valor relativo.

@@ -50,7 +50,7 @@ prop.test(53, 53)$conf.int
 # [1] 0.9158109 1.0000000
 {{< / highlight >}}
 
-e incluso, si se combinan las pruebas del ambos IgX,
+e incluso, si se combinan las pruebas de ambos IgX,
 
 {{< highlight R >}}
 prop.test(105, 106)$conf.int

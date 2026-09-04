@@ -20,7 +20,7 @@ title: ¿Dónde estudiar el curso puente hacia la licenciatura en estadística?
 url: /2014/05/26/donde-estudiar-el-curso-puente-hacia-la-licenciatura-en-estadistica/
 ---
 
-Casi siempre que escribo aquí lo hago para contar algo. Creo que por primera vez creo que voy a usar esta plataforma para pedir consejo a mis lectores.
+Casi siempre que escribo aquí lo hago para contar algo. Creo que por primera vez voy a usar esta plataforma para pedir consejo a mis lectores.
 
 El caso es el siguiente. Tengo un conocido —que me ha pedido que no divulgue su nombre— que estudió en su día la diplomatura de estadística. Lleva años trabajando distintas cosas más o menos próximas al asunto de sus estudios e incluso hizo un máster de algo. Pero el bendito plan Bolonia lo ha desdiplomado: me cuenta que todo lo que cursó de COU en adelante es papel mojado.
 

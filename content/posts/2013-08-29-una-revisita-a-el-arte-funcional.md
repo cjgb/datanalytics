@@ -31,7 +31,7 @@ Hice una crítica sobre una de las secciones del libro:
 >
 > Pero no acaba de extraerle todo el jugo a esta sección. Un planteamiento más próximo a la obra de D. Kahneman y A. Tversky que nos advirtiese de los peligros perceptuales más gruesos y nos diese recomendaciones para sortearlos habría cerrado la sección con gloria.
 
-Menciono en la crítica a Kahneman y Tversky y, en particular, en su relación con los sesgos cognitivos. Al fin y al cabo, un infografista (y, en general, todo aquel que utiliza gráficos para ilustrar y explicar información de corte cuantitativo) debe tener en cuenta que esos sesgos existen y cómo debería actuar para evitarlos (¡o cómo aprovecharse de ellos para llevar el agua al molino de quien le paga!).
+Menciono en la crítica a Kahneman y Tversky y, en particular, su relación con los sesgos cognitivos. Al fin y al cabo, un infografista (y, en general, todo aquel que utiliza gráficos para ilustrar y explicar información de corte cuantitativo) debe tener en cuenta que esos sesgos existen y cómo debería actuar para evitarlos (¡o cómo aprovecharse de ellos para llevar el agua al molino de quien le paga!).
 
 Pero ahora que voy sacando tiempo para adentrarme en la lectura de [_Pensar rápido, pensar despacio_](http://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) de Kahneman, creo que esta es la obra (o una de las obras, dirán los profesionales de la materia) que recoge las ideas en que pienso que debería basarse una obra que trate lo que ocurre entre un papel con trazos y colores y esa cosa que llamamos _conciencia_.
 

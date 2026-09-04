@@ -45,7 +45,7 @@ es fácil estimarlo:
 1. Se toma $p_{11}, \dots, p_{1n}$ de acuerdo con la distribución de los casos positivos.
 1. Se aproxima el AUC como la proporción de casos en los que $p_{1i} > p_{0i}$.
 
-Fijado el modelo, pues, se pueden reportar varios AUCs asociados a tal modelo simplemente cambiando la población sobre el que se aplica (que afecta a la $f(p)$).
+Fijado el modelo, pues, se pueden reportar varios AUCs asociados a tal modelo simplemente cambiando la población sobre la que se aplica (que afecta a la $f(p)$).
 
 Por fijar ideas, supongamos este caso: un banco crea un modelo de riesgo de crédito y lo entrena sobre una población tal que la distribución de las $p$ es uniforme. El AUC reportado en entrenamiento sería aproximadamente 0.83. Luego reevalúa el AUC con datos reales. Pero como el banco solo ha otorgado préstamos a clientes con una $p$ menor que, p.e., el 10%, el AUC estimado sobre esa nueva población es 0.67.
 

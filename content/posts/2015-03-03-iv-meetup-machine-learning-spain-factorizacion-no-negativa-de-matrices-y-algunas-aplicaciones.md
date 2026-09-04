@@ -21,7 +21,7 @@ title: 'IV Meetup Machine Learning Spain: factorización no negativa de matrices
 url: /2015/03/03/iv-meetup-machine-learning-spain-factorizacion-no-negativa-de-matrices-y-algunas-aplicaciones/
 ---
 
-Me han invitado a hablar en el [IV Meetup Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/events/220799458/). Será el miércoles 4 de marzo en el lugar que en el enlace anterior indica.
+Me han invitado a hablar en el [IV Meetup Machine Learning Spain](http://www.meetup.com/MachineLearningSpain/events/220799458/). Será el miércoles 4 de marzo en el lugar que en el enlace anterior se indica.
 
 Mi charla será una versión extendida de un tema, la factorización no negativa de matrices y algunas aplicaciones, que mis lectores más fieles [ya conocen](https://datanalytics.com/2014/06/19/factorizaciones-positivas-de-matrices-igualmente-positivas/).
 

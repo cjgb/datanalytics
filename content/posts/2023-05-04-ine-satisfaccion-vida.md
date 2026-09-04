@@ -23,7 +23,7 @@ El IMCV es
 [esto](https://www.ine.es/experimental/imcv/experimental_ind_multi_calidad_vida.htm).
 (Brevemente: un indicador _experimental_ del INE que combina datos de varias encuestas, las agrega con unos pesos y produce unos números que permiten comparar CCAA entre sí y a lo largo del tiempo).
 
-Una característica muy amena del IMCV es que permite recalcular en índice con pesos _ad hoc_ [aquí](https://public.tableau.com/views/IMCV_personalizadoES_16366215568490/Dashboard1?:showVizHome=no&:embed=true#3).
+Una característica muy amena del IMCV es que permite recalcular el índice con pesos _ad hoc_ [aquí](https://public.tableau.com/views/IMCV_personalizadoES_16366215568490/Dashboard1?:showVizHome=no&:embed=true#3).
 
 Con los pesos originales, el indicador (de 2021) queda así:
 

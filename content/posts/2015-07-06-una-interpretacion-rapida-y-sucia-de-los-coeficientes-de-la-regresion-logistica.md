@@ -50,7 +50,7 @@ produce
 [![derivada_logistica_inversa](/img/2015/07/derivada_logistica_inversa.png#center)
 ](/img/2015/07/derivada_logistica_inversa.png#center)
 
-Obviamente, esta variación será menor el _score_ de la observación esté lejos de 0, que es donde está el máximo (de valor .25). Y estará lejos de cero cuando su probabilidad sea extrema: o muy alta o muy baja.
+Obviamente, esta variación será menor cuando el _score_ de la observación esté lejos de 0, que es donde está el máximo (de valor .25). Y estará lejos de cero cuando su probabilidad sea extrema: o muy alta o muy baja.
 
 La variación de la probabilidad también depende de la definición de la unidad de medida. Para variables categóricas no existe le problema. Pero las alturas (de las personas, p.e.) se pueden medir en metros, en milímetros o en kilómetros.
 

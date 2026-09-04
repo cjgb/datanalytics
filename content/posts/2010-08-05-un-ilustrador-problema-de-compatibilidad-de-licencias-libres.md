@@ -24,7 +24,7 @@ Así de infeliz se mostraba G. Grothendieck hace unos días. Y es que habíamos 
 
 Eso de las licencias de software es un tema enojoso. Importante, pero enojoso.
 
-Además, da la impresión, que es totalmente exótico a la ética y costumbres de este país desde el que escribo: algún día, como divertimento, contaré alguna historieta. Y cuando haya vencido la fecha de prescripción, la más divertida, la más ilustradora del fenómeno, la sin par: la del código con _copyright_ de _EverisWaterhouseCoopers_.
+Diríase además que resulta totalmente exótico a la ética y costumbres de este país desde el que escribo: algún día, como divertimento, contaré alguna historieta. Y cuando haya vencido la fecha de prescripción, la más divertida, la más ilustradora del fenómeno, la sin par: la del código con _copyright_ de _EverisWaterhouseCoopers_.
 
 En resumen, que por acá, todo lo que está en tu disco duro es tuyo y con él puedes hacer capas, sayos y lo que se te antoje. No así en latitudes más honestas y en las que eso de las atribuciones,  contratos y licencias se gestiona más seriamente.
 

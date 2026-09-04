@@ -89,7 +89,7 @@ Los falsos positivos y los falsos negativos por un lado y la sensibilidad y la e
 
 ## Curva ROC y AUC
 
-En las secciones anteriores se está asumiendo que ya existe una regla de decisión tomada que asigna las etiquetas sí y no automáticamente. Discutir la curva ROC y el AUC requiere echar un paso atrás prestar atención a los _scorings_. Muchos modelos de clasificación binaria ---¿todos?--- no producen una etiqueta sino un valor, un _scoring_ a partir del cual se determina la decisión final (p.e., asignar sí cuando el scoring es $\ge .78$).
+En las secciones anteriores se está asumiendo que ya existe una regla de decisión tomada que asigna las etiquetas sí y no automáticamente. Discutir la curva ROC y el AUC requiere echar un paso atrás y prestar atención a los _scorings_. Muchos modelos de clasificación binaria ---¿todos?--- no producen una etiqueta sino un valor, un _scoring_ a partir del cual se determina la decisión final (p.e., asignar sí cuando el scoring es $\ge .78$).
 
 El _scoring_ nos permite representar la información necesaria para nuestro problema de clasificación así:
 

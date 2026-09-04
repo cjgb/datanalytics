@@ -26,7 +26,7 @@ _[Nota: el código relevante sigue estando [en GitHub](https://github.com/cjgb/c
 
 Continúo con la entrada de [ayer](https://datanalytics.com/2020/03/19/casos-de-coronavirus-en-madrid-provincia-un-modelo-muy-crudo-basado-en-la-mortalidad/), que contenía más errores que información útil respecto a objetivos y métodos.
 
-Los objetivos del análisis son los de obtener una estimación del número de casos activos de coronavirus en la provincia de Madrid. La de los casos oficiales tiene muchos sesgos por culpa de los distintos criterios seguidos para determinarlos a lo largo del tiempo. Sin embargo, es posible que los fallecimientos debidos al coronavirus, antes al menos de que se extienda el _triaje de guerra_, son más fiables. Eso sí, la conexión entre unos (casos) y otros (defunciones) depende de una tasa de letalidad desconocida. El objetivo del modelo es complementar la información de los casos notificados con la de defunciones.
+Los objetivos del análisis son los de obtener una estimación del número de casos activos de coronavirus en la provincia de Madrid. La de los casos oficiales tiene muchos sesgos por culpa de los distintos criterios seguidos para determinarlos a lo largo del tiempo. Sin embargo, es posible que los fallecimientos debidos al coronavirus, al menos antes de que se extienda el _triaje de guerra_, son más fiables. Eso sí, la conexión entre unos (casos) y otros (defunciones) depende de una tasa de letalidad desconocida. El objetivo del modelo es complementar la información de los casos notificados con la de defunciones.
 
 Me apoyo, además, en [esta entrada de blog](https://medium.com/@carlosbort/coronavirus-podr%C3%ADa-haber-hasta-100-veces-m%C3%A1s-contagiados-de-los-reportados-7f54cbcdeec) en la que aprendemos que:
 

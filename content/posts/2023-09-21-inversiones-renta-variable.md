@@ -66,7 +66,7 @@ No obstante, antes de lanzarse a comprar ETFs es imprescindible dedicar un poco 
 * Que tengan comisiones bajas de administración y custodia (idealmente, el 0% con una _condicionalidad razonable_).
 * Que tengan precios aceptables para operaciones con ETFs (que, por motivos fácilmente adivinables, cotizan prácticamente todos fuera de España).
 
-Realmente, el primer criterio es mucho más importante que el segundo dado que la el objetivo de la inversión es perdurar en el tiempo. Hay entidades que cobran hasta el 0.2% anual por custodiar las inversiones. Que dicho de esa manera puede parecer poco, pero que son 200€ anuales por cada 100k€.
+Realmente, el primer criterio es mucho más importante que el segundo dado que el objetivo de la inversión es perdurar en el tiempo. Hay entidades que cobran hasta el 0.2% anual por custodiar las inversiones. Que dicho de esa manera puede parecer poco, pero que son 200€ anuales por cada 100k€.
 
 _[A veces uno no entiende la política de precios de estos negocios; afortunadamente, definirlas no es problema mío sino de otros.]_
 

@@ -51,7 +51,7 @@ o [este otro](https://www.elconfidencial.com/tecnologia/2023-03-29/uber-cabify-b
 
 ## III.
 
-Hay que tomar decisiones. Hay que tomarlas de alguna manera. Pero sea cual sea el procedimiento adoptarlo para tomarlas, la evaluación ha de realizarse comparativamente: ¿qué habría pasado de haberse usado un procedimiento alternativo?
+Hay que tomar decisiones. Hay que tomarlas de alguna manera. Pero sea cual sea el procedimiento adoptado para tomarlas, la evaluación ha de realizarse comparativamente: ¿qué habría pasado de haberse usado un procedimiento alternativo?
 
 Así, cuando se critica algún _algoritmo_ por algún fallo cometido o por un determinado sesgo aparente, lo suyo sería contrastarlo con el desempeño de su alternativa; en particular, con un procedimiento _clínico_. El artículo _Clinical Versus Actuarial Judgment_ de P. Meelh et al discute estas cuestiones. En particular, discute:
 

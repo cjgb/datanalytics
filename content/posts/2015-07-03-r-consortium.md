@@ -26,7 +26,7 @@ Vamos, nada que la R Foundation no viniese haciendo ya de oficio.
 
 Solo que es probable que lo quieran hacer de otra manera. R se está volviendo demasiado importante, pensarán, como para que su desarrollo siga en manos de unos _amateurs_. Uso aquí el término en el sentido literal y no despectivo del término: estos _amateurs_ son académicos de _reconocido prestigio_ que hacen en su tiempo libre y con equipos informáticos que vete tú a saber a quién pertenecerán y dónde se alojarán las cosas que pretende hacer el consorcio.
 
-Habrá quien lo vea como una especie de golpe de estado corporativo: grandes empresas que les diciendo "quítate tú, que me pongo yo" a un grupito de profesores que ya tienen sus añitos. Habrá quien piense que el cambio cuantitativo (en uso y extensión de R) clamaba por un cambio cualitativo. Habrá quien aplauda y quien no.
+Habrá quien lo vea como una especie de golpe de estado corporativo: grandes empresas que van diciendo "quítate tú, que me pongo yo" a un grupito de profesores que ya tienen sus añitos. Habrá quien piense que el cambio cuantitativo (en uso y extensión de R) clamaba por un cambio cualitativo. Habrá quien aplauda y quien no.
 
 ¿Mi opinión?
 

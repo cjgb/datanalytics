@@ -34,4 +34,4 @@ Tres notas de rigor:
 * La parte fraccionaria de una distribución regular y extendida es _aproximadamente_ uniforme. La uniformidad solo se garantiza en el límite (conforme la distribución se hace más y más extendida sobre la recta real). Es posible (cuestión que exploré [aquí](https://datanalytics.com/2011/09/15/la-ley-de-benford/)) que los primeros dígitos de muestras de determinadas distribuciones no sigan la Ley de Benford.
 * Queda ver cuáles son las razones (¿sicológicas?) que llevarían a los humanos a inventar secuencias de números que no obedecen una ley extendida y regular. En particular, que violan la regularidad.
 
-En la última entrada de la serie abundaré esa tercera nota y hablaré de posibles extensiones que no son sino ocurrencias mías.
+En la última entrada de la serie abundaré en esa tercera nota y hablaré de posibles extensiones que no son sino ocurrencias mías.

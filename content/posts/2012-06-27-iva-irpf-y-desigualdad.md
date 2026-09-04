@@ -48,6 +48,6 @@ Esta otra figura muestra el impacto fiscal según el tipo de impuesto o benefici
 [![](/img/2012/06/impacto_desglosado_hogares.png#center)
 ](/img/2012/06/impacto_desglosado_hogares.png#center)
 
-Los impuestos directos (IRPF) supusieron una media de £19.700 anuales (el 24 % del ingreso bruto) para los hogares del quintil más rico, y de £1.300 anuales (el 10 %) del más pobre. Sin embargo, este último quintil pagó el 31 % de su renta disponible en impuestos indirectos (IVA y demás) taxes mientras que al quintil más rico, estos solo le supusieron el 13 %.
+Los impuestos directos (IRPF) supusieron una media de £19.700 anuales (el 24 % del ingreso bruto) para los hogares del quintil más rico, y de £1.300 anuales (el 10 %) del más pobre. Sin embargo, este último quintil pagó el 31 % de su renta disponible en impuestos indirectos (IVA y demás) mientras que al quintil más rico, estos solo le supusieron el 13 %.
 
 Invito a leer el resto del informe. Sobre todo para que [cuando os digan que el gobierno debería hacer esto y aquello](http://www.fedeablogs.net/economia/?p=22399) os hagáis una idea del quintil al que pertenecen quienes lo suscriben o quienes les pagan por suscribirlo.

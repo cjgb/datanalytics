@@ -54,7 +54,7 @@ que dizque merece una A, parecen erratas; más adelante se explica por qué.
 
 Esa manera de evaluar las cosas en la que todos suspenden sorprendería a más de un pedagogo, supongo. Quienes presten atención a la etiqueta de eficiencia energética antes y no, como yo, después de adquirir los cachivaches andarán muy frustrados. Habrá que ver si se han resignado a usar micromonitores y gafas de culo de vaso.
 
-Lo que queda claro es que a la hora de asignar etiquetas no se hace evalúa, como tantas veces con los exámenes, _por la normal_ sino que se usan otros criterios.
+Lo que queda claro es que a la hora de asignar etiquetas no se evalúa, como tantas veces con los exámenes, _por la normal_ sino que se usan otros criterios.
 
 ¿Cuáles son?
 

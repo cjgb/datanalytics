@@ -23,7 +23,7 @@ url: /2018/05/09/curso-mio-de-estadistica-bayesiana-aplicada-con-stan-en-bcn/
 
 A primeros de julio (de 2018) impartiré un curso de 15 horas de estadística bayesiana aplicada con Stan en la UPC (Barcelona). La información relevante está [aquí](https://mesioupcub.masters.upc.edu/en/xii-summer-school-2018) y [aquí](https://mesioupcub.masters.upc.edu/en/xii-summer-school-2018/courses).
 
-El proyecto y su definición es un tanto contradictorio en sus propios términos, lo reconozco. Es muy difícil hacer algo _aplicado_ y, a la vez, bayesiano. Y más, con Stan. Además, podrían acusarme de hipócrita: ¿cuándo fue la última vez que facturé (recuérdese: _facturable_ es el grado máximo de _aplicado_) por algo hecho con Stan? Porque la idea, en el fondo, es otra: esencialmente, cómo replantear modelos y estrategias de modelización, aunque se implenten con herramientas  métodos de índole frecuentista, para enriquecerlos con la visión bayesiana.
+El proyecto y su definición es un tanto contradictorio en sus propios términos, lo reconozco. Es muy difícil hacer algo _aplicado_ y, a la vez, bayesiano. Y más, con Stan. Además, podrían acusarme de hipócrita: ¿cuándo fue la última vez que facturé (recuérdese: _facturable_ es el grado máximo de _aplicado_) por algo hecho con Stan? Porque la idea, en el fondo, es otra: esencialmente, cómo replantear modelos y estrategias de modelización, aunque se implenten con métodos de índole frecuentista, para enriquecerlos con la visión bayesiana.
 
 Además, me avisaron de que una serie de estudiantes de matemáticas con una formación prácticamente nula de la estadística tradicional estaban interesados en mi curso. Lo cual significa que tendré una excusa estupenda para darla por no conocida y, por lo tanto, ignorarla cabalmente.
 

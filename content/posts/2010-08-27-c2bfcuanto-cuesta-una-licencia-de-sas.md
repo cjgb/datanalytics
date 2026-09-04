@@ -20,7 +20,7 @@ url: /2010/08/27/cuanto-cuesta-una-licencia-de-sas/
 
 Nada si tienes los contactos necesarios o te manejas por la parte turbia de internet. Y no tienes inconveniente en mantenerte del lado equivocado de la ley.
 
-O unos 120 dólares si te conformas con una licencia restrictiva de SAS adquiriendo llamada [SAS Learning Edition](http://support.sas.com/learn/le/), que puede descargarse desde los servidores de SAS o adquirir en lugares tipo Amazon. Claro, si tus conjuntos de datos no tienen más de 1.500 filas (a fecha de hoy).
+O unos 120 dólares si te conformas con una licencia restrictiva de SAS, la llamada [SAS Learning Edition](http://support.sas.com/learn/le/), que puede descargarse desde los servidores de SAS o adquirir en lugares tipo Amazon. Claro, si tus conjuntos de datos no tienen más de 1.500 filas (a fecha de hoy).
 
 Existe un producto específico de SAS, [SAS Analytics Pro](http://www.sas.com/technologies/analytics/statistics/analytics-pro/), que incluye los elementos más habituales del universo SAS (SAS/BASE, SAS/STAT, SAS/GRAPH, etc.) que _sólo_ cuesta
 

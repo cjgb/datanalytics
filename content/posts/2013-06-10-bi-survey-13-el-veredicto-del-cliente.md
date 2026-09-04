@@ -27,6 +27,6 @@ He accedido en parte, sí, porque hay que estar bien con los clientes. Sobre tod
 
 Pero también porque el mundo del BI es sumamente opaco e impera la información asimétrica. Quienes compran herramientas como SAP, Cognos, SAS, Microstrategy, etc. están a dos velas de lo que ocurre en el edificio de al lado, de los problemas que van a encontrar en su implementación, de su rendimiento _en producción_. Están casi totalmente a expensas de los cantos de sirena de los vendedores.
 
-Una encuesta como la de BARC, desde la perspectiva de los clientes de herramientas de BI contribuye divulgar información sobre lo que funciona y lo que no funciona, de las ventajas y los inconvenientes de cada paquete de cedés propietarios.
+Una encuesta como la de BARC, desde la perspectiva de los clientes de herramientas de BI contribuye a divulgar información sobre lo que funciona y lo que no funciona, de las ventajas y los inconvenientes de cada paquete de cedés propietarios.
 
 Por eso creo que la encuesta es valiosa y por eso os invito (a aquellos que trabajéis en este campo) a [participar en él](https://digiumenterprise.com/answer?link=1342-6Y5AHPYD).

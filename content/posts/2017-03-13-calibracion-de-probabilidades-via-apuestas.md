@@ -23,7 +23,7 @@ Después de la remontada del F.C. Barcelona es muy de agradecer ver la publicaci
 
 La pregunta que podemos hacernos, de todos modos, es si las probabilidades estimadas por esos modelos estadísticos o las casas de apuestas están o no bien calibradas. Es decir, si, por ejemplo, el número de aciertos para eventos con una probabilidad asignada del alrededor del 0.25 es o no próximo al 25%.
 
-Para [el modelo estadístico al que se refiere el artículo](https://projects.fivethirtyeight.com/soccer-predictions/champions-league/), no creo que podamos decir gran cosa: no tenemos casi seguro suficiente información histórica. Sin embargo, una paseo rápido por Google nos conduce a una serie de artículos como [este](http://lkm.fri.uni-lj.si/uploads/eriks/Strumbelj_WorkingPaper2013.pdf) o [este](https://faculty.fuqua.duke.edu/~clemen/bio/Published%20Papers/45.PredictionMarkets-Page&Clemen-EJ-2013.pdf), en los que se estudia el asunto.
+Para [el modelo estadístico al que se refiere el artículo](https://projects.fivethirtyeight.com/soccer-predictions/champions-league/), no creo que podamos decir gran cosa: no tenemos casi seguro suficiente información histórica. Sin embargo, un paseo rápido por Google nos conduce a una serie de artículos como [este](http://lkm.fri.uni-lj.si/uploads/eriks/Strumbelj_WorkingPaper2013.pdf) o [este](https://faculty.fuqua.duke.edu/~clemen/bio/Published%20Papers/45.PredictionMarkets-Page&Clemen-EJ-2013.pdf), en los que se estudia el asunto.
 
 Del primero extraigo el gráfico
 

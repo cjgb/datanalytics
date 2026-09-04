@@ -19,7 +19,7 @@ url: /2011/03/14/publica-o-perece/
 
 Quienes trabajamos circunstancialmente para investigadores heredamos parte de esa presión que sufren para publicar a toda costa so pena de perecer académicamente. Esa presión introduce en demasiadas ocasiones los sesgos, desviaciones con respecto a la ortodoxia metodológica, etc., cuyos excesos han generado una creciente ola de escepticismo frente a los resultados que aparecen en la literatura, tal y [como comentábamos el otro día en estas páginas](https://datanalytics.com/2011/03/03/casi-todos-los-resultados-cientificos-que-se-publican-son-falsos/).
 
-Esta entrada ---continuación de la anterior y abrebocas para otra que estoy preparando sobre el mismo tema--- quiero presentar a mis lectores unos cuantos sucesos famosos que ilustran un fenómeno tal vez poco conocido del gran público: casos en los que los resultados científicos resultan falsos no por defectos metodológicos, no por sesgos involuntarios sino por dolo.
+En esta entrada ---continuación de la anterior y abrebocas para otra que estoy preparando sobre el mismo tema--- quiero presentar a mis lectores unos cuantos sucesos famosos que ilustran un fenómeno tal vez poco conocido del gran público: casos en los que los resultados científicos resultan falsos no por defectos metodológicos, no por sesgos involuntarios sino por dolo.
 
 Uno de los más famosos es el de [William Summerlin](http://en.wikipedia.org/wiki/William_Summerlin), un dermatólogo estadounidense que consiguió implantar a ratones blancos piel de ratones negros sin que se produjesen rechazos. Se descubrió después que la _presunta_ piel de ratón negro podía lavarse con alcohol.
 

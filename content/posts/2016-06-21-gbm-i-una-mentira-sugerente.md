@@ -46,4 +46,4 @@ Nota: aunque está escrito en todas partes, recuerdo que el modelo resultante no
 
 Y, retomando el hilo del artículo y proyectándolo más allá, podría pensarse en sumar modelos construidos todos ellos iterativamente sobre los residuos del anterior.
 
-Aun insistiendo que esto no es lo mismo que una regresión múltiple, la idea de sumar modelos simples construidos sobre los residuos anteriores, como veremos, es más profunda y llega más allá de lo que parece a primera vista: no es GBM pero, de alguna manera, lo sugiere.
+Aun insistiendo en que esto no es lo mismo que una regresión múltiple, la idea de sumar modelos simples construidos sobre los residuos anteriores, como veremos, es más profunda y llega más allá de lo que parece a primera vista: no es GBM pero, de alguna manera, lo sugiere.

@@ -64,4 +64,4 @@ Sin embargo, no hemos visto el código con el que se ha realizado la partición.
 
 ¿Y en términos del tamaño del efecto? Parece que es pequeño. A ojo, muchos lo habrían dado por bueno: 32.75% vs 31.85%. Pero también podría temerse que, una vez _demostrado_ el error en el procedimiento de muestreo, en otras particiones usando el mismo código, pudiera ocurrir _cualquier cosa_.
 
-¿Y la decisión final? Pues sospecho que por motivos ajenos a los _data driven_ antes citados, acabemos dando por buena ---aunque con reservas--- a lo que nos han pasado. Tal es la vida del consultor.
+¿Y la decisión final? Pues sospecho que por motivos ajenos a los _data driven_ antes citados, acabemos dando por buena ---aunque con reservas--- lo que nos han pasado. Tal es la vida del consultor.

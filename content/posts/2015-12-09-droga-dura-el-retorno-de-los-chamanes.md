@@ -21,7 +21,7 @@ url: /2015/12/09/droga-dura-el-retorno-de-los-chamanes/
 
 He pasado unos días enganchado a [El retorno de los chamanes](http://www.casadellibro.com/libro-el-retorno-de-los-chamanes/9788499424408/2595089), un libro de mi paisano [Víctor Lapuente](https://twitter.com/VictorLapuente).
 
-Es una obra sobre política escrita por un politólogo. Por lo que no habría lugar comentarlo en estas páginas. Pero hay varios motivos por los que sí.
+Es una obra sobre política escrita por un politólogo. Por lo que no habría lugar para comentarlo en estas páginas. Pero hay varios motivos por los que sí.
 
 Vaya por delante que es un libro que me resulta difícil por mi formación y, sobre todo, mi deformación. Soy matemático y durante años mi trabajo ha consistido en abstraer, teorizar, extraer la esencia, crear modelos generales para poder aplicar después el método deductivo. Me han programado para buscar _cierres teóricos_, listas de axiomas de los que se deduzcan razonadamente hasta los más humildes corolarios. He sido educado y socializado durante años para convertirme en chamán.
 

@@ -25,7 +25,7 @@ El Sr. Tufte escribe libros. Los escribe, los edita, los publica y creo que hast
 
 Los márgenes de los libros y otros impresos de Tufte tienen un estilo muy particular. Destacan sus amplios márgenes y sus abundantes notas en ellos. Nada de pies de página, nada de notas al final del capítulo. Cocolocación. No hay mejor sitio para las digresiones, los abundamientos y las referencias al texto principal que el adyacente.
 
-Han aparecido plantillas, p.e., [en LaTeX](http://www.ctan.org/pkg/tufte-latex), para emular su particular manera plasmar —nótese que digo plasmar y no escribir— sus ideas por sobre el papel.
+Han aparecido plantillas, p.e., [en LaTeX](http://www.ctan.org/pkg/tufte-latex), para emular su particular manera de plasmar —nótese que digo plasmar y no escribir— sus ideas por sobre el papel.
 
 Ahora, además, existe una [plantilla de RMarkdown](http://rmarkdown.rstudio.com/tufte_handout_format.html). Que tiene esta pinta:
 

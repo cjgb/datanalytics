@@ -26,7 +26,7 @@ Si tuviese más interés por desarrollar en Windows, le haría una buena revisi�
 
 Y, tras el preámbulo, hago comenzar la sustancia de la entrada:
 
-Este documento explica cómo incorporar código compilado escrito C dentro de un programa interpretado de R. Una de las maneras de hacerlo, la que se explorará aquí, es invocando una DLL escrita en C. Consta de los siguientes apartados:
+Este documento explica cómo incorporar código compilado escrito en C dentro de un programa interpretado de R. Una de las maneras de hacerlo, la que se explorará aquí, es invocando una DLL escrita en C. Consta de los siguientes apartados:
 
 1. ¿Qué es R?
 2. ¿Para qué utilizar código compilado?
@@ -44,7 +44,7 @@ Este documento explica cómo incorporar código compilado escrito C dentro de un
 
 Es posible implementar en pocas líneas de R programas que en C involucrarían algunos cientos de ellas. Además, los programas escritos en R reflejan de una manera más clara los algoritmos estadísticos que implementan, a diferencia de C, que tiende a desdibujarlos. Y es infinitamente más fácil de depurar por ser un lenguaje interpretado. Pero, a la vez, adolece de los problemas típicos de este tipo de lenguajes: es bastante ineficiente -desesperadamente, en ocasiones- para resolver problemas que exigen un alto coste computacional.
 
-Un programador de R curtido conoce los mecanismos que ofrece R -bastante numerosos, hay que decirlo- para evitar muchos de tales cuellos de botella. Por ejemplo, puede resultar del orden de 100 veces más lento sumar las componentes de un vector mediante un bucle a hacerlo usando la función sum(). Desafortunadamente, para ciertas aplicaciones estas opciones no bastan. La solución a este problema pasa, en muchos casos, por incorporar a los programas escritos en R rutinas escritas en otros lenguajes de programación compilados.
+Un programador de R curtido conoce los mecanismos que ofrece R -bastante numerosos, hay que decirlo- para evitar muchos de tales cuellos de botella. Por ejemplo, puede resultar del orden de 100 veces más lento sumar las componentes de un vector mediante un bucle a hacerlo usando la función sum(). Desafortunadamente, para ciertas aplicaciones estas opciones no bastan. La solución a este problema pasa, en muchos casos, por incorporar a los programas escritos en R rutinas desarrolladas en otros lenguajes de programación compilados.
 
 Una de las posibilidades que contempla R es la de utilizar funciones contenidas en una DLL escrita en C y, precisamente, el objeto de esta página es explicar cómo construir la DLL y cómo crear la interfaz adecuada entre ella y R en un entorno Windows.
 
@@ -127,7 +127,7 @@ ubicará el producto escalar de los vectores de dimensión 14 a y b en la variab
 
 1. `func1` es una función de tipo `void`: toda transferencia de datos se realiza a través de sus parámetros; en el caso particular anterior, a través 	del último.
 2. Al pasar datos a la función, hay que forzar la compatibilidad de tipos entre los manejados por R y los que exige la función externa; así, el tipo double de R corresponde a double de C e integer de R a int de C. Una tabla más completa de equivalencias puede consultarse en la documentación de R.
-3. `.C` devuelve una lista a R; para acceder a alguno de sus campos hay que darle un nombre, como se ha hecho en el ejemplo con resultado, y utilizarlo con combinación con el operador $ para transferirlo a una variable interna, producto, en este caso.
+3. `.C` devuelve una lista a R; para acceder a alguno de sus campos hay que darle un nombre, como se ha hecho en el ejemplo con resultado, y utilizarlo en combinación con el operador $ para transferirlo a una variable interna, producto, en este caso.
 
 ### ¿Existen otros procedimientos para incorporar código compilado a R?
 

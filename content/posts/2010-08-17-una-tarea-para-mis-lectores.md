@@ -94,4 +94,4 @@ system.time(res <- sapply(seleccion,
 {{< / highlight >}}
 
 
-¿Qué opción es la mejor? La respuesta, espero, pronto en los comentarios, espero.
+¿Qué opción es la mejor? La respuesta, espero, pronto en los comentarios.

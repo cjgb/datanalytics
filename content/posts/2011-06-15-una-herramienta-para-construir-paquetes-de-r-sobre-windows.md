@@ -31,4 +31,4 @@ Pero Uwe Ligges, el encargado de los paquetes binarios de Windows para CRAN, ha 
 
 Si desarrollar con Windows es una tortura, desarrollar para Windows es... Pero espero que este servicio contribuya a paliar estos males.
 
-**Nota:** ¿he contado alguna vez que la razón última por la que dejé de usar Windows hace muchos años precisamente el poder trabajar con R debidamente?
+**Nota:** ¿he contado alguna vez que la razón última por la que dejé de usar Windows hace muchos años fue precisamente el poder trabajar con R debidamente?

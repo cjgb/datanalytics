@@ -19,7 +19,7 @@ title: Pesadumbre e incertidumbre desencadenadas
 url: /2016/11/10/pesadumbre-e-incertidumbre-desencadenadas/
 ---
 
-Hoy escribo afectado por un derrame de pesadumbre. Pero esa es solo una opinión que igual no importa nadie.
+Hoy escribo afectado por un derrame de pesadumbre. Pero esa es solo una opinión que igual no le importa a nadie.
 
 Estas del 8 de noviembre han sido las elecciones en que menos y que más caso he hecho de las encuestas electorales. Cansado del cada vez más monótono ciclo de que
 

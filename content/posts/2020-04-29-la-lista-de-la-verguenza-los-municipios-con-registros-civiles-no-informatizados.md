@@ -19,7 +19,7 @@ title: 'La lista de la vergüenza: los municipios con registros civiles no infor
 url: /2020/04/29/la-lista-de-la-verguenza-los-municipios-con-registros-civiles-no-informatizados/
 ---
 
-_[Nota: la lista pudiera contener errores. Se ha extraído de un sistema de la informatización o no de los registros civiles está deducida indirectamente.]_
+_[Nota: la lista pudiera contener errores. Se ha extraído de un sistema que informa solo indirectamente de la informatización o no de los registros civiles.]_
 
 Se ha hablado últimamente de las [discrepancias entre los datos de mortalidad del INE y de MoMo](https://datanalytics.com/2020/04/21/defunciones-ine-vs-momo/) y creo que a estas alturas del partido ya sabemos casi todos que se deben a que el segundo sistema solo se nutre de datos de los registros civiles informatizados.
 

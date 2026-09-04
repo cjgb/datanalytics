@@ -22,7 +22,7 @@ url: /2022/11/14/african-dummy/
 
 La cosa es más o menos así: en el 91, a R. Barro, macroeconomista de pro, se le ocurrió publicar
 [_Growth in a cross section of countries_](https://www.jstor.org/stable/2937943).
-En el usó métodos de regresión clásica ---recuérdese: macroeconomista en los 90--- para estudiar qué variables _explicaban_ el desigual crecimiento económico de los países. Se cuenta que el hombre torturó y torturó los datos para que _aquello_ ajustase sin éxito... hasta que introdujo una singular y, por un tiempo, famosa variable: la _African dummy_ , i.e., estar o no estar en África.
+En él usó métodos de regresión clásica ---recuérdese: macroeconomista en los 90--- para estudiar qué variables _explicaban_ el desigual crecimiento económico de los países. Se cuenta que el hombre torturó y torturó los datos para que _aquello_ ajustase sin éxito... hasta que introdujo una singular y, por un tiempo, famosa variable: la _African dummy_ , i.e., estar o no estar en África.
 
 Supe del asunto a través de un artículo que jamás llegué tampoco a comentar y que ha envejecido muy malamente:
 [_I Just Ran Two Million Regressions_](https://www.jstor.org/stable/2950909),

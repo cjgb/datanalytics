@@ -21,7 +21,7 @@ url: /2024/03/05/sobreajuste-modelos-bayesianos/
 Por ese micromundo en el que me muevo, circuló recientemente una polémica sobre si los métodos bayesianos _sobreajustan_ necesaria e irremisiblemente. El desencadenante fue la publicación
 [_Bayes is guaranteed to overfit, for any model, any prior, and every data point_](https://www.yulingyao.com/blog/2023/overfit/) en la que el autor sostiene que, efectivamente:
 
-- Tiene sentido hablar de sobreajuste en modelos bayesianos (a diferencia de lo que sostienen otros argumentando que, como los modelos bayesianos no maximizan ninguna función objetivo, no ha lugar siquiera hablar de sobreajuste).
+- Tiene sentido hablar de sobreajuste en modelos bayesianos (a diferencia de lo que sostienen otros argumentando que, como los modelos bayesianos no maximizan ninguna función objetivo, no ha lugar siquiera a hablar de sobreajuste).
 - Y que, efectivamente, _sobreajustan_.
 
 También reconoce, y eso hay que abonárselo, que otros métodos (MLE en particular) sobreajustan aún más.

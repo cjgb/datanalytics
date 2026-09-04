@@ -26,7 +26,7 @@ En tiempos, al cálculo de los _mejores_ coeficientes para ajustar un conjunto d
 
 Traduzco [de aquí](http://www.math.yorku.ca/SCS/seminar/chron-ls.txt) una breve cronología del problema:
 
-**1632** Galileo Galilei, en el análisis de la supernova de Tycho Brahe's (1572) sugiere que todas las observaciones están sujetas a errores que están simétricamente distribuidos alrededor del cero y que los errores pequeños son más frecuentes que los grandes. Y propone que la mejor hipótesis es aquella con la menor suma de desviaciones absolutas desde el estimador.
+**1632** Galileo Galilei, en el análisis de la supernova de Tycho Brahe (1572) sugiere que todas las observaciones están sujetas a errores que están simétricamente distribuidos alrededor del cero y que los errores pequeños son más frecuentes que los grandes. Y propone que la mejor hipótesis es aquella con la menor suma de desviaciones absolutas desde el estimador.
 
 **1714** El parlamento británico crea la [Junta de Longitud](https://es.wikipedia.org/wiki/Junta_de_Longitud), que ofrecía premios a avances en este campo.
 
@@ -40,7 +40,7 @@ Traduzco [de aquí](http://www.math.yorku.ca/SCS/seminar/chron-ls.txt) una breve
 
 **1787** Laplace extiende el método de Mayer al resolver conjuntos de ecuaciones lineales relacionadas con la órbita de Júpiter.
 
-**1789-1797** Laplace proporciona una formulación algebraica del método de Boskovich's probando que minimiza la suma de errores absolutos. Además, lo extiende al problema de la minimización de una suma ponderada de errores absolutos. También propone minimizar el mayor valor absoluto ([minimax](https://en.wikipedia.org/wiki/Minimax#Minimax_for_individual_decisions)).
+**1789-1797** Laplace proporciona una formulación algebraica del método de Boskovich probando que minimiza la suma de errores absolutos. Además, lo extiende al problema de la minimización de una suma ponderada de errores absolutos. También propone minimizar el mayor valor absoluto ([minimax](https://en.wikipedia.org/wiki/Minimax#Minimax_for_individual_decisions)).
 
 **1805** Legendre publica el método de los mínimos cuadrados en un apéndice de nueve páginas a un trabajo sobre la determinación de las órbitas de los cometas y lo aplica a las medidas de la longitud de arco de meridiano en París.
 

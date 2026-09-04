@@ -23,7 +23,7 @@ url: /2014/03/26/ykmeans-broma-ironia-o-triste-realidad/
 
 Estar suscrito a las actualizaciones de [CRAN](http://cran.r-project.org/) le permite a uno estar al tanto de las novedades de R de otra manera. De vez en cuando uno encuentra pequeños paquetes que le solucionan un problema puntual. Mucho más frecuentemente, la verdad, uno se topa con aplicaciones muy específicas en áreas que le resultan remotas.
 
-Pero uno no espera nunca tropiezar con paquetes que no sabe si clasificar como una broma, una ironía bromas o como algo mucho peor: la constatación de una triste realidad. Es el caso de [`ykmeans`](http://cran.r-project.org/web/packages/ykmeans/index.html).
+Pero uno no espera nunca tropiezar con paquetes que no sabe si clasificar como una broma, una ironía o como algo mucho peor: la constatación de una triste realidad. Es el caso de [`ykmeans`](http://cran.r-project.org/web/packages/ykmeans/index.html).
 
 `kmeans`, el algoritmo rey de lo insupervisado, el univiro del clústering, el motor del `PROC FASTCLUS`, el recurso primero, último y único de quien debería dedicarse a otra cosa,... ¡admitiendo una variable objetivo!
 

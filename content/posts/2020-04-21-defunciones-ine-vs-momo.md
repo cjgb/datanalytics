@@ -24,7 +24,7 @@ url: /2020/04/21/defunciones-ine-vs-momo/
 
 _[Fe de errores: en varias secciones de lo que sigue se hace referencia a 2018 como año completo. En realidad, solo se están usando los datos de los trimestres 2, 3 y 4 de 2018, que es en los que hay solapamiento entre los datos del INE y de MoMo.]_
 
-Es un error tomar las cifras de MoMo literalmente. Está explicado por doquier: MoMo no es el INE sino un sistema de alerta temprana por mortalidad. MoMo es el mejor sistema _rápido_ que existe. El INE es lento (a día de hoy, solo tiene disponibles resultados provisionales de mortalidad del la primera mitad de 2019).
+Es un error tomar las cifras de MoMo literalmente. Está explicado por doquier: MoMo no es el INE sino un sistema de alerta temprana por mortalidad. MoMo es el mejor sistema _rápido_ que existe. El INE es lento (a día de hoy, solo tiene disponibles resultados provisionales de mortalidad de la primera mitad de 2019).
 
 MoMo se basa en los registros civiles _informatizados_ (¿por qué no lo son _todos_ en 2020?). La cobertura del INE es completa.
 

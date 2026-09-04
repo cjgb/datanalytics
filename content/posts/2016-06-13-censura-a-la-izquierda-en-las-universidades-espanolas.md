@@ -22,7 +22,7 @@ url: /2016/06/13/censura-a-la-izquierda-en-las-universidades-espanolas/
 
 (Aviso: esta entrada podría competir dignamente en una competición de titulares engañosos. Es posible que si no sepas de qué hablo regularmente te interese más [esto](http://www.eldiario.es/)).
 
-En España hay pruebas de acceso a la universidad que y [en algunos sitios publican las notas de corte](http://elpais.com/especiales/universidades/) para acceder a determinados estudios. Las he bajado _escrapeando_ El País así
+En España hay pruebas de acceso a la universidad y [en algunos sitios publican las notas de corte](http://elpais.com/especiales/universidades/) para acceder a determinados estudios. Las he bajado _escrapeando_ El País así
 
 {{< highlight R >}}
 library(rvest)

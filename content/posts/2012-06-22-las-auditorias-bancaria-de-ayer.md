@@ -64,7 +64,7 @@ Antes un inciso: para calcular pérdidas crediticias, es uso tradicional calcula
 
 * **PD** o probabilidad de incumplimiento (_default_): la probabilidad de que un determinado préstamo deje de pagarse. Por extensión y aplicación implícita de la ley de los grandes números, el porcentaje de incumplimiento de una cartera.
 * **EAD,** o exposición en el momento del incumplimiento: el saldo vivo del préstamo en la fecha en que se produce el impago.
-* **LGD**, o porcentaje del EAD que se efectivamente se pierde en un impago (dado que es posible que el banco recupere otro porcentaje _ejecutando una garantía_).
+* **LGD**, o porcentaje del EAD que efectivamente se pierde en un impago (dado que es posible que el banco recupere otro porcentaje _ejecutando una garantía_).
 
 Como de las tres siempre me ha gustado más el cálculo de la PD, cuento cómo lo ha hecho Roland Berger:
 

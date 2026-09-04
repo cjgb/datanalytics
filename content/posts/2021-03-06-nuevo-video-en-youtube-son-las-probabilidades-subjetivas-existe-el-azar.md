@@ -26,4 +26,4 @@ El vídeo es
 
 y su objetivo es refutar cierta visión muy extraña de la probabilidad que se oye sostener a cierto tipo de personas de vez en cuando, la de que es un fenómeno subjetivo, acompañado frecuentemente por la todavía más extravagante afirmación de que el azar no existe (salvo, tal vez, en el nivel subatómico).
 
-Y una vez refutada, el en el vídeo vuelvo a _probar_ una versión alternativa de la afirmación anterior, tal vez más ajustada a la realidad tal cual la veo.
+Y una vez refutada, en el vídeo vuelvo a _probar_ una versión alternativa de la afirmación anterior, tal vez más ajustada a la realidad tal cual la veo.

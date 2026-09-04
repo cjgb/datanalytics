@@ -55,7 +55,7 @@ que es el límite de
 
 $$ \frac{-1}{n} \sum_i \log f(x_i)$$
 
-mide el grado de dispersión de una variable aleatoria. Nótese, además, que, tal como está definido la expresión anterior, cuanto mayor sea esta, mayor será la dispersión.
+mide el grado de dispersión de una variable aleatoria. Nótese, además, que, tal como está definida la expresión anterior, cuanto mayor sea esta, mayor será la dispersión.
 
 Ahora, supóngase que de una variable aleatoria solo se sabe que, por ejemplo, es positiva y que su media es 10. De tener que elegir una (por ejemplo, como priori en un tinglado bayesiano), lo más natural sería optar por la menos informativa  (o con mayor dispersión) dentro de aquellas que cumplan dichas condiciones. [La Wikipedia nos dice que es la exponencial](https://en.wikipedia.org/wiki/Maximum_entropy_probability_distribution).
 

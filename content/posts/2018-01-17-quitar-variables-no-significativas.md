@@ -19,7 +19,7 @@ title: ¿Quitar variables no significativas?
 url: /2018/01/17/quitar-variables-no-significativas/
 ---
 
-**Contexto:** modelos de regresión con de varias a muchas variables. Muy particularmente cuando interesa la predicción.
+**Contexto:** modelos de regresión de varias a muchas variables. Muy particularmente cuando interesa la predicción.
 
 **Pseudoproblema:** ¿quitamos las variables no significativas?
 

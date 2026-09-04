@@ -60,11 +60,11 @@ Y la _reducción del 60 % en Nueva Escocia (Canadá)_ se apoya en [un estudio](h
 
 >The rate of helmet use rose dramatically after legislation was enacted, from 36% in 1995 and 38% in 1996, to 75% in 1997, 86% in 1998 and 84% in 1999. The proportion of injured cyclists with head injuries in 1998/99 was half that in 1995/96 (7/443 [1.6%] v. 15/416 [3.6%]) (p = 0.06).
 
-En maldito párrafo se trata el incremento o decremento del uso de la bicicleta en Nueva Escocia.
+En el maldito párrafo se trata el incremento o decremento del uso de la bicicleta en Nueva Escocia.
 
 Y es entretenido seguir comparando las afirmaciones del estudio con los de los artículos de las referencias para descubrir más modos de lecturas interesadas, cuando no directamente inventadas.
 
-Sobre el impacto negativo sobre la salud derivado del menor uso de la biclicleta, suspenderé el juicio en tanto en cuanto no se pruebe más fehacientemente la mayor: que se reduciría el número de ciclistas se obligarse a usar casco. Insisto, no niego que el razonamiento tenga cierta coherencia lógica, pero creo que si el efecto fuese tan patente y significativo, dudo que los autores del estudio se hubiesen visto abocados a tan contumaz ejercicio contorsionismo lógico.
+Sobre el impacto negativo sobre la salud derivado del menor uso de la biclicleta, suspenderé el juicio en tanto en cuanto no se pruebe más fehacientemente la mayor: que se reduciría el número de ciclistas si se obligase a usar casco. Insisto, no niego que el razonamiento tenga cierta coherencia lógica, pero creo que si el efecto fuese tan patente y significativo, dudo que los autores del estudio se hubiesen visto abocados a tan contumaz ejercicio contorsionismo lógico.
 
 Finalmente, el argumento de que el número de cicilistas causa seguridad (por lo tanto, cualquier medida que contribuyese a reducir aquel tendría consecuencias negativas sobre esta) bien podría ser falaz. Que dos fenómenos ocurran juntos, ¿significa que el primero de ellos es causa del otro? ¿O podría ser, más bien, al revés? ¿O que ambos sean consecuencia de un tercero? De hecho, yo entiendo más creíble que sea la seguridad percibida la que invite a pedalear —al menos, intuyo un nexo lógico— a lo contrario, es decir, a que la seguridad sea una propiedad que emane mágicamente de masas de ciclistas. Aunque no me atrevo a ahondar en estas cuestiones relativas a la causalidad en tanto que no haya terminado de leer [el libro de Pearl](http://books.google.es/books/about/Causality.html?hl=es&id=wnGU_TsW3BQC).
 

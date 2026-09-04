@@ -31,7 +31,7 @@ El libro relata una reunión conjunta de ingleses y norteamericanos en la que se
 
 El desencuentro entre ambos grupos es atroz. Y me pregunto: ¿habrá algún precedente literario o artístico anterior de esta tensión, aún no resuelta cuarenta años después? ¿Cuánto tiempo seguirá la _nueva_ escuela considerándose así?
 
-Para terminar, un _spoiler_: uno de los _nuevos_ espías, Lederer, se salta las normas para obtener cierta información valiosa para el curso una investigación. Sin embargo, en lugar de ser premiado como esperaba, es reenviado como castigo de vuelta a la sede de la CIA y se le asigna una tarea oscura en sus sótanos, lejos de la acción. De hecho, lo último que llega a saberse de él en el libro es:
+Para terminar, un _spoiler_: uno de los _nuevos_ espías, Lederer, se salta las normas para obtener cierta información valiosa para el curso de una investigación. Sin embargo, en lugar de ser premiado como esperaba, es reenviado como castigo de vuelta a la sede de la CIA y se le asigna una tarea oscura en sus sótanos, lejos de la acción. De hecho, lo último que llega a saberse de él en el libro es:
 
 >The prescribed calm was eventually found for him in Statistics, and it drove him nearly mad.
 

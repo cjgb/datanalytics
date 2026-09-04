@@ -37,6 +37,6 @@ En un libro más especializado, _Numerical Methods of Statistics_ (de Monahan), 
 
 La función `MASS::rls` (la versión robusta de `lm` en `MASS`) usa IRLS. Sin embargo, mis LS no son lineales. En `robustbase`, un paquete mucho más específico y moderno, la función `nlrob`, que _casi_ hace lo que pretendo, usa `DEoptimR::JDEoptim` para encontrar valores iniciales decentes y el L-`BFGS-B` de `optim` de toda la vida para afinarla.
 
-Así que, en resumen, tengo la sospecha de en estadística deberíamos _aggiornarnos_, deshacernos de IRLS e ir adoptando optimizadores _de caja negra_ decentes que nos proporcionen nuestros colegas los matemáticos aplicados. Pero igual me equivoco.
+Así que, en resumen, tengo la sospecha de que en estadística deberíamos _aggiornarnos_, deshacernos de IRLS e ir adoptando optimizadores _de caja negra_ decentes que nos proporcionen nuestros colegas los matemáticos aplicados. Pero igual me equivoco.
 
 ¿Me leerá algún matemático especialista en la cosa y sin el vicio de la perífrasis que me pueda sacar de dudas?

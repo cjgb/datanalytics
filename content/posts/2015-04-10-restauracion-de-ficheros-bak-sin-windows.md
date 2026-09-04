@@ -30,7 +30,7 @@ Antes de ello hay que generar un _Key Pair_. Para los efectos es un fichero que 
 
 Una vez lanzada la instancia (tal cual se ve en el panel de control de Amazon, sección Instancias), hay que conectarse a ella para lo cual hay que pulsar con el botón derecho del ratón sobre la instancia y hacer lo que las secciones _Get Windows Password_ (allí te servirá el par creado antes) y _Connect_ dan a entender.
 
-IP, usuario y contraseña (que acabamos de obtener) te valdrán de bien poco si la instancia está en modo paranoico (i.e., si no admite conexiones externas). Tendrás que ir a _Security Groups_ (última columna de la pestaña de instancias) dar acceso de entrada (_inbound_) vía RDP (_remote desktop protocol_) cuando menos a tu IP externa.
+IP, usuario y contraseña (que acabamos de obtener) te valdrán de bien poco si la instancia está en modo paranoico (i.e., si no admite conexiones externas). Tendrás que ir a _Security Groups_ (última columna de la pestaña de instancias) para dar acceso de entrada (_inbound_) vía RDP (_remote desktop protocol_) cuando menos a tu IP externa.
 
 (Nota: RDP es [esta basura](http://en.wikipedia.org/wiki/Remote_Desktop_Protocol)).
 

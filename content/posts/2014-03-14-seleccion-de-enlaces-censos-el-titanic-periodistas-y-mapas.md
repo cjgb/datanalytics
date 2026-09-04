@@ -30,6 +30,6 @@ El segundo enlace, [_Hidden Data and Surviving a Sinking Ship: Simpson's Paradox
 
 En [_Make journalists learn statistics_](http://learnandteachstatistics.wordpress.com/2013/01/28/journalists/) se invita a los periodistas a familiarizarse con tres conceptos básicos de la estadística necesarios para su oficio: el azar, la representación de datos y la evidencia. Creo que no solo el periodismo sino muchas otras disciplinas se enriquecerían notablemente si incorporasen en su currículo nociones de _estadística cualitativa_ (pero no _cualquier_ estadística cualitativa, ¿eh?).
 
-Me llama la atención cómo prácticamente todos libros de estadística (para médicos, para ingenieros, etc.) parecen tener como objetivo que sus lectores se conviertan en _fabricantes_ de estadística. Pero que apenas los haya para formar _consumidores_ de estadística. Siendo, como sucede, que al final, los que los siguen, ni fabrican estadística ni la consumen como debieran.
+Me llama la atención cómo prácticamente todos los libros de estadística (para médicos, para ingenieros, etc.) parecen tener como objetivo que sus lectores se conviertan en _fabricantes_ de estadística. Pero que apenas los haya para formar _consumidores_ de estadística. Siendo, como sucede, que al final, los que los siguen, ni fabrican estadística ni la consumen como debieran.
 
 Y el último enlace es apunta a un [tutorial para la creación de mapas con R](http://pakillo.github.io/R-GIS-tutorial/) que no tiene mala pinta.

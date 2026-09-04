@@ -30,7 +30,7 @@ Sin embargo, la superficie de una [zona esférica ](http://es.wikipedia.org/wiki
 [![](/img/2013/12/area_esferica-300x201.png#center)
 ](/img/2013/12/area_esferica.png#center)
 
-Por tanto, es posible muestrear aleatoriamente sobre h (o el rango de h definido por el bb) y para convertir de nuevo esos puntos en grados. El código en R que permite hacer lo anterior es el siguiente:
+Por tanto, es posible muestrear aleatoriamente sobre h (o el rango de h definido por el bb) y convertir de nuevo esos puntos en grados. El código en R que permite hacer lo anterior es el siguiente:
 
 {{< highlight R >}}
 # bb de la península Ibérica

@@ -25,6 +25,6 @@ Supongo que todo el mundo estará enterado de lo que hizo Shannon en 1948: gener
 
 ![Shannon text simulation](/img/2019/01/shannon_text.png#center)
 
-Ahora, [_Generating Hurricanes with a Markov Spatial Process_](https://freakonometrics.hypotheses.org/17113) describe una extensión de la idea original permite simular posibles trayectorias de huracanes.
+Ahora, [_Generating Hurricanes with a Markov Spatial Process_](https://freakonometrics.hypotheses.org/17113) describe una extensión de la idea original que permite simular posibles trayectorias de huracanes.
 
 ![Hurricane Simulation using Markov Processes](/img/2019/01/shannon_huracanes.png#center)

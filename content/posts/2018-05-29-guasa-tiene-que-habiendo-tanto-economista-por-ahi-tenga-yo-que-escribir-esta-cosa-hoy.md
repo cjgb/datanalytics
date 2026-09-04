@@ -29,7 +29,7 @@ Tiene que ver mi entrada de hoy con [_Why did Big Data fail Clinton?_](http://ww
 
 Luego si un equipo de científicos de datos con un clúster de Hadoop es incapaz de llevar a Clinton al despacho oval, poco menos que podemos poner en duda que sus integrantes estén en el lado bueno de la línea que define el retraso mental.
 
-La economía (y Hart y el otro, en particular) nos explican mejor las cosas. Y no solo aquí, sino en muchos otros contextos relevantes. La cuestión tiene que ver con un principal (p.e., un candidato a la Casa Blanca) pone en manos de un agente (p.e., un grupo de científicos de datos) llevar ciertos aspectos de su campaña. Entonces, ¿cuánto mérito cabe atribuir al agente? En particular, la retribución depende del ruido, es decir, de lo problemática que sea la relación entre esfuerzo y éxito a través de una fórmula del tipo
+La economía (y Hart y el otro, en particular) nos explican mejor las cosas. Y no solo aquí, sino en muchos otros contextos relevantes. La cuestión tiene que ver con un principal (p.e., un candidato a la Casa Blanca) que pone en manos de un agente (p.e., un grupo de científicos de datos) llevar ciertos aspectos de su campaña. Entonces, ¿cuánto mérito cabe atribuir al agente? En particular, la retribución depende del ruido, es decir, de lo problemática que sea la relación entre esfuerzo y éxito a través de una fórmula del tipo
 
 ![](/img/2018/05/Betaweights2.png#center)
 

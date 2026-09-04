@@ -26,7 +26,7 @@ Dada una configuración de puntos tal como
 
 puede pensarse que existen dos grupos (_clústers_ los llaman casi todos menos el _neotroll_ de estas páginas y algún otro purista) de puntos organizados alrededor de unas rectas que se adivinan.
 
-Nos planteamos el problema de identificarlas y de asignar los puntos a su respectiva.
+Nos planteamos el problema de identificarlas y de asignar los puntos a su respectiva recta.
 
 Una posible estrategia consiste en construir la verosimilitud asociada al problema y maximizarla. Esa verosimilitud dependería de muchos parámetros:
 

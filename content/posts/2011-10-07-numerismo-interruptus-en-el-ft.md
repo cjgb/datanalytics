@@ -25,7 +25,7 @@ Cuando era menos pobre, antes de la crisis, me desayunaba todos los días con el
 
 Un tipo al que tengo insana envidia es John Authers. Estése o no de acuerdo con su punto de vista, el hecho de que cada mañana sea capaz de poner en negro sobre sepia una columna increíblemente inteligente es motivo sobrado para sentirse internamente reconcomido. Otra periodista de asombroso _insight_ (odio no saber traducir el término al español) es Gillian Tett.
 
-A ambos he tenido ocasión de leer en estos últimos días de maletas y aeropuertos, copia en pequeñito de lo que fue mi vida unos pocos años atrás. Y de _Star Wars money and cyber finance_, la columna de esta última en la edición del 1 de octubre del FT me refiero en esta entrada.
+A ambos he tenido ocasión de leer en estos últimos días de maletas y aeropuertos, copia en pequeñito de lo que fue mi vida unos pocos años atrás. Y de _Star Wars money and cyber finance_, la columna de esta última en la edición del 1 de octubre del FT, me refiero en esta entrada.
 
 Acierta Gillian en traer sobre la mesa un asunto que nosotros, que tal vez sepamos más que ella sobre el asunto, relacionamos con el anumerismo. Se queja con motivo de que cifras (que son dinero) de tanto cero que aparecen en prensa, etc., han dejado de impactar al público, que ha perdido la referencia de lo que es mucho y lo que es poco.
 

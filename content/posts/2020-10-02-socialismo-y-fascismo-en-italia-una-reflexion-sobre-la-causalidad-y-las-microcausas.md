@@ -30,13 +30,13 @@ El artículo, lo de casi siempre: quieres ver si `x1` e `y` están relacionadas,
 
 La literatura de ese alcance y estilo ya no atraviesa el callo.
 
-De todos modos, hago constar que `y` es la emergencia del fascismo en Italia y que `x1` es la victoria de los socialistas en ciertas elecciones previas la fenómeno (lo que lleva a dejar caer a los articulistas a dejar caer subrepticias extrapolaciones acerca de lo que puede hacer surgir y medrar `y` en coyunturas extraitalianas).
+De todos modos, hago constar que `y` es la emergencia del fascismo en Italia y que `x1` es la victoria de los socialistas en ciertas elecciones previas el fenómeno (lo que lleva a dejar caer a los articulistas a dejar caer subrepticias extrapolaciones acerca de lo que puede hacer surgir y medrar `y` en coyunturas extraitalianas).
 
 Y hasta aquí la introducción a la cosa.
 
 Demos por bueno que, vale, en Italia hubo en los años 20 un efecto causal. Pero la causalidad es simplemente una guía para determinar que ciertos procesos se repetirán: si hago A en ciertas condiciones obtendré B. En química, puedo repetir el proceso muchas veces y siempre con similares resultados. Pero, ¿qué sentido tiene decir que en cierta coyuntura histórica una cosa fue causa de la otra (cosa que hemos dado por buena, ya digo, como hipótesis de partida)?
 
-_[Esta pregunta está relacionada con la del sentido de la probabilidad de eventos que no se repiten: ¿en qué sentido podemos decir que la probabilidad de que el Zaragoza no subiese a primera división en la liga 2019-2020 era una u otra la principio de la competición?]_
+_[Esta pregunta está relacionada con la del sentido de la probabilidad de eventos que no se repiten: ¿en qué sentido podemos decir que la probabilidad de que el Zaragoza no subiese a primera división en la liga 2019-2020 era una u otra al principio de la competición?]_
 
 _[Nótese que también he incurrido casi explícitamente en la muy corriente simpleza de hipotetizar una única causa para un fenómeno complejo: el estudio de las _monocausas_ es toda una industria en varias disciplinas académicas .]_
 

@@ -34,7 +34,7 @@ my_prob <- function(x1, x2, a = 0.2, b1 = 1, b2 = -0.5){
 
 predice la probabilidad de un modelo logístico (hipotético) en el que la variable objetivo depende de dos variables, `x1` y `x2` (con los coeficientes que aparecen en el código). Por construcción, no hay interacción.
 
-El código siguiente muestra las diferencias entre la probabilidad estimada al aumentar variar la variable `x2` de 2 a 3 a distintos niveles (-1, 2 y 5) de la variable `x1`.
+El código siguiente muestra las diferencias entre la probabilidad estimada al variar la variable `x2` de 2 a 3 a distintos niveles (-1, 2 y 5) de la variable `x1`.
 
 {{< highlight R >}}
 diff(my_prob(-1, c(2, 3)))

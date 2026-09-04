@@ -38,7 +38,7 @@ Parece, pues, haber motivos teóricos por los que incluir los efectos principale
 
 Porque, ¿de dónde vienen las interacciones?, ¿por qué las usamos? La respuesta es simple: si partimos de un modelo como el primero y observamos que `t` tiene un efecto _significativo_ (en el sentido amplio del término), podemos ---¡debemos!--- preguntarnos si tal vez sea diferente entre los distintos subgrupos de `g`. Para eso introducimos el término de la interacción. Los modelos basados en árboles realizan la comprobación automáticamente: una vez parten por `t`, comienzan a explorar la posible existencia de particiones ulteriores. Con modelos más tradicionales, es uno el que tiene que realizar la comprobación _a mano_.
 
-Introducir interacciones es algo que uno hace no porque dado que existe la posibilidad teórica no hay motivo para no hacerlo. Se hace porque, precisamente, hay motivos para hacerlo. Estos son, precisamente, que existe un efecto principal sólido.
+Introducir interacciones es algo que uno hace no porque existe la posibilidad teórica no hay motivo para no hacerlo. Se hace porque, precisamente, hay motivos para hacerlo. Estos son, precisamente, que existe un efecto principal sólido.
 
 Quiero terminar con una advertencia final: el proceso anterior tiene un peligro de tipo II. Sería posible ---y no es difícil construir datos _ad hoc_--- en los que el efecto principal sea prácticamente nulo pero que, sin embargo, existan importantes diferencias por tratamiento. Sobre lo cual tengo que decir:
 

@@ -21,7 +21,7 @@ title: El z-score es una medida inadecuada de la perplejidad
 url: /2017/12/18/el-z-score-es-una-medida-inadecuada-de-la-perpejidad/
 ---
 
-Tenemos un dato y un valor de referencia. Por ejemplo, el valor predicho por uno modelo y el observado. Queremos medir la distancia entre ambos. ¿En qué unidades?
+Tenemos un dato y un valor de referencia. Por ejemplo, el valor predicho por un modelo y el observado. Queremos medir la distancia entre ambos. ¿En qué unidades?
 
 Antes de eso, incluso, ¿para qué queremos medir esa distancia? Esta es la pregunta fácil: para ver cómo encaja en el modelo propuesto, para ver cómo lo sorprende, para cuantificar la perplejidad.
 

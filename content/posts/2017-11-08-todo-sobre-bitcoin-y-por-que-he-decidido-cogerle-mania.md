@@ -51,7 +51,7 @@ Pero el problema de la concurrencia es un viejo conocido en el mundo de la infor
 
 En el caso de _bitcoin_, los mineros se obligan a solo aceptar un bloque cuando exista prueba fehaciente de que permanecido congelado durante un tiempo aleatorio. Este tiempo aleatorio no puede ser asignado por una (inexistente) autoridad central; obviamente, los nodos tampoco pueden autoasignarse un tiempo de espera aleatorio porque, a diferencia de las tarjetas de _ethernet_ que, se supone, cooperan, juegan en bandos enfrentados, i.e., compiten, y tienen todo el incentivo del mundo para que su espera sea, oh casualidad, siempre cero.
 
-Para obligar a esperar a los nodos, estos reciben problema computacional cuyo tiempo de resolución es aleatorio. El primero en resolverlo publicará su bloque y la solución para dejar constancia de juego limpio. El resto, una vez validado, se lamerá las heridas, desistirá en su empeño, lo considerará añadido al _libro_ y probará fortuna con el siguiente bloque.
+Para obligar a esperar a los nodos, estos reciben un problema computacional cuyo tiempo de resolución es aleatorio. El primero en resolverlo publicará su bloque y la solución para dejar constancia de juego limpio. El resto, una vez validado, se lamerá las heridas, desistirá en su empeño, lo considerará añadido al _libro_ y probará fortuna con el siguiente bloque.
 
 El problema en cuestión, en forma simplificada, consiste en encontrar una solución para la desigualdad
 

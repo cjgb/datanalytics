@@ -35,7 +35,7 @@ El banco ---insisto en el calificativo de benéfico--- podía haber adquirido la
 
 Voy a tratar de ver hasta qué punto es atípico ese valor.
 
-Utilizando el paquete `outliers` de R, podemos aplicar varias pruebas sobre este conjunto de datos para ver hasta qué punto es son plausibles los valores más aparentemente anómalos de la lista. Habría que tener en cuenta que los valores tienen una estructura temporal que tal debiese ser reconocida en el análisis. También que el hecho de ser _anómalo_ depende mucho de la distribución subyacente de los datos (esta frase es sumamente ambigua y espero poder volver sobre ella pronto en este blog) y los métodos que se van a considerar a continuación suponen cierto grado de normalidad (por ejemplo, el de [Grubbs](http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers)).
+Utilizando el paquete `outliers` de R, podemos aplicar varias pruebas sobre este conjunto de datos para ver hasta qué punto son plausibles los valores más aparentemente anómalos de la lista. Habría que tener en cuenta que los valores tienen una estructura temporal que tal debiese ser reconocida en el análisis. También que el hecho de ser _anómalo_ depende mucho de la distribución subyacente de los datos (esta frase es sumamente ambigua y espero poder volver sobre ella pronto en este blog) y los métodos que se van a considerar a continuación suponen cierto grado de normalidad (por ejemplo, el de [Grubbs](http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers)).
 
 Pero ignoraremos ambas consideraciones: de acuerdo con ciertas teorías simplificadoras (que yo simplifico aún más), el precio de un activo sigue una distribución en el tiempo algo así como
 

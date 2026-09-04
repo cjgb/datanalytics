@@ -31,7 +31,7 @@ En otras ciencias, esa eliminación del autor de los predicados es más problem�
 
 _[Tal vez alguien quiera reflexionar aquí sobre esos enunciados anónimos que aparecen en los textos de ciencias sociales como si representasen verdades universales.]_
 
-El caso del artículo es indicio de una aún más extremo: el contenido del artículo se ha dado por malo (y merecedor de una _retracción_) no por lo que pueda decir sino precisamente por ciertos aspectos concernientes a la biografía de sus autores. Lo que se se está dando a entender, lo que la disciplina está reconociendo, es que es incapaz de evaluar la validez interna de las proposiciones que constituyen su contenido teórico.
+El caso del artículo es indicio de una aún más extremo: el contenido del artículo se ha dado por malo (y merecedor de una _retracción_) no por lo que pueda decir sino precisamente por ciertos aspectos concernientes a la biografía de sus autores. Lo que se está dando a entender, lo que la disciplina está reconociendo, es que es incapaz de evaluar la validez interna de las proposiciones que constituyen su contenido teórico.
 
 Más en general, obtenemos todavía más evidencias sobre cómo _el consenso_ en una de esas  _ciencias_ en que los autores (algunos los llaman _agentes operatorios_) _no salen de la ecuación_ durante el proceso de producción científica nos enseñan tanto o más sobre los sesgos ideológicos preponderantes entre quienes las practican que sobre el fenómeno objeto de sus investigaciones.
 

@@ -18,7 +18,7 @@ title: ¿Dónde están aquellos caballeros andantes?
 url: /2014/12/11/donde-estan-aquellos-caballeros-andantes/
 ---
 
-Pues precedidos del mi favorito de todos ellos, Felixmarte de Hircania, el del desnudo brazo, en
+Pues precedidos de mi favorito de todos ellos, Felixmarte de Hircania, el del desnudo brazo, en
 
 [![felixmarte](/img/2014/12/felixmarte.png#center)
 ](/img/2014/12/felixmarte.png#center)

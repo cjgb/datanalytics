@@ -20,7 +20,7 @@ title: ¿Tartas? No gracias
 url: /2011/03/02/tartas-no-gracias/
 ---
 
-Voy a dejar aquí escrito mi argumento. Para que conste. Para tener que repetirlo cada vez que un _exceladicto_ osa objetar. Por pereza. Para no tener sino que dar el enlace y pasar a otra cosa. Porque vamos para la primavera y es mejor dedicar el tiempo a cosas mejores que a dar vueltas sobre el mismo asunto.
+Voy a dejar aquí escrito mi argumento. Para que conste. Para no tener que repetirlo cada vez que un _exceladicto_ osa objetar. Por pereza. Para no tener sino que dar el enlace y pasar a otra cosa. Porque vamos para la primavera y es mejor dedicar el tiempo a cosas mejores que a dar vueltas sobre el mismo asunto.
 
 El uso de tartas para visualizar fracciones está sancionado ([acepción segunda](http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&LEMA=sancionar)) por la escuela básica: ¿quién no las vio representadas en una pizarra cuando oyó por primera vez en su vida mencionar las palabras _tres octavos_,  _numerador_ y _denominador_? El que la formación matemática de muchos no llegase mucho más lejos unido a su prominente presencia en el endiosado Excel ha perpetuado su uso en los negocios y publicaciones para el gran público.
 

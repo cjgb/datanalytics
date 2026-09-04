@@ -85,7 +85,7 @@ que indica (y `summary(impact)` cuantifica) cómo, de acuerdo con los tejemaneje
 
 Y ahora, las concomitancias:
 
-* Esta entrada debe mucho a una alumna mía que prefiere cuyo nombre prefiere que no figure porque trabaja en una empresa del susodicho grupo.
+* Esta entrada debe mucho a una alumna mía cuyo nombre prefiere que no figure porque trabaja en una empresa del susodicho grupo.
 * La causalidad es problemática y pudiera ser, incluso, en dirección contraria (que la muerte se debiese a...)
 * Abundando en lo anterior, dada la complejidad del mundo en que vivimos, es plausible que la causa fuese otra.
 * Me habría sentido más cómodo [estudiando `diff(cotizaciones)` en lugar de `cotizaciones`](https://datanalytics.com/2016/04/11/y-viene-del-espanol-tu/), pero en tal caso el p-valor se crece más allá del 0.05.

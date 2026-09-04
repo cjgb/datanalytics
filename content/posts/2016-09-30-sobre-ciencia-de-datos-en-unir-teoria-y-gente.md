@@ -21,7 +21,7 @@ url: /2016/09/30/sobre-ciencia-de-datos-en-unir-teoria-y-gente/
 
 Hoy (jueves) he participado en un _desayuno de trabajo_ organizado en la [UNIR](http://www.unir.net/) como pistoletazo de salida a un curso de inteligencia artificial en el que tendré una pequeña participación.
 
-Nos ha tocado presentarnos a todos (había gente de Telefónica, Santander, Mapfre, Siemens, etc.) y según avanzaba la ronda han ido superándose peligrosamente las dosis máximas diarias establecidas por la OMS para la el impacto auditivo de palabras tales como disruptivo, futuro, innovación, coche autónomo, fabuloso y nosotros.
+Nos ha tocado presentarnos a todos (había gente de Telefónica, Santander, Mapfre, Siemens, etc.) y según avanzaba la ronda han ido superándose peligrosamente las dosis máximas diarias establecidas por la OMS para el impacto auditivo de palabras tales como disruptivo, futuro, innovación, coche autónomo, fabuloso y nosotros.
 
 Creo que habrá vídeo en alguna parte. Por si no, transcribo lo que (recuerdo que) he dicho:
 
@@ -33,7 +33,7 @@ Creo que habrá vídeo en alguna parte. Por si no, transcribo lo que (recuerdo q
 >
 >Todo el mundo habla de muchas cosas, pero siempre omiten dos: teoría y gente. Estamos en una universidad y es el sitio para hablar de teoría, aunque vengamos de empresas. Mañana iré a la Carlos III y allí sí que discutiré si es relevante o no enseñar la integral de Lebesgue a un alumno de un máster de ingeniería matemática. Pero aquí sí me veo obligado a insistir en el discurso contrario.
 >
->Habéis hablado de modelos actuariales pero cada vez que hablo con un colega actuario, me cuenta que usan GLM. ¡GLM! Esos son modelos de 1972. Yo aún no había nacido. ¿No se ha hecho nada nuevo desde que llevo sobre la faz de la tierra? Habéis hablado de segmentación de clientes; pero seguro que habéis usando k-medias, que es un algoritmo que tiene sesenta años o más.
+>Habéis hablado de modelos actuariales pero cada vez que hablo con un colega actuario, me cuenta que usan GLM. ¡GLM! Esos son modelos de 1972. Yo aún no había nacido. ¿No se ha hecho nada nuevo desde que llevo sobre la faz de la tierra? Habéis hablado de segmentación de clientes; pero seguro que habéis usado k-medias, que es un algoritmo que tiene sesenta años o más.
 >
 >Del otro lado, están los _script kiddies_, gente que se encuentra modelos avanzados empaquetados (llámense redes neuronales o `xgboost`) y lo aplican ciegamente, como pollos sin cabeza.
 >

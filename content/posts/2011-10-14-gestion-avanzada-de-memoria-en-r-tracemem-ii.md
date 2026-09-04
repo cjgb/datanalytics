@@ -49,7 +49,7 @@ tracemem(z)
 
 En este caso, no se copia el objeto: solo se modifica una de las entradas del mismo.
 
-Pero, ¿por qué en este segundo ejemplo no hay copia y el en primero sí? El motivo es el tipo de almacenamiento interno de R:
+Pero, ¿por qué en este segundo ejemplo no hay copia y en el primero sí? El motivo es el tipo de almacenamiento interno de R:
 
 
 {{< highlight R >}}

@@ -19,7 +19,7 @@ title: Más allá del teorema central del límite
 url: /2014/10/21/mas-alla-del-teorema-central-del-limite/
 ---
 
-Uno espera la media de un número suficiente de variables aleatorias razonablemente [iid](http://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables) tenga una distribución normal. Uno casi espera siempre obtener ese aburrido histograma cada vez que remuestrea medias. La gente dice que el teorema central del límite rige necesariamente cuando su tamaño muestral es del orden de magnitud del bruto anual de un gerifalte. Etc.
+Uno espera que la media de un número suficiente de variables aleatorias razonablemente [iid](http://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables) tenga una distribución normal. Uno casi espera siempre obtener ese aburrido histograma cada vez que remuestrea medias. La gente dice que el teorema central del límite rige necesariamente cuando su tamaño muestral es del orden de magnitud del bruto anual de un gerifalte. Etc.
 
 Pero a veces uno tropieza con distribuciones _bootstrap_ tales como
 

@@ -42,4 +42,4 @@ Es como si estas disciplinas, en lo que a actualizaciones metodológicas se refi
 
 ### IV.
 
-Por eso se me ha ocurrido que sería bienvenida de muchos la revista _Rolling Journal of Sociology_. Sobre la que, a la vista de lo precedente, poco tengo que añadir.
+Por eso se me ha ocurrido que sería bienvenida por muchos la revista _Rolling Journal of Sociology_. Sobre la que, a la vista de lo precedente, poco tengo que añadir.

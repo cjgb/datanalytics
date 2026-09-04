@@ -28,7 +28,7 @@ Reproduzco de [aquí](https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayu
 >
 > A través de esta iniciativa de convocatoria virtual se persigue el objetivo de promover un desarrollo colaborativo de ideas y soluciones tecnológicas para paliar los efectos de la COVID-19 en ámbitos tales como la movilidad y la forma de relacionarse, la economía y la prestación de servicios municipales a los ciudadanos.
 >
-> Las soluciones puede ser aplicaciones, visualizadores, sistemas de diagnóstico y predictivos, sistemas de alertas, de información o concienciación, de seguimiento de indicadores, etc.
+> Las soluciones pueden ser aplicaciones, visualizadores, sistemas de diagnóstico y predictivos, sistemas de alertas, de información o concienciación, de seguimiento de indicadores, etc.
 >
 > El denominador común de todas ellas es el aprovechamiento y explotación de los datos disponibles o que se puedan generar para tomar mejores decisiones y adelantarse a sus consecuencias, evitando así riesgos de nuevos rebrotes que vuelvan a activar alertas sanitarias, económicas y sociales.
 >

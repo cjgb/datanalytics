@@ -83,7 +83,7 @@ Pero nótese que hay un tipo de inconsistencia lógica en el argumento anterior:
 
 1. Apreciamos una diferencia en las medias
 2. Planteamos la _hipótesis nula_ de que no la hay.
-3. Suponemos que eliminando las etiquetas obtener una representación de cómo sería la distribución de la diferencia de medias bajo dicha hipótesis inicial, i.e., que verifica la hipótesis nula anterior.
+3. Suponemos que eliminando las etiquetas se obtiene una representación de cómo sería la distribución de la diferencia de medias bajo dicha hipótesis inicial, i.e., que verifica la hipótesis nula anterior.
 4. ¡Llegamos a la conclusión de que las medias son distintas!
 
 Nótese que el último punto está en conflicto con el penúltimo. Si se da por bueno que las medias son distintas, la población sin etiquetas no es representativa de cómo sería bajo la hipótesis nula. Esa diferencia de medias se manifestará en alguna parte: ¿mayor varianza de la esperada, acaso?

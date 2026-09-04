@@ -22,8 +22,7 @@ Como curioso que soy, por el interés que tengo en la materia y porque nunca, nu
 
 Ahí van pues mis números.
 
-Primero, he buscado en Internet las [especificaciones técnicas de un aerogenerador al azar ](http://www.construnario.com/ebooks/9482/Aerogeneradores/Ecot%C3%A8cnia%2062/files/publication.pdf)de las que he extraído la siguiente información:
-
+Primero, he buscado en Internet las [especificaciones técnicas de un aerogenerador al azar ](http://www.construnario.com/ebooks/9482/Aerogeneradores/Ecot%C3%A8cnia%2062/files/publication.pdf) de las que he extraído la siguiente información:
 
 * que la torre, la componente más pesada, contiene unas 150 toneladas de acero y
 * que la potencia máxima del aerogenerador es de 1300 kW.
@@ -32,6 +31,6 @@ Por otro lado, he averiguado que [elaborar una tonelada de acero requiere 600 kg
 
 Así que si la torre pesa 150 toneladas, fundir tal cantidad de acero requiere 90 toneladas de carbón, es decir, 900.000 kWh.
 
-Si la torre produce 1.000 kW por hora, serían necesarias 900 horas a pleno rendimiento, unos 40 días, para que este generase la energía que compense la de (gran parte de) su construcción. Si [el rendimiento de un aerogenerador es del 10%](https://demanda.ree.es/eolica.html) [y no del 25%](http://www.ree.es/sistema_electrico/pdf/infosis/Inf_Sis_Elec_REE_2009_SistemaPeninsular04.pdf), en promedio se puede estimar a ojo que en un contexto más realista una torre se autojustifica energéticamente en el plazo de un año algo menos de medio año, dentro del orden de magnitud de la estimación del periódico. ¡Por una vez! Aunque debe notarse que ésta es únicamente una cota inferior dado que se han omitido otros costes energéticos (góndola, aspas, transporte, etc.).
+Si la torre produce 1.000 kW por hora, serían necesarias 900 horas a pleno rendimiento, unos 40 días, para que este generase la energía que compense la de (gran parte de) su construcción. Si [el rendimiento de un aerogenerador es del 10%](https://demanda.ree.es/eolica.html) [y no del 25%](http://www.ree.es/sistema_electrico/pdf/infosis/Inf_Sis_Elec_REE_2009_SistemaPeninsular04.pdf), en promedio se puede estimar a ojo que en un contexto más realista una torre se autojustifica energéticamente en el plazo de poco más de un año, dentro del orden de magnitud de la estimación del periódico. ¡Por una vez! Aunque debe notarse que ésta es únicamente una cota inferior dado que se han omitido otros costes energéticos (góndola, aspas, transporte, etc.).
 
 **Nota:** he introducido modificaciones en el último párrafo por un error mío (producto de la pereza al no contrastar adecuadamente ciertos datos) advertido por uno de mis lectores (véanse los comentarios al artículo). Tengo que señalar que la eficiencia del 25% no la he podido deducir de la información de los enlaces que me ha indicado (¿habré mirado mal?) aunque sí en [este documento de REE](http://www.ree.es/sistema_electrico/pdf/infosis/Inf_Sis_Elec_REE_2009_SistemaPeninsular04.pdf) en el que he dividido la producción eólica total del 2009 en España por el número de horas del año y por la capacidad instalada media (promedio de la existente a finales del 2008 y del 2009).

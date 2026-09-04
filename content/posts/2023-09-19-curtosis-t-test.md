@@ -40,7 +40,7 @@ donde $-1 < \beta < 1$ y la normal se recupera cuando $\beta = 1$. El perfil de 
 
 Y prácticamente, todo lo que queda por decir es:
 
-- Esta solución para hacer más robusto el t-test frente a desviaciones de la normal no parece haber calado tanto como la alternativa (usando la distribución t); de hecho, ---salvo error u omisión por mi parte--- no a parece en la lista de distribuciones disponibles para simular en Numpyro, Stan o similares.
+- Esta solución para hacer más robusto el t-test frente a desviaciones de la normal no parece haber calado tanto como la alternativa (usando la distribución t); de hecho, ---salvo error u omisión por mi parte--- no aparece en la lista de distribuciones disponibles para simular en Numpyro, Stan o similares.
 - Tal vez porque la _sobrecurtosis_ (el problema para el que recurrir a la distribución t está indicado) es más común que la _infracurtosis_ (que la distribución de Box y Tiao contempla).
 - De todos modos, la discusión sobre esta distribución atenta contra el espíritu de la entrada de Frank Harrell: allí se reclamaba prestar atención a la especificación del modelo. Lo cual se puede entender de dos maneras hasta cierto punto contradictorias: una, extender la clase de distribuciones a considerar en el problema ---recurriendo, por ejemplo, a la de Box y Tiao---. Pero una interpretación más fiel al espíritu de lo que se reclama es hacer un esfuerzo por determinar la distribución _verdadera_ a la que responden los datos.
 

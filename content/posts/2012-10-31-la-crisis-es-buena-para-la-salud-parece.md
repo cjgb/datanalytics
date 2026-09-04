@@ -29,7 +29,7 @@ Y eso debería llamar la atención de nuestros lectores. Al menos, de aquellos q
 
 $$ L = \lambda W,$$
 
-donde L es el número de clientes que hay una tienda, W el tiempo medio que pasan en ella y $\lambda$ la tasa promedio a la que entran.
+donde L es el número de clientes que hay en una tienda, W el tiempo medio que pasan en ella y $\lambda$ la tasa promedio a la que entran.
 
 En nuestro contexto, L sería el número de pacientes _encolados_ (dato), W el tiempo medio hasta el tratamiento (dato) y $\lambda$ el ritmo al que la gente cae enferma.
 

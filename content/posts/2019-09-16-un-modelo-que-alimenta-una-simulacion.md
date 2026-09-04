@@ -27,7 +27,7 @@ Tenemos en Circiter un proyecto sobre el que no puedo dar muchos detalles, pero 
 
 El modelo no va a ser un modelo sino un modelo por sujeto ([rebaños](https://datanalytics.com/2014/08/15/mascotas-y-rebanos/), los llamamos aquí). Los modelos serán, casi seguro, modelos mixtos (`lmer`/`glmer`).
 
-Pero claro, si usas un modelo, por muy mixto que sea, con intención de simular, `predict` se queda muy corto (¡siempre da la el mismo resultado!).
+Pero claro, si usas un modelo, por muy mixto que sea, con intención de simular, `predict` se queda muy corto (¡siempre da el mismo resultado!).
 
 ![](/img/2019/09/dilbert.jpg)
 

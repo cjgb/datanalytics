@@ -92,4 +92,4 @@ x -0.780
 
 Como se puede ver, no solo se recuperan (aproximadamente) los coeficientes originales, sino que tenemos estimaciones bastante precisas (0.52 vs 0.5) de la desviación estándar del error del término lineal.
 
-Y aunque pensaba que esta iba a ser la última de las entradas de las serie, creo que la voy a cerrar otro día con una adicional sobre los intervalos de predicción.
+Y aunque pensaba que esta iba a ser la última de las entradas de la serie, creo que la voy a cerrar otro día con una adicional sobre los intervalos de predicción.

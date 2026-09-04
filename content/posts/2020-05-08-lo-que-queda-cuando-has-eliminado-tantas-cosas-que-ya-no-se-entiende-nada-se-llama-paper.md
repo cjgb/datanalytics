@@ -23,7 +23,7 @@ title: Lo que queda cuando has eliminado tantas cosas que ya no se entiende nada
 url: /2020/05/08/lo-que-queda-cuando-has-eliminado-tantas-cosas-que-ya-no-se-entiende-nada-se-llama-paper/
 ---
 
-Para un observador externo objetivo, eso que llaman ciencia es un conjunto de tinglados absolutamente intrascendente en para su día a día que opera de acuerdo con un sistema torcido de incentivos orquestados alrededor de una suerte de moneda ficticia que se llama _paper_ que permite acumular _avatares_ de todo tipo.
+Para un observador externo objetivo, eso que llaman ciencia es un conjunto de tinglados absolutamente intrascendente para su día a día que opera de acuerdo con un sistema torcido de incentivos orquestados alrededor de una suerte de moneda ficticia que se llama _paper_ que permite acumular _avatares_ de todo tipo.
 
 Esa economía ficticia mantiene nexos con la real. Por ejemplo, una acumulación suficiente de _papers_ genera un _avatar_ llamado sexenio que genera euros contantes y sonantes mes a mes en la cuenta corriente de quien lo ostenta. En ocasiones, también, los partícipes de ese enorme Monopoly pagan euros contantes y sonantes a terceros a condición de que estos elaboren _papers_ (o partes significativas de ellos) para poder así firmarlos y canjearlos en el mercado de los _avatares_.
 

@@ -35,4 +35,4 @@ Pero he tropezado con insalvables dificultades semánticas para desnaturalizar e
 
 en el que se desdibujan horrendamente las proporciones peninsulares me haría imputable. Honestamente no lo sé.
 
-Por eso pregunto a mis lectores: ¿se le ocurre a alguno manera aviesa de desnaturalizar tablas, mapas y gráficos? ¿Ninguno quiere, como yo, emular las hazañas del Vaquilla o del Jaro y darles quehacer a los picoletos?
+Por eso pregunto a mis lectores: ¿se le ocurre a alguno una manera aviesa de desnaturalizar tablas, mapas y gráficos? ¿Ninguno quiere, como yo, emular las hazañas del Vaquilla o del Jaro y darles quehacer a los picoletos?

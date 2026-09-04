@@ -25,12 +25,8 @@ Leí un chiste el otro día: aparecía el ministro de economía de Grecia en su 
 
 Ahora nos enteramos de que [Cataluña maquilló el resultado del examen de PISA](http://www.elpais.com/articulo/sociedad/Cataluna/maquillo/resultado/examen/PISA/educacion/elpepisoc/20111026elpepisoc_4/Tes) a la educación:
 
-
-
 >Un logro educativo bajo sospecha: Cataluña, que en la prueba PISA de 2009 mejoró sus resultados anteriores hasta igualar la media de la OCDE y superar la nota obtenida por sus compañeros del resto de España, maquilló la muestra de alumnado más allá de lo que estipula la OCDE, de forma que infrarrepresentó a los escolares inmigrantes y repetidores de la comunidad.
 
-
-
-¿Es culpa de la estadística? Obviamente no. Si hubo manipulación, esta fue promovida por (ciertos) los poderes públicos. Pero, ¿fue la culpa de los estadísticos? Estoy seguro de que sí: ¿ninguno se plantó y protestó? ¿Todos acataron las instrucciones de arriba? ¿Habrán hojeado el [código deontológico del International Statistical Institute](http://isi-web.org/about/declarationprofessionalethics-2010uk)?
+¿Es culpa de la estadística? Obviamente no. Si hubo manipulación, esta fue promovida por ciertos poderes públicos. Pero, ¿fue la culpa de los estadísticos? Estoy seguro de que sí: ¿ninguno se plantó y protestó? ¿Todos acataron las instrucciones de arriba? ¿Habrán hojeado el [código deontológico del International Statistical Institute](http://isi-web.org/about/declarationprofessionalethics-2010uk)?
 
 Un estadístico no es un operario que tenga que decir que sí a la primera corbata escalafonada. ¿Imagináis qué pasaría si fuese un médico al que _invitasen a proporcionar un tratamiento inferior a un enfermo?_

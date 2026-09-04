@@ -69,4 +69,4 @@ produc.m
 {{< / highlight >}}
 
 
-El próximo día nos ocuparamos de su función compañera, `cast`.
+El próximo día nos ocuparemos de su función compañera, `cast`.

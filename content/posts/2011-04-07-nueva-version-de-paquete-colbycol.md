@@ -26,6 +26,6 @@ Es típico que R necesite tres veces más RAM que el tamaño del fichero de text
 
 El paquete `colbycol` permite realizar la trasposición en disco: usa Java para leer el fichero de entrada línea a línea y guarda cada registro en un fichero de texto distinto. Luego R lee los ficheros de texto (que corresponden a las columnas) individualmente. El objeto que se crea finalmente guarda metadatos sobre los ficheros temporales que se crean. Y es posible construir `data.frames` habituales a partir de ellos.
 
-En la página del paquete ofrezco un paseo completo por las distintas que va desde la creación de un fichero grande a su lectura en R.
+En la página del paquete ofrezco un paseo completo por las distintas etapas que va desde la creación de un fichero grande a su lectura en R.
 
 Invito a mis lectores a echarle un vistazo y espero que a alguno de ellos le resuelva alguna vez alguno de esos problemas tan odiosos que plantea la lectura de ficheros de texto descomunales.

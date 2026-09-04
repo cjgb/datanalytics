@@ -22,7 +22,7 @@ title: Modelos mixtos para preprocesar datos en un sistema de recomendación de 
 url: /2016/03/18/modelos-mixtos-para-preprocesar-de-datos-en-un-sistema-de-recomendacion-de-drogas/
 ---
 
-Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado ([aquí](http://slatestarcodex.com/2016/03/01/2016-nootropics-survey-results/)) un [conjunto datos](/uploads/recomendador_drogas.xlsx) muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— [nootrópicos](https://es.wikipedia.org/wiki/Nootr%C3%B3picos).
+Sí, de drogas de las que mantienen despierto al lumpenazgo. Porque he encontrado ([aquí](http://slatestarcodex.com/2016/03/01/2016-nootropics-survey-results/)) un [conjunto de datos](/uploads/recomendador_drogas.xlsx) muy interesante sobre la valoración que una serie de personas, unas 900, da a una serie de drogas más o menos legales que se llaman —me acabo de enterar— [nootrópicos](https://es.wikipedia.org/wiki/Nootr%C3%B3picos).
 
 El gráfico
 

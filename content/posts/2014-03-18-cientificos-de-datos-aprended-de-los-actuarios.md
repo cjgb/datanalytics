@@ -27,6 +27,6 @@ Yo creo que ningún actuario sabe qué es el [RMSE](http://en.wikipedia.org/wiki
 
 Muchos científicos de datos, igual que los actuarios, trabajan con datos que se refieren a personas: cuánto tardarán mis clientes en volver a entrar por la puerta, cuánto comprarán en los próximos meses, etc. Pero la ciencia de los datos, mucho más reciente que la actuarial, peca del ímpetu y la fogosidad propia de los jóvenes y aspira a acertar individuo por individuo cuánto y cuándo. ¡Ay si no!
 
-La ciencia de los datos madurará y se volverá más como la actuarial. Los científicos de datos tienen, tenemos, mucho que aprender de los actuarios. Entre otras cosas, tenemos que sacudirnos de encima el _fetichismo de la precisión_. Tenemos que asumir que los seres humanos cuyo comportamiento aspiramos predecir, gozan de albedrío y están sujetos a circunstancias que nuestros modelos de diez variables y siete parámetros no recogen.
+La ciencia de los datos madurará y se volverá más como la actuarial. Los científicos de datos tienen, tenemos, mucho que aprender de los actuarios. Entre otras cosas, tenemos que sacudirnos de encima el _fetichismo de la precisión_. Tenemos que asumir que los seres humanos cuyo comportamiento aspiramos a predecir, gozan de albedrío y están sujetos a circunstancias que nuestros modelos de diez variables y siete parámetros no recogen.
 
-Tenemos, en definitiva, dejar de llamar errores a las desviaciones con respecto a nuestras predicciones, asumirlas como fluctuaciones naturales y, como los actuarios, elaborar sobre ellas.
+Tenemos, en definitiva, que dejar de llamar errores a las desviaciones con respecto a nuestras predicciones, asumirlas como fluctuaciones naturales y, como los actuarios, elaborar sobre ellas.

@@ -25,6 +25,6 @@ R es un lenguaje oportunista: ni del todo funcional, ni del todo orientado a obj
 
 R continúa teniendo importantes elementos funcionales: de siempre ha contado con funciones como `apply` y sus amigas. Existen incluso `Reduce`, `Filter` y otras habituales en lenguajes funcionales puros. Los paquetes `plyr` y `dplyr` abundan en los aspectos funcionales del lenguaje.
 
-El paquete `purrr` nos trae nuevas funciones, tales como `map` (y algunas derivadas, como `map_dbl` o `map_int`) y `zip`, más azúcar sintáctico y motivos adicionales para que nos pasemos —aunque algunos nos resistamos— el feísimo operador `%>%`. Hay más información [aquí](http://blog.rstudio.org/2015/09/29/purrr-0-1-0/).
+El paquete `purrr` nos trae nuevas funciones, tales como `map` (y algunas derivadas, como `map_dbl` o `map_int`) y `zip`, más azúcar sintáctico y motivos adicionales para que nos pasemos —aunque algunos nos resistamos— al feísimo operador `%>%`. Hay más información [aquí](http://blog.rstudio.org/2015/09/29/purrr-0-1-0/).
 
 Hay gente que me llama para que enseñe cursos de R. Dentro de muy poco tendré que responderles: ¿pero qué dialecto de R quieres aprender?

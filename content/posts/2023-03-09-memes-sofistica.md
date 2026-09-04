@@ -22,7 +22,7 @@ url: /2023/03/09/memes-sofistica/
 
 ## I. Memes
 
-Dice la Wikipedia que un meme es _es la unidad teórica más pequeña de información cultural1​ transmisible de un individuo a otro, de una mente a otra, o de una generación a la siguiente_. Sin embargo, suelen conocerse como _memes_ solo aquellos memes que, por algún motivo, debido a algún tipo de característica particular ---tanto intrínseca como del cuerpo social en el que se mueven--- se difunden _como un virus_. Diríase que cobran vida propia y se expanden independientemente de la voluntad o intención de sus creadores.
+Dice la Wikipedia que un meme es _la unidad teórica más pequeña de información cultural1​ transmisible de un individuo a otro, de una mente a otra, o de una generación a la siguiente_. Sin embargo, suelen conocerse como _memes_ solo aquellos memes que, por algún motivo, debido a algún tipo de característica particular ---tanto intrínseca como del cuerpo social en el que se mueven--- se difunden _como un virus_. Diríase que cobran vida propia y se expanden independientemente de la voluntad o intención de sus creadores.
 
 Memes hay de muchos tipos y el 99% de ellos no les interesan a estas líneas. Los que sí son los de tipo estadístico: aquellos que contienen cifras, resultados de análisis, los llamados _hechos destilados_, etc. Podrían incluirse en esta categoría otros que tengan que ver con pretendidas relaciones causales.
 

@@ -23,7 +23,7 @@ url: /2026/05/26/cortos-ciencia/
 
 [Este artículo](https://americanaffairsjournal.org/2026/02/why-are-american-passenger-trains-slow/) explica detalladamente por qué los trenes de pasajeros en EEUU son tan lentos. En resumen: el uso principal de las líneas de ferrocarril determina su diseño y si aquel es el tráfico de mercancías ---como en EEUU--- el de pasajeros se resiente.
 
-Supongo que todo el mundo está al tanto del ["cartel de citas de Elsevier"](https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation): en una serie de revistas de finanzas operaba un grupo, recientemente desmantelado, que traficaba con el "dinero de Monopoly" con el que se se opera en la academia: citas y todas esas cosas. Véase el artículo enlazado para los detalles.
+Supongo que todo el mundo está al tanto del ["cartel de citas de Elsevier"](https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation): en una serie de revistas de finanzas operaba un grupo, recientemente desmantelado, que traficaba con el "dinero de Monopoly" con el que se opera en la academia: citas y todas esas cosas. Véase el artículo enlazado para los detalles.
 
 [Una entrevista con el singular matemático Morris Kline](https://vocal.media/futurism/morris-kline-interview).
 

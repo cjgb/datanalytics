@@ -34,7 +34,7 @@ Las cifras más relevantes del estudio son las del coste (en términos del valor
 
 Visto de otra manera: si el mundo contratase una hipoteca por valor de 18.000 millardos de dólares con un tipo de interés del 5% a un plazo de 25 para pagar el coste del escenario 450, la cuota mensual sería de 105 millardos de dólares (y la anual de 1250 millardos, ligeramente superior al PIB de Australia).
 
-El gráfico siguiente ilustra el esfuerzo que habría de realizarse, especialmente en lo que concierne al la intensidad de generación de CO2 en la generación de electricidad.
+El gráfico siguiente ilustra el esfuerzo que habría de realizarse, especialmente en lo que concierne a la intensidad de generación de CO2 en la generación de electricidad.
 
 
 [![](/img/2011/02/esfuerzo_escenario_450.png#center)

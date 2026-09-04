@@ -81,7 +81,7 @@ que produce
 
 En esta la segunda (tercera si se tiene en cuenta la del inciso) oración de la entrada, me pregunto cómo calcular el popular AUC, el área bajo esa curva (o la de la habitual, que es, en cualquier caso, la de la misma región). Puedo hacer cuadraturas, pero también puedo seleccionar puntos al azar en el cuadrado y calcular la proporción de los que caen en la zona de interés.
 
-Muestrear el cuadrado es muestrear [0,1] uniformemente para las `x` por un lado `y` para las y por el otro. Pero las `x`, por ejemplo, son el rango de `ecdf(sies$prob)` y muestrearlo uniformemente es (de hecho, la manera canónica de) muestrear los `sies$prob`. Lo mismo rige para las `y`. Y que el punto del plano elegido al azar quede por debajo de la curva significa entonces a que el valor muestreado de `sies$prob` sea mayor que el de `noes$prob`. Así que
+Muestrear el cuadrado es muestrear [0,1] uniformemente para las `x` por un lado `y` para las y por el otro. Pero las `x`, por ejemplo, son el rango de `ecdf(sies$prob)` y muestrearlo uniformemente es (de hecho, la manera canónica de) muestrear los `sies$prob`. Lo mismo rige para las `y`. Y que el punto del plano elegido al azar quede por debajo de la curva significa entonces que el valor muestreado de `sies$prob` sea mayor que el de `noes$prob`. Así que
 
 {{< highlight R >}}
 foo <- function(x) sample(x, 1e6, replace = TRUE)

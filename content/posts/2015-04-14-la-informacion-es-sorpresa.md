@@ -33,7 +33,7 @@ Cosa que no niego. La frase que resumía el enlace tiene esa pintaza. No obstant
 
 Yo sé poco del asunto y quiero creer que, efectivamente, existe esa correlación entre la diarrea regulatoria y la corrupción (y la extracción de rentas). [La vieron hasta los clásicos](http://www.frasedehoy.com/frase/2419/cuando-es-mas-corrupto-el-estado-hay-mas-leyes). En las ciencias no experimentales es imposible establecer relaciones causales, pero [los criterios de Hill](https://datanalytics.com/2011/04/20/causalidad-o-asociacion-indicios-de-la-primera/) pueden servir de ayuda: ¿aplican a este caso?
 
-Insisto, no sé mucho de asunto y mi experiencia personal en la navegación de [asuntos que tienen que ver con regulaciones manifiestamente excesivas y sus vínculos con la corrupción](https://datanalytics.com/2015/03/10/licencias-urbanisticas-datos-y-votos/) tiene `n = 1`. Pero ya me vino un señor que dizque conocía a nosequién en el ayuntamiento y que previo pago de 3000 euros (en sobre marrón) podría...
+Insisto, no sé mucho del asunto y mi experiencia personal en la navegación de [asuntos que tienen que ver con regulaciones manifiestamente excesivas y sus vínculos con la corrupción](https://datanalytics.com/2015/03/10/licencias-urbanisticas-datos-y-votos/) tiene `n = 1`. Pero ya me vino un señor que dizque conocía a nosequién en el ayuntamiento y que previo pago de 3000 euros (en sobre marrón) podría...
 
 Pero si hablo de eso, no hago justicia al título de esta entrada. Hablemos pues de información y sorpresa. Hablemos de
 

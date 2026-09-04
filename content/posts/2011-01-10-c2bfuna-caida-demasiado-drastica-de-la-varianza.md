@@ -26,7 +26,7 @@ Vamos, que la cosa apestaba a bayesiana. Como la probabilidad de _éxito_ dado u
 
 $${ n \choose m }p^m (1-p)^{(n-m)},$$
 
-es decir, sigue una distribución binomial. Y los libros nos cuentan que su distribución de probabilidad conjugada es la [beta](http://es.wikipedia.org/wiki/Distribución_beta). Es decir, que si nuestro conocimiento del valor de la proporción y están descritos por una distribución _a priori_ $B(a,b)$, entonces, una vez extraída la muestra de la población, la distribución a posteriori del parámetro será $B(a+m, b+n-m)$ donde $n$ y $m$ son el número ensayos adicionales y el número de éxitos obtenidos en ellos respectivamente.
+es decir, sigue una distribución binomial. Y los libros nos cuentan que su distribución de probabilidad conjugada es la [beta](http://es.wikipedia.org/wiki/Distribución_beta). Es decir, que si nuestro conocimiento del valor de la proporción están descrito por una distribución _a priori_ $B(a,b)$, entonces, una vez extraída la muestra de la población, la distribución a posteriori del parámetro será $B(a+m, b+n-m)$ donde $n$ y $m$ son el número de ensayos adicionales y el número de éxitos obtenidos en ellos respectivamente.
 
 La pregunta que me trasladó mi cliente (un tipo inteligente y no solo por haberme contratado) era si era razonable esperar un decrecimiento de la varianza de 0.11 a 0.01 entre la distribución a priori y la posteriori con _sólo_ 22 observaciones.
 

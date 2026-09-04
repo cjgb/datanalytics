@@ -51,7 +51,7 @@ sum( n.hijos.varones == 2 ) / sum( n.hijos.varones > 0 )
 1. Cabe esperar que X e Y sean independientes.
 2. Que la probabilidad de que tomen el valor 1 sea 1/2.
 
-El enunciado del problema indicado más arriba puede reescribirse matemáticamente se reduce a calcular
+El enunciado del problema indicado más arriba puede reescribirse matemáticamente y se reduce a calcular
 
 $$ P( X + Y = 2 | X + Y > 0 ), $$
 

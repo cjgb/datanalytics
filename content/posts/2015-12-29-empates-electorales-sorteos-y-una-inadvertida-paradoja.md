@@ -32,6 +32,6 @@ Sin embargo, el artículo 163.1d de [la ley relevante](http://www.boe.es/buscar/
 
 A la hora de asignar el tercer concejal, habría vuelto a haber empate. Pero esta vez no habría sorteo sino que se aplicaría la alternancia que indica la ley. Así que el PSOE habría recibido el tercero y el PP el cuarto. El quinto, debido al empate y la alternancia, le habría correspondido al PP. Y el sexto al PSOE.
 
-El empate final el en séptimo se habría resuelto por alternancia y le habría correspondido... ¡al PSOE! De manera que el PP, aun habiendo ganado el sorteo, habría perdido en el reparto de escaños.
+El empate final en el séptimo se habría resuelto por alternancia y le habría correspondido... ¡al PSOE! De manera que el PP, aun habiendo ganado el sorteo, habría perdido en el reparto de escaños.
 
 El lector interesado podrá averiguar en qué resultó toda esta historia si lee, aunque sea por encima, [la sentencia al respecto del Tribunal Constitucional](http://www.tribunalconstitucional.es/fr/jurisprudencia/Pages/Sentencia.aspx?cod=16398).

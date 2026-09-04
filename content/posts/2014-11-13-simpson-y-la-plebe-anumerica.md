@@ -38,6 +38,6 @@ En una situación ideal (¡pero yo no he dicho que la situación lo sea!) los va
 
 ¿Pero qué si la probabilidad de recibir la campaña crece con $p$? Es algo que pasa a menudo: piénsese en anuncios de televisiones en televisión. En tal caso, los $p_i$ serían en promedio superiores a los $q_j$ y habría una sobreestimación de $\epsilon$.
 
-Y a la inversa. Por ejemplo, una campaña lanzada a clientes a los que hace mucho que no se ve el pelo, tal vez porque no están muy poco interesados en el producto en cuestión.
+Y a la inversa. Por ejemplo, una campaña lanzada a clientes a los que hace mucho que no se ve el pelo, tal vez porque están muy poco interesados en el producto en cuestión.
 
 La entrada de hoy es una trivialidad. Excepto, parece, para la plebe anumérica. ¡Carajo con la plebe anumérica!

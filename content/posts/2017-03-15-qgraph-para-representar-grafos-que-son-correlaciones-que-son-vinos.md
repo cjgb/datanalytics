@@ -21,7 +21,7 @@ title: qgraph para representar grafos que son correlaciones que son vinos
 url: /2017/03/15/qgraph-para-representar-grafos-que-son-correlaciones-que-son-vinos/
 ---
 
-Me vais a permitir que escriba una entrada sin mayores pretensiones, inspirada en y adaptada de [aquí](https://dmwiig.net/2017/03/10/the-r-qgraph-package-using-r-to-visualize-complex-relationships-among-variables-in-a-large-dataset-part-one/) y que sirva solo de que para representar correlaciones entre variables podemos recurrir a los grafos como en
+Me vais a permitir que escriba una entrada sin mayores pretensiones, inspirada en y adaptada de [aquí](https://dmwiig.net/2017/03/10/the-r-qgraph-package-using-r-to-visualize-complex-relationships-among-variables-in-a-large-dataset-part-one/) y que sirva solo para representar correlaciones entre variables podemos recurrir a los grafos como en
 
 {{< highlight R >}}
 library(qgraph)

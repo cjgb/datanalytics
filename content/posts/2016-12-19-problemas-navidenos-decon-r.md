@@ -55,7 +55,7 @@ que instale tu paquete, ejecute lo que me interesa y lo elimine después.
 
 ### Ejercicio
 
-Crea una función que admita como argumento dos cadenas de texto y compruebe si la una es un [anagrama](https://es.wikipedia.org/wiki/Anagrama) de la otra.
+Crea una función que admita como argumento dos cadenas de texto y compruebe si una es un [anagrama](https://es.wikipedia.org/wiki/Anagrama) de la otra.
 
 ### Ejercicio
 

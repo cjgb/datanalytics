@@ -22,7 +22,7 @@ url: /2020/09/03/contrariamente-a-lo-que-creia-recordar-hot-deck-locf/
 
 Imputación (que es algo en lo que muy a regañadientes estoy trabajando estos días).
 
-Si de verdad tienes que imputar datos en una tabla (y solo en ese caso), solo hay un criterio: construye un modelo para predecir los valores faltantes en función del resto y reemplaza el NA por la su predicción.
+Si de verdad tienes que imputar datos en una tabla (y solo en ese caso), solo hay un criterio: construye un modelo para predecir los valores faltantes en función del resto y reemplaza el NA por su predicción.
 
 El modelo puede ser tan tonto como
 

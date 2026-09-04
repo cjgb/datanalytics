@@ -35,7 +35,7 @@ Al cabo de los años, obviamente, las cosas han ido cambiando. Y son pocas las s
 
 Revisando el otro día el estado de la cosa en Python quedé poco menos que consternado, pasmado. ¿Cómo puede ser que tanta gente esté diciendo hacer ciencia de datos con Python dado el lastimosísimo estado de todo lo mixto y/o jerárquico en ese lenguaje? ¿Qué tipo de modelos pueden estar implementando? (Sí, vale, los he visto; vi un caso el otro día: haciendo la risa y dando vergüenza ajena).
 
-Claro, porque tienes MCMC para cosas pequeñas, pero... ¿Cómo puedes aproximar un modelo bayesiano en tiempo y forma sin una infraestructura mínima que ser parezca un poco a [`lme4`](https://cran.r-project.org/web/packages/lme4/index.html)?
+Claro, porque tienes MCMC para cosas pequeñas, pero... ¿Cómo puedes aproximar un modelo bayesiano en tiempo y forma sin una infraestructura mínima que se parezca un poco a [`lme4`](https://cran.r-project.org/web/packages/lme4/index.html)?
 
 Obviamente, la cosa cambiará. Cambió con R y lo hará pronto o tarde con Python. Y, de hecho, nada deseo más que declarar obsoleta esta entrada lo antes posible.
 

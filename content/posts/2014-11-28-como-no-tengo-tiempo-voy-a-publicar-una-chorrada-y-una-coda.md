@@ -34,7 +34,7 @@ La VMI es muy importante, como su nombre bien indica. Se ha usado en la mar de e
 [![distribucion_vmi](/img/2014/11/distribucion_vmi.png#center)
 ](/img/2014/11/distribucion_vmi.png#center)
 
-Verse puede cómo varía enormemente. En unas comunidades autónomas la barra es más alta, p.e., en la C15; en otras, más baja. Es muy baja en la C17, pero, ¿qué se puede esperar de la gente de la C17? ¡Si son todos de pueblo! Y no ni he ido ni quiero ir a la C17 jamás. ¿Para qué? Si despuntan en algo es en la variable mú importante... y para lo malo. Que yo sepa nunca salió de allá nada de provecho. Luego hay otras comunidades autónomas que están _in medio_, donde _stat virtus_. Ya lo decía Sancho Panza: tanto se pierde por carta de más como por carta de menos. Entre ellas se cuentan la próspera C06 y la C01. A pesar de que los de la C01 son un poco raritos, que conste.
+Verse puede cómo varía enormemente. En unas comunidades autónomas la barra es más alta, p.e., en la C15; en otras, más baja. Es muy baja en la C17, pero, ¿qué se puede esperar de la gente de la C17? ¡Si son todos de pueblo! Y ni he ido ni quiero ir a la C17 jamás. ¿Para qué? Si despuntan en algo es en la variable mú importante... y para lo malo. Que yo sepa nunca salió de allá nada de provecho. Luego hay otras comunidades autónomas que están _in medio_, donde _stat virtus_. Ya lo decía Sancho Panza: tanto se pierde por carta de más como por carta de menos. Entre ellas se cuentan la próspera C06 y la C01. A pesar de que los de la C01 son un poco raritos, que conste.
 
 Etc.
 

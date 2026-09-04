@@ -43,5 +43,5 @@ Puedes darte de alta [aquí](https://www.eventbrite.es/e/entradas-curso-de-r-bas
 **Letra no tan pequeña:**
 
 * Hay 20 plazas (máximo), pero el curso no se impartirá si no hay un quórum de 10 asistentes.
-* La asistencia al curso es gratis; la no asistencia no. Al terminar la primera sesión (y si te interesan las restantes, claro), me darás 30 euros. Al final de las siguientes sesiones te daré 10 euros. Si no estás no, claro.
+* La asistencia al curso es gratis; la no asistencia no. Al terminar la primera sesión (y si te interesan las restantes, claro), me darás 30 euros. Al final de las siguientes sesiones te daré 10 euros. Si no estás, no, claro.
 * Si te registras pero al final resulta que no puedes asistir, te agradecería que cancelases la entrada para que pueda ser utilizada por otra persona.

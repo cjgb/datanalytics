@@ -73,7 +73,7 @@ Pudiera ocurrir también en determinados casos concretos que sujetos distintos t
 
 En cualquier caso, y esto es lo más relevante, igual que existe objetivamente esa magnitud que es la altura de las torres, existen objetivamente esas probabilidades objetivas asociadas a los eventos físicos de las que construimos estimaciones utilizando técnicas de diversa índole (y sin que por ello podamos llamarlas subjetivas en propiedad). De otro modo, ¿tendrían sentido técnicas de calibración (como [esta](https://en.wikipedia.org/wiki/Brier_score), p.e.)?
 
-Entre el dado y la moneda, ambos objetivos y físicos, que hay sobre mi mesa, existe una distancia que, por no ser corpórea, no deja de ser objetiva, existente y, de hecho, medible. De la misma manera y por analogía, podríamos decir que entre el evento y el no evento sigue existe una relación de disimilitud que podríamos pensar igualmente objetiva y, de nuevo, medible.
+Entre el dado y la moneda, ambos objetivos y físicos, que hay sobre mi mesa, existe una distancia que, por no ser corpórea, no deja de ser objetiva, existente y, de hecho, medible. De la misma manera y por analogía, podríamos decir que entre el evento y el no evento existe una relación de disimilitud que podríamos pensar igualmente objetiva y, de nuevo, medible.
 
 Sujetos distintos podrían medirla de distinta manera y con resultados desiguales; pero no por ello la probabilidad del evento ha de ser subjetiva. De hecho, el que entendamos ---y podamos llegar a demostrar--- que algunas de las estimaciones son manifiestamente erróneas es indicio claro de que debajo de las opiniones, hay un sustrato de objetividad. ¿No despediríamos al hombre del tiempo que anunciase nieve en el agosto de Madrid ---y sin que luego nevase, por supuesto?
 

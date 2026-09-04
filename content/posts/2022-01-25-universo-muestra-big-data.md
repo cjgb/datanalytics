@@ -23,7 +23,7 @@ Los manuales de estadística al uso introducen los conceptos de universo y muest
 
 Pero, ¿de dónde sacar buenos ejemplos malos? Aunque no es fácil, nuestros colegas de _La Caixa Research_ han tenido la gentileza de ponernos uno _a huevo_: es [_Los precios de la luz están por las nubes, ¿y el importe de su recibo?_](https://www.caixabankresearch.com/sites/default/files/content/file/2022/01/11/34454/im01_22-09-dossier-3-es.pdf) (que ha sido recogido y glosado por el inefable elDiario.es [aquí](https://www.eldiario.es/economia/estudio-millones-facturas-luz-concluye-recibo-hogares-2021-similar_1_8653660.html)).
 
-_[Nota aclaratoria para lectores de otros sitios o de un futuro lejano: hay un debate en la España de finales de 2021 sobre si el precio de la electricidad ha subido o no. Dependiendo de al respuesta que des a esa pregunta y a través de mecanismos muy tediosos de explicar y desarrollar, un interlocutor malintencionado puede inferir tus preferencias de voto con un margen de error minúsculo.]_
+_[Nota aclaratoria para lectores de otros sitios o de un futuro lejano: hay un debate en la España de finales de 2021 sobre si el precio de la electricidad ha subido o no. Dependiendo de la respuesta que des a esa pregunta y a través de mecanismos muy tediosos de explicar y desarrollar, un interlocutor malintencionado puede inferir tus preferencias de voto con un margen de error minúsculo.]_
 
 Esencialmente, en el estudio, como tienen acceso a la base de datos de movimientos bancarios de los clientes de La Caixa, los autores pueden hacer
 

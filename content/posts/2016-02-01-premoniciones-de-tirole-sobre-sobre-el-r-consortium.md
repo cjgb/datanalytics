@@ -20,7 +20,7 @@ title: Premoniciones de Tirole sobre el R Consortium
 url: /2016/02/01/premoniciones-de-tirole-sobre-sobre-el-r-consortium/
 ---
 
-A [J. Tirole](https://en.wikipedia.org/wiki/Jean_Tirole) tiene Nobel de economía. En 2002 escribió un artículo, [Some Simple Economics of Open Source](http://www.people.hbs.edu/jlerner/simple.pdf), en el que trataba de explicar desde un punto de vista económico y de organización industrial el porqué de esa rareza. Aparte de cuestiones como si sería extrapolable  a otros sectores distintos del del desarrollo de _software_.
+A [J. Tirole](https://en.wikipedia.org/wiki/Jean_Tirole) tiene Nobel de economía. En 2002 escribió un artículo, [Some Simple Economics of Open Source](http://www.people.hbs.edu/jlerner/simple.pdf), en el que trataba de explicar desde un punto de vista económico y de organización industrial el porqué de esa rareza. Aparte de cuestiones como si sería extrapolable  a otros sectores distintos del desarrollo de _software_.
 
 En la sección sobre la reacción de las compañías de _software_ frente al fenómeno del _software_ libre tiene un apartado titulado _viviendo simbióticamente de [no con] un proyecto de código abierto_ que termina con la frase (mi traducción):
 

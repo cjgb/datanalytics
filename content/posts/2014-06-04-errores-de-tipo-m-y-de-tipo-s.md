@@ -34,4 +34,4 @@ Creo que pensar en términos de [errores de tipo S y errores de tipo M](http://a
 
 Porque la gente(*), en el fondo, solo quiere saber si su X es bueno y de serlo, cuánto. El resto es liturgia.
 
-(*) Excluyo a aquellos que son aún peores: los que asumen sin más los aspectos más rituales de la liturgia y necesitan, porque se lo ha dicho su director de tesis, que necesitan que una cosa sea inferior a 0.05.
+(*) Excluyo a aquellos que son aún peores: los que asumen sin más los aspectos más rituales de la liturgia y necesitan, porque se lo ha dicho su director de tesis, que una cosa sea inferior a 0.05.

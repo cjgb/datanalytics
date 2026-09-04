@@ -55,7 +55,7 @@ Sobre las cursivas de _todas_:
 * Había coordenadas que apuntaban al golfo de Guinea. Ha habido que filtrarlas.
 * Según escribo, veo por la ventana una terraza que no figura en la lista. Habrá más, seguro.
 
-En definitiva, ni están todas las que son, ni son todas las que están, ni son todas las que deberían serlo y las hay que no deberían ser pero que son y están. Hay que tener en cuenta de que para el ayuntamiento hay dos realidades:
+En definitiva, ni están todas las que son, ni son todas las que están, ni son todas las que deberían serlo y las hay que no deberían ser pero que son y están. Hay que tener en cuenta que para el ayuntamiento hay dos realidades:
 
 * La administrativa (licencias y autorizaciones)
 * La que se recoge _a puros efectos estadísticos_

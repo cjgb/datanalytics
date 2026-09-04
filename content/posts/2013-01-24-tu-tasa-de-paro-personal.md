@@ -35,4 +35,4 @@ Desde hace mucho tiempo vengo repitiendo que la forma en la que se informa de lo
 
 Y la información sobre este fenómeno con una _dimensión micro_ tan humana debería, creo yo, reflejar mejor estas circunstancias.
 
-(Y sí, hemos usando subterráneamente R y el paquete [MicroDatosEs](http://www.datanalytics.com/tag/microdatoses/)).
+(Y sí, hemos usado subterráneamente R y el paquete [MicroDatosEs](http://www.datanalytics.com/tag/microdatoses/)).

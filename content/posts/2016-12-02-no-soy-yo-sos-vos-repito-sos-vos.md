@@ -27,7 +27,7 @@ en [una radio](http://cadenaser.com/ser/2016/11/28/politica/1480372148_848008.ht
 
 Hasta que me he dado cuenta de que no era yo, que era el gráfico.
 
-Los infografistas de la radio, con esa increíble dicción suya, han apilado las barras que deberían, o bien adjuntar o, mejor aún, [micromultiplicar](https://en.wikipedia.org/wiki/Small_multiple).
+Los infografistas de la radio, con esa increíble dicción suya, han apilado las barras que deberían, o bien adjuntar, o, mejor aún, [micromultiplicar](https://en.wikipedia.org/wiki/Small_multiple).
 
 Han llegado a apilar "todos" encima de los subsegmentos.
 

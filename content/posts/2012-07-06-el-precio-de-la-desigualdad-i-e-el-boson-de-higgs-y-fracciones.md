@@ -20,7 +20,7 @@ title: El precio de la desigualdad (i.e., el bosón de Higgs y fracciones)
 url: /2012/07/06/el-precio-de-la-desigualdad-i-e-el-boson-de-higgs-y-fracciones/
 ---
 
-Esta semana me he enterado (con un mes de retraso, ¡qué vergüenza!) de que Stiglitz ha publicado un nuevo libro: [El precio de la desigualdad](http://www.amazon.com/The-Price-Inequality-Endangers-ebook/dp/B007MKCQ30). Se ve que en él argumenta el nóbel cómo esta no solo es mala para la economía sino que también afecta a la democracia.
+Esta semana me he enterado (con un mes de retraso, ¡qué vergüenza!) de que Stiglitz ha publicado un nuevo libro: [El precio de la desigualdad](http://www.amazon.com/The-Price-Inequality-Endangers-ebook/dp/B007MKCQ30). Se ve que el nóbel argumenta en él cómo esta no solo es mala para la economía sino que también afecta a la democracia.
 
 Se refiere, por si alguien no se había dado cuenta todavía, a la desigualdad económica... pero...
 
@@ -46,7 +46,6 @@ Pero si la desigualdad económica (y lo dice un nóbel), es mala para la econom�
 
 Esta semana, mientras la prensa nacional e internacional, recogía con inusitada fanfarria (porque guardo el recorte de la noticia del ABC sobre la demostración de Wiles del último teorema de Fermat y es una nota minúscula de papel ya amarillo) lo del bosón de Higgs, me hacía yo eco de cómo [la gente no sabe realizar operaciones básicas con fracciones](https://datanalytics.com/2012/07/03/regalo-o-descuento/) y de qué manera pueden los supermercados y fabricantes de productos aprovecharse de ello para extraerles los cuartos. Y sin un mal retuiteo de mis pocos lectores.
 
-[![](/img/2012/07/fracciones.gif)
-](/img/2012/07/fracciones.gif)
+![](/img/2012/07/fracciones.gif)
 
 Pero si los hay y si son perspicaces —que, casi seguro, lo son—, se darán cuenta de que algo anda mal, que algo chirría cuando unos cuantos locos en Ginebra son capaces de probar la existencia de los componentes de los componentes de los componentes de los componentes de la materia palpable y conocida mientras los más no sabemos completar una cuenta trivial.

@@ -25,7 +25,7 @@ Lo más satisfactorio de la entrada [_Resolving disputes between J. Pearl and D.
 
 La entrada de NadaEsGratis en cuestión se titula
 [_Consumo de alcohol entre los adolescentes y rendimiento educativo_](https://nadaesgratis.es/bagues/consumo-de-alcohol-entre-los-adolescentes-y-rendimiento-educativo).
-Por dónde y cuándo se ha publicado, _sabemos_ sin leerla que va a encontrar una relación negativa entre ambos. Pero el estudio está plagado de problemas (el uso de _proxies_, efectos pequeños, la gran cantidad de ruido, la falacia ecológica, etc.), cualquiera de los cuales hemos visto por sí solos poner en cuestión otros resultados en otras partes. Afortunadamente para el autor, como solo busca probar que la hierba es verde y que al agua moja, es muy probable que nadie lo cuestione con el manual de metodología en mano.
+Por dónde y cuándo se ha publicado, _sabemos_ sin leerla que va a encontrar una relación negativa entre ambos. Pero el estudio está plagado de problemas (el uso de _proxies_, efectos pequeños, la gran cantidad de ruido, la falacia ecológica, etc.), cualquiera de los cuales hemos visto por sí solos poner en cuestión otros resultados en otras partes. Afortunadamente para el autor, como solo busca probar que la hierba es verde y que el agua moja, es muy probable que nadie lo cuestione con el manual de metodología en mano.
 
 En [_La racionalidad económica de los criterios de imputación objetiva_](https://almacendederecho.org/la-racionalidad-economica-de-los-criterios-de-imputacion-objetiva) se discuten varias implementaciones en el derecho del concepto de causalidad.
 

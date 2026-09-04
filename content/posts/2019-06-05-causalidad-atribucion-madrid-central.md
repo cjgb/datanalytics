@@ -51,7 +51,7 @@ Hay bajadas increíbles de la concentración de NO2 en lugares que no tienen nad
 
 >Es decir, continúa la tendencia de escasas precipitaciones que se ha registrado todos los meses del año 2019, con excepción del mes de abril, unas condiciones meteorológicas imperantes que en general son adversas para la calidad del aire, ya que no favorecen la dispersión de los contaminantes emitidos en el medio ambiente urbano.
 
-En fin, que es todo medio raro. Si lo publicado fuese un informe que tuviese yo que firmar con mi nombre y apellidos, haría repasar bien las fórmulas de Excel y la manera en se calculan esos valores medios mensuales y me guardaría de hacer juicios causales.
+En fin, que es todo medio raro. Si lo publicado fuese un informe que tuviese yo que firmar con mi nombre y apellidos, haría repasar bien las fórmulas de Excel y la manera en que se calculan esos valores medios mensuales y me guardaría de hacer juicios causales.
 
 Notas:
 

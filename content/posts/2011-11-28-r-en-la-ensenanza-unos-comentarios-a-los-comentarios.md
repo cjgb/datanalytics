@@ -40,8 +40,6 @@ Si se me concede que un objetivo de mínimos es lograr que todo recién licencia
 
 Y creo que ahora, en este año, aunque las cosas pudieran cambiar dentro de cinco o diez más, debiera ser R. Por muchos motivos:
 
-
-
 * Porque R puede instalarse en _cualquier_ plataforma, usarse en cualquier momento, para cualquier fin y gratuitamente: se es estadístico 24x7, no 8x5.
 * Porque expone a los estudiantes a herramientas y métodos de primera línea de investigación.
 * Porque se usa para resolver problemas reales.

@@ -120,4 +120,4 @@ se observa cómo $\delta$ solo tiene un efecto de _escala_ sobre la diferencia $
 
 ## A modo de resumen
 
-Construir un modelo es como construir un reloj: se puede hacer de muchas maneras, con diferentes conjuntos de piezas y en distintas configuraciones. Pero todas tienen un porqué y una función que, por supuesto, son _legibles_. A partir de esta lectura podemos identificar potenciales problemas y sus soluciones. Como en el en caso tratado más arriba.
+Construir un modelo es como construir un reloj: se puede hacer de muchas maneras, con diferentes conjuntos de piezas y en distintas configuraciones. Pero todas tienen un porqué y una función que, por supuesto, son _legibles_. A partir de esta lectura podemos identificar potenciales problemas y sus soluciones. Como en el caso tratado más arriba.

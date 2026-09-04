@@ -18,7 +18,7 @@ title: Una solución al problema de la separación perfecta con regresiones log�
 url: /2010/10/25/una-solucion-al-problema-de-la-separacion-perfecta-con-regresiones-logisticas/
 ---
 
-Cuando el otro día planteé al mis lectores el problema de [cómo representar de manera efectiva un conjunto de datos pequeños](https://datanalytics.com/2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/), no lo hice de manera enteramente ociosa. Eran datos reales de un cliente que tropezó con el llamado problema de la separación perfecta al intentar aplicar una regresión logística.
+Cuando el otro día planteé a mis lectores el problema de [cómo representar de manera efectiva un conjunto de datos pequeños](https://datanalytics.com/2010/09/16/representando-graficamente-conjuntos-de-datos-pequenos/), no lo hice de manera enteramente ociosa. Eran datos reales de un cliente que tropezó con el llamado problema de la separación perfecta al intentar aplicar una regresión logística.
 
 Veamos de nuevo los datos:
 

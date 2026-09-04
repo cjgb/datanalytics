@@ -23,7 +23,7 @@ Si a uno le dicen que la diferencia de medias de determinado atributo entre suje
 
 ![](/img/2019/03/stat_t1.gif)
 
-Lo cual tiene cierto sentido cuando A y B tienen poblaciones homogéneas. Pero si uno oye que el sueldo medio en Alemania es un (hipotético) 10% superior al español, tal vez por inercia uno crea una representación mental de acuerdo con la cual un camarero alemán gana alrededor de un 10% más que uno español, que un ingeniero alemán gana... (etc.). En lugar de pensar que tal vez los camareros españoles ganen igual que los alemanes; y los ingenieros españoles ganen igual que los alemanes; etc. pero que en tal vez en Alemania haya proporcionalmente menos camareros que ingenieros.
+Lo cual tiene cierto sentido cuando A y B tienen poblaciones homogéneas. Pero si uno oye que el sueldo medio en Alemania es un (hipotético) 10% superior al español, tal vez por inercia uno crea una representación mental de acuerdo con la cual un camarero alemán gana alrededor de un 10% más que uno español, que un ingeniero alemán gana... (etc.). En lugar de pensar que tal vez los camareros españoles ganen igual que los alemanes; y los ingenieros españoles ganen igual que los alemanes; etc. pero que tal vez en Alemania haya proporcionalmente menos camareros que ingenieros.
 
 Tal vez esta segunda no sea la representación mental más inmediata y natural. Y eso, entre los no ignaros. ¡A saber qué ocurrirá en la tosca mente del populacho anumérico!
 

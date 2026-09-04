@@ -21,6 +21,6 @@ title: ¿Por que slt-ear si puedes stR-ear?
 url: /2018/07/25/por-que-slt-ear-si-puedes-str-ear/
 ---
 
-La función `stl` (véase [aquí]/2018/07/23/suicidios-crisis-y-cambios-de-regimen-en-series-temporales/) un ejemplo de su uso) es fundamental en el estudio de las series temporales con R. Pero tiene sus limitaciones.
+La función `stl` (véase [un ejemplo de su uso](/2018/07/23/suicidios-crisis-y-cambios-de-regimen-en-series-temporales/)) es fundamental en el estudio de las series temporales con R. Pero tiene sus limitaciones.
 
 El paquete [`stR`](https://cran.r-project.org/web/packages/stR/vignettes/stRvignette.html) la extiende y permite, entre otras cosas, introducir distintos tipos de estacionalidades (p.e., anuales y semanales). ¡Sea bienvenido!

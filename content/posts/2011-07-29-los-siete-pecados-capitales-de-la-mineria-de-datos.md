@@ -20,7 +20,7 @@ title: Los siete pecados capitales de la minería de datos
 url: /2011/07/29/los-siete-pecados-capitales-de-la-mineria-de-datos/
 ---
 
-Por ser viernes, traigo a estas páginas un vídeo tan pedagógico como ameno. Es la conferencia de Dick De Veaux dentro la [M2010 Data Mining Conference](http://www.sas.com/events/dmconf/m2010/) auspiciada por SAS.
+Por ser viernes, traigo a estas páginas un vídeo tan pedagógico como ameno. Es la conferencia de Dick De Veaux dentro de la [M2010 Data Mining Conference](http://www.sas.com/events/dmconf/m2010/) auspiciada por SAS.
 
 El autor repasa los siete pecados capitales de la minería de datos, a saber
 

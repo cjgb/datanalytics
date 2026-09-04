@@ -41,7 +41,7 @@ Si tienes tiempo, échale un vistazo a los [problemas que Z3 puede resolver](htt
 
 ### Otro "santo grial" de la ciencia de datos
 
-Además del del _in-database analytics_, el otro de los _santos griales_ eternamente perseguidos por ciertos sectores de la ciencia de datos es el de la creación de un sistema al que se le echan datos y realiza análisis estadísticos automáticos con todas las de la ley/ciencia. [Lace](https://www.lace.dev/) es una nueva iteración de ese proyecto. Leí la documentación con cierto detenimiento pero aún no he podido averiguar qué modelo utiliza para construir la _verosimilitud_ de la que trata reiteradamente. Si alguien lo averigua, le agradecería que nos informase tanto a mí como al resto en los comentarios.
+Además del _in-database analytics_, el otro de los _santos griales_ eternamente perseguidos por ciertos sectores de la ciencia de datos es el de la creación de un sistema al que se le echan datos y realiza análisis estadísticos automáticos con todas las de la ley/ciencia. [Lace](https://www.lace.dev/) es una nueva iteración de ese proyecto. Leí la documentación con cierto detenimiento pero aún no he podido averiguar qué modelo utiliza para construir la _verosimilitud_ de la que trata reiteradamente. Si alguien lo averigua, le agradecería que nos informase tanto a mí como al resto en los comentarios.
 
 ### BM25
 

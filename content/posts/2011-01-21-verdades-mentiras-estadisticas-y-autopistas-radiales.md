@@ -21,7 +21,7 @@ url: /2011/01/21/verdades-mentiras-estadisticas-y-autopistas-radiales/
 
 Sin ser un as de las finanzas, resulta más que evidente que la inversión que en su día se hizo para convertir el tramo Madrid-Zaragoza de la N-II en autovía fue más que rentable. La obra fue financiada por el estado y su uso fue gratuito desde el primer día.
 
-Pero conforme fue mejorando la red de infraestructuras españolas, la estimación de la rentabilidad de cada euro adicional de inversión en ellas se ha ido complicado.
+Pero conforme fue mejorando la red de infraestructuras españolas, la estimación de la rentabilidad de cada euro adicional de inversión en ellas se ha ido complicando.
 
 Para resolver el problema contamos con la inestimable ayuda del capitalismo —nos dicen—: ningún sistema económico es capaz de realizar una [asignación de recursos](http://es.wikipedia.org/wiki/Asignaci%C3%B3n_de_recursos) de manera tan eficiente como él. El capitalismo y los capitalistas han corrido al auxilio del estado para ayudarnos a todos a seleccionar _científicamente_ las infraestructuras que realmente necesitamos. El procedimiento, simplificado, es el siguiente:
 
@@ -39,7 +39,7 @@ Es un esquema para nada perverso. El riesgo pasa del estado a ciertos accionista
 
 Pero, ¿qué nos está sucediendo en España? Pues lo que nos cuentan artículos tales como [este](http://www.elpais.com/articulo/empresas/sectores/Obras/riesgo/elpepueconeg/20101114elpnegemp_1/Tes), [este](http://www.elpais.com/articulo/empresas/sectores/Desafios/colaboracion/publico-privada/elpepueconeg/20101114elpnegemp_2/Tes), [este](http://www.elpais.com/articulo/economia/partidos/salvaran/quiebra/concesionarias/autopistas/elpepueco/20101108elpepieco_1/Tes ) o [este otro](http://www.cincodias.com/articulo/empresas/concesionaria-radiales-negocia-anos-credito/20100417cdscdiemp_1/cdsemp/  ).
 
-Confieso a mis lectores que comencé esta entrada hace mucho y que pensaba remartarla con un lamento sobre la incapacidad de los estadísticos patrios para realizar prognosis certeras (dado que en tanto erraron sus predicciones de tráfico). Pero, tras indagar sobre el asunto, sospecho que el problema es muy distinto. Aunque nos lo explican [aquí](http://www.sintetia.com/analisis/seleccion-adversa-en-los-contratos-de-las-administraciones-publicas), extraigo del enlace lo que será más relevante para la parroquia de esta bitácora:
+Confieso a mis lectores que comencé esta entrada hace mucho y que pensaba remartarla con un lamento sobre la incapacidad de los estadísticos patrios para realizar prognosis certeras (dado lo errado de sus predicciones de tráfico). Pero, tras indagar sobre el asunto, sospecho que el problema es muy distinto. Aunque nos lo explican [aquí](http://www.sintetia.com/analisis/seleccion-adversa-en-los-contratos-de-las-administraciones-publicas), extraigo del enlace lo que será más relevante para la parroquia de esta bitácora:
 
 > Sin embargo, la ley de contratos establece que, en caso de quiebra del concesionario, se debe rescatar la concesión pagando el coste de la construcción de la autopista menos lo amortizado por el paso del tiempo. Esta cláusula cambia abruptamente el negocio al _establecer una opción de venta para el concesionario_, que si hace bien los cálculos puede conseguir que: "si va bien gano, si va regular empato y si va mal paga la administración".
 

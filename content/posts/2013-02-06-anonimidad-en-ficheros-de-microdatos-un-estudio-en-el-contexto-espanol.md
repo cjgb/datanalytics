@@ -25,7 +25,7 @@ Supongamos que se hacen públicos unos ficheros de datos en los que se han elimi
 
 Por eso se utiliza como medida de la anonimidad la llamada k-anonimidad: cuántos individuos comparten determinados atributos en los ficheros de datos. Y uno de los resultados de mi artículo es que, conocidos el municipio de residencia, la fecha de nacimiento completa y el sexo de una persona, el 42.38% de los individuos (en España), casi veinte millones, son reidentificables, es decir, 1-anónimos.
 
-De hecho, sabidos el municipio, el sexo y de la fecha ya sea solo el año, el año y el mes o año, mes y día, el grado de k-anonimidad viene dado por la siguiente tabla:
+De hecho, sabidos el municipio, el sexo y la fecha ya sea solo el año, el año y el mes o año, mes y día, el grado de k-anonimidad viene dado por la siguiente tabla:
 
 [![](/img/2013/02/k_anonimidad_espana.png#center)
 ](/img/2013/02/k_anonimidad_espana.png#center)
@@ -34,6 +34,6 @@ De hecho, sabidos el municipio, el sexo y de la fecha ya sea solo el año, el a�
 
 En realidad, incluida la demostración del lema que contiene el artículo, este es un ejercicio que podría tildarse de producto del aburrimiento. Y tal vez acertadamente.
 
-Pero creo que tiene también una lectura que puede llamar a la precaución a la hora de exigir transparencia hasta el punto de liberar y liberar conjuntos de datos referidos a personas: entre aquellos que actualmente custodian dichos datos y el público en general —y, muy en particular, algunos sujetos dentro de ese público en general que albergan intenciones nada benignas— es de rigor que existan guardianes que mantengan lo debidamente elevado el índice de anonimidad.
+Pero creo que tiene también una lectura que puede llamar a la precaución a la hora de exigir transparencia hasta el punto de liberar y liberar conjuntos de datos referidos a personas: entre aquellos que actualmente custodian dichos datos y el público en general —y, muy en particular, algunos sujetos dentro de ese público en general que albergan intenciones nada benignas— es de rigor que existan guardianes que mantengan debidamente elevado el índice de anonimidad.
 
 (Otra nota: debo agradecer a [Gregorio Serrano](http://www.grserrano.es/) y [Emilio Torres Manzanera](https://directo.uniovi.es/catalogo/DetalleProfesor.asp?idprofesor=28365) el haberse prestado cordialmente a revisar los primeros manuscritos del artículo y a enriquecerlo con sus sugerencias).

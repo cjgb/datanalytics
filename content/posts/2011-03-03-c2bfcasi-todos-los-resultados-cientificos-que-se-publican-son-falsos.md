@@ -36,7 +36,7 @@ En el artículo _[The truth wears off: Is there something wrong with the scienti
 
 En todos ellos, después de los promisorios resultados de los pioneros, los efectos observados en experimentos confirmatorios posteriores fueron decayendo en tamaño. En algunos casos el efecto se volvió prácticamente nulo.
 
-El autor del artículo encuentra y discute una serie de motivos para que esto ocurre, terminando su artículo con una desasosegante conclusión (mi traducción):
+El autor del artículo encuentra y discute una serie de motivos para que esto ocurra, terminando su artículo con una desasosegante conclusión (mi traducción):
 
 
 >El efecto declinante es problemático porque hace patente lo difícil que es probar cualquier cosa. Nos gusta pensar que nuestros experimentos definen qué es verdad. Pero frecuentemente no es así. El que una idea sea cierta no significa necesariamente que pueda ser probada. Y el que pueda ser probada no implica que sea cierta. Tras los experimentos todavía tenemos que decidir qué creer.

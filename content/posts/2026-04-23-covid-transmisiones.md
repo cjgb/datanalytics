@@ -58,7 +58,7 @@ Dos artículos han tratado de aplicar las técnicas descritas más arriba para d
 La principal complicación aquí es que ningún procedimiento de simulación es capaz de reproducir el árbol filogenético observado. Es necesario:
 
 1. Realizar simulaciones. Podría decirse que su semejanza a los fenómenos que pudieran haber ocurrido en Wuhan en 2019 es problemática, aunque esta no es la principal cuestión que se debate aquí.
-2. Determinar cuándo uno de los árboles obtenidos en una simulación es "compatible" con el observado. Para eso, los autores de primer artículo definieron una "topología" particular de los árboles aceptables en la simulación.
+2. Determinar cuándo uno de los árboles obtenidos en una simulación es "compatible" con el observado. Para eso, los autores del primer artículo definieron una "topología" particular de los árboles aceptables en la simulación.
 
 La objeción del segundo estudio tiene que ver con la exigencia del método ABC señalada más arriba: según su autor, el criterio de aceptación de los árboles construidos según el criterio del contagio único era mucho más elevado que el usado con los construidos de acuerdo con el otro. Dependiendo de si aceptas sus objeciones o no, obtendrás los resultados mutuamente contradictorios de uno u otro estudio.
 

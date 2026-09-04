@@ -87,7 +87,7 @@ Obviamente, si uno se dedica a la ciencia política no hay ni preguntas ni respu
 
 Uno escribe _subjetivo_ con cierto sobrecogimiento, temiendo que algún lector piense que los sujetos son él, su familia, sus vecinos y poco más. Que es cierto, pero hay que extender la noción a entes como "el consenso de la física", por ejemplo. Recuérdese el [caso de Le Verrier](https://datanalytics.com/2021/10/19/causalidad-inversa-mas-sobre-los-momentos-le-verrier/): Neptuno se descubrió porque algo no encajaba en la órbita de Urano de acuerdo con el modelo existente en la época y la _causa_ fue, precisamente, el efecto que sobre él ejercía un planeta desconocido hasta la fecha. También se ha mencionado arriba _el derecho_ como _sujeto_ que tiene un modelo del mundo: el que subyace a las leyes, ordenanzas, etc.
 
-En definitiva, igual que cuando se habla del homo oeconomicus no ha de suponerse que ese _homo_ sea solo de carne y hueso ---en tanto que empresas y otras instituciones son también agentes que operan en la órbita económica---, el sustrato de los modelos subjetivos no es únicamente la materia gris sujetos particulares.
+En definitiva, igual que cuando se habla del homo oeconomicus no ha de suponerse que ese _homo_ sea solo de carne y hueso ---en tanto que empresas y otras instituciones son también agentes que operan en la órbita económica---, el sustrato de los modelos subjetivos no es únicamente la materia gris de sujetos particulares.
 
 
 ## Causalidad, técnica y tecnología

@@ -33,7 +33,7 @@ Notas al respecto:
 
 Lo que se ve es el resultado del ajuste de un modelo de Poisson casi trivial. Es _casi trivial_ porque utiliza el tipo más simple de _splines_ para modelar una tendencia quebrada en un punto desconocido, uno de los parámetros del modelo.
 
-Las bandas representan intervalos de confianza al 50% y 90% respectivamente. Que nos dan a entender que el ajuste no es demasiado allá dado que:
+Las bandas representan intervalos de confianza al 50% y 90% respectivamente. Que nos dan a entender que el ajuste no es _demasiado allá_ dado que:
 
 1. En el primer bloque de la serie parece haber más dispersión de la esperada.
 2. Y menos, en el segundo.

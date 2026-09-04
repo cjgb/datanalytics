@@ -35,7 +35,7 @@ y lee con detenimiento, encuentra la siguiente nota:
 
 >As output text connections keep the character vector up to date line-by-line, they are relatively expensive to use, and it is often better to use an anonymous file() connection to collect output.
 
-Vamos, que desaconseja usar dicha función por motivos de rendimiento cuando no vayan a usarse todas las sus características de las que `file` carece. Pero, ¿será cierto que el rendimiento es tan malo? Y de serlo, ¿cómo usar `file`?
+Vamos, que desaconseja usar dicha función por motivos de rendimiento cuando no vayan a usarse todas sus características de las que `file` carece. Pero, ¿será cierto que el rendimiento es tan malo? Y de serlo, ¿cómo usar `file`?
 
 Veámoslo:
 

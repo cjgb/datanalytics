@@ -36,7 +36,7 @@ Aquí va mi idea:
 * Compárese el sesgo que pudiera haber en las prediccines y su error con el error cometido con la otra mitad de los hombres.
 * Finalmente, como complemento, estúdiese el sesgo (observado menos predicho) de las mujeres por sector, grupo de edad, etc.
 
- para encontrar información más fina que un numerico con que asustar a las viejas en un titular.
+para encontrar información más fina que un numerico con que asustar a las viejas en un titular.
 
 No lo he visto nunca. Lo he propuesto alguna vez sin éxito. Igual alguien coge el guante.
 

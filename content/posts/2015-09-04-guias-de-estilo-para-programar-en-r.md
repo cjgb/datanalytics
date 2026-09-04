@@ -23,4 +23,4 @@ url: /2015/09/04/guias-de-estilo-para-programar-en-r/
 
 Tiene como novedad, dice, su adaptación a las formas y maneras de Hadley Wickham, aún no tan conocido entonces. Coinciden, no obstante, en lo más.
 
-Ninguna de las dos trata el uso las tuberías (operador `%>%`). Pero es un asunto que se nos puede ir de las manos: de hecho, hoy he conocido el paquete `[backpipe](https://github.com/decisionpatterns/backpipe)`, que implementa `%<%` y que nos augura largas y desesperantes sesiones de depuración de código.
+Ninguna de las dos trata el uso de las tuberías (operador `%>%`). Pero es un asunto que se nos puede ir de las manos: de hecho, hoy he conocido el paquete `[backpipe](https://github.com/decisionpatterns/backpipe)`, que implementa `%<%` y que nos augura largas y desesperantes sesiones de depuración de código.

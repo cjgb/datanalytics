@@ -21,7 +21,7 @@ url: /2022/10/11/bayesianismo-frecuentismo-teoria-decision-03/
 _[Esta es la tercera de una serie de cuatro o cinco entradas sobre el tema que se anuncia en el título.]_
 
 Terminó la [segunda entrada](/2022/10/06/bayesianismo-frecuentismo-teoria-decision-02/)
-de anunciando cómo la manera de operar con la expresión
+anunciando cómo la manera de operar con la expresión
 
 $$L(\hat{\theta}) = \int_\theta \int_X L(\theta, \hat{\theta}) p(X | \theta) p(\theta) dX d\theta$$
 

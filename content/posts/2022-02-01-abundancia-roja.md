@@ -36,7 +36,7 @@ Sí, una [BESM-2](https://en.wikipedia.org/wiki/BESM). En una sociedad en las qu
 
 [Años después, en los 70, Allende trataría de transitar la misma ruta con su simpatiquísimo y apenas conocido [proyecto Cybersyn](https://en.wikipedia.org/wiki/Project_Cybersyn).]
 
-El lector encontrará en el libro descripciones de, por ejemplo, el proyecto de algunos economistas soviéticos liderados por [Viktor Glushkov](https://en.wikipedia.org/wiki/Victor_Glushkov) para crear un sistema de ordenadores capaz calcular un plan de producción _óptimo_ que hiciese incluso innecesario el uso del dinero. Supongo que con su _data lake_ y demás cachivaches.
+El lector encontrará en el libro descripciones de, por ejemplo, el proyecto de algunos economistas soviéticos liderados por [Viktor Glushkov](https://en.wikipedia.org/wiki/Victor_Glushkov) para crear un sistema de ordenadores capaz de calcular un plan de producción _óptimo_ que hiciese incluso innecesario el uso del dinero. Supongo que con su _data lake_ y demás cachivaches.
 
 Afortunadamente, en la Unión Soviética había gente más aguda que en las empresas de hogaño y:
 

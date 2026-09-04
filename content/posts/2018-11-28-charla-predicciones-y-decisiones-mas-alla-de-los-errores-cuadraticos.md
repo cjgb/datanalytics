@@ -22,7 +22,7 @@ title: 'Charla: predicciones y decisiones, más allá de los errores cuadrático
 url: /2018/11/28/charla-predicciones-y-decisiones-mas-alla-de-los-errores-cuadraticos/
 ---
 
-El próximo 29 de noviembre (de 2018) de febrero daré una charla dentro del ciclo de [_Data Konferences_](http://kschool.com/blog/eventos/kschool-convoca-las-primeras-data-konferences/) de Kschool.
+El próximo 29 de noviembre (de 2018) daré una charla dentro del ciclo de [_Data Konferences_](http://kschool.com/blog/eventos/kschool-convoca-las-primeras-data-konferences/) de Kschool.
 
 Para la mía han creado el siguiente cartelito:
 

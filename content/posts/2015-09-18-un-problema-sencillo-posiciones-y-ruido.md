@@ -20,7 +20,7 @@ title: 'Un problema "sencillo": posiciones y ruido'
 url: /2015/09/18/un-problema-sencillo-posiciones-y-ruido/
 ---
 
-Voy a describir la solución un problema _sencillo_. Se trata de un objeto que se mueve a una velocidad no necesariamente constante en línea recta. Este objeto emite su posición y velocidad periódicamente (p.e., cada segundo). Por centrar ideas, su posición y velocidad reales en esos momentos son
+Voy a describir la solución de un problema _sencillo_. Se trata de un objeto que se mueve a una velocidad no necesariamente constante en línea recta. Este objeto emite su posición y velocidad periódicamente (p.e., cada segundo). Por centrar ideas, su posición y velocidad reales en esos momentos son
 
 {{< highlight R >}}
 n <- 100

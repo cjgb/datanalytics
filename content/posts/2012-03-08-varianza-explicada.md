@@ -27,7 +27,7 @@ Tal vez sea más sencillo comenzar exponiendo la crítica realizada en esa pági
 [![](/img/2012/03/mortalidad_chicago.png#center)
 ](/img/2012/03/mortalidad_chicago.png#center)
 
-A la serie le ajusta un modelo simple basado en [_splines_](http://en.wikipedia.org/wiki/Smoothing_spline), `y = f(t) + ruido`, que da el siguiente ajuste:
+A la serie se le ajusta un modelo simple basado en [_splines_](http://en.wikipedia.org/wiki/Smoothing_spline), `y = f(t) + ruido`, que da el siguiente ajuste:
 
 [![](/img/2012/03/mortalidad_chicago_predicha.png#center)
 ](/img/2012/03/mortalidad_chicago_predicha.png#center)

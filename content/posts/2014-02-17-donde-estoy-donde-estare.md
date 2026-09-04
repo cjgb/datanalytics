@@ -49,7 +49,7 @@ Para los que tienen entre 30 y 39 la tabla equivalente es
 |2012|719|785|-66|
 |2013|755|770|-15|
 
-Así que no todos estamos en Zúrich. Algunos, simplemente, no somos fantasmas del sistema económico español, no hemos desaparecido, no hemos a otra dimensión. Simplemente, nunca llegamos a existir. Somos la base del huso (antes pirámide) poblacional.
+Así que no todos estamos en Zúrich. Algunos, simplemente, no somos fantasmas del sistema económico español, no hemos desaparecido, no hemos pasado a otra dimensión. Simplemente, nunca llegamos a existir. Somos la base del huso (antes pirámide) poblacional.
 
 **Notas:**
 

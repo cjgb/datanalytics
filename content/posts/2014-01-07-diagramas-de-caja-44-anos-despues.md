@@ -24,7 +24,7 @@ Efectivamente, 44 años después de que Tukey describiese su _schematic plot_, l
 [![](/img/2014/01/boxplot_2014_01.png#center)
 ](/img/2014/01/boxplot_2014_01.png#center)
 
-Pero al margen de la indiferencia del común, la academia tenido la gentileza de seguir ahondando en la metáfora visual de los diagramas de caja y experimentando, cuando menos, en tres direcciones:
+Pero al margen de la indiferencia del común, la academia ha tenido la gentileza de seguir ahondando en la metáfora visual de los diagramas de caja y experimentando, cuando menos, en tres direcciones:
 
 * La de convertirlos en una representación más fidedigna de la distribución subyacente, es decir, hibridizándolos con los diagramas de densidad.
 * La de incorporar medidas de relevancia inferencial como, por ejemplo, marcas que señalen los intervalos de confianza de los estadísticos (p.e., la media) que representan.

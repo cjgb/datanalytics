@@ -120,7 +120,7 @@ Finalmente, planteamos el modelo mixto usando la función lme del paquete nlme:
        random = ~1 | id , data = dat )
 {{< / highlight >}}
 
-El modelo consta términos fijos (`unit.size` y `account.size`) y de una parte aleatoria, `~1 | id`. La parte aleatoria, de acuerdo con el consejo recurrente de mi colega Olivier Núñez en [r-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es), comprende aquellos términos del modelo que variarían de realizarse de nuevo el experimento. Y, efectivamente, la próxima vez que se ejecute una _query_, es improbable que ésta sea una de las 200 seleccionadas más arriba. El enunciado particular de la _query_ es, por lo tanto, variable (o aleatorio, en nuestro contexto).
+El modelo consta de términos fijos (`unit.size` y `account.size`) y de una parte aleatoria, `~1 | id`. La parte aleatoria, de acuerdo con el consejo recurrente de mi colega Olivier Núñez en [r-help-es](https://stat.ethz.ch/mailman/listinfo/r-help-es), comprende aquellos términos del modelo que variarían de realizarse de nuevo el experimento. Y, efectivamente, la próxima vez que se ejecute una _query_, es improbable que ésta sea una de las 200 seleccionadas más arriba. El enunciado particular de la _query_ es, por lo tanto, variable (o aleatorio, en nuestro contexto).
 
 Alternativamente, usando modelos no mixtos, podría plantearse el modelo _equivalente_
 

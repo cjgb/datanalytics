@@ -51,6 +51,6 @@ De todos modos, el segundo estudio es mucho más interesante que el primero en t
 
 ### IV.
 
-En estas páginas, de unos años para acá, hemos decidido prestar la atención y dedicarle el esfuerzo que se merecen ---es decir, el mínimo--- a esos promedios globales en que se suman y confunden fenómenos micro variopintos. Ambos relatos, en el fondo, adolecen de lo mismo: argumentar sobre agregaciones de peras y manzanas. Es cierto que a niveles distintos ---internacional, global el uno; nacional y subnacional el otro--- pero incurriendo en el la misma soberbia decimonónica de pretender que lo que vale para los electrones también sirve para los estudiantes.
+En estas páginas, de unos años para acá, hemos decidido prestar la atención y dedicarle el esfuerzo que se merecen ---es decir, el mínimo--- a esos promedios globales en que se suman y confunden fenómenos micro variopintos. Ambos relatos, en el fondo, adolecen de lo mismo: argumentar sobre agregaciones de peras y manzanas. Es cierto que a niveles distintos ---internacional, global el uno; nacional y subnacional el otro--- pero incurriendo en la misma soberbia decimonónica de pretender que lo que vale para los electrones también sirve para los estudiantes.
 
 Aquí somos más de mirar por la ventana, pasear por el barrio, andar con los ojos abiertos; contrastar la complejidad de lo micro con las parmenidades altomodernistas y, luego, echarnos unas buenas risas.

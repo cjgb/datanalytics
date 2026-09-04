@@ -41,7 +41,7 @@ En los artículos se consideran varios fármacos: T, F, A, C y E. Conocidos P(T)
 
 >En los casos en que se necesita conocer la probabilidad de sensibilidad a una combinación de tratamientos en función de las de cada uno de los que lo componen, usamos el _teorema para las probabilidades combinadas_ descrito por William Feller.
 
-Los bioinformáticos forenses trataron de identificar cuáles eran esas fórmulas de Feller que habían sido usadas en el artículo y las descubrieron que se usaron las siguientes:
+Los bioinformáticos forenses trataron de identificar cuáles eran esas fórmulas de Feller que habían sido usadas en el artículo y descubrieron que se usaron las siguientes:
 
 $$P( TFAC ) = P( T ) + P( F ) + P( A ) + P( C ) - P( T )P( F )P( A )P( E )$$
 $$P( TET ) = P( ET ) = max( P( E ), P( T ) )$$

@@ -36,7 +36,7 @@ se construyó en 1948 usando un procedimiento básico: $h$ son dos caracteres y 
 
 Los lectores más sofisticados de estas páginas estarán intuyendo que dichos modelos han tenido que ser extraídos necesariamente del artículo
 [_A Mathematical Theory of Communication_](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
-que publicó de Claude Shannon nada menos que en 1948 y cuya lectura se recomienda muy encarecidamente: es mucho más provechosa que, p.e., seguir la abochornante actualidad del siglo que corre.
+que publicó Claude Shannon nada menos que en 1948 y cuya lectura se recomienda muy encarecidamente: es mucho más provechosa que, p.e., seguir la abochornante actualidad del siglo que corre.
 
 ### II.
 

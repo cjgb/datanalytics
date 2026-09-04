@@ -32,4 +32,4 @@ Como ocurre habitualmente, un modelo predictivo no deja de ser un modelo descrip
 
 ¿Y?
 
-Pues que lo anterior tiene una moraleja más que evidente cuando se habla de sesgos, ética, etc. en el _deep learning_ que, por consideración las buenas luces de mis lectores, me voy a abstener de desarrollar.
+Pues que lo anterior tiene una moraleja más que evidente cuando se habla de sesgos, ética, etc. en el _deep learning_ que, por consideración a las buenas luces de mis lectores, me voy a abstener de desarrollar.

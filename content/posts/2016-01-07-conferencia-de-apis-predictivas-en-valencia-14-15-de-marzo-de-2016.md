@@ -24,4 +24,4 @@ Los días 14 y 15 de marzo de este año tendrá lugar en Valencia [esta conferen
 
 >El objetivo de PAPIs Connect es mostrar cómo el aprendizaje automático (ML) y la inteligencia artificial (AI) pueden servir a todo tipo de organizaciones —de _startups_ a grandes empresas— para crear aplicaciones predictivas y sistemas autónomos que resuelvan problemas reales tanto en los negocios como fuera de ellos. Ejemplos típicos son el mantenimiento predictivo, predicción de la demanda aplicada a la logística, optimización de precios, detección de fugas, automatización de tareas, etc.
 
-Se puede encontrar más información en [este enlace](https://www.linkedin.com/pulse/calling-speakers-artificial-intelligence-business-tech-louis-dorard) y el en [canal de Youtube de las conferencias](https://www.youtube.com/channel/UCHMa1aYqXIQPnQD34W-ejQg).
+Se puede encontrar más información en [este enlace](https://www.linkedin.com/pulse/calling-speakers-artificial-intelligence-business-tech-louis-dorard) y en el [canal de Youtube de las conferencias](https://www.youtube.com/channel/UCHMa1aYqXIQPnQD34W-ejQg).

@@ -27,7 +27,7 @@ Pero en otras ---por ejemplo, en la
 
 Por eso es relevante el siguiente problema (extraído de [aquí](https://statmodeling.stat.columbia.edu/2022/02/01/a-question-about-exercise-4-9-in-regression-and-other-stories-my-questioner-asked-for-a-bayesian-solution-but-in-that-case-i-was-thinking-of-a-simple-classical-approach-based-on-linearly-transformin/)):
 
-> Una pregunta de selección múltiple de tiene cuatro opciones. Supóngase que el alumno que toma el examen o sabe la respuesta o responde al azar. 100 alumnos realizan el examen y 60 marcan la respuesta correcta. Constrúyase un intervalo de confianza al 95% para la proporción de los alumnos que sabían la respuesta.
+> Una pregunta de selección múltiple tiene cuatro opciones. Supóngase que el alumno que toma el examen o sabe la respuesta o responde al azar. 100 alumnos realizan el examen y 60 marcan la respuesta correcta. Constrúyase un intervalo de confianza al 95% para la proporción de los alumnos que sabían la respuesta.
 
 En el enlace anterior hay una solución _rápida_ para el problema. Pero es más tediosa que programarla _estilo bayesiano_,
 
