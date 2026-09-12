@@ -20,7 +20,7 @@ tags:
 - economía
 - racionalidad acotada
 - predicción
-title: 'Notas (29): apuntes sobre econmía'
+title: 'Notas (29): apuntes sobre economía'
 url: /2026/07/14/cortos-economia/
 ---
 
