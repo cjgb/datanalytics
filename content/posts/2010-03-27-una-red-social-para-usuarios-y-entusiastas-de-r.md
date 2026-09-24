@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - anuncio
 date: 2010-03-27 17:00:20+00:00
-lastmod: '2025-04-06T18:49:29.694709'
+lastmod: '2026-09-24'
 noindex: true
 related:
 - 2010-10-02-un-foro-de-discusion-para-usuarios-de-sas.md
@@ -21,4 +21,4 @@ Es encomiable el esfuerzo realizado por SAS para crear una comunidad integrada d
 
 Avanzando más allá de [SAS-L](http://www.sascommunity.org/wiki/SAS-L), la lista de correo de los usuarios de SAS, se ha subido al carro de la Web 2.0 y ha creado un servicio abierto a la comunidad que tiene algo de red social: [sasCommunity.org](http://www.sascommunity.org). Sus usuarios están invitados a subir sus propios documentos, crear páginas en la _wiki_ y, por supuesto, contactar con otros usuarios. Además, SAS utiliza el portal para vehicular información acerca de congresos, eventos y publicaciones; divulgar información corporativa, etc.
 
-Finalmente, sorprende que una empresa con [una política comercial tan cuestionada](http://analisisydecision.es/tag/sas-es-muy-caro/) recurra a una tecnología abierta, [el motor de la Wikipedia](http://www.mediawiki.org/wiki/MediaWiki), como plataforma tecnológica para crear esta comunidad virtual.
+Finalmente, sorprende que una empresa con [una política comercial tan cuestionada](https://analisisydecision.datanalytics.com/tags/sas-es-muy-caro/) recurra a una tecnología abierta, [el motor de la Wikipedia](http://www.mediawiki.org/wiki/MediaWiki), como plataforma tecnológica para crear esta comunidad virtual.

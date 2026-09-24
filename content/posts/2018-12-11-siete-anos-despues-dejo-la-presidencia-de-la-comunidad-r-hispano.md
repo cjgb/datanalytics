@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-12-11 08:13:55+00:00
 noindex: true
-lastmod: '2025-04-06T18:56:55.766611'
+lastmod: '2026-09-24'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
@@ -35,7 +35,7 @@ Fue en una charla que di unos meses antes en la Complutense, invitado por Gregor
 
 Por eso lo fui finalmente. Y, en gran medida, por eso dejo de serlo ahora.
 
-Sobre la primera charla que de las primeras jornadas de R que existieron escribí en 2009 [lo siguiente](https://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/):
+Sobre la primera charla que de las primeras jornadas de R que existieron escribí en 2009 [lo siguiente](https://analisisydecision.datanalytics.com/blog/noticias-del-congreso-de-usuarios-de-r/):
 
 >La primera ponencia, de  Manuel Muñoz Márquez, trató acerca de la implantación de R y su tendencia en la universidad. Los datos procedían de una encuesta realizada en departamentos (o áreas departamentales) universitarios de estadística y cubría aspectos sobre el grado de uso de R en investigación, docencia, etc., y sobre la existencia de planes de migración más o menos oficiales. Habría sido interesante el haberla podido contrastar con datos de tan solo 3 o 4 años de antigüedad para tener una visión más clara de la tendencia.
 >
@@ -53,6 +53,6 @@ Y yo doy las gracias a todos que pasaron por la junta de la asociación, a todos
 
 **Nota:** he tratado de no mencionar nombres concretos en todo lo anterior por el temor a incurrir en vergonzantes omisiones. Los innombrados saben quiénes son y que cuentan con todo mi agradecimiento.
 
-**Nota:** En aquella época me entretuve en escribir resúmenes de las jornadas a las que asistí como [este](https://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/) de las primeras o [esta](https://datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/), de las segundas.
+**Nota:** En aquella época me entretuve en escribir resúmenes de las jornadas a las que asistí como [este](https://analisisydecision.datanalytics.com/blog/noticias-del-congreso-de-usuarios-de-r/) de las primeras o [esta](https://datanalytics.com/2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/), de las segundas.
 
 **Nota final:** Le deseo mucha suerte a quien quiera que sea mi sucesor. Que aún no se conoce porque estamos en pleno proceso de votaciones.

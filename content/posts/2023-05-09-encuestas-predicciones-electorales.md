@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2023-05-09
-lastmod: '2025-04-06T18:51:35.786805'
+lastmod: '2026-09-24'
 related:
 - 2022-05-10-encuestas-electorales-cualitativas.md
 - 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
@@ -55,7 +55,7 @@ _[Si alguien sabe de alguna empresa u organismo que realice explícitamente pred
 ## V.
 
 Lo que tenemos en España, esencialmente, son _encuestas_. Que, simplemente, aspiran a determinar cuál es la situación en un momento dado. Por ejemplo, en
-[esta nota metodológica del CIS](https://www.cis.es/cis/export/sites/default/-Archivos/Marginales/3240_3259/3242/IM3242.pdf)
+[esta nota metodológica del CIS](http://web.archive.org/web/20230123071606/https://www.cis.es/cis/export/sites/default/-Archivos/Marginales/3240_3259/3242/IM3242.pdf)
 se lee:
 
 > Así, las estimaciones resultantes del modelo aplicado en esta ocasión representan, en cierto modo, un valor de referencia para evaluar el efecto de las campañas electorales que mediaran entre el momento de la medición del estado del sistema actual y los resultados finales.
@@ -88,7 +88,7 @@ De todos modos, se me ocurren dos maneras de evaluar la bondad de una estadísti
 
 De todos modos, pocas vidas pueden ser más descansadas que las de un facedor de encuestas electorales: los números que uno publica son incuestionables. Pueden ser cuestionados, sí, por aquel que financia las encuestas. Tal vez este prefiera ciertas fotos a otras. Pero no tiene que ser muy difícil contentarlo.
 
-[Aquí](https://reis.cis.es/REIS/PDF/REIS_178_091647600818218.pdf) un exresponsable de metodología del CIS dice:
+[Aquí](http://web.archive.org/web/20230116092421/https://reis.cis.es/REIS/PDF/REIS_178_091647600818218.pdf) un exresponsable de metodología del CIS dice:
 
 > No es científicamente aceptable la trasformación de los datos exclusivamente por consideraciones genéricas basadas en experiencias empíricas previas. Alterar la información que procede de la sociedad solamente es aceptable desde un marco teórico que dé cuenta y explique las razones para hacerlo.
 

@@ -28,7 +28,7 @@ Vengo aquí a romper una lanza ---tres, más bien--- en favor de este muy querid
 
 La primera tiene que ver con la ubicuidad del uso de `iris` en infinidad de páginas de ayuda, entradas de blog, textos, etc. Si se le hace a iris lo que a Cartago, muchas cosas dejarán de funcionar y miles de programadores perderán tardes enmendando cosas que hoy funcionan felizmente en lugar de hacer cosas más amenas.
 
-Las otras dos tienen que ver con cualidades nada triviales de `iris` que se esconden tras su aparente simplicidad. La tercera línea de código que invito a ejecutar los lectores de mi [libro de R](https://datanalytics.com/libro_r) es `plot(iris)`, que produce
+Las otras dos tienen que ver con cualidades nada triviales de `iris` que se esconden tras su aparente simplicidad. La tercera línea de código que invito a ejecutar los lectores de mi [libro de R](https://libro-r.datanalytics.com) es `plot(iris)`, que produce
 
 ![](/img/2020/09/plot_iris.png#center)
 

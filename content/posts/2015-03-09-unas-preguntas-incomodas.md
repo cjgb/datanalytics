@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-03-09 08:13:39+00:00
 draft: false
-lastmod: '2025-04-06T18:54:43.545027'
+lastmod: '2026-09-24'
 related:
 - 2018-03-09-brechas-salariales-asi-las-calcularia-yo.md
 - 2019-03-21-encuesta-de-estructura-salarial-y-r-propedeutica.md
@@ -21,7 +21,7 @@ title: Unas preguntas incómodas
 url: /2015/03/09/unas-preguntas-incomodas/
 ---
 
-Que la mujer promedio gana menos que el hombre promedio es un hecho conocido. A los usuarios de R que estén al tanto de mi paquete [MicroDatosEs](https://www.datanalytics.com/tags/microdatoses/) no hace falta siquiera que se lo cuenten: pueden bajar los datos de la [Encuesta de Estructura Salarial](http://www.ine.es/prodyser/microdatos.htm) del INE y hacer el cálculo por sí mismos.
+Que la mujer promedio gana menos que el hombre promedio es un hecho conocido. A los usuarios de R que estén al tanto de mi paquete [MicroDatosEs](https://datanalytics.com/tags/microdatoses/) no hace falta siquiera que se lo cuenten: pueden bajar los datos de la [Encuesta de Estructura Salarial](http://www.ine.es/prodyser/microdatos.htm) del INE y hacer el cálculo por sí mismos.
 
 Que las mujeres ganen menos en promedio aun teniendo en cuenta las [variables recogidas en dicha encuesta](http://www.ine.es/daco/daco42/salarial/cues10.pdf) (nivel de formación, antigüedad en el puesto de trabajo, etc.) es también un hecho. Los usuarios de R también pueden crear un modelo descriptivo: el fenómeno se manifiesta claramente. O pueden (sepan o no R) leer cualquiera de los informes publicados al respecto para llegar a la misma conclusión.
 

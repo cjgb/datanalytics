@@ -27,7 +27,7 @@ $$\binom{n + x - 1}{x} p^r (1 - p)^x.$$
 
 Pero esta caracterización, muy útil para resolver problemas de probabilidad construidos artificialmente para demostrar que los alumnos han estudiado la lección con aprovechamiento, se queda muy corta a la hora de proporcionar intuiciones sobre cómo, cuándo y por qué utilizarla en el ámbito en el que es más útil: el análisis de los procesos puntuales.
 
-En ellos manda Poisson. El motivo está desarrollado (¿mejorablemente?) en [mi (inacabado) libro de estadística](https://datanalytics.com/libro_estadistica/distribuciones-de-probabilidad.html#distribuciones-de-probabilidad-discretas), por lo que no me explayaré más aquí al respecto y me limitaré a rescatar de él el parrafito que dice:
+En ellos manda Poisson. El motivo está desarrollado (¿mejorablemente?) en [mi (inacabado) libro de estadística](https://libro-estadistica.datanalytics.com/distribuciones-de-probabilidad.html#distribuciones-de-probabilidad-discretas), por lo que no me explayaré más aquí al respecto y me limitaré a rescatar de él el parrafito que dice:
 
 > En general, si $n$ es grande y $p$ relativamente pequeña, se puede demostrar que las variables aleatorias binomiales de parámetros $\alpha n$ y $p/\alpha$ [para distintos valores de $\alpha$] son aproximadamente iguales y que, en el fondo, la distribución solo depende de la media, $np$. Esa distribución común es conocida como distribución de Poisson, que admite como parámetro el valor $np$, que se suele denominar intensidad y denotar por $\lambda$. El nombre hace referencia al número de eventos que cabe esperar, a lo intenso del fenómeno aleatorio que modela.
 

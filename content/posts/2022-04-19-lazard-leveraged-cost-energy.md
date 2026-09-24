@@ -4,7 +4,7 @@ categories:
 - varios
 date: 2022-04-19
 description: Una plantilla para calcular el coste nivelado de la energía
-lastmod: '2025-04-06T18:51:10.512245'
+lastmod: '2026-09-24'
 related:
 - 2021-07-28-apuntes-para-el-estudio-del-impacto-del-cierre-de-la-central-nuclear-de-garona-en-el-precio-de-la-electricidad-en-espana.md
 - 2023-07-18-energia-nuclear-salvara-mundo.md
@@ -24,7 +24,7 @@ A nadie se le escapa que los mercados energéticos viven tiempos convulsos. Sin 
 
 Para paliar el general desconocimiento de los fundamentos económicos de la cosa, he creado [este cuadro de mandos](http://shiny.datanalytics.com/levelized_cost_energy/).
 Implementa dinámicamente las hojas de cálculo que subyacen al documento [_Levelized Cost of Energy Analysis (v. 15.0)_](
-https://www.lazard.com/media/451905/lazards-levelized-cost-of-energy-version-150-vf.pdf)
+http://web.archive.org/web/20230306082651/https://www.lazard.com/media/451905/lazards-levelized-cost-of-energy-version-150-vf.pdf)
 de [Lazard](https://www.lazard.com/),
 una empresa en cuya página web no explica claramente a lo que se dedica pero de la que podría deducirse que se dedica a la consultoría de alto vuelo.
 

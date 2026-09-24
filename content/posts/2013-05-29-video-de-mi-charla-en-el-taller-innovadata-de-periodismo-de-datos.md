@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2013-05-29 07:36:12+00:00
 noindex: true
-lastmod: '2025-04-06T18:50:52.274068'
+lastmod: '2026-09-24'
 related:
 - 2012-01-20-disponibles-los-videos-sobre-periodismo-de-datos-en-medialab-prado.md
 - 2013-05-22-charla-el-dia-27-en-el-taller-innovadata-de-periodismo-de-datos.md
@@ -27,4 +27,4 @@ Ayer, tal y [como anuncié el otro día](/2013/05/22/charla-el-dia-27-en-el-tall
 
 {{< youtube HsSHVyk_448 >}}
 
-Las diapositivas de la charla (que en el vídeo, desgraciadamente, son, por así decirlo, _asíncronas_) pueden descargarse [aquí](http://www.civio.es/wp-content/uploads/2013/05/PPios-b%C3%A1icos-estadisitica_Gil-Bellosta.pdf).
+Las diapositivas de la charla (que en el vídeo, desgraciadamente, son, por así decirlo, _asíncronas_) pueden descargarse [aquí](http://web.archive.org/web/20131030012434/http://www.civio.es/wp-content/uploads/2013/05/PPios-b%C3%A1icos-estadisitica_Gil-Bellosta.pdf).

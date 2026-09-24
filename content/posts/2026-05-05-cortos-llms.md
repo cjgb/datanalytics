@@ -6,7 +6,7 @@ date: 2026-05-05
 description: 'Una selección de noticias recientes del mundo de los LLMs: nuevos modelos
   (como Gemma 4), el mecanismo de la «cuantización», el impacto del «vibe coding»
   y más.'
-lastmod: '2026-05-02T01:34:14.042123'
+lastmod: '2026-09-24'
 related:
 - 2026-03-30-cortos.md
 - 2026-02-09-cortos.md
@@ -30,7 +30,7 @@ Google DeepMind ha lanzado [_Gemma 4_](https://blog.google/innovation-and-ai/tec
 
 En [_The Smart Second Mover_](https://www.siliconcontinent.com/p/the-smart-second-mover-part-ii), Luis Garicano dibuja una estrategia de adopción de la IA para Europa: debería enfocarse en la implementación y difusión de la IA en lugar de competir únicamente en la creación de modelos fundacionales (una carrera que, además, parece ya perdida). También ha escrito sobre la [heterogeneidad en la adopción de la IA](https://www.siliconcontinent.com/p/what-explains-heterogeneity-in-ai), que la asocia con las distintas prácticas de gestión empresarial y la flexibilidad de las instituciones laborales; de hecho, identifica la falta de meritocracia y las estructuras organizativas rígidas en ciertas regiones europeas como los principales obstáculos para aprovechar los beneficios de productividad asociados a la IA.
 
-[_Do Claude Code and Codex P-Hack?_](https://andrewbenjaminhall.com/asher_et_al_LLM_sycophancy.pdf) (No en primera instancia; se niegan a ello. Pero sí si uno sabe cómo manejarlos.)
+[_Do Claude Code and Codex P-Hack?_](http://web.archive.org/web/20260414053957/http://andrewbenjaminhall.com/asher_et_al_LLM_sycophancy.pdf) (No en primera instancia; se niegan a ello. Pero sí si uno sabe cómo manejarlos.)
 
 [Matthew Yglesias se «baja» del _vibe coding_](https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything): en lugar de crear sus propias aplicaciones, espera poder comprar _software_ abundante, bueno y barato que creen profesionales. Por su parte, Simon Willison argumenta que [un sistema similar a los RSS sería más adecuado para distribuir todo el _software_](https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything) (en particular, pequeñas aplicaciones que resuelven problemas concretos) que hoy se producen tan abundantemente gracias a los LLMs.
 

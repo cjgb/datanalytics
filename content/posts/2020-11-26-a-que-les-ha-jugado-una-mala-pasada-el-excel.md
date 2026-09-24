@@ -6,7 +6,7 @@ categories:
 - mala ciencia
 date: 2020-11-26 11:48:47+00:00
 draft: false
-lastmod: '2025-04-06T19:07:04.383076'
+lastmod: '2026-09-24'
 related:
 - 2012-06-06-definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista.md
 - 2016-12-12-un-muy-cuestinoable-analisis-de-lo-de-pisa.md
@@ -30,7 +30,7 @@ Se ha dado por cabal en muchos medios lo que espero que no llegue a más que a u
 
 que evidencian lo muy mucho que sus autores han logrado resistirse a la actualísima e imperiosa moda de leer, no sé si con aprovechamiento, _The Book of Why_.
 
-Es [esto](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/Informe%20trimestral/20/Recuadros/Fich/be2004-it-Rec7-Av.pdf), que contiene un gráfico, el cuatro, donde compara la tasa de paro de los estudiantes de diversas especialidades españoles (barra roja) con los de la media de la zona euro (azul),
+Es [esto](http://web.archive.org/web/20201124100747/https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/Informe%20trimestral/20/Recuadros/Fich/be2004-it-Rec7-Av.pdf), que contiene un gráfico, el cuatro, donde compara la tasa de paro de los estudiantes de diversas especialidades españoles (barra roja) con los de la media de la zona euro (azul),
 
 ![](/img/2020/11/EnpQnw1XUAEXZIy.png#center)
 

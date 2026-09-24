@@ -4,7 +4,7 @@ categories:
 - números
 date: 2018-10-31 08:13:59+00:00
 draft: false
-lastmod: '2025-04-06T19:07:03.603334'
+lastmod: '2026-09-24'
 related:
 - 2014-01-03-los-censos-huelen-a-naftalina-y-son-muy-caros.md
 - 2013-02-11-voy-a-partir-una-lanza-a-favor-de-rosell-a-cuenta-de-la-epa.md
@@ -24,7 +24,7 @@ Leo ([fuente](http://www.congreso.es/portal/page/portal/Congreso/PopUpCGI?CMD=VE
 
 Párrafo del que se coligen conclusiones muy lamentables. Pero que permiten poner un precio (¿o parte? ¿va la realización del trabajo de campo en España a cargo del CIS y no va incluido en esa cifra?) a la participación española en la ESS.
 
-Por otra parte, [aquí](https://www.europeansocialsurvey.org/docs/data_users/ESS_data_user_stats_sept_2018.pdf) se indica el número de usuarios registrados (7035 en España) y número de descargas (4463 para España, ¡la cuasimitad!) de los resultados de la encuesta. Que se reducen a 563 descargas en la última ola de la que hay datos disponibles.
+Por otra parte, [aquí](http://web.archive.org/web/20221102175245/https://www.europeansocialsurvey.org/docs/data_users/ESS_data_user_stats_sept_2018.pdf) se indica el número de usuarios registrados (7035 en España) y número de descargas (4463 para España, ¡la cuasimitad!) de los resultados de la encuesta. Que se reducen a 563 descargas en la última ola de la que hay datos disponibles.
 
 Divides y te sale casi a 400 euros por descarga.
 

@@ -24,7 +24,7 @@ title: '"Introducción a la probabilidad y la estadística para científicos de 
 url: /2020/11/30/introduccion-a-la-probabilidad-y-la-estadistica-para-cientificos-de-datos-segunda-entrega/
 ---
 
-Acabo de [subir](https://datanalytics.com/libro_estadistica/):
+Acabo de [subir](https://libro-estadistica.datanalytics.com/):
 
 * Modificaciones y correcciones a los dos primeros capítulos.
 * Un tercer capítulo sobre distribuciones de probabilidad.

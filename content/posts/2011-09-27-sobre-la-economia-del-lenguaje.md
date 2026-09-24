@@ -6,7 +6,7 @@ categories:
 - probabilidad
 date: 2011-09-27 07:39:31+00:00
 draft: false
-lastmod: '2025-04-06T18:52:20.067232'
+lastmod: '2026-09-24'
 related:
 - 2023-10-05-llms-historia.md
 - 2021-03-02-un-argumento-para-usar-la-normal-la-maximizacion-de-la-entropia.md
@@ -24,7 +24,7 @@ url: /2011/09/27/sobre-la-economia-del-lenguaje/
 
 De acuerdo con una observación de [Zipf](http://es.wikipedia.org/wiki/George_Kingsley_Zipf) (y supongo que de muchos otros y que no hay que confundir con [su ley](http://es.wikipedia.org/wiki/Ley_de_Zipf)), la longitud de las palabras más corrientes es menor que las que se usan menos frecuentemente.
 
-Un estudio reciente, _[Word lengths are optimized for efficient communication](http://web.mit.edu/piantado/www/papers/PNAS-2011-Piantadosi-1012551108.pdf)_, matiza esa observación: la cantidad de información contenida en una palabra predice mejor la longitud de las palabras que la frecuencia de aparición pura. En una comparación entre diversos idiomas europeos, parece manifestarse que palabras que aportan poca información son breves; las que aportan mucha, más largas.
+Un estudio reciente, _[Word lengths are optimized for efficient communication](http://web.archive.org/web/20130426231341/http://web.mit.edu/piantado/www/papers/PNAS-2011-Piantadosi-1012551108.pdf)_, matiza esa observación: la cantidad de información contenida en una palabra predice mejor la longitud de las palabras que la frecuencia de aparición pura. En una comparación entre diversos idiomas europeos, parece manifestarse que palabras que aportan poca información son breves; las que aportan mucha, más largas.
 
 La cantidad de información que transmite una palabra depende del contexto. En un contexto c, la cantidad de información que contiene una palabra _w_ es $-log P( w | c)$, el logaritmo de la probabilidad de que _w_ ocurra en dicho contexto. La cantidad global de información que transmite una palabra es la media de dicha cantidad a través de los contextos en que aparece _w_, es decir
 

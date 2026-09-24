@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "project": "NadaEsGratis immigration articles with an economic verdict — annex for final report",
+    "source_corpus": "nadaesgratis_inmigracion_v3.json (67 screened, 58 about immigration)",
+    "inclusion_criterion": "article states the author's own verdict on the ECONOMIC effect of immigration on the receiving society (positive | non-negative | mixed); economic-only definition per SPEC_V2.md as amended",
+    "n_included": 16,
+    "codebook": {
+      "receiving_society": "society receiving the immigration studied (compound value for literature reviews)",
+      "effect_on_receiving_society": "positive = net benefit endorsed; non-negative = null/zero adverse effects without net-benefit claim (weakest-endorsed-claim rule); mixed = winners and losers / conditional; no negatives in corpus",
+      "distinguishes_immigrant_types": "true only if article explicitly compares migrant sub-types (skill, origin, legal status, refugee vs economic, generation)",
+      "discusses_causal_entanglement": "YES = explicitly discusses immigrants selecting into strong economies as a bias (usually with an identification fix); PASSING-MENTION = touches identification/reverse causality without stating destination selection; NO = no discussion. Judged from full article text; quotes in Spanish."
+    }
+  },
+  "articles": [
+    {
+      "title": "Los Inmigrantes y la Economía Española antes y después de la crisis",
+      "url": "https://nadaesgratis.es/sara-de-la-rica/los-inmigrantes-y-la-economia-espanola-antes-y-despues-de-la-crisis",
+      "author": "Sara de la Rica",
+      "publication_date": "2010-11-26",
+      "publication_year": 2010,
+      "receiving_society": "Spain",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "fiscal",
+        "pensions/demography",
+        "employment",
+        "wages",
+        "productivity"
+      ],
+      "effect_summary": "The article argues immigration into Spain brought net economic benefits: demographic rejuvenation and about-five-year delay of pension sustainability, complementary labour that let natives move to more qualified (higher-wage) jobs, higher female labour-force participation, and greater geographic mobility reducing regional disparities. It rebuts the productivity concern (immigrants are consequence, not cause, of low productivity) and finds no clear evidence immigrants displace native jobs. Overall verdict positive for the receiving economy.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "by skill level (low-skilled vs. qualified workers); also by sector/occupation",
+      "discusses_causal_entanglement": "PASSING-MENTION",
+      "entanglement_quote": "cabría preguntarse, no obstante, si la inmigración es causa de la baja productividad de nuestro país o consecuencia de la misma. Yo más me inclino por lo segundo",
+      "entanglement_note": "Flags reverse causality on the productivity effect only, not destination self-selection."
+    },
+    {
+      "title": "Algunos efectos de las migraciones de trabajadores cualificados",
+      "url": "https://nadaesgratis.es/admin/los-efectos-de-las-migraciones-de-trabajadores-cualificados",
+      "author": null,
+      "publication_date": "2014-02-05",
+      "publication_year": 2014,
+      "receiving_society": "EU",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "productivity",
+        "wages"
+      ],
+      "effect_summary": "The article argues that skilled migration within the EU mainly benefits receiving labour markets: the influx of educated workers raises productivity and wage levels, and it finds no significant welfare-systems effect since migrants' net fiscal contribution is not below residents'. The author notes only the noted low-skilled-inflow channel tends to depress wages of the least-educated natives, while the main negative effect (brain drain) falls on origin countries.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "low- vs high-skilled (by education level); by origin (EU15 with solid integration vs EU12/former socialist countries with worse integration)",
+      "discusses_causal_entanglement": "PASSING-MENTION",
+      "entanglement_quote": "Un ejemplo reciente ... lo proporciona Monras analizando un experimento natural como fue la ola migratoria de Méjico a Estados Unidos que siguió a la crisis del Peso",
+      "entanglement_note": "Invokes a natural experiment for identification without stating the destination-selection bias it fixes."
+    },
+    {
+      "title": "Competir por cerebros: ¿Se benefician las empresas de la contratación de trabajadores extranjeros cualificados?",
+      "url": "https://nadaesgratis.es/admin/competir-por-cerebros-se-benefician-las-empresas-de-la-contratacion-de-trabajadores-extranjeros-cualificados",
+      "author": "Francesc Ortega",
+      "publication_date": "2015-03-26",
+      "publication_year": 2015,
+      "receiving_society": "USA",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "productivity",
+        "employment",
+        "innovation"
+      ],
+      "effect_summary": "The 2004 US H-1B quota cut (195k to 85k visas) reduced productivity, sales, employment and profits of the most dependent R&D-intensive firms; i.e. skilled immigration benefits the host economy. Causal variation is a visa-policy change.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "by skill level (H-1B-skilled foreign workers vs. general workers); firms by R&D/H-1B intensity",
+      "discusses_causal_entanglement": "PASSING-MENTION",
+      "entanglement_quote": "En algunos años los visados H-1B se distribuyeron mediante lotería, lo cual permitiría una mejor identificación de los efectos",
+      "entanglement_note": "Firm-level H-1B policy/lottery identification; no destination-endogeneity framing."
+    },
+    {
+      "title": "¿Puede ayudar la investigación en economía a la política comunitaria sobre inmigración?",
+      "url": "https://nadaesgratis.es/libertad-gonzalez/puede-ayudar-la-investigacion-en-economia-a-la-politica-comunitaria-sobre-inmigracion",
+      "author": "Libertad González",
+      "publication_date": "2015-09-09",
+      "publication_year": 2015,
+      "receiving_society": "EU",
+      "effect_on_receiving_society": "non-negative",
+      "effect_domain": [
+        "wages",
+        "employment"
+      ],
+      "effect_summary": "Article's verdict on host-society economics: decades of empirical research show low-skilled immigration is not a significant threat to native wages or unemployment, contrary to a naive supply-demand analysis. Broader liberalization of destination-country migration policies would raise global GDP and welfare, though its global-welfare framing goes beyond the single host society.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "NO",
+      "entanglement_quote": null,
+      "entanglement_note": "Notes naive supply-demand overstates wage harms but blames naive reasoning, not destination selection; no identification discussion."
+    },
+    {
+      "title": "La inmigración y los salarios y el empleo de los nativos",
+      "url": "https://nadaesgratis.es/bentolila/la-inmigracion-y-los-salarios-y-el-empleo-de-los-nativos",
+      "author": "Samuel Bentolila",
+      "publication_date": "2016-06-01",
+      "publication_year": 2016,
+      "receiving_society": "Spain",
+      "effect_on_receiving_society": "non-negative",
+      "effect_domain": [
+        "wages",
+        "employment",
+        "productivity"
+      ],
+      "effect_summary": "Article's verdict: for standard immigration (emphasised by Spanish studies Carrasco-Jimeno-Ortega and González-Ortega) there are no significant negative effects on native wages or employment. The featured Czech cross-border worker study finds a large negative elasticity (wages -0.13%, employment -0.93% per percentage point of entrants), but the author frames it as a special pure labour-supply-shock upper bound (commuters with little demand effect), not typical immigration.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "YES",
+      "entanglement_quote": "Para salvar este escollo se eligen los distritos de 'control' ... se utiliza la senda de los distritos no afectados para construir ese contrafactual. / Si la economía está creciendo —como sucedía en los distritos fronterizos—, los salarios y el empleo de los residentes pueden fácilmente aumentar.",
+      "entanglement_note": "Czech-commuter natural experiment (policy-forced placement, no residence choice) vs control districts as the fix for destination self-selection."
+    },
+    {
+      "title": "La integración laboral de los inmigrantes",
+      "url": "https://nadaesgratis.es/jose-luis-ferreira/la-integracion-laboral-de-los-inmigrantes",
+      "author": "José Luis Ferreira",
+      "publication_date": "2017-02-10",
+      "publication_year": 2017,
+      "receiving_society": "USA/Europe (literature review)",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "wages",
+        "employment",
+        "productivity"
+      ],
+      "effect_summary": "Article's verdict: immigration brings more economic benefits than disadvantages to host labor markets. It reviews recent literature concluding an absence of important negative effects on native wages/employment (e.g. Ottaviano-Peri find a small positive effect on native wages via complementarities), while acknowledging Borjas-estimated adverse effects on the least-skilled. Overall net-beneficial assessment.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "skill/education level and origin (workers divided by education and origin for cross-effects; task specialization between immigrant and native workers)",
+      "discusses_causal_entanglement": "YES",
+      "entanglement_quote": "Unos autores estudian experimentos naturales en los que fueron razones políticas, y no económicas, las que causaron un flujo de emigrantes a una región particular, como el éxodo de Mariel, la repatriación a Francia tras la independencia de Argelia o la llegada a Dinamarca de refugiados...",
+      "entanglement_note": "Justifies natural experiments precisely because they remove the economic motive behind where migrants go; surveys skill-cell vs cross-region strategies."
+    },
+    {
+      "title": "Los efectos a largo plazo de la inmigración",
+      "url": "https://nadaesgratis.es/fran-beltran/los-efectos-a-largo-plazo-de-la-inmigracion",
+      "author": "Francisco Beltrán Tapia",
+      "publication_date": "2017-05-03",
+      "publication_year": 2017,
+      "receiving_society": "USA",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "GDP per capita",
+        "employment",
+        "productivity"
+      ],
+      "effect_summary": "Article's verdict (via Nunn, Qian & Sequeira): US counties with greater mass-era immigration enjoy higher GDP per capita, less poverty and unemployment and better educational and urbanization outcomes today; immigration raised agricultural productivity, industrial activity and innovation in the short and long run.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "NO",
+      "entanglement_quote": null,
+      "entanglement_note": "Long-run US county outcomes reported without discussing destination self-selection, reverse causality, or identification."
+    },
+    {
+      "title": "Una vision sesgada del debate sobre la inmigracion",
+      "url": "https://nadaesgratis.es/admin/inmigracion-y-economia-una-vision-sesgada-sobre-el-tema-para-abrir-el-debate",
+      "author": "Joan Monras",
+      "publication_date": "2018-11-09",
+      "publication_year": 2018,
+      "receiving_society": "USA/Europe (literature review)",
+      "effect_on_receiving_society": "mixed",
+      "effect_domain": [
+        "wages",
+        "employment",
+        "fiscal"
+      ],
+      "effect_summary": "Article's own verdict: immigration's effect on host labor markets is heterogeneous and conditional - some native groups gain, others lose (notably lower-skilled natives competing with immigrant labor), effects dissipate faster in the US and absorb more slowly in some European countries, and legalization raises fiscal collection while redistributing labor-market access. No single net benefit/adverse conclusion.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "skill/education level (more vs less skilled immigrants) and legal status (documented vs undocumented)",
+      "discusses_causal_entanglement": "YES",
+      "entanglement_quote": "Quizás los inmigrantes cubanos eligieron vivir en Miami porque la demanda laboral en Miami es alta y los salarios atractivos. Si es así y comparamos Miami con otra ciudad... quizás concluimos de manera equivocada que los inmigrantes aumentan los salarios simplemente porque han elegido vivir en la ciudad con mayor demanda laboral.",
+      "entanglement_note": "Textbook treatment: opens with '¿Dónde eligen vivir los inmigrantes?' and reviews destination-choice theories (labor demand, networks) as key to valid comparisons."
+    },
+    {
+      "title": "Los inmigrantes nos roban los empleos (o no)",
+      "url": "https://nadaesgratis.es/juan-luis-jimenez/los-inmigrantes-nos-roban-los-empleos-o-no",
+      "author": "Juan Luis Jiménez",
+      "publication_date": "2020-12-15",
+      "publication_year": 2020,
+      "receiving_society": "USA/Europe (literature review)",
+      "effect_on_receiving_society": "non-negative",
+      "effect_domain": [
+        "employment",
+        "wages",
+        "productivity",
+        "fiscal"
+      ],
+      "effect_summary": "Reviews labour-market and broader economic evidence (Mariel, Peri et al., entrepreneurship, innovation, fiscal contributions), concluding effects are 'positive or, at least, non-negative'. Coded non-negative under the weakest-endorsed-claim rule: positivity is allowed, non-negativity is endorsed.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "skill level (low- vs high-skilled immigrants), refugee vs economic/labour migrant, and immigrant entrepreneurs",
+      "discusses_causal_entanglement": "YES",
+      "entanglement_quote": "Burchardi et al (2020) estudian los efectos que la inmigración ha tenido, a nivel regional, en EEUU en el periodo 1975-2010 y encuentran (teniendo en cuenta la endogeneidad de la decisión de localización de los inmigrantes) que, en media, la inmigración tuvo un impacto causal positivo...",
+      "entanglement_note": "Explicitly flags endogeneity of immigrants' location choice; leans on Mariel, Hurricane Maria/Puerto-Rico-to-Orlando, Swiss border liberalization."
+    },
+    {
+      "title": "Cambio climático y migración en África",
+      "url": "https://nadaesgratis.es/admin/cambio-climatico-y-migracion-en-africa",
+      "author": null,
+      "publication_date": "2022-06-07",
+      "publication_year": 2022,
+      "receiving_society": "sub-Saharan Africa (multi-country)",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "GDP per capita",
+        "welfare"
+      ],
+      "effect_summary": "GE model of climate adaptation in sub-Saharan Africa: migration cuts climate-driven welfare losses, and removing migration barriers reverses the GDP-per-capita losses (aggregate fall only 1.2% with migration). Model-simulated; flows include internal and cross-border movement.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "NO",
+      "entanglement_quote": null,
+      "entanglement_note": "Structural spatial model of climate-driven migration as adaptation; no concern with destination-choice bias."
+    },
+    {
+      "title": "El impacto de la inmigración en los precios de la vivienda",
+      "url": "https://nadaesgratis.es/admin/el-impacto-de-la-inmigracion-en-los-precios-de-la-vivienda",
+      "author": "Rosa Sanchis-Guarner",
+      "publication_date": "2023-10-16",
+      "publication_year": 2023,
+      "receiving_society": "Spain",
+      "effect_on_receiving_society": "mixed",
+      "effect_domain": [
+        "housing"
+      ],
+      "effect_summary": "The article quantifies the effect of immigration on Spanish housing prices (2001-2012): a one-percentage-point rise in the immigration rate raises average housing prices by 3.3% (direct demand effect 2.5%, indirect 0.7%), with natives co-locating (3 natives per 10 immigrants) rather than being displaced, partly via consumption complementarities from goods cheapened by immigration. The article documents a price-increasing effect alongside a beneficial consumption channel, rendering a heterogeneous/conditional picture rather than an unambiguous overall verdict.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "YES",
+      "entanglement_quote": "Un simple modelo de estimación de datos de panel con efectos fijos no nos proporciona coeficientes con interpretación causal, ya que los inmigrantes pueden elegir las ubicaciones donde se localizan debido a factores socioeconómicos no observables... Para resolver este problema de identificación, construyo una predicción de la tasa de inmigración basada en una versión del instrumento shift-share (SSIV)...",
+      "entanglement_note": "Uses a shift-share (Bartik-style) instrument precisely to overcome immigrant self-selection of destinations."
+    },
+    {
+      "title": "Un mejor conocimiento de los sistemas de pensiones de reparto mejora las actitudes hacia los migrantes",
+      "url": "https://nadaesgratis.es/admin/un-mejor-conocimiento-de-los-sistemas-de-pensiones-de-reparto-mejora-las-actitudes-hacia-los-migrantes",
+      "author": "Tito Boeri, Matteo Gamalerio, Massimo Morelli, Margherita Negri",
+      "publication_date": "2023-06-12",
+      "publication_year": 2023,
+      "receiving_society": "Italy and Spain",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "pensions/demography",
+        "fiscal"
+      ],
+      "effect_summary": "The article asserts that immigration alleviates pressure on PAYG pension systems: migrants are young, join the host working population, and make net social-security contributions (e.g. ~EUR 7bn in Italy in 2017; Spain's government acknowledges pensions are unsustainable without foreign workers). Immigrant contributions to pension/demographic aggregates are framed as a clear benefit to the receiving society, though the paper's experiment mainly measures information effects on attitudes.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "NO",
+      "entanglement_quote": null,
+      "entanglement_note": "Information-experiment on pension knowledge and attitudes to migrants; nothing on destination endogeneity."
+    },
+    {
+      "title": "Algunos efectos económicos de la inmigración en España: datos versus relato",
+      "url": "https://nadaesgratis.es/admin/algunos-efectos-economicos-de-la-inmigracion-en-espana-datos-versus-relato",
+      "author": "Raquel Carrasco",
+      "publication_date": "2025-02-28",
+      "publication_year": 2025,
+      "receiving_society": "Spain",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "employment",
+        "wages",
+        "productivity",
+        "housing"
+      ],
+      "effect_summary": "The article reviews the empirical evidence on Spain's 2000s immigration wave and concludes the effects were, 'in general, positive or neutral': no significant adverse impact on natives' employment or wages, labour-market complementarities and even productivity gains. It acknowledges that immigration contributed roughly a quarter of the housing-price rise and about half of construction activity during the decade and that integration remains a challenge, but the stated overall verdict on the receiving economy is beneficial/neutral.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "by origin region (Latin American vs Eastern European vs African immigrants, differing integration trajectories) and by skill/occupational level (low-skill vs qualified jobs)",
+      "discusses_causal_entanglement": "YES",
+      "entanglement_quote": "Sus estimaciones toman en consideración los posibles sesgos de selección de los inmigrantes, lo cual es crucial para estimar un impacto causal de la inmigración.",
+      "entanglement_note": "Explicitly flags immigrant selection bias as an obstacle to causal inference; cites selection-adjusted estimates for Spain."
+    },
+    {
+      "title": "La contribución fiscal de los inmigrantes (ii)",
+      "url": "https://nadaesgratis.es/jordi-paniagua/los-inmigrantes-desplazan-trabajos-o-subsidios-ii",
+      "author": "Jordi Paniagua",
+      "publication_date": "2025-02-14",
+      "publication_year": 2025,
+      "receiving_society": "Denmark",
+      "effect_on_receiving_society": "mixed",
+      "effect_domain": [
+        "fiscal"
+      ],
+      "effect_summary": "The article concludes the net fiscal contribution of immigrants 'depends' on age and education composition. In Denmark natives contributed +41bn DKK while immigrants and descendants were net negative (-24bn DKK) and MENAPT-origin immigrants are net negative, though age-standardisation narrows the gap and low-skilled natives are also net negative; the same heterogeneity appears across the OECD. It cautions that a negative fiscal balance does not capture immigrants' full welfare impact (trade, investment, innovation) and argues against myopic selection-based restriction.",
+      "distinguishes_immigrant_types": true,
+      "distinction_basis": "by origin group (native/Western/MENAPT/other non-Western), by education/skill level, by immigrant generation (first/second/third) and by age",
+      "discusses_causal_entanglement": "NO",
+      "entanglement_quote": null,
+      "entanglement_note": "Fiscal-contribution accounting (Denmark, OECD, US) by age/education; no destination-sorting discussion."
+    },
+    {
+      "title": "Los inmigrantes, ¿desplazan trabajos o subsidios? (i)",
+      "url": "https://nadaesgratis.es/jordi-paniagua/los-inmigrantes-roban-los-trabajos-o-los-subsidios-i",
+      "author": "Jordi Paniagua",
+      "publication_date": "2025-02-11",
+      "publication_year": 2025,
+      "receiving_society": "USA (Mariel boatlift)",
+      "effect_on_receiving_society": "non-negative",
+      "effect_domain": [
+        "wages",
+        "employment"
+      ],
+      "effect_summary": "The article reviews the empirical literature on whether immigration reduces native wages, centering on the Mariel (Cuban) boatlift: Card's finding that the inflow did not lower wages of low-skill Miami workers has not been refuted (Borjas 2017 vs Peri & Yasenov 2019 resolved by Clemens & Hunt 2019), and the author concludes there is 'no evidence that immigration takes native jobs'. This is a null/zero-adverse-effect verdict without a claimed net economic benefit.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "PASSING-MENTION",
+      "entanglement_quote": "Uno de los acontecimientos más estudiados (un experimento natural, por ser inesperado) fue el desembarco de más de 125,000 'marielitos'...",
+      "entanglement_note": "Reviews the Card/Borjas Mariel debate as a natural experiment; destination-sorting concern implicit in the 'unexpected shock' setup, not stated."
+    },
+    {
+      "title": "Inmigración y ciclo económico en España: cuando la movilidad importa",
+      "url": "https://nadaesgratis.es/admin/inmigracion-y-ciclo-economico-en-espana-cuando-la-movilidad-importa",
+      "author": "Ismael Gálvez Iniesta",
+      "publication_date": "2026-02-16",
+      "publication_year": 2026,
+      "receiving_society": "Spain",
+      "effect_on_receiving_society": "positive",
+      "effect_domain": [
+        "employment",
+        "wages"
+      ],
+      "effect_summary": "The article shows migration flows into Spain are pro-cyclical and that immigrants' greater geographic mobility buffers recessions ('grease the wheels'): a counterfactual finds that without the pre-recession immigration boom, native unemployment in the Great Recession would have been 1.8 p.p. higher (~156,000 workers). Immigration into Spain is thus presented as beneficial and stabilising for the receiving labour market; the current regularization arriving in an expansion is framed as minimising risk to native employment.",
+      "distinguishes_immigrant_types": false,
+      "distinction_basis": null,
+      "discusses_causal_entanglement": "YES",
+      "entanglement_quote": "Los trabajadores nacidos en el extranjero responden al ciclo económico exactamente como cualquier trabajador o emprendedor: van donde hay oportunidades.",
+      "entanglement_note": "Documents procyclical flows and treats migration as endogenous in a search-and-matching framework."
+    }
+  ]
+}

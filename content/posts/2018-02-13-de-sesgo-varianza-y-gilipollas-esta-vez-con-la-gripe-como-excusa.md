@@ -5,7 +5,7 @@ categories:
 - números
 date: 2018-02-13 08:13:17+00:00
 draft: false
-lastmod: '2025-04-06T19:10:13.279048'
+lastmod: '2026-09-24'
 related:
 - 2020-03-15-la-causa-de-muerte-no-es-la-causa-de-muerte.md
 - 2018-02-22-mas-sobre-sesgo-varianza-y-gripe-estimaciones-a-ojimetro.md
@@ -27,7 +27,7 @@ Un gilipollas se delatará por preferir una mentira exacta a una verdad aproxima
 
 Pues bien, gilipollas del mundo: sabed que los muertos por gripe son muchos, muchos más que esos 472. Corred a echarle la culpa al gobierno, a Carmena, a Puigdemont y los catalanes, al pobrismo imperante o al heteropatriarcado rampante y dejadnos a la gente seria discutir el _quid_ sosegadamente.
 
-El dato de las 472 muertes consta efectivamente en el Informe semanal de Vigilancia de la Gripe en España (el número 531 del 8 de febrero de 2018 para más señas, y no pongo la URL porque es de las _transientes_) pero se refiere al sistema CGHCG (Casos Graves Hospitalizados Confirmados de Gripe), que no tiene objetivos censales o estadísticos sino, más bien, clínicos. Como, [por ejemplo](http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-enfermedades/Guia_procedimientos_vigilancia_gripe_8octubre2014.pdf),
+El dato de las 472 muertes consta efectivamente en el Informe semanal de Vigilancia de la Gripe en España (el número 531 del 8 de febrero de 2018 para más señas, y no pongo la URL porque es de las _transientes_) pero se refiere al sistema CGHCG (Casos Graves Hospitalizados Confirmados de Gripe), que no tiene objetivos censales o estadísticos sino, más bien, clínicos. Como, [por ejemplo](http://web.archive.org/web/20180425132848/http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-enfermedades/Guia_procedimientos_vigilancia_gripe_8octubre2014.pdf),
 
 >Identificar las características epidemiológicas y virológicas de las formas graves de la enfermedad y estudiar las características virológicas de los virus de la gripe asociados a estos casos graves, que incluye: cambios genéticos y antigénicos definidos por determinadas mutaciones concretas o incluso cambios funcionales de determinadas proteínas que confieran una diferente virulencia a los virus detectados.
 

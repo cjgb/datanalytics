@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2016-05-13 08:13:42+00:00
 draft: false
-lastmod: '2025-04-06T18:53:30.514731'
+lastmod: '2026-09-24'
 related:
 - 2020-07-09-sobre-la-curva-roc-como-medida-de-bondad-de-clasificadores.md
 - 2016-03-29-el-auc-es-la-probabilidad-de-que.md
@@ -24,7 +24,7 @@ El otro día me enseñaron una rareza: una curva ROC no cóncava. Digamos que co
 
 ![curva_roc_no_concava](/img/2016/05/curva_roc_no_concava.png#center)
 
-El gráfico que la acompaña [aquí](http://www.bmva.org/bmvc/1998/pdf/p082.pdf),
+El gráfico que la acompaña [aquí](http://web.archive.org/web/20220729105004/http://www.bmva.org/bmvc/1998/pdf/p082.pdf),
 
 ![curva_roc_no_concava_subyacente](/img/2016/05/curva_roc_no_concava_subyacente.png#center)
 

@@ -9,7 +9,7 @@ categories:
 date: 2025-05-22
 description: Una discusión sobre el muestreo al hilo de unas encuestas sobre consumo
   de alcohol en la Comunidad de Madrid.
-lastmod: '2025-06-12T23:26:57.807383'
+lastmod: '2026-09-24'
 related:
 - 2016-06-17-evolucion-historica-de-la-deuda-del-ayuntamiento-de-madrid.md
 - 2015-09-16-asi-no-o-los-sesgos-de-las-encuestas-de-respuesta-voluntaria.md
@@ -36,7 +36,7 @@ no se aprecia ningún patrón de consumo excesivo de alcohol en Madrid: de hecho
 Ese informe se nutre fundamentalmente de los datos de la
 [EDADES](https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/encuestas_EDADES.htm)
 (Encuesta sobre alcohol y otras drogas en España), del Ministerio de Sanidad. En el
-[informe correspondiente a la edición de 2024](https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2024_Informe_EDADES.pdf)
+[informe correspondiente a la edición de 2024](http://web.archive.org/web/20260128190940/https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2024_Informe_EDADES.pdf?)
 de dicha encuesta, la palabra "Madrid" aparece 17 veces y en ninguna de ellas se hace referencia a excesos de consumo de alcohol o incrementos del mismo.
 
 En ninguno de los dos informes anteriores se desglosa el consumo de alcohol diario por CCAA o su evolución temporal. Sin embargo, otras medidas menos específicas apuntan a un descenso paulatino en el consumo de alcohol tanto en Madrid como en el conjunto de España.

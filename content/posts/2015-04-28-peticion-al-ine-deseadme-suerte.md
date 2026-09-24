@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-04-28 08:13:10+00:00
 draft: false
-lastmod: '2025-04-06T18:55:59.136562'
+lastmod: '2026-09-24'
 related:
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 - 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
@@ -31,7 +31,7 @@ Acabo de realizar (día 2015-04-27) la siguiente petición (autoexplicativa) al 
 >Reciban un cordial saludo,
 >
 >Carlos J. Gil Bellosta
->http://www.datanalytics.com
+>http://datanalytics.com
 
 Os mantendré informados del resultado.
 

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-07-01 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:13:18.500525'
+lastmod: '2026-09-24'
 related:
 - 2019-05-30-escenarios-jerarquicos-para-encuestas-electorales-en-contextos-multipartidistas.md
 - 2023-05-09-encuestas-predicciones-electorales.md
@@ -31,7 +31,7 @@ Alguien protestó. Díjome que el uso del condicional estaba prohibido en prensa
 
 ¿Qué tendrá de malo el condicional? ¿De dónde ese afán por las falsas certezas? ¿Cómo sin el condicional expresar la contrafactualidad de "si estudiases, aprobarías" o "si hubiese elecciones mañana y el barómetro del CIS no errase como yerran tantas encuestas, el PP ganaría las elecciones"?
 
-De hecho, el [manual de estilo de El País](http://blogs.elpais.com/files/manual-de-estilo-de-el-pa%C3%ADs.pdf) solo se opone a un uso del condicional (sección 12.37), el llamado condicional de rumor, por dos motivos:
+De hecho, el [manual de estilo de El País](http://web.archive.org/web/20181004175109/http://blogs.elpais.com/files/manual-de-estilo-de-el-pa%C3%ADs.pdf) solo se opone a un uso del condicional (sección 12.37), el llamado condicional de rumor, por dos motivos:
 
 * por ser un galicismo
 * porque los rumores no deberían tener cabida en un medio serio.

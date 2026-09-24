@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2011-04-26 09:53:52+00:00
 draft: false
-lastmod: '2025-04-06T19:05:36.060375'
+lastmod: '2026-09-24'
 related:
 - 2011-04-14-graficos-iv-tutoriales-2.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
@@ -21,7 +21,7 @@ La última entrega de esta serie sobre gráficos, que tal vez debiera haber sido
 
 En primer lugar, mencionaré a los maestros. Cualquiera de los libros que [Chambers](http://www-stat.stanford.edu/~jmc4/), [Cleveland](http://stat.bell-labs.com/wsc/index.html), [Tukey](http://en.wikipedia.org/wiki/John_Tukey) o [Tufte](http://www.edwardtufte.com/tufte/) hayan escrito juntos o por separado es una biblia en el tema. Son lecturas más que recomendadas. A la lista pronto va a ser preciso añadir a Hadley Wickham y su libro _[ggplot2: Elegant Graphics for Data Analysis](http://had.co.nz/ggplot2/book/)_.
 
-Fuera de esas biblias, hay recursos muy valiosos como este documento de recomendaciones del [Parlamento Británico](http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snsg-05073.pdf) del que ya hemos hablado en alguna ocasión anterior, o [este otro](http://www.dataunitwales.gov.uk/Documents/Publications/ADS02000_040712_Presenting_Data_singlepage_Eng.pdf) sobre los mismos temas del gobierno de Gales. En [DataScope](http://www.datascope.be/),  Paul Lewi y Luc Wouters mantienen numerosos recursos muy valiosos.
+Fuera de esas biblias, hay recursos muy valiosos como este documento de recomendaciones del [Parlamento Británico](http://web.archive.org/web/20110202153401/http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snsg-05073.pdf) del que ya hemos hablado en alguna ocasión anterior, o [este otro](http://www.dataunitwales.gov.uk/Documents/Publications/ADS02000_040712_Presenting_Data_singlepage_Eng.pdf) sobre los mismos temas del gobierno de Gales. En [DataScope](http://www.datascope.be/),  Paul Lewi y Luc Wouters mantienen numerosos recursos muy valiosos.
 
 Y los amigos de los recetarios, disponen del _[R Graph Cookbook](http://www.packtpub.com/r-graph-cookbook/book)_, que puede descargarse libremente.
 

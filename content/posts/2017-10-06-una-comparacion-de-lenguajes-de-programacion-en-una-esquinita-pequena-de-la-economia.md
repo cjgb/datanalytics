@@ -5,7 +5,7 @@ categories:
 - python
 date: 2017-10-06 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T19:09:26.413717'
+lastmod: '2026-09-24'
 related:
 - 2017-06-30-una-perspectiva-economica-del-lenguaje.md
 - 2014-05-14-y-sin-embargo-te-quiero.md
@@ -21,7 +21,7 @@ title: Una comparación de lenguajes de programación en una esquinita pequeña 
 url: /2017/10/06/una-comparacion-de-lenguajes-de-programacion-en-una-esquinita-pequena-de-la-economia/
 ---
 
-El título, no el de esta entrada sino el de _[A Comparison of Programming Languages in Economics](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf)_, es una sinécdoque confusa.
+El título, no el de esta entrada sino el de _[A Comparison of Programming Languages in Economics](http://web.archive.org/web/20180315072701/http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf)_, es una sinécdoque confusa.
 
 Que nadie busque en él consejo sobre qué lenguaje estudiar si le interesa el mundo de la economía (en general). O fuera de ella (también en general).
 

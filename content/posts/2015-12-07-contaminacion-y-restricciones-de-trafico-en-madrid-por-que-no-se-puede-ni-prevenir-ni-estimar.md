@@ -5,7 +5,7 @@ categories:
 - números
 date: 2015-12-07 08:13:26+00:00
 draft: false
-lastmod: '2025-04-06T19:02:37.335268'
+lastmod: '2026-09-24'
 related:
 - 2019-10-18-el-modelo-son-las-conclusiones.md
 - 2016-02-05-los-resultados-de-esta-investigacion-tienen-puntos-en-comun-con-la-metodologia-cientifica-aunque-en-ningun-momento-tendran-la-misma-validez-ni-tampoco-es-su-intencion-que-la-tenga.md
@@ -22,7 +22,7 @@ title: 'Contaminación y restricciones de tráfico en Madrid: ¿por qué no se p
 url: /2015/12/07/contaminacion-y-restricciones-de-trafico-en-madrid-por-que-no-se-puede-ni-prevenir-ni-estimar/
 ---
 
-Aparentemente, porque así lo establece el [_protocolo de actuación_](http://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2015/02Febrero/05Jueves/Notasprensa/Contaminaci%C3%B3n/ficheros/Protocolo%20Di%C3%B3xidoNitr%C3%B3geno.pdf), del ayuntamiento de la villa. Lo resume la imagen
+Aparentemente, porque así lo establece el [_protocolo de actuación_](http://web.archive.org/web/20151223095856/http://www.madrid.es:80/UnidadesDescentralizadas/UDCMedios/noticias/2015/02Febrero/05Jueves/Notasprensa/Contaminaci%C3%B3n/ficheros/Protocolo%20Di%C3%B3xidoNitr%C3%B3geno.pdf), del ayuntamiento de la villa. Lo resume la imagen
 
 ![antiestadistica](/img/2015/12/antiestadistica.jpg)
 

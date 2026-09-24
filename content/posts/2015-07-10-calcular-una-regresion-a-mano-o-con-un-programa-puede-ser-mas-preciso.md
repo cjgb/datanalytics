@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2015-07-10 08:13:05+00:00
 draft: false
-lastmod: '2025-04-06T18:56:04.399435'
+lastmod: '2026-09-24'
 related:
 - 2017-10-24-tres-de-seis-consejos-para-mejorar-las-regresiones.md
 - 2017-06-29-hoy-como-excepcion-gritare-y-justificare-malditos-logaritmos.md
@@ -18,7 +18,7 @@ title: Calcular una regresión a mano o con un programa puede ser más preciso
 url: /2015/07/10/calcular-una-regresion-a-mano-o-con-un-programa-puede-ser-mas-preciso/
 ---
 
-Leer sobre la [historia de los `glm`](http://blog.revolutionanalytics.com/2014/05/quick-history-glm.html) me llevó a preguntarme sobre el modelo `probit`, que es —aunque con estas cosas hay que tener cuidado— cuarenta años anterior. Y tirando de ese hilo di con [esto](http://userwww.sfsu.edu/efc/classes/biol710/probit/ProbitAnalysis.pdf), donde se proponen tres métodos para ajustar estos modelos.
+Leer sobre la [historia de los `glm`](http://blog.revolutionanalytics.com/2014/05/quick-history-glm.html) me llevó a preguntarme sobre el modelo `probit`, que es —aunque con estas cosas hay que tener cuidado— cuarenta años anterior. Y tirando de ese hilo di con [esto](http://web.archive.org/web/20210422023245/http://userwww.sfsu.edu/efc/classes/biol710/probit/ProbitAnalysis.pdf), donde se proponen tres métodos para ajustar estos modelos.
 
 El tercer paso del primero es
 

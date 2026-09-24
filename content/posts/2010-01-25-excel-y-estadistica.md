@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2010-01-25
-lastmod: '2025-04-06T18:46:01.812549'
+lastmod: '2026-09-24'
 related:
 - 2011-12-26-ibm-sobre-excel-como-herramienta-estadistica.md
 - 2010-01-29-addenda-excel-y-estadistica.md
@@ -21,7 +21,7 @@ Un buen amigo me comentó que un truco que usaba para incrementar las visitas a 
 
 Los enlaces son ajenos, en inglés, y, algunos, algo viejos (hacen referencias a versiones antiguas de Excel). Van ahí:
 
-1. [Problems With Using Microsoft Excel for Statistics](http://www.cs.uiowa.edu/~jcryer/JSMTalk2001.pdf)
+1. [Problems With Using Microsoft Excel for Statistics](http://web.archive.org/web/20110925155607/http://www.cs.uiowa.edu/~jcryer/JSMTalk2001.pdf)
 2. [Spreadsheet addiction](http://www.burns-stat.com/pages/Tutor/spreadsheet_addiction.html), que trata problemas de las hojas de cálculo en general y de Excel en particular
 3. [Using Excel for survey analysis](http://www.audiencedialogue.net/excel1.html)
 4. Is Microsoft Excel an Adequate Statistics Package?

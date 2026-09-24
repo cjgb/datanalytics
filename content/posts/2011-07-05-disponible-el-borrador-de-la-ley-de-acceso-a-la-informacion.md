@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-07-05 07:56:43+00:00
 noindex: true
-lastmod: '2025-04-06T18:51:13.193186'
+lastmod: '2026-09-24'
 related:
 - 2011-08-02-el-borrador-de-ley-de-transparencia-disponible.md
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
@@ -19,7 +19,7 @@ title: Disponible el borrador de la ley de acceso a la información
 url: /2011/07/05/disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion/
 ---
 
-Ha sido publicado recientemente un borrador de lo que pudiera convertirse en la futura [Ley de Transparencia española](http://www.access-info.org/documents/Access_Docs/Advancing/Spain/Espana_Anteproyecto_Ley_Transparencia.pdf). Quiere esta ley regular las obligaciones de las administraciones públicas en lo concerniente a la difusión de los datos que obran en su poder y no tiene desperdicio su exposición de motivos, que comienza así:
+Ha sido publicado recientemente un borrador de lo que pudiera convertirse en la futura [Ley de Transparencia española](http://web.archive.org/web/20140630095324/http://www.access-info.org/documents/Access_Docs/Advancing/Spain/Espana_Anteproyecto_Ley_Transparencia.pdf). Quiere esta ley regular las obligaciones de las administraciones públicas en lo concerniente a la difusión de los datos que obran en su poder y no tiene desperdicio su exposición de motivos, que comienza así:
 
 
 >El reconocimiento y garantía del derecho de los ciudadanos a acceder a la información pública es una práctica de buen gobierno. La transparencia constituye una eficaz salvaguarda frente a la mala administración, posibilita a los ciudadanos conocer mejor y vigilar el ejercicio de las potestades, la prestación de los servicios y el empleo de los recursos públicos y estimula a los poderes públicos a funcionar de modo eficiente. Un gobierno transparente es, por ello, un gobierno que genera confianza y que rinde un mejor servicio a la sociedad.

@@ -4,7 +4,7 @@ categories:
 - números
 date: 2016-02-15 09:13:56+00:00
 draft: false
-lastmod: '2025-04-06T18:47:27.214265'
+lastmod: '2026-09-24'
 related:
 - 2013-08-06-que-solazo-anoche.md
 - 2023-05-23-48-horas-consumo-domestico-electricidad-real.md
@@ -19,7 +19,7 @@ title: 'Energía solar: instalaciones industriales vs paneles en tejados'
 url: /2016/02/15/energia-solar-instalaciones-industriales-vs-paneles-en-tejados/
 ---
 
-Llegó a mis manos un [documento](https://www.lazard.com/media/2390/lazards-levelized-cost-of-energy-analysis-90.pdf) sobre los costes relativos de las distintas tecnologías e implementaciones para generar energía eléctrica del que rescato este subgráfico:
+Llegó a mis manos un [documento](http://web.archive.org/web/20230314230139/https://www.lazard.com/media/2390/lazards-levelized-cost-of-energy-analysis-90.pdf) sobre los costes relativos de las distintas tecnologías e implementaciones para generar energía eléctrica del que rescato este subgráfico:
 
 ![precio_energia_solar](/img/2016/02/precio_energia_solar.png#center)
 

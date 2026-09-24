@@ -23,7 +23,7 @@ title: Algoritmos y ética circa 1950
 url: /2020/10/29/algoritmos-y-etica-circa-1950/
 ---
 
-Estoy corrigiendo las partes de [mi libro](https://www.datanalytics.com/libro_estadistica/) que tienen que ver con la teoría del a probabilidad para hacerlas más prácticas para quienes llegan a ese mundo no para aprender una serie de reglas operativas que le sirvan para resolver un examen y pasar a otra cosa sino para su trabajo y su vida. Es decir, para [asignar probabilidades a eventos](https://en.wikipedia.org/wiki/Problem_of_points).
+Estoy corrigiendo las partes de [mi libro](https://libro-estadistica.datanalytics.com/) que tienen que ver con la teoría del a probabilidad para hacerlas más prácticas para quienes llegan a ese mundo no para aprender una serie de reglas operativas que le sirvan para resolver un examen y pasar a otra cosa sino para su trabajo y su vida. Es decir, para [asignar probabilidades a eventos](https://en.wikipedia.org/wiki/Problem_of_points).
 
 Y eso me ha llevado a hojear uno de los libros más famosos en los últimos tiempos dedicados al asunto: _[Superforecasting](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)_. En el que he encontrado una referencia a una discusión del perínclito Meehl que dice:
 

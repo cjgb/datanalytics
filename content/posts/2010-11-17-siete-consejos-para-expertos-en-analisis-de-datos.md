@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2010-11-17 22:53:32+00:00
 draft: false
-lastmod: '2025-04-06T18:49:00.382278'
+lastmod: '2026-09-24'
 related:
 - 2022-09-20-tools-etl-memory.md
 - 2015-02-09-ejercicios-de-mi-clase-de-r.md
@@ -58,7 +58,7 @@ Antes de hacer algo desde cero, piensa que alguien puede haberse encontrado con 
 
 **Piensa en la nube**
 
-Por un precio misérrimo [se puede alquilar por horas una máquina](http://analisisydecision.es/probando-r-sobre-el-ec2-de-amazon/) mucho más potente de la que ponen a tu disposición en cualquier empresa. Y con mayor capacidad de proceso. Y con mayor velocidad de transmisión de datos. Y sin tener que tratar con un _root_ perdonavidas.
+Por un precio misérrimo [se puede alquilar por horas una máquina](https://analisisydecision.datanalytics.com/blog/probando-r-sobre-el-ec2-de-amazon/) mucho más potente de la que ponen a tu disposición en cualquier empresa. Y con mayor capacidad de proceso. Y con mayor velocidad de transmisión de datos. Y sin tener que tratar con un _root_ perdonavidas.
 
 **No te pases de listo**
 

@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2012-01-18 16:40:33+00:00
-lastmod: '2025-04-06T19:05:35.353659'
+lastmod: '2026-09-24'
 noindex: true
 related:
 - 2010-10-27-c2bfsiete-lenguajes-de-programacion-emergentes.md
@@ -28,4 +28,4 @@ Nótese también que es el primero de los lenguajes de programación que no es d
 
 ¡Felicidades a todos los usuarios y entusiastas de R!
 
-**Nota:** he olvidado mencionar que debo la noticia a [Raúl Vaquerizo](http://analisisydecision.es/), que, digámoslo así, me la ha cedido _en primicia_.
+**Nota:** he olvidado mencionar que debo la noticia a [Raúl Vaquerizo](https://analisisydecision.datanalytics.com/), que, digámoslo así, me la ha cedido _en primicia_.

@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2010-10-09 23:01:06+00:00
 draft: false
-lastmod: '2025-04-06T19:05:46.112693'
+lastmod: '2026-09-24'
 related:
 - 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
 - 2019-08-27-mas-sobre-la-anonimidad-y-reidentificacion-en-ficheros-de-microdatos.md
@@ -21,7 +21,7 @@ Pues depende a quién se lo pregunte uno. Por ejemplo, [el 56% de los encuestado
 
 Es curioso que este debate pudo haberse abierto mucho tiempo atrás —p.e., son públicos los [microdatos de la EPA](http://www.ine.es/prodyser/micro_epa.htm) y de muchas otras encuestas en España— pero que, de no habérseme pasado por alto, solo ha despegado con particular virulencia a raíz de la popularización de estas competiciones de minería de datos de las que he hablado en alguna ocasión.
 
-Así, a raíz de la competición de Netflix, apareció publicado, por ejemplo, este artículo sobre cómo realizar una [_deanonimización_ masiva](http://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) de tales conjuntos de datos (algunos lectores, en lugar de la aridez del artículo, preferirán la amenidad de [esta otra página](http://www.cs.utexas.edu/~shmat/netflix-faq.html) concomitante). El asunto, incluso, [ha llegado a llamar la atención de ciertos abogados](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1450006).
+Así, a raíz de la competición de Netflix, apareció publicado, por ejemplo, este artículo sobre cómo realizar una [_deanonimización_ masiva](http://web.archive.org/web/20250811000324/https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) de tales conjuntos de datos (algunos lectores, en lugar de la aridez del artículo, preferirán la amenidad de [esta otra página](http://www.cs.utexas.edu/~shmat/netflix-faq.html) concomitante). El asunto, incluso, [ha llegado a llamar la atención de ciertos abogados](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1450006).
 
 Es cierto que existen [técnicas de anonimización](http://www.surveynetwork.org/home/index.php?q=tools/anonymization/techniques) más o menos avanzadas, pero quiero dejar a mis lectores una tarea para que este puente de la Hispanidad emborronen el envés de un sobre viejo:
 

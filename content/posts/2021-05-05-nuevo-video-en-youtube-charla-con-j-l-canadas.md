@@ -5,7 +5,7 @@ categories:
 - youtube
 date: 2021-05-05 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T19:04:17.441046'
+lastmod: '2026-09-24'
 related:
 - 2018-10-30-datos-anchos-y-largos-y-otras-cosas-relacionadas-con-stan.md
 - 2021-02-22-nuevo-video-en-mi-canal-de-youtube-conversacion-con-luz-frias.md
@@ -24,4 +24,4 @@ He subido un nuevo vídeo a mi canal,
 
 {{< youtube MXtRkQLXbjw >}}
 
-Es una charla de casi una hora con [José Luis Cañadas](https://twitter.com/joscani). Comienza con [Stan](https://www.datanalytics.com/tags/stan/) y luego deriva hacia otros temas de interés estadístico. Como digo en el resumen del vídeo, solo los últimos 3-4 minutos son prescindibles.
+Es una charla de casi una hora con [José Luis Cañadas](https://twitter.com/joscani). Comienza con [Stan](https://datanalytics.com/tags/stan/) y luego deriva hacia otros temas de interés estadístico. Como digo en el resumen del vídeo, solo los últimos 3-4 minutos son prescindibles.

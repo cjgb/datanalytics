@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2010-09-27 23:39:43+00:00
 draft: false
-lastmod: '2025-04-06T19:05:01.479827'
+lastmod: '2026-09-24'
 related:
 - 2014-05-08-tres-criterios-para-evaluar-graficos.md
 - 2013-12-27-tres-articulos-curiosos-sobre-graficos.md
@@ -17,7 +17,7 @@ title: ¿Qué gráfico es mejor?
 url: /2010/09/27/que-grafico-es-mejor/
 ---
 
-Los servidores del Parlamento Británico alojan (y ponen a disposición del público) una serie [documentos agrupados por temas](http://www.parliament.uk/topics/index.htm) de los que hoy nos interesarán los relativos a _política estadística_ y, dentro de ellos, un breve [manual muy útil para elaborar gráficas](http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snsg-05073.pdf) que se atengan a los tres principios fundamentales de este esquivo arte:
+Los servidores del Parlamento Británico alojan (y ponen a disposición del público) una serie [documentos agrupados por temas](http://www.parliament.uk/topics/index.htm) de los que hoy nos interesarán los relativos a _política estadística_ y, dentro de ellos, un breve [manual muy útil para elaborar gráficas](http://web.archive.org/web/20110202153401/http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snsg-05073.pdf) que se atengan a los tres principios fundamentales de este esquivo arte:
 
 
 * **Veracidad:** la gráfica debe reflejar verazmente los datos subyacentes

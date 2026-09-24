@@ -4,7 +4,7 @@ categories:
 - números
 date: 2012-08-10 06:35:48+00:00
 draft: false
-lastmod: '2025-04-06T18:44:20.554711'
+lastmod: '2026-09-24'
 related:
 - 2023-06-06-energia-coches-particulares.md
 - 2011-02-03-energia-y-medio-ambiente-en-2035-algunos-numeros.md
@@ -27,6 +27,6 @@ que muestra hasta qué punto distintas tecnologías para impulsar vehículos de 
 
 El gráfico muestra cómo durante el 2011, en EE.UU., los vehículos híbridos están comenzando a competir en igualdad de condiciones con los vehículos tradicionales.
 
-¿Cuánto costaría un galón de gasolina española en euros? Según [esta fuente](http://www.cores.es/pdf/behActual/beh7.pdf), la gasolina en España ha venido costando entre 130 y 150 céntimos de euro por litro durante el 2012, es decir, entre 6 y 7 dólares por galón. Es decir, estaríamos fuera del gráfico, en la zona de azul intenso donde los [PHEV](http://es.wikipedia.org/wiki/Veh%C3%ADculo_h%C3%ADbrido_el%C3%A9ctrico_enchufable) resultan actualmente competitivos.
+¿Cuánto costaría un galón de gasolina española en euros? Según [esta fuente](http://web.archive.org/web/20131008014207/http://www.cores.es:80/pdf/behActual/beh7.pdf), la gasolina en España ha venido costando entre 130 y 150 céntimos de euro por litro durante el 2012, es decir, entre 6 y 7 dólares por galón. Es decir, estaríamos fuera del gráfico, en la zona de azul intenso donde los [PHEV](http://es.wikipedia.org/wiki/Veh%C3%ADculo_h%C3%ADbrido_el%C3%A9ctrico_enchufable) resultan actualmente competitivos.
 
 Hummmm...

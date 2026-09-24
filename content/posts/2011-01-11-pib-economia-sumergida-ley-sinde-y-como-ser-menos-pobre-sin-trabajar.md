@@ -4,7 +4,7 @@ categories:
 - números
 date: 2011-01-11 09:36:04+00:00
 draft: false
-lastmod: '2025-04-06T19:01:45.598874'
+lastmod: '2026-09-24'
 related:
 - 2011-02-25-1605.md
 - 2010-11-09-la-pirateria-de-libros-se-dispara-en-2010-nos-dicen.md
@@ -26,7 +26,7 @@ Estaba mirando por ahí maneras imaginativas para salir de la crisis. Que conste
 * Un cirujano que opera a un viejo que ni trabaja ni cotiza, ¿incrementa el PIB? ¿O lo deja igual?
 * Si se muere el viejo, ¿baja el PIB? ¿O sube? ¿Y si en lugar de un viejo es un ama de casa? ¿Y un liberado sindical?
 
-Dejando estas disquisiciones aparte, me he preguntado: ¿qué pasa con las actividades ilegales o paralegales? ¿Computan? ¡Y resulta que sí! Eurostat lo deja bien claro: de acuerdo con la página 3 de su [documento de metodología](http://epp.eurostat.ec.europa.eu/portal/page/portal/national_accounts/documents/FAQ_NA_1.pdf), dado que
+Dejando estas disquisiciones aparte, me he preguntado: ¿qué pasa con las actividades ilegales o paralegales? ¿Computan? ¡Y resulta que sí! Eurostat lo deja bien claro: de acuerdo con la página 3 de su [documento de metodología](http://web.archive.org/web/20140917021617/http://epp.eurostat.ec.europa.eu/portal/page/portal/national_accounts/documents/FAQ_NA_1.pdf), dado que
 
 * la producción de drogas (no dice nada del tráfico),
 * el contrabando,
@@ -41,8 +41,8 @@ No sé si se computan o no en España todavía. Es probable que no. El director 
 
 >[...] es cierto que hay algunos ámbitos, como el de la economía ilegal, hablamos de **prostitución, contrabando y tráfico de drogas**, que de forma explícita a fecha de hoy no forman parte del PIB, aunque en el reglamento están contempladas. Por dificultades metodológicas, ningún país de la UE las incluye, pero está previsto que en un futuro no muy lejano, aprovechando el cambio de base, se puedan incorporar, contabilizándose en el PIB. Son tres sectores no despreciables de ámbito económico, de difícil medición, [...]
 
-Pero ¿qué de la llamada piratería? ¡Qué ladino es Jaume que se calla! ¡Por algo será! Y eso que ahí no existen dificultades metodológicas: una [consultora internacional de reconocido prestigio e imparcialidad](http://www.idcspain.com) ya [le hizo el trabajo al INE](http://www.cedro.org/Files/Observatoriopirateriayhabitosconsumodigitales.pdf). Y ¿cómo puede ser si no [que las sepan mis lectores](https://datanalytics.com/2010/11/09/la-pirateria-de-libros-se-dispara-en-2010-nos-dicen/) y no ellos?
+Pero ¿qué de la llamada piratería? ¡Qué ladino es Jaume que se calla! ¡Por algo será! Y eso que ahí no existen dificultades metodológicas: una [consultora internacional de reconocido prestigio e imparcialidad](http://www.idcspain.com) ya [le hizo el trabajo al INE](http://web.archive.org/web/20140813054829/http://www.cedro.org/Files/Observatoriopirateriayhabitosconsumodigitales.pdf). Y ¿cómo puede ser si no [que las sepan mis lectores](https://datanalytics.com/2010/11/09/la-pirateria-de-libros-se-dispara-en-2010-nos-dicen/) y no ellos?
 
-Nada, que al próximo trimestre le sumamos el prorrateo correspondiente de los 10.000 millones anuales de contenidos pirateados, un 1% del PIB anual, y nos reímos de la crisis. Y que la [ley Sinde](http://es.wikipedia.org/wiki/Ley_Sinde#Posturas_enfrentadas_ante_la_Ley_de_Econom.C3.ADa_Sostenible_referente_a_Internet) no nos prive de un sector económico que duplica en tamaño al de [las energías renovables](http://www.appa.es/descargas/InformeAppa_web.pdf). Y cuando le sumemos drogas, juego y prostitución, ¡Alemania, ya veremos quién es acá la locomotora!
+Nada, que al próximo trimestre le sumamos el prorrateo correspondiente de los 10.000 millones anuales de contenidos pirateados, un 1% del PIB anual, y nos reímos de la crisis. Y que la [ley Sinde](http://es.wikipedia.org/wiki/Ley_Sinde#Posturas_enfrentadas_ante_la_Ley_de_Econom.C3.ADa_Sostenible_referente_a_Internet) no nos prive de un sector económico que duplica en tamaño al de [las energías renovables](http://web.archive.org/web/20130705145953/http://www.appa.es/descargas/InformeAppa_web.pdf). Y cuando le sumemos drogas, juego y prostitución, ¡Alemania, ya veremos quién es acá la locomotora!
 
 Y mientras hacemos tiempo en tanto que llega ese futuro feliz y vecino en que no va a estar reñido el ser rico con el pasárselo en grande, podemos ir leyendo el [primer articulillo del libro marrón de nosequién](https://circulodeempresarios.org/publicaciones/implicaciones-de-la-economia-sumergida-en-espana-libro-marron-2010/) acerca de métodos para estimar el tamaño de esa economía sumergida que nos va a sacar de pobres sin trabajar.

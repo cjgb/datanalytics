@@ -5,7 +5,7 @@ categories:
 - números
 date: 2016-01-12 08:13:43+00:00
 draft: false
-lastmod: '2025-04-06T19:05:48.473675'
+lastmod: '2026-09-24'
 related:
 - 2018-07-23-suicidios-crisis-y-cambios-de-regimen-en-series-temporales.md
 - 2012-03-07-esperanzador-no-varianzador.md
@@ -35,7 +35,7 @@ Y el segundo,
 
 ¿Diríais que están _vinculados de forma muy significativa_?
 
-Pues si en lugar de fiaros de vuestros propios ojos, lo hacéis de Berta Rivera, Bruno Casal o Luis Currais, los autores de [_The economic crisis and death by suicide in Spain: Empirical evidence based on a data panel and the quantification of losses in labour productivity_](http://infogen.webs.uvigo.es/WP/WP1507.pdf); o de David Lombao (que divulga el anterior [aquí](http://www.eldiario.es/galicia/Investigadores-Coruna-acreditan-significativa-suicidios_0_471403279.html) en El Diario), la respuesta es sí.
+Pues si en lugar de fiaros de vuestros propios ojos, lo hacéis de Berta Rivera, Bruno Casal o Luis Currais, los autores de [_The economic crisis and death by suicide in Spain: Empirical evidence based on a data panel and the quantification of losses in labour productivity_](http://web.archive.org/web/20250807053109/https://infogen.webs.uvigo.es/WP/WP1507.pdf); o de David Lombao (que divulga el anterior [aquí](http://www.eldiario.es/galicia/Investigadores-Coruna-acreditan-significativa-suicidios_0_471403279.html) en El Diario), la respuesta es sí.
 
 Las series anteriores representan la evolución de la tasa de paro y de suicidio (por 100k habitantes) por comunidades autónomas en España en los _últimos_ (en la muy peculiar acepción de _últimos_ del INE) años. Todos las anteriormente citados, y algunos más, hablan, hablan y hablan de _vínculos significativos_ entre ellas. Pero, ¿no han tenido la decencia intelectual de mostrar los gráficos?
 

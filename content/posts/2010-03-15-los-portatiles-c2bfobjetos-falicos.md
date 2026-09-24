@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - programación
 date: 2010-03-15 21:41:40+00:00
-lastmod: '2025-04-06T18:51:49.159840'
+lastmod: '2026-09-24'
 related:
 - 2016-05-23-tengo-ordenador-nuevo-con-64gb-de-ram-mas-unas-preguntas.md
 - 2010-07-19-que-hacer-y-no-hacer-con-los-bichitos-que-uno-encuentra.md
@@ -22,4 +22,4 @@ He comprado un portátil nuevo y, llevado de fálico exhibicionismo, he decidido
 
 De las ventajas y presuntos inconvenientes de estas admirables máquinas diminutas (y de la mía, en particular) [hablan otros](http://www.codinghorror.com/blog/2010/01/a-democracy-of-netbooks.html) con más acierto que al que yo podría jamás aspirar. Solo añadiré que [lo adquirí lejos](http://www.monterrey.com.co/), tiene teclado gringo (que es el que me gusta), un Windows 7 pirata (que cuando arranca en modo protegido está en chino) y que le he instalado la alfa 3 de [Xubuntu](http://www.xubuntu.org) 10.04 y va como un tiro.
 
-¿Y para esas raras ocasiones en las que hay que freír una CPU? Sobre eso, [ya hablé en su día](http://analisisydecision.es/probando-r-sobre-el-ec2-de-amazon/), aunque en otro foro: por un dólar al día (más euro y pico que me sopla el siempre benéfico Banco de Santander por usar mi tarjeta de crédito en el extranjero) tengo a mi disposición una máquina que envidiaría hasta Gustavo.
+¿Y para esas raras ocasiones en las que hay que freír una CPU? Sobre eso, [ya hablé en su día](https://analisisydecision.datanalytics.com/blog/probando-r-sobre-el-ec2-de-amazon/), aunque en otro foro: por un dólar al día (más euro y pico que me sopla el siempre benéfico Banco de Santander por usar mi tarjeta de crédito en el extranjero) tengo a mi disposición una máquina que envidiaría hasta Gustavo.

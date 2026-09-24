@@ -4,7 +4,7 @@ categories:
 - r
 date: 2018-03-26 08:13:29+00:00
 draft: false
-lastmod: '2025-04-06T18:51:43.124532'
+lastmod: '2026-09-24'
 related:
 - 2018-05-16-casos-de-uso-de-microdatoses.md
 - 2015-06-24-busco-vinetista-para-microdatoses.md
@@ -20,7 +20,7 @@ title: ¿Un voluntario para aggiornar MicroDatosEs?
 url: /2018/03/26/un-voluntario-para-aggiornar-microdatoses/
 ---
 
-Mi paquete [MicroDatosEs](https://www.datanalytics.com/?s=microdatoses) ya [forma parte de rOpenSpain](https://github.com/rOpenSpain/MicroDatosEs). Sin embargo, está falto de ciertas mejoras a las que aspiran los paquetes que forman parte de dicho repositorio.
+Mi paquete [MicroDatosEs](https://datanalytics.com/?s=microdatoses) ya [forma parte de rOpenSpain](https://github.com/rOpenSpain/MicroDatosEs). Sin embargo, está falto de ciertas mejoras a las que aspiran los paquetes que forman parte de dicho repositorio.
 
 Una de ellas es la de migrar la documentación del paquete a [`roxigen2`](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html). Lo podría hacer yo, pero es muy aburrido. Sin embargo, entiendo que puede ser entretenido (además de sencillo) para alguien que:
 

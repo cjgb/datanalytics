@@ -4,7 +4,7 @@ categories:
 - finanzas
 date: 2012-09-19 07:09:26+00:00
 draft: false
-lastmod: '2025-04-06T18:49:20.973975'
+lastmod: '2026-09-24'
 related:
 - 2011-08-09-2452.md
 - 2012-07-30-la-media-y-el-riesgo-de-nuevo.md
@@ -23,7 +23,7 @@ Muchos portales financieros incluyen información sobre uno de los llamados múl
 
 El PER es el cociente entre la capitalización bursátil de una empresa (que es público y se actualiza segundo a segundo) y su beneficio, que se conoce con cierta regularidad. Tiene sus ventajas —como la señalada más arriba— y desventajas —por ejemplo, que está influido por el desempeño pasado, los beneficios de ejercicios anteriores, cuando a un inversor le interesa más el desempeño futuro—.
 
-Hoy traigo a colación otra desventaja quizás menos conocida: que el PER está muy influenciado por la estructura de capital de las empresas. Por ello no es un indicador adecuado para, sin más, realizar comparaciones. En efecto, de [McKinsey Quarterly](http://microcapclub.com/wp-content/uploads/2012/05/Whybadmultiples.pdf) extraigo el siguiente diagrama:
+Hoy traigo a colación otra desventaja quizás menos conocida: que el PER está muy influenciado por la estructura de capital de las empresas. Por ello no es un indicador adecuado para, sin más, realizar comparaciones. En efecto, de [McKinsey Quarterly](http://web.archive.org/web/20221208033746/https://microcapclub.com/wp-content/uploads/2012/05/Whybadmultiples.pdf) extraigo el siguiente diagrama:
 
 ![](/img/2012/09/per.png#center)
 

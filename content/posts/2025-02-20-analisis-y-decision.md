@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2025-02-20
-lastmod: '2025-04-06T18:45:21.692333'
+lastmod: '2026-09-24'
 related:
 - 2016-06-03-r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia.md
 - 2014-12-02-me-muerdo-la-lengua-por-no-contarlo-todo.md
@@ -23,7 +23,7 @@ url: /2025/02/20/analisis-decision/
 >
 >En diciembre de aquel año escribí cómo utilizar R en una cosa que entonces comenzaba a sonar: _la nube_ y, en concreto, el servicio EC2 de Amazon.
 >
->El resultado, probablemente totalmente desfasado, fue [este](http://analisisydecision.es/probando-r-sobre-el-ec2-de-amazon/).
+>El resultado, probablemente totalmente desfasado, fue [este](https://analisisydecision.datanalytics.com/blog/probando-r-sobre-el-ec2-de-amazon/).
 >
 >Material de hemeroteca, alimento de melancolías.
 

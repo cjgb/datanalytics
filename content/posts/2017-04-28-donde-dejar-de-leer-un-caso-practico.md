@@ -5,7 +5,7 @@ categories:
 - números
 date: 2017-04-28 08:13:54+00:00
 draft: false
-lastmod: '2025-04-06T19:00:28.319033'
+lastmod: '2026-09-24'
 related:
 - 2015-12-29-la-interseccion-de-lo-interesante-lo-sorprendente-lo-cierto-y-lo-basado-en-datos.md
 - 2023-10-03-muestreo-superricos.md
@@ -21,7 +21,7 @@ url: /2017/04/28/donde-dejar-de-leer-un-caso-practico/
 
 Hay mucho por leer. El tiempo es finito y valioso. Es imperativo contar con criterios para dejar de leer. Identificar señales tempranas que indiquen que no merece la pena seguir. Generalmente, porque te están tratando de vender una moto.
 
-En una de las primeras diapositivas de la [VIII Encuesta de Percepción de la Ciencia realizada por la Fundación Española para la Ciencia y la Tecnología (Fecyt)](https://www.fecyt.es/sites/default/files/news/attachments/2017/04/epscyt2016_informe_final_web_fecyt.pdf) se muestran las respuestas a la siguiente pregunta:
+En una de las primeras diapositivas de la [VIII Encuesta de Percepción de la Ciencia realizada por la Fundación Española para la Ciencia y la Tecnología (Fecyt)](http://web.archive.org/web/20240220101150/https://www.fecyt.es/sites/default/files/news/attachments/2017/04/epscyt2016_informe_final_web_fecyt.pdf) se muestran las respuestas a la siguiente pregunta:
 
 >A diario recibimos informaciones y noticias sobre temas muy diversos. Dígame, por favor, tres temas sobre los que se sienta especialmente interesado/a.
 

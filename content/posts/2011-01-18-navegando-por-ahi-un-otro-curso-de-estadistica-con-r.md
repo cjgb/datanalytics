@@ -5,7 +5,7 @@ categories:
 - r
 date: 2011-01-18 09:51:44+00:00
 draft: false
-lastmod: '2025-04-06T18:56:43.091548'
+lastmod: '2026-09-24'
 related:
 - 2010-08-21-r-en-yotube-y-facebook.md
 - 2012-07-26-hemos-cerrado-el-curso-basico-de-r.md
@@ -28,7 +28,7 @@ Navegando por ahí he dado con otro [curso de R y otro blog muy interesante](htt
 2. [Modelos lineales](http://dl.dropbox.com/u/2736772/R%20course/2-Modelos%20lineales.pdf)
 3. [Modelos lineales generalizados](http://dl.dropbox.com/u/2736772/R%20course/3-Modelos%20lineales%20generalizados.pdf)
 4. [Diseño de experimentos](http://dl.dropbox.com/u/2736772/R%20course/4-Introduccion%20al%20dise%C3%B1o%20de%20experimentos.pdf)
-5. [Modelos lineales mixtos](http://dl.dropbox.com/u/2736772/R%20course/5-Modelos%20lineales%20mixtos%20en%20R.pdf)
+5. [Modelos lineales mixtos](http://web.archive.org/web/20120324145633/http://dl.dropbox.com:80/u/2736772/R%20course/5-Modelos%20lineales%20mixtos%20en%20R.pdf)
 6. [Análisis multivariante](http://dl.dropbox.com/u/2736772/R%20course/6-Analisis%20multivariante.pdf)
 
 ¡Buena lectura!

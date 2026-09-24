@@ -4,7 +4,7 @@ categories:
 - estadística
 - probabilidad
 date: 2016-06-15 08:13:53+00:00
-lastmod: '2025-04-06T18:51:54.473607'
+lastmod: '2026-09-24'
 related:
 - 2010-05-25-sobre-la-media-y-la-mediana.md
 - 2014-06-10-a-vueltas-con-el-t-test.md
@@ -33,7 +33,7 @@ res <- replicate(1000, mean(rcauchy(1e5)))
 hist(res, breaks = 50)
 ```
 
-es decir, la inestabilidad de esos promedios. Abundando en este caso concreto, debería recordarse que [la media de n observaciones independientes de la distribución de Cauchy tiene distribución de Cauchy](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter7.pdf). Las medias obtenidas no tienen menor dispersión que la de, por ejemplo, la primera observación de cada una de las muestras.
+es decir, la inestabilidad de esos promedios. Abundando en este caso concreto, debería recordarse que [la media de n observaciones independientes de la distribución de Cauchy tiene distribución de Cauchy](http://web.archive.org/web/20201021225027/http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter7.pdf). Las medias obtenidas no tienen menor dispersión que la de, por ejemplo, la primera observación de cada una de las muestras.
 
 Más aún,
 

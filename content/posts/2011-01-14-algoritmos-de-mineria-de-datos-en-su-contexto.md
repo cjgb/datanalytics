@@ -4,7 +4,7 @@ categories:
 - ciencia de datos
 date: 2011-01-14 09:20:33+00:00
 draft: false
-lastmod: '2025-04-06T19:08:38.733289'
+lastmod: '2026-09-24'
 related:
 - 2013-01-10-una-aplicacion-seo-con-r.md
 - 2010-05-05-r-c2bfla-herramienta-de-mineria-de-datos-mas-utilizada.md
@@ -46,7 +46,7 @@ No habría dicho gran cosa si estuviese mínimamente de acuerdo con la selecció
 
 
 
-* C4.5 (1) y CART (10) vienen a ser la misma cosa. Las diferencias entre ellos son mínimas. Además, CART es únicamente el nombre de la implementación comercial de un algoritmo que tiene otras. [Sobre ello escribí hace un año](http://analisisydecision.es/sobre-la-historia-de-cart-y-rpart/).
+* C4.5 (1) y CART (10) vienen a ser la misma cosa. Las diferencias entre ellos son mínimas. Además, CART es únicamente el nombre de la implementación comercial de un algoritmo que tiene otras. [Sobre ello escribí hace un año](https://analisisydecision.datanalytics.com/blog/sobre-la-historia-de-cart-y-rpart/).
 * ¡No uséis k-medias (2)! Está obsoleto. Es un algoritmo viejísimo que depende de la distancia euclídea y es muy sensible a la selección del punto de partida y a los _outliers_. Deberían arrancarse las páginas de los libros que lo recomiendan.
 * PageRank (6) es un algoritmo que por muy influyente que sea, sirve para resolver una serie de problemas muy concretos. Es un algoritmo _nicho_. Algo parecido puede decirse del _algoritmo a priori_ (4).
 

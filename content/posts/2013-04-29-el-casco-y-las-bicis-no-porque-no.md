@@ -4,7 +4,7 @@ categories:
 - números
 date: 2013-04-29 07:39:28+00:00
 draft: false
-lastmod: '2025-04-06T19:01:42.069151'
+lastmod: '2026-09-24'
 related:
 - 2012-04-30-contar-c2bffacil.md
 - 2018-01-09-mortalidad-en-carretera-contada-de-una-manera-distinta.md
@@ -71,7 +71,7 @@ Dentro de las lecturas tendenciosas y sesgadas, encuentro en las páginas de Con
 
 >El informe propuso más de 60 recomendaciones a los gobiernos europeos y la Union Europea sobre cómo mejorar la seguridad vial para los ciclistas. Ninguna de las recomendaciones pedía cascos obligatorios para ciclistas, y en la página 47 los autores del informe advierten: el uso del casco no debería ser obligatorio.
 
-Que es cierto, pero con muy serios matices. Porque lo que se lee en [el informe](http://www.etsc.eu/documents/scientific_review_of_cycling_safety_web.pdf) es:
+Que es cierto, pero con muy serios matices. Porque lo que se lee en [el informe](http://web.archive.org/web/20131204060126/http://www.etsc.eu:80/documents/scientific_review_of_cycling_safety_web.pdf) es:
 
 >Relating to the use of helmets, as explained in Section 3 above, further research would need to be undertaken to improve the level of protection they provide and the type of collisions they are useful in. As such, the use of helmets while riding should not be mandatory. However, as they provide an additional amount of protection to cyclists – albeit a limited one – cyclists should be encouraged to wear them.
 

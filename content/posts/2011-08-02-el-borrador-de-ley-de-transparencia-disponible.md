@@ -5,7 +5,7 @@ categories:
 - números
 date: 2011-08-02 07:13:11+00:00
 noindex: true
-lastmod: '2025-04-06T19:13:12.519130'
+lastmod: '2026-09-24'
 related:
 - 2012-03-27-acceso-y-reutilizacion-de-datos-publicos.md
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
@@ -21,7 +21,7 @@ title: El borrador de Ley de transparencia, disponible
 url: /2011/08/02/el-borrador-de-ley-de-transparencia-disponible/
 ---
 
-Hace poco, el mismo día en el que se anunciaron las elecciones anticipadas (en España) fue publicado el [borrador de lo que podría llegar a convertirse en la futura Ley de transparencia](http://www.access-info.org/documents/BORRADOR_LTI_para_CM_290711_conExpoMotivos.pdf).
+Hace poco, el mismo día en el que se anunciaron las elecciones anticipadas (en España) fue publicado el [borrador de lo que podría llegar a convertirse en la futura Ley de transparencia](http://web.archive.org/web/20120905082910/http://www.access-info.org/documents/BORRADOR_LTI_para_CM_290711_conExpoMotivos.pdf).
 
 Aunque el actual gobierno no será ya el encargado de tramitarlo (y a saber qué hará el que llegue), merece la pena echarle un vistazo. Tengo comentarios al respecto, muchos de hecho. Y en gran medida coinciden con los que se expresan [en este otro blog](http://amedioentender.blogspot.com/2011/07/ley-de-transparencia-una-ley-del-papel.html).
 

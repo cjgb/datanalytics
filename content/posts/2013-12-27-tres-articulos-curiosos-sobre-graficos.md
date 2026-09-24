@@ -4,7 +4,7 @@ categories:
 - gráficos
 date: 2013-12-27 07:50:07+00:00
 draft: false
-lastmod: '2025-04-06T18:49:37.189283'
+lastmod: '2026-09-24'
 related:
 - 2011-04-26-graficos-vi-teoria.md
 - 2012-09-10-graficos-estadisticos-y-mapas-con-r-un-analisis.md
@@ -21,4 +21,4 @@ El primero es [_How to display data badly_](http://www.stat.umn.edu/~sandy/cours
 
 El segundo, [_Visualizing the Law: Using Charts, Diagrams, and Other Images to Improve Legal Briefs_](http://www.swlaw.edu/pdfs/jle/jle631rosman.pdf), de A. Rosman, es una lectura de evasión para quien comparta mis obsesiones y frustraciones:  la vida me ha llevado a tener que leer —y peor aún, necesitar entender— párrafos de los que redactan leguleyos de toda índole y condición. ¿Es necesario que esa gente se explique así? ¿Habría otra manera? Pues la hay: el artículo en cuestión muestra mediante ejemplos cómo determinados pasajes del género legal pueden desenmarañarse trascendiendo la unidimensionalidad del texto corrido y mal empleado si se usan o, al menos, se acompañan de, los gráficos adecuados.
 
-El último, [_Let Graphics Tell the Story - Datasets in R_](http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf) estudia gráficamente algunos ejemplos de conjuntos de datos disponibles en R y se queja de algo que algunos habíamos advertido ya: que en la ayuda de R —y, en particular, de la relativa a esos conjuntos de datos— faltan gráficos. ¿Realmente se puede hablar mucho sobre [esto](https://datanalytics.com/2013/08/30/el-cuarteto-de-anscombe/) sin graficarlo?
+El último, [_Let Graphics Tell the Story - Datasets in R_](http://web.archive.org/web/20211129111435/http://journal.r-project.org/archive/2013-1/hofmann-unwin-cook.pdf) estudia gráficamente algunos ejemplos de conjuntos de datos disponibles en R y se queja de algo que algunos habíamos advertido ya: que en la ayuda de R —y, en particular, de la relativa a esos conjuntos de datos— faltan gráficos. ¿Realmente se puede hablar mucho sobre [esto](https://datanalytics.com/2013/08/30/el-cuarteto-de-anscombe/) sin graficarlo?

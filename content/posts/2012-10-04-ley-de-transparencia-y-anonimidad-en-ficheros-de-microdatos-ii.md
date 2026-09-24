@@ -5,7 +5,7 @@ categories:
 - números
 date: 2012-10-04 07:25:04+00:00
 draft: false
-lastmod: '2025-04-06T19:01:11.107673'
+lastmod: '2026-09-24'
 related:
 - 2011-10-06-ley-de-transparencia-y-anonimidad-en-ficheros-de-microdatos.md
 - 2011-07-05-disponible-el-borrador-de-la-ley-de-acceso-a-la-informacion.md
@@ -45,7 +45,7 @@ Y no es este ni baladí ni, mucho menos, trivial. El número de febrero de la [R
 
 En el año 2006, AOL, llevado del encomiable afán de fomentar la investigación, hizo público el texto de veinte millones de consultas realizadas en su buscador de internet por 650000 de sus usuarios. Se eliminaron sus nombres, IPs, etc. del fichero para preservar la anonimidad, dado que algunas búsquedas ponían de manifiesto incluso las preferencias sexuales o las patologías de algunos de ellos y este tipo de información es merecedora del máximo grado de confidencialidad. Y no pasó mucho tiempo hasta que [el New York Times identificó al usuario número 4417749](http://www.nytimes.com/2006/08/09/technology/09aol.html?pagewanted=all&_r=0), que resultó ser una señora viuda de 62 años, dueña de un perro negro.
 
-El segundo caso tal vez sea más conocido: el del [premio de Netflix](http://en.wikipedia.org/wiki/Netflix_Prize). Netflix, para mejorar su motor de recomendaciones, _anonimizó_ y divulgó datos de preferencias de sus usuarios. Premiaba con un millón de dólares a aquel que fuese capaz de crear un algoritmo que mejoraba el que ellos utilizaban hasta la fecha. El resultado fue [este artículo](http://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf) que describe la solución ganadora. Animados por el éxito de la primera convocatoria, Netflix propuso una reedición. Pero esta vez, el artículo _ganador_ fue _[Robust De-anonymization of Large Sparse Datasets](http://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)_ en el que se describe cómo reidentificar los usuarios del fichero y en el que se lee:
+El segundo caso tal vez sea más conocido: el del [premio de Netflix](http://en.wikipedia.org/wiki/Netflix_Prize). Netflix, para mejorar su motor de recomendaciones, _anonimizó_ y divulgó datos de preferencias de sus usuarios. Premiaba con un millón de dólares a aquel que fuese capaz de crear un algoritmo que mejoraba el que ellos utilizaban hasta la fecha. El resultado fue [este artículo](http://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf) que describe la solución ganadora. Animados por el éxito de la primera convocatoria, Netflix propuso una reedición. Pero esta vez, el artículo _ganador_ fue _[Robust De-anonymization of Large Sparse Datasets](http://web.archive.org/web/20250811000324/https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)_ en el que se describe cómo reidentificar los usuarios del fichero y en el que se lee:
 
 >Privacy risks of publishing micro-data are well-known. Even if identifiers such as names and Social Security numbers have been removed, the adversary can use background knowledge and cross-correlation with other databases to re-identify individual data records.
 

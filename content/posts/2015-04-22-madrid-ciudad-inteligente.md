@@ -4,7 +4,7 @@ categories:
 - números
 date: 2015-04-22 08:13:16+00:00
 draft: false
-lastmod: '2025-04-06T19:03:15.590885'
+lastmod: '2026-09-24'
 related:
 - 2016-09-13-madrid-ciudad-inteligente-2.md
 - 2017-05-18-me-siento-mal-porque-han-sido-muy-majos-conmigo-y-ahora-no-se-que-hacer-con-lo-que-me-han-mandado.md
@@ -37,7 +37,7 @@ Veamos un ejemplo de este tipo de interacción entre un ciudadano, yo, y la admi
 >Un cordial saludo,
 >
 >Carlos J. Gil Bellosta
->http://www.datanalytics.com
+>http://datanalytics.com
 
 Véanse las fotos adjuntas:
 

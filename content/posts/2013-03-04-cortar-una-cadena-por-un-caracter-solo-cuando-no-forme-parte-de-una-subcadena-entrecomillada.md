@@ -4,7 +4,7 @@ categories:
 - r
 date: 2013-03-04 07:31:46+00:00
 draft: false
-lastmod: '2025-04-06T19:06:25.119327'
+lastmod: '2026-09-24'
 related:
 - 2011-09-08-codigos-de-caracteres-en-r.md
 - 2023-04-20-dejar-morir-pxr.md
@@ -20,7 +20,7 @@ title: Cortar una cadena por un caracter solo cuando no forme parte de una subca
 url: /2013/03/04/cortar-una-cadena-por-un-caracter-solo-cuando-no-forme-parte-de-una-subcadena-entrecomillada/
 ---
 
-Algunos usuarios del [paquete pxR](http://pxr.r-forge.r-project.org/) han avisado de un error de implementación. Según las especificaciones del [formato de datos PC-Axis](http://www.scb.se/upload/PC-Axis/Support/Documents/PC-Axis_fileformat.pdf), las líneas de ese tipo de ficheros acaban en punto y coma (y no necesariamente en un salto de línea).
+Algunos usuarios del [paquete pxR](http://pxr.r-forge.r-project.org/) han avisado de un error de implementación. Según las especificaciones del [formato de datos PC-Axis](http://web.archive.org/web/20170407145545/http://www.scb.se:80/upload/PC-Axis/Support/Documents/PC-Axis_fileformat.pdf), las líneas de ese tipo de ficheros acaban en punto y coma (y no necesariamente en un salto de línea).
 
 Así que era natural leer los ficheros íntegramente, concatenar sus _líneas físicas_ y luego partirlas usando `strsplit` para obtener las _líneas lógicas_.
 
@@ -46,4 +46,4 @@ finales <- c(cortes - 1, str_length(a))
 str_sub(a, inicios, finales)
 ```
 
-El quid reside en la llamada a `Filter`, que selecciona solo aquellas posiciones en las que hay puntos y comas que no están precedidas por un número impar de comillas. El [paquete stringr](http://journal.r-project.org/archive/2010-2/RJournal_2010-2_Wickham.pdf) resulta instrumental: proporciona recursos para procesar cadenas de texto no disponibles de una manera tan limpia y escueta entre las básicas de R.
+El quid reside en la llamada a `Filter`, que selecciona solo aquellas posiciones en las que hay puntos y comas que no están precedidas por un número impar de comillas. El [paquete stringr](https://web.archive.org/web/20160304075521/https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Wickham.pdf) resulta instrumental: proporciona recursos para procesar cadenas de texto no disponibles de una manera tan limpia y escueta entre las básicas de R.

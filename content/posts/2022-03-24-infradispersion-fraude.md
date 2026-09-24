@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2022-03-24
-lastmod: '2025-04-06T18:48:47.658234'
+lastmod: '2026-09-24'
 related:
 - 2020-09-15-infradispersion-en-la-logistica.md
 - 2018-05-28-los-extranos-numeros-de-los-muertos-en-carretera-por-accidente.md
@@ -17,7 +17,7 @@ title: La infradispersión como indicio de fraude
 url: /2022/03/24/infradispersion-fraude/
 ---
 
-Hay gente que colecciona sellos, monedas, etc. Yo, fenómenos que presentan infradispersión manifiesta. La infradispersión es un fenómeno raro, mucho más infrecuente que la sobredispersión, del que ya me he ocupado [previamente](https://www.datanalytics.com/tags/infradispersi%C3%B3n/).
+Hay gente que colecciona sellos, monedas, etc. Yo, fenómenos que presentan infradispersión manifiesta. La infradispersión es un fenómeno raro, mucho más infrecuente que la sobredispersión, del que ya me he ocupado [previamente](https://datanalytics.com/tags/infradispersi%C3%B3n/).
 
 Frecuentemente, la infradispersión se da porque se busca, como [aquí](https://datanalytics.com/2017/02/23/otro-ejemplo-de-infradispersion-de-conteos/).
 

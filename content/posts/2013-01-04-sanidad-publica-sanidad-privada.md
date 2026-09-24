@@ -5,7 +5,7 @@ categories:
 - gráficos
 date: 2013-01-04 07:25:59+00:00
 draft: false
-lastmod: '2025-04-06T18:55:00.463544'
+lastmod: '2026-09-24'
 related:
 - 2011-02-25-1605.md
 - 2014-07-01-lecturas-disparatadas-la-salud-de-los-crios-y-el-desempleo.md
@@ -28,7 +28,7 @@ La cuestión es que el otro día tropecé con [este resumen del 2012 en 12 gráf
 
 me _chirriaba_ y hoy [Alberto Penadés](https://twitter.com/AlbertoPenades) ha tenido la gentileza de ponerme sobre la pista de un artículo, [La Salud de las Naciones](http://www.eldiario.es/piedrasdepapel/salud-naciones_6_86501351.html), que lo reproduce, explica y contextualiza. Hasta cierto punto, como veremos.
 
-El autor, Víctor Lapuente Giné, se basa en una publicación académica, [Dying of Corruption](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8368265), de S. Holmberg y B. Rothstein ([gratis aquí](http://www.sahlgrenska.gu.se/digitalAssets/1358/1358014_dying-of-corruption.pdf)). Y hojeándolo uno descubre que el gráfico que aparece más arriba es una elaboración y superposición de los dos siguientes:
+El autor, Víctor Lapuente Giné, se basa en una publicación académica, [Dying of Corruption](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8368265), de S. Holmberg y B. Rothstein ([gratis aquí](http://web.archive.org/web/20170812103734/http://www.sahlgrenska.gu.se/digitalAssets/1358/1358014_dying-of-corruption.pdf)). Y hojeándolo uno descubre que el gráfico que aparece más arriba es una elaboración y superposición de los dos siguientes:
 
 ![](/img/2013/01/salud_vs_gasto_publico.png#center)
 

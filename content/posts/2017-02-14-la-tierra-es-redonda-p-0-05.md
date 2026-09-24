@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2017-02-14 08:13:41+00:00
 draft: false
-lastmod: '2025-04-06T18:51:06.774381'
+lastmod: '2026-09-24'
 related:
 - 2012-08-24-p-valores-bajo-la-hipotesis-nula-tras-multiples-comparaciones.md
 - 2012-08-23-ajustar-o-no-ajustar-esta-es-la-cuestion.md
@@ -20,7 +20,7 @@ title: La tierra es redonda (p < 0.05)
 url: /2017/02/14/la-tierra-es-redonda-p-0-05/
 ---
 
-A sus 72 años, en 1994, [J. Cohen](https://en.wikipedia.org/wiki/Jacob_Cohen_(statistician)) dejó casi para la posteridad un excelente artículo, [_The earth is round (p < .05)_](http://www.ics.uci.edu/~sternh/courses/210/cohen94_pval.pdf).
+A sus 72 años, en 1994, [J. Cohen](https://en.wikipedia.org/wiki/Jacob_Cohen_(statistician)) dejó casi para la posteridad un excelente artículo, [_The earth is round (p < .05)_](http://web.archive.org/web/20171011155642/http://www.ics.uci.edu/~sternh/courses/210/cohen94_pval.pdf).
 
 Traduzco el resumen:
 

@@ -22,7 +22,7 @@ url: /2018/04/05/un-libro-de-r-mi-libro-de-r/
 
 No quería hacerlo público aún pero alguien se ve que lo estaba leyendo por ahí. No sé si Google habrá levantado ya la pájara. Tampoco es que fuese un secreto: lo he usado para varios cursos y me consta que ha sido usado por terceros para tal fin.
 
-Pero ya está, es _oficial_: mi libro de introducción a R (inacabado) está colgado ([aquí](https://www.datanalytics.com/libro_r/)).
+Pero ya está, es _oficial_: mi libro de introducción a R (inacabado) está colgado ([aquí](https://libro-r.datanalytics.com)).
 
 Y no voy a añadir nada más al respecto porque está todo en la introducción.
 

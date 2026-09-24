@@ -4,7 +4,7 @@ categories:
 - números
 date: 2017-12-01 08:13:55+00:00
 draft: false
-lastmod: '2025-04-06T18:48:52.964013'
+lastmod: '2026-09-24'
 related:
 - 2018-07-19-que-no-que-es-imposible-esconder-medio-millon-de-muertos-y-que-la-cordialidad-esta-de-mas.md
 - 2017-03-01-sobre-una-poco-conocida-y-para-nada-menguante-brecha-de-genero.md
@@ -29,6 +29,6 @@ Sin embargo, la tasa de mortalidad para cada cohorte de edad decrece. Muestro la
 
 ![](/img/2017/11/mortalidad_cohortes.png#center)
 
-De nuevo, [Simpson](https://www.datanalytics.com/tags/paradoja-de-simpson/).
+De nuevo, [Simpson](https://datanalytics.com/tags/paradoja-de-simpson/).
 
 Nota: las cifras vienen expresadas en defunciones por cada 1000 habitantes. Los datos salen de [aquí](http://www.ine.es/dynt3/inebase/index.htm?padre=1153).

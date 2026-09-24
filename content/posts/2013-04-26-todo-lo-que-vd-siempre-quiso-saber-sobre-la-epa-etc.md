@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - números
 date: 2013-04-26 07:45:11+00:00
-lastmod: '2025-04-06T19:03:52.442664'
+lastmod: '2026-09-24'
 related:
 - 2015-05-14-cualquier-parecido-con-la-realidad-es-pura-coincidencia.md
 - 2012-06-06-definiciones-estadisticas-basicas-para-los-periodistas-de-el-economista.md
@@ -45,7 +45,7 @@ Ya lo hemos dicho más arriba: como empleados.
 
 ## ¿Somos campeones de Europa también en subempleo?
 
-Pues el año pasado lo éramos (empatados con Irlanda), con una tasa del 8% ([PDF](http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/3-19042013-BP/EN/3-19042013-BP-EN.PDF)).
+Pues el año pasado lo éramos (empatados con Irlanda), con una tasa del 8% ([PDF](http://web.archive.org/web/20141005140229/http://epp.eurostat.ec.europa.eu:80/cache/ITY_PUBLIC/3-19042013-BP/EN/3-19042013-BP-EN.PDF)).
 
 ## Referencias:
 

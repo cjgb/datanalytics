@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - varios
 date: 2010-08-27 18:21:17+00:00
-lastmod: '2025-04-06T19:00:58.449387'
+lastmod: '2026-09-24'
 noindex: true
 related:
 - 2010-08-24-cinco-consejos-que-nunca-leera-quien-debe.md
@@ -30,8 +30,8 @@ Tengo entendido que el producto tiene algunas restricciones. Por ejemplo, que so
 
 Pero, ¿cuánto valen los productos _de verdad_? La información no es pública y está sujeta a variaciones según múltiples criterios: país, tipo de cliente, habilidad del comercial, etc. Varía también según el sistema operativo utilizado, el número de CPU's, el de usuarios,... Es más opaco, en definitiva, que la telefonía móvil.
 
-Pero hay un cliente muy especial que exige datos públicos: el gobierno de los EE.UU. Este obliga a todos sus proveedores a revelar sus precios por motivos muy democráticos que no imitamos en España, claro. Así, en [esta página](http://www.execinfosys.com/GSA%20Contract.htm) puede descargarse [este documento que detalla los precios de todos los productos de SAS](http://www.execinfosys.com/SAS%20GSA%20PriceList.pdf) _sólo para el gobierno estadounidense_.
+Pero hay un cliente muy especial que exige datos públicos: el gobierno de los EE.UU. Este obliga a todos sus proveedores a revelar sus precios por motivos muy democráticos que no imitamos en España, claro. Así, en [esta página](http://www.execinfosys.com/GSA%20Contract.htm) puede descargarse [este documento que detalla los precios de todos los productos de SAS](https://web.archive.org/web/20091229012250/http://www.execinfosys.com:80/SAS%20GSA%20PriceList.pdf) _sólo para el gobierno estadounidense_.
 
 No sé si parecen caros o baratos a mis lectores. Pero, por ejemplo, al organismo que gestiona la Seguridad Social en Estados Unidos le parecen tan desaforados que está tratando de encontrar una alternativa a SAS de una manera muy peculiar: [busca un proveedor (que no sea el mismo SAS Institute) que le proporcione un intérprete de código SAS](https://www.fbo.gov/index?s=opportunity&mode=form&id=eafa46972518bf1c7f38c17791d887fe&tab=core&_cview=0).
 
-Seguro que [Raúl](http://analisisydecision.es/) tiene comentarios la mar de jugosos que hacer a esta entrada.
+Seguro que [Raúl](https://analisisydecision.datanalytics.com/) tiene comentarios la mar de jugosos que hacer a esta entrada.

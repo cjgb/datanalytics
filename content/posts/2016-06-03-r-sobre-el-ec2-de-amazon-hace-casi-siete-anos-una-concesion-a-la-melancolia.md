@@ -5,7 +5,7 @@ categories:
 - r
 date: 2016-06-03 08:13:16+00:00
 noindex: true
-lastmod: '2025-04-06T18:52:06.730637'
+lastmod: '2026-09-24'
 related:
 - 2025-02-20-analisis-y-decision.md
 - 2011-09-05-un-paseo-por-cloudnumbers.md
@@ -20,10 +20,10 @@ title: 'R sobre el EC2 de Amazon hace casi siete años: una concesión a la mela
 url: /2016/06/03/r-sobre-el-ec2-de-amazon-hace-casi-siete-anos-una-concesion-a-la-melancolia/
 ---
 
-Corría el año 2009 cuando comencé mi segunda aventura bloguera ---nadie, yo incluido, quiere rememorar la primera---. Fue entonces cuando Raúl Vaquerizo tuvo la caridad de aceptarme como colaborador en [Análisis y Decisión](http://analisisydecision.es/).
+Corría el año 2009 cuando comencé mi segunda aventura bloguera ---nadie, yo incluido, quiere rememorar la primera---. Fue entonces cuando Raúl Vaquerizo tuvo la caridad de aceptarme como colaborador en [Análisis y Decisión](https://analisisydecision.datanalytics.com/).
 
 En diciembre de aquel año escribí cómo utilizar R en una cosa que entonces comenzaba a sonar: _la nube_ y, en concreto, el servicio EC2 de Amazon.
 
-El resultado, probablemente totalmente desfasado, fue [este](http://analisisydecision.es/probando-r-sobre-el-ec2-de-amazon/).
+El resultado, probablemente totalmente desfasado, fue [este](https://analisisydecision.datanalytics.com/blog/probando-r-sobre-el-ec2-de-amazon/).
 
 Material de hemeroteca, alimento de melancolías.

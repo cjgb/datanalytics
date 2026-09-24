@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - r
 date: 2010-12-29 09:43:31+00:00
-lastmod: '2025-04-06T19:09:04.548863'
+lastmod: '2026-09-24'
 related:
 - 2014-10-27-noticia-de-las-vi-jornadas-de-usuarios-de-r.md
 - 2018-04-09-la-intrahistoria-de-mi-libro-de-r.md
@@ -17,7 +17,7 @@ title: Noticia de las II Jornadas de Usuarios de R
 url: /2010/12/29/noticia-de-las-ii-jornadas-de-usuarios-de-r/
 ---
 
-Hace un año, al acabar las I Jornadas de Usuarios de R, [escribí un pequeño resumen](http://analisisydecision.es/noticias-del-congreso-de-usuarios-de-r/) de lo habido en ellas en el blog de mi compañero de penas y oficios Raúl Vaquerizo. Este año, con cierta demora (justificada documentalmente) me dispongo a hacer lo mismo con lo que vivimos hace unos días en las [II Jornadas en Mieres](http://epm.uniovi.es/actividades/-/asset_publisher/0012/content/ii-jornadas-de-usuarios-de-r-en-castellano).
+Hace un año, al acabar las I Jornadas de Usuarios de R, [escribí un pequeño resumen](https://analisisydecision.datanalytics.com/blog/noticias-del-congreso-de-usuarios-de-r/) de lo habido en ellas en el blog de mi compañero de penas y oficios Raúl Vaquerizo. Este año, con cierta demora (justificada documentalmente) me dispongo a hacer lo mismo con lo que vivimos hace unos días en las [II Jornadas en Mieres](http://epm.uniovi.es/actividades/-/asset_publisher/0012/content/ii-jornadas-de-usuarios-de-r-en-castellano).
 
 Es obligado en primer lugar agradecer a la Escuela Politécnica de Mieres por haberlas acogido y muy en particular a Belén Prendes, quien desde el primer momento impulsó este proyecto. También hay que agradecer la presencia de quienes, desafiando las dificultades planteadas por la nieve y el plantón laboral de los controladores aéreos, acudieron a la cita.
 

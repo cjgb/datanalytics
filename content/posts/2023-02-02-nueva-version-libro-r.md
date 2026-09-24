@@ -26,7 +26,7 @@ Acabo de subir ---que suena menos pomposo que _publicar_--- la primera versión 
 - He incorporado algunas mejoras sugeridas por algún amable lector en el pasado.
 - He comenzado ---solo comenzado--- a preparar soluciones para los casi 200 ejercicios planteados en el libro.
 
-El enlace, ahora sí, [aquí](https://www.datanalytics.com/libro_r/).
+El enlace, ahora sí, [aquí](https://libro-r.datanalytics.com/).
 
 ### Coda
 

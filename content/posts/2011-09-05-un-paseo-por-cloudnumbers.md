@@ -4,7 +4,7 @@ categories:
 - r
 date: 2011-09-05 07:57:03+00:00
 draft: false
-lastmod: '2025-04-06T18:44:57.602175'
+lastmod: '2026-09-24'
 related:
 - 2012-09-25-predicciones-de-series-temporales-a-gran-escala-y-en-paralelo-con-r.md
 - 2015-04-10-restauracion-de-ficheros-bak-sin-windows.md
@@ -20,7 +20,7 @@ url: /2011/09/05/un-paseo-por-cloudnumbers/
 
 [Cloudnumbers](http://cloudnumbers.com/) es una empresa que ofrece servicios de [computación de alto rendimiento](http://es.wikipedia.org/wiki/Computaci%C3%B3n_de_alto_rendimiento) en la nube con especial énfasis en aplicaciones que corren sobre R. Me ofrecieron una cuenta temporal y gratuita el otro día y en la entrada de hoy voy a describir mis primeros pasos en su plataforma.
 
-Hace dos años hice, y dejé descrita, [mi primera incursión en la computación con R en la nube](http://analisisydecision.es/probando-r-sobre-el-ec2-de-amazon/). En dicha ocasión utilicé la plataforma EC2 de Amazon: en resumidas cuentas, Amazon alquila servidores con diversas configuraciones de _software_ por horas a un precio muy competitivo y uno puede acceder a ellos vía ssh, instalar R, los paquetes necesarios, correr el código y descargar los resultados.
+Hace dos años hice, y dejé descrita, [mi primera incursión en la computación con R en la nube](https://analisisydecision.datanalytics.com/blog/probando-r-sobre-el-ec2-de-amazon/). En dicha ocasión utilicé la plataforma EC2 de Amazon: en resumidas cuentas, Amazon alquila servidores con diversas configuraciones de _software_ por horas a un precio muy competitivo y uno puede acceder a ellos vía ssh, instalar R, los paquetes necesarios, correr el código y descargar los resultados.
 
 Cloudnumbers ha desarrollado una interfaz entre el usuario y EC2 —que es quien finalmente proporciona los servidores— concebida para facilitar su manejo. Está pensada para quienes quieren aprovechar la capacidad de cálculo que proporciona la nube con diversas herramientas y, en particular, R.
 

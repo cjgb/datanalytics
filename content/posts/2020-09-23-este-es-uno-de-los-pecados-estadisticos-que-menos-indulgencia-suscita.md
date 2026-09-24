@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-09-23 09:12:00+00:00
 draft: false
-lastmod: '2025-04-06T19:01:39.213551'
+lastmod: '2026-09-24'
 related:
 - 2021-05-27-todavia-mas-sobre-las-proyecciones-de-poblacion-a-largo-plazo-del-ine.md
 - 2017-01-31-proyecciones-probabilisticas-de-poblacion.md
@@ -24,7 +24,7 @@ url: /2020/09/23/este-es-uno-de-los-pecados-estadisticos-que-menos-indulgencia-s
 
 **Nota para desavisados:** ¿veis cómo se comporta la varianza antes/después?
 
-**Otra nota:** la publicación de las proyecciones de población del INE es casi todos los años motivo de recochineo bloguero. Buscad (p.e., [aquí](http://www.datanalytics.com/tags/proyecciones/)) y encontraréis.
+**Otra nota:** la publicación de las proyecciones de población del INE es casi todos los años motivo de recochineo bloguero. Buscad (p.e., [aquí](http://datanalytics.com/tags/proyecciones/)) y encontraréis.
 
 **Nota final:** Sí, sí, una proyección es lo que ocurriría _si se mantuvieran las
 tendencias actuales_. Eso os dirán. Precisamente por eso, esta entrada y el gráfico de más arriba.

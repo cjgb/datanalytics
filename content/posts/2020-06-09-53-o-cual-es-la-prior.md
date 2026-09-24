@@ -4,7 +4,7 @@ categories:
 - estadística
 date: 2020-06-09 09:13:00+00:00
 draft: false
-lastmod: '2025-04-06T18:46:00.893360'
+lastmod: '2026-09-24'
 related:
 - 2020-06-16-coronavirus-prevalencia-sensibilidad-y-especificidad.md
 - 2020-04-27-muestreo-sensibilidad-y-especificidad.md
@@ -22,7 +22,7 @@ title: 53 (o, ¿cuál es la prior?)
 url: /2020/06/09/53-o-cual-es-la-prior/
 ---
 
-En la [documentación técnica del estudio ENE-COVID19](https://www.mscbs.gob.es/ciudadanos/ene-covid/docs/ESTUDIO_ENE-COVID19_INFORME_FINAL.pdf) (recuérdese: INE + ISCIII) se describe un estudio de fiabilidad previo del test rápido (sección A1.2) que se anuncia así:
+En la [documentación técnica del estudio ENE-COVID19](http://web.archive.org/web/20211126021610/https://www.mscbs.gob.es/ciudadanos/ene-covid/docs/ESTUDIO_ENE-COVID19_INFORME_FINAL.pdf) (recuérdese: INE + ISCIII) se describe un estudio de fiabilidad previo del test rápido (sección A1.2) que se anuncia así:
 
 >Según el fabricante, el test tiene una sensibilidad del 88% y 97% para determinar IgM e IgG respectivamente, y una especificidad de 100% frente a ambos isótopos. Para comprobar el comportamiento del test elegido, se han llevado a cabo dos estudios de fiabilidad.
 

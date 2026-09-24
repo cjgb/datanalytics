@@ -5,7 +5,7 @@ categories:
 - r
 date: 2015-09-14 08:13:50+00:00
 draft: false
-lastmod: '2025-04-06T19:09:18.881520'
+lastmod: '2026-09-24'
 related:
 - 2014-06-19-factorizaciones-positivas-de-matrices-igualmente-positivas.md
 - 2019-01-24-nmds-y-un-poquito-mas-alla.md
@@ -33,4 +33,4 @@ url: /2015/09/14/nmf-una-tecnica-mergente-de-analisis-no-supervisado/
 * Las que representan clientes (filas) que compran (un determinado número >= 0) de productos (columnas).
 * ...
 
-Y acabo con un instrumento (el [paquete `NMF`](https://cran.r-project.org/web/packages/NMF/index.html) de R) y el [análisis de una encuesta](http://www.oreilly.com/data/free/files/analyzing-the-analyzers.pdf) realizado con dicha técnica para que la veáis en acción.
+Y acabo con un instrumento (el [paquete `NMF`](https://cran.r-project.org/web/packages/NMF/index.html) de R) y el [análisis de una encuesta](http://web.archive.org/web/20220425195622/https://www.oreilly.com/data/free/files/analyzing-the-analyzers.pdf) realizado con dicha técnica para que la veáis en acción.

@@ -5,7 +5,7 @@ categories:
 - estadística
 date: 2014-06-23 07:27:45+00:00
 draft: false
-lastmod: '2025-04-06T18:50:03.542258'
+lastmod: '2026-09-24'
 related:
 - 2022-06-28-que-hace-avanzar-la-estadistica.md
 - 2017-01-24-las-tres-o-cuatro-eras-de-la-estadistica.md
@@ -22,7 +22,7 @@ title: Dos citas de 1983 sobre estadística y métodos computacionales
 url: /2014/06/23/dos-citas-de-1983-sobre-estadistica-y-metodos-computacionales/
 ---
 
-Rescato aquí para mis lectores dos citas de un artículo de 1983, [_Computer Intensive Methods in Statistics_](https://statistics.stanford.edu/sites/default/files/BIO%2083.pdf), de Efron y Diaconis, por dos motivos: su valor intrínseco y que consideren leer el resto, particularmente el principio y el final.
+Rescato aquí para mis lectores dos citas de un artículo de 1983, [_Computer Intensive Methods in Statistics_](http://web.archive.org/web/20160313214811/https://statistics.stanford.edu/sites/default/files/BIO%2083.pdf), de Efron y Diaconis, por dos motivos: su valor intrínseco y que consideren leer el resto, particularmente el principio y el final.
 
 La primera es (con mi traducción):
 

@@ -5,7 +5,7 @@ categories:
 - r
 date: 2012-08-06 07:31:47+00:00
 draft: false
-lastmod: '2025-04-06T19:05:59.247711'
+lastmod: '2026-09-24'
 related:
 - 2012-08-03-el-paquete-microdataes-para-microdatos-publicos.md
 - 2012-08-13-fallecimientos-y-microdatos.md
@@ -34,7 +34,7 @@ library(MicroDatosEs)
 epa <- epa2005("EPAwebT0112")
 ```
 
-se carga este fichero en R. El objeto resultante es de la clase `data.set`, una estructura de datos similar a un `dataframe` definido en el [paquete `memisc`](http://cran.r-project.org/web/packages/memisc/index.html) y que dispone de ciertos instrumentos y estructuras de datos que lo hacen muy adecuado para trabajar con información procedente de encuestas. De hecho, quien quiera usar R en este ámbito, haría bien en, cuando menos, familiarizarse con [la viñeta del paquete](http://cran.r-project.org/web/packages/memisc/vignettes/anes48.pdf).
+se carga este fichero en R. El objeto resultante es de la clase `data.set`, una estructura de datos similar a un `dataframe` definido en el [paquete `memisc`](http://cran.r-project.org/web/packages/memisc/index.html) y que dispone de ciertos instrumentos y estructuras de datos que lo hacen muy adecuado para trabajar con información procedente de encuestas. De hecho, quien quiera usar R en este ámbito, haría bien en, cuando menos, familiarizarse con [la viñeta del paquete](http://web.archive.org/web/20150419034719/http://cran.r-project.org/web/packages/memisc/vignettes/anes48.pdf).
 
 Para inspeccionar el contenido del objeto `epa` se puede hacer `summary(epa)` y luego seleccionar las variables de interés mediante
 

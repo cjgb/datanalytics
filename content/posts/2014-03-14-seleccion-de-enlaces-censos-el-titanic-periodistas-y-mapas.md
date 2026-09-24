@@ -5,7 +5,7 @@ categories:
 - r
 date: 2014-03-14 08:58:31+00:00
 draft: false
-lastmod: '2025-04-06T19:01:07.186434'
+lastmod: '2026-09-24'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2013-09-17-la-paradoja-de-simpson-en-el-6eiiic.md
@@ -26,7 +26,7 @@ El primer enlace de la selección de esta semana es [_The evolution of the moder
 
 Pero también corren tiempos en los que el mismo [diseño e implementación técnica de los censos](https://datanalytics.com/2014/01/03/los-censos-huelen-a-naftalina-y-son-muy-caros/) está siendo repensada: se pueden utilizar registros burocráticos, existe la posibilidad de recurrir al muestreo, etc. Vale la pena el artículo por poner todas estas cuestiones en perspectiva.
 
-El segundo enlace, [_Hidden Data and Surviving a Sinking Ship: Simpson's Paradox_](http://www.select-statistics.co.uk/article/blog-post/hidden-data-and-surviving-a-sinking-ship-simpsons-paradox), explica ([de nuevo](http://www.datanalytics.com/tags/paradoja-de-simpson/)) la paradoja de Simpson sobre un conjunto de datos bien conocido de los usuarios de R: [Titanic](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/Titanic.html).
+El segundo enlace, [_Hidden Data and Surviving a Sinking Ship: Simpson's Paradox_](http://www.select-statistics.co.uk/article/blog-post/hidden-data-and-surviving-a-sinking-ship-simpsons-paradox), explica ([de nuevo](http://datanalytics.com/tags/paradoja-de-simpson/)) la paradoja de Simpson sobre un conjunto de datos bien conocido de los usuarios de R: [Titanic](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/Titanic.html).
 
 En [_Make journalists learn statistics_](http://learnandteachstatistics.wordpress.com/2013/01/28/journalists/) se invita a los periodistas a familiarizarse con tres conceptos básicos de la estadística necesarios para su oficio: el azar, la representación de datos y la evidencia. Creo que no solo el periodismo sino muchas otras disciplinas se enriquecerían notablemente si incorporasen en su currículo nociones de _estadística cualitativa_ (pero no _cualquier_ estadística cualitativa, ¿eh?).
 

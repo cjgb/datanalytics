@@ -3,7 +3,7 @@ author: Carlos J. Gil Bellosta
 categories:
 - estadística
 date: 2015-11-30 12:26:23+00:00
-lastmod: '2025-04-06T19:11:10.547440'
+lastmod: '2026-09-24'
 related:
 - 2017-11-21-primeros-principios-para-la-estadistica-descriptiva.md
 - 2014-02-27-d-hand-sobre-estadistica-y-mineria-de-datos.md
@@ -19,7 +19,7 @@ url: /2015/11/30/estadistica-cualitativa/
 
 La estadística cualitativa es una disciplina que, creo, no existe. Igual, simplemente, no existe porque no tiene razón de ser. No he buscado aún sistemáticamente, pero mi memoria no da con algo que se le parezca.
 
-No es [Statistics for Dummies](http://www.math.uni.wroc.pl/~dyba/materials/dummies.pdf): en la misma portada del libro dice que te quiere enseñar _los cálculos y fórmulas esenciales_. Como diré más abajo, no van por ahí los tiros.
+No es [Statistics for Dummies](http://web.archive.org/web/20150404080551/http://www.math.uni.wroc.pl:80/~dyba/materials/dummies.pdf): en la misma portada del libro dice que te quiere enseñar _los cálculos y fórmulas esenciales_. Como diré más abajo, no van por ahí los tiros.
 
 Tampoco es la estadística descriptiva, que es lo menos estadístico que existe. Al menos, la que yo he visto, que tiende a ignorar, entre otras cosas, la variabilidad. La estadística descriptiva (insisto, la que yo conozco, como yo la he visto) es una rama de la aritmética, no de la estadística.
 
