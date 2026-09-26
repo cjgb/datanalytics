@@ -2,8 +2,8 @@
 author: Carlos J. Gil Bellosta
 categories:
 - números
-date: 2010-05-20 19:29:12+00:00
-lastmod: '2026-9-25'
+date: 2010-05-20
+lastmod: '2026-09-25'
 related:
 - 2011-03-21-estadistica-para-periodistas-y-escritores.md
 - 2012-02-23-higiene-numerica-para-periodistas.md
